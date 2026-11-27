@@ -21,86 +21,126 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/24 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131532700)
+
 Uyuşmazlığın çözümünde öncelikli olarak; hâkimin onayı ile kesinleşmiş mahkeme ilâmında yer alan, anlaşmalı boşanmaya dayanak protokol hükümlerinin hukuki niteliği hususu açıklığa kavuşturulmalıdır. Kanun koyucunun, 4721 sayılı Kanun'un 166/3 maddesinde yer verdiği "boşanmanın malî sonuçları ile çocukların durumu" şeklindeki lafzından; eşlerin birbirlerine karşılıklı olarak ödemekle yükümlü oldukları yoksulluk nafakası ve tazminatlar ile çocuklar bakımından geçerli olan velayet, kişisel ilişki ve iştirak nafakası konularını ayrı ayrı ele aldığı anlaşılmaktadır. Zira hâkim karar verirken; tarafların boşanmanın fer'i sonuçlarına ilişkin yapmış oldukları anlaşmaları (TMK md. 185/5) göz önünde tutabilirse de, özellikle velayet ve buna bağlı sonuçlar bakımından yapılacak olan düzenlemede eşlerin anlaşmış olması, hâkim yönünden bağlayıcı değildir.
 Buradan hareketle; tarafların üzerinde serbestçe tasarruf edebilme hakkına sahip oldukları yoksulluk nafakası ile tazminat edimlerinin sözleşmeden, buna karşılık çocuklara ilişkin velayet, kişisel ilişki ve iştirak nafakasına ilişkin hükümlerin ise mahkeme kararından sadır olduğu kabul edilmelidir (Turgut Öz, Soybağı Reddi Davasında İspat ve Süreler, Medeni Hukuk Alanındaki Güncel Yargıtay Kararlarının Değerlendirilmesi Sempozyumları, Cilt II: Aile Hukuku, Ed. Baki İlkay Engin, İstanbul-2019, s. 223).
 
 ## Yargıtay HGK 2023/1188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983284500)
+
 4\. 07.02.2018 tarihli ve 30325 sayılı Resmî Gazete’de yayımlanan Yabancı Ülke Adli ve İdari Makamlarınca Verilen Kararların Nüfus Kütüğüne Tescili Hakkında Yönetmeliğin 9 uncu maddesinin beşinci fıkrası uyarınca; yabancı ülke adli veya idari makamlarınca verilen kararlarda; velâyet, iştirak nafakası, çocuk ile kişisel ilişki kurulması, mal rejimi ve tazminat gibi, tenfize konu olan hüküm bulunması hâlinde, karar komisyonca boşanma, evliliğin butlanı, iptali ve mevcut olup olmadığının tespiti yönünden kabul edilir, incelenir, karar verilir ve sonucu ilgili taraflara ve il müdürlüğüne bildirilir. Komisyon kararı, yabancı ülke adlî veya idarî makamlarınca verilen kararlardaki velâyet, iştirak nafakası, çocuk ile kişisel ilişki kurulması, mal rejimi ve tazminat gibi tenfize konu olan hükümler bakımından bir sonuç doğurmaz. Komisyon kararına esas yabancı ülke adlî veya idarî makamlarınca verilen kararlardaki velâyet, iştirak nafakası, çocuk ile kişisel ilişki kurulması, mal rejimi ve tazminat gibi tenfize konu olan hükümler için taraflarca, 27.11.2007 tarihli ve 5718 sayılı Kanun uyarınca görevli ve yetkili mahkemelere kararın tanınması veya tenfizi için dava açılabilir.
 
 ## Yargıtay HGK 2023/672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920505300)
+
 Tedbir nafakası, 4721 sayılı Kanun'un "Geçici önlemler" başlıklı 169 uncu maddesi ile düzenlenmiş olup; buna göre boşanma veya ayrılık davası açılınca hâkim, davanın devamı süresince gerekli olan, özellikle eşlerin barınmasına, geçimine, eşlerin mallarının yönetimine ve çocukların bakım ve korunmasına ilişkin geçici önlemleri resen almakla yükümlüdür. Boşanma veya ayrılık davasının devamı sırasında, çocuk kendisine bırakılmamış olan eşin çocuğun bakımına ne ölçüde katılacağını hakim tedbir kararında açıklar. İşte uygulama ve öğretide alınan bu önlemin geçiciliğini daha açık vurgulamak amacıyla boşanmanın kesinleşmesine kadar olan dönem için çocuk yararına ödenen nafakaya tedbir, boşanma kesinleştikten sonra iştirak nafakası denilmektedir. Diğer bir ifadeyle boşanma davası içinde ileri sürülen iştirak nafakası hakkında; yargılama süresince tedbir nafakası, kararın kesinleşmesinden itibaren iştirak nafakası adı altında ödenmesine karar verilir.
 
 ## Yargıtay HGK 2023/49 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919437900)
 
 Yoksulluk ve iştirak nafakasına ilişkin ilâmın nafaka borçlusu, ilâma bağlı nafaka borcunu ödediğini İİK’nın 33 üncü maddesinin 1 inci fıkrasında sayılan belgelerden biri ile ispat etmek suretiyle icra mahkemesinden icranın geri bırakılması kararı alabilir. Bunun dışında, nafaka borcunun itfa edildiğinin ispatı bazı özellikler gösterir. Nafaka alacaklısı belli bir süre nafaka borçlusu ile oturup onun tarafından infak ve iaşe edilmişse, nafaka borçlusu bu süre için nafaka ödemekle yükümlü değildir. Meselâ, nafaka alacaklısı kadın, kocasıyla barışarak evine dönmüş ve kocası tarafından infak ve iaşe edilmiştir; veya nafaka alacaklısı çocuk annesinin yanından ayrılarak nafaka borçlusu olan babasının evine gelmiş ve babası tarafından infak ve iaşe edilmiştir. Buradaki nafaka borçlusu koca veya babanın, karısını veya çocuğunu infak ve iaşe ettiği süre için ayrıca nafaka ödeme yükümlülüğü yoktur.
 Bu hâlde, nafaka borçlusu kendisinden bu süreye ait nafakanın da istenmesi üzerine icra mahkemesinden bu süreye ait nafaka için icranın geri bırakılmasını isteyebilir ve bu fiilî durumu (hukuki fiili) İİK’nın 33 üncü maddesindeki belgelerle bağlı olmaksızın, her türlü delil ile bu arada tanık delili ile ispat edebilir (Kuru, s. 947-948).
 
 ## Yargıtay HGK 2022/1753 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858689500)
+
 Boşanma nedeni ile oluşan maddi tazminat TMK’nın 174. maddesinde “Mevcut veya beklenen menfaatleri boşanma yüzünden zedelenen kusursuz veya daha az kusurlu taraf, kusurlu taraftan uygun bir maddi tazminat isteyebilir” şeklinde, yoksulluk nafakası aynı Kanun’un 175. maddesinde “Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak koşuluyla geçimi için diğer taraftan malî gücü oranında süresiz olarak nafaka isteyebilir. Nafaka yükümlüsünün kusuru aranmaz” şeklinde ve son olarak iştirak nafakası ise Kanun’un 182. maddesinde “Velâyetin kullanılması kendisine verilmeyen eşin çocuk ile kişisel ilişkisinin düzenlenmesinde, çocuğun özellikle sağlık, eğitim ve ahlâk bakımından yararları esas tutulur. Bu eş, çocuğun bakım ve eğitim giderlerine gücü oranında katılmak zorundadır” şeklinde düzenleme altına alınmıştır. Toplanan deliller ve tüm dosya içeriğinden, boşanmaya sebebiyet veren olaylarda erkeğin tam kusurlu olduğu, kadının ise kusurlu bir davranışının ispatlanamadığı, kadın yararına TMK’nın 174/1. ve 175. maddelerinin koşullarının oluştuğu anlaşılmaktadır. Hâkim, TMK’nın 4.
 Maddesi ile TBK’nın 50 ve 51. maddeleri uyarınca gerçekleşen kusurun ağırlığı, tarafların ekonomik ve sosyal durumları ve hakkaniyet gereğince uygun bir maddi tazminat ile yoksulluk ve iştirak nafakasına hükmetme yetkisine sahiptir. Burada hâkime tanınan takdir hakkının maddi hukuktan kaynaklanan ve hukukî sonuca yönelik olarak kullanılan bir hukuka uygunluk sorunu olduğu tartışmasızdır.
 
 ## Yargıtay HGK 2022/1595 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870278000)
+
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre ortak çocuğun ihtiyaçlarına nazaran takdir edilen iştirak nafakası azdır. Mahkemece Türk Medeni Kanunu’nun 4. maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay HGK 2022/658 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794345200)
+
 Anne-babanın çocuklarının daha iyi bir hayata, geleceğe sahip olmaları için gerçekleştirmeye gayret ettikleri maddi harcamaların sınırları gerek kendileri gerekse çocuklarının değişen imkân, istek ve tercihleri çerçevesinde şekillenir. İştirak nafakası ise, yukarıda değinildiği üzere taraflarca belirlenen, bu olmadığı takdirde hâkim tarafından takdir olunan ve miktarı belli bir borçtur. Kişi elbette mahkeme kararına bağlanan nafaka miktarından daha fazlasını çocuğu için ödeyebilir. Ne var ki isteğe bağlı bu harcama nafaka borçlusunu, ihtilâf ortaya çıktığında, tabi olduğu ifa ve ispat koşullarını yerine getirme yükümlülüğünden kurtarmayacağı gibi hukuken sorumlu tutulduğu miktardan fazlasını kendi rızasıyla ödeyen iştirak nafakası yükümlüsü anne ya da baba, ahlakî bir görevin ifası niteliğindeki bu harcamalarının iadesini de isteyemez.
 
 ## Yargıtay HGK 2021/1586 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736978000)
 
 17\. 07.02.2018 tarihli ve 30325 sayılı Resmî Gazete’de yayımlanan Yabancı Ülke Adli ve İdari Makamlarınca Verilen Kararların Nüfus Kütüğüne Tescili Hakkında Yönetmeliğin 9. maddesinin 5. fıkrası uyarınca; yabancı ülke adlî veya idarî makamlarınca verilen kararlarda; velayet, iştirak nafakası, çocuk ile kişisel ilişki kurulması, mal rejimi ve tazminat gibi, tenfize konu olan hüküm bulunması hâlinde, karar komisyonca boşanma, evliliğin butlanı, iptali ve mevcut olup olmadığının tespiti yönünden kabul edilir, incelenir, karar verilir ve sonucu ilgili taraflara ve il müdürlüğüne bildirilir. Komisyon kararı, yabancı ülke adlî veya idarî makamlarınca verilen kararlardaki velayet, iştirak nafakası, çocuk ile kişisel ilişki kurulması, mal rejimi ve tazminat gibi tenfize konu olan hükümler bakımından bir sonuç doğurmaz.
 Komisyon kararına esas yabancı ülke adlî veya idarî makamlarınca verilen kararlardaki velayet, iştirak nafakası, çocuk ile kişisel ilişki kurulması, mal rejimi ve tazminat gibi tenfize konu olan hükümler için taraflarca, 27.11.2007 tarihli ve 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun (MÖHUK) uyarınca görevli ve yetkili mahkemelere kararın tanınması veya tenfizi için dava açılabilir.
 
 ## Yargıtay HGK 2021/1490 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724693500)
+
 İştirak nafakası ile ilgili diğer yasal düzenlemelerin incelenmesine gelince; TMK'nın 330. maddesine göre, iştirak nafakası çocuğun ihtiyaçları ile ana ve babanın hayat koşulları ve ödeme güçleri; diğer bir ifade ile tarafların ekonomik ve sosyal durumları gözetilerek belirlenir. Bunun yanında iştirak nafakası miktarının her zaman yeniden belirlenmesi de mümkündür. Nitekim TMK'nun “Durumun değişmesi” başlıklı 331. maddesi “Durumun değişmesi hâlinde hâkim, istem üzerine nafaka miktarını yeniden belirler veya nafakayı kaldırır” hükmünü içermektedir. Madde hükmünden de anlaşılacağı üzere çocuğun korunmasını amaçlayan iştirak nafakası davalarında hâkim; ana baba veya çocuğun durumlarının değişmesine bağlı olarak iştirak nafakasının miktarını somut olayın özelliklerine göre her zaman miktarın artırılmasına, azaltılmasına veya kaldırılmasına karar verebilir.
 
 ## Yargıtay HGK 2019/1191 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570959000)
 
 Buradan hareketle, mahkemece tarafların boşanmalarına esas alınan 10.07.2007 tarihli protokolün 4. maddesinde düzenlenen ve bankada bulunan 156.000TL tutarındaki meblağın müşterek çocuğun eğitim ve öğretim masrafları için davacı anneye davalı tarafından bırakıldığı, bu nedenle iştirak nafakasının toplu olarak ödendiği kabul edilmiş ise de, öncelikle bahsi geçen paranın tarafların ortak hesabında bulunduğu sabit olup; paranın tamamının davalıya ait olduğu, çocuk yararına harcanmak üzere anneye bırakıldığına yönelik mahkemenin kabulü gerçeği yansıtmamaktadır. İştirak nafakası özelliği gereği, 4721 sayılı TMK’nın 330. maddesine göre “irat” şeklinde karar verilmesi gerektiğinden, bu paranın iştirak nafakası olarak kararlaştırılmadığı da açıktır.
 
 ## Yargıtay HGK 2019/1153 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571014100)
+
 Türk Medeni Kanunu’nun 182. maddesi hükmüne göre; velayet kendisine verilmeyen eş, çocuğun bakım ve eğitim giderlerine (iştirak nafakası) gücü oranında katılmak zorundadır. Hâkim, istem hâlinde irat biçiminde ödenmesine karar verilen bu giderlerin gelecek yıllarda tarafların sosyal ve ekonomik durumlarına göre ne miktarda ödeneceğini karara bağlayabilir. Yine aynı Kanunun 327. maddesinde çocuğun bakımı, eğitimi ve korunması için gerekli giderlerin ana ve baba tarafından karşılanacağı öngörülmüştür.
 
 ## Yargıtay HGK 2019/1152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571015500)
 
 Yukarıda açıklanan yasa maddeleri birlikte değerlendirildiğinde, iştirak nafakası; çocuğun yaşı, eğitim durumu, günün ekonomik koşulları ile genel ihtiyaçlar ve ana ile babanın mali durumlarına göre takdir edilir. Buna göre, nafaka takdirinde; çocuğun yaşça büyümesi nedeniyle artan ihtiyaçları ile ana ve babanın mali durumlarındaki değişiklik araştırılıp, önceki nafaka takdirinde taraflar arasında sağlanan dengeyi koruyacak bir karar verilmelidir.
 
 ## Yargıtay HGK 2019/1151 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571016300)
+
 Nafaka miktarı, çocuğun ihtiyaçları ile ana ve babanın hayat koşulları ve ödeme güçleri dikkate alınarak belirlenir. Buna göre iştirak nafakası tayin edilirken mahkemece; çocuğun yaşının, eğitim durumunun, günün ekonomik koşullarındaki paranın alım gücünün ve anne babanın ekonomik ve sosyal durumlarının göz önünde bulundurulması gerekir.
 
 ## Yargıtay HGK 2019/918 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554345600)
 
 Ana babanın bakım yükümlülüğünün doğal sonucu olan iştirak nafakası, çocuğun korunmasına yönelik olup, kamu düzenine ilişkindir ve hâkim talep bulunmasa dahi kendiliğinden iştirak nafakasına hükmedebilecektir. Ancak velayet hakkı kendisine verilen eş iştirak nafakası istemediğini belirtmesi hâlinde hâkim, bu durumun çocuğun üstün yararını zedelemeyeceği kanaatine varması durumunda iştirak nafakasına hükmetmeyebilecektir.
 
 ## Yargıtay HGK 2019/51 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498784000)
+
 İştirak nafakası velayetin düzenlenmesine yönelik davalarda bu davaların ferîsi niteliğindedir. Bilindiği üzere ferî talepler asıl talebin sonuca bağlıdır. Diğer bir ifade ile iştirak nafakası eğer bir boşanma davasında velayete tabi çocuklar var ise, boşanma kararının varlığına, boşanma davasının kesinleşmesinden sonra açılan velayetin düzenlenmesine yönelik davalarda ise velayet talebinin kabulüne bağlı olup velayet hakkı kendisine verilen ana ya da baba yararına hükmedilecektir. Dolayısıyla velayet ve iştirak nafakası talebi arasında bir öncelik ya da sonralık ilişkisi bulunmayıp aslilik ve ferîlik ilişkisi söz konusudur. Ferî talebin asıl talepten bağımsız olarak istenmesi mümkün olmadığına göre velayetin değiştirilmesine konu bir davada da değiştirme talebinin reddi halinde çocuk için iştirak nafakasına hükmedilmeyecektir.
 
 ## Yargıtay HGK 2018/1052 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411377400)
+
 Diğer taraftan iştirak nafakası talep edebilmek için velayet hakkına sahip olmak gerekmektedir. Mahkemece verilen velayetin değiştirilmesi kararı da ancak kararın kesinleşmesiyle geçerlilik kazanacağından, iştirak nafakasının başlangıç tarihinin de velayetin değiştirilmesi kararının kesinleşme tarihi olması gerekmektedir.
 
 ## Yargıtay HGK 2016/635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/233315500)
 
 Bu genel açıklamaların ışığında somut olay değerlendirildiğinde; yerel mahkemece direnmeye ilişkin kısa kararda davalı lehine manevi tazminat, davacı için aylık 160,00 TL tedbir nafakası, müşterek çocuk için aylık 150,00 TL tedbir nafakası, çocuk için hükmedilen tedbir nafakasının karar kesinleştikten sora iştirak nafakası olarak devamına, davacının yoksulluk nafakası ile manevi tazminat taleplerinin reddine karar verildiği halde, direnme kararının hüküm kısmında tarafların boşanmalarına, davalı lehine manevi tazminat, davacı için aylık 160,00 TL tedbir nafakası, müşterek çocuk için aylık 150,00 TL tedbir nafakası, çocuk için hükmedilen tedbir nafakasının karar kesinleştikten sora iştirak nafakası olarak devamına, davacının yoksulluk nafakası ile manevi tazminat taleplerinin reddine karar verildikten sonra tekrar davalının manevi tazminat talebinin kabulüne ve davacı için aylık 160,00 TL tedbir nafakası, müşterek çocuk için aylık 150,00 TL tedbir nafakası, çocuk için hükmedilen tedbir nafakasının karar kesinleştikten sora iştirak nafakası olarak devamına, davacının yoksulluk nafakası ile manevi tazminat taleplerinin reddine karar verilmesi karşısında kısa karar ile gerekçeli karar
 arasında çelişki oluşturulduğu gibi bazı talepler hakkında iki kez hüküm kurulması nedeniyle de infazda tereddüt oluşturulması usul ve yasaya aykırıdır.
 
 ## Yargıtay HGK 2012/713 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77408400)
+
 Hukuk Genel Kurulu’ndaki görüşmeler sırasında, bir kısım üyeler tarafindan davacı hakkında iştirak nafakasının tahsili talebi ile icra takibi bulunması nedeniyle davacının bu davayı açmakta hukuki yararı bulunduğu görüşü ileri sürülmüş ise de, bu düşünce çoğunluk tarafindan, kanun gereği çocuğun reşit olması ile kendiliğinden sona eren iştirak nafakası nedeniyle davacı hakkında takibe devam edilmesi halinde davacının 2004 sayılı İcra ve İflas Kanunu’nun 16.maddesi uyarınca şikayet yoluna başvurma imkanı bulunması diğer bir ifade ile bir hakkın, mahkeme kararına gerek olmaksızın, başka bir yolla ve aynı ölçüde güvenli olarak elde edilebilmesinin mümkün bulunduğu bu durumda o hakla ilgili olarak dava açılmasında hukuki yararın bulunmaması, sonuca dava yoluna göre daha basit bir yolla kavuşma imkanının mevcut olması gerekçeleriyle kabul görmemiştir.
 
 ## Yargıtay HGK 2011/693 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17159900)
+
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre 13.05.1992 doğumlu müşterek çocuk C.. için takdir edilen tedbir ve iştirak nafakası çoktur. Mahkemece Türk Medeni Kanununun 4.maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun miktarda nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır...")…
 
 ## Yargıtay HGK 2010/297 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16992200)
 
 Özel Daire bozma ilamında da değinildiği üzere,Türk Medeni Kanunu'nun 330.maddesinde "Nafaka miktarı, çocuğun ihtiyaçları ile ana ve babanın hayat koşulları ve ödeme güçleri dikkate alınarak belirlenir. Nafaka miktarının belirlenmesinde çocuğun gelirleri de göz önünde bulundurulur.Nafaka her ay peşin olarak ödenir.Hakim istem halinde, irat biçiminde ödenmesine karar verilen nafakanın gelecek yıllarda tarafların sosyal ve ekonomik durumlarına göre ne miktarda ödeneceğini karara bağlayabilir." İştirak nafakası düzenlenmiştir.Yine Türk Medeni Kanunu'nun 331.maddesi; " Durumun değişmesi halinde hakim, istem üzerine nafaka miktarını yeniden belirler veya nafakayı kaldırır." hükmünde belirtildiği üzere, iştirak nafakasında artırım veya indirim istenebilmesi mümkündür.Ne var ki, nafaka miktarının arttırılması veya azaltılması için ya tarafların mali durumlarının değişmesi veya hakkaniyetin bunu öngörmesi gerekmektedir.Bozma ilamında da gerekçeleri belirtildiği üzere; dosya içeriğinden Burdur Aile Mahkemesi'nin 11.1.2007 tarih,18-10 sayılı ilamında "…
 
@@ -181,44 +221,66 @@ Açıklanan ilkelere göre somut olaya bakıldığında, tarafların gerçekleş
 
 ## Yargıtay 2. HD 2026/1568 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208902400)
+
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre ortak çocukları yararına hükmedilen iştirak nafakası azdır. Mahkemece, 4721 sayılı Kanun’un 4 üncü maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve kanuna aykırı görülmüş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/1428 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208653300)
 
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre ortak çocuk ...'nın ihtiyaçlarına nazaran takdir edilen iştirak nafakası fazladır. Mahkemece 4721 sayılı Türk Medeni Kanunu'nun 4 üncü maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/1230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207172100)
+
 Tarafların iddia, savunma ve dayandıkları belgelere, uyuşmazlığın hukuki nitelendirmesi ile uygulanması gereken hukuk kurallarına, dava şartlarına, yargılamaya hâkim olan ilkelere, ispat kurallarına ve temyiz olunan kararda belirtilen gerekçelere ve özellikle tedbir nafakasına ilişkin hükmün bozma kapsamı dışında kalarak kesinleştiği Mahkemece son karar tarihinden itibaren tedbir nafakası olarak hükmedilen nafakanın iştirak nafakası niteliğinde olduğundan sonuca etkili olmadığının ve iştirak nafakasının boşanma kararının kesinleşmesinden itibaren hüküm ifade edeceğinin anlaşılmasına göre davacı kadının tüm; davalı erkeğin aşağıdaki paragraf kapsamı dışında kalan temyiz itirazları yerinde görülmemiştir.
 
 ## Yargıtay 2. HD 2026/1130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206500700)
 
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre velâyetleri anneye verilen ortak çocuklar yararına takdir edilen iştirak nafakaları azdır. Mahkemece 4721 sayılı Kanun’un hakkaniyet ilkesi ile ilgili 4 üncü maddesi de dikkate alınarak daha uygun miktarda nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/867 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206021600)
+
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre ortak çocuk ...'ün ihtiyaçlarına nazaran yararına hükmedilen iştirak nafakası azdır. Mahkemece, 4721 sayılı Kanun’un 4 üncü maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/860 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205998600)
 
 Davacı kadın tarafından İlk Derece Mahkemesinde görülen yargılama sırasında 24.08.2023 tarihli son celsede çocuklar yönünden iştirak nafakası talebinin artırıldığı anlaşılmaktadır. Çocuklara yönelik iştirak nafakasına Mahkemece re'sen hükmedilebileceği, yine yargılama aşamasında da her zaman istenebileceği; sonradan istenmesi veya isteğin artırılmasının iddianın genişletilmesi niteliğinde bulunmadığı gibi artırım veya istek için ıslah talebinde bulunulmasına da gerek olmadığı dikkate alındığında tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre ortak çocuk ... yararına hükmedilen iştirak nafakası azdır. Mahkemece, 4721 sayılı Kanun’un 4 üncü maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve kanuna aykırı görülmüş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/11692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204676300)
+
 Yoksulluğa düşen taraf iştirak nafakası ödeyemez. Bu sebeple yukarıda (2) numaralı paragrafta açıklandığı üzere mahkemece yapılacak araştırma sonrası kadının yoksulluğa düşeceği anlaşılarak kadın lehine yoksulluk nafakası takdir edilmesi halinde kadın aleyhine iştirak nafakasına hükmedilmesi mümkün değildir. Bu yönde araştırma sonucuna göre iştirak nafakası hususunda yeniden hüküm tesis edilmesi gerekmekte olup eksik inceleme ile kadın aleyhine iştirak nafakası takdiri hatalı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/11663 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205133700)
 
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre ortak çocukların ihtiyaçlarına nazaran takdir edilen iştirak nafakası azdır. Mahkemece 4721 sayılı Türk Medeni Kanunu'nun 4 üncü maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun miktarda nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/10891 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188049100)
+
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre ortak çocuğun ihtiyaçlarına nazaran takdir edilen iştirak nafakası bozmanın amacına uygun olmayıp azdır. Mahkemece Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/9982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188097700)
+
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre, velâyeti anneye verilen ortak çocuk .......... yararına takdir edilen iştirak nafakası azdır. Mahkemece 4721 sayılı Kanun’un hakkaniyet ilkesi ile ilgili 4 üncü maddesi de dikkate alınarak daha uygun miktarda nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm tesisi usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/8441 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200585700)
 
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre ortak çocuğun ihtiyaçlarına nazaran ortak çocuk .... yararına takdir edilen iştirak nafakası azdır. Mahkemece, 4721 sayılı Kanun'un 4 üncü maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun nafakaya hükmedilmesi gerekir. Bu husus gözetilmeden yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.

@@ -1,10 +1,10 @@
 {
- "baglanti_mrfg_id": 66776,
+ "baglanti_mrfg_id": 76544,
  "bedesten_kontrol": {
-  "tutar": 140
+  "tutar": 160
  },
- "bedesten_kontrol_edilen": 140,
- "cok_aday": 62,
+ "bedesten_kontrol_edilen": 160,
+ "cok_aday": 86,
  "derleme": {
   "adi-ortaklik": {
    "eslesmedi": 116,
@@ -26,10 +26,10 @@
    "kesin": 3396
   },
   "bosanma": {
-   "cok_aday": 36,
-   "eslesmedi": 316,
-   "hatali_kunye": 11,
-   "kesin": 19953
+   "cok_aday": 60,
+   "eslesmedi": 462,
+   "hatali_kunye": 14,
+   "kesin": 26601
   },
   "cisg": {
    "eslesmedi": 1,
@@ -74,6 +74,11 @@
    "kesin": 14142,
    "olasi": 43
   },
+  "mal-rejimi": {
+   "eslesmedi": 58,
+   "hatali_kunye": 1,
+   "kesin": 3120
+  },
   "muris-muvazaasi": {
    "eslesmedi": 6,
    "kesin": 45,
@@ -100,35 +105,35 @@
    "kesin": 142
   }
  },
- "eslesmedi": 2858,
- "hatali_kunye": 40,
- "islenen": 70000,
+ "eslesmedi": 3062,
+ "hatali_kunye": 44,
+ "islenen": 80000,
  "kapsam_disi": 183,
  "kaynak": "hf:mrfg/turkish-court-decisions@e9062174adcdee8386b94cebd01df7264268e86b",
  "nedenler": {
-  "2_aday": 62,
+  "2_aday": 86,
   "alinti_kismen_uyuyor": 5,
   "alinti_uyusmuyor": 8,
   "alinti_yok": 74,
-  "esas_veya_tarih_uyusmuyor": 249,
-  "hatali_kunye": 40,
+  "esas_veya_tarih_uyusmuyor": 252,
+  "hatali_kunye": 44,
   "kapsam_disi": 183,
   "kisa_alinti": 2,
-  "veri_setinde_anahtar_yok": 2601
+  "veri_setinde_anahtar_yok": 2802
  },
  "olasi": 81,
- "son_checkpoint": "parti 07 (60001-70000) 2026-11-27T18:46:34",
- "son_commit": "94e56ce Bedesten: batch 06 — 10,000 processed, 9,805 linked (mrfg_id), 20 Bedesten-checked",
- "son_push": "94e56ce",
+ "son_checkpoint": "parti 08 (70001-80000) 2026-11-27T18:52:52",
+ "son_commit": "d7944ae Bedesten: batch 07 — 10,000 processed, 9,842 linked (mrfg_id), 20 Bedesten-checked",
+ "son_push": "d7944ae",
  "toplam_kunye": 133954,
  "tur": {
   "aym": {
    "kapsam_disi": 95
   },
   "bam": {
-   "eslesmedi": 1088,
+   "eslesmedi": 1092,
    "hatali_kunye": 15,
-   "kesin": 5864,
+   "kesin": 5910,
    "olasi": 3
   },
   "danistay": {
@@ -142,13 +147,13 @@
    "kapsam_disi": 85
   },
   "yargitay": {
-   "cok_aday": 62,
-   "eslesmedi": 1601,
-   "hatali_kunye": 25,
-   "kesin": 59620,
+   "cok_aday": 86,
+   "eslesmedi": 1801,
+   "hatali_kunye": 29,
+   "kesin": 69342,
    "olasi": 78
   }
  },
  "url_bicimi": "https://mevzuat.adalet.gov.tr/ictihat/{documentId}",
- "yuzde": 52.26
+ "yuzde": 59.72
 }

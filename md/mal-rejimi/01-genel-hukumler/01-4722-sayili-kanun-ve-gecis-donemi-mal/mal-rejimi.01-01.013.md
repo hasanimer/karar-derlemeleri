@@ -22,27 +22,39 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2010/4746 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546133300)
+
 Taraflar 1985 yılında evlenmiş, 3.3.1997 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün kesinleşmesiyle 20.2.2001 tarihinde boşanmışlardır. Dosya arasında bulunan kayıt ve belgelere göre; dava konusu olan taşınmazlardan Konya İli Meram İlçesi dahilindeki taşınmazın 5.8.1991 tarihinde, Konya İli Karatay İlçesi dahilinde kalan tüm taşınmazların 15.10.1996 tarihinde, ... İli Çankaya İlçesi dahilinde kalan taşınmazların ise 14.10.1996 tarihinde edinilerek davalı adına tescil edildikleri, Bozyazı İlçesi dahilinde kalan dublex meskenin ise öncesinin SS Öncü Destek Yapı Kooperatifine ait olduğu ve davacı ...’ın bu kooperatifteki hissesini 14.5.1997 tarihinde davalıya bedeli karşılığında devretmesi nedeniyle kooperatifin hissedarı haline gelen davalı adına 20.6.1997 tarihinde ferdileşme nedeniyle tapuya tescil edildiği anlaşılmıştır. Bu durumda edinilen taşınmazlar taraflar arasında 743 sayılı TKM. nin 170. maddesi gereğince mal ayrılığı rejiminin geçerli olduğu döneme ilişkindir. O halde uyuşmazlığın, Borçlar Kanununun genel hükümlerine göre çözüme kavuşturulması gerektiği hususunda duraksamamak gerekir. 743 sayılı TKM.nin yürürlükte olduğu;
 1.1.2002 tarihinden önce eşler arasında yasal mal ayrılığının geçerli olduğu dönemde karı ve kocanın diğerinden katkı payı karşılığında bir tazminat isteyebilmesi için mutlaka parasal veya para ile ölçülebilen maddi bir değer koymak suretiyle katkısının olması gerekir. Eşlerden birinin edindiği mala diğer eşin doğrudan maddi bir katkısı yoksa, bu talep kabul edilemez. Dosya arasında bulunan, kayıt ve belgeler ile dosya kapsamına göre, davacının subay, davalının ise diş hekimi olarak çalışmakta olduğu düzenli gelire sahip bulundukları anlaşılmaktadır. Her ne kadar davalı vekili dava konusu taşınmazların edinilmesine davacının hiç bir katkısının olmadığını ileri sürmekte ise de, düzenli olarak çalışan ve hiç de küçümsenmeyecek bir gelire sahip bulunan davacının katkısının olmadığı düşünülemez.
 
 ## Yargıtay 8. HD 2010/4744 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546135100)
 
 Taraflar 25.3.1998 tarihinde evlenmiş, 8.6.2005 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün kesinleşmesiyle 10.12.2007 tarihinde boşanmışlardır. Başka mal rejimi seçilmediğinden eşler arasında 1.1.2002 tarihine kadar mal ayrılığı, (743 sayılı TKM. m. 170), bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar ise yasal edinilmiş mallara katılma rejimi geçerlidir (TMK. m 202, 225). Taraflar arasında görülen Ankara 5. Aile Mahkemesinin 2006/1343 Esas ve 2009/ 1006 Karar sayılı dava dosyasındaki bilgi, belge ve bilirkişi raporlarına göre; dava konusu olan taşınmazın öncesinin SS Tezkonak Yapı Kooperatifi adına kayıtlı bulunduğu, davalının 1.5.2000 tarihinde Emine Kızılkaya isimli kişinin hissesini 10500 TL bedelle satın alarak kooperatif üyesi haline geldiği ve bundan sonra kooperatife 1.1.2002 tarihine kadar 3152 TL, 1.1.2002 tarihinden sonra da 1697,5 TL olmak üzere toplam 4849,775 TL ödediği ve ödemelerin bitmesinden sonra yapılan tahsis nedenine dayanılarak 20.12.2002 tarihinde davalı adına tapuya tescil edildiği anlaşılmıştır.
 Dava konusu taşınmaza ait kooperatif hissesi davalı tarafından 1.5.2000 tarihinde alındığına ve daha sonra yapılan ödemeler ağırlıklı olarak 1.1.2002 tarihinden önce yapıldığına ve bu dönem 743 sayılı TKM’nin 170. maddesine göre eşler arasında mal ayrılığı rejiminin geçerli olduğu döneme ilişkin bulunduğuna göre, taraflar arasındaki taşınmaza ilişkin uyuşmazlığın Borçlar Kanununun genel hükümlerine göre çözüme kavuşturulması gerekmektedir. Bu durumda tarafların boşanmalarından sonra 1.1.2002 tarihinde yürürlüğe giren 4721 sayılı TMK. nun 178. maddesinde düzenlenen dava zamanaşımına ilişkin düzenlemenin eldeki davaya konu taşınmaz bakımından uygulanamayacağı, taraflar arasındaki taşınmaza ilişkin uyuşmazlıkta Borçlar Kanununun başka türlü hüküm mevcut olmadığı taktirde her dava için öngördüğü 10 yıllık zamanaşımı süresini öngören 125. maddesindeki düzenlemenin uygulanması gerektiği hususunda duraksama bulunmadığından davalı vekilinin taşınmaza ilişkin olarak dile getirdiği zamanaşımı definin dikkate alınmaması sonuç itibariyle doğru olmaktadır.
 
 ## Yargıtay 8. HD 2010/4533 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/545590100)
+
 Taraflar 07.04.1997 tarihinde evlenmişler, 03.07.2006 tarihinde açılan dava sonunda boşanmışlar, karar 11.07.2006 tarihinde kesinleşmiştir. Eşler, başka mal rejimini seçmediklerinden 01.01.2002 tarihine kadar 743 sayılı MK.nun 170. maddesine göre mal ayrılığı, bu tarihten mal rejiminin sona erdiği 03.07.2006 tarihine kadar ise, edinilmiş mallara katılma rejimi (TMK. m. 202, 4722 s.Yürürlük K.m.10/1) geçerlidir. Dava konusu 8782 ada 1 parselde bulunan 15 nolu bağımsız bölüm davalı adına kayıtlı olup, eşler arasında edinilmiş mallara katılma rejiminin geçerli olduğu 07.03.2005 tarihinde edinilmiştir.
 
 ## Yargıtay 8. HD 2010/4390 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543224600)
 
 Mal ayrılığında ; eşlerden her biri, kendi malları üzerinde tasarruf yetkisine ve intifa hakkına sahiptir ve mallarının idaresi kendisine aittir (TKM.186/1). Eşlerden her birinin mallarının geliri ve kendi kazançları yine kendilerine aittir (TKM.m.189). 1.1.2002 tarihinde yürürlüğe giren 4721 sayılı TMK.nun 220/2. maddesine göre; mal rejiminin başlangıcında eşlerden birine ait bulunan mal varlığı değerleri kişisel malıdır. Bu açıklamalara göre, dava konusu 533 ada 25 parsel ölen eş ...'ın kişisel malıdır.
 
 ## Yargıtay 8. HD 2010/4383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543689100)
+
 Taraflar 21.11.1976 tarihinde evlenmiş, 26.3.2004 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün kesinleşmesiyle 26.9.2007 tarihinde boşanmışlardır. Başka mal rejimi seçilmediğinden eşler arasında evlenme tarihinden 1.1.2002 tarihine kadar mal ayrılığı, (743 TKM.nin m. 170). Bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı 26.3.2004 tarihine kadar ise yasal edinilmiş mallara katılma rejimi geçerlidir. (TMK.m.202/1,225) Dosya arasında bulunan tapu kayıt örneklerine göre; dava konusu 6597 ada 9 ve 10 parsel sayılı taşınmazların 26.10.1995 tarihinde satın alma yolu ile davalı ... adına tescil edildiği daha sonra yapılan imar uygulaması sonucunda da 6597 ada 15 ve 16 parseller olarak 17.12.1998 tarihinde ve arsa niteliği ile davalı ... adına tapuya tescil edildikleri anlaşılmaktadır. Yerinde yapılan keşfe bağlı olarak inşaat mühendisi bilirkişi Berna Özden tarafından düzenlenerek dosyaya sunulan 17.12.2009 günlü rapordaki açıklamalara göre de; dava konusu, 6597 ada 10 parsel sayılı taşınmaz üzerinde, zemin kat ve üç normal kattan oluşan bir bina bulunduğu, diğer dava konusu taşınmazın ise halen arsa niteliğinde olduğu anlaşılmaktadır.
 
 ## Yargıtay 8. HD 2010/4382 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543693200)
 
 Taraflar 31.8.1996 tarihinde evlenmiş, 22.12.2006 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün kesinleşmesi ile 7.2.2008 tarihinde boşanmışlardır. Başka mal rejimi seçilmediğinden taraflar arasında 1.1.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açılma tarihine kadar yasal edinilmiş mallara katılma rejimi geçerlidir. Dava konusu mesken 7.12.1998 tarihinde edinilerek paylı mülkiyet hükümleri uyarınca taraflar adına kaydedildiğine, taşınmazda yapılan tadilatların da 1999 yılının 6. ayına kadar yapılıp bitirildiği anlaşıldığına ve bu tarihler 743 sayılı TKM’nin 170. maddesine göre eşler arasında mal ayrılığı rejiminin geçerli olduğu döneme ilişkin bulunduğuna göre, taraflar arasındaki uyuşmazlığın Borçlar Kanununun genel hükümlerine göre çözüme kavuşturulması gerekmektedir.
 6500 TL bedelle satın alındığı konusunda taraflar arasında uyuşmazlık bulunmayan taşınmazın alımı sırasında davacının babası tarafından 3500 TL gönderildiği banka kayıtları ve davacı tanık beyanları ile sabit ise de; bu bedelin taraflarca geri ödenip ödenmediği belirlenemediği gibi sadece davacı adına verilen bir miktar olduğu da kesin olarak kanıtlanamamıştır. Bedelin geri kalan bir bölümünün tarafların ortak tanığı Lale Kantürk’ten alınan 4000 Dolar (1250 TL) borçla ödendiği anlaşılmakta ise de; alınan borcun evlilik birliği içinde geri ödenmesi nedeniyle borç ödemesinin sadece davacı tarafından karşılandığının kabulüne de olanak bulunmamaktadır. Dava konusu meskenin bedelinin ödenmesinde kullanılan ve düğünde takıldığı anlaşılan altınların taraflara mı yoksa sadece birine mi ait olduğu tam olarak belirlenemediğine göre, ortak olduğu kabul edilmelidir.
@@ -51,39 +63,57 @@ Borçlar Kanununun 244 ve devamı maddeleri gereğince bağıştan rücu'yu öng
 
 ## Yargıtay 8. HD 2010/4377 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543707400)
+
 Taraflar 14.9.1983 tarihinde evlenmiş, 1.7.2005 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün kesinleşmesi ile 28.5.2008 tarihinde boşanmışlardır. Başka mal rejimi seçilmediğinden; taraflar arasında 1.1.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açılma tarihine kadar yasal edinilmiş mallara katılma rejimi geçerlidir. 743 sayılı TKM’nin 170. maddesine göre eşler arasında mal ayrılığı rejiminin geçerli olduğu dönemde edinilen mal varlıklarına ilişkin uyuşmazlığın Borçlar Kanununun genel hükümlerine göre; 1.1.2002 tarihinden sonra edinilen mal varlıklarına ilişkin uyuşmazlığın da eklenecek değerlerden (TMK.m.229) ve denkleştirmeden (TMK.m.230) elde edilen miktarlar da dahil olmak üzere edinilmiş malın (TMK.m.219) toplam değerinden mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK.m.231) yarısı üzerinden (TMK.m.236/1) tarafların hak sahibi oldukları hususu dikkate alınarak çözüme kavuşturulması gerekir. Edinilmiş mallara katılma rejiminde tarafların dava konusu mal varlığının edinilmesinde maddi bir katkısının bulunup bulunmadığına bakılmaz.
 
 ## Yargıtay 8. HD 2010/4223 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543500600)
 
 Dava konusu 178 parsel 21.11.1985 tarihinde davalı adına tescil edilmiştir. Davacı tarafından katkının yapıldığı ve taşınmazın edinildiği tarih itibariyle eşler arasında 743 sayılı MK.nun 170. maddesi uyarınca “mal ayrılığı” rejimi geçerlidir. Eşler arasındaki mal rejimi TMK.nun 225/2. maddesine göre boşanma davasının açıldığı tarih itibariyle sona ermiştir. Dava konusu taşınmazın edinildiği tarihe göre, eşler arasında 743 sayılı MK.nun 170. maddesi hükmü uyarınca mal ayrılığı rejimi geçerli olduğundan uyuşmazlık Borçlar Kanunu’nun genel hükümlerine göre çözüme kavuşturulmalıdır. Bu durumda 1.1.2002 tarihinde yürürlüğe giren 4721 sayılı TMK.nun 178.maddesinde düzenlenen dava zamanaşımına ilişkin düzenleme eldeki davaya uygulanamaz.Taraflar arasındaki uyuşmazlıkta Borçlar Kanununun başka türlü hüküm mevcut olmadığı takdirde TMK. nun 5. maddesi yoluyla her dava için öngörülen 10 yıllık zamanaşımı süresini öngören 125.maddesindeki düzenlemenin uygulanması gerektiği açıktır. Yabancı mahkeme kararının kesinleştiği 26.11.1998 tarihinden davanın açıldığı 19.07.2007 tarihine kadar zamanaşımı süresi dolmamıştır.
 Mahkemece, iddia ve savunma çerçevesinde tüm taraf delillerinin toplanması ve uyuşmazlığın esası bakımından karar verilmesi gerekirken, dava konusu taşınmazın edinildiğinin ve katkıda bulunulduğunun ileri sürüldüğü tarih itibariyle uyuşmazlığın 1.1.2002 tarihinden önceye ilişkin olduğu gözden kaçırılarak yukarıda yazılı gerekçeyle davanın reddine karar verilmiş olması doğru değildir.
 
 ## Yargıtay 8. HD 2010/3922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543032700)
+
 Taraflar 29.12.1988 tarihinde evlenmiş, 21.2.2005 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün kesinleşmesiyle 13.4.2006 tarihinde boşanmışlardır. Başka mal rejimi seçilmediğinden eşler arasında evlenme tarihinden 1.1.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı 21.2.2005 tarihine kadar ise yasal edinilmiş mallara katılma rejimi geçerlidir (TMK. m.202,225/2).
 
 ## Yargıtay 8. HD 2010/3896 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17035900)
 
 Davacı tarafından katkının yapıldığı ve taşınmazın kooperatif üyeliği ile edinildiği iddia edilen tarih itibariyle eşler arasında 743 sayılı MK.nun 170. maddesi uyarınca "mal ayrılığı" rejimi geçerlidir. Eşler arasındaki mal rejimi TMK.nun 225/2. maddesine göre boşanma davasının açıldığı tarih itibariyle sona ermiştir. Dava konusu taşınmazın edinildiginin ileri sürüldüğü tarihe göre, eşler arasında 743 sayılı MK.nun 170. maddesi hükmü uyarınca mal ayrılığı rejimi geçerli olduğundan uyuşmazlık Borçlar Kanunu'nun genel hükümlerine göre çözüme kavuşturulmalıdır. Bu durumda 01.01.2002 tarihinde yürürlüğe giren 4721 sayılı TMK.nun 178. maddesinde düzenlenen dava zamanaşımına ilişkin düzenleme eldeki davaya uygulanamaz. Taraflar arasındaki uyuşmazlıkta Borçlar Kanununun başka türlü hüküm mevcut olmadığı takdirde TMK.nun 5. maddesi yoluyla her dava için öngörülen 10 yıllık zamanaşımı süresini öngören 125. maddesindeki düzenlemenin uygulanması gerektiği açıktır.
 Mahkemece, iddia ve savunma çerçevesinde tüm taraf delillerinin toplanması ve uyuşmazlığın esası bakımından karar verilmesi gerekirken, dava konusu taşınmazın edinildiginin ve katkıda bulunulduğunun ileri sürüldüğü tarih itibariyle uyuşmazlığın 01.01.2002 tarihinden önceye ilişkin olduğu gözden kaçırılarak yukarıda yazılı gerekçeyle davanın reddine karar verilmiş olması doğru değildir.
 
 ## Yargıtay 8. HD 2010/3789 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543047400)
+
 Dava konusu taşınmazların ve eczanenin edinildiğinin ileri sürüldüğü tarihe göre, eşler arasında 743 sayılı MK.nun 170. maddesi hükmü uyarınca mal ayrılığı rejimi geçerli olduğundan uyuşmazlık Borçlar Kanununun genel hükümlerine göre çözüme kavuşturulmalıdır. Bu durumda 1.1.2002 tarihinde yürürlüğe giren 4721 sayılı TMK.nun 178.maddesinde düzenlenen dava zamanaşımına ilişkin düzenleme eldeki davaya uygulanamaz. Taraflar arasındaki uyuşmazlıkta Borçlar Kanununun başka türlü hüküm mevcut olmadığı takdirde her dava için öngörülen 10 yıllık zamanaşımı süresini öngören 125.maddesindeki düzenlemenin uygulanması gerektiği açıktır. Mahkemece, iddia ve savunma çerçevesinde tüm taraf delillerinin toplanması ve uyuşmazlığın esası bakımından karar verilmesi gerekirken, dava konusu taşınmazların ve eczanenin edinildiğinin ileri sürüldüğü tarih itibariyle uyuşmazlığın 1.1.2002 tarihinden önceye ilişkin olduğu gözden kaçırılarak yukarıda yazılı gerekçeyle davanın reddine karar verilmiş olması doğru değildir.
 
 ## Yargıtay 8. HD 2010/3605 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543025300)
 
 Taraflar 21.10.2000 tarihinde evlenmişler, ....Aile Mahkemesinde 15.09.2005 ve 05.10.2005 tarihlerinde karşılıklı açılan boşanma davalarının kabulüne ilişkin hükmün 06.03.2007 tarihinde kesinleşmesiyle boşanmışlardır. 01.01.2002 tarihine kadar 743 sayılı Türk Kanunu Medenisinin 170.maddesi gereğince taraflar arasında mal ayrılığı, 4721 sayılı TMK’nun yürürlüğe girdiği 01.01.2002 tarihinden itibaren boşanma davalarının açıldığı 15.09.2005-05.10.2005 tarihlerine kadar sözleşme ile başka mal rejimi seçilemediğinden TMK.nun 202 maddesi gereğince yasal edinilmiş mallara katılma rejimi geçerli olup, boşanma davalarının açıldığı tarihlerde edinilmiş mallara katılma rejimi sona ermiştir. (TMK. m. 225/son).
 
 ## Yargıtay 8. HD 2010/3580 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540968800)
+
 Taraflar 17.9.1994 tarihinde evlenmişler, 22.04.2005 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün kesinleşmesiyle 14.2.2006 tarihinde boşanmışlardır. Sözleşmeyle başka mal rejimi seçilmediğinden eşler arasında 01.01.2002 tarihine kadar mal ayrılığı (743 sayılı TKM.170), bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar yasal edinilmiş mallara katılma rejimi geçerlidir (TMK.nun 202, 225/son). Davalı-karşı davacı ... tarafından dava konusu yapılan katkı payı alacağı isteğine konu, 1193 ada 2 , 2280 ve 2331 parsel sayılı taşınmazlar ile 780 ada 6 parsel sayılı taşınmaz ve bu taşınmaz üzerinde bulunan meskenin kaba inşaat kısmı 743 sayılı TKM’nin 170. maddesine göre eşler arasında mal ayrılığı rejiminin geçerli olduğu dönemde edinilmişlerdir. Bu durumda bu taşınmazlara ilişkin taraflar arasındaki uyuşmazlığın Borçlar…
 
 ## Yargıtay 8. HD 2010/3577 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541193900)
+
 Taraflar 12.1.1994 tarihinde evlenmiş, 17.11.2006 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün kesinleşmesiyle 2.6.2008 tarihinde boşanmışlardır. Başka mal rejimi seçilmediğinden eşler arasında evlenme tarihinden 1.1.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar ise yasal edinilmiş mallara katılma rejimi geçerlidir. (TMK.m.222/1 ve 225/son)…
 
 ## Yargıtay 8. HD 2010/3576 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541155400)
 
 Taraflar 1.7.1976 tarihinde evlenmiş, davalı ... tarafından 16.4.2003 tarihinde açılan boşanma davasının retle sonuçlanması ve bu ret kararının 20.4.2006 tarihinde kesinleşmesinden önce davacı ... tarafından 6.4.2006 tarihinde açılan boşanmaya ilişkin hükmün kesinleşmesiyle 25.10.2007 tarihinde boşanmışlardır. Dosya arasındaki kayıt ve belgelere göre dava konusu taşınmazlar arasında 1.1.2002 tarihinden sonra edinilen taşınmaz bulunmamaktadır. Dava konusu araç da 22.7.1999 tarihinde edinilmiştir. Bu durumda taraflar arasındaki uyuşmazlığın 743 sayılı TKM’nin 170. maddesine göre eşler arasında mal ayrılığı rejiminin geçerli olduğu döneme ilişkin bulunduğu ve uyuşmazlığın Borçlar Kanununun genel hükümlerine göre çözüme kavuşturulması gerektiği hususunda duraksama bulunmamaktadır. Borçlar Kanunu hükümlerine göre çözümlenmesi gereken uyuşmazlıklarda katkı payı alacağının belirlenmesine esas değer malın dava tarihindeki değeri olup, 743 sayılı TKM.nın yürürlükte olduğu;
 1.1.2002 tarihinden önce eşler arasında yasal mal ayrılığının geçerli olduğu dönemde karı ve kocanın diğerinden katkı payı karşılığında bir tazminat isteyebilmesi için mutlaka parasal veya para ile ölçülebilen maddi bir değer koymak suretiyle katkısının bulunması gerekir. Bundan ayrı, aynı kanunun 153. maddesi gereğince eve kadın bakar. Başka bir anlatımla kadının eve ve çocuklarına bakması, ev işleri yapması onun yasal ödevidir. Eşlerden birinin edindiği mala diğer eşin doğrudan maddi bir katkısı yoksa, bu talep kabul edilemez. Dosya arasında bulunan ve taraflarca bir itiraza uğramayan kayıt ve belgeler ile dosya kapsamına göre, davacının evlendiği tarihten Simens’ te çalışmaya başladığı 1986 yılına kadar kayıtlı ve düzenli bir çalışmasının bulunmadığı anlaşılmaktadır. Her ne kadar davacı tanıkları, davacının düzenli olarak çalışmaya başlamadan önce Almanya’da çeşitli yerlerde temizlik işleri yaptığını ve eşine ait markette çalıştığını bildirmişler ise de, bu tanıklar çalışmaların süresi ve yoğunluğu, çalışmalar karşılığında elde edilen gelirin ne olduğu gibi konularda somut açıklamalarda bulunamamışlardır.
@@ -91,10 +121,14 @@ Bu denli soyut denetimden uzak beyanlarla davacının 1986 yılından önce de �
 
 ## Yargıtay 8. HD 2010/3138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17055600)
+
 Taraflar arasında başka bir mal rejimi seçildiği ileri sürülmediğine göre, evlenme tarihinden 4721 sayılı TMK.nun yürürlüğe girdiği 01.01.2002 tarihinekadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar TMK.nun 202. maddesine göre yasal edinilmiş mallara katılma rejimine tabidirler. Davacı tarafından katkının yapıldığı ve taşınmazın satın alındığı iddia edilen tarih (1998) itibariyle eşler arasında 743 sayılı MK.nun170. maddesi uyarınca "mal ayrılığı" rejimi geçerlidir. Eşler arasındaki mal rejimi TMK.nun 225/2. maddesine göre boşanma davasının açıldığı tarih itibariyle sona ermiştir. Dava konusu taşınmazın edinildiginin ileri sürüldüğü tarihe göre, eşler arasında 743 sayılı MK.nun 170. maddesi hükmü uyarınca mal ayrılığı rejimi geçerli olduğundan uyuşmazlık Borçlar Kanunu'nun genel hükümlerine göre çözüme kavuşturulmalıdır. Bu durumda 01.01.2002 tarihinde yürürlüğe giren 4721 sayılı TMK.nun 178. maddesinde düzenlenen dava zamanaşımına ilişkin düzenleme eldeki davaya uygulanamaz. Bu madde;
 4721 sayılı TMK'nun yürürlüğe girdiği 01.01.2002 tarihinden sonra yasal edinilmiş mallara katılma rejiminin geçerli olduğu dönemde, edinilmiş mallara katılma alacağına ilişkin olarak açılan davalar hakkında uygulanır.
 
 ## Yargıtay 8. HD 2010/3072 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520748100)
 
 Taraflar 15.9.1966 tarihinde evlenmişler, davacı ... tarafından 3.8.2005 tarihinde açılan dava sonunda boşanmışlar ve karar 11.6.2007 tarihinde kesinleşmiştir. Eşler arasında boşanma davasının açıldığı tarihte mal rejimi sona ermiştir (TMK.nun 225/son). Başka mal rejimi seçilmediğinden; taraflar arasında evlilik tarihinden 1.1.2002 tarihine kadar mal ayrılığı (743 sayılı TKM’nin 170. m.), 1.1.2002 tarihinden mal rejiminin sona erdiği 3.8.2005 tarihine kadar edinilmiş mallara katılma rejimi geçerlidir (TMK. 202. ve 4722 s.Yürürlük K.m.10/1.m).
 Kabule karar verilen taşınmazlardan 109 ada 5 parsel 1.6.1999, 151 ada 3 parsel 5.5.2000, 151 ada 59 parsel 29.3.2000 ve...plakalı araç 16.6.1995 tarihinde davalı adına evlilik birliği içinde edinilmiş, 151 ada 58 parsel üzerindeki bina da yine evlilik birliği içinde 1994-1999 yılları arasında inşa edilmiştir.Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, tarafların ortak gelirleri ile alındığı toplanan delillerle anlaşılan ve kişisel mal niteliğinde olmayan taşınmazlar ve araçla ilgili tarafların çalışmaya başladıkları tarihler itibarıyla belirlenebilen gelirleri, kocanın TMK.nun 152. maddesindeki evi geçindirme yükümlülüğü, Borçlar Kanununun 42. maddesi uyarınca halin mutat cereyanı, hakkaniyet ve fedakarlığın denkleştirilmesi ilkeleri dikkate alınarak davacının katkısının yarı oranda olduğu kabul edilerek dava tarihi itibarıyla belirlenen değerler göz önünde tutularak yazılı şekilde hüküm kurulduğuna göre kabule karar verilen 151 ada 3 parsel (7.325,50 TL), 151 ada 59 (21.787,50 TL), 20 NA 818 plakalı araç (1.500 TL) ve 151 ada 58 parsel üzerindeki bina (14.557,39 TL) ile ilgili toplam 45.170,39 TL miktarındaki bölümle ilgili davalı vekilinin temyiz
@@ -102,38 +136,56 @@ itirazları yerinde görülmediğinden reddi ile bu parseller, araç ve bina ile
 
 ## Yargıtay 8. HD 2010/2897 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540441000)
+
 Taraflar 13.7.1980 tarihinde evlenmişler, ...nın 19.9.2003 tarihinde açtığı dava sonunda boşanmışlar ve karar 21.10.2004 tarihinde kesinleşmiştir. Eşler arasında boşanma davasının açıldığı tarihte mal rejimi sona ermiştir (TMK.nun 225/son).Başka mal rejimi seçilmediğinden; Taraflar arasında evlilik tarihinden 1.1.2002 tarihine kadar mal ayrılığı (743 sayılı TKM’nin 170.m.), 1.1.2002 tarihinden mal rejiminin sona erdiği 19.9.2003 tarihine kadar edinilmiş mallara katılma rejimi geçerlidir. (TMK. 202 ve 4722 s.Yürürlük K.m.10/1.m).Taraflar Ceyda’nın açtığı ve mahkemece reddedilerek 13.9.2000 tarihinde kesinleşen boşanma davasının açıldığı 23.3.2000 tarihinden itibaren ayrı yaşamaktadırlar.
 
 ## Yargıtay 8. HD 2010/2854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539682800)
+
 TMK.nun 170. maddesi kapsamına göre, taraflar arasında evlilik tarihinden 01.01.2002 tarihine kadar mal ayrılığı, bir yıl içinde başka bir mal rejimini seçmediklerinden 21.07.2004 tarihine kadar ise, edinilmiş mallara katılma rejimi geçerlidir.(4722 s.K. md. 10/1, 4721 s.K. TMK md. 202/1.)…
 
 ## Yargıtay 8. HD 2010/2814 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539699500)
 
 Taraflar 22.11.1997 tarihinde evlenmişler, 19.1.2004 tarihinde açılan boşanma davasının kabulüne ilişkin hüküm 04.03.2004 tarihinde kesinleşmekle evlilik birliği son bulmuştur. TMK.nun 225.maddesinin 2.fıkrasına göre evliliğin boşanma ile sona erdirilmesi durumunda, eşler arasında mal rejimi boşanma davasının açıldığı tarih itibariyle son bulur. Sözleşme ile başka mal rejimi seçilmediğinden 01.01.2002 tarihine kadar 743 sayılı MK.nun 170. maddesi gereğince mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar ise, 4721 sayılı TMK.nun 202. maddesi uyarınca yasal edinilmiş mallara katılma rejimi geçerlidir. Dava konusu mesken vasıflı 9844 ada 1 parsel 28 nolu bağımsız bölümde kayıtlı taşınmaz 14.2.2000 tarihinde satın alma yoluyla davalı ... Yüksel adına tapuda tescil edilmiştir. 07.10.1953 tarihli 8/7 sayılı Yargıtay İçtihadı Birleştirme Kararı uyarınca; taşınmazların alımına katkıda bulunduğunu iddia eden davacı, bu katkısına dayanarak ayın (mülkiyet) talep edemez. Ancak, katkı payına ilişkin alacak isteğinde bulunabilir.
 Dava konusu taşınmaz mal ayrılığı rejiminin geçerli olduğu dönemde edinildiğinden, uyuşmazlık Borçlar Kanunu’nun genel hükümlerine göre çözüme kavuşturulacaktır. Buna göre, eşlerin birbirlerinin mal varlıklarının edinilmesine katkılarının kanıtlanması durumunda, katkı oranında alacak hakkı doğar.
 
 ## Yargıtay 8. HD 2010/2712 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540440400)
+
 Taraflar 1.7.1991 tarihinde evlenmiş, 8.9.2004 tarihinde ...’nın açtığı dava sonunda boşanmış ve karar 9.7.2007 tarihinde kesinleşmiştir. Yanlar arasında 1.1.2002 tarihine kadar mal ayrılığı (743 sayılı TKM.m.170), 1.1.2002 tarihinden itibaren edinilmiş mallara katılma rejiminin (TMK.m.218-241) geçerli olduğu anlaşılmaktadır. Davacı, davalı adına kayıtlı malvarlığı üzerinde tazminat talebinde bulunmuş ise de yapılan yargılama ve bilirkişi raporu doğrultusunda davalı adına Ziraat Bankasına 31.1.2001 tarihinde transfer edilen 170.000 ABD doları dışında tasfiyeye konu edilebilecek bir malvarlığı tespit edilememiştir. Dava dilekçesi, talebin boşanma dosyasından tefriki sırasındaki mahkemenin nitelemesi, dosya kapsamı ve HUMK’nun 76.maddesi karşısında davacının, 1.1.2002 tarihine kadar katkı payı bu tarihten boşanma davasının açıldığı 8.9.2004 tarihine kadar katılma alacağı isteğinde bulunduğunun kabulü gerekir.
 
 ## Yargıtay 8. HD 2010/2624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539621400)
 
 Taraflar 3.8.1982 tarihinde evlenmişler, davacı ...’in 20.6.2002 tarihinde açtığı dava sonunda boşanmışlar ve karar 5.5.2008 tarihinde kesinleşmiştir. Eşler arasında boşanma davasının açıldığı tarihte mal rejimi sona ermiştir (TMK.nun 225/son).Başka mal rejimi seçilmediğinden; taraflar arasında evlilik tarihinden 1.1.2002 tarihine kadar mal ayrılığı (743 sayılı TKM’nin 170.m.), 01.01.2002 den mal rejiminin sona erdiği 20.06.2002 tarihine kadar edinilmiş mallara katılma rejimi geçerlidir. (TMK. 202. ve 4722 s.Yürürlük K.m.10/1.m)…
 
 ## Yargıtay 8. HD 2010/2547 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539485700)
+
 Taraflar 1.12.1970 tarihinde evlenmiş, 23.3.2007 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 15.9.2009 tarihinde kesinleşmesiyle boşanmışlardır. Başka mal rejimi seçilmediğinden eşler arasında evlenme tarihinden 1.1.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı 23.3.2007 tarihine kadar ise yasal edinilmiş mallara katılma rejimi geçerlidir.
 
 ## Yargıtay 8. HD 2010/2509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521268500)
 
 Dava; 743 sayılı TMK. nun 170.maddesi uyarınca mal ayrılığı rejiminin geçerli olduğu dönemde evlilik birliği içerisinde edinilen mala yapılan katkıya ilişkin katkı payı alacağı davasıdır. Eldeki dava, 4721 sayılı Türk Medeni Kanununun yürürlüğe girdiği 01.01.2002 tarihinden sonra 23.09.2006, boşanma davası ise 12.08.2003 tarihinde açılmıştır. 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 4.maddesi; 4721 Sayılı Türk Medeni Kanununun ikinci kitabından üçüncü kısım hariç olmak üzere (TMK.m.118-395) kaynaklanan bütün davaların Aile Mahkemesinde bakılacağını hükme bağlamıştır.
 
 ## Yargıtay 8. HD 2010/2507 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521254700)
+
 Dava; 743 sayılı TMK. nun 170.maddesi uyarınca mal ayrılığı rejiminin geçerli olduğu dönemde, evlilik birliği içerisinde edinilen mala yapılan katkıya ilişkin katkı payı alacağı davasıdır. Eldeki dava, 4721 sayılı Türk Medeni Kanununun yürürlüğe girdiği 01.01.2002 tarihinden sonra 31.12.2007 tarihinde açılmıştır. Bu tür davaların çözümü Yargıtay’ın istikrar kazanmış uygulamasına göre, 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 4.maddesi gereğince Aile Mahkemesine aittir. Görev kamu düzenine ilişkin olup, yargılamanın her aşamasında resen dikkate alınır. O halde, mahkemece davanın görev yönünden reddine karar verilerek dava dosyası görevli ve yetkili Osmaniye Aile Mahkemesine gönderilmesi gerekirken; işin esasına girilerek hatalı değerlendirme sonucu yazılı şekilde davanın reddine karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2010/2495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520861900)
 
 Taraflar 11.9.1986 tarihinde evlenmiş, 9.5.2003 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün kesinleşmesiyle 23.11.2005 tarihinde boşanmışlardır. Dosya arasındaki kayıt ve belgelere göre dava konusu 6335 ada 10 parselde bulunan 8 nolu mesken 28.7.1995 tarihinde, 3692 ada 301 parsel de bulunan dükkan 10.12.1992 tarihinde, 3637 ada 1 parselde bulunan işyeri 5.8.1993 tarihinde ve 4257 ada 15 parselde bulunan dublex mesken de 2.10.2000 tarihinde davalı adına tescil edilmiş olduğuna ve bu tarihler 743 sayılı TKM’nin 170. maddesine göre eşler arasında mal ayrılığı rejiminin geçerli olduğu döneme ilişkin bulunduğuna göre, taraflar arasındaki uyuşmazlığın Borçlar Kanununun genel hükümlerine göre çözüme kavuşturulması gerekmektedir. 743 sayılı TMK.nun yürürlükte olduğu; 1.1.2002 tarihinden önce eşler arasında yasal mal ayrılığının geçerli olduğu dönemde eşlerin diğerinden katkı payı karşılığında bir tazminat isteyebilmesi için mutlaka parasal veya para ile ölçülebilen maddi bir değer koymak suretiyle katkısının bulunması gerekir. Bundan ayrı,aynı kanunun 153. maddesi gereğince eve kadın bakar.
 Başka bir anlatımla kadının eve ve çocuklarına bakması, ev işleri yapması onun yasal ödevidir. Eşlerden birinin edindiği mala diğer eşin doğrudan maddi bir katkısı yoksa, bu talep kabul edilemez. Dosya arasında bulunan, davalı tarafından ibraz edilen ve davacının açık bir itirazına uğramayan kayıt ve belgeler ile dosya kapsamına göre, öğretmen olan davacının evlendiği tarihten ilk çocuklarının doğduğu tarihe kadar yaklaşık iki yıl gibi bir süre ile sigortalı olarak ve oldukça düşük ücretle çalıştığı, 1988 yılından 1997 yılına kadar kayıtlı ve düzenli bir çalışmasının bulunmadığı anlaşılmaktadır. Davacının 1988 yılına kadar süren çalışmasına karşılık edindiği, düşük gelirin, çalışmasına son verdiği tarihten sırasıyla yaklaşık olarak 4-5 ve 7 yıl sonra davalı tarafından edinilen 3692 ada 301 parseldeki, 3637 ada 1 parseldeki ve 6335 ada 10 parseldeki bağımsız bölümlerin edinilmesinde katkı sağlayamayacağı hususunda duraksamamak gerekir.
@@ -141,9 +193,13 @@ Her ne kadar davacının kayıtlı olarak çalışmadığı dönemlerde özel de
 
 ## Yargıtay 8. HD 2010/2483 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520818600)
+
 Taraflar 15.04.1996 tarihinde evlenmişler, 01.11.2005 tarihinde açılan boşanma davası sonunda tarafların boşanmalarına ilişkin karar 08.12.2006 tarihinde kesinleşmiştir. Eşler, başka mal rejimini seçmediklerinden 01.01.2002 tarihine kadar 743 sayılı MK.nın 170. maddesine göre mal ayrılığı, bu tarihten mal rejiminin sona erdiği 01.11.2005 tarihine kadar ise, edinilmiş mallara katılma rejimi (TMK.202, 4722 s.Yürürlük K.m.10/1) geçerlidir. 7537 ada 1 parsel üzerindeki binada bulunan dava konusu B Blok, 2. kat 8 nolu mesken niteliğindeki bağımsız bölüme ilişkin kooperatif üyeliğine 30.09.1997 tarihinde girilmiş, tapu kaydı 28.03.2005 tarihinde davalı adına tescil edilmiştir.
 
 ## Yargıtay 8. HD 2010/2360 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519410800)
 
 Taraflar 24.7.1986 tarihinde evlenmişler, yurtdışında Bremen Asliye Mahkemesince 31.10.2003 tarihinde kesinleşen hükümle boşanmalarına karar verilmiş; 10.9.2004 tarihinde açılan yurtdışında alınan boşanma kararının tenfizi davasının kabulüne ilişkin hüküm 25.7.2005 tarihinde kesinleşmekle evlilik birliği son bulmuştur. TMK.nun 225.maddesinin 2.fıkrasına göre evliliğin boşanma ile sona erdirilmesi durumunda, eşler arasında mal rejimi boşanma davasının açıldığı tarih itibariyle son bulur. Sözleşme ile başka mal rejimi seçilmediğinden 1.1.2002 tarihine kadar 743 sayılı MK.nun 170.maddesi gereğince mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihine kadar ise 4721 sayılı TMK.nun 202.maddesi uyarınca yasal edinilmiş mallara katılma rejimi geçerlidir. Dava konusu mesken vasıflı 1417 ada 1 parseldeki binanın 8 no.lu bağımsız bölüm olarak kayıtlı mesken 30.12.1993 tarihinde ferdileşme yoluyla davalı ... ... (...) adına apuya tescil edilmiştir. Ancak, dosya kapsamından, taşınmazın, davalının SS.... Çalışanlar Yapı Kooperatifine üyeliği ile edinildiği anlaşılmaktadır.
 Dava konusu taşınmaz mal ayrılığı rejiminin geçerli olduğu dönemde edinildiğinden, yanlar arasındaki uyuşmazlık Borçlar Kanunu’nun genel hükümlerine göre çözüme kavuşturulmalıdır. Buna göre, eşlerin birbirlerinin mal varlıklarının edinilmesine katkılarının kanıtlanması durumunda, katkı oranında alacak hakkı doğar. Davacı vekili, evlilik birliği içinde edinilen taşınmaza vekil edeninin çalışması karşılığı kazancını katmak suretiyle katkıda bulunduğunu açıklayarak, katkı payı alacağı isteğinde bulunmuştur. Davalı yan, davacının 1993 yılına kadar çalışmadığını, katkısı olmadığını açıklamıştır. Davacı tanıkları, taşınmazın tarafların ortak kazançları ile satın alındığını; davalı tanıkları ise nizalı taşınmazın kaba inşaatı bitmiş şekilde kooperatif hissesi olarak davalının babası tarafından bedeli ödenerek davalı adına satın alındığını, davalının 1987 yılından itibaren çalıştığını, davacının yurtdışında oturum izni alınamadığından uzun müddet çalışamadığını ifade etmiştir.

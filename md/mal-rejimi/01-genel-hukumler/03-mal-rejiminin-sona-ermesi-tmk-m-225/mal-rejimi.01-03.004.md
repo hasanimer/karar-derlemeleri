@@ -22,162 +22,240 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2013/12402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/474455800)
+
 Kural olarak, TKM'nin 170. maddesi gereğince taraflar arasında mal ayrılığı rejiminin geçerli olduğu dönemde edinilen taşınmazlara ilişkin katkı payı talebinde bulunabilmek için somut olayda para ya da parayla ölçülebilen maddi bir katkının olduğunun kanıtlanması gereklidir. ........ gelirleri bakımından, ........ gelirinin elde edilmesinin ispatı yeterli olmayıp bu ........ gelirlerinin mal rejiminin sona erdiği tarihte davalının malvarlığı içinde olduğunun ve tüketilmeyip tasarruf edildiğininde ispatlanması gerekir. TMK’nun 225/2. fıkrasında, taraflar arasındaki mal rejiminin ........ davasının açıldığı tarihte sona ereceği, aynı Kanunun 235/1. fıkrasında ise, mal rejiminin sona erdiği sırada mevcut olan edinilmiş malların, tasfiye anındaki değerleri ile hesaba katılacağı yazılıdır. Aynı kural faiz gelirleri bakımından da geçerlidir.
 
 ## Yargıtay 8. HD 2013/12241 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475629300)
 
 Taraflar 04.10.1995 tarihinde evlenmişler, 22.04.2004 tarihinde açılan ........ davasının kabulüne ilişkin hükmün 05.05.2005 tarihinde kesinleşmesi üzerine boşanmışlardır. Başka mal rejimi seçilmediğinden eşler arasında 01.01.2002 tarihine kadar 743 sayılı MK.nun 170. maddesi uyarınca “mal ayrılığı”, bu tarihten mal rejiminin sona erdiği ........ davasının açıldığı 22.04.2004 tarihine kadar ise, 4721 sayılı TMK.nun 202. maddesi hükmü uyarınca yasal “edinilmiş mallara katılma” rejimi geçerlidir. Eşler arasındaki mal rejimi TMK'nun 225/2. maddesi uyarınca ........ davasının açıldığı tarih itibariyle sona ermiştir.
 
 ## Yargıtay 8. HD 2013/10364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435691500)
+
 Taraflar 27.10.1993 tarihinde evlenmiş, 10.03.2006 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 04.04.2006 tarihinde kesinleşmesiyle boşanmışlardır. Sözleşmeyle başka mal rejimi seçilmediğinden, eşler arasında 01.01.2002 tarihine kadar mal ayrılığı (TKM'nin 170.m.), bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar ise, yasal edinilmiş mallara katılma rejimi geçerlidir (TMK'nun 202, 4722 s. Y'nın 10.m.). Eşler arasındaki mal rejimi boşanma davasının açıldığı 04.04.2006 tarihinde sona ermiştir. (TMK. 225/2)…
 
 ## Yargıtay 8. HD 2013/9973 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437885600)
 
 Taraflar 15.2.2002 tarihinde evlenmiş, 10.5.2006 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 27.7.2011 tarihinde kesinleşmesiyle, mal rejimi sona ermiştir (TMK’nun 225/2.m). Eşler arasında sözleşmeyle başka bir mal rejimini seçmediklerinden evlenme tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar yasal edinilmiş mallara katılma rejimi geçerlidir (TMK'nun 202, 4722 s.Yasa'nın 10.m.).
 
 ## Yargıtay 8. HD 2013/9861 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438014300)
+
 Taraflar 04.07.1996 tarihinde evlenmiş, 09.06.2004 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 28.05.2006 tarihinde kesinleşmesiyle boşanmışlardır. Eşler arasında başka mal rejimi seçilmediğinden 01.01.2002 tarihine kadar mal ayrılığı (743 sayılı TKM.nin 170. m.), bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar (4721 sayılı TMK.nun 225/2. m.) yasal mal rejimi olan edinilmiş mallara katılma rejimi geçerlidir (4721 sayılı TMK.nun 202.m). Dava konusu 995 ada 10 parseldeki C Blok 3 nolu taşınmaz davalı kadının 24.5.1999 tarihinde kooperatife üye olması, evlilik içinde yapılan ve 26.2.2004 tarihinde sona eren ödemeler sonunda edinilmiş ve kadın tarafından üyelik hakkı 26.3.2004 tarihinde 13.200 TL bedel ile babası ...’a satılmıştır. Ardından Kooperatifin feshi ve ferdileşme suretiyle 12.7.2004 tarihinde tapu ... adına oluşmuştur.
 
 ## Yargıtay 8. HD 2013/9382 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437685100)
 
 Taraflar 05.09.2003 tarihinde evlenmiş, 09.07.2007 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 25.10.2007 tarihinde kesinleşmesiyle, mal rejimi sona ermiştir (TMK’nun 225/2.m). Başka mal rejimi seçildiği ileri sürülmediğine göre, eşler arasında evlilik tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar 4721 sayılı TMK'nun 202. maddesi hükmü uyarınca yasal “edinilmiş mallara katılma” rejimi geçerlidir.
 
 ## Yargıtay 8. HD 2013/9377 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437632900)
+
 Taraflar 17.08.1971 tarihinde evlenmiş, 28.09.2009 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 20.07.2010 tarihinde kesinleşmesiyle, mal rejimi sona ermiştir (TMK’nun 225/2.m). Sözleşmeyle başka mal rejimi seçilmediğinden, eşler arasında evlenme tarihinden 01.01.2002 tarihine kadar mal ayrılığı (TKM'nin 170.m.), bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar ise yasal edinilmiş mallara katılma rejimi geçerlidir (TMK'nun 202, 4722 s.Y.nın 10.m.).
 
 ## Yargıtay 8. HD 2013/9334 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437221800)
+
 Toplanan deliller ve tüm dosya kapsamından; tarafların 01.03.2003 tarihinde evlendikleri, 05.02.2007 tarihinde açılan boşanma davasının kabulü ve hükmün 06.02.2008 tarihinde kesinleşmesiyle evlilik birliğinin son bulduğu, TMK'nun 179. maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümlerin uygulanacağı, taraflar arasında başka bir mal rejiminin seçildiği ileri sürülmediğine göre, evlenme tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar TMK'nun 202. maddesine göre yasal edinilmiş mallara katılma rejimine tabi olacakları, eşler arasındaki mal rejiminin TMK'nun 225/2. maddesine göre boşanma davasının açıldığı tarih itibariyle sona erdiği anlaşılmaktadır.
 
 ## Yargıtay 8. HD 2013/8878 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435147500)
 
 TMK'nun 225. maddesinde ise mal rejiminin ne şekilde sona ereceği ve sona erme tarihi yazılı olup, boşanma sebebi ile evliliğin sona ermesi durumunda mal rejimi boşanma dava tarihi itibariyle sona erecektir. Bu maddede fiili ayrılık veya eşlerin ayrı yaşamaları mal rejiminin sona erme sebepleri arasında sayılmamıştır. Fiili ayrılık, ayrı yaşamaları halinde haklarının zarar göreceğini düşünen eş haklı sebebin de bulunması halinde TMK'nun 206. maddesine göre mal ayrılığına geçilmesi isteğinde bulunabileceği gibi sözleşme ile mal rejiminin değiştirilmesi yoluna da gidebilecektir. TMK.nun 227. maddesine dayanan değer artış payı alacağında eşlerden birinin diğer eşin mal edinmesinde katkısından söz edilmekte ise de, TMK'nun 236. maddesine dayanan katılma alacağında eşlerden birinin herhangi bir katkısı gerekli olmadığı gibi eşlerden birinin diğer eşin edindiği mal üzerindeki hakkı Yasa'dan kaynaklanan şahsi hak niteliğindedir. Değer artış payı alacağı bakımından fiili ayrılık döneminde diğer eşin edindiği mala katkıda bulunulması kural olarak, hayatın olağan akışına aykırı olduğundan bu dönem itibarıyla değer artış payı alacağının istenemeyeceği kabul edilmektedir.
 Diğer yandan eşlerden birinin bu dönemde diğer eşin edindiği mala TMK'nun 227. maddesinde belirtildiği şekilde kişisel mal veya geliri ile katkıda bulunduğunu ispat etmesi halinde değer artış payı talep etmesine yasal bir engel de yoktur. Ancak katılma alacağı daha farklı yasal düzenleme içermektedir. Katılma alacağı için az yukarıda yazılı olduğu gibi eşin herhangi bir katkısı gerekmemektedir. Bu hak yasadan kaynaklanmaktadır. Resmi evlilik devam ettiği sürece edinilen malların mal rejiminin sona erdiği anda mevcut olması durumunda (TMK'nun 235.m.) tasfiye edileceği yasa gereğidir.
 
 ## Yargıtay 8. HD 2013/8826 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434951500)
+
 Taraflar 20.08.2007 tarihinde evlenmiş, 21.04.2009 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 20.10.2009 tarihinde kesinleşmesiyle, mal rejimi sona ermiştir (TMK’nun 225/2.m.). Başka mal rejimi seçildiği ileri sürülmediğine göre, eşler arasında evlilik tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar 4721 sayılı TMK'nun 202. maddesi ükmü uyarınca yasal “edinilmiş mallara katılma” rejimi geçerlidir. Dava konusu 113 ada 19 parselin 1/2 payı 12.11.2007 tarihinde davalı adına satın…
 
 ## Yargıtay 8. HD 2013/7826 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/436926600)
 
 Anılan maddenin 1. fıkrasında, tasfiyeye konu olacak malların değerinin tasfiye anı yani karar tarihine yakın tarihteki değeri esas alınarak belirlenmesi kanun koyucu tarafından uygun bulunmuştur. Kural olarak, mal rejiminin sona erdiği zamanda mevcut olan edinilmiş malların tasfiye anındaki sürüm değerleri ile tasfiyede yer alacağı konusunda bir duraksama söz konusu değildir. Eklenecek değerler TMK'nun 229/1. fıkranın 1 ve 2 nolu bentlerinde açıklanmıştır. TMK'nun 235/2. fıkrasının da TMK'nun 229. maddesiyle bağlantılı olarak getirildiği görülmektedir. Söz konusu TMK'nun 229. maddesinde belirtilen malların da mal rejiminin devamı süresince edinilen mallardan olduğu hususunda bir kuşku söz konusu değildir. Bu bakımdan mal rejiminin sona ermesinden sonra ancak tasfiye sona ermeden önce edinilmiş malın elden çıkarılması halinde, bu mal TMK'nun 235/1. fıkrası gereği tasfiye halindeki değeri ile hesaba katılmalıdır. Devir anında yerine geçen değer yada devir anındaki rayiç değer gözönüne alınmaz. Zira TMK'nun 235. maddesinin 2. fıkrasında söz edilen eklenecek değerler aynı Kanun'un 229. maddesinde 2 bent halinde sayılan haller için geçerli olmaktadır.
 Dolayısıyla mal rejiminin sona ermesinden önceki malların devrini hedeflemektedir. Mal rejiminin sona erdiği anda bir eşin mal varlığında bulunan edinilmiş bir malın, daha sonra tasfiye sona ermeden yani kararın verilmesi tarihinden önce elden çıkarılması halinde bu malın değeri TMK'nun 235/1. fıkrası gereği tasfiye anındaki değeriyle hesaba katılması uygun olacaktır. Yani, taşınmazlar mal rejimi sona erdikten sonra üçüncü kişilere devredildiğinde devir tarihindeki değer değil, tasfiye tarihindeki yani karar tarihine yakın tarihteki değerleri esas alınmak suretiyle bu değerlerin tasfiyede gözetilmesi gerektiğinin kabulü gerekir.
 
 ## Yargıtay 8. HD 2013/7824 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437270600)
+
 Taraflar 14.08.2001 tarihinde evlenmiş, 27.03.2007 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 14.09.2010'da kesinleşmesiyle boşanmışlardır. Mal rejimi boşanma davasının açıldığı tarihte sona ermiştir ( TMK'nun 225/2 ). Taraflar sözleşmeyle başka mal rejimi seçmediklerinden evlenme tarihinden, 4721 sayılı TMK'nun yürürlüğe girdiği 01.01.2002 tarihine kadar mal ayrılığı (TKM'nin 170), bu tarihten mal rejiminin sona erdiği tarihe kadar ise yasal edinilmiş mallara katılma rejimine tabidirler (4722 S.Y.'nın 10/1, TMK'nun 202).
 
 ## Yargıtay 8. HD 2013/7805 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437200600)
 
 O halde, boşanma kararı ile hüküm altına alınan manevi tazminatın edinilmiş mal olarak kabulü ile davalı yararına ve onun edinilmiş malının borcuymuş (pasifiymiş) gibi hesaptan düşürülmesine zaten olanak bulunmamaktadır. Şu gerçek olguyu da saptamakta yarar vardır. Her şeyden önce eşler arasındaki mal rejimi boşanma davasının açıldığı tarihte sona ermiştir. TMK'nun 219/1. fıkrasında; yer alan “… bu mal rejiminin devamı süresince karşılığını vererek elde ettiği mal varlığı değerleri…” ibaresi ile aynı Kanun'un 231/1. fıkrasındaki, “…bu mallara ilişkin borçlar…” tanımı birlikte gözetildiğinde mal rejiminin sona erdiği tarihte eşlerin mal varlıkları arasında maddi ve manevi tazminat diye bir mal mevcut bulunmamaktadır. Çünkü maddi ve manevi tazminat ancak boşanma kararının…
 
 ## Yargıtay 8. HD 2013/7775 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437193200)
+
 O halde, boşanma kararı ile hüküm altına alınan manevi tazminatın edinilmiş mal olarak kabulü ile davalı yararına ve onun edinilmiş malının borcuymuş (pasifiymiş )gibi hesaptan düşürülmesine zaten olanak bulunmamaktadır. Şu gerçek olguyu da saptamakta yarar vardır. Her şeyden önce eşler arasındaki mal rejimi boşanma davasının açıldığı 13.06.2005 tarihinde sona ermiştir. TMK'nun 219/1. fıkrasında; yer alan “… bu mal rejiminin devamı süresince karşılığını vererek elde ettiği mal varlığı değerleri…” ibaresi ile aynı Kanun'un 231/1. fıkrasındaki, “…bu mallara ilişkin borçlar…” tanımı birlikte gözetildiğinde mal rejiminin sona erdiği tarihte eşlerin mal varlıkları arasında maddi ve manevi tazminat diye bir mal mevcut bulunmamaktadır. Çünkü maddi ve manevi tazminat ancak boşanma kararının kesinleştiği tarihte belirginleşmektedir.
 
 ## Yargıtay 8. HD 2013/7717 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/436994200)
 
 Toplanan deliller ve tüm dosya kapsamından; tarafların 12.02.1972 tarihinde evlendikleri, 09.09.2003 tarihinde açılan boşanma davasının kabulü ve hükmün 04.10.2005 tarihinde kesinleşmesiyle evlilik birliğinin son bulduğu, TMK'nun 179. maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümlerin uygulanacağı, taraflar arasında başka bir mal rejiminin seçildiği ileri sürülmediğine göre, evlenme tarihinden 4721 sayılı TMK'nun yürürlüğe girdiği 01.01.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar TMK'nun 202. maddesine göre yasal edinilmiş mallara katılma rejimine tabi olacakları, eşler arasındaki mal rejimi TMK'nun 225/2. maddesine göre boşanma davasının açıldığı tarih itibariyle sona erdiği, TMK'nun…
 
 ## Yargıtay 8. HD 2013/7716 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/436954000)
+
 Toplanan deliller ve tüm dosya kapsamından; tarafların 10.04.1993 tarihinde evlendikleri, 30.12.2010 tarihinde açılan boşanma davasının kabulü ve hükmün 13.07.2011 tarihinde kesinleşmesiyle evlilik birliğinin son bulduğu, TMK'nun 179. maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümlerin uygulanacağı, taraflar arasında başka bir mal rejiminin seçildiği ileri sürülmediğine göre, evlenme tarihinden 4721 sayılı TMK'nun yürürlüğe girdiği 01.01.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar TMK'nun 202. maddesine göre yasal edinilmiş mallara katılma rejimine tabi olacakları, eşler arasındaki mal rejimi TMK'nun 225/2. maddesine göre boşanma davasının açıldığı tarih itibariyle sona erdiği, dava konusu ... plakalı araç ile 2105 ada 1 parsel sayılı taşınmazdaki nizalı 10 nolu bağımsız bölümün sırasıyla edinilmiş mallara katılma rejiminin geçerli bulunduğu, 01.07.2005 ve 14.05.2010 tarihlerinde davalı eş adına tescil edildiği, eldeki davanın ise 13.07.2012 tarihinde açıldığı anlaşılmıştır.
 
 ## Yargıtay 8. HD 2013/7543 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437060600)
 
 Başka mal rejimi seçildiği ileri sürülmediğine göre, eşler arasında 01.01.2002 tarihine kadar 743 sayılı MK'nun 170. maddesi uyarınca “mal ayrılığı”, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar ise 4721 sayılı TMK'nun 202. maddesi hükmü uyarınca yasal “edinilmiş mallara katılma” rejimi geçerlidir. Eşler arasındaki mal rejimi TMK'nun 225/2. maddesi uyarınca boşanma davasının açıldığı tarih itibariyle sona ermiştir.
 
 ## Yargıtay 8. HD 2013/6473 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433855800)
+
 Toplanan deliller ve tüm dosya kapsamından; tarafların 15.06.1987 tarihinde evlendikleri, 29.06.2007 tarihinde açılan boşanma davasının kabulü ve hükmün kesinleşmesiyle evlilik birliğinin son bulduğu, TMK'nun 179. maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümlerin uygulanacağı, taraflar arasında başka bir mal rejiminin seçildiği ileri sürülmediğine göre, evlenme tarihinden 4721 sayılı TMK'nun yürürlüğe girdiği 01.01.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar TMK'nun 202. maddesine göre yasal edinilmiş mallara katılma rejimine tabi olacakları, eşler arasındaki mal rejimi TMK'nun 225/2. maddesine göre boşanma davasının açıldığı tarih itibariyle sona erdiği, dava konusu 26 parsel sayılı taşınmazın edinilmiş mallara katılma rejiminin geçerli bulunduğu 03.11.2004 tarihinde satış suretiyle davalı eş adına tescil edildiği, eldeki davanın ise 30.09.2011 tarihinde açıldığı anlaşılmıştır.
 
 ## Yargıtay 8. HD 2013/6472 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433946600)
 
 Toplanan deliller ve tüm dosya kapsamından; tarafların 22.06.1996 tarihinde evlendikleri, 28.12.2006 tarihinde açılan boşanma davasının kabulü ve hükmün 12.03.2007 tarihinde kesinleşmesiyle evlilik birliğinin son bulduğu, TMK'nun 179.maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümlerin uygulanacağı, taraflar arasında başka bir mal rejiminin seçildiği ileri sürülmediğine göre, evlenme tarihinden 4721 sayılı TMK'nun yürürlüğe girdiği 1.1.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar TMK'nun 202. maddesi gereğince yasal edinilmiş mallara katılma rejimine tabi olacakları, eşler arasındaki mal rejimi TMK'nun 225/2.maddesine göre boşanma davasının açıldığı tarih itibariyle sona erdiği, dava konusu 18 ada 12 parsel sayılı taşınmazdaki nizalı 40 nolu bağımsız bölümün edinilmiş mallara katılma rejiminin geçerli bulunduğu 22.12.2006 tarihinde satış suretiyle davalı eş adına tescil edildiği, eldeki davanın ise 29.07.2009 tarihinde açıldığı anlaşılmıştır.
 
 ## Yargıtay 8. HD 2013/5878 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/439220100)
+
 Toplanan deliller ve dosya kapsamından; taraflar 05.03.2005 tarihinde evlenmiştir. 07.05.2010 tarihinde açılan boşanma davasının kabulüne ilişkin kararın 20.07.2011 tarihinde kesinleşmesi ile boşanmışlardır. Eşler arasındaki mal rejimi TMK'nun 225/son maddesi gereğince boşanma davasının açıldığı tarihte sona ermiştir. Bu durum karşısında eşler başka bir mal rejimini seçtiklerini ileri sürmediklerinden, evlilik tarihinden boşanma davasının açıldığı tarihe kadar TMK'nun 202. maddesine göre edinilmiş mallara katılma rejimi geçerlidir. Eşler arasındaki mal rejimi TMK'nun 225/2. maddesi uyarınca boşanma davasının açıldığı 07.05.2010 tarihinde sona ermiştir.
 
 ## Yargıtay 8. HD 2013/5232 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/436549600)
 
 Taraflardan ...ile ... 15.10.1993 tarihinde evlenmiş, 01.03.2007 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 29.03.2010 tarihinde kesinleşmesiyle, mal rejimi sona ermiştir (TMK’nun 225/2.m). Dosya arasında bulunan 31.12.2002 tarihinde noterde düzenlenen mal rejimi sözleşmesi ile aralarında edinilmiş mallara katılma rejiminin evlenme tarihinden geçerli olacak şekilde kabul ettiklerine göre eşler arasında evlilik tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar yasal “edinilmiş mallara katılma” rejimi geçerlidir.
 
 ## Yargıtay 8. HD 2013/2295 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988079100)
+
 Taraflar 21.12.1985 tarihinde evlenmiş, 02.02.2007 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 18.02.2009 tarihinde kesinleşmesiyle, mal rejimi sona ermiştir (TMK’nun 225/2.m). Başka mal rejimi seçildiği ileri sürülmediğine göre, eşler arasında evlilik tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar 4721 ... TMK'nun 202. maddesi hükmü uyarınca yasal “edinilmiş mallara katılma” rejimi geçerlidir. Dava konusu 2778 parsel 02.04.1993 tarihinde davalı adına satın alınarak tapuya tescil edilmiş, üzerine 1999 yılında bir ev inşa edilmiş ve taşınmaz 08.01.2007 tarihinde dava dışı Aziz Kararmaz’a satılmıştır. Davacının isteğinin katkı payı alacağına ilişkin olduğu anlaşılmaktadır.
 
 ## Yargıtay 8. HD 2013/2294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988077800)
 
 Taraflar 15.11.1984 tarihinde evlenmiş, 13.12.2007 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 30.09.2010 tarihinde kesinleşmesiyle, mal rejimi sona ermiştir (TMK’nun 225/2.m). Başka mal rejimi seçildiği ileri sürülmediğine göre, eşler arasında evlilik tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar 4721 ... TMK'nun 202. maddesi hükmü uyarınca yasal “edinilmiş mallara katılma” rejimi geçerlidir. Dava konusu Topçu Mahallesi 45687 ada 4 parseldeki 11 numaralı mesken taraflar arasında edinilmiş mallara katılma alacağı geçerli iken 02.10.2007 tarihinde satın alınarak 2/3 payı davalı ..., 1/3 payı ise dava dışı Tarık Doğan (müşterek çocuk) adına tapuya tescil edilmiştir. Davacının isteğinin katılma alacağı niteliğinde olduğu anlaşılmaktadır.
 
 ## Yargıtay 8. HD 2013/2182 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987919300)
+
 TMK.nun 179. maddesi hükmüne göre, mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümler uygulanır. Aynı Kanunun 225/2. maddesine göre de; evliliğin boşanma ile sona ermesinde mal rejimi boşanma davasının açıldığı tarihte sona erer. Somut olayda; 05.08.1988 tarihinde evlenen eşler arasındaki mal rejimi, 4721 ... TMK.nun yürürlüğe girdiği tarihten sonra açılan boşanma davasıyla 04.02.2009 tarihinde sona ermiştir. 4787 ... Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 4. maddesi; 4721 ... Türk Medeni Kanunun ikinci kitabından üçüncü kısım hariç olmak üzere aile hukukundan (TMK.nun m. 118-395) kaynaklanan bütün davaların Aile Mahkemesinde bakılacağını hükme bağlamıştır.
 
 ## Yargıtay 8. HD 2013/1412 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410711900)
 
 Dosya kapsamı ve toplanan delillere göre, dava, 4721 sayılı TMK.nun 202 ve devam maddeleri gereğince kabul edilen yasal mal rejimi olan edinilmiş mallara katılma rejiminden kaynaklanan ve TMK.nun 231, 232, 235 ve 236. maddeleri gereğince açılan katılma alacağı ve ecrimisil isteğine ilişkindir. TMK 235. maddesi gereğince eşler arasındaki mal rejiminin sona erdiği sırada mevcut olan mallar tasfiyeye tabi tutulur. Aynı yasanın 225/2 maddesine göre taraflar arasındaki mal rejimi evliliğin boşanma nedeniyle sona ermiş olması halinde boşanma ile sonuçlanan dava tarihinden geçerli olmak üzere sona erer. Somut olayda taraflar Akdağmadeni Asliye Hukuk Mahkemesi'nin 27.05.2002 gün ve 2002/ 206-216 EK sayılı ilamı ile boşanmış olmakla taraflar arasındaki mal rejimi, boşanma ile sonuçlanan bu davanın açıldığı 27.05.2002 tarihinde sona ermiştir. Bu halde davalı tarafından taşınmazın edinildiği 08.08.2005 tarihi itibariyle taraflar arasında mevcut mal rejimi bulunmadığından…
 
 ## Yargıtay 8. HD 2013/1227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410203600)
+
 4721 sayılı TMK'nunda ise, zamanaşımına ilişkin hüküm yer almaktadır. Anılan Kanunun 178. maddesinde; “Evliliğin boşanma sebebiyle sona ermesinden doğan dava hakları, boşanma hükmünün kesinleşmesinin üzerinden bir yıl geçmekle zamanaşımına uğrar” denilmiştir. Maddenin birinci bölümünden de açıkça anlaşılacağı üzere “evliliğin boşanma sebebiyle sona ermesinden doğan dava hakları...” denilmektedir. Bu hükmün sadece boşanmanın feri niteliğinde bulunan nafaka, maddi ve manevi tazminat ile benzeri hakları kapsadığını söylemek güçtür. Evliliğin boşanma sebebiyle sona ermesinden doğan dava hakları ibaresinin aynı zamanda edinilmiş mallara katılma rejiminden doğan katılma alacağı ve değer artış payını da kapsadığı düşünülmektedir. Halihazırda Daire uygulaması bu yöndedir. 743 sayılı TKM'nun 170. maddesi uyarınca mal ayrılığı rejiminin geçerli olduğu dönemde katkı payı alacağına yönelik tüm davalar sözleşme olsun veya olmasın 743 sayılı TKM'nin (4721 sayılı TMK'nun) 5. maddesi yollamasıyla BK.nun 125. (6098 sayılı BK'nun 146 m.) maddesi gereğince 10 yıllık zamanaşımına tabidir. TMK'nun 225/1. maddesi…
 
 ## Yargıtay 8. HD 2013/946 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243410400)
+
 Taraflar 5.4.2002 tarihinde evlenmiş, 26.5.2006 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün, 25.11.2010 tarihinde kesinleşmesiyle, mal rejimi sona ermiştir (TMK.nun 225/2.m.). Sözleşmeyle başka mal rejimi seçilmediğinden, eşler arasında evlenme tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar yasal edinilmiş mallara katılma rejimi geçerlidir (TMK.nun 202, 4722 s.Y.nın 10.m.).
 
 ## Yargıtay 8. HD 2013/352 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242735500)
 
 Bu saptamalar ışığında kabulle sonuçlanan boşanma dava tarihinde taşınmazlar ile aracın bulunmadığı sabittir. Ancak taraflar arasında görülen boşanma davaları dikkate alındığında taşınmazların ilk boşanma dava tarihinden kısa bir süre önce elden çıkarıldığı, bu davanın açıldığı tarihten sonra müşterek hayatın tekrar kurulamadığı, ilk davanın davacı kadının kusursuz olması nedeniyle redle sonuçlanması üzerine, evlilik sona ermediğinden, davacı kadın tarafından, kabul ile sonuçlanan boşanma dava tarihine kadar dava açmanın mümkün olmadığı, taraflar arasında görülen boşanma davalarından bağımsız olarak, kabul ile sonuçlanan boşanma davası esas alınarak, mal rejiminin sona erdiği tarihin belirlenmesinin TMK 2. maddesindeki dürüstlük kuralı ve hakkın kötüye kullanılması yasağına uygun olmadığı gibi, davalıya kendi kusuruna dayanarak hak iddiasında bulunma olanağı tanıyacağından doğru değildir.
 Bu halde Mahkemece taraflar arasındaki mal rejimi 30.04.2008 tarihinde açılan ve kabul ile sonuçlanan boşanma davası ile sona ermiş ise de bu davanın 05.05.2003 tarihinde açılan davayla ilgisi nedeniyle yukarıda belirtilen TMK 2. maddesindeki dürüstlük ve hakkın kötüye kullanılması yasağı ilkesi gereğince değerlendirmenin 05.05.2003 tarih esas alınarak yapılması, davacının iddiaları karşısında TMK 229. maddesindeki eklenecek değerlerin gözönünde bulundurulması ve toplanacak delillerin sonucuna göre bir karar vermek gerekirken yazılı gerekçe ile davanın reddine karar verilmiş olması doğru değildir.
 
 ## Yargıtay 8. HD 2012/13159 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610928700)
+
 UYAP’tan alınan nüfus kayıt örneğine göre, taraflar 19.09.1994 tarihinde evlenmiş, boşanma davasının kabulüne ilişkin hükmün 10.05.2012 tarihinde kesinleşmesiyle boşanmışlardır. Eşler arasında başka mal rejimi seçilmediğinden 01.01.2002 tarihine kadar mal ayrılığı (743 sayılı TKM. nin 170. m), bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar (4721 sayılı TMK.nun 225/2. m) yasal mal rejimi olan edinilmiş mallara katılma rejimi geçerlidir (4721 sayılı TMK.nun 202.m).Eşler arasındaki mal rejimi TMK.nun 225/2. maddesi uyarınca boşanma davasının açıldığı tarih itibariyle sona ermiştir. Gebze İl sınırları içinde bulunan 2446 ada 9 parselde bulunan 10 nolu bağımsız bölüm 06.04.1999 tarihinde davalı adına satın alınmak suretiyle tescil edilmiş olup, halen davalı adına kayıtlıdır. Taşınmaz üzerine 16.01.2009 tarihinde aile konutu olduğuna dair şerh konulmuştur. Dava konusu taşınmazın edinildiği tarih ve tarafların açıklamalarına göre istek mal rejiminden kaynaklanan katkı payı alacağına ilişkindir.
 
 ## Yargıtay 8. HD 2012/13069 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628727900)
 
 Somut olayda; kanunun (maddenin) lafzından ziyade amacına bakmak ve bunu geniş yorumlamak gerekir. Bu nedenle maddenin lafzı önemli olmakla birlikte, yorum yapılırken üst başlıkların da gözönünde tutulması, kabul edilmesi gereken ilkelerdendir. Yorum yapılırken kanunların lafzı ile birlikte amacının da aynı ölçüde değerlendirilmesi aynı zamanda TMK.nun 1. maddesinin emri gereğidir. Yararlar dengesi de bunu öngörmektedir. Kanun koyucunun, her ikisi de evliliğin sona ermesine bağlanmış, iki alacak isteği olan katılma alacağı ile değer artış payı alacağının yerine getirilmesini (ifasını) tamamen farklı yöntemlere tabi tutması, bu bağlamda katılma alacağına ölüm halinde sağ kalan eşin yararlarını koruyacak biçimde mahsup imkanı vererek, ev ve eşya üzerinde hak sahibi olma hakkını tanırken, değer artış payı için bu yolu yasaklamasının yararlar dengesi yönünden haklı sayılabilecek bir gerekçesi bulunmamaktadır. Gerçekten de, katılma alacağı ve değer artış payı alacağının bir alacak hakkı olarak, gerek doğumları (evliliğin sona ermesini gerektirmesi) ve gerekse nitelikleri yönünden birbirinden farklı görülmesi olanaklı değildir.
 İfaları yönünden bu iki alacağın, aralarında fark yaratılmasını haklı kılacak bir yarar görülmemektedir. Kanun maddesinin amacı ve düzenleme sistematiği gözetilerek TMK.nun 240. maddesinin değer artış payı alacakları bakımından da uygulanması hakkaniyete ve fedakarlığın denkleştirilmesi ilkelerine de uygun düşecektir. Sağ kalan eşin yararı da bunu gerektirmektedir.
 
 ## Yargıtay 8. HD 2012/13058 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628721000)
+
 Taraflar 23.7.2005 tarihinde evlenmiş, 20.11.2007 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 9.2.2009 tarihinde kesinleşmesiyle mal rejimi sona ermiştir (TMK.nun 225/2.m.). Sözleşmeyle başka mal rejimi seçilmediğinden, eşler arasında evlenme tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar yasal edinilmiş mallara katılma rejimi geçerlidir (TMK.nun 202, 4722 s.Y.nın 10.m.). Dava konusu Göktürk Köyü 424 parselde 5 numaralı bağımsız mesken 15.9.2005 tarihinde satın alınarak Gözde Öner adına tapuya tescil edilmiş, 27.4.2007 tarihinde ise dava dışı ...’a satılarak devredilmiştir. Edinme tarihi ve katkının yapıldığı iddia edilen tarih itibariyle taraflar arasında edinilmiş mallara katılma rejimi geçerli olduğuna göre davacının isteği katılma alacağı ve değer artış payı alacağına ilişkindir.
 
 ## Yargıtay 8. HD 2012/13054 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988914800)
+
 Toplanan kanıtlar, tüm dosya kapsamından; taraflar, 09.11.2007 tarihinde evlenmişler, 19.06.2009 tarihinde açılan boşanma davasının kabul edilmesi üzerine hükmün kesinleştiği 25.06.2010 tarihinde boşanmışlardır. Mal rejimi boşanma davasının açıldığı tarihte sona ermiştir (TMK.nun 225/2). Eşler, evlendikleri tarihten mal rejiminin sona erdiği boşanma davasının açıldığı 19.06.2009 tarihine kadar yasal edinilmiş mallara katılma rejimi geçerlidir (4722 s. K.nun m. 10, TMK.nun 202. m.). Dava konusu 6042 ada 1 parselde kayıtlı bulunan 10 numaralı bağımsız bölüm ... taşınmaz, 21.10.2008 tarihinde satış yoluyla davalı adına tescil edilmiştir.
 
 ## Yargıtay 8. HD 2012/12964 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988562200)
 
 Taraflar 14.06.2002 tarihinde evlenmişler, 20.02.2009 tarihinde açılan boşanma davasının kabulle sonuçlanması üzerine 13.09.2010 tarihinde kesinleşen hükümle boşanmışlardır. Eşler arasındaki mal rejimi, boşanma davasının açıldığı tarihte sona ermiştir (TMK.nun 225/son). Başka mal rejimi seçilmediğinden; taraflar arasında evlilik tarihinden mal rejiminin sona erdiği 20.02.2009 tarihine kadar edinilmiş mallara katılma rejimi geçerlidir. Eşler arasındaki mal rejimi TMK.nun 225/2.maddesine göre boşanma davasının açıldığı tarih itibariyle sona ermiştir (TMK.nun 202. ve 4722 s. Yürürlük K.m.10/1.m). Dava konusu ... plakalı araç evlilik birliğinin devamı sırasında 04.06.2004 tarihinde satın alınarak davalı adına tescil edilmiş, 10.12.2010 tarihinde 3. kişiye satışı sebebiyle davalı adındaki kayıt bu tarihte terkin edilmiştir. Garanti Bankası Kestel Şubesinde 6799390 nolu hesap davalı ... Ağlamış adına 21.01.2008 tarihinde 5500 TL için açılmış anılan hesabaaynı şahıs tarafından değişik tarih ve miktarlarda paralar yatırılmış, 14.307 TL olarak 21.07.2008 tarihinde çekilmek suretiyle söz konusu hesap kapatılmıştır.
 Yine aynı Şubede, davalı ... tarafından başka hesap numarası altında anılan para ve üzerine bir miktar daha eklenmek suretiyle yatırılmış, sonuçta hesap 26.01.2009 tarihinde 18.303,36 TL olarak çekilerek kapatılmıştır.
 
 ## Yargıtay 8. HD 2012/12961 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988822700)
+
 TMK.nun 179. maddesi hükmüne göre, mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümler uygulanır. Aynı Kanunun 225/2. maddesine göre de; evliliğin boşanma ile sona ermesinde, mal rejimi; boşanma davasının açıldığı tarihte sona erer. 19.09.1975 tarihinde evlenen eşler arasındaki mal rejimi, 4721 ... TMK.nun yürürlüğe girdiği tarihten sonra açılan boşanma davasıyla 09.02.2004 tarihinde sona ermiştir. 4787 ... Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 4. maddesi; 4721 ... Türk Medeni Kanununun ikinci kitabından üçüncü kısım hariç olmak üzere aile hukukundan (TMK.nun m. 118-395) kaynaklanan bütün davaların Aile Mahkemesinde bakılacağını hükme bağlamıştır.
 
 ## Yargıtay 8. HD 2012/12702 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988580200)
 
 Taraflar 18.03.1986 tarihinde evlenmiş, 17.06.2005 tarihinde açılan boşanma davasının kabul edilmesi üzerine; hükmün kesinleştiği 28.01.2009 tarihinde boşanmışlardır. Mal rejimi boşanma davasının açıldığı tarihte sona ermiştir. (TMK.nun 225/2). Eşler, evlendikleri tarihten 4721 s. TMK.nun yürürlüğe girdiği 01.01.2002 tarihine kadar mal ayrılığı (743 ... TMK.nun 170. m.), başka bir mal rejimini seçtiklerini ileri sürmediklerine göre bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar yasal edinilmiş mallara katılma rejimi geçerlidir. (4722 s. Kanun m. 10, TMK.nun 202.m.).
 
 ## Yargıtay 8. HD 2012/12686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988577600)
+
 Görüldüğü gibi, kapsamı aynen aktarılan 29.07.2010 tarihli sözleşmenin açıkça mal rejiminin tasfiyesine ilişkin bulunduğu konusunda bir duraksama söz konusu değildir. Ne var ki TMK.nun 225/2. fıkrasında ; “ Mahkemece, evliliğin iptal veya boşanma sebebi ile sona erdirilmesine veya mal ayrılığına geçilmesine karar verilmesi hallerinde mal rejimi dava tarihinden geçerli olmak üzere sona erer” denilmektedir. Yapılan mal rejimi sözleşmesinin mal ayrılığına geçiş niteliğinde olmadığı dosya kapsamı ve TMK.nun mal rejimine ilişkin hükümleri ile sabittir. Mal rejimi sözleşmelerinin ne şekilde yapılacağı TMK.nun 205 ve devam maddelerinde düzenlenmiştir. TMK.nun 225/2. maddesi uyarınca eşler arasındaki mal rejimi boşanma davasının açıldığı tarihte sona erer. Boşanma kararının kesinleşmesinden itibaren de açılacak mal rejimi davası ile mal rejiminin tasfiyesi yoluna gidilir.
 
 ## Yargıtay 8. HD 2012/12253 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988546900)
 
 Taraflar 01.11.2002 tarihinde evlenmiş, 25.09.2006 tarihinde kadının açtığı boşanma davasının kabul edilmesi üzerine hükmün kesinleştiği 13.09.2007 tarihinde boşanmışlardır. Mal rejimi boşanma davasının açıldığı tarihte sona ermiştir (TMK.nun 225/2). Eşler başka bir mal rejimini seçtiklerini ileri sürmediklerine göre mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar yasal edinilmiş mallara katılma rejimi geçerlidir (4722 s. K.nun m. 10, TMK.nun 202. m.)…
 
 ## Yargıtay 8. HD 2012/12177 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/604312900)
+
 Dosyadaki bilgi ve belgelerden; taraflar 01.01.1963 tarihinde evlenmiş, 11.10.2004 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 19.06.2006 tarihinde kesinleşmesiyle evlilik birliği son bulmuştur. TMK.nun 179. Maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümler uygulanır. Taraflar arasında başka bir mal rejimi seçildiği ileri sürülmediğine göre, evlenme tarihinden 4721 sayılı TMK.nun yürürlüğe girdiği 01.01.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar ise TMK.nun 202. maddesine göre yasal edinilmiş mallara katılma rejimine tabidirler. Eşler arasındaki mal rejimi TMK.nun 225/2.maddesine göre boşanma davasının açıldığı tarih itibariyle sona ermiştir.
 
 ## Yargıtay 8. HD 2012/12145 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628024700)
 
 Az yukarıda sunulan ilkeler, dosyada toplanan delillerle birlikte değerlendirildiğinde ... lehine taşınmaz ve şirketteki hisse bakımından bulunan 321.347,50 TL katılma alacağında usul ve yasaya aykırılık yoktur. Kaldı ki bu miktara yönelik tarafların bir itirazı veya temyizi de bulunmamaktadır. Temyiz itirazı kadın lehine hesaplanan katılma alacağı ve bu alacağın erkeğin katılma alacağından düşülmüş olmasından kaynaklanmaktadır. Kadın lehine birleşen dosya sebebiyle yapılan hesaplamaya bakıldığında bulunan miktarın Almanya’daki hesapta erkek lehine yatan paranın toplamı olduğu belirtilmekte ise de; bu miktarın boşanma dava tarihine kadar ...’nin çalışması karşılığı Türkiye’deki banka hesabına yatırılan maaş ve diğer kazanç toplamı olduğu görülmektedir. Erkeğin Türkiye’de adına bulunan ve maaşının yattığı banka hesabında herhangi bir paranın olmadığı ve yatırılan paraların düzenli şekilde çekildiği görülmektedir. Esasen kadının bu hesapta boşanma dava tarihi itibarıyla tasarruf edilmiş olan miktar olduğuna yönelik bir iddiası da yoktur.
 Kadının evlilik içinde kendisinden gizlendiğini ileri sürerek talebine konu yaptığı Almanya’daki banka hesabı ile ilgili olarak bankadan getirtilen tercüme belgelerin incelenmesinde erkek adına düzenli olarak bir miktar para yatırıldığı ancak hesapta toplu bir para olmadığı gibi, hesaba giriş ve çıkışların olağan görüldüğü, olağanüstü para giriş çıkışı tespit edilemeyen bu hesapta boşanma dava tarihi itibarıyla da herhangi bir miktarın olmadığı anlaşılmaktadır. Eşlerden biri lehine katılma alacağı yapılabilmesi için mal rejiminin sona erdiği sırada talebi konu edilen banka hesabında para veya para ile ölçülebilen mal varlığının olması veya mal rejiminin sona ermesinden kısa süre önce bunun diğer eşten mal kaçırma amacı ile elden çıkartıldığının, hesaptan çekildiğinin kanıtlanması gerekir. Erkeğe ait Almanya’da bulunan banka hesabında bu şekilde mal rejiminin sona erdiği boşanma dava tarihinde bir para olmadığı gibi hesap ekstresinin incelenmesinde de hesaptan boşanma dava tarihi öncesinde toplu çekilen bir para da yoktur. Erkeğin hesabına yatırılan bu paranın eşten gizlenmiş olması, kadın lehine katılma alacağı hesabında dikkate alınmasını gerektirmez.

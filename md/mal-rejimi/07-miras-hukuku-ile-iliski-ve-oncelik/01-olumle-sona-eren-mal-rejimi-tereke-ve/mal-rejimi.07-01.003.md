@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2023/3225 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981173300)
+
 İlk Derece Mahkemesinin yukarıda başlıkta tarih ve sayısı belirtilen kararı ile, asıl konuda tasfiye konusu 126 ada 1 parselde kayıtlı taşınmazın 27.03.2009 tarihinde, 82 ada 15 parselde kayıtlı taşınmazın 08.05.2009 tarihinde ve 3397 ada 7 parselde kayıtlı taşınmazın 22.04.2009 tarihinde davalı-davacı erkek adına tescil edildiği, taşınmazların iktisap edildiği tarih edinilmiş mallara katılma rejimi sırasında olduğundan ... kadının katılma alacağı olduğu; tanık anlatımları, dosyaya sunulan evraklar, Mahkemece yaptırılan keşif ve karara esas alınan 25.10.2017 havale tarihli bilirkişi raporuna göre ... kadının 126 ada 1 parselde kayıtlı taşınmaz yönünden 18.817,57 TL, 182 ada 15 parselde kayıtlı taşınmaz yönünden 14.113,18 ve 3397 ada 7 nolu parselde kayıtlı taşınmaz yönünden 22.452,66 TL katılma alacağının olduğu; bankadaki paralar yönünden talebin ise değer artış payı alacağı niteliğinde olduğu; tanık beyanları, tarafların UYAP entegrasyon ve SGK kayıtları, tarafların sosyal - ekonomik durum araştırması, karara esas alınan 25.10.2017 havale tarihli bilirkişi raporu ile dosyadaki evraklar dikkate alındığında bankadaki paralar nedeniyle değer artış payı alacağın talebinin kabulü ile
 385.574,00 TL değer artış payı alacağının olduğu, talepten fazlaya karar verilemeyeceğinden ıslah dilekçesinde talep edilen 267.609,82 TL değer artış payı alacağının kabulüne karar verilmesi gerektiği; birleşen davada tasfiye konusu taşınmazların 2002 yılından önce edinilmiş olduğu, 5309 ada 22 parselde kayıtlı taşınmazın 09.04.1992 tarihinde (işbu taşınmaz 23.12.02.2008 tarihinde davalı-davacı erkeğin vekâleten hareket ile annesine satış yaptığı, ... kadın tarafından açıları davanın yapılan yargılaması sonucunda tapunun iptali ile ... kadın adına tesçiline karar verildiği ve taşınmazın 08.08.2011 tarihinde hükmen ... kadın adına tescil edildiği), 827 parselde kayıtlı taşınmazın 12.03.1997 tarihinde (işbu taşınmazın 10.09.2009 tarihinde bizzat hareketle taşınmazın tamamının satıldığı) ve 2387 ada 4 parsel 4 nolu bağımsız bölümün 12.08.1993 tarihinde (işbu taşınmaz 23.12.02.2008 tarihinde davalı-davacı erkeğin vekâleten hareket ile annesine satış yaptığı, ... kadın tarafından açıları davanın yapılan yargılaması sonucunda tapunun iptali ile ... kadın adına tesçiline karar verildiği ve taşınmaz 08.08.2011 tarihinde hükmen ... kadın adına tescil edildiği) ... kadın adına tescil
 edildiği; ... kadın her ne kadar söz konusu taşınmazları babasından kalan miras parası ile aldığını ve kişisel malı olduğunu iddia etmiş ise de, davalı-davacı erkeğin tanıklarının anlatımlarında ... kadının tasfiye konusu edilmeyen başka bir taşınmazı miras parası ile aldığını belirttikleri, taşınmazların 1992,1993 ve 1997 tarihlerinde ayrı ayrı zamanlarda alınmış olmaları gözetilerek ... kadının kişisel malı olmadıkları ve tarafların birlikte tasarruf etmeleri sonucu evlilik birliği içerisinde alınmış mallardan oldukları, tarafların her ikisinin de matematik öğretmeni olarak çalışıyor bulunmaları ve davalı-davacı erkeğin gelirinin % 40'ı oranında katkıda bulunacağı, taşınmazların dava tarihi itibariyle belirlenen değerleri üzerinden karara esas alınan 25.10.2017 havale tarihli bilirkişi raporunda ayrıntılı olarak açıklandığı üzere davalı-davacı erkeğin toplam 103.960,00 TL katkı payı alacağının olduğu, katkı payı alacağının 30.000,00 TL'lik kısmının dava, kalan kısmının ıslah tarihi olan (ıslah harcının yatırıldığı tarih olan) 09.11.2017 tarihinden itibaren yasal faiz uygulanması gerektiği gerekçesiyle; asıl davanın kısmen kabulüyle, 126 ada 1 parselde kayıtlı taşınmaz yönünden
@@ -29,10 +31,14 @@ edildiği; ... kadın her ne kadar söz konusu taşınmazları babasından kalan
 
 ## Yargıtay 2. HD 2023/2709 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/930669700)
+
 Bölge Adliye Mahkemesinin yukarıda başlıkta tarih ve sayısı belirtilen kararı ile, 4451 parsel sayılı taşınmazın boşanma dava tarihinden hemen önce davacının katkı payını azaltma amacıyla elden çıkarıldığının kabul edilmesi gerektiği, davalı kadının sosyal güvenceli bir işi bulunmasa da, dinlenen tanık beyanlarından davalı kadının davacı eşinin bakkal dükkanında, konfeksiyon ve ev işlerinde çalıştığı, tarafların gelirlerine ilişkin bilgilerin toplanmasının mümkün olmadığı, hakkaniyet ve fedakarlığın denkleştirmesi ilkesi gözetildiğinde davacının % 50 oranında katkı alacağının bulunduğunun kabul edilmesinin hakkaniyet uygun olduğu, taşınmazın dava tarihindeki değerinin dikkate alınması gerekirken keşif tarihindeki değerinin dikkate alınmasının hatalı olduğu, davacının 4451 parsel sayılı taşınmaz yönünden 36.500,00 TL katkı payı alacağının bulunduğu;
 917 ada 346 parsel 4 nolu bağımsız bölümün tanık Hüseyin'in beyanına göre davacının o dönem inşaat işleri ile uğraştığı, maddi durumunun ... olduğu, sosyal güvencesi olmayan davalı kadına taşınmazı devrettiği, davacının taşınmazın geçici olarak davalıya devredildiğine yönelik iddiasının inandırıcı olmadığı, taşınmazın davalının kişisel malı olduğu, davacının bu taşınmaza yönelik katkı payı alacağı olmadığı belirtilerek istinaf başvurusunun kabulüyle, İlk Derece Mahkemesi hükmü kaldırılarak yeniden esas hakkında hüküm kurulmak suretiyle davacının 917 ada 346 parsel 4 nolu bağımsız bölüme yönelik katkı payı alacağı talebinin reddine, davacının 4451 parsel sayılı taşınmaza yönelik katkı payı alacağı talebinin kısmen kabulüyle 36.500,00 TL katkı payı alacağının dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine, fazlaya ilişkin talebin reddine karar verilmiştir.
 
 ## Yargıtay 2. HD 2023/518 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892121100)
 
 Bölge Adliye Mahkemesinin yukarıda başlıkta tarih ve sayısı belirtilen kararı ile, dosya içeriğine, iddia ve savunma ile toplanan delillere, kararın dayandığı hukuka uygun gerektirici nedenlere, mevcut deliller Mahkemece değerlendirilerek takdir edildikten sonra karar verildiğine, delillerin takdirinde bir isabetsizlik bulunmadığına; tasfiyeye konu taşınmazın edinilmiş mal olduğuna, davacının kişisel malla katkı iddiasına yönelik olarak davacı tanıklarının beyanlarının davacıdan duyuma dayalı olup somut bilgiler içermediği, soyut nitelikte olduğu, bu nedenle davacının kişisel malla katkı iddiasının dosya kapsamı itibariyle usulünce ispatlanamadığı, davalının kişisel malla katkı iddiasına yönelik olarak davalının babasının miras kalan taşınmazın 09.03.2007 tarihinde satıldığı, davalının hesabına aynı gün 130.000,00 TL nakit yatırıldığı, aynı gün 38.000,00 TL’sinin çekildiği, bakiye 92.000,00 TL ile vadeli hesap açıldığı ve paranın vadeli hesapta değerlendirildiği, 24.04.2007 tarihinde vadeli hesap kapatılarak hesaptan 93.500,00 TL çekildiği, paranın bankadan çekildiği günün ertesi günü 25.04.2007 tarihinde davalının annesi ve ablası adına taşınmaz satın alındığı, ayrıca paranın
 bankadan çekildiği 24.04.2007 tarihi ile tasfiye konusu taşınmazın edinildiği 10.08.2009 tarihi arasında geçen iki yıldan fazla süre de göz önünde bulundurulduğunda davalının babasından miras kalan taşınmazın satışından elde edilen paranın tasfiye konusu taşınmazın edinilmesinde kullanıldığının kabulüne olanak bulunmadığı, açıklanan nedenlerle davalının kişisel malla katkı iddiasının dosya kapsamı itibariyle usulünce ispatlanamadığı; davacı taraf tasfiyeye konu taşınmazın 185.000,00 TL, davalı taraf ise 113.400,00 TL bedelle satın alındığını ileri sürmekte olup tasfiyeye konu taşınmazın mahallinde yapılan keşif sonucu düzenlenen teknik bilirkişi raporu ile edinme tarihindeki değerinin 140.000,00 TL olarak tespit edildiği, tasfiyeye konu taşınmazın alımında kullanılan konut kredisi çekilirken düzenlenen 03.08.2009 tarihli ekspertiz raporunda ise o tarihteki değerinin 175.000,00 TL olarak belirlendiği, dosya arasında tasfiyeye konu taşınmazın edinilmesine ilişkin 05.06.2009 tarihli 113.400,00 TL’lik fatura bulunduğu, davalı tarafça tasfiyeye konu taşınmazın edinildiği 10.08.2009 tarihinde bankadan 50.000,00 TL’lik konut kredisi çekildiği, 10.08.2009 tarihli banka dekontu ve banka
@@ -41,51 +47,75 @@ anlaşıldığı şeklinde değerlendirme yapılmış ise de, davanın tasfiyeye
 
 ## Yargıtay 2. HD 2022/10511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878342300)
+
 Bölge Adliye Mahkemesince, davaya konu edilen 445 ada 5 parsel, 446 ada 1 parsel ve 447 ada 1 parsel sayılı taşınmazların mirasen taksim amacıyla davalıya hibe edildiği, bu nedenle bu taşınmazlarda davacının katılma alacağı bulunmadığına hükmedilmiştir. Davaya konu taşınmazların edinme tarihi itibariyle edinilmiş mallara katılma rejiminin geçerli olduğu dönemde edinildiği sabittir. Davalı tarafın davaya konu taşınmazların bedelsiz olarak mirasen taksim yolu ile kendisine devredildiği iddiası kişisel mal iddiası niteliğindedir. Yukarıda da açıklandığı üzere, bir eşin bütün malları aksi ispat edilinceye kadar edinilmiş mal sayılır. Dolayısıyla kişisel mal iddiasında bulunan davalının bu iddiasını ispat etmesi gerekir. Ne var ki, mahkemece bu konuda yeterli araştırma ve inceleme yapılmamıştır.
 Mahkemece, HMK'nın 31. maddesi hükmü gereği hakimin davayı aydınlatma yükümlülüğü uyarınca, davalı tarafa taksime konu olduğu ileri sürülen diğer taşınmazların ada ve parsel numaralarını bildirmesi için usulüne uygun süre verilerek, bu taşınmazların ada ve parsel numaraları bildirildiğinde tapu kayıtları da celp edilerek, kayıtların dinlenen davalı tanık beyanları ve davalının kişisel mal savunması ile örtüşüp örtüşmediği, davalının kişisel mal savunmasının denetlenmesi, sonucuna göre karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2022/9575 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845773900)
+
 Ne var ki; mahkemece, bozmaya uyulduğu halde bozma gerekleri tam olarak yerine getirilmemiştir. Şöyle ki, mirasçılar tarafından mahkeme kararıyla mirasın reddinden sonra davacının oluşan miras payının ne olduğu tespit ettirilerek oluşacak sonuca göre payına düşecek katkı payı alacağı miktarının belirlenmesi gerektiği belirtilerek mahkeme kararı bozulduğu halde bozma gereğince bir kısım mirasçılar tarafından mahkeme kararıyla mirasın reddinden sonra oluşacak murisin mirasçılarını gösterecek veraset belgesinin alınmadan denetime elverişli olmayacak şekilde karar verildiği anlaşılmaktadır. O halde, mahkemece, bozma ilamında belirtildiği şekilde bir kısım mirasçılar tarafından mahkeme kararıyla mirasın reddinden sonra oluşacak murisin mirasçılarını gösterecek veraset belgesinin dosya kapsamına alınarak sonucuna göre, bir karar verilmesi gerekirken yazılı şekilde karar verilmesi hatalı olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2022/6220 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786193300)
 
 Tüm bu açıklamalar nedeniyle, davacı mirasçı sağ eşin mal rejiminin tasfiyesi nedeniyle talep ettiği ve terekeye ait borç sayılan alacak miktarından, davanın mirasçılar arasında görülmesi nedeniyle, davacı da dahil bütün mirasçılar miras payları oranında sorumludurlar. Buna göre, somut olayda hüküm altına alınan tereke borcundan davacının da miras payı oranında sorumlu olduğu göz önünde bulundurularak temyiz eden davalıların miras payı oranında sorumlu olduğu miktarın hüküm fıkrasında gösterilmesi gerekirken bu husus göz ardı edilerek yazılı şekilde alacağın tamamından davalıların müteselsilen sorumlu tutularak karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 2. HD 2022/128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728383400)
+
 Mal rejiminin tasfiyesi sonucunda belirlenecek artık değer katılma alacağı terekeye ait borç olup, mirasçıların miras paylaşımından önce ödenmesi gerektiği kabul edilmektedir. Terekeye ait borç ödendikten sonra kalan miktar, mirasçılar arasında miras payları oranında paylaşılır. Tereke borçlarından bu sıfatını kaybetmemiş tüm mirasçılar, üçüncü kişilere karşı kişisel olarak müteselsilen (TMK m.641) sorumludurlar. Her ne kadar, davacı temyize konu davayı terekenin alacaklısı sıfatıyla açmış ise de; davacı da dahil davanın tarafları, ortak mirasbırakan ...'ın mirasçısıdırlar ve tereke borçlarından yukarıda açıklanan kanuni düzenlemeler çerçevesinde hepsi de sorumludurlar. Başka bir anlatımla, mirasçılık sıfatına sahip olduğundan (TMK m. 499), alacaklı ve borçlu sıfatı davacı sağ eşte kısmen birleşmiştir.
 
 ## Yargıtay 2. HD 2021/6544 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/694507400)
 
 Tüm bu açıklamalar nedeniyle, davacı mirasçı sağ eşin mal rejiminin tasfiyesi nedeniyle talep ettiği ve terekeye ait borç sayılan alacak miktarından, davanın mirasçılar arasında görülmesi nedeniyle, davacı da dahil bütün mirasçılar miras payları oranında sorumludurlar. Buna göre, somut olayda hüküm altına alınan tereke borcundan davacının da miras payı oranında sorumlu olduğu göz önünde bulundurularak temyiz eden davalının miras payı oranında sorumlu olduğu miktarın hüküm fıkrasında gösterilmesi gerekirken bu husus göz ardı edilerek yazılı şekilde alacağın tamamının davalıdan tahsili ile miras payı oranında sorumlu olduğunun ilamının infazı aşamasında gözetilmesine karar verilmesi doğru olmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2021/4438 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667669800)
+
 Mal rejiminin tasfiyesi sonucunda belirlenecek alacak, terekeye ait borç olup, mirasçıların miras paylaşımından önce ödenmesi gerektiği kabul edilmektedir. Terekeye ait borç ödendikten sonra kalan miktar, mirasçılar arasında miras payları oranında paylaşılır. Tereke borçlarından bu sıfatını kaybetmemiş tüm mirasçılar, üçüncü kişilere karşı kişisel olarak (4721 Sayılı TMK mad.599/2) ve müteselsilen (TMK mad.641) sorumludurlar. Her ne kadar, davacı temyize konu davayı terekenin alacaklısı sıfatıyla açmış ise de; davacı ve davalılar, ortak mirasbırakan ... ...'ın mirasçısıdırlar ve tereke borçlarından yukarıda açıklanan kanuni düzenlemeler çerçevesinde hepsi de sorumludurlar. Başka bir anlatımla, mirasçılık sıfatına sahip olduğundan (TMK mad.499), alacaklı ve borçlu sıfatı davacı sağ eşte kısmen birleşmiştir.
 
 ## Yargıtay 8. HD 2021/4147 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665544500)
+
 Mal rejiminin tasfiyesi sonucunda belirlenecek katılma alacağı, terekeye ait borç olup, mirasçıların miras paylaşımından önce ödenmesi gerektiği kabul edilmektedir. Terekeye ait borç ödendikten sonra kalan miktar, mirasçılar arasında miras payları oranında paylaşılır. Tereke borçlarından bu sıfatını kaybetmemiş tüm mirasçılar, üçüncü kişilere karşı kişisel olarak (4721 Sayılı TMK mad.599/2) ve müteselsilen (TMK mad.641) sorumludurlar.
 
 ## Yargıtay 8. HD 2021/2575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655696500)
 
 İlk Derece Mahkemesi ve Bölge Adliye Mahkemesince, mal rejiminin sona erdiği tarihte ve hemen sonrasında toplam 161.736,68 TL’nin çekildiği, çekilen paranın TEFE endeksleri esas alınarak belirlenen güncel değerinin 235.510,38 TL olduğu, yarı oranındaki 117.755,19 TL davacının katılma alacağı olduğu fakat taleple bağlı kalınarak 75.867,50 TL davacının katılma alacağı olarak tespit edilmiş ise de, davacının 11.02.2013 tarihinde noter aracılığı ile muris eşine ait veraset ilamını aldığı, bu veraset ilamına göre, murisin terekesi bir pay kabul edilerek, davacının tek mirasçı olarak gösterildiği, İş Bankası hesabındaki 11.502,71 TL’nin 18.02.2013 tarihinde varislere ödeme yapılarak bu hesabın kapatıldığının bildirildiği, 27.02.2013 dava, 06.06.2013 karar tarihli mahkemeden alınan veraset ilamında ise, davacı ve davalıların mirasçı olarak belirlendiği, davalılar tarafından Ankara 22.
 Asliye Hukuk Mahkemesinin 2015/92 Esas sayılı dava dosyasında, eldeki dava davacısının geçerli olmayan veraset ilamı ile yani kendisini tek mirasçı olarak gösteren veraset ilamıyla davaya konu hesaplardan para çektiğinden davacıya karşı alacak davası açıldığı, buna göre İş Bankası hesabından 18.02.2013 tarihinde çekilen 11.502,71 TL’nin kim tarafından çekildiğinin veya kime ödendiğinin tereddütsüz bir şekilde belirlenmesinden sonra, eğer davacıya ödendiyse bu miktarın katılma alacağından mahsubunun gerekeceği, yine mal rejiminin sona erdiği tarihteki mevcut bakiyenin katılma alacağının belirlenmesinde dikkate alınması gerektiğinden, İş Bankası hesabından 20.03.2012 tarihinde çekilen 10.000 TL’nin tasfiyede dikkate alınmasının hatalı olduğu gözden kaçırılarak yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2021/2321 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666190600)
+
 İstanbul Bölge Adliye Mahkemesi 10. Hukuk Dairesince, bozmaya uyularak yapılan yargılama neticesinde verilen son kararda İlk Derece Mahkemesi kararının kaldırılmasına, davacıların murisinin 62.750,00 TL katkı payı alacağı olduğunun tespitine, davanın kısmen kabul kısmen reddine, davacı mirasçılarından ... ile ... davalarından feragat ettiklerini beyan ettiklerinden miras hisseleri oranında davanın feragat sebebiyle reddine, davacı mirasçılarından davaya devam edeceklerini bildiren ...'nin miras hissesi oranında 15.687,50 TL'nin ve ... 'in miras hissesi oranında 15.687,50 TL'nin dava tarihinden itibaren işleyecek yasal faiziyle birlikte davalıdan alınarak ayrı ayrı ... ile ...'e verilmesine, fazlaya ilişkin talebin reddine karar verilmiştir. Hüküm, süresi içerisinde davalı vekili tarafından temyiz edilmiştir.
 
 ## Yargıtay 8. HD 2020/8238 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635211100)
 
 Tasfiyeye konu Edremit'teki arsa 01.08.2002 tarihinde satın alınarak davalı adına tapuda tescil edilmiş olup, arsanın davalının halasının vefatı üzerine mirasen gelen para kullanılarak satın alındığı diğer ifadeyle TMK'nin 220/2. maddesi hükmü gereği davalının kişisel malı olduğu dosya kapsamından sabittir. Uyuşmazlık, arsa üzerine 2006 yılında inşa edilen prefabrik evin eşlerin hangi mallarından karşılanarak yapıldığı noktasında toplanmaktadır. Yapım tarihi itibariyle prefabrik ev TMK'nin 222/3. maddesi hükmü gereği edinilmiş mal olup, aksini ispat yükü davalı taraftadır.
 
 ## Yargıtay 8. HD 2020/4956 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/603594900)
+
 Kural olarak, eşlerden birine ait mal varlığında, diğer tarafın mülkiyet veya başka ayni hak talebi söz konusu olamaz. Mal rejiminin tasfiyesi isteğinde bulunan eşe ya da mirasçılarına tanınan hak ayni olmayıp, şahsi alacak hakkıdır (07.10.1953 tarihli ve 8/7 YİBK). Başka bir anlatım ile mal rejimi tasfiye davaları alacaklı eşe mülkiyeti talep etme hakkı vermez. Ayrıca davalı ile müteveffa Güzin arasındaki mal rejimi TMK'nin 225/son maddesi gereğince Güzin’in öldüğü tarihte sona erdiğine göre miras malları yönünden davacı ile davalı arasında ilişki mirasçılık sıfatına yönelik olup alacak davalarında taraflar birbirlerine karşı miras payları oranında sorumludurlar.
 
 ## Yargıtay 8. HD 2020/1888 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592661100)
 
 Tüm dosya kapsamı birlikte incelendiğinde; davacının tasfiyeye konu taşınmazların edinilmesine çalışarak katkısı olduğunu iddia ettiği, davalının taşınmazları miras kalan taşınmazların satışından elde edilen para ile satın aldığını savunduğu, Mahkemece, miras kaldığı iddia edilen 915 parsel sayılı taşınmazın 1976 yılından beri köy tüzel kişiliğine ait olduğu ve 235 ve 649 parsel sayılı taşınmazların da, tasfiyeye konu taşınmazların edinilmesinden sonra satıldığı gerekçesi ile kişisel mal savunmasına itibare edilmeyerek davacı kadının çalışarak katkısı olduğu kabul edilerek katkı payı alacağına karar verildiği anlaşılmaktadır. Öncelikle davalının savunmasında belirttiği miras kalan taşınmaz 915 parsel sayılı taşınmaz değil, 815 parsel sayılı taşınmaz olup, dosya kapsamına alınan tapu kaydı yanlış parsele ilişkindir, UYAP sisteminden yapılan incelemeye göre, 815 parsel sayılı taşınmazda davalının 1/6 hissesi olduğu, hissesini de 22.11.2017 tarihinde sattığı anlaşılmaktadır.
 O halde, tasfiyeye konu malların edinme tarihi ile 815 parsel sayılı taşınmazda bulunan hissenin satış tarihi arasındaki zaman aralığı göz önüne bulundurulduğunda, tasfiyeye konu taşınmazların edinilmesinde kullanıldığından söz edilemez.
@@ -94,14 +124,20 @@ O halde, Mahkemece, dava dışı taşınmazların satışından elde edilen para
 
 ## Yargıtay 8. HD 2020/1331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593006600)
+
 Tüm dosya kapsamı birlikte incelendiğinde, davacılar ve birleşen dosyada davacının davalı eş adına edinilen mallar nedeniyle katılma alacağı talebinde bulundukları, davalının 2002 sonrası edinilen malları kişisel malvarlıklarıyla edindiğine yönelik kişisel mal savunmasında bulunduğu, Mahkemece, 2002 sonrası edinildiği kabul edilen ..., ... ve ... plakalı araçlar ile 1478 ada 2 parselde 8 numaralı bağımsız bölüm yönünden hesaplanan katılma alacağına hükmedildiği anlaşılmaktadır. Davalı tarafın tasfiyeye konu malların kişisel malları ile edindiğine yönelik kişisel mal savunmasına ilişkin yapılan araştırma ve inceleme hüküm kurmaya elverişli değildir. O halde Mahkemece öncelikle, 1478 ada 2 parselde 8 numaralı bağımsız bölümün kooperatif üyeliği yoluyla edinildiği görülmekle, kooperatife yapılan ödeme belgeleri getirtilmeden, kooperatife yapılan ödemeler ve bu ödemelerin isabet ettiği dönemler belirlenmeden, ayrıca kişisel mal savunması dikkate alınmadan, yeterli araştırma ve inceleme yapılmadan, ferdileşme tarihi dikkate alınarak taşınmaz yönünden yazılı şekilde karar verilmesi hatalı olmuştur.
 Diğer yandan, tasfiyeye tabi tutulan ..., ... ve ... plakalı araçlar yönünden de kişisel mal savunması dikkate alınmadan, yeterli araştırma ve inceleme yapılmadan sadece alınma tarihleri dikkate alınarak, mal rejimin sona erdiği tarihte mevcut olmayan mallar yönünden yazılı şekilde karar verilmesi de hatalı olmuştur (TMK mad.235/1).
 
 ## Yargıtay 8. HD 2019/11418 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648186200)
+
 Tüm bu açıklamalar nedeniyle, davacı mirasçı sağ eşin mal rejiminin tasfiyesi nedeniyle talep ettiği ve terekeye ait borç sayılan alacak miktarından, davanın mirasçılar arasında görülmesi nedeniyle, davacı da dahil bütün mirasçılar miras payları oranında sorumludurlar. Buna göre, somut olayda hüküm altına alınan tereke borcundan davacının da miras payı oranında sorumlu olduğu göz önünde bulundurularak temyiz eden davalının miras payı oranında sorumlu olduğu miktarın hüküm fıkrasında gösterilmesi gerekirken bu husus göz ardı edilerek yazılı şekilde alacağın tamamının davalıdan tahsiline karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2019/11381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648139500)
 
 Katılma alacağı ve terekeden kaynaklanan haklar arasındaki farklılıklar kabaca şöyle sıralanabilir; katılma alacağı bakımından; 1. Katılma alacağı şahsi hak niteliğinde bir nispi alacak hakkıdır, 2.Katılma alacağı kanundan kaynaklanmaktadır, 3. Ölümle sona eren edinilmiş mallara katılma rejiminin tasfiyesi ölen eşin terekesinin paylaşılmasının bir ön koşulu olarak ortaya çıkmaktadır, 4. Katılma alacağı terekenin öncelikle ve peşin ödenmesi gereken borçları arasında yer almaktadır, 5. Katılma alacağı, miras bırakanın borcudur, 6. Miras bırakanın ölümü ile borçlu olma sıfatı mirasçılarına geçer ve mirasçılar TMK'nin 641. maddesine göre borçlardan müteselsilen sorumludurlar, 7. Davacı sağ eş, hem katılma alacağı nedeniyle tereke alacaklısı ve hem de tereke borcundan dolayı mirasçı sıfatıyla tereke borçlusudur. Bu nedenle alacaklı ve borçlu sıfatı davacı sağ eşte birleşmiş durumdadır, 8. Katılma alacağı alacaklısı miras payı oranında tereke borçlarından sorumludur, 9. Sağ eş katılma alacağını aldıktan sonra borca batık mirası (terekeyi) reddetme hakkı vardır, 10.
 Edinilmiş malların sürüm değerleri tasfiye anındaki yani karar tarihine en yakın tarihteki değerleri hesaplamaya esas alınır (TMK mad.235/1), bu sebeple davanın sürecine göre ölüm tarihi ile karar tarihi arasında uzun süre geçmiş olabilir (3-5 yıl, hatta daha fazla olabilir), 11. Sağ eşin aldığı katılma alacağı, ölenin evlilik süresince edindiği mallara katkısının bir karşılığıdır, 12-Mal rejiminin tasfiyesinde yetkili ve görevli mahkeme Aile Mahkemesidir, 13. Katılma alacağı oranı kanun gereği ½ (yarı) olup, sabit bir oran olarak belirlenmiştir (TMK mad. 236/1), 14. Edinilmiş mallara katılma rejiminin tasfiyesine konu mallar kural olarak edinilmiş mallardır. Miras (tereke) hakları bakımından ise; 1. Terekeden doğan hak şahsi hak niteliğinde bir nispi alacak hakkı olmayıp, miras hukukundan kaynaklanan bir ayni hak, yani bir ayni paylaşımdır. 2. Mirasçılar tereke borçlarından müteselsilen sorumludur. (TMK mad. 641/1), 3. Terekenin tasfiyesine konu mallar murisin hem kişisel malları ve hem de edinilmiş mallarıdır. 4.Terekenin net miktarının (net terekenin) bulunması için öncelikle tasfiyede sağ kalan eşin katılma alacağının çıkarılması gerekmektedir.
@@ -110,9 +146,13 @@ Böylece terekenin tasfiyesinden düşecek paydan önce eş, mal rejiminin tasfi
 
 ## Yargıtay 8. HD 2019/10859 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/562322800)
+
 Tüm bu açıklamalar nedeniyle, davacı mirasçı sağ eşin mal rejiminin tasfiyesi nedeniyle talep ettiği ve terekeye ait borç sayılan alacak miktarından, davanın mirasçılar arasında görülmesi nedeniyle, davacı da dahil bütün mirasçılar miras payları oranında sorumludurlar. Buna göre, somut olayda hüküm altına alınan tereke borcundan davacının da miras payı oranında sorumlu olduğu göz önünde bulundurularak temyiz eden davalıların miras payları oranında sorumlu olduğunun hüküm fıkrasında gösterilmesi gerekirken bu husus göz ardı edilerek yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2019/9848 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/557985500)
 
 İstanbul Bölge Adliye Mahkemesi 10.
 Hukuk Dairesince, dosya kapsamına göre, tarafların, muris ...'in mirasçıları olduğu, aralarında 04.02.2013 tarihli kısmi miras taksim sözleşmesi yapıldığı, davanın TMK'nin 236/1. maddesi uyarınca mirasçının sağ kalan eşe karşı açtığı bir dava olduğu, TMK'nin 236/1.maddesi gereğince ölen eşin mirasçılarının sağ kalan eşe mal rejimi tasfiyesi davası açabilecekleri, kısmi miras taksim sözleşmesi gereğince murisin tüm mal varlığının taksim edilmediğinin anlaşıldığı, belirtilen sözleşmenin muristen gelen tüm mal varlığına ilişkin miras payı açısından tarafların birbirini ibra ettikleri anlamına gelemeyeceği, davacının mal rejimi tasfiyesi kapsamındaki haklarından feragat etmediğinin kabulü gerektiği gerekçesiyle, davacı-birleşen dosyada davalı vekilinin istinaf talebinin kabulüne, davaya konu mal varlığının değerleri belirlenerek ve tarafların bildirdikleri deliller değerlendirilerek davacının talep ettiği katkı payı, değer artış payı, artık değere katılma payı alacağı hakkında karar verilmesi için kararın bu yönden kaldırılmasına, belirtilen hususlara riayet edilerek yeniden yargılama yapılması ve karar verilmesi için dosyanın mahkemesine gönderilmesine karar verilmiştir.
@@ -120,12 +160,18 @@ Davalı-birleşen dosyada davacı ... vekili, Bölge Adliye Mahkemesi kararına 
 
 ## Yargıtay 8. HD 2019/9847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549806900)
+
 Dava hakkında verilen karar yukarıda açıklanan gerekçelerle bozulmuş, Yerel Mahkeme Daire bozmasına uymuşsa da bozmanın gereğini tam olarak yerine getirmediği anlaşılmaktadır. Şöyle ki, banka hesabındaki para yönünden mükerrer ödemeye yol açmayacak şekilde davacı lehine katılma alacağına hükmedilmesi gerektiğine işaret edilerek hüküm bozulmuştur. Tarafların banka hesabındaki parayı miras payları oranında paylaştıkları gözetilmeksizin davacının parayı çektiğine dair kabulünün paranın katılma alacağı olarak çekildiği şeklinde mahkemece benimsenmesi ve bu sebeple hesaptaki para yönünden alacak hakkı kalmadığına dair değerlendirme yapılması hatalı olmuştur. Dosya kapsamından taraflar arasında miras payı oranlarında bölüşüldüğü anlaşılan banka hesabındaki paradan davacının tahsil ettiği kısım dışında kalan para üzerinde önceki bozma ilamına uygun şekilde katılma alacağına hükmedilmesi gerekirken yazılı şekilde hüküm tesisi hatalıdır.
 
 ## Yargıtay 8. HD 2019/6933 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520772100)
+
 Maddi olayları ileri sürmek taraflara, hukuki nitelendirme yapmak ve uygulanacak kanun maddelerini belirlemek hakime aittir (6100 Sayılı HMK mad.33). İddianın ileri sürülüş şekline göre 1002 ada 6 parselde bulunan 1, 2, 4, 5, 6, 7 ve 11 nolu bağımsız bölümler ve 1002 ada 6 parselde bulunan 3 ve 12 nolu bağımsız bölümlere yönelik dava, ölüm nedeniyle mal rejiminin tasfiyesinden kaynaklanan katkı payı alacağı isteğine ilişkindir.
 
 ## Yargıtay 8. HD 2019/5344 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647086900)
 
 Tüm bu açıklamalar nedeniyle, davacı mirasçı sağ eşin mal rejiminin tasfiyesi nedeniyle talep ettiği ve terekeye ait borç sayılan alacak miktarından, davanın mirasçılar arasında görülmesi nedeniyle, davacı da dahil bütün mirasçılar miras payları oranında sorumludurlar. Buna göre, somut olayda hüküm altına alınan tereke borcundan davacının da miras payı oranında sorumlu olduğu göz önünde bulundurularak temyiz eden davalıların miras payları oranında sorumlu olduğunun hüküm fıkrasında gösterilmesi gerekirken bu husus göz ardı edilerek yazılı şekilde karar verilmesi doğru olmamıştır. Ne var ki, bu husus yeniden yargılamayı gerektirmediğinden kararın 1086 sayılı HUMK'un 438/7. maddesi uyarınca düzeltilerek onanması uygun görülmüştür.

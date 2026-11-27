@@ -22,14 +22,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2012/6675 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617525100)
+
 Kooperatife üyelik tarihinden, ferdileşme ile tapu oluştuğu tarihten sonra da ödemeler devam ettiğine göre son olarak 01.06.2002 tarihinde davalıya yapılan devrin bağış kabul edilmesi yerinde ise de, taşınmazın tümü bakımından bağış kabul edilerek davanın tümü ile reddi doğru değildir. Davacı ..., 01.06.2002 tarihinde kooperatif üyelik hakkını tek taraflı olarak davalı eşine devrettiğine göre o tarihe kadarki ödemelerin Borçlar Kanununun 234 ve devamı maddeleri gereğince bağış olduğunun kabulü gerekir. Dava konusu taşınmazın edinilmesi sırasında 01.06.2002 tarihine kadar taşınmaz için yapılan tüm ödemeler üzerinde davacının herhangi bir alacak hakkı bulunmamaktadır. Bu ödemelerin bağış kapsamında değerlendirilmesi gerekir. Ancak bağış sadece devrin yapıldığı 1.6.2002 tarihindeki inşaat durumu ve ödemelerle sınırlıdır. Bu tarihten sonra kooperatif ödemeleri yönünden taraflar arasında edinilmiş mallarla katılma rejimi geçerli olup, davacının isteği katılma alacağı niteliğindedir.
 Katılma alacağı bulunurken eklenecek değerlerden (TMK.nun 229.m.) ve denkleştirmeden (TMK.nun 230.m.) elde edilen miktarlar da, dahil olmak üzere davacı kocanın edinilmiş malın (TMK.nun 219 m.) toplam değerinden bu mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK. 231 m.) yarısı üzerinden (TMK.236/1 m.) tarafların kazanılmış hakları dikkate alınarak hüküm kurulmalıdır.
 
 ## Yargıtay 8. HD 2012/6642 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514017200)
+
 Diğer taşınmazlar yönünden ise dava katılma alacağı davası olup, öncelikle tarafların 1999 yılından beri ayrı yaşayıp -yaşamadıkları, dava konusu taşınmazlar ve otomobilin davalının kişisel geliri ile alınıp -alınmadığı üzerinde durulması, bu hususların açıklığı kavuşturulamaması halinde evlilik resmi olarak devam ettiğinden TMK.nun 222/1, 2, 3 maddelerindeki karinelerin gözönünde tutulması, dava konusu 10713 ada 10 parsel üzerindeki 6 nolu bağımsız bölümün davalı tarafından alınarak birlikte yaşadığı...... adına tescil edilip edilmediği hususunun araştırılması, ondan sonra 2002 yılından sonra edinilen taşınmazlar ve otomobilin edinilmiş mal niteliğinde olduğunun belirlenmesi halinde davacının katılma alacağının belirlenmesi gerekir.
 
 ## Yargıtay 8. HD 2012/6310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631846200)
 
 Dava konusu yapılan ve davalının annesi adına tapuda kayıtlı bulunan 2976 ada 6 parseldeki 1 numaralı meskenin aslında davalı tarafın gelirleri ile alındığı ancak mal kaçırma amacı ile muvazaalı şekilde davalının annesi adına tescil edildiği, bu sebeple taşınmazın tasfiyede dikkate alınmasını ve katılma alacağına hükmedilmesini istemiştir. Davacının talebinin 5.9.2003 tarihinde taraflar arasında edinilmiş mallara katılma rejiminin geçerli olduğu dönemde alınan taşınmazla ilgili katılma alacağı hakkından kaynaklanan hakkını alamaması amacı ile davalının annesi adına yapılan tescilin muvazaalı olduğu iddiasına dayalı tapu kaydının iptali v e davalı eş Duran adına tescil, terditli olarak da bu taşınmazla ilgili yasal katılma alacağının davalı ...’dan tahsili isteği olarak kabulü gerekir. İddianın ileri sürülüş biçimine göre, davanın yasal dayanağının Borçlar Kanununun 18. maddesi olduğu anlaşılmaktadır. Davalı ile annesi arasında gerçekleştiği ileri sürülen muvazaalı işlem davacı yönünden haksız eylem niteliğinde olup, davacının katılma alacağının tahsilini sağlamak bakımından eldeki davayı açmakta hukuksal yararı bulunmaktadır.
 Bağımsız bölümün tapu kaydının iptali ile eski malike dönüşü sağlanması halinde terditli isteği olan edinilmiş mallara katılma (artık değer) alacağının tahsili mümkün olabilir. Bu nedenle taraflar arasındaki uyuşmazlığın çözüm yeri, 6100 sayılı HMK.nun 1 ve devamı maddeleri uyarınca Aile Mahkemesi görevsiz olup, genel mahkemeler görevlidir. Görev kamu düzenine ilişkin olup, yargılamanın her safhasında ileri sürülebileceği gibi, kendiliğinden de gözönünde tutulması gerekmektedir. Bu açıklamalar karşısında mahkemece, davacının bu taşınmazla ilgili talebinin muvazaaya dayalı iptal ve tescil isteği olduğu gözetilerek, davaya bakma görevinin Asliye Hukuk Mahkemesine ait olması nedeniyle görevsizlik kararı verilmesi gerekirken taşınmazla ilgili katılma alacağına hükmedilmesinde de isabet bulunmamaktadır.
@@ -37,11 +43,15 @@ Mahkemenin terditli katılma alacağı isteği bakımından bu taşınmazla ilgi
 
 ## Yargıtay 8. HD 2012/6308 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613773900)
+
 Davada istek katılma alacağı niteliğinde olup, mahkemece dava konusu taşınmazlara ait tedavüllü tapu kayıtları getirtilmiş, davalı tarafından ne şekilde hangi tarihte edinildikleri ayrı ayrı belirlenmiş, tasfiye bakımından hangi mal rejimine tabi oldukları da gözetilerek usulüne uygun alınan bilirkişi raporları doğrultusunda yazılı şekilde hüküm kurulmuştur. Dosya arasındaki tapu kayıtları ve diğer belgeler incelendiğinde, her ne kadar kararda 282 ada 1 parsel 283 ada 1 parsel olarak yazılarak buradan edinilmiş mala gelecek değer ve hükmün 9 numaralı bendindeki red kısmında hata yapılmış, yine gerçek değeri 10.000 TL olduğu halde 1528 ada 8 parseldeki 8 nolu dairenin değeri olarak yanlışlıkla 1506 parseldeki 6 nolu dairenin değeri 75.000 TL dikkate alınmışsa da bu hususlar bilirkişi raporlarındaki değerler karşısında maddi hata olarak kabul edilerek bozma yapılmasına gerek görülmemiş, usulüne uygun gerekçeli ve denetime elverişli bilirkişi raporları karşısında tasfiyeye girmesi gereken artık değerin 1.292.789,29 TL ve davacının bu artık değerin yarısı olarak katılma alacağının 646.394,64 TL olduğu hesaplanmıştır. Mahkemece hükmedilen değer ise 611.695 TL.dir.
 Diğer yandan 1.1.2002 öncesi edinilen kişisel mal niteliğindeki bir kısım taşınmazın 1.1.2002 tarihi sonrası müteahhide verilerek kat karşılığı edinilen daireler kişisel mal yerine geçen ve ikame niteliğinde kişisel mal olduklarından edinilmiş mal içerisinde değerlendirilmemiş olması da yerindedir. Davalı taraf, boşanma sonrası davacıya bedelsiz verdiğini iddia ettiği taşınmaz sebebiyle davacının katılma alacağı hakkı kalmadığını savunmuş ise de bu hususta tek başına soyut müşterek çocuğun beyanı yeterli olmayıp, ispatlanamayan savunmaya itibar edilmemesi de doğrudur. Davacının dava dilekçesinden sonra verdiği 23.3.2010 tarihli dilekçesi de ıslah niteliğinde olmayıp, ıslahın harcı da yatırılan 19.10.2011 tarihinde yapıldığında da tereddüt etmemek gerekir.
 Bu açıklamalar karşısında dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, mevcut deliller mahkemece takdir edilerek karar verildiğine ve takdirde bir isabetsizlik bulunmadığına, bu tür davalarda fedakarlığın denkleştirilmesi ve hakkaniyet kuralının da gözetilmesi gerektiğine, mahkemece dikkate alınan bilirkişi raporlarında gerek değer gerek hesaplama yöntemi bakımından usul ve yasaya aykırı bir durum bulunmadığına, edinilmiş mal olarak değerlendirmeye giren mal varlığında da az yukarıdaki maddi hatalar dışında bir hata yapılmadığına, usule uygun bilirkişi raporları göz önünde bulundurularak davacının katılma alacağı belirlendiğine göre davalı vekilinin aşağıda yazılı husus dışındaki diğer tüm temyiz itirazları yerinde görülmediğinden reddine,…
 
 ## Yargıtay 8. HD 2012/6188 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/630789700)
 
 Davacının talebinin kabul edilerek taşınmaza ait tapu kaydının iptal edilmesi ve davalı eş adına tapuya tescil edilebilmesi için davacının TMK.nun 6 ve 222/1.maddeleri dikkate alınarak tapudaki devrin davacının katılma alacağını azaltma amacı ile yapıldığı ispat edilmelidir. Davalı tapudaki devri, evin ve eşinin ihtiyaçları, ticari borçları ödemek ve davacının babasına araç almak amacı ile yaptığını savunmuş, mahkemece de bu savunmaya itibar edilerek dava reddedilmiştir.
 Toplanan deliller ve dosya kapsamı karşısında davalı her ne kadar satıştan gelen gelirin evin ve eşin ihtiyaçlarında kullanıldığını savunmakta ise de, tapudaki devir bedeli, bilirkişi tarafından taşınmazın satış tarihi itibarıyla belirlenen değeri ve satış tarihi ile boşanma dava tarihi arasında geçen süre, tarafların ekonomik ve sosyal durumları, yaşam düzeyleri, davacı tarafın, davalının evlilik içinde çalıştığı davacının babasına ait büfenin borçlarını da ödemediğine ilişkin sunduğu belgeler, devirden sonra boşanma dava tarihine kadar davacı ile davalı ...’ın, boşanma dava tarihi sonrası ise, Serkan’ın meskende oturmaya devam etmeleri ve nüfus kayıtlarına göre davalı ... ile Bilal arasındaki uzak da olsa akrabalık bağı (..., ...’ın anneannesinin kardeşi Hanife’nin oğlu) karşısında yapılan devrin davacının katılma alacağını azaltma amacı ile yapıldığının (muvazaanın varlığının) kabulü gerekir.
@@ -49,91 +59,133 @@ Mahkemece bu husus dikkate alınıp davalı ...’ın katılma alacağını azal
 
 ## Yargıtay 8. HD 2012/5667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631589600)
+
 Bundan ayrı, dava konusu otomobil, 12.01.2007 tarihinde satın alınarak karşı davalı ... ... adına tescil edilmiştir. Toplanan deliller ve tanıkların beyanlarına göre, dava konusu otomobilin alınması sırasında, karşı davalı ... ...’in kişisel malı niteliğindeki 6 adet bileziğini bozdurmak suretiyle aracın alınmasında kullanıldığı, kalan bölümün ise taraflarca karşılandığı anlaşılmaktadır. Bu açıklamalara göre, karşı davalı ... ...’in kişisel malı niteliğindeki 6 adet bilezik bedeli araç bedelinden düşüldükten sonra kalan artık değer üzerinden karşı-davacı ...’in katılma alacağı belirlenmesi gerekmektedir.
 Bu tür davalarda, eklenecek değerlerden (TMK.m.229) ve denkleştirmeden (TMK.m.230) elde edilen miktarlar da dahil olmak üzere edinilmiş malın (TMK.m.219) toplam değerinden mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK.m.231) yarısı üzerinden (TMK.m.236/1) tarafların kazanılmış hakları da dikkate alınarak katılma alacağının hesaplanması ve TMK nun 227. maddesi hükümleri uyarınca; eşlerden biri, diğerine ait malın edinilmesine, iyileştirilmesine veya korunmasına hiç ya da uygun bir karşılık almaksızın katkıda bulunmuş ise, tasfiye sırasında bu malda ortaya çıkan değer artışı için katkısı oranında değer artış payı alacağının belirlenmesi gerekir. O halde; otomobil yönünden karşı…
 
 ## Yargıtay 8. HD 2012/5320 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/614842400)
+
 Davacının katılma alacağına gelince; Bu tür davalarda, eklenecek değerlerden (TMK.m.229) ve denkleştirmeden (TMK.m.230) elde edilen miktarlar da dahil olmak üzere edinilmiş malın (TMK.m.219) toplam değerinden mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK.m.231) yarısı üzerinden (TMK.m.236/1) tarafların kazanılmış hakları da dikkate alınarak katılma alacağının hesaplanması gerekir. TMK.nun 219.maddesi 1.fıkrası hükmüne göre her eşin bu mal rejiminin devamı süresince karşılığını vererek elde ettiği malvarlığı değerleri edinilmiş maldır. TMK.nun 222/1. maddesine göre ise belirli bir malın eşlerden birine ait olduğunu iddia eden kimse, iddiasını ispatla yükümlüdür.
 
 ## Yargıtay 8. HD 2012/5232 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613631500)
 
 Dava konusu taşınmaz üzerindeki Kapaklı Belediyesi’ne ait pay edinilmiş mallara katılma rejiminin geçerli olduğu dönemde satın alınarak davalı ... adına tescil edildiğine göre, bu pay yönünden dava, TMK.nun 219 ve 231.maddeleri uyarınca katılma alacağına ilişkindir. Katılma alacağı bakımından mahkemece yapılacak iş; eklenecek değerlerden (TMK. m.229) ve denkleştirmeden (TMK. m.230) elde edilecek miktarlar da dâhil olmak üzere davalının edinilmiş payın değerinden, davalı eşin kişisel malından (TMK. 220/2) elde edilen miktar çıkarıldıktan sonra kalan artık değerin (TMK m.231) yarısı üzerinden (TMK m.236/1) tarafların kazanılmış hakları gözetilerek hüküm kurulması gerekirken yasal ve yerinde olmayan gerekçelerle yazılı şekilde karar verilmesi doğru görülmemiştir. Hüküm sadece davacı-davalı ... vekili tarafından temyiz edilmiştir. Bu durum karşısında araç için hüküm altına alınan ve ½ oranına isabet eden 10.000 TL katılma alacağı davalı-davacı ... vekili tarafından temyiz edilmediğinden TMK.nun 236/1. fıkrası uyarınca takas konusunun yeniden kurulacak hüküm ile birlikte yeniden değerlendirilmesi durumu ortaya çıkacaktır. Mahkemece bu hususun gözetilmesi gerekir.
 
 ## Yargıtay 8. HD 2012/5179 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617313500)
+
 Tüm bu açıklamalar nedeniyle, 01.01.2002 tarihi sonrasındaki kooperatif ödemeleri nedeniyle istenen katılma alacağı, davanın açılma tarihi itibariyle TMK.nun 178.maddesindeki bir yıllık dava zamanaşımı süresi geçtiğinden bu bölüme ilişkin davanın reddine karar verilmesi gerekirken, kanunun yanlış değerlendirilerek 2.171,50 TL katılma alacağının kabulüne karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2012/4880 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617894000)
 
 Antalya’da bulunan 2 parça taşınmaz edinilmiş mallara katılma rejiminin geçerli olduğu dönemde satın alınarak davalı adına tescil edildiğine göre; bu taşınmazlar yönünden dava , TMK.nun 219 ve 231.maddeleri uyarınca katılma alacağına ilişkindir. Katılma alacağı bakımından mahkemece yapılacak iş; eklenecek değerlerden (TMK. m.229) ve denkleştirmeden (TMK. m.230) elde edilecek miktarlar da dahil olmak üzere davalı kocanın edinilmiş mallarının toplam değerinden, davalı eşin kişisel malından (TMK. 220/2) elde edilen miktar çıkarıldıktan sonra kalan artık değerin (TMK m.231) yarısı üzerinden (TMK m.236/1) tarafların kazanılmış hakları ile davacıların miras payları gözetilerek hüküm kurulması gerekirken yasal ve yerinde olmayan gerekçelerle davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2012/4773 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/618054300)
+
 Kural olarak; edinilmiş mallara katılma rejiminin geçerli bulunduğu dönemde edinilen taşınmazların yalnız eşlerden biri adına tescil edilmiş olması, diğer eşin katılma alacağı hakkını ortadan kaldırmaz. Davacının taşınmazın aynen paylaşımına yönelik isteğinin, 07.10.1953 tarihli 8/7 sayılı Yargıtay İçtihadı Birleştirme Kararı uyarınca kabulü mümkün bulunmamaktadır. Davacının katılma alacağı ise, eklenecek değerlerden (TMK. m. 229) ve denkleştirmeden (TMK. m. 230) elde edilen miktarlar da dahil olmak üzere edinilmiş malın (TMK. m. 219) toplam değerinden varsa mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK. m. 231) yarısı üzerinden (TMK. m. 236/1) taleple bağlı kalınarak hesaplanır. Somut olayda, nizalı taşınmazın alımı nedeniyle kullanıldığı belirtilen kredi borcunun mal rejiminin sona erdiği tarih itibariyle tamamen ödenmiş olup olmadığı da belirlenmemiştir.
 
 ## Yargıtay 8. HD 2012/4295 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/611515500)
 
 Evlilik içinde 01.01.2002 tarihi sonrası eşlerden biri adına edinilen mal varlığı üzerinde diğer eşin yasadan kaynaklanan artık değerin yarısı oranında katılma alacağı isteme imkanı bulunmaktadır (TMK.nun 231, 236/1.m.). TMK.nun 222. maddesi gereğince, belirli bir malın eşlerden birine ait olduğunu iddia eden kimse iddiasını ispat etmekle yükümlüdür. Bir eşin bütün mallarının aksi ispat edilinceye kadar edinilmiş mal olarak kabul edilmesi gerekir. Davalı tarafından dava konusu taşınmazlardan 648 ada 12 parselin dava dışı kişiden bedelsiz olarak emaneten alındığı, para ödenmediği, diğer taşınmazın ise 01.01.2002 tarihi öncesinde elde edilen gelirle ve borçlanarak satın alındığı, kişisel mal olduğu savunulmuş ise de bu savunma TMK.nun 6. ve 222.maddelerine göre ispat yükümlüsü bulunan davalı tarafça ispatlanamamıştır. Katılma alacağı bakımından talepte bulunan eşin çalışıp çalışmaması veya herhangi bir katkıda bulunup bulunmamasının bir önemi de yoktur. Katılma alacağı yasadan kaynaklanmaktadır.
 Mahkemece her iki taşınmazın da edinilmiş mal olarak hesaplamada dikkate alınması ve 648 ada 12 parsel üzerinde bulunan akaryakıt istasyonunun hesaplama dışında bırakılmış olmasında bir isabetsizlik yoktur.
 
 ## Yargıtay 8. HD 2012/3979 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617854900)
+
 Katılma alacağı davalarında, Yargıtay’ın ve Dairemizin kararlılıkla uyguladığı hesaplama yöntemi; “eklenecek değerlerden (TMK 229 m) ve denkleştirmeden (TMK 230 m) elde edilen miktarlar da dahil olmak üzere, davalının edinilmiş mallarının (TMK 219 m) toplam değerinden bu mallara ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK 231 m) yarısı üzerinden (TMK 236/1 m) tarafların kazanılmış hakları da dikkate alınarak hüküm kurmaktan ibarettir.” şeklindedir. Katılma alacağı miktarının, tasfiyeye konu mal varlıklarının değerlerinden farklı olup, az yukarıda açıklandığı gibi bir takım hesaplamaların ve belirlemelerin yapılması sonucunda ortaya çıkan rakam olduğu göz ardı edilmemelidir. Bu da, tahkikat sonucu bulunan miktardır.
 
 ## Yargıtay 8. HD 2012/2732 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/603345200)
 
 Şu halde TMK.nun 202, 219, 222, 231, 235 ve 236/1. maddelerinin kapsamları göz önünde bulundurularak davacının edinilmiş mallara katılma alacağı kapsamında katılma alacağının hesaplanması gerekirken hukuki nitelendirmede maddi yanılgıya düşülerek davanın reddine karar verilmiş olması usul ve kanuna aykırıdır.
 
 ## Yargıtay 8. HD 2012/2668 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/603242900)
+
 Boşanma davası 18.02.2009 tarihinde açılmış olup, taraflar arasındaki mal rejimi TMK.nun 225/son fıkrası uyarınca bu tarihte sona ermiştir. Boşanma dava tarihine kadar ödenen 17 taksitin edinilmiş mallara katılma rejiminin geçerli olduğu dönem içinde ödendiğinin kabulü gerekir. Bu durum karşısında 84 aya göre ödenen 17/84 oranı edinilmiş mallara katılma rejimi için gözetilmesi gereken artık değer olarak kabul edilmelidir. Kalan 67/84 oranı ise, davalı ... tarafından ödenmesi gerektiği düşünülerek onun kişisel malı (borcu) olduğunun kabulü ile belirtilen oranlara göre hesabın yapılması gerekmektedir (Karar tarihine yakın tarihteki taşınmazın sürüm değeri /84x17= bulunacak artık değerin yarısı, “...taşınmazın sürüm değeri/84x67= çıkacak miktar davalının kişisel malı olup,” sürüm değerinden düşürülecek borçtur. Yani “.... sürüm değer – davalının kişisel malı = artık değerin 1/2'si katılma alacağı" olacaktır. Bu formüllerden biri ile sonuca ulaşmak mümkündür).
 
 ## Yargıtay 8. HD 2012/2640 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/604298200)
 
 İddianın ileri sürülüş biçimine göre, davanın yasal dayanağının Borçlar Kanununun 18. maddesi olduğu anlaşılmaktadır. Davalılar arasında gerçekleştiği ileri sürülen muvazaalı işlem davacı yönünden haksız eylem niteliğinde olup, davacının katılma alacağının tahsilini sağlamak bakımından eldeki davayı açmakta hukuksal yararı bulunmaktadır. Bağımsız bölümün tapu kaydının iptali ile eski malike dönüşü sağlandığı takdirde terditli isteği olan edinilmiş mallara katılma (artık değer) alacağının tahsili sağlanmış olacaktır. Bu nedenle taraflar arasındaki uyuşmazlığın çözüm yeri, 6100 sayılı HMK.nun 1 ve devamı maddeleri uyarınca Aile Mahkemesi görevsiz olup, genel mahkemeler görevlidir. Görev kamu düzenine ilişkin olup, yargılamanın her safhasında ileri sürülebileceği gibi, kendiliğinden de gözönünde tutulması gerekmektedir. Bu açıklamalar karşısında mahkemece, davacının genel muvazaaya dayalı iptal ve tescil isteği ile ilgili olarak görevsizlik kararı verilmiş olmasında bir isabetsizlik yoktur.
 
 ## Yargıtay 8. HD 2012/1750 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602103900)
+
 Yine 34 V 4662 plakalı aracın edinme tarihi 27.5.2003 olduğu ve edinilmiş mallara katılma rejiminin geçerli olduğu dönemde alındığı ve davacının bu dönemde araç üzerinde artık değerin yarısı oranında katılma alacağı bulunduğu halde alım tarihinin hatalı şekilde 3.7.1995 yılı olduğu gözetilerek katkı payı alacağı olarak 2.400 TL.ye hükmedilmiş olması hatalıdır. Ancak karar tarihine en yakın değer 9.000 TL. olduğuna, davacının katılma alacağının bu durumda 4.500 TL olması sebebiyle bu miktara hükmedilmesi gerekmesine rağmen hüküm davalı vekili tarafından temyiz edilmiş olduğundan, hükmün esasının davalı aleyhine bozulma imkanı bulunmadığına göre temyiz edenin sıfatına göre bu hususta bozma sevk edilmemiştir.
 
 ## Yargıtay 8. HD 2012/982 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524745000)
 
 Dava konusu yapılan davalının Merkez Bankasındaki iki ayrı hesabında bulunan paralar üzerinde hesapların 01.01.2002 öncesi evlilik birliği içinde açılmış olduklarının belirlenmesi sebebiyle davacının katkıda bulunduğunu ispat etmesi halinde katkıdan kaynaklanan katkı payı alacağı isteme imkanı vardır. Ayrıca evlilik birliği içinde 01.01.2002 sonrası boşanma dava tarihine kadar elde edilen faiz geliri üzerinde de davacının yasadan kaynaklanan artık değerin yarısı oranında katılma alacağı isteme imkanı bulunmaktadır (TMK’nun 231, 236/1.m.). TMK.nun 222. maddesi gereğince, belirli bir malın eşlerden birine ait olduğunu iddia eden kimse iddiasını ispat etmekle yükümlüdür. Bir eşin bütün malları aksi ispat edilinceye kadar edinilmiş mal olarak kabul edilmesi gerekir. Mahkemece, kabulüne karar verilen davalının banka hesabındaki paranın kişisel malı olduğu davalı tarafca ispatlanamamıştır.
 Bu açıklamalar doğrultusunda dosya arasına getirtilen hesap ekstreleri ile uyumlu olduğu anlaşılan banka hesaplarındaki paraların 1.1.2002 ile boşanma dava tarihi (2.11.2006) arasında getirdikleri faiz geliri üzerinde davacı tarafın yarı oranda katılma alacağı bulunduğu gözetilerek yazılı şekilde 10.504,24 TL katılma alacağına hükmedilmiş olmasında bir isabetsizlik bulunmamaktadır. Davalı vekilinin katılma alacağına yönelik temyiz itirazları yerinde değildir.
 
 ## Yargıtay 8. HD 2012/305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521507300)
+
 Dava konusu 13776 ada 1 parselle ilgili katılma alacağı yönünden; mahkemece meskenin davalı adına tapuda kayıtlı iken 29.12.2005 tarihinde ...’a devredildiği, taraflar arasında mal rejiminin sona erdiği 30.01.2008 tarihinde taşınmazın davalı adına tapuda kayıtlı olmadığı, tasfiyeye tabi tutulamayacağı, TMK.nun 229/2. maddesi karşısında yapılan devrin davacının katılma alacağını azaltma amacı ile yapıldığının dosya içindeki delillerle ispatlandığının kabul edilemeyeceği, bu hususta davacının soyut iddiasından başka bir delil bulunmadığı gerekçesi ile davanın reddine karar verilmiş ise de mahkemece yapılan araştırma ve inceleme hüküm vermeye yeterli bulunmamaktadır.
 
 ## Yargıtay 8. HD 2012/129 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521490800)
 
 Bu durumda kooperatiften davalı adına edinilen 3 nolu mesken üzerinde davacının mal rejiminin tasfiyesinden kaynaklanan alacak isteme hakkının bulunduğu kabul edilmelidir. Ancak, az yukarıda açıklandığı üzere kabule karar verilen 100.000 TL katılma alacağından fazlaya isabet eden toplam 745.000 TL katılma alacağı ile ilgili davacının alacak hakkı zamanaşımına uğradığından artık 3 nolu meskenle ilgili de 01.01.2002 sonrası yapılan ödemelerden kaynaklanacak davacının katılma alacağını isteme imkanı bulunmamaktadır. Ancak 01.01.2002 öncesi döneme isabet eden ödemelerle ilgili davacının katkı payı alacağının hesaplanması gerekir.
 
 ## Yargıtay 2. HD 2011/15555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82007300)
+
 Davacı-davalı kocanın katılma alacağına ilişkin davasının görülebilmesi için eşler arasında geçerli bulunan edinilmiş mallara katılma rejiminin (TMK.md.218-241) sona ermesi (TMK.md.225) gerekmektedir. Açılan boşanma davası henüz sonuçlanmamıştır. Bu durumda, mahkemece, katılma alacağına ilişkin davanın boşanma davasından ayrılmasına karar verilip, bağımsız olarak görülmesinin sağlanması katılma alacağı davasında ise boşanma davasının sonuçlanmasının beklenilmesi gerekir. Boşanma kararı verildiği ve kesinleştiği takdirde eşler arasında geçerli bulunan edinilmiş mallara katılma rejimi boşanma davasının açıldığı tarihten itibaren (TMK.md.225/2) sona ereceğinden; katılma alacağı davasının esasına girilip inceleme yapılarak gerçekleşecek sonucu uyarınca bir karar verilmesi gerekirken; yazılı şekilde katılma alacağı istemi yönünden karar verilmesine yer olmadığına şeklinde hüküm kurulması usul ve yasaya aykırı olup, bozmayı gerektirmiştir..
 
 ## Yargıtay 8. HD 2011/7731 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/601525200)
 
 Dava konusu araçla ilgili istek ise katılma alacağı niteliğindedir: Bu sebeple aracın karar tarihine en yakın tarihindeki değerinin (23.700 TL.) artık değer (TMK.nun 231.m) kabul edilerek davacının artık değerin yarısı oranında (TMK.nun 236.m.) katılma alacağının bulunduğunun dikkate alınması gerekir. Mahkemece tasfiye tarihi (karar tarihine en yakın tarih) itibarıyla belirlenecek sürüm değerinin dikkate alınması gerekmekte ise de dosya kapsamı ile piyasa değerinden daha düşük olan ve davalı lehine bulunan 2010 yılı kasko değerinin dikkate alınmasında temyiz edenin sıfatına göre bir isabetsizlik görülmemiştir. Her ne kadar 2010 yılı kasko değerinin dikkate alınması halinde davalı lehine daha da düşük değer çıkabileceği düşünülebilirse de nitelikleri belirlenen dava konusu aracın 2010 yılı kasko değerinin hesaplamada dikkate alınacak değerden daha aşağıda olmadığı da kasko değer listesinden anlaşıldığından bu hususta bozma sevk edilmemiştir. Mahkemece belirlenen toplam değer içerisinde araç için ne miktara hükmedildiği, araç yönünden de takdiren %10 artış uygulanıp uygulanmadığı da hükümden anlaşılamamaktadır.
 Mahkemece yapılması gereken iş; az yukarıda açıklanan hesaplama yöntemine göre davacının katılma alacağını belirlemek olmalıdır.
 
 ## Yargıtay 8. HD 2011/5865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570102900)
+
 Dava konusu meskenin aile konutu olduğunun tespiti yönünde mahkemece karar verilmiş ise de, davacı ile eşi ... arasındaki evlilik ...'nin ölümü nedeniyle sona erdiğinden meskenin aile konutu olarak tespit ve tesciline karar verilemez. Davacının ve davalının taraf olduğu yukarıda belirtilen davada mülkiyet payı belirlendiğinden, tapu paylı mülkiyete dönüştüğünden intifa hakkına da karar verilemez. Öncelikle isteğin katkı payı alacağı ya da edinilmiş mallara katılma alacağı mı yoksa kısmen katkı payı alacağı, kısmen de katılma alacağımı olduğu saptanmalı, sözü edilen mal rejimlerinden hangisinin ağırlıkta olduğu açıklanan alacak türlerin saptanmasında gözönünde tutulmalı şayet yasal mal rejimi olarak kabul edilen edinilmiş mallara katılma alacağının ağırlıkta olduğunun belirlenmesi halinde TMK.nun 240. maddesinin değerlendirilmesi düşünülmelidir. Çünkü mülkiyet hakkı TMK.nun 240. maddesi uyarınca edinilmiş mallara katılma alacağı karşılığında tanınan bir haktır. 01.01.2002 tarihinden önce geçerli olan mal ayrılığı döneminde edinilen mallardan kaynaklanan katkı payı alacağı karşılığında böyle bir hak tanınmamıştır.
 
 ## Yargıtay 8. HD 2011/5848 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569873700)
 
 Dava; muvazaa nedenine dayalı tasarrufun iptaliyle davalı eş adına tapuya tescili ile taşınmaz üzerindeki katılma alacağına ilişkin olup, mahkemece katılma alacağına ilişkin dava dosyası tefrik edilerek ayrı esasa kaydedilmiş ve yargılamaya muvazaa iddiası yönünden devam olunmuş, yazılı şekilde karar verilmiştir. Davacı vekili, taraflar arasındaki boşanma davası devam ederken, davalı kocanın evlilik birliği içerisinde edinilen taşınmazı muvazaalı olarak diğer davalıya devrettiğini ileri sürerek istekte bulunmuştur. İddianın ileri sürülüş biçimine göre, davanın yasal dayanağının Borçlar Kanununun 18.maddesi olduğu anlaşılmakta olup katılma alacağına ilişkin dava dosyası ayrılarak başka esas üzerinden yürütülmüştür. Muvazaa nedeniyle açılmış bulunan eldeki davada davalılar arasında gerçekleştiği ileri sürülen muvazaalı işlem, davacı yönünden haksız eylem niteliğinde olup davacının katılma alacağının tahsilini sağlamak bakımından eldeki davayı açmakta hukuksal yararı bulunmaktadır. Bu nedenle taraflar arasındaki uyuşmazlığın çözüm yeri, HUMK. nun 1 vd. maddeleri uyarınca dava değerine göre genel mahkemeler olup Aile Mahkemesinin görev kapsamı dışında kalmaktadır.
 Görev, kamu düzenine ilişkin olup yargılamanın her safhasında ileri sürülebileceği gibi, kendiliğinden de göz önünde tutulması gerekmektedir. Yukarıda açıklanan hususlar nazara alınarak dava dilekçesinin görev yönünden davanın reddine karar verilmek suretiyle dosyanın yetkili ve görevli Asliye Mahkemesine gönderilmesi gerekirken işin esasına girilerek yazılı şekilde karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2011/5240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567758900)
+
 Davacının belirtilen dönem itibariyle isteği katılma alacağı niteliğindedir (TMK. md. 231, 236). Buna ilişkin davalarda kural olarak; eklenecek değerlerden (TMK.m.229) ve denkleştirmeden (TMK.m.230) elde edilen miktarlar da dahil olmak üzere edinilmiş malın (TMK.m.219) toplam değerinden mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK.m.231) yarısı üzerinden (TMK.m.236/1) tarafların katılma alacağının hesaplanması gerekir. Somut olayda taraflar arasında mal ayrılığı rejiminin tabi olduğu dönemde davalı adına üyelik yoluyla ödemelere başlanarak, edinilmiş mallara katılma rejiminin geçerli bulunduğu dönemde ödemeleri devam eden kooperatife ilişkin inşaatın 1.1.2002 tarihinden sonra boşanma dava tarihi itibariyle tamamlanma oranının ve inşaat seviyesinin tespiti ile yapılan ödemelerin ve tarafların katılma alacağının açıklanan şekilde tespiti gerekirken;
 1.1.2002 sonrası döneme ilişkin olarak da eşler arasında mal ayrılığı rejiminin geçerli olduğu döneme ilişkin uygulanan formül gereği hesaplama yapılmak suretiyle davacının katılma alacağının eksik tespiti doğru değil ise de, davalının aleyhine olan bu husus hükmü temyiz edenin sıfatına göre bozma nedeni yapılmamıştır.
 
 ## Yargıtay 8. HD 2011/4550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535664800)
 
 Uyuşmazlığa konu 35 EFB 06 plakalı araç ise 3.8.2004 tarihinde satın alma suretiyle davalı eş adına tescil edilerek, 11.8.2005 tarihinde 3. kişiye satış suretiyle devredilmiştir. Davacı taraf dava dilekçesinde, nizalı aracın satışından payına düşen bedeli almadığını belirterek alacak isteğinde bulunmuş; yargılama safhasında ise, aracın alımında kullanılmak üzere davacının yıllarca yaptığı birikiminin yanısıra çevreden de borç alındığı ve halen de davacı tarafından ödenmekte olduğu, satış parasının davalı tarafından kendisine yönelik lüks vb. harcamalarda sarfedildiği ileri sürülerek yarı bedelin davalıdan tahsili talep edilmiştir. Yukarıda da açıklandığı üzere taraflar arasındaki mal rejimi TMK.nun 225/2.maddesine göre boşanma davasının açıldığı tarihte son bulmuştur. TMK.nun 235.maddesi hükmüne göre mal rejiminin sona erdiği sırada var olan edinilmiş mallar veya TMK.nun 219/5. maddesine göre edinilmiş malların yerine geçen değerler hesaba katılabilir.
 Dava konusu araç boşanma ile sonuçlanan davanın açıldığı 26.7.2007 tarihinden önce-evlilik birliğinin devamı sırasında 11.8.2005 tarihinde satılmış olup, mal rejiminin sona erdiği tarih itibariyle katılma alacağı hesabına dahil edilecek bir değer ileri sürülmediği gibi, katılma alacağını azaltmak kastıyla devir yapıldığı veya davacının değer artış payı alacağına konu bir alacağı bulunduğu ya da boşanma davasının açıldığı 26.07.2007 tarihinden yaklaşık 2 yıl önce satılan araçtan elde edilen paranın evin ortak giderlerine harcanmadığı da ispatlanamamıştır. TMK.nun 6 ve 222. maddesi hükmüne göre herkes iddiasını ispatla yükümlüdür. Davacı aracın satışından alınan paranın evin ortak giderlerine harcanmadığını kanıtlamak durumundadır. Zira aracın satışı ile edinilen yüksel miktardaki paranın davacının iddia ettiği biçimde davalı tarafından harcanmış olması aynı zamanda hayatın olağan akışına da uygun düşmez. Evlilik birliği içinde edinilen kazanımlar kadar, eşlerden birinin diğerinin katılma alacağını azaltma kastının varlığının ispatlanamadığı menfi tasarruflar da eşlerin ortak yükümlülüğündedir.
@@ -141,10 +193,14 @@ Davacının araç bakımından alacak isteğine ilişkin davanın reddinde de us
 
 ## Yargıtay 8. HD 2011/4400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/565875500)
+
 Davalının 32 K 0108 plakalı araca yönelik temyiz itirazlarına gelince; davacı eş, 18.3.2010 tarihli yargılama oturumunda, aracın bedelinin tamamına yakın bölümünün kendisi tarafından karşılandığını, ancak, davalı eşine ait bileziklerin de bozdurularak bedeli olan 1150 TL'sını da ekleyerek satın alınıp davalı eş adına tescil edildiğini açıklamıştır. Dava konusu 32 K 0108 plakalı araç, edinilmiş mallara katılma rejiminin geçerli olduğu 21.4.2009 tarihinde satın alınarak davalı eş adına tescil edilmiş olup, bu rejim dönemine ilişkin olarak, bu rejimden kaynaklanan artık değer üzerindeki katılma alacağı istenebilir(TMK.231.md). Katılma alacağı rejiminde karine, evlilik birliği içinde edinilen malın, edinilmiş mal olmasıdır. Aksini iddia edenin malın kişisel malı olduğunu ya da kişisel malı ile katkı sağlamış olduğunu ispat etmesi gerekmektedir. Eşlerden birinin yalnız kişisel kullanımına yarayan eşyalar kişisel maldır (TMK 220/1. Md). Kural olarak bunlar tasfiyeye dahil edilmez. Ancak, katılma alacağının hesabından düşülmesi gerekir.
 Dosya içerisindeki bilgi ve belgeler ile davacının aşamalardaki açık ikrarından; davalı kadının kişisel mal niteliğindeki ziynet eşyalarının bozdurularak 32 K 0108 plakalı aracın alınmasına 1150 TL katkıda bulunduğu anlaşılmaktadır. Bu belirlemelere göre; mal rejiminin sona erdiği tarihten (29.4.2009 boşanma dava tarihinde) 8 gün önce satın alınan aracın, tasfiye tarihine en yakın olan 1.12.2009 tarihindeki mahkemece tespit edilen değerinden (4.500 TL), kişisel mal niteliğindeki ziynetlerin bedelinin (1150 TL) düşülmek suretiyle, kalan artık değer üzerinde tarafların yarı oranında katılma alacakları bulunmaktadır. Davacının artık değerin yarısı üzerinde hakkı bulunduğuna göre, davacı lehine hükmedilmesi gereken miktar 1675 TL'dir. Mahkemece araca yönelik talep bakımından belirtilen miktar ve davacının isteği göz önünde bulundurularak hüküm kurulması gerekirken artık değer üzerinde tarafların ½ oranında haklarının bulunduğu göz ardı edilerek yanlış hesaplama ile yazılı şekilde hüküm kurulmuş olması doğru olmamıştır.
 
 ## Yargıtay 8. HD 2011/3613 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534258000)
 
 Meskenle ilgili davacının katılma alacağı isteği bakımından; davalı tarafından dava konusu meskenin anne ve babasına şehit olan kardeşi sebebiyle ödenen tazminatlarla alındığı savunulmuş ve mahkemece bu savunmanın ispat edilemediği gerekçede açıklanmış ise de; dosya kapsamı ve toplanan delillere, davalının sunduğu dekontlar ve banka hesap ekstrelerine göre davalının kardeşi sebebiyle ödendiği söylenen miktarlarla ilgili 24.4.2003 tarihinde davalının babası ... adına Ziraat Bankası Kozan şubesindeki hesaba EFT yapıldığı, bu hesabın aktarıldığı Türkiye İş Bankası Kozan şubesindeki ...'ya ait hesaptan dava konusu meskenin alındığı 27.1.2005 tarihinde 11.058,13 TL. çekildiğinin tespit edilmesi karşısında tanık beyanları da birlikte değerlendirildiğinde bu miktarın meskenin alımında kullanıldığının kabulü gerekir.
 Karşılıksız kazandırma niteliğindeki bu miktar TMK'nun 220/2.maddesine göre davalının kişisel malı sayılmalıdır.Katılma alacağının hesabında, eklenecek değerlerden (TMK.m.229) ve denkleştirmeden (TMK.m.230) elde edilen miktarlar da dahil olmak üzere edinilmiş malın (TMK.m.219) toplam değerinden mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK.m.231) yarısı üzerinden (TMK.m. 236/1) tarafların katılma alacakları bulunduğu gözetilmelidir. Ancak bu hesaplama yapılırken dava konusu meskenin alım tarihindeki piyasa sürüm değeri uzman bilirkişi aracılığı ile belirlenerek, az yukarıdaki miktarın belirlenecek alım tarihindeki gerçek değer karşısındaki oranının davalının kişisel malı, kalan oranın ise katılma alacağı hesabında esas alınacak oran olduğu, bu oran ile meskenin tasfiye tarihindeki (karar tarihine en yakın) değeri 44.160 TL'nin çarpımı sonucu bulunacak miktarın artık değer olup, artık değerin yarısı oranında da davacının katılma alacağı hakkının bulunduğu dikkate alınmalıdır.

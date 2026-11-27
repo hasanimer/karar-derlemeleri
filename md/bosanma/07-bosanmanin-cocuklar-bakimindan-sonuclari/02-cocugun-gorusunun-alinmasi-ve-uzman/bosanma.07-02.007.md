@@ -22,142 +22,208 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2015/6860 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/394555800)
+
 Velayet düzenlemesinde asıl olan çocuğun üstün yararıdır. Müşterek çocuklardan 24.01.2001 doğumlu Emel'in idrak çağında olduğu anlaşılmaktadır. Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3 ve 6., Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi uyarınca adı geçen çocuğun görüşü de alınarak, bu görüşünde değerlendirilmesi ve ayrıca çocukların üstün yararının tespiti bakımından, mahkemece 4787 sayılı Kanunun 5. maddesi uyarınca uzman veya uzmanlar görevlendirilip, alınacak rapor diğer delillerle birlikte değerlendirilerek, gerçekleşecek sonucuna göre tarafların ortak çocuklarının velayetinin düzenlenmesi gerekirken, bu konuda eksik incelemeyle yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/4334 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/144661500)
 
 Tarafların müşterek çocukları 31.07.1998 doğumlu İ. K.ve 05.10.2004 doğumlu N. E.’nin yargılama süresince davalı baba yanında kaldıkları; idrak çağında bulunan İ. K.’in babasıyla kalmak istediğini açıkladığı, uzman psikolog raporunda ise, davacı annenin ebeveynlik sorumluluklarının hatırlatılması ve 5395 sayılı Çocuk Koruma Kanunu uyarınca "danışmanlık tedbiri" uygulanması halinde, velayetin verilebileceği belirlenmiştir. Uzman görüşü, idrak çağına sahip küçüğün beyanı ve kardeşlerin birbirinden ayrılmasının yaratacağı olumsuzluk dikkate alınarak velayetin davalı babaya verilmesinin çocukların üstün yararına olacağı gözetilmeden, yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/2640 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/397629600)
+
 Velayet düzenirken; gözönünde tutulması gereken temel ilke, çocuğun "üstün yararı” (... Çocuk Haklarına Dair Sözleşme md.3; Çocuk Haklarının Kullanılmasına ilişkin ... Sözleşmesi md. 1; TMK md. 339/1, 34.3/1, 346/1; Çocuk Koruma Kanunu md. 4/b)'dır. Çocuğun üstün yararını belirlerken: onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; boşanmadaki kusurları, ahlaki değer yargıları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde gözönünde tutulur. Bu sebeplerle Mahkemece 4787 Sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5. maddesi gereğince Aile Mahkemesi bünyesinde bulunan psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan inceleme ve rapor istenip; müşterek çocuğun velayetinin ebeveynlerden hangisine bırakılmasında yararının olduğunun saptanması ve diğer deliller de gözönüne alınarak velayet konusunda bir karar verilmesi gerekirken; bu hususta eksik incelemeyle hüküm tesisi usul ve yasaya aykırı bulunmuştur.
 
 ## Yargıtay 2. HD 2015/513 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396445100)
 
 Tarafların müşterek çocuğu... 2005 doğumlu olup, mahkemece aldırılan 23.05.2013 tarihli uzman raporunda, çocuğun anne yanında kalmasının psiko-sosyal gelişimi açısından yüksek yararına olacağı, ... "baba yanında kalmak istiyorum" şeklindeki beyanının, baba yanını eğlenceli, bol oyunlu, anne yanını ise kuralcı olarak görmesinden kaynaklandığı belirtilmiştir. Uzman raporu uyarınca çocuğun velayetinin anneye verilmesi gerekirken, uzman tarafından dinlenildiği sırada henüz idrak çağında olmayan küçüğün beyanına itibar edilerek, velayetin babaya verilmesi usul ve yasaya aykırı olup, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2014/20871 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/87815900)
+
 Velayet kamu düzenine ilişkindir. Velayet düzenlemesinde, çocukların üstün yararı ana ve babanın isteklerinden önce gelir. Müşterek çocuk 2006 doğumlu A.., 13.02.2013 tarihli uzman raporunda: "annesi ile kaldığını, annesinin kendisine iyi baktığını ancak babasının yanında kalmak istediğini, kendisi babasının yanına giderse annesinin eve döneceğini" beyan etmiştir. Uzman, ebeveynlerin çocuklara baskı yaptığını belirtmiştir. Müşterek çocuk A..'in idrak çağında olmadığı dikkate alındığında görüşünün kendi menfaatine olduğu kabul edilemez. Anne yanında kalmasının çocuğun bedeni, fikri ve ahlaki gelişmesine engel olacağı yanında, ciddi ve inandırıcı deliller bulunmadığı halde ana bakım ve şefkatine muhtaç A..'in kardeşlerin ayrılmaması kıstası da dikkate alındığında velayetinin anneye verilmesi gerekirken babaya verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2014/11977 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/87245400)
 
 Velayet düzenlemesinde asıl olan çocuğun üstün yararıdır. Müşterek çocuklardan 23.08.2001 doğunlu Y. C..'ın idrak çağında olduğu anlaşılmaktadır. Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 12. maddesi; Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 2. ve 6. maddesi uyarınca adı geçen çocuğun görüşü de alınarak, bu görüşünde değerlendirilmesi ve ayrıca çocukların üstün yararının tespiti bakımından, mahkemece 4787 sayılı Kanunun 5. maddesi uyarınca uzman veya uzmanlar görevlendirilip,rapor diğer delillerle birlikte değerlendirilerek: gerçekleşecek sonucuna göre tarafların ortak çocuklarının velayetinin düzenlenmesi gerekirken; bu konuda eksik incelemeyle yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2014/4800 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/86415800)
+
 Velayeti annede bulunan Yakup 17.11.2013 doğumlu olup, idrak çağındadır. Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri ve Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi gereğince idrak çağında olan çocuk mahkemece dinlenilmiş ve velayetinin babaya verilmesi yönünde irade beyanında bulunmuştur. Davacı tanık beyanlarından, davalı annenin velayet görevini gereği gibi yerine getirmediği de anlaşılmaktadır. Babanın velayeti ifa edemeyeceği yönünden bir delil de yoktur. Davanın kabulüne karar verilmesi gerekirken yazılı şekilde reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2013/30008 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83646500)
 
 Velayet düzenlemesi yapılırken; göz önünde tutulması gereken temel ilke, çocuğun "üstün yararı" (BM. Çocuk Haklarına Dair Sözleşme md.3; Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesi md.l; TMK.md.339/1,343/1,346/1; Çocuk Koruma Kanunu md.4/b)'dır. Çocuğun üstün yararını belirlerken, onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; boşanmadaki kusurları, ahlaki değer yargıları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde göz önünde tutulur. Alınan uzman raporunda velayeti her iki tarafında istediği belirtilmiş olmasına rağmen taraflardan hangisine verilmesinin çocuğun üstün yararına olduğu rapor edilmemiştir. Davalı baba temyiz dilekçesinde, davacı annenin müşterek çocuğu bırakıp gittiğini ve arayıp sormadığını iddia etmiş olup yargılama süresince müşterek çocuğun kimin yanında bulunduğu konusunda taraflarca beyanda bulunulmadığı gibi mahkemece de her hangi bir araştırma yapılmamıştır.
 O halde mahkemece görevlendirilecek uzman vasıtasıyla tarafların yaşam koşulları ve çocuğa bakım olanakları konusunda yeniden inceleme yapılması; velayeti almak isteyen tarafların gerektiğinde mahkemece bizzat dinlenerek ekonomik ve sosyal durumları ile çocuğa bakım olanakları konusunda kendilerinden de bilgi alınılması ve tüm deliller birlikte değerlendirilip, gerçekleşecek sonucununa göre müşterek çocuğun velayetinin düzenlenmesi gerekirken, eksik incelemeye dayalı olarak velayetin davacı anneye verilmesi usul ve kanuna aykırıdır.
 
 ## Yargıtay 2. HD 2013/29420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83534000)
+
 Kuşkusuz velayetin düzenlenmesinde çocukların üstün yararı, ana ve babanın isteklerinden önce gelir. Çocuklardan H. G..2000 doğumlu olduğuna göre idrak çağındadır. Çocuk Hakları Sözleşmenin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri; iç hukuk tarafından çocuğun idrak çağında olduğu kabul edilen çocuklara adli merci önündeki kendilerini ilgilendiren davalarda kendi görüşünü ifade etmesine müsaade edilmesini ve yüksek çıkarına açıkça ters düşmediği takdirde, ifade ettiği görüşe gereken önemin verilmesini öngörmektedir. Mahkemece bu çocuğa görüşü ifade etmesi olanağı tanınmamıştır. Öte yandan 2005 doğumlu Mustafa yönünden de uzman raporu alınmamıştır. Öyleyse, mahkemece yapılacak iş; çocukların olası sonuçları hakkında bilgilendirilerek velayetleri ile ilgili tercihlerinin sorulması veya bu hususta uzman veya uzmanlardan rapor alınması, tüm deliller birlikte değerlendirilerek, çocukların üstün yararının velayetlerinin ebeveynlerden hangisine bırakılmasında olduğunun saptanması ve düzenleme yapılırken kardeşlerin birbirinden ayrılmaması ilkesi de gözetilerek hasıl olacak sonucuna göre karar vermekten ibarettir.
 Açıklanan hususların üzerinde durulmaksızın eksik inceleme ile hüküm kurulması doğru bulunmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2013/27276 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83533900)
+
 Müşterek çocuk A. 1997 doğumlu olup, idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri; iç hukuk bakımından idrak çağında olduğu kabul edilen çocukların kendilerini ilgilendiren konularda görüşünün alınmasını ve görüşüne gereken önemin verilmesi gerektiğini öngörmektedir. Velayet düzenlemesi, çocukları ilgilendiren konuların başında gelir. Bu nedenle, mahkemece doğrudan ya da görevlendireceği 4787 sayılı Yasanın 5. maddesinde gösterilen uzman veya uzmanlar aracılığıyla velayeti hakkındaki çocuğun görüşünün alınması ve tüm deliller birlikte değerlendirilerek velayet düzenlemesi yapılması gerekirken, eksik inceleme ile hüküm tesisi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2013/26858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83424400)
 
 Velayetin düzenlenmesinde asıl olan çocuğun yararıdır. Ana ve baba ile çocuğun yararının çatışması halinde çocuğun yararına üstünlük tanınmalıdır. Birleşmiş Milletler Çocuk Hakları Sözleşmesi 12 ve Çocuk Haklarının Kullanılmasına İlişkin Sözleşmenin 3 ve 6. maddeleri iç hukuk yönünden idrak çağında olduğu kabul edilen çocukların kendilerini ilgilendiren konularda; görüşlerinin alınmasını ve görüşlerine gereken önemin verilmesini öngörmektedir.Velayet düzenlemesi çocukları ilgilendiren konuların başında gelir. Çocuğun üstün yararı gerektirdiği takdirde; gerekçeleri gösterilerek çocuğun görüşünün aksine de karar verilmesi mümkündür. Velayete tabi müşterek çocuklardan İbrahim Buğra 1997, A.B. 2001 doğumlu olup; idrak çağındadırlar. Velayet düzenlemesi konusunda çocukların uzman vasıtası ile alınan görüşlerinde; babaları ile mutlu olduklarını bildirdikleri ve velayetlerinin babalarına verilmesini tercih ettikleri görülmektedir. Diğer yandan, çocukların üstün yararları gerektirmediği sürece kardeşlik duygusunu yaşayabilmeleri için, velayetlerinin aynı ebeveyne verilmesi tercih edilmelidir.
 Bu ilkeler gözetildiğinde; çocukların velayet konusundaki tercihlerinin aksine karar verilmesini gerektirir üstün yararları konusunda bir delil ve veri bulunmamaktadır. O halde çocukların velayet konusundaki tercihlerine değer verilerek, velayetlerinin davalı babaya verilmesi gerekirken; yazılı şekilde anneye verilmesi isabetsiz olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2013/21199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83626200)
+
 Birleştirilen dava velayetin değiştirilmesi davası olup, bu davalar kamu düzenine ilişkin olduğundan; “re’sen araştırma ilkesi” geçerlidir. Davacı-davalı herhangi bir delil bildirmemiş ise de; velayeti davalı-davacı annede bulunan müşterek çocuk D.05.02.2000 doğumlu olup, idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri; iç hukuk bakımından idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşünün alınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Velayet, çocukları ilgilendiren konuların en önemlilerindendir. Velayetin değiştirilmesinin gerekip gerekmediği konusunda; mahkemece uzman incelemesi yaptırılmadığı gibi; karar tarihinde çocuk idrak çağında olduğu halde, görüşüne de başvurulmamıştır.
 Ortak çocuk idrak çağında olduğuna göre; mahkemece sonuçları hakkında bilgilendirilerek velayet tercihi konusunda çocuğun bizzat dinlenmesi; bu yeterli olmadığı takdirde 4787 sayılı Kanunun 5. maddesinde gösterilen uzman veya uzmanlardan velayet konusunda rapor alınarak, tüm deliller birlikte değerlendirilmek suretiyle velayetin düzenlenmesi gerekir. Açıklanan yönde işlem ve inceleme yapılmak üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2013/20921 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83544700)
 
 Velayet düzenlemesi yapılırken; göz önünde tutulması gereken temel ilke, çocuğun "üstün yararı" (BM Çocuk Haklarına Dair Sözleşme md. 3; Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesi md. 1; TMK. md.339/1, 343/1, 346/1; Çocuk Koruma Kanunu md. 4/b)’dır. Çocuğun üstün yararını belirlerken; onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; boşanmadaki kusurları, ahlaki değer yargıları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde göz önünde tutulur. Mahkemece tarafların müşterek çocukları 2011 doğumlu M.'nın velayeti davalı anneye verilmiştir. Dosya kapsamındaki delillerden ve tanık beyanlarından davalı kadının başka bir kişi ile çocuğunu bırakarak kaçtığı anlaşılmaktadır.
 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5. maddesi gereğince Aile Mahkemesi bünyesinde bulunan psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan inceleme ve rapor istenip, davalı annenin barınma, gelir, sosyal ve psikolojik durumuna göre ortak çocuğun sağlıklı gelişimi için velayeti üstlenmeye engel bir durumun bulunup bulunmadığının araştırılması ve tüm delillerin hep birlikte değerlendirilmesi suretiyle gerçekleşecek sonucuna göre karar verilmesi gerekirken; eksik inceleme ve araştırma ile velayet konusunda yazılı şekilde karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2013/13240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83413400)
+
 Müşterek çocuk E...'in, davacı anne yanında Ankara'da ikamet ettiği hususu, temyiz incelemesi sırasında ileri sürülmüş ve küçüğün öğrenim gördüğü okula ilişkin öğrenim belgesi sunulmuştur. Bu durumun araştırılarak yaşı itibariyle idrak çağında olduğu anlaşılan müşterek çocuğun, Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri gereğince mahkemece bizzat dinlenilerek, velayeti konusunda bilgilendirildikten sonra velayet tercihi hakkında görüşünün sorulması; bu beyan yeterli bulunmadığı takdirde de, 4787 sayılı yasanın 5. maddesi gereğince maddede gösterilen uzman veya uzmanlardan rapor alınmak ve bu suretle, gerçekleşecek sonucuna göre karar verilmek üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2013/12235 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83166700)
 
 Velayet kamu düzenine ilişkindir.Velayet düzenlemesinde aslolan çocuğun sağlık, eğitim ve ahlaki bakımdan yararıdır. Davalı baba, velayeti annesine verilen 21.5.2005 doğumlu E. Ç.'ı annesinin karar tarihinden sonra evinin yakınlarına bırakması nedeniyle kendi yanında kalmaya başladığını, burada okula devam ettiğini ileri sürerek, bu hususta delil olarak okula ilişkin belge sunmuştur.İddianın gerçekleşmesi durumunda, belirtilen olaylar velayetin değiştirilmesi veya kaldırılması sebebidir. Velayete ilişkin düzenleme henüz kesinleşmeden böyle bir durumun ortaya çıkması halinde hakim, çocuğun yararını gözeterek düzenlemeye res’en müdahale edebilir ve değiştirebilir. O halde, mahkemece; davalı tarafından bildirilen husus değerlendirilerek, müşterek çocuğun dinlenmesi,gerektiğinde psikolog, pedagog ve sosyal çalışma uzmanlarından yeniden görüş alınmak suretiyle velayetin düzenlenmesi gerekir. Bu husus gözetilmeden yazılı şekilde karar verilmesi usul ve yasaya aykırı olup hükmün bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 2. HD 2013/11997 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82917900)
+
 Tarafların müşterek çocukları 1996 doğumlu Veysel, 1997 doğumlu Oğuz ve 1999 doğumlu Fadimana'nın velayetleri mahkemece davacı-davalı anneye verilmiştir. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri; iç hukuk bakımından idrak çağında olduğu kabul edilen çocuklara, kendilerini ilgilendiren konularda görüşlerini ifade etme olanağı tanınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Velayet çocukların kendilerini ilgilendiren konuların en önemlilerindendir. Mahkemece, çocukların velayeti anneye verilmiş, ancak bu konuda çocukların görüşüne başvurmamıştır. Bu nedenle; velayetin tevdii konusunda bilgilendirmeleri suretiyle, çocukların bizzat veya 4787 sayılı Kanunun 5. maddesi uyarınca görevlendirilecek uzman veya uzmanlar eliyle görüşlerine başvurulması, velayet konusundaki tercihlerinin sorulması ve tüm deliller birlikte değerlendirilerek, çocukların üstün yararını gözetecek şekilde velayetin düzenlenmesi gerekirken; bu konuda eksik inceleme ile karar verilmesi usul ve yasaya aykırı olmuş; bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2013/9892 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82695300)
 
 Müşterek çocuklardan 1997 doğumlu İbrahim'in velayeti babaya, diğer çocukların velayeti ise anneye bırakılmıştır. Türk hukukunun da bir parçası olan "Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve "Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin" 3. ve 6. maddeleri; çocukları ilgilendiren konularda idrak çağındaki çocukların görüşünün alınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Velayet düzenlemesi; çocukları ilgilendiren konuların en başında gelir. Yaşı nedeniyle idrak çağında olduğu kabul edilmesi gereken çocuklar 2000 doğumlu Cansel ve Yunus Emre 14.03.2011 tarihli uzman raporunda davacı-davalı anne ile kalmak istemediklerini bildirdikleri ve çocukların uzmana baskı altında bu şekilde beyanda bulunduklarına ilişkin bir delil ve olgu bulunmadığı ve yine 11.05.2012 tarihli uzman raporunda da müşterek çocukların davalı-davacı babaya verilmesinin uygun olacağının bildirildiği anlaşılmaktadır. Çocukların velayetlerinin annelerine verilmesini gerektirir bir üstün yararları da ortaya çıkmış değildir.
 Diğer yandan; aksinin kabulünü gerektirir ciddi bir sebep bulunmadıkça; velayet düzenlemesinde, çocukların kardeşlik ve paylaşım duygusunun gelişimi için "kardeşlerin birbirinden ayrılmaması ilkesi"de esastır. Açıklanan hususlar gözetildiğinde; velayet düzenlemesinde, her iki çocuğun üstün yararının; velayetlerinin babaya verilmesini gerektirdiği halde; mahkemece yazılı gerekçeyle velayetlerin anneye verilmesi isabetsiz olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2013/7388 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83738300)
+
 Velayetin kaldırılması kararı ana ve/veya baba için ağır sonuçlar doğuran bir karardır. Bu nedenle, velayetin kaldırılması kararı verilmeden önce velayetin diğer tarafa verilmesiyle yetinilip yetinilemeyeceği konusunda gerekli tüm araştırmaların yapılması; başka çözüm kalmadığı takdirde velayetin kaldırılması gerekir. Mahkemenin hükme esas aldığı 06.05.2011 ve 17.11.2011 tarihli psikolog raporlarında ; müşterek çocuğun babasının kendisini bayramlarda görmeye geldiğini, ifade ettiği belirtilmektedir. Bu durumda, 4787 sayılı Aile Mahkemelerinin Kuruluş. Görev ve Yargılama Usullerine Dair Kanunun 5. maddesi gereğince Aile Mahkemesi bünyesinde bulunan psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan inceleme ve rapor istenip; davalı babanın barınma, gelir, sosyal ve psikolojik durumuna göre çocuğun sağlıklı gelişimi için velayeti üstlenmeye engel bir durumun bulunup bulunmadığının araştırılması ve diğer deliller de gözönüne alınarak velayet konusunda bir karar verilmesi gerekirken; eksik inceleme ve araştırmayla yazılı şekilde velayetin kaldırılmasına karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2013/5913 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82814000)
+
 Velayet hakkı anneye bırakılan küçük ... , 13.03.1997 doğumlu olup, idrak çağındadır. Eylül 2009 tarihinden itibaren davacı babanın yanında kaldığı ve tahsiline burada devam ettiği sabittir. Birlemiş Milletler Çocuk Hakları sözleşmesinin 12. maddesi ile, Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 2. ve 6. maddeleri gereğince idrak çağında olan küçük, mahkemece dinlenmiş ve velayetinin babasına verilmesi yönünde iradesini açıklamıştır. Çocuğun davacı baba yanında kalması halinde, onun fikri ve bedeni gelişimine engel olacak nitelikte mevcut veya muhtemel bir tehlikenin varlığı da ispatlanamamıştır. Gerçekleşen bu durum karşısında, küçük ... velayet hakkının davacı babaya verilmesi gerekirken, talebin reddi doğru olmamıştır.
 
 ## Yargıtay 2. HD 2013/5716 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82549400)
 
 Mahkeme tarafından Ankara Aile Mahkemesi aracılığıyla alınan 9.7.2010 tarihli sosyal inceleme raporunda; davacı koca ile müşterek çocukların ... ilinde birlikte yaşadıkları, davalı annenin ... yaşaması nedeniyle kendisiyle görüşülemediği ve yaşadığı çevre ile ilgili tespitlerin de yapılamadığı,bu durumda, velayetlerin davacı babaya verilebileceği, ancak davalı anne ile de görüşme yapılmasının gerektiği rapor edilmiştir. Kolluk tarafından tutulan 4.5.2012 tarihli tutanakta ise, davacı kocanın ...memur olarak çalıştığı, çocukların ise ... davacının anne ve babası ile birlikte yaşadıkları ve bakımlarının davacının annesi tarafından yapıldığı bildirilmiştir. Velayet düzenlemesinde esas olan, çocukların üstün yararıdır. Velayet hususunda ana ve babanın yararıı ile çocuğun yararı çatıştığı takdirde, çocuğun yararına üstünlük tanınması gerekir.
 Bu nedenle mahkemece 4787 Sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5. maddesi gereğince psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanların görevlendirilip, inceleme ve rapor istenmesi; tarafların barınma, gelir, sosyal durumlarının bulunup bulunmadığının araştırılması ve diğer deliller de gözönüne alınarak velayet konusunda bir karar verilmesi gerekirken; eksik inceleme ve araştırmayla yazılı şekilde karar verilmesi usul ve yasaya aykırı olmuş; bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2013/3882 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82984000)
+
 Çocuklarla ana ve/veya babaları arasında tesis edilen kişisel ilişkinin amacı, aile bağlarını geliştirmek; bu suretle çocuğun kişisel ve ruhsal gelişimini sağlıklı bir şekilde sağlamaktır. Bu sebeple bir çocuk için ana ve babasıyla düzenli şekilde kişisel ilişkiyi elde etmek ve sürdürmek, onun temel hakkı olduğu gibi anne ve baba için de çocuklarıyla düzenli kişisel ilişki kurmak bir haktır. Bu hak, sadece çocuğun yüksek yararı gerektirdiği takdirde kısıtlanabilir veya engel olunabilir. Ya da onun yüksek yararı gerektiriyorsa bu ilişkinin gözetim altında kurulması veya sürdürülmesi öngörülebilir. (Çocuklarla Kişisel İlişki Kurulmasına Dair Avrupa Sözleşmesi md.4) Velayetleri anneye bırakılan müşterek çocuklardan Yaren 1.9.1999, Deren ise 22.08.2009 doğumludur. Davalı babanın, küçük Yaren'e ve davacıya elektronik ortamda gönderdiği iletilerde, ağır küfürler sarfettiği, davalının bu iletilerinin ve boşanma davasından sonra çocuğun dersanesine gidip gösterdiği tavır ve davranışlarının çocuğun huzurunu ve başarısını ciddi olarak etkilediği görülmektedir.
 Gerçekleşen bu olgular karşısında, 1999 doğumlu Yaren'in görüşü de alınarak, her iki çocukla babaları arasında tesis edilecek kişisel ilişkinin yüksek yararlarına uygun düşüp düşmeyeceği ve bu ilişkinin çocukların huzuru bakımından ciddi tehlike oluşturup oluşturmayacağı konusunda pedagog, psikolog ve sosyal çalışmacıdan oluşan uzmanlardan rapor alınması ve tüm deliller birlikte değerlendirilerek kişisel ilişki hakkının babaya tanınıp tanınmayacağı veya bu ilişkinin gözetim altında sürdürüp sürdürülmeyeceği hususu değerlendirilerek, hasıl olacak sonucuna göre karar verilmesi gerekir. Açıklanan hususlar nazara alınmadan eksik inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2013/3133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82817100)
 
 Türk hukukunun da bir parçası olan "Birleşmiş Milletler Çocuk Hakları Sözleşmesi"nin 12. ve "Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesi"nin 3. ve 6. maddeleri; çocukları ilgilendiren konularda idrak çağındaki çocukların görüşünün alınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Velayet düzenlemesi; çocukları ilgilendiren konuların en başında gelir. Yaşı nedeniyle idrak çağında olduğu kabul edilmesi gereken çocuklardan 2001 doğumlu M. annesinin kendisine bakmadığını ve onunla kalmak istemediğini bildirdiğine ve çocuğun uzmana baskı altında bu şekilde beyanda bulunduğuna ilişkin bir delil ve olgu bulunmadığında göre; velayet konusunda alınan uzman görüşü isabetli değildir. Çocukların velayetlerinin annelerine verilmesini gerektirir bir üstün yararları da ortaya çıkmış değildir. Diğer yandan; aksinin kabulünü gerektirir ciddi bir sebep bulunmadıkça; velayet düzenlemesinde, çocukların kardeşlik ve paylaşım duygusunun gelişimi için "kardeşlerin birbirinden ayrılmaması ilkesi"de esastır.
 Açıklanan hususlar gözetildiğinde; velayet düzenlemesinde, her iki çocuğun üstün yararının; velayetlerinin babaya verilmesini gerektirdiği halde; mahkemece yazılı gerekçeyle velayetlerin anneye verilmesi isabetsiz olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2013/1390 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82421400)
+
 Taraflar 21.07.2010 tarihinde kesinleşen karar ile boşanmışlar; müşterek çocukları 16.04.2007 doğumlu G.A.velayeti babaya verilmiştir. Toplanan delillerden davalı babanın önce Kahramanmaraş, ardından Tokat ilinde çalıştığı ve yaşadığı, kararın kesinleşmesinden sonra müşterek çocuğu fiilen Ereğli'de bulunan ailesinin yanına bıraktığı anlaşılmaktadır.Baba kendisine velayet hakkı verildiği halde müşterek çocuğu yanına almamış, velayetle ilgili görevlerini ifa etmemiş, bu görevi başkasına bırakmıştır. Her ne kadar 09.12.2011 tarihli sosyal inceleme raporunda çocuğun, velayetinin babaya verilmesini istediği beyan edilmiş ise de, 2007 doğumlu olan G.A. idrak çağında ve görüşlerinin olası sonuçlarını anlayabilecek olgunlukta değildir. Bu bakımdan idrak çağında olmayan çocuğun görüşüne değer verilemez. Türk Medeni Kanununun 183. ve 349. madde koşulları oluştuğundan müşterek çocuk G. A.velayetinin babadan alınıp, anneye verilmesi gerekirken; davanın reddi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2012/17777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83167800)
 
 Velayeti düzenlenmesi gerekli tarafların ortak çocuğu Ç. D. 1996 doğumlu olup idrak çağında; eş söyleyişle yaşı gözetildiğinde, kendisini ilgilendiren konularda görüşünü bildirebilecek olgunluktadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri iç hukuka göre idrak çağında kabul edilen çocukların kendilerini ilgilendiren konularda görüşünün alınması ve görüşüne gereken önemin verilmesini öngörmektedir. Velayet düzenlenmesi, çocukları ilgilendiren konuların en başında gelir. Mahkemece bu yönde bir işlem ve gerektiğinde bir uzmana da başvurulmadan ortak çocuğun velayeti anneye verilmiştir. Açıklanan nedenlerle mahkemece bizzat dinlenmesi veya görevlendirilecek bir uzman (4787 sayılı kanun m. 5) vasıtasıyla görüşünün alınarak delillerin birlikte değerlendirilerek velayetin hasıl olacak duruma göre düzenlenmesi gerektiğinin düşünülmemesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2012/16038 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82632400)
+
 Tarafların müşterek çocukları 1995 doğumlu A.ve 1998 doğumlu B.idrak çağında olup, görüşlerini oluşturma yeteneğine sahiptir. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12 ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3 ve 6. maddeleri; yeterli idrake sahip olduğu iç hukuk tarafından kabul edilen bir çocuğa adli merci önünde kendisini ilgilendiren davalarda, kendisine danışılmak ve kendi görüşünü ifade etmek hakkı verilerek görüşünün alınmasını ve görüşüne gereken önemin verilmesini öngörmektedir. Bu bakımdan küçükler A. ve B.'in velayet konusunda mahkemece bizzat veya görevlendirilecek bir uzman (4787 sayılı Kanunun m.5) vasıtasıyla kendilerinden tercihleri sorulmalı ve tüm deliller birlikte değerlendirilerek, menfaatlerine uygun düşecek şekilde velayetleri düzenlenmelidir. Bu nedenle, açıklanan hususlar gözetilmeden hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2012/7016 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83110600)
 
 Boşanma sonucu velayet düzenlemesi yapılması gerektiği takdirde; iç hukukun da bir parçası haline gelen Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3 ve 6. maddesine göre; kendilerini ilgilendiren konularda idrak çağındaki çocukların görüşünün alınması ve görüşlerine gereken önemin verilmesi gerekir. Tarafların 1998 doğumlu Nur ile 2005 doğumlu Cennet adlı çocukların mahkemece velayetleri düzenlenmiş; çocukların velayeti davacı anneye verilmiştir. Ancak, çocuklardan 1998 doğumlu Nur'un yaşı gözetildiğinde; idrak çağında olduğu anlaşılmaktadır. İdrak çağındaki Nur'un velayeti konusunda mahkemece bizzat veya görevlendireceği uzman vasıtasıyla görüşü alınmadan velayeti düzenlenmiştir. Çocuklardan 2005 doğumlu Cennet için de bir uzman incelemesi yapılmadan velayet düzenlemesi yapılmıştır. Açıklanan nedenlerle mahkemece açıklanan şekilde inceleme yapılmadan velayet düzenlemesi yapılması usul ve yasaya aykırı olmuş; bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2012/5473 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82777500)
+
 Velayeti anneye verilen ortak çocuklardan Vildan, 1999, Cengizhan 2003 doğumludur. Çocuklardan Vildan doğum tarihine göre idrak çağındadır. Türkiye’nin de taraf olduğu Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3 ve 6. maddeleri idrak çağındaki çocukların kendilerini ilgilendiren konularda görüşlerinin alınmasını ve görüşlerine gereken önemin verilmesini öngörmektedir. Mahkemece velayeti konusunda idrak çağında olan çocuklardan Vildan’ın görüşüne başvurulmamıştır. Bu nedenle mahkemece velayet düzenlemesi için, ortak çocuklardan Vildan’ın bizzat veya görevlendireceği uzman (4787 s.Kanun md.5) vasıtasıyla görüşünün alınması, idrak çağında olmayan Cengizhan’ın velayeti konusunda uzman incelemesi yaptırılıp, kardeşlerin birbirinden ayrılmasının veya velayetlerinin aynı ebeveyne bırakılmasının üstün yararları olup olmadığı da değerlendirilerek; velayet düzenlemesi yapılması gerekirken; bu konuda yazılı şekilde eksik incelemeyle karar verilmesi usul ve yasaya aykırı olup; bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2011/20563 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82339100)
 
 Toplanan delillerden idrak çağında bulunan 2001 doğumlu İ.'nın baba yanında kaldığı, velayetinin babaya verilmesini istediği, davacı babanın 27.06.2011 tarihinde dairemize gönderdiği dilekçeye ekli iddianameden davalı annenin küçük İ.'yı 04.01.2011 tarihinde yaralamak ve tehdit etmekten dolayı yargılanmakta olduğu bildirilmiştir. Usulünce onaylanarak iç hukukumuzun parçası haline gelen Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri idrak çağındaki çocukların kendilerini ilgilendiren konularda görüşünün alınması ve görüşüne gereken önemin verilmesi gerektiğini öngörmektedir. Açıklanan sözleşme hükümleri gözetildiğinde, çocuğun üstün yararı nedeniyle görüşüne değer verilmemesini gerektirecek bir olumsuz durum belirlenmediğine göre; velayetin davacı-davalı babaya verilmesi gerekirken; yetersiz gerekçeyle davalı-davacı anneye verilmesi isabetsiz olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2011/18106 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81718500)
+
 Fiili ayrılık tarihinden beri davalı anne ile birlikte kaldıkları anlaşılan 1995, 1999 ve 2002 doğumlu çocuklardan D. ve İ.'un idrak çağında bulundukları dikkate alınarak (Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına Dair Sözleşmenin 3. ve 6. maddeleri) dinlenmeleri, gerektiğinde uzman görüşüne de başvurularak ( 4787 sayılı Aile Mahkemelerinin Kuruluş ve Görevleri Hakkında Yasa md. 5) tüm delilerin birlikte değerlendirilip gerçekleşecek sonucu uyarınca her üç çocuğun da velayeti hakkında bir karar verilmesi gerekirken; bu yönde eksik inceleme ve araştırma ile hüküm kurulması doğru olmamıştır.
 
 ## Yargıtay 2. HD 2011/18097 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81638100)
 
 Türk Medeni Kanununun 197/son maddesine göre, eşlerin birlikte yaşamaya ara vermesi durumunda; eşlerin ergin olmayan çocukları varsa hakimin, ana ve baba ile çocuklar arasındaki ilişkileri düzenleyen hükümlere göre, gereken önlemleri alacağı öngörülmüştür. Bu durumda, eşler halen evli olsalar bile gerekmesi halinde hakim velayetin birlikte kullanılmasına (TMK.md.336/1) müdahale ile geçici velayet düzenlemesi yapılarak velayeti ana veya babadan birinin üstlenmesine karar verilebilir. Velayet kamu düzenine ilişkindir. Velayet düzenlemesinde aslolan çocuğun sağlık, eğitim ve ahlaki bakımdan yararıdır. Davacı baba, annesi yanında bulunan müşterek çocukların şiddete maruz kaldığını ileri sürerek, bu hususta Cumhuriyet Savcılığına şikayette bulunduğunu bildirmiş ve adli raporlar ile şiddet iddiasına yönelik verilmiş olan koruma kararını delil olarak sunmuştur. İddianın gerçekleşmesi durumunda, belirtilen olaylar velayetin değiştirilmesi veya kaldırılması sebebi olur. Velayete ilişkin düzenleme henüz kesinleşmeden böyle bir durumun ortaya çıkması halinde hakim, çocuğun yararını gözeterek düzenlemeye res’en müdahale ederek değiştirebilir.
 O halde, mahkemece; davalı tarafından bildirilen ve dosyaya örnekleri sunulan Samsun Cumhuriyet Savcılığının 2011/104 (D.iş) esas sayılı dava dosyası da değerlendirilerek; gerektiğinde psikolog pedagog ve sosyal çalışma uzmanlarından yeniden görüş alınmak suretiyle geçici velayet düzenlemesi yapılması gerekir. Açıklanan şekilde inceleme yapılarak, gerçekleşecek sonucuna göre işlem yapılmak üzere davalının temyiz isteğinin kabulüyle hükmün bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 2. HD 2011/18035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81617500)
+
 Velayeti babaya bırakılan müşterek çocuklardan 14.01.2000 doğumlu Şerife Beyza idrak çağında olup, velayetinin anneye verilmesini istediği, uzman görüşünün de aynı doğrultuda bulunduğu görülmektedir. Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri ile Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi gereğince çocukları ilgilendiren davalarda çocukların görüşlerine başvurulması ve görüşlerine gereken önemin verilmesi öngörülmüştür. Çocuklardan Ş.B.annesinin velayetini istediği ve görüşünün aksinin kabul edilmesini gerektirir bir durum belirlenmediğine göre; bu çocuğun velayetinin anneye verilmesi gerekirken; yazılı şekilde olduğu gibi babasına verilmesi isabetsiz olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2011/14136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81674100)
+
 Velayet kamu düzenine ilişkindir. Velayet düzenlemesinde asıl olan çocuğun sağlık, eğitim ve ahlaki bakımdan yararının üstün tutulmasıdır. Davalı anne velayet hakkı babaya verilmesine rağmen kendi yanında bulunan müşterek çocuğun davacı babanın yanına gittiği tarihlerde şiddete maruz kaldığını ileri sürerek buna ilişkin fotoğraflar, tedavi evrakları ile şikayette bulunduğuna dair Cumhuriyet Savcılığının soruşturma numarasını delil olarak sunmuştur. İddianın kanıtlanması halinde belirtilen olaylar velayetin değiştirilmesi veya kaldırılması sebebidir. Velayete ilişkin düzenleme henüz kesinleşmeden böyle bir durumun ortaya çıkması halinde hakim çocuğun yararını gözeterek düzenlemeye re'sen müdahale edebilir ve mevcut düzenlemeyi değiştirebilir. O halde, mahkemece davalı tarafın bildirmiş olduğu deliller de değerlendirilerek ; gerektiğinde çocuğun baba yanındaki barınma ve yaşama ortamı da incelenmek suretiyle psikolog, pedagog ve sosyal çalışma uzmanlarından yeniden görüş alınmak suretiyle velayetin düzenlenmesi gerekir. Bu itibarla davalı kadının velayete ilişkin temyiz isteğinin de kabulüyle hükmün bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 2. HD 2011/12818 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81152900)
 
 Velayet düzenlemesi yapılan ortak çocuklardan S.2000 doğumlu olup, idrak çağındadır. Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 4, 6 ve Birleşmiş Milletler Çocuk Haklarına Dair Sözleşmesi”nin 12. maddesi; çocukları ilgilendiren davalarda, idrak çağındaki çocuğun görüşünün alınacağı ve görüşüne gereken önemin verilmesi gerektiğini öngörmektedir. Açıklanan nedenlerle velayet düzenlemesine konu her iki çocuğu da kapsayacak şekilde idrak çağında olan çocuğun görüşünün alınarak gerektiğinde uzman incelemesi yaptırılarak, velayet düzenlemesi yapılması gerekirken eksik inceleme ve araştırmayla yazılı şekilde karar verilmesi isabetsiz olup; bozmayı gerektirmiştir.

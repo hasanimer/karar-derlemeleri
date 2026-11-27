@@ -208,25 +208,25 @@
     {
       "alan": "Aile ve miras hukuku",
       "baslik": "Boşanma Davalarına İlişkin Emsal Kararlar",
-      "bayt": 6145862,
+      "bayt": 6146634,
       "dosya": "kararlar/bosanma.jsonl.gz",
       "kayit": 27137,
       "kod": "bosanma",
       "md": "md/bosanma/",
       "sayfa": 7566,
-      "sha256": "931a2a8aa5d95704a55cb87037fbef675fd43c23d65e4647da3a7fabbcfb2bca",
+      "sha256": "41d972c7db7c7ba433cca93c31869a5a970c310e80d816401f7325fa190eba33",
       "surum": null
     },
     {
       "alan": "Aile ve miras hukuku",
       "baslik": "Mal Rejiminin Tasfiyesine İlişkin Emsal Kararlar",
-      "bayt": 1285030,
+      "bayt": 1285411,
       "dosya": "kararlar/mal-rejimi.jsonl.gz",
       "kayit": 3757,
       "kod": "mal-rejimi",
       "md": "md/mal-rejimi/",
       "sayfa": 1345,
-      "sha256": "f9a8c4869777290de397baa7ccc1186e30e0194e919616816933ef19c1b21650",
+      "sha256": "0187019833f38060cca9809ae7e849493f36fc2ddad3d305b81dbbfc1a773549",
       "surum": null
     },
     {

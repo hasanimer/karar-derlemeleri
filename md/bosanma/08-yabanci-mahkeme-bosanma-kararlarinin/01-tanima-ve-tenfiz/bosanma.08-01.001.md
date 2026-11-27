@@ -21,40 +21,58 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay İBK 10.02.2012 tarihli, 2010/1 E., 2012/1 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/43582300)
+
 SONUÇ “Yabancı mahkeme kararlarının salt gerekçesinin bulunmamasının kesinleşmiş yabancı mahkeme kararının tenfizine engel olmayacağına ve bu hususun 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanunun 54/c maddesi anlamında kamu düzenine açıkça aykırılık sayılmayacağına” 10.02.2012 tarihinde yapılan ilk toplantıda üçte ikiyi aşan oy çokluğu ile karar verildi.
 
 ## Yargıtay HGK 2023/1188 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983284500)
 
 Milletlerarası Özel Hukuk ve Usul Hukuku Hakkındaki Kanun'un 50 nci maddesi hükmüne göre, yabancı mahkemelerden hukuk davalarına ilişkin olarak verilmiş ve o devlet kanunlarına göre kesinleşmiş bulunan ilâmların Türkiye’de icra olunabilmesi yetkili Türk mahkemesi tarafından tenfiz kararı verilmesine bağlıdır. Aynı Kanun'un 58 inci maddesinin birinci fıkrasında da, yabancı mahkeme ilâmının kesin delil veya kesin hüküm olarak kabul edilebilmesi, yabancı ilâmın tenfiz şartlarını taşıdığının mahkemece tespitine bağlanmıştır.
 
 ## Yargıtay HGK 2023/975 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963026900)
+
 Yargıtay 2. Hukuk Dairesinin yukarıda tarih ve sayısı belirtilen kararı ile "...5718 Sayılı MÖHUK m. 52/1 inci maddesinde belirtildiği üzere hukuki yararı bulunan herkes yabancı mahkeme ilamının tanınmasını ve tenfizini isteyebilir. Tarafların Arnhem Aile Mahkemesinin 09.08.2004 kesinleşme tarihli kararı ile boşandıkları anlaşılmaktadır. Mahkemece yapılması gereken iş davaya konu yabancı mahkeme kararının MÖHUK m. 58 vd. maddelerine göre tanıma koşullarını içerip içermediğini belirlemekten ibarettir. Tarafların birlikteliğinin devam etmesi ya da bu dönemde ortak çocuklarının dünyaya gelmiş olması davacının ilgili kararın tanınmasında hukuki yararının bulunduğu gerçeğini değiştirmediği gibi bu kararın tanınmasının talep edilmesi Türk Medeni Kanunu'nun 2 nci maddesinde yer alan dürüstlük kuralına aykırılık da oluşturmaz. O halde mahkemece, kanundaki tanıma koşullarının gerçekleşip gerçekleşmediği konusunda tüm deliller birlikte değerlendirilip sonucu uyarınca karar verilmesi gerekirken, yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup bozmayı gerektirmiştir,..."…
 
 ## Yargıtay HGK 2023/444 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905149300)
 
 Kesin hüküm adli gerçeği ifade eder. Kesin hükümle amaçlanan ise; aynı kişiler arasında, aynı dava konusu uyuşmazlık hakkında mahkemelerin sınırsız şekilde meşgul edilmesini engellemektir. Bu şekilde hem kişiler, hem de devlet için hukuki güvenlik sağlanmaktadır. 5718 sayılı Kanun'un (MÖHUK) 50 nci maddesi hükmüne göre, yabancı mahkemelerden hukuk davalarına ilişkin olarak verilmiş ve o devlet kanunlarına göre kesinleşmiş bulunan ilâmların Türkiye’de icra olunabilmesi yetkili Türk mahkemesi tarafından tenfiz kararı verilmesine bağlıdır. Aynı Kanun'un 58 inci maddesinin birinci fıkrasına göre de, yabancı mahkeme ilâmının kesin delil veya kesin hüküm olarak kabul edilebilmesi, yabancı ilâmın tenfiz şartlarını taşıdığının mahkemece tespitine bağlanmıştır.
 
 ## Yargıtay HGK 2021/1586 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736978000)
+
 19\. 5718 sayılı MÖHUK’un 50. maddesi hükmüne göre, yabancı mahkemelerden hukuk davalarına ilişkin olarak verilmiş ve o devlet kanunlarına göre kesinleşmiş bulunan ilamların Türkiye’de icra olunabilmesi yetkili Türk mahkemesi tarafından tenfiz kararı verilmesine bağlıdır. Aynı Kanun'un 58. maddesinin 1. fıkrasına göre de, yabancı mahkeme ilamının kesin delil veya kesin hüküm olarak kabul edilebilmesi, yabancı ilamın tenfiz şartlarını taşıdığının mahkemece tespitine bağlanmıştır.
 
 ## Yargıtay HGK 2021/109 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660788900)
 
 19\. 5718 sayılı MÖHUK’un “Tenfiz kararı” başlıklı 50. maddesinin birinci fıkrası ile “Yabancı mahkemelerden hukuk davalarına ilişkin olarak verilmiş ve o devlet kanunlarına göre kesinleşmiş bulunan ilâmların Türkiye'de icra olunabilmesi yetkili Türk mahkemesi tarafından tenfiz kararı verilmesine bağlıdır,…” hükmü düzenleme altına alınmıştır. Aynı Kanun’un “Tanıma” başlıklı 58. maddesi ile de “(1) Yabancı mahkeme ilâmının kesin delil veya kesin hüküm olarak kabul edilebilmesi yabancı ilâmın tenfiz şartlarını taşıdığının mahkemece tespitine bağlıdır. Tanımada 54 üncü maddenin birinci fıkrasının (a) bendi uygulanmaz. (2) İhtilâfsız kaza kararlarının tanınması da aynı hükme tâbidir. (3)Yabancı mahkeme ilâmına dayanılarak Türkiye'de idarî bir işlemin yapılmasında da aynı usul uygulanır.” denilerek, yabancı mahkeme ilamının kesin delil veya kesin hüküm olarak kabul edilebilmesini, yabancı ilamın tenfiz şartlarını taşıdığının Türk Mahkemelerince tespit edilmesi şartına bağlanmıştır. Yabancı mahkeme ilamının kesin hüküm veya kesin delil etkisi, yabancı mahkeme kararının kesinleştiği andan itibaren hüküm ifade edecektir (MÖHUK m. 59).
 Türk Hukuku’nda tenfizin etkisi; yabancı mahkeme ilamına “kararın kesin delil veya kesin hüküm etkisi (tanınması) yaratması ve icra edilebilirlik niteliği kazandırması” olmak üzere iki şekilde kendini göstermektedir. Hemen belirtmek gerekir ki; Türk tanıma ve tenfiz hukukuna göre, her tenfiz kararı, aynı zamanda tanıma kararını da kapsar. Diğer bir söylemle, tenfizine karar verilen yabancı mahkeme ilamı aynı zamanda Türk Hukukunca tanınmış da olmaktadır.
 
 ## Yargıtay HGK 2021/108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660800400)
+
 15\. 4787 Sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanun’un “Aile mahkemelerinin görevleri” başlıklı 4. maddesi ile “Aile mahkemeleri, aşağıdaki dava ve işleri görürler: 1. 22.11.2001 tarihli ve 4721 sayılı Türk Medenî Kanununun Üçüncü Kısım hariç olmak üzere İkinci Kitabı ile 3.12.2001 tarihli ve 4722 sayılı Türk Medenî Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanuna göre aile hukukundan doğan dava ve işler, 2. 20.5.1982 tarihli ve 2675 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanuna göre aile hukukuna ilişkin yabancı mahkeme kararlarının tanıma ve tenfizi, 3. Kanunlarla verilen diğer görevler.” şeklindeki düzenleme gereği söz konusu uyuşmazlıklarda aile mahkemelerinin görevli olduğu hüküm altına alınmıştır. Diğer bir ifadeyle; 4787 sayılı Kanun ile TMK’nın İkinci Kitabı Üçüncü Kısmı hariç olmak üzere (TMK m. 118-395) kaynaklanan bütün davaların Aile Mahkemesinde bakılacağını hükme bağlamıştır.
 Böylece; bir uzmanlık mahkemesi olan aile mahkemesinin kuruluşunu düzenleyen ve kendine özgü usul hükümleri taşıyan 4787 sayılı Kanun, genel hukuk mahkemelerince bakılan aile hukukundan doğan dava ve işleri bu mahkemelerden alarak uzmanlık mahkemesine vermiştir.
 
 ## Yargıtay HGK 2014/1062 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255292200)
+
 Her ne kadar Avusturya Josefstadt Mahkemesinin verdiği boşanma kararı 04.12.2003 tarihinde kesinleşmiş ve verildiği ülkede kesin delil ve kesin hüküm olarak kabulü sonucunu doğurabilmekte ise de, kararın Türkiye’de uygulanabilmesi ancak bir tenfiz kararı verilmesi halinde mümkün olabilecektir. (MÖHUK. m.50). Ne var ki ortada tenfiz edilmiş bir karar söz konusu değildir. Bu husus eldeki davanın görülebilmesinin ön koşulunu oluşturmaktadır. Çünkü davacı ... aynı zamanda Türk vatandaşıdır. Saptanan bu hukuki ve somut olgular karşısında tarafların boşanmalarına ilişkin bulunan yabancı mahkeme kararının yetkili ve görevli Türk Mahkemesi tarafından tenfizine karar verildiği ileri sürülüp kanıtlanmadığı gibi bu konuda açılmış bir dava da söz konusu olmadığına göre, davanın görülebilirlik koşulu olan mal rejiminin sona ermesi somut olayda gerçekleşmemiştir. Yabancı mahkemece, verilen boşanma kararı yetkili Türk Mahkemesince tanıma veya tenfiz kararı verildiği takdirde Türk hukuku bakımından hukuki sonuç doğurur.
 Yabancı kararla ilgili tanıma veya tenfiz kararı verilmedikçe veya bu yönde açılan dava reddedildiği takdirde o karar Türkiye’de Türk Hukuk Sistemi açısından hukuki sonuç doğurmaz ve taraflar boşanmış sayılmazlar. O halde tarafların evliliği Türk Hukuku açısından halen devam etmekte olduğundan davanın reddine karar verilmesi gerekirken yazılı gerekçelerle kabulüne karar verilmiş olması doğru görülmemiştir...)…
 
 ## Yargıtay HGK 2011/726 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17161200)
 
 Diğer taraftan, 5718 sayılı Kanunun 52. maddesinin, "Tenfiz İstemi" başlığı altında düzenlenmiş olması karşısında, maddede yer alan unsurların "tanıma" için de uygulanıp uygulanmayacağı konusu da ayrı bir tartışma konusu yapılmış; aynı Kanunun 58. maddesinde bulunan, yabancı mahkeme ilâmının kesin delil veya kesin hüküm olarak kabul edilebilmesinin yabancı ilâmın tenfiz şartlarını taşıdığının mahkemece tespitine bağlı olduğu, düzenlemesi karşısında 52. maddenin "tanıma" için de geçerli olduğu sonucuna ulaşılmıştır.
 
@@ -72,112 +90,166 @@ Bu durumda, belirli bir dönem içerisinde süreklilik arz eden irat şeklindeki
 
 ## Yargıtay 2. HD 2025/7382 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175681400)
+
 5718 sayılı yasanın 50 inci maddesinde, yabancı mahkemelerden hukuk davalarına ilişkin olarak verilen ve o devlet kanunlarına göre kesinleşen ilâmların Türkiye'de icra olunabilmesi yetkili Türk Mahkemesi tarafından tenfiz kararı verilmesine bağlanmış, tanımayı düzenleyen 58 inci maddesinde ise, yabancı mahkeme ilâmının kesin delil veya kesin hüküm olarak kabul edilebilmesi yabancı ilâmın tenfiz şartlarını taşıdığının mahkemece tespitine bağlı olduğunu belirtmekle birlikte tanımada 54 üncü maddenin birinci fıkrasının (a) bendi uygulanmayacağını; tenfiz şartlarını düzenleyen 54/1-a maddesinde de, Türkiye Cumhuriyeti ile ilâmın verildiği devlet arasında karşılıklılık esasına dayanan bir anlaşma yahut o devlette Türk mahkemelerinden verilmiş ilâmların tenfizini mümkün kılan bir kanun hükmünün veya fiilî uygulamanın bulunmasını hükme bağlanmıştır.
 
 ## Yargıtay 2. HD 2025/696 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120672800)
+
 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanunun (5718 sayılı Kanun) 50 nci maddesinin birinci fıkrası uyarınca, yabancı mahkemelerden hukuk davalarına ilişkin olarak verilmiş ve devlet kanunlarına göre kesinleşmiş bulunan ilâmların Türkiye'de icra olunabilmesi yetkili Türk mahkemesi tarafından tenfiz kararı verilmesine bağlıdır. Kanunun 58 inci maddesinin birinci fıkrasında ise, yabancı mahkeme ilâmının kesin delil veya kesin hüküm olarak kabul edilebilmesi yabancı ilâmın tenfiz şartlarını taşıdığının mahkemece tespitine bağlı olduğu düzenlenmiştir.
 
 ## Yargıtay 2. HD 2024/3361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1067131800)
 
 Milletlerarası Özel Hukuk ve Usul Hukuku Kanunu'nda kabul edilen sisteme göre, tenfiz hâkimince, yabancı mahkeme kararı esastan incelenemez ve hukuka uygunluğu denetlenemez. Şu durumda tenfiz hâkiminin, tenfiz şartları dışında, ilamın içeriği üzerinde incelemede bulunma hak ve yetkisi bulunmamaktadır.
 Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun’un 54 üncü maddesinde tenfiz şartları “... a) Türkiye Cumhuriyeti ile ilâmın verildiği devlet arasında karşılıklılık esasına dayanan bir anlaşma yahut o devlette Türk mahkemelerinden verilmiş ilâmların tenfizini mümkün kılan bir kanun hükmünün veya fiilî uygulamanın bulunması, b) İlâmın, Türk mahkemelerinin münhasır yetkisine girmeyen bir konuda verilmiş olması veya davalının itiraz etmesi şartıyla ilâmın, dava konusu veya taraflarla gerçek bir ilişkisi bulunmadığı hâlde kendisine yetki tanıyan bir devlet mahkemesince verilmiş olmaması, c) Hükmün kamu düzenine açıkça aykırı bulunmaması, ç) O yer kanunları uyarınca, kendisine karşı tenfiz istenen kişinin hükmü veren mahkemeye usulüne uygun bir şekilde çağrılmamış veya o mahkemede temsil edilmemiş yahut bu kanunlara aykırı bir şekilde gıyabında veya yokluğunda hüküm verilmiş ve bu kişinin yukarıdaki hususlardan birine dayanarak tenfiz istemine karşı Türk mahkemesine itiraz etmemiş olması” şeklinde düzenlenmiştir.
 
 ## Yargıtay 2. HD 2023/6196 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987037000)
+
 3.5718 sayılı Kanun'un 52 nci maddesinin birinci fıkra hükmüne göre kararın tenfiz edilmesinde hukuki yararı bulunan herkes tenfiz isteminde bulunabilir hükmüne dayanarak ilgililerin dava açma hakkı sadece Türk Hukukuna göre devam etmekte olan evliliklerde mümkündür. Başka bir anlatımla Türk Hukukuna göre evlilik, yabancı mahkemeden verilen boşanma kararının tanıma-tenfizi kararı, Türk Mahkemesinden verilen boşanma, evliliğin iptali kararı, ölüm ve benzeri sebeplerle sonlanmışsa bu hukuki olayların öncesinde verilerek kesinleşen yabancı mahkeme boşanma kararının tanıma-tenfizi istenemez. Tanıma ya da tenfiz davası devam ederken Türk mahkemelerinde görülmekte olan boşanma davası kabul ile sonuçlanmış ve evlilik birliği bu boşanma kararı ile sonlanmış ise; daha önce hüküm altına alınmış ve kesinleşmiş bir yabancı mahkeme boşanma kararına ilişkin var olan tanıma ya da tenfiz davasına devam edilemeyecektir. Zira devam edilmesi durumunda kesin hüküm teşkil eden Türk mahkemesinin kararları ile çelişen bir hüküm verilmesi söz konusu olabilecektir.
 
 ## Yargıtay 2. HD 2023/978 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886309300)
 
 Tanıma ve tenfiz davalarında; Tanıma davası, yabancı bir mahkemeden bir hukuk davasına ilişkin olarak verilen ve verildiği mahkemenin tabi olduğu hukuk sistemi uyarınca kesinleşmiş olan mahkeme kararlarının Türkiye'de de kesin delil ve kesin hüküm teşkil etmesini sağlamaya yönelik davalardır. Tenfiz davası ise; icra kabiliyetine sahip olan mahkeme kararlarının Türkiye'de de icra edilebilirliğini sağlamaya yönelik davalardır. Diğer bir deyişle tanıma davaları; yalnızca kesin delil ve kesin hüküm niteliği kazandıran davalar olup icra kabiliyeti kazandırma gücüne sahip değildir. Oysa tenfiz davaları; tanıma davalarının sağladığı etkilerin yanı sıra icra kabiliyetine de yol açar. Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun'da kabul edilen sisteme göre, tenfiz hâkimince, yabancı mahkeme kararı esastan incelenemez ve hukuka uygunluğu denetlenemez. Şu durumda tenfiz hâkiminin, tenfiz şartları dışında, ilamın içeriği üzerinde incelemede bulunma hak ve yetkisi bulunmamaktadır.
 
 ## Yargıtay 2. HD 2022/2613 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/758839500)
+
 Somut olayda dosyanın incelenmesinden; dosyaya davacı tarafından 21.12.2020 düzenleme tarihli taraflar ve vekillerince imzalanmış ‘uzlaşma ile düzenlenmiş boşanma sözleşmesi’ nin aslı ve tercümesinin sunulduğu, yabancı mahkeme kararının ibraz edilmediği, mahkemece de bu sözleşmeye dayalı olarak davanın kabulüne karar verildiği anlaşılmaktadır. Bu durumda, mahkemece yabancı mahkeme kararı bulunmayan tanıma ve tenfiz talebinin anılan kanunda gösterilen şartları taşımadığı göz önüne alınarak, davacıya usulüne uygun süre verilerek boşanma kararına ilişkin yabancı mahkeme ilamının o ülke makamlarınca usulen onanmış aslı veya ilamı veren yargı organı tarafından onanmış örneğini ve bu kararın onanmış tercümesini ibraz etmesi için uygun süre verilmesi, eksiklik tamamlandığı takdirde, tanıma ve tenfiz talebinin 5718 sayılı Kanunun 58\`inci maddesinin birinci fıkrasında gösterilen şartları incelenip, hasıl olacak sonucu uyarınca karar verilmesi, verilen süre içinde eksiklik tamamlanmaz ise, davanın usulden reddine karar verilmesi gerekirken, dosyaya sunulan uzlaşma ile düzenlenen boşanma sözleşmesine göre davanın kabulüne karar verilmesi usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2021/8701 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715037400)
 
 5718 Sayılı MÖHUK m. 52/1 inci maddesinde belirtildiği üzere hukuki yararı bulunan herkes yabancı mahkeme ilamının tanınmasını ve tenfizini isteyebilir. Tarafların ... Aile Mahkemesinin 09.08.2004 kesinleşme tarihli kararı ile boşandıkları anlaşılmaktadır. Mahkemece yapılması gereken iş davaya konu yabancı mahkeme kararının MÖHUK m. 58 vd. maddelerine göre tanıma koşullarını içerip içermediğini belirlemekten ibarettir. Tarafların birlikteliğinin devam etmesi ya da bu dönemde ortak çocuklarının dünyaya gelmiş olması davacının ilgili kararın tanınmasında hukuki yararının bulunduğu gerçeğini değiştirmediği gibi bu kararın tanınmasının talep edilmesi Türk Medeni Kanunu'nun 2 nci maddesinde yer alan dürüstlük kuralına aykırılık da oluşturmaz. O halde mahkemece, kanundaki tanıma koşullarının gerçekleşip gerçekleşmediği konusunda tüm deliller birlikte değerlendirilip sonucu uyarınca karar verilmesi gerekirken, yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2021/398 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641974100)
+
 5718 sayılı MÖHUK m. 52/1. maddesinde belirtildiği üzere hukuki yararı bulunan herkes yabancı mahkeme ilamının tanınmasını ve tenfizini isteyebilir. Tarafların Hollanda Zwolle Bölge Mahkemesinin 1991 tarihli 6170/90 sayılı 09/01/1991 kesinleşme tarihli kararı ile usulüne uygun şekilde anlaşmalı olarak boşandıkları anlaşılmaktadır. Mahkemece yapılması gereken iş davaya konu yabancı mahkeme kararının MÖHUK m. 58 vd. maddelerine göre tanıma koşullarını içerip içermediğini belirlemekten ibarettir. Tarafların birlikteliğinin devam etmesi ya da bu dönemde ortak çocuklarının dünyaya gelmiş olması…
 
 ## Yargıtay 2. HD 2019/9388 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543579200)
+
 Tanıma, yabancı mahkeme kararına kesin delil veya kesin hüküm vasfını kazandırır (MÖHUK m. 58). Tanıma halinde, yabancı ilamın kesin hüküm ve kesin delil etkisi, yabancı mahkeme kararının kesinleştiği andan itibaren hüküm ifade eder (MÖHUK m. 59). Diğer bir ifade ile taraflar yabancı mahkeme kararının kesinleştiği anda boşanmış sayılırlar. MÖHUK 52/1 maddesine göre "Yabancı ilamın tenfız edilmesinde hukuki yararı bulunan herkes tenfız isteminde bulunabilir." Bu hüküm, yabancı ilamın tanınmasının istenmesi halinde de geçerlidir. Yabancı ilamın tanınması halinde, kesin hüküm etkisi, yabancı mahkeme kararının kesinleştiği andan itibaren hüküm ve sonuç doğuracağına göre, davacı kurumun ilamın tanınmasını ve tenfızini istemekte korunmaya değer hukuki yararı vardır. O halde mahkemece işin esası hakkında karar verilmesi gerekirken yazılı şekilde taraf yokluğu nedeniyle ret kararı verilmesi hatalı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/3219 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519881900)
 
 Türk Milletlerarası Özel Hukukunda, yabancı mahkemelerin hukuk davalarına ilişkin olarak verdikleri ve o devletin kanunlarına göre kesinleşmiş bulunan ilamların tenfizi ve tanınmasına ilişkin davalarda; tenfız dilekçesine, yabancı mahkeme ilamının o ülke makamlarınca usulen onanmış aslı veya ilamı veren yargı organı tarafından onanmış örneği ve onanmış tercümesinin; ilamın kesinleştiğini gösteren ve o ülke makamlarınca usulen onanmış yazı veya belge ile onanmış tercümesinin eklenmesi zorunludur. Bu belgelerde eksiklik varsa yargılama sırasında tamamlanması mümkündür. Davacı tarafından yabancı mahkeme ilamının kesinleştiğini gösteren ve o ülke makamlarınca usulen onanmış yazı veya belge ile onanmış tercümesinin dosyaya sunulmadığı, ilamın apostille şerhini içeren 4.sayfasında ise, bu karara karşı temyiz başvurusunun yapılmadığının belirtilmesinin yeterli olmadığı gibi, mahkeme katibi tarafından imzalanarak, e-posta ile avukata gönderilen iletinin ilamın kesinleştiğini gösteren ve o ülke makamlarınca usulen onanmış yazı veya belge niteliğinde olmadığı ve bu haliyle, yabancı mahkeme kararının tanımaya elverişli olmadığı anlaşılmaktadır.
 O halde davacıya, tanınması talep edilen yabancı mahkemece verilen ilamın kesinleştiğini gösteren ve o ülke makamlarınca usulen onanmış yazı veya belge sunması için uygun süre verilmeli, eksiklik tamamlandığı takdirde, tanıma talebinin 5718 sayılı Yasanın 58/1. maddesinde gösterilen şartları incelenip, hasıl olacak sonucu uyarınca karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde hüküm kurulması doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/3209 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504080500)
+
 Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanunu'na göre, yabancı mahkemelerin hukuk davalarına ilişkin olarak verdikleri ve o devletin kanunlarına göre kesinleşmiş bulunan ilamların tenfızi ve tanınmasına ilişkin davalarda; tenfiz dilekçesine, yabancı mahkeme ilamının o ülke makamlarınca usulen onanmış aslı veya ilamı veren yargı organı tarafından onanmış örneği ve onanmış tercümesinin; ilamın kesinleştiğini gösteren ve o ülke makamlarınca usulen onanmış yazı veya belge ile onanmış tercümesinin eklenmesi zorunludur. Bu belgelerde eksiklik varsa yargılama sırasında tamamlanması mümkündür. Davacı tarafından dosyaya sunulan yabancı mahkeme kararının Türkçe tercümesi, bir tercüme bürosunun tercümesi olup, konsolosluk tarafından onaylanmadığı gibi, tercüme noter tarafından da onaylanmamıştır. Sunulan tercümenin o yerdeki Türk konsolosluğu tarafından veya noter tarafından onaylanması zorunludur. Sunulan Türkçe tercüme bu haliyle, tanımaya elverişli değildir.
 O halde, davacıya tanınması talep edilen yabancı mahkemece verilen kararın o yerdeki Türk konsolosluğu tarafından onaylanmış veya noter tarafından onaylanmış Türkçe tercümesini sunması için uygun süre verilmeli, eksiklik tamamlandığı takdirde, tanıma talebinin 5718 sayılı Yasanın 58/1. maddesinde gösterilen şartları incelenip, hasıl olacak sonucu uyarınca karar verilmeli, verilen süre içinde eksiklik tamamlanmaz ise, davanın usulden reddi yönüne gidilmelidir. Bu husus nazara alınmadan yazılı şekilde hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2018/15305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471409800)
+
 Yabancı mahkemelerden hukuk davalarına ilişkin olarak verilmiş ve devlet kanunlarına göre kesinleşmiş bulunan ilâmların Türkiye'de icra olunabilmesi yetkili Türk mahkemesi tarafından tenfiz kararı verilmesine bağlıdır (MÖHUK m.50/1). Yabancı mahkeme ilâmının kesin delil veya kesin hüküm olarak kabul edilebilmesi yabancı ilâmın tenfiz şartlarını taşıdığının mahkemece tespitine bağlıdır. Tanımada 54 üncü maddenin birinci fıkrasının (a) bendi uygulanmaz (MÖHUK m.58/1).
 
 ## Yargıtay 2. HD 2018/9399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/445386300)
 
 Tarafların ....da yabancı mahkeme kararıyla boşandıkları, bu kararın tanındığı ve tanıma kararının 05.04.2016 tarihinde kesinleştiği anlaşılmaktadır. Tanıma işlemi, bir yabancı mahkeme ilamının "kesin delil veya kesin hüküm olarak kabul edilebilmesi" sonucunu doğurur (5718 sayılı MÖHUK m.58). Boşanmaya ilişkin yabancı mahkeme ilamında taraflara ilişkin bir kusur belirlemesi yapılmamıştır. Bu durumda davalı-karşı davacı eşe kusur yüklenemez. Boşanma sonucu maddi ve manevi tazminata hükmedilebilmesi için, tazminat yükümlüsünün kusurunun varlığı gerekir. Hal böyleyken davalı-karşı davacı kadının daha fazla kusurlu olduğunun kabulü ve bu yanılgılı kusur belirlemesine bağlı olarak davacı-karşı davalı erkek lehine maddi ve manevi tazminata (TMK m. 174/1-2) hükmedilmesi doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2017/12517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/377584400)
+
 Boşanma kararı yabancı mahkemece verilmiş, bu karar Türkiye'de tanınmış, tanımaya ilişkin karar 20.07.2012 tarihinde kesinleşmiştir. Tanıma işlemi, bir yabancı mahkeme ilamının "Kesin delil veya kesin hüküm olarak kabul edilebilmesi" sonucunu doğrurur (5718 sayılı MÖHUK m.58). Boşanmaya ilişkin yabancı mahkeme ilamında taraflara ilişkin bir kusur belirlemesi yapılmadığına göre artık Türk Mahkemesi bakımından kesin delil ve kesin hüküm gücünü kazandığından; davalının kusurlu olduğu sonucuna ulaşılamaz. Bu durumda davalı eşe kusur yüklenemez. Boşanma sonucu maddi ve manevi tazminata hükmedilebilmesi için, tazminat yükümlüsünün kusurunun varlığı gerekir. Hal böyleyken davalı erkeğin kusurlu olduğunun kabulü ve bu yanılgılı kusur belirlemesine bağlı olarak davacı kadın lehine maddi ve manevi tazminata (TMK m.174/1-2) hükmedilmesi doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2017/11365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/380261000)
 
 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanunun, yabancı mahkeme kararlarının tanınmasında da aranan 54'ncü maddesinin (ç) bendinde, "o yer kanunları uyarınca, kendisine karşı tenfiz istenen kişinin hükmü veren mahkemeye usulüne uygun olarak çağrılmamış veya o mahkemede temsil edilmemiş yahut bu kanunlara aykırı bir şekilde gıyabında veya yokluğunda hüküm verilmiş olması, bu kişinin bu hususlardan birine dayanarak tenfiz istemine karşı Türk Mahkemesinde itiraz etmiş olması" koşuluyla tenfize ve tanımaya engeldir. Yabancı mahkemedeki usul hükümlerinin uygulanmasında ve tebligat usulünde, o yer kanunları geçerlidir. Diğer bir ifade ile yargılamanın usulü ve tebligat hakimin hukukuna (...) tabidir. Tenfiz hakimi, kendisine karşı tenfiz istenen kişinin kararı veren mahkemeye usulüne uygun olarak davet edilip edilmediğini tespit ederken, Türk Tebligat hukukunun kurallarına göre bir değerlendirme yapamaz. Ortada kesinleşmiş bir mahkeme kararı olduğu için yabancı kararda uygulanmış olan usul ve tespitler tanıma ve tenfız davasının inceleme konusu dışındadır.
 Tanınması istenen yabancı mahkeme kararında, davalının yargılamaya katıldığı ,kararı veren mahkemeye o yer kanunlarına uygun bir şekilde çağrıldığı anlaşılmaktadır. Davalı, aksi yönde bir delil getiremediğine göre, 54'ncü maddenin (ç) bendindeki tenfız isteğinin ret sebebi olayda gerçekleşmemiştir. O halde, isteğin tanımada aranan (5718 s. MÖHUK. m. 58/1) diğer şartlar bakımından incelenerek sonucuna göre karar verilmesi gerekirken, bu husus nazara alınmadan davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2017/11027 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370229200)
+
 Yabancı ilamın tenfiz edilmesinde hukuki yararı bulunan herkes tenfiz isteminde bulunabilir ( MÖHUK m. 52/1). Yabancı mahkeme kararının tenfizi istemli davada, karşı taraf davalı kendisine karşı tenfiz istenen kişi ancak tenfiz ve tanıma şartlarının mevcut olmadığı, yabancı mahkeme ilamının kısmen veya tamamen yerine getirilmiş yahut ilamın yerine getirilmesine engel bir sebebin ortaya çıkmış olduğunu öne sürerek isteğe karşı koyabilir (MÖHUK m. 55/2). Yabancı mahkeme ilamının kesin delil veya kesin hüküm olarak kabul edilebilmesi yabancı ilamın tenfiz şartlarını taşıdığının mahkemece tespitine bağlıdır (MÖHUK m. 58/1).
 
 ## Yargıtay 2. HD 2017/7607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/354254800)
 
 Bu davanın devamı sırasında, tarafların boşanmalarına ilişkin yabancı mahkeme kararının tanınmasına karar verilmesi ve tanıma kararının kesinleşmiş olması, davacının Türk Medeni Kanununun 174/1. ve 2. maddelerine dayalı maddi ve manevi tazminat taleplerinin ve 175. maddesine dayalı yoksulluk nafakası talebinin incelenmesine engel değildir. Yabancı mahkemece verilen boşanma kararının tanınmış olması, sadece boşanma talebini konusuz kılar. Mahkeme; tanıma kararının dava devam ederken kesinleştiği ve boşanma talebinin konusuz kaldığından bahisle, davacının yoksulluk nafakası ile maddi ve manevi tazminat taleplerinin esasını incelemekten kaçınamaz. O halde, gösterilen deliller değerlendirilmek suretiyle mahkemece, davacının, Türk Medeni Kanununun, 174/1. ve 2. maddesi ile 175. maddesi kapsamındaki maddi ve manevi tazminat ile nafaka taleplerinin esası hakkında olumlu veya olumsuz bir karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/14451 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/327386400)
+
 Somut olayda boşanma kararı yabancı mahkemece verilmiş olup, bu kararın tanınmasına veya tenfizine karar verilmedikçe, boşanmaya bağlı dava haklarının kullanılması olanağı bulunmadığına göre, zamanaşımı süresinin, hakkın kullanılabilir duruma geldiği tarihten, başka bir ifade ile tenfiz veya tanımaya ilişkin hükmün kesinleşmesinden itibaren başlaması gerekir. Yabancı mahkeme ilamının tanınmasına ilişkin karar 07.07.2011 tarihinden kesinleşmiş, temyize konu dava ise, 05.07.2011 tarihinde açılmıştır. Buna göre dava süresindedir. O halde, Harçlar Kanununun 30-32. maddeleri uyarınca, davanın niteliği gereği davacıya nispi harcı tamamlaması için süre verildikten sonra harcını tamamladığı takdirde, mahkemece işin esasının incelenmesi gerekirken, bu husus nazara alınmadan, zamanaşımı süresinin ilamın verildiği ülkedeki kesinleşme tarihinden başlatılarak, davanın bu sebeple reddi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/10985 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/216020400)
 
 Tanıma ve tenfiz isteğine konu davacı tarafından sunulan belgeler incelendiğinde;Tenfizine karar verilen ve yabancı mahkeme ilamı olarak kabul edilen boşanma belgesinde “ 1979 yılı kasım ayının onbirinci günü merasimle yapılan evlilikle ilgili olarak, mahkemenin 2005 yılı mayıs ayının on sekinzinci günü aldığı muvakkat boşanma kararının 2005 yılı haziran ayının ondokuzuncu günü kesinleştiğini onaylarım" şeklinde belirtilmiş, belgede başka bir hususa yer verilmemiştir.... Aile Mahkemesinin mutabakatlı karar dökümünde tarafların boşanmalarına ilişkin bir düzenlemenin de bulunmadığı anlaşılmaktadır. Dosya içerisinde bulunan tercüme evraklarından tenfizine karar verilen (P)... 261/2005 dosya sayılı boşanma belgesinin ...Sulh Hukuk Mahkemesi tarafından verildiği belirtilirken diğer bir tercüme evrakında bu belgenin ... Sulh Ceza Mahkemesi tarafından verildiği belirtilmiştir.
 
 ## Yargıtay 3. HD 2016/9054 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/220030000)
+
 12.12.2007 tarihinde yürürlüğe giren 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanunun 58.maddesinin 1.fıkrasına göre; Yabancı mahkeme ilâmının kesin delil veya kesin hüküm olarak kabul edilebilmesi yabancı ilâmın tenfiz şartlarını taşıdığının mahkemece tespitine bağlıdır. Tanımada 54 üncü maddenin birinci fıkrasının (a) bendi uygulanmaz.
 
 ## Yargıtay 2. HD 2016/6515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/213246200)
 
 Yapılan soruşturma ve toplanan delillerden boşanma davasının kadın tarafından 27.06.2013 tarihinde açılmış olduğu, davalı erkek tarafından ise bu tarihten sonra bağımsız olarak "yabancı mahkemece verilen boşanma kararının tanınmasına” ilişkin dava açıldığı ve bu davanın halen derdest olduğu anlaşılmaktadır. Yabancı mahkemece verilen boşanma kararının tanınması halinde, bu ilamın kesin hüküm etkisi, yabancı mahkeme kararının kesinleştiği andan itibaren hüküm ve sonuç doğuracak (5718 s. MÖHUK m. 59), dolayısıyla taraflar yabancı mahkeme kararının kesinleştiği tarihte boşanmış olacaklardır. Öyleyse, boşanma davasının esasının incelenebilmesi ve bu davada hüküm verilebilmesi, tanıma davasının çözümüne bağlıdır. Başka bir ifade ile tanıma davası, boşanma davası bakımından "bekletici sorun” oluşturmaktadır. Yabancı mahkemece verilen boşanma kararının tanınması eldeki boşanma davasının sonucunu etkileyecek niteliktedir. Bu bakımdan tanıma ve tenfize ilişkin davanın bu dava bakımından bekletici sorun (HMK. m. 165/1) yapılarak sonucuna kadar yargılamanın bekletilmesi ve hasıl olacak neticesine göre hüküm tesis edilmek üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2016/3776 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208782100)
+
 Boşanma kararı yabancı mahkemece verilmiş 26.02.2013 tarihinde kesinleşmiştir. Yabancı mahkeme ilamının kesin veya kesin hüküm olarak kabul edilebilmesi yabancı ilamın tenfiz şartlarını taşdığının mahkemece tespitine bağlıdır. Tanımada 54. maddenin birinci fıkrasının (a) bendi uygulanmaz (5718 s.MÖHUK m. 58/1). Evliliğin boşanma sebebiyle sona ermesinden doğan dava hakları boşanma hükmünün kesinleşmesinin üzerinden bir yıl geçmekle zamanaşımına uğrar (TMK m.178) yabancı mahkemece verilen boşanma kararı Türkiye'de tanınmadıkça kesin hüküm etkisi doğmaz.
 
 ## Yargıtay 2. HD 2016/1446 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/194849500)
 
 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuk Hakkında Kanunun 58/1 maddesi "Yabancı mahkeme ilamının kesin delil veya kesin hüküm olarak kabul edilebilmesi yabancı ilamın tenfiz şartlarını taşıdığının tespitine bağlıdır. Tanımada aynı Yasanın 54. maddesinin birinci fıkrasının (a) bendi uygulanmaz" hükmünü içermektedir. Yabancı ilamın kesin hüküm veya kesin delil etkisi yabancı mahkeme kararının kesinleştiği andan itibaren hüküm ifade eder ( 5718 s. MÖHUK m. 59). Bu durumda, tarafların boşanmalarına ilişkin yabancı mahkeme ilamının tanınması halinde, taraflar yabancı mahkeme ilamın kesinleştiği andan itibaren boşanmış hale geleceklerdir. Bu hukuki durum karşısında iki davanın birlikte görülmesi ve sonuca bağlanması mümkün değildir. Öyleyse tanımaya ilişkin davanın, boşanma davasından tefrik edilmesi, boşanma davasında tanımaya ilişkin davanın bekletici sorun yapılması ve tanıma davasının neticesine göre boşanma davasının sonuca bağlanmasında zorunluluk bulunmaktadır. Açıklanan hususlar gözetilmeden iki davanın birlikte görülüp sonuca bağlanması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/161082100)
+
 Yabancı ilamın taraflarından biri daha sonra ölmüş olsa bile, ölenin mirasçılarının ve ilamın diğer tarafının, o ilamın tanınmasını istemekte hukuki yararları vardır. Hukuki yararı bulunan herkes de yabancı mahkeme ilamının tanınmasını ve tenfizini iseyebilir (5718 s.MÖHUK. md. 52/1). Tenfizine karar verilmesi istenen boşanma davasının davalısı ... 28.08.2009 tarihinde vefat ettiğinden davalı mirasçılarının mecburi dava arkadaşlığı dikkate alınarak dava da taraf teşkilinin de sağlanması, göstermeleri halinde tarafların delilleri de toplanarak koşulların varlığı durumunda yabancı boşanma kararının tanınmasına karar verilmesi gerekirken, istemin "hukuki yarar yokluğundan dolayı reddi" doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2015/11676 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/398913200)
 
 Mahkeme, bu sonuca ulaşırken; “ davacı ile davalıların mirasbırakanı ... arasındaki evliliğin, ...'in 18.12.2013 tarihinde ölümüyle kendiliğinden sona erdiğini, dolayısıyla boşanmaya ilişkin yabancı mahkeme kararının Türkiye'de tanınması ve tenfizinde, davacının dava tarihi itibarıyla Türk hukuku bakımından korunmaya değer hukuki bir yararının bulunmadığını, boşanma kararı davacının kendi ülkesinde verildiğinden, Türkiye’de verilecek bir tanıma ve tenfiz kararının da, davacıya kendi ülkesinde bir yarar sağlamayacağını” velayete ilişkin kararla ilgili olarak da “çocukların Türkiye’de baba hanesinde nüfusa kayıtlı olmadıklarını, Türk hukuku bakımından nüfusta kayıtları bulunmadığı için, var olmayan çocukların velayeti konusundaki kararın tanınması ve tenfizinin de yok hükmünde olacağını; ayrıca, Türk hukuka göre, evliliğin ölümle sona ermiş olması sebebiyle küçüklerin velayetinin esasen davacıda olduğunu, davacının Türk hukuku bakımından velayet sahibi olarak her türlü işlemi yapabileceğini, dolayısıyla velayete ilişkin kararın tanınmasında da davacı ve küçüklerin hukuki yararının bulunmadığını” gerekçe göstermiştir.
 
 ## Yargıtay 2. HD 2015/10696 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/213226700)
+
 Yabancı mahkemece, boşanma kararının 27.05.2010 tarihinde verildiği, ancak eşlerden kadının bu tarihten önce, 16.05.2010 tarihinde öldüğü anlaşılmaktadır. Başka bir ifade ile, yabancı mahkemedeki dava görülmekte iken, henüz karara bağlanmadan, evlilik eşlerden birinin ölümüyle sona ermiştir. Ölümle sona ermiş olan bir evliliğin boşanma ile ortadan kaldırılmış olması, Türk kamu düzenine açıkca aykırıdır. Hükmün kamu düzenine açıkça aykırı bulunması tenfiz ve tanıma kararı verilmesine engeldir (5718 s.MÖHUK.m.54/c). O halde, ölümden sonra verilen bir boşanma kararı, Türkiyede tanınamaz ve tenfiz edilemez. Bu durum nazara alınarak tanıma ve tenfiz isteğinin reddi gerekirken, yazılı şekilde hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2014/25398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/87945600)
 
 Ortada kesinleşmiş bir mahkeme kararı olduğu için yabancı kararda uygulanmış olan usul ve tespitler tanıma ve tenfiz davasının inceleme konusu dışındadır. Tanınması istenen kararda davalının Resmi Gazete ile çağrılmasına rağmen duruşmada bulunmadığı belirtilmiştir. Yabancı unsurlu davalarda yargılama usulü ile ilgili sorunlar hakimin hukukuna (Lex Fori) tabidir. Mahkemece davacının tanıma isteğinin kabulü gerekirken yazılı şekilde hüküm kurulması doğru görülmemiştir.

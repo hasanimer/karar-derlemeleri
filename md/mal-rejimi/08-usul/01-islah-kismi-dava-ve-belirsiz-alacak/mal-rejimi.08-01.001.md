@@ -21,15 +21,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2016/959 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/247563200)
+
 Davada istek katılma alacağı niteliğinde olup, mahkemece dava konusu taşınmazlara ait tedavüllü tapu kayıtları getirtilmiş, davalı tarafından ne şekilde hangi tarihte edinildikleri ayrı ayrı belirlenmiş, tasfiye bakımından hangi mal rejimine tabi oldukları da gözetilerek usulüne uygun alınan bilirkişi raporları doğrultusunda yazılı şekilde hüküm kurulmuştur. Dosya arasındaki tapu kayıtları ve diğer belgeler incelendiğinde, her ne kadar kararda 282 ada 1 parsel 283 ada 1 parsel olarak yazılarak buradan edinilmiş mala gelecek değer hükmün 9 numaralı bendindeki red kısmında hata yapılmış, yine gerçek değeri 10.000 TL olduğu halde 1528 ada 8 parseldeki 8 nolu dairenin değeri olarak yanlışlıkla 1506 parseldeki 6 nolu dairenin değeri 75.000 TL dikkate alınmışsa da bu hususlar bilirkişi raporlarındaki değerler karşısında maddi hata olarak kabul edilerek bozma yapılmasına gerek görülmemiş, usulüne uygun gerekçeli ve denetime elverişli bilirkişi raporları karşısında tasfiyeye girmesi gereken artık değerin 1.292.789,29 TL ve davacının bu artık değerin yarısı olarak katılma alacağının 646.394,64 TL olduğu hesaplanmıştır. Mahkemece hükmedilen değer ise 611.695 TL'dir.
 Diğer yandan 1.1.2002 öncesi edinilen kişisel mal niteliğindeki bir kısım taşınmazın 1.1.2002 tarihi sonrası müteahhide verilerek kat karşılığı edinilen daireler kişisel mal yerine geçen ve ikame niteliğinde kişisel mal olduklarından edinilmiş mal içerisinde değerlendirilmemiş olması da yerindedir. Davalı taraf, boşanma sonrası davacıya bedelsiz verdiğini iddia ettiği taşınmaz sebebiyle davacının katılma alacağı hakkı kalmadığını savunmuş ise de bu hususta tek başına soyut müşterek çocuğun beyanı yeterli olmayıp, ispatlanamayan savunmaya itibar edilmemesi de doğrudur. Davacının dava dilekçesinden sonra verdiği 23.3.2010 tarihli dilekçesi de ıslah niteliğinde olmayıp, ıslahın harcı da yatırılan 19.10.2011 tarihinde yapıldığında da tereddüt etmemek gerekir.
 Bu açıklamalar karşısında dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, mevcut deliller mahkemece takdir edilerek karar verildiğine ve takdirde bir isabetsizlik bulunmadığına, bu tür davalarda fedakarlığın denkleştirilmesi ve hakkaniyet kuralının da gözetilmesi gerektiğine, mahkemece dikkate alınan bilirkişi raporlarında gerek değer gerek hesaplama yöntemi bakımından usul ve yasaya aykırı bir durum bulunmadığına, edinilmiş mal olarak değerlendirmeye giren mal varlığında da az yukarıdaki maddi hatalar dışında bir hata yapılmadığına, usule uygun bilirkişi raporları göz önünde bulundurularak davacının katılma alacağı belirlendiğine göre davalı vekilinin aşağıda yazılı husus dışındaki diğer tüm temyiz itirazları yerinde görülmediğinden reddine,…
 
 ## Yargıtay HGK 2013/816 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77396300)
+
 Hal böyle olunca; yerel mahkemenin, eldeki katılma alacağı davasının belirsiz alacak davası niteliğinde olduğu, belirsiz alacak davalarında zamanaşımının işlemediği yönündeki direnme kararı yerinde değilse de; yukarıda ayrıntısıyla açıklanan şekilde katılma alacağında zamanaşımı süresinin 6098 sayılı TBK 146. maddesi (mülga 818 sayılı BK m. 125) uyarınca on(10) yıl olarak uygulanması gerektiğinden direnme kararının belirtilen değişik gerekçe ile oybirliğiyle onanması gerekmiştir.
 
 ## Yargıtay HGK 2013/520 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/86946200)
 
 Mahkeme ilk karar gerekçesinde; zamanaşımı savunmasını ret ederken uygulanacak zamanaşımı süresi tartışması yanında, katılma alacağı davalarının esasen “belirsiz alacak” davları olduğunu ve zamanaşımı savunmasının bu nedenle de kabul edilmediğini belirtmiş ve özel Dairece bu hususun tartışılmamış, uygulanacak zamanaşımı hükmü(TMK m. 178) yönüyle mesele ele alınmış ve salt bu nedene hasren bozma yapılmış olması karşısında, Yerel Mahkeme’nin terditli olarak; gerek uygulanacak zamanaşımı süresi itibariyle, gerekse de davanın bir belirsiz alacak davası olduğundan bahisle direnmesinin “yeni hüküm” niteliğinde olup olmadığı önsorun olarak tartışılmış ve oyçokluğu ile önsorun olmadığı kabul edilerek işin esasının incelenmesine geçilmiştir.
 
@@ -41,19 +47,27 @@ kaldığından söz edilemeyeceğinden kararın kesin olduğu gerekçesiyle temy
 
 ## Yargıtay 2. HD 2026/3486 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209332100)
+
 Davacı-davalı erkek tarafından açılan katılma alacağı davasında davanın kabulüne ilişkin kararın istinafı sonrasında Bölge Adliye Mahkemesince "...Somut olayda dava değeri 375.000 TL olup, kısmi dava olarak açılan davada 2. kez ıslah yapılması mümkün değil ise de, HMK 109. maddenin davacıya sunduğu hukuki imkan gözetilerek davacı aleyhine kesin hüküm oluşturacak şekilde "fazlaya ilişkin talebin reddine" karar verilmesi doğru olmamıştır. Davacı bu husustaki istinaf talebinde haklı olup, davanın taleple bağlı kalınarak kabulüne, "fazlaya ilişkin talebin reddine" ibaresinin hükümden ve gerekçeden çıkarılması gerekmiştir." gerekçesiyle davacı-davalı erkeğin istinaf başvurusunun kabulü ile hükmün bu yönden düzeltilmesine, davalı-davacı kadının istinaf başvurusunun esastan reddine karar verilmiş ise de, davacı-davalı erkek vekilinin dava dilekçesinde; bilirkişi tarafından belirlenecek gerçek değere göre artırılmak üzere fazlaya ilişkin hakları saklı kalmak kaydıyla mal rejiminin tasfiyesi talep edildiğinden dava belirsiz alacak davası niteliğindedir.
 Dava, katılma alacağı isteğine ilişkin olup belirsiz alacak davası niteliğinde olduğundan davanın kısmi dava olarak nitelendirilerek karar verilmiş olması bozmayı gerektirir.
 
 ## Yargıtay 2. HD 2025/12006 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205306800)
+
 İlk Derece Mahkemesince kabul edilen katkı payı alacağının 7.000,00 TL'sine dava tarihi, kalan kısım için de talep miktarının artırıldığı 16.11.2023 tarihinden itibaren faiz uygulanmasına karar verilmiş ise de, bu karara katılma olanağı bulunmamaktadır. Şöyle ki; davanın belirsiz alacak davası olarak açıldığı, İlk Derece Mahkemesince belirsiz alacak davası niteliğindeki davada yapılan yargılama sırasında davacının harcını da tamamlandığı 16.11.2023 tarihli dilekçe ile katkı payı alacağı yönünden talep miktarını toplam 828.979,82 TL'ye yükseltildiği, davanın niteliği itibariyle talebin açıklanması ve arttırılması niteliğindeki 16.11.2023 tarihli dilekçenin de ıslah dilekçesi niteliğinde olmadığı anlaşılmaktadır. O halde, İlk Derece Mahkemesince katkı payı alacağının tamamına dava tarihinden itibaren faiz uygulanmasına karar verilmesi gerekirken, değerlendirmede hata yapılarak faiz yönünden yazılı şekilde karar verilmesi de hatalı olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/10498 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203960800)
 
 Mahkeme hükmünün bütün bentlerinin karardan tamamen çıkarılmasına, yerine 1 inci bent olarak "Davanın Kabulü ile dava konusu edinilen taşınır ve taşınmaz bakımından 757.500,00 TL katılma alacağının bulunduğunun tespiti ile 757.500,00 TL katılma alacağının davalıdan alınarak davacıya verilmesine", 2 nci bent olarak "Kabul edilen miktar üzerinden hesaplanan ve alınması gereken 51.745,00 TL harçtan, peşin alınan 51,24 TL ile 12.885,00 TL ıslah harcının mahsubu ile bakiye 38.809,00 TL harcın davalıdan alınarak hazineye irat kaydına", 3 üncü bent olarak "Davacı tarafça yapılan keşif harcı, tebligat, müzekkere, keşif aracı gideri, talimat ve bilirkişi gideri 5.296,85 TL olmak yargılama giderinin davalıdan alınarak davacıya verilmesine", 4 üncü bent olarak "Davacı tarafından yapılan başvuru harcı 27,70 TL, peşin 51,24 TL ıslah harcı 12.885,00 TL , istinaf karar harcı 54,40 TL, istinaf yoluna başvurma harcı 148,60 TL olmak üzere toplam 13.166,94 TL harç masrafının davalıdan alınarak davacıya verilmesine", 5 inci bent olarak ise "Davacı kendisini bir vekille temsil ettirdiğinden A.A.Ü.T. gereğince belirlenen 112.050,00 TL vekâlet ücretinin davalıdan alınarak davacıya verilmesine" 6. bent
 olarak "Taraflarca Mahkeme veznesine yatırılan gider avansının arta kalanının karar kesinleştiğinde ve talep halinde ilgili tarafa iadesine" ibarelerinin yazılması ve karar gerekçesinin yukarıda (2.) paragrafta açıklandığı şekilde değiştirilmek suretiyle kararın ve gerekçesinin DÜZELTİLEREK ONANMASINA,…
 
 ## Yargıtay 2. HD 2025/10316 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189493000)
 
 O halde, İlk Derece Mahkemesince, davanın belirsiz alacak davası niteliğinde olduğu, davacının ıslah için süre talebinin olduğu ve davalı lehine usuli kazanılmış hak oluşmadığı hususları gözetilerek, davacıya ıslah için süre ve imkan verilerek tasfiye konusu malların güncel sürüm değerleri üzerinden katılma alacağınına hükmedilmesi gerekirken bu hususlar göz ardı edilerek yazılı şekilde karar verilmesi hatalı olmuş, bozmayı gerektirmiştir.
 

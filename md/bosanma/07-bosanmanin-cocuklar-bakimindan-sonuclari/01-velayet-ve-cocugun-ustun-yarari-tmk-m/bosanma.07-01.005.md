@@ -22,154 +22,226 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2019/8485 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/531133300)
+
 Velayet kamu düzenine ilişkin olup, velayet düzenlemesinde asıl olan çocuğun üstün yararıdır. Ana ve baba ile çocuğun yararı çatıştığı takdirde, çocuğun yararına üstünlük tanınması gerekir. Boşanmanın ileriye yönelik etkilerini hafifletmekte ve çocuğun boşanmadan sonraki hayata alışmasında ki en önemli etken, çocuğun hayatında kararlılık ve sürekliliğin sağlanmasıdır. Ortak çocuk henüz altı yaşında olup, halen anne ile birlikte yaşamaya devam etmektedir. Çocuğun üstün yararının tespiti amacıyla düzenlenmiş bulunan dosyada mevcut uzman görüşleri dikkate alındığında; dava konusu küçüğün mevcut yaşam düzeni, anne ile kurduğu bağ, anneden ayrılmaya yönelik duyarlılığı, yaşı ve içinde bulunduğu gelişim döneminin özellikleri, anne varlığının küçüğün psiko-sosyal gelişimi açısından önemi, annenin sergilediği ebeveyn tutumu ve küçüğe yaklaşımı, küçüğün gelişimini destekleyici düzenlemeler yapma yönündeki çabası ve istekliliği, bu isteğindeki samimiyeti göz önüne alındığında velayetin anneye verilmesi gerekirken, yanılgılı değerlendirme ile hüküm kurulması usul ve yasaya aykırı olmuş bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/7539 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/529306300)
 
 Yapılan yargılama sonucu ilk derece mahkemesince verilen karar davalı-karşı davacı erkek tarafından kusur belirlemesi, velayet, tazminat taleplerinin reddi, tedbir ve iştirak nafakası ile yarıgılama giderleri yönünden, davacı-karşı davalı kadın tarafından ise; kusur belirlemesi, reddedilen tedbir ve yoksulluk nafakası ile tazminat talepleri, ziynet alacağı ile vekalet ücreti yönünden istinaf edilmiştir.
 Bölge adliye mahkemesince dosya üzerinden yapılan inceleme sonucunda, gerekçenin düzeltilerek, davacı-karşı davalı kadının maddi tazminat, ziynet bedeli ve tedbir nafakasına yönelik istinaf talebi ile davalı-karşı davacı erkeğin ise velayet ve yargılama giderleri yönünden istinaf taleplerinin kabulüne; kadının reddedilen maddi tazminat talepleri ile ziynet alacağına yönelik ilk derece mahkemesi kararının kaldırılmasına, tedbir nafakası yönünden olumlu-olumsuz bir hüküm kurulması gerektiği, ziynetlere yönelik harcın tamamlanmak üzere bu konularda verilen ilk derece mahkemesi kararının kaldırılmasına, yine idrak çağında bulunan çocuğun bizzat mahkemece dinlenilmesi gerektiğinden velayet konusunda verilen hükmünde kaldırılmasına, iştirak nafakası yönünden istinaf sebeplerinin ise şimdilik incelenmesine yer olmadığına kararı ile dosyanın ilk derece mahkemesine gönderilmesine karar verildiği görülmektedir.
 
 ## Yargıtay 2. HD 2019/7110 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524018300)
+
 Kişisel ilişki düzenlenirken göz önünde tutulması gereken temel ilke, çocuğun "Üstün yararı "dır. Çocuğun üstün yararı belirlenirken bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. O halde Gebze 2.Ağır Ceza Mahkemesinin 2018/250 esas sayılı dosyasının getirtilmesi, 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5. maddesi gereğince Aile mahkemesi bünyesinde bulunan psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan her iki ebeveyn ve ortak çocukla görüşmek suretiyle inceleme ve rapor istenip; davacının iddialarının çocuk üzerindeki etkisinin ve tarafların barınma, gelir, sosyal ve psikolojik durumlarına göre çocuğun sağlıklı gelişimi için davalı babanın kişisel ilişkiye engel bir durumun bulunup bulunmadığının araştırılması ve diğer tüm deliller de göz önüne alınmak suretiyle kişisel ilişki konusunda bir karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/7066 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/529983000)
+
 Evlilik birliğinin temelinden sarsılması hukuki sebebine dayalı olarak açılan boşanma davasında; ilk derece mahkemesince, davanın kabulü ile tarafların boşanmalarına, davacı erkek lehine 20.000 TL maddi, 20.000 TL manevi tazminata hükmedilmiş, tarafların müşterek çocuklarının velayeti anneye verilerek, baba ile kişisel ilişki kurulmuştur. Bu karara karşı davacı erkek tarafından velayet ve tazminatların miktarı, davalı kadın tarafından ise kusur belirlemesi ve tazminatlar yönlerinden istinaf kanun yoluna başvurulmuştur. İstinaf incelemesi yapan bölge adliye mahkemesince, davacı erkeğin velayete, kadının tazminatlara yönelik istinaf başvurularının kabulü ile davacı erkek lehine 10.000 TL maddi, 10.000 TL manevi tazminata hükmedilmiş, ortak çocukların velayeti babaya verilerek, anne ile kişisel ilişki kurulmuştur.
 
 ## Yargıtay 2. HD 2019/5028 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525756700)
 
 Velayet, kamu düzenine ilişkin olup bu hususta ana ile babanın istek ve beyanlarından ziyade çocuğun menfaatlerinin dikkate alınması zorunlu olup, yargılama sırasında meydana gelen gelişmelerin bile göz önünde tutulması gerekir. Buna göre velayetin düzenlenmesinde asıl olan, küçüğün yararını korumak ve geleceğini güvence altına almak olduğundan, çocuğun fiziksel ve ruhsal gelişimini engelleyen ve süreklilik arz edeceği anlaşılan her olay, tehlikenin büyüklüğü, doğuracağı onarılması güç sonuçlar değerlendirilerek sonuca varılmalı; velayetin belirlenmesi ve düzenlenmesinde öncelikle çocuğun yararı göz önünde tutulmalıdır.Somut olayda ortak çocuklar temyiz inceleme tarihi itibariyle velayet düzenlemesi konusunda görüşlerini açıklama olgunluğuna erişmiş olup, bu sebeple mahkemece, eğitim, kültür, yaşam olanakları bakımından nerede yaşamak istedikleri konusunda bilgilendirilerek, velayet hakkındaki tercihlerinin kendilerinden sorulması (Yargıtay HGK 16.03.2012 tarih E.2011/2-884- K.
 2012/197 ile 22.01.2014 tarih E.2013/2-2085-K.2014/30 sayılı kararları) ve aradan geçen uzun süre dikkate alınarak gerektiğinde yeniden psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanlardan (4787 sayılı Kanun m.5) ortak çocukların anne ve baba yanındaki barınma ve yaşama koşullarını da değerlendirir içerikte sosyal inceleme raporu alınması ve tüm deliller birlikte değerlendirilip, ebeveynlerinden hangisi yanında kalmasının çocukların menfaatine olacağı tespit edilip, sonucuna göre bir karar verilmek üzere hükmün bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 2. HD 2019/4610 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521500800)
+
 Dava; karşılıklı açılan Türk Medeni Kanunu'nun 166/1 maddesinde düzenlenen evlilik birliğinin temelinden sarsılması hukuki nedenine dayalı boşanma davası olup, ilk derece mahkemesince yapılan yargılama sonucunda davaların kabulü ile tarafların boşanmalarına, ortak çocuğun velayetinin babaya verilmesine, ortak çocuk lehine dava tarihinden karar kesinleşinceye kadar hükmedilen aylık 150,00 TL tedbir nafakasının kararın kesinleşmesine müteakip 225,00 TL iştirak nafakası olarak her ay davacı-karşı davalıdan alınarak davalı-karşı davacıya verilmesine, kadının yoksulluk nafakası talebi bulunmadığından bu konuda karar verilmesine yer olmadığına, davacı-karşı davalı kadının tazminat taleplerinin reddine ve davalı-karşı davacı erkek lehine 6.000,00 TL maddi, 4.000,00 TL manevi tazminatın davacı-karşı davalıdan alınarak davalı-karşı davacıya verilmesine karar verilmiş, ilk derece mahkemesince verilen 22.12.2016 tarihli bu karar davacı-karşı davalı kadın tarafından karşı davanın kabulü, kusur belirlemesi, tazminatlar, nafakalar, velayet, vekalet ücreti ve yargılama gideri yönünden, davalı-karşı davacı erkek tarafından asıl davanın kabulü, kusur belirlemesi, iştirak nafakası miktarı, vekalet
 ücreti ve yargılama gideri yönünden istinaf edilmiştir.
 
 ## Yargıtay 2. HD 2019/3731 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/505133100)
 
 Yapılan yargılama ve toplanan delillerden; tarafların 09.03.2006 tarihinde kesinleşen kararla Türk Medeni Kanunu'nun 166/3. maddesi uyarınca boşandıkları, kadın yararına 150,00 TL yoksulluk nafakasına (TMK m. 175) velayeti anneye bırakılan ortak çocuk 26.12.2003 doğumlu Aybüke yararına ise 100,00 TL iştirak nafakasına hükmolunduğu, boşanma kararının kesinleşmesinden sonra doğan tarafların ortak çocukları 18.05.2006 doğumlu Ayşegül’ün velayetinin davacı anneye bırakılmasına ve bu çocuk yararına 50,00 TL iştirak nafakası verilmesine ilişkin 09.03.2011 tarihli kararın Dairemizin 10.01.2017 tarihli ilamı ile onanması ve karar düzeltme yoluna başvurulmaması sonrası kesinleştiği, dava tarihi itibariyle davacı kadının bir tekstil firmasında asgari ücretli olarak sürekli ve düzenli gelir getiren bir işte çalıştığı, ailesine ait olduğu belirtilen evde ortak iki çocuk ile birlikte yaşadığı, davalı erkeğin ise tarafların boşanmalarından sonra yeniden evlendiği, bu evliliğinden 04.06.2007 tarihinde Mert Ege isimli uzun süreli tedavi gerektiren sağlık sorunları bulunan bir çocuğunun olduğu, deterjan imalat işçisi olarak asgari ücret düzeyinde gelirinin bulunduğu, eşi ve çocuğu ile birlikte
 oturduğu eve aylık 300,00 TL kira ödediği ve eşinin herhangi bir işte çalışmadığı anlaşılmaktadır.
 
 ## Yargıtay 2. HD 2019/2240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/499024400)
+
 Asıl dava kadın tarafından açılan, karşı dava ise erkek tarafından açılan Türk Medeni Kanunu'nun 166/1 maddesinde düzenlenen evlilik birliğinin sarsılması hukuki nedenine dayalı boşanma davası olup, ilk derece mahkemesince yapılan yargılama sonucunda kadın tarafından açılan asıl davanın kabulü ile tarafların boşanmalarına, erkeğin karşı davasının reddine, velayetin davacı-karşı davalı anneye verilmesine, baba ile ortak çocuk arasında kişisel ilişki tesisine, velayeti anneye verilen ortak çocuk yararına dava tarihinden karar kesinleşinceye kadar hükmedilen aylık 150,00 TL tedbir nafakasının kararın kesinleşmesine müteakip 500,00 TL iştirak nafakası olarak devamına, davacı-karşı davalı kadın yararına dava tarihinden karar kesinleşinceye kadar hükmedilen aylık 200,00 TL tedbir nafakasının kararın kesinleşmesine müteakip 300,00 TL yoksulluk nafakası olarak devamına, yine davacı -karşı davalı kadın yararına 7.000,00 TL maddi, 10.000,00 TL manevi tazminatın boşanma kararının kesinleşme tarihinden itibaren işleyecek yasal faizi ile birlikte davalı-karşı davacı erkekten alınarak davacı -karşı davalı kadına verilmesine hükmedilmiş, ilk derece mahkemesince verilen 09.12.2016 tarihli bu karar
 davalı-karşı davacı erkek tarafından her iki davaya yönelik olarak istinaf edilmiştir.
 
 ## Yargıtay 2. HD 2019/1847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496349200)
+
 Velayete ilişkin düzenlemede aslolan çocuğun üstün yararıdır. Ana ve babanın yararları, ahlaki değer yargıları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde göz önünde tutulur. Dosya kapsamından velayeti babaya bırakılan ortak çocuk ...'nın anne yanında bulunmasının çocuğun bedeni, fikri ve ahlaki gelişimine engel olacağı yönünde ciddi sebep ve deliller bulunmadığı, hemen meydana gelecek tehlikelerin varlığı da ispat edilmediği anlaşılmaktadır. Bu durumda ortak çocuğun üstün yararı velayetinin annesine verilmesini zorunlu kılmaktadır. Öte yandan, haklı ve kabul edilebilir sebep ve olgular bulunmadıkça kardeşlerin birbirinden ayrılması da çocukların yararına değildir. Açıklanan sebeplerle ...'nın velayetinin de Türk Medeni Kanunu'nun 182. ve 336/3. maddeleri uyarınca üstün yararı gereği anneye verilmesi gerekirken babanın velayetine bırakılması doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/1543 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519753400)
 
 Tarafların Almanya'da 03.11.2011 tarihinde kesinleşen karar ile boşandıkları ve ortak çocukların velayetinin babaya verildiği, ortak çocuklar ile anne arasında kişisel ilişki tesisine karar verildiği, bu kararın 26.11.2013 tarihinde kesinleşen ilam ile boşanma ve velayet yönünden tanınması ve tenfızine karar verildiği, kişisel ilişkiye yönelik hükmün tenfızi talebinin ise reddedildiği anlaşılmaktadır. O halde ortak çocuklar ile velayet kendisine verilmeyen anne arasında infazı mümkün bir kişisel ilişki hükmü bulunmamaktadır. Açıklanan nedenlerle mahkemece ortak çocuklar ile anne arasında kişisel ilişki kurulması talebi hakkında bir karar verilmesi gerekirken olumlu-olumsuz hüküm kurulmaması doğru görülmemiş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/1018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488682000)
+
 6100 sayılı HMK'nın "Duruşma yapılmadan verilecek kararlar" başlıklı 353/l-b-3. maddesinde; " (1) ön inceleme sonunda dosyada eksiklik bulunmadığı anlaşılırsa; .....b) aşağıdaki durumlarda davanın esasıyla ilgili olarak;....3) yargılamada bulunan eksiklikler duruşma yapılmaksızın tamamlanacak nitelikte ise bunların tamamlanmasından sonra yeniden esas hakkında, duruşma yapılmadan karar verilir." düzenlemesi yer almaktadır. Anılan yasal düzenleme karşısında velayet düzenlemesi yönünden gerekirse bölge adliye mahkemesi hukuk dairesince uzman görüşüne başvurulmak suretiyle velayet düzenlemesinin esası hakkında bir karar verilecek yerde yazılı şekilde hüküm tesisi doğru bulunmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/931 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484398600)
+
 Velayeti anneye bırakılan ortak çocuk ... 02.08.1999 doğumlu olup, mahkemece verilen 05.10.2017 tarihli karardan önce 02.08.2017 tarihi itibariyle reşit olduğu ve velayet kapsamı dışında kaldığı anlaşılmaktadır. Hal böyleyken, mahkemece ortak çocuk ...’nin karar tarihinden önce reşit olduğu dikkate alınmaksızın, davacı-karşı davalı annenin velayeti altına bırakılması usule ve kanuna aykırı olduğundan velayet yönünden hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2019/475 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490035200)
 
 Velayet düzenlemesi yapılırken; gözönünde tutulması gereken temel ilke, çocuğun "üstün yararı” (Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme m.3; Çocuk Haklarının Kullanılmasına ilişkin Avrupa Sözleşmesi m. 1; TMK m. 339/1. 34.3/1, 346/1; Çocuk Koruma Kanunu m. 4/b) dır. Çocuğun üstün yararını belirlerken; onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; ahlaki değer yargıları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde göz önünde tutulur. Velayet düzenlemesi kamu düzenine ilişkin olup, re'sen araştırma ilkesi geçerlidir. Bu nedenle yargılama sırasında meydana gelen gelişmelerin bile göz önünde tutulması gerekir. Tarafların davayı kabulü de tek başına hukuki sonuç doğurmaz. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri idrak çağındaki çocukların kendilerini ilgilendiren konularda görüşünün alınması ve görüşlerine gereken önemin verilmesini öngörmektedir. Çocuğun üstün yararı gerektirdiği takdirde, görüşlerinin aksine karar verilmesi mümkündür.
 Bu sebeple, inceleme tarihi itibariyle idrak çağında bulunan çocuğun velayet konusundaki görüşü alınarak, 4787 sayılı Aile Mahkemelerinin Kuruluş,…
 
 ## Yargıtay 2. HD 2018/15224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471160900)
+
 Ortak çocuklar;.... 2008 ve... 2010 doğumlu olup idrak çağındadırlar. Velayetin düzenlenmesinde aslolan çocuğun üstün yararıdır. Mahkemece velayete yönelik hükmün rapor düzenlenmeden oluşturulduğu anlaşılmıştır. Buna göre 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5. maddesi gereğince Aile Mahkemesi bünyesinde bulunan psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan, tarafların yaşadığı ortamlarda inceleme yapılmak suretiyle rapor istenip; tarafların barınma, gelir, sosyal ve psikolojik durumlarına göre çocuğun sağlıklı gelişimi için velayeti üstlenmeye engel durumlarının bulunup bulunmadığının araştırılması, ortak çocukların mahkemece bizzat dinlenerek olası sonuçları hakkında bilgilendirilmek suretiyle velayeti ile ilgili tercihinin sorulması, diğer deliller de göz önüne alınarak ebeveynlerinden hangisi yanında kalmasının ortak çocuğun menfaatine olacağının tespit edilerek, velayet konusunda bir karar verilmesi gerekirken; eksik inceleme ve araştırmayla karar verilmesi usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/15215 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471082400)
 
 Ortak çocuk ... 27.03.2004 doğumlu olup, idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi ve ve Çocuk Haklarının Kullanılmasına Dair Avrupa Sözleşmesinin 3 ve 6. maddeleri iç hukuk tarafından yeterli idrake sahip olduğu kabul edilen çocuklara kendilerini ilgilendiren davalarda görüşlerini ifade etmeye olanak tanınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Velayet düzenlemesinde asıl olan çocukların yararıdır ve bu düzenlemede ana ve babanın yararı ile çocuğun yararı çatıştığı takdirde, çocuğun yararına üstünlük tanınması gerekir. Çocuğun üstün yararı gerektirdiği takdirde, görüşlerinin aksine karar verilmesi de mümkündür. Bu nedenle ortak çocuğun velayeti konusunda mahkemece görüşünün alınması, bu görüşün değerlendirilmesi ve gerçekleşecek sonucuna göre karar verilmesi gerekirken, bu konuda eksik incelemeyle yazılı şekilde karar verilmesi usul ve yasaya aykırı olup; bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/15014 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470467500)
+
 Ortak çocuklar 2006 ve 2008 doğumlu olup, okul çağındadır. Bu sebeple velayetleri davacı-karşı davalı babaya bırakılan çocuklar ile davalı-karşı davacı anne arasında kurulan kişisel ilişki de her ayın son Cuma gününden başlatılan kişisel ilişki uzun olup, okul çağında bulunan çocukların eğitim durumunu engelleyici nitelikte olduğu gibi babanın velayet görevini de engelleyici niteliktedir. Bu sebeple velayeti babaya verilen ortak çocuklar ile anne arasında daha uygun süreli kişisel ilişki kurulmak üzere hükmün bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 2. HD 2018/14990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470380800)
 
 2- 4721 sayılı Türk Medeni Kanunu'nun 348. maddesine göre, ana babanın deneyimsizliği, hastalığı, başka bir yerde bulunması veya benzeri sebeple velayet görevini gereği gibi yerine getirememesi; çocuğa yeterli ilginin gösterilmemesi veya ona karşı yükümlülüklerin ağır biçimde savsaklanması halinde velayetin kaldırılmasına karar verilir. Dosya kapsamındaki deliller ve uzman raporları davacının velayet görevini yerine getirmediğini ve çocuklarına karşı yükümlülüklerini ağır biçimde savsakladığını kabule yeterli olmadığından, velayetin davacı kadından kaldırılması uygun görülmemiş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/14859 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/468617200)
+
 Velayetin ile kişisel ilişki düzenlenmesinde asıl olan çocuğun üstün yararıdır. 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5. maddesi gereğince Aile Mahkemesi bünyesinde bulunan psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan, her iki ebeveyn ve çocukla görüşmek suretiyle incelemeye rapor istenip; tarafların barınma, gelir, sosyal ve psikolojik durumlarına göre çocuğun sağlıklı gelişimi için velayeti üstlenmeye engel bir durumun bulunup bulunmadığının araştırılması, mahkemece çocuk ya da çocukların bizzat dinlenerek, görüşü alınıp ve diğer deliller de göz önüne alınmak suretiyle ebeveynlerinden hangisi yanında kalması çocuk ya da çocukların menfaatine olacağı tespit edilerek velayet ya da kişisel ilişki konusunda bir karar verilmesi gerekir.
 
 ## Yargıtay 2. HD 2018/14766 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/468105400)
 
 Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri uyarınca, çocuk, kendisini ilgilendiren davalarda kendisine danışılmak ve görüşünü ifade etmek hakkına sahiptir. Çocuğun çıkarına açıkça ters düşmediği takdirde ifade edeceği görüşe önem verilmelidir. Bu itibarla velayeti anneye verilen ortak çocuk 2004 doğumlu Soner idrak çağında olup çocuktan velayet hususunda tercihinin sorulması, annenin velayet görevini yerine getirmesine sosyal, ekonomik ve fiziksel yönden engel durumu olup olmadığının araştırılması ve gerektiğinde uzmanlardan da yararlanmak suretiyle velayet hakkındaki tüm deliller birlikte değerlendirilip, sonucu uyarınca karar verilmesi gerekirken, eksik incelemeyle yazılı şekilde hüküm tesisi doğru görülmemiştir…
 
 ## Yargıtay 2. HD 2018/14419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466255600)
+
 Birleşmiş Milletler Çocuk Hakları Sözleşmesi'nin 12. maddesi ve Çocuk Haklarının Kullanılmasına Dair Avrupa Sözleşmesinin 3. ve 6. maddeleri iç hukuk tarafından yeterli idrake sahip olduğu kabul edilen çocuklara, kendilerini ilgilendiren davalarda görüşlerini ifade etmeye olanak tanınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Bu sebeple,ortak çocuk...'un idrak çağına ulaştığı dikkate alınarak, ortak çocuğun, eğitim, kültür, yaşam olanakları bakımından nerede yaşamak istediği konusunda bilgilendirilerek, velayet hakkındaki tercihinin kendisinden sorulması ve her iki ortak çocuk için psikolog, pedagog ve sosyal çalışmacıdan oluşan heyetten (4787 sayılı Kanun m. 5) ortak çocukların anne ve baba yanındaki barınma ve yaşama koşullarını da değerlendirir içerikte sosyal inceleme raporu alınması ve tüm deliller birlikte değerlendirilip, ebeveynlerinden hangisi yanında kalmasının çocukların menfaatine olacağı tespit edilip, sonucuna göre karar verilmesi gerekirken velayet düzenlemesi yönünden eksik inceleme ile yazılı şekilde karar verilmesi doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/14325 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466222100)
 
 Velayet düzenlemesi yapılırken; gözönünde tutulması gereken temel ilke, çocuğun "Üstün yararı" (Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme m.3; Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesi m.l; TMK m.339/1, 346/1: Çocuk Koruma Kanunu m.4/b)dir. Çocuğun üstün yararını belirlerken onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; boşanmadaki kusurları, ahlaki değer yargıları, sosyal konumları gibi durumları çocuğun üstün yararını etkilemediği ölçüde göz önünde tutulur. Birleşmiş Milletler Çocuk Hakları Sözleşmesi'nin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesi'nin 3. ve 6. maddeleri idrak çağındaki çocukların kendilerini ilgilendiren konularda görüşünün alınması ve görüşlerine gereken önemin verilmesini öngörmektedir. Çocuklann üstün yararı gerektirdiği takdirde, görüşlerinin aksine karar verilmesi mümkündür.
 Mahkemece, velayet konusunda uzman bilirkişiden sosyal inceleme raporu alınarak ve idrak çağında bulunan 24.11.2010 doğumlu ortak çocuk ....’ın velayeti konusunda görüşleri de alınıp deliller hep birlikte, değerlendirilmek suretiyle ortak çocukların velayeti hakkında karar verilmesi gerekirken, yazılı şekilde hüküm hüküm kurulması usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/13958 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466147400)
+
 Davacı-karşı davalı baba, velayeti davalı-karşı davacı annede bulunan ortak çocuğun velayetinin değiştirilmesini, kişisel ilişkinin yeniden düzenlenmesini ve davalı-karşı davacı ile aralarında düzenledikleri 17.09.2014 tarihli protokol gereği davalı-karşı davacı adına kayıtlı 6932/7 parsel sayılı 9 numaralı konut niteliğindeki taşınmazın tapu kaydına ortak çocuğun ergin olacağı tarihe kadar 3. kişilere satışının engellenmesi bakımından şerh konulmasını, davalı-karşı davacı ise; baba ile ortak çocuk arasında düzenlenen kişisel ilişkinin kaldırılmasını, olmazsa azaltılmasını talep ve dava etmişler; mahkemece 25.12.2015 tarihli ilk hükümde; davacı-karşı davalının velayetin değiştirilmesi davasının reddine, kişisel ilişkinin değiştirilmesi davasının kabulüne, davalı-karşı davacı annenin davasının reddine karar verilmiş, davacı-karşı davalının, davalı-karşı davacı adına kayıtlı 6932/7 parsel sayılı 9 numaralı konut niteliğindeki taşınmazın tapu kaydına ortak çocuğun ergin olacağı tarihe kadar 3. kişilere satışının engellenmesi bakımından şerh konulması talebi yönünden hüküm kurulmamış, hükmün davacı-karşı davalı tarafından temyiz edilmesi üzerine Dairemizin 21.06.2016 tarihli ilamı ile;
 davacı-karşı davalının diğer temyiz itirazlarının onanmasına, davalı-karşı davacı adına kayıtlı 6932/7 parsel sayılı 9 numaralı konut niteliğindeki…
 
 ## Yargıtay 2. HD 2018/13821 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462984800)
+
 Ortak çocuk ... 2005 doğumlu olup, idrak çağındadır. Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri, iç hukuk tarafından çocuğun idrak gücüne sahip olduğunun kabul edildiği durumlarda, çocuğa adli merci önündeki kendilerini ilgilendiren davalarda kendi görüşünü ifade etmesine müsaade edilmesini ve yüksek çıkarına açıkça ters düşmediği takdirde ifade ettiği görüşe gereken önemin verilmesi gerektiğini öngörmektedir. Mahkemece çocuğun görüşünü ifade etmesi olanağı tanınmamıştır. Mahkemece yapılacak iş; ortak çocuğun olası sonuçları hakkında bilgilendirilerek velayet ile ilgili tercihinin sorulması, tüm deliller birlikte değerlendirilerek, çocuğun üstün yararının velayetinin ebeveynlerden hangisine bırakılmasında olduğunun saptanması, hasıl olacak sonucuna göre karar vermekten ibarettir. Açıklanan hususların üzerinde durulmaksızın eksik inceleme ile hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2018/13405 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469661300)
 
 Hukuk Muhakemeleri Kanunu'nun 382/2-b-13. maddesine göre velayetle ilgili davalar bir "çekişmesiz yargı" işidir. Çekişmesiz yargı işlerinde kural olarak "basit yargılama usulü" uygulanır (HMK m. 385/1.) Talep; boşanma kararından sonra hakkında velayet kararı olmayan ...'un velayetinin düzenlenmesine ilişkin olduğuna göre, talebin bir çekişmesiz yargı işi olarak basit yargılama usulüne göre incelenmesinde bir isabetsizlik bulunmamaktadır. Ne var ki; velayet davalarının kamu düzenini ilgilendirdiği nazara alındığında mahkemece basit yargılama usulünde duruşma yapılmaksızın da karar vermeye imkan tanıyan Hukuk Muhakemeleri Kanunu'nun 320/1. maddesinin uygulanmasında hataya düşülmüştür. Şöyleki; davalıların ortak çocukları olarak nüfus kaydında gözüken ...'un velayetinin düzenlenmesi yönünden, taraflara vakıa ve olguları bildirme ve bunları kanıtlama olanağının tanınması, adil yargılama hakkını da içeren "hukuki dinlenilme hakkının" bir gereğidir (HMK m. 27).
 Öyleyse; açıklanan hususlar gözetilerek, davalılara ...’nün dilekçesi tebliğ olunarak, taraflara cevap verme ve iddiaları doğrultusunda delillerini bildirmeleri için süre verilmesi, gösterdikleri takdirde taraf delillerinin toplanması ve tüm deliller birlikte değerlendirilerek gerçekleşecek sonucu uyarınca bir karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde hükmün tesisi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/13379 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463872200)
+
 Tarafların 08.05.2010 tarihli ... Asliye Hukuk (Aile) Mahkemesinin kararı ile Türk Medeni Kanunu'nun 166/3 maddesi uyarınca boşandıkları, boşanma kararının 06.06.2012 tarihinde kesinleştiği, velayeti istenen ortak çocuk ...’nin 20.04.2010 doğumlu olduğu, karar tarihinde ortak çocuğun doğmaması nedeniyle velayete ilişkin bir düzenlemenin yapılmadığı anlaşılmaktadır. Davacı, boşanma kararı verilmesinden sonra ve fakat kesinleşmesinden önce 20.04.2010 tarihinde dünyaya gelen ortak çocuk ...’nin velayetinin kendisine verilmesini istemektedir O halde dava, ortak çocuk ...’nin velayetinin düzenlenmesi davasıdır.Velayetin düzenlenmesi davasında asıl olan çocuğun üstün yararıdır. Mahkemece çocuğun üstün yararı doğrultusunda velayetin davacı annede bırakılmasına karar verilmesi doğru ise de, kararın gerekçe kısmında davanın, velayetin değiştirilmesi davası olduğunun yazılması ve hükümde velayetin davalı babada olduğunun belirtilmesi doğru olmamıştır. Ne var ki bu husus yeniden yargılama yapılmasını gerektirmediğinden hükmün bu kısmının düzeltilerek onanmasına karar vermek gerekmiştir. (HUMK m. 438/7).
 
 ## Yargıtay 2. HD 2018/13378 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464107400)
 
 Anne ve babanın deneyimsizliği, hastalığı, başka bir yerde bulunması veya benzeri sebeplerle velayet görevini gereği gibi yerine getirememesi; ana ve babanın çocuğa yeterli ilgiyi göstermemesi veya ona karşı yükümlülüklerini ağır biçimde savsaklamaları halinde hakim velayet hakkını kaldırabilir (TMK m.348). Toplanan deliller, yukarıda açıklanan şekilde bir durumun varlığına yeterli olmayıp, velayetin değiştirilmesine yol açar (TMK m. 183,349,351/1). Öyle ise kanun hükmünün uygulanmasında hata yapılması bozmayı gerektirir. Bunun yanında velayeti, anneden alınıp babaya verilen ortak çocuk ile davalı anne arasında her ayın belirli hafta sonları ve dini bayramlarda yatılı olacak şekilde kişisel ilişki düzenlemesi yapılması gerekirken yazılı şekilde kişisel ilişki tesisi de doğru görülmemiştir. Ancak belirtilen bu yanlışlıkların giderilmesi yeniden yargılama yapılmasını gerektirmediğinden hükmün bu bölümlerinin düzeltilerek onanmasına karar vermek gerekmiştir (HUMK m. 438/7).
 
 ## Yargıtay 2. HD 2018/12754 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469276600)
+
 Velayet düzenlemesi yapılırken; göz önünde tutulması gereken temel ilke, çocuğun "Üstün yararı" (Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme m, 3; Çocuk Haklarının Kullanılmasına ilişkin Avrupa Sözleşmesi m, 1; TMK m. 339/1. 343/1. 346/1; Çocuk Koruma Kanunu m. 4/b) dır. Çocuğun üstün yararım belirlerken; onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; boşanmadaki kusurları, ahlaki değer yargıları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde gözönünde tutulur. Velayet kamu düzenine ilişkin olup, re'sen araştırma ilkesi geçerlidir. Bu nedenle yargılama sırasında meydana gelen gelişmelerin bile göz önünde tutulması gerekir.
 
 ## Yargıtay 2. HD 2018/12692 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469544300)
 
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre velayeti davalı-karşı davacı babaya verilen ortak çocukların ihtiyaçlarına nazaran takdir edilen iştirak nafakası azdır. Mahkemece Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2018/12611 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/460796600)
+
 Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri uyarınca, idrak çağındaki çocuk, kendisini ilgilendiren davalarda kendisine danışılmak ve görüşünü ifade etmek hakkına sahiptir. Çocuğun çıkarına açıkça ters düşmediği takdirde ifade edeceği görüşe önem verilmelidir. Bu itibarla velayeti anneye verilen ortak çocuk 2005 doğumlu Hazal'dan velayet hususunda tercihinin sorulması, gerektiğinde uzmanlardan da yararlanmak suretiyle velayeti hakkındaki tüm deliller birlikte değerlendirilip, sonucu uyarınca karar verilmesi gerekirken, eksik incelemeyle yazılı şekilde hüküm tesisi doğru görülmemiştir…
 
 ## Yargıtay 2. HD 2018/12604 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/460670500)
 
 Birleşmiş Milletler Çocuk Hakları Sözleşmesi'nin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesi'nin 3. ve 6. maddeleri uyarınca, çocuk kendisini ilgilendiren davalarda kendisine danışılmak ve görüşünü ifade etmek hakkına sahiptir. Çocuğun çıkarına açıkça ters düşmediği takdirde ifade edeceği görüşe önem verilmelidir. Bu itibarla velayeti anneye verilen ortak çocuk 2007 doğumlu ...'den ve velayetleri babaya verilen ortak çocuklar 2003 doğumlu ... ve 2001 doğumlu ...'dan velayet hususunda tercihinin sorulması, gerektiğinde uzmanlardan da yararlanmak suretiyle velayet hakkındaki tüm deliller birlikte değerlendirilip, sonucu uyarınca karar verilmesi gerekirken, eksik incelemeyle yazılı şekilde hüküm kurulması doğru görülmemiş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/12581 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/460969200)
+
 Velayeti anneye verilen ve fiilen baba yanında olan ortak çocuk ... 2002 doğumlu olup, idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesi'nin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesi'nin 3. ve 6. maddeleri uyarınca, çocuk, kendisini ilgilendiren davalarda kendisine danışılmak ve görüşünü ifade etmek hakkına sahiptir. Çocuğun çıkarına açıkça ters düşmediği takdirde ifade edeceği görüşe önem verilmelidir. Bu itibarla idrak çağındaki çocukların mahkemece dinlenilmesi ve tercihinin; sorulması, gerektiğinde uzmanlardan da yararlanmak suretiyle velayet hakkındaki tüm deliller birlikte değerlendirilip, sonucu uyarınca karar verilmesi gerekirken, eksik incelemeyle yazılı şekilde hüküm tesisi doğru görülmemiş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/12294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463528700)
 
 Velayet düzenlemesi yapılırken; gözönünde tutulması gereken temel ilke, çocuğun "üstün yararı" (Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme md.3; Çocuk Haklarının Kullanılmasına ilişkin Avrupa Sözleşmesi m.l; TMK. md.339/1. 343/1. 346/1; Çocuk Koruma Kanunu m. 4/b) dır. Çocuğun üstün yararını belirlerken; onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; boşanmadaki kusurları, ahlaki değer yargıları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde gözönünde tutulur. Mahkemece, velayet konusunda uzman bilirkişiden sosyal inceleme raporu alınarak ve idrak çağında bulunan 2010 doğumlu ortak çocuk ... velayeti konusunda görüşü de alınıp deliller hep birlikte değerlendirilmek suretiyle düzenleme yapılması gerekirken, yazılı şekilde eksik inceleme ile hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2018/12211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454397300)
+
 Birleşen dava velayetin "tedbiren" düzenlenmesi davası olup bu davada hükmedilen velayete ilişkin düzenleme boşanma hükmünün kesinleşmesine kadar hüküm ifade edecektir. Buna karşılık asıl boşanma davasında boşanma kararı verilmesine rağmen ortak çocukların velayetleri hakkında (TMK m.182) düzenleme yapılmamış, velayetler askıda kalmıştır. Açıklanan nedenlerle boşanma davasında ortak çocuklara yönelik velayet düzenlemesi yapılmaması usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/12133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469549000)
 
 Taraflar 17.04.2010 doğumlu ortak çocuk .....'in velayetini talep etmiş, mahkemece çocuğun velayeti davacı anneye verilmiştir. Birleşmiş Milletler Çocuk Hakları Sözleşmesi'nin 3. ve 6. maddeleri ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesi'nin 12. maddesi iç hukuk bakımından idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşünün alınması ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Velayet, çocukları ilgilendiren konuların en önemlilerindendir. Velayetin düzenlenmesinde asıl olan çocuğun üstün yararıdır.
 Öte yandan 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanun'un 5. maddesi gereğince Aile Mahkemesi bünyesinde bulunan psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan, her iki ebeveyn ve çocukla görüşmek suretiyle inceleme ve rapor istenip; tarafların barınma, gelir, sosyal ve psikolojik durumlarına göre çocuğun sağlıklı gelişimi için velayeti üstlenmeye engel bir durumun bulunup bulunmadığının araştırılması, idrak çağındaki çocuğun hakim tarafından bizzat dinlenerek, görüşü alınıp ve diğer deliller de gözönüne alınmak suretiyle anne ve babadan hangisinin yanında kalmasının çocuğun menfaatine olacağı tespit edilerek velayet konusunda bir karar verilmesi gerekir. Velayete yönelik alınan sosyal inceleme raporları hüküm tesisi için yeterli değildir. O halde ortak çocuğun hakim tarafından bizzat dinlenilmesi ve yukarıda belirtilen kıstaslar dikkate alınarak oluşturulacak bir heyetten ortak çocuk için rapor alınarak, diğer deliller de değerlendirilip, gerçekleşecek sonucu uyarınca karar verilmesi gerekirken, eksik inceleme ve araştırmayla karar verilmesi usul ve yasaya aykırı olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/11716 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451487800)
+
 Boşanma ile birlikte ortak çocuk 2011 doğumlu...n velayeti davalı babaya bırakılmıştır. Velayet, kamu düzenine ilişkin olup re'sen araştırma ilkesi geçerlidir. Velayetin düzenlenmesinde aslolan çocuğun üstün yararıdır. Mahkemece velayet düzenlemesi yapılırken uzman görüşüne başvurulmamıştır. Bu durumda, 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanun'un 5.maddesi gereğince Aile Mahkemesi bünyesinde bulunan psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan inceleme ve rapor istenip; tarafların barınma, gelir, sosyal ve psikolojik durumlarına göre çocuğun sağlıklı gelişimi için velayeti üstlenmeye engel bir durumlarının bulunup bulunmadığının araştırılması ve diğer deliller de gözönüne alınarak velayet konusunda bir karar verilmesi gerekirken; eksik inceleme ve araştırmayla yazılı şekilde karar verilmesi usul ve kanuna aykırı olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/11536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462702100)
 
 Toplanan delillerden boşanma davasından sonra velayet sahibi babanın velayet görevini kötüye kullandığı veya velayetin değiştirilmesini gerektiren ihmal, ve istismarının varlığı ispatlanamadığı gibi kişisel ilişkiye engel olduğu iddiası da kanıtlanamamıştır. Çocuğun velayete ilişkin beyanının üstün yararına uygun olduğuna dair delil de bulunmamaktadır. Toplanan deliller, velayetin değiştirilmesi koşullarının oluştuğunu kabule elverişli değildir. Gerçekleşen bu durum karşısında, davalı-davacı annenin velayetin değiştirilmesine yönelik davasının reddi gerekirken, yazılı şekilde kabulüne karar verilmesi isabetsiz olup, bozmayı gerektirmiştir.

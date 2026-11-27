@@ -26,41 +26,61 @@ Her davada açıldığı tarihte tespit edilen vaziyet hükme esas ittihaz olunm
 
 ## Yargıtay HGK 2019/1179 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570971400)
+
 Hemen belirtilmelidir ki, irad biçiminde ödenmesine karar verilen nafakanın hangi hâllerde kaldırılacağı TMK’nın 176. maddesinin 3. fıkrasında sayılmıştır. Buna göre; alacaklı tarafın evlenme olmaksızın fiilen evliymiş gibi yaşaması, yoksulluğunun ortadan kalkması ya da haysiyetsiz hayat sürmesi hallerinde nafaka, mahkeme kararıyla kaldırılabilecektir. Bu durumda, asgari ücret seviyesinde bir gelire sahip olan nafaka alacaklısı davalının yoksulluğunun ortadan kalkmadığı kabul edildiğinden TMK’nın 176/3. maddesi uyarınca nafakanın kaldırılması olanağının bulunmadığı açıktır.
 
 ## Yargıtay HGK 2019/1157 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579496800)
 
 Kanun metnindeki “mali gücü oranında” ifadesi ile borçlunun ekonomik gücünün varlığına işaret edilmiştir. Bu durumda kanunun sözünden çıkan mânadan, borçlunun mali gücünün bulunmaması durumunda nafakanın kaldırılmasına da hükmedilebilecektir. Yine buradan nafakanın kaldırılması, arttırılması ya da azaltılmasını hâllerine yer veren TMK’nın 176/3. ve 4. maddelerindeki sıralamaların, TMK’nın 175. maddesinde belirtilen ödeme gücü bulunanlar yönünden geçerli olduğu sonucuna varılmaktadır.
 
 ## Yargıtay HGK 2019/1142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579478800)
+
 TMK'nın 176. maddesinin 3. fıkrasında nafaka alacaklısının yeniden evlenmesi irat biçiminde kararlaştırılan yoksulluk nafakasını kendiliğinden sona erdiren bir hâl olarak kabul edilmiştir. Görüldüğü üzere evlenme, nafakanın sona erme sebebi olduğu hâlde nişanlılık tek başına nafakanın sona ermesi veya kaldırılması sebebi değildir. Bu durumda nafakanın kaldırılması koşulları oluşmadığından, nafakanın artırılması koşullarının da kalkmadığının kabulü gerekir. Dolayısıyla yoksulluk nafakasının niteliği gereği dava tarihinde evli olmayan davacının nafakanın artırılmasını talep etmesi TMK'nın 2. maddesi anlamında hakkın kötüye kullanılması olarak değerlendirilemez.
 
 ## Yargıtay HGK 2019/1135 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571025700)
 
 Açıklanan bu maddi ve hukuki olgular karşısında somut olay değerlendirildiğinde, davalının belirtilen şekilde gelir elde etmesi, nafakanın kaldırılmasına değil azaltılmasına etki edecek olgulardan olduğundan, mahkemece tarafların sosyal ve ekonomik durumları dikkate alınarak, davalının yoksulluluğunun ortadan kalkmadığı gözetilmekle, 4721 sayılı TMK’nın 4. maddesinde düzenlenen hakkaniyet ilkesi uyarınca nafakanın uygun bir miktarda indirilmesi gerekmektedir.
 
 ## Yargıtay HGK 2018/1356 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/457011600)
+
 Somut olayda davalı-birleşen davacı kadının başka biri ile devamlı bir şekilde birlikte yaşadığı ispatlanamamıştır. O hâlde Türk Medeni Kanunun 176/3. maddesi koşulları oluşmamıştır. Aksine yukarıda zikredildiği şekilde eşit kusurlu kabul edilen ve dosya kapsamı itibariyle herhangi bir geliri olmayan davalı -birleşen davacı kadın yararına TMK'nın 175. maddesi koşulları gerçekleştiğinden uygun miktarda yoksulluk nafakası takdiri gerekmektedir…
 
 ## Yargıtay HGK 2017/1089 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/343022600)
 
 TMK.nun 175.maddesine göre, boşanma yüzünden yoksulluğa düşecek tarafın kusuru daha ağır olmamak koşuluyla, geçimi için diğer taraftan mali gücü oranında nafaka isteyebilir, 176/4.maddesine göre ise, yoksulluğun ortadan kalkması halinde mahkemece nafaka kaldırılabileceği gibi, tarafların mali durumlarının değişmesi veya hakkaniyetin gerektirdiği hallerde iraden artırılması veya azaltılmasına da karar verilebilir.
 
 ## Yargıtay HGK 2016/436 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/233236300)
+
 TMK.nun 176/4.maddesine göre: "Tarafların mali durumlarının değişmesi veya hakkaniyetin gerektirdiği hallerde iradın artırılması veya azaltılmasına karar verilebilir." Aynı şekilde 176/3.maddesi uyarınca; irat biçiminde ödenmesine karar verilen maddi tazminat veya nafaka, alacaklı tarafın yeniden evlenmesi ya da taraflardan birinin ölümü halinde kendiliğinden kalkar; alacaklı tarafın evlenme olmaksızın fiilen evliymiş gibi yaşaması, yoksulluğunun ortadan kalkması ya da haysiyetsiz hayat sürmesi halinde mahkeme kararıyla kaldırılır".
 
 ## Yargıtay HGK 2015/2631 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329595500)
 
 Türk Medeni Kanunu'nun 176/4 maddesi hükmüne göre; tarafların mali durumlarının değişmesi veya hakkaniyetin gerektirdiği hallerde iradın artırılmasına karar verilebilir. Bu hüküm gereğince mahkemece iradın arttırılması için ya tarafların mali durumlarının değişmesi ya da hakkaniyetin artırımı gerektirmesi gerekmektedir.
 
 ## Yargıtay HGK 2011/542 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77234500)
+
 Aynı yasanın 176.maddesinde de; irat biçiminde ödenmesine karar verilen maddi tazminat veya nafakanın, alacaklı tarafın yeniden evlenmesi ya da taraflardan birinin ölümü halinde kendiliğinden kalkacağı düzenlenmiştir. Öte yandan alacaklı tarafın evlenme olmaksızın fiilen evliymiş gibi yaşaması, yoksulluğunun ortadan kalkması ya da haysiyetsiz hayat sürmesi halinde de mahkeme kararıyla kaldırılacağı belirtilmiştir.
 
 ## Yargıtay HGK 2010/297 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16992200)
 
 Ancak bozma ilamında TMK'nın 176/4.maddesinden bahsedilmişse de iştirak nafakası T.M.Y. 182/2.maddesinde düzenlendiğinden anılan maddenin, maddi tazminat ve yoksulluk nafakası ile ilgili olduğu ve bozma ilamında sehven yer aldığı hususu Hukuk Genel Kurulu görüşmeleri sırasında tartışılmış ve neticeten bu kısmın bozma ilamından çıkartılması gerektiği kanaatına varılmıştır.
 
@@ -107,77 +127,113 @@ Boşanan eş yararına yoksulluk nafakasına hükmedebilmek için, nafaka talep 
 
 ## Yargıtay 2. HD 2025/11284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204584500)
+
 2\. 4721 sayılı Kanun'un 175 inci maddesine göre, boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak koşuluyla geçimi için diğer taraftan mali gücü oranında süresiz olarak nafaka isteyebilir. Nafaka yükümlüsünün kusuru aranmaz. 4721 sayılı Kanun'un 176 ncı maddesinin birinci fıkrasına göre, yoksulluk nafakasının toptan ve durumun gereklerine göre irat biçiminde ödenmesine karar verilebilir. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, tarafların ekonomik ve sosyal durumları ile ödeme gücü ve isteklerinin öncelikli olarak göz önünde bulundurulması gerektiği açıktır. Ayrıca yoksulluk nafakasının toptan veya irat şeklinde nafakaya hükmedilmesinde, tarafların evlilik süresi ve ortak çocuklarının bulunup bulunmaması da önemli bir etkendir. Somut olayda tarafların evliliği yaklaşık sekiz yıldan fazla sürmüş ve bir ortak çocuklarının bulunduğu anlaşılmaktadır. Toplanan delillerden, boşanmaya sebep olan olaylarda kadının daha ağır kusurlu olmadığı ve boşanma yüzünden yoksulluğa düşeceği anlaşılmaktadır.
 Evlilikte geçen uzun süre, tarafların ekonomik ve sosyal durumları, ortak çocuklarının bulunması ve bu sebeple iletişimlerinin devam edecek olması dikkate alındığında ve özellikle süresiz yoksulluk nafakası isteminde bulunduğu anlaşılan davalı-davacı kadının, ekonomik yönden zor durumda olduğunu, irat şeklinde yoksulluk nafakası ödenmesine ihtiyacı bulunduğunu belirterek toptan yoksulluk nafakası verilmesine yönelik itirazlarının haklı bulunmasına göre, kadın lehine 4721 sayılı Kanun'un 176 ncı maddesinin birinci fıkrası dikkate alınarak, "hakimin takdir yetkisi" çerçevesinde yoksulluk nafakasının irat şeklinde verilmesi gerekirken, toptan ödeme şeklinde bir defaya mahsus olmak üzere nafakaya hükmedilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/11100 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204087000)
+
 Yukarıda (2) numaralı paragrafta belirtildiği üzere; temyiz olunan, Bölge Adliye Mahkemesi kararının hüküm fıkrasında yer alan toptan yoksulluk nafakasının belirleme usulüne ilişkin temyiz itirazlarının kabulü ile Bölge Adliye Mahkemesi kararının II-b numaralı bendinde yer alan "boşanma kararının kesinleştiği 09.09.2022 tarihinden itibaren TMK 176. maddesi gereğince takdiren aylık 1.000 TL'den 2 yıllık 24.000 TL toplu yoksulluk nafakasının" ibarelerinin hüküm fıkrasından çıkarılmasına; yerine "TMK 176. maddesi uyarınca takdiren bir defaya mahsus olmak üzere 24.000 TL toptan yoksulluk nafakasının" ibaresi yazılmak suretiyle temyize konu kararın DÜZELTİLEREK ONANMASINA,…
 
 ## Yargıtay 2. HD 2025/10567 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204003700)
 
 Yoksulluk nafakasına hükmedebilmek için, nafaka talep eden eşin boşanma yüzünden yoksulluğa düşecek olması gerekir. Nafaka yükümlüsünün kusuru aranmaz (4721 sayılı Kanun md. 175). Aynı Kanun'un 176 ncı maddesinin birinci fıkrasında, yoksulluk nafakasının toptan veya durumun gereklerine göre irat biçiminde ödenmesine karar verilebileceği öngörülmüştür. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, tarafların isteği, ekonomik ve sosyal durumları ile ödeme gücünün göz önünde bulundurulması gerektiği de açıktır. Somut olayda kadının boşanmakla yoksulluğa düşeceği gerçekleşmiş ise de tarafların ekonomik ve sosyal durumu, yaşları, evlilik süresi ve ortak çocuklarının bulunmayışı dikkate alındığında kadın yararına irat şeklinde yoksulluk nafakasına hükmedilmesi Kanun'un amacına uygun bulunmamaktadır.
 O halde 4721 sayılı Türk Medeni Kanunu'nun 176 ncı maddesinin birinci fıkrası nazara alınarak, hakimin takdir yetkisi çerçevesinde tarafların ekonomik ve sosyal durumlarına uygun olarak bir defaya mahsus olmak üzere "toptan ödeme" şeklinde yoksulluk nafakasına hükmedilmesi hususu değerlendirilmeksizin yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/8670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201393400)
+
 Davacı kadının yoksulluk nafakası talebi hakkında, 4721 sayılı Kanun'un 176 ıncı maddesinin birinci fıkrası nazara alınarak, hâkimin takdir yetkisi çerçevesinde "toptan ödeme" kararı verilmesinde kanuna aykırı bir durum yok ise de; tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre kadın yararına takdir edilen toptan yoksulluk nafakası miktarının az olduğu anlaşılmaktadır. Bu durumda Mahkemece 4721 sayılı Kanun'un 4 üncü maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun miktarda nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/7740 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180153500)
 
 Boşanan eş yararına yoksulluk nafakasına hükmedebilmek için, nafaka talep eden eşin boşanma yüzünden yoksulluğa düşecek olması gerekir. Nafaka yükümlüsünün kusuru aranmaz (4721 sayılı Kanun md. 175). Aynı Kanunun 176 ncı maddesinin birinci fıkrasında, yoksulluk nafakasının toptan veya durumun gereklerine göre irat biçiminde ödenmesine karar verilebileceği öngörülmüştür. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, tarafların isteği, ekonomik ve sosyal durumları ile ödeme gücünün göz önünde bulundurulması gerektiği de açıktır. Somut olayda kadının boşanmakla yoksulluğa düşeceği gerçekleşmiş ise de tarafların ekonomik ve sosyal durumu, yaşları, evlilik süresi ve ortak çocuklarının bulunmayışı dikkate alındığında kadın yararına irat şeklinde yoksulluk nafakasına hükmedilmesi Kanunun amacına uygun bulunmamaktadır.
 O halde 4721 sayılı Kanun'un 176 ncı maddesinin birinci fıkrası nazara alınarak, hakimin takdir yetkisi çerçevesinde tarafların ekonomik ve sosyal durumlarına uygun olarak yoksulluk nafakası yönünden bir defaya mahsus olmak üzere "toptan ödeme" kararı verilmesi hususu da tartışılıp değerlendirilerek buna göre yoksulluk nafakasına hükmedilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/1097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131850100)
+
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, evlilik süresi ve tarafların yaşlarına, nafakanın niteliğine, günün ekonomik koşullarına göre kadın lehine takdir edilen yoksulluk nafakası az olduğu gibi 4721 sayılı Kanun'un 176 ncı maddesinin birinci fıkrasına göre, yoksulluk nafakasının toptan ve durumun gereklerine göre irat biçiminde ödenmesine karar verilebileceği de kanunda belirtilmiştir. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, tarafların ekonomik ve sosyal durumları ile ödeme gücü ve isteklerinin göz önünde bulundurulması gerektiği açıktır. Tarafların ekonomik ve sosyal durumları, evlilikte geçen süre, ortak çocuklarının olmaması ve yaşları da dikkate alındığında kadın yararına, "hakimin takdir yetkisi" çerçevesinde yoksulluk nafakası yönünden bir defaya mahsus olmak üzere "toptan ödeme" yönünde karar verilip verilemeyeceği hususu değerlendirilerek, 4721 sayılı Kanun'un 4 üncü maddesindeki hakkaniyet ilkesi de dikkate alınarak 4721 sayılı Kanun'un 175 inci ve 176 inci maddesi gereğince daha uygun miktarda nafakaya hükmedilmesi gerekir.
 Bu husus gözetilmeden yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/147 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1124428900)
+
 Kabule göre de; 4721 sayılı Türk Medeni Kanunu'nun (4721 sayılı Kanun) 176 ncı maddesinin birinci fıkrasına göre, yoksulluk nafakasının toptan ve durumun gereklerine göre irat biçiminde ödenmesine karar verilebilir. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, tarafların ekonomik ve sosyal durumları ile ödeme gücü ve isteklerinin göz önünde bulundurulması gerektiği açıktır. Somut uyuşmazlıkta tarafların ekonomik ve sosyal durumları, evlilikte geçen süre, ortak çocuklarının olmaması ve yaşları da dikkate alındığında kadın yararına 4721 sayılı Kanun'un 176 ncı maddesinin birinci fıkrası dikkate alınarak, hakimin takdir yetkisi çerçevesinde yoksulluk nafakası yönünden bir defaya mahsus olmak üzere "toptan ödeme" yönünde karar verilip verilemeyeceği hususunun da değerlendirilmemesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2025/66 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118419200)
 
 Boşanan eş yararına yoksulluk nafakasına hükmedebilmek için, nafaka talep eden eşin boşanma yüzünden yoksulluğa düşecek olması gerekir (4721 sayılı Türk Medeni Kanunu md. 175). Aynı Kanunun 176 ncı maddesinin birinci fıkrasında, yoksulluk nafakasının toptan veya durumun gereklerine göre irat biçiminde ödenmesine karar verilebileceği öngörülmüştür. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, tarafların ekonomik ve sosyal durumları ile ödeme gücünün göz önünde bulundurulması gerektiği açıktır. Yoksulluk nafakasının kadın yararına irat şeklinde ödenmesine hükmedilmesi tarafların ekonomik sosyal durumu ile evlilik süresi, yaşları, yeniden evlenme şansları, ortak çocuklarının olmayışı dikkate alındığında Kanunun amacına uygun değildir.
 O halde 4721 sayılı Kanun'un 176 ncı maddesinin birinci fıkrası nazara alınarak, hakimin takdir yetkisi çerçevesinde tarafların ekonomik ve sosyal durumlarına uygun olarak yoksulluk nafakası yönünden bir defaya mahsus olmak üzere "toptan ödeme" kararı verilmesi hususu da tartışılıp değerlendirilerek buna göre yoksulluk nafakasına hükmedilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2024/10182 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120299500)
+
 2.4721 sayılı Türk Medeni Kanunu'nun (4721 sayılı Kanun) 176 ncı maddesinin birinci fıkrası gereğince yoksulluk nafakasının, toptan veya durumun gereklerine göre aylık irat biçiminde ödenmesine karar verilebilir. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, evliliğin süresi, evliliğin kısa sürmesi, tarafların ekonomik ve sosyal durumları ile ödeme gücü ve isteklerinin göz önünde bulundurulması gerektiği açıktır. Somut olayda, yoksulluk nafakasının kadın yararına irat şeklinde ödenmesine hükmedilmesi, tarafların ekonomik sosyal durumu ile evlilik süresi, ortak çocukların bulunmaması dikkate alındığında Kanunun amacına uygun değildir. O halde, 4721 sayılı Kanun'un 176 ncı maddesinin birinci fıkrası nazara alınarak, hakimin takdir yetkisi çerçevesinde tarafların ekonomik ve sosyal durumlarına uygun olarak yoksulluk nafakası yönünden bir defaya mahsus olmak üzere "toptan ödeme" kararı verilmesi hususu da tartışılıp değerlendirilerek buna göre yoksulluk nafakasına hükmedilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2024/5225 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055587800)
 
 Davalı-davacı kadının yoksulluk nafakası talebi hakkında, 4721 sayılı Kanun'un 176 ncı maddesinin birinci fıkrası nazara alınarak, hâkimin takdir yetkisi çerçevesinde "toptan ödeme" kararı verilmesinde kanuna aykırı bir durum yok ise de; tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre kadın yararına takdir edilen toptan yoksulluk nafakası miktarının az olduğu anlaşılmaktadır. Bu durumda Mahkemece 4721 sayılı Kanun'un 4 üncü maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun miktarda nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2024/2158 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040149200)
+
 2.4721 sayılı Kanun'un 176 ncı maddesinin birinci fıkrası gereğince yoksulluk nafakasının, toptan veya durumun gereklerine göre aylık irat biçiminde ödenmesine karar verilebilir. Tarafların ekonomik ve sosyal durumları, evliliğin süresi dikkate alındığında yoksulluk nafakası yükümlüsünün, yoksulluk nafakasını toptan ödemesi yönünde hüküm kurulması gerekirken, irat biçiminde ödenmesine karar verilmesi somut olay bakımından isabetli bulunmamıştır. Kabule göre de; aylık belirlenen yoksulluk nafakası miktarı az olup Mahkemece 4721 sayılı Kanun'un 4 üncü maddesindeki "hakkaniyet ilkesi" de gözetilerek yoksulluk nafakasına hükmedilmesi gerekirken bu yönler gözetilmeden yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2022/5453 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785834600)
 
 Boşanan eş yararına yoksulluk nafakasına hükmedebilmek için, nafaka talep eden eşin boşanma yüzünden yoksulluğa düşecek olması gerekir (TMK m. 175). Türk Medeni Kanunu'nun 176. maddesinin birinci fıkrasında, yoksulluk nafakasının toptan veya durumun gereklerine göre irat biçiminde ödenmesine karar verilebileceği öngörülmüştür. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, tarafların ekonomik ve sosyal durumları ile ödeme gücünün göz önünde bulundurulması gerektiği açıktır. Yoksulluk nafakasının kadın yararına irat şeklinde ödenmesine hükmedilmesi tarafların ekonomik sosyal durumu ile evlilik süresi dikkate alındığında Kanunun amacına uygun değildir. O halde Türk Medeni Kanunu’nun 176/1 inci maddesi nazara alınarak, hakimin takdir yetkisi çerçevesinde tarafların ekonomik ve sosyal durumlarına uygun olarak yoksulluk nafakası yönünden bir defaya mahsus olmak üzere "toptan ödeme" kararı verilmesi hususu da tartışılıp değerlendirilerek buna göre yoksulluk nafakasına hükmedilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2022/987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/758490400)
+
 Türk Medeni Kanunu’nun 175. maddesine göre; boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak koşuluyla geçimi için diğer taraftan mali gücü oranında süresiz olarak nafaka isteyebilir. Aynı Kanunun 176/4. maddesine göre de; tarafların mâli durumlarının değişmesi veya hakkaniyetin gerektirdiği hallerde iradın arttırılması veya azaltılmasına karar verilebilir. Kanuna göre, iradın arttırılması veya azaltılması için ya tarafların mâli durumlarının değişmesi veya hakkaniyetin bunu gerektirmesi gerekir. İrat biçiminde ödenmesine karar verilen nafaka, taraflardan birinin ölümü halinde kendiliğinden kalkar (TMK m. 176/3). Yoksulluk nafakası alacaklısı kadının karardan sonra ölümüyle yoksulluk nafakası ölüm tarihinde kendiliğinden kalkmıştır. Ancak, dava tarihi ile ölüm tarihi arasındaki nafaka miktarı murisin terekesini ve dolayısıyla kadının mirasçılarını yakından ilgilendirmektedir. Şayet yoksuluk nafakasının indirilmesi kabul edilirse, fazla ödenen yoksulluk nafakası terekenin pasifine ve sonuçta mirasçıların borç hanesine yazılacaktır. Bu sebeple verilen karar kadının mirasçılarının hukuki haklarını yakından ilgilendirmektedir.
 
 ## Yargıtay 2. HD 2022/681 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729427000)
 
 2-4721 Sayılı Türk Medeni Kanunu'nun 176. maddesinin birinci fıkrasında, yoksulluk nafakasının toptan veya durumun gereklerine göre irat biçiminde ödenmesine karar verilebileceği öngörülmüştür. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, tarafların ekonomik ve sosyal durumları ile ödeme gücünün göz önünde bulundurulması gerektiği açıktır. Yoksulluk nafakasının kadın yararına aylık 400,00 TL irat şeklinde ödenmesine hükmedilmesi tarafların ekonomik sosyal durumu ile evlilik süresi dikkate alındığında Kanunun (TMK m. 176/1) amacına uygun değildir. O halde, yoksulluk nafakası yükümlüsünün yoksulluk nafakasını toptan şekilde ödemesinin uygun olup olmayacağının da tartışılıp değerlendirilerek sonucu uyarınca bir karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2021/9169 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723423900)
+
 2-4721 Sayılı Türk Medeni Kanunu'nun 176 ıncı maddesinin birinci fıkrasında, yoksulluk nafakasının toptan veya durumun gereklerine göre irat biçiminde ödenmesine karar verilebileceği öngörülmüştür. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, tarafların ekonomik ve sosyal durumları ile ödeme gücünün göz önünde bulundurulması gerektiği açıktır. Somut olayda irat şeklinde ödeme tarafların ekonomik sosyal durumu dikkate alındığında Kanunun (TMK m. 176/1) amacına uygun değildir. O halde, yoksulluk nafakası yükümlüsünün yoksulluk nafakasını toptan şekilde ödemesinin uygun olacağı gözetilerek, bu yönde hüküm kurulması gerekirken, nafakanın irat şeklinde ödenmesine karar verilmesi somut olay bakımından isabetli bulunmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2021/8590 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715043800)
 
 4721 Sayılı Türk Medeni Kanunu'nun 176 ncı maddesinin birinci fıkrasında, yoksulluk nafakasının toptan veya durumun gereklerine göre irat biçiminde ödenmesine karar verilebileceği öngörülmüştür. Yoksulluk nafakasının toptan ya da irat biçiminde ödenebilmesine karar verilebilmesi için, tarafların ekonomik ve sosyal durumları ile ödeme gücünün göz önünde bulundurulması gerektiği açıktır. Kadın yararına hükmedilen aylık 500,00 TL tedbir nafaka miktarı çok olduğu gibi, yoksulluk nafakasının irat şeklinde ödenmesine hükmedilmesi tarafların ekonomik sosyal durumu ile evlilik süresi dikkate alındığında toptan yoksulluk nafakasının ödenmesi hususunun tartışılmaması doğru olmamıştır (TMK m. 176/1). O halde, yoksulluk nafakası yükümlüsünün yoksulluk nafakasını toptan şekilde ödemesinin uygun olup olmayacağının da tartışılıp değerlendirilerek sonucu uyarınca bir kararı verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/10437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540393400)
+
 Davacı erkeğin nafakanın kaldırılması davasına yönelik temyiz itirazlarının incelenmesinde; 6100 sayılı HMK’nın 362. maddesinin 1. fıkrasının b bendi uyarınca “Miktar veya değeri kırk bin Türk Lirasını (bu tutar dâhil) geçmeyen davalara ilişkin kararlar” temyiz edilemez. 02.12.2016 tarihli 6763 sayılı Kanun’un 44. maddesi ile de 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen ek madde 1 uyarınca temyiz parasal sınırlarının (HMK m. 341, 362) Vergi Usul Kanunu’nun mükerrer 298. maddesine göre her yıl tespit ve ilan edilecek yeniden değerleme oranında artırılması öngörülmüştür. Karar tarihi itibariyle bu miktar “47.530 TL” olarak belirlenmiştir.
 
 ## Yargıtay 3. HD 2017/13907 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390905100)
 
 TMK'nun 176/4. maddesine göre de; "Tarafların mali durumlarının değişmesi veya hakkaniyetin gerektirdiği hallerde iradın artırılması veya azaltılmasına karar verilebilir."Yukarıda sözü edilen yasal düzenlemeye göre, iradın artırılması veya azaltılması için ya tarafların mali durumlarının değişmesi veya hakkaniyetin bunu zorunlu kılması gerekmektedir. Bu doğrultuda yerleşen dairemiz uygulamasına göre; nafaka alacaklısı davacının ihtiyaçları ile nafaka yükümlüsü davalının gelir durumunda, nafakanın takdir edildiği tarihe göre olağanüstü bir değişiklik olmadığı takdirde; yoksulluk nafakası TÜİK’in yayınladığı ÜFE oranında artırılmalı ve böylece taraflar arasında önceki nafaka takdirinde sağlanan denge korunmalıdır.Dosya kapsamından; davacının herhangi bir işte çalışmadığı, gelirinin olmadığı, babası ile kaldığı, iki çocuğunun bulunduğu, gayrimenkul veya menkulünün bulunmadığı; davalının ise, otelde garson olarak çalıştığı, aylık 1.150 TL gelirinin olduğu, aylık 400 TL kira verdiği, gayrimenkul veya menkulünün bulunmadığı anlaşılmaktadır.

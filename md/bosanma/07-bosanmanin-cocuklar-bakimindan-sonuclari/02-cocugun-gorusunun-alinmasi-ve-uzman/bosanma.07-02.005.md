@@ -22,157 +22,233 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2016/16338 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/271602800)
+
 Velayeti babaya verilen 11.10.2004 doğumlu ... idrak çağında olduğu anlaşılmaktadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi, Çocuk Haklarının Kullanılmasına Dair Avrupa Sözleşmesinin 3 ve 6. maddeleri gereğince, idrak çağındaki küçüklerin ebeveynlerinden hangisinin yanında kalmak istediği konusunda hakim tarafından bizzat dinlenilerek görüşünün alınması ve tüm deliller birlikte değerlendirilerek hasıl olacak sonuca göre velayetin düzenlenmesi gerekirken, eksik inceleme ile yazılı şekilde hüküm kurulması doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/16337 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/270481500)
 
 Velayeti davacı anneye verilen 17.11.2006 doğumlu ....idrak çağında olduğu anlaşılmaktadır. Birleşmiş .... 12. maddesi,.... Haklarının Kullanılmasına Dair .... Sözleşmesinin 3 ve 6. maddeleri gereğince, idrak çağındaki küçüklerin ebeveynlerinden hangisinin yanında kalmak istediği konusunda hakim tarafından bizzat dinlenilerek görüşünün alınması, kardeşlerin ayrılmaması ilkesi de gözetilmek suretiyle tüm deliller birlikte değerlendirilerek hasıl olacak sonucuna göre velayetin düzenlenmesi gerekirken, eksik inceleme ile yazılı şekilde hüküm kurulması doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/16280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/271538300)
+
 Velayeti davacı anneye verilen ortak çocuklar ile davalı baba arasında her hafta sonu kişisel ilişki kurulmuş olması velayet sahibi annenin velayet hakkının kısıtlanması sonucunu doğurur. Ayrıca kurulan kişisel ilişki babalık duygularının tatminine de engel niteliktedir. Buna göre psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanlardan (4787 sayılı Kanun m.5) sosyal inceleme raporu istenmeli, tüm deliller birlikte değerlendirilip sonucuna göre karar verilmesi gereklidir. Bu hususlar nazara alınmadan, kişisel ilişki ile ilgili eksik araştırma ve inceleme ile yazılı şekide düzenlemeye gidilmesi isabetli bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/15979 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/271590000)
 
 Ortak çocuklar 2006 doğumlu ....ve 2007 doğumlu ...., idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi ve Çocuk Haklarının Kullanılmasına Dair .... Sözleşmesinin 3. ve 6. maddeleri iç hukuk tarafından yeterli idrake sahip olduğu kabul edilen çocuklara kendilerini ilgilendiren davalarda görüşlerini ifade etmeye olanak tanınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Bu bakımdan, müşterek çocuğun mahkemece veya istinabe suretiyle eğitim, kültür, yaşam olanakları bakımından nerede yaşamak istediği konusunda bilgilendirilerek, velayet hakkındaki tercihinin kendisinden sorulması, çocuğun halen nerede ve kiminle yaşadığı tespit edilerek, gerekirse psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanlardan (4787 s. K, m. 5) sosyal inceleme raporu istenerek, tüm deliller birlikte değerlendirilip, bir karar verilmek üzere hükmün bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 2. HD 2016/15955 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/271572900)
+
 Velayetinin değiştirilmesi talep edilen ortak çocuğun idrak çağında olduğu anlaşılmaktadır. Çocuk Haklarının Kullanılmasına ilişkin...Sözleşmesinin 3 ve 6., Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12 maddesi idrak çağındaki çocukların kendilerini ilgilendiren konularda görüşünün alınması ve görüşlerine gereken önemin verilmesini öngörmektedir. Velayet düzenlenmesinde asıl olan çocukların yararıdır ve bu düzenlemede ana ve babanın yararı ile çocuğun yararı çatıştığı takdirde, çocuğun yararına üstünlük tanınması gerekir. Çoçuğun üstün yararı gerektirdiği takdirde, görüşlerinin aksine karar verilmesi de mümkündür. Bu nedenle, ortak çocuğun velayeti konusunda mahkemece görüşünün alınması, bu görüşün değerlendirilmesi ve gerçekleşecek sonucuna göre karar verilmesi gerekirken, bu konuda eksik incelemeyle yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/15908 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/270676500)
 
 Ortak çocuk .... 2006 doğumlu olup idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi ve Çocuk Haklarının Kullanılmasına .... Sözleşmesinin 3. ve 6. maddeleri iç hukuk tarafından yeterli idrake sahip olduğu kabul edilen çocuklara, kendilerini ilgilendiren davalarda görüşlerini ifade etmeye olanak tanınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Bu bakımdan ortak çocuk .... mahkemece veya istinabe suretiyle eğitim, kültür, yaşam olanakları bakımından nerede yaşamak istediği konusunda bilgilendirilerek, velayet hakkındaki tercihinin kendisinden sorulması, çocuğun halen nerede ve kiminle yaşağı tespit edilerek, psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanlardan (4787 s.k. m. 5) sosyal inceleme raporu istenerek, tüm deliller birlikte değerlendirilip sonucu uyarınca karar verilmesi gerekirken, velayet konusunda yazılı şekilde eksik inceleme ile hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2016/15605 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/271924000)
+
 Ortak çocuklar ....doğumlu olup idrak çağındadırlar. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına ilişkin ....Sözleşmesinin 3 ve 6. maddelerine göre, idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşlerinin alınması ve görüşlerine de gereken önemin verilmesi, gerekirse 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanununun 5.maddesi uyarınca uzman veya uzmanlardan rapor alınıp, deliller birlikte değerlendirilerek sonucu uyarınca karar verilmesi gerekirken, kişisel ilişki konusunda eksik inceleme ile hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/15601 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/271343200)
+
 Ortak çocuklar....2005, Eyüp 2009 doğumlu olup idrak çağındadırlar. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına ilişkin Avrupa Sözleşmesinin 3 ve 6. maddelerine göre, idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşlerinin alınması ve görüşlerine de gereken önemin verilmesi, gerekirse 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanununun 5. maddesi uyarınca uzman veya uzmanlardan rapor alınıp, deliller birlikte değerlendirilerek sonucu uyarınca karar verilmesi gerekirken, velayet konusunda eksik inceleme ile hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/15421 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/271893400)
 
 Velayetin düzenlenmesinde asıl olan çocuğun "üstün yararı"dır (Birleşmiş Milletler Çocuk Hakları Sözleşmesi m. 3; Çocuk Haklarının Kullanılmasına İlişkin....Sözleşmesi m. 6). Çocuğun üstün yararını belirlerken; onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Davanın kamu düzeniyle olan ilgisi nedeniyle hakim gerektiğinde tarafların gösterdikleri delillerle bağlı kalmaksızın re'sen (kendiliğinden) delil toplayabilir ve araştırma yapabilir (HMK m.385/2). Bu konuda ana ve babanın anlaşmaları veya davalının "davayı kabul" açıklaması hakimi bağlamaz. O halde; mahkemece, taraflara delil göstermeleri için süre verilmesi, gösterdikleri takdirde delillerin toplanması, psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanlardan (4787 sayılı kanun m. 5) çocukların anne ve baba yanındaki barınma ve yaşama koşullarının da değerlendirir içerikte görüş alınması ve yukarıda açıklanan ilke ve ölçütler uygulanmak suretiyle, velayetin düzenlenmesinde çocukların üstün yararının hangi ebeveyninin velayeti altında kalmasını gerektirdiği hususu tespit edilerek velayet konusunda bir karar verilmesi gerekir.
 Bu yönde araştırma ve inceleme yapılmadan, eksik inceleme ile hüküm kurulması doğru görülmemiştir…
 
 ## Yargıtay 2. HD 2016/14999 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329576900)
+
 Velayet düzenlemesi yapılırken; göz önünde tutulması gereken temel ilke, çocuğun "üstün yararıdır" (Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme m.3; Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesi m.1; TMK m.339/1, 343/1, 346/1, Çocuk Koruma Kanunu m.4/b). Çocuğun üstün yararını belirlerken; onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; boşanmadaki kusurları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde göz önünde tutulur. Mahkemece, uzman bilirkişiden ortak çocuk ....'ın velayetine ilişkin sosyal inceleme raporu alınarak, küçüğün idrak çağında olduğu da gözetilerek velayeti konusunda mahkemece bizzat beyanı alınarak toplanan deliller hep birlikte değerlendirmek suretiyle velayet hakkında düzenleme yapılması gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/14465 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/270779200)
 
 Velayeti babaya verilen ortak çocuklar idrak çağındadır. Birleşmiş ...Çocuk Hakları Sözleşmesinin 12. maddesi ve Çocuk Haklarının Kullanılmasına Dair... Sözleşmesinin 3. ve 6. maddeleri iç hukuk tarafından yeterli idrake sahip olduğu kabul edilen çocuklara kendilerini ilgilendiren davalarda görüşlerini ifade etmeye olanak tanınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Bu bakımdan, ortak çocukların mahkemece veya istinabe suretiyle eğitim, kültür, yaşam olanakları bakımından nerede yaşamak istediği konusunda bilgilendirilerek, velayet hakkındaki tercihinin kendisinden sorulması, çocukların halen nerede ve kiminle yaşadığı tespit edilerek, psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanlardan (4787 sayılı Kanun m. 5) sosyal inceleme raporu istenerek tüm deliller birlikte değerlendirilip, velayet konusunda bir karar verilmek üzere hükmün bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 2. HD 2016/14440 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/327381500)
+
 Ortak çocuk..., 18.06.2003 doğumlu olup, idrak çağındadır. Mahkemece, idrak çağında olan...'ın Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri uyarınca dinlenip, düşüncelerine ve açıklamalarına da değer verilerek, gerektiğinde uzmanlardan da yararlanmak suretiyle velayet düzenlemesi yapılması gerekirken, eksik incelemeyle yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2016/14250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/271363100)
 
 Çocuğun yararı ise; çocuğun bedensel, fikri ve ahlaki bakımdan en iyi şekilde gelişebilmesi ve böyle bir gelişmenin gerçekleştirilmesi için, çocuğa sosyal, ekonomik ve kültürel koşulların sağlanmış olmasıdır. Çocuğun bu konulardaki üstün yararını belirlerken; çocuk yetişkin biri olmuş olsaydı, kendisini ilgilendiren bir olayda, kendi yararı için ne gibi bir karar verebilecekse, çocuk için karar verme makamındaki kişinin de aynı yönde vermesi gereken karar; yani çocuğun farazi düşüncesi esas alınacaktır. Bu bakımdan müşterek çocuk ... mahkemece veya istinabe suretiyle eğitim, kültür, yaşam olanakları bakımından nerede yaşamak istediği konusunda bilgilendirilerek, velayet hakkındaki tercihinin kendisinden sorulması ve psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanlardan (4787 sayılı Kanun m.5) müşterek çocukların anne ve baba yanındaki barınma ve yaşama koşullarını da değerlendirir içerikte sosyal inceleme raporu istenmeli, tüm deliller birlikte değerlendirilip, ebeveynlerinden hangisi yanında kalmalarının çocukların menfaatine olacağı tespit edilerek sonucuna göre karar verilmesi gereklidir.
 Bu hususlar nazara alınmadan, velayetle ilgili eksik araştırma ve inceleme ile yazılı şekide düzenlemeye gidilmesi isabetli bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/13728 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/270190700)
+
 Velayet düzenlemesi yapılırken; göz önünde tutulması gereken temel ilke, çocuğun "üstün yararıdır" (Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme m.3; Çocuk Haklarının Kullanılmasına ilişkin Avrupa Sözleşmesi m.1; TMK m.339/1, 343/1, 346/1; Çocuk Koruma Kanunu m.4/b). Çocuğun üstün yararını belirlerken; onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; boşanmadaki kusurları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde göz önünde tutulur. Mahkemece, uzman bilirkişiden müşterek çocukların velayetine ilişkin sosyal inceleme raporu alınarak, ayrıca idrak çağında olan küçük ... velayete ilişkin olarak hakim tarafından bizzat dinlendikten sonra toplanan deliller hep birlikte değerlendirmek suretiyle velayet hakkında düzenleme yapılması gerekirken, yazılı şekilde eksik inceleme ile hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2016/13463 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/251206300)
 
 Müşterek çocuk 2006 doğumlu olup, idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi ve Çocuk Haklarının Kullanılmasına Dair Avrupa Sözleşmesinin 3. ve 6. maddeleri iç hukuk tarafından yeterli idrake sahip olduğu kabul edilen çocuklara kendilerini ilgilendiren davalarda görüşlerini ifade etmeye olanak tanınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Bu bakımdan, müşterek çocuğun mahkemece veya istinabe suretiyle eğitim, kültür, yaşam olanakları bakımından nerede yaşamak istediği konusunda bilgilendirilerek, velayet hakkındaki tercihinin kendisinden sorulması, çocuğun halen nerede ve kiminle yaşadığı tespit edilerek, psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanlardan (4787 s. K. m. 5) yeniden sosyal inceleme raporu istenerek, davalı-davacı babanın açıkça vazgeçmediği tanıkları da dinlenilmek suretiyle tüm deliller birlikte değerlendirilip, bir karar verilmek üzere hükmün bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 2. HD 2016/12472 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/220838400)
+
 Müşterek çocuklardan 2003 doğumlu ... yaşı nedeniyle idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi ve Çocuk Haklarının Kullanılmasına Dair Avrupa Sözleşmesinin 3. ve 6. maddeleri iç hukuk tarafından yeterli idrake sahip olduğu kabul edilen çocuklara, kendilerini ilgilendiren davalarda görüşlerini ifade etmeye olanak tanınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Bu bakımdan müşterek çocuk...'in mahkemece veya istinabe suretiyle eğitim, kültür, yaşam olanakları bakımından nerede yaşamak istediği konusunda bilgilendirilerek, velayet hakkındaki tercihinin kendisinden sorulması, çocukların halen nerede ve kiminle yaşadıkları tespit edilerek, psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanlardan (4787 s. k. m. 5) yeniden sosyal inceleme raporu istenerek, tüm deliller birlikte değerlendirilip, kardeşlerin birbirlerinden ayrılmamaları hususu da dikkate alınarak müşterek çocuk...'in velayeti konusunda bir düzenleme yapılmak üzere hükmün bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 2. HD 2016/12457 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/220827500)
 
 Tarafların müşterek çocuğu....2004 doğumlu olup idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri, iç hukuka göre idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşlerinin alınması ve menfaatlerine açıkça aykırı düşmeyecek ise ifade ettikleri görüşlere önem verilmesini öngörmektedir. Türkiye her iki sözleşmeye katılmış ve "taraf” olmuştur. Sözleşmeler iç hukukun parçası olmuştur. O halde, anılan sözleşmeler gereğince idrak çağındaki çocuğun ebeveynlerinin hangisi yanında kalmak istediği konusunda görüşüne başvurulması, menfaatlerine açıkça aykırı düşmeyecek ise, ifade ettikleri görüşe önem verilmesi, gerektiğinde psikolog, pedogog ve sosyal çalışmacıdan oluşan uzmanlardan çocuğun üstün yararının ebeveynlerinden hangisi yanında bulunmak olduğu yönünde rapor alınması ve tüm deliller birlikte değerlendirilerek sonucuna göre velayetin düzenlenmesi gerekirken, açıklanan hususlar gözetilmeden, eksik inceleme ile hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/11319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/216156300)
+
 Çocuğun bu konulardaki üstün yararını belirlerken; çocuk yetişkin biri olmuş olsaydı, kendisini ilgilendiren bir olayda, kendi yararı için ne gibi bir karar verebilecek idiyse, çocuk için karar verme makamındaki kişinin de aynı yönde vermesi gereken karar; yani çocuğun farazi düşüncesi esas alınacaktır. Bu bakımdan müşterek çocuk.... ve ..., mahkemece veya istinabe suretiyle eğitim, kültür, yaşam olanakları bakımından nerede yaşamak istediği konusunda bilgilendirilerek, velayet hakkındaki tercihlerinin kendilerinden sorulması ve psikolog, pedagog ve sosyal çalışmacı niteliğindeki uzman veya uzmanlardan (4787 s. K. m. 5) müşterek çocukların anne ve baba yanındaki barınma ve yaşama koşullarını da değerlendirir içerikte sosyal inceleme raporu istenmeli, tüm deliller birlikte değerlendirilip, ebeveynlerinden hangisi yanında kalmalarının çocukların menfaatine olacağı tespit edilerek sonucuna göre karar verilmesi gereklidir. Bu hususlar nazara alınmadan, velayetle ilgili eksik araştırma ve inceleme ile yazılı şekilde düzenlemeye gidilmesi isabetli bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/11280 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205325300)
 
 Velayet kamu düzenine ilişkin olup, re'sen araştırma ilkesi geçerlidir. Bu nedenle yargılama sırasında meydana gelen gelişmelerin bile göz önünde tutulması gerekir. Davalının davayı kabulü de tek başına hukuki sonuç doğurmaz.Mahkemece; velayetlerin değiştirilmesi istenen ortak çocukların üstün yararlarının belirlenmesi bakımından, yaşları gereği idrak çağında bulunan ortak çocukların velayet konusunda görüşlerine başvurulmamış, anne ve babanın yaşam koşulları ve çocuklara bakım olanakları konusunda bir araştırma yapılmamıştır. Bu amaçla, mahkemece 4787 sayılı kanunun 5. maddesi uyarınca görevlendirilecek uzman veya uzmanlar vasıtasıyla inceleme yapılması; anne ve babanın gerektiğinde mahkemece bizzat dinlenerek ekonomik ve sosyal durumları ile çocuklara bakım olanakları konusunda kendilerinden bilgi alınması, ortak çocukların velayet konusunda bizzat görüşlerine başvurulması ve tüm deliller birlikte değerlendirilip, gerçekleşecek sonucuna göre çocukların velayetinin düzenlenmesi gerekir. Açıklanan yönler gözetilmeden, eksik inceleme ile yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/11123 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214738700)
+
 Velayeti babaya verilen müşterek çocuklardan .....2005, ...... 2006 doğumlu olup, halen idrak çağındadırlar, Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12., Çocuk Haklarının Korunmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri iç hukuk bakımından idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşünün alınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Ortak çocuklar idrak çağında olduğuna göre, mahkemece sonuçları hakkında bilgilendirilerek velayet konusunda bizzat dinlenmeleri ve dosya içerisinde bulunan uzman raporuda birlikte değerlendirilerek sonucu uyarınca karar verilmesi gerekir. Açıklanan yönde işlem ve inceleme yapılmak üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2016/11116 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/216075900)
 
 Müşterek çocuklardan... 2003 ve.... 2005 doğumludur. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12., Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddelerine göre idrak çağında bulunan çocukların dinlenilmesi ve onların ifade edeceği görüşlere de önem verilip, gerekirse 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanununun 5. maddesi uyarınca uzman veya uzmanlardan rapor alınıp, deliller birlikte değerlendirilerek sonucu uyarınca karar verilmesi gerekirken, velayet konusunda eksik inceleme ile hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/8352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210119800)
+
 Tarafların müşterek çocuklarından 2006 doğumlu...... temyiz inceleme tarihi itibarıyla idrak çağında bulunmaktadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri uyarınca çocuk kendisini ilgilendiren davalarda kendisine danışılmak ve görüşünü ifade etmek hakkına sahiptir. Çocuğun yüksek yararına açıkça ters düşmediği takdirde ifade ettiği görüşe gereken önem ve değer verilmelidir. Bu itibarla idrak çağında bulunan çocuğun mahkemece dinlenmesi ve tercihinin sorulması, gerekirse yeniden uzman raporu da alınarak, tüm deliller birlikte değerlendirilerek, kardeşlerin birbirlerinden ayrılmaması ilkesi de gözetilerek sonucu uyarınca karar verilmesi gerekirken, eksik inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2016/8348 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210115100)
 
 Velayeti davalı-karşı davacı babaya verilen müşterek çocuklardan ......2003 doğumlu olup, halen idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmenin 12., Çocuk Haklarının Korunmasına İlişkin Avrupa Sözleşmesinin 3. ve 6. maddeleri; iç hukuk bakımından idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşünün alınmasını ve görüşlerine gereken önemin verilmesi gerektiğini öngörmektedir. Karar tarihinde çocuk idrak çağında olduğu halde, görüşüne başvurulmamıştır. Ortak çocuk idrak çağında olduğuna göre; mahkemece, sonuçları hakkında bilgilendirilerek velayet tercihi konusunda çocuğun bizzat dinlenmesi; bu yeterli olmadığı takdirde 4787 sayılı Kanunun 5. maddesinde gösterilen uzman veya uzmanlardan velayet konusunda yeniden rapor alınarak, tüm deliller birlikte değerlendirilmek suretiyle velayetin düzenlenmesi gerekir. Açıklanan yönde işlem ve inceleme yapılmak üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2016/7939 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214320800)
+
 Velayet düzenlenirken; gözönünde tutulması gereken temel ilke, çocuğun "üstün yararı” (Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme md.3; Çocuk Haklarının Kullanılmasına ilişkin Avrupa Sözleşmesi m. 1; TMK m. 339/1, 34.3/1, 346/1; Çocuk Koruma Kanunu m. 4/b)'dır. Çocuğun üstün yararı belirlenirken: onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; boşanmadaki kusurları, ahlaki değer yargıları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde gözönünde tutulur. Bu sebeplerle Mahkemece 4787 Sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5. maddesi gereğince Aile Mahkemesi bünyesinde bulunan psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan inceleme ve rapor istenip; müşterek çocuk ..... velayetinin ebeveynlerden hangisine bırakılmasında yararının olduğunun saptanması ile diğer deliller de göz önüne alınarak velayet konusunda bir karar verilmesi gerekirken, bu hususta eksik incelemeyle hüküm tesisi usul ve yasaya aykırı bulunmuştur.
 
 ## Yargıtay 2. HD 2016/7930 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215633300)
 
 Tarafların müşterek çocukları 2001 doğumlu ...ve 2007 doğumlu ..., uzmana verdikleri beyanlarda babaları ile kalmak istediklerini, 2009 doğumlu ... ise annesi ile kalmak istediğini beyan etmiş; mahkemece aldırılan sosyal inceleme raporunda da ...ve...'nın velayetlerinin babalarına, diğer küçük çocuklar ... ve 2013 doğumlu ...'nun velayetlerini ise annelerine verilmesinin çocukların menfaatine uygun olacağı belirtilmiştir. Müşterek çocuk, ...2001 doğumlu olup idrak çağındadır. Çocuğun yeterli idrak gücüne sahip olduğunun kabul edildiği durumlarda yüksek çıkarına açıkça ters düşmediği takdirde, ifade ettiği görüşe önem verilmelidir (Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesi m.6/c). Dosyada çocukların tercihlerinin, onların yüksek çıkarına aykırı düşeceğine ilişkin bir delil ve olgu bulunmamaktadır. Uzman raporunda; diğer iki çocuğun yaşça küçük olması sebebi ile annenin tüm çocukları ile yeterince ilgilenemediği, çocukların zihinsel ve sosyal gelişimlerinin yaşıtlarının gerisinde olduğunun belirtildiği görülmektedir.
 Bu nedenle müşterek çocuklar ...ve ...'ın velayetlerinin davalı babalarına verilmesine karar verilmesi gerekirken bu yönler nazara alınmadan anneye verilmesi doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/7834 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215646100)
+
 Velayet düzenlemesinde asıl olan çocuğun üstün yararıdır. Müşterek çocuklardan 09.08.2005 doğumlu ..'nin inceleme tarihinde idrak çağında olduğu anlaşılmaktadır. Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6., Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi uyarınca adı geçen çocuğun görüşü de alınarak, bu görüşünde değerlendirilmesi ve gerektirdiği takdirde yeniden çocukların üstün yararının tespiti bakımından, mahkemece 4787 sayılı Kanunun 5. maddesi uyarınca uzman veya uzmanlar görevlendirilip, alınacak rapor diğer delillerle birlikte değerlendirilerek, gerçekleşecek sonucuna göre tarafların ortak çocukları .. ile ...'in velayetinin düzenlenmesi gerekirken, bu konuda eksik incelemeyle yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/7656 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214914500)
 
 Müşterek çocuğun, boşanma hükmünün kesinleşmesinden itibaren davacı babasıyla yaşamaya başladığı iddia edilmiş ancak buna ilişkin her hangi bir delil sunulmamıştır. Bu konuda alınmış olan uzman raporunda çocuğun boşanma sonrası dönemde her iki tarafla da kaldığı tespit edilmiştir. Mahkemece bu hususların araştırılıp, taraflara delil göstermeleri için süre verilmesi, gösterdikleri takdirde delillerin toplanması, yargılama sırasında idrak çağında bulunan müşterek çocuk ....'un duruşmada velayet konusundaki beyanı da tespit edilerek, mümkün oldukça çocuk psikiyatristi ve pedagoglardan oluşacak uzmanlardan taraflarla yaşadıkları ortamlarda görüşülüp, rapor hazırlatılmak suretiyle deliller birlikte değerlendirilip sonuca ulaşılması gerekirken, davalının kabul beyanı yeterli görülüp eksik inceleme ile velayetin değiştirilmesine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 2. HD 2016/7307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202854700)
+
 Tarafların velayetleri anneye verilen müşterek çocuklarından 2001 doğumlu Batuhan Bahadır ve 2002 doğumlu Gülnihal idrak çağındadırlar. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3 ve 6. maddeleri, iç hukuka göre idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşlerinin alınması ve menfaatlerine açıkça aykırı düşmeyecek ise ifade ettikleri görüşlere önem verilmesini öngörmektedir. Türkiye her iki sözleşmeye katılmış ve “taraf olmuştur. Sözleşmeler iç hukukun parçası olmuştur. O halde, anılan sözleşmeler gereğince idrak çağındaki çocukların ebeveynlerinden hangisinin yanında kalmak istekleri konusunda görüşlerine başvurulması, mahkemece bu konuda dinlenilmeleri ve tüm deliller birlikte değerlendirilerek sonucuna göre velayetin düzenlenmesi gerekirken, açıklanan hususlar gözetilmeden yazılı şekilde hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/6510 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214649100)
 
 Velayet düzenlemesi yapılırken; göz önünde tutulması gereken temel ilke, çocuğun "üstün yararı" (Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme m. 3: Çocuk Haklarının Kullanılmasına ilişkin Avrupa Sözleşmesi m. l; TMK m. 339/1. 343/1. 346/1; Çocuk Koruma Kanunu m. 4/b) dır. Çocuğun üstün yararını belirlerken; onun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişiminin sağlanması amacının gözetilmesi gereklidir. Ana ve babanın yararları; boşanmadaki kusurları, ahlaki değer yargıları, sosyal konumları gibi durumları, çocuğun üstün yararını etkilemediği ölçüde gözönünde tutulur. Mahkemece, velayet konusunda uzman bilirkişiden sosyal inceleme raporu alınarak ve idrak çağında bulunan 2004 doğumlu müşterek çocuk ..., bizzat dinlenip, görüşü alınarak, diğer müşterek çocuklar ... ve ... ile beraber velayetleri konusunda mahkemece deliller hep birlikle değerlendirilmek suretiyle düzenleme yapılması gerekirken, yazılı şekilde eksik inccleme ile hüküm kurulması da usul ve yasaya aykırı olup, hükmün bu yönde de bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 2. HD 2016/6140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214052800)
+
 (b)-Velayet kamu düzenine ilişkindir. Mahkemece ortak çocuklar 2009 doğumlu Utku ve 2013 doğumlu Ali'nin velayeti anneye verilmiştir.4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5. maddesi gereğince Aile Mahkemesi bünyesinde bulunan psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan, her iki ebeveyn ve çocukla görüşmek suretiyle inceleme ve rapor istenip; tarafların barınma, gelir, sosyal ve psikolojik durumlarına göre çocuğun sağlıklı gelişimi için velayeti üstlenmeye engel bir durumun bulunup bulunmadığının araştırılması ve diğer deliller de gözönüne alınmak suretiyle ebeveynlerinden hangisi yanında kalmalarının çocukların menfaatine olacağı tespit edilerek velayet konusunda bir karar verilmesi gerekirken, eksik inceleme ve araştırmayla karar verilmesi usul ve yasaya aykırı olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/5775 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202684400)
 
 Tarafların müşterek çocuklarından ...... 2001, ...... ise 2004 doğumludur ve idrak çağındadırlar. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6’ncı maddeleri, iç hukuka göre idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşlerinin alınması ve menfaatlerine açıkça aykırı düşmeyecek ise ifade ettikleri görüşlere önem verilmesini öngörmektedir. Türkiye her iki sözleşmeye katılmış ve “taraf" olmuştur. Sözleşmeler iç hukukun parçası olmuştur.
 O halde, anılan sözleşmeler gereğince idrak çağındaki çocukların ebeveynlerinin hangisi yanında kalmak istekleri konusunda görüşlerine başvurulması, menfaatlerine açıkça aykırı düşmeyecek ise, ifade ettikleri görüşlere önem verilmesi ciddi ve haklı sebepler bulunmadıkça kardeşlerin birbirinden ayrılmalarının onların ruhsal ve sosyal gelişimlerini olumsuz yönde etkileyeceğinin gözetilmesi, gerektiğinde psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan çocukların üstün yararının ebeveynlerinden hangisi yanında bulunmak olduğu yönünde rapor alınması ve tüm deliller birlikte değerlendirilerek sonucuna göre velayetin düzenlenmesi gerekirken, açıklanan hususlar gözetilmeden, eksik inceleme ile hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/5341 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/212703000)
+
 Müşterek çocuk ... 2002 doğumlu olup idrak çağında bulunduğu anlaşılmaktadır. Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3 ve 6., Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi idrak çağındaki çocukların kendilerini ilgilendiren konularda görüşünün alınması ve görüşlerine gereken önemin verilmesini öngörmektedir. Velayet düzenlemesinde asıl olan çocukların yararıdır ve bu düzenlemede ana ve babanın yararı ile çocuğun yararı çatıştığı takdirde, çocuğun yararına üstünlük tanınması gerekir. Çocuğun üstün yararı gerektirdiği takdirde, görüşlerinin aksine karar verilmesi de mümkündür. Bu itibarla idrak çağında bulunan ...'nın mahkemece dinlenmesi ve tercihinin sorulması, gerekirse yeniden uzman raporu da alınarak, tüm deliler birlikte değerlendirilerek sonucu uyarınca karar verilmesi gerekirken, eksik inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2016/4750 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205808900)
 
 Velayetinin değiştirilmesi talep edilen müşterek çocuk ... 14.11.2005 doğumlu olup idrak çağında olduğu anlaşılmaktadır.Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3 ve 6., Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. maddesi idrak çağındaki çocukların kendilerini ilgilendiren konularda görüşünün alınması ve görüşlerine gereken önemin verilmesini öngörmektedir. Velayet düzenlemesinde asıl olan çocukların yararıdır ve bu düzenlemede ana ve babanın yararı ile çocuğun yararı çatıştığı takdirde, çocuğun yararına üstünlük tanınması gerekir.Çocuğun üstün yararı gerektirdiği takdirde, görüşlerinin aksine karar verilmesi de mümkündür. Bu nedenle, müşterek çocuğun velayeti konusunda mahkemece görüşünün alınması, bu görüşün değerlendirilmesi ve gerçekleşecek sonucuna göre karar verilmesi gerekirken bu konuda eksik incelemeyle yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/3516 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207882400)
+
 Tarafların müşterek çocuklarından velayetleri anneye verilen ... ve ... 2006 doğumlu olup idrak çağındadırlar. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3 ve 6. maddeleri, iç hukuka göre idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşlerinin alınması ve menfaatlerine açıkça aykırı düşmeyecek ise ifade ettikleri görüşlere önem verilmesini öngörmektedir. Türkiye her iki sözleşmeye katılmış ve “taraf’ olmuştur. Sözleşmeler iç hukukun parçası olmuştur. O halde, anılan sözleşmeler gereğince idrak çağındaki çocukların ebeveynlerinin hangisi yanında kalmak istekleri konusunda görüşlerine başvurulması, menfaatlerine açıkça aykırı düşmeyecek ise, ifade ettikleri görüşlere önem verilmesi, gerektiğinde yeniden psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlardan çocukların üstün yararının ebeveynlerinden hangisi yanında bulunmak olduğu yönünde rapor alınması ve tüm deliller birlikte değerlendirilerek sonucuna göre velayetin düzenlenmesi gerekirken, açıklanan hususlar gözetilmeden yazılı şekilde hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/3329 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207531200)
 
 Velayetleri anneye verilen tarafların müşterek çocukları 12.07.20015 doğumlu... ve 13.08.2006 doğumlu ... idrak çağındadırlar. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12. ve Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin 3. ve 6'ncı maddeleri, iç hukuka göre idrak çağında bulunan çocukların kendilerini ilgilendiren konularda görüşlerinin alınması ve menfaatlerine açıkça aykırı düşmeyecek ise ifade ettikleri görüşlere önem verilmesini öngörmektedir. Türkiye her iki sözleşmeye katılmış ve “taraf' olmuştur. Sözleşmeler iç hukukun parçası olmuştur.
 O halde, anılan sözleşmeler gereğince idrak çağındaki çocukların ebeveynlerinin hangisi yanında kalmak istekleri konusunda görüşlerine başvurulması, menfaatlerine açıkça aykırı düşmeyecek ise, ifade ettikleri görüşlere önem verilmesi ciddi ve haklı sebepler bulunmadıkça kardeşlerin birbirinden ayrılmalarının onların ruhsal ve sosyal gelişimlerini olumsuz yönde etkileyeceğinin gözetilmesi, gerektiğinde psikolog, pedogog ve sosyal çalışmacıdan oluşan uzmanlardan çocukların üstün yararının ebeveynlerinden hangisi yanında bulunmak olduğu yönünde rapor alınması ve tüm deliller birlikle değerlendirilerek sonucuna göre velayetin düzenlenmesi gerekirken, açıklanan hususlar gözetilmeden eksik inceleme ile hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/3207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207047100)
+
 Velayetin düzenlenmesi ve değiştirilmesi kamu düzenine ilişkin olup, bu davalarda re'sen (kendiliğinden) araştırma ilkesi geçerlidir (HMK m.385/2). Düzenlemede asıl olan çocuğun üstün yararı olduğuna göre, taraflardan delillerinin sorulması, göstermeleri halinde toplanması, göstermedikleri takdirde de re’sen delil toplanması, bu çerçevede çocuğun üstün yararının ebeveynlerinden hangisinin yanında bulunmak olduğu ve velayet sahibinin değiştirilmesini gerekli kılan bir durumun bulunup bulunmadığı hususunda 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5. maddesi uyarınca, psikolog, pedagog ve sosyal çalışmacıdan oluşan uzmanlara inceleme yaptırılarak, rapor alınması ve tüm deliller birlikte değerlendirilerek sonuca gidilmesi gerekir. Hal böyleyken, süresinde bildirilmediğinden bahisle davalının gösterdiği deliller toplanmadan ve uzmandan rapor alınmadan eksik inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2016/2789 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/161638800)
+
 Müşterek çocuklardan .... 2000, ....2002 doğumlu olup idrak çağındadırlar. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına ilişkin Avrupa Sözleşmesinin 3 ve 6. maddelerine göre idrak çağında bulunan çocukların dinlenilmesi ve onların ifade edeceği görüşlere de önem verilip gerekirse 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanununun 5.maddesi uyarınca uzman veya uzmanlardan rapor alınıp, deliller birlikte değerlendirilerek sonucu uyarınca karar verilmesi gerekirken, velayet konusunda eksik inceleme ile hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2016/2785 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/161640400)
 
 Müşterek çocuklardan .... 2001 doğumlu olup idrak çağındadır. Birleşmiş Milletler Çocuk Hakları Sözleşmesinin 12, Çocuk Haklarının Kullanılmasına ilişkin Avrupa Sözleşmesinin 3 ve 6. maddelerine göre idrak çağında bulunan çocukların dinlenilmesi ve onların ifade edeceği görüşlere de önem verilip gerekirse 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanununun 5. maddesi uyarınca uzman veya uzmanlardan rapor alınıp, deliller birlikte değerlendirilerek sonucu uyarınca karar verilmesi gerekirken velayet konusunda eksik inceleme ile hüküm kurulması doğru bulunmamıştır.

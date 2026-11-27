@@ -21,58 +21,84 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2011/5847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569946600)
+
 HUMK.nun 76.maddesi hükmüne göre; davanın esası olan maddi olayların ileri sürülmesi taraflara, bunların nitelendirilmesi ve uygulanacak kanun maddelerinin belirlenmesi hakime aittir. Hakim, tarafların yargılama oturumlarında ve dilekçelerinde kullandıkları sözcükler ve nitelendirme ile bağlı değildir. Mahkemece dilekçenin içeriğine göre davacının isteğini ve amacını belirleyip uyuşmazlığın ona göre çözüme kavuşturulması gerekir. Davacı vekili, dava dilekçesi aşamalarındaki beyanları ve temyiz dilekçesinde vekil edenine ait ziynet eşyalarının bozdurulması ile dava konusu evin alındığını bildirmiştir. Davacıya ait altınlar, TMK.220/2. bendi gereğince onun kişisel malı olup, bozdurulan altın parası ise, aynı maddenin 4.bendi uyarınca kişisel malların yerine geçen değer niteliğindedir. O halde dava; TMK.nun 227. maddesi uyarınca değer artış payından kaynaklanan alacak isteğine ilişkin olup mahkemece usulüne uygun olarak araştırma ve inceleme yapılmadığı gibi taraflar arasındaki uyuşmazlığa hatalı anlam yüklenerek farklı sonuçlara ulaşılmıştır. Davacı tarafça taşınmazın davalı eş tarafından elden çıkarıldığı iddia edilmiştir.
 TMK’nun 227/2 “...Böyle bir malın daha önceden elden çıkarılmış olması halinde, hakim diğer eşe ödenecek alacağı hakkaniyete uygun olarak belirler” hükmünü içermektedir. Mahkemece, taşınmaza ilişkin dosya içerisindeki elektrik aboneliği vb. belgelerden ile diğer delillerden taşınmazın tapuda kayıtlı olup olmadığının tespitine çalışılması, taşınmazın tapusuz olduğunun belirlenmesi halinde değer artış payı alacağının hesabı için öncelikle ziynet eşyalarının verildiği tarihteki değeri ile taşınmazın bu tarihteki sürüm (rayiç) değerinin ayrı ayrı saptanması, davacının katkı yaptığı tarihteki sürüm değeri ile katkıda bulunduğu miktarın (altın parası) toplamı gözetilerek davacı kadının yaptığı katkının sözü edilen toplam değer içindeki oranının bulunması, bu oranın tasfiye tarihindeki sürüm değeri ile çarpılarak çıkacak miktarın değer artış payı alacağı olarak karar altına alınması (TMK.nun 227).
 TMK.nun 232 ve 235/1. maddelerine göre taşınmazın tasfiye anındaki sürüm değeri, Yargıtay’ın yerleşmiş uygulamalarına göre tasfiye tarihi olarak eldeki davanın karar tarihine en yakın tarih olarak kabul edilmesi, değer artış payı hesaplanıp taşınmazın tasfiye anında belirlenecek değerinden düşürüldükten sonra kalan bakımından TMK.nun 231 ve 236/1. madde ve fıkrası uyarınca davacının katılma alacağının saptanması, taşınmazın tapusuz olduğunun belirlenmesi halinde dava dilekçesinde yemin deliline dayanılmış olduğundan davacı tarafa yemin teklif etme hakkının hatırlatılması, ondan sonra tüm deliller birlikte değerlendirilerek bir sonuca ulaşılması gerekirken yetersiz araştırma ve incelemeye dayalı olarak yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2011/3787 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/530174900)
+
 Diğer dava konusu 06 AJ 0400 plakalı Toyota Avensis marka araç ise edinilmiş mallara katılma rejiminin geçerli olduğu 18.5.2004 tarihinde satın alınmış olup mahkemece, bilirkişi raporu da dikkate alınarak dava konusu aracın alımında kullanılan kredinin mal rejiminin sona erdiği tarih sonrasına isabet eden kısmının davalının kişisel malı, önceye isabet eden kısmı ile peşin ödenen miktarın ise edinilmiş mal olduğu kabul edilerek edinilmiş mal olarak belirlenecek kısım üzerinde davacı kadının %16,21 oranında katılma alacağı hakkı olduğunun kabulünde herhangi bir isabetsizlik bulunmamaktadır. Ancak katılma alacağı hesabında dikkate alınması gereken değer tasfiye tarihi (karar tarihine en yakın tarih) itibarıyla belirlenecek sürüm değeri olup mahkemece bu şekilde belirlenen sürüm değeri 27.000 TL. dikkate alınarak, bu miktar ile %16,21 oranın çarpımı sonucu bulunacak miktara katılma alacağı olarak hükmedilmesi gerekirken bu oran ile aracın kasko değeri 23.300 TL ile çarpımı sonucu eksik şekilde katılma alacağına hükmedilmesi de doğru değildir.
 
 ## Yargıtay 8. HD 2011/3781 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/530195900)
 
 Yargıtay 2.Hukuk Dairesinin 2.6.2009 tarihli bozma ilamında kısaca “…davacının, bu taşınmazın edinilmesine geliri ile % 40 oranında katkıda bulunduğu kabul edilmiştir.Bu kabul, dosyadaki delillere de uygundur. O halde taşınmazın dava tarihindeki sürüm değeri ile belirlenen katkı payı oranının çarpılarak davacının alacağının hesaplanması gerekirken tasfiye tarihindeki değerin esas alınarak hesaplama yapılması doğru bulunmamıştır…” gerekçesi ile bozma sevk edilmiştir. Bozma ilamına uyulduktan sonra taraf yararına usuli kazanılmış hak doğar. Bu bakımdan uyulan bozma ilâmı çerçevesinde hüküm kurulması zorunlu hale gelir. Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, mahkemece usuli kazanılmış hak teşkil eden ve bozma kapsamında yer almayan % 40 katkı oranının hesaplamada dikkate alınarak bozma doğrultusunda alınan 5.6.2010 ve 18.7.2010 tarihli inşaat mühendisi bilirkişinin dava konusu taşınmazın dava tarihi itibarıyla belirlediği 50.000 TL. rayiç değerle çarpılmak suretiyle davacının katkı payı alacağının tespit edilmesi ve yazılı şekilde hüküm kurulmasında usul ve yasaya aykırı bir yön bulunmamaktadır.
 Davacı tarafından dosyaya sunulan emsaller rayiç değeri yansıtmaktan uzak olup dosyaya ibraz edilen ve özel mütalaa içeren 1.11.2010 tarihli raporun mahkemece, resen hükme esas alınma imkanı olmadığı gibi, raporda hesaplamada dikkate alınan kriterler de yasanın istediği taşınmazın sürüm değerinin belirlenmesinde kullanılmayan kriterler olduğundan mahkemece itibar edilmemiş olması doğru olmuştur.
 
 ## Yargıtay 8. HD 2011/3080 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/531290300)
+
 Ancak kooperatif üyeliği ile ilgili 1.1.2002 tarihinden sonra yapıldığı anlaşılan ödemeler bakımından davacının bir katkıda bulunmasına gerek olmaksızın bulunacak artık değer üzerinde yasal yarı oranda katılma alacağı hakkı bulunmaktadır. Bu katılma alacağı belirlenirken mahkemece bu dönemde yapılan ödeme toplamı artık değer kabul edilmiş ve yarısı bakımından davacı lehine hüküm kurulmuştur. Katılma alacağının bu şekilde belirlenmiş olması doğru değildir.Davacının katılma alacağı belirlenirken mahkemece yapılacak iş, 1.1.2002 sonrası ödemelerin toplam ödeme karşısındaki oranının bulunması, villanın tamamlanmamış olarak teslimi de gözetilerek o hali ile tasfiye tarihindeki (karar tarihine en yakın değer) değeri ile bulunan bu oranı çarparak belirlenecek değerin artık değer olduğunu gözetmek, bu artık değer üzerinde davacının yarı oranda katılma alacağı olduğunu dikkate alarak hüküm kurmak olmalıdır.
 Mahkemece, bu şekilde tespit yapılması ve tespitler yapılırken ihtiyaç duyulması halinde konusunun uzmanı inşaat mühendisi, emlakçı ve hukukçu bilirkişilerin bilgilerine başvurulması, düzenlenecek raporlardan hüküm kurulurken yararlanılması gerekirken eksik araştırma ve incelemeye dayanarak yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2011/2770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/531283600)
+
 Diğer yönden; uzman bilirkişi; dava konusu aracın edinme tarihindeki değerinin 15500 TL, sürüm değerinin ise 12500 TL olduğunu bildirmiştir. Görüleceği gibi katkının yapıldığı tarihten sürüm değerinin belirlendiği tarihe kadar araçta değer kaybı meydana gelmiştir. TMK.227/1. maddesinde; eşlerden biri diğerine ait bir malın edinilmesine, iyileştirilmesine veya korunmasına hiç ya da uygun bir karşılık almaksızın katkıda bulunmuşsa, tasfiye sırasında bu malda ortaya çıkan değer artışı için katkısı oranında alacak hakkına sahip olacağı, alacağın o malın tasfiye sırasındaki değerine göre hesaplanacağı, bir değer kaybı söz konusu olduğunda katkının başlangıçtaki değerinin esas alınacağı bildirilmiştir. Mahkemece davacının değer artış payı belirlenirken katkı yapıldığı tarihteki araç değeri esas alınması gerekirken belirtilen madde kapsamı gözönünde tutulmadan sürüm değerinin esas alınması usul ve yasaya aykırıdır.
 
 ## Yargıtay 8. HD 2011/2679 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/530644600)
 
 Daha sonra ikinci bentte belirlenen 01.01.2002 tarihinden önceki katkı oranı, dava konusu taşınmazın tasfiye tarihi (karara en yakın tarih) itibarıyle belirlenecek sürüm değeri karşısındaki oranına dönüştürülerek, bulunacak miktarın her bir eşin aktifine kişisel malı olarak eklenmesi, üçüncü bentte belirlenen 01.01.2002 ile 14.07.2004 tarihleri arasındaki harcamaların ve inşaat yapım oranının yine taşınmazın tasfiye tarihindeki sürüm değeri karşısındaki oranına dönüştürülerek TMK.nun 227,231 ve 236. maddeleri uyarınca tasfiyeye konu edilmesi döndüncü bentte belirlenen boşanma davasından sonra tapu mali olan davalı tarafından yürütülen inşaat nedeniyle yapılan harcamaların mal rejiminin tasfiyesi nedeniyle alacak davasına konu edilemeyeceğinin gözönünde bulundurulması gerekir.
 
 ## Yargıtay 8. HD 2011/2186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/532770400)
+
 İkinci ve üçüncü bentlerde belirlenen 1.1.2002 tarihinden önceki katkı oranı, dava konusu taşınmazın tasfiye tarihi (karara en yakın tarih) itibarıyla belirlenecek sürüm değeri karşısındaki oranına dönüştürülerek, bulunacak miktarın her bir eşin aktifine kişisel malı olarak eklenmesi, üçüncü bentte belirlenen 1.1.2002 ile 26.12.2003 tarihleri arasındaki harcamaların ve inşaat yapım oranının yine taşınmazın tasfiye tarihindeki sürüm değeri karşısındaki oranına dönüştürülerek TMK.nun 227, 231 ve 236. maddeleri uyarınca tasfiyeye konu edilmesi, bunlardan ayrı boşanma davasından sonra tapu maliki olan davalı tarafından yürütülen inşaat nedeniyle yapılan harcamaların mal rejiminin tasfiyesi nedeniyle alacak davasına konu edilemeyeceğinin gözönünde bulundurulması gerekir.
 
 ## Yargıtay 8. HD 2011/1091 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/511655100)
 
 Dava konusu taşınmaza gelince, dava evrakı ile yargılama tutanakları münderecatına, mevcut deliller mahkemece takdir edilerek karar verildiğine; tarafların kooperatife üye olunduğu 1999 yılından ........2002 tarihine taşınmaza ilişkin olarak yapılan ödemeler sırasında çalıştıkları, düzenli gelir elde ettikleri ve davacının bu dönemde elde ettiği gelirin davalının gelirine oranla daha fazla olduğu belirlendiğine, düzenli olarak çalışan ve davalıya nazaran daha fazla gelir elde eden ve aynı evde yaşayan davacının ........2002 tarihinden önce yapılan aidat ödemelerine hiç bir katkısının olmadığını ileri sürülemeyeceğine ve katkısının olmadığı düşünülemeyeceğine, dava konusu taşınmazın edinilmesi için kooperatife yapılan toplam 64538 TL'lik ödemenin 1065 TL'lik kısmının üye olunurken verilen ve davalının babası tarafından karşılanan para olduğu anlaşıldığına, bu durumda hesaplamalarda dikkate alınmamasının doğru bir uygulama olduğuna, kooperatife üye olunurken verilen 1065 TL dışında bir paranın taraflara ait kişisel mal olduğu ileri sürülüp kanıtlanmadığına, tarafların 1999 yılından ........2002 tarihine kadar geçen dönemde yapılan toplam 8550 TL aidat ödemeleri sırasında çalışmaları
 karşılığında elde ettikleri gelirler toplamı ile davacı kocanın TMK.nun 152. maddesinden kaynaklanan iaşe yükümlülüğü dikkate alınarak, ........2002 tarihinden önceki dönem için ayrı, ........2002 tarihinden sonraki dönem için yatırılan toplam 8400 TL dikkate alınarak, yukarıda belirtilen ilkeler ve olgular doğrultusunda ayrı ve ........2002 tarihinden önceki dönem için var olan katkı payı alacağı için taşınmazın dava tarihindeki değeri, ........2002 tarihinden sonraki dönem için belirlenecek katılma alacağının, taşınmazın tasfiye tarihindeki değerinin dikkate alınması sonucunda düzenlenen ve hükme esas alınan ........2010 günlü bilirkişi raporu ile yapılan değerlendirmeler dosyaya, oluşa ve daire uygulamalarına uygun bulunduğuna, fedakarlığın denkleştirilmesi ve hakkaniyet ilkesi taraflar arasında görülen bu tür davalarda uygulanan ilkeler olduğuna ve takdirde bir isabetsizlik bulunmadığı anlaşıldığına göre; bu yönlere ilişen davacı vekilinin tüm, davalı vekilinin ise aşağıda belirtilen husus dışında kalan temyiz itirazları yerinde bulunmadığından REDDİNE,…
 
 ## Yargıtay 8. HD 2010/2557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539657200)
+
 TMK.nun 219.maddesi 1.fıkrası hükmüne göre her eşin bu mal rejiminin devamı süresince karşılığını vererek elde ettiği malvarlığı değerleri edinilmiş maldır. TMK.nun 222/1. maddesine göre belirli bir malın eşlerden birine ait olduğunu iddia eden kimse, iddiasını kanıtlamakla yükümlüdür. Somut olayda; dava konusu taşınmazın davalının kişisel malı olduğu kanıtlanamamıştır. Her ne kadar; davalı evlenmeden önce çalışması karşılığı birikimi ve ailesinin katkısı ile taşınmazın satın alındığını ileri sürmüşse de, bu yön ispatlanamamıştır. TMK.nun 222.maddesi son fıkrası hükmüne göre bir eşin bütün malları aksi kanıtlanıncaya kadar edinilmiş mal kabul edilir.
 Buna göre, dava konusu taşınmazın sürüm değerinin belirlenerek hesaplanacak artık değerin yarısı karşılığı bedelin katılma alacağı olarak belirlenmesi ve taleple bağlı kalınarak hüküm kurulması gerekirken, hatalı niteleme ve değerlendirme sonucu davacı tarafından davalının banka hesabına gönderilen miktar ile taşınmaz üzerine inşa edilen binaya katkısı karşılığı bedelin toplamının taşınmazın alım tarihindeki değerine oranlanarak bulunan oranın taraflarca kabul edilen sürüm değeri ile çarpımı sonucu bulunan miktarın toplam alacak miktarı olarak kabulü doğru değildir.
 
 ## Yargıtay 8. HD 2010/1649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520208600)
+
 Buna göre; mal rejiminin sona erdiği tarih itibarıyla inşaat seviyesi % 45 olan dava konusu taşınmazın TMK.nun 227/2. maddesi uyarınca hakkaniyete uygun sürüm değerinin hukukçu, mali müşavir ve mülk bilirkişilerine tespit ettirilmesi, az yukarıda belirtilen davalının babasının yaptığı katkı oranı ile mal rejiminin sona erdiği tarih itibariyle kalan kredi borç miktarı gözönünde bulundurularak; taşınmaz yönünden davacının katılma alacağı miktarının belirlenmesi gerekirken dosya içeriğine uygun düşmeyen hesaplama ile yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2010/611 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519890100)
 
 Kabule göre de; katılma alacağı hesabında tasfiye tarihi mal rejiminin sona erdiği boşanma davasının açıldığı tarih olmayıp tasfiyeye ilişkin karar tarihidir.( TMK. md 227,235) Mahkemece taşınmazın karar tarihine en yakın sürüm değeri dikkate alınarak hüküm kurulması gerekirken; yazılı şekilde boşanma davasının açıldığı tarihteki değerin dikkate alınması doğru değil ise de temyiz edenin sıfatına göre bu husus bozma nedeni yapılmamıştır.
 
 ## Yargıtay 2. HD 2008/15578 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80809100)
+
 Katılma alacağı hesabında tasfiye tarihi mal rejiminin sona erdiği tarih olmayıp tasfiyeye ilişkin karar tarihidir.(TMK. 232, 235/1. m.) Mahkemece taşınmazın karar tarihine en yakın sürüm değeri dikkate alınarak bir hüküm kurulması gerekirken yazılı şekilde dava tarihi değerinin esas alınması usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2007/1577 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77561200)
 
 Edinilmiş mal, her eşin bu mal rejiminin devamı süresince karşılığını vererek elde ettiği mal varlığı değerleridir. ( TMK. 219/1) Mal Rejiminin başlangıcında eşlerden birine ait bulunan veya bir eşin sonradan miras yoluyla ya da herhangi bir şekilde karşılıksız kazanma yoluyla elde ettiği mal varlığı değerleri o eşin kanuna göre kişisel malıdır. ( TMK. mad. 220/2 ) Değer Artış Payı hesabında "tasfiye tarihi" değerleri esas alınır. (TMK. mad. 227 ) Tasfiye tarihi ise boşanma ile mal rejiminin sona erdiği tarih olmayıp tasfiyeye yönelik davanın karar tarihidir.

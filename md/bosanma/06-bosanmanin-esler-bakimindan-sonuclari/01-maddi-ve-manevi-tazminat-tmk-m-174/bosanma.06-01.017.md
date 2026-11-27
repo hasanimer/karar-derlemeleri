@@ -335,32 +335,48 @@ Yukarıda 2. bentte açıklandığı üzere boşanmaya sebebiyet veren vakıalar
 
 ## Yargıtay 2. HD 2018/6753 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422263200)
+
 Yukarıda 1.bentte açıklandığı üzere boşanmaya sebebiyet veren vakıalarda davalı kadın tam kusurludur. Gerçekleşen kusurlu davranışlar erkeğin kişilik haklarına saldırı niteliğini taşımaktadır. Erkek yararına TMK m. 174/2 koşulları oluşmuştur. O halde tarafların ekonomik ve sosyal durumları gerçekleşen kusurun ağırlığı ve hakkaniyet ilkesi gözetilerek erkek yararına manevi tazminat takdir edilmek üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2018/6748 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422245500)
 
 Yukarıda 1. bentte açıklandığı üzere boşanmaya neden olaylarda davalı erkek ağır kusurlu olup, gerçekleşen kusurlu davranışlar aynı zamanda kadının kişilik haklarına saldırı teşkil eder niteliktedir. Kadın boşanma ile eşinin maddi desteğinden yoksun kalacaktır. Türk Medeni Kanununun 174/1-2. maddesi koşulları kadın yararına oluşmuştur. Bu duruma göre davacı kadın yararına uygun miktarda maddi ve manevi tazminata hükmedilmesi gerekirken, hatalı kusur belirlemesine bağlı olarak kadının maddi ve manevi tazminat taleplerinin reddi doğru olmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/6664 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423114200)
+
 Yukarıda 1. bentte açıklandığı üzere boşanmaya sebebiyet veren olaylarda taraflar eşit kusurlu olup, kadın yararına TMK. 174/1-2 madde koşulları oluşmamıştır. Bu husus gözetilmeden kadın yararına maddi ve manevi tazminata hükmedilmesi doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/6545 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422017000)
 
 Tarafların gerçekleşen sosyal ve ekonomik durumlarına, nafakanın niteliğine, günün ekonomik koşullarına göre davalı-karşı davacı kadın yararına takdir edilen manevi tazminat çoktur. Mahkemece Türk Medeni Kanununun 4. maddesindeki hakkaniyet ilkesi de dikkate alınarak daha uygun miktarda nafakaya hükmedilmesi gerekir. Bu yön gözetilmeden yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2018/6501 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421725800)
+
 Yukarıda 2. bentte açıklandığı üzere boşanmaya neden olan olaylarda davalı-davacı erkek ağır kusurlu olup, gerçekleşen kusurlu davranışlar aynı zamanda kadının kişilik haklarına saldırı teşkil eder niteliktedir. Boşanma sonucu kadın en azından eşinin maddi desteğinden yoksun kalmıştır. Türk Medeni Kanununun 174/1-2. maddesi koşulları kadın yararına oluşmuştur. Bu duruma göre tarafların ekonomik ve sosyal durumları, kusurun ağırlığı ve hakkaniyet kuralları gözetilerek davacı-davalı kadın yararına uygun miktarda maddi ve manevi tazminata hükmedilmesi gerekirken, hatalı kusur belirlemesine bağlı olarak kadının maddi ve manevi tazminat taleplerinin reddi doğru olmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/6475 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421221600)
 
 Toplanan delillerden, boşanmaya sebebiyet veren ve davalı-karşı davacıdan kaynaklanan kusurlu davranışlar davacı-karşı davalının kişilik haklarına saldırı teşkil eder nitelikte değildir. Türk Medeni Kanununun 174/2. maddesi koşulları davacı-karşı davalı kadın yararına oluşmamıştır. O halde, davacı-karşı davalı kadının manevi tazminat isteminin reddi gerekirken, yazılı şekilde kabulüne karar verilmesi usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/6326 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/420862400)
+
 Tarafların tespit edilen ekonomik ve sosyal durumları, boşanmaya yol açan olaylardaki kusur dereceleri, paranın alım gücü, mevcut ve beklenen menfaat dikkate alındığında davalı-karşı davacı erkek yararına takdir edilen maddi tazminat çoktur. Türk Medeni Kanununun 4. maddesindeki hakkaniyet ilkesi ile Türk Borçlar Kanununun 50 ve 51. maddesi hükmü dikkate alınarak daha uygun miktarda maddi (TMK m. 174/1) tazminat takdiri gerekir. Bu yön gözetilmeden hüküm tesisi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2018/6304 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/420784200)
 
 Anayasanın 141/3. maddesi "Bütün mahkemelerin her türlü kararları gerekçeli olarak yazılır" buyurucu hükmünü içermektedir. Hukuk Muhakemeleri Kanununun 297. maddesinde de, kararın kapsayacağı hususlar ayrıntılı biçimde belirtilmiş olup, bu maddenin 1. fıkrasının 3. bendine göre; mahkeme kararlarında iki tarafın iddia ve savunmalarının özeti, anlaştıkları ve anlaşamadıkları hususlar, çekişmeli konular hakkında toplanan deliller, delillerin tartışılması, ret ve üstün tutulma nedenleri, sabit görülen vakıalarla bunlardan çıkarılan sonuç ve hukuki sebebin açıkça gösterilmesi zorunludur. Mahkemece, gerekçede davalı erkek tam kusurlu bulunarak, davacı kadın yararına maddi ve manevi tazminat ile vekalet ücretine hükmedilmesine karar verildiğinden bahsedilmiş, gerekçeli kararın hüküm kısmında ise davalı erkek lehine maddi- manevi tazminat ödenmesine ve vekalet ücretinin davacı kadından alınıp davalıya verilmesine karar verilerek çelişki yaratılmıştır. Hal böyle olunca, hükmün gerekçesi usul ve yasaya uygun olacak şekilde düzenlenmediğinden, hükmün münhasıran bu sebeple bozulması gerekmiştir.

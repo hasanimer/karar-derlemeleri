@@ -25,33 +25,49 @@ Edinilmiş mallara katılma rejiminin sona ermesiyle birlikte eşler veya miras�
 
 ## Yargıtay HGK 2025/325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157252000)
+
 Katkı payı alacağına ilişkin olarak 743 sayılı Kanun'un yürürlükte olduğu dönemde belirlenip uygulanan ilke ve esasların benzeri, 4721 sayılı Kanun'un 227/1. maddesinde düzenlenen "değer artış payı" alacağı ile kanun hükmü hâline getirilmiştir. Ancak, katkı payı alacağı ile değer artış payı alacağı davaları arasında önemli farklılıkların bulunduğu da göz ardı edilmemelidir. Burada dikkat edilmesi gereken hususlar özellikle, katkının; mal varlığının edinilmesine, iyileştirilmesine veya korunmasına yönelik olması, para ya da para ile ölçülebilen maddi bir değerle yapılması, hayatın olağan akışına göre eşlerin birbirlerine günlük hayatta yapmaları gereken basit katkı ölçüsünü aşan esaslı nitelikte olması, resmî evlilik akdi ile bir araya gelmiş eşler arasında mal rejiminin devamı süresince gerçekleşmesi ve uygun karşılığı alınmaksızın yapılması gerekir.
 
 ## Yargıtay HGK 2023/1238 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985737400)
 
 Katkı payı alacağına ilişkin olarak 743 sayılı Kanun'un yürürlükte olduğu dönemde belirlenip uygulanan ilke ve esasların benzeri, 4721 sayılı Kanun'un 227/1 inci maddesinde düzenlenen "değer artış payı" alacağı ile kanun hükmü hâline getirilmiştir. Ancak, katkı payı alacağı ile değer artış payı alacağı davaları arasında önemli farklılıkların bulunduğu da göz ardı edilmemelidir. Burada dikkat edilmesi gereken hususlar özellikle, katkının; mal varlığının edinilmesine, iyileştirilmesine veya korunmasına yönelik olması, para ya da para ile ölçülebilen maddi bir değerle yapılması, hayatın olağan akışına göre eşlerin birbirlerine günlük hayatta yapmaları gereken basit katkı ölçüsünü aşan esaslı nitelikte olması, resmî evlilik akdi ile bir araya gelmiş eşler arasında mal rejiminin devamı süresince gerçekleşmesi ve uygun karşılığı alınmaksızın yapılması gerekmektedir.
 
 ## Yargıtay HGK 2022/123 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759612800)
+
 Katkı payı alacağı davası 743 sayılı Türk Kanunu Medenisi gereği mal ayrılığı rejiminin geçerli olduğu dönemde evlilik birliği devam ederken bir eşe ait mal varlığının edinilmesine, iyileştirilmesine veya korunmasına diğer eşin para ya da para ile ölçülebilen maddi veya hizmet değeriyle katkısının karşılığı olmak üzere hesaplanan mal rejiminin tasfiyesinden kaynaklı alacak istemine ilişkindir. Kural olarak katkıda bulunan eş, diğer eşten katkısının karşılığı olarak sadece alacak isteğinde bulunabilir, ayın talep edemez. Katkı payı alacağına ilişkin olarak yürürlükte olduğu dönemde belirlenip uygulanan katkı payı alacağının açıklanan ilke ve esasların benzeri ise TMK’nın 227/1. maddesinde düzenlenen değer artış payı alacağında kanun hükmü hâline getirilmiştir. Yeri gelmişken belirtmek gerekir ki; değer artış payı alacağının konusu “katkı” sadece diğer eşin mal varlığına yapılan katkıdan ibarettir. Dolayısıyla katkı sebebiyle alacak istemi, kendisine katkı verilen eşe karşı ileri sürülebilir.
 
 ## Yargıtay HGK 2022/79 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/755796200)
 
 Edinilmiş mallara katılma rejiminin sona ermesiyle birlikte eşler veya mirasçılar tarafından açılabilecek davalar; değer artış payı alacağı (TMK m. 227) ve artık değere katılma alacağı (TMK m. 231) davalarıdır. Bu iki alacak türünün özellikleri, koşulları ve hesaplama yöntemleri arasında farklılıklar bulunmakla birlikte, tasfiye davalarına özgü usul ve esasa yönelik genel ilkelerin tamamı her iki dava türü için de geçerlidir.
 
 ## Yargıtay HGK 2021/1617 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736999000)
+
 Katkı payı alacağına ilişkin olarak yürürlükte olduğu dönemde belirlenip uygulanan katkı payı alacağının açıklanan ilke ve esasların benzeri ise TMK’nın 227/1. maddesinde düzenlenen değer artış payı alacağında kanun hükmü hâline getirilmiştir. Ancak, katkı payı alacağı ile değer artış payı alacağı davaları arasında önemli farklılıkların bulunduğu da göz ardı edilmemelidir. Burada dikkat edilmesi gereken hususlar özellikle, katkının; malvarlığının edinilmesine, iyileştirilmesine veya korunmasına yönelik olması, para ya da para ile ölçülebilen maddi bir değerle yapılması, hayatın olağan akışına göre eşlerin birbirlerine günlük hayatta yapmaları gereken basit katkı ölçüsünü aşan esaslı nitelikte olması, resmî evlilik akdi ile bir araya gelmiş eşler arasında mal rejiminin devamı süresince gerçekleşmesi ve uygun karşılığı alınmaksızın yapılması gerekmektedir.
 
 ## Yargıtay HGK 2021/1492 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/734268000)
 
 Katkı payı alacağına ilişkin olarak MK’nın yürürlükte olduğu dönemde belirlenip uygulanan ilke ve esasların benzeri, TMK’nın 227/1. maddesinde düzenlenen değer artış payı alacağında kanun hükmü hâline getirilmiştir. Ancak, katkı payı alacağı ile değer artış payı alacağı davaları arasında önemli farklılıkların bulunduğu da göz ardı edilmemelidir. Burada dikkat edilmesi gereken hususlar özellikle, katkının; mal varlığının edinilmesine, iyileştirilmesine veya korunmasına yönelik olması, para ya da para ile ölçülebilen maddi bir değerle yapılması, hayatın olağan akışına göre eşlerin birbirlerine günlük hayatta yapmaları gereken basit katkı ölçüsünü aşan esaslı nitelikte olması, resmî evlilik akdi ile bir araya gelmiş eşler arasında mal rejiminin devamı süresince gerçekleşmesi ve uygun karşılığı alınmaksızın yapılması gerekmektedir.
 
 ## Yargıtay HGK 2018/251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402478400)
+
 Evlilik birliği herhangi bir nedenle tasfiye aşamasına girdiğinde eşlerin yaptıkları katkıları talep edip edemeyecekleri sorusunun cevabı ise değer artış payı kavramı ile çözümlenmiştir. Değer artış payı, bir eşin evlilik birliği devam ederken diğer eşin gerek mal edinmesine, gerek mevcut malın iyileştirilmesine veya malının korunmasına katkıda bulunduğu oranda sahip olduğu alacak hakkıdır (Kılıçoğlu, A.: Katkı – Katılma Alacağı, Ankara 2011, s.9).
 
 ## Yargıtay HGK 2010/504 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76946000)
 
 Kamu düzenine ilişkin olmayan ve dolayısı ile hakimin kendiliğinden (re’sen) göz önünde bulundurması gerekmeyen temyize konu davada, mahkemece davanın yapılan işlemin “bağışlama olduğu” kabul edilerek tapu iptali olarak ele alınıp, istemin “reddine” dair verilen kararın, Özel Dairece yine genel olarak istemin “değer artış payı alacağı” olarak nitelendirilmesi ve kararın bozulmasını takiben, davalı vekili 10.09.2009 tarihli oturumda bozma ilamına uyulmasını istemiştir. Bir başka deyişle, davalı da uyuşmazlığın hukuki nitelemesinin değer artış payı olduğu hususunu kabul etmiştir.
 
@@ -71,29 +87,43 @@ Değer artış payı alacağı; eşlerden birinin diğerine ait malın edinilmes
 
 ## Yargıtay 2. HD 2025/12020 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189903900)
+
 Diğer yandan, kadının, adına kayıtlı kooperatif hissesinin satışından elde edilen paranın tasfiye konusu taşınmaz için harcadığını iddia ettiği; ancak kooperatif hissesinin satışından elde edilen paranın sadece işbu taşınmaz yönünden yapılan hesaplamada dikkate alınması gerekirken, hükme esas alınan bilirkişi raporunda tasfiye konusu tüm malların toplam edinilmiş mal değerine oranı üzerinden değer artış payı alacağının hesaplandığı anlaşılmaktadır. O halde, Mahkemece, kadın adına kayıtlı kooperatif hissesinin satışından elde edilen paranın öncelikle, işbu taşınmazın edilmesine mi iyileştirilmesine mi kullanıldığı belirlendikten sonra kooperatif hissesinin satışından elde edilen para ile yapılan katkı karşılığında değer artış payı alacağının belirlenmesi gerekirken yazılı şekilde karar verilmesi hatalı olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/11495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189332600)
 
 Değer artış payı alacağı; eşlerden birinin diğerine ait malın edinilmesine, iyileştirilmesine veya korunmasına hiç ya da uygun karşılık almaksızın esaslı katkıda bulunması durumunda, tasfiye sırasında bu malda meydana gelebilecek değer artışı için katkısı oranında sahip olduğu alacak hakkıdır (TMK md. 227). Denkleştirme (TMK md. 230) hariç, tasfiyeye konu mal varlığında katkı tarihine göre değer kaybı söz konusu ise, katkının başlangıçtaki değeri esas alınır (TMK md. 227/1). Böyle bir malın daha önceden elden çıkarılmış olması halinde hakim, diğer eşe ödenecek alacağı hakkaniyete uygun olarak belirler (TMK md. 227/2). Değer artış payı alacağı talep edebilmek için, parasal ya da para ile ölçülebilen maddî veya hizmet değeriyle katkıda bulunulmalıdır.
 
 ## Yargıtay 2. HD 2025/9630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184960500)
+
 Somut olayda, Mahkemece, 111 66... parsel sayılı taşınmaz yönünden yazılı şekilde karar verilmiş ise de, karar hatalı olmuştur. Şöyle ki, öncelikle belirtmek gerekir ki, TMK'nin 227. maddesine göre, değer artış payı alacağı talep edebilmesi için, bir eşin diğer eşe ait malın edinilmesine, iyileştirilmesine veya korunmasına yönelik katkısının edinilmiş malla ve/veya kişisel malla karşılanmış olması mümkündür. Diğer yandan, davacının işbu taşınmaz yönünden talebini 10.07.2020 tarihli dilekçe ile ıslah ettiği, ıslah dilekçesine göre de talebin 'taşınmaza yapılan tadilat ve 3 katlı hale getirilmesi nedeniyle evlilik birliği içinde yapılan iyileştirmeler' nedeniyle değer artış payı alacağı niteliğinde olduğu ve değer artış payının kişisel mal ile değil, edinilmiş malla karşılandığı iddia edildiği halde, İlk Derece Mahkemesi ve Bölge Adliye Mahkemesince hatalı olarak değer artış payına yönelik katkının kişisel mal olan ziynetler karşılandığına yönelik olduğu kabul edilerek ve katkının ispatlanamadığı gerekçesiyle davanın reddine karar verildiği anlaşılmaktadır.
 
 ## Yargıtay 2. HD 2025/8846 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201774700)
 
 Tasfiyeye konu mal elden çıkarılmışsa, değer artış payı alacağının hesaplanmasında Mahkemece hakkaniyete uygun olarak değer tespiti yaptırılmalıdır (TMK md. 227/2). Artık değere katılma alacağı isteği söz konusu olduğunda ise, davalı eş TMK'nin 229. maddesinde belirtilen amaç doğrultusunda malı elden çıkarmışsa, başkasına devredilen malvarlığı mevcutmuş gibi tasfiye hesabına dahil edilir ve devir tarihindeki durumu gözetilerek değerlendirme yapılır (TMK md. 235/2).
 
 ## Yargıtay 2. HD 2025/7722 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178192500)
+
 Son olarak, kural olarak mal rejimi sona erdiğinde eşlerin ya da mirasçılarının tasfiye davası sonucunda katkı payı, değer artış payı ve artık değere katılma alacağı hakları doğar. Eşlerden birine ait mal varlığında, diğer tarafın mülkiyet veya başka ayni hak talebi söz konusu olamaz. Mal rejiminin tasfiyesi isteğinde bulunan eşe ya da mirasçılarına tanınan hak ayni olmayıp şahsi alacak hakkıdır (TMK md. 227/1, 231, 236/1, YİBGK'nun 07.10.1953 tarih ve 1953/8 Es., 1953/7 K. sayılı kararı).
 
 ## Yargıtay 2. HD 2025/7721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180146300)
+
 4721 sayılı Türk Medeni Kanunu'nun (TMK) 227. maddesine göre, değer artış payı alacağı; eşlerden birinin diğerine ait malın edinilmesine, iyileştirilmesine veya korunmasına hiç ya da uygun karşılık almaksızın esaslı katkıda bulunması durumunda, tasfiye sırasında bu malda meydana gelebilecek değer artışı için katkısı oranında sahip olduğu alacak hakkıdır. Denkleştirme (TMK md. 230) hariç, tasfiyeye konu mal varlığında katkı tarihine göre değer kaybı söz konusu ise, katkının başlangıçtaki değeri esas alınır (TMK md. 227/1). Böyle bir malın daha önceden elden çıkarılmış olması halinde hakim, diğer eşe ödenecek alacağı hakkaniyete uygun olarak belirler (TMK md. 227/2). Değer artış payı alacağı talep edebilmek için, parasal ya da para ile ölçülebilen maddî veya hizmet değeriyle katkıda bulunulmalıdır.
 
 ## Yargıtay 2. HD 2025/409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1130405600)
 
 Yukarıda açıklanan yasal düzenleme ve ilkeler uyarınca yapılan incelemede; İlk Derece Mahkemesince, davanın 6100 sayılı Kanun'un 119 uncu maddesinin birinci fıkrasının (ğ) bendi uyarınca davanın açılmamış sayılmasına karar verilmiş ise de, karar hatalı olmuştur. Şöyle ki, davacı-davalı kadının dava dilekçesinin talep sonucunun ''...
 Yargılama sırasında yapılacak araştırma ve incelemeler sonucunda ortaya çıkacak gerçek alacak miktarını talep etme hakkımız saklı kalmak kaydıyla şimdilik harca esas değer olarak göstermiş bulunduğumuz 1.000,00 (bin) TL alacağın (katkı payı alacağımız için dava tarihinden, değer artış payı ve katılma alacağımız için karar tarihinden itibaren hesaplanacak faizi ile birlikte) davalıdan alınarak müvekkile verilmesine, ...'' şeklinde olduğu, açıklama bölümünde de tasfiye konusu malların davalının akrabaları adına alınan taşınmazlar, sigorta numaraları yazılı olduğu iki hayat sigortasından davalının aldığı paralar olduğunun açıklandığı, İlk Derece Mahkemesince 15.12.2016 tarihli (6) nolu celsede davacıya ''... talep sonuçlarının soyut nitelikte olduğu, hangi malvarlığı değerleri için hangi miktarda hangi alacak talep edildiğinin açıklanmadığı, bu nedenle asıl davacı ve karşı davacıya dava konusu mal varlıklarının hangileri olduğunun ayrı ayrı bildirilmesi, her bir mal varlığı hakkında ayrı ayrı ne kadar miktarda katkı payı alacağı, katılma payı alacağı ve değer artış payı alacağı talep edildiğinin Mahkememize verilecek dilekçe ile bildirilmesi için 1 haftalık kesin süre verilmesine,
@@ -101,13 +131,19 @@ verilen kesin süre içerisinde asıl davacı ve karşı vekili tarafından tale
 
 ## Yargıtay 2. HD 2024/10572 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120968300)
+
 Ayrıca, somut olayda, tasfiye konusu taşınmazın tasfiyeye esas alınacak değerleri belirlenirken, yukarıda izah edilen ilkeye aykırı şekilde, taşınmazın karar tarihine en yakın tarihteki değeri ve davacı lehine tespit edilen değer artış payı ve katılma alacağı belirlenmeden karar verilmesi doğru olmamıştır. O halde, Mahkemece, tasfiye konusu taşınmazın tasfiye (önceki karar bozulmakla değer güncelliğini yitirdiğinden bozma sonrası yeni karar tarihine en yakın tarihteki) tarihi itibariyle sürüm (rayiç) değerleri belirlendikten sonra, davacının değer artış payı ve katılma alacağı hesaplanarak talep miktarı ve oluşan usuli kazanılmış haklar da gözetilerek denetlenebilir bir karar verilmesi gerekirken, yazılı şekilde karar verilmesi hatalı olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2024/8907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117630200)
+
 4 Davacı erkeğin faizin başlangıç tarihi yönelik temyiz itirazlarının incelemesine gelince; somut olayda, Mahkemenin 08.07.2021 tarihli ikinci kararında katılma alacağına karar tarihinden itibaren faiz işletilmesine karar verildiği, işbu kararın sadece reddedilen değer artış payı alacağı yönünden temyiz edildiği ve sadece değer artış payı alacağı yönünden bozulduğu, bozma kararı kapsamı dışında kalması yolu ile de katılma alacağının miktarı ve faiz başlangıç tarihi yönünden davacı lehine usuli kazanılmış hak oluştuğu anlaşılmaktadır. O halde, Mahkemece, katılma alacağı miktarı yönünden oluşan usuli kazanılmış hak gözetilmesine rağmen, faiz başlangıç tarihi yönünden oluşan usuli kazanılmış hak göz ardı edilerek karar verilmesi hatalı olmuş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2024/6794 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112897000)
 
 Bu sözleşmenin yapıldığı tarihten itibaren, taraflar arasında uygulanacak mal rejiminin mal ayrılığı rejimine dönüştüğü taraflarca kabul edilmiştir. ..." şeklindeki kısmı yönünden, eşlerin gerek evlenmeden önce gerek evlilikten sonra karşılıklı anlaşarak her zaman mal rejimi sözleşmesi yapabilir ve tabi oldukları mal rejimini mal ayrılığı olarak belirleyebilecekleri, sözleşmenin anılan maddesinin tarafların ayırt etme gücünün bulunması karşısında geçerli olduğu; sözleşmenin "...Tarafların Türk Medeni Kanununun yürürlüğe girmesinden sonra edinilmiş mallar hakkında,edinilmiş mallara katılım rejimi kaynaklı haklarının tasarrufu ise şu şekilde kararlaştırılmış:...'ın sahip olduğu menkuller ile adına tapuda kayıtlı olan gayrımenkuller üzerinde ...'ın yasal mal rejimi gereği sahip olduğu 1/2 hakkının ... lehine devir,temlik ve tescili;tapuda ... adına kayıtlı olanlar ile menkul mallar üzerinde ...'ın sahip olduğu 1/2 olan hakkında ... lehine devir,temlik ve tescilinin yapılacağı;/Yukarıdaki kararlaştırılan taksim ve anlaşma şartlarından başka hakları(mal rejimlerinden kaynaklı haklar;değer artış payı.artık değere katılma hakkı gibi vb.haklar)iş bu sözleşme tarihinden itibaren ,tarafların
 birbirlerine karşı ileri sürmeyecekleri;kanunda belirtilen mal rejimi tasfiye sebeplerinden birinin gerçekleşmesi halinde bu sözleşme hükümlerinin geçerli olacağı ..." şeklindeki kısım yönünden, 4721 sayılı Kanun'un yürürlüğe girmesinden sonra tarafların yasal edinilmiş mallara katılma rejimine tabi oldukları, sözleşmenin belirtilen kısmının geçerliliğinin 4721 sayılı Kanun'un 237 nci maddesi, 238 inci maddesi ve 227 nci maddesinin üçüncü fıkrası kapsamında değerlendirilmesi gerektiği, somut olayda eşlerin 4721 sayılı Kanun'un yürürlüğe girdiği tarihten sözleşme ile mal ayrılığını seçtiği döneme ilişkin uygulanması gereken edinilmiş mallara katılma rejimlerinin mal ayrılığına geçtikleri tarihte sona erdiği, bu döneme ilişkin olarak, kadının edinilmiş mallara katılma alacağı ile ilgili payının serbest ve özgür iradeleri ile tam pay olarak belirlenmesini amaçladıklarının anlaşıldığı, her ne kadar tarafların istedikleri mal rejimini ancak kanunda yazılı sınırlar içerisinde seçebilir, kaldırabilir ya da değiştirebilir ise de eldeki davada kanun da yer alan sınırlamaların söz konusu olmadığı, 4721 sayılı Kanun'un 227 nci maddesinin üçüncü fıkrası uyarınca da eşler, yazılı anlaşmayla
@@ -115,15 +151,21 @@ değer artışından pay almaktan vazgeçebilecekleri gibi, pay oranını da de�
 
 ## Yargıtay 2. HD 2024/4775 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1076686200)
+
 Bölge Adliye Mahkemesinin 30.12.2021 tarihli kararı ile, davalı - davacı kadının adli yardım talebi hakkında olumlu veya olumsuz bir karar verilmesi, adli yardım talebinin kabulüne karar verilmesi halinde boşanma hükmü kesinleştiğinden kadının katkı, katılım ve değer artış payı taleplerinin esasının incelenmesi, adli yardım talebinin reddine karar verilmesi halinde davalı - karşı davacı kadına katkı, katılım ve değer artış payı taleplerine yönelik nispi harcı tamamlaması için Harçlar Kanununun 30 uncu maddesine göre süre verilmesi, harcın tamamlanması halinde yargılamaya devam edilmesi ve tüm deliller birlikte değerlendirilerek hasıl olacak sonucuna göre karar verilmesi, harcın yatırılmaması halinde bu talepler yönünden işlemden kaldırma kararı verilmesi gerekirken bu talepler yönünden olumlu olumsuz hüküm kurulmaması ve tarafların sosyal ve ekonomik durumları araştırılarak, erkeğin emekli olup olmadığı, emekli olmuş ise ne zaman emekli olduğu ve maaşı, kadının çalışıp çalışmadığı, düzenli çalışıyor ise ne zamandan beri çalıştığı ve aylık geliri belirlenerek sonucu uyarınca bir karar verilmesi gerektiği gerekçesi ile, her iki davada verilen boşanma hükmü, harç, yargılama gideri ve
 vekalet ücreti ile velayet, kişisel ilişkiye yönelik hüküm istinaf edilmeksizin kesinleştiğinden kesinleşen yönler hakkında yeniden hüküm tesisine yer olmadığına, davalı - karşı davacının istinaf kanun yolu yönünden adli yardım talebinin kabulüne, davalı - karşı davacının istinaf talebinin 6100 sayılı kanunun 353/1-a-6 ve 355 nci maddeleri gereğince kabulüne, ilk derece mahkemesi kararının kusur belirlemesi, nafakalar ve tarafların tazminat taleplerinin reddine ilişkin hüküm yönünden kaldırılmasına, dosyanın daire kararına uygun şekilde işlem yapılmak ve istinafa gelen yönler (kusur belirlemesi, nafakalar, tazminatlar, kadının adli yardım ve mal rejiminin tasfiyesine ilişkin talebi) hakkında yeniden bir karar verilmek üzere kararı veren ilk derece mahkemesine gönderilmesine, davacı - karşı davalının tüm, davalı-karşı davacının sair istinaf taleplerinin kaldırma sebebine göre bu aşamada incelenmesine yer olmadığına, davalı-karşı davacı vekilinin süresinden sonra sunduğu 28.11.2019 tarihli istinaf dilekçesinin reddine karar verilmiştir.
 
 ## Yargıtay 2. HD 2024/2816 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061737900)
+
 Bölge Adliye Mahkemesinin yukarıda başlıkta tarih ve sayısı belirtilen kararı ile, dava konusu taşınmazın ve aracın edinme tarihi itibarıyle davalının edinilmiş malı olup edinilmiş bir malda, bir eşin diğer eşe ait bir malın edinilmesine, iyileştirilmesine veya korunmasına hiç ya da uygun karşılık almaksızın katkıda bulunması halinde bu durumun ispatı suretiyle değer artış payı (katkı payı) alacağı talep edebileceğine, davacının dava dilekçesinde bildirdiği bir kısım ziynet eşyalarının bozdurularak evin alımında kullanıldığı gerek davacı tarafça sunulan belgeler ve bu belgelerle örtüşen davacı tanık beyanları, gerekse davalının 11.04.2017 tarihli duruşmadaki beyanı ile sabit olduğuna, bozdurulan ziynet eşyalarının başka şekilde sarf edildiği de davalı tarafça ispat edilemediğine, yine davacının kişisel malının satımı suretiyle davaya konu evin alımına katkıda bulunduğu dosya kapsamı ile sabit olup davalı tarafça taşınmazın ve aracın parasının babası tarafından ödendiğine ilişkin iddiası da dosya kapsamına göre ispat edilemediğine göre, yerel mahkemece ziynetlerin edinme tarihindeki değerinin, taşınmazın taraflarca bildirilen edinme tarihindeki değerine oranı suretiyle değer artış
 payı oranının belirlenip, değer artış payı oranının tasfiye tarihindeki sürüm değeri ile çarpılarak değer artış payı alacağının ve taşınmazın sürüm değerinden davacının değer artış payı alacağı düşüldükten sonra kalan miktarın yarısının davacının katılma alacağı olarak hesaplanması ve aracın güncel değerinin yarısının katılma alacağı olarak hesaplanması suretiyle davacının alacağı belirlenerek yazılı şekilde karar verilmesinde ve terditli davalarda kural olarak tek bir vekâlet ücretine hükmedilmesi gerektiğinden tapu iptali talebinin reddi nedeniyle davalı lehine vekâlet ücretine hükmedilmemesinde de bir isabetsizlik bulunmadığı gerekçesi ile istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 2. HD 2024/1536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1023132100)
 
 Bölge Adliye Mahkemesinin yukarıda başlıkta tarih ve sayısı belirtilen kararı ile, dosya arasında yer alan vergi kayıtları ve tüm dosya kapsamından, kooperatif ödemelerinin yapıldığı dönemde, davacının 11.02.2000-30.11.2003 tarihleri arasında butik işlettiği, davalının 06.03.1995 tarihinden beri TAİ’de bilişim sistem mühendisi olarak çalıştığı, davacının çalıştığı dönemde elde ettiği gelirlerin dosya kapsamı itibariyle tespitinin mümkün olmadığı, somut katkının varlığı ve katkı oranının belirlenemediği durumlarda hakkaniyet ve fedakarlığın denkleştirilmesi ilkeleri uyarınca hakkaniyete uygun bir katkı oranının belirlenmesi gerektiği, taraf ve tanık beyanları ile tüm dosya kapsamı dikkate alındığında, Mahkemece davacının katkı oranının % 15 olarak belirlenmesinin dosya kapsamına uygun düşmediği, tanık beyanları ve tüm dosya kapsamı dikkate alınarak ayrıca davalı eşin evi geçindirme yükümlülüğü bulunduğu da gözetilerek davacının katkı oranının takdiren % 20 oranında kabul edilmesinin dosya kapsamı, hakkaniyet ve fedakarlığın denkleştirilmesi ilkelerine daha uygun olduğu; bu durumda davacının 55.168,00 TL değer artış payı alacağının bulunduğu, Mahkemece daha az miktarda değer artış
 payı alacağına hükmedilmesinin doğru olmadığı; hüküm altına alınan değer artış payı alacağına karar tarihinden geçerli olmak üzere faiz uygulanmasına karar verilmesi gerekirken, yanlışa düşülerek dava tarihinden itibaren faiz uygulanması yasal düzenlemelere ve Yargıtay uygulamalarına aykırı ise de, aleyhe kaldırma yasağı nedeniyle, istinafa gelenin sıfatı gözetilerek bu hususun kaldırma nedeni yapılamayacağı; tasfiyeye konu 06 DG 7220 plakalı aracın taraflar arasındaki mal rejiminin sona erdiği boşanma dava tarihinden sonra davalı adına tescil edildiği, edinme tarihi itibariyle davalının kişisel malı olduğu, yine dosya kapsamındaki bilgi ve belgelerden, taraflar arasında edinilmiş mallara katılma rejiminin geçerli olduğu dönemde dava dışı 06 MDG 38 plakalı aracın satın alınarak davalı adına tescil edildiği, 14.01.2014 tarihinde satıldığı, davalının dava dışı aracın satış parasının evlilik birliği içinde harcandığı yönündeki iddiasının mevcut dosya kapsamı itibariyle ispatlanamadığı, dava dışı aracın satış tarihi ile tasfiyeye konu aracın alım tarihi arasındaki süre ile satış bedeli dikkate alındığında 20.000,00 TL’nin bu kadar kısa süre içerisinde harcanmasının hayatın olağan
@@ -131,8 +173,12 @@ akışına uygun düşmediği, tasfiyeye konu aracın 60.000,00 TL’ye alındı
 
 ## Yargıtay 2. HD 2024/1079 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1007824800)
+
 Mahkemenin yukarıda başlıkta tarih ve sayısı belirtilen kararı ile, mal rejiminin tasfiyesinden kaynaklanan davada kural olarak ayın istenemeyeceği; taşınmazın 02.12.1999 tarihli arsa satış sözleşmesine göre edinildiği, tanık beyanlarına göre taşınmazın aldığı dönemde davalının ev hanımı olduğu, davacının ise öğretmen olduğu, davalının taşınmazı terzilikten kazandığı para ve zıynet eşyalarının satılması sebebiyle alındığı iddiasını ispatlayamadığı, her ne kadar dosyamıza sunduğu üzerinde altınları bulunan resimleri delil olarak göstermiş ise de bu altınların taşınmaz için harcandığını ispatlayamadığı, davacının 12.630,45 TL katkı payı alacağını bulunduğu; değer artış payı ve katılma alacağının edinilmiş mallara katılma rejiminde talep edilebileceği gerekçesiyle davanın kısmen kabul kısmen reddiyle, davacının tapu iptal ve tescile ilişkin davasının reddine, 126 ada 8 parsel sayılı taşınmaz yönünden 12.630,45 TL katkı payı alacağını dava tarihinden itibaren işleyecek yasal faizi ile birlikte tahsiline, fazlaya ilişkin istemin reddine, davacının değer artış payı ve katılma alacağı talebinin reddine karar verilmiştir.
 
 ## Yargıtay 2. HD 2023/6316 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1007965000)
 
 Değer artış payı alacağı; eşlerden birinin diğerine ait malın edinilmesine, iyileştirilmesine veya korunmasına hiç ya da uygun karşılık almaksızın esaslı katkıda bulunması durumunda, tasfiye sırasında bu malda meydana gelebilecek değer artışı için katkısı oranında sahip olduğu alacak hakkıdır (4721 sayılı Kanun md. 227). Denkleştirme (4721 sayılı Kanun md. 230) hariç, tasfiyeye konu mal varlığında katkı tarihine göre değer kaybı söz konusu ise, katkının başlangıçtaki değeri esas alınır (4721 sayılı Kanun md. 227/1). Böyle bir malın daha önceden elden çıkarılmış olması halinde hakim, diğer eşe ödenecek alacağı hakkaniyete uygun olarak belirler (4721 sayılı Kanun md. 227/2). Değer artış payı alacağı talep edebilmek için, parasal ya da para ile ölçülebilen maddî veya hizmet değeriyle katkıda bulunulmalıdır.

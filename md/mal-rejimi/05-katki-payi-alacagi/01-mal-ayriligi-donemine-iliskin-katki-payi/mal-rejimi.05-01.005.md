@@ -22,163 +22,239 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2018/7077 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429773900)
+
 Şu halde önemle belirtilmelidir ki, mahkemece, ziynetlerin katkı payı alacağı davasına konu edildiği davacının iddiasını ispatlayamadığı kabul edilerek davanın reddine karar verilmiş ise de, yukarıda incelendiği üzere ziynet eşyalarının katkı payı alacağına konu edilmediği açıkça görülmekte olup, davacının iddiası yönünden ise mahkemece yapılan araştırma, inceleme ve uygulama hüküm kurmak için yeterli değildir.
 
 ## Yargıtay 8. HD 2018/2481 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410116200)
 
 Yukarda açıklanan yasal düzenleme ve ilkeler uyarınca yapılan incelemede; mahkemece de tarafların tespit edilebilen gelirleri dikkate alınarak erkeğin gelirinin % 40'ını, kadının gelirinin % 70'ini tasarruf edebileceği kabul edilerek katkı payı oranı belirlenmiştir. ...'na yazılan yazı cevabında davacı kadının önceki eşinden olan oğlu ...'ın Özel ... Ana ve İlköğretim Okulundan 04.07.1998 tarihinde 4. sınıfına kaydolduğu ve 4. ve 5. sınıfı okulda devam ettiği, 200 yılında ... özel ... İlköğretim okuluna nakil gittiği belirtildiğine göre, davacının oğlunun 1995 yılında okula başladığı ve evlilik tarihinden taşınmazın alındığı tarihe kadar da özel okulda eğitim ve öğretimine devam ettiği anlaşılmaktadır. Davacı kadın her ne kadar okul taksitlerini kendisinin ödemediğini iddia etmiş ise de, bu hususta dosya kapsamında delil bulunmamaktadır. O halde, Mahkemece, bozma gereği tarafların gelirleri dikkate alınarak katkı payı oranlaması yapılması doğru ise de kadının çocuğuna ait taşınmazın alınmasından önce okul ücreti ve ödeme olmadığı gerekçesi ile kadının kişisel harcamalarının % 30 olarak kabul edilmesine katılmak mümkün değildir.
 Mahkemece yapılacak iş, davacı kadının önceki eşinden olma çocuğu için yaptığı eğitim ve öğretim masraflarının da kadının kişisel harcalamaları olduğu kabul edilerek, Özel ... Ana ve İlköğretim Okuluna yazılan yazıların okulun kapandığından tespit edilemediği anlaşıldığından, benzer okulların o yıllara ait okul ücretlerinin ilgili kurumlardan sorularak tespit edilmeye çalışılması, tespit edilememesi halinde de TMK 4. ve TBK 50. madde uyarınca, kadının kişisel harcama oranında dikkate alınrak katkı payı oranının hakkaniyet ilkesi uyarınca takdiri ile gerçekleşecek sonucuna göre davacının katkı payı alacağı yönünde bir karar verilmesi gerekirken; yazılı şekilde karar verilmesi doğru olmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2018/132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405692800)
+
 Tüm dosya kapsamı birlikte incelendiğinde; dosya kapsamındaki sigorta kaydı ve tanık beyanlarına göre, davacı-davalı ...'nın 1988/3. dönemden taşınmazların edinildiği tarihe kadar her yılın belli dönemlerinde düzenli ve sürekli çalıştığı anlaşılmaktadır. Katkı payı talep edilen taşınmazların edinildiği dönemde tarafların her ikisi de çalıştığına göre, davacı-davalı kadının da taşınmazların edinilmesine bir miktar katkı payının olduğunun kabulü gerekir. Buna göre, yukarda açıklanan Dairemizin ilke ve uygulamalarına ve TMK 4. ve TBK 50. madde uyarınca, hukuk ve hakkaniyet ilkeleri de gözetilerek davacı-davalı kadının makul bir katkı oranı belirlenerek davalı-davacı erkeğin katkı payı alacağının belirlenmesi gerekirken eksik inceleme ile karar verilmesi hatalı olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2017/15849 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/384308200)
 
 Hakim tarafların talep sonucuyla bağlı olup her bir talebi hakkında verilen kararı gerekçeli karar ve hükümde ayrı ayrı göstermelidir (HMK.nun 26. md ve 297/2 m). Mahkeme tarafından davacının katkı payı alacağı talebi yönünden değerlendirme yapılıp hüküm tesis edilmiş ise de, dava dilekçesinde katkı payı alacağının yanı sıra katılma alacağı talebide bulunmaktadır. Mahkemece bu talep yönünden olumlu ya da olumsuz bir hüküm kurulmaması HMK.nun 297/2. maddesine aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2017/12567 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378895100)
+
 Tanık ve taraf beyanları, tapu kayıtları, tarafların gelirlerine ilişkin belgeler ile tüm dava dosyası kapsamı birlikte değerlendirildiğinde, davalının hem hastanede çalıştığı hem de özel muayenehaneden gelir elde ettiği, davacının sadece özel muayenehaneden gelir elde ettiği; davacının vergi kayıtlarından çalışmadığı dönemlerin bulunduğu; Mahkemece dosya kapsamına alınan 1995 yılında ortak verilen gelir beyannamesindeki gelirler ile, tarafların 1990-1991-1992 yılları bütün ve 1993 Ocak- Şubat ayları serbest meslek kazançları dikkate alınarak katkı payı oranı belirlendiği, davalının hastaneden elde ettiği gelirin dikkate alınmadığı anlaşılmaktadır. O halde, Mahkemece, yukarda açıklanan Dairemiz'in ilke ve uygulamalarına göre, evlenme tarihinden malların edinildiği tarihe kadar, eşlerin çalışma süreleri ile davacının ve davalının serbest meslek kazançları ile davalının hastaneden elde ettiği gelir de dikkate alınarak katkı payı oranının belirlenmesi gerekirken eksik inceleme ile yazılı şekilde karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 8. HD 2017/12057 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/371993800)
 
 Tanık ve taraf beyanları, tapu kayıtları ile tüm dava dosyası kapsamı birlikte değerlendirildiğinde, mahkemece, evlenme tarihinden malların edinildiği tarihe kadar, eşlerin çalışma sürelerine ve gelirlerine ilişkin belgeler ile davalının vitrin düzenleme işinden elde ettiği ek gelire ilişkin bir araştırma yapılmadan, ayrıca davacı ve davalı adına daha önce edinilen kooperatif hisselerine ilişkin kooperatif kayıtları getirtilmeden katkı payı oranı belirlenerek alacağa hükmedildiği anlaşılmıştır.
 O halde, Mahkemece, öncelikle davacı ve davalı adına daha önce edinilen kooperatif hisselerine ilişkin kayıtlar toplanarak tasfiye konu taşınmazın edinilmesinde devredilen kooperatif hisse bedellerinin kullanılıp kullanılmadığının değerlendirilmesi, sonrasında Dairemizin yukarda açıklanan ilke ve uygulamaları da göz önünde bulundurularak, evlenme tarihinden malın edinildiği tarihe kadar, eşlerin çalışma sürelerine ve gelirlerine ilişkin belgeler bulundukları yerlerden eksiksiz olarak getirtilip, davalının vitrin düzenleme işi ile elde ettiği ek gelir de dikkate alınarak belirlecek eşlerin katkı payı oranının üzerinden hesaplanacak alacağa hükmedilmesi gerekirken, açıklanan nedenlerle eksik inceleme ve araştırma ile yazılı şekilde karar verilmesi hatalı olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2017/10498 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/368411800)
+
 Tüm dava dosyası kapsamı birlikte değerlendirildiğinde, mahkemece, eşlerin tüm gelirleri ayrı ayrı belirlendiği, kişisel harcamaları ile ayrıca kocanın 743 sayılı TKM'nin 152. maddesi gereğince evi geçindirme yükümlülüğü dikkate alınarak tasarruf miktarlarlarının da tespit edildiği, ancak her eşin tasarruf miktarının, birlikte yaptıkları toplam tasarruf miktarı içerisindeki oranının değil de eşlerin tasarruf edebilecekleri miktarlarının birbirine oranlanarak katkı payı oranının belirlenmesi hatalı olmuştur. O halde, Mahkemece, yukarda açıklanan Dairemiz'in ilke ve uygulamalarına göre, eşlerin katkı payı oranının, mahkemece belirlenen her eşin tasarruf miktarının, birlikte yaptıkları toplam tasarruf miktarı içerisindeki oranı dikkate alınarak hesaplanması ve belirlenecek bu oran üzerinden katkı payı alacağına hükmedilmesi gerekirken katkı payı alacağının fazla hesaplanması hatalı olmuştur.
 
 ## Yargıtay 8. HD 2017/8848 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351301000)
 
 Yargıtay uygulamalarına göre, katkı payı alacağına dava ve ıslah tarihinden geçerli olarak faiz yürütülmesi gerekir. Mahkemece, mal rejiminin tasfiyesi ile davacı lehine hüküm altına alınan katkı payı alacağına dava ve ıslah tarihinden geçerli olarak faiz yürütülmesi gerekirken karar tarihinden itibaren faiz hükmedilmesi hatalı olmuştur.
 
 ## Yargıtay 8. HD 2017/8441 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/352928900)
+
 Dinlenen davacı ve davalı tanık beyanları ve tüm dosya kapsamına göre; evlilik tarihinden itibaren ve taşınmazın edinildiği ve de üzerindeki evin yapıldığı dönemlerde müşterek çocukların doğumundan sonraki (1985 ve 1992) yıllarda davacı kadının günlük bahçe işleri ve mevsimlik tarım işçiliği işlerine giderek gelir sağladığı, bu suretle dava konusu taşınmazların edinilmesi ve evin yapılmasına az da olsa katkısının olduğu anlaşılmaktadır. Davacının gelirinin saptanması için dosyada yeterli veri mevcut değildir. Katkı payı talep edilen taşınmazın edinildiği dönemde tarafların her ikisi de çalıştığına göre, davacının bir miktar katkı payının olduğunun kabulü gerekir. Bu amaçla, yukarda açıklanan yasal düzenleme ve ilkeler uyarınca, davacının katkı oranının 30.03.2015 tarihli hesap raporunda, TMK 4. ve TBK 50. madde uyarınca, hukuk ve hakkaniyete uygun olarak belirlenen katkı oranı dikkate alınarak davacının katkı payı alacağına hükmedilmesi gerekirken; yazılı şekilde reddine karar verilmesi doğru olmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2017/6715 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/336797200)
+
 Tüm dava dosyası kapsamı birlikte değerlendirildiğinde, tasfiye konu taşınmazın boşanma dava tarihinden sonra davalı tarafından devredildiği, mal rejiminin sona erdiği tarihte mevcut olduğu, mahkemece katkı payı alacağı taşınmazın devir tarihindeki değeri olan 40.000,00 TL esas alınarak hesaplama yapıldığı anlaşılmıştır. Mahkemece, yukarda açıklanan Dairemiz'in ilke ve uygulamalarına göre, mal rejiminin sona erdiği tarihte tasfiyeye konu taşınmaz mevcut olduğu dikkate alınarak, dava konusu taşınmazın dava tarihindeki sürüm (rayiç) değeri (65.000,00 TL) esas alınarak davacı eşin katkı payı alacak miktarı belirlenmesi gerekirken, hatalı değerlendirme ile taşınmazın devir tarihindeki değeri esas alınarak alacağa hükmedilmesi hatalı olmuş, bozmayı gerektirmştir.
 
 ## Yargıtay 8. HD 2017/6712 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/336966400)
 
 Tüm dava dosyası kapsamı birlikte değerlendirildiğinde, S.S. ... Arsa ve Konut Yapı Kooperatifi'nden gelen 31.12.2013 havale tarihli yazısında '... parsel üzerindeki binaların kaba inşaatının 2001 yılında tamamlandığı ve bu haliyle üyelere teslim edildiği, binaların oturulur hale bu tarihten sonra üyeler tarafından yerine getirildiğinin' belirtildiği, davacı vekilinin 21.11.2013 tarihli celsede imzalı beyanı ile katılma alacağı taleplerinin olmadığını ifade ettiği, Dairemiz'in 07.11.2013 gün, 2013\\ 4822-16061 Esas ve Karar sayılı bozma ilamında taşınmazın 01.01.2002 tarihinden önce teslim edilip edilmediği ve ödemelerin 01.01.2002 tarihinden sonra devam edip etmediğinin tespit edilmesi istenildiği, Mahkemece ise, taşınmazın 01.01.2002 tarihinden önce teslim edildiğine dikkat edilmeden, kooperatife yapılan 01.01.2002 tarihine kadar aidat ödemelerinin toplamının TEFE oranlarına göre dava tarihindeki güncellenmiş değeri üzerinde katkı payı alacağına hükmedildiği anlaşılmıştır.
 Tüm bu açıklamalara göre, Mahkemece yapılacak iş, taşınmazın 2001 yılında kaba inşaat halinde davalıya teslim edildiği ve davacının katkı payı alacağı talebi olduğuna göre, taşınmazın dava tarihindeki kaba inşaat halindeki rayiç değeri uzman bilirkişi tarafından belirlenerek, bu değer üzerinden katkı payı alacağına hükmedilmesi gerekirken yazılı şekilde karar verilmesi hatalı olmuş, bozmayı gerektirmştir.
 
 ## Yargıtay 8. HD 2017/3962 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/322340400)
+
 Tasfiyeye konu mal elden çıkarılmışsa, mahkemece hakkaniyete uygun olarak değer tespiti yaptırılmalıdır (TMK'nun m. 227/2, 243, 251). Katkı payı alacak isteği söz konusu olduğunda, davalı eş TMK'nun 251. maddesinde belirtilen amaç doğrultusunda malı elden çıkarmışsa, başkasına devredilen malvarlığı mevcutmuş gibi tasfiye hesabına dahil edilir ve devir tarihindeki değeri esas alınır (TMK'nun m. 235/2).
 
 ## Yargıtay 8. HD 2017/3534 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/321154000)
 
 6100 sayılı HMK 26/1 maddesi (1086 sayılı HUMK 74. maddesi) uyarınca hakim tarafların talep sonuçlarıyla bağlıdır, ondan fazlasına veya başka birşeye karar veremez. Davacı taraf gerek dava dilekçesinde gerek yargılamanın devamında katkı payı alacağı talep ettiklerini belirtmiştir. Dava, mal rejiminin tasfiyesi ile katkı payı alacağıdır.
 
 ## Yargıtay 8. HD 2017/1810 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/299161900)
+
 01.01.2002 tarihinden önce 743 sayılı Türk Kanunu Medenisi'nin (TKM) yürürlükte olduğu dönemde, eşler arasında yasal mal ayrılığı rejimi geçerliydi (TKM 170 m). TKM'de, mal rejiminin tasfiyesine ilişkin düzenleme mevcut olmadığından, eşlerin bu dönemde edindikleri malvarlığının tasfiyesine ilişkin uyuşmazlık, aynı kanunun 5.maddesi yollamasıyla Borçlar Kanunu'nun genel hükümleri göz önünde bulundurularak "katkı payı alacağı" hesaplama yöntemi kurallarına göre çözüme kavuşturulmalıdır. Zira Borçlar Kanunu, Medeni Kanunun tamamlayıcısı olarak kabul edilmiştir(eBK 544, TBK 646 m). Kadın veya kocanın, mal rejiminin devamı sırasında diğerinin edindiği malvarlığına katkısı nedeniyle katkı payı alacağı isteğinde bulunabilmesi için mutlaka para ya da para ile ölçülebilen maddi veya hizmet değeriyle katkıda bulunması gerekir.
 
 ## Yargıtay 8. HD 2017/1289 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/301301300)
 
 Bununla birlikte katkı payı alacağı hesaplanırken taşınmazların esas alınan değerlerinde de hata yapıldığı anlaşılmaktadır. Katkı payı alacağı, tarafın katkı oranı tespit edildikten sonra tasfiyeye konu malın dava tarihi itibariyle belirlenecek sürüm (rayiç) değeri ile çarpılmak suretiyle hesaplanır. Somut uyuşmazlıkta ise tasfiyeye konu taşınmazlar yönünden dosyada tespit edilen dava tarihi itibariyle değerlerin katkı oranı ile çarpılması neticesinde davacı lehine katkı payı alacağı hesaplanması gerekirken, keşif tarihi 2011 itibariyle tespit edilen değerler üzerinden hesaplama yapılması usul ve yasaya aykırıdır.
 
 ## Yargıtay 8. HD 2017/1284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/301254000)
+
 Maddi olayları ileri sürmek taraflara, hukuki nitelendirme yapmak ve uygulanacak kanun maddelerini belirlemek hakime aittir (6100 sayılı HMK 33. m). Davacı tarafça sunulan 12.12.2007 havale tarihli dilekçede, mahkemenin ara kararı gereği talep konusunun neler olduğu ve talep miktarları açıklanmıştır. Mahkemece söz konusu dilekçede sadece "katkı payı alacağı" ibaresi kullanıldığından katılma ve değer artış payı alacakları yönünden değerlendirmede bulunulmamış ise de, gerek dilekçenin dava konusu malların ve talep miktarlarının açıklanması amacıyla verilmiş olması, gerekse söz konusu dilekçede ve aşamalardaki beyanlarında davacı tarafın sadece katkı payı alacağı istediklerine ve dava dilekçesindeki diğer talepler yönünden isteklerinin olmadığına yahut açıkça feragat ../.
 
 ## Yargıtay 8. HD 2017/357 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/294221100)
 
 Tüm dava dosyası kapsamı birlikte değerlendirildiğinde; davacının, tasfiyeye konu ... ada ... parsel ... nolu bağımsız bölümün kendisine ait aracın ve davalıya ait tarlanın satışından elde edilen para ile satın alındığının iddia ettiği, davalının davacıya aracın satılarak davacı adına başka bir araç alındığını, bağımsız bölümün alınmasında katkısı olmadığını savunduğu anlaşılmıştır. Mahkemece, tasfiye konusu taşınmazın davacının aracı satılarak alındığını ispatlayamadığından reddine karar verilmiştir. Dosya kapsamına alınan trafik kayıtları, satış belgesi ve tanık beyanlarına göre, davacının 09.07.1992 tarihinde satın aldığı... plakalı aracını taşınmazın alınmazından kısa bir süre önce 05.05.1997 tarihinde sattığı, aracın satışından sonra davacı adına 2002 yılına kadar araç kaydının olmadığı görülmektedir. Hayatın olağan akışına göre, davacının aracının satışından elde ettiği değerin başka yerde kullanıldığı iddiasının da ispat edilemediğine göre, tasfiyeye konu taşınmazın alınmasında kullanıldığının kabulü gerekir.
 Buna göre, Mahkemece, yukarıda açıklanan Dairemiz uygulama ve ilkeleri gereğince, davacı adına olan ... plakalı aracın değerinin davacının aracı devrettiği tarihteki değeri uzman bilirkişi tarafından belirlenmeli, yaklaşık bir ay sonra alınan tasfiyeye konu taşınmazın bedeli karşısındaki oranı belirlenmeli, bu oran kadar davacının katkıda bulunduğunun kabulü ile belirlenen oranın dava konusu bağımsız bölümün dava tarihindeki sürüm (rayiç) değeri ile çarpılmak suretiyle hesaplanacak katkı payı alacağı miktarı üzerinden davanın kabulüne karar verilmesi gerekirken, delillerin takdirinde hataya düşülerek 267 nolu bağımsız bölüm yönünden katkı payı alacak talebinin reddine karar verilmesi usul ve yasaya aykırı olmuş; bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2016/16286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/328699400)
+
 Hükme esas alınan raporlar incelendiğinde, davacı-karşı davalı lehine katkı payı alacağı hesabı yapılırken mal rejimi sona erdiği tarihteki mevcut durumu itibariyle meskenin değeri tespit edilmeden, mal rejimi sona erdikten sonra kat karşılığı inşaat sözleşmesine istinaden inşa edilen yeni binadaki meskenin değerinin esas alındığı anlaşılmaktadır. Mahkemece, asıl davaya konu meskenin mal rejimi son erdiği tarihteki mevcut durumuna göre dava tarihi itibariyle değeri belirlenerek bu değer üzerinden katkı payı alacağı hesaplanması gerekirken yazılı şekilde hüküm tesisi bozmayı gerektimiştir.
 
 ## Yargıtay 8. HD 2016/13499 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/253820700)
 
 Yukarda açıklanan yasal düzenleme ve ilkeler uyarınca yapılan incelemede; tasfiyeye konu ... parsel sayılı dükkan eşler arasında mal ayrılığı rejiminin geçerli olduğu 29.12.1997 taraihinde ferdileşme yoluyla davalı eş adına tescil edilmiştir. Bu bölüme ilişkin dava, katkı payı alacağına ilişkin olup Yargıtay ve Dairemiz'in devamlılık gösteren uygulamalarına göre, katkı payı alacağının tasfiyeye konu malın dava tarihi itibariyle belirlenecek sürüm (rayiç) değeri dikkate alınarak hesaplanması gerekirken, Mahkemece yanlışa düşülerek keşif tarihindeki sürüm değerinin esas alınması hatalı olduğundan kararın bu nedenle de bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2016/12571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257042200)
+
 Taraf beyanları, toplanan deliller, tüm dosya kapsamı birlikte değerlendirildiğinde; davacı kadının ev kadını olduğu, gelir getirici bir işte çalışmaması nedeniyle tasfiyeye konu taşınmazın zemininin edinilmesinde herhangi bir katkısının olmadığı ancak üzerindeki evin inşaatında tanık olarak dinlenen davalının kardeşi Sedat'ın da beyanında ifade ettiği üzere, davacının babasının emeği ile katkısı olduğunun anlaşılmasına göre, sadece yapı bedeli üzerinden katkı payı alacağına hükmedilmesi gerekir. Bu yön gözetilmeksizin hatalı hesaplama ile taşınmazın yapı ile birlikte arsa payı değerinin toplamı üzerinden katkı payı alacağına hükmedilmesi hatalı olduğundan kararın bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2016/11031 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/220074400)
+
 Mal ayrılığı rejiminde; Kadın veya kocanın, mal rejiminin devamı sırasında diğerinin edindiği malvarlığına katkısı nedeniyle katkı payı alacağı isteğinde bulunabilmesi için mutlaka para ya da para ile ölçülebilen maddi veya hizmet değeriyle katkıda bulunması gerekir. 743 sayılı TKM'nin 153.maddesi uyarınca, kadının eve bakması, temizlik yapması, çocukları yetiştirmesi asli görevidir, bunları yapmak edinilen mala katkı sayılmaz.
 
 ## Yargıtay 8. HD 2016/10080 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/222278500)
 
 Dosya kapsamı itibariyle davacı kadının davalı erkeğin de kabulünde olduğu üzere, dava konusu evin yapıldığı dönemde annesinin verdiği ineğin yavrularının beslenip, bakılıp satılması ve bağ bahçe işlerinde çalışılması suretiyle düzenli ve süreklilik arz eder şekildeki çalışmaları ile evin yapımına katkıda bulunduğu, ayrıca yükümlü olmadığı halde 743 sayılı TKM'nin 152. maddesi kapsamında evin geçimine de katkıda bulunduğu anlaşıldığından, mal ayrılığı rejimi döneminde dava konusu evin edinilmesinde katkısı olduğu anlaşılan davacı lehine TMK'nun 4. ve TBK'nun 50. maddeleri uyarınca hakkaniyete uygun bir katkı payı alacağına hükmedilmesi gerekir. Yargıtay'ın ve Dairemiz'in kararlılık gösteren uygulamalarına göre, kadının aile üyesi olmasının gerektirdiği zorunlu işler olan mutad ev işlerini yapma, çocukları yetiştirme gibi evde gösterdiği faaliyetler dışında, hayvanlara bakma, bahçe ve tarla işlerinde çalışmak gibi ev ekonomisine katkı sayılabilecek faaliyetleri var ise hakkaniyete göre lehine katkı payı alacağına hükmedilmesi gerektiği yönündedir.
 Mahkemece bu hususlar göz ardı edilerek yazılı şekilde davanın reddine karar verilmesi doğru olmamış, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2016/9582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/332391300)
+
 Diğer yandan evlilik ve mal rejimi ölüm sebebiyle sona ermiştir. Katkı payı borcu ölen eşin terekesinin borcudur. Davacı da davalılarla birlikte ölen eşin .../... payı oranında yasal mirasçısı olarak tereke borcundan yasal miras payı oranında sorumludur. Bir başka anlatımla hesaplanan katkı payı alacağının .../... oranındaki bölümü için davacı aynı zamanda borçludur. Davacıda bir bölüm alacak için alacaklı ve borçlu sıfatı birleşmiştir. Terekenin aktifinin alacak taleplerine konu edilen malvarlığı unsurlarından oluştuğu, pasifinin ise sadece davaya konu katkı payı alacağı olduğu ve terekenin başka borcu iddia ve ispat edilmediğine göre tereke borcundan davacının yasal miras payına isabet eden bölümün düşümü suretiyle alacağa hükmedilmesi gerekirken katkı payı alacağının tamamına hükmedilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2016/8976 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/213412500)
 
 Tüm dava dosyası kapsamı birlikte değerlendirildiğinde; tarafların 1972 yılında evlendikleri, davacı eşin önceleri çalışmadığı, davalı eşin 1969 yılında İsveç'e yerleştiği ve çalışmaya başladığı, davacının eşinin yanına İsveç'e ancak 1976 yılında gelerek çalışmaya başladığı toplanan delillerden ve tarafların açıklamalarından anlaşılmaktadır. 939/1016 hissenin davacı eşin çalışmaya başlamasından kısa bir süre sonra 1978 yılında davalı adına satın alındığı ve davalı eşinde çok daha öncesinden çalışmaya başlayarak gelir sağladığının anlaşılmasına göre, davalı eşin TKM'nin 152. maddesi gereğince evi geçindirme yükümlülüğü de göz önüne alındığında davalı eşin yapabileceği katkının davacı eşe göre fazla olduğu kabul edilmelidir. Dosyaya getirtilen tarafların gelirleri ile ilgili belgelerden tarafların tasarruf miktarı ve katkı oranın belirlenmesi konusunda yeterli veri olmadığı da görülmektedir. O halde, Mahkemece, taşınmazın 939/1016 hissesi yönünden, davacının davalıya oranla daha az katkısı olduğu benimsenip, TMK m. 4 ve TBK m.
 50 uyarınca, davacının bu hisseye yönelik katkı payı oranının hakkaniyet ilkesi uyarınca takdir edilmesi, takdir edilecek bu oran ile 939/1016 hissenin dava tarihindeki değerinin çarpılması suretiule davacının katkı payı alacağı yönünde bir karar verilmesi gerekirken; hatalı değerlendirme ile yazılı şekilde fazla alacağa hükmedilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2016/8632 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/212209400)
+
 01.01.2002 tarihinden önce 743 sayılı Türk Kanunu Medenisi'nin (TKM) yürürlükte olduğu dönemde, eşler arasında yasal mal ayrılığı rejimi geçerliydi (TKM 170 m). TKM'de, mal rejiminin tasfiyesine ilişkin düzenleme mevcut olmadığından, eşlerin bu dönemde edindikleri malvarlığının tasfiyesine ilişkin uyuşmazlık, aynı kanunun 5.maddesi yollamasıyla Borçlar Kanunu'nun genel hükümleri göz önünde bulundurularak "katkı payı alacağı" hesaplama yöntemi kurallarına göre çözüme kavuşturulacaktır. Zira Borçlar Kanunu, Medeni Kanunun tamamlayıcısı olarak kabul edilmiştir (eBK 544, TBK 646 m).Mal ayrılığı rejiminde; eşler kendi malları üzerinde tasarruf yetkisine ve intifa hakkına sahiptir ve mallarının idaresi kendisine aittir (TKM 186/1 m). Her birinin malları, geliri ve kendi kazançları yine kendilerine ait kişisel mallarıdır (TKM 189 m). Kadın veya kocanın, diğerinin mal rejiminin devamı sırasında edindiği malvarlığına katkısı nedeniyle katkı payı alacağı isteyebilmesi için, mutlaka para ya da para ile ölçülebilen maddi veya hizmet değeriyle katkıda bulunması gerekir.
 Bu katkı, ziynet, miras veya bağış yoluyla elde edilen başka malvarlıklarının kullanılması ile toplu olarak yapılabileceği gibi, çalışan eşin gelirleriyle de yapılması mümkündür. Çalışarak, düzenli ve sürekli gelire (maaş, gündelik, kar payı vs gibi) sahip eşin, aksi kanıtlanmadıkça diğer eşin sahip olduğu malvarlığına yapabileceği tasarruf oranında katkıda bulunduğunun kabulü gerekir. Yargıtay'ın ve Dairemizin devamlılık gösteren uygulamaları da bu yöndedir.
 
 ## Yargıtay 8. HD 2016/8170 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/332347600)
+
 Bilirkişi raporunda davaya konu edilen ... nolu mesken yönünden ....584,... TL, ... nolu mesken yönünden 39.909,49 TL olmak üzere davacının toplam katkı payı alacağı 55.494,06 TL olarak hesaplanmıştır. Davalı lehine mahsup edilecek miktar olarak ise 36.244,85 TL olarak belirlenmiştir. Bilirkişi raporunda davalı lehine mahsup edilecek miktar toplam katkı payı alacağı olan 55.494,06 TL yerine, hatalı şekilde sadece ... nolu mesken yönünden hesaplanan 39.909,49 TL'den düşülmek suretiyle davacı lehine eksik katkı payı alacağına hükmedilmesi hatalı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2016/8166 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/213418600)
 
 Söz konusu malvarlığının edinme tarihi itibariyle dava katkı payı alacağına ilişkindir. Dosya içeriğine, toplanan delillere göre tarafların her ikisininde çalıştığı ve sürekli ve düzenli gelire sahip olduğu anlaşılmaktadır. Mahkemece, davacı erkeğin özel alışkanlıkları nedeniyle kişisel harcamalarının fazla olduğu, bundan ayrı 743 sayılı TKM'nun 152. maddesi uyarınca aileyi geçindirme yükümlülüğü bulunduğu, bu nedenle tasarruf edeceği miktarın davalı kadına göre daha az oranda olabileceği göz önünde bulundurularak TMK'nun 4 ve TBK 50 -51. maddeleri uyarınca davacı lehine hukuk ve hakkaniyete uygun bir oran belirlenerek taşınmazın dava tarihi itibariyle değeri ile çarpılması sonucu tespit edilecek miktarca ve talep miktarıda gözetilerek davacı lehine alacağa hükmedilmesi gerekirken davanın reddine karar verilmesi hatalıdır.
 
 ## Yargıtay 8. HD 2016/7615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203802600)
+
 Aksi belirtilmedikçe, mal rejiminin tasfiyesine dayalı alacağı, talep edenin varsa katkı payı, değer artış payı (TMK m. 227) ve artık değere katılma alacağı (TMK m. 236 vd.) alacaklarını kapsar. Toplanan deliller ve tüm dosya kapsamından; dava dilekçesindeki açıklamalarda davacının hem katkı payı alacağı hem de katılma alacağı talebinde bulunduğu anlaşılmasına, davacının temyiz itirazlarının katkı payı alacağı ve taşınmazlara yönelik olmasına, dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına ve mevcut deliller mahkemece takdir edilerek karar verildiğine, takdirde bir isabetsizlik bulunmadığına göre, davacının aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yerinde görülmemiştir.
 
 ## Yargıtay 8. HD 2016/7215 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201528900)
 
 Tasfiyeye konu 24 nolu meskeni davalının 24.09.1993 tarihinde satış yoluyla edindiği, 11.02.2010 tarihinde 3. kişiye sattığı, davacı kadının Adana 3. Aile Mahkemesi'nin 2010/597 esasında kayıtlı TMK'nun 194.maddesine dayalı tapu iptal tescil davasını açtığı, 15.12.2010 tarihinde davanın konusuz kalması nedeniyle karar verilmesine yer olmadığına karar verildiği, davalının 28.07.2010 tarihinde anılan davanın yargılaması esnasında tasfiyeye konu taşınmazı tekrar geri aldığı, bu oluşuma ve hayatın olağan akışına göre taşınmazın edinim tarihi itibariyle mal ayrılığı rejiminin geçerli olduğu dönemde edinilen taşınmaz olup davanın konusunu katkı payı alacağı oluşturduğu görülmüştür. Mahkemece, tarafların çalıştıkları işyerlerinden gelirleri araştırılıp tespit edildikten sonra taşınmazın alımında davacının katkısının belirlenmesi, TKM'nin 152. maddesi uyarınca davalı erkeğin evi geçindirme yükümlülüğünün de gözetilmesi, dava tarihi itibariyle saptanacak taşınmazın sürüm (rayiç) değeri üzerinden davacının katkı payı alacak miktarının belirlenmesi gerekirken yazılı şekilde karar verilmiş olması doğru olmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2016/6733 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201508400)
+
 Raporda tarafların toplanan gelirlerine ilişkin evrakların yeterli olmadığı ve aksine kanıt bulunmadığından gelirlerinin eşit olduğunun kabulü ile davacı lehine katkı oranı belirlenmiş ve meskenin keşif tarihindeki değeri ile çarpılmak suretiyle katkı payı alacağı hesaplanmıştır. Dosya kapsamından davacı kadının ebe, davalı erkeğin ise 1997 yılına kadar Jandarma Astsubay olarak görev yaptığı, her iki tarafın görev yaptığı evlilik tarihinden taşınmazın edinildiği tarihe kadar olan yıllara ilişkin gelirlerini gösteren evraklar için yazılan müzekkerelere cevaben dosyada bir kısım evrakların bulunduğu gözetildiğinde gelirlerinin eşit olduğunun kabulü ve yine katkı payı alacağı hesaplamasında meskenin dava tarihi itibariyle değeri yerine keşif tarihi itibariyle değeri esas alınmasıda hatalıdır.
 
 ## Yargıtay 8. HD 2016/6155 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201497700)
 
 Her ne kadar hükme esas alınan bilirkişi raporundan hareketle davacı lehine 100.878-TL alacağa hükmedilmişse de, bilirkişi raporunda yapılan hesaplama dosya kapsamı ile usul ve yasaya uygun düşmemektedir. Davacının babası tarafından, dava konusu evin alımından kısa bir süre önce davalı eşe gönderilen 13.500-DM'nin evin alımında kullanıldığı davalı tarafça da kabul edilmiştir. Her ne kadar davacı eş, ...'da çalıştığı işyerinden ayrılması sonucu ödenen 45.000-DM'nin de evin alımında kullanıldığını iddia etmişse de, bu durum soyut iddianın ötesinde somut ve güçlü delillerle kanıtlanamamıştır. Bu açıklamalara göre, davacı eşin evin alımındaki katkısının 13.500-DM olarak kabulü ile buna göre katkı payı alacak miktarının belirlenmesi gerekirken daha fazla miktarda katkı payı alacağının olduğu kabul edilmesi doğru olmadığından kararın bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2016/6075 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201495800)
+
 Maddi olayları ileri sürmek taraflara, hukuki nitelendirme yapmak ve uygulanacak kanun maddelerini belirlemek hâkime aittir (6100 sayılı HMK 33 m). İddianın ileri sürülüş şekline göre, asıl dava; katkı payı ve artık değere katılma alacağı, karşı dava katkı payı alacağı isteğine ilişkindir.
 
 ## Yargıtay 8. HD 2016/4775 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/195795400)
 
 Tarafların açıklamalarına ve dosyada toplanan delillere göre alacak talebine konu edilen 14 nolu meskenin 09.09.2004 tarihinde davalı eş tarafından satın alınıp tapuda kendi adına tescil ettirildiği, bu taşınmazın alım bedelinin tamamının yine davalı eşin S.S ... Mensupları Konut Yapı Kooperatifinde mal ayrılığı rejiminin geçerli olduğu dönemde ödemeleri yapılarak fiilen yapımı tamamlanıp teslim edilen kooperatif hissesinin devrinden elde edilen bedel ile karşılandığı anlaşılmaktadır. Davacı bu kooperatifin ödemelerine katkıda bulunduğunu ileri sürmüş, tarafların her ikisinin de kooperatif ödemelerinin yapıldığı sırada Almanya'da çalıştıkları ve gelir sağladıkları, kooperatif ödemelerinin asıl olarak davalı tarafından karşılanmakla birlikte davacının da bir miktar katkısı olduğu dosya kapsamından anlaşılmaktadır. O halde, davacının bu kooperatif hissesindeki katkı payıyla edinilmiş mallara katılma rejimi döneminde edinilen tasfiyeye konu taşınmazda değer artış payı oluşturacak şekilde katkıda bulunduğunun kabulü gerekir.
 Hesap bilirkişisi tarafından sunulan 24.02.2014 tarihli raporda yapılan değerlendirmede davacının kooperatif üyeliğindeki katkı payı oranı TMK'nun 4. ve TBK'nun 50.maddeleri uyarınca hakkaniyete uygun olarak %25 olarak belirlenmiş ve bu katkı payı oranının tasfiyeye konu 14 nolu bağımsız bölümün değerleme anındaki değer artış payı alacağı karşılığının 27.500-TL olacağı bildirilmiştir. Bu değerlendirme tarafların mali ve sosyal durumlarına, hakkaniyete uygun olduğundan davacının alacak talebinin 27.500-TL için kabulüne karar verilmesi gerekirken; mahkemece yazılı şekilde davanın tümden reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2016/3134 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/219030200)
+
 Katkı payı hesabında; öncelikle evlenme tarihinden, malın edinildiği tarihe kadar, eşlerin çalışma sürelerine ve gelirlerine ilişkin belgeler bulundukları yerlerden eksiksiz olarak getirtilmelidir. Çalışmanın sabit olmasına rağmen, bir kısım döneme ilişkin belgelere ulaşılamaması durumunda, ilgili meslek kuruluşlarından ve/veya bilirkişilerden o döneme ilişkin yaklaşık gelir durumu sorulup öğrenilerek, malın edinildiği tarihe kadar ki eşlerin tüm gelirleri ayrı ayrı belirlenmelidir. Sonra, her bir eşin alışkanlıkları, ekonomik ve sosyal statüleri gözetilerek, kişisel harcamaları ile ayrıca kocanın 743 sayılı TKM'nin 152. maddesi gereğince evi geçindirme yükümlülüğü nedeniyle yapabileceği harcama, eşlerin kendi gelirlerinden düşülerek, gerçekleştirebilecekleri tasarruf miktarları ayrı ayrı tespit edilmeli, daha sonra her eşin tasarruf miktarının, birlikte yaptıkları toplam tasarruf miktarı içerisindeki oranı belirlenmelidir.
 Her bir eşin bulunan bu tasarruf oranı, çalışmaları karşılığı elde ettikleri gelirleriyle malın alımına yaptıkları katkı oranı olarak kabul edilerek, tasfiyeye konu malın dava tarihi itibariyle belirlenecek sürüm (rayiç) değeri ile çarpılmak suretiyle katkı payı alacak miktarlarının hesabı gerekir.
 
 ## Yargıtay 8. HD 2016/2152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210551300)
 
 Dava konusu mesken yönünden hükmedilen alacağa ilişkin temyiz itirazları incelendiğinde; Mahkemece, davacının ailesi tarafından 15.000,00 TL'lik katkının davalı tarafın kabülünden hareketle yapılan hesaplama sonucunda oranlama yapılarak davanın kısmen kabulüne karar verilmiş ise de; eldeki bilgi ve belgeler ile çelişmektedir. Davaya konu mesken yönünden; davalı, 14.12.2011 tarihli dilekçesi ile davacının aile bireylerinin ev yapımında 15.000,00 TL ve daha üzerinde para ve ziynet katkıları bulunduğunu ancak bu borcun geri ödemesini yaptığını savunmuş olup, davacı tanıklarından Kaymak Çiftçi 20.03.2012 tarihli celsedeki beyanında savunmayı doğrular şekilde evin alımında altı adet düz normal bilezik borç verdiğini, bunun yarısını aldığı ancak kalan yarısını alamadığını belirtmiştir. Hükme esas alınan 21.11.2013 tarihli hesap bilirkişi raporunda bu husus gözetilmeksizin 15.000,00 TL'nin tamamı katkı kabul edilerek davacı kadın lehine katkı payı alacağına hükmedilmesi hatalıdır.
 Mahkemece yapılması gereken davalı tarafın geri ödediği sabit olan üç adet düz normal bilezik değerinin toplam katkı miktarından düşümü yapılarak katkı miktarının tespiti ile katkının taşınmazın edinme tarihi itibariyle değerine oranlanması suretiyle davacının katkı oranının belirlenmesi ve bu oranının taşınmazın dava tarihindeki değeri olan 201.862,00 TL ile çarpılması suretiyle elde edilecek katkı payı alacağına hükmedilmesi gerekirken değişik düşünce ve gerekçelerle mesken yönünden yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2016/353 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/156020400)
+
 Dinlenen davacı tanık beyanlarına göre; davacının zaman zaman bahçe işlerine ve evlere temizliğe giderek gelir sağladığı, bu suretle dava konusu taşınmazların edinilmesine az da olsa katkısının olduğu anlaşılmaktadır. Katkı payı talep edilen taşınmazın edinildiği dönemde tarafların her ikisi de çalıştığına göre, davacının bir miktar katkı payının olduğunun kabulü gerekir. Bu amaçla, yukarda açıklanan yasal düzenleme ve ilkeler uyarınca, davacının bir katkı oranı belirlenemediği takdirde, TMK 4. ve TBK 50. madde uyarınca, hukuk ve hakkaniyete uygun bir katkı oranı takdir edilerek, yukarda açıklanan yasal düzenleme ve ilkeler uyarınca hesaplanacak davacının katkı payı alacağına hükmedilmesi gerekirken; yazılı şekilde davanın reddine karar verilmesi doğru olmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2016/82 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202465600)
+
 Hâl böyle olunca, katkı payı alacağı ile ilgili olarak Aile Mahkemesinde bakılmak üzere görevsizlik kararı verilmesi gerekirken, bu hususun göz ardı edilmesi doğru değildir. Davacının bu yöne ilişkin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 11.01.2016 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2015/22886 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402651600)
 
 Dava konusu taşınmazın alımında, davalı eşe miras kalan taşınmazın satışı ile elde edilen para ile alınan ... plakalı 1981 model ... ... marka kamyonetin 20.12.1989 tarihinde satışından elde edilen paranın kullanıldığı toplanan delillerle sabit olmuştur. Bu nedenle, mahkemece bu aracın satıldığı tarihteki rayiç (sürüm) satış bedeli ile taşınmazın (dükkanın) alındığı tarihteki rayiç (sürüm) alım bedelinin belirlenerek karşılaştırılması, araç bedeli taşınmaz bedelini karşıladığı takdirde davanın şimdiki gibi reddine, taşınmazın alım bedeli aracın satış bedelinden fazla olduğu takdirde ise, aradaki fark yönünden davacının katkı payının bulunduğu gözetilerek, yukarıda açıklanan ilke ve esaslar dikkate alınarak gerektiğinde bilirkişi incelemesi de yaptırılarak gerçekleşecek sonuca göre yukarda açıklanan ilke uyarınca varsa davacının katkı payı oranının belirlenmesi ve dava konusu edilen taşınmazın dava tarihindeki rayiç (sürüm) değerine bu oran uygulanmak suretiyle katkı payı alacağı miktarının tespiti gerekir.
 Mahkemece açıklanan yönde inceleme yapılıp gerçekleşecek sonuca göre karar verilmesi gerekirken delillerin takdirinde hataya düşülerek yazılı şekilde karar verilmesi isabetsiz olmuş, bozmayı gerektirmiştir.

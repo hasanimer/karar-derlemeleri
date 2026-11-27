@@ -22,14 +22,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2013/16403 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438811400)
+
 Ancak dava konusu taşınmazın 25.09.2007 tarihinde edinilen ...... 2184 ada 3 parselde 4 numaralı mesken olduğu, yine davalı adına 30.10.2006 tarihinde 105.000 TL'ye alınan ancak bakiye borçlarının ödenememesi sebebiyle 56.500 TL miktarındaki ödeme geri alınarak 20.07.2007 tarihinde satılan 2182 ada 1 parseldeki 32 numaralı meskenin satışı nedeni ile elde edilen miktarın ise 4 numaralı meskenin alımında kullanıldığı, bu nedenle ortada iki adet dava konusu mesken bulunmadığı, önceki meskenin ancak en son alınan 4 numaralı meskenle ilgili yapılacak hesaplamada dikkate alınabileceği gözetilmemiş, iki mesken üzerinden ayrı ayrı hesaplama yapılmış, iki ayrı katılma alacağı bulunmuştur. Bu durumda gerek Mahkemenin takdiri, gerekse hüküm kurulurken dikkate alınan bilirkişi raporları usul ve yasaya aykırıdır.
 Mahkemece, önceki meskenin alımı ile ilgili tüm deliller değerlendirilerek davacının ziynetlerinin de bozdurularak kullanıldığı, yine davalının annesine ait bir kısım ziynetlerin de bozdurulduğu, bakiye kısmın ise edinilmiş mal niteliğindeki çalışarak elde edilen gelirlerle karşılandığı kabul edilerek önceki mesken satışından gelen 56.500 TL'nin ne kadarının tarafların kişisel malı ne kadarının edinilmiş mal olduğunun tesbit edilmesi, daha sonra bu miktarların dava konusu 4 numaralı meskenin alım değeri karşısında oransal karşılıklarının değer artış payı ve katılma alacağının tesbitinde dikkate alınması, önceki meskenin satışından gelen miktar dışında 4 numaralı dava konusu mesken alımında kullanılan bakiye değerin de yine edinilmiş mal olduğu gözetilerek karar…
 
 ## Yargıtay 8. HD 2013/15423 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/441708300)
+
 TMK.nun 231.maddesine göre artık değer, eklenmeden ve denkleştirmeden elde edilen miktarlar da dahil olmak üzere, her eşin edinilmiş mallarının toplam değerinden bu mallara ilişkin borçlar çıkarıldıktan sonra kalan miktardır. Davacı eş, hesaplama sonucu ortaya çıkan artık değerin yarısı oranında hak sahibi olur. TMK.nun 222.maddesinin son fıkrasına göre bir eşin bütün malları aksi ispat edilinceye kadar edinilmiş mal kabul edilir. Davaya konu aracın mevcut trafik tescil kayıtlarıyla, evlilik birliği içinde eşler arasında edinilmiş mallara katılma rejiminin geçerli bulunduğu dönemde edinildiği sabittir. Uyuşmazlık konusu aracın sürüm değerinin tespiti ile davacının katılma alacağının belirlenmesi usul ve yasaya uygun bulunmuştur.
 
 ## Yargıtay 8. HD 2013/14709 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433423900)
 
 Taraflar 20.03.1997 tarihinde evlenmişler, 2009 yılında açılan boşanma davasının kabulüne ilişkin kararın 06.08.2010 tarihinde kesinleşmesi üzerine boşanmışlardır. Eşler arasındaki mal rejimi TMK'nun 225/son maddesi gereğince boşanma davasının açıldığı tarihte sona ermiştir. Bu durum karşısında evlilik tarihinden 4721 sayılı TMK'nun yürürlüğe girdiği 01.01.2002 tarihine kadar 743 sayılı TKM'nin 170. maddesi uyarınca eşler arasında mal ayrılığı rejimi, 01.01.2002 tarihinden boşanma davasının açıldığı 12.03.2009 tarihine kadar 4722 sayılı Kanun'un 10. maddesi gereğince, eşler başka bir mal rejimini seçtiklerini ileri sürmediklerinden TMK'nun 202. maddesine göre edinilmiş mallara katılma rejimi geçerlidir.Dosya kapsamı ve dava dilekçesindeki açıklamalara göre; davacı vekillerinin talebi taşınmaz üzerindeki katılma alacağı isteğine ilişkindir.
 Bu tür davalarda, eklenecek değerlerden (TMK.m.229) ve denkleştirmeden (TMK.m.230) elde edilen miktarlar da dahil olmak üzere edinilmiş malın (TMK.m.219) toplam değerinden mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK.m.231) yarısı üzerinden (TMK.m.236/1) tarafların kazanılmış hakları da dikkate alınarak katılma alacağının hesaplanması gereklidir. Ancak bu hesaplamanın yapılabilmesi için öncelikle davaya konu malın edinilmiş mal olması gereklidir. TMK'nun 222. maddesine göre bir eşin bütün malları aksi ispat edilinceye kadar edinilmiş mal sayılır. Madde metninden açıkça anlaşılacağı üzere karinenin aksinin ispatı mümkündür. Somut olayda dava konusu 2094 ada 10 parsel 13 numaralı bağımsız bölüm ferdileşme yoluyla 26.06.2003 tarihinde davalı adına tescil edilmiş ise de, dosya içinde bulunan kooperatif belgelerinden kooperatif üyeliğinin 25.06.1998 tarihinde davalının babası ... adına oluştuğu, kooperatifin 1999, 2000, 2001 ve 2002 tarihli genel kurullarına davalının babasının katıldığı, 22.08.2002 tarihinde kooperatif üyeliğinin babası tarafından davalıya devredildiği ve davalının genel kurula ilk defa, kura çekiminin yapıldığı 2003 yılında katıldığı saptanmıştır.
@@ -37,132 +43,194 @@ Dinlenen tanıklardan kooperatifin tasfiyesine kadar başkanlığını yapan ...
 
 ## Yargıtay 8. HD 2013/14459 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435212600)
+
 Taraflar 08.07.2000 tarihinde evlenmiş, 02.09.2009 tarihinde açılan boşanma davasının kabulüne ilişkin hükmün 23.07.2010 tarihinde kesinleşmesiyle, mal rejimi sona ermiştir (TMK.nun 225/2.m.). Sözleşmeyle başka mal rejimi seçilmediğinden, eşler arasında 01.01.2002 tarihine kadar mal ayrılığı (TKM.nin 170.m.), bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar ise, yasal edinilmiş mallara katılma rejimi geçerlidir (TMK.nun 202, 4722 s.Y.nın 10.m.). Dava konusu yapılan İzmir Karabağlar 6462 ada 24 parseldeki 2 numaralı mesken 10.6.2002 tarihinde 1/2 paylı olarak davacı ... ve davalı ... adına satın alınarak tapuya tescil edilmiş, 07.01.2008 tarihinde ... adına kayıtlı 1/2 payı da tapuda davalı ...’e satış göstererek devretmiştir.Davada davacı, ... adına 10.06.2002 tarihinde satın alınan pay yönünden mal rejiminin tasfiyesinden kaynaklanan alacak (katkı payı ve katılma alacağı) istemektedir.
 Ayrıca davacı 07.01.2008 tarihinde davalı ...’e devrettiği 1/2 pay bakımından da bağışlamadan rücu hukuki sebebine dayanarak talepte bulunmaktadır.Mahkemece, taraflar adına 1/2 paylı edinilen taşınmazın ilk kez ... adına tapuya kaydedilen 1/2 payla ilgili katkı payı talebi bakımından, bilirkişiden alınan 04.09.2012 ve 23.11.2012 havale tarihli raporlar dikkate alınmış, davacının 31.05.2002 tarihinde aldığı kıdem tazminatının dava konusu payın alımında kullanıldığı, kıdem tazminatının davacının bu tazminat yönünden ilk çalışmaya başladığı 05.08.1995 tarihi ile 01.01.2002 tarihi arasına isabet eden kısmının davacının katkı payı hesabında dikkate alınması gerektiği kanaati ile yapılan hesaplama sonunda bulunan % 26,72 katkı oranının karar tarihine en yakın 16.03.2012 tarihi itibarıyla belirlenen yarı paya ait piyasa sürüm değerinin çarpımı ile tesbit edilen 16.032 TL değer artış payına hükmedilmiştir.Dava konusu 1/2 payın 10.06.2002 tarihinde taraflar arasında edinilmiş mallara katılma rejiminin geçerli olduğu dönemde alınması, davalı ... tarafından da kişisel mal olduğu ispat edilememesi sebebiyle edinilmiş mal olarak tasfiyeye gireceği açıktır. Bu husus Mahkemenin de kabulündedir.
 Ancak davacı ...’e ödenen kıdem tazminatının da yine edinilmiş mallara katılma rejimi geçerli iken 31.05.2002 tarihinde ödenmesi sebebiyle edinilmiş mal olarak dikkate alınması gerektiği gözden kaçırılmıştır. Kıdem tazminatının 01.01.2002 tarihi öncesine isabet eden miktarının dikkate alınarak hesaplama yapılması usul ve yasaya uygun değildir. Dava konusu meskenle ilgili davacı lehine değer artış payı alacağı bulunmamaktadır. Ancak burada dava konusu meskenin edinilmiş mal olması sebebiyle davacının gelir elde etmese bile yasadan kaynaklanan artık değerin yarısı oranında katılma alacağı hesaplanması gerekmektedir. Bu yapılırken davacının alımda kullanıldığını kabul ettiği, ... ’in kişisel malı niteliğindeki ziynetlerin satışından elde edilen 2.400 TL. değerindeki miktar, meskenin alım tarihindeki değerine oranlanarak bulunacak miktar ... ’in kişisel malı olarak değerlendirilmelidir. Bu kısım çıktıktan sonra kalan bölümün…
 
 ## Yargıtay 8. HD 2013/14187 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435357600)
+
 Taraflar 27.07.1991 tarihinde evlenmişler, 28.11.2006 tarihinde açılan boşanma davasının kabulü ve hükmün 16.06.2010 tarihinde kesinleşmesiyle boşanmışlardır. 4721 sayılı TMK.nun 179.maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümler uygulanacaktır. Taraflar arasında başka bir mal rejiminin seçildiği ileri sürülmediğine göre, evlenme tarihinden 4721 sayılı TMK.nun yürürlüğe girdiği 01.01.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar TMK.nun 202.maddesine göre yasal edinilmiş mallara katılma rejimine tabi olacaklardır. Eşler arasındaki mal rejimi TMK.nun 225/2.maddesine göre boşanma davasının açıldığı 16.06.2010 tarihi itibariyle sona ermiştir. TMK.nun 222.maddesi son fıkrası hükmüne göre, bir eşin bütün malları aksi ispat edilinceye kadar edinilmiş mal olarak kabul edileceği tartışmasızdır.Dava konusu 203 ada 38 sayılı parselde kain B/20 Blok 6 nolu bağımsız bölüm edinilmiş mallara katılma rejiminin geçerli bulunduğu 25.06.2002 tarihinde satış suretiyle ½ paylı olarak davacı ve davalı adına tapuya tescil edilmiştir.
 4721 sayılı TMK.nun 222.maddesi son fıkrası hükmü uyarınca, bir eşin 01.01.2002 tarihinden sonra edindiği bütün malları aksi ispat edilinceye kadar edinilmiş mal olarak kabul edilecektir. Dosya kapsamı itibariyle, davacı yan dava konusu taşınmazın edinilmesinde kişisel malının veya kişisel mal yerine geçen değerin kullanıldığı iddiasında bulunmamıştır. Nizalı taşınmazın edinildiği tarihte zaten ½ paylı olarak taraflar adına tapuya tescil edildiğine ve az yukarıda açıklandığı üzere taşınmazın edinilmesinde davacı yanın kişisel mal kullanıldığı iddiası bulunmadığına göre, davacı artık davalının adına tescil edilen ½ paya yönelik katılma alacağı istemesi doğru değildir. Çünkü edinilmiş mal olduğu karinesinin aksi kanıtlanmamıştır. Edinilmiş malla alınan 1/2'şer paylı mal edinilmiş mal alma niteliğini koruyacaktır.
 
 ## Yargıtay 8. HD 2013/13240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475588200)
+
 06.08.2002 tarihinde taraflar arasında edinilmiş mallara katılma alacağı geçerli iken edinilen dava konusu 5 numaralı mesken bakımından davacı ...’in kişisel malvarlığı ile katkı iddiası olmadığına, katkısının edinilmiş mal niteliğindeki çalışarak elde ettiği gelir ile yapıldığı iddia edildiğine göre davacı lehine katılma alacağı hesabı yapılması gerekirken davacının katkısının 1/2 oranda olduğundan hareketle hatalı şekilde katkı payı alacağı hesabı yapılan bilirkişi raporuna değer verilmesi doğru değildir. Yine ........ sigorta sözleşmesinden dolayı davalı ...’ın iştirak talebi boşanma dava tarihinden sonra olması, ödemenin de yine boşanma dava tarihinden sonra 22.06.2006 tarihinde yapılması sebebiyle tasfiyede dikkate alınması da doğru olmamıştır. Ancak her iki bakımdan da davalı-karşı davacı ...’ın temyiz itirazı olmadığına, davacı-karşı davalı ...’in lehine dikkate alınan bu husus sebebiyle aleyhe bozma da yapılamayacağına göre bu hususlar eleştirilmekle yetinilmiş, olup bu nedenle bu yönde bozma sevk edilmemiştir.
 
 ## Yargıtay 8. HD 2013/11675 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435438300)
 
 Taşınmaza yönelik olarak 01.01.2002 tarihinden sonra yapılan ödeme bulunması halinde yapılan ödemelerin TMK'nun 202 ve davamı maddeleri gereğince edinilmiş mallardan karşılandığı kabul edilmeli, ödemelerin ağırlıklı olarak 01.01.2002 tarihinden önce yapıldığının belirlenmesi halinde, edinilmiş maldan kişisel mala yapılan katkı nedeniyle TMK'nun 227 ve devamı maddelerine göre davacının değer artış payı, ödemelerin ağırlıklı olarak 01.01.2002 tarihinden sonra yapılmış olması halinde taşınmazın edinilmiş mal olduğu ve davacının talebinin katılma alacağına yönelik bulunduğu kabul edilerek TMK'nun 219, 229, 230, 231, 232, 235 ve 236. maddeleri gereğince davacının katılma alacağı belirlenerek sonucuna göre karar vermek gerekirken yazılı şekilde eksik araştırma ve inceleme ile karar verilmiş olması usul ve yasaya uygun değildir.
 
 ## Yargıtay 8. HD 2013/10821 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438539500)
+
 TMK.nun 179.maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümler uygulanır. Taraflar arasında başka bir mal rejimi seçildiği ileri sürülmediğine göre, evlenme tarihinden 01.01.2002 tarihine kadar 743 sayılı MK.nun 170. maddesi uyarınca “mal ayrılığı”, bu tarihten eşler arasında edinilmiş mallara katılma rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar ise 4721 sayılı TMK.nun 202. maddesi hükmü uyarınca yasal “edinilmiş mallara katılma” rejimi geçerlidir.
 
 ## Yargıtay 8. HD 2013/10341 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435579300)
 
 219\. maddesi kapsamında edinilmiş mal olduğunun kabulü ve uyuşmazlığın bu rejim kuralları gereğince yani 4721 sayılı TMK hükümleri uyarınca çözüme kavuşturulması gerekir. Bir eşin bütün malları aksi ispat edilinceye kadar edinilmiş mal kabul edilir (TMK. m.222/3).
 
 ## Yargıtay 8. HD 2013/9958 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/439500900)
+
 Eşlerden biri, diğerine ait malın edinilmesine, iyileştirilmesine veya korunmasına hiç ya da uygun bir karşılık almaksızın katkıda bulunmuş ise, tasfiye sırasında bu malda ortaya çıkan değer artışı için katkısı oranında alacak hakkına sahip olur (TMK.m.227). Eşlerden birine ait edinilmiş mallar üzerinde, diğer eşin mülkiyet veya diğer bir ayni hak talebi söz konusu değildir. Yani katılma rejiminde; eşlere tanınan hak, ayni bir hak olmayıp, şahsi bir haktır. Sadece mal rejimi sona erdiğinde, eşlerin edinilmiş mallara ilişkin artık değerler üzerinde karşılıklı alacak hakkı vardır (TMK.236.m ).
 
 ## Yargıtay 8. HD 2013/9715 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437814800)
 
 Uyuşmazlık konusu 1900 parselde bulunan 6 nolu bağımsız bölüm dosya arasında bulunan tapu kaydına göre, 28.08.2002 tarihinde davalı koca tarafından satış yoluyla edinildiğinden TMK'nun 219. maddesi gereğince edinilmiş mal olduğunun kabulü gerekir. Kural olarak, edinilmiş mallara katılma rejiminin geçerli olduğu dönemde edinilen taşınmazdan kaynaklanan katılma alacağı bakımından davacının çalışıp çalışmamasının, ya da herhangi bir gelire sahip olup olmamasının sonuca bir etkisi bulunmamaktadır. Davalı vekili cevap dilekçesinde, her ne kadar ... plakalı aracın 2001 yılında alındığını ve bunun 04.04.2003 yılında yapılan satışından elde edilen paranın evin alımına katkı yaptığını bildirmiş ise de, söz konusu aracın dosya arasında bulunan trafik kaydına göre 19.04.2002 tarihinde alındığı ve TMK'nun 219. maddesi gereğince edinilmiş mal olduğu konusunda duraksamamak gerekir. Davacının araca yönelik bir isteği bulunmamaktadır. Aracın satışından elde edilen para da aynı maddenin 2. fıkrasının 5. bendi gereğince edinilmiş malın yerine geçen değer olarak kabul edilmektedir.
 Kaldı ki, araç taşınmazın satın aldığı 28.08.2002 tarihinden sonra 04.04.2003 tarihinde üçüncü kişiye satılmış olup bu paranın evin iyileştirilmesine ya da edinilmiş maldan kaynaklanan borçların ödenmesine harcandığı konusunda herhangi bir savunmada söz konusu olmadığından bu paranın eve harcandığına olanak bulunmamaktadır. TMK'nun 6 ve 221/1. maddeleri gereğince herkes iddia ve savunmasını kanıtlamakla yükümlüdür.
 
 ## Yargıtay 8. HD 2013/9598 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437318800)
+
 Dava konusu 288 ada 8 parselin edinilmesinden sonra ( arsa + ev) yapılan iyileştirme ve eklentilerin yapım tarihlerinin taraflara açıklatılması, bu kapsamda iddia ve savunma kapsamında toplanan ve toplanacak tüm delillerin birlikte değerlendirilerek yapım tarihlerinin denetime olanak verecek şekilde belirlenmeye çalışılması, uyuşmazlığın yapım tarihleri 01.01.2002'den önce olanlar bakımından 743 sayılı TKM, sonra olan bakmından ise 4721 sayılı TMK hükümlerine göre çözümlenmesi gerektiğinin gözetilmesi, 01.01.2002 tarihinden önce yapılan iyileştirme ve eklenti var ise bunlar bakımından az yukarıda açıklandığı üzere davacının katkı payının hesaplanması, 01.01.2002 tarihinden sonra yapılan iyileştirme ve eklentiler bakımından 4721 sayılı TMK.nun 222.maddesi son fıkrası hükmü uyarınca, bir eşin 01.01.2002 tarihinden sonra edindiği bütün mallarının aksi ispat edilinceye kadar edinilmiş mal olarak kabul edileceği, aksini ispat eden eşin, iddiasını ispatlamakla yükümlü olacağına, bu kapsamda TMK'nın 230. maddesi ile " Bir eşin kişisel mallara ilişkin borçları edinilmiş mallardan veya edinilmiş mallara ilişkin borçları kişisel mallarından ödenmiş ise, tasfiye sırasında denkleştirme
 istenebilir. Her borç, ilişkin bulunduğu mal kesimini yükümlülük altına sokar. Hangi kesime ait olduğu anlaşılamayan borç, edinilmiş mallara ilişkin sayılır. Bir mal kesiminden diğer kesimdeki malın edinilmesine, iyileştirilmesine veya korunmasına katkıda bulunulmuşsa, değer artması veya azalması durumunda denkleştirme, katkı oranına ve malın tasfiye zamanındaki değerine veya mal daha önce elden çıkarılmışsa hakkaniyete göre yapılır."hükmü kabul edildiğine göre, iddia ve savunma (kişisel mal-boşanma dava tarihinden sonra yapılma vs) kapsamında araştırma yapılarak, bu yöndeki isteğin değerlendirilmesi gerekmektedir. Dava konusu 288 ada 8 parsel sayılı taşınmaza ilişkin davacının isteği bakımından yukarıda belirtildiği şekilde araştırma ve inceleme yapılması gerekirken yazılı şekilde karar verilmiş olması isabetsiz olmuştur.
 
 ## Yargıtay 8. HD 2013/9172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/436836100)
+
 Dava konusu ... plaka sayılı araç taraflar arasında edinilmiş mallara katılma rejiminin geçerli olduğu 08.04.2005 tarihinde satın alınmış ve davalı adına tescil edilmiştir. Taşınmaz edinme tarihi itibariyle edinilmiş mal olup bunun aksinin TMK 222/1 maddesi ereğince davalı tarafından ispatı gereklidir. Davalı taraf aracın 10.06.2004 tarihinde annesi tarafından kendisine alınan ... plaka sayılı araç ve yine annesi tarafından kendisine verilen 3.000 TL ile edinildiğini savunmuş ise de, bu aracın edinme tarihinde davalının annesi tarafından davacıya para verildiğine dair belge dosyada bulunmadığı gibi, söz konusu araç dava konusu ... plaka sayılı aracın satın alınmasından 1 ay sonra edinilmiş olup ... plaka sayılı aracın satım bedelinin kullanıldığına dair delil de bulunmamaktadır. Yine davalının annesinin dava konusu aracın edinilmesi sırasında davacıya nakit 3.000 TL verdiğine dair soyut iddia dışında da herhangi bir delil bulunmayıp davalı aksini ispatlamadığından aracın tamamı edinilmiş maldır.
 
 ## Yargıtay 8. HD 2013/9166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/436493000)
+
 Niza konusu taşınmaz ve araca yönelik dava, TMK.nun 219, 231 ve 236.maddelerine göre açılmış katılma alacağına ilişkindir. TMK.nun 219.maddesinde edinilmiş mal, evlilik birliğinin devamı süresince karşılığı verilerek elde edilen malvarlığı değerleri olarak tanımlanmıştır. TMK.nun 222.maddesinde ise bir eşin tüm mallarının aksi ispat edilene kadar edinilmiş mal kabul edileceği hüküm altına alınmıştır. Dosya kapsamı, nüfus kayıtları ve dinlenen tanık beyanlarına göre dava konusu taşınmazın davalıya babası tarafından bağışlandığı anlaşılmaktadır. TMK.nun 220.maddesine göre karşılıksız kazanma yoluyla elde edilen malvarlığı değerleri kişisel mal grubuna dahildir. Dava konusu taşınmaza ilişkin davanın bu nedenle reddi gerekirken, yazılı şekilde kabulü doğru değildir.
 
 ## Yargıtay 8. HD 2013/8684 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434932100)
 
 Bundan ayrı; 1969 ada 4 parsel yönünden davanın yazılı gerekçelerle reddine karar verilmiş ise de ulaşılan sonuç dosya kapsamına uygun bulunmamaktadır. Dava konusu bu parsel, evlilik birliği içerisinde ve yasal edinilmiş mallara katılma rejiminin geçerli olduğu 28.10.2005 tarihinde satın alınarak davalı adına tescil edilmiştir. Dava konusu taşınmazın edinilmiş mal niteliğinde olduğu anlaşıldığına göre edinilmiş malın (TMK'nun 219.m.) değerinden varsa bu mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK'nun 231.m.) yarısının (TMK'nun 236/1.m.) davacının katılma alacağı hakkı olduğu hesaplanarak hüküm kurulması gerekmektedir. TMK'nun 219.maddesinin 1. fıkrası hükmüne göre her eşin bu mal rejiminin devamı süresince karşılığını vererek elde ettiği mal varlığı değerleri edinilmiş maldır. TMK'nun 222/1. maddesine göre ise, belirli bir malın eşlerden birine ait olduğunu iddia eden kimse, iddiasını ispatla yükümlüdür.
 1969 ada 4 parsel, evlilik birliği içerisinde satın alındığına göre, davacı kişisel mal varlığı ile taşınmazın edinilmesine katkıda bulunduğunu (TMK'nun 227 ) kanıtlayamamış olsa bile yukarıda açıklanan ilke ve esaslar çerçevesinde yasal olarak 1/2 oranında katılma alacağı (TMK.nun 236/1.m) hakkına sahiptir. Mahkemece görev hususu ile yukarıda açıklanan bu nedenler göz önünde tutulmadan yazılı gerekçelerle davanın reddine karar verilmiş olması doğru ve yerinde olmamıştır.
 
 ## Yargıtay 8. HD 2013/8553 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434446600)
+
 Öte yandan davacının evlilik birliği edinilen ve 2002 yılından sonra edinildiği hususunda uyuşmazlık bulunmayan ev eşyalarının kişisel mal olduğu ispatlanmadığından TMK'nun 222 maddesine göre edinilmiş mal olarak kabulü doğrudur. Davacının eşyalar için isteği yukarıda açıklandığı üzere 4721 sayılı TMK'nun 202 ve devam maddeleri gereğince kabul edilen yasal mal rejimi olan edinilmiş mallara katılma rejiminden…
 
 ## Yargıtay 8. HD 2013/8160 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437826100)
+
 Uyuşmazlık konusu 19026 sayılı parselde bulunan 30/262 pay 30.09.2002 tarihinde tapuda yapılan satış ve devirle davalı ... tarafından satın alındığı dosyada bulunan tapu kaydı ve resmi akit tablosu ile sabittir. Taşınmaz payı edinilmiş mallara katılma rejiminin geçerli olduğu dönemde davalı tarafından satın alındığından edinilmiş mal olarak kabulünde bir isabetsizlik bulunmamaktadır. Bu konuda mahkeme ile Daire arasında bir görüş uyuşmazlığı da yoktur.
 
 ## Yargıtay 8. HD 2013/7997 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437710400)
 
 Kural olarak, evlilik süresi içerisinde 01.08.2005 tarihinde satın alınan ... plakalı araç edinilmiş mallara katılma rejiminin geçerli olduğu dönemde edinildiğinden, TMK'nun 219/1-1.bendi gereğince, edinilmiş mal sayılır. Söz konusu aracın 16.08.2007 tarihinde (boşanma dava tarihinden önce) üçüncü kişiye devir edilmesi nedeniyle bundan kaynaklanan katılma alacağı aynı maddenin 1. fıkrası yoluyla 5. bendi uyarınca edinilmiş malların yerine geçen değer olarak kabul edilir. Davacı tarafından 29.12.2006 tarihinde ...’tan çekilen 15.000,00 TL krediden 11.265,24 TL kredinin 01.08.2005 tarihinde satın alınan aracın kredi borcunu kapatmak için kullanıldığı dosya kapsamında bulunan alım tarihlerine denk düşen ... Bankasının 29.12.2006 tarihli havale ödeme dekontuyla doğrulanmaktadır. Araç makbuzu da aracı satan ...şirketi tarafından gönderilmiştir. Görüldüğü gibi kredinin çekildiği gün söz konusu paranın da havale edildiğinin ve bunun da hayatın olağan akışına uygun düştüğünün kabulü gerekir. ...’tan çekilen 15.000,00 TL kredinin geri kalan 4.750,00 TL ise, davalının babasına davacı tarafından havale edildiği 29.12.2006 havale tarihli Yapı ve Kredi Bankası dekontu ile belirlenmiştir.
 Bu miktarın gerekçesi yukarıda açıklandığı gibidir.
 
 ## Yargıtay 8. HD 2013/7824 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437270600)
+
 TMK'nun 222/3. maddesi hükmüne göre, bir eşin bütün malları, aksi ispat edilinceye kadar edinilmiş mal kabul edilir. Dosya içeriğine, toplanan delillere ve tapu kaydına göre, davalı, tasfiyeye konu taşınmazın kişisel malı olduğunu kanıtlayamadığından, anılan kanun maddesi uyarınca edinilmiş mal olduğunun kabulü ile davacı eşin katılma alacağı hakkı olduğunun kabulü gerekir. Bu tür mal rejiminde davacının çalışıp, çalışmamasının sonuca bir etkisi yoktur.
 
 ## Yargıtay 8. HD 2013/7775 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437193200)
 
 TMK'nun 219. maddesinin 1. fıkrasına göre “ edinilmiş mal, her eşin bu mal rejiminin devamı süresince karşılığını vererek elde ettiği mal varlığı değerleri” olarak tanımlanmıştır. Bu tanımda TMK'nun 174/1 ve 2. fıkralardaki tanımlardan farklıdır. Hangi tür malların edinilmiş mal sayılacağı TMK'nun 219. maddesinde tek tek belirtilmiştir. Yine TMK'nun artık değer başlığını taşıyan 231. maddesinde; “ artık değer, eklemeden ve denkleştirmeden elde edilen miktarlar da dahil olmak üzere her eşin edinilmiş mallarının toplam değerinden bu mallara ilişkin borçlar çıkarıldıktan sonra kalan miktar” olarak nitelendirilmiştir. Görüldüğü gibi maddede yer alan “..bu mallara ilişkin borçlar..” tümcesiyle edinilmiş mallardan düşürülecek değerlerin (paraların) edinilmiş maldan kaynaklanan borç olması gerektiği biçiminde anlaşılmalıdır. Maddi ve manevi tazminatın bu kapsamda değerlendirilecek ve nitelendirilecek bir borç olmadığı açıktır. Bu konuda duraksamamak gerekir. Kaldı ki, TMK'nun 220/1. fıkrasının 3 nolu bendine göre manevi tazminat alacakları kişisel mallar arasında sayılmıştır.
 
 ## Yargıtay 8. HD 2013/7713 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/436939800)
+
 TMK.nun 179.maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümler uygulanır. Taraflar arasında başka bir mal rejimi seçildiği ileri sürülmediğine göre, evlenme tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar TMK.nun 202.maddesine göre yasal edinilmiş mallara katılma rejimine tabidirler. Eşler arasındaki mal rejimi TMK.nun 225/2.maddesine göre boşanma davasının açıldığı tarih itibariyle sona ermiştir. TMK.nun 222/3.fıkrası hükmüne göre bir eşin evlilik birliği içinde edindiği tüm malları, aksi kanıtlanıncaya kadar edinilmiş mal kabul edilir. Belirtilen maddede getirilen edinilmiş mal karinesine rağmen bu malın edinilmiş mal olmayıp, kişisel mal olduğunu iddia eden eş bunu kanıtlamakla yükümlüdür. Somut olayda, davacı taraf dava konusu taşınmazın edinilmiş mal olduğunu, kredi ödemelerinin evlilik birliği içinde tamamlandığını açıklayarak alacak isteğinde bulunmuştur. Davalı ise kredi ile…
 
 ## Yargıtay 8. HD 2013/7543 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437060600)
 
 Davalı-karşı davacı ...'ün hükmün reddedilen bölümüne ilişkin diğer temyiz itirazlarına gelince; dava konusu ... plakalı 2008 model araç, 02.01.2008 tarihinde satın alma yoluyla taraflar adına yarı yarıya tescilli bulunmaktadır. Dava dilekçesinin içeriği, taraflar arasındaki evlenme tarihi, aracın edinme tarihi ve dosya kapsamına göre davacının talebi, 4721 sayılı TMK.nun 202 ve devamı maddeleri gereğince kabul edilen yasal mal rejimi olan edinilmiş mallara katılma rejiminden kaynaklanan ve TMK.nun 231, 232, 235 ve 236. maddeleri gereğince açılan katılma alacağı isteğine ilişkindir. Birleşen davada davalı-davacının iradesinin davacı-davalının 1/2 araç hissesinin alımına katkıda bulunmak olmayıp BK.234. ve devamı maddelerine göre bağışta bulunma iradesi olduğu anlaşılmakta ise de, bağış iradesinin mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar olduğunun kabulü gerekir. Boşanma davası açılıp mal rejimi sona erdikten sonra bağış iradesinin devam ettiği söylenemez, bu tarihten sonraki edinilmiş mallara ilişkin borçların, o malın değerinden düşülmesi gerekir.
 
 ## Yargıtay 8. HD 2013/7397 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435731100)
+
 Taraflar 28.10.1985 tarihinde evlendiklerine, 21.04.2009 tarihinde açılan boşanma davasının kabulü ve hükmün 02.03.2011 tarihinde kesinleşmesiyle evlilik birliğinin son bulduğuna, TMK'nun 179.maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümlerin uygulanacağına, taraflar arasında başka bir mal rejiminin seçildiği ileri sürülmediğine göre, evlenme tarihinden 4721 sayılı TMK'nun yürürlüğe girdiği 01.01.2002 tarihine kadar mal ayrılığı, bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar TMK'nun 202.maddesine göre yasal edinilmiş mallara katılma rejimine tabi olacaklarına, eşler arasındaki mal rejimi TMK'nun 225/2.maddesine göre boşanma davasının açıldığı tarih itibariyle sona erdiğine, dava konusu taşınmazın edinilmiş mallara katılma rejiminin geçerli bulunduğu 04.05.2005 tarihinde satış suretiyle davalı eş adına tapuya tescil edildiğine göre, taraf arasındaki uyuşmazlığın, 4721 sayılı TMK'nun 202 ve devamı madderi kapsamında çözümlenmesi gerekmektedir. Bu kapsamda, TMK'nun 222.maddesi son fıkrası hükmü uyarınca, bir eşin bütün malları aksi ispat edilinceye kadar edinilmiş mal olarak kabul edilecektir.
 
 ## Yargıtay 8. HD 2013/6824 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434064500)
 
 Toplanan deliller ve tüm dosya kapsamından; taraflar ... ile ... 16.09.2000 tarihinde evlenmişler, 16.01.2004 tarihinde açılan dava sonunda boşanmışlar, karar 10.11.2005 tarihinde kesinleşmiştir. Eşler, başka mal rejimini seçmediklerinden 01.01.2002 tarihine kadar 743 sayılı MK'nun 170. maddesine göre mal ayrılığı, bu tarihten mal rejiminin sona erdiği 16.01.2004 tarihine kadar ise, edinilmiş mallara katılma rejimi (TMK.202, 4722 s.Yürürlük K.m.10/1) geçerlidir. 3246 ada 4 parsel üzerindeki binada bulunan dava konusu zemin kat 4 nolu asma katlı dükkan niteliğindeki bağımsız bölüm taraflar arasında edinilmiş mallara katılma rejiminin geçerli olduğu 19.02.2002 tarihinde davalı ... adına satın alma yoluyla edinilmiş ve 09.10.2002 tarihinde boşanma dava tarihinde önce davalı ... tarafından tapuda diğer davalı ...’a satılmıştır.
 
 ## Yargıtay 8. HD 2013/6531 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77756600)
+
 Savunma iddiasını kanıtlamadığını ve dava konusu dükkanların kişise malla alındığını, başka delillerle desteklemediğine ve ispatlayamadığına göre söz konusu dükkanların edinilmiş mal olduğunun kabulü gerekir. Bu durum karşısında TMK'nın 202,218,219,222,229,230,231,232,235 ve 236. maddeleri gereğince iddia ve savunma doğrultusunda taraf delilleri değerlendirilerek işin esası hakkında olumlu veya olumsuz bir karar verilmesi gerekirken, tanıkların soyut beyanlarına dayalı olarak söz konusu taşınmazların kişisel malla alındığı kabul edilerek davanın reddine karar verilmiş bulunması usul ve kanuna aykırıdır.
 
 ## Yargıtay 8. HD 2013/6405 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433929800)
 
 Davaya konu, davalının, Vakıfbank ... Şubesi'ndeki 00158018010015071 nolu hesabı edinilmiş mallara katılma rejimi geçerli olduğu 23.07.2008 tarihinde açılmıştır. Banka hesabındaki paranın 5.596,35TL'sinin 16.07.2008 tarihinde davalıya TEK Vakfı tarafından ödendiği, 55.108,36 TL'sinin 22.07.2008 tarihinde yine TEK tarafından davalıya kıdem tazminatı olarak hesaba yatırıldığı tarafların ve mahkemenin kabulündedir. Davacı vekilinin temyiz itirazı, TMK'nun 228. maddesi uyarınca belirtilen meblağların peşin sermayeye çevrilmiş değerinin bilirkişiye hesaplattırılmadan Mahkemece resen hesaplanması ve bunun yanında 55.400 TL'nin davalının ablasına ait olduğunun ispatlanamadığı noktasındadır…
 
 ## Yargıtay 8. HD 2013/4970 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437155800)
+
 Dava konusu ... plaka sayılı araç taraflar arasında edinilmiş mallara katılma rejiminin geçerli olduğu 16.03.2004 tarihinde satın alınmış ve davalı adına tescil edilmiştir. Aracın edinme tarihi itibariyle edinilmiş mal olup bunun aksinin TMK 222/1 maddesi gereğince davalı tarafından ispatı gerekli iken, davalı tarafça kişisel mal iddiası ispatlanamamıştır. Aynı maddenin 3.fıkrasına göre araç edinilmiş mal olduğundan davalı vekilinin esasa yönelik temyiz itirazları yerinde değildir.
 
 ## Yargıtay 8. HD 2013/3776 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435840900)
 
 Toplanan deliller ve tüm dosya kapsamından, tarafların 24.10.2002 tarihinde evlendikleri, 23.03.2007 tarihinde açılan boşanma davasının kabulü ve hükmün 15.04.2010 tarihinde kesinleşmesiyle evlilik birliğinin son bulduğu görülmüştür. TMK'nun 179. maddesine göre mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümlerin uygulanacağına, taraflar arasında başka bir mal rejiminin seçildiği ileri sürülmediğine göre, evlenme tarihinden mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar TMK'nun 202. maddesine göre yasal edinilmiş mallara katılma rejimine tabi olacaklardır. Dava konusu 4591 ada 5 parsel sayılı taşınmazdaki nizalı bölüm edinilmiş mallara katılma rejiminin geçerli bulunduğu 02.05.2006 tarihinde satış suretiyle davalı eş adına tescil edilmiş ve sonrasında 06.09.2006 tarihinde yine tapu kaydında satış hukuksal sebebi gösterilerek, davalıdan önceki malik olan ...'e verilen vekaletname ile eşi dava dışı ...'e devredilmiştir. ... tarafından da satış suretiyle 16.04.2007 tarihinde dava dışı ...'e temlik edilmiştir.
 Mahkemece, yazılı gerekçeyle davanın reddine karar verilmiş ise de; davacı vekili, dava dilekçesinde "her türlü yasal kanıt" demekle aynı zamanda yemin deliline de dayandığının kabulü gerekir. Bu kapsamda, öncelikle davacı tarafa iddia ve savunma kapsamında yemin teklif hakkını kullanmak isteyip istemediğinin sorulması, kullanmak istediği takdirde usulüne uygun bir biçimde davalının HMK'nun 227 ve devamı maddeleri gereğince davet edilmesi ve HMK'nun yemine ilişkin hükümleri dikkate alınarak yöntemine uygun bir biçimde davalının yeminli beyanının alınması ve elde edilecek sonuca göre ve tüm deliller birlikte değerlendirilerek bir karar verilmesi gerekirken, Mahkemece bu gerekliliğe uyulmadan karar verilmesi isabetli görülmemiştir.
 
 ## Yargıtay 8. HD 2013/356 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242802000)
+
 TMK'nun 202 ve devamı maddeleri gereğince kabul edilen yasal mal rejimi olan edinilmiş mallara katılma rejiminden kaynaklanan ve TMK'nun 231, 232, 235 ve 236. maddeleri gereğince açılan katılma alacağı ve genel hükümlere dayanan ziynet alacağı isteğine ilişkindir.
 
 ## Yargıtay 8. HD 2013/355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242800400)
 
 Toplanan deliller, dava dilekçesinin içeriği ve dosya kapsamı ve taşınmaza ilişkin ... ile yapılan sözleşme tarihine göre dava konusu taşınmaz taraflar arasında edinilmiş mallar katılma rejiminin geçerli olduğu dönemde edinilmiş olup dava, 4721 sayılı TMK.nun 202 ve devam maddeleri gereğince kabul edilen yasal mal rejimi olan edinilmiş mallara katılma rejiminden kaynaklanan ve TMK.nun 231, 232, 235 ve 236. maddeleri gereğince açılan katılma alacağı isteğine ilişkindir.
 
 ## Yargıtay 8. HD 2013/13 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241865900)
+
 Toplanan deliller ve dosya kapsamından; dava katılma alacağına ilişkindir. Yanlar arasındaki uyuşmazlık, dava konusu otomobilin edinilmiş mal olup-olmadığının belirlenmesi, edinilmiş mal olduğunun saptanması halinde davalının edinilmiş malının (TMK'nun 219.m.) değerinden varsa bu mala ilişkin borçlar çıkarıldıktan sonra kalan artık değerin (TMK'nun 231.m) yarısının (TMK'nun 236/1.m) davacının katılma alacağı hakkı olduğu hesaplanarak hüküm kurulması gerekir. TMK'nun 219. maddesi 1. fıkrası hükmüne göre her eşin mal rejiminin devamı süresince karşılığını vererek elde ettiği malvarlığı değerleri edinilmiş maldır. TMK'nun 222/1. maddesine göre ise, belirli bir malın eşlerden birine ait olduğunu iddia eden kimse, iddiasını ispatla yükümlüdür. Mahkemece, yazılı gerekçelerle davanın kabulüne karar verilmiş ise de; yapılan araştırma ve inceleme yetersiz olduğu gibi ulaşılan sonuç dosya kapsamına uygun bulunmamaktadır.
 
 ## Yargıtay 3. HD 2012/21904 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523238800)
 
 Buna göre 4721 sayılı Türk Medeni Kanununun yürürlüğe girdiği 01.01.2002 tarihinden önce evlenen eşler sözleşme ile aralarında herhangi bir mal rejimini seçmedikleri takdirde, haklarında 743 sayılı Türk Kanunu Medenisi 170. maddesine göre ''Mal ayrılığı rejimi'', bu tarihten sonra ise TMK'nun 202.maddesi gereğince ''Edinilmiş mallara katılma'' rejimi geçerlidir.TMK'nun 218. maddesinde ''Edinilmiş mallara katılma rejimi, edinilmiş mallar ile eşlerden her birinin kişisel malların kapsar. Edinilmiş mal, her eşin bu mal rejiminin devamı süresince karşılığını vererek elde ettiği mal varlığı değerleridir.(TMK. md.219/1).
 
 ## Yargıtay 8. HD 2012/13068 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988918200)
+
 Bankalardaki hesaplarda bulunan paralar TMK.nun 220. maddesi uyarınca miras bırakanın kişisel malıdır. Ancak aynı Kanunun 219/2. fıkrasının 4 nolu bendi gereğince kişisel malların gelirleri de edinilmiş mal sayıldığından bankalardaki hesaplarda bulunan paraların 01.01.2002 tarihinden sonraki faiz gelirleri de edinilmiş mal sayılır. Bu bakımdan davalı tarafın bu yöne ilişkin temyiz itirazları yerinde değildir.
 
 ## Yargıtay 8. HD 2012/13054 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988914800)
 
 Taşınmazın davalı adına satın alındığı tarih dikkate alındığında edinilmiş mal olduğu tartışmasızdır. Ancak, eşlerden biri, diğerine ait malın edinilmesine, iyileştirilmesine veya korunmasına, hiç, ya da uygun bir karşılık almaksızın katkıda bulunmuş ise, tasfiye sırasında bu malda ortaya çıkan değer artışı için katkısı oranında alacak hakkına sahip olur (TMK.m.227). Eşlerden birine ait edinilmiş mallar üzerinde, diğer eşin mülkiyet veya diğer bir ayni hak talebi söz konusu değildir. Yani, katılma rejiminde; eşlere tanınan hak, ayni bir hak olmayıp, şahsi bir haktır. Sadece mal rejimi sona erdiğinde, eşlerin edinilmiş mallara ilişkin artık değerler üzerinde karşılıklı alacak hakkı mevcuttur (TMK.236.m ).
