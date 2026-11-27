@@ -14,6 +14,8 @@ Kesin eşleşme kuralı (hepsi birlikte):
   * mahkeme türü + daire + karar yılı/numarası birebir aynı ve bu anahtarda TEK aday vardır,
   * künyede esas numarası ya da tarih yazıyorsa onlar da aynıdır,
   * alıntı metni tam metinde büyük ölçüde (5'li sözcük dizileri) geçer.
+  * metnin başlığındaki karar no künyeyle tutar (farklıysa: metin_numarasi_farkli; BAM başlığında karar no yok/
+    karartılmışsa: metinde_karar_no_yok; ikisinde de bağlantı yok).
 Yalnız metin benzerliği ya da yalnız karar numarası kesin eşleşme için yetmez. Birden çok aday varsa
 bağlantı eklenmez. Hiçbir kimlik ya da adres üretilmez; yalnız veri setinde bulunan kimlik kullanılır.
 """
@@ -246,6 +248,7 @@ class Eslestirici:
                 "ORDER BY document_id").fetchall():
             self.aday_tablo[(src, b, (y, n))].append((doc, court, esas, karar, tarih))
         self.kume_onbellek = {}
+        self.baslik_onbellek = {}
 
     def adaylar(self, k):
         return self.aday_tablo.get(k, [])
@@ -268,6 +271,7 @@ class Eslestirici:
                         iste.add((k[0], x[0]))
         if len(self.kume_onbellek) > 60000:
             self.kume_onbellek.clear()
+            self.baslik_onbellek.clear()
         if not iste:
             return
         self.con.execute("CREATE OR REPLACE TEMP TABLE iste(source VARCHAR, document_id VARCHAR)")
@@ -275,12 +279,31 @@ class Eslestirici:
         for src, doc, text in self.con.execute(
                 "SELECT m.source, m.document_id, m.text FROM metin m JOIN iste USING (source, document_id)").fetchall():
             self.kume_onbellek[(src, doc)] = dizi_kumesi(sozcukler(text))
+            self.baslik_onbellek[(src, doc)] = baslik_metni(text)
 
     def kume(self, src, doc):
         if (src, doc) not in self.kume_onbellek:
             row = self.con.execute("SELECT text FROM metin WHERE source=? AND document_id=?", [src, doc]).fetchone()
             self.kume_onbellek[(src, doc)] = dizi_kumesi(sozcukler(row[0] if row else ""))
+            self.baslik_onbellek[(src, doc)] = baslik_metni(row[0] if row else "")
         return self.kume_onbellek[(src, doc)]
+
+    def baslik_yukle(self, iste):
+        """{(kaynak, belge)} başlıklarını tek sorguda önbelleğe alır."""
+        iste = sorted(x for x in iste if x not in self.baslik_onbellek)
+        if not iste:
+            return
+        self.con.execute("CREATE OR REPLACE TEMP TABLE bi(source VARCHAR, document_id VARCHAR)")
+        self.con.executemany("INSERT INTO bi VALUES (?,?)", iste)
+        for src, doc, text in self.con.execute(
+                "SELECT m.source, m.document_id, m.text FROM metin m JOIN bi USING (source, document_id)").fetchall():
+            self.baslik_onbellek[(src, doc)] = baslik_metni(text)
+
+    def baslik(self, src, doc):
+        if (src, doc) not in self.baslik_onbellek:
+            row = self.con.execute("SELECT text FROM metin WHERE source=? AND document_id=?", [src, doc]).fetchone()
+            self.baslik_onbellek[(src, doc)] = baslik_metni(row[0] if row else "")
+        return self.baslik_onbellek[(src, doc)]
 
     def eslestir(self, r, simdi):
         o = {"id": r["id"], "match_status": None, "match_confidence": None, "match_method": None,
@@ -318,6 +341,10 @@ class Eslestirici:
         oran, sozcuk = kapsama(metin, self.kume(src, doc[0]))
         o["match_confidence"] = round(oran, 3)
         if oran >= ESIK_KESIN and sozcuk >= EN_AZ_SOZCUK:
+            bneden = baslik_denetle(r, self.baslik(src, doc[0]))
+            if bneden:
+                o.update(match_status="olasi", neden=bneden, aday_document_ids=[doc[0]])
+                return o
             o.update(match_status="kesin", bedesten_document_id=doc[0], bedesten_url=URL_BICIMI.format(doc[0]),
                      verified_at=simdi, neden=None, aday_document_ids=[],
                      dogrulanan={"daire": doc[1], "esas": doc[2] or None, "karar": doc[3],
@@ -467,6 +494,46 @@ _SIRA = {1: "birinci", 2: "ikinci", 3: "ucuncu", 4: "dorduncu", 5: "besinci", 6:
          14: "ondorduncu", 15: "onbesinci", 16: "onaltinci", 17: "onyedinci"}
 
 
+# ----------------------------------------------------------------------------- metin başlığı denetimi
+# hukuk prosu kuralı (2026-11-27): bağlantı yalnız metnin başlığındaki karar numarası künyeyle tutarsa verilir.
+#   * başlıkta açık bir karar no var ve künyedeki değil  -> 'olasi', neden metin_numarasi_farkli (tüm mahkemeler)
+#   * BAM metninin başlığında karar no yok/karartılmış    -> 'olasi', neden metinde_karar_no_yok
+BASLIK_BOY = 1500
+_BASLIK_KN = re.compile(r"karar\s*(?:no|n|numarasi|sayisi)\b\s*[:.]?\s*(\d{4})\s*/\s*0*(\d+)(?!\d)")
+_BASLIK_EK = re.compile(r"(?<!\d)(\d{4})\s*/\s*(?:\d+\s*-\s*)?0*(\d+)\s*e(?:sas)?\b\s*\.?\s*[,;-]?\s*(\d{4})\s*/\s*0*(\d+)(?!\d)"
+                        r"\s*k(?:arar)?\b")
+_BASLIK_K = re.compile(r"(?<![\d/])(\d{4})\s*/\s*0*(\d+)(?!\d)\s*k\s*\.")   # '2010/12156 K.' (esas yazımı bozuk olsa da)
+
+
+def baslik_metni(text):
+    """Tam metnin ilk BASLIK_BOY karakteri; etiketsiz, katlanmış, tek boşluklu (örnek kapısıyla aynı bölge)."""
+    import html as _html
+    duz = " ".join(_html.unescape(re.sub(r"<[^>]+>", " ", str(text or ""))).split())
+    return " ".join(katla(duz[:BASLIK_BOY]).split())
+
+
+def baslik_karar_nolari(bas, tur):
+    """Başlıkta açıkça yazan karar numaraları {(yıl, no)}. BAM'de 'incelenen karar' bölümünden öncesi."""
+    on = bas.split("incelenen")[0] if tur == "bam" else bas
+    k = {(int(m[1]), int(m[2])) for m in _BASLIK_KN.finditer(on)}
+    k |= {(int(m[3]), int(m[4])) for m in _BASLIK_EK.finditer(on)}
+    k |= {(int(m[1]), int(m[2])) for m in _BASLIK_K.finditer(on)}
+    return on, k
+
+
+def baslik_denetle(r, bas):
+    """None: başlıktaki karar no künyeyle tutuyor (ya da Yargıtay/Danıştay'da çelişki yok); aksi hâlde neden."""
+    kn = karar_no(r.get("karar"))
+    if not kn:
+        return "metinde_karar_no_yok"
+    on, acik = baslik_karar_nolari(bas, r.get("tur"))
+    if acik:
+        return None if kn in acik else "metin_numarasi_farkli"
+    if re.search(rf"(?<!\d){kn[0]}\s*/\s*0*{kn[1]}(?!\d)", on):
+        return None
+    return "metinde_karar_no_yok" if r.get("tur") == "bam" else None
+
+
 def daire_basta(r, bas):
     b = birim_derleme(r) or ""
     m = re.fullmatch(r"(?:(.+)-bam-)?(\d+)(hd|cd|d)", b)
@@ -596,14 +663,14 @@ def _tarih_bicimleri(iso):
     return {f"{d}.{m}.{y}", f"{d}/{m}/{y}", f"{d}-{m}-{y}", f"{int(d)}.{int(m)}.{y}"}
 
 
-def ornek_kapisi(no, satirlar, by_id, canli, yerel_bilgi):
+def ornek_kapisi(no, satirlar, by_id, canli, yerel_bilgi, tohum=None):
     """20 rastgele bağlantının Bedesten'den canlı kontrolü (önbelleksiz). Daire, karar no, esas, tarih
     künyeyle (künyede yoksa yerel aday satırıyla) ve alıntı resmî metinle karşılaştırılır.
     BAM metninde numaralar '...' ile karartılmışsa: alıntı örtüşmesi >= 0.95 ve mahkeme/daire
     çelişmiyorsa geçer, 'numara_karartilmis' olarak işaretlenir. -> (geçti mi, rapor)"""
     import html as _html
     adaylar = [s for s in satirlar if s["match_status"] == "kesin" and s["match_method"] == YONTEM_MRFG]
-    secim = sorted(random.Random(1000 + no).sample(adaylar, min(20, len(adaylar))), key=lambda s: s["id"])
+    secim = sorted(random.Random(1000 + no if tohum is None else tohum).sample(adaylar, min(20, len(adaylar))), key=lambda s: s["id"])
     rapor, gecti = [], True
     for s in secim:
         r = by_id[s["id"]]
@@ -686,6 +753,146 @@ def _gece_yarisina_kadar_bekle():
     time.sleep(max(60, (yarin - simdi).total_seconds()))
 
 
+YB_YOL = "veri/bedesten/yeniden_baglanan.jsonl"
+
+
+def yeniden_baglananlar():
+    """id -> kayıt: metin başlığı künyeyle çelişen eşleşmelerin yerine, başlığı künyeyle tutan TEK mrfg kimliği."""
+    p = ROOT / YB_YOL
+    d = {}
+    if p.exists():
+        for line in p.open(encoding="utf-8"):
+            x = json.loads(line)
+            d[x["id"]] = x
+    return d
+
+
+def _parti_satirlari(m, no, kayitlar, boy):
+    yol = ROOT / BB.ESLESME_DIZIN / f"parti-{no:02d}.jsonl"
+    if yol.exists():
+        return [json.loads(x) for x in yol.open(encoding="utf-8")], True
+    parca = kayitlar[(no - 1) * boy: no * boy]
+    m.metinleri_yukle(parca)
+    return [depo_satiri(r, m.eslestir(r, None)) for r in parca], False
+
+
+def yeniden_ara(a):
+    """metin_numarasi_farkli kayıtları için doğru kararı veri setinde arar. Bağlanma koşulu (hepsi): aynı birimde,
+    metin başlığında açık karar no künyedekiyle aynı, daire başlıkta tutuyor, künyedeki esas/tarih metinde geçiyor,
+    alıntı örtüşmesi >= ESIK_KESIN ve bu koşulları sağlayan TEK belge var. Sonuç: veri/bedesten/yeniden_baglanan.jsonl"""
+    m = Eslestirici(a.db, threads=a.threads, mem=a.bellek)
+    kayitlar = list(derleme_kayitlari())
+    by_id = {r["id"]: r for r in kayitlar}
+    hedef = []
+    for no in a.partiler:
+        satirlar, _ = _parti_satirlari(m, no, kayitlar, a.parti_boyu)
+        for s in satirlar:
+            if s["neden"] == "metin_numarasi_farkli" or (s["id"] in yeniden_baglananlar()):
+                r = by_id[s["id"]]
+                k, _ = kayit_anahtari(r)
+                eski = [x[0] for x in m.adaylar(k)]
+                hedef.append((r, k, eski, no))
+    print(f"aranacak kayıt: {len(hedef)}")
+    sonuc, rapor = [], []
+    veri = Path(a.veri)
+    for src in sorted({k[0] for _, k, _, _ in hedef}):
+        hh = [(r["id"], k[1], rf"(^|[^0-9]){k[2][0]}\s*/\s*0*{k[2][1]}([^0-9]|$)") for r, k, _, _ in hedef if k[0] == src]
+        m.con.execute("CREATE OR REPLACE TEMP TABLE h(id VARCHAR, birim VARCHAR, pat VARCHAR)")
+        m.con.executemany("INSERT INTO h VALUES (?,?,?)", hh)
+        files = "[" + ",".join("'" + str(x).replace("\\", "/") + "'" for x in sorted((veri / "data" / src).glob("*.parquet"))) + "]"
+        bul = defaultdict(list)
+        for hid, doc, text in m.con.execute(f"""
+                SELECT h.id, p.document_id, p.text FROM h
+                JOIN karar k ON k.source = '{src}' AND k.birim = h.birim
+                JOIN read_parquet({files}) p ON p.source = k.source AND p.document_id = k.document_id
+                WHERE regexp_matches(substr(p.text, 1, {BASLIK_BOY * 2}), h.pat)""").fetchall():
+            bul[hid].append((doc, text))
+        for r, k, eski, no in hedef:
+            if k[0] != src:
+                continue
+            uygun = []
+            for doc, text in bul.get(r["id"], []):
+                if doc in eski:
+                    continue
+                bas = baslik_metni(text)
+                _, acik = baslik_karar_nolari(bas, r.get("tur"))
+                duz = " ".join(re.sub(r"<[^>]+>", " ", text).split())
+                ok = k[2] in acik and daire_basta(r, bas)
+                e = karar_no(r.get("esas"))
+                if ok and e:
+                    ok = re.search(rf"(?<!\d){e[0]}\s*/\s*0*{e[1]}(?!\d)", bas) is not None
+                if ok and r.get("tarih") and re.fullmatch(r"\d{4}-\d{2}-\d{2}", r["tarih"]):
+                    ok = any(b in duz for b in _tarih_bicimleri(r["tarih"]))
+                oran, sozcuk = kapsama(r.get("metin") or "", dizi_kumesi(sozcukler(text)))
+                if ok and oran >= ESIK_KESIN and sozcuk >= EN_AZ_SOZCUK:
+                    uygun.append((doc, round(oran, 3)))
+            rapor.append({"id": r["id"], "parti": no, "kunye": r["kunye"], "eski": eski,
+                          "metinde_aranan_bulunan": len(bul.get(r["id"], [])), "uygun": uygun})
+            if len(uygun) == 1:
+                sonuc.append({"id": r["id"], "eski_document_id": eski[0] if len(eski) == 1 else None,
+                              "yeni_document_id": uygun[0][0], "kural": "baslik_karar_no+daire+tek_aday+alinti",
+                              "source_dataset": KAYNAK})
+    (ROOT / YB_YOL).write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in sonuc), encoding="utf-8")
+    Path(a.durum, "yeniden_ara_rapor.json").write_text(json.dumps(rapor, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"yeniden bağlanacak: {len(sonuc)} / {len(hedef)}; rapor {Path(a.durum, 'yeniden_ara_rapor.json')}")
+
+
+def baslik_duzelt(a):
+    """Yazılmış partilerde 'kesin' mrfg_id bağlantılarına başlık kuralını uygular, yeniden bağlananları işler,
+    md/dizin/veri dosyalarını günceller ve bütünlüğü denetler. Commit/push yapmaz."""
+    m = Eslestirici(a.db, threads=a.threads, mem=a.bellek)
+    by_id = {r["id"]: r for r in derleme_kayitlari()}
+    yb = yeniden_baglananlar()
+    say = Counter()
+    t0 = time.time()
+    iste = set()
+    for no in a.partiler:
+        for x in (ROOT / BB.ESLESME_DIZIN / f"parti-{no:02d}.jsonl").open(encoding="utf-8"):
+            s = json.loads(x)
+            if s["match_status"] == "kesin" and s["match_method"] == YONTEM_MRFG:
+                k, _ = kayit_anahtari(by_id[s["id"]])
+                iste.add((k[0], s["bedesten_document_id"]))
+    m.baslik_yukle(iste)
+    print(f"başlıklar yüklendi: {len(iste):,} ({time.time() - t0:.0f} sn)", flush=True)
+    for no in a.partiler:
+        yol = ROOT / BB.ESLESME_DIZIN / f"parti-{no:02d}.jsonl"
+        satirlar = [json.loads(x) for x in yol.open(encoding="utf-8")]
+        for s in satirlar:
+            x = yb.get(s["id"])
+            if s["match_status"] == "kesin" and s["match_method"] == YONTEM_MRFG and not (
+                    x and s["bedesten_document_id"] == x["yeni_document_id"]):
+                r = by_id[s["id"]]
+                k, _ = kayit_anahtari(r)
+                neden = baslik_denetle(r, m.baslik(k[0], s["bedesten_document_id"]))
+                if neden:
+                    say[f"{neden}{'_ornek' if s.get('bedesten_kontrol') else ''}"] += 1
+                    say[f"parti{no:02d}_{neden}"] += 1
+                    s.update(match_status="olasi", match_method=YONTEM, bedesten_document_id=None, bedesten_url=None,
+                             verified_at=None, neden=neden, bedesten_kontrol=None)
+            if x and s["match_status"] == "olasi" and s["neden"] == "metin_numarasi_farkli":
+                s.update(match_status="kesin", match_method=YONTEM_MRFG, bedesten_document_id=x["yeni_document_id"],
+                         bedesten_url=URL_BICIMI.format(x["yeni_document_id"]), verified_at=None, neden=None)
+                say["yeniden_baglandi"] += 1
+                say[f"parti{no:02d}_yeniden_baglandi"] += 1
+        yol.write_text("".join(json.dumps(s, ensure_ascii=False) + "\n" for s in satirlar), encoding="utf-8")
+    print(f"partiler yazıldı ({time.time() - t0:.0f} sn)", flush=True)
+    BB.uygula(str(ROOT), sessiz=True)
+    print(f"uygulandı ({time.time() - t0:.0f} sn)", flush=True)
+    hatalar = BB.denetle(str(ROOT))
+    if hatalar:
+        raise SystemExit("bütünlük denetimi başarısız: " + "; ".join(hatalar[:5]))
+    ck_yol = Path(a.durum) / "checkpoint.json"
+    ck = json.loads(ck_yol.read_text())
+    for no in a.partiler:
+        yol = ROOT / BB.ESLESME_DIZIN / f"parti-{no:02d}.jsonl"
+        n = sum(1 for x in yol.open(encoding="utf-8") if json.loads(x)["match_status"] == "kesin")
+        if str(no) in ck.get("partiler", {}):
+            ck["partiler"][str(no)].update(baglanti=n, baglantisiz=ck["partiler"][str(no)]["islenen"] - n)
+    ilerleme_yaz(list(derleme_kayitlari()), ck)
+    ck_yol.write_text(json.dumps(ck, ensure_ascii=False, indent=1))
+    print(json.dumps(dict(sorted(say.items())), ensure_ascii=False, indent=1))
+
+
 def calistir(a):
     durum = Path(a.durum)
     durum.mkdir(parents=True, exist_ok=True)
@@ -740,10 +947,16 @@ def calistir(a):
                          bedesten_document_id=x["bedesten_document_id"], bedesten_url=x["bedesten_url"],
                          verified_at=x["checked_at"], source_dataset=x["source"], neden=None,
                          bedesten_kontrol="elle")
+        yb = yeniden_baglananlar()
+        for s in satirlar:
+            x = yb.get(s["id"])
+            if x and s["match_status"] == "olasi" and s["neden"] == "metin_numarasi_farkli":
+                s.update(match_status="kesin", match_method=YONTEM_MRFG, bedesten_document_id=x["yeni_document_id"],
+                         bedesten_url=URL_BICIMI.format(x["yeni_document_id"]), verified_at=None, neden=None)
         st = Counter(s["match_status"] for s in satirlar)
         print(f"  yerel: {dict(st)} ({time.time() - t0:.0f} sn)", flush=True)
         # push öncesi canlı örnek kapısı (20 rastgele bağlantı, önbelleksiz, >= 16 sn arayla)
-        gecti, rapor = ornek_kapisi(no, satirlar, by_id, canli, m.yerel_bilgi)
+        gecti, rapor = ornek_kapisi(no, satirlar, by_id, canli, m.yerel_bilgi, tohum=a.ornek_tohum)
         (durum / f"kapi-parti-{no:02d}.json").write_text(json.dumps(rapor, ensure_ascii=False, indent=1), encoding="utf-8")
         sonuc = {k["id"]: k for k in rapor}
         for s in satirlar:
@@ -778,8 +991,13 @@ def calistir(a):
         ilerleme_yaz(kayitlar, ck)
         _git(["add", "-A", "md", "dizin", "veri", "araclar/bedesten_eslestir.py", "araclar/bedesten_bagla.py", "yapi.py"])
         if _git(["diff", "--cached", "--quiet"], check=False).returncode:
+            nd = Counter(s["neden"] for s in satirlar)
+            yeni = sum(1 for s in satirlar if s["id"] in yb and s["match_status"] == "kesin")
             mesaj = (f"Bedesten: batch {no:02d} — {len(parca):,} processed, {bagli:,} linked (mrfg_id), "
-                     f"{kontrol} Bedesten-checked")
+                     f"{kontrol} Bedesten-checked\n\n"
+                     f"Başlık kuralı: {nd.get('metin_numarasi_farkli', 0)} linksiz (metin_numarasi_farkli), "
+                     f"{nd.get('metinde_karar_no_yok', 0)} linksiz (metinde_karar_no_yok, BAM), "
+                     f"{yeni} yeniden bağlandı (başlığı künyeyle tutan tek mrfg id).")
             _git(["commit", "-q", "-m", mesaj])
             ck["son_commit"] = _git(["log", "-1", "--format=%h %s"]).stdout.strip()
             print(f"  commit: {ck['son_commit']}", flush=True)
@@ -788,6 +1006,8 @@ def calistir(a):
                                                   "commit": ck.get("son_commit")}
         if no not in ck["tamamlanan"]:
             ck["tamamlanan"].append(no)
+        if str(ck.get("durduruldu") or "").startswith(f"parti {no:02d} "):
+            ck.pop("durduruldu")
         if no in beklet or ck["push_bekleyen"]:
             if no not in ck["push_bekleyen"]:
                 ck["push_bekleyen"].append(no)
@@ -809,6 +1029,7 @@ def push_onayla(a):
     if _push(Path(a.durum), ck):
         ck["onaylanan"] = sorted(set(ck.get("onaylanan", [])) | set(ck.get("push_bekleyen", [])))
         ck["push_bekleyen"] = []
+        ck["onay_bekleyen_commitler"] = []
         ck_yol.write_text(json.dumps(ck, ensure_ascii=False, indent=1))
         print("push tamam:", ck["son_push"])
     else:
@@ -835,9 +1056,16 @@ def main():
     q.add_argument("--tavan-dolunca", choices=["bekle", "olasi"], default="bekle")
     q.add_argument("--push-beklet", type=int, nargs="*", help="bu partilerin push'unu onaya kadar beklet")
     q.add_argument("--push-yok", action="store_true")
+    q.add_argument("--ornek-tohum", type=int, help="örnek kapısı için farklı rastgele tohum (yeniden işlemede)")
     q = sub.add_parser("push-onayla"); q.add_argument("--durum", required=True)
+    q = sub.add_parser("yeniden-ara"); ortak(q); q.add_argument("--veri", required=True)
+    q.add_argument("--durum", required=True); q.add_argument("--partiler", type=int, nargs="+", required=True)
+    q.add_argument("--parti-boyu", type=int, default=10000)
+    q = sub.add_parser("baslik-duzelt"); ortak(q); q.add_argument("--durum", required=True)
+    q.add_argument("--partiler", type=int, nargs="+", required=True)
     a = p.parse_args()
-    {"indeks": indeks, "aday": aday, "calistir": calistir, "push-onayla": push_onayla}[a.komut](a)
+    {"indeks": indeks, "aday": aday, "calistir": calistir, "push-onayla": push_onayla,
+     "yeniden-ara": yeniden_ara, "baslik-duzelt": baslik_duzelt}[a.komut](a)
 
 
 if __name__ == "__main__":

@@ -15,6 +15,15 @@ Hepsi birlikte aranır: (1) künyede mahkeme türü, daire ve karar yılı/numar
 
 Aday kimlikler yerel bir veri setinden (Hugging Face `mrfg/turkish-court-decisions`, sabit revizyon) bulunur. Veri setinin `document_id` değeri Bedesten belge kimliğiyle aynıdır (Yargıtay, BAM ve Danıştay örnekleriyle sınandı); bağlantılar bu kimlikle eklenir ve tek tek Bedesten'de kontrol edilmez. Veri setinin metni depoya yazılmaz. Her partide push'tan önce rastgele 20 bağlantı Bedesten `getDocumentContent` ile canlı alınır; mahkeme/daire, karar no, esas, tarih ve alıntı karşılaştırılır. Biri bile tutmazsa parti depoya yazılmaz, push edilmez ve bağlantı ekleme durur. BAM metinlerinde numaralar `...` ile karartılmışsa örnek, alıntı örtüşmesi en az 0,95 ve mahkeme çelişmiyorsa geçer ve işaretlenir. Alıntısız künye (`olasi`, `alinti_yok`), veri setinde bulunmayan karar (`eslesmedi`) ve AYM, yabancı, Uyuşmazlık Mahkemesi kararları (`kapsam_disi`) bağlantı almaz.
 
+## Metin başlığı kuralı (hukuk prosu, 27.11.2026)
+
+Bağlantı yalnız eşleşen belgenin metin başlığındaki karar numarası künyeyle tutarsa verilir:
+
+* Başlıkta açıkça yazan karar no künyedekinden farklıysa (tüm mahkemeler) kayıt `olasi`, `neden: metin_numarasi_farkli`; bağlantı yok.
+* BAM metninin başlığında (incelenen karar bölümünden önce) karar no yoksa ya da karartılmışsa kayıt `olasi`, `neden: metinde_karar_no_yok`; bağlantı yok.
+* Çelişkili kayıt için doğru karar veri setinde başka bir kimlikte bulunur, o belgenin başlığındaki daire ve karar no künyeyle birebir tutar, künyedeki esas/tarih metinde geçer, alıntı örtüşür ve bu koşulları sağlayan TEK belge varsa o kimliğe bağlanır (`yeniden_baglanan.jsonl`, `match_method: mrfg_id`, `verified_at: null`).
+* Sınamalar: `python3 test_bedesten.py`.
+
 ## Bağlantı biçimi
 
 `https://mevzuat.adalet.gov.tr/ictihat/{documentId}` UYAP Mevzuat ve İçtihat Programı'nın karar görüntüleme sayfasıdır; sayfa, aynı kimlikle Bedesten `emsal-karar/getDocumentContent` çağırır. Markdown'da künyenin altına `[UYAP – Kararın tam metni](...)` satırı eklenir. Bu satırlar yüzünden `satir` değerleri (sürüme özgüdür) ve parça dosyası boyutları yeniden hesaplanır; parça sınırları değişmez. `yapi.py` bağlantıları bu dizinden okur, yeniden üretimde korur; `--dogrula` gidiş-dönüş karşılaştırmasında bağlantı satırlarını yok sayar, boyut sınırını bağlantısız ölçer.
