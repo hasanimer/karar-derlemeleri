@@ -1,0 +1,16 @@
+# Karar Derlemeleri
+
+> Av. Hakan Dimdik'in derleyip X'te paylaştığı emsal karar derlemelerinin Markdown çevirisi; metinler derleyenin seçtiği alıntılardır, kararın tamamı değildir, kullanmadan önce resmî kaynaktan doğrulayın. Markdown conversion of Turkish case-law compilations by attorney Hakan Dimdik: selected excerpts, not full decisions; verify every decision in the official sources before relying on it.
+
+## Önce okunacaklar
+
+- [Yapay zekâ araçları için kılavuz](https://raw.githubusercontent.com/hasanimer/karar-derlemeleri/main/AGENTS.md)
+- [Derleme ve konu dizini](https://raw.githubusercontent.com/hasanimer/karar-derlemeleri/main/dizin/derlemeler.md)
+- [Bütün konu başlıkları (TSV)](https://raw.githubusercontent.com/hasanimer/karar-derlemeleri/main/dizin/konular.tsv)
+- [Veri kümesi kılavuzu](https://raw.githubusercontent.com/hasanimer/karar-derlemeleri/main/veri/README.md)
+- [Veri kümesi bildirimi](https://raw.githubusercontent.com/hasanimer/karar-derlemeleri/main/veri/manifest.json)
+
+## Derleme dizinleri
+
+- Ham metin: `https://raw.githubusercontent.com/hasanimer/karar-derlemeleri/main/md/<kod>/00-icindekiler.md`
+- İşlenmiş sayfa (göreli bağlantılar mutlak olur): `https://github.com/hasanimer/karar-derlemeleri/blob/main/md/<kod>/00-icindekiler.md`

@@ -1,7 +1,0 @@
-# §1. GENEL HÜKÜMLER
-
-## VI. TARAF SIFATI VE HUSUMET
-
-### Ankara BAM 21. HD 2026/453 K.
-
-Öte yandan, iptali istenen dava konusu kararda, muris ...'ın mirasçıları olmaları nedeniyle miras yoluyla intikal eden hisseler yönünden eşit durumda olan ... ve ...'a hisselerin miras yoluyla devirlerinin kabulüne, davacıya miras yoluyla intikal eden hisselerin devrinin reddine dair kararın hangi neden ve gerekçeyle alındığına dair herhangi bir açıklama yer almadığı gibi, dosyaya da davacıya intikal eden hisselerin devrinin reddinin haklı olduğuna dair herhangi bir delil sunulmadığı anlaşılmakta olup, davalı yanca cevap ve yargılama aşamasındaki beyanlarında davacı ile davalı şirket ve şirket ortakları arasında husumet bulunduğu, davacının şirkete karşı Ankara 39. İş Mahkemesinin 2016/1325 esas sayılı dosyasında Ankara 4. Aile Mahkemesinin 2021/277 esas sayılı dosyasında açılan davaların husumetin varlığına delil teşkil ettiği savunulmuş ise de, Ankara 39. İş Mahkemesinin 2016/1325 esas sayılı dosyasında davacı tarafından davalı şirkete işçilik alacaklarının tahsiline yönelik, Ankara 4. Aile Mahkemesinin 2021/277 esas sayılı dosyasında ise davacı tarafından dava dışı diğer mirasçı ve şirket ortakları olan ... ve ...'a karşı, evlilik birliği içerisinde edinildiği iddia edilen mal varlığına ilişkin katılma alacağının tahsili amacıyla dava açıldığı, söz konusu davaların davacının hak arama hürriyeti kapsamında değerlendirilmesi gerekli olup, davacının paylarının devrinin reddi hususunda haklı sebep teşkil etmeyecektir.

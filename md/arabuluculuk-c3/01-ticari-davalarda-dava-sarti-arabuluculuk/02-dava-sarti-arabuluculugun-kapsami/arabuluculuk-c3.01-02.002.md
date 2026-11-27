@@ -1,0 +1,48 @@
+---
+derleme: "Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 3"
+kod: arabuluculuk-c3
+surum: "Cilt 3"
+derleyen: "Av. Hakan Dimdik (x.com/hakandimdik)"
+konu:
+  - "TİCARİ DAVALARDA DAVA ŞARTI ARABULUCULUK"
+  - "II. DAVA ŞARTI ARABULUCULUĞUN KAPSAMI"
+bolum: "01-02"
+parca: "2/2"
+sira: "123-126"
+karar_sayisi: 4
+onceki: "arabuluculuk-c3.01-02.001.md"
+kaynak_pdf: "https://drive.google.com/file/d/1CUWA7H8phBWtGHVFImENdwgV4Mfx-Z6j/view"
+uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künyelerin çoğunda esas numarası ve tarih yoktur. Kullanmadan önce kararın tam metnini resmî kaynaktan doğrulayın."
+---
+
+# II. DAVA ŞARTI ARABULUCULUĞUN KAPSAMI
+
+> Av. Hakan Dimdik, "Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 3" › TİCARİ DAVALARDA DAVA ŞARTI ARABULUCULUK › II. DAVA ŞARTI ARABULUCULUĞUN KAPSAMI · parça 2/2 · sıra 123-126. Seçme alıntılardır, kararın tamamı değildir; resmî kaynaktan doğrulayın.
+
+## İstanbul BAM 14. HD 2025/1303 K.
+
+İLERİ SÜRÜLEN İSTİNAF SEBEPLERİ Davacı vekili, istinaf başvuru dilekçesinde özetle; ilk derece mahkemesi tarafından her ne kadar arabulucuya başvurulmadığı gerekçesi ile usulden red kararı verilmiş ise de davanın arabuluculuk şartına tabi olmadığını, bu nedenlerle ilk derece mahkemesinin istinafa konu kararının usul ve yasaya aykırı olduğunu belirterek, kararın kaldırılmasına ve davanın kabulüne karar verilmesini istemiştir.
+
+İlk derece mahkemesince yapılan yargılama sonucunda davanın usulden reddine karar verilmiş; bu karara karşı, davacı vekilince, yasal süresi içinde istinaf başvurusunda bulunulmuştur. İstinaf incelemesi, HMK'nın 355. maddesi uyarınca, ileri sürülmüş olan istinaf nedenleriyle ve kamu düzeni yönüyle sınırlı olarak yapılmıştır. Davacı, ... bankası AŞ'nin Niğde Şubesine ait ... seri no'lu, 15.04.2024 keşide tarihli, 600.000,00 TL bedelli ve ... seri nolu, 30.04.2024 keşide tarihli, 600.000 TL bedelli çeklerin meşru hamilinin kendisinin olduğunu, iradesi dışında elinden çıktığını ileri sürerek, çeklerin meşru hamilinin kendisi olduğuna ve çeklerin istirdadına karar verilmesini talep etmiş, mahkemece, zorunlu arabuluculuk yoluna başvurulmadan dava açıldığı gerekçesiyle davanın usulden reddine karar verilmiştir. 7155 sayılı Kanun'un 20. maddesi ile 6102 sayılı TTK'ya eklenen dava şartı olarak arabuluculuk başlıklı 5/A maddesinde; "(1) Bu kanunun 4'üncü maddesinde ve diğer kanunlarda belirtilen ticari davalardan, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır." düzenlemesi getirilmiştir.
+Ticari davalarda arabulucuya başvuru zorunluluğu getiren TTK m.
+
+## İstanbul BAM 45. HD 2023/1068 K.
+
+İSTİNAF SEBEPLERİ Davacı vekili yasal süresi içinde sunmuş olduğu istinaf dilekçesinde özetle; ''gerek TTK m.5/A maddesi gerekse istinaf mahkemelerinin kararlarına bakıldığında, işbu dava her ne kadar Ticaret Mahkemelerinde açılmışsa da, bir alacak davası olmadığından, arabuluculuk dava şartına tabi değildir. Tüm bu sebeplerle istinaf başvurumuzun kabulü ile, Bakırköy 1. Asliye Ticaret Mahkemesi'nin 18.06.2019 tarihli kararının kaldırılmasını talep etmekteyiz.'' şeklinde beyanda bulunmuştur.
+
+DELİLLERİN DEĞERLENDİRMESİ VE GEREKÇE HMK'nın 355. ve 357. maddeleri gereğince istinaf dilekçesinde belirtilen sebeplerle bağlı olarak ve kamu düzenine aykırılık hususlarını da gözetilerek yapılan inceleme neticesinde; Dava, İİK 235. maddesi gereğince açılmış olan sıra cetveline itiraz (kayıt kabul) davasıdır.Mahkemece davanın arabulucuya başvurulmaksızın açıldığı gerekçesi ile dava şartı yokluğundan usulden reddine karar verilmiştir.6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu, 07/06/2012 tarihinde kabul edilerek, 22/06/2012 tarihli Resmi Gazetede yayımlanmıştır. Kanunun amacı ve kapsamı 1. maddede, hukuk uyuşmazlıklarının arabuluculuk yoluyla çözümlenmesinde uygulanacak usul ve esasları düzenlemek olarak ifade edilmiş, 2. fıkrada ise, bu kanunun yabancılık unsuru taşıyanlar da dahil olmak üzere ancak tarafların üzerinde serbestçe tasarruf edebilecekleri iş ve işlemlerden doğan özel hukuk uyuşmazlıklarının çözümlenmesinde uygulanacağı, aile içi şiddet iddiasını içeren uyuşmazlıkların arabuluculuğa elverişli olmadığı belirtilmiştir.
+Yasanın, ikinci bölümünde "Arabuluculuğa İlişkin Temel İlkeler" üst başlığı altında, 3. maddede "İradi olma ve eşitlik" başlığı ile; tarafların, arabuluculuğa başvurmak, süreci devam ettirmek, sonuçlandırmak veya bu süreçten vazgeçmek konusunda serbest oldukları, dava şartı olarak arabuluculuğa ilişkin 18/A madde hükmünün saklı olduğu ifade edilmiştir. Yasanın 18/A bendinde "Dava şartı olarak arabuluculuk" düzenlenmiştir.
+
+## Konya BAM 6. HD 2022/2170 K.
+
+Birleşen meni müdahale ve ecrimisil davası 30/01/2019 tarihinde Asliye hukuk mahkemesine açılmış olup, Kooperatifler Kanunundan kaynaklanan davaların çözüm yerinin Asliye ticaret mahkemesi olduğu gerekçesiyle Konya ... Asliye Hukuk Mahkemesinin ... Esas- ... karar Sayılı görevsizlik kararıyla dosya Asliye Ticaret Mahkemesine gelmiş, Mahkemece arabulucuya başvurulmadığı gerekçesiyle davanın dava şartı yokluğundan usulden reddine karar verilmiştir. Davacı, sonradan 14/08/2020 tarihinde arabuluculuk başvurusu yapmıştır.
+
+Birleşen dava, meni müdahale ile ecrimisil talebine ilişkindir. 6102 Sayılı Türk Ticaret Kanununa 19/12/2018 tarih 30630 sayılı Resmi Gazetede yayımlanarak aynı gün yürürlüğe giren 7155 Sayılı Kanunun 20. maddesi ile eklenen dava şartı olarak arabuluculuk başlıklı TTK nun 5/A maddesi; "(1)Bu Kanunun 4 üncü maddesinde ve diğer kanunlarda belirtilen ticari davalardan, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır." şeklindeki düzenlemesi ile ticari davalarda arabuluculuk dava şartı olarak getirilmiştir. Maddedeki düzenlemeye göre konusu para alacağı ile tazminat taleplerinde arabuluculuya başvuru zorunluluğu bulunmaktadır.
+Asliye Ticaret Mahkemesinin görevine giren davada, davanın daha önceden Asliye Hukuk Mahkemesince açılmasının zorunlu arabulucuya tabi olduğu sonucunu değiştirmeyeceği, ilgili yasal düzenleme gereğince arabuluculuk şartının sonradan giderilebilecek bir eksiklik olmadığı, ticari davalarda arabuluculuk anlaşamama son tutanağının dava dilekçesine eklenmesi gerektiğinin şart koşulduğu, davacının dava açılırken arabuluculuk son tutanağı aslını veya arabulucu tarafından onaylanmış suretine dava dilekçesine eklenmediği anlaşıldığından ecrimisil talebi yönünden ilk derece mahkemesi kararının usul ve yasa ile dosya içeriğine uygundur. (Örn. Dairemizin 26/05/2022 tarih ve 2022/330 E.- 2022/908 K. sayılı…
+
+… kararı) Somut olayda; Birleşen dosya davascısının taleplerinden birisi de meni müdahale talebi olup, meni müdahale, temelini TMK'daki mülkiyet hakkına ilşikin hükümlerden almaktadır. Ecrimisil ise doktrin ve yargı kararlarında bir nevi haksız kullanım tazminatı olarak kabul edilmektedir. Birleşen davada 6100 sayılı HMK’nın 110. maddesiyle düzenleme altına alınan “davaların yığılması” durumu söz konusu olup uyuşmazlık, meni müdahale ve ecrimisil talebi olmak üzere iki ayrı dava içermektedir. Konusu bir miktar paranın ödenmesi veya tazminat davası arabuluculuğa tabi ise de, müdahalenin men'# talebi, TTK 5/A maddesi kapsamında konusu bir miktar paranın ödenmesi olan bir alacak ya da tazminat davası olmadığından arabuluculuğa tabi değildir. Yargıtay ... Hukuk Dairesinin ... E- ... K. Sayılı kararında da belirtildiği gibi, arabuluculuğa tabi olmayan meni müdahale davası ile birlikte açılan ecrimisil davası da arabuluculuk dava şartına tabi olmayacaktır. Bu nedenle mahkemece arabuluculuk dava şartı yokluğu nedeniyle davanın reddine karar verilmesi yerinde olmamıştır.
+
+## İstanbul BAM 16. HD 2021/761 K.
+
+DELİLLERİN TARTIŞILMASI VE GEREKÇE :Davacı yanca açılan dava; tasarıma tecavazün tespiti, önlenmesi, haksız rekabet, maddi tazminat taleplerinden oluşan bir " dava yığılmasıi dır.Mahkemece birlikte görülmesi gereken taleplerden; tazminat talebi tefrik edilerek ve tefrik edilen işbu bu dosya açısından ise dava şartı olan arabuluculuk yoluna başvuru yapılmamış olması nedeni ile davanın usulden reddedildiği anlaşılmaktadır.Davanın 7115 sayılı Yasa'nın 20. maddesi ile TTK’na eklenen 5/A maddesinin yürürlüğe girmesinden sonra açıldığı uyuşmazlık konusu değildir. Bahse konu maddeye göre, TTK’nın 4. maddesinde ve diğer kanunlarda belirtilen ticari davalardan, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır. Somut olayda, 6100 sayılı HMK’nın 110. maddesiyle düzenleme altına alınan “davaların yığılması” durumu söz konusu olup, uyuşmazlık, tasarım hakkına dayalı olarak, tecavüzün tespiti, meni ve tecavüz haksız rekabet nedeniyle maddi tazminat davalarını içermektedir.
+Konusu bir miktar paranın ödenmesi olan tazminat istemlerine ilişkin davalar arabuluculuğa tabi ise de, tasarım hakkına tecavüzün tespiti ve menine, haksız rekabete ilişkin davalar, konusu bir miktar paranın ödenmesi olan bir alacak ya da tazminat davası olmadığından arabuluculuğa tabi değildir.Birlikte açılan ve birlikte görülmesi gereken davaların da sırf bir kısmının arabuluculuk dava şartına tabi olduğu düşüncesi ile tefrikine karar verilmesi de doğru değildir. Bu durumda, arabuluculuğa tabi olmayan bir dava ile birlikte açılan tazminat davası da arabuluculuk dava şartına tabi olmayacağından, tefrik işleminin de hatalı oluşu nedeni ile aksi yöndeki mahkeme gerekçesi isabetli görülmediğinden davacı yanın istinaf başvurusunun kabulüne karar vermek gerekmiştir.

@@ -18,7 +18,7 @@ Sonuç        : UYGUN
 === convert (start-page 13 --split-level 2 --headings 12=0)
 Yazıldı      : md/Kira_Hukuku_Emsal_Kararlar_V7/Kira_Hukuku_Emsal_Kararlar_V7.md (19.9 MB)
 Sayfa aralığı: 13–5668
-Başlıklar    : h1: 11, h2: 88, h3: 166, h4: 15024 | paragraf: 18826 | liste maddesi: 1 | aralıktaki yer imi: 294
+Başlıklar    : h1: 11, h2: 88, h3: 156, h4: 15024 | paragraf: 18814 | liste maddesi: 1 | aralıktaki yer imi: 294
 Başlık eşlemi: {'16b': 1, '13b': 2, '12b': 3, '11.5b': 4} | paragraf kipi: space
 Atılan satır : üst/altbilgi 5656, --drop 0, içindekiler 0, döndürülmüş 0
   üst/altbilgi: 'Sayfa # / #'×5656
@@ -34,3 +34,68 @@ Tek karakter farkı        : 0
 Sonuç: TAM EŞLEŞME — fark oranı %0.0000
 Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
 === exit 0
+=== yapi satirlar
+# ek/<ad>.satirlar.tsv ile sınıflandırmadan önce değiştirilen kaynak satırları
+# satır	kaynakta	yerine
+9531	- Yargıtay 8. HD 2017/15084 K.:	#### Yargıtay 8. HD 2017/15084 K.
+50469	A. ARABULUCULUK ŞARTI SAĞLANMIŞ OLMAZ	### A. ARABULUCULUK ŞARTI SAĞLANMIŞ OLMAZ
+50503	B. ARABULUCULUK ŞARTI SAĞLANMIŞ OLUR	### B. ARABULUCULUK ŞARTI SAĞLANMIŞ OLUR
+=== yapi basliklar
+# kural 0 (ek/<ad>.basliklar.tsv), 6 (rakamsız BÜYÜK HARF -> KONU) ve 7 (hiçbir kalıba uymayan) kararları
+# satır	düzey	sınıf	kural	metin
+679	3	KONU	6	DİĞER KARARLAR
+2305	4	GOVDE	7	TBK'nun 315. maddesi hükmü uyarınca temerrüt nedeniyle açılacak tahliye davasının
+8449	3	KONU	6	DİĞER KARARLAR
+9259	4	GOVDE	7	Kiralayan anahtarı almaktan kaçınırsa, kiracının yapması gereken, mahkemeden bu yolda tevdi mahalli tayinini isteyip, tayin edilecek yere anahtarı teslim etmek ve
+9533	4	GOVDE	7	“Takibe dayanak kira sözleşmesi Hususi Şartlar Bölümü 4. maddesinde kira
+11023	3	KONU	6	DİĞER KARARLAR
+12115	3	GOVDE	7	Takip dayanağı kira sözleşmesinin 12. maddesi ile davalı borçlu ...’nun müşterek ve müteselsil kefil olduğu, kefillerin bu sorumluluğunun sözleşme süresince ve
+14841	3	KONU	6	DİĞER KARARLAR
+15353	3	KONU	6	DİĞER KARARLAR
+17325	3	KONU	6	DİĞER KARARLAR
+26827	3	KONU	6	DİĞER KARARLAR
+29427	4	GOVDE	7	Çünkü taraflar anlaşırlarsa mahkeme kararına gerek kalmadan hukuki sonuç doğar.
+29449	4	GOVDE	7	Kira tespit ilamları, kira alacakları yönünden eda hükmü içermediğinden, yargılama
+29465	3	GOVDE	7	Kiranın tespitine İlişkin kararın görevi, öncelikle kapsadığı hükmün manevi bir nüfuz sağlamasıdır. Ancak onun bu nüfuzu sağlayabilmesi için hükmün kesinleşmesi şarttır. Çünkü burada söz konusu olan nüfuz, kesin hüküm nüfuzudur.
+29489	4	GOVDE	7	Kira tesbit kararı kesinleşmeden muaccel olamayacağından, kesinleşmeden önceki
+29831	4	GOVDE	7	Harçlar Kanununun 17. maddesine göre kira tespit davalarında aylık kira bedelinin
+29871	4	GOVDE	7	Kira bedelinin tespiti davalarında vekalet ücreti hesaplanırken ödenen kira parası ile mahkemece tespit olunan kira parası arasındaki yıllık fark üzerinden (Avukatlık
+29873	4	GOVDE	7	Asgari Ücret Tarifesinin 9.maddesi gereğince) vekalet ücreti hesaplanması
+33181	4	GOVDE	7	Kiraya veren sıfatı ile kiralanan taşınmazın maliki olma sıfatı birbirinden bağımsızdır. İlamsız tahliye takibi kiraya veren tarafından yapılır. Kiralanan taşınmazın paylı mülkiyet veya elbirliği mülkiyeti konusu olması arasında fark yoktur.
+33191	4	GOVDE	7	Paylı mülkiyete konu taşınmaz, paylı maliklerin biri veya birkaçı tarafından kiraya verildikten sonra, tahliye takibinin de yalnız kira sözleşmesinde kiraya veren olarak
+33215	4	GOVDE	7	Miras ortaklığı (şirketinin) taraf ehliyeti ve tüzel kişiliği yoktur. Mirasçılar terekeye elbirliği ile sahip olurlar. Bu halde kiraya verilmiş olan taşınmaz için ilamsız tahliye
+33225	4	GOVDE	7	TBK'nun 315. maddesi hükmü uyarınca temerrüt nedeniyle açılacak tahliye davasının
+33229	4	GOVDE	7	birden fazla ise aralarında zorunlu dava arkadaşlığı bulunduğundan icra takibini birlikte yapmaları ve yine davayı da hep birlikte açmaları zorunludur.
+33237	4	GOVDE	7	Kiralanan paylı mülkiyete konu ise pay ve paydaş çoğunluğunun sağlanması, elbirliği
+33287	4	GOVDE	7	İhtarda bu mehil içerisinde miktar ve tutarı belirtilen kira borcu ödenmediği takdirde kira sözleşmesinin feshedileceği ve tahliye davası açılacağının yazılması zorunludur.
+33295	4	GOVDE	7	Şu hâle göre takip talebinde yer alan “tahliye adresindeki taşınmazdan kaynaklanan” ifadesi muğlak olup, tahliye iradesini yansıtmamaktadır. Takip talebinin (9) nolu bendinde ise tahliye talebi yer almayıp, sadece haciz talebi vardır.
+33297	4	GOVDE	7	O hâlde alacaklı tarafından düzenlenen takip talebinde tahliye isteği bulunmadığından, icra daire-since borçluya gönderilen ödeme emrinde tahliye ihtarının bulunması alacaklıya tahliye açısından bir hak vermez.
+33343	4	GOVDE	7	Süresi içinde ödeme emrine itiraz etmemiş olan borçlu, ödeme (ihtar) süresi içinde kira borcunu tamamen ödememiş ise alacaklı kiraya verenin talebi üzerine icra mahkemesi, borçlu kiracının tahliyesine karar verir.
+33345	4	GOVDE	7	İİK’nın 269/a maddesinin açık hükmüne göre ödeme emrine itiraz etmeyen borçlu icra mahkemesinde sadece ihtar süresi içinde ödeme yaptığını ileri sürebilir. Takibin kesinleşmesinden önce ödeme yaptığı iddiasını ileri süremez.
+33459	4	GOVDE	7	İkinci şart ise kiralananın kiracıya tesliminden sonraki bir tarihte düzenlenmiş olmasıdır ki, yine alıntılanan yasa maddesi karşısında bu şartın da bir emredici kural
+33461	4	GOVDE	7	olarak kabulü zorunludur. Kiralananın tesliminden önce veya kira sözleşmesi ile aynı tarihte verilen tahliye taahhüdünün geçersiz olduğu Yargıtayın müstakar içti-hatları ile sabittir.
+33519	4	GOVDE	7	bulunmadığından (dava dışı eşin bildirimi takip tarihinden sonra) kira sözleşmesinin
+33551	4	GOVDE	7	Şartlı tahliye taahhüdü, eski Borçlar Kanununun 149, yeni Türk Borçlar Kanunu'nun
+33555	4	GOVDE	7	Bu durumda; Mahkemece, 14.11.2022 tarihinde başlatılan icra takibine yapılan itirazın, şartın gerçekleşmemesi sebebiyle haklı olduğu anlaşıldığından, mahkemece
+34287	4	GOVDE	7	31.07.2015 tarihinde açılan dava süresinde değildir. Davanın en erken dönem sonu olan 01.08.2015 tarihinden sonra (bu tarih dahil) açılması gerekir.
+34321	4	GOVDE	7	İlk sözleşmeden sonra taraflar bir araya gelerek yeniden bir kira sözleşmesi yapmışlar ise on yıllık süre bu sözleşmenin bitim tarihinden sonra hesaplanmalıdır. Yani her
+34961	3	GOVDE	7	olsa bile kiraya verenin kendisi için sözleşmede kararlaştırılan ihbar süresine uymadığından açtığı dava reddedilir.
+34967	4	GOVDE	7	Davanın süresinde açılıp açılmadığının belirlenebilmesi için öncelikle kira
+35019	4	GOVDE	7	Konut ihtiyacına dayalı davalarda ihtiyaçlının kirada oturması ihtiyacın varlığı
+35065	4	GOVDE	7	Davacı tüzel kişilik, şirket ortağı A. K.'ın konut ihtiyacı sebebiyle kiralananın
+35079	4	GOVDE	7	Davacı tüzel kişilik, şirket ortağı A. K.'ın konut ihtiyacı sebebiyle kiralananın
+35113	4	GOVDE	7	Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar
+37383	3	KONU	6	DİĞER KARARLAR
+39955	3	KONU	6	DİĞER KARARLAR
+50479	3	GOVDE	7	ermesi ve kiraya verenin tahliye davası yolu ile tahliye isteminde bulunma
+50493	3	GOVDE	7	zorunlu arabuluculuğa başvurduğu, arabuluculuk son tutanağının 16/01/2025 tarihinde düzenlendiği, işbu davanın ise 23/01/2025 tarihinde açıldığı, Mahkeme kararında bir isabetsizlik bulunmadığı, istinaf sebeplerinin yerinde olmadığı, anlaşılmıştır.
+50513	4	GOVDE	7	Dava açma süresinden önce arabulucuya başvurulmasında yasal engel bulunmadığı
+50561	4	GOVDE	7	Davacı tarafın üzerine düşen yükümlülüğü yerine getirmek üzere arabuluculuk başvurusunda bulunduğu ancak arabulucunun dava şartı arabuluculuk kapsamında süreci işletmeye başlamadığı, bu nedenle dava şartının yerine getirildiğinin de kabul
+60297	3	KONU	6	DİĞER KARARLAR
+=== yapi
+kod: kira
+KONU: 294  KUNYE: 14949  ALT: 0  GOVDE: 39
+metinsiz künye: 58  konu notu: 0  tekrar (tekrar_sira > 0): 1114
+dosya: 691  bayt: 20523691  en büyük dosya: 47714
+tür: aym=2  bam=3273  yargitay=11674
+bayrak: cok_karar=1  dipnot=2  k_eki_yok=1  karar_no_yok=2  mahkeme_cikarim=5  yazim=5  yil_supheli=1  yil_yok=1

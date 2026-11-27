@@ -31,3 +31,101 @@ Tek karakter farkı        : 0
 Sonuç: TAM EŞLEŞME — fark oranı %0.0000
 Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
 === exit 0
+=== yapi satirlar
+# ek/<ad>.satirlar.tsv ile sınıflandırmadan önce değiştirilen kaynak satırları
+# satır	kaynakta	yerine
+(yok)
+=== yapi basliklar
+# kural 0 (ek/<ad>.basliklar.tsv), 6 (rakamsız BÜYÜK HARF -> KONU) ve 7 (hiçbir kalıba uymayan) kararları
+# satır	düzey	sınıf	kural	metin
+113	3	KUNYE	7	ICC, Acciona Construcción S.A. ve diğerleri v Municipio del Distrito Metropolitano de Quito, ICC Dava No. 28376/AJP, nihai hakem kararı, 26.02.2026
+123	3	KUNYE	7	ICC, Micheletti Company Limited v Ministry of Youth and Sports of Ghana, ICC Dava No. 27732/CPB, kısmi hakem kararı, 08.03.2024
+133	3	KUNYE	7	ICC, JV Copri Construction Enterprises W.L.L. ve diğerleri v Albanian Road Authority, ICC Dava No. 23998/MHM/HBH (C-24011/MHM/HBH), nihai hakem kararı, 01.09.2020
+143	3	KUNYE	7	ICC, Grupo Unidos por el Canal S.A. ve diğerleri v Autoridad del Canal de Panamá (V – avans ödemeleri), ICC Dava No. 22588/ASM/JPA, nihai hakem kararı, 10.12.2018
+153	3	KUNYE	7	Daimî Tahkim Divanı (PCA), Strabag AG v Ministry of Communications and Transport of Bosnia and Herzegovina, PCA Dava No. 2014-25, nihai hakem kararı, 24.07.2017
+163	3	KUNYE	7	Romanya Ticaret ve Sanayi Odası nezdindeki Uluslararası Ticari Tahkim Divanı, Strabag AG ve Straco Grup SRL v Compania Naţională de Administrare a Infrastructurii Rutiere S.A., Dosya No. 173/2016, hakem kararı, 25.04.2017
+175	3	KUNYE	7	ICC, Cardno ME Limited v Central Bank of Iraq, ICC Dava No. 26290/AYZ/ELU, nihai hakem kararı, 26.02.2023
+185	3	KUNYE	7	ICC, Serviam S.A. Sucursal Paraguay v Ministerio de Obras Públicas y Comunicaciones (Paraguay), ICC Dava No. 25027/JPA/AJP, nihai hakem kararı, 31.12.2022
+195	3	KUNYE	7	Kahire Bölgesel Uluslararası Ticari Tahkim Merkezi (CRCICA), Consolidated Contractors International Co. S.A.L. ve Orascom Construction Industries Co. S.A.E. v Golden Pyramids Plaza Co. S.A.E., CRCICA Dava No. 467/2006, hakem kararı, 17.12.2014
+207	3	KUNYE	7	Bogota Ticaret Odası Tahkim ve Uzlaştırma Merkezi (Kolombiya), Consorcio Epic Quibdó v Fiduciaria La Previsora S.A., Rad. 123928, hakem kararı, 03.06.2022
+217	3	KUNYE	7	Santiago Ticaret Odası Tahkim ve Arabuluculuk Merkezi (CAM Santiago), Astaldi v SCMS ve SCMS v Astaldi, Dava No. 3584-19 ve 3586-19, hakem kararı, 30.12.2021
+227	3	KUNYE	7	Bogota Ticaret Odası Tahkim ve Uzlaştırma Merkezi (Kolombiya), Inval Ltda. v Servincluidos Ltda., Dosya No. 118090, hakem kararı, 31.08.2021
+245	3	KUNYE	7	Stockholm Ticaret Odası Tahkim Enstitüsü (SCC), Energoprojekt Oprema a.d. Beograd v Gazprom Transgaz, SCC Dava No. V2017/201, nihai hakem kararı, 24.04.2019
+255	3	KUNYE	7	ICC, Conproca S.A. de C.V. v Petróleos Mexicanos ve Pemex Refinación, ICC Dava No. 11760/KGA/CCO/JRF, sorumluluğa ilişkin hakem kararı, 17.12.2008
+267	3	KUNYE	7	Bogota Ticaret Odası Tahkim ve Uzlaştırma Merkezi (Kolombiya), Noarco S.A. v Sociedad Aeroportuaria de la Costa S.A. (SACSA), hakem kararı, 18.04.2017
+285	3	KUNYE	7	Ad hoc tahkim (UNCITRAL Kuralları), Hochtief AG ve Consolidated Contractors Company S.A.L. v Lübnan Cumhuriyeti, Birinci Kısım hakkında kısmi hakem kararı, 02.05.2002
+297	3	KUNYE	7	Singapur Uluslararası Tahkim Merkezi (SIAC), JSC Power Machines v Vietnam Oil and Gas Group ve PetroVietnam Technical Service Corporation, SIAC Dava No. ARB274/19/AB, nihai hakem kararı, 30.11.2023
+307	3	KUNYE	7	ICC, Impresa Castelli Costruzioni Edilizie S.p.A. v State of Kuwait, ICC Dava No. 5403/RP/BGD, hakem kararı, 24.07.1987
+319	3	KUNYE	7	Uluslararası Uyuşmazlık Çözüm Merkezi (ICDR), BSC v The Louis Berger Group, ICDR Dava No. 50-110-T-00415-11, nihai hakem kararı, 11.10.2013
+331	3	KUNYE	7	Londra Uluslararası Tahkim Divanı (LCIA), Omega Construcciones Industriales v Comisión Federal de Electricidad, LCIA Dava No. 163471, nihai hakem kararı, 22.06.2020
+343	3	KUNYE	7	Daimî Tahkim Divanı (PCA), Mota-Engil Ingeniería y Construcción v Ministerio de Obras Públicas y Comunicaciones (Paraguay), PCA Dava No. 2020-14, nihai hakem kararı, 08.12.2023
+355	3	KUNYE	7	ICC, Archirodon Construction (Overseas) Co. S.A. v General Company for Ports of Iraq, ICC Dava No. 21785/ZF/AYZ, nihai hakem kararı, 25.11.2019
+373	3	KUNYE	7	ICC, JV Monteadriano – Engenharia e Construção S.A. / Sociedade de Construções Soares da Costa S.A. v Compania Naţională de Autostrăzi şi Drumuri Naţionale din România, ICC Dava No. 20632/MHM, nihai hakem kararı, 23.09.2016
+385	3	KUNYE	7	Daimî Tahkim Divanı (PCA), Constructora Makro S.A. de C.V. v Nicaragua Ulaştırma ve Altyapı Bakanlığı, PCA Dava No. 2020-46, hakem kararı, 22.12.2023
+403	3	KUNYE	7	ICC, Archirodon Construction (Overseas) Co. Ltd. v General Company for Ports of Iraq, ICC Dava No. 21785/ZF/AYZ, kısmi nihai hakem kararı, 04.06.2019
+413	3	KUNYE	7	ICC, Konoike Construction Co. Ltd. v Ministry of Works, Tanzania National Roads Agency ve diğerleri, ICC Dava No. 18806/ARP/MD/TO, nihai hakem kararı, 10.02.2016
+423	3	KUNYE	7	Daimî Tahkim Divanı (PCA), Active Partners Group Limited v South Sudan, PCA Dava No. 2013/4, nihai hakem kararı, 27.01.2015
+445	3	KUNYE	7	Paris İstinaf Mahkemesi (Pôle 5 – Chambre 16), RG n° 20/17978, 31.05.2022
+455	3	KUNYE	7	Paris İstinaf Mahkemesi (Pôle 5 – Chambre 16), Todini Costruzioni Generali S.p.A. v Ukravtodor, RG n° 18/21326, 09.03.2021
+465	3	KUNYE	7	Singapur Temyiz Mahkemesi, BTN ve BTO v BTP ve BTQ \[2020] SGCA 105, 23.10.2020
+475	3	KUNYE	7	Namibya Yüksek Mahkemesi, Zillion Investment Holding (Pty) Ltd v SalzGossow (Pty) Ltd, SA 17/2017, \[2019] NASC 10, 17.04.2019
+485	3	KUNYE	7	Namibya Yüksek Mahkemesi (Windhoek Ana Daire), SalzGossow (Pty) Ltd v Zillion Investment Holdings (Pty) Ltd, A 44/2016, \[2017] NAHCMD 72, 09.03.2017
+495	3	KUNYE	7	Singapur Temyiz Mahkemesi, PT Perusahaan Gas Negara (Persero) TBK v CRW Joint Operation \[2015] SGCA 30
+513	3	KUNYE	7	Singapur Temyiz Mahkemesi, CRW Joint Operation v PT Perusahaan Gas Negara (Persero) TBK \[2011] SGCA 33
+525	3	KUNYE	7	Singapur Yüksek Mahkemesi (Genel Daire), DSQ v DSR \[2026] SGHC 67, 31.03.2026
+535	3	KUNYE	7	Kenya İstinaf Mahkemesi, National Irrigation Authority v Satom SA, Civil Appeal E933 of 2023, \[2025] KECA 1472 (KLR), 12.09.2025
+545	3	KUNYE	7	Kenya Yüksek Mahkemesi (Ticaret ve Vergi Dairesi), Kenya Hospital Association t/a The Nairobi Hospital v Opticom (K) Ltd \[2025] KEHC 11069 (KLR), 24.07.2025
+557	3	KUNYE	7	Kerala Yüksek Mahkemesi, Marymatha Infrastructure Pvt Ltd v Roads & Bridges Development Corporation of Kerala Ltd, WP(C) No. 12353 of 2021, 21.06.2024
+575	3	KUNYE	7	Tallinn İstinaf Mahkemesi (Tallinna Ringkonnakohus), Tesman Ehitus OÜ v Saaremaa vald, 16.02.2024
+585	3	KUNYE	7	Güney Afrika Yüksek İstinaf Mahkemesi, SA National Roads Agency SOC Ltd v Fountain Civil Engineering (Pty) Ltd \[2021] ZASCA 118, 20.09.2021
+595	3	KUNYE	7	Gana Yüksek Mahkemesi, Tieso Ghana Ltd v Euroget De-Invest SA \[2019] GHASC 38, Civil Appeal No. J4/34/2019, 24.07.2019
+605	3	KUNYE	7	Polonya Yüksek Mahkemesi (Sąd Najwyższy), IV CSK 443/14, 19.03.2015
+615	3	KUNYE	7	Yüksek Mahkeme (Teknoloji ve İnşaat Mahkemesi), Al-Waddan Hotel Ltd v Man Enterprise SAL (Offshore) \[2015] EWHC 4796 (TCC), 12.12.2014
+635	3	KUNYE	7	Yüksek Mahkeme (Teknoloji ve İnşaat Mahkemesi), Peterborough City Council v Enterprise Managed Services Ltd \[2014] EWHC 3193 (TCC), 10.10.2014
+645	3	KUNYE	7	İsviçre Federal Mahkemesi, 1. Hukuk Dairesi, 4A_124/2014, 07.07.2014
+663	3	KUNYE	7	Yüksek Mahkeme (Teknoloji ve İnşaat Mahkemesi), Man Enterprise SAL v Al- Waddan Hotel Ltd \[2013] EWHC 2356 (TCC), 23.05.2013
+673	3	KUNYE	7	DIFC İlk Derece Mahkemesi, International Electromechanical Services Co LLC v Al Fattan Engineering LLC ve Al Fattan Properties LLC \[2012] DIFC CFI 004, 14.10.2012
+683	3	KUNYE	7	Filipinler Yüksek Mahkemesi, Hutama-RSEA Joint Operations, Inc. v Citra Metro Manila Tollways Corporation, G.R. No. 180640, 24.04.2009
+709	3	KUNYE	7	Bombay Yüksek Mahkemesi, Capacite Infraprojects Ltd v T. Bhimjyani Realty Pvt Ltd, 2023:BHC-OS:8307
+727	3	KUNYE	7	Malezya Yüksek Mahkemesi, Mersing Construction & Engineering Sdn Bhd v Kejuruteraan Bintai Kindenko Sdn Bhd \[2011] 3 MLJ 264
+739	3	KUNYE	7	Tanzanya Yüksek Mahkemesi (Ticaret Dairesi), Bank of Tanzania v Galilea Company Ltd, Commercial Case No. 30499 of 2024, \[2025] TZHCComD 137, 20.06.2025
+749	3	KUNYE	7	Romanya Yüksek Kasasyon ve Adalet Divanı, 2. Hukuk Dairesi, 335/2024 sayılı karar, 14.02.2024
+761	3	KUNYE	7	Filipinler Yüksek Mahkemesi (Birinci Daire), Roxaco-Asia Hospitality Corporation v Gulf Canary Construction and Development, Inc. ve Asia United Insurance, Inc., G.R. Nos. 246250-51, 29.09.2025
+787	3	KUNYE	7	Privy Council, Dipcon Engineering Services Ltd v Urban Development Corporation of Trinidad and Tobago Ltd (Trinidad ve Tobago) \[2025] UKPC 29, Privy Council Appeal No. 0114 of 2023, 25.06.2025
+821	3	KUNYE	7	DIFC İlk Derece Mahkemesi (Teknoloji ve İnşaat Dairesi), Five Real Estate Development LLC v Reem Emirates Aluminium LLC \[2020] DIFC TCD 009, 03.03.2023
+839	3	KUNYE	7	Kalküta Yüksek Mahkemesi, State of West Bengal v Afcons Pauling (India) Ltd, A.P. No. 346 of 2005, 10.09.2013
+849	3	KUNYE	7	Kalküta Yüksek Mahkemesi, State of West Bengal v Afcons Infrastructure Ltd, A.P. No. 331 of 2004, 07.07.2010
+867	3	KUNYE	7	Falkland Adaları Yüksek Mahkemesi, A.G. Falkland Islands v Gordon Forbes Construction (Falklands) Ltd (No 2), 14.03.2003
+877	3	KUNYE	7	DIFC Temyiz Mahkemesi, Panther Real Estate Development LLC v Modern Executive Systems Contracting LLC \[2022] DIFC CA 016
+897	3	KUNYE	7	Tanzanya Yüksek Mahkemesi (Ticaret Dairesi), JV Tangerm Construction Co Ltd & Technocombine Construction Ltd v Tanzania Ports Authority ve Attorney General, Commercial Case No. 117 of 2015, \[2022] TZHC 10479, 04.07.2022
+925	3	KUNYE	7	Trinidad ve Tobago Yüksek Mahkemesi, The National Gas Company of Trinidad and Tobago Limited v Super Industrial Services Limited, CV2019-05197, 07.12.2021
+935	3	KUNYE	7	DIFC İlk Derece Mahkemesi, \[2012] DIFC CFI 025
+945	3	KUNYE	7	Trinidad ve Tobago Yüksek Mahkemesi, ICS (Grenada) Ltd v NH International (Caribbean) Ltd \[2004] TTHC 6
+957	3	KUNYE	7	DIFC İlk Derece Mahkemesi (Teknoloji ve İnşaat Dairesi), Architeriors Interior Design (L.L.C) v Emirates National Investment Co (L.L.C) \[2024] DIFC TCD 001, 31.07.2025
+967	3	KUNYE	7	Privy Council, Water and Sewerage Authority of Trinidad and Tobago v Waterworks Ltd (Trinidad ve Tobago) \[2025] UKPC 9, 18.02.2025
+977	3	KUNYE	7	Yüksek Mahkeme (Teknoloji ve İnşaat Mahkemesi), J Murphy & Sons Ltd v Beckton Energy Ltd \[2016] EWHC 607 (TCC), 18.03.2016
+995	3	KUNYE	7	İngiltere ve Galler Temyiz Mahkemesi, Obrascon Huarte Lain SA v HM Attorney General for Gibraltar \[2015] EWCA Civ 712, 09.07.2015
+1005	3	KUNYE	7	Yüksek Mahkeme (Teknoloji ve İnşaat Mahkemesi), Doosan Babcock Ltd v Comercializadora de Equipos y Materiales Mabe Ltda \[2013] EWHC 3010 (TCC), 11.10.2013
+1017	3	KUNYE	7	Madras Yüksek Mahkemesi, Chennai Metro Rail Ltd v Transtonnelstroy-Afcons JV, O.P. No. 569 ve 570/2017, 07.11.2025
+1027	3	KUNYE	7	Privy Council, Estate Management and Business Development Company Ltd v Junior Sammy Contractors Ltd (Trinidad ve Tobago) \[2024] UKPC 33, 29.10.2024
+1045	3	KUNYE	7	Güney Afrika Yüksek Mahkemesi (Gauteng Dairesi, Pretoria), Lonerock Construction v South African National Roads Agency SOC Ltd \[2023] ZAGPPHC 2245, Dava No. 89831/2018, 27.06.2023
+1071	3	KUNYE	7	Bombay Yüksek Mahkemesi (Ticari İstinaf Dairesi), Arabian Jacking Enterprises for Contracting & Trading Co v Municipal Corporation of Greater Mumbai, Commercial Appeal No. 49 of 2019, 03.08.2022
+1081	3	KUNYE	7	Braşov İstinaf Mahkemesi, 6/Ap sayılı karar, 04.02.2015
+1091	3	KUNYE	7	Romanya Yüksek Adalet Divanı (Curtea Supremă de Justiţie), Ticaret Dairesi, 3827 sayılı karar (Dosya No. 2811/2002), 07.10.2003
+1101	3	KUNYE	7	Güney Afrika Yüksek Mahkemesi (Doğu Kap), Ndlambe Local Municipality v Quality Filtration Systems (Pty) Ltd, Case No. 3574/2022
+1111	3	KUNYE	7	Yeni Zelanda Yüksek Mahkemesi, SPX Flow Technology New Zealand Ltd v Gas 1 Ltd \[2017] NZHC 2049
+1123	3	KUNYE	7	İngiltere ve Galler Temyiz Mahkemesi, Ove Arup & Partners International Ltd v Mirant Asia-Pacific Construction (Hong Kong) Ltd \[2003] EWCA Civ 1729, 02.12.2003
+1133	3	KUNYE	7	Yüksek Mahkeme (Teknoloji ve İnşaat Mahkemesi), Mirant Asia-Pacific Construction (Hong Kong) Ltd v Ove Arup & Partners International Ltd \[2003] EWHC 1304 (TCC), 11.06.2003
+1143	3	KUNYE	7	Yüksek Mahkeme (Teknoloji ve İnşaat Mahkemesi), \[2000] EWHC Technology 64, 29.09.2000
+1155	3	KUNYE	7	Uganda Yüksek Mahkemesi (Hukuk Dairesi), Uganda Association of Consulting Engineers Ltd v Prime Minister of the Republic of Uganda ve diğerleri, Misc. Cause No. 182 of 2024, \[2025] UGHCCD 70, 13.06.2025
+1165	3	KUNYE	7	Romanya Yüksek Kasasyon ve Adalet Divanı, İdari ve Mali Yargı Dairesi, 574/2024 sayılı karar, 01.02.2024
+1175	3	KUNYE	7	Kıbrıs Yüksek Mahkemesi (ikinci derece idari yargı), İdari Temyiz No. 123/2010, 17.07.2015
+1185	3	KUNYE	7	Kıbrıs Yüksek Mahkemesi (iptal yargısı), 543/2008 ve 544/2008 sayılı birleşik davalar, 14.07.2010
+1203	3	KUNYE	7	Kıbrıs Yüksek Mahkemesi, Dava No. 32/94, 07.02.1996, (1996) 4 ΑΑΔ 269
+=== yapi
+kod: fidic
+KONU: 28  KUNYE: 103  ALT: 222  GOVDE: 0
+metinsiz künye: 0  konu notu: 0  tekrar (tekrar_sira > 0): 0
+dosya: 25  bayt: 312916  en büyük dosya: 45211
+tür: bam=7  danistay=5  ilk-derece=3  yabanci=85  yargitay=3
+bayrak: (yok)

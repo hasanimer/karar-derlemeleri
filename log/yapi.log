@@ -1,0 +1,19 @@
+yapi.py --dogrula
+sürüm 2026.11.27
+
+[TAMAM] 1. gidiş-dönüş: parça dosyalarından kurulan (sınıf, başlık, boşluksuz gövde) dizisi = ara/ (NFC ve ek/<ad>.satirlar.tsv düzeltmeleri uygulanmış girdi)
+    karşılaştırmadan önce girdide değiştirilen satır: 3
+    kira satır 9531: '- Yargıtay 8. HD 2017/15084 K.:' -> '#### Yargıtay 8. HD 2017/15084 K.'
+    kira satır 50469: 'A. ARABULUCULUK ŞARTI SAĞLANMIŞ OLMAZ' -> '### A. ARABULUCULUK ŞARTI SAĞLANMIŞ OLMAZ'
+    kira satır 50503: 'B. ARABULUCULUK ŞARTI SAĞLANMIŞ OLUR' -> '### B. ARABULUCULUK ŞARTI SAĞLANMIŞ OLUR'
+    KONU 1824  KUNYE 133954  ALT 222  GOVDE 39  boşluksuz karakter 179594086
+[TAMAM] 2/6. boyut ve ad sınırları (md/ dosya <= 49.500 bayt, gövde satırı <= 1.300, dizin/veri <= 45 MB, adlar [a-z0-9._-], yol <= 200, dizin <= 150 girdi)
+    parça dosyası 6671  toplam 231060663 bayt  ortanca 39328  en büyük 47910  en küçük 1111  en uzun gövde satırı 1200  en uzun yol 177  en kalabalık dizin 116
+[TAMAM] 3/4/5. konular.tsv yolları var; dizin/kararlar satırları dosyadaki '## künye' satırını gösteriyor; TSV = JSONL = karar_sayisi; kimlikler tekil; JSONL şeması
+    kayıt 133954  (karar 133954, konu notu 0)  tekil kimlik 133954  boş başlık (yol boş) 5
+[TAMAM] 7. kılavuz ve dizin boyutları (AGENTS.md <= 6.500, dizin/derlemeler.md <= 25.000, 00-icindekiler*.md <= 48.000, llms.txt <= 2.000, TALIMAT.txt <= 1.400 karakter, ornek.jsonl < 400.000)
+    AGENTS.md 6477 bayt  dizin/derlemeler.md 19768 bayt  llms.txt 1309 bayt  veri/ornek.jsonl 205796 bayt  TALIMAT.txt 1258 karakter  README.md 18698 bayt  en büyük 00-icindekiler 22335 bayt
+[TAMAM] 8. iki üretim bayt bayt aynı (ayrı süreç, farklı PYTHONHASHSEED; sha256)
+    karşılaştırılan dosya 6797, farklı 0
+
+Sonuç: TAMAM, bütün denetimler geçti.

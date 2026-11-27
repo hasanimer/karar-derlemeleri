@@ -1,0 +1,55 @@
+---
+derleme: "Kat Mülkiyeti Hukukuna İlişkin Emsal Kararlar"
+kod: kat-mulkiyeti
+surum: ""
+derleyen: "Av. Hakan Dimdik (x.com/hakandimdik)"
+konu:
+  - "§8. İCRA"
+  - "II. TAHLİYE ETMİŞ KİRACIYA İCRA TAKİBİ YAPILMASI"
+bolum: "08-02"
+parca: "1/1"
+sira: "4961-4967"
+karar_sayisi: 7
+kaynak_pdf: "https://drive.google.com/file/d/1O-Gz70yLzErSGhzH2SV-ESziW1Z6zR1l/view"
+uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künyelerin çoğunda esas numarası ve tarih yoktur. Kullanmadan önce kararın tam metnini resmî kaynaktan doğrulayın."
+---
+
+# II. TAHLİYE ETMİŞ KİRACIYA İCRA TAKİBİ YAPILMASI
+
+> Av. Hakan Dimdik, "Kat Mülkiyeti Hukukuna İlişkin Emsal Kararlar" › §8. İCRA › II. TAHLİYE ETMİŞ KİRACIYA İCRA TAKİBİ YAPILMASI · parça 1/1 · sıra 4961-4967. Seçme alıntılardır, kararın tamamı değildir; resmî kaynaktan doğrulayın.
+
+## Yargıtay 20. HD 2018/1726 K.
+
+Dosya içerisindeki bilgi ve belgelerin incelenmesinden davalının aidat yükümlüğünün oluştuğu tarihlerde bağımsız bölümde kiracı olduğu anlaşılmaktadır. Davalının 634 sayılı Kat Mülkiyeti Kanununun 20 ve 22. maddelerine göre ortak gider aidatından sorumlu olacağı ancak bu sorumluluğunun ödemekle yükümlü olduğu kira miktarıyla sınırlı olacağı ve ödemenin kira borcundan düşüleceği açıktır. Buna göre kiracının oturduğu dönemde ortak gider payına düşecek avans ve gecikme tazminatından da sorumlu olacaktır. Dosyada alınan bilirkişi raporlarında buna yönelik açık ve net, hüküm kurmaya elverişli, aidat borcunun ödenen kısımları ve ödenmeyen kısımlarının neler olduğu yönünde somut neticeler ihtiva etmediği, yapılan hesaplamalarda anapara+faiz bakiyesine yeniden faiz işletildiği, 3 farklı aidat hesaplaması yapıldığı gibi ayrıca anataşınmaza yapılan demirbaş alımlarına yönelik de yapılan harcamaların kiracının sorumluluğunda olduğu düşünülerek hesaplama yapıldığı dikkate alındığında alınan bilirkişi raporları hüküm kurmaya elverişli değildir.
+Bu kapsamda mahkemece dava konusu anagayrimenkule ait yönetim planı, icra takibine konu aidatları içeren işletme projesi ve varsa buna ilişkin kat malikleri kurulu kararları birlikte değerlendirilerek aidat sorumluluğunun gecikme tazminatı açısından işletme projesinin tebliği tarihinden bu yoksa borcun öğrenildiği tarihten başlayacağı dikkate alınarak inceleme yapılması gerekirken eksik inceleme ve yetersiz araştırmaya dayanan bilirkişi raporu doğrultusunda karar verilmesi doğru görülmemiştir.
+
+## Yargıtay 20. HD 2018/472 K.
+
+Dava; Kat Mülkiyeti Kanunundan kaynaklanan, kat malikinin icra tehditi altında fazla ödediği aidat bedellerinin iadesi (istirdatı) istemine ilişkin olup, .... Turizm ve Otel. A.Ş ile Set Sanayi Elektrik Tesisat Taahhüt ve Tic. AŞ arasında yapılan 25.12.1999 tarihli sözleşmenin "Kiracının Yükümlülükleri" başlıklı 7. Maddesinin 7/5 bendinde; "Kiracı, .... Villa Fark alanlarının bakımı, onarımı, düzenlemesi, jeneratör, bahçe ve çevre düzenlemesi, güvenlik hizmetleri ve benzeri harcamaları için yönetim tarafından belirlenecek USD bazındaki aylık gider katılım payını yönetime ödemekle yükümlüdür. .... Villa Park hizmetlerine aylık katılım payı her yıl 31 Ocak tarihine kadar yönetime peşin olarak ödenir. Kiracı bu hususu peşinen kabul eder, ancak aidat ödemeleri villanın kesin tesliminden itibaren başlayacaktır. Yıllık katılım payları kiracı temsilcilerinin ve yönetimin katılımıyla ve müştereken çalışma ile belirlenir." düzenlemesi yer almaktadır. Aynı sözleşmenin 5. maddesindeki, "Kiracı, kiraladığı taşınmazı başkalarına (üçüncü şahıslara) devir ve ciro edebilir, kiraya verebilir." düzenlemesi uyarınca davacı ... ile Set Sanayi Elektrik Tesisat Taahhüt ve Tic.
+AŞ . arasında imzalanan 14.08.2003 tarihli sözleşmenin "Kiracının Yükümlülükleri" başlıklı 8. maddesinin 5 bendi ise, "Kiracı kiraladığı yerin bakımı, onarımı, düzenlemesi, jeneratör, bahçe ve çevre düzenlemesi, güvenlik hizmetleri ve benzeri harcamaları için yönetim tarafından belirlenecek USD bazındaki aylık gider katılım payını yönetime ödemekle yükümlüdür. Kiralanan yerin aylık katılım payı her yıl 31 Ocak tarihine kadar yönetime peşin olarak ödenir. Kiracı bu hususu peşinen kabul eder, yıllık katılım payları kiracı temsilcilerinin ve yönetimin katılımıyla ve müştereken çalışma ile tespit edilir." düzelemesini içermekte olup, aksi iddia edilmediğine ve iptal edilmediğine
+
+göre yapılan sözleşmeler halen geçerlidir. Bu kapsamda; taraflar arasındaki sözleşmeler, muhasebe kayıtları, yapılan tahsilatlar bütün halinde bilirkişiye incelettirilerek, davalının ödemesi gereken bir meblağ bulunup bulunmadığı tam olarak tespit edilip, varsa fazla ödenen aidat bedeli hesap edilerek, sonucuna göre karar verilmesi gerekirken eksik ve yetersiz inceleme ile karar verilmiş olması doğru görülmemiştir.
+
+## Yargıtay 6. HD 2014/12238 K.
+
+Davada dayanılan 01.08.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin özel koşullar bölümünün 5.maddesinde; taşınmaza ait olan elektrik, su, yakıt, kapıcı ve yönetim giderlerinin kiracıya ait olduğu belirtilmiştir. Kiracının ortak giderlere katılma borcunu düzenleyen sözleşme hükmü geçerli olup tarafları bağlar. Davaya konu alacak kiracının sözleşme kapsamında ödemeyi üstlendiği ortak giderlere ilişkin olup uyuşmazlık kira sözleşmesinden kaynaklanmaktadır. Davanın açıldığı tarihte yürürlükte olan 6100 sayılı HMK’nun 4/1-a maddesi uyarınca kiralanan taşınmazların ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalara bakma görevi Sulh Hukuk Mahkemesine aittir. Sözleşmeye konu bağımsız bölümün bulunduğu sitede henüz kat mülkiyetine geçilmemiş olması uyuşmazlığın yukarıda açıklanan niteliğini değiştirmez.
+Belirtilen nedenlerle mahkemece işin esası incelenerek sonucuna göre karar verilmesi gerekirken hatalı değerlendirme sonucu yazılı şekilde görevsizlik kararı verilmesi usul ve yasaya aykırıdır.
+
+## Yargıtay 18. HD 2012/4240 K.
+
+Davalının yukarıda açıklandığı gibi dava konusu anataşınmazda kiracı sıfatını taşımadan buradan devamlı surette yararlanan kişi olduğu dikkate alınarak ortak gider ve aidat borcunun tamamından sorumlu tutulması ve ayrıca saptanacak asıl borç miktarı üzerinden icra-inkar tazminatına hükmedilmesi gerekirken, Yargıtay uygulamalarının hatalı yorumlanması sonucu yazılı şekilde hüküm kurulması doğru görülmemiştir.
+
+## Yargıtay 18. HD 2008/448 K.
+
+Kat Mülkiyeti Yasası'nın 20. maddesine göre anataşınmazın ortak giderlerinden kat malikleri sorumludur. 22. madde hükmü gereğince de kat malikinin 20. madde uyarınca payına düşecek gider ve avans borcundan ve gecikme tazminatından bağımsız bölümlerin birinde kira akdine, oturma (sükna) hakkına veya başka bir nedene dayanarak devamlı bir şekilde faydalananlar da müştereken ve müteselsilen sorumludur. Ancak, kiracının sorumluluğu ödemekle yükümlü olduğu kira tutarı ile sınırlıdır. Yasa'nın bu 22. maddesi hükmünce kiracının anataşınmazın yönetimine karşı ortak giderlerden sorumluluğu onun kiracılık sıfatının devam ettiği sürece söz konusu olup, bağımsız bölümü boşalttıktan ve kiracılık sıfatı bittikten sonra ortak giderlerden sorumluluğu da sona ereceğinden yönetici bu durumdaki kişi hakkında dava açamaz ve Kat Mülkiyeti Yasası hükümlerine göre ortak gider borcunu ödemesini isteyemez. Somut olayda davalı, hakkında icra takibi yapılmadan ve dava açılmadan önce kiracı olduğu bağımsız bölümden ayrılmış ve kiracılık sıfatı da sona
+
+ermiş bulunduğundan yöneticinin davalı kiracı hakkında açmış olduğu davanın husumet yokluğu nedeniyle reddi gerekirken davaya bakılıp işin esası hakkında hüküm kurulmuş olması doğru görülmemiştir.
+
+## Yargıtay 18. HD 2006/7437 K.
+
+Takibe konu aidatların ait olduğu dönemde ana taşınmazda kiracı olan davalının, takip tarihi olan 12.04.2004 tarihinden önce bağımsız bölümü tahliye ettiği icra takibinde borçlu adresi olarak Samsun ilinde bir adresin bildirilmesinden anlaşılmakta olup, esasen bu hususta taraflar arasında herhangi bir uyuşmazlık da bulunmamaktadır.
+
+## Antalya BAM 11. HD 2023/1223 K.
+
+Sitesi Kat Malikleri Genel Kurul toplantısında ise yönetim kuruluna seçilemediği, seçimi kaybettiği bu toplantıdan sonra hem maliki olduğu dairenin aidatlarını hem de kiracısı olduğu iş yerinin kira ve aidatlarını site yönetiminin hukuksuz olduğu iddiası ile ödememeye başladığı, yapılan icra takiplerine itiraz ettiği, itirazın iptali davalarını kaybettiği ve tüm ödemeleri misli ile yapmak zorunda kaldığı, yönetici olduğu dönemde son derece cüz’i bir bedelle kiracısı olduğu iş yerini de yine tahliye davası sonucunda boşalttığı, yine yöneticilik sıfatını kaybettikten sonra yapılan genel kurullara da genel kurulun iptali davaları açmakta olup bir önceki açtığı davayı da kaybettiği, davacının 2019 yılı için davalı kooperatifi ibra etmediğini beyan ederek birtakım gerekçeler sunduğu, kooperatifin muhasebe kayıtlarının SMMM ... tarafından tutulduğu, kendisinin verdiği bilgiler dahilinde; davalı kooperatifin 2019 bilançosunda 3- ... grubunun altında yer alan ve F maddesinin altında bulunan dönem net karının 102.951,92 TL olduğu, bu tutarın bilançoda yer aldığı, bu tutarın karşılığının ise bilançonun aktif tarafında yer alan ve 1-... grubunun altında bulunan D maddesinin 5- Diğer çeşitli
+alacaklar hesabının içinde yer aldığı, bilançoda yer alan hesapların tek düzen hesap planına göre alt grup bazında değil, ana hesap bazında yazıldığı, bu nedenle bilançoda 5- Diğer çeşitli alacaklar hesabı olarak belirtilen hesabın ayrıntısının bilançoda değil detay mizanda göründüğü, nitekim genel kurulda söz alan davalı kooperatifin mali müşaviri ... tarafından bu durumun izah edilmiş olduğu ve bu paranın genel kurul kararı ile yönetim kuruluna yetki verilmesi sebebiyle ... Sitesi yönetimine aktarıldığı ve ... Sitesinin aidatlarını düşük tutarak buradan gelen parayla giderlerini finanse ettiğini açıkladığı, bu paranın aktarılmaması durumunda ise ...

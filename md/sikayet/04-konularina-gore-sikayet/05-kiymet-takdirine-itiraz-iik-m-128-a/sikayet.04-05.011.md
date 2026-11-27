@@ -1,0 +1,71 @@
+---
+derleme: "İcra Hukukunda Şikâyete İlişkin Emsal Kararlar"
+kod: sikayet
+surum: ""
+derleyen: "Av. Hakan Dimdik (x.com/hakandimdik)"
+konu:
+  - "§4. KONULARINA GÖRE ŞİKÂYET"
+  - "V. KIYMET TAKDİRİNE İTİRAZ (İİK m. 128/a)"
+bolum: "04-05"
+parca: "11/11"
+sira: "5534-5540"
+karar_sayisi: 7
+onceki: "sikayet.04-05.010.md"
+kaynak_pdf: "https://drive.google.com/file/d/14tGrLA3RyIlJ8sOBsb74arght3QINNRR/view"
+uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künyelerin çoğunda esas numarası ve tarih yoktur. Kullanmadan önce kararın tam metnini resmî kaynaktan doğrulayın."
+---
+
+# V. KIYMET TAKDİRİNE İTİRAZ (İİK m. 128/a)
+
+> Av. Hakan Dimdik, "İcra Hukukunda Şikâyete İlişkin Emsal Kararlar" › §4. KONULARINA GÖRE ŞİKÂYET › V. KIYMET TAKDİRİNE İTİRAZ (İİK m. 128/a) · parça 11/11 · sıra 5534-5540. Seçme alıntılardır, kararın tamamı değildir; resmî kaynaktan doğrulayın.
+
+## Yargıtay 12. HD 2006/21636 K.
+
+Kıymet takdiri raporu bu şikayetinden sonra kendisine tebliğ edilmiştir. Taşınmazının haczedildiğini bu tarihten önce öğrendiğine dair bir belge de dosyada bulunmamaktadır. Bu durumda, şikayetin yasal 7 günlük sürede olduğunun kabul edilmesi gerekir. O halde, istemin esasının incelenip sonuçlandırılması gerekirken yazılı şekilde süreden reddi isabetsizdir.
+
+SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İ.İ.K. 366 ve H.U.M.K.’nun 428. maddeleri uyarınca (BOZULMASINA)
+
+## Denizli BAM 3. HD 2026/1853 K.
+
+Davalı vekilinin ibraz ettiği cevap dilekçesinde özetle; Davacının talebinin zamanaşımına uğradığını, davacının haczedilen menkul malları haciz kalktıktan sonra yedieminden almadığını, davacının söz konusu davada hukuk, yararının bulunmadığını, taraflar arasında menkul makine satışı ve devrine ilişkin sözleşme imzalandığını, davacının söz konusu sözleşmeyi işletme devri olarak yansıt davacı basiretli bir tacir olarak ruhsat konusunda gerekli araştırmayı yapabileceğini, davacı şirket haciz sırasında borcu kabul ettiğini, hacze giden birçok makinenin sökülerek götürüldüğünün tespit edildiğini, este ve slim makinalarının haczedildiğini, davacının maddi ve bir zararının bulunmadığını belirterek davanın reddini talep etmiştir.
+
+…
+
+.... İcra Hukuk Mahkemesinin ...Esas ... Karar sayılı dosyasında daha önce bahsedilen vadesi geçmiş 5. çekle ilgili başlatılan,....İcra Dairesinin ... Esas sayılı dosyasında haczedilen menkul malların kıymet takdirine davacı tarafından itiraz edildiği anlaşılmıştır. Burada ... Yediemin deposunda tutulan dava konusu ... İcra Dairesinin haczi ile yediemine kaldırıldığı belirtilen traventerlerde %15 oranında kırık tespit edildiği anlaşılmıştır.
+
+## İstanbul BAM 17. HD 2025/1281 K.
+
+Davacı vekili dava dilekçesinde özetle; dava dışı ... isimli kişinin, müvekkilinin Tarsus şubesine başvurarak tarla alımı için tarım kredisi kullanmak istediğini bildirmesi üzerine taşınmazların krediye esas olabilecek değerlerinin tespiti sürecini başlattığını ve davalıdan ekspertiz incelemesi talebinde bulunduğunu, davalının hazırladığı ekspertiz raporlarında; Mersin ili Tarsus ilçesi, Avadan köyünde kain ve tapunun ... parsel numarasında kayıtlı tarla cinsli taşınmazın piyasa değerinin 2.975.000 TL ve acil satış değerinin 2.600.000 TL, Mersin ili, Tarsus ilçesi, Beylice köyünde kain ve tapunun ... parsel numarasında kayıtlı tarla cinsli taşınmazın piyasa değerinin 240.000 TL ve acil satış değerinin 210.000 TL olarak belirlendiğini, ekspertiz işleminin davalı tarafından tamamlanması, ekspertiz raporlarının sunulması ve de dava dışı ...'le müvekkilinin Tarsus Şubesi arasında 13.09.2011 tarihli 2.000.000 TL bedelli Genel Kredi Sözleşmesinin imzalanmasından sonra davalı ... ...
+
+…
+
+Aciz belgesi borçlunun mal varlığının, alacaklının alacağını karşılamaya yetmediğini gösteren tek ispat aracıdır ve ilgililerce şikayet veya itiraz yoluyla İcra Hakimliğince ortadan kaldırılmadıkça geçerlidir. Buna göre davalı şirket tarafından kıymet takdirinin doğru yapılmadığı ve davacının bu nedenle zarara uğradığı davalı ... ... Değerlendirme A.Ş.'nin çalışanının kusurundan dolayı Türk Borçlar Kanunun 116.maddesi ve taraflar arasındaki sözleşmenin 4. ve 6. maddeleri gereğince sorumlu olduğu anlaşılmıştır. Davacı banka görevlisinin ekspere mail atarak sonradan dolandırıcılık suçundan hüküm giydiği anlaşılan ...'i irtibat kişisi olarak göstermesinin bankaya kusur izafesi için yeterli olmadığı anlaşılmıştır. Sonuç olarak, dosya kapsamı, alınan bilirkişi raporları ve taraflar arasındaki sözleşme hükümleri dikkate alındığında, ilk derece Mahkemesinde davalı değerleme şirketi yönünden tesis edilen kararda usul ve yasaya aykırı bir yön görülmemiştir. Belirtilen nedenler ile davalı vekilinin istinaf nedeni yerinde görülmemiştir. 2- Davacı vekilinin istinaf başvurusunun değerlendirilmesinde;
+Davacı vekili hükmü davalı sigorta şirketi yönünden verilen red kararının hukuka aykırı olduğundan bahisle istinaf etmiştir. Davalı değerleme şirketi eksperi Fikret ... 'in kıymet takdiri yapılacak tarlaların değer tespitinde kurallara uygun olarak tapu kaydı, imar durumu, kadastro paftası, uydu görüntüsü vs. gibi bilgi ve belgelere dayalı olmadan kıymet takdiri yaptığı ve buna göre mesleki faaliyete ilişkin SPK düzenlemeleri ve diğer yasal düzenlemelere uymadığı dosya kapsamından anlaşılmaktadır. Davalı şirket ile diğer davalı sigorta şirketi arasında düzenlenen ve 03/04/2011-03/04/2012 tarihlerini kapsayan Mesleki Sorumluluk sigorta poliçesinin istisnalar maddesinin 5 (i) bendinde; "poliçede belirtilen mesleki faaliyete ilişkin yasal düzenlemelere uyulmaması dolayısıyla oluşan zararlara ilişkin tazminat talepleri" şeklinde olup, poliçede belirtilen mesleki faaliyete ilişkin yasal düzenlemelere uyulmamasından kaynaklı zararların sigorta teminat kapsamı dışında olduğu düzenlenmiştir.
+
+## İstanbul BAM 14. HD 2022/430 K.
+
+Protokolün beşinci maddesinde, üçüncü maddede yer alan taksitlerin vadelerinde eksiksiz olarak ödenmesinin esas olduğu, ödemelerden herhangi birinin vadesinde ödenmemesi veya eksik ödenmesi durumunda, ödenmeyen veya eksik ödenen meblağın ödeme vadesinden itibaren on beş gün içinde ve vadeden ödeme tarihine kadar geçecek süre için ödenmeyen veya eksik ödenen tutarın % 40 faiziyle ödenmesi halinde, ödemenin süresinde yapılmış sayılacağı, bu süre içinde ödeme yapılmaması halinde protokolün ihlal edilmiş sayılarak protokolle sağlanan tüm hakların ortadan kaldırılarak protokol öncesi döneme dönüleceği belirlenmiştir. Sözleşmenin altıncı maddesinde, borçluların başlatılacak takiplerde hazırlanacak kıymet takdir raporlarına itiraz etmeyerek kesinleştirecekleri, takipleri satış aşamasına getirmeyi sağlayacakları, bu amaçla icra takiplerindeki borcu kabul edecekleri, takiplerin hiçbir aşamasında itiraz ve şikayette bulunmayacakları, dava açmayacakları kabul edilmiştir. Bankaca kıymet takdiri yapılabileceği, bu işlemin sözleşmenin ihlali anlamına gelmeyeceği kabul edilmiştir.
+Borçlularca borcun zamanında ödenmesi halinde bankanın da 6.a maddesinde tanımlanan yetkiler saklı kalmak kaydıyla satış aşamasına getireceği takiplerini, protokol hükümlerine uyulduğu takdirde bulunduğu aşamada durdurmayı, borcun ödenmesi halinde tüm takyidatları üstlendiği anlaşılmıştır. Sözleşmenin 11. maddesinde, bu protokolün genel kredi sözleşmesinin eki olduğu, protokolde yer almayan hususlarda genel kredi sözleşmesinin uygulanacağı, protokolün kefaletlerde yenilenme veya nakil sonucunu doğurmayacağı kabul edilmiştir. Protokol imzalandıktan sonra, 15.07.2011 tarihli ve aynı tarihte ... Ltd. Şti.'nin antetli kağıdına yazılı olan beyanla şirkete ait dört adet aracın kredi nedeniyle rehinli olduğu, bu araçların icra dairesi tarafından satışının temin edilerek bedellerinin protokolün ilk taksitlerine mahsup edilmesi bildirilmiştir. Bankanın cevaba cevap dilekçesine eklediği protokolün dışında, ... tarafından gönderildiği ileri sürülen 14.09.2011 tarihli e-mailde araçların bulunduğu yerlerin ve plakalarının yeniden bildirildiği görülmüştür.
+
+…
+
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-HMK'nın 353/1.b.1. maddesi uyarınca, davalılar vekilinin istinaf başvurusunun esastan reddine …
+
+## İstanbul BAM 37. HD 2021/199 K.
+
+K A R A R Dava, İflas Dairesince yaptırılan kıymet takdirine itiraza ilişkindir. Küçükçekmece 2. İcra Hukuk Mahkemesince; şikayete konu taşınmazlara ilişkin olarak yapılan kıymet takdir raporuna itiraz edilmiş ise de, TTK hükümleri uyarınca tasfiye memurlarıyla ilgililer arasındaki uyuşmazlıkların ticaret mahkemesinde çözülmesi gerekeceği gerekçesi ile görevsizlik kararı verilmiştir. Bakırköy 1. Asliye Ticaret Mahkemesince ise; davanın ticari bir dava olmadığı, kıymet takdirine itiraza ilişkin olduğu ve İİK 128/a gereğince İcra Mahkemesinin görevli olduğu gerekçesi ile karşı görevsizlik kararı verilmiştir 2004 sayılı İcra ve İflas Kanunu'nun 4/1. Maddesi "...İcra ve iflas dairelerinin muamelelerine karşı yapılan şikayetlerle itirazların incelenmesi icra mahkemesi hakimi yahut kanun gereğince bu görev kendisine verilmiş olan hakim tarafından yapılır..." hükmünde,2004 sayılı İcra ve İflas Kanunu'nun 128/a maddesinin 1. Fıkrası ise; "Kıymet takdirinin tebliğ edildiği ilgililer, raporun tebliğinden itibaren yedi gün içinde raporu düzenleten icra dairesinin bulunduğu yerdeki icra mahkemesinde şikayette bulunabilirler.
+Şikayet tarihinden itibaren yedi gün içinde gerekli masraf ve ücretin mahkeme veznesine yatırılması halinde yeniden bilirkişi incelemesi yaptırılabilir; aksi halde başka bir işleme gerek olmaksızın şikayet kesin olarak reddedilir." hükmündedir.Somut olayda, iflasına karar verilen davacı şirkete ait taşınmazların kıymet takdirine itiraz edilmiş olup, yukarıda belirtilen Yasal düzenleme gereğince, İflas Dairesince talimat yoluyla yaptırılan kıymet takdirine itiraz bir şikayet işlemi olup uyuşmazlığın İcra Hukuk Mahkemesinde görülmesi gerekmektedir.
+
+## İstanbul BAM 17. HD 2020/336 K.
+
+Ayrıca dava dışı borçlular aleyhine başlatılan takip dosyasında, ipotekli söz konusu taşınmazın değer tespiti yaptırılmış, 16/04/2010 tarihi itibariyle üç kişilik bilirkişi heyetince 75.000,00 TL değer takdir edilmiş, söz konusu kıymet takdir raporuna Kuşadası İcra Hukuk Mahkemesinin 2010/384 esas sayılı dosyasından itiraz edilmiş olmakla mahkemece üç kişilik bilirkişi heyeti marifetiyle yeniden kıymet takdiri yaptırılarak taşınmazın satışa esas değerinin 130.000,00 TL olarak tespitine kesin olarak karar verilmiştir. İzmir ... İcra Müdürlüğünün ... esas sayılı takip dosyası ile davacı alacaklı banka, kredi borçlusu ... İnş. Şirketi ile ipotek borçlusu ... aleyhine 08/04/2010 tarihinde toplam 285.530,15 TL tutarında ipoteğin paraya çevrilmesi yoluyla icra takibi başlatılmış, takip konusu ipotekli taşınmaz 14/03/2011 tarihinde 70.750,00 TL bedelle satılmış, bu miktar borçtan mahsup edildikten sonra takip dosyasında herhangi bir işlem yapılmamıştır. Takibe dayanak yapılan ipotek belgesi ve akit tablosu incelendiğinde; alacaklı bankaca, ...
+Şirketi lehine genel kredi sözleşmesine istinaden açılan kredi hesapları nedeniyle doğmuş ve doğacak tüm kredi borçlarının teminatını teşkil etmek üzere alacaklı banka lehine ...a ait taşınmaz üzerine 30/10/2008 tarih ve ... yevmiye nolu 400.000,00 TL bedelli limit ipoteğinin tesis edildikten sonra 13/11/2008 tarihinde ipotek tutarına 100.000,00 TL ilave edilerek ipotek tutarı 500.000,00 TL yükseltilmiştir. Davacı alacaklı banka tarafından aynı kredi alacağından dolayı keşidecisi ... İnş... Şirketi ile aval verenler ..., ..., ... ve ... aleyhine kambiyo senedine istinaden tahsilde tekerrür etmemek kaydıyla toplam 246.426,63 TL tutar üzerinden 07/04/2010 tarihinde İzmir ... İcra Müdürlüğünün ... esas sayılı takip dosyası kambiyo senetlerine özgü takip başlatılmış olup işbu takip dosyasından alacaklının talebi üzerine İİK 143. Maddeye dayalı olarak 338.914,10 TL alacak için 05/01/2012 tarihli borç ödemeden aciz vesikası düzenlenmiştir.
+
+…
+
+HÜKÜM : Gerekçesi Yukarıda Açıklandığı Üzere 1-Davacı vekilinin istinaf başvurusunu KABULÜ İLE, HMK' nın 353/1-b-2 maddesi uyarınca İstanbul 13. Asliye Ticaret Mahkemesinin 2015/103 Esas, 2017/488 Karar, 22/06/2017 tarihli kararının KALDIRILMASINA ve YENİDEN HÜKÜM TESİSİNE 2- Davanın KABULÜ İLE 2-a 368.743 …
+
+## İstanbul BAM 21. HD 2019/2317 K.
+
+İcra İhale katılım bedeli açıklaması ile 829.000 TL nin icra dairesi hesabına gönderildiği, işlem saatinin 14:31:05 olduğu anlaşılmıştır.Şikayete konu kömürlerin kıymet takdirine bir itiraz bulunmadığından kesinleşmekle belirlenen muhammen bedelinin %50 si ve satış masraflarının üzerinde satılmış olduğu bu haliyle şikayetçinin kömürlerin düşük bedelle satıldığı ve bu nedenle zarara uğradığı iddiasının mahkememizce kabul görmediği, diğer alıcının ihaleye katılması için gerekli teminatı ihalenin bittiği 14:22 den sonra 14:31 de yatırdığı bu nedenle ihaleye alınmamasının usul ve yasaya aykırı olmadığı, satış ilanının ve satış ilan ve kıymet takdirine ilişkin şikayetçiye yapılan tebliğ işleminde usulsüzlük olmadığı, satış ilanın belediye ilan panosunda ilan edildiğine ilişkin tutanağın icra dosyası içerisine alındığı, satış ilanının yapıldığı vatan gazetesinin günlük net satış ortalamasının 102.183 olduğu, gazete ilanının satış kararına uygun olduğu, Tellalın 3 kez ihale sonunda bağırdığının tanık beyanları ve artırma tutanağı dikkate alındığında sabit olduğu, her ne kadar ihalenin 14:05 de bitirilmesine karar verilmiş olsa da ihalenin daha geç bitirilmesinin ihalenin feshi sebebi
+olmadığı; ihalenin sonuç itibariyle şikayetçinin ileri sürdüğü hususlar dikkate alındığında ve resen yapılan inceleme ile usul ve yasaya uygun olarak yapıldığı anlaşılmıştır.Davacı tarafça kömürün bedelinin 6.000.000 TL civarında olduğu, 2.100.000TL bedelle değerinin çok altında ihale edildiğine ilişkin iddiaları yönünden de, icra dosyası içinde 20/10/2016 tarihli kıymet takdiri raporunda kömürün değeri 4.140.689,50 TL olarak takdir edilmiştir. Davacı ... yetkilileri veya davacı yanında müdahil olmak isteyen ... şirketi bu rapora itiraz etmemiştir. Böylece kıymet takdirinin kesinleştiğini kabul etmek gerekir. 2.100.000 TL de takdir edilen tutarın %50sinden fazla olup, mahkememizce yeniden kıymet takdiri yapılmasına gerek görülmemiştir." gerekçesi ile davacının Tekirdağ ... İcra Müd. ...

@@ -1,0 +1,96 @@
+---
+derleme: "Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 5"
+kod: arabuluculuk-c5
+surum: "Cilt 5"
+derleyen: "Av. Hakan Dimdik (x.com/hakandimdik)"
+konu:
+  - "KİRA İLİŞKİSİNDEN KAYNAKLANAN UYUŞMAZLIKLARDA DAVA ŞARTI ARABULUCULUK"
+  - "XIII. ANLAŞMA BELGESİ VE SONUÇLARI"
+bolum: "01-13"
+parca: "1/1"
+sira: "57-64"
+karar_sayisi: 8
+kaynak_pdf: "https://drive.google.com/file/d/1Yvyd4xp8pVVvrTx5L-fY4RQmHnhGv8d4/view"
+uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künyelerin çoğunda esas numarası ve tarih yoktur. Kullanmadan önce kararın tam metnini resmî kaynaktan doğrulayın."
+---
+
+# XIII. ANLAŞMA BELGESİ VE SONUÇLARI
+
+> Av. Hakan Dimdik, "Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 5" › KİRA İLİŞKİSİNDEN KAYNAKLANAN UYUŞMAZLIKLARDA DAVA ŞARTI ARABULUCULUK › XIII. ANLAŞMA BELGESİ VE SONUÇLARI · parça 1/1 · sıra 57-64. Seçme alıntılardır, kararın tamamı değildir; resmî kaynaktan doğrulayın.
+
+## AYM 2024/161 E., 2025/69 K., 06.03.2025
+
+… ve avukatları ile arabulucunun birlikte imzaladıkları anlaşma belgesi ilam niteliğinde kabul edilmemiştir.
+
+… uyuşmazlıklar için arabuluculuk kapsamında tarafların anlaşmaya varmaları hâlinde anlaşmanın…
+
+… niteliğinin de arabuluculuk kurumunun ihdas amacını ortadan kaldırmaması gerekmektedir.
+
+## Yargıtay 12. HD 2025/7199 K.
+
+Arabuluculuk anlaşma tutanağına dayanılarak başlatılan ilamlı takipte, borçlunun icra mahkemesine başvurusunda; sair şikayetleri ile birlikte mülkiyet hakkını kısıtlar şekilde icra takibi ile kira sözleşmesi yapmaya zorlanayamayacağını ileri sürerek takibin iptaline karar verilmesini istediği, İlk Derece Mahkemesince; şikayetin reddine, borçlunun istinaf başvurusun da Bölge Adliye Mahkemesince; esastan reddine karar verildiği anlaşılmıştır.
+
+Özel kanunlarda belirtilen ilam niteliğinde belgelerden biri de 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'nun 18/2. maddesi gereğince icra edilebilirlik şerhi içeren anlaşma belgesidir. Bir başka deyişle söz konusu belgenin ilam niteliğinde belge sayılmasının koşulu icra edilebilirlik şerhi verilmesidir. Pek tabidir ki; bu durum bahsi geçen şerhi içeren belgenin her koşulda ilamlı takibe konu edileceği anlamına gelmez. Bir başka ifadeyle, ilamlı takibe konu edilmesi halinde yapılacak şikayet üzerine takibin iptaline karar verilemeyeceği sonucuna varılamaz. Zira her mahkeme ilamı da ilamlı takibe konu edilememektedir. Örneğin; eda hükmü içermemesi halinde mahkeme ilamı da ilamlı icra takibine konu edilemez.
+
+Diğer taraftan, 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'nun 15/4 maddesinde "Niteliği gereği yargısal bir yetkinin kullanımı olarak sadece hakim tarafından yapılabilecek işlemler arabulucu tarafından yapılamaz." şeklinde düzenleme mevcuttur.
+
+Sözleşme yapma vaadi (ön sözleşme) borcunun cebri icrası ancak ve ancak bir mahkeme kararı ile mümkündür. Eğer borçlu sözleşmeyi imzalamaktan kaçınırsa, alacaklı (kiracı), mahkemeden aynen ifa davası açarak borçlunun iradesinin mahkeme hükmüyle ikame edilmesini talep edebilir. Bu tür bir mahkeme kararı, inşaî hüküm niteliğindedir; yani yeni bir hukuki durum (sözleşmenin kurulmuş olması) oluşturur. İcra Dairesi, bu tür bir inşaî yetkiye sahip değildir. Arabuluculuk tutanağı, tarafların sadece bir vaadini belgelemektedir; mahkemenin inşaî hükmünü içermemektedir. Bu nedenle, bu yönde hüküm içeren arabuluculuk anlaşma belgesine dayalı icra takibi başlatılarak borçlu kira sözleşmesi yapmaya zorlanamaz.
+
+## Yargıtay 3. HD 2025/1953 K.
+
+Eldeki davada, 07.01.2022 tarihli arabuluculuk tutanağında; ... Ortak Girişimi ortaklarının, sözleşmeye konu bağımsız bölümün tesliminde yaşanan gecikme ve bu nedenle davacının bağımsız bölümünün teslim edileceği tarihe kadar uğradığı ve uğrayacağı tüm kira kaybının tazmini için, davacının hesabına toplam 500.000,00 TL'yi kararlaştırılan ödeme planına uygun olarak ödemeyi kabul ve taahhüt ettiği, alıcı davacının da bu ödemenin yapılması kaydıyla, bağımsız bölümün tesliminde yaşanan gecikme nedeniyle her ne nam altında olursa olsun ... Ortak Girişimi ortaklarından ve diğer davalı Emlak Konut Gayrimenkul Yatırım Ortaklığı Anonim Şirketinden hiçbir hak ve alacağı kalmadığı, ...
+Ortak Girişimi ortaklarından ve ...'nden hangi ad altında olursa olsun, herhangi bir tazminat veya alacak talebinde bulunmayacağını beyan, kabul ve taahhüt ettiği, iş bu hususun "SATICI/Taraf 3, Sözleşme'ye konu bağımsız bölümün tesliminde yaşanan gecikme ve bu nedenle ALICI/Taraf 1'in bağımsız bölümünün teslim edileceği tarihe kadar uğradığı ve uğrayacağı tüm kira kaybının tazmini için, ...'un \[IBAN] IBAN numaralı hesabına, toplam net 500.000,00 TL'yi aşağıda yazılı ödeme planına uygun olarak ödemeyi, kabul ve taahhüt etmiştir. ALICI/Taraf 1, bağımsız bölümünün teslimi ile yukarıda belirtilen ödeme planına uygun olarak banka hesabına toplam 500.000,00 TL ödenmesi kaydıyla, Kadıköy 19.
+Noterliği'nin 26.01.2018 tarih ve 02033 yevmiye sayılı Düzenleme Şeklinde Taşınmaz Satış Vaadi Sözleşmesine konu olan İstanbul İli, Sarıyer İlçesinde kain Nidapark İstinye Projesinin 1353 Ada 4 Parsel sayılı taşınmazı üzerinde bulunan Panorama Sitesi 2.Blok 9 numaralı bağımsız bölümün tesliminde yaşanan gecikme nedeniyle; her ne nam altında olursa olsun SATICI/Taraf 3'den ve .../Taraf 2'den hiçbir hak ve alacağı kalmadığını, SATICI/Taraf 3'den ve .../Taraf 2'den hangi ad altında olursa olsun, herhangi bir tazminat veya alacak talebinde bulunmayacağını, fazlaya ilişkin tüm maddi ve manevi, talep ve haklarından vazgeçtiğini, olası tüm tazminat ve alacak taleplerinden gayrikabili rücu olarak feragat ile, ... İstinye Ortak Girişimi'ni oluşturan ..., ... Yapı İnşaat Anonim Şirketi ve ...'nin ve ...'nin zimmetini gayrikabili rücu olarak ve kesin surette ibra ettiğini, beyan, kabul ve taahhüt eder." şeklinde düzenlendiği görülmüştür.
+
+Davacıya, anlaşma gereğince kararlaştırılan ödemenin zamanında ve eksiksiz olarak yapıldığı, anlaşmanın içeriğinde davalıların teslim tarihi taahhüdünün olmadığı, anlaşmanın geç teslim nedeniyle teslim tarihine kadar davacının uğradığı menfi ve müspet, tüm maddi zararlarının tazmin edilmesine ilişkin olduğu, arabuluculuk tutanağının geçerli olduğu, 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'nun 18/5 maddesine göre "Arabuluculuk faaliyeti sonunda anlaşmaya varılması hâlinde, üzerinde anlaşılan hususlar hakkında taraflarca dava açılamaz." hükmü gereği dava açılamayacağının düzenlendiği anlaşılmıştır.
+
+## Yargıtay 3. HD 2024/4021 K.
+
+25.10.20017 tarihli ve 30221 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 7036 sayılı İş Mahkemeleri Kanunu'nun (7036 sayılı Kanun) 24 üncü maddesi ile 6325 sayılı Kanun'un 18 inci maddesine eklenen dördüncü fıkrasında taraflar ve avukatları ile arabulucunun birlikte imzaladıkları anlaşma belgesinin, icra edilebilirlik şerhi aranmaksızın ilâm niteliğinde belge sayılacağı hükme bağlanmaktadır. Madde gerekçesinde ise; "Bu düzenleme yapılırken 19.03.1969 tarihli ve 1136 sayılı Avukatlık Kanunu'nun 'Uzlaşma sağlama' başlıklı 35/A maddesi dikkate alınmaktadır. Zira bu maddede 'Avukatlar dava açılmadan veya dava açılmış olup da henüz duruşma başlamadan önce kendilerine intikal eden iş ve davalarda, tarafların kendi iradeleriyle istem sonucu elde edebilecekleri konulara inhisar etmek kaydıyla, müvekkilleriyle birlikte karşı tarafı uzlaşmaya davet edebilirler. Karşı taraf bu davete icabet eder ve uzlaşma sağlanırsa, uzlaşma konusunu, yerini, tarihini, karşılıklı yerine getirmeleri gereken hususları içeren tutanak, avukatlar ile müvekkilleri tarafından birlikte imza altına alınır.
+Bu tutanaklar 09.06.1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 38 inci maddesi anlamında ilâm niteliğindedir.' hükmü yer almaktadır. ...”
+
+Yine 7036 sayılı Kanun'un 24 üncü maddesi ile aynı maddeye eklenen beşinci fıkrası; "Arabuluculuk faaliyeti sonucunda anlaşmaya varılması halinde üzerinde anlaşılan hakkında açılan hususlarda dava açılamaz." hükmü içermekte olup, madde gerekçesinde; “... 6325 sayılı Kanun'un 18 inci maddesine eklenen beşinci fıkra ile, arabulucu huzurunda anlaşılması hâlinde, üzerinde anlaşılan hususlar hakkında taraflarca dava açılamayacağı hüküm altına alınmaktadır. Anlaşılan hususların bilahare dava edilemeyeceği dikkate alındığında arabulucu tarafından düzenlenecek ve taraflar ve varsa temsilcileri veya avukatları tarafından imzalanacak anlaşma tutanağında 'anlaşılan hususların' net bir şekilde ortaya konulmasında zorunluluk bulunmaktadır. Örneğin işçi ve işveren tarafı kıdem ve ihbar tazminatı ile fazla çalışma ücreti konusunda anlaştıklarında arabulucunun bu kalemleri ayrıca ve açıkça tutanağa bağlamasında fayda görülmektedir. Anlaşma tutanağının içeriğinden 'anlaşılan hususlar' net bir şekilde görülebilmeli ve bilahare dava açma yasağına tâbi olan bu hususlar tereddüde yer vermeyecek şekilde açıkça tespit edilebilmelidir. ...” şeklindedir.
+
+Arabuluculuk anlaşma tutanağının ilâm niteliğinde belge kabul edilmesi, “anlaşılan hususlarda taraflarca dava açılamaz” şeklindeki hüküm, 6325 sayılı Kanun'un 18 inci maddesinin dördüncü ve beşinci fıkralarının gerekçesi ve 6325 sayılı Kanun'un Türkiye Büyük Millet Meclisinde 07.06.2012 tarihinde kabul edilen ilk metninde yer almayan 18 inci maddesinin dördüncü ve beşinci fıkralarının görülen ihtiyaç ve lüzum üzerine yaklaşık beş yıl sonra çıkarılan 7036 sayılı Kanun'un 24 ve 35 inci maddeleriyle Kanun'a eklenmiş olması hususları birlikte değerlendirildiğinde; kanun koyucunun açık iradesinin, arabulucu önünde konuşulup anlaşma tutanağına bağlanan hususların, arabuluculuk anlaşma tutanağı hukuken geçerliliğini yitirmeden hiçbir şartta dava konusu edilmesine müsade etmemek olduğu hususunda tereddüt bulunmamaktadır.
+
+Hiç kuşkusuz anlaşma tutanağındaki imzanın sahteliğinin veya taraflardan birisinin iradesinin fesada uğratılmış olduğunun veya arabuluculuk görüşmesinin usulüne uygun yapılmadığının tespiti durumunda, anlaşma tutanağının iptal edilmesi mümkündür ve iptal kararının kesinleşmesi ile birlikte yukarıda değinilen dava açma yasağı ortadan kalkacağından iptal edilen anlaşma tutanağındaki hususlar dava konusu edilebilecektir.
+
+Yapılan bu açıklamalar ile yukarıda yer verilen mevzuat hükümleri ve gerekçeleri birlikte değerlendirildiğinde; yukarıda yer verilen kararların konusunu oluşturan arabuluculuk anlaşma belgelerinin, 6325 sayılı Kanun'un 18 inci maddesine eklenen dördüncü ve beşinci fıkraların yürürlüğe girdiği tarihten sonra düzenlendiği, anılan Kanun'un 18 inci maddesinin dördüncü fıkrası gereğince bu anlaşma belgelerinin icra edilebilirlik şerhi aranmaksızın ilam niteliğinde bulunduğu, icra edilebilirlik şerhinin ihtiyari olduğu, tutanakta bağlanan edimler yerine getirilmediğinde söz konusu anlaşma belgesi ilam niteliğinde olduğundan icraya koyulabileceği, icra edilebilirlik şerhi talebinin çekişmesiz yargı işi olması nedeniyle birbiriyle çekişme (uyuşmazlık) halinde olan iki tarafın bulunmadığı, bu nedenle Mahkemenin bu konuda verdiği kararda bir uyuşmazlığın çözümü söz konusu olmadığı hususları birlikte değerlendirildiğinde; anlaşma belgesine göre icra edilebilirlik şerhi verilmesi talebinde bulunan tarafın yaptığı yargılama giderlerinin üzerinde bırakılması ve buna bağlı olarak bu giderlere dahil olan vekalet ücretine hükmedilmemesi gerekmektedir.
+
+Bu itibarla, arabuluculuk faaliyeti sonucunda tarafların anlaşmaya varması halinde düzenlenen anlaşma belgesine icra edilebilirlik şerhi verilmesi başvurusunda bulunan taraf üzerinde, çekişmesiz yargı işine ait olan yargılama giderlerinin bırakılmasına, buna bağlı olarak başvuran taraf lehine bu giderlere dahil olan vekalet ücretine hükmedilmemesine, Antalya Bölge Adliye Mahkemesi 6. Hukuk Dairesi ile Bursa Bölge Adliye Mahkemesi 4. Hukuk Dairesince verilen kesin nitelikteki görüş ve uygulama uyuşmazlığının bu şekilde giderilmesine karar vermek gerekmiştir.
+
+## Ankara BAM 21. HD 2026/1311 K.
+
+İhtiyati tedbir talep eden davacılar vekili 04/08/2026 tarihli dilekçesinde özetle; müvekkillerinin ... İnş. San. ve Tic. Ltd. Şti'nin hissedarı olduklarını, 04/09/2025 tarihli genel kuruldan kısa süre sonra davalıların Mahkemenin 2025/732 Esas sayılı dosyası ile ... ....Ltd.Şti'ne kayyım olarak atandıklarını, davalıların usul ve yasaya aykırı anlaşma belgeleri ile şirketi borca soktuklarını, şirketin faiz, harç ve vekalet ücreti gibi çok sayıda kalem yönünden zarar ettiğini, şirket aleyhine başlatılan icra takiplerine kasten itiraz etmeyerek şirkete haciz gelmesine sebebiyet verdiklerini, davalı ...'ın avukatının ihtiyari arabulucu olarak görevlendirilip bu avukata çok sayıda arabulculuk anlaşma belgesi imzalatıldığını, dava dışı ... tarafından şirkete gönderilen hesap kat ihtarnamesine usulüne uygun olarak itiraz edilmemesi nedeniyle hesap kat ihtarının kesinleşmesine sebebiyet verdiklerini, davalı ...'a ait ... AŞ tarafından Eskişehir İcra Müdürlüğünün 2026/29098 Sayılı dosyası ile kendisinin kayyım olduğu ......Ltd.
+Şti aleyhine icra takibi başlatıldığını, 302.000,00 TL alacak yaratıldığını, kendi şirketine kiralanan taşınmazlardaki mallara haciz konulduğunu ve satışının istenildiğini, sözkonusu dosyada alacaklı vekilinin davalı ...'ın avukatı ... olduğunu, davalı ... tarafından verilen vekaletname ile şirket avukatı haline gelen avukatların bile bile borca itiraz etmeyerek takibi kasten kesinleştirdiğini, davalı ...'ın kasten haciz yapılmasına itiraz etmediğini ileri sürerek Eskişehir İcra Müdürlüğünün 2026/29098 sayılı icra takip dosyasında satışın durdurulması ve icra veznesine yatan paraların alacaklı olarak görünen Şirkete ödenmemesi yönünde ihtiyati tedbir kararı verilmesini talep etmiştir.
+
+## İstanbul BAM 16. HD 2026/358 K.
+
+DELİLLER: Taraflar arasında imzalanan Finansal Kiralama Sözleşmesi incelendiğinde; davacı ile davalı şirket arasında ...../08/2016 tarihli, ... sözleşme numaralı Finansal Kiralama Sözleşmesi'nin akdedildiğini, diğer davalı ...'ın ise işbu sözleşmeyi müteselsil kefil sıfatı ile imzaladığı, davalının edimlerini yerine getirmemesi nedeniyle sözleşmenin davacı tarafça davalılara gönderilen ihtarname sonrası feshedildiği, kiralanan ekipmanın icra kanalı ile davacı şirkete teslim edildiği anlaşılmıştır.Davalı tarafından cevap dilekçesi ekinde sunulan ...../11/2021 tarihli dilekçe incelendiğinde; işbu dilekçenin içeriğinin ''...Müvekkilimiz şirket kiracısı ....... ...Limited Şirketi ve kefili ... hakkında İstanbul ....İcra Dairesi ... Esas, İstanbul .....İcra Dairesi ... E., İstanbul .......İcra Dairesi ... E sayılı dosyaları tahsil harcı hariç infaz edilmiş olup yapılan takipten müvekkil şirketin tahsil harcı hariç alacağının kalmadığını, icra dosyasının tahsil harcı hariç tahsilatla kapatıldığını ve İstanbul 21.Asliye Ticaret Mahkemesi 2019/....... E sayılı ve İstanbul Cumhuriyet Başsavcılığı 2019/173826 Sor.
+Sayılı dosyalarından yapılan tahsilat sonucu alacağımızın kalmadığını bildiririz.'' şeklinde olduğu ve işbu dilekçenin altında davacı şirket vekili Av........'in imzasının bulunduğu tespit edilmiştir.Dilekçede adı geçen İstanbul .....İcra Dairesinin ... Esas, İstanbul ........İcra Dairesinin ... E., İstanbul ....İcra Dairesinin ... E. sayılı dosyalarının da Finansal Kiralama Sözleşmesinden kaynaklanan alacaklara ilişkin oldukları, incelenen dosya kapsamları ile tespit edildiği gibi, bu husus her iki tarafın da kabulündedir.Davacı tarafça dosyaya sunulan 2022/.... büro dosya numaralı, ...... arabuluculuk numaralı ve .........../06/2023 tarihli ve davacı şirket ile ihbar olunan ....... Ltd. Şirketi arasında yapılan arabuluculuk anlaşma tutanağı incelendiğinde; "1)... A.Ş. tarafından, ....ŞTİ.'ye finansal kiralama sözleşmesinin.......... Şti. 'den devri için ödenen 5.500 Euro'nun fiili ödeme tarihindeki satış kuru üzerinden iade edilmesi konusunda anlaşmışlardır.
+
+Arabuluculuk ücreti olarak 330 Euro (vergiler dahil) 15 gün içerisinde, ödeme tarihindeki Euro satış kuru üzerinden, ... A.Ş. tarafından, Arabulucu ..... ..........'nun ...........bankası'nın TR ........ numaralı hesabına, ödenecektir. Ödeme yapılmasını müteakip ödenen bedel (Türk lirası olarak) üzerinden serbest meslek makbuzu düzenlenerek gönderilecektir. Stopaj bedeli ayrıca arabulucu adına vergi dairesine ödenecektir." şeklinde anlaşmaya vardıkları tespit edilmiştir.
+
+## İstanbul BAM 63. HD 2025/461 K.
+
+Dava; Arabuluculuk tutanağına icra edilebilirlik şerhi verilmesi istemine ilişkindir.
+
+Başvurucu kiraya veren karşı taraf kiracı ile aylık kira bedelinin belirlenmesi ve belirlenen tarihte tahliye etmesi, tahliye edilmediği takdirde cezai şart ödeneceğine ilişkin ihtiyari arabuluculuk kapsamında arabulucuya başvurmuştur.
+
+Konu, 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu’nun 18. maddesinde düzenlenmiştir. Şöyle ki; Arabuluculuk faaliyeti sonunda varılan anlaşmanın kapsamı taraflarca belirlenir; anlaşma belgesi düzenlenmesi hâlinde bu belge taraflar ve arabulucu tarafından imzalanır. (6325 s. K. 18/ 1)…
+
+Taraflar arabuluculuk faaliyeti sonunda bir anlaşmaya varırlarsa, bu anlaşma belgesinin icra edilebilirliğine ilişkin şerh verilmesini talep edebilirler.(6325 s.K. 18/ 2)…
+
+İcra edilebilirlik şerhinin verilmesi, çekişmesiz yargı işidir ve buna ilişkin inceleme dosya üzerinden de yapılabilir. Ancak arabuluculuğa elverişli olan aile hukukuna ilişkin uyuşmazlıklarda inceleme duruşmalı olarak yapılır. Bu incelemenin kapsamı anlaşmanın içeriğinin arabuluculuğa ve cebri icraya elverişli olup olmadığı hususlarıyla sınırlıdır. (6325 s.K. 18/3)…
+
+Buna göre arabuluculuk faaliyeti sonunda düzenlenen anlaşma belgesine icra edilebilirlik şerhi verilebilmesi için; 1) Uyuşmazlığın arabuluculuğa elverişli olması, 2) Anlaşmanın içeriğinin cebri icraya elverişli olması, 3) Arabulucunun Arabuluculuk Daire Başkanlığı nezdinde tutulan Arabulucular siciline kayıtlı olması ve 4) Anlaşma belgesinin taraflar veya yetkili vekilleri ve arabulucu tarafından imzalanmış olması gerekmektedir. Mahkemenin yapacağı araştırma da bu hususlarla sınırlı olacaktır.
+
+Uyuşmazlık; Taraflar arasında belirlenen cezai şartın arabuluculuğa elverişli olup olmadığı, anlaşmanın içeriğinin cebri icraya elverişli olup olmadığı noktasında toplanmaktadır.
+
+Somut olayda; Anlaşma belgesinde düzenlenen cezai şartın açıkca 6098 Sayılı Türk Borçlar Kanununun 346.maddesine aykırı olarak düzenlendiğinden arabuluculuğa ve cebri icraya elverişli değildir. Bu durumda anlaşma belgesi arabuluculuğa ve cebri icraya elverişli olmadığından talebin reddine karar verilmesi gerekirken mahkemece kabulüne karar verilmesi hatalı olmuştur.
+
+## İstanbul BAM 63. HD 2025/461 K.
+
+Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu hüküm altına alınmıştır.
+
+Somut olayda; Anlaşma belgesinde düzenlenen cezai şartın açıkca 6098 Sayılı Türk Borçlar Kanununun 346.maddesine aykırı olarak düzenlendiğinden arabuluculuğa ve cebri icraya elverişli değildir. Bu durumda anlaşma belgesi arabuluculuğa ve cebri icraya elverişli olmadığından talebin reddine karar verilmesi gerekirken mahkemece kabulüne karar verilmesi hatalı olmuştur.

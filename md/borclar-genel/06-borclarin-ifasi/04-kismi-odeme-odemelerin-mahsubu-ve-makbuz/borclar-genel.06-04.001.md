@@ -1,0 +1,142 @@
+---
+derleme: "Borçlar Genel Hukukuna İlişkin Emsal Kararlar"
+kod: borclar-genel
+surum: ""
+derleyen: "Av. Hakan Dimdik (x.com/hakandimdik)"
+konu:
+  - "§6. BORÇLARIN İFASI"
+  - "IV. KISMİ ÖDEME, ÖDEMELERİN MAHSUBU VE MAKBUZ (TBK m. 100–105)"
+bolum: "06-04"
+parca: "1/1"
+sira: "1882-1909"
+karar_sayisi: 28
+kaynak_pdf: "https://drive.google.com/file/d/1Tds94HCnpZfAApwepPXlVd-jhQcg61t6/view"
+uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künyelerin çoğunda esas numarası ve tarih yoktur. Kullanmadan önce kararın tam metnini resmî kaynaktan doğrulayın."
+---
+
+# IV. KISMİ ÖDEME, ÖDEMELERİN MAHSUBU VE MAKBUZ (TBK m. 100–105)
+
+> Av. Hakan Dimdik, "Borçlar Genel Hukukuna İlişkin Emsal Kararlar" › §6. BORÇLARIN İFASI › IV. KISMİ ÖDEME, ÖDEMELERİN MAHSUBU VE MAKBUZ (TBK m. 100–105) · parça 1/1 · sıra 1882-1909. Seçme alıntılardır, kararın tamamı değildir; resmî kaynaktan doğrulayın.
+
+## Yargıtay HGK 2021/1670 K.
+
+Birden çok borcun vadesi aynı zamanda gelmişse, mahsup orantılı olarak; borçlardan hiçbirinin vadesi gelmemişse ödeme, güvencesi en az olan borç için yapılmış sayılır…” hükmünü içermekte olup, bu maddenin uygulanabilmesi için birden fazla borcu olan borçlunun, yaptığı ödemenin bu maddeye göre mahsubu, öncelikle borçlu tarafından kanunen geçerli bir açıklama yapılmamış olmasına ve alacaklı tarafından düzenlenen makbuzda bu konuda açıklama bulunmamış bulunmasına bağlıdır. Ayrıca özel kanunlarda bu konuda yapılmış bir düzenlemede bulunmamalıdır (Uygur, Turgut: 6098 sayılı Türk Borçlar Kanunu Şerhi, Cilt 1, 2012, s. 652).
+
+## Yargıtay HGK 2021/1036 K.
+
+Bu kapsamda olmak üzere, makbuz, borç ifa edildiğinde bunu göstermek üzere alacaklı tarafından verilen imzalı bir belgedir. Türk Borçlar Kanunu’nun 103/1. fıkrasına göre borcu ödeyen borçlu bir makbuz verilmesini isteyebilecektir. Elinde makbuz olan borçlu ifayı gerçekleştirdiğini ispatlayabilecektir. Bu anlamda ibra ile makbuzun farkı ortaya çıkmaktadır. Zira makbuz borcun ifa edildiğini gösterirken, ibra ifa olmaksızın borcu sona erdiren bir hâldir. İfa ile borç zaten sonra ermiş olduğu için, bunun bir de ibra ile sona erdirilmesi mümkün olmaz (Keser, Hakan: “6098 Sayılı Türk Borçlar Kanunu Kapsamında İbraname Uygulamaları”, Sicil İş Hukuku Dergisi, Sayı:24, 2014, s. 137).
+
+## Yargıtay HGK 2021/779 K.
+
+Kısmî ifaya ilişkin kurallar da (icra takibinin yapıldığı tarihte yürürlükte bulunan) 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 100 ve devamı maddelerinde düzenlenmiştir. TBK’nin 101. maddesi gereğince, birden çok borcu bulunan borçlu, ödeme gününde bu borçlardan hangisini ödemek istediğini alacaklıya bildirebilir; borçlu bildirimde bulunmazsa, yapılan ödeme, kendisi tarafından derhâl itiraz edilmiş olmadıkça, alacaklının makbuzda gösterdiği borç için yapılmış sayılır. TBK’nin 102. maddesi gereğince de kanunen geçerli bir açıklama yapılmadığı veya makbuzda bir açıklık bulunmadığı durumda ödeme, muaccel borç için yapılmış sayılır. Birden çok borç muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış olduğu kabul edilir. Takip yapılmamış ise ödeme, vadesi ilk önce gelmiş olan borç için yapılmış olur. Yargıtay Hukuk Genel Kurulunun 03.05.2006 tarihli ve 2006/19-260 E., 2006/251 K.; 09.06.2010 tarihli ve 2010/19-262 E. 2010/304 K; 27.01.2016 tarihli ve 2015/15-1830 E.,2016/98 K.; 25.04.2018 tarihli ve 2017/19-903 E., 2018/974 K. sayılı kararlarında da bu yönde açıklamalar yer almaktadır.
+
+## Yargıtay HGK 2021/177 K.
+
+“Faizden veya icar bedeli gibi muayyen zamanlarda ödenmesi lazım gelen sair borçlardan ihtirazi bir kayıt dermeyan etmeksizin bir taksit için makbuz veren alacaklı ondan evvelki taksitleri de tahsil etmiş sayılır. Alacaklı resülmal için makbuz vermiş ise faizlerinide tahsil etmiş sayılır. Senet borçluya iade edildikte borç sakıt olmuş sayılır…” hükmünü haizdir. 6098 sayılı TBK’ nın 104. maddesi de aynı yönde düzenleme içermekte olup, anılan madde ile de borç senedi borçluya geri verilmişse, borcun sona ermiş sayılacağı belirtilmiştir. Görüldüğü üzere Kanun senedin borçluya geri verilmesine bazı sonuçlar bağlamıştır. BK'nın 88. maddesi uyarınca borç senedi borçluya geri verilmişse, borç sona ermiş sayılır. Burada senedin geri verilmesi borcun tamamen ifa edildiği konusunda kanunî bir karine oluşturur. Hemen belirtmek gerekir ki, burada olağan (adi) bir karine söz konusu olup, bunun aksi alacaklı tarafından her zaman ispat edilebilir.
+Alacaklı, senedi borç ifa edilmeden geri verdiğini, borçlunun eline iradesi dışında geçmiş olduğunu veya borçlu tarafından düzenlenmiş bulunduğunu ispat ederse, karine çürütülmüş, senedin borçlunun eline borç ifa edilmeden geçmiş olduğu ispatlanmış olur (Eren, F.: Borçlar Hukuku Genel Hükümler, 23. Baskı, Ankara 2018, s. 1034).
+
+## Yargıtay HGK 2019/886 K.
+
+Kısmi ifaya ilişkin kurallar da (icra takibinin yapıldığı tarihte yürürlükte bulunan) 818 sayılı Borçlar Kanunu’nun 84 ve devamı maddelerinde düzenlenmiştir. Kanun’un 85. maddesinin birinci fıkrasına göre birden fazla borcu bulunan borçlu, ödeme zamanında bu borçlardan hangisini tediye etmek istediğini alacaklıya beyan etme hakkını haizdir. 86. maddeye göre de yasal olarak geçerli bir beyan vaki olmadığı yahut makbuzda ödemenin hangi borca mahsup edileceği gösterilmediği takdirde, tediye muaccel olan borca mahsup edilir. Birden çok borç muaccel ise tediye, borçlu aleyhinde birinci olarak takip edilen borca mahsup edilir. İcra takibi yapılmamış ise tediye, vadesi daha önce gelmiş olan borca mahsup edilir. Yargıtay Hukuk Genel Kurulunun 03.05.2006 tarihli ve 2006/19-260 E., 2006/251 K.; 09.06.2010 tarihli ve 2010/19-262 E. 2010/304 K; 27.01.2016 tarihli ve 2015/15-1830 E.,2016/98 K.; 25.04.2018 tarihli ve 2017/19-903 E., 2018/974 K. sayılı kararlarında da bu yönde açıklamalar yer almaktadır.
+
+## Yargıtay HGK 2016/98 K.
+
+Kısmi ifaya ilişkin kurallar (taraflar arasındaki sözleşmenin akdedildiği ve icra takibinin yapıldığı tarihte yürürlükte bulunan) 818 sayılı Borçlar Kanunu’nun 84 ve devamı maddelerinde düzenlenmiştir. Kanunun 85 inci maddesinin birinci fıkrasına göre birden fazla borcu bulunan borçlu, ödeme zamanında bu borçlardan hangisini tediye etmek istediğini alacaklıya beyan etme hakkına haizdir. 86 ncı maddeye göre de yasal olarak geçerli bir beyan vaki olmadığı yahut makbuzda ödemenin hangi borca mahsup edileceği gösterilmediği takdirde, tediye muaccel olan borca mahsup edilir. Birden çok borç muaccel ise tediye, borçlu aleyhinde birinci olarak takip edilen borca mahsup edilir. İcra takibi yapılmamış ise tediye, vadesi daha önce gelmiş olan borca mahsup edilir.
+
+## Yargıtay 7. HD 2026/3748 K.
+
+Mahsup itirazı, bir alacağı doğuran olayla ilgili olarak, alacaklının elde ettiği bazı menfaatlerin ya da borçlunun katlandığı bazı yükümlülüklerin alacaktan indirilmesidir. Mahsuplaşmada, takastan farklı olarak iki ayrı alacak bulunmamaktadır. Buna göre, alacak miktarından tenzil edilecek değer, karşı alacak olmayıp, gerçek alacağı bulmak üzere hesaplanan alacaktan indirilmesi gereken bir bedeldir. Bu nedenle, mahsupta hukuken karşılıklı alacaklılık ilişkisinden öte, alacağın gerçek miktarının tespiti için yapılan bir işlemin varlığı kabul edilmelidir. Mahsupta doğmuş bir alacaktan söz edilemeyeceği için, mahsubun borcu sona erdiren bir neden olduğu da düşünülemez. Ayrıca, mahsup talebi hukuki niteliği itibariyle def'i olmayıp; itiraz niteliğinde olduğundan, savunmanın genişletilmesi yasağına tabi olduğu kabul edilmez. Mahsubun, yargılama devam ettiği sürece karşı tarafın muvafakatı olmaksızın ileri sürülmesi mümkündür.
+
+## Yargıtay 6. HD 2025/2789 K.
+
+2\. 6098 sayılı TBK'nın 101. maddesi gereğince; birden çok borcu bulunan borçlu, ödeme gününde bu borçlardan hangisini ödemek istediğini alacaklıya bildirebilir. Borçlu bildirimde bulunmazsa, yapılan ödeme, kendisi tarafından derhâl itiraz edilmiş olmadıkça, alacaklının makbuzda gösterdiği borç için yapılmış sayılır. Yine TBK'nın 102. maddesi gereğince; Kanunen geçerli bir açıklama yapılmadığı veya makbuzda bir açıklık bulunmadığı durumda ödeme, muaccel borç için yapılmış sayılır. Birden çok borç muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış olduğu kabul edilir. Takip…
+
+## Yargıtay 6. HD 2023/3073 K.
+
+2.2. Somut olayda takip talebinde takip dayanağının davacı tarafça ‘‘Cari hesap alacağı (Seri B Sıra No: 985644 no.lu fatura alacağı)’’ olarak belirtilmiş olduğu, bu hali ile dosya kapsamındaki incelemenin sadece takip dayanağı olan fatura bakımından yapılabileceği, her ne kadar davacı vekilince müvekkili şirket temsilcisine makbuz yoluyla yapılan ödemelerin sonradan yapılan başkaca işlere ait olduğu iddia edilmiş ve kabul edilmemiş ise de tüm dosya kapsamı ile bu iddianın takip dayanağı, tarafların ticari defterleri üzerinde yapılan incelemeler ve 6098 sayılı TBK’nın 102. maddesine göre, kanunen geçerli bir açıklama yapılmadığı veya makbuzda bir açıklık bulunmadığı durumda ödemenin muaccel bir borç için yapılmış sayılacağı hükmü karşısında ödeme tarihlerinde şirketi tek başına temsile yetkili davacı şirket yetkilisine makbuz karşılığı yapılan ödemelerin kabul edilerek, davanın reddine karar verilmesinde hukuka aykırı bir yan bulunmamaktadır.
+
+## Yargıtay 3. HD 2021/288 K.
+
+… belgelerinin delil olarak önemi izahtan varestedir. Ödemenin nasıl yapılacağı 818 sayılı BK'nun 87. (TBK m. 103) maddesinde gösterilmiştir. Yasa gereğince borcu ödeyen bir makbuz veya borcun tamamı ödenmişse buna ilişkin senedi geri isteme hakkına sahiptir. Borcun tamamı ödenmemiş veya borç senedi alacaklıya başkaca haklar da vermekte ise borçlu, ancak makbuz verilmesini ve ödemenin borç senedine işlenmesini isteyebilir. Bu hükme göre borcunu ödeyen borçlunun makbuz alması ve dönemsel ödemelerin kayıtlara işlenmesi gerekir. Usulüne uygun düzenlenmiş makbuz alacaklı veya temsilcisi tarafından imzalanan ve borçluya verilmesi bir yükümlülük olan, borcun ödendiğinin delilini teşkil eden borçlunun en sağlam ifa kanıtıdır. Senet iadesi ise makbuza göre daha zayıf bir delil olup borcun ödendiğine karine oluşturur. (TBK 103 ve 104. maddeler) Bu ödemenin aksi her zaman ispatlanabilir.
+
+## Yargıtay 22. HD 2018/15246 K.
+
+Uyuşmazlığın normatif dayanağı Borçlar Kanununun 84.–86. maddeleridir. Borçlar Kanununun 84. maddesinde “Borçlu faiz veya masrafları tediyede gecikmiş değil ise kısmen icra eylediği tediyeyi resülmale mahsup edebilir. Alacaklı alacağın bir kısmı için kefalet, rehin veya sair teminat almış ise borçlu kısmen icra eylediği tediyeyi temin edilen veya teminatı daha iyi olan kısma mahsup etmek hakkını haiz değildir” kuralına yer verilmiş; 85. maddesinde “birden fazla borçları bulunan borçlu, borçları ödemek zamanında bu borçlardan hangisini tediye etmek istediğini alacaklıya beyan etmek hakkını haizdir. Borçlu beyanatta bulunmadığı surette vukubulan tediye kendisi tarafından derhal itiraz edilmiş olmadıkça alacaklının makbuzda irae ettiği borca mahsup edilmiş olur” hükmü öngörülmüş; 86. maddede ise “kanunen muteber bir beyan vaki olmadığı yahut makbuzda bir güna mahsup gösterilmediği takdirde, tediye muaccel olan borca mahsup edilir. Müteaddit borçlar muaccel ise tediye, borçlu aleyhinde birinci olarak takip edilen borca mahsup edilir. Takibat vaki olmamış ise tediye, vadesi iptida hulül etmiş olan borca mahsup edilir.
+Müteaddit borçların vadeleri aynı zamanda hulül etmiş ise mahsup mütenasiben vaki olur. Hiç bir borcun vadesi hulül etmemiş ise alacaklı için en az teminatı haiz olan borca mahsup edilir” kuralı düzenlenmiştir.
+
+## Yargıtay 12. HD 2018/2921 K.
+
+6098 sayılı Türk Borçlar Kanunu'nun 100. (818 sayılı B.K'nun 84.) maddesinde; kısmi ödemelerin, öncelikle faizden ve masrafdan mahsup edileceği hükmüne yer verilmiştir. Buna göre, borçlu, faiz ve masrafları ödemedikçe, kısmi ödemeler ana paradan mahsup edilemez. Anılan maddenin uygulanması için, takip talebinde bu yönde ayrıca talepte bulunulması gerekli olmayıp, istek olmasa da memurlukça bu husus re'sen dikkate alınmalıdır (Hukuk Genel Kurulu'nun 09/10/2002 tarih ve 2002/12-709 esas - 2002/781 karar sayılı kararı). Somut olayda, hükme esas alınan 31.12.2014 havale tarihli bilirkişi raporunda, TBK'nun 100 (BK'nun 84.) maddesi uyarınca, kısmi ödemelerin öncelikle faiz ve masraflardan mahsup edilmesi, geriye kalan paranın ise asıl alacaktan indirilmesi ve her ödeme yapıldıkça, bakiye alacağın bu suretle saptanması gerektiği kuralına uyulmadan dosya borcunun belirlendiği görülmüştür. O halde, mahkemece, TBK'nun 100. maddesi (BK'nun 84. maddesi) gözetilerek, Yargıtay denetimine elverişli ek rapor alınarak borç miktarının belirlenmesi ile oluşacak sonuca göre karar verilmesi gerekirken, eksik inceleme ile hatalı bilirkişi raporuna dayalı olarak hüküm kurulması isabetsizdir.
+
+## Yargıtay 8. HD 2017/16388 K.
+
+6098 Sayılı T.B....'nun 100. (Eski 818 sayılı BK 84.) maddesinde, ''Borçlu faiz veya masrafları tediyede gecikmiş değil ise, kısmen yaptığı ödemeyi ana borçta düşme hakkına sahiptir. '' hükmü yer almaktadır. Buna göre, borçlu, faiz ve masrafları ödemedikçe kısmi ödemeler ana paradan mahsup edilemez. Kısmi ödemelerin öncelikle masraflardan ve faizden mahsup edilmesi, geriye kalan paranın ise asıl alacaktan indirilmesi ve her ödeme yapıldıkça bakiye alacağın bu suretle saptanması gerekir.
+
+## Yargıtay 12. HD 2015/6131 K.
+
+Takip tarihi itibariyle olaya uygulanması gereken 818 Sayılı BK'nun 84/1. maddesinde; "Borçlu faiz veya masrafları tediyede gecikmiş değil ise kısmen icra eylediği tediyeyi resülmale mahsup edebilir'' düzenlemesine yer verilmiştir. Buna göre; borçlu, faiz ve masrafları ödemedikçe kısmi ödemeler ana paradan mahsup edilemez. Şu halde, BK'nun 84. maddesi uyarınca, kısmi ödemelerin öncelikle faiz ve masraflardan mahsup edilmesi, geriye kalan paranın ise asıl alacaktan indirilmesi ve her ödeme yapıldıkça bakiye alacağın bu suretle saptanması gerekir.
+
+## Yargıtay 22. HD 2014/25824 K.
+
+Uyuşmazlığın normatif dayanağı Borçlar Kanununun 84–86. maddeleridir. Borçlar Kanununun 84. maddesinde “Borçlu faiz veya masrafları tediyede gecikmiş değil ise kısmen icra eylediği tediyeyi resülmale mahsup edebilir. Alacaklı alacağın bir kısmı için kefalet, rehin veya sair teminat almış ise borçlu kısmen icra eylediği tediyeyi temin edilen veya teminatı daha iyi olan kısma mahsup etmek hakkını haiz değildir” kuralına yer verilmiş; 85.maddesinde “birden fazla borçları bulunan borçlu, borçları ödemek zamanında bu borçlardan hangisini tediye etmek istediğini alacaklıya beyan etmek hakkını haizdir. Borçlu beyanatta bulunmadığı surette vukubulan tediye kendisi tarafından derhal itiraz edilmiş olmadıkça alacaklının makbuzda irae ettiği borca mahsup edilmiş olur” hükmü öngörülmüş; 86.maddede ise “kanunen muteber bir beyan vaki olmadığı yahut makbuzda bir güna mahsup gösterilmediği takdirde, tediye muaccel olan borca mahsup edilir. Müteaddit borçlar muaccel ise tediye, borçlu aleyhinde birinci olarak takip edilen borca mahsup edilir. Takibat vaki olmamış ise tediye, vadesi iptida hulül etmiş olan borca mahsup edilir.
+Müteaddit borçların vadeleri aynı zamanda hulül etmiş ise mahsup mütenasiben vaki olur. Hiç bir borcun vadesi hulül etmemiş ise alacaklı için en az teminatı haiz olan borca mahsup edilir” kuralı düzenlenmiştir.
+
+## Yargıtay 22. HD 2012/28555 K.
+
+Uyuşmazlığın normatif dayanağı Borçlar Kanununun 84.–86. maddeleridir. Borçlar Kanununun 84. maddesinde “Borçlu faiz veya masrafları tediyede gecikmiş değil ise kısmen icra eylediği tediyeyi resülmale mahsup edebilir. Alacaklı alacağın bir kısmı için kefalet, rehin veya sair teminat almış ise borçlu kısmen icra eylediği tediyeyi temin edilen veya teminatı daha iyi olan kısma mahsup etmek hakkını haiz değildir” kuralına yer verilmiş; 85. maddesinde “birden fazla borçları bulunan borçlu, borçları ödemek zamanında bu borçlardan hangisini tediye etmek istediğini alacaklıya beyan etmek hakkını haizdir. Borçlu beyanatta bulunmadığı surette vukubulan tediye kendisi tarafından derhal itiraz edilmiş olmadıkça alacaklının makbuzda irae ettiği borca mahsup edilmiş olur” hükmü öngörülmüş; 86. maddede ise “kanunen muteber bir beyan vaki olmadığı yahut makbuzda bir güna mahsup gösterilmediği takdirde, tediye muaccel olan borca mahsup edilir. Müteaddit borçlar muaccel ise tediye, borçlu aleyhinde birinci olarak takip edilen borca mahsup edilir. Takibat vaki olmamış ise tediye, vadesi iptida hulül etmiş olan borca mahsup edilir.
+Müteaddit borçların vadeleri aynı zamanda hulül etmiş ise mahsup mütenasiben vaki olur. Hiç bir borcun vadesi hulül etmemiş ise alacaklı için en az teminatı haiz olan borca mahsup edilir” kuralı düzenlenmiştir.
+
+## Yargıtay 13. HD 2012/16225 K.
+
+… ödendiğinden yapılan ödemelerin anaparadan değil, faiz ve masraflardan düşüldüğünü bu nedenle davacının talep hakkının olmadığını savunarak, davanın reddini dilemiştir. Borçlar Kanunu 84. maddede ' Borçlu faiz veya masrafları tediyede gecikmiş değil ise kısmen icra eylediği tediyeyi anaborçtan mahsup edebilir' hükmü bulunmaktadır. Mahkemece alınan bilirkişi raporunda BK'nun 84. maddesinin uygulanıp uygulanmayacağı yönünde görüş bildirilmeksizin her iki durum için de terditli sonuçlar çıkartılmış, mahkeme tarafından, davacının takip dosyasına yaptığı ödemelerin öncelikle faiz oranından mahsup edilmesi ve oluşan sonuca göre hüküm kurulması gerektiği gözetilmeksizin, bilirkişinin BK 84. maddeyi uygulamayarak, ödemeleri anaparadan mahsup etmesi ile çıkardığı sonuca göre hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirir.
+
+## Yargıtay 9. HD 2010/5958 K.
+
+Uyuşmazlığın normatif dayanağı Borçlar Kanununun 84–86.maddeleridir. Borçlar Kanununun 84.maddesinde “Borçlu faiz veya masrafları tediyede gecikmiş değil ise kısmen icra eylediği tediyeyi resülmale mahsup edebilir. Alacaklı alacağın bir kısmı için kefalet, rehin veya sair teminat almış ise borçlu kısmen icra eylediği tediyeyi temin edilen veya teminatı daha iyi olan kısma mahsup etmek hakkını haiz değildir” kuralına yer verilmiş; 85.maddesinde “birden fazla borçları bulunan borçlu, borçları ödemek zamanında bu borçlardan hangisini tediye etmek istediğini alacaklıya beyan etmek hakkını haizdir. Borçlu beyanatta bulunmadığı surette vukubulan tediye kendisi tarafından derhal itiraz edilmiş olmadıkça alacaklının makbuzda irae ettiği borca mahsup edilmiş olur” hükmü öngörülmüş;
+
+…
+
+## Yargıtay 9. HD 2010/1325 K.
+
+Uyuşmazlığın normatif dayanağı Borçlar Kanununun 84–86.maddeleridir. Borçlar Kanununun 84.maddesinde “Borçlu faiz veya masrafları tediyede gecikmiş değil ise kısmen icra eylediği tediyeyi resülmale mahsup edebilir. Alacaklı alacağın bir kısmı için kefalet, rehin veya sair teminat almış ise borçlu kısmen icra eylediği tediyeyi temin edilen veya teminatı daha iyi olan kısma mahsup etmek hakkını haiz değildir” kuralına yer verilmiş; 85.maddesinde “birden fazla borçları bulunan borçlu, borçları ödemek zamanında bu borçlardan hangisini tediye etmek istediğini alacaklıya beyan etmek hakkını haizdir. Borçlu beyanatta bulunmadığı surette vukubulan tediye kendisi tarafından derhal itiraz edilmiş olmadıkça alacaklının makbuzda irae ettiği borca mahsup edilmiş olur” hükmü öngörülmüş;
+
+…
+
+## Yargıtay 9. HD 2010/1324 K.
+
+Uyuşmazlığın normatif dayanağı Borçlar Kanununun 84–86.maddeleridir. Borçlar Kanununun 84.maddesinde “Borçlu faiz veya masrafları tediyede gecikmiş değil ise kısmen icra eylediği tediyeyi resülmale mahsup edebilir. Alacaklı alacağın bir kısmı için kefalet, rehin veya sair teminat almış ise borçlu kısmen icra eylediği tediyeyi temin edilen veya teminatı daha iyi olan kısma mahsup etmek hakkını haiz değildir” kuralına yer verilmiş; 85.maddesinde “birden fazla borçları bulunan borçlu, borçları ödemek zamanında bu borçlardan hangisini tediye etmek istediğini alacaklıya beyan etmek hakkını haizdir. Borçlu beyanatta bulunmadığı surette vukubulan tediye kendisi tarafından derhal itiraz edilmiş olmadıkça alacaklının makbuzda irae ettiği borca mahsup edilmiş olur” hükmü öngörülmüş;
+
+…
+
+## Yargıtay 15. HD 2009/692 K.
+
+Borçlar Kanunu’nun 85. maddesinde “Birden fazla borçları bulunan borçlu, borçları ödemek zamanında bu borçlardan hangisini tediye etmek istediğini alacaklıya beyan etmek hakkını haizdir. Borçlu beyanatta bulunmadığı surette, vukubulan tediye, kendisi tarafından derhal itiraz edilmiş olmadıkça, alacaklının makbuzda irae ettiği borca mahsup edilmiş olur.” hükmü getirilmiş, 86. maddesinde de “Kanunen muteber bir beyan vâki olmadığı yahut makbuzda bir güne mahsup gösterilmediği takdirde tediye, muaccel olan borca mahsup edilir. Müteaddit borçlar muaccel ise, tediye birinci olarak takip edilen borca mahsup edilir. Takibat vâki olmamış ise, tediye, vadesi iptida hulül etmiş borca mahsup edilir. Müteaddit borçların vadeleri aynı zamanda hulül etmiş ise, mahsup mütenasiben vâki olur. Hiçbir borcun vadesi hulül etmemiş ise, alacaklı için en az teminatı haiz olan borca mahsup edilir.” şeklinde düzenleme yapılmıştır.
+
+## İzmir BAM 17. HD 2026/1214 K.
+
+Kısmi ifaya ilişkin hükümler, takip ve dava tarihinde yürürlükte bulunan 6098 Sayılı TBK'nun 100 ve devamındaki maddelerde düzenlenmiştir. TBK'nun 101/1.maddesi gereğince birden fazla borcu bulunan borçlu, ödeme gününde bu borçlardan hangisini ödemek istediğini alacaklıya beyan etme hakkına haizdir. Aynı yasanın 102/1.maddesinde ise, kanunen geçerli bir açıklama yapılmadığı veya makbuzda ödemenin hangi borca mahsup edileceği gösterilmediği takdirde ödemenin muaccel olan borçtan mahsup edilmesinin gerektiği, birden çok borç muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış olduğunun kabul edileceği, takip yapılmamış ise ödemenin vadesi ilk önce gelmiş olan borç için yapılmış sayılacağının hüküm altına alındığı görülmüştür.
+
+## İstanbul BAM 13. HD 2026/942 K.
+
+TBK'nun 101 maddesi uyarınca; birden çok borcu bulunan borçlu, ödeme gününde bu borçlardan hangisini ödemek istediğini alacaklıya bildirebilir. Borçlu bildirimde bulunmazsa, yapılan ödeme, kendisi tarafından derhâl itiraz edilmiş olmadıkça, alacaklının makbuzda gösterdiği borç için yapılmış sayılır. TBK'nun 102/1 fıkrası uyarınca; kanunen geçerli bir açıklama yapılmadığı veya makbuzda bir açıklık bulunmadığı durumda ödeme, muaccel borç için yapılmış sayılır. Birden çok borç muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış olduğu kabul edilir. Takip yapılmamış ise ödeme, vadesi ilk önce gelmiş olan borç için yapılmış olur. TBK'nun 102/2 fıkrası uyarınca birden çok borcun vadesi aynı zamanda gelmişse, mahsup orantılı olarak; borçlardan hiçbirinin vadesi gelmemişse ödeme, güvencesi en az olan borç için yapılmış sayılır.
+
+## İstanbul BAM 43. HD 2026/753 K.
+
+Sözlük anlamı “sayışma” olan mahsup; bir alacağı doğuran olayla ilgili olarak, alacaklının elde ettiği bazı menfaatlerin ya da borçlunun katlandığı bazı yükümlülüklerin alacaktan indirilmesidir. Mahsuplaşmada, takastan farklı olarak iki ayrı alacak bulunmamaktadır. Buna göre, alacak miktarından tenzil edilecek değer, karşı alacak olmayıp gerçek alacağı bulmak üzere hesaplanan alacaktan indirilmesi gereken bir bedeldir. Bu nedenle, mahsupta hukuken karşılıklı alacaklılık ilişkisinden öte, alacağın gerçek miktarının tespiti için yapılan bir işlemin varlığı kabul edilmelidir. Mahsupta, doğmuş bir alacaktan söz edilemeyeceği için, mahsubun borcu sona erdiren bir neden olduğu da düşünülemez. Ayrıca, mahsup talebi hukuki niteliği itibariyle def’i olmayıp; itiraz niteliğinde olduğundan, savunmanın genişletilmesi yasağına tabi kabul edilmez. Bu yönüyle, yerleşik yargı kararlarında belirtildiği gibi mahsubun yargılama devam ettiği sürece karşı tarafın muvafakatı olmaksızın ileri sürülmesi mümkündür. TBK 76/2, 325/2, 408. Maddeleri, TTK 1427/3 maddesi yasada düzenlenen mahsup işlemine örnek olarak gösterilebilir.
+
+## Sakarya BAM 7. HD 2025/1105 K.
+
+6098 sayılı TBK'nın 100. maddesinde; ''borçlu, faiz veya giderleri ödemede gecikmemiş ise, kısmen yaptığı ödemeyi ana borçtan düşme hakkına sahiptir. Aksine anlaşma yapılamaz'' hükmü yer almaktadır. TBK'nın 100. maddesi gereğince; ödemelerin öncelikle asıl alacaktan düşülebilmesi için, borçlunun faiz ve masrafları ödemede gecikmemiş olması zorunludur. Buna göre; borçlu, faiz ve masrafları ödemedikçe, kısmi ödemeler ana paradan mahsup edilemez. Başka bir anlatımla; kısmi ödemelerin öncelikle fer'i alacaklardan mahsup edileceği kuralı bulunmaktadır.
+
+## Antalya BAM 16. HD 2024/548 K.
+
+TBK'nın 101. Maddesine göre birden çok borcu bulunan borçlu, ödeme gününde bu borçlardan hangisini ödemek istediğini alacaklıya bildirebileceği, borçlu bildirimde bulunmazsa, yapılan ödeme, kendisi tarafından derhâl itiraz edilmiş olmadıkça, alacaklının makbuzda gösterdiği borç için yapılmış sayılacağı, TBK'nun 102. Maddesinde ise taraflar arasında birden fazla borç bulunması halinde kanunen geçerli bir açıklama yapılmadığı veya makbuzda bir açıklık bulunmadığı durumda ödemenin muaccel borç için yapılmış sayılacağı, birden çok borç muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış olduğunun kabul edileceği, takip yapılmamış ise ödeme, vadesi ilk önce gelmiş olan borç için yapılmış sayılacağı, birden çok borcun vadesi aynı zamanda gelmişse, mahsup orantılı olarak; borçlardan hiçbirinin vadesi gelmemişse ödeme, güvencesi en az olan borç için yapılmış sayılacağının kabul edileceği hüküm altına alınmıştır.
+
+## Sakarya BAM 7. HD 2023/694 K.
+
+6098 sayılı TBK'nın 100. maddesinde; ''borçlu, faiz veya giderleri ödemede gecikmemiş ise, kısmen yaptığı ödemeyi ana borçtan düşme hakkına sahiptir. Aksine anlaşma yapılamaz'' hükmü yer almaktadır. TBK'nın 100. maddesi gereğince; ödemelerin öncelikle asıl alacaktan düşülebilmesi için, borçlunun faiz ve masrafları ödemede gecikmemiş olması zorunludur. Buna göre; borçlu, faiz ve masrafları ödemedikçe, kısmi ödemeler ana paradan mahsup edilemez. Başka bir anlatımla; kısmi ödemelerin öncelikle fer'i alacaklardan mahsup edileceği kuralı bulunmaktadır. "... İcra takibinden sonra dava tarihinden önce yapılan ödemeler ile ilgili davacının itirazın iptali davası açmakta hukuki yararı bulunmamaktadır. Ancak bakiye kalan alacak ve fer'ileri ile ilgili dava açılabilir. Dava açıldıktan sonra yapılan ödemeler ise icra müdürü tarafından infaz sırasında dikkate alınır. (TBK. m.100, BK. m.84) Mahkemece yukarıda açıklanan hususlar dikkate alınarak davacının alacaklı olduğu miktar belirlenip sonucuna göre karar verilmesi gerekirken infazda tereddüte ve talep aşımına yol açacak şekilde itirazın iptaline karar verilmesi doğru görülmemiş, mahkeme kararının bozulması gerekmiştir" (Yargıtay 19.
+Hukuk Dairesi, 28.01.2016 tarih, 2015/9735 Esas - 2016/1063 Karar).
+
+## Adana BAM 9. HD 2022/374 K.
+
+TBK'nun 101.maddesinde, birden çok borcu bulunan borçlunun, ödeme gününde, bu borçlardan hangisini ödemek istediğini alacaklıya bildirebileceği, borçlu bildirimde bulunmazsa, yapılan ödemenin, kendisi tarafından derhâl itiraz edilmiş olmadıkça, alacaklının makbuzda gösterdiği borç için yapılmış sayılacağı, TBK.nun 102. maddesinde ise, kanunen geçerli bir açıklama yapılmadığı veya makbuzda bir açıklık bulunmadığı durumda ödemenin, muaccel borç için yapılmış sayılacağı, birden çok borç muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış olduğu kabul edileceği, takip yapılmamış ise ödemenin, vadesi ilk önce gelmiş olan borç için yapılmış olacağı hüküm altına alınmıştır.

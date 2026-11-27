@@ -1,0 +1,36 @@
+---
+derleme: "Kira Hukuku Emsal Kararlar"
+kod: kira
+surum: "V7"
+derleyen: "Av. Hakan Dimdik (x.com/hakandimdik)"
+konu:
+  - "§1. GENEL (ADÎ) KİRA HÜKÜMLERİ"
+  - "II. KİRA SÖZLEŞMESİNİN TÜRÜNÜN TESPİTİ"
+  - "D. GENEL KİRA HÜKÜMLERİNİN GEÇERLİ OLDUĞU KİRA SÖZLEŞMESİNDE KİRAYA VERENİN İZNİYLE YAPI YAPILMASININ SÖZLEŞMEYİ KONUT VE ÇATILI İŞ YERİ KİRASINA DÖNÜŞTÜRMESİ"
+bolum: "01-02-04"
+parca: "1/1"
+sira: "19-20"
+karar_sayisi: 2
+kaynak_pdf: "https://drive.google.com/file/d/1m2-_-6lDyG_3P3_cWJjBt7lU6FdOVm9W/view"
+uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künyelerin çoğunda esas numarası ve tarih yoktur. Kullanmadan önce kararın tam metnini resmî kaynaktan doğrulayın."
+---
+
+# D. GENEL KİRA HÜKÜMLERİNİN GEÇERLİ OLDUĞU KİRA SÖZLEŞMESİNDE KİRAYA VERENİN İZNİYLE YAPI YAPILMASININ SÖZLEŞMEYİ KONUT VE ÇATILI İŞ YERİ KİRASINA DÖNÜŞTÜRMESİ
+
+> Av. Hakan Dimdik, "Kira Hukuku Emsal Kararlar" › §1. GENEL (ADÎ) KİRA HÜKÜMLERİ › II. KİRA SÖZLEŞMESİNİN TÜRÜNÜN TESPİTİ › D. GENEL KİRA HÜKÜMLERİNİN GEÇERLİ OLDUĞU KİRA SÖZLEŞMESİNDE KİRAYA VERENİN İZNİYLE YAPI YAPILMASININ SÖZLEŞMEYİ KONUT VE ÇATILI İŞ YERİ KİRASINA DÖNÜŞTÜRMESİ · parça 1/1 · sıra 19-20. Seçme alıntılardır, kararın tamamı değildir; resmî kaynaktan doğrulayın.
+
+## Yargıtay 6. HD 2015/9945 K.
+
+Davacı vekili dava dilekçesinde, dava konusu tarla niteliğindeki taşınmazın tapuda müvekkilleri adına müştereken kayıtlı olduğunu, davalının da dava konusu taşınmazda 20 yıla yakın bir süredir kiracı olarak bulunduğunu, davalı ile en son yapılan kira sözleşmesinin 15.07.2013 başlangıç tarihli ve 1 yıl süreli olduğunu, yeni kira dönemi için sözleşmenin yenilenmeyeceğinin, taşınmazın 15.07.2014 tarihinde boşaltılarak taraflarına teslim edilmesinin davalıya bildirildiğini, ancak davalının taşınmazı boşaltmadığını ileri sürerek, davalının kiralanandan tahliyesine karar verilmesini talep ve dava etmiştir.
+Davalı vekili cevap dilekçesinde, kira sözleşmesine bir diyecekleri olmadığını, müvekkilinin yaklaşık 20 yıldır burada hurda işi ile iştigal ettiğini, taşınmazda çatılı işyeri bulunduğunu ve belediye mücavir alanları içerisinde yer aldığını, davacının salt sözleşme süresinin bitmesine dayanarak tahliye talebinde bulunmasının yasalara aykırı olduğunu, **müvekkilin davacıların muvafakati ile ta-şınmaz üzerine 2 katlı idare binası, 1.000 m2’lik depo inşa ettiğini, sözleşmenin 15.07.2013 tarihinde akdedilmiş olup, TBK’nun 347. maddesi uyarınca sözleşmenin sona erdirilemeyeceğini ileri sürerek davanın reddini savunmuştur**. Mahkemece, TBK’nun 347. maddesine göre kiraya verenin sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremeyeceği, ancak on yıllık uzama süresi sonunda 3 ay önceden bildirimde bulunmak koşuluyla herhangi bir sebep göstermeden kira sözleşmesini sona erdirebileceğinin hükme bağlandığı, sözleşme süresinin dolduğundan bahisle yapılan tahliye talebinin usul ve hukuka uygun olmadığı gerekçesiyle davanın reddine karar verilmiştir.
+
+Taraflar arasındaki kira ilişkisinin 20 yıl kadar önce başladığı hususunda uyuşmazlık bulunmamaktadır. Davalı kiraya verilen yerin TBK’nun genel hükümlerine tabi olmayıp çatılı işyeri kirası hükümlerine tabi olduğunu, taşınmaz üzerine 2 katlı idare binası, 1.000 m2’den oluşan 600 m2’si kapalı, 400 m2’si açık olmak üzere depo inşa ettiğini ve kira sözleşmesinin 15.07.2013 tarihinde 1 yıl süreli olarak yenilendiğini savunmuştur. Dava konusu taşınmaz tapu kaydında ‘tarla’ niteliğindedir. Yine taraflar arasında 15.07.2013 tarihinde akdedilen kira sözleşmesinde de, kiralananın cinsi ‘tarla’ olarak belirtilmiştir. **Dosya kapsamından kiralananın TBK’nun adi kiraya ilişkin hükümlerine mi ya da konut ve çatılı iş yeri kirası hükümlerine mi tabi olduğu anlaşılamamaktadır. Bu nedenle mahkemece uzman bilirkişi marifetiyle mahallinde keşif yapılarak taşınmazın mevcut vasfı itibariyle TBK’nun konut ve çatılı işyeri kiraları genel hükümler (adi kira) ve ürün kirası hükümlerinden hangisine tabi olduğu belirlenerek sonucuna göre karar verilmesi gerekirken** eksik inceleme ile yazılı şekilde karar verilmesi doğru değildir.
+
+## Yargıtay 6. HD 2008/6632 K.
+
+Taraflar arasında 05.09.1999 başlangıç tarihli ve 1 yıl süreli kira sözleşmesi konusunda bir uyuşmaz-lık bulunmamaktadır. Kira sözleşmesinde kiralananın boş arsa durumunda olduğu, kömür satış ve in-şaat malzemeleri işi için kullanılacağı yazılıdır. Kira sözleşmesinin özel şartlar bölümünün 1. maddesinde ise, kiracının kiralamış olduğu arsanın içindeki barınma
+
+yerini çıkarken söküp götüreceği kararlaştırılmıştır. Kira sözleşmesinde belirtilen bu niteliklerinden ve sözleşme anındaki durumundan ki-ralananın Borçlar Kanunu'nun adi kiraya ilişkin hükümlerine tabi olduğu anlaşılmaktadır. Davalının Belediye İmar Müdürlüğü'ne verdiği 19.04.2004 tarihli dilekçesinde de yeri boş arsa olarak kiraladığı, üzerine iki katlı bir yer ve çevre düzenlemesi yaptırıp işlettiğini belirttiği görülmektedir.
+Taşınmaz başında yapılan keşif sonucu düzenlenen bilirkişi raporu ile davacı adına kayıtlı 128 m2 alanlı 9 parsel sayılı, halen çay bahçesi olarak kullanılan taşınmaz üzerinde 10,33 m2 alanlı alüminyum doğ-rama yazıhane ile 50.85 m2 oturum alanlı giriş ve birinci kattan ibaret taşınabilir niteliği bulunmayan bir bina bulunduğu tespit edilmiş ise de, Dairemizin kararlılıkla devam eden ve sapma göstermeyen uygulamasına göre, **kira sözleşmesi düzenlendikten sonra kiracının kendisine tanınmış açık bir yetki olmaksızın taşınmaz üzerine sökülüp götürülmesi mümkün bulunmayan örtülü nitelikte yapı yapmış olması kiralananın sözleşmedeki niteliğini değiştirmez**. **Örtülü yapıya rağmen sözleşmeye konu taşınmaz Borçlar Kanunu'nun adi kiraya ilişkin hükümlerine tabi olmaya devam eder. İlk kira ilişkisi kurulduktan ve kiracı tarafından kiralananda musakkaf nitelikte bina inşa edildikten sonra taraflar arasında akdi ilişkinin yenilenmesi halinde ancak kiralananın niteliğinin değiştiğinden bahsedilebilir ki bu durum olayımızda gerçekleşmemiştir**.
+**Örtülü nitelikteki yapıların yapımına ilişkin kiracıya yetki tanınmadığına, 05.09.1999 başlangıç tarihli kira sözleşmesinin yazılı olarak yenilenmesi suretiyle yapılan binalara davacı tarafından onay verilmediğine göre, kiralananın Borçlar Kanunu'nun adi kiraya ilişkin hükümlerine tabi olduğunun kabulü zorunludur**. Kaldı ki, 128 m2 alanlı taşınmaz üzerinde bulunan yapıların toplam yüzölçümleri itibariyle taşınmazın üstün niteliğinin örtüsüz olduğu, bu hali ile de taşınmazın 6570 sayılı Yasa'ya tabi bulunmadığı kuşkusuzdur. Açıklanan maddi ve hukuki olgular karşısında uyuşmazlığın Borçlar Kanunu'nun hükümlerine göre çözümlenmesi gerekir. Taraflar arasındaki 05.09.1999 başlangıç tarihli ve bir yıl süreli kira sözleşmesi Borçlar Kanunu'nun 263. maddesi gereğince bir yılın sonunda 05.09.2000 tarihinde süresiz hale dönüşmüş olup, davacı tarafından davalıya gönderilen 11.05.2006 keşide ve 30.05.2006 tebliğ edilen feshi ihbar altı aylık dönem sonu olan 05.09.2006 tarihinden üç ay öncesini kapsadığından 14.09.2006 tarihinde açılan dava süresindedir.
+Dava süresinde açıldığına göre başka bir sebep aranmaksızın akdin feshiyle kiralananın tahliyesine karar verilmesi gerekirken, yazılı gerekçe ile davanın reddine karar verilmesi usul ve yasaya aykırıdır.

@@ -1,0 +1,182 @@
+---
+derleme: "Borçlar Genel Hukukuna İlişkin Emsal Kararlar"
+kod: borclar-genel
+surum: ""
+derleyen: "Av. Hakan Dimdik (x.com/hakandimdik)"
+konu:
+  - "§2. İRADE BOZUKLUKLARI"
+  - "I. YANILMA (TBK m. 30–35)"
+bolum: "02-01"
+parca: "1/2"
+sira: "439-478"
+karar_sayisi: 40
+sonraki: "borclar-genel.02-01.002.md"
+kaynak_pdf: "https://drive.google.com/file/d/1Tds94HCnpZfAApwepPXlVd-jhQcg61t6/view"
+uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künyelerin çoğunda esas numarası ve tarih yoktur. Kullanmadan önce kararın tam metnini resmî kaynaktan doğrulayın."
+---
+
+# I. YANILMA (TBK m. 30–35)
+
+> Av. Hakan Dimdik, "Borçlar Genel Hukukuna İlişkin Emsal Kararlar" › §2. İRADE BOZUKLUKLARI › I. YANILMA (TBK m. 30–35) · parça 1/2 · sıra 439-478. Seçme alıntılardır, kararın tamamı değildir; resmî kaynaktan doğrulayın.
+
+## Yargıtay HGK 2025/282 K.
+
+İrade bozukluğu hâlleri 818 sayılı Kanun'da Rızadaki fesat başlığı altında Hata, Hile ve İkrah olarak 23 ilâ 31. maddeler arasında hükme bağlanmış iken, 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Kanun'da ise 30 ilâ 39. maddeleri arasında Yanılma, Aldatma ve Korkutma başlıkları altında düzenlenmiştir.
+
+## Yargıtay HGK 2024/279 K.
+
+15\. 6098 sayılı Kanun'un "İrade bozukluğunun giderilmesi" kenar başlıklı 39 uncu maddesinin birinci fıkrası "Yanılma veya aldatma sebebiyle ya da korkutulma sonucunda sözleşme yapan taraf, yanılma veya aldatmayı öğrendiği ya da korkutmanın etkisinin ortadan kalktığı andan başlayarak bir yıl içinde sözleşme ile bağlı olmadığını bildirmez veya verdiği şeyi geri istemezse, sözleşmeyi onamış sayılır" şeklinde düzenlenmiş olup bu hükme göre maddede öngörülen süre içerisinde sözleşmenin iptali istenebilir. Bu süre geçirilir veya sözleşme onanırsa o zaman sözleşme baştan itibaren geçerli hâle gelir. Hemen belirtmek gerekir ki, anılan maddenin ikinci fıkrasında açıklandığı üzere korkutmadan dolayı bağlayıcılığı olmayan bir sözleşmenin onanmış sayılması, tazminat hakkını ortadan kaldırmayacağından sözleşme hükümsüz hâle getirilmese bile korkutma nedeniyle doğan zararın tazmini mümkündür.
+
+## Yargıtay HGK 2023/1137 K.
+
+Bilindiği üzere ″hile″ (aldatma); genel olarak bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı koruma yahut devamını sağlamak şeklinde tanımlanır. Hatada yanılma, hilede ise yanıltma söz konusudur. 6098 sayılı Türk Borçlar Kanununun(TBK) 36/1.(818 sayılı Borçlar Kanununun (BK) 28/1.) maddesinde açıklandığı üzere taraflardan biri diğer tarafın kasıtlı aldatmasıyla sözleşme yapmaya yöneltilmişse yanılma(hata) esaslı olmasa bile aldatılan taraf için sözleşme bağlayıcı sayılamaz. Değinilen koşulların varlığı halinde aldatılan taraf hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili(makable şamil) olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir.
+
+## Yargıtay HGK 2023/268 K.
+
+Bilindiği gibi, sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, 6098 sayılı Türk Borçlar Kanununda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31 ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay HGK 2023/247 K.
+
+Hemen belirtmek gerekir ki, 6098 sayılı Kanun'da esaslı yanılma (hatanın) tanımı yapılmamış, 31 inci maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan yanılmanın (hatanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur (Fikret Eren, Ünsal Dönmez, Eren Borçlar Hukuku Şerhi, Ankara 2022, C.1., s. 844).
+
+## Yargıtay HGK 2023/21 K.
+
+Bilindiği üzere, Hile (aldatma), genel olarak bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı koruma yahut devamını sağlamak şeklinde tanımlanır. Hata da yanılma, hilede ise yanıltma söz konusudur. 6098 s. Türk Borçlar Kanununun (TBK) 36/1. (818 s. Borçlar Kanunun (BK) 28/1.) maddesinde açıklandığı üzere taraflardan biri diğer tarafın kasıtlı aldatmasıyla sözleşme yapmaya yöneltilmişse yanılma (hata) esaslı olmasa bile aldatılan taraf için sözleşme bağlayıcı sayılamaz. Değinilen koşulların varlığı halinde aldatılan taraf hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili (makable şamil) olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir.
+
+## Yargıtay HGK 2022/1415 K.
+
+Hile (aldatma), genel olarak bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı koruma yahut devamını sağlamak şeklinde tanımlanır. Hata da yanılma, hilede ise yanıltma söz konusudur. 6098 s. Türk Borçlar Kanununun (TBK) 36/1. (818 s. Borçlar Kanunun (BK) 28/1.) maddesinde açıklandığı üzere taraflardan biri diğer tarafın kasıtlı aldatmasıyla sözleşme yapmaya yöneltilmişse yanılma (hata) esaslı olmasa bile aldatılan taraf için sözleşme bağlayıcı sayılamaz. Değinilen koşulların varlığı halinde aldatılan taraf hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili (makable şamil) olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir.
+
+## Yargıtay HGK 2021/60 K.
+
+Bilindiği üzere; sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, Türk Borçlar Kanununda esaslı hatanın tanımı yapılmamış, 31. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (Subjektif unsur), hemde iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay HGK 2018/1939 K.
+
+Bilindiği üzere; sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, Borçlar Kanununda esaslı hatanın tanımı yapılmamış, 24. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi,girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf yönünden (Subjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının isbatlanması zorunludur.
+
+## Yargıtay HGK 2018/1847 K.
+
+Türk Borçlar Kanununun esas aldığı yanılma hâlleri bir başka açıdan “esaslı yanılma” ile “saik yanılması” olmak üzere ikiye ayrılmaktadır. Türk Borçlar Kanunu, hukuki işlemlerde güven ilkesi sebebiyle kural olarak yalnız beyan yanılmasını esaslı yanılma saymıştır. Bununla birlikte Kanun koyucu, hakkaniyet ve adalet duygularını dikkate alarak istisnai hâllerde saik yanılmasını da kabul etmiştir. Gerçekten, Türk Borçlar Kanunu hukuken önem arzeden saik yanılmasını üç hâlde düzenlemiştir. Bunlar; temel yanılması, aldatma ve gabin hâlleridir (Eren, s.394).
+
+## Yargıtay 1. HD 2026/1175 K.
+
+Diğer taraftan, sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. 6098 sayılı Türk Borçlar Kanunu'nda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31... . maddelerde sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca, iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf yönünden (sübjektif unsur) hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 10. HD 2025/1127 K.
+
+Anlaşma tutanağı; yanılma (hata, TBK. mad. 30 vd , Ki, TBK. mad. 31/1.5 “Yanılanın, gerçekte üstlenmek istediğinden önemli ölçüde fazla bir edim için veya gerçekte istediğinden önemli ölçüde az bir karşı edim için iradesini açıklamışsa, bunun esaslı bir yanılma olduğunu kabul etmiştir. Kısaca gabin halini yanılma olarak belirtmiştir), aldatma (TBK. 36.) ve korkutma (TBK. 37) hallerinde imzalanmış ise geçersizliği ileri sürülebilir. 6098 sayılı TBK.’nın 39. maddesine göre “Yanılma veya aldatma sebebiyle ya da korkutulma sonucunda sözleşme yapan taraf, yanılma veya aldatmayı öğrendiği ya da korkutmanın etkisinin ortadan kalktığı andan başlayarak bir yıl içinde sözleşme ile bağlı olmadığını bildirmez veya verdiği şeyi geri istemezse, sözleşmeyi onamış sayılır. Taraflar arasındaki ihtiyari arabuluculuk tutanağı, maddi anlamda bir sulh sözleşmesi olup, yukarıda belirtilen yasal emredici kurallar çerçevesinde incelenmesi gerekir. Bu tutanağın bazı maddelerinin özellikle geçersizliğinin ileri sürüldüğüne ve yapılan bir ibra olmaması karşısında davanın esasına girilerek yapılacak değerlendirme sonucuna göre hüküm kurulmalıdır.
+Bu sebeplerle ihtiyari arabuluculuk tutanağının yukarıda açıklanan maddi ve hukuki olgular kapsamında geçerliliği değerlendirilmeden, salt 6285 sayılı HUAK.'ın 18/5. maddesi uyarınca ilam niteliğinde olduğu ve dava açılamayacağı gerekçesi ile davanın reddine karar verilmesi hatalıdır.
+
+## Yargıtay 1. HD 2024/6840 K.
+
+Sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, 6098 sayılı Türk Borçlar Kanunu'nda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31 ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 7. HD 2024/893 K.
+
+Sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. TBK'da tıpkı BK gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31 inci ve 32 inci maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2023/4059 K.
+
+Bilindiği üzere,"hile"(aldatma); genel olarak bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı koruma yahut devamını sağlamak şeklinde tanımlanır. Hatada yanılma, hilede ise yanıltma söz konusudur. 6098 sayılı ... Borçlar Kanunu'nun(TBK) 36/1. (818 sayılı Borçlar Kanunu'nun(BK) 28/1.) maddesinde açıklandığı gibi; taraflardan biri diğer tarafın kasıtlı aldatmasıyla sözleşme yapmaya yöneltilmişse, yanılma(hata) esaslı olmasa bile aldatılan taraf için sözleşme bağlayıcı sayılamaz. Değinilen koşulların varlığı halinde aldatılan taraf bu hakkını kullanarak hukuki ilişkiyi geçmişe etkili (makable şamil) olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir.
+
+## Yargıtay 1. HD 2023/4056 K.
+
+Bilindiği üzere,"hile"(aldatma); genel olarak bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı koruma yahut devamını sağlamak şeklinde tanımlanır. Hatada yanılma, hilede ise yanıltma söz konusudur. 6098 sayılı ... Borçlar Kanunu'nun(TBK) 36/1. (818 sayılı Borçlar Kanunu'nun(BK) 28/1.) maddesinde açıklandığı gibi; taraflardan biri diğer tarafın kasıtlı aldatmasıyla sözleşme yapmaya yöneltilmişse, yanılma(hata) esaslı olmasa bile aldatılan taraf için sözleşme bağlayıcı sayılamaz. Değinilen koşulların varlığı halinde aldatılan taraf bu hakkını kullanarak hukuki ilişkiyi geçmişe etkili (makable şamil) olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir.
+
+## Yargıtay 1. HD 2023/3041 K.
+
+Sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, 6098 sayılı ... Borçlar Kanunu'nda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31 ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de ... hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2023/2877 K.
+
+Sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, TBK'da tıpkı BK gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31. ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de ... hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 3. HD 2023/2597 K.
+
+3\. 6098 sayılı Türk Borçlar Kanunu'nun (6098 sayılı Kanun) Saikte yanılma başlıklı 32 nci maddesi; "Saikte yanılma, esaslı yanılma sayılmaz. Yanılanın, yanıldığı saiki sözleşmenin temeli sayması ve bunun da ... ilişkilerinde geçerli dürüstlük kurallarına uygun olması hâlinde yanılma esaslı sayılır. Ancak bu durumun karşı tarafça da bilinebilir olması gerekir." şeklinde düzenlemiştir.
+
+## Yargıtay 1. HD 2023/2421 K.
+
+Sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, 6098 sayılı ... Borçlar Kanunu'nda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31 ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de ... hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2023/1542 K.
+
+Bilindiği üzere sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2023/1323 K.
+
+Sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, 6098 sayılı Türk Borçlar Kanunu'nda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31 ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2023/1165 K.
+
+Hile (aldatma), genel olarak bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı koruma yahut devamını sağlamak şeklinde tanımlanır. Hata da yanılma, hilede ise yanıltma söz konusudur. 6098 s. Türk Borçlar Kanunu'nun (TBK) 36/1. maddesinde açıklandığı üzere taraflardan biri diğer tarafın kasıtlı aldatmasıyla sözleşme yapmaya yöneltilmişse yanılma (hata) esaslı olmasa bile aldatılan taraf için sözleşme bağlayıcı sayılamaz. Değinilen koşulların varlığı halinde aldatılan taraf hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili (makable şamil) olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir.
+
+## Yargıtay 1. HD 2023/854 K.
+
+2\. 6098 sayılı Türk Borçlar Kanunu’nun 31. ve devam maddelerinde esaslı hatanın (yanılmanın) tanımı yapılmamış, sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur. Bu koşulların varlığı halinde hataya düşen taraf, isterse iptal hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili (makable şamil) olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir. ... ki hatanın ileri sürülmesi TBK'nin 35. (BK'nın 25.) ve TMK'nın 2. maddesinde hükme bağlanan dürüstlük kuralına aykırı olmasın.
+
+## Yargıtay 1. HD 2023/573 K.
+
+Sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. TBK'da tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31 ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2023/256 K.
+
+Öte yandan, sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. 6098 sayılı Türk Borçlar Kanunu'nda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31. ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2022/8348 K.
+
+3.2.1. Bilindiği üzere, sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, 6098 sayılı Türk Borçlar Kanunu'nda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31. ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2022/8338 K.
+
+6.2.2. Bilindiği üzere; sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, Borçlar Kanununda esaslı hatanın tanımı yapılmamış, 24 üncü maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2022/7731 K.
+
+12.2.1. Bilindiği üzere, sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, 6098 sayılı Türk Borçlar Kanunu'nda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31. ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2022/7705 K.
+
+3.2.2. Bilindiği üzere, sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, 6098 sayılı Türk Borçlar Kanunu'nda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31. ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2022/6797 K.
+
+3.2.1. Bilindiği üzere, sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, 6098 sayılı Türk Borçlar Kanunu'nda (TBK) tıpkı 818 sayılı Borçlar Kanunu (BK) gibi esaslı hatanın (yanılmanın) tanımı yapılmamış, 31. ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2022/6620 K.
+
+3.2.2. 6098 sayılı Türk Borçlar Kanunu’nun 31. ve devam maddelerinde esaslı hatanın (yanılmanın) tanımı yapılmamış, sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2022/6022 K.
+
+Hile (aldatma), genel olarak bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı koruma yahut devamını sağlamak şeklinde tanımlanır. Hata da yanılma, hilede ise yanıltma söz konusudur. 6098 s. Türk Borçlar Kanunu'nun (TBK) 36/1. (818 s. Borçlar Kanunu'nun (BK) 28/1.) maddesinde açıklandığı üzere taraflardan biri diğer tarafın kasıtlı aldatmasıyla sözleşme yapmaya yöneltilmişse yanılma (hata) esaslı olmasa bile aldatılan taraf için sözleşme bağlayıcı sayılamaz. Değinilen koşulların varlığı halinde aldatılan taraf hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili (makable şamil) olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir.
+
+## Yargıtay 1. HD 2022/5906 K.
+
+Bilindiği üzere, "hile"(aldatma); genel olarak bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı koruma yahut devamını sağlamak şeklinde tanımlanır. Hatada yanılma, hilede ise yanıltma söz konusudur. 6098 sayılı Türk Borçlar Kanunu'nun(TBK) 36/1. (818 sayılı Borçlar Kanunu'nun(BK) 28/1.) maddesinde açıklandığı gibi; taraflardan biri diğer tarafın kasıtlı aldatmasıyla sözleşme yapmaya yöneltilmişse, yanılma(hata) esaslı olmasa bile aldatılan taraf için sözleşme bağlayıcı sayılamaz. Değinilen koşulların varlığı halinde aldatılan taraf bu hakkını kullanarak hukuki ilişkiyi geçmişe etkili (makable şamil) olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir.
+
+## Yargıtay 1. HD 2022/5000 K.
+
+Sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, Türk Borçlar Kanunu'nda esaslı hatanın tanımı yapılmamış, 31. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf yönünden (subjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 1. HD 2022/2972 K.
+
+Hemen belirtmek gerekir ki, 6098 sayılı Türk Borçlar Kanunu'nda (TBK) esaslı hatanın (yanılmanın) tanımı yapılmamış, 31 ve 32. maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın (yanılmanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf, yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.
+
+## Yargıtay 11. HD 2021/4110 K.
+
+Bilindiği üzere 6098 sayılı TBK’nın 32. maddesi “Saikte yanılma, esaslı yanılma sayılmaz. Yanılanın, yanıldığı saiki sözleşmenin temeli sayması ve bunun da iş ilişkilerinde geçerli dürüstlük kurallarına uygun olması hâlinde yanılma esaslı sayılır. Ancak bu durumun karşı tarafça da bilinebilir olması gerekir.” biçiminde düzenlenmiştir. Saik yanılması, yanılmanın belirli bir kimseyle belirli içerikte bir sözleşme yapma iradesinin gerçeklere uymayan, yanlış tasavvurlar sonunda sakat oluşmasıdır. Saik yanılması, işlem iradesinin oluşumundaki yanılmadır (Eren, s.426). Saik yanılması, sözleşme içi bir unsura ilişkin olabileceği gibi, sözleşme dışı bir unsurla da ilgili olabilir. Sözleşme içi unsura ilişkin yanlış tasavvur, “nitelik yanılması” olarak adlandırılır. Sözleşme dışı unsurlara ilişkin saik yanılmasında ise, sözleşme yapan kişi, sözleşmeye konu şeyin yanlış olarak belirli bir tarzda kullanılabileceğini zannetmekte, oysa gerçek durum böyle olmamaktadır. Bu gibi hallerde, yanılanın yanıldığı hususları bilmiş olsa idi sözleşmeyi hiç yapmayacak olması ya da bu şekilde yapmayacak olması durumu söz konusudur.
+Yanlış kabul ve tasavvur, yanılan için o kadar önemli olmuştur ki, onu söz konusu sözleşmeyi yapmaya sevketmiştir. Öte yandan, karşı taraf, yanılanın yanıldığı saiki sözleşmenin temeli saydığını biliyor veya dürüstlük kuralına göre gerekli dikkat ve özeni göstermiş olsa idi bilebilecek durumda bulunuyor ise artık saikte esaslı bir yanılmanın varlığında duraksanmamalıdır.
+
+## Yargıtay 7. HD 2021/2018 K.
+
+31\. madde dışındaki bir beyan yanılmasının esaslı yanılma sayılması için, bunun TBK’nın 32. maddesindeki unsur ve ölçüleri taşıması gerekir. Durum 32. maddenin birinci cümlesi dışındaki ölçü ve unsurları taşıdığı zaman esaslı yanılma, başka bir değişle temel yanılması olur. Şu hâlde, beyan yanılmaları ilke olarak; saik yanılmaları ise istisnai olarak esaslı yanılmadır.
+
+## Yargıtay 7. HD 2021/2018 K.
+
+31\. madde dışındaki bir beyan yanılmasının esaslı yanılma sayılması için, bunun TBK’nın 32. maddesindeki unsur ve ölçüleri taşıması gerekir. Durum 32. maddenin birinci cümlesi dışındaki ölçü ve unsurları taşıdığı zaman esaslı yanılma, başka bir değişle temel yanılması olur. Şu hâlde, beyan yanılmaları ilke olarak; saik yanılmaları ise istisnai olarak esaslı yanılmadır.
+
+## Yargıtay 1. HD 2018/10271 K.
+
+Diğer taraftan, sözleşmenin konusu, niteliği ve ödenecek miktar gibi hususlarda dikkatsizliği veya bilgisizliği sonucu gerçek iradesine uymayan beyanda bulunmak suretiyle esaslı hataya düşen tarafın sözleşme ile bağlı sayılamayacağı kuşkusuzdur. Hemen belirtmek gerekir ki, 6098 sayılı Türk Borçlar Kanunu'nda esaslı hatanın (yanılmanın) tanımı yapılmamış, 31 ve 32. maddelerde sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca, iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan hatanın(yanılmanın) esaslı kabul edilebilmesi için uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf yönünden(sübjektif unsur) hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur.

@@ -1,4 +1,6 @@
 pdf/
+ara/
+yukle/
 *.rapor.json
-*.log.tmp
 .DS_Store
+__pycache__/

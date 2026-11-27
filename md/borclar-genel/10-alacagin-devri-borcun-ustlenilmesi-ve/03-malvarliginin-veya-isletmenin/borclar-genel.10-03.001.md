@@ -1,0 +1,82 @@
+---
+derleme: "Borçlar Genel Hukukuna İlişkin Emsal Kararlar"
+kod: borclar-genel
+surum: ""
+derleyen: "Av. Hakan Dimdik (x.com/hakandimdik)"
+konu:
+  - "§10. ALACAĞIN DEVRİ, BORCUN ÜSTLENİLMESİ VE SÖZLEŞMENİN DEVRİ"
+  - "III. MALVARLIĞININ VEYA İŞLETMENİN DEVRALINMASI (TBK m. 202)"
+bolum: "10-03"
+parca: "1/1"
+sira: "3718-3732"
+karar_sayisi: 15
+kaynak_pdf: "https://drive.google.com/file/d/1Tds94HCnpZfAApwepPXlVd-jhQcg61t6/view"
+uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künyelerin çoğunda esas numarası ve tarih yoktur. Kullanmadan önce kararın tam metnini resmî kaynaktan doğrulayın."
+---
+
+# III. MALVARLIĞININ VEYA İŞLETMENİN DEVRALINMASI (TBK m. 202)
+
+> Av. Hakan Dimdik, "Borçlar Genel Hukukuna İlişkin Emsal Kararlar" › §10. ALACAĞIN DEVRİ, BORCUN ÜSTLENİLMESİ VE SÖZLEŞMENİN DEVRİ › III. MALVARLIĞININ VEYA İŞLETMENİN DEVRALINMASI (TBK m. 202) · parça 1/1 · sıra 3718-3732. Seçme alıntılardır, kararın tamamı değildir; resmî kaynaktan doğrulayın.
+
+## Yargıtay HGK 2026/66 K.
+
+Öte yandan ticari işletmenin devri, mal varlığının veya işletmenin devralınması başlığıyla TBK'nın 202. maddesinde de düzenlenmiştir. TBK'nın 202/1. maddesine göre bir mal varlığını veya bir işletmeyi aktif ve pasifleri ile birlikte devralan, bunu alacaklılara bildirdiği veya ticari işletmeler için Ticaret Sicili Gazetesinde, diğerleri için Türkiye genelinde dağıtımı yapılan gazetelerden birinde yayımlanacak ilanla duyurduğu tarihten başlayarak, onlara karşı mal varlığındaki veya işletmedeki borçlardan sorumlu olur. TBK'nın 202/3. maddesinde ise "Borçların bu yoldan üstlenilmesinin sonuçları, dış üstlenme sözleşmesinden doğan sonuçlarla özdeştir" düzenlemesine yer verilmiştir.
+
+## Yargıtay HGK 2022/1818 K.
+
+Borçlar Kanunu’nun 179. maddesi anlamında mal varlığı ya da ticari işletme devrinden bahsedebilmek için öncelikli şart, taraflar arasında akdedilmiş geçerli bir devir sözleşmesinin bulunmasıdır. Devir sözleşmesinin konusu mal varlığının veya işletmenin devri taahhüdüdür. Bu taahhüt ile işletme veya mal varlığının bütün olarak devralanın hakimiyetine sokulması üstlenilmektedir. Bu özelliğinden dolayı BK’nın 179. maddesinin kanuni ve kümülatif bir borç naklini düzenlediği kabul olunmaktadır. Anılan madde, devreden ve devralan arasında yapılan sözleşme gereğince bir mal varlığı veya ticari işletmenin aktif ve pasifi ile birlikte devrini düzenlemektedir. Mal varlığı veya aktiflerin bir kısmının devredende kalması bu hükmün uygulanmasına engel değildir.
+Davanın açıldığı tarihte yürürlükte bulunan ve uygulanması gereken mülga 6762 sayılı Türk Ticaret Kanunu (TTK) ve BK bakımından devrin gerçekleşmesi için taraflar arasındaki borçlandırıcı nitelikteki devir sözleşmesinin yapılması yeterli olmamakta, işletmeye dâhil olan tüm aktifler devir sözleşmesinin yapılmasıyla kendiliğinden devralana intikal etmeyeceğinden, ayrıca devrin konusunu oluşturan her bir aktif unsur için usulüne uygun olan tasarruf işlemlerinin de yapılması gerekmektedir. Yani devre konu taşınırların intikali için zilyetliğin devrine, taşınmazlar için tapu memuru aracılığı ile yapılacak resmî tescil işlemine alacakların devri için temlike, bono gibi evraklarda ciro ve özellik arz eden diğer aktiflerde de kendine özgü tasarruf işlemlerinin yapılmasına ihtiyaç bulunmaktadır. Bu husus gereğince devir sözleşmesi borçlandırıcı işlem olarak kabul edilmektedir (Durman, Okay: İcra ve İflas Hukuku Açısından Malvarlığı veya Ticari İşletmenin Devri, İstanbul 2009, s. 107,119 vd; İşletmenin Devri; Akçakal Mehmet: Ankara 2014, s. 153 vd.).
+
+## Yargıtay 10. HD 2025/12448 K.
+
+Öte taraftan 6098 sayılı Türk Borçlar Kanunu'nun "Malvarlığının veya İşletmenin Devralınması" başlıklı 202. maddesinde; " Bir malvarlığını veya bir işletmeyi aktif ve pasifleri ile birlikte devralan, bunu alacaklılara bildirdiği veya ticari işletmeler için Ticaret Sicili Gazetesinde, diğerleri için Türkiye genelinde dağıtımı yapılan gazetelerden birinde yayımlanacak ilanla duyurduğu tarihten başlayarak, onlara karşı malvarlığındaki veya işletmedeki borçlardan sorumlu olur.
+
+## Yargıtay 10. HD 2023/3072 K.
+
+Diğer taraftan, bir mamelekin ve işletmenin devralınmasını düzenleyen Borçlar Kanunu’nun 179 uncu maddesine göre devir alan şirket, devir eden şirketin borçlarından ötürü sorumlu olduğu gibi iki yıl müddetle evvelki borçlu (devreden) dahi, yenisi (devralan) ile birlikte müteselsilen sorumlu olur. Borçlar Kanunu’nun müteselsil borçlara ilişkin 141 inci maddesine göre teselsülün yasa hükmünden doğduğu hallerde kamu düzeni söz konusu olacağından tarafların iradeleriyle teselsülün ortadan kaldırılması hükümsüzdür. Bu nedenle söz konusu müteselsil borç yasa hükmünden (Borçlar Kanunu md. 179'dan) doğduğundan, teselsülden kaynaklanan sorumluluğun dışlanması geçersizdir ve hukuki sonuç doğurmaz. Burada belirtilen sorumluluğun zamanı "devir anıdır." Devrin fiilen gerçekleştiği tarihte doğmuş ve nedeni vücut bulmuş borçlar bu sorumluluğun kapsamında kalmaktadır.
+İşletmenin devirden önceki borcunun naklinin kural olarak alacaklıya karşı hüküm ifade etmesi Borçlar Kanunu’nun 173. ve 174. maddeleri gereğince alacaklının onamasına bağlı ise de, Borçlar Kanunu’nun 179. maddesi bu kurala bir istisna getirmiş, alacaklının rızasına gerek görülmeksizin borcun devir alana intikal ettiği kabul edilmiştir.
+
+## Yargıtay 22. HD 2019/17808 K.
+
+6098 sayılı Türk Borçlar Kanunun 202. maddesinde “İşletmenin Devri” müessesi düzenlenmiş olup, bu düzenlemeye göre bir malvarlığını veya bir işletmeyi aktif ve pasifleri ile birlikte devralan, bunu alacaklılara bildirdiği veya ticari işletmeler için Ticaret Sicili Gazetesinde, diğerleri için Türkiye genelinde dağıtımı yapılan gazetelerden birinde yayımlanacak ilanla duyurduğu tarihten başlayarak, onlara karşı malvarlığındaki veya işletmedeki borçlardan sorumlu olur. Bununla birlikte, iki yıl süreyle önceki borçlu da devralanla birlikte müteselsil borçlu olarak sorumlu kalır. Bu süre, muaccel borçlar için, bildirme veya duyuru tarihinden; daha sonra muaccel olacak borçlar için ise, muacceliyet tarihinden işlemeye başlar.
+
+## Yargıtay 10. HD 2017/8917 K.
+
+Alacağın temliki ve borcun naklinde kural olarak bir tek alacak ve borcun nakli söz konusu olup, bir mamelekin veya işletmenin devrinde bu mamelekin veya işletmenin bütün aktif ve pasifiyle devri söz konusu olduğundan, alacaklı ile borcun nakli sözleşmesi yapmaya ve devir için alacaklının rızasını almaya gerek bulunmamaktadır. İşletmenin devrinde teminat unsuru, eski borçlunun iki yıl daha sorumluluğunun devam etmesi durumuyla sağlanmak istenmiştir. Bu iki yıllık süre muaccel borçlar için ihbar veya ilan tarihinden, daha sonra muaccel olan borçlar için muacceliyet kazandıkları tarihten işlemeye başlar (Turgut Uygur, Borçlar Kanunu Genel Hükümler 1990, II. Cilt sh.865).
+
+## Yargıtay 10. HD 2017/8274 K.
+
+Kaza tarihinde yürürlükte bulunan mülga 818 sayılı Borçlar Kanunu'nun 179. maddesi, bir mameleki veya bir işletmeyi aktif ve pasifleriyle birlikte devralan kimsenin, bunu alacaklılara ihbar veya gazetelerde ilan ettiği tarihten itibaren onlara karşı mamelekin veya işletmenin borçlarından mesul olacağını, iki yıl süreyle evvelki borçlunun da devralanla birlikte müteselsilen sorumlu olacağını öngörmektedir. Yargıtay Hukuk Genel Kurulu'nun 28.11.2001 tarihli, 2001/21-1030 Esas ve 2001/1077 Karar sayılı ilamında ayrıntıları açıklandığı üzere; Borçlar Kanunu'nun 179. maddesinin içinde "müteselsil bir borç" vardır. Devir alan şirket devir eden şirketin borçlarından ötürü sorumlu olduğu gibi, iki yıl müddetle evvelki borçlu (devreden) dahi, yenisi (devralan) ile birlikte müteselsilen sorumlu olur. Borçlar Kanununun müteselsil borçlara ilişkin 141. maddesine göre teselsülün kanun hükmünden doğduğu hallerde kamu düzeni söz konusu olacağından tarafların iradeleriyle teselsülün ortadan kaldırılması hükümsüzdür. (Dr. H. Öser / W. Scöhe-nenberger Borçlar Hukuku Ankara 1950 sh. 905-906) O nedenle, bu müteselsil borç kanun hükmünden (B.K.
+179'dan) doğduğundan; teselsülden kaynaklanan sorumluluğun dışlanması geçersizdir ve hukuki sonuç doğurmaz. Sorumluluğun zamanı "devir anıdır." devrin fiilen gerçekleştiği tarihte doğmuş ve nedeni vücut bulmuş borçlar bu sorumluluğun kapsamında kalmaktadır. İşletmenin devirden önceki borcunun nakli kural olarak alacaklıya karşı hüküm ifade etmesi B.K. 173 ve 174. maddeleri gereğince alacaklının onamına bağlı ise de, 179. madde bu kurala bir istisna getirmiş alacaklının rızasına gerek görülmeksizin borcun devir alana intikal ettiği kabul edilmiştir.
+
+## Yargıtay 7. HD 2016/6258 K.
+
+818 sayılı Borçlar Kanununun bir mamelekin veya işletmenin devralınması başlıklı 179. maddesinde bir mameleki veya bir işletmeyi aktif ve pasifleriyle birlikte devralan kimsenin bunu alacaklılara ihbar veya gazetelerde ilân ettiği tarihten itibaren onlara karşı mamelekin veya işletmenin borçlarından mesul olduğu; iki yıl müddetle evvelki borçlunun dahi yenisiyle birlikte müteselsilen mesul olduğu; bu müddet muaccel borçlar için ihbar veya ilân tarihinden ve daha sonra muaccel olacak borçlar için de muacceliyet tarihinden itibaren işlemeye başladığı hususları düzenlenmiştir.
+
+## Yargıtay 22. HD 2014/11876 K.
+
+Gerçekten, bir mamelekin ve işletmenin devralınmasını düzenleyen Borçlar Kanunu’nun 179. maddesine göre devralan kimse, devir edenin borçlarından ötürü sorumlu olduğu gibi iki yıl müddetle evvelki borçlu (devreden) dahi, yenisi (devralan) ile birlikte müteselsilen sorumlu olur. Borçlar Kanunu’nun müteselsil borçlara ilişkin 141. maddesine göre teselsülün yasa hükmünden doğduğu hallerde kamu düzeni söz konusu olacağından tarafların iradeleriyle teselsülün ortadan kaldırılması hükümsüzdür.
+
+## Kayseri BAM 6. HD 2024/1507 K.
+
+6098 sayılı Türk Borçlar Kanunu 202 maddesinde; " Bir malvarlığını veya bir işletmeyi aktif ve pasifleri ile birlikte devralan, bunu alacaklılara bildirdiği veya ticari işletmeler için Ticaret Sicili Gazetesinde, diğerleri için Türkiye genelinde dağıtımı yapılan gazetelerden birinde yayımlanacak ilanla duyurduğu tarihten başlayarak, onlara karşı malvarlığındaki veya işletmedeki borçlardan sorumlu olur. Bununla birlikte, iki yıl süreyle önceki borçlu da devralanla birlikte müteselsil borçlu olarak sorumlu kalır. Bu süre, muaccel borçlar için, bildirme veya duyuru tarihinden; daha sonra muaccel olacak borçlar için ise, muacceliyet tarihinden işlemeye başlar. Borçların bu yoldan üstlenilmesinin sonuçları, dış üstlenme sözleşmesinden doğan sonuçlarla özdeştir. Bildirme veya ilanla duyurma yükümlülüğü devralan tarafından yerine getirilmedikçe, ikinci fıkrada öngörülen iki yıllık süre işlemeye başlamaz. " hükmü düzenlenmiştir.
+
+## İzmir BAM 20. HD 2024/1344 K.
+
+TBK m. 202 hükmü anlamında bir ticari işletme devrinden söz edebilmek için ticari işletmenin malvarlığına dahil olan tüm unsurların devri zorunlu olmayıp, ticari işletmenin bir işletme olarak devamını mümkün kılacak kapsam ve miktarda malvarlığı unsurlarının devredilmiş olması gerekli ve yeterlidir. Diğer taraftan, ticari işletmeye ait aktiflerin devri ile pasiflerin de devralana geçmesi, TBK m . 202 hükmü ile alacaklıların korunması amacıyla getirilmiş emredici bir kuraldır. Bu nedenle, ticari işletme devrinde, işletmeye ait pasiflerin yani borçların devrin kapsamı dışında tutulması mümkün değildir.( Sabih Arkan, Ticari İşletme Hukuku, Ankara 2013, s.42)…
+
+## İzmir BAM 20. HD 2024/1295 K.
+
+TBK m. 202 hükmü anlamında bir ticari işletme devrinden söz edebilmek için ticari işletmenin malvarlığına dahil olan tüm unsurların devri zorunlu olmayıp, ticari işletmenin bir işletme olarak devamını mümkün kılacak kapsam ve miktarda malvarlığı unsurlarının devredilmiş olması gerekli ve yeterlidir. Diğer taraftan, ticari işletmeye ait aktiflerin devri ile pasiflerin de devralana geçmesi, TBK m . 202 hükmü ile alacaklıların korunması amacıyla getirilmiş emredici bir kuraldır. Bu nedenle, ticari işletme devrinde, işletmeye ait pasiflerin yani borçların devrin kapsamı dışında tutulması mümkün değildir.( Sabih Arkan, Ticari İşletme Hukuku, Ankara 2013, s.42)…
+
+## Ankara BAM 22. HD 2024/815 K.
+
+Gerçekten, bir mamelekin ve işletmenin devralınmasını düzenleyen 6098 Sayılı Türk Borçlar Kanunu’nun 202. maddesine göre devir alan şirket, devir eden şirketin borçlarından ötürü sorumlu olduğu gibi iki yıl müddetle evvelki borçlu (devreden) dahi, yenisi (devralan) ile birlikte müteselsilen sorumlu olur. Borçlar Kanunu’nun müteselsil borçlara ilişkin 162. maddesine göre teselsülün yasa hükmünden doğduğu hallerde kamu düzeni söz konusu olacağından tarafların iradeleriyle teselsülün ortadan kaldırılması hükümsüzdür. Bu nedenle söz konusu müteselsil borç yasa hükmünden (TBK. md. 202’dan) doğduğundan, teselsülden kaynaklanan sorumluluğun dışlanması geçersizdir ve hukuki sonuç doğurmaz. Burada belirtilen sorumluluğun zamanı “devir anıdır.” Devrin fiilen gerçekleştiği tarihte doğmuş ve nedeni vücut bulmuş borçlar bu sorumluluğun kapsamında kalmaktadır. İşletmenin devirden önceki borcunun naklinin kural olarak alacaklıya karşı hüküm ifade etmesi TBK’nun 195. ve 196. maddeleri gereğince alacaklının onamına bağlı ise de; Borçlar Kanunu’nun 202. maddesi bu kurala bir istisna getirmiş, alacaklının rızasına gerek görülmeksizin borcun devir alana intikal ettiği kabul edilmiştir.
+
+## İzmir BAM 11. HD 2023/675 K.
+
+TBK m. 202 hükmü anlamında bir ticari işletme devrinden söz edebilmek için ticari işletmenin malvarlığına dahil olan tüm unsurların devri zorunlu olmayıp, ticari işletmenin bir işletme olarak devamını mümkün kılacak kapsam ve miktarda malvarlığı unsurlarının devredilmiş olması gerekli ve yeterlidir. Diğer taraftan, ticari işletmeye ait aktiflerin devri ile pasiflerin de devralana geçmesi, TBK m . 202 hükmü ile alacaklıların korunması amacıyla getirilmiş emredici bir kuraldır. Bu nedenle, ticari işletme devrinde, işletmeye ait pasiflerin yani borçların devrin kapsamı dışında tutulması mümkün değildir.( Sabih Arkan, Ticari İşletme Hukuku, Ankara 2013, s.42)…
+
+## Bursa BAM 7. HD 2023/213 K.
+
+Tüzel kişilik perdesinin aralanması davasının özünde, bir şirket görüntüsü altında faaliyet gösteren ve kayden şirket ortağı veya yöneticisi olmayan kişinin şirket borçlarından sorumluluğuna başvurulması vardır. Somut olayda böyle bir durum söz konusu değildir. Tüzel kişilik perdesi arkasında üçüncü kişilerden gizlenen bir faaliyetten bahsedilmemektedir. Davanın özünde işletme devri sebebiyle borçtan sorumluluk iddiası vardır. Türk Borçlar Kanunu’nun 202’nci maddesi “Bir malvarlığını veya bir işletmeyi aktif ve pasifleri ile birlikte devralan, bunu alacaklılara bildirdiği veya ticari işletmeler için Ticaret Sicili Gazetesinde, diğerleri için Türkiye genelinde dağıtımı yapılan gazetelerden birinde yayımlanacak ilanla duyurduğu tarihten başlayarak, onlara karşı malvarlığındaki veya işletmedeki borçlardan sorumlu olur” hükmünü getirmiştir. Bu durum bir çeşit “borcun üstlenilmesidir.” Önceki borçlunun müteselsil borçluluğu da iki yıl daha sürecektir.

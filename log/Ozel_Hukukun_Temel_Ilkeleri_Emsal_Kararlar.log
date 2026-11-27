@@ -31,3 +31,18 @@ Tek karakter farkı        : 0
 Sonuç: TAM EŞLEŞME — fark oranı %0.0000
 Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
 === exit 0
+=== yapi satirlar
+# ek/<ad>.satirlar.tsv ile sınıflandırmadan önce değiştirilen kaynak satırları
+# satır	kaynakta	yerine
+(yok)
+=== yapi basliklar
+# kural 0 (ek/<ad>.basliklar.tsv), 6 (rakamsız BÜYÜK HARF -> KONU) ve 7 (hiçbir kalıba uymayan) kararları
+# satır	düzey	sınıf	kural	metin
+(yok)
+=== yapi
+kod: temel-ilkeler
+KONU: 33  KUNYE: 469  ALT: 0  GOVDE: 0
+metinsiz künye: 0  konu notu: 0  tekrar (tekrar_sira > 0): 24
+dosya: 27  bayt: 469518  en büyük dosya: 25285
+tür: bam=85  yargitay=384
+bayrak: (yok)

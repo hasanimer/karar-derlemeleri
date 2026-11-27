@@ -1,0 +1,40 @@
+---
+derleme: "Borçlar Genel Hukukuna İlişkin Emsal Kararlar"
+kod: borclar-genel
+surum: ""
+derleyen: "Av. Hakan Dimdik (x.com/hakandimdik)"
+konu:
+  - "§6. BORÇLARIN İFASI"
+  - "II. SEÇİMLİK BORÇ (TBK m. 87)"
+bolum: "06-02"
+parca: "1/1"
+sira: "1842-1846"
+karar_sayisi: 5
+kaynak_pdf: "https://drive.google.com/file/d/1Tds94HCnpZfAApwepPXlVd-jhQcg61t6/view"
+uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künyelerin çoğunda esas numarası ve tarih yoktur. Kullanmadan önce kararın tam metnini resmî kaynaktan doğrulayın."
+---
+
+# II. SEÇİMLİK BORÇ (TBK m. 87)
+
+> Av. Hakan Dimdik, "Borçlar Genel Hukukuna İlişkin Emsal Kararlar" › §6. BORÇLARIN İFASI › II. SEÇİMLİK BORÇ (TBK m. 87) · parça 1/1 · sıra 1842-1846. Seçme alıntılardır, kararın tamamı değildir; resmî kaynaktan doğrulayın.
+
+## Yargıtay HGK 2026/427 K.
+
+Anılan maddede belirtilen seçim hakkı yenilik doğuran hak niteliğindedir. Bu hak tek taraflı, varması gerekli irade beyanıyla kullanılır ve karşı tarafa varmakla kendiliğinden sonuçlarını doğurur. Bunun değiştirilmesi ancak diğer tarafın muvafakatı ile yani tarafların bir değiştirme sözleşmesi yapmaları ile mümkün olur. Bu nedenle inşai bir hak olan seçim hakkından rücu mümkün değildir. Seçim hakkı yenilik doğuran bir hak olduğu için bir defa kullanılmakla sona erer (Fikret Eren, Borçlar Hukuku Genel Hükümler, 27. Baskı, Ankara 2022, s.1093-1094; Ahmet Kılıçoğlu, Borçlar Hukuku Genel Hükümler, 26. Baskı, Ankara 2022, s. 777).
+
+## Yargıtay HGK 2020/534 K.
+
+Seçim hakkı, hukuki niteliği itibariyle, tek taraflı, varması gerekli irade beyanıyla kullanılan yenilik doğuran bir haktır. İrade beyanı, karşı tarafa varmakla kendiliğinden sonuçlarını doğurur; borcun konusu, tek bir edim hâlinde kesin olarak belli olur. Böylece edim, sanki başlangıçtan beri borçlanılmış kesin ve belirli bir edim hâlini alır. Seçim beyanı, geçmişe etkili sonuçlar doğurur. Bu niteliği ve özelliğiyle seçim hakkı, yenilik doğuran bir hak olup, değiştirici yenilik doğuran haklar grubuna girer. Bunun sonucu olarak, seçim hakkının kullanılması ile mevcut hukukî (durum) ilişki değişir. Seçim hakkı, yenilik doğuran hak olduğu için kullanılmakla sona erer. Bu nedenle seçim beyanından dönülemez (Eren, s. 986-987).
+
+## Yargıtay HGK 2014/1084 K.
+
+Sözleşmede, tarafların davacı alacaklı lehine seçimlik hak kararlaştırdıkları ve seçimlik hakkın ise 10 ilâ 32 mm çap aralığında belirlenecek nervürlü demir olduğu anlaşılmaktadır. Taraflar arasında daha önce gerçekleşen satımlarda davacı alacaklının seçim hakkını peyder pey kullanarak davalının demir teslimini sağladığı, uyuşmazlık konusu son satımda ise seçimlik hakkını aradan uzun süre geçmesine rağmen kullanmadığı anlaşılmaktadır. Taraflar arasındaki uyuşmazlık da bu noktada toplanmaktadır. Seçim hakkının alacaklıya ait olduğu hallerde alacaklının seçim hakkını kullanmamasının nasıl bir sonuç doğuracağı hususu da tartışmalı olmakla birlikte, bu durumda borçlu seçimini yapması hususunda alacaklıya uygun bir süre vermelidir. Şayet bu sürenin sonunda alacaklı seçimi yapmazsa oluşan alacaklı temerrüdü karşısında bu seçim hakkı borçluya geçecektir. Bu durumda borçlu seçeceği edimi tevdi ile ya da tevdii mümkün değilse satım sonrası bedeli tevdi ile borcundan kurtulabilme ve sözleşmeden dönme hakkına sahiptir. (Mehmet ŞENGÜL, İfa (Kavram;
+Kişi, Konu, Yer, Zaman Unsurları), ...’e Armağan, Borçlar Kanunu Genel Hükümler Konferansları I, 24- 25 Mart 2012, İstanbul Barosu Yayınları, İstanbul 2014, s. 301, 302; İsviçre Federal Mahkemesinin (BGE) 110 II 148 sayılı kararı da aynı yöndedir).
+
+## Trabzon BAM 4. HD 2022/1829 K.
+
+Seçimlik borç kavramı TBK m. 87’de düzenlenmiştir. Seçimlik borç, birden çok edimin söz konusu olduğu durumlarda, edimlerden birinin ifasının yeterli olduğu hallerdir. 6098 Sayılı Türk Borçlar Kanunu'nun 227.maddesinde ise; satıcının satılanın ayıplarından sorumlu olduğu hâllerde alıcının, seçimlik haklardan ancak birini kullanabileceği belirtildikten sonra satılanın ayıplı olması durumunda alıcının sahip olduğu seçimlik haklar; satılanı geri vermeye hazır olduğunu bildirerek sözleşmeden dönme, satılanı alıkoyup ayıp oranında satış bedelinde indirim isteme, aşırı bir masrafı gerektirmediği takdirde, bütün masrafları satıcıya ait olmak üzere satılanın ücretsiz onarılmasını isteme ve imkân varsa, satılanın ayıpsız bir benzeri ile değiştirilmesini isteme olarak belirlenmiştir. Bu seçimlik haklar dışında alıcının genel hükümlere göre tazminat isteme hakkı ise saklıdır. Bu haklar kullanımla biten inşai haklardan olup, davacının misli ile değişim olarak kullandığı seçimlik hakkını ıslah ile değiştirmesi mümkün değildir. Bu nedenle davacı tarafından yapılan ıslah hukuki sonuç doğurmaz. (Y. 13. HD., E. 2008/1735 K. 2008/7867 T. 5.6.2008)…
+
+## Adana BAM 9. HD 2022/1704 K.
+
+Seçim hakkı, hukuki niteliği itibariyle, tek taraflı, varması gerekli irade beyanıyla kullanılan yenilik doğuran bir haktır. İrade beyanı, karşı tarafa varmakla kendiliğinden sonuçlarını doğurur; borcun konusu, tek bir edim hâlinde kesin olarak belli olur. Böylece edim, sanki başlangıçtan beri borçlanılmış kesin ve belirli bir edim hâlini alır. Seçim beyanı, geçmişe etkili sonuçlar doğurur. Bu niteliği ve özelliğiyle seçim hakkı, yenilik doğuran bir hak olup, değiştirici yenilik doğuran haklar grubuna girer. Bunun sonucu olarak, seçim hakkının kullanılması ile mevcut hukukî (durum) ilişki değişir. Seçim hakkı, yenilik doğuran hak olduğu için kullanılmakla sona erer. Bu nedenle seçim beyanından dönülemez (Eren, s. 986-987).

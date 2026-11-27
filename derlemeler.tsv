@@ -1,0 +1,36 @@
+kod	ad	baslik	kisa	alan	surum	durum	yerine	seri	sira	yabanci_kunye
+borclar-genel	Borclar_Genel_Hukuku_Emsal_Kararlar	Borçlar Genel Hukukuna İlişkin Emsal Kararlar	Borçlar Genel Hukuku	Borçlar ve sözleşmeler		guncel			1	0
+temel-ilkeler	Ozel_Hukukun_Temel_Ilkeleri_Emsal_Kararlar	Özel Hukukun Temel İlkelerine İlişkin Emsal Kararlar	Özel Hukukun Temel İlkeleri	Borçlar ve sözleşmeler		guncel			2	0
+kira	Kira_Hukuku_Emsal_Kararlar_V7	Kira Hukuku Emsal Kararlar	Kira Hukuku V7	Borçlar ve sözleşmeler	V7	guncel			3	0
+adi-ortaklik	Adi_Ortaklik_Emsal_Kararlar	Adi Ortaklığa İlişkin Emsal Kararlar	Adi Ortaklık	Borçlar ve sözleşmeler		guncel			4	0
+arsa-payi	Arsa_Payi_Karsiligi_Insaat_ve_Kentsel_Donusum_Emsal_Kararlar	Arsa Payı Karşılığı İnşaat Sözleşmesi ve Kentsel Dönüşüme İlişkin Emsal Kararlar	Arsa Payı Karşılığı İnşaat, Kentsel Dönüşüm	Borçlar ve sözleşmeler		guncel			5	0
+arsa-payi-ilk	Arsa_Payi_Karsiligi_Insaat_Emsal_Kararlar	Arsa Payı Karşılığı İnşaat Sözleşmesine İlişkin Emsal Kararlar	Arsa Payı Karşılığı İnşaat (ilk sürüm)	Borçlar ve sözleşmeler		eski-surum	arsa-payi		6	0
+yukleniciden-satin-alan	Yukleniciden_Bagimsiz_Bolum_Satin_Alanlar_Emsal_Kararlar	Yükleniciden Bağımsız Bölüm Satın Alanlara İlişkin Emsal Kararlar	Yükleniciden Bağımsız Bölüm Satın Alan	Borçlar ve sözleşmeler		guncel			7	0
+fidic	FIDIC_Emsal_Kararlar	FIDIC Sözleşmelerine İlişkin Emsal Kararlar	FIDIC Sözleşmeleri	Borçlar ve sözleşmeler		guncel			8	1
+cisg	CISG_Emsal_Kararlar_V1	CISG'e (Milletlerarası Mal Satımı) İlişkin Emsal Kararlar	CISG V1	Borçlar ve sözleşmeler	V1	guncel			9	0
+tapu-tescil	Tapu_Tescil_Davalari_Emsal_Kararlar	Tapu Tescil Davalarına İlişkin Emsal Kararlar	Tapu Tescil Davaları	Taşınmaz ve eşya hukuku		guncel			10	0
+muris-muvazaasi	Muris_Muvazaasi_Emsal_Kararlar	Muris Muvazaasına İlişkin Emsal Kararlar	Muris Muvazaası V1	Taşınmaz ve eşya hukuku	V1	guncel			11	0
+kadastro	Kadastro_Hukuku_Emsal_Kararlar	Kadastro Hukukuna İlişkin Emsal Kararlar	Kadastro Hukuku	Taşınmaz ve eşya hukuku		guncel			12	0
+kamulastirma	Kamulastirma_Emsal_Kararlar	Kamulaştırma Hukukuna İlişkin Emsal Kararlar	Kamulaştırma	Taşınmaz ve eşya hukuku		guncel			13	0
+kat-mulkiyeti	Kat_Mulkiyeti_Hukuku_Emsal_Kararlar	Kat Mülkiyeti Hukukuna İlişkin Emsal Kararlar	Kat Mülkiyeti	Taşınmaz ve eşya hukuku		guncel			14	0
+el-atma	El_Atmanin_Onlenmesi_Emsal_Kararlar	El Atmanın Önlenmesine İlişkin Emsal Kararlar	El Atmanın Önlenmesi	Taşınmaz ve eşya hukuku		guncel			15	0
+ecrimisil	Ecrimisil_Emsal_Kararlar	Ecrimisile İlişkin Emsal Kararlar	Ecrimisil	Taşınmaz ve eşya hukuku		guncel			16	0
+ortakligin-giderilmesi	Ortakligin_Giderilmesi_Emsal_Kararlar	Ortaklığın Giderilmesi Davasına İlişkin Emsal Kararlar	Ortaklığın Giderilmesi	Taşınmaz ve eşya hukuku		guncel			17	0
+bosanma	Bosanma_Davalari_Emsal_Kararlar	Boşanma Davalarına İlişkin Emsal Kararlar	Boşanma Davaları	Aile ve miras hukuku		guncel			18	0
+mal-rejimi	Mal_Rejiminin_Tasfiyesi_Emsal_Kararlar	Mal Rejiminin Tasfiyesine İlişkin Emsal Kararlar	Mal Rejiminin Tasfiyesi	Aile ve miras hukuku		guncel			19	0
+miras	Miras_Hukuku_Emsal_Kararlar_V2	Miras Hukukuna İlişkin Emsal Kararlar	Miras Hukuku V2	Aile ve miras hukuku	V2	guncel			20	0
+itiraz	Itiraz_Emsal_Kararlar	Takibe İtiraz, İtirazın Kaldırılması ve İtirazın İptaline İlişkin Emsal Kararlar	Takibe İtiraz	İcra ve iflas hukuku		guncel			21	0
+sikayet	Sikayet_Emsal_Kararlar	İcra Hukukunda Şikâyete İlişkin Emsal Kararlar	İcra Hukukunda Şikâyet	İcra ve iflas hukuku		guncel			22	0
+menfi-tespit	Menfi_Tespit_Istirdat_Emsal_Kararlar	Menfi Tespit, İstirdat ve Borçtan Kurtulma Davalarına İlişkin Emsal Kararlar	Menfi Tespit ve İstirdat	İcra ve iflas hukuku		guncel			23	0
+malpraktis	Malpraktis_Davalari_Emsal_Kararlar	Malpraktis Davalarına İlişkin Emsal Kararlar	Malpraktis Davaları	Tazminat ve sorumluluk		guncel			24	0
+trafik	Trafik_Kazalari_Emsal_Kararlar	Trafik Kazalarından Doğan Tazminat Davalarına İlişkin Emsal Kararlar	Trafik Kazaları	Tazminat ve sorumluluk		guncel			25	0
+is-hukuku	Is_Hukuku_Emsal_Kararlar	İş Hukukuna İlişkin Emsal Kararlar	İş Hukuku	İş hukuku		guncel			26	0
+arabuluculuk-c1	Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_1	Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 1	Dava Şartı Arabuluculuk Cilt 1	Arabuluculuk ve tahkim	Cilt 1	guncel		arabuluculuk	27	0
+arabuluculuk-c2	Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_2	Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 2	Dava Şartı Arabuluculuk Cilt 2	Arabuluculuk ve tahkim	Cilt 2	guncel		arabuluculuk	28	0
+arabuluculuk-c3	Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_3	Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 3	Dava Şartı Arabuluculuk Cilt 3	Arabuluculuk ve tahkim	Cilt 3	guncel		arabuluculuk	29	0
+arabuluculuk-c4	Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_4	Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 4	Dava Şartı Arabuluculuk Cilt 4	Arabuluculuk ve tahkim	Cilt 4	guncel		arabuluculuk	30	0
+arabuluculuk-c5	Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_5	Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 5	Dava Şartı Arabuluculuk Cilt 5	Arabuluculuk ve tahkim	Cilt 5	guncel		arabuluculuk	31	0
+arabuluculuk-c6	Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_6	Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 6	Dava Şartı Arabuluculuk Cilt 6	Arabuluculuk ve tahkim	Cilt 6	guncel		arabuluculuk	32	0
+arabuluculuk-c7	Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_7	Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 7	Dava Şartı Arabuluculuk Cilt 7	Arabuluculuk ve tahkim	Cilt 7	guncel		arabuluculuk	33	0
+arabuluculuk-c8	Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_8	Dava Şartı Arabuluculuğa İlişkin Emsal Kararlar — Cilt 8	Dava Şartı Arabuluculuk Cilt 8	Arabuluculuk ve tahkim	Cilt 8	guncel		arabuluculuk	34	0
+tahkim	Tahkim_Emsal_Kararlar_V2	Tahkime İlişkin Emsal Kararlar	Tahkim V2	Arabuluculuk ve tahkim	V2	guncel			35	0
