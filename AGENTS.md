@@ -40,7 +40,7 @@ Alıntıyı tırnak içinde, kelimesi kelimesine verin; özetliyorsanız özet o
 - Her hukuki yanıtın sonuna şunu ekleyin: "Bu metinler Av. Hakan Dimdik'in derlemelerinden seçme alıntılardır; kararın tam metnini ve güncelliğini resmî kaynaktan doğrulayın (karararama.yargitay.gov.tr, emsal.uyap.gov.tr, karararama.danistay.gov.tr, kararlarbilgibankasi.anayasa.gov.tr, mevzuat.gov.tr). Hukuki görüş değildir."
 
 ## Atıf ve haklar
-Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Türetilen her çıktıda kaynak gösterin: Av. Hakan Dimdik, "<derlemenin adı>", X (@hakandimdik), 2026.
+Bu depoda yayımlanmak üzere derlemelerin Markdown ve yapılandırılmış veri biçimlerine dönüştürülmesi ve paylaşılması için Av. Hakan Dimdik'ten izin alınmıştır. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Türetilen her çıktıda kaynak gösterin: Av. Hakan Dimdik, "<derlemenin adı>", X (@hakandimdik), 2026.
 
 ## Depoyu değiştirirken
 `md/`, `dizin/` ve `veri/` üretilmiş dosyalardır; elle düzenlemeyin. `derlemeler.tsv`, `cevir.sh` veya `yapi.py` dosyasını değiştirip `python3 yapi.py && python3 yapi.py --dogrula` çalıştırın. Künye ve alıntı metnine dokunmayın: yazım hatası düzeltmek, esas numarası eklemek, tekrarları silmek yasaktır. Depoya gömme (embedding), dizin veritabanı, yapay zekâ üretimi özet eklemeyin.
