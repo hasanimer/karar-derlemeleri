@@ -81,9 +81,13 @@ Zira sözleşmede, satılacak tüm bağımsız bölümlerin bedelinin gider pay�
 
 ## Adana BAM 17. HD 2026/1770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232055900)
+
 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) 33. maddesine göre; Hakim, Türk hukukunu resen uygulamak zorundadır. Bir davada olayları belirtmek ve açıklamak taraflara, hukuki nitelendirme Hakime aittir. Hakim, bildirilen hukuki sebeplerle bağlı olmayıp, hukuki sebebi kendiliğinden bulup uygulamakla sorumludur.
 
 ## İzmir BAM 17. HD 2026/1005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215619100)
 
 HMK'nın 33. maddesi gereğince hukuki tavsif hakime aittir. Yine 04.06.1958 gün 15/6 sayılı Yargıtay İçtihadı Birleştirme kararında da vurgulandığı gibi; bir davada dayanılan maddi vakıaları açıklamak tarafların, bu olguları hukuken nitelendirmek, uygulanacak yasa maddelerini arayıp bulmak ve doğru olarak yorumlayıp uygulamak da hakimin görevidir.
 

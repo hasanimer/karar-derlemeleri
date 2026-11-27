@@ -28,6 +28,8 @@ Mirasçılar terekeye elbirliğiyle sahip olurlar ve sözleşme veya kanundan do
 
 ## Adana BAM 9. HD 2026/1629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1214976900)
+
 Dava, bankacılık işlemlerinden kaynaklanan Tazminat istemine ilişkindir.
 
 …
@@ -45,6 +47,8 @@ gönderilmesi gerektiği sonuç ve kanaatiyle aşağıdaki şekilde hüküm kuru
 
 ## İstanbul BAM 8. HD 2026/1125 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217829700)
+
 Dava, trafik kazasından kaynaklanan destekten yoksun kalma tazminatı istemine ilişkindir.
 
 …
@@ -53,6 +57,8 @@ Somut olayda, davacı ... ...'nin 05/09/2023 tarihinde vefat ettiği anlaşılma
 
 ## İstanbul BAM 9. HD 2026/1123 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211907900)
+
 Dava, ölümlü trafik kazası nedeniyle destekten yoksun kalma tazminatı istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355.
 
 …
@@ -60,6 +66,8 @@ Dava, ölümlü trafik kazası nedeniyle destekten yoksun kalma tazminatı istem
 Yargılama süresince tarafların taraf ve dava ehliyetine sahip bulunmaları usul hukukunun temel ilkelerindendir ve dava şartıdır. Diğer taraftan 4721 sayılı Kanun'un 28 inci maddesine göre, ölüm ile kişilik son bulur. Ölü bir kişi herhangi bir hakkın sujesi olamayacağına göre onun açmış olduğu davaya devam edilemez. Bu şekilde yürütülen bir dava sonunda ölü kişi aleyhine hüküm kurulamaz. Bilindiği üzere, miras yoluyla intikali mümkün hakların konusunu oluşturduğu bir davada taraflardan birinin ölümü hâlinde, 6100 sayılı Kanun'un 55 inci maddesi gereğince Mahkemece, mirasçıların tamamı tespit edilerek davadan haberdar edilmeli ve bu şekilde taraf teşkili sağlandıktan sonra yargılamaya devam edilmelidir. Nitekim, 6100 sayılı Kanun'un 27 nci maddesi uyarınca taraf teşkili sağlanmadan yargılamaya devam olunamaz.
 
 ## İzmir BAM 20. HD 2026/1114 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1224071200)
 
 Dava, 05/11/2019 tarihli Kooperatif genel kurul kararının iptali istemine ilişkindir.
 
@@ -71,10 +79,14 @@ Taraf teşkili kamu düzenine ilişkin olup, re’sen yargılamanın her aşamas
 
 ## İzmir BAM 11. HD 2026/945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211350200)
+
 4721 Sayılı TMK'nun 640. ve 701. maddeleri gereğince müteveffa ...'ın mirasçıları arasında el birliği mülkiyeti hükümleri geçerli olduğundan kanunda ya da sözleşmede aksine hüküm bulunmadıkça tasarrufi işlemlerde ortakların oy birliği ile karar vermeleri gerekmektedir. Dava da, bir tasarrufi işlem olduğuna göre tüm ortaklar birlikte davayı açmalı, davaya muvafakat etmeli veya terekeye temsilci atanmalıdır. Somut olayda, davacılar dışında murisin başka yasal mirasçılarının da bulunduğu, ancak dosya kapsamında murise ait herhangi bir veraset ilamı ilamı bulunmadığı gibi, mahkemece Denizli, Aydın ve Sarayköy Sulh Hukuk Mahkemeleri'ne yazılan müzekkere yanıtlarında muris ...'ın mirasının reddedildiğine ilişkin herhangi bir dosyanın bulunmadığının belirtildiği, bu şekilde mirasın diğer mirasçılar tarafından reddedildiğine dair dosyada herhangi bir karar bulunmadığı mahkemenin de kabulünde olmasına karşın, aralarında zorunlu dava arkadaşlığı bulunan murisin tüm mirasçıların davaya muvafakatlarının bulunup bulunmadığının tespit edilmediği, bu şekilde taraf teşkiline ilişkin söz konusu usuli eksiklik giderilmeden davanın esası hakkında karar verildiği anlaşılmaktadır.
 Şu halde, mahkemece murisin mirası reddetmeyen tüm mirasçıları tarafından davanın açılıp açılmadığı araştırılarak, murisin başka mirasçıları varsa bu mirasçıların da davaya muvafakatının sağlanması gerekmektedir. Taraf ehliyeti, davanın her aşamasında re'sen gözetilmesi gereken dava şartı olduğundan, öncelikle mahkemece taraf ehliyetine ilişkin söz konusu eksikliğin giderilmesi gerekmektedir.
 
 ## İstanbul BAM 44. HD 2026/909 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1218887500)
 
 Dava, bonoda sahtecilik iddiasıyla icra takibinden sonra açılan menfi tespit davasıdır.
 
@@ -83,6 +95,8 @@ Dava, bonoda sahtecilik iddiasıyla icra takibinden sonra açılan menfi tespit 
 İstanbul 16. SHM’nin 2022/11 Tereke sayılı dosyası ile tereke idare memuru olarak atanan ...’e tebligat yapılarak taraf teşkilinin sağlanmış ise de, dosya içerisine getirtilen dosyanın yanlış olarak celbedildiği, tereke idare memuru...’ün görevinin ne zamana kadar sürdüğü devam edip etmediğinin anlaşılamadığı, taraf teşkilinin sağlanarak taraflara cevap hakkı tanınarak yargılamanın sürdürülmesi gerekirken eksik inceleme ile karar verilmiş olduğu anlaşılmıştır.
 
 ## İstanbul BAM 45. HD 2026/409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204731100)
 
 Bununla beraber hâkim, gecikmesinde sakınca bulunan hâllerde, talep üzerine davayı takip için kayyım atanmasına karar verebilir.” hükmünü haiz olup anılan maddenin uygulanabilmesi için dava konusunun ölen tarafın varislerine miras yoluyla intikali mümkün malvarlığına ilişkin olması gerekir. Eş söyleyişle; dava konusunun sadece ölen tarafı ilgilendirdiği, miras yoluyla intikali mümkün olmayan bir hakka ilişkin olduğu hâllerde taraflardan birinin ölümü sonrasında mirasçılarla davaya devam edilemeyeceğinden 6100 sayılı Kanun'un 55. maddesi uygulama alanı bulmaz (Kuru: s. 907, 914; Pekcanıtez, Hakan/Özekes Muhammet/Akkan, Mine/Korkmaz, Hülya Taş: Pekcanıtez Usul Medeni Usul Hukuku C. I, İstanbul 2017, s. 578). 4721 sayılı Türk Medeni Kanunu'nun “Miras ortaklığı” başlıklı 640. maddesinde “Birden çok mirasçı bulunması halinde, mirasın geçmesiyle birlikte paylaşmaya kadar, mirasçılar arasında terekedeki bütün hak ve borçları kapsayan bir ortaklık meydana gelir.
 Mirasçılar terekeye elbirliğiyle sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler.Mirasçılardan birinin istemi üzerine sulh mahkemesi, miras ortaklığına paylaşmaya kadar bir temsilci atayabilir.

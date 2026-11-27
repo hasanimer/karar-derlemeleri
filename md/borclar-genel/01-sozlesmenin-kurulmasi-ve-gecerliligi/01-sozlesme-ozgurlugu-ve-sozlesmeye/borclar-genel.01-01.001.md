@@ -241,9 +241,13 @@ Borçlar hukukumuzun ana ilkelerinden biri sözleşme serbestisi olup Taraflar a
 
 ## Ankara BAM 24. HD 2026/892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211943300)
+
 Hukukumuzda sözleşmeye bağlılık ( Ahde Vefa-Pacta Sund Servanda ) ve sözleşme serbestliği ilkeleri kabul edilmiştir. Bu ilkelere göre, sözleşme yapıldığı andaki gibi aynen uygulanmalıdır. Eş söyleyişle, sözleşme koşulları borçlu için sonradan ağırlaşmış, edimler dengesi sonradan çıkan olaylar nedeni ile değişmiş olsa bile, borçlu sözleşmedeki edimini aynen ifa etmelidir. Ancak bu ilke özel hukukun diğer ilkeleriyle sınırlandırılmıştır. Sözleşme yapıldığında karşılıklı edimler arasında mevcut olan denge sonradan şartların olağanüstü değişmesiyle büyük ölçüde tarafların biri aleyhine katlanılamayacak derecede bozulabilir. İşte bu durumda sözleşmeye bağlılık ilkesine sıkı sıkıya bağlı kalmak adalet, hakkaniyet ve objektif hüsnüniyet kaidelerine aykırı bir durum yaratır hale gelir. Hukukta bu zıtlık (Clausula Rebüs Sic Stantibus -beklenmeyen hal şartı- sözleşmenin değişen şartlara uydurulması) ilkesi ile giderilmeye çalışılmaktadır. İşte bu bağlamda hakim, somut olayın verilerine göre alacaklı yararına borçlunun edimini yükseltmeye veya borçlu yararına onun tamamen veya kısmen edim yükümlülüğünden kurtulmasına karar verebilir ve müdahale ederek sözleşmeyi değişen koşullara uyarlar.
 Bununla birlikte her talep vukuunda sözleşmeyi değişen hal ve şartlara uydurmak mümkün değildir. Aksi halde özel hukuk sistemimizde geçerli olan "irade özgürlüğü","sözleşme serbestisi" ve "sözleşmeye bağlılık" ilkelerinden sapma tehlikesi ortaya çıkar. Sözleşmeye müdahale müessesesi istisnai, tali (ikinci derecede) yardımcı nitelikte olup, ancak uyarlama kurumunun şartlarının mevcudiyeti halinde anılan kurumun uygulanması gündeme gelebilecektir.
 
 ## İstanbul BAM 69. HD 2026/26 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231339500)
 
 Hukukumuzda sözleşmeye bağlılık (Ahde Vefa-Pacta Sund Servanda) ve sözleşme serbestliği ilkeleri kabul edilmiştir. Bu ilkelere göre, sözleşme yapıldığı andaki gibi aynen uygulanmalıdır. Bir başka söyleyişle, sözleşme koşulları borçlu için sonradan ağırlaşmış, edimler dengesi sonradan çıkan olaylar nedeni ile değişmiş olsa bile, borçlu sözleşmedeki edimini aynen ifa etmelidir. Gerçekten de sözleşmeye bağlılık ilkesi, hukuki güvenlik, doğruluk, dürüstlük kuralının bir gereği olarak sözleşme hukukunun temel ilkesini oluşturmaktadır.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 26. HD 2026/1377 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1228635000)
+
 Dava, trafik kazasından kaynaklanan ölüm sebebiyle TBK'nın 53 maddesi gereğince, destekten yoksun kalma nedeniyle maddi tazminat (TBK m 53/3) ve ölümün hemen gerçekleşmemiş olması nedeniyle çalışma gücünün yitirilmesinden ya da azalmasından doğan kayıplar (TBK m 53/2) nedeniyle maddi tazminat ve haksız fiil nedeniyle ölenin yakınları tarafından TBK'nın 56/2 maddesi kapsamında manevi tazminat istemidir. Mahkemece ölüm ile kaza arasında illiyet bağı kanıtlanamadığından, murisin kazanç kaybından kaynaklanan maddi tazminat talebinin reddine, davacıların diğer talepleri yönünden ise öncesinde istinaf incelemesi gören dosyada istinaf kaldırma sebebi bulunmadığından, bu hususlar kesinleştiğinden bahisle karar verilmediği gerekçe kısmında belirtilerek, hüküm fıkrasında davanın reddine karar verilmiş hüküm, davacılar vekili tarafından illiyet bağına ilişkin eksik inceleme ile karar verildiğinden, davalı ... vekili tarafından ise ret ile sonuçlanan dava maddi ve manevi tazminat talepleri yönünden lehlerine ayrı ayrı vekalet ücreti takdir edilmesi gerektiğinden bahisle istinaf edilmiştir.
 
 Eldeki davada davacılar, 27.02.2014 tarihinde meydana gelen trafik kazasında yaralanan murisleri ...'un, kazadan 5 ay sonra vefatının kazadan kaynaklandığından bahisle, TBK'nın 56/2 maddesi gereğince, yakınlarını kaybetmiş olması nedeniyle doğrudan uğradıkları manevi zararlarının tazmini ve ölüm nedeniyle destekten yoksun kalma tazminatı ile murisin kazanç kaybını talep etmişlerdir. İlk derece mahkemesi dosyada daha önce verdiği 2016/443 E. 2018/774 K.

@@ -21,12 +21,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Adana BAM 4. HD 2026/1508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216495600)
+
 …
 
 .... Asliye Hukuk Mahkemesince; " davacılar murisi ... ile davalı ..... Ltd. Şti. arasında 31/05/2021 tarihli Sera İnşa Sözleşmesi yapıldığı, davacılar murisi tarafından diğer davalı ... Bankası A.Ş. ile 08/06/2021 tarihli 3.000.000,00 TL limitli Genel Kredi Sözleşmesi yapılarak alınan finansmanın davalı ..... Ltd. Şti.'ne verildiği, davalı ..... Ltd. Şti. Tarafından sözleşme kapsamında işin zamanında eksiksiz yapılmadığı ve davalı banka tarafından işin yapılıp yapılmadığı hususunda denetim ve kontrol yükümlülüğü yerine getirilmeyerek kredi finansmanının tamamının davalı ..... Ltd. Şti.'ne verilmek suretiyle davacılar murisinin zarara uğratıldığından bahisle işbu tazminat davası ikame edilmiş ise de; talep edilen tazminatın dayanağının davacılar murisi ... ile davalı ..... Ltd. Şti. arasında 31/05/2021 tarihli Sera İnşa Sözleşmesi isimli eser sözleşmesi ve diğer davalı banka ile yapılan Genel Kredi Sözleşmesi olduğu, Gelir İdaresi Başkanlığı ... Defterdarlığı ... Vergi Dairesi Müdürlüğü'nün 28/11/2024 tarihli müzekkere cevabında;
 "..yapılan tarh defter kayıtları ve bilgisayar tetkikleri neticesinde söz konusu mükellefin 01/01/1986 ve 31/12/1999 yılları arasında Belirli Bir Mala Tahsis Edilmiş Mağazalarda Gübre Ve Zirai Kimyasal Ürünlerin Perakende Ticareti faaliyetinden Ticari Kazanç gelir türünden vergilendirildiği, esnaf sınırını aşacak düzeyde gelir elde ettiği, son 3 yıllık vergiye esas kazancına dair tarh defter kayıtlarında beyannamesinin olmadığı tespit edilmiş.." şeklinde bildirildiği, davalıların tacir olduğu hususları birlikte değerlendirildiğinde, dava konusu eser sözleşmesinin her iki tarafın ticari işletmesiyle ilgili olması nedeniyle işbu davanın ticari nitelikte sayılan davalardan olduğu, kaldı ki davanın diğer dayanağı davacılar murisi ile davalı banka arasında yapılan 08/06/2021 tarihli 3.000.000,00 TL limitli Genel Kredi Sözleşmesi 6102 sayılı TTK'nın 4/1-f maddesinde düzenlenen işlemlerden olup, TTK'nın 4/1-a maddesi hükmü kapsamında ticari dava olarak kabulü gerektiği kanaatine varılmış, dolayısıyla da görevli mahkemenin Asliye Ticaret Mahkemesi olduğu anlaşıldığından davanın görevsizlik nedeniyle reddine " gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Ankara BAM 24. HD 2026/1416 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232680500)
 
 Dava, davacıların murisi ve murise ait şirket ile davalı ve davalıya ait şirket arasında yapılan sözleşme uyarınca ortaklaşa kurulan dava dışı şirkete sağlanan finansman borcunun yine taraflar arasında yapılan borç anlaşması uyarınca davalılardan tahsiline ilişkin başlatılan icra takibine vaki itirazın iptaline ilişkindir.
 

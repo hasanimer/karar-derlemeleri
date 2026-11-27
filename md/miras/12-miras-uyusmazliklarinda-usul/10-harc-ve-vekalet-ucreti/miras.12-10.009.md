@@ -295,6 +295,8 @@ Diğer taraftan, . nolu bağımsız bölüme yönelik davacının miras payı or
 
 ## İzmir BAM 17. HD 2026/1651 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1224721600)
+
 Dava, yolcu olarak bulundukları yolcu otobüsünün trafik kazası yapmasından kaynaklı olarak yakınlarının vefat etmelerinden dolayı maddi ve manevi tazminat istemine ilişkindir.
 
 …

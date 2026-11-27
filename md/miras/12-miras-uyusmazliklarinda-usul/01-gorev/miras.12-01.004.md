@@ -217,6 +217,8 @@ Kadastro Mahkemesinde çekişmeli parsel tutanakları ile aktarılan ve birleşt
 
 ## Adana BAM 14. HD 2026/1693 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235959800)
+
 Dava, haksız eylemden kaynaklanan zarar nedeniyle itirazın iptali istemine ilişkindir.
 
 …

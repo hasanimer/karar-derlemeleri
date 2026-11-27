@@ -58,6 +58,8 @@ Hemen belirtilmelidir ki; 6100 sayılı HMK’nın 140/3. maddesinde; “Ön inc
 
 ## Ankara BAM 35. HD 2026/1463 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235154300)
+
 Dava, trafik kazasından kaynaklanan ölüme bağlı maddi ve manevi tazminat istemine ilişkindir.
 
 …
@@ -66,6 +68,8 @@ Zorunlu arabuluculuk nedeniyle Arabuluculuk Yönetmeliğinin 26/2 maddesi gereğ
 
 ## Ankara BAM 26. HD 2026/1445 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233596500)
+
 Dava, trafik kazasından kaynaklanan araç hasarı nedeniyle, araçta meydana gelen değer kaybının tazmini istemidir.
 
 …
@@ -73,6 +77,8 @@ Dava, trafik kazasından kaynaklanan araç hasarı nedeniyle, araçta meydana ge
 Arabuluculuk bürosu tarafından yapılıp Adalet Bakanlığı tarafından karşılanan, dava dilekçesine ekli arabuluculuk son tutanağı Uyap'a eklenerek arabulucuya ödenen ücret belirlenemediğinden tarifeye göre en düşük ücret olan 1.320,00 TL (arabuluculuk eldeki uyuşmazlıkta sadece sigorta şirketi açısından zorunlu olduğundan sigorta şirketi de, haklarındaki karar kesinleşen davalılar ile birlikte tamamından müteselsil sorumlu olacak şekilde) arabuluculuk giderinin Hukuk Uyuşmazlıklarında Arabuluculuk Kanununun 18/A maddesinin 13. ve 14. fıkraları gereğince davalılardan müştereken ve müteselsilen alınarak Hazine'ye gelir kaydına, …
 
 ## İstanbul BAM 9. HD 2026/902 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209589600)
 
 Dava, ölümlü trafik kazası nedeniyle destekten yoksun kalma tazminatı ve manevi tazminat istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355.
 

@@ -1,5 +1,5 @@
 {
- "baglanti_bedesten_arama": 93,
+ "baglanti_bedesten_arama": 125,
  "baglanti_mrfg_id": 85230,
  "bedesten_kontrol": {
   "tutar": 180
@@ -26,8 +26,8 @@
   },
   "borclar-genel": {
    "cok_aday": 5,
-   "eslesmedi": 351,
-   "kesin": 3320,
+   "eslesmedi": 349,
+   "kesin": 3322,
    "olasi": 76
   },
   "bosanma": {
@@ -98,9 +98,9 @@
   },
   "miras": {
    "cok_aday": 5,
-   "eslesmedi": 378,
+   "eslesmedi": 351,
    "hatali_kunye": 3,
-   "kesin": 7260,
+   "kesin": 7287,
    "olasi": 67
   },
   "muris-muvazaasi": {
@@ -122,8 +122,8 @@
   },
   "temel-ilkeler": {
    "cok_aday": 2,
-   "eslesmedi": 166,
-   "kesin": 288,
+   "eslesmedi": 163,
+   "kesin": 291,
    "olasi": 13
   },
   "yukleniciden-satin-alan": {
@@ -132,7 +132,7 @@
    "olasi": 5
   }
  },
- "eslesmedi": 3486,
+ "eslesmedi": 3454,
  "hatali_kunye": 47,
  "islenen": 90000,
  "kapsam_disi": 183,
@@ -148,21 +148,21 @@
   "kisa_alinti": 3,
   "metin_numarasi_farkli": 36,
   "metinde_karar_no_yok": 750,
-  "veri_setinde_anahtar_yok": 3213
+  "veri_setinde_anahtar_yok": 3181
  },
  "olasi": 868,
- "son_checkpoint": "parti 09 (80001-90000) 2026-11-27T20:24:59",
- "son_commit": "891cd47 Bedesten: batch 09 — 10,000 processed, 9,316 linked (mrfg_id), 20 Bedesten-checked",
- "son_push": "891cd47",
+ "son_checkpoint": "bedesten_arama anlık uygulama 2026-11-27T22:45 (93 bağlantı); arama süreci durmadı",
+ "son_commit": "8fddfa9 Bedesten: resmî arama (anlık) — 311 künye arandı, 93 bağlantı (bedesten_arama)",
+ "son_push": "8fddfa9",
  "toplam_kunye": 133954,
  "tur": {
   "aym": {
    "kapsam_disi": 95
   },
   "bam": {
-   "eslesmedi": 1158,
+   "eslesmedi": 1126,
    "hatali_kunye": 15,
-   "kesin": 6549,
+   "kesin": 6581,
    "olasi": 789
   },
   "danistay": {

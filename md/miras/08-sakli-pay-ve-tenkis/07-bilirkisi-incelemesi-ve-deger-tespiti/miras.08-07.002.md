@@ -172,10 +172,14 @@ Bu durumda mahkemece, HUMK.nun 284. maddesi uyarınca konusunda uzman üç kişi
 
 ## İstanbul BAM 12. HD 2026/1335 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219290000)
+
 04/01/2013 tarihli protokolün 6. maddesinde, davalı bayinin protokolü ihlali halinde davacının fesih hakkının bulunduğu ve davalının 300.000-TL cezai şart ödeyeceği düzenlenmiştir. 07/02/2019 tarihli bilirkişi raporunda, Milas'ta yapılmış incelemede davalı şirket merkezinin terk edildiği ve faaliyetinin bulunmadığının belirlendiği, ayrıca davalının 16/12/2015 tarihinde Milas 2. AHM'de iflas erteleme talebinde bulunduğu gözetildiğinde, cezai şart tutarının davalının iktisaden mahvına sebep olacağı görüşü bildirilmiştir. Mahkemece söz konusu görüş doğrultusunda, cezai şarttan %60 oranında tenkis yapılmış ve kdv dahil toplam 141.600-TL'ye karar verilmiştir. Ceza koşulunun fahiş olup olmadığı, tarafların iktisadi durumu, özel olarak borçlunun ödeme kabiliyeti ile beraber borçlunun borcunu yerine getirmemiş olması nedeniyle sağladığı menfaat, borçlunun kusur derecesi ve borca aykırı davranış ağırlığı ölçü alınarak tayin edilmeli, cezai şart miktarı, hak, adalet ve nesafet kurallarına uygun olarak tespit edilmelidir.
 Bu kapsamda somut olayda, sözleşmeye aykırılığın derecesi, uygulandığı ve kalan süre, 05/11/2015 eldeki dava tarihinden kısa bir süre sonra 16/12/2015 tarihinde davalı şirketin iflas erteleme talebinde bulunması ve 01/08/2017 tarihinde yapılmış keşifte istasyonun faal olmadığı tespitleri dikkate alındığında, cezai şart miktarı fahiş bulunduğundan takdiren %60 oranında tenkis yapılması uygun olduğu anlaşılmaktadır.
 
 ## Ankara BAM 22. HD 2026/900 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217853400)
 
 Dava, taraflar arasındaki bayilik sözleşmesi ve eki protokol kapsamında asgari alım taahhüdünden kaynaklanan cezai şart alacağının tahsili istemine ilişkindir.
 

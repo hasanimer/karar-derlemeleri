@@ -111,6 +111,8 @@ Gerçekten 4389 sayılı Kanun’un 15/3 maddesinin ilk cümlesi Kanun’un diğ
 
 ## İzmir BAM 17. HD 2026/1744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1227756500)
+
 Sözleşmeyle bağlı olmama bildiriminde (iptal hakkı) bir yıllık kısa süre, iradeyi sakatlayan sebeplerin öğrenilmesi veya korkunun etkisinin ortadan kalkmasıyla başlar. Bir yıllık hak düşürücü sürenin, daha uzun bir süre ile de sınırlandırılıp sınırlandırılmayacağı doktrinde tartışmalıdır. İradesi bozulan kimse, sözleşmeyi yaptıktan 5, 10 veya 30 yıl sonra yanılma veya aldatmayı öğrenmişse, öğrenme tarihinden bir yıllık süre içerisinde sözleşmeyi iptal edip edemeyeceği konusunda görüş birliği bulunmamaktadır. Bir görüş, sözleşme tarihinden itibaren 10 yıl geçmesi halinde, iptal hakkının son bulacağını ileri sürmekte, diğer görüşe göre ise, TBK'nun 39. maddesinde kanun koyucunun daha uzun bir süreyi bilerek koymadığı, kanunun açık hükmü karşısında yorum yoluyla yeni kural konulamayacağı, böyle bir süre konulmasının kanun koyucunun amacına aykırı olacağı ve anılan maddenin açık hükmüne aykırı olacağı belirtilmektedir (Eraslan Özkaya, Yanılma, Aldatma Korkutma Davaları, sf, 437-438).
 
 ## Ankara BAM 26. HD 2026/754 K.

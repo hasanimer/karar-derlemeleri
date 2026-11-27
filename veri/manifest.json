@@ -4,25 +4,25 @@
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Borçlar Genel Hukukuna İlişkin Emsal Kararlar",
-      "bayt": 772592,
+      "bayt": 772591,
       "dosya": "kararlar/borclar-genel.jsonl.gz",
       "kayit": 3752,
       "kod": "borclar-genel",
       "md": "md/borclar-genel/",
       "sayfa": 1112,
-      "sha256": "9a49afdceddd2134d66e866fb24cd31fd1c981b39f03a35ff935ed3a52ca797a",
+      "sha256": "59aa324635311b767f6fbd62ada98e237eb4fff91047997432f62359fa0a27ee",
       "surum": null
     },
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Özel Hukukun Temel İlkelerine İlişkin Emsal Kararlar",
-      "bayt": 173200,
+      "bayt": 173203,
       "dosya": "kararlar/temel-ilkeler.jsonl.gz",
       "kayit": 469,
       "kod": "temel-ilkeler",
       "md": "md/temel-ilkeler/",
       "sayfa": 154,
-      "sha256": "2c972bb18325a544ae2cf54250e7263337f3f684bb804fed4abeeebbbca2a609",
+      "sha256": "8a1b935f68506d5cacd7315af859984593c49a7858ee7dc832fbecfb8c6364bd",
       "surum": null
     },
     {
@@ -232,13 +232,13 @@
     {
       "alan": "Aile ve miras hukuku",
       "baslik": "Miras Hukukuna İlişkin Emsal Kararlar",
-      "bayt": 3358535,
+      "bayt": 3358537,
       "dosya": "kararlar/miras.jsonl.gz",
       "kayit": 7713,
       "kod": "miras",
       "md": "md/miras/",
       "sayfa": 3253,
-      "sha256": "b3b7ad8e4821f6515ecdc4cfa047238688dafc681120d4ba6dce5827c3405ea2",
+      "sha256": "474220bd4bda65c575486b709b527742b6369aa6cbc9b8c254174fdf87601123",
       "surum": "V2"
     },
     {

@@ -198,6 +198,8 @@ Olayları açıklamak taraflara hukuki nitelendirme hakime aittir. ( HUMK.md.76 
 
 ## İstanbul BAM 12. HD 2026/1224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219354700)
+
 TTK nın 1420 maddesi "Sigorta sözleşmesinden doğan bütün istemler, alacağın muaccel olduğu tarihten itibaren iki yıl ve TTK nın 1482 maddesi hükmü saklı kalmak kaydıyla, sigorta tazminatına ve sigorta bedeline ilişkin istemler her halde rizikonun gerçekleştiği tarihten itibaren altı yıl geçmekle zamanaşımına uğrar "hükmünü haizdir.
 
 Poliçenin özel şartlara ilişkin 4.8 madde de "teminatın üçüncü şahıslar tarafından noter aleyhine açılan davaların kaybedilip tazminat ödenmesi halinde geçerlilik kazanacağı " düzenlenmiş olup 6762 sayılı kanunun 1299 maddesine paralel şekilde davanın aleyhe sonuçlanması halinde, davacı halefinin davalıdan ödeme isteyebileceği düzenlenmiştir.Bu halde sigortacının tazminat ödeme borcu -aleyhe karar verilmesi-ile başlamaktadır.Davalı sigorta şirketinin zamanaşımı süresinin başlangıcını vasiyetnamenin düzenlendiği ,murisin ölümü ,davanın ihbar edildiği tarihlere götürme çabası yerinde değildir.Poliçe hükmü açık olup karar verildiği anda teminatın geçerlilik kazanacağı düzenlenmiştir.Bu halde rizikonun doğum tarihi noter aleyhine hüküm verilmesi olup , aynı madde de kararın kesinleşmeden icraya konulması halinde teminatın sigortacı tarafından karşılanacağına ilişkin hüküm de bu kanaati doğrulamaktadır.
