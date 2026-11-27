@@ -994,7 +994,7 @@ Alıntıyı tırnak içinde, kelimesi kelimesine verin; özetliyorsanız özet o
 ## Hukuki doğruluk (zorunlu)
 {hukuki_dogruluk(S)}
 ## Atıf ve haklar
-Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Türetilen her çıktıda kaynak gösterin: Av. Hakan Dimdik, "<derlemenin adı>", X (@hakandimdik), {SURUM_TARIHI[:4]}.
+Bu depoda yayımlanmak üzere derlemelerin Markdown ve yapılandırılmış veri biçimlerine dönüştürülmesi ve paylaşılması için Av. Hakan Dimdik'ten izin alınmıştır. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Türetilen her çıktıda kaynak gösterin: Av. Hakan Dimdik, "<derlemenin adı>", X (@hakandimdik), {SURUM_TARIHI[:4]}.
 
 ## Depoyu değiştirirken
 `md/`, `dizin/` ve `veri/` üretilmiş dosyalardır; elle düzenlemeyin. `derlemeler.tsv`, `cevir.sh` veya `yapi.py` dosyasını değiştirip `python3 yapi.py && python3 yapi.py --dogrula` çalıştırın. Künye ve alıntı metnine dokunmayın: yazım hatası düzeltmek, esas numarası eklemek, tekrarları silmek yasaktır. Depoya gömme (embedding), dizin veritabanı, yapay zekâ üretimi özet eklemeyin.
@@ -1090,7 +1090,7 @@ def veri_readme(S, D, ist):
                          for a, t, _ in alan if t in ("str|null", "int|null"))
     return f"""# Karar Derlemeleri: kayıt veri kümesi
 
-**English abstract.** {ist['kayit']:,} records from {S['derleme']} Turkish case-law compilations prepared and shared by attorney Hakan Dimdik (x.com/hakandimdik): one JSON object per cited decision (court heading as written, parsed court / chamber / decision number where present, topic path, and the excerpt chosen by the compiler). The texts are selected excerpts, not full decisions; most headings carry no docket number or date. Rights in the compilations belong to the compiler; attribution is required. Verify every decision in the official sources before relying on it.
+**English abstract.** {ist['kayit']:,} records from {S['derleme']} Turkish case-law compilations prepared and shared by attorney Hakan Dimdik (x.com/hakandimdik): one JSON object per cited decision (court heading as written, parsed court / chamber / decision number where present, topic path, and the excerpt chosen by the compiler). The texts are selected excerpts, not full decisions; most headings carry no docket number or date. Publication in this repository is with the compiler's permission. Rights in the compilations belong to the compiler; attribution is required. Verify every decision in the official sources before relying on it.
 
 ## Toplamlar
 
@@ -1165,7 +1165,7 @@ Her satır bir JSON nesnesidir; anahtarlar bu sıradadır. Bir anahtarın adı y
 {hukuki_dogruluk(S)}
 ## Atıf ve haklar
 
-Bu derlemelerden yararlanırken kaynak olarak Av. Hakan Dimdik'i gösterin. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Derleyenin talebi hâlinde içerik kaldırılır. Önerilen atıf biçimi her kaydın `atif` alanındadır: *Av. Hakan Dimdik, "<derlemenin adı>", X (@hakandimdik), {SURUM_TARIHI[:4]}.*
+Bu derlemelerden yararlanırken kaynak olarak Av. Hakan Dimdik'i gösterin. Bu depoda yayımlanmak üzere derlemelerin Markdown ve yapılandırılmış veri biçimlerine dönüştürülmesi ve paylaşılması için Av. Hakan Dimdik'ten izin alınmıştır. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Derleyenin talebi hâlinde içerik kaldırılır. Önerilen atıf biçimi her kaydın `atif` alanındadır: *Av. Hakan Dimdik, "<derlemenin adı>", X (@hakandimdik), {SURUM_TARIHI[:4]}.*
 
 ## Sürüm ve etiket
 
@@ -1181,7 +1181,7 @@ Bu depodaki emsal karar derlemelerinin tamamını Av. Hakan Dimdik hazırlamış
 
 **{derleme} derleme · {sayfa} sayfa · yaklaşık {bin} bin karar künyesi.** İndirme ve dönüştürme tarihi: {tarih_tr}.
 
-> **Atıf.** Bu derlemelerden yararlanırken kaynak olarak Av. Hakan Dimdik'i gösterin. Her derlemenin altında özgün PDF'in ve paylaşıldığı gönderinin bağlantısı vardır; güncel sürümler için özgün paylaşımlara bakın. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Derleyenin talebi hâlinde içerik kaldırılır.
+> **Atıf.** Bu derlemelerden yararlanırken kaynak olarak Av. Hakan Dimdik'i gösterin. Her derlemenin altında özgün PDF'in ve paylaşıldığı gönderinin bağlantısı vardır; güncel sürümler için özgün paylaşımlara bakın. Bu depoda yayımlanmak üzere derlemelerin Markdown ve yapılandırılmış veri biçimlerine dönüştürülmesi ve paylaşılması için Av. Hakan Dimdik'ten izin alınmıştır. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Derleyenin talebi hâlinde içerik kaldırılır.
 """
 
 README_DOGRULAMA = """## Dönüştürme ve doğrulama
@@ -1206,6 +1206,8 @@ Her dosyanın yoklama, dönüştürme ve doğrulama çıktısı `log/<ad>.log` i
 - X araması eksiksiz olmayabilir; Google Drive dışında bir bağlantıyla paylaşılmış derleme varsa burada yoktur.
 
 ## Atıf ve teşekkür
+
+Derlemeleri hazırlayan ve bu depoda yayımlanmasına izin veren Av. Hakan Dimdik'e teşekkür ederiz.
 
 - **Derlemeler:** Av. Hakan Dimdik — [x.com/hakandimdik](https://x.com/hakandimdik). `kaynaklar.tsv` her derlemenin paylaşıldığı gönderiyi, `indir.tsv` özgün PDF'in Drive kimliğini tutar.
 - **Kira Hukuku derlemesi:** derleyenin belirttiği üzere Av. Yankı Büyüksezer'in paylaştığı kararlara da yer verilmiştir.
