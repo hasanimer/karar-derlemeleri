@@ -21,12 +21,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2013/629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77347900)
+
 Bu durumda, 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu'nun 5578 Sayılı Kanun ile değişik 8.maddesi uyarınca tarım arazileri, doğal özellikleri ve ülke tarımındaki önemine göre, nitelikleri Bakanlık (Gıda, Tarım ve Hayvancılık Bakanlığı) tarafından belirlenen mutlak tarım arazileri, özel ürün arazileri, dikili tarım arazileri ve marjinal tarım arazileri olarak sınırlandırıldığı, yine yeter büyüklükteki tarımsal arazi parsel büyüklüğünün, bölge ve yörelerin toplumsal, ekonomik, ekolojik ve teknik özellikleri gözetilerek Bakanlık tarafından belirleneceği ve belirlenen küçüklüğe erişmiş tarımsal arazilerin, miras hukuku bakımından "bölünemez eşya" niteliğini kazanacağı ve tarımsal arazinin bu niteliğinin tapu kütüğüne "şerh" verileceği, belirlenen parsel büyüklüğünün mutlak tarım arazileri ve özel ürün arazilerinde 20 dönüm, dikili tarım arazilerinde 5 dönüm, örtü altı tarım yapılan arazilerde 3 dönüm ve marjinal tarım arazilerinde 20 dönümden küçük olamayacağı, tarım arazilerinin bu büyüklüklerin altında ifraz edilemeyeceği, bölünemeyeceği veya küçük parsellere ayrılamayacağı, bölünemez büyüklükteki tarım arazilerinin mirasa konu olmaları ve üzerlerinde her ne şekilde
 gerçekleşmiş olursa olsun birlikte mülkiyetin (elbirliği veya paylı) mevcut olması durumunda, bu arazilerin ifraz edilemeyeceği payların üçüncü şahıslara satılamayacağı, devredilemeyeceği veya rehnedilemeyeceği, bu araziler hakkında 4721 sayılı Türk Medeni Kanunu'nun özgülemeye ilişkin hükümlerinin kıyasen uygulanacağı öngörülmüştür.
 
 Buna göre, 5578 Sayılı Kanunun yürürlüğe girdiği 09.02.2007 tarihinden sonra 2004 sayılı İcra ve İflas Kanunu uyarınca tarım arazilerinden yapılacak her türlü cebri satışlarda 5578 Sayılı Kanun ile değişik 5403 Sayılı Kanun'un 8. maddesinde yer alan sınırlandırmalara uyulması gerektiği açıktır. Zira, 5403 Sayılı Kanun'un 8. maddesi hükmü emredici olup, cebri satışları da kapsar. Aksine, cebri satışlar anılan kanun hükmü dışında tutulursa, muvazaaya meydan verilmiş olur ki, kanun koyucunun bunu amaçlamayacağı her türlü duraksamadan uzaktır.
 
 ## Yargıtay HGK 2012/78 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/62883900)
 
 Somut olayın özelliği göz önünde bulundurularak ayrıca;
 Çekişmeli taşınmazlara komşu ve yakın komşu olan 105 ada 23 ve 25, 177 ada 3, 179 ada 26, 27, 29 ve 24 parsellere ait kadastro tespit tutanakları ile varsa dayanağı olan tapu ve vergi kayıtları getirtilerek mahallinde uygulanmalı, dava konusu taşınmazların bulunduğu yönü ne şekilde gösterdiği belirlenmeli, 3402 Sayılı Yasanın 14/1. maddesinde yazılı 40 ve 100 dönüm kısıtlama araştırmasının aynı maddenin 03/07/2005 gün ve 5403 Sayılı Toprak Koruma ve Arazi Kullanma Yasası ile değiştirilen 2.fıkrası hükümlerine göre yapılacağı düşünülerek, adına tescil kararı verilecek kişi ya da kişiler ile diğer mirasçılar ve onların miras bırakanları yönünden aynı çalışma alanı içerisinde belgesizden zilyetliğe dayalı olarak tespit ve tescil edilen taşınmaz olup olmadığı, varsa cinsi, parsel numaraları ve miktarı, Tapu Sicil ve Kadastro Müdürlüklerinden ve yine, aynı kişiler tarafından açılan tescil davası olup olmadığı Hukuk Mahkemesi Yazı İşleri Müdürlüklerinden ayrı ayrı sorularak gerektiğinde tespit tutanak örnekleri ve tapu kayıtları ya da tescil dava dosyaları getirtilip incelenmeli, dava konusu taşınmazın sulu ya da kuru tarım arazisi olup olmadığı konusunda (5403 Sayılı Yasanın 3/j maddesi
@@ -48,6 +52,8 @@ O halde; davacının annesi adına tespit edilen taşınmazların, çekişmeli t
 
 ## Yargıtay 1. HD 2025/6017 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194931600)
+
 Dava, kadastro sırasında tescil harici bırakılan taşınmazın tescili talebine ilişkindir.
 
 …
@@ -56,10 +62,14 @@ Hal böyle olunca; 3402 sayılı Kanun'un 14/1. maddesinde yazılı 40... dönü
 
 ## Yargıtay 8. HD 2025/4409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170148800)
+
 Ayrıca mahalli bilirkişi, taraf tanıkları ve teknik bilirkişilerin katılımıyla yapılacak keşifte, ziraat mühendisi heyetine inceleme yaptırılıp, taşınmazın kısmen yahut tamamen zilyetlikle kazanılabilecek kültür arazisi olup olmadığı belirlenip, varsa içinde orman emvali bulunan kısımlar ayrı ayrı değerlendirilerek bu yolda rapor alınmalı, yöntemince mera araştırması yapılmalı ve taşınmazların mera olmadığının anlaşılması halinde zilyetlik araştırması yapılmalı, komşu taşınmazlara uygulanan tapu ve vergi kayıtları dosya arasına alındıktan sonra yerel bilirkişi ve tanıklardan, çekişmeli taşınmazların ilk maliki, intikali ve tasarrufu hususlarında maddi olaylara dayalı ayrıntılı bilgi alınmalı; mahalli bilirkişi ve tanıklardan, dava konusu taşınmazların davacılara murislerinden hangi tarihte, ne şekilde ve hangi nedene dayalı olarak (taksim, satış, bağış vs.) intikal ettiği saptanmalı; zilyetliğin ne zaman başladığı, kaç yıl, ne şekilde devam ettiği sorulup, kesin tarih ve olgulara dayalı, açık yanıtlar alınıp; tespit tarihine kadar gerçek kişi yararına zilyetlikle kazanma koşullarının oluşup oluşmadığı belirlenmeli; yerel bilirkişi ve tanık sözleri komşu parsel tutanak ve
 dayanaklarıyla denetlenmeli; komşu taşınmazlara uygulanan tapu ve vergi kayıtlarında dava konusu taşınmazların ne okuduğu belirlenmeli, bu taşınmazı sınır olarak nasıl nitelendirdikleri araştırılmalı; 3402 sayılı Kadastro Kanunu'nun (3402 sayılı Kanun) 14. maddesi uyarınca, davacı yanında, (murisler) yönünden de Tapu ve ilgili Kadastro Müdürlükleri ile Mahkeme Yazı İşleri Müdürlüğünden araştırma yapılıp, aynı Kanun'un 03.07.2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu (5403 sayılı Kanun) ile değiştirilen 14/2. maddesi gereğince sulu ve susuz olarak kazanılmış toprak miktarı belirlenip, Kanunun getirdiği sınırlamanın aşılıp aşılmadığı saptanarak, toplanacak tüm kanıtlar birlikte değerlendirilip, ulaşılacak sonuca göre bir hüküm kurulmalıdır.
 
 ## Yargıtay 8. HD 2025/3322 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171660400)
 
 Dava, tapusuz taşınmazın tescili istemine ilişkindir.
 
@@ -70,6 +80,8 @@ yerel bilirkişi ifadeleri bilimsel esaslara ve maddi bulgulara dayanılarak haz
 
 ## Yargıtay 7. HD 2025/1784 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142792800)
+
 Dava ortaklığın giderilmesi istemine ilişkindir.
 
 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu'nun geçici 5. maddesinde; “Bu maddenin yayımı tarihinde mirasçılar arasında henüz paylaşımı yapılmamış tarımsal arazilerin devir işlemleri, bu maddeyi ihdas eden Kanundan önceki kanun hükümlerine göre tamamlanır." hükmü mevcuttur.
@@ -77,6 +89,8 @@ Dava ortaklığın giderilmesi istemine ilişkindir.
 Temyizen incelenen Mahkeme kararı, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile kararda belirtilen gerekçelere göre usul ve kanuna uygun olduğu, dava konusu taşınmazlara malik olan murisin, 5403 sayılı Kanun'un yürürlük tarihinden önce öldüğünün ve adı geçen Kanun'un geçici 5. maddesi gereği temyiz eden davalının ehil mirasçı sıfatını kazanamayacağının anlaşılmasına göre; davalı ... tarafından temyiz dilekçesinde ileri sürülen nedenler kararın bozulmasını gerektirecek nitelikte görülmemiştir.
 
 ## Yargıtay 1. HD 2024/7090 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121134900)
 
 Dava, kadastro öncesi nedene dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -89,18 +103,26 @@ Mahkemece bozma ilamından önce alınan fen bilirkişi raporunda yapılan harfl
 
 ## Yargıtay 4. HD 2024/3418 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106885100)
+
 Desteğin sağlığında gelir elde ettiği işyerleri, dükkan büyükbaş, küçükbaş ve kümes hayvanları gibi ticari müessese ve tarımsal işletmeleri de mirasçılarına intikal etmektedir. İntikal eden ticari faaliyet ve tarımsal işletme varlıklarının mirasçılar tarafından kullanılması neticesinde gelir elde edilebileceğinden artık destekten yoksun kalma zararı hesaplanırken bu durumun da nazara alınması gerekmektedir. Bu nedenle desteğin vefatından önceki geliri tespit edilirken, söz konusu ticari faaliyet veya tarımsal işletmenin devamı için desteğin sağlığında yapmış olduğu kişisel katkısının belirlenmesi gerekmektedir.
 
 ## Yargıtay 8. HD 2024/1192 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040808500)
 
 Yukarıda açıklanan yöntemle yapılacak araştırma sonucu, taşınmazların orman sayılan yerlerden ve yayla olmadığı belirlendiği takdirde, bu kez, zilyetlik yolu ile kazanma koşullarının araştırılması gerekir. Bu cümleden olarak; yapılacak keşifte tarım uzman bilirkişi olarak ziraat mühendisine inceleme yaptırılıp, zilyetlikle kazanılabilecek kültür arazisi olup olmadığı belirlenip, bu yolda rapor alınmalı; komşu parsellerin tutanak ve dayanakları getirtilip uygulanmalı; bu taşınmazları sınır olarak nasıl nitelendirdikleri araştırılmalı; varsa, zilyetlik tanıkları taşınmazlar başında dinlenmeli; zilyetliğin ne zaman başladığı, kaç yıl, ne şekilde devam ettiği sorulup, kesin tarih ve olgulara dayalı, açık yanıtlar alınıp; tesbit tarihine kadar gerçek kişiler yararına zilyetlikle kazanma koşullarının oluşup oluşmadığı belirlenmeli;
 3402 sayılı Kadastro Kanunu'nun (3402 sayılı Kanun) 14 üncü maddesi uyarınca, davacılar yanında, (murisler) yönünden de Tapu ve ilgili Kadastro Müdürlükleri ile Mahkeme Yazı İşleri Müdürlüğünden araştırma yapılıp, aynı Kanun'un 03.07.2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu (5403 sayılı Kanun) ile değiştirilen 14/2 nci maddesi gereğince sulu ve susuz olarak kazanılmış toprak miktarı belirlenip, kanunun getirdiği sınırlamanın aşılıp aşılmadığı saptanarak, toplanacak tüm kanıtlar birlikte değerlendirilip, ulaşılacak sonuca göre bir hüküm kurulmalıdır.
 
 ## Yargıtay 7. HD 2023/3642 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929226900)
+
 Ancak; 5578 sayılı Kanun'la değiştirilen 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu'nun 8 inci maddesi gereğince bölünemez büyüklükteki tarım arazilerinin mirasa konu olmaları ve üzerlerinde her ne sebeple gerçekleşmiş olursa olsun birlikte mülkiyetin mevcut olması durumunda, bu arazilerin ifraz edilemeyeceği, payların 3 üncü şahıslara satılamayacağı, devredilemeyeceği hükmü mevcut iken; 5403 sayılı Kanun'un 8 inci maddesinde 30.04.2014 tarihli ve 6537 sayılı Kanun'un 4 üncü maddesi ile yapılan ve 15.05.2014 tarihinde yürürlüğe giren değişiklikle; "Tarım arazileri Bakanlıkça belirlenen büyüklüklerin altında ifraz edilemez, hisselendirilemez. Hazine taşınmazlarının satış işlemleri hariç olmak üzere pay ve paydaş adedi artırılamaz...." şeklinde düzenleme yapıldığından, artık asgari tarımsal arazi büyüklüklerinin altındaki arazilerde de payın üçüncü şahıslara satışı ve devri mümkün hâle gelmiştir.
 
 ## Yargıtay 14. HD 2021/226 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641710800)
 
 Dava, 5403 sayılı Yasanın 8/c maddesine dayanan ehil mirasçılık nedeniyle mülkiyetin devri istemine ilişkindir.
 
@@ -113,6 +135,8 @@ Somut olaya gelince: 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununa 3
 
 ## Yargıtay 20. HD 2019/4347 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520377100)
+
 Dava, kadastro tespitine itiraza ilişkindir.
 
 …
@@ -123,11 +147,15 @@ oluşacak sonuca göre bir karar verilmelidir.
 
 ## Yargıtay 20. HD 2019/48 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/480032100)
+
 K. sayılı kararları ile iptal edilmiş ve kalan fıkraları da 03.03.2005 gününde yürürlüğe giren 5304 sayılı Kanunun 14. maddesi ile yürürlükten kaldırılmış olduğundan, bu yollarla ormandan yer kazanılamayacağı, öncesi ... olan bir yerin üzerindeki ... bitki örtüsü yokedilmiş olsa dahi, salt ... toprağının ... sayılan yer olduğu düşünülmeli; toprak yapısı, bitki örtüsü ve çevresi incelenmeli; keşifte, hakim gözetiminde, taşınmazın dört yönden renkli fotoğrafları çektirilip, onaylanarak dosyaya eklenmeli yukarıda değinilen diğer belgeler fen, jeodezi ve uzman ... bilirkişiler eliyle yerine uygulattırılıp; hava fotoğraflarının ve orijinal-renkli (renkli fotokopi) memleket haritalarının ölçeği kadastro paftası ölçeğine, yine kadastro paftası ölçeği de memleket haritası ölçeğine çevrildikten sonra, her iki harita komşu ve yakın komşu parselleri de içine alacak şekilde birbiri üzerine aplike edilmek suretiyle, çekişmeli taşınmazın konumunu çevre parsellerle birlikte haritalar üzerinde gösterecekleri; yine hava fotoğrafları stereoskop aleti yardımıyla incelenerek taşınmazın niteliği, üzerinde bulunan bitki örtüsü, varsa ağaçların cinsi, yaşı, adedi, kapalılık durumunu, taşınmazda zilyetlik
 var ise ne zaman başladığı, kullanımın türünü, tasarruf sınırları bulunup bulunmadığını, zilyetliğin devam edip etmediği belirlenmeli; zilyetliğin tespiti yönünden yerel bilirkişi ve tanık beyanlarına başvurulmalı; parselin öncesinin ne olduğu, zilyetliğin hangi tarihte başlayıp kimler tarafından ne biçimde sürdürüldüğü, kullanımın ekonomik amacına uygun olup olmadığı, tanıkların zilyetlik olgusunu hangi olaylarla nasıl hatırladıkları, komşu köyden temin edilecek yerel bilirkişilerden taşınmazın kadim mera olup olmadığı, mera olarak kullanılıp kullanılmadığı saptanmalı; ziraat bilirkişisinden taşınmazın öncesi, toprak yapısı, bitki örtüsü ve niteliği ile zirai faaliyete konu olup olmadığı hususlarında, gerekirse toprak incelemesi de yaptırılarak bilimsel verilerle desteklenmiş, denetime elverişli rapor alınmalı, 3402 sayılı Kanunun 14/.... maddesinde yazılı 40 ve 100 dönüm kısıtlama araştırmasının aynı maddenin 3/7/2005 gün ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu ile değiştirilen 2. fıkrası hükümlerine göre yapılacağı düşünülerek, davacı gerçek kişi, muris veya devrettiği bildirilen kişiler yönünden aynı çalışma alanı içerisinde belgesizden zilyedliğe dayalı olarak
 tesbit ve tescil edilen taşınmaz olup olmadığı, varsa cinsi, parsel numaraları ve miktarı, tapu ve ilgili kadastro müdürlüklerinden sorulmalı ve yine aynı kişiler yönünden zilyetliğe dayalı tescil davaları sonucu tescil ilamı ile oluşan tapuların yüzölçümleri de nazara alınmalı, dava konusu taşınmazların sulu ya da kuru tarım arazisi olup olmadığı konusunda (5403 sayılı Kanunun 3/j maddesi ile Taşınmaz Malların Sınırlandırma Tesbit ve Kontrol İşleri Hakkında Yönetmeliğin değişik 10. maddesinin ikinci fıkrası hükümlerine göre, sulu tarım arazisi: tarım yapılan bitkilerin büyüme devresinde ihtiyaç duyduğu suyun, su kaynağından alınarak yeterli miktarda ve kontrollü bir şekilde karşılandığı araziler olarak açıklandığından) ziraat mühendisinden kanunun amacına uygun rapor alınmalı, bundan sonra toplanan delillerin tümü birlikte değerlendirilip, ulaşılacak sonuca göre bir hüküm kurulmalıdır.
 
 ## Yargıtay 20. HD 2018/4970 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430206500)
 
 O halde; dava konusu taşınmazın ... sayılmayan ve zilyetlikle kazanılabilecek yerlerden olduğunun belirlenmesi halinde, dava konusu taşınmaz ve etrafını gösterir ve ilk defa o yerde grafik ya da fotogrametri yöntemiyle düzenlenen .../5000 ölçekli arazi kadastro paftasının orijinal fotokopi örneği ile taşınmaza bitişik ya da yakın komşu parsellerin, kadastro tespit tutanak örnekleri ve bu parsellere uygulanan tapu ve vergi kayıtları ilk oluşturulduğu günden itibaren tüm gittileri ile, yine en eski tarihli memleket haritası ve hava fotoğrafları ile MK’nın 713. maddesine dayanılarak açılan davalarda dava tarihinden, kadastro tespitine itiraz davalarında ise tesbit tutanağının düzenlendiği tarihten 15 - ...yıl önce iki ayrı tarihte çekilmiş stereoskopik hava fotoğrafları ve bu fotoğraflara dayanılarak üretilmiş orijinal renkli memleket haritaları bulunduğu yerlerden istenerek, bu belgeler ziraat fakültelerinin toprak bölümünden mezun olan bir ziraat mühendisi, bir harita-kadastro (jeodezi ve fotogrametri) mühendisi ile üç ... yüksek mühendisinden oluşturulacak bilirkişi kurulu marifetiyle, dava konusu taşınmaz ile çevresine uygulanıp bu belgelerde dava konusu yer belirlendikten sonra,
 hava fotoğrafları ve dayanağı haritalar stereoskop aletiyle ve üç boyutlu olarak incelettirilip taşınmazın niteliğinin bu belgelerde ne şekilde görüldüğü, imar-ihya ve zilyetliğin hangi tarihte başlanılıp tamamlandığı belirlenmeli, bu belgeler ile kadastro paftası, pafta düzenlenmemişse dava konusu taşınmazın .../06/2005 gün ve 9070 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan ... (Büyük Ölçekli Haritalar ve Harita Bilgileri Üretim Yönetmeliği) hükümlerine göre koordinatlı olarak düzenlenecek haritası hem .../5000 ve hem de .../25000 ölçeklerinde eşitlenerek kadastro paftası ile düzenlenen harita, komşu ve yakın komşu taşınmazları da içine alacak şekilde birbiri üzerine aplike edilmek suretiyle çekişmeli taşınmazın konumu, hava fotoğrafları ile orijinal renkli memleket haritaları üzerinde gösterir biçimde bilirkişi kurulundan ayrıntılı ve bilimsel verileri içerir, topografik ve memleket haritalarından yararlanılarak taşınmazın gerçek eğim durumunu gösterir rapor alınmalıdır.
@@ -140,6 +168,8 @@ Dava, tapu iptali ve tescil istemine ilişkindir.
 
 ## Yargıtay 14. HD 2018/426 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404751000)
+
 Dava, satış vaadi sözleşmesine dayalı tapu iptal ve tescil istemine ilişkindir.
 
 …
@@ -151,6 +181,8 @@ Noterliği'nin 24.04.1972 tarih, 2463 Yevmiye no'lu satış vaadi senedine konu 
 
 ## Yargıtay 14. HD 2015/12073 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/183513400)
+
 Dava, satış vaadi sözleşmesine dayalı tapu iptali tescil mümkün olmaz ise tazminat istemine ilişkindir.
 
 …
@@ -159,10 +191,14 @@ Dava, satış vaadi sözleşmesine dayalı tapu iptali tescil mümkün olmaz ise
 
 ## Yargıtay 20. HD 2014/6169 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107362500)
+
 Açıklanan nedenlerle, öncelikle yukarıda belirtildiği şekilde taraf teşkili sağlanarak, dava konusu taşınmazın bulunduğu yere ait 1960, 1984 ve 2001 tarihli memleket haritalarının yapımına esas alınan hava fotoğrafları ve 1986 - 1992 tarihleri arasındaki hava fotoğrafları getirtilerek, önceki bilirkişiler dışında bir orman, bir fen ve bir ziraat bilirkişisi yardımıyla mahkemece yeniden yapılacak keşifte; orman bilirkişi tarafından hava fotoğrafları incelenerek, dava tarihinden geriye doğru 20 yıl önceki hava fotoğraflarında taşınmazın tarımsal amaçlı kullanılıp kullanılmadığı araştırılarak, hava fotoğrafları ve memleket haritaları ile pafta çakıştırılarak taşınmazın gösterildiği, denetime elverişli açıklamalı rapor düzenlenmeli, ziraat bilirkişisi tarafından taşınmazın toprak örnekleri alınıp, bilimsel analizleri yapılarak kaç yıldır tarımda kullanıldığı konusunda rapor alınmalı, taşınmazın her bir bölümünün toprak yapısı ve üzerindeki ağaçların yaşı, cinsi, dağılımı, tarım bitkileri yetiştirilip yetiştirilemeyeceği, hangi tür tarım bitkileri yetiştirilmesine uygun olduğu ayrıntılı açıklanmalı, komşu parsel kayıtları uygulanarak taşınmaz yönünü ne olarak gösterdiği araştırılmalı,
 3402 sayılı Kanunun 14/1. maddesinde yazılı 40 ve 100 dönüm kısıtlama araştırmasının aynı maddenin 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu ile değiştirilen ikinci fıkrası hükümleri gözetilerek yapılacağı düşünülerek, adına tescil kararı verilecek kişi ya da kişiler ile diğer mirasçılar ve onların miras bırakanları ve satın alınan kişiler yönünden aynı çalışma alanı içinde belgesizden zilyetliğe dayalı olarak tesbit ve tescil edilen taşınmaz olup olmadığı, varsa cinsi, parsel numaraları ve miktarı, tapu ve ilgili kadastro müdürlüklerinden ve yine, aynı kişiler tarafından açılan tescil davası olup olmadığı hukuk mahkemesi yazı işleri müdürlüklerinden ayrı ayrı sorularak gerektiğinde tesbit tutanak örnekleri ve tapu kayıtları ya da tescil dava dosyaları getirtilip incelenmeli, dava konusu taşınmazın sulu ya da kuru tarım arazisi olup olmadığı konusunda (5403 sayılı Kanunun 3/j maddesi ile Taşınmaz Malların Sınırlandırma Tesbit ve Kontrol İşleri Hakkındaki Yönetmeliğin değişik 10. maddesinin ikinci fıkrası hükümlerine göre, sulu tarım arazisi: tarım yapılan bitkilerin büyüme devresinde ihtiyaç duyduğu suyun, su kaynağından alınarak yeterli miktarda ve
 kontrollü bir şekilde karşılandığı araziler olarak açıklandığından) ziraat mühendisinden kanunun amacına uygun rapor alınmalı, Medenî Kanunun 713/4 maddesindeki yasal ilânlar yapılmalı, bundan sonra toplanan delillerin tümü birlikte değerlendirilerek sonucuna göre bir karar verilmelidir.
 
 ## Yargıtay 1. HD 2013/3323 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79641800)
 
 O halde, mahkemece yapılması gerekli iş, yukarıda değinilen ilkeler çerçevesinde araştırma ve inceleme yapılması, 5403 sayılı Kanunun 17.maddesi hükmü uyarınca toplulaştırma suretiyle sicil kaydı oluşan 463 ada 1 parsel sayılı taşınmazın önceki sicil kayıtlarının da getirtilerek kayıtta malik gözüken kişilerin davacının murisi A. Ü. ile ilgisinin duraksamaya yer vermeyecek şekilde saptanması, ondan sonra bir karar verilmesi gerekirken yazılı olduğu üzere hüküm kurulması isabetsizdir.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2015/36840 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/178818300)
+
 Davacı şirket davalıdan meyve satın aldığını, bedelini ödemesine rağmen meyvelerin teslim edilmediği gibi parayı da iade etmediğini ileri sürerek Bursa 10. İcra Müdürlüğünde icra takibine geçtiğini, davalının takipte borca ve icra dairesinin yetkisine itiraz ettiğini, davalının haksız itirazın iptali ile icra inkar tazminatına hükmedilmesini talep etmiştir.
 
 Davalı, yerleşim yerinin İnegöl olduğunu takibin İnegöl icra müdürlüğünde yapılması gerektiğini savunarak davanın reddini dilemiştir.
@@ -33,6 +35,8 @@ Yine HMK.nun 10. maddesi gereğince alacaklı, para borcunun ödenmesi için bor
 Hal böyle olunca taraflar arasındaki götürülecek borcun bizzat Şubenin davalı ile yaptığı işlemden kaynaklanması nedeniyle alacaklının ikametgahı mahkemesinde icra takibine geçilmesinde davacının seçimlik hakkı bulunmaktadır. Mahkemece bu husus ön sorun (hadise) şeklinde incelenerek yetki itirazının reddine karar verilmesi gerekirken yetki itirazının kabul edilmesi sonucu yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2015/36837 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/186415100)
 
 Davacı şirket, davalı kurum ile imzaladığı hizmet alım sözleşmesi uyarınca davalıya hizmet verdiğini sigorta primlerini düzenli olarak ödediğini, davalının haksız olarak hizmet bedellerinden %5 oranında... prim desteği kesintisi yaptığını, kesintilerin ihtara rağmen ödenmediğini, alacağı için ... İcra Müdürlüğünde icra takibine giriştiğini, davalının haksız olarak icra takibine karşı yetkiye ve borca itiraz ettiğini, şirketin ticari faaliyet adresinin ...olduğunu, davalının itirazında belirttiği ... İcra Müdürlüğünün yetkili olmadığını, icra takip talebinde belirtilen adreste icra ödeme emrinin davalıya tebliğ edildiğini, davalı kurumun yerleşim yerinin ... olduğunu, yerleşim yerinin ...olmadığını ileri sürerek haksız itirazın iptali ile takibin devamına, davalının icra inkar tazminatına mahkumiyetine karar verilmesini istemiştir.
 
@@ -46,10 +50,14 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı tarafın temyiz itirazlarının
 
 ## Yargıtay 12. HD 2015/29922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404444000)
+
 Alacaklı tarafından borçlu aleyhine genel haciz yoluyla ilamsız takip başlatıldığı, örnek 7 ödeme emrinin 17/11/2014 tarihinde borçluya tebliği üzerine borçlu, yedi günlük yasal süre içinde 19/11/2014 tarihli borca itiraz dilekçesi ile icra dairesine itiraz ettikten sonra 20/11/2014 tarihli ikinci bir dilekçe ile icra dairesine borca itirazın yanında yetki itirazında bulunmuş olup itirazı sonucu icra müdürlüğü tarafından takibin durdurulduğu, alacaklının itirazın kaldırılması istemiyle icra mahkemesine başvurduğu ve mahkemece itirazın kaldırılması talebinin reddine hükmedildiği anlaşılmaktadır.İİK'nun 50/2. maddesine göre, yetki itirazı esas hakkındaki itirazla birlikte yapılır. İcra mahkemesi tarafından önce yetki meselesi tetkik ve kati surette karara raptolunur. Borçlu süresi içinde ödeme emrine itiraz ederken yetki itirazını da birlikte bildirmemişse, artık takibin bundan sonraki safhalarında yetki itirazında bulunamaz. Yani borçlu esasa ilişkin itirazıyla birlikte aynı anda yetki itirazında bulunmamışsa daha sonra itiraz, süresi dolmasa dahi artık icra takibine yetki yönünden itiraz edemez.
 Hem yetkiye hem esasa itiraz etmek isteyen borçlunun, her iki itirazını da açıkça ve birlikte bildirmesi (yapması)gerekir.Somut olayda borçluya ödeme emri 17/11/2014 tarihinde tebliğ edilmiş olup borçlunun 19/11/2014 tarihinde borca itiraz ettiği, daha sonra 20/11/2014 vürut tarihli ikinci dilekçesiyle borca itirazın yanında ayrıca yetkili icra dairelerinin İzmir olduğundan bahisle yetki itirazında bulunduğu görülmektedir. Şu hale göre borca itirazdan sonra yapılan yetki itirazı süresinde dahi olsa geçersizdir. Mahkemece borca itirazın esası incelenerek bir karar verilmesi gerekirken geçerli bir yetki itirazının bulunduğu ve yetki itirazının kaldırılması istenmeden sadece borca itirazın kaldırılması istendiği gerekçesiyle itirazın usulden reddine karar verilmesi isabetsizdir.SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428.
 
 ## Yargıtay 13. HD 2015/27507 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/182558000)
 
 Davacı, dava dışı.... tarafından kullanılan kredinin teminatı olarak dava konusu taşınmaz üzerine ipotek tesis edildiğini, ipotek tesisinden sonra taşınmazı üzerindeki bu takyidatla birlikte davalının satın aldığını, ipoteğe konu borcun ödenmemesi üzerine davalı hakkında icra takibi yapıldığını, davalının itirazı üzerine takibin durduğunu ileri sürerek; icra takibine vaki itirazın iptali ile icra inkar tazminatının davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -69,6 +77,8 @@ SONUÇ, Yukarıda (1) nolu bentte açıklanan nedenlerle temyiz olunan hükmün 
 
 ## Yargıtay 3. HD 2015/18726 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143068600)
+
 Davacı vekili dilekçesinde; davacı ile davalının 8 nolu bağımsız bölümün satışı konusunda harici sözleşme imzaladıklarını, davacının davalıya 44.700 TL ödediğini, ödenen bedele karşılık davalının 40.000 TL'lik teminat senedi verdiğini, davalının taşınmaz devrini yapmadığını belirterek, bakiye 4.700 TL'nin tahsili amacıyla başlatılan icra takibine vaki itirazın iptalini talep etmiştir.
 
 Davalı vekili cevap dilekçesinde; davalının Antalya'da ikamet ettiğini, Antalya icra dairesinin ve Antalya Mahkemesinin yetkili olduğunu beyan etmiştir.
@@ -83,6 +93,8 @@ SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şek
 
 ## Yargıtay 19. HD 2015/16905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138980500)
+
 Davalı vekili, müvekkilinin “Gandi'nin Yeri” isimli bir restoran işletmecisi olduğunu, sözleşme uyarınca davacının distribütörü aracılığıyla satış yapmaya başladığını, ancak davalının distribütörünün müvekkilinin birkısım ödemelerini geciktirdiğini, diğer distribütörlerin de mal vermeyi reddettiğini, müvekkilinin başka marketlerden satın alma yoluna gittiğini, buna rağmen müvekkilinin asgari taahhüdünün üzerinde mal aldığını, ayrıca davacı taraftan bir ihtarname veya uyarı almadığını belirterek, davanın reddini talep etmiştir.
 
 Mahkemece yapılan yargılama sonucunda, taraflar arasında yapılan 21/02/2011 tarihli mal alım-satım sözleşmesinin 5.1 maddesinde ve 21/02/2011 tarihli yatırım destek sözleşmesinin 6.maddesinde anlaşmazlıkların çözümü halinde yetkili yer mahkemesi ve icra daireleri olarak İstanbul mahkemelerinin ve icra dairelerinin yetkili kılındığı, her iki tarafın da tacir olduğu ve 6100 Sayılı HMK' nın 17. maddesi gereğince yapılan bu yetki sözleşmesinin geçerli olduğu, bu yetki sözleşmesiyle belirlenen mahkeme ve icra dairelerinin yetkisinin kesin yetki olup, 6100 Sayılı HMK' nın 114/1-ç maddesinde kesin yetkinin olduğu hallerde mahkemenin yetkili bulunmasının dava şartları arasında sayıldığı, yargılamanın her hal ve safhasında talep üzerine veya kendiliğinden incelenerek bir karar verilmesi gerektiği, bu nedenlerle İstanbul Mahkemeleri ve icra daireleri dışında başka yer icra müdürlüğünde takip yapılmasının olanaklı bulunmayıp, İzmir İcra Müdürlüğünde takip yapılması suretiyle, itirazın iptali davasına konu olan takibin yetkili yer icra müdürlüğünde yapılmadığı, ön dava şartı olan “usulüne uygun yetkili yer icra müdürlüğünde yapılmış takip olması” unsurunun gerçekleşmediği gerekçeleriyle,
@@ -95,6 +107,8 @@ Davacı tarafından, davalının ikametgahının bulunduğu İzmir' de icra taki
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 19. HD 2015/16662 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/192485300)
 
 Dava; icra takibine vaki yetki ve borca itirazın kaldırılması istemine ilişkindir.
 
@@ -109,6 +123,8 @@ Yetkili icra dairesinde takip yapılması itirazın iptali davasının koşullar
 SONUÇ: Yukarıda açıklanan nedenlerle, hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 19. HD 2015/15036 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/124911700)
 
 Davacı vekili, icra takibine konu fatura içeriği mal ve hizmetin davalının İzmir adresindeki çalışanlarına imza karşılığı 39 adet teslimat fişi ile teslim edildiğini ve kepçe çalışmasının davalının İzmir-... adresinde yapıldığını ileri sürerek davalının icra takibinde icra dairesinin yetkisine ve borca yaptığı itirazının iptali ile takibin devamına %20 icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
 
@@ -126,6 +142,8 @@ SONUÇ : Yukarıda açıklanan nedenlerle hükmün temyiz eden davacı yararına
 
 ## Yargıtay 12. HD 2015/14948 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/169676100)
+
 Alacaklı tarafından borçlu aleyhine, fatura borcuna dayalı olarak 09.12.2013 tarihinde başlatılan ilamsız takipte; borçlunun yetki itirazının alacaklı tarafından kabulü ve dosyanın yetkili icra dairesine gönderilmesi ve borçluya örnek 7 numaralı ödeme emri tebliği üzerine borçlunun icra dairesine itirazı ile duran takibin devamını sağlamak amacıyla alacaklının itirazın kaldırılması istemiyle icra mahkemesine başvurduğu , mahkemece, faturanın İİK. 68. madde niteliğinde belge olmadığı gerekçesi ile davanın reddedildiği anlaşılmıştır.
 
 İİK'nun 68/1.maddesi gereğince; talebine itiraz edilen alacaklının takibi, imzası ikrar veya noterlikçe tasdik edilen borç ikrarını içeren bir senede yahut resmi dairelerin veya yetkili makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz veya belgeye müstenit ise, alacaklı itirazın kaldırılmasını isteyebilir.
@@ -135,6 +153,8 @@ Alacaklı tarafından borçlu aleyhine, fatura borcuna dayalı olarak 09.12.2013
 SONUÇ : Alacaklının bir kısım temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 19. HD 2015/13740 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/192110800)
 
 Davacı vekili, irsaliyeli faturalara dayanan alacağın tahsili için girişilen icra takibine davalı tarafından haksız olarak itiraz edildiğini, yetki itirazının yerinde olmadığını, para alacakları kanun gereği götürülecek borçlardan olduğu için alacaklının merkezinin bulunduğu yer icra dairesinin yetkili olduğunu, işlemiş faize ve borca itirazın da yerinde olmadığını ileri sürerek, itirazın iptali ile takibin devamına, %40 icra inkar tazminatının davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -150,6 +170,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle hükmün davacı yararına BOZULMASINA �
 
 ## Yargıtay 19. HD 2015/13272 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/199155000)
+
 Davacı vekili taraflar arasında yapılmış Ticari Ürün Satın Alma Sözleşmesi, satıcı firma sözleşmeleri ve cari hesap uyarınca doğmuş 45.717,16 TL. asıl alacak ve faizinin tahsili amacıyla davalı aleyhine takip başlatıldığını, borçlu vekilinin borca ve yetkiye itirazının yerinde olmadığını ileri sürerek itirazın iptaline karar verilmesini talep ve dava etmiştir.
 
 Davalı vekili müvekkili şirketin takip tarihi itibariyle borçlu bulunduğu 5.002,23 TL yi icra dosyasına yatırdıklarını, davacıya başkaca borçlarının olmadığını, davalının ticari ilişki kapsamında düzenlenen faturaları kendi kayıtlarına işlemekten kaçındığını ve bu suretle dava konusu alacağın oluşturulduğunu, temerrüdün söz konusu olmadığını, bu nedenle talep edilen faizin kabulünün mümkün olmadığını, icra inkar tazminatı talebinin de reddi gerektiğini beyan etmiştir.
@@ -161,6 +183,8 @@ Dava itirazın iptali davası olup icra takibinde borca kısmen itiraz edilmekle
 SONUÇ : Yukarıda açıklanan nedenlerle davalı vekilinin temyize itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 19. HD 2015/13266 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/199147300)
 
 Davacı vekili, 10 adet faturaya dayalı olarak alacağın tahsili için başlatılan ilamsız icra takibinde davalı borçlunun icra dairesinin yetkisi ile 09.05.2013, 07.05.2013 ve 14.05.2013 tarihli 3 adet fatura bedeli toplamı olan 47.553,74 TL ye yönelik kısmi itirazda bulunduğunu ileri sürerek, itirazın iptali ile %20 icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
 
@@ -179,6 +203,8 @@ SONUÇ : Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 19. HD 2015/12000 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/190881100)
+
 Davalı vekili, takibe konu kredi sözleşmelerindeki imzaların müvekkiline ait olmadığını ve müvekkiline vekaleten atıldığının görüldüğünü, ancak müvekkilinin kredi sözleşmesi imzalanması hususunda kimseye yetki vermediğini savunarak davanın reddini istemiştir.
 
 Mahkemece toplanan delillere göre; takip konusu olan 31/08/2007 tarihli akitte davalının imzasının bulunmadığı, vekil tarafından imzalandığı, ancak dayanak vekaletnamede krediye kefil olma yetkisinin bulunmadığı, takip konusu diğer akitlerdeki imzaların ise davalıya ait olmadığının tespit edildiği gerekçesiyle davanın reddine karar verilmiş, hüküm temlik alan-davacı vekili tarafından temyiz edilmiştir.
@@ -188,6 +214,8 @@ Mahkemece toplanan delillere göre; takip konusu olan 31/08/2007 tarihli akitte 
 SONUÇ: Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 19. HD 2015/11713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/191239900)
 
 Davacı vekili, müvekkilinin davalıdan olan alacağının tahsili için ... 14.İcra Müdürlüğü’nün 2013/232 Esas sayılı dosyasıyla icra takibi yaptığını, takibe itiraz edildiğini ileri sürerek itirazın iptalini talep ve dava etmiştir.
 
@@ -200,6 +228,8 @@ Mahkemece benimsenen bilirkişi raporuna göre, satım konusu mallara ilişkin f
 SONUÇ: Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 19. HD 2015/11057 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138309200)
 
 Davacı vekili, satıştan kaynaklanan faturalara dayalı alacağın tahsili için girişilen icra takibine davalı tarafından haksız olarak itiraz edildiğini ileri sürerek itirazın iptali ile takibin devamına, % 20 icra inkar tazminatının davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -214,11 +244,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 12. HD 2015/10062 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/397804400)
+
 Tedbir nafakası ara kararı, ilam olmadığı gibi, İİK'nun 38. maddesi kapsamında ilam niteliğinde belge de sayılamaz. Bu nedenle de İİK'nun 34. maddesi hükmü, somut olayda uygulanamaz.İİK'nun 50. ve HMK.'nun 447/2. maddesinin göndermesiyle uygulanması gereken 6100 sayılı HMK' nun 6. maddesinin 1. cümlesine göre, "Genel yetkili mahkeme, dava açıldığı tarihte davalı gerçek ve tüzel kişinin yerleşim yeri mahkemesidir. Yerleşim yeri, 22/11/2001 tarihli ve 4721 Sayılı Türk Medeni Kanunu hükümlerine göre belirlenir."O halde mahkemece, yetkiye itirazın kaldırılması talebinin reddine karar vermekle yetinilmesi gerekirken istemin kabulüyle işin esasına girilerek hüküm tesisi isabetsizdir.
 
 SONUÇ :Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK'nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2015/9432 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/397016300)
 
 Alacaklı tarafından genel haciz yoluyla başlatılan takibe karşı borçlulardan ... ve ...'in, borca itirazlarının yanında ... İcra Dairelerinin yetkili olduğunu ileri sürerek takibe itiraz ettiği, alacaklının borçluların borca ve yetkiye itirazlarının kaldırılması istemi ile icra mahkemesine başvurduğu, mahkemece, borçlulardan ...'a ödeme emri tebliğ edilmediği, yetkiye itiraz eden borçluların ikametgahının ... olduğu gerekçesi ile yetki itirazının kabulü ile itirazın kaldırılması talebinin reddine karar verildiği anlaşılmaktadır.İİK.nun 50.maddesinin göndermesi ile uygulanması gereken HMK.nun 7/1.maddesi birinci cümlesine göre borçlu birden fazla ise bunlardan birinin yerleşim yeri icra müdürlüğünde takip yapılabilir. Bu durumda, diğer borçlular yetki itirazında bulunamazlar. Ancak, anılan hüküm borçlulardan biri için genel yetkili icra dairesinde takip yapılması ve onun hakkındaki yetkinin kesinleşmiş olması hali içindir.
 
@@ -226,11 +260,15 @@ Somut olayda, itiraz eden borçluların adresinin ..., takip borçlularından ..
 
 ## Yargıtay 12. HD 2015/9391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396902700)
+
 İtirazın kesin olarak kaldırılmasını düzenleyen İİK'nun 68. maddesinin 2. fıkrası gereğince, borçlu itirazını varit gösterecek hiçbir belge ibraz edemezse icra mahkemesi itirazın kaldırılmasına karar verir. Aynı maddenin 3. fıkrasına göre ise, itiraz birinci fıkrada gösterilen senet veya makbuz yahut belgeye müstenit ise itirazın kaldırılması talebi reddolunur.
 
 Alacaklının icra mahkemesine başvurusu, İİK'nun 68. maddesi gereğince borçlunun borca ve yetkiye itirazlarının kaldırılmasına ilişkin olup, mahkemece alacaklının talebi ile bağlı kalınarak öncelikle yetki itirazı hakkında bir karar verildikten sonra, yetki itirazı yerinde değil ise diğer itirazların incelenmesi suretiyle alacaklının itirazın kaldırılması talebinin kabul veya reddine karar verilmesi gerekir.Somut olayda, mahkemece borçlunun icra dairesine yaptığı yetki itirazının yerinde olduğu kabul edilmiş olduğundan, alacaklının yetki itirazının kaldırılması talebinin reddine karar verilmesi ile yetinilmesi gerekirken, alacaklının ilamsız takipte itirazın kaldırılmasını talep ettiği gözardı edilerek borçlunun icra mahkemesinde yetki itirazı varmış gibi yetki itirazının kabulü ile gönderme kararı verilmesi isabetsizdir.SONUÇ:Mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428.
 
 ## Yargıtay 19. HD 2015/8884 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/196856000)
 
 Mahkemece yapılan yargılama sonucunda, banka kayıtları üzerinde yapılan inceleme sonucu alınan bilirkişi raporuna göre, davacının takip tarihi itibariyle 437.653,05 TL asıl alacak, 8.083,70 TL faiz, 404,18 TL gider vergisi olmak üzere toplam 446,140,93 TL alacağının bulunduğu, ayrıca iade edileyen bir çek yaprağı nedeniyle 545-TL gayrinakdi kredi alacağı bulunduğu, davalı şirket tarafından kredi sözleşmesine istinaden kullanılan kredinin ödenmemesinden dolayı diğer davalıların da müşterek ve müteselsil kefil sıfatıyla sorumlu oldukları, ihtarnamenin tebliğ edilmesi ve kredi borcunun ödenmemesi nedeniyle asıl borçlu ve kefiller yönünden sorumluluğun doğduğu gerekçeleriyle, davasının kısmen kabulü ile;...İcra Müdürlüğü'nün 2011/14460 sayılı dosyasından davalılarca ödeme emrine yapılan itirazın 437.653,05 TL asıl alacak, 8.083,70 TL işlemiş faiz, 404,18 TL BSMV, 335,32 TL ihtarname masrafı olmak üzere 446.476,25 TL miktar üzerinden iptaline, takibin bu miktar üzerinden devamına, davacının gayrinakdi alacağına yönelik davasının da kabulü ile 545-TL alacak yönünden itirazın iptaline, davacının fazlaya ilişkin isteminin reddine, itirazın iptaline karar verilen asıl alacağın %40' ı olan
 175.061,22-TL icra inkar tazminatının davalılardan müştereken ve müteselsilen tahsili ile davacıya ödenmesine karar verilmiş, hüküm davalılar vekili tarafından temyiz edilmiştir.

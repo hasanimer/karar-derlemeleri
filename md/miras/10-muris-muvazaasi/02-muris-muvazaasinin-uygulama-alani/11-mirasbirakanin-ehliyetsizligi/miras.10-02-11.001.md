@@ -21,22 +21,32 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/2222 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/923305200)
+
 O halde, Bölge Adliye Mahkemesinin, pay oranında açılan eldeki davanın dinlenilebilir olmadığı ve temlik alan ...’ün davada taraf sıfatının bulunmadığı yönündeki kabulü doğrudur.
 
 ## Yargıtay 1. HD 2023/1553 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908933900)
 
 Türk Medeni Kanunu'nun 640. maddesi uyarınca tereke adına açılıp takip edilen davaları ya tüm mirasçıların birlikte açmaları ya da tüm mirasçıların açılan davaya muvafakatlarının sağlanması veya terekeye mümessil tayin edilerek davanın sürdürülmesi zorunludur. Dosya içerisinde, dava dışı mirasçı ...'un davaya muvafakat ettiğine veya terekeye mümessil tayinine ilişkin, herhangi bir bilgi ve belge bulunmamaktadır. Mahkemece, davada yer almayan mirasçı ...'un davaya muvafakatinin sağlanması aksi durumda TMK'nın 640. maddesi gereğince mirasbırakan ...'ın terekesine temsilci atanması için dava açmak üzere davacılara süre verilmesi ve atanacak tereke temsilcisi huzuruyla davaya devam edilmesi gerekirken davanın görülebilirlik koşulu gözardı edilerek yazılı şekilde karar verilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2023/1068 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882927500)
+
 Elbirliği (iştirak) halinde mülkiyetin bu özelliği itibariyle ortaklar arasında zorunlu dava arkadaşlığı bulunmaktadır. Şayet yasa veya elbirliği (iştirak) halinde mülkiyeti oluşturan anlaşmada ortaklık adına hareket etme yetkisinin kime ait olacağı belirtilmemişse, ortaklığın tasfiyesini isteme ... dışındaki tüm işlemlerde ortakların (iştirakçilerin) oy birliğiyle karar almaları ve birlikte hareket etmeleri zorunluluğu vardır.
 
 ## Yargıtay 1. HD 2023/844 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868301000)
 
 …
 
 ayrıca ehliyetsizlik iddiasıyla miras payı oranında tapu iptal ve tescil talepli davanın tereke adına açılmamış olması nedeniyle dinlenilmesine yasal olanak bulunmadığı …
 
 ## Yargıtay 1. HD 2023/687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908595600)
 
 Terekeye karşı yapılan mülkiyetten kaynaklanan haksız fiil niteliğindeki muris muvazaası ve elatmanın önlenmesi gibi davalar dışında ehliyetsizlik, hile, vekâlet görevinin kötüye kullanılması vs. gibi davalarda terekeyi temsil eden tüm mirasçıların bir arada hareket etmek suretiyle davayı birlikte açmaları, ayrıca, mirasçılardan birisinin terekeye iade şeklinde dava açması halinde de tüm mirasçıların muvafakatlarının sağlanması …

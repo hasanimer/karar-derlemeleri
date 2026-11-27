@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 18. HD 2018/632 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/400415800)
+
 Davacı vekili; taraflar arasında 31/05/2013 tarihli kart satış sözleşmesi imzalandığını, davacı şirket tarafından üye kuruluşlar vasıtası ile müşteri şirket personeline elektronik ödeme kartı ile yemek yeme olanağı sağladığı sistem, hizmet ve bu hizmetin bedelinin ödenmesine ilişkin şartların kart satış sözleşmesinin konusunu oluşturduğunu, dava konusu alacağın belirtilen sözleşme kapsamında düzenlenen faturalardan kaynaklandığını, borcun ödenmemesi nedeniyle İstanbul 36. İcra Müdürlüğü'nün 2016/27444 Esas sayılı dosyası ile takip başlatıldığını, davalının haksız itirazı ile takibin durduğunu, yetki itirazının yersiz olduğunu, BK m. 89 ve sözleşmenin 7.maddesi ile HMK m.
 
 …
@@ -39,6 +41,8 @@ Dosya kapsamından anlaşıldığına göre, dava konusu para alacağına ilişk
 
 ## İstanbul BAM 12. HD 2018/521 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/407267000)
+
 İİK 67. maddesinde, takip talebine itiraz edilen alacaklı,itirazın tebliğ tarihinden itibaren 1 sene içinde itirazın iptali davası açabileceği düzenlenmiştir.Bu süre hakdüşürücü süredir. Somut olayda ödeme emrinin davalı ... Tekstil şirketine ve ....'e 11.07.2013 tarihinde tebliğ edildiği davalıların ödeme emrine,18.07.2013 tarihinde icra dairesinin yetkisine ve faize itiraz ettikleri itiraz dilekçesinin alacaklıya tebliğ edilmediği,alacaklı vekilinin 20.2.2015 tarihinde itirazı öğrendiğinin anlaşılması itirazın tebliği anlamına gelmediği ,bu sebeble 1 yıllık dava açma süresinin başlamadığı anlaşılmaktadır.Buna göre İlk Derece mahkemesinin itirazın tebliğ alındığı tarihten itibaren 1 yıllık hak düşürücü sürenin geçmiş bulunduğuna dair gerekçesi yerinde değildir.
 Ancak takibin dayanağı dosyada bulunan 11.06.1998,22.06.1998 ve 17.7.1998 tarihli kredi sözleşmelerinin ...bank'ın Antalya Şubesi ile davalılar arasında akdedildiği, davalıların ikametgahlarının Antalya olduğu ,sözleşmelerde İstanbul İcra Dairelerini ve Mahkemelerini yetkili kılan bir yetki şartı bulunmadığı ,aranılacak borçlarda TBK 89.maddenin uygulanamayacağı nazara alındığında takibin yetkisiz icra dairesinde yapılmış olması nedeniyle davanın usulden reddi erektiğinden gerekçe bu şekilde düzeltilerek istinaf başvurusunun esastan reddine karar verilmiştir.
 
@@ -47,6 +51,8 @@ Ancak takibin dayanağı dosyada bulunan 11.06.1998,22.06.1998 ve 17.7.1998 tari
 Davacı vekilinin istinaf başvurusunun HMK 'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 8. HD 2018/500 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403160400)
 
 Davalı vekili cevap süresiiçerinde yetki itirazında bulunmuş,yetkili mahkemenin İstanbul Anadolu Asliye Ticaret Mahkemesi olduğunu belirtmiş ayrıca davanın esastan reddini istemiştir.
 
@@ -63,6 +69,8 @@ Davacı vekilinin istinaf talebinin kabulü ile, istinaf talebine konu Kocaeli 2
 
 ## İstanbul BAM 12. HD 2018/463 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405522100)
+
 İLK DERECE MAHKEMESİ KARARI:Mahkemece, takibin başladığı tarihte davalı takip borçlusunun yerleşim yeri icra dairesinin genel yetkili icra dairesi olduğu, TBK'nın 89. maddesi uyarınca ise para borçlarının alacaklının yerleşim yerinde ödeneceğinin hüküm altına alındığı, somut olayda davalı takip borçlusunun adresinin Karaman olduğu, davacı takip alacaklısının yerleşim yerinin ise Esenyurt olduğu, her iki adresin de İstanbul İcra Daireleri'nin yetki sınırı dışında kaldığı, yetkili icra dairesinde yapılmayan takip nedeni ile somut olayda dava şartının gerçekleşmediği anlaşılmakla; dava şartı yokluğundan davanın usulden reddine karar verilmiştir.
 
 …
@@ -78,6 +86,8 @@ Davalı vekili icra dosyasında yetki itirazında bulunmuş,yine cevap dilekçes
 Davacı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 14. HD 2018/226 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/398055700)
 
 Davacı vekili, müvekkili tarafından davalıya taşıma hizmeti verildiğini, karşılığında düzenlenen fatura bedelinin ödenmediğini, alacağın tahsili için davalı aleyhine girişilen icra takibinin yetkiye ve borca itiraz sonucu durduğunu ileri sürerek itirazın iptali ile takibin devamına ve icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
 
@@ -101,6 +111,8 @@ HMK. 353/1.a.6.maddesi uyarınca, işin esası incelenmeksizin, ilk derece mahke
 
 ## İstanbul BAM 17. HD 2018/221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/395130800)
+
 Davacı taraf, Noter ihtarlarıyla uyarılmasına rağmen sözleşmeyle üstlendiği edimini yerine getirmemiş olduğundan eldeki davaya konu iflas takibindeki alacağı talep etme şartlarının oluşmadığı, davacı tarafın satımını gerçekleştirdiği lisansın çalışmadığının Ankara 2. FSHM Mahkemesi 2013/24 D.İş dosyasından 20/08/2013 tarihinde yaptırılan tespit sonucu alınan bilirkişi kurulu raporun, mahkeme aracılığıyla tespit ettirildiği, …
 
 …
@@ -112,6 +124,8 @@ Yetki konusunda ki itiraz hususunda ise, her ne kadar iflas davalarında davalı
 Bakırköy 2. Asliye Ticaret Mahkemesinin 2014/450 Esas, 2017/592 Karar sayılı 07/06/2017 tarihli kararının KALDIRILMASINA …
 
 ## İstanbul BAM 13. HD 2018/104 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/393623000)
 
 Davacı vekili dava dilekçesi ile; taraflar arasında imzalanan protokolden doğan alacağın ödenmediğini, bu nedenle davalı/borçlu hakkında İstanbul Anadolu ... İcra Müdürlüğü'nün ... sayılı dosyası üzerinden icra takibi yapıldığını, davalının 12/12/2014 tarihinde borca, faize ve ferilerine ve yetkiye itiraz ederek icra takibini durduğunu, borçlunun icra takibine itirazının haksız ve kötüniyetli olduğunu ileri sürerek, davalının icra takibine vaki itirazının iptali ile takibin devamına ve icra inkâr tazminatına hükmedilmesine, karar verilmesini talep etmiştir.
 
@@ -129,6 +143,8 @@ Temlik edilmeyen kısım itibariyle borçlunun temlik eden alacaklıya karşı s
 Davacı vekilinin istinaf başvurusunun 6100 sayılı HMK' nun 353/1-b1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2018/62 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/394707400)
 
 Davacı vekili 26.09.2013 tarihli dava dilekçesinde, müvekkili firmanın davalı ile 01.12.2011 tarihinde lisans uyarlama eğitim ve geliştirme proje Sözleşmesi, 26.02.2013 tarihinde de...3 yıllık lisans güncelleme abonelik Sözleşmesi imzaladığını, müvekkilinin iş bu sözleşmelere istinaden davalıya verdiği hizmet karşılığı faturalar düzenlediğini, faturaların bedellerinin ödenmediğini, ödenmeyen faturalar için Bakırköy ..
 
@@ -151,6 +167,8 @@ Yetki sözleşmesi iki taraf arasında gerçekleştirilen bir sözleşme olduğu
 Açıklanan tüm yasal düzenlemeler kapsamında davalı borçlu tarafından İcra Dairesinin yetkisine yönelik yetki itirazında bulunulmadığından bu aşamada bu itirazının kabulü mümkün olamayacağından Öncelikle davalı vekilinin bu konudaki istinaf başvurusunun cevaplandırılarak işin esasının incelenmesi gerekmiştir.
 
 ## İstanbul BAM 13. HD 2018/35 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/393499500)
 
 Davacı vekili dava dilekçesi ile, taraflar arasındaki ticari ilişki çerçevesinde davalının davacıdan sigorta poliçesinden kaynaklı alacağının davalı borçlu tarafından ödenmemesi üzerine , davalı aleyhine İstanbul 8 İcra Müdürlüğünün 2016/8433 E. sayılı dosyası ile davalı aleyhine icra takibine girişildiğini, davalının haksız ve hukuki dayanaktan yoksun itirazı üzerine takibin durduğunu ileri sürerek, davalının itirazının iptali ile takibin deveamına ve müvekkili şirket lehine %20 icra inkar tazminatına hükmedilmesini talep etmiştir.
 

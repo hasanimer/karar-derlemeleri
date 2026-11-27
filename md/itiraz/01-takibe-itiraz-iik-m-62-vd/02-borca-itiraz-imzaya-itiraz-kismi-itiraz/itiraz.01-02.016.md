@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2023/1495 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/941888800)
+
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ: İlk Derece Mahkemesi 17/12/2019 tarih 2013/32 Esas - 2019/1169 Karar sayılı kararında;"Dava, davaya konu çeklerin davacı tarafından boş ve imzasız halde davalı ....Ltd Şti'ye verildiği, bu davalı tarafından çeklerin doldurularak 3. kişilere verildiği iddiasıyla açılan davacının davalılara borçlu olmadığının tespitine ve dava konusu çeklerin iptali talebine ilişkindir. Mahkememizce İstanbul ....
 
 …
@@ -48,6 +50,8 @@ Uyuşmazlık davacının davalıdan takip tarihi itibariyle kısmi itiraza konu 
 
 ## İstanbul BAM 13. HD 2023/1388 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/937107900)
+
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ:İlk Derece Mahkemesi 17/04/2019 tarih 2017/1211 Esas - 2019/467 Karar sayılı kararında;"Dava, icra dairesine yapılan itirazın iptali ile takibin devamını, haksız ve kötü niyetle yapılan itiraz nedeni ile % 20'den az olmamak üzere icra inkar tazminatına mahkum edilmesini, yargılama giderleri ve vekalet ücretini davalı yana hükmedilmesi talebinden ibarettir.Uyuşmazlığın davacı tarafından davalı hakkında takibe konu faturalardaki hizmet verilmiş ise ödenmeyen fatura alacağı var ise miktarı noktasında toplandığı anlaşılmıştır.10/07/2018 tarihli duruşma ara kararı gereğince dosyanın Mali Müşavir ve Taşıma konusunda uzman bilirkişilere verilerek rapor aldırılmasına karar verilmiştir.
 
 …
@@ -61,6 +65,8 @@ Davacı; davalının yetkisiz icra dairesine verdiği ilk itiraz dilekçesinde h
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun KISMEN KABULÜNE, İstanbul Anadolu 7. Asliye Ticaret Mahkemesi'nin 17/04/2019 2017/1211 Esas - 2019/467 Karar sayılı kararının 6100 Sayılı HMK'nun 353/1-b2 maddesi uyarınca kaldırılmasına …
 
 ## Sakarya BAM 7. HD 2023/1380 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936372300)
 
 Davalı vekili cevap dilekçesinde özetle; davacı şirketin davalı şirkete çabuk bozulan süt ve süt ürünleri sattığını, davacı tarafın son kullanım tarihi dolana kadar satılamayan ürünleri iade alma taahhüdüne uymamış olduğunu, davacının iddia ettiği kadar ürünün davalı şirkete teslim edilmemiş olduğunu, davacının dosyaya sunduğu irsaliyeli faturaların bir kısmında teslim alanın isim ve imzasının olmadığını, faturaların tek başına emtianın teslim edilmiş olduğuna delil olmayacağını, faturalarda imzası olan ... ve ... isimli kişilerin davalı şirketin çalışanları olmadığını beyan ederek davanın reddini talep etmiştir.
 
@@ -87,6 +93,8 @@ olduğu, yapılan tahkikatın yeterli ve ilk derece mahkemesi gerekçesinin dava
 
 ## İstanbul BAM 13. HD 2023/1376 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/934770000)
+
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ: İlk Derece Mahkemesi 11/07/2023 tarih 2023/480 Esas sayılı ara kararında; "....Bu itibarla Mahkemece asıl uyuşmazlığı çözecek nitelikte ihtiyati tedbir kararı verilmesine hukuken imkan bulunmadığı gibi taraflar arasındaki uyuşmazlığın yargılamayı gerektirdiğinden istemde HMK 389 ve devamı madde hükümlerinde ön görülen koşullar gerçekleşmediğinden davacı vekilinin İstanbul Anadolu ...
 
 …
@@ -101,9 +109,13 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; A-Davacı vekilinin istinaf başvurus
 
 ## Kayseri BAM 6. HD 2023/1356 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/932874500)
+
 KAYSERİ 1. ASLİYE TİCARET MAHKEMESİ'nin istinafa konu edilen 23/03/2023 tarih ve 2021/817 E - 2023/198 K sayılı Kayseri Genel İcra Dairesinin ... Esas sayılı icra dosyasında vaki borca itirazın iptali istemi ile açılan itirazın iptali davasında verilen nihai kararının usul ve esas yönünden hukuka uygun olduğu anlaşılmakla, davacının işbu icra takibiyle ilgili verilen nihai kararla ilgili yaptığı istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE, …
 
 ## İstanbul BAM 43. HD 2023/1279 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979652100)
 
 Davalı tarafça istinaf kanun yoluna başvurulmadığı ve istinafa cevap dilekçesi sunulmadığı anlaşılmıştır.
 
@@ -122,6 +134,8 @@ HÜKÜM: Yukarıda ayrıntısı ile açıklanan nedenlerle;Davacı vekilinin ist
 
 ## İstanbul BAM 40. HD 2023/1212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/939974700)
+
 Asliye Ceza Mahkemesinin 2012/1621 Esas sayılı dosyasından alınan bilirkişi raporunun irdeleme başlıklı bölümünde, sigortalı araç sürücüsüne geçiş önceliğine uymama kuralını ihlal ettiğinden asli kusur, ... plakalı araç sürücüsüne ise kavşaklara yaklaşırken hızını azaltmama kuralını ihlal ettiğinden tali kusur izafe edildiği belirtilmesine rağmen raporun sonuç bölümünde sehven hata yapılarak kavşaklarda geçiş önceliğine uymayan ... plakalı araç sürücüsü ... gibi görüş belirtildiğini, oysa geçiş önceliğine uymayan aracın sigortalı davalıya ait araç olduğunun hem kaza tespit tutanağında ve kroki çizimlerinde hem de raporun irdeleme başlıklı bölümünden anlaşıldığını, dosyaya sunulan ceza mahkemesi kararı ve bilirkişi raporundaki basit hata sebebiyle iş bu dosya dahilinde alınan raporda dosya incelenmeksizin aynı hata devam ettirilerek gerçeğe aykırı karar verilmesine sebep olunduğunu, bilirkişilerin araçları ve sürücülerini karıştırması ve yanılgıya düşmesi sebebiyle gerçeğe tamamen aykırı kusur oranları belirlendiğini, sigortalı araç sürücüsü ...'nın hem kavşakta geçiş önceliği kuralını ihlal ettiğinden asli kusurlu olduğunu hem de kaza esnasında alkollü olduğunu, mahkemece sigortalı
 aracın sürücüsüne sadece alkollü olması nedeniyle kusur yüklenemeyeceği kararda belirtilse de sürücünün tek kusurunun bu olmadığını, sigortalı araç sürücüsünün asli kusuru açıkça ortada iken gerçeklerin yeterince irdelenmediğini belirterek kararın kaldırılmasını talep etmiştir.HMK'nin 355. maddesi kapsamında istinaf itirazları ve kamu düzenine ilişkin hususlarla sınırlı olarak yapılan inceleme sonunda:Dava, davacı tarafından zorunlu mali sorumluluk sigortası kapsamında zarar görene yapılan ödemenin sigorta sözleşmesi gereğince sigortalısından rücuen tahsili için yapılan icra takibine itirazın iptali ve takibin devamı istemine ilişkindir.Dosya kapsamından, 17/03/2012 tarihinde, davacıya ZMSS poliçesi ile sigortalı, davalının maliki olduğu ... plakalı araç ile ... plakalı aracın karıştığı kaza sonucu ... plakalı araçta yolcu olarak bulunan dava dışı ... yaralandığı ve bu yaralanma nedeniyle davacı sigorta şirketi tarafından adı geçene 20/03/2017 tarihinde 26.508,21 TL tazminat ödendiği, davacı tarafça yapılan bu ödemenin rücuen tahsili amacıyla davalı sigortalı aleyhine İstanbul ....
 
@@ -133,6 +147,8 @@ Hukuk Dairesinin 2017/3307 Esas - 2019/10090 Karar sayılı ilamı)Ceza yargıla
 KARAR: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istinaf başvurusunun HMK'nin 353/1-b/1. maddesi gereğince esastan reddine …
 
 ## Ankara BAM 22. HD 2023/1154 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/946046500)
 
 Davalı süresinde cevap dilekçesi sunmamış, davalı vekili yargılama sırasında davanın reddini istemiştir.
 
@@ -150,6 +166,8 @@ Dayanak Ankara 9.İcra Müdürlüğünün 2015/25432 Esas sayılı icra takip do
 
 ## İstanbul BAM 44. HD 2023/1061 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/946414400)
+
 Kredi kartı kuruluşları uluslararası kartlı ödeme sistemleri ile kredi kartı kullanıcılarının yaptığı işlemlerin güvenliği için söz konusu işlemler bakımından birtakım kurallar getirmiştir. Bankalar da bu kurallarla bağlıdır. Bu kurallar belirli bir banka ya da ülkeye özgü olmayıp kartların kullanıldığı bütün ülkelerde geçerlidir.Ters İbraz Süreci ile İlgili uygulanacak yasal düzenlemeler şu şekildedir: Banka Kartları ve Kredi Kartları Kanunu 8/4.maddesi: “Kart çıkaran kuruluşlar, kartın verilmesi anında kart hamilini yeteri derecede bilgilendirmek ve talep edilmesi halinde, gerçekleştirilmiş işlemlere ait kayıtları otuz günü geçmemek üzere işlemin mahiyetine uygun bir süre zarfında sağlamakla yükümlüdür. Yurt dışı işlemlerinde bu süre altmış gün olarak uygulanır.” Banka Kartları ve Kredi Kartları Kanunu 11/1.maddesi: “Kart çıkaran kuruluşlar, kart ve ek kart hamillerinin kart kullanımıyla ilgili olarak yapacakları şikâyet ve itiraz başvurularını, başvuru tarihinden itibaren yirmi gün içinde hamilin başvuru yöntemi kullanılarak ve gerekçeli bir şekilde cevaplandırmak zorundadır.
 Kuruluşlar, kart ve ek kart hamillerinin şikâyet ve itirazlarının ilgili birimlerine kolaylıkla ulaşmasını sağlayacak tedbirleri almakla yükümlüdür.” Kredi kartı ile yapılan ödemelerde kart sahibinin mal veya hizmeti elde edememesi ya da işlemin kendisi tarafından yapılmamış olması gibi hallerde ters ibraz kuralları uyarınca kart sahiplerinin bu işlemlere itiraz etme hakları vardır. Kart sahibinin bankaya böyle bir itirazda bulunması ile ters ibraz süreci başlar. Banka işlemin yapıldığı iş yerine bu itirazı bildirerek söz konusu işleme dair detayların ve belgelerin kendilerine verilmesini ister. Bunun üzerine kredi kartı sahibinin itirazının haklı olduğu anlaşılırsa banka iş yerinden yapılan ödemeyi tahsil ederek iadeyi gerçekleştirir.Ters ibraz kurallarının uygulanabilmesi ve itirazda bulunulması için süre itiraz sebebine göre farklılık gösterebilir; ancak hiçbir koşulda 540 günü aşamaz. Bu süre içinde kalınması şart olmakla beraber itirazlar itiraz sebebine göre teslim ya da işlem tarihinden itibaren 120 gün içinde yapılmalıdır.
 
@@ -159,6 +177,8 @@ uyarınca kabulü ile ilk derece Mahkemesinin kararının kaldırılarak, davan�
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1- Davalı vekilinin istinaf isteminin KABULÜ ile,2- İstanbul 16. Asliye Ticaret Mahkemesi'nin 12/07/2019 tarih, 2017/1022 E., 2019/681 K. Sayılı kararının 6100 Sayılı HMK'nın 353/1-b-2. maddesi gereğince KALDIRILMASINA …
 
 ## Adana BAM 9. HD 2023/1021 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/961511700)
 
 Davacı vekili dava dilekçesinde özetle; taraflar arasında fıstık alışverişi olduğunu, davacının davalıya bu alışveriş karşılığı 400.000,00 TL gönderdiğini, davalının karşılığında 366.731,00 TL'lik fıstık gönderdiğini, 33.269,00 TL bakiye kaldığını, müvekkili şirketin alacak bakiyesinin gönderilmeyen mal bedeli, çuval, işçilik ve fire bedeli olmak üzere toplam 39.797,28 TL olduğunu, davalı hakkında Ceyhan İcra Müdürlüğünün ...
 

@@ -51,9 +51,13 @@ Diğer yandan mirasçılıktan çıkarılmaya ilişkin iptal davası, mirasçıl
 
 ## Yargıtay HGK 2025/748 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206114700)
+
 Yargıtay 7. Hukuk Dairesinin yukarıda tarih ve sayısı belirtilen kararı ile "...1. Davacı, TMK'nın 557 nci maddesi uyarınca irade sakatlığı şekil şartlarına aykırılık ve hükümsüzlük iddiasıyla vasiyetnamenin iptali için dava açmış, İlk Derece Mahkemesince verilen davanın reddine ilişkin karar Bölge Adliye Mahkemesince kaldırılarak; tanıkların miras bırakanın beyanının kendi önlerinde yapıldığını tevsik eden beyanlarının bulunmadığı gerekçesiyle şekil şartına aykırılıktan dolayı davanın kabulüne karar verilmiştir. Oysa iptali istenen vasiyetnamede yer alan ''Vasiyetname Noter ... tarafından yazıldıktan sonra vasiyet eden ...'e önümüzde okunduğunu, adı geçenin vasiyetnamenin son ve gerçek isteklerine uygun olduğunu söylediğini ve kendisini bu işlemi yapmaya yetenekli gördüğümüzü bildiririz.'' ifadesinin tanıkların murisin beyanının kendi önlerinde yapıldığını tevsik eden beyanlar olduğunda kuşku yoktur. Bu nedenle; vasiyetnamenin TMK nın 535 inci maddesindeki tüm koşullara sahip olduğu için geçerli bulunmaktadır.
 
 ## Yargıtay HGK 2025/602 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180523600)
 
 Vasiyet, bir kimsenin (gerçek kişi) bizzat yapacağı ölüme bağlı bir tasarruf olup, amacı bütün mamelekini veya muayyen bir malını gerçek veya tüzel bir şahsa mülkiyetinin devrinin yapılmasıdır. 4721 sayılı Kanun'un 557. maddesinde vasiyetnamenin iptali sebepleri sınırlı olarak sayılmış olup, bunlar; ehliyetsizlik, vasiyetnamenin yanılma, aldatma, korkutma veya zorlama sonucunda yapılmış olması, tasarrufun içeriğinin bağlandığı koşullar veya yüklemelerin hukuka veya ahlâka aykırı olması ve son olarak da tasarrufun kanunda öngörülen şekillere uyulmadan yapılmış olması hâlleridir.
 
@@ -63,11 +67,15 @@ Tenkis kelime olarak; indirme, azaltma veya eksiltme anlamını gelmektedir. 472
 
 ## Yargıtay HGK 2024/511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087947600)
+
 6.2. Türk Medeni Kanununun 535 inci maddesine göre, mirasbırakan vasiyetnameyi bizzat okuyamaz veya imzalayamazsa, memur vasiyetnameyi iki tanığın önünde ona okur ve bunun üzerine mirasbırakan vasiyetnamenin son arzularını içerdiğini beyan eder. Bu durumda tanıklar, hem mirasbırakanın beyanının kendi önlerinde yapıldığını ve onu tasarrufa ehil gördüklerini; hem vasiyetnamenin kendi önlerinde memur tarafından mirasbırakana okunduğunu ve onun vasiyetnamenin son arzularını içerdiğini beyan ettiğini vasiyetnameye yazarak veya yazdırarak altını imzalarlar.
 
 6.3. Somut olayda, Ordu 1. Noterliğinin 5316 yevmiye sayılı ve 07.07.2005 tarihli düzenleme şeklindeki vasiyetnamenin şekil eksikliği nedeniyle iptali istenmiş ise de; vasiyetname içeriğinin yasanın öngörmüş olduğu Türk Medeni Kanununun 535 inci maddesindeki şekil şartlarını ihtiva ettiği anlaşıldığından vasiyetnamenin iptaline ilişkin talebin reddine karar verilmesi gerekirken Samsun Bölge Adliye Mahkemesinin 1. Hukuk Dairesince ilk derece mahkemesinin bu yöndeki kararının kaldırılarak vasiyetnamenin iptaline karar verilmiş olması doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay HGK 2024/469 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087943400)
 
 Dava; vasiyetnamenin iptali, olmaz ise tenkis istemine ilişkindir.
 
@@ -79,11 +87,15 @@ Hemen belirtmek gerekir ki kanun koyucunun; vasiyetname ve miras sözleşmesi ol
 
 ## Yargıtay HGK 2022/1258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857272500)
+
 Ayrıca vasiyetnamenin iptali ve tenkis davasının açılabileceği belli süreler vardır: Türk Medeni Kanunu’nun 559. maddesinin 1. fıkrasına göre “İptal davası açma hakkı, davacının tasarrufu, iptal sebebini ve kendisinin hak sahibi olduğunu öğrendiği tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın geçmesi tarihinin üzerinden, iyiniyetli davalılara karşı on yıl, iyiniyetli olmayan davalılara karşı yirmi yıl geçmekle düşer”.
 
 Aynı Kanun’un 571. maddesinin 1. fıkrasına göre “Tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden on yıl geçmekle düşer”.
 
 ## Yargıtay HGK 2020/392 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615811300)
 
 TMK’nın 557. maddesinde vasiyetnamenin iptali sebepleri sınırlı olarak sayılmış olup, bunlar; a- Ehliyetsizlik, b- Vasiyetnamenin yanılma, aldatma, korkutma veya zorlama sonucunda yapılmış olması, c- Tasarrufun içeriğinin bağlandığı koşullar veya yüklemelerin hukuka veya ahlâka aykırı olması, d- Tasarrufun kanunda öngörülen şekillere uyulmadan yapılmış olması hâlleridir.
 
@@ -92,6 +104,8 @@ TMK’nın 557. maddesinde belirtilmiş olan iptal sebepleri dışında herhangi
 Vasiyetnameyi iptal ettirmek isteyen mirasçı veya vasiyet alacaklısının açacağı iptal davasında bu iptal sebeplerinden birine dayanması zorunludur. Vasiyetnamenin kısmen veya tamamen iptal edilmesi bakımından herhangi bir fark söz konusu olmayıp bu sebepler dışında herhangi bir sebebe dayanmak mümkün değildir.
 
 ## Yargıtay HGK 2010/417 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76900200)
 
 Kural olarak, ölüme bağlı tasarrufun iptali davasını mirasçıların birlikte açma zorunluluğu bulunmamaktadır (TMK.md.558). Diğer bir ifade ile her bir mirasçı kendi yönünden tek başına vasiyetnamenin iptalini isteyebilir. Bu durumda iptal davasını açmayan mirasçılar yönünden, vasiyetname, geçerliliğini korur. Bir kısım mirasçının açtığı vasiyetnamenin iptali davasında, diğer mirasçıları da kapsayacak içerikte iptal hükmünün kurulması doğru olmadığı gibi bu şekildeki bir karar davanın tarafı olmayan kişiler yönünden bağlayıcı bir sonuç ta doğurmaz (bkz. Yargıtay 2.H.D.20.03.2001 gün ve 551 E. 4158 K. sayılı ilamı). Sonuç itibari ile; ölüme bağlı tasarrufun iptaline yönelik karar, ancak, davanın tarafları yönünden hukuki etki gösterir.
 
@@ -142,11 +156,15 @@ Hukuk Dairesinin 07.03.2023 tarih ve 2021/75 08... /1372 Karar sayılı kararı 
 
 ## Yargıtay 7. HD 2026/766 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209515000)
+
 …
 
 işlemde birlik ilkesine uygun şekilde düzenlenen resmî vasiyetname lehine yorum yapılması gerektiği, vasiyetnamenin bütününden vasiyet edenin beyanının tanıklar huzurunda yapıldığının açıkça anlaşıldığı somut olayda vasiyetnamenin şekil yönünden geçerli olduğu hususunda bir tereddüt bulunmamaktadır.
 
 ## Yargıtay 7. HD 2025/5432 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197012200)
 
 Muris ... oğlu ... mirasçılarından ... ... tarafından 14.11.1969 tarihinde ... Noterliğince düzenlenen 19.05.1961 tarihli ve ... yevmiye numaralı vasiyetnameye yönelik vasiyetnamenin iptali davası açıldığı ve (dosyamız davacılarının da yer aldığı) 02.12.1969 tarihli cevap dilekçesinde davanın reddinin talep edildiği anlaşılmaktadır. Davacılar ... ve ...’nün (en geç) 02.12.1969 tarihi itibariyle vasiyetnameye muttali oldukları konusunda herhangi bir şüphe bulunmamaktadır. 4722 sayılı Türk Medenî Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un 17. maddesinde yer alan “Mirasçılık ve mirasın geçişi, mirasbırakanın ölümü tarihinde yürürlükte olan hükümlere göre belirlenir.” şeklindeki düzenlemesiyle bu gibi davalarda murisin ölüm tarihinin esas alınacağı belirtilmiştir. Adı geçen muris, 05.03.1969 tarihinde ölmüş olup 4721 sayılı Türk Medeni Kanunu'nun 1029. maddesine göre 4721 sayılı Kanun'un yürürlük tarihi, 01.01.2002’dir. Bu nedenle murisin ölüm tarihi esas alındığında 743 sayılı Kanun'un somut uyuşmazlıkta uygulanmasının gerektiği ortadadır.
 Tüm bu nedenlerle; eldeki davanın, 22.04.1993 tarihinde açılmış olduğu dikkate alındığında (28.05.1993 tarihinde) cevap dilekçesi veren ..., ..., ..., ..., ..., ..., ..., ... ve ( yargılama aşamasında vefat eden) ... mirasçıları ..., ... ve ... yönünden zamanaşımı süresinin geçtiği görülmektedir. Ayrıca (1086 sayılı HUMK'un yürürlükte bulunduğu dönemde) aynı vekil ile temsil edilen bir kısım davalılar ..., ..., ..., ..., ..., ... ve ... yönünden de yargılamanın devamı sırasında vekilleri tarafından tenkis davasına karşı zamanaşımı def’inde bulunulduğu, ancak davacılar vekilinin zamanaşımı def’inin süresinde yapılmadığı, süre geçtikten sonra zamanaşımı def’inde bulunulmasının mümkün olmadığına dair açık bir beyanının yer almadığı, böylece davalılar vekilinin süresinde kabul edilen zamanaşımı def’i nazara alınarak, bu davalılar bakımından da davanın anılan süre geçtikten sonra açıldığı anlaşılmaktadır.
@@ -155,6 +173,8 @@ Bilindiği üzere; mirasçılık ve mirasın geçişi mirasbırakanın ölüm ta
 
 ## Yargıtay 7. HD 2025/4922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190568700)
+
 1\. 4721 sayılı Kanun'un “Hak düşürücü süreler” başlıklı 559. maddesinde; "İptal davası açma hakkı, davacının tasarrufu, iptal sebebini ve kendisinin hak sahibi olduğunu öğrendiği tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın geçmesi tarihinin üzerinden, iyiniyetli davalılara karşı on yıl, iyiniyetli olmayan davalılara karşı yirmi yıl geçmekle düşer. Hükümsüzlük, def"i yoluyla her zaman ileri sürülebilir." hükmü düzenlenmiştir.
 
 Ölüme bağlı bir tasarruf olan vasiyetnamenin iptali veya tenkisi istemiyle açılacak davalar için kanunda belirtilen süreler, hak düşürücü süre olarak düzenlenmiş olduğundan, yargılama aşamasında hakim tarafından, temyiz aşamasında ise Yargıtay tarafından kendiliğinden dikkate alınır. Dosya kapsamında yapılan incelemede ise; mirasbırakan ...'in 27.10.2010 tarihinde öldüğü, mirasbırakanın düzenlediği dava konusu vasiyetnamenin ise Kadıköy Sulh Hukuk Mahkemesi 2010/1806 Esas sayılı dosyada açıldığı anlaşılmaktadır. Vasiyetnamenin açılmasına ilişkin dosyanın 21.04.2014 tarihli celsesine mirasbırakan ....'un mirasçılarından ...'nun katıldığı ve ".... vasiyetnameyi tebliğ aldım, inceledim." şeklinde beyanda bulunduğu ve imzasının alındığı anlaşılmakla mirasçı ... için vasiyetnamenin iptali davası açılması için hak düşürücü süre 21.04.2012 tarihinde dolmuştur. Mirasçı ...'nun ise 12.03.2014 tarihinde ölümü ile mirasçıları olan ... 23.07.2019 tarihli, ...
@@ -162,21 +182,31 @@ Bilindiği üzere; mirasçılık ve mirasın geçişi mirasbırakanın ölüm ta
 
 ## Yargıtay 7. HD 2025/1591 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151527900)
+
 1\. 4721 sayılı Türk Medeni Kanunu'nun 557. maddesi, ölüme bağlı bir tasarrufun iptal edilebilmesine yönelik sebepleri, "tasarruf mirasbırakanın tasarruf ehliyeti bulunmadığı bir sırada yapılmışsa, tasarruf yanılma, aldatma, korkutma veya zorlama sonucunda yapılmışsa, tasarrufun içeriği, bağlandığı koşullar veya yüklemeler hukuka veya ahlâka aykırı ise ve tasarruf kanunda öngörülen şekillere uyulmadan yapılmışsa" şeklinde düzenlemiştir. Davacı, bu sebepler arasında yer alan murisin ayırt etme gücünün bulunmaması, vasiyetnamenin şekle aykırılığı, murisin işlem tarihindeki iradesinin sakatlandığı ve bunlar haricinde vasiyetnamede bulunan şartın hukuka aykırı olduğuna yönelik hukuki sebeplere dayanmıştır.
 
 ## Yargıtay 7. HD 2025/114 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120557500)
 
 4721 sayılı TMK 558.maddesi uyarınca“İptal davası, tasarrufun iptal edilmesinde menfaati bulunan mirasçı veya vasiyet alacaklısı tarafından açılabilir”. İptal davasında davacı tarafı, ölüme bağlı tasarrufun iptal edilmesinde menfaati olan mirasçı (kanuni ve iradi mirasçılar) veya vasiyet alacaklısı oluşturmaktadır. Burada ölüme bağlı tasarrufun iptal edilmesinde menfaati olan kişiler mirasçı veya vasiyet alacaklısı şeklinde belirtilmek suretiyle sınırlandırılmıştır. Davalı taraf ise, iptal halinde menfaat elde edebilecek kişilerdir. Söz gelimi, atanmış mirasçı veya vasiyet alacaklısı iptal davasının davalısı olabilecektir.
 
 ## Yargıtay 5. HD 2024/6610 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066874800)
+
 Dava konusu taşınmazın maliki ... mirasçıları arasında Germencik Asliye Hukuk Mahkemesinin 2018/328 Esas sayılı dosyasında devam eden vasiyetnamenin iptali davası söz konusu olduğundan, mülkiyet ihtilafına ilişkin vasiyetnamenin iptaline ilişkin davanın sonucuna göre tespit edilen bedelin belirlenecek olan hak sahibine ödenmek üzere üçer aylık vadeli hesaba yatırılmasına karar verilmesi gerektiğinin düşünülmemesi bozmayı gerektirir.
 
 ## Yargıtay 1. HD 2024/6541 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1093751600)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; asıl davanın vasiyetnamenin iptali, birleştirilen davanın ise muris muvazaası nedeniyle tapu iptali ve tescil istemlerine ilişkin olduğu ve vasiyetnamenin iptaline karar verildiği, vasiyetnameye ilişkin hususun öncelikle çözümlenmesi gerektiği anlaşılmıştır.
 
 ## Yargıtay 7. HD 2024/4147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100625200)
 
 Asıl dava yönünden; Mahkemece kaldırma kararları tekrar edilerek muris muvazaa nedenine dayalı tapu iptali ve tescil talebinin reddedildiği, ecrimisil hakkında gerekçe kurulmadan karar verildiği, tanık beyanları ve bilirkişi raporlarına göre temlik tarihinde, mirasbırakanlarının tüm malvarlığının dava konusu taşınmazlara temlik oranının makul düzeyde olduğu, mirasbırakanların başka taşınmazları da olduğu ve bunlar yönünden bir temlik bulunmadığı, mirasbırakanların ölüm tarihleri ve dava tarihine göre uzun zaman geçmekle muvazaanın ispatı için yeterli delil bulunmadığı, davacıların ecrimisil istemekle muvazaa ispatlanamadığından taşınmazlara yönelik olarak tapu maliki davalıdan ecrimisil istenemeyeceğinden asıl davanın bu gerekçelerle reddinin gerektiği, …
 
@@ -184,9 +214,13 @@ Birleştirilen dava yönünden ise; İlk Derece Mahkemesince, vasiyetnamede tan�
 
 ## Yargıtay 7. HD 2024/3259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054511200)
+
 Dava konusu vasiyetname incelendiğinde, murisin davacıların babası olan alt soyu...’ı mirasından ıskat ettiği, eşi ile diğer alt soyu olan çocuklarını tüm terekesi yönünden mirasçı olarak atadığı anlaşılmıştır. Davacı taraf, ıskata ilişkin tasarruf içeren vasiyetnamelerde vasiyetnamenin iptaline ilişkin genel nedenlere dayanabileceği gibi ıskat nedenlerinin gerçeği yansıtmadığı gerekçesiyle özel olarak bu kısmın iptalini de talep edebilir. Vasiyetnamenin iptaline ilişkin TMK’nın 557 nci maddesinde düzenlenen iptal nedenleri bakımından davacının ehliyetsizlik, irade fesadı ve şekil eksikliği nedenlerine dayandığı ancak bu nedenler bakımından iddiasını ispatlayamadığı anlaşıldığından vasiyetnamenin mirasçı atamaya ilişkin kısmı yönünden ayakta kaldığı ve hüküm doğurmaya devam edeceği açıktır. Bu kısma ilişkin İlk Derece Mahkemesinin kararı isabetli ise de; mirasçılıktan ıskata ilişkin tasarruf yönünden hükmün doğru olduğunu söyleme imkanı bulunmamaktadır. Şöyle ki; TMK’nın 510 uncu maddesinde düzenlenen mirastan ıskat müessesesinde, muris saklı paylı mirasçı sıfatına sahip mirasçısını çıkarma hakkına sahiptir.
 Somut olayda, mirastan ıskat edilen..., muristen önce öldüğünden TMK’nın 580 inci maddesi uyarınca murisin mirasçısı sıfatını kazanamamıştır. Bu durumda mirastan ıskat geçersiz hale gelmiştir. Mahkemece bu husus gözetilmeden davanın reddine karar verilmesi hatalı olup, hükmün bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2024/2644 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040821900)
 
 2\. 4721 sayılı Türk Medeni Kanunu'nun 557 inci maddesinde vasiyetnamenin iptali davasının sebepleri sınırlı olarak sayılmış olup bunlar; tasarrufun mirasbırakanın tasarruf ehliyetinin bulunmadığı bir sırada yapılmış olması; tasarrufun yanılma, aldatma, korkutma veya zorlama sonucunda yapılmış olması; tasarrufun içeriği, bağlandığı koşullar veya yüklemelerin hukuka veya ahlâka aykırı olması; tasarrufun kanunda öngörülen şekillere uyulmadan yapılmış olmasıdır. Somut olayda, vasiyetnamenin iptali sebeplerinin davacılar tarafından ispat edilemediği anlaşılmıştır.

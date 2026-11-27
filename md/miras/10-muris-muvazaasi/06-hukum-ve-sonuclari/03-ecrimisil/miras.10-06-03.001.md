@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2024/355 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055743200)
+
 O hâlde 972 parsel sayılı taşınmaz yönünden tapu iptali ve tescil isteğinin kabulüne, ecrimisil isteği yönünden ise yukarıda açıklanan İçtihadı birleştirme kararları ve bozma kararında belirtilen ilkeler doğrultusunda araştırma ve inceleme yapılarak sonucuna göre karar verilmesi gerekirken hatalı gerekçe ve eksik inceleme ile davanın tümden reddine karar verilmiş olması hatalıdır.
 
 ## Yargıtay 8. HD 2021/845 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641905700)
 
 …
 
@@ -31,9 +35,13 @@ davacı taraf 18.11.2008 tarihinde açtığı muris muvazaası nedeniyle tapu ip
 
 ## Yargıtay 8. HD 2020/6431 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610597100)
+
 Bilindiği üzere; muvazaa nedenine dayalı olarak verilen kararlar yenilik doğurucu değil, açıklayıcı nitelik taşırlar. Bu suretle oluşan kararlara konu işlemler yapıldıkları tarihten itibaren yok hükmünde olup yapılmamış sayılırlar ve iptal hükmü geriye etkili olarak sonuç doğurur. Aynı şekilde Yargıtay Hukuk Genel Kurulunun 07.02.1990 tarihli ve 1989/3–602 Esas 1990/56 Karar sayılı ilamında kabul edildiği gibi murisin mirasçılarından mal kaçırmak amacıyla yaptığı muvazaaya dayanan devir ve temlikler geçersiz olduğundan, davaya konu taşınmazı muvazaalı olarak iktisap eden davalının işgali iyi niyetli sayılamaz ve kendisinden mal kaçırılan davacılar, murisin ölüm tarihinden başlayarak dava tarihine kadar geçen süre için ecrimisil isteyebilirler.
 
 ## Yargıtay 1. HD 2017/7282 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/386284100)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, olmazsa tenkis ve ecrimisil isteklerine ilişkindir.
 
@@ -43,6 +51,8 @@ Gerçekten de, 01.04.1974 tarihli İçtihadı Birleştirme Kararının, konusu v
 
 ## Yargıtay 1. HD 2017/6494 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/381344100)
+
 Dava, paydaşlar arası ecrimisil isteğine ilişkindir.
 
 …
@@ -50,6 +60,8 @@ Dava, paydaşlar arası ecrimisil isteğine ilişkindir.
 Öte yandan, muris muvazaası hukusal nedenine dayalı tapu iptal ve tescil davası kabul edildiğine göre muris muvazaasının tarafı olan davalının iyiniyetinden söz edilemeyeceği, bir başka değişle kötüniyetli zilyet olduğu gözetilerek ecrimisile hükmedilmesinde kural olarak bir isabetsizlik yoktur. Davalının bu yöne ilişkin temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2015/1917 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120633200)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -62,6 +74,8 @@ Hemen belirtilmelidir ki, dava konusu taşınmazın muris muvazaasına dayalı o
 
 ## Yargıtay 1. HD 2014/13011 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84234700)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -70,9 +84,13 @@ Bilindiği üzere, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tesc
 
 ## Yargıtay 3. HD 2013/13305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/260028700)
+
 Her ne kadar, muris muvazaası nedeniyle taşınmazın davacıya satışına ilişkin sözleşme iptal edilmiş ise de, dosya içeriğinden ve iptal kararından davacının bu yeri murise düşük de olsa bedel ödeyerek satın aldığı anlaşılmakla, davalının bu bedeli iade etmeden ecrimisil talep etmesi, iki tarafa borç yükleyen sözleşmelerde edimlerin karşılıklı ifası ilkesine aykırı olduğundan, ecrimisil talebinin kabulü doğru görülmemiştir.'' gerekçesiyle hükmün bozulmasına karar verilmiş, bu karara karşı davalı (birleşen davacı) tarafından karar düzeltme talebinde bulunulmuştur.
 
 ## Yargıtay 3. HD 2012/25190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482675400)
 
 Tescil hukuki sebebe bağlı bir işlemdir. Diğer deyişle hukuki sebepten yoksun bir tescil yolsuz tescildir ve mülkiyetin intikalini sağlamaz (Saymen-Elbir, Türk Eşya Hukuku, İst.1954,sh.194; Oğuzman-Seliçi, Eşya Hukuku, İst.1982, sh.369; Gürsoy-Eren-Cansel, Türk Eşya Hukuku, Ank.1978, sh.261, 326, 381, 549). Tapuda malik gözüken davalı aslında gerçek malik olmayıp, tescil hukuki sebepten yoksun bulunduğundan gerçek malik davacıdır. Tapuda malik olarak davalının gözükmesi onun hukuki açıdan mülkiyet hakkını kazandığını göstermez. Taşınmazı teslim almış olan sadece ödediği bedeli kendisine iade edilinceye kadar hapis hakkına sahiptir.
 Teslim keyfiyeti mülkiyetin naklinde gözönünde tutulacak bir husus değildir.Taşınmazın mücerret teslimi ifa olarak kabul edilemez, ifa kabul edilirse o zaman eldeki ifa davasının anlamını izah mümkün olmaz.Tapu Sicilinin aleniyeti ilkesi karşısında taşınmazı teslim alırken o tarihte malikin kim olduğunu Tapu Dairesinde incelemeyen ve şekil, ehliyet bakımından yasanın aradığı koşulları ihtiva etmeyen hukuki işlem mutlak olarak geçersiz olup; bunu incelemeyen kimsenin Medeni Kanun'un 3.maddesi karşısında iyiniyetli olduğu da kabul edilemez.Tescile sebep teşkil eden akit muteber olmadığı durumlarda mülkiyetin intikal etmeyeceği ve tapunun ipteline ilişkin yargı kararlarının beyani (izhari) bir karar olduğu, inşai nitelikte olmadığı, tashih davasının bir tesbit davası bulunduğu hususu doktrinde de kabul edilmektedir (Gürsoy-Eren-Cansel, age, sh.333, 381, 1050). Bu bakımdan davalının tapusunun iptaline ilişkin karar kesinleştiği tarihe kadar davalıdan herhangi bir talep de bulunulmayacağı görüşüne de iştirak mümkün değildir.
@@ -80,10 +98,14 @@ Olayda gerçek bir bedel mukabilinde satış sözkonusu olmadığından, satış
 
 ## Yargıtay 3. HD 2012/11562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550101200)
+
 Öte yandan tescil hukuki sebebe bağlı bir işlemdir. Diğer bir deyişle hukuki sebepten yoksun olan veya murisin mirasçılardan mal kaçırmak kastıyla muvazaalı olarak yaptığı devir ve tesciller geçersiz olup, mülkiyetin intikalini sağlamazlar. Muvazaalı bir işlemle tapuda malik olan kişinin iktisabı iyiniyetli sayılmaz. Muvazaa sonucunda tapuda malik olarak davalının gözükmesi onun hukuki açıdan gerçek malik olduğunu göstermez. Bu tür devir ve temliklerde gerçek malik murisin ölüm tarihinden itibaren onun mirasçılarıdır. Bu nedenle kendisinden mal kaçırılan mirasçı, murisin ölüm tarihinden dava tarihine kadar ecrimisil isteyebilir. (HGK 31.12.2008 gün ve 2008/3-726 E.-734 K.sayılı ilam) O halde, mahkemece tapu iptal ve tescile ilişkin ... 2.
 Asliye Hukuk Mahkemesinin 2009/302 Esas sayılı dava dosyası sonucu beklenip, hüküm kesinleştikten sonra yukarıda açıklanan hususlar dikkate alınarak toplanacak delillere göre bir karar verilmelidir.Eksik inceleme ve yazılı gerekçe ile davanın reddi doğru olmayıp, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2010/2873 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78939000)
 
 Dava, paydaşlar arası elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -92,6 +114,8 @@ Dava, paydaşlar arası elatmanın önlenmesi ve ecrimisil isteklerine ilişkind
 Ne varki, muris muvazaası ile illetli olan dava kabul edildiğine göre davacıların tereke üzerinde murisin ölüm tarihinden itibaren hak sahibi olacağı ve bu nedenle miras bırakanın ölüm tarihinden dava tarihine kadar geçen süre için davacılar lehine ecrimisile hükmedilmesi gerekirken muris muvazaası ile ilgili davada, davalıya yapılan tebligat tarihinin ecrimisile esas alınması doğru olmadığı gibi hüküm altına alınacak ecrimisil yönünden tahakkuk tarihleri gözetilerek faize hükmedilmesi gerekirken dava tarihinden itibaren faize hükmedilmesi de isabetsizdir.
 
 ## Yargıtay 1. HD 2008/985 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78024800)
 
 Dava, paydaşlar arasındaki elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 

@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/71 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131827100)
+
 Muris muvazaasına dayalı olarak açılan davalarda ispat yükü ise muvazaanın varlığını iddia eden tarafa aittir. Gerek 4721 sayılı Türk Medeni Kanunu'nun (TMK) 6. maddesindeki “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür” hükmü ve gerekse 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) 190/1. maddesindeki “İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir” hükmü uyarınca, miras bırakanın yaptığı temlikteki gerçek irade ve amacının mirasçıdan mal kaçırmak olduğunu, bu hususu ileri süren davacı taraf kanıtlamalıdır.
 
 ## Yargıtay HGK 2023/615 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920512000)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -158,6 +162,8 @@ başvurusunda bulunulması üzerine Bölge Adliye Mahkemesinin ilâm başlığı
 
 ## Yargıtay 1. HD 2026/2126 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207016900)
+
 Dava; muris muvazaası hukuki nedenine dayalı miras payı oranında tazminat, olmadığı takdirde tenkis istemine ilişkindir.
 
 …
@@ -182,6 +188,8 @@ Dava, muris muvazaası hukuki nedenine dayalı miras payı oranında tapu iptali
 
 ## Yargıtay 1. HD 2025/5348 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206643800)
+
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmazsa tenkis istemine ilişkindir.
 
 …
@@ -191,6 +199,8 @@ Hemen belirtilmelidir ki, muris muvazaası hukuksal nedenine dayalı davalarda m
 Temyizen incelenen karar, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile kararda belirtilen gerekçelere göre usul ve kanuna uygun olup özellikle TMK’nın 6. ve HMK’nın 190. maddeleri uyarınca temlikin mirasçılardan mal kaçırma amacıyla yapıldığının ispatlanamadığı gözetilerek davacı vekilinin temyiz dilekçesinde ileri sürülen nedenler kararın bozulmasını gerektirecek nitelikte görülmemiştir.
 
 ## Yargıtay 1. HD 2024/2366 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063612100)
 
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil ile bedel istemine ilişkindir.
 
@@ -206,6 +216,8 @@ Davaya konu diğer taşınmazlar yönünden davalılar tarafından öne sürüle
 
 ## Yargıtay 1. HD 2023/1551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913729000)
+
 Dava, muris muvazaası hukuki nedenine dayalı miras payı oranında tapu iptali ve tescil, mümkün olmazsa tazminat isteğine ilişkindir.
 
 …
@@ -214,8 +226,12 @@ Dava, muris muvazaası hukuki nedenine dayalı miras payı oranında tapu iptali
 
 ## Yargıtay 1. HD 2023/995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880317200)
+
 Dairemizin bozma kararında da belirtildiği üzere; tüm dosya kapsamı birlikte değerlendirildiğinde, mirasbırakanın sağlığında davacı ile davalılara taşınmazlarının büyük bir kısmını devrettiği, davacının 18.05.2009 tarihli belge içeriğinden de anlaşılacağı üzere mirasbırakanın yaptığı devirlere itiraz etmediği, annesinden gelen miras hakkını aldığını açıkça beyan ettiği, tanık beyanları uyarınca anneanne ...’un ölümü sonrasında terekesinin paylaşılmasında sorun çıkması üzerine eldeki davanın açıldığı, mirasbırakanın mal kaçırma amacıyla hareket ettiğini gösterir bir delil bulunmadığı, davacı torunundan mal kaçırmasını gerektirecek bir neden ortaya konulamadığı, mirasbırakanın mal kaçırmak istemesi halinde davacı torununa da azımsanmayacak miktarda taşınmaz vermesinin hayatın olağan akışına aykırı olduğu, kaldı ki mirasbırakanın geriye taşınmazlar da bıraktığı, davalılara yapılan temliklerin muvazaalı olmadığı, hal böyle olunca, davanın reddine karar verilmesi gerektiği görülmüştür. Dairemiz kararının usul ve kanuna uygun olduğu anlaşıldığından dosyanın temyiz incelemesi için Yargıtay Hukuk Genel Kuruluna gönderilmesine karar verilmesi gerekmiştir.
 
 ## Yargıtay 1. HD 2022/8343 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878105000)
 
 Bilindiği üzere muris muvazaası hukuki nedenine dayalı davalarda mirasbırakanın amacının terekeden ya da diğer mirasçılardan mal kaçırmak olması gerekmektedir. Somut olayda, davacı ve davalı tanık beyanları nazara alındığında, dava konusu taşınmazların öncesinde davalıların mirasbırakanı ...’e ait olduğu, ...’in icra takiplerinden kurtulmak amacıyla taşınmazları mirasbırakan ...’ya temlik ettiği, daha sonra da ...’nın kendisine emanet bırakılan bu taşınmazları iade amacıyla ...’e devrettiği, mirasbırakan tarafından yapılan temliklerde mal kaçırma kastı bulunmadığı anlaşılmaktadır.

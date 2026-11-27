@@ -25,9 +25,13 @@ Hal böyle olunca, ilk derece mahkemesince; TMK'nın 535 inci maddesinin ikinci 
 
 ## Yargıtay HGK 2025/748 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206114700)
+
 Yargıtay 7. Hukuk Dairesinin yukarıda tarih ve sayısı belirtilen kararı ile "...1. Davacı, TMK'nın 557 nci maddesi uyarınca irade sakatlığı şekil şartlarına aykırılık ve hükümsüzlük iddiasıyla vasiyetnamenin iptali için dava açmış, İlk Derece Mahkemesince verilen davanın reddine ilişkin karar Bölge Adliye Mahkemesince kaldırılarak; tanıkların miras bırakanın beyanının kendi önlerinde yapıldığını tevsik eden beyanlarının bulunmadığı gerekçesiyle şekil şartına aykırılıktan dolayı davanın kabulüne karar verilmiştir. Oysa iptali istenen vasiyetnamede yer alan ''Vasiyetname Noter ... tarafından yazıldıktan sonra vasiyet eden ...'e önümüzde okunduğunu, adı geçenin vasiyetnamenin son ve gerçek isteklerine uygun olduğunu söylediğini ve kendisini bu işlemi yapmaya yetenekli gördüğümüzü bildiririz.'' ifadesinin tanıkların murisin beyanının kendi önlerinde yapıldığını tevsik eden beyanlar olduğunda kuşku yoktur. Bu nedenle; vasiyetnamenin TMK nın 535 inci maddesindeki tüm koşullara sahip olduğu için geçerli bulunmaktadır.
 
 ## Yargıtay HGK 2024/511 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087947600)
 
 6.2. Türk Medeni Kanununun 535 inci maddesine göre, mirasbırakan vasiyetnameyi bizzat okuyamaz veya imzalayamazsa, memur vasiyetnameyi iki tanığın önünde ona okur ve bunun üzerine mirasbırakan vasiyetnamenin son arzularını içerdiğini beyan eder. Bu durumda tanıklar, hem mirasbırakanın beyanının kendi önlerinde yapıldığını ve onu tasarrufa ehil gördüklerini; hem vasiyetnamenin kendi önlerinde memur tarafından mirasbırakana okunduğunu ve onun vasiyetnamenin son arzularını içerdiğini beyan ettiğini vasiyetnameye yazarak veya yazdırarak altını imzalarlar.
 
@@ -35,9 +39,13 @@ Yargıtay 7. Hukuk Dairesinin yukarıda tarih ve sayısı belirtilen kararı ile
 
 ## Yargıtay 7. HD 2025/1591 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151527900)
+
 1\. 4721 sayılı Türk Medeni Kanunu'nun 557. maddesi, ölüme bağlı bir tasarrufun iptal edilebilmesine yönelik sebepleri, "tasarruf mirasbırakanın tasarruf ehliyeti bulunmadığı bir sırada yapılmışsa, tasarruf yanılma, aldatma, korkutma veya zorlama sonucunda yapılmışsa, tasarrufun içeriği, bağlandığı koşullar veya yüklemeler hukuka veya ahlâka aykırı ise ve tasarruf kanunda öngörülen şekillere uyulmadan yapılmışsa" şeklinde düzenlemiştir. Davacı, bu sebepler arasında yer alan murisin ayırt etme gücünün bulunmaması, vasiyetnamenin şekle aykırılığı, murisin işlem tarihindeki iradesinin sakatlandığı ve bunlar haricinde vasiyetnamede bulunan şartın hukuka aykırı olduğuna yönelik hukuki sebeplere dayanmıştır.
 
 ## Yargıtay 7. HD 2024/4147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100625200)
 
 Asıl dava yönünden; Mahkemece kaldırma kararları tekrar edilerek muris muvazaa nedenine dayalı tapu iptali ve tescil talebinin reddedildiği, ecrimisil hakkında gerekçe kurulmadan karar verildiği, tanık beyanları ve bilirkişi raporlarına göre temlik tarihinde, mirasbırakanlarının tüm malvarlığının dava konusu taşınmazlara temlik oranının makul düzeyde olduğu, mirasbırakanların başka taşınmazları da olduğu ve bunlar yönünden bir temlik bulunmadığı, mirasbırakanların ölüm tarihleri ve dava tarihine göre uzun zaman geçmekle muvazaanın ispatı için yeterli delil bulunmadığı, davacıların ecrimisil istemekle muvazaa ispatlanamadığından taşınmazlara yönelik olarak tapu maliki davalıdan ecrimisil istenemeyeceğinden asıl davanın bu gerekçelerle reddinin gerektiği, …
 
@@ -45,16 +53,22 @@ Birleştirilen dava yönünden ise; İlk Derece Mahkemesince, vasiyetnamede tan�
 
 ## Yargıtay 7. HD 2024/3259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054511200)
+
 Dava konusu vasiyetname incelendiğinde, murisin davacıların babası olan alt soyu...’ı mirasından ıskat ettiği, eşi ile diğer alt soyu olan çocuklarını tüm terekesi yönünden mirasçı olarak atadığı anlaşılmıştır. Davacı taraf, ıskata ilişkin tasarruf içeren vasiyetnamelerde vasiyetnamenin iptaline ilişkin genel nedenlere dayanabileceği gibi ıskat nedenlerinin gerçeği yansıtmadığı gerekçesiyle özel olarak bu kısmın iptalini de talep edebilir. Vasiyetnamenin iptaline ilişkin TMK’nın 557 nci maddesinde düzenlenen iptal nedenleri bakımından davacının ehliyetsizlik, irade fesadı ve şekil eksikliği nedenlerine dayandığı ancak bu nedenler bakımından iddiasını ispatlayamadığı anlaşıldığından vasiyetnamenin mirasçı atamaya ilişkin kısmı yönünden ayakta kaldığı ve hüküm doğurmaya devam edeceği açıktır. Bu kısma ilişkin İlk Derece Mahkemesinin kararı isabetli ise de; mirasçılıktan ıskata ilişkin tasarruf yönünden hükmün doğru olduğunu söyleme imkanı bulunmamaktadır. Şöyle ki; TMK’nın 510 uncu maddesinde düzenlenen mirastan ıskat müessesesinde, muris saklı paylı mirasçı sıfatına sahip mirasçısını çıkarma hakkına sahiptir.
 Somut olayda, mirastan ıskat edilen..., muristen önce öldüğünden TMK’nın 580 inci maddesi uyarınca murisin mirasçısı sıfatını kazanamamıştır. Bu durumda mirastan ıskat geçersiz hale gelmiştir. Mahkemece bu husus gözetilmeden davanın reddine karar verilmesi hatalı olup, hükmün bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2023/1362 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910148600)
 
 Ölüme bağlı tasarruflardaki iptal sebepleri TMK.'nun 557. maddesinde sınırlı bir şekilde sayılmıştır. Şekle aykırılık, hukuka-ahlaka aykırılık, ehliyetsizlik sağlararası tasarruflarda butlan sebebi iken ölüme bağlı tasarruflarda iptal sebebi olarak düzenlenmiştir. Burada yasa koyucunun amacı, ölüme bağlı tasarrufu mümkün olduğunca ayakta tutmaktır. Ölüme bağlı tasarruflarda butlan yaptırımının bulunmaması, "favor testamenti" prensibinden kaynaklanmaktadır (A.M.Kılıçoğlu-Miras Hukuku-sf.178).
 
 Somut olayda, dava konusu Gerede Noterliği'nin 13.07.1987 tarih ve 7825 sayılı vasiyetnamesinde Noter imzasının bulunmadığı sabit ise de, bu husus TMK.'nun 557. maddesi hükmü gereğince, vasiyetnamenin iptali davasına konu edilmediğinden sonuç olarak usul ve yasaya uygun olan mahkeme hükmünün onanması gerekmiştir.
 
 ## Yargıtay 7. HD 2022/8047 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865224100)
 
 8.2.Türk Medeni Kanununun 535. maddesine göre, miras bırakan vasiyetnameyi bizzat okuyamaz veya imzalayamazsa, memur vasiyetnameyi iki tanığın önünde ona okur ve bunun üzerine miras bırakan vasiyetnamenin son arzularını içerdiğini beyan eder. Bu durumda tanıklar, hem miras bırakanın beyanının kendi önlerinde yapıldığını ve onu tasarrufa ehil gördüklerini; hem vasiyetnamenin kendi önlerinde memur tarafından miras bırakana okunduğunu ve onun vasiyetnamenin son arzularını içerdiğini beyan ettiğini vasiyetnameye yazarak veya yazdırarak altını imzalarlar.
 
@@ -63,11 +77,15 @@ Davacılar vasiyetnamenin şekil eksikliği nedeniyle iptali istenmiş ise de va
 
 ## Yargıtay 3. HD 2019/6465 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535529600)
+
 Dosyanın incelenmesinde; muris tarafından düzenlenen 22/02/2011 tarihli vasiyetname ile davalı lehine taşınmaz ve eşya vasiyeti yapıldığı, TMK m. 532 uyarınca işlemde birlik prensibine aykırı olarak, dava konusu vasiyetnameye “....ben Gaziantep 9. Noteri...,... görev yaparken yanıma gelen....şeklinde başlanıldığı, düzenlendikten sonra Başkatip ... adına kaşe basılarak imzalandığı, ayrıca murisin TMK m. 534/1’e göre vasiyetnameyi okuduğunu, bunun son arzularını içerdiğini memurun huzurunda iki tanığa beyan etmediği, yine TMK m. 534/2 gereği, tanıkların murisin beyanının kendi önlerinde yapıldığına ve mirasbırakanı tasarrufa ehil gördüklerine dair vasiyetnamede yazılı ve imzalı ifadelerinin bulunmadığı görülmektedir.
 
 O halde, ilk derece mahkemesince; açıklanan nedenlerle TMK'nın 532 ve 534. maddelerinde öngörülen şekil şartlarına aykırı olarak düzenlenen vasiyetnamenin iptali hakkındaki davanın kabulüne karar verilmesi gerekirken, yanılgılı değerlendirmeyle davanın reddine karar verilmiş olması usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2019/3603 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515562700)
 
 Dava, tapu iptali ve tescil isteğine ilişkindir.
 
@@ -80,6 +98,8 @@ Uygulamada ve öğretide "muris muvazaası" olarak tanımlanan muvazaa, niteliğ
 
 ## Yargıtay 3. HD 2018/5673 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/425725100)
+
 Vasiyetname tanıkları ... ve ...'nın mahkemede verdikleri ifadelerde, notere gittiklerinde vasiyetnamenin hazır olduğunu, sadece düzenlenen belgeye imza attıklarını beyan etmişlerdir.TMK'nun 557.maddesinde; vasiyetnamenin iptal sebepleri sınırlı olarak sayılmıştır. 4.fıkrada "Tasarruf kanunda öngörülen şekillere uyulmadan yapılmış ise iptal edilir." denilmektedir. Dava konusu 20.01.2009 tarihli vasiyetnamenin noterin ve tanıkların huzurunda kanunun aradığı şekil şartlarına uygun olarak yapıldığı vasiyetname içeriğinden anlaşılmaktadır. Noterde düzenlenen vasiyetnamenin (belgenin) resmi belge niteliğinde olması nedeniyle bunun aksi ancak aynı nitelikte başka belge veya deliller ile ispatlanabilir. Vasiyetname tanıklarının dava konusu vasiyetnamede yazılı beyanlarının doğru olmadığı iddiasının yine aynı kuvvette başka bir delil ile ispatlanması gerekir. HMK'nun 204/1. (HUMK.'nun 295.) maddesi gereğince "İlamlar ile düzenleme şeklindeki noter senetleri, sahteliği ispat olunmadıkça kesin delil sayılır." Noterlerin usulüne uygun olarak düzenledikleri ve onayladıkları belge(vasiyetnamenin) aksi ispat oluncaya kadar kesin delil teşkil eder.
 Vasiyetname tanıklarının vasiyetname içeriğine uygun olmayan beyanları hükme esas alınmamalıdır.
 
@@ -87,15 +107,21 @@ Buna göre mahkemece; beyanı hükme esas alınan tanıklardan ... aynı zamanda
 
 ## Yargıtay 3. HD 2014/14527 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88346100)
+
 Davaya konu vasiyetname, okur yazar olmayanlara ilişkin vasiyetname şeklinde düzenlenmiştir. Vasiyetnamede, tanıkların “Mirasbırakanın beyanının kendi önlerinde yapıldığını” tevsik eden beyanları yoktur. Bu beyanın yokluğu vasiyetnameyi geçersiz kılar.
 
 Hal böyle olunca, mahkemece; TMK. nun 535/2. maddesindeki şekil şartlarına uygun olarak düzenlenmeyen vasiyetnamenin iptali isteminin kabulüne karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2013/18298 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/262764400)
+
 Ölüme bağlı tasarruflardaki iptal sebepleri TMK.'nun 557.maddesinde sınırlı bir şekilde sayılmıştır. Şekle aykırılık, hukuka ahlaka aykırılık, irade sakatlığı ve ehliyetsizlik sebepleriyle vasiyetnameler iptal edilebilir. Anılan hüküm dışında bir sebeple vasiyetnamenin iptali mümkün değildir.
 
 ## Yargıtay 1. HD 2013/8419 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/250935500)
 
 Davanın reddine dair verilen karar, Yargıtay 3. Hukuk Dairesi tarafından; “ Dosya kapsamından 12.2.2002 tarihli el yazısı ile yazılmış vasiyetnamenin MK'nun 538.maddesindeki koşullara uygun düzenlendiği, sağlık ocağı doktor raporları ve ... Kurumu raporu ile mahkemede dinlenen taraf tanıklarının ifadelerine göre vasiyetçi ....'in vasiyeti düzenlediği tarihte akli melekelerinin yerinde olduğu ve tasarruf ehliyetinin bulunduğu, vasiyetnamenin, MK'nun 557.maddesinde yer alan iptal koşullarından hiçbirisi bulunmadan düzenlendiği anlaşıldığından davacıların vasiyetin iptali talebine yönelik davanın reddine karar verilmesinde bir isabetsizlik görülmemiştir.
 Ancak, tenkis davası yönünden, mahkemenin 18.6.2008 tarihli celsesinde tenkis hesabı yapılması için bilirkişiden rapor alınması amacıyla dosyanın Konya Asliye Hukuk Mahkemesine gönderilmesine karar verilmiş, aynı ara kararında 300 YTL bilirkişi ücreti ve 30 YTL gidiş dönüş ücretinin davacı tarafça karşılanması için 15 günlük kesin süre verilmiş, kesin sürenin sonuçlarının hatırlatıldığı yazılmasına rağmen bu sonuçların neler olduğu ara kararına yazılmadığından hatırlatıldığı belirtilen sonuçların neler olduğu ve gerçekten davacıya hatırlatılıp, hatırlatılmadığı denetlenememiştir.Hakim tarafından tayin edilmiş süreler kural olarak kesin değildir. Fakat, hakim kendisinin tayin ettiği bir sürenin kesin olduğuna da HUMK 163.maddesi uyarınca karar verebilir.
@@ -104,11 +130,15 @@ Mahkemece bu nitelikteki ara kararı, HUMK'nun 163.maddesinin yukarıda açıkla
 
 ## Yargıtay 2. HD 2008/14255 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80476000)
+
 Vasiyetnameye tarih ve imza konulduktan hemen sonra mirasbırakan, vasiyetnameyi okuduğunu, bunun son arzularını içerdiğini memurun huzurunda iki tanığa beyan eder. Tanıklar, bu beyanın kendi önlerinde yapıldığını ve mirasbırakanı tasarrufa ehil gördüklerini vasiyetnameye yazarak veya yazdırarak altını imzalarlar. (TMK.534/1-2 m.)
 
 Mirasbırakanın sulh hakimine düzenlettirdiği 05.04.2004 tarihli, mirasçılıktan çıkarmayı da içeren vasiyetnamenin düzenlenmesinde; mirasbırakanın Türk Medeni Kanununun 534/1. maddesinde öngörüldüğü şekilde beyanı alınmaksızın işlem yapıldığı anlaşılmaktadır. Bu haliyle vasiyetname kanunun aradığı şekil şartlarına uygun olarak düzenlenmemiştir. Vasiyetnamenin iptali hakkındaki talebin kabulü gerekirken yazılı şekilde tenkise karar verilmesi usul ve yasaya aykırıdır. (TMK.557/4.m.)
 
 ## Yargıtay 1. HD 2008/11273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78404600)
 
 Dava, muris muvazaası nedenine dayalı tapu iptali-tescil, olmadığı takdirde tenkis ve vasiyetnamenin iptali, isteklerine ; karşı dava ise muris muvazaası nedenine dayalı tapu iptali-tescil ve tenkis isteklerine ilişkindir.
 

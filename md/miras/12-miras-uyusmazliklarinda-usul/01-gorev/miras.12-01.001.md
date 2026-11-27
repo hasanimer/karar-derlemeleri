@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2010/649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77146700)
+
 Dava, satın alma, miras ve eklemeli zilyetliğe dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -28,6 +30,8 @@ Dava, satın alma, miras ve eklemeli zilyetliğe dayalı tapu iptali ve tescil i
 Üsküdar Kadastro Mahkemesince yapılan yargılama sonunda 06/07/2001 tarih ve 1994/7 esas, 2001/8 karar sayı ile; dava konusu Ümraniye İnkılap Mahallesi 15 ada 19 parsel nolu taşınmazın malik hanesinin Hazine adına doldurularak tapuya tesciline, kadastrodan sonraki nedenlere dayanan içinde Y... Ö... mirasçıları ve T... V.... ’nun da bulunduğu bir kısım müdahiller yönünden dava dilekçesinin görevsizlik nedeniyle reddi ile dosyanın Üsküdar Asliye Hukuk Mahkemesine gönderilmesine, diğer davacılar (ki bunlar arasında F... D.... de vardır) ve müdahil İ... K.... mirasçıları yönünden de “kadastro sırasında uygulanan tapu kayıtlarının kapsadığı alandan ifraz edilerek, malikleri adına ayrı parsel numaralarıyla tespit ve tescil edildiği, kalan tapusuz alanın 1965 yılına kadar hali arazi niteliğinde olduğu, davacıların bu tarihten sonra zilyet olmaya başladıkları, 1971 tespit tarihine kadar iktisaba yeterli zilyetlik süresinin geçmediği” gerekçesiyle davanın reddine karar verilmiştir. Bu karar yasal denetim yollarından geçerek 14.03.2003 tarihinde kesinleşmiştir.
 
 ## Yargıtay HGK 2010/64 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16897600)
 
 Hal böyle olunca, dava konusu taşınmazın dava tarihindeki değeri üzerinden davacıların iptal ve tecil talep ettikleri miras paylarının toplam değeri dikkate alınarak davaya bakma görevinin sulh hukuk mahkemesine ait olduğu gözetilerek görevsizlik kararı verilmesi gerekirken, işin esasına girilerek karar verilmiş olması doğru değildir. Davalının bu yöne değinen temyiz itirazları yerindedir...) gerekçesiyle bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda; mahkemece önceki kararda direnilmiştir.
 
@@ -37,28 +41,40 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil istemine i
 
 ## Yargıtay 8. HD 2025/7648 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200477600)
+
 Kadastro tespitinden önce davacı ... ... tarafından, Asliye Hukuk Mahkemesinde Hazine ve .... Köyü Tüzel Kişiliği aleyhine açılan ve ...'nın da miras yoluyla gelen hakka dayanarak katıldığı tescil davasının yargılaması sırasında, sözü edilen taşınmazların dava kapsamında kalan taşınmazlar olduğu ve haklarında kadastro tutanağı düzenlendiği belirtilerek görevsizlik kararı verilerek dosya Kadastro Mahkemesine aktarılmış ve ... , ... ve ... ... tarafından 142 parsel sayılı taşınmaz hakkında 1970/236 Esas sayılı dosya ve 146 parsel sayılı taşınmaz hakkında açılan 1970/235 Esas sayılı dosyalar ile birleştirilerek yapılan yargılama sonunda Çarşamba Kadastro Mahkemesince verilen 1988/341 Esas ve 2012/39 Karar sayılı kararı, "müdahil ...’nın yargılama sırasında öldüğü, ancak mirasçılarının davaya dahil edilmediği açıklanarak, taraf teşkili sağlanmaksızın esas hakkında hüküm kurulmasının isabetsizliğine" değinilerek bozulmuştur.
 
 ## Yargıtay 8. HD 2025/6582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198410800)
 
 İlk Derece Mahkemesince verilen karar usul ve kanuna aykırıdır. Şöyle ki; taraflar arasında Asliye Hukuk Mahkemesinde 1976 tarihli gayrimenkul satış vaadi senedine dayalı olarak, dayanak tapu maliklerinden ... mirasçıları aleyhine açılan cebri tescil davası hakkında ilk hükümle, Asliye Hukuk Mahkemesince davanın tespit tarihinde önce açıldığı gerekçesi ile görevsizlik karar verilmiş, Kadastro Mahkemesinde devam eden davada bu defa, dava konusu taşınmazlara ilişkin kadastro tutanaklarının Mahkeme ilamları ile kesinleşmiş olması nedeniyle görevsizlik kararı verilmesi üzerine, Yargıtay (Kapatılan) 17.
 Hukuk Dairesinin 15.01.2015 tarihli ilamı ile dava konusu taşınmazlar hakkında Kadastro Mahkemesinde diğer şahıslar tarafından askı ilan tarihleri içinde açılmış dava dosyalarının bulunmasının, cebri tescil davasının ise anılan dosyalarda hüküm kurulmadan önce açılmış olması ve kadastro tutanaklarının kesinleşmesini önlemesine göre, bu halin kadastro tutanağının hatalı olarak kesinleştirilmiş olması önem arz etmediğinden, uyuşmazlığın Kadastro Mahkemesinde görülmesi gerektiği belirtilmiş, cebri tescil dosyası bu şekilde Kadastro Mahkemesine aktarıldıktan sonra, asıl davacılar tarafından kadastro tespitine açılan itiraz davası ile birleştirilerek yargılama yapılmıştır. Görüldüğü üzere, davada 3402 sayılı Kadastro Kanunu'nun (3402 sayılı Kanun) 30/2. maddesi hükümleri mevcuttur, bu hüküm gereğince İlk Derece Mahkemesinin gerçek hak sahibini araştırarak doğru sicil kurması amaçlandığından hakimin gerekli gördüğü delilleri doğrudan toplayarak gerçek hak sahibini belirlemekle yükümlü olduğu gözönüne alınmalıdır. Bu nedenle öncelikle davada taraf olması gereken Hazinenin davaya katılımı sağlanarak taraf teşkili oluşturulmadan karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2025/6514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190384300)
+
 Mahallesi 553 (632/1), 554 (638/1), 555 (639/15), 556 (640/1), 557 (641/17), 568 (642/1) sayılı taşınmazlara ait uygulama tutanak asılları davalı olmaları sebebiyle Mahkememize gönderilerek Mahkememizin 2015/20 Esas numarasına kaydedildiği ve 01.06.2015 tarihinde 2015/ 20... /48 Karar sayılı ilamı ile iş bu dosya ile birleştirildiği ancak mülkiyete ilişkin bulunan davalar nedeniyle yenileme tutanağının 3402 sayılı Kanun'un 5. maddesi uyarınca davalı olarak düzenlenmesi mümkün olmadığından tutanakların asıllarının olağan usüllere göre kesinleştirilmesi için ilgili ...'ne gönderilmesine, tespit tarihinden sonra satış vaadi sözleşmeleri talebi yönünden ... ve ...'un 1985 tarihli ...'ya olan satış vaadi, ...'nın 2010 tarihli ...'a ve 2013 tarihli ...'a olan satış vaadi yönünden davalarının görevsizlik nedeniyle reddine, talep halinde bu talepler yönünden dosyanın görevli Polatlı Asliye Hukuk Mahkemesine gönderilmesine, tespit tarihinden sonra satış vaadi sözleşmeleri talebi yönünden S.S....
 Konut Yapı Kooperatif 27.02.2024 tarihli dilekçesinde, dava konusunu oluşturan 553, 554, 555, 556, 557, 568 parsel sayılı taşınmazları satış vaadi yönünden davalarının görevsizlik nedeniyle reddine, talep halinde bu talepler yönünden dosyanın görevli Polatlı Asliye Hukuk Mahkemesine gönderilmesine karar verilmiş; hüküm; davacı ...'ın bir kısım mirasçıları vekili, davacı-davalılar ...'ün, ...'ın ve ...'ün bir kısım mirasçıları vekili, davacı-davalı ... mirasçısı ... vekili, davalılar ... ve ... mirasçıları vekilleri, asli müdahil Hazine vekili, asli müdahil ... vekili, asli müdahil ... ve müşterekleri vekili tarafından temyiz edilmiştir.
 
 ## Yargıtay 8. HD 2025/5954 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206083800)
 
 221 parsel sayılı taşınmaz yönünden toprak tevzi tapusu kapsamında kalan 101.000,00 m² yüzölçümündeki taşınmaz bölümü yönünden davacı ...'ın en az 1937 yılından itibaren kazandırıcı zamanaşımı ile iktisap koşullarını sağlayıp sağlamadığı araştırılmalı, koşulları sağlamış ise 4753 sayılı Kanun'un 9. maddesi uyarınca tapu kaydının oluşum tarihinden önceki zilyetliğe değer verilemeyeceği, zilyetlik iddiasına dayalı mülkiyete yönelik taleplerin Hazineye karşı bedel istemine dönüştüğünün kabul edilmesi gerektiği gözetilmeli; tapu maliki ... oğlu ...'ın 1975 yılında ölümü ile mirasçı olarak eşi ... ile evlatları ... ve ...'i bıraktığı, ...'nin 1977 yılında, ...'ın 2017 yılında, ...'in ise hüküm tarihinden sonra 2021 yılına öldüğü dosyadaki nüfus kayıtlarından anlaşılmakta olup bu durumda ... oğlu ... mirasçılarının da pay alması gerekirken sadece ... mirasçılarına pay verilmesinin doğru olmadığı üzerinde durularak 3402 sayılı Kanun'un 25. maddesi uyarınca ... oğlu ...'a ait mirasçılık belgesinin temini ile tüm mirasçıları adına miras payları oranında tescil edilmeli; miktar fazlası için ise en az 1951 yılından itibaren kazandırıcı zamanaşımı ile iktisap koşullarının sağlanıp
 sağlanmadığı, koşullar sağlanmışsa zilyetliğin kime ait olduğu tespit edilmeli ve sonucuna göre, dava konusu 194 parsel sayılı taşınmaz hakkında tapulama tarihinden sonraki satın alma iddiasına dayanan müdahil davacılar ... ve ... ve 214 parsel sayılı taşınmaz hakkında yine tapulama tarihinden sonraki satın alma iddiasına dayanan müdahil davacılar ... Nafi, ... ... ile ... yönünden, Asliye Hukuk Mahkemesine görevsizlik kararı verilmesi gerektiği gözetilerek bir karar verilmelidir.
 
 ## Yargıtay 7. HD 2025/2806 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169486100)
+
 6100 sayılı Hukuk Muhakemeleri Kanunu'nun "Temyiz edilemeyen kararlar" başlıklı 362/1-(b) hükmünde yer alan, " Kira ilişkisinden doğan ve miktar veya değeri itibarıyla temyiz edilebilen alacak davaları ile kira ilişkisinden doğan diğer davalardan üç aylık kira tutarı temyiz sınırının üzerinde olanlar hariç olmak üzere 4. maddede gösterilen davalar ile (23.06.1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunu'ndan doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda sulh hukuk mahkemesinin görevine girdiği belirtilen davalarla ilgili kararlar." uyarınca 6100 sayılı Kanun'un 4. maddesinde münhasıran sulh hukuk mahkemesinin görev alanına giren terekenin iflas hükümlerine göre tasfiyesine ilişkin olan davalar hakkında verilen kararlar kesin olup temyiz edilemez.
 
 ## Yargıtay 1. HD 2025/2033 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144203700)
 
 Dava, kadastro sırasında öncesi nedene dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -71,15 +87,21 @@ Temyizen incelenen karar, tarafların karşılıklı iddia ve savunmalarına, da
 
 ## Yargıtay 2. HD 2024/1186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022342200)
+
 Aile Mahkemesinin 2014/1439 esas ve 2014/1343 karar sayılı ilamı ile davanın nüfus kaydının düzeltilmesine ilişkin olduğu gerekçesiyle görevsizlik kararı verilerek Antalya 1. Asliye Hukuk Mahkemesine gönderildiği, mahkemece biyolojik babanın davaya dahil edildiği, ilerleyen süreçte biyolojik baba ...açısından açılmış bir dava bulunmamasına rağmen davaya dahil edilen ...hakkındaki bu talebin Antalya 1. Asliye Hukuk Mahkemesince 2015/312 Esas sayılı dava dosyasından tefrik edilerek 2016/504 esas sayılı dosyanın oluşturulduğu, belirtilen davada biyolojik babaya karşı açılan dava soybağının reddi davası olarak değerlendirildiğinden Antalya 1. Asliye Hukuk Mahkemesince 2016/504 esas ve 2016/410 karar sayılı ilamı ile görevsizlik kararı verilerek yargı yerinin belirlenmesi için resen Antalya Bölge Adliye Mahkemesine gönderildiği, Antalya Bölge Adliye Mahkemesi 5. Hukuk Dairesinin 2017/41 Esas ve 2017/65 karar sayılı ilamı ile davanın soybağı davası olarak değerlendirilerek Antalya 1.
 Aile Mahkemesinin 2014/1439 Esas, 2014/1343 Karar sayılı kararının kaldırılmasına hükmedildiği, Mahkemece yeniden yapılan yargılama sonucunda davacı ile davalı ... arasındaki soybağının reddine karar verildiği, ancak tefrik edilen davada davalının ... olmayıp, davaya sonradan dahil edildiği anlaşılan biyolojik baba olduğu iddia edilen ...'ın mirasçıları olduğu, biyolojik babaya karşı soybağının reddi davası açılamayacağı gibi esasen davacı tarafından ...'a yönelik açılmış bir davanın da bulunmadığı, bu durumda Mahkemece davalı ...mirasçılarına karşı açılmış bir dava bulunmaması nedeniyle soybağının reddi davasında karar verilmesine yer olmadığına hükmedilmesi gerekirken tefrik edilen bu davanın davalısı olmayan ... hakkında yazılı şekilde hüküm kurulmasının hatalı olduğu, bu yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediği, davacı tarafından ...mirasçılarına yönelik soybağının reddine ilişkin açılmış bir dava bulunmadığı gerekçesi ile İlk Derece Mahkemesi kararının kaldırılarak davacı ... tarafından ...mirasçılarına karşı usulünce açılan soybağının reddine ilişkin bir dava bulunmadığından bu hususta karar verilmesine yer olmadığına, davacı ... tarafından açılan
 ve tefrik edilen bu dava dosyasında (Antalya 1. Asliye Hukuk Mahkemesinin 2016/504 Esas sayılı dava dosyası ve Antalya 1. Aile Mahkemesinin 2017/136 esas ve 2020/118 karar sayılı dava dosyası) soybağının reddi davası olarak değerlendirilen, dosyaya ilişkin yatırılmış bir harç olmadığından bu hususta karar verilmesine yer olmadığına karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/322 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/996815800)
+
 Miras ortaklığı temsilcisi (TMK m. 640) özel kayyım niteliğindedir. 4721 sayılı Türk Medeni Kanunu'nun 431 inci maddesi uyarınca vasi tayinindeki usul kayyım (mümessil) için de uygulanır. 4721 sayılı Kanunun 422 nci maddesi gereğince vasinin sıfatına karşı yapılan itirazlar ve vasinin ileri sürdüğü kaçınma sebeplerini (özürleri) inceleme göreviyle ilgili yasal hükümlerin mümessile yapılan itirazın ya da kaçınma sebeplerinin incelenmesinde de gözetilmesi zorunludur. Vesayet makamının itirazı reddetmesi halinde itirazı denetim makamının incelemesi gerekir. 4721 sayılı Kanun'un 422 nci maddesi uyarınca tereke temsilcisinin ileri sürdüğü kaçınma sebeplerini inceleme görevi öncelikle vesayet makamı olan sulh hukuk mahkemesine, onun kabul etmemesi halinde denetim makamı olan asliye hukuk mahkemesine aittir (TMK m. 397).
 
 ## Yargıtay 1. HD 2022/7724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868368700)
 
 3.3.1. Dosya içeriğinden; dava konusu 12 ada 6 parsel sayılı taşınmazın 12.01.1962 tarihinde kadastro tespiti nedeniyle Yasef oğlu ... adına tescil edildiği, taşınmazın nev’i kısmında Ali Ahmedi Vakfı ibaresinin yer aldığı, taşınmazın 15.10.1990 tarihinde ... adına tescil edildiği, 09.10.2007 tarihinde dava konusu taşınmazda kat irtifakı tesis edildiği, ... adına kayıtlı olan bağımsız bölümlerde malik isminin Ali Ahmedi Vakfı olarak değiştirildiği, eldeki asıl davanın 01.08.2017 tarihinde İstanbul Anadolu 17. Sulh Hukuk Mahkemesinin 2017/592 Esasında açıldığı ve Mahkemece görevsizlik kararı verildiği, bunun üzerine dosyanın İstanbul Anadolu 27. Asliye Hukuk Mahkemesinin 2019/247 Esasını aldığı, birleştirilen davanın ise 04.03.2019 tarihinde İstanbul Anadolu 14. Sulh Hukuk Mahkemesinin 2019/209 Esasında açıldığı ve Mahkemece görevsizlik kararı verildiği, bunun üzerine dosyanın İstanbul Anadolu 30. Asliye Hukuk Mahkemesinin 2019/928 Esasını aldığı ve Mahkemece davanın İstanbul Anadolu 27. Asliye Hukuk Mahkemesinin 2019/247 Esas sayılı davası ile birleştirilmesine karar verildiği, İstanbul Anadolu 27.
 Asliye Hukuk Mahkemesinin 2019/247 Esas sayılı davası sonunda mahkemece görevsizlik kararı verilmesi üzerine İstanbul Bölge Adliye Mahkemesi 37. Hukuk Dairesinin 2021/153 Esas sayılı kararı ile İstanbul Anadolu 27. Asliye Hukuk Mahkemesinin yargı yeri olarak belirlendiği ve davanın 2021/125 Esasını aldığı, tarafların bildirimlerinden de Vakıflar İdaresi aleyhine İstanbul 15. Sulh Hukuk Mahkemesinde 2016/471 Esas (kaldırma kararı sonrasında 2017/543 Esas) sayılı hasımlı veraset ilamı istemli davanın açıldığı, Mahkemece 14.02.2017 tarihinde davanın kabulüne karar verildiği, kararın istinafı üzerine İstanbul Bölge Adliye Mahkemesi 35. Hukuk Dairesinin 2017/902 Esas ve 2017/899 Karar sayılı kararı ile …
@@ -91,27 +113,39 @@ iadesine karar verildiği, dava konusu taşınmaz için İstanbul Anadolu 21. As
 
 ## Yargıtay 8. HD 2022/5466 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797638600)
+
 Şöyle ki; müdahil ... mirasçıları tarafından dayanılan ve çekişmeli parseli kapsadığı belirlenen Kasım 1953 tarih 21 nolu tapu kaydında, taşınmazın sınırları doğu ve güney: eski Oğulduruk yolu, batı: Bodamas çayı ile müdeabih tarla arasında kalan değirmen yolu, kuzey: Karakutlu Dedesi yolunun 150-250 metre aşağısı ile mahdut olarak gösterilmiş olup, sözkonusu tapu kaydı da sınırları itibariyle genişletilmeye elverişli ve birbirini kesmeyen sınırlar ihtiva ettiğinden bu parselin tapu kaydı kapsamında kaldığının, tapunun buraya ait olduğunun kabulüne olanak bulunmamaktadır. Müdahiller aynı zamanda zilyetliğe dayanmış ve dava konusu taşınmazın mahkeme kararı ile orman sınırı dışına çıkarıldığını ileri sürmüşlerdir.
 Dava dilekçelerine ekli Kadastro Mahkemesinin 2000/1 Esas, 2000/1 Karar sayılı ilamında dava konusu taşınmazın sınırında bulunan 2006-2007-2008 orman sınır noktaları ile çevrili alanın orman tahdit çalışmalarının iptali ile bu alanın orman sınırları dışında bırakılmasına karar verildiği, 11.10.2000 tarihinde temyiz incelemesinden geçerek kesinleştiği,ancak bu davanın genel mahkemeden görevsizlik kararı ile aktarılan tahdide itiraz davası olduğu, davacının tescil talebi ile ilgili kısmın Asliye Hukuk Mahkemesinde kaldığı anlaşılmış ise de; tescil davasında yapılan yargılama sonucu bir karar verilip verilmediği, verilmişse bu taşınmaz ise dava konusu taşınmazın aynı taşınmaz olup olmadığı dosya kapsamından anlaşılamamaktadır.
 
 ## Yargıtay 8. HD 2022/4643 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783052500)
+
 Diğer taraftan Asliye Hukuk Mahkemesinde ... ... tarafından açılan davanın görevsizlikle Kadastro Mahmekesine aktarılması söz konusudur. 3402 sayılı Kadastro Kanun'un 30/1. maddesinde kadastro komisyonlarından gönderilen tutanaklar ile mahalli mahkemelerden devredilen dosyaların muhtevasından malik tespiti yapılamadığı veya dava açan mirasçının dışında başka mirasçıların da bulunduğu anlaşıldığı takdirde, hâkimin resen lüzum gördüğü diğer delilleri toplayarak taşınmaz malın kimin adına tescil edileceğine karar vermekle yükümlü olduğu ifade edilmiştir. Anılan kanun maddesinde ayrıca taşınmaz malın ölü bir sahsa ait olduğu anlaşılır ve mirasçıları da tespit edilemezse, ölü olduğu yazılmak suretiyle o sahsın adına tescil kararı verileceği de düzenlenmiştir. Buna göre somut dosya açısından Mahkemenin gerçek maliki bulmakla yükümlü olduğu anlaşılmaktadır.
 
 ## Yargıtay 8. HD 2021/13192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787520700)
+
 Dava konusu taşınmazın kadastro tespitinin yapılmasından önce, davacı ... tarafından, davalılar Hazine ve ... Köyü Tüzel Kişiliği aleyhine Asliye Hukuk Mahkemesinin 1990/106 Esasıyla açtığı tescil davası ile bu dosyayla birleşen ... ... mirasçıları tereke temsilcisi olan davacı ... tarafından, davalılar ..., Hazine ve ... Köyü Tüzel Kişiliği aleyhine açılan müdahalenin men’i davasında Asliye Hukuk Mahkemesince, taşınmaz hakkında 2007 yılında tutanak düzenlenmiş olması nedeniyle görevsizlik kararı verilerek davanın Kadastro Mahkemesine aktarılması gerekirken, yargılamaya devam edilerek 29.12.1999 tarihli davanın açılmamış sayılması kararı verilmiş ve bu karar 23.06.2009 tarihinde kesinleşmiş ise de, taşınmazın malik hanesinin açık olması nedeniyle belirtilen bu dava dosyalarındaki tarafların Kadastro Mahkemesinde görülen davada da taraf olması gerektiği açıktır.
 
 ## Yargıtay 1. HD 2021/2922 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665078600)
 
 Sulh Hukuk Mahkemesince, hak düşürücü süre yönünden davanın reddine ilişkin olarak verilen karar Dairece; "... Her ne kadar, miras bırakan dava konusu taşınmazın davalıya temlikini kadastro tespitinden önce yapmış ise de, tespitten sonra ölmüş olup, Türk Medeni Kanununun 599. maddesi hükmü uyarınca mirasçıların murisin ölüm tarihinde tereke üzerinde hak sahibi olacakları açıktır. Öyleyse, davacıların talep ettiği hak, kadastro öncesi nedene değil, kadastrodan sonraki nedene dayalıdır. Buna göre, somut olayda, 3402 sayılı Kadastro Yasasının 12/3 maddesinin uygulama yeri bulunmamaktadır. Öte yandan, böylesi bir durumda muris muvazaasına dayalı olarak açılan ve açılacak davaların her hangi bir zaman aşımı veya hak düşürücü süreye bağlı olmaksızın her zaman açılabileceği de kuşkusuzdur.
 Hal böyle olunca; tarafların iddia ve savunmaları doğrultusunda delillerin toplanması, hasıl olacak sonuca göre işin esası hakkında bir karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu üzere hüküm tesisi isabetsizdir.'' gerekçesiyle bozulmuş, Sulh Hukuk Mahkemesi tarafından bozma ilamına uyulmuş, aşamada verilen görevsizlik kararı üzerine dava Asliye Hukuk Mahkemesinde görülmeye devam edilmiş ve mahkemece yapılan yargılama sonunda davanın kabulüne ilişkin karar Dairece; “... çekişme konusu taşınmazda mirasbırakan ... tarafından tapu sicil memuru önünde yapılan temliki bir işlem bulunmadığından İçtihadı Birleştirme Kararının uygulama yeri bulunmamaktadır.Hal böyle olunca; davanın reddine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması doğru değildir.” gerekçesiyle bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama sonunda davanın reddine karar verilmiştir.
 
 ## Yargıtay 7. HD 2021/2217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715367100)
+
 Türk Medeni Kanununun 652. maddesinde yer alan tereke mallarından birinin mirasçılardan birine miras hakkına mahsuben özgülenmesi, paylaştırma niteliğinde olup, özgüleme kararı, o mal üzerindeki mirasçıların “elbirliği” şeklindeki ortaklığının izalesi sonucunu hasıl eder. Bu nedenle, Türk Medeni Kanununun 652. maddesine dayanan isteklerde görevli mahkeme, paylaşma isteklerindeki görev kurallarına göre belirlenmelidir. Her mirasçı, terekedeki belirli malların aynen, olanak yoksa satış yoluyla paylaştırılmasını sulh mahkemesinden isteyebilir. (TMK md. 642) Taşınır ve taşınmaz mal veya hakkın paylaştırılmasına ve ortaklığın giderilmesine ait davalarda sulh hukuk mahkemesi görevlidir. (HMK md. 4/1-b) Göreve ilişkin kurallar kamu düzeninden olup, davanın her safhasında ileri sürülebileceği gibi, mahkeme de davanın her aşamasında kendiliğinden görevli olup olmadığına karar verir. (HMK md.1)
 
 ## Yargıtay 14. HD 2020/7937 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623563100)
 
 Dava, elbirliği mülkiyetinin paylı mülkiyete çevrilmesi isteğine ilişkindir.
 
@@ -121,19 +155,27 @@ Davacı taraf dava konusu 555 parsel sayılı taşınmazda davalılar murisine a
 
 ## Yargıtay 14. HD 2020/4814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600076200)
+
 Miras ortaklığı temsilcisi (TMK. md. 640) özel kayyım niteliğindedir. Türk Medeni Kanununun 431. maddesi uyarınca vasi tayininde usul kayyım (mümessil) için de uygulanır. Türk Medeni Kanununun 403/son maddesi uyarınca, vasi hakkındaki hükümler, aksi belirtilmiş olmadıkça kayyım hakkında da uygulanır. Türk Medeni Kanunun 457. maddesinde vasinin ücretnin vesayet makamı tarafından belirleneceği düzenlenmiştir. Terekeyi yönetmekle görevlendirilen kimseye sulh mahkemesi tarafından terekeden karşılanmak üzere uygun bir ücret ödenmesine karar verilebilir (TMK m. 592/4). Ancak ücret ödenmesi için tereke yöneticisinin istemi gerekir. İstem olmadan kendiliğinden ücret verilemez. Terekeyi resmen yönetene ödenecek ücret yönetimin gerektirdiği emek ve yönetilen malvarlığı gözönünde tutulmak suretiyle sulh hukuk mahkemesi tarafından belirlenir. Türk Medeni Kanunun 488. maddesi uyarınca ilgililer vesayet makamlarının kararlarına karşı, tebliğ gününden başlayarak on gün içinde denetim makamına itiraz edebilirler. Denetim makamı, gerektiğinde duruşma da yaparak bu itirazı kesin karara bağlar. Vesayet makamının itirazı ret etmesi halinde itirazı denetim makamının incelemesi gerekir.
 Türk Medeni Kanununun 397. maddesinde belirtilen denetim makamı görevi; Asliye Hukuk Mahkemesine aittir (5133 S.K. md.2-3, TMK. md. 397/2).
 
 ## Yargıtay 13. HD 2019/7262 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514680000)
 
 Bir hukuki işlemin sadece 6502 Sayılı yasada düzenlenmiş olması tek başına o işlemden kaynaklanan uyuşmazlığı tüketici mahkemesinde görülmesini gerektirmez. Bir hukuki işlemin 6502 sayılı yasa kapsamında kaldığının kabul edilmesi için taraflardan birinin tüketici olması gerekir. Eldeki dava, davacı bankanın davalıların murisi ... ile imzaladığı bireysel kredi sözleşmesi gereği ödenmesi gereken kredi taksitlerinin ödenmemesi üzerine bankanın başlattığı icra takibine vaki itirazın iptaline karar verilmesi istemine ilişkindir.Somut uyuşmazlıkta davacı bankanın vermiş olduğu hizmet mesleki ve ticari amaçlı olup, davalılar da tüketicidir. Taraflar arasındaki uyuşmazlık Tüketicinin Korunması Hakkındaki Kanun kapsamında kaldığına göre, davaya bakmakla Tüketici Mahkemesi görevlidir. Görevle ilgili düzenlemeler kamu düzenine ilişkin olup taraflar ileri sürmese dahi yargılamanın her aşamasında resen gözetilir. Görevle ilgili hususlarda kazanılmış hak söz konusu olmaz.
 Bu durumda mahkemece, mahallinde müstakil bir Tüketici Mahkemesi bulunması halinde görevsizlik kararı verilmesi, bulunmaması halinde Tüketici Mahkemesi sıfatı ile davaya bakılması gerekirken yazılı şekilde Asliye Hukuk Mahkemesi olarak davaya bakılıp işin esasına girilerek hüküm tesisi usul ve yasaya aykırıdır.
 
 ## Yargıtay 14. HD 2019/6342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542985200)
+
 Islah dilekçesi içeriğine göre dava, miras taksim sözleşmesine dayalı paylaşma tapu iptali ve tescile ilişkindir (TMK.676.m.). 6100 sayılı Hukuk Muhakemesi Kanunu ve 4721 sayılı Türk Medeni Kanununda bu tür uyuşmazlıklarda sulh hukuk mahkemesinin görevli olduğunu belirten bir düzenleme bulunmamaktadır. Davanın açıldığı tarihten önce yürürlüğe giren 6100 sayılı HMK ise asliye hukuk ve sulh hukuk mahkemesinin görevli olup olmadığını, tayin ve tespitte dava konusunun değeri ve miktarı ölçüsünü kaldırmış, dava konusunun değer ve miktarına bakılmaksızın mal varlığı haklarına ilişkin davalarda, görevli mahkemenin aksine bir düzenleme bulunmadıkça asliye hukuk mahkemesi olduğu hükme bağlanmıştır (HMK.m.2/1).
 
 ## Yargıtay 16. HD 2019/6158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563399200)
 
 Davaya konu taşınmaz hakkında, iş bu dosyanın davacısı olan ... tarafından, daha önce Maden Kadastro Mahkemesi'nde, taşınmazın ... mirasçıları adına tescili istemiyle dava açıldığı ve bu dava sonucunda, Kadastro Mahkemesi'nin 2006/40 Esas, 2007/57 Karar sayılı kararı ile taşınmazın davacının murisi olan ... mirasçıları adına tesciline karar verildiği ve bu kararın, Dairemizin 2008/9869-8400 Esas-Karar sayılı ilamı ile, "Kadastro mahkemelerinin 30 günlük askı ilan süresi içinde açılan davalara bakmakla görevli olup, davanın askı ilan süresi geçtikten ve tespit kesinleştikten sonra açılmış olması nedeniyle görevsizlik kararı verilmesi" gereğine değinilerek bozulduğu, bu bozma ilamından sonra dava dosyasının Kadastro Mahkemesi’nin 2009/35 Esasına kaydedilip, 2009/52 Karar sayılı ilam ile görevsizlik kararı verilerek Sulh Hukuk Mahkemesi’ne gönderildiği ve Sulh Hukuk Mahkemesi'nin 2009/119 Esas, 2010/1 Karar sayılı kararı ile davanın açılmamış sayılmasına karar verildiği ve Sulh Hukuk Mahkemesi'nin bu dosyasının 03.12.2014 tarihli arşiv ayıklama imha komisyonu tutanağı ile imha edildiği, tapulama tutanak aslının Tapu Müdürlüğüne devredilmemesi (muhtemelen imha edilen dosya içerisinde
 kalması) nedeniyle, çekişmeli taşınmazın tapuya tescilinin halen yapılmadığı ve Kadastro Mahkemesi’nde davalı göründüğü anlaşılmış ise de, yukarıda değinilen bozma ilamı içeriği dikkate alındığında, dava konusu taşınmaza ilişkin tespite karşı askı ilan süresi içerisinde dava açılmadığından, tespitin 04.11.2006 tarihinde kesinleştiğinin kabulü gerekir.
@@ -143,9 +185,13 @@ Ayrıca, çevre taşınmazlarına davacı ve kardeşleri adına iştirak halinde
 
 ## Yargıtay 20. HD 2019/4631 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512390000)
+
 Salihli Sulh Hukuk Mahkemesince ise davalının muristen kalan koyunlar üzerindeki alacak ve uğranılan kazanç kaybının tazmini talepleri yönünden ise dava konusu malvarlığı haklarına ilişkin olduğundan, 6100 sayılı Hukuk Muhakemleri Kanununun 2. maddesinde belirtilen "dava konusunun değer ve miktarına bakılmaksızın malvarlığı ve şahıs varlığı haklarına ilişkin davalarda görevli mahkeme aksine bir düzenleme bulunmadıkça asliye hukuk mahkemesidir." hükmü ve HMK'nın 4. maddesi gereğince mahkememizin görevli olmadığı, mal varlığına ilişkin çekişmeli davalarda asliye hukuk mahkemelerinin görevli olduğu gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 1. HD 2018/15041 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464310400)
 
 …
 
@@ -154,10 +200,14 @@ Hâl böyle olunca, kayıt maliki...'in mirasçısı olduğunu iddia eden...'in 
 
 ## Yargıtay 13. HD 2018/9838 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471678300)
+
 Bir hukuki işlemin 4077 sayılı yasa kapsamında kaldığının kabul edilmesi için yasanın amacı içerisinde yukarıda tanımları verilen taraflar arasında mal ve hizmet satışına ilişkin bir hukuki işlemin olması gerekir. Yasada açıklandığı üzere Tüketici “bir mal veya hizmeti ticari veya mesleki olmayan amaçlarla edinen, kullanan, veya yararlanan gerçek ya da tüzel kişidir. Somut uyuşmazlıkta davacılar murisleri...'nın davalı bankadan kullandığı ihtiyaç kredisi nedeniyle icra takibi başlatıldığını ancak davalı bankanın sigorta poliçesini yenileme yükümlülüğünü yerine getirmediğini beyan ederek borçlu olamdıklarının tespitine karar verilmesini talep etmiş olup, dava konusu olayda davacılar murisin kullanmış olduğu ihtiyaç kredisi sebebiyle tüketici konumundadır. Öyle olunca taraflar arasındaki ilişkinin 4077 sayılı yasa kapsamında kaldığı ve eldeki davaya bakma görevinin .....Tüketici Mahkemesine ait olduğu anlaşılmaktadır. Mahkemenin görevi hususu kamu düzenine ilişkin olup, bunun mahkemece resen nazara alınması gerekir.O halde mahkemece, müstakil.....
 Tüketici Mahkemesi var ise davaya bakmakla Tüketici Mahkemeleri görevli olduğundan görevsizlik kararı verilmesi, müstakil Tüketici Mahkemesi yok ise ara kararı ile uyuşmazlığa.... Tüketici Mahkemesi sıfatı ile bakılmasına karar verilmek suretiyle uyuşmazlığın çözülmesi gerekirken, yazılı şekilde davanın.... Asliye Hukuk Mahkemesi olarak görülmüş olması usul ve yasaya aykırı olu, bozmayı gerektirir.
 
 ## Yargıtay 14. HD 2018/6730 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454002500)
 
 Dava, aile konutunun miras payına mahsuben sağ eşe özgülenmesi istemine ilişkindir.
 

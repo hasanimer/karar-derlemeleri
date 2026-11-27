@@ -20,11 +20,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794335000)
+
 Miras ortaklığı devam ederken terekeye ilişkin olarak mirasçılara karşı açılacak olan davalarda davanın tüm mirasçılara karşı açılmasının gerekip gerekmediği davanın konusuna göre değişmektedir. TMK’nın 641/1. maddesi hükmüne göre mirasçılar tereke borçlarından müteselsilen sorumludurlar. Bu hüküm gereğince terekeye ilişkin olarak mirasçılara karşı açılacak olan para alacağı davalarında davacı istediği mirasçıya karşı dava açabilir veya takip yapabilir. Bu durumda mirasçılar arasında ihtiyari dava arkadaşlığı söz konusu olur (Kuru Baki/Arslan Ramazan/Yılmaz Ejder: Medeni Usul Hukuku, Ankara 2007, s. 242).
 
 Terekeye ilişkin olarak mirasçılara karşı açılacak olan davanın konusu paradan başka bir şey ise, bu durumda davanın tüm mirasçılara karşı açılması gerekir. Bunun nedeni ise, TMK’nın 640. maddesi uyarınca, miras ortaklığında mirasçıların terekedeki mal ve haklar üzerinde elbirliği hâlinde hak sahibi olmaları ve tereke üzerinde ancak hep birlikte tasarruf edebilmeleridir (Kuru/Arslan/Yılmaz, s. 242, 243).
 
 ## Yargıtay 2. HD 2026/2267 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208723500)
 
 Tüm bu açıklamalar nedeniyle, davacı mirasçı sağ eşin mal rejiminin tasfiyesi nedeniyle talep ettiği ve terekeye ait borç sayılan alacak miktarından, davanın mirasçılar arasında görülmesi nedeniyle, davacı da dahil bütün mirasçılar miras payları oranında sorumludurlar. Buna göre, somut olayda tespit edilecek ve hüküm altına alınacak tereke borcundan davacının da miras payı oranında sorumlu olduğu göz önünde bulundurularak davalıların ayrı ayrı miras payı oranında sorumlu olduğu miktarın belirlenmesi gerekirken …
 
@@ -34,9 +38,13 @@ Tüm bu açıklamalar nedeniyle, davacı mirasçı sağ eşin mal rejiminin tasf
 
 ## Yargıtay 12. HD 2026/1422 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208312800)
+
 Mirasçılar miras bırakanın borçlarından müteselsilen sorumlu olduklarından alacaklı müteselsil borçluların birinden borçlun tamamını isteyebilir. Miras bırakana (borçluya) karşı başlamış olan icra takiplerine, mirasçılara karşı kıldığı yerden devam edilir. Miras bırakana ödeme emri tebliğ edilmemiş ise ödeme emri mirasçılara tebliğ edilir. Miras bırakana (borçluya) karşı ölümünden önce başlamış olan takiplerde miras bırakana sağlığında ödeme emri tebliğ edilmiş ise mirasçılara yeni ödeme emri gönderilmesine gerek yoktur.
 
 ## Yargıtay 3. HD 2025/4400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187345800)
 
 4721 sayılı Türk Medeni Kanunu'nun (4721 sayılı Kanun) 599. maddesi uyarınca; " Mirasçılar, mirasbırakanın ölümü ile mirası bir bütün olarak, kanun gereğince kazanırlar. Kanunda öngörülen ayrık durumlar saklı kalmak üzere mirasçılar, mirasbırakanın ayni haklarını, alacaklarını, diğer mal varlığı haklarını, taşınır ve taşınmazlar üzerindeki zilyetliklerini doğrudan doğruya kazanırlar ve mirasbırakanın borçlarından kişisel olarak sorumlu olurlar. " Aynı Kanunun 610. maddesinde ise;" Yasal süre içinde mirası reddetmeyen mirasçı, mirası kayıtsız şartsız kazanmış olur." hükmü getirilmiştir.
 
@@ -44,13 +52,19 @@ Mirasçılar miras bırakanın borçlarından müteselsilen sorumlu olduklarınd
 
 ## Yargıtay 3. HD 2025/4068 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176889400)
+
 Müvekkilin ölümü halinde avukatın isteyebileceği vekâlet ücretinden dolayı mirası red etmeyen tüm mirasçılar müteselsilen sorumludur.
 
 ## Yargıtay 11. HD 2024/2465 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1051501200)
+
 Yargıtay Hukuk Genel Kurulunun 26.05.2022 tarih, 2019/(19)11-719 E., 2022/752 K. sayılı ilâmı ile para alacağına ilişkin dava ve takiplerin mirasçıların tamamına karşı yürütülmesine gerek bulunmadığı, Özel Dairenin murisin tüm mirasçılarına karşı takip yapılması ve dava açılması yönündeki bozma gerekçesinin yerinde olmadığı, davalıların, murisin terekesinin borca batık olduğu ve mirası reddettikleri yönündeki savunmaları üzerinde durulması gerekirken, bu yönde araştırma yapılmadan karar verilmesinin doğru olmadığı, davalıların, söz konusu ganyan bayiliğinin icra takibine itiraz etmeyen dava dışı ... tarafından işletildiğini savundukları, muris ile yapılan sözleşmede yer verilen Ganyan Bayiliği Yönetmeliğinin 15 inci maddesinde, bayiliğin şahsa ilişkin olup mirasçılara geçmeyeceğinin belirtildiği, bu hükme göre murisin ölümünden sonraki borçlar yönünden mirasçıların sorumluluğunun mahkemece değerlendirilmesi gerekirken eksik inceleme ile karar verilmesi hatalı olduğu gerekçesiyle direnme kararının değişik gerekçe ve nedenlerle bozulmasına kesin olarak karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/3745 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/926096500)
 
 Mirastan feragat sözleşmesi aynı zamanda mirasçı yönünden ölüme bağlı bir tasarruf olmayıp sağlararası hukuki işlem iken, mirasbırakan açısından ölüme bağlı bir tasarruf niteliğindedir. Mirasbırakan yönünden ölüme bağlı tasarruf hükümlerinin uygulanması, feragat ile mirasbırakanın tereke üzerindeki tasarruf imkanının genişlemesi ile açıklanır.
 
@@ -60,15 +74,21 @@ Feragat eden, ileride sahip olacağı miras payının tamamından veya bir kısm
 
 ## Yargıtay 2. HD 2022/128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728383400)
+
 Mal rejiminin tasfiyesi sonucunda belirlenecek artık değer katılma alacağı terekeye ait borç olup, mirasçıların miras paylaşımından önce ödenmesi gerektiği kabul edilmektedir. Terekeye ait borç ödendikten sonra kalan miktar, mirasçılar arasında miras payları oranında paylaşılır. Tereke borçlarından bu sıfatını kaybetmemiş tüm mirasçılar, üçüncü kişilere karşı kişisel olarak müteselsilen (TMK m.641) sorumludurlar. Her ne kadar, davacı temyize konu davayı terekenin alacaklısı sıfatıyla açmış ise de; davacı da dahil davanın tarafları, ortak mirasbırakan ...'ın mirasçısıdırlar ve tereke borçlarından yukarıda açıklanan kanuni düzenlemeler çerçevesinde hepsi de sorumludurlar. Başka bir anlatımla, mirasçılık sıfatına sahip olduğundan (TMK m. 499), alacaklı ve borçlu sıfatı davacı sağ eşte kısmen birleşmiştir.
 
 Tüm bu açıklamalar nedeniyle, davacı mirasçı sağ eşin mal rejiminin tasfiyesi nedeniyle talep ettiği ve terekeye ait borç sayılan alacak miktarından, davanın mirasçılar arasında görülmesi nedeniyle, davacı da dahil bütün mirasçılar miras payları oranında sorumludurlar. Buna göre, hüküm altına alınan tereke borcundan davacı ve davalıların da miras payı oranında sorumlu olduğu miktarlar göz önünde bulundurularak temyiz eden davalıların sorumlu olduğu miktarın hüküm fıkrasında ayrı ayrı gösterilmesi gerekirken bu husus göz ardı edilerek yazılı şekilde karar verilmesi doğru olmamıştır. Ne var ki, bu husus yeniden yargılama yapılmasını gerektirmediğinden bölge asliye mahkemesi hükmünün bu yönden düzelterek onanmasına karar vermek gerekmiştir (HMK m.370/2).
 
 ## Yargıtay 3. HD 2021/9980 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700758400)
+
 4721 sayılı TMK'nın 641. maddesinde; "Mirasçılar, tereke borçlarından müteselsilen sorumludurlar.", 6098 sayılı TBK'nın 163. maddesinde de; "Alacaklı borcun tamamının veya bir kısmının ifasını dilerse borçluların hepsinden, dilerse yalnız birinden isteyebilir. " düzenlemeleri mevcuttur. Bu maddelerde düzenlenen müteselsil sorumluluk kuralları gereği alacaklının, borçlunun mirasçılarından biri veya tamamı aleyhine icra takibi yapabileceğinin ya da alacağın tahsilini talep edebileceğinin kabulü gerekir.
 
 ## Yargıtay 3. HD 2019/4138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519609400)
 
 Dava; murisin kredi borcunun tahsili amacıyla başlatılan icra takibi sırasında davacının, davalıların miras paylarını da kapsar şekilde ödemiş olması nedeniyle, sebepsiz zenginleşme hükümleri uyarınca, davalıların payına düşen ödemelerin rücuen tahsili istemine ilişkindir.
 
@@ -78,17 +98,23 @@ Dava; murisin kredi borcunun tahsili amacıyla başlatılan icra takibi sırası
 
 ## Yargıtay 8. HD 2018/17237 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451528100)
+
 Bundan ayrı; hükmedilen alacağın tamamından davalının müştereken sorumlu tutulması da hatalı olmuştur. ...... bağlı mal rejiminin tasfiyesi sonucunda belirlenecek katılma alacağı, terekeye ait borç olup, ......çıların ...... paylaşımından önce ödenmesi gerektiği kabul edilmektedir. Terekeye ait borç ödendikten sonra kalan miktar, ......çılar arasında ...... payları oranında paylaşılır. Tereke borçlarından bu sıfatını kaybetmemiş tüm ......çılar, kişisel olarak (4721 sayılı TMK mad. 599/2) ve müteselsilen (TMK mad.641) sorumludurlar.
 
 Her ne kadar, davacı ... temyize konu davayı terekenin alacaklısı sıfatıyla açmış ise de; davacı da dahil davanın tarafları, ortak ......bırakan ......'in ......çısıdırlar ve tereke borçlarından yukarıda açıklanan kanuni düzenlemeler çerçevesinde hepsi de sorumludurlar. Başka bir anlatımla, ......çılık sıfatına sahip olduğundan (TMK mad. 499), alacaklı ve borçlu sıfatı davacı sağ eş de birleşmiştir. Taraflarca, ......çılardan her hangi birinin ......çılık sıfatını yitirdiği(4721 sayılı TMK'nin 511 vd, 578 vd, 605 vd maddeleri) iddia edilip kanıtlanmamıştır. Davacı ......çı sağ eşin mal rejiminin tasfiyesi nedeniyle talep ettiği ve terekeye ait borç sayılan alacak miktarından, davanın ......çılar arasında görülmesi nedeniyle, davacıda dahil bütün ......çılar ...... payları oranında sorumludurlar.
 
 ## Yargıtay 19. HD 2018/793 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409354000)
+
 Tereke ile ilgili olup konusu para alacağı olan davaların bütün mirasçılara karşı açılması zorunlu değildir, bir mirasçıya karşı da dava açılabilir. Çünkü TMK'nun 641. maddesine göre mirasçılar tereke borçlarından müteselsilen sorumludurlar ve TBK'nun 163. maddesi gereğince alacaklı müteselsil borçlulardan birinden borcun tamamını isteyebilir. (bkz. Prof. Dr. Baki Kuru, İstinaf Sistemine Göre Yazılmış Medeni Usul Hukuku, 2017, s.117) Bu durumda terekenin para borcundan müteselsilen sorumlu olan her bir mirasçı borca karşı menfi tespit davası açabilir. Bu itibarla mahkeme kararını temyiz eden davacı murisin mirasçılarından ...'ın temyiz talebi incelenmiştir.
 
 Buna göre, mahkemece Dairemiz bozma kararına uyulduğu halde bozma gerekleri tam olarak yerine getirilmemiş, davacının bozmayı hatırlatan itirazları da gözetilmemiştir. Mahkemenin hükme esas aldığı bilirkişi raporu Dairemiz bozma gereklerini karşılayan yeterli incelemeyi kapsamamaktadır. Bu durumda mahkemece hükmüne uyulan Dairemiz bozma kararı doğrultusunda dava konusu kredinin davacılar murisinin imzası bulunan sözleşme kapsamında kullanılan bir kredi olup olmadığı hususunda bankacılık konusunda uzman bir bilirkişi aracılığıyla banka defter ve kayıtları üzerinde inceleme yaptırılmak suretiyle ayrıntılı ve Yargıtay denetimine elverişli rapor alınıp, deliller hep birlikte değerlendirilmek suretiyle varılacak uygun sonuç dairesinde bir karar verilmesi gerekirken eksik inceleme sonucu yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 17. HD 2017/9961 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389618500)
 
 Tereke borçlarından dolayı müteselsilen sorumluluk ancak mirasçılık sıfatı olmayan alacaklılar için geçerlidir. Murisin alacaklıları arasında mirasçısı da bulunuyor ise söz konusu mirasçının muristen olan alacağı için diğer mirasçıların müteselsil sorumluluğu bulunmamaktadır. Buna göre tereke alacaklısı mirasçının bu alacağı, terekenin paylaşımı sırasında hesaba katılarak ve mirasçıların paylarından mahsup edilmek veya tereke mallarından tahsil edilmesi gerekir. Alacağın tereke mallarından tahsili mümkün olmazsa, diğer mirasçılar sadece miras payları oranında sorumlu olurlar. Burada müteselsil borçlulardan birinin şahsında alacaklı ve borçlu sıfatının birleşmesi durumu söz konusu olur. Bu durum külli halefiyet prensibi sayesinde alacaklının borçluya mirasçı olması ile gerçekleşmektedir. Böyle bir durumda diğer borçlular birleşme şahsında gerçekleşen borçlunun iç ilişkide payına düşen miktar oranında borçtan kurtulurlar. Bunun yanı sıra alacaklı borluya mirasçı olması durumunda alacağının tamamını müteselsil borçlu sıfatı ile diğer mirasçılardan talep edemez.
 Ancak iç ilişkide kendisine miras payı oranında isabet eden borç miktarını tenzil ettikten sonra geri kalan kısım için diğer mirasçılara müteselsilen başvurabilir.
@@ -97,15 +123,21 @@ Somut olayda davalı borçlu... iş bu dava devam ederken 08.01.2012 tarihinde v
 
 ## Yargıtay 23. HD 2017/3219 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379806400)
+
 4721 sayılı TMK'nın 641. "mirasçılar, tereke borçlarından müteselsilen sorumludurlar." ve TBK'nın 163. "Alacaklı, borcun tamamının veya bir kısmının ifasını, dilerse borçluların hepsinden, dilerse yalnız birinden isteyebilir." maddelerinde düzenlenen müteselsil sorumluluk kuralları gereği davalılar davacıya karşı müteselsilen sorumludurlar bu nedenle alacağın mirasçı olan davalılardan hisseleri oranında alınarak davacıya verilmesi doğru değildir.
 
 ## Yargıtay 19. HD 2016/12611 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/278182400)
 
 Dava, davalıların murisi ...'nın ... olarak sözleşme imzaladığı bayilikle ilgili hasılat prim borcu alacağına ilişkindir. Murisin davalılardan başka mirasçıları da bulunduğu dosyadaki nüfus aile kayıt tablosunun tetkikinden anlaşılmaktadır. Murisin ölüm tarihine göre terekesi iştirak halinde olduğundan tüm mirasçılarına karşı takip ve dava açılması gerekir. Başka bir anlatımla mirasçılar arasında zorunlu takip ve dava arkadaşlığı bulunmaktadır. Her ne kadar mahkemece murisin borçlarından dolayı mirasçıların müteselsil sorumluluğunun bulunduğu ve ödeme yapıldıktan sonra diğer mirasçılara rücu edilebileceği gerekçesiyle yazılı şekilde hüküm kurulmuş ise de Dairemizin istikrarlı uygulaması yukarıda açıklandığı gibidir. Bu durumda mahkemece bu yön üzerinde durulması gerekir.
 
 Öte yandan davalılar, kendilerinin dava konusu işletme ile ilgileri bulunmadığını, bu yeri takibe itiraz etmeyen dava dışı Zülfü Sertkaya'nın fiilen işlettiğini savunmuşlardır. Bu yöndeki savunmanın doğru olduğunun kanıtlanması halinde ise hasılat prim bedellerinden davalıları sorumlu tutmak doğru görülemez. Bunun yanında muris ile yapılan sözleşmenin 15. maddesinde bayiliğin şahsa ilişkin olup mirasçılara intikal etmeyeceği hükmü bulunmaktadır. Bu hüküm karşısında murisin ölümünden önceki borçlar yönünden mirasçıların sorumluluğu düşünülebilir ise de ölümden sonraki borçlardan mirasçıların sorumlu tutulmasının hangi hukuki gerekçeye dayandırıldığının da tartışılması gerekmektedir. Tüm bu hususlar yanında davalılar murisin terekesinin borca batık olduğunu ve bu nedenle mirası reddettiklerini savunmuşlardır. Mahkemece bu savunma üzerinde de durulmamıştır.
 
 ## Yargıtay 14. HD 2016/8646 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/274633300)
 
 Mirasın hükmen reddine ilişkin olarak açılan davalarda, terekenin açıkça borca batık olup olmadığının araştırılması gerekmektedir. İcra takibi sonunda aciz vesikası düzenlenmesi halinde terekenin borca batık olduğu kabul edilir.
 
@@ -115,11 +147,15 @@ Ayrıca, davacının Av. ...'a verdiği vekaletnamede mirasın reddini içeren �
 
 ## Yargıtay 17. HD 2015/5675 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/184903400)
+
 Dava, trafik kazasından kaynaklanan destekten yoksun kalma ve cismani zarar sebebiyle maddi ve manevi tazminat istemine ilişkindir.
 
 4721 sayılı Türk Medeni Kanunu'nun 599. maddesi gereğince mirasçılar, mirası bir bütün olarak kazanırlar. Aynı kanunun 641. maddesi gereğince mirasçılar tereke borçlarından müteselsilen sorumlu olurlar. Mirasın, mirasçılar tarafından reddedilmesi halinde mirasçılar artık mirasbırakanın külli halefi olmadıklarından tereke borçlarından sorumlu tutulamazlar. Bu nedenle mirası reddeden mirasçıların taraf sıfatı bulunmamaktadır. Diğer bir anlatımla mirası reddeden mirasçılara husumet yöneltilemez.
 
 ## Yargıtay 8. HD 2014/11770 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98636900)
 
 Borçlu ölmüş olsa bile mirasçılarına karşı halefiyat kuralı gereğince her türlü takibin ve davanın açılması mümkündür. Çünkü TMK.nun 641. maddesine göre, mirasçılar; tereke borçlarından müteselsilen sorumludurlar. Bu ilkenin göz ardı edilmesi mümkün değildir.
 
@@ -127,11 +163,15 @@ HUMK’da yer almamakla birlikte Yargıtay uygulaması gereğince “hukuki yara
 
 ## Yargıtay 8. HD 2014/6261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98544500)
+
 Kural olarak, TMK'nun 652. maddesi uyarınca açılan bu tür davalarda sağ kalan eş, davacı sıfatına haiz olup, diğer tüm mirasçıları ise davalı durumunda bulunmaktadırlar. Yani davacı tarafından açılacak bu tür davanın diğer tüm mirasçılara yöneltilmesi ve bu şekilde taraf teşkilinin sağlanması, ondan sonra işin esasına girilerek olumlu veya olumsuz bir karar verilmesi gerekmektedir. Bu haklardan olan intifa hakkı tanınırken, kural olarak karşılığının da belirlenmesi ve bu konuda uzman bilirkişiden intifa hakkı karşılığına ilişkin raporun alınması da düşünülmelidir. Mirasçılardan R.. ve M.. A.. davalı gösterilmekle birlikte diğer mirasçılardan sayılan Ü.. H.. ile H.. S.. E.. davacı safında yer almışlardır. TMK'nun 641. maddesi uyarınca tüm mirasçılar tereke borçlarından müteselsilen sorumludurlar. Bu hüküm de göz önünde bulundurulduğunda davanın Ü.., H.. S.., R.. ve M.. A..’ya karşı açılması gerekirken, iki mirasçının davacı safında yer alması taraf teşkilinin sağlandığı anlamına gelmez. Çünkü TMK'nun 641. maddesi uyarınca davacı safında yer alan Ü.. ile H.. S..nın da vekalet ücreti dahil her türlü yargılama giderlerinden sorumludurlar.
 
 Bu nedenle davanın aynı zamanda davacı safında yer alan Ü.. ile H.. S..’ya yöneltilmesi, davalı safında yer almalarının sağlanması ve yukarıdaki açıklamalar doğrultusunda yargılama giderlerinden bunlarında sorumlu tutulması gerekmektedir. Davanın sadece iki mirasçıya yöneltilerek açılması, açıklanan nedenlerle usul ve kanuna aykırıdır.
 
 ## Yargıtay 8. HD 2014/4772 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/304135200)
 
 TMK'nun 495 ve devamı maddelerinde, düzenlenen Miras Hukukundan (terekeden) doğan hak bir alacak hakkı olmayıp ayni nitelikte bir haktır. TMK'nun 641. maddesine göre, mirasçılar, tereke borçlarından müteselsilen sorumludur. Aynı Kanun'un 654. maddesinde ise, miras bırakanın bir mirasçıdaki alacağı, paylaşma sırasında o mirasçının payına mahsup edilir denilmektedir. Ancak, TMK'nun 654. maddesinin katkı payı ve katılma alacağı bakımından somut olayda uygulama olanağı bulunmamaktadır. Yalnızca miras paylaşımı sırasında miras bırakanın bir mirasçıdaki alacağı için uygulanabilmektedir. Halbuki katkı payı ve katılma alacağı murisin borcu olup, ödünç verilmiş bir alacağının olduğundan söz edilemez.
 
@@ -139,9 +179,13 @@ Eşler arasındaki mal rejimi TMK'nun 225/.... maddesi uyarınca, diğer eş ...
 
 ## Yargıtay 12. HD 2013/33535 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/56590500)
+
 TMK'nun 641. maddesi gereğince paylaşımdan önce mirasçılar tereke borçlarından müteselsilen sorumludurlar. MK'nun 681. maddesi gereğince de mirasçılar, bölünmesine veya nakline alacaklı tarafından açık veya örtülü olarak rıza gösterilmemiş olan tereke borçlarından dolayı, paylaşmadan sonra da bütün malvarlıklarıyla müteselsilen sorumludurlar. TMK'nun 682. maddesindeki miras payı oranında ödemeyle yükümlülük üçüncü kişilere karşı değil, mirasçıların birbirlerine karşı rücu haklarına ilişkin bir düzenlemedir. Murisin mirasını reddetmeyen her bir mirasçı, murisin borçlarından müteselsilen ve müştereken sorumludur.
 
 ## Yargıtay 23. HD 2013/2396 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486090300)
 
 Miras ortaklığını oluşturan mirasçılar, terekedeki malvarlığı değerleri üzerinde elbirliği halinde mülkiyet hükümleri gereğince malik oldukları için, kural olarak tek başlarına veya birkaçı birlikte hareketle terekeye dahil hakkın biri üzerinde tasarrufta bulunamazlar.
 
@@ -150,13 +194,19 @@ Davacı taraf murisin borçlarından dolayı talebini mirasçılardan birine yö
 
 ## Yargıtay 11. HD 2012/5028 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1011764100)
+
 Tereke ile ilgili olup konusu para alacağı olan davaların bütün mirasçılara birlikte yöneltilmesi zorunlu değildir. Bu dava murisin mirasçılarından birisi aleyhine de açılabilir. Çünkü mirasçılar TMK'nın 641. maddesi uyarınca murisin borçlarından müteselsilen sorumludurlar ve alacaklı BK'nın 142. maddesi uyarınca borcun tamamını müteselsil borçluların bir kısmından isteyebilir. Ancak, davacı dava arkadaşlarından (müteselsil borçlulardan) yalnız birine karşı dava açtıktan sonra, davayı dava arkadaşı olabilecek diğer kişilere teşmil edemez.
 
 ## Yargıtay 3. HD 2010/9433 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969335900)
+
 TMK 599.maddesi uyarınca "Mirasçılar mirasbırakanın borçlarından kişisel olarak sorumlu olurlar". Davalıların anılan hüküm uyarınca müteveffanın borçlarından ayrı ayrı sorumlu olmalarına göre aralarında zorunlu dava arkadaşlığı yoktur. Dolayısıyla mirasçılardan olduğu anlaşılan ve davaya dahil edilmesi için kesin süre verilen ...'e verilen sürede tebligat yapılmadığından bahisle davanın reddedilmesi doğru değildir.
 
 ## Yargıtay 14. HD 2007/7346 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849425500)
 
 Taşınmazın tapuya bağlanma tarihi 26.5.1999 olup, Kadastro Mahkemesi hükmü uyarınca tescilin yapıldığı açıktır. Ne var ki tescile esas teşkil eden Kadastro Mahkemesi hükmü 19.11.1997 tarihinde verilmiş ve hükümden önce ... 14.5.1996 tarihinde ölmüş bulunduğundan onun adına tescil edilmesi gereken 80/320 pay kanuni mirasçıları olan eşi Hayat ile çocukları ..., ..., ..., ... ve ... adlarına tescil edilmişlerdir.
 
@@ -164,9 +214,13 @@ Yukarıda adları sayılan ... mirasçıları, murislerinden intikal eden haklar
 
 ## Adana BAM 3. HD 2025/1503 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150653000)
+
 Somut olayda, kazaya karışan ... plakalı aracın işletenin kaza tarihi itibariyle ..., ..., ... ve ... miras bırakanı ... olduğu anlaşılmıştır. TMK'nun "Mirasçıların Sorumluluğu" başlıklı 641 maddesi "Mirasçılar, tereke borçlarından müteselsilen sorumludurlar." hükmü gereği, davacının zararının tamamından müteselsilen sorumludurlar. Bu nedenle davalılar vekilinin istinaf başvurusu haksız bulunmuştur.
 
 ## İstanbul BAM 44. HD 2021/483 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652871800)
 
 İcra Müdürlüğü'nün ... esas sayılı dosyasında borçlunun dosya davacıları, alacaklısının dosya davalısı olduğu, 15.000,00 USD bedelli bonoya dayalı takip başlatıldığı, açılan davanın, icra takibine konu bonoya dayalı İİK 72 maddesinde düzenlenen menfi tespit davası olduğu, taraflar arasında tartışmalı olan hususun ise; davaya ve takibe esas bonodan davacının sorumlu olup olmadığı, davalıların mirasın reddedilip edilmediği, edilmemişse miktarının ne olduğu, taraflar lehine tazminata hükmedilmesinin gerekip gerekmediği noktasında toplandığı, Yargılama esnasında davalı ... ölmekle mirasçılarının davaya dahil edildiği, davalı ...'ın İstanbul Anadolu 3 Sulh Hukuk Mahkemesi'nde açtığı mirasın gerçek reddi talepli davasının kabulüne karar verildiği, diğer mirasçı ... alacağını talep etmediğini bildirdiği,Mirasçıların sorumluluğunun düzenlendiği TMK madde 641'de; "Mirasçılar, tereke borçlarından müteselsilen sorumludurlar" ve müteselsil sorumluluğu düzenleyen BK'nun 142.maddesinde;
 "alacaklı müteselsil borçlularıncümlesinden veya birinden borcun tamamen veya kısmen edasını istemekte muhayyerdir" kuralları gereği, alacaklının borçlunun mirasçılarından biri veya tamamı aleyhine icra takibi yapabileceği, miras bırakanın borçlarından dolayı mirasçıların müteselsil ve şahsi sorumluluklarının olduğu, sorumluluğun, mirasın açılması anında başlayacağı,2004 Sayılı İİK'nın 72. maddesi gereğince açılan menfi tespit davalarında kural olarak ispat yükünün takip alacaklısına ait olduğu, istisnai nitelikte iddiada bulunan davalının bu iddiasını ispatlayacak yazılı belgeleri öncelikle HMK 288 ve devamı maddeleri gereği ortaya koyması gerektiği, Toplanan deliller ve tüm dosya kapsamına göre; davacı aleyhine icra takibine konu edilen bononun bedelsiz olması nedeniyle dava açıldığı, davalının yargılama esnasında ölmesi, davalı mirasçının hukuken reddi ile diğer mirasçının kabulü karşısında, davacının eldeki borçtan sorumluluğu kalmadığından, Bakırköy ....
@@ -175,6 +229,8 @@ Somut olayda, kazaya karışan ... plakalı aracın işletenin kaza tarihi itiba
 İcra Müdürlüğü'nün ... takip sayılı dosyasında, keşidecisi ..., lehtarı ... olan, 15/04/2016 tanzim ve 20/03/2017 vade tarihli 15.000,00 USD tutarlı bonodan dolayı borçlu davacı aleyhine icra takibi başlatılması sebebiyle, icra takibine konu senetten dolayı borçlu bulunmadığının tespiti talep edilmiştir. Takip alacaklısı davalı ...'ın 09/01/2020 tarihinde boşanmış olarak vefat ederek geriye mirasçı olarak, dahili davalılar annesi ... ve babası ...'ın kaldığı, mirasçı ...'ın İstanbul Anadolu 3 Sulh Hukuk Mahkemesi'nin 2020/1448-1521 esas ve karar sayılı kararı ile muris ... mirasını kayıtsız şartsız reddettiği, diğer mirasçı ... 09/11/2020 tarihli cevap dilekçesi ile, " alacak hakkımızdan feragat ettiğimizden, hiçbir alacakta gözüm yoktur, icra alacağı ile ilgili talebimden feragat ediyorum " şeklinde beyanda bulunduğu, kimlik tespitinin yapıldığı, dosya içerisinde mevcut dilekçesinin incelenmesinden tespit edilmiştir. Mahkemece yapılan yargılama sonunda; dahili davalı ... davalı murisin mirasını reddetmesi, diğer mirasçı ... kabulü karşısında, davacının takip konusu borçtan sorumluluğu kalmadığından bahisle davanın kabulü ile Bakırköy ....
 
 ## İstanbul BAM 12. HD 2019/1667 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560707100)
 
 …
 

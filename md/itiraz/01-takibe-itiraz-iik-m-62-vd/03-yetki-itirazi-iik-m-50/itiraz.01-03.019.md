@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 11. HD 2025/1802 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184963100)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece iddia, savunma ve tüm dosya kapsamına göre, dava konusu icra takip dosyasında davalı tarafça yasal süresinde Karşıyaka İcra Dairelerinin yetkili olduğu belirtilerek icra dairesinin yetkisine itiraz edildiği, taraflar arasında akdedilen sözleşmenin 12.3.d maddesinde "Taraflar bu sözleşmeden doğacak her türlü uyuşmazlıkların çözümlenmesinde Türk Hukukunun uygulanacağını ve İstanbul (Çağlayan) mahkeme ve icra daireleri ile Bankanın genel müdürlüğünün bulunduğu yerdeki mahkeme ve icra dairelerinin yetkili olacağını, kanunen yetkili mahkeme ve icra dairelerinin yetkilerinin saklı olduğunu kabul ederler." düzenlemesinin yer aldığı, sözleşmede kanunen yetkili olan icra dairelerinin yetkisinin devam ettiğinin kararlaştırıldığı, HMK'nın yetkiye ilişkin kurallarının uygulanacağı, ödeme emrinde ve dava dilekçesinde davalının adresinin Karşıyaka olarak belirtildiği ve bu adrese tebligat yapıldığı, yetki itirazında belirtilen Karşıyaka İcra Dairesinin yetkili icra dairesi olduğu, takibin yetkili icra dairesinde yapılmadığı anlaşılmakla yetkili icra dairesine yapılmış geçerli bir takip olmadığından davanın usulden reddine karar verilmiştir.
 
 …
@@ -37,6 +39,8 @@ Dava, genel kredi sözleşmesinden kaynaklı davalı yan itirazının iptali ist
 İzmir 6. Asliye Ticaret Mahkemesinin 09/04/2025 tarihli, 2024/459 esas ve 2025/347 karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 14. HD 2025/1779 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184641400)
 
 Davacı vekili dava dilekçesinde özetle; taraflar arasında imzalanan genel kredi sözleşmesine istinaden davalıya ticari kredi kullandırıldığını, borcun ödenmemesi üzerine 04.02.2020 tarihinde hesabın kat edilerek davalının sözleşmede yazılı adresine ihtarname gönderildiğini, ihtara rağmen borcun ödenmemesi üzerine İstanbul 18. İcra Müdürlüğünün ...Esas sayılı dosyasında başlatılan takibe yönelik itirazın ve yetki itirazının haksız olduğunu, sözleşmede İstanbul mahkemelerinin ve icra dairelerinin yetkili kılındığını, alacağın dayanağı olan 04.02.2020 tarihli ihtarnameye rağmen ödeme yapılmadığını, temerrüdün gerçekleştiğini, faiz oranlarının sözleşmeye uygun olduğunu ileri sürerek, takip dosyasına yapılan itirazın iptali ile icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
 
@@ -59,6 +63,8 @@ Davacı vekilinin istinaf başvurusunun HMK'nın 353/1.b.2 maddesi uyarınca kı
 
 ## İstanbul BAM 14. HD 2025/1753 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183694100)
+
 Dava; itirazın iptali istemine ilişkindir.
 
 …
@@ -75,6 +81,8 @@ Davalı vekilinin mahkemenin yetkisine yönelik istinaf sebebi ise tacir olan ta
 HMK'nın 353/1.b.2 maddesi uyarınca davalı vekilinin istinaf başvurusunun kısmen kabulü ile ilk derece mahkemesinin istinafa konu kararının faiz ve icra inkâr tazminatı yönünden düzeltilmek üzere kaldırılmasına …
 
 ## Sakarya BAM 5. HD 2025/1711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179516700)
 
 Davalı vekili cevap dilekçesinde özetle;
 
@@ -98,11 +106,15 @@ Her ne kadar davalı tarafça yetki itirazı ileri sürülmüşse de, araç tami
 
 ## Ankara BAM 24. HD 2025/1661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173882200)
+
 Dava; elektrik faturalarındaki aktif tüketim bedellenin hatalı girildiği gerekçesi ile yeniden oluşturulan ek tahakkuk bedelinin ödenmemesi nedeniyle başlatılan icra takibine itirazın iptali ile icra inkar tazminatı istemine ilişkindir.
 
 Davanın konusu sözleşmeden doğan bir para borcu olup, sözleşmede aksi kararlaştırılmamış ise, bu para borcu alacaklının ödeme zamanındaki ikametgahında ödeneceğinden yetki itirazının yerinde görülmemesinde isabetsizlik bulunmadığı, takibe itiraz dilekçesinin tebliğine dair bilgi bulunmadığından davanın süresinde açıldığı görülmektedir.
 
 ## İstanbul BAM 14. HD 2025/1649 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182182500)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin davalı şirkete 21.05.2020 çıkış tarihli Küçükçekmece/İstanbul ile Mulhouse/Fransa arasında verildiği taşıma hizmeti karşılığı düzenlenen faturaların ödenmediğini, faturaların navlun, varış gümrükleme ücreti ve ADR sınıfı emtia taşıma farkı olduğunu, faturaların davalı şirkete tebliğ edilmesine rağmen ödenmediğini, 3.825,00 Euro bedelli fatura alacağının tahsili amacıyla İstanbul Anadolu 7. İcra Müdürlüğünün ...
 
@@ -116,6 +128,8 @@ Son olarak, kabule göre de taşıma sözleşmesinden kaynaklanan alacak davası
 HMK'nın 353/1.a.4 maddesi uyarınca, ilk derece mahkemesinin istinafa konu kararının kaldırılmasına …
 
 ## İstanbul BAM 13. HD 2025/1648 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177962500)
 
 Davacı vekili istinaf dilekçesinde özetle; İstanbul Anadolu 12. Asliye Ticaret Mahkemesi'nin 2024/993 E.
 
@@ -156,6 +170,8 @@ Taraf vekillerinin İlk Derece Mahkemesi kararına ilişkin istinaf başvurusunu
 
 ## Ankara BAM 21. HD 2025/1591 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193489100)
+
 Davalı; Şirketin enerji nakil hattı ya da aydınlatma direkleriyle ilgili görev ve sorumluluğu bulunmayıp kusuru da olamayacağını, dava konusu uyuşmazlığın bölgelerinin elektrik dağıtım şirketini ilgilendirdiğini, kendisinin elektrik dağıtım şirketi olmadığını, kendisine husumet yöneltilemeyeceğini savunarak davanın reddine karar verilmesini istemiştir.
 
 …
@@ -180,6 +196,8 @@ Davacı vekilinin istinaf başvurusunun HMK'nın 353/(1)-b.1 maddesi gereğince 
 
 ## İstanbul BAM 14. HD 2025/1576 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179611500)
+
 Davacı vekili, dava dilekçesinde özetle; müvekkili şirketi tarafından davalı borçlu şirkete 24.05.2024 tarihli faturaya konu ... ... (With Mbus) ve ...-100KTL-M2(AFCI) isimli ürünlerin satıldığını, davalıya satılan ürünlerin bedelinin dosyaya sunulan faturadan da görüleceği üzere 59.040,00 euro olup davalı borçlunun bu tutarın yalnızca 40.050,00 Euro'luk kısmının ödendiğini, davalıdan bakiye alacağın talebi amacıyla Beyoğlu 33. Noterliğinin ... yevmiye numaralı, 17 Ocak 2025 tarihli ihtarnamesinin keşide edildiğini, ihtarname ile borçluya üç gün daha ödeme süresi verilmiş ise de borç ödenmediği gibi ihtarnameye herhangi bir cevap da verilmediğini, borçlu şirket aleyhine ilgili faturadan kaynaklı bakiye alacağın tahsili istemiyle İstanbul 3.
 
 …
@@ -190,6 +208,8 @@ Ve ihtiyati haciz kararı tarihinde davalı şirketin ticari merkezinin, Ankara 
 İcra dairesinin yetkisine itiraz edilmemiş olması mahkemenin yetkisine itiraza engel olmayacağı gibi daha sonraki aşamada verilecek ihtiyati haciz kararına yönelik de mahkemenin yetkisine itiraz edilmesine dair engel bir düzenleme mevcut değildir. Bu nedenle mahkemece ihtiyati haciz kararına yönelik olarak mahkemenin yetkisi yönünden yapılan itirazın kabulü ile ihtiyati haciz kararının kaldırılmasına dair ara kararda bir isabetsizlik görülmediğinden çoğunluğun aksi görüşü benimsenmemiştir.
 
 ## İstanbul BAM 45. HD 2025/1564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188177400)
 
 Davacı vekili dava dilekçesinde; müvekkili ile davalı arasında ticari amaçlı taşıt kredi ve rehin sözleşmesi imzalandığını, sözleşme kapsamında davalıya taşıt kredisi kullandırılmasına rağmen davalı tarafından borçun taahhüt edildiği gibi ödenmemesi üzerine hesabın kat edilerek tüm borcun muaccel hale geldiğini, davalı hakkında başlatılan İstanbul Anadolu 16. İcra Dairesi'nin ... E., ...
 

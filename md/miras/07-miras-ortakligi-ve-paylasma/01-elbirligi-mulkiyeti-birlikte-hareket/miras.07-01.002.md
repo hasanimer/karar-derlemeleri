@@ -84,6 +84,8 @@ Bu nedenle Bölge Adliye Mahkemesi kararında yer alan, "limited şirketlerde mu
 
 ## Yargıtay 1. HD 2026/1960 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209408300)
+
 Dava, yolsuz tescil hukuki nedenine dayalı tapu iptali ve tescil, olmadığı takdirde bedel istemine ilişkindir.
 
 …
@@ -101,6 +103,8 @@ Terekeye atanan temsilci, bir kısım mirasçının açtığı davaya icazet ver
 Her ne kadar miras ortaklığı 4721 sayılı Kanunun 701 ve devamı maddeleri uyarınca elbirliği mülkiyetine tabi olup terekeye ait haklar üzerinde tasarruf niteliğindeki alacak davalarının zorunlu dava arkadaşlığı gereği tüm mirasçılar tarafından birlikte açılması gerekir ise de terekeye ait bir hakkın borçlusunun mirasçılardan biri olması halinde aksi yönde bir hüküm bulunmadığından diğer mirasçıların o mirasçıya karşı dava açabilecekleri kabul edilmektedir (Prof. Baki Kuru, Hukuk Muhakemeleri Usulü, 1.Cilt, 997 vd.sy.,2001/...).
 
 ## Yargıtay 1. HD 2026/1656 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209140700)
 
 Dava, vekalet görevinin kötüye kullanılması hukuki nedenine dayalı tapu iptali ve tescil, olmadığı takdirde bedel istemine ilişkindir.
 
@@ -138,22 +142,32 @@ Hâl böyle iken, yukarıda yazılı açıklamalara aykırı olarak sözleşmeni
 
 ## Yargıtay 12. HD 2026/268 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202382800)
+
 Tapuda adına kayıtlı taşınmazına haciz konulan takip borçlusu, haczedilemezlik şikayetinde bulunabilme hakkına sahiptir. Borçlunun, kendisine ait müşterek veya iştirak halindeki hisseli bir mesken için de haczedilmezlik şikayetinde bulunması mümkündür. Bunun gibi, tapuda mesken niteliğini taşımakla beraber, borçlunun murisi adına kayıtlı henüz paylaşılmamış ve tapuda borçlu adına intikal görmemiş miras payının haczi halinde de borçlunun meskeniyet şikayetinde bulunabileceği kuşkusuzdur. Taşınmazın arsa olarak tapuda kayıtlı olması, üzerinde konut niteliğini haiz bir yapı bulunduğu sürece borçlunun meskeniyet şikayetinde bulunmasına engel değildir.
 
 ## Yargıtay 12. HD 2025/7528 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193585500)
 
 Miras ortaklığı (şirketinin) taraf ehliyeti ve tüzel kişiliği yoktur. Mirasçılar terekeye elbirliği ile sahip olurlar. Bu halde kiraya verilmiş olan taşınmaz için ilamsız tahliye takibine bütün mirasçılar tarafından birlikte açılması gerekir. Mirasçılar arasında zorunlu takip arkadaşlığı vardır. Takip sonrasında kiraya verenin ölümü nedeniyle kiralanan taşınmazın elbirliği mülkiyetinin paylı mülkiyete çevrilmesi sonrasında ilamsız tahliye takibinden ötürü taşınmaz üzerinde pay ve paydaş çoğunluğuna sahip paydaşlar tarafından takip yapılması usul ve yasaya uygundur. Mahkemece borçlunun borca itirazlarının incelenerek sonucuna göre bir karar verilmesi gerekirken, kiralanan taşınmaz üzerinde elbirliği mülkiyeti olduğu için elbirliği halindeki malikler arasında zorunlu takip arkadaşlığının bulunduğu, bütün paydaşların birlikte takip yapmadıkları bu hususun kamu düzenine ilişkin olduğundan bahisle mahkemece re'sen davanın reddine karar verilmesi isabetsizdir.
 
 ## Yargıtay 8. HD 2025/6582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198410800)
+
 Bunlardan ayrı, birleşen davanın davacıları 1976 tarihli noterde düzenlenmiş olan satış vaadi sözleşmesine dayalı olarak dava açmış olup, bu tarihlerde dava konusu taşınmazların iştirak halinde mülkiyete tabi olup olmadığı değerlendirilmemiştir. Ayrıca; 3402 sayılı Kanun'un 13/B-b maddesinde tapulu taşınmazların zilyedinin taşınmaz malı kayıt malikinden veya mirasçılarından veya mümessillerinden tapu dışı bir yolla iktisap ettiğini, onların beyanı veya herhangi bir belge ile veya bilirkişi veyahut tanık sözleriyle ispat ettiği ve ayrıca en az on yıl müddetle çekişmesiz, aralıksız ve malik sıfatıyla zilyet bulunduğu takdirde zilyet adına tespit yapılacağı hükmündeki şartların davacı taraf yararına gerçekleşip gerçekleşmediği de tartışılmamıştır.
 
 ## Yargıtay 2. HD 2025/6401 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161369800)
 
 Yapılan yargılama ve toplanan delillerden müteveffa ...'nın 31.01.2021 tarihinde vefat ettiği, davacı dışında murisin başkaca mirasçılarının da olduğu anlaşılmaktadır. Somut olayda öncelikle davacı ...'un dava dilekçesi ile taşınmazın eşinin hissesi kadarının kendisine intikal etmesi gerektiği iddiasıyla kendi adına tescil isteğinde bulunduğu anlaşılmaktadır. İştirak halinde mülkiyete konu terekede, TMK'nın 702. maddesi uyarınca bir veya birden çok mirasçı, terekeye göre üçüncü kişi konumunda bulunan kişilere karşı, kendi miras payına/ paylarına yönelik dava açma hakkına sahip olmayıp, bir nevi tasarruf işlemi olan dava açılması işleminde tüm mirasçıların birlikte hareket etmesi gerekmektedir. Bu cümleden olmak üzere; tüm mirasçıların eşyanın terekeye döndürülmesi istemine ilişkin birlikte hareket ederek dava açma hali ya tüm mirasçıların birlikte dava açması yada bir veya birden fazla mirasçının açtığı davaya diğer mirasçıların yöntemince muvafakat etmeleri ve yahut murisin terekesine temsilci atanması hallerinde mümkündür.
 O halde Mahkemece yapılması gereken iş öncelikle dava dışı mirasçıların davaya muvafakatinin usulünce alınması, mirasçılarca onay verilmemesi halinde terekeye temsilci tayin edilmesi yolu ile yeniden yargılama yapılaması ve sonucu uyarınca bir karar verilmesinden ibarettir. Mahkemece bu hususlar gözetilmeksizin yazılı şekilde karar verilmiş olması doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2025/6016 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194930000)
 
 Dava, kadastro öncesi nedene dayalı tapu iptali ve tescil ile tapusuz taşınmazın tescili istemine ilişkindir.
 
@@ -164,6 +178,8 @@ Taşınmazın, murisin terekesine dahil olması, yani muristen gelen taşınmaz�
 
 ## Yargıtay 1. HD 2025/5194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205749300)
+
 Dava; kadastro öncesi nedene dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -171,5 +187,7 @@ Dava; kadastro öncesi nedene dayalı tapu iptali ve tescil istemine ilişkindir
 Bilindiği üzere; mirasbırakandan mirasçılara intikal eden taşınmazlar 4721 sayılı TMK'nın 701. ve 702. maddeleri gereğince elbirliği mülkiyet hükümlerine tabidir. Elbirliği mülkiyetinde, mirasçıların belirlenmiş payları olmayıp her birinin payı tescili istenen taşınmazın tamamı üzerinde söz konusudur. TMK'nın 702. maddesi gereğince, tasarrufi işlemlerde oy birliği aranır. Dava da bir tasarrufi işlem olup tüm mirasçıların üçüncü kişilere karşı birlikte dava açmaları zorunludur. Mirasbırakanın başka mirasçılarının bulunması halinde bir mirasçının terekeye dahil bir taşınmaz için mirasçı olmayan kişilere karşı kendi adına dava açma hakkı bulunmamaktadır.
 
 ## Yargıtay 12. HD 2025/5066 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169754400)
 
 Adi kira ve hasılat kiralarına özgü örnek 13 nolu ilamsız icra takibinde, borçlu kiracının icra mahkemesine başvurusunda ileri sürdüğü itiraz ve şikayetini ödeme emrinin tebliğinden itibaren süresinde icra dosyasına da bildirmesi üzerine takibin durdurulduğu görülmekle, her ne kadar, TMK'nın 640/2. 701. ve 702. maddeleri uyarınca elbirliği halinde mülkiyetin söz konusu olduğu hallerde tahliye istenebilmesi için taraflar arasında zorunlu takip ve dava arkadaşlığı gerekli ise de; tahliyesi istenen mecurun elbirliği mülkiyetine tabi olduğundan bahisle mirasçılar arasında zorunlu dava arkadaşlığı bulunduğu, icra takibinin tüm mirasçılar tarafından birlikte başlatılması gerektiği iddiasının alacaklı kiralayan tarafından açılacak itirazın kaldırılması ve tahliye davasında değerlendirilebileceğinin tabii bulunmasına, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, temyiz olunan Bölge Adliye Mahkemesi kararında yazılı gerekçelere göre yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 5311 Sayılı Kanun ile değişik İİK'nın 364/2. maddesi göndermesiyle uygulanması gereken 6100 Sayılı HMK'nın 370.

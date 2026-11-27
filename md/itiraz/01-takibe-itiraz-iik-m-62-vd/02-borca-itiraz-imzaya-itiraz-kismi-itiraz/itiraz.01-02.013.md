@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2025/71 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113676200)
+
 A.Ş arasında, kamu idaresince ihale edilen ve inşasını davacı şirket ve yetkilileri tarafından yapılacağı kararlaştırılan, Trabzon ili, Araklı İlçesi, ... işinin davalılardan pozitif şirketine devri konusunda, 07/08/2019 tarihli devir sözleşmesi imzalandığını, işin yapımının davalılardan pozitif şirketine bırakıldığını, işin yapılmaya başlandığı sırada diğer davalı şirket ...Şti. yetkililerince telefonla arandıklarını ve kendilerine ait bir çek yaprağı ile ilgili icra takibi yapıldığını ve yine diğer bir çek yapraklarının piyasada sorulduğunu ve arkasında ... şirketinin cirosunun bulunduğunu ve yine... şirketinin bu işlemden haberi olup olmadığının sorulduğunu, pozitif şirketi ise; bu konuda bir tasarruflarının bulunmadığını bildirildikten sonra söz konusu çekin görüntüsünün gönderilmesini istediklerini, çek görüntüsünün incelendiğini, ... şirketi adına sahte imza ve kaşe kullanılarak ciro işleminin yapıldığının tespit edildiğini, icra dosyasına konu çek incelendiğinde ise bilirkişi incelemesi neticesinde davacı şirketin kendi unvanını çizerek müvekkili şirket ...
 Yapı'nın unvanının yazıldığını ve devamında ... şirketinin kaşesinin sahte olarak tatbik edildiğini ve şirket yetkilisine ait olmayan bir imzanın tatbik edildiğini, davacı tarafça asılsız iddialarla var olmayan bir borç ilişkisi ihdas edilmeye çalışıldığını, müvekkilinin böyle bir borcu bulunmadığını, davacının davasını ispat etmesi gerektiğini belirterek; davanın reddine, davacı aleyhine, alacağın %20'sinden az olmamak koşuluyla kötüniyet tazminatına ve %10'u oranında para cezasına hükmedilmesine karar verilmesini talep etmiştir.Davaya bakan İstanbul Anadolu 13. Asliye Ticaret Mahkemesi davaya İstanbul Ticaret Mahkemesince bakılması gerektiğinden bahisle yetkisizlik kararı vermiştir. Dosyanın yetkisizlik ile gönderildiği İstanbul 18. Asliye Ticaret Mahkemesince 11/07/2024 tarihli karar ile;Davalı ...
 
@@ -29,6 +31,8 @@ Yapı'nın unvanının yazıldığını ve devamında ... şirketinin kaşesinin
 olmasının gerektiği, (Yargıtay 12. HD'nin 01.06.2017 tarihli, 2016/16563 E, 2017/8619 K. sayılı içtihadı). davacı alacaklının icra dairesinin yetkisine yönelik seçimlik hakkını borçlu ... A.Ş.'nin sicile kayıtlı olduğu adres uyarınca İstanbul Anadolu İcra Daireleri yönünde kullanmış olduğu, sözleşmenin tarafı olan diğer borçlu... A.Ş. Tarafından 16/07/2020 tarihinde borca itiraz edildiği ancak yetki itirazında bulunulmadığı, zira işbu borçlunun şirket merkezinin Ümraniye / İSTANBUL olması sebebiyle icra dairesinin yetkili olduğu, HMK m.17 hükmü uyarınca icra dairesinin yetkisine yönelik olarak yetki itirazı ileri sürülmeyerek icra dairesinin yetkili kabul edilmiş olduğu, davalı borçlu... Ltd. Şti. tarafından ise borca ve yetkiye itiraz edilmiş olduğu 17.07.2020 tarihi itibari ile artık diğer borçlu bakımından kesinleşen bir yetkinin bulunması sebebiyle HMK m.7 hükmü uyarınca yetki itirazında bulunamayacağından davalı ...'un yetki itirazının reddine karar verildiği, davalı ...
 
 ## İstanbul BAM 14. HD 2025/54 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113916200)
 
 Sigortanın hasar tazminini reddettiği, yangının balataların aşırı ısınması sonucunda meydana geldiğinin itfaiye teknik incelemesi sonucunda anlaşıldığı, ihbar sonucu incelemede hadise ile ilgili fotoğrafların temin edildiği, malın imhası talep edilip imha masraflarının 15.800,00 TL tutarında olduğu, davalı şirket tarafından tazmin edildiği, zayi olan mal miktarının fatura bedeli 37.400,00 USD olduğunun belirtildiği, davacı sigorta şirketi tarafından 13.11.2018 tarihinde dava dışı sigortalıya 37.213,00 USD hasar bedelinin ödendiği, dava dışı sigortalı şirket tarafından davacı şirkete hasar bedeline ilişkin olarak yazılı temliknamenin düzenlenmiş olduğu, davacı vekili tarafından hasar bedeli 37.213,00 USD ile işlemiş faiz 703,48 USD olmak üzere toplam 37.916,48 USD alacağın tahsili amacıyla davalılar hakkında 08.03.2019 tarihinde İstanbul Anadolu ... İcra Müdürlüğünün ...
 
@@ -44,10 +48,14 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-HMK'nın 353/1.b.1 maddesi uyarınc
 
 ## İstanbul BAM 3. HD 2025/49 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104563300)
+
 İcra Dairesi'nin 2024/26433 Esas sayılı dos- yası üzerinden takibine girişilen borca itirazının iptaliyle takibin takip talebindeki şartlarla devamına, davalı yanın %20’den aşağı olmamak kaydı ile icra inkâr tazminatına mahkûm edilmesine, yargılama gideri ve vekalet ücretinin davalı yana tahmiline karar verilmesini talep ve dava etmiştir.Davalı vekili cevap dilekçesinde;Müvekkilinin kaçak elektrik faturası tanzim edilen "..." adresinde herhangi bir abonelik sözleşmesi bulunmadığını, bahse konu kaçak elek- trik tespit tutanağında sayaç olmadan kaçak elektrik kullanıldığının açıkça belirtildiğini, yine müvek- kilinin tacir sıfatını haiz olmadığını,davanın Asliye Hukuk Mahkemesi'nce görülmesinin gerektiğini, Asliye Ticaret Mahkemesi'nin görevsiz olduğunu,Diğer yandan, hukukun en temel ilkelerinden biri olan 'cezaların şahsiliği' ilkesinin, bir kimsenin işlemediği bir fiilden dolayı cezalandırılmaması anlamına geldiğini, dava konusu faturanın kesildiği adresin müvekkiline ait olmadığını, müvekkili adına herhangi bir kira sözleşmesi bulunma- dığı gibi müvekkilinin bu adreste mülkünün de bulunmadığını, bahse konu şantiyenin kime ait olduğu tespit edilmeden müvekkili adına kaçak elektrik
 faturası kesilmesinin açıkça hukuka aykırı olduğunu, Netice itibariyle; müvekkilinin kaçak elektrik kullanmadığını, kaçak elektrik tüketim ve kullanım bedeli talebine dayanak olarak ileri sürdüğü haksız eylem nitelikli kaçak elektrik kullanım iddiasını ispatla yükümlü olan davalının bu hususta herhangi bir delil sunmadığını,Somut uyuşmazlığın tarafı ve özel hukuk tüzel kişisi olan davalı şirket tarafından tek taraflı olarak düzenlenen ve müvekkilin imzasını içermeyen kaçak elektrik tespit tutanağının, aksi ispatlanıncaya kadar geçerli bir belge olmadığını, müvekkilinin mezkûr kullanım yerinde kaçak elek- trik kullanmadığı, davalı şirkete herhangi bir borcu olmadığı hususunun uzman bilirkişi incelemesi ile ortaya çıkacağını, Müvekkili aleyhinde dava konusu elektrik faturasının tanzim edilmesi üzerine Büyük- çekmece 6. Asliye Hukuk Mahkemesinin 2024/383 E. Sayılı dosyasıyla menfi tespit davası açıldığını ve bu davanın halen derdest olduğunu beyanla;davanın reddini ,İstanbul ...
 
 ## Adana BAM 9. HD 2025/42 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108888700)
 
 Davacı vekili dava dilekçesi ile; davacı şirket davalı tarafa otomasyon hizmeti (otomasyon sistemleri, kontrol panosu, malzeme tedariki, yazılım, programlama, işçilik) verdiğini, cari hesap nedeniyle davalı taraftan bakiye 652.455,99.TL alacağının bulunduğunu, .... İcra Müdürlüğü'nün ... sayılı dosyası ile icra takibi başlatıldığını, davalı tarafın haksız itirazı ile takibin durdurulduğunu, ileri sürülerek itirazın iptaline ve % 20 icra inkâr tazminatına karar verilmesi talep edilmiştir.
 
@@ -67,11 +75,15 @@ Somut olayda, davacı tarafından davalı aleyhine cari hesaba dayalı bakiye al
 
 ## İstanbul BAM 3. HD 2024/3109 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088604900)
+
 Takipte gösterilen ve hesaplanan alacak, bu alacağa işletilen faiz ve faiz oranı ile diğer tüm ferilerine itiraz ediyoruz böyle bir borcun kabulü mümkün değildir.
 " denilerek borca itiraz edildiği, İcra Müdürlüğü'nce takibin durdurulmasına karar verildiği,5.) Akabinde 04.07.2022 tarihinde "menfi tespit" talepli asıl davanın, 16.11.2022 tari- hinde de "itirazın iptali" talepli birleşen davanın açıldığı anlaşılmaktadır.Uyuşmazlık dosya içeriğine göre kaçak kullanımın bulunup bulunmadığı, dayanak tutanak kapsamında ödenmesi gereken alacak miktarının ne olduğu hususunda toplanmaktadır.Dava konusu borcun dayanağını oluşturan tutanak tarihleri itibariyle yürürlükte bulunan 30.05.2018 tarihli ''Elektrik Piyasası Tüketici Hizmetleri Yönetmeliği" nde;Kaçak ve Usulsüz Elektrik Enerjisi TüketimiKaçak elektrik enerjisi tüketimi halleri MADDE 42 – (1) Gerçek veya tüzel kişinin kullanım yerine ilişkin olarak; a) Perakende satış sözleşmesi veya ikili anlaşma olmaksızın dağıtım sistemine müdahale ederek elektrik enerjisi tüketmesi,b) Perakende satış sözleşmesi veya ikili anlaşması mevcutken ayrı bir hat çekmek suretiyle dağıtım sistemine müdahale ederek sayaçtan geçirilmeksizin elektrik enerjisi tüketmesi,c) Perakende satış sözleşmesi veya ikili anlaşması mevcutken sayaçlara veya ölçü sistemine müdahale ederek, tüketimin doğru tespit edilmesini engellemek
 suretiyle,eksik veya hatalı ölçüm yapılması veya hiç ölçülmeden veya yasal şekilde tesis edilmemiş sayaçtan geçirilerek, mevzuata aykırı bir şekilde elektrik enerjisi tüketmesi,ç) Dağıtım lisansı sahibi tüzel kişinin ilgili mevzuata uygun olarak kestiği elektrik enerjisini, mücbir sebep halleri dışında açması, kaçak elektrik enerjisi tüketimi olarak kabul edilir. Kaçak elektrik enerjisi tespit süreci MADDE 43 – (1) 42 nci maddenin birinci fıkrasının (a) ve (b) bentleri kapsamında doğrudan dağıtım sistemine yapılan müdahalelerde dağıtım sistemine olan bağlantılar ortadan kaldırılır.
 
 ## İzmir BAM 17. HD 2024/2164 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112255800)
 
 MAHKEMECE: "...,Toplanan deliller ve tüm dosya kapsamı bir bütün olarak değerlendirildiğinde; Davacı yanın sigortalısı dava dışı .....Şti ile ile davalı yan arasında taşıma sözleşmesi bulunmadığı, taraflar arasında sözleşme ilişkisinin kurulmadığı, fiili taşıyıcı ...-... ile davalı yan arasında da sözleşme ilişkisi bulunmadığı, dolayısı ile halefiyet ilkesi gereğince dava açan davacı ile davalı arasında yürütülen icra takibinde yetkili yerin genel yetki kuralları çerçevesi ile değerlendirilmesi gerektiği, İİK 50.maddesi yetki hususunda HMK'ya atıf yapmakla; taraflar arasında sözleşme ilişkisi bulunmadığı, genel yetki kuralları uyarınca 6100 sayılı HMK 6.madde uyarınca davalının yerleşim yerinin yetkili olduğunun anlaşıldığı, bu hali ile davalı ...
 
@@ -93,10 +105,14 @@ Diğer bir husus ise davalı tarafından, açılan itirazın iptali davasında m
 
 ## İstanbul BAM 3. HD 2024/2140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066342000)
+
 Asıl dava menfi tesbit talebine ilişkin olup,birleşen dava ise aynı faturalarla ilgili takipteki borca itirazın iptali talebine ilişkindir.Her iki dava arasındaki sıkı irtibat sebebiyle ,davalar birleştirilerek yargılama yürütülmektedir.Davaya konu tutanağın, bir özel hukuk tüzel kişisi olduğu tartışmasız olan davalı şirkette hizmet akdiyle çalışan görevliler tarafından düzenlenmiş olduğu gözetildiğinde, 6100 sayılı Kanun'un 204. maddesinin ikinci fıkrasında hüküm altına alınan belgelerden olmadığı tartışmasızdır. Eş söyleyişle, kaçak elektrik tutanağı, aksi sabit oluncaya kadar geçerli belgelerden değildir. ( Yargıtay 3.
 Hukuk Dairesi'nin 21.10.2021 tarihli ve 2021/4894 E., 2021/10580 K. sayılı kararı da aynı yöndedir.)Ancak; karşı tarafın istinaf dilekçesine karşı verdiği cevap dilekçesindeki beyanları ,tutanak sırasında mahalde hazır olup tutanağı imzalamaktan imtina ettiği,fotoğraflar gibi hususlar dikkate alındığında ;talep eden tarafça dosyaya sunulan yukarıdaki belge içeriklerine göre , talebin para alacağına ilişkin bulunduğu , somut olay ve dava konusu bakımından yaklaşık ispat koşulunun faturadaki enerji tüketim bedeli yönünden yerine getirildiği, dava konusu alacağın muaccel olduğu ve ödenmediği, rehin ile temin edilmediği , bu aşamada mevcut delil durumuna göre , İİK'nın 257. md. hükmü koşullarının somut olayda gerçekleştiği değerlendirilerek ihtiyati haciz talebinin kabulüne karar verilmesi gerekirken, reddine karar verilmesi usul ve yasaya aykırı görüldüğünden, talep edenin istinaf başvurusunun kabulüyle, ilk derece mahkeme kararı HMK 353/1-b-2 maddesi uyarınca kaldırılarak ,talep edenin teminat karşılığında ihtiyati haciz talebinin kabulüne karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 12. HD 2024/1870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104053200)
 
 Dava, genel kredi sözleşmesinden kaynaklanan borç için verilen ipoteğin paraya çevrilmesi amacıyla başlatılmış icra takibine itirazın iptali istemine ilişkindir.
 
@@ -109,6 +125,8 @@ Yukarıda belirtilen usuli ve davanın esasına etki edecek eksiklikler giderilm
 HÜKÜM: Yukarıda açıklanan nedenlerle: Davalı ... vekilinin istinaf başvurusunun kabulüne, İstanbul 20. Asliye Ticaret Mahkemesi'nin 2020/23 Esas - 2021/471 Karar sayılı 10/06/2021 tarihli kararının tüm davalılar açısından HMK'nın 353(1)a-4-6 gereği KALDIRILMASINA; "Dava yeniden görülmek üzere dosyanın kararı veren mahkemeye gönderilmesine" Davalı ... tarafından yatırılan 10.240 …
 
 ## İstanbul BAM 13. HD 2024/1772 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1084628400)
 
 Dava, genel kredi sözleşmesinden kaynaklı alacağın tahsili talebiyle başlatılan icra takibine itiraz üzerine açılan itirazın iptaline ilişkindir.
 
@@ -130,6 +148,8 @@ Göre %46,80 olarak banka hesaplamasının usule uygun olduğu, takipteki alacak
 
 ## İstanbul BAM 13. HD 2024/1437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072579300)
+
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ: İlk Derece Mahkemesi 29/11/2021 tarih 2019/881 Esas - 2021/927 Karar sayılı kararında; "Bakırköy ... İcra Müdürlüğünün .. takip sayılı dosyasının celp ve tetkikinde davacı tarafından davalı aleyhine cari hesap alacağına dayalı olarak toplam 89.365,68-USD üzerinden icra takibi yaptığı, davalı tarafın takip konusu alacağın 71.686-USD'lik kısmına itiraz ettiği ve mahkememizde de kısmi itiraza yönelik olarak itirazın iptali davası açıldığı anlaşılmıştır.
 
 …
@@ -142,6 +162,8 @@ hesaplanan 50.494,00-TL icra inkar tazminatının davalıdan alınarak davacıya
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davalının istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b1 maddesi gereğince ESASTAN REDDİNE …
 
 ## Ankara BAM 21. HD 2024/1203 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102576900)
 
 Davalı vekili cevap dilekçesinde özetle; dava dışı asıl borçlu şirket hakkında konkordato tasdik kararı verildiğini, asıl borçlunun borçlarının yapılandırıldığını, projede belirlenen vadede borcun ödenmesine karar verildiğini, İİK'nun 284. maddesine göre asıl borçluya takip yapılamadığından davacı tarafından müvekkili kefil aleyhine icra takibi yapıldığını, davacının kefil aleyhine icra takibi yapmakta hukuki yararının bulunmadığını bildirerek davanın reddini istemiştir.
 

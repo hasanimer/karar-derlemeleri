@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 12. HD 2025/913 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159784700)
+
 Dava, davacıların keşideci ve avalist olarak yer aldığı bonoya dayalı icra takibi nedeniyle borçlu olunmadığının tespiti istemine ilişkindir.
 
 …
@@ -34,9 +36,13 @@ Buna göre davacıların 76.591,36-TL asıl alacak, 415-TL işlemiş faiz ve 229
 
 ## İstanbul BAM 40. HD 2025/872 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154226300)
+
 Öte yandan, maddi ve manevi tazminat davaları yönünden harç, yargılama gideri ve vekâlet ücretlerinin ayrı ayrı hesaplanması gerekirken, manevi tazminatlardan sorumluluğu olmayan ve aleyhine de manevi tazminata hükmolunmayan davalılar ... Sigorta AŞ ve ... Sigorta AŞ'nin, maddi tazminat davaları ile manevi tazminat davalarının tümü için sarf edilen yargılama giderleri ile tazminatların toplamı üzerinden hesaplanan karar ve ilam harcının mahsup edildiği peşin yatırılan karar ve ilam harcının tamamından müştereken ve müteselsilen sorumlu tutulmaları yerinde değildir. Yukarıda açıklanan Dairemiz kararının gerekçeleri karşısında, davacılar vekili ile davalılar ..., ... Sigorta AŞ ve ... Sigorta AŞ vekillerinin dilekçelerinde ileri sürdükleri diğer istinaf nedenleri bu aşamada inceleme dışı bırakılmıştır.
 
 ## İstanbul BAM 45. HD 2024/641 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033252400)
 
 Dava dışı ...AŞ şirketinin hisselerinin devrine münhasır düzenlenen bir sözleşme olup sözleşmenin "B-Şirketin Sevk ve İdaresine İlişkin Esaslar" başlığı altında ... Ortaklarının Garantörlüğünün düzenlendiği 8.3.maddesi genel işlem koşulu niteliğinde değildir.TBK'nın 128.maddesinde; "Üçüncü bir kişinin fiilini başkasına karşı üstlenen, bu fiilin gerçekleşmemesinden doğan zararı gidermekle yükümlüdür. Belirli bir süre için yapılan üstlenmede, sürenin bitimine kadar üstlenene edimini ifa etmesi için yazılı olarak başvurulmaması hâlinde, üstlenenin sorumluluğunun sona ereceği kararlaştırılabilir." (818 sayılı TBK m.110) hükmüne yer verilmiştir. Yasal düzenleme ile sözleşme hükümleri bir arada değerlendirildiğinde; davalı gerçek kişilerin garantör sıfatıyla cezai şarttan sorumlu oldukları anlaşılmaktadır.
 Ancak TBK'nın 603.maddesinde "Kefaletin şekline, kefil olma ehliyetine ve eşin rızasına ilişkin hükümler, gerçek kişilerce, kişisel güvence verilmesine ilişkin olarak başka ad altında yapılan diğer sözleşmelere de uygulanır." hükmü uyarınca istinaf yoluna başvuran davalı gerçek kişilerin sorumluluklarının TBK'nın 583 ve 584.maddeleri de dikkate alınarak değerlendirilmesi gerekmektedir.Vekalet ücreti Cezai şart isteminin reddedilen kısmı yönünden vekalet ücretine hükmedilmesi gerektiği davalılar tarafından istinaf sebebi olarak ileri sürülmüş ise de, yukarıda açıklandığı üzere cezai şarttan indirim yapılıp yapılmayacağı, sözleşmede kararlaştırılan cezai şart miktarının borçlunun ekonomik mahvına sebep olacak düzeyde fahiş olması halinde yapılacak indirim miktarı hakimin takdirinde olup, davacı tarafından bu hususların önceden bilinmesi mümkün olmadığından reddedilen cezai şart miktarı üzerinden davalı yararına vekalet ücretine hükmedilemez.Yargıtay 11. Hukuk Dairesi'nin 21/12/2023 tarihli 2023/724 E 2023/7577 K.;
@@ -51,12 +57,16 @@ Ayrıca her iki davada verilecek hüküm sonuçları birbirinden farklıdır. Bu
 
 ## Ankara BAM 35. HD 2024/507 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019722300)
+
 Bu bağlamda, davacıların her birinin murislerinin ölümü nedeniyle ayrı ayrı hem maddi hem manevi tazminat talep etmiş oldukları, mahkemece her bir davacının davasının diğerinden bağımsız olduğu gözden ırak tutularak, destekten yoksun kalma tazminatı talebi yönünden davacı ... yönünden tam kabule, diğer davacıların talebinin ise reddine karar verildiği halde destekten yoksun kalma tazminatı talebi yönünden davanın kısmen kabulüne karar verilmesi, aynı şekilde manevi tazminat talebi yönünden davacı ... yönünden tam kabule, diğer davacılar yönünden kısmen kabul kısmen redde karar verildiği halde manevi tazminat talebi yönünden davanın kısmen kabulüne karar verilmesi, sadece davacı ... lehine destekten yoksun kalma tazminatına hükmedildiği halde hükümde bu hususta açıklık getirilmeksizin vekalet ücretinin davalılardan müştereken ve müteselsilen alınarak davacıya verilmesi şeklinde hüküm tesis edilmesi, manevi tazminat talepleri kısmen reddedilen davacılar ... ve ... yönünden AAÜT hükmüne göre ayrı ayrı olmak üzere davalı ... lehine vekalet ücreti verilmesi gerekirken, kararda yazılı olduğu şekilde ret edilen manevi tazminat toplamı üzerinden vekalet ücretine hükmedilmesi, destekten
 yoksun kalma tazminatı talepleri reddedilen davacılar ... ve ... yönünden kendisini vekil ile temsil ettiren davalılar lehine vekalet ücretine hükmedilmesi gerekirken bu hususta bir hüküm tesis edilmemesi doğru görülmemiştir.
 
 Mahkemece her bir davacı lehine kabul edilen tazminat miktarları üzerinden ayrı ayrı vekalet ücreti takdir edilmesi gerekirken davacıların tümü için kabul edilen manevi tazminat toplamı üzerinden tek vekalet ücretine hükmedilmesi de yerinde değil ise de davacılar bu hususta bir istinafta bulunmadıklarından eleştiri ile yetinilmiştir.
 
 ## İstanbul BAM 44. HD 2023/1115 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/945675100)
 
 Cari hesabına borç olarak kaydedilmiş olduğunu, yatırılan paraların toplamının 7.174.80 TL ve 72.266,09 TL toplamı 79.410,89 TL olduğunu, ödeme tarihlerinden itibaren faiz hesaplanırsa reeskont faizi oranından 11.11.2011 tarihinde 1710,92 TL işlemiş faiz olduğu ve bu ihtimalde ise takipte toplam alacağın 81.121,81 TL olacağını, ve bu durumda da 86.584,69 TL talebin fazla olduğu belirtilmiştir.Dosyada mevcut 14.11.2016 tarihli bilirkişi heyet raporunda, davacı tarafından toplam 79.410,89 TL ödeme yapıldığı, ödemelerin yapıldığı tarihlerden itibaren yasal faizden 1.710,92 TL faiz tahakkuku ile takip tarihinde 81.121,81 TL alacak oluşabileceği, ödemelerin dava dışı ... A.Ş. Cari hesabına kaydedildiği, mahkemece davadışı borçlu şirketlerin borca aykırılıklarından dolayı tahsil edileceği kanaati oluşursa davalılardan ... ve ... kefalete göre müteselsilen sorumluluğuna gidilebileceği, mahkemece ... ve ... sözleşmenin gerçek borçlusu olduğu kanaati oluşursa bir kimsenin kendi borcunun kefili olamayacağı ilkesi gereği kefalet müessesesine göre sorumluluğuna gidilemeyeceği görüşünün bildirildiği anlaşılmıştır.
 Dosya kapsamına göre, davacının ihbar olunan şirketten alacaklı olduğu, taraflar arasında 12.8.2011 tarihinde alacağın teminatlandırılması için sözleşme düzenlendiği, davalılardan ... ve ...'in sözleşmede müteselsil kefil sıfatı ile yer aldıkları, sözleşme hükmüne göre şirket yetkilisi davalılara miras olarak intikal eden taşınmaza ipotek tesis edilebilmesi amacıyla intikal masraflarının alacaklı tarafından karşılanacağı ve borç toplamına ekleneceği, davacı alacaklı tarafından sözleşmeye uygun masrafların yapıldığı ve şirket kayıtlarına borç olarak eklendiği, taraflar arasında geçerli olan sözleşme hükümlerine göre davalı kefillerin bu borçtan müteselsilen sorumlu oldukları anlaşılmıştır.
@@ -66,6 +76,8 @@ Somut olayda mirasçının intikal eden tereke malını tasarruf edebilmesi içi
 
 ## Gaziantep BAM 17. HD 2023/847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915655700)
+
 Dava, trafik kazası sonucu maruz kalınan bedensel zarar nedeniyle maddi ve manevi tazminat talebine ilişkindir.
 
 …
@@ -74,10 +86,14 @@ Kabule göre ise, mirasçı davacılar leh ve aleyhlerine maddi ve manevi tazmin
 
 ## İstanbul BAM 40. HD 2023/18 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862063700)
+
 Bu itibarla, davacı ...'ın, ilk derece mahkemesinin hüküm tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin (AAÜT) 13'üncü maddesinin 2'nci fıkrası uyarınca kısmen reddine karar verilen maddi tazminat miktarına göre belirlenen 392,46 TL vekâlet ücretinden, davacı ...'ın ise aynı tarifenin 13'üncü maddesinin 4'üncü fıkrası uyarınca maktu vekâlet ücretinden sorumlu tutulması gerekirken, vekâlet ücreti yanlış hesaplandığı gibi hüküm fıkrası da karıştırılarak hükmolunan vekâlet ücretinin davalılardan müştereken ve müteselsilen alınarak davacılara verilmesi isabetsiz olmuştur. Diğer yandan vekâlet ücretine ilişkin hüküm fıkrasında yer alan ve yukarıda açıklanan hukuka aykırılıklar, HMK'nin 304'üncü maddesinde öngörülen yazı ve hesap hatalı ile diğer benzeri açık hatalar niteliğini taşımadığından anılan madde uyarınca düzeltilmesine de yasal olanak bulunmamaktadır.
 Kamu düzenine ilişkin olması nedeniyle gerek asıl, gerekse birleşen davada hükmolunan karar ve ilam harçlarının Dairemizce kendiliğinden incelenmesinde ise; hükmolunan destekten yoksun kalma tazminatları ile manevi tazminatların tutarlarına göre Harçlar Kanunu uyarınca hesaplanan karar ve ilam harçlarının, aleyhlerine hüküm kurulan davalılardan müştereken ve müteselsilen tahsil edilerek, Hazineye gelir kaydına karar verilmesi gerekirken, hesaplanan karar ve ilam harcından peşin ve ıslah harcı olarak ödenen tutarların mahsubunun ardından kalan tutarların davacılara geri verilmesine karar verilmesi isabetsizdir.
 
 ## İstanbul BAM 43. HD 2022/48 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728652500)
 
 …
 
@@ -86,11 +102,15 @@ HMK'nın 353/1-ğ maddesine göre vekâlet ücreti de yargılama masraflarından
 
 ## İstanbul BAM 15. HD 2021/2105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/703979700)
+
 Şirketini temsilen Av. ... yetkilendirilmiş olup, davalılar adına istinaf dilekçesi bu vekil tarafından dosyaya sunulmuştur. Mahkemece 27/02/2020 tarihli istinaf kanun yoluna başvuru harcı ile ilam harcının yatırılması ihtaratını içeren muhtıra davalılar vekili Av. ...'e 09/03/2020 tarihinde usulüne uygun olarak tebliğ edilmiştir. Davalılar vekili Av. ... tarafından dosyaya sunulan dilekçe ile, davalı ...'nin Nisan ayı içerisinde vefat ettiği, vefat ile vekalet ilişkilerinin sona erdiği, harç tamamlama işleminin mirasçıları tarafından yapılması gerektiği bildirilmiştir. Dosyada bulunan aile nüfus kayıt tablosunda; davalı ...'nin 15/04/2020 tarihinde vefat ettiği, geride mirasçı olarak eşi ..., oğlu ..., kızları ..., ..., ...' nin kaldığı görülmektedir.
 Mahkemece muhtıranın usulüne uygun olarak mirasçı ...'ye 30/06/2020 tarihinde , mirasçı ...'ye 20/08/2020 tarihinde, mirasçı ...'ye 30/06/2020 tarihinde, mirasçı ...'a 21/07/2020 tarihinde, mirasçı ...'ye 17/08/2020 tarihinde tebliğ edildiği, mahkemece verilen kesin süre içerisinde muhtırada yazılı harçların davalı ... mirasçıları ve davalı şirket vekili tarafından yatırılmaması üzerine 29/09/2020 tarihli ek karar ile davalılar müflis ... AŞ vekili Avukat ... ile davalı ... mirasçılarının istinaftan vazgeçmiş sayılmalarına dair ek karar verilmiştir. 28/09/2020 tarihli ek karar, davalı ... ve mirasçıları vekili Av. ...'e 10/05/2020 tarihinde e-tebligat yolu ile, Av. ...'a 10/05/2020 tarihinde e-tebligat yoluyla, davalı ... Şirket vekili Avukat ...'e ise 05/10/2020 tarihinde tebliğ edilmiştir.
 Avukat ... tarafından mahkemeye sunulan 30/09/2020 tarihli dilekçe ve Avukat ... tarafından mahkemeye sunulan 13/10/2020 tarihli dilekçe ile, davalı ... vefat ettiğinden vekillik görevlerinin son bulduğu, tebligatın şirket adresine gönderilmesi gerektiği bildirilmiş, bunun üzerine mahkemece 28/09/2020 tarihli ek kararın usulüne uygun olarak mirasçı ...'ye 07/10/2020 tarihinde mirasçı ...'ye 07/10/2020 tarihinde, mirasçı ...'ye 20/11/2020 tarihinde, mirasçı ...'a 21/11/2020 tarihinde, ve mirasçı ...'ye 27/10/2020 tarihinde tebliğ edildiği ve ek karara karşı istinaf kanun yoluna başvurulmadığı tespit edilmiştir.
 
 ## Adana BAM 9. HD 2021/1188 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/689288300)
 
 Dava hukuki niteliği itibarıyla "Bonodan Kaynaklanan Menfi Tespit" davasıdır.
 
@@ -101,6 +121,8 @@ Dava hukuki niteliği itibarıyla "Bonodan Kaynaklanan Menfi Tespit" davasıdır
 
 ## İstanbul BAM 43. HD 2021/520 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/654374000)
+
 Dava, şirket denetim kurulu üyelerinin denetim görevini yapmadıkları iddiası ile şirketin uğradığı zararın tazmini(denetim kurulu üyesinin sorumluluğu) davasıdır.
 
 …
@@ -110,11 +132,15 @@ Bu nedenle mahkemece davalı taraf yararına maktu yerine nispi vekalet ücretin
 
 ## İstanbul BAM 16. HD 2021/217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632041900)
+
 G E R E K Ç E :Davalı ... hakkında açılan, markaya tecavüzün tespiti, meni ve ref'i ile, 556 Sayılı KHK 62/1-b maddesine dayalı maddi tazminat, itibar tazminatı ve manevi tazminat talepli asıl dava ile, davalılar ... ve ... aleyhinde açılan birleşen Bakırköy 2. FSHHM'nin 2015/139 Esas sayılı davada farklı bir işyerinde yürütülen ticari faaliyetten dolayı aynı taleplerle dava açılmıştır. İlk derece mahkemesince asıl ve birleşen davaların kısmen kabulüne karar verilmiştir. Davacı vekili istinaf dilekçesinde; hükmedilen maddi tazminat miktarının düşük olduğunu, birleşen davada hükmedilen tazminat miktarlarının her iki davalıdan müştereken tahsiline karar verilmesi gerektiğini ve yargılama giderleri ile vekalet ücreti konusunda hatalı hüküm tesis edildiğini ileri sürmüştür.
 Davalı vekili istinaf dilekçesinde; davalılardan ... ile davacı arasında şifahi sözleşme bulunduğunu, bu davalı yönünden tazminat hesabı başlangıç tarihinin hatalı olarak alındığını, tazminat hesabında kar marjının hatalı olduğunu, zarar miktarının dikkate alınmadığını, manevi tazminatın fahiş olduğunu, yargılama gideri ve vekalet ücretine ilişkin hükmün hatalı olduğunu ve esasen davalı tarafça kullanılan ... ve DOĞAL ACI ibarelerinin marka hakkına tecavüz teşkil etmediğini beyan etmiştir.Davalı tarafça kullanılan ... ve DOĞAL ACI ibarelerinin marka hakkına tecavüz teşkil edip etmediği hususu uyuşmazlığın ve tazminata yönelik hükümlerin temelini teşkil ettiğinden, öncelikli olarak davalılar vekilinin bu yöndeki istinaf başvurusu incelenmiştir. Davacı adına 29. Sınıfta "çiğköfte" emtiasında, 35. ve 43. Sınıflarda "... 1993'den beri+şekil" markası ile, 29. Ve 43. Sınıfta "en tatlı acı ..." markalarının tescilli olduğu, davalılardan ... ile davacı arasındaki franchise sözleşmesinin 05/06/2015 tarihinde feshinden sonra davalının iki işyerinde ... ve DOĞAL ACI ibarelerini markasal olarak kullandığı sabittir. Davalılardan ... ile davalı ...'ın da 3.
 Bir işyerinde ortak oldukları, bu işyerinde de aynı ibarelerin markasal kullanıldığı, tespit raporundan anlaşılmaktadır.
 
 ## İstanbul BAM 9. HD 2021/85 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632916100)
 
 Dava, ölümlü trafik kazası nedeniyle maddi ve manevi tazminat istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355.
 
@@ -123,6 +149,8 @@ Dava, ölümlü trafik kazası nedeniyle maddi ve manevi tazminat istemine iliş
 Ne var ki davacılar ... yönünden reddedilen miktar üzerinden ayrı ayrı vekalet ücretine hükmedilmesi ve müştereken ve müteselsilen alınmaması gerektiği yönünde davalı istinaf talebi bulunmadığından davacılar lehine oluşan usuli kazanılmış hak gözetilerek davalılar lehine hükmedilen (1.980,00 x 3 = 5.940,00 TL) vekalet ücretinin davalılara müteselsilen ödenmesi yönünden hükmün düzeltilmesi ile yetinilmiştir. Kabule göre de; davalı ... aleyhine açılan maddi tazminat davasının reddine karar verildiği halde lehine vekalet ücretine hükmedilmemiş olması doğru değil ise bu hususta istinaf talebi olmadığından İlk Derece Mahkemesi kararının bu yönden kesinleşmiş olması nedeni ile yeniden kurulan hükümde davalı ... lehine vekalet ücreti belirlenmemiştir.
 
 ## İstanbul BAM 16. HD 2019/1918 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/529215000)
 
 G E R E K Ç E :Trafik kazasından kaynaklanan destekten yoksun kalma tazminatı ve manevi tazminat davasında ilk derece mahkemesince toplam 8.373,57 TL destekten yoksun kalma tazminatının davalılardan müştereken ve müteselsilen tahsiline, toplam 60.000 TL manevi tazminatın davalı ... tahsili ile davacılara ödenmesine, fazlaya ilişkin talebin reddine karar verildiği, ... AŞ vekilinin istinaf başvurusunda bulunduğu, davacıların başvurusu üzerine müvekkilinin 13.02.2014 tarihinde 8.988,00 TL ödeme yaptığını, buna rağmen maddi tazminatla sorumlu tutulmasının yerinde olmadığını ileri sürdüğü anlaşılmışsa da; ibranamede davacılar vekilinin "fazlaya ilişkin haklarını saklı tuttuğuna" dair şerh koyduğu, yapılan ödemenin işlemiş faiziyle güncellenmiş tutarının davacılar yönünden ayrı ayrı hesaplanan tazminat miktarlarından indirilerek karar verildiği, mahkeme kararının maddi tazminata yönelik kısmının yerinde olduğu kanaatine varılmıştır. Mahkemece hükmedilen vekalet ücretine yönelik istinaf başvurusu incelenmiş, ilk derece mahkemesince ... AŞ'nin sadece 8.373,57 TL maddi tazminattan sorumlu tutulmasına rağmen, vekalet ücretinin sadece 1.004,83 TL'lik kısmından davalı ...
 AŞ'nin, diğer Davalı ile müştereken ve müteselsilen sorumlu tutulması gerekirken davalıların sorumlu oldukları miktar ayrılmadan, hükmedilen tüm dava değeri üzerinden hesaplanan vekalet ücretinden davalıların müştereken ve müteselsilen sorumlu tutulmaları yerinde görülmeyerek, davalı ... AŞ vekilinin istinaf başvurusunun kısmen kabulüne, mahkeme kararının kaldırılmasına karar verilerek, aşağıdaki şekilde hüküm kurulmuştur.

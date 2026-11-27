@@ -29,6 +29,8 @@ Dolayısıyla davacı tarafta, yapılan yargılama ile tenkis davasının esası
 
 ## Yargıtay HGK 2022/1258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857272500)
+
 Ayrıca vasiyetnamenin iptali ve tenkis davasının açılabileceği belli süreler vardır: Türk Medeni Kanunu’nun 559. maddesinin 1. fıkrasına göre “İptal davası açma hakkı, davacının tasarrufu, iptal sebebini ve kendisinin hak sahibi olduğunu öğrendiği tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın geçmesi tarihinin üzerinden, iyiniyetli davalılara karşı on yıl, iyiniyetli olmayan davalılara karşı yirmi yıl geçmekle düşer”.
 
 Aynı Kanun’un 571. maddesinin 1. fıkrasına göre “Tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden on yıl geçmekle düşer”.
@@ -52,6 +54,8 @@ Yukarıda açıklanan yasal düzenleme ve dosya içeriği birlikte değerlendiri
 
 ## Yargıtay 7. HD 2025/4922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190568700)
+
 1\. 4721 sayılı Kanun'un “Hak düşürücü süreler” başlıklı 559. maddesinde; "İptal davası açma hakkı, davacının tasarrufu, iptal sebebini ve kendisinin hak sahibi olduğunu öğrendiği tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın geçmesi tarihinin üzerinden, iyiniyetli davalılara karşı on yıl, iyiniyetli olmayan davalılara karşı yirmi yıl geçmekle düşer. Hükümsüzlük, def"i yoluyla her zaman ileri sürülebilir." hükmü düzenlenmiştir.
 
 Ölüme bağlı bir tasarruf olan vasiyetnamenin iptali veya tenkisi istemiyle açılacak davalar için kanunda belirtilen süreler, hak düşürücü süre olarak düzenlenmiş olduğundan, yargılama aşamasında hakim tarafından, temyiz aşamasında ise Yargıtay tarafından kendiliğinden dikkate alınır. Dosya kapsamında yapılan incelemede ise; mirasbırakan ...'in 27.10.2010 tarihinde öldüğü, mirasbırakanın düzenlediği dava konusu vasiyetnamenin ise Kadıköy Sulh Hukuk Mahkemesi 2010/1806 Esas sayılı dosyada açıldığı anlaşılmaktadır. Vasiyetnamenin açılmasına ilişkin dosyanın 21.04.2014 tarihli celsesine mirasbırakan ....'un mirasçılarından ...'nun katıldığı ve ".... vasiyetnameyi tebliğ aldım, inceledim." şeklinde beyanda bulunduğu ve imzasının alındığı anlaşılmakla mirasçı ... için vasiyetnamenin iptali davası açılması için hak düşürücü süre 21.04.2012 tarihinde dolmuştur. Mirasçı ...'nun ise 12.03.2014 tarihinde ölümü ile mirasçıları olan ... 23.07.2019 tarihli, ...
@@ -59,13 +63,19 @@ Yukarıda açıklanan yasal düzenleme ve dosya içeriği birlikte değerlendiri
 
 ## Yargıtay 3. HD 2018/597 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406084100)
+
 Hal böyle olunca, mahkemece; vasiyetnamenin iptali davası açılması halinde sonucunda verilecek hüküm, vasiyetnamenin yerine getirilmesine ilişkin bu davanın sonucunu etkileyecek nitelikte olduğundan bir yıllık iptal davası açma süresi (TMK.559 md.) beklenmeli, açılmış dava olup, olmadığı araştırılıp saptanmalı, açılmış dava varsa sonucu beklenmeli, bundan sonra, oluşacak sonuç dairesinde bir karar verilmelidir. Eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm kurulmuş olması usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2017/15849 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387289600)
+
 Dosyadaki yazılara, iptal sebebi olarak ileri sürülen ehliyetsizlik, hukuka aykırılık ve irade sakatlığı nedenlerine ilişkin toplanan delillerin takdirinde bir isabetsizlik görülmemesine, temyiz dilekçesinde ileri sürülmeyen itirazların karar düzeltme aşamasında da ileri sürülmesinin mümkün olmamasına, özellikle vasiyetnamenin iptali davasında bir yıllık hak düşürücü sürenin davacının tasarrufu, iptal sebebini ve kendisinin hak sahibi olduğunu öğrendiği tarihten başlayacağını hüküm altına alan TMK'nun 559. maddesi gözetildiğinde; dava dilekçelerinde, vasiyetnamelerden açılmalarına ilişkin olarak görülen dava dosyaları ile haberdar olduklarını bildiren ve TMK'nun 557. maddesinde sınırlı olarak sayılan iptal sebeplerinin tamamını ileri süren davacıların, vasiyetnamenin iptali istemiyle tekrar dava açmalarına hukuki olanak bulunmamasına, bu hukuki olgu nedeniyle Dairemizce vasiyetnamelerin açılmasına ilişkin davaların kesinleştikten sonra gönderilmesine ilişkin geri çevirme kararından sarfınazar edilerek temyiz incelemesinin gerçekleştirilmiş olmasında usul ve yasaya aykırı bir yön bulunmamasına göre, davacıların sair karar düzeltme istemlerinin reddi gerekir.
 
 ## Yargıtay 3. HD 2016/11238 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243002500)
 
 Dava; vasiyetnameye konu taşınmazın vasiyet alacaklısı olan davacı adına intikali ile vasiyetnamenin tenfizi istemine ilişkindir.
 
@@ -77,6 +87,8 @@ Vasiyetname usulünce açılıp, okunma kararının kesinleşmesinden sonra vasi
 
 ## Yargıtay 3. HD 2016/4520 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/213414500)
+
 Dava; vasiyetnameye konu taşınmazların vasiyet alacaklısı olan davacı karı koca adına intikali ile vasiyetnamenin tenfizi istemine ilişkindir.
 
 …
@@ -84,6 +96,8 @@ Dava; vasiyetnameye konu taşınmazların vasiyet alacaklısı olan davacı kar�
 Hal böyle olunca mahkemece; vasiyetnamenin iptali davasının açılabilmesi için kanunda öngörülen bir yıllık sürenin geçmediği göz önünde bulundurularak; taraflara vasiyetnamenin iptali davası açılıp açılmadığı sorulup, vasiyetnamenin iptaline yönelik dava açılmış ise açılan davanın sonucu beklenip, hasıl olacak sonuca göre bir karar verilmesi gerekirken, eksik inceleme sonucu yazılı şekilde karar verilmesi doğru görülmemiş, bu husus bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2016/4125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211798200)
 
 Dava; vasiyetnamenin iptali istemine ilişkindir.
 
@@ -95,24 +109,34 @@ Tarafların ortak murisi ...01.04.2004 vefat ettiğine göre, olayın çözümü
 
 ## Yargıtay 3. HD 2016/374 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/154563700)
+
 Mirasbırakan 14/06/2009 tarihinde vefat etmiştir. Buna göre, olayın çözümünde 4721 sayılı Türk Medeni Kanununun uygulanması gerekmekte olup bu kanunda; gerek ölüme bağlı tasarrufların iptali davası için 559.maddede belirtilen süreler, gerekse bu tasarruflara karşı tenkis davası açılması için 571.maddede belirtilen süreler, hak düşürücü süre olarak düzenlenmiş ve kaleme alınmıştır.
 
 Türk Medeni Kanunu'nun 559.maddesine göre; vasiyetnamenin iptali davasında 1 yıllık hak düşürücü süre davacının tasarrufu, iptal sebebini ve kendisinin hak sahibi olduğunu öğrendiği tarihten başlar. Aynı kanunun 571.maddesinde ise, dava açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten itibaren 1 yıl ve her halde vasiyetnamelerde açılma tarihinin üzerinden 10 yıl geçmekle düşer.
 
 ## Yargıtay 1. HD 2015/12214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139380600)
+
 Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye, delillerin takdirinde bir isabetsizlik bulunmamasına ve özellikle, dava tamamen (kamilen) ıslah edildiğine ve böylece tenkis isteğine yönelik değil vasiyetnamenin iptali isteğine yönelik hüküm kurulması gereken davada 4721 sayılı TMK. nun 559. maddesindeki vasiyetnamenin davacının huzurunda açıldığı 13.07.2010 tarihi ile davanın açıldığı 01.04.2013 tarihi arasında 4721 sayılı TMK. nun 559. maddesinde sözü edilen 1 yıllık hak düşürücü sürenin geçmiş olduğu anlaşıldığına ve bu gerekçe ile sonucu itibariyle doğru olan ret kararında bir isabetsizlik bulunmadığına göre; davacının temyiz itirazı yerinde değildir.
 
 ## Yargıtay 14. HD 2015/10273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/179493100)
 
 TMK'nın 598. maddesinde "Başvurusu üzerine yasal mirasçı oldukları belirlenenlere, Sulh Mahkemesi'nce veya Noter'likçe mirasçılık sıfatlarını gösteren bir belge verilir. Mirasçı atamaya veya vasiyete ilişkin ölüme bağlı tasarrufa mirasçılar veya başka vasiyet alacaklıları tarafından kendilerine bildirilmesinden başlayarak bir ay içinde itiraz edilmedikçe, lehine tasarrufta bulunulan kimseye, Sulh Mahkemesi'nce atanmış mirasçı veya vasiyet alacaklısı olduğunu gösteren bir belge verilir. Mirasçılık belgesinin geçersizliği her zaman ileri sürülebilir. Ölüme bağlı tasarrufun iptaline ilişkin dava hakkı saklıdır" hükmü mevcut olup madde metninden de anlaşılacağı üzere atanmış mirasçı belgesi verilmesi, vasiyetnamenin usulünce açılıp, mirasçılara tebliğ edilmesi ve mirasçılar tarafından 1 aylık süre içerisinde itiraz edilmemesi ile mümkündür.
 Yasal mirasçılar tarafından vasiyetnameye 1 ay içerisinde itiraz edildiğinde, vasiyetnamenin okunma kararının tebliğinden sonra iptaline ilişkin dava açmak için 1 yıllık hak düşürücü süre işlemeye başlayacak olup, bu süre içerisinde vasiyetnamenin iptaline ilişkin dava açılmadığı takdirde vasiyetname kesinleşeceği için mirasçı atanana atanmış mirasçı belgesi verilmesi mümkün olacaktır.
 
 ## Yargıtay 3. HD 2012/23824 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/499686200)
+
 Diğer taraftan, vasiyetnamenin davalıya okunduğu tarih ile iş bu dava tarihi arasında TMK.nun 559.maddesinde iptal için öngörülen süre dolduğu gibi, davalı taraf vasiyetnamenin iptaline yönelik dava açıldığını da ileri sürmemiştir.Şu durumda, mahkemece; davanın esasına girilerek taraf delillerinin usulünce toplanılıp değerlendirilmesi ve ortaya çıkacak sonuca göre bir karar verilmesi gerekirken, bu yön gözardı edilerek yanılgılı değerlendirme ile davanın reddine karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 19.11.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2012/11440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/559674800)
 
 Dairemizin 19.01.2012 gün ve 2011/18239 E. - 2012/1244 K.sayılı ilamı ile “Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle delillerin takdirinde bir isabetsizlik görülmemesine göre, sair temyiz itirazları yerinde değildir. Somut olayda; davacı yargılamada "yazılı beyanlarını tekrar ettiğini ve ayrıca vasiyetnamenin davalıların baskısı ile yapıldığını" ifade etmiştir. Davacının yazılı beyanlarını içeren 27.04.2001 tarihli dilekçesinde ise; "...vasiyetnamenin iptalini, olmazsa mahfuz hissesinin mahfuziyetine dair kararda şerh düşülmesini" içeren talep mevcuttur. Davacının bu talebi, saklı payının gözetilerek, tasarrufun tenkisi isteğine ilişkindir. Vasiyetname yasa gereğince mutlak tenkise tabidir.
 (TMK.519.md.) O halde talep, tenkis hükümlerine göre incelenerek, TMK 507/4 ve diğer maddeleri uyarınca davacının mahfuz hissesi incelenerek karar verilmesi gerekirken, yanılgılı gerekçe ile yazılı şekilde hüküm kurulması doğru görülmemiştir.” gerekçesiyle hükmün bozulmasına karar verilmiş, davalı taraf bozma ilamına karşı karar düzeltme isteğinde bulunmuştur.Dava dilekçesindeki sözlerden ve belirtilen olaylardan; davacının, davalıların manevi baskısı sonucu mirasbırakanca düzenlenen vasiyetnamenin iptalini talep ettiği anlaşılmaktadır.
@@ -120,6 +144,8 @@ Dilekçede davacının kızı ... ’nin miras hakkının engellendiği iddiası
 “Tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her halde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılma tarihinin üzerinden on yıl geçmekle düşer.”. Bu süre, hakdüşürücü nitelikte olup, resen dikkate alınır.Dosyadaki vasiyetnamenin açılmasına ilişkin dava dosyasından; vasiyetnamenin bulunduğu yer mahkemesi aracılığı ile avukat olan davacıya 24.02.2010 tarihinde okunduğu ve davacının aynı tarihte sunduğu dilekçe ile vasiyete yönelik itirazlarını bildirdiği anlaşılmaktadır.Şu duruma göre, saklı payın zedelendiğinin davacı tarafça öğrenildiği 24.02.2010 tarihi ile tenkis talebine dair dilekçe günü olan 27.04.2011 arasında bir yıllık hakdüşürücü süre geçmiş bulunduğundan, davanın reddine dair verilen karar sonucu itibariyle doğrudur.Ne var ki, mahkeme kararının açıklanan bu gerekçe ile onanması gerekirken, zuhulen bozulduğu anlaşılmakla, davalı tarafın karar düzeltme talebinin kabulü ile Dairemizin 19.01.2012 gün ve 2011/18239 E. 2012/1244 K.
 
 ## Yargıtay 3. HD 2010/961 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83975500)
 
 TMK.’nun 559.maddesine göre, vasiyetnamenin iptali davasında 1 yıllık hak düşürücü süre; davacının tasarrufu, iptal sebebini ve kendisinin hak sahibi olduğunu öğrendiği tarihten başlar.
 

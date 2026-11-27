@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2013/18670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437716400)
+
 Dosyada üç adet bilirkişi raporu alınmıştır. 28.10.2009 tarihli ... Üniversitesi Hukuk Fakültesi Medeni Hukuk Anabilim Dalı Öğretim Görevlisi Dr. ... Yılmaz tarafından düzenlenen raporda “Davacıların murisi ...'nin kök muris ...'in mirasçısı olduğu ve ...'nin ölümü ile ona düşen 1/4 miras payının ilk eşinden olma çocukları ... ve Durmuşali Tuncer mirasçılarına intikal edeceği, ...'nin mirasçılığı ketmedilerek alınmış olan ... Sulh Hukuk Mahkemesinin 1975/460 Esas 1975/237 Karar sayılı mirasçılık belgesinin iptali gerektiği, ... 2. Sulh Hukuk Mahkemesi'nin 2008/649 esas 2008/525 karar sayılı mirasçılık belgesinin geçerli olduğu” belirtilmiştir. İtiraz üzerine alınan 12.01.2011 tarihli ... Üniversitesi Hukuk Fakültesi Medeni Hukuk Anabilim Dalı Öğretim Görevlisi Prof. Dr. Şebnem Akipek Öcal’ın raporunda ise “... ile muris ... arasında 1975 tarihli ilamın da açıkça ortaya koyduğu gibi, geçerli bir evlilik ilişkisinin kurulmadığı, evliliğin yok evlilik hükmünde olduğu ve dolayısıyla ...'nin mirasçı sıfatının bulunmadığı” bildirilmiştir.
 İki bilirkişi raporu arasındaki çelişkinin giderilmesi amacı ile alınan ve Kadir Has Üniversitesi Hukuk Fakültesi Medeni Hukuk Anabilim Dalı Öğretim Üyesi Prof. Dr. Hasan Erman, Galatasaray Üniversitesi Hukuk Fakültesi Medeni Hukuk Anabilim Dalı Öğretim Üyesi Prof. Dr. Turgut Öz, Marmara Üniversitesi Medeni Hukuk Anabilim Dalı Öğretim Üyesi Prof. Dr. Serap Helvacı tarafından düzenlenen 24.10.2011 tarihli raporda “...'un yasal mirasçı olamayacağı, ... 2.Sulh Hukuk Mahkemesi'nin 21.04.2008 tarih 2008/649 esas 2008/525 karar sayılı mirasçılık belgesinin iptal edilmesi gerektiği” ifade edilmiş ancak davalı tarafın ...'ye ait nüfus hüviyet cüzdanı ve evliliğine ilişkin nüfus kütüğünü sunması üzerine aynı heyetten alınan 06.04.2012 tarihli ek raporda ise “... ile muris ... arasında nüfus kütüğündeki kayıt dikkate alındığında evlilik ilişkisi bulunduğu sonucuna varılırsa, söz konusu evliliğin ikinci evlilik olduğu ve henüz butlan kararı verilmeden murisin ölümüyle son bulması üzerine ...'un yasal mirasçı sıfatını kazanmış sayılacağı” açıklanmıştır.
 
@@ -30,14 +32,20 @@ Asliye Hukuk Mahkemesi'ndeki evliliğin iptali davasının muris ... ölmeden ö
 
 ## Yargıtay 8. HD 2013/14384 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435947500)
+
 Davacı ile tarafların miras bırakanı ... 17.07.1976 tarihinde evlenmişler, ...’nin 31.07.2010 tarihinde ölümü üzerine bu tarihte mal rejimi sona ermiştir.(TMK.nun 225/1.madde)Türk Medeni Kanunu'nun 240 ve 652. maddeleri uyarınca sağ kalan eş birlikte oturulan konutun, katılma alacağına ya da miras hakkına mahsuben mülkiyet hakkının tanınmasını isteyebilir. (TMK.m.652 konusunda aynı Kanun'un 658. maddesi uyarınca Sulh Mahkemesi görevlidir.) Davacı, 31.07.2010 tarihinde vefat eden eşi ...’nin ½ pay sahibi olduğu 140 ada 1 parsel sayılı taşınmazdaki meskende eşiyle birlikte oturduklarını, aile konutu olduğunu, çocuğunun bulunmadığını ve başkaca oturacak evi olmadığını ileri sürerek Türk Medeni Kanunu'nun 240. maddesi gereğince, evlilik birliği içerisinde edindikleri başkaca taşınmazların da tasfiyesinin sağlanmak suretiyle katılma alacağı gözönünde bulundurularak konutun mülkiyetinin kendisine bırakılmasını istemiştir.Bu bakımdan istek, Türk Medeni Kanunu'nun 652. maddesine değil, aynı Yasa'nın 240. maddesine dayandığına göre, Türk Medeni Kanunu'nun, üçüncü kısmı hariç ikinci kitabından (TMK.118-392) kaynaklanmaktadır.
 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanun'un 4/1. maddesi gereğince aile mahkemesi görevlidir. Öyle ise, işin esasının incelenmesi gerekirken yazılı şekilde görevsizlik kararı verilmesi doğru bulunmamıştır. Sağ kalan eşin miras bırakanın terekesinden olan alacağına mahsuben taşınmazın kendi adına özgülenmesi (TMK.nun 652.md) talebine ilişkin davada görevli mahkeme Sulh Hukuk Mahkemesi ise de somut olayda davacının bu yönde bir isteği söz konusu değildir.Yukarıda açıklanan nedenlerle davacı vekillerinin temyiz itirazlarının kabulüyle usul ve kanuna aykırı olan hükmün 6100 sayılı HMK.nun Geçici 3. maddesi yollamasıyla halen yürürlükte bulunan 1086 sayılı HUMK.nun 428.
 
 ## Yargıtay 1. HD 2013/14122 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79495300)
+
 Bu durumda, davacılar tarafından açılan evlatlık ilişkisinin iptaline dair davanın sonucunun eldeki davanın sonucunu etkileyeceği ve mahkemenin de kabulünde olduğu gibi davacıların mirasçılıklarının olabileceği, bu davadaki hukuki yararlarının da o davanın sonucuna göre söz konusu olacağı açıktır. Anılan nedenle, davacıların Kadıköy 3. Aile Mahkemesinin 2012/ 508 esasında açtıkları davanın eldeki dava bakımından bekletici sorun olarak kabul edilmesi gerekmektedir. Öyle ise, davacıların evlatlık ilişkisinin iptali için açtıkları dava sonucu beklenip oluşacak duruma göre işin esası bakımından bir karar verilmesi gerekirken, aksine düşüncelerle yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 17. HD 2013/13746 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792878900)
 
 4721 sayılı Türk Medeni Kanunu'nun 598.maddesinde "Başvurusu üzerine yasal mirasçı oldukları belirlenenlere, sulh mahkemesince veya noterlikçe mirasçılık sıfatlarını gösteren bir belge verilir." hükmü bulunduğu gibi,3402 sayılı Kadastro Kanununun 25.maddesi hükmü gereğince de "Kadastro Mahkemesi kadastroyu ve tapu sicilini ilgilendiren benzeri davalara ve özel kanunlarca kendisine verilen işlere bakar. Kadastroya veya kadastroyla ilgili verasete ait uyuşmazlıkları çözümleyebileceği gibi istek üzerine veraset belgesi de verebilir." hükmüne yer verilmiştir …
 
@@ -45,11 +53,15 @@ Bu durumda, davacılar tarafından açılan evlatlık ilişkisinin iptaline dair
 
 ## Yargıtay 8. HD 2013/11506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/444203200)
+
 Dava; TMK'nun 605 ve devamı maddeleri gereğince açılan mirasın reddi istemine ilişkindir.
 
 Miras bırakan ... 10.09.2012 tarihinde ölmüş, geride yasal mirasçı olarak eşi ... ile ..., ... ve ...isimli üç çocuğu kalmıştır. Yasal mirasçılardan ..., ... ve ... mirası kayıtsız şartsız olarak reddetmiş, ... Sulh Hukuk Mahkemesi'nin 05.10.2012 gün ve 2012/614-655 Esas ve Karar sayılı hükmü ile reddin tespit ve özel kütüğüne tesciline karar verilmiştir. TMK'nun 611/1 maddesine göre “Yasal mirasçılardan biri mirası reddederse onun payı, miras açıldığı zaman kendisi sağ değilmiş gibi, hak sahiplerine geçer.” Aynı Yasa'nın 608/son maddesine göre ise “Red sonucunda miras daha önce mirasçı olmayanlara …
 
 ## Yargıtay 3. HD 2013/11282 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/266514100)
 
 Aynı şekilde, yeni düzenlemeler uyarınca yasal mirasçılık esaslarında değişiklikler meydana gelmişse (örneğin kanundaki pay oranları yahut kimlerin mirasçı olduğu yeniden belirlenmişse vs.) bu durum hiç şüphesiz ki, vasiyetnamenin yorumunu etkiliyecektir. Eğer mirasbırakan vasiyetmaneyi yasal mirasçılığa uyğun bir şekilde kaleme almışsa, yani kimlerin ne oranda hak sahibi olduğu hususunda kanuna gönderme yapmışsa ya da ölüme bağlı tasarrufu yasal mirasçılık esasları çerçevesinde düzenlemişse, vasiyetnamenin yorumunda mirasın açıldığı (vasiyetnamenin hükümlerini doğurmaya başladığı) tarihteki kanuni düzenlemeler göz önünde bulundurulur; meğerki somut olayın özellikleri çerçevesinde mirasbırakanın amacının farklı yönde olduğu ortaya çıksın. Nitekim, 04.05.2007 tarihinden itibaren kardeşlerin saklı payı yasal olarak kaldırılmıştır.
 Bu tarihten önce vasiyetname düzenleyen ve kardeşinin saklı payını alacağı şartı ile kalan malvarlığı için mirasçı atayan murisin iradesinin yorumunda Medeni Kanunda yapılan bu değişiklik, dikkate alınmalı, murisin farazi iradesi tamamlayıcı yorum yoluyla belirlenmeli ve vasiyetnameyi düzenlediği tarihte kanun değişikliği gerçekleşmiş olsaydı nasıl bir tasarrufta bulunacağı tespit edilmeye çalışılmalıdır. Vasiyetnamedeki irade yönelmesinden, mirasbırakanın kanun hükümleri ile sınırlı bir kazandırma yapmak istediği (nitelikli bir kazandırma iradesine sahip olmadığı) anlaşılıyorsa, onun farazi iradesi yardımıyla mirasın açıldığı anda terekenin tamamı üzerinde atanmış mirasçının hak sahibi olacağı ve saklı payı kaldırılan kardeşinin herhangi bir hak talep edemeyeceği sonucuna varılacaktır (... Vasiyetnamenin Yorumu, İst.2011 Baskı, sf.22 vd.).
@@ -58,23 +70,33 @@ O halde mahkemece, 4722 sayılı Türk Medeni Kanununun Yürürlüğü ve Uygula
 
 ## Yargıtay 2. HD 2013/10809 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83044200)
+
 Olayları açıklamak taraflara hukuki nitelendirme hakime aittir (HMK md. 33). Miras, en yakın yasal mirasçıların tamamı tarafından reddedilmiştir. Bu halde tereke, kanun gereği kendiliğinden iflas hükümlerine göre tasfiyeye tabidir (TMK md. 612/2). Mirasın en yakın yasal mirasçıların tamamı tarafından reddedilmiş olması sebebiyle ortada başvurulabilecek bir miras ortaklığı da kalmamıştır. Davacı banka, alacağını tahsil işlemleri için, temsilci atanmasını istediğine göre, yukarıda açıklanan hukuki durum karşısında bu istek, terekenin iflas hükümlerine göre tasfiyesi niteliğindedir. Öyleyse, bu yönde işlem yapılması gerekirken, isteğin reddi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2013/9127 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82482400)
 
 Mirasbırakan İbrahim, 20.04.2011 tarihinde ölmüş ve en yakın mirasçılarının tamamı tarafından miras reddolunmuştur. En yakın yasal mirasçıların tamamı tarafından reddedilen miras Sulh Mahkemesince iflas hükümlerine göre tasfiye olunur (TMK.m.612/1). İstek, Türk Medeni Kanununun 612. maddesinin atfı nedeni ile aynı Kanunun 636. maddesi uyarınca, terekenin iflas hükümlerine göre tasfiyesine ilişkindir. Bu madde uyarınca yapılacak tasfiye ise bir süreye bağlı değildir. Bu bakımdan, mirasın iflas hükümlerine göre tasfiye talebi yerinde olup; İcra İflas Kanununun 180. maddesi yollaması ile aynı Kanunun 208. ve devamı maddeleri uyarınca iflas ile ilgili işlemlerin yürütülmesi gerekirken; yasal olmayan gerekçeyle talebin reddine karar verilmesi isabetsiz olmuş; bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2013/5957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/439502600)
+
 Bunlardan ayrı; tapu iptali ve tescile ilişkin davalar, tapu sicilinde malik olarak gözüken gerçek kişi ya da tüzel kişiler aleyhine, gerçek kişilerin ölmesi durumunda ise yasal mirasçılarına yöneltilir. Az yukarıda açıklandığı üzere, 137 ada 13 parsel bakımından istek bulunmadığının kabulü gerekeceğine göre, davada husumet yöneltilen davalı ..., ... ve ... dava konusu 137 ada 15 ve 16 sayılı parsellerin tapu kayıt malikleri arasında bulunmadığından, anılan davalılar bakımından açılan davanın pasif taraf sıfatı yokluğundan (pasif taraf ehliyeti) reddine karar verilmesi gerekmektedir.
 
 ## Yargıtay 7. HD 2013/3977 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095815900)
 
 Dava, mirasçılık belgesinin verilmesi istemine ilişkindir.
 
 İddia ve savunmaya, duruşma tutanaklarına yansıyan bilgi ve belgelere, toplanıp değerlendirilen delillere ve hüküm yerinde gösterilen gerekçelere, Türk Medeni Kanununun 496. maddesi hükmüne göre ikinci zümrede mirasçı varken üçüncü zümredeki mirasçıların mirastan pay alamamalarına göre mahkemece katılan davacıların davasının reddine karar verilmesinde bir isabetsizlik bulunmadığından katılan davacılar ... ve arkadaşları, ... ve arkadaşları, ... ve ...’in yerinde görülmeyen temyiz itirazlarının reddi ile hükmün ONANMASINA, peşin alınan harcın mahsubu ile geriye kalan 3,15 TL harcın katılan davacı ... ve arkadaşları, ... ve arkadaşları, ... ve ...'ten ayrı ayrı alınmasına, 20.03.2013 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 7. HD 2013/2247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1091884200)
 
 Dava, mirasçılık belgesinin verilmesi istemine ilişkindir.
 
@@ -84,11 +106,15 @@ Dava, mirasçılık belgesinin verilmesi istemine ilişkindir.
 
 ## Yargıtay 3. HD 2013/1722 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/256437800)
+
 Davada 13.03.2004 tarihinde ölen muris ...'ın tedavisi nedeniyle ve ölümü sonrasındaki cenaze nakli ve diğer dini vecibeler nedeniyle oluşan masraflarının davacı tarafından karşılandığı ileri sürülmektedir. Yasal mirasçılar, murisin borçlarından kişisel olarak sorumludurlar. (TMK. m. 599/2) Davacı tarafından yapıldığı iddia olunan murisin tedavi masraflarının ve tedavi nedeniyle yapılan ödemeler ile murisin ölümü sonrasında yapılan masrafların usulünce ispatı halinde, vekaletsiz işgören davacı , mirası kabul etmiş olan diğer yasal mirasçılardan miras payları oranında yapmış olduğu ödemeleri geri isteyebilecektir.
 
 Şu halde mahkemece, davanın eda davası olduğu ve davacının söz konusu davayı açmakta hukuki yararının bulunduğu gözetilerek, iddia ve savunma doğrultusunda taraf delilleri ve özellikle murisin tedavisi sırasında ve ölümü sonrasında davacı tarafından yapıldığı iddia edilen masraf ve ödemelere ilişkin olarak tüm delillerin usulünce toplanarak, oluşacak sonuç dairesinde işin esası hakkında karar verilmesi gerekirken, yanılgılı değerlendirme ve eksik inceleme ile yazılı şekilde hüküm kurulmuş olması doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2013/745 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/407310700)
 
 Dava, hasımsız olarak açılmış mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -100,6 +126,8 @@ Hal böyle olunca; mahkemece davanın kabulü ile muris ...'in mirası 4 pay kab
 
 ## Yargıtay 7. HD 2013/738 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105296000)
+
 Dava, mirasçılık belgesinin verilmesi istemine ilişkindir.
 
 …
@@ -108,9 +136,13 @@ Başka bir anlatımla Lara'nın 2. zümreden mirasçısı olan babası varken La
 
 ## Yargıtay 18. HD 2013/146 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254398700)
+
 Türk Medeni Kanunu'nun 313. maddesinde, evlât edinenin altsoyunun açık muvafakatıyla ergin olanların; evlât edinen tarafından küçükken en az beş yıl süreyle bakılıp gözetilmiş ve eğitilmiş olması veya diğer haklı sebeplerin bulunması ve evlât edinilenin en az beş yıldan beri evlât edinen ile aile hâlinde birlikte yaşamaları durumunda evlât edinebilecekleri, evli bir kimsenin ancak eşinin rızasıyla evlât edinilebileceği, bunların dışında küçüklerin evlât edinilmesine ilişkin hükümlerin kıyas yoluyla uygulanacağı, 306. maddesinde de; eşlerin ancak birlikte evlât edinebilecekleri evli olmayanların birlikte evlât edinemeyecekleri, eşlerin en az beş yıldan beri evli olmaları veya otuz yaşını doldurmuş bulunmaları gerektiği, eşlerden birinin en az iki yıldan beri evli olmaları veya kendisinin otuz yaşını doldurmuş bulunması koşuluyla diğerinin çocuğunu evlât edinebileceği, 314. maddesinde de evlât edinme ile ana ve babaya ait olan hak ve yükümlülüklerin evlât edinene geçeceği, evlâtlığın evlât edinenin mirasçısı olacağı, ergin olan …
 
 ## Yargıtay 2. HD 2012/31818 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83280700)
 
 Mirasbırakan 22.3.2011 tarihinde vefat etmiş, en yakın yasal mirasçıları olan eşi ve çocukları tarafından miras 25.3.2011tarihinde reddolunmuştur. Bu durumda miras , kendiliğinden iflas hükümlerine göre tasfiyeye tabi hale gelmiştir (TMK. m.612/1). Davacı kamu alacaklısı, iflas hükümlerine göre tasfiyeye tabi terekedeki alacağının deftere kaydedilmesini istediğine göre, bu istek, Türk Medeni Kanununun 589. ve 590. maddelerindeki "koruma önlemlerinden" olan defter tutma niteliğinde olmayıp, kayıt kabul davası niteliğindedir.
 
@@ -119,11 +151,15 @@ K. m. 217) ve sonucuna göre hareket edilmesi gerekirken; açıklanan yönlerden
 
 ## Yargıtay 2. HD 2012/24518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82966100)
+
 Dava, miras ortaklığına temsilci atanmasına ilişkin olup, mirasbırakanın alacaklısı tarafından açılmıştır. Davacı alacaklı, mirasbırakanın sağlığında oğlu E..a doğrudan ve dolaylı olarak yaptığı temliki tasarruflar için İcra İflas Kanununun 278'nci maddesine dayanarak "tasarrufun iptali" davası açtığını ileri sürerek bu taşınmazların terekeye dönmesini sağlamak ve alacağını bu yolla tahsil etmek amacıyla miras ortaklığına temsilci atanmasını istemektedir.
 
 Birden çok mirasçı bulunması halinde, mirasın geçmesiyle birlikte paylaşmaya kadar, mirasçılar arasında terekedeki bütün hak ve borçları kapsayan bir ortaklık meydana gelir (TMK. md. 640/1) ve miras ortaklığının varlığı durumunda, mirasçılardan birisinin istemi üzerine ortaklığa paylaşmaya kadar bir temsilci atanabilir (TMK. md. 640/3). Olayda borçlu mirasbırakan 11.12.2009 tarihinde ölmüş, en yakın yasal mirasçıların tamamı tarafından miras 28.01.2010 tarihinde reddedilmiştir. Bu halde, tereke kendiliğinden (re'sen) iflas hükümlerine göre tasfiyeye tabidir (TMK. md. 612/1). Böyle bir durumda mirasbırakanın alacaklısı tarafından terekeye karşı açılacak davalarda husumetin "tasfiye memurluğuna" yöneltilmesi olanaklıdır (TMK. md. 635/2). O halde, mirasbırakanın alacaklısının terekeye temsilci atanmasını istemekte hukuki yararı yoktur. Kaldı ki en yakın yasal mirasçıların tamamı tarafından miras reddedildiğine göre, ortada bir miras ortaklığı da kalmamıştır. Bu hususlar dikkate alınarak davanın reddi gerekirken yazılı şekilde temsilci atanmasına karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2012/17661 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/269003300)
 
 Dava, 4 adet taşınmaz ve iki adet taşınır üzerindeki ortaklığın giderilmesi istemine ilişkindir.
 
@@ -133,10 +169,14 @@ Dava, 4 adet taşınmaz ve iki adet taşınır üzerindeki ortaklığın gideril
 
 ## Yargıtay 8. HD 2012/13069 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628727900)
+
 Her ne kadar, TMK.nun 652. maddesinde; “eşlerden birinin ölümü halinde, tereke malları arasında ev eşyası veya eşlerden birlikte yaşadıkları konut varsa; sağ kalan eş, bunlar üzerinde kendisine miras hakkına mahsuben, mülkiyet hakkı tanınmasını isteyebilir” hükmü yer almakta ve içerik itibariyle TMK.nun 240. maddesine benzerlikleri öngörmekte ise de, birinde, miras hakkına mahsuben, diğerinde ise katılma alacağına mahsuben maddelerde öngörülen hakların tanınması söz konusudur. Ne var ki, TMK.nun 240 ve 652. maddelerinde yer alan hakların tanınması bakımından öngördükleri unsurlar birbirlerinden farklıdır. Söz konusu farklılıklar ve ortak noktalar Dairenin 1.6.2010 tarih ve 2010/1695 E, 2010/2923 Karar sayılı kararında açık bir biçimde ortaya konulmuştur (Yargıtay Kararlar Dergisi, C:36, Sayı:8, Ağustos 2010, S:1428’de yayımlanmıştır). Bu nedenle, TMK.nun 240. maddesi uyarınca sağ kalan eşin katılma alacağı yok ise, değer artış payı karşılığında anılan maddede öngörülen hakların tanınması yönündeki istek yerine TMK.nun 652. maddesindeki haklardan yararlanılması mümkündür denilebilir. Nitekim, doktrinde bu yönde de, çok azda olsa bazı görüşlere rastlanılmıştır.
 Az önce de açıklandığı gibi gerek TMK.nun 240 ve gerekse 652. maddeleri kapsamları birlikte göz önünde bulundurulduğunda, değer artış payı alacağı karşılığında TMK.nun 240. maddesindeki hakların tanınmasını engelleyen bir hüküm bulunmadığı gibi miras hukuku kapsamında yer alan aynı Kanunun 652. maddesi de buna engel oluşturmamaktadır. Maddenin lafzından ziyade içeriğindeki amaç önemlidir. Amaç ise sağ kalan eşin hukuki yararını öngörmektedir. Yerel mahkemece de, sağ kalan eşin hukuki yararı göz önünde bulundurularak değer artış payı karşılığında davacıya mülkiyet hakkının tanınmasına karar verilmesinde usul ve kanuna aykırı bir yön bulunmamıştır.
 
 ## Yargıtay 1. HD 2012/12003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79235400)
 
 Dava; elbirliği mülkiyetine tabi taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup mahkemece elatmanın önlenmesi isteğinin kabulüne, ecrimisil isteğinin ise kısmen kabulüne karar verilmiştir.
 
@@ -146,9 +186,13 @@ Ancak Türk Medeni Kanununun 599. maddesi hükmü uyarınca mirasbırakanın öl
 
 ## Yargıtay 8. HD 2012/9251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637021800)
+
 O halde mahkemece yapılacak iş; dosya arasında bulunan vergi kaydı ile 2613 sayılı Kanuna göre düzenlenen kadastro beyannamesinin okunaklı bir örneği eklenmek suretiyle Gaziantep İli, Kilis İlçesi, Bölük Mahallesinin henüz bilgisayara geçmeden önce nüfus müdürlüğünde mevcut nüfus aile kütükleri üzerinde yapılacak inceleme sonucu böyle bir kişinin olup olmadığının Nüfus Müdürlüğünden sorulması, ...’nin hasımlı veraset belgesinin alınması için (Hazine hasım olacak) davacı tarafa süre ve imkan tanınması, mirasçılarının olduğunun belirlenmesi durumunda davanın ...’nin mirasçılarına yöneltilmesi, herhangi br mirasçısının bulunmaması halinde ise yapılacak araştırma inceleme sonucu açık adresinin saptanamaması durumunda ise, gazete ile dava dilekçesinin tebliğ yoluna gidilmesi böylece taraf teşkilinin sağlanması ve ayrıca bu durumda TMK.nun 501. maddesinin gözetilmesi, ondan sonra toplanacak deliller çerçevesinde bir karar verilmesi gerekirken taraf teşkili kurulmadan karar verilmesi, usul ve kanuna aykırıdır. Taraf teşkili kamu düzeni ile ilgili olup mahkemece kendiliğinden göz önünde bulundurulur.
 
 ## Yargıtay 7. HD 2012/9212 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105231800)
 
 Dava mirasçılık belgesinin iptali ile yenisinin verilmesi istemine ilişkindir.
 
@@ -157,6 +201,8 @@ Dava mirasçılık belgesinin iptali ile yenisinin verilmesi istemine ilişkindi
 Az yukarıda açıklanan hukuksal olgu dikkate alınarak mahkemece muris ...'in yasal mirasçıları ve payları belirlenerek hüküm yerinde gösterilmeli, murisin babası ... ... ile annesi ... ...'in murisin mirasını reddettikleri hususunun ve reddetmenin hukuki sonucunun terekenin bölüştürülmesi sırasında gözetileceğine temas etmekle yetinilmesi gerekirken yerinde olmayan gerekçeyle TMK'nun 605. maddesi uyarınca miras paylarının alt soylarına gideceği biçiminde hüküm kurulması isabetsiz olduğu gibi hakimin, hakimlik bilgi ve tecrübesiyle çözümlemesi gereken hususlarda bilirkişiden rapor alınarak üstelik hatalı olan raporun hükme esas alınması dahi isabetsiz olup davacının temyiz itirazları bu nedenle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, peşin alınan harcın istek halinde davacıya iadesine, 12.12.2012 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 7. HD 2012/8185 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107033200)
 
 Dava, mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -168,6 +214,8 @@ Eldeki davada ...'nin ölüm tarihinde dedesi ...'un babası ... ile ...'un alt 
 
 ## Yargıtay 7. HD 2012/7156 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105026800)
+
 Dava, hasımlı olarak açılmış mirasçılık belgesi verilmesi istemine ilişkindir.
 
 …
@@ -176,16 +224,22 @@ Miras bırakanın ölüm gününde yürürlükte bulunan 4721 Sayılı Türk Med
 
 ## Yargıtay 8. HD 2012/4905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/611356300)
+
 Somut olayda kayıt maliklerinden... 1910, diğer malik ... ise 1936 tarihinde ölmüş, taşınmazın kadastro tespiti 22.03.1972 tarihinde yapılmış ve kadastro tutanağı 16.05.1973 tarihinde kesinleşmiştir. Eldeki dava 01.12.2006 tarihinde açılmıştır. Bu açıklamalara göre, kadastro tespitinden önceki nedenler yönünden 3402 sayılı Kanunun 13/B-c ve TMK.nun 713/2. maddelerinde açıklanan kayıt malikinin ölüm tarihinden tespit tarihine kadar geçmesi gereken 20 yıllık kazanma süresi davacı yararına gerçekleşmiştir. Kural olarak, kadastro tespitinin yapılması ile kadastrodan önceki zilyetlik kesilir ve kadastro sonrası zilyetliğe eklenmez. Kadastro tespitinden sonra zilyedin yeniden 20 yıl süreyle taşınmazı kullanması gerekir. Bu durum karşısında, kadastro tespit tarihinden dava tarihine kadar zilyedin yine 20 yıllık kazanma süresi dolmuştur. Dava; TMK.nun 713/2.maddesindeki ölüm nedenine dayalı iptal ve tescil isteğine ilişkin olup, bu tür davalarda; yargılama sırasında davanın kayıt maliklerine ya da mirasçılarına yöneltilmek suretiyle taraf teşkilinin sağlanması gerekir.
 Yargılama sırasında kayıt malikleri belirlenmiş ve kayıt maliklerinin mirasçılarına husumet yöneltilerek taraf teşkili sağlanmış ve kayıt maliklerinin mirasçıları davada yer almış ise de; usulüne uygun tebligata rağmen hükmü temyiz etmemişlerdir. O halde; kayıt malikinin mirasçıları bulunduğundan ve bu nedenle Hazine son mirasçı olamayacağından Hazinenin TMK.nun 501. maddesi uyarınca davada taraf durumunu almasında ve hükmü temyiz etmesinde hukuki yararı bulunmamaktadır.
 
 ## Yargıtay 8. HD 2012/4405 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610375500)
 
 Kayıt malikinin mirasçı bırakmadan ölmüş olması halinde TMK. nun 501. maddesi uyarınca son mirasçının Devlet olması nedeniyle Hazinenin davada yer alması mümkündür. Ne var ki, somut olayda kayıt malikinin mirasçıları bulunmaktadır. Bu bakımdan Hazineye davanın yöneltilmesi doğru olmadığı gibi, kayıt maliki bulunmayan ve ilgisi de belirlenemeyen Urla Belediyesine davanın yöneltilmesi de doğru değildir.
 
 Şu halde, kayıt malikinin mirasçıları belirlendiğine ve davanın mirasçılara yöneltilerek yürütülmesi mümkün bulunduğuna göre, Hazine ve Belediyeye karşı açılan davanın husumet yokluğu nedeniyle reddine karar verilmesi gerekirken, bu konuda olumlu veya olumsuz bir karar verilmemiş olması yerinde bulunmadığı gibi, bu davalıların yargılama giderlerinden de sorumlu tutulması doğru bulunmamıştır. Bundan ayrı, TMK.nun 713/2. fıkrası aynı maddenin 1. fıkrasına atıfta bulunduğundan HGK.nun 17.02.2010 tarih ve 2010/8-58 Esas, 2010/78 Karar sayılı kararı uyarınca, davalı durumunda bulunan kayıt malikinin mirasçılarının da yargılama giderlerinden sorumlu tutulması mümkün değildir. TMK.nun 713/1. fıkrası gereğince açılan davalarda olduğu gibi, bu tür davalarda da eksik harcın davacı taraftan alınmasına, davacı tarafın yaptığı tüm yargılama giderlerinin üzerinde bırakılmasına ve davacı yararına vekalet ücreti taktirine yer olmadığına karar verilir.
 
 ## Yargıtay 8. HD 2012/4293 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617847300)
 
 Dosya arasındaki tapulama tutanağı ve toplanan delillerden kayıt maliki ile ilgili kim olduğunu açıklayacak bir bilgiye ulaşılamamaktadır. Belirlenebilen husus kayıt malikinin ... ölü Bekçi ... olduğudur. Tapulama tarihinde ...’in ölü olduğu tutanakta yazılı ise de bunun da kayıtlara değil bilirkişi beyanlarına dayalı olduğu görülmektedir. Davaya dahil edilen Bekir oğlu 01.07.1898 doğumlu ... ise 22.05.1965 tarihinde ölmüş ve geride davaya dahil edilen çocukları ile torunlarını bırakmıştır. Mahkeme bu kişinin bir kısım mirasçılarının beyanlarından hareketle kayıt maliki olmadığı kanaati ile yazılı şekilde hüküm kurmuş, asıl davada kayıt malikine dava yöneltilmediğinden Hazine adına açılan davayı reddederken, birleşen davada ise son mirasçının Hazine olduğunu kabul ederek Hazine adına tescile karar vermiştir.
 Mahkemece yapılan araştırma sırasında mahkemeye gönderilen emekli sandığı sicil dosyasının incelenmesinde defterdar vekilince 22.10.1935 tarihinde düzenlenen ve 14.11.1935 tasdik tarihli vazife ile ilgili bilgileri içeren belgede Bekir oğlu ...’nın aile lakabının “...” olarak belirtildiği, sicil dosyasındaki belgelerin bir kısmında soyadının “...” bir kısmında ise “Sakallı” şeklinde geçtiği, 20.9.1954 tarihli emlak ve servet menşeini gösteren bugünkü mal bildirimi belgesinde 3.sırada “Arkacebeci Ankara bağ tam 2 dönüm satın” şeklinde taşınmazın bulunduğu, yine kişinin kendisini tanıttığı özgeçmişini içeren belgede de “namım ...” şeklinde açıklamanın yer aldığı görülmektedir. Dava konusu taşınmazın ... Arkacebeci-Türközü’nde bulunduğu gözetilerek yukarıdaki bilgilerle birlikte değerlendirildiğinde kayıt maliki ...’nun davaya dahil edilen ... olduğunun kabulü gerekmektedir. Tespit edilen bilgiler doğrultusunda bu kişilerin aynı kişiler olduğu anlaşılmaktadır.

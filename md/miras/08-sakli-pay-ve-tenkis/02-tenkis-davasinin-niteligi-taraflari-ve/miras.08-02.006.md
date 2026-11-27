@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 12. HD 2025/434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1128077300)
+
 Dava, rekabet yasağına aykırılıktan kaynaklanan cezai şart alacağının tahsili istemine ilişkindir.
 
 …
@@ -38,16 +40,22 @@ Mahkemece TBK'nın 438/2. maddesi uyarınca davacı yararına hükmedilecek tazm
 
 ## İstanbul BAM 12. HD 2024/1731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1093696500)
+
 Bu sebeple şirketin mal varlığı paylaşılamamış ise de; tarafların mal varlığı yine ortak oldukları şirkette kalmış bu anlamda ekonomik bir kayıp yaşanmamış, mevcut durum muhafaza edilmiştir. Şirket ortağı olmaları davalıları tacir kılmayacağı gözetilerek aşırı bulunan cezai şarttan TBK 182/son cümlesi gereği dikkate alınmalıdır.
 Öngörülen fahiş cezai şarttan tarafların menfaat dengesi gereği bir miktar tenkis edilmesi yerinde görülmüş, %40 oranında bir tenkisin yerinde olacağı sonucuna varılmış her bir davalının 300.000-USD cezai şart ile sorumlu tutulmalarının dosya kapsamına uygun görülmüştür.Açıklanan nedenlerle; davalı vekilinin istinaf başvurusu yerinde görülerek kararın kaldırılmasına, tarafların ödeme güçleri olsa dahi hakimin aşırı nitelikteki cezai şarttan resen indirim yapması gerektiğinden, ilk derece mahkemesince tenkis yapılmaması yerinde görülmemiş, yapılan hata eksiklik nedeniyle yeniden yargılama yapılmasına gerek bulunmadığından taraflarca kararlaştırılan 1.000.000-USD cezai şarttan takdiren %40 oranında tenkis yapılarak takdiren her bir davalıdan 300.000-USD'nin ayrı ayrı tahsiline fazla istemin tenkis nedeniyle reddine, tenkis nedeniyle reddedilen kısım bakımından davalılar yararına yargı gideri ve vekalet ücretine hükmedilmemesine, dava dilekçesinde, yasal faiz talep edildiği, arada gecikme faizine ilişkin bir sözleşme hükmü olmadığından 3095 sayılı kanunun 4.a maddesi uyarınca temerrüt faizi işletilmesine, ihtarnamede cezai şart ödeme istemi bulunmadığı, ancak cezai şart talebini
 muaccel kıldığı anlaşılmakla temerrüt faizinin dava tarihinden itibaren işletilmesine" karar verilmiştir. Taraf vekillerinin Dairemiz kararını temyizi üzerine, Yargıtay 11. Hukuk Dairesi'nin 07/05/2024 tarih ve 2023/1411 Esas - 2024/3639 Karar sayılı ilamı ile; "Taraflar arasındaki uyuşmazlık 07.09.2015 tarihinde imzalanan "sözleşme" başlıklı belgeden kaynaklanmaktadır. 13 maddeden oluşan sözleşmenin 10 uncu maddesi iki taraftan her hangi birisinin bu protokolde yer alan yükümlülüklerini yerine getirmediği ya da protokol hükümlerini uygulamaktan vazgeçtiği taktirde diğer tarafa 1 milyon Amerikan doları cezai şart ödeyeceğini hüküm altına almaktadır.
 
 ## İstanbul BAM 12. HD 2024/1680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085844000)
+
 Sözleşmenin 7/(n) bendinde, söz konusu maddedeki hükümlere sürekli ihlali sebebiyle davacının davalıya ödediği 40.000-TL teminatın irat kaydedilmesi yani davacının bu talebinin reddine karar verilmesi gerekmektedir.Yine sözleşmenin haklı nedenle fesh edildiği dikkate alındığında, birleşen davada mahkemece davacı lehine hükmedilen 28.790,77-TL kazanç kaybına ilişkin maddi tazminat talebinin reddine karar verilmelidir.Karşı davada ise, karşı davacı sözleşmenin 4/(bb) hükmüne istinaden 100.000-TL tazminat talebinde bulunmuştur. Maddede söz konusu tazminat haksız fesih veya iş bırakmaya yani ifa etmeme durumu için düzenlendiğinden, bu tazminatın TBK 179-182'de düzenlenen ceza koşulu olduğu kabul edilmelidir. Ancak TBK'nın 182/3. fıkrasına göre hakim, fahiş gördüğü cezai şarttan re'sen indirim yapabilir. Cezai şartın fahiş olup olmadığı belirlenirken, tarafların ekonomik durumu, borçlunun ödeme kabiliyeti ile beraber borcunu yerine getirmemiş olması nedeniyle sağladığı menfaat, kusur derecesi ve borca aykırı davranışının ağırlığı ölçü alınarak tayin edilmeli ve hüküm altına alınacak ceza miktarını belirlerken hak, adalet ve nesafet kuralları dikkate alınmalıdır.
 Buna göre sözleşmenin belirli süre ifa edilmesine, davacı-karşı davalının kusur derecesi ve sözleşmeye aykırılığın ağırlık ölçüsüne göre, 100.000-TL cezai şart isteği fahiş sayılmalıdır. Bu nedenle irat kaydedilen teminat miktarı da gözetilerek kararlaştırılan cezai şarttan %90 oranında tenkis yapılması somut olaya uygun görülmüştür.Tenkis hakimin takdirine bağlı olup ,tenkis nedeniyle davanın reddine karar verilen miktar bakımından karşı davalı yararına yargı gideri ve vekalet ücretine hükmedilmemiştir.Karşı davada, karşı davacının diğer talebi ise sözleşmenin 19. maddesine ilişkindir. Bu madde uyarınca davacı-karşı davalı öğrencilerden aldığı servis ücretinin %15'inin okula ait olduğu ve bu miktarın her ayın 20-25'i arasında okula ödeneceği kabul edilmiştir. Bu miktarın karşı davacıya ödenmediği ve sözleşmenin 4,5 ay ayakta kaldığı hususunda uyuşmazlık bulunmamaktadır.
 
 ## Ankara BAM 22. HD 2024/1663 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104279800)
 
 Dava, taraflar arasındaki "Açık Satış Noktası Sözleşmesi" kapsamında katkı tutarı ile cezaî şart alacağının tahsili istemine ilişkindir.
 
@@ -57,10 +65,14 @@ Mahkemece davacının 627.000,00 TL cezai şart talebi bakımından tenkis yapı
 
 ## İstanbul BAM 12. HD 2024/1522 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1076934700)
+
 100.000-USD tutarlı cezai şart faturasının karşılığı olarak talep olunan icra takibine konu 282.000-TL alacaktan %25 oranda tenkis yapılarak davanın kısmen kabulü gerekirken protokol ihlali nedeniyle cezai şart talebinin tümüyle reddine karar verilmesi doğru olmamıştır.Açıklanan nedenlerle, davacı vekilinin istinaf başvurusunun kabulü ile kararın kaldırılmasına ,yapılan hata nedeniyle yeniden yargılama yapılmasına gerek olmadığından yeniden karar verilmesine ; davanın kısmen kabulüne, davalı borçlunun İstanbul ...İcra Dairesinin ... esas sayılı dosyasında talep ettiği itirazın iptaline karar verilip kesinleşen 136.860-TL sözleşmenin erken feshi nedeniyle cezai şart ve 23.779,87-TL cari hesap alacağı yanında %25 tenkis yapılarak kalan 211.500-TL olmak üzere toplam 372.139,87-TL alacak bakımından itirazın iptaline,alacağa % 9,75 oranı aşmamak üzere değişen oranlarda avans faizi işletilerek takibin devamına, fazla istemlerin tenkis nedeniyle reddine, 23.779,87-TL cari hesap alacağının %20 si oranda hesaplanan 4.755-TL icra inkar tazminatının davalıdan alınıp davacıya ödenmesine, koşulları oluşmadığından cezai şart alacakları bakımından icra inkar tazminatı talebinin ve davalı tarafın
 tazminat isteminin reddine karara verilmiştir.
 
 ## İstanbul BAM 12. HD 2024/1496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1076716000)
 
 Dava, rekabet yasağına aykırılık nedeni ile cezai şart bedelinin tahsili talebine ilişkindir.
 
@@ -70,6 +82,8 @@ Davalı tarafça her iki işyerindeki görev tanımlarının çok farklı olduğ
 Dava dilekçesinde işten ayrıldığında davalının 28.000- TL brüt ücret aldığı ileri sürülmüş,davalı tarafça bu ücrete itiraz edilmemiştir.6 aylık brüt ücret tutarı 168.000- TL cezai şart isteği günün ekonomik şartlarında fahiş bulunmuştur.Bu nedenle talep olunan cezai şarttan yarı oranında tenkis yapılarak takdiren 84.000 -TL'ye indirilmesi hak ve nesafet kurallarına uygun olacağı takdir edilmiştir.Açıklanan nedenlerle; cezai şart talep koşulları oluştuğu halde davanın reddine karar verilmesi doğru değil ise de, yapılan hata/eksiklik yeniden yargılama yapılmasını gerektirmediğinden, davacı vekilinin istinaf başvurusunun kabulü ile kararın kaldırılmasına yeniden karar verilmesine "davanın kısmen kabulüne" fazla istemin tenkis nedeniyle reddine alacağa ihtarla verilen süre sonu itibariyle gerçekleşen temerrüt tarihinden itibaren karar verilmiştir.
 
 ## Adana BAM 9. HD 2024/1418 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1049795400)
 
 Dava hisse devir sözleşmesi ve eki protokolden kaynaklanan cezai şartın tahsili istemine ilişkindir.
 
@@ -81,10 +95,14 @@ verilmesinin yerinde olmadığı anlaşılmıştır.
 
 ## İstanbul BAM 43. HD 2024/744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1048990400)
+
 Bu nedenle, borçlunun “indirilme olanağından önceden feragati” geçersizdir (Reisoğlu, S: Borçlar Hukuku Genel Hükümler, İstanbul, 2004, s:391,392, Oser-Schönenberger, Tunçomağ, Becker, von Tuhr’a atfen). Dosya kapsamından davalı ...'nin tacir olduğuna dair bir delil bulunmamaktadır. Taraflar arasındaki sözleşmenin 4. maddesinde ''..bu cezai şartın fahiş olmadığını ve hiçbir indirimini talep edemeyeceğini peşinen kabul, beyan ve taahhüt eder.'' düzenlemesi yer almaktadır. İlk derece mahkemesince davalı ...'nin danışmanlık sözleşmesindeki yükümlülüklerini ihlal etmesi nedeniyle 50.000 USD cezai şart üzerinden indirim yapılmaksızın sorumlu olduğuna karar verilmiştir. Ancak sözleşmede rekabet yasağı kaydına ilişkin davacı şirketin üstlendiği karşı bir edim de bulunmamaktadır. Buna göre davalı aleyhine rekabet yasağı kaydında kararlaştırılan cezai şartın hakkaniyete uygun olmadığı ve aşırı nitelikte bulunduğunun kabulü ile cezai şarttan %75 oranında bir indirim yapılması uygun, makul ve gereklidir. Buna göre sonuç olarak davacının, davalının rekabet etmeme yasağı nedeniyle 12.500 USD cezai şart alacağı bulunmaktadır.
 Ayrıca sözleşme ile tayin edilen bir cezai şartın tahsilini istemek hakkını haiz olan davacının açtığı dava sonunda cezai şartın mahkemece fahiş görülerek hakimin takdir hakkını kullanarak tenkis edilmesi halinde, tenkis edilen miktardan dolayı davalı ... yararına vekalet ücretine ve yargılama giderlerine hükmedilemeyecektir. HMK'nın 355. maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılan istinaf incelemesi sonunda; davalı ...A.Ş vekilinin yerinde görülmeyen istinaf istemlerinin reddi ile davalı ... vekilinin istinaf talebinin kabulüne, İlk Derece Mahkemesi kararının kaldırılmasına, yeniden yargılama yapılmasına gerek bulunmadığından Dairemizce esas hakkında yeniden karar verilmek suretiyle davanın cezai şarttan indirim yapılmak suretiyle kabulüne dair aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 12. HD 2024/727 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047505800)
 
 Dava, bayilik sözleşmesinin fesihle sona ermesi üzerine davalı bayiin tonaj taahhüdü nedeniyle ve davalının sözleşmenin feshine sebep olması nedeniyle kararlaştırılan cezai şart alacağının tahsili istemine ilişkindir.
 
@@ -94,6 +112,8 @@ Mahkemenin kararında ise taleple bağlı kalınarak 500-USD kabul edilmiş anca
 Bu nedenle kısmi davada, dava konusu yapılmamış ve başka bir davanın konusu olabilecek bir talep hakkında tenkis yapılarak davacı lehine 50.000-USD cezai şartın makul olduğunun belirlenmesi yerinde görülmemiştir.Ayrıca hüküm altına alınmış olan 500-USD cezai şart, tenkisi gerektirmeyecek miktarda olduğundan tenkisine gerek görülmemiştir.Açıklanan nedenlerle, yukarıda belirtilen kapsam ve gerekçelerle davanın kabulüne karar verilmesi gerekirken, yanılgılı değerlendirmelere göre ifaya ekli cezai şartın kar mahrumiyeti alacağı olarak ve kısmi dava konusu yapılmamış talep hakkında tenkis yapılarak cezai şartın belirlenmesi suretiyle davanın kabulüne karar verilmiş olması doğru değil ise de, yapılan hata/eksiklik yeniden yargılama yapılmasını gerektirmediğinden, davalı vekilinin istinaf başvurusunun kabulü ile kararın kaldırılarak yazılı şekilde davanın kabulüne karar verilmiştir.
 
 ## İstanbul BAM 12. HD 2024/547 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018852000)
 
 Dava, rekabet yasağına aykırılık nedeniyle cezai şart alacağının tahsili ile davalının dava dışı firma ile olan iş ilişkisinin sona erdirilmesi istemine ilişkindir.
 
@@ -105,6 +125,8 @@ Bu doğrultuda somut olayda davalının eylemi, rekabet eylemini sona erdirme ya
 
 ## İstanbul BAM 12. HD 2024/381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042384700)
+
 Dava, bayilik sözleşmesinin feshine dayalı cezai şart ile alım taahhüdüne dayalı cezai şart istemine ilişkindir.
 
 …
@@ -114,9 +136,13 @@ Bu nedenle hükmedilen cezai şart alacağına yasal faiz uygulanması mümkün 
 
 ## Gaziantep BAM 17. HD 2024/45 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993006100)
+
 Diğer taraftan, (6098 sayılı TBK'nın 51. md.); Hakimin, tazminatın kapsamını, durumun gereğine ve özellikle kusurun ağırlığına göre belirleyeceği belirtilmiş "tazminatın tenkisi" başlıklı 44. maddesinde (TBK'nın 52. md.) ise; zarar gören taraf, zarara razı olduğu veya zararın doğmasında ya da artmasında etkili olduğu yahut tazminat yükümlüsünün durumunu ağırlaştırdığı takdirde hakimin, tazminatı indirebileceği veya tamamen kaldırabileceği açıklanmıştır.
 
 ## İstanbul BAM 12. HD 2023/1864 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986891800)
 
 Bayilik Sözleşmesi'nin 33.maddesinde, "Bayi'nin sözleşmeye aykırı davranışı nedeniyle sözleşmenin feshine sebebiyet vermesi halinde, 32.maddede yer alan yükümlülükten ayrı olarak ...'dan LPG alımı yapacağı dönem içinde LPG alımının en yüksek olduğu aydaki LPG miktarının fesih tarihindeki perakende satış fiyatı ile çarpımı sonucu bulunacak bedeli cezai şart olarak ...'a ödemeyi kabul ve taahüt eder.” hükmüne yer verilmiş olup, kesinleşen dava dosyasında sözleşmenin kalan süresine isabet eden kâr mahrumiyeti bedelinin 23.099,64-TL, cezai şart bedelinin 332.648,68-TL olduğu anlaşılmaktadır. Bahsi geçen davada hükmolunun kısımların düşülmesi ile davacının bakiye 8.099,64-TL kar mahrumiyeti, 317.648,68-TL cezai şart alacağı bulunmaktadır. Fesih tarihinde yürürlükte bulunan 818 S.lı Borçlar Kanunu'nın 161. maddesi (6098 S.lı TBK. m.182) gereğince cezai şartın fahiş nitelikte olup olmadığının da değerlendirilmesi gerekmektedir. Sözleşmenin tarafları sözleşme özgürlüğü çerçevesinde sözleşmenin konusunu ve cezai şartın miktarını belirlemede özgür iseler de bu özgürlük sınırsız ve sonsuz değildir. 818 S.lı BK.nun 18, 19, 161.
 (6098 S.lı TBK m.26, 27, 181) maddeleri bu özgürlüğün sınırını çizmiştir. Taraflar, cezanın miktarını tayin etmekte serbest iseler de BK.182 maddesi hükmüne göre hakim, fahiş gördüğü cezaları resen tenkis etmekle yükümlüdür. Ceza koşulunun fahiş olup olmadığı, tarafların iktisadi durumu, özel olarak borçlunun ödeme kabiliyeti ile beraber borçlunun borcunu yerine getirmemiş olması nedeniyle, sağladığı menfaat, borçlunun kusur derecesi ve borca aykırı davranış ağırlığı ölçü alınarak tayin edilmeli, cezai şart miktarı, hak, adalet ve nesafet kurallarına uygun olarak tespit edilmelidir. Somut olayda mahkemece cezai şart miktarının davalının ekonomik mahvına neden olmayacağı gerekçesiyle cezai şart bedelinden tenkis yapılmamış ise de taraflar arasındaki sözleşmenin 18/09/2010 tarihinde feshedildiğinden hükmolunan ceza bedelinin fahiş olup olmadığının o tarihte koşullara göre değerlendirilmesi gerekmektedir.
@@ -126,16 +152,22 @@ O nedenle, sözleşme ile tayin edilen bir cezai şartın tahsilini istemek hakk
 
 ## İstanbul BAM 44. HD 2023/1689 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982029100)
+
 Üniversitesi'nin uğramış olduğu ya da uğrayacağı her türlü zararın tazminine ek olarak 250.000 TL cezai şartı tenkisi ve itirazı kabil olmaksızın ödeyeceğini gayrıkabili rücu kabul ve taahhüt eder” hükmüne dayanarak, davacı tarafça İstanbul ... İcra Müdürlüğü ... Dosya Numarasıyla ... ve Kefil ...'na karşı icra takibi başlatıldığı, icra takibine ... ve kefil ... tarafından itiraz edildiğinden İİK.'nun 67. Maddesi gereği açılan itirazın iptali ve davalı borçluların %20 'den aşağı olmamak üzere icra inkar tazminatı ödemesi talepli dava açıldığı anlaşılmıştır. Kağıthane Belediye Başkanlığı Plan ve Proje Müdürlüğü'nün 17.10.2017 Tarih ve E.... Sayılı müzekkere cevabında, "...
 Parsel Sayılı taşınmazın imar planında , Parklar ve Dinlenme Alanları ve Yol Alanı, olarak planlanmış olduğu ve Enerji Nakil Hattı'nın geçtiği güzergahta bulunan parsellerde ... kurum görüşü doğrultusunda uygulama yapılacağı , belirtilmiş olup bu parselin 1/1000 ölçekli imar planında herhangi bir yapı bulunmadığı , ... onay verirse park , dinlenme alanları ve yol yapılacağının belirtildiği, ... sayılı parselin imar planında "Parklar ve Dinlenme Alanları ve Yol Alanı" olarak planlanmış olduğu ve parsel üzerinden Enerji Nakil Hattı geçmekte olduğu, ...'tan rapor istendiği anlaşılmıştır.Dosya kapsamında bulunan, davacı ve dava dışı kiralayan ... arasında yapılan 01/11/2013 tarihli protokolün, 1. Maddesinde kiralananın devir ve ciro yasağının bulunduğu, yine aynı taraflar arasında yapılan 28/03/2014 tarihli ek protokol ile, 1.
 
 ## İstanbul BAM 44. HD 2023/1307 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/962326500)
 
 Taraflar arasındaki ticari ilişkinin kısa bir süre devam etmiş olması ve ticari işlem hacmi dikkate alındığında, 10.000,00 TL cezai şartın davalının iktisaden mahvına neden olacak miktarda bulunduğu, kararlaştırılan cezai şart tutarından takdiren %50 oranında indirim yapılması gerektiği sonuç ve kanaatine varılmıştır. Ancak tenkis nedeniyle reddedilen kısım üzerinden davalı yararına yargılama gideri ve vekalet ücretine hükmedilemeyecektir. Yerleşmiş yargı uygulamasında da cezai şart alacağının likit olmadığı kabul edilmektedir.
 Taraflar arasındaki sözleşmenin 7.11 maddesinde kararlaştırılan cezai şart maktu bir tutar olsa da, yargılamayı gerektiren bu istek nedeniyle icra inkar tazminatına da hükmedilmeyecektir.Taraflar arasındaki sözleşme maddeleri incelendiğinde, davacının dava konusu ürünleri davacıya kargo ile gönderdiği, taraflar arasındaki cari hesap borcu yönünden mutabakat gereği borcun 1.635,56 TL olarak kabulünde aykırılık bulunmadığı, 200 kg bedelsiz verilen çiğ köfteye ilişkin sözleşme ve diğer kayıtlarda delil bulunmadığı, bu yöndeki Mahkeme red kararının yerinde olduğu, ancak sözleşmede franchise alanın 1 yıl süre ile sözleşmeyi imzaladığı, sözleşmenin normal sona erme süresinden önce sona erdiği ve davalı yanın fiilen işyerini kapattığı, sözleşmenin 7.11 maddesi uyarınca davalının 12 ay süre ile "..." bayisi olarak kalma yükümlülüğünün bulunduğu, alımın yapılmadığının sabit olduğu, sözleşmeye aykırılığın oluştuğunun kabulü ile davacının cezai şart istemine hak kazandığının kabulü gerekirken, cezai şart yönünden talebin reddine karar verilmesi hukuka aykırı bulunmuş olup, kararlaştırılan cezai şarttan indirim yapılarak karar verilmesi gerektiğinden, yapılan eksiklik yeniden yargılama
 yapılmasını gerektirmediğinden, davacının istinaf başvurusunun kısmen kabulü ile kararın HMK'nın 353/(1)b-2 maddesi uyarınca kaldırılarak cezai şarttan tenkis yapılmak suretiyle davanın kısmen kabulüne, 200 kg çiğ köfte yönünden alacağın reddine, davalı aleyhine sadece cari hesap alacağı üzerinden icra inkar tazminatına hükmedilmesine karar verilmiştir.
 
 ## İstanbul BAM 14. HD 2023/1219 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916235200)
 
 Sözleşmedeki rekabet etmeme yükümlülüğü ve buna bağlı ceza koşulu düzenlemesi, dürüstlük kuralına aykırı haksız şart kabul edilemeyeceğinden, davalının aksi yöndeki istinaf nedenleri yerinde görülmemiştir.Davlı, hizmet sözleşmesini davalının baskısı ve mobbing niteliğindeki eylemleri nedeniyle sona erdirdiğini ileri sürmüş ise de davalının iş akdini kendisinin feshettiği anlaşılmaktadır. Davalının sözleşmeyi haklı nedenlerle feshettiğine dair bir kanıt dosyaya sunulmamıştır.Davalı vekili, müvekkillinin davacının iş sırlarına vakıf olmadığını, bu nedenle alacak talebinin reddi gerektiğini savunmuştur. İlk derece mahkemesi karar gerekçesinde vurgulandığı üzere, tanık beyanları ve bilirkişi rapor içeriklerine göre davalının pazarlama müdürü pozisyonunda çalıştığı, davacıya ait müşteri ve pazarlama sırlarına vakıf olduğu, bu nedenle rakip bir firmada çalışmaya başlamasının davacı bakımından zarar tehlikesi oluşturduğu anlaşılmaktadır. Zarar tehlikesinin mevcudiyeti yeterli olup ayrıca zararın gerçekleştiğinin kanıtlanması gerekmez. Bu nedenle davacının ceza koşulu talep hakkının doğduğu kabul edilmelidir.
 Davalı vekili, dava dışı ...'dan davacı şirket yetkilisi tarafından alınan senet nedeniyle ceza kovuşturması mevcut olduğunu, bu ceza dosyasının bekletici mesele sayılması gerektiğini savunmuş ise de rekabet yasağı anlaşması geçerli olup davalının rakip firmada çalıştığı da sabit olduğundan, ceza dosyasının sonuca etkili olmayacağı kanaatine varılmakla, davalı vekilinin aksi yöndeki istinaf nedenleri yerinde görülmemiştir. Rekabet yasağı süresinin, sözleşmede iki yıl olarak gösterilmiş olması kanuni düzenlemeye uygundur. Pazarlama çalışanları bakımından coğrafi sınır Türkiye olarak gösterilmiş ise da TBK'nın 445/2.maddesi uyarınca hâkimin müdahalesiyle, davacının iş yerinin bulunduğu İstanbul il sınırları için rekabet yasağının geçerli olduğunun kabulü gerekir. Davacının iş yeri ile davalının çalıştığı rakip firmanın iş yeri İstanbul içinde olduğundan, rekabet yasağı anlaşmasının geçerli olduğu sonucuna varılmıştır. HMK'nın 182/son maddesi uyarınca, fahiş ceza koşulunun tenkisi gerekir.
@@ -144,6 +176,8 @@ Ceza koşulunun fahiş olup olmadığı tarafların ekonomik durumu, özel olara
 Davalı vekili, mahkemece ceza koşulundan 9/10 oranında tenkis yaparak davayı kısmen kabul ettiğini, fazla talebi reddetmesine rağmen davalı yararına avukatlık ücretine hükmedilmemesinin usule aykırı olduğunu ileri sürmüş ise de davacı, sözleşme ile tarafların kararlaştırdıkları ceza koşulunu istemiş olup reddedilen kısım, mahkemenin ceza koşulunu tenkis etmesinden kaynaklandığından, reddedilen kısım için davalı yaranına yargılama gideri ve avukatlık ücretine hükmedilmemesi usul ve yasaya uygundur. Aksi yöndeki davalı istinaf nedenleri yerinde görülmemiştir. Açıklanan bu gerekçelerle, Yargıtay HGK'nun bozma ilamı üzerine duruşmalı olarak yapılan istinaf incelemesi sonucunda, davalı tarafından ileri sürülen istinaf nedenleri yerinde görülmemekle birlikte Dairemizin bozulan kararı ve Yargıtay bozma ilamı doğrultusunda yeni gerekçe ile hüküm verilmesi gerektiğinden, ilk derece mahkemesinin istinafa konu kararının kaldırılmasına, davanın esası hakkında dairemizce yeniden hüküm verilmesine ve ceza koşulunun 9/10 oranında tenkisi suretiyle davanın kısmen kabulüne dair aşağıdaki hüküm verilmiştir.
 
 ## İstanbul BAM 43. HD 2023/797 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936370600)
 
 Dava, rekabet yasağı sözleşmesi ile karalaştırılan iş akdinin feshinden sonra işçinin rekabet etmeme yasağına aykırı davranışları iddiasına dayalı cezai şartın tahsiline ilişkin alacak davasıdır.
 

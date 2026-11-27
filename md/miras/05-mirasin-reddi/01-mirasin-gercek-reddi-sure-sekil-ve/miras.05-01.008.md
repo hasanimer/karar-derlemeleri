@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 14. HD 2023/1342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936857400)
+
 TTK'nın 253.maddesi " (1)Şirket sözleşmesinde şirketin ölen ortağın mirasçılarıyla devam edeceğine ilişkin düzenleme yoksa, mirasçılarla diğer ortakların oybirliğiyle verecekleri karar üzerine şirket bunların arasında devam edebilir.Mirasçılar yahut içlerinden biri şirkette kalmaya razı olmazlarsa, diğer ortaklar, ölen ortağın razı olmayan mirasçılarına düşen payları ödeyerek onları şirketten çıkarır ve aralarında şirkete devam edebilirler.Bu durumda sağ kalan ortaklardan birinin şirketin devamına onay vermemesi sebebiyle oybirliği sağlanamadığı takdirde şirket sona erer.(2) Şirketin, ölen ortağın mirasçılarıyla diğer ortaklar arasında kollektif şirket olarak devam edeceği hakkında şirket sözleşmesinde hüküm varsa, mirasçılar kollektif sıfatıyla şirkete devam edip etmemekte serbesttirler. Mirasçılar şirketin devam etmesini isterlerse, diğer ortaklar bu isteği kabul etmek zorundadır. Ancak, kollektif sıfatıyla şirkette kalmak istemeyen mirasçı varsa, ölen ortağın payından kendisine düşen tutar ile komanditer olarak şirkete kabul edilmesini önerebilir. Diğer ortaklar bu öneriyi kabul etmek zorunda değildir.
 Mirasçılar şirkete kollektif ortak veya komanditer olarak girip girmeyeceklerini ortağın ölüm tarihinden itibaren üç ay içinde şirkete ihbar etmelidir. Durumun şirkete ihbarına kadar, mirasçılar şirkette komanditer olarak kalmış sayılırlar. Bu süre içinde ihbarda bulunmamış olan mirasçılar, sürenin sona ermesinden itibaren kollektif ortak sıfatını alırlar." hükmünü içermektedir. TTK'nın 243.maddesi ile atıf yapılan TBK'nın 639/2.maddesi "Sözleşmede ortaklığın mirasçılarla sürdürülmesi konusunda bir hüküm yoksa ortaklardan birinin ölümü ile ortaklık sona erer." hükmünü içermektedir. TTK'nın 243 ve 245.maddesi ile ile TBK'nın 639.maddeleri şirketin infisahı, fesih ve tasfiyesine ilişkindir. Bu bilgilere göre somut olay incelendiğinde; sicil kayıtlarına ve kuruluş sözleşmesine göre münfesih olduğunun tespiti istenen davalı şirketin ortaklarının, 1/2'şer hisse sahibi olarak davacı ile davalı ... olduğu, davalı ...'ün yargılama sırasında vefat ettiği anlaşılmaktadır.
 
@@ -29,6 +31,8 @@ Mirasçılar şirkete kollektif ortak veya komanditer olarak girip girmeyecekler
 Bu durumda mahkemece, iki mirasçının mirası reddettiği ve diğer davalı mirasçının da ortaklığa devam etmek istemediğine ilişkin davacıya ihtarname gönderdiği nazara alınarak söz konusu ihtarname dosyaya dahil edilip TTK'nın 243 ve 253.maddeleri kapsamında inceleme yapılması ve buna göre taraf teşkili sağlanarak bir karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi usul ve yasaya aykırı olmuştur. Diğer yandan, davacı vekilince dava dilekçesinde davalı şirketin münfesih olduğunun tespiti ile tasfiye memuru atanmasına karar verilmesi talep edilmesine rağmen talep aşılarak ve konuyla ilgili olmayan TTK'nın 630 ve 636.maddelerine dayanılarak şirketin feshine karar verilmesi de yerinde olmamıştır. Açıklanan bu gerekçelerle, HMK'nın 353/1.a.6. maddesi uyarınca, dosya üzerinden yapılan inceleme sonucunda, esasa ilişkin istinaf sebepleri incelenmeksizin ilk derece mahkemesinin istinafa konu kararının kaldırılarak, davanın yeniden görülmesi için dosyanın ilk derece mahkemesine gönderilmesine dair aşağıdaki karar verilmiştir.
 
 ## Adana BAM 9. HD 2023/1009 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/961498700)
 
 Dava, Genel Kredi Sözleşmesine ve mirasın reddi hukuksal sebebine dayalı icra takibinden dolayı borçlu olunmadığının tespiti istemine ilişkindir.
 
@@ -47,6 +51,8 @@ ve yasaya aykırı bir yön bulunmamasına, 6100 Sayılı HMK’nın 355.maddesi
 
 ## İstanbul BAM 43. HD 2023/805 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/935469200)
+
 …
 
 : Talep, kambiyo senedine(bono) dayalı olarak verilen ihtiyati haczin kaldırılmasına karar verilmesi, istemidir. İstinafa gelen uyuşmazlık temelde, terekenin resmi tasfiyesinin ihtiyati hacze engel olup olmadığı noktasındadır. İhtiyati haciz isteyen tarafça, 30.09.2022 keşide ve 31.03.2023 vade tarihli 16.800,00 TL bedelli bononun ödenmediğinden bahisle, ihtiyati haciz kararı verilmesi talep edilmiş, Mahkemece talep kabul edilerek ihtiyati haciz kararı verilmiştir. Bunun üzerine ihtiyati hacze itiraz eden tarafından, terekenin resmi tasfiyesinin yapıldığı iddiasıyla ihtiyati haczin kaldırılması istemiyle incelemeye konu itiraz yapılmıştır. 2004 sayılı İcra ve İflas Kanunu(İİK)'nun 257/1. Maddesine göre, rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı, borçlunun yedinde veya üçüncü şahısta olan taşınır ve taşınmaz mallarını ve alacaklariyle diğer haklarını ihtiyaten haczettirebilir. İİK'nın 258/1. maddesi hükmüne göre ihtiyati haciz kararı verilebilmesi için mahkemenin ''alacağın varlığı hakkında kanaat edinmiş olması'' yeterlidir.
@@ -54,6 +60,8 @@ Mahkemenin ''alacağın varlığına kanaat edinmiş olmasından'' anlaşılmas�
 Mirasçılardan her biri, tanınan süre içinde mirası reddettiğini veya resmi tasfiye istediğini ya da deftere göre veya kayıtsız şartsız kabul ettiğini beyan edebilir(TMK m. 627/1). Anılan düzenlemelere göre, mirasçıların murisin borçlarından sorumlu olmaları, resmi defterin tutulmasından sonra mirası kabul etmeleri halinde mümkün olacaktır. Bu durumda, ihtiyati haczin talep edildiği tarih itibariyle resmi defter tutma işi devam ettiğine göre mirasçıların talebe borçtan sorumlu olduklarına ilişkin yaklaşık ispat şartı gerçekleşmemiş durumdadır. İhtiyati haciz isteyen tarafından acele hallerde ihtiyati haczin verilebileceğini ileri sürmüş ise de bu hususta dahi yaklaşık ispat bulunmamaktadır. Bu nedenle, mahkemece itirazın kabulü ile ihtiyati haczin kaldırılmasına karar verilmesinde bir isabetsizlik bulunmamaktadır. HMK'nın 355. Maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılan istinaf incelemesi sonunda; ilk derece mahkemesi kararının usul ve esas yönünden hukuka uygun olduğu anlaşıldığından ihtiyati haciz talep eden vekilinin yerinde görülmeyen istinaf başvurusunun reddine karar vermek gerekmiştir.
 
 ## İzmir BAM 20. HD 2023/801 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891575300)
 
 Dava; çeklere dayalı olarak başlatılan icra takibinden sonra açılan menfi tespit istemine ilişkindir.
 
@@ -63,6 +71,8 @@ Ancak; davalı/alacaklı ..., davacının mirası reddettiğini önceden bilmesi
 
 ## İzmir BAM 20. HD 2023/635 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884047000)
+
 Dava, icra takibi sebebiyle borçlu olunmadığının tespiti istemine ilişkindir.
 
 …
@@ -70,6 +80,8 @@ Dava, icra takibi sebebiyle borçlu olunmadığının tespiti istemine ilişkind
 Davacılar tarafından icra takibine sunulan itiraz dilekçesi ve ekindeki mirasın reddi kararının davalıya tebliğine dair icra takip dosyasında herhangi bir bilgi veya belge olmadığı, icra müdürlüğünce itiraz dilekçesi üzerine hacizlerin resen fekkedilip yine resen alınan kararla yeniden konulduğu, yani bu hususta da davalının bir dahili olmadığı, bu sebeplerle davadan önce davalının mirasın reddedildiğini bildiğinin davacılarca ispatlanamaması sebebiyle kötüniyet tazminatına hükmedilemeyeceği, ve yine aynı sebeple davalının mirasın reddi kararını bildiği veya bilmesi gerektiğinin de ispatlanamadığı anlaşıldığından yargılama masraflarının ve vekalet ücretinin de davalı üzerine bırakılmayacağı anlaşılmakla, davacılar vekilinin istinaf itirazlarının Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi gereğinc esastan reddine, davalı vekilinin istinaf itirazlarının ise HMK'nun 353/1-b-2 maddesi gereğince kabulüne karar verilerek aşağıdaki şekilde hüküm kurmak gerekmiştir.
 
 ## İstanbul BAM 45. HD 2023/559 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883616700)
 
 Dava, kooperatif üyeliğinden kaynaklı tapu iptal ve tescil davasıdır.
 
@@ -81,15 +93,21 @@ Dava açıldıktan sonrada sınırlayıcı bir neden bulunmadığı takdirde dav
 
 ## Gaziantep BAM 11. HD 2023/360 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/888012900)
+
 Eldeki dava 15/04/2021 tarihinde açılmış olup, mirasın reddi kararı davacı borçlu tarafça 07/01/2019 ve 16/03/2021 tarihlerinde icra takip dosyalarına itiraz dilekçesi ekinde sunulduğu halde, icra müdürlüğünce talebin reddine karar verildiği, borçlu sıfatını kaybeden davacılar hakkında icra takibinin sonlandırılmamış olduğu anlaşılmıştır. Bunun üzerine davacı tarafça eldeki dava yönüyle davalı taraf ile 22/03/2021 tarihinde arabuluculuk süreci başlatılmış, 2 oturum sonucunda 08/04/2021 tarihinde arabuluculuk süreci anlaşamama tutanağı tutularak sona ermiştir. Tüm bu süreç boyunca; davalının; davacı tarafından .... Sulh Hukuk Mahkemesinin .... tarih .... Esas, ... Karar sayılı, 11/07/2019 kesinleşme tarihli Mirasın Reddine ilişkin karardan haberdar olduğu açıktır. Davalının bu süreçte davalı aleyhine devam eden icra takiplerinden feragat ile vazgeçme olanağı var iken vazgeçmemesi, hatta arabuluculuk sürecinde dahi anlaşmaması davanın açılmasına sebebiyet vermiştir.
 Açıklanan nedenle ilk derece mahkemesi tarafından davalının davanın açılmasına sebebiyet vermediğinin kabulü ile yargılama giderlerinin davacı üzerinde bırakılması ve davacı lehine vekalet ücretine hükmedilmemesi yerinde değildir.
 
 ## İstanbul BAM 43. HD 2023/8 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864587700)
+
 Somut olayda, bankacılık işleminden kaynaklı olarak ortaya çıkan zararın tahsili talebi ile hem yasal mirasçı ...’e, hem de onunla işbirliği içinde olduğu iddiası ile bankaya karşı yapılmıştır. Davacı vekili tarafından 29.04.2016 tarihinde davanın tamamen ıslahı talebine dayalı olarak dilekçe verilmiş, tereke adına dava açıldığı beyanı ile tazminat esas tutarın terekeye iadesi talep edilmiştir. Az yukarıda anlatıldığı gibi davalı ... mirasçıları ... ve ...’nın mirasın reddine ilişkin dava açmışlardır, fakat söz konusu davaların akıbetlerinin ne olduğu yönünde ilk derece mahkemesince herhangi bir yargılama faaliyeti içine girilmemiştir. Islahtan önce eldeki dava bankacılık işlemlerinden kaynaklı tazminat davası niteliğinde olmakla,sözkonusu davada mirasçılardan birisinin terekeye dahil bir hak ile ilgili olarak sadece kendi adına dava açması mümkün değildir. Zira davalı olarak gösterilen ...’de müteveffanın yasal mirasçısı konumundadır. Nitekim Yargıtay 11. Hukuk Dairesi’nin 09.02.2016 tarih ve 2015/30872 E, 2016/1191 K sayılı ilamında kastedilen hususta budur.
 Ancak somut davada verilen ıslah dilekçesi ile dava dilekçesindeki tazminata esas tutarın, terekeye iadesine ilişkin karar verilmesi talep edilmekle; davanın tazminat davasından mirasta denkleştirme davasına dönüştürülüp dönüştürülmediği mahkemece ıslah dilekçesinin hukuki sonuçları tartışılarak ortaya konulmalıdır. Zira mirasın denkleştirme talebi sadece yasal mirasçılara yöneltilebilir. Dava dilekçesinde müteveffanın ölümünden hem önceki hem de sonraki zamanlarda usulsüz olarak davalı banka uhdesindeki mevduat hesaplarından çekilen paraların davaya konu edildiği görülmüştür. Mirasta denkleştirme talebinin tüm tereke adına açılması gerekmemektedir. Bir kısım yasal mirasçı tarafından mirasbırakanın sağlararası tasarruf ile kazandırmada bulundurduğu diğer bir yasal mirasçıya karşı dava açılabilecektir. Bu halde ilk derece mahkemesince öncelikle, davalı ... mirasçıları ...,... ve ...’nın mirasın reddine ilişkin açmış oldukları dava dosyalarının celbi suretiyle bahsi geçen mirasçıların mirası red durumlarının kesin şekilde tespit edilmesi gerekmektedir.
 
 ## İstanbul BAM 16. HD 2022/1624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813624900)
 
 G E R E K Ç E: İtirazın iptali talepli davada, ilk derece mahkemesince, davanın kabulüne, davalıların itirazının iptaline, dahili davalı ... yönünden mirasın reddi nedeniyle davanın husumet nedeni ile reddine, kendisini vekil ile temsil ettirdiğinden davalı lehine maktu vekalet ücretine hükmedilmesine karar verilmiştir. Davalılar ve dahili davalı tarafça istinaf yoluna başvurulmadığı, davacı vekilinin dahili davalı ... yönünden verilen husumet yönünden ret kararı ile vekalet ücretine hükmedilmesine yönelik kararın kaldırılmasını talep etmiştir. İstinaf incelemesi 6100 Sayılı HMK 355. Madde gereğince istinaf dilekçesinde ileri sürülen sebepler ve kamu düzeniyle ilgili hususlarla sınırlı olarak yapılmıştır. Dosyada bulunan veraset ilamından; ...'ın 26/04/2018 tarihinde vefat ettiği, mirasçı olarak eşi ... ile çocukları ..., ...'ı bıraktığı anlaşılmıştır.
 Mirasçılardan ..., ...'ın davada davalı sıfatıyla taraf oldukları ilk derece mahkemesince bu davalıların Faktoring Sözleşmesinde müteselsil kefil oldukları gerekçesiyle, bu davalılar hakkında davanın kabulü kararı verdiği, davada taraf olmayan ve mirasçı sıfatıyla davaya dahil edilen ...'ın ise mirası reddetmesi nedeniyle davanın husumet yokluğundan reddine karar verildiği anlaşılmıştır. Davalı ...'ın 29/05/2018 dava tarihinden önce, 26/04/2018 tarihinde vefat etmiş olması nedeniyle, TMK 28. Madde gereğince, ölü kişi hakkında dava açılamayacaksa da, davacı tarafça davalının öldüğünün bilinmemesi maddi hataya dayandığından HMK 124. Madde gereğince tarafta iradi değişiklik yapılması ve davanın mirasçılarına karşı yöneltilmesi mümkün olup, dahili davalı tarafça da bu hususa karşı çıkılmadığından, mirasçısı olan davalı ...'ın davaya dahil edilerek, kesinleşmiş kararla mirası reddettiği sabit olduğundan, bu davalı yönünden davanın husumetten reddine karar verilmesi yerindedir.
@@ -97,10 +115,14 @@ Mirasın reddi davasının 08/06/2018 tarihinde açıldığı, 11/06/2018 tarihi
 
 ## Ankara BAM 22. HD 2022/1369 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/824428800)
+
 Somut olayda; İcra takibine konu alacak davacılar murisinin bonolara dayalı borcundan kaynaklanmaktadır. İcra takibinin başlatıldığı tarih itibariyle muris ölü olduğundan davalı tarafından alacağın davacılardan tahsili için takibe girişilmiştir. Davacılar tarafından Eskişehir 2. Sulh Hukuk Mahkemesi'nin 2014/1509 esas – 2014/1828 karar sayılı dosyası ile mirasın reddine ilişkin dava açıldığı anılan mahkemece mirasın davacılar tarafından reddedildiğinin tespit ve tesciline karar verildiği, bu kararın 20/11/2014 tarihinde kesinleştiği, icra takiplerinin ise mirasın reddi kararından sonra 23/12/2015 tarihinde yapıldığı anlaşılmıştır.
 Yine davalı vekili tarafından verilen cevap dilekçesinde de dava tarihinden önce icra işlemleri sonucu davacıların mirasın reddi kararının gönderdiği kabul edilmiş ancak izlenmesi gereken yolun icra mahkemesine beş günlük süre içinde başvurarak borca itiraz edilmesi şeklinde olması gerektiği savunulmuş olmasına göre, davanın açılmasına davalı tarafından sebebiyet verildiği anlaşıldığından ve ayrıca davaya cevap süresi içinde davanın kabul edilmemesi nedeniyle yargılama gideri ve vekalet ücretinden davalının sorumlu olduğu gözetilerek davacılar lehine vekalet ücreti ile yargılama giderlerine hükmedilmesinde ve takibe girişmekte haksız ve kötüniyetli bulunmadığının kabulüyle kötüniyet tazminatının reddinde bir isabetsizlik bulunmamaktadır. Davacılar, davanın açıldığı andaki durumuna göre dava açmakta haklı olup davalı, davanın açılmasına sebebiyet vermiştir.
 
 ## İstanbul BAM 43. HD 2022/1295 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846505300)
 
 Şti.nin 12/12/2016 olan takip tarihi itibariyle sorumlu olduğu borç miktarını hesaplayan ve 722.139,06 TL asıl alacak,1.988,36 TL temerrüt faizi, 99,42 TL BSMV vergisi olmak üzere toplam 724.226,84 TL ve y davalıya kullandırılan rotatif kredi yönünden temerrüt faiz oranının bankanın uyguladığı en yüksek akdi faiz oranının %100 fazlası %33,50 olduğu tespit edilen bilirkişi raporu uyarınca mahkemece davanın kısmen kabulüne karar verilmesinde bir isabetsizlik bulunmamaktadır. Vekalet ücretine yönelik istinaf itirazları yönünden yapılan değerlendirmede; davaya konu takip tarihi 12.12.2016'dır. Davalı ... vekili reddi mirasa ilişkin itiraz dilekçesini 04.04.2017 tarihinde icra dosyasına sunmuş, eldeki dava ise 13.06.2017 tarihinde açılmıştır. Kaldı ki davacı, bu davalıyı sehven dava dilekçesinde gösterdiklerini kabul etmektedir. Davalının mirası reddettiği, bu haliyle mirasın açıldığı andan geçerli olacak şekilde mirasçılık sıfatını kaybettiği anlaşılmıştır. Bu haliyle; davalı ... bakımından mirasın reddinin etkisi üzerinde durulması gerekmekte olup, bu nedenle, taraf ve dava ehliyeti ile davada sıfat kavramlarının açıklanması yoluna gidilmiştir.
 Taraf ve dava ehliyeti; davanın tarafları ile ilgili olduğu halde sıfat dava konusu hakka ilişkindir. Davada sıfat, tarafın dava konusu maddi hukuk ilişkisinin süjesi olup olmamasıyla ilgili olup; davanın tarafı ile dava konusu hak arasında "hak ilişkisine dayalı bir bağ" dır. Mahkeme önünde, maddi hukuka dayalı hakkına dair uyuşmazlığın çözümünü ve himayesini isteyen kişi davacı, kendisine karşı hakkın himayesi istenen kişi ise davalıdır. Davacı, dava konusu hakkın sahibi, davalı ise hakka uymakla yükümlü olan ve bu hakkı ihlal ettiği düşüncesi ile kendisine karşı hakkın himayesi istenen kişidir. Bir davada, davacı ve davalı sıfatının kime ait olduğu tamamen maddi hukuka göre belirlenir. Dava dilekçesinde davacı ve davalı olarak gösterilen kişiler şeklen taraf ise de hakkın sahibi veya kendisine karşı hakkın himayesi istenmesi gereken kişiler olmadıkları belirlenir ise davanın sıfat yokluğundan (husumetten) reddi gerekir.
@@ -115,9 +137,13 @@ Davalının da mirasçı olması nedeniyle hükümden lehe etkilenecektir. Miras
 
 ## Ankara BAM 21. HD 2022/782 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781999000)
+
 Hal böyle olunca, istinaf aşamasında davalı-karşı davacının dava ehliyetinin sona erdiği, mirasçılarının mirası reddettikleri gözetilerek ilk derece mahkemesi kararının kaldırılmasına, HMK'nun 114/1.d, 115 maddesi uyarınca dava ehliyetine ilişkin dava şartı yokluğu nedeniyle dava ve karşı davanın reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 44. HD 2022/431 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/738425100)
 
 Kaldı ki, yapılmış bir icra takibi olmadan da borç tehdidi altında bulunan kişinin menfi tespit davası açabileceği İİK'nın 72/2. maddesinde açıkça düzenlenmiştir. O halde dava konusu olayda davacı kendilerine karşı bir itirazın iptali davası açılmasını beklemeden eldeki menfi tespit davasını açmakta hukuki yararları bulunduğunun kabulü gerekir. Mirasın gerçek reddinde mirasçı aktif ve pasifleriyle birlikte tüm mirası reddettiğinden takibe konu borç sebebiyle davacının borçlu olmadığının tespitine karar verilmesinde bir isabetsizlik yoktur. Bu sebeple davalı tarafça mahkemece detaylıca yapılması gereken araştırma yapılmayarak ...'nun borçlu olmadığının tespitine karar verilmesinin usul ve yasaya aykırı olduğu iddiasının yerinde olmadığı görülmüştür. Davalı taraf 11.
 İcra Hukuk Mahkemesinin de borçlu ... 'nun icra takibine itirazının süre yönünden reddine yönelik hüküm tesis ettiğini ve davacı aleyhine başlattıkları takibin kesinleştiğini beyan etmiş ise de, icra mahkemesi tarafından uyuşmazlık hakkında dar kapsamda değerledirme yapıldığından, verilen karar maddi anlamda kesin hüküm teşkil etmediğinden, icra mahkemesinde itirazda bulunmuş olmasının genel mahkemede dava açmasında engel olmadığı (Yargıtay 12. Hukuk Dairesi'nin E:2014/15933 K:2014/17415 K. 16.6.2014 tarihli kararı) anlaşılmakla bu konudaki davalı istinaf isteminin de reddi gerekmiştir.
@@ -135,6 +161,8 @@ yönünden hukuka uygun olduğunun anlaşılmasına göre; davacı vekilinin ist
 
 ## İstanbul BAM 3. HD 2021/2066 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668701500)
+
 Dava, hatalı gönderildiği ileri sürülen havale bedeli nedeniyle istirdat talebine ilişkindir.
 
 …
@@ -147,11 +175,15 @@ Dolayısıyla bu davada hataen gönderilen havale sebebiyle davalı banka ve mir
 
 ## İstanbul BAM 12. HD 2021/1435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686891700)
+
 …
 
 : HMK'nın 327/2. maddesine göre; bir kişi davada sıfatı olmadığı hâlde, davacıyı, davalı sıfatı kendisine aitmiş gibi yanıltıp, kendisine karşı dava açılmasına sebebiyet verirse, davanın sıfat yokluğu nedeniyle reddi hâlinde, davalı yararına yargılama giderlerine hükmedilemez. İcra dosyası incelendiğinde; davacılar murisi ... adına kredi alacağına istinaden takip başlatıldığı, ödeme emrinin ... varislerine tebliğ edildiği, itiraz edilmediğinden takibin davacılar aleyhine kesinleştiği, müteveffanın mirasını reddettiklerine dair bir bildirimde bulunmadıkları anlaşılmaktadır. Davacıların mirası reddettikleri, ancak mirasın reddine ilişkin ilamın icra takibinden önce davalı bankaya tebliğ edildiğine ilişkin belge sunulmamış,icra takibine itiraz edilmemiştir. Davacıların kendilerine karşı takip başlatılmasına ve eldeki davanın açılmasına sebebiyet verdiklerinden davacılar yararına yargılama gideri ve vekalet ücretine takdir edilmemesi gerekirken davacı yararına yargılama gideri ve vekalet ücretine hükmedilmesi yerinde değildir.
 
 ## İstanbul BAM 43. HD 2021/1432 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709818600)
 
 Bu kapsamda kural olarak kefilin ölümü kefalet borcunu sona erdirmez; mirası reddetmemiş olan mirasçılar borçtan sorumludur. Takibe konu borcun temelinde 25.01.2010 tarihinde imzalanan Grup Genel Kredi Sözleşmesi uyarınca verilen teminat mektuplarının nakde çevrilmesi olup, teminatların nakde çevrilmesiyle gayri nakdi alacak, nakdi alacağa dönüşmüştür. 6098 sayılı TBK'nın 599/1. maddesinde, gelecekte doğacak bir borca kefalette, borçlunun borcun doğumundan önceki mali durumu, kefalet sözleşmesinin yapılmasından sonra önemli ölçüde bozulmuşsa veya mali durumunun, kefalet sırasında kefilin iyiniyetle varsaydığından çok daha kötü olduğu ortaya çıkmışsa, kefil alacaklıya yazılı bir bildirimde bulunarak, borç doğmadığı sürece her zaman kefalet sözleşmesinden dönebileceği düzenlenmiştir. Her ne kadar murisin ölüm tarihinden sonra teminat mektupları verilmiş ise de, muris dava dışı ... ve ... Ltd. Şti.'nin davalı bankaya karşı doğacak borçlarına da kefil olmuş olup, kefalet ölümle sona ermediğinden ve kefaletten dönüldüğüne ilişkin davalı bankaya yazılı bir bildirimde de bulunulmadığından davacı mirasçıların kefalet nedeniyle sorumlulukları devam etmektedir.
 Ayrıca lehine kefil olunan şirket hisselerinin devredilmesi de kefaleti sona erdiren bir sebep değildir. Alınan bilirkişi raporundan da anlaşıldığı üzere, takibe konu edilen borç, kredi borçlusu dava dışı ...'in, ... A.Ş.'ye olan borçlarının teminatı olarak verilen ve nakde çevrilen teminat mektuplarından kaynaklanmakta olup alacak tutarı 122.958,37 TL olarak hesaplanmıştır. Bunun yanı sıra İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı dosyasında 25.01.2010 tarihinde ... tarafından davalı banka lehine keşide edilen, muris ...'ın ise aval veren olduğu 31.08.2015 vadeli ve 750.000,00 TL bedelli senede dayalı olarak 122.767,43 TL'nin tahsili istemiyle takip başlatılmıştır. Bu halde davacılar gerek kefalet nedeniyle gerekse de takibe konu bono nedeniyle tahsilde tekerrür olmamak kaydıyla kredi borcundan dolayı davalı bankaya karşı sorumludur. Kredi borcu ödenmediğine ve borcu sona erdiren başka bir neden de bulunmadığına göre Mahkemece davanın reddine karar verilmesinde herhangi bir isabetsizlik görülmemiştir.

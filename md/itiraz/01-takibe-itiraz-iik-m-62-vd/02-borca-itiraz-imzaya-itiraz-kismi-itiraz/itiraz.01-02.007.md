@@ -85,6 +85,8 @@ Usûl ve yasaya uygun ... .... Asliye Ticaret Mahkemesi'nin .../01/2026 tarih ve
 
 ## Adana BAM 9. HD 2026/1064 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209077500)
+
 Davalı vekili cevap dilekçesinde özetle; müvekkilinin hem yetkisiz icra dairesine hem yetkili icra dairesine yaptığı itirazında asıl alacağa değil takip talebi ve ödeme emri ile takip dayanağı belgelerdeki usulsüzlüklere itiraz etmiş olduğunu, takibin dayanağı cari hesap ve dört adet fatura olarak gösterilmesine rağmen ödeme emrinde borcun sebebi kısmına talep edilen asıl alacak ve birikmiş faiz toplamı olan alacak miktarı yazılmış olduğunu, davacının müvekkilini temerrüde düşürmeden fatura tarihlerine göre geçmiş gün faizi hesaplayıp asıl alacakla birlikte 4.783,85 TL geçmiş gün faizi talep edildiğini, müvekkilinin takipten önce keşide edilmiş herhangi bir ihtarname ile temerrüde düşürülmediğini, temerrüt oluşmadan faiz talep edilmesinin yasal olmadığını, bu nedenle davacının takip öncesi faiz hesaplayıp icra takibini ona göre açmasının yasal olmadığını, davacı tarafın ancak takip sonrası faiz talep edebileceğini belirterek davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -164,6 +166,8 @@ Davanın Kısmen KABULÜ İLE; davalının İstanbul .... İcra Müdürlüğü'n
 
 ## Sakarya BAM 7. HD 2026/712 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206357700)
+
 Davalı vekilinin sunmuş olduğu cevap dilekçesinde özetle; davacı tarafça davalı aleyhine başlatılan iflas yolu ile adi takibe süresinde itiraz edildiğini, huzurdaki davanın zorunlu dava şartı olan arabuluculuk yoluna başvurulmadan ikame edildiğini, mahkemece ön inceleme duruşmasında uyuşmazlık konusunun hatalı tespit edildiğini ve alacağın ihtilaflı olması nedeniyle öncelikle delillerin toplanıp bilirkişi incelemesi yapılması gerektiğini, aynı alacağa ilişkin mükerrer icra takipleri başlatılmış olması sebebiyle derdestlik itirazında bulunduklarını, davalı tarafından davacı şirkete çek ve taşınmaz devri yoluyla yüklü miktarda ödeme yapıldığını, söz konusu ödemelerin mahsubu halinde davalının borçlu değil alacaklı konumda olacağını, alacağın likit ve ispatlanmış olmaması nedeniyle 29/05/2024 tarihli depo emrine ilişkin ara karardan rücu edilmesi gerektiğini, ayrıca depo emrine ilişkin muhtıranın müvekkiline usulüne uygun tebliğ edilmediğini belirterek davanın reddine, karar verilmesini talep etmiştir.
 
 …
@@ -179,6 +183,8 @@ Mahkeme, takipli iflas prosedüründe, genel hükümlere göre yapacağı incele
 Eldeki olayda; davalının borca itirazının kaldırılmasına 26/11/2025 tarihli duruşmada karar verildiği, aynı duruşmada ilanların yapılmasına karar verilmesi ve icra müdürlüğünden sonraki duruşma tarihi için kapak hesabı sorulması ve yapılan kapak hesabına göre depo emri verilmesi gerekirken, davacının alacaklı olduğu miktar üzerinden depo kararı verildiği, depo kararında ise takip konusu borç ve fer'ilerinin ne olduğunun açıkça gösterilmediği, bu durumda depo kararının usulüne uygun olmadığı ve iflas kararı verilmesinin hatalı olduğu anlaşılmıştır.
 
 ## İstanbul BAM 13. HD 2026/593 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203628000)
 
 Davacı vekili dava dilekçesinde özetle; ...sermayesinde bulunan %40 hissenin ...'e satışına ilişkin 30/03/1998 tarihli sözleşmeye ek 21/04/1999 tarihli sözleşme uyarınca 30/03/2000 tarihinde ödenmesi gereken toplam 16.643.000,00-USD ana para+faiz tutarındaki ikinci taksit bedelinin alıcı tarafından 03/04/2000 tarihinde, 4 gün gecikmeli olarak ödendiğini, vadesinde ödenmeyen taksit borcu için tahakkuk ettirilen 226.950,00-EUR cezai şart ve 16.811,00-USD gecikme faizinin, müvekkili idarenin 18/04/2000 tarihli yazısı ile alıcı ...'den istenildiğini, ancak ...'in 24/04/2000 tarihli yazısında taksit bedeline ilişkin havalenin 30/03/2000 tarihinde yapıldığını, dolayısıyla herhangi bir gecikmenin olmadığını ileri sürerek bu tutarları ödemediğini, müvekkili idare tarafından ...'e gönderilen 03/05/2000 tarihli yazıda söz konusu tutarların ödenmemesi halinde yasal yollara başvurulacağının bildirildiğini, bu yazıda verilen sürenin sona erdiği 16/05/2000 tarihine kadar yine bir ödeme yapılmadığını, bunun üzerine müvekkili idarenin, toplam 243.761,00-USD alacağının banka tarafından düzenlenen teminat mektubundan tazmini için 02/06/2000 tarihinde bankaya bildirimde bulunulduğunu, ancak banka
 tarafından teminat mektubunun 30/03/2000 tarihinde ödendiği belirtilerek, herhangi bir ödeme yapılamayacağının bildirildiğini, müvekkili idare tarafından bankaya 09/06/2000 tarihinde tekrar yazı yazıldığını, ancak banka tarafından herhangi bir işlem tesis edilmediğini, bunun üzerine davalı banka aleyhine 250.273,00-USD'nin tahsili için ....

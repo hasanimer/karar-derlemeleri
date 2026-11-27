@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920512000)
+
 …
 
 dolayısıyla murisin paylarını davalıya bedelsiz devretmesini gerektirir bir minnet borcunun da bulunduğundan da söz edilemeyeceği, öte yandan davalı tarafça yapılan savunmada bakım ve minnet duygusuna dayalı olarak yapılan bir temlik olgusuna dayanılmadığı, murisin tüm malvarlığını teşkil eden dava konusu taşınmazlarını bedelsiz olarak davalıya temlik ettiği, muvazaalı yapılan bu temlikte miras bırakanın diğer mirasçılardan mal kaçırma kastının bulunduğu, hile hukuksal nedenine dayalı olarak dava açılıp bu davadan feragat etmesinin murisin başlangıçtaki mal kaçırma kastı ile muvazaalı işlem yapma olgusunu ve iradesini ortadan kaldırmayacağı …
 
 ## Yargıtay HGK 2023/37 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897448700)
 
 …
 
@@ -33,11 +37,15 @@ miras bırakanın özel bir bakım ve ihtimama ihtiyacının olduğuna dair dosy
 
 ## Yargıtay HGK 2021/688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685368800)
+
 …
 
 emekli maaşı ve sosyal güvencesi bulunan mirasbırakanın özel bir bakım ve ihtimama ihtiyacının olduğuna dair dosya arasında bir delil bulunmamaktadır. Davalının ...’ya taşınması üzerine mirasbırakan 2006 yılında bakımevine yerleştirilmiş, davalı tanığı olarak dinlenen ve tarafların kardeşi olan ... ise o tarihe kadar babasının sağlıklı olduğunu beyan etmiştir. Bu durumda davalı tarafından evlat olarak yapılan bakım ve ilginin normal bir bakımın ötesinde kabul edilerek, ivaz olarak değerlendirilmesi mümkün değildir.
 
 ## Yargıtay 1. HD 2024/5591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1103269900)
 
 …
 

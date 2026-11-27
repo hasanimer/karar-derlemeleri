@@ -29,6 +29,8 @@ Murise ait terekeye temsilci tayin edilmiş olması, davanın tereke temsilcisin
 
 ## İstanbul BAM 13. HD 2024/642 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022251900)
+
 Av. ...’nin yetkisinin sona erdiğine dair beyan dilekçesinin dosyaya 07.12.2018 tarihinde sunulduğunu, dosyada mevcut olan bu dilekçenin yokluğu gerekçe gösterilerek temyiz incelemesinin reddedildiğini, söz konusu maddi hatanın düzeltilerek esas hakkında incelemenin yapılması için müvekkili tarafından 19.07.2021 tarihinde karar düzeltme isteminde bulunulduğunu, bu talep üzerine dosyanın tekrar incelemeye alındığını, anılan dosyanın davacısı ...'ın Mahkemeye başvurarak bahse konu ilam hakkında kesinleşme şerhi düzenlenmesini talep ettiğini ancak İstanbul 2. Asliye Ticaret Mahkemesinin taraflarınca yapılan itiraz ve başvuruları gerekçe göstererek ...'ın kesinleşme şerhi düzenlenmesi talebini kabul etmediğini ve kesinleşme şerhi düzenlemediğini, görüldüğü üzere İstanbul 2. Asliye Ticaret Mahkemesi'nin 2016/1109 E. 2017/1444 K. sayılı kararının henüz kesinleşmediğini, bu nedenle işbu kararın hukuka aykırı olup kaldırılması gerektiğini, söz konusu kararın gerekçesinin tamamen kesinleştiği farzedilen İstanbul 2. Asliye Ticaret Mahkemesi'nin 2016/1109 E. 2017/1444 K. sayılı kararına dayandığını; Kabul etmemekle birlikte biran için İstanbul 2. Asliye Ticaret Mahkemesi'nin 2016/1109 E.
 2017/1444 K. sayılı kararının kesinleştiği ve ... A.Ş’nin pay defterinin eski hale getirilmesine yani murise ait payların vasiyetnameye göre paylaştırılmasının iptaline yönelik verilen karar verildiği varsayılsa dahi somut olayda söz konusu genel kurulda alınan kararların yokluğuna veya iptaline sebebiyet verecek bir durumun söz konusu olmadığını, ...
 
@@ -44,6 +46,8 @@ Dava, anonim şirket genel kurul kararlarının iptali talebine ilişkindir.
 
 ## Gaziantep BAM 11. HD 2024/37 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984728100)
+
 Dava hukuki niteliği itibariyle, ehliyetsizlik iddiasına dayalı olarak ipoteğin fekki istemine ilişkin olup, tetkikat HMK'nın 355.
 
 …
@@ -52,6 +56,8 @@ Taksim edilmediği sürece tereke iştirak halinde mülkiyet hükümlerine tabi 
 Bu durumda usulüne uygun taraf teşkilinin sağlandığından söz edilemeyeceğinden yazılı şekilde davanın usulden reddine karar verilmesinde usul ve yasaya aykırı herhangi bir yön görülmemiş olup, davacı birleşen davada davacı ... vekilinin istinaf başvurusunun esastan reddi gerekmiştir.
 
 ## İstanbul BAM 14. HD 2023/2096 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980966000)
 
 Dava, TTK'nın 447. maddesi gereğince anonim şirket genel kurul toplantısında alınan kararlarının batıl olduğunun tespitine ilişkin olup, esas dava içinde aynı Kanun'un 449. maddesi uyarınca, dava konusu genel kurul kararlarının ihtiyati tedbir yoluyla yürütülmesinin geri bırakılması talep edilmiştir. İlk derece mahkemesince, 13.10.2023 tarihli arala ihtiyati tedbir talebinin reddine karar verilmiş; bu ara karara karşı, davacı vekili tarafından, yasal süresi içinde istinaf kanun yoluna başvurulmuştur. İstinaf incelemesi, HMK'nın 355. maddesi uyarınca, ileri sürülen istinaf başvuru nedenleriyle ve kamu düzenine aykırılık yönleriyle sınırlı olarak yapılmıştır. Dosya kapsamından ve benzer uyuşmazlıklar yönünden dairemize intikal eden dava dosyaları kapsamından, müteveffa ... mirasçılarından ...'nun talebi üzerine, Beşiktaş ...
 Noterliğinde düzenlenen 28.12.2022 tarihli mirasçılık belgesine göre, müteveffanın 24.12.2022 tarihinde vefatı üzerine mirasçısı olarak, ..., ..., ... ve ...'nun birer pay ile mirasçı olduklarına dair mirasçılık belgesinin düzenlendiği, mirasçılardan ... tarafından tereke dosyasına sunulan 20.03.2023 tarihli dilekçeyle müteveffanın hissedarı olduğu şirketlerin 2021 yılı genel kurullarının 21.03.2023 tarihinde yapılacağının beyan edilerek müteveffanın el birliği hâlinde mirasçılara intikal eden hisselerin temsil ve idaresi için yetki verilmesini talep ettiği, 20.03.2023 tarihli yetki belgesinin düzenlendiği anlaşılmaktadır. Benzer uyuşmazlıklar kapsamında davacı ... terekesi memuru tarafından müteveffanın hissedar olduğu şirketlerden ... A.Ş nin 21.03.2021 tarihinde gerçekleştirilen 2021 yılı olağan genel kurul toplantısında alınan kararların iptaline dair İstanbul 20 Asliye Ticaret Mahkemesinin 2023/378 E sayılı dosyasında ve İstanbul 7. Asliye Ticaret Mahkemesinin 2023/408 Esas sayılı dosyada, müteveffanın hissedar olduğu şirketlerden ...
@@ -65,11 +71,15 @@ Somut olayda, davacı ve dava dışı mirasçıların açmış olduğu davalar i
 
 ## Kayseri BAM 6. HD 2023/2093 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969267800)
+
 Somut olayda davacılar asıl taleplerinde terekeye ait taşınmaz üzerindeki ipoteklerin terkinini talep etmiş olunup terkin hususunun yalnızca mirasçıların kendilerine düşecek miras paylarına ilişkin olmadığı taşınmazın tümünü kapsadığı tüm mirasçıların paylarına ilişkin olduğu açıktır.
 
 Bu durumda mahkemece davacılara davaya diğer mirasçıların katılması (icazet vermesi) veya terekeye temsilci atanması için süre verilerek oluşacak sonuca göre karar verilmesi gerekirken eksik inceleme ile karar verilmesi usul ve yasaya aykırı görülmüştür.
 
 ## Trabzon BAM 4. HD 2023/477 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056555600)
 
 Dava, trafik kazasından kaynaklı maddi ve manevi tazminat istemine ilişkindir.
 
@@ -79,6 +89,8 @@ Dava, trafik kazasından kaynaklı maddi ve manevi tazminat istemine ilişkindir
 
 ## Gaziantep BAM 17. HD 2023/30 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853465300)
+
 Dava, trafik kazasından kaynaklanan cismani zarara dayalı bakıcı gideri ve geçici iş göremezlik tazminatı istemine ilişkindir.
 
 …
@@ -86,6 +98,8 @@ Dava, trafik kazasından kaynaklanan cismani zarara dayalı bakıcı gideri ve g
 Davacının istinaf aşamasında ... tarihinde vefat ettiği nüfus kayıtlarından anlaşılmakla; Mahkemece öncelikle, davacının mirasçılarının davaya katılmalarının sağlanması veya TMK.640/3 maddesi gereğince terekeye temsilci tayin ettirmek üzere davacı murisin mirasçılarına uygun bir süre verilmesi, eğer mirasçılar davaya katılmaz, yazılı muvafakat vermez veya terekeye temsilci de tayin ettirmezler ise taraf teşkili sağlanmadığından davanın esasına girilemeyeceği dikkate alınarak değerlendirme yapılması, taraf teşkili sağlandığı taktirde davaya devam edilerek işin esasının incelenmesi gerekir. Bu husus kamu düzenine ilişkin usuli bir eksiklik olduğundan mahkemece öncelikle söz konusu eksikliğin giderilmesi gerekecektir.
 
 ## İstanbul BAM 12. HD 2022/1606 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/826921600)
 
 …
 
@@ -97,11 +111,15 @@ Somut olayda davacı, usulüne uygun olarak atanacak yönetim kurulu göreve ba�
 
 ## İstanbul BAM 15. HD 2021/1078 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/662694000)
+
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ : Dava, sıva ve boya işi yapılması işini konu alan eser sözleşmesi ilişkisinden kaynaklanmakta olup, davacı yüklenici şirket davaya konu takiple bakiye hakediş bedelinin tahsilini istemiş, mahkemece iş sahibi ... 2009 da vefatının akabinde İstanbul 2. Sulh Hukuk Mahkemesi'nin 2013/55 Tereke sayılı dosyasından 13.01.2010 tarihli ara kararı ile terekeye temsilci atandığı belirtilerek davanın tereke temsilcisine yöneltilmesi gerekirken murisin mirasçılarına karşı açıldığından bahisle davanın pasif husumet yokluğu nedeniyle usulden reddine dair verilen karar davacı vekili tarafından istinaf edilmiştir. Davacı yüklenici şirket vekili istinaf itirazında, mahkemece terekenin davaya dahil edilmesi yönünde taraflarına süre verilerek ikmali sağlanması gerektiği halde bu usuli prosedür tamamlanmadan davanın usulden reddine yönelik kararın hatalı olduğunu belirtmiştir.
 Davacı yüklenici davalıların murisi ... ile yaptığı sözleşmeye dayanarak bakiye iş bedeli alacağının tahsili amacıyla murisin mirasçılar olan davalılara karşı giriştiği icra takibine yönelik davalı barçlular tarafından borca itiraz edilmesi üzerine açtığı iş bu davayla davaya konu takibe vaki itirazın iptalini istemiştir. Takip ve davadan önce sözleşmeci iş sahibi ... vefatı nedeniyle ilgili mahkemesince terekesine temsilci atandığı dosya içeriği ile sabittir. Mevzuat gereği terekeye temsilci atanması halinde murise ait terekeyle ilgili açılacak olan her türlü davanın tereke temsilcilerine karşı veya bunlar tarafından açılması gerekir. Bu bir dava şartıdır. Ne varki, mirasçılara karşı dava açılması halinde dava hemen reddedilmeyip öncelikle mirasçıların mirası reddedip etmedikleri araştırılarak reddedilmiş olması halinde müteakip iş ve işlemlerin bu duruma uygun usul ve prosedüre göre yürütülüp sonuçlandırılması; aksi halde ise, terekeye atanan temsilcilerin isim ve adresleri araştırılıp temsilcilerin davaya dahil edilerek taraf teşkili sağlandıktan sonra davaya temsilcilere karşı devam edilerek sonuçlandırılması gerekir.
 İcra takibinin temsilci yerine mirasçılarına karşı yapılmış olması halinde tereke temsilcileri maddi anlamda hakkın veya borcun tarafı olmadıklarından, başka bir ifadeyle sadece yasadan kaynaklanan temsilci konumunda bulunduklarından takibin usulünce yapıldığının kabulü gerekir.
 
 ## İstanbul BAM 14. HD 2020/1147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613015200)
 
 Hal böyle olunca, dava dışı mirasçıların davaya muvafakatlerinin alınması ya da miras şirketine TMK'nın 640. maddesi uyarınca atanacak temsilci aracılığı ile yargılamanın sürdürülmesi gerekirken, yazılı gerekçeyle davanın reddi doğru değildir". Yine, aynı Dairenin 2007/11963 E- 2008/1361 K sayılı, 06.02.2008 tarihli kararında da gerek muris muvazaasına gerekse murisin fiil ehliyetinin bulunmadığı iddiasına dayalı davaların, tüm mirasçılar tarafından birlikte açılması gerektiği vurgulanmıştır. Buna göre, davacı mirasçı ile dava dışı diğer mirasçılar arasında zorunlu dava arkadaşlığı mevcut olup davacı tek başına dava açamaz. Bu hukuki açıklamalar ışığında somut olaya gelinirse: davacının murisi ...'in, davacı dışında mirasçılarının bulunduğu anlaşılmaktadır. Bu nedenle bu mirasçılar arasında zorunlu dava arkadaşlığı mevcut olup davacı tek başına dava açamaz. Bu durumda davacıya, diğer mirasçıların muvafakatlerini alması yada terekeye temsilci tayin ettirerek temsilci eliyle davaya devam etmesi konusunda süre verilmelidir.
 Nitekim dosya kapsamına göre ilk derece mahkemesince 14.04.2014 tarihli duruşmada alınan 2 nolu ara kararın davacıya, diğer mirasçıların davaya muvafakatlerini alması veya terekeye temsilci tayin ettirmek suretiyle temsilci eliyle davaya devam etmesi için süre verildiği, ancak davacı vekilinin verilen süre içinde diğer mirasçıların davaya muvafakatlerini sunmadığı gibi terekeye temsilci tayin etmek için gerekli başvuruyu da yapmadığı anlaşılmaktadır. Yani, davacı vekili, mahkemenin verdiği süre içinde ara kararın gereğini yapmamıştır. Ara kararın gereğini yapmayan davacı vekili, 29.12.2016 tarihli celsede mirasçılara, davaya ilişkin tebligat yapılmasını istediği, aynı celse mahkemece mirasçı ...'ın feri müdahale talebini reddedip, muris ...'ın mirasçısı olması nedeniyle ...'ı UYAP sistemine birleşen davada davacı mirasçı olarak kendiliğinden eklenmesine karar verildiği, mirasçının bu şekilde taraf haline getirilmeye çalışıldığı anlaşılmaktadır. Oysa bu şekilde UYAP sistemine eklemek suretiyle mirasçının taraf haline getirilmesi mümkün değildir.
@@ -110,6 +128,8 @@ Mahkeme aynı duruşmada verdiği 7 nolu ara kararında, mirasçılar ... ve ...
 Atanacak temsilci asıl ve birleşen davaların takibini yapabilecek olup ilk derece mahkemesinin sadece birleşen dava için süre vererek taraf teşkilini tamamlamasını davacıdan istemiş olması yeterli görülmüştür. Bu nedenle ilk derece mahkemesince davanın, davacının aktif dava ehliyeti bulunmadığı gerekçesiyle reddine karar verilmesi gerekirken, farklı gerekçelerle hüküm verilmiş olması usule aykırı bulunmuştur. Öncelikle murisin tasarruf işleminin iptali sağlanıp hisselerin terekeye dönüşü sağlandıktan sonra TTK'nın 596/1. maddesindeki doğrudan iktisap kuralı uygulanabileceğinden ve bu aşamada uygulanması söz konusu olamayacağından, anılan maddeye göre davacının kendi hissesi için bu davaları açabileceği söylenemez. İlk derece mahkemesince asıl davada ortaklar kurulu kararının hükümsüzlüğünün tespiti talebinin pasif husumet ehliyeti yokluğundan reddine karar verilmiş ise de öncelikle aktif dava ehliyetinin değerlendirilmesi gerektiği açıktır.
 
 ## İstanbul BAM 16. HD 2018/1043 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403663400)
 
 Her ne kadar ilk derece mahkemesinin karar başlığında ...'in tereke mümessili olarak belirtilmesi ve hükmolunan miktarın, mirasçılar arasında miras payları oranında davacılara ödenmesi biçiminde hüküm kurulması gerekirken, bundan imtina ile yazılı şekilde hüküm kurulması da kabul şekli bakımından isabetli değil ise de, ilk derece mahkemesi kararı dairemizce kaldırılarak davanın reddine karar verilmiş oluşu nedeniyle bu hususun belirtilmesi ile yetinilmesine karar verilerek aşağıdaki hüküm kurulmuştur.
 

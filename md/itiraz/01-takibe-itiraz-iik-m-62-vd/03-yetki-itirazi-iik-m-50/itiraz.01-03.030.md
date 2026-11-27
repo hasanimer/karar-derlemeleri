@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 43. HD 2024/193 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042955100)
+
 Dava; deniz yolu ile yapılan taşıma sırasında taşınan emtianın hasarlanması sonucu oluşan hasarı sigortalısına ödeyen sigorta şirketi tarafından hasar bedelinin rücuen tahsili istemi ile başlatılan icra takibine vaki itirazın iptali davasıdır.
 
 …
@@ -34,6 +36,8 @@ Bu dava, ancak yabancı mahkemenin kendisini yetkisiz sayması veya Türk mahkem
 HÜKÜM:Yukarıda açıklanan nedenlerle: 1-Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 44. HD 2024/187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998186200)
 
 Esas sayılı dosyası ile 11.06.2019 ve 28.07.2019 tarihleri arasında toplam 46 güne tekabül eden ücret talebinde bulunulduğunu, taraflar arasında imzalanan sözleşmenin kabulü gerektiğini bu nedenle istinaf talebinin reddine karar verilmesini talep etmiştir.İnceleme, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 355. maddesi hükmü uyarınca istinaf dilekçelerinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır.Davanın konusu, yedieminlik ücretinden kaynaklı İİK 67 maddeye göre açılan itirazın iptali davasıdır.Yedieminlik ücret alacağı 2004 sayılı İcra ve İflas Kanunu’nun 95. maddesi ile “Alacaklı haczedilen malların muhafaza ve idare ve işletilmesi masraflarını istenildiği takdirde peşin vermeğe mecburdur” şeklinde düzenlenmiştir. 2004 sayılı İcra ve İflas Kanunu'nun 88/6 maddesinde "İcra dairesi, depo ve garajlarda ve yediemin olarak kendisine haczedilen malın bırakılmış olduğu üçüncü kişilerde saklanıp da hukuken artık muhafazasına gerek kalmayan malı, vereceği uygun süre içinde geri almasını ilgililere resen bildirir.
 Verilen süre içinde eşya geri alınmazsa, icra müdürü tetkik merciinin kararı ile taşınır mal satışlarına ilişkin hükümler uyarınca bunları satar. Elde edilen miktardan muhafaza ve satış giderleri ödenir. Artan miktar 9'uncu madde hükmüne göre muhafaza olunur. Bu konuda ortaya çıkan ihtilaflar tetkik mercii tarafından basit yargılama usulüne göre çözülür." düzenlemesi mevcuttur. Davacı taraf bu yola başvuracağına İİK 67. maddesindeki hakkını kullanarak genel mahkemelerde itirazın iptali davası açmıştır. Taraflar arasındaki akdi ilişki saklama sözleşmesine dayalı olup icra tetkik mercilerine itirazın iptali yolu ile talepte bulunulması ya da İİK 88/6 maddesi uyarınca uyuşmazlığın çözümünün istenilmesi, akdi ilişkiye dayanarak asliye ticaret mahkemesine başvurmasını engelleyecek hükümler değildir. Davacı, yargılama ve araştırması genel mahkemelere göre daha dar olan icra tetkik mercine başvuracağına her açıdan araştırma ve delil toplama hak ve yetkileri daha geniş olan asliye ticaret mahkemesine başvurarak kesin hüküm temin etme yoluna gidebilir.
@@ -48,6 +52,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Usûl ve yasaya uygun İ
 
 ## İstanbul BAM 46. HD 2024/186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990815700)
+
 Bağcılar Şubesinden gönderilen Mersin ...bank Şubesi şirket hesabına EFT yapılan miktarların, bu miktarlara karşılık kesilen faturaların mal teminlerinin gerçekleştiğinin görüleceğini, öncelikle yetki itirazının kabulü ile dosyanın yetkili görevli Mersin Asliye Hukuk veya Mersin Asliye Ticaret Mahkemesine gönderilmesine, %20 oranında kötü niyet tazminatına, davanın husumet yönünden ve esastan reddine, delil listesinde yemin teklif edilmiş olmakla yemin etmeye hazır olduğunu beyan etmiştir. İlk Derece Mahkemesi'nce; "Her ne kadar davalı tarafça yetki itirazında bulunulmuş ise de, davaya konu edilen uyuşmazlığın para alacağına ilişkin olması ve 6098 Sayılı TBK.nun 89/1 maddesi gereğince alacaklı/davacının bulunduğu yer mahkemesinin de yetkili olmasından dolayı yetki itirazının reddine karar verilmiştir. Taraflar arasındaki uyuşmazlık davacı tarafından banka kanalıyla davalı hesabına havale edilen paraların ve ... Bankası Çiftlik Bağcılar şubesinin 03/04/2017 vade tarihli 36.000 TL bedelli çekin borç olarak verilip verilmediğinin tespiti noktasında toplanmaktadır.
 Davalı para gönderilmesine yönelik maddi vakıayı kabul etmekle birlikte davacının oğlu ile Romanya'ya sebze meyve ihracatı için anlaşmış olup ticari faaliyet yürüttüklerini, ödenen paralar karşılığında Romanya'ya meyve ve sebze ihracatı yaptıklarını, davacı tarafından ödenen paraların borç para verildiğini gösterir herhangi bir delil bulunmadığını beyan ettiği, davalının savunması, vasıflı ikrar niteliğinde olup iddiayı kanıtlama yükümlülüğü, ikrar eden tarafa (davalıya) değil, vakıayı ileri süren tarafa (davacıya) aittir. 6098 Sayılı TBK 555 vd maddelerinde düzenlenmiş olan havale, hukuksal nitelikçe bir ödeme vasıtasıdır. Havalenin, mevcut bir borcun ödenmesi amacıyla yapıldığı yolunda yasal karine mevcuttur. Bu yasal karinenin tersini (havalenin borcun ödenmesinden başka bir amaçla yapıldığını) ileri süren havaleci (muhil), bu iddiasını kanıtlamakla yükümlüdür. Ancak dosyaya paranın borç ödemesi nedeniyle yapıldığına yönelik kesin ve somut şekilde ispata yarar hiçbir delil ibraz edilmemiştir.
 
@@ -58,6 +64,8 @@ H Ü K Ü M: Gerekçesi yukarıda açıklandığı üzere ; 1.Davacının istina
 …
 
 ## İstanbul BAM 17. HD 2024/184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/996262400)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece; HMK'nun 6. Maddesi uyarınca her davanın davalının ikametgah adresinde açılabileceği, davacı tarafından davalıyla yapmış olduğu ticari ilişkiden kaynaklı alacağın talep edildiği, HMK 6. maddesinin uygulanması gerektiği, davalının yerleşim yeri adreslerinin Mahkemenin yetki alanında kalmadığı ve sözleşmenin ifa yerinin de Ankara olduğu gerekçesi ile Mahkemenin yetkisizliği nedeniyle davanın reddine, karar kesinleştiğinde ve talep halinde dosyanın Ankara Nöbetçi Asliye Ticaret Mahkemelerine gönderilmesine karar verilmiştir.
 
@@ -79,6 +87,8 @@ HÜKÜM: Gerekçesi Yukarıda Açıklandığı Üzere: 1-Davacı vekilinin istin
 
 ## İstanbul BAM 13. HD 2024/75 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994389500)
+
 Dava; taraflar arasında akdedildiği iddia edilen taşıma sözleşmesi kapsamında navlun ücreti alacağının tahsili için başlatılan icra takibine itirazın iptali ve davacı lehine icra inkar tazminatına hükmedilmesine karar verilmesi talebine ilişkindir.
 
 …
@@ -92,6 +102,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davalının istinaf başvurusunun 6
 
 ## İstanbul BAM 17. HD 2024/42 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984960700)
+
 İLK DERECE MAHKEMESİ KARARI Antalya 2. Asliye Ticaret Mahkemesince; yetkiye ilişkin dava şartı yokluğu nedeniyle dava dilekçesinin usulden reddine, kararın kesinleşmesinden itibaren iki haftalık süre içinde talep edilmesi halinde dosyanın yetkili İstanbul Asliye Ticaret Mahkemesi'ne gönderilmesine karar verilmiş, karar kanun yoluna başvurulmaksızın kesinleşmiştir.
 
 …
@@ -103,6 +115,8 @@ Davalı taraf takipte, yetkili icra dairesinin sözleşmede kararlaştırılan �
 HD'nin 2017/1825 Esas, 2018/6690 Karar sayılı kararı) Somut olayda sözleşmenin 9.3 maddesinde yer alan uyuşmazlıklarda İstanbul İcra Dairesinin yetkili olduğuna dair hüküm, tacirler arasındaki sözleşmenin niteliği göz önüne alındığında tacir olan davacı yönünden ekonomik yıkım yaratacak düzeyde olmayıp, ortada genel işlem koşullarına aykırılık teşkil edecek bir husus bulunmadığının kabulü gerekir. Açıklanan nedenler ile ilk derece mahkemesi kararında hukuka aykırılık görülmediğinden, davacı vekilinin istinaf başvurusunun HMK'nın 353/1.b.1 bendi gereğince esastan reddine karar verilmesine dair aşağıdaki hüküm kurulmuştur.
 
 ## Ankara BAM 21. HD 2024/2 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992876500)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili banka ile ... arasında Genel Nakdi ve Gayrinakdi Kredi Sözleşmesi, Bankacılık Hizmet Sözleşmesi ve Vadematik Üyelik Sözleşmesi imzalandığını, davalılardan ...'ün 500.000 TL ...'ün 885.800 TL limitle söz konusu sözleşmelere kefil olduklarını, ayrıca her iki davalının Vadematik Üyelik Sözleşmesi'ne 55.000 TL limitle kefaletlerinin bulunduğunu, asıl borçlu tarafından sözleşme hükümlerinin yerine getirilmemesi nedeniyle kredinin kat edilerek ihtarnameler keşide edildiğini, ihtarnamelere rağmen ödeme yapılamaması üzerine asıl borçlu ... ve dava dışı ipotekli taşınmaz maliki ... hakkında Ankara 28 İcra Müdürlüğü'nün 2013/16504 E sayılı dosyası ile ipoteğin paraya çevrilmesi yolu ile takip başlatıldığını, tahsilde tekerrür olmamak kaydıyla davalı asıl borçlu ve davalı kefiller hakkında Ankara 28 İcra Müdürlüğü'nün 2013/16505 E sayılı dosyası üzerinden ayrıca başlatılan ilamsız icra takibine davalılarca haksız itiraz edildiğini ileri sürerek davalıların icra takibinde borca ve icra dairesinin yetkisine yapmış oldukları itirazların iptali ile icra takibinin devamına, %20 icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
 
@@ -117,11 +131,15 @@ Somut olayda, eldeki itirazın iptali davasına konu ilamsız icra takibine esas
 
 ## İstanbul BAM 3. HD 2023/3788 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975032500)
+
 Maddesi uyarınca bu Kanunun amacı; "Abonelik sözleşmelerinden ve bu sözleşmelerin ifası amacıyla tüketiciye sunulup bedeli faturaya yansıtılan mal veya hizmetten kaynaklanan para alacaklarına ilişkin haciz yoluyla ilamsız icra takiplerinin, Ulusal Yargı Ağı Bilişim Sistemi (UYAP) bünyesinde oluşturulan Merkezî Takip Sistemi üzerinden başlatılmasına ve haciz aşamasına kadar yürütülmesine ilişkin usul ve esasları düzenlemektir." 4.maddesinde, Merkezi Takip Sistemindeki takip talebinin doldurulması ve sisteme kaydedilmesi ile takibin başlatılacağı, 5. maddesinde ödeme emrinin borçluya tebliğ şekli ve 7.
 Maddesinde ödeme emrine itiraz üzerine yapılacak işlemleri düzenlendiği, 7155 sayılı yasanın 7/5.maddesine göre , sadece yetkiye itiraz hâlinde alacaklı avukatının , yetki itirazında gösterilen icra dairesinde haciz işlemlerini başlatabileceği, yetkisiz icra dairesinde takip başlatıldığı ve itiraz üzerin itirazın iptali davası açıldığı,itirazın iptali davalarında usulüne ve kanuna uygun yapılmış bir icra takibinin olmasının dava şartı olduğu, itirazın iptali davası yönünden dava şartının birleşen davada gerçekleşmediği gerekçesi ile ;"A)Mahkememizin iş bu asıl 2020/954 esas sayılı dosyası yönünden; 1-Açılan davanın KABULÜ İLE;- Davacının dava konusu taraflar arasında akdedilen 27/11/2018 tarihli metro ethernet internet abonelik sözleşmesi kapsamında davacı adına düzenlenen faturalardan dolayı davalıya borçlu olmadığının tespitine,B)Mahkememizin iş bu dosyası ile birleşen İstanbul 21. Asliye Ticaret Mahkemesi'nin 2022/287 esas sayılı dosyası yönünden; 1-Açılan davanın 6100 Sayılı HMK'nun 114/2 ve 115/2 maddeleri uyarınca usulüneça uygun bir icra takibi başlatılmaması dava şartı eksikliği sebebiyle reddine" karar vermiştir.
 Söz konusu kararı asıl dosyada davalı,birleşen dosyada davacı vekili olarak ... A.Ş vekili istinaf etmiştir.
 
 ## İstanbul BAM 3. HD 2023/3707 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/972480700)
 
 İcra Müdürlüğü'nün ...Esas sayılı dosyası üzerinden takip başlatıldığını, davalının haksız itirazı nedeniyle takibin durdurulduğunu beyanla, haksız itirazın iptali ile takibin devamına, davalının % 20 icra inkar tazminatı ile mahkumiyetini talep ve dava etmiştir.Davalı vekili cevap dilekçesinde; hakkında başlatılan takibin haksız ve hukuka aykırı olduğunu, davacı taraf taraflar arasında geçerli bir sözleşme olduğunu iddia etmiş ise de, takibe konu sözleşmedeki imzanın müvekkiline ait olmadığından sözleşmenin geçersiz olduğunu, davacının cayma bedeli talep etmesinin hukuki dayanağı bulunmadığı gibi talep edilen miktarın fahiş olduğunu, ayrıca davacı tarafça delil olarak dayanılan sözleşmenin içeriğine müdahale edilemeyen genel işlem şartlı sözleşmelerden olduğunu, müvekkilinin davacıya borcunun bulunmadığını beyanla davanın reddine, kötü niyetle takip başlatan ve dava açan davacının % 20 kötü niyet tazminatı ile mahkumiyetine karar verilmesini talep etmiştir.1-İlk Derece Mahkemesi'nce 2018/875 E., 2020/81 K.nolu 11/02/2020 tarihli ilam ile;"Davanın KISMEN KABULÜ ile, davalının İstanbul Ana. ... İcra Müdürlüğü'nün ...
 E. sayılı dosyasına yapmış olduğu itirazın 42.269,79 TL asıl alacak, 3.679,97 TL faiz olmak üzere toplam 45.949,76 TL üzerinden iptali ile takibin devamına, takip tarihinden itibaren asıl alacak 42.269,79 TL' ye sözleşme gereğince aylık %5 faiz uygulanmasına, fazlaya ilişkin itirazın iptali iste- minin reddine, davalının İİK 67/2 md. gereğince inkar edilen asıl alacak 42.269,79 TL nin % 20 si oranında tazminat ile mahkumiyetine, davalıdan alınarak davacıya ödenmesine" karar verilmiştir.Davalı vekilinin istinaf başvurusu üzerine dairemizce yapılan inceleme sonucu tesis edilen 2020/897E., 2021/2890 K. nolu 08/11/2020 tarihli ilamda;A-Mahkemenin görevi yönünden;davacı ticaret şirketi, davalı ise gerçek kişidir. Dos- ya içeriğine göre dava konusu mahallin iş yeri olduğu sabittir. Ancak davalı yönünden tacir araştır- ması yapılmamıştır.

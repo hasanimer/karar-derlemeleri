@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 4. HD 2016/10908 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/269113200)
+
 Dava, davalının miras bırakandan aldığı vekaletnameyi kötüye kullanarak murise ait taşınmazı satması ve bedelini mal edinmesi nedeniyle uğranılan zararın ödetilmesi istemine ilişkindir.
 
 …
@@ -30,9 +32,13 @@ Dava, davalının miras bırakandan aldığı vekaletnameyi kötüye kullanarak 
 
 ## Yargıtay 8. HD 2016/9455 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/227420300)
+
 Ayrıca gerek katılma alacağı gerekse değer artış payı alacağı, mal rejimi ölümle sona erdiğinden tereke borcu niteliğindedir. Tereke borcundan davacı altsoyla birlikte 1/4 oranında yasal mirasçıdır. Dolayısıyla davacı tereke borcundan da 1/4 oranında sorumlu olup, bu orandaki bölüm için kendisinde alacaklı ve borçlu sıfatı birleşmiştir. Diğer yandan, mirasçılar arasında tereke borcundan sorumluluk müteselsil olmayıp, miras payı oranında sorumluluk geçerlidir. O halde, hesaplanacak katılma alacağı ve değer artış payı alacağından davacının borçlu olduğu bölüm de düşülmesi suretiyle temyiz eden davalıların ölen eş için alınmış mirasçılık belgesinde gösterilen miras payları oranında ayrı ayrı sorumluluğuna karar verilmesi gerekirken yazılı şekilde fazla alacağa hükmedilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 14. HD 2016/8011 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/275978500)
 
 Toplanan deliller, tüm dosya kapsamından; özellikle 4721 sayılı Türk Medeni Kanunu'nun 598. maddesi hükmünde başvurusu üzerine yasal mirasçı oldukları belirlenenlere, Sulh Mahkemesi'nce mirasçılık sıfatlarını gösteren bir belge verileceği, mirasçılık belgesinin geçersizliğinin her zaman ileri sürülebileceği açıklanmıştır. Yine 4721 sayılı Türk Medeni Kanunu'nun 575. maddesi hükmüne göre miras ölümle açıldığı gibi aynı Kanun'un 30. maddesi hükmüne göre de doğum ve ölüm, nüfus sicilindeki kayıtlarla ispat olunabileceği, nüfus kütüklerinde kayıt bulunmaması veya bulunan kaydın doğru olmadığının anlaşılması halinde, gerçek durumun her türlü delille kanıtlanması mümkün olduğu düzenlenmiştir. Hukukumuzda çekişmeli yargıya tabi davalarda taraflarca hazırlama ilkesi geçerli olup, hakim tarafların talepleri ile bağlıdır. Hakim, talepte bulunan tarafların iddia ettiği olaylar ve ileri sürdüğü deliller ile yetinerek karar vermek zorundadır. Çekişmesiz yargıya tabi davalarda ise re'sen araştırma prensibi egemendir.
 Hasımsız açılan ve çekişmesiz yargıya tabi olan davalarda verilen kararlar kesin hüküm teşkil etmediği gibi bu kararlar açılacak bir iptal davası sonucunda değiştirilebilir veya ortadan kaldırılabilir.
@@ -40,6 +46,8 @@ Hasımsız açılan ve çekişmesiz yargıya tabi olan davalarda verilen kararla
 Hal öyle olunca, toplanan deliller, dinlenen tanık anlatımları ve tapulama tutanaklarına göre miras bırakan ...'nin davacının murisi olduğu anlaşılmaktadır. Gerçekleşen bu durum karşısında davanın kabulüne karar verilmesi gerekirken Mahkemece yukarıdaki hukuki olgular gözardı edilerek davanın reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 14. HD 2016/5950 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223584100)
 
 Dava, mirasta denkleştirme istemine ilişkindir.
 
@@ -52,6 +60,8 @@ Bunun yanında, mirasta denkleştirmenin nasıl yapılacağı TMK’nın 671 ve 
 
 ## Yargıtay 20. HD 2016/5668 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/235855300)
+
 Dava, davalının mirastan mahrum kaldığının tespiti ve mirasçılık belgesi verilmesi istemine ilişkindir.
 
 …
@@ -59,6 +69,8 @@ Dava, davalının mirastan mahrum kaldığının tespiti ve mirasçılık belges
 Dosya kapsamından, davanın, yasal mirasçı hasım gösterilerek açılmış olup, yargılama sonucunda verilecek kararla miras paylarının değişmesi söz konusu olabileceğinden, dava tarihinde yürürlükte bulunan 6100 sayılı HMK'nın Sulh Hukuk Mahkemelerinin Görevi başlıklı 4. maddesinde sayılan davalardan olmadığı gibi, 382/2. maddesinde de sayılmayan çekişmeli yargı işi niteliğindedir. Bu durumda, çekişmeli yargı kapsamındaki davanın asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 14. HD 2016/5023 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228051200)
 
 Dava, mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -68,9 +80,13 @@ Dava, mirasçılık belgesi verilmesi istemine ilişkindir.
 
 ## Yargıtay 14. HD 2016/4808 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/226658500)
+
 4721 sayılı Türk Medeni Kanunu'nun 598. maddesi hükmünde, başvurusu üzerine yasal mirasçı oldukları belirlenenlere sıfatlarını gösterir belge verileceği açıklanmıştır. Mirasçılık sıfatı kişilerin nüfus kayıtları esas alınarak belirlenir. Nüfus kayıtlarına ulaşılamaması veya nüfus kayıtlarında verasete ilişkin yeterli bilgi bulunmaması halinde ise her türlü delil araştırılması suretiyle mirasçılık sıfatı belirlenir.
 
 ## Yargıtay 14. HD 2016/4329 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/226387500)
 
 Dava mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -80,9 +96,13 @@ Dava mirasçılık belgesi verilmesi istemine ilişkindir.
 
 ## Yargıtay 20. HD 2016/3898 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232135300)
+
 MK'nın 652/1. maddesi "Eşlerden birinin ölümü halinde tereke malları arasında ev eşyası veya eşlerin birlikte yaşadığı konut varsa; sağ kalan eş bunlar üzerinde kendisine miras hakkına mahsuben mülkiyet hakkı tanınmasını isteyebilir." hükmüne yer vermiştir. Aynı Kanunun 658. maddesi hükmü uyarınca da, bu tür davalarda görevli mahkemenin Sulh Hukuk Mahkemesi olduğu açıkça ve ayrıca düzenlendiğine göre, uyuşmazlığın ... 15. Sulh Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 18. HD 2016/3588 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232318800)
 
 Önemle belirtmek gerekir ki, evlatlığın, miras ve başka haklarının zedelenmemesi, aile bağlarının devam etmesi için evlatlığın naklen geldiği aile kütüğü ile evlat edinenin aile kütüğü arasında her türlü bağ kurulur ve Türk Medeni Kanunu'nun 500. maddesine göre de evlatlık ve alt soyu evlat edinene kan hısmı gibi mirasçı olurlar, evlatlığın kendi ailesindeki mirasçılığı da devam eder.
 
@@ -90,15 +110,21 @@ Evlatlığın kendi ailesindeki mirasçılığının devam edebilmesinin doğal 
 
 ## Yargıtay 14. HD 2016/2579 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/182353600)
+
 Türk Medeni Kanununun 598. maddesi uyarınca başvurusu üzerine yasal mirasçı oldukları belirlenenlere, sulh mahkemesince veya noterlikçe mirasçılık sıfatlarını gösteren bir belge verilir. Mirasçı olabilmek için mirasbırakanın ölümü anında mirasa ehil olarak sağ olmak şarttır (TMK 581). Mirasın açıldığı anda mirasçılardan ölü olanların olduğu iddia edilirse, bu kez bu mirasçıların ölü olup olmadıklarının araştırılması, ölmüş iseler ölüm kayıtlarının nüfusa işlenmesi için ilgililere ihbar ve ihtar edilmesi gerekmektedir.
 
 Somut olaya gelince, mirasçılardan ....'nun 27.01.2014 tarihinde öldüğü ....Devlet Hastanesi Başhekimliğinin 09.02.2015 tarihli yazısıyla bildirildiğinden, .....'nun ölüm kaydının nüfusa işlenmesi için davacıya süre tanınması, ayrıca ....Kaymakamlığına ihbarda bulunulması, ölüm kaydı işlendikten sonra da nüfus kaydına uygun şekilde mirasçılık sıfatlarını ve paylarını gösterir mirasçılık belgesinin verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 17. HD 2016/2251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/225680200)
+
 İİK'nın 278/3-1.maddesinde karı ve koca ile usul ve füru,neseben veya sıhren üçüncü dereceye kadar hısımlar, evlat edinenle evlatlık arasında yapılan ivazlı tasarrufların bağışlama hükmünde olduğu ve batıl olduğu hükme bağlanmıştır. Mahkemece davalı borçlu ile birlikte bütün mirasçıların miras hakkını kardeşleri olan davalı 3.kişiye devir ettikleri, devrin muvazaalı olmadığından bahisle davanın reddine karar verilmiş ise de kardeşler arasında yapılan İİK'nın 278/3-1.maddesi uyarınca iptale tabi olduğundan davanın kabulüne karar verilmesi gerekirken yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 14. HD 2016/411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/220243000)
 
 Dava, mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -110,13 +136,19 @@ Murisin ana tarafında mirasçıları tespit edilmiş, baba tarafında ise altso
 
 ## Yargıtay 8. HD 2015/21687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140481600)
+
 Mahkemece yapılması gereken, bu tür davalarda öncelikle kayıt maliklerinin mirasçılarının belirlenmesi ve husumetin bu mirasçılara yöneltilerek taraf teşkilinin sağlanması, kayıt maliklerinin mirasçı bırakmadan ölmüş olması halinde TMK'nun 501 maddesi gereğince terekesinin devlete kalacağı gözetilmelidir. Bu halde mahkemece taraf teşkilinin sağlanabilmesi için öncelikle kayıt maliki Y. N.'nin Hazine hasım gösterilmek suretiyle veraset belgelerinin temin edilmesi amacıyla davacıya süre ve imkan tanınması, mirasçılarının tespiti halinde, davanın mirasçılara yöneltilmesi, kayıt maliklerinin mirasçısının bulunmadığının tespiti halinde, TMK'nun 501 maddesi gereğince tereke devlete kalacağından davanın reddine karar verilmesi, kayıt malikinin mirasçılarının tespiti halinde davanın veraset belgesinde ismi geçen mirasçılara yöneltilerek, tarafların bildireceği deliller toplandıktan sonra sonucuna göre karar verilmesi gerekirken davada gerek taraf teşkili sağlanmadan gerekse eksik araştırma ve inceleme ile yazılı şekilde karar verilmiş olması doğru değildir.
 
 ## Yargıtay 3. HD 2015/19101 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143880000)
+
 Toplanan bu deliller birlikte değerlendirildiğinde; davacı çocukların, mirasbırakana karşı gerekli evlatlık vazifelerini yerine getirmeye çalıştıkları, ancak bir süre sonra mirasbırakanın çocukları ile görüşmeyi kabul etmediği gibi haklarında isnat ettiği eylemler nedeniyle adli makamlara şikayette bulunduğu, mirasbırakanın taşınmazlarının satılması ile elde ettiği gelirin bir bölümünü bakıcısına verdiği ve sonrasında bakıcısının kızı adına taşınmaz satın aldığı, gelişen bu olaylar üzerine davacılar Özgül ve Murat'ın babaları olan mirasbırakanı korumak amacıyla TMK.dan doğan haklarını kullanarak vesayet davaları açtıkları, buna göre vesayet davalarının açılmasının aile bağlarını koparacak nitelikte olmadığı, aksine aile bağlarının korunmasını temine yönelik olduğu gözetildiğinde subjektif şartın gerçekleşmediği, kaldı ki vesayet makamı olan Sulh Hukuk Mahkemesince mirasbırakanın fiili ehliyetinin tespit edilebilmesi için hastane ve sonrasında en yetkili …
 
 ## Yargıtay 2. HD 2015/17562 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/399409300)
 
 Boşanma kararı, henüz kesinleşmeden davacı 10.6.2014 tarihinde ölmüştür. Bu halde evlilik ölümle sona ermiştir. Evliliğin ölümle sona ermiş olması durumunda da sağ eş, ölenin yasal mirasçısıdır. Sağ eşin yasal mirasçılık sıfatını ve varsa boşanmadan önce yapılmış olan ölüme bağlı tasarruflarla kendisine sağlanan hakları (aksi tasarruftan anlaşılmadıkça) kaybetmesi, bir halde mümkündür. O da, ölenin mirasçılarından birinin, açılmış olan davaya devam etmesi ve davalının kusurunun ispatlanması halidir. (TMK. m. 181/2) Bu ise, verilen hükmün bozulması halinde mümkün olacaktır. Hüküm, ölenin mirasçılarından Yeliz tarafından temyiz edildiğine göre, temyiz isteği, esas itibarıyla kusur tespiti bakımından davaya devam edilmesi talebi niteliğindedir. Bu talebin, davacı asıla yapılan tebliğ tarihine göre, temyiz süresi içinde ileri sürülmüş olması zorunluluğu bulunmamaktadır.
 
@@ -124,13 +156,19 @@ Boşanma kararının, tarafların irade birliğine (TMK. m. 166/3) dayanıyor ol
 
 ## Yargıtay 8. HD 2015/17506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396715500)
+
 O halde, davayı kabul eden gerçek kişiler yönünden TMK'nun 713/2. maddesindeki kazanma koşulları oluşmuştur. TMK'nun 501. maddesi uyarınca ...'nin miras payı ile imar yoluyla oluşan parseller ve davacıların zeminde kullanmış olduğu bölümler ile TMK.nun 713/2. maddesindeki koşullar dikkate alınarak ve tüm deliller birlikte değerlendirildikten sonra elde edilecek sonuca göre bir karar verilmesi gerekirken hatalı değerlendirme sonunda yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2015/17022 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/125827500)
+
 Bilindiği üzere, çocukla ana arasındaki soybağı doğumla; baba arasındaki soybağı ise, ana ile evlilik, tanıma ve hakim hükmü ile kurulur. (TMK.nun 282/1-2 md.) Evlilik dışında doğan çocuk, ana ve babasının birbiriyle evlenmesi halinde kendiliğinden evlilik içinde doğan çocuklara ilişkin hükümlere tabi olur. (TMK.nun 292. md.) Eşler, evlilik dışında doğmuş olan ortak çocuklarını, evlenme sırasında veya evlenmeden sonra, yerleşim yerlerindeki veya evlenmenin yapıldığı yerdeki nüfus memuruna bildirmek zorundadırlar. (TMK.nun 293. md.) Ana ve babanın yasal mirasçıları, çocuk ve Cumhuriyet Savcısı sonradan evlenme yoluyla soybağının kurulmasına itiraz edebilirler. İtiraz eden, kocanın baba olmadığını ispatla yükümlüdür. Çocuğun altsoyu da, çocuğun ölmüş ya da ayırt etme gücünü sürekli olarak kaybetmiş olması halinde itiraz hakkına sahiptir. Tanımanın iptaline ilişkin hükümler kıyas yoluyla uygulanır.(TMK.nun 294. md.)
 
 ## Yargıtay 8. HD 2015/16974 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396594700)
 
 Bundan ayrı;mal rejiminin tasfiyesi sonucunda belirlenecek değer artış payı alacağı ve katılma alacağı, terekeye ait borç olup, mirasçıların miras paylaşımından önce ödenmesi gerektiği kabul edilmektedir.Terekeye ait borç ödendikten sonra kalan miktar, mirasçılar arasında miras payları oranında paylaşılır. Tereke borçlarından bu sıfatını kaybetmemiş tüm mirasçılar, kişisel olarak (4721 s.lı TMK 599/2 m) ve müteselsilen (TMK 641 m) sorumludurlar. Her ne kadar, davacı temyize konu davaya terekenin alacaklısı sıfatıyla katılmış ise de; davacı da dahil davanın tarafları, ortak mirasbırakan ....'ın mirasçısıdırlar ve tereke borçlarından yukarıda açıklanan kanuni düzenlemeler çerçevesinde birlikte sorumludurlar. Başka bir anlatımla, mirasçılık sıfatına sahip olduğundan (TMK'nun 499) (duruma göre TMK 495,496,497,498,499,500,501 m.lerden biri), alacaklı ve borçlu sıfatı davacı sağ eş de (duruma göre diğer mirasçılar) birleşmiş, taraflarca, mirasçılardan her hangi birinin mirasçılık sıfatını yitirdiği (4721 s.lı TMK 511 vd, 578 vd, 605 vd m.leri) iddia edilip kanıtlanmamıştır.
 
@@ -138,13 +176,19 @@ Tüm bu açıklamalar nedeniyle, davacı mirasçı sağ eşin mal rejiminin tasf
 
 ## Yargıtay 17. HD 2015/13602 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/401093600)
+
 Öncelikle davacıların mirasçı oldukları gözönüne alındığında desteğin ...ü ile adına kayıtlı işletme yasal mirasçılarına geçecektir. Bu anlamda işletmenin bu niteliği devam edeceğinden davacıların müteveffanın vefatından sonra da malvarlığında eksilme olmayacaktır. Ancak mahkemece dinlenen tanık ... Danış beyanında, müteveffanın işletmesinin usta başı olduğunu, beraberce pulluk imal ettiklerini ve desteğin haftada ortalama dört adet pulluk sattığını beyan etmesi karşısında, desteğin pulluk imal etme konusunda vasfının da bulunduğu gözetilerek yapılan iş üzerindeki kişisel katkısı belirlenip bu miktar üzerinden destek zararının hesaplanması gereklidir. Hal böyle iken, sadece geliri belirlenerek, bu miktar üzerinden hesaplama yapılmış olması doğru görülmemiştir.
 
 ## Yargıtay 17. HD 2015/11924 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/401751500)
+
 Öncelikle davacıların mirasçı oldukları gözönüne alındığında desteğin ölümü ile sahibi olduğu araziler ve hayvanlar yasal mirasçılarına geçecektir. Bu anlamda gelir getiren bu varlıkların bu niteliği devam edeceğinden davacıların müteveffanın vefatından sonra da malvarlığında eksilme olmayacaktır. Bu nedenle anılan malvarlığından kaydedilen gelirin elde edilmesinde desteğin kişisel katkısı belirlenip bu miktar üzerinden destek zararının hesaplanması gereklidir. Bu bakımdan böyle bir davada desteğin kişisel katkı ve emeğinin parasal karşılığı belirlendikten sonra bilirkişiden ek rapor alınması ve sonucuna göre karar verilmesi gerekirken, yazılı olduğu şekilde eksik incelemeye dayalı olarak karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2015/11922 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/183647500)
 
 Dava, mirasçılık belgesi verilmesi isteğine ilişkindir.
 
@@ -154,9 +198,13 @@ Somut olayda; muris..'ın 15.04.2014 tarihinde vefat ettiği ve geriye mirasçı
 
 ## Yargıtay 14. HD 2015/11919 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/183593200)
+
 Hal böyle olunca miras 2 pay kabul edildiğinde, yarısının (1 pay) eşi Aydın'a, murisin altsoyu olmadığı için kalan yarısının halefiyet yoluyla ve eşit payla anne ve babasına (1 pay), anne-babanın murisinten önce ölmüş olmaları nedeniyle anne-babaya intikal eden 1 payın kendi altsoyu olan . ve .'e intikal edeceği, . ve Müzeyyen'in muristen önce ölmüş olmaları nedeniyle intikal eden 1 payın Müzeyyen'in altsoyu olan ...'ye verilmesi gerekirken, anne-babaya geçen miras payının kendi altsoylarına intikal edeceği gözardı edilerek yazılı şekilde hüküm kurulması doğru görülmemiştir" gerekçesiyle bozulmuştur.
 
 ## Yargıtay 14. HD 2015/11494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/182990600)
 
 Dava, mirasçılık belgesinin iptali ile yeni bir mirasçılık belgesi verilmesi isteğine ilişkindir.
 
@@ -165,6 +213,8 @@ Dava, mirasçılık belgesinin iptali ile yeni bir mirasçılık belgesi verilme
 TMK'nun 495 ile 501. maddelerinde yasal mirasçılar, izleyen maddelerde de mirasbırakanın ölüme bağlı tasarrufu sonucu oluşan mirasçılık gösterilmiştir (TMK. m.516, 520, 521, 522). Bu yasal düzenlemeler göz önünde bulundurularak TMK'nun 598. maddesine göre düzenlenen mirasçılık belgeleri, aksi ispat edilinceye kadar geçerli olan, adına düzenlenmiş bulunan kişi ve …
 
 ## Yargıtay 14. HD 2015/11024 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/123935900)
 
 Dava, mirasçılık belgesinin iptali istemine ilişkindir.
 
@@ -176,18 +226,26 @@ Mirasçılık belgesi verilmesi hususu Türk Medeni Kanunu'nun 598. maddesinde d
 
 ## Yargıtay 8. HD 2015/9566 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/155902200)
+
 Somut olayda, tapuda pay maliki görünen ... kızı ... ile ... kızı ...'nin 9/36'şar pay sahibi oldukları, ancak bu maliklerin ölü olup olmadıklarının bilinmediği, mirasçılarının bulunup bulunmadığının da tereddüte yer bırakmayacak şekilde araştırılmadığı ve kayıt maliklerine ait mirasçılık belgelerinin de temin edilmediği belirlendiğine, kayıt maliklerinin, hiç mirasçı bırakmadan ölmüş olmaları halinde TMK'nun 501. maddesi uyarınca son mirasçının Devlet (Hazine) olacağı gözetildiğinde, yukarıdaki açıklamalar karşısında, öncelikle kayıt maliklerinin hasımlı mirasçılık belgelerinin (hasım Hazine olacak şekilde) alınması için davacı tarafa süre ve imkan tanınması, maliklerin mirasçılık belgeleri alındığında ve mirasçılarının da olduğu anlaşıldığı takdirde davanın mirasçılarına yöneltilmesi, bu şekilde taraf teşkilinin sağlanması, hiç mirasçı bırakmadan ölmüş iseler bu durumda TMK'nun 501. maddesinin göz önünde tutulması gerekmektedir. TMK'nun 713/2. fıkrası gereğince açılan davalar, kamu düzeni ağırlıklı davalar olup bir bakıma mahkemece res’en araştırma ve inceleme yapma zorunluluğu vardır.
 Açıklanan nitelikleri itibariyle bu davaların kayıt maliklerine kayyım atanmak suretiyle yürütülmeleri olanaklı bulunmamaktadır, Daire ve Yargıtay uygulaması da bu yöndedir. Bu şekilde inceleme ve araştırma yapılarak taraf teşkilinin sağlanması, oluşacak duruma göre taraf delilleri değerlendirilerek sonucuna göre bir hukum kurulması gerekirken yazılı şekilde eksik inceleme ile taraf teşkili sağlanmadan hüküm kurulması doğru olmamıştır.
 
 ## Yargıtay 14. HD 2015/9454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/127360700)
+
 Mahkeme kararı ve dayandığı gerekçeler, yapılan yargılamaya, toplanan delillere ve dosya içeriğine uygun olduğu gibi özellikle satış vaadi sözleşmesinin borçlusu İ.. K..'nın mirası en yakın yasal mirasçılarının tamamı tarafından reddedildiğinden TMK'nın 612. maddesi hükmüne göre terekenin re'sen tasfiyesinin gerektiği mirası reddeden mirasçıların satış vaadi sözleşmesine dayanılarak açılan tapu iptali ve tescil davasında taraf olamayacakları ve davanın İ.. K..'nın terekesinin tasfiye memuru huzuru ile görülmesinin zorunlu olduğu gözetilerek terekeye temsilci atanmasında davacının hukuki yararının bulunmadığının anlaşılmasına göre yerinde olmayan temyiz itirazlarının reddiyle hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine, 23.10.2015 tarihinde oybirliği ile karar verildi.
 
 ## Yargıtay 3. HD 2015/9389 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146627500)
+
 Yukarıda açıklanan yasa maddesi gözetilerek yapılan ön incelemede; yurtdışında oturan yasal mirasçı İ.. A..'a, ilamın tebliği için gönderilen tebligatın, konsolosluk tarafından düzenlenen bildirim ile bulunulan ülke mevzuatına göre gönderildiği, ancak muhatabın bildirimi yasal süresi içinde teslim almaması nedeniyle bulunulan ülke mevzuatı uyarınca tebligatın yapılamadığı belirtilerek, tebliğ evrakının iade edildiği anlaşılmıştır.
 
 ## Yargıtay 8. HD 2015/8953 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/153987900)
 
 Dava, TMK'nun 713/2 maddesinde yazılı ölüm sebebine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -197,13 +255,19 @@ Buna göre, kayıt maliki ...’ın hiç mirasçı bırakmadan öldüğü belirl
 
 ## Yargıtay 14. HD 2015/8725 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/128307100)
+
 Muris Fatma'nın abisi Nazif 'in çocukları olan M...İ.., Ş.. İ.. ve K.. B..'nin ölü oldukları ve altsoyları bulunduğu dikkate alınarak TMK’nun 580/2. maddesi uyarınca murisin mirasçılarının belirlenmesi gerekirken, yazılı şekilde karar verilmesi doğru görülmemiş ve kararın bu gerekçe ile bozulması gerekirken sehven onandığı bu defa yapılan inceleme sonucu anlaşıldığından Dairemizin onama ilamının kaldırılarak hükmün bozulması gerekmiştir.
 
 ## Yargıtay 17. HD 2015/8003 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138194600)
+
 Kazada yaralanan davacı mağdur kendi adına tazminat talep etmiş ve yargılama devam ederken vefat etmiştir. Davacının anne ve babası yasal mirasçısı sıfatıyla davaya dahil olmuştur. Davaya dahil olan anne ve babanın kendi adlarına ayrı bir manevi tazminat talepleri mevcut değildir. O halde, HMK 26. maddesi hükmü gereğince, talepten başka bir şeye hükmedilemeyeceğinden ölen davacı için manevi tazminata hükmedilmesi gerekirken talep aşılarak anne ve baba için manevi tazminata hükmedilmesi doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2015/7440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/135251400)
 
 Dava mirasçılık belgesi verilmesi talebine ilişkindir.
 
@@ -214,13 +278,19 @@ Bu nedenle mahkemece dava dilekçesinin görev yönünden reddine ve dosyanın g
 
 ## Yargıtay 14. HD 2015/7200 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/178559100)
+
 TMK'nın 495 ve 496. maddeleri gereğince mirasçılık durumunda zümre sistemi kabul edilmiştir. Bu suretle kan hısımlığına dayanan yasal mirasçılıkta zümreler sınırlandırılmış ve zümreler arası öncelik ilkesi benimsenmiştir. Zümre içinde halefiyet yoluyla sadece kan hısımları mirasçı olabilir. Bu sebeple birinci zümrede (altsoy) mirasçı bulunduğu takdirde ikinci zümreye (ana, baba ve kardeşler) miras intikal etmeyeceğinden 05.05.1974 tarihinde vefat eden muris .... kızı ...'nın çocuksuz olarak 06.08.1986 tarihinde vefat eden oğlu ....'nın eşi .... kızı .... 23.10.2002 tarihinde yani eşi çocuksuz olarak vefat eden ....'dan sonra vefat etmiş olmakla ....'nın mirasçıları sıhri hısım olmaları sebebiyle muris .... kızı ...'nın mirasçısı olamayacaklarından bu husus gözetilmeden yazılı şekilde .... mirasçılarına mirastan pay verilmesi doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2015/7059 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138118000)
+
 Hemen belirtmek gerekir ki, mirasçılık kanundan doğuyorsa bu “yasal mirasçılık”tır (TMK m. 495-501). Mirasçılık murisin iradesine dayalı olarak da doğabilir. Muris ölüme bağlı tasarruf şekillerinden birine (vasiyetname ya da miras sözleşmesi) uyarak, kendi iradesiyle tasarruf özgürlüğü içerisinde, terekesinin tamamı veya belli bir oranı için bir ya da birden fazla kişiyi mirasçısı olarak belirlemek hakkına sahiptir. Bu hukuki işleme “mirasçı atama (nasbı)”, böyle bir işlemle mirasçılık sıfatını kazanan kişiye de “atanmış (mansup) mirasçı” denir.
 
 ## Yargıtay 14. HD 2015/6494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/137265200)
 
 Dava, daha önce düzenlenen mirasçılık belgesinin iptali ile yeniden mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -230,9 +300,13 @@ Yukarıda açıklanan hukuksal olgular ve miras bırakanın eşi A.. E..'un öl�
 
 ## Yargıtay 8. HD 2015/6480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/153713800)
+
 TMK.nun 713/2.maddesine dayalı olarak açılan davalarda, dava öncelikle kayıt malikine, ölü ise mirasçılarına yöneltilir. Bu kişilerin de tespit edilememesi durumunda, TMK.nun 501.maddesi hükmü uyarınca son mirasçı sıfatıyla Hazine aleyhine yargılamaya devam edilerek hüküm kurulması gereklidir. Somut olayda, tapuda ¼ pay sahibi ........'nın dosya arasında mevcut nüfus aile kayıt tablosuna göre tüm mirasçılarının eldeki davada taraf oldukları gözönünde bulundurulduğunda, Hazine aleyhine açılan davanın husumet yokluğundan reddine karar verilmesi gerekirken kabulüne karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2015/5694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142481300)
 
 Bu sebeple, evliliğin ölümle sona ermesi durumunda sağ kalan eşin miras hakları devam etmekte, ayrıca Türk Medeni Kanunun 240 ve 652. maddesinde aile konutuyla ilgili kendisine tanınan yasal hakları bulunmaktadır.
 
@@ -241,5 +315,7 @@ Sağ kalan eşin, bu düzenlemelerde yer alan hakları için ayrıca bir dava a�
 Sağ kalan eşin, aile konutunu, terekeye döndürme ve bunun için de dava açma hakkı vardır. Aksi taktirde, sağ kalan eş, aile konutundan kaynaklanan yasal haklarını kullanabilme olanaklarından yoksun kalmış olacaktır.
 
 ## Yargıtay 14. HD 2015/5613 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/181083400)
 
 TMK'nın 575. maddesi uyarınca; miras, murisin ölümüyle açılır. Murisin sağlığında yapmış olduğu mirasla ilgili kazandırmalar ve paylaştırmalar, terekenin ölüm anındaki durumuna göre değerlendirilir. Kök muris ...'nin vefat tarihi 20.10.1954 olup, ölümü ile mirası payı oranında Hatice Behice'ye, .... nin de 1968 yılında vefatı ile mirası Nermin Soğuk Akdoğan'a intikal etmiştir. TMK'nın 500. maddesi gereğince evlatlık ve altsoyu, evlat edinene kan hısımı gibi mirasçı olurlar. Evlatlığın kendi ailesindeki mirasçılığı da devam eder.

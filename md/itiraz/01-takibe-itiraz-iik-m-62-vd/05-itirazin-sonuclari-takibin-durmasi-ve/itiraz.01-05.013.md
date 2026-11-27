@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 17. HD 2022/1141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781581700)
+
 Dava; cari hesap alacağının tahsili için yapılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
 …
@@ -33,6 +35,8 @@ Dosyadaki belgelere, kararın dayandığı delillerle, usul ve yasaya uygun gere
 İzmir 2. Asliye Ticaret Mahkemesi'nin 11/12/2018 tarih ve 2017/866 Esas 2018/1453 Karar sayılı hükmü usul ve esas yönünden hukuka uygun bulunduğundan davalı vekilinin istinaf kanun yolu başvurusunun 6100 sayılı HMK'nın 353/(1)-b-1. maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 43. HD 2022/1074 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/820071700)
 
 …
 
@@ -51,6 +55,8 @@ HÜKÜM :Yukarıda açıklanan nedenlerle: 1-Asıl ve birleşen davalar davacıs
 
 ## İstanbul BAM 43. HD 2022/904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/808375100)
+
 GEREKÇE: Dava, genel kredi sözleşmesi kapsamında kullandırılan krediden kaynaklanan alacağın tahsili istemiyle başlatılan icra takibine vaki itirazın iptali davasıdır. İstinafa gelen uyuşmazlık temelde, davanın karardan sonra konusuz kalıp kalmadığı ve ek karar verilmesi gerekip gerekmediği noktasındadır. Mahkemece, davanın esası hakkında karar verildikten sonra, davalı takip borçlusu tarafından icra müdürlüğüne sunulan dilekçe ile itirazdan feragat edilmiştir. Bunun üzerine davacı tarafça feragat nedeniyle ek karar oluşturularak davanın kabulü talep edilmiş ancak mahkemece davadan feragat söz konusu olmadığından ek karar talebi olarak reddedilmiştir. Bu kez ek karar ve gerekçeli karar davacı tarafça istinaf edilmiş, öncelikle itirazdan feragat nedeniyle konusuz kalan davanın esası hakkında karar verilmesine yer olmadığına, olmadığı takdirde karar kaldırılarak yeniden bilirkişi incelemesi yapılmasına karar verilmesi talep edilmiştir. Davanın konusu olan nizanın bir şekilde ortadan kalkması halinde, dava konusuz kalır. Davanın konusuz kalması halinde davanın esası hakkında yargılama yapılmasına ve esas hakkında karar verilmesine gerek kalmaz.
 Bu halde mahkemece davanın esası hakkında karar verilmesine yer olmadığına kararı verilir ve davanın açıldığı tarihteki haklılık durumuna göre yargılama giderleri ve vekalet ücreti hüküm altına alınır. Dava, nihai karardan sonra konusuz kalmış ise, davanın konusuz kaldığına ilişkin karar istinaf dairesi tarafından verilir. Somut olayda, davalı takip borçlusu tarafından takibe itirazdan feragat edilmek suretiyle itiraz hükümden düşmüş olup, bu haliyle itirazın iptali davası konusuz kalmıştır. Davalı takip borçlusu itirazdan feragat etmek suretiyle takibe konu borcu benimsemiş olup, dava açılmasına sebebiyet verdiğinden yargılama masrafı ve vekalet ücretinden sorumludur. Ayrıca, davalının takibe itirazı haksız olup nakdi alacak yönünden alacak likit olduğundan davacı yararına davaya konu nakdi alacak tutarı üzerinden icra inkar tazminatına hükmedilmesi gerekir. HMK'nın 355.
 Maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılan istinaf incelemesi sonunda; karardan sonra ve henüz karar kesinleşmeden önce davanın konusuz kalmış olması nedeniyle davacı vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına, yeniden yargılama yapılmasına gerek bulunmadığından Dairemizce esas hakkında yeniden karar verilmek suretiyle konusu kalmayan davanın esası hakkında karar verilmesine yer olmadığına karar verilerek aşağıdaki şekilde hüküm tesis edilmiştir.
@@ -58,6 +64,8 @@ Maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtile
 HÜKÜM: Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun KABULÜ ile; istinafa konu ilk derece mahkemesinin kararının HMK 353(1)b-2 uyarınca KALDIRILMASINA; 1-Konusu kalmayan davanın esası hakkında KARAR VERİLMESİNE YER OLMADIĞINA …
 
 ## Samsun BAM 3. HD 2022/760 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786457600)
 
 Davalı davaya cevap vermediği anlaşılmıştır.
 
@@ -71,6 +79,8 @@ Yerel mahkemece yapılan yargılama sonucunda; Davanın kısmen kabulüne karar 
 Bu durumda alacaklı itirazın iptali davası açamayacağından borçlunun itirazının haksızlığından bahisle aleyhine tazminata hükmedilemez. Ödeme ile itirazın iptali davasının konusuz kalması halinde takip konusu alacağın likit olması ve diğer şartlarının da mevcut bulunması halinde alacaklı lehine icra inkar tazminatına hükmedilir. ( Dr.Adnan Deynekli, itirazın iptali davaları sayfa 190-191.)
 
 ## Ankara BAM 21. HD 2022/671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776573100)
 
 Davalılar davaya cevap vermemişlerdir.
 
@@ -87,6 +97,8 @@ Ankara 17.İcra Müdürlüğünün 2012/15105 esas sayılı dosyasının incelen
 A)1-Davalılar vekilinin istinaf başvurusunun HMK'nın 356/2. maddesi gereğince ESASTAN REDDİNE …
 
 ## Adana BAM 9. HD 2022/665 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763335700)
 
 Davalı vekili cevap dilekçesi ile; davacı tarafın güvenlik hizmeti verildiğini iddia ettiği proje, “İskenderun Park Forbes Yaşam Projesi”nin yapımı işine ait olduğu, sözkonusu yapım işinin ... İnşaat A.Ş. ile işveren konumundaki ...
 
@@ -124,11 +136,15 @@ Davalı şirketin istinaf başvurusunun Hukuk Muhakemeleri Kanununun 353/1-b.1.m
 
 ## İstanbul BAM 12. HD 2022/438 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739501400)
+
 GEREKÇE: HMK'nın 331/1 maddesinde, davanın konusuz kalması sebebiyle davanın esası hakkında bir karar verilmesine gerek olmayan hallerde, davanın açıldığı tarihteki haklılık durumuna göre yargılama giderleri takdir edilerek hükmedileceği hüküm altına alınmıştır. Somut olayda davaya konu icra takibine vaki itirazlarından feragat etmişler; ilk derece mahkemesince konusu kalmayan dava nedeniyle bir karar verilmesine yer olmadığına, davacı yararına icra inkar tazminatı ve vekalet ücretine, ... dışındaki davalılar yararına da vekalet ücretine hükmedilmiştir. Elde ki dava da ;borçlular tarafından icra dosyasındaki itirazdan feragat edilmesi nedeniyle dava konusuz kaldığından davalı-borçlular itirazlarının haksız olduklarını kabul ederek feragat ettiklerinden davalılar yararına vekalet ücretine hükmedilmesi doğru olmamıştır. Açıklanan nedenlerle; itirazlarından feragat ettiklerini bildiren davalılar yararına vekalet ücretine hükmedilemeyeceğinden davacı vekilinin istinaf başvurusunun kabulü ile hükmün kaldırılmasına, hükmün kesinleşen diğer kısımlarının tekrarına,yeniden hüküm verilerek davalılar yararına vekalet ücreti takdir edilmemesine karar verilmiştir.
 
 HÜKÜM:Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun kabulüne; İstanbul Anadolu 2. Asliye Ticaret Mahkemesi'nin 15/09/2021 Tarih 2020/98 Esas 2021/903 Karar sayılı kararın HMK.'nın 353(1)b-2 gereği KALDIRILMASINA; "Dava konusuz kaldığından esas hakkında karar verilmesine yer olmadığına …
 
 ## İzmir BAM 17. HD 2022/435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744392600)
 
 Dosyadaki belgelere, kararın dayandığı delillerle, usul ve yasaya uygun gerektirici nedenlere ve özellikle icra takibinde ödeme emrinin tebliğinden ve yapılan itirazdan dolayı takibin durmasından sonra borçlu tarafından asıl alacağın haricen alacaklıya ödenmesine ayrıca borçlunun takibin durmasından sonra ödediği asıl alacak miktarı üzerinden icra harç ve masrafları ile icra vekalet ücretini de ödemekle yükümlü olmasına ve bunların ödendiğinin davalı borçlu tarafından ispatlanamamasına, kararda kamu düzenine ilişkin bir aykırılık bulunmamasına göre; kanunun olaya uygulanmasında ve gerekçede hata edilmediği, ihtilafın doğru olarak tanımlandığı, inceleme konusu kararın usul ve esas yönünden hukuka uygun olduğu anlaşıldığından, davalı vekilinin yerinde bulunmayan istinaf kanun yolu başvurusunun 6100 sayılı HMK'nın 353/(1)-b-1. maddesi gereğince esastan reddine karar vermek gerekmiştir.
 
@@ -138,12 +154,16 @@ Dosyadaki belgelere, kararın dayandığı delillerle, usul ve yasaya uygun gere
 
 ## İstanbul BAM 3. HD 2022/318 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724873400)
+
 K A R A R: Yukarıda açıklanan nedenlerle; A- Asıl davanın Kısmen Kabulü ile, 1-Davalı/borçlunun Büyükçekmece ... İcra Müdürlüğünün ...
 Esas sayılı İcra dosyası üzerinden takibine girişilen 360.768,75 TL tutarındaki dava konusu borcun 359.931,10 TL'lik kısmına vaki itirazının iptali ile takibin bu miktar üzerinden devamına, 2- Likit alacağa vaki haksız itirazı ile takibin durmasına sebebiyet veren davalı/ borçlunun hüküm altına alınan asıl alacağın % 20 oranında icra inkar tazminatı ile mahkumiyetine, fazlaya ilişkin talebin Reddine, 3- 492 Sayılı Harçlar Kanunu uyarınca alınması gereken 24.586,89 TL karar harcından yatırılan 4.357,19TL peşin harcın mahsubu ile eksik kalan 20.229,70-TL karar harcının davalıdan tahsili ile hazineye gelir kaydına, 4- Davacı tarafından yatırılan 4.357,19-TL peşin harcın davalıdan tahsili ile davacı tarafa verilmesine, 5- Davacı tarafından dosyada yapılan 915,00-TL yargılama giderinin kabul- red oranına hesaplanan 912,88-TL yargılama giderinin davalıdan tahsili ile davacı tarafa verilmesine, bakiyesinin davacı üzerinde bırakılmasına, 6- Davacı taraf kendisini vekil ile temsil ettirdiğinden Avukatlık Asgari Ücret Tarifesine göre hesaplanan 33.645,18 TL vekalet ücretinin davalıdan tahsili ile davacı tarafa verilmesine, 7- Davalının yargılama sırasında yapmış olduğu yargılama gideri
 bulunmadığından bu konuda karar verilmesine yer olmadığına, 8- Davalı lehine karar tarihindeki AAÜT uyarınca hesaplanan 837,65 TL nispi vekalet ücretinin davacıdan alınıp, davalıya verilmesine, 9- Davacı ve davalı tarafından dosyaya yatırılan gider avansının kullanılmayan kısmının karar kesinleşince ve HMK 333. maddesi uyarınca ilgili tarafa iadesine, B- Karşı davanın reddine 10- 492 Sayılı Harçlar Kanunu uyarınca alınması gereken 80,70-TL red karar harcının, mahkememiz veznesine yatırılan 1.000-TL tamamlama harcından mahsubu ile bakiye kalan 919,30-TL harcın karar kesinleşince ve talebi halinde davalı-karşı davacı tarafa iadesine, 11- Davalı-Karşı davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına, 12- Davacı-Karşı davalı taraf kendisini vekil ile temsil ettirdiğinden Avukatlık Asgari Ücret Tarifesine göre hesaplanan 8.470,00 TL vekalet ücretinin davalı-karşı davacıdan tahsili ile davacı-karşı davalı tarafa verilmesine, İstinaf incelemesiyle ilgili olarak;
 Peşin alınan istinaf karar harcının, istinaf eden taraflara isteği halinde ilk derece mahkemesince iadesine, Asıl dosya davalısının istinaf aşamasında yapmış olduğu 48,50 TL istinaf yargılama giderinin asıl dosya davalısından alınarak, davacıya verilmesine, Birleşen dosya davacının yaptığı istinaf yargılama gideri bulunmadığından bu konuda karar verilmesine yer olmadığına, İstinaf sebebiyle yatırılan gider avansı bakiyesi varsa, karar kesinleştiğinde istinaf edenlere ilk derece mahkemesince iadesine, Dosya üzerinde yapılan inceleme sonunda gerekçeli kararın taraflara tebliğinden itibaren 2 hafta içerisinde Yargıtay'da temyiz yolu açık olmak üzere oybirliği ile karar verildi.08/02/2022 …
 
 ## Ankara BAM 21. HD 2022/240 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749849500)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili bankanın Mamak şubesi müşterilerinden ... Day. Tük.
 
@@ -160,11 +180,15 @@ Ankara 10. İcra Müd.
 
 ## İstanbul BAM 3. HD 2022/219 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723389600)
+
 K A R A R: Yukarıda açıklanan nedenlerle; Davalının istinaf talebinin kabulüyle HMK 353/1-b-2 maddesi gereğince karar kaldırılarak yeniden esas hakkında; 1- Davanın kısmen kabulü ile; a- Davalı/borçlunun İstanbul ...İcra Müdürlüğünün ...
 Esas sayılı dosyası üzerinden takibine girişilen 7.833,24 TL'lık borcun 5.463,42 TL'lık kısmına vaki itirazın iptali ile takibin bu miktar üzerinden devamına, b- Likit alacağa vaki haksız itirazı ile takibin durmasına sebebiyet veren davalının hüküm altına alınan alacağın % 20'i oranında icra inkar tazminatı ile mahkumiyetine, c- Fazlaya ilişkin talebin reddine, 2- Hüküm altına alınan miktar üzerinden hesaplanan 373,21-TL'den yatırılan 61,11-TL peşin harcının mahsubu ile bakiye 312,10 -TL'nin davalıdan tahsili ile hazineye irat kaydına, 3- Davacı tarafından yatırılan 61,11-TL peşin harcın davalıdan alınarak davacıya verilmesine, 4- Davacı tarafından yapılan toplam 1.856,75 TL yargılama giderinden kabul ve redde göre hesap edilen 1.295,02 TL'nin davalıdan alınarak davacıya verilmesine, bakiyesinin davacı üzerinde bırakılmasına, 5- Davalı tarafından yapılan yargılama giderin bulunmadığından bu konuda karar verilmesine yer olmadığına, 6- Davalı kendisini vekil ile temsil ettirdiğinden hüküm tarihinde yürürlükte olan avukatlık asgari ücret tarifesi gereğince red olunan dava değerine göre takdir olunan 5.100,00 TL vekalet ücretinin davacıdan alınarak davalıya verilmesine 7- Davacı
 kendisini vekil ile temsil ettirdiğinden hüküm tarihinde yürürlükte olan avukatlık asgari ücret tarifesi gereğince 2.369,82 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine, 8-Karar kesinleştiğinde taraflarca yatırılan artan gider ve delil avansından arta kalan kısım var ise yatıran tarafa iadesine, İstinaf incelemesiyle ilgili olarak; Peşin alınan istinaf karar harcının, istinaf edene isteği halinde ilk derece mahkemesince iadesine, Davalı tarafından bu aşamada yapılan yargılama giderlerini bulunmadığından bu hususta karar verilmesine yer olmadığına, İstinaf sebebiyle yatırılan gider avansı bakiyesi varsa, karar kesin istinaf edene ilk derece mahkemesince iadesine, Dair dosya üzerinden yapılan inceleme sonunda HMK 362/1-a maddesi gereğince kesin olmak üzere oybirliği ile karar verildi 01/02/2022 …
 
 ## İzmir BAM 20. HD 2022/106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727063900)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili ile davalı arasında Bankacılık Hizmetleri Sözleşmesi, Kredili Ticari Mevduat Hesabı Sözleşmesi, Gerçek Kişi Tacir Şirket Kredi Kartı Üyelik Sözleşmesi ve Ticari/Mesleki/Zirai Amaçlı Destek Kredisi Sözleşmesi imzalandığını, bu sözleşmeler kapsamında 1283-7815861/1283-7820061/1283-7821934 nolu Ticari Amaçlı Destek Kredisi, \[KART] nolu Ticari Kredi Kartı ve 1283-6689365 nolu Kredili Mevduat Hesabı (Tek Hesap) ürünlerinin kullandırıldığını, kredi taksitlerinin zamanında ödenmemesi üzerine hesabın kat edilerek 28/09/2020 tarihinde 5301725271856 barkod nolu ihbarname/ihtarname gönderildiğini ve 01/10/2020 tarihinde teslim edildiğini, sözleşme hükümleri uyarınca borçlunun temerrüde düştüğünü, müvekkilinin alacağının muaccel hale geldiğini, fazlaya ilişkin haklar saklı tutularak toplam 61.311,55-TL bakiye borcun tahsili amacıyla 02/12/2020 tarihinde İzmir 4.
 
@@ -192,11 +216,15 @@ Davacı, davalıya sipariş edilen mallar karşılığında toplam 76.996,00 TL 
 
 ## İstanbul BAM 3. HD 2021/2897 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/695891800)
+
 K A R A R : Yukarıda açıklanan nedenlerle;Davacının istinaf talebinin kabulüyle HMK 353/1-b-2 maddesi gereğince karar kaldı- rılarak yeniden esas hakkında; 1- DAVANIN KABULÜNE, davalı borçlunun İstanbul ... İcra Müdürlüğü'nün ...
 Esas sayılı dosyası üzerinden takibine girişilen 22.430,43 TL'lik borca vaki itirazın iptali ile takibin bu miktar üzerinden devamına,Likit alacağa vaki haksız itirazı ile takibin durmasına sebebiyet veren davalı/borçlunun hüküm altına alınan alacağın % 20 'si oranında icra-inkar tazminati ile mahkumiyetine2- Hüküm altına alınan miktar üzerinden hesaplanan 772,11-TL'den davacı tarafından yatırılan 270,90-TL peşin harcının mahsubu ile bakiye 501,21 -TL'nin davalıdan tahsili ile hazineye irat kaydına, 3- Davacı tarafından yatırılan 270,90-TL'nin peşin harcın davalıdan alınarak davacıya verilmesine,4-Davacının yaptığı 2.077,45 TL yargılama giderinin davanın kabul ret oranında hesaplanarak 1.046,85 TL'nin davalıdan alınarak davacıya verilmesine,5- Davalının yaptığı 91,95 TL yargılama giderinin davanın kabul ret oranında hesaplanarak 45,62 TL'nin davacıdan alınarak davalıya verilmesine,6- Davacı kendisini bir vekil ile temsil ettirdiğinden kabul edilen miktar üzerinden karar tarihindeki A.A.Ü.T göre hesaplanan ve takdir edilen 4.080,00 TL ücreti vekaletin davalıdan alınarak davacıya verilmesine,7- Davalı kendisini bir vekil ile temsil ettirdiğinden reddedilen kısım yönünden,karar
 tarihindeki A.A.Ü.T.göre hesaplanan ve takdir edilen 4.080,00 TL ücreti vekaletin davacıdan alınarak davalıya verilmesine,8- Dosyada kullanılmayan bakiye gider avansının HMK.’nın 333. ve HMK. yönetmeliğinin 47/1. maddeleri uyarınca karar kesinleştiğinde yatıran tarafa ödenmesine, Sair istinaf taleplerinin reddine,İstinaf incelemesiyle ilgili olarak;Peşin alınan istinaf karar harcının, istinaf edene isteği halinde ilk derece mahkemesince iadesine,Davacı tarafından istinaf aşamasında yapılan 31,35 TL yargılama giderinin davalıdan alınarak davacıya verilmesine, İstinaf sebebiyle yatırılan gider avansı bakiyesi varsa istinaf edene ilk derece mahkemesince iadesine,Dair dosya üzerinden yapılan inceleme sonunda HMK 362/1-a maddesi gereğince kesin olmak üzere oybirliği ile karar verildi. 08/11/2021 …
 
 ## İstanbul BAM 16. HD 2021/2184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/712022700)
 
 İLK DERECE MAHKEMESİ KARARI: İstanbul Anadolu 6.
 

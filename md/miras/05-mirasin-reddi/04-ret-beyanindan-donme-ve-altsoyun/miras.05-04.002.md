@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2020/6207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610053200)
+
 Yukarıda yapılan açıklamalar doğrultusunda somut olay değerlendirildiğinde; davalı ...'nın mirasçılarından ...'ın mirası reddetmesi ile TMK'nin 611.maddesi gereği miras çocuklarına geçeceğinden, ... çocukları tarafından açılan mirasın reddi davasının sonucu beklenerek oluşacak sonuca göre işin esasının incelenmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2020/3284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588230600)
 
 Türk Medeni Kanununun 605/1 maddesi uyarınca hasımsız olarak açılan mirasın gerçek reddine ilişkin davada yerel mahkemenin görevi; isteğin süresinde olup olmadığı ve ret edenin mirasçılık sıfatının bulunup bulunmadığının tespiti ile süresinde başvuru ve usulüne uygun bir talep bulunduğu takdirde Türk Medeni Kanununun 609. maddesinde gösterilen usulde işlem yapmaktan ibarettir. Bilindiği üzere, mirasın kayıtsız şartsız reddine ilişkin beyan; bozucu yenilik doğurucu niteliktedir. Bu beyan Sulh Mahkemesine ulaşmakla sonuç doğurur. Hükmen ret ise tereke alacaklısına karşı açılacak davada, miras bırakanın ölüm tarihindeki terekesinin borca batık olduğunun tespiti niteliğindedir.
 
@@ -33,6 +37,8 @@ Türk Medeni Kanununun 612. maddesinde yer alan "En yakın yasal mirasçıların
 Dava; mirasçılar tarafından hasım gösterilmeden süresi içinde açılan Türk Medeni Kanununun 605/1 maddesi gereğince mirasın gerçek reddine ilişkindir. Mirasbırakanın borçlarının bulunduğunun belirtilmesi mirasın hükmen reddinin tespitini talep etmek değil ret sebebini açıklayan bir beyandır. Kaldı ki talep edenler vekili 20.05.2016 tarihli dilekçesinde; murisin mirasının kayıtsız şartsız reddedildiğinin tespitini talep ettiğini beyan etmiştir. Mahkemece öninceleme duruşması yapılmak sureti ile talep hakkında bir karar verilmesi gerekirken duruşma açılmadan evrak üzerinde yanılgılı değerlendirme ile görevsizlik kararı verilmesi doğru görülmemiş ve hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 15. HD 2020/2822 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648290400)
 
 Dava, eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanan sözleşmenin feshi, tapu iptâl ve tescil ve binanın kal’i talebine ilişkin olup; mahkemece davanın kısmen kabulü ile Bakırköy 11.
 
@@ -43,15 +49,21 @@ Somut olayda TMK'nın 605 ve devamı maddelerine göre mirası reddetmiş olan m
 
 ## Yargıtay 14. HD 2020/2069 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648463900)
+
 Somut olaya gelince; borçlu ... tapu kayıt maliki olan ...’ın mirasçısı olup, ... taşınmazda tam hisse ile kayıt maliki olduğundan mirasçıları arasında elbirliği mülkiyeti devam etmektedir. Davalı ve aynı zamanda borçlu ... yargılama sırasında 27.05.2012 tarihinde vefat etmiş olup, Karşıya 2. Sulh Hukuk Mahkemesinin 2012/900 Esas ve 2013/1046 Karar sayılı ilamına göre göre en yakın altsoyunun ve eşinin mirası reddettiği anlaşıldığından 4721 sayılı Türk Medeni Kanunun 612. maddesi uyarınca reddin tespitini yapan mahkemece terekenin iflas hükümlerine göre res’en tasfiye edilmesi gerekir.
 
 Bu durumda mahkemece, husumetin tereke temsilcisine yöneltilmesi gerekeceğinden, mirasın reddini tespit eden Karşıya 2. Sulh Hukuk Mahkemesine yazı yazılarak TMK’nın 612. maddesi gereğince mahkemece re’sen yapılması gereken tasfiye nedeni ile bir tasfiye memurunun atanıp atanmadığının sorulması, res’en atanmış olan tasfiye memuruna husumet yöneltilerek taraf teşkilinin sağlanmasından sonra işin esası hakkında bir karar verilmesi gerekir.
 
 ## Yargıtay 15. HD 2020/1728 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589212600)
+
 Borçlu olduğu iddia edilen kişinin mirasçılarının mirası reddetmesi halinde konunun miras hukuku hükümleri çerçevesinde çözülmesi gerekir. TMK'nın 612. maddesinde en yakın yasal mirasçıların mirasın tamamını reddetmesi halinde reddedilen mirasın iflas hükümlerine göre tasfiye edileceği hükme bağlanmıştır. Somut olayda yüklenici mirasçıları ..., ..., ... ve ... cevap dilekçelerinde; Şevket kahya'nın terekesinin borca batık olduğununu mirasın reddini ilişkin dava açacaklarını bildirdiklerinden mahkemece bu kişilere mirasın reddine ilişkin dava açmak üzere süre verilip sonuçlanmasının beklenmesinden sonra sonucuna göre davalı mirasçılar hakkında karar verilmesi gerekirken bu husus dikkate alınmaksızın karar verilmesi doğru olmamış bozulması uygun bulunmuştur.
 
 ## Yargıtay 17. HD 2019/10994 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/574021100)
 
 Dava 6183 sayılı Yasanın 24 ve devamı maddelerine göre açılmış tasarrufun iptali istemine ilişkindir.
 
@@ -61,9 +73,13 @@ Mecburi hasım durumunda olan borçlunun mirasçılarının mirası reddetmeleri
 
 ## Yargıtay 19. HD 2019/3652 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/518821200)
+
 Taraf ehliyeti dava şartlarından olup öncelikle ve resen mahkemece incelenmesi gerekir. Davalı alacaklının en yakın mirasçılarının mirası reddetmesi de taraf ehliyeti ile birlikte dikkate alındığında miras hükümlerine göre somut olayın çözümlenmesi gerekir. Zira, mirası reddeden mirasçılara artık husumet yöneltilmesi mümkün değildir. Bu durumda TMK’nun 612. maddesi uyarınca reddolunan mirasın sulh hukuk mahkemesince iflas hükümlerine göre tasfiye edilmesi gerekir. Kanunun bu hükmünün icrasının sağlanması için mahallin Sulh Hukuk Mahkemesine durum bildirilmeli alacaklının mirasının tasfiyesi sağlanmalı, Sulh Hukuk Mahkemesince atanacak ve yetkilendirilecek temsilcinin huzuru ile davaya devam olunması ve sonucuna göre bir karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru olmayıp, davacının bu yöndeki karar düzeltme isteminin kabulü ile Dairemizin 13.12.2017 gün ve 2016/14870 -2017/7944 E.-K. sayılı onama kararının kaldırılarak yerel mahkeme kararının yukarıdaki gerekçelerle bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 14. HD 2019/1821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498607300)
 
 Dava, terekenin resmen tasfiyesine ilişkindir.
 
@@ -74,13 +90,19 @@ Alacaklının terekenin tasfiyesi talebi, TMK'nin 612. maddesi uyarınca mirası
 
 ## Yargıtay 23. HD 2019/1105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493359800)
+
 Türk Medeni Kanunu (TMK) 'nun 611/1. maddesi gereği, yasal mirasçılardan birisi veya birkaçı tarafından mirasın red edilmesi halinde onun payı, miras açıldığı zaman kendisi sağ değilmiş gibi hak sahiplerine geçer. Yine TMK'nın 608/2. maddesi gereği ret sonucunda miras, daha önce mirasçı olmayanlara geçerse bunlar için ret süresi, önceki mirasçılar tarafından mirasın reddini öğrendikleri tarihten itibaren işlemeye başlar (.....
 
 ## Yargıtay 8. HD 2019/120 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/485608700)
+
 Bu kapsamda; birleştirilen dosya davalısı İrfan’ın mirası reddettikleri mahkeme kararı ile kesinleşmiş mirasçıları dışında kalan tüm mirasçılarına (tüm altsoy mirasçıları dahil olmak üzere) gerekçeli kararın bilinen adreslerine tebliğ edilmesi, adresleri tespit edilemeyenlerin mernis adresine tebligatın yapılması, mernis adresi de bulunmayan mirasçılara ilanen tebligat yapılması, TMK. 612. madde kapsamında en yakın yasal mirasçıların tümünün mirası reddettiğini tespit edilmesi halinde miras, iflas hükümlerine göre sulh hukuk mahkemesince tasfiye edileceğinden, durumun sulh hukuk mahkemesine ihbar edilmesi, tasfiye memurunun atanması veya daha önceden atandığının saptanması halinde tebligatın memura yapılması, …
 
 ## Yargıtay 20. HD 2018/8056 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466421900)
 
 …
 
@@ -92,6 +114,8 @@ Türk Medenî Kanununun 612. maddesi uyarınca "En yakın yasal mirasçıların 
 
 ## Yargıtay 1. HD 2018/8018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410704100)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil ; olmadığı takdirde tenkis isteğine ilişkindir.
 
 …
@@ -99,6 +123,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil ; olmadı
 Toplanan deliller ve tüm dosya içeriği ile, davacılar ... ve ...’ın miras bırakan ...’den önce ölen oğlu ...’dan olma torunları oldukları,adı geçen davacıların ...ları ...’ın mirasını usulü dairesinde reddettikleri,her ne kadar Türk Medeni Kanunu’nun 611.maddesi hükmü gereğince yasal mirasçılardan biri mirası red...rse onun payı miras açıldığı zaman kendisi sağ değilmiş gibi hak sahiplerine geçer ise de; somut olayda, ...’ın murisine ait mirası reddetmediği,davacılar ... ve ...’ın, ...’dan gelen mirası reddettikleri,bu durumda,kendi miras bırakanına ait mirası red...n davacıların muris muvazaasına dayalı olarak açtıkları eldeki davanın dinlenilmesine yasal açıdan olanak bulunmadığı nazara alınarak davanın reddine karar verilmiş olmasında bir isabetsizlik yoktur. Davacılar vekilinin öteki temyiz itirazları yerinde görülmediğinden reddine.
 
 ## Yargıtay 20. HD 2018/5676 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434041000)
 
 …
 
@@ -108,6 +134,8 @@ Toplanan deliller ve tüm dosya içeriği ile, davacılar ... ve ...’ın miras
 
 ## Yargıtay 20. HD 2018/5058 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/431995300)
+
 …
 
 ... Sulh Hukuk Mahkemesi ise talebin TMK'nın 612 ve devamı maddelerince terekenin iflas hükümlerine göre tasfiyesinde ibaret olduğu, HMK'nın 11. maddesinde ve yerleşik yüksek mahkeme içtihatlarında miras işlerinde ölen kimsenin son yerleşim yeri mahkemesinin kesin yetkili olduğu belirtilmiştir. Ayrıca, ... . Sulh Hukuk Mahkemesinin kararında değindiği Yargıtay kararı ölenin yerleşim yerinde bulunan iki mahkemenin karşılıklı yetkisizlik kararlarına ilişkindir. Ölen ...'nın nüfus kaydı incelendiğinde son yerleşim yerinin "... Mah. ... Sk. No:33 İç Kapı No:6 .../..." olduğu gerekçesiyle yetkisizlik yönünde hüküm kurmuştur.
@@ -116,29 +144,43 @@ Türk Medenî Kanununun 612. maddesi uyarınca "En yakın yasal mirasçıların 
 
 ## Yargıtay 17. HD 2018/3792 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421971200)
+
 TMK'nın 605. maddesi “Yasal ve atanmış mirasçılar mirası reddedebilirler. Ölümü tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır.” hükmüne, TMK'nın 611/1. maddesi ise “Yasal mirasçılardan biri mirası reddederse onun payı, miras açıldığı zaman kendisi sağ değilmiş gibi, hak sahiplerine geçer.” hükmüne haizdir.
 
 ## Yargıtay 14. HD 2017/6215 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/367604100)
 
 En yakın yasal mirasçıların tümü tarafından reddedilen miras, sulh mahkemesince herhangi bir başvuru olmasa bile kendiliğinden iflas hükümlerine göre tasfiye olunur. Tasfiye sonunda arta kalan değerler, mirası reddetmemişler gibi hak sahiplerine verilir. (TMK m. 612 ) Tasfiye yapılmadan mirasçılara intikal yapılamaz. Tasfiye yapacak mahkeme mirası reddin tespitini yapan ...3. Sulh Hukuk Mahkemesidir. O halde terekenin Türk Medeni Kanununun 612. maddesi gereğince tasfiye edilmesi için dosyanın bu mahkemeye gönderilmesi gerekirken esas hakkında karar verilmesi doğru görülmemiş, bu sebeple hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 14. HD 2017/2993 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/362804100)
+
 Mirasçıların tamamı tarafından reddolunan miras sulh mahkemesince iflas hükümlerine göre tasfiye edilir (TMK.md. 612/1,636). Buradaki tasfiye süreye tabi değildir. Türk Medeni Kanununun 633. madde hükmünün uygulanma yeri yoktur. Ayrıca sulh hukuk mahkemesince, en yakın mirasçıların mirası reddettiklerinin belirlenmesi halinde, herhangi bir başvuruya gerek olmadan kendiliğinden resmi tasfiye yoluna gidilmesi gerekir (2. HD. 12.06.2003 gün 7484-8676 sayılı kararı, HGK 29.03.2006 gün 2006/2-65-108 sayılı kararı). O halde iflas hükümlerine göre tasfiyenin gerçekleştirilmesi gerekir. Bu durumda davacıların aktif dava ehliyeti bulunmadığından davanın reddi gerekir iken yazılı şekilde hak düşürücü sürenin geçtiğinden bahisle ret hükmü kurulması doğru görülmemiş ise de, sonucu itibariyle red kararı doğru olduğundan hükmün gerekçesinin değiştirilerek onanması gerekmiştir.
 
 ## Yargıtay 1. HD 2017/2648 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358382300)
 
 Hemen belirtilmelidir ki, 4721 sayılı Türk Medeni Kanununun (TMK) 599. maddesinde mirasbırakanın ölümü ile terekenin (aktif ve pasifi ile) hak ve borçlar bakımından mirası reddetmeyen mirasçılarına intikal edeceği, 611. maddesinde ise yasal mirasçıların birinin mirası reddetmesi halinde ise onun payının, miras açıldığı zaman sağ değilmiş gibi hak sahiplerine geçeceği tartışmasızdır.
 
 ## Yargıtay 14. HD 2017/719 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/318360600)
+
 Altsoyun tamamının mirası reddetmesi halinde sağ eş mirası reddetmemiş ise bunların payı sağ kalan eşe geçer ( TMK md. 613 ). Sağ kalan eş daha sonra vefat ettiğinden Türk Medeni Kanununun 613. maddesi hükmü gözetilerek karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2017/132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/318280900)
+
 Her ne kadar Sulh Hukuk Mahkemesi kararlarına karşı karar düzeltme yolu kapalı ise de, Dairemizce yapılan incelemede mahkeme kararının maddi hataya dayalı gerekçeyle onandığı anlaşılmıştır. TMK.nın 613 maddesinde ‘’Altsoyun tamamının mirası reddetmesi halinde, bunların payı sağ kalan eşe geçer’’ hükmü yer almaktadır. Somut olayda murisin altsoyu davacılar, mirası reddettiklerine göre bunların payı torunlarına değil sağ kalan eşe gececeğinden, bu gerekçe ile kararın onanmasına karar vermek gerekirken yanılgılı gerekçe ile onanması doğru görülmemiş, hükmün belirtilen bu gerekçe ile onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 14. HD 2016/9184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/276562900)
 
 Dava, mirasın hükmen reddi istemine ilişkindir.
 
@@ -148,15 +190,21 @@ Murisin ölüm tarihinin 08.12.2013 olduğu, en yakın yasal mirasçıları olan
 
 ## Yargıtay 14. HD 2016/9108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/276267000)
+
 En yakın yasal mirasçıların tamamı tarafından ret olunan miras sulh mahkemesince iflas hükümlerine göre tasfiye edilir. Tasfiye sonunda arta kalan değerler mirası reddetmemişler gibi hak sahiplerine verilir. (TMK m. 612)
 
 En yakın yasal mirasçılardan maksat miras bırakanın ölümünde doğrudan doğruya mirasçılık sıfatını kazanan mirasçılardır. En yakın yasal mirasçı olan ...'in mirası ret beyanı bulunmadığından TMK 612. maddesine göre terekenin iflas hükümlerine göre tasfiyesi gerekmez.
 
 ## Yargıtay 14. HD 2016/6573 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/224279000)
+
 Muris ...'ın en yakın mirasçıları olan eşi ve oğlu mirası reddetmiştir. En yakın mirasçıların tamamı tarafından mirasın reddedilmesinde ret beyanını tespit eden mahkemenin terekenin re'sen tasfiyesine karar verilmesi gerekmektedir (TMK m. 612). Murisin anne ve babası olan davacılara miras gelmez. Yani en yakın mirasçılardan sayılamazlar. Davacılar mirasçı olmadıklarından mirası reddetme yetkileri bulunmaz.
 
 ## Yargıtay 14. HD 2016/6190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/224024000)
 
 Dava, mirasçılık belgesi verilmesi talebine ilişkindir.
 
@@ -165,6 +213,8 @@ Dava, mirasçılık belgesi verilmesi talebine ilişkindir.
 Kök muris ...'ın mirasçılarından 2004 yılında vefat eden ...'ın mirası eşi ..., çocukları ..., ... ve ...tarafından reddedildiğinden TMK 612. maddesi uyarınca terekesi resmen tasfiye edileceğinden mirası reddeden mirasçıların altsoyları olan ..., ..., ..., ... ve ...'a pay verilmesi mümkün değildir. Kaldı ki davada 1968 yılında vefat eden kök muris ...'ın mirasçılık belgesi talep edildiğinden ...'ın mirasçıları Yektane, ..., ... ve ...'a pay verilmesi zorunludur. Bu durumda yazılı şekilde hüküm kurulması doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2016/5961 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223474900)
 
 Dava, mirasçılık belgesinin iptali isteğine ilişkindir.
 
@@ -176,9 +226,13 @@ Somut olayda, muris ...'ın mirasçılarından ... mirası reddettiğine göre, 
 
 ## Yargıtay 14. HD 2016/5293 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223135800)
+
 Muris ...'ın mirasçıları ..., ... ve ... mirası reddetmiş olduklarından ve bu haliyle en yakın mirasçıların tümü tarafından miras reddedildiğinden TMK’nın 612. maddesi uyarınca mirasın ret beyanını tespit eden sulh hukuk mahkemesi tarafından iflas hükümlerine göre tasfiye edilmesi gerekir.
 
 ## Yargıtay 14. HD 2016/5209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228288600)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -190,6 +244,8 @@ Bu halde muris .... terekesi yönünden tasfiye memurluğuna husumet yöneltilme
 
 ## Yargıtay 14. HD 2016/4396 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/226218200)
+
 Dava, mirasçılık belgesi verilmesine ilişkindir.
 
 Başvurusu üzerine yasal mirasçı oldukları belirlenenlere sulh mahkemesince veya noterlikçe mirasçılık sıfatlarını gösteren bir belge verilir (TMK m. 598/1).
@@ -197,6 +253,8 @@ Başvurusu üzerine yasal mirasçı oldukları belirlenenlere sulh mahkemesince 
 4721 sayılı TMK’nın 611/1. maddesinde "yasal mirasçılardan biri mirası reddederse onun payının miras açıldığı zaman kendisi sağ değilmiş gibi hak sahiplerine geçeceği", yine aynı Kanunun 612/1. maddesinde ise "en yakın mirasçıların tamamı tarafından reddolunan mirasın, sulh hukuk mahkemesince iflas hükümlerine göre tasfiye edileceği" belirtilmiştir.
 
 ## Yargıtay 11. HD 2016/2893 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/217551100)
 
 Dava, işveren mali mesuliyet sigorta poliçesi kapsamında işçinin mirasçılarına ödeme yapan davacı ... şirketinin, kazaya neden olan araç şoförüne rücusuna ilişkin olup, mahkemece, işverenin hukuki sorumluluğu olmadığı halde davacı ... şirketinin ex gratia ödeme yaptığı gerekçesiyle davanın reddine karar verilmiştir. Ancak, mahkemece, işçinin ölümüne neden olan kazaya karışan aracın işverene ait araçlardan olmadığı gibi pazarlama işinin yapıldığı araçlardan da olmadığı, bu nedenle kazanın iş kazası sayılamayacağı gerekçesiyle davanın reddine dair verdiği 07.03.2012 tarihli karar, Dairemizin 08.07.2013 tarih 2013/8193 E. 2013/14498 K. sayılı ilamı ile 506 sayılı Kanun'un 11/A maddesi (5510 sayılı Kanunun 13/1 maddesi) uyarınca olayın iş kazası olduğu ve bunun poliçenin teminatı kapsamında bulunup bulunmadığının değerlendirilmesi gerektiği gerekçesiyle bozulmuştur.
 
@@ -211,9 +269,13 @@ Dava, işveren mali sorumluluk poliçesi gereğince ödeme yapan sigorta şirket
 
 ## Yargıtay 14. HD 2016/2759 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/221201100)
+
 Mirasın kayıtsız ve şartsız reddine ilişkin beyan, bozucu yenilik doğurucu nitelikte olup sulh hakimine ulaşmakla hukuki sonuçlar doğurur. Bu beyandan tek taraflı olarak dönülemez. Ancak şartlar mevcut olduğunda reddin iptali davası açılabilir.
 
 ## Yargıtay 14. HD 2016/2654 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/221112900)
 
 Dava, mirasçılık belgesi verilmesine ilişkindir.
 
@@ -223,20 +285,28 @@ TMK'nın 611 maddesindeki "Yasal mirasçılardan biri mirası reddederse onun pa
 
 ## Yargıtay 20. HD 2016/838 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/230162600)
+
 Dava, mirasçılık belgesi verilmesi talebine ilişkindir.
 
 ... Sulh Hukuk Mahkemesince, TMK 612. maddesi uyarınca yakın mirasçıların tümü tarafından reddolunan mirasın iflas hükümlerine göre tasfiyesi kararlaştırılmış olduğundan talebin murisin ölmeden önceki son yerleşim yeri ve mirasın reddine karar verilmiş bulunan yetkili Ankara Batı Sulh Hukuk Mahkemesince değerlendirilmesi gerektiği gerekçesiyle yetkisizlik kararı verilmiştir.
 
 ## Yargıtay 11. HD 2015/13082 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/152753500)
+
 Dairemizin 23.09.2013 tarih ve 2013/9890-16334 E.K sayılı maddi hatanın düzeltilmesine dair kararında "Yargılama sırasında davalı İ.. Ç..'nın vefat etmesi ve en yakın mirasçılarının mirası reddetmeleri üzerine artık, mirası reddeden mirasçılara husumet yönetilemeyeceği, TMK'nın 612, 613 maddelerine göre mirasın Sulh Mahkemesi'nce iflas hükümlerine göre tasfiye edileceğinin nazara alınması ve tasfiye sonuçlandırıldığında mirası reddedilen İ.. Ç.. terekesi için atanacak ve yetkilendirilecek temsilcinin davaya katılımının sağlanması gerektiği, İ.. Ç.. terekesi yönünden kararın kesinleşmediği, bu nedenle, Mahkemece mirasın red durumunun Sulh Mahkemesi'ne bildirilerek, davalı İ.. Ç..'nın terekesine tasfiye memuru ve temsilci tayininin istenmesi, tayin edildiğinde kararın temsilciye tebliği ile, yasal temyiz süresinin beklenmesi gerektiği" belirtilmiş olup mahkemece, 24.12.2013 tarih ve 2013/216-654 E.K. sayılı kararında "2009/267 Esas sayılı dosyada verilen kararın davalı İ.. Ç.. terekesi yönünden kesinleşmediği, davalı İ..
 Ç..’nın terekesine tasfiye memuru ve temsilci atanarak kararın temsilciye tebliğ edilmesinin gerektiği ve kararın temsilci tarafından temyiz edilme imkanının bulunduğu gerekçesiyle bu aşamada esas hakkında karar verilmesine yer olmadığına" dair karar verilmiş, ancak mahkeme kararı İ.. Ç.. mirasçılarının vekiline tebliğ edilmiştir. Mahkemenin, vefat eden İ.. Ç.. terekesine temsilci atanması için Sulh Hukuk Mahkemesi'ne ihbarda bulunulduğu anlaşılmaktadır. Bu durumda, mahalli Sulh Hukuk Mahkemesi'ne yapılan ihbar sonucu anılan mahkemece mirası reddedilen borçlular için atanacak ve yetkilendirilecek temsilcinin belirlenmesinin beklenilmesine, mahkemenin 24.12.2013 tarih ve 2013/216-654 ve 2009/267-2010/50 E.K. sayılı kararının da atanacak temsilcisiye tebliğ edilip temyiz süresinin beklenilmesi ve her halükârda davacı vekilinin temyiz itirazlarının incelenmesi için Dairemize gönderilmesini teminen dosyanın mahal mahkemesine iadesine karar vermek gerekmiştir.
 
 ## Yargıtay 14. HD 2015/10529 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/179904800)
+
 Somut olayda; dava, murisin en yakın mirasçılarının tamamı tarafından reddolunan mirasın TMK'nın 612. maddesine gereğince sulh hukuk mahkemesince iflas hükümlerine göre tasfiyesine ilişkindir. Mahkemece dava, TMK'nın 633/1. maddesine dayalı murisin alacaklılarının istemi ile terekenin resmi tasfiyesi olarak nitelendirilerek üç aylık hak düşürücü süre içinde açılmadığı gerekçesiyle reddedilmiştir. En yakın yasal mirasçıların tamamı tarafından reddolunan miras sulh hukuk mahkemesince iflas hükümlerine göre tasfiye edilir. (TMK md. 612) Bu madde uyarınca yapılacak tasfiye süreye tabi değildir. Bu bakımdan iddia çerçevesinde inceleme yapılıp sonucuna göre karar verilmesi gerekirken yanılgılı değerlendirme ile davanın reddine karar verilmesi doğru görülmemiş, bu nedenle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2015/9610 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/123992000)
 
 Dava, mirasın gerçek reddi istemine ilişkindir.
 
@@ -246,18 +316,26 @@ Murisin mirasının tüm mirasçılar tarafından reddedilmesi halinde tereke TM
 
 ## Yargıtay 14. HD 2015/9362 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/129500200)
+
 Muris 01.01.2009 tarihinde vefat etmiş, mirası en yakın yasal mirasçılarının tamamı tarafından reddedilmiştir. Bu durumda miras, kanun gereği kendiliğinden tasfiyeye tabi hale gelmiştir (TMK m. 612). Tasfiye iflas hükümlerine göre gerçekleştirilecektir. Kanun gereği tasfiyeye tabi olan tereke hakkında, murisin alacaklısının tasfiyeyi istemesi teknik olarak bir dava olmayıp hakimin harekete geçmesini sağlayan ihbar niteliğindedir ve böyle bir tasfiye süreye de tabi değildir. Alacaklının daha önce bu yöndeki isteğinden feragat etmiş olması, kanun gereği tasfiyeye tabi olma durumunu ortadan kaldırmaz. Öyleyse terekenin iflas hükümlerine (İİK m. 180) göre tasfiyesi gerekirken, isteğin reddi doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2015/6945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138272700)
+
 Yasal mirasçılardan birinin mirası reddetmesi durumunda TMK'nın 611/1 maddesine göre "yasal mirasçılardan biri mirası reddederse onun payı miras açıldığı zaman kendisi sağ değilmiş gibi hak sahiplerine geçer" aynı kanunun 608/son maddesine göre "ret sonucunda miras daha önce mirasçı olmayanlara geçerse bunlar için ret süresi önceki mirasçılar tarafından mirasın reddedildiğini öğrendiklerine tarihten işlemeye başlar" dosya arasında bulunan nüfus kayıtlarına göre davacılar dedeleri K.. S..'dan gelen mirası reddeden anneleri Kadir kızı H... Y...'in altsoyudur (çocuklarıdır). Muris K.. S..'nın mirası tüm mirasçılar tarafından reddedilmesi halinde terekenin TMK'nın 612. maddesine göre tasfiye edileceğinden ret hakkı altsoya yani davacılara geçmez. Öncelikle deliller toplanıp bu husus araştırıldıktan sonra muris K.. S..'nın tüm mirasçıları tarafından mirası reddedilmemişse davacıların annesi Hayriye Yüksel'in miras payı kendisi hayatta değilmiş gibi miras açıldığı anda geçerli olacak şekilde kendi altsoyuna intikal edeceğinden bu husus gözetilmeden eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2015/3931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/177195900)
 
 Murisin 05.08.2009 tarihinde vefat ettiği, en yakın yasal mirasçılarının tamamı tarafından mirasının reddedildiği anlaşılmakla miras kanun gereği kendiliğinden tasfiyeye tabi hale geldiği (TMK. m. 612) için murisin alacaklısının terekeye temsilci atanmasını, dolayısıyla mirasın tasfiyesini istemesi teknik olarak bir dava olmayıp hakimin harekete geçmesini sağlayan ihbar niteliğindedir ve böyle bir talep süreye de tabi değildir.
 
 O halde terekenin iflas hükümlerine (İİK m. 180) göre tasfiyesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2015/3271 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/179824700)
 
 Türk Medeni Kanununun 605/1. maddesinde düzenlenen mirası ret hakkı beyanı yenilik doğurucu nitelikte olup hakimin görevi, ret beyanını tescilden ibarettir. Beyan sulh hukuk mahkemesine ulaştıktan sonra bu beyandan tek taraflı olarak dönülemez. Ancak redden yararlanan kişi tarafından, diğer mirasçılara husumet yöneltilerek açılacak bir dava ile ret kararının kaldırılması istenebileceğinden, ret beyanından dönmeye (feragata) ilişkin istek ile ilgili dilekçenin reddine karar vermek gerekmiştir.

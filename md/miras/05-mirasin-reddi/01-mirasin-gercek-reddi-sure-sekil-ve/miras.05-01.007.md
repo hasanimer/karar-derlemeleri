@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 35. HD 2025/1670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185867600)
+
 Dava, ölümlü trafik kazasından kaynaklanan destekten yoksun kalma tazminatı ve manevi tazminat istemine ilişkindir.
 
 …
@@ -47,6 +49,8 @@ karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 12. HD 2025/739 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141277200)
+
 Dava, açık hesap alacağının tahsili istemine ilişkindir.
 
 …
@@ -66,6 +70,8 @@ Somut olaya gelince, istinaf aşamasında yapılan inceleme sırasında UYAP’t
 
 ## İstanbul BAM 43. HD 2025/194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141075300)
+
 Sayılı dosyası ile reddetmiş oldukları anlaşılmakla haklarındaki davanın ... mirasçıları sıfatıyla açılmış olması nedeniyle haklarındaki davanın husumet yokluğundan reddine karar verilmesinde bir isabetsizlik yoktur.Davacı taraf dava dilekçesinde 2 numaralı davalı olarak herhangi bir mirasçı ismi zikretmeden"... mirasçıları"nı taraf olarak göstermiştir. Dava açıldıktan sonra mahkemenin verdiği yetki ile Bakırköy 40. Noterliğininden 04/08/2015 tarihnide mirasçılık belgesi almıştır. Bahsi geçen mirasçılık belgesinde... mirasçılarının mirası reddettiklerine dair herhangi bir şerh yoktur. Davalılar ..., ... ve ... vekili davaya cevap dilekçesinde müvekkillerinin mirası reddettiklerini beyan etmesi üzerine dosyaya celp edilen Manisa 1. Sulh Hukuk mahkemesinin 2014/639 E. 2015/317 Karar numaralı 17/03/2015 tarihli kararı ile mirası red vakıası davacı tarafça bilinir hale gelmiştir.
 Bu durumda ilk derece mahkemesince mirası redden davalılar hakkında tebligat çıkarılarak husumet yöneltilmesinde davacının bir kusuru bulunmamakla bu davalılar yararına vekalet ücretine hükmedilmesi isabetli olmamıştır.Davalı ...'nin pasif husumetine yönelik istinaf sebepleri yönünden yapılan değerlendirmede; davacı şirketin müşterilerine ait bir kısım paket ve kargonun İstanbul'dan İzmir'e taşınması hususunda 09/05/2014 tarihli "emtia taşıtma sözleşmesi (tek seferlik)" imzalandığı, sözleşmenin taraflarının taşıtan... A.Ş. ile taşımacı ... Koop. olarak belirtildiği, davacı beyanı ile sözleşmenin sürücü vefat eden sürücü...' tarafından imzalandığı, davalı kooperatifçe sözleşme üzerindeki imzaların kooperatifi temsile yetkili kişilere ait olmadığı, ayrıcı KK ve ana sözleşme gereği iki imza ile kooperatifin temsil edildiği belirtilerek davacı ile taşıma sözleşmelerinin bulunmadığı, pasif husumetlerinin olmadığı savunulmuştur.1163 sayılı Kooperatifler Kanunu 58.
 
@@ -75,15 +81,21 @@ Dosyanın incelenmesinde, borçlu ........aleyhine başlatılan........ Esas say
 
 ## İstanbul BAM 12. HD 2025/69 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117089200)
+
 Mirasın gerçek reddinde, red süresi içinde mirasın kayıtsız şartsız reddedildiğinin sulh hakimine açıklanması ve reddin tescil ettirilmesinin gerekmesi, bu konuda iş yapılmamasının veya suskun kalınmasının mirası kabul etmiş olunacağı kuralına karşın, terekenin borca batık olmasının herkesçe, mirasçılarca bilinmesi ve bu konunun sabit olması hâlinde suskunluk, terekeye sahip çıkmama yani mirasın reddedildiği anlamına gelmektedir. O halde, mirasın hükmen reddinde, reddin açıklanması ve hakime tescil ettirilmesi gerekmediği gibi, bu konudaki irade açıklaması da bir süreye tabi değildir. Ancak mirasçı yasal üç aylık süre içinde terekenin borca batık olduğunu ileri sürerek mirası kayıtsız şartsız reddettiğinin tespit ve tescilini de isteyebilir. Buna engel bir kural yoktur. Mirasın hükmen reddinde mirasçının red iradesini açıklama zorunluluğu yoktur. Mirasçı alacaklılara karşı bir süreye bağlı kalmaksızın terekenin borca batık oldu tespitini açacağı bir dava ile isteyebilir. Hükmen red adından da anlaşıldığı gibi ancak alacaklılara karşı açılacak bir dava ile tespit edilebilir. İtiraz veya savunma yolu ile de ileri sürülebilecektir.
 Davalı mirasçılar yargılama sırasında mirasın hükmen reddini savunma yolu ile ileri sürmüştür. TMK’nın 605. maddesine göre, ölüm tarihinde miras bırakanın ödemeden aczi açıkça belli veya tespit edilmiş ise ancak o zaman miras reddedilmiş sayılacaktır. Ödemeden aczin varlığı ise miras bırakanın ölüm tarihi itibari ile mal varlığındaki aktif ve pasiflerin net bir şekilde ortaya konulması ile tespit edilebilecektir. Nitekim bu yasal karine miras bırakanın mal varlığındaki pasif fazlalığının herkes tarafından biliniyor olması nedeni ile yasal veya atanmış mirasçıların borca batık olan bu mirası kabul etmeyecekleri yönündeki inançtan kaynaklanmıştır. Bu nedenle borca batıklığın başka bir anlatımla ödemeden aciz durumunun her türlü delille ispat edilebileceği kabul edilmiştir (Yargıtay HGK'nın 2019/(19)11-719 E., 2022/752 K. sayılı ve 26/05/2022; 2017/3-438 E., 2018/770 K. sayılı ve 11/04/2018; 2014/12-1036 E., 2016/551 K. sayılı ve 27/04/2016 2008/4-332 E., 2008/336 K. sayılı ve 16/04/2008 tarihli ilamları).
 
 ## Ankara BAM 31. HD 2025/19 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1103874000)
+
 Dairemiz 12/09/2024 tarihli geri çevirme kararında; Davacı ...'ın 16/10/2021 tarihinde vefat ettiği, geriye mirasçıları olarak, eşi ..., çocukları; ..., ..., ... ve ... ...'ın kaldığını, mirasçılardan ... ve ... ...'ın Ankara 7. Sulh Hukuk Mahkemesinin 09/02/2022 tarih, 2021/1188 Esas, 2022/170 Karar sayılı kararı ile davacı mirasını reddettikleri, yine mirasçılardan ..., ..., ...'ın Ankara 4. Sulh Hukuk Mahkemesinin 05/01/2022 tarih, 2021/1237 Esas, 2022/16 Karar sayılı kararı ile davacı mirasını reddettikleri böylelikle birinci zümre mirasçılarının tamamının mirası reddettikleri anlaşılmaktadır. Dairemiz geri çevirme kararından sonra ilk derece mahkemesince getirtilen aile nüfus kayıt tablosundan murisin 2. derece mirasçıları olan kardeşleri ... ve ...'ın ölü oldukları görülmektedir. Bu durumda TMK 497 maddesi uyarınca üçüncü zümre mirasçılara tebligat hususu düşünülmeli, bu zümredeki mirasçıların tamamının da mirası reddettiklerinin tespit edilmesi halinde ise, TMK 501 maddesi uyarınca devletin mirasçılığı söz konusu olacağından hazineye tebligat hususu düşünülmelidir.
 Dairemiz kararı üzerine davacının kardeşleri olan ..., ve ...'ın vefat ettiklerinin tespit edildiği, ancak Mahkemece murisin 3. derece mirasçıları araştırılmadan hazineye yapılan tebligat üzerine dosyanın istinaf incelemesi için gönderildiği görülmektedir. O halde, TMK 497 maddesi uyarınca üçüncü zümre mirasçıları araştırılmalı, bu kişilerin de ölü olmaları veya tamamının mirası reddettiklerinin anlaşılması halinde, TMK 501 maddesi uyarınca devletin mirasçılığı söz konusu olacağından hazineye tebligat hususu düşünülmelidir. Bu husus araştırılmadan dosyanın istinaf incelemesi için gönderilmesi hatalı olmuştur.
 
 ## İstanbul BAM 37. HD 2024/1717 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039644100)
 
 K A R A R Dava, kombiyo senedine dayalı takipten dolayı borçlu olmadığının tespiti ve istirdat talebine ilişkindir İstanbul Anadolu 26 Asliye Hukuk Mahkemesince,"...talebin dayanağı olan senetlerin kambiyo senedi vasfına haiz olduğu, bu durumda kambiyo senedine dayalı olarak yapılan takip nedeniyle ticari dava niteliğinde olan uyuşmazlığın ticaret mahkemesinde görülüp sonuçlandırılması gerektiği ..." gerekçesiyle görevsizlik kararı verilmiştir. İstanbul Anadolu 12. Asliye Ticaret Mahkemesince,"... davacı taraf müteveffa babasının borçları sebebiyle davalı tarafından başlatılan icra takibinde mirası reddetmesi sebebiyle borçtan sorumlu olmadığının tespiti talep etmektedir. Davacı taraf Çorum 1. Sulh Hukuk Mahkemesinin 2017/1692 E sayılı dosyası ile dosyası ile mirası reddetmiş ve ilgili karar kesinleşmiştir.
 İcra dosyası kambiyo senetlerine dayalı olarak başlatılmış ise de eldeki menfi tespit davasında görevli mahkemenin temel ilişkiye göre belirleneceği, senede dayalı olarak borçlu olmadığı iddiasından ziyade davacının mirası reddetmesine dayalı olarak menfi tespit talebinde bulunduğu, kambiyo senedine dayalı olarak araştırma yapılmadan mirasın reddi halinde mirasçıların borçtan sorumluluğun genel hükümlere göre değerlendirilmesi gerektiği, bu durumda yargılamanın Asliye Hukuk Mahkemelerinde görülmesi gerektiği..." gerekçesiyle görevsizlik kararı verilmiştir. 6102 sayılı Türk Ticaret Kanununun 776 ve devam maddelerinde bono düzenlenmiştir. Anılan Kanunun 3. maddesinde "Bu Kanunda düzenlenen hususlarla bir ticari işletmeyi ilgilendiren bütün işlem ve fiiller ticari işlerdendir." hükmüne yer verilmiş, 4. maddesinde bu kanunda düzenlenen hususlardan doğan hukuk davalarının ticari dava sayıldığı belirtilmiştir. Yine aynı Kanunun 5. maddesinde tüm ticari davalara asliye ticaret mahkemesinde bakılacağı bildirilmiştir.
@@ -91,12 +103,16 @@ Somut olayda; davalı tarafından başlatılan icra takibinin kambiyo senetlerin
 
 ## İstanbul BAM 16. HD 2024/1481 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066475800)
+
 …
 
 : Alacak davasında ilk derece mahkemesince, Davalılar ... ve ... yönünden davanın kısmen kabul kısmen reddine; davacının İstanbul ... İcra Müdürlüğü’nün ... Esas sayılı takip dosyasında davalılara 26.886,00 TL asıl alacak yönünden borçlu olmadığının tespitine, fazlaya ilişkin talebin reddine Davalılar ... ve ... yönünden davanın pasif husumet yokluğu sebebiyle reddine ... yönünden kendisini vekil ile temsil ettirdiğinden davalı lehine maktu vekalet ücretine hükmedilmesine karar verilmiştir.Davalılar ve vasi tarafça istinaf yoluna başvurulmadığı, davacının istinaf talebi ise davalı ... yönünden verilen husumet yönünden ret kararı nedeniyle hükmedilen vekalet ücretine yöneliktir.İstinaf incelemesi 6100 Sayılı HMK 355. Madde gereğince istinaf dilekçesinde ileri sürülen sebepler ve kamu düzeniyle ilgili hususlarla sınırlı olarak yapılmıştır. Takip dosyasının alacaklısı olan ... 13/10/2014 tarihinde vefat ettiği Davacı ise, iş bu davayı müteveffanın mirasçılarına karşı açtığı müteveffanın geride dört mirasçısının bulunduğu, bunlardan ... ve ...’ın Aksaray 1.
 Asliye Hukuk Mahkemesinin 2019/15 Esas ve 2019/229 Karar sayılı ilamı ile mirası hükmen reddettiği ve kararın 24/10/2019 tarihinde kesinleştiği Bu sebeple mirası reddeden mirasçılar ... ve ... yönünden işbu davada husumetlerinin bulunmadığı belirtilerek davalılar yönünden davanın pasif husumetten reddine karar verilmesi yerindedir.Mirasın reddi davasının 28/11/2018 tarihinde açıldığı, 12/09/2019 tarihinde karar verildiği kararın 224/10/2019 tarihinde kesinleştiği, davacı tarafın davalıların mirası reddettiğinin bilinemeyeceği anlaşılmakla, dava edilmelerinde kusurlu ve haksız olduğu ileri sürülemeyeceğinden, husumetten ret kararı nedeniyle davalı taraf lehine vekalet ücreti taktir edilmesine yer olmadığına karar verilmesi gerekirken davalı lehine vekalet ücretine hükmedilmesi doğru görülmemiş (bkz. Yargıtay 11. Hukuk Dairesi'nin 22/06/2021 tarihli 2020/3216 Esas-2021/5288 Karar), davacı vekilinin istinaf başvurusunun kabulüne karar verilerek mahkeme kararının kaldırılmasına kazanılmış haklar göz önünde tutularak hükmün diğer kısımlarının aynen tekrarına karar verilmiştir.
 
 ## Sakarya BAM 3. HD 2024/894 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1023670100)
 
 Dava, trafik kazasında ölüm nedeniyle destekten yoksun kalma tazminatı, yaralanma nedeniyle maddi tazminat ve manevi tazminat istemine ilişkindir.
 
@@ -116,6 +132,8 @@ Somut olayda, davacılardan ...'nin istinaf aşamasında, 17/10/2023 tarihinde v
 
 ## İstanbul BAM 43. HD 2024/329 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017013800)
+
 İhtiyati tedbirin uygulanması sırasında karşı taraf hazır bulunuyorsa, tedbirin uygulanmasından itibaren; hazır bulunmuyorsa tedbirin uygulanmasına ilişkin tutanağın tebliğinden itibaren bir hafta içinde, ihtiyati tedbirin şartlarına, mahkemenin yetkisine ve teminata ilişkin olarak, kararı veren mahkemeye itiraz edebilir. Muris ... 16/07/2015 tarihinde ölmüş ve geriye mirasçı olarak eşi davacı ortak ... ile çocukları davacı ortak ..., dava dışı ortak ... ve dava dışı ortak ... kalmıştır. Bodrum 1. Sulh Hukuk Mahkemesinin 2017/2 tereke sayılı dosyasında terekenin tespiti talep edilmiştir. Ayrıca tarafların beyanlarından murisin vasiyetnamesinin bulunduğu ve vasiyetnamenin iptali davasının açıldığı anlaşılmaktadır. Davalı tarafça, şirket hisselerinin intikalinin mirasçıların talebi ile vasiyetnameye uygun olarak yapıldığı beyan edilmiştir. Türk Ticaret Kanunu’nun payların bölünememesi başlıklı 477. maddesinde, “Pay şirkete karşı bölünemez. Bir payın birden fazla sahibi bulunduğu takdirde, bunlar şirkete karşı haklarını ancak ortak bir temsilci aracılığıyla kullanabilirler.
 Böyle bir temsilci atamadıkları takdirde, şirketçe söz konusu payın maliklerinden birine yapılacak tebligat tümü hakkında geçerli olur. Genel kurul, sermaye tutarı aynı kalmak şartıyla, esas sözleşmeyi değiştirmek suretiyle, payları, asgari itibarî değer hükmüne uyarak, itibarî değerleri daha küçük olan paylara bölmek veya payları itibarî değerleri daha yüksek olan paylar hâlinde birleştirmek yetkisine haizdir. Şu kadar ki, payların birleştirilebilmesi için her pay sahibinin bu işleme onay vermesi gerekir.” hükmü bulunmaktadır. Aynı Kanunun 494/2. maddesinde de “Payların miras, mirasın paylaşımı, eşler arasındaki mal rejimi hükümleri veya cebrî icra gereği iktisap edilmeleri hâlinde, bunların mülkiyeti ve bunlardan kaynaklanan malvarlığına ilişkin haklar derhâl; genel kurula katılma haklarıyla oy hakları ise ancak şirketin onayı ile birlikte devralana geçer.” hükmünü içermektedir.
 
@@ -124,11 +142,15 @@ Somut olayda, TTK 477. maddesi uyarınca mirasçılar arasında taksime ilişkin
 
 ## İstanbul BAM 40. HD 2024/263 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998731300)
+
 Limited Şirketinin zarardan müştereken ve müteselsilen sorumlu olduklarını, müvekkilinin mirası reddetmiş olmasına ve özellikle mahkemece mirasın ret süresi beklenilmeden ve bu konuda hiçbir araştırmaya girişilmeden müvekkilinin davaya dahil edilmesinin hukuka aykırı olduğunu belirterek, ilk derece mahkemesi kararının kaldırılmasını istemiştir. 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) 355'inci maddesi uyarınca ileri sürülen istinaf nedenleri ve kamu düzenine ilişkin konularla sınırlı biçimde yapılan incelemede: Dava, trafik kazasından kaynaklanan maddi ve manevi tazminat istemine ilişkindir. Davacılar vekilinin davacılar ...'un maddi tazminat davalarında verilen hükümlere yönelik; davalılar ... Limited Şirketi vekillerinin ise davacı ... lehine hükmolunan maddi tazminat hükmüne yönelik istinaf dilekçelerinin incelenmesinde:
 Davacılar vekilinin 14/6/2021 günü sunduğu dilekçeyle davacı ... için talep ettiği maddi tazminatı 2.047,01 TL'ye, davacı ... için talep ettiği maddi tazminatı 2.047,01 TL'ye, davacı ... için talep ettiği maddi tazminatı 1.281,34 TL'ye yükseltmesi; ilk derece mahkemesince de davacılar ... maddi tazminat taleplerinin reddine, davacı ... lehine geçici iş göremezlik nedeniyle 2.297,01 TL maddi tazminata karar verilmesi; böylece davacı ... lehine hükmolunan geçici iş göremezlik tazminatına ilişkin 2.297,01 TL maddi tazminat ile davacılar ... ve ... için bedel artırım dilekçesiyle talep edilen maddi tazminat tutarlarının, ilk derece mahkemesinin hükmünü verdiği 2022 yılı için HMK'nin 341'inci maddesinin, 2'nci fıkrasında öngörülen ve aynı Kanunun ek 1/1-2'nci maddesi uyarınca her takvim yılı başından geçerli olmak üzere yeniden değerleme oranında artırılması suretiyle hesaplanan istinaf başvuru sınırı olan 8.000 TL'den az olduğunun anlaşılması karşısında, davacı ... lehine hükmolunan geçici iş göremezlik tazminatına ilişkin 2.297,01 TL maddi tazminat hükmü ile davacılar ... maddi tazminat taleplerinin reddine ilişkin hükümlere yönelik istinaf dilekçelerinin HMK'nin 341'inci maddesinin
 2'nci fıkrası uyarınca ayrı ayrı reddine karar verilmesi gerekmiştir.Davacılar vekili ile davalılar ...
 
 ## İstanbul BAM 4. HD 2024/70 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981702600)
 
 …
 
@@ -136,6 +158,8 @@ Davacılar vekilinin 14/6/2021 günü sunduğu dilekçeyle davacı ... için tal
 Yasal mirasçılardan biri mirası reddederse onun payı, miras açıldığı zaman kendisi sağ değilmiş gibi, hak sahiplerine geçer. Bu durumda mirası reddeden mirasçının davalının sağlığında verilen kararı istinaf etme hakkı yoktur. Mirasın reddine ilişkin ilam, muris hakkında verilen kararın infazında takip dosyasında mirasın reddedildiğini gösteren belge niteliğinde olmakla beraber iş bu dava yönünden mirası reddedenlere istinaf hakkı vermez.
 
 ## İzmir BAM 11. HD 2023/1792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967492000)
 
 Dava, işletenin hukuki sorumluluğu ve ZMMS kapsamında trafik kazası nedeni ile davacıların maddi ve manevi tazminat istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın maddi tazminat istemi yönünden feragat nedeni ile reddine manevi tazminat isteminin kısmen kabulüne, fazlaya ilişkin talebin reddine karar verilmiştir.
 
@@ -148,9 +172,13 @@ TMK'nın 609. maddesi gereğince, mirasçılar tarafından sulh mahkemesine söz
 
 ## İzmir BAM 11. HD 2023/1695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966062000)
+
 Mahkemece; İzmir 14. Sulh Hukuk Mahkemesinin 2021/1584 E - 2021/1456 K sayılı 29/11/2021 tarihli kararı uyarınca murisin mirasının, mirasçılar ..., ..., ..., ... tarafından TMK'nun 605/1. Maddesi uyarınca kayıtsız şartsız reddedildiği ve yasal mirasçıların sorumluluklarının mirasın red anına kadar olup, mirasın red kararından itibaren murisin borçlarından sorumlu tutulamayacağı yönündeki borçlu tarafın itirazı yerinde görülerek, ihtiyati haciz kararının kaldırılmasına ve itiraz edenler yararına vekalet ücretine hükmedilmesinde usul ve yasaya aykırı bir yön bulunmadığı değerlendirilerek, alacaklı banka vekilinin yerinde görülmeyen istinaf itirazının HMK'nun 353/1-b.1 maddesi gereğince reddine karar vermek gerekmiştir.
 
 ## Ankara BAM 22. HD 2023/1635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970284300)
 
 Dava, mirasın reddi kararına istinaden icra dosyasına cebri icra ile yatan paranın istirdatı istemine ilişkindir.
 
@@ -159,6 +187,8 @@ Dava, mirasın reddi kararına istinaden icra dosyasına cebri icra ile yatan pa
 Mirasın TMK 605 ve devamı hükümlerine göre reddedilmesi halinde mirasçılar, murisin tereke borçlarından sorumlu tutulamayacaktır. Somut olayda olduğu gibi icra takibinin mirasın reddi süresi içerisinde başlamasına, davacı tarafından yasal süre içerisinde mirasın reddi davası açılıp kararın kesinleşmesine, kesinleşme kararının icra dosyasına bildirilmesine göre mahkemece mirasın reddi davası aşamasında yapılan tüm kesintilerin davacıya iadesine yönelik davanın kabulüne karar verilmesi gerekirken yazılı olduğu şekilde kısmen kabul kararı verilmesi doğru değildir.
 
 ## İstanbul BAM 9. HD 2023/1516 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936507200)
 
 Dava ölümlü trafik kazası nedeniyle destekten yoksun kalma tazminatı istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355.
 

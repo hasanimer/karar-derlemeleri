@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 12. HD 2026/177 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192081400)
+
 40.604,43-TL bedelde ki davacı faturalarından davalının sorumlu olmadığının kabulünde isabetsizlik bulunmamıştır.Davalının ticari defterlerinin kanuna uygun tutulmasa da, e-arşiv faturaların sistem üzerinden tebliği sağlanamadığından aynı tarihde davalıya ulaştığı kabul edilmemiş, icra takibinden evvel faturaları iade edip davacıya tebliğ ettiğini ve faturalar karşılığı mal almadığını kanıtladığından davacının kanuna uygun tutulan ve davacı lehine delil teşkil eden ticari defterlerinin aksini kanıtladığı kabul edilmiştir.Uyuşmazlığın diğer kısmını teşkil eden davalının cevap dilekçesi ekinde sunduğu 17.09.2022 tarihli 405-TL, 23.09.2022 tarihli 4.730-TL ve 26.09.2022 tarihli 5.150-TL ödemelerin davacının kayıtlarında olmadığı, bu ödemelerin davalı tarafça sunulan kredi kartı ekstrelerinde davacı adına ödeme olarak kayıtlı olduğu görülmektedir.Davacı vekili tahsilat makbuzunun sunulması gerektiğini, müvekkili gibi toptancılarda satışçılar/plasiyerler ödeme yapan kişi veya kişilere nakit tahsilatlarda olduğu gibi tahsilat makbuzu kesip teslim ettiklerini,böylelikle toptancılar da kendilerine gelen tahsilat makbuzlarından ödemelerin kimin adına yapıldığını görebildiklerini, somut
 olayda, herhangi bir tahsilat makbuzu bulunmaksızın sadece kredi hesap ekstresinden yola çıkılarak, ödemelerin davalı adına ve hesabına yapıldığı sonucu ulaşıldığını ileri sürmekte ise de her üç ödemenin yine davacı adına olan tahsilat makbuzu yine davacı vekilinin 21.02.2025 tarihli dilekçesi ekinde davacı vekili tarafından dosyaya sunulduğu anlaşılmaktadır.Dosyaya davacı şirket unvanına düzenlenmiş, tahsilatı yapan plasiyerin adına ve araç plakasına yer verilmesi davacının bu ödemeyi kendi adına aldığı gerçeğini değiştirmemektedir.
 
@@ -31,6 +33,8 @@ itirazın iptali isteminin haksız bulunduğu anlaşılmakla davalı davaya konu
 HÜKÜM:Yukarıda açıklanan nedenlerle:Davacı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 43. HD 2026/101 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195299300)
 
 İlk derece mahkemesince davanın kısmen kabulüne karar verilmiş davacı ve davalı tarafça istinaf yasa yoluna başvurulmuştur.
 
@@ -43,6 +47,8 @@ Bu durumda davanın 70.000 TL üzerinden kabulüne karar verilmesi gerekir iken 
 Mahkemece eldeki davanın kısmen kabulüne karar verilmesi isabetli görülmemiş, davalı vekilinin istinaf isteminin reddine, davacı vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına, yeniden yargılama yapılmasına gerek bulunmadığından Dairemizce esas hakkında yeniden karar verilmek suretiyle davanın kabulüne karar verilerek aşağıdaki şekilde hüküm tesis edilmiştir.
 
 ## İstanbul BAM 12. HD 2026/95 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189874500)
 
 İLK DERECE MAHKEMESİ KARARI:Mahkemece; davacı ile davalı arasında düzenlenen 10.07.2014 tarihli danışmanlık sözleşmesi gereği davacının finansal danışmanlık ve aracılık işlerini yerine getirmiş olduğu, davalıya ...
 
@@ -57,6 +63,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle:Davacı ve davalı vekilinin istinaf ba
 
 ## Adana BAM 6. HD 2026/25 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187034000)
+
 DAVALI VEKİLİ CEVAP DİLEKÇESİNDE ÖZETLE; Davacı taraf ile ... inşaat sözleşmesinin düzenlendiğini, sözleşme bedelinin davacı tarafa bir kısmı banka kanalı ile bir kısmı elden ve çek vermek sureti ile ödendiğini, müvekkili şirketin davacı tarafa bir borcunun bulunmadığını belirterek, davanın ve davacı taleplerinin reddine, kötü niyet tazminatına hükmedilmesine, yargılama giderleri ile vekalet ücretinin davacı tarafa tahmiline karar verilmesi arz ve talep edilmektedir.
 
 …
@@ -69,6 +77,8 @@ Ayrıca somut olayda davacı 64.332,50 TL asıl alacak, 9.039,4 TL işlemiş fai
 
 ## İstanbul BAM 3. HD 2025/3243 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187260200)
+
 Davanın KISMEN KABULÜ ile;1-Davalıların Merkezi Takip Sistemi'nin 2022/181120 Esas sayılı dosyasında yürütülen takibe yaptıkları vaki itirazın asıl alacak miktarı yönünden İPTALİ ile; takibin 60.761,00 TL asıl alacak üzerinden aynen DEVAMINA, TBK'nın 100. maddesinin icra müdürlüğünce infazda dikkate alınmasına,2-Davacının fazlaya ilişkin isteminin reddine,3-Dava konusu kabulüne karar verilen asıl alacak likit olduğundan asıl alacağın %20'si oranında hesaplanan 12.152,20 TL icra inkar tazminatının davalılardan alınarak davacıya verilmesine, karar verilmiştir.Mahkemece verilen kararı,davacı vekili ve davalı vekili istinaf etmiştir.1- Davacı vekilince verilen istinaf dilekçesinde; "Denetime elverişli, açık, anlaşılır 02/08/2023 tarihli bilirkişi raporunda müvekkil şirket alacağı 81.856,09-tl asıl alacak, 2.995,26-tl takip öncesi işlemiş faiz olmak üzere toplam 84.851,35-tl olduğu tespit edilmiş ve hükme esas alınmış olmasına rağmen, ilk derece mahkemesi tarafından takibin 60.761,00-tl üzerinden devamına karar verilmesinde hukuka uygunluk bulunmamaktadır. Bilirkişi raporu ile tespit edilen rakamda eksiltilmeye gidilerek hatalı şekilde kısmen kabul kararı verilmiştir.
 Yerel mahkemenin davalının kısmi itirazını yalnızca 60.761,00-tl üzerinden olduğuna yönelik kanaati ise hukuka aykırı ve yüzeysel olmuştur. Her ne kadar davalıların borca itiraz dilekçesinde böyle bir rakam zikredilmiş ise de, dilekçenin tümü incelendiğinde, ödeme yapılan toplam 103.967,14-tl dışındaki tüm alacak, faiz ve ferilere itiraz edildiği, dolayısıyla itirazın 103.967,14-tl ödeme yapılan tutardan bakiye tüm alacağa ilişkin olduğu açıktır. Hal böyle iken yapılan inceleme, davacı talebi ve bilirkişi incelemesi rakam itibariyle doğru tespitleri yaparak birbirini doğrulamasına karşın, davalı beyanına itibar edilmesi son derece haksızdır. Bununla birlikte itirazın iptali davası ancak takibe gelen itiraz bir bütün olarak değerlendirilerek, tüm takip çıkışının ve taleplerin doğru olup olmadığının incelenmesi ile görülen bir davadır. Burada borçlunun yaptığı tüm itiraz değerlendirilerek bir hükme varılmaktadır.
 
@@ -77,6 +87,8 @@ Davalılar tarafından 21/02/2022 tarihinde borca kısmi itiraz edilerek 103.967
 
 ## İstanbul BAM 3. HD 2025/2429 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171156100)
+
 Mahkemenin bu ret kararı ile yaklaşık ispat, tam ispat ölçüsüne ulaştırılmakta ve bu durum kanunun konuluş amacına aykırı olduğu gibi bu kararla menfaat dengesi dürüst alacaklı müvekkilimiz aleyhine bozulmuştur.Dava dilekçemiz ekinde de sunduğumuz kaçak elektrik tespit tutanağında da görüleceği üzere somut olayda; Müvekkil şirket yetkililerince 18.07.2024 tarihinde borçluya ait mahalde yapılan kontrolde sayaca müdahale edildiği "EPDK Tüketici Hizmetleri Yönetmeliği'nin 42.madde 1/c bendine göre ilgili kullanım yerinde sayaç ölçü devresine müdahale ederek tüketim hiç ölçülmeden mevzuata aykırı bir şekilde elektrik enerjisi kullanıldığı" tespiti yapılarak karşı taraf hakkında h/694488 seri nolu kaçak elektrik kullanım tespit tutanağı tanzim edilmiştir. .. sunduğumuz belgelerden de anlaşılacağı üzere davalı borçlunun kaçak elektrik kullandığı sabittir. ..Ortada resmi belgeyle ispatlanmış bir kaçak kullanım söz konusu iken tüm belgeleri yok saymak müvekkil şirket açısından telafisi imkansız zararların ortaya çıkmasına sebebiyet vermiştir. İhtiyati haciz kararının reddedilmesi ile taraflar arasındaki menfaat dengesi müvekkil şirket aleyhine bozulmuştur.
 " şeklindeki istinaf sebepleri ile kararın usul ve hukuka aykırı olduğu ileri sürülerek,kaldırılması istenmiştir.HMK.nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava , itirazın iptali talebine ilişkindir.Davanın dayanağı olan İstanbul Anadolu 18. İcra Dairesi ... E. SAYILI dosyasında yapılan takipte,101.468,90 TL asıl alacak ve fer'ilerinin tahsili için davalı-borçlunun "Tarafımca borçlu olmadığıma dair Bakırköy 5. Asliye Ticaret Mahkemesi 2024/735 Eşas sayılı dosyası ile borca ilişkin Tespit davası açılmıştır.
 
@@ -84,6 +96,8 @@ Diğer taraf kötü niyetli olarak işbu icra takibini açarak haksız kazanç t
 kişisi olduğu tartışmasız olan davalı şirkette hizmet akdiyle çalışan görevliler tarafından düzenlenmiş olduğu gözetildiğinde, 6100 sayılı Kanun'un 204. maddesinin ikinci fıkrasında hüküm altına alınan belgelerden olmadığı tartışmasızdır. Eş söyleyişle, kaçak elektrik tutanağı, aksi sabit oluncaya kadar geçerli belgelerden değildir. ( Yargıtay 3. Hukuk Dairesi'nin 21.10.2021 tarihli ve 2021/4894 E., 2021/10580 K. sayılı kararı da aynı yöndedir.)Benzer konulardaki talepler yönünden çıkan uyuşmazlıkların giderilmesi yönünden Yargıtay 3.
 
 ## Kayseri BAM 6. HD 2025/2363 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183170400)
 
 DAVALI VEKİLİNİN İLK DERECE MAHKEMESİNE SUNMUŞ OLDUĞU CEVAP DİLEKÇESİNDEN ÖZETLE:
 
@@ -96,6 +110,8 @@ DAVALI VEKİLİNİN İLK DERECE MAHKEMESİNE SUNMUŞ OLDUĞU CEVAP DİLEKÇESİN
 HMK'nın 353/1-a.6 md. gereğince, KAYSERİ 2.ASLİYE TİCARET MAHKEMESİ'nin istinafa konu edilen 30/01/2025 tarih ve 2024/784 E - 2025/97K sayılı kararın KALDIRILMASINA …
 
 ## İstanbul BAM 3. HD 2025/2259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173247000)
 
 Davacı vekili dava dilekçesinde özetle; davalı/borçlunun müvekkili şirketin abonesi olduğunu, müvekkili şirket tarafından davalının işyerine sağlanan enerji bedeline karşılık olan 06.09.2005,09.03.2006,12.04.2006,26.07.2006,07.09.2006,02.10.2006,1412.2006,06.02.2
 
@@ -110,6 +126,8 @@ Maddesi gereğince yıllık %16,80 ve değişen oranında gecikme faizi ve tahsi
 E. sayılı takip dosyasının bulunduğu yargılama aşamasında hiç bir dilekçede beyan edilmemiş, ilk defa istinaf dilekçesinde bu dosyadan bahsedilmiş olup,bu beyanın HMK uyarınca dikkate alınamayacağı açıktır.Bir alacağın zamanaşımına uğraması yani alacağın "dava edilebilme" niteliğini kaybetmesi için, "zamanaşımı süresi"nin geçmesi gerekir. BK’nun 125.maddesi: “Bu kanunda başka suretle hüküm mevcut olmadığı takdirde, her dava on senelik müruru zamana tabidir.” Hükmünü içermektedir.BK m.125'de öngörülen zamanaşımı süresi genel bir süre olup, maddede de ifade edildiği üzere aksine bir hüküm bulunmadığı hallerde bütün alacaklar için geçerlidir.. Sözleşmeden doğan borçlarda zamanaşımının işlenmeye başlaması için alacağın muaccel (istenebilir) olması yeterlidir.Alacaklı, alacağının varlığından haberdar olmasa dahi, alacağın muaccel olmasıyla birlikte, zamanaşımı süresi işler.Somut olayda ; dava itirazın iptaline ilişkin olup,davalı borca itirazlarında zamanaşımı ileri sürmüştür.
 
 ## İstanbul BAM 13. HD 2025/2101 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186971400)
 
 Davacı vekili dava dilekçesinde özetle; davalı aleyhine aracılık hizmetlerine ilişkin olarak kesilen faturalara istinaden 56.640-TL'nin ödenmemesi nedeni ile davalı aleyhine İstanbul Anadolu 16. İcra Müdürlüğünün ... Esas sayılı dosyasında icra takibine başlandığını, itiraz edilmesi nedeni ile takibin durduğunu ileri sürerek, itirazın iptali ile takibin devamına, davalının %20 den az olmamak kaydı ile icra inkar tazminatına mahkum edilmesine karar verilmesini talep ve dava etmiştir.
 
@@ -127,6 +145,8 @@ Davacının istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b1 maddesi gereğ
 
 ## İstanbul BAM 12. HD 2025/2084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186652700)
+
 Davacı tarafından, davalı ... Madencilik şirketinin keşidecisi,davacının lehdarı olduğu ... 30/11/2012 tarihli 5152836 nolu 19.000-Euro tutarlı çek ve 23/03/2013 tarihli rödovans sözleşmesine dayalı olarak davalı keşideci ve diğer davalı ... şirketi hakkında Büyükçekmece 2. İcra Dairesi'nin ... sayılı ilamsız takibin başlatıldığı, her iki davalının da yetkiye ve borca itirazı üzerine, yetki itirazı kabul edilerek takibe Beykoz İcra Dairesi'nin ... sayılı dosyasında devam edildiği, yetkili icra müdürlüğü tarafından gönderilen ödeme emrine davalı ... şirketi tarafından borca itiraz edildiği, davalı ... Madencilik şirketine çıkartılan ödeme emrinin tebliğ edilemeden iade edildiği, davalı ... Madencilik şirketinin icra dosyasında itirazının bulunmadığı anlaşılmaktadır.Yetkisiz icra dairesinde yapılan takipteki ödeme emrine ilişkin yetkiye itiraz yanında borca da itiraz edilmiş olsa bile yetki itirazının kabulü üzerine dosyanın gönderildiği yetkili icra dairesince yeniden ödeme emri çıkarılacak olup itiraz üzerine takibin durması için tebliğ edilen yeni ödeme emrine de ayrıca itiraz edilmesi gerekir.
 İtirazın iptali davası bakımından borçlunun usulüne uygun bir itirazı neticesinde takibin durması dava şartı olup somut olayda borçlu ... Madencilik şirketine henüz ödeme emri henüz tebliğ edilmediği gibi itiraz da edilmemiştir. Bu bakımdan mahkemece davanın davalı ... Madencilik bakımından davanın dava şartı yokluğundan usulden reddine karar verilmesinde isabetsizlik bulunmamaktadır.Davacı, davalı ...'ın keşidecisi olduğu çekten kaynaklanan alacağını davalılar arasındaki 23/03/2013 tarihli rödovans sözleşmesi ile davalı ... şirketinin üstlendiğini, davalılar arasındaki organik bağ bulunduğunu ileri sürmektedir. Davalılar arasındaki 23/03/2013 tarihli sözleşmede davalı ... ...Ltd Şti tarafından davalı ... Madencilik'e ait maden ruhsatının 15 yıl süreli olarak rödavans sözleşmesi ile işletme hakkı devralınmış olup, sözleşmenin 6-f maddesinde "...ruhsat sahibinin Fethiye bölümü ile sınırlı kalmak kaydıyla ruhsat sahibine ait eski borçlarının ödenmesini, ruhsat sahibinin her ay alacağı rodövans payından organize eder ve ruhsat sahibi ile birlikte önceden hazırladıkları ödeme planına göre ödemesini yapar.
 Bu ödemelerden ilk başta ödeneceklerin dökümü eki de belirlenmiş olup, anlaşmaya vararak vadeye yaydıklarını ise vadesinde ruhsat sahibinin rodövans hakkından düşülecektir..." şeklinde ruhsat sahibinin borçları ile ilgili düzenleme yapılmıştır. Yine 20/04/2013 tarihli protokolle rodövans miktarına istinaden yapılacak ödemeler toplamı 4.076.496,06-TL olarak belirlenmiş olup bu tutara kadar alacakların davalı tarafından karşılanması üstlenilmiştir. Davacı da bu düzenlemeden dolayı davalı ... şirketinin ruhsat sahibi olan diğer davalının borçlarından sorumlu olduğunu ileri sürmekte ise de sözleşmelerin nispiliği ilkesi gereğince sözleşmeler hüküm ve sonuçlarını kural olarak tarafları üzerinde doğurabilir. Borç ilişkisinden doğan alacak hakları kural olarak sadece borç ilişkisinin diğer tarafına karşı ileri sürülebilir. Sözleşmeler kapsamında borç ilişkisinin tarafı olmayan üçüncü kişilere karşı alacak hakkı ileri sürülemeyeceği gibi borç ilişkisinin tarafı olmayan üçüncü kişiler de borç ilişkisine dayanarak borçluya karşı bir hak talebinde bulunamazlar.
@@ -137,6 +157,8 @@ Somut olayda davacı dayanak sözleşmede taraf olmayıp, davalı ... ...Ltd Şt
 Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 43. HD 2025/2054 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191143700)
 
 İLK DERECE MAHKEMESİ KARARI: İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, "Mahkememizce tüm dosya içeriği bir bütün halinde değerlendirilmiş olup; davanın, mutabakat protokolü kapsamında alacağın tahsili için başlatılan icra takibine yapılan itirazın iptali istemine ilişkin olduğu, icra takibinin 4.682.080,14-USD asıl alacak, 514.387,44-USD işlemiş faiz olmak üzere toplam 5.196.467,58-USD üzerinden başlatılmış olduğu, davanın itirazın 545.000,00-TL üzerinden kısmi iptali istemine ilişkin olduğu, görüldüğü üzere takibin USD üzerinden başlatıldığı, davanın ise TL üzerinde açılmış olduğu, itirazın iptali davasının icra takibine sıkı sıkıya bağlı dava olduğu, icra takibinin USD üzerinden başlatılması sebebiyle, davacının itirazın iptalini TL üzerinden talep etmesinde korunan hukuki yararının olmayacağı, açıklanan sebeplerle davanın hukuki yarar yokluğu sebebiyle usulden reddine, ..." karar verilmiştir.
 

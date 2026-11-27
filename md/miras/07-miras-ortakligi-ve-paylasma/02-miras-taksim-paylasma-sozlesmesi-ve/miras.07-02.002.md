@@ -22,15 +22,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 4. HD 2023/8771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/961013800)
+
 Yargıtay (Kapatılan) 17.
 Hukuk Dairesi'nin 14.10.2020 tarih, 2019/1832 E, 2020/5559 K ... ilamı ile ".... davalı borçlu ile davalı 3. kişi olan ... kardeş olup, davalı ... davalı borçlunun durumunu bilen ve bilmesi gereken kişilerden olup, davalılar arasında düzenlenmiş geçerli bir taksim sözleşmesi, miras sözleşmesi gereği dava konusu gayrımenkulün ve dava dışı gayrımenkulün kardeşler arasında paylaşılmasına dair herhangi bir karar olmadığı gibi, dava dışı diğer gayrımenkulün 16.05.2007 de davalılar adına intikal ettirildiği gün, davalılar tarafından dava dışı başka bir şahsa devrinin yapıldığı, dava konusu gayrımenkulün ise davacının alacağının doğum tarihinden sonra 07.12.2011 de davalı ...’a devredilmiş olduğu, devir tarihine kadar dava dışı anne üzerinde kayıtlı olduğu, dava dışı gayrımenkulün intikal ettirildiği gün davalılarca başka bir şahsa devredilip dava konusu gayrımenkulün ise 4 yıl sonra davalı ... adına tescilinin yapılmış olması, davalılar arasında geçerli bir miras taksim sözleşmesi olduğunun ispat edilememiş olmasına göre davanın kabulüne karar verilmesi gerekirken mahkemece bu maddi ve hukuksal olgular irdelenmeksizin yazılı olduğu üzere hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2023/6490 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108685700)
+
 İlk Derece Mahkemesi yukarıda tarih ve sayısı belirtilen kararı ile her ne kadar davacı tarafça 15.08.2016 tarihli "miras ... için protokol" başlıklı belge dosyaya sunulmuş ise de; geçerli bir miras paylaşım sözleşmesinin ifasının istenebilmesi içn mirasın açılmış olması gerektiği ve 4721 sayılı TMK'nun 699 uncu maddesi hükmüne göre ölüm ile miras açılacağına göre hayatta olan murise ait dava konusu taşınmaza dair düzenlenen miras paylaşım sözleşmesine göre ifanın istenemeyeceği, ayrıca taşınmaz devir ve alım satım işlemi resmi şekilde yapılmadığı sürece geçerli olmayacağından davacının tapu iptal tescil talebinin reddine, yine davacı tarafça dava konusu taşınmazın arsasının 20.000,00 TL karşılığında davalıdan satın alındığı söylenmiş ise de; dinlenen tanık beyanları ve sunulan belgelerden arsa bedeli karşılığında 20.000,00 TL verildiği hususu davacı tarafça ispatlanamadığından arsa bedelinin tazmini yönünden de davanın reddine karar vermek gerekmiş, dinlenen davacı tanıklarının dava konusu taşınmaz üzerinde bulunan yapının davacı ve eşi ... tarafından yaptırıldığını beyan etmeleri, davalı tanıklarının ise evin kim adına kim tarafından yaptırıldığını bilmediklerini söylemeleri ve
 15.08.2016 tarihli miras ... için protokol başlıklı belge uyarınca dava konusu taşınmaz üzerinde bulunan yapının davacı ve eşi tarafından yaptırıldığının anlaşılması nedeniyle yapının değerinin yarı oranında (49.500,00 TL) davalıdan alınarak davacı tarafa verilmesine karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/5428 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987725900)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -42,10 +48,14 @@ TMK'nın 676 ve devamı maddeleri uyarınca miras taksim sözleşmesinin geçerl
 
 ## Yargıtay 8. HD 2023/5372 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963288200)
+
 Dairece; tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, yapılan yargılama ve uyuşmazlık bakımından uygulanması gereken hukuk kuralları ile temyiz olunan Bölge Adliye Mahkemesi kararında yazılı gerekçelere, hukuki ilişkinin nitelendirilmesine ve kök muris ...' den intikal ettiği sabit olan çekişme konusu taşınmazlarda taksimin varlığına değer verilmesi gerektiğinin; tereke dışı çekişme konusu taşınmazlar yönünden ise, muvazaa iddiası yalnızca tapulu taşınmazlarda öne sürülebileceğinden, bu davada değerlendirilemeyeceğinin anlaşılmasına göre, davacı vekilinin yerinde görülmeyen temyiz itirazlarının reddine, davalı vekilinin temyiz itirazlarının incelenmesinde ise; 15.05.2003 tarihli taksim sözleşmesine, kök muris ...'in oğlu ...'in mirasçısı ve eşi, aynı zamanda davacı ...'in annesi olan diğer davacı ... ...' in, muris ... mirasçısı olarak katıldığı ve sözleşmeyi imzaladığının anlaşıldığı, İlk Derece Mahkemesinin taksim sözleşmesi tarihinde 6 yaşında olan davacı ...'in bu sözleşmede kayyımla usulünce temsil edilmediği yönünde kabulünün yerinde olmadığı; zira, 4721 ... Türk Medeni Kanunu'nun (4721 ...
 Kanun) 345 inci maddesinde "Çocuk ile ana veya baba arasında ya da ana ve babanın menfaatine olarak çocuk ile üçüncü kişi arasında yapılacak bir hukukî işlemle çocuğun borç altına girebilmesi, bir kayyımın katılmasına ve hâkimin onayına bağlıdır" hükmüne yer verilmiş olup, somut olayda, davacı ... ..., sözleşmeyi çocuğu olan diğer davacı ...'in velisi sıfatı imzalamış olduğundan ve bu tarihte çocuğu borç altına sokan yada menfaatine aykırı bir işlem yapılmadığından, 4721 ... Kanun'un 345 inci maddesinin uygulanmasını gerektirir bir durumun söz konusu olmadığı, hal böyle olunca İlk Derece Mahkemesince açıklanan sebeplerle davanın tümden reddine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu şekilde sonuca gidilmesinin hatalı olduğuna değinilmiştir.
 
 ## Yargıtay 7. HD 2023/4632 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976210500)
 
 Yargıtay 8. Hukuk Dairesince:
 
@@ -64,6 +74,8 @@ Dava, TMK'nın 677 nci maddesi uyarınca açılan pay iptali ve tescil talebine 
 
 ## Yargıtay 7. HD 2023/949 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897462600)
+
 Anılan parsellere ve paylara ilişkin kadastro sonrası TMK'nın 713/2 nci maddesindeki ölüm, aynı Kanun'un 676 ve 677 nci maddesindeki harici taksim ve pay satışına ilişkin iptal tescil isteğine gelince; iptal ve tescili istenen 1/4'er pay malikleri İsmihan Sarıpınar davacıların miras bırakanı olup, davalı ... da aynı miras bırakanın mirasçısı olduğu, elbirliği mülkiyeti hükmüne tabi olan mirasçılar arasında kazandırıcı zamanaşımı zilyetliği yoluyla mülkiyetin edinilmesi söz konusu olmadığı, …
 
 Harici taksim ve pay satışına gelince TMK'nın 676-677 nci maddelerinin uygulanabilmesi için mirasçılar arasında satış ya da taksim sözleşmesinin yazılı olması ispat değil geçerlilik koşulu olduğu, davacı tarafça belirtilen parseller yönünden harici satış ya da paylaşım yapıldığına ilişkin herhangi bir yazılı belgeye dayanılmadığına göre anılan parsellerdeki İsmihan Sarıpınar ve ... payları yönünden açılan iptal ve tescil davasının reddine karar verilmesinde bir isabetsizlik görülmediği, …
@@ -72,14 +84,20 @@ Harici taksim ve pay satışına gelince TMK'nın 676-677 nci maddelerinin uygul
 
 ## Yargıtay 7. HD 2022/7089 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858279800)
+
 TMK'nin 677/1 maddesi hükmüne göre; terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda mirasçılar arasında yapılan sözleşmelerin geçerliliği yazılı şekle bağlıdır. Mirasçılar arasındaki devirler için söz konusu olan bu yazılı şeklin adi yazılı olarak yapılması yeterlidir. Ortak mirasbırakan ya da elbirliği şeklinde tüm mirasçılar adına kayıtlı bulunan tapulu taşınmazlardaki miras paylarının, mirasçılar arasında harici olarak yazılı senetle satışı geçerli bulunmakta ise de; söz konusu satış senedine dayanılarak iptal ve tescil davasının açılabilmesi için, başlangıçta geçerli olarak yapılan mirasçılar arasındaki harici satış senedinin geçerliliğini koruyor olması gerekir. Başka bir anlatımla, mirasçılar arasında yapılan harici satış sözleşmesinden dönülmemiş olması gerekir.
 
 ## Yargıtay 7. HD 2022/5332 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/814308300)
 
 5.4.TMK'nın 676. maddesinde ve 3402 sayılı Kanunun 15/3. maddesinde düzenlenen paylaşma sözleşmesine göre “Mirasçılar arasında payların oluşturulması ve fiilen alınması veya aralarında yapılacak paylaşma sözleşmesi mirasçıları bağlar. Paylaşma sözleşmesi ile mirasçılar, tereke mallarının tamamı veya bir kısmı üzerindeki elbirliği mülkiyetinin miras payları oranında paylı mülkiyete dönüştürülmesini de kabul edebilirler. Paylaşma sözleşmesinin geçerliliği yazılı şekilde yapılmasına bağlıdır.” Öncelikle, şu ifade edilmelidir ki, taksim sözleşmesinin geçerli olabilmesi için miras bırakanın ölümünden sonra bütün mirasçıların veya temsilcilerinin iradelerinin birleşmesi asıldır. Bir başka ifadeyle, tüm mirasçıların veya temsilcilerinin bir araya gelerek taşınmazları paylaşıp her birinin kendi payına düşeni aldığı ve diğer mirasçıların paylarına düşenler bakımından da karşılıklı olarak vazgeçtikleri açık ve kesin şekilde belirlenmedikçe taksimin sabit olduğu kabul edilemez.
 İşte bunun içindir ki, gerek Türk Medeni Kanununun 676/2. maddesi hükmünde ve gerekse 10.12.1952 tarihli ve 2/4 sayılı İçtihadı Birleştirme Kararında taksim sözleşmesinin tüm mirasçıların katılımı ve yazılı olması taksimin geçerliliği için yeterli kabul edilmiştir …
 
 ## Yargıtay 7. HD 2022/4871 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797489300)
 
 Mirastan doğan davalarda yetki başlığını taşıyan HMK’nın 11. maddesinde murisin son yerleşim yerinin kesin yetkili mahkeme olduğunu söylediği işler sayılmıştır. Buna göre; terekenin paylaşılmasına, yapılan paylaşma sözleşmesinin geçersizliğine, ölüme bağlı tasarrufların iptali ve tenkisine, miras sebebiyle istihkaka ilişkin davalar ile mirasçılar arasında terekenin yönetiminden kaynaklanan davalar, terekenin kesin paylaşımına kadar mirasçılara karşı açılacak tüm davalarda, ölen kimsenin son yerleşim yeri mahkemesi kesin yetkilidir. Kanun hükmünün kesin yetkili mahkemeyi belirlediği davalar arasında mirasın reddin tespiti sayılmamıştır.
 
@@ -87,14 +105,20 @@ Türk Medeni Kanununun miras hukuku isimli üçüncü kitabının, mirasın geç
 
 ## Yargıtay 11. HD 2022/3789 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790459000)
+
 Bölge Adliye Mahkemesince, tüm mirasçıların katılımı ile yapılan taksim sözleşmesinde dava konusu şirket hisselerinin davalıya verildiği, taksim sözleşmesinin iptaline karar verilmediği gözetildiğinde, rızai taksim sözleşmesi nedeniyle davalıya temlik edilen şirket hisselerinin davacı adına tesciline ilişkin davanın reddine karar verilmesinde isabetsizlik olmadığı gerekçesiyle davacı vekilinin istinaf başvurusunun HMK 'nın 353(1)b-1 maddesi uyarınca esastan reddine karar verilmiştir.
 
 ## Yargıtay 8. HD 2022/3146 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804234900)
 
 O halde Mahkemece; taşınmazların kök muris ... oğlu ...'den gelip gelmediği, geldiğinin anlaşılması halinde mirasının mirasçılar arasında taksim edilip edilmediği, edilmiş ise bu taksime tüm mirasçıların katılıp katılmadığı dikkate alınarak geçerli bir taksim sözleşmesi bulunup bulunmadığı, mirasçılar arasında pay devri yapılıp yapılmadığı hususlarının tespiti için mahallinde yaşlı, tarafsız, yöreyi iyi bilen, davada yararı bulunmayan şahıslar arasından seçilecek yerel bilirkişiler ve taraf tanıkları ile fen bilirkişinin katılımıyla yeniden keşif yapılmalı ve yapılacak bu keşif sırasında dinlenecek yerel bilirkişi ve taraf tanıklarından, taşınmazların kim tarafından ne zamandan beri ne suretle kullanıldığı, varsa taksim sözleşmesi sonrasında kime isabet ettiği etraflıca sorulup, maddi olaylara dayalı olarak açıklattırılmalı, bilirkişi ve tanık beyanları arasında çelişki olduğu takdirde yüzleştirme yapılmak suretiyle çelişkiler giderilmeye çalışılmalı; fen bilirkişisinden, keşfi takibe ve denetlemeye elverişli rapor ve kroki düzenlemesi istenilmeli; bu şekilde çekişmeli taşınmaz üzerinde tespit tarihine kadar kimin zilyet olduğu tereddütsüz belirlenmeli ve bundan sonra tüm deliller
 birlikte değerlendirilerek sonucuna göre karar verilmelidir. Mahkemece esasa ilişkin inceleme yapılarak karar verilmesi gerekirken bu hususlara riayet edilmeksizin, feragat nedeniyle reddine karar verilmesi doğru olmadığından hükmün belirtilen parseller yönünden bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2022/2565 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763628400)
 
 Dava, yazılı olmayan miras taksim sözleşmesine dayalı tapu iptal ve tescil istemine ilişkindir.
 
@@ -105,19 +129,27 @@ TMK.nın 676/1-3. maddesi hükmüne göre; tapulu taşınmazlara ilişkin payla�
 
 ## Yargıtay 1. HD 2022/2301 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794380900)
+
 Dairenin 27/04/2021 tarihli ve 2020/1584 E., 2021/2614 K. sayılı ilamı ile ‘‘...Somut olayda, mirasbırakanın dava konusu taşınmaz dışında da taraflarca taksim sözleşmesi ile paylaşılan 5 adet taşınmazının bulunduğu, dinlenen davacı tanık beyanlarından muvazaanın varlığına ilişkin somut olguların ortaya konulmadığı, mirasbırakanın mirasçılarla beşeri ilişkilerinde de bir olumsuzluk iddiasının ileri sürülmediği gözetildiğinde temlikin mal kaçırma amacıyla yapıldığı iddiasının usulen ispatlanamadığı sonucuna varılmaktadır. Hal böyle olunca, davanın reddine karar verilmesi gerekirken, davalının savunmasını ispat edemediği de benimsenmek suretiyle yazılı şekilde davanın kabulüne karar verilmesi isabetsizdir....” gerekçesiyle İlk Derece Mahkemesinin kararı bozulmuştur.
 
 ## Yargıtay 1. HD 2022/233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760884300)
+
 3.3.3. Somut olayda; davalılarca 06/08/2014 tarihli ..., ... ve .../... (davacı ve tanıklarca kabul edilen aile içinde davacı ... olduğu belirtilen) tarafından imzalanan adi yazılı taksim sözleşmesi başlıklı belgeye göre temlikler yapıldığı belirtilmiş ise de, davacı tarafından sözleşmenin kabul edilmediği, kaldı ki sözleşmesinin yapıldığı tarihte mirasçı olan dava dışı Pakize’nin hayatta olduğu, yargılama sırasında 19/05/2018 tarihinde öldüğü, taksim sözleşmesinde taraf olmadığından sözleşmenin içeriğine itibar edilmesinin mümkün olmadığı açıktır.
 
 ## Yargıtay 1. HD 2022/75 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/731545600)
 
 01.04.1974 tarihli ve 1/2 sayılı İçtihadı Birleştirme Kararında; görünürdeki sözleşme tarafların gerçek iradelerine uymadığından, gizli bağış sözleşmesi de Türk Medeni Kanunun'un 706., Türk Borçlar Kanunu'nun 237. (Borçlar Kanunu'nun 213.) ve Tapu Kanunu'nun 26. maddelerinde öngörülen şekil koşullarından yoksun bulunduğundan, saklı pay sahibi olsun veya olmasın miras hakkı çiğnenen tüm mirasçılar dava açarak resmi sözleşmenin muvazaa nedeni ile geçersizliğinin tespitini ve buna dayanılarak oluşturulan tapu kaydının iptalini isteyebilecekleri belirtilmiştir.
 
 3.2.2. 4721 Sayılı Türk Medeni Kanunu’nun (TMK) 676. maddesinin 1. fıkrasına göre, “ Mirasçılar arasında payların oluşturulması ve fiilen alınması veya aralarında yapacakları paylaşma sözleşmesi mirasçıları bağlar.” 2. fıkrasına göre, “ Paylaşma sözleşmesiyle mirasçılar, tereke mallarının tamamı veya bir kısmı üzerindeki elbirliği mülkiyetinin miras payları oranında paylı mülkiyete dönüştürülmesini de kabul edebilirler.” 3. fıkrasına göre, “ Paylaşma sözleşmesinin geçerliliği yazılı şekilde yapılmasına bağlıdır.” yine aynı Kanun’un 677. maddesinin 1. fıkrasına göre, “ Terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda mirasçılar arasında yapılan sözleşmelerin geçerliliği yazılı şekle bağlıdır.” düzenlemelerine yer verilmiştir.
 
 ## Yargıtay 5. HD 2021/14009 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707194100)
 
 Marmara Sulh Hukuk Mahkemesince,davanın kısmen kabulü ile kısmen reddine, belirtilen taşınmazların; aynen taksimi mümkün olmadığından varsa üzerinde bulunan tüm yükümlülükleri ile birlikte tapu kaydında mevcut ipotek ve haciz şerhleriyle birlikte satılarak ortaklığın giderilmesine, satış işlemlerinin tapu kaydında bulunan ipotek ve hacizlerle yükümlü olarak İcra İflas Kanununu hükümlerine göre ve açık artırma suretiyle yapılmasına, dava dilekçesinde bulunan diğer kalemler yönünden ise murise ait olduğuna dair belgeyi verilen süre içerisinde sunmadığı ve murise ait olduğuna dair tespit davası açılmadığı gerekçesiyle bu taşınır mallar yönünden davanın reddine karar verilmiş, taraf vekillerince istinaf kanun yoluna başvurulmuş Bursa Bölge Adliye Mahkemesi 4.
 Hukuk Dairesi 02/07/2018 tarih, 2018/870 E., 2018/859 K. sayılı kararıyla dava dilekçesinde murisin tüm mirasının paylaştırılması istendiği ve mahkemenin davayı ortaklığın giderilmesinden ziyade tüm terekenin paylaştırılması olarak görüp buna göre bahsedilen tüm menkul, gayrimenkul, şirket ve araçlarda dahil olmak üzere değerlendirmesi gerekli iken sadece taşınmazlar için satışa karar verip diğer kalemler için red kararı vermesi usul ve yasaya aykırı olduğu ve davada yeniden yargılama yapılmasına ihtiyaç duyulduğu gerekçesiyle istinaf başvurusunun kabulüne, Marmara Sulh Hukuk Mahkemesi'nin 2016/79 Esas, 2018/3 Karar sayılı dava dosyasında verilen 12/01/2018 tarihli kararın HMK 353/1-a-4 maddesi uyarınca kaldırılmasına,gerekçede belirtilen eksikliklerin giderilmesi amacıyla davanın yeniden görülmesi için dosyanın kararı veren İlk Derece Mahkemesine gönderilmesine karar verilmiştir.
@@ -130,15 +162,21 @@ Tekirdağ 2. Sulh Hukuk Mahkemesi'nce, her ne kadar yetkisizlik kararı veren ma
 
 ## Yargıtay 5. HD 2021/12660 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700326500)
+
 Dava, miras taksim sözleşmesi gereği tapu iptali ve tescil istemine ilişkindir.
 
 Ilgın Asliye Hukuk Mahkemesince, dava konusu taşınmazın kadastroya bağlandığı tarihde malikinin ...olmadığı, mirasçılar adına miras payları oranında müşterek malik olarak kadastro tutanağı düzenlenerek tapuda her bir malik yönünden payının belirlendiği, sonrasında davalı ...'nin bir kısım hisseyi diğer mirasçılardan satın aldığı ve dava konusu taşınmazın sonuç olarak maliklerinin davacı ve davalı olduğu, davalının bu hali ile miras sebebi ile taksim sözleşmesine göre tapu iptali olmayıp, tapu malikleri arasında ortaklığın giderilmesi davası olduğu, dosyaya sunulan taksim sözleşmesinde imzası bulunan tarafların tümünün malik sıfatlarının bulunmadığı, davacı ve davalı dışındaki mirasçıların hak sahibi olmadıkları, H.M.U.K.unun 8/2 Maddesine göre... Sulh Hukuk Mahkemesinde görülmesi gereken bir dava olduğu gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 3. HD 2021/8433 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697644000)
+
 Yukarıdaki açıklamalar ışığında somut olay incelendiğinde; ilk derece mahkemesince, taraflar arasında harici taksim yapıldığı kabulüne dayanarak davanın reddine karar verilmiş ise de, TMK 676. maddesi uyarınca miras taksim sözleşmesinin yazılı şekilde yapılması geçerlilik şartı olup, taraflarca sunulan miras taksim sözleşmesi bulunmadığı, davacının mirasçılar arasında taksim sözleşmesi yapılmadığını beyan ettiği, davacının iddiasının, …
 
 ## Yargıtay 1. HD 2021/6077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/719808600)
 
 Dava, şahsi hakka dayalı tapu iptali ve tescil, mümkün olmazsa bedel isteğine ilişkindir.
 
@@ -151,9 +189,13 @@ Bilindiği üzere 4721 sayılı Türk Medeni Kanunu'nun 676. maddesinde, “Mira
 
 ## Yargıtay 7. HD 2021/4186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724586500)
+
 TMK'nun 677. (MK.612) maddesine göre terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda mirasçılar arasında yapılan sözleşmenin geçerliliği yazılı şekle bağlıdır. Bir mirasçının üçüncü kişiyle yapacağı böyle bir sözleşmenin geçerliliği TMK'nun 677. maddesine göre Noterlikçe düzenlenmesine bağlı isede; TMK'nun yürürlüğe girdiği 1 Ocak 2002 tarihinden önce yapılan miras payının devrine ilişkin sözleşmelerin yazılı olması yeterlidir.
 
 ## Yargıtay 8. HD 2021/4148 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668062100)
 
 Somut olayda; ortak muris ... ...'un 07.08.1999 tarihinde vefat ettiği, mirasçı olarak eşi ... ve çocukları olan davacıların kaldığı, ...'un ise 14.02.2007 tarihinde vefat ettiği ve mirasçı olarak davalıların kaldılğı, 20.06.2000 tarihli "Miras Taksim Sözleşmesi" başlıklı yazılı belgede, "...'un muris ... ...'tan intikal edecek ... ilçesi sınırlarındaki taşınmaz ve ... plakalı araçtan kaynaklanan miras hak ve hissesinden feragat ettiği, ... ...'un diğer mirasçılarından miras hak ve hissesinin karşılığı olan 3.000.000.000 TL'yi nakten ve peşinen aldığı" belirtilmiş olup, dava konusu 434 parselin 15/256 hissesinin, 175 ada 18 parsel sayılı taşınmazın 10/600 hissesinin, 351 ada 1 parsel ve 266 parsel sayılı taşınmazın tamamının muris ... ... adına kayıtlı olduğu anlaşılmaktadır. Terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda mirasçılar arasında yapılan sözleşmelerin geçerliliği yazılı şekle bağlıdır (TMK mad. 677/1). Mirasçılar arasındaki devirler için söz konusu olan bu yazılı şeklin adi yazılı olarak yapılması yeterlidir.
 Bölge Adliye Mahkemesince, davanın sözleşmenin miras taksim sözleşmesi niteliğinde olduğu, miras taksim sözleşmesinin tüm mirasçıların katılımı ile imzalanması gerektiği, tüm mirasçıların yer aldığı taksim sözleşmesi bulunmadığı gerekçesi ile davanın reddine karar verilmiş ise de, mahkemenin gerekçesine katılma olanağı yoktur. Şöyle ki, 20.05.2000 tarihli sözleşmenin başlığı "Miras Taksim Sözleşmesi" ise de, sözleşme bir bütün olarak değerlendirilmesi gerektiğinden, sözleşmenin içeriğindeki düzenlemelere göre, mirasçı ...'nin miras hak ve hisselerini belli bedel karşılığında muris ...'in diğer mirasçılarına devrettiği, diğer bir deyişle sözleşmenin miras payı devri sözleşmesi niteliğinde olduğu anlaşılmakla, az yukarıda bahsedilen tapu kayıtları göz önünde bulundurulduğunda, 20.05.2000 tarihli "Miras Taksim Sözleşmesi" başlıklı sözleşmenin düzenlendiği esnada dava konusu taşınmazlar iştirak halinde mülkiyet hükümlerine tabi olup, dava konusu taşınmazlarda, kayıt malikinin mirasçıları olduğu anlaşılan taraflar arasında yapılan ve miras payının devrine ilişkin bulunan dayanak sözleşme TMK'nin 677. maddesi hükmü uyarınca kural olarak geçerli ve sonuç doğuran bir sözleşmedir.
@@ -161,9 +203,13 @@ O halde, Mahkemece, davaya dayanak olarak sunulan 20.05.2000 tarihli sözleşmen
 
 ## Yargıtay 7. HD 2021/3342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/713845100)
+
 Maddi olayları ileri sürmek taraflara, hukuki nitelendirme yapmak ve uygulanacak kanun maddelerini belirlemek hakime aittir (6100 sayılı HMK 33. m). İddianın ileri sürülüş şekli, davaya dayanak olarak gösterilen 13.05.1992 tarihli (rızai taksime dayalı) resmi senet ve 15.05.1992 tarihli taahhütname içeriğinde yer alan açıklamalara göre dava, miras payının devri sözleşmesine dayalı TMK'nın 677. maddesi uyarınca açılan pay iptali ve tescil isteğine ilişkindir. Terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda mirasçılar arasında yapılan sözleşmelerin geçerliliği yazılı şekle bağlıdır (TMK.m.677/1). Mirasçılar arasındaki devirler için söz konusu olan bu yazılı şeklin adi yazılı olarak yapılması yeterlidir. Az yukarıda bahsedilen tapu kaydından da anlaşıldığı üzere, 15.05.1992 tarihli "Taahhütname" başlıklı sözleşmenin düzenlendiği esnada dava konusu taşınmaz iştirak halinde mülkiyet hükümlerine tabi olup, dava konusu taşınmazlarda, kayıt malikinin mirasçıları olduğu anlaşılan taraflar arasında yapılan ve miras payının devrine ilişkin bulunan dayanak sözleşme TMK’nın 677. maddesi hükmü uyarınca kural olarak geçerli ve sonuç doğuran bir sözleşmedir.
 
 ## Yargıtay 1. HD 2021/2086 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680564000)
 
 Ne var ki, davacı ...’nın davalı ...’ya verdiği vekaletnamenin haricen taraflar arasında imzalanan taksim sözleşmesinin yerine getirilmesi amacıyla yapıldığı, ancak miras taksim sözleşmesinde davacıya isabet eden 489 ada 608 sayılı parseldeki 1 nolu meskenin 1/7 payın vekil tarafından vekalet görevinin kötüye kullanılması suretiyle eşi davalı ...’ye temlik edildiği gözetildiğinde sadece bu taşınmaz için davanın kabulüne karar verilmesi gerektiği ortadadır.
 

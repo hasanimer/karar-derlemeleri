@@ -27,6 +27,8 @@ Hukuk Dairesinin 07.03.2023 tarih ve 2021/75 08... /1372 Karar sayılı kararı 
 
 ## Yargıtay 1. HD 2024/4962 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109584200)
+
 1325 ada 82 parsel yönünden ise murisin sözleşmenin yapıldığı tarihte 75 yaşında olduğu, 2020 yılında da öldüğü, sözleşmenin yapıldığı tarihte tek mirasçı olan davacı ... ile murisin aralarının bozuk olduğu, şöyle ki murisin 02.05.2017 tarihinde dava açarak davacı ...'ın evlatlığından düşürülmesini talep ettiği, Mahkemenin ise görevsizlik kararı verdiği, bundan ayrı olarak murisin 26.03.2019 tarihinde yine davacıyı evlatlıktan çıkarmak amacıyla dava açtığı, Giresun Aile Mahkemesinin 2019/188 Esas, 2019/656 Karar numaralı kararı ile davanın reddine karar verildiği, kararın İstinaf ve Yargıtay incelemesinden geçerek 20.02.2020 tarihinde kesinleştiğinin anlaşıldığı, yine dava konusu edilen bu taşınmazın 2015 yılındaki vasiyetnameye de konu edildiğinin anlaşıldığı, murisin açtığı ilk davadan hemen sonra (3 gün sonra) evlatlık ilişkisinin kaldırılması davası devam ederken kendisinin de sağlık durumu günden güne kötüleştiği için ölümünden sonra terekesi Gökhan'a geçeceğinden 05.05.2017 tarihinde ölünceye kadar bakma sözleşmesi yaparak tek malvarlığı olan arazisini elinden çıkardığı, kaldı ki ölünceye kadar bakma sözleşmesi ile taşınmazı elde eden davadışı ... ...'nın yaklaşık 2 ay gibi
 kısa bir sürede (12.07.2017) 1325 ada 82 parsel sayılı taşınmazı kızı olan ve bu durumları bilebilecek durumdaki davalı ...'ye satmasının da murisin bu muvazaalı işlemi gizlemeye çalıştığını gösterdiği, dolayısıyla her ne kadar murise bakım/gözetim sağlanmışsa da bu sözleşmenin aslında bakıp gözetilme koşulu ağırlıklı değil, mirasçıdan mal kaçırmak düşüncesi ile yapıldığı, muvazaa ile illetli olduğunun açık olduğu, ayrıca murisin 02.05.2017 tarihinden itibaren davacının evlatlıktan çıkarılması yönünde ölümüne kadar (12.02.2020) kararlılıkta olduğunun görüldüğü, tüm bu işlemler ve oluş tarihleri nazara alındığında murisin tüm mal varlığını davadışı ... ...'ya aktarma kararlılığında olduğu, bunun tespit edilmemesi için davadışı ...'in taşınmazı kızı olan davalı ...'ye devrettiği, bunun aslında ölünceye kadar bakımın amaçlanmadığını, mirasçıdan mal kaçırma amacı güdüldüğünü gösterdiği, ayrıca ilk işlem olan satış ve ikinci işlem olan ölünceye kadar bakma sözleşmesi arasında 6 sene gibi uzun bir sürenin olması karşısında ilk işlemin yapıldığı tarihte murisin taşınmazları elden çıkarma kastı olsaydı ölünceye kadar bakma sözleşmesi ile devrettiği taşınmazı da devredebileceği, bu işlem
 için 6 sene gibi zaman aralığı bırakmasının hayatın olağan akışına uygun olmadığı, o halde, ölünceye kadar bakma sözleşmesi ile temlik edilen taşınmaz yönünden muvazaa iddiasının gerçekleştiği gözetilerek davanın kabulüne karar verilmesi gerekeceğinden İlk Derece Mahkemesi'nin muvazaayı reddedip, tenkis talebini kabul etmesinin usul ve yasaya aykırı olduğu, kaldı ki muvazaa iddiası ispatlanamamış olsaydı dahi Yargıtayın yerleşik içtihatlarına göre ölünceye kadar bakma sözleşmesinin ivazlı olduğu kanısına varılırsa tenkis talebinin de reddine karar verilmesi gerektiği, davacının istinaf talebinin bu yönüyle kabulüne karar verilmesi gerektiği, bu itibarla davanın kısmen kabulüne/reddine karar verilmesi gerekirken tümüyle kabulüne karar verilmesinin usul ve yasaya aykırı olduğu gerekçesiyle her iki taraf vekillerinin istinaf başvurusunun kısmen kabulü ile İlk Derece Mahkemesi kararının 6100 sayılı HMK'nın 353/1-b.2 maddesi gereğince kaldırılarak yeniden esas hakkında hüküm kurmak suretiyle dava konusu 734 ada 16 parsele ilişkin muris muvazaası ve tenkis davasının reddine, 1325 ada 82 parsele ilişkin olarak davanın kabulüne karar verilmiştir.
@@ -37,6 +39,8 @@ Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmazsa te
 
 ## Yargıtay 7. HD 2023/4736 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980080400)
+
 Mahkemece 15.11.2022 tarihinde tefhim edilen kısa kararın 1 numaralı bendinde, yalnızca "davanın reddine" karar verilmiş olduğu halde, gerekçeli kararda 6100 ... Hukuk Muhakemeleri Kanunu'nun 305 ve 305/A maddesindeki koşullar oluşmadığı halde 6100 ... Kanun'un 305/A maddesi gerekçe gösterilerek; 1 numaralı bentte "davanın reddine", iki numaralı bentte ise "davacının terditli talebi olan tenkis isteminin hukuki yarar şartı yokluğundan usulden reddine" karar verilmesi suretiyle kısa karar ve gerekçeli karar arasında çelişki oluşturacak şekilde karar verilmesi doğru görülmemiş bu sebeple hüküm bozulması gerekmiştir.
 
 Kabule göre de; mirasbırakan tarafından düzenlenen Sivas 1. Noterliği'nin 24.06.2005 tarihli ve 13415 yevmiye numaralı ölünceye kadar bakım sözleşmesine konu edilen taşınmazlar, yine mirasbırakanın düzenlediği Almus Noterliği'nin 04.03.2002 tarihli ve 0267 numaralı vasiyetnameye de konu edildiğinden, mirasbırakanın ölünceye kadar bakım sözleşmesi ile vasiyetnameden döndüğünün kabulü gerekir. Diğer yandan ölünceye kadar bakım sözleşmesine konu edilen taşınmazlar her ne kadar halen mirasbırakanın adına kayıtlı ise de bakım borçlusunun bakım alacaklısının külli haleflerine karşı her zaman edimin yerine getirilmesi için tescile zorlayabileceği açıktır. Bu bakımdan sözleşmeye konu edilen taşınmazların mirasbırakan adına kayıtlı olmasının davacıların hukuki yararının olmadığı sonucuna götürmeyeceği tartışmasızdır.
@@ -44,10 +48,14 @@ Dolayısıyla dava konusu edilen ölünceye kadar bakım sözleşmesinin arkası
 
 ## Yargıtay 1. HD 2020/3269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596218300)
+
 Davanın reddine ilişkin olarak verilen karar Dairece, "denkleştirme savunması üzerinde durulması, muvazaa iddiasının kanıtlanması halinde son kayıt malikinin iyiniyetli olup olmadığının araştırılması, davanın reddi gerektiği kanaatine varıldığı takdirde tenkis isteği bakımından bir değerlendirme yapılması" gerektiği gerekçeleri ile bozulmuş, mahkemece bozma kararına uyularak yapılan yargılama sonucunda, mirasbırakanın yaptığı temlikin mirasçıdan mal kaçırma amaçlı ve muvazaalı olduğu,son kayıt malikinin de iyiniyetli olmadığı gerekçeleri ile tapu iptal ve tescil isteğinin kabulüne karar verilmiş, kararın davalılar tarafından temyizi üzerine Dairece, "O hâlde; Dairenin bozma ilamı doğrultusunda toplanan delillere, tanık anlatımlarına ve anılan vasiyetname içeriğine yukarıda değinilen ilkeler ışığında bakıldığında, mirasbırakanın davacıya yapmış olduğu parasal yardımlar ile davalı kızı ve eşine yapılan temlikler birlikte değerlendirildiğinde, murisin gerçek iradesinin sağlığında hak dengesini gözeterek, kabul edilebilir ölçüde ve tüm mirasçıları kapsar biçimde bir paylaştırma yapmak olduğu, bir başka ifade ile mal kaçırma iradesi taşımadığı sonucuna varılmaktadır.
 Hâl böyle olunca, davanın reddine karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı olduğu üzere hüküm kurulması doğru değildir." gerekçesiyle karar ikinci kez bozulmuş, hükmüne uyulan bozma ilamı doğrultusunda yapılan yargılama neticesinde mahkemece, bozma ilamında belirtilen nedenlerle davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2019/4079 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515966100)
 
 Asıl ve birleştirilen 2001/7 esas sayılı davalar; tenkis, birleştirilen 2004/359 esas sayılı dava; muris muvazaası hukuksal nedenine dayalı tapu iptali ile saklı payları oranında tescil, mümkün olmazsa tenkis, birleştirilen 2012/732 esas sayılı dava ise; vasiyetnamenin tenfizi istemine ilişkindir.Davacı ... asıl davada; mirasbırakanı ...'in 24.01.2000 tarihinde öldüğünü, sağlığında 06.05.1999 tarihinde düzenlediği resmi vasiyetname ile, saklı payını ihlal edecek şekilde davalılar yararına kazandırmada bulunduğunu, bu nedenle vasiyetname ile yapılan temliklerin tenkisi ile adına tesciline karar verilmesini, mümkün olmazsa hesaplanacak tenkis bedelinin yasal faizi ile davalılardan tahsiline karar verilmesini istemiş, aleyhine açılan davaların reddini savunmuştur.Davacılar ... ve arkadaşları 2001/7 esas sayılı davada; mirasbırakan Mücevher’in yaptığı vasiyetname ile saklı paylarını ihlal ettiğini ileri sürerek tenkise karar verilmesini istemişler, 2004/359 esas sayılı davada ise; mirasbırakanın ölüme bağlı tasarrufu yanında bir kısım taşınmazlarını da muvazaalı olarak davalılara devrettiğini, kendilerinden mal kaçırmak amacıyla bu işlemlerin yapıldığını ileri sürerek, saklı payları
 oranında iptal ve tescile, mümkün olmazsa tenkise hükmedilmesini talep etmişler, aleyhlerine açılan davaların reddini savunmuşlardır.Davacı ... açtığı 2012/732 esas sayılı davada, ... 2. Noterliği’nin 06.05.1999 tarih ve 6061 yev no’lu vasiyetnamesinin tenfizini istemiş, aleyhine açılan davaların reddini savunmuştur.Davalı ..., mirasbırakan tarafından tasarruf nisabının aşılmadığını bildirip, davanın reddi gerektiğini bildirmiştir.Mahkemece, yapılan yargılama sonunda asıl dava ile birleştirilen 2001/7 esas sayılı davanın kabulüne, birleştirilen 2004/359 esas sayılı davanın ise reddine ilişkin olarak verilen karar, Yargıtay 16. Hukuk Dairesi tarafından özetle; denetime elverişli tenkis hesaplaması yapılarak sonuca gidilmesi gerektiğinden bahisle bozulmuş, bozma ilamına uyularak yapılan yargılama neticesinde asıl ve birleştirilen 2001/7 esas ile 2004/359 esas sayılı davaların reddine, birleştirilen vasiyetnamenin tenfizi istemli davanın ise kabulüne karar verilmiştir.Hemen belirtilmelidir ki, birleştirilen 2004/359 esas sayılı davada, mirasbırakanın mirastan mal kaçırma amaçlı ve muvazaalı olarak temlikler yaptığı iddia edilerek saklı pay oranında iptal ve tescil istenmiştir.
@@ -55,9 +63,13 @@ Muris muvazaasına dayalı davalarda mirasçılar tarafından miras payı oranı
 
 ## Yargıtay 8. HD 2015/21860 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402593500)
+
 Mahkeme tarafından yapılan nitelendirmeden de anlaşılacağı üzere dava, muris muvazaası hukuksal nedenine dayalı olarak tapu iptali ve tescil isteği ile açılmış ise de yargılama sırasında vasiyetnamenin tenfizi ile dava konusu taşınmazın yarı payına ait tapu kaydının iptali ile davacı adına tescil şeklinde ıslah edildiğine, yargılama ıslah isteği yönünden yürütülerek çözüme kavuşturulduğuna, temyiz isteği de davanın nitelendirmesinin hatalı olduğuna yönelik bulunduğuna göre, Yargıtay Kanunu'nun 14. maddesi uyarınca Yargıtay Birinci Başkanlık Kurulu'nun 19.01.2015 tarih 2015/8 sayılı Kararı ile hazırlanıp, 22.01.2015 tarihli ve 29244 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren hukuk dairelerine ilişkin iş bölümü uyarınca, hükme yöneltilen temyiz itirazlarının incelenmesi Yargıtay (3.) Hukuk Dairesi'nin görevine girmektedir. 11 Nisan 2015 tarihi itibariyle Resmi Gazete'de yayımlanarak yürürlüğe giren 6644 sayılı Kanun'un 2. maddesi ile değişik 2797 sayılı Kanun'un 60. maddesinin 1. ve 3. fıkraları uyarınca dosyanın görevli daireyi belirlemek üzere HUKUK İŞBÖLÜMÜ İNCELEME KURULU'NA GÖNDERİLMESİNE, 04.12.2015 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2015/3274 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119918000)
 
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı miras payı oranında tapu iptali ve tescil olmazsa tenkis isteğine ilişkindir.
 
@@ -69,6 +81,8 @@ Ne var ki; mahkemece tenkisle ilgili hesap ve değerlendirme yapılırken yanıl
 
 ## Yargıtay 1. HD 2014/14265 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84427600)
+
 Şöyle ki; asıl davada mirasçılardan M.. N.., muris tarafından yapılan temliki işlemin mirastan mal kaçırma amaçlı ve muvazaalı olduğu, gerçekte diğer davalı F. K.ya devrini sağlayabilmek amacıyla davalı A.. D..'e temlik edildiğini, ancak F.K. ile eşi B. K.'nın alacaklılarının icra takibinden korunabilmek için henüz devrin gerçekleştirilmediğini ileri sürerek açtığı asıl davada tapu kaydının iptali ile kendisi ve davalı kardeşi Fatmaana adına tesciline karar verilmesi, birleşen davada ise 23/09/2004 tarihli vasiyetnamenin iptali isteğinde bulunmuştur. Dolayısıyla dava terekeye iade istemli açılmıştır. Davacı dışındaki mirasçı Fatmaana'nın eldeki davada salt davalı olarak gösterilmesinin iştirakin sağlanması sonucunu doğurmayacağı açıktır. Nitekim yukarıda anılan bozma ilamında sonra 06/09/2012 tarihli celsede mirasçı olan davalı F. K.; davaya muvafakat etmediğini, kayıt maliki olan diğer davalıdan bir talebinin bulunmadığını beyan etmiştir. Bu durumda iptal edilecek pay tüm ortakların hakkını ilgilendireceğine göre ve mirasçı F.
 K.'nın davaya muvafakat etmemesi karşısında miras şirketine 4721 sayılı Türk Medeni Kanunu'nun (TMK) 640. maddesi uyarınca atanacak temsilci aracılığı ile davanın sürdürülmesi gerekirken anılan hususlar gözardı edilerek, mirasçının davalı olarak gösterilmesi ile yetinilerek yazılı şekilde karar verilmiş olması yerinde değildir.
 
@@ -76,15 +90,21 @@ Hâl böyle olunca, Dairenin bir önceki bozma kararında değinilen ilkeler çe
 
 ## Yargıtay 1. HD 2014/7189 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84177000)
+
 Bu işlem yönünden yukarıda açıklanan 01.04.1974 tarih, 1/2 sayılı İçtihadı Birleştirme Kararının uygulanma yeri yoktur.
 
 ## Yargıtay 1. HD 2013/17840 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79410100)
 
 Toplanan deliller ve tüm dosya içeriği ile murisin, çekişmeye konu 10 parça taşınmazını vasiyetname ve bağış yoluyla oğulları olan davalılara temlik ettiği tarihte ehliyetli olduğunun Adli Tıp Kurumu, 4. İhtisas Kurulunun 12/11/2012 tarih, 4068 sayılı raporu ile saptanmak ve bağış yoluyla yapılan temliklerde 01/04/1974 tarih, 1/2 sayılı İçtihadı Birleştirme Kararı uyarınca muvazaa iddiasında bulunulamayacağı, noterde düzenlenen vasiyetnamenin geçerlilik koşullarını taşıdığı gözetilmek suretiyle ehliyetsizlik, muris muvazaasına dayalı tapu iptal ve tescil, vasiyetnamenin iptali davalarının reddine karar verilmiş olmasında bir isabetsizlik yoktur.
 
 Ancak; bağış ve vasiyetname ile yapılan kazandırmalarda tenkis isteği yönünden inceleme yapılması gerektiği kuşkusuzdur. Nitekim bu husus mahkemenin de kabulündedir. Ne var ki, mahkemece hükme yeterli ve elverişli tenkis incelemesi yapıldığını söyleyebilme olanağı yoktur.
 
 ## Yargıtay 1. HD 2012/7846 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79475200)
 
 Dava, tenkis isteğine ilişkin olup, mahkemece davanın kabulüne karar verilmiştir.
 
@@ -95,6 +115,8 @@ Bilindiği üzere, miras bırakanın vasiyetname ve miras mukavelesi şeklinde y
 Hal böyle olunca, tenkis isteğiyle açılan davanın reddine karar verilmesi gerekirken yazılı olduğu üzere karar verilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2011/12471 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79249800)
 
 Dava, tapu iptali ve tescil, mümkün olmadığı takdirde tenkis, birleşen dava, vasiyetnamenin tenfizi isteğine ilişkindir.
 

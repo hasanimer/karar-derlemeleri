@@ -22,17 +22,25 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2009/1888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78312500)
+
 Dosya kapsamına, toplanan delillere göre, tarafların murisinin davalıya ölünceye kadar bakma akdiyle devrettiği taşınmaz yönünden terekeden mal kaçırmak amacı olmadığı gözetilmek suretiyle bu konuda açılan davanın reddine karar verilmesinde bir isabetsizlik yoktur. O halde, davacıların bununla ilgili temyiz itirazları yerinde değildir.Reddine. Davacının (karşı davalı olarak) tenkis ile ilgili temyiz isteklerine gelince, mahkemece muris tarafından 6.900 TL’nin saklı payı zedelemek amacıyla davalıya verildiği kabul edilerek tenkis hakkında hüküm kurulmuştur. Oysa, davacı bu miktardaki paranın saklı miras payını zedelemek amacıyla davalıya verildiğini ispatlayamamıştır. Bu durumda karşı tenkis davasının reddine karar verilmesi gerekirken, kabul edilmesi doğru olmadığı gibi, kabule göre de, tenkisten hüküm kurulduğundan ne miktar için hüküm kurulduğunun kararda belirtilmesi gerekirken soyut olarak sadece (davanın kabulüne) denilmek suretiyle hüküm kurulması da doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/14235 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80470700)
 
 Olayları açıklamak taraflara hukuki niteleme hakime aittir. (HUMK.76.m.) Dava dilekçesi; vasiyetnamenin iptali talebi yanında tenkis isteğini de içermektedir. İptal isteği reddedildiğine göre; tenkis yönünden davacıların iddiaları incelenmek, tarafların bu konudaki delilleri toplanmak, sonucu uyarınca hüküm tesis edilmesi gerekirken eksik inceleme ile yazılı şekilde red kararı verilmesi yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2008/9070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80486400)
+
 Dava; vasiyetnamedeki yükümlülüklerini yerine getirmeyen yasal mirasçılar aleyhine açılan tazminata yöneliktir. Davalıların tenkis def'inde bulunmaları davayı tenkis davasına dönüştürmez. Hükmedilen tazminata dava tarihinden itibaren davacı yararına faize hükmedilmesi doğru olup esasen bu yön önceki kararlarda temyizin şumülü dışında bırakılarak kesinleşmiştir. Ne varki bu husus dairemiz incelemesinde gözden kaçtığından davacının bu konudaki temyiz itirazları reddedilerek, bu bölüm onanmış olmakla davacının bu yöne ilişkin karar düzeltme isteminin Hukuk Usulü Muhakemeleri Kanununun 440/I-4. maddesi uyarınca kabulüne dairemizin 12.11.2007 tarihli ilamının 2. bendinde yeralan bozma sebebinin kaldırılmasına, hükmün faize ilişkin bölümünün de onanmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 1. HD 2008/7450 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78280900)
 
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı tapu iptali ve tescil, olmazsa tenkis veya tazminat isteklerine ilişkindir.
 
@@ -42,6 +50,8 @@ Diğer taraftan, 743 Sayılı Medeni Kanunun 518. maddesinden farklı olarak 472
 
 ## Yargıtay 15. HD 2008/6649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857296200)
+
 Dava arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı ve cezai şart alacağının tahsili istemlerine ilişkindir.
 
 …
@@ -50,6 +60,8 @@ Dava arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme taz
 
 ## Yargıtay 1. HD 2008/5328 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78026700)
+
 Dava, 41 parselle ilgili olarak muris muvazaası hukuksal sebebine dayalı miras bırakan adına tapu iptal ve tescil olmazsa tenkis; 48 parsel yönünden münhasıran tenkis, 51 parsel için ise tenkis ve kadastro öncesi nedene dayalı keza miras bırakan adına iptal tescil isteklerine ilişkindir.
 
 Yargılama sırasında, Türk Medeni Kanununun, 640. maddesi uyarınca terekeye temsilci atanmış, ne varki, temsilci tarafından vekalet verilmek suretiyle davayı yürüten avukat davadan çekilmiş mümessil de davayı takip etmemiştir. Bilindiği gibi, temsilci atanmakla mirasçıların davayı takip yetkisi sona erer ve davayı takip yetkisi mümessile geçer. Aynı zamanda, tereke temsilcisi mirasçılara karşı vekalet hükümlerine göre sorumludur. Bütün işlemleri yapma yetkisi de tereke temsilcisine aittir. Tereke temsilcisi, davayı takip etmediğine göre muvazaa nedeniyle açılan iptal davası ile kadastro öncesi nedene dayalı olarak 51 parsele yönelik davacılar açısından HUMK'nun 409. maddesi gözetilmek suretiyle işlem yapılması zorunlu hale gelmiştir.
@@ -57,6 +69,8 @@ Yargılama sırasında, Türk Medeni Kanununun, 640. maddesi uyarınca terekeye 
 Tenkis isteklerine gelince, her nekadar mahkemece denkleştirme olgusu gerekçe gösterilmek suretiyle davanın reddine karar verilmiş ise de tüm mirasçıları kapsayacak şekilde bir paylaştırma yapılmadığı (davacılardan N.e herhangi bir temliki işlemin yapılmadığı gözetildiğinde) yöntemine uygun denkleştirmeden sözedilemeyeceği açıktır. Ancak, dosyaya yansıyan bilgi ve belgelere göre olayda tenkis koşullarının da oluştuğunu söyleyebilme olanağı yoktur. O halde, tenkis isteğinin reddedilmiş olması bu nedenle doğrudur. Tarafların, bu yöne değinen temyiz itirazları yerinde değildir, reddine.
 
 ## Yargıtay 1. HD 2008/3787 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78385100)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil ya da tenkis isteğine ilişkindir.
 
@@ -68,6 +82,8 @@ Hal böyle olunca, davacının tenkis isteği bakımından tarafların delilleri
 
 ## Yargıtay 1. HD 2007/11126 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78114000)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescili ile tenkis isteğine ilişkindir.
 
 …
@@ -78,13 +94,19 @@ Hal böyle olunca, birleşen davada tenkis isteği yönünden bir araştırma ya
 
 ## Yargıtay 2. HD 2007/8907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83318700)
+
 2-4721 Sayılı Türk Medeni Kanununun 576 maddesi; miras malvarlığının tamamı için mirasbırakanın yerleşim yerinde açılacağını, tenkis davasının da bu yer mahkemesinde görüleceğini hükme bağlamıştır. Buradaki yetki kesindir. Davalı 22.05.2006 günlü cevap dilekçesinde yetki itirazında bulunmuş, F.’nin yetkili olduğunu ileri sürmüştür. Yetki itirazının Hukuk Usulü Muhakemeleri Yasasının 222-225 maddesi hükümleri çerçevesinde hadise şeklinde incelenmesi gerekir. Mahkemece, tarafların öncelikle yetkiye yönelik delilleri toplanıp, dosyadaki belgelerle birlikte değerlendirilip sonucu uyarınca karar verilmesi gerekir.Eksik inceleme ile yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2006/13133 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83933400)
+
 Murisin kayıtsız ve şartsız rücua hakkı olan bağışlamaları ile adet üzerine verilen hediyeler müstesna olarak vefatından evvelki bir sene içinde yapılmış bağışlamaları tenkise tabidir. ( TKM. md. 507/3) Murisin ölümünden önce 4.10.1974 günü yaptığı bağış bu kapsamda olmadığı ve mahfuz hisse kurallarını bertaraf kastı açıkça belirlenmediği halde tenkise karar verilmesi doğru olmamıştır. ( TKM. md. 507/4 )
 
 ## Yargıtay 1. HD 2006/12505 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78057700)
 
 Ancak;davada tapu iptali ve tescil isteği yanında tenkis talebi de vardır. Koşulların oluşması halinde bağış hükmündeki miras bırakan işleminin tenkise tabi olacağı kuşkusuzdur.
 
@@ -104,6 +126,8 @@ TBK'nın 182/3. maddesi "Hâkim, aşırı gördüğü ceza koşulunu kendiliğin
 
 ## Adana BAM 9. HD 2026/1113 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208441900)
+
 Dava icra takibi nedeniyle borçlu olmadığının tespiti istemine ilişkindir.
 
 …
@@ -116,18 +140,26 @@ Tarafların tacir olduğu gözetildiğinde, mahkemece yüklenici lehine hükmedi
 
 ## İstanbul BAM 13. HD 2026/813 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206621600)
+
 Davalı işten ayrıldığında SGK kayıtlarına göre aylık 10.246,72 -TL ücret aldığı, davalının geçimini sağladığı ücretin 2,9 aylık ücretine tekabül eden 30.000-TL cezai şart isteği fahiş sayılmalıdır.Davacı tarafça sözleşmedeki cezai şart tutarının tamamı talep edilmemiş olup, eldeki dava kısmi dava olarak açılmış olup ;kararlaştırılan cezai şart tutarının tamamı talep edilmemiş olsa da kısmi davada talep olunan miktarda fahiş bulunarak tenkis yapılmasında hukuka aykırılık bulunmamaktadır.Davacı vekilinin toplam miktar üzerinden tenkis yapılması gerektiğine ilişkin istinaf nedeni yerinde değildir.Açıklanan nedenlerle, mahkeme kararı usul ve yasaya uygun olduğundan taraf vekillerinin istinaf başvurusunun HMK 353/1-b1 maddesi gereğince ayrı ayrı esastan reddine karar verilmesi gerektiği kanaatine varılarak aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 12. HD 2026/164 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190612900)
 
 Cezai şartın tenkis edilmesi nedeniyle işlemiş faiz bakımından fazla istem red edildiğinden bu miktarın da tenkis hükümlerine tabi tutulması ,yargılama gideri hesaplanırken karşı yan vekalet ücreti takdir edilirken bu hususun dikkate alınması,tenkis nedeniyle red edilen cezai şart işlemiş faizi bakımından davalı yararına vekalet ücreti hükmedilmemesi gerekirken davalı yararına fazla vekalet ücreti takdir edilmesi doğru bulunmamıştır. Davalının hak ettiği vekalet ücreti cezai şarttan fazla isteme ilişkin olan 8.498,60-TL ile sınırlıdır.
 
 ## İstanbul BAM 12. HD 2026/105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190093300)
+
 Ancak tenkis nedeniyle reddedilen kısım üzerinden davalı yararına yargı gideri ve vekalet ücretine hükmedilmemiştir.İtirazın iptali davası, icra takibine sıkı sıkıya bağlı, itiraz üzerine duran icra takibinin devam edebilmesini sağlayan ve takip hukuku içinde olmakla birlikte, maddi hukuk ilişkisinin incelenerek uyuşmazlığı kesin hükümle sonuçlandıran bir davadır. Davanın takibe bağlılığı alacağın miktarı bakımından söz konusu olduğu gibi alacağın kaynağı bakımından da geçerlidir.İtirazın iptali davalarında takipte dayanılmayan bir belgeye dayanılamaz.Ancak ilamsız icra takibinin belgeye dayanması gerekmez.İcra takibinde davacı tarafça takip dayanağı olarak 09.01.2020 tarihli ihtarname gösterilmiştir. İhtarname içeriği ise ödenen promosyon bedelinin kalan süreye isabet eden kısmı ile protokole dayalı cezai şart talebi içermektedir.Dolayısıyla borcun sebebi olarak bu iki alacak kalemine dayanıldığından genel hükümlere göre alacağını ispat zımnında banka kayıtlarına delil olarak dayanılabileceğinden davalı vekilinin davada ihtarname dışında bir delile dayanılamayacağına ilişkin istinaf nedeni yerinde değildir.
 Ancak ceza koşulunun istenip istenemeyeceği, geçerli olup olmadığı ve miktarının fahiş olup olmadığı hususları yargılamayı gerektirir niteliktedir. Yerleşmiş yargı uygulamasında da cezai şart alacağı tazminat kabilinden olduğundan likit olmadığı kabul edilmektedir.Taraflar arasındaki protokolde kararlaştırılan cezai şart maktu bir tutar olsa da, yargılamayı gerektiren bu istek nedeniyle davacı lehine icra inkar tazminatına hükmedilmesi doğru olmamıştır.Davalı yargılamada vekil ile temsil edilmesine rağmen davalı vekilinin karar başlığında gösterilmemesi ve ayrıca reddedilen kısım bakımından davalı lehine vekalet ücretine hükmedilmesi gerekirken bu konuda bir karar verilmemesi doğru değildir.
 
 ## İstanbul BAM 12. HD 2025/2057 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186658000)
 
 Dava, rekabet yasağına aykırılıktan kaynaklanan cezai şart istemine ilişkindir.
 
@@ -137,12 +169,16 @@ Davalı işçinin taahhüt ettiği ücretten 5 ay oranında bir takdiri indirim 
 
 ## İstanbul BAM 12. HD 2025/1581 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181832200)
+
 Davacı tarafından düzenlenen 05/09/2022 tarihli iş bırakma formunda personel taşıma işinin 07/10/2022 tarihine kadar devam edeceği yazılı olup, davacının 13/09/2022 tarihine kadar işe devam ettiği tarafların beyanından anlaşılmaktadır. Davacı, hakedişlerinin zamanında ödenmediğini, kendisine verilen taşıma işi dışında vaadedilen diğer taşıma işinin ise sürekli yaptırılmaması nedeniyle zarar ettiğini ileri sürmekte ise de taraflar arasındaki sözleşmenin 2. maddesinde hakedişlerin fatura tebliğ tarihinden itibaren 30 gün içinde ödeneceğinin düzenlendiği, davacının işi bıraktığı 13/09/2022 tarihi itibariyle 31/08/2022 tarihli hakediş yönünden 30 günlük sürenin dolmaması nedeniyle davalının temerrütünün söz konusu olmadığı, davacı ile davalı arasında ... Elektrik firması dışındaki firmaların taşıma işinin sürekliliği konusunda davalının taahhütte bulunduğuna dair bir delil bulunmadığı anlaşılmakla davacının aksi yöndeki iddiaları yerinde görülmemiştir. Bu durumda davacının sözleşmenin 4. maddesindeki yükümlülüğünü yerine getirmediği açık olup davalının cezai şart talep etme hakkı doğmuştur.
 Davacı tedarikçinin son hakediş fatura tutarı 31.685-TL+KDV olduğundan davalı tarafından talep edilen 33.000-TL tutar bu miktarın altında kalmaktadır. Bahsi geçen ceza maddesinin "Taşımacı ile Sözleşmeli Taşımacı Arasında Yapılan Servis Taşımacılığı Tip Sözleşmesi"ne aykırı yönü de bulunmamaktadır.Bakırköy 1. ATM'nin 2025/279 E. Sayılı dava dosyasında davacının hakedişe dayalı olarak başlattığı icra takibine itirazın iptaline ilişkin davada davalı eldeki davanın konusunu oluşturan cezai şart faturasına dayalı olarak takas defiinde bulunulmuş olup, eldeki dava dosyası bekletici mesele yapıldığından artık cezai şart tutarının fahiş olup olmadığının, tenkisi gerekip gerekmediğinin eldeki dava dosyasında değerlendirilmesi gerekir. Sözleşmenin tarafları sözleşme özgürlüğü çerçevesinde sözleşmenin konusunu ve cezai şartın miktarını belirlemede özgür iseler de bu özgürlük sınırsız ve sonsuz değildir. TBK'nın 27. maddesi bu özgürlüğün sınırını çizmiştir.
 
 TTK'nın 22. maddesi gereğince tacir sıfatını haiz borçlunun TBK'nın 182/3 uyarınca cezai şartın tenkisini isteyemeyeceği düzenlenmiş ise de TBK'nın 27. maddesi gereğince hakim, fahiş gördüğü cezaları re'sen tenkis etmekle yükümlüdür. Sözleşmedeki cezai şart düzenlemesinin amacı, tarafların sözleşmedeki hak ve menfaatleri dikkate alındığında davacının bir aylık hakedişine denk gelen ceza bedeli fahiş olup yarı oranda tenkis yapılması somut olayın koşullarına ve hakkaniyete uygun düşeceği değerlendirilmiştir.
 
 ## İstanbul BAM 12. HD 2025/1426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170325300)
 
 Dava, bayilik sözleşmesinin süresinden önce feshine bağlı kar kaybı ve cezai şart istemine ilişkindir.
 
@@ -152,10 +188,14 @@ Buna göre somut olayda sözleşmenin uzun süre ifa edilmesine, günlük alım 
 
 ## İstanbul BAM 13. HD 2025/1172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160942100)
+
 Dava konusu uyuşmazlıklardan ilki; davacının murisi ...'ın ölüm tarihi itibariyle itibariyle davalı şirketlerde bulunan paylarından davacıya miras yolu ile intikal etmesi gerektiğini ileri sürdüğü paylar bakımından TTK'nun 493 maddesine dayalı olarak devrin onaylanmamasının hukuka aykırı olup olmadığı; ikincisi ise muris ...'ın sağlığında davalı şirketlerde sahip olduğu payların davacıdan mal kaçırmak amacıyla muvazaalı olarak davalı gerçek kişilere devredilip devredilmediğine ilişkindir. Davacı yanın tenkis veya denkeştirme talebi bulunmamaktadır. Uyuşmazlıklardan ilkinin mutlak ticari dava olduğunda şüphe yoktur.
 Uyuşmazlıklardan ikincisi bakımından ise murisin sağlığında gerçekleştirilen hisse devirlerinin muvazaa nedeniyle geçersiz olup olmadığı hususlarında görevli mahkeme asliye hukuk mahkemesi ise de; her iki talebin birlikte değerlendirilmesi gerektiği, taleplerden ilkinin özel görevli mahkeme olan ticaret mahkemesinin görev alanına girmesi nedeniyle, ikinci talebin de özel görevli mahkeme olan asliye ticaret mahkemesinde görülmesinin zorunlu olduğu, davacının tenkis ve/veya denkeştirme talebi bulunmaması karşısında, ikinci talep bakımından da yargılamanın miras hukukuna ilişkin hükümler çerçevesinde değil, TBK'nun 19 maddesi çerçevesinde çözülüp sonuçlandırılacağı, davacının muvazaaya yönelik ikinci talebi bakımından da asliye ticaret mahkemesinin görevli olduğu, mahkemece bu hususlar nazara alınarak işin esasına girilmesi gerekirken, yazılı gerekçe ile görevsizlik kararı verilmesinin yerinde olmadığı anlaşılmış, davacı yanın istinaf başvurusu haklı bulunmuştur. Sonuç itibariyle; davacı yanın istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının 6100 Sayılı HMK'nun 353/1.a.3 maddesi uyarınca kaldırılmasına, dosyanın mahkemesine iadesine karar vermek gerekmiştir.
 
 ## İstanbul BAM 12. HD 2025/950 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160206800)
 
 Sözleşmedeki alım kotası tüm sözleşme süresini kapsayacak şekilde kararlaştırılmış olup, davalı-birleşen davada davacı ...'nın kota dolmamış olmasına çekince koymaksızın rağmen ürün vermeye devam etmesinin, müşteride cezai şartın uygulanmayacağı yönünde haklı güven oluşturduğu kabul edilemez. Asıl ve birleşen davada, sözleşmede yer alan cezai şart hükmünün geçersiz olduğu ileri sürülmüştür. Kural olarak genel işlem koşulları içeren sözleşme yapılması, yasal sınırlar içinde hukuken mümkündür. Bunun dışında sözleşmenin tarafları tacir olup, sözleşme hükümleri kolayca anlaşılabilecek niteliktedir. Sözleşmede kararlaştırılan cezai şart da dürüstlük kuralına aykırı bir düzenleme sayılamayacağından, haksız işlem şartı olarak kabul edilemeyecektir. Bu nedenle sözleşmede yer alan cezai şart hükmü geçerlidir. Buna göre müşterinin sözleşmede öngörülen satış kotalarını dolduramaması cezai şart sebebi olarak belirlenmiş olup, somut olayda da müşteri şirketin satış kotasını dolduramamış olması nedeniyle cezai şart talep koşulları oluşmuştur.
 Sözleşmenin imzalandığı tarihte yürürlükte olan 818 sayılı BK'nın 484. maddesi uyarınca, kefalet sözleşmesinin geçerli olması için yazılı şekilde yapılması ve kefilin sorumlu olduğu kefalet limiti olarak, belirli bir miktarın gösterilmesi gereklidir. Müteselsil kefil, asıl borçlunun borcundan (asıl borçlunun temerrütü dahil) kefalet limiti ve kendi temerrütlerinin hukuki sonuçları ile sorumludur. Somut olayda kefalet sözleşmesi yazılı olarak düzenlenmiş olup, kefalet limitinin de cezai şart miktarı olarak gösterildiği anlaşılmakla, kefalet sözleşmesi geçerli olup, dava konusu cezai şart alacağından asıl davada davacı kefil de asıl borçlu şirket ile birlikte müteselsilen sorumludur. Sözleşmede 70.000-USD cezai şart kararlaştırılmış olup, işbu dava konusu icra takibinde kısmi olarak 20.000-USD karşılığı 71.448-TL cezai şart talep edilmiştir. Taraflar cezanın miktarını tayin etmekte serbest iseler de, TBK'nın 182. maddesi hükmüne göre hakim, fahiş gördüğü cezaları re'sen tenkis etmekle yükümlüdür.
@@ -164,6 +204,8 @@ TTK'nın 22. maddesi gereğince, kural olarak tacirin cezai şarttan indirim yap
 Tenkis hakimin takdirine bağlı olup, tenkis nedeniyle davanın reddine karar verilen miktar bakımından ise karşı taraf yararına yargılama gideri ve vekalet ücretine hükmedilmeyecektir.
 
 ## İstanbul BAM 12. HD 2025/913 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159784700)
 
 Dava, davacıların keşideci ve avalist olarak yer aldığı bonoya dayalı icra takibi nedeniyle borçlu olunmadığının tespiti istemine ilişkindir.
 
@@ -178,6 +220,8 @@ Buna göre davacıların 76.591,36-TL asıl alacak, 415-TL işlemiş faiz ve 229
 
 ## İstanbul BAM 12. HD 2025/905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160226500)
+
 Dava, bayilik sözleşmesinin fesihle sona ermesi üzerine davalı bayiin tonaj taahhüdü nedeniyle kararlaştırılan cezai şart alacağının tahsili istemine ilişkindir.
 
 …
@@ -188,6 +232,8 @@ Bahsi geçen bu düzenlemelere göre davacının her bir yıllık dönem sonunda
 Davacının, alacaklı olduğunu iddia ettiği 107.814-USD tenkisi gerektirir niteliktedir. Ancak dava kısmi olarak açıldığından, talep olunan ve hükmolunan miktar bakımından tenkisi gerektirir bir hal bulunmamaktadır. Henüz talep edilmeyen miktar için de tenkis değerlendirilmesi yapılması mümkün değildir. İlk derece mahkemesince, kısmi olarak açılan davada sonuç olarak 1.000-USD'nin davalıdan tahsiline karar verilmesinde isabetsizlik görülmemiştir.
 
 ## İstanbul BAM 13. HD 2025/525 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160818900)
 
 Ayrıca aynı Kanun'un 444/2. maddesi “Rekabet yasağı kaydı, ancak hizmet ilişkisi işçiye müşteri çevresi veya üretim sırları ya da işverenin yaptığı işler hakkında bilgi edinme imkânı sağlıyorsa ve aynı zamanda bu bilgilerin kullanılması, işverenin önemli bir zararına sebep olacak nitelikteyse geçerlidir.” "... rekabet yasağının işçinin yaptığı iş nedeniyle edindiği bilgileri, çalışmaya başladığı başka bir rakip işletmede kullanarak davacı işverene önemli ölçüde zarar verme ihtimalinin bulunması halinde geçerli olacaktır.Bu durumda TBK 444/2 hükmü uyarınca öncelikle, rekabet yasağı düzenlemesinin geçerli olup olmadığının veya aşırı nitelikte olup olmadığının değerlendirilmesi gerekir..."Yargıtay 11.Hukuk Dairesi’nin 10.04.2019 tarihli 2018/1393 E., 2019/2838 K.
 "...Ancak;6098 sayılı TBK.’nın 182/ son maddesi gözönünde bulundurularak; kararlaştırılan cezai şartı fahiş olup olmadığı hususunda re'sen araştırma yapılarak bir değerlendirme yapılması, fahiş olduğu takdirde cezai şartta indirim yapılarak sonucuna uygun bir karar verilmesi gerekirken, bu hususda hiç değerlendirme yapılamadan eksik inceleme ile davanın kabulüne karar verilmesi doğru bulunmamış bununla birlikte dosyada yeniden yargılama yapılmasını gerektirir bir husus bulunmadığından, davacı vekilinin istinaf bu yönden kabulü ile HMK 353(1)b-2 uyarınca hükmün kaldırılmasına tek geçim kaynağı emeği ve bunun karşılığında aldığı maaşı olan işçinin rekabet etmeme taahhüdüne aykırı davranması karşılığında öngörülen 12 aylık brüt maaşına denk gelen cezai şartın fahiş olduğu ,hakkaniyet gereği, cezai şart takdiren % 60 oranında tenkis edilmesi hak ve nesafet kurallarına daha uygun olacağından, 7.290-TL nin cezai şart olarak davalıdan ihtarnamenin tebliği tarihi 22.06.2015 tarihinden itibaren işleyecek yasal faizi ile tahsiline ,fazla istemin tenkis nedeniyle reddine ,fazla istem tenkis nedeniyle reddolunduğundan davalı yararına vekalet ücreti ve yargı giderine hükmolunmamasına karar

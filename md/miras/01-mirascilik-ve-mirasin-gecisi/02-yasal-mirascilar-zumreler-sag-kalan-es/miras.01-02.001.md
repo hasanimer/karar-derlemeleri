@@ -28,6 +28,8 @@ Diğer yandan mirasçılıktan çıkarılmaya ilişkin iptal davası, mirasçıl
 
 ## Yargıtay HGK 2025/603 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179712900)
+
 Çocuk evlilik dışında doğmuş, ana ve babası sonradan evlenmiş ise evlilik dışında doğmuş olan bu çocuklar ana ve babasının evlenmesiyle kendiliğinden evlilik içinde doğan çocuklara ilişkin hükümlere tabî olurlar (4721 sayılı Kanun md. 292). Eşler, evlilik dışında doğmuş olan ortak çocuklarını, evlenme sırasında veya evlenmeden sonra nüfus memuruna bildirmekle yükümlüdürler. Bildirimin yapılmamış olması, çocuğun evlilik içinde doğan çocuklara ilişkin hükümlere tâbi olmasını engellemez. Kanun, bu yolla kurulan soybağına “sonradan evlenme yoluyla soybağının kurulması” demektedir. Bu yolla kurulan soybağı ise “sonradan evlenme yoluyla soybağının kurulmasına itiraz ve iptal davasıyla” (4721 sayılı Kanun md. 294) ortadan kaldırılır. Bu davayı, ana ve babanın yasal mirasçıları, çocuk (çocuğun ölmüş olması veya ayırt etme gücünü sürekli olarak kaybetmesi hâlinde altsoyu) ve Cumhuriyet savcısı açar. İtiraz eden, kocanın baba olmadığını ispatla yükümlüdür. Bu davada sadece “kocanın baba olmadığı itirazı” ileri sürülebilir. Bunun dışındaki itirazların bu davada dinlenilmesi mümkün değildir.
 Bu davalarda tanımanın iptaline ilişkin hükümler kıyasen uygulanır ve görevli mahkeme aile mahkemeleridir.
 
@@ -35,19 +37,27 @@ Baba ile çocuk arasında soybağı kurulmasının diğer bir yolu ise, 4721 say
 
 ## Yargıtay HGK 2025/35 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131585500)
+
 Türk Medeni Kanununun 612. maddesi gereğince tereke, sulh hukuk mahkemesince iflas hükümlerine göre tasfiye edilecek ve tasfiye sonunda arta kalan değerler, mirası reddetmemişler gibi hak sahiplerine verilecektir.
 
 Yukarıda yapılan açıklamalar ışığında somut olay değerlendirildiğinde; miras bırakanın en yakın yasal mirasçıları ..., ..., ..., ... ve ...’dan ibarettir. Davacı ... dışındaki diğer davacılar ..., ..., ..., ..., ... ve ...’ün taraf sıfatı bulunmamaktadır. En yakın yasal mirasçıların tamamı tarafından reddolunan mirasın, sulh hukuk mahkemesince iflas hükümlerine göre tasfiye edilmesi gerekmektedir.
 
 ## Yargıtay HGK 2024/370 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055552500)
+
 Evlatlık ve altsoyunun evlat edinene "kan hısımı gibi" mirasçı olacağından bahseden bu hükmün anlamı, evlatlık ve altsoyunun evlat edinenin altsoyuna dâhil olup, onun birinci zümre mirasçısı olarak mirasta hak sahibi olacağıdır. Evlatlık ve altsoyunun varlığı mirasın ikinci zümreye geçmesine engel olur. Sonuç olarak; evlatlık ilişkisi, evlat edinmeye ilişkin mahkeme kararının kesinleşmesi ile kurulur ve evlatlık bu andan itibaren yasal mirasçı sıfatını kazanır.
 
 ## Yargıtay HGK 2024/192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044860300)
+
 Saklı payın temel amacı, miras bırakanla yakın hısımlık içerisindeki mirasçıların korunmasıdır. Saklı pay hakkı; miras bırakanın sadece altsoyu, ana-babası ve eşi için söz konusudur \[4721 sayılı Türk Medeni Kanunu (4721 sayılı Kanun) Kanun md. 505]. Yeri gelmişken belirtmek gerekir ki; kardeşlerin saklı payı 04.05.2007 tarihli ve 5650 sayılı Kanun'la kaldırılmıştır. Bu nedenle, belirtilen tarihten sonra gerçekleşecek hesaplamalarda kardeşler saklı pay sahibi olamaz ve saklı paylarının ihlâl edildiğinden bahisle tenkis davası açamazlar.
 
 ## Yargıtay HGK 2024/38 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1007551200)
 
 Türk hukukuna, 4721 sayılı Kanun'un 194 üncü maddesi ile kazandırılmış olan aile konutu koruması; önemine binaen, eşlerden birinin ölümü hâlinde "sağ kalan eşin aile konutu üzerindeki hak sahipliği" nedeniyle, aynı Kanun'un mal rejimleri ve miras hukuku hükümlerine göre korunmaya devam edilmiştir. Bu kapsamda; 4721 sayılı Kanun'un 240 ncı madde ile edinilmiş mallara katılma rejiminde, 254 ve 255 inci maddeler ile paylaşmalı mal ayrılığı rejiminde, 279 uncu madde ile mal ortaklığı rejiminde ve 652 nci madde ile de eşler arasındaki mal rejimi ne olursa olsun mirasçılık sıfatına dayalı olarak mirasın paylaşımında, ölüm hâlinde sağ kalan eşin aile konutu üzerindeki talep haklarına ilişkin düzenlemeler yapılmıştır. Yapılan bu düzenlemelerle sağ kalan eşe "ölen eşine ait" olup da birlikte yaşadıkları konut üzerinde, edinilmiş mallara katılma rejiminde katılma alacağına, paylaşmalı mal ayrılığı rejiminde miras ve paylaşmadan doğan hakkına, mal ortaklığı rejiminde ortaklık payına ve mirasın paylaşımında ise miras payına mahsup edilmek suretiyle, aile konutu üzerinde kendisine mülkiyet, intifa veya oturma hakkı tanınmasını talep etme hakkı tanınmıştır.
 Direnme karar gerekçesinde atıf yapılan Yargıtay Hukuk Genel Kurulunun 13.12.2017 tarihli ve 2017/2-2906 Esas, 2017/1723 Karar sayılı kararında "sağ kalıp malik olmayan eşin 4721 sayılı Kanun'un 240 ve 652 nci maddeleri gereğince mirasçı sıfatından dolayı haklarının bulunduğu, dolayısıyla davayı açtığı sırada var olan hukuki yararının yargılama aşamasında malik eşin ölümünden sonra da devam ettiği, böyle olunca evliliğin ölümle sona erdiği gerekçesi ile davacının geçersizliğini ileri sürmüş olduğu ipotek işlemi hakkında davanın konusuz kaldığını söylemenin mümkün olmadığı" gerekçesine yer verilmiştir.
@@ -56,15 +66,21 @@ Gerçekten de aile konutu niteliğinin sürmesi koşuluyla; konutun mülkiyeti k
 
 ## Yargıtay HGK 2023/12 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920298200)
+
 Bilindiği üzere; boşanma kararının kesinleşmesiyle birlikte evlilik birliği sona erer ve birliğin gereği olan haklar ve yükümlülükler ortadan kalkar. Boşanmanın eşlerle ilgili sonuçları kişisel ve mali olmak üzere ikiye ayrılır. İşte 4721 sayılı Kanun'un 181 inci maddesi ile boşanmanın eşler açısından malî sonuçlarından biri düzenleme altına alınmıştır. Boşanan eşler, bu sıfatla birbirlerinin yasal mirasçısı olamazlar ve boşanmadan önce yapılmış olan ölüme bağlı tasarruflarla kendilerine sağlanan hakları, aksi tasarrufta anlaşılmadıkça kaybederler. Boşanma davası kişiye sıkı sıkıya bağlı bir hak olduğu için bu hak kural olarak bizzat kullanılmalıdır.
 
 Eşlerden birinin ölümü hâlinde ise evlilik ölümle sona ermiş olup, birlik kendiliğinden son bulur. Uyuşmazlık konusu madde ile boşanma davası devam ederken eşlerden birinin ölmesi üzerine, ölen eşin mirasçılarından birisinin davaya devam etmesi ve sağ kalan eşin kusurunu ispatlaması hâlinde sağ kalan eşin, ölen eşin mirasçısı olamayacağı ve aksi ölüme bağlı tasarruftan anlaşılmadıkça, ölüme bağlı tasarrufla kendisine sağlanan hakları kaybedeceği hükme bağlanmıştır. Bu nedenle eşlerden birinin ölümüne rağmen, ölen eşin mirasçılarından birisinin devam ettirdiği bu davada, artık eşlerin boşanması değil, boşanmaya sebep olan olaylarda sağ kalan eşin kusurlu olup olmadığı karara bağlanacaktır. Yani boşanma davası eşlerden birinin ölümü neticesinde konusuz kalmıştır ancak diğer bir yönden de ölen eşin mirasçılarından birisinin açılmış olan davaya devam etmesi hâlinde ise açılan boşanma davası kendiliğinden sağ kalan eşin kusurlu bir davranışının olup olmadığı yönünde inceleme yapılması gereken kusur tespiti davasına dönüşmüştür.
 
 ## Yargıtay HGK 2021/1406 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724739200)
+
 Somut olayda da, davalı tarafından TMK'nın 652. maddesi gereğince açılan dava konusu taşınmazın miras hakkına mahsuben sağ kalan eşe özgülenmesi davasının sonucunda mülkiyet durumu değişebileceğinden ortaklığın giderilmesi davasının sonucu da etkilenecektir. Bu nedenle, davalı tarafından açılan Balıkesir 1. Sulh Hukuk Mahkemesinin 2015/262 E. sayılı dosyasının HMK'nın 165/1. maddesi gereğince görülmekte olan ortaklığın giderilmesi davası için bekletici sorun yapılması gerekir. Her ne kadar mahkemece, bekletici sorun yapılması istenen bahsi geçen davanın davalı tarafından ortaklığın giderilmesi davasında karar verildikten sonra açıldığı, bekletici sorun yapılamayacağı gerekçesiyle direnme kararı verilmiş ise de, hüküm kesinleşinceye kadar açılmış olan ve eldeki davanın sonucuna etki edecek mahiyetteki davanın HMK'nın 165. maddesi gereğince bekletici sorun yapılması gerektiği kuşkusuzdur.
 
 ## Yargıtay HGK 2021/625 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685452500)
 
 Kural olarak mirasbırakan, sağlığında kendi malvarlığı üzerinde dilediği gibi tasarrufta bulunma özgürlüğüne sahiptir. Ancak, mirasbırakanın tasarruf özgürlüğünün sınırsız olması hâlinde yasal mirasçılar bu durumdan zarar görebilir. Böyle olunca her özgürlükte olduğu gibi burada da mirasbırakana sınırsız bir özgürlük alanı tanınmamış ve saklı paylı mirasçıların bu hakkı, mirasbırakanın iradesinden bağımsız olarak güçlendirilerek, bu hak üzerinde tasarrufta bulunması yasaklanmıştır. Diğer bir anlatımla Kanun, mirasbırakanın tasarruf özgürlüğünü saklı paylı mirasçıların saklı paylarını aşmamak üzere sınırlandırmıştır. Mirasbırakan ancak saklı pay dışındaki kısım üzerinde serbestçe tasarrufta bulunabilir. Nitekim 4721 sayılı Türk Medeni Kanunu’nun (TMK) “Tasarruf özgürlüğü” başlığını taşıyan 505. maddesi “Mirasçı olarak altsoyu, ana ve babası veya eşi bulunan mirasbırakan, mirasının saklı paylar dışında kalan kısmında ölüme bağlı tasarrufta bulunabilir. Bu mirasçılardan hiç biri yoksa, mirasbırakan mirasının tamamında tasarruf edebilir” hükmünü taşımaktadır.
 
@@ -72,11 +88,15 @@ Bu hükümden anlaşılacağı üzere, ancak saklı paylı mirasçısı bulunmay
 
 ## Yargıtay HGK 2020/476 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602877700)
+
 (Değişik ikinci fıkra: 31/3/2011-6217/19 md.) Boşanma davası devam ederken, ölen eşin mirasçılarından birisinin davaya devam etmesi ve diğer eşin kusurunun ispatlanması hâlinde de yukarıdaki fıkra hükmü uygulanır.’’ hükmüne haizdir.
 
 Türk Medeni Kanunu’nun 181. maddesinin ikinci fıkrası boşanma davası devam ederken ölen eşin mirasçılarına sağ kalan eşin boşanmaya sebebiyet verecek derecede kusurlu olup olmadığının tespitine yönelik olarak davaya devam etme imkânı sağlamıştır. Buna göre taraflarca usulüne uygun bir şekilde açılan boşanma davaları mirasçılar tarafından sürdürülebilir. Mirasçılar tarafından sürdürülen boşanma davalarında ölen eş delillerini sunmuş ise mirasçıların yeniden delil gösterme hakları bulunmamaktadır. Ölen eş tarafından sunulan ve fakat mahkemece toplanılmayan delillerin araştırılıp değerlendirilmesi mirasçılar tarafından talep edilebilir. Somut olayda davacının karar tarihinden sonra ölümü üzerine önceki eşinden olan çocuğu mirasçısı olarak Türk Medeni Kanunu’nun kendisine tanıdığı ‘’sağ kalan eşin boşanmaya sebebiyet verecek derecede kusurlu olup olmadığının tespitine’’ yönelik olarak dilekçesini sunmuştur.
 
 ## Yargıtay HGK 2018/1305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421385600)
 
 Dava, usulsüz tescile dayalı, gerçek durumu göstermeyen nüfus kaydının düzeltilmesine ilişkin olup 5490 Sayılı Nüfus Hizmetleri Kanununun 36.
 
@@ -87,6 +107,8 @@ Tanımaya karşı dava açabilecek diğer hak sahipleri ise TMK’nın 298. madd
 Çocuk ile baba arasında soybağı kurulmasını sağlayan son yol ise babalık hükmüdür. Bahse konu davada çocuk ile baba arasında soybağının kurulabilmesi için çocuğun bir başka erkek ile soybağının bulunmaması gereklidir. Çocuğun herhangi bir yolla bir başka erkek ile soybağı kurulmuş ise bu soybağı ortadan kaldırılmadıkça babalık davası açılamaz. TMK’nın 301. maddesine göre çocuk ile baba arasındaki soybağının mahkemece belirlenmesini ana ve çocuk, babaya; baba ölmüşse mirasçılarına karşı açacakları babalık davası ile isteyebilirler. Babalık davası, çocuğun doğumundan önce veya sonra açılabilecek, ananın dava hakkı, doğumdan başlayarak bir yıl geçmekle, çocuk ile başka bir erkek arasında soybağı ilişkisi varsa, bir yıllık süre bu ilişkinin ortadan kalktığı tarihte işlemeye başlayacaktır. Bir yıllık süre geçtikten sonra gecikmeyi haklı kılan sebepler varsa, sebebin ortadan kalkmasından başlayarak bir ay içinde dava açılabilecektir.
 
 ## Yargıtay HGK 2017/965 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/342726100)
 
 Dava ipoteğin kaldırılması ve aile konutu şerhi konulması istemine ilişkindir.
 
@@ -100,6 +122,8 @@ Açıkça görülüyor ki kanun koyucu, aile konutunun maliki olmayan eş yarar�
 
 ## Yargıtay HGK 2015/2686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/328509500)
+
 Dava, yolsuz tescil nedenine dayalı maddi tazminat istemine ilişkindir.
 
 …
@@ -110,9 +134,13 @@ Bu anılan madde hükümleri dikkate alındığında görülmektedir ki, adına 
 
 ## Yargıtay HGK 2011/726 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17161200)
+
 Tüm bunların yanında; 4721 sayılı Türk Medeni Kanunu(TMK) 'nun 181.maddesine göre, boşanma davası devam ederken ölen davacının mirasçılarından birisinin davaya devam etmesi ve davalının kusurunun ispatlanması halinde, birbirlerinin yasal mirasçısı olamayacakları ve boşanmadan önce yapılmış olan ölüme bağlı tasarruflarla kendilerine sağlanan hakları, aksi bu tasarruftan anlaşılmadıkça kaybedecekleri, düzenlenmiş iken; bundan da ileri tanıma ile Türkiye'de yabancı mahkeme kararının kesinleşmesinden itibaren hüküm ifade eden boşanma kararının mevcudiyeti karşısında, eşinin ölümünden önce boşanmış sağ kalan eşin, kesinleşmeden sonra da boşandığı eşine mirasçı olmasının, TMK'nun 181.maddesine de aykırılık oluşturacağı açıktır.
 
 ## Yargıtay HGK 2011/673 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77291600)
 
 Dava, mirasçılık belgesinin iptali istemine ilişkindir.
 
@@ -122,6 +150,8 @@ Türk Medeni Kanunu’nun 159. maddesinde evlenmenin butlanını dava etme hakk�
 
 ## Yargıtay HGK 2010/326 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16895800)
+
 Dava, elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindir.
 
 …
@@ -129,6 +159,8 @@ Dava, elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindi
 Burada önemle vurgulanması gereken husus; ikinci zümre ile birlikte mirasçı olan sağ eşin mirasçılığı ve miras payı kanundan doğduğu gibi, 743 sayılı Türk Kanunu Medenisi'nin 444. maddesinin ikinci fıkrası uyarınca sağ eşin intifa ya da mülkiyete ilişkin bir seçimlik hakkı söz konusu değildir. Bir başka ifadeyle sağ kalan eş, murisin külli halefi olmakla ¼ …
 
 ## Yargıtay HGK 2009/528 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77040000)
 
 Dava mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -138,15 +170,21 @@ Dava mirasçılık belgesi verilmesi istemine ilişkindir.
 
 ## Yargıtay HGK 2009/464 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76995600)
+
 Bilindiği üzere vasiyet, miras bırakanın mirasçı naspı söz konusu olmaksızın, bir kimseye bir malvarlığı menfaati kazandırdığı ölüme bağlı tasarruftur. Vasiyet bir üçüncü kişiye yapılabileceği gibi, yasal mirasçıya da yapılabilir.(TMK. m.517) Vasiyetin konusu, mirasbırakanın üçüncü kişiye veya yasal mirasçıya bir malın verilmesi olabileceği gibi, bir alacak hakkı, borçtan kurtarma veya bir intifa hakkı tanınması şeklinde de olabilir.
 
 ## Yargıtay HGK 2009/323 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76841700)
 
 Davanın, TMK 713/2.maddesinde yazılı olan üç halden tapu kütüğünde adı geçen malikin kim olduğunun anlaşılamaması nedenine dayalı tapu iptali ve tescil davası olduğu anlaşıldığından, bu tür davaların hukuki değerini yitirdiği ileri sürülen taşınmazların kayıt maliklerine yada mirasçılarına karşı açılması gerekir.
 
 Kayıt malikinin mirasçılarının da hiç mirasçı bırakmadan ölmüş olmaları halinde ise, tereke TMK'nun 501.maddesi hükmü uyarınca Devlete kalacaktır. Yine, tapu kütüğünün düzenli olarak tutulmasından Hazine sorumlu bulunmaktadır. O halde, kayıt malikinin mirasçıları yanında davanın Hazineye yöneltilmiş olmasında bir isabetsizlik bulunmamaktadır. (Yusuf Uluç, Kazandırıcı Zamanaşımı Zilyetliğine Dayanılarak Taşınmaz Edinme ve Koşulları (TMK. 713/1-2), Yargıtay Dergisi, Cilt 34, Sayı 1-2, Ocak-Nisan 2008, sayfa 5 vd)
 
 ## Yargıtay HGK 2007/10 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16605700)
 
 Dava, vasiyetin tenfizi istemine ilişkindir.
 
@@ -172,6 +210,8 @@ Bu yasal düzenleme uyarınca, mirasın birinci derecedeki mirasçıların tamam
 
 ## Yargıtay 2. HD 2026/2267 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208723500)
+
 TMK'nin 240/1 ve 3. maddesi “...Sağ kalan eş, eski yaşantısını devam ettirebilmesi için, ölen eşine ait olup birlikte yaşadıkları konut üzerinde kendisine katılma alacağına mahsup edilmek, yetmez ise bedel eklenmek suretiyle intifa veya oturma hakkı tanınmasını isteyebilir; mal rejimi sözleşmesiyle kabul edilen başka düzenlemeler saklıdır./.../ Haklı sebeplerin varlığı hâlinde, sağ kalan eşin veya ölen eşin yasal mirasçılarının istemiyle intifa veya oturma hakkı yerine, konut üzerinde mülkiyet hakkı tanınabilir.” şeklinde düzenlenmiştir.
 
 …
@@ -193,6 +233,8 @@ Dava; mirasçılık belgesinin iptali istemine ilişkindir.
 500\. maddesinde "Evlâtlık ve ..., evlât edinene kan hısımı gibi mirasçı olurlar. Evlâtlığın kendi ailesindeki mirasçılığı da devam eder. Evlât edinen ve hısımları, evlâtlığa mirasçı olmazlar."
 
 ## Yargıtay 7. HD 2026/465 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208598300)
 
 Dava, mirasın hükmen reddi istemine ilişkindir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 43. HD 2025/1555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183740300)
+
 …
 
 :Dava; davacı tarafından emtia nakliyat sigorta poliçesi ile sigortalanan ve davalı tarafından taşınan emtianın, trafik kazasında hasarlanması sonucunda sigortalı satıcıya ödenen hasar bedelinin, davalıdan rücuen tahsili amacıyla başlatılan icra takibine vaki itirazın iptali istemine ilişkindir. İlk derece mahkemesince davanın reddine karar verilmiş, karara karşı davacı vekilince istinaf yasa yoluna başvurulmuşturDavacı takip alacaklısı tarafından, davalı takip borçlusu hakkında, İstanbul Anadolu 20. İcra Müdürlüğünün ... Esas sayılı takip dosyasında, "TTK 1472.maddesi uyarınca rücuen tazminat " sebebine dayalı olarak 17.880,63TL alacağın tahsili istemiyle 10.12.2019 tarihinde ilamsız icra takibi başlatılmış, itiraz üzerine takip durmuştur.Somut olayda; dava dışı satıcı ... Boya San. ve Tic.
@@ -39,6 +41,8 @@ Taşımaya konu eşyanın hasar ve ziya halinde taşıyıcının sorumluluğu s�
 Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Ankara BAM 35. HD 2025/1541 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181999800)
 
 Davacı vekili dava dilekçesinde; müvekkili şirketin meydana gelen kaza sebebiyle üçüncü kişilere yaptığı ödemeyi davalı sigortalıya rücu etme hakkı bulunduğunu, bu nedenle müvekkili tarafından yapılan ödemenin tahsili amacıyla icra takibi yaptıklarını, davalı borçlunun takibe itiraz ettiğini belirterek, Ankara 2. Genel İcra Dairesi'nin 2023/187119 esas sayılı dosyasında davalı borçlunun itirazının iptaline karar verilmesini istemiştir.
 
@@ -63,6 +67,8 @@ Davacı vekilinin istinaf başvurusunun KABULÜ İLE; Ankara 14. Asliye Ticaret 
 
 ## İstanbul BAM 14. HD 2025/1537 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175624300)
+
 Davacı vekili, dava dilekçesinde özetle; Dava dışı ... ... Turizm Seyahat Taşımacılık Prodüksiyon ve Organizasyon Hizmetleri Ltd. Şti. ile müvekkili bankanın Osmaniye/İstanbul Şubesi arasında Genel Nakdi ve Gayrinakdi Kredi Sözleşmesi, Business Card Üyelik Sözleşmesi ve Üye İş Yeri Sözleşmesi imzalandığını, davalılar ... ve ...'in bu sözleşmeleri müşterek borçlu ve müteselsil kefil sıfatı ile imzaladığını, dava dışı ... ...
 
 …
@@ -82,6 +88,8 @@ HMK'nın 353/1.a.6 maddesi uyarınca, ilk derece mahkemesinin istinafa konu kara
 
 ## İstanbul BAM 12. HD 2025/1528 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176627100)
+
 Dava, itirazın iptali istemine ilişkindir.
 
 İİK nın 50. maddesi atfıyla HMK nın 20 hükmü, icra takipleri hakkında da uygulanır. HMK'nın 20. maddesinde: ''- (1) Görevsizlik veya yetkisizlik kararı verilmesi hâlinde, taraflardan birinin, bu karar verildiği anda kesin ise tebliğ, süresi içinde kanun yoluna başvurulmayarak kesinleşmiş ise kararın kesinleştiği tarihten; kanun yoluna başvurulmuşsa bu başvurunun reddi kararının tebliği tarihinden itibaren iki hafta içinde kararı veren mahkemeye başvurarak, dava dosyasının görevli ya da yetkili mahkemeye gönderilmesini talep etmesi gerekir. Aksi takdirde dava açılmamış sayılır ve görevsizlik veya yetkisizlik kararı veren mahkemece bu konuda resen karar verilir.'' şeklindedir.Davacı tarafından Ankara İcra Dairesinde başlatılan takibin borçlu davalı tarafından icra dairesinin yetkisine ve borca itiraz edilmesi üzerine,alacaklı davacı tarafından Ankara 12.
@@ -92,6 +100,8 @@ ATM'nin 2022/237 esas sayılı dosyasında açılan itirazın iptali davası "da
 Davacı şirket yetkilisinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2025/1467 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188176400)
 
 Davacı vekili dava dilekçesinde; davalı ile müvekkili banka arasında imzalanan kredi sözleşmesine istinaden davalının kredi kullandığını, diğer davalılar ... ve ...'un davalı şirketin müşteri sıfatıyla imzaladığı kredi sözleşmelerini müşterek borçlu müteselsil kefil sıfatıyla imzaladıklarını, kredilerin ödenmemesi üzerine borçlulara kredi hesaplarının kat'ı ile borcun ödenmesinin ihtar edildiğini, keşide edilen bu ihtara rağmen borçların ödenmemesi nedeniyle borçlular aleyhine ihtiyati haciz kararı alındığını ve genel haciz yoluyla İstanbul 7. İcra Dairesi'nin ... E. sayılı dosyası ile ilamsız icra takibi başlatıldığını, davalıların haksız olarak itiraz ettiklerini beyanla, itirazın iptali ile icra inkar tazminatına karar verilmesini talep etmiştir.
 
@@ -130,6 +140,8 @@ Bursa .... İcra Dairesi'nin ....esas sayılı dosyasında takibe konulan çek T
 
 ## İstanbul BAM 12. HD 2025/1415 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171510900)
+
 Dava, davacı akdi taşıyanın fiili taşıyana ödediği bekleme ücretinin davalı taşıtandan tahsili için başlatılan icra takibine itirazın iptali istemine ilişkindir.
 
 Davalı tarafça icra dairesinin yetkisine itiraz edilmiş ise de İİKnın 50, HMK nın 10 ve TBKnın 89 hükümlerine göre para alacaklarının tahsili için başlatılan takiplerde davacının ikametgahı icra dairesi de yetkili olduğundan davalının icra dairesinin yetkisine itirazı yerinde görülmemiştir.Somut olayda; davacının davalıya ait konteyner yükü mutfak malzemesini Bursa'dan teslim alıp Mersin Limanı'na, buradan da Dar Es Salaam Limanı'na, akabinde karayolu ile alıcı ... Ltd.'nin Kigali deposuna kadar taşımayı üstlendiği, davacının akdi taşıyan, dava dışı ... firmasının fiili taşıyan, davalının taşıtan, dava dışı alıcı firmanın da gönderilen sıfatına sahip olduğu, dava dışı ... tarafından davacı adına düzenlenen 27/05/2020 tarihli kamyon bekleme ücreti açıklamalı 2.950-USD'nin cari hesap kapsamında davacı tarafından dava dışı firmaya ödendiğinin bilirkişilerce tespit edildiği, davacının akdi taşıyan sıfatına göre aktif, davalının ise taşıtan sıfatına göre pasif husumete sahip olduğu anlaşılmaktadır. Uyuşmazlık, davacının fiili taşıyana bekleme ücreti adı altında ödemek zorunda kaldığı tutarı davalı taşıtandan talep edip edemeyeceği noktasında toplanmaktadır.
@@ -141,6 +153,8 @@ Ancak, gecikmenin gönderilenden kaynaklanan bir sebepten ileri geldiğininin is
 Davalı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Sakarya BAM 7. HD 2025/1330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158301900)
 
 Davalı ... ekili cevap dilekçesinde özetle; davanın yetkisiz mahkemede açıldığını, haksız fiilden doğan davalarda yetkili mahkeme haksız fiilin işlendiği veya zararın meydana geldiği yahut gelme ihtimalinin bulunduğu yer ya da zarar görenin yerleşim yeri mahkemesi olduğunu, alacaklı kişinin yerleşim yeri Üsküdar İstanbul ve yine zararın meydana geldiği yer de İstanbul Anadolu yakası olduğundan işbu dava İstanbul Anadolu Adliyesinde açılması gerekirken Gebze Adliyesinde açıldığını, Gebze İcra Dairesinin 2021/24585 E. sayılı dosya istendiğinde açıkça görüleceği üzere davalının 08.10.2021 tarihli dilekçesinde açıkça yetkiye de itiraz ettiğini, dava süresinde açılmadığını, davalı tarafından borca itiraz dilekçesinin 08.10.2021 tarihli olduğunu, fakat cevap verdikleri davanın açılış tarihi 09.11.2022 olduğunu, işbu sebeple huzurdaki dava bir yıllık yasal sürede açılmadığını, dava konusu haksız fiil eylemi ile ilgili olarak İstanbul Anadolu Adliyesi 32.
 
@@ -155,6 +169,8 @@ Yargıtay’ın kararlılık kazanmış uygulamalarına göre icra dairesinin ye
 İİK.nın 50/1. maddesi hükmüne göre HMK.nın yetkiye ilişkin hükümleri ilamsız icradaki yetki hakkında kıyasen uygulanır. Buna göre ilamsız icrada genel yetkili icra dairesi borçlunun yerleşim yeri icra dairesidir (HMK'nın 6. maddesi). Bunun dışında davanın açılmasına esasen haksız fiilin yol açtığı anlaşıldığından, haksız fiilin işlendiği, zararın meydana geldiği yahut gelme ihtimalinin bulunduğu yer ya da zarar görenin yerleşim yeri icra dairesi de özel olarak yetkilidir (HMK'nın 16. maddesi). Ayrıca taraflar yetki sözleşmesi ile yetkili olmayan bir icra dairesini de yetkili kılabilirler (HMK'nın 17.maddesi)
 
 ## İstanbul BAM 12. HD 2025/1309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167456200)
 
 …
 

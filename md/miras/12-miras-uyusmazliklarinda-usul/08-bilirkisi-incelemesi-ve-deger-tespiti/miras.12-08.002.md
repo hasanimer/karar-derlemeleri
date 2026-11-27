@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2019/4589 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/544284500)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis isteğine ilişkindir.
 
 …
@@ -30,6 +32,8 @@ Hal böyle olunca, hükme elverişli olacak şekilde bilirkişi incelemesi yapı
 
 ## Yargıtay 14. HD 2019/4173 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516561200)
+
 Dava, mirasın hükmen reddin tespiti isteğine ilişkindir.
 
 …
@@ -37,6 +41,8 @@ Dava, mirasın hükmen reddin tespiti isteğine ilişkindir.
 Öte yandan, mirasbırakanın ölüm tarihi itibari ile araç kaydı ve bankalardan hesapları araştırılmamıştır. Mirasbırakanın ölüm tarihinde terekesinin aktifinde yer alan taşınmazlarının başında uzman bilirkişiler marifeti ile keşif yapılarak değerlerinin mirasbırakanın ölüm tarihi esas alınarak belirlenmesi, davalıların davacıların mirasbırakanın taşınmazlarını kullandıklarına ilişkin iddialarının araştırılması, davalı ...’in 31.10.2011 tarihinde öldüğünün anlaşılmış olması nedeni ile mirasçılık belgesi temin edilerek mirasçılarının davaya dahil edilmesinin sağlanması da gerekmektedir.
 
 ## Yargıtay 14. HD 2019/3580 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498492200)
 
 Dava, mirasın hükmen reddi isteğine ilişkindir.
 
@@ -48,6 +54,8 @@ Ayrıca dosyada 20.12.2016 tarihli kolluk tutanağında murisin eşi ... ve oğl
 
 ## Yargıtay 17. HD 2019/3351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/527308400)
+
 Dava 6183 sayılı Yasanın 24 ve devamı maddeleri uyarınca açılan tasarrufun iptali isteğine ilişkindir.
 
 …
@@ -57,17 +65,23 @@ Anlatılanlar doğrultusunda devrin muvazaalı olduğunun kabulü ile tasarruf t
 
 ## Yargıtay 3. HD 2018/7269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429984100)
+
 Ancak, mahkemece bozma kararında belirtildiği gibi muristen kaldığı belirlenen menkullerin dava tarihindeki değerinin belirlenmesi için ek bilirkişi raporu veyahutta yeni bir bilirkişi raporu alarak karar vermesi gerekirken, daha önce bozma konusu yapılan ve murisin ölüm tarihini esas alarak değer tespit eden 14.01.2013 tarihli bilirkişi raporunu esas alarak hükmünü kurmuştur.
 
 Bu itibarla; mahkemece bozma gereği yerine getirilmemiş olup, muristen kalan menkullerin (para, altın, döviz, ziynet eşyaları..) dava tarihindeki değerinin hesaplanması ve belirlenen tutardan davacının miras payına düşen kısmın tespiti amacıyla Yargıtay denetimine elverişli ek bilirkişi raporu veya yeni bir bilirkişi raporu alınararak hüküm kurulması gerekirken, hatalı görülen bilirkişi raporu benimsenerek yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup, bu husus bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2017/10405 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/367873200)
+
 Veraset belgesi ve bilirkişi raporu dikkate alınarak 313 parsel sayılı taşınmaz hakkında da davanın kabulüne ilişkin hüküm kurulmuş ise de; hüküm kısmı 313 parsele ait tapu kaydı ile uyumlu olmadığı gibi, hükmün bu hali ile infazının mümkün olmadığı, kabul edilen payların infaz kabiliyetinin bulunmadığı dosya kapsamından anlaşılmaktadır.
 
 O halde, mahkemece yapılacak iş; dava konusu 313 parselin imar gördüğü parsellerin tapu kaydı ile ortak miras bırakana ait veraset ilamı ve dosya içinde yer alan önceki bilirkişi raporları bir bütün halinde değerlendirilip, dosyanın bir bütün halinde bu işlerden anlayan bilirkişiye tevdi edilerek, davacılara tescil edilmesi gereken payların tespit edilmesi, tespit edilecek payların infaz edilebilir olmasının dikkate alınması, alınacak bilirkişi raporu sonrasında, tüm deliller birlikte değerlendirilerek sonucuna göre bir karar verilmesi gerekirken infazda tereddüt oluşturacak şekilde, eksik inceleme ve araştırma sonucu yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 1. HD 2017/3743 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350375300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal tescil olmazsa tenkis talebine ilişkindir.
 
@@ -77,15 +91,21 @@ Ayrıca mahkemece tenkis hesabına ilişkin olarak alınan ilk bilirkişi raporu
 
 ## Yargıtay 20. HD 2017/2933 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360681100)
+
 Dava konusu taşınmazların tapusu halen davacıların murisi adına yaşamakla beraber, ... şerhi tapu malikinin mirasçıları olan davacıların tasarruf yetkisini kısıtlar nitelikte olduğundan ve idare tarafından tapu iptali - tescil davasının açılmasını beklemeye gerek olmadan, tapu maliki tarafından da kesinleşmiş ... kadastro sınırları içinde kalan bölümlerin maliki olduğu parselden ifrazını ve bu bölümün mülkiyetini kaybetme nedeniyle doğacak zararın tazminini istemeye engel bir durum bulunmadığından, taşınmazların kesinleşen ... tahdit sınırları içerisinde kalmak suretiyle hukuki değerini yitirdiği belirlenerek taşınmazların ... olan kısımları açısından, taşınmazların kişiler adına olan tapu kayıtları henüz iptal edilmediğinden zamaşımı süresinin de dolmadığı kabul edilerek, oluşan bu zararın tahsiline karar verilmesinde bir isabetsizlik görülmemiştir. Ancak, mahkemece tazminat isteminin tapu iptali tescil istemini de içerdiği kabul edilerek taşınmazların ... olan kısımları açısından tapu iptal ve ... vasfı ile tescili husunda karar verilmesi gerekirken, yalnızca tazminat istemi hakkında karar verilmesi isabetsizdir.
 
 Ayrıca; mahkemece, dava konusu taşınmazların değerlendirme tarihi (dava konusu taşınmazların davacıların murisleri adına olan tapu kayıtları henüz iptal edilmediğinden değerlendirme tarihi dava tarihi olarak esas alınmalıdır) itibari ile arsa mı yoksa arazi mi olduğu belirlenip bu konuda taraflara delillerini ibraz etmek üzere süre verildikten sonra, taşınmazlar arsa vasfında ise emsal karşılaştırması yapılarak; arazi vasfında ise gelir metodu esas alınarak dava tarihindeki değerinin tespiti için mahallinde yapılacak keşif sonucu alınacak bilirkişi kurulu raporuna göre bedel belirlenmesi gerekirken, böyle bir değerlendirme yapmadan taşınmaza soyut ifadelerle bedel tespit eden rapora göre yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 2. HD 2016/16235 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/270713600)
+
 Ölüm tarihinde miras bırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır (TMK m.605/2 ). Mirasbırakanın ödemeden aczi ölüm tarihine göre belirlenir. Ölüm tarihi itibariyle, mirasbırakanın tüm malvarlığı terekenin aktifini, tüm borçları ise terekenin pasifini oluşturur. Terekenin pasifinin aktifinden fazla olması; terekenin ödemeden aczini ve dolayısıyla da terekenin borca batık olduğunu gösterir. Bu nedenle mirasbırakanın ödemeden aczinin kanıtlanabilmesi için mirasbırakının malvarlığının aktif ve pasifi belirlenmelidir. Toplanan delilerden mirasbırakana ait... iki parça tarlasının bulunduğu tespit edilmiş ise de; bu taşınmazlarla ilgili mirasbırakanın hissesine düşen değer tespit edilmemiştir. O halde mahkemece, mirasbırakanın ölüm tarihi itibariyle tüm taşınır ve taşınmaz mallarının değerinin belirlenmesi, ölüm tarihi itibariyle bu şekilde aktif ve pasifleri gerektiğinde uzman bilirkişiden de yararlanmak suretiyle tespit edilmesi, tüm deliller birlikte değerlendirilerek sonucu uyarınca karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde hüküm tesisi doğru olmayıp, bozmayı gerektirmişi …
 
 ## Yargıtay 1. HD 2012/5021 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79115700)
 
 Dava; tapu iptali, tescil veya tenkis isteğine ilişkindir.
 
@@ -97,11 +117,15 @@ Kabule göre de, tenkis hesabında hibeye konu taşınmazın değeri ilk bilirki
 
 ## Yargıtay 8. HD 2012/1517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/601924000)
+
 Uyuşmazlık konusu 105 ada 14 sayılı parsel davalının babası İsmail Kökten adına tapuda kayıtlı olup, ölümüyle mirasçılarına geçmiştir. Davalı 11.08.2006 tarihinde tapuda yapılan satış, intikal ve pay devri sonucu taşınmazın tamamına malik olmuştur. Bu durum karşısında davacının miras bırakanı İsmail'e ait veraset belgesinin sunulması için davalı tarafa süre ve imkan tanınması, veraset belgesi dosyaya sunulduğunda muristen davalıya intikal eden miras payı oranının davalının kişisel malı olduğunun kabul edilmesi, diğer mirasçılardan satın alınan miras paylarının ise, davalının kendi kişisel malıyla satın aldığını ileri sürmediğine ve bu konuda dosyada herhangi bir bilgi ve belgeye rastlanılmadığına göre, miras paylarının edinilmiş maldan sayılan parayla alındığının kabulü ile değerlendirmenin buna göre yapılması gerekmektedir.
 
 Şu halde mahkemece yapılacak iş; karar tarihine en yakın tarihte davalı tarafından satın alınan mirasçılara ait pay oranlarının toplamı gözetilerek uzman bilirkişi aracılığıyla değer tespitinin yapılması ve belirlenecek değerin yarısının davalıya ait olduğunun kabulü ile bu miktarın TMK.nun 236. maddesi uyarınca hüküm altına alınması gerekirken, eksik inceleme sonucu davanın kabulüne karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 1. HD 2012/686 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78865500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve yıkım isteğine ilişkindir.
 
@@ -112,20 +136,28 @@ Türk Medeni Kanunun 723. maddesinden kaynaklanan tazminat tutarı malzeme malik
 
 ## Yargıtay 13. HD 2011/12130 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/755791900)
+
 2-1719 ada 27 numaralı taşınmazın imar uygulaması sonunda 30015 ada 1 parsel, 30017 ada 6 parsel, 30033 ada 2parsel ve 30033 ada 1 parsel olarak ifraz edildiği ve davacıların muristen intikal eden taşınmazlarda işlem yapması için çeşitli vekaletnameler ile davalı ...'i vekil tayin ettikleri ve davalı ...'in de vekalet namelere dayalı olarak 30033 ada 1 parsel ve 30015 ada 1 parsel ile 30017 ada 6 parseli sattığı ve bu satışlardan 30033 ada 1 parselin diğer davalı ...'e yapıldığı anlaşılmaktadır. Mahkemece hükme esas alınan bilirkişi kurulu raporunda davacıların hisselerine düşen değer belirlenirken arsaların dava tarihindeki raiç değerleri belirlenmiş ve mahkemecede bu değerler kabul edilerek hüküm kurulmuştur. Oysaki vekili, vekaleten satış yaptığı tarihteki gereçek değerlerden sorumludur. Bir başka deyişle davalıların sorumlulukları taşınmazların vekaleten satıldıkları tarihtdeki gerçek değerlerine isabet eden miktar kadardır.
 Mahkemece davalıranı sorumlukularının satış tarihindeki gerçek değer olduğu kabul edilerek hasıl olacak sonuca uygun bir karar verilmesi gerekirken, dava tarihindeki değerler esas alınarak yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 1. HD 2011/11464 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79048500)
+
 O halde 670 ve 722 parseldeki ağaçların dava tarihindeki değerinin miras payına isabet eden değeri üzerinden davalı G. lehine hapis hakkı tanınmak suretiyle elatmanın önlenmesine, ihtarnamenin tebliğinden itibaren işleyen 7. günün bitimi ile dava tarihi arası için haksız kullanım karşılığı, uzman bilirkişiler tarafından hazırlanan denetime elverişli bilirkişi raporu gözetilerek belirlenen ecrimisile, dava tarihinden itibaren işleyecek yasal faizi ile birlikte hükmedilmesinde temyiz edenin sıfatına göre kural olarak bir isabetsizlik yoktur.
 
 ## Yargıtay 2. HD 2011/3734 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17087700)
 
 Türk Medeni Kanunu'nun 652. maddesine göre sağ eş, ölen eşine ait birlikte yaşadıkları konut üzerinde miras hakkına mahsuben mülkiyetin kendisine özgülenmesini isteyebilir. Mirasbırakan 06.09.2003 tarihinde altsoy bırakmadan ölmüştür. Davacı sağ eş, mirasbırakanın ana ve baba zümresiyle birlikte mirasçı olduğuna göre mirasın yansı üzerinde hak sahibidir (TMK m. 499/2). Şu halde davacının taşınmazdaki miras hakkı dışındaki diğer mirasçılara ait payın tam karşılığını ödemesi halinde özgülemenin yapılması zorunludur. Davacının terekeden ve mirasçılardan (Leman)'dan mirasın açıldığı tarihte muaccel i ye t kazanmış bir alacağı bulunmadıkça veya davalılarca açıkça kabul edilmedikçe Yasa'nın 652. maddesine dayanan davalarda özgüleme değerinden herhangi bir mahsup yapılamaz. Bu husus gözetilmeden bakım giderlerinin özgüleme değerinden mahsup edilmesi doğru görülmemiştir.
 
 Türk Medeni Kanunu'nun 652. maddesine dayanan davalarda, özgüleme değeri üzerinde mirasçıların uyuşmazlık içinde olmaları durumunda bu değerin hakim tarafından belirleneceği tartışmasızdır (TMK m. 658). Özgüleme, özgülenen mal üzerindeki mirasçıların elbirliği halindeki ortaklığını sona erdirdiğine ve paylaşma sonucunu hasıl ettiğine göre, özgüleme değerinin karara en yakın tarih esas alınarak belirlenmesi gerekir. Nitekim bozmadan önce alınan 31.05.2005 tarihli bilirkişi raporunda da bu esasa göre değer belirlenmiştir. Ne var ki ilk hükmün bozulmuş olması karşısında belirlenen bu değer güncelliğini yitirmiştir. Öyleyse taşınmazın ölüm tarihindeki nitelikleri dikkate alınarak karara en yakın tarihteki değeri konusunda yeniden bilirkişiden rapor alınıp özgüleme değerinin belirlenen bu değer üzerinden hesaplanması gerekir. Bu husus gözetilmeksizin hüküm tesisi de doğru bulunmamıştır.
 
 ## Yargıtay 1. HD 2009/3414 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78271700)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
@@ -135,11 +167,15 @@ Bu durumda miras bırakanın davalılara ölünceye kadar bakım akti ile temlik
 
 ## Yargıtay 15. HD 2007/6081 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/861148400)
+
 Yanlar arasındaki uyuşmazlık davacıların murisi ... ile yüklenici ... İnş.Ltd.Şti arasında imzalanan 8.6.1999 tarihli arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmaktadır. Bu sözleşmenin 3/g maddesine göre dava konusu 960 ada 5 nolu parseldeki 4.kat 16 nolu dubleks daire davacıların murisine ait olup, bu hususta yanlar arasında bir çekişme bulunmamaktadır. Aynı sözleşmenin 4. maddesinde yükleniciye aşamalı olarak satış yetkisi verileceği kararlaştırıldığından muris tarafından yüklenici şirketin yetkilisi ... ... ...’e dava konusu 960 ada 5 parseldeki 16 nolu bağımsız bölümün satış yetkisini içeren 25.9.2002 tarih ve 08650 yevmiye nolu vekaletname verilmiştir. Satış yetkisi alındıktan sonra dava konusu daire 15.11.2002 tarih ve 10573 yevmiye nolu resmi senetle arsa sahibi ... vekili ... ... ... tarafından 2.500.000.000 TL bedel gösterilmek suretiyle diğer davalı ...’a satış yoluyla devredilmiştir.
 Arsa sahiplerinin kendilerine ait bağımsız bölümler için satış vekaleti vermeleri, diğer bir ifade ile üçüncü kişilere yapacakları satışlarda yüklenici şirket yetkililerini vekil tayin ederek onların müşteri bulma ve satış konusundaki imkan ve tecrübelerinden yararlanmak istemeleri hayatın olağan akışına uygundur, hilenin varlığına karine teşkil etmez. Hilenin varlığının ve süresinde ileri sürüldüğünün açıkça ıspat edilmesi gerekir. Toplanan deliller, dava konusu dairenin satış vekaletinin hile ile alındığını ve bu vekalete dayanılarak davalı ...’a yapılan satışın muvazaalı olduğunu ıspata yeterli olmadığından mahkemenin bu yöndeki kabul ve değerlendirmeleri isabetli olmuştur. Bu durumda yanlar arasındaki uyuşmazlığın Borçlar Kanunu’nun 386 ve devamı maddelerinde düzenlenen vekalet akdi hükümlerine göre çözümlenmesi gerekir. BK.nun 392. maddesi uyarınca vekil yaptığı işin hesabını vermek ve aldığını faiziyle birlikte ödemek zorundadır. Satış bedelinin miktarını ve bu bedelin vekil edene ödendiğini ıspat yükü de vekile aittir.
 Mahkemece alınan 25.4.2005 tarihli bilirkişi raporunda dava konusu dairenin değeri vekil tarafından satışın yapıldığı (yani iade yükümlülüğünün doğduğu) 15.11.2002 tarihi itibariyle 80.000.000.000 TL olarak saptanmıştır. Davalı vekiller tarafından aksi iddia ve ıspat edilemediğinden bu miktar alacağın davalı vekil tarafından vekil edene ödenmesi gerekir. Davalı vekil ödeme konusunda herhangi bir yazılı delil sunmamış, ancak cevap dilekçesinde “her türlü kanuni delil” diyerek yemin deliline dayanmıştır. Bu durumda mahkemece davalı vekil ... ... ...’e yemin teklif hakkı hatırlatılarak sonucuna göre ödeme savunmasının ıspat edilmesi halinde hakkındaki davanın reddine, aksi halde davacılara daire bedeli olarak talep ettikleri, miktar açıklattırılarak, talep ettikleri daire bedelini bilirkişi raporunda satış tarihi itibariyle saptanan değeri ile karşılaştırılarak sonucuna göre davalı vekil ... ... ...’den tahsiline karar verilmesi gerekirken, vekalet akdinden kaynaklanan alacakla ilgili ayrıca dava açılabileceğinden bahisle vekil hakkındaki davanın reddi doğru olmamış, kararın bozulması gerekmiştir.
 
 ## İstanbul BAM 45. HD 2026/450 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202082600)
 
 Bilirkişi raporuna yönelik sunulan itirazların değerlendirilmediği itirazı:Öncelikle belirtilmelidir ki, mahkemenin gerekçeli kararında dosyanın aktüerya bilirkişisi ve sigorta alanında nitelikli hesaplamalar uzmanı bilirkişi heyetine dosyanın tevdi edilerek 22.03.2021 tarihli raporun düzenlendiği belirtmiş ise de , gerek Uyap sisteminde ve gerekse dosyada fiziki olarak yapılan incelemede , dosyada 15.01.2021 tarihli bilirkişi teslim tutanağında bilirkişiler ... ve... isimlerinin yazılı olduğu, 10.02.2021 tarihli bilirkişi teslim tutanağında ise sadece...... isminin yazılı olduğu ve hükme esas alınan 22.03.2021 tarihli bilirkişi raporunun bilirkişilerden...... tarafından düzenlendiği anlaşılmaktadır. Bu nedenle, dosyada bilirkişi heyeti tarafından rapor düzenlendiği belirtilmiş ise de bu tespit hatalıdır.Davalı vekili tarafından 28.09.2021 tarihli celsede bilirkişi raporuna yönelik itirazlar ileri sürülmüş ise de, mahkeme tarafından oluşturulan kısa kararda yeniden rapor alınmasına gerek görülmediği belirtilerek yeniden rapor alınması yönündeki talebin reddine karar verilmiştir.
 Hükme esas alınan bilirkişi raporunda, yuvarlama ile 21.048,75 TL rakamına ulaşıldığı belirtilmiş ise de, yapılan hesaplamanın denetime elverişli olduğundan bahsedilemez. Öncelikle, dava dışı sigortalı ...-... Oraklığının yukarıda belirtilen Bakırköy 6.İş Mahkemesi ve dava dışı sigortalının ödeme yaptığı belirtilen icra takip dosyasının dosya arasına alınması gerekmektedir.Yukarıda yer alan eksiklikler ikmali ile vefat eden işçinin mirasçılarına ödenen tazminat miktarı ile dava dışı sigortalı ile davalının kusuruna denk gelen miktar şüpheye mahal bırakılmadan alanında uzman bilirkişi vasıtasıyla belirlenmelidir. Sadece dava dışı sigortalının yaptığı ödeme nazara alınarak bu oran üzerinden davalının %30 oranında sorumlu tutulması gerektiği yönündeki tespit ve hesaplama hatalıdır. İş bu nedenle, davalının bilirkişi raporuna yönelik itirazının reddine karar verilmesi de yerinde değildir. Mahkeme tarafından bilirkişi raporunda hesaplama hatası yapıldığı ve hatanın resen düzeltildiği belirtilmiştir.
@@ -154,6 +190,8 @@ Davacıların murisi davalı şirketin haricinde birçok şirkette daha hissedar
 
 ## İstanbul BAM 14. HD 2025/1119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159557000)
+
 Bilirkişi raporu takdiri delil olup, hâkim, bilirkişinin oy ve görüşünü diğer delillerle birlikte serbestçe değerlendirilebilir ise de mahkemece raporun aksine karar verilmesi halinde bilirkişi raporuna neden itibar edilmediğinin gerekçesinin de açıklanması gerekir.Ancak mahkemece bu yönde bir gerekçeye de yer verilmemiştir.Bunun dışında, mahkemece gerekçeli kararda, münferiden yetkili diğer müdür ...'ın vefat etmesinden sonra şirketten çekmeye devam ettiği meblağlara ilişkin olarak yaptığı değerlendirmede '' ...davacıların murisinin vefatından sonra davalının şirketin tüm yönetim işlerini tek müdür olarak yürüttüğü de tarafların kabulündedir.Davalının aldığı ücret bir genel kuruluna dayanmamakla birlikte, dava dışı şirket ile davalı arasında, şirket işlerinin yürütülmesi faaliyeti bakımından bir vekalet ilişkisi söz konusudur. 6098 Sayılı TBK'nun 502/3 fıkrası uyarınca vekil, sözleşme veya teamül varsa ücrete hak kazanır.
 Dava dışı şirket ile müdürler arasında bu yönde bir temaül bulunduğu alınan bilirkişi raporları ile de tespit olunmuştur.Dava dışı şirketin yapısı, iş hacmi, davacılar murisinin ölümünden sonra şirket işlerinin tamamen müdür olan davalı tarafından yürütülmek zorunda kalınması hususları dikkate alındığında, davalının almış olduğu ücretin makul olduğu, davacıların murisinin daha önce almış olduğu ücretlerle ve yine geçmiş yıllarda takdir edilen ve genel kurulun denetiminden geçerek ödenen ücretlerle uyumlu olduğu..." gerekçesine yer verilmişi ise de bilirkişi kök ve ek raporunda, davalının diğer ortak ve müdür olan murisin vefatından sonra çekmeye devam ettiği meblağlardan 85.934 TL'nin davalıdan tahsili gerektiği belirtilmiş, davalının 2016 yılında murisin vefatından sonra avanslar adı ile 2017 yılında da huzur hakkı adı ile aldığı meblağın daha önce aldığı ücretle uyumlu olup olmadığı veya makul olup olmadığı yönünde bir değerlendirme yapılmadığı anlaşılmıştır. Bu noktada da mahkeme gerekçeli kararı ile bilirkişi raporu çelişmekte ve mahkeme kararının gerekçesinin dayanağı anlaşılamamaktadır.
 
@@ -161,6 +199,8 @@ Somut olayda, bilirkişi raporuna göre, davalının herhangi bir genel kurul ka
 karar verilmiştir.
 
 ## İstanbul BAM 8. HD 2024/1387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1067674000)
 
 Asliye Ceza Mahkemesi'nde görülen 2015/596 esas sayılı ceza yargılamasına ilişkin dava dosyası, bilirkişi raporları ve tüm dosya kapsamı değerlendirilerek; davacıların annesi ...'in ölümüyle sonuçlanan 04/10/2013 günlü trafik kazasının oluşumunda, davalı araç sürücüsü ile yaya konumunda bulunan müteveffanın eşit oranda kusurlu olduklarının bilirkişi raporuyla tespit edildiği, davacılar ...'in çocukları ise de; kaza tarihi itibariyle 18 yaşından büyük oldukları ve engelli olduklarına dair de herhangi bir rapor ibraz edilmediğinden, destek tazminatı talep edemeyecekleri, müteveffanın eşi ... bakımından yapılan hesapla da bu kişinin destek tazminatı zararının 1.179,98-TL olduğu aktüer bilirkişi tarafından belirtilmişse de; ... tarafından açılmış bir dava olmadığı, ayrıca ... ile ilgili olarak kaza tarihinden (04/10/2013) ölüm tarihi olan 14/10/2013 tarihine kadar yapıldığı ileri sürülen tedavi giderlerine ilişkin bilgi ve belge sunulmadığı, zaten trafik kazası neticesinde meydana gelen yaralanmalara bağlı tedavi giderlerinin SGK'nın sorumluluğundan bulunduğu, bu durumda davacıların destekten yoksun kalma tazminatına ve tedavi giderlerine yönelik taleplerinin yerinde bulunmadığı; her
 ne kadar dosya kapsamından temin edilen aktüer bilirkişi raporunda cenaze ve defin giderinin 1.021,50-TL olduğu belirtilmiş ise de; bu giderin kim tarafından karşılandığının belli olmadığı, bu durumda davacıların dosyaya sundukları veraset ilamında belirtilen payları oranında hak sahibi sayılmaları gerektiği, bunun da toplam 766,12-TL olacağı, bunun dışında kalan tazminat talebinin reddi gerektiği; manevi tazminata ilişkin talep bakımından da kazanın meydana gelişindeki taraf kusurları, davacıların yaşları, kazanın oluş şekli ve sonuçları, tarafların sosyo-ekonomik durumları dikkate alındığında, davacıların manevi tazminata ilişkin taleplerinin kısmen kabulüne karar verilmesinin uygun olacağı şeklindeki özet gerekçeyle; -Davanın maddi tazminat yönünden KISMEN KABULÜ ile;
@@ -171,6 +211,8 @@ Dava; trafik kazası neticesinde meydana gelen ölüm olayına dayanılarak aç�
 
 ## İstanbul BAM 13. HD 2024/337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1005954200)
+
 Akaryakıt uzmanı bilirkişinin 15/11/2017 tarihli ayrık raporunda özetle; sektörel inceleme ve değerlendirmelerim doğrultusunda, davalının taraflar arasında bulunan sözleşmeyi haklı nedenle feshettiği doğrultusunda hüküm kurması halinde; davacının cezai şart ve kar mahrumiyeti talep edemeyeceği, ariyet olarak teslim edilen malzemelerin aynen iade alınması gerektiği yönünde görüş ve kanaat bildirilmiştir.
 Bilirkişi raporunun usulüne uygun olarak taraflara tebliğ edilmesi neticesinde tarafların beyan ve itirazlarının dosya kapsamında değerlendirilmesi amacıyla hukukçu bilirkişinin yerine yeni mali müşavir ile akaryakıt uzmanı bilirkişi heyetine tevdii edilen dosyaya 15/02/2019 tarihinde tanzim olunan raporda özetle; davacının sözleşmenin haksız olarak feshedilmesi nedeniyle 50.000 USD cezai şart tazminatı, 453,71 TL cari hesap alacağı, 5.000,00 TL kar kaybından kaynaklanan cezai şart tazminatı ve ariyat alınan malların iade edilmemesi nedeniyle de 100 USD cezai şart tazminatı talep ettiği, taraflar arasındaki sözleşmenin davalı tarafından haklı bir neden olmaksızın feshedildiği, dolayısıyla davacının sözleşmeden kaynaklanan cezai şart tazminatı taleplerinin ve cari hesaptan kaynaklanan alacağının ödenmesi gerektiği, taraflar arasındaki sözleşmenin 6/c hükmü uyarınca davacının 50.000-USD cezai şart tazminatı talep edebileceği, davacının ayrıca 453,71 TL cari hesap alacağının bulunduğu, davacının kar mahrumiyeti de talep edebileceği, ancak dosya içerisinde alım tonaj bilgileri ve satış fiyatları mevcut olmadığından kar mahrumiyetinin hesaplanamadığı, yapılacak hesaplamanın üç aylık
 makul bir süreyle sınırlı tutulması gerektiği, davacının ayrıca ariyet alınan malların iade edilmemesi nedeniyle de cezai şart tazminatı talep edebileceği, bu yüzden isteyebileceği tazminat tutarının dava tarihi itibariyle 2.700 USD olarak belirlendiği, belirlenen cezai şart tazminatlarının tahsil edilmesi halinde davalının sermayesinin üçte ikisinin kaybına yol açacağı ve davalının mahvına sebebiyet vereceği, bu nedenle cezai şart tazminatının tenkis edilmesi gerektiği yönünde görüş ve kanaat bildirilmiştir.
@@ -180,6 +222,8 @@ makul bir süreyle sınırlı tutulması gerektiği, davacının ayrıca ariyet 
 Dava; davalı tarafın bayilik sözleşmesini haksız olarak fesih etmesi nedeniyle davacı tarafın cezai şart, kar mahrumiyeti, cari hesap alacağı, ariyet olarak verilen malzemelerin bedeli ile teslim edilmeyen ariyet malzemeleri için kararlaştırılan cezai şart alacağının davalıdan tahsiline ilişkindir.
 
 ## İstanbul BAM 43. HD 2023/1564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988521600)
 
 Dava, anonim şirkete ortak olduğunun tespiti, olmadığı takdirde hisse bedelinin tahsili davasıdır.
 

@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2011/19860 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/624188300)
+
 İcra İflâs Yasası'nın 62/1. maddesi uyarınca "borçlu ödeme emrinin tebliğinden itibaren 7 gün içinde icra dairesine itirazını bildirmeye mecburdur" Aynı Yasanın 66/1. maddesine göre "müddeti içinde yapılan itiraz takibi durdurur, itiraz müddetinde değilse alacaklının talebi üzerine icra müdürü takip muamelelerine alacağın tamamı için devam eder"İİK. hükümleri gereğince, icra takibi sırasında borçlu tarafından, ödeme emrine yapılan itiraz ile icra takibi kendiliğinden durur. Alacaklının, icra takibine devam edebilmesi için, genel mahkemelerde itirazın iptali davası açması gerekecektir. Bu dava borçlunun itirazının, alacaklıya tebliğinden itibaren 1 yıl içinde açılması gerekir. Bu bir yıllık süre, hak düşürücü süre olup, mahkemece, kendiliğinden gözetilecektir. Ancak bu hak düşürücü sürenin başlaması için borçlunun itirazının alacaklıya tebliğ edilmesi gerekecektir.Somut olayda davalılara (borçlulara) ödeme emri 15.12.2006 tarihinde tebliğ edilmiş, borçlular süresinde 19.12.2006 tarihinde borca itiraz etmişlerdir. Takip itiraz ile birlikte İİK'nun 66/1 maddesi uyarınca kendiliğinden durduğundan icra müdürlüğünün takibin durduğuna dair karar almasına gerek bulunmamaktadır.
 Ayrıca borca itiraz dilekçesinin davacıya (alacaklı) tebliğ edilmesi sadece itirazın iptali davasının açılması için gereken 1 yıllık hakdüşürücü sürenin başlangıcı açısından önem arzetmektedir. Dava, İİK'nun 67. maddesine göre usulünce açıldığından davanın esasının görülmesi gerekirken koşulları oluşmadığından davanın reddine karar verilmesi bozmayı gerektirmiştir. Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 6. HD 2011/14558 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059986000)
 
 Davacı alacaklı tarafından davalı borçlu hakkında, kira alacağının tahsili amacıyla tahliye istekli olarak başlatılan icra takibine davalı borçlunun itirazı üzerine, davacı alacaklı mahkemeye başvurarak itirazın iptalini, kiralananın tahliyesini ve icra inkar tazminatının tahsilini istemiştir. Mahkemece, istemin reddine karar verilmesi üzerine karar davacı alacaklı tarafından temyiz edilmiştir.
 
@@ -38,6 +42,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 
 
 ## Yargıtay 19. HD 2011/6521 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17144100)
+
 Davacı vekili, müvekkili ile dava dışı Ömer arasında yapılan Taksitli Ticari Kredi Sözleşmesini davalının müşterek borçlu ve müteselsil kefil olarak imzaladığını, kredi borcunun ödenmemesi üzerine toplam 257.698,14 YTL alacağın tahsili için yapılan icra takibinin davalının kısmi itirazı nedeniyle durduğunu ileri sürerek davalının kısmi itirazının iptaline, %40 tazminata karar verilmesini talep ve dava etmiştir.
 
 Davalı vekili, davanın reddini savunmuştur.
@@ -49,6 +55,8 @@ Alacaklı banka kredi sözleşmesinin müteselsil kefili olan davalı hakkında 
 Sonuç: Yukarıda açıklanan nedenlerle hükmün temyiz eden davacı banka yararına (BOZULMASINA)
 
 ## Yargıtay 19. HD 2011/4991 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810480600)
 
 Davacı vekili, Genel Kredi Sözleşmesinden kaynaklanan alacaklarının tahsili için giriştikleri icra takibine davalının haksız olarak itiraz ettğini iddia ederek itirazın iptaline ve icra inkar tazminatına hükmolunmasını talep ve dava etmiştir.
 
@@ -64,6 +72,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle kararın davacı yararına BOZULMASINA �
 
 ## Yargıtay 17. HD 2010/8103 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/796417500)
+
 Davacı vekili, davalıya ait aracın müvekkili şirkete kasko sigortalı araca çarparak hasar verdiğini araçta meydana gelen hasar bedelinin sigortalıya ödendiğini, 4.150 TL tazminatın tahsili için yapılan icra takibine davalının itiraz ettiğini belirterek itirazın iptaline, takibin devamına, %40 icra inkar tazminatının davalıdan tahsiline karar verilmesini talep etmiştir.
 
 Davalı duruşmalara katılmamış, savunma yapmamıştır.
@@ -78,6 +88,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 12. HD 2010/4483 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/62951000)
+
 İİK'nun 62/5.maddesi gereği "Borçlu takibin müstenidi olan senet altındaki imzayı reddediyorsa, bunu itirazında ayrıca ve açıkça beyan etmelidir. Aksi takdirde icra takibi yönünden senetteki imzayı kabul etmiş sayılır." Borçlu icra dairesine süresinde yaptığı itirazda borca itiraz etmiş, ancak takip konusu 21.07.2008 tarihli senet altındaki imzaya itiraz etmemiştir. Bu durumda anılan yasa hükmü gereği bu takip yönünden senetteki imzayı kabul etmiş sayılır.
 
 "Protokol ve Ödeme Teminatı Tutanağı" başlıklı takip konusu senet, işveren hak edişleri ödenemeyen Türk işçilerinin alacaklarını garanti altına almak, rakamları netleştirmek ve ödeme planı oluşturma amaçlı olarak düzenlediği, buna göre borçlu 31.07.2008 tarihine kadar 500 USD, kalanını ise 31.08.2008 tarihine kadar toplam 2.674 USD ödemeyi kabul ettiği böylelikle ödeme aracı olarak düzenlendiği anlaşılmaktadır. Buradaki kabul, koşulsuz olup çalışan ve ücrete hak kazanan işçilerin alacağını netleştirme, takvime bağlama amaçlı olarak düzenlendiği açıklanan işbu senette imzası borçlu tarafından inkar edilmediğinden bu senet İİK.nun 68. maddesinde sayılan belgelerdendir.Mahkemece itirazın kaldırılması isteminin kabulü yerine, alacağın varlığının yargılamayı gerektirdiğinden bahisle reddi doğru değildir.
@@ -85,6 +97,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 SONUÇ : Alacaklı vekilinin temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2010/3219 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/64611100)
 
 Dörtyol İş Mahkemesi’nin ilamına (kısa karar) dayanılarak 04.08.2005 tarihinde takip açılmış (7) örnek ilamsız takiplere ilişkin ödeme emri 05.08.2005 tarihinde borçluya tebliğ edilmiş, 12.08.2005 tarihinde borçlu, borçlu şirketin ticaret sicilinde kayıtlı olduğu İskenderun İcra Dairelerinin yetkili olduğunu bildirip, Dörtyol İcra Dairelerinin yetkisine, 9.Hukuk Dairesi içtihatlarına göre Kalkınma Bankası işletme kredisi faiz oranları esas alınması gerekirken, takipte istenilen Halk Bankası’nın uyguladığı %28 oranındaki işletme kredisi faizine, ayrıca borç kendilerince hesaplanarak takipten sonra ödenmiş olduğundan borca itiraz etmiştir.
 İtirazın kaldırılması istemiyle icra mahkemesine başvuran alacaklı İş Kanununun 5.maddesinin “İşçilik alacağı için açılan dava için görüldüğü yerde de açılır” hükmü gereği işyeri Dörtyol ilçesinde olduğundan yetki itirazının, icra takibi başlayıp, ödeme emri tebliğ edildikten 2 gün sonra banka hesabına 12.08.2005’de kısmi ödeme yapıldığından ve yapılan ödemeler öncelikle faiz ve masraflara sayılacağından borca itirazın ayrıca faiz oranlarında kamu bankalarının faiz oranları esas alınacağından Kalkınma Bankası ile sınırlandırılamayacağından faize itirazın kaldırılmasını istemiş, duruşmada itirazın icra vekalet ücreti ödememek için yapıldığını belirtmiştir. Mahkemece yapılan ödemenin ödeme emri tebliğ tarihinden 2 gün sonra olduğundan borca itirazın kaldırılması gerektiği gerekçede belirtildikten sonra itiraza konu takip masrafları vekalet ücreti toplamı üzerinden %40 oranında tazminata” hükmedilmiştir.
@@ -94,6 +108,8 @@ Bu durumda mahkemece bozma ilamına düzeltilen bu şekliyle uyulup, bilirkişi 
 SONUÇ : Borçlu vekilinin temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK 366 ve HUMK’nun 428. maddeleri uyarınca yeniden (BOZULMASINA)
 
 ## Yargıtay 8. HD 2010/823 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520502300)
 
 Davacı vekili, 15.1.1986 tarihli belgeye istinaden davalı-borçlu aleyhine ...
 
@@ -110,6 +126,8 @@ Davacı vekili ile davalı vekilinin temyiz itirazlarının açıklanan nedenler
 
 ## Yargıtay 19. HD 2009/10409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887381700)
+
 Davalılar vekili, karşılıksız çıkan çekler için Banka tarafından 3167 Sayılı Kanunun 10.maddesi gereğince ödenen meblağın kefillerden talep edilmesinin hukuka ve hakkaniyete aykırı olduğunu belirterek davanın reddini talep etmiştir.
 
 …
@@ -122,6 +140,8 @@ SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle davalıların öteki te
 
 ## Yargıtay 19. HD 2008/9939 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887209500)
+
 Davalılar, davaya cevap vermemişlerdir.
 
 Mahkemece tüm dosya kapsamına göre, davanın kısmen kabulüne karar verilmiş, hüküm davacı vekilince temyiz edilmiştir.
@@ -132,11 +152,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 12. HD 2006/20772 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/66113300)
+
 Alacaklı tarafından borçlu hakkında genel haciz yoluyla icra takibine geçildiği, borçluya örnek 7 ödeme emri tebliğ edilmiştir. Borçlu tarafından İİK.nun 62/1.maddesinde öngörülen 7 günlük yasal süre içerisinde icra dairesine başvurularak borca itiraz ettiği görülmektedir. Alacaklı İİK.nun 68/1.maddesinde belirtilen 6 aylık süre içerisinde itirazın kaldırılmasını talep ettiğine göre dava dilekçesinde "itirazın kaldırılması" yerine "itirazın iptali" kelimesinin yazılmış olmasının HUMK.nun 76.maddesi karşısında sonuca etkili bulunmamaktadır. Zira HUMK.nun 76.maddesi uyarınca Hakim bir davada sadece tarafların ileri sürdükleri maddi vakıalar ve netice-i taleplerle bağlı olup dayandıkları kanun hükümleriyle ve onların tavsifleriyle bağlı olmadığı ve kanunları re'sen tatbik ederek iddia ve müdafaadaki netice-i talepleri bağlamakla mükelleftir. Bu durumda borca itiraz edilmesi üzerine takibe devam etmek isteyen alacaklının yasal süre içerisinde İcra Mahkemesinde itirazın kaldırılmasını isteyeceğinden inceleme görevi İcra Mahkemesine aittir. Aksine düşüncelerle İstanbul Asliye Hukuk Mahkemesinin görevli olduğundan bahisle görevsizlik kararı verilmesi isabetsizdir.
 
 SONUÇ :Alacaklı vekilinin temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK.366. ve HUMK.428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 19. HD 2006/12201 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/912219100)
 
 Davacı vekili, davalı bankanın elinde bulundurduğu 1.250.000.USD tutarlı teminat mektubunu haksız yere paraya çevirmesi üzerine İstanbul Asliye 10.Ticaret Mahkemesinde 2001/1857 esas sayılı davanın ikame olunduğunu, yargılama sonunda 413.981 USD asıl, 12.329 USD işlemiş faiz alacaklarının hüküm altına alındığını ve hükmün infaz olunduğunu, 673.328.20 USD'.lık kısmının davalı yanca üzerinde İİK.nun 89/1.maddesi uyarınca Vergi Dairesi haczi olduğu gerekçesiyle ödenmediğini, haczin kalkması üzerine davalıdan ödeme talep edilmesine rağmen davalının ödemede bulunmadığını, alacağın tahsili için yapılan icra takibinde ise borcun 660.719.16 USD kısmının kabul edildiğini 12.338.34 USD'ye itiraz edildiğini, davalının borcunu icra dosyası yerine kendilerine ödemesi halinde tahsil harcı ve diğer giderleri yapmak zorunda olmayacaklarını, davalının bu giderlerden de sorumlu olduğunu, ayrıca 660.719.16 USD karşılığı TL'nin de eksik ödendiğini iddia ederek toplam 47.772.172.889.TL itirazın iptalini talep ve dava etmiştir.
 

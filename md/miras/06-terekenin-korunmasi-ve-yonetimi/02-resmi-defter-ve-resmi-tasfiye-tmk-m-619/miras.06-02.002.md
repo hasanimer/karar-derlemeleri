@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2015/3169 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/179830400)
+
 Diğer taraftan mahkemece, TMK'nın 633. maddesinde öngörülen hak düşürcü sürenin geçirilmiş olması nedeniyle isteğin reddine karar verilmiş ise de; TMK'nın 612. maddesinde "En yakın yasal mirasçıların tamamı tarafından reddolunan miras sulh hukuk mahkemesince iflas hükümlerine göre tasfiye edilir" hükmü ile aynı kanunun 613. maddesinde "Altsoyun tamamının mirası reddetmesi halinde, bunların payı sağ kalan eşe geçer" ve ayrıca 636. maddesinde "Mevcudu borçlarını ödemeye yetmeyen terekenin tasfiyesi, sulh hukuk mahkemesinde iflas hükümlerine göre yapılır" hükmüne yer verilmiştir.
 
 Somut olayda; en yakın yasal mirasçıların tamamı tarafından reddedilen ve bu sebeple iflas hükümlerine göre tasfiyeye tabi hale gelen terekenin, TMK'nın 612. maddesi atfıyla TMK'nın 636. maddesi gereğince iflas hükümlerine göre tasfiyesine karar verilmesi gerekir. TMK'nın 612 ve atıfta bulunduğu aynı kanunun 636. maddesi gereğince terekenin resmi tasfiyesi herhangi bir süreye bağlı tutulmadığından mahkemece TMK'nın 633. maddesindeki süre gözetilerek davanın reddine karar verilmesi de doğru değildir.
 
 ## Yargıtay 20. HD 2015/2901 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136860800)
 
 Dava, mirasın paylaştırılması istemine ilişkindir.
 
@@ -37,6 +41,8 @@ Somut olayda, ortak murisin vefat etmesi nedeniyle murise ait malların davalıl
 
 ## Yargıtay 20. HD 2015/1840 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/197108100)
+
 Dava, mirasın iflas hükümlerine göre tasfiyesi istemine ilişkindir.
 
 Sulh hukuk mahkemesince, murisin eşi ve çocukları tarafından açılan davada TMK'nın 609. maddesi uyarınca mirasın reddinin tesciline karar verildiği, mirasın reddinin TMK'nın 605/1 maddesi gereğince gerçek ret olduğu, tüm mirasçılar tarafından miras reddedilmediğinden ve TMK'nın 605/2. maddesine göre, hükmen redde miras varlığının değerine göre mahkemenin görevi belirleneceğinden ve değere göre de, asliye hukuk mahkemesinin görevli olduğu gerekçesiyle görevsizlik kararı verilmiştir.
@@ -47,6 +53,8 @@ Somut olayda, ......... Sulh Hukuk Mahkemesinin 2008/443 E. - 2009/40 K. sayıl�
 
 ## Yargıtay 8. HD 2014/20295 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98785900)
+
 TMK’nun 612. maddesi; “ en yakın yasal mirasçıların tamamı tarafından reddolunan mirasın sulh mahkemesince iflas hükümlerine göre tasfiye edileceğini, tasfiye sonunda arta kalan bir değer varsa bunun mirasını reddetmemişler gibi hak sahiplerine verileceğini” öngörmektedir. Buradaki “en yakın mirasçılar” kavramıyla anlatılmak istenen, mirasbırakanın ölümünde ilk bakışta ve doğrudan doğruya mirasçı sıfatına sahip olan yasal mirasçılardır. Her ikisi de terekenin (mirasın) tasfiyesini amaçlamakla birlikte; “terekenin iflas hükümlerine göre tasfiyesi” ve “terekenin resmen tasfiyesi” farklı kurumlardır. Her şeyden önce, terekenin iflas hükümlerine göre tasfiyesi İcra ve İflas Kanuna göre (İİK. md. 180; 208 vd); terekenin resmi tasfiyesi ise, Medeni Kanun hükümlerine göre (TMK. md. 632-635) gerçekleştirilmek durumundadır. Yukarda açıklandığı gibi, somut uyuşmazlıkta borçlu/mirasbırakan ölmüş, en yakın yasal mirasçıların tamamı tarafından TMK'nun 605/1, 609. maddelerdeki prosüdüre uygun olarak mirası reddedilmiştir. Öyleyse somut uyuşmazlıkta, en yakın mirasçıların tamamı tarafından reddolunduğundan; burada uygulanacak tasfiye usulü, terekenin iflas hükümlerine göre tasfiyesi” usulüdür.
 Esasen terekenin iflas hükümlerine göre tasfiyesi için ayrıca dava açılmasına gerek de bulunmamaktadır. Zira böyle bir durumda, terekenin tasfiyesinde yararı bulunan kişilerin en yakın yasal mirasçıların tamamının mirası reddettikleri yerdeki (mirasbırakanın ölümü tarihindeki son yerleşim yeri mahkemesi, HMK. md. 11, TMK. md. 576) tereke işleriyle görevli sulh mahkemesini harekete geçirmeleri yeterli olacak ve bu harekete geçirme isteği bir dava şeklinde ileri sürülmüş ise, buna ilişkin dilekçe teknik anlamda bir dava dilekçesi olarak da değerlendirilemeyecektir.
 
@@ -55,14 +63,20 @@ Tereke İflas hükümlerine göre tasfiyeye tabi hale geldiğine göre; mahkeme 
 
 ## Yargıtay 8. HD 2014/5889 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98518100)
+
 Mahkeme gerek kooperatif evi gerekse bankadaki paralarla ilgili hesaplamada davacının yarı oranda hakkı bulunduğunu (ev için %50 katkı payı alacağı, paralar için %50 katılma alacağı) dikkate almış, sonrasında davacının miras payının da 1/2 oranda olduğunu açıklayarak hesaplamada gözetilen değerlerden bu oranda da eksiltme yaparak neticede davacı lehine 1/4 (veya %25) hakkı varmış gibi yazılı şekilde hüküm kurmuştur. Oysa mal rejiminin tasfiyesi ile terekenin tasfiyesi birlikte yapılamaz. Mal rejiminin tasfiyesi terekenin tasfiyesinden önce yapılır. Çünkü mal rejiminin tasfiyesinden doğan katılma alacağı, terekenin öncelikle ödenmesi gereken borcudur. Mal rejiminin tasfiyesi sonunda bulunan alacaklar terekenin tasfiyesi sırasında öncelikli olarak dikkate alınacağından, terekenin tasfiyesi sırasında tereke tarafından ödenmiş bulunan katkı payı veya katılma alacağı miktarları terekenin borcu olarak öncelikle düşülecek ve sonrasında bakiye tereke üzerinde mirasçıların miras hakları bulunacak ve tasfiyesi mal rejiminin tasfiyesi dışında ayrıca yapılacaktır.
 Mal rejiminin ölümle sona ermesi halinde davacı eş mal rejiminin tasfiyesi sebebiyle terekeden alacaklı durumunda olduğu gibi terekenin borcu olan bu alacağın ödenmesinde aynı zamanda borçlu durumundadır. Ancak davacının açtığı mal rejiminin tasfiyesinden kaynaklanan alacak davasında, miras paylarının dikkate alınması, bulunan alacak miktarından ayrıca miras payı oranında indirim yapılması doğru değildir. Bu durumda Mahkemece kooperatif evi ile ilgili olarak davacının % 50 katkı oranı ve dava tarihindeki sürüm değeri 40.000 TL. üzerinden hesaplanacak katkı payı alacağının, bankada bulunan 13.280 Dolar ile 600 Euro bakımından ise davacının artık değerin yarısı oranında katılma alacağının bulunduğu gözetilerek hesaplama sonunda bulunacak miktarlara hükmedilmesi gerekirken, hatalı şekilde eldeki davada dikkate alınma imkanı olmayan ve terekenin tasfiyesinde dikkate alınacak davacının miras payı oranının da hesaplamaya katılarak davacı lehine daha düşük miktarda katkı payı ve katılma alacağına hükmetmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2013/12760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/442580900)
+
 Saptanan bu somut ve hukuki olgular karşısında, en yakın yasal mirasçıların tamamı tarafından reddedilmiş ve bu sebeple iflas hükümlerine göre tasfiyeye tabi duruma gelmiş terekenin TMK.nun 612. maddesinin atıfta bulunduğu TMK.nun 636. maddesi gereğince iflas hükümlerine göre, tasfiyesi konusunda gerekli değerlendirme yapılarak karar verilmesi gerekirken konuyla ilgisi bulunmayan TMK.nun 633. maddesindeki süre gözetilerek davanın reddine karar verilmesi usul ve kanuna aykırıdır. TMK'nun 612 ve atıfta bulunduğu aynı Kanunun 636. maddesi gereğince yapılacak terekenin resmi tasfiyesi herhangi bir süreye bağlı tutulmamıştır.
 
 ## Yargıtay 12. HD 2012/40190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/61517700)
 
 Alacaklı tarafından, borçlu m.A. T.hakkında, bonoya dayalı kambiyo senetlerine mahsus haciz yolu ile takibin başlatıldığı, takibin kesinleşmesinden sonra 11.11.2011 tarihinde murisin ölümü üzerine, alacaklının, takibi veraset belgesine göre mirasçılardan Hüseyin Türk'e karşı yönlendirererek onun hakkında ödeme emri düzenlenerek tebliği üzerine, H..T.ün borçluya yapılan tebligatın usulsüzlüğünü ileri sürmeksizin senetteki imzaya itiraz ettiği, mahkemenin ise tüm mirasçılara yöneltilmesi gerektiğinden bahisle takibin iptaline karar verildiği anlaşılmaktadır.
 
@@ -72,6 +86,8 @@ Murisin mirasını reddetmeyen her bir mirasçı, murisin borçlarından mütese
 
 ## Yargıtay 17. HD 2011/12247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/807920700)
+
 Dava, mirasın iflas hükümlerine göre tasfiyesi istemine ilişkindir.
 
 …
@@ -80,17 +96,25 @@ TMK'nun 612/1 maddesine göre, en yakın yasal mirasçıların tamamı tarafınd
 
 ## Yargıtay 19. HD 2010/8564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/818703500)
+
 Türk Medeni Kanunu’nun 631.maddesinde mirasın devlete geçmesi hali düzenlenmiş ve bu halde Sulh Mahkemesi’nin Türk Medeni Kanunu’nda belirtildiği şekilde terekenin resmi defterini düzenleyeceği, devletin deftere yazılan borçlardan sadece miras yoluyla edindiği değerler ölçüsünde sorumlu olacağı açıklanmıştır. Mahkemece Türk Medeni Kanunu’nun 631.maddesi gözetilmeden hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2009/18355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/533839900)
 
 Redde esas olmak üzere terekenin resmi defterinin tutulmasına yönelik bir dava bulunmamaktadır. İstek ve hüküm Türk Medeni Kanununun 589 ve devamı maddelerinde düzenlenen terekenin tedbir niteliğinde tespiti ve defterinin tutulmasına ilişkin olup, terekenin korunması kapsamında önleme ilişkin verilen karar temyizi kabil değildir. Bu nedenle temyiz dilekçesinin reddine karar verilmesi gerekmiştir.
 
 ## Yargıtay 12. HD 2007/5159 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/71791000)
+
 Bu yolun seçilebilmesi için terekenin henüz taksim edilmemiş veya resmi tasfiyeye tabii tutulmamış yahut mirasçılar arasında aile şirketi tesis edilmemiş olması gerekir. Tereke hakkındaki takipte borçlu hayatta olsaydı hangi usul uygulanacak idi ise o usul uygulanır. Dolayısıyla borçlu hakkında iflas, haciz, rehnin paraya çevrilmesi yollarından hangisi ile takip yapılmışsa takibe o yolla devam edilir.
 
 ## Yargıtay 17. HD 2007/3272 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871938000)
 
 Dava, İİK’nun 277 ve devamı maddelerine dayalı tasarrufun iptali istemine ilişkindir.
 
@@ -100,6 +124,8 @@ Medeni Kanun’un 625.maddesinde resmi defter tutulması devam ettiği sürece m
 
 ## İstanbul BAM 12. HD 2025/1958 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183950400)
+
 Dava; genel kredi sözleşmesi nedeniyle oluşan kredi kartı, kredili mevduat hesabı ve taksitli ticari kredi bakiyesinin tahsili için davalılar aleyhine başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
 Davalı ... terekesinin iflas hükümlerine tasfiyesine karar verildiğinden elde ki dava kayıt kabule dönüşmüştür. Mahkemece: terekenin tasfiyesine alınan karar neticesi beklenilmiş yargılamaya tereke temsilcisi huzurunda devam edildiği anlaşılmakla bu yolda usulü bir eksiklik bulunmamaktadır. Terekenin iflâs hükümlerine göre tasfiye edilmesinde, doğrudan doğruya iflâs hükümleri uygulanır. Zira, terekenin iflâs hükümlerine göre tasfiyesini düzenleyen 180 madde de " Reddolunan mirasların tasfiyesi sekizinci bap hükümlerine göre ait olduğu mahkemece yapılır."düzenlenmiştir.Terekenin tasfiye edilmesinde, sulh hukuk mahkemesi yetkili olduğundan, tasfiye memurlarının yaptığı işlemlere karşı başvuruda bulunmak; sıra cetveline karşı yapılan itirazları incelemek, iflâs usulü ile tasfiyenin son bulduğuna karar vermek konusunda yetkili mercii sulh hukuk mahkemesidir.
@@ -108,15 +134,21 @@ banka kayıt ve defterleriyle ispatlandığı anlaşıldığından aksi yöndeki
 
 ## Diyarbakır BAM 11. HD 2025/823 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158089600)
+
 Türk Medeni Kanunu'nun 619/1 maddesinde mirası reddetmeye hakkı olan her mirasçının, terekenin resmi defterinin tutulmasını isteyebileceği, 625. maddesinde resmî defter tutulması devam ettiği sürece mirasbırakanın borçları için icra takibi yapılamayacağı, bu süre içinde zamanaşımının işlemeyeceği ve acele haller dışında davalara devam edilemeyeceği gibi yeni dava da açılmayacağı düzenlenmiş; 626 vd maddelerde ise defter inceleme süresi bittikten sonra her mirasçının mahkemece bir ay içinde beyanda bulunmaya çağrılacağı, mirasçılardan her birinin tanınan süre içinde mirası reddettiğini veya resmi tasfiye istediğini ya da deftere göre veya kayıtsız şartsız kabul ettiğini beyan edebileceği, süresi içinde beyanda bulunmayan mirasçının mirası tutulan deftere göre kabul etmiş sayılacağı öngörülmüştür.
 
 Yukarıda anılan ilke ve esaslar çerçevesinde somut olayın değerlendirilmesinde; muris .... mirasçısı....in kendi adına asaleten,......'e velayeten Diyarbakır 4. Sulh Hukuk Mahkemesinin ..... Tereke sayılı dosyasında mirasbırakanın terekesinin tespiti ile terekenin defterinin tutulmasına karar verilmesinin talep edildiği, Uyap sistemi üzerinden yapılan incelemede istinaf incelemesi tarihi itibariyle dosyanın derdest olduğu, ihtiyati hacze itiraz eden mirasçıların murisin borçlarından sorumluluğu resmi defterin tutulmasından sonra mirası kabul etmeleri halinde söz konusu olacağından mahkemece mirasçılar hakkında yaklaşık ispat şartının gerçekleşmemiş olması nedeniyle ihtiyati hacze itirazın kabulü ihtiyati haciz kararının kaldırılmasına karar verilmesinde isabetsizlik bulunmamaktadır.
 
 ## Ankara BAM 27. HD 2025/282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1124583400)
+
 Açıklanan nedenlerle davacı ... terekesi en yakın mirasçılarının tamamı tarafından reddedilmiş olmakla resmi tasfiye yapılması, tereke tasfiye memuru atanması, terekenin tasfiye memuru tarafından temsil edilmesi, bu nedenle davacının vefatı üzerine mahkemesince mirasın açıldığı yer sulh hukuk mahkemesinden sorulmak suretiyle belirlenecek tasfiye memuruna tebliğat yapılarak taraf teşkilinin sağlanması gerekirken, ölümle vekaleti sona eren davacı avukatının katılımıyla yargılamanın yürütülerek davanın karara bağlanması usul ve yasaya aykırı bulunduğundan davacı vekilinin istinaf başvurusunun esası incelenmeksizin kabulü ile, mahkeme kararının HMK 353/1-a.4-6 maddeler gereğince kaldırılmasına, dosyanın Dairemiz kararına uygun şekilde yeniden görülmesi için ilk derece mahkemesine gönderilmesine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 43. HD 2024/329 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017013800)
 
 İhtiyati tedbirin uygulanması sırasında karşı taraf hazır bulunuyorsa, tedbirin uygulanmasından itibaren; hazır bulunmuyorsa tedbirin uygulanmasına ilişkin tutanağın tebliğinden itibaren bir hafta içinde, ihtiyati tedbirin şartlarına, mahkemenin yetkisine ve teminata ilişkin olarak, kararı veren mahkemeye itiraz edebilir. Muris ... 16/07/2015 tarihinde ölmüş ve geriye mirasçı olarak eşi davacı ortak ... ile çocukları davacı ortak ..., dava dışı ortak ... ve dava dışı ortak ... kalmıştır. Bodrum 1. Sulh Hukuk Mahkemesinin 2017/2 tereke sayılı dosyasında terekenin tespiti talep edilmiştir. Ayrıca tarafların beyanlarından murisin vasiyetnamesinin bulunduğu ve vasiyetnamenin iptali davasının açıldığı anlaşılmaktadır. Davalı tarafça, şirket hisselerinin intikalinin mirasçıların talebi ile vasiyetnameye uygun olarak yapıldığı beyan edilmiştir. Türk Ticaret Kanunu’nun payların bölünememesi başlıklı 477. maddesinde, “Pay şirkete karşı bölünemez. Bir payın birden fazla sahibi bulunduğu takdirde, bunlar şirkete karşı haklarını ancak ortak bir temsilci aracılığıyla kullanabilirler.
 Böyle bir temsilci atamadıkları takdirde, şirketçe söz konusu payın maliklerinden birine yapılacak tebligat tümü hakkında geçerli olur. Genel kurul, sermaye tutarı aynı kalmak şartıyla, esas sözleşmeyi değiştirmek suretiyle, payları, asgari itibarî değer hükmüne uyarak, itibarî değerleri daha küçük olan paylara bölmek veya payları itibarî değerleri daha yüksek olan paylar hâlinde birleştirmek yetkisine haizdir. Şu kadar ki, payların birleştirilebilmesi için her pay sahibinin bu işleme onay vermesi gerekir.” hükmü bulunmaktadır. Aynı Kanunun 494/2. maddesinde de “Payların miras, mirasın paylaşımı, eşler arasındaki mal rejimi hükümleri veya cebrî icra gereği iktisap edilmeleri hâlinde, bunların mülkiyeti ve bunlardan kaynaklanan malvarlığına ilişkin haklar derhâl; genel kurula katılma haklarıyla oy hakları ise ancak şirketin onayı ile birlikte devralana geçer.” hükmünü içermektedir.
@@ -126,9 +158,13 @@ Somut olayda, TTK 477. maddesi uyarınca mirasçılar arasında taksime ilişkin
 
 ## Ankara BAM 21. HD 2023/1551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965803600)
+
 Son olarak "İcra takibi, dava ve zamanaşımı" başlıklı TMK.'nun 625. Maddesinde; "Resmî defter tutulması devam ettiği sürece mirasbırakanın borçları için icra takibi yapılamaz." hükmüne yer verilmiştir. İtiraz eden borçlu ...'nin dosyadaki Ankara 35. Noterliği'nin 25.04.2022 tarihli mirasçılık belgesi örneğine göre aynı zamanda müteveffa borçlu ...'nin de mirasçısı olduğu görülmüş ise de borçlu ...'nin murisinin borcu için değil ve fakat dayanak genel kredi sözleşmelerine kefaletinden doğan borcu, eş deyişle borçlunun şahsi borcu için ihtiyati haciz talebinde bulunulduğuna göre söz konusu madde hükmü bu borçlu hakkında ihtiyati haciz kararı verilmesine engel teşkil etmez.
 
 ## İstanbul BAM 13. HD 2023/1396 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/934827300)
 
 Sulh Hukuk Mahkemesi'nin 2020/33 Tereke sayılı dosyası üzerinden dava ikame edilmiş olup, ilgili dosyanın derdest olduğunu, bilindiği üzere mirasçılardan biri tarafından tereke için resmi defter tutulması amacıyla dava açılmasının, "Mirasçılar, mirasbırakanın ölümü ile mirası bir bütün olarak, kanun gereğince kazanırlar." hükmünü haiz TMK m.
 
@@ -137,10 +173,14 @@ Sulh Hukuk Mahkemesi'nin 2020/33 Tereke sayılı dosyası üzerinden dava ikame 
 
 ## İstanbul BAM 43. HD 2023/1240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966296600)
+
 Yani ihtiyati haciz kararı verilebilmesi için ispat gerekmez, yaklaşık ispat için delil sunulması yeterli olup, alacaklının ilişkisinin varlığını ve muaccel olduğunu tam ve kesin olarak ispat etmesi aranmamaktadır (Yargıtay 19.HD'nin 12/12/2019 Tarih, 2019/2300 E-2019/5531 K). Türk Ticaret Kanunu'nun altıncı kısmında düzenlenen limited şirkete ilişkin 'miras, eşler arasındaki mal rejimi ve icra' başlıklı 596. maddesinde esas sermaye payının miras yoluyla geçmesi halinde tüm haklar ve borçların genel kurulun onayına gerek olmaksızın kendiliğinden kanuni miras paylarına göre bölünerek mirasçılara geçeceği düzenlenmiştir. Bu düzenlemeye göre şirket ortağının ölmesi ve mirasçıları tarafından terekenin tespiti ve resmi defter tutulması davası açılması şirket hissesinin iktisabına ilişkindir. Bu durum şirketin tüzel kişiliği yönünden sorumluluğunu ortadan kaldırmaz.
 Karşı taraf , ihtiyati hacze konu bonodaki imzayı kabul etmeyerek keşideci şirketin ortağı ...'nın terekesinin tespiti ve resmi defterin tutulması davası nedeniyle ihtiyati haciz kararına itiraz etmiş ise de şirket ortağı hakkında açılan tereke tespitine ilişkin dava, keşideci olan şirket hakkında ihtiyati haciz kararı verilmesine engel değildir. Bu nedenle mahkemece, ihtiyati haciz kararına itirazın reddine karar verilmesinde isabetsizlik görülmemiştir. İİK'nın 259.maddesinde ihtiyati haciz isteyen alacaklı, hacizde haksız çıktığı takdirde borçlunun ve üçüncü şahsın bu yüzden uğrayacakları bütün zararlardan mesul olup, HMK'nın 87.maddesinde yazılı teminatı vermeye mecbur olduğu, HMK'nın 87.maddesinde de hakimin, teminatın tutarını ve şeklini serbestçe tayin edeceği düzenlenmiştir. Bu düzenlemeler uyarınca somut uyuşmazlıkta ilk derece mahkemesince alacak miktarının %15 oranında teminat alınmasına hükmedilmiş olup, takdir edilen teminat miktarının yerleşik yargı uygulamasına göre yeterli düzeyde olduğu anlaşılmakla mahkemece ihtiyati hacze yapılan itirazın reddine karar verilmesinde isabetsizlik görülmemiştir. HMK'nın 355.
 
 ## İstanbul BAM 43. HD 2023/805 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/935469200)
 
 …
 

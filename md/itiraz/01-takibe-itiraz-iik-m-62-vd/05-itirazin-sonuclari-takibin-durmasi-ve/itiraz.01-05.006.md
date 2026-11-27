@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 3. HD 2026/966 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203076900)
+
 …
 
 ... A.Ş ile 28.03.2011 tarihli kira sözleşmesi ve 11.03.2013 tarihinde ek Sözleşmeyi akdettiği, 28.03.2011 tarihli sözleşme uyarınca ... ... A.Ş hesabına yatırılması gereken 31.03.2014- 30.03.2015 dönemine ait 31.704,43 TL ve 31.03.2015 - 30.03.2016 dönemine ait 29.437,88 TL tutarındaki kira bedellerinin sehven davalı ....A.Ş. hesabına yatırıldığı,Yapılan bu hatanın davacı tarafından 08.06.2017 tarihinde tespit edilmesi üzerine duru- mun davalı tarafa elektronik posta ve telefon yoluyla bildirildiği,ayrıca ihtarname gönderildiği,Davalının iadeden kaçınması nedeniyle davacı tarafından davalı aleyhine İstanbul 12. İcra Müdürlüğü'nün ...
@@ -43,6 +45,8 @@ Davalı vekilinin istinaf itirazlarının KISMEN KABULÜ ile; İzmir 6. Asliye T
 
 ## Adana BAM 6. HD 2026/837 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201850600)
+
 Davalı vekili cevap dilekçesinde özetle; taraflar arasında akdedilen eser sözleşmesinin 12.maddesinde "davalının, projede belirtilen elektrik tesisatı işlerinin, altyapı malzemeleri, işçiliği yapacağı, bu işlemin malzemeli toplam bedeli 32.000,00-TL olduğunun kararlaştırıldığını, sözleşmenin kurulması aşamasında davacı tarafça kabloların yanmaz kablo olması gerektiği hususunda bir özellik belirtilmediğini, uygulama projesi çizimi için elektrik Mühendisi ...ile görüşüldüğünü ve yetkili tarafından kabloların yanmaz kablo olması gerektiği belirtilmiş ancak davacı taraf uygulamanın sözleşmede belirtilen şekilde yapılmasını talep etmesi üzerine davalı müvekkilininde sözleşmeye göre uygulama yaptığını, Sağlık Müdürlüğü, ilk kontrol ekibi incelenmesi sonucu kabloların yanmaz, alev almaz kablo olmadığı Sağlık Müdürlüğü Elektrik Mühendisi tarafından tespit edilmiş ve değişmesi gerektiğini söylediğini, davacı şirket yetkilisi ...’ın talimatları doğrultusunda ve Sağlık Müdürlüğü Elektrik Mühendisi gözetiminde, onayları alınarak, yapılmış ve bitmiş olan elektrik tesisat kabloları, buatlara kadar tamamen söküldüğünü, Sağlık Müdürlüğü Elektrik.
 
 …
@@ -62,6 +66,8 @@ Mahkemece; davacının, davalıya 96.129.87-TL borçlu olmayarak ödeme tarihind
 Ankara 2. İcra Müdürlüğü'nün 2019/5730 Esas sayılı icra takibinde; dosyamız davacısı alacaklı tarafından, dosyamız davalısı borçlu banka aleyhine toplam 154.056,67-TL (96.129,87-TL asıl alacak, 57.926,80-TL işlemiş faizleri) alacağın tahsili amacıyla ilamsız icra takibi başlatıldığı, davalı borçlunun süresinde itirazı ile takibin durması üzerine işbu itirazın iptali davasının yasal 1 yıllık hak düşürücü süre içerisinde açıldığı anlaşılmıştır.
 
 ## İstanbul BAM 3. HD 2026/719 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203015700)
 
 Davacı vekili dava dilekçesinde özetle; dava konusu sayacın bulunduğu ... Mahallesi ... Cd.
 
@@ -106,6 +112,8 @@ Davacı ve davalı tarafların istinaf başvurularının HMK'nın 353/(1)-b.1 ma
 
 ## İstanbul BAM 19. HD 2026/592 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198830500)
+
 Davacı vekili asıl dava dilekçesinde özetle; Borçlu hakkında İstanbul 10. İcra dairesinin ...
 
 …
@@ -122,6 +130,8 @@ Dairemiz ilk derece mahkemesi kararını hem maddi olay hem de hukuka uygunluk b
 
 ## İstanbul BAM 17. HD 2026/529 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204306100)
+
 Davalı vekili cevap dilekçesinde özetle; müvekkilinin taraflarla hiç bir ilgi ve bağı bulunmadığını, hırsızlık olayının meydana geldiği tarihte ilgili sitenin güvenliğinden sorumlu bulunmayıp, herhangi bir anlaşmasının da olmadığını belirterek davanın reddini istemiştir.
 
 …
@@ -129,6 +139,8 @@ Davalı vekili cevap dilekçesinde özetle; müvekkilinin taraflarla hiç bir il
 Küçükçekmece 1. İcra Müdürlüğü’nün ... esas sayılı takip dosyası incelendiğinde; davacı şirketin davalı aleyhinde 7,857,22 TL asıl alacak, 269,95 TL işlemiş faiz olmak üzere toplam 8.127,17 TL alacak ile asıl alacağa takip tarihinden itibaren avans faizi ile birlikte tahsili için ilamsız icra takibine geçildiği, borçluya ödeme emrinin tebliği üzerine borçlunun süresinde, borca itiraz ederek takibin durmasına sebebiyet verdiği, İcra Müdürlüğü'nce takibin durdurulmasına karar verildiği, bu kararın alacaklıya tebliğ edilmediği, davanın yasal bir yıllık süre içerisinde açıldığı anlaşılmıştır.
 
 ## İstanbul BAM 3. HD 2026/509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196454400)
 
 …
 
@@ -138,6 +150,8 @@ Caddesi, No:. adresindeki ticarethane de perakende satış sözleşmesi yapmadan
 
 ## Ankara BAM 21. HD 2026/411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201609600)
+
 Mahkemece, davalı tarafça açılan takibe itiraz edilerek takibin durmuş olması nedeniyle tekrar aynı karar verilemeyeceği gerekçesiyle; " davacı vekilinin ihtiyati haciz talebinin reddine" dair karar verilmiş, bu karara karşı davacı banka tarafından istinaf kanun yoluna başvurulmuştur.
 
 …
@@ -146,6 +160,8 @@ Her ne kadar mahkemece, 13/01/2026 tarihli karar ile davacı vekilinin ihtiyati 
 
 ## İzmir BAM 11. HD 2026/309 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195142300)
+
 Somut olayda, dava dışı ....bankası ile .... şirketi arasında 10.10.2018 tarihli ve 500.000,00 TL bedelli genel kredi sözleşmesinin imzalandığı, davalı ... ile dava dışı...'in bahse konu sözleşmeye müteselsil kefil oldukları, davacı tarafça dava dilekçesi ekinde dekont örnekleri bulunan toplam 140.965,00 TL'nin kredi kefili davalı ... yönünden 1/2 oranında sorumluluk atfedilerek Torbalı İcra Müdürlüğü'nün 2019/7448 Esas sayılı dosyası üzerinden davalı aleyhine ilamsız icra takibi başlatıldığı, yapılan itiraz üzerine takip durdurulmakla işbu davanın açıldığı, mahkemece talimat yoluyla bilirkişiden rapor alındığı, alınan rapora göre ... Şti'nin bankadan kullandığı 100.000,00 TL'lik kredinin aylık taksitler ödeme tablosu kapsamında uygun vadede kapatıldığı, 365.000,00 TL'lik kredinin de kefil ....'dan 02.04.2020 tarihinde gelen toplu ödeme ile kapatıldığı, banka tarafından şirketin takibe alınmadığı, davacının kredi ilişkisine kefalet vb.hususa dair bir hükümlülüğünün tespit edilemediği, …
 
 …
@@ -153,6 +169,8 @@ Somut olayda, dava dışı ....bankası ile .... şirketi arasında 10.10.2018 t
 Davacı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Ankara BAM 21. HD 2026/283 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201583000)
 
 Davalı cevap dilekçesinde özetle; husumet, zamanaşımı itirazı bulunduğunu, davacı banka tarafından aleyhine icra takibi başlatıldığını, icra takibine dayanak Genel Kredi ve Teminat Sözleşmesinde ... Tarım Ürünleri Nakliyat ...
 
@@ -165,6 +183,8 @@ Mahkemece; davacı banka ile davalı arasında genel kredi sözleşmeleri imzala
 Ankara 7. İcra Müdürlüğü'nün 2016/22102 Esas sayılı icra takibinde; kredi sözleşmesine istinaden davacı banka tarafından, davalı borçlu aleyhine takip başlatılarak 62 adet çek garanti tutarı toplamı 78.060,00 TL alacağın depo edilmesinin talep edildiği, davalı borçlunun süresinde takibe ve borca itirazı ile takibin durması üzerine işbu itirazın iptali davasının 1 yıllık hak düşürücü süre içinde açıldığı anlaşılmıştır.
 
 ## İstanbul BAM 43. HD 2026/265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198804400)
 
 İLK DERECE MAHKEMESİ KARARI:İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, " Takibe sebebiyet veren davalının borcun fer'ileri yönünden yaptığı itiraz haksız olup, itirazın iptali ile takibin fer'ileri yönünden itirazın iptaline karar vermek gerekmiştir.
 
@@ -179,6 +199,8 @@ Davacı takip alacaklısı takip talebinde alacağın icra masrafları ve ücret
 Davalı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Kayseri BAM 6. HD 2026/212 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191579000)
 
 Davalı vekili cevap dilekçesinden özetle; Dava açılırken dava şartlarından olan hukuki yararının bulunması gerektiğini, davacı vekilinin itirazın iptali davasını 24/07/2025 tarihinde açtığını, ancak bu tarihten bir gün önce 23/07/2025 tarihinde Kayseri Banka Alacakları İcra Müdürlüğü'nün ... esas sayılı dosyasına ile icra takibine vaki tüm itirazlardan açıkça feragat edildiğini, feragat beyanı doğrultusunda 24/07/2025 tarihinde takibin devamına karar verildiğini, bu nedenle işbu davanını hukuki yarar yokluğu nedeniyle reddine karar verilmesini, yargılama giderleri ve vekalet ücretinin davacı tarafa yükletilmesini talep etmiştir..
 
@@ -201,6 +223,8 @@ istinaf itirazlarının esastan reddi gerekmiştir (Bu yönde bknz. Yargıtay 11
 KAYSERİ 2. ASLİYE TİCARET MAHKEMESİ'nin istinafa konu edilen 02/12/2025 tarih ve 2025/659 E - 2025/1032 K sayılı nihai kararının usul ve esas yönünden hukuka uygun olduğu anlaşılmakla davacı tarafın istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 8. HD 2026/98 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189379100)
 
 Davacı vekili dava dilekçesinde özetle; davalı İstanbul Büyükşehir Belediyesi'nin işleteni, diğer davalı ... Sigorta A.Ş.'nin de ZMM sigortacısı bulunduğu ... plaka sayılı aracın, vekil edeni şirkete ait ... plaka sayılı araca çarpması neticesinde meydana gelen 11/03/2013 günlü trafik kazasında müvekkil aracının hasarlanarak değer kaybına uğradığını, araçta oluşan hasar durumu, onarım için gerekli tamir süresi, değer ve kazanç kaybı zararının ne olduğunu Bakırköy 1. Asliye Hukuk Mahkemesi'nin 2023/12 D.İŞ kararı ile tespit ettirdiklerini ve bu tespite dayanılarak İstanbul 8.
 

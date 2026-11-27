@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920512000)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -30,13 +32,19 @@ Bu davada mirasçılar açıkça muris muvazaası hukuksal nedenine dayanarak mi
 
 ## Yargıtay 7. HD 2025/4796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185083400)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; dava konusu uyuşmazlığın niteliği ve temyizin kapsamının, asıl davada tenkis, birleştirilen davada muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkin olup muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemi yönünden feragat nedeniyle davanın reddine karar verildiği, feragatin geçersiz olduğu gerekçesiyle hükmün temyiz edildiği, öncelikli olarak mülkiyete yönelik bu uyuşmazlığın çözüme kavuşturulması gerektiği anlaşılmıştır.
 
 ## Yargıtay 1. HD 2025/1422 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143331800)
+
 18.08.1997 tarih 8751 yevmiye nolu mirastan feragat sözleşmesi ile davacının, murisleri ... ve ...’dan intikal edecek tüm taşınmaz ve taşınırlardaki miras payından diğer mirasçılar lehine 20 milyar ETL bedelle feragat ettiği, anılan bedelin peşinen alındığının sözleşmede belirtildiği anlaşılmıştır.
 
 ## Yargıtay 1. HD 2024/5913 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104195800)
 
 …
 
@@ -44,17 +52,23 @@ davacı, dava dışı kardeş ... ve dava dışı anne...'in feragat edenler sı
 
 ## Yargıtay 1. HD 2021/7854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729967200)
+
 Asıl ve birleştirilen davada davalılar, çekişme konusu taşınmazların mirasbırakan tarafından babaları ... ve ...'a yardımda bulunmak amacıyla bırakıldığını, taşınmazlardan elde edilen gelirin köy camiine harcandığını, ... ve ...'e kadastro aşamasında taşınmaz verilmesi gerektiği halde verilmediğini, mirasbırakana bakılması ve yardımda bulunulması şartıyla taşınmaz temlikinin yapıldığını, mirasbırakana babaları ... ve ... tarafından bakıldığını, amacın kız çocuklarından mal kaçırmak olmadığını, diğer kardeşlerin rızası bulunduğunu belirterek davanın reddini savunmuşlardır.
 
 İlk Derece Mahkemesince, birleştirilen davada davacılar ..., ... ve ... yönünden davanın feragat nedeniyle reddine, asıl davada davacılar ile birleştirilen davada diğer davacılar yönünden çekişmeli taşınmazların temlikinin mirastan mal kaçırma amaçlı ve muvazaalı olduğu gerekçesiyle davanın kabulü ile miras payları oranında iptal tescile karar verilmiş; kararın taraflarca istinafı üzerine ... Bölge Adliye Mahkemesi 1. Hukuk Dairesince, temliklerin mirastan mal kaçırma amaçlı ve muvazaalı olup, davanın kabulünün doğru olduğu, ancak ikinci toplulaştırma işlemi sonucu kök parsellerden gelmeyen davalı paylarının da kabul kapsamına alınmasının ve infazda tereddüt oluşturacak şekilde hüküm kurulmasının doğru olmadığı, çekişmeli paylar üzerinden harç alınması, asıl ve birleştirilen davada harçlandırılan değer üzerinden ayrı ayrı davacılar yararına vekalet ücretine hükmedilmesi gerekirken bu hususların göz ardı edilmesinin doğru olmadığı gerekçesiyle tarafların istinaf başvurularının değinilen yönlerden kabulü ile ilk derece mahkemesi kararının kaldırılarak, asıl ve birleştirilen davanın kabulü, feragat eden davacıların davasının feragat nedeniyle reddi yönünde yeniden hüküm kurulmuştur.
 
 ## Yargıtay 1. HD 2021/7129 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729137000)
+
 Hemen belirtmek gerekir ki ; 01.04.1974 tarihli ½ sayılı İçtihadı Birleştirme Kararının, murisin tapuda kayıtlı olan taşınmaz malını gerçekte bağışlamak istediği halde görünüşteki akti, satım suretiyle gerçekleştirmesi halinde uygulanabilir olduğu, dava konusu edilen taşınmazların muristen değil üçüncü kişilerden edinildiği gözetildiğinde taşınmazlar yönünden davanın reddine karar verilmiş olmasında bir isabetsizlik bulunmadığı gibi, davalılardan ... hakkındaki davanın feragat nedeniyle reddedilmiş olması da doğrudur. Davacıların bu yönlere ilişkin yerinde görülmeyen temyiz itirazlarının reddine.
 
 Ne var ki; muris tarafından konulan sermaye ile şirket kurulduğu ve yine murise ait araçların satılarak bedellerinin şirkete ve davalılara verildiği iddia edildiğine göre ve murisin şirkete yaptığı katkı payının iadesinin istenildiği anlaşılmakla; belirtilen hususların Türk Borçlar Kanunu'nun 19. maddesinde düzenlenen genel muvazaa kapsamında muvazaalı olup olmadığının incelenmesi, toplanan ve toplanacak delillerin bir arada değerlendirilmesi ve varılacak sonuç çerçevesinde bir karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu üzere karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2021/4949 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696427700)
 
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -65,6 +79,8 @@ Hal böyle olunca, yukarıda belirtilen ilkeler ve olgular çerçevesinde araşt
 
 ## Yargıtay 1. HD 2021/1353 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/656092200)
+
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında tapu iptali ve tescil ile bedel isteğine ilişkindir.
 
 …
@@ -73,10 +89,14 @@ Bilindiği üzere, muris muvazaası hukuksal nedenine dayalı olarak açılan ta
 
 ## Yargıtay 1. HD 2021/878 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652259800)
+
 Davanın kabulüne ilişkin olarak verilen karar Dairece; “...eldeki davanın kabulü halinde mirasçı sıfatıyla hak sahibi olabilecek...,..,...ve ...; “babamın kardeşim Hasan ve anne Vahide'ye yaptığı temlikler mal kaçırma amaçlı değildir, miras payımıza isabet eden kısma mukabil taşınmaz ve para aldık. Murisimiz o tarihlerde başkasından taşınmaz alarak davacı adına tescil ettirmiştir” şeklinde beyanda bulunmuşlardır. Bu beyanlardan anlaşıldığı kadarıyla mirasbırakanın kızı ...dışındaki mirasçılarına taşınmaz, para verdiği açıktır. Ne var ki; mirasçı ...'a bir şey verilip verilmediği üzerinde durulmamıştır. Gülüzar'a da para, altın, vs. bir şey verildiğinin saptanması halinde mirasbırakanın mal kaçırma iradesinin bulunmadığı, sağlığında mirasçıları arasında paylaştırma iradesiyle hareket ettiği sonucuna varılacaktır.
 Hal böyle olunca; dinlenen tanıklar tekrar çağırılıp ...a bir şey verilip verilmediği saptanarak sonucuna göre karar verilmesi gerekirken, eksik soruşturma ile yetinilerek yazılı şekilde karar verilmesi doğru değildir...” gerekçesi ile bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama sonucunda muvazaa olgusunun sabit olduğu gerekçesi ile asıl davanın kabulüne, feragat nedeniyle birleştirilen davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2020/6622 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627508800)
 
 Taraflar arasında birleştirilerek görülen davada;Asıl ve birleştirilin davada davacılar, mirasbırakan babaları ...’nın maliki olduğu 2425 ada 4 parselde bulunan 3, 4, 7, 8, 1, 5 no’lu bağımsız bölümleri 18/03/2009 tarihinde intifa hakkını üzerinde bırakarak çıplak mülkiyetini davalı kızına muvazaalı şekilde ve mal kaçırma amacıyla satış suretiyle temlik ettiğini ileri sürerek çekişme konusu taşınmazların tapu kayıtlarının iptali ile miras payları oranında adlarına tescilini istemişlerdir. Davalı, asıl davayı kabul etmiş, birleştirilen davanın ise açılmasında hukuki yarar bulunmadığını belirterek reddini savunmuştur.Asıl davadaki kabul iradesinin birleştirilen dava bakımından da geçerli olduğu gerekçesiyle asıl ve birleştirilen davaların kabulüne dair verilen karar Dairece, “Dosya içeriği ve toplanan delillerden, asıl ve birleşen davalar 300.000,00 TL dava değeri gösterilerek açılmış, davanın kabulü üzerine asıl ve birleşen davalar için ayrı ayrı olmak üzere 300.000,00 TL esas alınarak harca ve vekalet ücretine hükmedilmiştir.
 Hemen belirtilmelidir ki; muris muvazaası hukuksal nedenine dayalı davalarda dava değerinin davayı açan mirasçıların payına isabet eden değer olduğu, harç ve vekalet ücretinin bu değer üzerinden hüküm altına alınması gerektiği tartışmasızdır. Somut olayda; dava konusu taşınmazların değeri tespit edilmeden ve davacıların her birinin payına isabet eden değer belirlenmeden fazla harç ve vekalet ücretine hükmedilmesi doğru değildir. Hâl böyle olunca; yukarıdaki açıklamalar ile birlikte 6100 sayılı Hukuk Muhakemeleri Kanununun 312/2. maddesinin değerlendirilmesi ve sonucuna göre bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde hüküm kurulmuş olması isabetsizdir.”gerekçesiyle bozulmuş olup; Mahkemece bozma ilamına uyularak yapılan yargılama sonucunda asıl ve birleştirilen davanın kabulüne ilişkin verilen karar bu kez Dairece; “ mahkemece davacıların her birinin miras payına isabet eden değer nazara alınmak suretiyle harç ve vekalet ücretine hükmedildiği, davacının ön inceleme duruşmasından önce cevap dilekçesiyle davayı kabul ettiği anlaşılmaktadır.
@@ -84,6 +104,8 @@ Hemen belirtilmelidir ki; muris muvazaası hukuksal nedenine dayalı davalarda d
 Şöyle ki, kabulle sonuçlanan davada, hükmüne uyulan bozma ilamında değinildiği şekilde 6100 sayılı HMK 312/2. maddesinin karar yerinde tartışılmaması, 492 sayılı Harçlar Kanunu 22. maddesi ve karar tarihinde yürürlükte bulunan AAÜT 6. maddesinin nazara alınmaksızın harç ve vekalet ücretine hükmedilmesi doğru değildir.” gerekçesiyle bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama sonunda asıl ve birleştirilen davaların kabulüne karar verilmiştir.Karar, davalı vekili tarafından süresinde temyiz edilmiş olmakla, Tetkik Hakimi ...’un raporu okundu, düşüncesi alındı. Dosya incelendi, gereği görüşülüp, düşünüldü.
 
 ## Yargıtay 1. HD 2020/4840 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647264600)
 
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında tapu iptal ve tescil isteğine ilişkin olup, dosya içeriğine, toplanan delillere, hükmün dayanağı yasal ve hukuksal gerekçeye, delillerin takdirinde ve özellikle, hükmüne uyulan bozma ilamı gözetilmek suretiyle yazılı şekilde karar verilmesinde bir isabetsizlik yoktur.
 
@@ -95,9 +117,13 @@ sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.ma
 
 ## Yargıtay 17. HD 2020/3461 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594499400)
+
 Borcun doğumundan önce başlayan bir süreçte yapılan işlemin, alacaklıdan mal kaçırma amacı ile yapıldığından söz edilmesi mümkün olmayıp, borçlunun asıl tasarrufunun borcun doğmundan önce yaptığı 18.12.2002 tarihli mirastan feragat sözleşmesi olup, bu sözleşme iptal edildiği ve geçersiz olduğu ispat edilmediğinden, 29.11.2011 tarihli tapu işlemi bu sözleşmenin infaza konulması niteliğine olduğundan davanın reddi yerine kabulüne karar verilmesi usul ve yasaya aykırı olmuştur.
 
 ## Yargıtay 1. HD 2019/777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479973500)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -109,6 +135,8 @@ Somut olayda, bozma sonrasında yapılan yargılamada davacı vekilinin 12.09.20
 
 ## Yargıtay 1. HD 2016/5534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203398000)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -118,19 +146,27 @@ Asliye Hukuk Mahkemesinin 1993/259 E sayılı dosyasında yapılan yargılamada 
 
 ## Yargıtay 1. HD 2014/12896 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84307700)
+
 Hemen belirtilmelidir ki; murisin 44, 50 ve 1304 nolu kadastral parsellerini, oğulları olan Necati ve Mustafa'ya tapuda satış gibi göstermek suretiyle yaptığı temliklerin diğer mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğu belirlenmek ve bu olgu benimsenmek suretiyle anılan taşınmazlara karşılık gelen imar parselleri üzerinden feragat beyanında bulunan davacı Z.. D.. dışındaki davacılar bakımından asıl ve birleşen davanın kabul edilmiş olmasında kural olarak bir isabetsizlik bulunmamaktadır. Davalıların tüm temyiz itirazları yerinde değildir. Reddine, …
 
 ## Yargıtay 1. HD 2012/15415 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/244487000)
+
 Asıl davanın kabulüne, birleşen davanın reddine ilişkin olarak verilen karar, Dairece, "... miras bırakanın çekişme konusu taşınmazı davalıya temlikinin mirasçıdan mal kaçırma amaçlı ve muvazaalı olduğu belirlenmek suretiyle davanın kabulüne karar verilmiş olmasında kural olarak bir isabetsizlik bulunmadığı, ancak, TMK'nun28. maddesi uyarınca, ölümle şahsiyet son bulacağına göre ölü muris adına tescil kararı verilmiş olmasının doğru olmadığı; diğer taraftan pay oranında iptal ve tescil isteğinde bulunan birleşen davanın davacılarının davadan feragat etmekle, kendilerine isabet eden miras payını istemedikleri yönünde iradelerini açıkladıkları gözetilerek, asıl davanın kabulü ile davacıların miras paylarına hasren iptal ve tescile karar verilmesi" gereğine değinilerek bozulmuş Mahkemece, bozmaya uyulmuş olmakla yapılan yargılama sonucunda, asıl davanın davacılarının miras payı oranında iptal ve tescile karar verilmiştir.
 
 ## Yargıtay 1. HD 2011/4350 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917400400)
 
 Davanın kabulüne dair verilen karar, Dairece; “...
 Miras bırakan Rafet'in davalıya yapmış olduğu pay temlikinin mirasçıdan mal kaçırma amaçlı ve muvazaalı olduğu saptanarak davacı ... yönünden davanın kabul edilmiş olmasında kural olarak bir isabetsizlik bulunmadığı, ancak, mirasbırakan Rafet'in yapmış olduğu 1/2 pay temliki yönünden davacı ...'ın miras payı oranında kabul kararı verilmesi gerekirken bu payın dışında kalan davalı üzerindeki bakiye 1/2 payın da muvazaalı olduğu benimsenerek kabul kapsamına alınmasının isabetsiz olduğu, iddiaya göre davalı üzerindeki 1/2 payın bedelinin miras bırakan tarafından ödenmesi ve sicil kaydının davalıya intikalinin sağlanması elden bağış (gizli bağış) niteliğinde olup, böylesi bir olguda 1.4.1974 tarih 1/2 sayılı İnançları Birleştirme Kararının uygulama yerinin bulunmadığı, koşullarının varlığı halinde, bir başka ifadeyle bedelinin miras bırakan tarafından ödendiğinin kanıtlanması durumunda bu temlikin tenkis hükümlerine tabi olacağı, öte yandan, davacılar Yiğit ve Elif'in miras bırakan Rafet'den önce ölen oğlu ...'den olan torunları oldukları, babaları ...'in mirasını usulü dairesinde reddettikleri, o halde kendi murisine ait mirası reddeden bu kişilerin muris muvazaasına dayalı olarak
 açtıkları davanın dinlenilmesine yasal açıdan olanak bulunmadığı ” gerekçeleri ile bozulmuş, mahkemece bozmaya uyularak, 30.09.1976 tarihli satışa konu ½ payla ilgili davacı ... tarafından açılan davanın feragat sebebi ile diğer davacılar yönünden ise esastan davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2010/7018 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78799100)
 
 Dava, tapu iptal ve tescil isteğine ilişkindir.
 
@@ -139,6 +175,8 @@ Dava, tapu iptal ve tescil isteğine ilişkindir.
 O halde, davacının başlangıçta taraf muvazaası alarak açtığı davasını muris muvazaası şeklinde ıslah ettiğine göre, iradenin bu biçimde ortaya konulmasında yasal olmayan bir durum bulunmamaktadır. Bir başka ifadeyle, davacının davasını muris muvazaası olarak kamilen ıslah ettiğinin kabulü gerekir. Buna göre de, davacının HUMK'nun 88.maddesi hükmü uyarınca 3 gün içerisinde usulüne uygun olarak harçlandırılmak suretiyle yeni bir dava ikame etmediği takdirde davanın iptaline karar verileceği öngürülmüş ve 89.maddede ise davasını tamamen ıslah eden davacının iptal tarihinden itibaren 3 ay zarfında yeniden dava açmadığı takdirde davasından feragat etmiş addolunacağı hükme bağlanmıştır.
 
 ## Yargıtay 1. HD 2010/6858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78778700)
 
 Dava ve birleştirilen dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil isteklerine ilişkindir.
 

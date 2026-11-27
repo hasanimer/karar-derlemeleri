@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2011/5675 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79202100)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve miras payı oranında tescil isteğine ilişkindir.
 
 Mahkemece, çekişme konusu kat irtifakı kurulu mesken vasıflı 3 nolu bağımsız bölümün ½ payının davalıya temlikinin, mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğu belirlenmek suretiyle, davacıların miras payları oranında iptal ve tescile karar verilmiş olmasında bir isabetsizlik yoktur. Davalı vekilinin, bu yöne değinen tüm temyiz itirazları yerinde değildir. Reddine.
@@ -30,11 +32,15 @@ Ne varki, keşiften sonra tamamlama harcı alındığı dikkate alınarak, dava 
 
 ## Yargıtay 7. HD 2011/3410 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109553000)
+
 Dava konusu 158 ada 7 parsel sayılı taşınmazın davacı ...’nun babası ... ile ... eşi ... tarafından 10.03.1993 tarihli ölünceye kadar bakma akdi ile davalı ...’a bağışlanıp zilyetliğinin devir ve teslim edildiği, böylece taşınmazın tereke malı olmaktan çıktığı ve davacının 158 ada 7 parsel sayılı taşınmaz üzerinde terekeden gelen bir hakkının kalmadığı mahkemece yapılan keşif, uygulama, toplanıp değerlendirilen delillerle belirlenmiştir. 128 ada 59 ve 138 ada 50 parsel sayılı taşınmazların tarafların ortak miras bırakanı ...'tan kaldığı terekenin paylaşılmadığı belirlenmiş olup esasen bu husus mahkemenin de kabulündedir. Bu nedenler ve hükümde gösterilen diğer gerekçelere göre davacının sair temyiz itirazları yerinde değildir.
 
 Ne var ki kadastro hakimi doğru sicil oluşturmakla yükümlüdür. Her ne kadar 128 ada 59 ve 138 ada 50 parsel sayılı taşınmazların payları oranında ... mirasçıları adına tapuya tesciline karar verilmişse de murisin ikinci eşi ...'nın önceki eşi ...'den olma kızı.....’ın miras payı 70 olması gerekirken sehven 40 yazıldığından pay paydayı tutmamaktadır. Bu nedenle yanılgının giderilmesi yargılamanın tekrarını gerektirmediğinden, hüküm fıkrasının 6/7 sayfasında 32.satırında muris ... eşi ...’nın daha evvelki evliliğinden doğan ... kızı ..’ın 40 olarak yazılan miras payının 70 olarak düzeltilmesine, hükmün düzeltilen bu şekli ile ONANMASINA, hüküm düzeltilerek onandığından harç alınmasına yer olmadığına, peşin alınan harcın istek halinde ilgilisine iadesine, 24.05.2011 tarihinde oybirliği ile karar verildi.
 
 ## Yargıtay 1. HD 2011/2745 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78703900)
 
 Dosya içeriği ve toplanan deliller ile miras bırakanın dava konusu 4 ve 9 parsel sayılı taşınmazlarda davalı oğlu M.’ya yapmış olduğu pay temliklerinin diğer mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğu belirlenmek ve benimsenmek suretiyle, temlik konusu payların tapu kayıtlarının iptali ile davacıların miras payları oranında davacılar adına tesciline karar verilmiş olmasında kural olarak bir isabetsizlik yoktur. Davalı M.’nın bu yöne değinen temyiz itirazları yerinde değildir, reddine.
 
@@ -42,11 +48,15 @@ Ancak; davacıların miras payları oranında iptal ve tescile karar verildiğin
 
 ## Yargıtay 18. HD 2011/1312 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/801230400)
+
 Dosyadaki bilgilerden yerel mahkemece verilen 23.12.1992 gün, 1992/306-781 sayılı yerel mahkeme kararının 27.10.2008 tarihinde davacı ... ... mirasçısı ...'a bizzat tebliğ edildiği, diğer davacı mirasçıları ... ... ..., ..., ... ... adına çıkartılan tebliğ evrakının ise aynı çatı altında oturup oturmadıkları belli olmadığı halde usulsüz bir şekilde ...'a teslim edildiği anlaşılmaktadır. ... ... ile ilgili tebligat ise yine 27.10.2008 günü oğlu olduğu iddia edilen Devrim ... imzasına teslim edilmiştir. Davacı ... ... mirasçıları ..., ... ve ... ile ... ve ... 04.11.2008 ... havale tarihli müşterek temyiz dilekçeleri ile yerel mahkemece verilen bu hükmü temyiz etmişlerdir. 04.11.2008 tarihinde ... havale ettirilen bu dilekçe dava dosyası içinde bulunmaktadır. Bu dilekçenin aynı gün mahkeme kalemine teslim edilmediğini ileri sürmek mümkün değildir.
 Davanın taraflarından birinin verdiği temyiz dilekçesini aldıktan sonra dosyanın önce sisteme tanıtılması ve daha sonra da temyiz kaydının sisteme işlenmesi işlemlerini bir yanlışlık sonucu yapmadıklarını tutanakla ikrar eden mahkeme görevlilerinin bu hatasının sorumluluğunu hiç bir kusurları bulunmayan temyiz edenlere yüklemek mümkün değildir. Bu durum karşısında davacı ... ... mirasçılarının temyiz harcını bir gün sonra yatırmış olmaları sonucu değiştirmez. Çünkü temyiz dilekçesinin temyiz defterine kaydının yapılmasından sonra harcın yatırılmadığının farkedilmesi halinde Hukuk Usulü Muhakemeleri Kanunu'nun 434/2. maddesindeki işlemlerin yapılması gerekir. Temyiz edenler HUMK.nun 434/2. maddesindeki hükmün uygulanmasına gerek kalmadan bu davanın temyizi için alınması gereken harçları da eksiksiz olarak mahkeme veznesine yatırmışlardır. Tüm bu açıklamalardan anlaşılacağı gibi davacı ... ... mirasçılarının temyiz başvuruları yasal süre içerisindedir.
 O halde yerel mahkemenin bozmadan sonra verdiği 16.12.2009 gün, 2009/634-818 sayılı kararının kaldırılmasına, bundan sonra Dairemizin 04.06.2009 gün ve 2009/144-5974 sayılı bozma kararı doğrultusunda işlem yapılmak üzere dosyanın mahkemesine gönderilmesine, temyiz peşin harcının istek halinde temyiz edene iadesine, 07.02.2011 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2011/852 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056218600)
 
 Dava, borçlu ortağın alacaklısı tarafından açılan bir adet bağımsız bölümdeki ortaklığın giderilmesi istemine ilişkindir.
 
@@ -60,6 +70,8 @@ Bu nedenle mahkemece, satış bedeli üzerinden % 09,9 karar ve ilam harcı alı
 
 ## Yargıtay 1. HD 2010/13920 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78619600)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -67,6 +79,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine
 Ancak; çekişme konusu taşınmazların keşfen belirlenen değerleri üzerinden davacıların miras paylarına isabet eden miktar gözetilerek harç ve kendisini vekille temsil ettiren davacılar yararına vekalet ücreti tayin ve takdiri gerekirken, taşınmazların tamamının değeri itibariyle fazla harç ve avukatlık parasına hükmedilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2010/12966 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78488800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -76,6 +90,8 @@ Hal böyle olunca; davanın reddine karar verilmesi gerekirken yanılgılı değ
 
 ## Yargıtay 1. HD 2010/12041 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78839700)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkin olup, mahkemece hükmüne uyulan bozma ilamı uyarınca soruşturma yapılarak yazılı şekilde karar verilmiş olmasında bir isabetsizlik yoktur.
 
 …
@@ -83,6 +99,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine
 Ancak; temlike konu yapılan taşınmazlarda, davacıların miras payları gözetilerek, keşfen belirlenen ve yargılama sırasında harcı tamamlanan değer üzerinden davalı yararına vekalet ücretine hükmedilmesi gerekirken, hükümde; iptal istemine konu hisselerin değeri üzerinden hesaplandığı belirtildiği halde, dava konusu yapılan taşınmazların tamamının değeri üzerinden davalılar yararına fazla avukatlık parasına karar verilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2010/11973 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78728600)
 
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında iptal-tescil isteğine ilişkindir.
 
@@ -94,10 +112,14 @@ Hal böyle olunca, iptaline karar verilen miras payının değeri üzerinden yar
 
 ## Yargıtay 2. HD 2010/11689 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81488900)
+
 Evlilik birliği, mirasbırakan kocanın 25.02.2003 tarihinde ölümüyle sona ermiştir. Davacı sağ eş, diğer mirasçılar aleyhine açtığı davayla; tereke malları arasında bulunan ve aile konutu olarak kullanılan “kat irtifaklı” taşınmaz üzerinde miras hakkına mahsuben kendisine mülkiyet hakkı tanınmasını istemiştir. İstek, Türk Medeni Kanununun 652.maddesine dayalıdır. Davacı, dava açarken maktu harç yatırmıştır. Davanın kabulü halinde; özgülenecek mal üzerinde miras ortaklığı sona erip davacıya ayni veya sınırlı ayni hak tanınacağına göre özgülemeye ilişkin davalar nispi harca tabidir. Davacıya nispi harcı yatırması için süre verilmeli, harcın tamamlanması durumunda; dava konusu taşınmazın karara en yakın tarih itibariyle sürüm değeri (piyasa,rayiç değeri) belirlenmeli, davacı sağ eşin bu taşınmaz üzerindeki miras hakkının karşılığı olan değer çıkartıldıktan sonra, diğer mirasçıların (davalıların) miras haklarının karşılığı olan parayı mahkemece belirlenecek uygun bir süre içinde mahkeme veznesine depo edilmesi için davacıya süre verilip sonucuna göre hüküm kurulmalıdır.
 Bu hususlar üzerinde durulmaksızın yazılı şekilde hüküm kurulması doğru görülmediğinden, kararın bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2010/11640 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78808300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -109,9 +131,13 @@ Ancak; karar harcı ile davacılar yararına vekalet ücretinin, çekişme konus
 
 ## Yargıtay 7. HD 2010/7455 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1114091900)
+
 İddia ve savunmaya, duruşma tutanaklarına yansıyan bilgi ve belgelere, toplanıp değerlendirilen delillere ve hüküm yerinde gösterilen gerekçelere göre mahkemece davanın reddine karar verilmesinde bir isabetsizlik bulunmadığından, davacılar ... ve ... ile mirasçı bırakmadan ölen davacıların miras bırakanı ...’ın ikinci eşi ...’nin mirasçısı sıfatıyla dahili davalı hazinenin yerinde görülmeyen temyiz itirazlarının reddi ile hükmün ONANMASINA, hazine harçtan muaf olduğundan harç alınmasına yer olmadığına, peşin alınan harcın mahsubu ile geriye kalan 17,05 TL harcın davacılardan alınmasına, 23.12.2010 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 1. HD 2010/7362 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78835000)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkin olup; mahkemece, miras bırakanın davalıya yapmış olduğu temlikin diğer mirasçılardan mal kaçırma amaçlı ve muvazaalı olmadığı belirlenmek suretiyle davanın reddine karar verilmiş olmasında bir isabetsizlik yoktur.
 
@@ -121,6 +147,8 @@ Davadaki istek, pay oranında iptal ve tescil olduğuna ve yargılama sırasınd
 
 ## Yargıtay 1. HD 2010/7269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78831400)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil, olmadığı takdirde tenkis isteğine ilişkindir.
 
 Mahkemece, çekişme konusu 7 parsel sayılı taşınmazdaki 2 ve 3 nolu bağımsız bölümlerin, davalıya temlikinin mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğu belirlenmek suretiyle davanın kabulüne karar verilmiş olmasında bir isabetsizlik yoktur. Davalının bu yöne değinen temyiz itirazları yerinde değildir. Reddine.
@@ -128,6 +156,8 @@ Mahkemece, çekişme konusu 7 parsel sayılı taşınmazdaki 2 ve 3 nolu bağım
 Ne varki, davacıların miras payı oranında iptal ve tescile karar verildiği halde, taşınmazın tamamının değeri üzerinden harç alınması ve davada vekille temsil edilen davacılar yararına, paylarına karşılık gelen değer esas alınarak vekalet ücreti takdir ve tayin edilmesi gerekirken, taşınmazın tamamının değeri esas alınarak fazla vekalet ücretinin hüküm altına alınmış olması doğru değildir.
 
 ## Yargıtay 1. HD 2010/7011 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78797100)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -139,6 +169,8 @@ Hal böyle olunca; yukarıda değinilen ilkeler doğrultusunda araştırma, soru
 
 ## Yargıtay 1. HD 2010/5535 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78601300)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, olmadığı takdirde tenkis isteğine ilişkindir.
 
 …
@@ -149,11 +181,15 @@ Ne var ki, tenkis davalarında harca esas olarak gösterilen miktarın tahmini d
 
 ## Yargıtay 1. HD 2010/5359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78575400)
+
 Dosya içeriğinden, toplanan delillerden; çekişme konusu 429 ada 52 parsel sayılı taşınmazı miras bırakan Ş.’ın kızı davalı S.’e temlikinin muvazaalı olduğu belirlenmek suretiyle davanın kabulüne karar verilmiş olması doğrudur. Davalının öteki temyiz itirazları yerinde değildir. Reddine.
 
 Ancak; dava konusu taşınmazın belirlenen tüm değeri üzerinden davacıların çekişmeye konu edilen miras payına tekabül eden miktarın dava değeri olacağı ve bu değer gözetilerek harç ve davacılar yararına vekalet ücreti tayin ve takdiri gerekirken bu husus göz ardı edilerek yüksek oranda harç ve avukatlık parasına hükmedilmesi isabetsizdir.
 
 ## Yargıtay 1. HD 2010/4512 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79447500)
 
 Dava; muris muvazaası hukuksal nedenine dayalı tapu kaydının iptal tescil olmadığı takdirde tenkis isteğine ilişkin olup mahkemece davanın kabulüne karar verilmiş; hüküm davalı tarafından temyiz edilmiştir.
 
@@ -165,9 +201,13 @@ Ne varki, temlik işleminin iptali ile çekişmeli taşınmazın mirasçılar ad
 
 ## Yargıtay 11. HD 2010/4507 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016760800)
+
 Sigorta şirketleri yönünden, yargılama gideri, harç ve vekalet ücretinin sigorta limiti ile sınırlı olmak üzere tahsiline karar verilmesi gerekmektedir. Mahkemece limit belirtilmeden yargılama gideri, harç ve vekalet ücretinin tamamının davalılardan müştereken ve müteselsilen tahsiline karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2009/13005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78686900)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil olmadığı takdirde, tenkis isteğine ilişkindir.
 
@@ -179,9 +219,13 @@ Ne varki, davacıların miras payları oranında tapu iptali ve davacılar adın
 
 ## Yargıtay 1. HD 2009/6480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77863500)
+
 Hal böyle olunca, davacı davada miras payı oranında istekte bulunduğuna ve harç bakımından esas alınması gereken dava değeri iptal konusu yapılan payla sınırlı olduğuna göre, davacının tamamlaması gereken harç miktarı belirtilmek suretiyle davacıya yöntemine uygun önel verilmesi, harç tamamlandığında yargılamaya devam edilmesi aksi halde 492 Sayılı Harçlar Yasasının 30. maddesi hükmünde öngörüldüğü üzere davaya devam edilemeyeceği (müteakip işlemlerin yapılamayacağı) gözetilerek HUMK'nun 409. maddesi gereğince davanın işlemden kaldırılmasına ve aynı madde hükmünde öngörülen süre içinde harcın ikmal edilmemesi halinde de davanın açılmamış sayılmasına karar verilmesi gerekirken değinelen yönler gözetilmeksizin yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2009/5250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78432700)
 
 Dava ve birleştirilen dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil isteklerine ilişkindir.
 
@@ -193,6 +237,8 @@ Ne varki, davalıya temlik edilen payların davacıların miras paylarına isabe
 
 ## Yargıtay 1. HD 2008/8254 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78045900)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis isteğine ilişkindir.
 
 …
@@ -203,15 +249,21 @@ Diğer taraftan; harca esas dava değerinin, çekişmeli taşınmazın dava tari
 
 ## Yargıtay 1. HD 2008/8028 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78365100)
+
 Ote yandan;davalı M..'nın ilk oturumda davayı kabul beyanı ve davanın açılmasına sebebiyet verdiği dikkate alınarak 492 sayılı Harçlar yasasının 22.maddesi, HUMK.nun 416.maddesi ve Avukatlık Asgari Ücret Tarifesinin 6.maddesi gözetilmek suretiyle harç ve yargılama giderinin anılan davalı yönünden takdir edilmemiş olması da doğru değildir. Ayrıca;dava konusu taşınmazların yargılama sırasında harcı tamamlanan ve davacıların miras payı oranında belirlenen miktar üzerinden harç ve avukatlık parasının tayin ve takdiri gerekirken yazılı olduğu üzere hüküm tesisi isabetsizdir. Tarafların bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerle HUMK.nun 428.maddesi gereğince BOZULMASINA, peşin harcın temyiz edene geri verilmesine, 26.6.2008 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 15. HD 2008/4623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859575900)
 
 Davacı ... mirasçılarının sair temyiz itirazlarına gelince; bu davacı tarafından açılan davada mahkemece alınan bilirkişi raporunda harcı yatırılarak açılan iki davada 30.000,00 YTL üzerinde değer farkı belirlenmiştir. Fazla haklar saklı tutulduğuna göre ve ... mirasçılarınca fazla haklar için dava açıldığı takdirde fazla miktar olup olmadığı açılacak davada değerlendirileceğinden bu yöne ilişkin temyiz itirazları yerinde değil ise de davada hüküm altına alınan 30.000,00 YTL ve fer’ileri ödenmediği sürece 8 ve 18 nolu bölümlerdeki tapu paylarının iptâline karar verilmesi doğru olmamıştır. Tapu iptâl ve tescil kararı ... mirasçılarınca açılan davada hükmedilen miktarın ödenmesi şartına yani birlikte ifa kuralına göre sonuçlandırılmalıdır, …
 
 Öte yandan davalı ... ve mirasçıları kendilerine ait dairelerin değiştirilmesi sebebiyle 8 ve 18 nolu dairelerin tesciline karşı çıkmakta haklı olup sonuçta davanın da birlikte ifa suretiyle kabule gerektiğinden yüklenici ... tarafından açılan davada mahkeme masraf ve vekâlet ücretinin davacı ... üzerinde bırakılması yerine davalı ... mirasçıları masraf, harç ve vekâlet ücretiyle sorumlu tutulması doğru olmamıştır.
 
 ## Yargıtay 1. HD 2008/2282 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78178700)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil isteğine ilişkindir.
 
@@ -223,6 +275,8 @@ Ne varki, davacılar miras payları oranında iptal-tescil istedikleri halde, HU
 
 ## Yargıtay 1. HD 2007/6364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78106600)
+
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescili isteğine ilişkindir.
 
 …
@@ -230,6 +284,8 @@ Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenine dayalı tapu iptali ve
 Ancak; keşfen belirlenen ve harcı tamamlanan dava değeri üzerinden kabul kapsamına konu edilen davacının miras payı oranında vekalet ücretine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu üzere yüksek ücreti vekalete hükmedilmesi isabetsizdir.Davalının bu yöne ilişkin temyiz itirazları yerindedir.Kabulü ile hükmün açıklanan nedenlerle HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 31.5.2007 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2007/5128 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77937000)
 
 Dava muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
@@ -247,6 +303,8 @@ Bu açıklamalar ışığında; manevi tazminatın amacının, zarara uğrayan k
 (Bknz. Yargıtay 17.HD'nin 2014/15213 Esas ve 2016/11561 Karar sayılı ilamı), davacının talebine rağmen davalılar aleyhine yargılama gideri ve vekalet ücretine müştereken ve müteselsilen hükmedilmemesi ve davacı yönünden manevi tazminatın kısmen kabulüne karar verilmesinden dolayı kendisini vekil ile temsil ettiren davalı şirket lehine kısmen reddedilen manevi tazminat yönünden vekalet ücretine hükmedilmemesi gerekirken kısmen reddedilen manevi tazminat yönünden davalı otobüs şirketi lehine vekalet ücretine hükmedilmesi, usul ve yasaya aykırı olup, doğru görülmemiştir.
 
 ## İstanbul BAM 16. HD 2026/171 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190545000)
 
 Muris ...'ın eşi ve mirasçısı olan ...'ın mirası reddetmediğini, Mahkemece olaya TMK'nın 611. maddesinin mi, yoksa 612. maddesinin mi tatbik edileceği tespit edilmeden karar verilmesinin doğru olmadığını, murisin tüm mirasçıları mirası reddetmediğinden TMK'nın 611. Maddesinin uygulanması gerektiğini, bu durumda mirası reddeden davacının alt soyunun ve diğer hak sahiplerinin murisin borcundan sorumlu tutulmaları gerektiğini, bu hususun karar yerinde belirtilmeden karar verilmesinin hatalı ve isabetsiz olduğunu, …
 

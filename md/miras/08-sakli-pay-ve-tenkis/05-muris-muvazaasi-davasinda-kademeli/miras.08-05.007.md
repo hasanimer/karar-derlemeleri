@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2006/1576 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853395400)
+
 Bir kısım davacıların davalı ... aleyhine Serik Asliye Hukuk Mahkemesinin 1979/388 esasında açtıkları dava tenkis hukuki sebebine dayanılarak açılmıştır. Her ne kadar bu davada da 1 ve 4 parseller dava konusu yapılmışsa da temyize konu bu davada muris muvazaası iddiasına dayanılmıştır. HUMK.nun 237. maddesince kesin hükmün varlığından söz edebilmek için davanın tarafları, konusu ve dayanılan hukuki sebebin aynı olması gerekir. Oysa, ilk açılan davada dayanılan hukuki sebep tenkis iken bu davada muris muvazaası iddiasına dayanılmıştır. O halde, olayda kesin hüküm olgusu yoktur. Davacıların muris muvazaası iddiasıyla açtıkları bu davanın da esestan incelenerek sonuca bağlanması gerekir.
 
 ## Yargıtay 1. HD 2005/13258 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77944400)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal tescil ve tenkis isteklerine ilişkindir.
 
@@ -37,6 +41,8 @@ Davanın açıldığı Kırkağaç 2. Asliye Hukuk Mahkemesince, eldeki dava, mu
 Hukuk Dairesi 2024/1361 esas, 2024/1835 karar sayılı ilam; İzmir Bölge Adliye Mahkemesi 6. Hukuk Dairesi 2020/1250 esas, 2020/980 karar sayılı ilam; İzmir Bölge Adliye Mahkemesi 1. Hukuk Dairesi 2025/1392 Esas, 2025/1631 karar sayılı ilam (genel muvazaa); İzmir Bölge Adliye Mahkemesi 20. Hukuk Dairesi 2024/109 esas, 2024/93 karar sayılı ilamı) gerekçesiyle mahkemenin görevsizliğine karar verilmiş ve karar 28.04.2026 tarihinde kesinleşmiştir.
 
 ## İstanbul BAM 37. HD 2021/1816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/702242400)
 
 K A R A R Dava, muris muvazaasına dayalı limited şirket hisse devrinin, iptali olmadığı takdirde tenkis talebine ilişkindir. İstanbul 9. Asliye Hukuk Mahkemesince, davalı gerçek kişiler aleyhine açılan tapu iptal ve tenkis davaları elde tutularak muris muvazaasına dayalı şirket hisse devrine yönelik davanın Ticaret Mahkemesinde görülmesi gerektiği gerekçesiyle dava tefrik edilerek görevsizlik kararı verilmiştir. İstanbul 2. Asliye Ticaret Mahkemesince, şirket hisse devirlerinin şekli yönden uyuşmazlık konusu olmadığı, davacının genel hükümler uyarınca Asliye Hukuk Mahkemesinde görülmesi gerektiği gerekçesiyle görevsizlik kararı verilmiştir. 6102 sayılı Türk Ticaret Kanununun 4/1. maddesinde her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ve çekişmesiz yargı işlerinin ticari dava ve ticari nitelikte çekişmesiz yargı işi sayılacağı hüküm altına alınmıştır. Buna göre, bir uyuşmazlığın ticari nitelikte olabilmesi için, her iki tarafın da ticari işletmesini ilgilendirmesi yahut aynı maddenin alt bentlerinde düzenlenen istisnalardan birine dahil olması gerekmektedir.
 Somut olayda davacılar vekili, davalı gerçek kişilerle müvekkillerinin kardeş olduklarını, 18/07/2006 tarihinde vefat eden ...'ın mirasçıları olduklarını, murislerinin ölmeden önce İstanbul Ticaret Sicil Müdürlüğü'nde ... sicil no.da kayıtlı ... Ltd.Şti'de adına kayıtlı olan 800.000.000,00 TL karşılığı hisse payının 200.000.000,00 TL'şer hissesini Beşiktaş ...

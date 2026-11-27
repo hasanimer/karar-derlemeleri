@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/104 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894712700)
+
 …
 
 muvazaalı eylemi kayıt maliki olan davalı ... ile el ve işbirliği içerisinde gerçekleştiren kişiler olup, eylemin haksız fiil niteliğinde bulunduğu gözetilerek davalılar ..., ... ve ...'in yargılama gideri ve harç gibi hükmün ferilerinden davalı ... ile müteselsilen sorumlu tutulmaları gerekirken …
 
 ## Yargıtay 1. HD 2021/6434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729076300)
 
 Dava, muris muvazaası hukuki nedenine dayalı miras payı oranında tapu iptal ve tescil istemine ilişkindir.
 
@@ -35,6 +39,8 @@ Hemen belirtmek gerekir ki, hükmüne uyulan bozma kararında gösterildiği şe
 
 ## Yargıtay 1. HD 2021/5767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/710340600)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, mümkün olmazsa tenkis isteğine ilişkindir.
 
 …
@@ -43,15 +49,21 @@ Bilindiği üzere, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tesc
 
 ## Yargıtay 1. HD 2021/2076 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680562300)
+
 Bilindiği üzere, muris muvazaası hukuksal nedenine dayalı davalarda dava değeri, çekişme konusu taşınmazların tümünün değeri üzerinden davayı açan mirasçı ya da mirasçıların payına isabet eden değer olup, 6100 sayılı Hukuk Muhakemeleri Kanununun 326. maddesi uyarınca, davada haksız çıkan ve aralarında ihtiyari dava arkadaşlığı bulunan davalıların adlarına kayıtlı taşınmazlar bakımından belirlenen dava değeri üzerinden, harç, yargılama giderleri ve yargılama giderlerinden sayılan avukatlık ücretinden ayrı ayrı, aynı muvazaalı işlemin tarafı olan davalıların ise müteselsilen sorumlu tutulmaları gerekmektedir.
 
 ## Yargıtay 1. HD 2020/5882 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632310600)
 
 Şöyle ki, mahkemece mirasbırakan ...’den davalı ...’ye intikal eden paylar üzerinden davacıların veraset ilamındaki payları oranında iptal – tescile karar verilmesi gerekirken taşınmazların tamamı mirasbırakan ...’den intikal etmiş gibi iptal – tescil hükmü kurularak fazlaya ilişkin pay iptali doğru olmadığı gibi, mirasbırakan ...’den intikal eden taşınmaz payları bakımından da davacıların miras payları oranında iptal tescile karar verilmesi gerekirken taşınmazların tamamı üzerinden davacıların miras payları oranında iptal – tescil hükmü kurulmuş olması da doğru değildir.
 
 Öte yandan, muris muvazaası hukuksal sebebine dayalı davalarda dava değeri, taşınmazın tümünün değeri üzerinden davayı açan mirasçı ya da mirasçıların miras payına isabet eden değer olup, somut olayda, her bir davalı adına kayıtlı taşınmazlar farklı olduğundan, her bir davalıya karşı ayrı ayrı dava açılması mümkün iken birlikte dava açılmış olup 6100 sayılı HMK'nun 326. maddesi uyarınca, davada haksız çıkan ve aralarında ihtiyari dava arkadaşlığı bulunan davalıların, adlarına kayıtlı taşınmazların ayrı ayrı belirlenen ve davacıların miras payına isabet eden dava değeri üzerinden hesaplanan harçtan ayrı ayrı sorumlu tutulmaları gerekirken, müştereken ve müteselsilen sorumlu tutulmaları hatalıdır.
 
 ## Yargıtay 1. HD 2019/2372 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/494518100)
 
 Dava, muris muvazaası hukuksal nedenine dayalı iptal tescil isteğine ilişkindir.
 

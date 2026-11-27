@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Sakarya BAM 7. HD 2024/1665 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1093575600)
+
 Davalı vekili cevap dilekçesinde özetle; davacının talep ettiği fatura ile kendilerine teslim edilen malların …
 
 …
@@ -46,6 +48,8 @@ Eldeki olayda; alacağın para alacağı olduğu 2004 sayılı yasanın 50.madde
 
 ## İstanbul BAM 13. HD 2024/1659 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1082092000)
+
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ:İlk Derece Mahkemesi 20/05/2024 tarih ve 2022/1052 Esas - 2024/537 Karar sayılı kararında;"....Toplanan deliller ve tüm dosya kapsamına göre; alınan bilirkişi raporu ile de alacak ispatlanmıştır. Toplam alacağın 616,01 TL olduğu, gerek icra aşamasında gerekse yargılama aşamasında söz konusu borcun ödenmediği anlaşılmakla davacı tarafından davalı aleyhine açılan itirazın iptali davasının kabulü ile likit olan alacağa yapılan itirazdan dolayı davacı lehine %20 icra inkar tazminatına hükmedilmiştir.
 
 …
@@ -63,6 +67,8 @@ ekranı açılarak işlemin elektronik ortamda tamamlandığı anlaşılmıştı
 HÜKÜM:Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun KABULÜ ile; Bakırköy 5. Asliye Ticaret Mahkemesi'nin 20/05/2024 tarih ve 2022/1052 Esas - 2024/537 Karar sayılı kararının HMK'nın 353/1-a4 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 45. HD 2024/1638 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100877200)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece, " ... Davalı şirketin davacının sunduğu sözleşme altındaki imzayı inkâr etmesi nedeniyle 6100 sayılı HMK m.
 
@@ -104,6 +110,8 @@ Yargıtay’ın yerleşmiş içtihatlarına göre, itirazın iptali davasını g
 Bilindiği üzere, 2004 sayılı İİK m. 50, HMK m. 10 ve TBK m. 89 hükümlerine göre para alacaklarının tahsili için başlatılan takiplerde davacının ikametgahı icra dairesi de yetkilidir ancak alacaklının ikametgahında icra takibi yapılması ve dava açılması için aradaki ticari ilişkinin öncelikle ispat edilmesi gerekmekte olup ispat yükü davacıdadır. Dosya kapsamında alınan bilirkişi raporuna göre, davacı tarafça düzenlenen tüm faturalar davalı defterinde kayıtlı olup, taraflar arasında ticari ilişki sabit olup, İİK m. 50, HMK m. 10 ve TBK m. 89 maddesi hükümlerine göre takip başlatıldığı anlaşılmakla, yetkiye ilişkin istinaf istemlerinin yerinde olmadığı değerlendirilmiştir.
 
 ## İstanbul BAM 43. HD 2024/1575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088247500)
 
 İLK DERECE MAHKEMESİ KARARI: İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, " ...Dosyadaki tüm bilgi ve belgeler, Yasal mevzuat ve dosya kapsamına uygun denetime elverişli bilirkişi raporları bir arada değerlendirildiğinde; taraflar arasında 18.09.2017 tarihinde standart bayilik sözleşmesinin imzalandığı, davacı şirket ticari defter ve kayıtlarının usulüne uygun olarak tutulduğu, davalının, davacı şirketten satın alacağı ürünleri satacağının kararlaştırıldığı, davalı şirket kayıtlarının incelendiği talimat bilirkişi raporuna göre davalının, davacı şirkete 139.955,27-TL borçlu olduğu, Mahkememizce sektörel bilirkişinin de olduğu heyetten alınan asıl ve ek bilirkişi raporlarında da davacının, 150.788,32-TL alacaklı olduğu yönünde görüş bildirildiği, bu haliyle taleple bağlılık ilkesi gereğince davacının alacaklı olduğunu iddia ettiği tutarın, bilirkişi raporlarıyla tespit edilmesi sebebiyle, bilirkişi raporu doğrultusunda davanın kabulü ile likit bir alacağa kötüniyetle itirazda bulunan davalı aleyhine icra inkar tazminatına hükmedilmesine," karar verilmiştir.
 
@@ -158,6 +166,8 @@ Bu durumda mahkemece; öncelikle davalı tarafın yetki itirazının değerlendi
 
 ## İzmir BAM 14. HD 2024/1500 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1079854400)
+
 Davalılar vekili tarafından verilen cevap dilekçesinde özetle; Müvekkillerinin ...'ın yasal mirasçıları olup kömür ticareti-nakliye işi ile uğraştıklarını, davacı taraf ile herhangi bir ticari ilişkilerinin bulunmadığını, ..., ... plakalı araçların müvekkillerinin murisi olan ...-... üzerine kayıtlı olduğunu, davacı tarafın sunduğu faturalar ve iş emirleri adı altındaki listede yer alan hizmetlerin bir kısmının müvekkillerinin murisinin sağlığında alınan hizmetler olduğunu, araç şoförleri tarafından araçların arızalanması nedeniyle söz konusu araçların davacı yanın işyerine götürüldüğünü, davacı tarafın iş emirlerine karşı onay alıp almadığının kanıtlanması gerektiği, müvekkillerin murisi tarafından bildirilen ve onayı dahilinde yapılan tüm tamirat bakım ve sair bedelleri davacı yana ödendiğini, tahsil edilen meblağların müvekkillerinden mirasçı sıfatı ile yeniden tahsil edilmeye çalışıldığını, müvekkilleri hakkında açılan haksız ve hukuka aykırı davanın reddine, yargılama giderleri ve vekalet ücretinin davacı tarafa yükletilmesine karar verilmesini savunmuştur.
 
 …
@@ -175,6 +185,8 @@ Somut olayda uyuşmazlığın eser sözleşmesinden kaynaklandığından, icra t
 İzmir 6. Asliye Ticaret Mahkemesi'nin 13.12.2021 tarih ve 2021/195 Esas, 2021/840 Karar sayılı kararı, usul ve esas yönünden hukuka uygun bulunduğundan, davalılar vekilinin istinaf kanun yoluna başvurusunun, 6100 sayılı HMK'nın 353/(1)-b-1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2024/1498 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096190100)
 
 İLK DERECE MAHKEMESİ KARARI:Mahkemenin 27.11.2018 tarihli kararı; davalının takipte İstanbul İcra Dairesinin yetkisine de itiraz ederek yetkili icra dairesinin yerleşim yeri olan Kozaklı İcra Dairesi olduğunu belirttiğini, para borçlarında ifa yerine ilişkin kuralın karz sözleşmesinden doğan borçlarla sınırlı olduğunu, somut olayda alacağın otoyol geçiş bedeline dayandığı ve karz akdinden kaynaklı olmadığını, bu nedenle takipte davalının yerleşim yeri icra dairesi olan Kozaklı İcra Daireleri'nin yetkili olduğunu, yetkili icra dairesinde takip yapılmadığını belirterek davanın reddine karar vermiştir.Karar davacı vekili tarafından istinaf edilmiştir.Dairemizin 2019/1125 E-2019/2120 K sayılı 22.11.2019 tarihli kararı ile;
 Somut olayda, davacı tarafın işlettiği otoyolun geçiş bedeli karşılığında kullanılması hususunda, taraflar arasında, hizmet sözleşmesi bulunduğu, İİK'nın 50. maddesi yollamasıyla kıyasen uygulanması gereken HMK'nın 10. maddesi uyarınca takipte akdin ifa edileceği yer icra müdürlüğü de yetkili olduğu, sözleşmeye göre akdin ifa yeri yani hizmetin yapıldığı yer İstanbul olduğundan, davalının takipte yetkiye itirazı yerinde olmadığı gerekçesi ile kararın kaldırılmasına karar verilmiştir.Mahkemenin 23.11.2020 tarihli kararı ile; eldeki davada, davacının davalı şirkete ait araçların işletme hakkı kendisinde olan köprü ve otoyalları ücret ödemeksizin kullanımından ötürü geçiş ücretleri ve cezalar toplamı üzerinden takip başlattığı, davalının itirazı üzerine takibin durduğu, 7144 sayılı Kanun uyarınca, kaçak geçiş halinde tahakkuk eden geçiş ücretinin 10 kat yerine 4 kat olarak değiştirilmesi nedeniyle alacağın 29.834,45 TL'lik kısmı üzerinden itirazın iptalinin istendiği, mahkememizce dosya kapsamına uygun ve denetime elverişli nitelikte tespitler içermesi nedeniyle hükme esas alınan bilirkişi raporu ile dosya kapsamında yer alan tüm bilgi ve belgeler birlikte değerlendirildiğinde,

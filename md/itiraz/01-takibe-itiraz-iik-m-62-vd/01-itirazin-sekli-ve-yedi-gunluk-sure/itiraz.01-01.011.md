@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2023/281 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875927700)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece; davacının düzenlediği faturaların davalının BA bildirim form kayıtlarında mevcut olduğu, fatura ve BA bildirimlerinin uyumlu olduğu, fatura karşılığı verilen çeklerin ödenmediği, davacının alacaklı olduğu toplam 340.174 Euro bedelin ödendiğinin ispat edilmediği, sonuç olarak davacının bu miktar kadar alacaklı olduğu, 340.174 Euronun hesaplama tarihindeki güncel efektif satış kuru üzerinden TL'ye çevrilerek ve yine takip tarihinden hesap tarihine kadar 3095 Sayılı Kanun'un 4/A maddesi gereğince Euro üzerinden açılan hesaba kamu bankalarınca fiilen uygulanan en yüksek faiz oranları hesaplanmak ve eklenmek suretiyle depo emri çıkarıldığı, davalının depo emrine konu miktarı ödediği gerekçesiyle konusuz kalan davada karar verilmesine yer olmadığına karar verilmiştir.
 
 …
@@ -34,6 +36,8 @@ Faturaların kendilerine tebliğ edilmediğini savunduktan sonra, faturaların i
 
 ## Adana BAM 9. HD 2023/183 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887717300)
+
 Davalı cevap dilekçesi ile; davalı ... A.Ş.
 
 …
@@ -45,6 +49,8 @@ Davacı vekili dava dilekçesi ile, davacının murisinin vefatından önce kred
 Mersin 7. İcra Müdürlüğü'nün 2019/... Esas sayılı takip dosyasının incelenmesinde; davacının murisinin çektiği kredi nedeniyle murisin mirasçısı olmasından dolayı davacı hakkında Mersin 7. İcra Müdürlüğü'nün 2019/... Esas sayılı dosyası ile 16.08.2019 tarihinde icra takibi başlatıldığı, davacı ... için ... tarafından vekalet sunularak yapılan itirazın, İcra Müdürlüğünce vekaletname ile sadece avukat sıfatında olanların işlem yapabileceğinden ... yönünden yapılan itirazın reddine karar verildiği, daha sonra davacı vekili tarafından takip dosyasına mirasın reddedildiği ve Feke Sulh Hukuk Mahkemesi tarafından mirasın reddine karar verildiği belirtilerek takibe itiraz edildiği, icra müdürlüğünce itirazın süresinden sonra yapıldığı gerekçesi ile itirazın reddine ve takibin devamına karar verildiği anlaşılmıştır.
 
 ## Adana BAM 9. HD 2023/142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881391500)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili bankanın .../... Şubesi ile dava dışı ... Tavukçuluk Tic.
 
@@ -62,10 +68,14 @@ HMK'deki yetki hükümleri İİK'nin 50/1 maddesine göre ilamsız icradaki yetk
 
 ## İstanbul BAM 12. HD 2023/5 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845577800)
+
 GEREKÇE: Dava, genel kredi sözleşmesinden kaynaklanan alacağın tahsili amacıyla başlatılan takibe yönelik itirazın iptali istemine ilişkindir. HMK'nın 341/2 ve Ek 1. maddesine göre, 1.1.2020 tarihinden itibaren miktar veya değeri 5.390-TL'yi geçmeyen malvarlığı davalarına ilişkin kararlar kesindir. Somut olayda dava değerinin 119.151,16-TL olduğu, 116.175,64-TL alacak bakımından davanın kabul edildiği, davacı vekili tarafından davalı ... bakımından reddedilen 2.975,52-TL için istinafa gelindiği,reddedilen kısmın kesinlik sınırı içinde bulunduğu anlaşılmakla; davacı vekilinin davalı ... bakımından istinaf başvurusunun usulden reddine karar verilmiştir. Davalı şirket bakımından ise ; İİK'nın 62/1 maddesi uyarınca; ilamsız takipte borçlulara gönderilen ödeme emrine itiraz etmek isteyen borçlu, itirazını, ödeme emrinin tebliği tarihinden itibaren yedi gün içinde dilekçe ile veya sözlü olarak icra dairesine bildirmeye mecburdur. Somut olayda ödeme emri, davalı asıl borçlu şirkete 01.07.2017 tarihinde tebliğ edilmiş olup, borçlu şirket vekili tarafından 7 günlük yasal hak düşürücü itiraz süresi geçtikten sonra, 13.07.2016 tarihinde itiraz edilmiştir.
 Ödeme emrine itiraz süresinin geçirilmesinin etkisi mutlak olup, icra müdürü tarafından kendiliğinden gözetilmesi gerekir. Bu durumda davalı şirketin itirazı yasal sürede yapılmadığından, şirket bakımından takip kesinleşmiştir. Kesinleşen takibe karşı itirazın iptali davası açılmasında hukuki yarar bulunmadığından borçlu şirket bakımından açılan davanın hukuki yarar yokluğu nedeniyle usulden reddine karar verilmesinde bir isabetsizlik yoktur. Açıklanan nedenlerle; davalı müteselsil kefil bakımından istinafa konu reddedilen alacak kısmına yönelik hüküm miktar bakımından kesin olduğundan istinaf başvurusunun usulden, davalı şirket hakkında verilen hükme yönelik istinaf başvurusunun ise esastan reddine karar verilmiştir.
 
 ## Sakarya BAM 7. HD 2022/2301 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852676500)
 
 İlk derece mahkemesince; "... davanın kısmen kabul ve kısmen reddine, davalının Gölcük İcra Müdürlüğü'nün 2019/3491 Esas sayılı takip dosyasına yapmış olduğu itirazın kısmen iptali ile takibin 24.147,84 TL asıl alacak üzerinden ve bu meblağa takip tarihinden tahsil tarihine kadar işletilecek avans faizi ile birlikte devamına, Alacak likit olduğundan İİK 67/2. maddesi uyarınca 24.147,84 TL üzerinden hesaplanacak %20 oranındaki icra inkar tazminatının davalıdan tahsil edilerek davacıya verilmesine, Fazlaya yönelik talebin reddine ..." şeklinde hüküm kurulmuştur.
 
@@ -82,6 +92,8 @@ delil olma özelliğini kazandığı, davacının usule uygun olarak tutulmuş t
 
 ## İstanbul BAM 16. HD 2022/2260 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843989100)
+
 MAHKEME KARARI; Bakırköy 2. Asliye Ticaret Mahkemesi'nin 17/05/2022 tarihli, 2021/896 Esas, 2022/443 Karar sayılı kararıyla; " davacının iddiası, davalının savunması, müzekkere cevabı, konuya ilişkin yasal düzenlemeler ile mevcut delil durumu ve dosya kapsamı da dikkate alındığında yükümlülerin kendi nezdinde veya bunlar aracılığıyla yapılan veya yapılmaya teşebbüs edilen işlemlere konu malvarlığının yasa dışı yollardan elde edildiğine veya yasa dışı amaçlarla kullanıldığına dair herhangi bir bilgi, şüphe veya şüpheyi gerektirecek bir hususun bulunması halinde bu işlemlerin yükümlüler tarafından Mali Suçları Araştırma Kurulu Başkanlığına bildirilmesinin zorunlu olduğu, davacı tarafından hesabına uygulanan blokenin kaldırılması için keşide edilen Beşiktaş ...
 Noterliğinin ... yevmiye numaralı ve 28/06/2021 tarihli ihtarname ve blokenin kaldırılmaması üzerine davacı tarafından girişilen icra takibi tarihi itibariyle davalı banka tarafından Mali Suçları Araştırma Kurulu Başkanlığına şüpheli işlem bildiriminde bulunulmadığı, davalı banka tarafından icra takibi kapsamında kendilerine gönderilen ödeme emrine itiraz edildiği 02/09/2021 tarihi itibariyle Başkanlığa şüpheli işlem bildiriminde bulunulduğu, mevzuat uyarınca şüpheli işlem bildirimi üzerine işlemleri yedi iş günü süreyle askıya almaya veya bu işlemlerin aynı süreyle gerçekleşmesine izin vermemeye Bakanın yetkili olduğu, Bakanın bu yetkisini Bakan Yardımcısına devredebileceği, dolayısıyla şüpheli işlemin davalı banka tarafından tespiti üzerine bu işlemin yasal zorunluluk olarak Başkanlığa bildirilmesinden önce davalı bankanın, davacının hesabına bloke koyması işleminin usul ve mevzuata aykırı olduğunun Mahkemece değerlendirildiği, aynı zamanda Bakırköy ...
 İcra Müdürlüğünün ... sayılı takip dosyasında davacı alacaklı tarafından davalı borçlu aleyhine toplamda 70.422,03 USD üzerinden takibe geçilmiş ise de davanın 1.000,00 TL üzerinden açılmış olması ve itirazın iptali davasında ıslah ile artırım yapılmasına yasal olarak olanak bulunmaması sebebiyle bu miktar dikkate alınarak açılan davanın kabulüne karar verildiği" gerekçesiyle; "AÇILAN DAVANIN KABULÜ İLE, Bakırköy ... İcra Müdürlüğünün ... Esas sayılı icra takip dosyasında davalı tarafından yapılan İTİRAZIN İPTALİNE, takibin 1.000,00 TL üzerinden DEVAMINA, -Davacı tarafın icra inkar tazminatı talebinin kabulü ile asıl alacağın % 20'sine tekabül eden 200,00 TL icra inkar tazminatının davalıdan alınarak davacıya verilmesine" karar verilmiş, kararın kesin olarak verildiği açıklanmıştır.
@@ -91,6 +103,8 @@ Noterliğinin ... yevmiye numaralı ve 28/06/2021 tarihli ihtarname ve blokenin 
 H Ü K Ü M: Yukarıda açıklanan nedenlerle: 1-Davalı vekilinin sair istinaf sebepleri bu aşamada incelenmeksizin istinaf isteminin kabulü ile, 6100 sayılı HMK'nın 355 ve 353/1-a-6 maddeleri gereğince, BAKIRKÖY 2. ASLİYE TİCARET MAHKEMESİ'nin 17/05/2022 tarihli 2021/896 E. - 2022/443 K. sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 16. HD 2022/2133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842101700)
 
 İLK DERECE MAHKEMESİ KARARI: İlk derece mahkemesince; "...Davacı alacağı kilit nitelikte olduğundan ve davalı takibe itirazda haksız bulunduğundan, davalının İİK'nun 67 maddesi uyarınca %20 icra inkar tazminatı ile sorumlu tutulmasına karar verilmiştir. Yasal koşulları oluşmayan kötüniyet tazminatı talebi reddedilmiştir.
 
@@ -107,6 +121,8 @@ H Ü K Ü M: Yukarıda açıklanan gerekçe ile: 1-6100 sayılı HMK.'nın 353/1
 
 ## Ankara BAM 22. HD 2022/1841 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848691800)
+
 Davalı vekili, müvekkilinin davacı şirkete herhangi bir borcunun bulunmadığını, fazla ödemelerinin oluştuğunu, davacının da bu yüzden iş bu takibi başlattığını, 12.02.2018 tarihli hesap mutabakatı yapıldığına dair herhangi bir belgenin taraflarınca imzalanmadığını bildirerek davanın reddini istemiştir.
 
 …
@@ -120,10 +136,14 @@ Ankara Batı İcra Müdürlüğü'nün 2018/14482 E. sayılı takip dosyasının
 
 ## İstanbul BAM 15. HD 2022/1645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/818691000)
+
 Esas sayılı dava dosyası kapsamında haberdar oldukları, ödeme emrine itirazın en geç anılan dava dosyasındaki kararla öğrenildiğinin kabulü gerektiği, itirazın iptali davaları için öngörülen 1 yıllık hak düşürücü sürenin davanın açıldığı 23.01.2020 tarihi itibari ile geçirildiği gerekçesiyle, hak düşürücü süre içinde açılmayan davanın reddine karar verilmiştir. Mahkeme kararına karşı davacı vekilince istinaf kanun yoluna başvurulması üzerine Dairemizin 21/12/2020 tarih, 2020/1542 Esas, 2020/1553 Karar sayılı karar ile; davanın, alacak davası olmasına rağmen, mahkemece işin esasına girilip esas hakkında inceleme ve araştırma yapılarak sonucuna uygun bir karar verilmesi gerekirken, davanın itirazın iptali davası olduğu kabul edilerek hak düşürücü süre nedeniyle davanın reddine karar verilmesinin hatalı olduğu gerekçesiyle mahkeme kararının kaldırılmasına karar verilmiştir.
 Dairemizin kaldırma kararı sonrasında yerel mahkemece verilen 01/06/2022 tarihli karar ile, davacı vekilinin yüzüne karşı HMK 394/5. ve 341/1. maddesi gereğince tebliğden itibaren 2 hafta içerisinde istinaf yolu açık olmak üzere açılan davanın kısmen kabulüne, toplam 4.978,99 TL' nin temerrüd tarihi olan 20/06/2011 tarihinden itibaren işleyecek avans faizi ile davalıdan tahsili ile davacıya ödenmesine, fazlaya ilişkin talebin reddine karar verilmiş, davacı vekilinin 07/07/2022 tarihli talep dilekçesine istinaden 20/07/2022 tarihli tavzih kararı ile, mahkemenin 01/06/2022 tarih ve 2021/98 Esas, 2022/616 Karar sayılı kararının hüküm maddesinde maddi hata sonucu; " 2 hafta içerisinde istinaf yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı." olarak yazılan hükmün; "miktar itibari ile kesin olmak üzere verilen karar açıkça okunup, usulen anlatıldı." şeklinde kesin olmak üzere tavzihine karar verilmiştir.
 
 ## Ankara BAM 22. HD 2022/1565 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/831354300)
 
 Davalı vekili süresinden sonra verdiği cevap dilekçesinde, dosyaya sunulan taahütname suretine bakıldığında özellikle 7. maddesinin karartıldığını ve okunmayacak halde olduğunu, bu maddeye göre taahhütnamenin geçerli olması için taahhütnamede belirtilen işin... adlı firma tarafından temlik alınması gerektiğini, ancak bu durumun gerçekleşmediğini bildirerek davanın reddi ile müvekkili lehine kötüniyet tazminatına karar verilmesini istemiştir.
 
@@ -136,6 +156,8 @@ Mahkemece, toplanan delillere ve tüm dosya kapsamına göre, taahhütnameye kon
 Ankara 3. İcra Müdürlüğü'nün 2016/21411 Esas sayılı icra takibi dosyası fotokopisinin incelenmesinden aralarındaki ticari ilişki nedeni ile taraflar arasındaki taahhütnameden kaynaklanan alacaklarının ödenmediği düşüncesinde olan davacı tarafından davalıdan toplam 600.147,95 TL'nin tahsili talep edildiği, ödeme emri 16/11/2016 tarihinde tebliğ edilen davalının 16/11/2016 tarihli itirazı üzerine icra takibi durdurulduğu, davalının itirazında davacıya borçları olmadığının ileri sürüldüğü, yasal süresi içerisinde takibe itiraz edilerek iş bu davanın yasal süresi içerisinde açıldığı anlaşılmıştır.
 
 ## İzmir BAM 4. HD 2022/1440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778576700)
 
 Davacı vekili dava dilekçesinde özetle; davalının Ticarethane vasfındaki aboneliğine ait ödenmeyen 2013/3 kaçak bedelinin tahsili amacı ile İzmir 10.
 
@@ -158,6 +180,8 @@ Davacı vekili ile davalı vekilinin tüm istinaf nedenleri yerinde görülmedi�
 …
 
 ## Gaziantep BAM 11. HD 2022/1367 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804063200)
 
 Davacı vekili dava dilekçesinde özetle; davalı ile müvekkili arasında ticaret neticesinde müvekkili tarafından davalıya dava konusu icra takibinin dayanağı olan .... tarih .... numaralı .... TL bedelli .... tarih .... numaralı ....TL .... tarih .... numaralı .... TL ve .... tarih .... numaralı ...
 

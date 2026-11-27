@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2019/13035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539535200)
+
 O halde, mahkemece, her ne kadar borçlular davadan feragat etmişler ise de, alacaklı tazminat talebinde bulunduğundan ve takip durdurulduğundan İİK’nun 170. maddesi gereğince alacaklının tazminat talebinin kabulü gerekirken yazılı şekilde hüküm tesisi isabetsizdir.
 
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nin 366. ve HUMK’nin 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 17. HD 2019/6475 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520362300)
 
 Davacı vekili, sigortalı konutun bulunduğu binanın giderindeki suyun geri tepmesi sonucu sigortalısına 5.700,00 TL olarak ödediği hasar tazminatının işleyecek faizi ile birlikte davalı kat maliklerinden tahsili için başlatılan icra takibine yapılan itirazın iptalini talep etmiştir.
 
@@ -42,6 +46,8 @@ SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle davacı vekilinin temyi
 
 ## Yargıtay 10. HD 2019/5944 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/606917200)
+
 Mahkemece, ilamında belirtilen gerekçelerde davanın reddine karar verilmiştir.
 
 …
@@ -54,6 +60,8 @@ SONUÇ: Temyiz edilen hükmün yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 4. HD 2019/3727 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520758900)
+
 Mahkemece, davalıların ... 3.Asliye Hukuk Mahkemesinin 2012/82 esas ve 2015/566 karar sayılı dosyasında ihbar olunanlar sıfatıyla yargılandıkları, asli davalı olarak bu dosyada davaya dahil edilmedikleri bu sıfatla aleyhlerine kurulmuş icrası kabil bir karar bulunmadığı haklarında yapılan takibin hukuki dayanaktan yoksun ve yersiz olduğu gerekçesiyle takibe vaki itirazın iptali isteminin reddine karar verilmiştir.Dosyadaki bilgi ve belgelerden; dava dışı gözlük firması yetkilileri hakkında açılan tazminat davasında ...
 
 …
@@ -63,6 +71,8 @@ Somut davanın dayanağı ise belirtilen ... 3.Asliye Hukuk Mahkemesinin 2012/82
 2004 sayılı İcra ve İflas Kanununun 67. maddesinde takip talebine itiraz edilen alacaklının, mahkemeye başvurarak, genel hükümler dairesinde alacağının varlığını ispat suretiyle itirazın iptalini dava edebileceği düzenlenmiştir. İtirazın iptali davası genel hükümlere yönelik bir eda davası olduğu için ispat da genel ispat kurallarına göre yapılabilir. Öte yandan 6098 sayılı Türk Borçlar Kanunu'nun 74. maddesi (818 sayılı BK'nın 53. maddesi) uyarınca hukuk hakimi, ceza mahkemesinin beraat kararı ile bağlı değil ise de hukuk hakiminin bu bağımsızlığı sınırsız olmayıp hem ilmi, hem de kökleşmiş yargı kararlarında ceza mahkemesince belirlenen maddi olgunun hukuk hakimini bağlayacağı kabul edilmektedir. Davaya konu işlemleri nedeniyle davalılar hakkında ... 3. Sulh Ceza Mahkemesinin 2011/387 esas sayılı dosyasında kamu davası açıldığı da gözetildiğinde bu ceza davasının kesinleşmesi beklenmelidir.Şu halde; mahkemece, açılan davanın davacının alacaklı sıfatıyla başlattığı ilamsız icra takibine yönelik itirazın iptaline dair olduğu ve genel hükümler kapsamında ispat hakkı bulunduğu da gözetilerek; ceza dosyası …
 
 ## Yargıtay 22. HD 2019/3036 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/691539200)
 
 Davacı, davalı işveren yanında 2010-2014 tarihleri arasında kalite kontrol biriminde çalıştığını, iş akdine haklı neden olmaksızın davalı işveren tarafından son verildiğini, işçilik tazminat ve alacaklarının ödenmemesi üzerine davalı aleyhine icra takibi başlattığını, davalının bu takibe itiraz ederek durdurduğunu, sonrasında aralarında takip tutarının ödenmesi hususunda protokol yapıldığını, davalının ilk taksiti ödemesine karşın devamını ödememesi nedeniyle itirazın iptali davası açılması lüzumu doğduğunu beyanla, icra takibine yönelik itirazın protokol gereği belirlenen bakiye alacak tutarı üzerinden iptali ile davalı aleyhine %20 icra inkar tazminatına hükmedilmesini talep etmiştir.
 
@@ -86,6 +96,8 @@ Temyiz olunan kararın yukarıda yazılı sebeplerden BOZULMASINA …
 
 ## Yargıtay 13. HD 2019/1610 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/499908200)
+
 Davacı banka, davalının dava dışı asıl kredi borçlusunun kullanmış olduğu tüketici kredisine müşterek borçlu ve müteselsil kefil olduğunu, asıl borçlunun kredi borcunu ödememesi nedeniyle hakkında icra takibi başlatıldığını, borca itiraz üzerine icra takibinin durduğunu, bu nedenle itirazın iptaline, takibin devamına ve davalının % 20 icra inkar tazminatına mahkum edilmesine karar verilmesini talep etmiştir.
 
 …
@@ -99,6 +111,8 @@ Dava, dava dışı ... ile davacı banka arasında imzalanan 13.09.2011 tarihli 
 SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 11. HD 2019/1393 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481041100)
 
 Davacı vekili, müvekkil şirketin ticari faaliyetleri sonucunda ürettiği ürünlerin vereceği her türlü maddi ve manevi zararların giderilmesi için davalı şirket ile 28/09/2006 tarihinde “Ürün Sorumluluk Sigorta Poliçesi” yapıldığını, 01/02/2007 tarihinde üretimi yapılan teleskopun, dava dışı ... Maden Pet. Ürün.
 
@@ -118,6 +132,8 @@ SONUÇ: Yukarıda açıklanan nedenlerden dolayı, taraf vekillerinin bütün te
 
 ## Yargıtay 13. HD 2019/674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/499242200)
+
 Davalı, cevap dilekçesi sunmamıştır.
 
 Mahkemece, toplanan delillerle birlikte bilirkişiden alınan rapora göre davanın reddine karar verilmiş; hüküm, davacı ... Yönetim A.Ş. tarafından temyiz edilmiştir.
@@ -130,6 +146,8 @@ Hal böyle olunca Adli Tıp Kurumunun 07.10.2011 tarihli raporunda inceleme konu
 SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/17851 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/511712700)
 
 Davacı alacaklı 01.04.2006 başlangıç tarihli yazılı kira akdine dayanarak ........2016 tarihinde haciz ve tahliye talepli olarak başlattığı icra takibi ile 01.04.2009 kira döneminden 01.04.2015 kira dönemine kadarki yıllık kira farkı alacağı 163.044,00 TL’nin faiziyle tahsilini talep etmiş, ödeme emri davalı borçluya23.....2016 tarihinde tebliğ edilmiştir.
 
@@ -144,6 +162,8 @@ itirazdan feragat ettiğinden itirazın ortadan kalktığı ve takibin kesinleş
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile, İİK 364/... maddesi yollamasıyla uygulaması gereken HMK 373/... maddesi gereğince Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 3. HD 2018/11042 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463125000)
 
 Davacı, kendisine ait işyerini maden işletme ruhsatı ile birlikte 26/10/2001 tarihinde davalı şirkete devrettiğini, davalının elektrik aboneliğini üzerine almaktan kaçındığını, halen elektrik abonesi olarak kendisinin göründüğünü, devir tarihinden sonra davalı şirketin fiili olarak kullanıp da ödemediği elektrik fatura bedellerini icra tehdidi altında ödemek zorunda kaldığını, ödediği bedeli davalıdan rücuen tahsil etmek amacıyla davalı aleyhine icra takibi başlatıldığını, davalının haksız ve kötüniyetli itirazı nedeniyle takibin durduğunu ileri sürerek, itirazın iptali ile takibin devamına ve davalı aleyhine icra inkar tazminatına hükmedilmesini istemiştir.
 
@@ -160,6 +180,8 @@ Somut olayda; Mahkemece, karar gerekçesinde "...Dosya içerisindeki evraklar in
 SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 9. HD 2018/10357 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426617600)
 
 Davacı kurum, davalının işsizlik ödeneği almakta iken gelir getirici işte çalıştığının tespit edilmesi üzerine gelirinin kesilerek 01/03/2010 tarihli yazı ile yapılan fazla ödemenin iadesinin istenildiğini, ödeme yapılmaması üzerine davalı aleyhine ... ... 11. İcra Müdürlüğü'nün 2010/19654 Esas sayılı dosyası ile icra takibi yapıldığını ve davalının takibe itiraz ettiğini ileri sürerek, itirazın iptali ile takibin devamına, alacağının %40'ından az olmamak üzere icra inkar tazminatına hükmedilmesini talep etmiştir.
 
@@ -181,6 +203,8 @@ Temyiz olunan kararın, yukarıda yazılı nedenden dolayı BOZULMASINA …
 
 ## Yargıtay 13. HD 2018/8221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/446364300)
+
 Davacı, davalılar aleyhine başlatılan icra takibine davalıların vekili olarak itiraz edip takibin durmasını sağladığını, davalılar tarafından haksız olarak azledildiğini, davalılardan olan vekalet ücreti alacağının tahsili için ... 6. İcra Müdürlüğünün 2014/4718 sayılı dosyası ile başlattığı takibin davalıların itirazı nedeniyle durduğunu ileri sürerek, davalıların haksız azli ve hizmetin görülmüş olması nedeniyle muaccel hale gelen 29.615,70-TL ücret alacağına karşı itirazın iptaline, %20'den aşağı olmamak üzere icra inkar tazminatına hükmedilmesine karar verilmesini istemiştir.
 
 Davalılar, davaya cevap vermemiştir.
@@ -198,6 +222,8 @@ SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle temyiz olunan kararın d
 
 ## Yargıtay 10. HD 2018/4446 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429354000)
+
 Mahkemece, ilamında belirtilen gerekçelerde davanın reddine karar verilmiştir.
 
 …
@@ -210,6 +236,8 @@ Mahkemece, ilamında belirtilen gerekçelerde davanın reddine karar verilmişti
 SONUÇ: Temyiz edilen hükmün yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 23. HD 2016/3160 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/246720900)
 
 Davacılar vekili, müvekkillerinin murisi .... ile davalı kooperatif arasında arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, sözleşmenin dairelerin 48 ay içerisinde anahtar teslimini içerdiğini, 48 ay içinde teslim edilmez ise günün rayiç değerine göre kira bedeli ödeneceğinin belirtildiğini, belirtilen süre içinde dairelerin müvekkiline devredilmediğini, sözleşmenin 8. maddesi gereğince müvekkillerine ait her bir daire için rayiç kira bedeli ödenmesi gerektiğinden davalı aleyhine 34.560,00 TL'nin tahsili için icra takibi yapıldığını, davalının kötüniyetli ve haksız olarak takibe itiraz ettiğini ileri sürerek, itirazın 30.000,00 TL asıl alacak için iptali ile %20 icra inkar tazminatının tahsilini talep ve dava etmiş, 05.05.2014 tarihli ıslah dilekçesi ile talebini 34.560,00 TL olarak ıslah etmiştir.
 
@@ -228,6 +256,8 @@ Dava, arsa payı karşılığı inşaat sözleşmesine dayalı kira tazminatına
 
 ## Yargıtay 12. HD 2015/26266 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/130148000)
+
 Bu durumda, İİK'nun 147/1. maddesinin göndermesi ile olayda uygulanması gereken aynı Kanun'un 66. maddesine göre asıl borçlu şirket hakkındaki takip durduğuna göre; takibe devam edilebilmesi, alacaklının itirazın kaldırılmasına ilişkin icra mahkemesinden veya itirazın iptaline dair genel mahkemeden alacağı olumlu karara bağlıdır. Ne var ki, alacaklı tarafından itirazın kaldırılması veya itirazın iptali yolunda bir kararın icra dairesine sunulmadığı dosya kapsamıyla sabit olup;bu halde,takibin devamına olanak yoktur.Öte yandan,asıl borçlu şirket hakkındaki takip devam etmemesine rağmen ipotek veren üçüncü kişiye karşı takibin yürütülmesi ve ipotekli taşınmazın satış işleminin yapılması İİK'nun 149/b maddesi hükmüne aykırıdır. Zira, asıl borçlu şirket ve ipotekli taşınmaz maliki üçüncü kişi arasında bulunan zorunlu takip arkadaşlığı nedeniyle, takip üçüncü kişiye karşı kesinleşmiş olsa bile, asıl borçluya karşı kesinleşmedikçe, ipotekli taşınmazın satışı istenemez.
 
 …
@@ -236,6 +266,8 @@ SONUÇ : Borçluların temyiz itirazlarının kısmen kabulü ile mahkeme karar�
 
 ## Yargıtay 12. HD 2012/33809 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/57910600)
+
 Borçlunun yasal sürede yaptığı itiraz ile takip durduğuna ve alacaklı tarafından itirazın kaldırılması ya da iptali yönünde alınmış bir karar ibraz edilmediğine göre icra takibinin devamı olanaksızdır. İtirazdan feragatin açıkça yapılması zorunlu olup, borçlu tarafından icra takip dosyasına borcun ödenmesi, itirazdan feragat anlamına gelmez.
 
 …
@@ -243,6 +275,8 @@ Borçlunun yasal sürede yaptığı itiraz ile takip durduğuna ve alacaklı tar
 SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 19. HD 2012/9015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810691000)
 
 Mahkemece toplanan deliller ve dosya kapsamına göre; takip borçlusu tarafından yapılan itirazın icra müdürlüğünce reddedildiği, bu nedenle takibin durmadığı, dolayısıyla takip alacaklısı davacının itirazın iptali davasını açmakta hukuki yararının bulunmadığı gerekçesiyle davanın reddine karar verilmiş, hüküm taraf vekillerince temyiz edilmiştir.
 
@@ -253,6 +287,8 @@ Hal böyle olunca; somut olayda borçlunun itirazı takibi durduracağından dav
 SONUÇ : Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 3. HD 2011/9156 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970201900)
 
 Davacı İdare hem yetkiye hem de borca itiraz edilmesi karşısında genel mahkemede itirazın iptali davasını açmak yolunu seçmiştir. Bu davada da iddiasını haksız fiilden doğan para alacağı olması nedeniyle HUMK'nun 21 ve BK.nun 73.maddesi gereğince davacının ikametgahının bulunduğu Ankara İcra Dairelerinin yetkili olduğu noktasına dayandırmıştır.
 
@@ -269,6 +305,8 @@ Her iki halde de, gerek mahkeme gerek tetkik mercii takibe yapılan itiraz neden
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2007/19088 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16104900)
 
 Mahkemece, İcra Müdürlüğü'nün 2004/1 sayılı dosyasında düşürülme kararı verildiği, icra müdürünün bu konudaki işlemi şikayet yoluyla halledilmeden, davacı tarafça bu davanın açıldığı gerekçe gösterilmek suretiyle davanın reddine karar verilmiştir.
 

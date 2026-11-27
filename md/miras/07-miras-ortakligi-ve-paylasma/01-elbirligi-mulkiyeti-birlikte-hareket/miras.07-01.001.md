@@ -27,6 +27,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152802200)
+
 Türk Medeni Kanunu’nun “Miras ortaklığı” başlıklı 640. maddesinde de, birden çok mirasçı bulunması hâlinde, mirasın geçmesiyle birlikte paylaşmaya kadar, mirasçılar arasında terekedeki bütün hak ve borçları kapsayan bir ortaklığın meydana geleceği, mirasçıların terekeye elbirliğiyle sahip olacakları, sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere terekeye ait bütün haklar üzerinde birlikte tasarruf edecekleri düzenleme altına alınmıştır.
 
 Bu hükümden anlaşılacağı üzere tereke (miras ortaklığı) 4721 sayılı Kanun’un 701. ve devam eden maddeleri uyarınca elbirliği mülkiyetine tabidir. Aynı Kanun’un 702/2. maddesine göre elbirliği mülkiyetinde, kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, gerek yönetim, gerek tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gerektiğinden aralarında zorunlu dava arkadaşlığı bulunmaktadır.
@@ -37,11 +39,15 @@ Dava şartı olan taraf ehliyeti, dava ehliyeti ve davayı takip yetkisi, davan�
 
 ## Yargıtay HGK 2025/292 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152419600)
+
 Davanın açıldığı sırada mevcut olmasına rağmen yargılama sırasında taraflardan birinin ölümüyle taraf ehliyetinin sona ermesi durumunda HMK’nın 55. maddesi uygulama alanı bulur. Bu doğrultuda HMK’nın 55. maddesi “Taraflardan birinin ölümü hâlinde, mirasçılar mirası kabul veya reddetmemişse, bu hususta kanunla belirlenen süreler geçinceye kadar dava ertelenir. Bununla beraber hâkim, gecikmesinde sakınca bulunan hâllerde, talep üzerine davayı takip için kayyım atanmasına karar verebilir” hükmünü haiz olup anılan maddenin uygulanabilmesi için dava konusunun ölen tarafın varislerine miras yoluyla intikali mümkün malvarlığına ilişkin olması gerekir. Başka bir anlatımla, dava konusunun sadece ölen tarafı ilgilendirdiği, miras yoluyla intikali mümkün olmayan bir hakka ilişkin olduğu hâllerde taraflardan birinin ölümü sonrasında mirasçılarla davaya devam edilemeyeceğinden HMK’nın 55. maddesi uygulama alanı bulmaz (Baki Kuru, Hukuk Muhakemeleri Usulü, C. I, İstanbul 2001, s.907, 914; Hakan Pekcanıtez vd., Medeni Usul Hukuku, İstanbul, 2017, C 1., s.578).
 
 Miras yoluyla intikali mümkün hakların konu edildiği bir davada davacının ölümü hâlinde HMK’nın 55. maddesi gereğince mahkemece, davacının mirasçılarının tamamı tespit edilerek davadan haberdar edilmeleri gerekir. Davacının tek bir mirasçısının bulunması hâlinde bu mirasçı, birden fazla mirasçısının bulunması hâlinde de TMK’nın 640. maddesi uyarınca terekeye elbirliğiyle malik olmaları sonucu aralarında HMK’nın 59. maddesi gereği mecburi dava arkadaşlığı bulunan mirasçıların tamamı davadan haberdar edilerek murisleri tarafından açılan davaya devam etme iradesinde olup olmadıkları belirlenmelidir. Ancak her hâlükarda davacının vefatından sonra yargılamaya devam edilebilmesi için mahkemece mirasçıların tamamının davaya katılımının sağlanması veya terekeye temsilci atanması yoluyla taraf teşkilinin sağlanarak yargılamaya devam edilip hüküm kurulması gerekir.
 
 ## Yargıtay HGK 2025/214 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152345000)
 
 Dava, vekâlet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkin olup uyuşmazlığın çözümü için öncelikle asıl ve birleşen davalarda miras payları oranında talepte bulunan davacıların eldeki davada aktif dava ehliyetlerinin bulunup bulunmadığına göre değerlendirme yapılması gerekmektedir.
 
@@ -55,9 +61,13 @@ Terekeye ait haklar üzerinde tasarruf söz konusu ise ortakların oybirliği il
 
 ## Yargıtay HGK 2024/217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055512600)
+
 Paylı mülkiyette de taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan payına vâki el atmanın önlenmesini her zaman isteyebilir. Hatta elbirliği mülkiyetinde dahi paydaşlardan biri öteki paydaşların olurlarını almadan veya miras şirketine temsilci atanmadan tek başına ortak taşınmazdan yararlanmasına engel olan ortaklar aleyhine el atmanın önlenmesi davası açabilir. Ancak, o paydaşın, payına karşılık çekişmesiz olarak kullandığı bir kısım yer varsa, açacağı el atmanın önlenmesi davasının dinlenme olanağı bulunmamaktadır. Yerleşmiş Yargıtay içtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorununu el atmanın önlenmesi davası ile değil, kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir.
 
 ## Yargıtay HGK 2022/1579 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858914600)
 
 Dava, muris muvazaası hukuksal nedenine dayalı miras payı oranında tapu iptali ve tescil, olmadığı takdirde tenkis istemine ilişkindir.
 
@@ -68,11 +78,15 @@ Türk Medeni Kanunu’nun 701. maddesinin 2. fıkrasında belirtildiği üzere, 
 
 ## Yargıtay HGK 2022/752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794335000)
+
 Miras ortaklığı devam ederken terekeye ilişkin olarak mirasçılara karşı açılacak olan davalarda davanın tüm mirasçılara karşı açılmasının gerekip gerekmediği davanın konusuna göre değişmektedir. TMK’nın 641/1. maddesi hükmüne göre mirasçılar tereke borçlarından müteselsilen sorumludurlar. Bu hüküm gereğince terekeye ilişkin olarak mirasçılara karşı açılacak olan para alacağı davalarında davacı istediği mirasçıya karşı dava açabilir veya takip yapabilir. Bu durumda mirasçılar arasında ihtiyari dava arkadaşlığı söz konusu olur (Kuru Baki/Arslan Ramazan/Yılmaz Ejder: Medeni Usul Hukuku, Ankara 2007, s. 242).
 
 Terekeye ilişkin olarak mirasçılara karşı açılacak olan davanın konusu paradan başka bir şey ise, bu durumda davanın tüm mirasçılara karşı açılması gerekir. Bunun nedeni ise, TMK’nın 640. maddesi uyarınca, miras ortaklığında mirasçıların terekedeki mal ve haklar üzerinde elbirliği hâlinde hak sahibi olmaları ve tereke üzerinde ancak hep birlikte tasarruf edebilmeleridir (Kuru/Arslan/Yılmaz, s. 242, 243).
 
 ## Yargıtay HGK 2022/710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792552000)
 
 Mirasçılardan her biri, terekedeki hakların korunmasını isteyebilir. Sağlanan korumadan mirasçıların hepsi yararlanır…” hükmü öngörülmüştür.
 
@@ -82,17 +96,23 @@ Elbirliği (iştirak hâlinde) mülkiyet türünde malikler, mülkiyet payları 
 
 ## Yargıtay HGK 2020/661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615819000)
+
 Diğer yandan, 4721 sayılı Türk Medeni Kanunu’nun (TMK) “Miras ortaklığı” başlıklı 640. maddesinde, birden çok mirasçı bulunması halinde, mirasın geçmesiyle birlikte paylaşmaya kadar, mirasçılar arasında terekedeki bütün hak ve borçları kapsayan bir ortaklığın meydana geleceği, mirasçıların terekeye elbirliğiyle sahip olacakları, sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere terekeye ait bütün haklar üzerinde birlikte tasarruf edecekleri düzenleme altına alınmıştır. Dava konusu taşınmazlar da mirasbırakan ...’ın ölümü üzerine mirasçılarına intikal etmiş olup, davanın tarafları ile dava dışı ...’nın elbirliği mülkiyetinde bulunmaktadır.
 
 Bir şey üzerindeki mülkiyet hakkı, bir kişiye ait olabileceği gibi birden fazla kişiye de ait olabilir. Birinci durumda “ferdi mülkiyet” söz konusu iken, ikinci ikinci durumda TMK’nın 688 ve devamı maddelerinde düzenlenen “birlikte mülkiyet” söz konusudur. Birlikte mülkiyet ise “paylı mülkiyet” ve “elbirliği mülkiyeti” şeklinde olabilir. Paylı mülkiyette birden çok kimse, maddi olarak bölünmüş olmayan bir şeyin tamamına belli paylarla maliktir. Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti ise elbirliği mülkiyetidir. Elbirliği mülkiyetinde, ortakların belirlenmiş payları olmayıp her birinin hakkı, ortaklığa giren malların tamamına yaygındır.
 
 ## Yargıtay HGK 2020/279 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602207300)
+
 Birden çok kimsenin taşınır veya taşınmaz nitelikteki aynı eşya üzerinde maddi şekilde bölünmemiş paylara malik olmalarına imkân veren mülkiyet türü, paylı mülkiyettir. Elbirliği ile mülkiyet hâli ise, 4721 sayılı TMK’nın 701. maddesinin 1. ve 2. fıkralarında “Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir. Elbirliği mülkiyetinde ortakların belirlenmiş payları olmayıp her birinin hakkı, ortaklığa giren malların tamamına yaygındır” şeklinde tanımlanmıştır. Ölüm olayı ile birlikte miras bırakanın malları üzerinde mirasçılar arasında kendiliğinden kurulan “miras ortaklığı” elbirliği ile mülkiyet hâlinin en tipik örneğidir. Mirasçılar ölüme bağlı olarak murisin malvarlığı (tereke) unsurları üzerinde elbirliği hâlinde mülkiyete sahip oldukları için terekeye ait bütün haklar üzerinde ancak birlikte tasarruf edebilirler (TMK m. 640/2).
 
 Mirasçılardan her biri, sözleşme veya kanun gereğince ortaklığı sürdürmekle yükümlü olmadıkça, her zaman mirasın paylaşılmasını isteyebilir. 4721 sayılı TMK’nın 642. maddesinde:
 
 ## Yargıtay HGK 2020/33 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602101400)
 
 Bir mirasçı diğerlerinin muvafakatı olmadan dava açabilir ve yalnız başına davaya devam edebilir …
 
@@ -110,6 +130,8 @@ denilmek suretiyle, kadastro ile ilgili davalarda terekeye ilişkin davaların t
 
 ## Yargıtay HGK 2019/690 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520445500)
+
 Dava; kambiyo senedinden dolayı borçlu olunmadığının tespiti istemine ilişkindir.
 
 …
@@ -117,6 +139,8 @@ Dava; kambiyo senedinden dolayı borçlu olunmadığının tespiti istemine ili�
 Türk Medeni Kanununun 640. maddesinin birinci fıkrasına göre, birden çok mirasçı bulunması hâlinde mirasın geçmesiyle birlikte paylaşmaya kadar mirasçılar arasında terekedeki bütün hak ve borçları kapsayan miras ortaklığı meydana gelir. Maddenin ikinci fıkrası hükmüne göre de miras ortaklığında mirasçılar arasında elbirliği mülkiyeti bulunmaktadır.
 
 ## Yargıtay HGK 2018/1757 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470085800)
 
 Dava, elbirliği mülkiyetine tabi taşınmazın fiilen taksim edilerek davacı ve diğer erkek kardeşlerin tasarruf ve yararlanmasına bırakılmasına rağmen, kısmi kamulaştırma işlemi sırasında fiili taksim gözetilmeden davalı ortaklara ödenilen kamulaştırma bedelinin tahsili istemine ilişkindir.
 
@@ -128,6 +152,8 @@ Kamulaştırmaya konu taşınmazın paylı mülkiyet değil de elbirliği mülki
 
 ## Yargıtay HGK 2017/1191 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/348352900)
+
 Dava elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -135,6 +161,8 @@ Dava elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 Diğer yandan, tereke (miras ortaklığı) TMK'nın 701 ve devam eden maddeleri uyarınca elbirliği (iştirak) mülkiyetine tâbi olup, Kanunun 702. maddesinin son fıkrasında elbirliği (iştirak) halinde mülkiyet türünde ortaklardan her birinin topluluğa giren hakların korunmasını sağlayabileceği ve bu korumadan bütün ortakların yararlanabileceği öngörüldüğünden, mirasçılardan her birinin de elatmanın önlenmesini dava yoluyla ileri sürebileceği kuşkusuzdur.
 
 ## Yargıtay HGK 2015/2009 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/114695800)
 
 Bunun yanı sıra, 01.01.2002 tarihinde yürürlüğe giren TMK'nin 702. maddesinin son fıkrası gereğince ortaklardan her birinin topluluğa giren hakların korunmasını sağlayabileceği ve bu korumadan bütün ortakların yararlanabileceği öngörüldüğünden elbirliği mülkiyetinde, ortaklardan her hangi biri de tek başına tapuda murisin kimlik bilgileri ilgili olarak düzeltme isteyebilir.
 
@@ -144,6 +172,8 @@ Dava, tapu kaydındaki ismin düzeltilmesi ve tescili istemlerine ilişkindir.
 
 ## Yargıtay HGK 2013/699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77429000)
+
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -152,11 +182,15 @@ Bilindiği üzere; 4721 Sayılı Türk Medeni Kanunu'nun 599.maddesi hükmü uya
 
 ## Yargıtay HGK 2012/135 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/59994900)
+
 Miras ortaklığını oluşturan mirasçılar, terekedeki malvarlığı değerleri üzerinde elbirliği halinde mülkiyet hükümleri gereğince malik oldukları için, kural olarak tek başlarına veya birkaçı birlikte hareketle terekeye dahil hakkın biri üzerinde tasarrufta bulunamazlar.
 
 Hal böyle olunca, tüm mirasçıların terekeye dahil olan bir hak veya malın terekeye iadesi için birlikte dava açmaları veya hazır olmayanların usulüne uygun şekilde vekaletname ibraz etmeleri veya TMK’nun 640.maddesi gereğince miras ortaklığına temsilci atanması gerekir.
 
 ## Yargıtay HGK 2011/298 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77026100)
 
 Dava, temerrüt nedeniyle kiralanan taşınmazın tahliyesi ve payı oranında kira parasının tahsili istemine ilişkindir.
 
@@ -168,6 +202,8 @@ Ne var ki kural, mirasçıların hep birlikte hareket etmeleri olmakla beraber, 
 
 ## Yargıtay HGK 2010/434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76907400)
+
 Dava, tapuda yanılış yazılan kimlik bilgilerinin düzeltilmesi istemine ilişkindir.
 
 …
@@ -177,6 +213,8 @@ Dava, tapuda yanılış yazılan kimlik bilgilerinin düzeltilmesi istemine ili�
 Türk Medeni Kanununun 701/2. maddesi hükmüne göre, elbirliği mülkiyetinde ortakların belirlenmiş payları olmayıp, her birinin hakkı; Türk Medeni Kanununun 599.maddesinde yer alan; “...Miras, murisin ölümüyle ve terekenin açılmasıyla mirasçılarına geçer ve mirasçılar terekedeki mallar (menkul-gayrimenkul) üzerinde bu tarih itibarı ile hak sahibi olurlar...” hükmü uyarınca, ortaklığa giren malların tamamına yaygındır.
 
 ## Yargıtay HGK 2010/49 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16897000)
 
 Oysa iştirak halinde mülkiyet sözkonusu olduğuna göre, bir kısım mirasçılar kendi paylarına hasren dava açıp sürdüremezler. Böyle bir dava; 11.10.1982 gün ve 3/2 sayılı YİBK’na göre, dava dışı paydaşların sonradan muvafakatlarının alınması yada miras şirketine mümessil tayini suretiyle de görülmesi mümkün değildir.
 
@@ -188,9 +226,13 @@ Dava, ecrimisil istemine ilişkindir.
 
 ## Yargıtay HGK 2009/498 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16951100)
+
 Bilindiği gibi terekeye ait bir hakla ilgili olarak açılacak davalarda kural olarak; tereke 4721 sayılı Türk Medeni Yasası'nın 701 ve devam eden maddelerine göre elbirliği; (iştirak) mülkiyetine tabi olduğundan yasal istisnalar dışında (örneğin TM Yasası 702/son) tüm mirasçıların birlikte hareket etmeleri veya aynı Yasa'nın 640. maddesine göre terekeye temsilci atanması ve bu yolla davanın yürütülmesi gerekir.
 
 ## Yargıtay HGK 2009/288 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76821900)
 
 Hemen belirtmek gerekir ki, davacının miras bırakanının ölüm tarihine göre terekesinin Türk Medeni Kanununun 701. ila 703 maddelerinde öngörülen elbirliği mülkiyetine tabi olduğu sabittir.Diğer taraftan davacının dışında başkaca mirasçıların bulunduğu da dosya kapsamından anlaşılmaktadır.
 
@@ -200,6 +242,8 @@ Diğer taraftan, davalının sahip olduğu davacının murisinden temlik yoluyla
 
 ## Yargıtay HGK 2007/546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76589500)
+
 Miras bırakanın ölüm tarihine göre terekesinin elbirliği mülkiyetine tabi olduğu açıktır. Türk Medeni Kanununun 701.maddesi uyarınca isteğin niteliğine göre pay oranında dava açılmasına olanak yoktur. Öte yandan, Türk Medeni Kanununu 702/4.maddesinin de somut olayda uygulama yeri bulunmadığı tartışmasızdır. Bu suretle açılan bir davaya sonradan tereke temsilcisinin iştirak etmesi de neticeye etkili değildir.
 
 …
@@ -207,6 +251,8 @@ Miras bırakanın ölüm tarihine göre terekesinin elbirliği mülkiyetine tabi
 Dava, miras bırakanın ehliyetsizliği hukuksal nedenine dayalı tapu iptali, tescil isteğine ilişkindir.
 
 ## Yargıtay HGK 2007/242 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16590100)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -216,6 +262,8 @@ Dava; muristen intikal eden kısmi pay için dava açılmıştır. 4721 sayılı
 
 ## Yargıtay HGK 2006/672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77086300)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 …
@@ -223,6 +271,8 @@ Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişk
 Dava konusu taşınmazda davacı iştirak halinde maliktir. Henüz müşterek mülkiyete dönüşmemiştir. Bu durumda diğer maliklerinde davaya dahil edilmesi, bunun mümkün olmaması halinde miras şirketine mümessil tayin edildikten sonra işin esasına girilip, hüküm kurulması gerektiğinin düşünülmemesi, doğru görülmemiştir....) gerekçesiyle bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda; mahkemece önceki kararda direnilmiştir.
 
 ## Yargıtay HGK 2005/321 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76749400)
 
 Türk Medeni Kanununun paylı mülkiyetin sona ermesini düzenleyen ve “paylaşma istemi” başlığını ihtiva eden 698.maddesi hukuki bir işlem gereğince veya paylı malın sürekli bir amaca özgülenmiş olması sebebiyle paylı mülkiyeti devam ettirme yükümlülüğü bulunmadıkça paydaşların her birinin malın paylaşılmasını isteyebileceği hükmüne yer vermiştir. 699.madde paylaşma biçimi hakkındaki kuralı koymuştur. Buna göre aynen bölünerek paylaştırma mümkün ise hakim o şekilde değilse açık artırma ile satış kararı verecektir. Kanunun bu maddesi amir bir nitelik taşır. Aynı kanunun 703/son maddesi de elbirliği mülkiyetinde paylaşma, aksine hüküm bulunmadıkça paylı mülkiyet hükümlerine göre yapılır kuralını öngörür. Kanunu Medeni’nin 627.maddesi “Taksim davası”ndan söz ederken Medeni Kanunun 698.maddesi başlığı ise “paylaşma istemi” şeklinde kaleme alınmıştır.Madde de “dava” sözcüğü yerine davayı da içine alan daha kapsamlı istem” sözcüğüne yer verilmiştir.
 
@@ -236,11 +286,15 @@ Dava, ortaklığın satış yoluyla giderilmesi istemine ilişkindir.
 
 ## Yargıtay HGK 2005/233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76694700)
+
 Böyle bir dava diğer mirasçıların paylarını kapsamadığından ve aynı zamanda onlar adına da açılmadığından, davaya diğer mirasçıların katılmasına (icazet vermesine) imkan yoktur. Yani diğer mirasçılar davaya katılmak isteseler bile bu mümkün değildir, davanın reddi gerekir. Aynı nedenle, tereke temsilcisi de, bir mirasçının yalnız kendi payı için açmış olduğu davaya icazet verip davayı devam ettiremez. Davanın reddi gerekir.
 
 Yukarıda açıklanan ilke doğrultusunda somut olaya bakıldığında dava, bir kısım mirasçı davacılar tarafından diğer mirasçı M.B..’ın eşi, üçüncü kişi davalı S.. aleyhine açılmıştır. Davacılar miras payları oranında iptal ve tescil istemişlerdir. Davacıların iştirak halindeki payları oranında dava açıp, tasarrufta bulunmaları olanağı bulunmamaktadır. Bu durumda diğer mirasçıların davaya katılmalarının sağlanması veya yöntemine uygun biçimde muvafakatlarının alınması, yada MK’nun 581.maddesi uyarınca miras ortaklığına bir mümessil tayin edilerek onun huzuru ile davaya devam edilmesi mümkün değildir.
 
 ## Yargıtay HGK 2003/270 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16302900)
 
 Türk Kanunu Medenisinin 588. maddesinde elbirliği mülkiyetine tabi mallarda bir ortağın hisselerini haczettiren alacaklının, hakimin ortak yerine kaim olarak, taksime iştirakini isteyebileceği hükmü yer almakta iken, 1.1.2002 tarihinde yürürlüğe giren 4721 Sayılı Türk Medeni Kanununda, anılan maddenin karşılığı olan 648. maddesi, yukarıda belirtilen hallerde alacaklının, sulh hakiminden mirasçının yerine paylaşmaya katılmak üzere bir kayyım atanmasını isteyebileceği hükmünü getirmiştir. Yasanın gerekçesinde de vurgulandığı gibi eski metinde hakimin mirasçı yerine kaim olarak taksime iştirak edeceği belirtilmiştir. Ancak hakim, mirasçılar uyuşmadığı zaman paylaştırmayı gerçekleştirmekle de görevlidir. Aynı hakimin hem paylaştırmayı gerçekleştirmesi hem de mirasçılardan biri yerine onun (dolayısıyla alacaklının) yararlarını korumak için paylaştırmaya katılması uygun bir çözüm değildir. Bu sebeple maddede, sulh hakiminden koşullar gerçekleştiğinde paylaşmaya katılmak üzere bir kayyım atanmasının istenebileceği kabul edilmiştir.
 

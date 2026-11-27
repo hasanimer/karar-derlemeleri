@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2023/6744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990762000)
+
 Dava, kadastro tespitine itiraza ilişkindir.
 
 …
@@ -34,15 +36,21 @@ Hal böyle olunca; doğru sonuca ulaşılabilmesi için, İlk Derece Mahkemesinc
 
 ## Yargıtay 11. HD 2023/6681 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981608600)
+
 2797 sayılı Yargıtay Kanunu’nun 40 ıncı ve Yargıtay İç Yönetmeliği’nin 18 inci maddeleri uyarınca yapılan ön incelemede; davacı ...'nın 12.10.2019 tarihinde vefat ettiği anlaşılmıştır. Yargılama sırasında davacının vefat etmesi nedeniyle vekâlet ilişkisi sona ereceğinden murisin veraset belgesi getirtilerek mirasçıların tamamından vekâletname alınarak dosyaya sunulması veya mirasçıların davaya muvafakatlarının alınması suretiyle taraf teşkili sağlanması mümkün olduğu gibi, 4721 sayılı Türk Medeni Kanunu'nun 640 ıncı maddesi gereğince terekeye mümessil tayin ettirilerek davanın mümessil huzuru ile görülmesi suretiyle de taraf teşkili mümkündür. Dosyaya sunulan nüfus kayıt örneğinden, müteveffa davacının mirasçılarının ..., ... ve ... olduğu anlaşılmıştır. Mirasçılar ... ve Oğuz Karlı'dan vekaletname alınmış, vekilleri davayı takip ettiklerini bildirmiştir.
 Davacının mirasçılarından ... ise 12.04.2023 tarihinde vefat etmiş, geriye mirasçısı olarak ... ve davalı ... kalmıştır. ... mirasçılarından ...'tan vekaletname alınmadığı gibi, Bölge Adliye Mahkemesi kararı ve davalının temyiz dilekçesi ...'a tebliğ edilmemiştir. ...'in diğer mirasçısı olan ... işbu davanın davalısı olduğundan 4721 sayılı Türk Medeni Kanunu'nun 640 ıncı maddesi gereğince terekeye mümessil tayin ettirilerek, kararın ve davalının temyiz dilekçesinin miras şirketi temsilcisine tebliği ile yasal süreler beklendikten sonra temyiz incelemesi yapılmak üzere dosyanın Daireye gönderilmesi gerekmektedir.
 
 ## Yargıtay 11. HD 2023/5910 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963273400)
+
 Bankasına dönmüş olmadığı, davacı tarafın dava konusu ettiği hisselerin belirtilen süre içerisinde kaydileştirilmemiş olmaları nedeniyle YTM'ye devredildiğinin dosya kapsamı ile sabit olduğu, bu durumda YTM'ye devredilen hisse senetlerinin davalı tarafından davacı tarafa verilmesinin mümkün olmadığı, YTM'nin cevabi yazısında bildirildiği gibi YTM'den ancak duruma göre aynen iade veya bedel talep edilebileceği, hal böyle olunca davacı tarafın dava konusuyla ilgili olarak davalıdan talep edebileceği bir hakkının bulunmadığı, dolayısıyla davalıya husumet yöneltilemeyeceği, Mahkemece davanın pasif husumet yokluğu nedeniyle reddine karar verilmesi gerekirken, dava şartı yokluğu nedeniyle usulden reddedilmesinin yerinde görülmediği, ayrıca davacı ve asli müdahale talep edenin ortak kök murise ait olduğunu iddia ettikleri paylara ilişkin hak iddia ettiği, dolayısıyla üzerinde hak iddia edilen payların terekeye dahil olduğu, bu nedenle tereke adına davanın açılması gerektiği, diğer mirasçıların davacı ile aynı yöndeki beyanlarının davaya muvafakat verme hükmünde olduğu, dolayısıyla davaya müdahale talep edenin istinaf dilekçesinin, ayrı bir istinaf başvurusu olarak değerlendirilmesinin
 mümkün olmadığı gerekçesiyle asli müdahale talep eden vekilinin istinaf dilekçesinin reddine, davacı vekilinin istinaf başvurusunun kabulü ile İlk Derece Mahkemesi hükmünün kaldırılmasına, yeniden esas hakkında hüküm kurulmasına, davanın pasif husumet yokluğu nedeniyle reddine karar verilmiştir.
 
 ## Yargıtay 8. HD 2023/5641 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1011376700)
 
 Dava, kadastro tespitine itiraza ilişkin olup, taraflar arasındaki uyuşmazlık, davada yöntemince taraf teşkilinin sağlanıp sağlanmadığı noktasında toplanmaktadır.
 
@@ -51,6 +59,8 @@ Dava, kadastro tespitine itiraza ilişkin olup, taraflar arasındaki uyuşmazlı
 Hal böyle olunca; İlk Derece Mahkemesince, yargılama sırasında vefat ettiği anlaşılan davalı ...'un mirasçıları tespit edilerek, yöntemince davaya dahil edilmeleri suretiyle taraf teşkilinin (koşulunun) sağlanması ve akabinde işin esasına girilerek toplanan ve toplanacak deliller birlikte değerlendirilerek ulaşılacak sonuca göre karar verilmesi gerekirken, yöntemince taraf teşkili sağlanmaksızın yargılamaya devamla esasa ilişkin hüküm kurulması isabetsiz olduğundan, temyiz dilekçesinin reddine dair ek kararın, davalı ... yönünden kaldırılması suretiyle hükmün bozulmasına ve bozma nedenine göre sair temyiz itirazlarının şimdilik incelenmesine yer olmadığına karar vermek gerekmiştir.
 
 ## Yargıtay 2. HD 2023/5255 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/973920800)
 
 Dava, katılma alacağı istemine ilişkindir.
 
@@ -64,6 +74,8 @@ Ayrıca, somut olayda davacılar-davalıların murisi ...nin dosya kapsamına so
 
 ## Yargıtay 8. HD 2023/5255 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980107400)
+
 Dava, kadastro tespitine itiraza ilişkin olup, taraflar arasındaki uyuşmazlık, çekişmeli taşınmaz üzerinde davalı taraf yararına zilyetlikle kazanım koşullarının oluşup oluşmadığı noktasında toplanmaktadır.
 
 …
@@ -74,9 +86,13 @@ Bu itibarla; 3402 ... Kanun'un 1 inci maddesi uyarınca Kadastro Hakiminin, doğ
 
 ## Yargıtay 1. HD 2023/5016 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983458200)
+
 Her davanın açıldığı tarihteki duruma göre sonuçlandırılması gereğinin sonucu olarak, davanın açıldığı tarihte dava konusu taşınmazda mirasbırakan ...'nın tüm mirasçılarının miras hakkı bulunduğu, davacı asilin kendisine verilen iki haftalık kesin süre içinde taraf teşkili için gerekli eksikliği gidermediği anlaşıldığından davanın aktif dava ehliyetinin yokluğu nedeniyle usulden reddine karar verilmesi gerekirken açılmamış sayılmasına karar verilmesi doğru değildir.
 
 ## Yargıtay 7. HD 2023/3593 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/925663400)
 
 Dava, miras taksim sözleşmesine dayalı tescil istemine ilişkindir.
 
@@ -88,20 +104,28 @@ Taraf teşkili kamu düzenine ilişkin olup re’sen yargılamanın her aşamas�
 
 ## Yargıtay 1. HD 2023/3536 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/937106600)
+
 Bir diğer husus ise, davanın; davacıların mirasbırakanlarının paydaş olduğu kendilerine ait yeni 528 ada 1 sayılı parsel ile davalı ... adına kayıtlı dava dışı taşınmaz arasında bulunan yolun kendi taşınmazlarının devamı niteliğinde olduğu iddiası ile açıldığı, böylesi bir davanın kayıt maliklerinin tamamının hukukunu ilgilendiren bir dava olduğu anlaşılmaktadır. Dava konusu 528 ada 1 sayılı parsel sayılı taşınmaza ait tapu kaydı incelendiğinde; davacıların mirasbırakanı dışında ..., ... ve ... da taşınmazda paydaştır. Davanın niteliği itibariyle, yargılama neticesinde verilecek hükümden tüm paydaşların hukuku etkileneceğinden, davanın bütün paydaşlar tarafından birlikte açılması veya tamamının davaya katılımının sağlanması suretiyle davaya devam edilmesi zorunludur.
 
 Hal böyle olunca; öncelikle mirasbırakan ...'ın mirasçılarının taşınmaza elbirliği halinde malik oldukları gözetilmek suretiyle davacılar dışındaki elbirliği halinde malik diğer mirasçı/paydaşların davaya muvafakatlerinin sağlanması veya terekeye temsilci tayin ettirilmesi; ayrıca taşınmazdaki diğer paydaşlar ..., ... ve ...'un da yöntemince davaya katılımlarının sağlanması suretiyle aktif dava ehliyetindeki eksiklikleri gidermeleri için davacı tarafa süre ve imkan tanınması, aktif dava ehliyetindeki eksiklik giderildikten sonra işin esasına girilerek tüm dosya içeriğinin birlikte değerlendirilmesi ve sonucuna göre bir karar verilmesi gerekirken bahsedilen hususlar göz ardı edilmek suretiyle yazılı şekilde karar verilmesi isabetsiz olup bozmayı gerektirmektedir.
 
 ## Yargıtay 8. HD 2023/3330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981983000)
+
 Yargıtay (Kapatılan) 16. Hukuk Dairesinin 08.07.2020 tarihli ve 2016/17305 Esas, 2020/2769 Karar ... kararıyla " ...Kadastro tespitine itiraz davalarında husumetin tespit malikine, tespit malikinin ölü olması halinde ise mirasçılarına yöneltilmesinin ve tüm mirasçıların davada yer almasının zorunlu olduğu; somut olayda ise taraf teşkili sağlanmadan işin esası hakkında hüküm kurulduğu ve bunun isabetsiz olduğuna" değinilerek hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 8. HD 2023/2897 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918506400)
 
 Diğer taraftan, davada öncelikle taraf ehliyetinin varlığının bulunması zorunlu olup, bu husus dava şartı olduğundan 6100 sayılı Kanun'un 114/1-d maddesi gereğince mahkemelerce re'sen gözetilmesi gerekir. Somut olayda davacı, taşınmazın irsen intikalen kendisine kaldığını beyan etmiş; ancak gerek dava dilekçesinde, gerekse yargılama aşamasındaki beyanında, taşınmazların kendisine ne şekilde geçtiği (taksim, satış, bağış vs.) hususunda bir açıklamada bulunmadığı gibi, Mahkemece bu husus davacıdan sorularak açıklığa da kavuşturulmamıştır. Mirasçıların birbirlerine karşı miras paylarının adlarına tescilini talep etmeleri mümkün ise de elbirliği mülkiyetinde mirasçıların tereke malları üzerinde belli pay veya payları olmayıp, hakları terekenin tamamını kapsadığından ve 4721 sayılı Kanun'un 702 nci maddesi uyarınca topluluk devam ettiği sürece tasarrufi işlemlerde tüm ortakların birlikte hareket etmeleri zorunlu bulunduğundan, bir mirasçının ya da mirasçıların bir bölümünün, terekeye göre üçüncü kişi konumundaki şahıslara karşı miras paylarının adlarına tescili istemiyle dava açmaları usulen mümkün değildir.
 Mirasçılardan biri ya da bir bölümü tarafından kendi payları hakkında üçüncü kişilere karşı açılan dava, terekenin bütününü ve diğer mirasçıların paylarını kapsamadığından, aktif dava ehliyetindeki bu eksikliğin sonradan diğer mirasçıların muvafakatinin sağlanması ya da terekeye temsilci atanması suretiyle giderilmesi de mümkün bulunmamaktadır. Bu nedenle Mahkemece öncelikle, davacı taraftan çekişmeli taşınmazın kendisine ne şekilde intikal ettiği (taksim, satış, bağış vs.) sorularak, kendisine bu husustaki iddiasını kanıtlama imkanı tanınmalı, davacı tarafça çekişmeli taşınmazların geçerli bir sebeple murisinden kendisine intikal ettiği ispat edilemediği takdirde aktif dava ehliyetinin bulunmaması nedeniyle davanın usulden reddine karar verilmeli; davacı tarafın aktif dava ehliyetinin bulunduğunu kanıtladıktan sonra işin esasına girilmesi gerektiği gözetilmelidir.
 
 ## Yargıtay 8. HD 2023/2790 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981120000)
 
 Dava, tapu iptali ve tescili istemine ilişkindir.
 
@@ -111,9 +135,13 @@ Dava, tapu iptali ve tescili istemine ilişkindir.
 
 ## Yargıtay 1. HD 2023/2629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/930697000)
+
 Somut olayda, davacıların eldeki davayı terekeye iade istemli açtıkları ancak davacılar haricinde mirasbırakanın dava dışı mirasçıları da olduğu, TMK'nın 640 ıncı maddesi uyarınca diğer mirasçıların muvafakatları alınmadan veya terekeye temsilci atanmadan davacıların davalarından feragat ettikleri ve taraf teşkili sağlanmadan davanın feragat nedeniyle reddine karar verildiği görülmüştür. Bu durumda taraf teşkili sağlanmadığı gözetilerek HMK'nın 312 nci maddesi ve AAÜT'nin 6 ncı maddesi hükümleri uyarınca davacıların paylarına isabet eden değer üzerinden nispi vekalet ücretine hükmedilmesi gerekirken yanılgılı değerlendirme ile davacılar aleyhine fazla vekalet ücretine hükmedilmiş olması doğru değildir.
 
 ## Yargıtay 7. HD 2023/2551 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915804800)
 
 Bu durumda, davalı ...'in yargılama sırasında, diğer davalı ...'in ise karar tarihinden sonra ölümü ile onlar tarafından vaki haksız fiil niteliğindeki el atmanın sona erdiğinin kabul edilmesi gerektiği, buna karşın yıkım isteği yönünden ise davada kayıt maliklerine yöneltilen bir husumet bulunmadığından davalılar ... ve ...'e husumet düşmeyeceği kuşkusuzdur. Esasen davaya dahil edilen kişilerin haksız eylemleri var ise ayrı bir davanın konusunu oluşturacağı da açıktır. Ancak, mirası reddetmeyen mirasçıların, murislerin halefi sıfatı ile el atmanın önlenmesi yönünden yargılama giderlerinden ve ecrimisilden sorumlu olacakları kuşkusuzdur.
 
@@ -121,6 +149,8 @@ Bu durumda, davalı ...'in yargılama sırasında, diğer davalı ...'in ise kar
 bile bulunmadığı halde) davalı olarak işin esası hakkında karar verilmesi, ölen davalıların mirasçıları belirlenerek taraf teşkili sağlanmadan, binanın davacılara ait taşınmaza tecavüz miktarı açıklığa kavuşturulmadan, davalılar tarafından yaptırılan binanın geliri üzerinden ecrimisil hesabı yapılarak ve 6100 sayılı HMK. nun 26. maddesine aykırı olarak talep aşılmak suretiyle hesaplanan ecrimisile hükmedilerek yazılı şekilde karar verilmesi doğru değildir.'' şeklindeki değişik gerekçeyle hüküm bozulmuştur.
 
 ## Yargıtay 11. HD 2023/2503 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/947172900)
 
 Dava, bonoya dayalı menfi tespit istemine ilişkindir.
 
@@ -130,10 +160,14 @@ O halde, Bölge Adliye Mahkemesince davacının mirasçıları davaya dahil edil
 
 ## Yargıtay 3. HD 2023/2282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963939300)
+
 Dairece verilen 20.12.2018 tarihli ve 2017/15441 E., 2018/13096 K. sayılı kararla; kiralanan taşınmazın tamamının dava açıldıktan sonra, 22.02.2011 tarihinde davacılardan ... tarafından iktisap edildiği ve ayrıca ...'nin 09.05.2012 tarihinde ''Düzenleme Şeklinde Beyan ve Taahhütname'' başlıklı belgede dava konusu kiralanan taşınmazın satılma tarihine kadar olan tüm anlaşmalar dolayısıyla alacaklarını ...'den aldığını beyan ettiği belirtilmiş ise de dava konusu alacağın, taraflar arasında düzenlenen 14.02.2002 tarihli kira sözleşmesinden kaynaklandığı ve kira sözleşmesinin kiraya veren sıfatıyla davacılar ... ile ... tarafından imzalanmış olduğu, öte yandan davacı ...'nin 09.05.2012 tarihinde Noterden düzenlenen '' Düzenleme Şeklinde Beyan ve Taahhütname'' başlıklı belgede, dava konusu kira sözleşmesine değil de kiralanan taşınmaza ilişkin 3 üncü şahıslarla imzalanan farklı sözleşmelere atıfta bulunulduğu, bahsi geçen belgede dava konusu kira sözleşmesine ya da bu sözleşmeden kaynaklanan hakka ilişkin herhangi bir beyan düzenlenmediği nazara alındığında yargılama sırasında vefat ettiği anlaşılan davacı ...'nin diğer davacı ... dışındaki mirasçıları tespit edilip, bu kişiler davaya
 dahil edilerek, mümkün olmadığı takdirde ise terekeye mümessil tayin ettirilmek suretiyle taraf teşkili sağlanması ve sonrasında davanın esası hakkında bir karar verilmesi gerekirken, yazılı şekilde taraf teşkili sağlanmadan karar verilmesinin doğru olmadığı gerekçesiyle hükmün bozulmasına, bozma nedenine göre sair temyiz itirazlarının incelenmesine yer olmadığına karar verilmiştir.
 
 ## Yargıtay 6. HD 2023/1731 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917393600)
 
 2.1. Miras yoluyla intikali mümkün hakların konusunu oluşturduğu bir davada davalının ölümü hâlinde 6100 Sayılı Kanun'un 55. maddesi gereğince mahkemece, davalının mirasçılarının tamamının tespit edilerek davadan haberdar edilmeleri gerekir. Bu doğrultuda yapılacak tebligatlar sonrasında mirasçıların terekeyi reddetmemiş olmaları hâlinde mirasçıların tamamının davaya katılımı ile taraf teşkili sağlandıktan sonra yargılamaya devam edilir. Ancak mirası reddeden mirasçılar davada taraf olamazlar.
 
@@ -141,9 +175,13 @@ dahil edilerek, mümkün olmadığı takdirde ise terekeye mümessil tayin ettir
 
 ## Yargıtay 3. HD 2023/1680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965288800)
+
 Hal böyle olunca, İlk Derece Mahkemesince; yukarıda açıklanan maddi ve hukuki olgular çerçevesinde, öncelikle istinaf aşamasında vefat eden davacılardan Bahattin'in mirasçılarına usulüne uygun tebligat yapılıp, mirası reddetmeyen mirasçılarının mecburi dava arkadaşı olarak yöntemince davaya katılımı sağlanmak, mirasçılar davayı birlikte takip etmekten kaçınırlarsa terekeye temsilci tayin ettirmek suretiyle, taraf teşkili sağlandıktan sonra, davanın zamanaşımı süresi içerisinde açıldığı dikkate alınıp, zamanaşımı def'inin reddine karar verilerek, işin esası incelenip değerlendirilmek suretiyle, hasıl olacak sonuca göre bir karar verilmesi gerekirken; yanılgılı değerlendirme ile davanın zamanaşımı nedeniyle reddine karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2023/811 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/902488100)
 
 '' Dava konusu 322 ada 10 parsel yönünden; taşınmazın kök muris ...'dan evlatları ..., ..., ... ve ...'e kaldığı, ...'nin payını alarak terekeden çıktığı, böylece taşınmazların müşterek mülkiyet şeklinde 1/3 paylar oranında ..., ... ve ...'e ait bulunduğu toplanan ve doğru olarak değerlendirilen delillerden anlaşıldığı; ancak taşınmazın kadastro tespitinde ... adına tespit ve tescil edildikten sonra 04.06.2009 tarihinde çapa dayalı satış ile 3. şahıs durumunda olan ...'in torunu ... ...'e geçtiği, dosyada bulunan veraset ilamına göre ...'in 23.06.1988 tarihinde ölümü ile mirasçı olarak ..., ..., ... ..., ... ile ...'ün kaldığı, ancak mirasçılar ... ... ve ...'ün davada taraf olmadığına değinilerek, ... terekesi yönünden iştirak halinin mevcut olduğu, 3. şahıs durumdaki şahsa karşı açtıkları davada tüm mirasçıların birlikte dava açmaları ya da tüm mirasçıların muvafakatlarının alınması ya da terekeye mümessil tayini ile davayı yürütmeleri mümkün olduğuna göre, aktif dava ehliyetinin sağlanması, bunun için dava açmayan mirasçıların muvafakatının alınması, ya da ... terekesine mümessil tayin edilmesi, bundan sonra işin esasın girilmesi; dava konusu 201 da 38; 295 ada 61; 297 ada 7;
 340 ada 8; 334 ada 41; 220 ada 36, 93; 221 ada 52, 54, 56, 62, 101; 222 ada 105; 208 ada 78, 223, 243, 327; 218 ada 3; 305 ada 8;
@@ -152,13 +190,19 @@ edilerek, taşınmazın tamamının taraflar adına tesciline karar verilmesinin
 
 ## Yargıtay 6. HD 2023/809 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891006700)
+
 V. Mahkemece verilen ilk kararın ardından Yargıtay 23. Hukuk Dairesi 22.11.2013 gün 2013/5099 E., 2013/7327 K. sayılı bozma ilamı ile davacılar murisi ...'nin mirasçı olarak kendisinden önce ölmüş olan oğlu ...'nin çocuklarını da bıraktığı, tüm mirasçıların zorunlu dava arkadaşı olarak birlikte bu davayı açarak yürütmeleri gerektiği, bu durumda terekeye temsilci tayin edilmesi veya zorunlu dava arkadaşı olmaları nedeniyle mirasçıları olan ... çocukları ..., ..., ... ve ...'nin davaya katılarak taraf teşkili sağlandıktan sonra, işin esasına girilerek, hüküm kurulması gerektiği belirtilerek hükmün bozulmasına karar verilmiştir. Mahkemece bozmaya uyularak yapılan yargılama neticesinde tespit edilen bu mirasçıların davacıların yanında davacı olarak dosyada yer aldığı anlaşılmıştır. Davacılar vekilinin temyiz isteminde bulunurken sonradan davaya dahil edilen bu davacılara ilişkin olarak da temyiz itirazında bulunduğu görülmekle temyiz dilekçesinin ... mirasçıları diğer davacılar vekiline de tebliğ edilmesi gerekmektedir.
 
 ## Yargıtay 3. HD 2023/588 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885147800)
+
 Bu durumda Mahkemece; davalı ...'in mirasının en yakın mirasçılarının tamamı tarafından reddedildiği dikkate alınarak, taraf teşkilinin sağlanması amacıyla mahallin sulh hukuk mahkemesine durum bildirilerek iflas hükümlerine göre reddolunan mirasın tasfiyesinin sağlanması, davalı ... için atanacak ve yetkilendirilecek bir temsilci ile yargılamaya devam edilerek, sonucuna göre bir karar verilmesi gerekirken; taraf teşkili sağlanmadan yazılı şekilde hüküm tesiside usul ve kanuna aykırıdır.
 
 ## Yargıtay 3. HD 2022/9634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864595700)
 
 6100 sayılı Hukuk muhakemeleri kanunun 59. Maddesinde mecburi dava arkadaşlığı düzenlenmiştir. Buna göre maddi hukuka göre, bir hakkın birden fazla kimse tarafından birlikte kullanılması veya birden fazla kimseye karşı birlikte ileri sürülmesi ve tamamı hakkında tek hüküm verilmesi gereken hâllerde, mecburi dava arkadaşlığı vardır. 4721 sayılı Türk Medeni Kanunu'nun (TMK) 640/2. maddesine göre; “Mirasçılar terekeye elbirliği ile sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler.” TMK m.701/1 . Maddesine göre ise "Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir." . Elbirliği mülkiyetinde ise TMK m. 702. Maddesindeki düzenlemeye göre ortakların hakları ve yükümlülükleri, topluluğu doğuran kanun veya sözleşme hükümleri ile belirlendiği gibi kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, gerek yönetim, gerek tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gerekir. Elbirliği mülkiyet türünde malikler mülkiyet payları ayrılmadığından paydaş değil, ortaktır.
 Bu kural, yukarıda da belirtildiği üzere TMK’nin 701. maddesinde açıklanmıştır. Elbirliği (İştirak) halinde mülkiyetin bu özelliği itibariyle ortaklar arasında zorunlu dava arkadaşlığı bulunmaktadır.
@@ -168,6 +212,8 @@ Ne var ki bu kural, uygulamada yumuşatılarak, 11.10.1982 tarih, 1982/3-2 sayı
 
 ## Yargıtay 7. HD 2022/5195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/828230300)
+
 Davada TMK'nun 713/2 maddesine dayanılarak tapu iptali ve tescil isteğinde bulunulduğuna göre, bu tür davalarda husumetin kayıt malikine, kayıt maliki ölmüşse mirasçılarına yöneltilmesi gerekli olup, kayıt malikinin veya mirasçılarının belirlenememesi halinde TMK'nun 501. maddesi uyarınca son mirasçının Hazine olması, ayrıca tapu sicilinin tutulmasından sorumlu olması nedeniyle Hazine'nin davada taraf sıfatını alması gereklidir. Bu sebeple dayanılan sebepler ve dosya kapsamına göre, TMK'nun 713/2. fıkrası gereğince Hazineye karşı dava açılması yerinde ise de, kayıt malikleri hakkında yeterli ve gerekli araştırma yapılmamış, mirasçılık belgelerinin dosya arasına alınması sağlanmamıştır.
 
 O halde mahkemece;
@@ -176,8 +222,12 @@ kim olduğunu anlayamayacağı hallerde veya malik sütununun boş bırakılmas�
 
 ## Yargıtay 1. HD 2022/4996 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798685300)
+
 Hal böyle olunca, taraf teşkilinin sağlanması zorunlu bulunduğundan, mirasçılardan ...’ın davalı olduğu ve davaya onay vermediği gözetildiğinde 4721 sayılı TMK’nın 640. maddesi uyarınca muris ...’ın terekesine temsilci atatmak suretiyle tereke temsilcisi huzurunda davaya devam olunması gerekirken taraf teşkili sağlanmadan sonuca gidilmesi hatalıdır.” gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 1. HD 2022/4185 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800251000)
 
 Hemen belirtilmelidir ki; birden fazla davacı tarafından pay oranında açılan muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil davalarında, davacılar arasında zorunlu dava arkadaşlığı bulunmayıp, ihtiyari dava arkadaşlığı bulunduğundan, dava değerinin davayı açan mirasçıların her birinin payına isabet eden değer olacağı; öte yandan, ayrı ayrı temlikler yapılan davalılar arasında zorunlu dava arkadaşlığı bulunmayıp ihtiyari dava arkadaşlığı bulunduğundan, dava değerinin mirasbırakan tarafından her bir davalıya temlik edilen taşınmaz veya paylar üzerinden ayrı ayrı belirlenmesi gerektiği de açıktır.

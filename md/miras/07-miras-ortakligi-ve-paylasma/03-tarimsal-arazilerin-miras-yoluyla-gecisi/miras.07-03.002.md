@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2012/14366 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/757233900)
+
 Dava, satış vaadi sözleşmesine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -31,6 +33,8 @@ Somut olayda; “bölünemez büyüklükteki tarım arazilerinin mirasa konu olm
 
 ## Yargıtay 20. HD 2012/4968 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/587113500)
+
 Dava, kadastro tespitine itiraza ilişkindir.
 
 …
@@ -40,6 +44,8 @@ Yukarıda açıklanan yönteme göre yapılacak araştırma sonunda taşınmazı
 müdürlüklerinden ayrı ayrı sorularak gerektiğinde tesbit tutanak örnekleri ve tapu kayıtları ya da tescil dava dosyaları getirtilip incelenmeli, dava konusu taşınmazın sulu ya da kuru tarım arazisi olup olmadığı konusunda (5403 sayılı Yasanın 3/j maddesi ile Taşınmaz Malların Sınırlandırma Tespit ve Kontrol İşleri Hakkındaki Yönetmeliğin değişik 10. maddesinin ikinci fıkrası …
 
 ## Yargıtay 8. HD 2011/6932 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/575432600)
 
 Açıklanan kanunların maddeleri karşısında 5578 sayılı Kanunun 2. maddesiyle Değişik 5403 sayılı Kanunun 8. maddesinin somut olayda uygulama olanağı bulunmamaktadır. Sözü edilen bu maddenin uygulanması halinde kazanılmış haklar ortadan kalkacağı gibi hakkın özünün de ortadan kalkması söz konusu olur. Bu durum aynı zamanda TMK. nun 713. maddesinin getiriliş amacına da aykırı düşer. Kaldı ki, 5403 sayılı Kanunun 8/3. fıkrasında;
 
@@ -53,6 +59,8 @@ ibareleri yer almaktadır. Bundan da anlaşılıyor ki, 8. maddenin somut olayda
 
 ## Yargıtay 8. HD 2011/3708 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534455500)
+
 Kural olarak tapulu taşınmazların mülkiyetinin devrini amaçlayan sözleşmeler TMK’nun 706, Borçlar Kanununun 213 ve Tapu Kanununun 26.maddesi hükümleri uyarınca resmi şekilde düzenlenmedikçe geçerli olmaz. Mirasçılar arasındaki taksimi düzenleyen TMK’nun 676.maddesi bu kuralın istisnalarından birisi olup, geçerliliği yazılı şekilde yapılmasına bağlıdır. Dava konusu taşınmazlar 17.1.1978 tarihinde tarafların ortak miras bırakanları Hüseyin Bakır adına tescil edilmiş, miras bırakanın 1.3.1982 tarihinde ölümünden sonra mirasçıları arasında taksim sözleşmesinin düzenlendiği tarih itibarıyla taşınmazlar tapuludur.
 
 Üzerinde durulması gereken husus, 20.12.1982 tarihinde yapılan miras taksim sözleşmesinin hüküm ve sonuç meydana getirip getirmeyeceğidir. Gerçekten, 19.07.2005 tarihinde yayımlanarak yürürlüğe giren 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 8.maddesinde bölünemez büyüklük kavramına yer verilmemiş, bu kavram daha sonra anılan yasanın değişiklik yapan 09.02.2007 tarihli 5578 sayılı Yasanın 2.maddesiyle getirilmiştir. 09.03.1988 tarihli ve 1987/2-860 Esas, 1988/232 Karar sayılı Yargıtay Hukuk Genel Kurulu kararında vurgulandığı üzere, aksine bir hüküm ya da kamu düzeniyle ilgili bir durum söz konusu olmadığı takdirde ve kural olarak herhangi bir kanun veya düzenleyici hüküm o kanunun yürürlüğe girdiği andan itibaren hukuksal sonuç meydana getirir. Değişik bir anlatımla yürürlüğe giren kanun yürürlük tarihinden önceki olaylara uygulanmaz.
@@ -62,17 +70,23 @@ Hal böyle olunca; 20.12.1982 tarihli taksim sözleşmesinde, mirasçıların pa
 
 ## Yargıtay 8. HD 2010/3311 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541305900)
+
 Diğer yönden;
 3402 sayılı Kanunun 5403 sayılı Kanunla değişik 14/2.fıkrası uyarınca taşınmazların kuru ve sulu tarım arazisi niteliğindeki yerlerden olup olmadığının sorulması, anılan maddedeki norm sınırlamalarının aşılıp aşılmadığının kuşkuya meydan vermeyecek şekilde belirlenmesi, 3402 sayılı Kadastro Kanununun 14.maddesi hükmüne göre; zilyetliğin bu kanunda yazılı belgelerden birisi ile ispatı yoluna gidilmeyen hallerde, zilyedin aynı çalışma alanı içinde kazanabileceği miktar sulu toprakta 40, kuru toprakta 100 dönümü geçmeyeceğinin göz önünde tutulması, 26.07.1972 tarihinden sonra satıcı, davacı, miras bırakan ve diğer mirasçılar adına kadastro yolu ile veya açılan dava sonunda tescil edilmiş taşınmaz veya taşınmazlar var ise bunların miktarlarının, çalışma alanlarının, tescil tarihlerinin Tapu Sicil Müdürlüğü ile Kadastro Müdürlüğünden, açılmış zilyetliğe dayalı tescil davası olup olmadığının o yer Hukuk Mahkemeleri Yazı İşleri Müdürlüğünden sorulup belirlenmesi, belgesizden edinilen taşınmazlara ait kadastro (tapulama) tutanakları ile bunlara ait tapu kayıtlarının Tapu Sicil Müdürlüğünden, tescil davalarına ait dosyaların ise ait olduğu mahkemelerden getirtilerek miktar sınırlamaları
 yönünden gözönünde tutulması ve elde edilecek sonuca göre bir karar verilmesi gerekirken, mahkemece bu hususlar araştırılmadan eksik inceleme ile yazılı şekilde karar verilmiş olması isabetli görülmemiştir.
 
 ## Yargıtay 20. HD 2009/13457 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897619600)
+
 3402 Sayılı Yasanın 14/1. maddesinde yazılı 40 ve 100 dönüm kısıtlama araştırmasının aynı maddenin 03/07/2005 gün ve 5403 Sayılı ...
 Koruma ve Arazi Kullanma Yasası ile değiştirilen 2. fıkrası hükümlerine göre yapılacağı düşünülerek, adına tescil kararı verilecek kişi ya da kişiler ile diğer mirasçılar ve onların miras bırakanları yönünden belgesizden zilyetliğe dayalı olarak tesbit ve tescil edilen taşınmaz olup olmadığı, varsa cinsi, parsel numaraları ve miktarı, Tapu Sicil ve Kadastro Müdürlüklerinden ve yine, aynı kişiler tarafından açılan tescil davası olup olmadığı Hukuk Mahkemesi Yazı İşleri Müdürlüklerinden ayrı ayrı sorularak gerektiğinde tesbit tutanak örnekleri ve tapu kayıtları ya da tescil dava dosyaları getirtilip incelenmeli, bilirkişi raporunda taşınmaz üzerinde meşe ağaçlarının bulunduğunun bildirildiği, bilimsel olarak meşe ağacı tohumu, ağır tohumlu ağaçlar grubu içerisinde yer aldığı ve tohum kanatlarının olmaması nedeni ile uzak mesafelere rüzgar v.s. gibi etkenlerle taşınarak çalılık alanlar içerisinde çimlenip yetişmesi mümkün görülmediği, taşınmaz üzerindeki meşe ağaçlarının daha önceki yıllarda tahrip edildiği, ... fotoğraflarının bu yıllarda çekilmiş olduğu, daha sonraki yıllarda ... altında kalan kök ve yüzeyde bulunan gövde kesitlerinden çıkan kök ve sürgünlerinden yeniden bugün
 üzerinde görülen meşe ormanının meydana geleceği başka bir anlatımla; meşe ağacının ... ormanlardan tohumlanma yolu ile yetişmeyeceği, ancak sürgünden meydana geleceği düşünülmeli ve elde edilen delillerin tümü birarada değerlendirilerek sonucuna göre karar verilmelidir.
 
 ## Yargıtay 14. HD 2009/7581 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845515400)
 
 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 8. maddesinde 9.2.2007 tarihinde yayınlanarak yürürlüğe giren 5578 Sayılı Kanunun 2. maddesi ile değişiklik yapılmış, yapılan bu değişiklikle tarım arazilerinde uygulanacak “bölünmez büyüklük” kavramı getirilmiştir. Buna göre, belirlenen parsel büyüklüğü; mutlak tarım arazileri ve özel ürün arazilerinde 2 hektar, dikili tarım arazilerinde 0,5 hektar, örtü altı tarım arazilerinde 0,3 hektar ve marjinal tarım arazilerinde 2 hektardan küçük olamaz. Tarım arazileri bu büyüklüklerin altında ifraz edilemez, bölünemez veya küçük parsellere ayrılamaz. Ancak çay, fındık, zeytin gibi özel iklim ve toprak istekleri olan bitkilerin yetiştiği yerler ile seraların bulunduğu alanlarda yörenin arazi özellikleri daha küçük parsellerin oluşmasını gerekli kıldığı taktirde Bakanlığın uygun görüşü ile daha küçük parseller oluşabilir. Bölünemez büyüklükteki tarım arazilerinin mirasa konu olmaları ve üzerinde her ne şekilde gerçekleşmiş olursa olsun birlikte mülkiyetin mevcut olması durumunda bu araziler ifraz edilemez, payları üçüncü kişilere satılamaz, devredilemez veya rehnedilemez.
 Ancak, hiç kuşkusuz bölünemez büyüklükte ve birlikte mülkiyetin olduğu tarım arazilerinde paydaşların veya iştirakçilerin tamamının birlikte katılımı ile üçüncü kişiye satışların yapılması, devredilmesi olanaklıdır. Keza, birlikte mülkiyet olarak tasarruf edilen bölünemez büyüklükteki tarım arazilerinde paydaşların veya iştirakçilerin tamamının birlikte katılımı ile hisselerini üçüncü bir kişiye satmaları ve devretmeleri de mümkündür. Buna ilave olarak paydaşlar, kendi aralarında paylarını birbirlerine satış yapabilir ve devredebilir.Somut olayda; çekişme konusu yapılan 868 parsel sayılı taşınmaz 10510 m2, 869 parsel sayılı taşınmaz 9820 m2 dir. Satış vaadi borçluları 868 parsel sayılı taşınmazda 1/4 payın tamamına, 869 parsel sayılı taşınmazda ise 3/32 payın tamamına elbirliği halinde maliktirler ve satış vaadi sözleşmesinin ifası halinde malik oldukları payın bölünmesi söz konusu değildir.

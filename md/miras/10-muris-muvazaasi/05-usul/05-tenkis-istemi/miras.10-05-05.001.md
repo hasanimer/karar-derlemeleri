@@ -26,6 +26,8 @@ Miras bırakanın yaptığı temliki tasarruflardan zarar gören mirasçılar, t
 
 ## Yargıtay HGK 2013/573 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77374800)
+
 Dava, tapu kaydına işlenen ipotek ve ihtiyati haciz şerhlerinin terkini istemine ilişkindir.
 
 …
@@ -36,6 +38,8 @@ Yeter ki kanunda öngörülen şekil koşuluna uyulmuş olsun.Görünüşteki s�
 Somut olayda, davacı yan muris muvazaası nedenine dayalı davasını 25.07.2007 tarihinde açmış olup, 3.kişiler yönünden aleniyetin sağlanması amacını güden tedbirin de, aynı gün tapu kaydına konulduğu görülmüştür. İpotek tesisi, muvazaa davasından ve tedbir kararından önce tapu kaydına işlenmiştir.4721 Sayılı Türk Medeni Kanunu'nun 1020. maddesi uyarınca “ tapu sicilinin açıklığı prensibi” , davalı banka ile kayıt maliki A.B. arasında el ve işbirliği iddia edilmiş ve kanıtlanmış olmadığından davalı banka lehine hak sağlar.
 
 ## Yargıtay HGK 2012/1107 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77652300)
 
 Somut olaya gelince; davacının Konya 1.Asliye Hukuk Mahkemesinde 13.09.2003 tarihinde ölen babası H.. H..'in bedelini üçüncü kişiye ödemek suretiyle üvey annesi L.. E.. (B..) adına sicil kaydı tesis ettirdiği (gizli bağış) taşınmazlarla ilgili olarak muris muvazaası hukuksal nedenine dayalı açtığı 2004/116 esas sayılı davanın (olayda muris muvazaasına ilişkin 01.04.1974 tarih 1/2 sayılı İ.B.K'nın uygulama yeri bulunmadığından ve murisin işleminin bağış niteliğinde olduğu ve koşullarının varlığı halinde tenkis davasına konu teşkil edeceği oysa, davada tenkis isteğinin de bulunmadığı gerekçesiyle) 12.11.2007 tarihinde 2007/387 sayılı kararla reddedilerek yasal yollardan (derecattan) geçmek suretiyle kararın kesinleştiği, anılan davada davalının avukatla temsil edilmesi nedeniyle davalı yararına 5.640.-TL avukatlık ücretine hükmedildiği ve bu ücretin tahsili bakımından eldeki davanın davacısı hakkında icra takibi yapıldığı dosya kapsamı ve eksiğin tamamlanması yoluyla getirilen evrak ve dosyalarla sabit olup, davacının eldeki davaya konu ettiği 5.640.-TL maddi tazminatında takip konusu yapılan avukatlık ücretine ilişkin olduğu açıktır.
 
@@ -108,25 +112,37 @@ Hukuk Dairesinin 07.03.2023 tarih ve 2021/75 08... /1372 Karar sayılı kararı 
 
 ## Yargıtay 1. HD 2025/6285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190987700)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; davanın muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil olmazsa tenkis istemiyle açıldığı, İlk Derece Mahkemesince muris muvazaası yönünden davanın kabulüne karar verilmesi üzerine Dairenin 2015/12467 Esas, 2018/10885 Karar sayılı kararıyla temlikin 01.04.19 74... /2 sayılı İBK kapsamında değerlendirilmeyeceği belirtilerek kararın bozulmasına karar verildiği, İlk Derece Mahkemesince direnme kararı verilmesi üzerine Hukuk Genel Kurulunun 2020/1-570 Esas, 2022/1472 Karar sayılı kararıyla Dairenin bozma kararına uyulması gerektiği belirtilerek direnme kararının bozulmasına karar verildiği, İlk Derece Mahkemesince bozma sonrası yapılan yargılamada muris muvazaası ve tenkis istemi yönünden davanın reddine karar verildiği, bu itibarla temyizin kapsamının tenkis istemine ilişkin olduğu anlaşılmaktadır.
 
 ## Yargıtay 1. HD 2025/5647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187553100)
 
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; davanın, muris muvazaasına dayalı tapu iptali ve tescil, olmazsa tazminat ve terditli tenkis talebine ilişkin olduğu, Dairemizin 01.12.2021 tarih ve 2021/7073 Esas, 2021/7451 Karar sayılı kararıyla İlk Derece Mahkemesince davanın muris muvazaası yönünden reddine karar verilmesinde bir isabetsizlik bulunmadığı, ancak tenkis istemi yönünden davanın hak düşürücü süre yönünden reddine karar verilmesinin isabetsiz olduğu, tenkis talebi yönünden işin esasına ilişkin araştırma ve inceleme yapılarak sonucuna göre bir karar verilmesi gerektiğine değinilerek İlk Derece Mahkemesi kararının bozulmasına karar verildiği, İlk Derece Mahkemesince bozma ilamına uyularak yapılan yargılama sonunda davanın reddine karar verildiği, bu haliyle temyizin kapsamının tenkis istemine ilişkin olduğu anlaşılmıştır.
 
 ## Yargıtay 7. HD 2025/4796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185083400)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; dava konusu uyuşmazlığın niteliği ve temyizin kapsamının, asıl davada tenkis, birleştirilen davada muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkin olup muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemi yönünden feragat nedeniyle davanın reddine karar verildiği, feragatin geçersiz olduğu gerekçesiyle hükmün temyiz edildiği, öncelikli olarak mülkiyete yönelik bu uyuşmazlığın çözüme kavuşturulması gerektiği anlaşılmıştır.
 
 ## Yargıtay 1. HD 2025/2106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143320300)
 
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; asıl davanın, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil ile tenkis, birleştirilen davanın ise sadece tenkis istemine ilişkin olduğu, Dairenin 17.12.2020 tarihli bozma ilamında asıl davadaki muris muvazaasına dayalı tapu iptali ve tesciline ilişkin uyuşmazlığın nihayete erdirildiği, asıl ve birleştirilen davada tenkise yönelik inceleme yapılması gerektiği belirtilerek kararın bozulduğu, Mahkemece Dairenin 17.12.2020 tarihli bozma ilamına uyulduğu ve bu doğrultuda karar verildiği, Mahkemenin yukarıda tarihi belirtilen kararın temyiz incelenmesinde tenkis hesabı yönünden değerlendirme yapılması gerektiği görülmüştür.
 
 ## Yargıtay 1. HD 2025/623 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118826200)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; asıl dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis, birleştirilen dava ise muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil istemine ilişkin olup Mahkemece yapılan yargılama sonunda asıl ve birleştirilen davanın reddine karar verilmiş, temyiz üzerine Dairemizin 22.11.2022 tarihli ve 2022/5282 Esas, 2022/7689 Karar sayılı kararıyla birleştirilen davada verilen hükmün onanmasına, asıl dava yönüyle ise Mahkemece muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil isteminin reddine karar verilmesinde bir isabetsizlik bulunmadığı, ancak; terditli tenkis isteği yönüyle yapılan araştırma ve incelemenin yeterli olmadığı belirtilerek hükmün bozulmasına karar verilmiş, bu aşamadan sonra Mahkemece tenkis istemi yönüyle yargılamaya devam olunduğu anlaşılmıştır.
 
 ## Yargıtay 1. HD 2025/612 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1130396800)
 
 Dava, muris muvazaası hukuki nedenine dayalı miras payı oranında tapu iptali ve tescil istemine ilişkindir.
 
@@ -138,10 +154,14 @@ Somut olayda; muris ...'ın 04.05.2016 tarihinde ölümüyle geriye mirasçı ol
 
 ## Yargıtay 7. HD 2024/4944 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107949200)
+
 Mahkemenin başlıkta tarih ve sayısı belirtilen kararında özetle; açılan dava, başlangıçta muris muvazaasına dayalı tapu ve iptali tescil, olmaz ise tenkis talebinden ibaret iken, 12.07.2023 tarihli dilekçe ile bu talebe ayrıca mirasçıya yapılan kazandırmanın miras payını aşan kısmının terekeye iadesi talebinin eklendiğini, dava konusu ...ilçesi, ...Mahallesi, 2157 No.lu parselin, muris tarafından davalı ...'e devredilmediği, davalı tarafından dava dışı birinden satın alındığı anlaşıldığından, öncelikle muvazaaya dayalı tapu iptali ve tescil talebinin reddine karar verildiği, davalı ...'in taşınmazı satın aldığı tarihte, ekonomik durumunun taşınmazı almaya yetecek durumda olmadığının yeminli tanık beyanlarından anlaşıldığı, murisin verdiği para ile bu taşınmazın davalı ... tarafından satın alındığının anlaşıldığı, bu nedenle olayda tenkis şartlarının varlığının kabul edildiği, murisin ölüm tarihinde tespit edilen terekesinin, tenkise tabi tasarrufun dava tarihindeki değerine göre murisin tasarruf nisabını aştığı, sabit tenkis oranının 0,0118342290249433 olduğu, tercih hakkının kullanılmış sayıldığı tarih itibarıyla her davacının talep edebileceği tenkis alacağının 103.502,24 TL
 olduğu anlaşıldığından, tenkis alacağı talebinin kabulüne karar verilmesi gerektiği, davacılar vekili en son 12.07.2023 tarihli ıslah dilekçesi ile dava dilekçesindeki taleplerine ayrıca miras payını aşan kısmı için terekeye iade talebinde bulunmuş ise de, murisin dava konusu 2157 No.lu parsele ilişkin resmi bir tasarrufunun olmadığı, sadece bedelinin ödendiği, bu haliyle tasarrufun tenkise tabi olduğu, mirasa iade şartlarının oluşmadığı anlaşıldığından bu aşamadaki iade talebinin reddine karar verilmesi gerektiği, diğer davalı ... hakkında Mahkemece verilen husumetten ret kararı ise bozma konusu yapılmadan kesinleştiğinden, bu davalı hakkında yeniden bir karar verilmesine yer olmadığı gerekçeleriyle;
 
 ## Yargıtay 1. HD 2024/4047 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059469500)
 
 Dava, muris muvazaası hukukî nedenine dayalı miras payı oranında tapu iptali ve tescil istemine ilişkindir.
 
@@ -150,6 +170,8 @@ Dava, muris muvazaası hukukî nedenine dayalı miras payı oranında tapu iptal
 3\. 01.04.1974 tarihli ve 1/2 sayılı Yargıtay İçtihadı Birleştirme Kararının konusu ve sonucu itibariyle, mirasbırakanın gerçekte bedelini bizzat ödeyip üçüncü kişiden satın aldığı taşınmazı mirastan mal kaçırmak amacıyla tapu siciline, yarar sağlamak istediği kişi adına kaydettirmesi hâlinde, diğer bir deyişle "bedeli ödenerek gizli bağış" şeklinde gerçekleştirilen işlemler hakkında doğrudan uygulanma kabiliyeti bulunmamaktadır. Yorum yoluyla da söz konusu İçtihadı Birleştirme Kararına bedeli ödenerek gizli bağış iddiasına dayalı davalarda uygulama kabiliyeti kazandırılamayacağı gibi, koşulları var ise tenkis istenebileceği Yargıtay Hukuk Genel Kurulunun 30.12.1992 tarihli 586/782; 21.09.1994 tarihli 248/538; 21.12.1994 tarihli 667/856; 11.10.1995 tarihli 1995/1-1608 sayılı kararlarında belirtilmiş olup, Dairemizin yargısal uygulaması bu doğrultuda kararlılık kazanmıştır.
 
 ## Yargıtay 1. HD 2024/2366 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063612100)
 
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil ile bedel istemine ilişkindir.
 
@@ -165,9 +187,13 @@ Davaya konu diğer taşınmazlar yönünden davalılar tarafından öne sürüle
 
 ## Yargıtay 1. HD 2023/7223 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979617400)
+
 2797 sayılı Yargıtay Kanunu’nun (2797 sayılı Kanun) 40 ıncı ve Yargıtay İç Yönetmeliği’nin 18 inci maddeleri uyarınca yapılan ön incelemede; davacının taşınmazın bedeli ödenerek gizli bağış yapıldığı iddiası ile muris muvazaası hukuki nedenine dayalı tapu iptal ve tescil, olmazsa bedel, o da olmazsa tenkis isteminde bulunduğu, Dairenin 04.10.2016 tarihli ve 2014/13185 Esas, 2016/9089 Karar sayılı kararı ile bedeli ödenerek "gizli bağış" şeklinde gerçekleştirilen işlemler hakkında 1.4.1974 tarihli 1/2 sayılı Yargıtay İçtihadı Birleştirme Kararının doğrudan bağlayıcı olmadığı, muris muvazaası nedenine dayalı olarak ileri sürülen tapu iptali-tescil isteği ile tazminat isteğinin dinlenebilme olanağı bulunmadığı, terditli isteklerden tenkis isteği hakkında araştırma yapılması yönünde Mahkeme kararının bozulduğu, Mahkemece Dairenin bozma kararına uyulmasına karar verildiği ve tenkis yönünden inceleme yapılarak tenkis talebinin kabulüne karar verildiği anlaşılmıştır.
 
 ## Yargıtay 7. HD 2023/81 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896464400)
 
 …
 
@@ -175,9 +201,13 @@ karşı edimin minnet duygusuyla belirlenmiş olduğu; bu durumda, temlikin ivaz
 
 ## Yargıtay 1. HD 2022/4820 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778625200)
+
 2797 sayılı Yargıtay Kanunu'nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan incelemede; dava muris muvazaasına dayalı tapu iptali ile tescili ve tenkis istemli olup, Dairenin 01.11.2012 tarihli, 2012/10586 Esas ve 2012/12164 Karar sayılı ilamı ile muris muvazaasına konu taşınmaz yönünden davanın kabulüne karar verilmesinde isabetsizlik olmadığı ve muris muvazaasına konu olmayan davaya konu taşınmazlar, araç ve dolmuş hattı bakımından tenkis isteği yönünden inceleme yapılması gerektiği belirtilerek kararın bozulmasına hükmedildiği, Mahkemece bozmaya uyularak tesis edilen hükmü davalının tenkis yönünden temyiz ettiği ve muris muvazaasına yönelik bir temyiz itirazının bulunmadığı, anlaşılmaktadır.
 
 ## Yargıtay 1. HD 2022/3973 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792636900)
 
 Dairenin 25.05.2016 tarihli ve 2014/17033 E., ve 2016/6418 K. sayılı ilamı ile ‘‘...davalıların murisi...'nin 3. kişiden temellük ettiği taşınmaz (kök muris...'nin gizli bağış suretiyle...'ye yaptığı kazandırma iddiası) bakımından 01.04.1974 tarih, 1/2 sayılı İnançları Birleştirme Kararının uygulama yerinin bulunmadığı ve muris muvazaasına ilişkin iddianın dinlenemeyeceği, koşullarının varlığı halinde 4721 sayılı TMK. nun 560 ila 571. maddelerinde öngörülen tenkis davasına konu edilebileceği açıktır. Oysa davada tenkis isteği bulunmamaktadır.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/1237 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985743800)
+
 Tenkis (indirim) davası, miras bırakanın saklı payları zedeleyen ölüme bağlı veya sağlar arası kazandırmaların (bağış) yasal sınıra çekilmesini amaçlayan, öncesine etkili, yenilik doğurucu (inşai) davalardandır. Tenkis davasının dinlenebilmesi için öncelikli koşul; mirasbırakanın ölüme bağlı veya sağlar arası bir kazandırma işlemi ile saklı pay sahiplerinin haklarını zedelemiş olmasıdır. Saklı payların zedelendiğinden söz edilmesi ise kazandırma konusu tereke ile kazandırma (temlik ) dışı terekenin tümüyle bilinmesiyle mümkündür. Tereke mirasbırakanın ölüm tarihinde bırakmış olduğu malvarlığı kıymetleri ile iadeye ve tenkise tabi olarak yaptığı kazandırmalardır. Bunlar terekenin aktifini oluşturur. Mirasbırakanın borçları, bakmakla yükümlü olduğu kişilerin 743 sayılı Kanun uygulanacaksa bir aylık 4721 sayılı Kanun uygulanacaksa üç aylık nafakası, terekenin defterinin tutulması, mühürlenmesi, cenaze masrafları gibi giderler de pasifidir. Aktiften belirtilen borçların indirilmesi net terekeyi oluşturur. Tereke bu şekilde tesbit edildikten sonra mirasın açıldığı tarihteki fiyatlara göre değerlendirilmesi yapılarak parasal olarak miktarının tespiti gerekir (TMK m.564).
 Miras bırakanın TMK'nin 506. maddesinde belirlenen saklı paya tecavüz edip etmediği bulunan bu rakam üzerinden hesaplanır. Tasarruf oranı aşılmış ise tasarrufun niteliğine göre icap ederse kazandırma işleminde, saklı payları zedeleme kastının bulunup bulunmadığı objektif (nesnel) ve sübjektif (öznel) unsurlar dikkate alınarak belirlenmelidir. Zira tasarruf oranını aşan her kazandırmada saklı payları zedeleme kastının varlığından söz edilemez.
 
@@ -68,6 +70,8 @@ Somut olayda; murisin 28.02.2019 tarihinde öldüğü, davanın 21.03.2019 tarih
 
 ## Yargıtay 1. HD 2025/4078 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182867800)
+
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali-tescil, olmadığı takdirde tenkis ve ecrimisil istemlerine ilişkindir.
 
 …
@@ -77,6 +81,8 @@ Sulh Hukuk Mahkemesinin 2020/126 Esas, 2020/202 Karar sayılı kararının muris
 
 ## Yargıtay 7. HD 2024/4207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078732300)
+
 1\. 4721 sayılı Türk Medeni Kanunu’nun 565/4 üncü maddesinde, mirasbırakanın saklı pay kurallarını etkisiz kılmak amacıyla yaptığı açık olan kazandırmaların tenkise tabi olduğu düzenlenmiştir.
 
 Tenkis (indirim) davası, mirasbırakanın saklı payları zedeleyen ölüme bağlı veya sağlar arası kazandırmaların (bağış) yasal sınıra çekilmesini amaçlayan, öncesine etkili, yenilik doğurucu (inşai) davalardandır. Tenkis davasının dinlenebilmesi için öncelikli koşul; mirasbırakanın ölüme bağlı veya sağlar arası bir kazandırma işlemi ile saklı pay sahiplerinin haklarını zedelemiş olmasıdır. Saklı payların zedelendiğinden söz edilmesi ise kazandırma konusu tereke ile kazandırma (temlik) dışı terekenin tümüyle bilinmesiyle mümkündür. Tereke mirasbırakanın ölüm tarihinde bırakmış olduğu malvarlığı kıymetleri ile iadeye ve tenkise tabi olarak yaptığı kazandırmalardır. Bunlar terekenin aktifini oluşturur. Mirasbırakanın borçları, bakmakla yükümlü olduğu kişilerin 743 sayılı Kanun uygulanacaksa bir aylık 4721 sayılı Kanun uygulanacaksa üç aylık nafakası, terekenin defterinin tutulması, mühürlenmesi, cenaze masrafları gibi giderler de pasifidir. Aktiften belirtilen borçların indirilmesi net terekeyi oluşturur. Tereke bu şekilde tesbit edildikten sonra mirasın açıldığı tarihteki fiyatlara göre değerlendirilmesi yapılarak parasal olarak miktarının tespiti gerekir (TMK 564).
@@ -84,9 +90,13 @@ Mirasbırakanın TMK'nın 506 ıncı maddesinde belirlenen saklı paya tecavüz 
 
 ## Yargıtay 1. HD 2023/103 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894685000)
+
 Sağ kalan eş için, altsoy veya ana ve baba zümresiyle birlikte mirasçı olması hâlinde yasal miras payının tamamı, diğer hâllerde yasal miras payının dörtte üçü." düzenlemesine yer verilmiş; aynı Kanun'un 565/4. maddesinde ise, mirasbırakanın saklı pay kurallarını etkisiz kılmak amacıyla yaptığı açık olan kazandırmaların tenkise tabi olduğu düzenlenmiştir.
 
 ## Yargıtay 7. HD 2023/81 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896464400)
 
 Dava, ölünceye kadar bakım sözleşmeleri ile davalılara devredilen taşınmaz paylarının, muris muvazaası nedeniyle davacının miras payı oranında iptali ile davacı adına tescili; olmadığı taktirde davacının saklı payının ihlal edildiği iddiasına dayalı tenkis alacağı istemine ilişkindir.
 
@@ -96,6 +106,8 @@ O halde mahkemece, tapu iptali ve tescile konu edilen taşınmazlarda, muris tar
 
 ## Yargıtay 1. HD 2022/7936 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878137300)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmazsa tenkis isteğine ilişkin olup; uyuşmazlık konusu, ön inceleme duruşmasında da bu şekilde nitelendirilmiştir.
 
 …
@@ -104,17 +116,23 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmazsa 
 
 ## Yargıtay 7. HD 2022/7202 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842283500)
+
 TMK'nın 565'inci maddesinde miras bırakanın hangi sağlar arası kazandırmaları hakkında tenkis istenebileceği düzenlenmiştir. Murisin ölümünden önceki bir yıl içinde yapılan bağışlamalar TMK'nın 565/3'üncü maddesi gereğince koşulsuz tenkise tabi olurken, ölümünden önceki bir yıldan sonra yapılan bağışlamalarda ise saklı pay kurallarını etkisiz kılmak amacıyla yaptığı açık olan kazandırmalar TMK'nın 565/4 hükmü ile tenkise tabi tutulmuştur. Bu hüküm gereği saklı payı ihlal kastı mahkemece etraflı şekilde araştırılmalıdır.
 
 Somut olayda, 28.05.2007 tarihinde dava konusu hisse davalıya devredilmiş, tarafların murisi 13.02.2012 tarihinde vefat etmiştir. Hissenin devri TMK'nın 565/3'üncü maddesi gereğince miras bırakanın ölüm tarihinden evvelki bir yıldan daha önce gerçekleştirildiğine göre, öncelikle anılan tasarrufun saklı pay kurallarını etkisiz kılmak amacıyla yapıldığının davacı tarafça ispatlanması zorunludur. Toplanan delillerden, özellikle davacının iddiaları ve davacı tanıklarının beyanlarından tarafların murisinin evlilik birliğinin devamını sağlamak amacıyla kooperatif hissesini davalı eşinin üzerine devrini temin ettiği, saklı pay kurallarını etkisiz kılmak amacıyla söz konusu kazandırmanın yapıldığının kanıtlanamadığı anlaşılmaktadır. Bu husus gözetilmeden tenkise karar verilmesi doğru görülmemiş bu sebeple hüküm bozulmuştur.
 
 ## Yargıtay 1. HD 2021/5885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733620400)
+
 3.3.2. Hemen belirtilmelidir ki, mirasbırakanın hukuki ehliyeti haiz olduğu ve davaya konu taşınmazlardan ... nolu parselin davadan önce 14.04.2015 tarihinde dava dışı ...′a temlik edilip davalılarla kayden bir bağının kalmadığı gözetildiğinde, ehliyetsizlik iddiası yönünden ve ... nolu parsele yönelik tapu iptali-tescil isteği yönünden davanın reddine karar verilmesi kural olarak doğrudur.
 
 Diğer taraftan, mirasbırakan ...′nin ölümünden 1 yıldan daha önce yaptığı dava konusu temlikler bakımından TMK′nın 565/4. maddesi çerçevesinde saklı payı zedeleme kastıyla hareket ettiği iddiası kanıtlanamadığından tenkis isteğinin reddedilmesinde de bir isabetsizlik yoktur.
 
 ## Yargıtay 1. HD 2021/3430 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683270400)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -123,6 +141,8 @@ Dava, tenkis isteğine ilişkindir.
 Hâl böyle olunca; mahkemece yukarıda belirtilen ilkeler çerçevesinde hareket edilmesi, davacılara tanıklarını bildirmesi hususunda süre verilmesi ve isimlerin bildirilmesi halinde tanık deliline dayanan davacı tanıklarının eksiksiz bir şekilde dinlenmesi, TMK’nın 565/4. maddesi uyarınca mirasbırakanın saklı payı zedeleme kastı ile hareket edip etmediğinin araştırılması, saklı payı zedeleme kastı ile hareket ettiği belirlenir ise yukarıdaki ilkeler uyarınca tenkis hesabı yapılarak sonucuna göre karar verilmesi gerekirken, hatalı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir...” gerekçesiyle bölge adliye mahkemesi kararı bozulmuş, bölge adliye mahkemesince bozma ilamına uyularak yapılan yargılama sonucunda, mirasbırakanın saklı payı zedeleme kastıyla hareket ettiği iddiasının ispatlanamadığı gerekçesiyle davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2020/2446 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646963400)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -137,13 +157,19 @@ Somut olaya gelince; mirasbırakanın 06.01.1994 tarihli akit ile, “Sosyal Hiz
 
 ## Yargıtay 1. HD 2020/694 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588419200)
+
 Hal böyle olunca, 01.07.1999 tarihli ve "Satım Sözleşmesidir" başlıklı belgenin devamında "Kabul ve Beyandır" başlıklı beyanların altında atılı imzanın davacıların mirasbırakanı ...’a ait olup olmadığının açıklığa kavuşturulması ("Kabul ve Beyan Eden...." yazısının altında atılı bulunan imza), bu kapsamda bilirkişiden rapor alınması imzanın Hatice Palas’a ait olması halinde önceki bozmada yazılı gerekçe ile davanın reddine karar verilmesi, imzanın Hatice Palas’a ait olmaması halinde ise; 01.07.1999 tarihli belge haricindeki deliller değerlendirilmek suretiyle 4721 sayılı TMK’nin 565/4. maddesi uyarınca mirasbırakan Yadigar’ın saklı payı ihlal etme kastının bulunup bulunmadığının değerlendirilmesi ve sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2019/4156 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515794000)
+
 Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye, delillerin takdirinde bir isabetsizlik bulunmamasına göre ve özellikle dava konusu 184 parsel sayılı taşınmaz bakımından davacı her ne kadar tenkis isteğinde bulunmuş ise de Türk Medeni Kanunu 565/4. maddesinde, “ Mirasbırakanın saklı pay kurallarını etkisiz kılmak amacıyla yaptığı açık olan karşılıksız kazandırmaların ölüme bağlı tasarruflar gibi tenkise tabi olduğu” düzenlemesine yer verilmiştir. Öte yandan davacının dava dilekçesinin 6. maddesinde, “ ...muris ...’nun dava konusu 184 parsel sayılı taşınmazı bağış suretiyle devretmesinin saklı pay sahibi davacının saklı payına tecavüz ettiğinin açıkça göstergesi olmasına rağmen murisin gerçek iradesinin saklı paylı mirasçıları olan evlatlarını miras haklarından yoksun bırakmak olduğunu ve bu doğrultuda bilerek işlem yaptığını söylemenin gerçekle bağdaşmayacağı” şeklinde beyanda bulunması karşısında murisin saklı payı ihlal kastıyla hareket etmediğinin davacının da kabulünde olduğu ve tenkis koşullarının oluşmadığı açıktır. Bu nedenle dava konusu 184 parsel sayılı taşınmazla ilgili davanın reddedilmiş olması doğrudur.
 
 ## Yargıtay 1. HD 2019/3916 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519454000)
 
 Birleştirilen davada davalı ..., satışın gerçek olduğunu, iyiniyetli alıcı olduğunu belirterek davanın reddi gerektiğini bildirmiştir. Mahkemece, asıl dava yönünden temlikin saklı payı zedeleme kastı ile yapıldığı iddiasının ispatlanamadığı, birleştirilen dava yönünden de 01.04.1974 tarih ve 1/2 sayılı İBK'nın şartlarının oluşmadığı gerekçesiyle davanın reddine karar verilmiştir. Dosya içeriği ve toplanan delillerden;
 1923 doğumlu mirasbırakan ...’ın 21.10.2010 tarihinde ölümü ile geride mirasçı olarak çocukları olan davacı ..., davalı ... ile dava dışı ...’i bıraktığı, çekişme konusu 164 ada 6 parsel sayılı taşınmaz mirasbırakana ait iken ...’dan olma torunu olan davalı ...’a bağışladığından söz edilerek davalı ... adına kadastroca tespit edildiği ve tespitin 02.01.2004 tarihinde kesinleştiği; çekişme konusu 153 ada 8 parsel sayılı taşınmaz mirasbırakana ait iken oğlu olan davalı ...’a bağışladığı gerekçe gösterilerek davalı ... adına kadastroca tespit edildiği ve tespitin 02.01.2004 tarihinde kesinleştiği; çekişme konusu 164 ada 4 parsel sayılı taşınmaz mirasbırakana ait iken oğlu olan davalı ...’a bağışladığından söz edilerek davalı ... adına kadastroca ve tespit edildiği ve tespitin 02.05.2004 tarihinde kesinleştiği; çekişme konusu 124 ada 632 parsel sayılı taşınmaz mirasbırakana ait iken ...’dan olma torunu olan davalı ...’a bağışladığı gerekçesiyle davalı ... adına kadastroca tespit edildiği ve tespitin 02.05.2004 tarihinde kesinleştiği, ...’ün de taşınmazı 16.12.2009 tarihinde birleştirilen davanın davalısı ...’a temlik ettiği; çekişme konusu 124 ada 651 parsel sayılı taşınmaz eski tapu
@@ -155,9 +181,13 @@ Mirasbırakan tarafından tapusuz taşınmazların zilyetliğinin devri suretiyl
 
 ## Yargıtay 1. HD 2019/2099 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496090100)
+
 Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye, delillerin takdirinde bir isabetsizlik bulunmamasına, özellikle çekişmeli ½ pay muris tarafından 1997 yılında bağış suretiyle devredilmiş olup bağış geçerli işlemlerden olduğundan tapu iptali ve tescil koşullar oluşmamıştır. Tenkise gelince; TMK'nun 565/4. maddesine göre mirasbırakanın saklı pay kurallarını etkisiz kılmak amacıyla yaptığı kazandırmalar tenkise tabidir. Somut olayda; davacı tarafça temlikin saklı pay kurallarını etkisiz kılmak amacıyla yapıldığı hususu kanıtlanmış değildir. Bu durumda tenkis isteğinin de reddi gerekirken kabulü doğru değil ise de temyiz edenin sıfatına göre bu husus bozma nedeni yapılmamıştır.
 
 ## Yargıtay 1. HD 2018/15811 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470273400)
 
 Öte yandan, muris 08.02.2008 tarihinde öldüğüne ve 4721 sayılı TMK’nın 565/3. maddesi uyarınca ........ünden önceki bir yıl içinde adet üzere verilen hediyeler dışında yapmış olduğu bağışlamalar mutlak tenkise tabi olduğuna göre; murisin 07.02.1989 tarihinde bağışladığı bağımsız ........ ile 2004 yılında yaptığı para bağışlarının mutlak tenkise tabi olduğunu söyleyebilme olanağı yoktur.
 
@@ -167,6 +197,8 @@ Hal böyle olunca, yukarıda açıklandığı üzere murisin saklı pay kurallar
 
 ## Yargıtay 1. HD 2018/14844 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463688700)
+
 Dava, tenkis isteğine ilişkindir.
 
 …
@@ -174,6 +206,8 @@ Dava, tenkis isteğine ilişkindir.
 Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye, delillerin takdirinde bir isabetsizlik bulunmamasına ve özellikle, muris ...’ın bedelini ödemek suretiyle satın aldığı dava konusu 194 ada 2 parsel sayılı taşınmazın ( 4 dükkanlı kargir bina ) ¼ payını ikinci eşinden olma davalı oğlu ... adına tescil ettirdiği, murisin saklı pay kurallarını etkisiz kılmak amacıyla hareket ettiği ( TMK 565/4. maddesi ) iddiasının kanıtlandığı gözetilerek tenkise karar verilmesinde kural olarak bir isabetsizlik bulunmamaktadır. Davalı vekilinin bu yöne ilişkin temyiz itirazları yerinde görülmediğinden reddine.
 
 ## Yargıtay 1. HD 2018/10395 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423490400)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil, olmazsa tenkis isteklerine ilişkindir.
 
@@ -185,6 +219,8 @@ Hal böyle olunca, mirasbırakanın saklı payı zedeleme kastının araştırı
 
 ## Yargıtay 1. HD 2016/6931 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/219420300)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal tescil, olmadığı takdirde tenkis istemine ilişkindir.
 
 …
@@ -193,9 +229,13 @@ Tenkis istemine gelince, dinlenen tüm davacı tanıklarının taşınmazın mur
 
 ## Yargıtay 1. HD 2016/5939 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205560300)
+
 Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye, delillerin takdirinde bir isabetsizlik bulunmamasına ve özellikle, dava konusu temlikin 1978 yılında davalıların murisi .....'a bağış suretiyle yapıldığı, bağışın geçerli işlemlerden olup bu tür temlikler bakımından 1.4.1974 tarih ve ½ sayılı İçtihadı Birleştirme Kararının uygulamayacağı gözetilerek iptal ve tescil olmazsa bedel isteğinin; 4721 sayılı TMK'nun 565. maddesinin 4. fıkrası uyarınca temlikin saklı pay kurallarını etkisiz kılmak amacıyla yapıldığı kanıtlanamadığından da tenkis talebinin reddine karar verilmiş olmasında bir isabetsizlik bulunmadığı gibi keşfen belirlenen ancak harcı tamamlanmayan değer üzerinden değil de dava dilekçesinde gösterilen ve harcı tamamlanan dava değeri üzerinden davalı lehine vekalet ücretine hükmedilmesi de doğru olduğuna göre tarafların temyiz itirazı yerinde değildir.
 
 ## Yargıtay 1. HD 2016/469 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203692800)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -207,9 +247,13 @@ Somut olayda tarafların ortak mirasbırakanları ... dava konusu taşınmazın 
 
 ## Yargıtay 1. HD 2015/8613 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140344500)
+
 Bilindiği üzere, mirasbırakanın sağlar arası tasarruflarından ölümünden önceki bir sene içinde yaptığı bağışlamalar kast aramaksızın mutlak tenkise tabidir.(TMK. md.565/3) Bir yıldan daha önceki bağışlamalar ise, saklı pay kuralarını etkisiz kılmak kastıyla yapılmış oldukları takdirde tenkis edilebilir. (TMK. md.565/4)
 
 ## Yargıtay 1. HD 2015/3751 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120781400)
 
 Dava, tenkis isteğine ilişkindir.
 

@@ -25,11 +25,15 @@ Bu durumda tüm dosya kapsamına göre ispat yükü üzerinde olan davacı taraf
 
 ## Yargıtay HGK 2025/88 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131856300)
+
 …
 
 miras bırakanın asıl irade ve amacının, tek oğlu olan ve ikinci evliliğini yapmayı planlayan oğluna dava konusu taşınmazı devrederek diğer mirasçılardan mal kaçırmak olduğu, muvazaa yönündeki iddianın davacı tarafça ispatlandığı, davalının ise savunmasını usulünce kanıtlayamadığı anlaşıldığından davanın kabulü gerektiği sonucuna varılmıştır.
 
 ## Yargıtay HGK 2024/466 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1081289900)
 
 …
 
@@ -37,11 +41,15 @@ satış değeri ile taşınmazların gerçek değeri arasında fahiş fark bulun
 
 ## Yargıtay HGK 2023/1222 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983233000)
+
 …
 
 yapılan temlikin muris muvazaasına ilişkin 01.04.1974 tarihli ve 1974/1 Esas, 1974/2 Karar sayılı İçtihadı Birleştirme Kararı kapsamında iptal edilebilmesi için temlikin sadece muvazaalı olması yeterli olmayıp, muvazaalı işlemin aynı zamanda muris tarafından mal kaçırma kastıyla yapılması ve mal kaçırma kastının da davacı tarafça usulüne uygun şekilde ispat edilmesi gerekmektedir. 23. Dosyaya sunulan deliller, bilgi ve belgelerden, eldeki davada ispat yükü kendisinde olan davacı tarafın, temlikin muvazaalı olduğunu ve mirasbırakanın çekişmeli temlik ile mirastan mal kaçırma amacıyla hareket ettiğini kanıtlayamadığı anlaşıldığından terditli ilk talep olan muris muvazaası yönünden davanın reddine dair verilen direnme kararı yerindedir.
 
 ## Yargıtay HGK 2023/861 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/948062000)
 
 …
 
@@ -51,9 +59,13 @@ dava konusu taşınmazları satmasını gerektirir makul ve haklı bir nedenin v
 
 ## Yargıtay HGK 2023/164 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/888589200)
+
 Yukarıda anılan tüm hususlar birlikte değerlendirildiğinde, eldeki davada ispat yükü kendisinde olan davacı tarafın mirasbırakanın çekişmeli temlik ile mirastan mal kaçırma amacıyla hareket ettiğini kanıtlayamadığı anlaşılmıştır. Akit tablosunda gösterilen bedeller ile dava konusu bağımsız bölümlerin keşfen saptanan gerçek değerleri arasındaki fark da tek başına muvazaanın kanıtı sayılamaz.
 
 ## Yargıtay HGK 2021/1189 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707360800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve pay oranında tescil isteğine ilişkindir.
 
@@ -64,6 +76,8 @@ Söz konusu içtihadı birleştirme kararında ölünceye kadar bakma sözleşme
 Muris muvazaasını öteki nispi muvazaalardan ayıran unsur ise mirasçıları aldatmak amacıyla yapılmasıdır. Daha açık bir anlatımla, 1.4.1974 tarih ve 1/2 sayılı İçtihadı Birleştirme Kararında belirtildiği gibi bu muvazaa türünde mirasbırakan, mirasçısını miras hakkından yoksun bırakmak amacıyla, gerçekte bağışlamak istediği tapuda kayıtlı taşınmaz malı hakkında tapu memuru önünde iradesini satış veya ölünceye kadar bakma akdi şeklinde açıklamaktadır. Bu nedenle bu tür uyuşmazlıkların çözümünde bakım borçlusuna yapılan temlikin gerçek yönünün, eş söyleyişle mirasbırakanın gerçek irade ve amacının duraksamaya yer bırakmayacak biçimde ortaya çıkarılması önemlidir. Bunun için de mirasbırakanın sözleşmeyi yapmakta haklı ve makul nedeninin bulunup bulunmadığı, bakım borçlusu ve diğer mirasçılarla ilişkileri, murisin yaşı, sağlık durumu, temlik edilen malın tüm mamelekine oranı gibi olgulardan yararlanılmasında zorunluluk vardır.
 
 ## Yargıtay HGK 2020/726 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638164500)
 
 Yukarıdaki açıklamalar ışığında somut olay değerlendirildiğinde; alacaklı davacı ... tarafından borçlu davalı ... aleyhine 86.038,64TL asıl alacak yönünden 24.05.2005 tarihinde icra takibi başlatılmış olup, davalı borçlu 14.02.2006 tarihinde icra dairesine müracaat ederek takibe konu alacağı kabul etmiştir. İcra dairesince dava konusu taşınmaz üzerine 24.05.2005 tarihinde ihtiyati haciz konulmuştur. Davacı tarafça alınan yetkiye istinaden açılan ortaklığın giderilmesi davasında davanın takip edilmemesi ve süresi içinde de yenilenmemesi nedeniyle davanın açılmamış sayılmasına karar verilmiş, verilen karar Yargıtay (Kapatılan) 6. Hukuk Dairesinin 23.03.2010 tarihli ve 2009/11830 E., 2010/3204 K. sayılı kararıyla onanmıştır. Borçlu ... tarafından dosyanın diğer davalılarına yönelik olarak açılan ortaklığın giderilmesi davasında ise, satış suretiyle ortaklığın giderilmesine dair verilen karar, Yargıtay (kapatılan) 18. Hukuk Dairesinin 19.11.2007 tarihli ve 2007/6976 E., 2007/9858 K. sayılı kararı ile bozulmuş, uyulan bozma ilamı sonucu yapılan yargılamada ise davanın açılmamış sayılmasına karar verilmiştir.
 Dava konusu 9130 parsel sayılı arsa niteliğindeki taşınmazın ...'ye ait iken 06.05.1998 tarihinde ölümü ile mirasçıları olan davalılara intikal ettiği, davalıların kendi aralarında yaptıkları 14.05.2009 tarihli yazılı paylaştırma anlaşması ile taşınmazı taksim ettikleri, bu taksim sonucu taşınmaz üzerindeki 1 nolu dükkanın borçlu davalı ...'ye kaldığı ve davalıların kat irtifakı talep etmeleri sonucu sözü edilen dükkanın borçlu davalı adına tapuya tescil edildiği anlaşılmıştır. Paylaştırmada arazi ve üzerindeki bina değeri toplamda 420.000,00TL olarak kabul edilmiş ve tüm davalıların fark bedeli olarak davalı borçluya 35.000,00TL ödeyecekleri kararlaştırılmıştır. 05.06.2009 tarihli makbuz karşılıklı belgeye göre davalı borçlu 35.000,00TL fark bedelini aldığını belirtmiştir. Dosya kapsamında bedelin ödenmediğine dair bir iddia bulunmamaktadır. Hükme esas alınan bilirkişi raporunda davalı borçluya ait ¼ arsa paylı 1 nolu dükkanın arsa payı dahil akit tarihindeki değeri 68.500,00TL olarak belirtilmiş, diğer bağımsız bölümlere ise 100.000,00 ve 110.000,00’er TL değer biçilmiştir.
@@ -100,21 +114,29 @@ sayılı Hukuk Muhakemeleri Kanunu'nun 353/(1).b.2 maddesi gereğince incelenen 
 
 ## Yargıtay 1. HD 2024/1512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054670100)
+
 …
 
 mirasbırakanın davacıyı mirasçılıktan çıkardığı vasiyetnamedeki iradesi birlikte değerlendirildiğinde, dava konusu işlemdeki asıl amacın mirastan mal kaçırmak olduğu anlaşıldığından …
 
 ## Yargıtay 1. HD 2023/579 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898809500)
+
 Somut olayda, mirasbırakan ile birlikte yaşayan davalının taşınmazı alım gücü olmadığı gibi emekli olan mirasbırakanın mal satmaya ihtiyacının da olmadığı, geride başkaca taşınmazının kalmadığı, kızı olan davacı ile sosyal ilişkilerinin bulunmadığı anlaşılmaktadır.
 
 ## Yargıtay 1. HD 2023/49 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894694200)
 
 …
 
 mirasbırakanın sözleşmeyi yapmakta haklı ve makul bir nedeninin bulunup bulunmadığı, davalı yanın alım gücünün olup olmadığı, satış bedeli ile sözleşme tarihindeki gerçek değer arasındaki fark, taraflar ile miras bırakan arasındaki beşeri ilişki gibi olgulardan yararlanılmasında zorunluluk vardır.
 
 ## Yargıtay 1. HD 2022/687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759792600)
 
 …
 
@@ -127,21 +149,29 @@ Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı tapu iptali
 
 ## Yargıtay 1. HD 2021/6157 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/701761000)
+
 İlk Derece Mahkemesince, ... ve ... parsel sayılı taşınmazlar yönünden davanın reddine, ... ve ... parsel sayılı taşınmazlar yönünden davanın kabulüne karar verilmiş, ... Bölge Adliye Mahkemesi 1.
 Hukuk Dairesince tarafların ecrimisile yönelik istinaf isteklerinin kesinlik sınırının altında olması nedeniyle reddine, davalıların diğer istinaf nedenlerinin esastan reddine, davacıların istinaf başvurusunun kısmen kabulü ile kararın kaldırılmasına, vekalet ücreti yönünden düzeltilerek davanın kısmen kabul kısmen reddine ilişkin verilen karar, Dairece “...Temyiz kesinlik sınırı içinde kaldığı anlaşılan eldeki davada ecrimisil isteği yönünden tarafların temyiz dilekçesinin değerden reddine, diğer taleplere gelince, hemen belirtilmelidir ki; davalı ...’e yapılan devrin mirasçılardan mal kaçırmak amaçlı ve muvazaalı olduğunun ispatlanmadığı gerekçesiyle davanın reddine karar verilmiş olmasında isabetsizlik yoktur, davacıların yerinde görülmeyen temyiz itirazlarının reddine, diğer temyiz itirazlarına gelince somut olayda, dinlenen davacı tanıklarının işlemlerin muvazaalı olduğuna yönelik herhangi bir beyanda bulunmadıkları, mirasbırakanın mal kaçırma kastı ile hareket ettiğini gösterir somut bir olgu ortaya konulamadığı, davalı tanıklarının ise mirasbırakanın Rusya’ya yaptığı ihracat işleri nedeniyle borçları olduğunu, davalıların alım gücü olduğunu beyan ettikleri, yukarıda
 belirtildiği üzere ispat yükünün davacı tarafa ait olup, dosya kapsamındaki deliller ile davacı tarafın temliklerin mirastan mal kaçırma amaçlı ve muvazaalı olduğunu ispat edemediği anlaşılmıştır. Hal böyle olunca, davanın tümden reddine karar verilmesi gerekirken, delillerin takdirinde hataya düşülerek yazılı şekilde ... ve ... parsel sayılı taşınmazlar yönünden davanın kabulüne karar verilmesi doğru değildir.” gerekçesiyle bozulmuş, bölge adliye mahkemesince bozma ilamına uyularak yapılan inceleme sonucunda davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2021/1685 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651756200)
+
 Bilindiği üzere; muris muvazaası hukuksal nedenine dayalı uyuşmazlıkların sağlıklı, adil ve doğru bir çözüme ulaştırılabilmesi davalıya yapılan temlikin gerçek yönünün, diğer bir söyleyişle mirasbırakanın asıl irade ve amacının duraksamaya yer bırakmayacak biçimde ortaya çıkarılmasına bağlıdır. Bir iç sorun olan ve gizlenen gerçek irade ve amacın tespiti ve aydınlığa kavuşturulması genellikle zor olduğundan bu yöndeki delillerin eksiksiz toplanılması yanında birlikte ve doğru şekilde değerlendirilmesi de büyük önem taşımaktadır. Bunun için de ülke ve yörenin gelenek ve görenekleri, toplumsal eğilimleri, olayların olağan akışı, mirasbırakanın sözleşmeyi yapmakta haklı ve makul bir nedeninin bulunup bulunmadığı, davalı yanın alış gücünün olup olmadığı, satış bedeli ile sözleşme tarihindeki gerçek değer arasındaki fark, taraflar ile mirasbırakan arasındaki beşeri ilişki gibi olgulardan yararlanılmasında zorunluluk vardır.
 Ölünceye kadar bakıp gözetme karşılığı yapılan temlikin muvazaa ile illetli olup olmadığının belirlenebilmesinde de, sözleşme tarihinde murisin yaşı, fiziki ve genel sağlık durumu, aile koşulları ve ilişkileri, elinde bulunan mal varlığının miktarı, temlik edilen malın tüm mamelekine oranı, bunun makul karşılanabilecek bir sınırda kalıp kalmadığı gibi bilgi ve olguların göz önünde tutulması gerekir.
 
 ## Yargıtay 1. HD 2019/2189 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489743600)
+
 Davanın reddine dair verilen karar Dairece “ ... Somut olayda, gerçekten mirasbırakanın 3972 parsel sayılı taşınmazda davacı ... ve çocukları ... ile...'e de pay temlik ettiği sabittir. Ne var ki, paylaştırma savunmasının ancak mirasçılar arasında dinlenebileceği, davalının ... mirasçısı olmayıp savunmasına itibar edilemeyeceği kuşkusuzdur. Davalı bu beyanı ile bedel ödemediğini zımnen kabul etmiştir. Esasen, toplanan deliller de muvazaa olgusunu desteklemektedir. Dava konusu taşınmazın akit tarihindeki gerçek değeri ile akitteki değeri arasında fahiş fark bulunması, davalının temlik tarihinde 16 yaşında olup alım gücü bulunmaması işlemin danışıklı oluğunu göstermektedir. Hal böyle olunca, davanın kabulüne karar verilmesi gerekirken yazılı olduğu üzere hüküm kurulması isabetsizdir.” gerekçesiyle bozulmuş;
 Mahkemece verilen direnme kararının Hukuk Genel Kurulunca, “ ...mirasbırakan tarafından yapılan temlikin mirasçılardan mal kaçırma amacıyla muvazaalı olarak yapıldığı anlaşıldığından, davanın kabulü gerektiğine değinen bozma ilamına uyulması gerekirken, direnme kararı verilmesi usul ve yasaya aykırıdır.” gerekçesiyle bozulması üzerine Mahkemece, temlikin mirasçılardan mal kaçırma amacıyla ve muvazaalı yapıldığı gerekçesiyle davanın kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2010/3293 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78996800)
 
 …
 

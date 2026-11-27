@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2009/16910 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80616200)
+
 Mirasbırakan ölüme bağlı tasarruflarını koşullara veya yüklemeye bağlayabilir. Tasarruf hüküm ve sonuçlarını doğurduğu andan itibaren her ilgili koşul veya yüklemenin yerine getirilmesini isteyebilir. Koşul veya yüklemeden yararlanacak olanların "ilgili" kapsamına girdiğinde kuşku yoktur. Vasiyet alacaklısının vasiyeti reddetmesi halinde, mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşılmadıkça bu redden vasiyet yükümlüsünün yararlanacağı da yasa gereğidir. (TMK.md.616)
 
 Vasiyetname şarta bağlanmıştır. Davacı, vasiyet alacaklısı değil, yasal mirasçı olarak vasiyet yükümlüsüdür. Vasiyet alacaklılarından E., kendisine vasiyet edilen taşınmazdaki vasiyetnameden doğan hakkını ve terekedeki yasal miras payını diğer yasal mirasçılardan Ş. ve C.'e 13.07.2007 tarihli sözleşme ile devir ve temlik etmiş olmasına göre bu işlemin vasiyetnamenin bağlandığı koşulu E. yönünden bozduğunun kabul edilmesi durumunda, bundan davacı da yararlanacaktır. Kaldı ki E., 09.10.2007 tarihli oturumda kendisi lehine yapılan vasiyeti istemediğini ifade etmiş olup, bu beyan vasiyet alacaklısının vasiyeti reddetmesi niteliğindedir.
@@ -29,9 +31,13 @@ Bu redden vasiyet yükümlüsü olarak davacının yararlanacağında da kuşku 
 
 ## Yargıtay 2. HD 2009/15490 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80337400)
+
 Mirasbırakan 10.11.2005 tarihinde dul olarak vefat etmiş, en yakın yasal mirasçılarının tamamı sulh mahkemesine 15.12.2005 tarihinde verdikleri dilekçe ile mirası kayıtsız şartsız reddettiklerini bildirmişlerdir. Bu durumda Türk Medeni Kanununun 609/3. ve 4. maddeleri gereğince reddin tespit ve özel kütüğüne yazılmasına ve aynı yasanın 612. maddesi uyarınca işlem yapılmasına karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 17. HD 2009/8059 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875489800)
 
 Türk Medeni Kanununun 612. maddesinde belirtildiği üzere en yakın yasal mirasçıların tamamı tarafından reddolunan miras, sulh mahkemesince iflas hükümlerine göre tasfiye edilir. İİK.nun 277 ve devamı maddelerinde öngörülen hükümlere bakıldığında, bu davalar kendine özgü nitelik taşırlar ve davacı alacaklı tasarrufun iptali davasını hem borçlu hemde lehine tasarrufta bulunulan üçüncü kişiye birlikte yöneltmek zorundadır.
 
@@ -39,11 +45,15 @@ Somut olayda murisin mirasının en yakın mirasçıları tarafından reddedildi
 
 ## Yargıtay 2. HD 2009/6776 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16821200)
+
 Yasal mirasçılar, mirasbırakandan miras paylarına mahsuben elde ettikleri sağlararası karşılıksız kazandırmaları, denkleştirmeyi sağlamak için terekeye geri vermekle birbirlerine karşı yükümlüdürler (TMK m. 669/1). Bu hükme göre, altsoy dışındaki yasal mirasçıların mirasbırakandan elde ettikleri sağlararası karşılıksız kazandırmaların denkleştirmeye (iadeye) tabi olması için, bunların miras payına mahsuben verildiğinin kanıtlanması gerekir. Davacı, mirasbırakanın 18.04.2005 tarihinde davalı (eşine) aktardığı paranın, miras payına mahsuben verildiğine ilişkin bir delil getirememiştir. O halde, davalıya aktarılan para ile ilgili denkleştirme isteğinin reddi gerekirken, yazılı şekilde hüküm kurulması doğru bulunmamıştır.
 
 Dava konusu eşyaların mirasbırakana ait olduğu hususunda taraflar arasında bir uyuşmazlık yoktur. Bu eşyalar, mirasbırakan tarafından sağlığında davalıya verilmemiş, ölümünden sonra, davalı bu eşyaları ortak konuttan alıp götürmüştür. Gerçekleşen bu durum karşısında, eşyalar yönünden Türk Medeni Kanunu'nun 669. maddesi koşulları bulunmamaktadır. Davalı da davacıyla birlikte yasal mirasçı olduğuna ve davalının bu menkul malları elinde bulundurması yasal mirasçılık sıfatına dayandığına göre, eşyalara ilişkin istek, Türk Medeni Kanunu'nun 637. maddesine de dayanmamaktadır. Mirasçılar, rnirasbırakanın ölümü ile mirası bir bütün olarak kanun gereği kazanırlar (TMK m. 599/1). Birden çok mirasçı bulunması halinde, mirasın geçmesiyle birlikte paylaşmaya kadar, mirasçılar arasında terekedeki bütün hakları ve borçları kapsayan bir ortaklık meydana gelir. Mirasçılar, terekeye elbirliğiyle sahip olurlar (TMK m. 640). Davacının, dava konusu menkul eşyalara ilişkin bir paylaşma isteği de bulunmamaktadır. Öyleyse, menkul eşyalara ilişkin talebin de reddi gerekirken, yazılı şekilde hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 7. HD 2009/448 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868474600)
 
 Mahkemece hakkında hüküm kurulan dava konusu 48 parsel sayılı taşınmazın kamu malı niteliğinde mera olmadığı, tespit gününde sözü edilen taşınmaz üzerinde adlarına tescile karar verilen zilyetleri yararına 3402 sayılı Kadastro Kanununun 14.maddesi hükmünde öngörülen kazandırıcı zamanaşımı zilyetliği ile taşınmaz edinme koşullarının gerçekleştiği gerekçe gösterilerek hüküm kurulmuş ise de yapılan araştırma uygulama ve mülkiyet belgesi olmayan zilyetlikle birleşmedikçe değer verilmesi hukuken olanaksız olan vergi kaydının uygulaması da hüküm vermeye yeterli değildir. Yanlar arasındaki uyuşmazlık dava konusu taşınmazların kamu malı niteliğinde mera olup olmadığı yönünde toplanmıştır. Dava konusu 41 parsel sayılı taşınmaz hakkında hüküm kurulmamış olması dosya içeriğine göre saptanan uyuşmazlık niteliğini değiştirmez. Kural olarak, mahkemece bir yerin mera olarak kabul edilebilmesi için taşınmazların bulunduğu bölgede yetkili idari merciler tarafından mera olarak tahsis edilmesi yada taşınmazın öncesinin bilinmeyen bir zamandan beri geleneksel biçimde kamu malı niteliğinde mera olarak kullanılagelmiş olmasına bağlıdır.
 O halde öncelikle somut olayda sağlıklı bir sonuca varılabilmesi için dosya içeriğine göre öldüğü belirlenen ve kadastro komisyon kararının tarafı oldukları saptanan ve tesbite itiraz eden ...., tüm mirasçılarını eksiksiz ev bağlantı kesilmeksizin ilgili Nüfus Müdürlüğü veya Müdürlüklerinden adı geçenin tüm yasal mirasçılarını göstermeye elverişli onaylı nüfus aile tabloları getirtilmeli, bu yolla adı geçen .....,nın yasal mirasçılarının kimlikleri duraksamasız belirlenmeli, belirlenen mirasçılardan aleyhlerindeki komisyon kararı kendilerine hiç tebliğ edilmeyen mirasçıları ile anılan karar kendilerine tebliğ edilen mirasçılardan davanın tarafı oldukları saptanan mirasçılar dışında başka mirasçılar varsa belirlenecek mirasçılara komisyon kararının tebliğini içeren tebliğ belgeleri incelenerek 7201 sayılı Tebligat Kanunun ve Nizamnamesine uygun biçimde komisyon kararı tebliğ edilmeyen mirasçılara aleyhindeki komisyon kararı 3402 sayılı Kadastro Kanunun değişik geçici 5. maddesi hükmü uyarınca Kadastro Müdürlüğünce tebliğ ettirilmeli, bu yolla kendilerine tebliğ yapılan mirasçıları komisyon kararına karşı yasal süresinde dava açıp açmadıkları saptanmalı, anılan hukuksal durum
@@ -52,15 +62,21 @@ bölgede mera tahsisi yapılmış ise özel idare Müdürlüğünden, 4753 ve 56
 
 ## Yargıtay 2. HD 2008/10935 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80955600)
+
 Dava mirasçılık belgelerinin iptali istemine ilişkindir.
 
 İptali istenen mirasçılık belgelerinden 1955/99 esas sayılı dosyadan verilen ilamda Hazinenin mirasçı olduğu, 1955/15 esas sayılı dosyada verilen mirasçılık belgesinde ise mirasçı olarak görülen kişilerin iş bu davada menfaatleri etkilendiği halde davaya dahil edilmedikleri anlaşılmıştır. İptali istenilen mirasçılık belgelerinde Hazine ile hak sahibi görünenlerin ölümüyle mirasçılık hakkını kazananların tümünün davaya dahil edilerek taraf teşkili sağlanıp, gösterdikleri takdirde delilleri toplanarak sonucu uyarınca karar vermek gerekirken eksik hasımla yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/9132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80492200)
+
 Yasal mirasçılardan F..’ın kısıtlandığı ve kardeşi B..’in vasi atandığı anlaşılmaktadır.F..vasisi B.. de yasal mirasçı olup davaya taraftır. Kısıtlı ile kendi menfaati çatışma halindedir. F..’ı temsil etmek üzere kayyım tayin ettirilmesi, (TMK. 426/2) kayyımın davaya dahil edilmesi ve gösterdiği takdirde delilleri toplanarak ulaşılacak sonuç uyarınca karar verilmesi gerekirken, açıklanan husus gözetilmeden hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 7. HD 2008/5682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16880600)
 
 …
 
@@ -70,9 +86,13 @@ Yasal mirasçılardan F..’ın kısıtlandığı ve kardeşi B..’in vasi atan
 
 ## Yargıtay 7. HD 2008/4649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16808700)
+
 O halde mahkemece sağlıklı bir sonuca varılabilmesi için öncelikle tesbit maliki ölü H... V...'ın yasal mirasçılarını gösterecek biçimde onaylı nüfus aile tablosu ilgili Nüfus Müdürlüğünden getirtilerek mirasçılarının kimlikleri bu yolla tebliğe elverişli adresleri ise zabıtaca belirlenerek adı geçenlere dava dilekçesi ve duruşma günü 7201 sayılı Tebligat Kanunu ve Nizamnamesi uyarınca yöntemine uygun şekilde tebliğ edilmeli husumet yaygınlaştırılarak bu yolla davada taraf koşulu oluşturulmalı, adı geçenler yargılamaya geldiklerinde kendilerinden davaya karşı diyecekleri, delilleri ayrı ayrı sorulup saptanmalı, gösterecekleri deliller toplanmalı, davacı tarafın 3402 sayılı Kadastro Kanununun 29. maddesi hükmü yarınca tereke adına dava açtığı gözönüne alınmalı, daha sonra toplanan ve toplanacak tüm deliller birlikte değerlendirilerek sonucuna uygun bir karar verilmelidir.
 
 ## Yargıtay 2. HD 2007/13692 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80356800)
 
 Dava mirasta denkleştirme olmadığı taktirde tenkis isteğine ilişkindir.
 
@@ -83,6 +103,8 @@ Mirasbırakanın sağlığında, altsoyuna yaptığı karşılıksız kazandırm
 Toplanan delillerden, mirasbırakanın, ortağı olduğu dört ayrı anonim şirketteki hisselerini sağlığında, davalı (oğlu) Orhan’a karşılıksız olarak devrettiği anlaşılmaktadır. Davalı, bu kazandırmaların, miras payına mahsuben verilmediğini ve mirasbırakanın, kendisini iadeden muaf tuttuğunu ispat edememiştir. Davalının Türk Medeni Kanununun 641. maddesine dayalı bir tazminat isteği de yoktur. Davalı, şirket hisselerinin devrinin borç mahsubuna yönelik olduğunu da kanıtlayamamıştır. O halde davalıya yapılan bu kazandırmaların denkleştirmeye tabi olacağında kuşku bulunmamaktadır. Bu bakımdan davalının aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 1. HD 2007/10579 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78057500)
 
 Dava, ehliyetsizlik hukuksal nedenine dayalı tapu iptali ve tescili isteğine ilişkindir.
 
@@ -95,6 +117,8 @@ O halde, davacıların dava tarihi itibarı ile davada taraf sıfatlarının bul
 
 ## Yargıtay 2. HD 2007/4420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77102300)
+
 Türk Medeni Kanununun 612. maddesi gereğince en yakın yasal mirasçıların tamamı tarafından reddolunan miras, Sulh Mahkemesince İflas Hükümlerine göre tasfiye edilir. 64 AU 801 plaka sayılı araç Uşak 2. Noterliğinin 19.06.2006 tarih ve 12421 yevmiye nolu satış senedi ile murise satılmış ve mülkiyet mirasbırakan tarafından kazanılmıştır. Mirasbırakan ölmeden önce protokolle aracı satması, satış resmi merci önünde yapılmadığından geçersizdir. Bu nedenle davacının davasının kabulü ile iflas hükümlerine göre tasfiyesi gerekirken yazılı şekilde karar verilmesi doğru görülmemişir.
 
 ## Ankara BAM 24. HD 2026/1014 K.
@@ -105,10 +129,14 @@ Görüldüğü üzere kural olarak yasal mirasçılardan biri mirası reddederse
 
 ## İstanbul BAM 13. HD 2025/622 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157048800)
+
 Miras ortaklığını oluşturan yasal mirasçılar terekeden doğan hakları elbirliği ile kullanmak durumundadırlar. Buna göre asıl ve birleşen davalarda davalı tarafından murise devredildiği, ancak muris ve davalının bilerek devri pay defterine işlemedikleri, bu nedenle murisin terekesine dahil olması gerekirken halen davalıya ait olduğu iddia olunan payların terekeye ait olduğunun tespiti talebi ile açılacak bir davanın TMK'nun 640/2 fıkrası uyarınca tüm yasal mirasçılar tarafından birlikte açılması zorunludur. Şayet böyle bir dava bir kısım mirasçılar tarafından ve tereke adına açılmış ise, diğer mirasçıların tamamının bu davaya muvafakatleri ile taraf teşkili sonradan sağlanabilir.
 Ne varki bir kısım mirasçının elbirliği rejiminin geçerli olduğu terekeye ait haktan doğduğunu ileri sürdükleri hakkın kendilerine ait olduğunun tespiti ve kendi adlarına tescili talebi ile dava açmaları mümkün değildir.Somut olayda da, asıl ve birleşen davalarda davacı yan, muris ...'nın terekesine dahil olması gerekirken, kendisinden mal kaçırmak amacıyla pay devirlerinin gizlenmesi nedeniyle, halen asıl ve birleşen davalarda davalı adına görünen payların, miras payı oranında kendisine ait olduklarının tespiti ile kendi adına tescilini talep ettiği, benzer şekilde dava dışı müteveffa ...'nın da kendisinin murisi olduğunu, ... terekesinde olması gerekmesine rağmen davalı adına görünen paylardan miras payı oranında ...'ya pay intikal ettiğini, ...'dan da kendisine intikal etmesi gereken pay bulunduğunu ileri sürerek, bu payların da miras payı oranında kendisine ait olduğunun tespitini talep ettiği anlaşılmaktadır.
 
 ## Kayseri BAM 6. HD 2024/1853 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1069925300)
 
 Derdest dava, "... Müvekkil ...Limited Şirketi, Davalı ...
 Anonim Şirketi'nin hissedarlarından olduğunu Müvekkili şirketin katılmadığı, davet edilmediği, çağrı usulüne uyulmadığı ve hukuka aykırı birçok fiilin gerçekleştirildiği 02.06.2023 tarihli Genel Kurul Toplantısında, mevcut şirket sermayesinin %400 oranında arttırılması gibi şirket hissedarlarını büyük ölçüde etkileyebilecek ve şirket yapısında önemli değişikliklere sebebiyet verebilecek biçimde kararlar alındığını, yapılan hukuka aykırı işlemler sonucunda Müvekkil şirketin %25 oranındaki ortaklığı %5'e düşürüldüğünü , aşağıda ayrıntılı biçimde yer verilmiş olan hukuka aykırılıklar doğrultusunda 02.06.2023 tarihinde gerçekleştirilmiş olan genel kurul toplantısının ve toplantıda alınmış olan sermaye arttırım kararının yok hükmünde olduğunun tespiti, iptali ve butlanı talepli işbu davanın açılması zorunlu hale geldiğini, müvekkili l şirket hisseleri, hali hazırdaki ortaklarına muris ...'ın yasal mirasçıları olması nedeniyle intikal ettiğini, Mirasçılar 25.08.2021 tarihinde baba ...'ı ve 26.08.2021 tarihinde şirketin tek yetkilisi muris ...'ı kaybettiğini, müvekkili şirketin mevcut hissedarları Almanya doğumlu olduklarını yaşamlarına ve ticari faaliyetlerine Almanya'da devam
@@ -116,6 +144,8 @@ ettiklerini, müvekkili şirketin mevcut hissedarları bir gün arayla ebeveynle
 tedbir kararı verilmesinin elzem olduğunu , iptal, yokluk ve butlan davası açılması halinde yönetim kurulunun, böyle bir dava açıldığını ve davanın duruşma gününü usulüne uygun olarak ilan etme ve varsa şirketin internet sitesine koyma yükümlülüğü bulunduğunu bu sebeple davalı tarafından işbu yükümlülüklerin yerine getirilmesini talep etiklerin arz ve izah edilen nedenler ve resen dikkate alınacak nedenlerle; davanın kabulüne davalı şirket hissedarlarının yargılama süresinde hisselerini üçüncü kişilere devrini önleyici nitelikte ihtiyati tedbir kararı verilmesine ve ilanına, genel kurulda verilen sermaye arttırımına yönelik tedbir kararı verilmesine ve ilanına, 02.06.2023 tarihinde gerçekleştirilmiş olan genel kurul toplantısının ve toplantıda alınmış olan Şirket anasözleşmenin 6. maddesinin değiştirilmesinin kabulünü içeren sermaye arttırım kararının yok hükmünde olduğunun tespitine, olmadığı takdirde butlanına ve iptaline, Verilecek kararın ticaret sicil memurluğuna tescil ve ilanına, Yargılama giderleri ve vekalet ücretinin karşı tarafa yükletilmesine karar verilmesi..." talebine ilişkindir .
 
 ## Ankara BAM 21. HD 2024/1460 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123078100)
 
 Madde gerekçesinde 3.fıkraya dair "...Üçüncü fıkra: Şirketin kararını verebilmesi için 3 aylık düşünme süresi vardır. Bu süre içinde reddetmemişse veya haksız ret kararı vermişse, geçişi onaylamış sayılır. Şirketin kararı ya kanuni ya da kanunun izin verdiği esas sözleşme hükmüne uygun bir sıralamaya dayanmalıdır." şeklinde açıklama yapılmıştır. Görüldüğü üzere kanun koyucu şirkete, yasal mirasçıları şirket pay defterine işleyip işlememe konusunda 3 ay düşünme süresi tanımıştır. Buna göre anonim şirket, miras yoluyla hisse intikallerinde yasal mirasçıların onay istemini aldığı tarihten itibaren 3 ay içinde bu onay istemini reddetmez veya haksız olarak reddederse onay kendiliğinden yapılmış sayılır (Prof. Dr. Hasan Pulaşlı, Şirketler Hukuk Şerhi Cilt - III, 3.Baskı, Ankara 2018, Sayfa 2113; Prof. Dr. Güzin Üçışık- Dr. Aydın Çelik, Anonim Ortaklıklar Hukuku, Cilt - II, Birinci Baskı, Ankara 2022, Sayfa 152).
 
@@ -131,6 +161,8 @@ Yapılan açıklamalar gereğince, davalı ...'in bir kısım mirasçıları tar
 
 ## İzmir BAM 17. HD 2024/339 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1001410700)
+
 Dava, davalılar arasında var olduğu ileri sürülen tüzel kişilik perdesinin kaldırılması ve alacağın tahsili istemine ilişkindir.
 
 …
@@ -138,6 +170,8 @@ Dava, davalılar arasında var olduğu ileri sürülen tüzel kişilik perdesini
 Ayrıca UYAP ortamında yapılan incelemede davalı ...'ın 15/11/2023 tarihinde öldüğü, yargılama devam ederken bu davalının taraf ehliyetini yitirdiği görülmekle davalının yasal mirasçılarına tebligat yapılarak taraf teşkili sağlanıp yargılamaya devam edilmesi gerekmektedir.
 
 ## Adana BAM 5. HD 2023/1615 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940522200)
 
 Dava, kaçak su kullanıldığı iddiasına dayalı icra takibine yapılan itirazın iptali talebine ilişkindir.
 
@@ -147,15 +181,21 @@ Hal böyle olunca mahkemece; yargılama sırasında ölen davalının yasal mira
 
 ## İstanbul BAM 13. HD 2023/1383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936351900)
+
 Birleşen davada; asıl dava davalısı ... mirasçılarına karşı açılan dava bakımından, mirasçılardan ...(...)'nin dosyaya, murisin yasal mirasçıları ve birleşen dosya davalıları ..., ... (...) mirası ve ...(...)'nin mirası reddettiklerine ilişkin Isparta Sulh Hukuk Mahkemesi'nin 2002/830 Esas, 2002/1094 Karar Sayılı, 08/10/2002 tarihli karar örneğini sunduğu, yasal mirasçıların mirası gerçek reddinin sonuçları üzerinde durulmadan birleşen davada bu davalılar yönünden de davanın zaman aşımından reddine karar verilmesinin isabetsiz olduğu anlaşılmıştır. Davacının asıl davada, davalı ... aleyhine hem yönetici sıfatıyla, hem de dava dışı yönetici ...'in yasal mirasçısı sıfatıyla dava ikame ettiği, birleşen davada aynı davayı ...'in yasal mirasçısı sıfatıyla ...'e karşı yeniden ikame ettiği, birleşen davada bu davalıya karşı açılan dava yönünden derdestlik değerlendirmesi yapılması gerekirken, bu yönde inceleme yapılmaksızın davanın zaman aşımından reddine karar verilmesinin hatalı olduğu anlaşılmıştır.
 Asıl davada davalılardan ... tarafından sunulan cevap dilekçesinde zaman aşımı def'inde bulunulmadığı, zaman aşımının itiraz mahiyetinde olmaması nedeniyle mahkemece re'sen nazara alınamayacağı, HMK'nun 26 maddesi uyarınca mahkemenin taraflarca talep edilmeyen hususta değerlendirme yapıp karar vermeyeceği, buna rağmen tüm davalılar yönünden davanın zaman aşımından reddine karar verilmesinin isabetsiz olduğu anlaşılmıştır. Kabule göre de; 6762 Sayılı TTK'nun 309/4 fıkrasının; "mesul olan kimselere karşı tazminat istemek hakkı davacının zararı ve mesul olan kimseyi öğrendiği tarihten itibaren iki yıl ve her halde zararı doğuran fiilin vukuu tarihinden itibaren beş yıl geçmekle müruruzamana uğrar.
 
 ## İstanbul BAM 13. HD 2023/683 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887390500)
+
 Buna göre davalı şirkete karşı, dava konusu genel kurullarda alınan kararların batıl olduğunun tespiti veya iptali davası açma hakkı terekeden doğan bir hak olup, TMK'nun 640/2 fıkrası uyarınca tüm yasal mirasçılar tarafından birlikte kullanılmak durumundadır. Bu yönüyle de davacının aktif husumeti bulunmamaktadır. Bu izahın, davacının ileri sürdüğü, dağıtılmasına karar verilmeyen kar payı alacaklarının tespiti talebi ile 1997 ve 1998 yılına ait dağıtılmasına karar verilen kar payının tahsili talepleri bakımından da geçerli olduğuna kuşku yoktur. Davacının aslında, muris ...'ya ait olduğunu iddia ettiği paylara tekabül eden dağıtılmasına karar verilmeyen kar payı tutarları ile 1997 ve 1998 yıllarına ait kar paylarının miras payı oranında kendisine ödenmesine karar verilmesini talep ettiği görülmektedir. Özünde terekeye ait olan kar payı tutarlarının terekeye ödenmesi talep edilmediğine göre, dava dışı yasal mirasçıların açılan davaya muvafakat edip etmediklerinin araştırılmasına da lüzum bulunmamaktadır.
 Zira davacı ...'in henüz mirasın paylaşılmamış olması karşısında, miras payı oranında kar payının tahsilini talep hakkı bulunmadığı gibi, böyle bir davanın tereke adına açılabilmesi için dahi tüm yasal mirasçıların birlikte hareket etmesi zorunludur. Tüm bu gerekçelerle; mahkemece davacının tüm taleplerinin aktif husumet yokluğundan reddine karar verilmesi isabetli olduğu gibi, sonuca etkili olmayacak muris muvazasına dayalı davanın bekletici mesele yapılmamış olmasında da isabetsizlik mevcut olmadığından, davacı ... yönünden ileri sürülen istinaf sebepleri yerinde bulunmamıştır.
 
 ## Trabzon BAM 4. HD 2023/19 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847056500)
 
 Dava konusu uyuşmazlık; haksız fiil nedeniyle tazminat istemine ilişkindir.
 
@@ -167,6 +207,8 @@ Mirasın reddi halinde, mirası reddedenler yönünden davaya devam edilemez. Bu
 
 ## Trabzon BAM 4. HD 2022/1712 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846750300)
+
 Dava, ZMMS poliçesini düzenleyen sigorta şirketinin taraf olduğu trafik kazasından kaynaklanan destekten yoksun kalma tazminatı istemine ilişkindir.
 
 …
@@ -177,11 +219,15 @@ Destek tazminatının yasal dayanağı kaza tarihinde yürürlükte bulunan TBK'
 
 ## İstanbul BAM 44. HD 2022/144 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723719300)
+
 Dolayısıyla icracı sanatçının yasal mirasçılarının izni olmaksızın işleme, çoğaltma, yayma, temsil, işaret, ses veya görüntülü araçlarla kamuya sunma gibi yasayla tanınan haklar, davalı da dahil olmak üzere başkaları tarafından izinsiz olarak kullanılamayacaktır.
 Davacıların murisi Kemal Sunal bir icracı sanatçı olup, kendisinin 4110 sayılı Kanun'la değiştirilen 5846 sayılı yasanın 80. maddesine göre bağlantılı hak sahibi olduğu, bu hakkın ilk defa 4110 sayılı yasa ile yapılan değişiklikle tanındığı, yine FSEK'in ek 2. maddesi ve geçici 1.maddeleri ile bu hakkın, yürürlük tarihinden önceki icraları da kapsayacak şekilde geri yürütüldüğü, FSEK'in 27/son maddesi ile koruma süresinin 70 yıla çıkarıldığı, yine FSEK'in 80. maddesi uyarınca icracı sanatçılara tanınan komşu hakların, izinsiz kullanımının yasaklandığı, somut olayda FSEK'in 52. maddesi kapsamında kullanıma ilişkin yazılı bir izin veya mali hak devrinin bulunmadığı, eserin yapıldığı tarihte varolmayan bir hakkın devrinin de hukuken mümkün olmadığı, farazi olarak kabul edilen devir sözleşmesinin yasa değişikliği ile tanınan bağlantılı hakkı içerdiğinin kabul edilemeyeceği, 5846 sayılı kanunun amacının sanatçıyı korumak olduğundan, mahkemenin davacıların, icracı sanatçı mirasçıları olarak, bağlantılı hak sahipliğine dayanarak dava açma ve maddi-manevi tazminat isteme hakkına sahip olduğu yönünden değerlendirme yapılması gerektiği halde, eksik araştırma ve incelemeyle davanın reddine
 karar verilmiş olmasının hatalı olduğu anlaşılmakla, istinaf sebebinin kabulüne karar verilmesi gerekmiştir. Yukarıda açıklanan hususlar gereğince kaldırma kararı nazara alınarak bu aşamada diğer istinaf sebeplerinin incelenmesine yer olmadığına, davacılar vekilinin istinaf talebinin kabulüyle ilk derece mahkemesi kararının 6100 Sayılı HMK'nın 353/1-a/6. maddesi gereğince kaldırılmasına, karar verilmesi gerektiği kanaat ve sonucuna varılarak aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 45. HD 2021/1120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/710854000)
 
 Dava, kooperatif üyeliğinin tespiti ile kura işlemi ve tahsislere ilişkin genel kurul kararının iptali istemine ilişkindir.
 

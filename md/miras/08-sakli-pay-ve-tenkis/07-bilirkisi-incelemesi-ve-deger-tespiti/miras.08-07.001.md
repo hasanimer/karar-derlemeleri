@@ -29,9 +29,13 @@ Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmadığ�
 
 ## Yargıtay 7. HD 2025/5491 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197063000)
+
 Eldeki tenkis davası yönünden yapılan değerlendirmede; kural olarak tenkis hesabı, bilirkişi incelemesi gerektirdiğinden ve taraflarca tenkis edilecek miktar bilinemeyeceğinden, tenkis davaları belirsiz alacak davası niteliğindedir. Bu sebeple, Bölge Adliye Mahkemesince, istinaf itirazları incelenerek esasa yönelik bir karar verilmesi gerekirken, miktar nedeni ile istinaf edilemeyecek bir karar olduğundan bahisle istinaf itirazlarının usulden reddine karar verilmiş olması doğru görülmemiş, Bölge Adliye Mahkemesi kararının bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2025/1964 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148389400)
 
 Dava; muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis istemine ilişkindir.
 
@@ -44,13 +48,19 @@ Hal böyle olunca; sabit tenkis oranına göre bölünemeyen malın (çekişme k
 
 ## Yargıtay 7. HD 2023/2544 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915798600)
+
 Noterliğinin 18.10.1993 tarih 29722 yevmiye sayılı Düzenleme Vasiyetnamenin yerine getirilmesi (tenfizi) talebiyle açılmış bir dava ile bu dava sonucunda 111 ada 44 parselin muris ... adına tesciline dair bir mahkeme kararı mevcut olmadığından, muris ... adına 17.10.2018 tarihinde tescil edilen 111 ada 44 parsel taşınmazın tamamı tenkis hesabında dikkate alınamayacağı, bu duruma göre İlk Derece Mahkemesince hükme esas alınan bilirkişi raporu ile yapılan tenkis hesabında dava konusu vasiyetnameye konu 111 ada 44 parselin 1/4 hissesinin değerlendirilmeye alınmasında bir isabetsizlik bulunmamakta olduğu, davacılar vekilinin bu yöne ilişkin bilirkişi raporuna itirazları ile istinaf sebepleri yerinde görülmediği gerekçesiyle istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/2163 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911372300)
+
 İhtisas Kurulundan aldırılan 21/12/2018 tarihli raporuyla sabit olduğu, davacı tarafından gösterilen tanıkların vasiyetnamenin iradenin fesada uğratılması yani hata, hile veya tehdit ile düzenlettirildiği yönünde beyanlarının bulunmadığı gibi bu yönde delil sunulamadığı dikkate alındığında ilk derece mahkemesinin vasiyetnamenin iptali yönündeki istemin reddine karar vermesinde usul ve esas yönünden Yasa'ya aykırılık bulunmamadığı, tenkisi istenen vasiyetnamede murisin terekesini tüm mirasçılarına paylaştırdığı yani paylaşım iradesi ile hareket ettiği anlaşıldığı, kaldı ki vasiyetname ile yapılan paylaşımda da tasarruf nisabının aşılmadığının bilirkişi raporuyla da sabit olduğunu, ilk derece mahkemesinin tenkis isteğinin reddine karar vermesinde bir isabetsizlik görülmediği gerekçesiyle istinaf talebinin esastan reddine karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/1738 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898691600)
 
 Adli Tıp Kurumundan aldırılan raporda, vasiyetnamenin düzenlendiği tarihte miras bırakanın fiil ehliyetini haiz olduğu belirtilmiş; "İlgili Hukuk" bölümünün üçüncü maddesinde örnek olarak gösterilen içtihatlar doğrultusunda, ehliyetsizlik nedeni ile vasiyetnamenin iptalinin gerektiği yönündeki temyiz itirazı haklı bulunmamıştır.
 
@@ -58,9 +68,13 @@ Hükme esas alınan tenkis hesabına ilişkin 24.01.2022 tarihli bilirkişi rapo
 
 ## Yargıtay 1. HD 2022/7681 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868367200)
+
 6.3.2. Somut olayda, iptal ve tescil isteminin reddine karar verilmesinin doğru olduğu, bahsedilen ilkeler uyarınca bir araştırma yapıldığını söyleyebilme olanağı bulunmadığı, mirasbırakanın tapu müdürlüğünce bildirilen taşınmazları ve dava dışı otomobili olduğu halde tenkis hesabı yapılırken bunların gözetilmediği, hal böyle olunca, mirasbırakanın terekesinde bulunan tüm aktif ve pasifinin araştırılması, uzman bilirkişiden alınacak rapor ile tenkis miktarının belirlenmesi ve davanın mahiyeti itibariyle ecrimisil istenemeyeceğinden davacıların ecrimisil isteğinin de reddine karar verilmesi gerektiği yönündeki Dairenin 24/06/2013 tarihli ve 2013/6791 E., 2013/10498 K. sayılı bozma kararı yerindedir.
 
 ## Yargıtay 1. HD 2020/4859 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647719400)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -70,9 +84,13 @@ Davanın kabulüne ilişkin olarak verilen karar Dairece, "Ne varki mahkemece 24
 
 ## Yargıtay 1. HD 2020/4221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/625171700)
+
 Hemen belirtilmelidir ki; bilirkişi raporu ile murisin yaptığı temlik ile davacıların ihlal edilen saklı paylarının değeri her bir davacı için 161.563,40-TL olduğu tespit edilmiştir. Dava değeri ihlal edilen saklı paylar değerlerinin toplamı olup, davacıların saklı payına tekabül eden toplam 323.126,80-TL değer üzerinden harç ikmali yapıldığı da gözetilerek her bir davacı için 161.563,40 TL değer üzerinden ayrı ayrı 14.143,80 TL‘şer vekâlet ücretine hükmedilmesi gerekse de davacılar vekilinin kararı temyiz etmediği, bu durumda davalı lehine usuli kazanılmış hak olduğu gözetilerek, davacılar vekili lehine Yerel Mahkeme kararında hüküm altına alınan 24.398,96 TL vekâlet ücretine hükmedilmesi gerektiği açıktır.
 
 ## Yargıtay 1. HD 2020/3485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593847400)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescili, olmadığı takdirde tenkis isteğine ilişkindir.
 
@@ -81,6 +99,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescili, olmadı
 Hal böyle olunca, mahkemece bilirkişiden ek rapor aldırılarak davalılara kazandırılan taşınmazın karar tarihindeki veya karar tarihine en yakın tarihteki rayice göre değeri tespit ettirilip, sabit tenkis oranı ile çarpılarak tenkisi gereken bedel üzerinden yukarıda anılan yasal düzenleme uyarınca eksik harcı ikmal etmek üzere davacılara süre verilmesi, verilen süre içinde harcın ikmal edilmesi halinde, bu değer üzerinden davanın kabulüne karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı olduğu üzere hüküm tesisi doğru değildir.
 
 ## Yargıtay 1. HD 2020/3451 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593979000)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -92,6 +112,8 @@ Hâl böyle olunca, 11.11.1994 günlü 4/4 sayılı İçtihadı Birleştirme Kar
 
 ## Yargıtay 1. HD 2020/3001 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648816000)
+
 Dosya içeriği ve toplanan delillerden; 1934 doğumlu mirasbırakan ...’in 22.05.2013 tarihinde ölümü ile geride mirasçı olarak çocukları olan davacılar ..., ..., ... ve davalı ...’yi bıraktığı, mirasbırakanın 420 ada 91 parseldeki ½ payını 10.01.1994 tarihinde oğlu olan davalı ...’ye; 1710 ada 2 parseldeki 1 nolu bağımsız bölümünün çıplak mülkiyetini 18.10.2004 tarihinde gelini olan davalı ...’ye; 101 ada 9 ve 28 parseller, 103 ada 6 ve 28 parseller, 145 ada 2 parseldeki ½ payını 26.08.2005 tarihinde oğlu olan davalı ...’ye satış suretiyle temlik ettiği, mirasbırakanın 1398 ada 35 parseldeki 6 nolu bağımsız bölümünü 20.05.2010 tarihinde oğlu ...den torunları olan davalılar ... ve ...’ya 1/2’şer paylarla bağış suretiyle temlik ettiği anlaşılmaktadır.Hemen belirtmek gerekir ki, 420 ada 91 parseldeki ½ pay, 101 ada 9 ve 28 parseller, 103 ada 6 ve 28 parseller ve 145 ada 2 parseldeki ½ pay yönünden temliklerin mal kaçırmak amacıyla muvazaalı olarak yapıldığı saptanarak davanın kabulüne karar verilmesinde kural olarak bir isabetsizlik yoktur. Davalıların bu yöne ilişkin yerinde görülmeyen temyiz itirazlarının reddine.Davalıların diğer temyiz itirazlarına gelince;
 Bilindiği üzere, uygulamada ve öğretide "muris muvazaası" olarak tanımlanan muvazaa, niteliği itibariyle nisbi (mevsuf-vasıflı) muvazaa türüdür. Söz konusu muvazaada mirasbırakan gerçekten sözleşme yapmak ve tapulu taşınmazını devretmek istemektedir. Ancak mirasçısını miras hakkından yoksun bırakmak için esas amacını gizleyerek, gerçekte bağışlamak istediği tapulu taşınmazını, tapuda yaptığı resmi sözleşmede iradesini satış veya ölünceye kadar bakma sözleşmesi doğrultusunda açıklamak suretiyle devretmektedir.
 
@@ -102,6 +124,8 @@ O halde, bölge adliye mahkemesince delillerin toplanmaması sebebiyle dosyanın
 
 ## Yargıtay 16. HD 2020/2907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621838600)
+
 Çekişmeli taşınmazların tespitinin 2008 yılında davalı adına yapıldığı ve aynı yıl kesinleşerek tapuya tescil edildiği, tarafların murisi ...’nun kadastro tespitinin kesinleşmesinden sonra 02.06.2010 tarihinde öldüğü ve eldeki davanın da 15.07.2010 tarihinde açıldığı, 2015 yılında yapılan keşif ve alınan beyanlara göre, murisin, kadastro tespiti sırasında bizzat ve iradesi doğrultusunda taşınmazların davalı adına tespit edilmesini istediğinin, diğer bir anlatımla davalıya bağışladığının ve zilyetliğinin devredildiğinin, bu haliyle artık davacıların taşınmazlarda miras yoluyla gelen haklarının bulunmadığının belirlenmemiş olması karşısında, davacıların, tapu iptali ve tescil davasına yönelik temyiz itirazları yerinde değildir.
 
 Ancak; yukarıda anlatıldığı üzere, 06.04 2015 tarihinde yapılan keşif sırasında alınan beyanlardan, murisin taşınmazları kendi iradesiyle devrettiğinin belirlenmesi üzerine, davacı tarafça 05.01.2016 tarihli ıslah dilekçesiyle tapu iptali ve tescili davası yönüyle mahkemenin aksi kanaatte olması halinde davanın tenkis davasına dönüştürülmesi talebinde bulunmuşlardır. Bu durumda öncesinin murise ait olduğu hususunda ihtilaf bulunmayan taşınmazların, muris tarafından kadastro tespiti sırasında kendi iradesiyle davalıya devredildiğinin keşif sırasında alınan beyanlardan öğrenildiği ve davacıların, öğrenme tarihinden sonra bir yıllık hak düşürücü süre içinde ıslah talebinde bulundukları açıktır.
@@ -109,11 +133,15 @@ Diğer yandan, eldeki dava, murisin ölüm tarihinden yaklaşık 45 gün sonra a
 
 ## Yargıtay 3. HD 2020/1123 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645797900)
+
 Somut olayda; 06/12/2012 tarihli vasiyetnamede bahsedilen ıskat sebeplerinin varlığı ispat edilemediği anlaşılmaktadır. Buna göre; davalılar, mirastan ıskat sebebini ispat edemediğinden TMK’nın 512/3. maddesi gereğince mirastan ıskatın murisin tasarruf nisabı oranında geçerli olması gerekir. Başka bir ifadeyle tasarruf nisabı sınırları içerisinde geçerli olmak üzere vasiyetnamenin ıskatına ilişkin bölümün hükümsüzlüğüne karar verilmeli, davacının; saklı payını talep edebileceği ve davaya tenkis davası olarak devam edileceği düşünülmelidir.
 
 O halde mahkemece yapılacak iş; TMK’nın 512/3. maddesi gereğince, mirasçılıktan çıkarmaya yönelik ölüme bağlı tasarrufun; murisin tasarruf nisabı oranında geçerli olduğu göz önünde bulundurularak, davaya tenkis davası olarak devam etmek, murisin terekesinde bulunan tüm aktif ve pasifinin belirlenmesinden sonra uzman bilirkişiden alınacak rapor sonucuna göre hüküm kurmak olmalıdır. Mahkemenin bu yönü gözardı etmesi, usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 1. HD 2020/1089 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/586212800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis isteğine ilişkindir.
 
@@ -125,6 +153,8 @@ Hal böyle olunca sadece tenkise tabi 8 parsel sayılı taşınmazın %34 yıpra
 
 ## Yargıtay 3. HD 2020/670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578866000)
+
 Dava; vasiyetnamenin iptali istemine ilişkindir.
 
 …
@@ -133,10 +163,14 @@ Hal böyle olunca, İlk Derece Mahkemesince; davalılar tarafından ıskat sebeb
 
 ## Yargıtay 11. HD 2019/7228 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/547387500)
+
 Asıl ve birleşen dava, davacıların murisinin ölümünden sonra murisin davalı banka nezdindeki mevduat ve yatırım hesaplarında bulunan paranın davalı bankadan talep edilmesine rağmen murisin vasiyeti ile ilgili olarak açılan vasiyetnamenin tenfizi ve tenkis davası kesinleşinceye kadar ödenmemesi nedeniyle uğranılan zararın tazmini istemine ilişkindir. Dairemizin 04/04/2014 tarihli bozma ilamında da ifade edildiği üzere, bankacılık mevzuatı çerçevesinde vade bitiminde vadeli hesapların yenilenmesi hususunda banka ile mudi arasında bir mutabakat varsa ona göre inceleme yapılır, bu mutabakat mudiin yazılı talimatı ile veya hesap cüzdanlarına ve sertifikalarına mudiin veya vade sonunda müracat etmemesi halinde hesap veya sertifikanın aynı vade ile yenileneceğini ifade eden bir ibare konulması ile sağlanır, banka ile mudi arasında böyle bir mutabakatın bulunmaması halinde vadeli mevduat hesaplarının faizli bakiyelerine vade sonundan itibaren vadesiz mevduat faizi oranı uygulanır.
 Somut olayda mirasçı olan asıl ve birleşen davada davacılara murisin davalı banka nezdindeki hesabında bulunan ana paranın açılan vasiyetnamenin tenfizi ve tenkis davası kesinleşince ödendiği, ancak bu döneme ilişkin faizin ödenmediği anlaşıldığından kural olarak vadesiz mevduat faizi oranı üzerinden hesaplama yapılması gerekmektedir. Davalı bankanın bir talimat bulunmadığı halde bir dönem ve bir kısım hesap için vade bitiminden sonra vadesiz mevduat faiz oranından daha fazla faiz getiren B Tipi Likit Fon alması, hesabın tamamı yönünden paranın faizsiz bırakıldığı dönem için B Tipi Likit Fon getirisi üzerinden hesaplanacak getiriyi kabullendiği anlamına gelmez. Bu suretle, mahkemece, açıklanan esas ve usul çerçevesinde inceleme ve hesaplama yaptırılarak sonucuna göre bir karar verilmesi gerekirken davacıların talep edebileceği en fazla faiz getirisinin muris tarafından bırakılan paranın faizsiz bırakıldığı dönem için B Tipi Likit Fon getirisi kadar olacağı, bilirkişi kurulu tarafından likit fon getirisi üzerinden yapılan hesaplamanın benimsendiği kabul edilerek yazılı şekilde hüküm kurulması doğru olmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 15. HD 2019/3281 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519364800)
 
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan alacak talebine ilişkin olup, mahkemece davanın kısmen kabulüne dair verilen karar, taraflarca temyiz edilmiştir.
 
@@ -147,11 +181,15 @@ Bu nedenle mahkemece konusunda uzman bilirkişiden alınacak rapor ile emsal dos
 
 ## Yargıtay 1. HD 2019/1837 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496269000)
+
 Ölüm tarihin göre; temyize konu davada uygulanması gereken 743 sayılı TMK.506.maddesi hükmüne göre, "tasarruf edilebilir kısmın" değerini karşılayan paranın hesaplanıp, bu miktarın tenkis davacısı ... tarafından davalı ... Vakfına ödenmesi halinde dava konusu taşınmazın davacı adına tapuya tesciline şeklinde hüküm kurulması gerekirken, yasaya aykırı bilirkişi raporuna dayanılarak taşınmazın elbirliği mülkiyet şeklinde taraflar adına tesciline karar verilmesinin doğru olmadığı” gerekçesiyle bozulmuş, bozma ilamına uyularak yapılan yargılama neticesinde; birleşen 2001/1129 esas sayılı vasiyetnamenin tenfizi davasının kabulü ile dava konusu 1741 parsel sayılı taşınmazın davacı ... adına tapuya tesciline, asıl dava yönünden ise tenkis davasının kabulü ile 5.725,99 TL'nin davacı tarafından davalı ... Vakfına ödenmesi halinde birleşen dava uyarınca davalı adına tesciline karar verilen 1741 parsel sayılı taşınmazın davacı ... adına tapuya kayıt ve tesciline karar verilmiş, anılan karar Yargıtay 3.
 Hukuk Dairesi’nin 08/11/2012 tarih ve 2012/13026 E 2012/23042 K sayılı ilamı ile; ‘’ ... yukarıda açıklanan Yargıtay 2.Hukuk Dairesinin bozma ilamına uyulmasına karar verilmişse de, bozma gereği yerine getirilmemiştir. Daire bozma ilamında; “...tasarruf edilebilir kısmın değerini karşılayan paranın tenkis davacısı tarafından Vakfa ödenmesi halinde taşınmazın davacı adına tapuya tesciline” karar verilmesi gerektiğine işaret edildiği halde mahkemece "saklı pay tutarı olan 5.725,99 TL'nin ödenmesi halinde davacı adına tescile karar verilmek suretiyle bozma gereğinin yerine getirilmemesi doğru görülmemiştir. Ayrıca, tenkis davasında vakıf, tercihini; kendisine para ödenerek mülkiyetin davacıya bırakılması yönünde kullandığına göre, vasiyete konu taşınmazın tenfiz suretiyle vakıf adına tescili mümkün olamaz. Bu durumda; artık tenfiz davası açılmasında hukuki yarar bulunmamaktadır.
 Mahkemece, bu husus gözönüne alınmaksızın yazılı şekilde hüküm tesisi doğru görülmemiştir. ‘’ gerekçesiyle bozulmuş, bozma ilamına uyularak yapılan yargılama neticesinde, davacı ...’in mazeretsiz olarak davasını takip etmediği gerekçesiyle 6100 sayılı HMK’nın 150/5. maddesi uyarınca asıl davanın açılmamış sayılmasına, birleştirilen davanın kabulü ile ... 1. Noterliği’nin 31.03.1998 tarih ve 5298 yevmiye no’lu vasiyetnamesinin tenfizine ve 1741 parsel sayılı taşınmazın ... adına tesciline karar verilmiştir.
 
 ## Yargıtay 15. HD 2018/1820 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424650300)
 
 Dava, eser sözleşmesinden kaynaklanan alacak ile ilgili yapılan icra takibine itirazın iptâli talebine ilişkin olup, mahkemece davanın reddine dair verilen karar, davacı tarafından temyiz edilmiştir.
 
@@ -162,11 +200,15 @@ Bu nedenle mahkemece davalının işin gecikme nedenleri ile ilgili savunmaları
 
 ## Yargıtay 23. HD 2015/4877 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203194600)
+
 Taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinde inşaat süresinin sözleşme tarihinden itibaren 33 ay olduğu, arsa sahiplerine verilecek A blok inşaatının gecikmesi halinde her geçen ay için bağımsız bölüm başına 200 DM cezai tazminat ödeyeceği, bu sürenin bir yılı aştığı takdirde bağımsız bölüm başına 350 DM tazminatın aylık olarak ödeneceği kararlaştırılmıştır. 1086 sayılı HUMK'un 76. ve 6100 sayılı HMK'nın 33. maddelerine göre maddi vakıaları ileri sürmek taraflara, bu olayları nitelendirmek ve uygulanacak kanun hükümlerini belirlemek hakime aittir. Sözleşmenin anılan hükmü “cezai şart” başlığı altında düzenlenmesine rağmen, inşaatın tesliminin gecikmesi nedeniyle mahrum kalınan kira gelirinin, yani gecikme tazminatının kastedildiği anlaşılmaktadır.
 Mahkemece mahallinde keşif yapılmış, hükme esas alınan 31.05.2013 tarihli bilirkişi kurulu raporunda, davacı ...'na ait olan A blok 12 ve 13 no'lu bağımsız bölümlerin sözleşmenin sona erdiği 05.06.2004 tarihinden önce üçüncü kişilere satıldığından gecikme tazminatı hesabında bu bağımsız bölümlerin dikkate alınmadığı belirtilerek, 18 adet bağımsız bölüm üzerinden, dairelerin teslimi gereken 05.06.2004 tarihi ile fiilen teslim alınan 29.05.2007 tarihleri arasındaki gecikme dönemi için ilk yıl 200 DM ve sonraki yıllarda 350 DM aylık kira bedeli üzerinden toplam 193.140 DM gecikme tazminatı hesaplamış, bu gecikmenin inşaatın teslim tarihindeki Euro/DM dönüşüm kuru üzerinden TL değerinin 176.675,26 TL olduğunu bildirmiştir. Mahkemece, sözleşme tarihinde yürürlükte bulunan 818 sayılı Borçlar Kanunu'nun 161/son maddesi gereğince bu tazminattan %30 oranında indirim yaparak, 123.672,68 TL tazminata hükmedilmiştir. Oysa 818 sayılı Borçlar Kanunu'nun 161/son maddesinde düzenlenen “Hakim fahiş gördüğü cezaları tenkis ile mükelleftir.” hükmü ile, kira tazminatının değil, ceza niteliği bulunan tazminatların tenkisi amaçlanmaktadır.
 Taraflar arasında kararlaştırılan tazminat, az yukarıda değinildiği üzere ceza niteliğinde olmayıp gecikme tazminatı olduğundan BK'nın 161/son maddesine göre tenkisi mümkün değildir. (Yargıtay 23. Hukuk Dairesi'nin 06.07.2012 gün ve 2012/2369 esas, 2012/4704 karar) Yine taraflarca maktuen belirlenen kira tazminatının fahiş olduğuna ilişkin davacı arsa sahiplerinin itirazı da yerinde değildir. Mahkemece tazminatın niteliğinde ve uygulanacak kanun hükmünde hataya düşülerek, bilirkişi tarafından tespit edilen kira tazminatı miktarından BK'nın 161/ son maddesi gereğince indirim yapılması doğru olmamıştır.
 
 ## Yargıtay 3. HD 2015/2907 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141575600)
 
 Muris H. İ. ve A. V. 'nin kurdukları V.. V..'nın Asliye Hukuk Mahkemesinin 14.05.1970 tarihli kararı ile tesciline karar verilmiş, Asliye Hukuk Mahkemesinin kararı Vakıflar Hakkındaki Tüzüğün 13.maddesine göre 25.11.1972 tarihli Resmi Gazetede yayınlanarak ilan edilmiş ve V.. V.. bu şekilde tüzel kişilik kazanmıştır.
 
@@ -174,9 +216,13 @@ Yargılama sırasında davalı tarafından tenkis def'inde bulunularak saklı pa
 
 ## Yargıtay 3. HD 2015/1807 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139609500)
+
 Vasiyetnamenin iptaline ilişkin davanın birinci bozma kararı ile kesinleştiği, vasiyetnamenin tenkisine yönelik talep ile ilgili olarak keşif ve bilirkişi raporlarına göre davacıların saklı paylarına herhangi bir müdahale olmadığından ispatlanamayan asıl davanın reddine ilişkin kurulan hükümde bir isabetsizlik görülmediğinden, yerinde bulunmayan bütün temyiz itirazlarının reddi ile usul ve kanuna uygun olan hükmün asıl dava yönünden ONANMASINA, …
 
 ## Yargıtay 1. HD 2014/4923 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84131600)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -186,9 +232,13 @@ Hal böyle olunca; miras bırakanın taşınmazın çıplak mülkiyetinin alım�
 
 ## Yargıtay 3. HD 2014/3340 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/87945100)
+
 O halde, mahkemece yapılacak iş; Harçlar Kanununun 16.maddesine göre, öncelikle davacı taraftan, tenkise konu miktarı açıklattırmak, bu konuda alınan bilirkişi raporunu da gözetmek, nisbi peşin harcı ikmal ettirmek ve delilleri bu çerçevede değerlendirip, tartışarak, sonucu dairesinde tenkis talebiyle ilgili bir hüküm kurmak olmalıdır. Bu yön gözetilmeden, yazılı şekilde tenkis davasının kabulüne ilişkin hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2013/11202 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79735400)
 
 Dava, muris muvazaası hukuksal nedenlerine dayalı tapu ve iptal tescil ya da tenkis isteklerine ilişkindir.
 

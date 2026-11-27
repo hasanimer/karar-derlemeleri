@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 4. HD 2024/1741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109019500)
+
 İhtisas Kurulu tarafından düzenlenen raporda trafik kazasına bağlı olarak iyileşme süresinin 3 aya (geçici iş göremezlik) kadar uzayabileceği ve %32,3 oranında meslekte kazanma gücünden kaybetmiş sayılacağı (daimi iş göremezlik) hususunun tespit edildiği, buna göre hükme esas alınan aktüerya bilirkişi tarafından düzenlenen raporda da davacı ...'ın kaza nedeniyle uğradığı maluliyet zararının toplam 408.228,35 TL olarak tespit edildiği, aynı raporda davacı eş ...'ın destek zararının 82.186,04 TL, davacı ...'ın destek zararının 3.868,85 TL, davacı...'ın destek zararının 3.868,85 TL olarak tespit edildiği, davacı ... ...'nin müteveffanın kızı olup ölüm tarihinde 21 yaşında ve evli olduğu dikkate alındığında destek zararının bulunmadığı, davacı ...'nın müteveffanın ölüm tarihinde 19 yaşında olduğu ve babasının desteğinden faydalanamayacağının belirtildiği ve ilk derece mahkemesince bu rapor esas alınarak hüküm kurulduğu, bilirkişi raporunun usulüne uygun düzenlendiği görülmekle hükme esas alınmasında bir sakınca görülmediği, yargılama devam ederken davacılar vekilinin ihbar olunan ...ile manevi tazminat konusunda anlaşmış olması ve bu hususta davacılar vekiline ödeme yapılması dikkate
 alındığında, davacıların manevi tazminat taleplerinin hüküm kurulmadan önce konusuz kaldığı anlaşılmakla "manevi tazminat talebi konusuz kalmakla bu hususta karar verilmesine yer olmadığına" şeklinde karar verilmesi gerekli iken manevi tazminat talebinin kabulüne karar verilmesi doğru olmadığından davalılar vekillerinin bu hususa ilişkin istinaf taleplerinin yerinde görüldüğü, davacı ...'nin desteğin ölüm tarihinde evli olması ve tanık beyanlarına göre babasının ölümünden sonra eşi ile tekrar bir araya gelerek evlilik birliğini devam ettirdiği anlaşılmakla, aktüerya bilirkişisinin bu davacı hakkında destek zararı hesabı yapmaması ve ilk derece mahkemesinin bu davacının destek zararına ilişkin maddi tazminat talebini reddetmesinin doğru bulunduğu, ancak davacılardan ...'ın herhangi bir destek tazminatı talebi olmamasına rağmen ilk derece mahkemesince ...'ın maddi tazminat talebinin reddine karar verilmesinin de doğru olmadığı, aracın kullanım amacının ticari ve yolcu nakli olması nedeniyle ticari avans faizine hükmedilmesi gerekirken bankalarca mevduata uygulanan en yüksek faize hükmedilmesinin doğru bulunmadığı, hükme esas alınan aktüerya bilirkişi raporunda destek zararları hesap
 edilen davacılar ...,... ve ...'ın zarar miktarı hesaplanırken aktüerya bilirkişi tarafından desteğin kazadaki kusur oranı dikkate alınarak bu oranda belirlenen toplam zarardan indirim yapıldığı anlaşılmakla davalılar vekillerinin kusur oranında indirim yapılmadığı yönündeki istinaf taleplerinin doğru bulunmadığı, davacıların desteği olan araç sürücüsü ...'ın kazada %75 oranında kusurlu bulunduğu anlaşılmakla aktüerya bilirkişi tarafından yapılan hesaplamada belirlenen tazminat miktarlarından bu oranda indirim yapıldığı görüldüğü, ancak davacılardan ...'ın kazada yaralanması ve maluliyetinin söz konusu olması,...'nın yolcu konumunda bulunması nedeniyle kazadaki kusur oranlarıyla bağlı olmayacağı dikkate alındığında... hakkında hesaplanan toplam 408.228,35 TL tazminattan herhangi bir indirim yapılmamasının doğru olduğu, ilk derece mahkemesince hükmedilen maddi tazminatlardan davalı ... şirketinin poliçe teminat limiti ile sınırlı olmak üzere sorumlu olduğu belirtilerek hüküm kurulmasına rağmen yargılama giderleri ve vekalet ücretleri hususunda bu oran dikkate alınmadan yargılama giderleri ve vekalet ücretlerinin tamamından diğer davalılar gibi müştereken ve müteselsilen sorumlu
@@ -29,12 +31,16 @@ tutulmasının doğru bulunmadığı, davacılar ..., ...,... ile ... hakkında 
 
 ## Yargıtay 11. HD 2024/1230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1030808200)
+
 Asliye Ticaret Mahkemesi'nin 2019/651 E. 2020/191 K. sayılı kararıyla davalı şirketi işbu davada temsil etmek üzere Avukat ...
 6102 sayılı Türk Medeni Kanunun 426 ıncı maddesi gereğince temsil kayyımı olarak atanarak yargılamaya devam olunduğu, davalı şirket yönetim kurulunun istinaf aşamasında aldığı 03.09.2019 tarih ve 3 nolu kararıyla davacı ... adına kayıtlı dava konusu 1.545 adet hissenin davacı ... adına devir ve tescili hususunun pay defterine kaydedildiği, böylelikle eldeki davanın konusunu oluşturan 3.862,5 adet hissenin davacı ... adına davalı şirketin pay defterine kaydedildiği, böylelikle davanın konusuz kaldığının anlaşıldığı, 6100 sayılı Hukuk Muhakemeleri Kanunun 331 inci maddesine göre dava açıldıktan sonra davanın konusuz kalması durumunda yargılama giderleri ve vekalet ücreti davanın açıldığı tarihteki haklılık durumuna göre tayin edileceği düzenlendiği, somut olayda, işbu davanın açıldığı tarihte Ankara 3 üncü Sulh Hukuk Mahkemesi'nin 2017/43 E. sayılı tereke dosyasında görülen ve dava konusu hisselerin de konusunu oluşturduğu ortaklığın giderilmesi davasının derdest olması ve ortaklığın giderilmesi davasının henüz sonuçlanmamış olması nedeniyle mirasçıların hisselerinin belirli olmaması gözetildiğinde davalı taraf davanın açıldığı tarih itibariyle haklı olduğundan anılan Kanun maddesi
 gereğince vekalet ücreti ve diğer yargılama giderlerinden davacı yanın sorumlu, olduğu, davalı şirkete kayyım atanması yönünde bir talep yer almamasına karşın ilk derece mahkemesince davalı şirkete kayyım atanmasına karar verilmiş, 31.05.2018 tarihli ek karar ile söz konusu kararın ihtiyati tedbir mahiyetinde verildiği açıklanmış ve 04.07.2018 tarihli ek karar ile de 31.05.2018 tarihli ek karar doğrultusunda gerekli ilamların yapılması için Türkiye Ticaret Sicil Müdürlüğüne müzekkere yazılmasına karar verilmiş ise de, talep olmaksızın davalı şirkete kayyım atanmasının 6100 sayılı Kanun'un 26 ıncı maddesine aykırı olduğu gibi davalı şirketin yönetim organları da mevcut olduğundan kayyım atama kararı bu yönüyle de hukuka aykırı olmakla kamu düzeni gözetilerek hükmün bu yönden de kaldırılmasına karar vermek gerektiği, ilk derece mahkemesi kararı kaldırılmış olmakla davalı şirkete kayyım atanmasına ilişkin ihtiyati tedbir kararının da kendiliğinden kalkacağı gözetilerek ihtiyati tedbirin kaldırılması yönünde ayrıca bir karar verilmediği gerekçesiyle davalı vekilinin istinaf başvurusunun kabulü ile İlk Derece Mahkemesi hükmünün kaldırılmasına, yeniden esas hakkında hüküm kurulmasına,
 dava konusuz kaldığından esas hakkında karar verilmesine yer olmadığına, ilk derece mahkemesince atanan kayyımların görevlerine son verilmesi ve sicile tescil işlemlerinin İlk Derece Mahkemesince yerine getirilmesi için İlk Derece Mahkemesince müzekkere yazılmasına, davacı tarafından yapılan yargılama giderlerinin davacı üzerinde bırakılmasına, davalı kendisini vekil ile temsil ettirdiğinden Avukatlık Asgari Ücret Tarifesi uyarınca belirlenen 5.100.000 TL maktu vekalet ücretinin davacıdan alınarak davalıya ödenmesine karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/960 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015336400)
 
 Temyizen incelenen mahkeme kararında ve kararın gerekçesinde hukuk kurallarının somut olaya uygulanmasında bir isabetsizlik bulunmadığı ve bozmaya uyulmakla karşı taraf yararına kazanılmış hak durumunu oluşturan yönlerin ise yeniden incelenmesine hukukça imkân bulunmadığı anlaşılmakla; mirasçılar vekilinin aşağıdaki paragrafların kapsamı dışındaki temyiz itirazları yerinde görülmemiştir.
 
@@ -44,13 +50,19 @@ Hâl böyle olunca, veraset ilamındaki oranlar esas alınarak satış bedelinin
 
 ## Yargıtay 6. HD 2024/330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002263400)
+
 Karar tarihinde yürürlükte bulunan A.A.Ü.T.’nin 13/4 maddesi “Maddi tazminat istemli davaların tamamının reddi durumunda avukatlık ücreti, bu Tarifenin ikinci kısmının ikinci bölümüne göre hükmolunur” hükmünü içermektedir. Bu durumda mahkemece davalılar , ..., ... (mirasçıları) aleyhine açılmış maddi tazminat istemli dava reddedildiğinden adı geçen davalılar yararına maktu vekalet ücretine karar verilmesi gerekirken yazılı şekilde nispi vekalet ücreti verilmiş olması bozmayı gerektirir.
 
 ## Yargıtay 2. HD 2023/6547 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1006835800)
+
 6100 sayılı Kanun'un 331 inci maddesinin birinci fıkrasındaki düzenlemeye göre; davanın konusuz kalması halinde yargılama giderleri ve vekâlet ücreti konularında, davadaki haklılık durumuna göre karar verilmesi gerekmektedir. Hal böyle iken, davacı erkek mirasçılarının kusur tespiti yönünden devam ettikleri iş bu davada yapılan yargılama ve toplanan delillerden sağ kalan davalı kadının boşanmaya yetecek derecede kusurlu olduğunun tespit edilmesine, davacı müteveffanın dava açmakta haklı olduğunun anlaşılmasına ve istinaf yargılaması da duruşmalı yapılmasına rağmen Bölge Adliye Mahkemesince davacı erkek mirasçıları yararına yargılama giderlerine ve yargılamada kendilerini vekille temsil ettiren davacı erkek mirasçıları yararına vekâlet ücretine hükmedilmemesi doğru görülmemiş, kararın bu nedenle bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2023/6145 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988236700)
 
 Dava, Türk Medeni Kanunu'nun 605/2 nci maddesi gereğince mirasın hükmen reddi isteğine ilişkindir.
 
@@ -62,23 +74,33 @@ Davanın niteliği gereği davalı-alacaklıların, murisin terekesinin borca ba
 
 ## Yargıtay 2. HD 2023/5612 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985225100)
+
 İlk Derece Mahkemesi kararının davalı-karşı davacı erkek mirasçısı tarafından yargılama gideri ve vekâlet ücreti yönünden istinaf edildiğinin Dairemizin bozma ilamı ile belirtildiği, Bölge Adliye Mahkemesince bozma ilamına uyulduğu gibi yapılan yargılama sonunda davacı-karşı davalı kadının kusurlu olduğunun tespitine karar verildiğine göre yalnızca davalı-karşı davacı taraf lehine yargılama gideri ve vekâlet ücretine hükmedilmesi gerekirken ayrıca kusurlu bulunan kadın lehine de yargılama gideri ve vekâlet ücretine hükmedilmesi doğru olmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2023/4944 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968275300)
 
 Davanın konusuz kalması halinde yargılama gideri ve vekâlet ücreti konularında, davada haklılık durumuna göre (6100 sayılı Kanun md.331/1) karar verilmesi gerekmektedir. O halde, davacı mirasçılarının kusur tespiti yönünden devam ettikleri iş bu davada mahkemece kusursuz bulunan ve kendisini bir vekille temsil ettiren davalı kadın yararına vekâlet ücretine hükmedilmesi gerekirken bu husus gözetilmeksizin davacı mirasçıları lehine vekâlet ücreti takdiri doğru görülmemiş, kararın bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 1. HD 2023/4258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974612400)
+
 Asıl davada her bir davacı için ayrı, ayrı 1.000,00 TL ecrimisil talebinde bulunulmuş ve bu miktarlar üzerinden harç yatırılmış olup, yargılama aşamasında ise asıl dava yönünden tüm davacılar için ecrimisil taleplerinden feragat edilmiştir. Bu durumda her bir davacı yönünden ayrı ayrı ecrimisil isteklerinin reddine karar verildiğine göre haklarında dava reddedilen davalılar yararına her bir davacı için ayrı ayrı (reddedilen miktar da gözönüne alınarak) avukatlık ücretine hükmedilmesi gerekirken tek avukatlık ücreti ile yetilnilmesi doğru olmadığı gibi, asıl davada ..., ... ve ... mirasçıları için reddedilen tapu iptali ve tescil istekleri yönünden vekille temsil edilen davalılar Raci ve Mustafa lehine vekalet ücretine hükmedilmemesi de isabetsizdir.
 
 ## Yargıtay 1. HD 2023/3542 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/926605800)
 
 Öte yandan, dava konusu taşınmazların keşfen belirlenen değerleri üzerinden harç tamamlanarak buna göre yargılama gideri ile bu kalemden sayılan vekalet ücretine hükmedilmesi gerekirken kabul ve ret oranları gözetilmeksizin hatalı olarak yargılama giderlerine hükmedilmesi, reddedilen taşınmazlar ile ilgili olarak da davalılar lehine vekalet ücretine hükmedilmemiş olması da hatalı olmuştur.
 
 Hal böyle olunca, 39659 ada 1 parsel sayılı taşınmazın tamamının mirasbırakan Ziya tarafından devredildiği gözetilerek davacıların miras payları oranında iptal tescile karar verilmesi, taşınmazların keşfen belirlenen değerleri üzerinden Harçlar Kanunu'nun 30 vd. mad. gereğince eksik harcın tamamlanması ve 6100 sayılı HMK'nun 326. maddesine uygun olarak yargılama gideri ile bu kalemden sayılan vekalet ücretine hükmedilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması doğru değildir. ” gerekçeleriyle kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 2. HD 2023/2213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/930069400)
 
 Dava ipoteğin kaldırılması ve aile konutu şerhi konulması istemine ilişkindir.
 
@@ -89,6 +111,8 @@ Tarafların iddia, savunma ve dayandıkları belgelere, uyuşmazlığın hukuki 
 Yapılan yargılama ve toplanan delillere göre dava konusu taşınmazın dava tarihi itibari aile konutu niteliğinde olduğu anlaşılmaktadır. Gerçekleşen bu durum karşısında aile konutu şerhi davasının açıldığı tarih itibarıyla davacı eşin dava açmakta haklı olduğu göz önüne alınarak aile konutu şerhi konulması davası yönünden; kendini vekil ile temsil ettiren davacı mirasçısı yararına yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca vekâlet ücretine hükmedilmesi ve davalı bankanın yapmış olduğu yargılama giderlerinin kendi üzerinde bırakılması gerekirken, yanılgılı değerlendirme sonucu aile konutu şerhi konulması davasında davalı banka yararına yargılama giderleri ve vekâlet ücretine hükmedilmesi ... olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2023/2030 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963535200)
 
 Dava; akdi ve karşı yan vekalet ücretlerinin tahsili istemine ilişkindir.
 
@@ -101,21 +125,31 @@ Dava konusu olayda da, mahkemece bu doğrultuda ücret takdiri yapılmakla berab
 
 ## Yargıtay 1. HD 2023/1998 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929066600)
+
 Toplam dava değerinin 1.410.833,28 TL (davacıların dava konusu taşınmazlar üzerinde miras payı dikkate alınarak, asıl davada 56/168 hisse, birleştirilen davada 56/168 hisse), alınması gereken harcın asıl ve birleştirilen dava bakımından ayrı ayrı 32.124,67 TL olarak hesaplanması gerekirken, murisin dava konusu 1972 parselde 13/16 pay sahibi olduğu gözetilmeden 1.412.169,22 TL üzerinden 32.155,09 TL dava harcına hükmedilmiş olması bozmayı gerektirir.
 
 ## Yargıtay 1. HD 2023/1733 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/923112500)
 
 Diğer taraftan, vekalet ücretinin davacının 3/12 miras payına karşılık gelen 21.250,00 TL üzerinden hesaplanacağı, 4.080,00 TL maktu vekalet ücretinin Avukatlık Asgari Ücret Tarifesinin üçüncü kısmına göre hesaplanacak nispi vekalet ücreti yine aynı tarifenin 13. maddesi gereği maktu vekalet ücretinin altında kalamayacağından Mahkemece 10.03.2021 tarihli gerekçeli kararının 5.bendinde davalı ... lehine maktu vekalet ücretine hükmedilmiş olmasında bir isabetsizlik yoktur.
 
 ## Yargıtay 4. HD 2023/1466 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982628900)
+
 Davalı ... şirketinin poliçe limiti 175.000,00 TL olup mahkemece toplam 657.136,75 TL maddi tazminata hükmedilmiş ve sigorta şirketinin sorumluğunun poliçe limiti ile sınırlı olmasına karar verilmiş ise de, Zorunlu Mali Sorumluluk Sigortası Genel Şartlarının B.2.b maddesi uyarınca, davalı ... şirketine yükletilecek yargılama gideri, harç ve vekalet ücretinin sorumlu olduğu miktara oranlanarak hüküm altına alınması gerekirken, sigorta şirketinin yargılama gideri, harç ve vekalet ücretinin tamamından müştereken ve müteselsilen sorumlu tutulması da doğru görülmemiştir.
 
 ## Yargıtay 1. HD 2023/1179 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894889100)
+
 Kabul kapsamına alınan 5 (eski 19) parsel sayılı taşınmaz yönünden mirasbırakan ...’ın tüm mirasçıları adına tescil kararı verildiğinden, taşınmazın tamamının değeri üzerinden nispi karar-ilam harcına hükmedilmesi gerekirken sadece davacının miras payı üzerinden eksik nispi -karar ilam harcına hükmedilmesi doğru olmadığından temyiz onama harcı, taşınmazın tamamının değeri üzerinden hesaplanmıştır.
 
 ## Yargıtay 7. HD 2023/1089 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897360500)
 
 Dava, Türk Medeni Kanunu'nun 605/2 nci maddesi gereğince mirasın hükmen reddi isteğine ilişkindir.
 
@@ -125,6 +159,8 @@ Dava, Türk Medeni Kanunu'nun 605/2 nci maddesi gereğince mirasın hükmen redd
 
 ## Yargıtay 7. HD 2023/943 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897366900)
+
 …
 
 ...HMK’nın 355 inci maddesi uyarınca istinaf sebepleriyle sınırlı olarak ve re'sen kamu düzeni yönünden yapılan inceleme sonucu, ilk derece mahkemesinin vakıa ve hukuki değerlendirmesinde aşağıda belirtilen aykırılık dışında usul ve esas yönünden yasaya aykırılık bulunmadığı; bu kapsamda davalılar arasında zorunlu dava arkadaşlığı bulunmamasına rağmen harç ve giderlerden müştereken ve müteselsilen sorumlu tutulmaları yasaya aykırı olmakla birlikte bu yönde istinaf itirazı bulunmadığından bu yönden kaldırma kararı verilemeyeceği; ancak el atmanın önlenmesine karar verilen taşınmazlarda davacılara ait payların toplam değeri 376.663,44 TL ve hüküm altına alınan toplam ecrimisil tutarı 22.112,05 TL olup dava değeri toplam 398.775,49 TL olmakla peşin harç da bu değer üzerinden tamamlatılmış olmasına karşın gerekçeli kararda sadece elatılan paylarının değeri üzerinden eksik harca hükmedilmiş olması yasaya aykırı olup kamu düzenine ilişkin bu hususun re'sen dikkate alınması gerektiği, yapılan yanlışlığın yeniden yargılama yapılmasını gerektirmediği..." gerekçesiyle HMK'nın 353/1-b-2. maddesi gereğince yerel mahkeme kararının kaldırılarak; davanın kabulüne dair hüküm tekrarı yapılmış,
@@ -132,11 +168,15 @@ eksik harç yönünden ise "Harçlar Kanuna göre alınması gerekli 27.240,35 T
 
 ## Yargıtay 1. HD 2023/505 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913904200)
+
 Mahkemece, davanın kabulü ile veraset ilamındaki 96/864'er pay oranında iptal ve tescile karar verilmesi gerekirken, davalının mirasçı ...'ün payını satın aldığı kabul edilerek ... payı hesaba katılmaksızın 108/864'er pay şeklinde iptal - tescil kararı verilmesi hatalıdır.
 
 Ayrıca, kabul kararı verilen taşınmazların keşfen saptanan dava tarihindeki toplam değeri olan 72.807,56 TL üzerinden harç ve vekil ile temsil olunan davacı lehine 96/864 miras payına karşılık gelen 10.401,08 TL üzerinden vekalet ücreti hesaplanması gerekirken, yine tek vekil ile temsil olunan asli müdahiller ... ve ... lehine 96/864'er miras paylarına karşılık keşfen saptanan dava tarihindeki toplam değeri 20.802,16 TL üzerinden vekalet ücretine karar verilmesi gerekirken davalı aleyhine olacak şekilde fazla harç ve vakalet ücreti takdiri doğru olmamıştır.
 
 ## Yargıtay 1. HD 2023/230 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884614600)
 
 Mahkemece, davacının davasının kabulü ile veraset ilamındaki pay oranında tapunun iptal ve tesciline karar verildikten sonra, kalan payın davalılar üzerinde bırakılmasına karar verilmesi gerekirken, davalıların edinme sebebini değiştirecek şekilde davalılar adına da tescil kararı verilmesi hatalıdır.
 
@@ -144,9 +184,13 @@ Yargılama sonunda takdir edilecek nispi karar ve ilam harcı kamu düzeninden o
 
 ## Yargıtay 1. HD 2023/44 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/902455500)
+
 Fen bilirkişi raporunda (C) ve (D) harfi ile gösterilen kısımlar zaten tapuda Hazine adına kayıtlı olduğundan mükerrer kayıt olmaması ve hükmün infaz edilebilmesi için bu kısımlarında hükümden çıkarılması ve dava tapusuz taşınmazın tesciline ilişkin olduğundan davanın mahiyeti gereğince yapılan yargılama giderleri ve harcın davacı üzerine bırakılması gerekirken, harcın davalılardan müştereken ve müteselsilen alınması, yargılama giderlerinin davalılar üzerinde bırakılması ve davacı taraf lehine vekalet ücretine hükmedilmesi, davanın kısmen kabulüne karar verildiği halde, davalılar lehine vekalet ücretine karar verilmemesi doğru olmadığı gibi davacılardan ...'nın yargılama aşamasında öldüğü gözetilmeden mirasçılar lehine hüküm kurulmayarak infazda tereddüt oluşturulması, yine hüküm başlığında ... mirasçılarının isimlerinin yer almaması isabetsiz ise de, anılan bu hususlar yeniden yargılama yapılmasını gerektirmediğinden, hükmün düzeltilerek onanmasına karar vermek gerekmiş, vekalet ücreti, yalnızca bu yönde temyizi bulunan Hazine lehine hükmedilmiştir.
 
 ## Yargıtay 11. HD 2022/9301 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875923600)
 
 Dava, icra takibine konu bono nedeniyle borçlu olmadığının tespiti istemine ilişkindir.
 
@@ -157,13 +201,19 @@ Karar tarihinde yürürlükte olan AAÜT’nin "Davanın konusuz kalması, ferag
 
 ## Yargıtay 1. HD 2022/8086 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878054800)
+
 Kabule göre, muris muvazaası hukuksal nedenine dayalı davalarda dava değeri, dava konusu edilen taşınmazın ya da taşınmazların toplam değeri üzerinden davayı açan mirasçı ya da mirasçıların payına isabet eden değer olup, somut olayda davacının miras payına isabet eden ve harcı tamamlanan 200.000,00 TL değer üzerinden asıl dava davacısı lehine vekalet ücreti tayini gerekirken eksik vekalet ücretine hükmedilmesi de isabetsizdir.'' gerekçesiyle Mahkeme kararı bozulmuş, asıl ve birleştirilen davada davacılar vekilinin Daire kararında maddi hata yapıldığına ilişkin talebi üzerine Dairenin 11/11/2021 tarihli ve 2021/8356 E., 2021/6773 K. sayılı kararıyla; ''...asıl davada davacı ... ve birleştirilen davada davacı ... bu karara karşı karara düzeltme yoluna müracaat etmemiştir.
 
 ## Yargıtay 1. HD 2022/7826 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881875500)
+
 6.3.3. Somut olayda, Mahkemece hüküm kısmında karar ve ilam harcına ilişkin olumlu ya da olumsuz bir karar verilmemesi, dava konusu taşınmazın dava tarihindeki değeri üzerinden davayı açan .....’ın miras payına isabet eden ve harcı ikmal edilen bu değer üzerinden davacılar lehine nispi vekalet ücreti takdir edilmesi gerekirken davacılar lehine eksik vekalet ücretine hükmedilmesi, taşınmazların parsel numaralarının değişmesine rağmen infazda tereddüt oluşturacak şekilde hüküm kurulmuş olması, yine aynı şekilde ...’ın veraset ilamı bilgileri belirtilmeden infazda tereddüt oluşturacak şekilde hüküm kurulmuş olması ve hüküm başlığında ... mirasçılarının isimlerinin yer almaması isabetsizdir.
 
 ## Yargıtay 1. HD 2022/5803 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848122500)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmazsa tazminat istemine ilişkindir.
 
@@ -175,11 +225,15 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmazsa 
 
 ## Yargıtay 1. HD 2022/5256 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/817483800)
+
 Bununla birlikte, muris muvazaası hukuki nedenine dayalı pay oranında açılan tapu iptali ve tescil davalarında dava değerinin,mirasbırakan tarafından temlik edilen taşınmazların dava tarihindeki değeri üzerinden davayı açan mirasçı ya da mirasçıların miras payına isabet eden değer olduğu gözetilerek, harcı ikmal edilen bu değer üzerinden nispi vekalet ücretine hükmedilmesi gerekmektedir.
 
 Somut olayda, dava konusu 335 ada 7 parsel sayılı taşınmaz ile 1311 ada 110 ve 141 parsel sayılı taşınmazlarda davacıların miras paylarına düşen değerler toplamı 2.798.741,84 TL olup, davanın reddi nedeniyle davalı lehine harcı ikmal edilen bu miktar üzerinden karar tarihindeki Avukatlık Asgari Ücret Tarifesi uyarınca nispi vekalet ücreti takdir edilmesi gerekirken yazılı şekilde eksik vekalet ücretine hükmedilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2022/4594 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/809269500)
 
 Mirasbırakanın, ölünceye kadar bakıp gözetme karşılığı yaptığı temlikin muvazaa ile illetli olup olmadığının belirlenebilmesi içinde, sözleşme tarihinde murisin yaşı, fiziki ve genel sağlık durumu, aile koşulları ve ilişkileri, elinde bulunan mal varlığının miktarı, temlik edilen malın, tüm mamelekine oranı, bunun makul karşılanabilecek bir sınırda kalıp kalmadığı gibi bilgi ve olguların göz önünde tutulması gerekir.
 
@@ -187,21 +241,31 @@ Mirasbırakanın, ölünceye kadar bakıp gözetme karşılığı yaptığı tem
 
 ## Yargıtay 1. HD 2022/4367 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/808826500)
+
 3.3.6. Öte yandan, her bir davalının adına kayıtlı olan ve dava edilen pay değeri dikkate alınarak karar ve ilam harcından ve vekalet ücretinden ayrı ayrı sorumlu tutulması gerekirken, harcın ve vekalet ücretinin davalılardan müştereken ve müteselsilen tahsiline şeklinde karar verilmesi de isabetsizdir.
 
 ## Yargıtay 1. HD 2022/3796 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/809301200)
 
 Bölge Adliye Mahkemesince; asıl davada 249 ve 401 parsellerin davalı ... adına kayıtlı olmadığı, karar tarihinde yürürlükte bulunan AAÜT'nin 7/2. maddesi uyarınca davalı lehine maktu vekalet ücreti takdirinde isabetsizlik bulunmadığı, devir tarihi itibarı ile mirasbırakanın maddi durumunun iyi olduğu, aynı tarihli işlemler ile iki ayrı parselin davalı ...'a, 3 ayrı parselin davalı ...'a devrini gerektirecek önemli bir sebebinin bulunmadığı, temliklerin mal kaçırmak amacıyla gerçekleştirildiği, hem asıl hem de birleştirilen dava yönünden terekeye temsilci atandığını, birleştirilen davada davacının miras payı oranında hüküm kurulmasının doğru olmadığı gerekçesi ile davalıların istinaf isteminin HMK’nın 353/(1).b.2 maddesi gereğince kabulüne karar verilerek, İlk Derece Mahkemesi kararı kaldırılmış ve asıl davanın kısmen kabulü ile kısmen reddine, birleştirilen davanın kabulüne karar verilmiştir.
 
 ## Yargıtay 2. HD 2022/3222 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764614600)
+
 Hukuk Muhakemeleri Kanunu’nun 310/1. maddesine göre, feragat veya kabul beyanında bulunan taraf, davada aleyhine hüküm verilmiş gibi yargılama giderlerini ödemeye mahkûm edilir. Davacı-davalı kadının erkek eşin ölümü nedeniyle konusuz kalan kendi davasındaki feragat beyanı nedeniyle, kadının davasında mirasçılar lehine vekâlet ücretine hükmedilmesi gerekirken; davacı-davalı kadın lehine vekâlet ücretine hükmedilmesi ve yargılama giderlerinin davalı-davacı erkek mirasçılarının üzerinde bırakılması doğru bulunmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2022/2399 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/799088000)
+
 Mahkemenin önceki tarihli kararı, Yargıtay (Kapatılan) 16. Hukuk Dairesinin 12.02.2019 tarih ve 2016/6707 E., 2019/912 K. sayılı ilamıyla; “ Dosya içeriğine, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere göre sair temyiz itirazları yerinde olmadığı, ancak davacılar ... ve ..., yasal miras paylarının adlarına tescili istemiyle dava açmış olup, dosyada bulunan veraset ilamına göre ortak miras bırakan ... ...'ün davacı ve davalılardan başka mirasçılarının da bulunduğu anlaşıldığına göre dava konusu taşınmazın, davacıların miras payları oranında çekişmeli olduğu, bu nedenle bu paya isabet eden dava değeri üzerinden nispi vekalet ücretine hükmedilmesi gerekirken, taşınmazın tamamı üzerinden vekalet ücretine hükmedilmesinin isabetsiz olduğu ” gerekçesiyle bozulmuştur.
 
 ## Yargıtay 1. HD 2021/8039 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733652900)
 
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -210,6 +274,8 @@ Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil istemine il
 Kabule göre de, Mahkemece yargılama giderlerine hükmedilirken her bir davalının hangi taşınmazlarda kayıt maliki oldukları tespit edildikten sonra bu taşınmazların değerleri ve davacının miras payı gözetilerek her bir davalı hakkında ikame edilen dava değeri üzerinden ayrı ayrı harç ve vekalet ücretine hükmedilmesi gerekirken, bu husus gözetilmeksizin tüm davalılar lehine ayrı ayrı aynı miktardaki vekalet ücretine hükmedilmesi de hatalıdır.
 
 ## Yargıtay 1. HD 2021/7805 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/730753200)
 
 Somut olayda, hükmüne uyulan bozma ilamında davalı lehine harcı tamamlanmış dava değeri üzerinden avukatlık ücretine hükmedilmesi gereğine değinilmiş ancak, mahkemece davacının miras payı ve harçlandırılan dava değeri gözetilmeksizin hatalı hesaplama ile fazla avukatlık ücretine hükmedildiği anlaşılmıştır.
 

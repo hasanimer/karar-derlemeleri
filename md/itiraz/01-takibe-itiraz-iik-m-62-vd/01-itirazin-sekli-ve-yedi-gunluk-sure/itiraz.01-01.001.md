@@ -29,6 +29,8 @@ Genel haciz yolu ile ilamsız takipte ödeme emrini tebliğ alan borçlu yedi g�
 
 ## Yargıtay HGK 2025/632 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180576900)
+
 Davacı asıl; davalı Kurum tarafından dava dışı ... Elektronik San. ve Tic.
 
 …
@@ -45,11 +47,15 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel D
 
 ## Yargıtay HGK 2025/426 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163496900)
+
 İcra ve İflas Kanunu'nun 269/1. maddesine göre kiraya veren alacaklı ödeme emriyle TBK'nın 315. maddesinde yazılı ihtarın yapılmasını isteyebileceğinden, kiraya veren alacaklı takip talebinde kira bedelinin ve yan giderlerin (ödemiş ise) tahsilini talep edebilir (Baki Kuru, İcra ve İflas Hukuku El Kitabı, Ankara, 2013, s.822; L. Şanal Görgün, Levent Börü, Mehmet Kodakoğlu, İcra ve İflâs Hukuku, Üçüncü Bası, Ankara, 2022, s.363; İbrahim Aşık, Yakup Oruç, Ozan Tok, Ömer Faruk Saçar, İcra ve İflas Hukuku, Ankara, 2022, s.378).
 
 Alacaklının (kiraya verenin) ilâmsız tahliye takip talebini alan icra dairesi, borçluya ihtarlı (örnek 13 No.lu) ödeme emri gönderir. Bu ödeme emrinde diğer kayıtlarla birlikte borçlunun (kiracının) kural olarak yedi gün içinde ödeme emrine itiraz edebileceği, itiraz süresi içinde kira sözleşmesini ve varsa yazılı kira sözleşmesindeki imzasını açık ve kesin olarak reddetmezse (inkâr etmezse) kira sözleşmesini kabul etmiş sayılacağı, kira borcunu ödeme emrinin tebliği tarihinden itibaren TBK'nın 315. maddesinde belirtilen ödeme süresi içinde ödemesi, itiraz süresi içinde (İİK md. 62 ) ödeme emrine itiraz etmez ve ödeme süresi içinde borcu (kirayı) ödemez ise kiraya verenin (alacaklının) kesinleşen kira alacağı için haciz isteyebileceği (İİK md. 78 vd.) ve icra mahkemesinden (kiracının) kiralanan taşınmazdan tahliyesini isteyebileceği ihtar edilir.
 
 ## Yargıtay HGK 2025/374 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157507200)
 
 İlk Derece Mahkemesince verilen kararın davalı vekili tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince istinaf başvurusunun esastan reddine karar verilmiştir.
 
@@ -66,6 +72,8 @@ Davalı vekili; usulüne uygun tebligat yapılmasına rağmen cevap dilekçesini
 Tüm bu maddi ve hukuki olgular ışığında somut olay değerlendirildiğinde; davacı tarafından 14.09.2018 tarihinde davalı şirket aleyhine kambiyo senetlerine mahsus haciz yolu ile icra takibi başlatıldığı, davalının bilinen adresine çıkartılan ödeme emrinin iade edilmesi üzerine bu kez TK'nın 35. maddesi uyarınca davalı şirketin ticaret siciline kayıtlı adresine ödeme emrinin gönderildiği ve 04.10.2018 tarihinde davalıya tebliğ edildiği, sonrasında davacı vekilinin 26.10.2018 tarihli talebi uyarınca takibin iflas yolu ile takibe çevrildiği, iflas yolu ile takibe ilişkin ödeme emrinin, davalı şirketin sicile kayıtlı adresine TK'nın 35. maddesi uyarınca 03.11.2018 tarihinde tebliğ edildiği, davalının takibe itiraz etmediği, davacının ödeme emrinin tebliğinden itibaren bir yıllık hak düşürücü süre içinde davalının iflasına karar verilmesi talebi ile eldeki davayı açtığı anlaşılmaktadır.
 
 ## Yargıtay HGK 2022/1757 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847728200)
 
 Davacı vekili asıl dava dilekçesinde; müvekkili şirkete 2014/17273 numaralı takip dosyası üzerinden gönderilen ödeme emrinin 2012/8. ve 2013/12. aylara ilişkin idari para cezaları ve gecikme zammı olmak üzere toplam 12.597,68TL borçla ilgili olduğunu ancak idari para cezalarının yasal dayanağının bulunmadığını ileri sürerek ödeme emrinin iptalini talep etmiştir.
 
@@ -87,6 +95,8 @@ Bir (1) numaralı uyuşmazlık yönünden davalı ... Kurum vekilinin temyiz iti
 
 ## Yargıtay HGK 2022/1756 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847719200)
+
 4\.
 
 …
@@ -103,6 +113,8 @@ Davalı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının yuk
 
 ## Yargıtay HGK 2022/1317 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857567800)
+
 Diğer taraftan, borçluların başvurusu, bu hali ile borca itiraz niteliğinde olup, borca itirazın ise; takibin şekline göre uygulanması gereken İİK.'nun 62/1. maddesi uyarınca, ödeme emrinin tebliğinden itibaren yasal yedi günlük süre içerisinde icra dairesine yapılması zorunludur.
 
 …
@@ -110,6 +122,8 @@ Diğer taraftan, borçluların başvurusu, bu hali ile borca itiraz niteliğinde
 Alacaklılar vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında belirtilen nedenlerden dolayı 5311 sayılı Kanun ile değişik İİK’nın 364/2. maddesi göndermesiyle uygulanması gereken 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 371. maddeleri uyarınca BOZULMASINA …
 
 ## Yargıtay HGK 2022/1077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790211200)
 
 Davacı vekili dava dilekçesinde; müvekkilinin, davalının teslim edeceği ürünlere karşılık ileri tarihli çekler düzenleyerek verdiğini, bir süre sonra taraflar arasındaki ticari ilişkinin sona erdiğini, müvekkilinin davalıya verdiği çeklerin tamamını ödediğini, davalı hakkında fazladan yapılan ödemeden kaynaklanan alacağın tahsili için icra takibi yapıldığını, davalının icra takibine itirazdan sonra asıl alacağın tamamını müvekkilinin hesabına yatırdığını, ancak itirazın haklı olup olmadığının icra takibinin yapıldığı tarih itibariyle değerlendirilmesi gerektiğini ileri sürerek itirazın iptali ile asıl alacağın %40’ı oranından az olmamak üzere icra inkâr tazminatının davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -129,6 +143,8 @@ C) bendinde (§30-36) belirtilen nedenlerle direnme kararının 29.06.2022 tarih
 
 ## Yargıtay HGK 2021/1724 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737004000)
+
 Karşıyaka 1.
 İcra (Hukuk) Mahkemesinin 02.09.2015 tarihli ve 2015/370 E., 2015/447 K. sayılı kararı ile; takip işlemlerinin başlatılmasından infazla son bulması aşamasına kadar hukukî sonuçlarından borçlunun haberdar edilmesi temel ilkesine dayandığı, ödeme veya icra emrinin gönderilmesinden başlayarak İİK’nın 103. maddesinde düzenlenen davetiyenin çıkarılması, İİK’nın 89. maddesinde düzenlenen haciz ihbarnamelerinin gönderilmesi, kıymet takdiri ve satış ilanı tebliğ işlemleri (İİK’nın 128/a, 127), mükellefiyet listesinin tebliğinin bunların en başında gelenler olduğu, borçlunun yapılan işlemlerden haberdar edilmesi sonucunda ise yasada öngörülen itiraz ve şikâyet haklarının (İİK’nın 16, 62, 33, 169, 269, 128/a vb.) kullanılması hakkının doğduğu ve bu durumlarda yapılacak yargı denetimiyle hukuk devleti olmanın temel gerekliliğinin yerine getirileceği, takip işlemleriyle ilgili tebligatlarda öngörülen zorunlu şekil unsurlarına uyulmaması, örneğin adreste bulunmama hâlinin Tebligat Yönetmeliğinin 30/1. maddesine göre araştırılmaması, muhatapla aynı adreste bulunan reşit olmayan kişiye tebliğ evrakının teslimi, yurt dışında olan veya ölen kişiye Tebligat Kanunu’nun 21/1 ve Yönetmeliğin 30.
 maddesi uyarınca usulünce araştırma gerçekleştirmeden yapılmış olan usulsüz tebliğ işlemlerinin, başlangıçta icra memuru tarafından geçerliliğinin sorgulanmayarak takip işlemlerine devam edilmesine zorlanmasıyla İİK’nın 16. maddesine dayalı şikâyet yolu ile tebligatın iptali yasa yolunun, takip işlemlerinde gelinen aşamaya göre çoğu kez telafisi olanaksız sonuçlar doğuran gecikmelere yol açması karşısında haczedilen taşınmazın satılması (İİK m. 129), haciz ihbarnamesi gönderilen üçüncü kişi yönünden borcun zimmetinde sayılması (İİK m.89/3) itiraz ve şikâyet haklarının kullanılmaması (İİK m. 16, 62, 33, 169, 269, 128/a vb.) gibi ağır sonuçlar doğurduğu, tüm bu sonuçlara rağmen usulsüz ve geçersiz tebliğ işlemine rağmen icra memurunun bu tebligata bağlı takip işlemlerini yapma yetkisini tanımak suretiyle hukuka aykırı sonuçların doğmasına yol açılmasının hukuk devlet ilkesi (Anayasa m. 2) ile bağdaşmayacağı gerekçesi ile direnme kararı verilmiştir.
@@ -138,6 +154,8 @@ maddesi uyarınca usulünce araştırma gerçekleştirmeden yapılmış olan usu
 Alacaklı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2021/1710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736943200)
 
 4\.
 
@@ -159,6 +177,8 @@ Asliye ticaret mahkemesi iflas davasını basit yargılama usulüne göre incele
 
 ## Yargıtay HGK 2021/1672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744312600)
+
 Borçluların ileri sürdüğü takip dayanağı kredi sözleşmesinin asıl borçlusu reşit olmadığından geçersiz olduğu, bu nedenle kefillerin de sorumluluğunun olmadığı iddiası, borcun doğmadığına ilişkin olup borca itiraz niteliğindedir. Bu husus takip talebi üzerine icra müdürlüğünce kendiliğinden inceleme konusu yapılamaz. Şayet borçlunun velisi veya vasisi tarafından takipte taraf olma ehliyetinin bulunmadığı ileri sürülür ise bu durumda borçlunun ehliyetsizliği iddiası şikâyet niteliğinde ve kamu düzenine ilişkin olduğundan icra mahkemesinden takibin iptali istenebilir.
 
 O hâlde borçluların ileri sürdüğü itirazın İİK’nın 62. maddesinin 1. fıkrası uyarınca ödeme emrinin tebliğinden itibaren yedi gün içinde icra müdürlüğüne bildirilmesi gerekir. Borca itirazın icra müdürlüğü yerine icra mahkemesine yapılması sonuç doğurmayacağından icra mahkemesince istemin reddi gerekir.
@@ -169,13 +189,19 @@ Alacaklı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel
 
 ## Yargıtay HGK 2021/1425 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726603900)
+
 Genel haciz yolu ile başlatılan bir takipte her türlü itirazın İİK'nun 62. maddesi uyarınca icra dairesine bildirilmesi zorunludur. Bu durumda, borçlunun itirazlarını, icra dairesi yerine icra mahkemesine bildirmiş olması fuzuli bir işlem olup, yanlış merciye yapılan başvuru hukuki sonuç doğurmaz.
 
 ## Yargıtay HGK 2021/1250 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724702500)
+
 Genel haciz yolu ile ilamsız takipte borçlu İİK’nın 62. maddesi uyarınca her türlü itirazını ödeme emrinin tebliğinden itibaren yasal 7 günlük sürede icra dairesine bildirmeye mecburdur. Borçlunun takip talebinde istenen işleyecek faiz oranına itirazı da borca itiraz niteliğinde olduğundan bu maddede öngörülen zorunluluğa ve kurala tabi olup bu husustaki itirazını icra dairesine bildirmelidir.
 
 ## Yargıtay HGK 2021/1146 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724699800)
 
 Borçlu cari hesap veya kısa, orta, uzun vadeli kredi şeklinde işleyen kredilerde krediyi kullandıran taraf (alacaklı), krediyi kullanan tarafın (borçlunun) kredi sözleşmesinde belirttiği adresine, borçlu cari hesap sözleşmesinde belirtilen dönemleri veya kısa, orta, uzun vadeli kredi sözleşmelerinde yazılı faiz tahakkuk dönemlerini takip eden onbeş gün içinde bir hesap özetini noter aracılığı ile göndermek zorundadır (İİK m. 68/b-1). Borçlu, (süresi içinde gönderilen) hesap özetini aldığı (tebellüğ ettiği) tarihten itibaren bir ay içinde hesap özetine (muhtevasına) itiraz edebilir (İİK m. 68/b-2). Krediyi kullanan taraf (borçlu), hesap özetini aldığı tarihten itibaren bir ay içinde hesap özetine itiraz etmezse, hesap özeti takip hukuku bakımından kesinleşir. Yani borçlu, hesap özetinin gerçeğe aykırılığını, ancak borcunu ödedikten sonra dava edebilir (İİK m. 68/b-2).
 Buna göre krediyi kullandıran taraf (alacaklı), hesap özetinin tebliğinden itibaren bir ay geçtikten (yani hesap özeti kesinleştikten) sonra ilamsız icra takibi yapar ve borçlu ödeme emrine itiraz ederse (İİK m. 62) alacaklı, kesinleşen hesap özetine dayanarak icra mahkemesinden itirazın kesin kaldırılmasını (İİK m. 68) isteyebilir. Çünkü, kredi sözleşmeleri ve bunlarla ilgili süresinde itiraz edilmemiş hesap özetleri ile ihtarnameler ve krediyi kullandıran (alacaklı) tarafından usulüne uygun düzenlenmiş diğer belge ve makbuzlar İİK'nın 68. maddesinin 1. fıkrasında belirtilen belgelerden sayılırlar (İİK m. 68/b-3,c. l) (Kuru, 286-287).
@@ -186,9 +212,13 @@ Alacaklı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukar
 
 ## Yargıtay HGK 2021/1049 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709858000)
+
 İcra ve İflas Kanunu’nun 62. maddesinin 1. fıkrasına göre genel haciz yolu ile ilamsız takibe itiraz etmek isteyen borçlu itirazını ödeme emri tebliği tarihinden itibaren yedi gün içinde dilekçe ile veya sözlü olarak icra dairesine bildirir. Borçlunun yedi gün içinde itiraz etmesi ile aynı Kanunun 66. maddesinin 1. fıkrasına göre takip kendiliğinden durur.
 
 ## Yargıtay HGK 2021/916 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685204800)
 
 Somut olayda alacaklı tarafından başlatılan genel haciz yolu ile ilamsız takipte (7) örnek nolu ödeme emrinin borçluya Tebligat Kanunu’nun 21. maddesinin 1. fıkrasına göre tebliği üzerine borçlunun vekili aracılığıyla 12.05.2015 tarihinde icra dairesine verdiği dilekçesi ile ödeme emrine itiraz ettiği, icra dairesinin 21.05.2015 tarihli işlem ile borçluya ödeme emrinin 04.05.2015 tarihinde tebliğ edildiği, itiraz dilekçesinin ise 12.05.2015 tarihinde verildiği, İİK’nın 62. maddesi gereğince ödeme emrine itiraz süresinde olmadığından takibin İİK’nın 62 ve 66. maddeleri gereğince durdurulması talebinin reddine karar verildiği, alacaklı vekilinin 22.05.2015 tarihinde haciz talep ettiği, borçlu vekilinin 24.07.2015 tarihinde icra dairesine başvurarak ödeme emrinin 05.05.2015 tarihinde tebliğ edildiğini, PTT’nin web sitesinde kayıtlara göre tebligatın 06.05.2015 tarihinde muhtara Tebligat Kanunu’nun 21. maddesine göre teslim edildiğini belirterek itirazın süresinde yapıldığının kabul edilmesini talep ettiği, icra dairesince 24.07.2015 tarihli işlemle borçlu tarafta kalan tebligat parçasındaki tarih veya PTT’nin web sitesindeki sorgulamada yazan tarihin değerlendirilmesinin yargılamayı
 gerektirdiği gerekçesi ile talebin reddine karar verildiği, borçlu vekilinin 05.08.2015 tarihinde şikâyet yolu ile icra mahkemesine başvurarak ödeme emri tebligat mazbatasında tebliğ tarihinin posta memuru tarafından sehven 04.05.2015 tarihi olarak yazıldığını, ödeme emri tebliğ tarihinin 05.05.2015 olduğunu, ayrıca ödeme emrinin de usulsüz tebliğ edildiğini ileri sürerek şikâyetin kabulü ile takibe süresinde itiraz edilmiş olmasına rağmen takibin durdurulmasına yönelik talebin reddine ilişkin icra dairesinin 24.07.2015 tarihli işleminin kaldırılmasına ve tebliğ tarihinin tespiti ile takibin durdurulmasına karar verilmesini talep ettiği, icra mahkemesince istemin ödeme emri tebliğ tarihinin öğrenme tarihi olan 05.05.2015 tarihi olarak düzeltilmesine ilişkin usulsüz tebliğ şikâyeti şeklinde nitelendirildiği görülmektedir.
@@ -199,9 +229,13 @@ Alacaklı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukar
 
 ## Yargıtay HGK 2021/409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660686200)
+
 Kararda özetle; "mirasın reddine ilişkin mahkeme kararının icra takibinden ve ödeme emrinin tebliğinden önce alınıp kesinleştiği anlaşılmıştır. Bu durumda takibin şekline göre mirasın reddi nedeniyle icra takibi yapılamayacağı hususu borca itiraz niteliğinde olup bunun İİK’nın 62/1 maddesi gereğince ödeme emrinin tebliğinden itibaren yasal 7 günlük sürede icra dairesine yapılması zorunludur. Borçlularca bu süreye uyulmamış, takip kesinleşmiştir. Takibin kesinleşmesinden sonra mirasın reddi kararı icra müdürlüğüne sunularak hacizlerin kaldırılması istenemez." hükmüne yer verilmiştir.
 
 ## Yargıtay HGK 2021/233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660624500)
 
 4\.
 
@@ -219,6 +253,8 @@ Somut olayda Urla İcra Dairesinin yetkisine karşı icra dairesinde geçerli bi
 
 ## Yargıtay HGK 2021/102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646428200)
+
 Davacı vekili; davalı tarafça Ankara 29. İcra Dairesinin 2008/7415 sayılı dosyası üzerinden müvekkili aleyhine takip başlatıldığını, ödeme emrine itiraz üzerine yapılan yargılama sonunda Ankara 25.
 
 …
@@ -230,6 +266,8 @@ Davalı vekili; itirazın iptali davasında verilen kararın eldeki dosya yönü
 Borçlu borcun bir kısmına itiraz etmiş ise (İİK m. 62/4) borçlunun kabul ettiği miktar için takip durmaz. Alacaklı borçlunun kabul ettiği miktar yönünden takibe devam edilmesini, borçlunun mallarının haciz edilmesini talep edebilir.
 
 ## Yargıtay HGK 2020/794 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638310700)
 
 Davacı vekili 07.07.2014 tarihli dava dilekçesinde; dava dışı Besa Bilgisayar Yazılım San. Tic.
 
@@ -247,6 +285,8 @@ Ankara 2. Asliye Ticaret Mahkemesinin 16.04.2015 tarihli ve 2014/501 E., 2015/27
 
 ## Yargıtay HGK 2020/621 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/607568500)
+
 Davacı vekili 01.10.2014 tarihli dilekçesinde; müvekkili banka ile dava dışı ... arasında 30.04.2007 ve 05.11.2007 tarihinde genel kredi sözleşmesi imzalandığını, davalının anılan sözleşmeler uyarınca müşterek borçlu ve müteselsil kefil olarak borçtan sorumlu olduğunu, davalı borçluya muacceliyet ihtarnamesi keşide edildiğini, ihtarname içeriği ve ekindeki hesap özetinin kesinleşmesi üzerine borçlu hakkında Nazilli 2. İcra Müdürlüğünün 2010/308 sayılı dosyası ile icra takibi başlatıldığını, davalının borca itiraz ederek hakkındaki takibin durmasına sebebiyet verdiğini ileri sürerek itirazın iptali ile takibin devamına, itiraz edilen alacağın % 20’si oranından az olmamak kaydıyla icra inkâr tazminatına karar verilmesini talep ve dava etmiştir.
 
 …
@@ -261,6 +301,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel D
 
 ## Yargıtay HGK 2020/282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602193300)
+
 Genel haciz yolu ile ilamsız takipte İİK'nın 60. maddesi uyarınca kendisine ödeme emri gönderilen borçlu borca ve imzaya itirazlarını İİK'nın 62. maddesinin 1. fıkrası gereğince ödeme emri tebliği tarihinden itibaren yedi gün içinde icra dairesine bildirilebilir.
 
 …
@@ -268,6 +310,8 @@ Genel haciz yolu ile ilamsız takipte İİK'nın 60. maddesi uyarınca kendisine
 Alacaklı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2019/557 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520421800)
 
 5510 sayılı Yasaya göre 88. maddesi gereğince, eldeki davada, iş mahkemeleri yetkilidir. 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun, "ödeme emri" başlığını taşıyan 55'inci maddesinde, kamu alacağını vadesinde ödemeyenlere, yedi gün içinde borçlarını ödemeleri veya mal bildiriminde bulunmaları gereğinin bir ödeme emri ile tebliğ olunacağı, "ödeme emrine itiraz" başlıklı 58'inci maddesinde, kendisine ödeme emri tebliğ olunan kişinin, böyle bir borcu olmadığı veya kısmen ödediği veya zamanaşımına uğradığı hakkında tebliğ tarihinden itibaren yedi gün içinde itirazda bulunabileceği belirtilmiştir. Anlaşılacağı üzere, "menfi tespit" niteliğindeki ödeme emrine itiraz/ödeme emrinin iptali davasının hak düşürücü nitelikte olan yedi günlük süre içerisinde açılması zorunludur. 6183 sayılı Yasanın 55. maddesi, vadesinde ödenmeyen kamu alacaklarının tahsili amacıyla ödeme emri düzenlenmesi olanağını öngörmüş olup; ödeme emrine konu edilen alacağın kesinleşmiş ve tahsil edilebilir aşamaya gelmiş olması zorunluluğu bulunmaktadır.
 Bu durumda ise, öncelikle, iş mahkemelerinin yetkili olduğu gözetilip, ödeme emrinin tebliğ tarihi araştırılarak süresinde davanın açılıp açılmadığı irdelenmeli ve 5510 sayılı Yasanın 102 (506 sayılı Yasa 140) maddesi uyarınca başlamış olan itiraz prosedürünün bulunup bulunmadığı araştırılarak, idari para cezasının kesinleşip kesinleşmediği belirlenmelidir. Prosedürün varlığı halinde sonucu beklenerek, kesinleşen idari para cezası miktarının tespitiyle, ancak bu miktara ilişkin ödeme emri yönünden, 6183 sayılı Yasanın 58. maddesinde sınırlı olarak sayılmış nedenlere dayalı olarak inceleme yapılmak suretiyle sonuca ulaşılmalıdır. Ancak davacının, ödeme veya zamanaşımı iddiası bulunmaması karşısında, bu halde dahi, maddi hukuk açısından böyle bir borcun olup olmadığının yeniden irdelenmesi de mümkün olmayacağından, kesinleşen idari para cezasına yönelik davacı isteminin reddine karar verilmesi gerekeceği gözetilmelidir.
@@ -277,6 +321,8 @@ Bu durumda ise, öncelikle, iş mahkemelerinin yetkili olduğu gözetilip, ödem
 SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerle 6100 sayılı Hukuk Muhakemeleri Kanunu'nun Geçici 3. maddesine göre uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2016/154 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232528200)
 
 Dava, genel haciz yolu ile yapılan icra takibine vaki itirazın kaldırılmasına ilişkindir.
 
@@ -295,6 +341,8 @@ Uyuşmazlık, genel haciz yolu ile başlatılan ilamsız icra takibine borçlu t
 11.05.2005 tarih 25783 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren İcra ve İflas Kanunu Yönetmeliğinin 10. maddesine göre, başka yer icra ve iflâs dairelerine gönderilmek üzere verilen dilekçelere ilişkin bilgiler, sıra numarası, evrakın tarih ve numarası, gönderilen veya gönderen daire, geliş veya gönderilme tarihi, evrakın özeti ve düşünceler sütunlarını içeren muhabere kaydına kaydolunur ve bu şekilde başka yer icra dairesine yapılan itiraz, itiraz dilekçesinin geliş tarihinin gösterildiği muhabere kaydı tarihinde yapılmış sayılır.
 
 ## Yargıtay HGK 2015/1126 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113394000)
 
 Yukarıda belirtilen hükümler uyarınca borçlunun takibe itirazının, alacaklı vekiline tebliğ edildiği tarihinden itibaren itirazın iptali davasını açmak için gereken yedi günlük hak düşürücü süre işlemeye başlayacaktır. Alacaklı vekili söz konusu yasal süre içinde asliye hukuk mahkemesinde itirazın iptali davası açmış olduğundan ihtiyati haciz işlemi geçerliliğini sürdürmektedir.
 

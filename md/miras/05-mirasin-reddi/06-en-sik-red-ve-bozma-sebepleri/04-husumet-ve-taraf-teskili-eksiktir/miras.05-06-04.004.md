@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 11. HD 2026/220 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193755100)
+
 Dava, kefalet sözleşmesinden kaynaklanan menfi tespit istemine ilişkin olup ilk derece mahkemesince davanın usulden reddine karar verilmiştir.
 
 …
@@ -35,6 +37,8 @@ Bu itibarla, her ne kadar İzmir 3.Asliye Ticaret Mahkemesi'nin 2019/121 Esas sa
 Karşıyaka 5.Noterliği'nin 21.09.2020 tarih 27932 yevmiye nolu mirasçılık belgesinin iptali için hasımlı mirasçılık belgesinin iptali davası açmak üzere uygun bir süre verilmesi ve mirasçılık belgesinin iptaline karar verilmesi halinde bu durumun İzmir 3.Asliye Ticaret Mahkemesi'nin 2019/121 Esas sayılı dava dosyasında hükme esas alınan mirasçılık belgesinin iptal edilmiş olması nedeniyle yargılamanın iadesi(HMK 375/1-ğ) nedeni oluşturup oluşturmayacağının değerlendirilmesiyle davacıya yasal yollara başvurmak üzere uygun bir süre verilerek İzmir 3.Asliye Ticaret Mahkemesi'nin 2019/121 Esas sayılı dava dosyasının usulüne uygun taraf teşkili sağlanmış olarak kesinleştirilmesi sağlandıktan sonra sonucuna göre değerlendirme yapılması gerektiği halde ilk derece mahkemesince kararın şeklen kesinleşmiş olmasına itibar edilerek davanın kesin hükme yönelik dava şartı noksanlığı nedeniyle usulden reddine karar verilmiş olması yerinde görülmemiştir.
 
 ## Ankara BAM 26. HD 2026/99 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194925100)
 
 Dava, trafik kazasından kaynaklanan yaralanma nedeniyle maddi ve manevi tazminat istemine ilişkindir.
 
@@ -50,6 +54,8 @@ Somut olayda, yerel mahkemece yukarıda açıklanan ilkeler dikkate alınarak ar
 
 ## Ankara BAM 35. HD 2025/1670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185867600)
+
 Dava, ölümlü trafik kazasından kaynaklanan destekten yoksun kalma tazminatı ve manevi tazminat istemine ilişkindir.
 
 …
@@ -60,6 +66,8 @@ Mirasçılara geçen haklara ilişkin davalarda yargılama sırasında davalın�
 
 ## İstanbul BAM 12. HD 2025/739 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141277200)
+
 Dava, açık hesap alacağının tahsili istemine ilişkindir.
 
 …
@@ -69,10 +77,14 @@ Nitekim davalı tarafça sunulan ve davacı muhasebecisinin hesap mutabakatı e-
 
 ## İstanbul BAM 43. HD 2025/194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141075300)
+
 Sayılı dosyası ile reddetmiş oldukları anlaşılmakla haklarındaki davanın ... mirasçıları sıfatıyla açılmış olması nedeniyle haklarındaki davanın husumet yokluğundan reddine karar verilmesinde bir isabetsizlik yoktur.Davacı taraf dava dilekçesinde 2 numaralı davalı olarak herhangi bir mirasçı ismi zikretmeden"... mirasçıları"nı taraf olarak göstermiştir. Dava açıldıktan sonra mahkemenin verdiği yetki ile Bakırköy 40. Noterliğininden 04/08/2015 tarihnide mirasçılık belgesi almıştır. Bahsi geçen mirasçılık belgesinde... mirasçılarının mirası reddettiklerine dair herhangi bir şerh yoktur. Davalılar ..., ... ve ... vekili davaya cevap dilekçesinde müvekkillerinin mirası reddettiklerini beyan etmesi üzerine dosyaya celp edilen Manisa 1. Sulh Hukuk mahkemesinin 2014/639 E. 2015/317 Karar numaralı 17/03/2015 tarihli kararı ile mirası red vakıası davacı tarafça bilinir hale gelmiştir.
 Bu durumda ilk derece mahkemesince mirası redden davalılar hakkında tebligat çıkarılarak husumet yöneltilmesinde davacının bir kusuru bulunmamakla bu davalılar yararına vekalet ücretine hükmedilmesi isabetli olmamıştır.Davalı ...'nin pasif husumetine yönelik istinaf sebepleri yönünden yapılan değerlendirmede; davacı şirketin müşterilerine ait bir kısım paket ve kargonun İstanbul'dan İzmir'e taşınması hususunda 09/05/2014 tarihli "emtia taşıtma sözleşmesi (tek seferlik)" imzalandığı, sözleşmenin taraflarının taşıtan... A.Ş. ile taşımacı ... Koop. olarak belirtildiği, davacı beyanı ile sözleşmenin sürücü vefat eden sürücü...' tarafından imzalandığı, davalı kooperatifçe sözleşme üzerindeki imzaların kooperatifi temsile yetkili kişilere ait olmadığı, ayrıcı KK ve ana sözleşme gereği iki imza ile kooperatifin temsil edildiği belirtilerek davacı ile taşıma sözleşmelerinin bulunmadığı, pasif husumetlerinin olmadığı savunulmuştur.1163 sayılı Kooperatifler Kanunu 58.
 
 ## İstanbul BAM 16. HD 2024/1481 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066475800)
 
 …
 
@@ -101,12 +113,16 @@ Somut olayda, davacılardan ...'nin istinaf aşamasında, 17/10/2023 tarihinde v
 
 ## İstanbul BAM 4. HD 2024/70 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981702600)
+
 …
 
 : İnceleme, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 355. maddesi gereğince istinaf dilekçelerinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır. Dava; Haksız eylemden kaynaklanan alacağa yönelik itirazın iptali davasıdır. Dosyanın incelenmesinde dava tarihinin 03/02/2015, karar tarihinin 28/02/2017 olduğu , davalının 16.10. 2021 tarihinde vefat ettiği anlaşılmakla davanın davalının sağlığında ve taraf ve dava ehliyetine haiz iken görülüp karara bağlandığı anlaşılmakla davada taraf teşkilinin usulüne uygun sağlanmış olduğu anlaşılmıştır. İstinaf başvurusunda bulunan tarafından dilekçe ekinde sunulan Ankara 7. Sulh Hukuk Mahkemesi'nin 2021/1188 Esas - 2022/170 Karar sayılı ilamına göre; TMK'nın 609. maddesi gereğince, ...T.C. Kimlik numaralı muris ...ın mirasının, mirasçılar: ... T.C.Kimlik numaralı mirasçı ..., ve ... T.C. Kimlik numaralı küçük mirasçı ... adına kayyım ... - tarafından kayıtsız şartsız reddedildiğinin tespit ve tesciline karar verildiği görülmüştür. 6721 sayılı yasanın 611. maddesine göre;
 Yasal mirasçılardan biri mirası reddederse onun payı, miras açıldığı zaman kendisi sağ değilmiş gibi, hak sahiplerine geçer. Bu durumda mirası reddeden mirasçının davalının sağlığında verilen kararı istinaf etme hakkı yoktur. Mirasın reddine ilişkin ilam, muris hakkında verilen kararın infazında takip dosyasında mirasın reddedildiğini gösteren belge niteliğinde olmakla beraber iş bu dava yönünden mirası reddedenlere istinaf hakkı vermez.
 
 ## İzmir BAM 14. HD 2024/16 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980316300)
 
 Dava, bağımsız bölüm (kat) karşılığı inşaat sözleşmesinden kaynaklanan tapu iptali ve tescil isteğine ilişkindir.
 
@@ -115,6 +131,8 @@ Dava, bağımsız bölüm (kat) karşılığı inşaat sözleşmesinden kaynakla
 Müteveffa ...'ın en yakın mirasçılarının mirasını reddetmeleri nedeniyle terekesinin TMK.'nın 612. Maddesi gereğince iflas hükümlerine göre tasfiyesine karar verildiği, tasfiye memuru olarak atanan kişilerin davaya dahil edilerek bu konudaki taraf teşkilinin sağlandığı, ilgili karar ve belgelerden anlaşılmıştır.
 
 ## İstanbul BAM 9. HD 2023/1516 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936507200)
 
 Dava ölümlü trafik kazası nedeniyle destekten yoksun kalma tazminatı istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355.
 
@@ -126,6 +144,8 @@ O halde mahkemece yapılması gereken yargılama sırasında vefat eden davacı 
 Kaldı ki davacılar ölenin salt mirasçısı sıfatıyla değil, destekten yoksun kalan üçüncü kişi sıfatıyla dava açtığı gözetildiğinde, nasıl ki ölüm nedeniyle doğrudan davacı üzerinde doğan destekten yoksunluk zararının oluşumundaki kusur davacılara yansıtılamayacak ise (sürücü) desteğin müterafik kusuru da aynı şekilde davacılara yansıtılamayacaktır. Bu nedenle desteğin kusuru ile destek emniyet kemeri takmadığından müterafik kusur indirimi yapılması gerektiğine ilişkin davalı vekilinin istinaf başvurusu yerinde değildir. İlk Derece Mahkemesince; Dairemiz kararı doğrultusunda nüfus kayıtları getirtilerek taraf teşkili sağlanmış, desteğin evlatlık verildiği anlaşılmıştır.
 
 ## İstanbul BAM 14. HD 2023/1342 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936857400)
 
 TTK'nın 253.maddesi " (1)Şirket sözleşmesinde şirketin ölen ortağın mirasçılarıyla devam edeceğine ilişkin düzenleme yoksa, mirasçılarla diğer ortakların oybirliğiyle verecekleri karar üzerine şirket bunların arasında devam edebilir.Mirasçılar yahut içlerinden biri şirkette kalmaya razı olmazlarsa, diğer ortaklar, ölen ortağın razı olmayan mirasçılarına düşen payları ödeyerek onları şirketten çıkarır ve aralarında şirkete devam edebilirler.Bu durumda sağ kalan ortaklardan birinin şirketin devamına onay vermemesi sebebiyle oybirliği sağlanamadığı takdirde şirket sona erer.(2) Şirketin, ölen ortağın mirasçılarıyla diğer ortaklar arasında kollektif şirket olarak devam edeceği hakkında şirket sözleşmesinde hüküm varsa, mirasçılar kollektif sıfatıyla şirkete devam edip etmemekte serbesttirler. Mirasçılar şirketin devam etmesini isterlerse, diğer ortaklar bu isteği kabul etmek zorundadır. Ancak, kollektif sıfatıyla şirkette kalmak istemeyen mirasçı varsa, ölen ortağın payından kendisine düşen tutar ile komanditer olarak şirkete kabul edilmesini önerebilir. Diğer ortaklar bu öneriyi kabul etmek zorunda değildir.
 Mirasçılar şirkete kollektif ortak veya komanditer olarak girip girmeyeceklerini ortağın ölüm tarihinden itibaren üç ay içinde şirkete ihbar etmelidir. Durumun şirkete ihbarına kadar, mirasçılar şirkette komanditer olarak kalmış sayılırlar. Bu süre içinde ihbarda bulunmamış olan mirasçılar, sürenin sona ermesinden itibaren kollektif ortak sıfatını alırlar." hükmünü içermektedir. TTK'nın 243.maddesi ile atıf yapılan TBK'nın 639/2.maddesi "Sözleşmede ortaklığın mirasçılarla sürdürülmesi konusunda bir hüküm yoksa ortaklardan birinin ölümü ile ortaklık sona erer." hükmünü içermektedir. TTK'nın 243 ve 245.maddesi ile ile TBK'nın 639.maddeleri şirketin infisahı, fesih ve tasfiyesine ilişkindir. Bu bilgilere göre somut olay incelendiğinde; sicil kayıtlarına ve kuruluş sözleşmesine göre münfesih olduğunun tespiti istenen davalı şirketin ortaklarının, 1/2'şer hisse sahibi olarak davacı ile davalı ... olduğu, davalı ...'ün yargılama sırasında vefat ettiği anlaşılmaktadır.
@@ -143,10 +163,14 @@ Taraf teşkili kamu düzenine ilişkin olup yargılamanın her aşamasında rese
 
 ## İzmir BAM 11. HD 2023/796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897986800)
+
 TMK'nun 618.maddesinde "Ödemeden aciz bir miras bırakanın mirasını reddeden mirasçılar, onun alacaklılarına karşı, ölümünden önceki beş yıl içinde ondan almış oldukları ve mirasın paylaşılmasında geri vermekle yükümlü olacakları değer ölçüsünde sorumlu olurlar. Olağan eğitim ve öğrenim giderleriyle adet üzerine verilen çeyiz bu sorumluluğun dışındadır. İyi niyetli mirasçılar ancak geri verme zamanındaki zenginleşmeleri ölçüsünde sorumlu olurlar." şeklinde düzenlendiği, Kanun koyucunun murisin alacaklılarına mirasçıların mirası red hakkında mahrum olduklarının tespiti davası açma imkanını tanıdığı, bu madde gereğince murisin alacaklılarının korunmasının yasa maddesinde belirtilen koşullara bağlı kılındığı, bu bağlamda mirasın açılmış olmasının, ödemeden aciz bir murisin bulunmasının, mirasın süresi içerisinde reddedilmesinin, reddeden mirasçıya kazandırma yapılmış olmasının aranan koşullar olup, mirasın kayıtsız şartsız reddi kararının iptalinin ise davalı tüm mirasçılara yöneltilmesi gerekmektedir.
 Somut olayda davalı şirketin bu bağlamda herhangi bir iptal davası açtığına ilişkin delil sunmadığı gibi, davaya dayanak teşkil eden bir adet çekin incelenmesinde tanzim tarihinin 01.10.2018 tarihi olup, müteveffa ...'ın ise vefatının 31.07.2018 tarihinde gerçekleştiği, kaldı ki dosyaya murise ilişkin herhangi bir veraset belgesinin dahi sunulmadığı görülmekle, davalı vekilinin TMK 618.maddesine dayalı istinaf istemlerinin yerinde olmadığı değerlendirilmiştir.
 
 ## İstanbul BAM 43. HD 2023/722 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916738600)
 
 …
 
@@ -155,6 +179,8 @@ Maddesine göre, en yakın yasal mirasçıların tamamı tarafından reddolunan 
 HMK'nın 355. maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılan istinaf incelemesi sonunda; ilk derece mahkemesince davacı aleyhine vekalet ücreti takdir edilmesi isabetli görülmemiş ve bu nedenle davacı vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına, yeniden yargılama yapılmasına gerek bulunmadığından Dairemizce ilk derece mahkemesi kararı düzeltilerek yeniden esas hakkında aşağıdaki şekilde karar verilmiştir.
 
 ## İstanbul BAM 45. HD 2023/559 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883616700)
 
 Dava, kooperatif üyeliğinden kaynaklı tapu iptal ve tescil davasıdır.
 
@@ -165,6 +191,8 @@ MK m.8, m.48) buna göre hak ehliyetine sahip olan her gerçek (MK m.8) ve tüze
 Dava açıldıktan sonrada sınırlayıcı bir neden bulunmadığı takdirde dava konusu malın veya hakkın üçüncü kişilere devredilebilmesi mümkündür.
 
 ## Trabzon BAM 4. HD 2023/19 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847056500)
 
 Dava konusu uyuşmazlık; haksız fiil nedeniyle tazminat istemine ilişkindir.
 

@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2025/127 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1124482800)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; dava konusu uyuşmazlığın niteliği ve temyizin kapsamının, muris tarafından dava dışı Deniz Turizm Donatım Sanayi Ticaret Anonim Şirketindeki hisselerinin muvazaalı olarak davalılara devredildiği iddiasına dayalı, şirket pay devrinin iptali ile davacının miras payı oranında tescil istemine ilişkin olduğu, şirkete ait hisse devri sözleşmesi ile temlik işleminin 01.04.1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararı uyarınca muris muvazaasına konu olamayacağı anlaşılmaktadır.
 
 ## Yargıtay 1. HD 2020/6725 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623721300)
 
 1947 doğumlu mirasbırakan ...’ın 07.12.2010 tarihinde vefatı ile geride mirasçı olarak davacı kızları ..., ..., davalı oğulları ... ve ... ile dava dışı eşi ..., dava dışı kızları ..., ..., ...’i bıraktığı; mirasbırakan Muharrem’in çekişme konusu 1302 ada 4 parsel sayılı taşınmazdaki 3 nolu bağımsız bölümü 11.01.2010 tarihli akitle ölünceye kadar bakma akdi ile 1/2'şer paylı olarak davalı oğulları ... ve ...'ya; 1572 sayılı parseli ise 25.03.2010 tarihli akitle satış suretiyle davalı ... Tarım Hayv. San. Tic. Ltd. Şti.' ne temlik ettiği, anılan şirketin 13.04.2010 tarihinde 22.000,00 TL, 27.04.2010 tarihinde ise 37.100,00 TL parayı mirasbırakanın banka hesabına tarla satış bedeli olarak yatırdığı, bu paranın 36.000,00 TL’sini davalı ...'nın 28.04.2010 tarihinde bankadan çektiği, mirasbırakanın 1982 yılından itibaren giyim mağazası işlettiği, daha sonra ... Giyim Konfeksiyon Manifatura Çanta Dayanıklı Tüketim Malları San. ve Tic. Ltd.
 Şti'nin 18.03.2005 tarihinde mirasbırakan ve davalı oğlu ... tarafından kurulduğu, 23.10.2009 tarihli hisse devir sözleşmesi ile mirasbırakanın bu şirketteki 125 payını davalı oğlu ...'e satış suretiyle devrettiği, halen davalılar ... ve ...'nın anılan şirketin 1/2'şer paylı ortakları bulundukları, ... Tarım ve Hayvancılık San. Tic. Ltd. Şti'nin ise, 25.03.2010 tarihinde kurulduğu, anılan şirkette davalılar ...'ın % 20, ...'ın % 20 dava dışı mirasbırakanın arkadaşı ...'in çocukları ...'ın %35, ...'ın % 15 ve mirasbırakanın damadı ...'ın %10 pay sahibi oldukları anlaşılmaktadır.Hemen belirtilmelidir ki, hükmüne uyulan bozma ilamı ile araştırma yapılarak dava konusu 1302 ada 4 parsel sayılı taşınmazdaki 3 nolu bağımsız bölümün ölünceye kadar bakma akdi ile davalılar ... ve ...’ya yapılan temlikin muvazaalı olmadığı, bakım amacıyla yapıldığı belirlenerek bu taşınmaza yönelik davanın reddedilmesinde bir isabetsizlik yoktur. Davacılar vekilinin bu yöne ilişkin yerinde görülmeyen temyiz itirazlarının reddine.Davacılar vekilinin diğer temyiz itirazlarına gelince;
@@ -33,15 +37,21 @@ Giyim şirketindeki pay devri yönünden davanın kabulüne karar verilmesi gere
 
 ## Yargıtay 11. HD 2014/19689 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355330300)
+
 Muris muvazaasıyla ilgili 01/04/1974 günlü ve 1/2 sayılı İçtihadı Birleştirme Kararının tapulu taşınmazların satışıyla ilgili ve konusuyla sınırlı olması nedeniyle uyuşmazlık konusu olayda uygulanması olanaklı değildir. Ancak, muvazaalı işlemlerin bağlayıcı bir hukuki sonuç doğurmayacağı, zaman itibariyle somut uyuşmazlığa uygulanması gerekli mülga 818 sayılı BK'nın 18. maddesinde genel bir ilke olarak düzenleme altına alınmış bulunmaktadır. Bundan dolayı, somut olaydaki uyuşmazlığın 818 sayılı BK'nın 18. maddesi kapsamında değerlendirilmesi gerekmektedir. Davacı tarafça muvazaalı olduğu ileri sürülen limited şirket hisse devri, 1985 yılında gerçekleşmiş, muris ise 1991 yılında ölmüştür. Murisin ölümü ile dava dışı şirkette bulunan hisselerinin bir kısmı ölüm tarihinde davacıya ve diğer mirasçılara intikal etmiş olup davacı ölüm tarihinden itibaren dava dışı şirkete ortak olmuştur. Murisin ölümünden yaklaşık 20 yıl sonra, murisin davalıya yaptığı hisse devrinin muvazaalı olduğu iddiası ile işbu iptal davasının açılmasının MK'nın 2. maddesi ile bağdaştığı söylenemez.
 Ayrıca, her ne kadar iptal olmadığı takdirde davalıya intikal eden şirket hisselerinin tenkisi talep edilmiş ise de ölüm tarihi itibariyle yürürlükte bulunan 743 sayılı Medeni Kanun'da öngörülen hak düşürücü sürelerin (TMK 571. md.) dava tarihine kadar geçtiği anlaşıldığından bu talep yönünden de dava yerinde değildir. Bu itibarla, mahkemece açıklanan nedenlerle davanın reddine karar verilmesi gerekirken yazılı gerekçeyle reddi yerinde değilse de, sonucu itibariyle doğru olan hükmün gerekçesi açıklanan şekilde değiştirilerek onanması gerektiğinden davalılar vekilinin karar düzeltme isteminin kabulü ile Dairemiz bozma ilamının kaldırılarak mahkeme kararının gerekçesi açıklanan şekilde değiştirilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 11. HD 2013/16080 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/695307600)
+
 Muris muvazaasına dayalı olarak yapılması gereken inceleme ve araştırmanın temelini, tarafların ekonomik güç ve ihtiyaçları, devre konu edilen hisselerin bedellerinin ödenip ödenmediği, ödendi ise buna ilişkin kayıtların bulunup bulunmadığı, hisse devrinin gerçek değer üzerinden yapılıp yapılmadığı, murisin ekonomik olarak böyle bir devre ihtiyacının bulunup bulunmadığı, başkaca mal varlığı veya parasının olup olmadığı hususları oluşturmaktadır. Buna karşın somut olayda mahkemece davalının ekonomik durumunun incelenmesiyle yetinilmiş, davacının murisinin elinde bulundurduğu hisseleri davalıya devretmesinin kendisi yönünden gerekli olup olmadığı ve şirketin cirosu, aktifleri, kar durumu gibi unsurlar da göz önünde bulundurulmak suretiyle büyüklüğü de hesaba katılarak, devrin gerçek değer üzerinden yapılıp yapılmadığı incelenmemiştir. Bu kapsamda, mahkemece yapılan sınırlı inceleme ve araştırmanın, tarafların murisinin davalı ile yapmış olduğu işlemin muvazaalı olup olmadığının belirlenebilmesinde aydınlatıcı bir etkisi bulunmamaktadır.
 O halde mahkemece, yukarda değinilen hususlar çerçevesinde muris muvazaasının objektif ve subjektif unsurları üzerinde taraf kanıtları çerçevesinde durularak, muris ... ile davalı arasında yapılan sözleşmenin muvazaalı olup olmadığının belirlenmesi gerekirken, yazılı gerekçeyle eksik inceleme ve araştırmaya dayalı olarak hüküm kurulması doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2012/2890 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914944600)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkin olup, mahkemece 5 parsel sayılı taşınmazdaki 8 nolu bağımsız bölüm yönünden temliki işlemin mirasçıdan mal kaçırma amaçlı ve muvazaalı olduğu belirlenmek suretiyle davacının miras payı oranında tapu iptali ve tescil isteğinin kabulüne karar verilmiş olmasında bir isabetsizlik yoktur.
 
@@ -61,6 +71,8 @@ ancak işlemin iptali için bu tespitin yeterli olmadığı, ancak ve ancak muri
 
 ## İstanbul BAM 43. HD 2025/1982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185516200)
+
 …
 
 :Dava, davacının mirası bırakanı tarafından dava dışı ...- ... ... Kalıpçılık İnş. San ve Tic Ltd. Şti nezdindeki %3 oranına isabet eden hisselerin üçüncü kişilere olan borçları nedeniyle muvazaalı olarak davalıya devredildiği iddiasıyla hisse devrinin iptali ile veraset ilamındaki miras payı oranında davacı adına tescili ve Ticaret Sicil Müdürlüğüne kayıt ve tescili istemine ilişkindir. İlk derece mahkemesince davanın aktif dava ehliyeti yokluğu nedeniyle reddine karar verilmiş, verilen karara karşı davacı vekili tarafından istinaf başvurusunda bulunulmuştur. Somut olayda dava dışı ...-... ... Kalıpçılık İnş. San ve Tic Ltd. Şti'ye ait 09.02.2010 tarihli Ticaret Sicil Gazetesinde yayımlanan 02.02.2010 tarih ve 2994 sayılı ortaklar kurulu kararı ile şirket hissedarlarından...'in, 103.000 TLlik hissesini İstanbul 27.Noterliğinin 01.02.2010 tarih ve ... yevmiye numaralı hisse devir sözleşmesi ile ...'ye , kalan 5.000 TLlik hissesini İstanbul 27.Noterliğinin 01.02.2010 tarih ve ... yevmiye numaralı hisse devir sözleşmesi ile davalıya devrettiği ve şirket ortaklığından ayrıldığı görülmüştür.
@@ -71,15 +83,21 @@ Bir mirasçı tüm mirasçılar adına tek başına dava açabilirse de böyle b
 
 ## İstanbul BAM 43. HD 2025/1437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182908800)
+
 …
 
 davanın (iddianın) temelinin muris muvazaası olduğu, mahkemece yapılacak yargılamada murisin mirasçılarının hukukunu zedeleyen malvarlığı haklarına yönelik muvazaalı bir işlemi olup olmadığı iddiasına dayalı olarak inceleme yapılacağı, tarafların bu davada sunacağı deliller, tanık beyanları, hepsi muris muvazaasının varlığını ya da yokluğunu ispat amaçlı olacağı nazara alındığında bu iddialara yönelik değerlendirme görevinin de HMK'nın 2. maddesi uyarınca genel görevli mahkeme olan Asliye Hukuk Mahkemesine ait olduğu kabul edilmektedir (Bu yönde bkz. Yargıtay 1. HD.nin 2014/11204 E., 2015/14214 K. sayılı ilamı, İstanbul BAM 14. HD'nin 2021/1593 Esas, 2021/1473 K.sayılı ilamı).
 
 ## Sakarya BAM 3. HD 2025/7 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109424800)
+
 Ayrıca davacıların muris muvazaası hukuksal nedenine dayalı olarak açtıkları davada şirkete ait hisse devri sözleşmesi ile temlik işleminin 01/04/1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararı uyarınca muris muvazaasına konu olamayacağı açık olup, ticaret sicillerine resmi olarak yazıldığından TBK'nin 19. maddesi uyarınca genel muvazaa kapsamında değerlendirilmesi gerektiğinde kuşku olmamakla birlikte, davacı mirasçılar sözleşmenin tarafı olmadığından sözleşmenin muvazaalı olarak yapıldığı iddiası her türlü delille kanıtlanabileceği gözetilmeksizin ,mahkemece TBK 19. Maddesi kapsamında yapılan değerlendirmede üçüncü kişi konumunda olan davacıların taraf muvazaasına ispata yarar yazılı delil ibraz edemedikleri kabul edilerek davanın reddine karar verilmesi de dairemizce yerinde görülmemiştir.
 
 ## İstanbul BAM 12. HD 2024/1674 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085163600)
 
 …
 
@@ -87,6 +105,8 @@ Ayrıca davacıların muris muvazaası hukuksal nedenine dayalı olarak açtıkl
 Bunu değerlendirme görevi de 6100 sayılı HMK'nın 2 maddesi uyarınca Asliye Hukuk Mahkemesine aittir. Dava muris muvazaasına dayalı hisse devrinin iptali davası olup, 6102 sayılı kanunun 4.maddesinde yazılmış mutlak ticari davalardan olmadığı gibi aynı kanunun 5.maddesinde yazılı olduğu gibi nisbi ticari davalardan da olmadığı, bu itibarla ticari dava mahiyetinde olmayan davaya bakma görevinin Asliye Hukuk Mahkemesine ait olduğu, mahkemece davanın esasına bakmakla görevli olmadığı halde davanın esasına girilerek karara bağlanması yerinde bulunmamıştır.
 
 ## İstanbul BAM 43. HD 2024/715 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038788300)
 
 …
 
@@ -96,6 +116,8 @@ Bu haliyle uyuşmazlığın çözümünde asliye ticaret mahkemesi değil HMK'n�
 
 ## İstanbul BAM 13. HD 2024/450 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1011641200)
+
 A.Ş.'nin ise belgelerin tanzim tarihinden sonra, 2009 yılında kurulduğu ve murisin bu şirkette hiç hissedar olmadığı, dava tarihi itibariyle davalı ...'ın davalı şirketlerin çoğunluk hissesine sahip olduğu, buna göre davacılar tarafından inançlı işlem iddiası kapsamında, inanan (muris) tarafından inanılana (davalı ...) 1980 yılında Almanya'ya gitmesi sebebiyle, ileride iade edilmek üzere hisselerini devrettiğine dair iddianın ispat edilemediği, davalı ... tarafından, tek taraflı olarak düzenlediği belgelerdeki beyanın kabul edilmediği, muris ... tarafından, tanığın beyanı ve davacıların iddiasına göre devrin yapıldığı 1980 yılından vefatına kadar, yani 35 yıl boyunca bu belgelere dayanılarak herhangi bir hak iddiasında bulunulmadığı gibi, davacılar tarafından da bu belgelerin ellerinde olduğunu kabul ettikleri 2005 yılından itibaren, 2013 yılında genel kurul karar iptali talebi ile açtıkları davalara kadar herhangi bir hak iddiasında bulunulmadığı, davacıların hissedar olarak 2013 yılına kadar davalı şirketlerin genel kurullarına katıldıkları ve genel kurullarda alınan kararlara bu sebeple muhalefet etmedikleri, İlk Derece Mahkemesi'nin 2014/810 Esas karar sayılı kararının
 gerekçesinde;
 "davalı ...'ın ...'dan hisseleri ne şekilde devraldığı konusunda bir açıklık bulunmamakla birlikte, davalı ...'ın hisseleri kanuna aykırı biçimde devraldığı kanıtlansa dahi yaklaşık 18 yıl sonra bu devrin geçersizliğini ileri sürerek genel kurul kararlarının iptalini talep etmenin, aradan geçen uzun zaman ve sermaye artırımları dikkate alındığında TMK madde 2 anlamında hakkın kötüye kullanımının ihlali anlamına geldiği"nin kabul edildiği, anılan kararın Yargıtay incelemesinden onanarak geçtiği, her ne kadar konularının farklı olması sebebiyle anılan dosyada verilen kararın taraflar açısından bu dosyada kesin hüküm teşkil ettiği kabul edilemez ise de, kuvvetli delil mahiyetinde olduğunun açık olduğu, dolayısıyla muris ve tarafların bu belgelerin geçerli olmadığı yönünde örtülü bir irade beyanı sergiledikleri ve aksinin iddia edilmesinin TMK'nın 2. maddesinde düzenlen dürüstlük kuralına aykırılık teşkil ettiği, davacıların dayandıkları ikinci hukuki sebebin muris muvazaası olduğu, Mahkemece de kabul edildiği üzere muris muvazaasından bahsedilebilmesi için görünürde bedeli ödenerek yapılmış bir hisse devri işleminin bulunması, bu işlemin arkasına aslında bağışlama suretiyle yapılan
@@ -103,6 +125,8 @@ hisse devrinin gizlenmesi ve üçüncü olarak da murisin bu işlemi mirasçıla
 bulunmadığı, kaldı ki banka kayıtları için daha önce istinabe işlemi yapıldığı ancak sonuç alınamadığı, davalılar vekilinin vekaletnamesi ve yaptığı işlemlerin geçerli olduğu, Mahkemece 17.03.2016 tarihli ve 2 nolu duruşmada verilen ara karar ile davacıların bu itirazlarının karşılandığı, sonuç olarak Mahkemece verilen kararın usul ve yasaya uygun ve davacılar vekili ile tereke temsilcisinin aksi yöndeki istinaf sebeplerinin isabetsiz olduğu anlaşılmıştır.
 
 ## İstanbul BAM 37. HD 2021/1816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/702242400)
 
 K A R A R Dava, muris muvazaasına dayalı limited şirket hisse devrinin, iptali olmadığı takdirde tenkis talebine ilişkindir. İstanbul 9. Asliye Hukuk Mahkemesince, davalı gerçek kişiler aleyhine açılan tapu iptal ve tenkis davaları elde tutularak muris muvazaasına dayalı şirket hisse devrine yönelik davanın Ticaret Mahkemesinde görülmesi gerektiği gerekçesiyle dava tefrik edilerek görevsizlik kararı verilmiştir. İstanbul 2. Asliye Ticaret Mahkemesince, şirket hisse devirlerinin şekli yönden uyuşmazlık konusu olmadığı, davacının genel hükümler uyarınca Asliye Hukuk Mahkemesinde görülmesi gerektiği gerekçesiyle görevsizlik kararı verilmiştir. 6102 sayılı Türk Ticaret Kanununun 4/1. maddesinde her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ve çekişmesiz yargı işlerinin ticari dava ve ticari nitelikte çekişmesiz yargı işi sayılacağı hüküm altına alınmıştır. Buna göre, bir uyuşmazlığın ticari nitelikte olabilmesi için, her iki tarafın da ticari işletmesini ilgilendirmesi yahut aynı maddenin alt bentlerinde düzenlenen istisnalardan birine dahil olması gerekmektedir.
 Somut olayda davacılar vekili, davalı gerçek kişilerle müvekkillerinin kardeş olduklarını, 18/07/2006 tarihinde vefat eden ...'ın mirasçıları olduklarını, murislerinin ölmeden önce İstanbul Ticaret Sicil Müdürlüğü'nde ... sicil no.da kayıtlı ... Ltd.Şti'de adına kayıtlı olan 800.000.000,00 TL karşılığı hisse payının 200.000.000,00 TL'şer hissesini Beşiktaş ...

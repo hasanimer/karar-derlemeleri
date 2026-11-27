@@ -63,6 +63,8 @@ Bir icra takibinde icra dairesinin yetkisine itiraz edilmiş ise, bu itiraz usul
 
 ## Adana BAM 9. HD 2024/1698 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1075300600)
+
 Davalılar vekili cevap dilekçesi ile; davalı müvekkillerinden ...'un davacı aleyhine ... . Asliye Hukuk Mahkemesi'nin ...
 
 …
@@ -80,6 +82,8 @@ Esas sayılı takip dosyasınında bir kısım takip borçlularına tebligatlar�
 
 ## İstanbul BAM 3. HD 2024/1629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1050419500)
+
 Kat ... nolu bağımsız bölümde kain taşınmaz için dava dışı firmalar ile yapılan anlaşma gereği 600.000,00 TL tahsilat sağlandığı zaman borçluya yada göstereceği 3.kişiye vefa hakkı verileceğinin kararlaştırıldığı, yine protokol incelendiğinde vefa hakkı süresinin 30/12/2022 tarihi olduğunun açıkça belirtildiği, Vefa hakkı sahibi kişilerin borçlular yada borçlular tarafından yazılı olarak bildirilecek 3.kişiler olduğu, yapılan protokol incelendiğinde davacının söz konusu protokolde taraf olmadığı, dava dilekçesinde davacı ile müvekkili davalı arasında bir anlaşma olduğu belirtilmiş olmasına rağmen, böyle bir anlaşma bulunmadığı,borcun tasfiyesi ile ilgili dava dışı firma ile protokol imzalanmış olup, davacı ile banka arasında herhangi bir anlaşma bulunmadığı, davacı ile dava dışı firmalar ve kefiller arasında imzalanan yada kararlaştırılan bir anlaşma mevcut ise bu durumda söz konusu ödemelerin dava dışı borçludan talep edilmesi gerektiği, cevap dilekçesinde belirtilen hususların ve dosya içerisindeki belgelerin hiçbiri incelenmeden davacı tarafından ileri sunulmayan sebeplerle, bilirkişi incelemesi dahi yapılmadan davanın kabulüne karar verilmesinin hakkaniyete aykırı olduğu,
 Mahkemece hiçbir araştırma yapılmadan bilirkişi incelemesi bile yapılmadan eksik inceleme ile karar verildiği, ayrıca dosyada sebepsiz zenginleşme koşullarının oluşmadığı, Bankanın davacı tarafından yatırıldığı iddia edilen paranın bankanın aktifini arttırdığı gerekçesi ile sebepsiz zenginleştiği ile ilgili hüküm kurulmuş ise de, söz konusu tahsilat ile dava dışı firmanın borcundan düşüm yapıldığı, Bankanın aktifinde herhangi bir artma olmadığı, bu durumun bilirkişi incelemesinde ortaya çıkacakken mahkemece bilirkişi incelemesi dahi yapılmadan eksik inceleme ile karar verildiği,bu sebeplerle kararın usul ve hukuka aykırı olduğu ileri sürülerek,kaldırılması istenmiştir.HMK.nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava , itirazın iptali talebine ilişkindir. Davanın dayanağı olan İstanbul Anadolu ...İcra Müdürlüğünün ...
 
@@ -91,6 +95,8 @@ Somut olayda ,davacı tarafça banka havalesi ile 37 no.lu daire satış bedeli 
 K A R A R: Yukarıda açıklanan nedenlerle;Davalının istinaf talebinin kabulü ile karar HMK 353/1-b-2 maddesi uyarınca kaldırılarak yeniden esas hakkında; 1-Davanın kısmen kabulü ile davalı borçlunun icra takip dosyasındaki asıl alacağa itirazının iptaline …
 
 ## Ankara BAM 21. HD 2024/1520 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1116851400)
 
 Davacı vekili dava dilekçesinde özetle; davacı banka tarafından dava dışı asıl borçlu ... Mak. Beton Sant.
 
@@ -113,6 +119,8 @@ Taraf vekillerinin istinaf başvurularının HMK'nın 353/(1)-b.1 maddesi gereğ
 
 ## İstanbul BAM 12. HD 2024/1510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1075795500)
+
 İLK DERECE MAHKEME KARARI:
 Mahkemece; davacı banka ile davalı şirket arasında "Genel Kredi ve Teminat Sözleşmesi" imzalandığı, davalı kefil ...'nın müteselsil kefil sıfatıyla sözleşmeyi imzaladığı, kefilin sorumlu olacağı azami tutarın, kefalet verilen tarihin ve müteselsil kefil olunduğunun davalı kefil tarafından kendi el yazısı ile yazıldığı, kefalet sözleşmesinin kanunda gösterilen geçerlilik şartlarının bulunduğu, sözleşme kapsamında asıl borçluya kullandırılan ticari kredi borçlarının ödenmediği, 04.12.2017 tarihli kat ihtarının 07.12.2017 tarihinde asıl borçlu ve davalı müteselsil kefile tebliğ edildiği, yapılan hesaplamalarla davacı banka alacağının 02.03.2018 takip tarihi itibariyle taksitli ticari krediden kaynaklı toplam 50.886,80-TL olduğu, taleple bağlılık ilkesi uyarınca 47.725,64-TL miktarın hükme esas alınması gerektiği, bu hali ile davalı borçlunun takibe haksız olarak itiraz ederek takibin durmasına sebebiyet verdiği gerekçesiyle davanın kısmen kabulüne, davalıların itirazının kısmen iptali ile takibin 44.333,40-TL asıl alacak, 3.042,51-TL işlemiş faiz, 152,12-TL BSMV, 362,24-TL masraf olmak üzere toplam 47.890,24-TL olmasına karşın dava değeri 47.725,67-TL üzerinden harç yatırıldığından bu
 miktar üzerinden devamına, asıl alacağa takip tarihinden itibaren işleyecek %27 oranında temerrüt faizi uygulanmasına, asıl alacağın %20'si oranındaki icra inkar tazminatının davalıdan alınarak davacıya ödenmesine, fazla istemin reddine karar verilmiştir.
@@ -122,6 +130,8 @@ miktar üzerinden devamına, asıl alacağa takip tarihinden itibaren işleyecek
 HÜKÜM:Yukarıda açıklanan nedenlerle: Davalılar vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İzmir BAM 20. HD 2024/1293 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1070305700)
 
 Davalı vekili cevap dilekçesinde özetle; davanın 1 yıllık hak düşürücü süreye tabi olan itirazın iptali davası olduğunu, davanın süresinde açılmadığını beyan ederek davanın reddine karar verilmesini talep ettiği görülmüştür.
 
@@ -138,6 +148,8 @@ Didim (Yenihisar) İcra Müdürlüğünün 2022/1016 Esas sayılı dosyasının 
 Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-a-4 maddesi gereğince ESASTAN KABULÜ ile, Aydın Asliye Ticaret Mahkemesi'nin 25/04/2024 tarihli, 2024/103 Esas ve 2024/242 Karar sayılı kararının KALDIRILMASINA …
 
 ## Ankara BAM 26. HD 2024/1145 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1077581800)
 
 Davacı vekili, 04.01.2019 tarihinde davacı sigorta şirketine zorunlu mali sorumluluk sigortası ile sigortalı olan ve davalı şirkete ait olup dava dışı ...'in idaresindeki ... plakalı aracın karıştığı zincirleme trafik kazası neticesinde, ..., ... plakalı araçların hasar gördüğünü, araçlarda oluşan hasar nedeniyle toplam 6.886,00 TL ödeme yapıldığını, ayrıca ... plakalı araç için Ankara 26.
 
@@ -156,6 +168,8 @@ Davacı vekilinin istinaf başvurusunun kabulü ile; ilk derece mahkemesi karar�
 
 ## İzmir BAM 11. HD 2024/1129 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037913300)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece iddia, savunma, bilirkişi raporu ve tüm dosya kapsamına göre, davacı banka ile davalı ... San Tic Ltd Şti arasında düzenlenen 19/10/2017 tarihli 20.000.000,00 TL limitli genel kredi ve teminat sözleşmesini diğer davalıların müteselsil kefil sıfatı ile imzaladıkları, davalıların İzmir 2.
 
 …
@@ -167,6 +181,8 @@ Diğer taraftan davalılar vekilince sunulan 21/09/2022 tarihli dilekçe ve İzm
 İstinaf aşamasında davalılar tarafından İzmir 6.İcra Müdürlüğünün 2019/640 E. sayılı takip dosyasına yapılan itirazdan feragat edildiği anlaşılmakla İzmir 6.Asliye Ticaret Mahkemesinin 08.07.2021 tarih 2019/445 E. - 2021/414 K. Sayılı kararının Hukuk Muhakemeleri Kanunu'nun 353/1-b-2 maddesi uyarınca KALDIRILMASINA …
 
 ## Ankara BAM 31. HD 2024/1119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1103357400)
 
 Davacı vekili tarafından verilen dava dilekçesinde özetle; Davacı ile davalı şirket arasında akdedilen sözleşmeye göre tarafların "çift köprülü gezer vinç imalat montajı" hususunda anlaştıklarını, müvekkilinin işi tamamlayarak bitirdiğini, 22.10.2014 tarihli sözleşmenin 5/j maddesi uyarınca davalının müvekkiline 179 adam/gün borçlu olduğunu, bu borca istinaden 31.10.2018 tarih 44.750 Euro bedelli fatura düzenlendiğini, iş bu fatura bedelinin müvekkili şirkete davalı yanca ödenmediğini, bu borç için Ankara 15. İcra Müdürlüğü'nün 2018/13746 Esas ve Ankara 12.
 
@@ -193,6 +209,8 @@ Diğer yandan İİK'nın 67. maddesine göre, itirazın iptali davalarında, usu
 
 ## Ankara BAM 27. HD 2024/892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087929000)
+
 Davacı vekili: Taraflar arasında yapılan taşeron sözleşmesi gereğince müvekkili şirketin taşeron olarak sözleşmeden doğan yükümlülüklerini yerine getirmiş olmasına ve ayrıca söz konusu sözleşme kapsamında davalı/borçlunun asıl işveren idareden (DSİ Edirne Bölge Müdürlüğünden) hakediş ödemesini almasına rağmen müvekkilinin hakedişini ödemediğini, icra takibine konu olan 06.07.2021 tarihli "Tekirdağ-Saray Ayvacık Göleti İsale Hattı ve Arıtma Tesisleri Yapım İşinin 6 Nolu Hakediş Bedeli" konulu faturanın taraflar arasındaki sözleşmeden doğan alacağa ilişkin olduğunu, söz konusu faturada davalının müvekkili şirkete ödemesi gereken miktarın 261.064,66TL olup müvekkili tarafından e-mail aracılığı ile faturanın ayrıca gönderildiğini, davalının faturaya itiraz etmeyerek faturayı kabul ettiğini, ancak davalı şirketin söz konusu borcu ödemediğini, davalı aleyhine Ankara 32.
 
 …
@@ -209,6 +227,8 @@ Kooperatifler Kanunu uyarınca Kooperatif üyelerinin kooperatif üzerinde hakla
 E. sayılı takibine yapmış olduğu itirazın iptali ile 40.000,00 TL. üzerinden takibin devamına, hükmedilen 40.000,00 TL.nin % 20'si kadar icra inkar tazminatının davalıdan alınarak davacıya verilmesine karar verilmiştir.
 
 ## İstanbul BAM 17. HD 2024/570 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043936100)
 
 İLK DERECE MAHKEME KARARI: İlk derece mahkemesince, "Davacı tarafından 2.vinç ve makine kullanımı için 2.360 TL faturaya dahil etmiş ise de;Taraflar arasındaki Sözleşme ile 2.vinç ve makine kullanımı davalıya ait olup taraflar arasında davacı tarafından temin edileceği hususunda mutabık kalındığı iddiası ve ispatı da mevcut olmadığı nazara alındığından davacı tarafça 2. Vinç kullanım ücretinin talep edilemeyeceği anlaşılmıştır. Sözleşme ile taraflar sefer başı ücret kararlaştırmış olup burada tır veya kırkayak kamyon ayırımı yapılmadığı nazara alındığında davacı tarafça metrekare veya araç farkını ileri sürülmesinin uygun olmadığı, anlaşma uyarınca Sefer başına ücret alınması gerektiği, bu nedenle de 76 TIR seferi için 6.484,00 TL fazla talep edildiği ,ibraz edilen ve hükme esas alınan bilirkişi raporundaki tespitler uyarınca;
 İncelenen taraflara ait 2017 yılı ticari defterlerinin açılış ve kapanış tasdiklerinin yasal süresinde yaptırılmış olduğu, usulüne uygun tutulduğu, davacının kendi ticari defterleri ve cari hesap durumuna nazaran 15.05.2017 takip tarihi itibariyle davacı yanın davalı yandan 74.472,00 TL alacaklı olduğu, davalının kendi ticari defterleri ve cari hesap durumuna nazaran 15.05.2017 takip tarihi itibariyle davacıdan 39.500,00 TL alacaklı olduğu görülmekle birlikte davalı şirket ortağı ve aynı zamanda yetkilisi, ...’ın ...

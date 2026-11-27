@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Trabzon BAM 4. HD 2021/833 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704830500)
+
 Davacı-karşı davalı vekili dava dilekçesinde özetle; müvekkili ile davalı arasındaki ticari ilişki uyarınca müvekkilinin davalıdan alacaklı olduğunu, bu alacağın tahsili için başlatılan icra takibinin davalı-karşı davacının haksız ve kötü niyetli itirazı uyarınca durduğunu ileri sürerek icra takibine vaki itirazın iptali ile takibin devamına davalı-karşı davacı aleyhine icra inkar tazminatına hükmedilmesine karar verilmesini talep ve dava etmiştir.
 
 …
@@ -48,6 +50,8 @@ Somut olaya gelince; davacı yanca davalı şirketin 2014 yılı Olağan Genel K
 
 ## İstanbul BAM 17. HD 2021/694 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/662621700)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece, çekin teminat amaçlı olduğunu savunan davalı tarafın savunmasını kanıtlaması gerektiğini, takibe konu çekin üzerinde teminat çeki olduğuna dair kayıt olmadığı gibi, davalı tarafça sunulan sözleşmede de takip konusu çekin teminat senedi olduğuna ve teminat çeki düzenleneceğine dair kayıt bulunmadığı, çek fotokopisi altındaki davacı şirket çalışanı yazısının çekin teminat çeki olduğunu göstermeye yetmeyeceği, davalıların takibe itirazının haksız olduğu ve depo emrine rağmen borcun ödenmediği gerekçesiyle davalıların takibe itirazlarının kaldırılmasına ve iflaslarına karar verilmiştir.
 
 …
@@ -59,6 +63,8 @@ Esas sayılı dosyasında, davalı borçlu şirketler hakkında 15/02/2017 keşi
 Davanın yasal sürede ve şekil şartlarına uygun açılmış olduğu, alacaklı tarafından iflas avansının mahkeme veznesine depo edilmesi edildiğini anlaşılması sonrasında işin esası incelenmiştir.Davalı taraf, takip konusu çekin davacı ile davalı ...arasındaki sözleşme konusu işin temini için davacıya verildiğini savunmuştur. TTK'nın 780 maddesi uyarınca, çekin, kayıtsız ve şartsız belirli bir bedelin ödenmesi havalesini içermesi gerekir. Bir çekin taraflar arasındaki sözleşmeye göre kredi sözleşmesinin güvencesi olarak düzenlendiğinin ispatlanması halinde, bu çek teminat çekidir. Böyle bir çeke dayanılarak kambiyo senetlerine mahsus takip yapılamaz.Somut uyuşmazlıkta, Yargıtay 12. HD'nin 02/10/2017 tarih ve 2016/2014,11705 sayılı kararında da belirtildiği üzere; takip dayanağı çekte teminat amaçlı verildiğine yönelik bir açıklama olmadığı gibi, borçlunun çekin takip alacaklısı davacıya teminat olarak verildiği iddialarını senede açıkça atıf yapan bir sözleşme ile de ispatlamış değildir.
 
 ## İstanbul BAM 45. HD 2021/682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/672216800)
 
 Dava, İİK'nun 154 vd maddelerinde düzenlenmiş olan, iflas yoluyla takip sonucu, borçlunun icra takibine itirazı nedeniyle açılan itirazın kaldırılması ve iflas davasıdır.
 
@@ -76,6 +82,8 @@ H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere,1-Davalı vekilinin istin
 
 ## İstanbul BAM 44. HD 2021/649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664536600)
+
 İtirazın iptali davası takip ile sıkı sıkıya bağlı olduğundan, icra takip tarihi itibariyle belirlenen asıl alacak ve temerrüt faizi ile ferîleri, borçlunun takip tarihindeki sorumlu olduğu miktarı gösterir. Borçlunun takibe itirazından sonra yasal süresi içinde itirazın iptali davası açılması ve bu dava açılana kadar borçlu tarafından icra dosyasına ihtirazi kayıt konulmadan yapılan ödemeler veya alacaklının şahsına yada onun gösterdiği üçüncü kişiye kabul edilmek koşulu ile haricen yapılan ödemelerin bulunması durumunda, ödeme rızaen yapılmış olduğundan, borçlunun bu ödemeler yönünden itirazından vazgeçtiğinin kabulü gerekir.
 Ödemelerin alacaktan mahsubunda ise; takip tarihinde belirlenen asıl alacak, temerrüt faizi ve ferîleri toplamından mahsubu öncelikle Borçlar Kanunu hükümleri dikkate alınarak temerrüt faizinden yapılacağından, ödeme tarihine kadar takip tarihinde belirlenen asıl alacağa temerrüt faizi ve ferîleri uygulanıp bulunan toplamından ödemenin düşülmesi, fazlası var ise asıl alacaktan mahsup edilerek belirlenecek olan asıl alacak miktarının bulunması, bu şekilde yapılacak hesaplamaya göre ödemeden sonra dava tarihine kadar hesaplanacak temerrüt faizi ve ferîleri ile birlikte alacaklının dava tarihindeki alacağının tespit gerekir.
 ( Yargıtay HGK'nun 2017/19-822 Esas - 2018/1754 Karar sayılı ve 2017/19-910 Esas- 2018/1111 Karar sayılı kararları) Takip tarihinden önce usule uygun ihtar gönderilerek borçlu temerrüte düşürülmediği taktirde takip tarihine kadar temerrüt faizi oluşmaz ise de, takip açılmakla temerrüt oluşacağından, alacaklı takip tarihinden ödeme tarihine kadar faize hak kazanacağından, mahkemece yapılacak işlem; takip tarihinden harici ödemenin yapıldığı tarihe kadar işlemiş faiz ve fer'ilerini tespit ederek, yapılan ödemenin öncelikle Borçlar Kanunu hükümleri dikkate alınarak temerrüt faizinden düşülerek, bakiyenin borç aslından mahsubu ile bakiye borcun tespiti ve icra inkar tazminatı davada kabul edilen miktara göre belirleneceğinden, tespit edilen bakiye asıl alacak miktarı üzerinden takibin devamı ile icra inkar tazminatı konusunda karar vermektir. Mahkemece bu yönde hesaplama yapılmadığı tespit edildiğinden, davacı vekilinin istinaf sebebinin kabulü ile İstanbul 10. Asliye Ticaret Mahkemesi'nin 2015/810 Esas ve 2017/683 Karar sayılı kararının HMK 353/1-a/6. maddesi uyarınca kaldırılmasına karar verilmiştir.
@@ -83,6 +91,8 @@ H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere,1-Davalı vekilinin istin
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf isteminin KABULÜ ile, 2-İstanbul 10. Asliye Ticaret Mahkemesi'nin 11/05/2017 tarih ve 2015/810 E. 2017/683 K. sayılı Kararının 6100 Sayılı HMK'nın 353/1-a/6. hükmü gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2021/622 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/654371000)
 
 DELİLLERİN TARTIŞILMASI VE GEREKÇE: Dava, sözleşme gereğince avans olarak ödenen bedelin istirdatı için davacı tarafça başlatılan takibe davalı itirazının iptali istemine ilişkindir.Sözleşme ilişkisi ve sözleşme gereğince davacı şirketin davalıya 23.725,00 TL avans ödemesi yaptığı, davacının yeterli öğrenci sayasına ulaşılamadığından bahisle sözleşmenin 11. Maddesi gereğince sözleşmeyi tek taraflı olarak feshettiği hususları yanlar arasında çekişmesiz olup uyuşmazlık, davacının sözleşme gereğince fesih hakkını süresinde kullanılıp kullanmadığı, avans olarak ödediği bedelin iadesini isteyip isteyemeyeceği noktasında toplanmıştır. İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı dosyası incelendiğinde; davacının davalı aleyhinde 19.11.2012 tarihinde 23.725,00 TL asıl alacak, 1.33,65 TL faiz olmak üzere toplam, 25.064,65 TL üzerinden takip başlattığı, davalının takibe itiraz ederek takibi durdurduğu, davanın yasal bir yıllık süre içerisinde açıldığı anlaşılmıştır. Taraflar arasında akdedilen 05.01.2012 tarihli Paket Tur sözleşmesinin 2. Maddesinde, tatil programının 30 Martta başlaşacağı belirtildikten sonra 11.
 Maddesinde, "... herhangi bir neden göstermeksizin tek taraflı yazılı bir bildirimle en geç seyahat başlangıcına kadar önceden bildirmek kaydı ile sözleşmeyi feshedebilir. Seyahat başlangıcına 7 gün veya daha fazla bir süre kala yapılan fesihlerde ... veya diğer ilgililere ödenen miktarın tamamı, seyahat başlangıcına 7 günden az kala yapılan fesihlerde ise ... veya diğer ilgililere ödenen miktarın %90'nı firma tarafından fesih tarihinden itibaren en geç 7 gün içerisinde iade edilecektir." düzenlemesinin bulunduğu anlaşılmaktadır. Davacı şirketin Bakırköy ... Noterliğinin 23.03.2012 tarih, ... yevmiye nolu ihtarnamesi ile sözleşmeyi tek taraflı olarak feshettiği, ihtarnamenin davalıya gezi programının başlayacağı 30.03.2012 tarihinden 2 gün önce 28.03.2012 tarihinde tebliğ edildiği dosya kapsamından anlaşılmıştır. Tek taraflı irade açıklamasıyla bir hukuki ilişkinin kurulmasını, değiştirilmesini ya da sona erdirilmesini sağlayan, kayıt ve koşula bağlanması mümkün olmayan, kullanıldıktan sonra artık kendisinden dönülemeyen haklara yenilik doğurucu haklar denilmektedir. Sözleşmeyi fesih hakkı, hukuksal niteliği itibariyle bozucu yenilik doğuran bir haktır.
@@ -131,6 +141,8 @@ Somut olayda, davalı ... A.Ş ile davacı banka arasında 14/01/2015 tarihli 12
 
 ## İstanbul BAM 45. HD 2021/486 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/654951400)
+
 İLK DERECE MAHKEMESİ KARARI Bakırköy 1. Asliye Ticaret Mahkemesinin 2018/818 E.
 
 …
@@ -146,6 +158,8 @@ olduğu ileri sürülen fason boyama yapılan kumaşların tamamı üzerinde ay�
 …
 
 ## İstanbul BAM 17. HD 2021/199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/630231900)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece, davacının davalı hakkında iflas yolu ile başlattığı takibin itiraz edilmeden kesinleştiği, bu nedenle şekli bir inceleme yapılacağı ve alacaklının gerçekten alacaklı olup olmadığının incelenmeyeceği, takip kesinleştiğinin İİK'nın 166. maddesi uyarınca ilan edildiği, davalının depo emrine rağmen borcu ödemediği ve iflas avansının da yatırıldığı gerekçesiyle davalının iflasına karar verilmiştir.
 

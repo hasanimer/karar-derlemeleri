@@ -220,37 +220,37 @@
     {
       "alan": "Aile ve miras hukuku",
       "baslik": "Mal Rejiminin Tasfiyesine İlişkin Emsal Kararlar",
-      "bayt": 1285411,
+      "bayt": 1285494,
       "dosya": "kararlar/mal-rejimi.jsonl.gz",
       "kayit": 3757,
       "kod": "mal-rejimi",
       "md": "md/mal-rejimi/",
       "sayfa": 1345,
-      "sha256": "0187019833f38060cca9809ae7e849493f36fc2ddad3d305b81dbbfc1a773549",
+      "sha256": "e79ed198f8aca63631aed04b8c1e01833ca8f8cda9fd839bc5a76ffc51e96576",
       "surum": null
     },
     {
       "alan": "Aile ve miras hukuku",
       "baslik": "Miras Hukukuna İlişkin Emsal Kararlar",
-      "bayt": 3357952,
+      "bayt": 3358535,
       "dosya": "kararlar/miras.jsonl.gz",
       "kayit": 7713,
       "kod": "miras",
       "md": "md/miras/",
       "sayfa": 3253,
-      "sha256": "308515e68e4a8fd8dc13b7f7e02ecf09df9816f32688d3b6f562c54ae104d6ce",
+      "sha256": "fd849eef2bd67dd505b75f4c7eaceb2265893451133a700206631137c04fd281",
       "surum": "V2"
     },
     {
       "alan": "İcra ve iflas hukuku",
       "baslik": "Takibe İtiraz, İtirazın Kaldırılması ve İtirazın İptaline İlişkin Emsal Kararlar",
-      "bayt": 8678866,
+      "bayt": 8678898,
       "dosya": "kararlar/itiraz.jsonl.gz",
       "kayit": 11158,
       "kod": "itiraz",
       "md": "md/itiraz/",
       "sayfa": 8475,
-      "sha256": "a5f2075a49519ce0d04036241f39903aad09ef9afcd70af211f394db386b5650",
+      "sha256": "6cef4c53b28fa1d52b221f84092a4c45a529a4b7ca5c3257ce5802d29d3ef101",
       "surum": null
     },
     {

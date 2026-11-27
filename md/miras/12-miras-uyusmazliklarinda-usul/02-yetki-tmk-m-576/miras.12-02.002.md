@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2015/10731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/127788100)
+
 Dava, mirasçı olmadığının tespiti ile haciz şerhinin terkini istemlerine ilişkindir.
 
 …
@@ -28,6 +30,8 @@ Dava, mirasçı olmadığının tespiti ile haciz şerhinin terkini istemlerine 
 Somut uyuşmazlıkta, davalı ...hakkında yapılan Sincan İcra Müdürlüğünün 2013/258 sayılı dosyası ile yapılan takip nedeniyle borçlunun murisine ait Çubuk İlçesindeki taşınmazlarına haciz şerhi işlenmesi talep edilmiştir. Bu talep uyarınca dava konusu taşınmazların tapu kayıtlarına haciz şerhinin işlendiği görülmektedir. Haciz şerhi ile taşınmazın tasarruf yetkisinin kısıtlanması sonucunu doğurduğundan taşınmazın aynına ilişkindir. Taşınmazın aynına ilişkin davalar da HMK'nın 12/1 maddesi uyarınca taşınmazın bulunduğu yer mahkemesi kesin yetkilidir. Kesin yetki kamu düzenine ilişkin olduğundan re'sen incelenmesi gerekir. Bu husus HMK'nın 114/ç maddesi gereği dava şartıdır. Somut olayda, haczin kaldırılması istenen taşınmazlar Çubuk İlçe sınırlarında bulunduğundan mahkeme yetkisizdir.
 
 ## Yargıtay 20. HD 2015/9564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/135444000)
 
 Dava, tereke teslimine ilişkindir.
 
@@ -37,10 +41,14 @@ TMK'nın 576. maddesi ve 6100 sayılı HMK'nın 11. maddesi gereğince mirastan 
 
 ## Yargıtay 13. HD 2015/8164 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/184401900)
+
 HMK.nun 6. maddesi gereğince bir davada genel yetkili mahkeme, davalının ikametgahının bulunduğu yer mahkemesidir. Aynı kanunun 10. maddesinde sözleşmeden doğan davalar için, sözleşmenin ifa edildiği veya davalı ya da vekilinin dava tarihinde orada bulunması kaydıyla, sözleşmenin yapıldığı yer mahkemesinin de yetkili olduğu, belirtilmiştir ki, bunlar da özel yetkiye ilişkin düzenlemelerdir. Davacı, davasını özel veya genel yetkili mahkemelerden herhangi birinde açabilir. Dava konusu olayda davacılar murislerinin, davalıların murisi ile taşınmaz satış vaadi sözleşmesi imzaladığını, ancak davalılar tarafından taşınmazlarının devrinin yapılmadığını ileri sürerek uğradığı zararın tazmini istemiyle eldeki davayı açmıştır.Türk Borçlar Kanunu'nun 89.maddesinin 1.fıkrasına göre sözleşmeden doğan para borcu, sözleşmede aksi kararlaştırılmamışsa, alacaklının ödeme zamanındaki ikametgahında ödenir. Alacaklı, bu para borcunun ödenmesi için kendi ikametgahında takip başlatıp dava açabilir. Dava konusu olayda da alacaklı davacılar, para alacağının ödetilmesi için ikametgahı olan Çubuk Asliye Hukuk Mahkemesi'nde alacak davası açmıştır.
 Bu nedenle mahkemece yapılan yetki itirazının reddiyle işin esasının incelenmesi gerekirken, aksine düşüncelerle davalıların ikametgahı mahkemesinin yetkili olduğundan bahisle yazılı şekilde hüküm kurulmuş olması, usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 14. HD 2015/6013 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/135411400)
 
 Dava mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -52,17 +60,23 @@ Yabancılık unsuru taşıyan miras davalarında Türk mahkemelerinin milletlera
 
 ## Yargıtay 3. HD 2015/3037 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142020900)
+
 Bilindiği üzere, vasiyetnamenin yerine getirilmesine yönelik davaya mirasbırakanın yerleşim yeri mahkemesinde bakılması gerekir. (TMK. m.576) Bu yetki, kesin olduğundan; yargılamanın her aşamasında hakim tarafından kendiliğinden dikkate alınması zorunludur. Bu davada, HUMK. nun 13. maddesinin uygulama olanağı yoktur (HGK. nun 17.01.2007 günlü ve 2007/2-2 E. 2007/10 K., 04.10.2006 günlü ve 2006/2-538 E. 619 K. sayılı ilamları).
 
 Mahkemece, bu husus dikkate alınarak, mirasbırakanın yerleşim yeri araştırılıp sonucu dairesinde bir hüküm tesisi gerekirken; yanılgılı değerlendirme ile, davanın taşınmaz davası gibi görülüp ona ilişkin yetki kurallarının uygulanması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2014/21538 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98920500)
+
 Olayları açıklamak taraflara, hukuki nitelendirme hakime aittir (HMK.m.33). Dava dilekçesi içeriğine göre istemin miras hukukundan kaynaklanan bir talep olmayıp Türk Medeni Kanunu'nun 683. maddesine dayanan adi istihkaktan kaynaklanan tazminat isteğine ilişkin olduğu anlaşılmaktadır. Bu nedenle, Hukuk Muhakemeleri Kanunu'nun (HMK'nın) 11. maddesinde düzenlenen, kesin yetki kuralı niteliğindeki mirastan doğan davalarda ölen kimsenin son yerleşim yeri mahkemesinin yetkili olması durumu eldeki davada söz konusu
 
 …
 
 ## Yargıtay 17. HD 2014/15937 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/372393100)
 
 Dava, tapu iptali ve tescil istemine ilişkindir.
 
@@ -72,12 +86,16 @@ Dava, tapu iptali ve tescil istemine ilişkindir.
 
 ## Yargıtay 18. HD 2014/15899 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106849200)
+
 Türk Medeni Kanunu Hükümlerine Göre Kurulan Vakıfların Tescil ve İlanı Hakkında Tüzük’ün 3. maddesinde; "Vasiyet yoluyla kurulan vakıflarda vasiyetnameyi açan sulh hukuk hakimi, resmi senetle kurulan vakıflarda resmi senedi düzenleyen noter, vasiyetnamenin veya resmi senedin bir örneğini yedi gün içinde Vakıflar Genel Müdürlüğüne gönderir. Resmi senetle kurulan vakıflarda vakfeden, ölmesi halinde mirasçılardan biri tarafından tescil talebinde bulunabilir. Vakıf senedinin düzenlenmesini takip eden üç ay içinde vakfeden veya ölümü halinde mirasçılardan biri tarafından tescil talebinde bulunulmamış veya vakfeden tüzel kişi olup da bu süre içinde tüzel kişiliği sona ermiş ise vakfın tescili hususundaki başvuru Vakıflar Genel Müdürlüğü tarafından yapılır. Vasiyet yoluyla kurulan vakıflarda vakfedenin mirasçısı veya vakfeden tarafından mirası resmen idare etmekle görevlendirilmiş kişi tescil talebinde bulunabilir. Vasiyetnamenin açılması tarihinden itibaren üç ay içinde bunlar tarafından tescil talebinde bulunulmamış ise vakfın tescili hususundaki başvuru Vakıflar Genel Müdürlüğü tarafından yapılır", …
 
 27.09.2008 tarihinde yürürlüğe giren vakıflar Yönetmeliği’nin 5, 6 ve 7. maddelerinde; "Gerçek veya tüzel kişilerin vakıf kurma iradesi, noterde düzenleme şeklinde hazırlanan resmi senetle açıklanır. Noter, resmi senedin bir örneğini yedi gün içinde Genel Müdürlüğe gönderir. Mahkemeye başvurma, resmi senedin düzenlenmesinden sonra vakfeden tarafından yapılır. Resmi senetle kurulan vakıflarda vakfedenin ölmesi halinde mirasçılardan birisi tarafından tescil talebinde bulunulabilir. Vakıf senedinin düzenlenmesini takip eden üç ay içinde vakfedenin veya ölümü halinde mirasçılardan birisi tarafından tescil talebinde bulunulmamış veya vakfeden tüzel kişiliği haiz olup ta bu süre içinde sona ermiş ise vakfın tescili hususundaki başvurma Genel Müdürlük tarafından yapılır. Yetkili mahkemeye başvurulması üzerine, yapılacak harcamalar, ilgili vakıftan alınmak kaydıyla Genel Müdürlükçe karşılanır. Ölüme bağlı tasarruf yoluyla vakıf, vakfedenin ölümünden sonra tescil edilmek üzere kurulabilir. Bu yolla kurulan vakıflarda sulh hakimi vakıf kurulmasına esas belgenin bir örneğini yedi gün içinde Genel Müdürlüğe gönderir.
 Ölüme bağlı tasarrufla kurulan vakıflarda mahkemeye başvuru, ilgililerin veya sulh hakiminin bildirimi üzerine ya da Genel Müdürlükçe resen yapılır. Yetkili mahkemeye başvurulması üzerine, yapılacak harcamalar ilgili vakıftan alınmak kaydıyla Genel Müdürlükçe karşılanır.Ölüme bağlı tasarrufla kurulan vakfın miras bırakanın borçlarından sorumluluğu, özgülenen mal ve haklarla sınırlıdır. Vakfedenin mirasçıları ile alacaklılarının, bağışlamaya ve ölüme bağlı tasarruflara ilişkin hükümler uyarınca dava hakları saklıdır. Mahkeme, dosya üzerinde Genel Müdürlüğün görüşünü almak, gerekirse vakfedeni dinlemek ve bilirkişi incelemesi yaptırmak suretiyle vakfın tesciline karar verir. Mahkeme, mal ve hakların korunması için gerekli önlemleri resen alır. Mahkeme, tescile veya tescil isteminin reddine ilişkin olarak verdiği kararı, resmi senetle birlikte Genel Müdürlüğe resen tebliğ eder …
 
 ## Yargıtay 1. HD 2013/17187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254998500)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, aksi takdirde tenkis isteğine ilişkindir.
 
@@ -87,9 +105,13 @@ Bilindiği üzere, yetki kamu düzeniyle ilgili olup kesin yetki içeren 6100 sa
 
 ## Yargıtay 2. HD 2013/7349 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83735000)
+
 Türk Medeni Kanununun 652. maddesinde yer alan tereke mallarından birinin mirasçılardan birine miras hakkına mahsuben özgülenmesi, paylaştırma niteliğinde olup, özgüleme kararı, o mal üzerindeki mirasçıların “elbirliği” şeklindeki ortaklığının izalesi sonucunu hasıl eder. Her mirasçı, terekedeki belirli malların aynen, olanak yoksa satış yoluyla paylaştırılmasına karar verilmesini sulh mahkemesinden isteyebilir. (TMK md. 642) Toplanan delillerden uyuşmazlığa konu taşınmazın Kadıköy'de bulunduğu anlaşılmaktadır. Ortaklığın giderilmesi davası,taşınmazın aynına ilişkin bir uyuşmazlıktır. Gayrimenkule müteallik davalar, gayrimenkulün bulunduğu mahal mahkemesinde ikame olunur (HUMK md.13; HMK md. 12). Taşınmazın aynına ilişkin davalarda yetki kamu düzenine ilişkin olup kesin yetki kuralları geçerlidir. Hal böyle olunca, davanın uyuşmazlığa konu taşınmazın bulunduğu yerdeki yetkili mahkemede açıldığı dikkate alınarak, işin esasının incelenerek bir karar verilmesi gerekirken, yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2013/1644 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79371200)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -99,11 +121,15 @@ Ne var ki, getirtilen nüfus kayıt örneğinden miras bırakan İ.'in yerleşim
 
 ## Yargıtay 3. HD 2012/26341 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483421600)
+
 Uyuşmazlığın çözümünde bu iki maddenin birlikte değerlendirilip yorumlanması gerekmektedir. Buna göre; vasiyetnamenin yerine getirilmesi (tenfizi) ile ilgili dava; lehine vasiyet yapılan kişi tarafından doğrudan doğruya diğer mirasçılara (miras ortaklığına, terekeye) karşı açılıyorsa ve tereke taksim edilmemişse, bu davanın miras bırakanın yerleşim yeri mahkemesinde açılması gerekir. (Prof.Dr.Baki Kuru Hukuk Muhakemeleri Usulü 6.Baskı, 2001 c.1 s.491 vd., Prof.Dr.Necip Kocayusufpaşa adı geçen eser s.523). Öte yandan taksim tamamlanmadan terekedeki bir mal hakkında açılacak istihkak davası ile terekenin yazım ve tespiti davaları malın bulunduğu yerde, mirasçılık belgesi verilmesi davası ise mirasçılardan her birinin sakin olduğu yerde açılır. Bu iki halin dışındaki davaların ise miras bırakanın yerleşim yeri mahkemesinde görülmesi gerekir.
 
 Burada yetkili olan miras bırakanın yerleşim yeri mahkemesi kesin yetkili mahkemedir. Bu yetkinin mahkemece her aşamada re’sen gözetilmesi gerekir. Öyle ise davanın bir taşınmaz davası olarak yorumlanıp, taşınmazların bulunduğu yerde görülmesi gerektiği düşüncesi isabetli değildir ( YHGK. 04.10.2006 gün ve 2006/2-538-2006/619s.içt.).Mahkemece, vasiyetname ve dosya içeriğine göre, davaya bakmaya murisin ikametgahı mahkemesi olan ... mahkemelerinin yetkili olduğu gözetilerek dava dilekçesinin yetkisizlik nedeniyle reddi gerekirken esas hakkında hüküm kurulması usul ve yasaya uygun görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HMK. geçici 3. maddesi yollaması ile HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/9588 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78959000)
 
 Dava, muris muvazaası nedeniyle tapu iptali ve miras payı oranında tescil, bu talep yerinde görülmediği takdirde tenkis isteğine ilişkindir.
 
@@ -115,9 +141,13 @@ Hal böyle olunca, Mahkemenin miras bırakan N..'in son yerleşim yeri mahkemesi
 
 ## Yargıtay 3. HD 2012/6097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589072000)
+
 Mahkemece; açılan dava taşınmazın aynına ilişkin olup, taşınmazın bulunduğu yer mahkemesi kesin yetkili mahkeme olduğundan ve kamu düzenini ilgilendirdiği gerekçe gösterilerek yetkisizlik kararı verilmiştir.Vasiyetnamenin yerine getirilmesine yönelik davaya miras bırakının yerleşim yeri mahkemesinde bakılması gerekir. Bu yetki kesindir. Yargılamanın her aşamasında hakim tarafından kendiliğinden dikkate alınması da zorunludur (TMK.m.576, HUMK. 1.md.). Bu davada HUMK.13.maddesini uygulama olanağı yoktur.Vasiyetname, ... Noterliğinde düzenlenmiştir. Adres olarak da ... gösterilmiştir. Vasiyetnamede ...Sulh Hukuk Mahkemesinde açılmıştır. Vasiyetçinin nüfusa kayıtlı olduğu yer de ...'tır. Deliller birlikte değerlendirildiğinde mirasbırakanın yerleşim yerinin Uşak olduğu anlaşılmaktadır.Mahkemece, yanılgılı değerlendirme ile davanın taşınmaz davası gibi görülüp ona ilişkin yetki kurallarının uygulanması doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 17. HD 2011/11622 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798105900)
 
 Dava, saklı miras payına Istinaden açılmış olan mirasın tenkisi istemine ilişkindir.
 
@@ -129,9 +159,13 @@ Somut olayda zabıta aracılığı ile yapılan adres araştırma yazıları ile
 
 ## Yargıtay 2. HD 2010/13764 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81118700)
+
 Kesin yetki" kuralı içeren Türk Medeni Kanununun 596.maddesinde açıkça, vasiyetnamenin "mirasbırakanın yerleşim yeri sulh hakimi" tarafından açılacağı belirtilmiştir. Kesin yetki kuralı, ilgili tarafından ileri sürülmese bile davanın her aşamasında mahkeme tarafından gözetilmelidir. Mahkemece, mirasbırakan H. B..'ın ölüm tarihindeki yerleşim yerinin Bakırköy olduğu anlaşılmakla, yetkisizlik kararı verilerek dosyanın yetkili Bakırköy Sulh Hukuk Mahkemesine gönderilmesi kararı verilmesi gerektiği gözetilmeden; yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 20. HD 2008/10769 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/895260600)
 
 Dava, tereke hukukuna ilişkindir.
 
@@ -141,6 +175,8 @@ Türk Medeni Yasasının 589. maddesinde "miras bırakanın yerleşim yeri Sulh 
 
 ## Yargıtay 20. HD 2008/9875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897563900)
+
 Dava, vasiyetnamenin iptali istemine ilişkindir.
 
 …
@@ -149,9 +185,13 @@ H.Y.U.Y.nın 11. maddesi uyarınca bu tür davaların miras bırakanın son yerl
 
 ## Yargıtay 2. HD 2008/9574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80600100)
+
 Vasiyetnamenin iptali ve tenkis davasında mirakbırakanın son yerleşim yeri mahkemesi yetkili olup bu yetki kesindir. Yerleşim yeri bir kimsenin sürekli kalmak niyetiyle oturduğu yerdir, bir kimsenin aynı zamanda birden çok yerleşim yeri olamaz. (743 sayılı TKM. md. 19, 4721 sayılı TMK. md.19) Tereke tesbitine yönelik davada Bakırköy 4. Sulh Hukuk Mahkemesince de yetki yönünden dava dilekçesinin reddine karar verildiği ve Şişli Mahkemesinin yetkili olarak gösterildiği bu kararın temyiz edildiği henüz kesinleşmediği anlaşılmaktadır. Bu davanın sonucunun da dikkate alınması, taraf tanıkları mirasbırakanın son yerleşim yeri yönünden de dinlenerek tüm kanıtlar birlikte değerlendirilerek hüküm kurulmalıdır. Bunlar yapılmadan eksik araştırma sonucu karar verilmesi doğru olmadığından kararın bozulması gerekmiştir.
 
 ## Yargıtay 20. HD 2007/6065 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/899994100)
 
 Dava, miras şirketine mümessil tayini istemidir.
 

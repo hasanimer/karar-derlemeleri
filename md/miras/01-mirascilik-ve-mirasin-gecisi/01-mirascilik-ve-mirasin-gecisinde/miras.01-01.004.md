@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2010/6203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967642200)
+
 Borçlar Kanununun 128. maddesine göre, müruruzaman alacağın muaccel olduğu zamanda başlar. Murisin ölüm tarihinde yürürlükte bulunan MK'nun 541.maddesinde de, vasiyetnameden kaynaklanan alacak, tasarruftan (vasiyetnameden) aksi anlaşılmıyorsa vasiyet yükümlüsünün mirası kabul veya ret hakkının düşmesiyle muaccel olur. Yine aynı yasanın 579.maddesinde, vasiyet alacaklısının vasiyeti yerine getirme görevlisine ya da yasal-atanmış mirasçılara karşı alacağın muaccel olma tarihinin üzerinden (iyi niyetlilere karşı) on yıl içerisinde (kötü niyetlilere karşı) 30 yıl içerisinde dava hakkını kullanabileceği, on yıl geçmekle alacağın zamanaşımına uğrayacağı kabul edilmiştir.
 
 ## Yargıtay 7. HD 2010/6198 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112303700)
 
 Dava, mirasçılık belgesinin iptali ile yenisinin verilmesi istemine ilişkindir.
 
@@ -32,6 +36,8 @@ Dava, mirasçılık belgesinin iptali ile yenisinin verilmesi istemine ilişkind
 743 sayılı Türk Kanunu Medenisinin 517.maddesi hükmünde "mirasın ölümle açılacağını", 444/1.maddesinde ise "ölenin çocukları ile birlikte mirasçı olan karı veya kocanın seçme hakkına sahip olduğu, dilerse mirasın yarısının intifa hakkını, dilerse dörtte birinin mülkiyetini alacağı" açıklanmıştır.
 
 ## Yargıtay 1. HD 2010/5635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78607500)
 
 Tasarrufa konu malın sabit tenkis oranında bölünmezliği ortaya çıktığı takdirde sözü geçen 564. maddedeki tercih hakkı gündeme gelecektir. Böyle bir durum ortaya çıkmadan davalının tercih hakkı doğmadan davalının tercihinin kullanması söz konusu olamaz. Daha önce bir tercihten söz edilmişse sonuç doğurmaz. O zaman davalıdan tercihi sorulmak ve 11.11.1994 günlü 4/4 sayılı içtihadı birleştirme kararı uyarınca sür'atle dava konusu olup sabit tenkis oranına göre bölünemeyen malın, tercih hakkının kullanıldığı gündeki fiatlara göre değeri belirlenmeli ve bu değerin sabit tenkis oranıyla çarpımından bulunacak NAKTİN ödetilmesine karar verilmelidir.
 
@@ -43,9 +49,13 @@ Somut olayda, davacıların her ikisinin de, miras bırakanF..’dan sonra vefat
 
 ## Yargıtay 11. HD 2010/5042 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1020412500)
+
 Yargıtay ilamında benimsenen gerektirici sebeplere, 4722 sayılı Türk Medeni Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanun'un 17. maddesi uyarınca miras bırakan ...'nin ölüm tarihinde yürürlükte olan 743 sayılı Medeni Kanun'un 452, 453, 457, 458 ve 463. maddelerinin de karar gerekçesinde yer alan hükümleri içermesine göre davacılardan ..., ..., ... ve ...vekillerinin HUMK'nun 440. maddesinde sayılan hallerden hiçbirisini ihtiva etmeyen karar düzeltme isteğinin reddi gerekmiştir.
 
 ## Yargıtay 7. HD 2010/1834 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110672400)
 
 Dava mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -57,9 +67,13 @@ Miras bırakanın ölüm tarihinde yürürlükte bulunan mülga 2675 sayılı Ka
 
 ## Yargıtay 7. HD 2010/1468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110890400)
+
 Miras bırakanın ölüm tarihinde yürürlükte bulunan genel hüküm niteliğindeki 4721 sayılı Türk Medeni Kanunu'nun 501. maddesi hükmünde mirasçı bırakmaksızın ölen kimsenin mirasının devlete geçeceği açıklanmış ise de aynı tarihte yürürlükte bulunan ve özel hüküm niteliğindeki 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanunu'nun 28. maddesi hükmünde, kuruma bağlı kuruluşlarda bakılmakta iken mirasçı bırakmaksızın ölen kimselerin mirasının kuruma geçeceği, kurumun terekenin borcundan ancak kendisine geçen mallar ölçüsünde sorumlu olacağı belirtilmiştir. Aynı konunun her ikisi de yürürlükte bulunan iki ayrı kanunda birlikte düzenlenmiş olması halinde öncelikle özel kanun hükmünün uygulanması gerektiği kuşkusuzdur.
 
 ## Yargıtay 7. HD 2010/1287 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110738500)
 
 Dava, mirasçılık belgesinin iptali ve yenisinin verilmesi istemine ilişkindir.
 
@@ -72,6 +86,8 @@ Miras bırakanın ölüm tarihinde yürürlükte bulunan ve az yukarıda açıkl
 
 ## Yargıtay 7. HD 2010/902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111348400)
+
 Dava mirasçılık belgesi verilmesi istemine ilişkindir.
 
 …
@@ -81,6 +97,8 @@ Yürürlükten kaldırılan 743 Sayılı Türk Kanunu Medenisinin 444 üncü mad
 Somut olaya gelince dosya içeriğinde toplanan delillerden miras bırakan ...'ın 02.03.1992 tarihinde evli ve çocuklu olarak öldüğü, geriye mirasçı olarak eşi ... ile çocukları ..., ..., ..., ..., ..., ... ve ...'ı bıraktığı, miras bırakanın ölümünden sonra eşi olan ...'ın davacı ... ile evlendiği ve daha sonra 25.11.2008 tarihinde öldüğü anlaşılmaktadır. Az yukarıda açıklanan hukuksal olgu ve miras bırakan ...'ın ölüm gününde eşi olan ...'ın ve yine ...'ın ölüm gününde de sonradan evlendiği eşi davacı ...'ın sağ oldukları göz önüne alındığında ...'ın miras bırakanın mirasından pay alacağı ve dolayısıyla miras bırakan ...'a intikal edecek pay yönünden davacı ...'ın da miras bırakana mirasçı olacağı ve mirastan pay alacağı kuşkusuzdur. Ne varki mahkemece bu olgu gözardı edilerek hüküm verilmiştir. Toplanan delillere ve yasal düzenlemelere aykırı olarak hüküm verilemez.
 
 ## Yargıtay 7. HD 2010/900 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111349700)
 
 Dava, mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -93,10 +111,14 @@ Yasal düzenlemelere aykırı olarak hüküm verilemez.
 
 ## Yargıtay 7. HD 2010/377 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110558600)
+
 Gerek miras bırakanların ölüm tarihlerinde yürürlükte bulunan 743 sayılı Türk Kanunu Medenisi, bu kanunun yürürlüğüne ilişkin kanun, 2675 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun ve gerekse halen yürürlükte bulunan 4721 sayılı Türk Medeni Kanunu, bu kanunun yürürlüğüne ilişkin kanun ve 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun hükümlerinde mirasın, miras bırakanın ölümüyle açılacağı, mirasçılık ve mirasın geçişinin miras bırakanın ölümü tarihinde yürürlükte bulunan hükümlere göre belirleneceği, mirasın ölenin milli hukukuna tabi olduğu, Türkiye’de bulunan taşınmaz mallar hakkında Türk hukukunun uygulanacağı, Tapu Kanununun 35. maddesinde de yabancı uyruklu gerçek kişilerin ancak karşılıklılık bulunması ve kanuni sınırlamalara uyulması koşuluna bağlı olarak Türkiye’de taşınmaz mal edinebilecekleri, karşılıklılığın tespitinde hukuki ve fiili durumun esas alınacağı açıklanmıştır.
 Kanunun açık hükmünden de anlaşılacağı üzere Tapu Kanun’unda belirtilen bu sınırlama yalnızca taşınmaz mallar yönünden uygulanabileceğinden yabancı uyruklu kişilerin taşınır mallar ile para veya diğer haklar yönünden mirasçı olmalarında yasal herhangi bir engel bulunmamaktadır.
 
 ## Yargıtay 2. HD 2009/18392 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80844000)
 
 Mirasçılık ve mirasın geçişi mirasbırakanın ölümü tarihinde yürürlükte olan hükümlere göre belirlenir. (4722 s. Yürürlük K. md. 17) Mirasbırakan 1999 tarihinde vefat ettiğine göre 743 sayılı Türk Kanunu Medenisi hükümleri uygulanacaktır. Temlik, kamu yararına çalışan dernek yararına yapıldığına göre Türk Kanunu Medenisinin 453. maddesinin III. bendi gereğince saklı pay, sağ eş için normal saklı payın üçte ikisi, evlatlık için normal saklı payın üçte ikisi oranınındadır. Başka bir ifade ile davalının kamu yararına çalışan dernek olması nedeniyle azaltılmış saklı pay oranları geçerlidir. Bu husus gözetilmeden 4721 sayılı Türk Medeni Kanununun 506.ncı maddesinde yer alan saklı pay oranlarına göre hesaplama yapılması doğru bulunmamıştır.
 
@@ -104,9 +126,13 @@ Tasarruf nisabı ve saklı paylar net tereke üzerinden hesaplanır. Müteveffan
 
 ## Yargıtay 2. HD 2009/8025 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80893300)
+
 Dava konusu taşınmaz hakkında Hazine lehine, malikinin gaipliği nedeniyle Türk Kanunu Medenisinin 530 uncu maddesine dayanılarak 6.6.1996 tarihinde tescil kararı verilmiş, bu karar kesinleşmiştir.Bu karar gereğince mülkiyet Hazineye geçmiştir.(TKM.md.633, TMK.md.705/2) Davacının, tapu malikinin mirasçısı olduğu dosyaya sunulan mirasçılık belgesinden anlaşılmaktadır.İstek, Hazinenin geri verme yükümlülüğüne ilişkindir. (TMK.md.588/son) Davacının, tapu malikinin yasal mirasçısı olduğu, mirasçılıktaki üstün hakkını ileri sürerek taşınmazın geri verilmesini istediğine göre delillerin bu çerçevede değerlendirilerek sonucuna göre karar verilmesi gerekirken, davanın yargılamanın iadesi olarak nitelendirilerek eski esas numarası üzerinden yargılama yapılarak yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 7. HD 2009/4415 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16945500)
 
 Dava, mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -119,31 +145,45 @@ Bu olgu gözetildiğinde hasımsız olarak ve Sulh Hukuk Mahkemesinde açılan i
 
 ## Yargıtay 2. HD 2009/2286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80338100)
+
 Mirasbırakana ait tek bir av tüfeği için tüm mirasçıların birden “ruhsat” çıkartmaları yasa ve yönetmelik hükümlerine göre mümkün değildir. Mahkemece 743 sayılı Türk Kanunu Medenisi’nin 592. maddesi hükmü dikkate alınarak mirasçıların beyanları alınmak suretiyle tereke malı olan av tüfeğini mirasçılardan birine özgüleyip, özgülenen mirasçıya adına ruhsat çıkartabilmesi için makul bir süre vererek 2521 sayılı yasa hükümleri de dikkate alınarak işlem yapılması gerekirken, yazılı olduğu şekilde karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2008/14171 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80441500)
 
 Türk Kanunu Medenisinin 550. maddesine göre “müddeti içinde reddetmiyen mirasçı, mirası kayıtsız ve şartsız iktisap etmiş olur. Müddet hitamından evvel alelade idarenin ve mirasa ait işlerin idamenin istilzam etmediği bir muameleyi yapan ve terekeden bir malı zimmetine geçiren veya ketmeden mirasçı, mirası reddetmek hakkından mahrumdur.” Davacılar miras bırakana ait H. ilçesi, D.köyü 62 parsel sayılı taşınmazı 5.9.2003 tarihinde tapuda kendi adlarına intikal ettirmişler ve aynı tarihte üçüncü kişiye satmışlardır. Bu nedenle davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2008/3919 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80801100)
+
 Mirasçılık belgesinde kök mirasbırakan M.K..nün 22.8.1944 tarihinde altsoy bırakmaksızın vefat ettiğini geriye mirasçı olarak eşi Müzeyyen ile kız kardeşi Şemsifen’in kaldığı, o tarihte yürürlükte olan Türk Kanunu Medenisinin 440 ve 442. maddeleri gereğince mirasının 1/4 ‘ünün tam mülkiyeti ile 1/2’sinin intifa hakkı eşi Müzeyyen’e, 1/4,’ünün tam mülkiyeti ile 1/2 sinin çıplak mülkiyetinin kız kardeşi Şemsifen’e ait olduğu, Şemsifen’in 13.6.1963 tarihinde vefatı ile tüm mirası eşi İsmail’in 7.9.1963 tarihinde vefat etmesi üzerine evlatlığı E. Y..’ye kaldığı 1977 yılında vefat eden E. Y..'nin ise mirasının ölü kardeşi B. A.. oğlu H.A..ile vefat eden kızı H.A..’ın kızı M. T..’ne kaldığı, olayda Türk Kanunu Medenisinin 447/1. maddesinin uygulama yerinin bulunmadığı çünkü davacıların Türk kanunu Medenisinin 440. maddesi gereğince ikinci zümre mirasçısı olarak E. Y..'nin yasal mirasçısı oldukları, yani davacıların hak sahibi oldukları terekenin E. Y..’nin terekesi olduğu anlaşıldığından temyiz itirazlarının reddi ile mirasçılık belgesinin iptaline ilişkin hükmün onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 2. HD 2008/599 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80035300)
 
 Türk Kanunu Medenisinin 506’ncı maddesinde yer alan tercih hakkı, kıymetine noksan gelmeksizin taksimi kabil olmayan bir mal temlik edilip de, bu malın tenkise tabi tutulması halinde söz konusu olur. Mirasbırakanın, davalının üçüncü kişilerden satın aldığı taşınmazların bedelini ödediği kabul edilmiş olmasına göre, dava tarihinden itibaren faize hükmedilmesi gerekirken yapılan bağışın para olduğu gözetilmeden davalıya tercih hakkı kullandırılması ve faize de o tarihten itibaren hükmedilmesi isabetsizdir.
 
 ## Yargıtay 2. HD 2007/15172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80669200)
+
 Mirasbırakanın bağışlananın kendisinden önce ölümü halinde bağışlanan şeyin yine kendisine dönmesi koşuluyla yaptığı bağış Türk Kanunu Medenisinin 507/3. maddesinde gösterilen mirasbırakanın kayıtsız şartsız dönme hakkı olan bağışlardan değildir. Öte yandan davacılar Türk Kanunu Medenisinin 507/4. maddesi koşullarının oluştuğunu, temlikin saklı pay kurallarını zedelemek kastıyla yapıldığını kanıtlayamamışlardır.
 
 ## Yargıtay 2. HD 2007/14140 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80440100)
 
 Tereke tesbit edildikten sonra mirasın açıldığı tarihteki fiatlara göre değerlendirilmesi yapılarak parasal olarak miktarın tesbiti gerekir.(TKM.m.507) Mirasbırakanın Türk Kanunu Medenisinin 506. maddesinde belirlenen saklı paya tecavüz edip etmediği bulunan bu rakamlar üzerinden hesaplanır.
 
 Hükme esas alınan 10.3.2006 tarihli bilirkişi raporunda, sabit tenkis oranı hesaplanırken yukarıda belirtilen ilkeler doğrultusunda hareket edilmemiş, tereke tesbit edilirken mirasın açıldığı tarih (miras bırakanın ölüm tarihi) yerine, son keşfin yapıldığı 31.3.2005 tarihindeki değerler esas alınarak sabit tenkis oranı belirlenmiş ve belirlenen bu orana göre davalılardan tenkis edilecek miktarlar hesap edilmiştir. Mahkemece 30.1.2002 tarihinde verilen kararın davacı tarafından temyiz edilmemesi nedeniyle davalılar lehine oluşan usulü kazanılmış haklar da nazara alınarak hüküm tesis edilmesi gerekirken yazılı şekilde karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 16. HD 2006/5533 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/866385400)
 
 Bu ve benzeri kayıtlardan ... ile ...’nin aynı kişi ve ... Hanımın Hacı (...) ...’nin kızı olduğu anlaşılmaktadır. Bu itibarla davalıların ... Hanımın tapu maliki ...’nin kızı olmadığı, dolayısıyla davacıların tapu malikinin mirasçısı sıfatını taşımadıkları yönündeki itirazları dosya kapsamına uygun düşmemektedir. 2- 1274 tarihli Arazi Kanunnamesinin tesbit ve dava tarihi itibariyle yürürlükte bulunup bulunmadığı ve şartları mevcut olduğu takdirde uygulanıp uygulanamayacağı: Medeni Kanun’un 4 Ekim 1926 tarihinde yürürlüğe girmesinden sonra Arazi Kanunu’nun Medeni Kanun’a aykırı olmayan hükümlerinin yürürlükte bulunup bulunmadığı uzun süre tartışılmıştır. Bazı hukukçular Medeni Kanunun taşınmaz mal mülkiyetini yeni baştan düzenlediğini, 864 sayılı Uygulama Kanunu’nun 43. maddesi ile Arazi Kanunu’nun yürürlükten kaldırıldığının kabul edilmesi gerektiği savunmuşlarsa da; Tatbikatta Arazi Kanunu’nun Medeni Kanuna aykırı olmayan hükümlerinin yürürlükte bulunduğu kabul edilmiş, uygulamada istikrarlı olarak bu yönde sürdürülmüştür. Arazi Kanunu’nun Medeni Kanun’a aykırı olmayan hükümlerinin yürürlükte olduğu kabul eden hukukçular;
 864 sayılı Uygulama Kanunu’nun 43. maddesinde “MECELLE” açıkça yürürlükten kaldırıldığı halde, Arazi Kanunu’nun kaldırılan kanunlar arasında sayılmamasını, Medeni Kanun’un kabulünden sonra, ancak yürürlüğünden önce kabul edilen 2.5.1926 tarih 87 sayılı Kanunla Arazi Kanunu’nun 68, 69, 70, 71, 74, 76, 84 ve 85.maddeleri yürürlükten kaldırıldığı halde diğer maddelerin yürürlükte olduğunun kabul edilmiş bulunduğunu, Yargıtay’ın 27.1.1943 tarih 5/7 ve 9.2.1944 tarih 4 numaralı İçtihadı Birleştirme Kararları ile 28 Şubat 1998 tarihinde yürürlüğe giren 4342 sayılı Mer’a Kanunu’nun 36. maddesi ile Arazi Kanunu’nun 97, 98, 99, 100, 101, 102 ve 105. maddelerinin yürürlükten kaldırılmasını görüşlerine dayanak yapmışlardır. Diğer gayrimenkul Daireleri gibi Yargıtay Yüksek 7. Hukuk Dairesi ile 16. ve 17. Hukuk Daireleri de Arazi Kanunu’nun Medeni Kanun’a aykırı düşmeyen hükümlerinin bu arada Arazi Kanunu’nun 20 ve 78. maddelerinin yürürlükte olduğunu kabul etmiş ve uygulamalarını bu yönde sürdürmüşlerdir. (Yargıtay 7. Hukuk Dairesinin 22.11.1978 gün 1977/11819 esas 1978/13674 sayılı ilamı ile 16.

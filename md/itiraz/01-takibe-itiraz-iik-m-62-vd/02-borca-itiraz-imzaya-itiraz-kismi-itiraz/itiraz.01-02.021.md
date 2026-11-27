@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2021/1557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/714880000)
+
 İLK DERECE MAHKEMESİ KARARI: Mahkemece, takibe konu çek ile ilgili davalı şirket tarafından davacı aleyhine açılan menfi tespit davasının reddedildiği ve davalı şirketin borçlu olduğunun tespit edildiği, yapılan kısmi ödemede dikkate alınarak davalı şirkete çıkartılan depo emrine rağmen borcun ödenmediği, davalı ...'in ise takipte taraf olmadığı ve bu davalıya husumet yöneltilemeyeceği gerekçesiyle davalı şirketin iflasına, davalı ... yönünden ise davanın reddine karar verilmiştir.
 
 …
@@ -57,6 +59,8 @@ Ankara 11. Asliye Ticaret Mahkemesinin 06/11/2019 tarih ve 2018/931 Esas 2019/86
 
 ## Kayseri BAM 6. HD 2021/1538 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680623500)
+
 DAVALI VEKİLİNİN İLK DERECE MAHKEMESİNE VERMİŞ OLDUĞU CEVAP DİLEKÇESİNDEN ÖZETLE:
 
 …
@@ -70,10 +74,14 @@ Kayseri 1. Asliye Ticrat Mahkemesi 'nin 30/03/2021 tarih ve 2021/47 Esas 2021/35
 
 ## İstanbul BAM 17. HD 2021/1508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716980100)
+
 İcra Müdürlüğünün ... Esas sayılı dosyasında asıl dosya davalısı ... Ltd Şti'ne karşı 07/04/2014 tarihinde ilamsız icra takibi başlattığı, davalı borçlunun icra takibine karşı yasal süre içerisinde borca itiraz ettiği, davacının İİK 67.maddesi gereğince bir yıllık hak düşürücü süre içerisinde asıl davayı açtığı, davacı alacaklı tarafından davalılardan birleştirilen dosya davalısı ... Ltd Şti aleyhine İstanbul Anadolu ... İcra Müdürlüğünün ... Esas sayılı dosyasında 7.800,00 TL asıl alacak, 936,64 TL işlemiş faiz olmak üzere toplam 8.736,64 TL alacağın tahsili amacıyla 27/03/2015 tarihinde ilamsız icra takibi başlattığı, takipte İstanbul Anadolu ... İcra Müdürlüğünün ...
 Esas sayılı dosyası ile tekerrür olmamak kaydının yazıldığı, davalı borçlunun yasal sürede takibe ve borca itiraz ettiği, davacının ise İİK 67.maddesi gereğince bir yıllık hak düşürücü süre içerisinde birleştirilen davayı açmış olduğu, sigorta poliçesinde, sigorta teminatlarının arasında sel ve su baskını teminatının yer aldığı, sigorta bedeli olarak 38.000.000,00 TL gösterildiği, poliçe özel şartlarında seylap muafiyeti üst başlığı altında sel veya su basması teminatı kapsamında aşağıda belirtilen grupların her birinin toplam sigorta bedelleri üzerinden %2'si oranında bulunacak tenzili muafiyetin bu grupların her biri için ayrı ayrı uygulanacağının belirtildiği, gruplar olarak a bendinde, bina, sabit tesisat ve dekorasyon, b bendinde emtia, c bendinde makine, teçhizat, demirbaş ve diğer tesisatlar olarak gösterildiği, devamında ise ancak her halükarda uygulanacak toplam muafiyetin 50.000,00 Euro veya TL karşılığını aşmayacağının belirtilmiş olduğu anlaşılmıştır.
 
 ## İstanbul BAM 43. HD 2021/1344 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/701115000)
 
 …
 
@@ -88,6 +96,8 @@ Esas sayılı dosyasında çıkarılan ödeme emrine, 24.11.2016 tarihinde süre
 KARAR: Yukarıda ayrıntısı ile açıklanan nedenlerle; 1-Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Gaziantep BAM 11. HD 2021/1328 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680500200)
 
 Davacı vekili; müvekkili şirketin alacağının tahsili için ... İcra Müdürlüğünün ....
 
@@ -111,6 +121,8 @@ HMK 312. maddesi gereğince feragat ve kabul beyanında bulunan tarafın, davada
 Maddesinde yer alan "Davanın dinlenebilmesi için kanunlarda öngörülen ön şartın yerine getirilmemiş olması ve husumet nedeniyle davanın reddine karar verilmesinde, davanın görüldüğü mahkemeye göre Tarifenin ikinci kısmının ikinci bölümünde yazılı miktarları geçmemek üzere üçüncü kısımda yazılı avukatlık ücretine hükmolunur" düzenlemesi gereğince davalı lehine vekalet ücretine hükmedilmesi gerekirken vekalet ücretine hükmedilmesine yer olmadığına karar verilmesi doğru olmamıştır. Ancak bu hata, yeniden yargılamayı gerektirmediğinden İlk Derece Mahkemesinin yukarıda esas ve karar numarası yazılı kararının kaldırılarak yeniden esas hakkında hüküm kurmak gerekmiştir.
 
 ## Gaziantep BAM 11. HD 2021/1309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/681273700)
 
 Davacı vekili dava dilekçesinde özetle; davalı .... ve müteselsil kefiller arasında imzalanan genel kredi sözleşmesine göre davalıların taahhütlerini yerine getirmemeleri nedeniyle davalılar aleyhine ... 4. İcra Müdürlüğünün ....
 
@@ -143,6 +155,8 @@ Meselâ; ancak rehinle temin edilmiş ise ihtiyati haczin kaldırılmasına kara
 
 ## İstanbul BAM 17. HD 2021/773 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665387100)
+
 19/10/2010 başlangıç tarihli güvenlik sözleşmesi kapsamında 165.799,44 TL bakiye borcun olduğu, tebliğ tarihinden itibaren beş gün içerisinde banka hesabına tam ve eksiksiz olarak ödenmemesi halinde sözleşmeyi ihlal nedeniyle altıncı günden geçerli olmak üzere sözleşmenin feshedilmiş sayılacağının belirtildiği, 23/05/2016 tarihli noter ihtarnamesinde ise sözleşmenin 27/05/2016 tarihi itibariyle haklı nedenlerle feshedildiği, fesih tarihi itibariyle sözleşme kapsamındaki hizmetlerin verilmesinin sona ereceğinin belirtildiği, davacı şirket tarafından davalı şirket adına silah taşıma hizmeti adı altında değişik tarihli ve miktarlı e-faturaların düzenlenmiş olduğu, davacı şirket tarafından davalı hakkında Bakırköy .... İcra Müdürlüğünün ...
 
 Esas sayılı dosyasında 14/06/2016 tarihinde 195.876,09 TL asıl alacak ve 1.014,26 TL işlemiş faiz olmak üzere toplam 196.890,35 TL alacağın tahsili amacıyla ilamsız icra takibi başlattığı, takibe dayanak olarak 19/10/2010 tarihli sözleşmeye istinaden cari hesap ve fatura alacağının gösterildiği, borçlu şirkete ödeme emrinin 17/06/2016 tarihinde tebliğ edildiği, şirketin 20/06/2016 tarihinde takibe karşı yasal süre içerisinde kısmi itirazda bulunduğu, itirazında, borçlu şirketin kayıtlarına göre takip tarihi itibariyle 187.880,89 TL borcu bulunduğu, bu tutarı aşan ana para, işlemiş faiz, faiz oranı ve takibin diğer unsurlarına ayrıca ve açıkça itiraz ettiklerini, netice olarak kısmi itirazın kabulü ile takip çıkış rakamından işlemiş faiz tutarı 1.014,26 TL ile itiraz edilen 7.995,20 TL'lik kısmı açısından takibin durdurulmasını ve takip çıkış rakamının 187.880,89 TL olarak ele alınıp hesap çıkarılmasını talep ettiği, 24/06/2016 tarihli ikinci dilekçe ile ise yine yedi günlük süre içerisinde şirket kayıtlarında yapılan ilk inceleme sonucunda verilen bilgi doğrultusunda 20/06/2016 günü itiraz dilekçesi verildiğini, ilk dilekçede borcun bir kısmına itiraz edildiğini, ancak sonradan
@@ -158,6 +172,8 @@ Mahkeme hükmü, 6100 sayılı Hukuk Usulü Muhakemeleri Kanunun 298/2.fıkrası
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere, 1- Davacı vekili ve davalı vekilinin istinaf başvurularının esasa ilişkin sebepler incelenmeksizin KABULÜNE,2-Bakırköy 2. Asliye Ticaret Mahkemesinin 2016/736 Esas, 2018/446 Karar ve 30/04/2018 tarihli kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2021/727 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/649671300)
 
 Esas sayılı takip dosyasına konu olup, işbu itirazın iptali davası ile sadece 346.814,17 TL asıl alacak bakımından itirazın iptali talep edilen borcun davalı tarafça ödenmiş olduğu savunması sadece İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı takip dosyasının alacaklısına İİK'nın 89/1 haciz ihbarnamesi kapsamında yapılmış olan ödemelerle ispatlanabilecektir. Bu ödemeler ise yukarıda açıklandığı üzere toplam 340.754,48 TL'dir. Davalı tarafça davaya konu takibe itiraz dilekçesinde, asıl itiraz sebebi olarak; söz konusu sözleşme kapsamında alacaklının muaccel hiçbir alacağı bulunmadığı, ödeme emirine konu tutarın sözleşme kapsamında kesin teminat olarak tutulduğu, kesin kabulün yapılması sonrasında ortaya çıkacak cari hesap durumuna göre alacaklıya ödenmeyeceğini belli olacağı ileri sürülmüştür. İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı dosyasından gönderilen 1.haciz ihbarnamesi gereğince muaccel olan miktarlara ilişkin ödemelerin 340.754,48 TL'lik kısımının bu dosyaya yapılacağı ise ayrıca belirtilmiş, sonuç olarak ise takibe, takip konusu borcun tamamına, işlemiş faize ve tüm fer'ilere itiraz edilmiştir.
 Mahkemece alınan bilirkişi raporu ve dosya kapsamına göre davalının haciz ihbarnamesi gereği yapmış olduğu ödemeler dışındaki itirazları yerinde görülmemiştir. Davalı vekilince sunulan istinaf dilekçesinde de yerinde görülmeyen bu itirazlara ilişkin bir istinaf talebi dile getirilmemiş, sadece haciz ihbarnamesi gereği yapılan ödeme ve kısmen kabul edilen 6.059,69 TL'lik kısım bakımından da ödemenin yapılmış olduğunun kabul edilmesi gerektiği hususları bakımından istinaf itirazında bulunulmuştur. Buna göre, davaya konu takibe ilişkin borcun tamamının takip tarihi itibariyle mevcut ve muaccel olduğu hususu davalı aleyhine, davacı lehine usuli kazanılmış hak oluşturmuştur. Haciz ihbarnamesi kapsamında 3.kişiye yapılan ödemeler ise davalının icra takibine itirazını haklı gösterecek bir husus değildir. Zaten davalının 3.kişiye davacı alacaklının alacağına mahsuben ödeme yapacağını belirtmesi ve sonradan ödeme yapması geçerli bir borca itiraz sebebi olarak kabul edilemez.

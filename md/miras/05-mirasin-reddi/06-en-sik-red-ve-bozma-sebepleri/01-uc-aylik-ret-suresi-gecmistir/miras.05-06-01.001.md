@@ -21,12 +21,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919425600)
+
 Davanın açıldığı sırada mevcut olmasına rağmen yargılama sırasında taraflardan birinin ölümüyle taraf ehliyetinin sona ermesi durumunda HMK’nın 55 inci maddesi uygulama alanı bulur. Bu doğrultuda HMK’nın 55 inci maddesi “Taraflardan birinin ölümü hâlinde, mirasçılar mirası kabul veya reddetmemişse, bu hususta kanunla belirlenen süreler geçinceye kadar dava ertelenir. Bununla beraber hâkim, gecikmesinde sakınca bulunan hâllerde, talep üzerine davayı takip için kayyım atanmasına karar verebilir” hükmünü haiz olup anılan maddenin uygulanabilmesi için dava konusunun ölen tarafın varislerine miras yoluyla intikali mümkün malvarlığına ilişkin olması gerekir. Başka bir anlatımla, dava konusunun sadece ölen tarafı ilgilendirdiği, miras yoluyla intikali mümkün olmayan bir hakka ilişkin olduğu hâllerde taraflardan birinin ölümü sonrasında mirasçılarla davaya devam edilemeyeceğinden HMK’nın 55 inci maddesi uygulama alanı bulmaz (Kuru; s. 907, 914; Hakan Pekcanıtez/Muhammet Özekes/Mine Akkan/ Hülya Taş Korkmaz: Pekcanıtez Usul Medeni Usul Hukuku, C. I, ... 2017, s. 578).
 
 Miras yoluyla intikali mümkün hakların konusunu oluşturduğu bir davada davacının ölümü hâlinde HMK’nın 55 inci maddesi gereğince Mahkemece, davacının mirasçılarının tamamı tespit edilerek davadan haberdar edilmeleri gerekir. Davacının tek bir mirasçısının bulunması hâlinde bu mirasçı, birden fazla mirasçısının bulunması hâlinde de TMK’nın 640 ıncı maddesi uyarınca terekeye elbirliğiyle malik olmaları sonucu aralarında HMK’nın 59 uncu maddesi gereği mecburi dava arkadaşlığı bulunan mirasçıların tamamı davadan haberdar edilerek murisleri tarafından açılan davaya devam etme iradesinde olup olmadıkları belirlenmelidir. Bu doğrultuda yapılacak tebligatlar sonrasında mirasçıların terekeyi kabul veya ret etmemiş olmaları hâlinde TMK’nın 606 ncı maddesinde belirlenen üç aylık mirasın reddine dair süre beklenerek mirasçıların tamamının davaya katılımı ile taraf teşkili sağlandıktan sonra yargılamaya devam edilir. Ayrıca gecikmesinde sakınca bulunan hâllerde Mahkemece, davayı takip için kayyım tayin edilebilecektir.
 Ancak her hâlükarda davacının vefatından sonra yargılamaya devam edilebilmesi için Mahkemece mirasçıların tamamının davaya katılımının sağlanması veya terekeye temsilci atanması yoluyla taraf teşkilinin sağlanarak yargılamaya devam edilip hüküm kurulması gerekir.
 
 ## Yargıtay 8. HD 2019/11381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648139500)
 
 Katılma alacağı ve terekeden kaynaklanan haklar arasındaki farklılıklar kabaca şöyle sıralanabilir; katılma alacağı bakımından; 1. Katılma alacağı şahsi hak niteliğinde bir nispi alacak hakkıdır, 2.Katılma alacağı kanundan kaynaklanmaktadır, 3. Ölümle sona eren edinilmiş mallara katılma rejiminin tasfiyesi ölen eşin terekesinin paylaşılmasının bir ön koşulu olarak ortaya çıkmaktadır, 4. Katılma alacağı terekenin öncelikle ve peşin ödenmesi gereken borçları arasında yer almaktadır, 5. Katılma alacağı, miras bırakanın borcudur, 6. Miras bırakanın ölümü ile borçlu olma sıfatı mirasçılarına geçer ve mirasçılar TMK'nin 641. maddesine göre borçlardan müteselsilen sorumludurlar, 7. Davacı sağ eş, hem katılma alacağı nedeniyle tereke alacaklısı ve hem de tereke borcundan dolayı mirasçı sıfatıyla tereke borçlusudur. Bu nedenle alacaklı ve borçlu sıfatı davacı sağ eşte birleşmiş durumdadır, 8. Katılma alacağı alacaklısı miras payı oranında tereke borçlarından sorumludur, 9. Sağ eş katılma alacağını aldıktan sonra borca batık mirası (terekeyi) reddetme hakkı vardır, 10.
 Edinilmiş malların sürüm değerleri tasfiye anındaki yani karar tarihine en yakın tarihteki değerleri hesaplamaya esas alınır (TMK mad.235/1), bu sebeple davanın sürecine göre ölüm tarihi ile karar tarihi arasında uzun süre geçmiş olabilir (3-5 yıl, hatta daha fazla olabilir), 11. Sağ eşin aldığı katılma alacağı, ölenin evlilik süresince edindiği mallara katkısının bir karşılığıdır, 12-Mal rejiminin tasfiyesinde yetkili ve görevli mahkeme Aile Mahkemesidir, 13. Katılma alacağı oranı kanun gereği ½ (yarı) olup, sabit bir oran olarak belirlenmiştir (TMK mad. 236/1), 14. Edinilmiş mallara katılma rejiminin tasfiyesine konu mallar kural olarak edinilmiş mallardır. Miras (tereke) hakları bakımından ise; 1. Terekeden doğan hak şahsi hak niteliğinde bir nispi alacak hakkı olmayıp, miras hukukundan kaynaklanan bir ayni hak, yani bir ayni paylaşımdır. 2. Mirasçılar tereke borçlarından müteselsilen sorumludur. (TMK mad. 641/1), 3. Terekenin tasfiyesine konu mallar murisin hem kişisel malları ve hem de edinilmiş mallarıdır. 4.Terekenin net miktarının (net terekenin) bulunması için öncelikle tasfiyede sağ kalan eşin katılma alacağının çıkarılması gerekmektedir.
@@ -38,6 +42,8 @@ ret, mirastan çıkartma, mirastan yoksunluk gibi) yasal mal rejimi tasfiyesinde
 
 ## Yargıtay 14. HD 2018/5836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437909500)
+
 Dava, terekeye temsilci tayinine ilişkindir.
 
 …
@@ -48,25 +54,37 @@ Tarafların ortak murisi ... 10.05.2012, murisin eşi davacı ... ise 27.12.2017
 
 ## Yargıtay 14. HD 2018/4172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426422100)
+
 Malvarlığı borcuna yetmeyen mirasçı alacaklılarına zarar vermek amacıyla mirası reddederse, alacaklıları veya iflas idaresi, kendilerine yeteri kadar bir güvence verilmediği takdirde ret tarihinden başlayarak altı ay içinde reddin iptali hakkında dava açabilir. (TMK m. 617/1) Somut olayda murisin ölüm tarihi 25.04.2011 olup, davalı 08.06.2011 tarihinde mahkemeye müracaat ederek “mirası kayıtsız şartsız reddettiğine” dair beyanda bulunmuş, 04.08.2011 tarihinde mirasın reddine karar verilmiştir. Türk Medeni Kanununun 617/1 maddesinin açık hükmü karşısında ret tarihi ile davanın açıldığı tarih arasında 6 aylık hak düşürücü sürenin geçtiği anlaşılmaktadır. Belirtilen nedenle mahkemece de resen nazara alınması gereken 6 aylık hak düşürücü süre geçtikten sonra açılan davanın reddine karar verilmesi gerekirken, yazılı gerekçeyle hüküm kurulması doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 12. HD 2015/21355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/173098000)
 
 Borçluların mirası reddetmeleri sebebiyle borçlu olmadıklarına yönelik iddiaları borca itiraz niteliğinde olup, icra takip prosedürüne göre ilamsız takipte yasal 7 günlük süre içerisinde icra dairesine; kambiyo takibinde 5 gün içerisinde icra mahkemesine yapılması halinde sonuç doğurur. Ancak; murisin ölümü üzerine üç gün (İİK 53. madde) ve devamında (TMK 606 madde) üç ay süre ile mirasçıları hakkında takip yapılamayacağından, mahkemece şikayetçi borçluların İİK'nun 53. maddesine dayalı şikayetlerinin kabulü ile haklarındaki takibin iptaline karar verilmesi gerekir.
 
 ## Yargıtay 14. HD 2015/11843 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/184218300)
+
 Dava mirası ret süresinin uzatılması veya ek süre tanınması talebine ilişkindir. Mahkemece TMK'nın 615. maddesi uyarınca ek süre tanınması için önemli bir neden bulunmadığı kanaatine varıldığından davanın reddine karar verilmesi gerekirken "TMK'nın 606/1. maddesinde belirtilen 3 aylık hak düşürücü süre geçtikten sonra açılan olağanüstü sebeplerden ötürü yeni bir mirasın red süresinin tanınması istemli davanın hak düşürücü süre nedeniyle reddine" karar verilmesi doğru değil ise de hüküm sonucu esas bakımından usul ve kanuna uygun olduğundan HUMK’nın 438/son maddesi gereğince hükmün gerekçesinin ve sonucunun değiştirilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 12. HD 2014/28535 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/87205500)
 
 Öncelikle İİK.nun 53. maddesi üzerinde durmak gerekir. Anılan maddeye göre; “Terekenin borçlarından dolayı ölüm günü ile beraber üç gün içinde takip geri bırakılır. Mirasçı mirası kabul veya reddetmemişse bu hususta Kanunu Medenide muayyen müddetler geçinceye kadar takip geri kalır.” Bu maddenin uygulanabilmesi için icra takibinin mirasın reddi süresinde yapılması ya da murisin, takibe başlandıktan sonra ölmüş olması gerekir. Somut olayda ise icra takibi mirası ret süresi geçtikten sonra başlatılmış olmakla İİK.nun 53.maddesinin uygulama yeri bulunmamaktadır.
 
 ## Yargıtay 8. HD 2014/22507 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98790800)
+
 Toplanan deliller, tüm dosya kapsamından; eldeki davanın harcı ödenmek suretiyle 14.01.2013 tarihinde İstanbul Sulh Hukuk Mahkemesinde açıldığı, anılan Mahkemece 05.02.2013 tarihinde yetkisizlik kararı verildiği, kararın temyiz edilmeksizin 28.03.2013 tarihinde kesinleştiği davacılar vekili tarafından süresi içerisinde, 27.03.2013 tarihinde yetkili mahkemeye gönderilmesi talebinde bulunulduğu ve davanın yetkili olan Fethiye Sulh Hukuk Mahkemesinde görülmeye devam edildiği anlaşılmaktadır. Hakkında mirasın gerçek reddi istenen T.. Ö.. 20.10.2012 tarihinde ölmüş, redde ilişkin dava ise TMK 606/1. maddesinde belirtilen 3 aylık yasal süre geçmeden 14.01.2014 tarihinde açılmıştır. Mahkemece davacıların mirasbırakan T.. Ö.. yönünden de mirasın reddi talebinin kabulü ile mirasın reddinin tespit ve tesciline TMK 609 maddesi gereğince karar verilmesi gerekirken hatalı değerlendirme ile talebin reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2014/20294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98781900)
 
 Yasal ve atanmış mirasçılar mirası reddedebilirler (TMK. m. 605/1). Miras, üç ay içinde reddolunabilir. Bu süre, yasal mirasçılar için, mirasçı olduklarını daha sonra öğrendikleri ispat edilmedikçe mirasbırakanın ölümünü öğrendikleri; vasiyetname ile atanmış mirasçılar için miras bırakanın tasarrufunun kendilerine resmen bildirildiği tarihten işlemeye başlar (TMK. m, 606). Miras bırakan Ali Aksoy, 11.04.2012 tarihinde vefat etmiş, eldeki dava üç aylık yasal süre içerisinde, 12.06.2012 tarihinde oğlu müteveffa E.. A.. tarafından açılmıştır. E.. A.. 12.10.2012 tarihinde vefat etmiş, yasal mirasçıları olan davacılara 14.12.2012 tarihinde duruşma günü usulüne uygun olarak tebliğ edilmiştir. Davacılar T.., M.., E.. ve E.. 16.01.2013 tarihli yargılama oturumunda tutanağa geçen beyanlarında; müteveffa E.. A..'un mirasçısı olduklarını, davaya devam etmek istediklerini, miras bırakan A..A..'un mirasını reddettiklerinin tespitine karar verilmesini talep ettiklerini açıklamışlardır. Bu durumda, davacıların, miras bırakanı olan E.. A..'un ölümü sonrasında; kendilerine duruşma tarihinin tebliğ edildiği tarihte kök miras bırakan A..A..'un mirasçısı olduklarını öğrendiklerinin kabulü gerekir.
 Bu tarihe göre de, üç aylık ret süresi geçmemiştir. Mirasın reddine ilişkin talebin, bu sebeple kabulü gerekirken, reddine karar verilmesi doğru bulunmamıştır.
@@ -76,9 +94,13 @@ Aynı maddenin son fıkrasında ise verilen kararlar ile iki tarafa yükletilece
 
 ## Yargıtay 8. HD 2014/17247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98827200)
+
 Türk Medeni Kanunu'nun 609.maddesi "Mirasın reddi, mirasçılar tarafından sulh mahkemesine sözlü veya yazılı beyanla yapılır. Reddin kayıtsız ve şartsız olması gerekir. Sulh hakimi, sözlü veya yazılı ret beyanını bir tutanakla tespit eder." hükmünü içermektedir. Ret beyanı mahkemeye 07.06.2010 tarihinde yapılmıştır. Bu tarihten davanın açıldığı 27.07.2012 tarihine kadar Türk Medeni Kanunu'nun 617/1.maddesindeki altı aylık hak düşürücü süre geçmiştir. Hak düşürücü süre mahkemece re'sen nazara alınır. Davanın hak düşürücü süre geçtiğinden bahisle reddi gerekirken yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2014/433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98470700)
 
 TMK'nun 609.maddesinde mirasın gerçek reddinin, ergin ve ayırtım gücü taşıyan mirasçıların Sulh Mahkemesine sözlü veya yazılı beyanlarıyla mirası kayıtsız ve şartsız reddettiklerini bildirmeleri halinde mümkün olacağı bildirilmektedir. TMK'nun 606.maddesine göre ise, miras 3 ay içinde reddolunabilir. Başka bir anlatımla, Sulh Hakimi mirasçının red hakkı üzerinde takdir yetkisine sahip değildir. Mirası reddeden kişinin mirasçı olduğu, reddin kayıtsız şartsız ve üç aylık süre içinde yapıldığının belirlenmesi halinde tescil etmekle yükümlüdür.
 
@@ -86,22 +108,32 @@ Herkes haklarını kullanırken ve borçlarını yerine getirirken dürüstlük 
 
 ## Yargıtay 8. HD 2013/18472 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/436019100)
+
 Olayları açıklamak taraflara, hukuki nitelendirme hakime aittir (HMK md.33). Dava dilekçesi içeriğine, dava hasımlı olarak ve mirasın gerçek reddi için yasada öngörülen üç aylık hak düşürücü süreden sonra (4721 sayılı TMK.nun Madde 606 ) açıldığına göre davanın mirasbırakanın ölüm tarihinde ödemeden aczinin tespiti/bu sebeple mirasın hükmen reddine ilişkin olduğu anlaşılmaktadır. Bu davanın açılması için kanunda bir süre öngörülmemiş olup her zaman açılması mümkündür. Terekenin borca batık olduğunun tespiti davalarında dava alacaklılara karşı açılır.
 
 ## Yargıtay 2. HD 2013/8654 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83767000)
 
 Malvarlığı borcuna yetmeyen mirasçı, alacaklılarına zarar vermek amacıyla mirası reddederse, alacaklıları veya iflas idaresi, kendilerine yeterli güvence verilmediği takdirde, ret tarihinden başlayarak altı ay içinde reddin iptali hakkında dava açabilirler (TMK.m.617/1). Altı aylık süre hak düşürücü nitelikte olup, yasal düzenlemeye göre ret tarihinden başlamaktadır. Mirasçı tarafından süresi içinde yapılan mirasın kayıtsız şartsız reddine ilişkin yazılı veya sözlü beyan, sulh hakimi tarafından tutanakla tespit edilmekle, sulh mahkemesine ulaştığı andan itibaren sonuç doğurur ve mirasın açıldığı andan itibaren mirasçı, bu sıfatını kaybeder. Şu halde ret tarihi, sulh hakiminin karar tarihi değil, ret beyanının sulh hakimine ulaştığı tarihtir. Mirabırakan 13.3.2010 tarihinde vefat etmiş, yasal mirasçılarından davalı, 6.4.2010 tarihinde sulh mahkemesine verdiği dilekçe ile mirası kayıtsız şartsız reddettiğini bildirmiştir. Bu beyan sulh hakimi tarafından tutanakla tespit edilmekle, beyan tarihinden itibaren sonuç doğurmuştur. Dava, ret tarihinden başlayarak altı ay içinde açılmamış 26.10.2010 tarihinde açılmıştır. Hak düşürücü süre geçmiştir.
 O halde davanın bu sebeple reddi gerekirken, bu yön nazara alınmadan kabul kararı verilmesi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2013/3994 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83019000)
+
 Olayları açıklamak taraflara hukuki nitelendirme hakime aittir (HMK. md.26). Mirasbırakanın ölüm tarihi itibarıyla mirasın gerçek reddi davası için kanunda öngörülen 3 aylık dava açma süresinin geçmiş olması ve dava dilekçesinde yer alan açıklamalardan davanın Türk Medeni Kanununun 605/2. maddesi uyarınca açıldığı anlaşılmaktadır. Mirasın hükmen reddine dair davalar mirasbırakanın alacaklıları hasım gösterilerek açılır. Bu davalarda yetkili mahkemeler davalının dava tarihinde yerleşim yeri mahkemesi, görevli mahkemeler ise dava tarihi itibarıyla dava konusu alacağın değerine göre sulh ya da asliye hukuk mahkemesidir. Mahkemece öncelikle davacılara mirasbırakanın alacaklılarını ve alacak miktarlarını belirtmeleri için süre verilerek görevli mahkemenin belirlenmesi, alacak miktarına göre mahkemenin görevli olması halinde yetki hususunda değerlendirme yapılması, alacak miktarına göre görevli bulunulmadığının tespiti halinde ise görevsizlik kararı verilmesi gerekirken yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2013/1238 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82411200)
+
 Yasal ve atanmış mirasçılar mirası reddedebilirler (TMK. m. 605/1). Miras, üç ay içinde reddolunabilir. Bu süre, yasal mirasçılar için, mirasçı olduklarını daha sonra öğrendikleri ispat edilmedikçe mirasbırakanın ölümünü öğrendikleri; vasiyetname ile atanmış mirasçılar için mirasbırakanın tasarrufunun kendilerine resmen bildirildiği tarihten işlemeye başlar (TMK. m. 606). Mirasbırakan F.28.4.2009 tarihinde dul ve çocuksuz olarak vefat etmiş, dava 13.5.2011 tarihinde açılmıştır. Mirasbırakanın alacaklısı tarafından, ölümünden sonra yasal mirasçıları aleyhine Gaziantep 1. İcra Müdürlüğünün 2011/462 sayılı dosyası ile 24.1.2011 tarihinde ilamsız icra takibinde bulunulmuş, bu takibe ilişkin ödeme emri, ret beyanında bulunan yasal mirasçı Yunus'a 3.2.2011 tarihinde usulüne uygun olarak tebliğ edilmiştir. Bu durumda, davacının, mirasbırakanı olan teyzesinin öldüğünü ve mirasçı olduğunu bu tarihte öğrendiğinin kabulü gerekir. Bu tarihe göre de, üç aylık ret süresi geçmiştir. Mirasın reddine ilişkin talebin, bu sebeple reddi gerekirken, kabulü doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2008/4757 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81219900)
 
 En yakın yasal mirasçıların tamamı tarafından reddolunan miras, Sulh Mahkemesince iflas hükümlerine göre tasfiye edilir. (TMK.612) Mahkemenin iflas usulü ile tasfiyeye kendiliğinden geçmesi gerekir. Böyle bir durumda esasen istek gerekmez. Bu nedenle Türk Medeni Kanununun 633/1 maddesinde yazılı üç aylık sürenin geçtiğine ilişkin red gerekçesi yerinde değildir.
 

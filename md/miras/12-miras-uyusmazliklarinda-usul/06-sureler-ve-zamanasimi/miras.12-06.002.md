@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2024/4795 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108773700)
+
 Dava ve Hukuki Nitelendirme Dava; kadastro öncesi eklemeli zilyetlik, imar-ihya ve kazandırıcı zamanaşımı zilyetliğine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -35,9 +37,13 @@ Hâl böyle olunca, öncelikle, davacıya dava dilekçesinin açıklattırılmas
 
 ## Yargıtay 7. HD 2024/4766 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107835300)
+
 Kanunlar uyarınca Devlete kalan bir taşınmazın mülkiyetinin zamanaşımı yoluyla kazanılabilmesi mümkün olmayıp miras yoluyla Devlete kalan bir taşınmaz da bu kapsam dahilindedir (... Rıza Düzceer, Kazandırıcı Zamanaşımıyla Taşınmaz İktisabı, Ankara, 1994, s.126). Somut olayda; taşınmazların bir kısmında paydaş geri kalanın da ise tek malik olan ... kızı...'ın TMK'nın 501. maddesi gereğince son mirasçısının Hazine olduğu ve terekesi Devlete kaldığından dava konusu taşınmazların mülkiyetinin olağanüstü zamanaşımı yoluyla kazanılması mümkün değildir.
 
 ## Yargıtay 1. HD 2024/4045 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059465900)
 
 Dava, kadastro öncesi nedene dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -50,6 +56,8 @@ Diğer yandan, asıl davanın davacıları aynı zamanda kazandırıcı zamanaş
 
 ## Yargıtay 7. HD 2024/3959 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1099934900)
+
 Bölge Adliye Mahkemesinin kararında; kadastro tespitinden önce düzenlenen miras payının devri sözleşmesi uyarınca açılan tapu iptal tescil isteminin hak düşürücü süre nedeniyle reddine karar verilmesinde isabetsizlik bulunmadığı, davacı tarafça 4721 sayılı Türk Medeni Kanununun 713/1 ve 2 nci maddeleri uyarınca kazanım koşullarının oluştuğu ileri sürülmüş ise de; miras payının devri sözleşmesi tarihi ile kadastro tespiti tarihi arasında 20 yıllık kazanım koşullarının oluşmadığı, yine kadastro tespitinin ölü muris adına yapılmış olmasının tespitin mirasçıları adına yapılmış olması sonucunu doğurduğu, taşınmazın malikinin kim olduğunun belli olduğu ve gaip olmadığı anlaşıldığından, yine tespit maliki sayılan davalı mirasçının da dava tarihinden sonra öldüğü sabit olmakla davacıların anılan maddeler uyarınca da tapu iptali ve tescil talebinin yerinde olmadığı, tazminat isteminin ise zaman aşımına tabi olduğu, davalının süresi içinde zaman aşımı def'inde bulunduğu, 3402 sayılı Kadastro Kanununun 12/3 üncü maddesine göre davacının tespitin kesinleştiği 24.12.1986, 06.07.1985, 03.03.1987 tarihlerinden 10 yıllık hak düşürücü sürenin en son dolduğu 03.03.1997 tarihine kadar tespitten önce
 doğan hakka dayanarak dava açıp taşınmazın tapu kaydının iptali ile adlarına tescil ettirme hakkı mevcut olduğundan 03.03.1997 tarihine kadar ifanın imkansız hale geldiğinden söz edilemeyeceğinden zamanaşımının bu tarihten itibaren başladığının kabul edilmesi gerektiği, bu tarihten itibaren de hem sebepsiz zenginleşmede uygulanması gereken iki ve on yıllık hem de genel zamanaşımı süresi olan on yılık süre geçmiş olduğundan davalıların zaman aşımı savunması da gözetilerek davacının tazminat talebinin de zaman aşımı nedeniyle reddine karar verilmesi gerekirken yazılı şekilde kabulü doğru değil ise de; yapılan bu yanlışlık yeniden yargılamayı gerektirmediğinden 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1-b.2 nci maddesi gereğince davacılar vekilinin istinaf başvurusunun esastan reddine, davalılar vekilinin istinaf başvurusunun kabulüne, İlk Derece Mahkemesi kararının kaldırılmasına, düzeltilerek yeniden esas hakkında açıklanan nedenlerle davanın reddine karar verilmiştir.
 
@@ -58,6 +66,8 @@ doğan hakka dayanarak dava açıp taşınmazın tapu kaydının iptali ile adla
 Dava; kadastro öncesinde düzenlenen miras payının devri sözleşmesi ve TMK'nın 713/1-2 nci maddeleri uyarınca tapu iptali ve tescil, olmadığı takdirde satış bedelinin denkleştirici adalet ilkesi uyarınca güncellenmiş bedelinin tahsili istemine ilişkindir.
 
 ## Yargıtay 1. HD 2024/3747 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059260200)
 
 Dava; yargılamanın iadesi istemine ilişkindir.
 
@@ -69,25 +79,35 @@ Her ne kadar, Bölge Adliye Mahkemesince HMK'nın 379/(1)-a maddesi gereğince s
 
 ## Yargıtay 3. HD 2024/3710 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105012700)
+
 Dairemizin 04.11.2015 tarihli ve 2015/15068 E., 2015/17254 K. sayılı ilamıyla; "(...) İskan kaydı ile kendilerine temlik edilen, ancak somut olayda olduğu gibi tapuya tescil edilmeyen ya da tapuda kayıtlı taşınmazlarını haricen satması veya kayıt maliki ve mirasçılarının ilgilenmemesi nedeniyle yerine uygulanmayan milyonlarca kayıt sahibi ya da mirasçısının, yasaların kendilerine tandığı yasal yolları zamanında kullanmayarak hak düşürücü süreleri geçirdikten yıllarca sonra somut olayda olduğu gibi Hazineye karşı tazminat davası açmaları yürürlükteki yasalara göre olanaksızdır. O halde tapu kaydının iptali ve tescil davalarının hak düşürücü süre yönünden reddini gerektirecek davalar nedeniyle açılan tazminat davalarının da dinlenilmesi mümkün değildir.
 
 Bilirkişiler BK 96. maddesinden söz ederek "fiilen kusurlu bir imkansızlık yaratıldığından" söz etmiş, Mahkeme de gerekçesinde bu konuya yer vermiştir. Bu maddeye göre; alacaklı hakkını kısmen veya tamamen alamadığı takdirde borçlu kendisine hiçbir kusur isnat edilemeyeceğini, ispat etmedikçe bundan dolayı zararın tamamından sorumludur. Bu sorumluluğu belirleyecek davanın herhalde 10 yıllık zamanaşımı süresi içinde açılması gerekir. Somut olayda iskan sahibi davacı murisleri hak düşürücü ve zamanaşımı süresi içinde itiraz ve dava haklarını kullanmamış olduklarından davanın esasına girilip bu konu tartışılamaz.
 
 ## Yargıtay 5. HD 2024/3206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038852900)
+
 Dosyanın incelenmesinden; davacıların murisine ait eski zabıt kayıtlarının 1969 yılında yörede yapılan arazi kadastro çalışmaları sırasında revizyon görmediği, zabıt kayıtlarına daha önce konulan haciz şerhi nedeniyle 1971 yılında icra müdürlüğünce değer tespiti yapılmış ise de herhangi bir satış işleminin yapılmadığı ve zabıt kaydının sonradan herhangi bir işlem görmediği, davacılar ve murisleri tarafından 10 yıllık hak düşürücü süre içinde herhangi bir tespite itiraz davasının açılmadığı, keza 1939 yılında yörede yapılan ve kesinleşen orman kadastrosuna davacıların bayiinin itiraz etmediği, davacılar yargılama aşamasında taleplerini tazminat davası olarak ıslah etmiş iseler de murisleri adına davaya konu 47 ada 1 ve 2 nolu zabıt kaydına dayalı olarak1969 yılında yapılan arazi kadastrosu sonucu oluşan herhangi bir güncel tapu kaydı bulunmadığı, arazi kadastro çalışmaları sırasında orman niteliğinde olması nedeniyle revizyon görmeyen ve işleme tabi kayıt niteliği kalmayan eski tapu kaydının hukuki değerini yitirdiği, tapunun hukuki değerini yitirdiği 1969 yılından davanın açıldığı tarihe kadar 10 yıllık zamanaşımı süresinin dolduğu anlaşılmış olup 3402 sayılı Kanun'un 12 nci
 maddesinin dördüncü fıkrası gereğince, " kadastrosu tamamlanan çalışma alanı içerisinde kalan eski tapu kayıtları, işleme tabi kayıt niteliğini kaybeder" hükmü gözetildiğinde, davacılar ve murisleri tarafından 10 yıllık hak düşürücü süre içinde herhangi bir tespite itiraz davasının açılmadığı anlaşılmakla, arazi kadastro çalışmaları sırasında orman niteliğinde olması nedeniyle revizyon görmeyen ve işleme tabi kayıt niteliği kalmayan hukukî değerini yitiren tapu kaydına dayanılarak tazminat talep edilmesi mümkün olmadığından tazminat koşulların oluşmadığı gerekçesiyle davanın reddine karar verilmesi yerindedir.
 
 ## Yargıtay 4. HD 2024/2941 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1114524900)
 
 Temyizen incelenen İlk Derece Mahkemesi kararının bozmaya uygun olduğu, kararda ve kararın gerekçesinde hukuk kurallarının somut olaya uygulanmasında bir isabetsizlik bulunmadığı, bozmaya uyulmakla karşı taraf yararına kazanılmış hak durumunu oluşturan yönlerin ise yeniden incelenmesine hukukça imkân bulunmadığı, özellikle birleşen davanın süresinde açılmadığından bahisle davanın zamanaşımı nedeni ile reddine karar verilmiş ise de 14.09.2008 tarihinde meydana gelen kaza nedeni ile manevi tazminat istemli birleşen davanın 16.09.2016 tarihinde açıldığı, zamanaşımı süresinin her ne kadar 14.09.2016 tarihinde dolmuş ise de 12.09.2016 tarihinde başlayan ve 15.09.2016 tarihinde biten Kurban Bayramı nedeni ile 6100 sayılı Hukuk Muhakemeleri Kanunu 93'üncü maddesi uyarınca sürenin son gününün resmî tatil gününe rastlaması hâlinde, süre tatili takip eden ilk iş günü çalışma saati sonunda biteceğinden dava açmak için son günün 16.09.2016 tarihinde doluyor olması nedeni ile davanın süresinde açıldığının anlaşıldığı, zamanaşımı nedeni ile ret kararının yerinde olmadığı, ancak 4721 sayılı Türk Medeni Kanunu'nun 25/4'üncü maddesi uyarınca manevi tazminat taleplerinin muris tarafından ileri
 sürülmediği sürece mirasçılara geçmeyeceğinden birleşen davanın reddinin yerinde olduğunun anlaşılmasına göre dahili davalı SGK vekilinin tüm, davacılar vekilinin aşağıdaki bentlerin kapsamı dışında kalan temyiz itirazlarının reddine karar verilmiştir.
 
 ## Yargıtay 8. HD 2024/2276 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045535800)
+
 Ortak muristen kalan ve taksim edilmeyen taşınmazlar üzerinde bir yada bir kısım mirasçının tasarruf ve zilyetliğinin bulunması halinde diğer mirasçılara karşı kural olarak kazandırımı zamanaşımı zilyetiği hükümlerinin işlemeyeceği, kullanımın tereke adına sayılacağı tartışmasız olup, taksime dayanan tarafın ise terekenin yöntemine uygun şekilde taksim edildiğini ve taşınmazın taksimle kendisine düştüğünü ispat etmesi gerektiği, bir insan ömrünü aşar şekilde uzun süreli zilyetliğin ancak terekenin taksim edildiğine karine sayılabileceği bu durumda da ispat yükünün taksim yapılmadığını savunan tarafa geçeceğinin mahkemece gözönünde bulundurulması gerekir.
 
 ## Yargıtay 1. HD 2024/2275 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046196500)
 
 Dava, kadastro öncesi nedene dayalı tapu iptali ve tescil, olmadığı takdirde bedel istemine ilişkindir.
 
@@ -97,6 +117,8 @@ Kadastro çalışmaları sonucu ... köyü çalışma alanında bulunan 134 ada 
 
 ## Yargıtay 5. HD 2023/7526 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/943474000)
+
 Mevkii 20.01.1954 tarihli ve cilt:122 ve 32 sıra numaralı 12 dönümlük yerin 1973 yılında yörede yapılan arazi kadastrosu sırasında ... 3 pafta 127 parsele, ... Mevkii 20.01.1954 tarih cilt 122 ve 33 sıra numaralı 25 dönümlük yerin, ... 1 pafta 571 parsele revizyon gördüğü, ... Mevkii 20.01.1954 tarihli ve cilt 122 ve 34 sıra numaralı 33 dönümlük yerin ise herhangi bir taşınmaza revizyon görmediği, davacılar tarafından ... mevkii 20.01.1954 tarihli ve Cilt:122 ve 34 sıra kaydındaki 33.000 m² miktarlı taşınmazın herhangi bir parsele revizyon görmemesi ve tapunun bedelsiz olarak iptal edilmesi nedeniyle eldeki tazminat davasının açıldığı, Mahkemece yapılan keşif ve alınan bilirkişi raporuna göre davacıların tutunduğu 20.01.1954 tarihli ve 122 cilt, 34 sıra No.lu taşınmazın ... 71 parsel sayılı taşınmaz sınırları içinde kaldığı, ...
 71 parsel sayılı taşınmazın 1973 yılında yapılan arazi kadastro çalışmaları sırasında tapu kaydına istinaden ... adına tespit edildiği ve kadastro tutanağının itiraz edilmeksizin 07.01.1975 yılında kesinleşerek taşınmazın ... adına tapuya tescil edildiği, bilahare Milli Savunma Bakanlığına izafeten Hazine tarafından ... aleyhine açılan kamulaştırma davası sonucu Gaziosmanpaşa 4. Asliye Hukuk Mahkemesinin 25.05.1993 tarihli ve 1993/11 Esas, 1993/102 Karar sayılı ilâmı ile dava konusu ... 71 parsel sayılı taşınmazın bedeli ödenmek suretiyle Hazine adına tescil edildiği anlaşıldığı, somut olayda davacıların tutunduğu kök murislerine ait eski 20.01.1954 tarihli ve Cilt:122 ve 34 sıra No.lu zabıt kaydı 1973 yılında yörede yapılan arazi kadastro çalışmaları sırasında revizyon görmemiş, davacılar ve murisleri tarafından 10 yıllık hak düşürücü süre içinde herhangi bir tespite itiraz davasının açılmadığı, dayanak zabıt kaydının ...
 71 parsel sayılı taşınmaz sınırları içerisinde bulunduğu anlaşılmakta ise de söz konusu taşınmaz kadastro çalışmaları sırasında ... adına tespit ve tescil edilmiş, daha sonra Hazine tarafından açılan kamulaştırma davası sonucu hükmen Hazine adına tescil edilmiş, kadastrodan önceki sebeplere dayalı olarak 10 yıllık hak düşürücü süre içinde tapu malikine husumet yöneltilerek dava açılması gerekmekte olduğundan davacılar tarafından eski malike karşı böyle bir dava açılmadığından davacıların tapu iptal tescil talepleri yerinde görülmemiş, davacıların terditli tazminat talebine gelince 1973 yılında yörede yapılıp kesinleşen arazi kadastrosunda davacıların murisi adına söz konusu zabıt kaydına dayalı olarak herhangi bir tapu kaydı oluşmamış olup arazi kadastro çalışmaları sırasında herhangi bir nedenle revizyon görmeyen ve işleme tabi kayıt niteliği kalmayan eski tapu kaydı hukukî değerini yitirmiş olup 4721 sayılı Kanun'un 1007 nci maddesi gereğince hukukî değerini yitiren tapu kaydına dayanılarak tazminat talep edilmesi mümkün olmadığından tapunun hukukî değerini yitirdiği 1973 yılından davanın açıldığı tarihe kadar 10 yıllık zamanaşımı süresinin dolduğu, bir an için davacıların zabıt
@@ -104,13 +126,19 @@ kaydına dayalı olarak tazminat talep hakkı bulunduğu kabul edilse bile, Anay
 
 ## Yargıtay 1. HD 2023/5010 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983923000)
+
 Kadastro sonucu ... İli, Merkez ilçesi, ... köyü, ...mevki çalışma alanında bulunan 2087 parsel sayılı 4964 metrekare yüzölçümündeki taşınmaz irsen intikal, taksim ve kazandırıcı zamanaşımı zilyetliği nedeniyle davalıların mirasbırakanı ... adına tespit ve tescil edilmiştir. Davacılar çekişmeli taşınmazların müşterek mirasbırakandan intikal ettiği iddiasına dayanarak tapu iptal ve tescil istemiyle dava açmıştır. Dava konusu taşınmaza ilişkin tesis kadastrosu kesinleşme tarihinin 28.03.1983 olduğu, davanın ise Kadastro Kanunu'nun 12/3 üncü maddesinde düzenlenen 10 yıllık hak düşürücü süre geçtikten sonra, 30.10.2020 tarihinde açıldığı anlaşılmıştır.
 
 ## Yargıtay 7. HD 2023/3888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979070000)
+
 TMK 713/2 nci maddesine dayalı olarak görülen davalarda, kayıt maliki hiç mirasçı bırakmadan ölmüş ise terekesi TMK 501 inci maddesi uyarınca Hazine'ye geçeceğinden bu tür bir yerin olağanüstü zamanaşımı ve zilyetlik yoluyla edinilmesi mümkün olmaz. Çünkü; kanunlar uyarınca Hazine'ye kalan taşınmazların bu yoldan kazanılması mümkün olmadığı gibi terekeye kayyım atanmak ve davanın kayyıma yöneltilmek suretiyle uyuşmazlığın çözüme ulaştırılması da mümkün bulunmamaktadır.
 
 ## Yargıtay 1. HD 2023/2435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917841200)
 
 Dosya içeriği ve toplanan delillerden; mirasbırakan ...’nin 07.02.2018 tarihinde öldüğü, geriye davacı çocukları ..., ... ve ... ile yargılama aşamasında davaya muvafakat veren oğlu ... ve davalı oğlu ...’un kaldığı, mirasbırakanın maliki olduğu 796 parsel sayılı taşınmazını 28.05.2009 tarih 3894 yevmiye no.lu akitle bizzat davalı oğlu ...’a satış suretiyle devrettiği, ... hakkında yapılan icra takibi sonucu taşınmazın 28.02.2017 tarihinde dava dışı ... ...’a ihale edildiği, ancak İcra Müdürlüğü tarafından 16.04.2019 tarihinde taşınmazın ihale alıcısı ... adına tescili için Tapu Müdürlüğüne müzekkere yazıldığı, yargılama sırasında 3402 sayılı Kanun'un 22/a maddesi gereğince yenileme çalışmaları ile taşınmazın 2160 ada 24 parsel numarasını aldığı ve son kayıt malikinin ... olduğu, davacılarca 23.02.2021 tarihli dilekçe ile davaya tapu iptali ve tescil olarak devam edileceğinin beyan edildiği anlaşılmaktadır.
 
@@ -119,9 +147,13 @@ gerekirken delillerin takdirinde yanılgıya düşülerek hak düşürücü sür
 
 ## Yargıtay 3. HD 2023/1680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965288800)
+
 Hal böyle olunca, İlk Derece Mahkemesince; yukarıda açıklanan maddi ve hukuki olgular çerçevesinde, öncelikle istinaf aşamasında vefat eden davacılardan Bahattin'in mirasçılarına usulüne uygun tebligat yapılıp, mirası reddetmeyen mirasçılarının mecburi dava arkadaşı olarak yöntemince davaya katılımı sağlanmak, mirasçılar davayı birlikte takip etmekten kaçınırlarsa terekeye temsilci tayin ettirmek suretiyle, taraf teşkili sağlandıktan sonra, davanın zamanaşımı süresi içerisinde açıldığı dikkate alınıp, zamanaşımı def'inin reddine karar verilerek, işin esası incelenip değerlendirilmek suretiyle, hasıl olacak sonuca göre bir karar verilmesi gerekirken; yanılgılı değerlendirme ile davanın zamanaşımı nedeniyle reddine karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 7. HD 2023/798 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884577800)
 
 Tenkis davasını Türk Medeni Kanunu'nun 560 ıncı maddesine göre, saklı pay sahibi mirasçılar açabilir. Davacı ise, miras bırakan Sıtkıye Yüksel Karaer'in saklı pay sahibi mirasçısı değildir. Davacı vekili, tenkis davasını müvekkilinin babası ...'in saklı payına dayanarak açmıştır. Tenkis davası için öngörülen hak düşürücü süre dolmadan önce ölen saklı pay sahibi mirasçının, tenkis davasını açma hakkı kendi mirasçısına halefiyet yolu ile geçer (Ömer Uğur Gençcan, Miras Hukuku, Yetkin Yayınları, Ankara, 2021, 5. Baskı, sayfa 761).
 
@@ -129,6 +161,8 @@ Hâl böyle olunca, saklı pay sahibi mirasçı ...'in ölüm tarihi itibari ile
 Bu durumda, davacının tenkis davası açma hakkını dayandırdığı ...'in öldüğü tarihte tenkis davasını açabilmesi için öngörülen hak düşürücü sürenin geçmiş olduğu ve ... tarafından da tenkis davası açılmadığı hususları tartışmasızdır.
 
 ## Yargıtay 1. HD 2022/8244 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886599900)
 
 Dava, muris muvazaası hukuki nedene dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -140,6 +174,8 @@ Hemen belirtmek gerekir ki; tapuda kayıtlı olmayan taşınmazlar, taşınır m
 
 ## Yargıtay 1. HD 2022/5789 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848117300)
+
 Dava, vekil vasıtasıyla gerçekleştirilen satış işlemine ilişkin muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tazminat ve ecrimisil istemlerine ilişkindir.
 
 …
@@ -148,15 +184,21 @@ Dava, vekil vasıtasıyla gerçekleştirilen satış işlemine ilişkin muris mu
 
 ## Yargıtay 1. HD 2022/4310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804326700)
+
 İlk Derece Mahkemesince, dava konusu taşınmazın bulunduğu bölgede 2007 yılında imar uygulamasının yapıldığı ve bu tarihten itibaren taşınmaz üzerine yapı inşa edilebileceğinin kabulü gerektiği, bu durumun davacılar tarafından da bilindiği, davanın bir yıllık hak düşürücü süre geçtikten sonra açıldığı gerekçesiyle davanın reddine karar verilmiş, karara karşı davacılar vekilinin yaptığı istinaf başvurusu Antalya Bölge Adliye Mahkemesi 1.Hukuk Dairesince mirasbırakan ...’a ait veraset ilamının dosyada bulunmadığı, nüfus kayıtlarına göre davada yer almayan mirasçısının bulunduğu, taşınmazın elbirliği mülkiyetine tabi olması nedeniyle, davada yer almayan diğer mirasçıların muvafakatlerinin alınması, ya da miras şirketine atanacak temsilci aracılığıyla davanın sürdürülmesi gerekirken davanın görülebilirlik koşulu gözardı edilerek esası hakkında hüküm kurulmasının doğru olmadığı gerekçesiyle İlk Derece Mahkemesi kararı kaldırılmış, İlk Derece Mahkemesince davada yer almayan diğer mirasçıların muvafakati alındıktan sonra yeniden yapılan inceleme sonucunda, aynı gerekçeyle hak düşürücü süre geçtikten sonra açılan davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2022/3219 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804718800)
 
 3.2.1. Yargıtay içtihatlarında ve 01.04.1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararında açıklandığı üzere görünürdeki sözleşme tarafların gerçek iradelerine uymadığından, gizli bağış sözleşmesi de Türk Medeni Kanunu'nun 706., Türk Borçlar Kanunu'nun 237. ve Tapu Kanunu'nun 26. maddelerinde öngörülen şekil koşullarından yoksun bulunduğundan, saklı pay sahibi olsun veya olmasın miras hakkı çiğnenen tüm mirasçılar dava açarak resmi sözleşmenin muvazaa nedeni ile geçersizliğinin tespitini ve buna dayanılarak oluşturulan tapu kaydının iptalini isteyebilirler.
 
 3.2.2. Öte yandan, muris muvazaası iddiasına dayalı davalar, terekeye karşı yapılan haksız fiil niteliğini taşıdığından ve yolsuz tescil niteliğinde olduğundan, herhangi bir zamanaşımı veya hak düşürücü süreye tabi olmaksızın her zaman açılabileceği sapma göstermeyen yargısal içtihatlar ve aynı yöndeki öğreti görüşü ile benimsenmiştir.
 
 ## Yargıtay 1. HD 2022/2499 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762210400)
 
 Dava konusu taşınmazların 116 ada 2, 118 ada 10, 119 ada 6, 10, 124 ada 3, 127 ada 8, 131 ada 4, 136 ada 4, 142 ada 47, 50 parsel sayılı taşınmazların kadastro tespitlerinin 18/03/2008 tarihinde kesinleştiği, davanın ise 16/08/2018 tarihinde açılmış olması nedeniyle bu taşınmazlar yönünden hak düşürücü süre nedeniyle ret kararının yerinde olduğu; ancak çekişmeli 139 ada 4 parsel sayılı taşınmazın muris ... mirasçıları adına miras payı oranında tespit yapılmasına ve davacıların da miras payı oranında malik bulunmasına göre davacıların 139 ada 4 parsel sayılı taşınmaz yönünden açılan davada hukuki yararları bulunmadığından bu parsel yönü ile hukuki yarar yokluğu nedeni ile davanın dava şartı yokluğundan usulden reddine karar verilmesi gerekirken, hak düşürücü süre nedeni ile reddine karar verilmesinin isabetsiz olduğu belirtilerek, …
 
@@ -165,6 +207,8 @@ Dava konusu taşınmazların 116 ada 2, 118 ada 10, 119 ada 6, 10, 124 ada 3, 12
 Dava, kadastro öncesi sebebe dayalı asliye hukuk mahkemesinde açılmış tapu iptal -tescil davasıdır.
 
 ## Yargıtay 1. HD 2022/2326 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/801875100)
 
 Bu tür uyuşmazlıkların sağlıklı, adil ve doğru bir çözüme ulaştırılabilmesi, davalıya yapılan temlikin gerçek yönünün diğer bir söyleyişle miras bırakanın asıl irade ve amacının duraksamaya yer bırakmayacak biçimde ortaya çıkarılmasına bağlıdır. Bir iç sorun olan ve gizlenen gerçek irade ve amacın tespiti ve aydınlığa kavuşturulması genellikle zor olduğundan bu yöndeki delillerin eksiksiz toplanılması yanında birlikte ve doğru şekilde değerlendirilmesi de büyük önem taşımaktadır. Bunun için de ülke ve yörenin gelenek ve görenekleri, toplumsal eğilimleri, olayların olağan akışı, mirasbırakanın sözleşmeyi yapmakta haklı ve makul bir nedeninin bulunup bulunmadığı, davalı yanın alım gücünün olup olmadığı, satış bedeli ile sözleşme tarihindeki gerçek değer arasındaki fark, taraflar ile mirasbırakan arasındaki beşeri ilişki gibi olgulardan yararlanılmasında zorunluluk vardır.
 

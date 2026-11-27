@@ -48,9 +48,13 @@ Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmadığ�
 
 ## Yargıtay 1. HD 2023/7050 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974633300)
+
 2797 sayılı Yargıtay Kanunu’nun (2797 sayılı Kanun) 40 ıncı ve Yargıtay İç Yönetmeliği’nin 18 inci maddeleri uyarınca yapılan ön incelemede; uyuşmazlığın niteliğinin mirasçı olduğunun tespiti ile muris muvazaası hukuki nedenine dayalı tapu iptali ve tescili, olmazsa bedel istemine ilişkin olduğu, İlk Derece Mahkemesinin davacıların mirasçı sıfatı bulunmadığı gerekçesiyle aktif husumet yokluğundan davanın reddine karar verdiği ve Bölge Adliye Mahkemesinin de istinaf başvurularının reddine karar verdiği, Yargıtay Büyük Genel Kurulunun dairelerin iş bölümüne ilişkin 25.01.2023 tarihli ve 1 sayılı kararının ortak hükümler kısmının 10 uncu maddesi gereğince uyuşmazlığın çözümü için öncelikle davacıların mirasçı olup olmadıklarının tespiti gerektiği anlaşılmıştır.
 
 ## Yargıtay 1. HD 2021/4949 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696427700)
 
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -61,14 +65,20 @@ Hal böyle olunca, yukarıda belirtilen ilkeler ve olgular çerçevesinde araşt
 
 ## Yargıtay 1. HD 2021/878 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652259800)
+
 Davanın kabulüne ilişkin olarak verilen karar Dairece; “...eldeki davanın kabulü halinde mirasçı sıfatıyla hak sahibi olabilecek...,..,...ve ...; “babamın kardeşim Hasan ve anne Vahide'ye yaptığı temlikler mal kaçırma amaçlı değildir, miras payımıza isabet eden kısma mukabil taşınmaz ve para aldık. Murisimiz o tarihlerde başkasından taşınmaz alarak davacı adına tescil ettirmiştir” şeklinde beyanda bulunmuşlardır. Bu beyanlardan anlaşıldığı kadarıyla mirasbırakanın kızı ...dışındaki mirasçılarına taşınmaz, para verdiği açıktır. Ne var ki; mirasçı ...'a bir şey verilip verilmediği üzerinde durulmamıştır. Gülüzar'a da para, altın, vs. bir şey verildiğinin saptanması halinde mirasbırakanın mal kaçırma iradesinin bulunmadığı, sağlığında mirasçıları arasında paylaştırma iradesiyle hareket ettiği sonucuna varılacaktır.
 Hal böyle olunca; dinlenen tanıklar tekrar çağırılıp ...a bir şey verilip verilmediği saptanarak sonucuna göre karar verilmesi gerekirken, eksik soruşturma ile yetinilerek yazılı şekilde karar verilmesi doğru değildir...” gerekçesi ile bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama sonucunda muvazaa olgusunun sabit olduğu gerekçesi ile asıl davanın kabulüne, feragat nedeniyle birleştirilen davanın reddine karar verilmiştir.
 
 ## Yargıtay 17. HD 2020/3461 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594499400)
+
 Borcun doğumundan önce başlayan bir süreçte yapılan işlemin, alacaklıdan mal kaçırma amacı ile yapıldığından söz edilmesi mümkün olmayıp, borçlunun asıl tasarrufunun borcun doğmundan önce yaptığı 18.12.2002 tarihli mirastan feragat sözleşmesi olup, bu sözleşme iptal edildiği ve geçersiz olduğu ispat edilmediğinden, 29.11.2011 tarihli tapu işlemi bu sözleşmenin infaza konulması niteliğine olduğundan davanın reddi yerine kabulüne karar verilmesi usul ve yasaya aykırı olmuştur.
 
 ## Yargıtay 1. HD 2020/2788 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647641900)
 
 Davanın kabulüne ilişkin olarak verilen karar Dairece;
 
@@ -80,6 +90,8 @@ Hâl böyle olunca açılan davanın reddine karar verilmesi gerekirken deliller
 
 ## Yargıtay 1. HD 2019/105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/476666900)
+
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -88,6 +100,8 @@ Davanın reddine dair verilen karar Dairece, “...Dava konusu 189 1 ve 229 pars
 ...maz mevcutsa HUMK'nun 186. maddesinin uygulanması gerektiğinin düşünülmesi, hasıl olacak sonuca göre bir karar verilmesi gerekirken, noksan soruşturma ve yanılgılı değerlendirmeyle yazılı olduğu üzere karar verilmiş olmasının doğru olmadığı” gerekçesiyle bozulmuş; Mahkemece bozma ilamına uyularak yapılan yargılama sonucunda, dava konusu 189 ada 1 parsel ve 229 parsel sayılı ...mazlar ile mirasbırakan...'ın ölünceye kadar bakma şartıyla temlik ettiğinden bahisle bir kısım ...maz yönünden davanın reddine, mirasbırakan Alime ...’dan dava dışı kişiye, ondan da davalılara satış suretiyle temlik edildiği ve temlikin muvazaalı olduğu gerekçesiyle bir kısım ...maz yönünden davanın kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2016/3203 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207417000)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve miras payı oranında tescil isteğine ilişkindir.
 
@@ -99,6 +113,8 @@ Bilindiği ve TMK'nun 6. maddesinde düzenlendiği üzere herkes iddiasını isp
 
 ## Yargıtay 1. HD 2016/2556 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203540900)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve miras payı oranında tescil isteğine ilişkindir.
 
 …
@@ -108,5 +124,7 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve miras payı oran
 Bilindiği ve TMK'nun 6. maddesinde düzenlendiği üzere herkes iddiasını ispat etmekle mükelleftir. Tarafların annesi ve kardeşlerinin beyanlarından davalıya yapılan temlikin gerçek satış olduğu murisin mal kaçırma amacı ile hareket etmediği sonucuna varılmaktadır.
 
 ## Yargıtay 1. HD 2011/7730 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918499600)
 
 Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye, delillerin takdirinde bir isabetsizlik bulunmamasına ve özellikle mahkemece, hükmüne uyulan bozma ilamı uyarınca gerekli araştırma ve inceleme yapılmak suretiyle, temlik tarihinde miras bırakan ...'in,2659 Sayılı Adli Tıp Kurumu Kanununun 7.ve 16. maddeleri uyarınca 4. İhtisas Dairesinden elde edilen raporla hukuki ehliyete haiz olduğu belirlendiğinden; öte yandan her ne kadar ( eski 743 Sayılı MK'nun 448. maddesi) 4721 Sayılı ... Medeni Kanununun 501. maddesi hükmü uyarınca, mirasçı bırakmadan ölen kişinin mirası, son mirasçı sıfatıyla Hazineye intikal ederse de, Hazinenin muris muvazaası hukuksal nedenine dayalı olarak açmış olduğu davada,1.4.1974 tarih ,1/2 Sayılı İçtihadı Birleştirme Kararının uygulama yeri bulunmadığından davanın reddine karar verilmiş olması doğru olduğuna göre; davacının temyiz itirazı yerinde değildir.

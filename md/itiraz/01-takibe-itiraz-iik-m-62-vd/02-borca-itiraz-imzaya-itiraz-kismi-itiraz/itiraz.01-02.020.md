@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2022/403 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/738238200)
+
 AVM inşaat işinin bir kısmı olan yapısal çelik işlerinin sabit birim fiyat üzerinden yapımı işini konu alan eser sözleşmesi yapıldığı, taraflar arasında 7 adet hak ediş düzenlendiği, bunlardan ilk üçünün ihtirazi kayıtsız kabul edildiği, 4 ve 5 nolu hak edişlere davacının itirazi kayıt koyduğu, 6 ve 7. nolu hakedişlerin taraflarca imzalanmadığı, yer tesliminin 13.03.2009 tarihinde yapıldığı, sözleşmeye göre işin 25/07/2009 tarihinde bitirilerek geçici kabule hazır hale getirilmesi gerektiği, ancak sözleşme konusu işlerin anılan tarihte tamamlanmamış olduğu, davacı tarafça 12-13/10/2009 tarihinde geçici kabulünün yapılmasının istendiği, davalı tarafça geçici kabulün yapılmadığı, sunulan geçici hak edişler ve yaptırılan tespit sonucu işin geçici kabule yeterli şekilde bitirildiği, davaya konu iş ile birlikte tüm inşaatın 19/11/2009 tarihli ve davalı ile asıl iş sahibi arasına düzenlenen geçici kabul tutanağı ile geçici kabulünün, 28/12/2011 tarihli tutanakla da kesin kabulünün yapıldığı, taraf ticari defterlerine göre davacının söz konusu işe ilişkin olarak toplam 3.424.958,37 TL bedelli fatura düzenlediği, bu faturaların davalı defterlerinde kayıtlı olduğu, iş bu hak ediş faturaları
 karşılığında sözleşme gereğince 297.822,47 TL nakit teminat kesintisi yapıldığı, davacının bu nakit teminat kesintisinin iadesi için birleşen davaya konu takibi yaptığı, davalının takipte 227.705,14 TL borcu kabul ettiği, kalan 70.117,33 TL'ye itiraz ederek takibi kısmen durdurduğu, taraf ticari defter kayıtlarında davalı ödeme kayıtları bakımından mutabakatsızlık olduğu, bu mutabakatsızlığın davalı tarafça davacı adına düzenlenen 7 nolu hak ediş borcu (2.733,14 TL), geçici kabul borcu (16.500 TL), imalat borcu (davacı nam ve hesabına yaptırılan) (128.427,84 TL), gecikme cezası (87.000 TL), kusurlu giderlerin yansıtılması (44.047,51 TL) faturalarından kaynaklandığı uyuşmazlık konusu değildir.
 
@@ -91,6 +93,8 @@ Taraf vekillerinin istinaf başvurusunun açıklanan nedenlerle KABULÜ ile; Ank
 
 ## İstanbul BAM 12. HD 2022/188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729406700)
+
 İLK DERECE MAHKEMESİ KARARI: Mahkemece; davalı şirketin defter ve kayıtlarında takip ve dava konusu yapılan miktarda davacı lehine alacak kaydının bulunduğu, ancak dava konusu alacak miktarının üzerinde virman işleminin kayıtlarda yer aldığı, virman işleminin dayanak belgesinin bulunmaması nedeniyle ispata muhtaç olup bu miktardaki ödemenin davalı tarafça kanıtlanması gerektiği, davalı tarafın bu nitelikte bir ödeme belgesi sunamadığı, her ne kadar davalı vekilince sözleşmenin İngilizce dilinde olup Türkçe'ye çevrilmesinin gerektiği savunulmuş ise de davalının incelenen defter ve kayıtlarıyla dava kanıtlanmakla ve sözleşmede davalının sorumluluğunu ortadan kaldıracak bir hüküm bulunduğuna ilişkin bir iddia dile getirilmemesi karşısında davalı vekilinin isteminin hükme etkili bulunmadığı gerekçesiyle davanın kabulüne, davalının itirazının iptali ile takibin devamına, davalının %20 oranında icra inkar tazminatı ile sorumlu tutulmasına karar verilmiştir.
 
 …
@@ -104,6 +108,8 @@ Ancak virman işlemi, dayanak belgesinin bulunmaması nedeniyle ispata muhtaç o
 HÜKÜM:Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Gaziantep BAM 11. HD 2022/147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727284800)
 
 Davacı Vekili; müvekkilinin ... vade tarihli .... TL senet nedeni ile davalılar murisi ....'dan alacaklı olduğunu, alacağın tahsili için ....İcra Müdürlüğü'nün ... Esas sayılı dosyası ile icra takibi yaptıklarını davalıların haksız olarak icra takibine itiraz ettiklerini ileri sürerek itirazın iptaline, davalıların alacağın %20'si oranında icra inkar tazminatına mahkum edilmesine karar verilmesini talep etmiştir.
 
@@ -125,6 +131,8 @@ Mahkemece takip borçlusu olan mirasçıların daha önce mirasın reddini talep
 
 ## İstanbul BAM 12. HD 2022/135 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/732789800)
+
 İLK DERECE MAHKEMESİ KARARI: Mahkemece, ilk olarak mahkemenin 2021/86 esas sayılı dosyasında açılan davada davalı şirket hakkında açılan davanın tefrikiyle ayrı bir esasa kaydı yapılarak istinafa konu edilen hüküm verilmiştir. Tefrik sonucunda ;2021/652 esas sayısını alan dava da" İstanbul ...
 
 …
@@ -138,9 +146,13 @@ HÜKÜM:Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunu
 
 ## İstanbul BAM 3. HD 2021/3490 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/713616300)
+
 Somut olayda ,davalı -borçlu icra dosyasında kendisine ödeme emri tebliğ edilmemesine rağmen ,borca itirazlarını bildiren dilekçe vermiştir.İcra takibinde ,ödeme emrinin tebliği ve tarihi konuları,itirazın süresinde yapılmadığı ileri sürüldüğü takdirde önem taşıyacaktır.Somut olayda,davalı -borçlu hakkındaki icra tekibini haricen öğrendiğini beyanla itirazlarını bildirmiştir.Bu konuda tarafların ,itirazın süresinde olmadığı veya geçersiz olduğu yönünden iddia ve savunmaları bulunmadığı gibi,ödeme emri tebliğ edilmediği için itiraz süresi başlamadığından ,davalı borçlunun artık itirazının süresinde olmadığı gibi bir değerlendirme de yapılması sözkonusu olmayacaktır. Dolayısı ile, borca yönelik bir itiraz bulunduğundan, ilamsız takip yasa gereği durmuş olduğundan,davacının da İİK 67. maddesine göre itirazın iptali davası açmakta hukuki yararının bulunduğu açıktır.Bu sebeple ,mahkemece, tarafların gösterdiği deliller toplanarak,sonucuna göre karar vermesi gerekirken, hukuki yarar yokluğundan davanın usulden reddine ilişkin verdiği karar usul ve hukuka aykırı olmakla,davacının istinaf talebinin HMK 353/1-a-6. maddesine göre kaldırılması gerekmiştir.
 
 ## İstanbul BAM 3. HD 2021/2702 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696326000)
 
 Bu işlemleri tamamlaması durumunda MTS dosyası kapatılır. Takip talebinde belirtilen icra dairesinde haciz işlemlerinin başlatılabilmesi için bu dairenin bağlı bulunduğu mahkemede yetki itirazının kaldırılması şarttır. Mahkeme, yetki itirazını dosya üzerinden inceleyip kesin olarak karara bağlar. Mahkemenin yetkili gördüğü icra dairesinde haciz işlemlerinin başlatılabilmesi için yeniden ödeme emri tebliği gerekmez. Yetki itirazı kaldırıldıktan sonra avukatın, icra dairesinde takibe devam edebilmesi için; MTS üzerinden “Yetki İtirazının Kaldırılması” seçeneğini seçerek işlem yapması ve varsa harçları ikmal etmesi zorunludur.
 
@@ -149,6 +161,8 @@ Bu işlemleri tamamlaması durumunda MTS dosyası kapatılır. Takip talebinde b
 şeklinde düzenlendiği, görüleceği üzere yönetmelikte borca itiraz durumunda 2004 sayılı Kanun hükümlerinin uygulanacağı; yetkiye itiraz durumunda sistem üzerinden yetki itirazının kabulü seçeneğinin seçileceğinin belirtildiği, yani hem borca hem de yetkiye itiraz durumunda izlenecek yolun düzenlenmemiş olduğu, hem yetki hem de borca itiraz durumunda takibin yetkili icra dairesine gönderilmesi gibi bir buton veya seçenek bulunmadığı, davalı tarafından yetkili icra müdürlüğü İstanbul olarak gösterildiği göz önünde bulundurularak İstanbul mahkemelerinde işbu davayı açma zaruretinin hasıl olduğu, dolayısıyla yerel mahkemece yetkili İstanbul icra müdürlüğünde itirazın iptaline konu takip bulunmadığı gerekçesiyle reddine dair kurulan kararın hatalı bulunduğu, Ayrıca, sözleşmeden kaynaklanan yetkiye itiraz edilmediği takdirde takibin açıldığı icra müdürlüğünün yetkili hale geleceği, 6100 sayılı Hukuk Muhakemeleri Kanunu’nun ‘Yetki İtirazının İleri Sürülmesi’ başlıklı 19.
 
 ## İstanbul BAM 15. HD 2021/1598 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/677657600)
 
 Davacı vekili, müvekkilinin kuru temizleme işi ile uğraştığını, davalı şirketin müvekkilinden almış olduğu hizmet karşılığında ödemesi gereken bedeli ödemediğini, bu nedenle müvekkilinin Bakırköy 14. İcra Müdürlüğü'nün ... Esas sayılı takip dosyasında ilamsız takip başlattığını, davalı borçlunun borcun 4.045,10 TL'lik kısmını kabul edip kalan kısma itiraz ettiğini, müvekkilinin davalıya sunduğu hizmet karşılığında düzenlediği faturalara davalının itiraz etmediğini, davalının icra takibine itirazının haksız ve kötüniyetli olduğunu belirterek, davalının itirazının iptaline ve %20 oranında icra inkar tazminatına karar verilmesini talep etmiştir.Davalı, davaya cevap vermemiştir.
 

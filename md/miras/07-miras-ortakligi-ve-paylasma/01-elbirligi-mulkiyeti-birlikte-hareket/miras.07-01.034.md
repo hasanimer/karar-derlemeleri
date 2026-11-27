@@ -49,6 +49,8 @@ Yine davacılar ve davalı takip borçlusu ... mirasçıları olup takip alacakl
 
 ## İstanbul BAM 14. HD 2023/2096 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980966000)
+
 AŞ'nin 25.03.2023 tarihinde gerçekleştirilen 2021 yılı olağan genel kurul toplantısında alınan kararların iptaline dair açılan davada ihtiyati tedbir talebinin reddine ilişkin ara kararın istinaf edilmesi üzerine, dairemizin 2023/2373 E 2023/2051 K14.12.2023 tarihli ve İstanbul BAM 13 Hukuk Dairesinin 2023/1731 E- 2023/1472 K sayılı ve 05.10.2023 tarihli karar içeriklerinde açıklanan gerekçelerle tedbir talebinin kabulü ile genel kurul toplantısında alınan kararların yürütülmesinin geri bırakılmasına karar verildiği anlaşılmaktadır. İş bu davadaki davalı şirketin 21.03.2023 tarihli 2021 yılı olağan genel kurul toplantısının aynı mahiyette olduğu, 24.01.2023 tarihinde yapılması gereken genel kurul toplantısının pay sahiplerinin talebi üzerine TTK'nın 420. maddesi gereğince 21.03.2023 gününe ertelendiği, toplantı tutanağına, müteveffa ...'na ait hisseleri temsil etmek üzere İstanbul 16.
 Sulh Hukuk Mahkemesinin 2023/1 tereke dosyasında verildiği iddia edilen yetki belgesi doğrultusunda tereke temsilcisi olduğunu beyan eden Av. ...'ün katılmayı talep ettiği ve ilgili mahkeme kararını şirket yönetim kuruluna sunduğu ve TTK'nın 420. maddesi gereğince toplantının ertelenmesini talep ettiği, ancak yönetim kurulu kararının yürürlükte olduğu belirtilerek ...'nun bir hissesi ya da terekenin söz konusu olmadığı, bu sebeple tereke temsilcisinin genel kurulda oy kullanamayacağının ifade edildiği, terekeye ait payların tereke temsilcisi tarafından temsil edilmesi gerektiğini, toplantıyı kabul edilmemesini doğru bulmadığını belirterek muhalefet ettiği, toplantıda alınan kararların hükümsüzlüğüne dair tereke temsilcisinin butlan nedeniyle iptal ve yürütmenin geri bırakılmasına dair iş bu davayı açmış olduğu anlaşılmıştır. TTK'nın 449/1. maddesine göre; Genel kurul kararı aleyhine iptal veya butlan davası açıldığı takdirde mahkeme, yönetim kurulu üyelerinin görüşünü aldıktan sonra, dava konusu kararın yürütülmesinin geri bırakılmasına karar verebilecektir. TMK'nın 640. Maddesine göre;
 Birden çok mirasçı bulunması halinde, mirasın geçmesiyle birlikte paylaşmaya kadar, mirasçılar arasında terekedeki bütün hak ve borçları kapsayan bir ortaklık meydana gelir.
@@ -57,6 +59,8 @@ Mirasçılar terekeye elbirliğiyle sahip olurlar ve sözleşme veya kanundan do
 Somut olayda, davacı ve dava dışı mirasçıların açmış olduğu davalar ile ilk derece ve istinaf mahkeme kararları ve dava dilekçesine ekli bilgi ve belgelerden, davacının davada haklılığını yaklaşık olarak ispat etmiş olduğunun kabulü ile davacının 21.03.2023 tarihinde gerçekleştirilen genel kurul toplantısında alınan kararların yürütülmesinin geri bırakılmasına karar verilmesi gerekirken, talebin reddine karar verilmesi isabetli görülmemiş, bu nedenle davacının istinaf başvurusunun kabulü gerekmiştir. Her ne kadar davalı vekilince istinafa cevap dilekçesinde, davacı tereke temsilcisinin görevinin İstanbul 3. Asliye Hukuk Mahkemesi kararı ile kaldırıldığı belirtilmiş ise de aynı kararda terek temsilcisinin değiştirildiği, davaya yeni tereke temsilcisi tarafından devam edilebileceği dikkate alındığında, ihtiyati tedbir karar verilmesine engel bulunmadığı değerlendirilmiştir.
 
 ## İstanbul BAM 13. HD 2023/1894 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966967200)
 
 Noterliğinin 24/03/2022 tarih ve ... yevmiye sayılı ihtarnamesine cevaben gönderilen 28/03/2022 tarih ve ... sayılı cevabi yazıda Türk Ticaret Kanununun 432. Maddesi ve Anonim Şirketlerin Genel Kurul Toplantılarının Usul Ve Esasları İle Bu Toplantılarda Bulunacak Gümrük Ve Ticaret Bakanlığı Temsilcileri Hakkında Yönetmeliğin 18/6 maddesi gereğince bir pay birden çok kişinin ortak mülkiyetinde ise, bunların ancak kendi içlerinden veya dışarıdan seçecekleri bir temsilci vasıtasıyla genel kurula katılıp oy kullanabilecekleri ve banka esas sözleşmesinin 10. maddesi gereğince "hisse senedinin birden ziyade sahipleri varsa şirkete karşı olan haklarını ancak müşterek bir mümessil vasıtasıyla kullanabilirler" hükmü gereğince ...'ın talebini kabul etmediğini, tüm mirasçıların 30/03/2022 tarihinde icra edilecek .. Bankası A.Ş.
 Olağan Genel Kurul Toplantısında temsil edilebilmesi muristen miras olarak kalan tahvil hisseleri ve diğer hakları takip edebilmek ve miras ortaklığının hak kaybının engellenmesi zımnında 30/03/2022 tarihli olağan genel kurul toplantısına katılım sağlanabilmesi, murisin terekesinin henüz taksim edilmemiş olması mirasçılar arasında iştirak halinde mülkiyet söz konusu olduğu, davalı ...
@@ -86,6 +90,8 @@ isteminin kabulü ile HMK'nın 353/1.a.6 maddesi uyarınca ilk derece mahkemesi 
 
 ## İstanbul BAM 17. HD 2023/1335 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974453200)
+
 AŞ'ye satmış olduğunun sabit olması ve ana sözleşme değişikliği ile işletme kooperatifine dönüşen davalı kooperatif ana sözleşmesine göre ortaklık şartlarını taşımayan davacının, davalı kooperatif nezdinde üyeliğinin bulunmadığının kabul edilmesi gerektiği bildirilmiştir. Somut olayda, davacı, davalı kooperatif nezdinde 3/8 oranında ortaklık payının bulunduğunu iddia ederek kooperatif üyeliğinin tespiti ile adına tesciline karar verilmesini talep etmiştir. Davacı, bu ortaklık payının 1/4'ünü ...den; 2/8'ini ise ... devir yoluyla aldığını iddia etmektedir. Bakırköy .... Noterliğinin 25.03.1985 tarih ve ... yevmiye sayılı hisse devir senedi ile, davalıların murisi ..., davalı kooperatifteki 4. Blok B tipi iki ünite işyerinden 408/A numaralı ambarın, ambar kısmının 2/3 hissesini uhdesinde tutarak bakiye 1/3 hissesini 260.000.00 TL bedel mukabilinde davacıya; altlı üstlü yazıhane kısmını da 180.000 TL bedel mukabilinde ... devrettiği anlaşılmıştır. Buna göre devir sözleşmesi, nitelikleri belirtilen taşınmazın belirli bir hissesinin devredilmesi amacına yönelik olup kooperatif üyeliğinin devredilmesine ilişkin değildir.
 Bu husus davacı, ... ve ... tarafından imzalanıp davalı kooperatife sunulan 16/07/1990 tarihli yazı içeriği ile de sabittir. Söz konusu yazı ile, tapu işlemlerinde, söz konusu hisseler dikkate alınarak tescilin yapılması talep edildiğinden kooperatif ortaklığı bakımından bir talep söz konusu değildir. Bu nedenle taşınmazın devri, ortaklığın da devri anlamına gelmeyeceği için davalıların murisi ..., vefat ettiği 09.01.1990 tarihine kadar kooperatif üyesi olduğuna şüphe yoktur. Davalıların murisi ... 09.01.1990 tarihinde vefat etmiş olup artık mirasçıları arasında söz konusu kooperatif üyeliği bakımından elbirliği mülkiyeti hükümleri geçerlidir. 4721 sayılı TMK'nun 702/2 maddesine göre ise, kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, gerek yönetim, gerek tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gerekir. Buna göre Bakırköy ....
 
@@ -104,6 +110,8 @@ Davacı ve diğer ortaklara mütevaffa ... ’ın payı miras olarak intikal etm
 
 ## İstanbul BAM 17. HD 2023/1023 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/948672600)
+
 Dava, ticari ilişki kapsamında fazladan tahsil edildiği belirtilen alacağın tahsili amacıyla başlatılan icra takibine karşı yapılan itirazın iptali istemine ilişkindir.
 
 …
@@ -115,6 +123,8 @@ Bu anlamda fazladan bedel tahsil edildiği ile ilgili, davalı şirketin, ...-..
 
 ## İstanbul BAM 43. HD 2023/1005 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960906900)
+
 Dava, anonim şirket genel kurul kararların iptali, davasıdır.
 
 …
@@ -123,6 +133,8 @@ Maddesine göre, finansal tabloların müzakeresi ve buna bağlı konular, serma
 Dava konusu genel kurul toplantısı ile ilgili davet yazısının iadeli taahhütlü olarak davacıya gönderildiği davacının da kabulündedir. Bu davet yazısında, şirketin finansal tabloları ve yönetim kurulu faaliyet raporlarının şirket merkezinde, belirtilen adreste pay sahiplerinin incelemesine hazır bulundurulduğuna dair açıklama yer almaktadır. Davacı tarafça, finansal tabloların şirket merkezinde hazır edilmediği veya incelenmesine izin verilmediği de iddia edilmemiş olup, bu kapsamda bilgi alma ve inceleme haklarının kullandırılmadığı iddiası dinlenebilir değildir.
 
 ## Ankara BAM 21. HD 2023/940 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910440500)
 
 Dava; davalı şirketin 02/12/2017 tarihli Genel Kurulu'nda alınan kararların hükümsüz olduğunun tespiti / iptali istemine ilişkindir.
 
@@ -134,10 +146,14 @@ Kadıköy 10. Noterliğinin 06/05/2016 Tarih ve 6908 Yevmiye Numaralı İhtarnam
 
 ## İstanbul BAM 13. HD 2023/683 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887390500)
+
 Buna göre davalı şirkete karşı, dava konusu genel kurullarda alınan kararların batıl olduğunun tespiti veya iptali davası açma hakkı terekeden doğan bir hak olup, TMK'nun 640/2 fıkrası uyarınca tüm yasal mirasçılar tarafından birlikte kullanılmak durumundadır. Bu yönüyle de davacının aktif husumeti bulunmamaktadır. Bu izahın, davacının ileri sürdüğü, dağıtılmasına karar verilmeyen kar payı alacaklarının tespiti talebi ile 1997 ve 1998 yılına ait dağıtılmasına karar verilen kar payının tahsili talepleri bakımından da geçerli olduğuna kuşku yoktur. Davacının aslında, muris ...'ya ait olduğunu iddia ettiği paylara tekabül eden dağıtılmasına karar verilmeyen kar payı tutarları ile 1997 ve 1998 yıllarına ait kar paylarının miras payı oranında kendisine ödenmesine karar verilmesini talep ettiği görülmektedir. Özünde terekeye ait olan kar payı tutarlarının terekeye ödenmesi talep edilmediğine göre, dava dışı yasal mirasçıların açılan davaya muvafakat edip etmediklerinin araştırılmasına da lüzum bulunmamaktadır.
 Zira davacı ...'in henüz mirasın paylaşılmamış olması karşısında, miras payı oranında kar payının tahsilini talep hakkı bulunmadığı gibi, böyle bir davanın tereke adına açılabilmesi için dahi tüm yasal mirasçıların birlikte hareket etmesi zorunludur. Tüm bu gerekçelerle; mahkemece davacının tüm taleplerinin aktif husumet yokluğundan reddine karar verilmesi isabetli olduğu gibi, sonuca etkili olmayacak muris muvazasına dayalı davanın bekletici mesele yapılmamış olmasında da isabetsizlik mevcut olmadığından, davacı ... yönünden ileri sürülen istinaf sebepleri yerinde bulunmamıştır.
 
 ## İzmir BAM 17. HD 2023/546 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882335600)
 
 Dava, bankacılık işlemine dayalı menfi tespit istemine ilişkindir.
 
@@ -146,6 +162,8 @@ Dava, bankacılık işlemine dayalı menfi tespit istemine ilişkindir.
 Davacının ölümü ile mirasçıları arasında elbirliği mülkiyeti oluşmuştur. Elbirliği mülkiyeti kanundan veya kanunda sayılmış olan sözleşmelerden doğar. Burada ortakların belirlenmiş payları olmayıp eşyanın mülkiyeti ortakların tümüne aittir. Miras ortaklığı da kanundan doğan elbirliği mülkiyeti olup 4721 sayılı TMK 640. maddesindeki düzenlemeye göre mirasçılar terekeye elbirliği ile sahiptir. Sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere terekeye ait bütün haklar üzerinde birlikte tasarruf ederler.
 
 ## Ankara BAM 21. HD 2022/1061 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/812105500)
 
 Dava; davalı şirketin 09/06/2018 tarihli olağan genel kurul toplantısında alınan kararların hükümsüzlüğünün tespiti ve iptali istemine ilişkindir.
 

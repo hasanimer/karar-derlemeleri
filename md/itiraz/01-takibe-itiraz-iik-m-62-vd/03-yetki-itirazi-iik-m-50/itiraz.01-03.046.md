@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 12. HD 2019/811 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/511862100)
+
 İLK DERECE MAHKEMESİ KARARI:Mahkemece, bir dava için birden fazla (genel ve özel) yetkili mahkeme varsa, davacının bu mahkemelerden birinde dava açmak hususunda bir seçimlik hakka sahip olduğu, davacının, davasını bu genel ve özel yetkili mahkemelerden hiçbirisinde açmaz ve yetkisiz bir mahkemede açar ise, o zaman seçme hakkının davalıya geçeceğini,davalının ikametgahının mersin olduğu, mahkemenin yetkili olmadığı gerekçesiyle; açılan davanın HMK'nun 114/1-(ç) maddesinde belirtilen dava şartı noksanlığı nedeniyle usulen reddine, mahkemenin yetkisizliğine, yasal iki haftalık sürede talepte bulunulduğunda dosyanın yetkili mahkemeye gönderilmesine karar verilmiştir.
 
 …
@@ -34,6 +36,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle: Taraf vekillerinin istinaf başvurusu
 
 ## İstanbul BAM 13. HD 2019/573 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/499486900)
+
 2015/1998 K numaralı ve 16/02/2015 tarihli kararında bir karayolu taşımasına ilişkin olarak, alacaklı TBK md. 89 uyarınca alacaklının ikametgahında dava açtığı, borçlu aynen huzurdaki itirazları yaptığı ve mahkeme yetki itirazını "götürülecek borç" olması hasebiyle reddettiği ve Yargıtay aşağıdaki gerekçelerle kararı onadığını, (Yargıtay 11. HD 2014/18595 E. 2015/1998 K numaralı ve 16/02/2015 tarihli kararı, Yargıtay 11. H.D.'nin 2008/10806 E. 2010/1757 K. sayılı ve 16.02.2010 tarihli kararı) Bunların yanında, İstanbul Anadolu 8.
 Asliye Ticaret Mahkemesi'nin 2017/1388 E. sayılı dosyasının 15/01/2019 tarihli duruşmasında da 4 no'lu ara karar ile müvekkili sigorta şirketinin adresi itibarıyla mahkemenin yetkili olduğuna karar verilerek davalının yetki itirazının reddine karar verildiğini, bahsi geçen dava dosyasında da tıpkı bu dosyada olduğu gibi bir kara taşıması söz konusu olduğu ve aynı şekilde yetki itirazında bulunulduğunu, ancak para borcu olduğundan mahkemece müvekkilinin yerleşim yeri uyarınca mahkemenin yetkili olduğuna karar verildiğini,Yerel mahkemenin kararında, müvekkili sigorta şirketi ile davalı arasında ticari bir ilişki olmadığı, davalı ile ticari ilişkisi bulunanın dava dışı sigortalı olduğu, üçüncü kişiye ödenen takibe konu alacağın da taşımadan doğan zarar bedeli yani tazminat olduğu, dolayısıyla da para alacağı bulunmadığı, zarar görenin sigortalı olduğu, halefiyetin mahkemenin yetkisine olmadığını belirttiği ancak bunun kabulünün mümkün olmadığını,Müvekkilinin sigorta şirketi olduğunu, sigortalısına ödeme yapmakla TTK md.
 1472 uyarınca tüm haklarına halef olduğunu, bu yönüyle müvekkilinin "kanuni halef" olarak, sigortalısının tüm haklarına halef olduğunu, Mahkemenin gerekçeli kararında belirttiği durum göz önüne alınırsa, TBK md.
@@ -43,6 +47,8 @@ Asliye Ticaret Mahkemesi'nin 2017/1388 E. sayılı dosyasının 15/01/2019 tarih
 HÜKÜM : Yukarıda açıklanan nedenlerle; Davacı vekilinin istinaf başvurusunun KABULÜ ile; 1-İstanbul Anadolu 2. Asliye Ticaret Mahkemesi'nin 06/12/2018 tarih ve 2018/564 Esas - 2018/1264 Karar sayılı yetkisizlik kararının HMK 353/1-a3 maddesi uyarınca KALDIRILMASINA ve yargılamaya devam etmek üzere dosyanın yetkisizlik kararı veren ilk derece mahkemesine gönderilmesine …
 
 ## İstanbul BAM 12. HD 2019/442 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493379000)
 
 İLK DERECE MAHKEMESİ KARARI:Mahkemece, davalının icra dosyasına verdiği itiraz dilekçesinde icra dairesinin yetkisine itiraz etmeyip, cevap dilekçesinde mahkemenin yetkisine itiraz ettiğini, 6100 sayılı HMK 16. madde gereğince haksız fiilin işlendiği veya zararın meydana geldiği, yahut gelme ihtimalinin bulunduğu yer ya da zarar görenin yerleşim yeri mahkemesinin yetkili olacağı, ayrıca HMK 6. maddeye göre davalının yerleşim yeri mahkemesininde yetkili olduğu ; zarar görenin yerleşim yerinin ve zararın meydana geldiği yerin de Mersin olup, yetkili mahkemenin Mersin Asliye Ticaret Mahkemeleri olduğu gerekçesi ile dava dilekçesinin usulden reddine karar verilmiştir.
 
@@ -55,6 +61,8 @@ Yukarıda yazıldığı üzere ;genel ve özel yetkili mahkemenin Mersin mahkeme
 HÜKÜM:Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun HMK 'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 12. HD 2019/434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489252800)
 
 İLK DERECE MAHKEMESİ KARARI: Mahkemece, davacının davalıdan satın aldığı aracın 3. kişiye haricen satılması ve noter satış sözleşmesi yapılması açısından konulan haczin kaldırılması için davalının bilgisinde bu miktarın ödendiği ancak adı geçen tarafından vergi borcunun davacıya iade edilmediği, vergi borcunun yatırılması sonrası aracın 3. kişiye noterde satış işleminin yapıldığı, araç satışından sonra davalının vergi borcu nedeniyle satın alınan araç üzerinden haczin kaldırılması ve devir işlemlerinin yapılması için yatırıldığı, ancak bu yükümlülüğün davalıya ait olduğu gerekçesiyle, itirazın kısmen iptaline, alacak likit olduğundan %40 icra inkar tazminatına hükmedilmesine karar verilmiştir.
 
@@ -70,6 +78,8 @@ Davalı vekilinin istinaf başvurusunun HMK.'nın 353(1)b-1 maddesi uyarınca ES
 
 ## İstanbul BAM 16. HD 2019/283 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473487200)
+
 Maddesine göre davanın davalının yerleşim yeri olan Sakarya Mahkemelerinde açılması gerektiğini, müvekkil şirketin davacı şirkete bir borcunun bulunmadığını, davacı şirketin faturaya konu hizmetin yerine getirildiğini ispat yükümlülüğü altında olduğunu, aralarındaki ilişkinin cari hesap ilişkisi olup taraflar aralarında mutabakata varılmadığı sürece alacak durumu kesinleşmeyip borç miktarı likit olmadığından icra inkar tazminatı talebinin reddedilmesi gerektiğini, müvekkili şirketin temerrüde düşürülmediğinden faiz istenemeyeceğini, hak kaybı olmaması açısından zamanaşımı def'ini kullandıklarını bildirerek, yetki itirazının dikkate alınmasını, davanın esastan reddedilerek %20 den az olmamak üzere kötü niyet tazminatına hükmedilerek yargılama giderleri ve vekalet ücretinin davacı yana yükletilmesini talep etmiştir.İlk derece Mahkemesi 08/05/2017 tarihli 2016/745 Esas 2017/336 karar sayılı kararıyla davalının ikametgahı ve dava konusu enerjinin teslim yerinin Sakarya olup taraflar arasında imzalanan Aktif Enerji Tedarik Sözleşmesinde yetki anlaşması bulunmadığının anlaşıldığı, bu nedenle takibin Sakarya icra dairelerinde yapılmasını gerektiğini belirterek usulüne uygun yetkili icra
 dairesinde açılmış bir icra takibi bulunmadığından dava dilekçesinin reddine karar vermiştir.Davacı vekili istinaf dilekçesi ile; her iki tarafın da tacir olup HMK.17. Madde uyarınca aralarında geçerli bir yetki sözleşmesi yapabileceklerini, keza aralarındaki sözleşmenin 14. Maddesi ile İstanbul Merkez mahkemeleri ve icra dairelerinin yetkili kılındığını belirterek, yerel mahkeme kararının kaldırılması ile davanın esastan kabulüne; esastan inceleme yapılması mümkün değil ise dosyanın yerel mahkemeye gönderilmesine karar verilmesini talep etmiştir.Dava, faturaya dayalı borcun ödenmediği iddiası ile açılan itirazın iptali istemine ilişkindir. Dairemiz önüne getirilen uyuşmazlık ise ilk derece mahkemesince verilen yetkisizlik kararının yerinde olup olmadığı noktasında toplanmaktadır. 1/10/2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanununun "Yetki Sözleşmesi" başlıklı 17.
 
@@ -84,6 +94,8 @@ Davacı vekilinin istinaf isteminin kabulü ile, İstanbul 13.Asliye Ticaret Mah
 
 ## İstanbul BAM 12. HD 2019/251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484212500)
+
 İLK DERECE MAHKEMESİ KARARI: Mahkemece TBK 89. madde gereğince yetki itirazının reddine ilişkin ara kararını müteakip ;toplanan deliller kapsamında davalının icrada itirazı içerisinde yer alan malların düzeltilerek gönderilmesi yönündeki ayıp itirazının yargılama aşamasında davaya yönetilen ihtar,ihbar ve dayanağın sunulmadığı yerinde olmayıp,defter ve kayıtlar ile davalıdan 4.333.70- TL alacağının bulunduğu,talep edilen reeskont faiz alacağının %9 olup, fazla istemin yerinde olmadığı, itirazın iptali ile takibin devamına, %20 inkar tazminatının davalıdan tahsiline karar verilmiştir.
 
 …
@@ -96,6 +108,8 @@ Davalı vekili tarafından davalının ticari defter ve kayıtları incelenmeden
 HÜKÜM: Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 16. HD 2019/227 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469494000)
 
 Davalı vekili, müvekkil şirketin adresinin Ankara olduğunu ve bu nedenle icra takibinin ve davanın yetkili Ankara mahkemelerinde açılması gerektiğini.
 
@@ -117,6 +131,8 @@ Davacı vekilinin istinaf isteminin ESASTAN kabulü ile, İstanbul 6.Asliye Tica
 
 ## İstanbul BAM 13. HD 2019/178 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472227900)
+
 Dava, taraflar arasında düzenlenen sözleşmeden doğan alacağının tahsili için girişilen icra takibine yapılan itirazın iptali istemine ilişkindir.
 
 …
@@ -132,6 +148,8 @@ Dosyada 29/12/2016 tarihli 171.100,00 TL bedelli fatura ile davalıya 16/06/2017
 İstanbul Anadolu 9. Asliye Ticaret Mahkemesi' nin 06/09/2018 tarih ve 2018/700 Esas sayılı ihtiyati haciz isteminin reddine ilişkin ara kararının HMK 353/1-b2 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 13. HD 2019/162 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472947600)
 
 Davacı vekili dava dilekçesinde özetle; taraflar arasında 2013 yılı itibari ile, temizlik kağıtları ürün grubu alım satımına dayalı ticari ilişki başladığını, taraflar arasında ticari ilişkiden kaynaklı olarak davalının Ocak 2013 - Haziran 2014 ayları arasındaki toplam borcunun 28.895,10-TL olduğunu, borcun tahsili amacı ile davalı aleyhine başlatılan Bakırköy ... İcra Müdürlüğü'nün ...Esas sayılı dosyasında başlatılan takibe kısmen itiraz edildiğini, vaki kısmi itirazın haksız olduğunu ileri sürerek, itirazın 6.731,80-TL üzerinden iptali ile %20' sinden aşağı olmamak üzere inkâr tazminatının tahsiline karar verilmesini talep ve dava edilmiştir.
 

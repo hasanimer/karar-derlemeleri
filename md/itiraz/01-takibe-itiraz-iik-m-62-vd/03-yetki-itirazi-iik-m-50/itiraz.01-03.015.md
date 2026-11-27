@@ -113,6 +113,8 @@ Somut davada, davacı borçlu İstanbul 8. İcra Dairesinin ... Esas sayılı do
 
 ## İstanbul BAM 12. HD 2026/587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201132800)
+
 VE SÜREÇ: Dava, cari hesap bakiyesi ve vade farkı alacağına dayanılarak yapılan icra takibine vaki itirazın iptali talebine ilişkindir. Davanın kısmen kabulü-reddine ilişkin kararın taraf vekillerince istinafı üzerine; Dairemizin 2022/355 Esas, 2024/1289 karar sayılı ilamı ile; "Davacı tarafça davalıya gönderilen faturalarda ödeme yapılmaması halinde %3 vade farkı uygulanacağının yazılı olduğu ileri sürülerek cari hesap bakiyesi ile vade farkı alacağının tahsili için 1.032.262.08 TL asıl alacak ile 7.996-TL işlemiş faiz toplamı 1.040.258,56- TL alacak için ilamsız takip yapıldığı, davalı tarafça icra dairesinin yetkisine itirazı ile arada vade farkı faturası düzenleneceğine ilişkin bir anlaşma olmadığı, takip öncesi temerrüde düşürülmediği sebepleriyle icra takibine itiraz edilmiştir. 6098 sayılı TBK'nın 89/1 maddesine göre, aksine bir anlaşma yoksa para borçları alacaklının ödeme zamanındaki yerleşim yerinde ifa edilir. Eldeki davada takip ve davanın konusu para alacağı olduğundan, davacı şirketin yerleşim yeri olan İstanbul Anadolu mahkemeleri ve icra daireleri yetkili olup, davalı vekilinin mahkemenin ve icra dairesinin yetkisine itirazı yerinde değildir.
 Davacı tarafından yapılan takipte alacağın açıklanması kısmında cari alacak ve kur farkı alacağı yazılı ise de; davacı alacaklı icra takibinde 1.032.262,08-TL alacak talep etmiş olup, 13.9.2018 tarihli 438.035,52 -TL bedelli vade farkı faturası dışındaki 594,226,56-TL açık hesaptan kaynaklanan alacağın tamamının kabul edildiği, uyuşmazlığın 438.035,52-TL bedelli,vade farkı içerikli faturadan ibaret olduğu belirlenmiştir. Davacı tarafça vade farkı istemine dayanak olarak düzenlenen satış ve hizmet faturaları ile sipariş onay formu altlarında yazılı olan 30 gün içinde banka transferi yapılmayan ödemeler için aylık %3 vade farkı uygulanacağı"na ilişkin kayıtlara dayanılmış, davacı vekili; vade farkına temel teşkil eden faturalarda, zamanında ödenmeyen faturalara vade farkı uygulanacağı kaydı konulduğunu, davalının iş bu faturalara itiraz etmediğini, faturaları bu kayıtla kabul etmiş sayıldığını, geç ödemeleri nedeniyle vade farkı ödenmesi gerektiğini ileri sürmektedir.
 
@@ -121,6 +123,8 @@ Davacı tarafından yapılan takipte alacağın açıklanması kısmında cari a
 Davalı vekilinin istinaf başvurusunun kabulüne; İstanbul Anadolu ... Asliye Ticaret Mahkemesi'nin .../11/2021 Tarih 2019/...Esas 2021/... Karar sayılı kararın HMK 353(1)b-2 gereği KALDIRILMASINA;
 
 ## Ankara BAM 21. HD 2026/579 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208455700)
 
 Davalı vekili cevap dilekçesinde özetle; kefalet sözleşmesinin geçersiz olduğunu bildirerek davanın reddini istemiştir.
 
@@ -143,6 +147,8 @@ Davacı yan genel kredi sözleşmesinden kaynaklı alacağı bulunduğunu, daval
 İcra müdürlüğünün yetkisine itirazın ne şekilde yapılacağı İİK'da düzenlenmediğinden İİK'nun 50. maddesinin HMK'nun yetkiye ilişkin hükümlerine atıf yaptığı gözetilerek HMK'daki hükümler gözetilmelidir.
 
 ## İstanbul BAM 53. HD 2026/495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204113900)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili şirket ile davalı arasında kumaşla ilgili boya, baskı ve apre hizmetine ilişkin ticari ilişki olduğunu, söz konusu ticari ilişkiye ilişkin müvekkilinin üstlendiği işi eksiksiz ifa ettiğini, akabinde davalıya ödenmesi gereken 48.511,99-TL için fatura gönderildiğini, davalının geçen süre içerisinde ödemelerini yapmadığını, alacağın tahsili için Bakırköy 5. İcra Müdürlüğünün ... Esas Sayılı dosyası ile icra takibi başlatıldığını, davalının icra takibine itiraz ettiğini, itirazın kötü niyetli olduğunu, davanın kabulü ile davalının itirazının iptaline, takibin devamına, davalı aleyhine % 20 den az olmamak üzere icra inkar tazminatına karar verilmesini talep etmiştir.
 
@@ -171,6 +177,8 @@ HMK'nın 353/1.b.1. maddesi uyarınca, davacı vekilinin istinaf başvurusunun e
 
 ## İstanbul BAM 17. HD 2026/474 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204070800)
+
 Davalı vekili cevap dilekçesinde özetle; davacı tarafından iddia edilen geçişlerin 2016 tarihli olduğunu, taraflar arasında herhangi bir sözleşme bulunmadığından TBK 72 ve 82 maddeleri gereğince talep edilen alacağın zamanaşımına uğradığını, bu nedenle öncelikle davanın zamanaşımından reddine karar verilmesini talep ettiklerini, davacının alacağını 6001 sayılı yasaya dayandırdığını, bu yasanın 30/3 sayılı fıkrasında, geçiş ücretlerinin ödenmemesi halinde bu ücretlerin 6183 sayılı kanuna göre tahsil edileceğinin öngörüldüğünü, bu nedenle uyuşmazlığın idari yargı konusuna girmesi gerekçesi reddine karar verilmesi gerektiğini, davacı tarafından iş bu dava açılmadan önce arabuluculuk yoluna başvurulmadığından dava şartı yokluğundan davanın reddi gerektiğini, müvekkili şirketin adresinin Ankara olması nedeniyle Ankara Mahkeme ve İcra Dairelerinni yetkili olduğunu, davacı ile müvekkili arasında tacirler arasında bir ilişkiden bahsedilemeyeceğini, davacının iddiasının genel işlem niteliği taşıdığından, görülmekte olan davanın Tüketici Mahkemelerinin görev alanına girdiğini, bu nedenle görevsizlik kararı verilmesi gerektiğini, davacının iddia edilen ihlalli geçişlerini ispat eden hiç bir
 belge, fotoğraf, resmi tutanak vs şu ana kadar müvekkiline gönderilmediğini, müvekkilinin merkezi Ankara'da olmak üzere 1000'in üzerinde aracını operasyonel kiralama şeklinde işlettiğini, müvekkilinin iddia edilen ihlalli geçişleri bizzat yapmasının mümkün olmadığını, müvekkiline herhangi bir ihlalli bildirimi gönderilmeden ek delillerde aydınlatılmadan müvekkilinden cezalı alacak talebinde bulunulmasının müvekkilinin hak arama özgürlüğünün ihlali niteliğinde olduğunu, ihlalli geçişler davacı tarafından ispatlansa dahi aradan yıllar geçmiş olması nedeniyle kusuru bulunmayan müvekkilinin kiracılarını tespit ve rücu imkanının artık kalmamış olması nedeniyle müvekkilinin hak kaybının meydana geldiğini, davacı ile müvekkili arasında herhangi bir sözleşme bulunmadığından, davacının cezai şart talep hakkı bulunmadığını, davacının niteliği gereği kamusal ve devlete ait bir hak olan ceza tahsil etme tekelini, Anayasa ile devlete getirilen sınırlamalara tabi olmaksızın elinde bulundurmasının düşünülemeyeceğini, aksini düzenleyen kanun hükmünü anayasaya aykırılık teşkil edeceğinden hakim tarafından resen gözetilmesi gerektiğini, davacının ihlalli geçişleri vakit kaybetmeden delilleri ile
 birlikte müvekkiline bildirmekle yükümlü olduğunu, aksinin hakkın kötüye kullanılması yasağına tabi olduğunu ve davacının kötüniyetli olduğunu belirterek davanın reddine ve davacının % 20'den az olmamak üzere inkar tazminatı ödemesine karar verilmesini talep etmiştir.
@@ -197,6 +205,8 @@ Açıklanan nedenlerle, davalı vekilinin istinaf başvurusunun 6100 sayılı Hu
 
 ## İstanbul BAM 43. HD 2026/426 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205365300)
+
 İLK DERECE MAHKEMESİ KARARI:İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, "Bu kapsamda, davacının yerinde görülmeyen 16.773,95-TL, 413,13-TL ve 1.005,48-TL bedelli faturaları istinaden davalının düzenlediği ... numaralı 18.117,55-TL bedelli fatura hesaplamalara dahil edilmemiş, defterler üzerinde yapılan inceleme kapsamında, davacının davalıdan 18.067,75-TL alacak talebinin yerinde olduğu, davalının itirazında haksız çıktığı ve alacağın cari hesaba ve faturalara dayalı likit alacak olduğu dikkate alınarak davanın kabulüne,Bakırköy 13.
 
 …
@@ -210,6 +220,8 @@ Hatalı ve yağlı olduğu beyan edilen 19 kg kumaş için düzenlenen ... numar
 Davalı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Sakarya BAM 5. HD 2026/419 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197575100)
 
 Davalı vekili cevap dilekçesinde; davacının dava dilekçesi ekinde sunduğu sözleşmeyi ve haksız davasını kabul anlamına gelmemek kaydıyla; işbu dava Sakarya Asliye Ticaret Mahkemeleri nezdinde açıldığını, ancak davacı tarafından ibraz edilen sözleşmenin 23/2. maddesinde açıkça “Sözleşme kapsamında KOCAELİ Mahkemeleri ve icra daireleri yetkilidir.” hükmü yer aldığını, bu düzenleme karşısında, davacının uyuşmazlığa konu alacak bakımından yetkisiz icra dairesinde icra takibi başlattığı; anılan takibe yapılan itiraz üzerine de yetkisiz mahkemede işbu itirazın iptali davasını ikame ettiği anlaşıldığını, İcra takibi ve dava konusu alacak ile ilgili davalının herhangi bir borcu bulunmadığını, alacaklı olduğunu iddia eden davacının bunu ispatlaması gerektiğini, davalı şirket başka bir elektrik dağıtım şirketinden hizmet almakta olup davacı'dan herhangi bir hizmet alınmadığını belirterek davanın usulden ve esastan reddini talep etmiştir.
 

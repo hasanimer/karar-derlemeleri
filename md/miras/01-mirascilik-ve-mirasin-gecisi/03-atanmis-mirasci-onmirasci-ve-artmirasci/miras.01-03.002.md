@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 17. HD 2020/1765 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605444900)
+
 4721 sayılı Türk Medeni Kanunu’nun 605. maddesi “B. Ret; I. Ret beyanı; 1. Ret hakkı” başlığı ile düzenlenmiştir. Birinci fıkrası “Yasal ve atanmış mirasçılar mirası reddedebilirler.” hükmünü içermektedir. Burada kayıtsız, şartsız red yani hakiki red düzenlenmiştir. İkinci fıkrası “Ölümü halinde miras bırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır” hükmünü amirdir. Bu hüküm bir karinedir. Konumuzu, “veyadan” önceki cümle ilgilendirmektedir.
 
 Birçok yargı kararında ve ilmi görüşlerde bu red, hükmi red olarak isimlendirilmektedir. Türk Medeni Kanunu, “hakiki redde” süre ile kayıtlı ve mirasçıların tek taraflı irade açıklamasını öngördüğü halde, söz konusu “hükmi reddin” sonuç doğurması için herhangi bir irade açıklaması, ya da dava yolu öngörmemiştir. Öyle ki; reddin kendiliğinden oluştuğu kabul edilip, mirasın açılması ile kendiliğinden mirasçılara intikal edeceği (TMK. m. 599) yönündeki kurala bir istisna getirilmiştir. Eğer mirasçı olabilecek kişi sarih irade beyanıyla, ya da Türk Medeni Kanunu’nun 610. maddesinin ikinci cümlesinde açıklanan davranışlarla mirası kabul etmiş ise, zaten yapılabilecek bir işlem kalmamıştır.
 
 ## Yargıtay 3. HD 2019/1913 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/499687200)
 
 …
 
@@ -34,11 +38,15 @@ atanmış mirasçı olan davacı; TMK'nun 598 inci maddesinin ikinci fıkrası u
 
 ## Yargıtay 3. HD 2019/1639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524861700)
+
 Keza; muris, davaya konu vasiyetnamesi ile mirasının tamamı için davacıyı mirasçı olarak atamış, diğer bir anlatımla, vasiyetname; belirli mal vasiyeti niteliğinde olmayıp, mirasçı atamaya ilişkindir (TMK. md. 516). Mirasçı atanan kişi, murisin ölümü ile tereke üzerinde doğrudan ve kendiliğinden bir ayni hak kazanır. Bu durumda, murisden intikal eden ayni hakların, atanmış mirasçı adına tescili için vasiyetin yerine getirilmesi davasına ve mahkeme hükmüne ihtiyaç yoktur. Atanmış mirasçıya, başvurusu üzerine sulh hukuk mahkemesi tarafından TMK'nun 598 inci maddesinin ikinci fıkrası uyarınca atanmış mirasçı olduğunu gösteren mirasçılık belgesi verilmesi yeterlidir. Bu nitelikteki belge ile ayni hakların bu kişi adına tapuda (resmi senet düzenlenmeksizin tescili) mümkündür (Tapu Sicili Tüzüğü md.20/1-a).
 
 O halde mahkemece; davalı adına kayıtlı olan yukarıda sayılan taşınmazların yalnızca tapusunun iptali ile önceden olduğu gibi muris ... adına tesciline karar verilmesi gerekirken, yanılgılı değerlendirme ile davacı adına tesciline de karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 14. HD 2018/7927 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473152200)
 
 Dava mirasçılık belgesinin iptali ve yeni mirasçılık belgesi verilmesi talebine ilişkindir.
 
@@ -50,6 +58,8 @@ Kabule göre de; atanmış mirasçılara TMK'nin 598/2. maddesi gereğince Sulh 
 
 ## Yargıtay 3. HD 2018/1359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409576000)
+
 Dava, vasiyetnamenin açılıp okunması ve yasal mirasçılık yanında vasiyetname gereğince atanmış mirasçılık belgesi verilmesi istemine ilişkindir.
 
 …
@@ -58,10 +68,14 @@ Mirasçılık belgesine ilişkin düzenlemenin yer aldığı 598. maddede ise ''
 
 ## Yargıtay 3. HD 2017/18365 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/394031700)
+
 4721 sayılı Türk Medenî Kanunu’nun 599.maddesine göre; ‘Mirasçılar, miras bırakanın ölümü ile mirası bir bütün olarak, kanun gereğince kazanırlar. Kanunda öngörülen ayrık durumlar saklı kalmak üzere mirasçılar, miras bırakanın aynî haklarını, alacaklarını, diğer malvarlığı haklarını, taşınır ve taşınmazlar üzerindeki zilyetliklerini doğrudan doğruya kazanırlar ve miras bırakanın borçlarından kişisel olarak sorumlu olurlar’. 605. maddeye göre “Yasal ve atanmış mirasçılar mirası reddedebilirler. Ölümü tarihinde miras bırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır”. 606. maddeye göre; “Miras, üç ay içinde reddolunabilir. Bu süre, yasal mirasçılar için mirasçı olduklarını daha sonra öğrendikleri ispat edilmedikçe miras bırakanın ölümünü öğrendikleri; vasiyetname ile atanmış mirasçılar için miras bırakanın tasarrufunun kendilerine resmen bildirildiği tarihten işlemeye başlar”. 610. maddeye göre;
 “Yasal süre içinde mirası reddetmeyen mirasçı, mirası kayıtsız şartsız kazanmış olur”. 640. maddeye göre, "Birden çok mirasçı bulunması hâlinde, mirasın geçmesiyle birlikte paylaşmaya kadar, mirasçılar arasında terekedeki bütün hak ve borçları kapsayan bir ortaklık meydana gelir. Mirasçılar terekeye elbirliğiyle sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler". 641. maddeye göre; “Mirasçılar, tereke borçlarından müteselsilen sorumludurlar.
 
 ## Yargıtay 20. HD 2017/6821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/366718500)
 
 …
 
@@ -69,9 +83,13 @@ Mirasçılık belgesine ilişkin düzenlemenin yer aldığı 598. maddede ise ''
 
 ## Yargıtay 3. HD 2017/4557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358974000)
+
 Davada dayanılan vasiyetname ile asıl ve birleşen dosyalar davacıları mirasbırakan tarafından sağlığında dava konusu taşınmaz için mirasçı olarak atanmıştır. Atanmış mirasçı olan davacılar da, yasal mirasçılar gibi mirası, mirasbırakanın ölümü ile kazanmışlardır. (TMK. md. 599/son). Vasiyetname ile mirasçı atananların hakları, yasal mirasçılar veya öncelikle tasarruf ile yararlarına bağışlama yapılmış olanlar tarafından açıkça itiraza uğramamış ise, bu hususun tebliğinden itibaren bir ay geçtikten sonra bunlar mirasçılık sıfatları hakkında belge verilmesini, Sulh Hâkiminden isteyebilirler(TMK.m.598). Vasiyetname ile verilen hakkın geçirilmesini sağlayacak husus sulh hâkiminin vereceği mirasçılık belgesidir. Atanmış mirasçıların tenfiz davası açmalarına gerek yoktur.
 
 ## Yargıtay 1. HD 2017/1701 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/356656800)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -83,15 +101,21 @@ Somut olaya gelince; mahkemece her ne kadar çekişme konusu taşınmazın muris
 
 ## Yargıtay 14. HD 2017/977 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/318723600)
+
 Direnme kararının Dairemizce incelenmesi üzerine, her ne kadar 11.2.201 tarihli bozma kararımızda, ‘’...Davacılar, hem yasal mirasçı hem de atanmış mirasçıdır. Hem yasal mirasçı hem de atanmış mirasçı olan kişilerin açtığı davada, iki sıfatına göre mirasçılık belgesi verilmesi gerekirken vasiyet alacaklısı olduğuna dair belge verilmesi ile yetinilmesi doğru görülmemiş...’’ gerekçesi ile mahkeme hükmünün bozulmasına karar verilmiştir.
 
 ## Yargıtay 14. HD 2016/10828 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/331678600)
 
 Dava, mirasta istihkak nedeniyle tazminat istemine ilişkindir.
 
 Yasal veya atanmış mirasçı tarafından terekenin tamamını veya bir kısmına el koyan veya hakları eline geçirmiş kişilere karşı istihkak davası açılabilir. Nitekim, TMK'nın 637. maddesi gereğince "Yasal veya atanmış mirasçı terekeyi veya bazı tereke mallarını elinde bulunduran kimseye karşı mirasçılıktaki …
 
 ## Yargıtay 14. HD 2016/4703 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/226570700)
 
 Dava, atanmış mirasçılık belgesi verilmesine ilişkindir.
 
@@ -101,6 +125,8 @@ Muris ............... 01.02.1996 tarihli vasiyetnamesi ile tüm terekesi yönün
 
 ## Yargıtay 7. HD 2015/12610 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/154853200)
+
 Türk Medeni Kanununun 605-618. madde hükümleriyle mirasın reddi, 605-609.madde hükümleriyle ret beyanı düzenleme konusu yapılmıştır. Ret hakkı ise, Türk Medeni Kanununun 605.maddesi hükmüyle düzenlenmiştir.
 
 Türk Medeni Kanununun 605.maddesinin 1. paragrafı gereğince yasal ve atanmış mirasçılar mirası yine Türk Medeni Kanununun 606. maddesi gereğince üç ay içinde reddedilebilirler. Bu üç aylık süre hak düşürücü bir süredir. Bu süre yasal mirasçılar için mirasçı olduklarını daha sonra öğrendikleri kanıtlanmadıkça, mirasbırakanın ölümünü öğrendikleri tarihten işlemeye başlar. Atanmış mirasçılar için ise süre, mirasbırakanın tasarrufunun kendilerine resmen bildirildiği tarihten işlemeye başlar.
@@ -108,6 +134,8 @@ Türk Medeni Kanununun 605.maddesinin 1. paragrafı gereğince yasal ve atanmı�
 Türk Medeni Kanununun 605. maddesinin 2. fıkrasında ise mirasın hükmen reddi düzenlenmiştir. Ölümü tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır. Bu olgunun saptanması için her zaman dava açılabilir.
 
 ## Yargıtay 20. HD 2015/12466 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/398149600)
 
 Dava, vasiyet alacaklısı belgesi verilmesi istemine ilişkindir.
 
@@ -117,6 +145,8 @@ Dava, vasiyet alacaklısı belgesi verilmesi istemine ilişkindir.
 
 ## Yargıtay 14. HD 2015/11673 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/183368700)
+
 Dava, mirasçılık belgesinin iptali istemine ilişkindir.
 
 …
@@ -124,6 +154,8 @@ Dava, mirasçılık belgesinin iptali istemine ilişkindir.
 Mirasçılık belgesi istemek maddi bir olayın varlığını ikrar ve kişiler arasındaki irs ilişkisini tespit ettirmekten ibarettir. Atanmış mirasçı, murisin mirasçı bırakmadan ölmesi nedeniyle TMK'nın 501. maddesi uyarınca Hazine'nin mirasçı olduğunu gösteren mirasçılık belgesinin iptalini isteyemez. Bu nedenle mirasçılık belgesinin iptaline karar verilmesi isabetsizdir. Ancak daha önce alınan Hazine'nin mirasçı olduğunu gösteren mirasçılık belgesinin iptali istemi, terekeden hak istenemeyeceğinin tespitini de kapsar. Bu durum kararın gerekçesinde açıklanarak davacıya atanmış mirasçı olduğuna ilişkin bir belge verilmesi gerekir (TMK m 598). Belirtilen hususlar gözetilmeden yazılı şekilde karar verilmesi doğru görülmemiş, bu nedenle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2015/11320 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/182716900)
 
 Dava, mirasın hükmen reddinin tespiti isteğine ilişkindir.
 
@@ -133,9 +165,13 @@ Yasal ve atanmış mirasçılar mirası reddedebilirler. Ölüm tarihinde mirasb
 
 ## Yargıtay 14. HD 2015/6568 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/137149400)
+
 Mahkeme kararı ve dayandığı gerekçeler, yapılan yargılamaya, toplanan delillere ve dosya içeriğine uygun olduğu gibi özellikle mirasçılardan dava dışı E..A.. tarafından vasiyetnamenin iptali davası açılmasına, dava sonucunda verilecek hükme göre davacı tarafından ayrıca atanmış mirasçı belgesi verilmesi isteğiyle TMK'nın 598. maddesi uyarınca dava açma hakkı olmasına ve henüz vasiyetnamenin kesinleşmemiş olması nedeniyle görülmekte olan davada atanmış mirasçı belgesi verilmesinin şimdilik mümkün olmamasına göre yerinde olmayan temyiz itirazlarının reddiyle hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine, 12.06.2015 tarihinde oybirliği ile karar verildi.
 
 ## Yargıtay 3. HD 2015/1156 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142543900)
 
 Medeni Kanunun 600. maddesi, muayyen mal vasiyetini kapsayıp mirasçı atanmasını kapsamaz (Nitekim değişiklik öncesi medeni kanun 541 metninde "kendisine muyyen bir şey vasiyet edilen kimse" ifadesi kullanılmaktadır). Atanmış mirasçılarda ise miras, mirasbırakanın ölümü ile kazanılır (TMK. md.599/3).
 
@@ -145,6 +181,8 @@ Yukarıda açıklandığı üzere davacı, TMK 598/2 uyarınca Sulh Hukuk Mahkem
 
 ## Yargıtay 23. HD 2015/697 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202681800)
+
 Dava, kooperatif ortağına isabet eden bağımsız bölümün tapuda ortağın mirasçılarının lehlerine tescilden kaçınması nedeniyle kooperatifçe mirasçılar adına tescili istemine ilişkindir.
 
 …
@@ -152,6 +190,8 @@ Dava, kooperatif ortağına isabet eden bağımsız bölümün tapuda ortağın 
 Atanmış mirasçılar da mirası, miras bırakanın ölümü ile kazanırlar. Yasal mirasçılar, atanmış mirasçılara düşen mirası onlara zilyetlik hükümleri uyarınca teslim etmekle yükümlüdürler." hükmünü, aynı Yasa'nın 640. maddesi "Birden çok mirasçı bulunması halinde, mirasın geçmesiyle birlikte paylaşmaya kadar, mirasçılar arasında terekedeki bütün hak ve borçları kapsayan bir ortaklık meydana gelir.
 
 ## Yargıtay 8. HD 2014/20294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98781900)
 
 Dava, Türk Medeni Kanunu'nun 605/1. maddesine dayalı olup, hasımsız olarak açılan mirasın gerçek reddine ilişkindir. Böyle bir davada Sulh Hakimi'nin görevi; reddin süresinde olup olmadığı ve ret edenin mirasçılık sıfatı bulunup bulunmadığını incelemek, süre koşulu ile mirasçılık sıfatının gerçekleşmesi halinde ise, Türk Medeni Kanunu’nun 609. maddesi uyarınca ret beyanını tespit ve tescil etmekten ibarettir.
 
@@ -163,15 +203,21 @@ Aynı maddenin son fıkrasında ise verilen kararlar ile iki tarafa yükletilece
 
 ## Yargıtay 8. HD 2014/17276 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98830200)
+
 Dava, yasal mirasçılık yanında noterde düzenlenen vasiyetnameler gereğince atanmış mirasçılık belgesi verilmesi istemine ilişkin olup, mahkemece vasiyetnamenin açılması dava dosyası üzerinden mirasçılık belgesi istenmesi gerektiği gerekçesi ile dava reddedilmiştir.
 
 4721 sayılı Türk Medeni Kanunu'nun 598/1. maddesinde yasal mirasçılık belgesi, 2. fıkrada ise atanmış mirasçı veya vasiyet alacaklısı belgesi verilmesi hususunu düzenlemiştir. Anılan fıkra gereğince vasiyete ilişkin ölüme bağlı tasarruflara 1 ay içinde itiraz edilmediği takdirde lehine tasarrufta bulunulan kimseye atanmış mirasçılık belgesi verilmesi gerekmektedir.
 
 ## Yargıtay 8. HD 2014/16020 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98752100)
+
 Muris A.. Ö.. 25.03.2011 tarihinde ölmüş geride eşi ve kardeşlerini bırakmıştır. Muris ölümünden önce 05.05.2004 tarihinde yaptığı İstanbul 25. Noterliği'nden düzenlenen vasiyetname ile tüm hak ve malvarlığını eşi A.. Ö..'e bırakmıştır. Anılan vasiyetnamenin Fatih 1. Sulh Hukuk Mahkemesi'nde açılıp okunduğu anlaşılmaktadır. Vasiyetnamenin geçersizliğine yönelik bir iddia ve kanıt da dosyada bulunmamaktadır. Mirasçı atanan kişi, mirasçılık sıfatını gösteren bir belgenin verilmesini isteyebilir. (TMK'nun 598/2). Şu halde davacı, vasiyetname ile muris tarafından sağlığında mirasının tamamı için mirasçı atandığına göre, TMK'nun 598/2 fıkrası çerçevesinde atanmış mirasçı olduğuna ilişkin belge verilmesi gerekirken, hukuki uyuşmazlık yanlış değerlendirilerek TMK'nun 598/1 maddesi gereğince muris A. R'nın mirası yönünden mirasçılık belgesi verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2014/5131 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88291500)
 
 Muris, vasiyetçi Hacı Durdu Demirdelen 4221 sayılı Türk Medeni Kanunu'nun yürürlülük tarihinden önce vefat ettiği için 4722 sayılı Türk Medeni Kanununun yürürlülüğü ve uygulama şekli hakkında Kanunun 17.maddesine göre mirasçılık ve mirasın geçişi, miras bırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirlenir. Bu durumda, davada 743 sayılı Türk Medenisi Kanunu uygulanacaktır.
 
@@ -179,17 +225,25 @@ Muris, vasiyetçi Hacı Durdu Demirdelen 4221 sayılı Türk Medeni Kanunu'nun y
 
 ## Yargıtay 19. HD 2014/701 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107271900)
+
 TMK 605.maddesi "Yasal ve atanmış mirasçılar mirası reddedebilirler.Ölümü tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır." şeklindedir. Davacı tarafından açılan Konya 1.Asliye Hukuk Mahkemesi'nin 17/10/2011 Tarih, 2011/218 Esas ve 2011/469 Karar sayılı dosyasında terekenin borca batıklığı tespit edilmiş olup açıklanan yasa hükmü gereğince davanın kabulü gerekirken yazılı şekilde davanın reddine karar verilmesi isabetsizdir.
 
 ## Yargıtay 3. HD 2013/5107 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/265628800)
 
 TMK'nun 558.maddesine göre "iptal davası, tasarrufun iptal edilmesinde menfaati bulunan mirasçı veya vasiyet alacaklısı tarafından açılabilir." O halde, mahkemece; davacıların mirasçı olduğu ve yukarıda belirtilen madde hükmü gereğince, iptal davası açma haklarının bulunduğu gözetilip; tarafların delilleri toplanıp, işin esasının incelenerek, oluşacak sonuç dairesinde bir hüküm kurulması gerekirken …
 
 ## Yargıtay 2. HD 2013/1238 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82411200)
+
 Yasal ve atanmış mirasçılar mirası reddedebilirler (TMK. m. 605/1). Miras, üç ay içinde reddolunabilir. Bu süre, yasal mirasçılar için, mirasçı olduklarını daha sonra öğrendikleri ispat edilmedikçe mirasbırakanın ölümünü öğrendikleri; vasiyetname ile atanmış mirasçılar için mirasbırakanın tasarrufunun kendilerine resmen bildirildiği tarihten işlemeye başlar (TMK. m. 606). Mirasbırakan F.28.4.2009 tarihinde dul ve çocuksuz olarak vefat etmiş, dava 13.5.2011 tarihinde açılmıştır. Mirasbırakanın alacaklısı tarafından, ölümünden sonra yasal mirasçıları aleyhine Gaziantep 1. İcra Müdürlüğünün 2011/462 sayılı dosyası ile 24.1.2011 tarihinde ilamsız icra takibinde bulunulmuş, bu takibe ilişkin ödeme emri, ret beyanında bulunan yasal mirasçı Yunus'a 3.2.2011 tarihinde usulüne uygun olarak tebliğ edilmiştir. Bu durumda, davacının, mirasbırakanı olan teyzesinin öldüğünü ve mirasçı olduğunu bu tarihte öğrendiğinin kabulü gerekir. Bu tarihe göre de, üç aylık ret süresi geçmiştir. Mirasın reddine ilişkin talebin, bu sebeple reddi gerekirken, kabulü doğru bulunmamıştır.
 
 ## Yargıtay 7. HD 2013/740 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/407342300)
 
 Dava, mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -199,22 +253,30 @@ Açıklanan bu olgular karşısında davacının hem yasal mirasçı hemde tüm 
 
 ## Yargıtay 3. HD 2012/14072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534000100)
+
 Vasiyet alacaklısı, mirasbırakanın külli halefi olmayıp, cüzi halefi olduğu için, vasiyet olunan mal üzerinde doğrudan hak kazanması mümkün değildir. Vasiyet alacaklısının alacak hakkının hukuki sebebi olan vasiyet her ne kadar mirasbırakanın sağlığında yapılıyorsa da, bu bir ölüme bağlı tasarruf olduğundan, vasiyet alacağı ancak mirasbırakanın ölümü ile doğar. Vasiyet alacaklısı, kendisine vasiyet edilen şey üzerindeki mülkiyet hakkını ancak bu malın vasiyetin yerine getirilmesi (tenfizi) yoluyla kendisi adına tescili sonucunda kazanır. Buna bağlı olarak davada, vasiyet edilen taşınmazlar üzerinde ½ hak iddia eden ...'ün talep hakkı, taşınmazların vasiyet alacaklısı davacı ... adına tescil edilmesinden sonra şahsi bir hak ve ayrı bir dava olarak ortaya çıkacaktır.
 Kaldı ki, 17.12.2004 tarihli protokolde de bu şekilde anlaşma yapıldığı üzerinde bir uyuşmazlık yoktur.Ayrıca, 6100 sayılı HMK.nun 65.maddesinde “Bir yargılamanın konusu olan hak veya şey üzerinde kısmen ya da tamamen hak iddia eden üçüncü kişi, hüküm verilinceye kadar bu durumu ileri sürerek, yargılamanın taraflarına karşı aynı mahkemede dava açabilir” hükmüne göre asli müdahale davasının, ilk davanın davacısı ve davalısına karşı birlikte açılması zorunludur. Çünkü, ancak bu halde mahkeme, asli müdahilin talebini haklı görürse, onun lehine bir karar verebilir. Usulüne uygun biçimde müdahale talebi bulunmazsa, davanın tarafı konumunda bulunması uygun görülmez.TMK. mad.531-549 hükmüyle ölüme bağlı tasarrufların şekilleri düzenleme konusu yapılmıştır.TMK 600.madde hükmünde ise, vasiyetnamenin tenfizi davasının özelliklerini belirtmiştir. Vasiyeti yerine getirme davasının açılabilmesi için bir vasiyet alacaklısının bulunması gerekir.
 (Ö.Uğur Gençcan-Medeni Hukuk-Ankara 2011.sh.1011.) Mirasbırakan, ölüme bağlı tasarrufla bir kimseye onu mirasçı atamaksızın belirli bir mal bırakma yoluyla kazandırmada bulunmuş ise, vasiyet alacaklısının vasiyeti yerine getirme görevlisi varsa ona; yoksa yasal veya atanmış mirasçılara karşı kişisel bir istem hakkına sahip olduğundan, vasiyetnamenin tenfizi davası açmak zorundadır.Atanmış mirasçının tenfiz davası açmasına gerek yoktur.
 
 ## Yargıtay 3. HD 2012/13145 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564443400)
+
 Kendisine belirli bir mal vasiyet edilen kimsenin durumu ise daha farklıdır. Türk Medeni Kanunu 600 m. gereği kendisine belirli bir mal vasiyet edilen kimse, bu vasiyeti yerine getirmekle yükümlü olan varsa ona, yoksa yasal ve atanmış mirasçılara karşı açacağı istihkak davası ile malın kendisine teslimini isteyebilir. Vasiyet alacaklısı, vasiyeti yerine getirme görevlisi atanmış ise ona karşı kişisel bir istem hakkına sahip olur. Vasiyeti yerine getirme görevlisi atanmamışsa yasal veya atanmış mirasçılara karşı aynı hakka sahip olunur. Mirasçılık ve mirasın geçişi, mirasbırakanın ölümü tarihinde yürürlükte olan hükümlere göre belirlenir.( 4722 S.K. md. 17) Yukarıda yapılan açıklamalar ışığında; muris ... tarafından düzenlenen vasiyetname ile, ... ili, ...ilçesi, ... mahallesi ... yazlık kooperatifinde bulunan yazlık evin ve evin içinde bulunan menkul ev eşyaların tamamı, ayrıca T.C. Hudutları dahilindeki murisin tüm bankalardaki kayıtlı vadeli ve vadesiz hesaplardaki para ve yatırım fonlarının 1/2 hissesi ..., ..., ...(davacı) ve ...'ya, T.C.
 Hudutları dahilindeki murisin tüm bankalardaki kayıtlı vadeli ve vadesiz hesaplardaki para ve yatırım fonlarının diğer 1/2 hissesinin de vasiyet alacaklısı ...'a vasiyet edilmiş olmasına rağmen mahkemece, vasiyete konu ... ili, ... ilçesinde bulunan yazlık evin 1/2 hissesinin davacının da içinde bulunduğu dört kişiye vasiyet edildiği şeklindeki yanılgılı değerlendirme sonucu söz konusu yazlık ev için de 1/2 hisseli oran üzerinden tereke hesabı yapılarak yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 7. HD 2012/7669 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105201100)
 
 Dava, mirasçılık belgesinin iptali ile yenisinin verilmesi istemine ilişkindir.
 
 İddia ve savunmaya, duruşma tutanaklarına yansıyan bilgi ve belgelere, mahkemece toplanıp değerlendirilen delillere ve hüküm yerinde gösterilen gerekçelere, davalı ... tarafından vasiyetnamenin iptali davası açılmasına, dava sonucunda verilecek hükme göre davacı tarafından ayrıca atanmış mirasçı belgesi verilmesi isteğiyle TMK.nun 598. maddesi uyarınca dava açma ... olmasına ve henüz vasiyetnamenin kesinleşmemiş olması nedeniyle görülen davada atanmış mirasçı belgesi verilmesinin şimdilik mümkün bulunmamasına göre mahkemece oluşturulan hükümde bir isabetsizlik bulunmadığından davacı ...'ın yerinde görülmeyen temyiz itirazlarının reddi ile hükmün ONANMASINA, harç peşin alındığından yeniden alınmasına yer olmadığına, 07.11.2012 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 7. HD 2012/5243 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1101671700)
 
 Dava, mirasçılık belgesinin iptali ile yenisinin verilmesi istemine ilişkindir.
 
@@ -223,6 +285,8 @@ Dava, mirasçılık belgesinin iptali ile yenisinin verilmesi istemine ilişkind
 Açıklanan bu olgular uyarınca davanın mirasçılık belgesinin iptali ile yenisinin verilmesi gerektiğine ilişkin olduğu, atanmış mirasçı ve onun mirasçılarının her zaman atanmış mirasçı olduğunu ve miras payını gösteren bir belge verilmesini mahkemeden isteyebileceği, bu nedenle mahkemece yeni oluşturulan hüküm yerinde davacı ...'ın terekenin tamamı için atanmış mirasçı olduğu, bu hususun terekenin bölüştürülmesi sırasında gözetileceği hususuna işaret etmek suretiyle, gerçek irs bağını gösteren mirasçılık belgesinin verilmesi gerektiği kuşkusuzdur.
 
 ## Yargıtay 17. HD 2011/12273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798117900)
 
 Dava, mirasın reddi talebine ilişkindir.
 
@@ -236,6 +300,8 @@ Dosya kapsamından, davanın, mirasçılar tarafından üç aylık yasal süresi
 
 ## Yargıtay 7. HD 2011/6232 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108680200)
+
 Dava vasiyetnamenin tenfizini sağlama amacıyla atanmış mirasçı belgesi verilmesi istemine ilişkindir.
 
 …
@@ -243,6 +309,8 @@ Dava vasiyetnamenin tenfizini sağlama amacıyla atanmış mirasçı belgesi ver
 Hal böyle olunca mahkemece davanın vasiyetnamenin yerine getirilmesini sağlama amacıyla atanmış mirasçı belgesi verilmesi istemi olarak görülüp buna göre sadece davacının atanmış mirasçı olduğunu gösterecek şekilde bir belge verilmesi ile yetinilmesi gerekirken, saklı pay sahibi diğer gerçek mirasçıların haklarını ortadan kaldıracak ve sadece davacıyı mirasçı gösterecek şekilde mirasçılık belgesi verilmesi isabetsiz, davalı ...’in temyiz itirazları bu nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, bozma nedenine göre sair temyiz itirazlarının incelenmesine şimdilik yer olmadığına, peşin alınan 108,40 TL temyiz harcının istek halinde ilgilisine iadesine, 20.10.2011 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 7. HD 2011/2041 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107558000)
 
 Dava, atanmış mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -252,11 +320,15 @@ Hal böyle olunca atanmış mirasçılık belgesi verilmesi gerekirken talep dı
 
 ## Yargıtay 3. HD 2010/5809 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16951000)
+
 08.03.2002 tarihli vasiyetname ile vasiyetçi Kostantinia üzerine kayıtlı olan taşınmazın ölümünden sonra sahibi olmaları için davacıları mirasçı nasp ve tayin ettiğini bildirmiştir. Vasiyetnamede kullanılan bu ifade ve Şişli İkinci Sulh Hukuk Mahkemesi'nin 2006/2492 E.- 2007/896 K. sayılı dava dosyasında davacıların atanmış mirasçı olarak kabul edilerek mirasçılık belgesi verilmiş olması karşısında davacıların atanmış mirasçı olduklarının kabulü gerekir.
 
 Kural olarak, muris, ölüme bağlı tasarruf ile mirasçı atayabilir veya muayyen mal vasiyetinde bulunabilir (TMK m. 516-517-519).
 
 ## Yargıtay 7. HD 2010/5033 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17011300)
 
 Dava atanmış mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -267,6 +339,8 @@ Daha önce alınmış mirasçılık belgesi var iken, yasal veya atanmış miras
 Bu açıklamalardan sonra somut olaya dönersek; davacı MK'nın 589/2. maddesine göre vasiyetname ile atanmış mirasçı olduğu yönünde belge verilmesini istemiş olmakla davanın hasımsız açılmasında usule aykırılık bulunmamaktadır. Bu nedenle davanın mirasçılık belgesinin iptali davası olduğu yönündeki mahkeme ara kararı HUMK'un 74.maddesine aykırıdır.
 
 ## Yargıtay 3. HD 2010/2944 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635852100)
 
 4722 sayılı Türk Medeni Kanunu Yürürlüğü ve Uygulama Şekli Hakkında Kanunun md.17 hükmüne göre mirasçılık ve mirasın geçişi mirasbırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirlenir.
 

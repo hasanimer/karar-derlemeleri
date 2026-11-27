@@ -82,18 +82,26 @@ Vasiyetnamenin iptali ve tenkis davalarında 4721 sayılı Kanun'un 559. maddesi
 
 ## Yargıtay 1. HD 2025/5647 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187553100)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; davanın, muris muvazaasına dayalı tapu iptali ve tescil, olmazsa tazminat ve terditli tenkis talebine ilişkin olduğu, Dairemizin 01.12.2021 tarih ve 2021/7073 Esas, 2021/7451 Karar sayılı kararıyla İlk Derece Mahkemesince davanın muris muvazaası yönünden reddine karar verilmesinde bir isabetsizlik bulunmadığı, ancak tenkis istemi yönünden davanın hak düşürücü süre yönünden reddine karar verilmesinin isabetsiz olduğu, tenkis talebi yönünden işin esasına ilişkin araştırma ve inceleme yapılarak sonucuna göre bir karar verilmesi gerektiğine değinilerek İlk Derece Mahkemesi kararının bozulmasına karar verildiği, İlk Derece Mahkemesince bozma ilamına uyularak yapılan yargılama sonunda davanın reddine karar verildiği, bu haliyle temyizin kapsamının tenkis istemine ilişkin olduğu anlaşılmıştır.
 
 ## Yargıtay 7. HD 2025/161 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122205200)
 
 4722 sayılı Türk Medenî Kanununun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanun'un "Geçmişe etkili olmama" başlıklı 1. maddesinin 1. fıkrası, "Türk Medenî Kanununun yürürlüğe girdiği tarihten önceki olayların hukukî sonuçlarına, bu olaylar hangi kanun yürürlükte iken gerçekleşmişse kural olarak o kanun hükümleri uygulanır." şeklinde düzenlenmiştir. Bu doğrultuda; niteliği itibarıyla hukuki bir olay olan ölüm olayının (Selâhattin Keyman, Hukuka Giriş, Ankara, 2005. s.102 vd.; ... , Türk Medeni Hukuku, Ankara, 2014, s.101.) gerçekleşme tarihi, bu olayın hüküm ve neticeleri ile ilgili olarak TMK'nın uygulanıp uygulanmayacağı noktasında önem arz etmektedir. Tarafların murisi olan ... , 27.03.1997 tarihinde öldüğünden yukarıdaki açıklamalara göre 743 sayılı Türk Kanunu Medenisi'nin uygulanacağı konusunda şüphe bulunmamaktadır. Tenkis süresinin hukuki niteliği; 743 sayılı Kanun'un 513. maddesinde zamanaşımı, 4721 sayılı TMK'nın 571. maddesi ise hak düşürücü süre olarak belirlenmiştir.
 Bölge Adliye Mahkemesinin gerekçeli kararında tenkis süresinin hukuki niteliğine dair yapılan değerlendirme doğru ise de gerekçe değiştirildiği halde 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b(2) hükmü gereğince İlk Derece Mahkemesi kararının kaldırılarak yeniden hüküm tesis edilmesi gerekirken istinaf başvurusunun esastan reddedilmesi ile yetinilmesi doğru görülmemiş ve hükmün bozulması gerekmiştir.
 
 ## Yargıtay 4. HD 2024/12064 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1119197100)
+
 Bu durumda mahkemece davacı tarafa İİK'nın 94. maddesi uyarınca icra müdürlüğünden yetki alması için süre verilmesi, yetki belgesi alındıktan sonra davanın MK.nın 562. maddesi uyarınca değerlendirilmesi, taraf delillerinin toplanması, ondan sonra toplanan ve toplanacak tüm delillerin birlikte değerlendirilerek hasıl olacak sonuca göre bir karar verilmesi gerekirken yazılı olduğu üzere davanın kabulüne karar verilmesi doğru bulunmamıştır ..." gerekçesi ile kararın bozularak İlk Derece Mahkemesine gönderilmesine karar verilmiş, İlk Derece Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile, tenkis davası açma hakkının 1 yıllık hak düşürücü süreye tabi olduğu, icra dosyasından alacaklı (dosya davacısı) vekilinin murisin mal varlığına haciz konmasını talep ettiği dava konusu taşınmazın satıldığından 2015 yılı itibari ile haberdar olduğu anlaşıldığı, dava tarihi 09.10.2017 itibari ile tenkis davası açılabilmesi için kanunda öngörülen hak düşürücü sürenin geçmiş olduğu gerekçesi ile davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2024/4305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059697900)
 
 Dava, muris muvazaası hukukî nedenine dayalı miras payı oranında tapu iptali ve tescil, olmazsa tenkis istemine ilişkindir.
 
@@ -105,17 +113,23 @@ Ayrıca, ... mirasçıları olan dahili davalılar arasında zorunlu dava arkada
 
 ## Yargıtay 7. HD 2024/2550 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040997900)
+
 Somut olayda, mirasbırakanın 05.07.1967 tarihinde öldüğü dikkate alınarak 743 sayılı Türk Kanunu Medenisi hükümlerinin uygulanması gerekmektedir. 743 sayılı Medeni Kanunun 513 üncü maddesine göre, tenkis davasında müruru zaman mirasçılar mahfuz hisselerine tecavüz edildiğini öğrendikleri günden itibaren bir sene ve her halde vasiyetnameler hakkında açıldıkları tarihten, diğer tasarruflar hakkında mirasın açılmasından itibaren beş senedir. Davalılar ise süresi içerisinde zamanaşımı def'inde bulunmuşlardır. O halde, asıl ve birleştirilen davaların 743 sayılı Türk Kanunu Medenisi'nin 513 üncü maddesi gereğince reddi gerekirken, asıl davada işin esası hakkında karar verilmesi, birleştirilen davada ise olayda uygulama yeri bulmayan 4721 sayılı Türk Medeni Kanunu'nun 571 inci maddesi gereğince davanın reddine karar verilmesi hatalıdır.
 
 Ne var ki, birleştirilen davada verilen hüküm sonuç itibariyle doğru olduğundan bu hatanın 6100 sayılı Kanun'un geçici 3 üncü maddesinin ikinci fıkrası atfıyla uygulanmasına devam olunan mülga 1086 sayılı Kanun'un 438 inci maddesinin yedinci fıkrası hükmü uyarınca birleştirilen dava hakkındaki Mahkeme kararının gerekçesinin düzeltilerek onanmasına, asıl davada ise mirasbırakanın ölüm tarihi itibariyle dava konusunun zamanaşımına uğradığı gözetilmeksizin işin esası hakkında karar verilmesi doğru görülmemiş, asıl davadaki hükmün bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2024/2131 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037500500)
+
 Yukarıda anlatılanlarla dava dilekçesi birlikte değerlendirildiğinde davada; mirasbırakan ... adına kayıtlı iken davalıların mirasbırakanı ... ile davalı ... ... satış suretiyle devredilen taşınmazlar hakkında, davacıların saklı payını bertaraf etmek suretiyle yapılan kazandırmaların tenkisi talep edilmiştir. Ne var ki, mirasbırakan 07.06.2017 tarihinde ölmüş olup, eldeki dava ise 4721 sayılı Kanun'un 571 inci maddesinde düzenlenen 1 yıllık hak düşürücü süre içerisinde 28.05.2018 tarihinde açılmıştır. İlk Derece Mahkemesince davanın mirasbırakan ...'ın kazandırmaları hakkında tenkis istemi ile açılmış olduğu değerlendirmek suretiyle davanın hak düşürücü süre geçtiğinden bahisle usulden reddine karar verilmesi hatalı olduğu gibi Bölge Adliye Mahkemesince 743 sayılı Medeni Kanun hükümlerine göre değerlendirme yapılarak mahkeme kararı kaldırılıp davanın zamanaşımı nedeniyle reddine karar verilmesi de doğru görülmemiştir.
 
 Hal böyle olunca; davacıların eldeki davaya konu taşınmazlar hakkında açtığı Diyarbakır 1. Asliye Hukuk Mahkemesinin 2017/614 Esas, Diyarbakır 7. Asliye Hukuk Mahkemesinin 2017/1195 Esas ve Diyarbakır 9. Asliye Hukuk Mahkemesinin 2017/959 Esas sayılı dosyalarının sonucunun eldeki davayı da etkileyeceği gözetilerek tenkis konusunda hükme yeterli araştırma ve incelemenin yapılması, tarafların tüm delillerin toplanması, hasıl olacak sonuca göre bir karar verilmesi gerekir.
 
 ## Yargıtay 1. HD 2024/990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045887600)
 
 Dava, tapu iptali ve tescil, mümkün olmazsa tenkis isteğine ilişkindir.
 
@@ -127,25 +141,35 @@ Bağış yoluyla yapılan temlikin, koşullarının varlığı halinde TMK'nın 
 
 ## Yargıtay 1. HD 2024/471 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042884400)
+
 Hemen belirtmek gerekir ki, 01.04.1974 tarih ve 1/2 sayılı İçtihadı Birleştirme Kararının uygulanabilmesi, mirasbırakanın üzerindeki taşınmazı kayden satış veya ölünceye kadar bakma akdiyle devretmesi ve bunun da muvazaalı olduğunun saptanması halinde mümkün olup mirasbırakan asıl davaya konu 21 parsel sayılı taşınmazını bağış suretiyle davalılara temlik ettiğine, birleştirilen davaya konu 2090, 2104, 2398 ve 1547 parsel sayılı taşınmazlarını ise kadastro tespitinden önce haricen davalılara bağışladığına göre anılan İçtihadı Birleştirme Kararının olayda uygulanma yeri bulunmamaktadır. Böylesi bağış yoluyla yapılan temliki işlemin koşulları varsa ancak Türk Medeni Kanunu'nun (TMK) 560 ilâ 571 inci maddeleri arasında öngörülen tenkis davasına konu edilebileceği, bağış yoluyla gerçekleştirilen temliklerde muvazaa olgusunun dinlenemeyeceği açık olup esasen bu husus Mahkemenin de kabulündedir.
 
 Öte yandan, 4722 sayılı Kanun’nun 17 inci maddesi uyarınca mirasçılık ve mirasın geçişi mirasbırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirlenir. Mirasbırakan ... 15.02.2000 tarihinde öldüğüne göre mirasbırakanın ölüm tarihi itibariyle 743 sayılı Türk Kanunu Medenisi hükümlerinin uygulanması gerekmekte olup anılan Kanun'un 603 üncü maddesinde düzenlenen mirasta iade hükümlerine göre bağış amacıyla yapılan kazandırmaların denkleştirmeye tabi olabilmesi için öncelikle miras payına mahsuben yapıldığının davacı tarafça kanıtlanması gerektiği gözetildiğinde terditli mirasta iade isteği yönünden davanın reddedilmesinde bir isabetsizlik bulunmamaktadır. Davacılar vekilinin bu yöne ilişkin temyiz itirazı yerinde değildir.
 
 ## Yargıtay 7. HD 2023/6220 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988425400)
+
 2.4721 sayılı Türk Medeni Kanunu'nun 571 inci maddesine göre tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden on yıl geçmekle düşer. Somut olayda, davacı tarafından vasiyetnamenin açılmasına ilişkin Suruç Sulh Hukuk Mahkemesince verilen 2017/180 Esas, 2018/57 Karar sayılı kararına karşı istinaf yoluna başvurulduğu, 09.03.2018 tarihli istinaf başvuru dilekçesinde tenkise konu edilen vasiyetnamenin içeriğinden ve davalılara bırakılan miras paylarından bahsedildiği, davacının bu tarihte saklı payının zedelendiğini öğrendiğinin kabulü gerektiği, bu halde davanın 1 yıllık hak düşürücü süre içerisinde açılmadığı anlaşılmıştır.
 
 ## Yargıtay 7. HD 2023/6015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974368900)
+
 2\. 4721 sayılı Türk Medeni Kanunu'nun 559 uncu maddesi uyarınca vasiyetnamenin iptali davası açma hakkı, davacının tasarrufu, iptal sebebini ve kendisinin hak sahibi olduğunu öğrendiği tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın geçmesi tarihinin üzerinden, iyi niyetli davalılara karşı on yıl, iyi niyetli olmayan davalılara karşı yirmi yıl geçmekle düşer. Yine aynı Kanun'un 571 inci maddesine göre tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden on yıl geçmekle düşer.
 
 ## Yargıtay 7. HD 2023/4680 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969615200)
 
 Yargıtay 3. Hukuk Dairesi 27.02.2013 tarih ve 2013/1579 Esas, 2013/3103 Karar ... ilâmında; “...iptal yönünden temyiz itirazlarının incelenmesinde, mahkemece, vasiyetçinin eşi vasıtasıyla sağlık (tedavi) yardımı alıp almadığı, eşinden sağlık karnesinin bulunup bulunmadığı, vasiyetnamenin düzenlendiği sırada ve öncesinde sağlık kurumlarında (hastanelerde vs.) tedavi görüp görmediği, tedavi görmüş ise nerelerde tedavi gördüğü hasta bakım, müşahade tedavi evraklarının nerelerde bulunduğu hususundaki delillerle ilgili davacı tarafa usulünce kesin süre verilerek, tüm deliller toplanıp Adli Tıp Kurumundan tasarruf (hukuki işlem) ehliyetine ilişkin rapor alınıp, sonucuna göre hüküm kurulması gerekirken, tanık beyanlarına ve yetersiz olan acil hekim raporuna göre eksik inceleme ve araştırma ile hüküm kurulmuş olması doğru görülmemiştir.
 
 Tenkise yönelik temyiz itirazlarının incelenmesinde ise, TMK'nın 560 ıncı maddesinde; saklı paylarının karşılığını alamayan mirasçılar mirasbırakanın tasarruf edebileceği kısmı aşan tasarruflarının tenkisini dava edebilirler. Tenkis davası, iptal davası ile birlikte açılabileceği gibi ayrıca sadece tenkis davası olarak da açılabilir. Vasiyetnamenin yerine getirilmesi davasında da tenkis def'i olarak da ileri sürülebilir. İptal davası ile birlikte tenkiste talep edilmiş ise, vasiyetnamenin iptali şartları oluşmamış ise iptal davası reddedilir, tenkis şartları var ise tenkise karar verilir. Tenkis yönünden kurulan hükümde yerinde değildir.'' gerekçesiyle hüküm bozulmuştur.
 
 ## Yargıtay 1. HD 2023/4590 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969592000)
 
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis isteğine ilişkindir.
 
@@ -157,9 +181,13 @@ Diğer taraftan; ... Medeni Kanunu'nun 571/1 inci maddesi “Tenkis davası açm
 
 ## Yargıtay 7. HD 2023/3498 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/930419400)
+
 Dava konusu tenkisi talep edilen ölünceye kadar bakım sözleşmesinin davacı ...'a Bursa 7. Asliye Hukuk Mahkemesi 2017/643 Esas sayılı dosyasında dava dilekçesine ekli olarak 25.01.2018 tarihinde tebliğ edildiği ve bu davada ... vekilinin 29.03.2018 tarihinde cevap dilekçesi sunduğu görülmekle; davacının tenkisi istenen sağlararası kazandırmadan 25.01.2018 tarihinde haberdar olduğu, tenkis davasının ise bu tarihten itibaren Türk Medeni Kanunu'nun 557 inci maddesinin birinci fıkrası gereğince 1 yıllık hak düşürücü süre içerisinde açılmadığı anlaşıldığından Bölge Adliye Mahkemesince davacı vekilinin istinaf başvurusunun esastan reddine karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Yargıtay 7. HD 2023/3464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/930495900)
 
 Bölge Adliye Mahkemesince "davaya konu vasiyetnamenin okunduğu tarihten itibaren 1 yıllık hak düşürücü süresi içerisinde davanın açıldığı, mahkemece murisin aktif ve pasif mal varlığının araştırıldığı, her ne kadar tereke dosyası, murisin birlikte yaşadığı ve bakmakla yükümlü kişi olup olmadığı ve 3 aylık iaşe bedelin, defin masrafı ve tereke tespit dosyası ile vasiyetnamenin okunması dosyasındaki masraflar kesin olarak saptanmamış ve Safranbolu'da bulunan taşınmazların tüm tedavül kayıtları getirilmemiş ise de muristen intikal eden kısmı ile tenkis bilirkişisinin raporuna göre davacı .... yönünden lehine yapılan kazandırmanın değerinin 546.395,64TL, saklı paya tecavüz kısmının ise 374.755,34TL olduğu, buna göre saklı pay tutarından fazla kazandırma olduğu, saklı paya bir tecavüz söz konusu olmadığı; asıl davacı yönünden ise tecavüz miktarının 319.524,39TL olduğu, diğer davacı ile dava dışı mirasçıların kalan taşınmazların değeri üzerinden TMK 570/2. maddesi gereğince davalı derneğin kamu yararına bir dernek olması nedeniyle öncelikle tenkis yapılması gerektiğini, saptanan miktara göre davacı kuruma sıranın gelmesinin mümkün görülmediği, terekenin pasifi konusunda her ne kadar
 yeteri kadar araştırma yapılmamış ise de mevcut delil durumuna göre saptanacak miktarın sonuca etkili olmayacağı, bu nedenle sonuç itibariyle mahkeme kararı usul ve yasaya uygun olduğu anlaşılmıştır." gerekçesiyle hüküm kurulmuştur.
@@ -170,14 +198,20 @@ Dava, tenkis istemine ilişkindir.
 
 ## Yargıtay 7. HD 2023/2545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/926799200)
+
 Noterliğinin 06.01.2003 tarih 312 yevmiye numaralı vasiyetnamenin Kadıköy 2. Sulh Hukuk Mahkemesinin 2010/678 Esas sayılı dosyasında 30.09.2010 tarihinde açılıp okunduğunu, kararın 26.12.2017 tarihinde kesinleştiği, davacıların eldeki davayı açmadan önce vasiyetnamenin iptali ve tenkis istemi ile İstanbul Anadolu 1. Asliye Hukuk Mahkemesinde de 2010/597 Esas, 2011/516 Karar sayılı davayı açtıkları, verilen ret kararının onama ile 08.12.2014 tarihinde kesinleştiği, çelişkili veraset ilamlarını iptali için açılan hasımlı veraset talebine ilişkin İstanbul Anadolu Asliye Hukuk Mahkemesi 2015/281 Esas, 2016/35 Karar sayılı dosyasında davacıların davasının kabulüne 23.02.2016 tarihinde karar verildiği verilen kararın 23.05.2016 tarihinde kesinleştiği, kesinleşme tarihi itibari ile davacıların mirasçı olduklarının kesinleştiği, İstanbul Anadolu 1.
 Asliye Hukuk 2015/281 Esas, 2016/35 Karar sayılı dosyasının kesinleştiği 23.05.2016 tarihi ile dava tarihi arasında bir yılık düşürücü sürenin geçtiği gerekçesiyle İlk Derece Mahkemesince davacıların davasının hak düşürücü süre nedeni ile reddine karar verilmesinde isabetsizlik bulunmadığı gerekçesiyle davacılar vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/1903 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892077300)
+
 Saklı pay sahibi mirasçı ...'ın ölüm tarihi itibari ile tenkis davasını açması için öngörülen hak düşürücü sürenin geçip geçmediği hususu önem kazanmaktadır. Türk Medeni Kanunu'nun 571 inci maddesine göre tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden on yıl geçmekle düşer. Bursa 1. Sulh Hukuk Mahkemesinin 2013/1837 Esas, 2013/1930 Karar sayılı dosyasında vasiyetname, davacıların annesi ...'a 26/11/2013 tarihli duruşmada okunmuş, davacıların annesi ... bir yıllık hak düşürücü süre içinde tenkis davasını açmamış ve tenkis davası için öngörülen hak düşürücü süre geçtikten sonra 11.03.2017 tarihinde ölmüştür.
 
 ## Yargıtay 7. HD 2023/798 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884577800)
 
 Tenkis davasını Türk Medeni Kanunu'nun 560 ıncı maddesine göre, saklı pay sahibi mirasçılar açabilir. Davacı ise, miras bırakan Sıtkıye Yüksel Karaer'in saklı pay sahibi mirasçısı değildir. Davacı vekili, tenkis davasını müvekkilinin babası ...'in saklı payına dayanarak açmıştır. Tenkis davası için öngörülen hak düşürücü süre dolmadan önce ölen saklı pay sahibi mirasçının, tenkis davasını açma hakkı kendi mirasçısına halefiyet yolu ile geçer (Ömer Uğur Gençcan, Miras Hukuku, Yetkin Yayınları, Ankara, 2021, 5. Baskı, sayfa 761).
 
@@ -186,11 +220,15 @@ Bu durumda, davacının tenkis davası açma hakkını dayandırdığı ...'in �
 
 ## Yargıtay 1. HD 2023/301 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884711400)
+
 Hemen belirtmek gerekir ki; tapuda kayıtlı olmayan taşınmazlar, taşınır mal niteliğindedir ve zilyetlikten ibaret olan hakkın devri suretiyle yapılan elden bağışlama sözleşmeleri hiçbir biçim koşuluna bağlı değildir. Bu nedenle de, gizlenerek yapılan bağışlama niteliğindeki tasarruf geçerlidir. Mirasbırakan tarafından tapusuz taşınmazların zilyetliğinin devri suretiyle gerçekleştirirken geçerli işlemlere karşı 01.04.1974 tarih ve 1/2 sayılı İçtihadı Birleştirme Kararının uygulama yeri yoktur.
 
 Tenkis davası açma ..., mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak 1 yıl ve her halde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden 10 yıl geçmekle düşer. (TMK. m: 571/1)
 
 ## Yargıtay 1. HD 2022/6028 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862265400)
 
 3.3.3. Somut olaya gelince; 06/05/2010 tarihli dekont ile mirasbırakan ... tarafından dava dışı ..... adına 300.000,00 TL'nin havale edildiği, açıklama olarak ''...... plakalı araba için ödenmiştir'' şeklinde yazıldığı, dinlenen tanıkların beyanı ile de dava konusu aracın bedelinin mirasbırakan tarafından ödendiği ve anılan işlemin davalı ... lehine gizli bağış olduğu anlaşılmakla, gizli bağış halinde tenkis incelemesi yapılması gerektiği hususunda kuşku yoktur.
 

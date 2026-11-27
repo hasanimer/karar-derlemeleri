@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2021/79 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632378300)
+
 Dava, uluslararası kara taşıması sözleşmesinden kaynaklı navlun fatura alacağının tahsili için başlatılan icra takibine yapılan itirazın iptali istemine ilişkindir.
 
 …
@@ -34,6 +36,8 @@ Yetkinin kesin olmadığı davalarda, davalı, süresi içinde ve usulüne uygun
 HÜKÜM : Yukarıda açıklanan nedenlerle; 1-Davalının istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 40. HD 2020/4276 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622846800)
 
 Dava, sigorta şirketinin teminat dışı haller sebebiyle sigortalısına rücu talebinden kaynaklanan itirazın iptali davasıdır.
 
@@ -48,6 +52,8 @@ KARAR: Gerekçesi yukarıda açıklandığı üzere:1-Davacı vekilinin yukarıd
 
 ## İstanbul BAM 17. HD 2020/1491 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585932600)
+
 Nitekim sözleşmenin mevcudiyeti her iki tarafın da kabulünde olup davalı da sözleşmeden kaynaklı alacağı olduğunu iddia ederek takas talebinde bulunmuştur. Takibin konusu, sözleşmeden kaynaklı para borcu olup her para borcuna ilişkin uyuşmazlıklarda tarafların edimini yerine getirip getirmediği doğal olarak tartışma konusu yapılmaktadır. Diğer ifade ile uyuşmazlığın konusunu oluşturmaktadır. Bu nedenle, davaya konu takipte, İİK'nın 50. maddesi yollamasıyla kıyasen uygulanması gereken HMK'nın 10. maddesi uyarınca akdin ifa edileceği yer icra müdürlüğü ile TBK 89/1 maddesi uyarınca alacaklının yerleşim yeri icra dairesi ve mahkemeleri de yetkilidir. Takibin konusu, sözleşmeden kaynaklı para borcu olduğundan sözleşmede aksine bir şart konulmamış ise para borçları alacaklının ödeme zamanındaki yerleşim yerinde ödeneceğinden, ifa yeri de alacaklının yerleşim yeri olacaktır. Böyle bir durumda alacaklı kendi yerleşim yerinde bulunan dairesinde de takip yapabilecektir. ( Yargıtay Hukuk Genel Kurulu 2017/19-902 E. 2018/973 K. 25/04/2018 tarihli ilamı). TBK 89. Maddesi uyarınca para borcu alacaklının yerleşim yeri Küçükçekmece olduğundan, davalının yetki itirazı yerinde değildir.
 Kabule göre de, davalı borçlu takip dosyasında yaptığı itirazda icra dairesinin yetkisine de itiraz etmiş, cevap dilekçesinde de iş bu takipte yetkili İcra Müdürlüğü Gaziantep İcra Müdürlüğü ve Mahkemeleri olduğunu tekrar etmiştir. İcra dairesinin yetkili olmaması halinde, borçluların icra dairesine yapmış olduğu yetki itirazının hangi aşamada ve ne şekilde değerlendirilmesi gerekeceği tartışılması gerekir. Somut olayda olduğu gibi borçlunun, icra dairesinin yetkisine ve borca itirazı olursa, mahkemenin öncelikle icra dairesinin yetkisini incelemesi gerekir. İtirazın iptali davasında mahkemece, icra dairesinin yetkisizliğine karar verilmişse, yetkili icra dairesinde takip başlatılmadan yetkili mahkemede açılan dava dinlenemez. Çünkü, itirazın iptali davasının şartlarından birisi geçerli bir icra takibinin yapılmış olmasıdır. Bu da, yetkili yer icra dairesinde takip başlatmış olmayı, özel yasada düzenlenen dava şartları arasında göstermektedir.
 
@@ -58,6 +64,8 @@ Bu sebeple icra takibi yetkisiz yerde başlatılmış ve usulüne uygun yetkiye 
 H Ü K Ü M : Gerekçesi yukarıda izah edildiği üzere;1-Davacı tarafın istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin KABULÜNE,2-Bakırköy 4. Asliye Ticaret Mahkemesinin 2018/954 E. 2019/512 K. 06/05/2019 tarihli kararının HMK'nun 353/1.a.3 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 14. HD 2020/1405 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/619155200)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesinin 17/02/2020 tarihli, 2018/484 Esas - 2020/52 Karar sayılı ek kararıyla,"...Tüm dosya kapsamına göre dava konusu uyuşmazlığın yabancı unsur taşıması, mahkememizin yetkisinin münhasır yetki esasına göre düzenlenmemiş olması, uyuşmazlığın borç ilişkisinden doğması ve konişmentoya yetki ve uygulanacak hukuka ilişkin konulan şartın geçerli ve bağlayıcı olduğu..." gerekçesiyle, milletler arası yetki itirazının kabulü ile mahkemenin yetkisizliği nedeniyle davanın usulden reddine, karar verilmiştir. Bu karara karşı davacı vekili tarafından istinaf başvurusunda bulunulmuştur.
 
@@ -71,6 +79,8 @@ HMK'nın 114/1.a.maddesi uyarınca Türk Mahkemelerinin uluslararası yetkisinin
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-HMK'nın 353/1.b.1. maddesi uyarınca, davacının istinaf başvurusunun esastan reddine …
 
 ## İstanbul BAM 13. HD 2020/1397 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/614787700)
 
 Dava, uluslararası demiryolu taşıma sözleşmesinden kaynaklı alacağın tahsili talebiyle başlatılan icra takibine itiraz üzerine açılan itirazın iptali davasıdır.
 
@@ -109,6 +119,8 @@ Davacının istinaf talebinin KABULÜ ile; Konya Asliye .. Ticaret Mahkemesi'nin
 
 ## İstanbul BAM 12. HD 2020/1306 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/616480500)
+
 İLK DERECE MAHKEMESİ KARARI:Mahkemece, taraflar arasındaki ticari ilişki nedeniyle icra takibi yapıldığı, davalı tarafça bu takibe itiraz edildiği, ancak davacı tarafından itirazın iptali davası açma yerine, tahsilde tekerrüre sebebiyet vermeden bu alacak davası açılmış ise de fatura alacağının talep edilmesi nedeniyle alacağın ispatlanması noktasında itirazın iptali davası yerine alacak davası açma noktasında tercih edilebilecek hukuki bir yararı bulunmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -120,6 +132,8 @@ Davacının istinaf talebinin KABULÜ ile; Konya Asliye .. Ticaret Mahkemesi'nin
 HÜKÜM: Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun KABULÜNE; Bakırköy 5. Asliye Ticaret Mahkemesi'nin 01/04/2019 Tarih 2018/1291 Esas 2019/400 Karar sayılı hükmün HMK.'nın 353(1)a-4 gereği KALDIRILMASINA; "Davanın yeniden görülmek üzere dosyanın kararı veren mahkemeye GÖNDERİLMESİNE"İstinaf yoluna başvuran davacı tarafından yatırılan 54 …
 
 ## İstanbul BAM 13. HD 2020/1265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/614152900)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: İlk Derece Mahkemesi 18/03/2020 tarih ve 2020/420 Esas - 2020/169 Karar sayılı kararında;"....Tüm dosya kapsamı birlikte değerlendirildiğinde; genel yetki kuralları gereği takibin, Büyükçekmece İcra dairelerinde yapılması gerekirken Anadolu İcra Müdürlüklerinde başlatıldığı, bu durumda icra takibinin yetkili yer icra dairesinde yapılmayarak itirazın iptaline dair dava şartının yerine getirilmemiş olduğu kanaatine varılarak 6100 sayılı yasanın 114/2 maddesinde düzenlenen yasal düzenleme de göz önünde bulundurularak aynı yasanın 115.
 
@@ -136,6 +150,8 @@ HÜKÜM : Yukarıda açıklanan nedenlerle; Davacının istinaf başvurusunun KA
 
 ## İstanbul BAM 14. HD 2020/1247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/614883600)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk derece mahkemesinin kararında; " ...Davalı tarafça milletlerarası yetki itirazı ile birlikte icra dairesinin yetkisine itiraz edilmiş olduğundan öncelikle yetki itirazının değerlendirilmesi gerekmektedir. Yükün davacı sigortalısı tarafından taşıtılması ve gemiden tahliyesi bir sözleşmeye dayalı olarak yapıldığından icra dairesinin yetkisi sözleşmeye ilişkin yetki hükümlerine göre belirlenmelidir.
 
 …
@@ -148,6 +164,8 @@ Davalılar vekilinin istinaf başvurusunun incelenmesinde; mahkeme kararındaki 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-HMK'nın 353/1.b.1.maddesi uyarınca, her iki tarafın istinaf başvurularının ayrı ayrı esastan reddine …
 
 ## İstanbul BAM 12. HD 2020/1189 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612128600)
 
 Davalı ... davaya cevap vermemiştir.
 

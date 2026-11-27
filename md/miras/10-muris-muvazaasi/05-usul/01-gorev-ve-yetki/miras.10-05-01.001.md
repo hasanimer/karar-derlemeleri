@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2019/1330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579466300)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -29,15 +31,21 @@ Yukarıda da ifade edildiği üzere, davanın birden fazla taşınmaza ilişkin 
 
 ## Yargıtay 5. HD 2023/30 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854407100)
+
 …
 
 dava dilekçesinde muris muvazaası nedeniyle tapu iptal ve tescil talebinde bulunulan taşınmazların Ankara ve Isparta illerinde bulunduğu, davanın Isparta 3. Asliye Hukuk Mahkemesinde açıldığı anlaşıldığından 6100 sayılı Kanun'un 12 nci maddesinin 3 üncü fıkrası gereğince uyuşmazlığın Isparta 3. Asliye Hukuk Mahkemesince çözümlenmesi gerekmektedir.
 
 ## Yargıtay 1. HD 2022/5256 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/817483800)
+
 Bilindiği üzere, yetki kamu düzeniyle ilgili olup kesin yetki içeren 6100 sayılı Hukuk Muhakemeleri Kanunu'nun(HMK'nın) 12. maddesinin birinci fıkrasında, "Taşınmaz üzerindeki ayni hakka ilişkin veya ayni hak sahipliğinde değişikliğe yol açabilecek davalar ile taşınmazın zilyetliğine yahut alıkoyma hakkına ilişkin davalarda, taşınmazın bulunduğu yer mahkemesi kesin yetkilidir."; üçüncü fıkrasında ise, "Bu davalar, birden fazla taşınmaza ilişkinse, taşınmazlardan birinin bulunduğu yerde, diğerleri hakkında da açılabilir." düzenlemeleri yer almış olup; muris muvazaasından kaynaklanan tapu iptali-tescil davalarının da anılan düzenlemeler kapsamında bulunduğu açıktır.
 
 ## Yargıtay 5. HD 2021/9568 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685424300)
 
 Dava, muris muvazaası hukuksal nedenlerine dayalı alacak isteğine ilişkindir.
 
@@ -47,9 +55,13 @@ Kocaeli 2. Asliye Hukuk Mahkemesince ise, davanın taşınmaz aynından kaynakla
 
 ## Yargıtay 1. HD 2019/2437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498830300)
+
 Bilindiği ve HMK 'nın 12/3 maddesinde düzenlendiği üzere, bu davalar (taşınmaz üzerindeki ayni hakka ilişkin veya ayni hak sahipliğinde değişikliğe yol açabilecek davalar) birden fazla taşınmaza ilişkinse taşınmazlardan birinin bulunduğu yerde diğerleri hakkında da açılabilir. Yasanın bu amir hükmü karşısında ...'deki taşınmazlar hakkında tefrik ve yetkisizlik kararı verilmesi isabetsizdir.
 
 ## Yargıtay 20. HD 2018/3508 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426532300)
 
 Dava, muris muvazaası nedeniyle tapu iptali ve tescil talebine ilişkindir.
 
@@ -58,6 +70,8 @@ Dava, muris muvazaası nedeniyle tapu iptali ve tescil talebine ilişkindir.
 ...Asliye Hukuk Mahkemesince ise 6100 sayılı HMK'nın 12/3. maddesi uyarınca davanın birden fazla taşınmaza ilişkin olması halinde taşınmazlardan birinin bulunduğu yerde diğerleri hakkında dava açılabileceği belirtilmiştir. Davanın muris muvazaasına dayalı tapu iptali ve tescil olmadığı takdirde tenkis talepli olduğu dikkate alındığında aynı nedene dayalı olarak birden fazla parsel için açılan davanın aynı mahkemede görülmesi, farklı mahkemelerden değişik kararların çıkmasını önleyecek ve yargılamada birliğin sağlanmasına katkıda bulunacaktır. Aynı nedene dayalı olarak birden fazla taşınmaz hakkında aynı mahkemede dava açılmasının HMK'nın 12/3. maddesi uyarınca mümkün olması nedeniyle ...Asliye Hukuk Mahkemesi tarafından verilen yetkisizlik kararının hukuka uygun olmaması nedeniyle karşı yetkisizlik kararı verilmiştir.
 
 ## Yargıtay 1. HD 2017/7117 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385865800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı bedel isteğine ilişkindir.
 
@@ -69,15 +83,21 @@ Bu noktada muris muvazaası hukuksal nedenine dayalı davada sözleşmenin şeki
 
 ## Yargıtay 20. HD 2017/809 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/302335200)
+
 Dava, tenkis istemine ilişkindir.
 
 ... Asliye Hukuk Mahkemesince, dava, miras bırakanın ölüme bağlı olarak gerçekleştirdiği tasarrufun iptali ile ilgili olmayıp, hukuksal dayanağını Borçlar Kanunun 18. maddesi ve 01/04/1974 tarih 1/2 sayılı İçtihadı Birleştirme Kararından alan muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescili, yani terekeye iadesidir. Davanın bu nitelendirilmesine göre yetkili mahkemenin tayininde gözetilmesi gerekli olan yasal düzenlemenin Türk Medenî Kanunun 576/2. maddesi hükmü değil, HMK'nın 12. maddesi hükmü olacağı kuşkusuzdur. Bilindiği üzere muris muvazaası hukuksal nedenine dayalı olarak açılan tapu iptali ve tescili davaları taşınmazın aynına yönelik olup, taşınmazın fiilen bulunduğu yer mahkemesinde açılması ve görülmesi gerekçesiyle yetkisizlik kararı verilmiştir.
 
 ## Yargıtay 2. HD 2013/10422 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/251441200)
+
 6110 sayılı yasanın 8. maddesi ile değiştirilen 2797 sayılı 14/a. maddesi gereğince görev belirlemesinde mahkemenin davayı nitelendirmesi esas olup, mahkemece dava muris muvazaası nedeniyle tapu iptal ve tescil, olmadığında tenkis istemi olarak vasıflandırıldığından inceleme görevi Yargıtay Büyük Genel Kurulu'nun 21.01.2013 tarihli 2013/1 sayılı iş bölümü kararı gereğince Yargıtay 1. Hukuk Dairesine aittir. Ancak Yargıtay 1. Hukuk Dairesi daha önce görevsizlik kararı verdiğinden Daireler arasındaki görev uyuşmazlığı giderilmek üzere dosyanın Yargıtay Hukuk Daireleri Başkanlar Kuruluna gönderilmesine karar vermek gerekmiştir.
 
 ## Yargıtay 1. HD 2012/9588 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78959000)
 
 Dava, muris muvazaası nedeniyle tapu iptali ve miras payı oranında tescil, bu talep yerinde görülmediği takdirde tenkis isteğine ilişkindir.
 
@@ -86,6 +106,8 @@ Dosya içeriğine ve toplanan delillere göre; dava konusu 1823 parsel sayılı 
 22.05.1987 tarihli ve 1986/4 - 1987/5 sayılı Yargıtay İçtihadı Birleştirme Kararında da belirtildiği üzere, muris muvazaası sebebiyle tapu iptali ve tescil davası ile birlikte tenkis davası açılabilir. Bu iki davanın hukuksal nitelikleri farklı olmakla birlikte beraber açılmaları durumunda öncelikle daha geniş kapsamlı olan muris muvazaası nedeniyle tapu iptali ve tescil isteminin çözümlenmesi ve yetki konusun da bu doğrultuda değerlendirilmesi gerekir. Dava ve karar tarihlerinde yürürlükte bulunan 6100 sayılı H.M.K.'nun 12. maddesine göre, taşınmaz üzerindeki ayni hakka ilişkin davalara taşınmazın bulunduğu yer mahkemesinde bakılır. Yasada da açıkça belirtildiği üzere bu yetki kuralı kesin yetki kuralıdır. Muris muvazaası sebebiyle tapu iptali ve tescil davaları taşınmaz üzerindeki ayni hak sahipliğine ilişkin davalardır, bu tür davaların taşınmazın bulunduğu yer mahkemesinde açılıp, sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 1. HD 2008/10254 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853210000)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescili isteğine ilişkindir.
 
@@ -102,6 +124,8 @@ Hukuk Dairesi 2024/1361 esas, 2024/1835 karar sayılı ilam; İzmir Bölge Adliy
 
 ## İstanbul BAM 2. HD 2025/334 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120726500)
+
 …
 
 : HMK'nın 355. Maddesi gereği, kamu düzenine aykırılık teşkil eden hususlar hariç tutularak, istinaf neden ve gerekçeleri ile sınırlı olmak üzere yapılan incelemede; Dava; fiili ehliyetsizlik ve muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil ile bedel bu mümkün olmaz ise tenkis istemine ilişkindir. Muris ...' nun 23/01/2022 tarihinde vefat ettiği, mirasının 32 pay kabul edilerek, 8 payının ...' na, 3 payının ...' a, 3 payının ...' na, 3 payının ...' ya, 3 payının ...'na, 3 payının ...' na, 3 payının ...' na, 3 payının ...' na ve 3 payının ...'na isabet ettiği anlaşılmıştır. Mahkemece dava konusu taşınmaza ilişkin tapu kaydı ile resmi senet dosya içerisine getirtilmiştir. İncelenmesinde, taşınmazın 33.427,00 m2 ve susuz tarla vasfında olduğu, 29/05/2007 tarihinde ... tarafından 2.500.000,00 YTL bedelle ... Dış Tic. A.Ş' ye satılarak devredildiği sabittir. Diyarbakır 5. Asliye Hukuk Mahkemesi 27/12/2022 tarihli 2022/608 esas ve 2022/961 karar sayılı ilamı ile," muris muvazaasına dayalı davalarda kesin yetki kuralı olmaması ve davalı şirket hakkında Bakırköy 8.
@@ -110,9 +134,13 @@ Davacının talebi davalı adına olan tapu kaydının iptali ile adına tescili
 
 ## Konya BAM 4. HD 2024/5138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1097907100)
+
 Somut olayda, davacı taraf, murislerinin mal kaçırmak amacıyla muvazaalı olarak adına kayıtlı şirket hisselerini davalıya devrettiğini, muvazaalı olarak devredilen şirket hisselerinin iadesini, mümkün olmaması halinde tenkisine karar verilmesini talep etmiş olup, miras payına dahil olduğu ve muvazaalı olarak devredildiği öne sürülen malvarlığı haklarının (ticari şirket hisseleri) 6102 sayılı TTK'da tanımlanmış olması, davayı ticari dava kılmayacağı, davanın (iddianın) temelinin muris muvazaası olduğu, genel bir ilke olarak görevli mahkemenin belirlenmesinde temel ölçüt, muris muvazaasına konu malvarlığı haklarını oluşturan unsurların niteliği olmayıp, murisin mirasçılarının hukukunu zedeleyen malvarlığı haklarına yönelik muvazaalı bir işlemi olup olmadığı, bunu değerlendirme görevinin de 6100 sayılı HMK'nın 2. Maddesi uyarınca Asliye Hukuk Mahkemesine ait olduğu anlaşılmakla, uyuşmazlığın genel hükümler çerçevesinde asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## İstanbul BAM 12. HD 2024/1674 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085163600)
 
 …
 
@@ -121,6 +149,8 @@ Bunu değerlendirme görevi de 6100 sayılı HMK'nın 2 maddesi uyarınca Asliye
 
 ## İstanbul BAM 43. HD 2024/715 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038788300)
+
 …
 
 : Dava, muris muvazaası iddiasına dayalı olarak limited şirket hisse devrinin miras payı oranında iptali davasıdır. Bu aşamada istinafa gelen uyuşmazlık temelde, uyuşmazlığın çözümünde görevli olan mahkeme noktasındadır.Muris ... şirketteki 25.000 TL hissesinin tamamını Bakırköy ... Noterliğinin 20/04/2016 tarih ve ... YN'lu pay devir sözleşmesi ile davalı ...'ya devretmiştir. Hisseleri devreden ... 23/04/2016 tarihinde ölmüştür.Davacı tarafça, hisse devrinin mal kaçırmak amacıyla yapıldığı iddiasıyla hisse devrinin miras payı oranında iptali ile kendi adına tesciline karar verilmesi istemiyle eldeki dava açılmıştır. 6102 Sayılı Türk Ticaret Kanunu(TTK)’nun 4/1-a. maddesine göre, her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ile tarafların tacir olup olmadıklarına bakılmaksızın Türk Ticaret Kanununda öngörülen hususlardan doğan hukuk davaları ticari dava sayılır. TTK'nın 5/1. Maddesine göre de, aksine hüküm bulunmadıkça, dava olunan şeyin değerine veya tutarına bakılmaksızın tüm ticari davalara asliye ticaret mahkemesi bakmakla görevlidir.
@@ -128,6 +158,8 @@ Taraflar arasındaki uyuşmazlık, dava dışı şirketin murise ait hisselerini
 Bu haliyle uyuşmazlığın çözümünde asliye ticaret mahkemesi değil HMK'nın 2. maddesi uyarınca genel mahkeme olan asliye hukuk mahkemesi görevlidir. Dolayısıyla Asliye Ticaret Mahkemesince görevsizlik kararı verilmesinde herhangi bir isabetsizlik görülmemiştir. HMK'nın 355. maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılan istinaf incelemesi sonunda; ilk derece mahkemesi kararının usul ve esas yönünden hukuka uygun olduğu anlaşıldığından davalı vekilinin yerinde görülmeyen istinaf başvurusunun reddine karar vermek gerekmiştir.
 
 ## İstanbul BAM 37. HD 2021/1816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/702242400)
 
 K A R A R Dava, muris muvazaasına dayalı limited şirket hisse devrinin, iptali olmadığı takdirde tenkis talebine ilişkindir. İstanbul 9. Asliye Hukuk Mahkemesince, davalı gerçek kişiler aleyhine açılan tapu iptal ve tenkis davaları elde tutularak muris muvazaasına dayalı şirket hisse devrine yönelik davanın Ticaret Mahkemesinde görülmesi gerektiği gerekçesiyle dava tefrik edilerek görevsizlik kararı verilmiştir. İstanbul 2. Asliye Ticaret Mahkemesince, şirket hisse devirlerinin şekli yönden uyuşmazlık konusu olmadığı, davacının genel hükümler uyarınca Asliye Hukuk Mahkemesinde görülmesi gerektiği gerekçesiyle görevsizlik kararı verilmiştir. 6102 sayılı Türk Ticaret Kanununun 4/1. maddesinde her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ve çekişmesiz yargı işlerinin ticari dava ve ticari nitelikte çekişmesiz yargı işi sayılacağı hüküm altına alınmıştır. Buna göre, bir uyuşmazlığın ticari nitelikte olabilmesi için, her iki tarafın da ticari işletmesini ilgilendirmesi yahut aynı maddenin alt bentlerinde düzenlenen istisnalardan birine dahil olması gerekmektedir.
 Somut olayda davacılar vekili, davalı gerçek kişilerle müvekkillerinin kardeş olduklarını, 18/07/2006 tarihinde vefat eden ...'ın mirasçıları olduklarını, murislerinin ölmeden önce İstanbul Ticaret Sicil Müdürlüğü'nde ... sicil no.da kayıtlı ... Ltd.Şti'de adına kayıtlı olan 800.000.000,00 TL karşılığı hisse payının 200.000.000,00 TL'şer hissesini Beşiktaş ...

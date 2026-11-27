@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/1258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857272500)
+
 Vasiyetnamenin açılması kavramını mirasın açılması ile karıştırmamak gerekir. Miras, genel olarak miras bırakanın ölümü ile açılır. Vasiyetnamenin açılması ise, sulh hâkiminin ilgilileri davet ederek onların önünde vasiyetnameyi açması ve içindekileri onlara okumasıdır (TMK m. 596-597). Böyle bir hâlde vasiyetnamenin açılmasında hazır bulunan ilgili, aynı zamanda iptal sebebini de böylece öğrenirse bunlar hakkında bir yıllık hak düşürücü sürenin o günden itibaren işlemesi gerekir. Buna karşılık, orada bulunmayan veya ölüme bağlı tasarruftan haberi olmayan veya orada bulunsa bile iptal sebebini bilmeyen ilgililer hakkında vasiyetnamenin açılmasından itibaren on yıllık süre işler.
 
 ## Yargıtay HGK 2005/378 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16444300)
 
 (...4722 sayılı Yasanın 17. maddesine göre "mirasçılık ve mirasın geçişi, miras bırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirlenir."
 
@@ -57,9 +61,13 @@ Bu hükümlere göre; vasiyetnamenin açılması ve okunması sürecinde, vasiye
 
 ## Yargıtay 7. HD 2025/4101 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185208200)
+
 Bu hâlde; 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 27. maddesinde hükme bağlanan "Hukuki Dinlenilme Hakkı" gereğince mirasçılara tebliğ işleminin yapılması suretiyle vasiyetnamenin açılmasında ön koşulun sağlanması (TMK 596, 597, 598) ve TMK'nın 596/2. maddesi uyarınca vasiyetnamenin murisin bilinen tüm mirasçılarına okunması gerekir.
 
 ## Yargıtay 7. HD 2025/2691 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168995500)
 
 Dava; vasiyetnamenin açılması istemine ilişkindir.
 
@@ -71,26 +79,38 @@ Vasiyetnamenin açılıp okunduğunun tespit edilmesinin amacı, mirasçıları 
 
 ## Yargıtay 7. HD 2025/2660 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168977400)
+
 Her ne kadar Bölge Adliye Mahkemesince; 07.03.2017 tarihli dilekçeyle davacının vasiyetnameyi öğrendiği kabul edilerek davanın hak düşürücü süre nedeniyle reddine yönelik hüküm kurulmuş ise de, 4721 sayılı Türk Medeni Kanunu uyarınca vasiyetnamenin açılıp okunarak vasiyetnamenin tamamından haberdar olunmasıyla öğrenme süresi başlayacağı için 07.03.2017 tarihli dilekçe kapsamının "öğrenme" olarak kabul edilip süre yönünden davanın reddedilmesi doğru değildir. Vasiyetnamenin açılması davasının kesinleştiği tarih itibariyle eldeki dava hak düşürücü süre içerisinde açılmış olup işin esasının incelenmesi gerekmektedir.
 
 ## Yargıtay 7. HD 2025/1361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140808300)
 
 Muris ...'un bir kısım mirasçıları tarafından 03.12.2004 tarih ve 1669 yevmiye numaralı mirastan feragat sözleşmesi imzalanmış olup mirasbırakan 03.09.2013 tarihinde ölmüştür. Kaynağını 4721 sayılı Türk Medeni Kanunu'nun 528. ve devamı maddelerinden alan mirastan feragat sözleşmeleri miras sözleşmesinin bir çeşidi olduğundan resmî vasiyetname şeklinde yapılması zorunludur (TMK md. 545 ve Yargıtay İçtihadı Birleştirme Kararı 11.02.1959 tarih ve 16/14 sayılı Kararı). TMK'nın 596. maddesi vasiyetnamenin açılıp okunmasına ilişkindir. TMK'nın 528 ve devamı maddelerinde düzenlenmiş bulunan mirastan feragat sözleşmelerinin vasiyetnamelerdeki usul doğrultusunda açılıp okunmasına ilişkin bir hüküm yoktur. Noterde düzenlenmiş olan mirastan feragat sözleşmesinin mirasbırakanın ölümü hâlinde sulh hâkimine gönderilmesine gerek bulunmamaktadır.
 Bu nedenle, mirastan feragat sözleşmesiyle ilgili olarak taraflarının veya mirasçılarının açmış oldukları bir dava da olmadığı gözetilerek, yapılacak bir işlem bulunmadığından, Mahkemece "karar verilmesine yer olmadığına, gönderilen mirastan feragat sözleşmesi aslının da ilgili Noterliğe iadesine" kararı verilmesi gerekirken tespite ilişkin karar verilmesi doğru görülmemiş, bu nedenle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 3. HD 2025/174 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151315500)
+
 Bu durumda, davacı tarafından murise ait 24.11.2004 tarihli vasiyetnamenin açılması, bu vasiyetname ile murisin 26.01.1999 tarihli vasiyetnamesinden döndüğünün tespiti için dava açılması gerekmektedir. Buna bağlı olarak, İlk Derece Mahkemesince, davacının doğmuş bir zararının bulunmadığı gözetilerek, davanın hukuki yarar yokluğu nedeniyle reddine karar verilmesi gerekirken, yazılı gerekçeyle davanın reddine karar verilmiş olması, usul ve kanuna aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 7. HD 2024/4759 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107926300)
 
 TMK’nın 595 inci maddesi; “Vasiyetnameyi düzenleyen veya muhafaza eden görevli ya da mirasbırakanın arzusu üzerine saklayan veya başka surette ele geçiren ya da ölenin eşyası arasında bulan kimse, ölümü öğrenir öğrenmez teslim görevini yerine getirmekle yükümlüdür; aksi takdirde bu yüzden doğacak zarardan sorumludur.” düzenlemesini, 596 ncı maddesi; “vasiyetnamenin geçerli olup olmadığına bakılmaksızın, tesliminden başlayarak bir ay içinde mirasbırakanın yerleşim yeri Sulh Hakimi tarafından açılır.” düzenlemesini, 597 nci maddesi ise; “Mirasta hak sahibi olanların her birine gideri terekeye ait olmak üzere, vasiyetnamenin kendilerine ilişkin kısımlarının onaylı bir örneği hâkim tarafından tebliğ edilir. Nerede olduğu bilinmeyenlere vasiyetnamenin kendilerine ilişkin kısımları ilân yolu ile tebliğ olunur. ” düzenlemesini ihtiva etmektedir.
 
 ## Yargıtay 7. HD 2024/3979 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100014900)
+
 Vasiyetnamenin açılışını müteakip mirasta hak sahiplerinin her birine, vasiyetnamenin kendilerine ilişkin kısımlarının onaylı bir örneği tebliğ olunur (TMK.md.597). Lehlerine karşılıksız kazandırma yapılan kimselerin ve mirasçıların adresleri belli değilse kendilerine vasiyet ilânen tebliğ edilir (TMK.md.597/2). Sulh hâkimi, vasiyetnamenin kendisine teslimini müteakip gerekli koruma önlemlerini alır, olanak varsa ilgilileri dinleyerek yasal mirasçılara terekenin geçici olarak teslimine yahut resmen yönetilmesine karar verir (TMK. md. 595/3).
 
 ## Yargıtay 5. HD 2022/16520 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838400000)
 
 Dava, vasiyetnamenin açılması istemine ilişkindir.
 
@@ -98,15 +118,21 @@ Yalova Sulh Hukuk Mahkemesince, müteveffanın 12.11.2021 tarihinde vefat ettiğ
 
 ## Yargıtay 3. HD 2021/1181 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653310400)
+
 O halde; mahkemece, vasiyetnameden rücu edildiğine dair beyanı içeren düzenleme şeklinde belgenin ölüme bağlı tasarruf niteliği taşıdığı, kanunda yer alan şekille yapılabileceği, geçerli olup olmadığına bakılmaksızın açılması gerektiği, ilgililerin ancak vasiyetnamenin açılıp okunması suretiyle haklarını öğrenebilecekleri dikkate alınarak; mirasçılara TMK 595,596 ve 597. madde hükümleri gereğince vasiyetnamenin açılması sırasında diledikleri takdirde hazır bulunmak üzere vasiyetname ekli tebligat yapılması, dava konusu vasiyetnamenin açılıp okunduğunun tutanağa geçirilmesi, tutanağın hazır bulunanlar tarafından imzalanması sağlamak ve okunma işleminin tespitine karar verilmesi gerekirken; mahkemece yapılacak bir işlem olmadığından karar verilmesine yer olmadığına karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2020/3271 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605349400)
 
 Dosya kapsamından; vasiyetnamenin açılarak okunmasına ilişkin tespit hükmünün taraflara tebliğ edilerek kesinleştiği, eldeki vasiyetnamenin tenfizine ilişkin davada mahkemece davacının dava dilekçesindeki yazım hatasının sonradan fark edilerek düzeltilmesi neticesinde yargılamanın vasiyetnamede belirtilen ada numarasına göre doğru şekilde yürütüldüğü hususları hep birlikte değerlendirildiğinde, mahkemece gerekçeli kararın yazımında hataya düşüldüğünün kabulü gerekir.
 
 O halde; mahkemece, davacının isteminin tashih niteliğinde olduğu ve vasiyetnamenin açılmasına ilişkin davanın kesinleştiği ve taraflarca düzletilmesi istenen hükme yönelik infaz aşamasına kadar tashih isteminde bulunulmasında bir sakınca olmadığı gözetilerek, mahkemece yapılan yazım hatası nedeniyle tashih isteminin kabulüne karar verilmesi gerekirken; yazılı gerekçe ile istemin reddi doğru olmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2020/1796 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592795900)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -118,6 +144,8 @@ Hal böyle olunca; öncelikle ... 1. Noterliğinin ... tarih ve ... yevmiyeli va
 
 ## Yargıtay 3. HD 2020/1681 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646480300)
+
 Türk Medeni Kanun'un Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un 1.maddesinin 2.fıkrasında "TMK'nın yürürlüğe girdiği tarihten önce yapılmış olan işlemlerin hukuken bağlayıcı olup olmadıkları ve sonuçları, bu tarihten sonra yapılsa dahi yapıldıkları sırada yürürlükte bulunan kanunlara göre belirlenir." denilmiş, yine aynı Kanunu'nun 17. maddesinde "Mirasçılık ve mirasın geçişi, miras bırakanın ölümü tarihinde yürürlükte olan hükümlere göre belirlenir." şeklinde belirtilmiş olup anılan hükümlere göre somut olayda murisin 05/01/1991 tarihinde vefat ettiği dikkate alınarak ihtilafın çözümünde 743 sayılı Medeni Kanun'un hükümlerinin uygulanacağı açıktır.
 
 743 sayılı MK’nın 501/1 maddesinde "İptal davası, müddeinin tasarrufu ve butlanın sebebine muttali olduğu günden itibaren bir sene ve herhalde vasiyetnamenin açılması tarihinden itibaren beş sene geçmekle mürunu zamana uğrar" denilmiştir. Ancak 743 sayılı MK’nın 501.maddesinin 1.fıkrasının son cümlesinde "Tasarrufun butlanı gerek kanuna muhalefet ve adabı umumiyeye aykırılıktan gerek ehliyetsizlikten neşet etsin, sui niyet sahibi olan davalıya karşı iptal davası, ancak otuz senenin geçmesi ile sakıt olur” hükmü getirilmiştir. Hükümdeki 30 senelik zamanaşımı süresinin olaya uygulanabilmesi için iptal sebebinin ehliyetsizliğe (MK 499/1) veya hukuka ya da ahlaka aykırılığa (MK 499/3) dayanması ve davanın da kötü niyetli olması gerekir. Öğretide bir kimsenin ölüme bağlı tasarrufta bulunanın ehliyetsiz olduğunu bildiği veya bilmesi gerektiği halde ölüme bağlı tasarruftan yararlandığı takdirde kötü niyetli sayılması gerektiği görüşü benimsenmektedir.
@@ -125,13 +153,19 @@ Somut olayda davacılar, vasiyetname düzenlediği esnada murisin ehliyetsiz old
 
 ## Yargıtay 23. HD 2019/4739 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/552269300)
+
 Her ne kadar 26.12.1995 tarihinde davacı vakıf tarafından vasiyetnamenin açılması istenilmiş ise de, davalı kooperatif ortağı Sabri ve ...’ın mirasçısı olan davacı vakfın mirasçı nasbı 20.10.2010 tarihinde gerçekleşmiştir. Bu tarih nazara alındığında MK’nın 2. maddesinden hareketle henüz uzun bir sürenin geçtiğinden bahsedilemez. Davacı vakfa usulüne uygun tebligat gönderilmediği mahkemenin de kabulünde olduğundan, yanılgılı gerekçeye dayalı olarak yazılı şekilde hüküm kurulması doğru olmamıştır.
 
 ## Yargıtay 3. HD 2019/3674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515772800)
+
 Mirastan feragat sözleşmesi ve kapsamı Türk Medeni Kanunu'nun 528 ve devamındaki maddelerinde düzenlemiş olup, miras sözleşmesinin bir çeşididir. TMK'nın 545. maddesi uyarınca miras sözleşmesinin geçerli olabilmesi için resmi vasiyetname şeklinde yapılması zorunludur. (Yargıtay İ. B. K. 11.02.1959 tarih 16/14 sayılı Kararı) Vasiyetnamenin açılması ise TMK'nın 596. Maddesinde düzenlenmiş olup vasiyetname açılırken sulh hakimince izlenmesi gereken usul belirtilmiştir. Miras sözleşmesinin ve bu kapsamda yer alan mirastan feragat sözleşmesinin "resmi vasiyetname şeklinde yapılması hususu yalnızca" geçerlilik şekline ilişkin olup, mirastan feragat sözleşmelerinin vasiyetnamelerdeki usul doğrultusunda açılıp okunacağına ilişkin kanunda bir hüküm bulunmadığı gibi noterde düzenlenmiş olan mirastan feragat sözleşmesinin mirasbırakanın ölümü halinde sulh hakimine gönderilmesine dair de bir düzenleme söz konusu değildir. Bu açıklamalar doğrultusunda mahkemece talebin reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru görülmemiş, bu nedenle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 14. HD 2019/2629 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508939000)
 
 Dava, vasiyetnameye konu taşınmazın tapu kaydının iptali ve tesciline ilişkindir.
 
@@ -141,17 +175,23 @@ O halde mahkemece; ... Geçici Noterliğinin 17.03.1980 tarih ve 477 yevmiye num
 
 ## Yargıtay 14. HD 2019/1670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483504200)
+
 Öte yandan; TMK'nin 596. maddesinde vasiyetnamenin açılması "Vasiyetname, geçerli olup olmadığına bakılmaksızın tesliminden başlayarak bir ay içinde mirasbırakanın yerleşim yeri sulh hakimi tarafından açılır ve ilgililere okunur. Bilinen mirasçılar ve diğer ilgililer vasiyetnamenin açılması sırasında diledikleri takdirde hazır bulunmak üzere çağrılır. Mirasbırakanın sonradan ortaya çıkan vasiyetnameleri için de aynı işlemler yapılır." şeklinde düzenlenmiştir. Vasiyetnamenin açılıp okunduğunun tespit edilmesinin amacı mirasçıları ve lehine kazandırma yapılan kişileri bilgilendirme ve yasal haklarını kullanmayı temine yönelik bir işlem olduğu şüphesizdir.
 
 Hal böyle iken mahkemece, ölünceye kadar bakım sözleşmesi hakkında uygulama yeri bulunmadığı halde vasiyetnamenin açılıp okunması isteminde bulunulmuş gibi yargılama yapılıp karar verilmesi doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2019/573 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479494800)
+
 Buna göre, vasiyet alacaklısı, mirasçı değil; kişisel bir istem hakkı sahibidir. Bu hakkın yerine getirilmesi için; her şeyden önce TMK'nin 596. ve devamı maddeleri uyarınca vasiyetnamenin açıldığının ve iptali için yasada gösterilen sürenin geçtiğinin belirlenmesi gerekir.
 
 TMK'nin 559/2. maddesi gereğince; iptal davası açma hakkı olan mirasçı, vasiyetnamenin hükümsüz olduğunu, def'i yoluyla her zaman ileri sürebilir.
 
 ## Yargıtay 3. HD 2018/13274 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467379000)
 
 Dava, MK.nun 596.maddesinde yer alan vasiyetnamenin açılması ve ilgililere okunması davasıdır. Maddede, vasiyetnamenin mirasbırakanın yerleşim yeri Sulh Hakimi tarafından açılıp, ilgililere okunacağı, MK.nun 597.maddesinde de, mirasta hak sahibi olanların her birine gideri terekeye ait olmak üzere, vasiyetnamenin kendilerine ilişkin kısımlarının onaylı bir örneğinin tebliğ edileceği açıklanmıştır.
 
@@ -161,9 +201,13 @@ Vasiyetname, geçerli olup olmadığına bakılmaksızın, tesliminden başlayar
 
 ## Yargıtay 3. HD 2018/13057 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471328100)
+
 O halde mahkemece; vasiyetnamenin açılması dosyasının kesinleşmesi bekletici mesele yapılarak, vasiyetnamenin açılmasına ilişkin kararın kesinleşme tarihi şerhini içerir onaylı sureti ilgili mahkemeden getirtildikten sonra, hasıl olacak sonuca göre bir karar verilmesi gerekirken, eksik inceleme ve yanılgılı değerlendirme sonucu yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2018/12970 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464263000)
 
 Dava; vasiyetnamenin açılması istemine ilişkindir.
 
@@ -173,9 +217,13 @@ TMK'nın 596.maddesinde, vasiyetnamenin miras bırakanın yerleşim yeri sulh hu
 
 ## Yargıtay 3. HD 2018/12582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462893500)
+
 TMK'nun 596. maddesi uyarınca; ........., bunu düzenleyen veya muhafaza eden görevliler tarafından, mirasbırakanın yerleşim yeri sulh hakimine teslim edilir ve geçerli olup olmadığına bakılmaksızın teslimden başlayarak bir ay içinde bu yer sulh hakimi tarafından açılır ve ilgililere okunur. ......... tarafından düzenlenen ve vasiyetname niteliğinde olmayan belgeler hakkında sulh hakimince yapılacak herhangi bir işlem bulunmamaktadır.
 
 ## Yargıtay 3. HD 2018/12392 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464556800)
 
 TMK'nın 596. maddesinde ......... ......bırakanın yerleşim yeri ......... ......i tarafından açılıp, ilgililere okunacağı, 597. maddesinde de, ......ta hak sahibi olanların her birine gideri terekeye ait olmak üzere ......... kendilerine ilişkin kısımlarının onaylı bir örneğinin tebliğ edileceği hükme bağlanmıştır.
 
@@ -183,9 +231,13 @@ Bu bağlamda ......bırakanın ölümünden sonra ele geçen ......... .........
 
 ## Yargıtay 3. HD 2018/12180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464027600)
+
 Kesin yetki" kuralı içeren TMK.nun 596.maddesinde açıkça vasiyetnamenin "Mirasbırakanın yerleşim yeri Sulh Hakimi" tarafından açılacağı belirtilmiştir. Kesin yetki kuralı ilgili tarafından ileri sürülmese bile davanın her aşamasında mahkeme tarafından gözetilmelidir. Mahkeme tarafından mirasbırakan ...'ın vefat tarihindeki yerleşim yeri Didim/... olduğundan yetkisizlik kararı verilerek dosyanın yetkili Sulh Hukuk Mahkemesine gönderilmesi kararı verilmesi gerekir iken; yazılı şekilde karar verilmesi doğru görülmemiş; kararın bozulması gerekmiştir.
 
 ## Yargıtay 3. HD 2018/11699 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/455019100)
 
 Vasiyetnamenin açılıp okunması davası hasımsız bir dava olmadığı için taraf teşkili sağlandıktan sonra görülmesi gerekir. 6100 sayılı HMK'nun 114/1-d maddesi gereğince taraf teşkili dava şartı olduğundan, HMK'nun 115. maddesinin 1. 2. ve 3. fıkrasında açıklanan dava şartlarının gerçekleşip gerçekleşmediğinin araştırılması gerekir.
 
@@ -193,13 +245,19 @@ Somut olayda her ne kadar mahkemece,murisin veraset ilamının dosyaya tebliği 
 
 ## Yargıtay 3. HD 2018/7409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430946100)
+
 Açıklanan içeriği itibari ile her ne kadar hüküm kısmında "tenfiz" ifadesi kullanılmış ise de iş bu dosyanın (4721 sayılı TMK kapsamında) vasiyetnamenin tenfizi dosyası niteliğinde değil vasiyetnamenin açılması dosyası niteliğinde olduğu anlaşılmaktadır. Bu itibarla, dayanak olarak alınan iş bu dosya, eldeki yargılama dosyasını konusuz bırakamaz.
 
 ## Yargıtay 3. HD 2018/3623 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419832200)
+
 TMK'nun 596. maddesinde; vasiyetnameyi teslim alan sulh hakiminin, bilinen mirasçılar ve diğer ilgilileri vasiyetnamenin açılması sırasında diledikleri takdirde hazır bulunmak üzere çağıracağı, belirlenen günde vasiyetnameyi açacağı ve hazır bulunanlara okuyacağı hüküm altına alınmıştır.
 
 ## Yargıtay 3. HD 2018/2302 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/418782400)
 
 Dava; vasiyetnamenin açılması istemine ilişkindir.
 
@@ -211,6 +269,8 @@ Somut olayda; mahkemece, talebin kabulü ile vasiyetnamenin açılmasına karar 
 
 ## Yargıtay 3. HD 2017/16717 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387312900)
+
 Dava konusu istek malvarlığına ilişkin olup, mirasçıların malvarlığını etkilemektedir.
 
 …
@@ -219,11 +279,15 @@ Yukarıdaki bentte açıklandığı üzere davalı ...’ın davayı kabul etti�
 
 ## Yargıtay 14. HD 2017/9115 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387540200)
+
 TMK'nın 596.maddesinde vasiyetname mirasbırakanın yerleşim yeri sulh hakimi tarafından açılıp, ilgililere okunacağından bu bağlamda mirasbırakanın ölümünden sonra ele geçen vasiyetnamenin TMK'nın 595/1 maddesi gereğince geçerli olup olmadığına bakılmaksızın hemen sulh hakimine teslim edilmesi zorunludur. Bu nedenle vasiyetname, geçerli olup olmadığına bakılmaksızın tesliminden başlayarak bir ay içinde mirasbırakanın yerleşim yeri Sulh Hukuk Mahkemesi Hakimi tarafından açılır ve ilgililere tebliğ olunur.
 
 Somut olayda; TMK 595, 596 ve 597. madde hükümleri gereğince davalı ...'nın murise ait olduğunu beyan ettiği aslı mahkeme kasasında olduğu belirtilen vasiyetnamenin sulh hukuk mahkemesine (... ... ile görevli) tevdi ile okunup açılması ve kesinleşmesi için davalı ...'ya süre verilmesi gerektiğinden, savunmada dayanılan vasiyetname incelenmeye tabi tutulduktan sonra tarafların gösterdikleri deliller değerlendirilerek sonucuna göre hüküm tesisi gerekirken davacının göstermiş olduğu deliller toplanmadan, eksik inceleme ile davanın kabulüne karar verilmesi doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 20. HD 2017/7135 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/369562900)
 
 Vasiyetnamenin açılmasına ilişkin davada ... Sulh Hukuk ve ... 4. Sulh Hukuk Mahkemelerince ayrı ayrı yetkisizlik kararı verilmesi nedeni ile dosyada son karar bölge adliye mahkemelerinin faaliyete geçmesinden sonra verilmiş ise de iki farklı bölge adliye mahkemesinin yargı çevresinde kalan mahkemelerce karşılıklı olarak yetkisizlik kararı verilmiş olması ve 5235 sayılı Kanunun 36/3. maddesi gereğince bölge adliye mahkemeleri hukuk dairelerinin görevinin yargı çevresi içerisinde bulunan adlî yargı ilk derece hukuk mahkemeleri arasındaki yetki ve görev uyuşmazlıklarını çözmek olduğundan yargı yerinin belirlenmesi için gönderilen dosya içindeki tüm belgeler incelendi, gereği düşünüldü:
 
@@ -233,9 +297,13 @@ Dava, vasiyetnamenin açılması istemine ilişkindir.
 
 ## Yargıtay 3. HD 2017/3631 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/327328300)
+
 TMK'nun 595.maddesi gereğince; miras bırakanın ölümünden sonra ele geçen vasiyetnamenin geçerli olup olmadığına bakılmaksızın hemen sulh hakimine teslimi zorunlu olup, vasiyetname teslimden başlayarak bir ay içinde açılır ve ilgililere okunur. Vasiyetnamenin iptali davasında öncelikle dava konusu vasiyetnamenin açılıp açılmadığı araştırılarak vasiyetnamenin açılmasına ilişkin kararın kesinleşme tarihli şerhini içerir onaylı sureti getirtilerek, dosya içine konulması gerekir.
 
 ## Yargıtay 3. HD 2016/6672 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208918200)
 
 Dava; vasiyetnamenin açılmasına ilişkindir.
 
@@ -245,6 +313,8 @@ Hal böyle olunca mahkemece; açılması talep olunan 19.03.2009 tarih 7059 yevm
 
 ## Yargıtay 3. HD 2015/18734 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138801400)
+
 Dava, vasiyetnamenin açılması ile ilgili yabancı mahkeme ilamının tanınması ve tenfizine ilişkindir.
 
 …
@@ -253,9 +323,13 @@ Bu durumda, mahkemece; MÖHUK'nun 38. ve 42. maddelerinin aradığı şartların
 
 ## Yargıtay 16. HD 2015/14425 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396035100)
+
 Çekişmeli 149 ada 9, 150 ada 1, 152 ada 13, 154 ada 1, 156 ada 7, 160 ada 24, 34 ve 36 parsel sayılı taşınmazlara yönelik temyiz itirazlarına gelince; dava, kadastro tespitine itiraza ilişkindir. Çekişmeli taşınmazlar, kök muris ... ... mirasının tamamını oğulları ... ve ... ... bıraktığına dair ... Noterliğince düzenlenen 25.05.1967 tarihli vasiyetname, ... ... mirasının tamamını davalıya bıraktığına dair ... . Noterliğince düzenlenen 25.05.2000 tarihli ölünceye kadar bakım sözleşmesi ve ... ... de kızı olan davalıya bağışı gerekçe gösterilerek hibe ve kazandırıcı zamanaşımı zilyetliği nedeniyle davalı adına tespit edilmiştir. Davacı, çekişmeli taşınmazların müşterek muris ... ... intikal ettiği ve terekenin taksim edilmediği iddiasıyla dava açmıştır. Mahkemece, tespitte yazılı gerekçe ile davanın reddine karar verilmiş ise de; varılan sonuç dosya kapsamına uygun düşmemektedir. Tespite dayanak yapılan ve ... Noterliğince 25.05.1967 tarihinde düzenlenen vasiyetnamenin usulünce açılıp okunmadığı anlaşılmış, mahkemece, davalı tarafa süre verilerek bu eksikliğin giderilmesi sağlanmamıştır.
 4721 sayılı TMK'nın 596. maddesi gereğince yöntemince açılıp okunmayan vasiyetnameye, hukuken geçerlilik tanınarak karar verilmesi doğru değildir. Hal böyle olunca; sağlıklı bir sonuca varılabilmesi için, öncelikle bahse konu vasiyetnamenin açılıp okunmasının sağlanması için davalı tarafa süre verilmeli, bu şekilde tüm mirasçıların vasiyetnameden haberdar olmaları sağlanmalı, bu husus eldeki yargılama açısından bekletici mesele yapılmalı, bundan sonra toplanan tüm deliller birlikte değerlendirilerek sonucuna göre bir karar verilmelidir.
 
 ## Yargıtay 3. HD 2015/10519 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142618100)
 
 O halde mahkemece, murise ait Edremit Sulh Hukuk Mahkemesinin 2012/1082 E. - 2013/572 K. sayılı ilamı ile düzenlenen verasetnamede yer alan tüm mirasçılar açısından vasiyetnamenin açılması usulünce sağlandıktan ve vasiyetnamenin açılması kararı kesinleştikten sonra bu davaya devam edilerek sonucuna göre bir hüküm kurulması gerekirken, vasiyetnamemin açılması dosyasında taraf teşkili sağlanmadan ve bu suretle vasiyetname usulünce açılarak kesinleşmeden davaya devam edilmesi ve hüküm kurulması doğru görülmemiştir.

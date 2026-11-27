@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2007/5419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16547900)
+
 İcra dairelerinin yetkisini düzenleyen İİK'nın 50/1. maddesine göre ilamsız icra takiplerinde HUMK'nın yetkiye dayalı hükümleri kıyas yolu ile uygulanacaktır. Bu hüküm uyarınca eser sözleşmesinden kaynaklanan ilamsız icra takiplerinde yetki sözleşmesi yoksa HUMK'nın 9. maddesindeki genel yetki kuralına göre borçlunun yerleşim yeri icra dairesi yetkili olduğu gibi, 10. maddesi uyarınca akdin ifa edildiği yer icra dairesi de yetkilidir.
 
 …
@@ -30,6 +32,8 @@ Sonuç: Yukarıda yazılı nedenlerle temyiz itirazlarının kabulü ile kararı
 
 ## Yargıtay 15. HD 2007/5264 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16645700)
+
 Ancak; davacı ilk icra takibini Düzce İcra Müdürlüğü'nün 2005/730 sayılı dosyası ile yapmış, borçlunun yetki itirazında bulunması üzerine dosya Akçakoca İcra Memurluğu'nun 2005/697 sayısına kaydedilmiştir. Yetki itirazından sonra dosya kendisine gönderilen İcra Memurluğu borçluya yeniden bir ödeme emri tebliğ ettirmelidir. Hal böyle iken ödeme emri çıkartılmamış ve borçlunun Akçakoca İcra Memurluğu'na gelen dosyaya itiraz edip etmeyeceği belirlenmeden bu dava açılmıştır. İİK'nın 67.maddesi uyarınca itirazın iptâli davası açılabilmesi için geçerli bir takip ve ödeme emrine itiraz edilmiş olması gerekir. Bu husus bir yıl içinde davanın açılıp açılmadığının denetlenebilmesi için de gereklidir.
 
 …
@@ -37,6 +41,8 @@ Ancak; davacı ilk icra takibini Düzce İcra Müdürlüğü'nün 2005/730 sayı
 SONUÇ:Yukarıda 2.nolu bentte açıklanan sebeplerle kararın temyiz eden davalı yararına BOZULMASINA …
 
 ## Yargıtay 19. HD 2007/3952 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/889266200)
 
 Davacı vekili, müvekkilinin davalıya kumaş sattığını davalının kur farkı faturasını ödememesi üzerine alacağın tahsili için yapılan icra takibinin haksız itiraz nedeniyle durduğunu ileri sürerek itirazın iptaline, %40 tazminata karar verilmesini talep ve dava etmiştir.
 
@@ -50,6 +56,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle davalı vekilinin temyiz iitrazlarının
 
 ## Yargıtay 17. HD 2007/1758 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871630500)
+
 Davacı vekili müvekkili şirkete kasko sigortalı araçta meydana gelen 2.347.00YTL hasar bedelinin sigortalıya ödendiğini, davalılar aleyhine başlatılan icra takibine haksız şekilde itiraz edilerek takibin durdurulduğunu belirterek davalıların itirazlarının iptali ile takibin devamına ve icra inkar tazminatına karar verilmesini talep etmiştir.
 
 Davalı ...n olayın ...-Konya yolunda meydana geldiğini, yetkili mahkemenin ... Sulh Hukuk Mahkemesi olduğunu, yetkisizlik kararı verilmesini, kusuru ve inkar tazminatını kabul etmediğini, ceza kararnamesine itirazı sonucu beraatine karar verildiğini, davacı tarafın inkar tazminatına mahkum edilmesini davanın reddini istemiştir.
@@ -59,6 +67,8 @@ Davalı ...n olayın ...-Konya yolunda meydana geldiğini, yetkili mahkemenin ..
 Yetkisiz icra dairesinde takip yapılması o yer mahkemelerini itirazın iptali davası için yetkili kılmaz. Davalılar süresinde yetki itirazında bulunarak haksız fiilin gerçekleştiği yer mahkemesini yetkili olarak göstermişlerdir. Bu durumda mahkemece yetki itirazı dikkate alınarak mahkemenin yetkisizliğine, dosyanın yetkili ... Sulh Hukuk Mahkemesine gönderilmesine karar verilmesi gerekirken aksi düşünce ile yetki itirazının reddi ile işin esasına girilerek hüküm kurulması doğru değildir.
 
 ## Yargıtay 13. HD 2006/16353 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843237700)
 
 Davacı, ... komisyonculuğu yaptığını, davalı ile ... ili ... ilçesindeki dairenin satışı için 3.10.2005 tarihinde yazılı komisyon sözleşmesi düzenlediklerini, sözleşmedeki bedel ve şartlarla alıcıya ferağ işlemini yapması için davalıyı haberdar ettiğini, ancak davalının ... taraflı sözleşmeden cayarak taşınmazını sattığını, sözleşme şartları gereği %6 komisyon ücreti ve cezai tazminat almaya hak kazandığını,bu nedenle alacağın tahsili amacı ile ... 3. İcra Müdürlüğünün 2005/5907 esas sayılı dosyası ile icra takibi yapıldığını, davalının borca ve yetkiye itirazı üzerine duran icra takibinin devamı için itirazın iptaline, icra takibinin devamına ve %40 icra inkar tazminatının tahsiline karar verilmesini istemiştir.
 
@@ -74,6 +84,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün davacı yararına
 
 ## Yargıtay 19. HD 2006/8973 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891326600)
+
 Mahkemece, davalı borçlunun icra dairesine yaptığı yetkiye ve borca itiraz üzerine takibin icra dairesinin yetkisi yönünden de durduğu yetki itirazı icra mahkemesinde kaldırılmadan itirazın iptali davası açılamayacağı ve geçerli bir icra takibi bulunmadığı gerekçesiyle davanın reddine karar verilmiş, hüküm davacı vekilince temyiz edilmiştir.
 
 …
@@ -83,6 +95,8 @@ Bu durumda mahkemece, İİK.nun 50.maddesi uyarınca öncelikle icra dairesinin 
 SONUÇ:Yukarıda açıklanan nedenlerle hükmün temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 19. HD 2006/8474 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16536200)
 
 Davacı yan, davalı şirketin 15.07.2004 tarihli protokolden doğan edimini yerine getirmediğini iddia ederek, alacağın tahsili için yapılan icra takibine vaki itirazın iptalini talep ve dava etmiştir.
 
@@ -98,6 +112,8 @@ Sonuç: Yukarıda açıklanan nedenle hükmün davalı yararına (BOZULMASINA)
 
 ## Yargıtay 19. HD 2006/6084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/889590300)
+
 Davalı vekili, davacıya borçlu olmadıklarını bildirerek davanın reddini istemiştir.
 
 Mahkemece, icra takibinin mahkemenin yargı çevresi içinde yapılmadığı ve davanın görülemeyeceği gerekçesiyle, davanın usul yönünden reddine karar verilmiş, hüküm davacı vekilince temyiz edilmiştir.
@@ -109,6 +125,8 @@ HUMK’nun l87.maddesi hükmüne göre ilk itiraz niteliğindeki yetki itirazın
 SONUÇ:Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2006/3185 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860885400)
 
 Dava, eser sözleşmesine dayalı alacağın tahsili için yapılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
@@ -123,6 +141,8 @@ Somut olayda, icra takibi Ödemiş’te yapılmış, borçlu yetki itirazında b
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulüyle kararın BOZULMASINA …
 
 ## Yargıtay 15. HD 2004/3082 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16366700)
 
 Borçlu hakkındaki takip İzmir İcra Dairelerinde yapılmıştır. Takibe itiraz eden borçlu, icra dairesinin yetkisine de itiraz etmiş, Söke icra Dairelerinin yetkili olduğunu bildirmiştir, itirazın iptali nitelendirmesiyle dava, İzmir Mahkemelerinde açılmış, bu defa da hem icra dairesinin ve hem de mahkemenin yetkisine itiraz edilmiş, yetki itirazının kabulü üzerine dosya yetkili Söke Mahkemelerine gönderilmiştir. Tarafların Söke Mahkemelerinin yetkisine bir itirazı olmadığından Söke Mahkemelerinin yetkisi kesinleşmiştir. Ortada uygulanması zorunlu kamu düzenine ilişkin bir yetki kuralı da yoktur.
 

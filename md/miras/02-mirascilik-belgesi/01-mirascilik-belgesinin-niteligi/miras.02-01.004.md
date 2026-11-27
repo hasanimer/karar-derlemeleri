@@ -22,19 +22,27 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2020/3010 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647631600)
+
 HMK'nın 26. maddesi ve doğru sicil oluşturma ilkesi uyarınca çekişmeli tüm taşınmazlar yönünden davacıların miras payı oranında tapu kaydının iptali ile iptal edilen payın davacılar adına tesciline kalan payların davalı üzerinde bırakılmasına karar verilmesi gerekirken iştirak halinde mülkiyet şeklinde tescil ile ... parsel yönünden dava dışı paydaş ... yönünden yeniden tescil hüküm kurulması isabetsizdir.
 
 Ne var ki; anılan bu husus yeniden yargılamayı gerekli kılmadığından hükmün; 1. bendin hükümden çıkarılarak yerine 1. bent olarak “-... İli ... İlçesi ... Kasabası; a)... mevkiinde kain - ada ... parsel b).... mevkiinde kain - ada ... parsel c)... mevkiinde kain - ada ... parsel Sayılı taşınmazların tapu kayıtlarının ... Sulh Hukuk Mahkemesinin 2002/30 Esas ve 2002/37 Karar sayılı veraset ilamı gereğince davacıların miras payı oranında ayrı ayrı iptali ile bu paylar oranında davacılar adına tesciline, kalan payın davalı ... üzerinde bırakılmasına” 2. bendin hükümden çıkarılarak yerine 2. bent olarak “... İli ... İlçesi ... Kasabası ... mevkiinde kain - ada ... parsel sayılı taşınmazdaki 2/4 payın tapu kaydının ... Sulh Hukuk Mahkemesinin 2002/30 Esas ve 2002/37 Karar sayılı veraset ilamı gereğince davacıların miras payı oranında ayrı ayrı iptali ile bu paylar oranında davacılar adına tesciline, kalan payın davalı ... üzerinde bırakılmasına” cümlelerinin yazılmasına, davalının bu yöne ilişkin temyiz itirazlarının kabulü ile 6100 sayılı HMK'nin geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 438/7.
 
 ## Yargıtay 8. HD 2020/3002 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647003800)
+
 Dava TMK’nin 713/2. maddesindeki ölüm nedenine dayalı mülkiyetin aktarılmasına ilişkin tapu iptali ve tescil davasıdır. Bu dava kural olarak ölü kayıt malikinin mirasçılarına yöneltilerek açılır. Somut olayda dosyada muris ...’ya ait ilki Bakırköy 2. Sulh Hukuk Mahkemesinin 15.05.2015 tarihli ve 2015/423 Esas, 2015/393 Karar sayılı diğeri ise ... 19. Sulh Hukuk Mahkemesinin 07.03.2017 tarihli ve 2016/856 Esas, 2017/163 Karar sayılı veraset ilamları bulunmaktadır. Her ne kadar veraset ilamlarının her ikisinde de muris ...’nın ölüm tarihi 17.10.1972 olsa da sonraki tarihli veraset ilamında önceki veraset ilamında yer almayan bazı kişilerin de mirasçı olarak bulundukları ve bu kişilerin davada davalı olarak yer almadıkları anlaşılmaktadır. Dosyada iki ayrı veraset ilamı bulunduğuna göre verasetin iptali ile tapu maliki murisin tüm mirasçılarının kesin olarak belirlenmesi ve pasif dava ehliyetinin doğru ve tam olarak belirlenmesinden sonra davaya devamla iddia, savunma ve toplanan tüm deliller nazara alınarak sonucuna göre karar verilmesi gerekirken açıklanan hususlar gözetilmeksizin yazılı şekilde kabul kararı verilmesi doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2020/2809 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579028800)
+
 Kabule göre yapılan değerlendirmede ise; mirasçılık belgesi verilmesine ilişkin kararlar kesin hüküm oluşturmadıklarından açılacak bir iptal davası ile değiştirilebileceği gibi ortadan da kaldırılabilir. Mahkemece verilen kararın gerekçesinde mirasçılık belgesinde daha fazla pay veya hak sahibi olduklarını iddia edenlerin temyiz veya itiraz şeklindeki yasa yollarına başvurulabileceği şeklindeki görüş mirasçılık belgesinin şartların varlığı halinde iptal davasına konu edilebileceğinden isabetli bulunmamıştır. Ayrıca daha önce mirasçılık belgesi verildiğinden dolayı HMK 114/1-h maddesi gereğince davanın reddine karar verilmesi gerekirken esas hakkında hüküm kurulmadığına yer olmadığına şeklinde karar verilmesi de doğru değildir.
 
 ## Yargıtay 1. HD 2020/2525 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646974500)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmazsa tenkis isteğine ilişkindir.
 
@@ -44,12 +52,16 @@ Ne var ki, bu husus yeniden yargılama yapılmasını gerektirmediğinden; hükm
 
 ## Yargıtay 3. HD 2020/2108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579071200)
+
 Mirasbırakan Adliye, davaya konu vasiyetnamesi ile mirasının tamamı için (davacıların mirasbırakanı olan) oğlu ...’i mirasçı olarak nasbetmiştir. Diğer bir anlatımla, vasiyetname; muayyen mal vasiyeti niteliğinde olmayıp, mirasçı nasbına ilişkindir (TKM. md. 463). TKM'nın 541 inci maddesi uyarınca muayyen mal vasiyetinde lehine vasiyet edilen kimse kişisel bir istem hakkı kazanır ve bu hak dava yoluyla talep edilebilir. Uygulamada bu dava vasiyetin tenfizi davası olarak anılmaktadır. TKM’nın 541 inci maddesi, muayyen mal vasiyetini kapsayıp mirasçı nasbını kapsamaz. TKM'nın 540 ıncı maddesinin ikinci fıkrası uyarınca; mansup mirasçılar mirası, mirasbırakanın ölümü ile kazanırlar. Eş söyleyişle, mansup mirasçı, mirasbırakanın ölümü ile tereke üzerinde doğrudan ve kendiliğinden bir ayni hak kazanır. Bu durumda, mirasbırakandan intikal eden ayni hakların, mirasçı nasbedilen adına tescili için vasiyetin tenfizi davasına ve mahkeme hükmüne ihtiyaç yoktur. Mirasçı nasbedilene veya bu kişinin mirasçılarına, başvurusu üzerine sulh hukuk mahkemesi tarafından TKM’nın 538 (TMK'nın 598) inci maddesi uyarınca mirasçı nasbedilmiş olduğunu gösteren mirasçılık belgesi verilmesi yeterlidir.
 Bu nitelikteki belge ile ayni hakların bu kişi adına tapuda (resmi senet düzenlenmeksizin tescili) mümkündür (Tapu Sicili Tüzüğü md.20/1-a).
 
 Yukarıda açıklandığı üzere, davacılar; TKM’nın 538 (TMK'nın 598) inci maddesi uyarınca sulh hukuk mahkemesinden mirasbırakanları ...’in mirasçı nasbedilmiş olduğunu gösteren mirasçılık belgesi alarak aynı sonuca ulaşabileceğinden, vasiyetin tenfizi talebi ile işbu davayı açmalarında hukuken korunmaya değer menfaatleri, diğer bir ifade ile hukuki yararları bulunmamaktadır.
 
 ## Yargıtay 14. HD 2020/2078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648458200)
 
 Dava; mirasçılık belgesi verilmesi isteğine ilişkindir.
 
@@ -61,6 +73,8 @@ Ancak, Anayasamızın 35. maddesi hükmünde de temel haklar arasında sayılan 
 
 ## Yargıtay 1. HD 2020/1902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645274400)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -69,10 +83,14 @@ Ne var ki; bu hususun düzeltilmesi yeniden yargılama yapılmasını gerektirme
 
 ## Yargıtay 1. HD 2020/1726 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645293200)
+
 Ne var ki, davacıların çekişme konusu taşınmazlardaki miras payları oranında tapu iptal ve tescile karar verilip, kalan payın davalılar üzerinde bırakılması ile yetinilmesi gerekirken davalılar yönünden de tescil hükmü kurulması doğru değil ise de; anılan bu husus yeniden yargılama yapılmasını gerektirmediğinden hükmün 1, 2 ve 3. bentlerinin hüküm yerinden çıkarılarak yerine 1. bent olarak “Diyarbakır ili Çınar İlçesi Hasköy köyünde kain 38 - 47 - 48 - 100 - 104 - 105 - 107 - 111 - 112 - 113 - 115 - 117 parsel sayılı taşınmazlardaki davalı ... adına olan tapu kayıtlarının Diyarbakır 3. Noterliğinin 21.10.2011 tarih ve 23401 yevmiye numaralı mirasçılık belgesinde davacıların miras payları oranında ayrı ayrı iptali ile bu paylar oranında davacılar adına tapuya tesciline, kalan kısımların davalı ... üzerinde bırakılmasına” ; 2. bent olarak “Diyarbakır ili Çınar İlçesi Hasköy köyünde kain 42 - 43 - 44 - 45 - 46 - 49 - 50 - 51 - 52 - 53 - 54 - 57 - 68 - 86 - 97 - 98 - 99 parsel sayılı taşınmazlardaki davalı ... adına olan tapu kayıtlarının Diyarbakır 3.
 Noterliğinin 21.10.2011 tarih ve 23401 yevmiye numaralı mirasçılık belgesinde davacıların miras payları oranında ayrı ayrı iptali ile bu paylar oranında davacılar adına tapuya tesciline, kalan kısımların davalı ... üzerinde bırakılmasına’’; 3. bent olarak “Diyarbakır ili Çınar İlçesi Hasköy köyünde kain 81 parsel sayılı taşınmazdaki davalı ... adına olan tapu kayıtlarının Diyarbakır 3. Noterliğinin 21.10.2011 tarih ve 23401 yevmiye numaralı mirasçılık belgesinde davacıların miras payları oranında ayrı ayrı iptali ile bu paylar oranında davacılar adına tapuya tesciline, kalan kısımların davalı ... üzerinde bırakılmasına’’ cümlelerinin yazılmasına, davalıların bu yöne ilişkin temyiz itirazlarının kabulü ile 6100 sayılı HMK'nin geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 438/7.
 
 ## Yargıtay 3. HD 2020/1629 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620484900)
 
 Dava; sebepsiz zenginleşme hükümlerine dayalı alacak istemine ilişkindir.
 
@@ -82,6 +100,8 @@ Hal böyle olunca, mahkemece; hasımsız bir davada verilen kararın o davada ye
 
 ## Yargıtay 1. HD 2020/1488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585679800)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -89,6 +109,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine
 Ne var ki, çekişme konusu taşınmazdaki davalılar adına olan tapu kaydının davacının veraset ilamındaki miras payı oranında iptali ile davacı adına tesciline, kalan payın davalılar üzerinde bırakılmasına karar verilmesi gerekirken davalılar yönünden de tapu iptal ve tescil hükmü kurulması doğru değil ise de; anılan bu husus yeniden yargılama yapılmasını gerektirmediğinden hükmün A-3 bendi tamamen hükümden çıkarılarak, yerine A-3 bendi olarak; "Dava konusu İstanbul İli, Bağcılar İlçesi, Mahmutbey Mahallesi, 1996 ada 7 parsel sayılı taşınmazda davalı ... adına kayıtlı olan 38/83 pay ile davalı ... adına kayıtlı 45/83 paydan davacının Bakırköy 7. Sulh Hukuk Mahkemesi'nin 19/11/2014 tarih, 2014/670 Esas, 2014/1024 Karar sayılı mirasçılık belgesindeki miras payı oranında ayrı ayrı İPTALİ ile, davacı ... adına KAYIT ve TESCİLİNE, kalan payların davalılar üzerinde bırakılmasına" cümlesinin yazılmasına, davalıların bu yöne ilişkin temyiz itirazlarının kabulü ile hükmün düzeltilen bu şekli ile 6100 sayılı HMK’nın 370/2.
 
 ## Yargıtay 20. HD 2020/52 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/568222500)
 
 Dava kadastro tespitine itiraza ilişkindir.
 
@@ -98,9 +120,13 @@ Bu açıklamalar ışığında somut olay değerlendirildiğinde; tespit tarihin
 
 ## Yargıtay 5. HD 2019/10985 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510041800)
+
 Dava konusu taşınmazın tapu kaydına göre, malik olan ...’a ait ... ....Noterliğinin 039471 yevmiye nolu mirasçılık belgesi ile ... ....Sulh Hukuk Mahkemesi’nin 2015/1495 esas sayılı veraset ilamında tespit edilen mirasçılar ve miras payları çelişkili olduğundan, hatalı olan veraset ilamının iptali sağlanarak, tespit edilecek dava dışı mirasçıların Kamulaştırma Kanunu’nun .../.... maddesi uyarınca davaya dahil edilerek sonucuna göre karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde hüküm kurulması, …
 
 ## Yargıtay 14. HD 2019/8650 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/611796200)
 
 Dava, ortaklğın giderilmesi istemine ilişkindir.
 
@@ -110,10 +136,14 @@ Bu durumda mahkemece, tapu kayıt maliki/paydaş ...'a ait mirasçılık belgele
 
 ## Yargıtay 16. HD 2019/8252 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569793700)
+
 Hal böyle olunca; doğru sonuca ulaşılabilmesi için mahkemece öncelikle, davacı tarafa... ...'in mirasçılarını davaya dahil etmesi için süre ve imkan tanınması, mirasçılarının davaya dahil edilmelerinden sonra, bu kez... ... mirasçılarına, diğer mirasçılar arasında görülen hasımlı mirasçılık belgesinin iptali ile kendilerininde mirasçı olduklarını gösteren yeni bir mirasçılık belgesi verilmesi istemiyle dava açmaları için usulüne uygun şekilde süre verilmesi, bu şekilde... ...'in mirasçılarının aynı zamanda ...'ın da mirasçısı olduğunun kanıtlanmasından sonra eldeki dosyada iddia ve savunmalar ile toplanmış ve toplanacak delillerin birlikte değerlendirilmek suretiyle işin esası hakkında bir karar verilmesi gerektiği belirtilerek hükmün bozulmasına karar verilmesi gerekirken, bu hususların bir kısmının gözden kaçırılarak 22.04.2019 tarihli bozma gerekçelerinin eksik yazıldığı anlaşılmakla, davacılar vekilinin karar düzeltme isteminin bu nedenlerle kabulü ile Dairemizin 22.04.2019 tarih 2016/7290- 2019/2985 Esas ve Karar sayılı bozma ilamının ortadan kaldırılmasına ve hükmün az yukarıda belirtilen genişletilmiş gerekçelerle BOZULMASINA, peşin yatırılan karar düzeltme harcının istek
 halinde ilgilisine iadesine, 10.12.2019 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 14. HD 2019/7220 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564980800)
 
 Dava, mirasçılık belgesinin iptali ve yeni mirasçılık belgesi verilmesi isteğine ilişkindir.
 
@@ -123,6 +153,8 @@ Kabule göre de, davacılardan ..., 04.11.2011'de ölmüş geriye mirasçıları
 
 ## Yargıtay 1. HD 2019/5773 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/552512900)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescili isteğine ilişkindir.
 
 …
@@ -131,6 +163,8 @@ Hal böyle olunca, öncelikle nüfus kayıtları ile çelişen dosyada mevcut ve
 
 ## Yargıtay 1. HD 2019/5630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/548778900)
+
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı tapu iptali ve tescil, olmazsa tenkis isteğine ilişkindir.
 
 …
@@ -138,6 +172,8 @@ Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı tapu iptali
 Ne var ki, değinilen husus yeniden yargılama yapılmasını gerekli kılmadığından, hükmün 1. bendinde yer alan “Davanın kabulü ile dava konusu taşınmazlara ait tapu kayıtlarının iptali ile, tarafların veraset belgesindeki payları oranında adlarına tescile,” ibaresinin hüküm fıkrasından çıkartılarak yerine 1. bent olarak; “Davanın KABULÜ ile, ... İli, ... İlçesi, ... Mahallesi ... ada ... ve ... parsel sayılı taşınmazlarda davalı adına olan tapu kayıtlarının ... Sulh Hukuk Mahkemesinin 2011/483 E. 2011/432 K. sayılı veraset ilamındaki davacının miras payı oranında tapu kayıtlarının iptali ile miras payı oranında davacı adına tapuya KAYIT VE TESCİLİNE, kalan payların davalı üzerinde bırakılmasına,” cümlesinin yazılmasına, davalının bu yöne ilişkin temyiz itirazlarının kabulü ile 6100 sayılı HMK'nın geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 438/7.
 
 ## Yargıtay 14. HD 2019/5092 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513894600)
 
 Dava, mirasçılık belgesi istemine ilişkindir.
 
@@ -148,6 +184,8 @@ Mirasçılık belgesi, bir şahsın mirasçı olduğunu gösteren ve kanıtlayan
 Somut olayda, mirasbırakanın ölüm şerhi bulunmadığından davanın reddine karar verilmiş ise de güncel nüfus kaydında mirasbırakanın 30.12.1946 tarihinde vefat ettiği anlaşıldığından güncel nüfus kaydı esas alınarak bir karar verilmesi gerekmektedir. Hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2019/4505 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/536895400)
 
 Dava, ketmi verese (mirasçılığın gizlenmesi) hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
@@ -161,6 +199,8 @@ Kabule göre de, tapu kaydının iptali ile miras payı oranında davacı adına
 
 ## Yargıtay 14. HD 2019/4345 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519237800)
+
 Dava, Hazineye husumet yöneltilmek suretiyle mirasçılık belgesi verilmesi istemine ilişkindir.
 
 …
@@ -168,6 +208,8 @@ Dava, Hazineye husumet yöneltilmek suretiyle mirasçılık belgesi verilmesi is
 Hemen belirtilmelidir ki; TMK. 598/1 maddesi "Başvurusu üzerine yasal mirasçı oldukları belirlenenlere sulh hukuk mahkemesince veya noterlikçe mirasçılık sıfatlarını gösteren bir belge verilir." şeklinde mirasçılık belgesinin sulh hukuk mahkemesince veya noterlikçe verileceğini hüküm altına almıştır. Öte yandan 6100 sayılı HMK' nın 4. maddesinin (ç) bendi "Bu kanun ile diğer kanunların, sulh hukuk mahkemesi veya sulh hukuk hakimini görevlendirdiği davaları" sulh hukuk mahkemeleri kapsamında saymıştır. HMK' nın 114/1-c maddesine göre mahkemenin görevli olması dava şartıdır. HMK' nın 115. maddeye göre de mahkeme, dava şartlarının mevcut olup olmadığını davanın her aşamasında kendiliğinden gözetmesi gerekir.
 
 ## Yargıtay 14. HD 2019/3977 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519581500)
 
 Dava, mirasçılık belgesinin iptaliyle yeni veraset belgesi verilmesi isteğine ilişkindir.
 
@@ -179,6 +221,8 @@ Sulh hukuk mahkemelerinin görevi ise HMK'nin 4. maddesinde düzenlenmiş; HMK'n
 
 ## Yargıtay 14. HD 2019/3585 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500056100)
+
 Dava, mirasçılık belgesi isteğine ilişkindir.
 
 …
@@ -187,9 +231,13 @@ TMK'nin 598. maddesi gereğince başvurusu üzerine yasal mirasçı oldukları b
 
 ## Yargıtay 13. HD 2019/2407 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503680900)
+
 Yargılama sırasında daha önce dosyaya sunulan muris ...’a ait veraset ilamının iptal edildiği, dosyaya yeni bir veraset ilamı sunulduğu, bu veraset ilamı kapsamında da muris ...’ın davacı tarafından davalı olarak gösterilmeyen bir mirasçısı daha olduğu tespit edilmiştir. Medeni Kanunun 641.maddesi hükmüne göre mirasçılar tereke borçlarından müteselsilen sorumludurlar. O halde, yeni veraset ilamına göre muris ...’ın mirasçısı olduğu tespit edilen ...’ın usulüne uygun olarak davaya dahil edilmesi sağlanıp, dava ve duruşmalara davalı sıfatıyla kabul edilerek, savunma hakkı tanınıp, delilleri toplanarak sonucuna göre karar verilmesi gerekirken, yazılı şekilde taraf teşkili sağlanmaksızın hüküm tesisi usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 1. HD 2019/2152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520984200)
 
 Dava, ketmi verese (mirasçılığın gizlenmesi) hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
@@ -199,11 +247,15 @@ Hâl böyle olunca; 4 nolu parsel sayılı taşınmazın tapu kaydının iptali 
 
 ## Yargıtay 3. HD 2019/1639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524861700)
+
 Keza; muris, davaya konu vasiyetnamesi ile mirasının tamamı için davacıyı mirasçı olarak atamış, diğer bir anlatımla, vasiyetname; belirli mal vasiyeti niteliğinde olmayıp, mirasçı atamaya ilişkindir (TMK. md. 516). Mirasçı atanan kişi, murisin ölümü ile tereke üzerinde doğrudan ve kendiliğinden bir ayni hak kazanır. Bu durumda, murisden intikal eden ayni hakların, atanmış mirasçı adına tescili için vasiyetin yerine getirilmesi davasına ve mahkeme hükmüne ihtiyaç yoktur. Atanmış mirasçıya, başvurusu üzerine sulh hukuk mahkemesi tarafından TMK'nun 598 inci maddesinin ikinci fıkrası uyarınca atanmış mirasçı olduğunu gösteren mirasçılık belgesi verilmesi yeterlidir. Bu nitelikteki belge ile ayni hakların bu kişi adına tapuda (resmi senet düzenlenmeksizin tescili) mümkündür (Tapu Sicili Tüzüğü md.20/1-a).
 
 O halde mahkemece; davalı adına kayıtlı olan yukarıda sayılan taşınmazların yalnızca tapusunun iptali ile önceden olduğu gibi muris ... adına tesciline karar verilmesi gerekirken, yanılgılı değerlendirme ile davacı adına tesciline de karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 14. HD 2019/1485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492303700)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -215,6 +267,8 @@ Yukarıda yapılan açıklama doğrultusunda; davacıya, ... 1. Sulh Hukuk Mahke
 
 ## Yargıtay 1. HD 2019/1065 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/494827100)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -224,6 +278,8 @@ Noterliğinin 08.10.2012 tarih ve 1685 yevmiye nolu mirasçılık belgesi uyarı
 
 ## Yargıtay 1. HD 2019/687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/494821300)
+
 Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye, delillerin takdirinde bir isabetsizlik bulunmamasına ve özellikle, mirasbırakan ...’ın davalıya yaptığı temliklerin mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğu gözetilerek dava konusu 6525 ada 8 parsel ve 439 ada 8 parselde bulunan 1 nolu bağımsız bölüm yönünden davacıların miras payı oranında davanın kabulüne karar verilmesinde bir isabetsizlik bulunmamaktadır.
 
 Ne var ki, çekişme konusu taşınmazlardaki davalı adına kayıtlı payların davacıların veraset ilamındaki miras payları oranında iptali ile davacılar adına tesciline, kalan payın davalı üzerinde bırakılmasına karar verilmesi gerekirken infazda tereddüt yaratacak şekilde davacıların miras paylarına hükümde yer verilmeden hüküm kurulması doğru değil ise de; anılan bu husus yeniden yargılama yapılmasını gerektirmediğinden hükmün 4. bendinin tamamen hükümden çıkarılarak, yerine 4. bent olarak; "Dava konusu ...
@@ -231,13 +287,19 @@ Kağıthane İlçesi, 6525 ada 8 parsel sayılı taşınmazdaki ... ait 45/254 p
 
 ## Yargıtay 14. HD 2019/573 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479494800)
+
 Hal böyle olunca; mahkemece, davayı kabul eden ... ile diğer davalılar ..., ..., ... ve ... yönünden muris... adına 1/2 hisse ile kayıtlı 136 ada 23 parsel sayılı taşınmazın mirasçılık belgesi oranları dahilinde tapu kaydının iptali ile davacı adına tesciline, diğer davalılar ... ve ... yönünden de mirasçılık belgesindeki payları oranındaki kısımların üzerlerinde bırakılmasına karar verilmesi gerekirken, yukarıda belirtilen ilkelere aykırı olarak yazılı şekilde hüküm verilmesi doğru görülmemiş, bu nedenle kararın bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2019/532 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479468300)
+
 Mirasçılık belgesi verilmesi hususu Türk Medeni Kanununun 598. maddesinde düzenlenmiştir. Mirasçılık belgesi, aksi ispat edilinceye kadar, adına düzenlenmiş bulunan kişi ve kişilerin mirasçılığı lehine bir karine oluşturur. Muris ile mirasçıları arasındaki irs (soy) ilişkisini göstermesi yanında, mirasın (terekenin) mirasçılara intikalini de sağlayıcı bir işleve sahiptir. Bu nedenle mirası reddeden (TMK m. 605/1) mirasçı veya mirasçılar varsa, düzenlenecek mirasçılık belgesinde, mirasçılık sıfatına sahip olan kişi veya kişiler ile miras paylarının gösterilmesi ve mirası ret durumuna işaret edilmekle yetinilmemesi; mirası ret nedeniyle, mirasçılık sıfatını kaybedenlerin ve bunların payının akıbetinin de (kime kalacağının) gösterilmesi gerekir.
 
 ## Yargıtay 1. HD 2018/15583 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467156200)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -248,6 +310,8 @@ Toplanan deliller ve tüm dosya içeriği ile mirasbırakanın 2 parsel sayılı
 
 ## Yargıtay 1. HD 2018/15553 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467142800)
+
 Dava, tapu iptal tescil isteğine ilişkindir.
 
 …
@@ -256,6 +320,8 @@ Davanın kabulüne ilişkin olarak verilen karar Dairece; “... davalının kö
 
 ## Yargıtay 1. HD 2018/13524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467586900)
+
 Dava muris muvazaası hukuksal nedenine dayalı tapu iptal tescil istemine ilişkindir.
 
 …
@@ -263,6 +329,8 @@ Dava muris muvazaası hukuksal nedenine dayalı tapu iptal tescil istemine iliş
 Hal böyle olunca öncelikle, taşınmazın gerçek değerinin belirlenmesi Harçlar Kanununun 30-32. maddeleri uyarınca işlem yapılması, bundan sonra davacı tarafa hasımlı veraset ilamı alması için süre verilmesi, hasımlı veraset ilamı ibraz edildiği takdirde davalıların kabul beyanı gözetilerek ve hasımlı mirasçılık belgesi esas alınarak iptal tescil hükmü kurulması, Harçlar Kanununun 22.maddesi gözetilerek taşınmazın belirlenecek gerçek değeri üzerinden harca hükmedilmesi ve davalı taraf dilekçede gösterilen değer üzerinden davayı kabul ettiğinden Avukatlık Asgari Ücret Tarifesinin 6. maddesi gözetilerek, dilekçede gösterilen değer üzerinden davacı yararına vekalet ücretine hükmedilmesi gerekirken, değinilen hususlar göz ardı edilerek yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2018/12516 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/447805700)
 
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında iptal ve tescil, olmadığı takdirde tenkis isteğine ilişkindir.
 

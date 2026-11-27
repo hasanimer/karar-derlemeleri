@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2009/20782 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80820300)
+
 Resmi vasiyetname, iki tanığın katılmasıyla resmi memur tarafından düzenlenir. Resmi memur, Sulh hakimi, Noter veya kanunla kendisine bu yetki verilmiş diğer bir görevli olabilir. (TMK. md. 532) Mirasbırakan, arzularını resmi memura bildirir. Bunun üzerine memur , vasiyetnameyi yazar veya yazdırır ve okuması için mirasbırakana verir. Vasiyetname, mirasbırakan tarafından okunup imzalanır. Memur, vasiyetnameyi tarih koyarak imzalar. (TMK. md. 533) Vasiyetnameye tarih ve imza konulduktan hemen sonra mirasbırakan vasiyetnameyi okuduğunu bunun son arzularını içerdiğini memurun huzurunda iki tanığa beyan eder. Tanıklar, bu beyanın kendi önlerinde yapıldığını ve mirasbırakanı tasarrufa ehil gördüklerini vasiyetnameye yazarak veya yazdırarak altını imzalarlar. (TMK. md. 534) Yasada yeralan bu hükümlere göre resmi vasiyetnamede baştan itibaren tüm işlemlerin aynı memur tarafından yapılması zorunludur. Başka bir ifade ile vasiyetçinin son arzularına ilişkin sözlü beyanını dinleyen, bunu yazdıran ve tanık sözlerini dinleyen memurun aynı memur olması, işlemde birlik prensibinin gereğidir.
 
 Davaya konu vasiyetnamede mirasbırakanın son arzularını noter S.Y.e bildirdiğinin yazılı olduğu, aynı kişi tarafından yazdırılıp, okunması için mirasbırakana verildiğinin belirtildiği, mirasbırakan tarafından okunup imzalandığı, işleme noter S.Y. tarafından başlandığı halde, noter katibi tarafından bitirildiği anlaşılmaktadır. Başından sonuna kadar aynı memur tarafından yapılmadığı anlaşıldığından davanın kabulü gerekirken reddi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2009/16247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80509400)
 
 Elyazılı vasiyetnamenin geçerliliği için vasiyetnamenin yapıldığı yıl, ay ve günün gösterilerek başından sonuna kadar, mirasbırakanın elyazısı ile yazılmış ve imzalanmış olması zorunludur. (TMK: md.538/1) Mirasbırakan tarafından elyazısı ile yazıldığı anlaşılan ve davalı-davacılarının mirasçılıktan çıkartılmalarını ihtiva eden ve Darüşşafaka Cemiyeti lehine muayyen mal teberruuna ilişkin vasiyetnamede vasiyetçinin imzası bulunmamaktadır. Bu itibarla sözü edilen vasiyetname şekle ait noksanlık nedeniyle geçersiz olup iptaline karar verilmesi gerekirken (TMK. md. 557/4) yazılı olduğu şekilde red hükmü kurulması usul ve yasaya aykırıdır.
 
@@ -33,13 +37,19 @@ Davalı-davacılar 11.8.2006 tarihinde açtıkları birleşen davayla İbrahim K
 
 ## Yargıtay 2. HD 2009/11995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80822200)
+
 Sözlü vasiyetnamenin vakit geçirilmeksizin tanıklar tarafından birlikte hakime verilmesi zorunludur. Vasiyetçi 10.09.2006 tarihinde ölmüş vasiyetname ise 20.09.2006 tarihinde yani 10 gün sonra hakime teslim edilmiştir. O halde sözlü vasiyet bu yönüyle geçerli sayılmaz. (TMK. md. 539) Öte yandan tanığın işlerinden dolayı vasiyetnameyi geç götürmesi de haklı bir sebep değildir. O halde sözlü vasiyet şartları gerçekleşmemiştir.
 
 ## Yargıtay 2. HD 2008/7729 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80146200)
+
 Mirasbırakan Münevver'in Bakırköy 2. Noterliğinde düzenlediği 19.4.2002 tarihli resmi vasiyetnamesi ile 11.10.2002 tarihli el yazılı vasiyetnamesi Sulh Mahkemesince açılıp okunmadan (TMK.596.madde) ve tarafların gösterdikleri delilleri toplanıp birlikte değerlendirilmeden işin esası hakkında yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 14. HD 2008/5980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845895600)
 
 Davada dayanılan 24.11.2000 tarihli adi yazılı düzenlenen ölünceye kadar bakma sözleşmesi ile taşınmaz mülkiyetinin devri amaçlanmıştır. Bu tür sözleşmelerin kural olarak resmi şekilde düzenlenmesi zorunludur. Ne var ki; dosya kapsamından bakım borçlusu olan davacının bakıp gözetme edimini yerine getirdiği, davalıların mirasbırakanı H.Leman Gerçek Arıkan’ın sağlığında, bakma borcunun yerine getirilmediğini ileri sürmediği gibi sözleşmedeki şekil eksikliğini belirterek fesih talep etmediği görülmektedir. Kaldı ki, bakıp gözetme borcunun yerine getirildiğini davalılar 23.01.2003 tarihli sözleşmede kabul etmiştir. Bakım alacaklısının sağlığında ileri sürmediği sözleşmedeki şekil eksikliğini onun ölümünden sonra mirasçılarının ileri sürmesi Türk Medeni Kanunu’nun 2. maddesinde kabul edilen iyiniyet kurallarıyla bağdaşmayacağından davalı ve karşı davacıların bu hususa ilişkin savunmaları dinlenemez.
 
@@ -48,9 +58,13 @@ Kısaca ifade etmek gerekirse, adi yazılı 24.11.2000 günlü ölünceye kadar 
 
 ## Yargıtay 2. HD 2008/4600 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81201000)
+
 Mirasbırakan S..12.03.2004 tarihinde sözlü vasiyette bulunmuş, bu durum tanıklar tarafından yazılı belge ile tespit edilmiş ve Manisa 1. Sulh Hukuk Mahkemesinin 2004/25-25 değişik dosyasında bu durum tutanağa bağlanmıştır. Yapılan işlem, sözlü vasiyetname düzenlenmesine ilişkindir.(TMK. 532/2, 539 ve devamı)
 
 ## İstanbul BAM 16. HD 2025/290 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118911200)
 
 DELİLLER:Davacılar tarafından dosyaya sunulan İstanbul 2. Sulh Hukuk Mahkemesi'nin 2011/740 esas, 2011/795 karar 28/07/2011 tarihli veraset ilamının incelenmesinde; davacıların murisi ...'in 09/09/1988 tarihinde dul ve çocuksuz olarak vefat ettiği, geride mirasçı olarak yeğeni ..., yeğeni ..., yeğeni ..., kardeşinin torunu ...'ın kaldığı, davacıların ...'in yeğenleri ve ikinci dereceden mirasçısı oldukları, davacılardan başka dava dışı ...'in de mirasçı olduğu, davacı vekilinin bu mirasçıya ait vekaletnamesinin de dosyada bulunduğu anlaşılmıştır.İlk derece mahkemesince hukukçu Av..., mimar ..., mimar Restorasyon Uzmanı Dr....'dan oluşan bilirkişi heyetinden alınan 19/07/2016 tarihli raporda; 1981 tarihli projenin FSEK 6.madde kapsamında işlenme eser olduğunu, işlenme eser sahibinin ...'a ait olduğunu, davacıların mimari proje üzerinde mali haklarının söz konusu olamayacağını, bu nedenle mali haklara dayalı talepte bulunamayacaklarını bildirdikleri anlaşılmıştır. İlk derece mahkemesince hukukçu akademisyen Prof. ..., Yıldız Teknik Ün. Mimarlık Fakültesi öğretim üyesi Prof.
 Dr. ..., restorasyon uzmanı yüksek mimar ...'den oluşturulan ikinci bilirkişi heyetinden alınan 15/03/2017 tarihli raporda; 1981 tarihli projenin FSEK 10.madde kapsamında ortak eser niteliğinde olduğunu, projeye ...'un proje müellifi olarak imza atmasının...'in bilgisi dahilinde olduğunun kabul edilebileceğini, FSEK 52. madde kapsamımdaki değerlendirmenin mahkemeye ait olduğunu, manevi haklar açısından 2006 ve 2013 tarihli tadillerin yapının hususiyetini bozmadığını, eser sahibinin adının projeye dahil edilmesi açısından ölenin sağlığında projeye adını koymamış olmasının, FSEK'in 19.maddesi dikkate alındığında mirasçılarınca bu yönde bir talepte bulunamayacaklarını, mali hakların devir edilip edilmediğinin, mahkemenin takdirinde olduğunu bildirdikleri anlaşılmıştır.İkinci bilirkişi heyetinden alınan 19/09/2017 tarihli ek raporda; kök rapordaki tespitlerin geçerli olduğunu, itiraz konularının hukuki olması nedeniyle eser sahipliğini karinesinin çürüyüp çürümediğinin mahkemece değerlendirmesi gerektiğini bildirmişlerdir.İstanbul 2.
@@ -64,6 +78,8 @@ haklar üzerinde ölüme bağlı tasarruflar yapılmasının caiz olduğu düzen
 
 ## İstanbul BAM 44. HD 2024/467 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008531600)
+
 Bu davalarda, kural olarak, davacının iddiası çoğu kez tüm senet ilgililerine karşı öne sürülebilen mutlak def'ilere dayanmaktadır. Gerek doktrinde ve gerekse uygulamada “imzanın sahte olması”, “senet metninde sahtekarlık (tahrifat) yapılmış olması”, “borçlunun borçlanma ehliyetinin bulunmaması”, “senette zorunlu şekil koşullarının bulunmaması”, “imza sahibinin temsil yetkisinin bulunmaması”, “senedin zamanaşımına uğramış bulunması” vb. defiler senedin hükümsüzlüğüne yönelik olup, her hamile (iyiniyetli olsa dahi) karşı ileri sürülebilen mutlak def’i olarak kabul edilmektedir.
 6102 Sayılı Türk Ticaret Kanunu 'nun 776. maddesi gereğince bononun zorunlu unsurları arasında sayıldığı üzerinde imza bulunması gerektiği, 777. maddesinde ise 776. maddede sayılan unsurları içermeyen bir belgenin bono sayılmayacağı açıklanmış olup yine 6102 sayılı Kanun'un 701/2. maddesinde poliçenin aval veren kişi tarafından imzalanacağının düzenlendiği, bono üzerindeki imzalar hakkında ise , 756 . maddesinde imzaların mutlaka el ile atılması gerektiği, ayrıca el ile atılan imza yerine, mekanik herhangi bir araç veya elle yapılan veya onaylanmış bir işaret veya resmi bir şahadetname kullanılamayacağı düzenlenmiştir. Menfi tespit davasında kural olarak, hukuki ilişkinin varlığını ispat yükü davalı alacaklıdadır. Borçlu borcun varlığını inkar ediyorsa , bu durumlarda ispat yükü davalı durumunda olmasına karşın alacaklıya düşmektedir.
 Somut olayda, dava ve takip konusu 21/05/2018 tanzim, 25/06/2018 vade tarihli, 30.000 USD bedelli ve 25/07/2018 vade tarihli 30.000 USD bedelli, 25/08/2018 vade tarihli 30.000 USD bedelli 3 adet senette davacıların murisi ...'ün bonolarda aval veren sıfatıyla parmak izinin yer aldığı, TTK 701/2 uyarınca aval verenin el ile atılmış imzasının bulunmadığı, bu durum bonodaki şekil noksanına ilişkin olduğundan TTK 702/2. maddesi gereğince imza yerine parmak izi bulunan aval veren murisin taahhüdünün geçerli olmadığı , dolayısıyla murisin bonodan dolayı sorumluluğu bulunmadığı anlaşılmıştır.
@@ -72,6 +88,8 @@ Diğer yandan her ne kadar davalı aval veren muris ile 22.5.2018 tarihli borca 
 Tüm bu nedenlerle , alacağın geçerli bir kambiyo ilişkisine dayalı olduğu ispat yükü üzerinde olan davalı tarafından ispat edilemediğinden , mahkemece davacıların menfi tespit talebinin kabulüne, icra takiplerinin kötüniyetli olarak yapıldığı ispatlanamadığından tazminat talebinin reddine karar verilmesinde hukuka aykırı bir yön bulunmadığı anlaşılmıştır. Yargıtay 11. HD,2021/8005-2023/2096 "...imza yerine parmak izi bulunan aval veren murisin bonodan dolayı sorumluluğu bulunmadığı ....davanın, davacılar hakkında kambiyo senedine mahsus icra takibi başlatılmasından sonra açılmış menfi tespit davası olması nedeniyle, bononun adi senet olarak kabul edilmesi halinde dahi davacıların borçtan sorumlu oldukları yönündeki davalı iddiasının bu aşamasında değerlendirme konusu yapılamayacağı ...ONANMASINA, "Sonuç olarak , dosya kapsamında iddia ve savunmaya, saptanan dava niteliğine ve toplanıp değerlendirilen delillere, delillerin takdir, tahlil ve tartışımına ilişkin kararda gösterilen yasal ve yeterli gerekçeye göre kurulan hükümde bir isabetsizlik bulunmadığı, davalı vekilinin, istinaf başvuru sebeplerinin yerinde olmadığı sonucuna varılmıştır.
 
 ## İstanbul BAM 16. HD 2022/1095 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775000000)
 
 İnceleme, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 355. maddesi hükmü uyarınca istinaf dilekçelerinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır. Vasiyetnamenin İptali istemine dayalı olarak açılan Şişli 2. Asliye Hukuk Mahkemesi’nin 09.10.1989 tarihli, 1988/1170E. 1989/701 K. Sayılı dosyasında, "...vasiyetnamenin tanzim mahalli olmadığı gerekçesiyle vasiyetname iptaline ilişkin davanın kabulü’’ şeklinde karar verildiği, temyiz üzerine mahkeme kararının Yargıtay 2.Hukuk Dairesi’nin 10.05. 1990 tarihli 12841-4657 sayılı Karar ile, "Olayımıza gelince; miras bırakan antetli basılı (üzerinde ikametgah adresi bulunan) kağıdına el yazısı ile vasiyetini yazıp tarih koyarak el yazısı ile imzaladıktan sonra yine üzerinde açık adresin bulunan özel zarfın içinde kapalı olarak Üniversite rektörüne son arzularını belirten vasiyetname olduğunu açıklayarak teslim etmiştir. Vasiyetnamenin vasiyetçinin antetli kağıdında gösterdiği ikametgahında düzenlediği açıkça anlaşılmaktadır. Bu konuda taraflar arasında çekişme de bulunmamalıdır.
 Bütün bunlara rağmen olaya kastı yorumla yaklaşılarak faydasız ve şekilci bir anlayışla vasiyetin geçersiz olduğunun kabulünde isabet bulunmamaktadır." gerekçeyle bozulduğu, karar düzeltme talebinin de Yargıtay 2. Hukuk Dairesi’ nin 04.12.1990 tarihli 8838-12263 sayılı kararı ile reddedildiği, bozma kararı sonrasında ve tarafların –mirasçıların kendi aralarında akdettiği miras taksim sözleşmesi çerçevesinde- sulh olması üzerine Şişli 2.Asliye Hukuk Mahkemesi’nin 1990/951E. , 1991/113 K. Sayılı kararı ile ‘’… 11.1.1988 tarihli elyazısı ile yazılmış vasiyetnamenin … sulhen tasdikine ve tesciline’’şeklinde karar verildiği, anılan karar üzerinde yer alan şerhten de, vasiyetnamenin geçerli olacak şekilde tasdik ve tescil edildiği hususunun 25.04.1994 tarihinde kesinleştiği anlaşılmaktadır. Tüm bu hususlar gözetildiğinde;

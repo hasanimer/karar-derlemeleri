@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Bursa BAM 5. HD 2023/286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879564900)
+
 Davacı vekili, müvekkil ile davalı-borçlu arasında 10/08/2016 tarihli “Reklam Ajansı Sözleşmesi” imzalanmış olup müvekkil şirketin sözleşme gereği davalı-borçlu şirkete ait Özel Bilim ve İnovasyon Lisesi ilgili her türlü reklam hizmetini davalı-borçlu şirket yetkilisinin talepleri doğrultusunda gerçekleştirdiğini, verilen hizmet karşılığında 07/12/2016 tarihli, 115.050,00 TL bedelli faturanın tanzim edildiğini, davalı-borçlu şirket yetkilisi Zeynep Akyol tarafından müvekkili şirkete sözleşmenin imzalanmasından sonra 17/08/2016 ve 24/08/2016 tarihlerinde toplamda 11.000,00 TL ödeme yapılmış olmakla birlikte fatura bakiyesinin ödenmemesi sebebiyle davalı-borçlu şirket aleyhine Bursa 14.
 
 …
@@ -44,6 +46,8 @@ Mahkemece yapılan yargılama neticesinde, davacı defterleri üzerinde yapılan
 
 ## Sakarya BAM 7. HD 2023/68 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/866458100)
+
 Davacı vekili dava dilekçesinde özetle;müvekkilinin ticaret siciline kayıtlı "... - Dora Mekanik" isimli ticari işletmenin sahibi olduğunu, davacı ile davalı arasında ticari ilişkinin mevcut olduğunu, uzun süredir ürün ve hizmet alışverişinde bulunduklarını, davalının davacıyla aralarındaki ticari işlemlerden kaynaklı 312.098,11-TL borcu bulunduğunu, davalının bu durumu yazılı olarak beyan ve ikrar ettiğini, davalının borcunu ödememesi üzerine 13/08/2020 tarihinde Kocaeli İcra Müdürlüğü'nün 2020/85574 Esas sayılı dosyası kapsamında icra takibi başlatıldığını, davalının borçlu olduğu halde başlatılan icra takibine, borcun tamamına ve tüm ferilerine itiraz ederek icra takibinin haksız yere durmasına neden olduğunu, Kocaeli Arabuluculuk Bürosunun 2020/831 dosya numaralı 2020/79397 Arabuluculuk numaralı dosya kapsamında 18/09/2020 tarihli son tutanağında anlaşamadıklarını belirterek, borçlunun icra takibine yaptığı itirazın iptali ile takibin devamına, borçlunun takip konusu borcu takip dosyasında belirtilen faiziyle ödemeye ve takip konusu alacağın %20'sinden az olmamak üzere tazminata mahkum edilmesine, yargılama giderleri ve vekalet ücretinin davalı tarafa yükletilmesine karar
 verilmesini talep etmiştir.
 
@@ -61,6 +65,8 @@ Hukuk Dairesinin 2010/2530 Esas, 2010/3928 Karar sayılı ve 05/04/2010 tarihli 
 
 ## Erzurum BAM 3. HD 2022/2248 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844294500)
+
 Davacı vekili, 09.03.2011 tarihli cari kredi sözleşmesi ile davalı ...-Gıda... Ldt.Şti.'ne kredi hesabı açıldığını, diğer davalılar ... ve ...'ün da bahsi geçen kredi sözleşmesi borçlusu şirketin müteselsil kefilleri olduklarını, kredi sözleşmesi gereğince borç ödenmediğinden hesabın kat edildiğini ve davalılar hakkında 2014/... esas sayılı icra takip dosyası ile ipoteğin paraya çevrilmesi yolu ile ilamsız icra takibi başlatıldığını, davalıların itirazı nedeniyle takibin durduğunu, davalıların itirazlarının iptali ile takibin devamına karar verilmesini talep ettikleri, mahkemece davanın kısmen kabulüne karar verildiği, hükmün davalılar ... ve ... vekili tarafından istinaf edildiği anlaşılmıştır.
 
 Dosyadaki bilgi ve belgelerin incelenmesinde; aynı kredi sözleşmesi nedeniyle davacı bankanın 2014/... esas sayılı icra takip dosyası ile ilamsız icra takibi başlattığı, borçluların itirazı nedeniyle takibin durması üzerine banka vekilinin Erzurum Asliye Ticaret Mahkemesinin 2016/126 Esas, 2017/343 Karar sayılı kararı ile davanın kısmen kabulü ile itirazın kısmen iptaline karar verildiği, kararın 13.02.2018 tarihinde kesinleştiği görülmüştür.
@@ -70,6 +76,8 @@ Dosyadaki bilgi ve belgelerin incelenmesinde; aynı kredi sözleşmesi nedeniyle
 İlk derece mahkemesinin hükmü usul ve esas yönünden hukuka uygun bulunduğundan davalılar ... ve ... vekilinin istinaf kanun yolu başvurusunun 6100 sayılı HMK'nın 353/(1)-b-1. maddesi uyarınca ESASTAN REDDİNE …
 
 ## Ankara BAM 16. HD 2022/2003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829955800)
 
 Davacı, davalı aleyhine Eskişehir 2. İcra Dairesinin 2014/14025 Esas sayılı ilamsız icra takibi başlatıldığını, takibe itiraz edilmesi üzerine icra takibinin durduğunu, davalının icra takibini sürüncemede bırakmak amacıyla borcun tamamına itiraz ettiğini, ancak kanuna ve yazılı delillere dayanan alacakların mevcut olmadığının delillerle ispatlanması gerektiğini, 6303 sayılı Eskişehir 2013 Türk Dünyası Kültür Başkenti Hakkındaki Kanun’un 3/1-a bendi ile 2012/3432 sayılı Bakanlar Kurulu Kararının 10/1-a bendinde "...
 
@@ -84,6 +92,8 @@ Belediyesinin 2012 ve 2013 bütçelerine bu amaçla konulacak ödeneklerin oldu�
 Hukuk Dairesinin 2018/1792 Esas ve 2020/1493 Karar sayılı ilamı da göz önünde bulundurulduğunda Mahkemece davacı Valiliğin davalı Belediyeden bir alacağının bulunmadığının benimsenmek suretiyle yazılı şekilde davanın reddine karar verilmiş olmasında ve hükmün kuruluş biçiminde bir isabetsizlik bulunmamaktadır.
 
 ## İzmir BAM 20. HD 2022/1921 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842553300)
 
 Davacı vekili dava dilekçesinde özetle; davalı şirket ile müvekkili banka arasında genel kredi sözleşmesi imzalandığını, davalı ...' un bu sözleşmede müşterek borçlu ve müteselsil kefil sıfatıyla yer aldığını,... nolu kredinin ... kefaleti ile kullandırılan kredi olduğunu, kullandırılan kredi borcunun ödenmemesi üzerine hesabın kat edilerek davalılara ihtarnamenin tebliğ edildiğini, ihtarnameye rağmen ödeme yapılmaması üzerine icra takibine geçildiğini, davalıların itirazı nedeniyle takibin durduğunu, icra takibinde talep edilen faiz ve faiz oranlarının kanuna ve sözleşmeye uygun olup davalıların itirazlarının haksız olduğunu bildirmiş, itirazın iptali ile takibin devamına, davalıların icra inkar tazminatı ile sorumlu tutulmalarına karar verilmesini talep etmiştir.
 
@@ -102,6 +112,8 @@ Somut olayda; davacının davalılar aleyhine İzmir 20. İcra Müdürlüğü' n
 
 ## İzmir BAM 17. HD 2022/1829 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829331100)
+
 Davalılar vekilinin cevap dilekçesi ile; davacı tarafından açılan davanın ve yapılan icra takibinin haksız olduğunu, davalıların davacıya borcu bulunmadığını, davalıların konkordato talep ettiklerini, İzmir 2. Asliye Ticaret Mahkemesinin 2018/1096 esas ve 2018/1119 esas sayılı dosyalarında davaların devam ettiğini, geçici mehil süresi içinde ödenmeyen taksit bulunmadığını, Beyoğlu 48.
 
 …
@@ -113,6 +125,8 @@ Davacı vekili istinaf dilekçesinde özetle; yerel mahkeme kararının düzelti
 Somut olayda icra takibine yapılan itiraz nedeniyle davanın açıldığı, yargılama aşamasında itirazdan feragat edildiği ve davacının davayı açmakta haklı olduğu, davanın açılmasına davalılar sebebiyet verdiğinden yargılama gideri ve vekalet ücretinden sorumlu oldukları görülmektedir.
 
 ## Sakarya BAM 7. HD 2022/1577 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805980800)
 
 Davalı vekili cevap dilekçesinde özetle; davanın süresinde açılmadığı, ayrıca davanın yönetim kurulu üyelerince açılması gerektiği, talebin 2 yıllık zamanaşımından sonra açıldığı, müvekkilinin davacıya borcu bulunmayıp, kooperatifin maddi sıkıntı çekmesi nedeniyle kendi kişisel kredi kartı ile kooperatif için harcamalar yaptığı için alacaklı durumda olduğu, buna ilişkin kooperatif kararının 27/12/2009 tarihli ve 205 sayılı karar ile alındığı savunmaları ile davanın reddine ve takibe konu alacağın %40'ından aşağı olmamak üzere icra inkar tazminatına hükmedilmesini talep ve dava etmiştir.
 
@@ -143,6 +157,8 @@ Davalı vekilinin istinaf başvurusunun KABULÜ ile Ankara 11. Asliye Ticaret Ma
 
 ## İzmir BAM 4. HD 2022/1440 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778576700)
+
 Davacı vekili dava dilekçesinde özetle; davalının Ticarethane vasfındaki aboneliğine ait ödenmeyen 2013/3 kaçak bedelinin tahsili amacı ile İzmir 10.
 
 …
@@ -166,6 +182,8 @@ Davacı vekili ile davalı vekilinin tüm istinaf nedenleri yerinde görülmedi�
 
 ## Gaziantep BAM 11. HD 2022/1367 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804063200)
+
 Davacı vekili dava dilekçesinde özetle; davalı ile müvekkili arasında ticaret neticesinde müvekkili tarafından davalıya dava konusu icra takibinin dayanağı olan .... tarih .... numaralı .... TL bedelli .... tarih .... numaralı ....TL .... tarih .... numaralı .... TL ve .... tarih .... numaralı ...
 
 …
@@ -180,6 +198,8 @@ Mahkemece, "...davanın kısmen kabulü ile, davalının ... icra dairesinin ...
 ... İcra Müdürlüğünün .... sayılı dosyasında davacı şirket tarafından davalı şirket aleyhine ... tarihinde yapılan ilamsız takipte asıl alacak ve faizi gösterilmek suretiyle ...TL alacak için ..... tarihli ...nolu, ... tarih ... nolu, ... tarih ... nolu ve ... tarih ...nolu ... adet faturaya dayalı olarak ilamsız takip yapıldığı, davalı şirket yetkilisinin borca ve takibe itiraz etmesi üzerine takibin durmasına karar verildiği ve davacı alacaklının süresinde itirazın iptali davası açtığı anlaşılmıştır.
 
 ## İzmir BAM 20. HD 2022/1313 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815246300)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin 09.10.2016 tarihinde tasfiyesi gerçekleştirilen şirket ile 01.07.2017 tarihinde “...” da yapılacak olan düğün organizasyonu için sözleşme imzaladığını, düğünün iptal olması nedeni ile ... Şti.’ye bildirimde bulunup ücret iadesi istemiş olduğunu, ancak ücret iadesi gerçekleştirmeyen şirket aleyhinde Urla İcra Müdürlüğü’nün 2018/63 E. Sayılı dosyası ile ilamsız icra takibi başlatıldığını, şirket tarafından icra takibine itiraz edildiği için 13.02.2018 tarihinde İzmir 2.
 
@@ -202,6 +222,8 @@ Davalı ... vekilinin İzmir 6. Asliye Ticaret Mahkemesi'nin 10/02/2022 tarihli 
 
 ## Ankara BAM 23. HD 2022/1295 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800825300)
+
 Davacı vekili; davalı borçlu şirkete pos cihazı bağlandığını, ancak pos cihazından yapılan harcamalara ilişkin gelen şikayetler üzerine pos harcamalarının bir kısmının kart sahiplerine iade edildiğini ve davalı şirketin davacı bankadaki hesabında bu bedellerin karşılığı bulunmadığından davalı şirkete Kahramanmaraş 1. Noterliğinin 06/11/2015 tarihli ve ... yevmiye sayılı ihtarnamesinin keşide edildiğini, ihtarnameye rağmen verilen süre içerisinde davalı şirketin borcunu ödemediğini, bunun üzerine Ankara 25. İcra Müdürlüğünün 2015/25672 E.
 
 …
@@ -214,10 +236,14 @@ HMK m. 353/1,b,1 gereğince, Ankara 4. Asliye Ticaret Mahkemesi'nin 2016/690E., 
 
 ## İstanbul BAM 17. HD 2022/1228 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815287900)
+
 DELİLLERİN TARTIŞILMASI VE HUKUKİ GEREKÇE: Dava; cari hesap alacağının tahsili amacıyla başlatılan icra takibine karşı yapılan itirazın iptali istemine ilişkindir. Davacı cari hesap alacağının tahsili amacıyla davalı aleyhine 5.644,08 TL üzerinden icra takibi başlatıldığı, davalının yasal süresi içerisinde takibe, borca ve ferilerine itiraz ettiği, takibin durması üzerine davacı tarafından iş bu itirazın iptali davasının açıldığı, dava dilekçesinde dava değerinin 5.644,08 TL olarak gösterildiği ve harcın bu miktar üzerinden yatırıldığı, yargılama sonucu ilk derece mahkemesince davanın açılmamış sayılmasına karar verildiği anlaşılmıştır. İş bu karar, davacı vekili tarafından yasal süresi içerisinde istinaf edilmiştir. İtirazın iptali davası ilamsız icra takibine itiraz üzerine duran takibin devamını sağlamaya yönelik açılan bir davadır. Bu nedenle hangi takibe yönelik açılmış ise o takipte belirtilen alacakla ilgili yargılama yapılarak hüküm kurulması gerekir. Diğer bir ifade ile itirazın iptali davası takibe bağlı bir davadır. Takipte belirtilen miktardan fazlasına karar verilemez. Bu kapsamda;
 HMK'nın 341/2 maddesi gereğince miktar veya değeri 3.000,00 TL'yi geçmeyen mal varlığı davalara ilişkin kararlar kesindir. Bu miktar, yeniden değerleme oranı ile hüküm tarihi olan 2022 yılı itibariyle 8.000,00 TL'ye ulaşmıştır. Dolayısıyla ilk derece mahkemesince verilen karar hüküm tarihi itibariyle kesin niteliktedir. HMK'nın 346. Maddesi gereğince kesin karara yönelik istinaf başvurusu ile ilgili ilk derece mahkemesince karar verilebileceği gibi bu konuda olumlu yada olumsuz bir karar oluşturulmadan, istinaf incelemesine gönderilen dava dosyaları ile ilgili olarak aynı yasanın 352/1. Maddesi gereğince istinaf mahkemesince de karar verilmesi mümkündür. Bu yasal düzenlemeler karşısında, kanun yoluna başvurusu konu edilen kararın, karar tarihi itibariyle kesin nitelikte olması nedeniyle istinafa kabil bir karar bulunmadığından davacının istinaf başvurusunun reddine dair aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 3. HD 2022/1183 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748802700)
 
 K A R A R: Yukarıda açıklanan nedenlerle; Davacının ve davalının istinaf talebinin kabulüyle HMK 353/1-b-2 maddesi gereğince karar kaldırılarak yeniden esas hakkında; 1- Davanın KISMEN KABULÜNE, Davalı borçlunun İstanbul ...
 İcra Müdürlüğü'nün ... takip sayılı dosyası üzerinden takibine girişilen 11.696,59 TL'lık borcun 11.694,83 TL'lık kısmına vaki itirazının iptali ile takibin bu miktar yönünden devamına, Likit alacağa vaki haksız itirazı ile takibin durmasına sebebiyet veren davalı borçlunun hüküm altına alınan 11.694,83 TL'lık borcun %20'si oranında icra inkar tazminatı ile mahkumiyetine, Fazlaya ilişkin talebin reddine, 2- Hüküm altına alınan miktar üzerinden hesaplanan 798,99-TL ilam harcından peşin alınan 144,27-TL'nin mahsubu ile bakiye 654,72-TL ilam harcının davalıdan tahsili ile hazineye irat kaydına, 3-Davacı tarafından yatırılan 144,27-TL peşin harcın davalıdan tahsili ile davacıya verilmesine, 4- Davacının yaptığı 1.632,00 TL yargılama giderinin davanın kabul ret oranında hesaplanarak 1.631,75 TL'nin davalıdan alınarak davacıya verilmesine, 5- Davalı tarafından yapılan yargılama giderin bulunmadığından bu konuda karar verilmesine yer olmadığına, 6- Davacı kendisini bir vekil ile temsil ettirdiğinden kabul edilen miktar üzerinden karar tarihindeki A.A.Ü.T göre hesaplanan ve takdir edilen 5.100,00 TL ücreti vekaletin davalıdan alınarak davacıya verilmesine, 7- Davalı kendisini bir vekil ile

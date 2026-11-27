@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152345000)
+
 Dava, vekâlet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkin olup uyuşmazlığın çözümü için öncelikle asıl ve birleşen davalarda miras payları oranında talepte bulunan davacıların eldeki davada aktif dava ehliyetlerinin bulunup bulunmadığına göre değerlendirme yapılması gerekmektedir.
 
 …
@@ -32,6 +34,8 @@ Terekeye ait haklar üzerinde tasarruf söz konusu ise ortakların oybirliği il
 Ancak dava halefiyet esasına göre tereke adına değil de kendi miras payı için açılmış ise tüm mirasçıların onayının alınmasına gerek bulunmamaktadır. Bir ya da bir kısım mirasçı terekeye ait bir mal veya alacaktan yalnız kendi payına düşen kısım için yalnız kendi adına dava açarsa, böyle bir dava reddedilir. Çünkü, bir veya bir kısım mirasçının iştirak hâlindeki pay üzerinde tasarrufta bulunma yetkisi yoktur. Böyle bir dava diğer mirasçıların paylarını kapsamadığından ve aynı zamanda onlar adına da açılmadığından, davaya diğer mirasçıların katılmasına (icazet vermesine) olanak yoktur. Diğer bir anlatımla, öteki mirasçıların davaya katılmalarının sağlanması veya yöntemine uygun biçimde muvafakatlerinin alınması ya da miras ortaklığına bir mümessil tayin edilerek onun huzuru ile davaya devam edilmesi mümkün değildir ve davanın reddi gerekir. Aynı nedenle, tereke temsilcisi de, bir mirasçının yalnız kendi payı için açmış olduğu davaya icazet verip davayı devam ettiremez (Kuru, s. 984 vd.).
 
 ## Yargıtay HGK 2010/80 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76703500)
 
 Dava, olağanüstü zamanaşımı nedeniyle kazanmayı sağlayan zilyetliğe dayalı tapu iptal ve tescil istemine ilişkindir.
 
@@ -96,6 +100,8 @@ Mirasçıların tamamının davayı takip etmediği durumlarda ise müşterek me
 
 ## Yargıtay 1. HD 2026/1960 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209408300)
+
 Dava, yolsuz tescil hukuki nedenine dayalı tapu iptali ve tescil, olmadığı takdirde bedel istemine ilişkindir.
 
 …
@@ -121,6 +127,8 @@ Somut olayda; ön alım hakkının kullanılmasında davacının dayandığı pa
 
 ## Yargıtay 1. HD 2025/4779 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185439600)
+
 Dava, muris muvazaası hukuki nedenine dayalı terekeye iade talepli tapu iptali ve tescil ile muhdesatın aidiyetinin tespiti ve beyanlar hanesine tescili istemine ilişkindir.
 
 …
@@ -129,13 +137,19 @@ Türk Medeni Kanunu'nun 640. maddesi uyarınca terekeye temsilci atanması durum
 
 ## Yargıtay 6. HD 2025/3874 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193558300)
+
 Asli müdahil ... mirasçılarının temyizi bakımından ise asli müdahil ...’nın dava konusu 11 nolu bağımsız bölümü asıl davada yüklenici ...’tan 10.05.1996 tarihli.... Noterliğinde düzenlenen düzenleme şeklinde gayrimenkul satış vaadi sözleşmesi ile satın aldığı, asli müdahil ...’nın temliken tescil hükümlerine göre müdahale talebinde bulunduğu, yargılama aşamasında 21.04.2010 tarihli celsede asıl davada davacı yüklenici ...’ın 11 nolu bağımsız bölümü sözleşme ile ...'ya sattığını, parasını aldığını beyan ettiği, asıl davada davacı ...’in vefatından sonra mirasçıların mirası reddettiği ve terekeye temsilci atandığı, tereke temsilcisinin davayı takip etmemesi üzerine davanın açılmamış sayılmasına karar verildiği, yine yargılama sırasında asli müdahil ...’in temliken tescil hükümlerine göre haricen satın aldığı 11 nolu bağımsız bölümü kullandığının anlaşıldığı, her ne kadar yüklenici iskân ruhsatı alımına ilişkin yükümlülüğünü yerine getirmemiş ise de eksik ve kusurlu işler bedeli ile iskân bedeli depo edildiğine göre asli müdahil ... bakımından tapu iptali tescil talebinin kabulü gerekirken tapu iptal talebinin reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 1. HD 2025/2947 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152085100)
+
 Hemen belirtilmelidir ki; Türk Medeni Kanunu'nun 640. maddesi uyarınca terekeye temsilci atanması durumunda davanın tereke temsilcisinin veya bu sıfatla vekil kıldığı avukatın huzuru ile sürdürülmesi gerektiği, tereke temsilcisinin atanması ile mirasçıların terekeyi temsil ve davayı takip yetkisinin ortadan kalktığı, mirasçıların davayı takip yetkisinin sona ereceği ve buna bağlantılı olarak da hükmü temyiz hakkının tereke temsilcisine geçtiği açık olup somut olayda, Darende Sulh Hukuk Mahkemesinin 2016/74 Esas, 2018/149 Karar sayılı kararı ile muris...’in terekesine temsilci olarak Av. ...'nun atandığı anlaşılmıştır.
 
 ## Yargıtay 1. HD 2025/1617 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141862300)
 
 Dava, ketmi verese hukuki nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -147,10 +161,14 @@ Hal böyle olunca, öncelikle yargılama sırasında ölen davacıların mirasç
 
 ## Yargıtay 7. HD 2024/5898 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120165300)
+
 Kabule göre de; hemen belirtilmelidir ki, tenkis davalarında davalılar arasında mecburi dava arkadaşlığı yoktur. Türk Borçlar Kanunu'nun 162. maddesine göre müteselsil borç kanunen veya taraf iradesinden doğabilir. Mirasçıların müteselsilen sorumluluğu ise Türk Medeni Kanunu'nun 641. maddesinde ise düzenlenmiş olup, madde hükmüne göre mirasçılar, mirasbırakanın borçlarından müteselsilen sorumlu olacaktır. Bununla birlikte, mirasçıların birbirleri aleyhine dava açmalarına engelleyici bir hüküm olmayıp, bir mirasçının diğer mirasçılara dava açması için terekeye temsilci tayin edilmesine de gerek yoktur. Bununla birlikte tenkis, tereke adına bir istek olmayıp mirasçının saklı payını alabilmek için açtığı şahsi nitelikte bir davadır. Davacı mirasçının diğer mirasçılarla birlikte ya da terekeye temsilci atanarak dava açması söz konusu olmadığından, saklı paya sahip her mirasçı tek başına tenkis davası açabilecektir. Dolayısyla, tenkis davalarında zorunlu dava arkadaşlığı bulunumadığından, mirasçılar arasında müteselsil sorumluluk yoktur.
 Buna rağmen Mahkemece, tenkis hesabı sonucu davacılardan herbiri için belirlenecek miktarla sorumlu tutulmalarına karar verilmesi gerekirken, yazılı şekilde müşterek ve müteselsil sorumluluklarına hükmedilmesi doğru olmadığı gibi müşterek ve müteselsilen tahsile dair hüküm kurulurken dahi infazda tereddüt ve tekerrür oluşturacak şekilde hüküm sonucunun A ve B bentlerinde 6.636.307,06'şar TL'nin ayrı ayrı hükmedilmesi de doğru görülmemiştir.
 
 ## Yargıtay 1. HD 2024/4313 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1051234800)
 
 …
 
@@ -161,15 +179,21 @@ Bilindiği üzere; mirasbırakanın terekesine temsilci atanmakla, mirasçılar�
 
 ## Yargıtay 3. HD 2024/4214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1114487200)
+
 Elbirliği mülkiyeti gereği miras yoluyla terekeye dahil olan varlıklar ile ilgili mirasçıların bir kısmı tarafından dava açılması halinde, mirasçılar kendi açtıkları bu davayı yalnız başına yürütemeyeceğinden davanın bütün mirasçılar ile birlikte yürütülmesi gerekir. Bu durumda mahkemece, açılan işbu davanın görülebilmesi için diğer mirasçıların davaya katılmalarının veya muvafakatlarının sağlanması veya 4721 sayılı Kanun'un 640 ıncı maddesinin üçüncü fıkrası gereğince terekeye temsilci tayin ettirmesi için davacılara uygun bir süre verilmesi gerekir.
 
 Eğer diğer mirasçılar davaya katılmaz ve yazılı muvafakat da vermezler ise bu durumda davayı açan mirasçıların terekeye bir temsilci tayin ettirmesi gerekir. Terekeye atanan temsilci, bir kısım mirasçının açtığı davaya icazet verirse davaya tereke temsilcisi tarafından devam edilir. Terekeye temsilci atanması ve tereke temsilcisinin davaya devam etmesi halinde de, ayrıca diğer mirasçıların davaya katılmalarına veya muvafakatlarının alınmasına gerek yoktur.
 
 ## Yargıtay 4. HD 2023/12212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118683700)
+
 Vefat eden davalı borçlu 'nın davaya dahil edilen mirasçıları (... ve , borçlunun mirasını reddettiklerinden ve terekeye temsilci tayin edilip yargılamaya tereke temsilcisinin huzuruyla devam edildiğinden, harç, yargılama gideri ve vekalet ücretinden borçlu nın terekesinin sorumlu tutulması gerekirken taraf sıfatı bulunmayan davalı mirasçıların (... ve ) sorumlu tutulmaları da doğru görülmemiştir.
 
 ## Yargıtay 1. HD 2023/7512 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025587000)
 
 Dava, kadastro öncesi nedene dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -178,6 +202,8 @@ Dava, kadastro öncesi nedene dayalı tapu iptali ve tescil istemine ilişkindir
 Bilindiği üzere, iştirak halinde mülkiyet hükümlerine tabi bulunan bir terekede, 4721 sayılı Türk Medeni Kanunu'nun 640 ve 702 nci maddeleri gereğince, davanın tüm mirasçılar tarafından birlikte açılması gerekir. Buna göre ancak, bir mirasçı özellikle acele hallerde miras şirketinin menfaatini korumak için, bütün mirasçılar adına, yalnız başına dava açabilirse de, mirasçı kendi açtığı böyle bir davayı yalnız başına yürütemez. Bu halde, diğer mirasçıların da davaya muvafakatlerinin alınması veya terekeye temsilci tayin ettirilmesi suretiyle davanın yürütülmesi mümkündür. Öte yandan, bir ya da bir kısım mirasçının, terekeye ait bir mal, hak veya alacaktan yalnız kendi payına düşen kısım için terekeye göre üçüncü bir kişiye karşı dava açması halinde mirasçıların iştirak halindeki payları üzerinde tasarrufta bulunmak yetkisi bulunmadığından davanın reddi gerekir. Böyle bir dava, diğer mirasçıların paylarını kapsamadığından ve aynı zamanda onlar adına da açılmadığından, davaya diğer mirasçıların katılmasına (icazet vermesine) ve tereke temsilcisinin de, bir mirasçının yalnız kendi payı için açtığı davaya icazet verip davayı devam ettirmesine olanak yoktur.
 
 ## Yargıtay 1. HD 2023/6351 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1006923400)
 
 Dava, muris muvazaası hukuki nedenine dayalı terekeye iade istemli tapu iptali ve tescil istemine ilişkindir.
 
@@ -189,6 +215,8 @@ Eldeki davada davayı açan mirasçılar Süveyda ve Sevinç'in muris muvazaası
 
 ## Yargıtay 8. HD 2023/5023 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979997100)
+
 Dava, kadastro öncesi sebeplere dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -198,6 +226,8 @@ Nitekim böyle bir dava, diğer mirasçıların paylarını kapsamadığı gibi;
 
 ## Yargıtay 1. HD 2023/4515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963613200)
+
 Dava hile ile alınan vekalet yetkisinin kötüye kullanılması hukuki nedenine dayalı tapu iptali ve tescil istemine ilişkin olup taraf teşkili yönünden verilen usulden ret kararı temyiz konusu yapılmıştır.
 
 …
@@ -206,6 +236,8 @@ Hal böyle olunca; mahkemece, ...ve ... mirasçıları nüfus kayıtlarından te
 
 ## Yargıtay 1. HD 2023/3536 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/937106600)
+
 Öte yandan, dava konusu taşınmazın paydaşlarından ...'ın ölümü nedeniyle adına kayıtlı 83/96 payının davacılarla birlikte elbirliği halinde başka mirasçılara da intikal ettiği, mirasçılar arasında elbirliği mülkiyeti devam ettiğine göre terekenin de elbirliği mülkiyeti hükümlerine tabi olduğu açıktır. Bilindiği üzere elbirliği mülkiyetinde tüm tasarruf işlemlerinin 4721 sayılı ... Medeni Kanunu'nun 640. ve 702. maddeleri uyarınca tüm mirasçılar tarafından birlikte yapılması zorunlu olup, terekeye göre 3. kişi durumunda olan kişilere karşı açılacak tasarrufi işlem niteliğindeki davanın da tüm mirasçılar tarafından birlikte açılması gerekir. Bir mirasçının, özellikle acele hallerde miras şirketinin menfaatini korumak için, bütün mirasçılar adına yalnız başına dava açması mümkün ise de, bu şekilde açılan bir dava tüm mirasçıların katılımı sağlanmadan yürütülemez. Bu halde, diğer mirasçıların da davaya katılımlarının sağlanması, muvafakatlerinin alınması veya terekeye temsilci tayin ettirilmesi gerekir.
 Dava konusu taşınmazın paydaşlarından ...'ın ölümü nedeniyle adına kayıtlı 83/96 payın davacılarla birlikte elbirliği halinde başka mirasçılara da intikal ettiği, mirasçılar arasında elbirliği mülkiyeti devam ettiği gözetilerek davaya devam edilebilmesi için tüm mirasçı/paydaşların katılımlarının sağlanması veya muvafakatlerinin alınması, bunun mümkün olmaması halinde terekeye temsilci tayin ettirilmesi gereklidir.
 
@@ -213,9 +245,13 @@ Bir diğer husus ise, davanın; davacıların mirasbırakanlarının paydaş old
 
 ## Yargıtay 3. HD 2023/2598 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/958064400)
+
 3\. ... Sulh Hukuk Mahkemesinin 09.12.2015 tarihli ve 2014/287 E., 2015/1009 K. sayılı ilamıyla; 4721 sayılı Türk Medeni Kanunu'nun 640 ıncı maddesi uyarınca terekeye temsilci olarak ...'nun atanmasına dair verilen karar Yargıtay 14. Hukuk Dairesinin 22.05.2017 tarihli ve 2017/2043 E., 2017/4068 K. sayılı ilamıyla onanmış ve tereke temsilcisi ... davaya dahil edilmiştir. Tereke temsilcisi ..., davaya konu aracın ve işletme hakkının terekeye dahil edilerek mirasçıları adına kaydedilmesini istemiştir.
 
 ## Yargıtay 1. HD 2023/2431 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917414500)
 
 Somut olayda, dava konusu taşınmazın paylı mülkiyete tabi olduğu, bu durumda belirli bir paydaşa yönelik olmayan taleplerde paydaşlar arasında zorunlu dava arkadaşlığı bulunduğunun gözetilmemesi, öte yandan davacının talebinin terekeye iade istemli olduğu göz ardı edilerek diğer mirasçıların muvafakatlarının alınması ya da terekeye temsilci atanması yoluyla taraf teşkili sağlanmadan davanın yürütülmesi, ayrıca ek karara dayanak yapılan muhtıranın da usulsüz olduğunun dikkate alınmaması doğru değildir.
 

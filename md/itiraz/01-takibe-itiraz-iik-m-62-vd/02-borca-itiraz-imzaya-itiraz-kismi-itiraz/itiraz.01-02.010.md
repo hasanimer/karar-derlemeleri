@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2025/1934 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184216100)
+
 Davalı vekili cevap dilekçesinde özetle; Öncelikle dava konusu taleplere karşı yetki, görev, zaman aşımı, ödemezlik def’i, takas, mahsup, kesin hüküm, derdestlik ve her türlü usuli itirazlarını öne sürdüklerini, itirazın iptali davasında yetkili ve görevli mahkeme borçlunun yerleşiminin bulunduğu yer mahkemesi olduğunu ayrıca müvekkilinin tacir sıfatının da sorgulanmasını, yetki itirazlarının bulunduğunu, işbu davada yetkili ve görevli mahkemenin Bursa Asliye Hukuk Mahkemeleri olduğunu ayrıca müvekkili tarafından ilgili icra dosyasına itiraz dilekçesi sunulduğunu, işbu itirazda göreve ve yetkiye de itiraz edilerek icra dosyasının yetkili icra dairesine gönderilmesinin talep edildiğini ancak icra müdürlüğünce yetki hususunda herhangi bir değerlendirme yapılmadığını ve yetkili icra dairesi tarafından yeni bir ödeme emrinin müvekkiline gönderilmediğini, bu hususun açıkça hukuka aykırı olduğunu, yetkili icra dairesi tarafından müvekkiline yeniden ödeme emri gönderilmesi gerektiğini, bu nedenle görev ve yetki hususunun işbu davada öncelikle incelenmesini, davacı tarafından ... adı altında müvekkiline ikame edilen İstanbul Anadolu 13.
 
 …
@@ -35,6 +37,8 @@ Davacının istinaf başvurusunun KABULÜ ile; -İstanbul Anadolu 5. Asliye Tica
 
 ## İstanbul BAM 13. HD 2025/1879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184218800)
+
 Yargıtay'ın yerleşik kararlarına göre davalının satıcılığı meslek edinen kişi olarak ve basiretli bir tacir olarak gizli ayıbı bildiği ve ağır kusurlu olduğu kabul edilmektedirDavalı, borca itiraz dilekçesinde İkinci El Motorlu Kara Taşıtlarının Ticareti Hakkında Yönetmelik'in 16/1-a maddesi uyarınca aracın garanti kapsamına girmemesi nedeniyle (160.000 km.nin üzerinde olması) zarardan sorumlu olmadığını iddia etmiştir. İddia gerçek dışıdır. Davalının sorumluluğu kanundan doğmaktadır. Taraflar arasında sorumsuzluk anlaşması yoktur. Üstelik satıcılığı meslek edinmiş kişi olan davalı ağır kusurludur. Anayasanın 124'üncü maddesine göre yönetmelikler kanunların uygulanmasını sağlamak üzere bunlara aykırı olmamak şartıyla çıkarılabilir. Kanundan doğan sorumluluğun yönetmelik hükmüyle kaldırıldığından söz edilemez. Yönetmeliğin 15'inci maddesinde getirilen düzenleme "garanti" sorumluluğuyla ilgili olup ikinci el motorlu kara taşıtlarının ticaretini yapan kişiler için getirilen kanundan doğan sorumluluğa ek bir sorumluluktur.
 Yönetmeliğin 16/1-a maddesinde ikinci el motorlu kara taşıtlarının ticaretini yapan kişilerin 160.000 km'nin üzerindeki araçlar için bu ek "garanti" sorumluluğunun bulunmadığı ifade edilmiştir. Bu ifade, ikinci el motorlu kara taşıtlarının ticaretini yapan kişilerin kanundan doğan sorumluluğunun bulunmadığı, bütünüyle sorumsuz olduğu, hiçbir şekilde zararı tazmin yükümlülüğü olmadığı anlamına gelmez. Davalı, Türk Borçlar Kanunu'nun genel hükümleri ile 219 vd. maddelerindeki özel hükümleri uyarınca müvekkile verdiği zarardan (fatura bedelinden) sorumludur. Öte yandan, Hukuk Muhakemeleri Kanunu'na göre delil tespiti (m. 400 vd.) geçici hukukî koruma tedbirlerindendir. Aynı Kanun'un 323/1-ç maddesine göre geçici hukuki koruma tedbirleri ile protesto, ihbar, ihtarname ve vekâletname düzenlenmesine ilişkin giderler yargılama giderlerindendir. Davalı, fatura bedelinden sorumlu olduğu gibi Kanun'un 326'ncı maddesi uyarınca delil tespiti masraflarından ve ihtarname masrafından da sorumludur.
 
@@ -43,6 +47,8 @@ Yönetmeliğin 16/1-a maddesinde ikinci el motorlu kara taşıtlarının ticaret
 Davalının istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 13. HD 2025/1799 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184206600)
 
 İİK’nın 67/1. maddesi uyarınca itirazın iptali davasının tabi olduğu bir yıllık hak düşürücü sürenin, itirazın alacaklıya tebliğinden itibaren işlemeye başlayacağının kabul edildiğini, açık kanunî düzenlemeye göre dava açma süresinin itirazın tebliği ile başlayacağını, İİK’nın 67/1. maddesindeki düzenleme dikkâte alındığında icra dosyasında alacaklının icra işlemleri yapmış olmasının itirazın tebliği anlamına gelmeyeceğini, belirtmiştir.Somut olayda; davalının borca itiraz dilekçesinin davacı/takip alacaklısına tebliğ edilmediği, bu nedenle bir yıllık hak düşürücü sürenin davanın açıldığı tarihte henüz işlemeye başlamadığı, davacı/takip alacaklısı vekilinin icra dosyasında işlem yapmış olmasının ve 12/01/2018 tarihli talep dilekçesini dosyaya sunmuş olmasının itirazın tebliği anlamına gelmeyeceği, olsa olsa borca itirazın öğrenildiği anlamına geleceği; hak düşürücü sürenin başlangıcında öğrenme tarihinin değil tebliğ tarihinin esas alınacağına dair açık kanun hükmü karşısında davalının hak düşürücü süre itirazının reddine karar verilmiştir.Öte yandan davalı vekili arabuluculuk şartının yerine getirilmediğini iddia etmiş ise de davacı tarafın dosyaya sunmuş olduğu arabuluculuk
 numarası 2019/127919 olan tutanaktan dava şartının yerine getirildiği anlaşılmıştır.Davalı vekili derdestlik itirazında bulunmuş ise de derdest olduğu iddia edilen mahkememiz dosyası 2021/405 Esas sayılı dosyanın incelemesinde; ilgili dosyada takip konu icra dosyasının farklı olduğu dolayısıyla her iki davanın konusunun farklı olduğu anlaşılmıştır.Dosya rapor tanzim etmek üzere bankacı bilirkişiye tevdi edilmiş olup bilirkişi hazırlamış olduğu raporda özetle; ... Bankası T.A.O.
@@ -55,6 +61,8 @@ Somut olayda; kefalete ilişkin şekil şartlarının yerine getirildiği anlaş
 Davalının istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b-1 maddesi gereğince ESASTAN REDDİNE …
 
 ## Adana BAM 9. HD 2025/1589 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159429700)
 
 Davalı vekili cevap dilekçesinde özetle; Davacı tarafından müvekkil aleyhine ... 6.
 
@@ -71,6 +79,8 @@ Davacı vekilinin dava dilekçesinde özetle, müvekkili kooperatifin üyesi ola
 Somut olayda, takip dosyasında ödeme emri tebliğ edilen takip borçlusu (davalı) tarafından 21.01.2020 tarihinde borca itiraz dilekçesi verildiği, borca itirazın takip alacaklısına (davacıya) tebliğ edilmediği, eldeki itirazın iptali davasının 18.02.2020 tarihinde açıldığı anlaşılmakta olup, İİK'nın 67/1 maddesindeki 1 yıllık itirazın iptali davası açma süresinin borçlunun itirazının alacaklıya tebliği ile başlayacağına ilişkin düzenlenme dikkate alındığında davanın hak düşürücü süre içinde açılmış olduğu tespit edilmiştir.
 
 ## İstanbul BAM 45. HD 2025/1564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188177400)
 
 Davacı vekili dava dilekçesinde; müvekkili ile davalı arasında ticari amaçlı taşıt kredi ve rehin sözleşmesi imzalandığını, sözleşme kapsamında davalıya taşıt kredisi kullandırılmasına rağmen davalı tarafından borçun taahhüt edildiği gibi ödenmemesi üzerine hesabın kat edilerek tüm borcun muaccel hale geldiğini, davalı hakkında başlatılan İstanbul Anadolu 16. İcra Dairesi'nin ... E., ...
 
@@ -89,6 +99,8 @@ Davacı vekilinin istinaf başvurusunun KABULÜ ile İstanbul Anadolu 6. Asliye 
 
 ## İstanbul BAM 14. HD 2025/1537 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175624300)
+
 Davacı vekili, dava dilekçesinde özetle; Dava dışı ... ... Turizm Seyahat Taşımacılık Prodüksiyon ve Organizasyon Hizmetleri Ltd. Şti. ile müvekkili bankanın Osmaniye/İstanbul Şubesi arasında Genel Nakdi ve Gayrinakdi Kredi Sözleşmesi, Business Card Üyelik Sözleşmesi ve Üye İş Yeri Sözleşmesi imzalandığını, davalılar ... ve ...'in bu sözleşmeleri müşterek borçlu ve müteselsil kefil sıfatı ile imzaladığını, dava dışı ... ...
 
 …
@@ -104,6 +116,8 @@ itirazlarının kabulü ile takibin itiraza konu olan kısmının durdurulmasın
 HMK'nın 353/1.a.6 maddesi uyarınca, ilk derece mahkemesinin istinafa konu kararının kaldırılmasına …
 
 ## İstanbul BAM 14. HD 2025/1533 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174793300)
 
 Davacı vekili, dava dilekçesinde özetle; konkordato başvurusunda bulunduğu Gebze Asliye Ticaret Mahkemesinin 2018/718-E. sayılı dosyasından 14.09.2018 tarihinden başlamak üzere üç ay süre ile geçici mühlet kararı verildiğini, geçici mühlet kararının 14.12.2018 tarihinden itibaren iki ay süre ile uzatıldığını, 11.02.2019 tarihli duruşmada ise bir yıllık kesin mühlet kararı verildiğini; geçici ve kesin süreler kapsamında mahkemece verilen ihtiyati tedbir ve İİK yasaklamalara rağmen davalının hesaptan hukuka aykırı olarak rızası olmadan, komiser onayı bulunmadan faiz, masraf tahsilatı ve sair açıklamalar ile kesintiler yapıldığını, müşteri çeklerinin davalı tarafından tahsil edilmesinin ardından hukuka aykırı kesintiler yapılması üzerine İstanbul 26. İcra Müdürlüğünün ...
 
@@ -125,6 +139,8 @@ HMK'nın 353/1.b.1. maddesi uyarınca, davalı vekilinin istinaf başvurusunun e
 
 ## Ankara BAM 22. HD 2025/1523 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188078200)
+
 Davalı vekili cevap dilekçesinde özetle; davanın hak düşürücü süre içinde açılmadığını, alacağın zamanaşımına uğradığını, davacının ifa ettiği hizmet bedellerinin ödendiğini, cari hesapta mevcut 55.957,43 TL'ye yönelik hizmetin verilmediğini, teslime ilişkin delil sunulmadığını savunarak davanın reddine ve kötüniyet tazminatına karar verilmesini istemiştir.
 
 …
@@ -141,6 +157,8 @@ Ankara 9.İcra Müdürlüğünün 2021/7904 Esas sayılı takip dosyasının yap
 
 ## İstanbul BAM 13. HD 2025/1482 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173533500)
+
 08/12/2017 tarihli kat ihtarı kapsamından; dava dışı asıl borçlu şirket ile, ipotek borçluları ve kefillere toplam 3.194.073,43-Euro tutarındaki dövize endeksli kredinin tebliğden itibaren 24 saat içerisinde gönderilmesi hususunun ihtar edildiği, ihtar ekindeki hesap özetinde de akdi faiz oranının yıllık %6,30, temerrüt faiz oranının ise yıllık %21 olduğunun yazılı olduğu, ihtarnamenin dava dışı asıl borçlu ile iş bu dosya davalısı kefillerden ... ile ...'a 09/12/2017 tarihinde tebliğ edildiği, davalı kefil KKG şirketi adına çıkartılan ihtarnamenin ise iade döndüğü anlaşılmıştır.
 Davalıların gerek icra dosyasına sundukları borca itiraz dilekçesinde, gerekse davaya cevap dilekçelerinde kefalet sözleşmesi altındaki kendileri adına atılan imzaya itiraz etmedikleri, yine davalı kefillerden, 01/03/2017 dövize endeksli kredi kullandırım tarihinde aynı zamanda şirketin tek ortak ve yetkili olan ...'ın kredi kullanım beyanı ve talep doğrultusunda kullandırılan bu krediye ilişkin nakdi özel şartlar başlıklı belge altındaki imzanın şirket yetkilisi sıfatıyla kendisine ait olmadığına yönelik bir itirazının bulunmadığı, bu vakıa nazara alındığında, bu belgelerde imzası olmayan ve bulunması da gerekmeyen davalı kefil ...'ın şirket adına atılı imzanın şirket yetkilisine ait olmadığına yönelik itirazı nazara alınarak ve belge aslı sunulmadığından imza incelemesi yapılamadığı, dolayısıyla asıl borçlunun borçtan sorumlu olup olmadığının tespit edilemediği yönündeki yanılgılı gerekçe ile davanın reddedilmesinin isabetsiz olduğu, davacı yanın bu yöndeki istinaf sebebinin yerinde olduğu anlaşılmıştır.
 
@@ -152,6 +170,8 @@ yetkisine istinaden nakdi krediye ve hatta bu kredi ile kapatılan eski taksitli
 Davacının istinaf başvurusunun KABULÜ ile; İstanbul 8. Asliye Ticaret Mahkemesi'nin 03/11/2022 tarih ve 2018/747 Esas ve 2022/692 Karar sayılı kararının HMK'nın 353/1-a6 maddesi uyarınca KALDIRILMASINA …
 
 ## Ankara BAM 22. HD 2025/1430 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181873500)
 
 Davalı taraf cevap dilekçesi sunmamış, bilirkişi raporuna karşı beyan dilekçesinde davanın reddini istemiştir.
 
@@ -172,6 +192,8 @@ Dava, itirazın iptali istemine ilişkindir.
 Ankara 27. İcra Müdürlüğünün 2021/11907 Esas sayılı takip dosyasının yapılan incelemesine göre, 22/09/2021 tarihinde davacı alacaklı tarafından davalı borçlu aleyhine 22.574,00 TL asıl alacak, 339,00 TL işlemiş faiz olmak üzere toplam 22.913,00 TL alacağın tahsili için Gölcük İcra Müdürlüğünün 2021/1785 sayılı dosyası üzerinde ilamsız icra takibi başlatıldığı, takip dayanağı olarak dosyaya 2 adet ambar alındı fişinin eklendiği, davalı borçlunun süresinde icra müdürlüğünün yetkisine ve borca itiraz ettiği, davacı alacaklı tarafından yetki itirazının kabul edilmesi üzerine dosyanın Ankara 27.İcra Müdürlüğünün 2021/11907 Esasına kaydedilerek davalıya ödeme emrinin tebliğ edildiği, davalı borçlunun süresinde takibe ve borca itiraz ettiği, itirazın iptali davasının İİK 67.maddesi uyarınca süresinde açıldığı anlaşılmıştır.
 
 ## İstanbul BAM 15. HD 2025/1426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185075100)
 
 İcra Hukuk Mahkemesi’nin 2015-794 Esas sayılı dosyası ile bu kez de başka bir dava açılarak; dosya kapak hesabının yanlış yapıldığına ilişkin dosyanın bilirkişiye gönderilmesinin talep edildiğini, bu aşamada, yukarıda belirttikleri dosya Yargıtay’dan bozulup döndüğünden, İstanbul 10. İcra Hukuk Mahkemesi’nin 2015-794 Esas ve 2016-207 Karar sayılı kararı ile de davacının davasının reddine karar verildiğini, bu aşamalardan sonra; davacı tarafından itirazın iptali veya itirazın kaldırılması davaları açılmadan; İstanbul 11. İcra Müdürlüğü’nün ... E. sayılı dosyasında, 14.04.2017 tarihinde “takipten vazgeçtiğine” ilişkin beyanda bulunulduğunu, daha sonra; 02.05.2017 tarihinde İstanbul 25. İcra Müdürlüğü’nün 2017-13826 Esas sayılı dosyası ile “İstanbul 11. İcra Müdürlüğü’nün ...
 E. sayılı dosyasında yanlış hesaplama neticesinde bakiye kalan alacak” sebepli yeni bir icra takibi başlatıldığını, bu takibe de davalı tarafından itiraz edilince, davacının açtığı itirazın iptali dosyasında mahkemece hatalı şekilde davanın kısmen kabulüne karar verildiğini, davacının vazgeçmiş olduğu icraya konu alacak için tekrar takibi yapamayacağını, icra takibinden vazgeçilmesi, alacağın özünden vazgeçmek olmadığını, ancak o icra takibinden doğan haklardan vazgeçilmesi olduğunu, davacının, İstanbul 11. İcra Müdürlüğünün dosyasına sebep olan cari hesap mutabakatına değil, icra dosyasının kendisine dayandığını, her ne kadar, davacı icra takibinden vazgeçtiğinde, icraya dayanak yapılan alacağın özünden vazgeçmemişse de; o icra takibinden doğan "faiz, yargılama gideri, harç" vs.den vazgeçmiş sayılacağını, davacının vazgeçtiği tüm bu feri haklardan, sanki vazgeçmemişcesine yeni bir takip yapmasının hukuka aykırı olduğunu, Mahkeme kararının dayanağı yapılan 30.05.2023 tarihli bilirkişi raporunun hatalı olduğunu , 11. İcra Müdürlüğünün ...

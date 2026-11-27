@@ -26,6 +26,8 @@ Kıymetine noksan gelmeksizin sabit tenkis oranında taksimi kabil olmayan muayy
 
 ## Yargıtay HGK 2026/16 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199690300)
+
 Tenkisi istenen düzenleme şeklindeki vasiyetnamenin incelenmesinde murisin terekesinin tamamını davalı mirasçılarına vasiyet ettiği, mirasçı atamasının üçüncü kişiler lehine yapılabileceği gibi yasal mirasçılar lehine de yapılabileceği gözetildiğinde, tasarrufun belirli mal vasiyeti şeklinde değil TMK'nın 516. maddesinde belirtilen nitelikte mirasçı atamasına (nasbına) ilişkin olduğu sabittir. TMK'nın 564. maddesi belirli mal vasiyeti söz konusu olduğunda uygulanabileceğinden, mirasçı atamasının tenkisi istemine ilişkin eldeki davada bu maddenin uygulanma olanağı bulunmamaktadır. Yukarıda açıklandığı üzere bu tür tasarruflar nedeniyle mirasçı olarak atanan kimseye karşı açılan tenkis davasının kabulü hâlinde dava edilen saklı paylar oranında tenkise karar vermek gerekli ve yeterlidir.
 
 ## Yargıtay 7. HD 2026/3729 K.
@@ -39,17 +41,25 @@ Diğer taraftan, lehine kazandırma yapılan davalının da saklı pay mirasçı
 
 ## Yargıtay 7. HD 2025/4440 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185406100)
+
 4721 sayılı Türk Medeni Kanunu'nun "Bölünmez Mal Vasiyetinde" başlıklı 564. maddesine göre değerinde azalma meydana gelmeksizin bölünmesine olanak bulunmayan belirli bir mal vasiyeti tenkise tâbi olursa, vasiyet alacaklısı, dilerse tenkisi gereken kısmın değerini ödeyerek malın verilmesini, dilerse tasarruf edilebilir kısmın değerini karşılayan parayı isteyebilir. Tasarruf konusu malın vasiyet alacaklısında kalması durumunda, malın tenkis sebebiyle vasiyet borçlusuna verilmesi gereken, aksi hâlde tasarruf oranı içinde kalan kısmının karar günündeki değerinin para olarak ödetilmesine karar verilir.
 
 ## Yargıtay 7. HD 2025/2378 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168415300)
 
 Hüküm altına alınan tenkis alacağı 4721 sayılı TMK′nın 564/2. maddesi uyarınca karar tarihi esas alınmak suretiyle belirlendiğinden, tenkis alacağına karar tarihinden itibaren faiz yürütülmesi gerekirken, hükmün kesinleştiği tarihten itibaren faize hükmedilmiş olması bozmayı gerektirir.
 
 ## Yargıtay 7. HD 2025/164 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120559700)
+
 4721 sayılı Türk Medeni Kanunu'nun 564. maddesinin 2. fıkrasındaki "Tasarruf konusu malın vasiyet alacaklısında kalması durumunda, malın tenkis sebebiyle vasiyet borçlusuna verilmesi gereken, aksi hâlde tasarruf oranı içinde kalan kısmının karar günündeki değerinin para olarak ödetilmesine karar verilir." şeklindeki düzenlemesine göre dosyada yer alan bilirkişi raporlarında tenkis hesabının hükümde de belirtildiği üzere karar tarihi yerine tercih tarihi esas alınarak yapılmasının doğru olmadığı anlaşıldığından İlk Derece Mahkemesi kararının bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2024/4207 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078732300)
 
 1\. 4721 sayılı Türk Medeni Kanunu’nun 565/4 üncü maddesinde, mirasbırakanın saklı pay kurallarını etkisiz kılmak amacıyla yaptığı açık olan kazandırmaların tenkise tabi olduğu düzenlenmiştir.
 
@@ -58,14 +68,20 @@ Mirasbırakanın TMK'nın 506 ıncı maddesinde belirlenen saklı paya tecavüz 
 
 ## Yargıtay 7. HD 2024/2477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1036168300)
+
 Somut olayda, İlk Derece Mahkemesinin 23.349,80 TL tenkis bedeline hükmettiği 26.02.2019 tarihli kararı, davalı tarafından tenkis miktarı yönünden, davacı tarafından ise sadece vasiyetnamenin iptali yönünden istinaf edilmiştir. Davacı, istinaf başvurusunda tenkis miktarına itiraz etmemiştir. Bölge Adliye Mahkemesince vasiyetnamenin iptaline dair verilen karar, davalının temyizi üzerine Dairemizce vasiyetnamenin geçerli olduğu gerekçesiyle bozulmuştur. Bozma ilamına uyularak Bölge Adliye Mahkemesinin 05.02.2024 tarihli kararı ile, 246.969,03 TL tenkis bedeline hükmedilmiştir. Davalı, 26.02.2019 tarihli kararın davacı tarafından tenkis miktarı yönünden istinaf edilmediği gerekçesiyle, 246.969,03 TL tenkis bedeline hükmedilmesinin usuli kazanılmış hakkın ihlali olduğunu ileri sürerek 05.02.2024 tarihli kararı temyiz etmiş ise de; esasen tenkis miktarı hesaplanırken malın "karar günündeki değerinin" esas alınması, 4721 sayılı Kanun'un 564 üncü maddesinin gereğidir.
 Bu açıdan, 26.02.2019 tarihli kararın anılan maddeye uygun bir karar olduğu için davacının hukuka uygun tenkis miktarını istinaf etmemesi doğal olduğuna göre bu durumda karşı taraf lehine kazanılmış bir hakkın doğduğundan bahsedilemez. Aksinin kabulü, tarafları hukuka uygun kararlara karşı dahi kanun yoluna başvurmak mecburiyetinde bırakacaktır. Bilindiği üzere, kanun yollarına başvurma hakkını da içeren mahkemeye erişim hakkı, mahkemeye başvuru konusunda tutarlı bir sistemin var olmasını gerektirmektedir. ..., B. No: 51307/99, 23/1/2003, § 34).
 
 ## Yargıtay 7. HD 2024/2149 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040723800)
+
 4721 sayılı Türk Medeni Kanunu'nun "Bölünmez Mal Vasiyetinde" başlıklı 564 üncü maddesinin 2 nci fıkrasında "tasarruf konusu malın vasiyet alacaklısında kalması durumunda, malın tenkis sebebiyle vasiyet borçlusuna verilmesi gereken, aksi hâlde tasarruf oranı içinde kalan kısmının karar günündeki değerinin para olarak ödetilmesine karar verilir." düzenlemesi yer almaktadır. Hükmün açık düzenlemesi karşısında, dava konusu ve tenkise tabi taşınmaz yönünden, taşınmazın karar tarihindeki değeri belirlenerek bu değerin sabit tenkis oranıyla çarpımından bulunacak naktin davacıya ödenmesine karar verilmesi gerekirken, davalının tercih hakkını kullandığı 03.10.2013 tarihinde belirlenen değer üzerinden hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2024/375 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1004761400)
 
 …
 
@@ -73,16 +89,22 @@ Bu açıdan, 26.02.2019 tarihli kararın anılan maddeye uygun bir karar olduğu
 
 ## Yargıtay 7. HD 2023/4536 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981344600)
+
 Mahkemece bozma ilamına uyularak yapılan araştırma sonrası, tarafların murisi tarafından tanzim edilen vasiyetname ile davacı saklı payının ihlal edildiğine ve tasarrufun tenkise tabi olduğu benimsenmek suretiyle davanın kabulüne karar verilmesinde bir isabetsizlik yoktur. Buna karşılık, doğru sabit tenkis oranı bulunduktan sonra, tasarrufa konu taşınmaz malların değerinde azalma meydana gelmeksizin sabit tenkis oranında bölünüp bölünemeyeceği hususunun araştırılarak mahkemece bir karar verilmesi gerekirken, bölünebilirlik hususunda hiçbir araştırma ve değerlendirme yapılmaksızın, dava konusu taşınmaz hisselerinin davacının saklı payı oranında ile davacı adına tapuya tesciline karar verilmiş olması doğru görülmemiştir.
 
 TMK'nın 564 üncü maddesi uyarınca, tasarrufa konu malın sabit tenkis oranında bölünüp bölünemeyeceği hususu araştırıldıktan sonra, tasarrufa konu mal bölünebilirse bu kısımların bağımsız bölüm halinde taraflar adına tesciline karar verilmelidir. Tasarrufa konu malın sabit tenkis oranında bölünmezliği ortaya çıktığı takdirde, sözü geçen 564 üncü maddedeki tercih ... gündeme gelecektir. TMK'nun 564 üncü maddesi uyarınca davalıya seçimlik ... mahkemece kullandırılır. Seçimlik hakkının kullandırılması davalı duruşmada hazır ise dilerse tenkisi gereken kısmın değerini ödeyerek malın verilmesini, dilerse tasarruf edilebilir kısmın değerini karşılayan parayı isteyebilir. Davalı duruşmada hazır değil ise tercih hakkının sorulması kendisine bu konuda meşruhatlı davetiye çıkartılmak suretiyle yapılır. Vasiyet alacaklısı davalı kendisine yapılan ihtara rağmen uygun bir süre içinde seçim hakkını kullanmazsa, bu hak saklı paylı mirasçı davacıya geçecektir. Mahkemece bu yönler gözardı edilerek eksik inceleme ile yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2023/4456 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/956620200)
+
 Kararda; tarafların tüm delillerinin toplanması, mirasbırakanın tüm malvarlığının saptanarak, taşınmazların tespitlerine esas tapulama tutanakları ile birlikte dayanak belgelerinin getirtilmesi, mirasbırakan ...'ın zilyetliğinde iken davalılara intikal eden taşınmazların tek tek belirlenmesi, davalıların halalarından ve üçüncü kişilerden edindikleri taşınmazların ayıklanması, mirasbırakan tarafından davacının annesi ...'e zilyetliği devredilen taşınmaz bulunup bulunmadığının duraksamaya yer bırakmayacak şekilde saptanması, ...'e taşınmaz verildiğinin anlaşılması halinde değerinin belirlenmesi, hangi taşınmazların tenkise tabi olduğunun saptanmasından ve tercih ... doğduktan sonra davalılara tercih hakkının kullandırılması, davalılar da mahfuz hisseli mirasçı olduklarına göre saklı payından fazla aldığı miktarın orantılı olarak tenkise tabi tutulması gerekeceğinden sabit tenkis oranının bu esasa göre belirlenmesi ve taşınmazların tercih tarihindeki değeri üzerinden hesabın yapılması, açıklanan hususları da kapsayacak şekilde uzman bilirkişilerden hükme ve denetime elverişli rapor alınması, yukarıda belirtilen ilkeler doğrultusunda araştırma ve inceleme tamamlandıktan sonra hasıl
 olacak sonuca göre karar verilmesi gerekirken, noksan soruşturma ile yetinilerek neticeye gidilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2023/3842 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978636600)
 
 Türk Medeni Kanunu'nun 560 ıncı maddesine göre tenkis alacağının doğması için miras bırakanın tasarruf edebileceği kısmı aşan bir tasarrufun olması gereklidir. Dolayısıyla Türk Medeni Kanunu'nun 564 üncü maddesine göre sabit tenkis oranının belirlenmesi suretiyle tasarruf edilen malın karar tarihine en yakın değerinin belirlenmesine yönelik bir hesaplamanın yapılabilmesi için miras bırakanın ölüme bağlı tasarrufu ile mirasçıların saklı payını alamamış olması gerektiğinden davacıların bu yöndeki temyiz itirazları yerinde değildir.
 
@@ -90,21 +112,29 @@ Türk Medeni Kanunu'nun 560 ıncı maddesine göre tenkis alacağının doğmas�
 
 ## Yargıtay 7. HD 2023/2502 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914690100)
+
 Ayrıca, doğru sabit tenkis oranı bulunmadan yapılan (Türk Medeni Kanunu'nun 564 üncü maddesinde düzenlenen) tercih de sonuç doğurmayacaktır (Gençcan Ömer Uğur, Miras Hukuku, 5. Baskı, Yetkin Yayınları, Ankara, 2021, s. 723). Davalıların murisi ..., muris ...'nın saklı paylı mirasçısıdır. Bu nedenle, Türk Medeni Kanunu'nun 561 inci maddesinde düzenlenen saklı paylı mirasçıların, saklı paylarını aşan kısım ile orantılı olarak tenkisten sorumlu olacaklarına ilişkin kurala uyulmalıdır. Bir diğer ifadeyle, ...'ya yapılan kazandırma tutarından kendi saklı payı düşüldükten sonra bulunacak miktar tenkise tâbi tutulmalıdır.
 
 5\. 11.11.1994 gün ve 4/4 sayılı İçtihadı Birleştirme Kararı uyarınca süratle dava konusu olup sabit tenkis oranına göre bölünemeyen malın, karar tarihindeki rayice göre değeri belirlenmeli ve bu değerin sabit tenkis oranıyla çarpımından bulunacak nakdin ödetilmesine karar verilmelidir. Mahkemece belirtilen hususlara dikkat edilmeden karar verilmesi doğru görülmediğinden hükmün bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2023/947 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884271500)
+
 Her ne kadar 01.01.2002 tarihinde yürürlüğe giren 4721 sayılı Türk Medeni Kanunun 564. maddesinin ikinci fıkrasında malın vasiyet alacaklısında kalması durumunda karar günündeki değerinin ödetilmesine karar verileceğinin düzenlendiği, mirasbırakan Müşerref Özgeçen'in ise 11.05.2008 tarihinde öldüğü gözetilerek tenkis alacağının tercih hakkı tarihindeki fiyatlara göre değil 4721 sayılı TMK'nın 564. maddesi uyarınca karar tarihindeki fiyatlara göre hesaplanması gerekir ise de bu hususa yönelik taraflarca itiraz edilmediğinden bozmayı gerektirmemiştir.
 
 ## Yargıtay 7. HD 2022/7193 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858284800)
 
 Tasarrufa konu malın sabit tenkis oranında bölünmezliği ortaya çıktığı takdirde, 564. maddedeki tercih ... gündeme gelecektir. Böyle bir durum ortaya çıkmadan, diğer bir anlatımla davalının tercih ... doğmadan, bu hakkın kullanılması söz konusu olamaz. Buna bağlı olarak daha önce bir tercihten söz edilmiş olsa bile bu tercih sonuç doğurmaz. O zaman davalıdan tercihi sorulmalı ve 11.11.1994 günlü 4/4 sayılı içtihadı birleştirme kararı uyarınca süratle dava konusu olup sabit tenkis oranına göre bölünemeyen malın, karar tarihindeki rayice göre değeri belirlenmeli ve bu değerin sabit tenkis oranıyla çarpımından bulunacak naktin ödetilmesine karar verilmelidir.
 
 Somut olaya gelince; mahkemece bozma ilâmı doğrultusunda tenkis araştırması yapılmış, davalı taraf tercih hakkını taşınmazın aynından yana kullandığından davacı tarafa ödenecek tenkis alacağının hesaplanmasına yönelik bilirkişiden güncel değerler uyarınca ek rapor alınmıştır. Dosya kapsamına sunulan 12.12.2021 tarihli raporda, tenkise tâbi 3 adet bağımsız bölümde muris ...’nin 1/2’şer pay sahibi olduğu dikkate alınmaksızın taşınmazların tüm değeri üzerinden tenkis alacağı hesaplandığı, bu nedenle davalının ödemesi gereken bedelin hataen yüksek gösterildiği anlaşılmıştır. Ayrıca dava her ne kadar vasiyetnamenin iptali talebi ile açılmışsa da bozma sonrası tenkis yargılaması yapıldığından davacı lehine nispi vekalet ücreti takdiri gerekirken maktu vekalet ücretine hükmedilmesi de doğru görülmemiş ve bu hususlar hükmün bozulmasını gerektirmiş ise de, yeniden yargılama yapılmasını gerektirmediğinden, Hukuk Usulü Muhakemeleri Kanunu'nun 438/7. maddesi gereğince hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2022/4336 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790255300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, ikinci kademede tenkis istemine ilişkindir.
 
@@ -115,6 +145,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, ikinci k
 11.11.1994 tarih, 4-4 sayılı Yargıtay İçtihadı Birleştirme Kararı'nda da belirtildiği üzere tenkis alacağı tercih hakkının kullanıldığı tarihte muaccel hale geleceğinden faize tercih hakkının kullanıldığı günden geçerli olmak üzere hükmedilmesi gerekir.
 
 ## Yargıtay 7. HD 2022/4044 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795546500)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali, olmadığı takdirde tenkis isteğine ilişkindir.
 
@@ -128,6 +160,8 @@ Yukarıda değinilenler ışığında; hüküm altına alınan tenkis alacağı,
 
 ## Yargıtay 1. HD 2021/2453 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680716500)
+
 Dava, tenkis isteğine ilişkindir.
 
 …
@@ -138,6 +172,8 @@ Hal böyle olunca,temliklerin saklı payı zedeleme kastı ile yapılıp yapılm
 
 ## Yargıtay 1. HD 2021/303 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/658234800)
+
 Dava, tenkis isteğine ilişkindir.
 
 …
@@ -145,6 +181,8 @@ Dava, tenkis isteğine ilişkindir.
 Hal böyle olunca; hükmüne uyulan önceki bozma kararında değinilen hususlar gözetilmek suretiyle öncelikle miras bırakanın aktif ve pasif terekesinin sağlıklı olarak tespit edilmesi, ondan sonra uzman bilirkişi marifetiyle doğru bir şekilde sabit tenkis oranı belirlenerek çekişmeli taşınmazların belirlenen sabit tenkis oranında bölünüp bölünemeyeceği araştırılmalı, bölünmesi mümkün ise taraflar adına tesciline karar verilmesi, bölünmesi mümkün değil ise davalı tarafa bu aşamada Türk Medeni Kanunu'nun 564. maddesi gereğince tercih hakkının hatırlatılması, ondan sonra 11.11.1994 günlü 4/4 sayılı içtihadı birleştirme kararı uyarınca süratle sabit tenkis oranına göre bölünemeyen malın, tercih hakkının kullanıldığı gündeki fiyatlara göre değerinin belirlenmesi, önceki bozma ilamında değinilen ilkeler gözetilerek eksiksiz bir şekilde araştırma ve incelemenin tamamlanması ve hasıl olacak sonuç çerçevesinde bir karar verilmesi gerekirken noksan soruşturma ile yetinilip hatalı bilirkişi raporu esas alınmak suretiyle bulunan miktarın tenkisine karar verilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2020/4456 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609701700)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -156,6 +194,8 @@ Ne var ki, bu husus yeniden yargılama yapılmasını gerektirmediğinden; hükm
 
 ## Yargıtay 1. HD 2020/3915 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599660600)
+
 Dava, tenkis isteğine ilişkindir.
 
 …
@@ -164,6 +204,8 @@ Davanın kısmen kabulüne ilişkin olarak verilen karar Dairece, "mahkemece, ö
 
 ## Yargıtay 1. HD 2020/3188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648647600)
+
 Vasiyetnamenin iptal şartlarının bulunmadığından iptal yönünden davanın reddine, tenkis yönünden ise davanın kabulü ile tercih hakkına göre 69.004,78 TL’nin davalıdan alınarak davacıya verilmesine, vasiyetnameye konu taşınmazların muris adına olan tapu kayıtlarının iptali ile davalı ... adına tesciline ilişkin olarak verilen karar, Yagıtay 3. Hukuk Dairesi tarafından “... Dosyadaki yazılara kararın dayandığı delillerle kanuni gerektirici sebeplere ve özelliklede delillerin takdirinde bir isabetsizlik görülmemesine göre, davacı tarafın iptale yönelik temyiz itirazlarının reddi ile iptal yönünden kurulan hükmün Onanmasına, tenkis istemine yönelik temyiz itirazlarının incelenmesinde;...Somut olayda; mahkemece, sadece vasiyetnamede davalıya bırakılan taşınmazların tapu kayıtları celbedilmiş, keşif bu taşınmazlar üzerinde yapılmış buna göre tenkis hesabı belirlenmiştir (Muris vasiyetnamede;
 
 …
@@ -171,6 +213,8 @@ Vasiyetnamenin iptal şartlarının bulunmadığından iptal yönünden davanın
 bunların dışında kalan tüm mal varlığımın diğer mirasçıların arasında kanuni hisseleri oranında paylaşmalarını istiyorum" şeklinde beyanda bulunmuştur). Vasiyet edilen taşınmazlar dışında diğer taşınmazlarının bulunup bulunmadığı hususlarında ilgili tapu sicil müdürlüğüne müzekkere yazılmamış deliller tam olarak toplanmamış, tenkise yönelik olarak terekenin tamamı belirlenmeden eksik inceleme ve araştırma ile hüküm kurulmuştur. Bu şekilde hüküm kurulması bozma nedenidir.” gerekçesiyle bozulmuş, bozmaya uyularak yapılan yargılama sonucunda vasiyetnamenin iptali talebinin reddine, tenkis talebinin kısmen kabulüne, fazlaya ilişkin talebin de reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2019/3913 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519375800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali, olmadığı takdirde tenkis isteğine ilişkindir.
 
@@ -181,17 +225,23 @@ Somut olaya gelince; her bir davacının saklı payına tecavüz miktarının da
 
 ## Yargıtay 3. HD 2019/1902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493089600)
+
 Davalılar, mirastan ıskat sebebini ispat edemediğinden TMK'nun 512/3. maddesi gereğince mirastan ıskatın miras bırakanın tasarruf nisabı oranında geçerli olması gerekir. Başka bir ifadeyle tasarruf nisabı sınırları içerisinde geçerli olmak üzere vasiyetnamenin ıskatına ilişkin bölümün hükümsüzlüğüne karar verilerek davacıların saklı payını talep edebileceği ve davaya tenkis davası olarak devam edileceği düşünülmeden yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 Bu durumda, mahkemece yapılacak iş; TMK.nun 512/3.maddesi gereğince, mirasçılıktan çıkarmaya yönelik ölüme bağlı tasarrufun davacı mirasçının saklı payının tasarruf nisabı oranında yerine getirilerek davaya TMK.nun 564. vd. maddelerinde açıklanan tenkis davası olarak devam edilmek suretiyle murisin terekesinde bulunan tüm aktif ve pasifinin belirlenmesinden sonra uzman bilirkişiden alınacak rapor sonucuna göre hüküm kurmak gerekirken bu hususun değerlendirilmemesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2019/1764 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488819800)
+
 Tenkis isteminin kabulüne dair verilen karar Yargıtay 2. Hukuk Dairesince; “...davalının aşağıdaki bendin dışında kalan temyiz itirazları yersizdir. Davalıya hibe edilen 787 parselin ifraza tabi tutulduğu ve 1269 ve 1270 parseller oluştuğu halde ifraz parsellerinin yanında 787 parselin bedelinin mükerrer olarak terekeye ilavesi usul ve yasaya aykırıdır. Yine, 430 parsel sayılı taşınmaz kamulaştırıldığına göre, Türk Medeni Kanununun 508. maddesi gereğince, davalının almış olduğu bedelin tespiti ile bu miktarın davalıya yapılan kazandırma kapsamında tereke hesabına dahil edilerek, tasarruf nisabı ve saklı payın hesaplanması gerekirken açıklanan yönlerin gözetilmemesi isabetsizdir. Ayrıca, Türk Medeni Kanununun 503. maddesi gereğince, davalının saklı payının ona yapılan kazandırmadan düşülmemesi de doğru değildir” gerekçesiyle bozulmuş mahkemece bozmaya uyularak davanın tenkis isteği yönünden kabulüne dair verilen karar, bu kez Dairece ‘’...kamulaştırmaya konu 430 parsel sayılı taşınmaz yönünden davalının kamulaştırma nedeniyle almış olduğu bedelin davalıya yapılan kazandırma kapsamında tereke hesabına dahili yapılmamıştır.
 Ayrıca, çekişmeye konu edilen taşınmazların temlike konu edilen paylar bakımından değerlendirmeye esas alınmamış olması da isabetsizdir. Öyle ise, HUMK.nun 275. maddesi hükmü dikkate alınmayarak bozma doğrultusunda işlem yapılmadan karar verilmiş olması doğru değildir. ‘’ açıklaması ile bozulmuş ve bozmaya uyma kararı sonucu davanın kabulüne ilişkin karar Yargıtay 16.
 Hukuk Dairesince ‘’...Davalıya temlik edilen taşınmazların ölüm tarihi esas alınarak değerlerinin belirlenmesi, temlikten sonra kamulaştırılan 430 parsel sayılı taşınmaz yönünden ise TKM.'nin 508. maddesi uyarınca iyi niyetli kabul edilen davalının yalnız mirasın açıldığı gün elinde olan bedelle yani taşınmazın kamulaştırılması nedeniyle almış olduğu kamulaştırma bedelinin temlik edilen tereke olarak dikkate alınması, tasarruf nisabı ve saklı payın bu esaslar çerçevesinde hesaplanması doğru olmakla birlikte, davacının ölüm tarihi esas alınarak hesaplanan saklı payını kamulaştırma bedelinden elde ettiği, paranın ise bölünmesinin mümkün olduğu belirtilerek, temlik edilen taşınmazlar dikkate alınmadan, sabit tenkis oranı belirlenip davalıya tercih hakkı kullandırılmadan ve miras bırakanın kazandırmada bulunduğu mirasçı da mirasta saklı pay sahibi olup, davalının kendisine yapılan kazandırmadan saklı paydan fazlası ile sorumlu olacağı gözetilmeden, ölüm tarihindeki değerler esas alınarak hesaplanan saklı payın davalıdan tahsiline karar verilmesi isabetsiz olmuştur’’ gerekçesiyle bozulmuş mahkemece bozma ilamına uyularak davanın kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2017/6834 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385656000)
 
 Dava, ehliyetsizlik hukuksal nedenine dayalı tapu iptali-tescil, olmazsa tenkis isteğine ilişkindir.
 
@@ -200,6 +250,8 @@ Dava, ehliyetsizlik hukuksal nedenine dayalı tapu iptali-tescil, olmazsa tenkis
 Ne var ki, mirasbırakanın ölüm tarihi itibariyle davada 4721 sayılı TMK hükümlerinin uygulanması gerekeceğinden, TMK'nın 565. maddesi yollamasıyla 564/2. maddesi uyarınca tasarrufa konu taşınmazın ölüm tarihindeki değerinin karar tarihi itibariyle güncellenmiş miktarına sabit tenkis oranı uygulanmak suretiyle bulunacak miktar üzerinden tenkise karar verilmesi yerine, taşınmazın keşif tarihindeki değeri üzerinden hesaplama yapılması isabetsizdir.
 
 ## Yargıtay 1. HD 2017/4648 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/377896700)
 
 Dava, vasiyetnamenin iptali, olmazsa tenkis; birleştirilen dava, vasiyetnameden kaynaklanan alacak isteklerine ilişkindir.
 
@@ -210,6 +262,8 @@ O halde, bozma kararında işaret edildiği üzere asıl davadaki tenkis isteği
 Diğer taraftan, asıl davada verilecek olan(murisin tasarruf nisabının davalı ...'na verilmesi) karar ile ... ... hakkındaki birleşen davanın konusuz kalacağı gözetilerek, birleşen davada ... ... yönünden hüküm kurulmasına yer olmadığına karar verilmesi gerektiğinin düşünülmemesi de isabetsizdir.
 
 ## Yargıtay 3. HD 2015/12045 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146339800)
 
 Tasarruf edilebilir kısmın hesabı, TMK'nun 507. maddesinde açıklanan yöntem ve hesaplanan parasal miktarda saklı pay sahibi mirasçıların saklı paylarına düşen miktar belirlendikten sonra sabit tenkis oranı bulunup, tenkise konu olan mala sabit tenkis oranı uygulanmaktadır.
 

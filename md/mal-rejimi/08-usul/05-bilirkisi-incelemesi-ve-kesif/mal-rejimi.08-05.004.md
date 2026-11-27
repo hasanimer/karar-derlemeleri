@@ -22,80 +22,118 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2015/13689 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/156497000)
+
 O halde; mahkemece yapılacak işlem, tarafların çalışma ve gelirlerine ilişkin kayıt ve belgelerin eksiksiz olarak getirtilmeli (... kayıtları, gelirlerine ilişkin varsa diğer belge ve delillerin getirtilmesi), sonra tüm deliller birlikte değerlendirilmek suretiyle, eşlerin alışkanlıkları, ekonomik ve sosyal statüleri gözönünde bulundurularak yapabilecekleri kişisel harcamalar ile davalı kocanın 743 sayılı TKM'nin 152. maddesi uyarınca evi geçindirme yükümlülüğü sonucu yapması gereken harcamalar çıkarıldıktan sonra yapabilecekleri muhtemel tasarruf miktarının belirlenmesi ile taşınmazın edinildiği ve iyileştirildiği tarihe kadar olan herbirinin muhtemel tasarruf miktarına göre taşınmazın alınmasına ve varsa iyileştirilmesine yapmış oldukları katkı oranının tespiti ile davacının bu şekilde belirlenecek katkı oranının taşınmazın dava tarihi itibariyle rayiç (sürüm) değeri ile çarpımı sonucu bulunacak miktarı katkı payı alacağı olarak hükmetmekten ibarettir.
 Bu amaçla mahkemece daha önce görev yapan bilirkişi(ler)den, gerektiğinde ek rapor alınarak sonucu gidilmeye çalışılması; bu şekilde sonuç alınamadığı takdirde ise yeniden keşif ve bilirkişi incelemesi yapılarak rapor alınmasının düşünülmesi; tarafların gelirlerinin belirlenememesi nedeni ile bilirkşilerce bir katkı oranının hesaplanamaması durumunda ise, hakim tarafından bizzat, hayatın olağan akışı kapsamında davacının katkı oranının hakkaniyete göre uygun bir oran olarak takdiri, (TMK m. 4,5; TBK m. 50,51) ile taşınmazın dava tarihindeki rayiç değerine bu oranın çarpımı ile katkı payı alacağı miktarının hesaplanması yoluna gidilmesi; davacının alacağa faiz uygulanması talebi bulunduğu takdirde de yasal faizin dava tarihinden başlatılacağının gözetilmesi şeklinde olmalıdır. Mahkemece katkı payı alacağına hükmedilmiş ise de; yukarıda açıklanan şekilde bir inceleme yapılmadan karar verilmiştir. Bu nedenle, mahkemece açıklanan yönde araştırma ve inceleme yapılarak gerçekleşecek sonucuna göre bir karar verilmesi gerekirken; eksik incemeyle yazılı şekilde karar verilmesi, usul ve yasaya aykırı olmuş; bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2015/13292 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/155446500)
+
 Davada 10 yıllık zamanaşımı süresinin geçmediği anlaşıldığına göre Mahkemece yapılması gereken iş; taraf delilleri, dosya arasına getirtilen belgeler ile az yukarıda açıklanan hususları da dikkate alarak davacının gerek 17 numaralı mesken gerek ......... plakalı motosikletle ilgili katılma alacağının ne miktarda olduğunu belirlemek, bu belirlemeyi yaparken dava konusu taşınmaz ve motosikletin bozma sonrası yeni karar tarihine en yakın güncellenmiş sürüm değerini bilirkişi aracılığı ile tespit ettirmek, motosiklet için belirlenecek değeri artık değer kabul etmek, taşınmaz için ise davalıya kardeşi ve babasının bankadan çekerek katkıda bulundukları toplam 122.606 TL'nin 195.000 TL alım değeri karşısındaki oranını davalının kişisel malı saymak, taşınmazın yeni güncellenecek değerini de dikkate alarak artık değeri ve bu değerin yarısına isabet eden katılma alacağını bulmak, gerekirse bu hesaplamada konusunda uzman bilirkişiden yararlanmak, gerekçeli ve hüküm kurmaya elverişli rapor almak olmalıdır.
 
 ## Yargıtay 8. HD 2015/12268 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/151972900)
 
 Mahkeme tarafından alınan 22.08.2013 tarihli bilirkişi raporunda mal rejiminin sona erdiği tarihte hesapta bulunan para dikkate alınarak davacının 473,35 TL katılma alacağı olduğu bildirilmiştir. ..... numaralı banka hesabı ile ilgili Ziraat Bankasından alınan cevabi yazı ve ekindeki belgelerde, 3421059-5021 numaralı.......'a ait hesabın 23.06.2010 kapama bakiyesinin faizi ile birlikte 1.400.000 TL olduğu, 5021 numaralı hesabın 13.01.2010 tarihinde açıldığı, bu hesaba 1.375.000 TL.nin 5001 numaralı hesaptan aktarıldığı görülmüştür. Mahkeme tarafından ise, bankadaki mevduat hesabının 1.400.000 TL olmasına rağmen bilirkişinin maddi hata ile değerlendirme yaptığı kabul edilerek, taleple bağlı şekilde 400.000 TL.ye hükmedildiği açıklanmıştır.
 
 ## Yargıtay 8. HD 2015/11379 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/156752700)
+
 O halde, dava konusu aracın edinme tarihi itibariyle “edinilmiş mal” kabul edilerek davacının katılma alacağı hususunda gerektiğinde keşif ve hesap bilirkişi incelemesi yapılması, hesap sonunda davacının katılma alacağı çıktığı takdirde buna hükmedilmesi gerekir.
 
 ## Yargıtay 8. HD 2015/10317 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/152431200)
 
 Alacak talebine konu taşınmazın 2000 yılında 10.000 TL. bedelle satın alınıp, eşlerden davalı (koca) adına tescil edildiği yanlar arasında çekişmesizdir. Toplanan delillerden; satış bedelinin 7.000 TL miktarının davalının evlenmeden önceki kişisel malvarlığından karşılandığı, 3.000 TL miktarın ise her iki eşin ortak katkısıyla karşılandığı anlaşılmaktadır. O halde, taşınmazın dava tarihindeki sürüm (rayiç) değerinin (3/10) oranındaki miktarının yanların ortak katkısıyla ödendiği benimsenerek; bu orana karşılık gelen miktarda yanların gelir/birikim koşullarına uygun adil ve hakkaniyete uygun (TMK.m.4) bir katkı oranının tespiti için gerektiğinde keşif ve bilirkişi incelemesi yapılması, bilirkişi bir oran tespit edemediği taktirde bizzat hakim tarafından bu oranın taktiri ile gerçekleşecek sonucu uyarınca bir karar verilmek üzere, hükmün bozulması gerektiğini düşünüyor; Değerli çoğunluğun onama kararına katılmıyorum.
 
 ## Yargıtay 8. HD 2015/9449 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/395844200)
+
 Konusu taşınmazın dava tarihindeki değeri bilirkişi marifetiyle tespit ettirilerek ve tarafların yapabilecekleri tasarruf oranı göz önünde bulundurarak davacı lehine TMK'nun 4. maddesinde öngörülen hukuk ve hakkaniyet ilkesine uygun katkı payı alacağı belirlenmesi gerekirken yazılı gerekçe ile hüküm tesisi isabetli olmamıştır.
 
 ## Yargıtay 8. HD 2015/8283 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/152803300)
 
 Evlilik boşanmayla sona ermiş , taraflar arasındaki mal rejimi boşanma dava tarihi olan 11.01.2008 tarihi itibariyle sona ermiştir (TMK.nun 225/2). Sözleşmeyle başka mal rejimi seçilmediğinden, eşler arasında evlenme tarihinden 01.01.2002 tarihine kadar mal ayrılığı (TKM'nin 170.m.), bu tarihten mal rejiminin sona erdiği boşanma davasının açıldığı tarihe kadar ise, yasal edinilmiş mallara katılma rejimi geçerlidir (TMK.nun 202, 4722 sayılı Yasa'nın 10.m.). Tasfiye alacağı hesabına dahil edilmesi sebebiyle hükmedilen alacak kapsamında kalan 856 parsel sayılı taşınmaz üzerinde .... Bankası lehine 04.04.2015; 2199 ve 2976 parsel sayılı taşınmazlar üzerinde de ....Bankası lehine 02.12.2003 tarihli ipotekler mevcut olduğu ve bu ipoteklerin boşanma dava tarihi itibariyle devam ettiği anlaşılmaktadır. Bir taşınmazın ipotekli ve ipoteksiz değeri arasında fark olacağı açıktır.
 Bu nedenle ilgili bankalardan ipoteğe konu borcun ödenip ödenmediğinin sorulması, ipotek belgelerinin getirtilmesi, ipoteğin bağlı olduğu borcun ödenmediğinin tespit edilmesi halinde, hükmedilen alacağın tespitine esas alınan keşif tarihleri ( 856 parsel sayılı taşınmaz için 15.05.2012, 2199 ve 2976 parsel sayılı taşınmazlar için 16.03.2012) itibariyle taşınmazların ipotekle yükümlü değerleri için bilirkişiden ek rapor alınması veya gerektiğinde yeniden keşif ve hesap bilirkişisi incelemesi yaptırılması; böylece katılma alacağı miktarının hesaplanması gerekirken; eksik inceleme ile bu konuda yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2015/8282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/152809300)
+
 O halde, dava konusu taşınmazın edinme tarihi itibariyle edinilmiş mal kabul edilerek davacının katılma alacağı hususunda gerektiğinde keşif ve hesap bilirkişi incelemesi yapılması, hesap sonunda davacının katılma alacağı çıktığı takdirde buna hükmedilmesi gerekirken, mahkemece edinmenin bağışlamaya dayandığı ve mal varlığının davalının kişisel malı olduğu gerekçesiyle davanın reddine karar verilmesi isabetsiz olmuş bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2015/8281 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/152811800)
 
 Bir eşin 01.01.2002 tarihinden sonra iktisap edilen bütün malları aksi ispat edilinceye kadar kural olarak, edinilmiş maldır (TMK. m. 222/son). Tasfiyeye girecek malvarlığı kural olarak, mevcut olan malvarlığıdır (TMK. m. 228/1). Kötüniyetle elden çıkardığı kanıtlanmadıkça edinilmiş malvarlığının bir eş tarafından sarf edilmiş olması onu diğer eşe karşı borçlu kılmaz (TMK. m. 229). Bu bakımdan davalı eşe ait banka hesap kayıtları getirtilmiş ise de; bunun üzerinde bir bilirkişi incelemesi yaptırılıp, boşanma dava tarihi (tasfiye tarihi) olan 30.05.2006 tarihi itibariyle mevcut olup olmadığı, boşanma dava tarihinden kısa bir süre önce çekilip hesabın kapatılıp kapatılmadığı, sırf diğer eşin katılma alacağını azaltmak ve/veya ortadan kaldırmak için kötüniyetle sarf edilmiş olup olmadığı incelenip değerlendirilmemiştir.
 Bu nedenle davalı kadının bildirdiği banka hesapları üzerinde yetinilmeyerek davacının da bildirdiği banka kayıtları üzerinde bir bankacı ve bir hesap bilirkişisi atanarak bu yönde inceleme yapıtırılması davacının katılma alacağının bulunmadığının belirlenmesi ve gerçekleşecek sonuca göre karar verilmesi gerekirken; bu konuda yazılı şekilde karar verilmesi isabetli olmamıştır, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2015/6541 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/154181300)
+
 Tüm bu açıklamalara göre, öncelikle davacının kıdem tazminatını hak ettiği işyerindeki çalışmasını ve süresini gösteren belgeler bulunduğu yerden getirtilerek dosya arasına konulmalıdır. Bundan sonra, konusunda uzman bilirkişi ya da bilirkişilerden de yararlanmak suretiyle, kıdem tazminatının edinilmiş ve kişisel mal olan bölümlerinin oranları belirlenmeli, bu belirlemeden sonra, kıdem tazminatı da kullanılarak para ilave etmek suretiyle 40.000 TL'ye satın alındığı kabul edilen dava konusu taşınmazın edinilmesindeki kişisel ve edinilmiş mal oranları ayrı ayrı tespit edilmeli, bulunan oranlar dava konusu taşınmazın tasfiye tarihindeki (karara en yakın) sürüm değeri ile çarpılarak her bir eşin artık değere katılma ve değer artış payı alacakları saptanarak talep hakkında bir karar verilmelidir.
 
 ## Yargıtay 8. HD 2015/4270 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/158416400)
 
 Tüm bu açıklamalar ışığında 1085 ada 36 parsel üzerindeki 3 katlı apartman ve 137 ada 5 parsel üzerindeki dükkan ile ilgili katılma alacağının usulüne uygun olarak zamanaşımı süresi içerisinde ıslah edilen dava ile ilgili olarak yapılan keşif neticesinde düzenlenen bilirkişi raporu göz önünde bulundurularak davanın kabulüne 67 ada 15 parsel yönünden ise az yukarıda belirtilen araştırmalar yapıldıktan sonra karar verilmesi gerekirken yazılı gerekçeyle hüküm kurulması doğru olmamıştır.
 
 ## Yargıtay 8. HD 2015/3283 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/154358000)
+
 Öte yandan, uyulan bozma ilamında belirtildiği üzere, davalının 21.12.1993 tarihinde başlayan ve halen devam eden ...i'ndeki üyeliğinin 01.01.2002 tarihine kadar geçen ödemelerinde davacı kadının çalışarak elde etmiş olduğu gelirle katkıda bulunduğu ve 01.01.2002 tarihinden sonra yapılan ödemelerin ise edinilmiş maldan karşılandığı sabit olup bozma ilamı doğrultusunda, tarafların geliri, yapılan ödemeler ve ödemelerin tarihi dikkate alınarak dosyanın hukukçu bilirkişi ve mali müşavir bilirkişiden oluşan heyete tevdi edilerek yargıtay denetimine uygun gerekçeli rapor temin edilip sonucuna göre bir karar vermek gerekirken, eksik inceleme ve araştırma ile yazılı şekilde hüküm kurulması da doğru değildir.
 
 ## Yargıtay 8. HD 2015/1085 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/156230000)
 
 Dava konusu ...nin dosyaya getirtilen belgelere göre evlilik birliği içinde kurulduğu ve edinilmiş mal olduğu, mali müşavir bilirkişi tarafından düzenlenen 13.05.2013 ve hesap bilirkişisi tarafından düzenlenen 27.12.2013 tarihli raporlardaki açıklamalar karşısında 14.06.2007 tarihinde davalı adına edinilen ve mal rejiminin sona erdiği tarihte halen davalı adına mevcut bulunan % 97,60 hissenin katılma alacağına esas artık değer miktarının 433.469,71 TL ve buna göre katılma alacağının yarı oranda 216.734,85 TL olarak belirlenmesinde bir isabetsizlik yoktur.
 
 ## Yargıtay 8. HD 2015/1019 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/155552600)
+
 Dava konusu 1432 parsel 1431-B numaralı mesken niteliğindeki taşınmaz davalının kooperatif üyeliği sonucunda edinilmiş olup 22.05.2000 tarihinde başlayan üyelik 26.07.2005 tarihinde üçüncü kişiye devir sonucunda son bulmuştur. Mahkemece 01.01.2002 tarihinden devir tarihine kadar yapılan aidat ödemeleri esas alınarak bilirkişi tarafından düzenlenen rapora itibar edilerek 148.700 TL katılma alacağına hükmedilmişse de, raporda davacı lehine karar verilmesi gereken miktar 50.400 TL olarak belirtilmesine rağmen hangi nedenle 148.700 TL'ye hükmedildiği, başka bir anlatımla bu miktara nasıl ulaşıldığı açık değildir. Hükmün davalı tarafından temyiz edilmiş olması nedeniyle yeniden kurulacak hükümde kısa karar altına alınacak miktarın 148.700 TL'yi aşamayacağı dikkate alınarak, gerekirse bilirkişiden de yeniden rapor alındıktan sonra sonucuna göre denetime elverişli bir hüküm kurmak gerekirken yazılı şekilde karar verilmesi bozmayı gerektirir.
 
 ## Yargıtay 8. HD 2014/22097 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98776400)
 
 Hal böyle olunca mahkemece mesken bakımından yapılması gereken iş; meskene katkının minibüsün çalıştırılması ile elde edilen gelirlerle yapıldığı iddia ve ispat edildiğine göre, bilirkişi raporundaki bir takım hesaplamalar dikkate alınmaksızın, her iki taraf için minibüsün çalıştırılması ile elde edilen gelirler, ayrıca, davalının şoförlük yaparak elde ettiği gelir birlikte düşünülerek TKM’nin 152.maddesi de gözetilmek suretiyle tarafların tasarruf edebilecekleri miktar ve neticede davacının katkı payı oranının bulunması, bu oranın meskenin bilirkişi raporu ile belirlenen dava tarihindeki piyasa rayiç değeri 98.000 TL ile çarpılarak davacının katkı payı alacağının belirlenmesi, bu belirlemede gerekirse hakkaniyet ve fedakarlığın denkleştirilmesi ilkelerinin de dikkate alınması olmalıdır. Meskenle ilgili iddia ve katkının niteliği dikkate alınmaksızın minibüs için yapılması gereken hesaplamalardan hareketle yazılı şekilde katkı payı alacağına hükmedilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2014/20659 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98816800)
+
 Dava konusu 4011 ada 262 parseldeki 7 numaralı mesken 18.05.1999 tarihinde davalı adına satın alınarak tapuya tescil edilmiştir. Hükme esas alınan bilirkişi raporunda meskenin alım değeri 160.000 TL, dava tarihindeki piyasa sürüm değeri 170.000 TL, davacının ziynet eşyaları ile katkısı 11.585 TL, davalının ailesi tarafından yapılan katkı 4.000 TL olarak dikkate alınmış, davacının çalışarak elde ettiği gelirle yaptığı % 47,60 katkı oranı da birlikte değerlendirilerek yapılan hesaplama sonunda 91.357,25 TL katkı payı alacağı hesaplanmıştır. Alım tarihinde taraflar arasında mal ayrılığı rejimi geçerli olup, az yukarıda açıklanan kural doğrultusunda her iki tarafın evlilik tarihinden alım tarihine kadar elde ettikleri gelirler, tarafların kişisel harcamaları ile davalı kocanın 743 sayılı TKM'nin 152. maddesi uyarınca evi geçindirme yükümlülüğü gözetilerek bulunan davacının % 47,60 katkı oranında bir isabetsizlik yoktur.
 
 ## Yargıtay 8. HD 2014/16369 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/307048900)
 
 Bu halde mahkemece öncelikle, 6100 sayılı HMK'nun 31. maddesi uyarınca hakimin davayı aydınlatma görevi kapsamında davacıdan her bir taşınmaz için ne miktarda katılma alacağı isteğinde bulunduğu açıklattırılmalı, davacı tarafından bu hususta herhangi bir açıklama yapılmaması halinde isteğinin her bir taşınmaz için eşit miktarda olduğu kabul edilmeli, keşif tarihi üzerinden geçen süre dikkate alınarak her iki taşınmaz başında inşaat mühendisi bilirkişi ve mülk bilirkişi vasıtasıyla yeniden keşif yapılıp her iki taşınmazın karar tarihine en yakın tarihteki rayiç değeri (sürüm değeri) belirlenerek, 1 numaralı dükkan yönünden denkleştirmeye tabi tutulacak alacak ve taşınmaza ilişkin borç bulunmadığından TMK 236. maddesine göre bu taşınmazın değerinin yarısına ve 15 numaralı mesken nitelikli taşınmaz yönünden davalının kardeşine olan borç miktarı düşüldükten sonra kalan miktar bulunması halinde, bu miktarın yarısına davacının talep ettiği miktar da gözetilerek karar vermek gerekirken yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 8. HD 2014/16361 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/307040300)
+
 Bu halde Mahkemece, öncelikle dava dilekçesi HMK'nun 31. maddesi gereğince açıklattırılarak, davacının ... plaka sayılı araç ile banka hesalarında bulunan paraya ilişkin isteklerinin tek tek açıklattırılması, davacı tarafça yapılacak bu açıklamadan sonra, 33 HU 444 plaka sayılı aracın sicil kaydı getirtilerek edinilmiş mal olup olmadığı, banka hesaplarının açıldığı tarihten boşanma dava tarihine kadar hareketleri gösterecek şekilde hesap dökümünün ilgili bankadan getirtilerek bankacı, muhasebeci ve hukukçu bilirkişilerden oluşan üç kişilik bilirkişi heyetine tevdi edilerek edinilmiş mal teşkil eden bir miktar bulunup…
 
 ## Yargıtay 8. HD 2014/13125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98822400)
 
 Dosya kapsamı ve dava dilekçesindeki açıklamalara göre; davacı vekilinin talebi taşınmaz üzerindeki katkı payı ve katılma alacağı isteğine ilişkindir. Taraflar evlilik tarihinden itibaren boşanma dava tarihine kadar çalışarak gelir elde etmişlerdir. Davalı adına kayıtlı bulunan taşınmaz bedelinin 743 sayılı TKM'nun yürürlükte bulunduğu dönemde yapılan ödemelerine davacının katkısının bulunduğunun kabulü gerekir.
 Bu döneme ilişkin ödemeler bakımından katkı payı alacağı hesabı yapılırken, tarafların 01.01.2002 tarihine kadarki toplam gelirlerinden tarafların sosyal statüleri ile konumlarına göre yapabilecekleri kişisel harcamaları ile kocanın 743 sayılı TKM'nin 152. maddesi uyarınca evi geçindirme yükümlülüğü uyarınca yapması gereken harcamalar çıktıktan sonra yapabilecekleri tasarruf miktarlarının ne olacağının belirlenmesi, daha sonra toplam tasarruf miktarı karşısında 01.01.2002 tarihine kadarki ödemelere davacı eşin katkı oranının bulunması, bulunan bu oranın dava konusu mal varlığının mal ayrılığı rejimine tabi bölümü bakımından belirlenecek dava tarihindeki değeri ile çarpılarak varsa katkı payı alacağının tespit edilmesi, gerektiğinde hakkaniyet ilkeleri ve fedakârlığın denkleştirilmesi ilkesinin göz önünde tutulması ve davacının katkı payı alacağı konusunda bir karar verilmesi gerekir.
@@ -104,14 +142,20 @@ Temyiz isteyenin sıfatına göre aleyhe temyiz söz konusu olamayacağından bu
 
 ## Yargıtay 8. HD 2014/12283 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98760200)
+
 Bu halde mahkemece, HMK'nun 31. maddesindeki hakimin davayı aydınlatma ödevi kapsamında, davacıdan talep ettiği miktarının ne kadarının taşınmaz ve ne kadarının araca ilişkin olduğu sorulup açıklığa kavuşturulduktan sonra, taşınmaz başında inşaat mühendisi bilirkişi ve emlakçı bilirkişi vasıtasıyla keşif icra edilerek TMK'nun 235/2. maddesi gereğince taşınmazın üçüncü kişiye devredildiği tarihteki değerinin tespit edilip aynı Yasa'nın 236/2. maddesi uyarınca belirlenen bu değerinin yarısının davacının katılma alacağını oluşturduğu gözönünde tutularak bir karar verilmesi gerekirken eksik araştırma ve inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2014/9515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98655000)
 
 Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, mevcut deliller mahkemece takdir edilerek karar verildiğine, alacak hesabına dahil edilen sekiz adet mesken dışında bir araç, Bala’da bir taşınmaz ABD’de bankada 30.000 Dolar paraya ilişkin de talepte bulunulmuş ise de bu malvarlıkları ile ilgili bir delil sunulmadığına, bu malvarlıklarını dikkate almayan bilirkişi raporlarına karşı bir itiraz da yapılmadığına, bilirkişi incelemesinde yer almayan ve Mahkemece olumlu olumsuz bir hüküm kurulmayan bu mal varlığına ilişkin koşulları var ise zamanaşımı süresi içinde mal rejiminin tasfiyesinden kaynaklanan alacak istenebileceğine, bilirkişi raporu ile tesbit edilen karar tarihine en yakın piyasa sürüm değerlerinin usul yasaya uygun şekilde belirlendiğine, edinme tarihleri dikkate alınarak taraflar arasında edinilmiş mallara katılma rejiminin geçerli olduğu gözetilerek katılma alacağı hesabı yapılmasının da yerinde bulunduğuna, tarafların tespit edilen ekonomik ve sosyal durumları, boşanmaya yol açan olaylardaki kusur dereceleri, paranın alım gücü, kişilik haklarına yapılan saldırı ile ihlâl edilen mevcut ve beklenen menfaat dikkate alındığında TMK’nun 174/2.maddesine
 göre davacı yararına takdir edilen manevi tazminatta bir isabetsizlik görülmediğine, maddi ve manevi tazminat alacaklarında faize muaccel hale geldikleri boşanma kararının kesinleştiği tarihten geçerli olarak hükmedilebileceğine göre davacı vekili ile davalı vekilinin aşağıda yazılı hususlar dışındaki diğer tüm temyiz itirazları yerinde görülmediğinden REDDİNE,…
 
 ## Yargıtay 8. HD 2014/6607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/305352600)
 
 Hal böyle iken, davacı kadınının yukarıda açıklandığı üzere markette çalışması ve davalı kocanın da SSK lı olarak düzenli ve sürekli çalışması nedeniyle her iki tarafında kural olarak karşılıklı olarak evlilik birliği içinde fakat 01.01.2002 tarihinden önce edinmiş oldukları malvarlığında katkısının bulunduğu ve 01.01.2002 tarihinden sonra edinilen mal varlığında edinilmiş mallara katılma rejimi çerçevesinde katılma hakları bulunuyor ise de, gerek dava dilekçesinde gerekse de, karşı dava dilekçesinde hangi taşınmaz veya mal varlığı için ne istekte bulunulduğu açık değildir.
 Bu halde mahkemece, öncelikle 6100 sayılı HMK'nun 31. maddesinde düzenlenen Hakimin Davayı Aydınlatma Ödevi gereğince tarafların isteklerinin hangi taşınmaz yada mal varlığına ilişkin ve ne miktarda olduğu taraflardan sorularak açıklattırılmalı, 3474 ada 131 parsel 6 numaralı mesken, 178 ada 53 parsel sayılı büro, 3058 ada 3 parsel sayılı mesken yönünden evlilik tarihinden taşınmazların edinildiği tarihe kadar her iki eşin çalışmalarına, davacı kadının ortak olduğu şirketin defterleri ve bilançosunun getirtilmesi, sözü edilen tüm belgelerin elden getirtilip dosyaya sunulması için taraflara süre ve imkan verilmelsi istenilen belgelerin eksiksiz olarak temin edilmesinden sonra dosya bir mali müşavir ve bir hukukçu bilirkişi ile mülk bilirkişiden oluşacak bir heyete tevdi edilerek her iki eşin evlendikleri tarihten itibaren taşınmazların satın alındığı tarihe kadarki gelirlerinin ayrı ayrı belirlenmesi, eşlerin toplum içerisindeki statüleri ve konumları göz önünde bulundurularak her birinin ayrı ayrı kişisel harcamalarının saptanması, 743 sayılı TKM'nin 152. maddesi uyarınca davacı kocanın evi geçindirme yükümlülüğünden doğan harcamalarının kişisel masraflarına eklenmesi, her eşin
@@ -119,38 +163,54 @@ ayrı ayrı kişisel harcamalarının toplam gelirlerinden ayrı ayrı düşür�
 
 ## Yargıtay 8. HD 2014/1419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/304668900)
+
 Edinilen aracın TMK’nun 219. maddesi gereğince, edinilmiş mal olduğu hususunda bir duraksama bulunmamaktadır. Savunma olarak ileri sürülen 3.000 TL'nin miras parası olarak geldiği dosya kapsamıyla anlaşıldığından TMK’nun 220. maddesi uyarınca, kişisel mal olduğunun kabulü gerekir. Araca yapılan 3.000 TL'lik katkı nedeniyle istenen alacak ise TMK’nun 227. maddesi uyarınca değer artış payı alacağına konu olmaktadır. Ne var ki, aracın alım tarihindeki değeri 25.000 TL olduğu halde, karar tarihi olan 26.12.2012 tarihine en yakın tarih olarak belirlenen 24.9.2012 tarihindeki (keşif tarihi oluyor) değeri uzman bilirkişice 20.000 TL olarak belirlenmiştir. Bu durum karşısında TMK’nun 227/1. fıkrasının son cümlesi gereğince; “…bir değer kaybı söz konusu olduğundan katkının başlangıçtaki değeri esas alınır…” Görüldüğü gibi araçta da değer kaybı söz konusu olup, davacı – davalı ... ancak katkı yaptığı 3.000 TL'yi alabilecektir. Mahkemece, bunun göz ardı edilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2014/980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98553600)
 
 Bu halde Mahkemece yapılacak iş; tarafların iddia ve savunmaları ile tanıkların beyanları dikkate alınarak davalı- karşı davacı kadın ve tarafların murisine ait yurt dışındaki çalışmalarına ilişkin kayıt ve belgeler ile davalı kadının da ortaklarından olduğunu iddia ettiği şirketin taşınmazların edinilme tarihine kadarki gelir ve giderine ilişkin belgeler eksiksiz olarak getirtilmeli, tarafların ekonomik ve sosyal durumları göz önünde bulundurularak kişisel harcamaları ve 743 sayılı TKM’nin 152. maddesi uyarınca kocanın evi geçindirme yükümlülüğü uyarınca yapması gereken harcamalar çıktıktan sonra yapabilecekleri tasarruf miktarının ne olacağının belirlenebilmesi için konunun uzmanı öğretim üyesi, mali müşavir ve mülk bilirkişiden oluşacak bilirkişi kurulundan rapor alınması suretiyle davalı- karşı davacı kadın ile murisin çalışmaları karşılığında elde ettikleri gelirle sağlayabilecekleri katkı miktarı ayrı ayrı saptanmalı, daha sonra toplam tasarruf miktarı karşısında muris M.S. ve davalı- karşı davacı E..
 S..'in ayrı ayrı katkı oranı bulunmalı, bulunan oran taşınmazların dava tarihindeki değeri ile çarpılarak katkı payı alacağı tespit edilmeli, ondan sonra tarafların iddia ve savunmaları doğrultusunda toplanan tüm deliller birlikte değerlendirilerek sonucuna göre bir karar verilmesi gerekirken, yazılı gerekçelerle hüküm kurulması doğru değildir.
 
 ## Yargıtay 8. HD 2013/17513 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/439744100)
+
 Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, mevcut deliller mahkemece takdir edilerek karar verildiğine ve taktirde bir isabetsizlik bulunmadığına, dava konusu 45 HM 852 plakalı aracın edinilmiş mallara katılma rejiminin geçerli olduğu dönemde edinildiği belirlendiğine, tarafların ailelerinden gelen ve aracın alımına katkı yapılan kişisel malların (paraların) mahkemece gözönünde tutularak bilirkişiye hesap yaptırdığına, öte yandan kooperatifin değer tespiti 04.05.2009 tarihinde yapılan keşif ile 60.000,00 TL olarak hesaplanması doğru değil ve karar tarihine yakın bir tarihte değerin belirlenmesi (TMK.m.232,235/1) gerekir ise de, davacı 04.11.2009 tarihli yargılama oturumunda okunan bilirkişi raporuna karşı bir diyeceği olmadığını bildirdiğine, bunun yanında 743 sayılı TMK'nun 190. maddesi bugüne kadar Daire tarafından uygulanmadığı halde Mahkemece hükme esas aldığı uzman bilirkişi raporuna göre bu maddeyi uyguladığı buna bağlı olarak davalı aleyhine fazla miktarda katılma alacağından indirim yapıldığı görüldüğüne, hükmün davalı tarafından temyiz edilmediğine, aleyhe bozma yasağı ve temyiz edilenin sıfatı gözönünde bulundurularak bu nedenle bu husus bozma
 sebebi yapılmadığına, her ne kadar karar tarihi itibarıyla 1.100,00 TL nisbi vekalet ücretinin davacıdan alınarak davalıya verilmesi gerektiği halde bunun yerine 2.640,00 TL’nin takdir edilmesi doğru değil ise de; bu konu HMK'nun 370/2. maddesi gereğince yeniden yargılamayı gerektirmediğinden hüküm fıkrasının 6. nolu bendinde yazılı, “… hesaplanan 2.640,00 TL nisbi vekalet ücretinin davacıdan alınarak davalıya verilmesine..” cümlesindeki “2.640,00 TL rakamının" çıkartılmasına bunun yerine “ 1.100,00 TL rakamının" yazılmasına (bu konuda Avukatlık Asgari Ücret Tarifesinin 12. maddesi gözönünde bulundurularak), bu tür davalarda fedakarlığın denkleştirilmesi ve hakkaniyet kuralının da gözetilmesi gerektiğine, davacı vekilinin tüm temyiz itirazlarının reddi ile HMK'nun 370/2.
 
 ## Yargıtay 8. HD 2013/17011 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438879900)
 
 Mahkeme hakiminin yaptığı hesaplamada, davalının önceki evin satışından geldiği anlaşılan 60.000 TL'nin tamamının davalının kişisel malı olarak hesaba dahil edildiği görülmektedir. Davalıya ait önceki evin satışından gelen paranın dava konusu taşınmazın alımında kullanıldığı taraflarca kabul edilmektedir. Ancak dosyada bulunan havale makbuzu ve banka ekstresinde davalı tarafından davacının babasına ödenmek üzere 55.000 TL havale edildiği, taşınmazın alımında 3.000 TL kapora ve 2.000 TL tapu masrafının ise sunulan komisyon sözleşmesine göre alıcı Birim Genceli tarafından ödendiği belirlendiğine göre alımda 55.000 TL'nin davalının, 5.000 TL'nin ise davacının kişisel malı olarak hesaplamada dikkate alınması gerekir. 60.000 TL'nin tamamının davalının kişisel malı olarak düşünülmesi hatalıdır. Diğer yandan dosyadaki belgelerden davacı tarafından ailesinin Bankadan kredi olarak çektiği 55.000 TL'nin evin tadilatında kullanıldığı iddia edilmiş, davalı ise beyanlarında tadilata 21.000 TL harcandığını bildirmiştir. 18.01.2013 tarihli bilirkişi kurulu raporunda, tadilatla ilgili malzeme ve işçilik giderleri kalem kalem hesaplanarak toplam 34.650 TL olduğu açıklanmıştır.
 Mahkemece, bu tadilat giderlerinin davacının ailesi tarafından çekilen kredi ile karşılandığı ancak çekilen kredinin tümünün tadilat için harcandığı ispat edilemediğinden ayrıntılı bilirkişi kurulu raporundaki tadilat değeri 34.650 TL'nin de davacının değer artış payı olarak hesaplamaya katılması gerekirken tadilatla ilgili harcanan bedel açısından hiçbir hesaplama yapılmaması ve davacının bu talebi ile ilgili de hüküm kurulmaması doğru olmamıştır. Açıklanan ilkelere göre davacı tarafın gerek araç gerekse 28 numaralı meskenle ilgili değer artış payı ve katılma alacağının yukarıda açıklanan hususlar dikkate alınarak hesaplanması, bu hesaplamada gerekirse konusunda uzman bilirkişi veya bilirkişi kurulundan rapor alınması gerekir.
 
 ## Yargıtay 8. HD 2013/16061 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438069200)
+
 Bu halde Mahkemece, dava konusu ........ üyeliğinin karar tarihine en yakın değeri mahallinde yapılacak keşif neticesinde bu konuda uzman inşaat mühendisi ve mülk bilirkişi vasıtasıyla tespit edilmeli, elde edilecek değerden davacı-karşı davalının annesi ve babasının yapmış olduğu ödemeler kişisel mal olduğundan TMK'nun 230. maddesine göre bu değerden düşülmeli ve kalan miktarın yarısına aynı Yasa'nın 236. maddesi gereğince davacının talebi de dikkate alınarak katılma alacağı olarak karar vermek gerekirken yazılı şekilde hüküm kurulması da doğru değildir.
 
 ## Yargıtay 8. HD 2013/15890 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437039900)
+
 25.06.2012 tarihli bilirkişi raporunda her iki tarafın iddia ve savunmaları değerlendirilerek dosya arasına getirtilen belgelerden hareketle kişisel ve edinilmiş mallar usule uygun şekilde belirlenip karar tarihine en yakın değer gözetilerek davacının katılma alacağı 12.400 TL bulunduğuna, Mahkemece usul ve yasaya uygun bilirkişi raporu hükme esas alındığına göre davalı vekilinin konutla ilgili katılma alacağına ilişkin temyiz itirazları yerinde değildir.
 
 ## Yargıtay 8. HD 2013/14461 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84216500)
 
 Toplanan delillere göre davacı S...in Sarıyer’de bulunduğu söylenen taşınmazın satışı ile dava konusu taşınmazın alımı ve üzerindeki binanın yapımına katkıda bulunduğu ispatlandığı dosya arasına getirtilen belgelere göre sigortalı olarak çalıştığı ve dolayısı ile gelir elde ettiği anlaşılan davacının elde ettiği gelirle katkıda bulunduğunun kabul edilmesi, bu sebeple alım ve binanın yapım tarihleri itibarıyla taraf gelirlerinin, tasarruf oranlarının ve TKM’nin 152, maddesinin dikkate alınarak katkı payı oranı ve alacak hesabının yapılması yerindedir. Dava konusu taşınmaz ve üzerindeki binanın dava tarihi itibarıyla piyasa rayiç değeri 145.613,92 TL olarak belirlenmiştir. Birbiri ile oranlanacak taraf gelirleri 09.03.2012 tarihli mali müşavir bilirkişi tarafından da gerek mark gerek elde edildikleri tarihler itibarıyla karşılığı TL olarak tesbit edilmiştir. Hükme esas alınan 16.08.2012 tarihli bilirkişi raporunda da hesaplamada TL olarak belirlenen gelirler dikkate alınarak hesap yapılmış, Selfet’in katkı oranı % 5 olarak bulunmuştur.
 Ancak her iki tarafın hesaplamaya esas alınan sigorta hizmet belgeleri Almanya’daki çalışmalarını gösteren tercüme belgeler olup, getirtilen belgelerde her iki tarafın da çalıştıkları süreler ve sigortalılık sürelerinde elde ettikleri gelirler mark olarak yazılıdır. Mali müşavir bilirkişi, tarafların mark olarak elde ettikleri toplam gelirleri de raporunda bildirmiştir. Bu durumda getirtilen belgelere göre mali müşavir bilirkişi tarafından belirlenen her iki tarafın taşınmazın alım ve binanın yapım tarihine kadar elde ettikleri 153.612,63 mark ile 775.008,30 mark gelirlerinin dikkate alınması gerekirken her bir çalışma yılındaki kur dikkate alınarak karşılığı TL olarak belirlenen toplam 30.253.147,06 TL (eski) ve 1.151.008.772,34 TL'nin (eski) gözetilmesi çalışma süresinin 1991 yılında sona erdiği anlaşılan davacı S... aleyhine, 1994 yılına kadar çalıştığı belirlenen H... lehine hesaplama yapılması, mark gelirlerinin karşılıklı dikkate alınma imkanı olduğu halde döviz kurundan kaynaklanan TL'nin değer kaybının davacı S...’e yüklenmesi, mark olarak belirli taraf gelirlerinin gerçek alım gücünü gösterdiğinin gözetilmemesi doğru olmamıştır.
 Mahkemece, yapılması gereken iş taraflara ait toplam 153.612,63 mark ve 775.008,30 mark gelirlerin katkı oranında gözönünde tutulması tarafların kişisel harcamaları ve davalı H...’in TKM’nin 152. maddesindeki evi geçindirme yükümlülüğü de gözetilerek tasarruf miktarlarının bulunarak karşılıklı birbiri ile oranlanması sonunda bulunacak katkı oranının dava tarihi itibarıyla belirlenen 145.613,92 TL piyasa rayiç değeri ile çarpılarak davacı S...’in katkı payı alacağını tespit etmek, hakkaniyet ve fedakarlığın denkleştirilmesi ilkelerini de göz ardı etmemek olmalıdır. Davacı S...’in temyiz itirazı bu bakımdan yerindedir.
 
 ## Yargıtay 8. HD 2013/12241 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475629300)
 
 Hemen belirtilmelidir ki, kısmi davada fazlaya ilişkin haklarını saklı tutmuş olan davacının, dilerse, ek dava açmak yerine, saklı tuttuğu alacak bölümü için o (kısmi) dava içerisinde harcını yatırmak suretiyle, ........ yoluyla talepte bulunabilmesi de mümkündür (Yargıtay Hukuk Genel Kurulunun 05.03.2003 gün ve 2003/9-76 E.-126 K. sayılı; 18.04.2007 gün ve 2007/15-126 E.-210 K. sayılı Kararları). Somut olayda; mahkemece bozma öncesi hüküm fıkrasında fazlaya ilişkin haklar yönünden olumlu veya olumsuz bir karar verilmemiş ise de, davacı vekili gerek dava dilekçesinde gerekse ........ dilekçesinde fazlaya ilişkin haklarını saklı tutmuştur. Eldeki davanın yargılaması sırasında bilirkişi raporları esas alınarak harcı yatırılmak suretiyle ek dava açılmış, hukuki ve fiile irtibat nedeniyle davalar birleştirilmiştir. O halde; harcı yatırılmak suretiyle açılan ek davanın ikinci ........ olarak değerlendirilmesi ve temyiz edilmeyen önceki hükmün davacı yönünden kesinleştiği şeklindeki değerlendirme yukarıda açıklanan usul ve esaslara uygun bulunmamaktadır.
 Bilirkişi tarafından taşınmaz üzerindeki davacının katkı payı alacağı usulüne uygun olarak belirlendiğine göre, davacının ek dava ile istediği alacak yönünden de davanın kabulüne karar verilmesi gerekirken hatalı değerlendirme sonunda ve davacı aleyhine kesin hüküm oluşturacak şekilde ek davanın reddine karar verilmiş olması hatalıdır.

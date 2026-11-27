@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 43. HD 2023/1019 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045290000)
+
 İlk derece mahkemesince yapılan yargılamada bilirkişi raporları alınmış, bilirkişilerce her iki tarafın ticari defter ve belgeleri incelenmiş, her iki taraf ticari defterlerinde takibe ve davaya konu fatura kayıtlı olup, davacının dava dilekçesinde belirttiği fiyat farkı faturası ve davalı ödemeleri de kayıtlı olup hesaplar arasında mutabakatsızlık bulunmamaktadır. Her iki tarafın ticari defterlerine göre takip tarihi itibarıyla davalının davacıya 3.941,06-TL(4.946,16-EURO)borcu olduğu görülmektedir.Davalı taraf davaya icra takibinde borca itiraz dilekçesinde sözleşmede çift imza yetkili olduğundan borca itiraz etmiş, ilk derece yargılamasında cevap dilekçesinde sözleşmenin gereğinin yerine getirildiğini beyan etmiş, istinaf başvurusunda ise sözleşmedeki imzanın şirketi temsile yetkili üç kişinin imzasının bulunmadığını ve şirketin bu sözleşmeden sorumlu olamayacağını savunmuştur. 6098 sayılı Türk Borçlar Kanunu 1. Maddesi uyarınca sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamalarıyla kurulacağı ve irade açıklaması, açık veya örtülü olabileceği düzenlenmiş olup, satım sözleşmesinin yazılı şeklide yapılması geçerlilik koşulu olmayıp ispat şartıdır.
 Somut olayda davalı şirket sözleşmeyi ve sözleşme kapsamında düzenlenen faturayı benimseyerek ticari defterlerine itiraz ileri sürmeksizin kaydetmiş ve kısmi ödeme de yapmıştır. Buna göre taraflar arasında satım sözleşmesi niteliğinde bir ticari ilişkinin kurulduğu ve davacının dava ve takibe dayanak faturaya konu alacağını ispat etmiş olup, dosya kapsamındaki delillere göre davalı şirket kendi ticari defter kayıtlarının aksini senet veya diğer kesin delillerle ispatlayamamıştır. Bu durumda mahkemece davacının alacaklı olduğu kabul edilerek davanın kabulüne karar verilmesinde bir isabetsizlik görülmemiştir.
 
@@ -59,6 +61,8 @@ A.Ş tarafından %50 si de .... Üretim A.Ş tarafından karşılanacaktır” h
 Davacı vekilinin İlk Derece Mahkemesi kararına ilişkin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## İstanbul BAM 13. HD 2023/900 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898471200)
 
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ: İlk Derece Mahkemesi 11/11/2020 tarih 2020/351 Esas - 2020/800 Karar sayılı kararında;"Dava, munzam zarar talebiyle açılan maddi ve manevi tazminat istemine ilişkindir. Davalı vekili tarafından zamanaşımı talebinde bulunulmuş ise de, icra takibiyle zamanaşımı kesilip, tekrar işlemeye başladığından 10 yıllık zamanaşımı süresi dolmadığından reddine karar verilmiştir.
 
@@ -105,6 +109,8 @@ E. sayılı dosyasında yeniden ödeme emri düzenlenerek davalıya tebliğ edil
 
 ## İstanbul BAM 13. HD 2023/696 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044285900)
+
 Vuku bulan bu eksikliğin 29.835 Kg'lik kısmı ise muafiyet üzerinde kalmaktadır." ifadeleriyle, nakliyeye konu emtianın taşıyanın kusuru ile eksik teslim edildiğinin tespit edildiğini, Yaptırılan eksper incelemesi neticesinde işbu haksız fiil nedeniyle meydana gelen 21.905,47-TL tutarındaki hasar tazminatının, müvekkili şirket tarafından sigortalısına 12.07.2020 tarihinde ödendiğini; hasar tazminatının ödenmesi neticesinde, müvekkili şirket sigortalısının halefi durumuna geçerek kusurlu olan davalı ve dava dışı şirketten rücu talebinde bulunduğunu ancak şirketler tarafından herhangi bir ödeme yapılmaması üzerine, davalı ve dava dışı şirketin borcuna karşılık İstanbul ... İcra Müdürlüğü'nün ... E. Sayılı takip başlatılmış olup borçluların borca itiraz ettiğini; işbu takibin iptali talebiyle yerel mahkemede dava açıldığını, Yerel Mahkemece yapılan yargılama esnasında, ...
 A.Ş. yönünden tefrik kararı verilerek, dosyanın ayrı esasa kaydedildiğini ve sonrasında ise husumet yokluğundan ret kararı verildiğini; hukuki mesnetten yoksun şekilde müvekkili aleyhine tesis edilen karara karşı istinaf yoluna başvurma zaruretinin hasıl olduğundan, istinaf gerekçelerinin aşağıda dairemizin bilgi ve dikkatine sunulacağını, Yerel mahkeme tarafından hasar dosyası istenmeden, deliller tamamlanmadan, eksik delil incelemesi ile karar verilmesinin hukuka aykırı olduğunu, Delil listelerin de açıkça belirtmiş olmalarına rağmen yerel mahkeme tarafından ... sayılı hasar dosyasının celbi gerektiği halde hasar dosyasının celbi için müvekkili şirkete müzekkere yazılmadığını ve hasar dosyası tamamıyla temin edilmediğini; hasar dosyasının bahse konu hasarın tüm evraklarını yazışmalarını ve hasara ilişkin fotoğrafları içerdiğinden dava sürecine etkin rol oynayacağını ancak mahkeme tarafından bu eksiklik giderilmeden karar verilmiş olmasının hukuka ve hakkaniyete aykırı olduğunu; sadece bu hususun bile yerel mahkeme kararının kaldırılmasına yeterli bir istinaf sebebimi olduğunu; nitekim dava dosyasına sunulan evrakların ise incelenmediğini; bu bağlamda ... Tic.
 A.Ş'nin davalı olduğu, davalı vekilinin itiraz dilekçesinde ise bu hususun '' Müvekkil ... TİCARET A.Ş., acente konumundadır.
@@ -121,6 +127,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6
 
 ## Ankara BAM 21. HD 2023/603 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/893110900)
+
 Davalı ... vekili cevap dilekçesinde özetle; açılan davayı kabul etmediklerini, davalının bahsi geçen şirketin ne ortağı ne de yönetim kurulu üyesi olduğunu, SGK kayıtlarından anlaşılacağı üzere davacının 18.02.2013 - 06.05.2014 tarihleri arasında SGK'lı bir çalışanı olup şirketi temsil ve ilzama yetkili olmadığını, davacının 18.02.2013'de kurumsal yönetim ve iç denetim koordinatörü ünvanı ile çalışmaya başladığını, görevi yatırım ilişkisi sorumlusu olan davalının SPK tebliğinde belirlenen görevlerini yönetim kurulu kararları çerçevesinde yerine getirdiğini, TTK 336/2 maddesinde belirtildiği gibi şirkette bir yönetim kurulu üyesi iki bağımsız yönetim kurulu üyesi ile birlikte davalının da yer aldığı kurumsal yönetim komitesi kurulmuş olduğunu, ancak bu komitenin fiilen hiç toplanmadığını, davalının şirket ve şirket hissesini satın alan yatırımcıyı zarara uğratacak herhangi bir fiilinin bulunmadığını belirterek davanın reddini istemiştir.
 
 …
@@ -135,6 +143,8 @@ Davalılar ..., ..., ... ve ... vekilinin istinaf başvurusunun HMK'nın 353/(1)
 
 ## Kayseri BAM 1. HD 2023/590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886950900)
+
 Esas sayılı dosyasından ilamsız icra takibi başlatıldığını, borçlunun borca itiraz ettiğini ve takibin durduğunu beyan ederek, icra takibine yapılan itirazın iptaline, takibin devamına ve takip konusu alacağın % 20'sinden az olmamak üzere icra inkar tazminatına mahkum edilmesine, yargılama giderleri ve vekalet ücretinin karşı tarafa yükletilmesine karar verilmesini talep ve dava etmiştir.Kayseri 12. Asliye Hukuk Mahkemesince, Dava, İtirazın İptali talebine ilişkindir.Tüm dosya kapsamına göre; Bilindiği üzere, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) yürürlüğe girdiği 01.11.2011 tarihinden sonra 01.07.2012 tarihinde yürürlüğe giren 6102 sayılı Türk Ticaret Kanunu'nun (TTK) 5. maddesinde 6335 sayılı Kanun ile değişiklik yapılmış ve Ticaret Mahkemeleri ile Asliye Hukuk Mahkemesi ve diğer hukuk mahkemeleri arasındaki ilişki iş bölümü ilişkisi olmaktan çıkarılıp görev ilişkisine dönüştürülmüştür. Görev kuralları kamu düzenine ilişkin olmasının yanında HMK'nın 114.maddesinde açıkça dava şartı olarak düzenlenmiş olduğundan, mahkemelerce ve temyiz incelemesi aşamasında Yargıtay'ca re'sen dikkate alınması gerekir.
 Bu kuralın tek istisnası, 6335 sayılı Kanunun 2.maddesi ile değişik 6102 sayılı TTK'nın 5/4.maddesinde düzenlenmiştir. Bu düzenlemeye göre yargı çevresinde ayrı bir Asliye Ticaret Mahkemesi bulunmayan yerlerde, Asliye Hukuk Mahkemelerine açılan davalarda görev kuralına dayanılmamış olması görevsizlik kararı verilmesini gerektirmez.Ticaret mahkemelerinin görevi TTK'nın 5.maddesinde düzenlenmiş ve maddenin 1.bendinde"Aksine hüküm bulunmadıkça, dava olunan şeyin değerine veya tutarına bakılmaksızın asliye ticaret mahkemesi tüm ticari davalar ile ticari nitelikteki çekişmesiz yargı işlerine bakmakla görevlidir." denilmiştir.Ticari davalar, mutlak ticari davalar ve nispi ticari davalar olmak üzere iki gruba ayrılmaktadır.Mutlak ticari davalar, tarafların tacir olup olmadığına ve işin bir ticari işletmeyi ilgilendirip ilgilendirmediğine bakılmaksızın sırf dava konusunun TTK'da düzenlenmesi nedeniyle ticari sayılan davalardır. Mutlak ticari davalar TTK'nın 4/1. maddesinde bentler hâlinde sayılmıştır.
 
@@ -142,6 +152,8 @@ Bunların yanında Kooperatifler Kanunu (m.99), İcra ve İflas Kanunu (m.154), 
 Ticari iş karinesinin düzenlendiği TTK’nın 19/2. maddesi uyarınca, taraflardan biri için ticari iş sayılan bir işin diğeri için de ticari iş sayılması, davanın niteliğini ticari hale getirmez. TTK, kanun gereği ticari dava sayılan davalar haricinde, ticari davayı ticari iş esasına göre değil, ticari işletme esasına göre belirlemiştir. Hâl böyle olunca, işin ticari nitelikte olması davayı ticari dava hâline getirmez.Somut olaya gelince; Davacı tarafça alacağının tahsilini talep ettiği davalının, ayrı bir alacak için başlatmış olduğu icra takibine konu edilen bononun 30.000,00 TL miktarlı 13/09/2013 tanzim tarihli, 15/10/2013 vade tarihli senetten kaynaklandığı, takibe konu bono nedeniyle mahkememize açılmış olan işbu itirazın iptali davasında asıl nedenin bonoya dayalı olması nedeniyle kambiyo senedi vasfı niteliğinde olduğu dikkate alındığında TTK'nun 4. maddesi gereğince eldeki dava mutlak ticari davadır.
 
 ## İstanbul BAM 43. HD 2023/510 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903946000)
 
 İLK DERECE MAHKEMESİ KARARI: İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, "Tüm dosya kapsamı ve denetime elverişli bilirkişi rapor içeriklerine göre; davacı ile davalı ...
 
@@ -158,6 +170,8 @@ Esas davada İstanbul Anadolu ... İcra Müdürlüğü'nün ... E sayılı icra 
 KARAR: Yukarıda ayrıntısı ile açıklanan nedenlerle; 1-Davacı vekilinin ve davalılar ... İnş. Eml. Teks. Nak. Tic. San. Ltd. Şti. ve ... vekilinin istinaf başvurularının HMK'nın 353(1)b-1 maddesi uyarınca ayrı ayrı ESASTAN REDDİNE …
 
 ## İstanbul BAM 14. HD 2023/481 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883326000)
 
 İcra Müdürlüğünün ... Esas sayılı dosyasında 25.06.2015 tarihinde ilamsız icra takibi başlatıldığı, davalı şirket tarafın icra takibine karşı itirazda bulunarak takibe ve borca itiraz edildiği , davacının ise İİK 67. Maddesi gereğince 1 yıllık hak düşürücü süre içerisinde iş bu davayı açmış olduğu anlaşılmıştır. Mahkemece, taraf delilleri dosyaya ibraz edildikten sonra dosya üzerinde bilirkişi incelemesi yaptırılarak bilirkişi raporları alınmıştır. Ayrıca tanıklar dinlenilmiştir.
 

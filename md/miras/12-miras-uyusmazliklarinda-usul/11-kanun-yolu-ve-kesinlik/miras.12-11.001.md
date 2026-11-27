@@ -36,15 +36,21 @@ Her ne kadar Bölge Adliye Mahkemesinin 13.05.2025 tarihli asıl kararı miktar 
 
 ## Yargıtay 1. HD 2025/5077 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205513700)
+
 Dosya kapsamından; Ordu ili, ... ilçesi, .../...
 Mahallesinde kain dava konusu 4 44... ve 144 parseller ile 5 17... ve 66 parsel sayılı taşınmazların tamamının muris ... tarafından dava konusu 25.08.2015 tarihli satış işlemiyle toplam 10.600,00 TL bedelle satıldığı, davalı ...'nun da taınmazların tamamını dava dışı vekili ... aracılığıyla 31.03.2021 tarihli satış işlemiyle 110.000,00 TL bedelle davalı ...'e sattığı, İlk Derece Mahkemesince davanın kabulüne ve davalı ... adına tapu kayıtlarının davacıların miras payı oranında iptali ile davacılar adına tesciline karar verildiği, dava konusu taşınmazların keşfen tespit edilen toplam değerlerinin 142.434,60 TL olduğu, aralarında zorunlu dava arkadaşlığı bulunmayan davacıların 1/4'er miras payına 35.608,65'er TL isabet ettiği, aralarında zorunlu dava arkadaşlığı bulunmayan davacılar yönünden iptaline karar verilen ve davalı ... vekili tarafından istinafa konu edilen 35.608,65'er TL değerin 6100 sayılı HMK'nın Ek Madde 1/2. maddesindeki "200 üncü ve 201 inci maddelerdeki parasal sınırların uygulanmasında hukuki işlemin yapıldığı, 341 inci, 362 nci ve 369 uncu maddelerdeki parasal sınırların uygulanmasında davanın açıldığı tarihteki miktar esas alınır." hükmü uyarınca dava tarihi
 29.04.2021 tarihindeki istinaf sınırı olan 5.880,00 TL'nin üzerinde olması sebebiyle Bölge Adliye Mahkemesince davalı ... vekilinin istinaf başvurusunun değerden reddi yerine başvurusunun esastan incelenmesi gerektiği anlaşılmakla Bölge Adliye Mahkemesinin temyize konu kararı yerinde olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2025/999 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1149473200)
+
 Miktar veya değeri kesinlik sınırını geçmeyen davalara ilişkin nihai kararlar, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362 nci maddesi uyarınca temyiz edilemez.Davalı erkek mirasçısı ... velisi ...'ın temyiz dilekçesinin, ziynet alacağı davasında hüküm altına alınan ve temyize konu edilen miktarın kesinlik sınırının altında kalması nedeniyle anılan Kanun’un 366 ncı maddesi atfıyla aynı Kanun’un 352 nci maddesinin birinci fıkrasının (b) bendi uyarınca miktardan reddine karar vermek gerekir.
 
 ## Yargıtay 1. HD 2020/6821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620402000)
 
 Bilindiği üzere; 6100 sayılı HMK.'nın 362. maddesinde bölge adliye mahkemelerinin temyiz olunamayan kararları düzenlenmiş, 1/a bendinde de miktar veya değeri kırk bin Türk lirasını (bu tutar dahil) geçmeyen davalara ilişkin kararlar" hükmüne yer verilmiş, 2019 yılı itibarıyla HMK.'nın 362/1-a bendinde belirtilen 40.000.00TL’lik kesinlik sınırı 58.800,00TL olarak uygulanmaya başlamıştır. Hemen belirtilmelidir ki, muris muvazaası hukuksal nedenine dayalı davalarda dava değeri taşınmazın tümünün değeri üzerinden davayı açan mirasçı veya mirasçıların payına isabet eden değerdir. Somut olayda, dava 1.000TL değer gösterilmek suretiyle açılmış; davanın kabulüne karar verilen 12 adet taşınmazda mirasbırakan tarafından temlik edilen ¼ payın dava tarihi itibariyle keşfen belirlenen değerinden davacıların miras payına (4/144 veya 3/144) isabet eden 20.203,25TL veya 15.152,44TL’nin ve davanın reddine karar verilen 3 adet taşınmazda davacıların miras payına (4/144 veya 3/144) isabet eden 23.518,78TL veya 17.639,08TL’nin 2019 yılı itibarıyla temyiz kesinlik sınırı olan 58.800,00 TL’nin altında kaldığı anlaşılmaktadır.
 
@@ -52,10 +58,14 @@ Bilindiği üzere; 6100 sayılı HMK.'nın 362. maddesinde bölge adliye mahkeme
 
 ## Yargıtay 1. HD 2020/6742 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628543900)
+
 Bilindiği üzere; 6100 sayılı HMK'nin 362. maddesinde bölge adliye mahkemelerinin temyiz olunamayan kararları düzenlenmiş, aynı maddenin 1/a bendinde de miktar veya değeri kırkbin Türk Lirasını (bu tutar dahil) geçmeyen davalara ilişkin kararlar" hükmüne yer verilmiş, 2017 yılı itibarıyla HMK.'nin 362/1-a bendinde belirtilen 40.000.00 TL’lik kesinlik sınırı 41.530,00 TL olarak uygulanmaya başlamıştır.Diğer yandan, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil davalarında dava değerinin, çekişme konusu taşınmazın tümünün değeri üzerinden davayı açan mirasçı ya da mirasçıların paylarına isabet eden değer olduğu kuşkusuzdur. Somut olayda, davacılar arasında zorunlu dava arkadaşlığı bulunmamaktadır. Bu durumda her bir davacının dava ettiği miras payının dava tarihindeki değerinin, dava değeri olarak kabul edilmesi gerektiği açıktır.
 Hal böyle olunca, dava tarihi 26.06.2015 olan birleştirilen davanın davacıları ... ile ... ’ın, dava konusu taşınmazların dava tarihi itibariyle keşfen saptanan ve harcı tamamlanan değerinden miras paylarına isabet eden değer ayrı ayrı 22.185,89 TL olup, bu değerlerin bölge adliye mahkemesinin 2017 karar tarihi itibariyle temyiz kesinlik sınırı olan 41.530,00 TL’nin altında kaldığı anlaşılmaktadır. Öte yandan, temyiz kesinlik sınırı içinde kalması nedeniyle temyiz kabiliyeti olmayan kararlara karşı temyiz isteği yönünden mahkemece bir karar verilebileceği gibi 01.06.1990 gün ve 3/4 sayılı İçtihadı Birleştirme Kararı uyarınca Yargıtay tarafından da bir karar verilebilir.Yukarıda açıklanan nedenlerle, birleştirilen davada davacılar ... ve ...
 
 ## Yargıtay 1. HD 2020/6630 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628420300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında tapu iptali ve tescil isteğine ilişkindir.
 
@@ -66,6 +76,8 @@ Bu durumda, hükmü temyiz eden davacılar yönünden her bir davacı açısınd
 
 ## Yargıtay 1. HD 2020/6442 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623843500)
+
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenine dayalı pay oranında tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -74,6 +86,8 @@ Bilindiği üzere, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 362/1-a madd
 
 ## Yargıtay 1. HD 2020/5500 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646759100)
+
 Bilindiği üzere; 6100 sayılı HMK.'nın 362. maddesinde bölge adliye mahkemelerinin temyiz olunamayan kararları düzenlenmiş, 1/a bendinde de miktar veya değeri kırk bin Türk lirasını (bu tutar dahil) geçmeyen davalara ilişkin kararlar" hükmüne yer verilmiş, 2018 yılı itibarıyla HMK.'nın 362/1-a bendinde belirtilen 40.000.00 TL’lik kesinlik sınırı 47.530.00 TL olarak uygulanmaya başlamıştır.
 
 Hemen belirtilmelidir ki, muris muvazaası hukuksal nedenine dayalı davalarda dava değeri taşınmazın tümünün değeri üzerinden davayı açan mirasçı veya mirasçıların payına isabet eden değerdir.Somut olayda, dava 1.500,00 TL değer gösterilmek suretiyle açılmış; çekişme konusu taşınmazın miras bırakan tarafından davalı ...’a devredilen ½ payın dava tarihi itibariyle keşfen saptanan değeri 98.608,12 TL olup, aralarında ihtiyari dava arkadaşlığı bulunan her bir davacının miras payına (1/4) isabet eden 24.652,03 TL’nin 2018 yılı itibarıyla temyiz kesinlik sınırı olan 47.530,00 TL’nin altında kaldığı anlaşılmaktadır.
@@ -81,15 +95,21 @@ Hemen belirtilmelidir ki, muris muvazaası hukuksal nedenine dayalı davalarda d
 
 ## Yargıtay 1. HD 2020/5368 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647253500)
+
 Bilindiği üzere, 6100 sayılı HMK'nın 366/1. maddesinde "Bu Kanunun istinaf yolu ile ilgili 343 ilâ 349 ve 352 nci maddeleri hükümleri, temyizde de kıyas yoluyla uygulanır.” hükmüne yer verilmiş, anılan maddede atıf yapılan HMK’nın 346/1. maddesinde ise; "İstinaf dilekçesi, kanuni süre geçtikten sonra verilir veya kesin olan bir karara ilişkin olursa, kararı veren mahkeme istinaf dilekçesinin reddine karar verir ve 344. maddeye göre yatırılan giderden karşılanmak suretiyle ret kararını kendiliğinden ilgiliye tebliğ eder." düzenlemesi yer almış, 346/2. madde de "Bu ret kararına karşı tebliğ tarihinden itibaren bir hafta içinde istinaf yoluna başvurulabilir. İstinaf yoluna başvurulduğu ve gerekli giderler de yatırıldığı takdirde dosya, kararı veren mahkemece yetkili Bölge Adliye Mahkemesine gönderilir.
 Bölge Adliye Mahkemesi ilgili dairesi istinaf dilekçesinin reddine ilişkin kararı yerinde görmezse, ilk istinaf dilekçesine göre gerekli incelemeyi yapar." hükmü öngörülmüştür.Bu düzenlemeler birlikte değerlendirildiğinde; temyiz kanun yolu başvurusunun kesin olan bir karara ilişkin bulunması durumunda, kararı veren Bölge Adliye Mahkemesi’nce bu dilekçenin reddine karar verilebileceği ve temyize konu kararı veren mahkeme sıfatını haiz olmayan ilk derece mahkemesinin ise; böyle bir karar verme yetkisinin bulunmadığı açıktır.Öte yandan, temyiz kesinlik sınırı içinde kalması nedeniyle temyiz kabiliyeti bulunmayan kararlar hakkında 01.06.1990 gün ve 3/4 sayılı İçtihadı Birleştirme Kararı uyarınca Yargıtayca da bir karar verilebileceği kuşkusuzdur.O halde, yerel mahkemece kesin olduğundan bahisle temyiz isteğinin reddine karar verilmiş olması yukarıda değinilen ilke ve yasal düzenlemelere aykırıdır.Diğer taraftan, Bölge Adliye Mahkemesi’nce temyize konu karar kesin olarak verilmiş ise de, 6100 sayılı Hukuk Muhakemeleri Kanunu’nun uygulandığı dönemde açılan eldeki tenkis davasının, belirsiz alacak davası niteliğinde olduğu ve HMK’nın 362/2. maddesinde, bu tür istekli davalarda alacağın
 bir kısmının dava edilmiş olması halinde temyiz kesinlik sınırının alacağın tamamına göre belirleneceğinin hükme bağlandığı hususları bir arada değerlendirildiğinde; anılan kararın temyizinin kabil bulunduğu tartışmasızdır. Ayrıca, sözü edilen yasal düzenleme gözetildiğinde, Bölge Adliye Mahkemesi’nin kararı kesin olarak vermiş bulunması da sonuca etkili değildir.
 
 ## Yargıtay 2. HD 2019/11598 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563696600)
+
 Talep edilen ziynet alacağının miktarı 20.807 TL olup karar tarihindeki kesinlik sınırı olan 58.800.00 TL'yi aşmadığından 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362. maddesi gereğince temyiz sınırı altında kalan para alacağına ilişkin karar kesindir. Açıklanan nedenle davalı-karşı davacı kadın mirasçılarının ziynet alacağı davasına yönelik temyiz dilekçesinin reddine karar vermek gerekmiştir.
 
 ## Yargıtay 17. HD 2017/12118 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403404700)
 
 1- 6100 Sayılı HMK.'nun geçici 3/2.maddesi delaletiyle mülga 1086 Sayılı HUMK'nun 427. maddesinde öngörülen temyiz kesinlik sınırı 1.1.2017 tarihinden itibaren 2.270,00 TL'ye çıkarılmıştır.Mahkemece Dairemizin ilgili bozma ilamı sonrası ... aleyhine asıl dava davacısı ... için 1.113,34 TL maddi tazminata hükmedilmiştir.
 Asıl dava davacısı ... hakkındaki maddi tazminat hükmü asıl-birleşen dava davalısı ... yönünden kesin niteliktedir.Kesin olan kararların temyiz istemleri hakkında mahkemece bir karar verilebileceği gibi, 1.6.1990 gün 3/4 sayılı İçtihadı Birleştirme Kararı uyarınca Yargıtay’ca da temyiz isteminin reddine karar verilebileceğinden asıl-birleşen dava davalısı ... vekilinin asıl dava davacısı ... hakkındaki maddi tazminat hükmü ile ilgili temyiz dilekçesinin reddine karar vermek gerekmiştir.2- Dava trafik kazasından kaynaklanan ölüm nedeniyle maddi tazminat istemine ilişkindir.Somut olayda mahkemece önce hukukçu bilirkişiden hesap raporu aldırılmış, 21.11.2012 tarihli bu rapora göre asıl davada muris ...’nin eşi ... için 65.726,79 TL, oğlu ...için 1.113,34 TL tazminat hesaplanmış, kızı ... için zarar olmadığı belirtilmiş; birleşen davada muris ...’nin eşi ... için 118.332,51 TL, oğlu ... için 61.246,56 TL tazminat hesabı yapılmış, davacılar rapora açıkça itiraz etmemiş ve fazlaya dair haklarını saklı tutmadan davalarını bu rapora göre ıslah etmiştir.
@@ -100,10 +120,14 @@ Dolayısıyla mahkemece esasen 21.11.2013 tarihli son aktüer bilirkişi raporu 
 
 ## İstanbul BAM 40. HD 2022/639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765097400)
+
 6100 sayılı Hukuk Muhakemeleri Kanununun (HMK) 355'inci maddesi uyarınca ileri sürülen istinaf nedenleri ve kamu düzenine ilişkin konularla sınırlı biçimde yapılan inceleme sonunda: Davalı ... Sigorta AŞ vekilinin davacılar ... mirasçıları lehine hükmolunan geçici iş göremezlik tazminatı hükmüne yönelik istinaf başvurusunun incelenmesinde; HMK'nin 341/2’nci maddesine göre miktar veya değeri üçbin Türk Lirasını geçmeyen malvarlığı davalarına ilişkin kararlar kesindir. Aynı kanunun 341/4'üncü maddesi uyarınca alacağın tamamının dava edilmiş olması durumunda, kararda asıl talebinin kabul edilmeyen bölümü üç bin Türk Lirasını geçmeyen taraf, istinaf yoluna başvuramaz. Ayrıca anılan Kanunun ek 1'inci maddesinin 1'inci fıkrasında; "200'üncü, 201'inci, 341'inci, 362'nci ve 369'uncu maddelerdeki parasal sınırlar her takvim yılı başından geçerli olmak üzere önceki yılda uygulanan parasal sınırların; o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298'inci maddesi hükümleri uyarınca Maliye Bakanlığınca her yıl tespit ve ilan edilen yeniden değerleme oranında artırılması suretiyle uygulanır.
 Bu şekilde belirlenen sınırların on Türk lirasını aşmayan kısımları dikkate alınmaz." hükmünün yanı sıra, aynı maddenin 2'nci fıkrasında; "200'üncü ve 201'inci maddelerdeki parasal sınırların uygulanmasında hukuki işlemin yapıldığı, 341'inci, 362'nci ve 369'uncu maddelerdeki parasal sınırların uygulanmasında hükmün verildiği tarihteki miktar esas alınır." biçiminde düzenlemeler bulunmaktadır. İlk derece mahkemesinin hükmünü verdiği 2019 yılı için HMK'nin 341/2'nci maddesinde öngörülen istinaf başvuru sınırı, aynı Kanunun ek 1/1-2'nci maddesi uyarınca her takvim yılı başından geçerli olmak üzere yeniden değerleme oranında artırılması suretiyle hesaplandığında 4.400,00 TL olacaktır. İstinaf kanun yoluna başvurusuna konu davada ilk derece mahkemesince 1.351,72 TL geçici iş göremezlik tazminatının, davalılardan tahsil edilerek, davacı ... mirasçılarına verilmesine hükmolunmuştur.
 
 ## İstanbul BAM 40. HD 2020/4249 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/629917700)
 
 Dosya kapsamından, davalı nezdinde ZMSS poliçesiyle sigortalı bulunan ... plakalı aracın, ...'in sevk ve idaresinde iken tek taraflı kaza yapması neticesinde, sürücü ...'in vefat ettiği, ...'in vefatı nedeniyle annesi ... ile babası ...'in destekten yoksun kaldıkları ve müteveffanın babası ...'in 11/09/2011 tarihinde vefatı nedeniyle, müteveffanın annesi davacı ... ile müteveffanın babası ...'in mirasçıları olan diğer davacıların işbu davada destekten yoksun kalma tazminatı talebinde bulundukları ve Mahkemece yapılan yargılama sonucunda davacılar vekilinin bedel artırım dilekçesi dikkate alınarak, yukarıda belirtildiği şekilde davanın kabulüne karar verildiği anlaşılmıştır. A-)Davacılar ..., ..., ..., ... ve ... hakkındaki istinaf başvurusunun değerlendirilmesi: HMK'nın 341/2.fıkrasına göre miktar veya değeri Üçbin Türk Lirasını geçmeyen malvarlığı davalarına ilişkin kararlar kesindir. HMK'nın 341/4.fıkrasına göre ise alacağın tamamının dava edilmiş olması durumunda, kararda asıl talebinin kabul edilmeyen bölümü üç bin Türk Lirasını geçmeyen taraf, istinaf yoluna başvuramaz.
 Ayrıca HMK'nın ek 1. maddesinin 1. fıkrasında;" HMK'nın 341. maddesindeki parasal sınırın her takvim yılı başından geçerli olmak üzere, önceki yılda uygulanan parasal sınırların; o yıl için 04/01/1961 tarihli ve 213 sayılı Vergi Usul Kanunu'nun mükerrer 298. maddesi hükümleri uyarınca Maliye Bakanlığınca her yıl tespit ve ilan edilen yeniden değerleme oranında artırılması suretiyle uygulanır. Bu şekilde belirlenen sınırların on Türk lirasını aşmayan kısımları dikkate alınmaz." hükmünün yanı sıra, aynı maddenin 2. fıkrasında; "HMK'nın 341. maddesindeki parasal sınırların uygulanmasında hükmün verildiği tarihteki miktarın esas alınacağı" düzenlenmiş bulunmaktadır. Yeniden değerleme oranındaki artış sonucu Yerel Mahkeme hükmünün verildiği 2017 yılı için HMK'nın 341/2. maddesindeki kesinlik sınırı 3.110,00 TL olacaktır.

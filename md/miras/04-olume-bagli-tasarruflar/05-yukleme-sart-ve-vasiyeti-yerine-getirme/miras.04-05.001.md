@@ -35,15 +35,21 @@ gerektirici nedenlere, delillerin takdirinde bir isabetsizlik bulunmamasına gö
 
 ## Yargıtay 7. HD 2025/4391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185890400)
+
 Vasiyetnamenin tenfizi davası vasiyet alacaklısı tarafından vasiyeti yerine getirme görevlisi varsa ona, yoksa yasal veya atanmış tüm mirasçılara karşı açılır. Mahkemece 16.04.2007 tarihli kararda vasiyet alacaklısı tarafından açılan davada yasal mirasçıların yokluğunda yargılama yapılarak vasiyetnamenin tenfizine karar verilmiş ve hüküm kesinleştirilmiştir. Yasal mirasçıların yokluğunda yargılama yapılması 6100 sayılı Kanun'un 27. maddesine açık aykırılık oluşturmaktadır.
 
 Ayrıca vasiyetnamenin tenfizi davasında öncelikle vasiyet yükümlüsünün yükümlülüğünü yerine getirmemiş olması gerekir. Bu davalarda taşınırlar yönünden zilyetliğin devri, taşınmazlar yönünden de tescil isteminde bulunulmalıdır. Talep konusu malın terekeye dâhil olması, ayrıca vasiyetnamenin iptali talep edilmişse bu davanın sonucunun da beklenmesi gerekir. Tüm bu şartların gerçekleşmesi halinde Mahkemece vasiyetnamenin konusu belirlenmeli, gerekiyorsa keşif yapılmalı ve hükmün infazına elverişli olacak şekilde taşınırlar yönünden teslime, taşınmazlar yönünden tescile karar verilmelidir.
 
 ## Yargıtay 7. HD 2023/6212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108718300)
+
 Yargıtay 3. Hukuk Dairesinin 04.10.2010 tarihli, 2010/9758 E., 2010/15581 K. sayılı ilamı ile sair temyiz itirazlarının reddine karar verilip davaya konu 28.12.2005 tarihli vasiyetnamede murisin İzmir Barosu avukatlarından Avukat ...'ı vasiyeti tenfiz memuru olarak atandığı, ...'ın (ölümü ile mirasçıları) vasiyeti yerine getirme görevlisi olmadığı, yasal veya atanmış mirasçı sıfatının da bulunmadığından aleyhine "vasiyetnamenin tenfizi ve tahsili" davasının açılmasına olanak bulunmadığı, bu nedenle ... mirasçıları olan ..., ... , ... yönünden davanın husumet yokluğundan reddine karar verilmesi gerekirken kabulünün hatalı olduğu belirtilerek kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/1682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898960000)
 
 Dava, Türk Medeni Kanunu'nun 600 üncü maddesi gereğince vasiyetnamenin tenfizi isteğine ilişkindir.
 
@@ -53,6 +59,8 @@ Türk Medeni Kanunu'nun 600 üncü maddesinde; “ Vasiyet alacaklısı, vasiyet
 
 ## Yargıtay 1. HD 2022/4841 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/818230600)
+
 Dava, kadastro öncesi nedenlere dayalı olarak açılan tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -61,9 +69,13 @@ Bağışlanan, yüklemeli bağışlamada haklı bir sebep olmaksızın yüklemey
 
 ## Yargıtay 3. HD 2020/6130 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/619756700)
+
 4721 sayılı TMK'nın 514 üncü maddesine göre; mirasbırakanın tasarruf özgürlüğü sınırları içinde malvarlığının tamamında veya bir kısmında vasiyetname ile tasarrufta bulunabileceği hüküm altına alınmış; müteakip 515 inci maddesinde ise, mirasbırakanın, ölüme bağlı tasarruflarını koşullara veya yüklemelere bağlayabileceği, tasarrufun hüküm ve sonuçlarını doğurduğu andan itibaren, her ilgilinin koşul veya yüklemenin yerine getirilmesini isteyebileceği düzenlenmiştir.
 
 ## Yargıtay 3. HD 2018/9330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466442100)
 
 Kendisine muayyen mal vasiyet edilen kişiler vasiyet edenin külli halefi olmayıp, cüz-i halefidir. Miras açıldığı zaman vasiyet edilen mal kendiliğinden vasiyet alacaklılarına geçmez.TMK.'nun 600. maddesi uyarınca muayyen mal vasiyeti ile vasiyet alacaklısı kişisel bir istem hakkına sahip olur.
 
@@ -73,10 +85,14 @@ Davaya konu tenfizi istenen vasiyetname incelendiğinde; vasiyeti yerine getirme
 
 ## Yargıtay 13. HD 2017/12191 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388304500)
+
 6098 sayılı TBK'nun 295. maddesinde bağışlanan; bağışlayana veya yakınlarından birine karşı ağır bir suç işlemişse, bağışlayana veya onun ailesinden bir kimseye karşı kanundan doğan yükümlülüklerine önemli ölçüde aykırı davranmışsa ya da yüklemeli bağışlamada haklı bir sebep olmaksızın yüklemeyi yerine getirmemişse, bağışlama konusunun geri istenebileceği öngörülmüştür. Somut olayda mahkemece, davalının ağır kusurlu olduğu kabul edilerek davanın kabulüne karar verilmiş ise de taraflar arasında görülen boşanma davasının yargılaması sonucunda, davacının yargılama sırasında vefat ettiği, mirasçılarının ise davalının kusurlu olduğunun tespiti yönünde davaya devam ettikleri ve davalının kusurlu olduğunun tespitine karar verilmesini istedikleri, ancak mahkemece davalının evlilik birliği içerisinde kusurlu davrandığına yönelik delil bulunmadığından talebin reddine ilişkin verilen kararın deracattan geçerek kesinleştiği anlaşılmaktadır.
 Hal böyle olunca davalının evlilik birliği içerinde kusurlu davranışının olmadığı mahkeme kararı ile kesinleşmiş bulunmakla bağıştan rücu şartlarının oluşmadığı gözetilerek davanın reddine karar verilmesi gerekirken, hatalı değerlendirme ile yazılı şekilde karar verilmiş olması usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2016/12698 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/269991200)
 
 Dava konusu uyuşmazlık, hukuki ehliyetsizlik ve vasiyetnamede öngörülen bakımla ilgili yükümlülüklerin yerine getirilmemiş olması sebebiyle vasiyetnamenin iptali, olmadığında tenkis talebine ilişkindir.
 
@@ -85,6 +101,8 @@ Dava konusu uyuşmazlık, hukuki ehliyetsizlik ve vasiyetnamede öngörülen bak
 Mirasbırakan, ölüme bağlı tasarrufu ile; hukuka ve ahlaka aykırı olmamak koşuluyla, kanuni veya atanmış mirasçılar ile lehine belirli mal vasiyet edilenlere, bir şey yapmak ya da yapmamak şeklinde; kendisi ve üçüncü kişiler yararına alacak hakkı doğuracak şekilde mükellefiyet yükleyebileceği gibi, tasarrufu bu şartada bağlayabilir. (TMK.m.515) Bu şart, miras bırakanın ölümünden önce tahakkuk edecek bir şart olabileceği gibi, ölümden sonrasına ilişkin bir şart da olabilir. Şarta bağlı olarak lehine mal vasiyet olunan şahsın, bunu kazanabilmesi için, tasarrufta öngörülen şartın gerçekleşmesi gerekir. Başka bir ifade ile, şart gerçekleşirse ölüme bağlı tasarruf hüküm ifade eder. (BK.m.149/2) Aksi halde, tasarruf hiçbir hüküm meydana getirmez.
 
 ## Yargıtay 3. HD 2015/17797 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/132293300)
 
 Dava; vasiyetnamenin tenfizi istemine ilişkindir.
 
@@ -96,6 +114,8 @@ Diğer taraftan vasiyet eden, kendisinin olmayan bir malın karşılığının t
 
 ## Yargıtay 3. HD 2014/3828 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88078000)
+
 Dava, MK.’nın 600. maddesi uyarınca vasiyetnamenin tenfizi ile vasiyete konu taşınmazların muris adına olan tapu kayıtlarının iptali ile davacılar adına tapuya kayıt ve tescili talebine ilişkindir.
 
 TMK.nun 600/1.maddesi; “Vasiyet alacaklısı, vasiyeti yerine getirme görevlisi varsa ona, yoksa yasal veya atanmış mirasçılarına karşı kişisel bir istem hakkına sahip olur” hükmünü, 3.fıkrasında ise, “vasiyet alacaklısı, yükümlülüğü yerine getirmeyen vasiyet yükümlüsüne karşı, vasiyet edilen malın teslimini veya hakkın devrini, vasiyet konusu bir davranış ise, bunun yerine getirilmesinden doğan zararın giderilmesini dava edebilir.” hükmünü içermektedir.
@@ -104,19 +124,27 @@ Vasiyetnamenin tenfizi (yerine getirilmesi) davasının görülebilmesi için, v
 
 ## Yargıtay 3. HD 2012/26306 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483410500)
+
 Bu nedenle, Sulh Hakiminin görevi, MK.nun 596 ve Tüzüğün 36/2.maddesine uygun olarak vasiyetnameleri açarak lehine kazandırma yapılan kişi ile yasal mirasçılarına vasiyetnamenin onaylı bir örneğini tebliğ ederek, vasiyetnamenin açılması sırasında hazır bulunmak üzere çağrılmasını sağlamaktır.Vasiyetname, geçerli olup olmadığına bakılmaksızın, tesliminden başlayarak bir ay içinde miras bırakanın yerleşim yeri Sulh Hakimi tarafından açılır. Vasiyetname açılırken bilinen mirasçılar ve diğer ilgililer, açılması sırasında diledikleri takdirde hazır bulunmak üzere çağrılır ve okunur. ( TMK. Md. 596 ) Vasiyetnamede vasiyeti yerine getirme görevlisi atanmış ise, Sulh Hakimi tarafından bu görev kendisine bildirilir. (TMK.m.550/3) Vasiyetnamenin açılışını müteakip mirasta hak sahibi her birine, vasiyetnamenin kendilerine ilişkin kısımlarının onaylı bir örneği tebliğ olunur (TMK.md.597). Lehlerine karşılıksız kazandırma yapılan kimselerin ve mirasçıların adresleri belli değilse kendilerine vasiyet ilanen tebliğ edilir.
 (TMK.md.597/2) Sulh Hakimi, vasiyetnamenin kendisine teslimini müteakip gerekli koruma önlemlerini alır, olanak varsa ilgilileri dinleyerek yasal mirasçılara terekenin geçici olarak teslimine yahut resmen yönetilmesine karar verir. (TMK.md.595/3) Görüldüğü gibi Sulh Hakiminin görevi vasiyetnameyi açarak, ilgililere tebliğ etmek, mirasçılara istedikleri halinde bir mirasçılık belgesi vermek ve terekeye dahil malları yasal mirasçılara geçici olarak teslim etmek, yahut resmi yönetimi emretmekten ibarettir. Sulh Hakiminden vasiyetin okunmasını istemek, bir ayni hakkın geçirilmesi isteği niteliğinde değildir.
 
 ## Yargıtay 3. HD 2012/13145 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564443400)
 
 Kendisine belirli bir mal vasiyet edilen kimsenin durumu ise daha farklıdır. Türk Medeni Kanunu 600 m. gereği kendisine belirli bir mal vasiyet edilen kimse, bu vasiyeti yerine getirmekle yükümlü olan varsa ona, yoksa yasal ve atanmış mirasçılara karşı açacağı istihkak davası ile malın kendisine teslimini isteyebilir. Vasiyet alacaklısı, vasiyeti yerine getirme görevlisi atanmış ise ona karşı kişisel bir istem hakkına sahip olur. Vasiyeti yerine getirme görevlisi atanmamışsa yasal veya atanmış mirasçılara karşı aynı hakka sahip olunur. Mirasçılık ve mirasın geçişi, mirasbırakanın ölümü tarihinde yürürlükte olan hükümlere göre belirlenir.( 4722 S.K. md. 17) Yukarıda yapılan açıklamalar ışığında; muris ... tarafından düzenlenen vasiyetname ile, ... ili, ...ilçesi, ... mahallesi ... yazlık kooperatifinde bulunan yazlık evin ve evin içinde bulunan menkul ev eşyaların tamamı, ayrıca T.C. Hudutları dahilindeki murisin tüm bankalardaki kayıtlı vadeli ve vadesiz hesaplardaki para ve yatırım fonlarının 1/2 hissesi ..., ..., ...(davacı) ve ...'ya, T.C.
 Hudutları dahilindeki murisin tüm bankalardaki kayıtlı vadeli ve vadesiz hesaplardaki para ve yatırım fonlarının diğer 1/2 hissesinin de vasiyet alacaklısı ...'a vasiyet edilmiş olmasına rağmen mahkemece, vasiyete konu ... ili, ... ilçesinde bulunan yazlık evin 1/2 hissesinin davacının da içinde bulunduğu dört kişiye vasiyet edildiği şeklindeki yanılgılı değerlendirme sonucu söz konusu yazlık ev için de 1/2 hisseli oran üzerinden tereke hesabı yapılarak yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 17. HD 2011/12741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802145800)
+
 Vasiyeti yerine getirme görevlisinin ancak vasiyetçi tarafından atanabileceği mahkeme ve mirasçıların vasiyeti yerine getirme görevini tayin etmelerinin mümkün bulunmamasına göre (TMK.md.550) nazara alındığında davacı mirasbırakanın vasiyeti yerine getirme görevlisi olarak atadığı Av....in vefat etmesiyle, bankada bulunan bir miktar paranın sevk ve idaresi için temsilci olarak atanması talebinde bulunmuştur. Yetkili mahkeme ise murisin son yerleşim yeri mahkemesi olup miras ortaklığına temsilci atanmasına ilişkin davanın vasiyetnameyi açan mahkemede görüleceğine ilişkin emredici hüküm bulunmadığına göre davanın ilk açıldığı ... 4.Sulh Hukuk Mahkemesinde görülüp sonuçlandırılması gerekir.
 
 ## Yargıtay 7. HD 2011/6232 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108680200)
 
 Dava vasiyetnamenin tenfizini sağlama amacıyla atanmış mirasçı belgesi verilmesi istemine ilişkindir.
 
@@ -126,15 +154,21 @@ Dava vasiyetnamenin tenfizini sağlama amacıyla atanmış mirasçı belgesi ver
 
 ## Yargıtay 3. HD 2010/15581 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/971325700)
+
 Davaya konu 28.12.2005 tarihli vasiyetnamede muris ... Barosu avukatlarından Avukat ... ...'ı vasiyeti tenfiz memuru olarak atamıştır. Bu durumda ... (ölümü ile mirasçıları) anılan maddede belirtildiği gibi vasiyeti yerine getirme görevlisi değildir ve yine yasal veya atanmış mirasçı sıfatları da bulunmadığından aleyhine "vasiyetnamenin tenfizi ve tahsili" davası açılmasına olanak bulunmamaktadır.
 
 Mahkemece, (..., ... ..., ...) aleyhine açılan vasiyetnamenin tenfizi ve alacak istemli davanın anılan yasal düzenleme nedeniyle husumet yokluğundan reddine karar verilmesi gerekirken kabulü cihetine gidilmesi doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2010/3921 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967976100)
+
 Diğer taraftan, vasiyet alacaklısı, vasiyeti yerine getirme görevlisi atanmış ise ona karşı kişisel bir istem hakkına sahip olur. Vasiyeti yerine getirme görevlisi atanmamışsa yasal veya atanmış "mirasçılara" karşı dava açılması gerekir. Dolayısı ile hasımsız olarak vasiyetnamenin tenfizi davası açılamaz. Mahkemece bu hususun gözetilmemiş olması usul ve yasaya uygun bulunmamıştır.
 
 ## Yargıtay 2. HD 2009/16910 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80616200)
 
 Mirasbırakan ölüme bağlı tasarruflarını koşullara veya yüklemeye bağlayabilir. Tasarruf hüküm ve sonuçlarını doğurduğu andan itibaren her ilgili koşul veya yüklemenin yerine getirilmesini isteyebilir. Koşul veya yüklemeden yararlanacak olanların "ilgili" kapsamına girdiğinde kuşku yoktur. Vasiyet alacaklısının vasiyeti reddetmesi halinde, mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşılmadıkça bu redden vasiyet yükümlüsünün yararlanacağı da yasa gereğidir. (TMK.md.616)
 
@@ -142,14 +176,20 @@ Vasiyetname şarta bağlanmıştır. Davacı, vasiyet alacaklısı değil, yasal
 
 ## Yargıtay 2. HD 2009/7262 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80645200)
+
 Vasiyeti yerine getirme görevlisi, hizmeti karşılığında uygun bir ücret isteyebilir. (TMK. m.550/4) Vasiyetçinin, vasiyetnamesinde, bir ücret tayin etmemiş olması veya tayin ettiği ücretin, yapılacak işe oranla çok az olması halinde vasiyeti yerine getirme görevlisi uygun bir ücret isteyebilecektir. Bu ücretin, vasiyetnamede tayin edilmemiş olması durumunda, yerine getirme görevlisini denetlemekle görevli sulh hakimi tarafından belirleneceğinde kuşku yoktur. Yasada, sulh hakiminin, ücrete ilişkin kararının temyizi kabil olmadığına, itiraza tabi olduğuna dair özel bir hüküm bulunmamaktadır. Türk Medeni Kanununun 555. maddesinde yer alan düzenleme; sulh hakiminin vasiyeti yerine getirme görevlisinin görevine son verilmesine dair kararına karşı asliye mahkemesine itiraz edilebileceğine ve itiraz üzerine verilen kararın kesin olduğuna ilişkin olup, yerine getirme görevlisinin ücretiyle ilgili değildir. 555. maddedeki düzenlemeden yola çıkılarak, ücrete ilişkin kararın da, itiraza tabi olması gerektiği kıyas yoluyla kabul edilemez.
 Çünkü, vasiyeti yerine getirme görevlisi için belirlenen ücret, terekenin borcudur, ücrete ilişkin kararla tereke borç altına sokulmaktadır ve görevlinin görevine son verme ile hiçbir benzerliği bulunmamaktadır.Vasiyeti yerine getirme görevlisi, müteveffanın tasarrufunda aksini öngörmüş veya sınırlı bir görev vermiş olmadıkça mirasbırakanın son arzusunun yerine getirilmesi için gerekli bütün işlemleri yapmakla görevli ve yetkilidir.(TMK. m.552) İlgililere karşı sorumluluğu da vekalet sözleşmesine ilişkin sorumluluk hükümlerine tabidir. (TMK. m.556) O halde, ücretinin de, tabi olduğu sorumluluk hükümleri çerçevesinde belirlenmesi gerekir. Bu hususta, sulh hakiminin kararına karşı asliye mahkemesine itiraz edilebileceğine dair özel bir düzenleme yasada yer almadığına göre, temyize ilişkin genel hükümler (HUMK. md. 427) uygulanmalıdır. Bu nedenle, asliye mahkemesinin itirazı inceleme görevi bulunmadığına ilişkin 19.1.2007 tarihli kararında bir isabetsizlik bulunmadığı kanısındayım.
 
 ## Yargıtay 2. HD 2009/1831 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80248000)
+
 Vasiyeti yerine getirme görevlisi, ancak mirasbırakan tarafından, vasiyetnameyle atanabilir. (TMK. 550/1.) Mirasbırakan, vasiyetnamesiyle bir veya birden çok kişiyi vasiyeti yerine getirme görevlisi olarak atamamışsa Sulh hakiminin vasiyetinin yerine getirmesi için görevli ataması yasal olarak mümkün değildir. Başka bir ifade ile mahkemenin vasiyeti yerine getirme görevlisi atama yetkisi yoktur. (Y. 2. H.D.’nin 24.6.2002 günlü ve 6124-8396 sayılı kararı) Mirasbırakanın vasiyetnamesinde, vasiyeti yerine getirme görevlisi atamadığı gözetilmeden, vasiyeti yerine getirme görevlisi atanması da usul ve yasaya aykırıdır.
 
 ## İstanbul BAM 13. HD 2025/2180 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187039700)
 
 Dava; davacıların murisi ile davalı şirket arasında akdedilen davalı şirkete ait emtianın nakliyesine ilişkin taşıma sözleşmesi kapsamında davalının araç içi istifleme ve yükleme işlemini hatalı yaptığı ve kusuru ile murisin bedensel zarara uğramasına sebep olduğu iddiasıyla uğranılan maddi ve manevi zararın tahsili talebine ilişkindir.
 
@@ -159,6 +199,8 @@ Gerek ceza yargılaması sırasında gerekse iş bu yargılama sırasında alın
 edimi bulunmamasına rağmen henüz forklift dahi gelmeden eğimli yolda bulunan kamyonun kapaklarının, kapakların önünde durmak suretiyle rastgele ve dikkatsiz bir şekilde açılması suretiyle emtianın üzerine gelmesine ve yaralanmasına sebebiyet verdiği ve dikkatli ve özenli bir taşıyıcı gibi davranmadığı anlaşılmakla kusurlu olduğu, Mahkemece tarafların eylemleri ve olay üzerindeki etkileri dikkate alınarak tarafların % 50 oranında kusurlu kabul edilmesinin olayın oluş şeklinde uygun olduğu anlaşılmakla davalı vekilinin aksi yöndeki istinaf sebepleri yerinde görülmemiştir.
 
 ## İstanbul BAM 45. HD 2022/166 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/732403800)
 
 Dava; 20/05/2018 tarihli ve 21/10/2018 tarihli kooperatif genel kuruluna ilişkin usulüne uygun çağrı yapılmadığı, karar nisaplarına uyulmadığı, 20/05/2018 tarihli kooperatif genel kurulunda alınan 11 no'lu kararın ve 21/10/2018 tarihli kooperatif genel kurulunda alınan 4 no'lu kararın hukuka aykırı olduğu iddiası ile iptali istemine ilişkindir.
 

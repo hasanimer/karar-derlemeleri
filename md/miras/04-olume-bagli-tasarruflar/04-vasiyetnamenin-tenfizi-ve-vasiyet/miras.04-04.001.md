@@ -29,9 +29,13 @@ Somut olayda davacının annesi olan ...'ın; Ankara 58. Noterliğinin 12.09.201
 
 ## Yargıtay HGK 2023/1213 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983251600)
+
 Vasiyet alacağı için öngörülmüş olan bu süre, hükümde de belirtildiği üzere, kural olarak, vasiyet alacaklısının ölüme bağlı kazandırmayı öğrenmesinden itibaren başlar. Zira kanun koyucu, zamanaşımının işlemeye başlayacağı anı kazandırmayı öğrenme anı olarak belirlerken, vasiyet alacağının bu anda muaccel olduğunu varsayarak hareket etmektedir (Erdem, ...: Özel Hukukta Zamanaşımı, İstanbul 2010, s. 207-208).
 
 ## Yargıtay HGK 2012/33 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/63825900)
 
 Dava, vasiyetnamenin yerine getirilmesi suretiyle tapu iptali ve tescil isteğine ilişkindir.
 
@@ -41,6 +45,8 @@ Yukarıda açıklanan belgeler kapsamıyla, davacı, temliki tasarrufa ve tescil
 
 ## Yargıtay HGK 2010/388 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76867900)
+
 Dava, vasiyetnamenin okunmasına dair karar kesinleştikten sonra aynı dosya üzerinden mirasçılık belgesi verilmesi istemine ilişkindir.
 
 …
@@ -48,6 +54,8 @@ Dava, vasiyetnamenin okunmasına dair karar kesinleştikten sonra aynı dosya ü
 Muris İstanbul ili hudutları dahilinde bankalarda bulunan paralarını vasiyetname yoluyla talepte bulunana bırakmış yani muayyen mal vasiyetinde bulunmuştur.Talepte bulunanın burada izleyeceği yol, öncelikle murisin mirasçılarına bir uyarı göndererek vasiyetname yoluyla kendisine bırakılan paraları talep etmesidir. Bu talep yerine getirildiğinde zaten sorun kalmayacaktır. Aksi takdirde vasiyetname alacaklısı mirasçılar aleyhine usulüne uygun olarak vasiyetnamenin tenfizi talebinde bulunması gerekir.
 
 ## Yargıtay HGK 2006/619 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16509000)
 
 Dava, vasiyetnamenin yerine getirilmesi istemine ilişkindir.
 
@@ -87,9 +95,13 @@ Türk Medeni Kanunu'nun 559. maddesi uyarınca iptal davası açma hakkı, davac
 
 ## Yargıtay 7. HD 2025/5098 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186194700)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliğinin 18. maddeleri uyarınca yapılan incelemede; dava konusu tenfizi talep edilen ... Noterliğinin 13.11.1996 tarih ve ... yevmiye numaralı vasiyetnamenin aslı veya onaylı suretinin dosyada ve UYAP sisteminde bulunmadığı, dosya ekinde yer alan Boğazlıyan Sulh Hukuk Mahkemesinin 1998/3 Esas, 2003/7 Karar sayılı vasiyetnamenin açılması dosyasında da vasiyetname örneğinin bulunmadığı anlaşılmakla, gerekli incelemenin yapılabilmesi için ilgili vasiyetnamenin onaylı örneğinin dosya arasına alınması gerekmektedir.
 
 ## Yargıtay 1. HD 2025/4859 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185377300)
 
 …
 
@@ -97,15 +109,21 @@ Türk Medeni Kanunu'nun 559. maddesi uyarınca iptal davası açma hakkı, davac
 
 ## Yargıtay 7. HD 2025/4391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185890400)
+
 Vasiyetnamenin tenfizi davası vasiyet alacaklısı tarafından vasiyeti yerine getirme görevlisi varsa ona, yoksa yasal veya atanmış tüm mirasçılara karşı açılır. Mahkemece 16.04.2007 tarihli kararda vasiyet alacaklısı tarafından açılan davada yasal mirasçıların yokluğunda yargılama yapılarak vasiyetnamenin tenfizine karar verilmiş ve hüküm kesinleştirilmiştir. Yasal mirasçıların yokluğunda yargılama yapılması 6100 sayılı Kanun'un 27. maddesine açık aykırılık oluşturmaktadır.
 
 Ayrıca vasiyetnamenin tenfizi davasında öncelikle vasiyet yükümlüsünün yükümlülüğünü yerine getirmemiş olması gerekir. Bu davalarda taşınırlar yönünden zilyetliğin devri, taşınmazlar yönünden de tescil isteminde bulunulmalıdır. Talep konusu malın terekeye dâhil olması, ayrıca vasiyetnamenin iptali talep edilmişse bu davanın sonucunun da beklenmesi gerekir. Tüm bu şartların gerçekleşmesi halinde Mahkemece vasiyetnamenin konusu belirlenmeli, gerekiyorsa keşif yapılmalı ve hükmün infazına elverişli olacak şekilde taşınırlar yönünden teslime, taşınmazlar yönünden tescile karar verilmelidir.
 
 ## Yargıtay 7. HD 2025/2472 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168628700)
+
 TMK'nin 600. maddesi uyarınca muayyen mal vasiyeti ile vasiyet alacaklısı kişisel bir istem hakkına sahip olur. Vasiyet alacaklısı yükümlülüğünü yerine getirmeyen vasiyet yükümlüsüne karşı vasiyet edilen malın teslimini veya hakkın devrini; vasiyet konusu bir davranış ise bunun yerine getirilmemesinden doğan zararın giderilmesini dava edebilir.
 
 ## Yargıtay 7. HD 2024/4724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1093117000)
 
 9\. 4721 sayılı Kanun'un 529 uncu maddesine göre, "Mirastan feragat sözleşmesi belli bir kişi lehine yapılmış olup bu kişinin herhangi bir sebeple mirasçı olamaması hâlinde, feragat hükümden düşer". Anılan maddede mirastan feragat sözleşmesinin belli bir kişi lehine yapılabileceği belirtilmiş olup; lehine feragat edilen kişi, üçüncü bir kişi veya mirasçılardan biri ya da birkaçı da olabilir. Şayet ilgili sözleşmede mirastan feragatin kimin lehine yapıldığı belirtilmişse, feragat edenin payını da o kişi alır. Kural olarak, feragat edenin payının kime kalacağının belirlendiği mirastan feragat sözleşmesi, lehine feragat yapılan kimse için mirasçı ataması sayılmaktadır. Bir diğer deyişle, kural olarak belirli bir kişi lehine yapılan feragat, aynı zamanda mirasçı atama tasarrufunu da içerir. Anılan maddeye göre ayrıca, lehine feragat edilen kişi herhangi bir nedenle mirasçı olamazsa mirastan feragat hükümden düşer.
 Anılan bozucu şart ile; lehine feragat edilen kişinin mirastan yoksunluk gerektiren bir fiilinin olması, mirasçılıktan çıkarılması veya mirası ret beyanında bulunması gibi hallerde mirasa hak kazanamayacak olması nedeniyle lehine yapılan kazandırmadan yararlanamayacağından feragatin hükümden düşmesi amaçlanmıştır. Ancak emredici nitelikte olmadığından 529 uncu maddede öngörülen bozucu şartın aksi kararlaştırılabilir.
@@ -114,9 +132,13 @@ Belirli bir kişi lehine yapılan feragat, lehine feragat yapılan kimse için a
 
 ## Yargıtay 7. HD 2024/4043 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100174900)
+
 Vasiyetnamenin tenfizi davası muayyen mal vasiyetini kapsayıp mirasçı nasbını kapsamaz. 4721 sayılı Türk Medeni Kanunu'nun 599 uncu maddesinin üçüncü fıkrası uyarınca; atanmış mirasçılar mirası, mirasbırakanın ölümü ile kazanırlar. Eş söyleyişle atanmış mirasçı, mirasbırakanın ölümü ile tereke üzerinde doğrudan ve kendiliğinden bir ayni hak kazanır. Bu durumda, mirasbırakandan intikal eden ayni hakların, atanmış mirasçı adına tescili için vasiyetin tenfizi davasına ve mahkeme hükmüne ihtiyaç yoktur. Atanmış mirasçıya veya bu kişinin mirasçılarına, başvurusu üzerine Sulh Hukuk Mahkemesi tarafından 4721 sayılı Kanun'nun 598 inci maddesi uyarınca atanmış mirasçı olduğunu gösteren mirasçılık belgesinin verilmesi yeterlidir. Tapu Sicili Tüzüğü'nün 20 nci maddesinin birinci bendine göre bu nitelikteki belge ile ayni hakların bu kişi adına tapuda resmi senet düzenlenmeksizin tescili mümkündür.
 
 ## Yargıtay 7. HD 2024/3461 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053693600)
 
 8\. 743 sayılı Yasa'nın 541 inci maddesi uyarınca muayyen mal vasiyetinde, vasiyet alacaklısı, tereke üzerinde tam hak sahibi olmayıp vasiyet borçlusuna karşı ileri sürebileceği bir şahsi hak kazanır. Vasiyet alacaklısı kendisine vasiyet edilen şey üzerindeki hakkı ancak bu malın vasiyet borçlusu tarafından usulüne uygun olarak kendisine devri ile kazanır ( ... Hukuku, İstanbul 2012, s. 392 vd.). Aksi durumda vasiyet alacaklısı, şahsi hakkını dava yoluyla talep edebilir. Uygulamada bu dava, vasiyetnamenin tenfizi davası olarak anılmaktadır. Bu durumda, miras bırakandan intikal eden ayni hakların, vasiyet alacaklısı adına tescili için vasiyetnamenin tenfizi davasına ve mahkeme hükmüne ihtiyaç vardır.
 
@@ -124,11 +146,15 @@ Başka bir deyişle; lehine mal vasiyet edilen, miras bırakanın ölümü ile a
 
 ## Yargıtay 7. HD 2024/1995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1049618300)
+
 Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğünün 03.05.2023 tarihli, 39152028-153.01-408-2023- E.
 815/13665 sayılı yazılarında; mirasçılık belgesi verilmesi ve davacıların vasiyet alacaklısı oldukları zannıyla Tapu Sicili Tüzüğünün 20 nci maddesinin (b) bendi uyarınca gereğinin yapılması istemli davada, davacılar vekiline ait vekaletnamenin ve dayanak vekaletnamenin aslı veya onaylı suretinin sunulmadığı, ...'nın ve ... ... di Ricaldone'nin ve ...'nun vasiyetnamelerinin 5718 sayılı Kanun gereği kesinleşmiş mahkeme ilamı mahiyetinde olmayan noter senedi ile açılıp okunduğu ve haklarında Türk mahkemelerince verilmiş tanıma veya tenfiz hükmü bulunmadığı, yine ...'nin veraset ilamının da kesinleşmiş mahkeme ilamı mahiyetinde olmayan üzerinde Maliye Bakanlığı yazılı evrakta düzenlendiği ve hakkında Türk mahkemelerince verilmiş tanıma veya tenfiz hükmü bulunmadığı gözetilerek öncelikle vekaletnamelerin aslının ya da onaylı suretinin temini sağlandıktan sonra anılan vasiyetnameler ve veraset ilamları hakkında Türk mahkemelerinde tanıma ve tenfiz kararı alınıp kesinleşmeden mirasçılık belgesinin verilemeyeceğinin düşünülememesi ve ayrıca adı geçenlerin vasiyet alacaklısı oldukları zannıyla her ne kadar Tapu Sicili Tüzüğünün 20 nci maddesinin (b) bendi uyarınca gereğinin yapılması talep
 edilmişse de vasiyetnamelerin içeriklerine göre muayyen mal vasiyeti niteliğinde olmadıkları, mirasçı atamaya yönelik bulundukları dikkate alınarak Tapu Sicili Tüzüğünün 20 nci maddesinin (a) bendi uyarınca mirasçılık belgesinin yeterli olacağının Tüzüğün (b) bendine göre tescile yönelik belge istenmesinde hukuki yararın bulunmadığının gözetilmemesi ve kabule göre de 5718 sayılı Kanun'un anılan maddelerine göre Ferdinando'nun dosyaya sunulan son ikametgah adresi bulunmadığına göre tereke mallarının bulunduğu İstanbul mahkemelerinin mirasa ilişkin davalarda kesin yetkili olduğunun ve talep olmamasına rağmen kurulmuş olan tanıma ve tenfiz hükmünün yine 5718 sayılı Kanun'un göreve ilişkin anılan hükmü uyarınca asliye hukuk mahkemelerinde görüleceğinin dikkate alınmamış olmasının usul ve yasaya aykırı bulunduğu belirtilerek kararın kanun yararına temyizen incelenmesi talep edilmiştir.
 
 ## Yargıtay 7. HD 2024/1595 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1034899500)
 
 Dava, vasiyetnamenin iptali, olmadığı takdirde ikinci kademede tenkis istemine ilişkindir.
 
@@ -140,17 +166,25 @@ Vasiyet, genellikle ivazsız bir tasarruftur. Vasiyet alacaklısı, miras bırak
 
 ## Yargıtay 4. HD 2024/1488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113990500)
+
 Bu hükmün ilk bölümünde borçluya ait olarak ... İli, ...Mahallesi, 729 parselde kayıtlı taşınmazdaki 4640/25600 hisse, ... Mahallesi 4166 ada 8 parseldeki ait 83/2374 hisse olarak belirtilmiş ise de ikinci bölümde davalılardan ...nun açtığı yine mahkemenin 2011/459 esas, 2012/19 karar sayılı vasiyetnamenin tenfizi davasını kabul etmek şeklindeki tasarruflarının iptaline, hükmüne yer verilmiştir. Borçlunun açılan tenfiz davasının kabulüne karar verilmesini sağlayarak kaçırdığı miras hissesi 4640/25600 hissenin 3/8 i, 83/2374 hissenin 3/8 i olduğundan iki fıkra arasında çelişki oluşturduğu gibi infazda da kuşku yaratacağı açıktır.Davalı ... vekilinin tavzih talebi bu anlamda yerinde olduğundan, İlk Derece Mahkemesince kabul kararı isabetli olup, Bölge Adliye Mahkemesinin tavzih kararını kaldırması bozmayı gerektirmiştir.
 
 ## Yargıtay 7. HD 2023/6212 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108718300)
 
 Yargıtay 3. Hukuk Dairesinin 04.10.2010 tarihli, 2010/9758 E., 2010/15581 K. sayılı ilamı ile sair temyiz itirazlarının reddine karar verilip davaya konu 28.12.2005 tarihli vasiyetnamede murisin İzmir Barosu avukatlarından Avukat ...'ı vasiyeti tenfiz memuru olarak atandığı, ...'ın (ölümü ile mirasçıları) vasiyeti yerine getirme görevlisi olmadığı, yasal veya atanmış mirasçı sıfatının da bulunmadığından aleyhine "vasiyetnamenin tenfizi ve tahsili" davasının açılmasına olanak bulunmadığı, bu nedenle ... mirasçıları olan ..., ... , ... yönünden davanın husumet yokluğundan reddine karar verilmesi gerekirken kabulünün hatalı olduğu belirtilerek kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/6017 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975434200)
+
 2\. 4721 sayılı Türk Medeni Kanunu'nun 518 inci maddesinde vasiyet olunan malın, mirasın açıldığı günkü durumu ile teslim edilmesini düzenlemiştir. Taşınmaz mülkiyetinin naklini içeren bir vasiyetnamenin tenfiz edilebilmesi için vasiyet edilen malın mirasbırakanın terekesinde bulunması gerekir. Somut olayda, tenfiz davası açılmadan önce tapuda yasal mirasçılar adına intikallerin yapıldığı, davacının da işlem sırasında hazır bulunduğu ve vasiyete konu taşınmazın terekeden çıktığı anlaşılmıştır.
 
 ## Yargıtay 7. HD 2023/4735 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967731300)
 
 Yargıtay 3. Hukuk Dairesi 19.04.2017 tarih ve 2015/19242 Esas, 2017/5755 Karar ... ilamında; vasiyetnamenin tenfizi davasında, davanın kabulüne karar verilebilmesi için diğer şartların yanı sıra vasiyetnamenin ayakta kalıp kalmadığının belirlenmesi gerektiği, dava konusu olan vasiyetname, bir iptal davasına konu olmuş ise bu davanın bekletici mesele yapılması, vasiyetnamenin iptali davası sonucunda verilen hükmün kesinleşmesinin beklenilmesi ve ulaşılacak sonuç uyarınca bir karar verilmesi gerektiği, öncelikle, vasiyetnamenin tenfizi dosyasının tefrik edilerek, ayrı bir esasa kayıt edilmesi ve vasiyetnamenin tenfizi davası için iptal ve tenkis davasının sonuçlanmasının bekletici mesele yapılması, …
 
@@ -158,15 +192,21 @@ Mahkemenin iptal ve tenkis davasının reddi yönündeki kararına yönelik ise 
 
 ## Yargıtay 7. HD 2023/2227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911848300)
+
 …
 
 ...01.10.1993 tarihli vasiyetname; mirasçı nasbına ilişkindir.( TKM. 463) Türk Kanunu Medenisinin 506 ncı maddesi ancak muayyen mal vasiyeti söz konusu olduğunda uygulanabilir. Mirasçı nasbı halinde bu maddenin uygulanması olanağı bulunmamaktadır. Mirasçı nasbedilen kimse, murisin külli halefi olduğundan, miras açılmakla yasal mirasçı gibi terekenin tümünün ya da belli bir payının sahibi olur. (TKM. 539/2) Mirasçı nasbedilen kimseye karşı açılan tenkis davasının kabulü halinde davacıların saklı payları oranında tenkise karar vermek yeterlidir...." (aynı yönde Yargıtay 2. Hukuk Dairesinin 18.5.1995 tarihli 4699 Esas, 5842 Karar sayılı kararı)
 
 ## Yargıtay 1. HD 2023/2220 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/923261300)
+
 Ancak eldeki dava vasiyetnamenin tenfizi ile yolsuz tescil hukuki nedenine dayalı tapu iptal ve tescil istemli açılmış, Mahkemece vasiyetnamenin tenfizi isteği yönünden tefrik kararı verilmiş ve Dairenin 12.10.2020 tarihli bozma kararında da belirtildiği üzere anılan tefrik kararının isabetsiz olduğu belirtilmiş olup, verilen tefrik kararı nedeniyle vasiyetnamenin tenfizi isteminin ayrı bir esasa kaydedildiği; ne var ki, vasiyetnamenin tenfizi ve tapu iptal ve tescil istekli davanın birlikte açıldığı ve birleştirme karar verilmesi ile anılan taleplerin ayrı davalara konu olduğunun kabul edilemeyeceği; öte yandan, her iki talebin de aynı taşınmaza ilişkin olduğu gözetildiğinde iki ayrı harca ve davacı lehine iki ayrı vekalet ücretine hükmedilmesi isabetsiz ise de bu hususun düzeltilmesi yeniden yargılama yapmayı gerektirmediğinden, 6100 sayılı HMK'nın geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 438/7. maddesi gereğince hükmün değinilen bu yönden düzeltilerek onanmasına karar verilmelidir.
 
 ## Yargıtay 3. HD 2023/2037 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963533100)
 
 Miras yoluyla intikali mümkün hakların konusunu oluşturduğu bir davada davacının ölümü hâlinde 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 55 ... maddesi gereğince mahkemece, davacının mirasçılarının tamamının tespit edilerek davadan haberdar edilmeleri gerekir. Davacının birden fazla mirasçısının bulunması hâlinde de 4721 sayılı Kanun'un 640 ıncı maddesi uyarınca terekeye elbirliğiyle malik olmaları sonucu aralarında 6100 sayılı Kanun'un 59 uncu maddesi gereği mecburi dava arkadaşlığı bulunan mirasçıların tamamı davadan haberdar edilerek murisleri tarafından açılan davaya devam etme iradesinde olup olmadıklarının belirlenmesi gerekir. Bu doğrultuda yapılacak tebligatlar sonrasında mirasçıların terekeyi red etmemiş olmaları hâlinde mirasçıların tamamının davaya katılımı ile taraf teşkili sağlandıktan sonra yargılamaya devam edilir. Ayrıca gecikmesinde sakınca bulunan hâllerde Mahkemece, davayı takip için kayyım tayin edilebilir. Ancak her hâlükarda davacının ölümünden sonra yargılamaya devam edilebilmesi için Mahkemece mirasçıların tamamının davaya katılımının sağlanması veya terekeye temsilci atanması yoluyla taraf teşkili sağlanarak yargılamaya devam edilip hüküm kurulması gerekir.
 
@@ -174,11 +214,15 @@ Bu açıklamalar ışığında dosyanın incelenmesinde; davacı murisin ölmede
 
 ## Yargıtay 7. HD 2022/1974 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/750499400)
+
 Vasiyet alacağı tasarruftan aksi anlaşılmıyorsa vasiyet yükümlüsünün mirası kabul etmesiyle muaccel olur. TMK 518. maddesinde ise vasiyet olunan malın, mirasın açıldığı günkü durumu ile teslim edilmesini düzenlemiştir. Mirasın açıldığı gündeki terekenin durumu ile vasiyetnamenin ifa edildiği gün arasında vasiyet edilen şeyde azalma meydana gelmişse, vasiyet borçlusu vekaletsiz iş görme kurallarına göre kusuru varsa sorumlu olur.
 
 Yukarıda açıklananlar ışığında, vasiyetnameye konu taşınmaz murisin ölümü ile mirasçılara intikal etmiş ancak mirasçıların bir kısmı terekede bulunan mal olan taşınmazdaki 27/60 payı satış suretiyle ...’a temlik etmişlerdir. Taşınmaz mülkiyetinin naklini içeren bir vasiyetnamenin tenfiz edilebilmesi için vasiyet edilen malın mirasbırakanın terekesinde bulunması gerekir. Davanın açıldığı tarih itibariyle murisin terekesinde vasiyetnameye konu taşınmazın 33/60 payı bulunmaktadır. Mirasın açıldığı gün ile vasiyetnamenin ifa edildiği gün arasında dava konusu taşınmazın payları yönünden azalma meydana gelmiştir. Vasiyetnamenin tenfizi davasında mirasçılar tarafından satış suretiyle temlik edilen paylar yönünden, bu paylar artık terekede olmadığından tapunun iptaline karar verilemez. Dolayısıyla mahkemece, terekede mevcut mirasçılar adına kayıtlı bulunan 33/60 payın 1/2’sine karşılık gelen payın iptali ile davacı vasiyet alacaklısına tescil edilmesi gerekirken, satış suretiyle temlik edilen ve terekeden çıkan paylar yönünden de tescile karar verilmiş olması doğru görülmemiş, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2022/100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/731564400)
 
 3.2.1. 4721 sayılı Türk Medenin Kanunu’nun 544/2. fıkrasında; ‘’ Belirli mal bırakma vasiyeti de, vasiyetnamede aksi belirtilmedikçe, mirasbırakanın sonradan o mal üzerinde bu vasiyetle bağdaşmayan başka bir tasarrufta bulunmasıyla ortadan kalkar. ‘’ ; ‘’ 557. maddesinde; ‘’ Aşağıdaki sebeplerle ölüme bağlı bir tasarrufun iptali için dava açılabilir: 1. Tasarruf mirasbırakanın tasarruf ehliyeti bulunmadığı bir sırada yapılmışsa, 2. Tasarruf yanılma, aldatma, korkutma veya zorlama sonucunda yapılmışsa, 3. Tasarrufun içeriği, bağlandığı koşullar veya yüklemeler hukuka veya ahlâka aykırı ise, 4. Tasarruf kanunda öngörülen şekillere uyulmadan yapılmışsa. ‘’, …
 
@@ -186,9 +230,13 @@ Yukarıda açıklananlar ışığında, vasiyetnameye konu taşınmaz murisin ö
 
 ## Yargıtay 3. HD 2021/12626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/719417000)
+
 TMK’nın 600 üncü maddesi, kendisine belli bir şey vasiyet edilen kimsenin, vasiyeti yerine getirmeyen mirasçılar aleyhine vasiyet edilen şeylerin teslimi için dava açılabileceğini hükme bağlamıştır. Eldeki dava vasiyetnamenin tenfizi davası olup, bu tür davalar ayni bir hak bahşeder nitelikte olduğundan (tapu kaydının iptali ile davacı adına tescilini de kapsadığından) nisbi harca tabidir. Kaldı ki, davacı aleyhine yargılama giderine hükmedilmiş olması ve bu kararın temyiz edilmemiş olması, davalılar açısından kanun yolu harcından muaf oldukları manasına da gelmemektedir.
 
 ## Yargıtay 1. HD 2021/7969 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/725988900)
 
 Dava, vasiyetnamenin tenfizi ile kadastro çalışmaları sırasında oluşan tapu kaydının iptali ve tescil istemine ilişkindir.
 
@@ -198,10 +246,14 @@ Bu durumda, TMK’nın 602. maddesinde düzenlenen 10 yıllık zamanaşımı sü
 
 ## Yargıtay 3. HD 2021/7483 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/691577600)
+
 TMK’nın 557 nci maddesinde sayılan sebeplerin bulunması hâlinde vasiyetnamenin iptali gerekir. Bu sebepler dışında kalan durumlara dayanılarak ölüme bağlı tasarrufun iptali istenilemez ise de, koşullarının varlığı durumunda tenkis talebine konu edilebilir (TMK. m. 560-562).
 
 Öte yandan; TMK’nın “Vasiyetten dönme” başlığı altında düzenlenen 544 üncü maddesinin ikinci fıkrasında; “Belirli mal bırakma vasiyeti de, vasiyetnamede aksi belirtilmedikçe , mirasbırakanın sonradan o mal üzerinde bu vasiyetle bağdaşmayan başka bir tasarrufta bulunmasıyla ortadan kalkar.” şeklinde düzenleme yapılmış olup; vasiyetçinin vasiyetinden dönmesi halinde ölüme bağlı tasarruf kendiliğinden hükümsüzdür.
 
 ## Yargıtay 3. HD 2020/3271 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605349400)
 
 Ek kararda özetle, tashihen düzeltilmesi istenen hususun vasiyetin açılmasına ilişkin 03/07/2013 tarihli duruşma tutanağında da ..., ... İlçesi, Çiçekli Mahallesi Çığ sokakta vaki tapunun 11852 pafta, 4008 ada 22 parsel 11 nolu bağımsız bölüm olarak yer aldığı, eldeki uyuşmazlıkta dava konusunu vasiyetnamenin tenfizi davası olduğu, tenfiz davasına yönelik mahkeme ilamının Yargıtay denetiminden geçerek kesinleştiğinden tavzih yoluyla düzeltilmesinin mümkün olmadığı belirtilmiştir.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2022/766 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/755825600)
+
 Dava, taraflar arasında düzenlenen eser sözleşmesinden kaynaklanan iş bedeli alacağının tahsili için yapılan icra takibine vaki itirazın iptali, takibin devamı ve icra inkar tazminatı talebine ilişkin olup, mahkemece yargı hakkının bulunmaması nedeniyle davanın usulden reddine dair verilen karara karşı taraflarca istinaf talebinde bulunulmuştur.
 
 …
@@ -34,10 +36,14 @@ A.Ş.' nin tabi olduğu Türk Hukukunun ve dolayısıyla Türk Mahkemeleri'nin y
 
 ## İstanbul BAM 15. HD 2022/741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/746116400)
+
 Maddesine göre bir davada/icra takibinde genel yetki kuralı gereğince davalının yerleşim yeri mahkemesi/icra dairesinin yetkili olduğu, davalıların yerleşim yerinin Dulkadiroğlu/ Kahramanmaraş olduğu; taraflar arasında gübre makinesi imalatına yönelik sözlü şekilde kurulan eser sözleşmesi bulunduğu, davacı iş sahibinin makinenin ayıplı olduğu iddiasına dayanarak sözleşme gereğince ödediği bedelin iadesini talep ettiği, HMK'nın 10.maddesi uyarınca sözleşmeden doğan davalarda sözleşmenin ifa edileceği yer mahkemesi/icra müdürlüğünün de yetkili olacağı, davacı makine için ödediği bedelin iadesine yönelik icra takibine giriştiğine göre, ifası istenen borç para alacağından kaynakladığından para alacağından kaynaklanan eldeki davada TBK'nın 89/1. maddesi uyarınca alacaklının/ davacının yerleşim yeri mahkemesi/icra müdürlüğünün de yetkili olacağı, davacının yerleşim yerinin Kırşehir/Merkez olduğu; taraflar arasında sözlü eser sözleşmesi kurulmakla birlikte HMK'nın 17.
 Maddesi gereğince bir yetki sözleşmesinin bulunmadığı; bu halde hem genel hem de özel yetki kuralları uyarınca İstanbul İcra Müdürlüklerinin yetkili olmadığı, davacının yetkisiz icra müdürlüğünde icra takibinde bulunduğu; ödemenin banka aracılığıyla yapılmış olması ve bankanın genel merkezinin İstanbul'da bulunmasının mahkemeyi yetkili kılmayacağı; davacının yetki noktasında seçimlik hakka sahip olmasına rağmen icra takibini yukarıda açıklandığı üzere yetkili icra müdürlüğünde başlatmadığı, İstanbul İcra Müdürlüklerinin yetkili olmadığı gerekçesiyle, usulüne uygun yetkili icra dairesinde başlatılmış bir icra takibi bulunmadığından özel dava şartı yokluğu nedeniyle HMK'nun 114/2 ve HMK 115.madde hükümleri uyarınca davanın dava şartı yokluğundan usulden reddine karar verilmiştir. Davacı vekili istinaf dilekçesinde, yerel mahkeme kararının usul ve yasaya aykırı bulunduğunu, taraflar arasındaki uyuşmazlıkta İstanbul mahkemeleri ve İstanbul icra dairelerinin yetkili olduğunu, dava konusu alacağın internet bankacılığı aracılığı ile transfer edildiğini, ilgili banka merkezlerinin İstanbul'da olması nedeniyle HMK'nın 10.
 
 ## İstanbul BAM 14. HD 2022/724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776017200)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda; "...Somut olayda, davanın tarafları tacir olup, taraflar arasında aktedilen sözleşmeye hüküm koymak suretiyle yetki sözleşmesi yapmışlardır.Yetki sözleşmesinin yazılı olması geçerlilik koşuludur.
 
@@ -54,6 +60,8 @@ KARAR: Yukarıda açıklanan gerekçelerle; 1-Yetkisizlik kararı veren ilk dere
 
 ## İstanbul BAM 13. HD 2022/605 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769508800)
+
 İcra Müdürlüğü’ nün ... E. Sayılı dosyası ile başlatılan ilamsız icra takibinde yetki itirazında bulunulmuş olup; davacı, yetki itirazına ilişkin beyanında; “sözleşmeden doğan davaların, sözleşmenin ifa edileceği yer mahkemesinde de açılabileceği“ ifade edildiği, “mal tesliminin de davalının şantiyesinin bulunduğu ... şantiyesinde gerçekleştiği” ifade edildiğini, Cevap dilekçesinde belirtildiği üzere, müvekkilinin ikametgah adresi ADANA olup; İstanbul Anadolu ... İcra Müdürlüğü ve dolayısıyla buna bağlı olarak İstanbul Anadolu 7. Asliye Ticaret Mahkemesi yetkili olmadığından yetki itirazının kabulüne karar verilmesi gerektiğini, Diğer taraftan; kabul anlamına gelmemekle birlikte bir an için, “mal tesliminin davalının şantiyesinin bulunduğu ... şantiyesinde gerçekleştiği” ne ilişkin davacı beyanının Mahkemenizce kabulü halinde dahi, İstanbul Anadolu ... İcra Müdürlüğü ve dolayısıyla buna bağlı olarak İstanbul Anadolu 7. Asliye Ticaret Mahkemesi’nin yetkili olmadığı hususunda şüphe bulunmadığını, davacının beyanında belirttiği ... ŞANTİYESİ İstanbul (Çağlayan) Adliyesi yargı sınırları içerisinde yer almakta olup; bu halde dahi, İstanbul Anadolu ...
 İcra Müdürlüğü ve İstanbul Anadolu 7.
 
@@ -65,6 +73,8 @@ Mahkemenin yetkisine itiraz edilmesi durumunda ise, yapılacak inceleme neticesi
 HÜKÜM: Yukarıda açıklanan nedenlerle; Davalının istinaf başvurusunun KISMEN KABULÜ ile; İstanbul Anadolu 7. Asliye Ticaret Mahkemesi'nin 17/07/2019 tarih ve 2015/1245 Esas - 2019/960 Karar sayılı kararının HMK'nın 353/1-b2 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2022/590 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739305800)
 
 Maddesi gereğince alacaklının ikametgahı mahkemesinin yetkisinin kabul edilemeyeceği, bu nedenle İstanbul Anadolu İcra Müdürlüğünün takipte yetkili olmadığı, davalı tarafından usulüne uygun şekilde icra dairesinin yetkisine itiraz edildiği, yetki itirazının yerinde olduğu, bu halde yetkili icra dairesinde usulüne uygun takip yapılmaması karşısında geçerli bir ilamsız icra takibi bulunmadığı gerekçesiyle davanın dava şartı yokluğundan usulden reddine karar verilmiştir. Davacı vekili istinaf dilekçesinde, davanın faturaya dayalı alacak davası olduğunu, davalının bu borcu kabul ettiğini, TBK'nın 89/1.maddesi gereğince para borçlarının alacaklının ödeme zamanındaki yerleşim yerinde ifa edileceğini, müvekkilinin ikametgahının Tuzla İstanbul olduğunu, aksinin kabulünün mülkiyet ve adil yargılanma hakkına, Anayasaya ve AİHS'ne aykırı olduğunu, HMK'nın 10/1.maddesi gereğince sözleşmeden doğan davaların sözleşmenin ifa edileceği yer mahkemesinde açılabilir kuralı gereği davayı İstanbul Anadolu Ticaret Mahkemelerinde açma yetkilerinin bulunduğunu, meselenin temelinin eser, kira, satış olmasının farketmeyeceğini, bu hususun arabuluculuk aşamasında da mesele yapıldığını ve İstanbul 2.
 Sulh Hukuk Mahkemesinin 2019/1116 esas, 2019/1295 karar sayılı ilamı ile alacağın dayanağının alacaktan kaynaklandığı, arabuluculuk işlemlerinin İstanbul Anadolu yargı çevresinde yapılmasının doğru olduğunun kabul edildiğini belirterek, yerel mahkeme kararının kaldırılmasına karar verilmesini istemiştir. Somut olayda, taraflar arasında eser sözleşmesinden kaynaklanan itirazın iptali davası bulunmakta olup, eser sözleşmesinden kaynaklanan uyuşmazlıklarda, alacaklı icra takibini davalı borçlunun yasal yerleşim yerinde (HMK 6.m.) ya da akdin ifa edildiği yer (HMK.10.m.) veya yetki sözleşmesi yapılmışsa o yer (HMK.17.m.) icra müdürlüklerinde yapabilir. Dosya kapsamından davalının ikametgahının Seyhan/Adana ve sözleşmenin ifa yerinin Yumurtalık/Adana olduğunun anlaşılmakta olup, ayrıca uyuşmazlık eser sözleşmesinden kaynaklanmaktadır.
@@ -87,6 +97,8 @@ Taraf vekillerinin istinaf başvurularının HMK'nun 353/1-b/1 maddesi gereğinc
 
 ## İstanbul BAM 45. HD 2022/532 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787796500)
+
 Dava, taraflar arasındaki kart satış sözleşmesinden kaynaklanan faturaya dayalı alacağın tahsili istemiyle başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
 …
@@ -99,6 +111,8 @@ Maddesinin uygulama imkanı yönünden taraflar arasında ticari ilişki bulunup
 Mahkeme kararında ifade edildiği, Yargıtay HGK’nun 16.03.2005 günlü ve 2005/13-80 esas ve 2005/149 karar sayılı ilâmında da belirtildiği üzere, aslı ibraz edilmeyip fotokopisi sunulan ve diğer tarafça kabul edilmeyen fotokopi belge üzerinde imza ve yazı incelemesi yapılamayacağı gibi, yapılmış olsa bile bu rapora itibar edilemeyeceği gözetilerek dosya kapsamı itibariyle TBK 89/1 ve HMK 10. Maddesinin tatbiki mümkün olmadığı, bu itibarla HMK 6. Maddesi uyarınca davalının ticari yerleşim yerinin bulunduğu Bakırköy ilçesinin yargı sınırları içerisinde bulunan Bakırköy İcra Müdürlüğü yetkili olduğu ancak takibin, yetkisiz İstanbul İcra Müdürlüğünde başlatılması nedeniyle davalı borçlu, takip dosyasına yaptığı yetki itirazında haklı olduğu, bu nedenle takibin yetkisiz icra dairesinde başlatılmış olması nedeniyle, özel dava şartı noksanlığından davanın usulden reddine karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Gaziantep BAM 11. HD 2022/502 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/743083300)
 
 Davalı vekili cevap dilekçesinde özetle; açılan davayı kabul etmediklerini, takip dayanağı çekin zamanında ibraz edilmemesi gerekçesi ile kambiyo senedi vasfını yitirdiğini, böyle bir belgenin adli havale niteliği taşımakta olduğunu, borç ikrarını içermediğini, bu itibarla borçlu hakkında böyle bir belgeye dayanarak ilamsız takip yapılamayacağını, ayrıca takip dayanağı çek hakkında Gaziantep .... Asliye Ticaret Mahkemesi'nde .... esas numaralı dosya ile menfi tespit davası açıldığını, halen derdest olduğunu ve davacı tarafında bu dosyaya asli müdahil olarak katıldığını, bu sebeple bu dosyanın bekletici mesele yapılmasını belirterek kanuna aykırı olarak açılan davanın reddini istemiştir.
 
@@ -119,6 +133,8 @@ Tüm bu açıklamalar ışığında somut olaya gelindiğinde, itirazın iptalin
 İtirazın iptâli davasının görülebilmesi, geçerli bir icra takibinin varlığına bağlıdır. Ortada geçerli takip yoksa itirazın iptâli davasının görülebilmesine usulen olanak yoktur. İcra dairesinin yetkisine itiraz halinde bu itiraz usulünce incelenip sonuçlandırılmadığı sürece geçerli bir takibin varlığından söz edilemez. O halde mahkemece, icra dairesinin yetkisine itiraz edildiği gözetilerek eldeki davada öncelikle bu itiraz incelenerek doğru bir şekilde karar verilmelidir. Hukuk Genel Kurulunun 06/04/2004 tarih, 2004/19-410 esas, 2004/471 karar sayılı ilamı da bu yöndedir. İlâmsız icrada genel yetkili icra dairesi borçlunun ikametgahındaki icra dairesidir.
 
 ## İzmir BAM 17. HD 2022/465 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744399800)
 
 Davalı vekili; müvekkili adresinin .... Sit.
 
@@ -144,6 +160,8 @@ Dava, satım ilişkisine dayalı alacağın tahsili için başlatılan icra taki
 
 ## Adana BAM 9. HD 2022/429 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748396000)
+
 Yerel mahkemece verilen karar ile;
 " TBK nun 89. maddesi uyarınca alacağın tahsili için başlatılan icra takibinde alacaklının ödeme zamanındaki yerleşim yeri İcra Daireleri yetkili olduğundan davalı vekilinin İcra Müdürlüğü'nün yetkisine yönelik itirazının mahkememizin ara kararı ile reddine karar verildiği, davacı alacağının 13.984,00.TL kalacağı, takip tarihine kadar alacağa uygulanan faiz tutarının 265,22.TL olduğu, bu kısma yönelik davalı borçlunun itirazının haksız olup iptali gerektiği anlaşıldığından davanın kısmen kabul kısmen reddi ile davacı alacaklı vekili tarafından, davalı borçlu aleyhine Mersin 3 İcra Müdürlüğü'nün ... esas sayılı takip dosyasında 13.984,00.TL asıl alacak, 265,22.TL işlemiş faiz olmak üzere toplam 14.249,22.TL tutarındaki alacağın icra gideri, vekalet ücreti ve asıl alacağa takip tarihinden itibaren işleyecek %9,75 ticari avans faizi ile tahsiline ilişkin icra takibine yönelik davalı borçlunun itirazının iptali ile takibin devamına, davacının fazlaya ilişkin talebinin reddine, 13.984,00.TL asıl alacağın %20 si olan 2.796,80.TL icra inkar tazminatının davalı borçludan alınarak davacı alacaklıya verilmesine, davalının tazminat talebinin icra takibinin haksız olmakla birlikte kötü niyetli
 olduğu ispat edilemediğinden ve koşulları oluşmadığından reddine" şeklinde karar verilmiştir.
@@ -166,6 +184,8 @@ Yetki; 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 5.vd. maddelerinde düzenlenm
 
 ## Ankara BAM 22. HD 2022/428 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748542600)
+
 Mahkemece, taraflar arasında sözleşme ilişkisinin bulunmadığı, takibe konu temliknamede davalı tarafından dava dışı şirketten olan alacağının davacıya temlik edildiği, temliknamede davalı tarafından ödenmesi kararlaştırılan bir para alacağının bulunmadığı, sözleşme ilişkisinin bulunmaması nedeni ile icra takibinde talep edilen borcun bir miktar para alacağına ilişkin olduğunun kabul edilemeyeceği, TBK’nın 89. Maddesinin uygulama yeri bulunmadığı, davalının yerleşim yerinin Samsun İli Tekkeköy İlçesi olduğu, HMK’nın 6. maddesi gereğince yetkili yerin davalının yerleşim yeri olduğu gerekçesi ile dava şartı yokluğu nedeni ile davanın reddine karar verilmiştir.
 
 …
@@ -173,6 +193,8 @@ Mahkemece, taraflar arasında sözleşme ilişkisinin bulunmadığı, takibe kon
 İİK’nın 50.maddesinin 1.fıkrasında icra dairesinin yetkisi düzenlenmiş olup buna göre 6100 sayılı HMK’nin yetkiye dair hükümleri kıyas yolu ile uygulanacaktır. Bunun yanında akdin yapıldığı yer icra dairesinin de yetkili olduğu düzenlenmiştir. İtirazın iptali davalarında icra takibinin yapıldığı icra dairesinin yetkisine yönelik itirazlar da öncelikle incelenmelidir.
 
 ## Samsun BAM 5. HD 2022/421 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/742228800)
 
 Davalı vekili cevap dilekçesinde özetle; davacı şirketin farazi hesaplamalara dayalı olarak talepte bulunduğunu, haksız fiilin oluşumunda kendi kusuruna hiç değinmediğini, yol yapım çalışması olduğu bildirilmesine rağmen davacı şirketin sahada eleman bulundurmaktan imtina ettiğini, böylelikle üzerine düşen özen ve yükümünü yerine getirmediğini, itirazın iptali davasının yapılan kısmi ödeme nazara alınmayarak açıldığını, ödemenin yok kabul edilmesi halinde taraflarına iadesinin gerekeceğini, yapılacak bilirkişi incelemesinde davacı şirketin asli kusurlu olduğunun anlaşılacağını belirterek, davanın reddini savunmuştur.
 
@@ -185,6 +207,8 @@ Mahkemece ''İcra Dairesinin yetkisine itiraz edilmiş olmakla öncelikle bu hus
 Taraf vekillerinin istinaf başvurusunun 6100 sayılı HMK'nun 353/1-b.1 maddesi gereğince ayrı ayrı ESASTAN REDDİNE …
 
 ## İzmir BAM 11. HD 2022/413 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736670200)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece iddia, savunma ve tüm dosya kapsamı birlikte değerlendirilerek davalıların icra takip dosyasında yetki itirazları uyarınca İzmir İcra Dairelerinin yetkisiz olduğunu, yetkisiz icra dairesinde başlatılan takibin geçerli bir takip olmadığını İİK 'nın 50. maddesi atfıyla HMK nın 114/2 veğ 115/2. maddeleri gereğince dava şartı yokluğunu gereğiyle davanın usulden reddine karar verilmiştir.
 

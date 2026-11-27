@@ -77,6 +77,8 @@ Davalı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESA
 
 ## Adana BAM 9. HD 2026/1064 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209077500)
+
 Davalı vekili cevap dilekçesinde özetle; müvekkilinin hem yetkisiz icra dairesine hem yetkili icra dairesine yaptığı itirazında asıl alacağa değil takip talebi ve ödeme emri ile takip dayanağı belgelerdeki usulsüzlüklere itiraz etmiş olduğunu, takibin dayanağı cari hesap ve dört adet fatura olarak gösterilmesine rağmen ödeme emrinde borcun sebebi kısmına talep edilen asıl alacak ve birikmiş faiz toplamı olan alacak miktarı yazılmış olduğunu, davacının müvekkilini temerrüde düşürmeden fatura tarihlerine göre geçmiş gün faizi hesaplayıp asıl alacakla birlikte 4.783,85 TL geçmiş gün faizi talep edildiğini, müvekkilinin takipten önce keşide edilmiş herhangi bir ihtarname ile temerrüde düşürülmediğini, temerrüt oluşmadan faiz talep edilmesinin yasal olmadığını, bu nedenle davacının takip öncesi faiz hesaplayıp icra takibini ona göre açmasının yasal olmadığını, davacı tarafın ancak takip sonrası faiz talep edebileceğini belirterek davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -202,6 +204,8 @@ Davalı vekilinin istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b.1 maddesi
 
 ## İstanbul BAM 12. HD 2026/723 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204854800)
+
 İLK DERECE MAHKEME KARARI :
 Mahkemece; ilk olarak 2015/824 Esas - 2020/663 Karar sayılı ve 15/10/2020 tarihli karar ile davalı ... ve ...'un ödeme emrine itirazı süresinde olmadığından davanın usulden reddine , diğer davalılar bakımından; taraflar arasındaki sözleşmenin 4. maddesinde devir bedeli ve ödeme şeklinin hükme bağlandığı, 23.05.2013 tarihi itibariyle oluşacak borçlardan 2.000.000-TL'nin çıkartılarak bulunacak tutarın tamamı için payları oranında davacıya borçlanacakları, 6. maddede, satıcıların müştereken ve müteselsilen sorumlu olduklarını, 4. maddede faiz oranına ilişkin olarak, bedelin geri ödenmesine kadar geçen sürede ... şirketinin ...'tan kullandığı kredinin faiz oranı kadar bir faiz ilave edileceği, 14/05/2013 tarihli sözleşmenin 4. maddesi, 22/06/2013 tarihli mutakabat belgesi ve bu belgenin ekindeki 01/07/2013 tarihli beyan ve taahhütnameye göre, davalıların söz konusu borçtan müteselsilen sorumlu oldukları, buna göre davacının toplamda talebiyle bağlı kalınarak 691.000-TL asıl alacağının mevcut olduğu, ...'tan bildirilen kredi faiz oranının %15,25 olması nedeniyle takip tarihine kadar hesaplanan faiz alacağının 103.645,27-TL olduğu, icra takibinde 93.621,03-TL talep edilip işbu dava ile
 faiz oranına göre ek olarak 61.513,20-TL talep edildiği gerekçesiyle, davalılar ... ve ... aleyhine açılan itirazın iptali davasının usulden reddine, diğer davalılar aleyhine açılan itirazın iptali davasının kabulüne, tüm davalılar aleyhine açılan alacak davasının ise kısmen kabulü ile 10.024,24-TL faiz alacağının davalılardan tahsiline,fazla istemin reddine karar verilmiştir.
@@ -243,6 +247,8 @@ Bu durumda, davalıların dava konusu icra takibinde icra müdürlüğünün yet
 Davacı vekilinin istinaf başvurusunun HMK'nın 353/(1)-b.1 maddesi gereğince ESASTAN REDDİNE …
 
 ## Sakarya BAM 7. HD 2026/706 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207698000)
 
 Davalı vekilinin sunmuş olduğu cevap dilekçesinde özetle; davacının talebinin haksız ve mesnetsiz olduğu davacının T. Emlak Katılım Bankası A.Ş.
 

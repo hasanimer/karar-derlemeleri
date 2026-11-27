@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/35 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131585500)
+
 Mirasın Kanunda öngörülen koşullarının gerçekleşmesi üzerine mahkemece yapılan resmî tasfiye; Miras Hukukunda “kendiliğinden resmi tasfiye” ve “isteme bağlı resmi tasfiye” şeklinde düzenlenmiş olup mirasın en yakın mirasçıların tamamı tarafından reddolunması kendiliğinden resmî tasfiye kapsamındadır.
 
 ## Yargıtay HGK 2024/198 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038870100)
 
 Öncelikle belirtmek gerekir ki; verilen bir hüküm, Yargıtay tarafından bozulduğu ve Mahkemece bozma kararına uyulduğu takdirde, bozma sonrası yapılan yargılamada “bozma kararı doğrultusunda inceleme yapılmak ve hüküm kurulmak” zorundadır. 6100 sayılı Kanun’un 176 ncı maddesi uyarınca da taraflardan her birinin, yapmış olduğu usul işlemlerini kısmen veya tamamen ıslah edebileceği düzenleme altına alınmıştır. Buna göre davacı, davasını tamamen ıslah ederek davayı veya dava sebebini değiştirebilir (Baki Kuru, Burak Aydın, Medeni Usul Hukuku El Kitabı, Cilt II, Ankara-2021, s. 1215). Somut olayda davacı 21.10.2014 tarihinde 4721 sayılı Kanun’un 617 nci maddesine dayalı “mirası reddin iptali” davasını açmış ise de 24.06.2015 tarihli dilekçesi ile davasını tamamen ıslah ederek, davada dayandığı hukuki sebebi 2004 sayılı Kanun’un 277 ve devamı maddelerinde düzenlenen “tasarrufun iptali” davası olarak belirtmiştir.
 Dolayısıyla davacı açıkça dava sebebini ıslah yoluyla tasarrufun iptali olarak belirlediğine, Yargıtayın birinci bozma ilamında davanın 2004 sayılı Kanun’un 277 ve devamı maddelerinde düzenleme altına alınan tasarrufun iptali davası olarak kabul edildiğine ve özellikle mahkemece bu bozma ilamına uyularak yargılama yapıldığına göre davanın 4721 sayılı Kanun’un 617 nci maddesi kapsamında açılan bir dava olduğu kabul edilerek “hak düşürücü süre nedeniyle davanın reddine” dair verilen direnme kararı isabetli olmamıştır.
@@ -34,6 +38,8 @@ Tasarrufun iptali davası şahsi nitelikte bir dava olduğundan, işlemden yarar
 Tüm bu genel açıklamalar ışığında, 4721 sayılı Kanun’un 617 nci maddesi uyarınca “mirasın reddinin iptali” istemiyle açılan eldeki davada, davacının dayandığı hukuki sebebi 2004 sayılı Kanun’un 277 ve devamı maddelerinde düzenleme altına alınan “tasarrufun iptali” davası olarak ıslah ettiği, her iki dava hakkının yarıştığı, bozma kararına uyan Mahkemece somut olayın çözümünde 2004 sayılı Kanun’un 277 ve devamı maddelerinde düzenleme altına alınan hükümler uyarınca yargılama yapılması gerekirken, yanlış hukuki değerlendirme ile dava mirasın reddinin iptali davası olarak değerlendirilmiş hak düşürücü süre nedeniyle davanın reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay HGK 2016/551 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/233631300)
 
 Defter tutma işleminin yapıldığı sürece, ancak telafisi (gecikmesi) terekenin zararına olan idarî tasarruflar yapılabilir. Resmi defter tutulması devam ettiği sürece miras bırakanın borçları için icra takibi yapılamaz, yapılmakta olan icra takibi durur, bu süre içinde zamanaşımı işlemez. Acele haller dışında, davalara devam edilemeyeceği gibi, yeni dava da açılamaz (TMK. m. 625).
 
@@ -51,15 +57,21 @@ Bu durumda murisin ölümüyle mirasın gerçek reddi beyanını tespit eden mah
 
 ## Yargıtay 3. HD 2025/5153 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195916400)
+
 TMK'nın 612. maddesinde, en yakın yasal mirasçıların tamamı tarafından reddedilmesi halinde mirasın sulh mahkemesince iflâs hükümlerine göre tasfiye edileceği, tasfiye sonunda arta kalan değerlerin mirası reddetmemişler gibi hak sahiplerine verileceği öngörülmüştür.
 
 Buna göre en yakın yasal mirasçıların tamamının mirası reddettiği anlaşılıyorsa sulh hukuk hakimi resen tasfiye yoluna gitmelidir (Kendiliğinden resmi tasfiye). Bunun için başvuruya gerek yoktur. Tasfiye, sulh hukuk mahkemesince veya atayacağı bir ya da birkaç tasfiye memuru tarafından yapılır (TBM m.634). Terekeyi mahkemelerde ve dışarıda Tasfiye memurları temsil eder (Tüzüğün 53.maddesi atfıyla TTK m.280).
 
 ## Yargıtay 11. HD 2025/3117 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152953000)
+
 En yakın yasal mirasçılarının mirasını reddetmesiyle müteveffa davalıların terekesi 4721 sayılı Türk Medeni Kanunu'nun 612. maddesine göre iflas usullerine göre yapılacak tasfiyeye tabi olup, terekenin tasfiye edileceği dikkate alınarak, davalı müteveffa ...'e terekesine tasfiye için tereke memuru tayin edilip edilmediği araştırılıp, eğer tayin edilmemişse bu hususta ilgili Mahkemeye gerekli ihbar yapılıp tereke tasfiye memuru atandıktan sonra, eğer ki tayin edilmişse buna ilişkin kararın dosyaya kazandırılmasıyla birlikte; davalı müteveffa ... ve davalı müteveffa ... yönünden İlk Derece Mahkemesi kararının ve davalıların temiz dilekçelerinin tereke tasfiye memurlarına tebliği ile temyiz dilekçelerini ve temyize cevap dilekçelerini sunma süresi beklenildikten sonra bu dilekçeler sunulmasa dahi her halde davalılar vekillerinin temyiz sebeplerinin incelenmesi amacıyla Dairemize gönderilmesi için dosyanın mahalline geri çevrilmesine karar vermek gerekmiştir …
 
 ## Yargıtay 2. HD 2025/2452 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140037500)
 
 4721 sayılı Türk Medeni Kanunu'nun (TMK) “En yakın mirasçıların tamamı tarafından ret” başlıklı 612. maddesi “En yakın yasal mirasçıların tamamı tarafından reddolunan miras, sulh mahkemesince iflâs hükümlerine göre tasfiye edilir. /Tasfiye sonunda arta kalan değerler, mirası reddetmemişler gibi hak sahiplerine verilir.” şeklindedir.
 
@@ -69,13 +81,19 @@ TMK 634/1. maddesi de “Resmî tasfiye, sulh mahkemesince veya atayacağı bir 
 
 ## Yargıtay 3. HD 2022/7036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/821479400)
+
 Terekenin defterinin tutularak tespiti sonucunda mirasçılar mirasın reddi veya kabulü konusunda karar verebileceklerinden TMK'nın 625.maddesi gereğince resmi defter tutulması devam ettiği sürece mirasbırakanın borçları acele haller dışında davalara devam edilmeyeceği düzenlenmiştir.
 
 ## Yargıtay 12. HD 2022/3518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/767644400)
+
 4721 sayılı Türk Medeni Kanunu'nun 612. maddesi ''En yakın yasal mirasçıların tamamı tarafından reddolunan miras Sulh Hukuk Mahkemesi'nce iflas hükümlerine göre tasfiye edilir.'' hükmünü, bu maddenin atıfta bulunduğu aynı Kanunun 636. maddesi "Mevcudu borçlarını ödemeye yetmeyen terekenin tasfiyesi, sulh mahkemesince iflas hükümlerine göre yapılır." hükmünü, 10.08.2003 tarih ve 25195 sayılı Resmi Gazete'de yayımlanan Türk Medeni Kanunu'nun Velayet, Vesayet ve Miras Hükümlerinin Uygulanmasına İlişkin Tüzük'ün 52. maddesi, "Resmi deftere göre terekenin mevcudunun borçlarını ödemeye yetmediği anlaşılır veya başlangıçta mevcudun borcu karşılayacağı kanaati ile olağan usulle tasfiyeye başlanıp sonradan mevcudun borçları ödemeye yetmediği sonucuna varılırsa, sulh hakimi durumu derhal alacaklılara bildirir ve iflas usulü ile tasfiyeye karar vererek bu tasfiyeyi yapmak için bir veya birkaç memur atar. Bu tasfiye, İcra ve İflas Kanunu'nun iflasa ilişkin hükümlerine göre yapılır." hükmünü içermektedir.
 
 ## Yargıtay 12. HD 2022/2705 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748987000)
 
 TMK'nın 619. maddesinde; ”Mirası reddetmeye hakkı olan her mirasçı, terekenin resmi defterinin tutulmasını isteyebilir…”
 
@@ -85,6 +103,8 @@ Somut olayda; İstanbul ... 14. Sulh Hukuk Mahkemesi’nin 2021/3 Tereke sayıl�
 
 ## Yargıtay 5. HD 2022/2690 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/735034500)
+
 Dava, terekenin iflas hükümlerine göre tasfiyesi istemine ilişkindir.
 
 …
@@ -93,13 +113,19 @@ En yakın yasal mirasçıların tamamı tarafından reddolunan miras sulh hukuk 
 
 ## Yargıtay 7. HD 2022/406 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737796600)
+
 4721 sayılı Türk Medeni Kanununun 619. maddesi uyarınca terekenin resmi defterinin tutulmasını talep etmiştir. Mahkemece, yukarıdaki açıklamalar doğrultusunda inceleme yapılarak TMK’nın 626. ve 627. maddeleri gereğince ihtaratlar yapıldıktan sonra bir karar verilmesi gerekirken, hukuki nitelendirmede hata yapılarak yazılı şekilde hüküm kurulması doğru görülmemiş, hükmün bu sebeplerle bozulması gerekmiştir.
 
 ## Yargıtay 3. HD 2021/12728 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727998800)
+
 Türk Medeni Kanunun 612.maddesinde yer alan hüküm, müteveffanın alacaklılarını korumak amacı ile vaz edilmiştir. Tereke mallarının mirasçıların yerine geçmesi sonucunda alacaklarını alabilmekte endişe eden alacaklılarında resmi tasfiye isteyebilecekleri hükme bağlanmıştır. Resmi tasfiye için esasen bir istekte gerekmez. Mahkeme en yakın tüm mirasçıların reddini belirlediği anda iflas usuli ile tasfiyeye geçmelidir.
 
 ## Yargıtay 7. HD 2021/3723 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727615300)
 
 3.2.2 Türk Medeni Kanunun 611. maddesine göre ise“yasal mirasçılardan biri mirası reddederse onun payı, miras açıldığı zaman kendisi sağ değilmiş gibi, hak sahiplerine geçer” hükmü düzenlenmiştir.
 
@@ -109,9 +135,13 @@ Türk Medeni Kanunun 612.maddesinde yer alan hüküm, müteveffanın alacaklıla
 
 ## Yargıtay 12. HD 2021/1942 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651475700)
+
 Her ne kadar mahkemece TMK’nın 617. maddesi gereği mirasın reddi kararı iptal edilen mirasçıların miras payının resmi tasfiyeye tâbi olacağı, resmi tasfiye halinde mirasçıların tereke borcundan sorumlu olmayacağı gerekçesi ile takibin iptaline karar verilmiş ise de; “ Mirasçıların alacaklılarının korunması “ başlıklı TMK ’nın 617. maddesinde; “ Malvarlığı borcuna yetmeyen mirasçı, alacaklılarına zarar vermek amacıyla mirası reddederse; alacaklıları veya iflas idaresi, kendilerine yeterli bir güvence verilmediği taktirde, ret tarihinden başlayarak altı ay içinde reddin iptali hakkında dava açabilirler.
 
 ## Yargıtay 14. HD 2021/602 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642710300)
 
 Dava, terekenin iflas hükümlerine göre tasfiyesine ilişkindir.
 
@@ -123,15 +153,21 @@ Somut olaya gelince; sulh hukuk mahkemesince yapılacak resmi tasfiye bir sürey
 
 ## Yargıtay 14. HD 2021/251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636471700)
+
 TMK'nın 612. maddesinde, en yakın yasal mirasçıların tamamı tarafından reddolunan mirasın sulh mahkemesince iflas hükümlerine göre tasfiye edileceği, tasfiye sonunda arta kalan bir değer varsa bunun mirası reddetmemişler gibi hak sahiplerine verileceği öngörülmektedir. Buradaki "en yakın mirasçılar" kavramıyla anlatılmak istenen, mirasbırakanın ölümünde ilk bakışta ve doğrudan doğruya mirasçı sıfatına sahip olan yasal mirasçılardır.
 
 Terekenin iflas hükümlerine göre tasfiyesi" ve "terekenin resmen tasfiyesi" terekenin (mirasın) tasfiyesini amaçlamakla birlikte, farklı kurumlardır. Her şeyden önce, terekenin iflas hükümlerine göre tasfiyesi İcra ve İflas Kanuna göre (İİK m. 180; 208 vd); terekenin resmi tasfiyesi ise, Medeni Kanun hükümlerine göre (TMK m. 632-635) gerçekleştirilmek durumundadır.
 
 ## Yargıtay 12. HD 2020/8409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598139000)
+
 İnceleme konusu Bölge Adliye Mahkemesince verilen karar, terekenin tasfiyesine yönelik olarak yapılan ihalenin feshi talebine ("4721 sayılı TMK'nın “Miras Hukuku” (TMK 3. Kitap) hükümlerinden kaynaklanan ve diğer dairelerin görevine girmeyen davalar sonucu verilen hüküm ve kararlar"ın temyizine) ilişkin olup, yukarıda sözü edilen Yargıtay Büyük Genel Kurulu İş Bölümü kararına göre, belirgin biçimde Dairemizin inceleme alanı dışında kalmakta ve niteliği bakımından Yargıtay 14. Hukuk Dairesinin görevi içine girmektedir.
 
 ## Yargıtay 14. HD 2020/5856 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/616584500)
 
 Dava, alacaklıları zararlandırmak amacıyla (kötüniyetle) yapılan reddin iptali isteğine ilişkin olup, Türk Medeni Kanununun 617.
 
@@ -143,9 +179,13 @@ Somut olaya gelince, mahkemece davanın kabulüne karar verilmesinde bir isabets
 
 ## Yargıtay 15. HD 2020/3180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623829500)
+
 Bu durumda mahkemece yapılacak iş; davacı yüklenici mirasçılarının murisin mirasını kayıtsız şartsız reddetmeleri üzerine 4721 sayılı TMK 612/1. maddesine göre terekenin tasfiye işlemlerinin İzmir İflas Müdürlüğü’nün 2015/62 İflas sayılı dosyasında yürütüldüğü gözetilerek davada husumetin tasfiye memuru olarak görevlendirilen iflas idaresine yöneltilmesi ve İzmir İflas Müdürlüğü’nün 2015/62 İflas sayılı dosyasına bozmadan sonra mahkemenin yeni esas numarası ile duruşma gününü bildiren usulüne uygun tebligat yapılıp, taraf teşkilinin sağlanmasından sonra yargılamaya devam edilerek işin esası incelenip, sonucuna göre hüküm kurmaktan ibarettir.
 
 ## Yargıtay 8. HD 2019/11381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648139500)
 
 Katılma alacağı ve terekeden kaynaklanan haklar arasındaki farklılıklar kabaca şöyle sıralanabilir; katılma alacağı bakımından; 1. Katılma alacağı şahsi hak niteliğinde bir nispi alacak hakkıdır, 2.Katılma alacağı kanundan kaynaklanmaktadır, 3. Ölümle sona eren edinilmiş mallara katılma rejiminin tasfiyesi ölen eşin terekesinin paylaşılmasının bir ön koşulu olarak ortaya çıkmaktadır, 4. Katılma alacağı terekenin öncelikle ve peşin ödenmesi gereken borçları arasında yer almaktadır, 5. Katılma alacağı, miras bırakanın borcudur, 6. Miras bırakanın ölümü ile borçlu olma sıfatı mirasçılarına geçer ve mirasçılar TMK'nin 641. maddesine göre borçlardan müteselsilen sorumludurlar, 7. Davacı sağ eş, hem katılma alacağı nedeniyle tereke alacaklısı ve hem de tereke borcundan dolayı mirasçı sıfatıyla tereke borçlusudur. Bu nedenle alacaklı ve borçlu sıfatı davacı sağ eşte birleşmiş durumdadır, 8. Katılma alacağı alacaklısı miras payı oranında tereke borçlarından sorumludur, 9. Sağ eş katılma alacağını aldıktan sonra borca batık mirası (terekeyi) reddetme hakkı vardır, 10.
 Edinilmiş malların sürüm değerleri tasfiye anındaki yani karar tarihine en yakın tarihteki değerleri hesaplamaya esas alınır (TMK mad.235/1), bu sebeple davanın sürecine göre ölüm tarihi ile karar tarihi arasında uzun süre geçmiş olabilir (3-5 yıl, hatta daha fazla olabilir), 11. Sağ eşin aldığı katılma alacağı, ölenin evlilik süresince edindiği mallara katkısının bir karşılığıdır, 12-Mal rejiminin tasfiyesinde yetkili ve görevli mahkeme Aile Mahkemesidir, 13. Katılma alacağı oranı kanun gereği ½ (yarı) olup, sabit bir oran olarak belirlenmiştir (TMK mad. 236/1), 14. Edinilmiş mallara katılma rejiminin tasfiyesine konu mallar kural olarak edinilmiş mallardır. Miras (tereke) hakları bakımından ise; 1. Terekeden doğan hak şahsi hak niteliğinde bir nispi alacak hakkı olmayıp, miras hukukundan kaynaklanan bir ayni hak, yani bir ayni paylaşımdır. 2. Mirasçılar tereke borçlarından müteselsilen sorumludur. (TMK mad. 641/1), 3. Terekenin tasfiyesine konu mallar murisin hem kişisel malları ve hem de edinilmiş mallarıdır. 4.Terekenin net miktarının (net terekenin) bulunması için öncelikle tasfiyede sağ kalan eşin katılma alacağının çıkarılması gerekmektedir.
@@ -157,9 +197,13 @@ ret, mirastan çıkartma, mirastan yoksunluk gibi) yasal mal rejimi tasfiyesinde
 
 ## Yargıtay 11. HD 2019/7420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/562872900)
+
 Dava dosyası içerisindeki bilgi ve belgelere, mahkeme kararının gerekçesinde dayanılan delillerin tartışılıp, değerlendirilmesinde usul ve yasaya aykırı bir yön bulunmamasına mirasçıların, muris ...'a mirasını red etmeleri nedeniyle TMK 612 maddesi gereğince, Ankara 7 Sulh Hukuk Mahkemesinin 2015/78 esas sayılı dosyasında iflas hükümlerine göre terekenin tasfiye edilmiş bulunmasına ve dosyada murise ait hiçbir mal varlığının bulunmaması nedeniyle terekenin tasfiyesinin borçlu olarak kapatılmış olmasına, gelinen bu aşamada İstanbul 1.Asliye Ticaret Mahkemesinin 2014/38 esas sayılı dosyasında diğer davalılar hakkındaki davanın sonuca etkili bulunmamasına göre davacı vekilinin tüm temyiz itirazları yerinde değildir.
 
 ## Yargıtay 14. HD 2019/767 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479048400)
 
 Dava, terekenin tespiti isteğine ilişkindir.
 
@@ -170,6 +214,8 @@ Toplanan deliller, tüm dosya kapsamından; taraflar arasındaki uyuşmazlığı
 
 ## Yargıtay 14. HD 2017/2683 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360457600)
+
 Dava, terekenin iflas hükümlerine göre tasfiyesi aşamasında düzenlenen geçici dağıtım pay cetvelinde imtiyazlı alacağın sırasının düzeltilmesi ve tamamen reddedilen alacağa ilişkin kayıt kabul davası açılmış olmakla “nizalı alacak” olarak yazılması istemlerine ilişkindir.
 
 …
@@ -177,6 +223,8 @@ Dava, terekenin iflas hükümlerine göre tasfiyesi aşamasında düzenlenen ge�
 Türk hukuku bakımından terekenin tasfiyesi için iki usul öngörülmüştür. Bu usullerden Türk Medeni Kanununun 632 ve izleyen maddelerinde düzenlenmiş tasfiye biçimi kural niteliğinde ise de istisnai durumlarda (TMK. m. 612 ve 636) İcra ve İflas Kanunu hükümlerine göre tasfiye usulü de benimsenmiştir. Ne var ki iflas hükümlerine göre yapılan tereke tasfiyesinin de iflasa ilişkin tasfiyeden farklı yanları bulunmaktadır; bu bağlamda iflasta asliye ticaret mahkemesince yapılması öngörülen bütün işlemler, terekenin iflas hükümlerine göre tasfiyesinde sulh hukuk mahkemesince yapılır.
 
 ## Yargıtay 14. HD 2017/1918 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/321204200)
 
 Dava, terekenin korunması amacıyla tespiti talebine ilişkindir.
 
@@ -188,6 +236,8 @@ Koruma önlemi olarak terekenin tespiti işlemi, kural olarak bir süreye bağl�
 
 ## Yargıtay 14. HD 2017/1622 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/320275000)
+
 Dava, miras payının devri sözleşmesinin iptali istemine ilişkindir.
 
 …
@@ -197,6 +247,8 @@ Miras ölümle açılır ve herhangi bir işleme gerek olmadan kendiliğinden bi
 
 ## Yargıtay 14. HD 2016/11027 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/331059600)
+
 Dava, mirastan feragat sözleşmesinin iptali istemine ilişkindir.
 
 …
@@ -205,10 +257,14 @@ Miras ölümle açılır. Herhangi bir işleme gerek olmadan kendiliğinden bir 
 
 ## Yargıtay 14. HD 2016/475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/181809500)
+
 …
 
 .... Sulh Hukuk Mahkemesinin 2013/395 Esas sayılı dosyasında uyuşmazlık TMK'nın 619. maddesi gereği terekenin resmi defterinin tutulmasına ilişkindir. Mirası reddetmeye hakkı olan mirasçılar, mirasbırakanın yerleşim yeri sulh hakimine Türk Medeni Kanununun 606. Maddesinde öngörülen sürelerin işlemeye başladığı tarihten itibaren bir ay içinde yapacakları sözlü veya yazılı beyanla terekenin resmi derfterinin tutulmasını isteyebilirler. Sözlü beyan tutanağa geçirilerek, beyanda bulunana imza ettirilir. Terekenin resmi derfterinin tutulması başvurusu üzerine istem esas defterine kaydedilerek bir dosya açılır. (TMK. md. 619, Velayet Vesayet Tüzüğü md. 40) Terekenin resmi derfteri hakimin gözetimi altında bu işle görevlendirilecek katibe tutturulur. (Velayet Vesayet Tüzüğü md. 42/1) Terekenin defter tutma giderleri terekeden ödenir. Giderler terekeden karşılanamazsa defter tutulmasını istemiş olan mirasçılardan alınır. (Velayet Vesayet Tüzüğü md. 42/son)
 
 ## Yargıtay 14. HD 2015/10529 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/179904800)
 
 Somut olayda; dava, murisin en yakın mirasçılarının tamamı tarafından reddolunan mirasın TMK'nın 612. maddesine gereğince sulh hukuk mahkemesince iflas hükümlerine göre tasfiyesine ilişkindir. Mahkemece dava, TMK'nın 633/1. maddesine dayalı murisin alacaklılarının istemi ile terekenin resmi tasfiyesi olarak nitelendirilerek üç aylık hak düşürücü süre içinde açılmadığı gerekçesiyle reddedilmiştir. En yakın yasal mirasçıların tamamı tarafından reddolunan miras sulh hukuk mahkemesince iflas hükümlerine göre tasfiye edilir. (TMK md. 612) Bu madde uyarınca yapılacak tasfiye süreye tabi değildir. Bu bakımdan iddia çerçevesinde inceleme yapılıp sonucuna göre karar verilmesi gerekirken yanılgılı değerlendirme ile davanın reddine karar verilmesi doğru görülmemiş, bu nedenle hükmün bozulması gerekmiştir.

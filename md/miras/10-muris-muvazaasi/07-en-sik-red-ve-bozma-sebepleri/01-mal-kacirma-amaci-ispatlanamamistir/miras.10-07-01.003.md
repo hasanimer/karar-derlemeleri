@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2013/16138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254408200)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis istemine ilişkindir.
 
 …
@@ -32,10 +34,14 @@ Hal böyle olunca, somut olgular, açıklanan ilkeler çerçevesinde değerlendi
 
 ## Yargıtay 1. HD 2012/11482 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916142500)
+
 Daire bozma kararında, muris muvazaasına ilişkin ilkeler duraksamaya yer bırakmayacak şekilde belirtilmiş olup buna göre muris muvazaasının objektif ve subjektif olmak üzere iki koşulu bulunduğu öngörülmüştür. Bunlardan bir tanesi satış bedeli olup objektif unsuru teşkil eder. Diğeri ise, subjektif unsurdur. Yapılan temlikin bedelsiz olması, bir başka ifadeyle objektif unsurunun bulunmaması temlikin başlı başına muvazaalı olduğunu göstermez Bu husus sapma göstermeksizin Yargıtay İçtihatları ile kabul edildiği gibi dokrinde de aynen benimsenmiştir. O halde, mirasbırakanın temlikteki gerçek iradesinin açığa kavuşturulması zorunludur. Öte yandan, TMK'nun 6. maddesi hükmü uyarınca somut olayda olduğu gibi davacının muvazaa olgusunu ispatlaması gerekir. Ne var ki, dosya kapsamı ile davacının iddiasını kanıtladığı kabul edilemez. Esasen bu husus davanın reddi için başlı başına bir sebeptir. Ancak davalı da ineklerini satarak elde ettiği bedel ile taşınmazlardaki payları edindiğini savunmuşsa da bu husus da kanıtlanmış değildir.Öyle ise, çekişme ortada bırakılamayacağına göre mirasbırakanın gerçek iradesi yönünde subjektif unsurun ispatı bakımından tanık sözleri önem ifade eder.
 Dinlenilen tanıklar ise, mirasbırakanın temlikteki amacının murise bakılması sebebiyle minnet duygusunun gereği olarak temlikin gerçekleştirildiğini söylemişlerdir.Davalının bu yönde bir savunma getirmemiş olması neticeye etkili değildir.
 
 ## Yargıtay 1. HD 2011/8340 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79070300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil isteğine ilişkin olup, mahkemece davanın kabulüne karar verilmiştir.
 
@@ -45,10 +51,14 @@ Anılan bu temlikleri gerçekleştirdiği tarihte H.'in gözetmediği başkaca m
 
 ## Yargıtay 1. HD 2011/6277 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917618700)
+
 Davanın kısmen kabulüne ilişkin olarak verilen karar, dairece; miras bırakanın çekişme konusu 131 parsel sayılı taşınmazın 1/2 payını 23.3.1990 tarihli akitle oğlu ...'e bağış yoluyla; aynı taşınmazın kalan 1/2 payını 7.12.1994 tarihli akitle kızı ...'a satış yoluyla temlik ettiği anlaşılmaktadır. Davalı ...'a yapılan pay temlikine ilişkin taşınmazın akit tarihindeki değeri ile saptanan gerçek bedeli arasında açık fark bulunduğu, esasen taşınmazın ...'a intikalinin bedelsiz yapıldığının mahkemenin de kabulünde olduğu, minnet duygusu ile yapılan bağışların gerçek satış olarak değerlendirilemeyeceği, bu amaçla gerçekleşen temliklerin diğer mirasçılardan mal kaçırma amaçlı, başka bir anlatımla diğer mirasçıları miras hakkından yoksun bırakmak amacına yönelik olduğu sonucuna varılmaktadır. Bu durumda, davalı ...'a yapılan pay temlikinin muvazaalı olduğu kabul edilmelidir. Öyleyse davanın bu yönden kabulüne karar verilmesi gerekirken yanılgılı değerlendirme ile davanın bu pay yönünden reddi doğru değildir. Diğer taraftan; dava konusu bağış yoluyla davalı ...'e yapılan temlik açısından, bilindiği gibi, koşulların mevcudiyeti halinde bağış yoluyla yapılan temliki işlemlerin ...
 Medeni Yasasının 565. maddesi gereğince tenkise tabi tutulacağı kuşkusuzdur. Tenkis isteğinin de süresinde yapıldığı anlaşılmaktadır. Ne var ki, tenkis isteği ile ilgili olarak yapılan inceleme ve araştırmanın hüküm vermeye yeterli olduğu söylenemez. Hal böyle olunca; davalı ... hakkındaki davanın kabulüne, davalı ... hakkında açılan dava yönünden ise gerekli araştırma yapılarak davalı ...'dan muris muvazaası nedeniyle intikal edecek pay da gözetilerek varılacak sonuca göre bir hüküm kurulması gerekirken yazılı olduğu üzere hüküm tesisi isabetsizdir” gerekçesiyle bozulmuş, mahkemece, bozma ilamına uyularak davanın kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2010/4840 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79498500)
 
 Dava, muris muvazaası hukuksal nedenlerine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
@@ -57,6 +67,8 @@ Dava, muris muvazaası hukuksal nedenlerine dayalı tapu iptal ve tescil isteği
 Bilindiği üzere; 01.04.1974 tarih ve 1/2 Sayılı İçtihadı Birleştirme Kararı’nın uygulanabilmesi, miras bırakanın mirasçısından mal kaçırma amacıyla taşınmazını temlik etmesine bağlıdır. Oysa somut olayda, yukarıda değinildiği gibi miras bırakanın mal kaçırma amacıyla hareket ettiğini söyleyebilme olanağı yoktur.
 
 ## Yargıtay 1. HD 2010/591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78537400)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil olmadığı takdirde tenkis; karşı dava, elatmanın önlenmesi ve yıkım isteğine ilişkindir.
 

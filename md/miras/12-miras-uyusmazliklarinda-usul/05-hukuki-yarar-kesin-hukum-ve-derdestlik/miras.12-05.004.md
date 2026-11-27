@@ -22,21 +22,29 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2013/23671 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83541600)
+
 Tarafların mirasbırakanı Maksut, 27.04.2001'de ölmüştür. Sağlığında mirasçıları arasında mirasbırakanın da katılımı ile düzenlenen 6.10.1998 tarihli sözleşme, mirastan feragat sözleşmesi (TKM. md. 475) niteliğinde olmayıp, henüz açılmamış bir miras hakkında mukaveleye (TKM. md. 613) ilişkindir. Nitekim, sözleşmenin bu nitelikte olduğu davacılar tarafından davalıya karşı daha önce açılmış olan “muvazaa” sebebiyle tapu iptali ve tescil davasını inceleyen Yargıtay 1. Hukuk Dairesi tarafından da kabul edilmiştir. Bir kimsenin sağlığında, mirasçılardan birinin diğer mirasçılar veya üçüncü bir şahıs ile olan o kimsenin mirası hakkındaki sözleşmenin geçerliliği kendisinin iştiraki ve muvafakatine bağlıdır. Mirasbırakanın iştiraki veya muvafakati olmaksızın yapılan sözleşme hükümsüzdür. Böyle bir mukavele mucibince vukuu bulan teslimat geri istenebilir (TKM. md. 613). Sözleşmenin yapıldığı tarihte mirasbırakanın tasarruf ehliyetinin bulunmadığı yapılan soruşturma ve Adli Tıp 4. İhtisas Kurulunun 28.04.2006 tarihli 1392 sayılı raporundan anlaşılmaktadır. Hukuki işlem ehliyetinin yokluğu, mirasbırakanın katılımını geçersiz kılar. Ve onu sözleşmeye katılmamış duruma getirir.
 Dolayısıyla, mirasçılar arasında mirasbırakan sağken düzenlenen 6.10.1998 tarihli sözleşme hükümsüzdür. Bu hükümsüzlük, paylaşmadan önce herhangi hak düşürücü veya zamanaşımı süresine bağlı olmaksızın her zaman ileri sürülebilir. Kesin hükümden söz edilebilmesi için aynı taraflar arasında, aynı konuda ve aynı sebebe dayanan bir hükmün varlığı zorunludur. Davacılar tarafından davalı aleyhine, daha önce açılan Çatalca 1. Asliye Hukuk Mahkemesinin 2001/222 esas, 2003/375 karar sayılı tapu iptali ve tescil davası, muvazaa hukuki sebebine dayanmakta olup, sözü edilen davada mirasbırakanın ehliyetsizliği ileri sürülmemiş ve mahkemece de bu yönde bir inceleme yapılmamıştır. Bu bakımdan, o davada verilen hüküm, ehliyetsizliğe dayanılarak açılan bu davada kesin hüküm teşkil etmez. O halde, davanın kabulü ile 6.10.1998 tarihli sözleşmenin hükümsüzlüğüne karar verilmesi gerekirken, hatalı nitelendirme ile davanın reddi doğru değildir.
 Ne var ki ilk incelemede bu husus gözden kaçtığından, hükmün gerekçesi değiştirilmek suretiyle onandığı görülmekle davacıların bu yönleri de kapsayan karar düzeltme isteklerinin kabulü ile Dairemizin onama kararının kaldırılmasına, hükmün yukarıda açıklanan sebeple bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 7. HD 2013/20922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098623700)
+
 Bilindiği üzere mahkemelerce oluşturulan hükümlerin şeklen kesin hüküm halini alabilmeleri için taraflara usulünce tebliğ edilmeleri ve haklarındaki kanun yollarının tüketilmesi zorunludur. Bu kapsamda somut olay değerlendirildiğinde; mahkemenin 24.04.2000 tarih 1991/116 Esas-2000/28 Karar sayılı dosyasında davalılardan ..., ... ve ... adına tebligatların lehine hüküm kurulan ...'a tebliğ edildiği, ... İstanbul'da ikamet ettiği halde kararın ... Köyünde oturan kayınpederi ...'na tebliğ edildiği, bu tebligatların usulsüz olduğu anlaşılmaktadır. Davalı ... isimli davalıya ise yargılama sırasında ve sonrasında hiç tebligat yapılmadığı anlaşılmaktadır. Bundan ayrı, tespit maliki ... mirasçılarından 1339 yılında vefat ettiği anlaşılan ...un kendisinden sonra vefat eden eşi ...'in ikinci evliliğinden olma çocukları..., ...ve...da mirasçı olduğu halde bu kişilere yargılama sırasında ve sonrasında tebligat yapılmamıştır. Davanın taraflarından ...'ın tüm mirasçılarının davaya çağrılması, varsa delillerinin toplanılması, kısaca taraf koşulunun oluşturulması yasal bir zorunluluk olduğu gibi mahkeme hükmünün de ...'ın tüm mirasçılarına tebliğ edilmesi yasal bir zorunluluktur.
 Hal böyle olunca usulünce taraf koşulu oluşturulmayan ve hüküm tebliği dahi tam olarak yerine getirilmeyen bir hükmün kesinleştiğinden söz edilemez.
 
 ## Yargıtay 8. HD 2013/18289 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434973400)
+
 Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına ve uyulan bozma ilamında açıklandığı üzere işlem yapılıp sonucu Dairesinde hüküm tesis edildiğine, toplanan deliller, tanık beyanları ve uzman bilirkişi raporlarına göre dava konusu taşınmazın zilyetlikle iktisap koşulları oluşmamış devletin hüküm ve tasarrufu altındaki yerlerden olduğunun belirlendiğine, kesin hüküm oluşturduğu iddia edilen ...
 1.Asliye Hukuk Mahkemesi'nin 1991/304 Esas sayılı dava dosyasında Mahkemece hem esas hem usulle ilgili olacak şekilde “922 parsel üzerinde kadastro tespit tarihi itibarıyla davalı ve satıcısı ve satıcısının murisi yararına 3402 sayılı Kadastro Kanunu'nun 14 maddesindeki koşulların oluştuğu, kaldı ki davalı ...’nın dava tarihinden önce ölmüş olup ölü kişi aleyhine dava açılamayacağı” gerekçesi ile davanın reddine karar verilmiş ise de kararın temyizi sonunda Yargıtay tarafından esasa girilmeksizin “özellikle” denmek suretiyle “4.5.1978 tarih 4/5 Sayılı İçtihatları Birleştirme Kararı uyarınca ölü kişi aleyhine dava açılamayacağı gözetilmek suretiyle, dava tarihinden önce ölmüş olduğu belirlenen davalı hakkında açılan davanın reddedilmiş olması doğru olduğuna göre” şeklinde onama sevkedildiğine, bir davada hem esas hem usulden redde karar verme imkanı olamayacağına, Mahkemenin o davada esas bakımından yaptığı değerlendirme sonuca etkili olmadığı gibi usulden redle sonuçlanan dava dosyasının lehe veya aleyhe sonuç yaratma imkanı da bulunmadığına göre kesinleşen dosyanın kesin hüküm teşkil etmeyeceği gözetilerek y...
 
 ## Yargıtay 8. HD 2013/5735 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438828500)
 
 Davanın kesin hüküm nedeniyle reddine karar verildiği anlaşılmakta ise de mahkemenin bu görüşüne katılma olanağı bulunmamaktadır. Şöyle ki; HUMK'nun 237/2. maddesine göre “kaziyei muhkeme, mevcuttur denilebilmek için iki tarafın ve müddeabihin ve istinad olunan sebebin müttehit olması lazımdır.” Aynı şekilde HMK'nun 303/1. maddesine göre …
 
@@ -46,6 +54,8 @@ hükmün, diğer davada maddi anlamda kesin hüküm oluşturabilmesi için her i
 Bu durumda Mahkemece toplanan tüm taraf delilleri ve hükmen tescile esas Kadastro Mahkemesindeki delilleri ile birlikte değerlendirilerek sonucuna göre işin esası ile ilgili olumlu olumsuz bir hüküm kurulması gerekirken hatalı değerlendirme ile yazılı şekilde kesin hüküm sebebiyle davanın usulden reddine karar verilmiş olması doğru olmamıştır.
 
 ## Yargıtay 1. HD 2013/2555 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79553700)
 
 Dava, muris muvazaası hukuksal nedenine dayalı olarak ve muris adına tescil istemi ile açılan tapu iptal ve tescil davasıdır.
 
@@ -57,15 +67,21 @@ Bilindiği üzere tarafları, konusu ve müddeabihi aynı olan bir davanın varl
 
 ## Yargıtay 2. HD 2012/26269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82033700)
+
 Mirasbırakan H.ikinci eşi Ş.ile 20.4.1977 tarihinde evlendiği ve 12.3.1996 tarihinde vefat ettiği, davalı M.1.4.1985 doğumlu olarak H.ve eşi Ş.üzerine 3.11.1993 tarihli "doğum belgesine" istinaden tescil edildiği görülmektedir. Bu tescilin dayanağı doğum belgesinin resmi sağlık kuruluşunca tanzim edilip edilmediğine veya beyan üzerine düzenlenip düzenlenmediğine ilişkin dosya arasından bir bilgi bulunmamaktadır. Bu husus araştırılmamış ise de H.eşi Ş.halen sağdır. Yargılama sırasında H.diğer mirasçıları yanında Ş.de davaya dahil edilmesi, bu suretle davanın "tarafı" kılınması H.yasal mirasçısı olması sebebiyledir. Ş.sağ olduğuna göre, davalı M.ile kendi arasındaki "doğum belgesiyle" oluşturulan kaydın iptalini kendisi isteyebilir. Ölen kocası (H.)'nin ilk eşinden olma çocuklarının Ş.ile M.arasındaki nüfus kaydının iptalini istemekte korunmaya değer hukuki bir yararları bulunmamaktadır. Davacının dava açmakta hukuki yararının bulunması dava şartıdır ve yargılamanın her aşamasında mahkemece re'sen gözetilir.
 O halde, davanın Ş. ile ilgili bölümünün davacının, dava açmakta hukuki yararlarının bulunmaması sebebiyle reddine karar verilmesi gerekirken, yazılı şekilde M.Ş.üzerindeki kaydının da iptaline karar verilmesi doğru bulunmamıştır.
 
 ## Yargıtay 8. HD 2012/13069 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628727900)
+
 Her ne kadar, TMK.nun 652. maddesinde; “eşlerden birinin ölümü halinde, tereke malları arasında ev eşyası veya eşlerden birlikte yaşadıkları konut varsa; sağ kalan eş, bunlar üzerinde kendisine miras hakkına mahsuben, mülkiyet hakkı tanınmasını isteyebilir” hükmü yer almakta ve içerik itibariyle TMK.nun 240. maddesine benzerlikleri öngörmekte ise de, birinde, miras hakkına mahsuben, diğerinde ise katılma alacağına mahsuben maddelerde öngörülen hakların tanınması söz konusudur. Ne var ki, TMK.nun 240 ve 652. maddelerinde yer alan hakların tanınması bakımından öngördükleri unsurlar birbirlerinden farklıdır. Söz konusu farklılıklar ve ortak noktalar Dairenin 1.6.2010 tarih ve 2010/1695 E, 2010/2923 Karar sayılı kararında açık bir biçimde ortaya konulmuştur (Yargıtay Kararlar Dergisi, C:36, Sayı:8, Ağustos 2010, S:1428’de yayımlanmıştır). Bu nedenle, TMK.nun 240. maddesi uyarınca sağ kalan eşin katılma alacağı yok ise, değer artış payı karşılığında anılan maddede öngörülen hakların tanınması yönündeki istek yerine TMK.nun 652. maddesindeki haklardan yararlanılması mümkündür denilebilir. Nitekim, doktrinde bu yönde de, çok azda olsa bazı görüşlere rastlanılmıştır.
 Az önce de açıklandığı gibi gerek TMK.nun 240 ve gerekse 652. maddeleri kapsamları birlikte göz önünde bulundurulduğunda, değer artış payı alacağı karşılığında TMK.nun 240. maddesindeki hakların tanınmasını engelleyen bir hüküm bulunmadığı gibi miras hukuku kapsamında yer alan aynı Kanunun 652. maddesi de buna engel oluşturmamaktadır. Maddenin lafzından ziyade içeriğindeki amaç önemlidir. Amaç ise sağ kalan eşin hukuki yararını öngörmektedir. Yerel mahkemece de, sağ kalan eşin hukuki yararı göz önünde bulundurularak değer artış payı karşılığında davacıya mülkiyet hakkının tanınmasına karar verilmesinde usul ve kanuna aykırı bir yön bulunmamıştır.
 
 ## Yargıtay 3. HD 2012/12747 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560474900)
 
 Dava; tespit davasıdır. Tespit davasının dinlenebilmesi için davacının, tespit davasına konu hukuki ilişkinin var olup olmadığının mahkemece hemen tespit edilmesinde hukuki yararının bulunması gerekir. ... davasında, davacı dava açmakta hukuki yararı bulunduğunu bildirmek ve ispat etmekle yükümlü olmadığı halde, tespit davası açılmasında hukuki yarar olduğu, özellikle bildirilmeli ve ispat edilmelidir. ... davası açılabilecek hallerde tespit davası açılamaz. Zira; eda davası açılabilecek hallerde tespit davası açılmasında davacı tarafın hukuki yararı bulunmamaktadır. Davacı tespit davası açmakta hukuki yararı olduğunu ispat edemezse, tesbit davası dava şartı (hukuki yarar) yokluğundan usulden reddedilir. Mahkemenin her tespit davasında hukuki yarar bulunup bulunmadığını kendiliğinden incelemesi gerekir.Somut olayda, dava konusu taleple ilgili eda davası niteliğinde bulunan vasiyetnamenin tenfizi davası açılması gerekirken; bağımsız tespit davasının açılmış olmasında davacının hukuki yararı bulunmamaktadır.
 
@@ -73,11 +89,15 @@ Mahkemece; davacının tespit davası açmasında hukuki yararının bulunmadı�
 
 ## Yargıtay 14. HD 2012/10959 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/758726500)
+
 …
 
 ... ... mirasçıları harcını ödemek suretiyle tüm taşınmazlarda örnekleri dosya arasında bulunan “... ... Çiftliğini satın alan hissedarlara mahsus taahhüt senedi” başlıklı belgelere dayanarak hak iddiasında bulunmuştur. Davaya müdahale istemlerinde hukuki yararlarının bulunduğu şüphesizdir. O yüzden müdahale istemlerinin kabulü ile iddialarının nedenleri açıklattırılarak delilleri toplanmak suretiyle istemlerinin sonuçlandırılması gerekirken hukuki yararları bulunmadığından söz edilerek müdahale taleplerinin reddi doğru değildir.
 
 ## Yargıtay 8. HD 2012/10193 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687654600)
 
 Dava, miras yoluyla intikal, taksim ve eklemeli kazanmayı sağlayan zilyetlik hukuksal nedenlerine dayalı iptal ve tescil isteğine ilişkindir.
 
@@ -85,6 +105,8 @@ Toplanan deliller ve tüm dosya kapsamından; mahkemece yazılı gerekçelerle d
 Öncelikle, Avanos Kadastro Mahkemesinin 1987/23 Esas sayılı dosyasında davacılar, dava konusu taşınmazın miras bırakanlarından miras yoluyla intikal ettiği ve taksim yapılmadığı halde kadastro sırasında davalı adına tespit edildiği gerekçesiyle davacıların miras payları oranında tespitin iptali ile davacılar adına tesciline karar verilmesini istemişlerdir. Bu kapsamda; eldeki dava ile Avanos Kadastro Mahkemesinin kesin hüküm oluşturduğu kabul edilen davalarında dayanılan hukuki sebep farklıdır. (Ayrıca, Kadastro Mahkemesindeki davada eldeki davanın davacılarından ... taraf olmadığından anılan davacı bakımından zaten kesin hüküm bulunmamaktadır). Bu kapsamda, Avanos Kadastro Mahkemesinin 1987/23 Esas ve 1990/149 Karar sayılı dosyasında verilen hükmün niteliği, davada dayanılan hukuki sebepler ile eldeki davada dayanılan hukuki sebeplerin farklı olması karşısında Kadastro Mahkemesinin eldeki dava bakımından kesin hüküm oluşturduğu kabul edilen kararının, 3402 s.KK.nun 34 ve HUMK.nun 237. maddeleri anlamında kesin hüküm niteliğinde bulunmadığı tartışmasızdır.
 
 ## Yargıtay 8. HD 2012/9632 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/625050500)
 
 Az yukarıda açıklandığı şekilde ... mirasçıları adına tescile karar verilen taşınmazlar içinde yer alan, gerek ... gerekse mirasçıları tarafından 1971 ile 1979 yılları arasında satıldıkları dosyaya sunulan haricen düzenlenmiş senetler ve mahallinde yapılan keşifte alınan beyanlarla anlaşılan dava konusu taşınmaz bölümlerinin satın alan davacı gerçek kişilerin üzerlerine ev yaparak zilyet ve tasarrufunda bulundurdukları toplanan delillerden anlaşılmaktadır. Teknik bilirkişiler tarafından da bu bölümler ayrı ayrı imar parselleri olduğu da gözetilip düzenleme ortaklık payları da düşüldükten sonra haricen satın alınan bölümlerden kalan miktarlar tespit edilerek, gerek miktar gerek konumları 12.11.2009 ve 20.4.2010 tarihli krokili raporlarında gösterilmiştir. Taraflar arasındaki uyuşmazlık tesbit öncesi davalıların murisi ... ve bir kısım davalılar tarafından davacılara yapılan satışlara geçerlilik tanınıp tanınmayacağı, Kadastro Mahkemesi kararının taraflar arasında kesin hüküm oluşturup oluşturmayacağı konusunda toplanmaktadır.
 
@@ -95,6 +117,8 @@ Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına ve 
 
 ## Yargıtay 7. HD 2012/9518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105727100)
+
 Kural olarak ortak miras bırakanın ölüm gününden sonra mirasçıları arasında yöntemine uygun bir paylaştırmanın varlığından söz edilebilmesi için, ortak miras bırakanın ölüm gününden sonra tüm mirasçılarının bir araya gelerek terekeyi kendi aralarında pay etmeleri, her bir mirasçının kendi payına düşeni aldıktan sonra, terekedeki diğer miras haklarından vazgeçmesi gerekir. Saptanan dava niteliği ile az yukarıda vurgulanan hukuksal olgular da dikkate alındığında, yerel mahkemece yapılan araştırma ve soruşturma hüküm vermeye yeterli değildir.
 
 O halde sağlıklı bir sonuca varılabilmesi için, öncelikle davanın tüm taraflarını kapsar şekilde ortak miras bırakana ait verasete esas açık nüfus kayıtları Nüfus Müdürlüğü'nden getirtilmeli, davacı ile tespit maliki davalılar arasındaki akrabalık ve mirasçılık ilişkisinin hangi kök miras bırakandan kaynaklandığı, tarafların tümünü kapsayacak ortak kök miras bırakanın kim olduğu belirlenmeli, özellikle bir kısım tespit maliki ... ve arkadaşlarının babası ... ve ...'ın babası ... ... ve onun da babası olan Memiş ile davacının babası ... ve onun da miras bırakanı ... arasındaki mirasçılık ve akrabalık bağı belirlenmeli, gerek Nüfus Müdürlüğü'nden getirtilecek nüfus kayıtları gerekse taraflarca istihsal edilecek veraset ilamlarına göre tarafların ortak miras bırakanı belirlenmeli, akabinde belirlenecek ortak miras bırakanın terekesine dahil dava dışı başka taşınmaz mallar bulunup bulunmadığı araştırılmalı, varsa sözü edilen taşınmazların kadastro tespit tutanakları ve dayanakları belgeler, davalı iseler dava dosyaları da getirtilmeli, bundan başka ortak miras bırakanın terekesine dahil menkul mallar varsa bunların niteliği, adedi ve değerleri belirlenmeli, daha sonra yöreyi iyi bilen
@@ -104,20 +128,28 @@ ve uyuşmazlığın niteliğine göre, deliller değerlendirilirken paylaşmada 
 
 ## Yargıtay 8. HD 2012/5987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631545600)
+
 Dosya arasındaki mirasçılık belgesine göre ... 16.06.2003 tarihinde ölmüş, geriye davacı karısı...ile davalı ... ve dava dışı Kemal, Kerim, Yakup ve...’yi mirasçı olarak bırakmıştır. Davada davacılar, miras bırakanları ile davalı adına öncesi itibariyle tapuya kayıtlı bulunan dava konusu taşınmazların kayıt malikleri arasında haricen taksim edildiği, miras bırakanlarının ölümüyle de taksimen kendilerine bırakıldığı iddiasına dayanarak iptal ve tescil isteğinde bulunmuştur. HMK.nun 303 (HUMK.nun 237.) maddesi hükmüne göre her iki davanın tarafları, konusu ve dava sebebinin aynı olması halinde kesin hüküm söz konusudur. Davacıların miras bırakanının taraf olduğu Gazipaşa Kadastro Mahkemesinin 2000/26 Esas, 2000/58 Karar sayılı dosyasında dava sebebi aynı olmadığına göre, temyize konu dava bakımından kesin hüküm teşkil etmez. Dava, hak düşürücü süre içinde açılmış olup, miras bırakanlarının ölüm tarihine kadar davanın açılmamış olması, mirasçıların dava açma hakkını ortadan kaldırmaz. Somut olayda, davacılar delil listelerini sunmuş, deliller toplanmadan yazılı gerekçeyle karar verilmiştir.
 Mahkemece yapılacak iş; iddia ve savunma doğrultusunda taraf delillerinin toplanarak değerlendirilmesi, 3402 sayılı Kadastro Kanununun 15/1.maddesinin göz önünde bulundurulması ve sonucuna göre bir hüküm kurulmasıdır. Eksik incelemeyle karar verilmiş olması doğru değildir.
 
 ## Yargıtay 8. HD 2012/3607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/611499700)
 
 Dava konusu 3474 ada 1 parseldeki 14 Nolu daire ise, evlilik birliği içinde 15.5.2009 tarihinde ... adına satın alınmıştır. Her ne kadar mahkemece, taşınmazın tamamının maliki olarak davacının göründüğü açıklanarak dava açmakta hukuki yararı olmadığı gerekçesi ile davanın reddine karar verilmiş ise de tapu kaydı incelendiğinde taşınmazın tamamının davacı adına kayıtlı olmadığı, davacının mirasen 1/4 pay maliki olduğu, diğer payların ise, muris ...’ın diğer mirasçılarından Ayhan ve Hilal’in miras paylarını 14.6.2010 tarihinde temlikleri nedeniyle mirasçılardan ...’ın malik göründüğü anlaşılmaktadır. Bu durumda mahkemenin gerekçesi doğru değildir. Taşınmazın evlilik birliği içinde muris Taner adına satın alınarak tapuda tescil edildiği anlaşıldığına göre davacının değer artış payı ve katılma alacağı ile ilgili talepleri bakımından taraflara iddia ve savunmalarını ispat yönünden süre ve imkan verilerek taraf delillerinin toplanması, toplanacak tüm deliller birlikte değerlendirilerek işin esasına yönelik bir hüküm kurulması gerekirken yazılı şekilde tapu kayıtlarına aykırı olarak hukuki yararın bulunmadığı gerekçesi ile davanın reddine karar verilmesi doğru olmamıştır.
 Diğer yandan davacının herhangi bir iptal tescil isteği olmadığı halde hükümde tapu iptali tescil isteği varmış gibi red kararı verilmiş olması da doğru değildir.
 
 ## Yargıtay 8. HD 2012/1166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523813700)
+
 Öte yandan, dava konusu 112 ada 51 parsel için kesin hüküm nedeniyle davanın reddine karar verilmesinde bir isabetsizlik yoktur. Ne var ki; dava konusu 112 ada 51 parsel sayılı taşınmazın tapu kaydında 1/7'şer pay sahibi olan davalılardan ... ile 25.6.2002 tarihinde ölen Necmiye Köksal’ın tek mirasçısı ... yöntemine uygun bir biçimde imzaları onaylı 3.8.2010 tarihli dilekçelerinde davayı kabul ettiklerini bildirmişlerdir. HMK.nun 310 ve 311. maddelerine göre feragat ve kabul, kesin hüküm gibi hukuki sonuç doğurur, hüküm, kesinleşinceye kadar her zaman yapılır ve karşı tarafın kabulüne bağlı değildir. Diğer yönden davayı kabul, kesin hükümden önce nazara alınması gereken bir husustur. Mahkemece, davayı kabul eden 1/7'şer oranında pay malikleri davalılar ... ve ...’in kabul beyanları göz önünde tutularak bu davalılara hasren davanın kabulüne karar verilmesi gerekirken; yasal ve yerinde olmayan gerekçelerle yazılı şekilde karar verilmiş olması doğru görülmemiştir. Davayı kabul eden diğer davalılardan ..., ..., ... ve ..., tapuda 1/7 paya sahip 8.1.2002 de ölen ... mirasçılarından olup miras bırakan İkbal’in başka mirasçıları da bulunmaktadır.
 İkbal mirasçıları kendi içerisinde elbirliği mülkiyeti hükümlerine tabi ise de; elbirliği mülkiyeti tasfiye edilince hüküm doğuracağı kuşkusuzdur. Ancak, şimdilik bu kişiler yönünden tereke tasfiye edilmediğinden bir sonuç doğurmayacağı kuşkusuzdur.
 
 ## Yargıtay 1. HD 2012/805 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78883100)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve yıkım, karşı dava, harici satış bedelinin güncellenmiş değeri ile bina ve ağaçlar bedelinin kısmen tahsili isteklerine ilişkindir.
 
@@ -127,12 +159,16 @@ Bu durumda, davalı-karşı davacının taşınmazı dava tarihine kadar davacı
 
 ## Yargıtay 8. HD 2012/543 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522064600)
+
 Toplanan deliller, tüm dosya kapsamından; dava konusu 6617, 6816, 8370, 8453 ve 9988 parsellerin 4753 sayılı Kanun uyarınca Toprak Tevzi Komisyonu çalışmaları sonucu oluşan 31.07.1963 tarihli tapu kayıtları kapsamında kaldığı açıklanarak Hazine adına tespit edilmiş, davacıların murisi Mahmut Çankaya tarafından 30-40 yılı aşkın zilyetliğe dayanılarak kadastro tespitine itiraz edilmiş, Kayseri Kadastro Mahkemesinin 06.10.1999 tarih 1996/508 Esas ve 1999/331 Karar sayılı ilamı ile davacının verilen kesin süreye rağmen 3402 sayılı Kanunun 36/1.maddesi uyarınca keşif giderlerini yatırmadığı ve kanıtlanamadığı gerekçesiyle davanın reddine, taşınmazın tespit gibi Hazine adına tapuya tesciline karar verilmiş; hüküm, taraflarca temyiz edilmediğinden 25.11.1999 tarihinde kesinleşmiştir.
 
 Davacıların murisi ..., Kadastro Mahkemesindeki tespite itiraz davasında aynı zamanda keşif deliline de dayanmıştır. Esasen, bu tür davalarda keşif yapılmadan ve keşfe dayalı deliller toplanmadan sonuca ulaşmak mümkün değildir. Kadastro Mahkemesince 3402 sayılı Kanunun 36.maddesi gereğince keşfin yapılması için davacı tarafa kesin süre verilmiş ancak kesin sürenin gereği yerine getirilmediği gözetilerek “kesin süreye uyulmadığı ve kanıtlanamadığı gerekçesiyle davanın reddine “denilmek suretiyle davacı... tarafından Kadastro Mahkemesinde açılan davanın reddine karar verilmiştir. Eldeki dosyasının dava dilekçesinde davacılar vekili taşınmazların ortak muris ...ve ... ’dan kaldığını ileri sürerek istekte bulunmuş, taşınmaz başında yapılan 22.10.2010 ve 17.12.2010 tarihli keşifler sırasında dinlenen yerel bilirkişi ve tanıklar: taşınmazlardan 6617, 6816, 8453 ve 9988 parsellerin tarafların ortak murisi...’dan kaldığını, dava konusu 8370 parselin ise tarafların annesi ...’dan kaldığını bildirmişlerdir. Bu durum karşısında, Kadastro Mahkemesinin ret gerekçesi usule ilişkin olmayıp davacının iddiasını kanıtlayamamış bulunduğundan davanın esastan reddi niteliğindedir.
 Dosya arasında bulunan Kayseri Kadastro Mahkemesinin dosyasıyla eldeki dava dosyası birlikte incelendiğinde; her iki davanın tarafları, hukuki sebepleri ve konusu aynı olup 3402 sayılı Kanunun 34 ve HUMK.nun 237.maddesi anlamında (halefiyet kuralı da gözönünde tutulduğunda) taraflar arasında kesin hüküm teşkil ettiğinin kabulü gerekir. O halde 6617, 6816, 8453 ve 9988 parseller hakkındaki davanın kesin hüküm nedeniyle reddine karar verilmesi gerekirken yazılı gerekçelerle davanın kabulüne karar verilmiş olması usul ve yasaya aykırıdır. Ancak, 8370 parsel için kesin hüküm teşkil etmez ise de, tarafların lehine ve aleyhine güçlü delil oluşturacağı kuşkusuzdur.
 
 ## Yargıtay 14. HD 2011/1739 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760735700)
 
 Dava, ölünceye kadar bakım sözleşmesine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -142,6 +178,8 @@ Karşı davada 2.6.2005 ve 19.4.2006 tarihli ölünceye kadar bakma sözleşmele
 
 ## Yargıtay 20. HD 2010/11838 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/826210500)
+
 Dava, kadastro tespitine itiraza ilişkindir.
 
 …
@@ -149,6 +187,8 @@ Dava, kadastro tespitine itiraza ilişkindir.
 Bu kararlarla davacıların dayandığı tapu kayıtlarına ilişkin belirlenen olgular sözü edilen 1988/333-51 ve 1989/103-125 sayılı tapu iptali davalarında ve temyize konu davada taraf olan ve adlarına tescil kararı verilen ... oğlu ... ... mirasçıları ile ... oğulları ... ..., Sebahattin ..., ... ... ve ... ... ... mirasçıları ... Türkel, ... .... ... ..., ... yönünden onları bağlayan kesin hüküm, diğer adlarına tescil kararı vekilen ... mirasçıları ... ... ..., ... Diri, ..., ... yönünden de güçlü delil sayılması gerekir. Nitekim aşağıda 3 nolu bentte izah edileceği gibi, ... (...) Köyünden 55 kişinin aynı nedenle açıp ret edilerek kesinleşen 21.03.1961 gün 1960/104-25 sayılı karar daha sonra o davanın davacıları ile çiftlik sahipleri arasında kadastro mahkemesinde görülen davalarda kesin hüküm kabul edilmiş ve bu konudaki kararlar 7. Hukuk Dairesince onanarak kesinleşmiştir. (... Köyü 596 sayılı parsel ile ilgili kararı onayan 7. Hukuk Dairesinin 14.12.2001 gün 2001/8116-9616 S.K.)
 
 ## Yargıtay 1. HD 2010/11622 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78815700)
 
 Dava vekalet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu iptal-tescil isteğine ilişkindir.
 

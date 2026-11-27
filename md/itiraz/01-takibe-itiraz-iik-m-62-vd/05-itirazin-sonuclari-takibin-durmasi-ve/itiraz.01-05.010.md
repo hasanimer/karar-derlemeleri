@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 12. HD 2024/497 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1013222000)
+
 GEREKÇE :Dava; kredi sözleşmesine dayalı başlatılan İstanbul Anadolu .... İcra Dairesinin ... E. Sayılı icra takibine davalıların yaptığı itirazın İİK 67 maddesi gereğince iptali ile icra inkar tazminatı isteminden ibarettir.
 Karar davalı tarafça istinaf edilmemiş ,davacı vekili tarafından red edilen kısım bakımından istinaf edilmiştir.Bilirkişi tarafından düzenlenen 27/01/2022 tarihli raporda özetle; davacı bankanın 98.915,34-TL asıl alacak, 17.026,45-TL işlemiş yıllık %28,60 temerrüt faizi, 851,32-TL faizin % 5 gider vergisi, 746,63-TL ihtar masrafı olmak üzere toplam 117.539,74-TL alacak talep edebileceği yönünde görüş bildirilmiş,bilirkişi raporu benimsenerek davanın kısmen kabulüne ,red edilen kısım üzerinden davalılar yararına nispi vekalet ücretine hükmedilmiş ,yargı gideri bu oranda davacı üzerinde bırakılmıştır.Davacı alacaklı icra takibinde 98.915,34-TL si asıl alacak olmak üzere toplamda 117.950,76-TL alacağın tahsili talep edilmiş ,ilk derece mahkemesince itirazın 117.539,74-TL alacak için iptaline,fazla istemin reddine karar verilmiştir.Ne var ki davacı vekili tarafından dava dilekçesinde dava değeri 200.000-TL gösterilmiştir.İtirazın iptali davalarında gösterilmesi gereken dava değerinin ,icra takip tutarı kadar olması gerekir.İcra takibinde talep edilen tutardan daha fazla bir değer gösterilmesinin bir kıymeti olmayıp, fazla dava değeri gösterilmesi fuzulen yapılan bir işlem
 niteliğindedir.Davanın kısmen kabulü kararının davacı vekili tarafından istinaf edilmesinden sonra davalılar vekili 27.12.2023 tarihli dilekçesi ile borcu haricen ödeyeceklerini bildirerek itirazdan feragat ettiklerine dair dilekçesini icra dosyasına sunduğu anlaşılmakla itirazın iptali davasının konusu kalmamıştır.Yargı gideri ve vekalet ücreti takdirinin dava tarihi itibariyle haklılık durumuna göre takdir edilmesi gerektiği,esasen gerekçeli karar bu yönüyle istinaf edildiğinden ilk derece mahkemesi kararının kesinleşen kısımları dikkate alınarak icra takibindeki alacak miktarı dava değeri olarak kabul edilerek ,davacının haksız talep ettiği kısmın 411.02-TL olduğu dikkate alınarak yargı gideri ve vekalet ücreti takdiri gerekmektedir.Yine icra inkar tazminatının tüm alacak üzerinden hesaplanması gerekirken ,asıl alacak miktarından hesaplanması doğru değil ise de karar bu yönüyle istinaf edilmediğinden kesinleşmiştir.Açıklanan nedenlerle;davacı vekilinin istinaf başvurusunun kabulüne icra takibine itirazdan feragat edildiğinden konusu kalmayan dava nedeniyle bir karar verilmesine yer olmadığına ,icra inkar tazminatının davalılardan tahsiline , HMK nın 331.maddesi uyarınca dava
@@ -30,6 +32,8 @@ tarihi itibariyle davadaki haklılık durumuna göre taraflar yararına yargı g
 HÜKÜM :Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun kabulüne, İstanbul Anadolu 3. Asliye Ticaret Mahkemesi'nin 2021/396 Esas - 2023/635 Karar sayılı 18/07/2023 tarihli kararının, HMK'nın 353(1)b-2 gereği KALDIRILMASINA; "Konusu kalmayan dava nedeniyle bir karar verilmesine yer olmadığına …
 
 ## İstanbul BAM 13. HD 2024/448 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1010747700)
 
 …
 
@@ -60,6 +64,8 @@ Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davan
 
 ## İstanbul BAM 17. HD 2024/422 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015453800)
+
 İLK DERECE MAHKEME KARARI:İlk derece mahkemesince; yapılan bilirkişi incelemesine göre, takip ve dava tarihi itibariyle davacının talep edebileceği alacağın 14.549,27 TL olduğu, davalının, tespit edilen söz konusu likit alacağa vaki haksız itirazı ile takibin durmasına sebebiyet verdiği belirtilerek davanın kısmen kabulüne dair karar verilmiştir.
 
 …
@@ -67,6 +73,8 @@ Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davan
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Taraf vekillerinin istinaf başvurularının esasa ilişkin sebepler incelenmeksizin ayrı ayrı KABULÜNE,2-Bakırköy 3. Asliye Ticaret Mahkemesinin 2019/671 Esas 2020/467 Karar ve 04/09/2020 tarihli kararının HMK 353/1a-6 maddesi gereğince KALDIRILMASINA …
 
 ## Ankara BAM 22. HD 2024/410 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017878100)
 
 Davalılar cevap vermemiştir.
 
@@ -80,6 +88,8 @@ Ancak davalı şirket yönünden ödeme emrinin tebliğine rağmen 7 gün içind
 
 ## Ankara BAM 23. HD 2024/315 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999854500)
+
 Davacı vekili; müvekkili kooperatifin üyesi olan davalının genel kurullarda belirlenen aidat borçlarını ödememesi üzerine aleyhine Ankara 20. İcra Müdürlüğünün 2017/12666 E. sayılı dosyası ile icra takibi başlatıldığını, davalının itirazı üzerine icra takibinin durduğunu ileri sürerek, davalının itirazının iptaline, %20'den az olmamak üzere icra inkâr tazminatına karar verilmesini talep ve dava etmiştir.
 
 …
@@ -88,6 +98,8 @@ Davacı vekili; müvekkili kooperatifin üyesi olan davalının genel kurullarda
 
 ## İstanbul BAM 43. HD 2024/313 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019040600)
+
 GEREKÇE: Dava, ticari satım sözleşmesine dayalı faturadan kaynaklanan alacağın tahsili istemiyle başlatılan icra takibine vaki itirazın iptali davasıdır. İstinafa gelen uyuşmazlık temelde, iade faturasına konu malların davacıya teslim edilip edilmediği noktasındadır. Davacı takip alacaklısı tarafından, davalı takip borçlusu hakkında, İstanbul ... İcra Müdürlüğünün ... Esas sayılı takip dosyasında, "fatura" sebebine dayalı olarak 25.479,99 TL asıl alacağın tahsili istemiyle 29/11/2018 tarihli takip talebi ile ilamsız icra takibi başlatılmış, itiraz üzerine takip durmuştur. Davacı tarafça, 2004 sayılı İcra ve İflas Kanunu(İİK)'nun 67. maddesi uyarınca itirazın iptaline karar verilmesi istemiyle eldeki dava açılmıştır. Mahkemece uyuşmazlığın çözümü için tarafların ticari defterlerinin incelenmesine karar verilmiştir.
 
 …
@@ -95,6 +107,8 @@ GEREKÇE: Dava, ticari satım sözleşmesine dayalı faturadan kaynaklanan alaca
 KARAR:Yukarıda açıklanan nedenlerle: 1-Davalı vekilinin istinaf başvurusunun KABULÜ İLE, istinaf incelemesine konu İlk Derece Mahkemesi kararının HMK'nın 353(1)a-6 maddesi uyarınca USULDEN KALDIRILMASINA …
 
 ## Adana BAM 9. HD 2024/288 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002029400)
 
 Davalı vekili cevap dilekçesi ile; Dava konusu borca ilişkin müvekkilin iradesi ile yapmış olduğu gerçek bir kefaleti sözkonusu olmadığını, müvekkilin davacıya dava konusu sözleşme gereği bir borcu olmadığını, bu nedenle davaya ve kefalete her yönü ile itiraz ettiğini, tüm bunlara rağmen kendisine ait olmayan bir borcu ödemek durumunda bu dava açılmış ama dava hukuksal dayanaktan da yoksun olduğunu, kefalet sözkonusu şirketin borcuna, davaya konu Genel Kredi Sözleşmesi'ne verilmediğini, kefalet sözleşmesi geçersiz olup, dosyaya sunulan Genel Kredi Sözleşmesi'nde müvekkilinin kefaleten imzasının da olmadığını cevap dilekçesinin kabulü ile hukuk ve dayanaktan yoksun davanın reddine, %20'den aşağı olmamak kaydıyla kötü niyet tazminatı ile yargılama gideri ve ücreti vekaletin karşı tarafa tahmiline karar verilmesini talep etmiştir.
 
@@ -109,6 +123,8 @@ Oysa davacının açmış olduğu huzurdaki dava menfi tespit davası değildir.
 
 ## Adana BAM 9. HD 2024/206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994517700)
+
 …
 
 .... Asliye Ticaret Mahkemesi'nin 06/10/2020 tarih ve ... Esas, ... Karar sayılı kararı ile; tüm dosya kapsamına göre taraflar arasındaki uyuşmazlığın davalı ile davacı arasında olan ... Bankası ... ... Şubesine ait ... seri nolu keşidecisi davalı ... olan, 21.11.2018 tarihli, 20.000,00 TL bedelli çek nedeni ile alacağına istinaden borcun ödenmemesi nedeni ile borçluya karşı .... İcra Müdürlüğü'nün ... Esas sayılı dosya kapsamında başlatılan ilamsız takibe çek üzerindeki imzanın kendilerine ait olmadığına dair itiraz üzerine takibin durması üzerine yapılan itirazın iptali talebine ilişkin olduğu, mahkememizce dava konusu çek üzerindeki keşideci adına atılı bulunan imzanın keşidecinin eli ürün olup olmadığı konusunda bilirkişi incelemesi yaptırıldığı, dosyaya ibraz edilen belgeler ile bunlara dayanılarak alınan bilimsel ve hükme esas almaya elverişli bilirkişi raporunda; inceleme konusu 07/02/2018 tarih ve ... seri numaralı, ... bankası ... ... şubesine ait ...
@@ -117,11 +133,15 @@ Oysa davacının açmış olduğu huzurdaki dava menfi tespit davası değildir.
 
 ## İstanbul BAM 3. HD 2024/192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986743800)
+
 HÜKÜM: Yukarıda açıklanan nedenlerle; -Davacının istinaf başvurusunun kabulüne, kararın kaldırılmasına tespit edilen eksiklik yargılama gerektirmediğinden HMK 353/1-b-2 md gereğince, esasa ilişkin olarak yeniden ;1-Davanın KABULÜNE, davalının İstanbul Anadolu 7.İcra Müdürlüğü'nün...
 E. sayılı takip dosyasına vaki itirazın 30.728,04-TL asıl alacak üzerinden İPTALİNE, takibin bu miktar üzerinden devamına,-İİK 67/2 md gereğince ,likit alacağa vaki haksız itirazı ile takibin durmasına sebebiyet veren davalı borçlunun hüküm altına alınan (30.728,04TL) alacağın % 20'si oranında icra inkar tazminatı ile mahkumiyetine, 2-Alınması gerekli 2.099,03-TL harçtan peşin alınan 371,12-TL harcın mahsubu ile bakiye 1.726,91-TL alacağın davalı taraftan tahsili hazineye gelir kaydına, 3-Harç davanın kabul edilen kısmına göre hesaplanıp tahsil edilmesi gerektiğinden davacı tarafça yapılan 371,12-TL harç masrafının davalı taraftan alınarak davacı tarafa verilmesine, 4-Davacı vekili lehine AAÜT göre hesaplanıp takdir olunan 17.900,00-TL vekalet ücretinin davalı taraftan alınarak davacı tarafa verilmesine, 5-Davacı tarafça yapılan 62,20-TL ilk masraflar, 122,00-TL teb+müz gideri, 800,00-TL bilirkişi ücreti olmak üzere toplam 984,20-TL yargılama giderinin davalı taraftan alınarak davacı tarafa verilmesine,6-Davalı tarafça yapılan yargılama giderlerinin üzerinde bırakılmasına, 7-Artan avansın karar kesinleştiğinde ve istek halinde yatıranlara iadesine,İstinaf incelemesiyle ilgili
 olarak; Peşin alınan istinaf karar harcının, istinaf edene isteği halinde ilk derece mahkemesince iadesine, Davacının istinaf sebebiyle yapmış olduğu 137,00-TL istinaf yargılama giderinin davalıdan alınarak davacıya verilmesine,İstinaf sebebiyle yatırılan gider avansı bakiyesi varsa, karar kesin olmakla istinaf edene ilk derece mahkemesince iadesine, Dair, dosya üzerinden yapılan inceleme sonunda HMK 362/1-a maddesi gereğince kesin olmak üzere oybirliği ile karar verildi. 23/01/2024 …
 
 ## İstanbul BAM 45. HD 2024/191 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/996794400)
 
 Davacı vekilinin mahkememize verdiği dava dilekçesinde özetle; Müvekkili şirket ile davalı şirket arasında 16.01.2017 tarihinde denetim ve tasdik sözleşmesi akdedildiğini, bu sözleşme kapsamında müvekkilinin üstlendiği tüm edimleri sözleşmeye uygun biçimde ifa ettiğini, sunmuş olduğu hizmetlerin karşılığı bedelini davalı şirkete fatura ettiğini, işbu faturalara itiraz edilmediğini, bir ödeme gerçekleştirilmediğini, faturaya konu bedellerin tahsili amacıyla 10.01.2018 tarihinde İstanbul 14.İcra Müdürlüğü’nün ...Esas sayılı dosyası üzerinden ilamsız takibe geçmişse de davalı şirketin işbu ilamsız icra takibine itiraz ettiğini ileri sürerek; itirazın iptaline ve icra takibinin devamına, alacağın %20’sinden aşağı olmamak üzere icra-inkar tazminatı ödenmesine karar verilmesini talep ve dava etmiştir.
 
@@ -136,6 +156,8 @@ Davalı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunun
 
 ## İstanbul BAM 12. HD 2024/166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985923500)
+
 İLK DERECE MAHKEME KARARI: Mahkemece; uyuşmazlığa konu davada Varşova/Montreal Konvansiyonu hükümlerinin uygulanacağı,Konvansiyonun 18/1 maddesi uyarınca meydana gelen kısmi eşya hasarında davalı üst/akdi taşıyıcı ile birlikte dava dışı alt/fiili taşıyıcının müştereken ve müteselsilen sorumlu olduğu, davacı sigorta şirketinin davalı akdi taşıyıcıdan 6.202.42.-TL hasar tazminatını talep edebileceği, ancak nihai sorumluluğun dava dışı alt/fiili taşıyıcının üzerinde olduğu, dava dışı ihbar olunan ... Servisi'ne meydana gelen kısmi hasar sebebiyle kusur atfedilemeyeceği, bu hali ile davalı borçlunun takibe haksız olarak itiraz ederek takibin durmasına sebebiyet verdiği gerekçesiyle, davanın kabulü ile davalının takibe itirazının iptali ile takibin devamına, alacak likit olmadığından davacının icra inkar tazminat talebinin reddine karar verilmiştir.
 
 …
@@ -143,6 +165,8 @@ Davalı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunun
 HÜKÜM:Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Ankara BAM 21. HD 2024/98 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992898000)
 
 Davalı usulüne uygun tebligata rağmen davaya cevap vermemiştir.
 
@@ -152,9 +176,13 @@ Sonuç olarak yukarıda açıklanan nedenlerle; davacı vekilinin istinaf başvu
 
 ## Ankara BAM 22. HD 2024/67 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1006825000)
+
 Ankara 14. İcra Müdürülüğü'nün 2008/8630 esas sayılı dosyasının incelenmesinden, alacaklı ... A.Ş. tarafından borçlu ... A.Ş. aleyhine toplam 1.747.340,57 TL yönünden icra takibi yapıldığı, borçlunun itirazı üzerine takibin durmasına karar verildiği, davacının bir yıllık yasal süre içinde itirazın iptali davasını açtığı anlaşılmıştır.
 
 ## İstanbul BAM 3. HD 2023/3001 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/945410600)
 
 K A R A R: Yukarıda açıklanan nedenlerle;A-Davacının istinaf talebinin kabulüyle HMK 353/1-b-2 maddesi gereğince karar kaldırılarak yeniden esas hakkında; 1-DAVANIN KABULÜNE, davalının Bakırköy ...İcra Müdürlüğünün ...
 Esas sayılı dosyası üzerinden takibe girişilen (18.232,86-TL ) alacağa vaki itirazın iptali ile takibin aynen devamına, Likit alacağa vaki haksız itirazı ile takibin durmasına sebebiyet veren davalının hüküm altına alınan alacağın (18.232,86-TL) %20 si oranında 3.646,57-TL icra inkar tazminatı ile mahkumiyetine, 2-Alınması gerekli 1.245,49-TL harçtan peşin alınan 220,22-TL harcın mahsubu ile bakiye 1.025,29-TL harcın davalı taraftan tahsili ile hazineye gelir kaydına, 3-Harç davanın kabul edilen kısmına göre hesaplanıp tahsil edilmesi gerektiğinden davacı tarafça yatırılan 220,22-TL harç masrafının davalı taraftan alınarak davacı tarafa verilmesine, 4-Davacı vekili lehine AAÜT göne hesaplanıp takdir olunan 17.900,00-TL vekalet ücretinin davalı taraftan alınarak davacı tarafa verilmesine, 5-Davacı tarafça yapılan 84,10-TL yargılama giderinin davalı taraftan alınarak davacı tarafa verilmesine, 6-Artan avansın karar kesinleştiğinde yatırana iadesine, İstinaf incelemesiyle ilgili olarak;
@@ -180,6 +208,8 @@ Ankara ... İcra Müdürlüğünün ... Esas sayılı dosyasında yapılan takib
 
 ## Kayseri BAM 6. HD 2023/1649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/945414600)
+
 Davalılar vekili cevap dilekçesinde özetle; aynı alacaklara ilişkin olarak Kayseri 1. Asliye Ticaret Mahkemesi'nin 2019/664 Esas ve 2021/579 Karar sayılı dosyasında davanın hala devam ettiğini, kesinleşmediğini, bu nedenle davacı vekili tarafından istinaf edildiğini ve devam etmekte olduğu belirtilerek derdestlik itirazının kabulü ile davanın reddine karar verilmesini talep ettiklerini, davacı bankanın asıl borçlusunun ...
 
 …
@@ -197,6 +227,8 @@ Davalı vekili cevap dilekçesinde özetle; ..... 1.
 Somut uyuşmazlıkta davacı tarafından, davalı aleyhine organizasyon bedeli ve organizasyon malzemeleri nedeni ile 13 adet faturaya istinaden toplam 113.634 TL asıl alacak için takip başlatıldığı, davalı tarafça 25/09/2018 tarihinde icra takibindeki borca ve ferilerine itirazda bulunulması üzerine takibin durduğu, takibin durmasından sonra davalı tarafça 09/11/2018 tarihinde 40.000-TL, 11/12/2018 tarihinde 30.000-TL ve 27/12/2018 tarihinde 40.685 TL olmak üzere toplam 110.685-TL ödeme yapıldığı, mahkemece yapılan bilirkişi incelemesine göre de, davalının ticari defterlerinin incelenmesinde takip tarihi itibariyle davacının davalıdan 110.685,00-TL alacaklı olduğunun ancak takip tarihinden sonra muhtalif tarihlerde 110.685 TL nin ödendiği, davacı tarafça da icra takibinden sonra asıl alacak miktarının ödenmiş olması nedeni ile feriler yönünden takibin devamına karar verilmesinin talep edildiği anlaşılmıştır.
 
 ## İstanbul BAM 43. HD 2023/1377 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988472500)
 
 İLK DERECE MAHKEMESİ KARARI: İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, "...Yargı yetkisini, Anayasanın 9.
 

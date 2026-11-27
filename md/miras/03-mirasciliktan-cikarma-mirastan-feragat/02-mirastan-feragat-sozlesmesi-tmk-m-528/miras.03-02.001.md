@@ -29,9 +29,13 @@ Miras sözleşmeleri; miras sözleşmesi (TMK md. 545) ve mirastan feragat sözl
 
 ## Yargıtay HGK 2025/800 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206286600)
+
 4721 sayılı Türk Medeni Kanunu'nun "Mirasın Kazanılması" başlıklı ikinci ayrımının, "A.Kazanma", "I.Mirasçılar Tarafınadan" alt başlıklı 599 uncu maddesinde mirasın, mirasbırakanın ölümü anında kazanılacağı düzenlenmiştir. Bu bağlamda, TMK'nın 528 inci maddesindeki "mirasçı" ifadesi ile kanunun "muhtemel mirasçı" ya işaret ettiği açıktır. Nitekim, mirasçılık sıfatı mirasbırakanın ölüm anı ile kazanılacak olup, mirasbırakanın sağlığında mirasçılarının kesin olarak bilinebilmesinin mümkün olmadığı tartışmasızdır. Dolayısıyla, mirastan feragat eden muhtemel mirasçının, en yakın sırada veya derecede yer almasına gerek duyulmaksızın, mirasbırakanın birinci zümrede mirasçısı olmasına rağmen, ikinci zümre mirasçıları ile de mirastan feragat sözleşmesi düzenlenmesi mümkündür. (Dural Mustafa, Öz Turgut, Miras Hukuku, İstanbul 2016, Filiz Kitabevi, 10. Baskı, s.196)
 
 ## Yargıtay HGK 2016/605 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/233352500)
 
 Dava, tapu iptali ve tescil istemine ilişkindir.
 
@@ -68,11 +72,15 @@ davacının mirastan feragat etmiş olmakla mirasçılık sıfatının kalmadı�
 
 ## Yargıtay 7. HD 2025/5492 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197107500)
+
 4721 sayılı Kanun'un 528. maddesi: "Mirasbırakan, bir mirasçısı ile karşılıksız veya bir karşılık sağlanarak mirastan feragat sözleşmesi yapabilir. Feragat eden, mirasçılık sıfatını kaybeder. Bir karşılık sağlanarak mirastan feragat, sözleşmede aksi öngörülmedikçe feragat edenin altsoyu için de sonuç doğurur." düzenlemesini; 529. maddesiyse: "Mirastan feragat sözleşmesi belli bir kişi lehine yapılmış olup bu kişinin herhangi bir sebeple mirasçı olamaması hâlinde, feragat hükümden düşer. Mirastan feragat sözleşmesi belli bir kişi lehine yapılmamışsa, en yakın ortak kökün altsoyu lehine yapılmış sayılır ve bunların herhangi bir sebeple mirasçı olamaması hâlinde, feragat yine hükümden düşer." düzenlemesini ihtiva etmektedir.
 
 Somut olayda; muris ...’in ikinci eşi olan ...’nın önceki evliliğinden altsoyu olduğu, buna bağlı olarak da İlk Derece Mahkemesince ...’nın altsoyu olan "20.08.1990 doğumlu ... (Gürcistan Uyruklu), 24/09.1985 doğumlu ...(Gürcistan Uyruklu), 22.07.1979 doğumlu ... (Gürcistan Uyruklu)," isimli çocuklarına mirastan pay verildiği anlaşılmaktadır. 4721 sayılı Kanun'un 528. maddesi gereği ivazlı feragatta feragat edenin altsoyu için sonuç doğuracağı belirtilse de ivazsız feragata yönelik olarak bu tür bir düzenleme bulunmamaktadır. Ancak feragat sözleşmesinde mirastan feragat eden ..., mirasbırakanın yasal mirasçıları lehine feragat etmiş olup bu sözleşmenin kendi altsoyunu da bağlayacağını açıkça belirtmiştir. Bu durumda mirastan feragat eden ...’nın altsoyuna mirasın intikali mümkün değildir. Hâl böyle olunca mirasbırakan ...’in veraset belgesinde kendi yasal mirasçıları olan davacılar ..., ..., ...’ın mirasçı olduklarının belirlenmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2025/5175 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195410800)
 
 Dava, mirasçılık belgesinin iptali ve yeni mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -84,10 +92,14 @@ Somut uyuşmazlıkta; davalı ... 26.07.2016 tarihli düzenleme şeklindeki mira
 
 ## Yargıtay 7. HD 2025/1361 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140808300)
+
 Muris ...'un bir kısım mirasçıları tarafından 03.12.2004 tarih ve 1669 yevmiye numaralı mirastan feragat sözleşmesi imzalanmış olup mirasbırakan 03.09.2013 tarihinde ölmüştür. Kaynağını 4721 sayılı Türk Medeni Kanunu'nun 528. ve devamı maddelerinden alan mirastan feragat sözleşmeleri miras sözleşmesinin bir çeşidi olduğundan resmî vasiyetname şeklinde yapılması zorunludur (TMK md. 545 ve Yargıtay İçtihadı Birleştirme Kararı 11.02.1959 tarih ve 16/14 sayılı Kararı). TMK'nın 596. maddesi vasiyetnamenin açılıp okunmasına ilişkindir. TMK'nın 528 ve devamı maddelerinde düzenlenmiş bulunan mirastan feragat sözleşmelerinin vasiyetnamelerdeki usul doğrultusunda açılıp okunmasına ilişkin bir hüküm yoktur. Noterde düzenlenmiş olan mirastan feragat sözleşmesinin mirasbırakanın ölümü hâlinde sulh hâkimine gönderilmesine gerek bulunmamaktadır.
 Bu nedenle, mirastan feragat sözleşmesiyle ilgili olarak taraflarının veya mirasçılarının açmış oldukları bir dava da olmadığı gözetilerek, yapılacak bir işlem bulunmadığından, Mahkemece "karar verilmesine yer olmadığına, gönderilen mirastan feragat sözleşmesi aslının da ilgili Noterliğe iadesine" kararı verilmesi gerekirken tespite ilişkin karar verilmesi doğru görülmemiş, bu nedenle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/4724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1093117000)
 
 9\. 4721 sayılı Kanun'un 529 uncu maddesine göre, "Mirastan feragat sözleşmesi belli bir kişi lehine yapılmış olup bu kişinin herhangi bir sebeple mirasçı olamaması hâlinde, feragat hükümden düşer". Anılan maddede mirastan feragat sözleşmesinin belli bir kişi lehine yapılabileceği belirtilmiş olup; lehine feragat edilen kişi, üçüncü bir kişi veya mirasçılardan biri ya da birkaçı da olabilir. Şayet ilgili sözleşmede mirastan feragatin kimin lehine yapıldığı belirtilmişse, feragat edenin payını da o kişi alır. Kural olarak, feragat edenin payının kime kalacağının belirlendiği mirastan feragat sözleşmesi, lehine feragat yapılan kimse için mirasçı ataması sayılmaktadır. Bir diğer deyişle, kural olarak belirli bir kişi lehine yapılan feragat, aynı zamanda mirasçı atama tasarrufunu da içerir. Anılan maddeye göre ayrıca, lehine feragat edilen kişi herhangi bir nedenle mirasçı olamazsa mirastan feragat hükümden düşer.
 Anılan bozucu şart ile; lehine feragat edilen kişinin mirastan yoksunluk gerektiren bir fiilinin olması, mirasçılıktan çıkarılması veya mirası ret beyanında bulunması gibi hallerde mirasa hak kazanamayacak olması nedeniyle lehine yapılan kazandırmadan yararlanamayacağından feragatin hükümden düşmesi amaçlanmıştır. Ancak emredici nitelikte olmadığından 529 uncu maddede öngörülen bozucu şartın aksi kararlaştırılabilir.
@@ -96,16 +108,22 @@ Belirli bir kişi lehine yapılan feragat, lehine feragat yapılan kimse için a
 
 ## Yargıtay 2. HD 2024/4583 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073558400)
+
 Hukuk Dairesi'nin 2016/2805 E 2018/7151 K. sayılı 25/10/2018 tarihli kararında; "...
 Hakkında mirastan çıkarma ve yoksunluk sebepleri gerçekleşen veya mirası reddeden ya da mirastan feragat eden mirasçının tereke ile ilişkisinin tümden kesilmiş sayılmayacağı, mirastan çıkarma ve yoksunluk sebeplerinin gerçekleşmesi ya da mirasın reddi veya mirastan feragat edilmiş olmasının ilgili kişinin mirasçılık belgesi istemesine engel bir neden olmadığı gibi, ilgili kişinin mirasçılık sıfatını da ortadan kaldırmayacağı, bu nedenle mirasçılardan biri veya birkaçı yönünden mirastan çıkarma ve yoksunluk sebeplerinin gerçekleşmesi ya da mirasın reddi veya mirastan feragat edilmiş olması durumunda bu olgular yok sayılarak miras bırakanın tüm mirasçılarını ve miras paylarını gösterir şekilde mirasçılık belgesinin düzenlenmesi, hüküm yerinde ilgili mirasçı veya mirasçılar yönünden mirastan çıkarma ve yoksunluk sebeplerinin gerçekleştiği ya da mirası red veya mirastan feragat ettikleri açıklanarak bu olguların hukuki sonuçlarının terekenin bölüştürülmesi sırasında gözetileceğine işaret edilmesi gerektiği" açıklanmıştır.Bu durumda, vefat eden davacının mirasçılarının davayı takip iradesi gözetilerek, davalının kusurlu olup olmadığının tespiti yönünden yargılamaya devam edilmesinde
 isabetsizlik bulunmamaktadır. Ancak; Davacı eş, boşanma davası derdest iken vefat ettiğinden, tarafların evliliği boşanma ile değil, ölüm ile sona ermiş olup, davacının boşanma talebi konusuz kalmıştır. Toplanan delillerden, davacı erkeğin babasının vefatı akabinde cenaze nedeniyle gidilen Konya Kulu'da davalı kadının kalmak istemediği, kısa süre içinde Ankara'daki ortak eve dönmek istediği, davacı erkeğin bir süre daha kalmak istediğini beyan etmesi akabinde kadının tek başına Ankara'ya döndüğü ve ortak evdeki tabakları kırarak ev eşyalarına zarar verdiği, daha sonra ailesinin Kırşehir'deki evine gittiği anlaşılmaktadır.
 
 ## Yargıtay 7. HD 2024/2627 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052965000)
+
 Noterliğinde düzenlenmiş olan 3005 yevmiye numaralı sözleşmenin 21.08.1990 tarihli olduğu, muris ...'nin 14.01.2020 tarihinde ve muris Hatice Küçükgedikli'nin 16.09.2014 tarihinde vefat ettikleri ve murislerin uyguladıkları iddia olunan manevi cebirin ölüm tarihleri itibariyle ortadan kalktığının kabul edilmesi gerektiği, eldeki davanın açılma tarihinin 13.01.2021 olması, davacıların dayandıkları irade sakatlığı ve gabin hukuksal sebepleri bakımından 1 ve 5 yıllık hak düşürücü süreler, mirastan feragat sözleşmesi başlıklı ... Noterliğinde düzenlenmiş olan 21.08.1990 tarihli ve 3005 yevmiye numaralı sözleşmede mirastan feragatin ivazsız yapıldığının açık ve net olarak belirtilmesi nedeniyle edimler arasındaki dengesizliğin sözleşmenin geçerliliğine bir etkisinin de söz konusu olamayacağı, toplanan deliller ve dinlenen tanıkların anlatımlarına göre davacılar tarafından irade sakatlığı hallerinin ispatlanamadığı, ...
 Noterliğinde düzenlenmiş olan 21.08.1990 tarihli ve 3005 yevmiye numaralı sözleşmenin kanunun aradığı resmi şekil şartlarını taşıdığı, resmi belge hükmündeki noter senedinin aksinin davacı tarafça ispatlanamadığı, tarafların serbest iradeleriyle yaptıkları sözleşmede kanunun emredici hükümlerine, kamu düzenine, genel ahlaka ve kişilik haklarına aykırı bir durumun söz konusu olmadığı anlaşılmakla İlk Derece Mahkemesince davanın reddine karar verilmiş olmasında sonucu itibariyle bir isabetsizlik görülmediği gerekçesiyle, başvurunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/6313 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109050000)
 
 Yukarıda anlatılanlar ışığında, dava konusu Ölünceye Kadar Bakım Sözleşmesi resmi şekil koşuluna uygun olarak düzenlenmiş olup, mirasbırakanın sağlığında bu sözleşmenin iptaline dair usulüne uygun olarak açılmış bir dava bulunmadığından ve sözleşmenin iptali için başkaca bir sebep ileri sürülmediğinden ölünceye kadar bakım sözleşmesine dayalı tescil hükmü kurulması gerekmektedir.
 
@@ -113,10 +131,14 @@ Diğer yandan, mirasbırakan ile mirasçısı ...'nin Bursa .... Noterliğinin 0
 
 ## Yargıtay 8. HD 2023/5092 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/962682600)
+
 Murisin ölüm tarihinin 1981 olarak belirlenmesi karşısında 07.12.1984 tarihli (ve o tarih itibariyle) murisin tüm mirasçıları arasında yapılan mirastan feragat sözleşmesinin hukuken bir geçerli bir sözleşme haline geldiği, feragat sözleşmesiyle birlikte davacı ...'ın murisin ...'ın terekesinde bir hakkının kalmadığı, terekenin payları oranında diğer mirasçılar ... ile ...'a geçtiği, diğer bir anlatımla dava konusu taşınmazların 07.12.1984 tarihi itibariyle ... ile ...'ın arasında paylı olarak kendi mülkiyetleri kapsamına dahil taşınmazlar niteliğini aldığı, ...'ın kendi payını davalı ...'a sattığı, ...'a ait payın ise 1995 yılında ölümüyle kendi mirasçıları olan eşi davalı/davacı ... ile çocuklarına kaldığı, ...'ın terekesinin paylaşılmadığı, elbirliği mülkiyeti hükümlerine tabi olduğu, ... mirasçısı davalı/davacı ...'ın kendi miras payını ... terekesine göre üçüncü kişi konumunda olan davacı ...' ait olduğunu kabul etmesinin elbirliği mülkiyetine tabi taşınmazlar yönüyle hukuken mümkün bulunmadığı, bu nedenle davalı/davacı ...'in ...'dan gelen miras payının kendi adına tescili gerekirken, diğer payları satın alan davalı ... üzerinde bırakılması usul ve yasaya uygun
 bulunmadığından, davalı/davacı ...'ın temyiz itirazlarının bu nedenlerle kabulü ile hükmün bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2023/3745 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/926096500)
 
 Feragat eden, ileride sahip olacağı miras payının tamamından veya bir kısmından da feragat edebilir. Ancak Türk Medeni Kanunu’nun 582/2. maddesinde, kanun koyucu “mirasçılık sıfatını kaybeder.” ifadesiyle tam feragati vurgulamış, feragat eden mirasçının mirasçılık sıfatını kaybedeceğini düzenlemiş ise de kısmi feragat olması durumunda kısmi feragat eden mirasçı hala tereke üzerinde pay sahibi olacağından, mirasçılık sıfatı da kalan kısım yönünden sürecektir. Üstelik, yalnızca saklı paydan veya yasal miras payından feragat de mümkün olduğu gibi saklı paylı mirasçının saklı payının tamamından veya bir kısımından feragat ettiği halde, miras bırakan yönünden feragat edilen saklı pay açısından tasarruf serbesti de mümkün olacaktır. Buradan hareketle, miras bırakan tasarrufta bulunmamışsa, feragat edenin mirasçılık sıfatı devam edecektir.
 
@@ -128,16 +150,22 @@ Gerekçesine yer vererek yine mirastan feragat eden mirasçının payının gös
 
 ## Yargıtay 7. HD 2023/799 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884535600)
+
 4721 sayılı Türk Medeni Kanunu'nun 565 inci maddesinin ikinci fıkrasına göre, miras haklarının ölümden önce tasfiyesi maksadıyla yapılan karşılıksız kazandırmalar, ölüme bağlı tasarruflar gibi tenkise tâbidir. Burada söz konusu olan, bir mirastan feragat sözleşmesinde feragat eden kanuni mirasçıya verilen ivazdır. Kanuni mirasçının beklenen miras hakkından vazgeçmesi karşılığında, aldığı ivaz da net terekeye eklenir ve şartları varsa tenkise tabi tutulur (Cemal Öztürkler, Mirasta Denkleştirme İade ve Tenkis Davalarında Hesap Teknikleri, Seçkin Yayınevi, Ankara, 2004, sayfa 137). Bir diğer deyişle, miras haklarının ölümünden önce tasfiyesi maksadıyla yapılan kazandırmalar ile mirastan feragat etmesi sebebiyle bir mirasçıya ödenen karşılık hedeflenmiştir (Ömer Uğur Gençcan, Miras Hukuku, Yetkin Yayınları, Ankara, 2021, 5. Baskı, sayfa 662)
 
 4721 sayılı Türk Medeni Kanunu'nun 565 inci maddesinin dördüncü fıkrasına göre, mirasbırakanın saklı pay kurallarını etkisiz kılmak amacıyla yaptığı açık olan karşılıksız kazandırmalar, ölüme bağlı tasarruflar gibi tenkise tâbidir.
 
 ## Yargıtay 1. HD 2022/1820 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766172800)
+
 Dairenin 08/03/2016 tarihli ve 2014/8965 E., 2016/2858 K. sayılı ilamında "...asıl davada mirasçı davacıların çekişme konusu edilen taşınmazlardaki miras paylarından usulüne uygun düzenlenmiş mirastan feragat sözleşmesi ile feragat etmiş oldukları gözetilerek asıl davanın reddine karar verilmiş olmasında bir isabetsizlik yoktur. Davacıların bu yönlere ilişkin temyiz itirazları yerinde değildir.’’ gerekçesi ile asıl davanın onanmasına; " ...davacıların 16.10.1975 tarihli mirastan feragat sözleşmesi ile kardeşleri ... oğlu ... lehine mirastan feragat ettikleri açık olup, muris ... ...'ın bu kapsamda olduğunu söyleyebilme olanağı yoktur. Somut olayda, birleştirilen davaya konu 3650 parselin 200/406 payının satış suretiyle temlikleri bakımından muris muvazaa iddiası doğrultusunda gerekli inceleme ve değerlendirme yapılmadan sonuca gidilmiş olması doğru değildir.
 Hâl böyle olunca, yukarıda açıklanan ilke ve olgular doğrultusunda birleştirilen davaya konu 3650 parsel sayılı taşınmazın 200/406 payının temliki yönünden davacıların muris muvazaası iddiası doğrultusunda değerlendirme yapılarak hasıl olacak sonuca göre bir karar verilmesi gerekirken yanılgılı değerlendirme ile birleştirilen davanın reddine karar verilmiş olması isabetsizdir.’’ gerekçesi ile birleştirilen davada verilen ret kararının bozulmasına karar verilmiştir.
 
 ## Yargıtay 1. HD 2022/805 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762015200)
 
 Yine aynı Yasa’nın 528. maddesine göre, “ Mirasbırakan, bir mirasçısı ile karşılıksız veya bir karşılık sağlanarak mirastan feragat sözleşmesi yapabilir. Feragat eden, mirasçılık sıfatını kaybeder. Bir karşılık sağlanarak mirastan feragat, sözleşmede aksi öngörülmedikçe feragat edenin alt soyu için de sonuç doğurur.” düzenlemelerine yer verilmiştir.
 
@@ -151,6 +179,8 @@ Dava muris muvazaası hukuki nedenine dayanan tapu iptali-tescil istemine ilişk
 
 ## Yargıtay 1. HD 2022/439 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760847900)
+
 5.1.Bozma kararında, Yerel Mahkeme gerekçelerinin yerinde olmadığı, “ibraname” başlıklı harici belgeyle dosya kapsamındaki diğer delillerin birlikte değerlendirilmesi ve sonucuna göre bir karar oluşturulmasının istendiğini, Yerel Mahkemece bozma ilamı doğrultusunda, belirtilen hususlar dikkate alınarak bir karar verilmesi gerekirken, sadece “ibraname” başlıklı belgenin feragat beyanı olduğu, mirastan feragat beyanının hüküm doğurabilmesinin iki tarafın da katıldığı bir sözleşmeyle mümkün olacağı, tek taraflı bir hukuki işlemle mirastan feragat yapılabilmesinin mümkün olmayacağı gerekçesiyle yazılı şekilde karar verildiğini, Muris ... ...’den kalan mallar kayden paylaşılmamış olsa da muris ... ...’e, davacıların murisi ... ve davacı ...’a, davalıların murisi ...’e ve dava dışı ... ...’e kök muris ... ...’den intikal eden dava konusu parselin de bulunduğu alandaki parsellerin paylaşımının yapıldığını, “ibraname” başlıklı belgenin, dosyada bulunan tapu kayıtları ve diğer delillerle birlikte değerlendirildiğinde muris ... ...’in terekesinin fiili paylaşımının murisin ölümü sonrası taraflar arasındaki satışlar sonucunda ... araziler hariç olmak üzere bitirildiğini açıkça ortaya
 koyduğunu, davacıların murisi ... ve davacı ... tarafından imzalanan belgenin davacılar ... mirasçılarını ve ...’ı bağlamayacağı yönündeki gerekçenin kabul edilemeyeceğini belirterek, kararın bozulmasını istemiştir.
 
@@ -159,6 +189,8 @@ koyduğunu, davacıların murisi ... ve davacı ... tarafından imzalanan belgen
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tazminat isteğine ilişkindir.
 
 ## Yargıtay 14. HD 2021/651 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635733000)
 
 Dava, mirastan feragat sözleşmesinin iptali isteğine ilişkindir.
 
@@ -170,9 +202,13 @@ Mirastan feragat sözleşmesi, hukuki niteliği itibariyle bir miras sözleşmes
 
 ## Yargıtay 16. HD 2021/189 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660095900)
+
 Çekişmeli taşınmazların müşterek muris ...’dan intikal ettiği ve mirasçılar arasında usulünce taksim edilmediği yönündeki mahkeme gerekçesinde bir isabetsizlik bulunmamaktadır. Ne var ki, tarafların murisi Kamil’in sağlığında ... tarafından düzenlenen ve babasının ölümünden sonra kardeşlerinden hiçbir hak talep etmeyeceğine dair taahhüt içeren 15.11.1993 tarihli "taahhütname" başlıklı belge, düzenlendiği tarihte yürürlükte bulunan 743 sayılı Yasa’nın mirastan feragati düzenleyen 475. maddesine uygun değildir. Nitekim, Yargıtay İçtihadı Birleştirme Kurulunun 11.02.1959 tarih 1959/16-14 Esas ve Karar sayılı ilamı gereğince de, muris ile mirasçısı arasında düzenlenen mirastan feragat sözleşmesinin geçerli olabilmesi için resmi vasiyetname şeklinde yapılması zorunlu olup 15.11.1993 tarihli belge mirasçı ... tarafından tek taraflı olarak düzenlendiği gibi, resmi şekilde de yapılmamıştır. Dolayısıyla söz konusu belgenin geçerli olduğunun kabulü mümkün değildir.
 
 ## Yargıtay 14. HD 2020/5850 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/607475000)
 
 Dava, mirastan feragat sözleşmesinin iptali isteğine ilişkindir.
 

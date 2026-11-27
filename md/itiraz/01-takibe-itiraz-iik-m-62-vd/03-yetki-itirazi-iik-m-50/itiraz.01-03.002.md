@@ -22,13 +22,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2024/5419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058427300)
+
 İcra dairesinin yetkisine itiraz edilmemesinin o yerdeki mahkemeyi itirazın iptali davası yönünden yetkili hale getirmezse de davacının birden çok mahkemenin yetkili olduğu ve kesin yetki kuralının bulunmadığı bu davada, yetkisiz Bodrum 4. Asliye Hukuk Mahkemesinde davacının dava açtığı anlaşılmaktadır. Hal böyle olunca seçme hakkı davalıya geçmiş ve davalı vekilince de süresinde ve usulüne uygun olarak Ankara Mahkemelerinin yetkili olduğuna ilişkin itirazda bulunduğu anlaşıldığından uyuşmazlığın Ankara 38. Asliye Hukuk Mahkemesinde görülerek sonuçlandırılması gerekir.
 
 ## Yargıtay 5. HD 2024/4823 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1030459300)
+
 So... olayda, davacının alacağının tahsili için... İcra Müdürlüğünde takip başlatıldığı, davalının sadece borca itiraz ettiği, böylelikle icra dairesinin yetkisinin kesinleştiği anlaşılmaktadır. İcra dairesinin yetkisine itiraz edilmemesinin o yerdeki mahkemeyi itirazın iptali yönünden yetkili hale getirmezse de yerleşim yeri Merkez/Osmaniye olan davacının davayı... 3. Asliye Hukuk Mahkemesinde açtığı, 6098 sayılı Kanun'un 89 uncu maddesi uyarınca para alacağına ilişkin davalarda aksi kararlaştırılmadıkça para borcunun alacaklının yerleşim yerinde ödenmesi gerektiğinden alacaklının bulunduğu yer mahkemesi de yetkili olup davacı tercih hakkını bu yönde kullandığından, uyuşmazlığın... 3. Asliye Hukuk Mahkemesinde görülerek sonuçlandırılması gerekir.
 
 ## Yargıtay 11. HD 2024/3879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053519000)
 
 Davacı vekili dava dilekçesinde;borçlulardan ... İnşaat Sanayi ve Ticaret Ltd.
 
@@ -47,6 +53,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 i
 
 ## Yargıtay 3. HD 2024/169 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/991829000)
+
 Davacı vekili; müvekkilinin davalıya banka aracılığıyla 384,20 TL borç para gönderdiğini, müvekkili tarafından borcun ödenmesine yönelik talepte bulunmuş olmasına rağmen davalı tarafından ödeme yapılmadığından Ankara 31. Müdürlüğünün 2022/4458 E. sayılı takip dosyası ile icra takibine geçildiğini, davalının icra takibine haksız olarak itiraz ettiğini belirterek fazlaya ilişkin talep ve dava haklarının saklı kalmak kaydıyla davalının icra takibine yaptığı itirazın iptalini, Ankara 31. İcra Müdürlüğünün 2022/4458 E. sayılı icra takibinin devamını, %20'den az olmamak üzere icra inkar tazminatına hükmedilmesini talep etmiştir.
 
 …
@@ -62,6 +70,8 @@ Adalet Bakanlığınca; 2004 sayılı İcra ve İflas Kanununun 50 nci maddesini
 Adalet Bakanlığının 6100 sayılı Kanun’un 363 üncü maddesinin birinci fıkrasına dayalı kanun yararına temyiz istemlerinin kabulü ile kararın sonuca etkili olmamak üzere KANUN YARARINA BOZULMASINA …
 
 ## Yargıtay 11. HD 2023/2504 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109993000)
 
 Davacılar vekili dava dilekçesinde; davalının taraflar arasında akdedilen 13.05.2015 tarihli münferit hisse satış sözleşmeye aykırı davrandığını, cezai şart ödemesi gerektiğini, alacağın tahsili için başlatılan takibe itiraz ettiğini ileri sürerek itirazın iptalini istemiştir.
 
@@ -81,6 +91,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 12. HD 2023/745 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875993300)
+
 İİK'nın 50. maddesinin birinci fıkrasına göre; HMK'nın yetkiye ilişkin hükümleri, para ve teminat alacaklarına dayalı takiplerde kıyas yolu ile uygulanır. Konusu para ve teminat alacaklarına ilişkin davalarda yetki, genel yetki kuralına göre çözümlenir. HMK’nın 6. maddesine göre genel yetkili mahkeme, davalı gerçek veya tüzel kişinin davanın açıldığı tarihteki yerleşim yeri mahkemesidir.
 
 …
@@ -88,6 +100,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2022/13160 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/826771300)
 
 Dava; İİK'nun 67/2 maddesine göre Sapanca İcra Müdürlüğünün 2018/583 Esas sayılı dosyasına yapılan itirazın iptali ve %20 İcra İnkar tazminatına hükmedilmesi istemine ilişkindir.
 
@@ -97,6 +111,8 @@ HMK'nın 6/1. maddesi uyarınca genel yetkili mahkeme, davalı gerçek veya tüz
 Ancak, durum ve koşullara göre cevap dilekçesinin bu süre içinde hazırlanmasının çok zor yahut imkânsız olduğu durumlarda, yine bu süre zarfında mahkemeye başvuran davalıya, bir defaya mahsus olmak ve bir ayı geçmemek üzere ek bir süre verilebilir. Ek cevap süresi talebi hakkında verilen karar taraflara derhâl bildirilir." şeklinde düzenleme getirmektedir.
 
 ## Yargıtay 5. HD 2022/9639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/793237600)
 
 Dava, itirazın iptali istemine ilişkindir.
 
@@ -112,6 +128,8 @@ Dava, itirazın iptali istemine ilişkindir.
 
 ## Yargıtay 4. HD 2022/8365 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843756500)
+
 İlk Derece Mahkemesince, 2004 Sayılı İcra İflas Kanununun 72/7. maddesi uyarınca takibe itiraz etmemiş veya itirazının kaldırılmış olması yüzünden borçlu olmadığı bir parayı tamamen ödemek mecburiyetinde kalan şahsın, ödediği tarihten itibaren bir sene içinde, umumi hükümler dairesinde mahkemeye başvurarak paranın geriye alınmasını istiyebileceğini, yasanın bu açık düzenlemesinden de anlaşıldığı üzere borçlu olmadığı bir parayı icra takibi nedeniyle ödemek zorunda kaldığını iddia eden kişinin sadece mahkemeye başvurarak istirdat talebinde bulunabileceği, icra dairesine başvuramayacağı, bu itibarla yasaya aykırı olarak icra takibine başvuran kişinin, bu takibe yapılan itirazın kaldırılmasını da isteyemeyeceği gerekçesi ile davanın usulden reddine karar verilmiş, davacı vekilinin kararı istinaf etmesi üzerine, Bölge Adliye Mahkemesince davalı-borçluların öncelikle icra dairesinin yetkisine itiraz etmeleri nedeniyle bu itirazın değerlendirildiği, yetkili icra dairesinde yapılmış usulüne uygun bir takip bulunmadığından dava şartı yokluğu nedeniyle davanın usulden reddine, dava şartı olan davalıların icra dairesinin yetkisine itirazları hakkında karar verilmemesi kamu düzenine aykırılık
 oluşturmakla, HMK'nın 355 ve 353/1-b-2. maddesi uyarınca kararın resen kaldırılmasına karar verilmiştir.Kararın temyizi üzerine, Yargıtay 17. Hukuk Dairesi'nin yukarıda izah edilen ilamı uyarınca davalıların icra dairesinin yetkisine yaptıkları itirazın reddedilerek istinaf başvurusunun incelenmesi ve sonucuna göre karar verilmesi için İstinaf Mahkemesi kararı bozulmuştur. Bozmaya uyularak yapılan yargılama sonucunda, Bölge Adliye Mahkemesince, davacı tarafça, icra tehdidi altında icra dosyasına ödediği paranın iadesi için istirdat davası açmak yerine davalılara karşı ilamsız icra yoluyla takip başlatıldığı ve itiraz üzerine itirazın iptali davası açılmış ise de, İİK m.72. maddesi gereğince, davacının icra dosyasına ödediği paranın istirdadı için ancak istirdat davası açabileceği, icra dosyasına ödemiş olduğu paranın kendisine geri verilmesi için ilamsız icra takibi yapamayacağı gerekçesi ile ilk derece mahkemesince davanın usulden reddine dair verilen kararın yerinde olduğu sonucuna varılarak; davacı vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.Ancak varılan sonuç dosya kapsamına uygun düşmemiştir. Eksik inceleme ile karar verilemez.
 
@@ -122,6 +140,8 @@ oluşturmakla, HMK'nın 355 ve 353/1-b-2. maddesi uyarınca kararın resen kald�
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile ilk derece mahkemesince verilen karara yönelik istinaf başvurusunun esastan reddine ilişkin Bölge Adliye Mahkemesi kararının kaldırılarak İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 3. HD 2022/8148 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838437700)
 
 Davacı; kiralananı tahliye ettiği halde depozito bedelinin davalı kiraya veren tarafından iade edilmediğini, alacağın tahsili için yapılan takibe haksız olarak itiraz ettiğini ileri sürerek; takibe vaki itirazın iptalini, lehine icra inkar tazminatına hükmedilmesini talep etmiştir.
 
@@ -141,6 +161,8 @@ SONUÇ: Yukarıda (1) ve (2) numaralı bentlerde açıklanan nedenlerle Adalet B
 
 ## Yargıtay 5. HD 2022/2041 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/734624500)
+
 Gelibolu İcra Hukuk Mahkemesi’nce, icra takibinin Malkara İcra Müdürlüğü'nde açıldığı, 2020/136 Esas sıra numarasını aldığı, İİK'nın 4. maddesi gereğince; takip hangi icra dairesinde başlamış ise, bu takiple ilgili itiraz ve şikayetler, takibin yapıldığı yer icra müdürlüğünün bağlı bulunduğu icra mahkemesinde çözümleneceği, bu hususun, kamu düzenine ilişkin kesin yetki niteliğinde olduğu, bu nedenle Malkara İcra Hukuk Mahkemesi'nin yetkili olduğu gerekçesiyle yetkisizlik kararı verilmiştir.
 
 Malkara İcra Hukuk Mahkemesi’nce ise, davalının süresinde yetki itirazı bulunduğu, Uyap sistemi üzerinden yapılan kontrolde davalının yerleşim yerinin Gelibolu/... olduğunun görüldüğü, davalı aleyhine başlatılan takip dosyasına yapılan itirazın iptali istemiyle açılan eldeki davada, dava konusu takibin yapıldığı tarihte ve halen davalının Gelibolu İlçesinde ikamet ettiği, genel yetki kuralları kapsamında HMK’nın 6. maddesi gereği davanın davalının yerleşim yeri olarak Gelibolu İcra Mahkemesi’nde görülmesi gerektiği gerekçesiyle yetkisizlik kararı verilmiştir.
@@ -148,6 +170,8 @@ Malkara İcra Hukuk Mahkemesi’nce ise, davalının süresinde yetki itirazı b
 Genel haciz yolu ile ilamsız takibe karşı borçlunun süresinde itirazı takibi durdurur. Takibin devamını sağlamak için alacaklı dilerse itirazın kaldırılması için icra mahkemesine başvurabileceği gibi, takip konusu alacağın dayanağı İİK’nın 68-68/a’daki belgelerden değilse, genel mahkemede itirazın iptali davası açabilir. Alacaklı itirazın kaldırılması dilekçesinde itirazın iptali tabirlerini kullanmış olsa dahi icra mahkemesince bu dava İİK’nın 68.maddesi anlamında itirazın kaldırılması olarak nitelendirilip sonuçlandırılmalıdır. İcra mahkemesinde itirazın kaldırılması yoluna başvuran alacaklı, bu yolu bırakarak mahkemede itirazın iptali davası da açabilir.
 
 ## Yargıtay 3. HD 2022/1423 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748043000)
 
 Davacı; danışmanlığını yaptığı dava dışı şirketin maden ruhsatı işlemlerinin takibi için davalı ...’ın vekaletname ile yetkilendirildiğini, davalının dosya ve işlem masrafı adı altında para talep etmesi üzerine 135.915 TL’yi davalı ...’ın oğlu diğer davalı ... hesabına gönderdiğini, ancak vekaletnameye rağmen işlemlerin gereği gibi takip edilmediğini, bu nedenle noterden ihtarname göndererek sözleşmeden dönüldüğünün ve yapılan ödemenin iadesinin talep ettiğini, daha sonra davalılar hakkında icra takibi başlattığını ancak takibe davalılar tarafından haksız olarak itiraz edildiğini ileri sürerek; takibe vaki itirazın iptalini ile icra inkar tazminatı talep etmiştir.
 
@@ -172,6 +196,8 @@ SONUÇ : Yukarıda birinci ve ikinci bentte açıklanan nedenlerle 6100 sayılı
 
 ## Yargıtay 5. HD 2021/11538 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696754900)
+
 Dava, itirazın iptali istemine ilişkindir.
 
 …
@@ -181,6 +207,8 @@ Dava, itirazın iptali istemine ilişkindir.
 6100 sayılı HMK'nın 19. maddesinde" (1) Yetkinin kesin olduğu davalarda, mahkeme yetkili olup olmadığını, davanın sonuna kadar kendiliğinden araştırmak zorundadır; taraflar da mahkemenin yetkisiz olduğunu her zaman ileri sürebilir. (2) Yetkinin kesin olmadığı davalarda, yetki itirazının, cevap dilekçesinde ileri sürülmesi gerekir. Yetki itirazında bulunan taraf, yetkili mahkemeyi; birden fazla yetkili mahkeme varsa seçtiği mahkemeyi bildirir. Aksi takdirde yetki itirazı dikkate alınmaz. (3) Mahkeme, yetkisizlik kararında yetkili mahkemeyi de gösterir. (4) Yetkinin kesin olmadığı davalarda, davalı, süresi içinde ve usûlüne uygun olarak yetki itirazında bulunmazsa, davanın açıldığı mahkeme yetkili hâle gelir." şeklinde düzenlenmiştir.
 
 ## Yargıtay 4. HD 2021/7024 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/738922800)
 
 Davacı vekili 03/03/2014 tarihinde davalının işyerinde çıkan yangın nedeni ile sigortalı komşu işyerinde meydana gelen zararlardan dolayı 7771394 nolu poliçe uyarınca yapılan ekspertiz raporu ve Kahramanmaraş İtfaiye Müdürlüğü tarafından tanzim edilen yangın raporuna göre 443.110,00 TL tazminatın 17/07/2013 tarihli belge ile ödendiğini, davalının işyerini sigortalayan ... Sigorta A.Ş tarafından 61001349/2013 nolu dosyaya istinaden müvekkili şirkete yangın nedeni ile 9.703,13 TL ödeme yapıldığını, müvekkili şirket tarafından bu yangın ile ilgili olarak 2853518 nolu hasar dosyası oluşturulduğunu ve davalının sigorta şirketi tarafından ödenen bedel çıkarıldıktan sonra bakiye kalan 33.407,00 TL tazminatın yangının çıkmasına sebebiyet veren davalı şirkete rücu için ... 13.
 
@@ -200,6 +228,8 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle hükmün BOZULMASIN
 
 ## Yargıtay 4. HD 2021/5876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/708280100)
+
 Davacı vekili, davalıya ait aracın, müvekkili şirketin işlettiği otoyoldan ihlalli geçişi nedeniyle geçiş ücreti ve geçiş ücretinin 4 katı tutarındaki ceza tutarı toplamından ibaret alacağın tahsili amacıyla ... 29. İcra Müdürlüğünün 2019/1956 esas sayılı dosyasından başlattıkları ilamsız takibe davalı/borçlu tarafından yetkiye ve borca itiraz edilmesi nedeniyle takibin durdurulmasına karar verildiğini belirterek, vaki itirazın iptali ile takibin devamına ve davalının yüzde yirmiden aşağı olmamak üzere icra inkar tazminatına mahkum edilmesine karar verilmesini talep etmiştir.
 
 Davalı vekili, iddia edilen geçiş ihlalini yapmadığını, turnikelerden giriş yaparak geçiş ücretini ödediğini belirterek davanın reddi gerektiğini savunmuştur.
@@ -215,6 +245,8 @@ Yukarıdaki açıklamalar ışığında somut olay değerlendirildiğinde; eldek
 SONUÇ: Yukarıda gösterilen nedenle, Adalet Bakanlığının kanun yararına temyiz isteminin kabulü ile 6100 sayılı HMK’nın 363. maddesi uyarınca ... 13. Tüketici Mahkemesinin 01/06/2020 günlü 2019/498 esas ve 2020/235 karar sayılı hükmünün, hukuki sonuçlarına etkili olmamak kaydı ile kanun yararına BOZULMASINA …
 
 ## Yargıtay 3. HD 2021/5491 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687237800)
 
 Davacı, davalının abone olmaksızın kaçak su kullandığının tespit edildiğini, bu nedenle hakkında 02/07/2010 tarihli kaçak tutanağı düzenlenerek kaçak su kullanım bedeli tahakkuk ettirildiğini, söz konusu bu bedelin davalı tarafça ödenmemesi üzerine hakkında icra takibi yapıldığı ancak davalının itirazı üzerine takibin durduğunu ileri sürerek; takibe vaki itirazın iptali ile icra inkar tazminatına mahkum edilmesini istemiştir.
 

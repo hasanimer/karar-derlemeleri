@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2026/128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196034200)
+
 Davacı vekili; müvekkilinin, ...'da bulunan taşınmazın satışı hususunda, taşınmazın sahibi olan davalının hesabına 10.03.2023 tarihinde 1.200.000,00 TL bedelli kaporayı gönderdiğini, banka dekontunda açıklama olarak "11 27... parsel 2BB kapora bedeli" yazıldığını, kapora bedeli gönderilmesine rağmen davalının tapu devrini yapmadığı gibi, müvekkilinin gönderdiği kaporanın da iade edilmediğini, bilahare müvekkilinin dolandırıldığını anladığını, kapora bedelinin iadesi için davalı aleyhine başlatılan icra takibine itiraz edildiğini ileri sürerek; icra dosyasına yapılan itirazın iptalini ve takibin devamını, davalı aleyhine icra inkar tazminatına hükmedilmesini talep etmiştir.
 
 …
@@ -38,6 +40,8 @@ durmasına sebebiyet veren davalı borçlunun icra inkar tazminatı ile mahkumiy
 Bölge Adliye Mahkemesince verilen 23.06.2025 tarihli tavzih kararının kaldırılmasına …
 
 ## Yargıtay 4. HD 2025/17284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204258800)
 
 Mahkemece, Dairemiz bozma ilamına karşı direnilmesine ve davanın kısmen kabulüne karar verilmiştir.
 
@@ -61,6 +65,8 @@ Davalılar vekillerinin tüm temyiz itirazlarının reddi ile usul ve kanuna uyg
 
 ## Yargıtay 10. HD 2025/13713 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204514600)
+
 Davalılar cevap dilekçesinde özetle, davacı şirketin iddialarının hukuki dayanaktan yoksun soyut ve mesnetsiz olduğunu, müvekkili davalılar tarafından davacı şirkete karşı açılan maddi ve manevi tazminat talepli davayı kabul eden Ankara 11. İş Mahkemesinin 2008/142 Esas ve 2011/1883 Karar sayılı kararı Yargıtay 21.Hukuk Dairesi tarafından esastan bozulmadığını, Ankara 11.
 
 …
@@ -72,6 +78,8 @@ Pek tabidir ki; elinde ilam olan bir alacaklının ilama dayalı olarak ilamsız
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 4. HD 2025/13647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188859800)
 
 Davacı vekili dava dilekçesinde; 23.12.2021 tarihinde davacının sevk ve idaresindeki kamyonet ile davalıya Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası (ZMSS) Poliçesi ile sigortalı aracın karıştığı çift taraflı trafik kazasında davacının yaralanarak malul kaldığını belirterek fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik belirsiz alacak olarak 15.005,00 TL sürekli iş göremezlik tazminatı, 70,00 TL geçici iş göremezlik tazminatı ve 25,00 TL geçici bakıcı gideri tazminatı olmak üzere toplam 15.100,00 TL tazminatın kaza tarihinden itibaren işleyecek avans faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiş; talep artırım dilekçesiyle talebini toplam 430.000,00 TL’ye yükseltmiştir.
 
@@ -90,6 +98,8 @@ Yukarıda (2), (3), (4) ve (5) numaralı bentlerde açıklanan nedenlerle daval�
 
 ## Yargıtay 11. HD 2025/5381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174375600)
+
 Davacı vekili dava dilekçesinde; banka ile ... Petrol İnşaat arasındaki genel kredi sözleşmesi (GKS) kapsamında asıl borçlu şirketin kullandığı kredilerde diğer davalılar ... ve ...'ün müteselsil kefil sıfatıyla imzalarının olduğunu, davalıların işbu GKS kapsamında kullandırılan kredilerden doğan yükümlülükleri kapsamında, kredi için oluşan mali ve hukuki riskler gözetilerek sözleşmelerinin ilgili maddeleri gereğince tahsilde tekerrür olmamak ve fazlaya dair haklarımızı saklı tutmak kaydıyla, ödenmeyen bakiye borcun tahsili için ... 4.
 
 …
@@ -103,6 +113,8 @@ Yapılan yargılama ve saptanan somut uyuşmazlık bakımından uygulanması ger
 VI. SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının reddi ile Bölge Adliye Mahkemesince verilen kararın HMK'nın 370/1 hükmü uyarınca ONANMASINA …
 
 ## Yargıtay 3. HD 2025/3380 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158458000)
 
 Davacı vekili; müflis ... Bankası A.Ş. borçlularından davalılardan ...'in müflis bankanın ...
 
@@ -121,6 +133,8 @@ Temyiz olunan Mahkeme hükmünün '' Davanın kısmen kabulü ile; 18.974,76 Eur
 
 ## Yargıtay 3. HD 2025/1721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170282000)
+
 Davacı vekili; müvekkili şirkete ait otelin 78 oda 156 kişi kapasiteli kısmının 30.08.2022 giriş ve 04.09.2022 çıkış olmak üzere toplam 5 gün bloke edildiğini ve bu hususta 17.08.2022 tarihinde sözlü anlaşma yapıldığını, 19.08.2022 tarihinde davalı kurum protokol müdürü tarafından gönderilen mail ile sözleşmenin de kesin olarak onaylandığını ancak konaklama yapılmadığından bahisle ödeme yapılmadığını bu nedenle düzenlenen faturanın tahsili amacıyla icra takibi başlatıldığını, Samsun'da düzenenen Teknofest etkinliği nedeniyle şehirdeki tüm otellerin dolduğunu, birçok işletmenin kazanç sağladığını, ancak müvekkili şirketin bu kazançlardan faydalanamadığını ve büyük ekonomik zarara uğradığını, müvekkili tarafından sözleşme ile ilgili Samsun Valiliğinden herhangi bir itiraz veya olumsuz yanıt gelmediği gibi sözleşmenin kabul edildiği için 14.09.2022 tarihinde düzenlenen faturaya da itiraz edilmediğini, müvekkili tarafından başlatılan icra takibine davalı tarafça yapılan itirazın haksız olduğunu belirterek, itirazın iptaline ve icra inkar tazminatına karar verilmesini talep etmiştir.
 
 …
@@ -137,6 +151,8 @@ Davacı vekilinin temyiz itirazların kabulüyle, 6100 sayılı Kanun'un 373. ma
 
 ## Yargıtay 3. HD 2025/1184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145509400)
+
 Davalı vekili; davaya konu borç ilişkisinin 2019/18248 Esas sayılı icra dosyasından kaynaklandığını, bu icra dosyasında davacı borçluya ödeme emrinin 07.11.2019 tarihinde tebliğ edildiğini, borçlu davacı tarafından 10.11.2019 tarihinde borca itiraz edildiğini, icra dosyasında görüleceği üzere 13.01.2022 tarihinde icra müdürü tarafından icranın durdurulmasına karar verildiğini, vaki itiraz ve icranın durdurulmasına ilişkin icra müdürlüğü kararının borçluya 21.01.2022 tarihinde e-tebliğ edildiğini ve 23.01.2022 tarihinde mevzuat gereği belirlenen süre sonunda otomatik olarak okundu sayıldığını, bu durumda borçlunun itirazının iptalini isteyebilecekleri bir yıllık sürenin 26.01.2022 tarihinde başlamış olup 26.01.2023 tarihinde bu sürenin sona erdiğini, bu tarihten sonra davaya konu takip için itirazın iptali istenemeyeceğinden davacının eldeki davayı açmakta hukuki yararı bulunmadığını savunarak, davanın reddini istemiştir.
 
 …
@@ -149,6 +165,8 @@ Dairemizin bir kararında “… Somut olayda, aleyhine ilamsız icra takibi ba�
 
 ## Yargıtay 12. HD 2025/452 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140863400)
+
 İİK’nun 169/a-5. maddesinde ise; ‘İtirazın kabulü kararı ile takip durur. Alacaklının genel hükümlere göre dava açmak hakkı mahfuzdur. Alacaklı, genel mahkemede dava açarsa, inkâr tazminatı ve para cezasının tahsili dava sonuna kadar tehir olunur ve bu davayı kazanırsa hakkında verilmiş olan inkâr tazminatı ve para cezası kalkar.’ ibaresi yer almaktadır.
 
 …
@@ -156,6 +174,8 @@ Dairemizin bir kararında “… Somut olayda, aleyhine ilamsız icra takibi ba�
 Ankara 2. İcra Hukuk Mahkemesinin 27.12.2022 tarih ve 2022/426 E. - 2022/938 K. sayılı kararının BOZULMASINA …
 
 ## Yargıtay 11. HD 2024/9310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1116234200)
 
 Davacı vekili dava dilekçesinde; müvekkili banka ile davadışı şirket arasında kredi genel sözleşmesi imzalandığını, sözleşmeleri davalının müşterek borçlu müteselsil kefil sıfatıyla imzaladığını, borcun ödenmemesi nedeniyle borcun müteselsil kefili olan davalı borçlular hakkında takibe başlanıldığını, davalı borçlu tarafından takibe itiraz edildiğini, itiraz üzerine haklarındaki takibin durdurulduğunu, itirazlarının haksız olduğunu ileri sürerek itirazın iptaline ve takibin devamına, itiraz edilen kısım üzerinden %20’den az olmamak kaydıyla icra inkar tazminatının davalı borçludan tahsiline karar verilmesini talep etmiştir.
 
@@ -178,6 +198,8 @@ VI. SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacının di
 
 ## Yargıtay 12. HD 2024/7832 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1092654900)
+
 Somut olayda, alacaklı tarafından borçlular hakkında genel haciz yoluyla ilamsız icra takibi başlatıldığı, ödeme emrinin tebliği üzerine borçlular tarafından yasal süresi içerisinde itirazda bulunulduğu, icra müdürlüğünce takibin durdurulmasına karar verildiği, takibin durmasından sonra alacaklı tarafından itirazın iptali davası açıldığı, İstanbul Anadolu 16. Sulh Hukuk Mahkemesinin 08.11.2018 tarih, 2014/710 E.-2018/838 K. sayılı kararı ile borçlu ... yönünden davanın reddine karar verildiği, tarafların istinaf başvurusu üzerine İstanbul Bölge Adliye Mahkemesinin 22.06.2021 tarih, 2019/518 E.-2021/1527 K. sayılı kararı ile borçluların istinaf başvurusunun kısmen kabulü ile borçlu ... yönünden davanın reddine karar verildiği görülmüş olup borçlu ... hakkındaki takibin durmaya devam ettiği anlaşılmıştır.
 
 …
@@ -185,6 +207,8 @@ Somut olayda, alacaklı tarafından borçlular hakkında genel haciz yoluyla ila
 İstanbul Anadolu 20. İcra Hukuk Mahkemesinin 19.07.2022 tarih ve 2021/606 E. - 2022/449 K. sayılı kararının hüküm bölümünün “A-1)” numaralı bendinde yer alan “takibin İPTALİNE” sözcüklerinin hüküm fıkrasından çıkarılarak yerine “icra emrinin İPTALİNE” sözcüklerinin yazılmasına …
 
 ## Yargıtay 11. HD 2024/6243 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088891200)
 
 Davacı vekili dava dilekçesinde; davalı şirket tarafından müvekkili aleyhine İstanbul 5. İcra Müdürlüğünün 2013/21164 E: sayılı dosyası ile 554.300 TL'lik iflas yolu ile adi takip yapıldığını, takip dayanağı olarak 2013 yılı tarihli havalelerin bildirildiğini, davacının davalı şirkete herhangi bir borcu bulunmamasına rağmen, tebligatın usulsüz olarak gerçekleştirilmesi nedeni ile, müvekkilinin takipten haberdar olmadığını, takibe itiraz edememesi sonucunda da hakkındaki iflas takibinin kesinleşmiş olduğunu, İstanbul 12.İcra Hukuk Mahkemesinin 2014/222 E. sayılı dosyası ile usulsüz tebligat nedeni ile dava açıldığını, ancak davanın reddedildiğini, kararın taraflarınca temyiz edildiğini, müvekkilinin davalıya borçlu olmadığını üstelik davalının Asa Metal Ltd.
 
@@ -202,6 +226,8 @@ Takip borçlusunun ödeme emrine süresinde itiraz etmesiyle takibin durması ha
 
 ## Yargıtay 6. HD 2024/5086 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112606900)
+
 Davalı vekili cevap dilekçesinde özetle; davacı ile imzalanan sözleşmenin 12. 2.
 
 …
@@ -216,6 +242,8 @@ SONUÇ: Yukarıda (8-a) numaralı bentte açıklanan nedenlerle davalı vekilini
 
 ## Yargıtay 6. HD 2024/4848 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121201300)
+
 Davalı vekili cevap dilekçesinde özetle, içinde bulundukları yılda yapılan yerel seçimler sonucunda yönetimin devralınması ve henüz devir ve teslime ilişkin işlemlerin yapılmamış olmasından dolayı davacı tarafın iddia ettiği ihale sözleşmeleri ve faturaları kurumları nezdinde tespit edemediklerini, davacı tarafın iddia ettiği hiçbir hususun kayıtlarda mevcut olmadığını savunarak davanın reddini istemiştir.
 
 İlk Derece Mahkemesince, davacı tarafından davalı ... adına düzenlenen faturaların her iki tarafın da ticari defterlerinde kayıtlı olduğu, o halde davacı alacaklının akdedilen sözleşmeden kaynaklanan edimini ifa ettiği, öte yandan alınan bilirkişi raporunda kapalı fatura karinesine dair yapılan açıklamalardan sonra davalı tarafından ileri sürülen savunmaların, kapalı faturanın bedelin ödendiğine karine teşkil etmesi hususu dikkate alınarak hizmet edimi karşılığında bedelin ödendiği şeklinde değiştirildiği, ancak savunmanın değiştirilmesi yasağının istisnası kapsamında ıslah veya karşı tarafın açık muvafakati yollarından herhangi birinin kullanılmadığı, o halde usulüne uygun olmayan savunmanın değiştirilmesine itibar edilemeyeceği, ayrıca kapalı faturanın, üzerinde yazılı bedelin ödendiği hususunda karine teşkil etmekle beraber bu karinenin, aksi ispatlanabilen, adi bir karine olduğu, fatura bedellerinin ödendiğine dair herhangi bir kaydın iki tarafın da ticari defterinde kayıtlı olmadığı, ödemelerin yapıldığına dair banka dekontu, hesap ekstresi, senet gibi herhangi bir belgenin de davalı tarafından sunulmadığı gerekçesiyle davanın kabulüne karar verilmiştir.
@@ -229,6 +257,8 @@ Somut olay incelendiğinde; davacı yüklenici ile davalı ... arasında mal al�
 SONUÇ: Yukarıda açıklanan nedenlerle Van Bölge Adliye Mahkemesi 2. Hukuk Dairesinin İlk Derece Mahkemesince verilen kararın kaldırılarak yeniden esas hakkında verdiği karar usul ve yasaya aykırı görüldüğünden BOZULMASINA …
 
 ## Yargıtay 11. HD 2024/3879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053519000)
 
 Davacı vekili dava dilekçesinde;borçlulardan ... İnşaat Sanayi ve Ticaret Ltd.
 

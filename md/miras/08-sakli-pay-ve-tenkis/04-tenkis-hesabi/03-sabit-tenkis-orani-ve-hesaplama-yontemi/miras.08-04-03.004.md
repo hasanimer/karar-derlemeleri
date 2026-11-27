@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2009/11819 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78472900)
+
 Dava, tenkis isteğine ilişkindir.
 
 …
@@ -29,6 +31,8 @@ Dava, tenkis isteğine ilişkindir.
 Öte yandan, Türk Medeni Kanununun 506, 564. maddesi gereğince dava konusu taşınmazların sabit tenkis oranında bölünüp bölünemeyeceği belirlenerek, ondan sonra tercih hakkının kullandırılması gerekirken, ilk bozma ilamından önce taşınmazların bölünüp bölünmeyeceği tespit edilmeden tercih hakkının kullanılmasının geçersiz olduğu açıktır. Kaldı ki, değinilen bu husus hükmüne uyulan ilk bozma ilamında da belirtilmiştir. Ayrıca davalıların temyizi üzerine verilen ve hükmüne uyulan bozma ilamı üzerine yapılan inceleme sonucu değinilen yasa hükmüne uygun olarak belirlenen ikinci tercih tarihinin davalılar açısından kazanılmış hak teşkil edeceği de açıktır.
 
 ## Yargıtay 1. HD 2009/11364 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78415300)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -39,22 +43,32 @@ Ziraat Bankasındaki mevduat hesabında bulunan para ise diğer davalı M..'e b�
 
 ## Yargıtay 2. HD 2009/1733 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80232600)
+
 Vasiyete konu taşınmazların mirasbırakanın ölümü tarihindeki değerleri 11.12.2004 tarihli bilirkişi raporunda gelir metodu esas alınarak 40.500 TL. olarak belirlenmiş, taraflar belirlenen bu değere itiraz etmemişlerdir. Davalı, sabit tenkis oranı ortaya çıktıktan ve bu oran dahilinde taşınmazların bölünmezliği belirlendikten sonra 20.4.2006 tarihli oturumda Türk Medeni Kanununun 564. Maddesi uyarınca tercihini tenkisi gereken kısmın değerini ödeyerek malın kendisine bırakılması yönünde kullanmıştır. Vasiyet edilen taşınmazların tercih günündeki değerleri 25.4.2006 tarihli raporda, ölüm tarihindeki değerin de altında 31.500 olarak belirlenmiş ise de, ölüm tarihinden yaklaşık dört yıl sonrasına ait değerlerin tespiti objektif esaslara dayanmamaktadır. 25.4.2006 tarihli raporu düzenleyen bilirkişi, belirlediği bu değerleri hangi esas ve metodlara göre tespit ettiğini açıklamamıştır.
 Taşınmazlar tarım arazisi (tarla ve bağ) niteliğinde olduğuna göre, tercih günündeki değerlerinin gelir metodu esas alınarak tespit edilmesi, sabit tenkis oranına göre davacılara ödenecek miktarın belirlenmesi gerekirken eksik inceleme ve yetersiz bilirkişi raporuna dayanılarak hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2008/12742 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80097600)
+
 Öte yandan; 8182 ada 1 parsel numaralı taşınmazdaki bağımsız bölümün, satın alma bedelinin mirasbırakan tarafından ödendiği, bu durumda, davalıya yapılan tenkise tabi kazandırmanın taşınmaz alımında ödenen para olduğuna, mahkemece bu bedel üzerinden tenkis hesabı yapılması gerektiğine ilişkin bozma kararına uyulmuş olduğuna göre; taraflar da 30.06.2005 tarihli oturumda dairenin alım tarihindeki bedelinin 130.000.000 TL. (130 YTL.) olduğunu kabul etmiş bulunduklarına göre, bu miktar üzerinden tenkis hesabı yapılması gerekirken, yazılı şekilde hüküm tesisi de doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/7680 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80132900)
 
 Tasarrufa konu malın sabit tenkis oranında bölünmediği ortaya çıktığı takdirde, Türk Kanunu Medenisinin 506.ncı maddesinde tanınan tercih hakkı gündeme gelir. Böyle bir durum ortaya çıkmadan, başka bir anlatımla sabit tenkis oranı bulunup, tasarrufa konu malın,bu oranda, değerinde azalma meydana gelmeksizin bölünmesine olanak bulunmadığı belirlenmeden davalının tercih hakkını kullanması sözkonusu olamaz. Bu durum belirlenmeden kullanılan tercih hakkı sonuç doğurmaz.(TKM. m. 506 ve 10.11.1994 tarihli 4/4 sayılı İçt. Bir. Kararı) Tasarrufun tamamının değeri ile yapılan fazla teberru arasındaki oran sabit tenkis oranıdır. Mirasbırakanın ölüm tarihindeki taşınmazın değeri esas alınarak sabit tenkis oranı belirlenmeli, sabit tenkis oranı ve bölünmezlik tespit edildikten sonra davalının tercih hakkı sorulmalı, davalı tarafından tercih hakkının kullanılmaması durumunda, tercih hakkının davacılara geçeceği gözetilerek, davacılardan tercihi sorulmalıdır. Açıklanan husus üzerinde durulmadan yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2008/7286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80045600)
+
 Türk Kanunu Medenisinin 503'ncü maddesi uyarınca, mahfuz hisseli birden fazla mirasçıya ölüme bağlı tasarrufla yapılan ve tasarruf nisabını tecavüz eden teberruların tenkisinin istenmesi halinde, bu mirasçılardan herbirine mahfuz hisselerinden fazla düşen miktarlar mütenasip olarak tenkise tabidir. Hükme esas alınan bilirkişi raporunda, açıklanan kural dikkate alınmamıştır. Mahkemece yapılacak iş, mafuz hisseli birden fazla mirasçıya aynı ölüme bağlı tasarrufla teberruda bulunulduğu gözetilerek herbirinin, saklı paylarından fazla aldıkları miktarların orantılı olarak tenkise tabi tutulması ve sabit tenkis oranının bu esasa göre belirlenmesi ve usulü kazanılmış haklarda gözetilerek ulaşılacak sonuç uyarınca hüküm kurulmasından ibarettir. Bu hususun gözetilmemesi usul ve kanuna aykırıdır.
 
 ## Yargıtay 1. HD 2008/3208 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78324800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescili, olmazsa tenkis isteklerine ilişkindir.
 
@@ -67,15 +81,21 @@ Hal böyle olunca; muris muvazaası konusunda yukarıda belirtilen hususların g
 
 ## Yargıtay 2. HD 2007/14140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80440100)
+
 Tereke tesbit edildikten sonra mirasın açıldığı tarihteki fiatlara göre değerlendirilmesi yapılarak parasal olarak miktarın tesbiti gerekir.(TKM.m.507) Mirasbırakanın Türk Kanunu Medenisinin 506. maddesinde belirlenen saklı paya tecavüz edip etmediği bulunan bu rakamlar üzerinden hesaplanır.
 
 Hükme esas alınan 10.3.2006 tarihli bilirkişi raporunda, sabit tenkis oranı hesaplanırken yukarıda belirtilen ilkeler doğrultusunda hareket edilmemiş, tereke tesbit edilirken mirasın açıldığı tarih (miras bırakanın ölüm tarihi) yerine, son keşfin yapıldığı 31.3.2005 tarihindeki değerler esas alınarak sabit tenkis oranı belirlenmiş ve belirlenen bu orana göre davalılardan tenkis edilecek miktarlar hesap edilmiştir. Mahkemece 30.1.2002 tarihinde verilen kararın davacı tarafından temyiz edilmemesi nedeniyle davalılar lehine oluşan usulü kazanılmış haklar da nazara alınarak hüküm tesis edilmesi gerekirken yazılı şekilde karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2007/11501 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79969900)
+
 Miras bırakının taşınmazını davalıya temlik etmediği, taşınmaz bedelini ödediği bu sebeple bedelle sınırlı olarak tenkis hesabı yapılması yönündeki bozma kararımıza uyularak yapılan yargılamada tenkis hesabı bedelle sınırlı olarak yapılmış ise de bu bedelin mirasın açıldığı tarihte ulaştığı değerlerinin, paranın satın alma gücündeki değişimlerin dikkate alınarak uyarlamasının yapılması, gerektiğinde bu konuda uzman bilirkişi veya bilirkişi kuralından rapor alınarak bir karar verilmesi gerekirken (HGK.30.11.2005 2005/2-581 Esas-2005/672 Karar) eksik inceleme ile yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 1. HD 2007/9800 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77956200)
 
 Dava muris muvazaası hukuksal nedenine dayalı tapu iptal tescil tenkis isteklerine ilişkindir.
 
@@ -85,9 +105,13 @@ Dava muris muvazaası hukuksal nedenine dayalı tapu iptal tescil tenkis istekle
 
 ## Yargıtay 2. HD 2007/8726 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83383800)
+
 Sabit tenkis oranı belirlenmeden, kullanılan tercihin sonuç doğurmayacağı yönündeki bozma kararına mahkemece uyulmuş ise de bu yöndeki bozma kararı yerine getirilmemiştir. Tasarrufun tamamının değeri ile yapılan fazla teberru arasındaki oran sabit tenkis oranıdır. Bu oranın her bir davalı bakımından ayrı ayrı hesaplanması gerekmektedir. Değerlerin ölüm tarihi esas alınarak yapılması, bu hesaplama yapıldıktan sonra davacıların tercih hakkı sorulup ( 743 S.K. md. 506 ) tercih hakkının kullanıldığı gündeki fiyatlarına göre değerleri belirlenip, bu değerlerin sabit tenkis oranıyla çarpımından sonra bulunacak miktarın, kazanılmış haklarda dikkate alınarak karar altına alınması gerekir.Açıklanan husus üzerinde durulmadan yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2007/5349 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77234600)
 
 Davalı D.'e dava dilekçesi ve duruşma günü tebliği Tebligat Yasasının 21. maddesine göre yapılmış ise de tebliğde evde bulunmama nedeni belirtilmediği gibi, mahalle muhtarının imzası ve kaşesi bulunmadığından yapılan tebligat geçersizdir. Tenkis davasında davallıar arasında mecburi dava arkadaşlığı yoktur. Bu nedenle davalı D.'in zamanaşımı itirazının süresinde olduğu anlaşılmaktadır. Davalı D. hakkındaki davanın zamanaşımı nedeniyle reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiştir.
 
@@ -95,9 +119,13 @@ Muris H. 946 parseldeki kocasından intikal eden 1/4 paydan kendi hissesine dü�
 
 ## Yargıtay 2. HD 2007/223 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76503800)
+
 Hükme esas alına, tenkis hesabına ilişkin 12.05.1996 ve 24.04.1997 tarihli bilirkişi raporlarında; murisin davalı H.’ye 27.11.1982 tarihinde temlik ettiği, 1986 yılında tapulamaca , 596 parsel numarasıyla davalı adına tespit ve tescil edilen 23.675 m² miktarındaki dava konusu taşınmaz terekeye dahil edilmemiş, Türk Kanunu Medenisinin 512. maddesinde gösterilen sıralamaya da uyulmamıştır. O halde, mahkemece yapılacak iş; dava konusu 576 parsel numaralı taşınmazın, davalıya yapılan kazandırma kapsamında tereke hesabına dahil edilmesi, daha sonra tasarruf nisabı ve saklı payların hesaplanması, davacıların saklı paylarından, temlik dışı terekeden miras payları oranında aldıklarının indirilmesinden sonra, saklı paylarına elatma olup olmadığının belirlenmesi ve elatmanın varlığının ortaya çıkması durumunda 512. maddedeki sıralamada gözetilerek mahfuz hisse tamam oluncaya kadar , en son tarihli olan temlikten başlayarak en evvel vaki olana doğru çıkılmak suretiyle mahfuz hisselerin tamamlanması gerekir. Açıklanan hususlar gözetilmeden eksik ve hatalı bilirkişi raporlarına dayanılarak hüküm tesis edilmesi doğru görülmemiştir.
 
 ## İstanbul BAM 53. HD 2026/27 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188703100)
 
 Taraflar arasında davaya konu taşınmaz üzerinde inşaat yapılmasına dair imzalanan KKİS'nde inşaatın süresinde bitirilememesi halinde yüklenicinin arsa sahibine gecikilen her ay için 400.000 USD kira kaybı tazminatı ödeyeceği kararlaştırılmıştır. Asıl ve birleşen davalarda talep, anılan madde gereğince gecikilen süre için cezai şart tazminatı istemine ilişkindir.Kaldırma kararı sonrası mahkemece ek rapor alınmak suretiyle, kaldırma gerekçeleri karşılanmaksızın karar verildiği görülmüştür.1)Dava ve sözleşmeye konu cezai şart ifaya ekli cezai şart niteliğinde olup sözleşmenin geriye dönük feshedilmesi hâlinde cezai şart alacağı talep edilemez. Bu nedenle kaldırma ilamında sözleşmenin feshi talepli dava dosyası celbedilip değerlendirme yapılması gerektiği belirtildiği halde Anılan dosyaya celp edilip incelenmeden inşaatın %95 oranında tamamlandığı belirtilerek sözleşme fesh edilse bile tamamlanan orana göre sözleşmenin ileriye dönük sona ereceğinden bahisle cezai şart talebine engel olmayacağı belirtilerek hukuki yorumla sonuca ulaşılmıştır.
 Oysa davadaki fesih sebebine göre (temerrüt, imara aykırılık, kullanılamayacak derecede ayıplı imalatların olması, inşaatın iskana elverişli şekilde tamamlanmamış olması gibi..) sebeplerle inşaat tüm bloklarda %100'ü tamamlanmış olsa bile; örneğin, imara aykırılık sebebine dayalı fesih talebinde bulunulması ve gerçekten giderilemeyecek şekilde imara aykırı yapılmış olması olması durumunda yapının tamamlanma oranına bakılmaksızın ekonomik değeri bulunmayan ve konusu suç olan bir imalat nedeniyle sözleşmenin geriye etkili sona erme ihtimali bulunduğu da gözetilmelidir. Her bir fesih sebebine göre sözleşmenin geçmişi dönük sona erme ihtimali bulunduğundan bununla ilgili yapılacak inceleme ve değerlendirme sonucuna göre gerekirse anılan dava sonucunun beklenip karar verilmesi gerekirken, sadece inşaatın fiziki gerçekleşme oranı esas alınarak sözleşmenin ileriye dönük son ereceğinden bahisle sonuca gidilmiş olması doğru olmamıştır.
@@ -107,12 +135,16 @@ O halde aynı bilirkişiden, davalının ekonomik mahvına sebep olacak üst sı
 
 ## İstanbul BAM 13. HD 2025/827 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159802900)
+
 22/05/2015-21/05/2016 tarihleri arası bir yıllık dönemde davalının 574,08 ton alım yaptığı, 22/05/2016-21/05/2017 tarihleri arasındaki bir yıllık dönemde davalının 680,62 ton alım yaptığı, 22/05/2017-21/05/2018 tarihleri arası bir yıllık dönemde davalının 626,46 ton alım yaptığı, 22/05/2018 tarihinden sözleşmenin feshedildiği 31/05/2018 tarihine dek davalının 47,72-ton alım yaptığı, davalının sözleşmenin ilk üç yılı için yıllık 300 ton alım taahhüdünü gerçekleştirdiği gibi, dördüncü yılın başlangıcından sözleşmenin sona erdiği 31/05/2018 tarihine dek geçen 9 günlük süre içerisinde dahi 47,72 ton alım yaptığı, sözleşmenin beş yıllık süresine tekabül eden 1.500 ton alım taahhüdünü üç yıllık sürede aşarak yerine getirdiği, davacının satış taahhüdüne uyulmaması nedeniyle ileri sürdüğü kâr mahrumiyeti talebi, esasen ifaya ekli cezai şart mahiyetinde olup, sözleşmenin yürürlükte olduğu dönem için, sözleşmenin haklı veya haksız olarak feshedilmesinden bağımsız şekilde, koşulları mevcut ise cezai şart alacağının istenebileceği, ne varki taraflarca eksik alım halinde ödeneceği kararlaştırılan cezai şart ifaya ekli cezai şart mahiyetinde bulunduğundan, sözleşmenin yürürlükte olmadığı
 31/05/2018 tarihinden sonraki dönem için, ifası talep edilemeyecek bir edimin ifa edilmemesine bağlı, diğer ifade ile eksik ürün alımına bağlı ceza talep edilemeyeceği, davalının ilk üç yıl için yıllık alım taahhüdünü yerine getirdiği gibi, dördüncü yılda sözleşmenin yürürlükte kaldığı dokuz günlük dönem için oransal olarak yerine getirmesi gereken alım tutarı olan (365/300 x 9) 10,95-ton üründen daha fazla olacak şekilde 47,72 ton ürün alımı yaptığı, davalının sözleşmenin fesih tarihinden, süresinde bitse idi sona ereceği 22/05/2020 tarihi aralığındaki dönem için eksik ürün alımına dayalı ceza talep ettiği, bu talebin açıklanan gerekçelerle yerinde olmadığı, mahkemece bu talep yönünden davanın reddine karar verilmesinde usul ve yasaya aykırı bir yön bulunmadığı, davacının aksi yöndeki davacı istinaf sebebinin yerinde olmadığı anlaşılmıştır.6102 sayılı TTK'nun 22. maddesi uyarınca tacir sıfatını haiz borçlu, fahiş olduğu iddiasıyla cezai şarttan indirim yapılmasını mahkemeden isteyemez ise de bir borçlunun, iktisadî ve ticarî faaliyet ve mevcudiyetinin tehlikeye girmesini veya yıkılmasını mucip olacak bir nisbete ulaşan her cezaî şartın, ahlâk ve adaba aykırı olacağı,
 kararlaştırılan cezai şart miktarının ekonomik yönden borçlunun mahvına sebep olabilecek tarzda yüksek olduğunun saptanması halinde bu durum ahlâk ve adaba aykırı olduğundan mahkemece cezai şarttan uygun bir indirim yapılabileceği, bu şekilde bir indirime gidilebilmesi için borçlunun ekonomik durumunun, ticari defterlerinin, bilançosunun konusunda uzman bir bilirkişiye incelettirilerek ayrıntılı ve mahkeme ve kanun yolu denetimine elverişli rapor alınması ve bu inceleme çerçevesinde indirime gerek bulunduğunun saptanması halinde somut olayın özelliği de gözetilerek bir indirime gidilmesi gerektiği, mahkemece, çerçeve protokolün 13/2-c bendinde kararlaştırılan cezai şart tutarının davalının ekonomik mahvına sebep olup olmayacağının tespiti amacıyla davalının defter ve kayıtları üzerinde istinaben yolu ile mali inceleme yaptırıldığı gibi, ilk bilirkişi heyetinden hem davalı itirazlarının karşılanması hem de talimat yolu ile alınan mali rapor da değerlendirilerek 50.000,00-USD cezai şartın davalının ekonomik yönden mahvına sebep olup olmayacağı hususunda ek rapor alındığı, sözleşmede 50.000,00-USD toplam ceza kararlaştırılmış olması ve davacının daha önce teminat mektubunu tazmini
 yolu ile tahsil ettiği kısmın mahsubu sonucu 39.939,00-USD bakiye ceza alacağı kaldığını ile sürmesi karşısında, mahkemece toplam ceza tutarı olan 50.000,00-USD üzerinden tenkise gidilmesinde usul ve yasaya aykırılık bulunmadığı gibi, tenkis oranının da hak alınan bilirkişi raporlarında davalının mali durumuna yönelik yapılan tespitler karşısında hakkaniyete uygun olduğu, aksi yöndeki istinaf sebeplerinin yerinde olmadığı anlaşılmıştır.Sonuç itibariyle, dava dosyası içerisindeki bilgi ve belgelere, mahkeme kararının gerekçesinde dayanılan delillerin tartışılıp, değerlendirilmesinde usul ve yasaya aykırı bir yön bulunmadığı; kamu düzenine aykırılık da mevcut olmadığı anlaşıldığından, taraf vekillerinin istinaf başvurularının 6100 Sayılı HMK'nın 353/1-b1 maddesi gereğince esastan reddine karar vermek gerekmiştir.
 
 ## İstanbul BAM 16. HD 2023/351 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878235100)
 
 Keza ilk derece mahkemesince kar mahrumiyetine yönelik talebin bayilik ilişkilerinin 5 yıl kurulmakta olduğu bir yıllık süreye ilişkin kar kaybı talebinin gerçekçi olmadığı gerekçesi ile reddine karar verilmiş ise de Dairemizin kaldırma kararında belirtildiğİ gibi sözleşmenin sürenin hitamı nedeni ile sona erdiği, davacının haksız kullanım iddiası ile hem ecrimisil hem kar mahrumiyeti talep edemeyeceği dikkate alınarak kar mahrumiyeti talebinin bu gerekçe ile reddine karar verilmesi gerekirken farklı gerekçe ile reddine karar verilmesi yerinde görülmemiştir.Davacının diğer istemi sözleşmenin 12. maddesine dayalıdır. - Sözleşmenin 12. Maddesi; "...anlaşma süresinin sonunda ... ve işleticinin yeni bir anlaşma imzalamaması halinde işletici satış yerini derhal terk ve ...'ye teslim etmeyi kabul eder. ....bu madde hükmüne aykırı hareket eder ve satış yerini terk etmezse fesih tarihinden itibaren ve geç tahliye ettiği her gün için 500 USD karşılığı TL ödemeyi kabul eder.” şeklindedir. Davacının sözleşmenin 12. maddesine dayalı 199.000USD'lik talebi esasen "cezai şart" niteliğindedir.
 Mahkemece Dairemizin kaldırma kararına istinaden davalı defterleri incelenmesi için rapor alınmış olup, dava tarihi, bilirkişi raporu dikkate alındığında mahkemenin fiili ödeme tarihindeki döviz kurunu da gerekçe göstermesi yerinde değil ise de; neticeten cezai şartın ekonomik mahvına neden olacağı gerekçesi ile tenkis yapması ve tenkis oranı yerinde görülmüş, davacı vekili, davacının sermayesine göre değerlendirme yapılması gerektiğini ileri sürmüş ise de bu yöndeki istinaf yerinde görülmemiştir. Davalı cezai şartın genel ahlaka ve adaba aykırı olduğunu bu nedenle tümden reddi gerektiğini istinaf istemi olarak ileri sürmüş ise de bu hususa ilk istinaf isteminde değinilmediği gibi tarafların tacir olduğu, basiretli davranma yükümlülükleri olduğu da dikkate alındığında bu husustaki istinafın reddi gerekmiştir. Davalı vekili asıl karara ilişkin istinaf isteminde vekalet ücretinin eksik hesaplandığı yahut ilk karardaki harcın iade edilmediğine ilişkin istinaf sebebi ileri sürmemiştir.

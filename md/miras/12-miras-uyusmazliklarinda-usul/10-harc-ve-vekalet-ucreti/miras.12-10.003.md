@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2021/6570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723531600)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescili isteğine ilişkindir.
 
 …
@@ -34,10 +36,14 @@ Hal böyle olunca, ... parsel sayılı taşınmazla ilgili mirasbırakandan geç
 
 ## Yargıtay 1. HD 2021/5518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707155900)
+
 Ne var ki, davacıların çekişme konusu taşınmazdaki miras payları oranında tapu iptali ve tescile karar verilip, kalan payın davalılar üzerinde bırakılması ile yetinilmesi gerekirken davalılar yönünden de tescil hükmü kurulması doğru olmadığı gibi, davalıların arasında ihtiyari dava arkadaşlığı bulunduğu gözetilerek, hesaplanan vekalet ücretinin davalılardan eşit olarak alınmasına karar verilmesi gerekirken, müteselsilen ve müştereken tahsiline şeklinde karar verilmesi de isabetsiz ise de, anılan bu hususlar yeniden yargılama yapılmasını gerektirmediğinden hükmün 1.fıkrasının hüküm yerinden çıkarılarak yerine 1.fıkra olarak ;
 “ 1- Zonguldak İli, Alaplı İlçesi, Merkez Mahallesi 136 ada 1 parsel sayılı taşınmaz üzerinde bulunan 1/16 arsa paylı zemin kat 2 nolu bağımsız bölümün davalılar ... ve ... adına olan tapu kaydının muris ...’ın Alaplı Sulh Hukuk Mahkemesinin 2015/528 E-2015/527 K sayılı veraset ilamındaki davacıların payı oranında İPTALİ ile, 99/864 payın Davacı ... adına, 99/864 payın davacı ... adına, 99/864 payın davacı ... adına, 99/864 payın davacı ... adına, 99/864 payın davacı ... adına, 33/864 payın davacı ... adına TAPUYA KAYIT VE TESCİLİNE, kalan payın davalılar üzerinde bırakılmasına,” ayrıca hükmün vekalet ücretine ilişkin 4. fıkrasının hüküm yerinden çıkarılarak yerine 4. fıkra olarak; “Davacı taraf kendisini bir vekil ile temsil ettirdiğinden karar tarihi itibariyle yürürlükte olan AAÜT’ne göre dava değeri ( 85.555,56 TL) üzerinden belirlenen 11.922,23 TL nispi vekalet ücretinin davalılardan eşit olarak alınarak davacılara verilmesine” cümlelerinin yazılmasına, davalıların bu yöne ilişkin temyiz itirazlarının kabulü ile 6100 sayılı HMK'nin geçici 3.
 
 ## Yargıtay 1. HD 2021/4656 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/701095800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil ile alacak, mümkün olmazsa tenkis isteklerine ilişkindir.
 
@@ -47,10 +53,14 @@ Bilindiği üzere, muris muvazaası hukuksal nedenine dayalı pay oranında aç�
 
 ## Yargıtay 3. HD 2021/4184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667439600)
+
 Yukarıda açıklandığı üzere davacılar ile muris arasındaki vekalet ilişkisi 27.06.2011 tarihinde murisin vefatı ile kendiliğinden son bulmuş, davalı mirasçılar davacıları ayrıca verilecek vekaletname ile vekil olarak tayin etmemiştir. Davalılar arasında gerçekleşen sulh aşamasında davacıların vekil sıfatına haiz olmadığı dikkate alındığında, davacılar lehine sulh olunan miktar üzerinden, vekalet ücretine hükmedilmesi mümkün değildir. Ancak her ne kadar davacılar ile davalı mirasçılar arasında vekalet ilişkisi kurulmamış ise de, davalı mirasçılar murisin borçlarından müteselsilen sorumlu olduklarından, murisin davacıya karşı ödemekle yükümlü olduğu vekalet ücretlerinden de müteselsilen sorumludurlar. Bu itibarla davacı avukatların, murisin ölüm tarihi itibariyle kesinleşen davalar yönünden muris ile akdedilen 26.08.2009 tarihli avukatlık ücret sözleşmesine göre, murisin vefatından önce açılan ancak ölüm tarihi itibariyle devam edip henüz kesinleşmeyen dosyalar bakımından ise, sarf etmiş oldukları emek ve mesaiye, hak ve nesafete göre belirlenecek bir ücrete hak kazandığı kabul edilmelidir.
 O halde mahkemece, açılanan hususlar dikkate alınarak davacı avukatların kazanmış olduğu ücret belirlenerek, sonucuna göre bir hüküm kurulması gerekirken, açıklanan bu husus göz ardı edilerek, yazılı şekilde karar verilmiş olması usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 14. HD 2021/3876 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/681324900)
 
 Dava, terekenin borca batıklığının tespiti ve TMK'nın 605/2 hükmü uyarınca mirasın hükmen reddi istemine ilişkindir.
 
@@ -60,6 +70,8 @@ Mahkemece davanın niteliği gereği davalı-alacaklıların, murisin terekesini
 
 ## Yargıtay 4. HD 2021/3731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686724100)
+
 Dava İİK 277 ve devamı maddeleri gereğince açılmış tasarrufun iptali istemine ilişkindir.
 
 HMK 344. maddesi; (6217 sayılı Kanunun 30.maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 434/3.maddesi); temyiz dilekçesi verilirken gerekli harç ve giderlerin tamamının ödeneceğini, bunların eksik olduğunun tespiti halinde kararı veren hakim veya mahkemenin başkanı tarafından verilecek yedi günlük kesin süre içerisinde tamamlanacağını, aksi halde temyizden vazgeçmiş sayılacağı hususunun temyiz edene bildirileceğini ve verilen süre içerisinde tamamlanmadığı takdirde kararın temyiz edilmemiş sayılmasına karar verileceğini hükme bağlamıştır.
@@ -68,6 +80,8 @@ Ayrıca 7201 Sayılı Tebligat Kanunu’nun 11, Avukatlık Kanunu’nun 41 ve HM
 
 ## Yargıtay 7. HD 2021/3224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737537000)
+
 Dava, ipoteğin kaldırılması istemine ilişkindir.
 
 …
@@ -75,6 +89,8 @@ Dava, ipoteğin kaldırılması istemine ilişkindir.
 Yararına vekalet ücreti verilen ... karar başlığında davalı olarak yazılmış ise de; hakkında dava açılan ölü kişi ... mirasçılarından olup davada taraf olarak gösterilmediğinden taraf sıfatı bulunmamaktadır. Davada taraf olmayan mirasçılar yararına vekalet ücretine hükmedilemeyeceği gözetilmeden, yazılı şekilde karar verilmesi doğru görülmemiş ve bu husus kararın bozulmasını gerektirmiş ise de yeniden yargılama yapılmasını gerektirmediğinden HUMK'nun 438/7. maddesi uyarınca hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 3. HD 2021/2646 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652373300)
 
 Dava, vasiyetnamenin tenfizi (yerine getirilmesi) istemine ilişkindir.
 
@@ -86,6 +102,8 @@ Buna göre, mahkemece yapılacak iş; Harçlar Kanunu’nun 16. maddesine göre,
 
 ## Yargıtay 1. HD 2021/2513 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660722600)
+
 B-Davalı ... yönünden davanın kabulüne karar verilirken, ... adına kayıtlı 131/301 pay üzerinden davacının miras payı oranında iptal tescile karar verilmesi gerekirken, ... tarafından davalı ...'e devredilen 132/301 payın da iptal tescil kapsamına alınarak, sonuçta toplam 263/301 pay üzerinden iptal ve tescile karar verilmesi isabetsizdir.
 
 C-Taşınmazın aynına ilişkin davalarda dava değeri, davalı adına kayıtlı dava konusu taşınmazdaki davacının 3/8 oranındaki miras payının dava tarihindeki değeri olup, bu değer üzerinden harç ve vekalet ücretine hükmedilmesi gerekmektedir.Davalı ... aleyhine, adına kayıtlı 131/301 paydan, davacının miras payı oranında hesaplanacak dava değeri üzerinden harç ve vekalet ücretine hükmedilmesi gerekirken, 263/301 payın tamamı üzerinden fazla harç ve vekalet ücretine hükmedilmesi de hatalıdır.
@@ -94,6 +112,8 @@ D-Davalı ... yönünden açılan davanın tamamı reddedildiğinden, davalı ..
 
 ## Yargıtay 1. HD 2021/2177 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660334100)
+
 Dava, hile ve muris muvazaası hukuksal nedenlerine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -101,6 +121,8 @@ Dava, hile ve muris muvazaası hukuksal nedenlerine dayalı tapu iptali ve tesci
 Hemen belirtilmelidir ki, dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye, delillerin takdirinde bir isabetsizlik bulunmamasına ve özellikle; temliklerin hile ile yapıldığı iddiasının kanıtlanamadığı, 127 ada 3 parsel sayılı taşınmazın ½ payı yönünden 3402 sayılı Kadastro Kanunu'nun 12/3. maddesindeki 10 yıllık hak düşürücü sürenin geçtiği, dava konusu 153 ada 26 ve 28 parsel sayılı taşınmazlar yönünden ise davalı ...’e yapılan temlikin muvazaalı olmadığı belirlenerek anılan taşınmazlar yönünden davanın reddedilmesinde bir isabetsizlik olmadığı gibi taşınmazların dava tarihindeki değerinden davacının miras payına isabet eden ve harcı tamamlanan değer üzerinden davalılar yararına vekalet ücretine hükmedilmesinde de isabetsizlik yoktur. Davacının yerinde görülmeyen tüm temyiz itirazlarının reddine.
 
 ## Yargıtay 1. HD 2021/1708 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666023900)
 
 Dava, muris muvazaası hukuki nedenine dayalı pay oranında tapu iptali ve tescil isteğine ilişkindir.
 
@@ -112,6 +134,8 @@ Bu durumda, eldeki davada alınması gereken karar ve ilam harcı mirasbırakan 
 
 ## Yargıtay 8. HD 2021/1701 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657644000)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -120,9 +144,13 @@ O halde, Mahkemece uyulmasına karar verilen bozma ilamında ayrıntılı şekil
 
 ## Yargıtay 16. HD 2021/1455 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657524400)
+
 Hal böyle olunca; Mahkemece öncelikle, yargılama sırasında vefat eden davacının mirasçıları re'sen davadan haberdar edilerek, davaya devam edip etmeyecekleri açıklığa kavuşturulmalı ve bu şekilde aktif dava ehliyetindeki eksikliğin giderilmesinden sonra işin esasına girilerek sonucuna göre karar verilmelidir. Mahkemece bu husus gözden kaçırılarak yazılı şekilde hüküm verilmesi isabetsiz olduğu gibi, karar başlığında vefat eden davacının mirasçılarının gösterilmemesi dahi isabetsiz olup, temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, Hazine harçtan muaf olduğundan harç alınmasına yer olmadığına, yasal koşullar gerçekleştiğinde kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere,19.02.2021 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2021/1353 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/656092200)
 
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında tapu iptali ve tescil ile bedel isteğine ilişkindir.
 
@@ -132,15 +160,21 @@ Hal böyle olunca, dava konusu 159 parsel sayılı taşınmaz yönünden Harçla
 
 ## Yargıtay 1. HD 2021/819 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652028900)
+
 Ne var ki, dava değerleri farklı olmasına rağmen asıl ve birleştirilen davada aynı miktarda harç ve vekalet ücretine hükmedilmesi doğru olmadığı gibi her bir davalı adına kayıtlı taşınmazlar farklı olduğundan, her bir davalıya karşı ayrı ayrı dava açılması mümkün iken birlikte dava açılmış olup 6100 sayılı HMK'nun 326. maddesi uyarınca, davada haksız çıkan ve aralarında ihtiyari dava arkadaşlığı bulunan davalıların, adlarına kayıtlı taşınmazların ayrı ayrı belirlenen ve davacıların miras payına isabet eden dava değeri üzerinden hesaplanan harç ve vekalet ücretinden ayrı ayrı sorumlu tutulmaları gerekirken, müştereken ve müteselsilen sorumlu tutulmaları hatalıdır.
 
 ## Yargıtay 1. HD 2021/662 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651832100)
 
 Bilindiği gibi, muris muvazaası hukuksal sebebine dayalı davalarda dava değeri, mirasbırakan tarafından temlik edilen payın dava tarihindeki değeri üzerinden davayı açan mirasçı ya da mirasçıların miras payına isabet eden kısım olup, davanın kabulü halinde bu değer üzerinden nispi karar ve ilam harcına hükmedilmesi gerekmektedir.
 
 Bu durumda, eldeki davada alınması gereken harç ve hükmedilmesi gereken vekalet ücreti mirasbırakan tarafından davalıya devredilen taşınmazların davacının mirasçılık belgesindeki payına ( 3/8 ) isabet eden kısmının dava tarihindeki değeri ( 112.799,81 TL ) üzerinden hesaplanması gerekirken devredilen paylarının tamamının değeri üzerinden karar ve ilam harcı ile vekalet ücretine hükmedilmesi hatalıdır.
 
 ## Yargıtay 14. HD 2020/6428 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/626029500)
 
 Dava mirasın hükmen reddi talebine ilişkindir.
 
@@ -149,6 +183,8 @@ Dava mirasın hükmen reddi talebine ilişkindir.
 Ayrıca mahkemece davanın niteliği gereği davalı-alacaklının, murisin terekesinin borca batık olduğunu bilmediği, bilmesinin mümkün olmadığı, yapılan yargılama sonrasında terekenin borca batık olup olmadığına karar verildiği göz önünde bulundurularak yargılama giderleri ve harçtan davalının değil davacıların sorumlu tutulması, davacılar lehine vekalet ücretine hükmedilmemesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiştir. Açıklanan eksiklikler doğru görülmemiş ise de, bu hususlar yeniden yargılama yapılmasını gerektirmediğinden HUMK’nın 438/7 maddesi gereğince hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 1. HD 2020/6172 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644654600)
 
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında tapu iptali ve tescil isteğine ilişkindir.
 
@@ -161,6 +197,8 @@ değerinin 2019 yılı itibariyle temyiz kesinlik sınırı olan 58.800,00 TL’
 
 ## Yargıtay 1. HD 2020/5566 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623579900)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescili, olmadığı takdirde tenkis isteğine ilişkindir.
 
 …
@@ -169,12 +207,16 @@ Hal böyle olunca, öncelikle birleştirilen davaların bağımsızlıklarını 
 
 ## Yargıtay 1. HD 2020/4812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647217000)
+
 Öte yandan, 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) 190. maddesinde, "İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir."; 4721 sayılı Türk Medeni Kanunu (TMK) 6. maddesinde, "Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür." şeklinde yer alan hükümlerle, açılmış bir davada ispat yükünün kural olarak davacıya yüklendiği tartışmasızdır.Somut olaya gelince; her ne kadar, davalının taşınmazları kullanmadığı, mirasbırakanın satış ihtiyacı içinde olmadığı, bedeller arasında fark bulunduğu gerekçeleriyle dava konusu 529 ve 530 parsel sayılı taşınmazlar yönünden davanın kabulüne karar verilmiş ise de, davacı tanıklarının, davalı ...’e hangi sebeple pay devredildiğine dair bir beyanları bulunmadığı gibi, davalı ...’in, aynı akitle mirasbırakan dışında başkaca paydaşlardan da pay edindiği mahkemece değerlendirilmemiştir. Davalının, taşınmazlardaki mirasbırakan payını satın aldığı tarihten dava tarihine kadar geçen süre nazara alındığında davalının taşınmazları kullanmadığından söz etmek de olanaklı değildir.
 Ayrıca davacı yanın eldeki davada, vekalet görevinin kötüye kullanılması hukuki nedenine dayalı bir isteği bulunmadığı halde bölge adliye mahkemesince bu yönden değerlendirme yapılması da isabetli değildir.Hal böyle olunca; dava konusu 529 ve 530 parsel sayılı taşınmazlar yönünden ispatlanamayan davanın reddine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir.
 
 Diğer yandan, 6100 Sayılı Hukuk Muhakemeleri Kanunu 123. maddesine göre, davanın geri alınması ancak davalının açık rızası ile mümkündür. Dava konusu 62 parsel sayılı taşınmaz yönünden davanın atiye bırakılması (davanın geri alınması) davalının kabulüne bağlı olup, davalının bu yönde bir beyanının bulunmaması karşısında öncelikle davalının beyanının alınması, davanın geri alınmasına davalının açık rızasının bulunması halinde davanın açılmamış sayılmasına, aksi halde davanın reddine karar verilmesi, davanın reddine karar verilmesi durumunda ise taşınmazın keşfen saptanan değerinden mirasbırakanın temlike konu payı gözetilerek ve davacıların miras payına isabet eden değer üzerinden harcın tamamlattırılarak ret sebebiyle davalı yararına vekalet ücretine hükmedilmesi gerekirken değinilen hususların göz ardı edilmesi de doğru olmamıştır.Davalının yerinde görülen temyiz itirazlarının kabulü ile, 6100 sayılı Hukuk Muhakemeleri Kanununun 373/1. maddesi uyarınca ... Bölge Adliye Mahkemesi 1.
 
 ## Yargıtay 1. HD 2020/4247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609687700)
 
 Dava, tapu iptali ve tescili isteğine ilişkindir.
 
@@ -186,6 +228,8 @@ Hâl böyle olunca, dava konusu taşınmazların dava tarihi itibariyle belirlen
 
 ## Yargıtay 1. HD 2020/4185 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609354000)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -194,15 +238,21 @@ Bu durumda her bir davalıya temlik edilen taşınmazların ayrı ayrı davacıl
 
 ## Yargıtay 14. HD 2020/3933 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/591325500)
+
 Somut olaya gelince, satışına karar verilen dava konusu taşınmazda davalılar elbirliği ile mülkiyete sahiptir. Taşınmazın elbirliği ile mülkiyete tabi olması nedeniyle harcın paydaşlara tapudaki ve mirasçılık belgesindeki payları oranında hükmedilmesi gerekir. Mahkemece, hükümde satış bedelinin ortaklara tapu kaydı ve mirasçılık belgesindeki oranlarda ödenmesine karar verilmesiyle yetinilmesi gerekirken borçlu ortağın payına isabet edecek bedelin davacıya ödenmesi yönünde karar verilmesi ayrıca satışın "Genel açık artırma" usulü ile yapılacağının hükümde belirtilmemesi, harç, yargılama gideri ve vekalet ücretinin paydaşlardan satış bedelinin dağıtılmasındaki oranlarda tahsiline karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiş ise de bu husus kararın bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden HUMK'nun 438/7. maddesi gereğince hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 1. HD 2020/3567 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596264100)
 
 Öte yandan, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil davalarında dava değerinin, çekişme konusu taşınmazın tümünün değeri üzerinden davayı açan mirasçı ya da mirasçıların paylarına isabet eden değer olduğu kuşkusuz olup asıl davada dava konusu taşınmazların davacının miras payına isabet eden keşfen saptanan değeri 118.406-TL, birleşen davada dava konusu taşınmazların davacının miras payına isabet eden keşfen saptanan değeri 100.446-TL olup asıl dava 20.000-TL değer üzerinden açılmış, aşamada tamamlama harcı yatırılmış, birleşen dava ise 10.000-TL değer üzerinden açılmış ve harç tamamlanmamıştır.
 
 O halde, asıl ve birleşen davada davacının miras payına isabet eden değer üzerinden harca, yargılama sırasında harçlandırılan değer üzerinden de davacı lehine vekalet ücretine hükmedilmesi gerekirken, fazla harç ve vekalet ücretine hükmedilmesi doğru olmadığı gibi ... 1. Sulh Hukuk Mahkemesinin 2007/712 Esas - 2007/705 Karar sayılı veraset ilamına atıf yapılarak ya da davacının miras payı belirtilerek iptal tescile, kalan payın davalılar üzerinde bırakılmasına şeklinde hüküm kurulması gerekirken değinilen hususlar gözardı edilerek ve infazda tereddüt oluşturacak şekilde karar verilmesi de doğru değildir.
 
 ## Yargıtay 1. HD 2020/3475 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593890800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında bedel isteğine ilişkindir.
 
@@ -214,6 +264,8 @@ Kabule göre de; kabul kapsamına alınan dava konusu taşınmazlarda temlike ko
 
 ## Yargıtay 8. HD 2020/3456 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648259500)
+
 Dava, kamulaştırma işlemine tabi 3779 parsel sayılı taşınmaz üzerinde bulunan muhdesatın tespiti istemine ilişkindir.
 
 …
@@ -221,6 +273,8 @@ Dava, kamulaştırma işlemine tabi 3779 parsel sayılı taşınmaz üzerinde bu
 Kabule göre de; davanın konusu (müddeabih) davacının payı düştükten sonra kalan muhdesat değeridir (zemin bedeli hariç). Buna göre, yargılama sonucunda hüküm altına alınan nispi karar ve ilam harcından, aynı şekilde 6100 sayılı HMK'nin 326/2. maddesi uyarınca yargılama giderinden ve davacı yararına takdir edilen vekalet ücretinden, her bir davalının tapu kaydında yazılı bulunan payları oranında sorumlu tutulmaları gerekirken, tapuda yazılı payları dikkate alınmaksızın, müştereken ve müteselsilen davalılardan alınmasına karar verilmesi de doğru olmamıştır. Ayrıca dava konusu muhdesatın üzerinde bulunduğu taşınmaz yargılama sırasında yapılan yenileme çalışmaları ile 195 ada 2 parsel olmasına karşın eski parsel numarası üzerinden karar verilmesi de uygun görülmemiştir. Bununla birlikte, dava dilekçesinde yer alan diğer davacıların gerekçeli karar başlığında gösterilmemesi de isabetli olmamıştır.
 
 ## Yargıtay 1. HD 2020/3106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648267400)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmazsa tazminat isteğine ilişkindir.
 
@@ -232,9 +286,13 @@ Kabule görede; davalar birleştirilse dahi ayrı dava olma özelliklerini korur
 
 ## Yargıtay 1. HD 2020/3090 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647868500)
+
 O halde, yargılama sırasında taşınmazların keşfen saptanan değerlerinden davacıların miras paylarına isabet eden miktar üzerinden harcın tamamlanmasına yönelik mahkemece bir işlem yapılmadığı, davalının ise harcın tamamlanmasına yönelik itirazda bulunduğu gözetildiğinde davacıların toplam miras payına isabet eden 56.512,50 TL dava değeri üzerinden davalı yararına 6.566,37 TL nispi vekalet ücretine hükmedilmesi gerekirken çekişmeli taşınmazların tamamının değeri esas alınarak davalı yararına fazla vekalet ücreti taktir edilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2020/2802 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648765300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil istemine ilişkindir.
 
@@ -245,6 +303,8 @@ Somut olayda, alınması gereken harcın, mirasbırakan tarafından davalıya de
 nedenlerle yerinde bulunan temyiz itirazlarının kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz eden davalılara geri verilmesine, 17.06.2020 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2020/2801 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648509600)
 
 Dava, muris muvazaası hukuksal nedenine dayalı miras payı oranında tapu iptal ve tescil istemine ilişkindir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2023/656 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/909643200)
+
 Bu yetki itirazının incelenmesi sonucunda mahkeme, kendisinin yetkili olup olmadığını da belirlemiş olacaktır (Saim Üstündağ, İcra Hukukunun Esasları, İstanbul 1995, 6. Bası, sayfa:101, 102; Aynı doğrultuda YHGK'nın 20.3.2002 gün 2002/13-241 E., 208 K. sayılı ilamı). İtirazın iptali davasının konusunu teşkil eden icra takibinde borçlu, icra dairesinin yetkisine yönelik bir itiraz ileri sürmediğinden, takibin başlatıldığı yer ile itirazın iptali davasına bakan mahkemenin bulunduğu yerin aynı olması gerekmemektedir." açıklamasına yer verilerek, bu uygulama benimsenmiştir. Diğer yandan, YHGK'nın 15.04.2015 tarih ve 2013/23-1758 E., 2015/1190 K. sayılı ilamında da belirtildiği üzere, dava tarihi itibariyle yürürlükte bulunan HMK'nın 14. maddesine göre, tüzelkişiler ile ortakları arasındaki davalarda, tüzelkişinin merkezinin bulunduğu yer mahkemelerinin kesin yetkili olduğu açıkça belirtilmiştir.
 İİK'nın 50. maddesinde ise, para veya teminat borcu için yapılan icra takibi hususunda (davanın açıldığı tarihte yürürlükte bulunan) Hukuk Usulü Muhakemeleri Kanunu'nun yetkiye dair hükümlerinin kıyas yolu ile uygulanacağı hüküm altına alınmış olup öğretide ve uygulamada icra dairelerinin yetkisinin kesin yetki olmadığı kabul edilmiştir. (KURU, B.: İcra ve İflas Hukuku, El Kitabı, 2.b., İstanbul 2013, s.179 ve YHGK., 24.04.2013 gün ve 2012/9-1435 E.,2013/569 K.) Bu açıklamalara ve anılan yasa maddelerine göre, kooperatif ile ortağı arasındaki alacağın tahsili için girişilen icra takipleri bakımından kesin yetki bulunmamakla birlikte kooperatif ile ortağı arasındaki davalarda kesin yetki kuralının geçerli olduğu anlaşılmaktadır. Yukarıda da açıklandığı üzere, dava tarihi itibariyle yürürlükte bulunan HMK'nın 14. maddesine göre, kooperatifin ortaklarına ya da ortakların bu sıfatla diğer ortaklar veya kooperatife açacağı davalarda kooperatif merkezinin bulunduğu yer mahkemesi yetkili olup, anılan yetki kuralı, kamu düzenine ilişkin ve kesin nitelikte olduğundan, davanın her aşamasında ileri sürülebileceği gibi, mahkemece re'sen dikkate alınması gerekir.
 
@@ -33,6 +35,8 @@ Bu madde uyarınca kooperatif ile ortağı arasındaki uyuşmazlıklara bakmaya 
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin KABULÜNE, 2-İstanbul Anadolu 10. Asliye Ticaret Mahkemesinin 2022/634 Esas, 2023/176 Karar ve 23/02/2023 tarihli kararının HMK'nun 353/1a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## Ankara BAM 22. HD 2023/565 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882489400)
 
 Davalılar vekili cevap dilekçesinde özetle; müvekkillerinin davacıya borcunun bulunmadığını, davacının sunmayı taahhüt ettiği hizmeti zamanında ve eksiksiz olarak yerine getirmediğini, sunduğu hizmetin ayıplı olduğunu savunarak davanın reddine ve kötüniyet tazminatına karar verilmesini istemiştir.
 
@@ -49,6 +53,8 @@ Dava, faturaya dayalı alacağın tahsili için başlatılan icra takibine karş
 Ankara 27. İcra Müdürlüğünün 2017/18844 Esas sayılı dosyasının yapılan incelenmesine göre, 31/07/2017 tarihinde davacı alacaklı tarafından davalı borçlular aleyhine 6 adet faturaya dayalı olarak 20.121,00 TL asıl alacak, 341,28 TL işlemiş faiz olmak üzere toplam 20.462,28 TL alacağın tahsili için Kayseri 8.İcra Müdürlüğünün 2017/8329 Esas sayılı takip dosyası üzerinden ilamsız icra takibi başlatıldığı, davalı borçluların icra dairesinin yetkisine ve borca süresinde itiraz etmesi üzerine davacı alacaklının yetki itirazını kabul etmesi nedeniyle dosyanın Ankara İcra Müdürlüğüne gönderildiği, davalılara ödeme emrinin tebliğe çıktığı, davalıların süresinde borca itiraz ettikleri, itirazın iptali davasının İİK 67.maddesi uyarınca 1 yıllık hak düşürücü süre içinde açıldığı anlaşılmıştır.
 
 ## Ankara BAM 21. HD 2023/539 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/888857500)
 
 Davalılar vekili cevap dilekçesinde özetle; icra takibinde bahsedildiği şekilde davacı bankaya müvekkillerinin borcunun bulunmadığını, müvekkilleri tarafından davacıya bir çok ödeme yapıldığını belirterek davanın reddini istemiştir.
 
@@ -76,11 +82,15 @@ Ankara 10. Asliye Ticaret Mahkemesi'nin 05/12/2019 tarih ve 2017/327 Esas 2019/1
 
 ## İstanbul BAM 44. HD 2023/533 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898282000)
+
 Muhalefet şerhi: Davanın konusu Küçükçekmece ... İcra Müdürlüğü'nün ... E. sayılı dosyasında başlatılan icra takibine itirazın iptali davasıdır. Küçükçekmece ... İcra Müdürlüğü'nün ... E. sayılı dosyasında alacaklı ... A.Ş. tarafından borçlular ... Ltd Şti, ... A.Ş. ve ... A.Ş. aleyhine zamanaşımına uğramış çeke istinaden 07/09/2022 tarihinde ilamsız icra takibi başlatıldığı, borçlular tarafından yasal süresi içinde yetkili icra müdürlüğünün Ankara İcra Müdürlüğü olduğu belirtilmek suretiyle yetkiye, borca ve ferilere itiraz edildiği görülmüştür. İtirazın iptali davasında davalılardan ... A.Ş. tarafından cevap dilekçesi ibraz edildiği, yetki itirazında bulunulduğu ve davalı müvekkillerin Yargı çevresi içinde usulüne uygun yapılmış geçerli bir icra takibi bulunmadığından davanın dava şartı noksanlığı nedeniyle HMK 115/2 maddesi uyarınca usulden reddine karar verilmesinin talep edildiği, diğer davalının cevap dilekçesi ibraz etmediği anlaşılmıştır.
 6100 sayılı HMK'nın 114. maddesinde dava şartları düzenlenmiş olup, 114/2'ye göre diğer kanunlarda yer alan dava şartlarına ilişkin hükümlerin saklı olduğu, 115. maddesine göre, mahkeme dava şartlarının mevcut olup olmadığını davanın her aşamasında kendiliğinden araştıracağı, tarafların da dava şartı noksanlığını her zaman ileri sürebileceği belirtilmiştir. Somut olayda çekten kaynaklanan borcun alacaklısı borçlunun yerleşim yerinde, birden fazla borçlu bulunması halinde, borçlulardan birinin yerleşim yerinde, çekin keşide yerinde, muhatap banka şubesinin bulunduğu yerde icra takibi başlatabilir.
 Alacaklının ve borçluların adresinin Ankara olduğu, Ankara İcra Müdürlüğü'nün yetkili olduğu, yetkisiz Küçükçekmece İcra Müdürlüğü'nde takip başlatıldığı, borçlular tarafından yasal süresi içinde icra dosyasına yetki itirazında bulunulduğu, itirazın iptali davasının HMK 114/2'ye göre dava şartlarından birisinin de yetkili icra dairesinde takip başlatılması olup, yetkili icra dairesinde takip başlatılmadığından ve bu husus HMK 114/2'ye göre dava şartı olduğundan, mahkemece öncelikle dava şartının re'sen incelenerek davanın dava şartı yokluğundan usulden reddine karar verilmesi gerekirken yetkisizlik kararı verilmesi yerinde değildir. Davalıların istinaf başvurusunun HMK 353/1-b-2 maddesi gereğince kabulüne, mahkeme kararının kaldırılmasına, davanın HMK 114/2'ye göre dava şartı yokluğundan usulden reddine, davacının istinaf başvurusunun HMK 353/1-b-1 maddesi gereğince esastan reddine karar verilmesi kanaatinde olduğumdan, sayın çoğunluğun görüşüne katılmıyorum.
 
 ## İstanbul BAM 43. HD 2023/510 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903946000)
 
 İLK DERECE MAHKEMESİ KARARI: İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, "Tüm dosya kapsamı ve denetime elverişli bilirkişi rapor içeriklerine göre; davacı ile davalı ...
 
@@ -97,6 +107,8 @@ Esas davada İstanbul Anadolu ... İcra Müdürlüğü'nün ... E sayılı icra 
 KARAR: Yukarıda ayrıntısı ile açıklanan nedenlerle; 1-Davacı vekilinin ve davalılar ... İnş. Eml. Teks. Nak. Tic. San. Ltd. Şti. ve ... vekilinin istinaf başvurularının HMK'nın 353(1)b-1 maddesi uyarınca ayrı ayrı ESASTAN REDDİNE …
 
 ## Sakarya BAM 7. HD 2023/422 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884670900)
 
 Davalılar vekili cevap dilekçesinde özetle; takip alacaklısının takip tarihi itibari ile yazılı bir belgeyle borç miktarı ve muaccel durumu belgelemesi gerektiğini, 10.10.2018 Tarih ve 162 Sayılı Cumhurbaşkanlığı Kararnamesi ile, Kredi Garanti Kurumlarına Sağlanan Hazine Desteğine ilişkin Kararda Değişiklik yapılmasına Dair Kararda "Kredi veren tarafından tazmin talebinde bulunulmadan önce, yararlanıcıya Kararın 4.üncü maddesi ile hüküm altına alınan yapılandırma kapsamında veya 15/8/2018 tarihli ve 30510 sayılı Resmi Gazetede yayımlanan Finansal Sektöre Olan Borçların Yeniden yapılandırılması Hakkında Yönetmelik kapsamında yapılandırma imkanı tanınmış olması gerekir" hükmünün yer aldığını, müvekkillerine, kredi borcunun taksitle ödenmesi için yeniden yapılandırılması hususunda hak tanınmadığını beyanla davanın reddine karar verilmesini talep etmiştir.
 
@@ -119,6 +131,8 @@ Maddesinde Kocaeli Mahkemelerinin yetkili kılındığı ve HMK 17. maddesi uyar
 bilirkişi raporuna itibar edilerek davanın kabulü ile davalıların Kocaeli 8. İcra Dairesinin 2019/116443 esas sayılı dosyasına yapmış oldukları itirazın iptali ile takibin devamına, alacak likit olduğundan 100.000,00 TL üzerinden hesap edilecek % 20 icra inkar tazminatının davalılardan tahsili ile davacıya verilmesine şeklinde karar verilmesinde usul ve yasaya aykırı bir yön bulunmadığı, hukuki değerlendirme ve varılan sonucun yerleşik Yargıtay İçtihatlarına ve Daire'mizin uygulamalarına da uygun olduğu, yapılan tahkikatın yeterli ve ilk derece mahkemesi gerekçesinin davalının istinaf nedenlerini karşılar nitelikte bulunduğu, davalının yapılandırmaya ilişkin istinaf nedenlerinin somut olayda dinlenme olanağının olmadığı anlaşıldığından, davalının istinaf nedenleri yerinde görülmemiştir.
 
 ## Bursa BAM 5. HD 2023/418 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/931276300)
 
 Davacı vekili, müvekkil şirket ile davalı şirket arasında ticari mal satımına dayalı şifahen kurulmuş bir ticari münasebet söz konusu olduğunu, davalının bakiye 5.483,81TL borcunu ödememesi üzerine Bursa 16. İcra Müdürlüğünün 2018/13156 E. sayılı dosyası ile davalı şirket aleyhinde ilamsız icra takibine başlandığını, borçlunun söz konusu icra takibine itiraz ettiğini ve takibin durdurulduğunu, ancak davalının itirazında haksız olduğunu ileri sürerek asıl alacak yönünden itirazın iptaline karar verilmesini ve davalının takip konusu alacağın %20'sinden az olmamak üzere tazminata mahkum edilmesini talep etmiştir.
 
@@ -144,6 +158,8 @@ Somut olayda, davalı şirketin merkezinin Sincan/Ankara olduğu, davacı şirke
 
 ## İstanbul BAM 13. HD 2023/416 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044048300)
+
 A.Ş. tarafından yurtdışından ithal ettiği "purified Terephthalic Acit" emtialarını davacı sigorta şirketi nezdinde nakliyat sigorta poliçesi ile sigortalandığı, taşımanın Busan Limanından Volos/Yunanistan Limanına taşımasının davalı ... ya ait ... numaralı konşimento tahtında ... isimli gemi ile yapıldığı, taşımaya ilişkin düzenlenen konişmentonun ... adına Kore Acentesi tarafından imzalandığı, ...'nın Cenevre- İsviçre 'de kurulu yabancı bir şirket olduğu, taşıyıcı şirket ile geminin yabancı olması ve emtiaların Çin - Türkiye taşımasının ifa edilmesi nedeniyle uyuşmazlığın yabancılık unsuru taşıdığı, konişmentonun 10. maddesindeki yetki klozu ile taşıma sözleşmesinin uygulanmasından kaynaklanan uyuşmazlıklara İngiliz Hukukunun uygulanacağı, yetkili mahkemenin ise Londra'da İngiliz Yüksek Adalet Mahkemeleri olduğunun kararlaştırıldığı anlaşılmaktadır. Her ne kadar davacı sigortalısı konşimentoda taraf olmasa da, davaya konu emtiaların yetki itirazına konu konşimento tahtında teslim alındığı anlaşılmakla, dava dışı sigortalının ve davacının yetki kaydından haberdar olduğu mahkemece kabul edilmiştir.
 Yabancı unsur taşıyan uyuşmazlıkların çözümünde yetkili kanunun tayininden önce çözümü gereken sorun açılan davada mahkemenin milletlerarası yetkisinin bulunup bulunmadığı hususuna ilişkin olduğundan (Aysel Çeliker/Bahadır Erdem, Milletlerarası Özel Hukuk, Sayfa 19) uygulanacak hukuktan önce yetki konusunun karara bağlanması gerekmektedir. MÖHUK 47.maddesinde yer itibari ile yetkinin münhasır yetki esasına göre tayin edilmediği hallerde taraflar arasında yabancılık unsuru taşıyan ve borç ilişkisinden doğan uyuşmazlığın yabancı bir devlet mahkemesinde görülmesi konusunda anlaşma yapılması mümkündür. Yetki şartı taraflar arasındaki ilişkiyi düzenleyen sözleşmeye ayrı bir madde olarak konulabileceği gibi ayrı bir sözleşme olarak da düzenlenebilecektir. Anılan hükme göre yetki şartının geçerli olması için uyuşmazlığın yabancılık unsuru taşıması, Türk Mahkemelerinin yetkisinin münhasır yetki esasına göre düzenlenmemiş olması ile uyuşmazlığın borç ilişkisinden doğması gerekmektedir.
 
@@ -168,6 +184,8 @@ Davalı vekilinin istinaf talebinin KABULÜ ile; Konya ... Asliye Ticaret Mahkem
 
 ## İstanbul BAM 12. HD 2023/381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875296000)
+
 İLK DERECE MAHKEMESİ KARARI: Mahkemece, davalının icra takibine süresi içinde yetki itirazında bulunduğu, yapılan yargılama sonucunda, İcra Hukuk Mahkemesi tarafından, davanın kabulüne, Bakırköy ... icra Müdürlügü'nün yetkisizliğine, Gaziantep İcra Müdürlüklerinin yetkili olduguna'' dair karar verildiği, dolayısı ile Gaziantep İcra Müdürlüklerinin münhasıran yetkili olduğu, takibin yetkisiz icra dairesinde başlatıldığı anlaşılmakla yetkili icra dairesinde usulüne uygun bir icra takibi yapılmadığından geçersiz takibe dayalı olarak açılan menfi tespit davasının usulden reddine karar verilmiştir.
 
 …
@@ -180,6 +198,8 @@ Davalı cevap süresi içinde yetki itirazında bulunmadığı takdirde mahkemen
 HÜKÜM: Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun kabulüne; Bakırköy 7. Asliye Ticaret Mahkemesi'nin 30/09/2022 Tarih 2022/304 Esas 2022/876 Karar sayılı kararın HMK'nun 353(1)a-3 gereği KALDIRILMASINA; "Davanın yeniden görülmek üzere dosyanın kararı veren mahkemeye gönderilmesine" Davacı tarafça yatırılan 80 …
 
 ## Adana BAM 9. HD 2023/369 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913316600)
 
 Davacı vekili dava dilekçesinde özetle; taraflar arasında yurt dışından Türkiye'ye eşya taşınması ile ilgili bir çok defa taşıma sözleşmesi yapıldığını, eşyaların alıcısına tam ve sağlam olarak teslim edildiğini, düzenlenen fatura tutarının davalı tarafça ödenmemesi üzerine Mersin ... İcra Müdürlüğü'nün 2018/... sayılı icra dosyası ile davalı ...Ş. aleyhine 9.855,04.TL asıl alacağın takip tarihinden itibaren tüm ferileri ile birlikte tahsili amacıyla takip başlatıldığını, davalı tarafından haksız olarak yapılan itiraz nedeniyle takibin durdurulduğunu, bu nedenlerle Mersin .... İcra Müdürlüğü'nün 2018/... esas sayılı dosyasına yapılan itirazın iptalini, takibin devamını, alacakları yönünden ihtiyati haciz konulmasını, davalının %20 icra inkar tazminatına mahkum edilmesine karar verilmesini talep etmiştir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 45. HD 2025/1049 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178807000)
+
 Davalı vekili cevap dilekçesinde özetle; Müvekkili aleyhine İstanbul 2. İcra Dairesinin ...
 
 …
@@ -41,6 +43,8 @@ kanaat getirilmiştir.İlk derece mahkemesi ile çoğunluk görüşünde dile ge
 
 ## İstanbul BAM 4. HD 2025/738 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1119145200)
+
 DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE: İnceleme, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 355. maddesi gereğince istinaf dilekçelerinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır. Dava; Haksız eylemden kaynaklanan alacağa yönelik itirazın iptali davasıdır. Dosyadaki belgelere, duruşma sürecini yansıtan tutanaklar ve gerekçe içeriğine göre, ilk derece mahkemesi kararında davanın esasıyla ilgili tarafların gösterdiği hükme etki edecek tüm delillerin toplandığı, kanunun olaya uygulanmasında ve gerekçede hata edilmediği, ihtilafın doğru olarak tanımlandığı, davalının takip dosyasında itirazdan feragat ettiğine dair beyanı bulunmadığı, alacağın likit olmadığı, yapılan ödemeye nazaran davacının bakiye alacağının kalmadığı, kararın usul ve yasaya uygun olduğu anlaşıldığından davacı vekilinin yerinde bulunmayan istinaf başvurusunun 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince esastan reddine karar verilmesi gerektiği kanaat ve sonucuna varılarak aşağıdaki hüküm kurulmuştur.
 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Usûl ve yasaya uygun İstanbul 21. Asliye Ticaret Mahkemesi'nin 2020/630 Esas 2022/852 Karar sayılı 15/12/2022 günlü kararına yönelik davacı vekili tarafından yapılan istinaf başvurusunun 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE …
@@ -59,6 +63,8 @@ Birleşen 13. ATM'nin 2015/604 esas sayılı dosyası bakımından; davanın Ank
 
 ## Ankara BAM 21. HD 2025/560 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152912400)
+
 Davacı istinaf dilekçesinde özetle; bankaca belirlenen temerrüt faiz oranının sözleşmeye uygun olduğunu, ancak bilirkişi raporunda bu oranın hatalı olarak % 29,04 olarak tespitiyle hesaplamalar yapıldığını, sözleşme hükümlerine göre en yüksek cari faiz oranının 2 katı olarak temerrüt faizi uygulanacağını, buna göre % 26,28 \* 2= % 52,56 oranında temerrüt faizi uygulanması gerektiğini ileri sürmüştür.
 
 …
@@ -70,6 +76,8 @@ Ankara 11. İcra Müdürlüğü'nün 2021/3359 Esas sırasında, 03/03/2021 tari
 Davacı vekilinin istinaf başvurusunun HMK'nın 353/(1)-b.1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 14. HD 2025/557 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140972900)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ:İlk Derece Mahkemesince yapılan yargılama sonucunda;"...Dava, davacının davalıdan faturalı mal satışı (eser sözleşmesi uyarınca üretilen tekstil ürünleri) neden ile alacaklı olduğundan bahisle başlattığı icra takibine vaki itiraz üzerine İİK'nun 67.maddesi uyarınca açılan itirazın iptali davasıdır.Davalı tarafça her ne kadar takip başlatılan icra dairesinin yetkili olmadığı yönünde itirazda bulunulmuş ise de; itirazında yetkili icra müdürlüğünü bildirmediği, bu nedenle itirazının usule uygun olmadığı anlaşılmakla bu yöndeki itirazının reddine karar verilmiş ve dolayısıyla takibin yetkili icra müdürlüğünde başlatılmış olması yönündeki dava şartının mevcut olduğu anlaşılmıştır.Davalı tarafça her ne kadar zamanaşımı defi ile sürülmüş ise de; taraflar arasında sözleşme ilişkisi bulunmasından ve icra takibi ile davanın sözleşmesel zamanaşımı içerisinde açılmış olmasından dolayı zamanaşımı definin de reddi gerekmiştir.Taraflarca dayanılan ve uyuşmazlığın çözümünde etkili olabilecek nitelikte görülen tüm deliller toplanmış ve mahkememizce değerlendirilmiştir.Taraflarca her ne kadar tanık deliline de dayanılmış ise de;
 HMK'nun 200.maddesi uyarınca davanın niteliği ve değeri itibariyle tanıkla ispatın caiz olmaması nedeni ile bu talep mahkememizce kabul görmemiştir.Davalı tarafça cevap dilekçesinde, yurt dışına deri ürünler ihraç ettiklerini, bu ürünlerin deri malzeme haricindeki kumaşlarını piyasadan satın aldıklarını, bu şekilde davacıdan % 100 kaşmir kumaş satın almak istediklerini, davacı tarafça gönderilen numunelerin % 100 kaşmir olduğunu anlamaları sonucunda anlaşmaya vardıklarını, ancak davacı tarafça kendilerine gönderilen kaşmir kumaşların kendi müşterileri tarafından iade edilmesi üzerine ürünlerin % 100 kaşmir olmayıp ayıplı olduğunu anladıklarını, davacı tarafça hatalı olarak kesilen iplik faturasının düşülmesi neticesinde borcun 123.170,55 TL'lik kısmında mutabık kaldıklarını, bu borcu ödeyecek iken davacı tarafın işbu davayı açtığını bildirdikleri görülmüştür.Davalı tarafça, davacı tarafından kendilerine hatalı olarak gönderdiklerini ileri sürdükleri 40.987,83 TL bedelli iplik faturasının davacı tarafça alacaktan düşüldüğü ve dolayısıyla bu faturanın taraflar arasında uyuşmazlık konusu olmadığı anlaşılmıştır.Böylece taraflar arasındaki uyuşmazlık; davacı tarafça davalıya satılan
@@ -86,6 +94,8 @@ Bu nedenle, davalı vekilinin ileri sürdüğü istinaf sebepleri yerinde görü
 HÜKÜM:Yukarıda açıklanan gerekçelerle;Davalı vekilinin ileri sürdüğü istinaf başvuru nedenleri yerinde görülmemekle birlikte, HMK'nın 33, 355 ve 353/1.b.2 maddeleri uyarınca ilk derece mahkemesinin istinafa konu kararının resen düzeltilmek üzere kaldırılmasına …
 
 ## Ankara BAM 21. HD 2025/515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1147643800)
 
 Davacı vekili dava dilekçesinde özetle; davacı banka ile dava dışı ... İnşaat Turizm Sanayi Ve Tic. Ltd.
 
@@ -123,6 +133,8 @@ Davacı vekilinin ve davalı vekilinin ilk derece mahkemesi kararına ilişkin i
 
 ## Ankara BAM 23. HD 2025/435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1146457600)
+
 Davacı vekili; müvekkilinin turizm sektöründe otel işletmeciliği yaptığını ve cari hesap sözleşmesine dayalı olarak davalıdan alacaklı olduğunu, bu alacağın şifahi talebe rağmen ödenmemesi üzerine davalıya noter kanalıyla ihtarname keşide edilip bundan da sonuç alınamadığını, alacağın tahsili için takibe geçildiğini, ancak davalının itirazı sonucu takibin durduğunu ileri sürerek haksız itirazın iptali ile takibin devamına ve %20 icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
 
 Davalı vekili; davanın TBK'nun 66/1.md.uyarınca zamanaşımına uğradığını ve sebepsiz zenginleşme hükümlerine göre öncelikle bu nedenle davanın reddi gerektiğini, ayrıca davacının müvekkiline teslim ettiği mutabakat mektupları uyarınca tarafların 31.12.2018 tarihi itibarıyle borç-alacak bakiyesinin sıfır (0) olduğu hususunda mutabık kaldıklarını, müvekkilinin davacı tarafa hiçbir borcu olmadığını savunarak davanın reddini istemiştir.
@@ -135,9 +147,13 @@ yetkilisinin talimatları doğrultusunda harcandığı iddiasının davalı tara
 
 ## Adana BAM 9. HD 2025/429 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129092500)
+
 Buna göre, dosya istinaf aşamasında iken davaya dayanak teşkil eden icra takibine itirazın geri alındığı, böylelikle istinaf başvurusunun ve davanın konusuz kaldığı anlaşıldığından karar verilmesine yer olmadığına, .... Asliye Ticaret Mahkemesi'nin 15/09/2021 tarih, ... Esas ve ... Karar sayılı kararının davanın konusuz kalması nedeniyle Dairemizce re'sen kaldırılmasına, davanın konusuz kalması nedeniyle karar verilmesine yer olmadığına, davacı vekilinin beyanı doğrultusunda davalı-borçlular aleyhine, icra inkar tazminatı, vekalet ücreti ve yargılama gideri hükmedilmesine yer olmadığına karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Sakarya BAM 7. HD 2025/408 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129253100)
 
 Davalı/Birleşen dosya davacısı Ziraat Bankası A.Ş. vekili istinafa cevap dilekçesinde özetle; yerel mahkeme kararı kısmen doğru olmakla birlikte bazı yönlerden hatalı olup Mahkemece bilirkişi raporunda her ne kadar tüm borçlular yönünden 491.082,89 TL alacağı olduğu tespit edilmiş olsa da mahkemece 18.007,67 TL fazladan talep bulunulduğu ve bu yönden talebin kısmi olarak reddedildiği yazıldığını, fakat Sakarya 4 İcra Müdürlüğünün ... esas sayılı yapılan takip talebinde de alacak talebi 492.814,07 TL olup bilirkişice tespit edilen miktar ise 491.082,89 TL yani arada bin küsür TL'lik bir fark olup bu fark öncelikle olağan sapma içerisinde değerlendirilmeli, bununla birlikte mahkemece reddedilen 18.007,67 TL yönünden de miktar hatalı olup, kabul anlamına gelmemekle birlikte red miktarı en kötü ihtimalde dahi talep ile bilirkişi raporu arasındaki fark kadar olması gerektiğini, red olunan kısım yönünden mahkemece hatalı olarak tespit yapıldığını, ayrıca, davacı, birleşen dosya davalısı ve feri müdahilin istinaf talepleri hukuka aykırı olup, yerel mahkemece ... ve ...'in istinaf taleplerindeki iddiaları detaylı olarak değerlendirildiğini beyan ederek, ihtiyati tedbirin de kaldırılarak,
 istinaf taleplerinin reddine karar verilmesini talep etmiştir.
@@ -151,6 +167,8 @@ istinaf taleplerinin reddine karar verilmesini talep etmiştir.
 Taraf vekillerinin beyanı doğrultusunda birleşen dava borçlularının icra takibine itirazdan feragat etmiş olmaları, itirazın iptali davasının dinlenebilmesi için ödeme emrine geçerli bir itirazın bulunmasının gerekmesi, eldeki uyuşmazlıkta da ödeme emrine itirazdan feragat edilmesi nedeniyle itirazın iptali davasının dinlenilmesi koşullarının ortadan kalktığı ve davanın konusuz kaldığı anlaşıldığından ilk derece mahkemesi kararının kaldırılmasına ve esas hakkında karar verilmesine yer olmadığına karar verilmesi gerekmiştir.
 
 ## Sakarya BAM 7. HD 2025/298 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127525300)
 
 Davacı vekili dava dilekçesinde özetle; davalı taraf aleyhinde Gebze 4.
 
@@ -169,6 +187,8 @@ Hukuk Dairesi'nin 2021/3475 Esas- 2022/4030 Karar sayılı ilamı ile karar 12.0
 
 ## Tekirdağ BAM 4. HD 2025/205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122551600)
+
 Davacı vekili 30/10/2024 tarihinde sunduğu beyan dilekçesi ile iflas dosyasına 62.889,59-TL alacak talep ve kayıt talebinde bulunulduğunu, ilgili icra dairesi tarafından 22.11.2023 tarihinde verilen karar neticesinde 22.269,71 TL sıra cetveline 4.sıradan 33.166,08 TL masa borcu olarak kaydedildiğini, davaya konu alacak taleplerinin de iflas masasına kaydedildiğini bildirdiği görülmüştür.
 
 …
@@ -180,6 +200,8 @@ Davalı vekili cevap dilekçesinde; haksız davanın reddini savunmuştur.
 HMK'nın 331.maddesinde; "davanın konusuz kalması sebebiyle davanın esası hakkında bir karar verilmesine gerek bulunmayan durumlarda, hâkim, davanın açıldığı tarihteki tarafların haklılık durumuna göre yargılama giderlerini takdir ve hükmeder." hükmü mevcuttur. Dosya kapsamı itibariyle davacı, dava tarihinde davalıdan alacaklı bulunmaktadır. Müflis davalı borcu ödemediğinden aleyhine takip yapılmasına ve ayrıca takibe itiraz ederek takibin durmasına sebep olmuştur. Dava itirazın iptali şeklinde açılmış, yargılama …
 
 ## İzmir BAM 20. HD 2025/187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133831000)
 
 Davalı ... vekili cevap dilekçesinde özetle; arabuluculuk aşamasında davalıya usulüne uygun olarak tebligat yapılmadığını, davalının arabuluculuk gün ve saatinden haberdar olamadığını, arabuluculuk aşaması usul ve yasaya uygun olarak tamamlanmadan dava açıldığından davanın öncelikle usulden reddine karar verilmesinin gerektiğini, davalının alacaklı olduğunu iddia eden davacı tarafa herhangi bir borcu bulunmadığını, davacının alacaklı olduğu iddiasını ispat etmekle mükellef olduğunu, hesap kat edilmesinin söz konusu olmadığını, muaccel hale gelmeyen alacak için takip başlatılmasının yasaya ve hakkaniyete aykırı olduğunu, davacı tarafından davalıya ihtar gönderilmediğini, taraflar arasında borç ilişkisi olmadığından alacağın likit olarak nitelendirilemeyeceğini ve icra inkar tazminatına hükmedilemeyeceğini, icra takibinde talep edilen faiz miktarının fahiş olduğunu, genel ticari kredi sözleşmesinin hazırlanış şekilleri itibariyle genel işlem koşullarına tabi olduğunu belirtmiş ,davanın reddine, %20 kötü niyet tazminatının hüküm altına alınmasına karar verilmesini talep etmiştir.
 

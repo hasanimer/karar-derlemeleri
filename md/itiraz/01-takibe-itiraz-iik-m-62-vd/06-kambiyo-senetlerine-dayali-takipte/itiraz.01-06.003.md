@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2024/1909 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095102400)
+
 Davacı vekili dava dilekçesinde özetle; müvekkili tarafından davalı borçlu aleyhine Bakırköy 3. İcra Müdürlüğü'nün 2023/21242 E. sayılı dosyası ile kambiyo senetlerine özgü iflas yoluyla takip başlatıldığını, takibe konu borç süresi içerisinde ödenmediği gibi takibe karşı süresi içerisinde itiraz da edilmediğini, takibin kesinleştiğini, icra takibinden takip tarihine kadar işlemiş faiz talep edilmediğini, depo emrine esas teşkil edecek miktarın tespiti için kapak hesabının celbinin yeterli olduğunu belirterek, depo kararı verilmesine ve şartların oluşması halinde davalı borçlu şirketin iflasına karar verilmesini talep etmiştir.
 
 …
@@ -38,6 +40,8 @@ Kambiyo senetlerine özgü iflas yoluyla takiplere ilişkin İİK’nun 173 ünc
 
 ## Yargıtay 12. HD 2024/1903 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1023068600)
+
 O halde, takibin dayanağı olan bononun, iş sahibi alacaklının işin bitirilmesi karşılığında taşerona (borçlulara) verdiği iki adet daire ve çekin teminatı olarak alınması nedeniyle tahsilinin gerekip gerekmediği genel mahkemelerde yargılamayı gerektirdiğinden ve dar yetkili icra mahkemesinde bu konunun incelenmesi mümkün olmadığından, borca itirazın kabulü ile İİK'nın 169/a-5 maddesi uyarınca takibin durdurulmasına karar verilmesi gerekirken yazılı şekilde hüküm tesisi isabetsizdir.
 
 …
@@ -45,6 +49,8 @@ O halde, takibin dayanağı olan bononun, iş sahibi alacaklının işin bitiril
 Kayseri 5. İcra Hukuk Mahkemesinin 21.03.2023 tarih ve 2023/54 E. - 2023/177 K. sayılı kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/1878 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085432800)
 
 İlk Derece Mahkemesince sıra cetveline şikayette, şikayet olunanın ihtiyati haczinin şikayetçi hacizlerinden daha önce kesinleştiği ve bu nedenle düzenlenen sıra cetvelinin usul ve yasaya uygun gerekçesiyle asıl ve birleşen şikayetlerin reddine karar verilmiştir.
 
@@ -56,6 +62,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle Bursa Bölge Adliye Mahkemesi 5. Hukuk 
 
 ## Yargıtay 12. HD 2024/1842 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1010318600)
+
 İİK’nın 168/5 maddesinde borçlunun borca itirazını “ sebepleri ile birlikte” icra mahkemesine bildirmesi gerektiği yazılı ise de; borçlu, borca itiraz ederken sebep bildirmek zorunda değildir. ”İtiraz ediyorum”, ” borcum yoktur” gibi bir beyan ile de yetinebilir ve böyle bir beyan da borca itirazdır. Bu halde, borçlu duruşmada ancak alacaklının dayandığı takip konusu kambiyo senedi metninden anlaşılan itiraz sebeplerini ileri sürebilir. Borçlu alacaklının muvafakati olmadıkça itirazında bildirmediği ve kambiyo senedi metninden anlaşılmayan itiraz sebeplerini icra mahkemesinde ileri süremez. (Prof.Dr. Baki Kuru, İcra ve iflas Hukuku El Kitabı sayfa 784)
 
 …
@@ -63,6 +71,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle Bursa Bölge Adliye Mahkemesi 5. Hukuk 
 Alacaklı vekilinin temyiz itirazlarının kabulü ile, ... Bölge Adliye Mahkemesi 10. Hukuk Dairesi'nin 22/12/2022 tarih ve 2021/1642 Esas – 2022/3164 Karar sayılı kararının yukarıda yazılı nedenlerle, 5311 sayılı Kanun ile değişik İİK'nun 364/2. maddesi göndermesiyle uygulanması gereken 6100 sayılı HMK'nun 373/2. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2024/1810 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022489400)
 
 Somut olayda, alacaklı tarafından borçlular hakkında başlatılan Büyükçekmece 2. İcra Müdürlüğü'nün 2019/25561 Esas sayılı kambiyo takibinde borçluların kambiyo vasfına şikayet, yetkiye ve borca itiraz ettikleri, Büyükçekmece 2. İcra Hukuk Mahkemesi'nin 02/12/2019 tarih, 2019/1257 Esas- 2019/1249 Karar sayılı kararı ile şikayetin kabulü ile takibin iptaline karar verildiği, karara karşı alacaklı tarafından istinaf kanun yoluna başvurulması üzerine İstanbul BAM 23. Hukuk Dairesi'nin 20/09/2021 tarih, 2020/919 Esas- 2021/1970 Karar sayılı kararı ile alacaklının istinaf başvurusunun kabulü ile ilk derece mahkemesi kararı kaldırılmakla "Davacıların şikayet, yetkiye ve borca itirazlarının reddine, İİK'nın 169/a-6. Maddesi uyarınca takibe konu 2.000.000- TL asıl alacağın %20'si oranında tazminatın davacılardan alınarak davalıya verilmesine" dair karar verildiği, alacaklı tarafından iş bu ilamın şikayete konu Bursa 8.
 İcra müdürlüğünün 2021/9847 esas sayılı dosyası ile 05.11.2021 tarihinde takibe konulduğu, şikayetçi borçluların borçlu olmadıklarının tespiti amacıyla Bakırköy 7.Asliye Ticaret Mahkemesi’nin 01.07.2021 Tarihli 2019/621 Esas sayılı dosyası ile menfi tespit davası açtığı görülmektedir.
@@ -73,13 +83,19 @@ Borçluların temyiz itirazlarının kabulü ile, Bursa Bölge Adliye Mahkemesi 
 
 ## Yargıtay 12. HD 2024/308 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/995678200)
+
 İmza borçluya ait olsa bile yazıda sahtecilik nedeniyle borca itiraz edildiği için İİK 170/a maddesi hükmüne göre takibin müstenidi olan kambiyo senedinin bu vasfı haiz olmadığına ilişkin rapor bulunduğu ve bu hususun rapor dışında İİK'nın 169. maddesinde yazılı belge ile ispatı da mümkün bulunmadığından İİK 170/a-2 maddesi re’sen dikkate alınarak takibin iptaline karar verilmesi görüşünde olduğumdan çoğunluğun onama görüşüne katılamıyorum.15.01.2024 …
 
 ## Yargıtay 12. HD 2024/90 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1010242900)
+
 Bononun teminat senedi olduğu senet metninden anlaşılamayan hallerde borçlu bu iddiasını İİK'nın 168/5 ve 169/c maddeleri kapsamında borca itiraz olarak ileri sürebilir. Borçlunun takibe konu bononun teminat bonosu olduğu şeklindeki beyanı borca itiraz niteliğindedir( Kuru, B: İcra ve İflas Hukuku 2.C. İstanbul 1997, s.1715).
 
 ## Yargıtay 12. HD 2023/8802 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985031800)
 
 Çeke dayalı olarak kambiyo senetlerine mahsus haciz yoluyla başlatılan ilamsız icra takibinde örnek 10 numaralı ödeme emrinin tebliği üzerine borçlunun İİK’nın 168/4. maddesinde öngörülen yasal 5 günlük sürede icra mahkemesine başvurarak sair itirazları ile birlikte imzaya itiraz ettiği, İlk Derece Mahkemesince, mahkemece alınan iki bilirkişi raporunda da imzaların borçluya ait olduğunun belirlendiğinden bahisle imzaya itirazın reddine ve borçlu aleyhine tazminat ve para cezasına hükmedilmesine yer olmadığına karar verildiği, iş bu kararın borçlu tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince;
 İcra Ceza Mahkemesi ile İcra Hukuk Mahkemesince alınan ilk rapor arasında çelişki bulunduğu, İcra Hukuk Mahkemesince alınan ve Adli Tıp Kurumunca düzenlenen ikinci raporun da kesin görüş bildirmemesi nedeniyle raporlar arasındaki çelişkiyi gideremediği, ancak alacaklı tarafından yeniden imza incelemesi yapılması talep edilmediği gerekçesiyle imzanın borçluya ait olduğu hususunun ispatlanamadığı belirtilerek, başvurunun kabulü ile İlk Derece Mahkemesi kararı kaldırılarak yeniden hüküm kurulmak suretiyle; imza itirazının kabulüne ve takibin muteriz borçlu yönünden durdurulmasına, alacaklı aleyhine tazminat ve para cezasına hükmedilmesine yer olmadığına karar verildiği, kararın alacaklı tarafından temyiz edildiği görülmüştür.
@@ -90,6 +106,8 @@ Yukarıda yazılı nedenlerle Ankara Bölge Adliye Mahkemesi 19. Hukuk Dairesini
 
 ## Yargıtay 12. HD 2023/8373 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984921700)
+
 İcra mahkemesince yaptırılan bilirkişi incelemesi sonucu alınan 15.12.2020 tarihli raporda: “Alacaklının ..., borçlusu ... Kimya Sağlık Otelcilik ve Turizm San. Tic. A.Ş. olan 25.04.2018 ödeme, 30.06.2017 düzenleme tarihli, 2.700.000 -iki milyon yediyüz bin TL- tutarlı senette, ..., ... ...Petrol Tic. Ve San. Ltd. Şti. ... adına atılmış ciro imzalarının ..., ..., ...’nın eli ürünü olduğu ancak söz konusu imzaların senedin ve ciro işleminin tasdiki mahiyetinde atılmış olmayıp, evvelce düzenlenmiş olan protokol aslının belirtilen isim-soyadı ibareleri ve imzaları ihtiva eden bölümün blok halinde, matbu bono tabir edilen senet ebadında kesilmesi, arka yüzüne senet içeriğinin fotokopi yoluyla aktarılması, boşlukların doldurulması, imza üzerine kaşe basılması suretiyle senet haline dönüştürülmüş olduğu kanaatimizi bildirir rapordur” şeklinde bir rapor verildiği görülmektedir. İcra mahkemesi verdiği red karar gerekçesinde İİK. 169/a maddesi gereğince dar yetkili icra mahkemesi imza inkarı dışındaki sahtecilik iddiasının inceleyemez. İİK 170. maddesinde sadece imza itirazının incelenmesinin düzenlendiği belirtilmiştir.
 
 …
@@ -97,6 +115,8 @@ Yukarıda yazılı nedenlerle Ankara Bölge Adliye Mahkemesi 19. Hukuk Dairesini
 Ancak yukarıda belirtilen rapor içerikleri değerlendirildiğinde, borçlunun borçlanma iradesi olmaksızın başka bir amaçla bir protokole atılan imzalar kullanılarak elde edilen belgenin arka yüzüne senet formatının aktarılarak doldurulmak suretiyle senet haline dönüştürüldüğü, bu haliyle takibe konu bononun kayıtsız şartsız borç ikrarı içermediğinden bononun kayıtsız şartsız borç ikrarı içermesi unsurunun eksik olduğu anlaşılmaktadır. Şu hale göre alacağın varlığı ve miktarı yargılamaya muhtaç hale geldiğinden ve genel hükümlere göre dava açmak sureti ile alacağı ispat ederek hüküm almak yükümlülüğü de alacaklıya ait olduğundan, takibin İİK nun 170/a maddesi uyarınca iptaline karar verilmesi gerekmekte olup bu gerekçe ile kararın bozulması görüşünde olduğumdan çoğunluğun işin esasının incelenmesi gerekçesi ile kararın bozulması yönündeki gerekçesine katılamıyorum.06.12.2023 …
 
 ## Yargıtay 12. HD 2023/8355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975058100)
 
 Somut olayda, borçlunun başvurusu icra takibinden önce takip konusu bononun zamanaşımına uğradığı itirazına ilişkin olup, bu hali ile İİK’nın 168/5. maddesine dayalı borca itiraz niteliğindedir. Bu durumda, itiraz hakkında İİK'nın 169/a maddesinin uygulanması gerekmekte olup, anılan maddenin 5. fıkrasında; “İtirazın kabulü kararı ile takip durur” hükmüne yer verilmiştir.
 
@@ -106,6 +126,8 @@ ile DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 12. HD 2023/7468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975470000)
+
 Alacaklı tarafından borçlu aleyhine kambiyo senetlerine özgü haciz yoluyla icra takibine başlanmış, borçlu tarafından takibin kesinleşmesinden sonra borcun ödendiği belirtilerek takibin iptali talebiyle icra mahkemesine başvurulmuştur. Mahkemece İİK 168/5 maddesi uyarınca açılan dava borca itiraz olarak nitelendirilmiş, ödeme emrinin tebliğinden itibaren beş günlük süreye tabi olduğu gerekçesiyle süreden reddine karar verilmiş, Bölge Adliye Mahkemesince davacının istinaf başvurusunun esastan reddine karar verilmiştir.
 
 …
@@ -113,6 +135,8 @@ Alacaklı tarafından borçlu aleyhine kambiyo senetlerine özgü haciz yoluyla 
 SONUÇ: Yukarıda yazılı nedenlerle, ... Bölge Adliye Mahkemesi 7. Hukuk Dairesinin 19.09.2023 tarih ve 2023/1018 E. 2023/1140 K. sayılı kararının 5311 sayılı Kanun ile değişik İİK'nın 364/2. maddesi göndermesiyle uygulanması gereken 6100 sayılı HMK'nın 373/1. maddeleri uyarınca KALDIRILMASINA …
 
 ## Yargıtay 12. HD 2023/5741 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/956514600)
 
 Çeke dayalı olarak kambiyo senetlerine mahsus haciz yoluyla başlatılan ilamsız icra takibinde örnek 10 numaralı ödeme emrinin tebliği üzerine borçlunun İİK’nın 168/4. maddesinde öngörülen yasal 5 günlük sürede İcra Mahkemesine başvurarak sair itirazları ile birlikte imzaya itiraz ettiği, mahkemece, alınan bilirkişi raporu doğrultusunda itirazın reddine karar verildiği, iş bu kararın borçlu tarafından temyiz edilmesi üzerine Dairemizce mahkeme kararının onandığı ve bu karara karşı borçlu tarafından bu kez karar düzeltme yoluna başvurulduğu görülmüştür.
 
@@ -122,6 +146,8 @@ Borçlunun karar düzeltme isteminin kısmen kabulü ile Dairemizin 23.5.2023 ta
 
 ## Yargıtay 12. HD 2023/5569 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/949584000)
+
 Somut olayda, takibe dayanak bono üzerinde teminat olduğunu gösterir bir kayıt bulunmamaktadır. Borçlunun icra mahkemesine başvurusu; dayanak senedin borçlunun kefil sıfatı ile imzaladığı alacaklı ile üçüncü kişi arasında yapılan kira sözleşmesinin teminatı olarak verildiğine ilişkin olup, teminat senedi iddiası senet metni dışında belge ile ispatlandığından bu haliyle başvuru, İİK'nın 168/5, 169 ve 169/a maddeleri kapsamında borca itiraz niteliğindedir.
 
 …
@@ -129,6 +155,8 @@ Somut olayda, takibe dayanak bono üzerinde teminat olduğunu gösterir bir kay�
 SONUÇ: Alacaklının temyiz itirazlarının kısmen kabulü ile ... Bölge Adliye Mahkemesi 3. Hukuk Dairesinin 20/10/2022 tarih ve 2022/1881 E. - 2022/1886 K. sayılı kararının, hüküm bölümünün “1” nolu bendinde yer alan “takibin iptaline” sözcüğünün karar metninden çıkartılmasına …
 
 ## Yargıtay 12. HD 2023/5473 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1009496800)
 
 Davalı alacaklı cevap dilekçesinde; ... ... 3.
 
@@ -143,6 +171,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 2004 sayılı Kanun'un 364/2. 
 
 ## Yargıtay 12. HD 2023/5419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983945300)
+
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile ödeme emri borçluya 08.04.2017 tarihinde tebliğ edildiği, alacaklı vekili talebine istinaden 02.12.2020 tarihinde ikinci bir ödeme emrinin tebliğ edildiği, Yargıtay'ın yerleşik kararlarına göre ikinci kez gönderilen ödeme emrinin borçluya yeni itiraz hakkı kazandırdığı, takip konusu bononun düzenleme tarihi dikkate alındığından lehtar borçlu ve hamil alacaklı için bir yıllık zaman aşımı süresinin uygulanması gerektiği, 05.04.2017 ile 04.11.2020 tarihleri arasında takibi ilerletmeye yönelik herhangi bir işlem yapılmadığı, zaman aşımı süresinin dolduğu gerekçesiyle, istinaf başvurusunun HMK'nın 353/1-b-2 maddesi uyarınca esastan kısmen kabulüne, İlk Derece Mahkemesi kararının kaldırılmasına, borca itirazın kabulü ile İİK’nın 169/a-5 maddesi uyarınca Antalya 1. İcra Müdürlüğü’nün 2016/10605 Esas sayılı dosyasındaki takibin itiraz eden borçlu yönünden durdurulmasına karar verilmiştir.
 
 …
@@ -150,6 +180,8 @@ Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile ö
 Temyiz olunan Bölge Adliye Mahkemesi kararının 5311 Sayılı Kanun ile değişik İİK'nın 364/2. maddesi göndermesiyle uygulanması gereken 6100 Sayılı HMK'nın 370. maddeleri uyarınca ONANMASINA …
 
 ## Yargıtay 12. HD 2023/5413 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1009499800)
 
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile borçlunun dilekçesine ekli ön ödemeli konut satım sözleşmesinde satıcının dilerse bu senetleri ciro edebileceği, tahsile ve teminata verebileceğinin hüküm altına alındığından senetlerin kambiyo vasfında olduğunun kabul edilmesi gerektiği, TTK 654. maddesi ve TTK 647/2. maddesinin uygulama yeri olmadığı, borçlunun bir kısmını ödediğini beyan ettiği senetlerin teminat senedi olduğuna dair iddiasını İİK'nın 169/a maddesine göre resmi veya imzası ikrar edilmiş bir belge ile ispat etmek zorunda olduğu ve 3. şahısla yaptığı sözleşme İİK 169/a maddesi kapsamında bir belge olmadığından davalının istinaf talebinin HMK 353/1.b.3 maddesi gereğince kabulü ile ... 16. İcra Hukuk Mahkemesi'nin 2020/1330 Esas ve 2021/960 Karar sayılı ilamının ortadan kaldırılmasına, davacının davasının reddine karar verilmiştir.
 

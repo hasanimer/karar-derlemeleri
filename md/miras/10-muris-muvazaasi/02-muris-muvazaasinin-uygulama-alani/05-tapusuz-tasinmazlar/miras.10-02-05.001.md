@@ -39,6 +39,8 @@ Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, mümkün o
 
 ## Yargıtay 1. HD 2025/5199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186130600)
+
 Dava, muris muvazaasına dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -47,15 +49,21 @@ Hâl böyle olunca, mirasbırakanın kadastro tespitinden önce ölmesi halinde,
 
 ## Yargıtay 8. HD 2025/4388 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170102800)
+
 İlk Derece Mahkemesince yapılan yargılama sonucunda; davalının gerek dava dışı 3. kişilerden gerekse mirasbırakandan zilyetliği devir veya hibe suretiyle teslim aldığı tapusuz taşınmaz bakımından muris muvazaası iddiasının dinlenebilme olanağı bulunmadığından dava konusu edilen taşınmazların (... köyü 184 ada 5 parsel hariç) tapu iptal talebinin yukarıda anlatılan sebeplerden ötürü; ... köyü 184 ada 5 parsel yönünden yapılan incelemede ise celp edilen tapu kayıtlarının incelenmesi sonucunda; dava konusu taşınmazın 6831 sayılı Orman Kanunu'nun (2/B) maddesine göre Hazine adına orman sınırı dışına çıkarıldığı ve 6292 sayılı Kanun hükümleri çerçevesinde Hazine tarafından kullanıcı olarak tespit edilen hak sahibi ...'e satıldığı kullanım kadastrosu kesinleşerek tapuya tescil edilen taşınmaza yönelik davanın dinlenebilmesi için davanın 6292 sayılı Kanun uyarınca taşınmazın satış işleminden önceki bir tarihte açılması gerektiğinden; dava 12.03.2018 tarihinde açılmış olup, taşınmazın 6292 sayılı Kanun uyarınca dava tarihinden önceki bir tarih olan 03.06.2014 tarihinde davalı adına tapuya tescil edildikten sonra açılan davanın dinlenme olanağı bulunmadığından bu parsel yönünden de davanın
 reddine karar verilmiş; hükmün davacı vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince; "somut olayda; çekişmeli taşınmazların kadastro tespitlerinin 2000 ve 2007 tarihinde kesinleştiği dosya kapsamından anlaşılmaktadır. Eldeki dava ise 12.03.2018 tarihinde açılmış olup, bu haliyle kadastro tespitinin kesinleştiği tarih ile dava tarihi arasında 3402 sayılı Kadastro Kanunu'nun 12/3. maddesinde öngörülen 10 yıllık hak düşürücü sürenin geçtiği anlaşılmaktadır. Hak düşürücü süre dava şartı olup, kamu düzenine ilişkin bu sürenin geçmiş olması nedeniyle davanın esasına girilerek karar verilmesi mümkün değildir. Somut olayda, hak düşürücü sürenin yukarıda belirtilen niteliği gözetilerek kadastro öncesi nedene dayalı tapu iptali ve tescil davasının hak düşürücü sürenin geçmiş olması nedeniyle reddine karar verilmesi gerekirken yanılgılı değerlendirme ile esastan incelemesinin hatalı olduğu" gerekçesi ile; davacı vekilinin davanın esasına yönelik istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun)
 
 ## Yargıtay 7. HD 2025/294 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131802200)
+
 Somut olayda, davacı, muris ile davalı arasında yapılan işlemlerin müvekkilinden mal kaçırmak amacıyla yapılan muvazaalı bir işlem olduğunu belirterek, 3/4 miras payının karşılığı olarak 150.000,00 TL'nin davalıdan yasal faiziyle birlikte tahsili talebinde bulunmuş, İlk Derece Mahkemesince muris muvazaası hükümlerinin menkullerde uygulanma olanağının bulunmadığı, tapuda kayıtlı olmayan taşınmazların temlikinin şekle bağlı olmayıp zilyetliğin devri ile mülkiyeti karşı tarafa geçtiğinden artık muvazaa nedenine dayalı iptal davası açma olanağının kalmadığı ve davacının iddiasını yazılı delil veya yazılı delil başlangıcı ile desteklemediği gerekçesiyle benzer gerekçe içeren Bölge Adliye Mahkemesi kararına yönelik istinaf talebinin esastan reddine karar verilmiştir.
 Somut olayda, her ne kadar Mahkemece taşınmazın tapusuz olduğu ve tapusuz taşınmazda muris muvazaası olgusunun gerçekleşemeyeceği kabul edilerek dava reddedilmiş ise de, dava konusunun, tapulu taşınmazla ilgili yapılan satış vaadi sözleşmesi gereğince oluşan tescil isteme hakkının devrinin muvazaalı olduğu iddiasına dayandığı, bu yön itibariyle tapulu taşınmaz devri yapılmadığı için 01.04.1974 tarihli ve 1/2 sayılı İçtihadı Birleştirme Kararı kapsamında muris muvazaasına konu olamayacağı kuşkusuz ise de 6098 sayılı Türk Borçlar Kanunu'nun 19. maddesi uyarınca genel muvazaaya konu olabilecek bu devir işlemi yönünden davacının muvazaa iddiasını ispatlayamadığı gözetilerek davanın reddine karar verilmesi gerekirken yazılı gerekçe ile ret kararı verilmesi doğru görülmediğinden bozmayı gerektirir.
 
 ## Yargıtay 1. HD 2024/1043 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1032226600)
 
 Dava, kadastro öncesi nedene dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -65,6 +73,8 @@ Hemen belirtmek gerekir ki; dava konusu taşınmazların ortak mirasbırakan ...
 
 ## Yargıtay 1. HD 2023/7617 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026194800)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -73,11 +83,15 @@ Temyizen incelenen kararın bozmaya uygun olduğu, bozmaya uyulmakla karşı tar
 
 ## Yargıtay 1. HD 2023/997 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/899412800)
+
 …
 
 suretiyle yapılan elden bağışlama sözleşmeleri hiçbir biçim koşuluna bağlı değildir. Bu nedenle de, gizlenerek yapılan bağışlama niteliğindeki tasarruf geçerlidir. Mirasbırakan tarafından tapusuz taşınmazların zilyetliğinin devri suretiyle gerçekleştirirken geçerli işlemlere karşı 01.04.1974 tarih ve 1/2 sayılı İçtihadı Birleştirme Kararının uygulama yeri yoktur.
 
 ## Yargıtay 1. HD 2023/441 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882707000)
 
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -90,19 +104,27 @@ Bilindiği üzere Türk Medeni Kanunu'nun 640. maddesi uyarınca terekeye temsil
 
 ## Yargıtay 1. HD 2023/301 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884711400)
+
 Hemen belirtmek gerekir ki; tapuda kayıtlı olmayan taşınmazlar, taşınır mal niteliğindedir ve zilyetlikten ibaret olan hakkın devri suretiyle yapılan elden bağışlama sözleşmeleri hiçbir biçim koşuluna bağlı değildir. Bu nedenle de, gizlenerek yapılan bağışlama niteliğindeki tasarruf geçerlidir. Mirasbırakan tarafından tapusuz taşınmazların zilyetliğinin devri suretiyle gerçekleştirirken geçerli işlemlere karşı 01.04.1974 tarih ve 1/2 sayılı İçtihadı Birleştirme Kararının uygulama yeri yoktur.
 
 ## Yargıtay 1. HD 2023/208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877823800)
+
 Hemen belirtmek gerekir ki; tapuda kayıtlı olmayan taşınmazlar, taşınır mal niteliğindedir ve zilyetlikten ibaret olan hakkın devri suretiyle yapılan elden bağışlama sözleşmeleri hiçbir biçim koşuluna bağlı değildir. Bu nedenle de, gizlenerek yapılan bağışlama niteliğindeki tasarruf geçerlidir. Mirasbırakan tarafından tapusuz taşınmazların zilyetliğinin devri suretiyle gerçekleştirilen geçerli işlemlere karşı 01.04.1974 tarihli ve 1/2 sayılı İçtihadı Birleştirme Kararının uygulama yeri yoktur.
 
 ## Yargıtay 8. HD 2023/44 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/923519800)
 
 Bilindiği üzere tapuda kayıtlı bulunmayan taşınmazlar Türk Medeni Kanunu'nun 762. maddesi hükmüne göre menkul mal niteliğindedir. Aynı Kanun'un 763. maddesi uyarınca bu gibi malların mülkiyetinin devri zilyetliğin karşı tarafa teslimi ile gerçekleşir. Mirasbırakan tarafından tapusuz taşınmazların zilyetliğinin devri suretiyle gerçekleştirirken geçerli işlemlere karşı 01.04.1974 tarihli ve 1/2 sayılı İçtihatı Birleştirme Kararının uygulama yerinin bulunmadığı açıktır.
 
 Ancak dosya kapsamında yapılan keşiflerde dinlenilen mahalli bilirkişi ve taraf tanıklarının beyanlarından belirtilen çekişmeli taşınmazların zilyetliğinin hibe alanlara devredilmediği anlaşılmaktadır. Açıklandığı üzere tapusuz taşınmazlarda mülkiyetinin devri zilyetliğin karşı tarafa teslimi ile gerçekleşeceğinden ve somut olayda zilyetlik devredilmediğinden bu taşınmazların kök muris ... mirasçıları adına miras payları oranınında tesciline karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 1. HD 2021/3617 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684059000)
 
 Dava, tapu iptal-tescil, bedel ve ecrimisil; tapu iptal-tescil istemi kabul edilmez ise, tenkis istemlerine ilişkindir.
 
@@ -114,11 +136,15 @@ Hemen belirtmek gerekir ki, 01.04.1974 tarihli ve 1/2 sayılı İçtihadı Birle
 
 ## Yargıtay 1. HD 2019/3615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515591000)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
 Bilindiği üzere; tapuda kayıtlı olmayan taşınmazlar, taşınır mal niteliğindedir. Tapusuz taşınmazlarda zilyetlikten ibaret olan hakkın devri suretiyle yapılan elden bağışlama sözleşmeleri hiçbir biçim koşuluna bağlı değildir. Bu nedenle gizlenerek yapılan bağış niteliğindeki tasarruflar geçerlidir.Somut olayda, muris tapu maliki olmayıp, tapuda Belediye adına kayıtlı taşınmazda şahsi hak sahibidir. Böylesi bir durumda 01.04.1974 gün 1/2 sayılı İçtihadı Birleştirme Kararının uygulanamayacağı kuşkusuzdur.
 
 ## Yargıtay 16. HD 2019/3102 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516758900)
 
 Davacılar ... ve arkadaşları, dava konusu taşınmazın öncesinin ortak miras bırakanları...’a ait olduğunu, ancak taşınmazın kök muris tarafından 20.01.1955 tarihli noter senediyle babaları olan murisleri ... ... ve ...’a satıldığını ...’nin ise sonrasında payını haricen ... ...’a sattığını ve nihayetinde 21.06.1998 tarihli bağış senediyle babaları ... ...’ın bu taşınmazı kendilerine bağışladığını ileri sürerek tapu iptali ve eşit paylarla adlarına tescili istemiyle dava açmışlardır. Mahkemece, her iki senet yönünden de, murislerin gerçek iradelerinin satış ya da bağış olmadığı, amacın diğer mirasçılardan mal kaçırmak olduğu, bu nedenle her iki işlemin de muvazaalı olması nedeniyle bunların göz önüne alınmadığı, dava konusu taşınmazın kök muris ...’den intikalen geldiği, taksime konu olmadığı ve davacıların zilyetliğinin tüm mirasçılar adına olduğu gerekçesiyle yazılı şekilde hüküm kurulmuş ise de, varılan sonuç dosya kapsamına uygun değildir.
 Gerek 01.04.1974 gün ve 1/2 sayılı gerekse 16.03.1990 tarih ve 1/2 sayılı içtihadı birleştirme kararlarında açıkça vurgulandığı üzere "muris muvazaası, miras bırakanın danışıklı olarak mirasçılarını miras hakkından yoksun bırakmak amacıyla gerçekte bağışlamak istediği tapuda kayıtlı taşınmaz malı hakkında tapu sicil memuru önünde iradesini satış doğrultusunda açıklaması halinde, saklı pay sahibi olsun ya da olmasın miras hakkı çiğnenen tüm mirasçıların görünürdeki satış sözleşmesinin muvazaalı olduğunu ve gizli bağış sözleşmesinde şekil koşulundan yoksun bulunduğunu ileri sürerek, dava açabilmelerine olanak veren hukuki bir olgu" olarak tanımlanmaktadır. Görüleceği üzere butlan sonucunu doğurarak, murisin temliki tasarruflarının iptaline imkan tanıyan bu içtihadı birleştirme kararının uygulanabilmesi için, temliki tasarrufa konu yapılan taşınmazın murisin tapulu malı olması, gerçekte bağışlamak istediği bu malı ile ilgili olarak tapu memuru huzurunda iradesini satış doğrultusunda açıklaması gerekir.
@@ -126,9 +152,13 @@ Ne var ki dava konusu taşınmazın kadastro tutanağının kesinleşme tarihi 1
 
 ## Yargıtay 1. HD 2019/1130 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481883800)
+
 Bilindiği üzere; tapuda kayıtlı olmayan taşınmazlar, taşınır mal niteliğindedir. Tapusuz taşınmazlarda zilyetlikten ibaret olan hakkın devri suretiyle yapılan elden bağışlama sözleşmeleri hiçbir şekilde biçim koşuluna bağlı değildir. Bu nedenle gizlenerek yapılan bağış niteliğindeki tasarruflar geçerlidir. Bu tür durumlarda 01.04.1974 tarih ½ sayılı İBK’nın uygulanma yeri yoktur.
 
 ## Yargıtay 1. HD 2018/14327 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464513900)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil-olmazsa tenkis isteğine ilişkindir.
 
@@ -142,6 +172,8 @@ Mahkemece mirasbırakan tarafından kadastro tespiti sırasında satışa ve ba�
 
 ## Yargıtay 1. HD 2018/13650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/453852700)
+
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında tapu iptal ve tescil isteğine ilişkindir.
 
 …
@@ -150,9 +182,13 @@ Ne var ki, tapuda kayıtlı olmayan taşınmazlar, taşınır mal niteliğindedi
 
 ## Yargıtay 1. HD 2017/2850 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359359900)
+
 Mirasbırakan tarafından tapusuz taşınmazların zilyetliğinin devri suretiyle gerçekleştirirken geçerli işlemlere karşı 01.04.1974 tarih ve 1/2 sayılı İçtihatı Birleştirme Kararının uygulama yeri yoktur.Mirasbırakanın sağlığında, gerek 3.kişiden parasını ödeyerek almak suretiyle ve gerekse tarafından yaptığı bağış niteliğindeki kazandırmaların mirasbırakanın ölümünden sonra saklı payların zedelenmiş olduğunun saptanması halinde tenkise tabi tutulacağı kuşkusuzdur.
 
 ## Yargıtay 1. HD 2015/14232 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/196924300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve mirasçılar adına tescil, olmadığı takdirde tenkis isteklerine ilişkindir.
 
@@ -164,6 +200,8 @@ Hemen belirtilmelidir ki; tapusuz taşınmazlar üzerindeki zilyetlikten ibaret 
 
 ## Yargıtay 1. HD 2015/10644 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139250300)
+
 Dava, tapu iptali ve tescil, olmadığı taktirde tenkis isteğine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -173,6 +211,8 @@ Bilindiği ve 1.4.1974 gün 1/2 sayılı İçtihadı Birleştirme Kararında dü
 Öte yandan; mirasçılık ve mirasın geçişi mirasbırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirlenir (4722 s. Türk Medeni Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun m. 17). Mirasbırakan 1.1.2002 tarihinden önce ölmüşse 743 sayılı Türk Kanunu Medenisi hükümlerinin, 1.1.2002 tarihinden sonra ölmüşse 4721 sayılı Türk Medeni Kanunu'nun ilgili hükümlerinin uygulanması gerekir.
 
 ## Yargıtay 1. HD 2015/4078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139568600)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
@@ -184,9 +224,13 @@ Bilindiği ve yargısal uygulamada kararlılıkla ifade edildiği üzere, tapusu
 
 ## Yargıtay 1. HD 2014/18659 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/300769000)
+
 Dava konusu tüm taşınmazların evveliyatının tapusuz olduğu, kadastro öncesinde mirasbırakanın davalı oğullarına bağışlaması nedeniyle, kadastro sırasında davalı mirasçıların zilyetliklerine dayanılarak adlarına tescil edildiği, mirasbırakan tarafından tapulu taşınmazların devri sözkonusu olmadığından 01.04.1974 tarih 1/2 sayılı İçtihadı Birleştirme Kararı’nın bu taşınmazlar yönünden uygulama olanağı bulunmadığı gözetilerek ve davacılar tenkis isteğinde de bulunmadıklarından davalılar ... ve ... yönünden davanın reddine karar verilmesinde bir isabetsizlik bulunmamaktadır.
 
 ## Yargıtay 1. HD 2014/11345 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/89108900)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal tescil olmadığı takdirde tenkis isteklerine ilişkindir.
 
@@ -198,6 +242,8 @@ Somut olayda; dava konusu taşınmazlar henüz tapuya kayıtlı değilken, kadas
 
 ## Yargıtay 1. HD 2014/1897 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84047100)
+
 Dava; muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil olmadığı taktirde tenkis isteklerine ilişkindir.
 
 …
@@ -206,11 +252,15 @@ Hemen belirtilmelidir ki; kaynağını 6098 sayılı Borçlar Kanunu'nun 19. mad
 
 ## Yargıtay 1. HD 2012/8416 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915710900)
+
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında tapu ipal ve tescil, olmazsa tenkis isteğine ilişkin olup, mahkemece, her iki istek bakımından hak düşürücü süreden davanın reddine karar verilmiştir.
 
 Miras bırakan ...'a ait olup öncesi tapusuz olan çekişme konusu taşınmazların kadarstro tespiti sırasında miras bırakanın muvafakatıyla davalılar adına tespit edilerek çap kaydının oluştuğu dosya kapsamıyla sabit olup, bu durumda, miras bırakanın bu şekilde yapmış olduğu temliki işlemin, muris muvazaasının hukuki dayanağını teşkil eden 01.04.1974 tarih ½ sayılı İçtihadı Birleştirme Kararı kapsamında olmadığı gözetildiğinde, tapu iptal ve tescil isteği bakımından davanın reddine karar verilmiş olmasında açıklanan nedenle ve sonucu itibariyle bir isabetsizlik olmadığı gibi, miras bırakanın bu şekilde yapmış olduğu işlemin koşulların gerçekleşmesi halinde TMK.'nun 560 ila 571. maddelerinde düzenlenen tenkis davasına konu teşkil edeceği açık ise de, mahkemece, davanın açılış tarihi itibariyle bu istek yönünden yazılı olduğu üzere karar verilmiş olmasında da bir isabetsizlik yoktur.
 
 ## Yargıtay 1. HD 2011/11472 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79044200)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil, olmadığı takdirde tenkise karar verilmesine ilişkindir.
 
@@ -220,6 +270,8 @@ Tüm dosya içeriğinden ve toplanan delillerden; tarafların miras bırakanı �
 D. adına tespit edildiği, tespitin 10.05.2005 tarihinde kesinleşerek davalı adına çap kaydının oluştuğu, anılan taşınmazın 20.10.2003 tarihli iki adet, 06.11.2004 tarihli bir adet "tapusuz taşınmaz senedi" başlıklı adi yazılı belge ile muris tarafından davalıya ölünceye kadar bakma koşuluyla bağışlandığı, davalının da savunmasında bu belgelere dayandığı, taşınmazın bir kısmının murisin sağlığında haricen 3.kişiye satılması nedeniyle 5 parçaya ifraz edildiği, 141 ada, 51 parselin 3.kişiye tapuda devrinin yapıldığı, 50, 52, 53 ve 54 parsel sayılı taşınmazların ise halen davalı adına kayıtlı olduğu anlaşılmaktadır.Çekişmeli 141 ada, 1 parselden ifrazen ayrılan 141 ada, 50, 52, 53 ve 54 parsel sayılı taşınmazların aslı senetsiz olup, muris muvazaası yönünden 04.04.1974 tarih 1/2 sayılı İçtihadı Birleştirme Kararı'nın uygulama yeri olmadığı gözetilerek muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğinin reddine karar verilmiş olmasında bir isabetsizlik yoktur. Davacıların, iptal ve tescile yönelik temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2011/8356 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79082400)
 
 Dava, muris muvazaası hukuksal nedenine dayalı miras payı oranında iptal tescil isteğine ilişkindir.
 
@@ -231,11 +283,15 @@ Hal böyle olunca; dava konusu 289 ada, 1 parsel yönünden 01.04.1974 tarih, ½
 
 ## Yargıtay 8. HD 2011/7637 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/601467400)
+
 Taşınmazın öncesi tapusuz olup, senetle davacının murisi tarafından zilyetliği devredilmiştir. Tapusuz taşınmazların satışı herhangi bir hukuki merasime tabi değildir. Teslimle zilyetlik alıcısına geçer. Muris muvazaası iddiası tapusuz taşınmazların satışıyla ilgili işlemlerde dinlenemez. Eş anlatımla, muris muvazaasından söz edebilmek için muris adına tapulu bir taşınmaz bulunacaktır. Murisi bu yerini mirasçısından mal kaçırmak amacıyla, bizzat kendisi ya da atayacağı vekili aracılığıyla bir mirasçısına ya da herhangi bir kişiye tapuda görünüşte bedel göstererek veya ölünceye kadar bakma sözleşmesiyle devretmiş olması gerekir. Bunun haricindeki işlemlerde muris muvaazasından söz edilemez.
 
 Hal böyle olunca, tapu iptali ve tescil davasının reddine, çapa dayalı karşı davanın kabulüne karar verilmesi gerekirken, maddi olayda muris muvazaasına ilişkin temel kurallar ile 01.04.1974 tarih ve ½ sayılı Yargıtay İçtihadı Birleştirme kararı gözardı edilerek yazılı olduğu üzere karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 1. HD 2010/12767 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78465800)
 
 Dava, tapu iptali ve tescil isteğine ilişkindir.
 
@@ -245,6 +301,8 @@ Hal böyle olunca, çekişmeli taşınmazların öncesinin tapusuz olduğu, bu t
 
 ## Yargıtay 1. HD 2010/6913 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78787200)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal tescil, olmadığı takdirde tenkis isteklerine ilişkindir.
 
 …
@@ -253,9 +311,13 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal tescil, olmadığı 
 
 ## Yargıtay 1. HD 2010/1073 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78613200)
+
 Eldeki davada, davacı bir kısım tapulu taşınmazlar yönünden muris muvazaası nedeniyle iptal tescil, bir kısım taşınmazlar bakımından da tapusuz olmaları sebebiyle zilyetliklerinin korunması isteğinde bulunmuşlardır. Muris muvazaası istekli davalar hukuki yapısı itibarı ile açıklayıcı nitelikte karar verilmesini gerektirdiğinden, zilyetliğin korunması isteğinin de birliğinde mülkiyetinin de tespitini zorunlu kıldığından Kadastro Mahkemelerinin görevi kapsamında olacağı şüphesizdir.
 
 ## Yargıtay 1. HD 2010/695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690261900)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 

@@ -30,11 +30,15 @@ davanın kabulüne karar verilmesinde bir isabetsizlik bulunmadığı, 199 parse
 
 ## Yargıtay 1. HD 2026/1869 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201967200)
+
 …
 
 özellikle davaya konu taşınmazların hiçbir zaman muris adına kayıtlı olmaması nedeniyle 01.04.1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararının uygulanma olanağı bulunmadığının …
 
 ## Yargıtay 7. HD 2023/4736 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980080400)
 
 Mahkemece 15.11.2022 tarihinde tefhim edilen kısa kararın 1 numaralı bendinde, yalnızca "davanın reddine" karar verilmiş olduğu halde, gerekçeli kararda 6100 ... Hukuk Muhakemeleri Kanunu'nun 305 ve 305/A maddesindeki koşullar oluşmadığı halde 6100 ... Kanun'un 305/A maddesi gerekçe gösterilerek; 1 numaralı bentte "davanın reddine", iki numaralı bentte ise "davacının terditli talebi olan tenkis isteminin hukuki yarar şartı yokluğundan usulden reddine" karar verilmesi suretiyle kısa karar ve gerekçeli karar arasında çelişki oluşturacak şekilde karar verilmesi doğru görülmemiş bu sebeple hüküm bozulması gerekmiştir.
 

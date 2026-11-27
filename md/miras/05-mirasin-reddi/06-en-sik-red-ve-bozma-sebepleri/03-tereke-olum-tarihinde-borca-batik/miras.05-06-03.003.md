@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 17. HD 2012/11108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792162500)
+
 İİK'nun 277 ve devamı maddeleri borçlunun alacaklısına zarar vermek amacıyla yaptığı tüm tasarrufların iptale tabi olduğunu düzenlemiştir. Dava, bu amaca yönelik olarak açılmıştır. Davanın Medeni Kanunun 617. maddesi kapsamında açılan bir dava niteliğinde olduğu düşüncesi ile reddedilmesi özel kanun niteliğinde olan İcra İflas Kanununun sözü edilen maddeleri karşısında isabetli görülmemiştir. Mirasın reddi, reddeden mirasçı yönünden yasal bir haktır. Ancak herkes haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına uymak zorundadır. Bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz (Medeni Kanun md. 2).
 
 Borçlular ... ve ... babaları...’in ölümü ile kendilerine intikal eden Üsküdar’da kain 1311 ada 173 parsel 3 nolu bağımsız bölümdeki kendilerine intikal edecek miras payının intikalini önlemek için mirası reddetmişlerdir. Mirasın reddi şeklinde gerçekleşen tasarruf tarihinden itibaren 5 yıl içinde dava açılmıştır.
@@ -29,13 +31,19 @@ Bu durumda mahkemece, davanın İİK.nun 277 ve devamı maddeleri uyarınca aç�
 
 ## Yargıtay 2. HD 2012/9567 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82511200)
+
 Olayları açıklamak taraflara, hukuki nitelendirme hakime aittir. Dava, Türk Medeni Kanununun 605/2. maddesine dayalı mirasın hükmen reddine (terekenin borca batıklığının tespitine) ilişkin olup; alacaklı bankaya karşı açılmıştır. Bu davada süre söz konusu değildir. Terekenin borca batık olduğu her türlü delille kanıtlanabilir. Mahkemece taraf delillerinin sorulması gösterdikleri takdirde ise toplanması ile terekenin miras bırakanın ölüm tarihi itibariyle aktif ve pasifinin tespit edilerek gerçekleşecek sonucu uyarınca bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm oluşturulması bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2011/21694 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82589200)
+
 İstek terekenin borca batık olduğunun tespitine ilişkindir. Ölümü tarihinde mirasbırakanın ödemeden aczi açıkca belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır. (TMK. md. 605/2) Mirasçılar Türk Medeni Kanununun 610/2. madesinde yazılı eylemlerde bulunmadıkça yani, zimnen mirası kabul etmiş duruma düşmüş olmadıkça, her zaman terekenin borca batık olduğunun tesbitini isteyebilirler. Sosyal Güvenlik Kurumu tarafından davalıya bağlanan aylık terekeden intikal eden bir hak olarak kabul edilemez. Davalının kendisine bağlanan aylığı alması terekeyi tesahüp anlamına gelmez. Öyle ise davacılardan Beyna yönünden de davanın kabulü gerekirken ,yazılı şekilde ret hükmü kurulması doğru görülmemiştir.
 
 ## Yargıtay 17. HD 2011/12273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798117900)
 
 Dava, mirasın reddi talebine ilişkindir.
 
@@ -47,9 +55,13 @@ Denizli 2. Asliye Hukuk Mahkemesi ise, davanın hasımsız olarak ve üç aylık
 
 ## Yargıtay 2. HD 2011/5116 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81881700)
+
 İstek Türk Medeni Kanununun 605/2.maddesine dayalı mirasın hükmen reddine ilişkindir. Ölümü tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise miras reddedilmiş sayılır. Türk Medeni Kanununun 610/2.maddesinde yazılı haller bulunmadıkça, başka bir ifade ile mirasçılar zımnen mirası kabul etmiş duruma düşmüş olmadıkça her zaman mirasbırakanın ödemeden aczinin tespitini isteyebilirler. Davanın alacaklılara yöneltilmesi ile gösterdikleri takdirde delillerin toplanması, borç miktarına göre görev yönünün düşünülmesi ve sonucuna göre karar verilmesi gerekirken hasımsız olarak açılan dava ile ilgili yazılı şekilde hüküm tesisi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/14150 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80449400)
 
 Olayları açıklamak taraflara, hukuki nitelendirme hakime aittir. Dava Türk Medeni Kanununun 605/2 maddesine dayalı mirasın hükmen reddine ilişkindir.Ölümü tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise miras reddedilmiş sayılır. Türk Medeni Kanununun 606. maddesinde belirtilen süre bu davada söz konusu değildir.Mahkemenin görevi borç miktarına göre belirlenir. Mahkemece icra dosyası getirtilerek incelenmesi, borç miktarı üzerinden nispi harcın tamamlattırılması ve görev yönünün değerlendirilerek sonucu uyarınca bir karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmiş olması bozmayı gerektirmiştir.
 
@@ -61,10 +73,14 @@ Somut olayda, yerel mahkemece yukarıda açıklanan ilkeler dikkate alınarak ar
 
 ## İstanbul BAM 12. HD 2025/69 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117089200)
+
 Mirasın gerçek reddinde, red süresi içinde mirasın kayıtsız şartsız reddedildiğinin sulh hakimine açıklanması ve reddin tescil ettirilmesinin gerekmesi, bu konuda iş yapılmamasının veya suskun kalınmasının mirası kabul etmiş olunacağı kuralına karşın, terekenin borca batık olmasının herkesçe, mirasçılarca bilinmesi ve bu konunun sabit olması hâlinde suskunluk, terekeye sahip çıkmama yani mirasın reddedildiği anlamına gelmektedir. O halde, mirasın hükmen reddinde, reddin açıklanması ve hakime tescil ettirilmesi gerekmediği gibi, bu konudaki irade açıklaması da bir süreye tabi değildir. Ancak mirasçı yasal üç aylık süre içinde terekenin borca batık olduğunu ileri sürerek mirası kayıtsız şartsız reddettiğinin tespit ve tescilini de isteyebilir. Buna engel bir kural yoktur. Mirasın hükmen reddinde mirasçının red iradesini açıklama zorunluluğu yoktur. Mirasçı alacaklılara karşı bir süreye bağlı kalmaksızın terekenin borca batık oldu tespitini açacağı bir dava ile isteyebilir. Hükmen red adından da anlaşıldığı gibi ancak alacaklılara karşı açılacak bir dava ile tespit edilebilir. İtiraz veya savunma yolu ile de ileri sürülebilecektir.
 Davalı mirasçılar yargılama sırasında mirasın hükmen reddini savunma yolu ile ileri sürmüştür. TMK’nın 605. maddesine göre, ölüm tarihinde miras bırakanın ödemeden aczi açıkça belli veya tespit edilmiş ise ancak o zaman miras reddedilmiş sayılacaktır. Ödemeden aczin varlığı ise miras bırakanın ölüm tarihi itibari ile mal varlığındaki aktif ve pasiflerin net bir şekilde ortaya konulması ile tespit edilebilecektir. Nitekim bu yasal karine miras bırakanın mal varlığındaki pasif fazlalığının herkes tarafından biliniyor olması nedeni ile yasal veya atanmış mirasçıların borca batık olan bu mirası kabul etmeyecekleri yönündeki inançtan kaynaklanmıştır. Bu nedenle borca batıklığın başka bir anlatımla ödemeden aciz durumunun her türlü delille ispat edilebileceği kabul edilmiştir (Yargıtay HGK'nın 2019/(19)11-719 E., 2022/752 K. sayılı ve 26/05/2022; 2017/3-438 E., 2018/770 K. sayılı ve 11/04/2018; 2014/12-1036 E., 2016/551 K. sayılı ve 27/04/2016 2008/4-332 E., 2008/336 K. sayılı ve 16/04/2008 tarihli ilamları).
 
 ## Sakarya BAM 3. HD 2024/1198 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040141400)
 
 Dava; haksız fiil (kasten öldürme) nedeniyle maddi ve manevi tazminat istemine ilişkindir.
 
@@ -75,6 +91,8 @@ Dava; haksız fiil (kasten öldürme) nedeniyle maddi ve manevi tazminat istemin
 Destekten yoksun kalma tazminatı nitelik itibariyle bağımsız bir hak olup; ölen kimse ile davacı arasında kanuni veya akdi bir bakım yükümlülüğü, mirasçılık ya da akrabalık ilişkisi bulunması gerekmediğinden; mirasın reddedilmiş olması, destekten yoksun kalma davasının açılmasına ve incelenip hasıl olacak sonuç uyarınca esasına ilişkin karar verilmesine engel, yasal bir neden değildir. (Yargıtay Hukuk Dairesi Başkanlığı'nın 2016/651 Esas - 2016/8260 Karar sayılı ilamı) Bu nedenle davalı ... vekilinin davacının açmış olduğu mirasın hükmen reddi davasının bekletici mesele yapılmamasına ilişkin istinaf itirazı yerinde görülmemiştir.
 
 ## İzmir BAM 11. HD 2023/1792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967492000)
 
 Dava, işletenin hukuki sorumluluğu ve ZMMS kapsamında trafik kazası nedeni ile davacıların maddi ve manevi tazminat istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın maddi tazminat istemi yönünden feragat nedeni ile reddine manevi tazminat isteminin kısmen kabulüne, fazlaya ilişkin talebin reddine karar verilmiştir.
 
@@ -87,10 +105,14 @@ TMK'nın 609. maddesi gereğince, mirasçılar tarafından sulh mahkemesine söz
 
 ## İstanbul BAM 44. HD 2022/431 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/738425100)
+
 Kaldı ki, yapılmış bir icra takibi olmadan da borç tehdidi altında bulunan kişinin menfi tespit davası açabileceği İİK'nın 72/2. maddesinde açıkça düzenlenmiştir. O halde dava konusu olayda davacı kendilerine karşı bir itirazın iptali davası açılmasını beklemeden eldeki menfi tespit davasını açmakta hukuki yararları bulunduğunun kabulü gerekir. Mirasın gerçek reddinde mirasçı aktif ve pasifleriyle birlikte tüm mirası reddettiğinden takibe konu borç sebebiyle davacının borçlu olmadığının tespitine karar verilmesinde bir isabetsizlik yoktur. Bu sebeple davalı tarafça mahkemece detaylıca yapılması gereken araştırma yapılmayarak ...'nun borçlu olmadığının tespitine karar verilmesinin usul ve yasaya aykırı olduğu iddiasının yerinde olmadığı görülmüştür. Davalı taraf 11.
 İcra Hukuk Mahkemesinin de borçlu ... 'nun icra takibine itirazının süre yönünden reddine yönelik hüküm tesis ettiğini ve davacı aleyhine başlattıkları takibin kesinleştiğini beyan etmiş ise de, icra mahkemesi tarafından uyuşmazlık hakkında dar kapsamda değerledirme yapıldığından, verilen karar maddi anlamda kesin hüküm teşkil etmediğinden, icra mahkemesinde itirazda bulunmuş olmasının genel mahkemede dava açmasında engel olmadığı (Yargıtay 12. Hukuk Dairesi'nin E:2014/15933 K:2014/17415 K. 16.6.2014 tarihli kararı) anlaşılmakla bu konudaki davalı istinaf isteminin de reddi gerekmiştir.
 Davalı taraf Mahkemenin davadan önce yapılan arabuluculuk görüşmelerinde uzlaşmanın sağlanamamasından bahisle davanın açılmasına sebebiyet verdikleri için yargılama harç ve giderlerinden ve vekalet ücretinden sorumlu tutulmalarının hukuka ve yasaya aykırı olduğu iddiasında ise de, murisin 25.01.2016 tarihinde mirasın reddine karar verildiği, icra takibinin 13.09.2019 tarihinde yapıldığı, davacının icra takibine itirazın ise 04.10.2019 tarihinde yapıldığı, İcra Hukuk Mahkemesi kararında mirasın reddi hususunun tartışıldığı İcra Hukuk Mahkemesince 01.04.2021 tarihinde karar verildiği yani davalının mirasın reddi kararından dava açılma tarihi olan 24.05.2021 tarihinden önce haberdar olduğu buna göre dava açılmasına sebebiyet verdiği yönündeki Mahkeme kararında usul ve yasaya aykırılık bulunmadığı görülmüştür.
 
 ## İzmir BAM 20. HD 2021/472 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663769500)
 
 Somut olayda davacı sigortacı, zorunlu mali mesuliyet sigorta poliçesi ile sigortaladığı aracın geçerli sürücü belgesi olmayan sürücünün sevk ve idaresinde iken kazaya sebep olunduğu ve araçta bulunan sigortalının vefatı sebebiyle ödemek zorunda kaldığı tazminatın sigortalının mirasçılarından tahsili istemiyle dava açmıştır.Anılan bu düzenlemelere göre; davacının davalıya rücu hakkının bulunduğu gözetilerek işin esasına girildikten sonra davalının mirasın reddine ilişkin savunmasının; davalının mirasın reddi şartlarının oluşup oluşmadığı konusunda terekenin aktif ve pasifi ile mirasçının terekeyi sahiplenme anlamına gelecek hukuksal bir işlemde bulunup bulunmadığı araştırılarak hasıl olacak sonuca göre karar vermek gerekirken hatalı gerekçe ile davanın reddine karar verilmesi doğru olmamıştır, davacı vekilinin istinaf isteminin HMK 353/1-a-6 maddesi gereğince kabulü ile ilk derece mahkemesi kararının kaldırılarak dosyanın mahkemesine iadesine dair aşağıdaki şekilde hüküm kurmak gerekmiştir.

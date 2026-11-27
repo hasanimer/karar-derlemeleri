@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2020/1327 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592868500)
+
 …
 
 ... adına tapuya tescil edildiği ve taşınmazın adı geçen şahıs tarafından 3. kişiye satıldığı, en son Musa Altınöz adına kayıtlı olduğu anlaşılmıştır. 4721 sayılı TMK.nın "sorumluluk" kenar başlığını taşıyan 1007. maddesi ''Tapu sicilinin tutulmasından doğan bütün zararlardan Devlet sorumludur.'' hükmünü içermekte olup, bu maddede düzenlenen sorumluluk, kusura dayanmayan (objektif) bir sorumluluk türü olup, tapu sicil müdürü ya da memurunun kusuru olsun ya da olmasın, sicilin tutulmasında, kişilerin malvarlığı çıkarlarını koruyan hukuk kurallarına aykırı davranılmış olması yeterlidir. Kusurun varlığı ya da yokluğu Devletin sorumluluğu için önem taşımamakta, sadece, Devletin memuruna rücûu halinde iç ilişkide etkili olmaktadır. Bu nedenle, somut olayda 4721 sayılı Kanunun 1007. maddesi uyarınca tapu sicilinin yanlış tutulmasından kaynaklanan sorumluluk şartlarının oluştuğu anlaşıldığından mahkemece davanın kabulüne karar verilmesinde bir isabetsizlik görülmemiştir.
@@ -31,16 +33,22 @@ Hukuk Dairesi'nin 02/06/2014 tarih, 2014/4528 E. -16356 K. sayılı kararı ile 
 
 ## Yargıtay 20. HD 2020/1085 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592492800)
+
 …
 
 ...’nın ölümü ile terekesi iştirak halinde mülkiyet hükümlerine göre mirasçılarına intikal etmiştir. Birlikte mülkiyetin iştirak halinde mülkiyet (elbirliği mülkiyeti) şeklinde karşımıza çıkan türünde, ortaklar zaten zorunlu dava arkadaşıdır. Taraf teşkili dava şartı olup yargılamanın her aşamasında re'sen gözönünde bulundurulması gerekmektedir.
 
 ## Yargıtay 13. HD 2019/9714 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549792400)
+
 Mahkeme kararının başlığında adı yer alan davacı ...’nin dava açıldıktan sonra 08.12.2011 tarihinde vefat ettiği ve karar ile adı geçen davacı lehine de hüküm kurulduğu anlaşılmaktadır. Dava konusu olayda olduğu üzere ölü kişi hakkında davaya devam olunarak hüküm kurulması olanaklı değildir. Öte yandan ölü kişi lehine hüküm kurulması kararın infazını da olanaksız kılacak niteliktedir. Davacının, davanın devamı esnasında vefat ettiğinin anlaşılması halinde mirasçıları tesbit edildikten sonra mirasçılarının davaya katılımı sağlanarak, davaya devam edilmesi ve lehine hüküm verilecek ise mirasçılar adına hüküm verilmesi zorunludur. Ayrıca ölen davacı tarafından velayeten dava açılmış kişiler de varsa, bu kişilerin ölüm tarihi itibariyle reşit olup olmadıkları, reşit değiller ise vesayet altına alınmaları gerekip gerekmediği değerlendirilerek, taraf teşkili sağlandıktan sonra yargılamaya devam edilip bir karar verilmelidir.
 Mahkemenin değinilen bu yönü göz ardı ederek, yargılama sırasında vefat eden davacı ...’nin mirasçılarının davaya katılıp katılmayacakları sorulmadan ayrıca velayeten dava açtığı çocukları için usulüne uygun şekilde taraf teşkili sağlanmadan ve velayeten dava açılan ....., ... ve ... ... karar başlığında gösterilmeden hüküm verilmiş olması usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2019/8835 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564956200)
 
 Dava konusu olan hak, birden fazla kişi arasında ortak olup da bu hukuki ilişki hakkında mahkemece bütün ilgililer için aynı şekilde ve tek bir karar verilmesi gereken hallerde dava arkadaşlığının maddi bakımdan mecburi olduğunun kabulü gerekir. Diğer bir ifadeyle, bir hakkın birden fazla kişi tarafından birlikte veya birden fazla kişiye karşı kullanılmasının, zorunlu olduğu hallerde, bu hak dava konusu edildiği zaman o hakla ilgili birden fazla kişi zorunlu dava arkadaşı durumundadır. Dava arkadaşlığının hangi hallerde mecburi olduğu maddi hukuka göre belirlenir. Zorunlu dava arkadaşlığında; dava arkadaşları arasındaki ilişki çok sıkı olduğundan, davada birlikte hareket etmek durumundadırlar. Mahkeme ise, dava sonunda zorunlu dava arkadaşlarının hepsi hakkında aynı ve tek bir karar verecektir. Zorunlu dava arkadaşlığında dava konusu olan hak tektir ve dava arkadaşı sayısı kadar müddeabih bulunmamaktadır (Bkz. HGK 2009/21-286 Esas 2009/328 Karar sayılı ve 08/07/2009 tarihli kararı). Buna göre, alacaklı mirasçılar arasında zorunlu dava arkadaşlığı bulunduğundan icra takibinin tüm mirasçılar tarafından birlikte yapılması gerekmektedir.
 Takip itiraza uğradığında da tüm mirasçılar tarafından birlikte itirazın iptali davası açılması veya terekeye temsilci tayini yoluna gidilerek davanın takibi gerekir. Davaya konu icra takibi bir kısım mirasçılar tarafından yapılmış olup takip yapmayan mirasçı olduğuna göre usulüne uygun olarak yapılmış icra takibi bulunmadığından HMK 114/1-d ve 115. maddeleri gereğince aktif husumet yokluğu nedeniyle davanın usulden reddine karar verilmesi gerekirken yazılı şekilde karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir.
@@ -48,6 +56,8 @@ Takip itiraza uğradığında da tüm mirasçılar tarafından birlikte itirazı
 Kabule göre de, yargılama sırasında muvafakatleri alınan mirasçıların hüküm başlığında davacılar arasında sayılmamış olması da doğru değildir.
 
 ## Yargıtay 14. HD 2019/8477 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612393600)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -57,17 +67,23 @@ O halde mahkemece dava konusu taşınmazların güncel tapu kayıtlarının geti
 
 ## Yargıtay 16. HD 2019/6491 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558668500)
+
 Davacı taraf, kadastro çalışmaları sonucunda mera niteliği ile kamu orta malı olarak sınırlandırılıp özel siciline kaydedilen çekişmeli taşınmazların, murisleri ... mirasçıları adına miras hisseleri oranında tescili istemiyle dava açmış olup, murisin dosya arasında bulunan nüfus kayıt örneğine göre, davacılar ... ve ... dışında da mirasçılarının bulunduğu anlaşılmaktadır. Murisin ölüm tarihi itibariyle terekesinin TMK'nın 701 ve 702. maddeleri gereğince elbirliği mülkiyet hükümlerine tabi olduğu kuşkusuzdur. Elbirliği mülkiyetine tabi taşınmazlar üzerinde mirasçıların belirlenmiş payları olmayıp, her birinin payı taşınmazın tamamı üzerinde söz konusudur. TMK'nın 702. maddesi gereğince tasarrufi işlemlerde oy birliği aranır. Dava da bir tasarrufi işlem olup, kural olarak üçüncü kişilere karşı tüm mirasçıların birlikte dava açmaları ya da anlaşma sağlanamaz ise terekeye temsilci atanmak suretiyle dava açılması gerekir.
 Mera niteliğindeki taşınmazlara karşı açılan davalarda yasal hasım durumunda bulunan Hazine ve Kamu Tüzel Kişilikleri, murisin terekesi karşısında 3. kişi durumunda bulunduğuna göre, davada yer almayan diğer mirasçıların yöntemine uygun bir biçimde muvafakatlerinin alınması, davaya katılmalarının sağlanması veya TMK'nın 640. maddesi uyarınca miras ortaklığına bir temsilci atanarak onun huzuruyla yargılamaya devam edilmesi zorunlu olduğu halde, mahkemece bu yön gözetilmeden ve bu şart yerine getirilmeden işin esasına girilmesi isabetsizdir. Her ne kadar davacılar tarafından kendileri dışındaki ... mirasçıları davalı taraf olarak gösterilmiş ise de, davanın konusu terekenin korunması ve terekeye dahil olan bir taşınmazın tekrar terekeye döndürülmesi olduğundan, bu durum taraf teşkilinin sağlandığı anlamına gelmeyecektir. Diğer yandan, karar tarihinden önce yürürlüğe giren 6360 sayılı Yasa'nın 1. maddesi uyarınca yasal hasım konumundaki Konya Büyükşehir Belediye Başkanlığı davaya dahil edilmeden ve taraf teşkili sağlanmadan karar verilmiş olması da isabetsizdir.
 Taraf teşkilinin sağlanması 6100 sayılı HMK’nın 114/1-d maddesi gereğince dava şartlarından olup, mahkeme hakimince yargılamanın her aşamasında re’sen gözetilmesi gerekir. (HMK 115/1). Taraf teşkili sağlanmaksızın işin esası hakkında karar verilemez.
 
 ## Yargıtay 16. HD 2019/6397 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550925900)
+
 Dava; TMK'nın 713/1. ve 3402 sayılı Kadastro Kanunu’nun 14. ve 17. maddeleri gereğince, tapusuz taşınmazın tescili isteği ile açılmıştır. Mahkemece, esasa girilerek davacı yanın dayandığı iskan kayıtlarının çekişmeli taşınmaza uymadığı gerekçesi ile yazılı şekilde karar verilmiştir. Ancak; bir davanın esası hakkında değerlendirme yapılabilmesi için öncelikle taraf ehliyetlerinin bulunması dava şartı olup, bu hususun 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 114/1-d maddesi gereğince mahkemelerce re'sen gözetilmesi zorunludur.
 Somut olayda, davacı tarafça çekişmeli taşınmazın iskan kayıtları ile muris ...,...'e ait olduğu ve iskan tarihinden beri murisleri ve mirasçıları olan kendileri tarafından zilyetliğin sürdürüldüğü ileri sürülerek terekeye göre üçüncü kişi konumundaki Hazineye karşı çekişmeli taşınmazın adlarına tescili istemiyle genel mahkemede dava açılmış olup, dosyada mevcut veraset ilamına göre muris ... oğlu ...'in davacılar dışında ... oğlu ... isminde bir mirasçısının daha bulunduğu, öte yandan mirasçılarından ...,...'in ismi dava dilekçesinde yazılı ise de dava dilekçesine ekli vekaletnamelerde bu davacılar tarafından verilmiş bir vekalet bulunmadığı gibi, bunlardan ...'in dava açılmadan önce, ...'nin ise dava açıldıktan bir süre sonra vefat ettiği ve mirasçılarının davada yer almadığı anlaşılmaktadır. Elbirliği mülkiyeti hükümlerine tabi bulunan bir terekede, terekeye ilişkin tüm tasarruf işlemlerinin, 4721 sayılı Türk Medeni Kanunu'nun 640. ve 702. maddeleri uyarınca, tüm mirasçılar tarafından birlikte yapılması zorunlu olup, tasarrufi işlem niteliğindeki davanın da, tüm mirasçılar tarafından birlikte açılması gerekir.
 Bir mirasçının, özellikle acele hallerde miras şirketinin menfaatini korumak için, bütün mirasçılar adına, yalnız başına dava açması mümkün ise de, bu şekilde açılan bir dava tüm mirasçıların katılımı sağlanmadan yürütülemez. Bu halde, diğer mirasçıların da davaya katılımlarının sağlanması, muvafakatlerinin alınması veya terekeye temsilci tayin ettirilmesi gerekir. Öte yandan, TMK'nın 713/3. maddesi uyarınca, bu nitelikteki davalarda davanın Hazine ve ilgili Kamu Tüzel Kişiliğine yöneltilerek açılması zorunlu olduğu halde eldeki dava yalnızca Hazine aleyhine açılmış olup, ilgili İlçe Belediye Başkanlığı ile İzmir Büyükşehir Belediye Başkanlığı'nın da davada taraf olması gerektiği hususu göz ardı edilerek, usulünce taraf teşkili sağlanmaksızın hüküm verilmesi cihetine gidilmiştir. Yukarıda değinildiği gibi, taraf teşkilinin sağlanması dava şartlarından olup, bu koşul yerine getirilmeden davanın esasına girilemez.
 
 ## Yargıtay 16. HD 2019/6138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/545758000)
 
 Dava, kadastro öncesi sebebe dayalı tapu iptali ve tescil istemine ilişkin olup, bu tür davaların tapu kayıt maliklerine, bunların ölmüş olması durumunda ise tüm mirasçılarına yöneltilmesi zorunludur.
 
@@ -78,11 +94,15 @@ Hal böyle olunca, mahkemece öncelikle davacıya, dava konusu taşınmazların 
 
 ## Yargıtay 16. HD 2019/5977 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/545523800)
+
 Elbirliği mülkiyetine tabi taşınmazlar üzerinde, mirasçıların belirlenmiş bir payları olmayıp, her birinin payı taşınmazın tamamı üzerinde söz konusudur. TMK'nın 702. maddesine göre, tüm tasarrufi işlemlerde paydaşların oybirliği aranır. Dava da, bir tasarruf işlemi olup, kural olarak üçüncü kişilere karşı tüm mirasçıların birlikte dava açmaları gerekir. Terekeye dahil bir taşınmaz için bir veya bir kaç mirasçının tek başına üçüncü kişilere karşı dava açma sıfat ve hukuki ehliyeti bulunmamaktadır. Somut olayda, çekişmeli 141 ada 94, 95, 97 ve 98 parsel sayılı taşınmazlar davalılar ...,...,...,... ve ...’ın fiili kullanımında bulunduğu şerhi yazılarak Hazine adına tespit ve tescil edilmiştir. Davacı ..., dava konusu taşınmazların müşterek muris ...’tan intikalen geldiğini, murisin ölümünden sonra taşınmazları annesi ...’ın kullanmaya devam ettiğini, annesinin ölümünden sonra da kendisinin ve davalıların kullandığını ileri sürmüştür. Ne var ki, kök muris ... mirasçısı olan ...'ın halen sağ olması nedeniyle, taşınmazlarda adlarına kullanıcı şerhi verilen ... çocukları davalılar ...,...,... ve ..., kök murisin terekesine karşı üçüncü kişi durumundadır.
 Bu durumda dava, mirasçıların birbirleri aleyhine miras hisseleri oranında açtıkları dava niteliğinde olmayıp, taşınmazlarda kullanıcı olarak adlarına şerh yazılan 3. kişi aleyhine açılan kullanım kadastrosuna itiraz davasıdır. Davanın açıklanan bu niteliğine göre TMK'nın 701 ve 702. maddeleri gereğince davacının terekeye dahil bir taşınmaz için tek başına üçüncü kişilere karşı dava açma sıfat ve hukuki ehliyeti bulunmamaktadır. Dosya kapsamında davacı, taşınmazları davalılar ile birlikte kullandığını ileri sürdüğüne göre, talebinin kendi miras payına mı yoksa tüm mirasçılar adına mı olduğu anlaşılamamaktadır.
 Bu halde davacıya dava dilekçesi ve talebi açıklattırılmalı, davacının, muris ... terekesinde sadece kendi miras payını talep ettiğinin anlaşılması halinde, davacının dava ehliyeti (aktif husumet) dava şartlarından olup, dava şartının kamu düzenine ilişkin olduğu mahkemece kendiliğinden göz önünde tutulmalı ve TMK'nın 702. maddesi gereğince dava ehliyeti (aktif husumet) yokluğundan davanın usulden reddine karar verilmeli, aksi halde, yani davacının muris ... terekesi adına talepte bulunduğunun anlaşılması halinde Mahkemece davacı tarafa, diğer mirasçıların davaya katılımlarının sağlanması, muvafakatlerinin alınması veya terekeye temsilci tayin ettirilmesi için süre verilmeli, aktif dava ehliyetinin sağlanması halinde davaya devam edilerek işin esasına girilmeli, aksi halde davanın reddine karar verilmelidir. Mahkemece yazılı şekilde davacının talebi açıklattırılmadan ve dava şartı sağlanmadan hüküm tesisi isabetsiz olup temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile 141 ada 94, 95, 97 ve 98 sayılı parsellere ilişkin hükmün BOZULMASINA, …
 
 ## Yargıtay 1. HD 2019/5922 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/552404500)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -91,6 +111,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine
 Öte yandan, davalılar arasında zorunlu dava arkadaşlığı bulunmayıp, ihtiyari dava arkadaşlığı vardır. Bu durumda her bir davalının kendisine temlik edilen taşınmazda dava edilen pay değeri üzerinden harç ve vekalet ücretinden ayrı ayrı sorumlu tutulması gerektiği açıktır. Somut olayda, davalı ... adına kayıtlı dava konusu 1 nolu bağımsız bölüm yönünden dava değeri 60.000,00 TL olup, bunun üzerinden hesaplanacak harç ve vekalet ücretinden sorumlu tutulması gerekirken davalılar arasında zorunlu dava arkadaşlığı varmış gibi değerlendirme yapılarak tüm taşınmazlar bakımından diğer davalılarla birlikte müştereken ve müteselsilen sorumlu tutulmuş olması da isabetsizdir.
 
 ## Yargıtay 16. HD 2019/5748 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/591840000)
 
 Dava, kadastrodan önceki haklara dayanan tapu iptali ve tescil istemine ilişkindir.
 
@@ -103,11 +125,15 @@ Yapılacak keşifte, yerel bilirkişi ve tanıklardan, dava konusu taşınmazın
 
 ## Yargıtay 16. HD 2019/5325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538881500)
+
 Hal böyle olunca doğru sonuca ulaşılabilmesi için mahkemece öncelikle, çekişmeli taşınmazın satış, bağış vs. yoluyla davacıya intikal edip etmediği veya muris Durmuş'un ölümünden sonra mirasçıları arasında ve tüm mirasçıların katılımıyla geçerli bir paylaşma yapılıp yapılmadığı davacı tarafa açıklattırılmalı; satış veya bağış yoluyla davacıya intikal ettiği saptanamadığı takdirde, mirasçı olan davacının kendi adına tescil isteğinde bulunduğu ve dava ehliyetinin (aktif husumet) dava şartlarından olup, dava şartının kamu düzenine ilişkin olduğu mahkemece kendiliğinden göz önünde tutulmalı, daha sonra tespit tarihi olan 2006 yılından geriye doğru 15-20-25 yıl öncesine ait üç ayrı tarihte çekilmiş hava fotoğrafları ile temin edilebilen en eski ve en son tarihli uydu fotoğrafları ve çekişmeli taşınmaz bölümüne komşu parsellerin kadastro tutanakları ile dayanak belgeleri tüm tedavülleri ile bulunduğu yerden istenilerek dosya arasına konulmalıdır.
 Bundan sonra, mahallinde elverdiğince yaşlı, tarafsız, yöreyi iyi bilen, davada yararı bulunmayan şahıslar arasından seçilecek yerel bilirkişiler ve taraf tanıkları ile üç kişilik ziraat bilirkişi kurulu, fen bilirkişisi ve jeodezi ve fotogrametri uzmanı bilirkişisinin katılımıyla yeniden keşif yapılmalı, yapılacak bu keşifte yukarıda belirtilen tarihlerde çekilmiş stereoskopik çift hava fotoğraflarının stereoskop aletiyle incelemesi yaptırılmak suretiyle, çekişmeli taşınmaz bölümünün önceki ve şimdiki niteliğinin, arazinin ekonomik amacına uygun olarak tarım arazisi niteliğiyle zilyetliğine ne zaman başlanıldığının, varsa imar-ihya çalışmalarının tamamlanma tarihinin, zilyetliğin süresinin tarihi ayrı ayrı saptanmalı, zilyetliğin sürdürülüş şeklinin belirlenmesine çalışılmalı, taşınmazın kadastro paftasındaki konumu bilgisayar programı aracılığıyla ölçekleri eşitlenmek suretiyle hava fotoğraflarına aktarılmalı; tanık ve yerel bilirkişilerden, taşınmazın önceki durumu, kime ait olduğu, kimden kime nasıl intikal ettiği, kim tarafından ne zamandan beri ve ne suretle kullanıldığı, varsa imar-ihya çalışmalarının hangi tarihte tamamlandığı hususlarında maddi olaylara dayalı ayrıntılı
 bilgi alınmalı, yerel bilirkişi ve tanık sözleri komşu parsel tutanakları ve dayanakları ile denetlenmeli, beyanlar arasındaki çelişkiler gerektiğinde yüzleştirme yapılmak suretiyle giderilmeli; üç kişilik ziraat bilirkişi kurulundan, önceki raporu da irdeler şekilde çekişmeli taşınmazın niteliği, toprak yapısı, zirai faaliyete konu olup olmadığı, ne şekilde kullanıldığı, kullanım sınırlarının oluşup oluşmadığı ve komşu parseller ile dava konusu taşınmaz arasında nitelik farkı bulunup bulunmadığı hususlarında ayrıntılı rapor alınmalı; taşınmazın konumu, toprak yapısı, üzerindeki bitki örtüsü ve çevre taşınmazlara göre arz ettiği özellikleri belirtir şekilde mahkemenin gözlemi tutanağa yazılmalı; dava konusu taşınmazın tüm yönlerinden çekilmiş fotoğrafları dosya arasına konulmalı; fen bilirkişisine, keşfi takibe imkan verir ayrıntılı rapor ve kroki düzenlettirilmeli, taşınmazın gerçek yüzölçümü belirlenmeli; bundan sonra da toplanmış ve toplanacak tüm deliller birlikte değerlendirilerek sonucuna göre bir karar verilmelidir.
 
 ## Yargıtay 8. HD 2019/5138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646838600)
 
 Dava, kira alacağının tahsili için tahliye istekli olarak başlatılan icra takibine vaki itirazın kaldırılması ve tahliye istemine ilişkindir.
 
@@ -116,6 +142,8 @@ Dava, kira alacağının tahsili için tahliye istekli olarak başlatılan icra 
 TBK'nin 315. maddesi gereğince temerrüt nedeniyle tahliye davasının kural olarak kiralayan tarafından kiracıya karşı açılması gerekir. Kiralayan veya kiracının ölü olması halinde kira ilişkisi devam ettiği sürece mirasçılar arasında zorunlu dava arkadaşlığı bulunduğundan davanın, mirasçıların tamamı tarafından, tüm mirasçılara karşı açılması gerekir. Bu husus kamu düzenine ilişkin bulunduğundan mahkemece kendiliğinden gözetilmesi gerekir. Olayımıza gelince; kira sözleşmesi kiraya veren ... vekili... ve kiracı ... arasında akdedilmiş olup, sözleşmenin kiraya vereninin ... olduğu,... tarafından vekil sıfatıyla imzalandığı anlaşılmaktadır. Kira sözleşmesinin kiraya vereni ... 22.03.2014 tarihinde vefat etmiş olup, geriye mirasçıları olarak davacı ... ve dava dışı Nüket Demir kalmıştır. Buna göre, dava konusu taşınmaz miras bırakandan intikal etmiş olup, davacının dışında başka mirasçının da bulunduğu anlaşıldığından, davacının tek başına tahliye davası açma hakkı bulunmamaktadır. Bu durumda tahliye isteminin de reddine karar verilmesi gerekirken yazılı şekilde tahliyeye karar verilmesi doğru değildir.
 
 ## Yargıtay 4. HD 2019/4944 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/544710700)
 
 Dava, haksız eylem sebebiyle maddi tazminat istemine ilişkindir.
 
@@ -127,6 +155,8 @@ Bu itibarla, mahkemece anılan usul hükümleri dikkate alınarak; mirası redde
 
 ## Yargıtay 1. HD 2019/3443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510448800)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -135,13 +165,19 @@ Somut olayda, 6100 sayılı HMK'nun 326. maddesi uyarınca, davalılar arasında
 
 ## Yargıtay 17. HD 2019/3366 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/518768900)
+
 Ölüm ile kişilik hakları son bulduğundan yargılama sırasında öldüğü anlaşılan davacı ...'in mirasçılarının davaya dahil edilmesi ve taraf teşkilinin sağlanması suretiyle yargılamaya devam edilmesi sonucuna göre karar verilmesi gerekmeketedir. Nitekim, davacılar vekili davacılar ...'in veraset belgesini ibraz etmiş, tek mirasçısının oğlu diğer davacı olduğunu, onun adına davaya devam ettiklerini beyan etmiştir. Böylelikle dosyada taraf teşkili sağlanmıştır. Ancak, mahkemece, ... 'in hak ettiği tazminatları mirasçısı sıfatı ile ...’e hükmetmesi gerekirken ölü kişi ... lehine hüküm kurması doğru olmamıştır.
 
 ## Yargıtay 20. HD 2019/2982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/502326300)
+
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye, 4721 sayılı Türk Medeni Kanununun 640. maddesi uyarınca mirasçılar arasında elbirliği mülkiyet hükümleri geçerli olup ortaklar arasında zorunlu dava arkadaşlığı olduğu, Hukuk Genel Kurulunun 23.10.1996 tarih 1996/522 Esas - 1996/713 Kararında da belirtildiği üzere; bir veya bir kısım mirasçının terekeye tabi bir taşınmaz için üçüncü kişiye karşı miras yoluyla gelen hakka dayanılarak genel mahkemelerde miras payları oranında tescil talepli olarak dava açamayacakları, bu tür davaları Türk Medeni Kanununun 701 ve 702. maddesi uyarınca ancak tüm mirasçıların birlikte açmaları gerektiği belirlenerek yazılı şekilde hüküm kurulmasında bir isabetsizlik bulunmadığına göre davacılar ve birleşen davacıların temyiz itirazlarının reddine, …
 
 ## Yargıtay 1. HD 2019/2423 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498522500)
 
 Dava, ehliyetsizlik ve hile hukuksal nedenlerine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -153,13 +189,19 @@ Hal böyle olunca, davayı açan ...’ın tüm mirasçılarına tebligat yapıl
 
 ## Yargıtay 16. HD 2019/1661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/505942300)
+
 Davacı ..., ortak miras bırakandan gelen taşınmazların taksim edildiğini ve dava konusu taşınmazların tamamının kendisine verildiğini ileri sürerek diğer mirasçılara ait payların iptali ile tamamının kendi adına tescili istemiyle...’in mirasçıları ile ... ve ...’a karşı dava açmıştır. Davacının dava konusu ettiği taşınmazlar, iştirak halinde mülkiyet esaslarına göre mirasçılar adına tespit edilmiş olup davacı, tespit maliki ....’in mirasçılarına davayı yöneltmemiştir. Taraf teşkilinin sağlanması dava şartlarından olup, mahkemelerce yargılamanın her aşamasında re'sen göz önüne alınması gerekir. Yöntemince taraf teşkili sağlanmadan işin esasına girilemez. Hal böyle olunca tespit maliki olarak görülen...mirasçılarının davaya dahil edilmeleri suretiyle taraf teşkilinin sağlanması için davacı tarafa süre ve imkan tanınmalı, taraf teşkilinin sağlanması halinde dahili davalılardan savunma ve delilleri sorulmalı, varsa delilleri toplanmalı, bundan sonra da toplanmış ve toplanacak tüm deliller birlikte değerlendirilerek sonucuna göre bir karar verilmelidir.
 
 ## Yargıtay 15. HD 2019/1651 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496952900)
+
 HMK 114/d hükmüne göre taraf ve dava ehliyeti dava şartı olmakla birlikte davanın mecburi dava arkadaşlığı nedeniyle tüm mirasçılarca veya terekeye mümessil tayiniyle temsilci tarafından açılması gerektiğinde, bu hal HMK 115/2 maddesi gereğince dava şartı noksanlığının giderilmesi mümkün olduğundan mahkemece bunun tamamlanması için kesin süre verilir (Bkz.Pekcanıtez Medeni Usul Hukuku 2. Cilt shf. 950 vd.).
 
 ## Yargıtay 14. HD 2019/1103 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492464100)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -168,6 +210,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 Tapu kayıt malikleri; ... (... eşi), ... (... kızı), ... (... kızı), ... (... oğlu), ... (... oğlu), ... (... oğlu), ... (... kızı), ... (... oğlu), ... (... oğlu), ... (... kızı), ... (... kızı), ... (... kızı), ... (... oğlu), ... (... oğlu), ... (... oğlu), ... (... kızı), ... (... oğlu), ... (... oğlu), ... (... oğlu), ... (... kızı), ... (... kızı), ... (... oğlu), ... (... oğlu), ... (... oğlu), ... (... kızı), ... (... oğlu), ... (...), ... (... oğlu), ... (... kızı), ... (... oğlu), ... (... oğlu), ... (... oğlu), ... (... kızı), ... (... oğlu), ... (... kızı), ... (... oğlu), ... (... oğlu), ... (... kızı), ... (... oğlu), ... (... oğlu), ... (... oğlu), ... davada taraf değildir. Adı geçen paydaşlar sağ ise kendileri ölmüş iseler usulüne uygun mirasçılık belgesi uyarınca belirlenecek mirasçılarının davaya dahil edilerek taraf teşkilinin sağlanması, taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekir.
 
 ## Yargıtay 8. HD 2019/1070 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490002600)
 
 TMK mad. 599/1, 640/1-2). Elbirliği mülkiyeti kanundan veya kanunda sayılan sözleşmelerden doğar. Elbirliği mülkiyetinden kaynaklı olarak ortakların belirlenmiş payları yoktur. Mirasçılar terekeye elbirliğiyle sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler (TMK mad. 640/2). Bu nedenle mirasçılar arasında zorunlu dava arkadaşlığı bulunmaktadır.
 

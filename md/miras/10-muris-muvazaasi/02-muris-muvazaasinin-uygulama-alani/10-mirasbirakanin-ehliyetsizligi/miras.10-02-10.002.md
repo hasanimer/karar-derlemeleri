@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2013/2886 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79585600)
+
 Dava, muris muvazaası ve ehliyetsizlik hukuksal nedenlerine dayalı pay oranında tapu iptali ve tescil, olmadığı taktirde tenkis isteğine ilişkindir.
 
 …
@@ -31,6 +33,8 @@ açtıkları davanın dinlenmesine olanak bulunduğu gözetilerek davanın kabul
 
 ## Yargıtay 1. HD 2013/2255 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79491900)
+
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı pay oranında tapu iptali ve tescil, olmazsa tenkis isteğine ilişkindir.
 
 …
@@ -38,6 +42,8 @@ Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı pay oranın
 İddianın ileri sürülüş biçimi ve içeriğinden, davacının terditli olarak öncelikle ehliyetsizliğe, olmadığı takdirde muris muvazaasına dayanarak pay oranında iptal-tescil isteğinde bulunduğu görülmektedir. Miras bırakanın ölüm tarihine göre terekesi elbirliği mülkiyetine tabidir. Davacı dışında başkaca mirasçıların bulunduğu dosya kapsamı ile sabittir. Terekeye karşı yapılan mülkiyetten kaynaklanan haksız fiil niteliğinde ki muris muvazaası ve elatmanın önlenmesi gibi davaların dışında ehliyetsizlik, vekalet görevinin kötüye kullanılması vs. gibi davalarda terekeyi temsil eden tüm mirasçıların bir arada hareket etmek suretiyle davayı birlikte açmaları, ayrıca, mirasçılardan bir tanesinin terekeye iade şeklinde dava açması halinde de tüm mirasçılarının davada muvafakatlarının sağlanması, aksi takdirde terekenin atanacak temsilci marifetiyle davada temsil edilmesi ve yürütülmesi gerekeceği (T.M.K. 640 md.) tartışmasızdır.
 
 ## Yargıtay 1. HD 2012/1927 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79089700)
 
 Dava; ehliyetsizlik, vekalet görevinin kötüye kullanılması ve muris muvazaası hukuksal nedenlerine dayalı pay oranında iptal ve tescil isteklerine ilişkindir.
 
@@ -50,9 +56,13 @@ Ne var ki, davada ileri sürülen diğer istek muris muvazaası nedenine dayalı
 
 ## Yargıtay 1. HD 2010/11759 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78818500)
+
 Hal böyle olunca, yukarıda açıklanan ilkeler ve yasa hükümleri çerçevesinde bir araştırma yapılarak tüm delillerin birlikte değerlendirilerek miras bırakanın hukuki ehliyete haiz olduğunun saptanması halinde de muris muvazaasına dayalı istek yönünden 1.4.1974 tarih 1/2 Sayılı İnançları Birleştirme Kararı uyarınca araştırma yapılarak sonucuna göre bir karar verilmesi gerekirken, taraf teşkili sağlanmadan ve ehliyetsizlik iddiası yönünden araştırma yapılmaksızın yazılı olduğu üzere karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2008/7549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78289400)
 
 Dava, ketmi verese hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
@@ -61,6 +71,8 @@ Dava, ketmi verese hukuksal nedenine dayalı tapu iptal ve tescil isteğine ili�
 Bilindiği üzere; terekeye karşı yapılan haksız fiil niteliğindeki muris muvazaası ve elatmanın önlenmesi gibi davaların dışında ketmi verese, ehliyetsizlik vs.gibi davalarda terekeyi temsil eden tüm mirasçıların bir arada hareket etmek suretiyle davayı birlikte açmaları (Türk Medeni Kanununun 640.maddesi ) gerekeceği tartışmasızdır.
 
 ## Yargıtay 1. HD 2008/5703 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78078100)
 
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı tapu iptal ve tescil isteklerine ilişkindir.
 
@@ -78,6 +90,8 @@ HMK'nın 359/3 maddesi uyarınca; dosya kapsamındaki yazı, belge ve bilgilere,
 tanıkların senedin murisin üzerine kayıtlı olmayan iki çocuğunu güvence altına almak için düzenlenerek resmi nikahlı olmayan davalı eşe verildiğini beyan etmelerine, bu hususun ise muris muvazaası olarak nitelendirilemeyecek olmasına (bknz Yargıtay 19. Hukuk Dairesi'nin 25/09/2008 tarihli 2008/1855 Esas - 2008/8827 Karar sayılı emsal ilamı), yemin eda edecek şahsın yaşadığı ülke hukukuna göre yemin delilinin uygulanmamasına, kaldı ki somut olayda yemin konusunun da suç olmasına, kararın usul ve esas yönünden hukuka uygun olduğunun anlaşılmasına göre; davacılar vekilinin istinaf itirazları yerinde görülmediğinden HMK'nın 353/1-b-1 maddesi gereğince istinaf başvurusunun esastan reddine karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 2. HD 2025/334 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120726500)
 
 …
 

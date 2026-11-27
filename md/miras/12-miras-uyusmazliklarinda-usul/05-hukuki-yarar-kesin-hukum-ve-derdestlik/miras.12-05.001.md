@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/863 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964752200)
+
 Diğer taraftan, 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 382 nci maddesinin 2-ç/1 inci fıkrasında "Taşınmaz üzerinde taraf oluşturulmasına ve hak ihlaline sebebiyet vermeyecek düzeltmelerin yapılması" çekişmesiz yargı işi olarak sayılmış olup, bu bağlamda davacıların kayıt maliki ile kendi murisinin aynı kişi olduğunu ileri sürerek tapu müdürlüğüne yönelttiği dava da niteliği itibariyle bu tanıma uymaktadır.
 
 Bu tür işlerde verilen kararlar kesin hüküm teşkil etmez ise de düzeltme ya da tespite karar verilebilmesi için mahkemece sağlıklı bir inceleme yapılması ve kayıt maliki ile davacı ya da murisinin aynı kişi olduğunun şüpheye yer bırakmayacak şekilde saptanması gerekmektedir. Yapılacak inceleme ve araştırma sonucunda, tapu ve nüfus bilgileri, davacılar tarafından sunulan veraset ilâmı ve diğer kayıtlar arasında bağlantı ve tutarlılık sağlandığı takdirde istemin kabulü yoluna gidilmelidir.
 
 ## Yargıtay HGK 2022/951 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790223500)
 
 Eldeki dava; davacıların alacağının Bursa 5. İcra Müdürlüğünün 2011/2486 sayılı takip dosyası gereğince davacıların miras Orhan Özatalay tarafından dava dışı E.U.R.O Trans Uluslar arası Nakliyat Oto Sanayi ve Tic. Ltd. Şti.’ne kiralanan ve davalı ...’un müştereken ve müteselsilen kefil olarak imzaladığı kira sözleşmesi gereğince ödenmeyen 01.07.2008-01.05.2011 tarihleri arasındaki 35 aylık kira alacağına ilişkin olarak açılmıştır. Muvazaa nedeniyle tapu iptali ve borçlu adına tescil talep edilebilecekken alacağı karşılayacak kadar satış ve haciz isteme yetkisi talep edilmiştir ki İİK 283/1. maddesi kıyasen uygulanarak bu talep mümkündür. Davalı borçlu savunmasında takip konusu kira borcunun 28 aylık olduğunu 2009 yılı Şubat ayına kadar kira borcunun banka aracılığıyla ödendiğini savunmuştur. Bu durumda alacağın varlığının tespiti bakımından mahkemece ödeme savunması üzerinde durularak sonucuna göre karar verilmelidir. İcra dosyasındaki borçlu ... yönünden borcun sabit olması diğer davalı ... yönünden kesin hüküm olmayıp, gerçekten borcun olup olmadığının mahkemece tespiti gerekir. Zira davalı ... bahsedilen icra dosyasının tarafı değildir.
 Ancak muvazaa nedeniyle açılan iptal davasında davacının hukukî yararı bulunup bulunmadığının tespiti bakımından tasarruf tarihinden önce alacağının bulunması ve işlemin de borcun doğumundan sonra mal kaçırmak amacıyla muvazaalı olarak yapıldığının ve üçüncü şahıs davalının da borçlunun bu amacını bilerek taşınmazı devraldığının kanıtlanması gerekmektedir. Mahkemece davalının ödemeye ilişkin savunması üzerinde durularak davacıların miras bırakanı Orhan Özatalay ile davalı ... ve dava dışı kiracı şirketin banka kayıtları ile ticarî defterleri üzerinde bilirkişi incelemesi yaptırılıp dava konusu satış işleminin yapıldığını 19.08.2008 tarihine kadar ödenmemiş kira borcu bulunup bulunmadığı hususunda rapor alınması tasarruf tarihine kadar ödenmemiş kira borcu yok ise davanın reddine karar verilmelidir.
@@ -39,16 +43,22 @@ Asliye Hukuk Mahkemesinin 2005/164 Esas sayılı dosyası ile açılan davada pa
 
 ## Yargıtay 8. HD 2025/5948 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184441200)
+
 Bir başka anlatımla, kesin hüküm olarak kabul edilen ilk dosyanın terekeye karşı açılan bir dava olmadığı, böyle bir davada diğer mirasçılar taraf olmadığı için verilecek hüküm o kişiler aleyhlerine kesin hüküm teşkil etmeyecektir. Yine tescil davasında, ... mirasçılarının taraf olarak yer almadığı dikkate alındığında, eldeki bu dava bakımından maddi anlamda kesin hükmün varlığından söz etme imkânı da bulunmamaktadır. Öte yandan, eldeki davada Mahkemece, ... terekesinin taksim edilip edilmediği konusunda hüküm vermeye yeterli inceleme ve araştırma yapıldığından bahsedilmesi de mümkün değildir. Kadastro Kanunu’nun 15. maddesinin 3. fıkrası hükmüne göre, iştirak hâlinde mülkiyet hükümlerinin söz konusu olduğu hâllerde, iştirakçilerden biri veya birkaçının belirli bir taşınmaz maldaki hissesinin diğer iştirakçilere devir ve temliki; tapulu taşınmaz mallarda yazılı, tapusuzlarda ise her türlü delille ispat edilebilir.
 Bu hüküm uyarınca yazılılık kuralı, geçerlilik ve ispat açısından yalnızca tapulu taşınmazlarla sınırlı tutulmuş, tapusuz taşınmazların iştirakçilerden bir diğerine devir ve temliki söz konusu olduğunda bu devir ve temlik işleminin yazılı yapılması zorunluluğu bulunmadığı, böylece hisse devir ve temlikinin her türlü (yazılı belge, tanık, bilirkişi vb.) delil ile ispatının mümkün olduğu bildirilmiştir (Özmen, İ./Çorbalı, H.: 3402 sayılı Kadastro Kanunu Şerhi, ... 1995, s. 611; Çağlar N./Yılmaz, N.F./Arıbaş, A.: 3402 Sayılı Kadastro Yasası Açıklaması ve Uygulaması, 1988, s.387).
 
 ## Yargıtay 7. HD 2025/2369 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168399500)
 
 Dava konusu eski 15 parsel (yeni 1072 ada 83 parsel) sayılı taşınmaza yönelik temyiz itirazlarına gelince; dava konusu eski 15 parsel (yeni 1072 ada 83 parsel) sayılı taşınmazın tapu kayıt maliki ... (... oğlu) mirasçılarından ..., ... (... oğlu)’nun davada taraf olarak yer almadığı, ayrıca tapu kayıt maliki ...’ında davada taraf olarak yer almadığı anlaşıldığından; adı geçen paydaşlar sağ ise kendilerinin, ölü iseler ilgilisinden mirasçılık belgesi alınarak mirasçıları usulüne uygun olarak davaya dahil edildikten sonra işin esası hakkında karar verilmesi gerekirken, Mahkemece taraf teşkili sağlanmaksızın, yazılı şekilde hüküm kurulması doğru görülmemiş, …
 
 Dava konusu eski 598 parsel (yeni 2199 ada 135 parsel) sayılı taşınmaza yönelik temyiz itirazlarına gelince; dava konusu eski 598 parsel (yeni 2199 ada 135 parsel) sayılı taşınmazın öncesinde tam hisse ile muris ... ... adına kayıtlı iken yargılama sırasında 18.12.2017 tarihli satış işlemi ile tam hissenin Yakup Metli tarafından satın alındığı, davacının payının kalmadığı anlaşıldığından taşınmazın satılmasında hukuki yarar bulunmadığından, hukuki yarar yokluğundan davanın reddine karar verilmesi gerekirken, Mahkemece yazılı şekilde hüküm kurulması doğru görülmemiş, kararın bu sebeplerle bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2024/5707 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113083200)
 
 11\. 4721 sayılı Türk Medeni Kanunu’nun 598 inci maddesinde başvurusu üzerine yasal mirasçı oldukları belirlenenlere, Sulh Mahkemesince mirasçılık sıfatlarını gösteren bir belge verileceği açıklanmıştır. Mirasçılık belgesi, aksi ispat edilinceye kadar, adına düzenlenmiş bulunan kişi ve kişilerin mirasçılığı lehine bir karine oluşturur. Bu belge; miras bırakan ile mirasçıları arasındaki irs (soy) ilişkisini göstermesi yanında mirasın (terekenin) mirasçılara intikalini de sağlayıcı bir işleve sahiptir. 4721 sayılı Kanun'un 17 nci maddesi uyarınca, miras hükümleri, mirasçılık ve mirasın geçişi miras bırakanın ölüm tarihinde yürürlükte bulunan hükümlere göre belirlenir.
 
@@ -58,11 +68,15 @@ Mirasçılık belgesinin iptali davalarında ise, mirasçılar arasında zorunlu
 
 ## Yargıtay 11. HD 2024/2250 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1051320800)
+
 Petrol Limited Şirketinin müdürlüğüne seçilmesi ve şirketi münferit imza ile temsil ve ilzama yetkili kılınmasına ilişkin 21.03.2011 tarih ve 2011/01 sayılı ortaklar kurulu kararındaki imzanın muris tarafından değil ... tarafından atıldığının anlaşılması nedeniyle yoklukla malul olduğu kanaatine varıldığı,06.04.2012 tarih 2012/02 no.lu karar bakımından yapılan incelemede muris ...'nun davalı ... Karamahmutoğlu Petrol Ltd. Şti.'nde bulunan 735.000,00 TL'lik hissenin 405.000,00 TL'lik kısmını 29.06.2010 tarihli noterde düzenlenen hisse devir sözleşmesi ile ...'na devrettiği, bu devrin onaylanmasına ilişkin dava konusu 06.04.2012 tarih ve 2012/2 no.lu ortaklar kurul kararındaki imza bölümünün yine 06.04.2012 tarih ve 2012/1 numaralı kararın imza bölümünden kesilerek yapıştırıldığı iddia edilmiş ise de Küçükçekmece 22.
 Asliye Ceza Mahkemesinin 2016/551 E. sayılı dosyasında kararın aslının imza incelemesi için davalı tarafından sunulmaması nedeniyle davalının delil yetersizliği nedeniyle beraatine karar verildiği, söz konusu hisse devrinin onaylanması kararıyla ilgili davacılar tarafından daha önce 2.Asliye Ticaret Mahkemesinin 2012/475 E. sayılı dosyasıyla açtıkları davanın reddine karar verildiği, 06.04.2012 tarih ve 2012/02 sayılı ortaklar kurulu kararının sahteliğinin ispatlanmasının mümkün olmadığı, sahte oluşturulduğu kabul edilse dahi kararın dayanağı noter hisse devir anlaşmasındaki imza murise ait olup yaşı itibarıyla devir sözleşmesi tarihinde murisin fiil ehliyetini haiz olduğu, bir şirket ortağının diğer ortağa hisse devrinde ortaklık hakkının devrinin hisse satın alma tarihinde gerçekleşeceği, alınacak ortaklar kurulu kararının açıklayıcı nitelikte olacağı, murisin sağlığında gerçekleşen hisse devri ve sonrasında alınan ortaklar kurulu kararının muris tarafından yokluğunun talep edilmemiş olması nedeniyle ölümünden sonra yoklukla malul olduğunun talep edilmesinde hukuki yarar olmadığı, davacı ...'nun 21.03.2011 tarih ve 2011/01 sayılı ortaklar kurulu kararı için aynı sebeple birleşen
 davayı açtığı anlaşıldığından asıl dava nedeniyle derdestlik söz konusu olduğu, asıl dosyada yönetici sorumluluğu yönünden zarar gören ortak değil, şirket olduğundan davacının tazminatın doğrudan kendisine ödenmesini isteyemeyeceği, dolaylı zarar nedeniyle tazminat talebinin şirkete yöneltilmesinin mümkün olmadığı gerekçesiyle asıl davanın kısmen kabulü ile davalı şirket ... Petrol Ltd. Şti.'nin 21.03.2011 tarih ve 2011/01 sayılı ortaklar kurulu kararının yok hükmünde olduğunun tespitine, 06.04.2012 tarih ve 2012/02 sayılı ortaklar kurulu kararları yönünden davanın reddine, davalı ...'na karşı açılan davanın dolaylı zararın ancak şirkete ödenmesi istenebileceğinden reddine, davalı ... Karamahmutoğlu Petrol Enerji Turizm İnşaat Nakliyat San. ve Tic. Ltd. Şti. yönünden pasif husumet yokluğu nedeniyle davanın reddine, birleşen davanın kısmen kabulu ile birleşen davacı ... yönünden davanın derdestlik nedeniyle usülden reddine, davacı ... yönünden birleşen davanın kabulü ile davalı şirket ... Petrol Ltd. Şti.'nin 21.03.2011 tarih ve 2011/01 sayılı ortaklar kurulu kararının yok hükmünde olduğunun tespitine karar verilmiştir.
 
 ## Yargıtay 1. HD 2024/2095 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064433200)
 
 Dava, ehliyetsizlik ve vekalet görevinin kötüye kullanılması hukuki sebeplerine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -72,6 +86,8 @@ Yukarıda yazılı maddi ve hukuki olgular ışığında; davacıların, muhteme
 
 ## Yargıtay 1. HD 2024/2062 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064431000)
+
 Mahkemece ilk hükümde davalı ... adına kayıtlı 6742 parsel sayılı taşınmaz yönünden davanın kabulüne, 5829 ve 5831 parsel sayılı taşınmazlar yönünden ise davanın reddine karar verilmiş, kararın davacılar vekili ve davalı ... vekili tarafından temyizi üzerine, Dairece;
 6742 parsel sayılı taşınmaz yönünden karar onanmış, 5831 parsel sayılı taşınmazın ...’e yapılan temlikinin mirastan mal kaçırma amaçlı ve muvazaalı olduğunun sabit olduğu, ...’in de bu taşınmazı davalı ...’e satış suretiyle devrettiği, her ikisinin de mirasbırakanın çocukları olduğu, bu nedenle son kayıt maliki ...’in TMK’nin 1023 üncü maddesinin koruyuculuğundan yararlanamayacağı, bu taşınmaz yönünde davanın kabulüne karar verilmesi gerektiği, 5829 parsel sayılı taşınmaz yönünden ise davanın açıldığı 26.04.2006 tarihinde çekişme konusu taşınmazın üçüncü kişiye temlik edildiği, her ne kadar taşınmazın devrine ilişkin akit tablosundan işlem saati belli ise de davanın açılış saatinin belli olmadığı, bu durumda davanın açıldığı 26.4.2006 tarihinde hangi saatte açıldığının tespit edilmesi, yapılan tespit sonucunda taşınmazın temlikinin dava açıldığı saatten sonra gerçekleştiği belirlenir ise HUMK’un 186 ncı maddesi hükmünün uygulanması ve sonucuna göre işlem yapılması gereğine değinilerek bozulmuştur.
 Mahkemece, bozma sonrası yapılan yargılama sonucunda 5831 parsel sayılı taşınmaz yönünden davanın kabulüne, 5829 parsel sayılı taşımaz yönünden ise dava tarihinden önce üçüncü kişiye devredildiği gerekçesiyle davanın reddine karar verilmiştir. Kararın davacılar vekili ve davalı ... vekili tarafından temyizi üzerine, bu kez Dairece; 5831 parsel sayılı taşınmaz yönünden davanın kabulüne karar verilmesinde, 5829 parsel sayılı taşınmaz yönünden de davanın açıldığı saatin tespit edilemediği göz önüne göz önüne alınıp davadan önce üçüncü kişiye temlik edildiği benimsenerek bu taşınmaz bakımından tapu iptali ve tescil isteğinin reddedilmesinde kural olarak bir isabetsizlik bulunmadığı, ancak davacılarca, tapu iptali ve tescil, olmadığı takdirde tazminat isteğiyle eldeki davanın açıldığı, çekişmeli 5829 parsel sayılı taşınmaz bakımından tapu iptali ve tescile yönelik ilk istemin reddedildiği göz ardı edilerek davacıların terditli talepleri olan tazminat isteği üzerinde durulmaması ve bu konuda olumlu ya da olumsuz bir karar verilmemesinin doğru olmadığı belirtilerek karar bozulmuştur.
@@ -80,18 +96,26 @@ taşınmaz yönünden hukuki yarar yokluğu nedeniyle davanın usulden reddine k
 
 ## Yargıtay 2. HD 2024/746 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008778800)
+
 Dairenin 19.10.2021 tarihli kararı ile, her ne kadar davacı erkeğin mirasçılarının mirası reddetmeleri nedeniyle davalı kadının mirastan yoksun bırakılmasında hukuki yararları kalmadığından bahisle davanın reddine karar verilmiş ise de; mirasçıların kusur belirlemesi yönünden davayı takip etme haklarını ortadan kaldıran bir kanun hükmü bulunmadığı, bu durumda Mahkemece yargılama yapılarak sonucu uyarınca karar verilmesi gerekirken hukuki yarar yokluğundan davanın reddine karar verilmesinin hatalı olduğundan bahisle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/702 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015258000)
 
 İmkansızlık, baştaki imkansızlık ve sonraki imkansızlık olmak üzere ikiye ayrılmaktadır. Baştaki imkansızlık, 6098 sayılı TBK’nın 27. maddesine göre sözleşmenin kesin hükümsüzlüğüne sebep olurken sözleşmenin kurulmasından sonra ortaya çıkan sonraki imkansızlık ise edimin ifası esnasında meydana gelen kesin ve sürekli bir engel sebebiyle edimin imkansızlaşması anlamına gelmektedir (Fikret Eren, Borçlar Hukuku Genel Hükümler, Ankara, 2019, s.1163, 1164 ve 1165). Sonraki imkansızlık, ifa borçlusunun kusuru sebebiyle meydana gelebileceği gibi kusuru olmaksızın da meydana gelebilmektedir. Borçlunun kusuru olmaksızın sonraki imkansızlığın ortaya çıkması halinde TBK’nın 136. maddesinin 1. fıkrası gereği borç sona ermektedir. Öte yandan; sonraki imkansızlık borçlunun kusuru sebebiyle meydana gelmişse borç sona ermekle beraber TBK’nın 112. maddesine göre borca aykırılıktan dolayı borçlunun tazminat sorumluluğu gündeme gelecektir (Eren, s.1170, 1455 ve 1456).
 Somut olaya gelince; davaya konu ölünceye kadar bakma sözleşmesinin taraflarından olan davalıların murisi ...'nin davacının eylemi sebebiyle vefat etmesi sonucu sözleşme konusunu oluşturan borcun, sonraki kusurlu imkansızlık nedeniyle sona ermiş bulunduğu anlaşılmaktadır.
 
 ## Yargıtay 8. HD 2024/177 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017012700)
+
 Hükmü temyiz yetkisi, temyizde hukuki yararı bulunmak kaydıyla davanın taraflarına ve aleyhine hüküm kurulan üçüncü kişilere aittir. Somut olayda, İlk Derece Mahkemesince ... davalı olarak davaya dahil edilmiş ise de, çekişmeli taşınmazın tespit maliklerinden olan ...Çiçek'e ait dosya arasında bulunan veraset ilamından ...'in ...Çiçek mirasçısı olmadığının anlaşılmasına göre, hükmü temyizde hukuki yararı bulunmayan davalı ...'in hükme yönelik temyiz itirazları yerinde değildir.
 
 ## Yargıtay 8. HD 2023/6414 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980860500)
 
 Kanun'un 5 inci maddesi uyarınca Asliye Hukuk Mahkemesi'nde açılan dava nedeniyle malik hanesi boş bırakılarak tutanak aslı ve ekleri Kadastro Mahkemesine gönderilmiş ise de mahallinde yapılan keşif ve uygulamaya göre 349 ada 1 ... parselin Asliye Hukuk Mahkemesi'nde dava konusu edilen yerin dışında kaldığı ve öncesinin genel mahkemede dava konusu olmadığının ve Asliye Hukuk Mahkemesi'nde dava konusu olan yerin sadece 351 ada 1 parsel olduğunun anlaşıldığı; ...'ın bir kısım mirasçıları vekili, ..., ..., A...., ... ve ...'in istinaf talepleri yönünden ise, ... Asliye Hukuk Mahkemesi'nin 1951/345 Esas ve ... Asliye Hukuk Mahkemesi'nin 1972/201 Esas ... kararlarına dayanmış iseler de, bu kararların, Hazine taraf olmadığından kesin hüküm teşkil etmediği, aynı zamanda Ağustos 1309 yoklama ve 12 ile 13 sıra numaralı tapu kaydı ve tedavül tapu (08.05.1970 tarih ve 5 sıra nolu) kayıtlarına dayanmış iseler de, tapu kaydının yüzölçümünün 919,00 metrekare ve ağıl yeri tapusu olduğu, aynı tapu kaydına, Hazine'nin ve ... ile arkadaşlarının taraf olduğu, Yargıtay denetiminden geçerek kesinleşen ...
 Asliye Hukuk Mahkemesi'nin 1988/194 Esas, 1988/273 Karar ... dava dosyasında da dayanıldığı ve bu davada dayanılan bu tapu kaydının uygulanarak, cinsi, miktarı ve hudutları itibariyle dava konusu taşınmaza uymadığının belirlendiği, kesinleşen ilama konu edilen yere ilişkin hükme esas alınan kroki yöntemince uygulandığında, mera kabul edilerek ... ve diğerlerinin müdahalesinin menine karar verilen 1.316,8 dekarlık yerin dava konusu 351 ada 1 ... parseli aynen kapsadığının ve aynı yere ilişkin olduğunun, böylece davanın tarafı olan ..., ..., ..., ... ve Kasım Akdoğanlar yönünden, tapu kaydının taşınmaza uymadığının ve 351 ada 1 ... parselin mera olduğu yönündeki ...
@@ -101,17 +125,25 @@ nedenle kadastro tespit tutanağının olağan usullere göre kadastrosunun yap�
 
 ## Yargıtay 8. HD 2023/5822 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970355200)
+
 Yargıtay (Kapatılan) 16. Hukuk Dairesinin 21.10.2019 tarihli ve 2019/827 Esas, 2019/6532 Karar ... ilamı ile davacı ...'in 212 ada 9 parsel ... taşınmazın kadastro tespitine itiraz ettiği, Kadastro Mahkemesinde yapılan yargılama sırasında ...'in dava konusu taşınmazın, davacı ile müşterek murisleri olan ...'den geldiğini ileri sürerek taşınmazda... mirasçıları lehine kullanım şerhi verilmesi istemiyle davaya katıldığı, yapılan yargılama sonunda dava konusu taşınmazın, davacı ile müdahil davacı ...'in müşterek murisi olan ...'den geldiği ve murisin terekesinin mirasçıları tarafından yöntemince taksim edilmediği kabul edilmek suretiyle taşınmazda ... mirasçıları lehine kullanım şerhi verilmesine karar verildiği, kararın temyiz edilmeksizin kesinleştiği, Kadastro Mahkemesince verilen kararla davacı ... ile ... terekesi arasında kesin hüküm oluştuğu, bu halde kesin hüküm nedeniyle davanın reddine karar verilmesi gerektiğine işaret edilerek bozma kararı verilmiştir.
 
 ## Yargıtay 7. HD 2023/4951 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967726300)
 
 Bir hükmü kural olarak hukuksal yararı bulunmak şartıyla davanın tarafı olmasa dahi karar yerinde aleyhine hüküm oluşturan kişiler temyiz edebilir. Dairemizin 09.02.2023 tarih ve 2022/7000 Esas, 2023/752 Karar ... ilamında mirasçı ... ve mirasçı ... vekilinin temyiz itirazları açısından, dosyanın tarafı olmayan mirasçıların hükmü temyiz hakları bulunmadığından, temyiz dilekçelerinin reddine karar verilmiş ise de Mahkemece mirasın reddine yönelik talebin usulden reddine dair verilen karardan, diğer mirasçılar olan temyiz edenlerin doğrudan mirasçılık durumları etkileneceği kuşkusuz olduğundan hukuki yararları bulunduğu açıktır. Dolayısıyla dosyada taraf sıfatları bulunmasa da verilen kararı temyiz etmekte hukuki yararları bulunduğundan mirasçı ... ve ... vekili maddi hata talepleri yönünden incelenmesi sonucu, maddi hata talebinin kabulü ile, Dairemizin 09.02.2023 tarih ve 2022/7000 Esas, 2023/752 Karar ... temyiz dilekçesinin reddine yönelik kararın kaldırılmasına karar verilerek, mirasçı ... ve ... vekili ile katılma yoluyla temyiz eden davacı ...'nun temyiz sebepleri yönünden incelemeye geçilmiştir.
 
 ## Yargıtay 7. HD 2023/4536 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981344600)
+
 Yargıtay 1. Hukuk Dairesinin 04.03.2020 tarih ve 2016/16536 Esas, 2020/1510 Karar ... ilamıyla "...6100 ... Hukuk Muhakemeleri Kanunu'nun 303. maddesinde düzenlendiği üzere maddi anlamda kesin hükümden söz edilebilmesi; diğer bir anlatımla yeni açılan bir davaya karşı o davanın daha önce kesin hükme bağlanmış olduğunun söylenebilmesi için, her iki davanın taraflarının, dava sebeplerinin ve ilk davanın hüküm fıkrası ile ikinci davaya ait talep sonucunun aynı olması gerekir. Somut olayda, Ankara 8. Asliye Hukuk Mahkemesinin 2015/272 Esas, 2015/433 Karar ... vasiyetnamenin iptali davasının eldeki dava ile konusunun farklı olması nedeniyle eldeki davada kesin hüküm teşkil etmeyeceği açıktır. Hal böyle olunca, davacının tenkis isteği yönünden yukarıda açıklanan ilkeler kapsamında araştırma ve incelemenin yapılması, sonucuna göre bir karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde hüküm tesisi doğru değildir..." şeklindeki gerekçeyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 1. HD 2023/3000 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/938357100)
 
 Kadastro Mahkemesi kararının eldeki dava bakımından kesin hüküm oluşturmadığı, davacı tarafın iddiasını ispatladığı, taşınmazın çaylık vasfında olup mezarlık vasfında olmadığı, davacıların murisi Hasan Birkan lehine zilyetlikle kazanım koşullarının gerçekleştiği bu sebeple kabul kararı verilmesinde bir isabetsizlik bulunmadığı gerekçesiyle, davalı ... vekilinin istinaf başvurusunun esastan reddine, taşınmazın ... Köyü Tüzel Kişiliği adına tapuda kayıtlı iken yargılama devam ederken 07.07.2020 tarihinde gerçekleşen tashihen devir işlemiyle ... Büyükşehir Belediye Başkanlığına tapuda devredildiği dolayısıyla ... tapu maliki yada söz konusu taşınmazı tahsisen devir alan konumunda olmadığı bu sebeple tüm davalılar yönünden davanın kabulüne karar verilmesinin isabetsiz olduğu gerekçesiyle, ... vekilinin istinaf başvurusunun kabulüne, İlk Derece Mahkeme kararının kaldırılarak davalı ... aleyhine açılan davanın pasif husumet yokluğu nedeniyle reddine, davalı ... aleyhine açılan davanın kabulüne, çekişmeli taşınmazın tapu kaydının iptali ile davacılar adına miras payları oranında tapuya tesciline karar verilmiştir.
 
@@ -121,10 +153,14 @@ Dava, kadastro öncesi nedene dayalı olarak açılan tapu iptali ve tescil iste
 
 ## Yargıtay 1. HD 2023/514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919694700)
+
 111 ada 1 ve 120 ada 3 parsel sayılı taşınmazlara ilişkin miras yoluyla gelen hakka dayanılarak açılan tapu iptali ve tescil davası olduğu, davacının Mahkemeye sunduğu 27.09.2018 tarihli dilekçeyle davadan feragat ettiğini bildirdiği, Mahkemenin 28.09.2018 tarih ve 2018/405 Karar sayılı kararıyla davanın feragat nedeniyle reddine karar verildiği, kararın taraflarca temyiz edilmeksizin 26.10.2018 tarihinde kesinleştiğinin görüldüğü, somut olayda Mahkemece, Borçka Asliye Hukuk Mahkemesi'nin 2018/60 Esas, 2018/405 Karar sayılı kararının, eldeki dava açısından kesin hüküm oluşturduğu ve önceki dosyadaki feragat beyanında irade fesadı bulunduğunun davacı tarafça ispatlanamadığı gerekçesiyle davanın kesin hüküm nedeniyle reddine karar verilmiş ise de, eldeki davada davalı konumunda bulunan davalı ...'ın önceki dosyada taraf olarak yer almadığı, dolayısıyla davalı ... adına kayıtlı 104 ada 11, 107 ada 15 ve 17, 109 ada 1 ve 12 parsel sayılı taşınmazlar yönüyle, önceki davanın eldeki dava yönüyle kesin hüküm oluşturmadığının açık olduğu, davalı ... adına kayıtlı 111 ada 7 parsel sayılı taşınmazın da önceki davada dava konusu edilmediği, bu parsel yönüyle de kesin hüküm oluşmadığı, dava
 konusu diğer parsellere ilişkin olarak yapılan incelemede ise, önceki davanın tarafları, konusu ve dava sebepleri ile eldeki dosyanın tarafları, konusu ve dava sebeplerinin aynı olduğu, HMK'nın 311. maddesi gereğince feragat beyanının kesin hükmün bütün hukuki sonuçlarını doğurduğu, önceki davada feragat beyanına ilişkin irade fesadı halleri (hata-hile-ikrah) bulunduğunun davacı tarafça somut olarak ispatlanamadığı, dolayısıyla yukarıda belirtilen parseller haricindeki, dava konusu diğer parsellere ilişkin olarak verilen, davanın kesin hüküm nedeniyle reddine ilişkin kararda herhangi bir isabetsizlik bulunmadığı, diğer yandan, miras yoluyla intikal edip, iştirak halinde mülkiyet hükümlerine tabi bulunan taşınmazlara ilişkin tüm tasarruf işlemlerinin, 4721 sayılı ...
 
 ## Yargıtay 7. HD 2022/6598 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880334700)
 
 Dava, muhdesatın tespiti ve tapu siciline şerh verilmesi istemine ilişkindir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2020/1187 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/601299600)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: İlk Derece Mahkemesi 17/06/2020 tarih ve 2020/76 Esas - 2020/259 Karar sayılı kararında; ".... Bir dava için birden fazla (genel ve özel) yetkili mahkeme varsa, davacı bu mahkemelerden birinde dava açmak hususunda seçimlik hakka sahiptir.
 
 …
@@ -34,6 +36,8 @@ Sonuç itibariyle, dosyadaki yazılara, kararın dayandığı delillerle gerekti
 HÜKÜM: Yukarıda açıklanan nedenlerle; Davalının istinaf başvurusunun KABULÜ ile; 1-İstanbul 11. Asliye Ticaret Mahkemesi'nin 17/06/2020 tarih ve 2020/76 Esas - 2020/259 Karar sayılı kararının HMK' nın 353/1-a4 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 13. HD 2020/1161 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600590400)
 
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ: İlk Derece Mahkemesinin 12/03/2019 tarih ve 2018/51 Esas - 2019/307 Karar sayılı kararı ile; " Davaya Bakırköy .... İcra Dairesi'nin ...
 
@@ -55,6 +59,8 @@ HÜKÜM : Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 
 
 ## İstanbul BAM 12. HD 2020/1088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/607644700)
+
 İLK DERECE MAHKEMESİ KARARI:Mahkemece; taraflarca imzalanan ''14/11/2018 tarihli Parsiyel Tır Nakliye Anlaşması''nın 15. maddesinde 'Anlaşmazlık halinde T.C. İstanbul Mahkemeleri yetkilidir.' hükmüne yer verildiği, anılan tır nakliye anlaşmasının 15. maddesi ile davanın tarafı olan tacirler aralarında yetki sözleşmesi yapıldığı, taraflar tacir olduğundan yetkili mahkeme de açıkça belirtildiğinden yapılan yetki sözleşmesinin geçerli olduğu, yetki sözleşmesi ile İstanbul Mahkemeleri yetkili olarak tayin edildiği gerekçesiyle mahkemenin yetkisizliğine,karar kesinleştiğinde talep halinde dosyanın yetkili mahkemeye gönderilmesine karar verilmiştir.
 
 …
@@ -71,6 +77,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle: Taraf vekillerinin istinaf başvurusu
 
 ## İstanbul BAM 17. HD 2020/1075 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/581574400)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece, davacının adresinin Gaziosmanpaşa/ İstanbul ve davalının adresinin Esenyurt/İstanbul olduğu, tebligatların bu adreslerde tamamlandığı görülmüş olup takipte yetkili icra daireleri davalının adresi itibariyle Bakırköy, davacının adresi itibari ile Gaziosmanpaşa İcra daireleri olduğu, ilamsız icra takibinin yetkisiz İstanbul icra dairesinde başlatılması nedeniyle davalı borçlu hakkında usulüne uygun yetkili icra dairesinde başlatılmış bir takip bulunmadığından ve bu husus İİK'nın 67. maddesi kapsamında açılacak itirazın iptali davalarında dava şartı olduğundan davanın HMK 114/2 ve 115. mad gereğince dava şartı yokluğundan usulden reddine karar verilmiştir.
 
 …
@@ -83,6 +91,8 @@ Dolayısıyla takip, davacının seçimine göre, hem genel ve hem de özel yetk
 Her ne kadar mahkemenin, davalının yerleşim yeri olan Esenyurt İlçesinin, Bakırköy Adli Yargı çevresi içerisinde kaldığı yönündeki tespiti hatalı ise de bu husus karara etkili olmadığı gözetilerek bu yanlışlığa işaret etmekle yetinilmiştir. Diğer yandan, somut olayda olduğu gibi, borçluların icra dairesinin yetkisine ve borca itirazı olursa, birçok Yargıtay ilamında ve yargı kararlarında ifade edildiği üzere, mahkemenin öncelikle icra dairesinin yetkisini incelemesi gerekir. İcra takibi yetkisiz yerde başlatılmış ve yetkiye itiraz edilmişse, itirazın iptali davası dinlenemez. Çünkü, itirazın iptali davasının şartlarından birisi geçerli bir icra takibinin yapılmış olmasıdır. Bu durum yetkili yer icra dairesinde takip başlatmış olmayı, özel yasada düzenlenen dava şartları arasında göstermektedir. Genel düzenleme kapsamında, davacı alacaklının yetkili yer icra dairesinde takip başlattığından söz etmek mümkün olmayacağından davacı vekilinin buna ilişkin istinaf nedenleri yerinde değildir. Mahkeme gerekçesinde ifade edildiği üzere, davacı tarafça, TBK 89. maddesi gereğince ne davacının yerleşim yerinde, ne genel yetkili yerde icra takibi başlatılmamıştır.
 
 ## İstanbul BAM 17. HD 2020/1033 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579302800)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece, davalının cevap süresinde adresi olan Çorlu Mahkemelerinin yetkili olduğunu belirtmişse de, yetki ilk itirazında bulunduğu, taraflar arasındaki yetki sözleşmesi gereğince davada İstanbul Asliye Ticaret Mahkemelerinin yetkili olduğu gerekçesiyle davanın dava şartı yokluğu nedeniyle usulden reddine, mahkemenin yetkisizliğine, süresinde başvurulması halinde dosyanın yetkili İstanbul Asliye Ticaret Mahkemesi'ne gönderilmesine karar verilmiştir.
 
@@ -99,6 +109,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davalı tarafın isti
 
 ## İstanbul BAM 17. HD 2020/1018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580067500)
+
 Dava, “ Danışmanlık Hizmet Sözleşmesi “ kapsamında fatura alacağının tahsili amacı ile başlatılan icra takibine karşı itirazın iptali davasıdır.
 
 …
@@ -107,6 +119,8 @@ Dava, “ Danışmanlık Hizmet Sözleşmesi “ kapsamında fatura alacağını
 Kaldı ki İtirazın iptali davasını görme yetkisi, takibin yapıldığı yer mahkemesine aittir. İcra dairesinin yetkisine yapılan itiraz üzerine, yapılan inceleme sonucunda, mahkeme, kendisinin de yetkili olup olmadığını belirlemiş olacaktır. (Saim Üstündağ, İcra Hukukunun esasları, İstanbul 1995,6. baskı sayfa ;101-102).( YHGK ‘nun 20.03.2002 tarihli, 2002/13-241 Esas, 2002/208 Karar). 2004 sayılı İcra ve İflas Kanunun 50. maddesinde ise, yetki ve itirazları düzenlenmiştir. İlk fıkrada, para veya teminat borcu için takip hukukunda Hukuk Usulü Muhakemeleri Kanunun yetkiye dair hükümlerinin kıyas yoluyla tatbik olunacağı ifade edilmiştir. Davacının icra dairesinin yetkisine karşı ileri sürmüş olduğu istinaf nedenlerinin yerinde olmadığı kanaatine varılmıştır.
 
 ## İstanbul BAM 12. HD 2020/864 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593076100)
 
 İLK DERECE MAHKEMESİ KARARI: Mahkemece, genel yetki kuralları gereği takibin, Çorlu İcra dairelerinde yapılması gerekirken Anadolu İcra Müdürlüklerinde başlatıldığı, bu durumda icra takibinin yetkili yer icra dairesinde yapılmayarak itirazın iptaline dair dava şartının yerine getirilmemiş olduğu, 6100 sayılı yasanın 114/2 maddesinde düzenlenen yasal düzenleme de göz önünde bulundurularak aynı yasanın 115. Maddesi uyarınca davanın dava şartı yokluğu sebebiyle usulden reddine karar verilmiştir.
 
@@ -123,6 +137,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunu
 …
 
 ## İstanbul BAM 13. HD 2020/722 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585612500)
 
 Davalı vekili cevap dilekçesi ile, husumet itirazlarının olduğunu,davalı olarak .... şirketinin gösterilmesi gerektiğini, bu davayı görmekte yetkili ve görevli olmadığını,Alman Mahkemelerinin yetkili olduğunu,Türk Mahkemelerinin yetkili olmadığını,davaya konu idda edilen alacağın zamanaşımına uğradığını, Alman kanunlarının Türkiye'de uygulanmasının mümkün olmadığını, davacı tarafın ... olduğunu iddia ettikleri alacaklarını hukuka aykırı olarak davalıdan tahsil etmeye çalıştıklarını belirterek davanın reddine karar verilmesi gerektiğini savunmuştur.
 
@@ -142,6 +158,8 @@ Hele hele Avrupa Birliği üyesi olan Federal Almanya'da kurulu ticari şirket i
 HÜKÜM : Yukarıda açıklanan nedenlerle; Davacının istinaf başvurusunun KABULÜ ile; 1-İstanbul 2. Asliye Ticaret Mahkemesi' nin 19/12/2019 tarih ve 2019/406 Esas - 2019/945 Karar sayılı kararının HMK'nın 353/1-a3 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 13. HD 2020/684 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585588700)
 
 Dava itirazın iptali davasıdır.
 

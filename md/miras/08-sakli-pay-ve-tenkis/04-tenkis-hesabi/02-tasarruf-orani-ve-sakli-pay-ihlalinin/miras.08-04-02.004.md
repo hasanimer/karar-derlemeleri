@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2013/18194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/262239800)
+
 Dava, tenkis isteğine ilişkin olup, Mahkemece, davanın kabulüne karar verilmiştir.
 
 …
@@ -35,15 +37,21 @@ Tenkis davasının miras bırakanın ölüm tarihi olan 01.01.2001 tarihinden so
 
 ## Yargıtay 2. HD 2013/14512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83565800)
+
 Mirasbırakan vesiyetnamesinde iskat sebebini açıklamıştır. Davalılar ıskat sebebinin doğruluğunu kanıtlayamamışlardır. Gerçekleşen bu durum karşısında Türk Medeni Kanununun 512/3. maddesi uyarınca mirastan iskatın mirasbırakanın tasarruf nisabı oranında geçerli olacağı, başka bir ifade ile davacının saklı payını isteyebileceği düşünülmeden vasiyetnamenin tümden iptaline karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2013/13983 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83500400)
 
 1-743 sayılı Medeni Kanunun 457. maddesi, mirasbırakana veya yakınlarına karşı ağır bir cürüm işlenmesi ya da mirasbırakana veya ailesine karşı kanunen yükümlü olduğu görevini yerine getirmekte büyük ölçüde kusurlu davranması halinde saklı paylı mirasçının mirasçılıktan çıkarılabileceğini 459. maddesi ise çıkarmanın geçerli olabilmesi için mirasbırakan tarafından çıkarmayı öngören, ölüme bağlı tasarrufta çıkarma (ıskat) sebebinin açıklanması gerekeceğini, çıkarılanın itirazı üzerine çıkarma sebebi olarak yazılan hususun doğruluğunun ispat yükünün, çıkarmadan yararlanan mirasçıya veya yararına vasiyet yapılana düşeceğini, ıskat için delil gösterilmemiş ya da ıskatın sebebi açıklanmamış veya ölen çıkarma sebebi hakkında açık bir yanılgıya düşmemişse, mirasbırakanın arzusu tasarruf nisabı içinde yerine getirileceğini öngörmüştür. Tarafların iddialarını ispat yönünden de herhangi bir delil sınırlaması öngörülmemiştir.
 
 Mirasbırakan R... K... 11.06.1981 tarihli vasiyetnamesinde oğlu olan davacı M... K..'yı mirasından çıkarmıştır (Iskat etmiştir). Miras bırakan çıkarma sebebini vasiyetnamesinde göstermiştir. Davalılardan B... ve arkadaşları vekilleri aracılığı ile 743 sayılı Medeni Kanunun 457/1. ve 2. maddeleri anlamında çıkarma sebeplerinin varlığını ispat etmek için yasal süresi içinde tanık deliline dayanmış ve tanıklara ilişkin bilgileri mahkemeye sunmuş, yargılama süresince de tanıklarının dinlenmelerini talep etmişlerdir. Mahkemece davacı tarafın tanıkları dinlendikten sonra dosya kapsamına göre davalıların tanıklarının sonuca etkili olamayacağı gerekçesiyle dinlenme istekleri reddedilerek davalıların delilleri toplanmadan eksik inceleme ve araştırma ile hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2013/11397 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79770400)
 
 Dava, vasıyetnamenin iptali ve tenkis isteğine ilişkindir.
 
@@ -55,6 +63,8 @@ MK 560. maddesi gereği saklı paylarının karşılığını alamayan mirascıl
 
 ## Yargıtay 1. HD 2013/11070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/249463100)
+
 Dava, vasiyetnamenin tenkisi isteğine ilişkindir.
 
 …
@@ -63,11 +73,15 @@ Gerçekten de, tenkisi istenen vasiyetnamenin iptali için davacı tarafından 3
 
 ## Yargıtay 1. HD 2013/9137 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79723700)
+
 Öte yandan, ölüme bağlı tasarruflar ile Medeni Kanunun 565. maddesinin 1, 2 ve 3 bentlerinde gösterilen tasarrufların mutlak olarak tenkise tabi olacağı düzenlenmiş ise de; bunlar dışındaki tasarrufların tenkisi için yapılan işlemde saklı payı ihlal kastının varlığı kesin olarak kanıtlanmalıdır. Keza, Türk Medeni Kanununun 565/3. maddesi; mirasbırakanın ölümünden bir yıl öncesinde yaptığı bağışlamalarının saklı pay kurallarını gidermek amacıyla yapıldığının ispat edilmesi halinde tenkise tabi tutulacağını hükme bağlamıştır. Somut olayda, davalı E..e yapılan bağış bu yasa maddesi çerçevesinde değerlendirildiğinde, anılan bağışın 1998 yılında yapıldığı, miras bırakanın o tarihte davacı eşi ile birlikte oturduğu, eşi ve çocukları ile arasında herhangi bir sorununun bulunmadığı, bağış işleminin saklı payını gidermek amacıyla yapıldığını davacının kanıtlayamadığı gibi, murisin ekonomik durumunun zayıf olduğunu düşündüğü oğluna destek olmak amacıyla temliki yaptığı anlaşılmaktadır.
 
 Diğer yandan, miras bırakanın ölümünden iki yıl kadar önce kızı N..e yaptığı satış sırasında ise, kanser hastası olduğu, evinde sürekli bir bakıcının bulunduğu,davacı eşin o tarihte ayrı yaşadığı ve ekonomik bir desteğinin bulunmadığı, bu nedenle murisin paraya ihtiyacının olduğu, davalı N..in eşinin ise çiftçilik yapması nedeniyle tarla niteliğindeki taşınmazı satın aldığı, bu temlikte de miras bırakanın saklı payı zedeleme kastı ile hareket ettiğinin kanıtlanamadığı anlaşılmaktadır.
 
 ## Yargıtay 1. HD 2013/8362 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/250731400)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -77,6 +91,8 @@ Ancak; miras bırakanın ölüm tarihi itibariyle yürürlükte bulunan 4721 Say
 
 ## Yargıtay 1. HD 2013/7657 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79720200)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal tescil ve tenkis isteklerine ilişkindir.
 
 …
@@ -85,9 +101,13 @@ Bilindiği üzere, Türk Medeni Kanunu'nun 571. maddesi uyarınca “Tenkis dava
 
 ## Yargıtay 1. HD 2013/7654 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/251829300)
+
 Dava ve karşı davada ileri sürülen iddialar bakımından, mirasbırakan tarafından yapılan bir taşınmaz mal temliki bulunmadığına göre, muris muvazaasına dayalı olarak tapu iptal ve tescil talep edilemeyeceği gibi olayda 1.4.1974 tarih ve 1/2 sayılı İçtihadı Birleştirme Kararının da uygulama yeri bulmadığına, ayrıca tenkis talepleri bakımından ise, davacı ... ile karşı davacı ...'nın saklı paylarına tecavüz saptanmadığından mahkemece asıl dava ve karşı davanın reddi doğru olduğuna göre; davacı ve davalı ...'nın temyiz itirazı yerinde değildir.
 
 ## Yargıtay 1. HD 2013/5486 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79664900)
 
 Dava, ihlal edilen saklı payların tenkisi isteğine ilişkindir.
 
@@ -99,14 +119,20 @@ Davalının temyiz itirazlarının incelenmesine gelince; davalı murisin alt so
 
 ## Yargıtay 20. HD 2013/5203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/531165100)
+
 Tapuda kayıtlı olmayan taşınmazların satışı menkul satışına ilişkin hükümlere tabidir. Satış adi senetle olabileceği gibi, bir şekil şartı bulunmadığından sözlü de olabilir. Menkullerde satışın tamamlanması satılanın teslimi ile mümkündür. Ancak; ispat konusu farklı bir konu olup, genel ispat kuralları bu konuda da geçerlidir. Medenî Kanunun mirasa ilişkin hükümlerine göre, kişiler bıraktıkları mirasın ancak belli bir miktarı üzerinde tasarruf yetkileri bulunup, bu miktarın aşılması halinde, tasarruflarının iptaline ve işlemin tenkisine karar verilebilecektir. Yerleşik Yargıtay uygulamaları ile usûl tarafından füru ya yapılan satışlarda asıl niyetin satış değil bağış olduğu kabul edilmektedir. Menkullerin bağışı da bir sıhhat şekline tabi olmayıp, karşılıklı irade beyanları ve teslim ile gerçekleşmektedir.
 Somut olayda çekişmeli taşınmazların miras bırakan ... tarafından davalılar ... ve ...'ya satıldığı konusunda uyuşmazlık bulunmadığına, tapu kaydı bulunmayan bu taşınmazların satışında gerçek niyet bağış olmasına rağmen, gerçekte ve görünen işlemden her hangi biri şekle tabi olmadığına ve böyle bir şekle riayetsizlik söz konusu olmayacağına göre, asıl gerçekleştirilmek istenen bağış sözleşmesinin ayakta tutulması mümkündür. Ancak, yapılan bağış, diğer mirasçıların mahfuz hissesini aşmamalı, başka deyişle murisin tasarruf nisabı içinde bulunmalıdır. Bu konular yenilik doğrucu bir hakkın kullanımına ilişkin olup, kadastro mahkemesi bu tür haklara ulaşmak için açılan davalarda görevli olmadığından, davacı gerçek kişinin tasarruf nisabının aşıldığı iddiasını da içeren davasında görevsizliğe ve sözü edilen bu parsellerin tesbit gibi tapuya tesciline karar verilmesi gerekirken, eksik incelemeyle bu parsellere ilişkin tesbitin iptaline ve tüm mirasçılar adına tescile ilişkin yerel mahkeme kararı kanuna aykırı olduğu gibi, bu kararın onanmasına ilişkin daire onama kararı da doğru değildir.
 
 ## Yargıtay 2. HD 2013/4369 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83091300)
+
 Çıkartma işleminin geçersiz olması veya gösterilen sebeplerin çıkarmayı haklı kılacak ağırlıkta bulunmaması hallerinde, mirasbırakanın iradesiyle yapmış olduğu çıkarma işleminin mirasbırakanın tasarruf nisabı oranında geçerli olacağı, böyle bir durumda, davacı mirasçının saklı payı gözönüne alınarak, bu yönde hesaplama yapılması gerekirken (TMK.md.512/3); çıkarmaya ilişkin tasarrufun tamamen iptaline karar verilmesi de doğru olmamıştır.
 
 ## Yargıtay 1. HD 2013/3236 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79628000)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı taktirde tenkis isteğine ilişkin olup, mahkemece, davanın hak düşürücü süre nedeniyle reddine karar verilmiştir.
 
@@ -118,6 +144,8 @@ Somut olayda, davacıların mirasçı olmalarına vakıf (muttali) oldukları ta
 
 ## Yargıtay 1. HD 2013/2117 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79476900)
+
 Dava, muris muvazaası hukuksal nedenine davalı tapu iptali ve tescil, olmadığı taktirde tenkis isteğine ilişkindir.
 
 …
@@ -126,16 +154,22 @@ Bilindiği üzere, saklı paylarının karşılığını alamayan mirasçılar, 
 
 ## Yargıtay 2. HD 2012/24476 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82968000)
+
 Dairemizin bozma ilamında, 743 sayılı Türk Kanunu Medenisinin 459/2. maddesi uyarınca tasarruf nisabı miktarında iptalin geçerli olduğu belirtildiği ve bu nedenle davacının saklı payı oranında vasiyetnamenin iptaline karar verileceği açıklandığı halde; mahkemece uyulmasına karar verilen bozma ilamına aykırı olarak, davacının vasiyetnamenin iptali talebinin reddine, davacının 3/32 saklı pay oranında mirasçı olduğunun tespitine şeklinde hüküm kurulması usul ve yasaya aykırı olmuş; bozmayı gerektirmiştir.
 
 Kabule göre de mirasbırakanın 13.10.1999 tarihinde ölmesi nedeniyle mirasçının saklı payının (mahfuz hissesinin) hesabında o tarihte yürürlükte olan 743 sayılı Türk Kanunu Medenisinin 453/1. maddesinin uygulanması, böylece davacının saklı payının kanuni miras payının dörtte üçü olduğu halde; saklı payının, kanuni miras payının yarısı olarak kabulü de doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2012/23076 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/491401900)
+
 Miras bırakan 1338 doğumlu olup, vasiyetnamenin düzenlendiği 1999 tarihinde 77 yaşındadır. Bu nedenle tedavi gördüğü sağlık kurumlarından varsa evrakları istenmek suretiyle, dosya tümüyle Adli Tıp Kurumuna gönderilerek miras bırakanın bu tarihte fiil ehliyetinin bulunup bulunmadığı konusunda Adli Tıp Kurumundan rapor alınıp sonucuna göre karar verilmesinin düşünülmemesi usul ve yasaya aykırıdır.Ayrıca, tenkis davası, miras bırakanın saklı payları zedeleyen ölüme bağlı veya sağlar arası karşılıksız kazandırmaların yasal sınıra çekilmesini amaçlayan, öncesine etkili, yenilik doğurucu (inşai) davalardandır. Vasiyetnameler ise mutlak tenkise tabidir.Tenkis davasının dinlenebilmesi için öncelikli koşul; miras bırakanın ölüme bağlı veya sağlar arası bir kazandırma işlemi ile saklı pay sahiplerinin haklarını zedelemiş olmasıdır. Saklı payların zedelendiğinden söz edilmesi ise kazandırma konusu tereke ile kazandırma (temlik) dışı terekenin tümü ile bilinmesiyle mümkündür. Tereke miras bırakanın ölüm tarihinde bırakmış olduğu malvarlığı ile, (iadeye) denkleştirmeye (TMK. md.669) ve tenkise tabi (TMK. md.514, 565) olarak yaptığı kazandırmalardır. Bunlar terekenin aktifini oluşturur.
 Miras bırakanın borçları, bakmakla yükümlü olduğu kişilerin üç aylık geçim giderleri, terekenin yazımı, mühürlenmesi, cenaze masrafları gibi giderler de pasifidir. Aktiften belirtilen borçların indirilmesi net terekeyi oluşturur. Tereke bu şekilde tesbit edildikten sonra mirasın açıldığı tarihteki fiyatlara göre değerlendirilmesi yapılarak parasal …
 
 ## Yargıtay 2. HD 2012/19200 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83414800)
 
 Mirasbırakan Z.vasiyetnamede mirastan çıkarma sebeplerini açıklamıştır (TMK.md.510/2). Mirasçılıktan çıkarılan kimsenin itiraz etmesi halinde bu sebeplerin varlığının ispatı çıkarmadan yararlanan mirasçıya veya vasiyet alacaklısına düşer (TMK.md.512/2). Sebebin varlığı ispat edilememiş veya çıkarma sebebi tasarrufta belirtilmemiş ise, tasarruf mirasçının saklı payı dışında yerine getirilir (TMK.md.512/3).
 
@@ -143,10 +177,14 @@ Mirasbırakan Z. vasiyetnamede mirasçılıktan çıkarma sebeplerini göstermi�
 
 ## Yargıtay 3. HD 2012/15222 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537821900)
+
 Tenkis (indirim) davası, miras bırakanın saklı payları zedeleyen ölüme bağlı veya sağlar arası kazandırmalarını (bağışlarını) yasal sınıra çekilmesini amaçlayan, öncesine etkili, yenilik doğurucu (inşai) davalardandır.Tenkis davasında öncelikle incelenecek koşul, miras bırakanın ölüme bağlı veya sağlar arası bir kazandırma işlemi ile saklı pay sahiplerinin haklarını zedelemiş olmasıdır. Saklı payların zedelendiğinden söz edilmesi ise kazandırma konusu tereke ile kazandırma (temlik) dışı terekenin tümü ile bilinmesiyle mümkündür. Terekenin mirasın açıldığı tarihteki fiyatlara göre değerlendirilmesi yapılarak parasal olarak miktarının tespiti gerekir. Miras bırakanın saklı payı zedeleyip zedelemediği bulunan bu rakam üzerinden hesaplanır. Somut olayda, tereke hesabına esas alınan 550 parseldeki taşınmaza davacı ile dava dışı mirasçı arasında bir değer belirlenmiş ve belirlenen bu değer üzerinden davacı yasal payını almıştır.
 Bu sebeple hakkaniyet ve adaletin gereği en doğru sonuca ulaşabilmek için tereke aktifinin hesaplanmasında soyut Bayındırlık fiyatı yerine, taşınmazların rayiç değerlerinin ve özellikle 550 parsel sayılı taşınmaz için tarafların serbest iradesi ile belirlediği değerin esas alınması yasal düzenlemenin amacına daha uygun olmakla kararın bu nedenle bozulması gerekmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/11440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/559674800)
 
 Dairemizin 19.01.2012 gün ve 2011/18239 E. - 2012/1244 K.sayılı ilamı ile “Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle delillerin takdirinde bir isabetsizlik görülmemesine göre, sair temyiz itirazları yerinde değildir. Somut olayda; davacı yargılamada "yazılı beyanlarını tekrar ettiğini ve ayrıca vasiyetnamenin davalıların baskısı ile yapıldığını" ifade etmiştir. Davacının yazılı beyanlarını içeren 27.04.2001 tarihli dilekçesinde ise; "...vasiyetnamenin iptalini, olmazsa mahfuz hissesinin mahfuziyetine dair kararda şerh düşülmesini" içeren talep mevcuttur. Davacının bu talebi, saklı payının gözetilerek, tasarrufun tenkisi isteğine ilişkindir. Vasiyetname yasa gereğince mutlak tenkise tabidir.
 (TMK.519.md.) O halde talep, tenkis hükümlerine göre incelenerek, TMK 507/4 ve diğer maddeleri uyarınca davacının mahfuz hissesi incelenerek karar verilmesi gerekirken, yanılgılı gerekçe ile yazılı şekilde hüküm kurulması doğru görülmemiştir.” gerekçesiyle hükmün bozulmasına karar verilmiş, davalı taraf bozma ilamına karşı karar düzeltme isteğinde bulunmuştur.Dava dilekçesindeki sözlerden ve belirtilen olaylardan; davacının, davalıların manevi baskısı sonucu mirasbırakanca düzenlenen vasiyetnamenin iptalini talep ettiği anlaşılmaktadır.
@@ -154,6 +192,8 @@ Dilekçede davacının kızı ... ’nin miras hakkının engellendiği iddiası
 “Tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her halde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılma tarihinin üzerinden on yıl geçmekle düşer.”. Bu süre, hakdüşürücü nitelikte olup, resen dikkate alınır.Dosyadaki vasiyetnamenin açılmasına ilişkin dava dosyasından; vasiyetnamenin bulunduğu yer mahkemesi aracılığı ile avukat olan davacıya 24.02.2010 tarihinde okunduğu ve davacının aynı tarihte sunduğu dilekçe ile vasiyete yönelik itirazlarını bildirdiği anlaşılmaktadır.Şu duruma göre, saklı payın zedelendiğinin davacı tarafça öğrenildiği 24.02.2010 tarihi ile tenkis talebine dair dilekçe günü olan 27.04.2011 arasında bir yıllık hakdüşürücü süre geçmiş bulunduğundan, davanın reddine dair verilen karar sonucu itibariyle doğrudur.Ne var ki, mahkeme kararının açıklanan bu gerekçe ile onanması gerekirken, zuhulen bozulduğu anlaşılmakla, davalı tarafın karar düzeltme talebinin kabulü ile Dairemizin 19.01.2012 gün ve 2011/18239 E. 2012/1244 K.
 
 ## Yargıtay 17. HD 2012/11436 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795771600)
 
 Dava, davacının, murisin mirascılardan mal kaçırarak tasarruf nisabına yönelik açtığı Tenkis istemine ilişkindir.
 
@@ -163,6 +203,8 @@ Dava, davacının, murisin mirascılardan mal kaçırarak tasarruf nisabına yö
 
 ## Yargıtay 1. HD 2012/11223 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915420500)
+
 Dava, miras bırakanın ölüme bağlı tasarrufları ile yaptığı kazandırmaların tenkisi isteğine ilişkindir.
 
 …
@@ -171,14 +213,20 @@ Miras bırakan 20.08.2004 tarihinde ölmüş, dava ise 01.08.2008 tarihinde aç�
 
 ## Yargıtay 3. HD 2012/7111 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599862400)
+
 Tenkis davası, miras bırakanın saklı payları zedeleyen ölüme bağlı veya sağlararası karşılıksız kazandırmaların yasal sınıra çekilmesini amaçlayan, öncesine etkili, yenilik doğurucu davalardandır. Saklı payların zedelendiğinden söz edilmesi ise kazandırma konusu tereke ile kazandırma dışı terekenin tümüyle bilinmesiyle mümkündür. Tereke, miras bırakanın ölüm tarihinde bırakmış olduğu malvarlığı ile denkleştirmeye ve tenkise tabi olarak yaptığı kazandırmalardır. Türk Medeni Kanununun 507.maddesi uyarınca tasarruf edilebilir kısım ise, terekenin mirasbırakının ölüm günündeki durumuna göre hesaplanır.
 
 ## Yargıtay 16. HD 2012/2792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782392700)
 
 Mahkemece davacı ...’ın saklı payının davalı ...’a yapılan ölüme bağlı tasarruf dolayısıyla ihlal edildiği, diğer davalıların saklı paylarını alamadıkları kabul edilerek hüküm tesis edilmiştir. Dosya içeriğine toplanan delillere kanunda belirtilen gerektirici nedenlere ve delillerin taktirinde bir isabetsizlik bulunmamasına göre davalı ...’ın temyiz itirazları yerinde değildir. Davacı ...’ın temyiz itirazlarına gelince; tenkis (indirim) davası murisin saklı payları zedeleyen ölüme bağlı veya sağlar arası kazandırmaların yasal sınıra çekilmesini amaçlayan, önceye etkili, yenilik doğurucu davalardandır. Tenkis davasının dinlenebilmesi için öncelikli koşul; murisin ölüme bağlı veya sağlar arası bir kazandırma işlemi ile saklı pay sahiplerinin haklarını zedelemiş olmasıdır. Saklı payların zedelendiğinden söz edilmesi ise kazandırma konusu tereke ile kazandırma dışı terekenin tümü ile bilinmesiyle mümkündür. Tereke miras bırakanın ölüm tarihinde bırakmış olduğu mameleki kıymetler ile iadeye ve tenkise tabi olarak yaptığı kazandırmalardır. Bunlar terekenin aktifini oluşturur.
 Murisin borçları, bakmakla yükümlü olduğu kişilerin 1 aylık iaşe bedeli, terekenin defterinin tutulması, mühürlenmesi, cenaze masrafları gibi giderler de pasifidir. Aktiften belirtilen borçları indirilmesi net terekeyi oluşturur. Tereke bu şekilde tespit edildikten sonra mirasın açıldığı tarihteki fiyatlara göre değerlendirilmesi yapılarak parasal olarak miktarının tespiti gerekir. 743 sayılı Türk Kanunu Medenisi'nin 506. maddesinde belirlenen saklı paya tecavüz edip etmediği bulunan bu rakam …
 
 ## Yargıtay 1. HD 2012/1090 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913647700)
 
 Davanın reddine dair verilen karar, Dairece;
 “... bağış yoluyla temlik edilen 2 parsel sayılı taşınmaz bakımından davacıların saklı paylarına tecavüz kastı kanıtlanamadığından tenkis isteği yönünden davanın reddine karar verilmiş olmasının doğru olduğu, satışa konu edilen taşınmazlar bakımından ise dosya içeriğine göre; davalının alım gücünün bulunmadığı, miras bırakanın yaşlılığında tek erkek evladı olan davalının yanında yaşadığı, ölümünden kısa süre önce de taşınmazları temlik ettiği halde, terekesinden para çıkmadığı, satışa konu taşınmazların satış bedelleri ile belirlenen gerçek değerleri arasında aşırı fark bulunduğu; esasen davalının ve tanıkların ifadelerinde de miras bırakanın hastalığı sebebiyle davalının yardımcı olduğuna ilişkin beyanlarının temlikin gerçek satış olmadığını gösterdiği, hal böyle olunca; satışa konu edilen çekişmeli taşınmazlar bakımından davanın kabulü gerektiği, öte yandan kabule göre de, yargılama sırasında taşınmazların keşfen tespit edilen değerleri itibariyle harç tamamlanmadığı halde, kendisini vekille temsil ettiren davalı lehine dava dilekçesinde gösterilen değer yerine, keşif sonucu saptanan değer üzerinden fazla vekalet ücreti tayin ve takdirinin de isabetsiz olduğu ” gerekçesi ile
@@ -186,9 +234,13 @@ bozulmuş, mahkemece bozma ilamına uyularak, bağışlanan taşınmaz yönünde
 
 ## Yargıtay 16. HD 2011/7628 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785305600)
+
 Tenkise konu kazandırma hakkında davacı ve dava dışı murisin eşi tarafından tasarrufta bulunulmuştur. Bu halde davalı tercih hakkını tasarruf nisabının kendilerine ödenmesi şeklinde kullandığına göre tercih tarihi itibariyle kazandırmaya konu terekenin değeri belirlenmeli, tasarruf nisabı hesaplanmalı, bulunacak bu miktardan davacının miras payı oranında sorumlu olacağı, bu meblağı davalı tarafa ödemesi gerektiği düşünülmeli, …
 
 ## Yargıtay 16. HD 2011/4340 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781812600)
 
 Ölüm tarihinde yürürlükte bulunan 743 sayılı Yasa'nın 513.maddesi uyarınca, mahfuz hisse sahibi mirasçılar saklı paylarının zedelendiğini öğrendikleri tarihten itibaren 1 yıl ve her halde vasiyetnameler hakkında açılması tarihinden itibaren 5 yıllık zamanaşımı süresi içinde tenkis davası açabileceklerdir.
 
@@ -196,13 +248,19 @@ Vasiyetname ile oluşan hakka karşı açılacak davaların zamanaşımının ba
 
 ## Yargıtay 16. HD 2011/3854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783678200)
+
 Mirasçılık ve mirasın geçişi miras bırakanın ölümü tarihinde yürürlükte olan hükümlere göre belirlenir. (4722 s.Yürürlük K.M.17). Miras bırakanın 01.08.2008 tarihinde öldüğünden uyuşmazlığa 4721 sayılı Türk Medeni Kanunu'nun uygulanacağı da tartışmasızdır. Medeni Kanun'un 571. maddesinde "tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her halde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden on yıl geçmekle düşer" hükmü yer almaktadır. Bu süre hak düşürücü süre niteliğindedir.O halde eğer davacı olan mirasçı murisin sağlığında tenkise tabi temliki tasarrufu biliyorsa tenkis davası açma süresi ölüm ile birlikte işlemeye başlayacaktır.
 
 ## Yargıtay 16. HD 2011/2352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/780371200)
+
 Murisin yeğenleri olan davacı ... ile ..., doğrudan saklı paylarının zedelendiğini ileri sürerek dava açmışlarsa da, saklı pay oranları T.M.K: 506 M.de belirtilmiş olup, buna göre yeğenler saklı pay sahibi mirasçılarından değildir. Adı geçen davacıların miras bırakanları olan babaları ..., ortak miras bırakandan önce 17.11.1989'da öldüğüne göre bu davacıların, miras bırakanları ...'ın halefi olarak da tenkis davası açamayacakları yasa gereğidir. Hal böyle olunca adı geçen davacılar yönünden davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması isabetsiz olduğu gibi, davacılar ... ve ... lehine hüküm altına alınan tenkis bedeli yönünden de teselsülün yasa ya da sözleşmeden doğabileceği, tenkis davası bakımından yasada teselsüle yer verilmediği, bu yolda sözleşme yapılmasının da söz konusu olamayacağı gözardı edilerek davalılar aleyhine müteselsilen ödetme kararı verilmiş olması da isabetsiz olup, davalıların temyiz itirazları bu nedenlerle yerinde görüldüğünden kabulü ile hükmün açıklanan nedenlerle BOZULMASINA, peşin alınan temyiz harcının istek halinde temyiz eden tarafa iadesine, 02.05.2011 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2011/952 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78726500)
 
 Hemen belirtilmelidir ki, miras bırakan S..'ın davalılardan S..'e bağış şeklinde yaptığı temlikin, koşulların gerçekleşmesi halinde tenkis hükümlerine tabii olacağı kuşkusuzdur.Esasen, bu husus Makemeninde kabulündedir.
 
@@ -210,9 +268,13 @@ Ne var ki, Mahkemece, çekişmeli 617 sayılı parsel bakımından yaptırılan 
 
 ## Yargıtay 2. HD 2010/19763 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936782500)
+
 Mirasçılık ve mirasın geçişi mirasbırakının ölümü tarihinde yürürlükte olan hükümlere göre belirlenir (4722 s.Yürürlük K.md.17). Hükme esas alınan tasarruf nisabı ve saklı payın hesabına ilişkin bilirkişi raporunda, vasiyet edilen taşınmazların değerleri ile temlik harici terekenin değerleri toplamında hata yapılmış, ayrıca davalı da saklı pay sahibi olduğu halde, kendisine yapılan kazandırmadan, saklı payından fazlası için sorumlu tutulması (TMK.md.503) gerekirken, yapılan kazandırmadan davalının saklı payı da düşülmemiş, aksine bu miktar yapılan kazandırma tutarına eklenmek suretiyle hesapta hatalı sonuca ulaşılmıştır. Mirasbırakan 16.11.1998 tarihinde vefat etmiştir. Yapılan soruşturma ve toplanan delillerden, terekenin vefat günündeki haline göre parasal olarak değerinin 22.596.618.440 TL.olduğu, bu miktardan cenaze ve defin giderleri indirildiğinde net terekenin 22.521.668.440 TL.olduğu anlaşılmaktadır. Tasarruf nisabı ve saklı paylar net tereke üzerinden hesaplanır.
 Buna göre, davacıların her birinin saklı payı 4.222.801.581 TL.olup, temlik dışı terekeden miras payları oranında aldıkları miktarlar düşüldüğünde, her birinin saklı payına 1.732.336.151 TL.tutarında elatıldığı ortaya çıkmaktadır. Davalıya yapılan kazandırma tutarı olan 12.634.746.720 TL.'den kendi saklı payı düşüldükten sonra tenkise tabi kazandırmanın 8.411.945.150 TL. olduğu görülecektir. Buna göre sabit tenkis oranı (1.732.336.151/8.411.945.140)=0.205'dir. Belirlenen sabit tenkis oranıyla, davalıya kazandırılan taşınmazların tercih tarihindeki değerleri (102.162.510.000 TL =102.162.51 YTL)'nin çarpımı sonucu davacıların her birine ödenmesi gereken miktarın 20.943.31 YTL.olduğu anlaşıldığı halde, yazılı miktara karar verilmesi usul ve yasaya aykırı ise de; belirtilen bu yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden hükmün düzeltilerek onanması gerekmiştir (HUMK.md.438/7).
 
 ## Yargıtay 2. HD 2010/18886 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81232400)
 
 Miras hakkından ıskatın geçerli olması için mirasbırakan tarafından ıskat sebebinin gösterilmesi gerekmektedir. Iskat edilenin itirazı halinde gösterilen sebebin doğruluğunu ispat ıskattan yararlanana ait bulunmaktadır. Sebep gösterilmemiş yahut ispat olunmamışsa mirasbırakanın arzusu tasarruf nisabı miktarınca yerine getirilir (743 s.K.md.459). Mirasçının hissesi saklı payına indirilir. Davacının alacağının belirlenmesi için davaya tenkis davası olarak devamı gerekir (743 s.K.md.502).

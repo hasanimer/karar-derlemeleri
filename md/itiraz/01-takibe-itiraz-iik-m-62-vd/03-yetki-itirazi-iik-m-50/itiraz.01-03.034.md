@@ -41,6 +41,8 @@ Taraflar arasındaki sözleşme yukarıda da ifade edildiği üzere eser sözle�
 
 ## İzmir BAM 20. HD 2023/343 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870762500)
+
 Davalı vekili cevap dilekçesinde özetle; davacı tarafın rücu talebine konu ürünün davacı tarafından doğrudan yurtdışından satın alındığını, müvekkili şirket tarafından üretilen, ithal edilen veya satışı gerçekleştirilmiş bir ürün olmadığını, müvekkili şirketin .... grubunda yer alan ürünlerin yürürlükteki mevzuat çerçevesinde ithalatını gerçekleştirerek bayileri aracılığı ile ülke sathında son kullanıcılara satışa sunduğunu, müvekkili şirket kayıtlarında yapılan detaylı incelemeler sonucunda rücu talebine dayanak 101174210 seri numaralı konveyörlü sanayi tipi bulaşık makinesinin müvekkili şirket tarafından üretilen, ithal edilen veya satın alınan bir ürün olmadığının, ürünün 2010 yılında müvekkili şirket ile herhangi bir organik bağa sahip ticari yapı içerisinde olmayan bağımsız bir tüzel kişiliğe haiz bir İtalya menşeili firmadan satın alındığının belirlendiğini, ürünün zarara neden olduğunu kabul etmemekle birlikte müvekkili şirketin sorumlu olamayacağının açık olduğunu, müvekkili şirkete herhangi bir kusur atfedilemeyeceğinin izahtan vareste olduğunu, müvekkili şirket tarafından üretildiği, ithal edildiği veya satıldığı ve zarara bir an için ürünün neden olduğu varsayılsa dahi,
 yetkisiz teknik servis müdahalesine maruz kalan ürün nedeniyle de kusur atfedilemeyeceğini, dava dışı ... ile ... ürünlerine yetkili teknik servis hizmeti sunan dava dışı
 
@@ -64,6 +66,8 @@ Yine dosya kapsamındaki bilgi ve belgelerin incelenmesinde; davalının icra da
 
 ## İstanbul BAM 17. HD 2023/315 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877106700)
+
 Dava, ödenmeyen faturalardan kaynaklı alacağın tahsili amacıyla başlatılan icra takibine karşı yapılan itirazın iptali istemine ilişkindir.
 
 …
@@ -75,6 +79,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davacı vekilinin isti
 
 ## İstanbul BAM 45. HD 2023/269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870291200)
+
 Her ne kadar davalı tarafından icra müdürlüğünün yetkisine itiraz edilmiş ise de İİK'nın 50. maddesinin HMK'nın yetkiye ilişkin hükümlerine atıf yaptığı, kıyasen uygulanması gereken HMK'nın 10 ve TBK'nın 89. maddeleri uyarınca taraflar arasındaki sözleşmede İstanbul İcra dairelerinin yetkili kılındığı, para borçları yönünden ifa yerinin alacaklının ödeme zamanındaki yerleşim yeri olduğu, bu bağlamda; davacının ikametgahı icra dairelerinin yetkili olması nedeniyle İİK 50, HMK 10, TBK 89. maddeleri uyarınca İstanbul İcra Müdürlüklerinin yetkili olduğu, ayrıca isticvap davetine uymayan davalının sözleşme altındaki imzayı kabul etmiş sayılması nedeniyle ayrıca HMK17 maddesi uyarınca aradaki yetki şartına istinaden de takibin yetikli icra dairesinde yapıldığının kabul edilmesi gerektiği anlaşılmakla davalının bu husustaki itirazının reddine karar verilmiştir.Davacı taraf delil olarak 25/01/2018 tarihli ... sözleşme numaralı üyelik sözleşmesi suretini sunmuştur. Sözleşmede davalının kaşesi ve imzası mevcuttur. Hizmet bedeli 5.310TL olarak belirtilmiştir. Sözleşmenin ödeme koşulları başlıklı 5.
 Maddenin 5.4 bendinde ... e-fatura sistemine geçtiği tarihten itibaren faturaların müşterinin ... bildirdiği mail adresine e-posta olarak gönderileceği, müşterinin e-fatura sistemini peşinen kabul ettiğini, verdiği e-posta adresinin geçerliliğinde sorumlu olduğu düzenlenmiştir. 9.9 maddesinde ise taraflar arasında ki uyuşmazlığın çözümünde İstanbul mahkemelerinin ve icra dairelerinin yetkili olduğu belirtilmiştir. Davacı tarafından 29/01/2018 tarihli, 5.310TL bedelli e-fatura düzenlenmiştir. Delil olarak ibraz edilen logo muhasebe sisteminin ekran görüntüsünde faturanın davalının sözleşmede belirtiği e-posta adresine 30/01/2018 tarihinde iletildiği görülmektedir. Yargılama aşamasında davalı taraf, dava konusu faturanın 10/04/2019 tarihinde müvekkiline e-posta ile gönderildiğini, aynı tarihte noter aracılığı ile faturaya itiraz edildiğini beyan etmiştir.
 
@@ -83,6 +89,8 @@ Maddenin 5.4 bendinde ... e-fatura sistemine geçtiği tarihten itibaren fatural
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davalı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1.b.l bendi uyarınca ESASTAN REDDİNE …
 
 ## İzmir BAM 13. HD 2023/197 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/861209500)
 
 Dava; defne yaprağı satışından kaynaklanan itirazın iptali davasıdır.
 
@@ -95,6 +103,8 @@ Taraflar arasında yapılan araştırmaya göre davalı 1. Sınıf tacir değild
 Aydın Asliye Ticaret Mahkemesinin 13/09/2022 tarih ve 2022/465 Esas 2022/521 Karar sayılı kararın HMK'nın 353(1)-a-3 maddesi gereğince re'sen KALDIRILMASINA ve dosyanın SÖKE ASLİYE HUKUK MAHKEMESİNE GÖNDERİLMESİNE …
 
 ## Adana BAM 9. HD 2023/142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881391500)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili bankanın .../... Şubesi ile dava dışı ... Tavukçuluk Tic.
 
@@ -112,6 +122,8 @@ HMK'deki yetki hükümleri İİK'nin 50/1 maddesine göre ilamsız icradaki yetk
 
 ## İzmir BAM 13. HD 2023/139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860237000)
+
 Davacı vekili dilekçesi ile; davacı vekili tarafından davalı borçlunun ... Mahallesi ... ... adresindeki inşatında yapılan incelemede şehir şebekesi suyunu usulsüz olarak kullandığını, davalı hakkında Aydın icra müdürlüğünün 2020/14191 Esas sayılı dosyası ile takip yapıldığını, davalı tarafından borca itiraz edildiğini, itiraz nedeniyle takibin durdurulduğunu belirterek itirazın iptaline karar verilmesini talep etmiştir.
 
 …
@@ -128,6 +140,8 @@ Davacı ... Müdürlüğü olup davalı gerçek kişidir. Dava sözleşmeye daya
 Madde uyarınca dosyanın görevli Aydın Asliye Hukuk mahkemesine gönderilmesi gerekirken, mevcut kararda olduğu şekilde usulden red kararı vermesi hatalı nitelikte bulunmakla davacı vekilinin istinaf istemlerinin HMK'nın 353(1)-a-3 maddesi gereğince kabulüne karar verilmesi gerekmiştir. Mahkemenin yetkisine ve İcra dairesinin yetkisine dair itirazların ise görevli mahkeme tarafından değerlendirilmesi gerekir.
 
 ## Bursa BAM 14. HD 2023/135 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878339900)
 
 Davacı vekili, taraflar arasındaki anlaşma gereği müvekkilinin makineleri imal edip davalıya teslim ettiğini, ancak davalının cari hesap borcunu ödemediğini, alacağın tahsili için başlatılan icra takibinin davalının haksız itirazı ile durduğunu, davacının icra takibinden sonra bu davadan önce ödemiş olduğu tutar düşülerek kalan miktar üzerinden itirazın iptalinin talep edilmekte olduğunu ileri sürerek itirazın iptali ile takibin devamına, icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
 
@@ -149,6 +163,8 @@ Somut olayda uygulanması gereken İİK 50.m. atfıyla HMK 17.m. uyarınca tacir
 
 ## İstanbul BAM 13. HD 2023/90 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854913900)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: İlk Derece Mahkemesi 18/02/2020 tarih ve 2017/479 Esas - 2020/155 Karar sayılı kararında;
 "....Yapılan yargılama, toplanan deliller, alınan bilirkişi raporu ile dosya kapsamındaki tüm belge ve bilgiler birlikte değerlendirildiğinde; davalıya Çek Taahhüt Kredisi, Şirket Kredi Kartı ve Ticari Kredili Mevduat Hesabı kredileri kullandırıldığı, davalı tarafından borçlarını vadesinde ödememesi üzerine hesabın kat edildiği ve icra takibine girişildiği, davalı tarafın icra takibine itirazı üzerine işbu davanın açıldığı, yaptırılan bilirkişi incelemesi sonucu davalı tarafın her bir işlem için borç miktarı tespit olunduğu anlaşıldığından bilirkişi tarafından tespit olunan değerler üzerinden davanın kısmen kabulüne, davalı taraf ödeme yapmadığı halde likit ve bilinebilir borç için yapılan icra takibine haksız olarak itiraz ettiği anlaşıldığından icra inkar tazminatı ödemesine, gayrinakdi çek taahhüt bedeli kredisi bakımından davacının mevcut delil durumuna göre gayrinakdi çek taahhüt bedelinin varlığını ve miktarını açıkça ispatlayamadığından reddine karar verilmiş ve aşağıdaki hüküm kurulmuştur...."gerekçesi ile, Davanın KISMEN KABULÜ ile, 1-Davalının İstanbul ...
 
@@ -166,6 +182,8 @@ Bu durumda mahkemece taraflar arasında imzalanan GKS. ve şirket kredi kartı s
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacı-Temlik Edenin istinaf başvurusunun KABULÜ ile; İstanbul 15. Asliye Ticaret Mahkemesi'nin 18/02/2020 tarih ve 2017/479 Esas - 2020/155 Karar sayılı kararının HMK'nın 353/1-a4,6 maddeleri uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 14. HD 2023/88 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/863640400)
 
 Esas sayılı dosyasında, davalı şirket ile dava dışı ... aleyhine ilamsız takip başlatılmıştır. Davalının, icra dairesinin yetkisi ile borç ve ferilerine itiraz etmesi üzerine takip durmuş ve eldeki itirazın iptali davası açılmıştır. Davacı tarafından dava dışı ...'ya gönderilen 56.000 USD'nin davalı şirkete verilip verilmediği ve bu miktardan davalı şirketin sorumlu olup olup olmadığı uyuşmazlık konusudur. İlk derece mahkemesince davalı şirketin 2017 ve 2018 yıllarına ilişkin ticari defterler ve hesapları üzerinde yapılan bilirkişi incelemesi sonucu düzenlenen raporda, 56.000 USD bedelli makbuzda gönderilme amacının yazılı olmadığı ve bu miktarın şirketin kayıtlarında bulunmadığı belirlenmiştir. Duruşmada tanık olarak dinlenen dinlenen ..., gönderilen miktarı şirket yetkilisine elden verdiğini beyan etmiştir. Dava konusu alacağın miktarı itibariyle HMK'nın 200.maddesi uyarınca tanık dinlenmesi mümkün değildir. Taraflar arasında yazılı şekilde düzenlenen sözleşme gereğince davacının, profarma fatura bedelinin %50'sini peşin, kalanının ise ürünün gümrüğe gelmesinden sonra ödeyeceğine ilişkin sözleşme yapılmıştır. Davacı yanca 50.000 USD davalı şirket hesabına gönderilmiştir.
 Bu miktarın tahsili amacıyla başlatılan takipte, taraflar borcun miktarı konusunda uzlaşmış ve belirlenen miktarın ödenmesine başlanmıştır. Dava konusu 56.000 USD bedelli havale için başlatılan takip ise eldeki davanın konusudur. Davacı, bu miktarı davalı şirketin yetkilisinin telkini ile ...'ya gönderdiğini belirtmesine karşın, buna ilişkin usulüne uygun bir delil sunulmamıştır. ...'nın da bu miktarı davalı şirket adına para tahsil yetkisi bulunan bir kişiye teslim ettiğine ilişkin bir kanıt bulunmamaktadır. Havale miktarı itibariyle teslim olgusunun tanıkla ispatı mümkün değildir. ...'nın davalı şirket çalışanı olduğu ileri sürülmüş ise de bu kişinin şirket adına para tahsil yetkisi bulunduğu kanıtlanmamıştır. Bu nedenle, paranın şirkete ödendiğine ilişkin bir kanıt bulunmadığına ilişkin ilk derece mahkemesi tespiti yerindedir.
@@ -196,6 +214,8 @@ Davalı icra dairesinin yetkisine itiraz etmekle, öncelikle icra dairesinin yet
 
 ## İzmir BAM 17. HD 2022/1985 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841177300)
+
 Dava, icra tehdidi altında yapılan ödemenin istirdatından kaynaklanan icra takibine yapılan itirazın iptali istemine ilişkindir.
 
 …
@@ -212,6 +232,8 @@ sayılı hükmü usul ve esas yönünden hukuka uygun bulunduğundan davacı vek
 
 ## İstanbul BAM 3. HD 2022/1984 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781110400)
+
 Davalı vekili cevap dilekçesinde; öncelikle müvekkili şirketin merkezi ve hizmetin su- nulduğu yer "Lalapaşa/Edirne" adresinde bulunduğundan yetkili mahkemenin Edirne Mahkemeleri olduğunu, ayrıca müvekkili firmanın davacıya herhangi bir borcunun olmadığını, tüm faturaların ödendiğini, buna ilişkin banka ve hesap kayıtlarının dosyaya sunulduğunu beyanla davanın reddini savunmuştur.
 
 …
@@ -223,6 +245,8 @@ Sözleşmenin düzenlendiği tarih belirlenemediğinden yetki sözleşmesinin 10
 Açıklanan nedenlerle, davalının istinaf başvurusunun HMK'nın 353/1-a-6 maddesi uyarınca kabulü ile kararın kaldırılmasına …
 
 ## Ankara BAM 22. HD 2022/1951 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854349700)
 
 Davalı vekili, takibin kötü niyetli olduğunu, icra dairesinin ve mahkemenin yetkisiz olduğunu, davacıya herhangi bir borçlarının olmadığını bildirerek davanın reddini istemiştir.
 
@@ -257,6 +281,8 @@ Bu durum karşısında, İstanbul ... ATM'nin ... E- ... K. sayılı dosyasında
 Davacı vekilinin istinaf talebinin KABULÜ ile; Konya ... Asliye Ticaret Mahkemesi'nin 14/06/2022 tarih, ... Esas- ... Karar sayılı KARARININ KALDIRILMASINA …
 
 ## İstanbul BAM 13. HD 2022/1895 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849380500)
 
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ: İlk Derece Mahkemesi 15/12/2020 tarih 2020/421 Esas 2020/696 Karar sayılı kararında; " Dava hukuki niteliği itibariyle, İstanbul Anadolu ... İcra Müdürlüğünün ...
 

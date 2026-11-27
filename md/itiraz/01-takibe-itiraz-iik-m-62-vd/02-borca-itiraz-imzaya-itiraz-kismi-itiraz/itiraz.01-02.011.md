@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2025/1139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182242100)
+
 İcra Dairesinin 10/12/2020 tarihli yazısına göre borca itirazın alacaklı tarafa tebliğ edilmediğinin bildirildiği, tarafların tazminat, muhakeme masrafları ve benzeri taleplerinin mahkemenin takdirlerine ait olduğunu belirtilmiştir. Uyuşmazlık konusu olayda;Ticaret sicil kayıtlarına göre davacının tacir olduğu, dosya içerisinde yer alan taşeron sözleşmesi, hak ediş raporu ve ödeme makbuzlarının fotokopilerinin mevcut olduğu anlaşılmaktadır.Davalı taraf her ne kadar davacının taşeronları olmadığını, kendi şirketlerinde SSK'lı çalışan olduğunu iddia etmiş ise de, dosyaya yansıyan iş mahkemeleri ve asliye ceza mahkemelerinin kararlarında davacının taşeron olarak kabul edildiği, yine SGK kayıtları incelendiğinde davacının hem SSK hem de Bağkur kapsamında çalışmalarının olduğu, davacının 2015-2019 tarihleri arasında Bağkur kapsamında çalıştığı anlaşılmıştır.
 Ayrıca bir kişinin hangi sigorta koluna bağlı olarak çalıştığının somut dosyada taşeron olup olmadığı noktasında belirleyici olamayacağı, taşeronluk kavramının taraflar arasındaki sözleşme ilişkisine göre değerlendirilmesi gerektiği anlaşıldığından davalının bu noktadaki istinaf talepleri kabul edilmemiştir.Davalı yanca her ne kadar davacının süresinde itirazın iptali davası açmadığı ileri sürülmüş ise de, Büyükçekmece 3. İcra Müdürlüğü'nün cevabi yazısına göre davalının borca itirazının davacıya tebliğ edilmediği, borca itiraz tarihinin 06/02/2018 olduğu, arabuluculuk başlangıç tarihinin 03/04/2019 olduğu, dava tarihinin ise 11/09/2019 olduğu göz önüne alındığında davanın süresinde olduğu değerlendirilmiş ve davalının bu husustaki istinaf talebi de kabul edilmemiştir.Bununla birlikte, mahkemenin 14.06.2021 tarihli bilirkişi raporunu hükme esas aldığı, söz konusu bilirkişi raporunda alacağın varlığı ve miktarının 01.06.2017 tarihli taşeron hakediş raporuna ve sözleşmedeki birim fiyata dayanarak tespit edildiği anlaşılmaktadır. Oysa ki yargılama konusu olayda davalı taraf taşeron hakediş raporlarına da itiraz etmektedir.
 Dolayısıyla, taşeron hak ediş raporuna itiraz edildiği için sözleşme birim fiyatının hakediş raporuna uygulanması suretiyle iş alacağının hesaplanması hatalı olmuştur.
@@ -31,6 +33,8 @@ Dolayısıyla, taşeron hak ediş raporuna itiraz edildiği için sözleşme bir
 Davalı vekilinin istinaf başvurusunun KABULÜNE, 2-BAKIRKÖY 2. ASLİYE TİCARET MAHKEMESİ'nin 14/09/2021 tarih, 2019/683 Esas, 2021/787 Karar sayılı kararının KALDIRILMASINA …
 
 ## Ankara BAM 22. HD 2025/1136 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174810400)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin akaryakıt istasyonu işlettiğini, davalının müvekkilininden satın aldığı akaryakıt bedellerini ödemek için o dönem Devrek Orman İşletme Müdürlüğü'nde aldığı ihaleden iş yaptıkça hak edeceği hak edişlerden ödemek üzere müvekkili şirkete birden fazla Alacağın Devri sözleşmesi ile alacağını devir ettiğini, Devrek Orman İşletmesinin müvekkiline bir kısım ödeme yaptığını, ancak kalan bakiyenin davalının işi tamamlamadığı gerekçesiyle ödenmediğini, bakiye alacağın tahsili için başlatılan icra takibine davalının haksız yere itiraz ettiğini belirterek itirazın iptaline ve icra inkar tazminatına karar verilmesini istemiştir.
 
@@ -53,10 +57,14 @@ Eskişehir 1.İcra Müdürlüğünün 2021/2403 Esas sayılı takip dosyasının
 
 ## İstanbul BAM 15. HD 2025/1065 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175664500)
+
 Bilirkişi heyeti 11.03.2019 tarihli Ek Raporda 08.06.2018 tarihli kök rapordaki görüşleri değişmemiştir.Davalı yargılamada protokoldeki imzaya itiraz ettiği ve kesin süreye rağmen davalı belge aslını ibraz etmediği için yerel mahkemenin 02.03.2020 tarihli duruşmada imza incelemesinden dönmüştür. Mahkemenin uygulaması isabetlidir. Protokolün delil olarak sunulması itiraz niteliğinde olduğundan HMK'ya aykırı değildir.Eldeki davada davalı yararına nispi vekalet ücretine hükmedileceğinden yerel mahkemenin vekalet ücreti kararı da yerindedir. Tüm bu sebeplerle davacı vekili istinaf talepleri yerinde değildir.Davalı vekili kendi defter kayıtlarına göre 4.726,00 TL. borçlu gözükmektedir. Bu sebeple davanın kısmen kabulü yerindedir. Taraflar arasında sözleşme olması , m3 birim fiyatında anlaşmazlık olması sebepleri bir aradadeğerlendirildiğinde davacının kötü niyetli kabul edilemeyeceği gibi , davalı tarafından davacının kötü niyeti dosya kapsamında ispatlanmış durumda da olmadığından , davalı vekilinin istinaf talepleri reddedilmiştir.
 Belirttiğimiz sebeplerle yerel mahkeme kararı dosya kapsamına , hukua ve usule uygun olduğundan taraf vekillerinin istinaf taleplerinin reddine karar verilmiştir.Açıklanan nedenlerle, 6100 sayılı HMK'nın 355. madde hükmü uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak ve kamu düzeni gözetilerek yapılan istinaf incelemesi sonucunda, dosya kapsamına, kararın dayandığı delillerle yasaya uygun gerektirici nedenler ve ileri sürülen istinaf sebeplerine göre, mahkeme kararında usul ve esas yönünden yasaya aykırılık bulunmadığı anlaşılmakla, taraf vekillerinin istinaf başvurularının HMK'nın 353/1-b-1. bendi gereğince esastan reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 45. HD 2025/1051 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172019900)
 
 Davacı vekili dava dilekçesinde ve özetle; Davacı şirketin sinemacılık faaliyetleriyle uğraştığını ve kendi işlettiği sinemalarda reklam hizmeti verdiğini, bu kapsamda davalı ile aralarında hizmet alım-satımına ilişkin ticari ilişki bulunduğunu, davalı şirket nezdindeki cari hesap borcunu vade tarihi olan 19/10/2015 tarihinde ödememesi sebebiyle Beyoğlu 3. Noterliği 03/10/2016 tarih ve ...yevmiye nolu ihtarnamesi ile keşide edildiğini, 7 gün içinde 22.066,13-TL'lik bakiyeyi ödemesi istendiği aksi halde yasal yollara başvurulacağının ihtar edildiğini, davalının herhangi bir ödeme yapmadığını bunun üzerine İstanbul 7. İcra Müdürlüğü'nün ...
 
@@ -76,6 +84,8 @@ Hukuk Dairesi'nin yerleşik kararlarına göre tacir olan taraflar arasında vad
 Davacı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1.b.l bendi uyarınca ESASTAN REDDİNE …
 
 ## Ankara BAM 22. HD 2025/1037 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170382500)
 
 Davalı vekili cevap dilekçesinde özetle; ödeme emrinde borcun sebebinin belirtilmediğini, dayanak belgelerin ödeme emri ile birlikte tebliğ edilmediğini, müvekkili tarafından ödemelerin tamamının yapıldığını, borcun bulunmadığını savunarak davanın reddine ve kötüniyet tazminatına karar verilmesini istemiştir.
 
@@ -97,6 +107,8 @@ Ankara 2.İcra Müdürlüğünün 2021/5613 Esas sayılı takip dosyasının yap
 
 ## Sakarya BAM 7. HD 2025/995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145867500)
+
 Dava; Kambiyo senetlerine mahsus takipten doğan iflas (İİK 174) istemine ilişkindir.
 
 …
@@ -106,6 +118,8 @@ Mahkeme, takipli iflas prosedüründe, genel hükümlere göre yapacağı incele
 Eldeki olayda; davalının borca itirazının kaldırılmasına 20.03.2024 tarihli duruşmada karar verildiği, aynı duruşmada ilanların yapılmasına ve icra müdürlüğünce sonraki duruşma tarihi olan 22.05.2024 tarihi itibariyle borca ilişkin kapak hesabının sorulduğu, 22.05.2024 tarihli duruşmada ilan sürelerinin dolmadığı anlaşıldığından duruşmanın 12.06.2024 tarihine ertelendiği, anılan duruşmada 22.05.2024 tarihine göre yapılan hesaplamaya dayalı kapak hesabına göre depo emri verildiği, depo emrinin yerine getirilmediğinden bahisle 12.06.2024 tarihinde davalının iflasına karar verildiği görülmüştür. Ancak mahkemece depo emrine esas kapak hesabının yapıldığı tarih olan 22.05.2024 tarihinde karar verilmemesi nedeniyle mahkemece sonraki duruşma tarihi olan 12.06.2024 tarihine göre hesaplama yapılarak yeniden depo emri çıkarılması gerekirken (Benzer yönde Yargıtay 23. Hukuk Dairesinin 2014/2699 esas 2014/3033 karar sayılı ilamı, Yargıtay 19. Hukuk Dairesinin 2006/6094 esas 2006/9184 karar sayılı ilamı) önceki duruşma tarihine göre çıkarılan depo emrine dayanılarak davalının iflasına karar verilmesi isabetli değildir.
 
 ## Ankara BAM 27. HD 2025/987 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171111400)
 
 Davacı vekili; müvekkili ... Mermer Turizm San ve Tic Ltd Şti ile davalı ... Madencilik A.Ş. arasındaki ticari iş ilişkileri gereğine müvekkili ...
 
@@ -128,6 +142,8 @@ Davalı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince es
 
 ## İstanbul BAM 13. HD 2025/971 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153147800)
+
 Müvekkil şirket üzerine düşen karşı tarafa para ödeme ve söz konusu satın aldığı eşyaları işleme yükümlülüğünü eksiksiz olarak yerine getirmiş fakat ürünlerin tamamını bitirdiğinde ve yukarıda belirttiğimiz üzere gerekli teknik analiz çalışması yaptığında karşı taraftan almış olduğu malın ayıplı olduğunu farketmiştir." ifadelerinin yer aldığı, 01.11.2018 tarihli delil tespiti talep dilekçesinde geçen beyanların delil tespiti tarihi itibarıyla ayıbın davalı yanca öğrenilmiş olduğuna işaret ettiği, söz konusu delil tespiti raporu ve mahkememiz nezdinde alınan bilirkişi raporunda fatura konusu malların gizli ayıplı oldukları tespit edilmiş ise de, TTK'nun 23/1-c maddesi delaletiyle TBK'nun 223/2 son cümlesi uyarınca gizli ayıp öğrenilir öğrenilmez hemen satıcıya bildirilmesinin gerektiği, bildirilmezse satılanın bu ayıpla birlikte kabul edilmiş sayılacağı, davalı yanca en erken 17.12.2018 tarihli borca itiraz dilekçesi ile ayıp ihbarının yapıldığının kabul edilebileceği ancak davalı tarafça ayıp ihbarının daha erken öğrenildiği 01.11.2018 tarihli delil tespiti talep dilekçesi ile sabit olduğundan,TBK'nun 223/2 son cümlesi uyarınca borca itiraz dilekçesi ile yapılan ayıp ihbarının
 gizli ayıp öğrenilir öğrenilmez hemen yapılmış ihbar sayılamayacağından davalı tarafça satılanın bu ayıpla birlikte kabul edilmiş sayılmasının gerektiği, satılanın ayıplı haliyle kabul edilmesi ile davalı yanın artık TBK'nun 227. maddesinde düzenlenen seçimlik hakları kullanamayacağı, zira taraflar tacir olduğundan TTK'nun 18/3. maddesinde belirlenen usule uygun olarak yapılması gereken, ayıp sebebiyle sözleşmeden dönüldüğüne dair seçimlik hakkın kullanılması kapsamında davacı yana çekilmiş bir ihtarın da bulunmadığı, malların davalı elinde olduğu sabit olmakla davacı tarafın bu mallara ilişkin faturaya dayalı alacak talebinin yerinde olduğu, davalı yanın fatura bedeli açısından takibe itirazının haksız olduğu ve iptalinin gerektiği, takipte talep edilen işlemiş faizin takipten önce davalı yanın temerrüde düşürülmemiş olması nedeniyle yerinde olmadığı anlaşılmakla, davanın kısmen kabulü ile fatura bedeli üzerinden itirazın iptaline, alacak faturaya dayanmakla likit olduğundan takibe haksız itiraz nedeniyle alacağına geç kavuşan davacı lehine %20 oranında icra inkar tazminatına hükmedilmesine dair açıklanan gerekçelerle aşağıdaki şekilde karar vermek gerekmiştir..."gerekçesi ile,
 ''Davanın KISMEN KABULÜ İLE, ... sayılı takip dosyasında, takip tarihi itibari ile davacının davalıdan 66.920,16 TL alacaklı olduğunun tespiti ile bu miktara vaki itirazın iptali ile asıl alacak 66.920,16 TL'ye takip tarihinden itibaren takipte belirtilen oranlarda faiz uygulanmak sureti ile takibin diğer kayıt ve şartlarla aynen devamına, fazlaya ilişkin talebin reddine,'' karar verilmiş ve karara karşı davalı vekili tarafından istinaf başvurusunda bulunulmuştur.
@@ -138,6 +154,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle;1-Davalının istinaf başvurusunun 610
 
 ## İstanbul BAM 15. HD 2025/765 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156778300)
+
 Sayılı dosyası ile davalı/borçlu aleyhine icra takibi başlatılmış olup borçlu haksız ve kötü niyetli olarak borca itiraz ettiğini, haksız ve kötüniyetli itirazın iptali için ve davacının mağduriyetinin giderilmesi için ikame edilen davanın eksik bilirkişi incelemesi ve dosyada mübrez olan deliler irdelenmeksizin reddedildiğini belirterek mahkeme kararının kaldırılmasını talep etmiştir.Taraflar arasındaki uyuşmazlık TBK 470 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır.Davacı iş sahibi, davalı ise yüklenicidir.
 Davada davacı; taraflar arasında 11.07.2018 tarihli davacı ile borçlu ... arasında sözleşme imzalandığını, sözleşmede teslim tarihi 26.10.2018 tarihi belirlendiği ancak teslim edilmediğini, yüklenici temerrüde düştüğünü, meail göndererek edimin ifa edilmesi istenildiğini, sözleşme 9/c maddesi gereğince teslimin 26.10.2018 olacağı belirtildiğini, iki kez ek süre ile teslim tarihi 07.12.2018 tarihi olmasına rağmen teslim edilmediğini, davacı geç teslim sebebiyle manevi zarara uğradığını, davacı ağır zarara uğradığını, mahrum kalınan kar hesabının yapılması gerektiğini, teslim edilmemesi sebebiyle sözleşme 8/D ile 9/F ile TBK 179 maddesi gereğince sözleşme bedeli olan 10.000,00 TL cezai şarta davacının hak kazandığını belirterek;
 
@@ -147,6 +165,8 @@ davalı edimlerini tamamladığını, sözleşmenin imza anında davalının eri
 
 ## İstanbul BAM 40. HD 2025/752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1149216800)
+
 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) 355'inci maddesi uyarınca ileri sürülen istinaf nedenleri ve kamu düzenine ilişkin konularla sınırlı biçimde yapılan incelemede: Dava, ZMSS poliçesini düzenleyen davacı ... Sigorta AŞ'nin, dava dışı üçüncü kişilere ödediği tazminatın, sözleşmeye aykırı davrandığını ileri sürdüğü sözleşmenin tarafı işletenden rücuen tahsili amacıyla başlatılan icra takibine davalının itirazının iptali istemine ilişkindir. Dosyaya eklenen Bakırköy ...'uncu İcra Dairesinin ... (E) sayılı takip dosyasının incelenmesinde, davacı ... Sigorta AŞ (eski unvanı ... Sigorta AŞ) tarafından, toplam 5.500 TL asıl alacak, 181,50 TL işlemiş faiz olmak üzere toplam 5.681,50 TL alacağın, davalı ...AŞ ve dava dışı ...'dan rücuen tahsili amacıyla 22/7/2019 günü haciz yoluyla icra takibine başlandığı, ödeme emrini 26/7/2019 günü tebliğ alan davalının vekili vasıtasıyla 2004 sayılı İcra ve İflas Kanununun 66'ıncı maddesinde öngörülen süre içerisinde, 30/7/2019 günü icra dairesine verdiği dilekçeyle borca itiraz etmesi üzerine takibin adı geçen davalı yönünden durduğu; Bakırköy ...'uncu İcra Dairesinin ... (E) sayılı takip dosyasının incelenmesinde ise davacı ...
 Sigorta AŞ (eski unvanı ... Sigorta AŞ) tarafından, toplam 36.000 TL asıl alacak, 225 TL işlemiş faiz olmak üzere toplam 36.225 TL alacağın, davalı ... AŞ ve dava dışı ...'dan rücuen tahsili amacıyla ... günü haciz yoluyla icra takibine başlandığı, ödeme emrini 26/7/2019 günü tebliğ alan davalının vekili vasıtasıyla 2004 sayılı İcra ve İflas Kanununun 66'ıncı maddesinde öngörülen süre içerisinde, 30/7/2019 günü icra dairesine verdiği dilekçeyle borca itiraz etmesi üzerine takibin adı geçen davalı yönünden durduğu, eldeki itirazın iptali davasının ise icra takip dosyasında itirazın alacaklıya tebliğ edildiğine ilişkin belge bulunmadığı da gözetildiğinde aynı Kanunun 67'nci maddesinde öngörülen süre içinde açıldığı sonucuna varılmıştır. Davacıya ZMSS poliçesiyle sigortalı ... plakalı kamyonet cinsinden ticari aracın sürücüsü dava dışı ...'nun, kolluk tarafından düzenlenen alkol tespit tutanağı içeriğine göre 1,63 promil oranında alkollü olduğunun anlaşılması, davacı ....
 
@@ -155,6 +175,8 @@ Sigorta AŞ (eski unvanı ... Sigorta AŞ) tarafından, toplam 36.000 TL asıl a
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere: I-Davalı ... İhracat Sanayi Ticaret AŞ vekilinin istinaf başvurusunun kabulüne, yukarıda esas ve karar numarası belirtilen ilk derece mahkemesinin kararının, HMK'nin 353/1-b/2'nci maddesi gereğince düzeltilerek yeniden esas hakkında karar verilmek üzere kaldırılmasına …
 
 ## Ankara BAM 22. HD 2025/728 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156711800)
 
 Davalı vekili cevap dilekçesinde özetle; alacağın zamanaşımına uğradığını, davanın hak düşürücü süre içinde açılmadığını, sunulan fatura fotokopisinde müvekkil şirkete ilişkin bir imza görülmemekte olup faturanın okunaklı örneğinin ve/veya aslının mahkemeye sunulması halinde beyanda bulunmak haklarını saklı tuttuklarını, faturada herhangi bir imza olması halinde ise bu imzaya açıkça itiraz ettiklerini, taraflar arasında temel borç ilişkisi bulunmadığını, müvekkil şirketin davacıdan iş makinesini almadığını savunarak davanın reddine ve kötüniyet tazminatına karar verilmesini istemiştir.
 

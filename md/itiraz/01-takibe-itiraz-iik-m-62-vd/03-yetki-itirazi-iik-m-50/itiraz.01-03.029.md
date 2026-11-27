@@ -40,6 +40,8 @@ Dosya kapsamında icra takibine dayanak teşkil eden faturanın davalının tica
 
 ## İstanbul BAM 13. HD 2024/531 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045504800)
+
 Lojistik'in gerek emtianın gümrükte toplam bekleme süresi olan 75 gün içerisinde, gerekse bu sürenin bitiminden sonra tasfiye yoluyla satışına kadar geçen süre içerisinde emtianın ithaline, ihracına, antrepoya alınmasına, transitine veya konteynerlerden boşaltılmasına ilişkin bir takip yetkisinin bulunmaması ve emtianın gümrük denetiminde uzun süre bekletilmesinin tamamen emtia üzerinde tasarruf yetkisi bulunan ... Bankası ve ... firmasından kaynaklanması sebebiyle davacı tarafından talep edilen Demuraj ücretinden sorumlu tutulamayacağı belirtilmiştir. Dava; deniz taşımasında kullanılan konteynerin serbest süreden sonra teslim edilmemesi nedeniyle konteyner demuraj alacağının tahsili istemine ilişkindir. Davalı vekili zamanaşımı itirazında bulunmuş ise de; konteynerlerin tahliye limanına 21/08/2014 tarihinde gelip davaya konu takibin 02/06/2015 tarihinde başlatıldığı nazara alındığında TTK 1246. Maddesi uyarınca zamanaşımı itirazının reddine karar vermek gerekmiştir.
 Davalı vekili mahkememiz yetkisine itiraz etmiş ise de uyuşmazlığın TTK 5.kitabında yer alan uyuşmazlıklardan olup mahkememizin İstanbul Mülki Hudutları dahilinde münhasıran deniz ticareti ve deniz sigortalarına bakmakla görevli kılınan mahkeme olduğu nazara alınarak ayrıca yetki itirazının da usulünce de olmadığı anlaşılmakla yetki itirazının reddine karar vermek gerekmiştir. Davalı vekili uygulanacak hukuk itirazında bulunarak uyuşmazlığa İngiliz Hukukunun uygulanması gerektiğini beyan etmiş ise de; davaya konu uyuşmazlıkta yabancılık unsuru bulunsa da boşaltma limanı Türkiye olup baskın hukukun Türk Hukuku olduğu anlaşılmakla uygulanacak hukuk itirazının reddine karar vermek gerekmiştir. Mahkememizce yapılan yargılama, özü itibariyle birbirini teyit edip mahkememizce itibar olunan 27/04/2018 havale tarihli ve 28.01.2019 tarihli bilirkişi çoğunluk raporları birlikte değerlendirildiğinde; dosyada mevcut uyuşmazlığın çözümüne ilişkin belgelerden ... nolu konişmento kayıtları incelendiğinde, Shipper -Yükleten: ... Limited Consignee gönderilen: ... Bankası Notify Party- ihbar olunan; ..., delivery Agent -Teslim Acentesi; ... (... Tic. Ltd. Şti.;
 
@@ -48,6 +50,8 @@ Davalı vekili mahkememiz yetkisine itiraz etmiş ise de uyuşmazlığın TTK 5.
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davalının istinaf başvurusunun 6100 Sayılı HMK'nun 353/1-b1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 12. HD 2024/484 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028063200)
 
 Hesabın kat edildiği tarih itibariyle TCMB tarafından KMH ve kredi kartı alacakları için % 22,08 akdi, 28,08 temerrüt faizi belirlendiğinden ve bu faiz oranlarının aşılması mümkün olmadığından davacı bankanın KMH ve kredi kartı alacağına % 35 oranında faiz uygulanmasına yönelik istinaf sebebi yerinde görülmemiştir. Hükme esas alınan bilirkişi raporunda KMH ve kredi kartından kaynaklanan alacak için faiz oranı % 33,12 olarak belirlemiş ise de davalıların aleyhlerine olan bu durum nedeniyle istinaf başvurusu bulunmadığından bu husus inceleme konusu yapılmamıştır. Davacı banka, takip sonrası işleyecek faizin, yetkisiz icra takibinin başlatıldığı tarihten itibaren uygulanmasına karar verilmesi gerektiğini ileri sürmekte ise de mahkemenin kararında takip sonrası işleyecek faizin başlangıcı için ayrıca bir tarih belirtilmemiş, takibin 91.011,59-TL alacak yönünden aynen devamına karar verilmiştir. Mahkemece takip sonrası işleyecek faizin başlangıcı için ayrıca bir tarih belirtilmediğinden, mahkemenin hükmü gereğince alacağa takibin başlatıldığı 13/06/2018 tarihinden itibaren faiz işleyeceğinden davacı vekilinin istinaf başvurusunda haklılık görülmemiştir.
 Diğer taraftan davacı bankanın 04/04/2018 kat tarihi itibariyle 139.372,98-TL, 10/04/2018 temerrüt tarihi itibariyle 139.821,77-TL alacağı tespit edilmiştir. Davacı banka tarafından, dosyanın yetkili icra dairesine gönderildiği 22/07/2019 tarihinden itibaren faiz hesaplanmasının hatalı olduğu, faizin takibin yetkisiz icra dairesinde başlatıldığı 13/06/2018 tarihinden itibaren hesaplanması gerektiği ileri sürülmüştür. Ancak hükme esas alınan bilirkişi raporunda 10/04/2018 olan temerrüt tarihi itibariyle tespit edilen 139.821,77-TL alacağa takibin başlatıldığı 13/06/2018 tarihini de kapsayacak şekilde, temerrüt tarihinden kısmi ödemenin yapıldığı 24/10/2019 tarihine kadar % 33,12 temerrüt faiz oranı üzerinden faiz hesaplandığı dikkate alındığında davacı bankanın faizin eksik hesaplandığına dair aksi yöndeki istinaf nedenleri yerinde görülmemiştir.
@@ -58,12 +62,16 @@ HÜKÜM:Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunu
 
 ## İstanbul BAM 3. HD 2024/393 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/991934900)
+
 Bu durumda borçlular yetki itirazında, HMK'nın 19/2. maddesinde yazılı "birden fazla yetkili mahkeme (icra dairesi) varsa seçtiği mahkemeyi (icra dairesini) bildirir" hükmünü yerine getirmemişlerdir. O halde mahkemece borçluların yetki itirazlarının geçersiz olduğu gözetilerek yetki itirazının reddi ile borca itirazlarının esasının incelenmesi gerekirken, yetki itirazının kabulü yönünde hüküm tesisi isabetsizdir. " (Yargıtay 12. HD. 2015/12752 E., 2015/17853 K. 25-06-2015 T.)hususunun belirtildiği,davalıların dava konusu Bakırköy ... İcra Müdürlüğü ... E. Sayılı icra dosyasına sunmuş olduğu itiraza bakıldığında ise davalıların icra müdürlüğü yetkisine itiraz ettikleri ancak yetkili icra müdürlüğünü açıkça bildirmediklerinin görüldüğün,bu nedenle, icra takibine itirazda, hukuken geçerli bir yetki itirazından bahsedilebilmesi için yetkili icra müdürlüğünün açıkça bildirilmesi gerektiği kanunen tartışmasız olduğu, davalı borçluların itirazının geçerli bir yetki itirazı olmadığını beyanla kararın kaldırılmasını talep etmiştir. 6100 sayılı HMK'nun 355 md gereğince, istinaf sebepleri ile sınırlı olarak yapılan incelemeye göre;
 Dava, kaçak elektrik tahakkuku nedeniyle yapılan takibe karşı borca ve yetkiye itirazın iptaline ilişkindir. Davalılar hakkında yapılan icra takibine karşı davalı-borçluların süresinde hem borca hemde icra müdürlüğünün yetkisine itiraz ettiği, itiraz neticesinde icra takibinin durdurulmasına karar verildiği anlaşılmıştır. Davalı şirketin merkezinin ve adresinin Eyüpsultan İstanbul, diğer davalı ...ın adresinin de Fatih/İstanbul olduğu,ayrıca kaçak elektrik kullanım eylemi nedeniyle haksız fiilin meydana geldiği yerin İstanbul icra daireleri yetkisinde kaldığı,davacının adresinin de yine İstanbul İcra Müdürlüğü yetkisi içinde kaldığı, belirlenmiştir.Söz konusu takip Bakırköy İcra Müdürlüğünde yapılmış ise de,davalıların takipte icra dairesinin yetkisine itiraz dilekçelerinde yetkili icra müdürlüğünü göstermedikleri anlaşılmıştır.
 
 Somut olayda, davalı-borçluların icra dairesinin yetkisine itiraz ettiği ancak itirazında yetkili icra dairesinin neresi olduğunun bildirilmediği, bu haliyle icra dairesinin yapılan yetki itirazın geçersiz olduğu, böylece icra dairesinin yetkisinin kesinleştiği sabit olduğundan, mahkemece işin esasına girilerek, neticesine göre karar verilmesi gerektiği gözetilmeksizin verilen karar usul ve hukuka uygun bulunmamıştır. Bu itibarla davacının istinaf talebinin kabulü ile karar HMK 353/1a-6.madde gereği kaldırılarak dosyanın mahkemesine geri gönderilmesi gerekmiştir.
 
 ## İstanbul BAM 13. HD 2024/371 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002899200)
 
 2 uyarınca buna dayanılarak ileri sürülen yetki itirazının iyiniyet kuralına aykırı olduğunu, Bu nedenlerle konşimentonun arka yüzünde yer alan ve küçük puntolar ile nerdeyse okunamayacak şekilde yer alan ve davalı taşıyanın "genel konşimentosu"nda yer alan özel şartlara atıfta bulunan, tek taraflı hazırlanan genel işlem şartı ve iltihaki bir sözleşme niteliğindeki hükümlere dayanılarak uygulanacak hukuk ve yetki yönünden ileri sürülen itirazların haksız olduğunu ve iyiniyet kurallarına da açıkça aykırı olduğunu; yetki hususuna ilişkin şartın, davalı şirket tarafından taşımanın gerçekleştiğini gösteren ve taşıyan tarafından tek taraflı olarak düzenlenen ve taşıyanın sadece sorumluluklarını gösteren konşimentoda dahi açık bir biçimde yer almamakta olduğunu; ilgili konşimentoda, yetkiye ilişkin yalnızca ve yalnızca "Bu sözleşme güncel Sealand Konşimentosunda beyan edilen değer maddeleri, yükümlülük sınırlandırması, yargılama yeri dahil güncel Sealand Konşimentosu (taşıyıcı ve temsilcilerinden ve http://..com/... adresinden edinilebilir>) şart ver koşullarına tabidir." ifadelerinin yer aldığını; yetki sözleşmesinin geçerli kabul edilmesi için yetkiye ilişkin iradenin açık ve hiçbir
 duraksamaya yer vermeyecek şekilde kararlaştırılmış ve kabul edilmiş olması gerekeceğini ancak konşimentoda açık bir biçimde kararlaştırılmış bir yetki itirazı bulunmamakta olup; aksine son derece kapalı bir anlatımla davalının internet sitesine yönlendirmek suretiyle genel şartlara bakılmasına atıfta bulunulduğunu; yetki şartının, geçerli kabul edilebilmesi için kanunun ve yerleşik içtihatların gereklerine uygun olmadığını; yetki şartı hükmüne dayanılarak yapılan yetki itirazının reddi gerekirken, davanın usulden reddine karar verilmesinin hukuka aykırı olduğunu, MÖHUK m.46’da yer alan “Sigorta sözleşmesinden doğan uyuşmazlıklarda, sigortacının esas işyeri veya sigorta sözleşmesini yapan şubesinin ya da acentasının Türkiye’de bulunduğu yer mahkemesi yetkilidir.
@@ -81,6 +89,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6
 
 ## İstanbul BAM 43. HD 2024/285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024843100)
+
 Dava; genel kredi sözleşmesinden kaynaklanan alacağın tahsili amacıyla yapılan icra takibine itirazın iptali istemine ilişkindir.
 
 …
@@ -97,6 +107,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle: 1-Davacı vekilinin istinaf başvurusu
 
 ## İstanbul BAM 3. HD 2024/273 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988068400)
+
 Dosyanın Organize Sanayi Bölgeleri konusunda uzman bilirkişiye tevdii ile organize sanayi bölgesinde toplu yapıya geçilip geçilmediği, toplu yapıya geçilmesine veya geçilmemesine gerek bulunup bulunmadığı, atık su konusunda genel kurul kararı bulunup bulunmadığı, genel kurul kararı varsa davetiyenin usul ve yasaya uygun olup olmadığı, alınan kararların yeterli çoğunluğa haiz olup olmadığı, müvekkili şirketin katılımcı sıfatını haiz olup olmadığı konularında rapor alınması gerekirken husumete yönelik itirazlarının reddedildiğini, 4-Ortak giderlerden kaynaklanan davanın Sulh Hukuk Mahkemesi'nde görülmesinin gerektiğini, 5-Müvekkili şirketin merkez adresi İstanbul Zeytinburnu’nda olup Çorlu ... İcra Müdürlüğü'nün yetkisiz olduğunu, ortada geçerli bir takibin bulunmadığını, 6- Somut olayda takibe haklı olarak itiraz edildiğini, icra inkar tazminatı koşullarının oluşmadığını beyanla kararın kaldırılmasını talep etmiştir.
 6100 sayılı HMK'nun 355 md gereğince, istinaf sebepleri ile sınırlı olarak yapılan incelemeye göre;Dava, itirazın iptali talebine ilişkindir.Dosya içeriğine göre, Davacı alacaklı tarafından davalı borçlu aleyhine atık su bedelinden kaynaklanan 583.347,39 TL alacağın tahsili talebiyle Çorlu ... İcra Dairesi'nin ... E. Sayılı dosyası üzerinden ilamsız icra takibine girişildiği, davalının icra dairesinin yetkisine ve borca itirazı nedeniyle takip durduğundan itirazın iptali talebiyle eldeki davanın açıldığı anlaşılmaktadır.1.)Alacak ortak giderlerden değil ,davalının ürettiği atık su bedelinden kaynaklanmaktadır. Genel hükümlere dayalı davanın çözümünde Sulh Hukuk mahkemesi görevli değildir. 2.)İtirazın iptali davasında usulüne uygun olarak başlatılmış ve itirazla durmuş bir takibin varlığı dava şartı olup, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 115 inci maddesi uyarınca dava şartının varlığı yargılamanın her aşamasında mahkemece re'sen gözetilmelidir. İtirazın iptali davasını gören mahkemenin, icra takibinin yapıldığı icra dairesinin yet- kisine yönelik itirazı öncelikle incelemesi gerekir.
 Mahkemenin yetkisine yönelik bir itirazın var olup olmaması, bu sonuca etkili değildir.
@@ -108,6 +120,8 @@ Nolu 01.06.2023 tarihli ilamı) Davalı her ne kadar icra dairesine itirazında 
 (Yargıtay 3. HD'nin 2022/2901 E., 2022/4879K. Nolu 23/05/2022 tarihli ilamı) Somut olayda ,yargılama sırasında dava konusu icra dosyasındaki ferileriyle birlikte dava dışı üçüncü kişi (... ) tarafından tamamen ödenmiş olmakla dava konusuz kalmıştır. 5. İcra inkar tazminatı yönünden ise; İcra ve İflas Kanunu'nun 67. maddesinin 2. fıkrası hükmüne göre; icra inkar tazminatına hükmedilebilmesi için, borçlunun takip sırasında ödeme emrine itiraz etmesi ve alacaklının, alacağını mahkemede dava ederek haklı çıkması yasal koşullardandır. İcra inkar tazminatı, aleyhinde yapılan icra takibine itiraz eden borçluya karşı konulmuş bir yaptırımdır. Öte yandan, alacağın likit ve belli olması gerekir.
 
 ## İstanbul BAM 13. HD 2024/269 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994609200)
 
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ: İlk Derece Mahkemesi 16/01/2024 tarih 2023/971 Esas 2024/54 Karar sayılı kararında;"...Somut olayda icra dairesinin yetkisine itiraz edilmiştir. Davalı vekilinin icra dairesinin yetkisine yönelik itirazını süresinde sunduğu, taraflar arasında ifa yeri olarak başkaca bir yer belirlenmediği, özel hükümlere göre de dava konusu itibariyle borçlunun yerleşim yeri olan Küçükçekmece İcra Dairelerinin yetkili olduğu değerlendirilmiştir.
 
@@ -125,6 +139,8 @@ Aksine bir anlaşma yoksa, aşağıdaki hükümler uygulanır; 1. Para borçlar�
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun KABULÜ ile; Bakırköy 5. Asliye Ticaret Mahkemesi'nin 16/01/2024 tarih ve 2023/971 Esas - 2024/54 Karar sayılı kararının HMK'nın 353/1-a4,a6 maddeleri uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 43. HD 2024/260 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019617600)
 
 Dava; ticari satım sözleşmesine dayalı fatura alacağının tahsili istemiyle başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
@@ -157,6 +173,8 @@ Davacı vekili istinaf kanun yolu başvuru dilekçesi ile; 1010/2020 tarihinde .
 İtirazın iptali davasını gören mahkemenin, icra takibinin yapıldığı İcra Dairesinin yetkisine yönelik itirazı öncelikle incelemesi gerekir. Mahkemenin yetkisine yönelik bir itirazın var olup olmaması, bu sonuca etkili değildir. İtirazın iptali davasında, mahkemenin yetkisine itiraz edilmiş olsun veya olmasın, mahkeme öncelikle, icra dairesinin yetkisine yönelik itirazı inceleyerek kesin olarak sonuçlandırmalıdır (Yargıtay HGK 2001/19-267 E-2001/311 K sayılı ilam).
 
 ## İstanbul BAM 13. HD 2024/203 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042575100)
 
 Dava; davacının konteyner demuraj alacağının tahsili için başlatılan icra takibine itirazın iptaline ve davacı lehine icra inkar tazminatına hükmedilmesi talebine ilişkindir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Adana BAM 9. HD 2025/2694 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187084200)
+
 Davalı vekilinin cevap dilekçesinde özetle; Hesap kat ihtarnamesinin usulüne uygun olarak tebliğ edilmediğini, davacı tarafın dava dışı ... Tarım Ürün.
 
 …
@@ -43,11 +45,15 @@ kabulüne, asıl alacağa takip tarihinden itibaren yıllık %39 oranında temer
 
 ## İstanbul BAM 3. HD 2025/2370 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169835300)
+
 K A R A R: Yukarıda açıklanan nedenlerle; Davacının istinaf talebinin kabulüyle HMK 353/1-b-2 maddesi gereğince karar kaldırılarak yeniden esas hakkında; 1- Davanın kabulüne, davalının İstanbul 4. İcra Müd.'nün ... E.
 Sayılı dosyası üzerinden takibine girişilen borca vaki itirazın iptali ile takibin devamına,Haksız itirazı ile takibin durmasına sebebiyet veren davalı borçlunun hüküm altına alınan (51.200,00 TL) alacağnı % 20'si oranında icra inkar tazminatı ile mahkumiyetine,2- Alınması gereken 3.497,47 TL nisbi karar ve ilam harcından peşin alınan 618,37TLTL nin mahsubu ile bakiye 2.879,10 TL harcın davalıdan tahsili ile hazineye gelir kaydına, (Harç tahsil müzekkeresinin temyiz edilen dosyalarda Dairemizce, temyiz edilmeden kesinleşen dosyalarda (İlk Derece Mahkemesince daha önce yazılmadığı anlaşılmakla) İlk Derece Mahkemesince ilgili Vergi Dairesine yazılmasına,)3- Davacının yatırdığı 618,37 TL harcın davalıdan alınıp davacıya verilmesine,4- Davacı tarafça yapılan 8.152,75 TL yargılama giderinin davalıdan alınıp davacıya verilmesine,5- Davacı vekille temsil edildiğinden karar tarihindeki AAÜT uyarınca 30.000,00TL avukatlık ücretinin davalıdan alınıp davcıya verilmesine,6- Taraflarca yatırılan gider avansından arta kalan kısmı karar kesinleştiğinde taraflara iadesine,İstinaf incelemesiyle ilgili olarak;
 Peşin alınan istinaf karar harcının, istinaf edene isteği halinde ilk derece mahkemesince iadesine,Davacının istinaf sebebiyle yapmış olduğu 330,00 TL istinaf yargılama giderinin davalıdan alınarak davacıya verilmesine,İstinaf sebebiyle yatırılan gider avansı bakiyesi varsa, karar kesin olmakla istinaf edene ilk derece mahkemesince iadesine,Dair dosya üzerinden yapılan inceleme sonunda HMK 362/1-a maddesi gereğince kesin olmak üzere oybirliği ile karar verildi. 02/10/2025 …
 
 ## Adana BAM 9. HD 2025/2250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179253300)
 
 Davalı vekili cevap dilekçesinde özetle; dava konusu takibin ...'da açıldığını, davacı taraf kredinin ...'da kullandırıldığını ileri sürmüş ise de davacının yanıltıcı beyanda bulunduğunu, sözleşmenin ...'da düzenlendiğini, bu nedenle yetki itirazında bulunduğunu, ayrıca davacı bankadan kullanılan kredi için imza attığını, imza attığı kredinin ödendiğini, asıl borçlunun daha sonra davacı banka ile yeni bir kredi için yeni Genel Kredi Sözleşmesi imzaladığını, son yapılan kredi sözleşmesinde imzasının bulunmadığını, sonradan kullandırılan bu kredi nedeniyle sorumluluğunun olmadığını, ayrıca teminat altına alınmış alacak için teminat paraya çevrilmeden kefil aleyhine takip yapılmasının da usule aykırı olduğunu, alınan kefaletin usul ve yasaya aykırı olarak alınmış olup, el yazısı ile alınmadığını ve eşinin rızasının da alınmadığını belirterek davanın reddine karar verilmesini talep etmiştir.
 
@@ -61,6 +67,8 @@ Dava tarihi itibarıyla, yasal süre içerisinde ödeme emrine itiraz edilmiş o
 
 ## İstanbul BAM 17. HD 2025/1763 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187484000)
+
 Davalı ... ... ... Hizmetleri A.Ş. tarafından cevap dilekçesi sunulmamıştır.
 
 …
@@ -72,6 +80,8 @@ Mahkemece, davanın kabulü ile Büyükçekmece 3. İcra Müdürlüğünün ...
 Büyükçekmece 3. İcra Müdürlüğü'nün ... E. Sayılı dosyası incelendiğinde; 43.719,98 TL asıl alacak ve 2.639,37 TL işlemiş faiz oranı üzerinden 05.05.2019 tarihinde ilamsız icra takibinin başlatıldığı, takip talebinde takip tarihinden itibaren asıl alacağa avans faizinin uygulanmasının talep edildiği, davalılar tarafından borca, faize ve faiz oranına itiraz üzerine takibin durmasına karar verildiği, ödeme emrine itirazın davacı alacaklıya tebliğ edildiğine dair bir belge dosyada bulunmadığından eldeki itirazın iptali davasının yasal bir yıllık süresi içerisinde açıldığı anlaşılmıştır.
 
 ## Ankara BAM 21. HD 2025/1692 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189156300)
 
 Mahkemece; davalı tarafından davacıya ait ... plaka sayılı araç için kasko sigorta poliçesinin düzenlendiği, Etimesgut İlçe Emniyet Müdürlüğünün plaka tanıma sisteminde kayıt bulunmadığına dair yazı cevapları, Posta ve Telgraf Teşkilatı Anonim Şirketinin hızlı geçiş sistemi kayıtlarına ilişkin yazı cevabı, soruşturma dosyası, hasar dosyası kapsamında davacının aracın bırakıldığını öne sürdüğü tamirhane sahibinin yazılı beyanı dikkate alındığında, davacı sigortalının rizikonun gerçekleştiği hususunu hayatın olağan akışına uygun olacak şekilde ispat edemediği, kamyon nitelikli aracın Ankara ilinde plaka tanıma sisteminde kaydının ve Şanlıurfa ilinde bulunan istasyondan çıkış yaptıktan sonra tekrar giriş kaydının bulunmamasının hayatın olağan akışına aykırı olduğu, TTK'nin 1409 ve devamı maddeleri ile Kara Araçları Kasko Sigortası Genel Şartları hükümleri ve 6100 sayılı HMK'nin 190/1. maddesi hükmü birlikte değerlendirildiğinde riziko sonucu zararın meydana geldiği hususunun sigortalı tarafından ispat edilmesinin gerektiği, bu hali ile aracın hırsızlık sonucu çalındığına ilişkin ispat yükü üzerinde bulunan davacı tarafından dava dilekçesinde öne sürülen hırsızlık olayının
 gerçekleştiğinin ispat edilemediği anlaşıldığından davanın reddine karar verilmiştir.
@@ -94,6 +104,8 @@ Ankara 14. Asliye Ticaret Mahkemesi'nin 04/04/2023 tarih ve 2021/690 Esas 2023/2
 
 ## İstanbul BAM 13. HD 2025/1592 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179831200)
+
 Davacı vekili dava dilekçesinde özetle; ihyasını talep ettikleri ... Otomotiv Tic. A.Ş.,'nin müvekkili şirkete borçlu bulunduğu, müvekkili şirketin alacağı sebebi ile ihyası istenen borçlu şirket aleyhine Beykoz İcra Md. ...
 
 …
@@ -111,6 +123,8 @@ Asliye Ticaret mahkemesinin 2023/236 Esas sayılı dosyası ile itirazın iptali
 Davalı tasfiye memuru ...'nın istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b-1 maddesi gereğince ESASTAN REDDİNE …
 
 ## Kayseri BAM 6. HD 2025/1521 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168214800)
 
 Davalı vekili dosyaya sunduğu cevap dilekçesinde;
 " müvekkil şirket yıllardır davacı şirket ile ticaret yapmakta olup, davacı şirketten tedarik ettiği tüm ürünlerin bedellerini eksiksiz olarak ödediğini, davacı şirketle yaklaşık 7 yıldır ticaret yapan müvekkil şirket son ticarette davacının teamül haline gelen yükümlülüklerini ifa etmemesi dolayısıyla müvekkil zarara uğratıldığını, yapılan ticarette davacı şirket tarafından müvekkil şirkete garanti kapsamında bazı hak ve yetkiler tanınmış olup, davacı şirketin üzerine düşen yükümlülükleri yerine getirmemesi nedeniyle yani var olan sözleşmeye aykırı davranması nedeniyle müvekkil, eksik ve hatalı ürünler için ödeme yapmaktan imtina etmiş, gelen lenslerden ihtiyacımızı karşılamayan lensler yerine farklı numaralarda aynı tip lenslerle değiştirmek istemiş, ancak tedarikçi firma satışa konu lensleri normal fiyatların çok çok üzerinde fiyat biçerek müvekkilin değişim talebini reddetmiş, bu lensleri müvekkil üzerinde bırakarak kullanılamaz atıl durumdaki lensler nedeniyle müvekkilin zarara uğramasına sebebiyet verdiğini, teslim edilen lenslerin bir çoğunun hem kullanılamaz numara aralığında olması hem de bazı lenslerin ÜTS kaydı olmaması nedeniyle bu lenslerin %90'ı müvekkil şirket
@@ -130,6 +144,8 @@ KAYSERİ 1. ASLİYE TİCARET MAHKEMESİ'nin istinafa konu edilen 10/04/2025 tari
 
 ## İstanbul BAM 43. HD 2025/1477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182911100)
+
 GEREKÇE : Dava, genel kredi sözleşmesinden kaynaklanan kredi alacağının tahsili istemiyle başlatılan icra takibine vaki itirazın iptali davasıdır.İstinafa gelen uyuşmazlık temelde, kararın eksik incelemeye dayalı olup olmadığı noktasındadır.Davacı banka ile davalı ... ... İnşaat Otomotiv Nakliyat Sanayi Ticaret Limited Şirketi arasında 20/11/2015 tarihinde Genel Kredi Sözleşmesi imzalanmış ve davalılar ...ve ... ... bu sözleşmeye müteselsil kefil olmuştur.Davacı takip alacaklısı tarafından, davalı takip borçluları hakkında, İstanbul Anadolu 4. İcra Müdürlüğünün ... Esas sayılı takip dosyasında, "genel kredi sözleşmesi, hesap özeti, hesap kat ihtarı" sebebine dayalı olarak 17.022,55 TL asıl alacağın, 170,64 TL işlemiş faizi ve 8,53 TL BSMV'siyle birlikte tahsili istemiyle 15/01/2019 tarihli takip talebi ile ilamsız icra takibi başlatılmış, takip borçlusunun itirazı üzerine takip durmuştur.Davacı tarafça, 2004 sayılı İcra ve İflas Kanunu(İİK)'nun 67. maddesi uyarınca itirazın iptaline karar verilmesi istemiyle eldeki dava açılmıştır.İlk derece mahkemesince bankacı bilirkişiden alınan raporda, davalıların sorumlu oldukları miktarlar hesaplanmıştır.
 Bilirkişi raporunun somut olaya uygun gerekçeli ve denetime elverişli olması nedeniyle hükme esas alınmasında bir isabetsizlik bulunmamaktadır. Davalı tarafın, bilirkişi raporundaki hesaplamalara somut bir itirazı bulunmadığı da nazara alındığında davanın hükümde yazılı olduğu gibi kısmen kabulüne karar verilmesinde bir isabetsizlik bulunmamaktadır.Tüm bu nedenlerle davalı ... ... İnşaat Otomotiv Nakliyat Sanayi Ticaret Limited Şirketi ve ...vekilinin istinaf başvurusunun reddi gerektiği kanaatindeyim.HMK'nın 355. maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılan istinaf incelemesi sonunda; ilk derece mahkemesi kararının usul ve esas yönünden hukuka uygun olduğu anlaşıldığından davalı ... ... İnşaat Otomotiv Nakliyat Sanayi Ticaret Limited Şirketi ve ...vekilinin yerinde görülmeyen istinaf başvurusunun reddine karar vermek gerekmiştir.
 
@@ -138,6 +154,8 @@ Bilirkişi raporunun somut olaya uygun gerekçeli ve denetime elverişli olması
 Davalı ... ... İnşaat Otomotiv Nakliyat Sanayi Ticaret Limited Şirketi ve ...vekilinin vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 44. HD 2025/1387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182888600)
 
 Davalı vekili cevap dilekçesinde özetle; davacı tarafından, müvekkili ile aralarında akdedilen sözleşmelerin maddelerini ihlal ettiği iddiasıyla üstelik de cezai şart maddesine dayanılarak müvekkili aleyhine İstanbul 27. İcra Müdürlüğünün ...
 
@@ -165,6 +183,8 @@ römorkta herhangi bir dış etki görülmediği, yarı römorkun içindeki hasa
 E sayılı dosyalarına davalının haksız itirazlarının iptali ile takiplerin devamına, haksız itirazı ile takibin durmasına sebebiyet veren davalı aleyhine 9620'den aşağı olmamak üzere icra inkâr tazminatına hükmedilmesine, yargılama giderleri ile vekâlet ücretinin davalıya yükletilmesine karar verilmesini talep ve dava etmiştir.
 
 ## İstanbul BAM 17. HD 2025/1235 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171805200)
 
 Davalı vekili cevabında; rizikonunun gerçekleştiğini ispat yükünün sigortalıda olduğunu, sigortalının hasarın gerçek bir hırsızlık sonucu gerçekleştiğini ortaya koyması gerektiğini, sigortalının poliçenin düzenlenmesinden kısa bir süre sonra 14.05.2018 tarihinde işyerinde hırsızlık olayı yaşandığını iddia ederek müvekkili şirkete başvurduğunu, ancak bu başvurunun işyerinde alarm bulunmadığı gerekçesiyle reddedildiğini, sonrasında sigortalının 24.07.2018 tarihinde yeniden işyerinde hırsızlık yapıldığını ihbar ettiğini, alınan araştırma raporunda;
 "alarm şirketinin polise haber vermesinden sonra polisin 7 dakikada olay yerine intikal ettiği, bu kadar kısa süre içerisinde 124 oto lastiği, 8 adet akü ve 900 adet oto aksesuarının çalınmasının mümkün olmadığı, bina sakinlerinin olayla ilgili bir şey duymadıklarını beyan ettiği ve sigortalının mal aldığını iddia ettiği şahsın abisi olduğu" hususlarının tespit edildiğini, ekspertiz raporunda kapı üzerindeki kanırtma izlerinin bir önceki hasardan kalan izler olduğu, yeni bir kanırtma izi bulunmadığının tespit edildiğini, buna göre çalındığı beyan edilen emtiaların bu kadar kısa sürede çalınmasının imkansız olması, diğer yandan kapıdaki kanırtma izlerinin öncesinden kalması nedeniyle sigorta tazminatı ödenmediğini, davacının riziko öncesi işyerinde bulunan emtianın miktarı ve mevcudiyetini geçerli belgeler ile kanıtlaması gerektiğini, müvekkili şirket takipten önce temerrüte düşürülmediğinden, işlemiş faiz talebinin haksız olduğunu savunarak davanın reddine ve davacının alacağın % 20'sinden az olmamak üzere kötü niyet tazminatına mahkum edilmesine karar verilmesini talep etmiştir.

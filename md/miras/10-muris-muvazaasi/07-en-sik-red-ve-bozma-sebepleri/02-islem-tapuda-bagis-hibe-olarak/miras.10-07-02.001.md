@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2014/14261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84418800)
+
 Hemen belirtmek gerekir ki; davaya konu temliki işlemin bağış yoluyla gerçekleştirildiği ve 01/04/1974 tarihli, 1/2 sayılı İçtihadı Birleştirme Kararının uygulama yerinin bulunmadığı, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil davasının dinlenemeyeceği, ancak gerek vasiyet gerekse bağış akdine konu edilen her iki taşınmaz bakımından koşulların varlığı halinde tenkis isteğinin değerlendirilmesi gerektiğinde kuşku yoktur. Nitekim bu husus hükmüne uyulan bozma ilamında da vurgulanmıştır.
 
 ## Yargıtay 1. HD 2011/9912 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79110200)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, olmadığı takdirde tenkis isteğine isteğine ilişkindir.
 

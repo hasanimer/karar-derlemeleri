@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 45. HD 2020/420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622175900)
+
 Ödeme emrinin davalı borçluya 15.04.2013 tarihinde tebliğ edildiği, davalı borçlunun 17.04.2017 tarihinde borca itiraz ettiği davacının 03.05.2013 tarihinde itirazın iptali davasını açtığı görülmüş olup gerek itirazlar gerekse davanın yasal sürelere uygun olduğu anlaşılmıştır. Dava hakkında mahkememizce 03.11.2015 tarihinde kısmen kabul kararı verilmiş ancak mahkememiz kararı Yargıtay 19. Hukuk Dairesinin 2016/12333 E 2017/1187 K 16.02.2017 tarihli kararı ile ' ...bu durumda mahkemece davalının savunmalarında ve rapora itiraz dilekçesinde belirtilen itirazların değerlendirilmesi ve reklam panolarının bağlı olduğu bilgisayar sistemi , lig tv kayıtları, ve İstanbul Emniyet Müdürlüğü Asayiş Şube Müdürlüğü Spor Büro Amirliği kayıtları üzerinde konusunda uzman kişilerden oluşturulacak 3. Kişilik bilirkişi heyetine inceleme yaptırılarak , ayrıntılı ve yargıtay denetimine elverişli rapor alınıp tüm deliller hep birlikte değerlendirilmek suretiyle varılacak uygun sonuç dairesinde bir karar verilmesi gerekirken...' şeklindeki gerekçesi ile bozulmuştur.
 Bozma üzerine bozma gerekçesi doğrultusunda belirtilen kurumlardan görüntüler istenmiş Türkiye Futbol Federasyonu cevabi yazısında görüntülerin kendinde olmadığını, yayıncı kuruluştan temin edilmesi gerektiğini belirtmiş, İstanbul emniyet müdürlüğü ve yayıncı kuruluş görüntüleri göndermiş ve görüntüler üzerinde ve panoların bağlı olduğu bilgisayar üzerinde inceleme yapılmıştır. Taraflar arasındaki sözleşme örneği davacının reklam sözleşmesi yaptığı ... A.Ş:'nin reklamlarına ilişkin CD'ler, faturalar, reklam yayın çizelgeleri, iade faturası, icra dosyası, karşılıklı e-mailler, dosyamız içine alınmış ve incelenmiştir.
 
@@ -28,6 +30,8 @@ Bilirkişiler yargıtay bozma kararı çerçevesinde gerek maç görüntüleri g
 Rapor taraflara usulüne uygun olarak tebliğ edilmiş taraflar rapora beyan ve itiraz dilekçeleri vermişler ise de itiraz ve beyan dilekçeleri incelendiğinde raporun içeriğine bir itiraz olmadığı dava dilekçesi ve savunma dilekçelerinin tekrarı olduğu anlaşılmıştır. Bilindiği ve Türk Medeni Kanunu'nun 6.maddesinde düzenlendiği üzere "Kanunda aksine bir hüküm bulunmadıkça taraflardan her biri, hakkını dayandırdığı olayların varlığını ispatla yükümlüdür." Yine 6100 Sayılı HMK'nun 190/1.maddesi gereğince "ispat yükü, kanunda özel bir düzenleme bulunmadıkça iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Bu hükümler çerçevesinde reklam sözleşmesi gereğince reklamın eksik sürede yayınlandığı iddiasında bulunan davacının bu eksikliği ispat etmesi gerekmektedir. Davacının iddiasını ispat için dayandığı delillerin hepsi toplanmış ve uzman bilirkişiler aracılığı ile de incelemiştir.
 
 ## İstanbul BAM 14. HD 2020/76 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564770000)
 
 İlk derece mahkemesince, ihtiyati haciz talebinin reddine karar verilmiştir. Bu karara karşı davacı vekili tarafından, yasal süresi içinde istinaf kanun yoluna başvurulmuştur. İstinaf incelemesi, HMK'nın 355.maddesi uyarınca, ileri sürülen istinaf başvuru nedenleriyle ve kamu düzeni yönüyle sınırlı olarak yapılmıştır. İhtiyati haciz kararı verilebilmesi için İİK'nın 257. maddesindeki şartların oluşması gerekir. İİK'nın 257/1. maddesine göre, rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı... ihtiyati haciz talebinde bulunabilir. İİK'nın 258/1. maddesinin 2. cümlesine göre: "İhtiyati haciz kararı verilebilmesi için alacaklı, alacağı ve icabında haciz sebepleri hakkında mahkemeye kanaat getirecek delilleri göstermeye mecburdur." Bu madde uyarınca ihtiyati haciz talep eden, İİK'nın 257/1. maddesi kapsamında bir para borcunun alacaklısı olduğunu, borcun rehinle temin edilmediğini ve borcun vadesinin gelmiş olduğunu yaklaşık olarak mahkemeye kanaat getirecek tarzda ispat etmek durumundadır. Davacı takip alacaklısı tarafından Ankara ... İcra Müdürlüğünün ...
 E. sayılı icra dosyasından başlatılan icra takibinde 95.950 Usd alacağın tahsilinin talep edildiği, davalı takip borçlusu tarafından, icra dairesinin yetkisine ve borca itiraz edildiği, borca itirazında, iş ilişkisine istinaden düzenlenen faturalardan 45.664 Usd’lik kısmının ödendiğini, kalan mevcut borcun 50.286 Usd olduğunu belirterek takipteki borcun 45.664 Usd’lik kısmına itiraz edildiği anlaşılmaktadır. Davacı takip alacaklısı, davalı borçlunun icra dairesine ilişkin yetki itirazını kabul etmiş, icra takibindeki 95.550 Usd alacağının 36.550 Usd’lik kısmından feragat ederek yetkili icra dairesi olan İstanbul ... İcra Müdürlüğünün ... E. sayılı icra dosyasından 59.400 Usd alacağı üzerinden ödeme emri gönderilmiş, bu takipteki borcun tamamına davalı tarafça itiraz edilerek takip durdurulmuştur. Hal böyle olunca, ihtiyati haciz isteminin taraflar arasındaki taşıma ilişkisine ve faturalara dayandığı, davalı borçlunun savunması ve beyanları, ispat yükünün davalıda oluşu dikkate alınarak ihtiyati haczin kabulüne karar verilmesi gerekirken, reddedilmesi isabetsiz olmuştur.
@@ -38,6 +42,8 @@ Derdest davada bu aşamaya kadar gerçekleşen usul işlemleri ve alınan bilirk
 KARAR: Gerekçesi yukarıda açıklandığı üzere; İhtiyati haciz talep eden davacının istinaf başvurusunun İİK'nın 258/3 ve HMK'nın 353/1.b.2. maddeleri uyarınca KABULÜ ile ilk derece mahkemesinin ihtiyati haciz talebinin redine ilişkin 17.10.2019 tarihli ara kararının kaldırılmasına; ihtiyati haciz talebinin Dairemizce karara bağlanmasına …
 
 ## İstanbul BAM 14. HD 2019/1724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560581000)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda verilen ve istinaf başvurusuna konu edilen 11/03/2019 tarihli kararla; davaya konu icra takibinin mahkemenin yetki çevresindeki icra dairelerinin birinde başlatılmadığı nazara alınarak, dava şartı yokluğu nedeniyle davanın reddine karar verilmiştir. Bu karara karşı davacı vekilince istinaf başvurusunda bulunulmuştur.
 
@@ -54,6 +60,8 @@ KARAR: Gerekçesi yukarıda açıklandığı üzere;1-HMK'nın 353/1.a.4 maddesi
 
 ## İstanbul BAM 12. HD 2019/1505 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/547060200)
+
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ:İlk derece mahkemesince yapılan yargılama sonucunda, davacı tarafın asıl alacaklı olduğu geminin önceki malikinin iflasına karar verilmiş olduğu; 6 Ekim 2014 tarihli alım satım anlaşması ile Bölge Mahkemesi tarafından atanan iflas idaresi tarafından gerçekleştirilen açık arttırma sonucunda davalının gemiyi satın aldığı, oysa ki TTK’nun 1350. m. uyarınca satış tarihinde İzmir limanında bulunan dava konusu yabancı uyruklu gemi hakkında Litvanya Hukuku’na göre, Litvanya makamlarınca ne surette olursa olsun yapılmış olan bir satış muamelesinin, Türk Hukuku açısından cebri icranın sonuçlarını doğuramayacağı, mahkemenin 2015/142 esas sayılı değişik iş dosyasında verilen ihtiyati haciz kararında da gerekçe olarak bu hususun belirtildiği ve kararın Yargıtay 11.
 
 …
@@ -67,6 +75,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle;Davalı vekilinin istinaf başvurusunu
 
 ## İstanbul BAM 15. HD 2019/1319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537523800)
+
 Davalının istinaf sebepleri doğrultusunda yapılan incelemede, davacının dayanağı olan 15/06/2015 tarihli ... sıra numaralı irsaliyeli fatura aslında temsil eden bölümünde davacının isim ve imzasının bulunduğu, teslim alan bölümünde ise davalının imzasının bulunmadığı tespit edilmiş olup, bu durum yerel mahkemenin de kabulündedir.Davacı vekili taraflar arasındaki eser sözleşmesinden kaynaklı faturaya dayalı alacak talebinde bulunmuş, iş bedelinin ödenmediğini iddia etmiş, davalı ise istinaf dilekçesindeki savunmasında, takip ve dava konusu faturada söz konusu olan eser sözleşmesine ilişkin olarak taraflar arasında her hangi bir ilişki bulunmadığını, faturada yazılı malları teslim almadığını beyan ederek davanın reddini ve yerel mahkeme kararının kaldırılmasını talep etmiştir.
 Yerel mahkemece davalının icra dosyasına itiraz ederken sadece borca itiraz ettiği gerekçeiyle takip ve dava konusu fatura alacağının ispat edildiği kanaatine varılarak asıl alacak yönünden itirazın iptaline karar verildiği görülmüştür.Yargıtayın yerleşik içtihatları gereğince, faturanın onu teslim alan muhatabı borç altına sokabilmesi için her şeyden evvel borç doğurucu bir hukuki ilişkinin mevcudiyeti ve faturanın da bu ilişki nedeniyle düzenlenmiş olması gerekir. Süresi içerisinde itiraz edilmeyen faturanın, konusu olan malın teslim edildiği, iş veya hizmetin yapılmış olduğunun kabulü anlamına gelmez. Bu durumda taraflar arasında eser sözleşmesi yapıldığının ve alacağın ispat yükü davacı tarafta olup, davacı faturada yazılı malları davalıya teslim ettiğini kanıtlamak durumundadır. Somut olayda; taraflar arasında yazılı sözleşme bulunmasa da sözlü eser sözleşmesi ilişkisinin kurulduğu konusunda bir ihtilâf yoktur. Taraflar arasında sözleşme ilişkisi sabit olup, sözleşme inkar edilmemiştir. Davalının icra dosyasındaki borca itirazı, teslimi de kapsadığından yapılan işin, imalat ve bedel belirlenmesinin tanık ve tüm delillerle ispatı mümkündür.
 
@@ -76,6 +86,8 @@ Maddesi uyarınca iş bedelinin işin yapıldığı yılın mahalli piyasa rayi�
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davalı vekilinin istinaf başvurusunun KABULÜNE,2-Bursa 1. Asliye Ticaret Mahkemesi'nin 10/07/2017 tarih, 2016/1580 Esas, 2017/791 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2019/822 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512584000)
 
 Davacı vekili, taraflar arasında matbaacılık işlerine ilişkin ticari ilişki bulunduğunu, müvekkilinin bu ilişki kapsamında yaptığı işleri davalıya teslim ettiğini, fatura bedellerinin ödenmemesi üzerine Bakırköy ... İcra Müdürlüğü'nün ... Esas sayılı dosyası ile yapılan takipte davalının 7.116,76 TL'lik kısmı kabul ederek, 10.319,10 TL'lik kısım yönünden takibe, borca, ferilerine ve yetkiye itiraz ettiğini, TBK'nın 89.
 
@@ -88,6 +100,8 @@ mahkemesine iadesine karar verilmesini istemiştir. Somut olayda, davacı taraf�
 Bu durumda, icra takibinin davalı borçlu tarafından itiraz edilmeyen 7.116,76 TL üzerinden takip talebindeki şartlarla devamı gerekmektedir. Mahkemece itirazın iptaline dair açılan davanın tümden reddine karar verilmesi gerekirken kısmen kabulüne karar verilmesi doğru olmamıştır. Davalı tarafça icra dairesinin yetkisine itiraz edilmiş ise de, icra dairesinin takip yapmakta yetkili olduğu da anlaşılmaktadır.
 
 ## İstanbul BAM 17. HD 2019/10 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461666900)
 
 Davacı vekili, 26.01.2016 tarihli dava dilekçesinde, müvekkili ile davalı r....Ltd.Şti arasında, aylık ölçme hizmetinin içeriği ve bu hizmete dayalı sözleşme gereğince yapılan harita mühendisliği hizmeti sonucu, takibe konu, hak ediş meblağının müvekkiline ödenmemesi üzerine icra takibi başlatıldığını, davalıların icra takibine karşı, yetki itirazı ile birlikte adi ortaklığın tüzel kişiliğinin olmaması nedeniyle icra takibi yapılamayacağı gerekçesi ile itiraz ettiğini, haksız ve mesnetsiz olarak ödeme yapmadığı gibi kötü niyetli olarak takibe itiraz ettiğini, davalı ...
 
@@ -112,6 +126,8 @@ Bu durumda , mahkemenin ,davalı borçluların yasal sürede ve usulüne uygun �
 
 ## İstanbul BAM 3. HD 2018/1705 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/457754700)
+
 Davalı vekili davaya cevap dilekçesinde özetle; müvekkiline ait ... plakalı aracın 20/07/2015 tarihinde bir kaza geçirdiğini, davacı ile uzun yıllardır çalışıldığını , bu kazada da aynı şartlarla aracın davacıya teslim edildiğini, ancak davacı tarafından müvekkilinin bilgisi ve talimatı olmaksızın aracın tamir edildiğini, söz konusu tamirat karşılığında davacı tarafından düzenlenen 05/08/2015 tarihli faturanın iyi niyetli olarak müvekkilinin ticari kayıtları arasına alındığını, ancak müvekkilinin faturayı kabul ederken iradesini sakatlayan hata hali mevcut olduğunu, aracın hasarının kasko sigortası tarafından karşılanmayacağı hususunun davacı tarafından bildirilmediğini, bu durum bilinse idi müvekkilinin tamirat yaptırmayacağını, söz konusu fatura dışındaki bakım ve onarım bedellerine herhangi bir itirazlarının bulunmadığını, davacı tarafından düzenlenen 05/08/2015 tarih ve 17.050,60.- TL’lik fatura ile ilgili olarak dava dışı ...
 
 …
@@ -124,6 +140,8 @@ Mahkemece, mali müşavir bilirkişi raporu alınmış, sonuçta davanın kabul�
 Mahkemece, davacı dafterleri ve dosya üzerinde inceleme yaptırılarak ve mali müşavir bilirkişi raporu alınmak suretiyle karar verilmiş ise de , davacı şirketin yaptığı tamir ile ilgili olarak, davalı tarafın delil listesi 3. sırasındaki delil olan, sigorta şirketinin hasar dosyası getirtilip, uyuşmazlığın çözümünün teknik bilgiyi de gerektirdiği gözetilerek , HMK nun 266/1 maddesi uyarınca takip dayanağı ihtilaflı faturalar yönünden yapılan hizmet, kapsamı ve bedeli yönünden, fatura bedelinin kadri maruf olup olmadığına dair konusunda uzman (makine mühendisi ) bilirkişi raporu alınması gerekirken, esasa ilişkin bu delilin hiç toplanmaması ve karar gerekçesinde hiç tartışılmaması ...nun 353/1-a-6. maddesine aykırılık teşkil ettiğinden ,davalı tarafın yerinde görülen istinaf talebinin kabulü ile istinaf konusu karar kaldırılarak, dosyanın yeniden buna uygun yargılama yapılmak üzere mahkemesine geri çevrilmesine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 14. HD 2018/302 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/400585200)
 
 Davacı vekili, müvekkili tarafından davalıya ait tekneye servis kutusu tahsis ve hizmet bedeli, bağlama hizmeti ile vs. diğer hizmetler verildiğini, marina ücret tarifesi üzerinden düzenlenen faturadan kaynaklı alacağın ödenmediğini, alacağın tahsili için davalı aleyhine girişilen icra takibinin itiraz sonucu durduğunu ileri sürerek itirazın iptali ile takibin devamına ve icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
 
@@ -140,6 +158,8 @@ Dava, itirazın iptali davasıdır.
 Davada icra takibine vaki kısmi itirazın iptali istenmiş olmasına karşın, mahkemece HMK'nın 26. maddesi hükmü uyarınca taleple bağlılık ilkesi gözetilmeksizin talep aşımı suretiyle talep edilmeyen ve itiraz konusu olmayan alacak hakkında da itirazın iptaline karar verilmesi doğru görülmediği gibi, itiraz edilmeyen ve icra dosyasına ödenen alacak tutarının davadan sonra ödeme olarak kabul edilerek yazılı şekilde karar tesisi usul ve yasaya aykırıdır. Bu nedenle hükmün buna ilişkin kısmı, HMK 355.maddesi uyarınca re'sen düzeltilmiştir.
 
 ## İstanbul BAM 3. HD 2018/261 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/395569800)
 
 Davacı vekili dava dilekçesinde özetle ; davalının abonesi olduğu tesisata ilişkin olarak tahakkuk ettirilen su bedelini ödemediğini, bu nedenle aleyhine Kocaeli .. İcra Müdürlüğü ... E nolu dosyasında tahakkuk ettirilen su kullanım bedelinin tahsili için icra takibi başlatıldığını, ancak davalı borçlunun haksız ve kötüniyetli bir şekilde borca itiraz ederek icra takibini durdurduğunu, borca itirazının herhangi bir dayanağı bulunmadığını ileri sürerek , itirazın iptaline ve takibin devamına karar verilmesini talep ve dava etmiştir.
 

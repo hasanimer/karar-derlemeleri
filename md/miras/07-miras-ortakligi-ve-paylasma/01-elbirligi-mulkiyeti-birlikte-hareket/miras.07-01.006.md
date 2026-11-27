@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2023/39 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884258300)
+
 Satış vaadi sözleşmesinden kaynaklanan davaların kabulüne karar verebilmek için sözleşmenin ifa olanağı bulunmalıdır. Elbirliği mülkiyetine (TMK md.701) konu bir taşınmazda elbirliği (iştirak halinde) ortaklarından birinin, ortaklık dışı bir kişiye satım vaadinde bulunması halinde, sözleşme bir taahhüt muamelesi olarak geçerli olmakla birlikte elbirliği ortaklığı çözülünceye kadar sözleşmenin ifa olanağının varlığından söz edilemez.
 
 4721 sayılı Kanunun “Elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi” başlıklı 644 üncü maddesinin ilk ve ikinci fıkralarında yer alan “Bir mirasçı, terekeye dahil malların tamamı veya bir kısmı üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi isteminde bulunduğu takdirde sulh hakimi, diğer mirasçılara çağrıda bulunarak belirleyeceği süre içinde varsa itirazlarını bildirmeye davet eder. Elbirliği mülkiyetinin devamını haklı kılacak bir itiraz ileri sürülmediği veya mirasçılardan biri belirlenen süre içinde paylaşma davası açmadığı takdirde istem konusu mal üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verilir” hükmü uyarınca elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi ya tüm mirasçıların katılacağı bir sözleşme ile tapu sicil müdürlüğü önünde veya bir mirasçının diğer mirasçılar aleyhine açacağı dava sonucu ve herhalde kanundaki şartların gerçekleşmesi halinde hâkim hükmü ile mümkündür.
 
 ## Yargıtay 3. HD 2022/9634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864595700)
 
 6100 sayılı Hukuk muhakemeleri kanunun 59. Maddesinde mecburi dava arkadaşlığı düzenlenmiştir. Buna göre maddi hukuka göre, bir hakkın birden fazla kimse tarafından birlikte kullanılması veya birden fazla kimseye karşı birlikte ileri sürülmesi ve tamamı hakkında tek hüküm verilmesi gereken hâllerde, mecburi dava arkadaşlığı vardır. 4721 sayılı Türk Medeni Kanunu'nun (TMK) 640/2. maddesine göre; “Mirasçılar terekeye elbirliği ile sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler.” TMK m.701/1 . Maddesine göre ise "Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir." . Elbirliği mülkiyetinde ise TMK m. 702. Maddesindeki düzenlemeye göre ortakların hakları ve yükümlülükleri, topluluğu doğuran kanun veya sözleşme hükümleri ile belirlendiği gibi kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, gerek yönetim, gerek tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gerekir. Elbirliği mülkiyet türünde malikler mülkiyet payları ayrılmadığından paydaş değil, ortaktır.
 Bu kural, yukarıda da belirtildiği üzere TMK’nin 701. maddesinde açıklanmıştır. Elbirliği (İştirak) halinde mülkiyetin bu özelliği itibariyle ortaklar arasında zorunlu dava arkadaşlığı bulunmaktadır.
@@ -36,16 +40,22 @@ Ne var ki bu kural, uygulamada yumuşatılarak, 11.10.1982 tarih, 1982/3-2 sayı
 
 ## Yargıtay 1. HD 2022/8554 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887395400)
+
 3.2.2. Yargıtay içtihatlarında ve 01.04.1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararında açıklandığı üzere görünürdeki sözleşme tarafların gerçek iradelerine uymadığından, gizli bağış sözleşmesi de TMK'nın 706., Türk Borçlar Kanunu'nun (TBK) 237. ve Tapu Kanunu'nun 26. maddelerinde öngörülen şekil koşullarından yoksun bulunduğundan, saklı pay sahibi olsun veya olmasın miras hakkı çiğnenen tüm mirasçılar dava açarak resmi sözleşmenin muvazaa nedeni ile geçersizliğinin tespitini ve buna dayanılarak oluşturulan tapu kaydının iptalini isteyebilirler.
 
 3.2.3. Türk Medeni Kanunu'nun 640. maddesi uyarınca terekeye temsilci atanması durumunda, davanın tereke temsilcisinin veya bu sıfatla vekil kıldığı avukatın huzuru ile sürdürülmesi gerektiği tartışmasızdır. Tereke temsilcisinin atanması ile mirasçıların terekeyi temsil ve davayı takip yetkisi ortadan kalkmaktadır. Bir başka söyleyişle, mirasçıların davayı takip yetkisi sona erer ve buna bağlantılı olarak da hükmü temyiz hakkı miras şirketini temsilen tereke temsilcisine geçer.
 
 ## Yargıtay 1. HD 2022/8524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886652800)
+
 6.3.2. Davalıların diğer temyiz itirazlarına gelince; 6100 sayılı HMK'nın 297. maddesi uyarınca hakim, doğru, infazı kabil, infaz sırasında tereddüt oluşturmayacak şekilde bir karar vermek zorundadır. Somut olayda, davalı kayıt maliki ... yargılama devam ederken 06.03.2020 tarihinde, yine ... mirasçısı ... ise 21.10.2020 tarihinde ölmüş olup, dava konusu taşınmazlara ait tapu kayıtlarında 1920/103680 (1/54) pay ... adına kayıtlı olup, karar tarihi itibari ile anılan bu payın ... mirasçılarına intikali yapılmadığı halde mahkemece bu payın mirasçılara intikali yapılmış gibi, ... mirasçılarının ve ...’den sonra ölen ... mirasçısı ...’nin mirasçılarının pay oranları belirlenerek bu pay oranları üzerinden iptal-tescil kararı verilmesi doğru değildir. Bununla birlikte geri çevrilme ile getirtilen güncel tapu kayıtlarında da, dava konusu taşınmazlardaki ... adına kayıtlı 1/54 ‘er payların 14.03.2022 tarihli 4753 yevmiye no.lu işlemle elbirliği halinde mirasçıları...,...,...,ve .... adına intikal işleminin yapıldığı, yapılan intikal işleminde mirasçıların pay oranlarının belirlenmediği, ... .... mirasçıları adlarına ise intikal işleminin yapılmadığı anlaşılmaktadır.
 Bu durumda, güncel tapu kayıtlarında .....’ye ait 1/54'er payların iştirak halinde ... mirasçıları adına kayıtlı olması nedeniyle mahkemece verilen kararın infaz kabiliyetinin bulunmadığı anlaşılmaktadır.
 
 ## Yargıtay 1. HD 2022/7760 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877702000)
 
 Dava; kadastro öncesi nedene dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -55,6 +65,8 @@ Dava; kadastro öncesi nedene dayalı tapu iptali ve tescil istemine ilişkindir
 Mahkemece diğer mirasçıların davaya dahil edilmesi onlara taraf sıfatı kazandırmaz. Hal böyle olunca; tereke adına davacının tek başına açtığı davaya devam edilebilmesi için Mahkemece tüm mirasçıların davaya muvafakatının sağlanması veya terekeye temsilci atanması suretiyle usuli eksikliğin giderilmesi yönünden davacı tarafa süre verilmesi, bu şekilde taraf koşulunun sağlanması, bundan sonra esasa girilerek iddia ve savunma çerçevesinde işin esası hakkında bir hüküm kurulması gerekir. Mahkemece bu yön göz ardı edilerek yazılı şekilde hüküm kurulması isabetsiz olup, hükmün açıklanan nedenlerle bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 1. HD 2022/7313 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854942600)
 
 Dava, kadastro öncesi nedene dayalı olarak açılan tapu iptali ve tescil istemine ilişkindir.
 
@@ -66,9 +78,13 @@ Bu nedenle, öncelikle taşınmazın kendisinden kaldığı iddia edilen mirasb�
 
 ## Yargıtay 8. HD 2022/7199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/835267600)
+
 Ne varki, murisin terekesi elbirliği hükümlerine tabi olup, çekişmeli taşınmazların paylaşma ya da bir başka hukuki işlemle davalı tarafa geçtiği ispat edilemediğine göre; 3402 sayılı Kanun'un 30. maddesinin 2. fıkrasında yer alan "...dava açan mirasçı dışında başka mirasçıların da bulunduğu anlaşıldığı taktirde, hakim re'sen lüzum gördüğü diğer delilleri toplayarak taşınmaz malın kimin adına tescil edileceğine karar vermekle yükümlüdür" şeklindeki düzenleme karşısında, dava konusu taşınmazların muris ...’ın tüm mirasçıları adına tesciline karar verilmesi gerekirken, bir kısım mirasçılar adına tescil edilip bir kısım mirasçılara pay verilmemesi isabetsizdir.
 
 ## Yargıtay 7. HD 2022/6772 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876638200)
 
 Dava, miras payı devir sözleşmesine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -80,15 +96,21 @@ Türk Medeni Kanununun 640. maddesi hükmü gereğince birden çok mirasçının
 
 ## Yargıtay 4. HD 2022/6770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802764700)
+
 4721 sayılı TMK'nın 640. maddesi gereğince birden çok mirasçı bulunması halinde paylaşmaya kadar mirasçılar arasında terekedeki bütün hak ve borçları kapsayan miras ortaklığı meydana gelir ve miras ortaklığında esas olan iştirak halinde mülkiyettir. Bu bakımdan davacının dava görüldüğü sırada vefat etmesi halinde davaya mirasçılar tarafından devam edilmesi gerekir.
 
 Somut olayda; dava, davacı alacaklı ... tarafından açılmıştır. Ancak davacı yargılama aşamasında 12/04/2015 tarihinde vefat etmiş olup, mirasçılarından ... dışındaki mirasçıların davacı ...’ün avukatına davayı takip için yetki verdiği, ancak .....’ün vekalet vermediği, bunun üzerine de mahkemece 08/10/2019 tarihli duruşmada terekeye temsilci atanmak üzere bir sonraki duruşmaya kadar süre verilmesine karar verildiği ve İzmir 6.Sulh Hukuk Mahkemesi 2020/128 sayılı dosyasından terekeye temsilci atanması için dava açıldığının bildirildiği anlaşılmışsa da, bu dosyada karar verilip verilmediği anlaşılamamıştır. Bu durumda mahkemece terekeye temsilci atanmasına dair bu dosyada verilecek kararın beklenmesi, terekeye temsilcinin atanması halinde tereke temsilcisi huzurunda davanın görülmesi gerekirken, davacı vekiline 29/09/2020 tarihli duruşmada HMK 120/2 uyarınca 500,00 TL ek gider avansı yatırması için 2 haftalık kesin süre verilip, daha sonra kesin süre içinde gider avansı yatırılmadığından davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2022/6218 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/812615100)
+
 Ne var ki; kök muris ... 1987 yılında öldüğüne göre terekesinin elbirliği mülkiyeti hükümlerine tabi olduğu, TMK'nin 701. ve 702. maddeleri gereğince elbirliği mülkiyetine tabi taşınmazlar üzerinde mirasçıların belirlenmiş payları olmayıp, her birinin payının taşınmazın tamamı üzerinde söz konusu olması nedeniyle, bir kısım mirasçıların terekeye göre 3. kişi konumundaki bir şahsa karşı miras payına yönelik dava açmalarının mümkün bulunmadığı; ayrıca, davacılardan ..., muris ... ’ın mirasçısı olmaması nedeniyle da aktif dava ehliyetinen bulunmadığı gözetilerek, Mahkemece, davanın reddine karar verilmesi gerekirken, yazılı şekilde hüküm tesisi isabetsiz ise de, açıklanan hususun düzeltilmesi yeniden yargılamayı gerektirmediğinden ve ret kararı sonucu itibariyle doğru olduğundan, hükmün gerekçesinin düzelterek onanmasına karar verilmiştir.
 
 ## Yargıtay 1. HD 2022/6006 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848106900)
 
 Dava, kadastrodan önceki nedene dayalı olarak açılan tapu iptali ve tescil istemine ilişkindir.
 
@@ -98,11 +120,15 @@ Dava, kadastrodan önceki nedene dayalı olarak açılan tapu iptali ve tescil i
 
 ## Yargıtay 1. HD 2022/5905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847755700)
+
 3.2.2. Öte yandan, mirasbırakanın ölüm tarihine göre terekesi elbirliği mülkiyetine tabidir. Terekeye karşı yapılan mülkiyetten kaynaklanan haksız fiil niteliğindeki muris muvazaası ve el atmanın önlenmesi gibi davaların dışında ehliyetsizlik, vekalet görevinin kötüye kullanılması, hata-hile-gabin vs. gibi hukuki nedenlere dayalı olarak terekeye göre 3. kişi konumunda olan kişilere karşı açılan davalarda terekeyi temsil eden tüm mirasçıların bir arada hareket etmek suretiyle davayı birlikte açmaları; ayrıca mirasçılardan birinin terekeye iade şeklinde dava açması halinde de tüm mirasçıların muvafakatlerinin alınması ya da davanın tereke temsilcisi aracılığıyla yürütülmesi gerekeceği (T.M.K. 640 md.) tartışmasızdır.
 
 3.2.3. Yerleşmiş Yargıtay içtihatlarında ve 01.04.1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararında açıklandığı üzere görünürdeki sözleşme tarafların gerçek iradelerine uymadığından, gizli bağış sözleşmesi de Türk Medeni Kanunu'nun (TMK) 706., Türk Borçlar Kanunu'nun (TBK) 237. (Borçlar Kanunu'nun (BK) 213.) ve Tapu Kanunu'nun 26. maddelerinde öngörülen şekil koşullarından yoksun bulunduğundan, saklı pay sahibi olsun veya olmasın miras hakkı çiğnenen tüm mirasçılar dava açarak resmi sözleşmenin muvazaa nedeni ile geçersizliğinin tespitini ve buna dayanılarak oluşturulan tapu kaydının iptalini isteyebilirler.
 
 ## Yargıtay 7. HD 2022/5185 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/819973100)
 
 Dava, miras payının devri sözleşmesine dayalı tapu iptal ve tescil istemine ilişkindir.
 
@@ -114,9 +140,13 @@ Somut olayda, düzenleme şeklinde miras payının devri sözleşmesi elbirliği
 
 ## Yargıtay 1. HD 2022/4907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815967900)
+
 6.3.2. Ancak, somut olayda; asıl davada asli müdahil olarak dava açan ... 11/02/2019 tarihinde yargılama sırasında ölmüş, 6100 sayılı HMK'nın 55. maddesi uyarınca mirasçıları yargılamaya katılmışlardır. Bilindiği üzere, mirasbırakanın ölümü ile mirasçıları tereke üzerinde elbirliği halinde mülkiyet sahibi olurlar. Ne var ki Mahkemece, TMK'nın 640. maddesi gereğince terekeye ait bütün haklar üzerinde ortaklık meydana geldiği gözetilmeksizin davayı takip etmediği gerekçe gösterilerek bir kısım elbirliği ortağının, ortaklığa dahil olan hakkının dışarıda bırakılması, terekenin ölüm anında bir bütün halinde tüm mirasçılara intikal ettiği gözetilmeksizin asli müdahilin iki mirasçısı ... ve ...'nın hüküm dışı bırakılarak yazılı şekilde karar verilmesi doğru değil ise de anılan bu husus yeniden yargılama yapılmasını gerekli kılmadığından hükmün düzeltilerek onanması gerekir.
 
 ## Yargıtay 1. HD 2022/4603 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/816765800)
 
 Hal böyle olunca, öncelikle davaya katılmayan mirasçıların olurlarının alınması ya da miras şirketine TMK'nın 640. maddesi uyarınca atanacak temsilci aracılığı ile yargılamanın sürdürülmesi, böylece davanın görülebilirlik koşulunun yerine getirilmesi; daha sonra, tarafların bildirecekleri tüm delillerin toplanması, varsa miras bırakana ait sağlık kurulu raporları, hasta müşahade kayıtları, reçeteler vs. istenmesi, tüm dosyanın Adli Tıp Kurumu'na gönderilmesi (2659 Sayılı Yasanın 7. ve 16.maddeleri gereğince), akit tarihinde miras bırakanın ehliyetli olup olmadığı yönünde rapor alınması, ehliyetli olduğunun anlaşılması halinde muvazaa iddiası üzerinde durulması, muvazaa hususunda inceleme yapılırken, davalıların çekişme konusu taşınmazı satın aldıkları, ancak aile büyüğü olarak muris adına tescil edildiği iddiasında bulunmalarına rağmen 05.02.1947 tarih 20/6 sayılı İçtihadı Birleştirme Kararı uyarınca bu türlü iddiaların yazılı belge ile kanıtlanmasının zorunlu olduğu da gözetilmek suretiyle, varılacak sonuç çerçevesinde bir karar verilmesi gerekirken, değinilen hususlar göz ardı edilerek yazılı olduğu üzere hüküm kurulması doğru değildir. '' gerekçesiyle Mahkeme kararı bozulmuştur.
 
@@ -126,22 +156,32 @@ Dava sırasında taraflardan birinin ölümü halinde taraf teşkilinin sağlanm
 
 ## Yargıtay 1. HD 2022/4315 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/809315500)
+
 Dairenin 22/05/2019 tarihli ve 2019/1988 E., 2019/3222 K. sayılı ilamı ile ‘‘...İddianın içeriği ve ileri sürülüş biçimine göre; davada, tapu iptal ve tescil isteği yönünden muris muvazaası hukuksal nedenine dayanıldığı, terekeye iade isteği ile eldeki davanın açıldığı, terekenin elbirliği mülkiyetine tabi olduğu açıktır...Somut olayda, dava muris muvazaası hukuksal nedenine dayanılarak ve terekeye iade istemli açılmış, dava dışı mirasçı ...’in davaya muvafakat edip etmediği açıkça sorulmadan karar verilmiştir. Hâl böyle olunca, mirasbırakan ...’in ölüm tarihi itibariyle terekesinin elbirliği mülkiyetine tabi olduğu ve davaya katılmayan mirasçısının bulunduğu gözetilerek, davaya katılmayan ortağın olurunun alınması ya da miras şirketine TMK'nın 640. maddesi uyarınca atanacak temsilci aracılığı ile davanın sürdürülmesi gerekirken, davanın görülebilirlik koşulu gözardı edilerek işin esası bakımından yazılı şekilde karar verilmiş olması isabetsizdir...” gerekçesi ile Mahkeme kararı bozulmuştur.
 
 ## Yargıtay 1. HD 2022/4310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804326700)
 
 İlk Derece Mahkemesince, dava konusu taşınmazın bulunduğu bölgede 2007 yılında imar uygulamasının yapıldığı ve bu tarihten itibaren taşınmaz üzerine yapı inşa edilebileceğinin kabulü gerektiği, bu durumun davacılar tarafından da bilindiği, davanın bir yıllık hak düşürücü süre geçtikten sonra açıldığı gerekçesiyle davanın reddine karar verilmiş, karara karşı davacılar vekilinin yaptığı istinaf başvurusu Antalya Bölge Adliye Mahkemesi 1.Hukuk Dairesince mirasbırakan ...’a ait veraset ilamının dosyada bulunmadığı, nüfus kayıtlarına göre davada yer almayan mirasçısının bulunduğu, taşınmazın elbirliği mülkiyetine tabi olması nedeniyle, davada yer almayan diğer mirasçıların muvafakatlerinin alınması, ya da miras şirketine atanacak temsilci aracılığıyla davanın sürdürülmesi gerekirken davanın görülebilirlik koşulu gözardı edilerek esası hakkında hüküm kurulmasının doğru olmadığı gerekçesiyle İlk Derece Mahkemesi kararı kaldırılmış, İlk Derece Mahkemesince davada yer almayan diğer mirasçıların muvafakati alındıktan sonra yeniden yapılan inceleme sonucunda, aynı gerekçeyle hak düşürücü süre geçtikten sonra açılan davanın reddine karar verilmiştir.
 
 ## Yargıtay 7. HD 2022/4142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792731800)
+
 Şöyleki; TMK'nun 701 ve 702. maddeleri uyarınca elbirliği mülkiyetinde tereke malları tüm mirasçılar arasında ortak olup, mirasçıların belli pay veya paylara sahip olmadığı, bu nedenle mirasçılar arasında zorunlu dava arkadaşlığının bulunduğu kuşkusuzdur. Temyize gelen davalılar taşınmazın asıl zilyedinin ve tapu kaydındaki zilyetlik şerhin de yazılı olduğu üzere üst muris ...'e ait olduğunu savunmuşlardır. Bu durumda davalılar (ve davacılar) arasında zorunlu dava arkadaşlığı bulunmaktadır. Zorunlu dava arkadaşlığı bulunan davalılar yönünden bir kısmı için davanın reddine, bir kısmı için önceki kararı temyize getirmediği için kesinleşmiş olduğundan karar verilmesine yer olmadığına karar verilmesi doğru görülmemiştir. Çünkü, hak düşürücü sürenin dolması ile sadece hakkın dava edilebilirliği değil hakkın kendisi de yok olmaktadır. Davanın tüm zorunlu dava arkadaşı olan davalılar hakkında hak düşürücü süre nedeniyle reddine karar verilmesi gerekirken yazılı gerekçeler ile hüküm kurulması doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2022/4140 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763117400)
 
 Mahkemenin vermiş olduğu önceki karar ... tarafından bozulmuş olup, bozma ilamında özetle "davalı ...’in, dayandığı 15.10.1984 ve 11.10.1985 tarihli senetlerin aslının istenilmediği, senetlerde imzası bulunan muhtar ve köy azaları ile senet tanıklarının dinlenilmediği, senedin geçerliliği üzerinde de durulmadığı belirtilerek, öncelikle davalı ...'ten bu senetlerin aslının istenilmesi, mahallinde keşif icra edilmesi, keşif sırasında dinlenecek yerel bilirkişi, tarafların bildirdikleri ve bildirecekleri tüm tanıklar ile 15.10.1984 ve 11.10.1985 tarihli senetlerde imzası bulunan muhtar, ihtiyar heyeti üyeler ile senet tanıkları ve tespit bilirkişileri ayrı ayrı dinlenilmek suretiyle senetlerin, satıcı görünen ... ve ... tarafından tanıklar, muhtar ve azalar huzurunda imzalanmış olup olmadığı, buna göre senetlerin usulüne uygun olup olmadığı hususlarının araştırılarak geçersiz olması halinde dinlenen tanıklardan senet içeriği ile ilgili bilgi ve görgülerinin etraflıca sorulup maddi olaylara dayalı olarak açıklattırılması, yinr ... ve ...'un taşınmazlardaki miras paylarını davalı ...'e satıp satmadıklarının açıklığa kavuşturulması" gereğine değinilmiş; diğer taraftan ... terekesinin
 paylaşıldığı iddia ve ispat edilmemiş olduğuna göre ... terekesine ait taşınmazlar hakkında iştirak (elbirliği mülkiyeti) halindeki paylar üzerinde TMK'nin 701 ve 702. maddeleri uyarınca ... mirasçılarının tek başlarına tasarrufta bulunmak yetkileri bulunmaması nedeniyle davalı ... tarafından 2000 yılında eşi ... ile çocukları ... ve ...'e, 2004 yılında ise birleşen dosya davacısı ...'e yapılan satış ve devir işlemi hukuken geçersiz olduğu halde bu satışlara değer verilerek hüküm kurulmasının da isabetsiz olduğu ifade edilmiştir.
 
 ## Yargıtay 1. HD 2022/3562 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/796975200)
 
 3.3.3 Somut olayda; dava konusu taşınmazın mirasbırakan ... ...'dan kaldığı, Mahkemece toplanıp değerlendirilen delillerle belirlenmiş olup bu yön tarafların da kabulündedir. Davacılar dava dilekçelerinde terekeye dönüş istekli(tüm mirasçıların payı oranında) tapu iptal ve tescil isteminde bulunmuş İlk Derece Mahkemesince bu doğrultuda karar verilmiştir. Bu kez Bölge Adliye Mahkemesince davacıların mirasbırakan ... mirasçıları adına tesciline ilişkin dava açsa da çoğun içinde az da bulunur ilkesi gereğince davacıların kendi payı yönünden ve davacıların miras payı ile sınırlı olarak tescile karar verilmesi gerekirken tereke adına, bir başka deyişle ortak mirasbırakan ... ...'ın dava dışı mirasçıları adına da tescil kararı verilmesinin isabetsiz olduğu gerekçesiyle ilk derece mahkemesinin kararı kaldırılarak davacıların payı oranında iptal ve tescil hükmü kurulmuştur. Davacılar tarafından bu hususun temyiz nedeni yapıldığı anlaşılmaktadır.
 
@@ -151,10 +191,14 @@ paylaşıldığı iddia ve ispat edilmemiş olduğuna göre ... terekesine ait t
 
 ## Yargıtay 11. HD 2022/2982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766235400)
+
 Bölge adliye mahkemesince, davalı ile davacıların murisi arasındaki 31.01.2005 tarihli süresiz kefalet sözleşmesi imzalandığı, davacılar dışında hakkında takip yapılan bir mirasçı daha olduğu, TMK'nın 640/2. maddesine göre miras ortaklığında mirasçılar arasında elbirliği mülkiyeti bulunmakta ise de TMK’nın 702. maddesinin gerekçesinde ortaklardan her birinin, topluluğa giren hakların korunmasını sağlayabileceğinin ifade edildiği, işbu davada kefilin terekesinin elbirliği mülkiyeti hükümlerine tabi olmakla birlikte, menfi tespit talebi yönünden mirasçılar arasında zorunlu dava arkadaşlığının bulunmadığı, menfi tespit davasının tereke üzerinde tasarruf işlemi olmayıp terekedeki hakların korunmasına yönelik bir dava olduğu, dava konusu icra takibinin dayanağı kefalet sözleşmesinin 818 s.BK’na tabi olduğu ancak 818 sayılı BK 342. maddede ve kefalet hükümlerinin düzenlendiği diğer maddelerde, hak düşürücü süre ve zamanaşımı süresine yer verilmeyip düzenlemenin 6098 sayılı Kanun'un 598/3 maddesi ile kefalet sözleşmelerinde ilk defa hak düşürücü süre düzenlendiği, 6101 sayılı Yürürlük Kanunu'nun 5/2 maddesi gereğince, sözleşmenin başlangıç tarihi olan 31.01.2005 tarihinden itibaren 10
 yıllık süre dolmuştur. Takibin 6098 sayılı Yasa'nın yürürlüğe girdiği 01/07/2012 tarihinden itibaren 1 yıllık süreden sonra 27/04/2015 tarihinde başlatıldığı, takip tarihi itibarı ile davacıların kefaletinin TBK 598/3 maddesi gereğince ortadan kalktığı gerekçesiyle davalının, İİK 72.maddesine göre davacılar lehine tazminata hükmolunabilmesi için davalı alacaklının takipte kötüniyetli olması gerekli olup dava kefalete ilişkin hak düşürücü sürenin dolması nedeni ile reddedilmiş olduğundan davacının istinaf başvurusunun esastan reddine, ilk derece mahkeme kararında vekalet ücretinin davacı vekili lehine değil davacı yararına hükmedilmesi gerektiğinden kararın vekalet ücreti yönünden kaldırılmasına karar verilmesi gerektiği gerekçesiyle davacının istinaf başvurusunun esastan reddine, davalının istinaf başvurusunun kısmen kabulü ile ilk derece mahkeme kararının kaldırılarak davanın kabulüne, kötü niyet tazminat isteminin reddine davacılar yararına vekalet ücretine hükmedilmesine karar verilmiştir.
 
 ## Yargıtay 1. HD 2022/2915 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804688000)
 
 Dava, kadastro öncesi nedene dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -164,6 +208,8 @@ TMK'nın 702. maddesi uyarınca tasarrufi işlemlerde oybirliği aranır. Dava d
 davacı tarafından temyiz edilmesi üzerine Yargıtay (Kapatılan) 16. Hukuk Dairesinin 24.03.2021 tarihli ve 2018/5668 Esas, 2021/2594 sayılı kararı ile hükmün onanmasına karar verilmiş, davacı vekili karar düzeltme isteğinde bulunmuştur.
 
 ## Yargıtay 7. HD 2022/2178 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/752120800)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 

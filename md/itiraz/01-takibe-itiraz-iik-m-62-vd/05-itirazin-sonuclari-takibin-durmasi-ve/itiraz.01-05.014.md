@@ -26,10 +26,14 @@ Dosyanın içerisinde bulunan Konya ... İcra Müdürlüğünün .... Esas sayı
 
 ## İstanbul BAM 3. HD 2021/1836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663414500)
+
 K A R A R : Yukarıda açıklanan nedenlerle;A- Davalının istinaf başvurusunun HMK 353/1-b-1 maddesi uyarınca reddine,B- Davacının İstinaf başvurusunun kabulü ile karar HMK 353/1-b-2 maddesi uyarınca düzeltilerek yeniden esas hakkında;1- Davanın Kabulüne, Davalı/Borçlunun İstanbul Anadolu ....İcra Müdürü'nün ... E. sayılı dosyası üzerinde takibine girişilen borcu vaki itirazının iptaline, 2- Haksız itirazı ile takibin durmasına sebebiyet veren davalı borçlunun asıl alacak kısmı olan 5.970,01 TL'nin %20'si oranında icra-inkar tazminatı ile mahkumiyetine, 3- Alınması gereken 407,81-TL nisbi karar ve ilam harcından peşin alınan 101,96-TL nin mahsubu ile bakiye 305,85.-TL harcın davalıdan tahsili ile hazineye gelir kaydına,4- Davacının yatırdığı 101,96TL harcın davalıdan alınıp davacıya verilmesine,5- Davacı tarafça yapılan 593,00-TL yargılama giderinin davalıdan alınıp davacıya verilmesine,6- Davacı lehine AAÜT uyarınca 4.080,00 TL maktu vekalet ücretinin davalıdan alınarak davacıya verilmesine, 7- Davacı tarafça yatırılan gider avansından arta kalan kısmı karar kesinleştiğinde davacıya iadesine, İstinaf incelemesiyle ilgili olarak;
 Peşin alınan istinaf karar harcının, istinaf edene isteği halinde ilk derece mahkemesince iadesine,Davacının istinaf sebebiyle yapmış olduğu 18,00- TL istinaf yargılama giderinin davalıdan alınarak davacıya verilmesine, Davalıdan alınması gereken 407,81TL karar ve ilam harcından, peşin alınan 102,00 TL harcın mahsubu ile bakiye 305,81TL'nin istinaf eden davalıdan alınarak hazineye irat kaydına, Davalının istinaf yargılama giderinin üzerinde bırakılmasına,İstinaf sebebiyle yatırılan gider avansı bakiyesi varsa, karar kesin olmakla istinaf edene ilk derece mahkemesince iadesine,Dair dosya üzerinden yapılan inceleme sonunda HMK 362/1-a maddesi gereğince kesin olmak üzere oybirliği ile karar verildi. 22/06/2021 …
 
 ## Kayseri BAM 6. HD 2021/1720 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690724300)
 
 Davalılar vekili cevap dilekçesinde özetle; davacı bankanın başlatmış olduğu takip alacak miktarının asıl borçlusu ...A.Ş. olduğu müvekkili şirketin konkordato dosyasının halen Kayseri 1.
 
@@ -48,6 +52,8 @@ Kayseri 1. Asliye Ticaret Mahkemesi 'nin 2019/664 Esas 2021/579 Karar sayılı k
 
 ## İstanbul BAM 14. HD 2021/1715 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720293200)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda; "...Dava esnaf kredisi kefaletinden kaynaklı alacağa dayalı itirazın iptali davasıdır. Davacı taraf davalı aleyhine ...
 
 …
@@ -58,6 +64,8 @@ Eldeki dava İİK'nın 67. maddesi uyarınca itirazın iptali istemine ilişkin 
 H Ü K Ü M: Yukarıda açıklanan gerekçelerle; HMK'nın 353/1.b.2. maddesi uyarınca davacı vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesinin istinafa konu kararının vekalet ücreti yönünden düzeltilmek üzere kaldırılmasına …
 
 ## İstanbul BAM 14. HD 2021/1586 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718747300)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda; "...Borçlu davalıların icra takibine itirazdan feragat etmiş oldukları, buna ilişkin mahkememize sunulan dilekçeleri ve icra müdürlüğünden gelen yanıt doğrultusunda anlaşılmış, şu koşullarda takibin devam ettiği tespit edilmiştir. Davanın açılmasında haklılık durumuna göre masraf ve vekalet ücretinin taraflara yükletilmesi, harcın hesap edilmesi gerekmektedir.
 
@@ -70,12 +78,16 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; HMK'nın 353/1.b.2 maddesi uyarınca 
 
 ## İstanbul BAM 3. HD 2021/1503 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/656009700)
+
 K A R A R : Yukarıda açıklanan nedenlerle;A-Davalının istinaf talebinin kabulüyle HMK 353/1-b-2 maddesi gereğince karar kaldırılarak yeniden esas hakkında; 1- Davanın kısmen kabulüne, davalı/borçlunun İstanbul ... İcra Müdürlüğü'nün ...
 Esas sayılı dosyası üzerinden takibine girişilen alacağın 4.537,84 TL'lik kısmına vaki itirazlarının iptali ile takibin bu miktar üzerinden devamına,2- Haksız itirazı ile takibin durmasına sebebiyet veren davalı/borçlunun hüküm altına alınan 4.537,84 TL tutarındaki alacağın % 20'si oranında icra-inkar tazminatı ile mahkumiyetine,3- Davacının fazlaya ilişkin talebinin reddine,4- Yasal şartlar oluşmadığından davalı lehine kötü niyet tazminatı takdirine yer olmadığına 5- Alınması gerekli 309,97 TL karar ve ilam harcından 280,71TL peşin harcın mahsubu ile bakiye 29,26-TL karar ve ilam harcının davalıdan tahsili ile hazineye gelir kaydına, 6- Davacı tarafça yatırılan 280,71-TL peşin harcın davalıdan alınıp davacıya verilmesine,7- Davacı tarafça yapılan ilk dava açma gideri 33,50-TL, posta ve tebligat masrafı 174,90-TL, bilirkişi ücreti 1.800,00-TL olmak üzere toplam 2.008,40-TL yargılama giderinin kabul red oranına göre 397,66-TL' sinin davalıdan alınarak davacıya verilmesine, bakiyesinin davacı üzerinde bırakılmasına,8- Davalı tarafça yapılan 11,00-TL yargılama giderinin kabul red oranına göre 8,82-TL'sinin davacıdan alınarak davalıya verilmesine, bakiyesinin davalı üzerinde
 bırakılmasına,9- Davacı taraf vekille temsil olunduğundan Avukatlık Asgari Ücret Tarifesi uyarınca hesap ve taktir olunan 2.180,00-TL maktu vekalet ücretinin davalıdan alınıp davacıya verilmesine,10- Davalı vekille temsil olunduğundan Avukatlık Asgari Ücret Tarifesi uyarınca hesap ve taktir olunan 2.205,35-TL nispi vekalet ücretinin davacıdan alınıp davalıya verilmesine,11- Davacı tarafından yatırılan gider avansından yargılama sırasında yapılan masraflar ile karar tebliğ giderlerinden geriye kalan avansın karar kesinleştiğinde ve istek halinde davacıya iadesine,12- Davalı tarafından yatırılan gider avansından yargılama sırasında yapılan masraflardan geriye kalan avansın karar kesinleştiğinde ve istek halinde davalıya iadesine,İstinaf İncelemesi İle İlgili Olarak;
 Peşin alınan istinaf karar harcının, istinaf eden davalıya isteği halinde ilk derece mah- kemesince iadesine,Davalının istinaf sebebiyle yapmış olduğu 150,00 TL yargılama giderinin davacıdan alı- narak davalıya verilmesine,İstinaf sebebiyle yatırılan gider avansı bakiyesi varsa, karar kesin olmakla istinaf edene ilk derece mahkemesince iadesine,Dair dosya üzerinden yapılan inceleme sonunda HMK 362/1-a maddesi gereğince kesin olmak üzere oybirliği ile karar verildi. 25/05/2021 …
 
 ## İzmir BAM 20. HD 2021/1480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724884200)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin dava dışı ... Şti.’nin Kobi Paket Sigorta Poliçesi ile sigortalısı olduğunu, dava dışı sigortalının riziko adresinde davalının imalatı bulunan ...
 
@@ -99,6 +111,8 @@ Somut olayda; davacının sigortalısı dava dışı ... Şti.' nin davalıdan i
 
 ## İstanbul BAM 17. HD 2021/1459 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709414200)
+
 İLK DERECE MAHKEMESİ KARARI: İlk derece mahkemesince; davanın konusu bir miktar paranın ödenmesine ilişkin olup, arabuluculuğa tabi olduğu, davacının araabuluculuğa başvurmadığı, bu konuda belge ibraz etmediği sebebiyle davanın dava şartı yokluğundan usulden reddine karar verilmiştir.
 
 …
@@ -107,6 +121,8 @@ DELİLLERİN DEĞERLENDİRMESİ VE HUKUKİ NİTELENDİRME: Davacı tarafından d
 Bu yasal düzenlemeler karşısında, kanun yoluna başvuru konusu edilen kararın, karar tarihi itibariyle istinaf kanun yoluna başvuran davacı yönünden kesin nitelikte olması nedeniyle davacının istinaf başvurusunun usulden reddine dair aşağıdaki hüküm kurulmuştur.
 
 ## İzmir BAM 20. HD 2021/1207 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/703715000)
 
 Davacı vekili 08/07/2021 tarihli dilekçesinde özetle; müvekkili banka ile davalı ... arasında düzenlenen sözleşmeler gereğince kredi kullandırıldığını, davalı ...'in borçtan müşterek borçlu-müteselsil kefil sıfatıyla sorumlu olduğunu, kredi sözleşmelerine dayalı olarak Kredi Garanti Fonu teminatlı olmak üzere 2009/15197, 2015/7331 ve 2016/9538 sayılı Bakanlar Kurulu kararları gereği Hazine destekli kefalet ile davalı borçlu şirkete kredi kullandırıldığını, Kahramanmaraş 2.
 
@@ -120,6 +136,8 @@ Somut olayda; davacı banka ile davalı ... arasında düzenlenen sözleşmeler 
 
 ## Sakarya BAM 5. HD 2021/925 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704683100)
+
 Davalı vekili cevap dilekçesinde özetle; davacının harçtan muaf olmadığını, harç ödenmemesi nedeniyle davanın reddi gerektiğini, davacının 07.05.2019 tarihli yazısında müvekkilinin yağmur suyu kanalına bağlantı noktasından 09.04.2019 tarihinde numune alındığını, alınan numunenin analiz sonucunda 13.12.2017 tarihli talimatnamenin 6/2.
 
 …
@@ -131,6 +149,8 @@ Davalı vekili cevap dilekçesinde özetle; davacının harçtan muaf olmadığ�
 Davada, davalı şirketin atık suyu kirliliğinin limit değerler üzerinde olduğu ve ayrıca ön arıtma yapmadan kanalizasyon siştemine deşarj ettiği gerekçesi ile davacı 2 adet fatura düzenleyerek, takibe koymuştur. Gebze 4.İcra Müdürlüğü'nün 2019/41603 Esas sayılı takip dosyasında, davacı- alacaklı tarafından, davalı- borçlu aleyhine toplam 106.200,00 TL alacağın takip tarihinden itibaren 6183 Sayılı Kanun uyarınca işleyecek aylık %2,5 ve değişen oranlardaki faizi ile birlikte tahsili istemi ile ilamsız icra yoluyla icra takibine geçildiği, borçlunun süresinde verdiği itiraz dilekçesi ile borca, faize, masraf ve avukatlık ücretine itirazı üzerine takibin durmasına karar verildiği anlaşılmıştır.
 
 ## İzmir BAM 20. HD 2021/796 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685396900)
 
 Davacı vekili dava dilekçesinde özetle; .... 'nin maliki olup ...'in idaresinde bulunan ve davalı sigorta şirketine trafik poliçesiyle sigortalı ... plakalı aracın, 30.01.2014 tarihinde müvekkili şirkete ait ... plakalı araca asli tam kusurlu çarpmasıyla meydana gelen maddi hasarlı trafik kazası sonucu, müvekkilinin ... plakalı aracında İzmir 9.Sulh Hukuk Mahkemesi' nin 2014/22 D. İş sayılı dosyasıyla yaptırılan tespit sonucu verilen bilirkişi raporuna göre KDV dahil 7.700,00-TL hasar bedeli, 1.600,00-TL değer kaybı ve 400,00-TL kazanç kaybı tespit edildiğini, sigorta şirketinin kazanç kaybından sorumlu olmadığını, İzmir 13.
 
@@ -164,6 +184,8 @@ Davacı tarafından borcun ödenmemesi nedeniyle İstanbul .......İcra Müdürl
 
 ## İstanbul BAM 16. HD 2021/758 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647562500)
+
 C-)İlk Derece Mahkemesi Kararı: İlk derece mahkemesince; "davalı tarafın İcra Müdürlüğünün ve mahkemenin yetkisine yönelik itirazının ilk derece mahkemesinin 17/07/2017 tarihli oturumda reddine karar verilerek yargılamaya devam olduğu, Bakırköy ...
 İcra Müdürlüğünün ... takip sayılı dosyasının celp ve tetkikinde davacı tarafından davalı aleyhine cari hesap alacağına dayalı olarak icra takibi yaptığı, davalı tarafın süresinde takibe itiraz ederek takibin durmasına sebebiyet verdiğinin anlaşıldığı, davacı tarafa ait ticari defter ve kayıtlar üzerinde bilirkişi ...; davalı tarafa ait ticari defter ve kayıtların üzerinde talimat yolu ile bilirkişi ... marifetiyle inceleme yaptırılarak, her iki tarafın ticari defter ve kayıtlarının birbiri ile örtüştüğü ve davacı tarafın cari hesap alacağına dayalı olarak davalı taraftan 4.009-TL alacağı bulunduğunu teknik kanaatleri olarak belirttiklerini, mahkemece de düzenlenen bilirkişi raporları yeterli görülerek hükme esas alındığı, taraflar arasında mevcut ticari ilişki kapsamında cari hesaba dayalı olarak bilirkişiler tarafından düzenlenen ayrı ayrı raporlarda davacı tarafın davalıdan 4.009-TL alacağın bulunduğu, söz konusu alacağın davalı tarafın ticari defterlerinde de aynen kayıtlı olduğu, iş bu kaydın davalı yönünden HMK 222/4 md. gereğince aleyhe delil niteliğinde olup alacağın varlığına kanıt teşkil ettiği" gerekçesiyle sabit görülen davacının davasının kabulüne, davalının, Bakırköy
 ... İcra Müdürlüğünün ... takip sayılı dosyasına yapmış olduğu itirazın iptaline, takibin aynı alacak üzerinden devamına, takip konusu alacağa takip tarihinden itibaren %10,5'i geçmemek üzere avans faizi uygulanmasına, hükmedilen alacağın %20'si üzerinden hesaplanan 801,80-TL icra inkar tazminatının davalıdan alınarak davacıya verilmesine karar verildiği anlaşılmıştır.
@@ -185,6 +207,8 @@ Mahkemece, toplanan delillere ve tüm dosya kapsamına göre, takibe dayanak sen
 Ankara 26. İcra Müdürlüğü'nün ...E. Sayılı dosyası incelendiğinde, davacı ... tarafından davalılar ... ve ... aleyhine ''40.000,00 TL bedelli 01/03/2012 vadeli bono'' dayanak gösterilerek, genel haciz yolu ile icra takibi başlatıldığı, davalıların itirazı üzerine takibin durmasına karar verildiği, davacı tarafça yasal süresi içerisinde işbu itirazın iptali davasının açıldığı anlaşılmıştır.
 
 ## Trabzon BAM 4. HD 2021/490 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700158800)
 
 Davalı tarafın cevap dilekçesi sunmamış olduğu görülmüştür.
 
@@ -217,6 +241,8 @@ Somut olayda, davacı yanca 14/01/2013 ve 17/09/2014 tarihli genel kredi sözle�
 Kayseri 1. Asliye Ticaret Mahkemesinin 14/05/2019 tarih ve ..... Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 13. HD 2021/333 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641424800)
 
 Davalı vekili cevap dilekçesi ve duruşmadaki beyanlarında özetle; müvekkili şirketin davacıya her hangi bir borcunun bulunmadığını, yapılan takibin haksız itirazın ise yerinde olduğunu beyanla davanın reddini savunmuştur.
 

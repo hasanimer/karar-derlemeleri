@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2025/1269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179707900)
+
 İlk derece mahkemesince; halefiyet ilkesi gereği davacı sigortacının yerine halef olduğu sigorta ettiren ...A.Ş. ile davalı arasındaki hukuki ilişki temel alınarak yetkili ve görevli mahkemelerin belirlenmesinin gerektiği, davacının ödeme ile halefi olduğu sigorta ettiren ile davalı arasında akdedilen güvenlik hizmet sözleşmesinin 13. maddesinde taraflar arasında sözleşmenin uygulanmasından doğan uyuşmazlıklarda Ankara Mahkeme ve İcra Dairelerinin münhasır yetki şartı ile yetkili kılındığı, HMK'nun 17. ve 18. maddeleri gereğince yetki şartının geçerli olduğu, halefiyet ilkesi gereği yetki şartının davacıyı da bağladığı, davacının münhasır yetki şartı gereğince takibi Ankara İcra Müdürlüğünde yapması gerekirken İstanbul Anadolu İcra Müdürlüğünde yaptığı ve davalının da süresinde usulüne uygun yetki itirazında bulunması üzerine takibin durduğu, akabinde açılan işbu eldeki itirazın iptali davasının görülebilmesi için geçerli bir icra takibinin bulunmasının dava şartı olduğu, buna göre icra takibinin taraflar arasında düzenlenen yetki sözleşmesine göre yetkili icra dairesinde başlatılmadığı gerekçelerine istinaden davanın dava şartı yokluğu nedeniyle usulden reddine dair karar
 verilmiştir.
 
@@ -36,6 +38,8 @@ Bu nedenle davalı borçlu vekilinin icra dairesinin yetkisine yönelik itirazı
 Davacı vekilinin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin KABULÜNE,2-İstanbul Anadolu 2. Asliye Ticaret Mahkemesinin 2025/93 Esas, 2025/361 Karar sayılı ve 15/05/2025 tarihli kararının 6100 sayılı HMK'nun 353/1-a.4 maddeleri gereğince KALDIRILMASINA …
 
 ## Sakarya BAM 7. HD 2025/1222 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158960600)
 
 Davalı vekili cevap dilekçesinde özetle; icra ve davanını yetkisiz mercilerde açıldığını, davacı ile davalı arasında bir işin yapılması ve makinelerin teminine ilişkin bir sözleşmenin bulunmadığını, davacının puantaj bilgilerini whatsapp üzerinden bildirilmiş olduğunu iddia ettiğini ancak; cevap dilekçesi ekinde sunulan e mail çıktısında cari hesabının sıfır olduğunu, dolaysıyla faturaya dayalı bir alacaklarının bulunmadığını, takibe dayanak faturanın davalıya tebliğ #dilmediğini, davacı şirket cari hesap ekstresini davalıya gönderdiğini ve bu cari hesap ekstresini davalının kabul etmediğini, dava konusu fatura içeriği mal ve hizmet davalıya teslim edilmediğini bildirmiş ve huzurdaki davanın reddini talep etmiştir.
 
@@ -86,6 +90,8 @@ Davalının İlk Derece Mahkemesi kararına ilişkin istinaf başvurusunun HMK'n
 
 ## Adana BAM 9. HD 2025/1152 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151160400)
+
 İcra İflas Kanununun 257'nci maddesine göre ''Borçlunun muayyen yerleşim yeri yoksa veya borçlu taahhütlerinden kurtulmak maksadıyla mallarını gizlemeye, kaçırmaya veya kendisi kaçmaya hazırlanır yahut kaçar ya da bu maksatla alacaklının haklarını ihlal eden hileli işlemlerde bulunursa, rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı, borçlunun yedinde veya üçüncü şahısta olan taşınır ve taşınmaz mallarını ve alacaklarıyla diğer haklarını ihtiyaten haczettirebilir.'' Aynı kanunun takip eden 258'inci maddesinde ise, ihtiyati hacze 50. maddeye göre yetkili mahkeme tarafından karar verileceği, alacaklının alacağı ve icabında haciz sebepleri hakkında mahkemeye kanaat getirecek deliller göstermeye mecbur olduğu belirtilmiş; 265. maddesinde de ''borçlunun kendisi dinlenmeden verilen ihtiyati haczin dayandığı sebeplere, mahkemenin yetkisine ve teminata karşı; huzuriyle yapılan hacizlerde haczin tatbiki, aksi halde haciz tutanağının kendisine tebliği tarihinden itibaren yedi gün içinde mahkemeye müracaatla itiraz edebileceği, itiraz üzerine verilen karara karşı istinaf yoluna başvurulabileceği, Bölge Adliye Mahkemesinin bu başvuruyu öncelikle inceleyeceği ve verdiği
 kararın kesin olduğu'' düzenlenmiştir.
 
@@ -94,6 +100,8 @@ kararın kesin olduğu'' düzenlenmiştir.
 Somut olayda, dosya kapsamında bulunan belgelerden ihtiyati haciz kararına itiraz hakkında bir karar verilmeden önce ihtiyati hacze konu alacağın tahsili için başlatılan icra takibine itirazın iptali için Mersin 12. Asliye Hukuk Mahkemesinde itirazın iptali davası açıldığı anlaşılmakla ihtiyati hacze itirazın esas hakkında yetkili ve görevli mahkemede incelenmesi gerektiği anlaşıldığından istinaf başvurusunun esası incelenmeksizin kabulü, değişik iş mahkemesinin verdiği kararın kaldırılmasına talep hakkında asıl mahkemenin inceleme yapması gerektiğinden karar verilmesine yer olmadığına karar verilerek dosyanın asıl davanın görüldüğü mahkemeye gönderilmesi için ilk derece mahkemesine gönderilmesine karar verilmesi gerekmiştir.
 
 ## İzmir BAM 14. HD 2025/1110 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1166151300)
 
 Davalı vekili cevap dilekçesinde özetle; Tarafların üç farklı boyutta boyler imalatı konusunda anlaştığını, davacı şirket tarafından müvekkili şirketin fabrikasında yapılan imalatlar sonucu üretilen boylerler hatalı olduğu için teslim alınmadığını ileri sürerek açılan davanın reddine karar verilmesini talep etmiştir.
 
@@ -107,6 +115,8 @@ Karşıyaka Asliye Ticaret Mahkemesi'nin 13.05.2025 tarih ve 2025/129 Esas, 2025
 
 ## İstanbul BAM 13. HD 2025/1055 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160047400)
+
 ATM tarafından verilen kararda, konişmentoda yer alan yetki kaydı TBK’nın 20. ve devam maddelerinde düzenlenen genel işlem koşulları çerçevesinde geçersiz kabul edilmiş ve Mahkeme tarafından genel işlem koşuluna ilişkin TBK hükümlerinin tacirler arasında da uygulama alanı bulacağını açıkladıktan sonra ve yabancılık unsuru içeren uyuşmazlıklar söz konusu olduğunda Türk Hukuku’nun genel işlem koşuluna ilişkin hükümlerinin MÖHUK madde 6 tahtında doğrudan uygulanan kurallar kapsamında olduğu sonucuna varıldığını, İlgili kararda;“Dosyaya ibraz edilen konşimento da yer alan yetki ilk itirazı incelendiğinde; bu halde yetkili mahkemenin madde 2.6’ya göre ... numaralı konişmentoda yer alan ve milletlerarası yetki kaydını içeren konişmento kuralının genel işlem şartı niteliğinde bulunduğu açıktır. Buradaki genel işlem şartı, ticari nitelikte olsa da 6098 Sayılı TBK m. 20-25’te yer alan denetime tabidir. Söz konusu denetim gerek tüketici gerekse de ticari nitelikteki genel işlem şartlarına uygulanmaktadır. Ayrıca; söz konusu hükümler, tarafların iradelerinden bağımsız olarak emredici nitelikte kurallar barındırması nedeniyle kamu düzenine ilişkindir.
 Dolayısıyla Türk Borçlar Kanunu’nun Yürürlüğü ve Uygulama Şekli Hakkında Kanun madde 2 uyarınca, hukuki işlemin tarihine bakılmaksızın, TBK m. 20-25’de yer alan kurallar geçmişe yönelik olarak da uygulanabilecektir. Öte yandan somut olayda; yabancılık unsurunun bulunması da kamu düzeni ile ilgili bulunan söz konusu hükümlerin uygulanmasını engellememektedir. Çünkü bu konuda “Türk hukukunu doğrudan uygulanan kuralları” başlıklı MÖHUK m. 6 uygulama alanı bulmaktadır ve bu hükme göre “Yetkili yabancı hukukun uygulandığı durumlarda, düzenleme amacı ve uygulama alanı bakımından Türk hukukunun doğrudan uygulanan kurallarının kapsamına giren hallerde o kural uygulanır”. Öğretiye göre, iç hukukta sözleşmeler için getirilmiş olan ve kamu yararı açısından önemli olan hükümler Türkiye’de yabancı bir hukuka tabi olan sözleşmelere de doğrudan uygulanmaktadır. (Bkz. Aysel Çelikel / Bahadır Erdem: Milletlerarası Özel Hukuk, 11.Bası, 2012, s. 155). Genel işlem şartlarına ilişkin hükümlerin bu kapsamda değerlendirilmesi gerektiği de açıktır.
 
@@ -118,6 +128,8 @@ Dolayısıyla yabancılık unsurlu olaylarda dahi, mahkemenin TBK’ da yer alan
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 13. HD 2025/1052 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160962000)
 
 Dava; hisse devir sözleşmesinden doğan cezai şart alacağının tahsili amacıyla başlatılan icra takibine vaki itirazın iptali istemine ilişkin olup, mahkemece davanın kısmen kabulüne karar verilmiş, karara karşı taraf vekillerince istinaf kanun yoluna başvurulmuştur.
 
@@ -173,6 +185,8 @@ Tüm dosya kapsamı birlikte değerlendirildiğinde, mahkemenin istinaf inceleme
 Davacı vekilinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## İzmir BAM 17. HD 2025/1003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148839600)
 
 MAHKEMECE: "... Tire İcra Müdürlüğü'nün 2024/626 E.
 

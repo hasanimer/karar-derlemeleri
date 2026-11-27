@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2010/197 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110372600)
+
 Dava, mirasçılık belgesi verilmesi istemine ilişkindir.
 
 …
@@ -28,6 +30,8 @@ Dava, mirasçılık belgesi verilmesi istemine ilişkindir.
 Açıklanan bu olgular ve mirasçılık belgesi verilmesi isteminde bulunulabilmesi için davacı tarafın mutlaka miras bırakanla arasında irs ilişkisi bulunmasının gerekmediği, atanmış mirasçıların da atanmış mirasçı olduğunu ve miras payını gösteren bir belge verilmesini isteyebileceği gözetildiğinde davacının miras bırakan ile ilgili isteminin bu çerçevede değerlendirilmesi gerektiği, verilecek atanmış mirasçı belgesinin de niteliği itibariyla bir mirasçılık belgesi olacağı kuşkusuzdur.
 
 ## Yargıtay 2. HD 2007/11410 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79943700)
 
 Vasiyetname ile Milli Eğitim Bakanlığı mirasçı atanmış ( TKM. md. 538 ) olup, vasiyet alacaklısı olduğuna dair mahkeme gerekçesi yerinde değildir.
 
@@ -43,6 +47,8 @@ Eğer mirasçı olabilecek kişi açık irade beyanıyla, ya da Türk Medeni Kan
 
 ## İzmir BAM 17. HD 2023/368 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870443400)
+
 4721 sayılı Türk Medeni Kanunu’nun 605. maddesinde yer alan ret hakkına göre, “Yasal ve atanmış mirasçılar mirası reddedebilirler. Ölümü tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş yani hükmi ret sayılır. Bu durum kendiliğinden irade açıklaması ya da dava yoluna gidilmeksizin oluştuğu kabul edilip, mirasın açılması ile kendiliğinden mirasçılara intikal edeceği varsayılır. Ayrıca mirasçılar da davalının ödemeden aczinin açıkça belli olduğunu dile getirmişlerdir. Ancak; Davanın açıldığı tarihte, davalıların miras bırakanının terekesinin borca batık olduğu ve mirasın reddedilmiş sayılacağı henüz belli değildir ve davacıdan bu hususları bilmesi ve öngörmesi de beklenemeyeceğinden davalılar lehine vekalet ücretine hükmedilmeyerek, Yukarıdaki sebeplerle davanın reddine dair aşağıdaki hüküm kurulmuştur" gerekçesi ile;
 
 …
@@ -51,16 +57,22 @@ Dava: Genel Kredi sözleşmesinden kaynaklı alacak nedeni ile yapılan takibe i
 
 ## İstanbul BAM 16. HD 2021/1877 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696614100)
+
 DELİLLER: İstanbul .... İcra Müdürlüğünün ... esas sayılı dosyasının incelenmesinde; davalı ... tarafından 26/11/2012 takip tarihinde, ... aleyhine, keşidecisi ... lehtarı ... olan "nakden" bedel kayıtlı, 40.000 TL bedelli 18/10/2010 vadeli 20/09/2009 tarihli ve 45.000 TL bedelli 22/11/2010 vadeli 20/02/2009 tarihli iki adet bonoya dayalı olarak, 85.000 TL asıl alaca, 255,00 TL komisyon ve 28.433,16 TL işlemiş faiz alacağının %16,5 faizi ile tahsili talebiyle kambiyo senetlerine özgü takip başlattığı, takibin kesinleştiği görülmüştür.İstanbul 15. SHM'nin 17/04/2013 tarihli 2013/145 Esas-2013/294 Karar sayılı veraset ilamından, ... 17/12/2012 tarihinde vefat ettiği, geriye mirasçı olarak davacıları, çocuklarını bıraktığı anlaşılmıştır.Görevsizlik kararı verilmeden önce, İstanbul 14. Asliye Hukuk Mahkemesinde davacı tanıkları ..., ..., ... dinlendiği, görevsizlik kararı sonrasında İstanbul 16. Asliye Ticaret Mahkemesi tarafından, davacı tanıkları ... ve davalı tanığı ...'in dinlendiği anlaşılmıştır.Davalı ...'ın nüfus kaydından ve dosyada bulunan İstanbul 8.
 Sulh Hukuk Mahkemesi'nin 27/04/2016 tarihli 2016/387 E-2016/410 K sayılı veraset ilamından 19/12/2015 tarihinde vefat ettiği, geriye mirasçıları ... kaldığı görülmüştür.Davalı vekilinin davalı ...'ın Gebze ... Noterliğinden düzenlenmiş 12/02/2014 tarihli ... sayılı Vasiyetnamesini ve Vasiyetname ile mirasçı atanan ...'nin vekaletnamesini ibraz ettiği, dosyaya muris ...'ın Vasiyetnamesinin açılıp okunmasına ilişkin Gebze 2. Sulh Hukuk Mahkemesi'nin 18/07/2016 tarihli 2016/36 E-2016/845 K sayılı ilamı ibraz edilmiştir.Dairemizce davacılar vekiline dosya kapsamında bulunmayan vekaletnamelerin ibrazı yönünde muhtıra tebliğ edildiği, tüm davacıların vekaletnamelerinin ibraz edilerek dosya kapsamına alındığı, davalı vekiline, atanmış mirasçı ...'nin murisin atanmış mirasçısı olduğuna dair TMK 598/2 maddesi gereğince Sulh Hukuk Mahkemesi'nden alınmış veraset ilamını ibraz etmesi için muhtıra tebliğ edildiği, veraset ilamının dosyaya ibraz edildiği anlaşılmakla, istinaf incelemesine geçilmiştir.
 
 ## İstanbul BAM 12. HD 2020/609 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580207900)
 
 Davalı banka ise ;vasiyetnamede müteveffanın mevduat hesaplarındaki paralara ilişkin açık bir tasarrufu olmaması ve müteveffanın birden fazla mirasçısı olması sebebiyle hak sahibinin belirlenemediğini, bu sebeple hak kaybı yaşanmaması adına İstanbul 8. Sulh Hukuk Mahkemesi 2019/9 D.İŞ dosyasından başvuruda bulunarak tevdii mahali talebinde bulunduklarını beyan ederek davanın reddi gerektiğini savunmuştur.
 Davacının atanmış mirasçı olduğu,uyuşmazlığın müteveffa tarafından tanzim edilen vasiyetnamelerde banka hesaplarına ilişkin olarak bir açık tasarruf bulunmaması ve atanmış mirasçı davacı dışında başkaca mirasçılar bulunması nedeniyle hesaplarda bulunan paranın tevdii mahalline depo edildiği hususunda uyuşmazlık bulunmamaktadır.Somut olayda, banka hesabında bulunan parada gerçek hak sahibinin kim olduğu hususunun çekişmeli hale geldiği, davalı bankanın gerçek hak sahibini ve alacaklıyı kesin olarak tayin edecek durumda bulunmadığı mahkemece belirlenen tevdii mahaline depo etmek suretiyle davalı bankanın sorumluluğunun sona erdiği sonucuna varılmaktadır.Bu durumda uyuşmazlığın bankaya dava açarak değil hak sahibi olabilecek diğer mirasçılar hasım gösterilmek suretiyle açılacak bir dava da çözümlenmesi gerekmektedir.
 İlk derece mahkemesince , davacının terekede bulunan dava konusu mevduatların sahibinin belirlenmesine yönelik bir dava açması ve mahkemece yapılacak yargılama sonucunda davacının gerçek hak sahibi ve alacaklı olarak tayin edilmesi durumunda tevdii mahallinden alacağını alabileceği kanaatine varılarak davanın reddine karar verilmesinde isabetsizlik olmadığından davacı vekilinin hükme yönelik istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## İstanbul BAM 6. HD 2019/515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/497566100)
 
 …
 

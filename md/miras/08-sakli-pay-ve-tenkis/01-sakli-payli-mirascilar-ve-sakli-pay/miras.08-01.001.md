@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2026/16 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199690300)
+
 Türk Medeni Kanunu'nun 560 ve devamı hükümlerinde düzenleme alanı bulan tenkis davası; mirasbırakanın, saklı payı ihlâl eden sağlararası veya ölüme bağlı kazandırmalarının, yasal sınıra indirilmesini sağlayan yenilik doğurucu bir dava niteliğindedir. Bu dava sonucunda verilen kararla; mirasbırakanın yapmış olduğu tasarruflar, mirasın açıldığı tarihten itibaren hüküm doğurmak üzere, saklı payı aştığı ölçüde geçersiz olacaktır.
 
 ## Yargıtay HGK 2024/464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094655600)
 
 Dava, mirasçılıktan çıkarma içeren vasiyetnamenin iptali istemine ilişkin olup uyuşmazlıkların çözümlenebilmesi için öncelikle konuyla ilgili kavram ve hükümlerin ortaya konulması, sonrasında her bir uyuşmazlığın yapılan bu açıklamalar ışığında ayrı ayrı ele alınması gerekir.
 
@@ -33,6 +37,8 @@ Türk Medeni Kanunu'nun mirasçılıktan çıkarmanın "Hükümleri" başlıklı
 
 ## Yargıtay HGK 2022/1258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857272500)
+
 Bu aşamada tenkise ilişkin açıklama yapılmasında fayda vardır. Azaltma, eksiltme anlamına gelen tenkis Türk Hukuk Lûgatında indirim, indirme olarak tanımlanmıştır. TMK’nın 560. maddesi ve devamı hükümlerinde düzenleme alanı bulan tenkis davası ise miras bırakanın, saklı payı ihlâl eden sağlar arası veya ölüme bağlı kazandırmalarının yasal sınıra indirilmesini sağlayan yenilik doğurucu nitelikte bir davadır (Nar, Ahmet: Türk Miras Hukukunda Tenkis, ... 2016, s. 14 vd.). Saklı payların karşılığını alamayan mirasçılar miras bırakanın kullanabileceği kısmı aşan işlemlerin tenkisini (eksiltilmesini, indirilmesini) dava edebilirler (Türk Hukuk Lûgatı, s. 1092).
 
 Söz konusu hükümden de anlaşılacağı üzere, tenkis davasının konusu, miras bırakanın, saklı paylı mirasçı/mirasçılarının saklı payını ihlâl eden ölüme bağlı ve sağlar arası tasarruflarıdır. Esasında kural olarak miras bırakanın ölüme bağlı tasarrufları tenkise tabidir. Zira kural olarak miras bırakan, sağlığında kendi mal varlığı değerleri üzerinde dilediği gibi tasarrufta bulunma özgürlüğüne sahiptir. Ne var ki her özgürlükte olduğu gibi, burada da miras bırakanın sınırsız bir özgürlüğü bulunmamaktadır. Bu nedenle TMK’nın 565. maddesinde dört bent hâlinde miras bırakanın tenkise tabi sağlararası tasarrufları belirlenmiştir.
@@ -41,11 +47,15 @@ Diğer bir anlatımla, miras bırakan sağlığında kendi mal varlığı değer
 
 ## Yargıtay HGK 2021/625 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685452500)
+
 Tenkis davası, kural olarak saklı pay sahibi mirasçılar tarafından açılır. Ancak TMK’nın 562. maddesindeki hükme göre “Mirasbırakan, tasarruf edebileceği kısmı aştığında, saklı payı zedelenen mirasçı, iflâsı hâlinde iflâs dairesinin veya mirasın geçtiği tarihte kendisine karşı ellerinde ödemeden aciz belgesi bulunan alacaklıların ihtarına rağmen tenkis davası açmazsa, iflâs idaresi veya bu alacaklılar, alacaklarının elde edilmesi için gerekli olan oranda ve mirasçıya tanınan süre içinde tenkis davası açabilirler. Mirasçılıktan çıkarılanın çıkarma tasarrufuna itiraz etmemesi durumunda da iflâs idaresi veya alacaklılar, aynı koşullarla tenkis davası açabilirler”. Bu hükümle, saklı paylı mirasçının alacaklılarından çekindiği veya farklı nedenlerle tenkis davası açmaktan kaçındığı hâllerde, alacaklılarına ve iflas dairesine belli koşulların bulunması hâlinde tenkis davası açma imkânı tanınmıştır.
 
 Yine kural olarak tenkis davası mirasbırakanın saklı pay kurallarını gidermek amacıyla yaptığı tasarruftan yararlanan kişi aleyhine açılır. Bu kişiler mirasçı olabileceği gibi mirasçılar dışında üçüncü kişiler de olabilir. Davalı gerçek veya tüzel kişi olabilir. Lehine kazandırma yapılan kişi ölmüşse onun mirasçılarına karşı da açılması mümkündür.
 
 ## Yargıtay HGK 2010/633 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77132900)
 
 Mirasbırakan vasiyetnamesinde mirasçılıktan çıkarma sebeplerini göstermiştir. Davalılar gösterilen sebebin doğruluğunu kanıtlayamamışlardır. Bu durumda Türk Medeni Kanununun 512/3. maddesi uyarınca mirastan ıskatın mirasbırakanın tasarruf nisabı oranında geçerli olacağı başka bir ifade ile davacıların saklı paylarını isteyebileceği ve davaya tenkis davası olarak devam edileceği düşünülmeden vasiyetnamenin tümden iptaline karar verilmesi usul ve yasaya aykırıdır.”)
 
@@ -54,6 +64,8 @@ Mirasbırakan vasiyetnamesinde mirasçılıktan çıkarma sebeplerini göstermi�
 Dava, hukuki nitelikçe mirastan ıskat nedenleri bulunmadığı iddiasına dayalı vasiyetnamenin iptali istemine ilişkindir.
 
 ## Yargıtay HGK 2006/757 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77136700)
 
 Bu böyle olmakla birlikte, davacının (murisin) alacaklılarının ve saklı paylı mirasçılarının bu ivazsız ve şekilsiz kazandırmanın risklerine karşı maddi açıdan korunmaları gerekmektedir (KRAUSKOPF, Der Vertrag zugunstenritter, Dritter, Fribourg, 2000, -tez-N.1678 vd; Serozan, Miras Hukuku, İradi Mirasçılık, sh.200). Kaldı ki TMK.567 kuralı da üçüncü kişi yararına ölüme bağlı hayat sigortaları konusunda böylesine uzlaştırıcı bir yaklaşımı seçmiştir.
 
@@ -91,11 +103,15 @@ başvurusunda bulunulması üzerine Bölge Adliye Mahkemesinin ilâm başlığı
 
 ## Yargıtay 7. HD 2025/2611 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168853900)
+
 Bilindiği gibi; tenkis (indirim) davası, 4721 sayılı Kanun'un 560 ve 562. maddelerinde düzenlenen, mirasbırakanın saklı payları zedeleyen gerek ölüme bağlı ve gerekse sağlararası kazandırmalarının kural olarak saklı paylarının karşılığını alamayan mirasçılar tarafından mirasbırakanın tasarruf edebileceği sınıra çekilmesini amaçlayan, öncesine etkili, yenilik doğurucu davalardandır. Bu yönüyle bakıldığında, tenkis davası, Miras Hukukuna özgü bir iptal davası olarak kabul edilmelidir (G.Antalya, Miras Hukuku, İstanbul, 2003, s.305). Tenkis davası, açıkladığımız sebeplerle saklı payın yaptırımıdır (H.Hatemi, Miras Hukuku, İstanbul, 2004, s.23).
 
 Tenkis, saklı pay tamamlanıncaya kadar, önce ölüme bağlı tasarruflardan, bu yetmezse, en yeni tarihlisinden en eskisine doğru geriye gidilmek üzere sağlararası kazandırmalardan yapılır (TMK.md.570).
 
 ## Yargıtay 1. HD 2025/2528 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152567900)
 
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı tapu iptali ve tescil, olmadığı taktirde bedel isteğine ilişkindir.
 
@@ -105,13 +121,19 @@ Hal böyle olunca, Mahkemece 13 ve 14 numaralı bağımsız bölümler yönünde
 
 ## Yargıtay 5. HD 2025/1935 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135578600)
+
 Yasal mirasçılar, mirasbırakandan miras paylarına mahsuben elde ettikleri sağlararası karşılıksız kazandırmaları, denkleştirmeyi sağlamak için terekeye geri vermekle birbirlerine karşı yükümlüdürler. Mirasbırakanın çeyiz veya kuruluş sermayesi vermek ya da bir malvarlığını devretmek veya borçtan kurtarmak ve benzerleri gibi karşılık almaksızın altsoyuna yapmış olduğu kazandırmalar, aksi mirasbırakan tarafından açıkça belirtilmiş olmadıkça, denkleştirmeye tâbidir. Saklı paylarının karşılığını alamayan mirasçılar, mirasbırakanın tasarruf edebileceği kısmı aşan tasarruflarının tenkisini dava edebilirler.
 
 ## Yargıtay 7. HD 2025/157 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133570000)
+
 Tenkis davası, miras bırakanın saklı payları zedeleyen ölüme bağlı veya sağlar arası kazandırmaların (bağış) yasal sınıra çekilmesini amaçlayan, öncesine etkili, yenilik doğurucu davalardandır. Tenkis davasının dinlenebilmesi için öncelikli koşul; mirasbırakanın ölüme bağlı veya sağlar arası bir kazandırma işlemi ile saklı pay sahiplerinin haklarını zedelemiş olmasıdır. Saklı payların zedelendiğinden söz edilmesi ise kazandırma konusu tereke ile kazandırma dışı terekenin tümüyle bilinmesiyle mümkündür.
 
 ## Yargıtay 7. HD 2024/1595 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1034899500)
 
 Dava, vasiyetnamenin iptali, olmadığı takdirde ikinci kademede tenkis istemine ilişkindir.
 
@@ -121,9 +143,13 @@ Kabule göre de; tenkis istemli davalarda dava değeri dava konusu taşınmazlar
 
 ## Yargıtay 7. HD 2024/75 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990986000)
+
 2\. 4721 sayılı Türk Medeni Kanunu'nun 557 nci maddesinde vasiyetnamenin iptali davasının sebepleri sınırlı olarak sayılmış olup bunlar; tasarrufun miras bırakanın tasarruf ehliyetinin bulunmadığı bir sırada yapılmış olması; tasarrufun yanılma, aldatma, korkutma veya zorlama sonucunda yapılmış olması; tasarrufun içeriği, bağlandığı koşullar veya yüklemelerin hukuka veya ahlâka aykırı olması; tasarrufun kanunda öngörülen şekillere uyulmadan yapılmış olmasıdır. Somut olayda, vasiyetnamenin iptal sebeplerinin asıl ve birleştirilen davada davacılar tarafından ispat edilemediği ve tenkis davasının, ancak saklı paylarının karşılığını alamayan mirasçılar tarafından açılabileceği anlaşılmakla asıl ve birleştirilen davaların reddine karar verilmesinde bir isabetsizlik bulunmamaktadır.
 
 ## Yargıtay 1. HD 2023/7433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025456300)
 
 4722 sayılı Kanun’nun 17 inci maddesi uyarınca mirasçılık ve mirasın geçişi mirasbırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirlenir.
 
@@ -133,11 +159,15 @@ Mirasbırakan ... ise 08.07.1999 tarihinde ölmüş olup mirasbırakanın ölüm
 
 ## Yargıtay 7. HD 2023/4680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969615200)
+
 Yargıtay 3. Hukuk Dairesi 27.02.2013 tarih ve 2013/1579 Esas, 2013/3103 Karar ... ilâmında; “...iptal yönünden temyiz itirazlarının incelenmesinde, mahkemece, vasiyetçinin eşi vasıtasıyla sağlık (tedavi) yardımı alıp almadığı, eşinden sağlık karnesinin bulunup bulunmadığı, vasiyetnamenin düzenlendiği sırada ve öncesinde sağlık kurumlarında (hastanelerde vs.) tedavi görüp görmediği, tedavi görmüş ise nerelerde tedavi gördüğü hasta bakım, müşahade tedavi evraklarının nerelerde bulunduğu hususundaki delillerle ilgili davacı tarafa usulünce kesin süre verilerek, tüm deliller toplanıp Adli Tıp Kurumundan tasarruf (hukuki işlem) ehliyetine ilişkin rapor alınıp, sonucuna göre hüküm kurulması gerekirken, tanık beyanlarına ve yetersiz olan acil hekim raporuna göre eksik inceleme ve araştırma ile hüküm kurulmuş olması doğru görülmemiştir.
 
 Tenkise yönelik temyiz itirazlarının incelenmesinde ise, TMK'nın 560 ıncı maddesinde; saklı paylarının karşılığını alamayan mirasçılar mirasbırakanın tasarruf edebileceği kısmı aşan tasarruflarının tenkisini dava edebilirler. Tenkis davası, iptal davası ile birlikte açılabileceği gibi ayrıca sadece tenkis davası olarak da açılabilir. Vasiyetnamenin yerine getirilmesi davasında da tenkis def'i olarak da ileri sürülebilir. İptal davası ile birlikte tenkiste talep edilmiş ise, vasiyetnamenin iptali şartları oluşmamış ise iptal davası reddedilir, tenkis şartları var ise tenkise karar verilir. Tenkis yönünden kurulan hükümde yerinde değildir.'' gerekçesiyle hüküm bozulmuştur.
 
 ## Yargıtay 7. HD 2023/4495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969001700)
 
 …
 
@@ -151,11 +181,15 @@ Dava; vasiyetnamenin iptali, olmadığı takdirde tenkis istemine ilişkindir.
 
 ## Yargıtay 7. HD 2023/3745 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/926096500)
+
 Mirastan feragat sözleşmesi ivazlı ya da ivazsız şekilde yapılabilir. Mirastan feragat sözleşmesi ivazlı veya ivazsız şekilde yapılmasına göre hukuki olarak farklı sonuçlar doğuracaktır. İvazlı feragat sözleşmesinde kural olarak ivaz karşılığı feragat edilmişse, feragat, feragat edenin alt soyu için de geçerli olacaktır. Buna karşılık ivazsız feragat sözleşmesinde feragat edenin altsoyu feragatten etkilenmeyecek, mirasçılığı devam edecekir. Diğer yandan sözleşmenin ivazlı ya da ivazsız olarak yapılmasının Türk Medeni Kanunu’nun 530. maddesinde tereke borçlarından sorumluluk hususu yönünden önemli etkileri bulunmaktadır. Mirastan ivazlı feragat eden mirasçının TMK 530. maddesine göre tereke borçlarından sorumluluğu gündeme gelecekir. Dolayısıyla mirastan feragat sözleşmesinin ivazlı veya ivazsız olarak yapılmasının üçüncü kişiler üzerinde de önemli etkileri bulunmaktadır.
 
 Feragat eden, ileride sahip olacağı miras payının tamamından veya bir kısmından da feragat edebilir. Ancak Türk Medeni Kanunu’nun 582/2. maddesinde, kanun koyucu “mirasçılık sıfatını kaybeder.” ifadesiyle tam feragati vurgulamış, feragat eden mirasçının mirasçılık sıfatını kaybedeceğini düzenlemiş ise de kısmi feragat olması durumunda kısmi feragat eden mirasçı hala tereke üzerinde pay sahibi olacağından, mirasçılık sıfatı da kalan kısım yönünden sürecektir. Üstelik, yalnızca saklı paydan veya yasal miras payından feragat de mümkün olduğu gibi saklı paylı mirasçının saklı payının tamamından veya bir kısımından feragat ettiği halde, miras bırakan yönünden feragat edilen saklı pay açısından tasarruf serbesti de mümkün olacaktır. Buradan hareketle, miras bırakan tasarrufta bulunmamışsa, feragat edenin mirasçılık sıfatı devam edecektir.
 
 ## Yargıtay 7. HD 2023/2563 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929087400)
 
 1\. 4721 sayılı Türk Medeni Kanunu'nun 495 inci maddesi uyarınca, mirasbırakanın birinci derece mirasçıları, onun altsoyudur. Mirasbırakandan önce ölmüş çocukların yerini, her derecede halefiyet yoluyla kendi altsoyları alır.
 
@@ -163,9 +197,13 @@ Mirasçı, mirasbırakana veya mirasbırakanın yakınlarından birine karşı a
 
 ## Yargıtay 7. HD 2023/2166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910621800)
+
 Yargıtay 1. Hukuk Dairesinin 30.06.2014 tarihli ve 2014/8660-12624 E. K. tarihli ilâmında; "... tüm dosya kapsamı dinlenilen tanık beyanları değerlendirildiğinde mirasbırakan tarafından davalılar ... ve ...'ye yapılan temliklerin davacıların saklı paylarını zedelemek amacıyla yapıldığı anlaşılmaktadır. Hal böyle olunca, mirasbırakanın ölüm tarihi itibarıyla terekesinin araştırılarak, yukarıda belirlenen ilkeler çerçevesinde inceleme ve araştırma yapılarak hasıl olacak sonuca göre bir karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu üzere miras bırakanın saklı payı zedelemek kastının bulunmadığından bahisle davanın reddine karar verilmiş olması isabetsizdir." gerekçesiyle kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2022/4600 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797654300)
 
 Dava, vasiyetnamenin iptali terditli olarak tenkis ve ipoteğin kaldırılması istemine ilişkindir.
 
@@ -179,6 +217,8 @@ Ayrıca, mahkemece tesciline karar verilen dava konusu Malatya ili, ... Mahalles
 
 ## Yargıtay 7. HD 2022/4336 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790255300)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, ikinci kademede tenkis istemine ilişkindir.
 
 …
@@ -189,11 +229,15 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, ikinci k
 
 ## Yargıtay 3. HD 2021/12963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723434400)
+
 Tenkis davası yenilik doğuran bir davadır. Mahkemenin tenkis kararı ile saklı payını tamamlayabilmesi için, bazı malların veya belirli miktarda paranın saklı paylı mirasçıya verilmesi hüküm altına alınır. Tenkis davası bir eda davası olmadığından, saklı paylı mirasçının, mahkemenin tenkis kararına dayanarak, saklı payına ilişkin bulunan kısmın kendisine verilmesini ayrıca talep ve dava etmesi gerekir. ( Zahit İmre, Hasan Erman, Miras Hukuku, Der Yayınları, İstanbul: 2021 , s. 261)
 
 Saklı payı zedeleyen vasiyetnameler kayıtsız koşulsuz tenkise tabidir. (TMK md.466) Tenkis davası, ölüme bağlı tasarrufların iptali davasıyla birlikte terditli olarak da açılabilir.
 
 ## Yargıtay 3. HD 2021/2371 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652814800)
 
 Mirasbırakan 09/01/2006 tarihinde vefat etmiştir. Buna göre, olayın çözümünde 4721 sayılı Türk Medeni Kanunu (TMK) hükümlerinin uygulanması gerekmektedir.
 
@@ -203,13 +247,19 @@ Hal böyle olunca mahkemece; saklı paylı mirasçı olan davacının tenkis ist
 
 ## Yargıtay 1. HD 2020/4225 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/625178100)
+
 Asıl ve birleştirilen davada davacılar, mirasbırakanları Melahat Sezer'in 27.7.2001 tarihli vasiyetname ile 1570 parsel sayılı taşınmazda bulunan 3,4 ve 12 nolu bağımsız bölümler ile Halkbankasında bulunan parasını davalı ... Başhakimliğine, 16 nolu dükkan niteliğindeki bağımsız bölümü davalı ...'a, 14.12.2000 tarihli vasiyetname ile Halkbankasında başka hesapda bulunan 4.000 TL.yi Manisa Huzurevi Vakfına, 17.08.2001 tarihli üçüncü vasiyetname ile 4085 parsel sayılı taşınmazını ... Başhekimliğine bıraktığını, vasiyetnamelerde parmak izi olduğunu, mirasbırakanın okuma yazma bilip bilmediğinin açıkça yazılmadığını, Devlet Hastanesi Başhekimliğinin taşınmaz mülkiyeti edinmesinin yasal olarak mümkün bulunmadığını belirterek her üç vasiyetnamenin iptaline, olmadığı takdirde tenkise, zedelenen saklı payları oranında tapu kayıtlarının iptali ile adlarına tesciline karar verilmesini istemişlerdir.
 
 ## Yargıtay 1. HD 2020/4221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/625171700)
+
 Hemen belirtilmelidir ki; bilirkişi raporu ile murisin yaptığı temlik ile davacıların ihlal edilen saklı paylarının değeri her bir davacı için 161.563,40-TL olduğu tespit edilmiştir. Dava değeri ihlal edilen saklı paylar değerlerinin toplamı olup, davacıların saklı payına tekabül eden toplam 323.126,80-TL değer üzerinden harç ikmali yapıldığı da gözetilerek her bir davacı için 161.563,40 TL değer üzerinden ayrı ayrı 14.143,80 TL‘şer vekâlet ücretine hükmedilmesi gerekse de davacılar vekilinin kararı temyiz etmediği, bu durumda davalı lehine usuli kazanılmış hak olduğu gözetilerek, davacılar vekili lehine Yerel Mahkeme kararında hüküm altına alınan 24.398,96 TL vekâlet ücretine hükmedilmesi gerektiği açıktır.
 
 ## Yargıtay 1. HD 2020/801 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594860800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis, vasiyetnamenin iptali isteklerine ilişkindir.
 
@@ -219,6 +269,8 @@ Hal böyle olunca, çekişme konusu 141 ada 33 parsel sayılı taşınmazın dav
 
 ## Yargıtay 1. HD 2019/4195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515753100)
+
 Asıl davada davacı ...,miras bırakanları ...’in ... Noterliği’nin 04.03.2003 tarih ve 60 yevmiye numaralı düzenleme şeklindeki vasiyetnamesiyle tüm mal varlığını tek oğlu olan davalı ...’e vasiyet ettiğini ve yapılan işlem nedeniyle saklı payının zedelendiğini ileri sürerek , tenkis isteğinde bulunmuştur. Birleştirilen davada davacı ...,miras bırakanları ...’in ölümü üzerine diğer mirasçılarla birlikte kendisine intikal eden 101 ada 30 parsel sayılı taşınmazdaki miras payını ... Noterliği’nin 14.09.2011 tarih ve 3585 yevmiye numaralı düzenleme şeklindeki miras payının devri sözleşmesi ile davalı ...’e kardeşi olduğu için duyduğu güven nedeniyle devrettiğini,zira,davalının taşınmazdaki payını devretmesi karşılığında 40.000,00 TL ödemeyi vaat ettiğini,ancak,söz konusu bedelin ödenmediğini ileri sürerek,sözleşmenin iptaline karar verilmesini istemiştir.
 Davalı ..., asıl dava yönünden miras bırakanı tarafından vasiyet edilen taşınmazlardan sadece 101 ada 30 parsel sayılı taşınmazın vasiyetname doğrultusunda kendisinde bırakılmasını istediğini belirterek davanın reddini savunmuş,birleştirilen dava bakımından ise; davacı ...’un beyanlarını kabul etmediğini bildirmiştir.Davanın kabulüne ilişkin olarak verilen kararın Dairece, ''...mahkemece hükme yeterli bir araştırma yapılmaksızın neticeye gidildiği görülmektedir.
 Hal böyle olunca, tarafların tüm delillerinin toplanması,...değinilen açıklamalar ve ilkeler doğrultusunda araştırma ve inceleme yapılarak hasıl olacak sonuca göre bir karar verilmesi gerekirken, eksik soruşturma ile yetinilerek, vasiyetnameye konu taşınmazların davacının saklı payı oranında tapu kaydının iptali ile davacı adına tesciline, kalan payın muris üzerinde bırakılmasına şeklinde yazılı olduğu üzere hüküm kurulması doğru değildir....'' gerekçesiyle bozulmuş, mahkemece bozma kararına uyularak yapılan yargılama sonucunda; asıl dava konusu taşınmazların kamulaştırıldığı, çekişmeli 106 ada 18, 106 ada 23 ve 101 ada 30 parsel sayılı taşınmazın arsa kısımlarına ilişkin kamulaştırma bedellerinin davacı ...’ın da içinde bulunduğu mirasçılara ödendiği gerekçesiyle sözü edilen taşınmazların arsa kısmına yönelik açılan asıl dava konusuz kaldığından karar verilmesine yer olmadığına,101 ada 30 parsel sayılı taşınmaz üzerinde bulunan kargir eve yönelik asıl davanın ise; murisin ,evin yapımında bir etkisi ve katkısının olmadığı dolayısıyla ondan miras kalmadığı gerekçesiyle reddine karar verilmiş,birleştirilen dava da,iddianın kanıtlanamadığı gerekçesiyle reddedilmiştir.Karar, asıl
@@ -226,8 +278,12 @@ davada davacı ... vekili tarafından süresinde temyiz edilmiş olmakla; Tetkik
 
 ## Yargıtay 1. HD 2019/4165 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515826300)
+
 Diğer yandan; tenkis (indirim) davası, mirasbırakanın saklı payları zedeleyen ölüme bağlı veya sağlar arası karşılıksız kazandırmaların (bağış) yasal sınıra çekilmesini amaçlayan, öncesine etkili, yenilik doğurucu (inşai) davalardandır. Somut olaya gelince; davalı ...’in ölünceye kadar bakma sözleşmesine dayalı olarak açmış olduğu iptal tescil davası kabul edilmiş, sözleşmenin bakım karşılığı, bir başka ifadeyle ivazlı olduğu ve bakım borcunun yerine getirildiği hususları o davayla hükmen saptanmıştır. Hal böyle olunca; davanın reddine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir.Davalının, yerinde görülen temyiz itirazlarının kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 26.06.2019 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2019/2573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508500500)
 
 Bu durumda mahkemece; TMK'nın 512 nci maddesinin üçüncü fıkrasının ilk cümlesi uyarınca, mirasçılıktan çıkarmaya ilişkin tasarrufun mirasçının saklı payı dışında yerine getirileceği, başka bir ifade ile davacıların saklı paylarını isteyebileceği ve davaya tenkis davası olarak devam edilmesi gerektiği gözetilerek; birleşen vasiyetnamenin yerine getirilmesi istemli davanın işbu davadan (sonucu beklenmek üzere) ayrılmasına ve tenkis davasının esasının incelenip ulaşılacak sonuca göre bir karar verilmesi gerekirken, yanılgılı değerlendirmeyle birleştirilen davalar hakkında yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.

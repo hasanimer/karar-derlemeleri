@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2021/2018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718674700)
+
 Dava, miras taksim sözleşmesinin iptali talebine ilişkindir.
 
 …
@@ -34,6 +36,8 @@ Türk Medeni Kanununun 677. maddesinde “terekenin tamamı veya bir kısmı üz
 
 ## Yargıtay 14. HD 2021/1541 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/658670300)
+
 Dava, miras taksim sözleşmesine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
 …
@@ -41,6 +45,8 @@ Dava, miras taksim sözleşmesine dayalı tapu iptal ve tescil isteğine ilişki
 Türk Medeni Kanununun 676/3. maddesi gereğince paylaşma sözleşmesinin geçerliliği yazılı şekilde yapılmasına bağlıdır. Mirasçılar arasında yazılı şekilde yapılmış paylaşma sözleşmesi bulunmadığından davanın bu gerekçeyle reddi gerekirken yazılı gerekçeyle reddine karar verilmesi doğru görülmemiş ise de; hüküm sonucu esas bakımından usul ve kanuna uygun olduğundan Hukuk Usulü Muhakemeleri Kanununun 438/son maddesi gereğince hükmün gerekçesinin değiştirilerek ve düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 8. HD 2021/1498 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642425000)
 
 Dava, iştirak halindeki mülkiyetin müşterek mülkiyete çevrilmesi ve miras taksim sözleşmesine dayalı tapu iptali tescil isteklerine ilişkindir.
 
@@ -51,11 +57,15 @@ Davacı tapuya giderek taşınmazın adına tescilini istemeye zorunlu olmadığ
 
 ## Yargıtay 3. HD 2021/1487 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653552700)
+
 TMK’nın 676 ncı maddesine göre "Yasal mirasçılar, gerek kendi aralarında, gerek atanmış mirasçılarla birlikte mirası aynı kurallara göre paylaşırlar. Aksine düzenleme olmadıkça mirasçılar, paylaşmanın nasıl yapılacağını serbestçe kararlaştırırlar.” hükmüne yer verilmiştir.
 
 Miras taksim sözleşmesi; mirasın mirasçılar arasında nasıl ve ne şekilde paylaşılacağını belirten özel bir sözleşme şeklidir. Bu sözleşme ile paydaşlar mirasın nasıl paylaşılacağını özgür iradeleri ile belirler ve kendilerini bağlarlar. Taksim sözleşmesinin geçerli olabilmesi için bütün mirasçıların mirastan kimin ne kadar alacağını ve nasıl paylaşılacağını özgür iradeleriyle baskı ya da zorlama altında kalmadan belirlemeli ve bunu kabul etmeleri gerekmektedir. Sözleşme açısından tüm mirasçıların olması geçerlilik şartıdır. Tüm mirasçılar katılmadıkça taksim sözleşmesi geçerlik kazanmaz. Başka bir ifade ile tüm mirasçıların paylaşımda anlaşmaması ve sadece bir kısım mirasçıların anlaşması ile paylaşım sözleşmesi yapması mümkün değildir.
 
 ## Yargıtay 1. HD 2021/1127 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/649025700)
 
 Dava, vekâlet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu iptali ve tescil ile tazminat isteklerine ilişkindir.
 
@@ -65,18 +75,26 @@ Dava, vekâlet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu
 
 ## Yargıtay 14. HD 2020/8476 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631680800)
+
 4721 sayılı TMK'nin 618. maddesinde "Ödemeden aciz bir mirasbırakanın mirasını reddeden mirasçılar, onun alacaklılarına karşı, ölümünden önceki beş yıl içinde ondan almış oldukları ve mirasın paylaşılmasında geri vermekle yükümlü olacakları değer ölçüsünde sorumlu olurlar. Olağan eğitim ve öğrenim giderleriyle adet üzere verilen çeyiz, bu sorumluluğun dışındadır. İyiniyetli mirasçılar, ancak geri verme zamanındaki zenginleşmeleri ölçüsünde sorumlu olurlar." düzenlemesine yer verilmiştir.
 
 ## Yargıtay 8. HD 2020/8006 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634647400)
 
 Her ne kadar Mahkemece, dava konusu taşınmazda davacı ... dışında başkaca paydaşlar da bulunduğu gerekçesi ile, taşınmazın zeminindeki davacının pay miktarı esas alınmak suretiyle davacı lehine ecrimisile hükmedilmiş ise de, davacı tarafından dava konusu taşınmaz üzerinde bulunan beş katlı binanın üçüncü katı dava konusu edilmiş olup, gerek dosya arasında bulunan Sarıyer 1.Sulh Hukuk Mahkemesi’nin 2006/333 Esas sayılı dosyasına ilişkin bilirkişi raporunun incelenmesinden gerekse de yargılama sırasında dinlenen tanık beyanlarından, taşınmaz üzerinde birden çok bina bulunduğu, dava konusu beş katlı binanın ise davacının murisi Rahmi Bayraktar’a ait olduğu, Rahmi Bayraktar’ın 25.01.2001 tarihinde öldüğü, mirasçıları arasında yapılan 26.04.2013 tarihli taksim sözleşmesi ile bu yerin davacıya bırakıldığı anlaşıldığından, ilk talep tarihi olan 24.06.2008 tarihinden Rahmi Bayraktar mirasçıları arasında yapılan 26.04.2013 tarihli taksim sözleşmesine kadar üç nolu daireye isabet eden ecrimisilin (tamamının) 1/3’ne, bu tarihten dava tarihine kadar ise üç nolu daire için hesaplanacak ecrimisilin tamamına hükmedilmesi gerekirken, bina üzerinde hak sahibi olmayan, zeminde paydaş olan diğer
 paydaşların hisse miktarları esas alınmak suretiyle hüküm kurulması doğru olmamıştır.
 
 ## Yargıtay 14. HD 2020/5766 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/606364200)
+
 O halde; her ne kadar mahkemece asıl davanın kabulü ile dava konusu taşınmazlar hakkında tapu iptali ve tescil kararı verilmesinde bir isabetsizlik bulunmamakta ise de miras taksim sözleşmesinin tapuya şerh verilmediği gözönüne alındığında, birleşen dosya davalılarının iyiniyetli 3. kişi oldukları ve TMK’nın 1023. maddesi uyarınca dava konusu taşınmazlardaki haciz şerhlerinin terkininin davalıların teminat hakkını ortadan kaldıracağı gözetilerek karar verilmesi gerekirken birleşen dava hakkında yazılı şekilde karar verilmesi doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2020/5403 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609637900)
 
 Dava, miras taksim sözleşmesine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -90,6 +108,8 @@ görülmemiştir.
 
 ## Yargıtay 8. HD 2020/4155 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598274000)
+
 Dava, miras taksim sözleşmesine dayanan tapu iptal ve tescil davasıdır.
 
 …
@@ -100,13 +120,19 @@ Bilindiği üzere, tapulu taşınmazlarda resmi olarak yapılmayan mülkiyet nak
 
 ## Yargıtay 1. HD 2020/4101 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609694000)
+
 Öte yandan, hükmün gerekçesinde geçen "Mesture Eltekin’in rızaen miras taksim sözleşmesi adı altında yapılmış olan taksim sözleşmesinin velayeten çocuk adına annenin yapabilmesinin mümkün olmadığı, çünkü anne ile çocuk arasında menfaat çatışması olduğu için geçersiz olduğu" şeklindeki tespitinin gerekçeden çıkarılmasına, tarafların temyiz itirazının reddiyle usul ve yasaya uygun olan hükmün ONANMASINA, 02.01.2020 tarihinde yürürlüğe giren Avukatlık Ücret Tarifesi gereğince gelen temyiz eden taraflar vekilleri için 2.540.00.'ar TL. duruşma vekâlet ücretinin karşılıklı olarak alınıp birbirlerine verilmesine, aşağıda yazılı 25.20. TL bakiye onama harcının temyiz eden davacıdan, 25.20. TL bakiye onama harcının da temyiz eden davalıdan alınmasına, 15.09.2020 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2020/3527 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/595698200)
+
 Yine terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda mirasçılar arasında yapılan sözleşmelerin geçerliliği yazılı şekle bağlıdır (TMK mad. 677/1). Mirasçılar arasındaki devirler için söz konusu olan bu yazılı şeklin adi yazılı olarak yapılması yeterlidir. Ancak; sözleşmenin yazılı şekilde yapılması yanında sözleşmedeki imzanında payını devir eden mirasçıya ait olması gerekir. Nitekim davalı taraf imza inkarında bulunmuş olup mahkemece imza incelemesi yapılmadığı gibi Kadirli Cumhuriyet Başsavcılığınca yürütülen 2016/ 838 Soruşturma numaralı dosya akibetide sorulmamıştır.
 
 ## Yargıtay 8. HD 2020/3407 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598165700)
 
 6100 sayılı HMK'nin 33. maddesi uyarınca hakim Türk Hukuku'nu re'sen uygular. Bu ilke uyarınca olayları belirlemek taraflara, bu olayların hukuki sonuçlarını tayin etmek hakime düşer. Dava konusu taşınmazların sahibi ve tarafların kök murisi olan Fatma’nın (....kızı) dosyada bulunan veraset belgesinin incelenmesinde; davacı ve davalıların mirasçı olduğu saptanmış olduğundan, dava, mirasçılar arasında açılıp yürüyen adi satışa dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -114,11 +140,15 @@ TMK’nin 677/1. maddesine göre, terekenin tamamı veya bir kısmı üzerinde m
 
 ## Yargıtay 8. HD 2020/3189 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648096800)
+
 TMK’nin 676 ve 677. maddelerine göre; elbirliği mülkiyetine tabi taşınmazlarda elbirliği maliklerinin yazılı olması koşulu ile miras taksim sözleşmesi veya pay devri sözleşmesi yapmaları mümkündür, bu maddeye göre sözleşmenin yazılı yapılması geçerlilik şartıdır.
 
 Dosya kapsamında; taraflar arasında yapılmış yazılı bir sözleşme olmadığı konusunda ihtilaf yoktur. İddiaya dayanak yapılan miras taksim sözleşmesi yazılı olarak yapılmadığına göre, TMK'nin 676. maddesi gereğince sözlü miras taksim sözleşmesi geçerli değildir.
 
 ## Yargıtay 8. HD 2020/2738 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646566800)
 
 Dava, miras taksim sözleşmesine dayanan tapu iptali ve tescil istemine ilişkindir.
 
@@ -128,11 +158,15 @@ Dava konusu 137 ada 2 parselin geldisi olan 10 parselin de içlerinde olduğu ta
 
 ## Yargıtay 16. HD 2020/2557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/590552000)
+
 Çekişmeli taşınmazlar hakkında yapılan 08.05.1973 tarihli miras taksim sözleşmesinin içeriğinde, taksim sonucunda tarafların kendisine düşen taşınmazlar yönüyle “terk ve teslim edildiği”nin yazılması karşısında, herkesin kendisine düşen bölümler üzerinde zilyet ve tasarrufunun bulunduğunun kabulü gerekir. Kadastro tespitinin daha sonra kesinleşmesinin, zilyetlik devam ettiği sürece hukuken bir önemi bulunmamaktadır. Kaldı ki, davalıların murisi ... kendisine düşen taşınmazın bir bölümünü 29.01.1974 tarihli (kadastro tespitinin kesinleşmesinden önce) noter satış vaadiyle sattığı, satın alan kişi tarafından, Mersin 2. Asliye Hukuk Mahkemesi'nin 2005/368 Esas sayılı dava dosyası ile 1/3’er paylı olarak tapu malikleri olan ..., ...
 (eldeki dosya davacısı) ve ...’e karşı dava tapu iptali ve tescil davası açıldığı ve Mahkemece, malikler arasında yapılan 08.05.1973 tarihli miras taksim sözleşmesinin geçerli olduğu, ...’in bu sözleşmeye dayalı olarak zilyetliğine geçen taşınmazın bir bölümünü de noter satış vaadi sözleşmesi ile davacıya sattığı, satın alanın zilyetliği de devraldığı gerekçesiyle davanın kabulü ile ve davacı tarafından satın alınan bölümler üzerinde tüm maliklerin payları iptal edilerek satın alan adına tesciline karar verildiği ve hükmün kesinleştiği, söz konusu bu ilamın miras taksim sözleşmesiyle zilyetliğin devralındığı noktasında kesin hüküm niteliğinde bulunmasa da güçlü delil niteliğinde bulunduğu ve davalı tarafça aksi yönde daha güçlü bir delil ileri sürülmediği anlaşılmaktadır.
 Bu itibarla davacının miras taksim sözleşmesiyle kendisine düşen taşınmaz bölümlerini zilyet ve tasarrufu altında bulundurduğunun, taşınmazları imar görmesi nedeniyle arsa vasfını kazanması karşısında zilyetliğinin devam ettiğinin kabulü gerekeceği ve zilyetlik devam ettiği sürece taksim sözleşmesinin tarafı olan tapu malikleri ve mirasçılarına karşı tapu iptali ve tescil davası yönüyle zamanaşımının işlemeyeceği açıktır. Diğer yandan; davalılara murisleri ...’ten intikal eden taşınmazların bir kısmının halen kendi adlarına kayıtlı olduğu, bir kısmının ise 2009 ve 2013 tarihlerinde kayden dava dışı 3. kişilere satıldığı anlaşıldığına göre, eldeki davanın sebepsiz zenginleşmeye dayalı alacak istemli olarak (taşınmazlardaki satılan paylar hakkında) açılmış olması nedeniyle, satış tarihinden itibaren davanın açıldığı 2014 yılına kadar 10 yıllık zamanaşımı süresinin de geçmediği anlaşılmaktadır.
 
 ## Yargıtay 1. HD 2020/2249 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646559200)
 
 Dava, vasiyetnamenin iptali ve tenkis isteğine ilişkindir.
 
@@ -147,6 +181,8 @@ Somut olayda, davalılar tarafından sunulan 22.12.2002 tarihli ilmuhaberde ve d
 
 ## Yargıtay 20. HD 2020/2129 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594718300)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -157,6 +193,8 @@ Eldeki dava, muris muvazaası hukuksal nedenlerine dayalı, kaynağını 01.04.1
 
 ## Yargıtay 1. HD 2020/1955 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645631900)
+
 Dava, vekâlet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -164,6 +202,8 @@ Dava, vekâlet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu
 Hâl böyle olunca, 2(eski 304) ve 15(eski 1269) sayılı parseller bakımından HMK'nin 125. maddesinin uygulanması,yukarıda belirtilen ilkeler nazara alınarak 38,1 ve 15 nolu parsellerdeki muris Emine’ye ait paylar ile 1218 parselde taksim ile murise verilen ¼ payın taksim sözleşmesinin yapıldığı tarih itibari ile birbirlerine yakın değerlerde olup olmadığı belirlendikten sonra vekil tarafından yapılan taksim sözleşmesinin vekalet görevinin kötüye kullanılması suretiyle gerçekleştirilip gerçekleşmediğinin açıklığa kavuşturulması ve sonucuna göre bir karar verilmesi gerekirken eksik incelemeyle yetinilmek suretiyle yazılı biçimde hüküm tesisi isabetsizdir.
 
 ## Yargıtay 1. HD 2020/850 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/586389500)
 
 Dava, ehliyetsizlik hukuksal nedenine dayalı tapu iptali ve tescil, mümkün olmazsa tenkis isteğine ilişkindir.
 
@@ -173,9 +213,13 @@ Bilindiği ve 4721 sayılı TMK'nın 462. maddesinde düzenlendiği üzere miras
 
 ## Yargıtay 8. HD 2020/52 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578493900)
+
 Miras taksimine dayalı tapu iptali tescil davaları taşınmazın aynına ilişkin olup herhangi bir hak düşürücü süreye tabi olmadığından, Mahkemece, anılan sözleşme ile iddia ve savunma çerçevesinde toplanmış ve toplanacak delillere göre uyuşmazlığın esası hakkında karar verilmesi gerekirken, hak düşürücü süre geçtiğinden bahisle davanın reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2019/11381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648139500)
 
 Katılma alacağı ve terekeden kaynaklanan haklar arasındaki farklılıklar kabaca şöyle sıralanabilir; katılma alacağı bakımından; 1. Katılma alacağı şahsi hak niteliğinde bir nispi alacak hakkıdır, 2.Katılma alacağı kanundan kaynaklanmaktadır, 3. Ölümle sona eren edinilmiş mallara katılma rejiminin tasfiyesi ölen eşin terekesinin paylaşılmasının bir ön koşulu olarak ortaya çıkmaktadır, 4. Katılma alacağı terekenin öncelikle ve peşin ödenmesi gereken borçları arasında yer almaktadır, 5. Katılma alacağı, miras bırakanın borcudur, 6. Miras bırakanın ölümü ile borçlu olma sıfatı mirasçılarına geçer ve mirasçılar TMK'nin 641. maddesine göre borçlardan müteselsilen sorumludurlar, 7. Davacı sağ eş, hem katılma alacağı nedeniyle tereke alacaklısı ve hem de tereke borcundan dolayı mirasçı sıfatıyla tereke borçlusudur. Bu nedenle alacaklı ve borçlu sıfatı davacı sağ eşte birleşmiş durumdadır, 8. Katılma alacağı alacaklısı miras payı oranında tereke borçlarından sorumludur, 9. Sağ eş katılma alacağını aldıktan sonra borca batık mirası (terekeyi) reddetme hakkı vardır, 10.
 Edinilmiş malların sürüm değerleri tasfiye anındaki yani karar tarihine en yakın tarihteki değerleri hesaplamaya esas alınır (TMK mad.235/1), bu sebeple davanın sürecine göre ölüm tarihi ile karar tarihi arasında uzun süre geçmiş olabilir (3-5 yıl, hatta daha fazla olabilir), 11. Sağ eşin aldığı katılma alacağı, ölenin evlilik süresince edindiği mallara katkısının bir karşılığıdır, 12-Mal rejiminin tasfiyesinde yetkili ve görevli mahkeme Aile Mahkemesidir, 13. Katılma alacağı oranı kanun gereği ½ (yarı) olup, sabit bir oran olarak belirlenmiştir (TMK mad. 236/1), 14. Edinilmiş mallara katılma rejiminin tasfiyesine konu mallar kural olarak edinilmiş mallardır. Miras (tereke) hakları bakımından ise; 1. Terekeden doğan hak şahsi hak niteliğinde bir nispi alacak hakkı olmayıp, miras hukukundan kaynaklanan bir ayni hak, yani bir ayni paylaşımdır. 2. Mirasçılar tereke borçlarından müteselsilen sorumludur. (TMK mad. 641/1), 3. Terekenin tasfiyesine konu mallar murisin hem kişisel malları ve hem de edinilmiş mallarıdır. 4.Terekenin net miktarının (net terekenin) bulunması için öncelikle tasfiyede sağ kalan eşin katılma alacağının çıkarılması gerekmektedir.
@@ -187,11 +231,15 @@ ret, mirastan çıkartma, mirastan yoksunluk gibi) yasal mal rejimi tasfiyesinde
 
 ## Yargıtay 8. HD 2019/10864 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570414500)
+
 …
 
 taksim sözleşmesinde, mirasçıların paylarına düşenler ile karşılıklı olarak vazgeçtikleri hususların açık ve kesin şekilde belirtilmediği gibi hangi taşınmazın kime özgülendiği de ifade edilmemiştir. Bu şekilde, dava konusu taşınmazın sözleşme kapsamında davacılara bırakıldığı hususu tereddüte mahal bırakılmayacak şekilde (sözleme içeriğinden) anlaşılamadığına göre usulü dairesinde yapılmış bir miras taksim sözleşmesinden bahsedilemez.
 
 ## Yargıtay 8. HD 2019/9863 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558017100)
 
 Dava, miras taksim sözleşmesi ve miras payının devri sözleşmelerine dayanan tapu iptal ve tescil davasıdır.
 
@@ -200,6 +248,8 @@ Dava, miras taksim sözleşmesi ve miras payının devri sözleşmelerine dayana
 TMK'nın 676. maddesi hükmüne göre; tapulu taşınmazlara ilişkin paylaşma sözleşmesinin geçerliliği tüm mirasçıların katılımı ile paylaşımın yazılı şekilde yapılmasına bağlıdır. Sözleşmenin yazılı olmasına ilişkin şart bir geçerlilik şartıdır ve dosya arasında bulunan tarihsiz senedin tarafların ortak dip miras bırakanlarından kalan taşınmazların paylaşımına ilişkin olduğu ve tüm mirasçıların katılımı ile düzenlendiği açıktır. Ancak, sözleşmede dip muris ... mirasçılarından ... ... ve ... ...'ün parmak izi, ... ...'ın ise mühür kullandığı, muhtar ve ihtiyar heyetinin onayının ise olmadığı görülmektedir. Bu durumda, bu tür sözleşmelerin, sözleşme niteliğini kazanması için HUMK'un 297. maddesine göre, şahitlerin yanında muhtar ve ihtiyar heyeti tarafından tasdiki gerektiğinden ve sözleşmedeki imzalar bir kısım davalılar tarafından itiraza uğradığından, dosyaya sunulan tarihsiz taksim sözleşmesinin usulüne uygun düzenlenmiş taksim sözleşmesi olmadığı açıktır.
 
 ## Yargıtay 8. HD 2019/9848 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/557985500)
 
 İstanbul Bölge Adliye Mahkemesi 10.
 Hukuk Dairesince, dosya kapsamına göre, tarafların, muris ...'in mirasçıları olduğu, aralarında 04.02.2013 tarihli kısmi miras taksim sözleşmesi yapıldığı, davanın TMK'nin 236/1. maddesi uyarınca mirasçının sağ kalan eşe karşı açtığı bir dava olduğu, TMK'nin 236/1.maddesi gereğince ölen eşin mirasçılarının sağ kalan eşe mal rejimi tasfiyesi davası açabilecekleri, kısmi miras taksim sözleşmesi gereğince murisin tüm mal varlığının taksim edilmediğinin anlaşıldığı, belirtilen sözleşmenin muristen gelen tüm mal varlığına ilişkin miras payı açısından tarafların birbirini ibra ettikleri anlamına gelemeyeceği, davacının mal rejimi tasfiyesi kapsamındaki haklarından feragat etmediğinin kabulü gerektiği gerekçesiyle, davacı-birleşen dosyada davalı vekilinin istinaf talebinin kabulüne, davaya konu mal varlığının değerleri belirlenerek ve tarafların bildirdikleri deliller değerlendirilerek davacının talep ettiği katkı payı, değer artış payı, artık değere katılma payı alacağı hakkında karar verilmesi için kararın bu yönden kaldırılmasına, belirtilen hususlara riayet edilerek yeniden yargılama yapılması ve karar verilmesi için dosyanın mahkemesine gönderilmesine karar verilmiştir.

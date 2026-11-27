@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2012/994 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78939400)
+
 Dava, muris muvazaası hukuksal nedenine dayalı iptal-tescil isteğine ilişkindir.
 
 …
@@ -32,9 +34,13 @@ Ne varki, eldeki dava, E.'nin 51 sayılı parseldeki 147/192 payına hasren aç�
 
 ## Yargıtay 17. HD 2011/11588 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/801092100)
+
 Bu durumda taşınmazın aynına yönelik muvazaa nedeniyle satışın iptali niteliğindeki istemine göre uyuşmazlığın Kadastro Mahkemesinde görülmesi, muris muvazaası nedeniyle ölünceye kadar bakma akdine dayalı olarak oluşturulan tapu kayıtlarının iptali isteği hakkında ise mahkemece daha sonra tefrik kararı verilerek genel mahkemeye gönderilmesine karar verilebileceği kabul edilebilir nitelikte görülmüştür.
 
 ## Yargıtay 1. HD 2011/8356 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79082400)
 
 Dava, muris muvazaası hukuksal nedenine dayalı miras payı oranında iptal tescil isteğine ilişkindir.
 
@@ -46,6 +52,8 @@ Hal böyle olunca; dava konusu 289 ada, 1 parsel yönünden 01.04.1974 tarih, ½
 
 ## Yargıtay 1. HD 2010/10216 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78564400)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil olmadığı takdirde, tenkis isteğine ilişkindir.
 
 …
@@ -53,6 +61,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil olmadığ�
 158 parselin miras bırakan tarafından davalılara temlikinden sonra 20.09.1973 tarihli kadastro tespiti ile adlarına tescil edilmiş ve miras bırakan 07.02.1981'de ölmüş olup, muris muvazaası nedeniyle dava açma hakkı TMK.'nun 599.maddesi hükmü gereğince murisin ölümü ile doğar. Somut olayda muris kadastro tespitinden sonra öldüğüne göre kadastro öncesi değil kadastro sonrası neden sözkonusudur. O halde olayda 3402 sayılı Yasanın 12/3 maddesinin uygulama yeri yoktur. Ancak davacı yan hükmü temyiz etmediğinden bu husus bozma nedeni yapılmamıştır.
 
 ## Yargıtay 1. HD 2010/7827 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78891600)
 
 Dava, tapu iptal tescil, olmadığı takdirde tenkis, birleşen dava ise faiz isteğine ilişkindir.
 
@@ -64,6 +74,8 @@ Dava, tapu iptal tescil, olmadığı takdirde tenkis, birleşen dava ise faiz is
 
 ## Yargıtay 1. HD 2010/6858 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78778700)
+
 Dava ve birleştirilen dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil isteklerine ilişkindir.
 
 …
@@ -74,9 +86,13 @@ Ne var ki, imar parsellerinin geldiği kadastral parsellerin kadastro tespitinde
 
 ## Yargıtay 1. HD 2010/1073 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78613200)
+
 Eldeki davada, davacı bir kısım tapulu taşınmazlar yönünden muris muvazaası nedeniyle iptal tescil, bir kısım taşınmazlar bakımından da tapusuz olmaları sebebiyle zilyetliklerinin korunması isteğinde bulunmuşlardır. Muris muvazaası istekli davalar hukuki yapısı itibarı ile açıklayıcı nitelikte karar verilmesini gerektirdiğinden, zilyetliğin korunması isteğinin de birliğinde mülkiyetinin de tespitini zorunlu kıldığından Kadastro Mahkemelerinin görevi kapsamında olacağı şüphesizdir.
 
 ## Yargıtay 1. HD 2010/695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690261900)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
@@ -86,6 +102,8 @@ Muris muvazaasına dayalı olarak açılan davalar, murisin ölümünden sonra m
 Öte yandan dava konusu taşınmazlar senetsizden tespit görmüştür.Bu durumda tapusuz taşınmazlar üzerindeki zilyetlikten ibaret olan hakkın devrine ilişkin işlemde 1.4.1974 tarih 1/2 sayılı İnançları Birleştirme Kararının uygulama yeri bulunmamaktadır.Bu tür taşınmazlar yönünden açılan muris muvazaasına dayalı davaların dinlenme olanağı yoktur.Reddedilen ½ paylar bakımından verilen karar, bu gerekçe ile doğrudur.Kabul kapsamına alınan satış yolu ile kadastro tespitinden sonra davalıya temlik edilen ½ paylar yönünden de miras bırakan tarafından yapılan temlikin mirastan mal kaçırma amaçlı ve muvazaalı olduğunun saptanarak yazılı olduğu üzere hüküm kurulmuş olmasında bir isabetsizlik bulunmadığına göre tarafların bu yönlere değinen temyiz itirazları yerinde değildir.Reddiyle, hükmün açıklanan nedenlerle ONANMASINA, aşağıda yazılı 75.55.-TL. bakiye onama harcının temyiz eden davalılardan alınmasına, 28.1.2010 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2009/3084 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78227200)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil,olmadığı takdirde tenkis isteğine ilişkindir.
 
@@ -98,6 +116,8 @@ Bunlar yapılmadığı takdirde muris muvazaasına değil, tapulama tesbitinin y
 
 ## Yargıtay 1. HD 2008/1926 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78121500)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil isteğine ilişkindir.
 
 …
@@ -107,6 +127,8 @@ Bilindiği üzere, miras bırakanın ölümü ile terekenin intikal edeceği ve 
 Somut olayda, taşınmazların kadastro tespitinin 1974 yılında yapıldığı, miras bırakanın ise tespitten sonra 4.2.1993 tarihinde öldüğü anlaşıldığına göre, 3402 Sayılı Yasanın 12/3. maddesinde öngörülen hak düşürücü sürenin uygulanamayacağı açıktır.
 
 ## Yargıtay 1. HD 2008/250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77939200)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil ya da tenkis isteğine ilişkindir.
 
@@ -118,6 +140,8 @@ Dava konusu 1452 parsel sayılı taşınmaza gelince; kadastro tespitine dayanak
 
 ## Yargıtay 1. HD 2007/6844 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78362200)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali, tescil olmadığı takdirde tenkis isteğine ilişkindir.
 
 …
@@ -127,6 +151,8 @@ Dosya içeriği ve toplanan delillerden miras bırakanın ... sayılı parselin 
 Ne varki, ...sayılı parselin kadastro sırasında harici satış ve zilliyetliğe dayalı biçimde tescil edildiği, tapuda gerçekleşen bir temlikin bulunmadığı, bu durumda ...parsel bakımından 1.4.1974 gün, 1/2 sayılı İnançları Birleştirme Kararının uygulanamayacağı, koşulları oluştuğu takdirde tenkis hükümlerinin söz konusu olabileceği gözetilmeksizin anılan parsel hakkında da iptal tescile karar verilmesi isabetsizdir.Davalıların değinilen hususa yönelik temyiz itirazı yerindedir.Kabulüyle, hükmün açıklanan nedenden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 13.6.2007 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2006/10920 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77892300)
 
 Ancak;muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil davasında; 01.04.1974 gün,½ sayılı Yargıtay İnançları Birleştirme kararında da vurgulandığı gibi,davacı miras bırakanın ardılı olarak değil miras hakkının çiğnenmesinden ötürü zarara uğrayan kişi olarak ve kendi miras hakkına dayanarak dava açmaktadır.Davacının dava hakkı miras bırakanın ölümü ile doğmaktadır. Miras bırakanın kadastrodan önce ölmesi halinde kadastro öncesi nedene dayanılmış olacağından tespitin kesinleşme tarihinden itibaren de 10 yıl geçtiği taktirde 3402 sayılı Kadastro Yasasının 12/3. maddesinin uygulama olanağı bulacağı da kuşkusuzdur.
 

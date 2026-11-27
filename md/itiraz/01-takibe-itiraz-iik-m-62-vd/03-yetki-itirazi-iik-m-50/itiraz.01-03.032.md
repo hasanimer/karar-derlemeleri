@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 3. HD 2023/1343 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886508200)
+
 İcra dairesinin yetkisine itiraz edildiği hallerde, bu itiraz usulünce incelenerek sonuç- landırılmadığı sürece, açıklanan şekilde geçerli bir takibin bulunmayacağı açıktır. Yetki itirazı esas hakkındaki itirazla birlikte yapılır. (Hukuk Genel Kurulu'nun 2013/19-1520 Esas- 2014/524 Karar nolu ilamı) 7155 sayılı Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanunda ; borçlunun kendisine gönderilen ödeme emri üzerine nelere itiraz edebileceği sayılmış olup yetkiye, borcun tamamına veya bir kısmına ya da alacaklının takibat icrası hakkına itiraz yolu açıktır. (m.11/7 ) İcra dairesinin yetkili olup olmadığına ilişkin olarak; İİK.'nun 50. maddesinde; "Para ve teminat borcu için takip hususunda HMK'nın yetkiye dair hükümlerinin kıyas yoluyla tatbik olunur" denilmektedir. 6100 sayılı HMK’nun; "Genel Yetkili Mahkeme" başlıklı 6. maddesinde;
 "Genel yetkili mahkeme davalı gerçek veya tüzel kişinin davanın açıldığı tarihteki yerleşim yeri mahkemesidir." 10. maddesinde ise "Sözleşmeden doğan davalar, sözleşmenin ifa edileceği yer mahkemesinde de açılabilir." TBK'nun 89.maddesinde "Borcun ifa yeri, tarafların açık veya örtülü iradelerine göre belirlenir. Aksine bir anlaşma yoksa, aşağıdaki hükümler uygulanır; 1.Para borçları, alacaklının ödeme zamanındaki yerleşim yerinde, 2.Parça borçları, sözleşmenin kurulduğu sırada borç konusunun bulunduğu yerde 3.Bunların dışındaki bütün borçlar, doğumları sırasında borçlunun yerleşim yerinde ifa edilir. Alacaklının yerleşim yerinde ifası gereken bir borcun doğumundan sonra alacaklının yerleşim yerini değiştirmesi sebebiyle ifa önemli ölçüde güçleşmişse borç, alacaklının önceki yerleşim yerinde ifa edilebilir." hükmünü içermektedir.
 Taraflar arasında imzalanan 27/12/2008 tarihli Kurumsal Abonelik Sözleşmesi 'nin "uyuşmazlıkların çözüm yeri" başlıklı 7.maddesinde "iş bu abonelik sözleşmesinin uygulanmasından doğan uyuşmazlıkların çözümünde,bireysel aboneler için abonenin ikametgahının bulunduğu yer mahkemeleri ve icra daireleri, kurumsal abonelikler için ise İstanbul Mahkemeleri ve icra daireleri yetkili olacaktır "denilmiştir.
@@ -30,6 +32,8 @@ Sözleşme tarihi itibariyle yürürlükte olan 1086 Sayılı HUMK'nın 22. madd
 Somut olayda; alacaklı vekili MTS takip talebi ve ödeme emrinde haciz ve müteakip işlemler için yetkili icra dairesini "Ankara Adliyesi" olarak seçmiş ise de, davacının ve davalının "Maltepe/İstanbul" adresinde kayıtlı olduğu, HMK 6 ve BK 89 md gereğince -bu adrese göre- İstanbul Anadolu Adliyesi Mahkemeleri ve İcra Daireleri yetkili olacağı, ayrıca taraflar arasında imzalanan sözleşmedeki yetki düzenlemesi ile İstanbul (Çağlayan) Mahkemeleri ve İcra Daireleri yetkili kılın- dığı, sonuç itibariyle takip talebinde gösterilen Ankara İcra Müdürlüklerinin takipte yetkili olmadığı, sonuç itibariyle yetkili icra dairesinden başlatılmış hukuken geçerli bir takibin bulunmadığı anlaşıl- maktadır.Açıklanan nedenlerle, ilk derece mahkemesince verilen kararda vakıa ve hukuki değer- lendirme noktasında, usul ve esasa aykırılık tespit edilmediğinden, davacının istinaf başvurusunun HMK 353/1-b-1 md gereğince reddine karar vermek gerekmiştir.
 
 ## Sakarya BAM 7. HD 2023/1296 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/928463900)
 
 Davalı vekilinin sunmuş olduğu cevap dilekçesinde özetle; huzurdaki dava yetkili ve görevli mahkemede açılmadığını, taraflar arasında mevcut uyuşmazlıkta yetkili mahkeme Gaziantep Mahkemeleri olduğunu, davalının Gaziantep'te ikamet ettiğini, açılmış olan davada ayrıca davalı esnaf olmasına rağmen davacı ... tarafından hak ve hukuka aykırı olarak huzurdaki haksız davayı Asliye Ticaret Mahkemesinde açtığını, davalı esnaf olduğu için davacı tarafın da herhangi bir şirket vasfı olmadığı için dava Asliye Hukuk Mahkemesinde açılması gerektiğini, huzurdaki davanın Asliye Ticaret Mahkemesinde açılmasının hak ve hukuk kurallarına açıkça aykırılık teşkil ettiğini, işbu sebeple görev ve yetkiye açıkça itiraz ettiklerini, davalıya, davacı taraf arasında icra takibine konu olan bir borç ilişkisi bulunmadığını, yine aynı şekilde borcun doğumuna konu olabilecek ticari ilişki de mevcut olmadığını, dava dilekçesi ekinde yer alan deliller bir ticari ilişkinin varlığını ispat edebilecek veya itibar edilebilecek nitelikte deliller olmadığını, borç doğuran ticari işlemin, ispata yarayabilen irsaliyeli fatura, kapalı fatura, ticari defter, envanter, ticari sözleşme vb. herhangi bir delil dosyada mevcut
 olmadığını, hukuki olarak bir borcun ifa edilmesini isteyen veya borç doğuran işlemin varlığını iddia eden taraf, iddiasını usule uygun dellillerle ispat etmekle mükellef olduğunu, dava konusu somut uyuşmazlıkta ispat yükü davacı tarafa ait olduğunu, davacı taraf da, işbu iddiasını ispat edemediğini, ayrıca itirazın iptali davasına konu takip dayanağı belge açısından konuya bakıldığında söz konusu belgenin herhangi bir fatura niteliği de bulunmadığını, söz konusu belgenin itirazın iptali davasına konu takip dayanağı olabilmesi için TTK ve VUK kapsamında bazı zorunlu unsurları taşıması gerektiğini, söz konusu belge davaya ve icra takibine konu olabilecek türden bir belge olmadığını, takibe konu olan belgenin TTK ve VUK kapsamında en azından fatura özelliklerini ihtiva etmesi gerektiğini, ancak söz konusu belge incelendiğinde fatura özelliklerini taşımadığı görüleceğini, VUK.m.230 hükmüne göre; “Faturada en az aşağıdaki bilgiler bulunur:
@@ -40,6 +44,8 @@ olmadığını, hukuki olarak bir borcun ifa edilmesini isteyen veya borç doğu
 Yetki ise, bir davaya hangi yerdeki görevli hukuk mahkemesi tarafından bakılabileceğini belirler. Davada görev ve yetki itirazı birleştiği takdirde, önce görev meselesinin çözülmesi gerekir. Çünkü yetkisizliğe ilişkin ilk itirazı halledecek mahkeme, esas davayı görmeye görevli olan mahkemedir.
 
 ## İstanbul BAM 43. HD 2023/1279 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979652100)
 
 Davalı tarafça istinaf kanun yoluna başvurulmadığı ve istinafa cevap dilekçesi sunulmadığı anlaşılmıştır.
 
@@ -58,6 +64,8 @@ HÜKÜM: Yukarıda ayrıntısı ile açıklanan nedenlerle;Davacı vekilinin ist
 
 ## Ankara BAM 35. HD 2023/1234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/949870500)
+
 Davacı vekili dava dilekçesinde; 31/07/2019 tarihinde karayolu çalışması yapan ... firmasına ait hafriyat kamyonu damperinin Enerjisa'ya ait 36 KV enerji nakil hattına teması ile tel kopmasının meydana geldiğini, kopan iletkenin Km.505+613'te yüksek hızlı tren hattı üzerine düşmesi sonucu tren tehirlerine, Hat-I ve Hat-2'de portör teli kopmasına ve raylar ile bağlantı parçalarının hasarlanmasına sebebiyet verdiğini, söz konusu olay nedeniyle müvekkili teşekkülün KDV hariç işçilik ve malzeme masrafı olarak 29.607,14 TL ve 21.809,69 TL olmak üzere toplam 51.416,83 TI zarara uğradığını, söz konusu zararın tahsili için Ankara 23. İcra Müdürlüğünün 2019/16372 E.
 
 …
@@ -72,6 +80,8 @@ Dava, iş makinesi ile çalışma yapılan sahada kopan teller nedeniyle, davac�
 
 ## İstanbul BAM 45. HD 2023/1102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919443000)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece; "...Davacı tarafın, alacaklı olduğu İstanbul ... İcra Müdürlüğü’nün ...
 
 …
@@ -84,6 +94,8 @@ Dava, iş makinesi ile çalışma yapılan sahada kopan teller nedeniyle, davac�
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin istinaf başvurusunun KABULÜ ile İstanbul 15. Asliye Ticaret Mahkemesi'nin 2021/845 E. 2023/53 K. Sayılı 17/01/2023 tarihli kararının 6100 sayılı HMK'nın 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 43. HD 2023/1076 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045184100)
 
 Dava; ticari satım sözleşmesinden kaynaklanan cari hesap alacağının tahsili istemiyle başlatılan icra takibine vaki itirazın iptali davasıdır.
 
@@ -122,9 +134,13 @@ Tarafların istinaf başvuru taleplerinin ESASTAN REDDİNE …
 
 ## İstanbul BAM 3. HD 2023/990 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881450400)
+
 Maddesine dayalı olarak açtığı rücu talebine ilişkindir.Davacı rücuan tazminat talepli eldeki davayı açmış, mahkemece görev yönünden karar verilmiş, karara karşı davacı tarafça yetkili mahkemenin Bakırköy Asliye Hukuk Mahkemeleri olmadığından bahisle karar istinaf edilmiştir. Bir davada hem görev hem de yetki itirazı bulunması durumunda öncelikle görev uyuşmazlığının çözümlenmesi gerekir. Mahkemece görev itirazı haklı bulunursa, yetki itirazı incelenmeden ve yetki konusunda bir karar verilmeden yalnızca görevsizlik kararı vermekle yetinilir (YARGITAY 13. HD 2006/6709 - 2006/11246). Şu halde mahkemece görevsizlik kararı vermekle yetinilmesi usul ve yasaya uygundur.
 
 ## Trabzon BAM 4. HD 2023/989 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153360900)
 
 Davalı vekili duruşmada alınan beyanında; hak düşürücü süre geçtikten sonra dava açıldığını, dava konusu kredinin kullanıldığı bankanın müdürü olan kişinin bilirkişi olarak dosyaya rapor sunduğunu, raporu kabul etmediklerini, davanın reddini talep ettiği görülmüştür.
 
@@ -170,6 +186,8 @@ Davalı yan icra takibinde borca itirazının yanı sıra Tarsus İcra Müdürl�
 
 ## İstanbul BAM 44. HD 2023/941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/935864800)
+
 Sanayi ve Ticaret A.Ş.’ den, tarafına ödenmesini istemesi gerekirken, asıl borçludan hiç talep edilmeden doğruca müvekkilinden talep edilmesinin kötü niyetli olunduğunun göstergesi olduğunu, davalı ... A.Ş. de doğrudan kontrol sahibi olduğunu, şirketin borçlarını ödeyememesinde kusuru varsa araştırılıp ona göre kusuru oranında indirim yapılması gerektiğini, -Aynı yargı çevresindeki iki ayrı mahkemede görülmekte olan davalarının birleştirilmesi taleplerinin değerlendirilmediğini, kararın kaldırılmasına karar verilmesini talep etmiştir. İnceleme, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 355. maddesi hükmü uyarınca istinaf dilekçelerinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır.
 Somut olayda davacının talebinin ticari nitelikteki finansal kiralama sözleşmesine dayalı alacağa ilişkin itirazın iptali istemine ilişkin olduğu, 6102 sayılı TTK'nın 4(1).f madde ve bendince tarafların tacir olup olmadığına bakılmaksızın bankalara, diğer kredi kuruluşlarına, finansal kurumlara ve ödünç para vermeye ilişkin düzenlemelerde öngörülen hususlardan doğan hukuk davalarının mutlak ticari dava niteliğinde bulunduğu, davalının kefili olduğu ve davacı ile asıl borçlu arasında, düzenlenen sözleşme tüketici sözleşmesi olmayıp ticari kredi sözleşmesi mahiyetinde olduğundan uyuşmazlıkta Ticaret mahkemesi görevlidir. Davalı vekilinin göreve ilişkin istinaf sebebi yerinde değildir. Davalının sözleşmede yer alan adresinin ... Mah. ... Cad. No:.. İç Kapı No:.. Bakırköy/ İstanbul adresi olduğu, bu adres değişikliğinin bildirildiğine dair dosyada belge bulunmadığı, sözleşme adresi dikkate alınarak açılan davada yetki itirazının yerinde olmadığı anlaşılmıştır. Ayrıca İcra takibinin ilk olarak İstanbul ...
 
@@ -182,9 +200,13 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Usûl ve yasaya uygun Ba
 
 ## İstanbul BAM 15. HD 2023/842 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915897000)
+
 Davacı tarafça yetkili yerlerden birinde dava açılmadığı anlaşıldığından, yetkili mahkemeyi belirleme konusundaki seçim hakkının davalıya geçtiğinin kabulü gerekir. Davalı taraf süresinde yetki itirazında bulunmuş ve davalı şirketin ikametgahı olan Gebze Asliye Ticaret Mahkemesinin yetkili olduğunu bildirmiştir. Bu durumda, HMK'nın 6. Maddesi gereğince davalı şirketin ikametgahı olan Gebze mahkemeleri yetkili olduğundan mahkemece görevsizlik kararı verilerek dosyanın Gebze Asliye Ticaret Mahkemesi'ne gönderilmesine karar verilmesi yerinde olmuştur.
 
 ## Sakarya BAM 7. HD 2023/815 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905490900)
 
 Davalı vekilinin sunmuş olduğu cevap dilekçesinde özetle; davacı iddialarının haksız ve mesnetsiz olduğunu, davalı aracını sigorta şirketinde sigorta yaptırırken araç ve ruhsatının sigorta şirketi tarafından kontrol edildiğini, bunun aksinin iddia edilemeyeceğini, davacının davalının aracını sigorta ettiğini ve primlerini tahsil ettiğini, risk gerçekleştiğinde yani sigortaya ihtiyaç duyulduğu anda bu kez bizatihi kendi denetim ve kontrolünde olan sigortalama işleminde eksiklik bulunduğu veya sigorta işleminin hatalı yapıldığı iddiasını ileri sürdüğünü, bu iddianın bütünüyle geçersiz olduğunu, esasen davacı sigorta şirketinin iş ve uzmanlık alanı sigortalama olduğundan sigorta yaparken eksik bir husus var ise davalının uyarması gerekenin bizatihi sigorta şirketi olduğunu, davalıya sigortalama sürecinde ve sonrasında yazılı veya sözlü hiçbir ihtar, ihbar yapılmadığını beyanla davanın reddine, karar verilmesini talep etmiştir.
 
@@ -202,6 +224,8 @@ Bu belirlemelere göre, taraflar arasındaki uyuşmazlığın sigorta sözleşme
 6098 Sayılı Borçlar Kanunun 89. maddesinde para borçları için ifa yeri alacaklının ödeme zamanındaki yerleşim yeri olarak belinlenmiştir..." Yargıtay 11. HD., 24/09/2013 tarih, 2013/11829 E., 2013/16404).
 
 ## Bursa BAM 5. HD 2023/678 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/931451200)
 
 İlk derece mahkemesince yapılan yargılama sonucunda, davalının icra dairesinin yetkisine itirazının yerinde olmadığı, davacının davalıya taşıma hizmeti verdiği, kendi ticari defterlerinde hem alıcı hem de gönderen davalı firmadan dava konusu taşımadan dolayı alacaklı göründüğü, navlun bedelinin ödendiğinin ispatlanamadığı gerekçesiyle davanın kabulüne itirazın iptali ile takibin devamına ve icra inkar tazminatına karar verilmiştir.
 

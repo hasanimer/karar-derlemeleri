@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/618 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186890900)
+
 Davacılar vekili; taraflar arasında yapılan 13.05.2015 tarihli "münferit hisse satış sözleşmesi"nin cezai hüküm başlıklı 8.1 maddesinde taraflardan birinin sözleşme kapsamındaki yükümlülüğünü yerine getirmemesi hâlinde diğer tarafa cezai şart ödeyeceğinin kararlaştırıldığını, yine aynı tarihli "hisse satış sözleşmesi"nin 9.2 maddesinde de cezai şart hükmüne yer verildiğini, davalı tarafın sözleşmeye aykırı davranarak hisse satış bedelini ödemediğini, hisse devrine konu ... ... Enerji Üretim Pazarlama A.Ş'yi (... A.Ş.) geliştirmek için yapılandırma yapmadığını, projenin geliştirilmesi için şirkete kredi niteliğinde borç verilmediğini, genel kurulu toplamadığını, sözleşmedeki yükümlülükleri yerine getirmediğini, bu nedenle kararlaştırılan cezai şartı davalı tarafın ödemekle yükümlü olduğunu, müvekkillerinin davalı borçludan olan cezai şart alacağının tahsili için İstanbul 1.
 
 …
@@ -35,6 +37,8 @@ Direnme kararının yukarıda belirtilen değişik gerekçe ve nedenlerden dolay
 
 ## Yargıtay HGK 2021/1672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744312600)
+
 İtiraz sebepleri daha çok maddî hukuka dayanır. Yani, itiraz daha çok takip konusu alacağa ilişkindir. Borçlu, maddî hukuk (meselâ 4721 sayılı Türk Medeni Kanunu, 6098 sayılı Türk Borçlar Kanunu ve 6102 sayılı Türk Ticaret Kanunu) bakımından, takip konusu alacağı ödemek zorunda olmadığını, ancak itiraz yolu ile ileri sürebilir. Burada borçlunun itirazı alacağa ilişkindir. Takip hukukuna dayanan itiraz sebeplerini ise, alacaklının takip yapma yetkisi (takibat icrası hakkı İİK m. 60/3, c.3) bulunmadığına ilişkin itirazlar olarak özetlemek mümkündür. Fakat, alacaklının takip yapma yetkisi bulunmadığına ilişkin bütün sebepler, itiraz sebebi değildir. Borçlunun ileri sürdüğü sebep, niteliği bakımından icra müdürünün kendiliğinden (re'sen) gözetmesi gereken bir sebep (şikâyet sebebi) değilse, itiraz yolu ile ileri sürülür. İcra müdürünün kendiliğinden gözetmesi gerekmeyen ve bu nedenle takip hukukuna dayanan birer itiraz sebebi teşkil eden hâllere; yetki itirazı (İİK m. 50/2), hakkında borç ödemeden aciz belgesi verilmiş olan müflis borçlunun yeni mal iktisap etmediği yolundaki itirazı (İİK m. 251/2) örnek verilebilir (Kuru, Baki: İcra ve İflas Hukuku, Ankara 2013, s. 222-223).
 
 …
@@ -42,6 +46,8 @@ Direnme kararının yukarıda belirtilen değişik gerekçe ve nedenlerden dolay
 Alacaklı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2021/622 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686723100)
 
 Davalı vekili cevap dilekçesinde; davanın yetkisiz mahkemede açıldığını, yetkili mahkemenin müvekkilinin ikametgâhının bulunduğu Bakırköy Ticaret Mahkemeleri olduğunu, ayrıca takibin de yetkisiz icra müdürlüğünde yapıldığını, bu nedenle öncelikle yetki itirazında bulunduklarını, davanın esası yönünden ise davalının davacıya talep edilen miktarda borcunun olmadığını, talep edilen faiz miktarının ve oranının fahiş olduğunu ve takip tarihinden önce temerrüt gerçekleşmediği için temerrüt faizi de talep edilemeyeceğini savunarak davanın reddi ile davacının alacağın %40’ı oranında kötü niyet tazminatına ödemeye mahkûm edilmesine karar verilmesini istemiştir.
 
@@ -63,6 +69,8 @@ Mahkemece yukarıda yazılı gerekçelerle, ticari ilişkinin ispat edilmediğin
 
 ## Yargıtay HGK 2020/1001 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638312000)
+
 Davacı vekili 12.11.2013 harç tarihli dava dilekçesinde; Kars 2. İcra Dairesinin 2012/1146 E. sayılı dosyasında yapılan icra takibinde davalının 04.11.2012 tarihli itiraz dilekçesi ile borca ve ferilerine itiraz etmesi üzerine takibin durduğunu, yapılan itirazda herhangi bir neden belirtilmediği gibi itirazın da haklı bir yanı bulunmadığını ileri sürerek takibe vaki itirazın iptaline, takibin devamına, davalının %40 icra inkâr tazminatına mahkum edilmesine karar verilmesini istemiştir.
 
 …
@@ -81,6 +89,8 @@ Yetkisiz icra dairesine yapılan takip talebi ile de zamanaşımı kesilir. Yetk
 
 ## Yargıtay HGK 2020/793 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638299000)
+
 Davacı vekili 27.10.2014 tarihli dava dilekçesinde; taraflar arasında iplik satışına ilişkin sözlü anlaşma yapıldığını, müvekkili şirketin iplik bedeline karşılık lehtarı olduğu 10.000TL bedelli çeki davalıya teslim ettiğini ve çekin tahsil edildiğini ancak davalının sözleşme konusu iplikleri teslim etmediğini, müvekkili şirketin ihtiyacı olan ipliği başka firmalardan temin etmek durumunda kaldığını, müvekkilinin davalıya gönderdiği 11.04.2014 tarihli ihtarname ile sözleşmenin feshedildiğini bildirerek ödenen bedelin iadesini istediğini ancak davalının ödeme yapmadığını, alacağın tahsili için icra takibi başlattıklarını ve davalının takibe haksız olarak itiraz ettiğini ileri sürerek itirazın iptali ile icra takibinin devamına, %20 oranında icra inkâr tazminatının davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -93,6 +103,8 @@ Yukarıda ayrıntılı olarak açıklandığı üzere, itirazın iptali davasın
 
 ## Yargıtay HGK 2020/282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602193300)
+
 Şikâyet, icra mahkemesince incelenir ve karara bağlanır. İcra mahkemesinin şikâyeti inceleyebilmesi için kendisine talepte bulunulması gerekir. Ancak şikâyetin kamu düzenine aykırı olması hâlinde, başka bir sebeple kendisine dosya ulaşan icra mahkemesi, icra memurunun işlemindeki kamu düzenine aykırılığı kendiliğinden nazara alabilir ve işlemi iptal edebilir.
 
 Şikâyet ile itiraz arasında önemli farklar vardır. Şikâyet takip hukukunu ilgilendirir ve bununla icra ve iflas memurunun takip hukukuna ilişkin hükümleri uygulamadığı veya yanlış uyguladığı ileri sürülür. İtiraz ise alacağa karşı ve dolayısıyla maddi hukuk hükümlerine dayanmaktadır. Örneğin alacağın mevcut olmadığı, hükümsüz olduğu, alacağın alacaklının talep ettiği miktarda olmadığı, takas gibi bir sebeple ileri sürülür (Pekcanıtez, H.: İcra-İflas Hukukunda Şikayet, Ankara 1986, s. 26). İcra müdürünün kendiliğinden gözetmesi gereken hususlar dışında kalan takip hukukuna ilişkin sebepler itiraz sebebi oluşturur (örneğin İİK'nın 50. maddesinde düzenlenen yetki itirazı).
@@ -104,6 +116,8 @@ Yukarıda ayrıntılı olarak açıklandığı üzere, itirazın iptali davasın
 Alacaklı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2018/245 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402474100)
 
 Davalı dilekçesinde; ikametgah adresinin Yalı Mahallesi Kültür cad. 108/F6 Kocaali/Sakarya olduğunu, kendisine ait olduğu iddia edilen elektrik sayacının da Kocaali adresinde bulunduğunu belirterek, HMK'nun 6 vd. maddeleri gereğince yetkisizlik kararı verilmesini savunmuştur.
 
@@ -127,6 +141,8 @@ S O N U Ç : Davacı vekilinin temyiz itirazlarının kabulü ile direnme karar�
 
 ## Yargıtay HGK 2014/524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84103200)
+
 Davalı, dava dilekçesi ekli meşruhatlı duruşma gün ve saatini bildiren davetiye kendisine usulüne uygun şekilde tebliğ edilmesine rağmen davaya cevap vermemiştir.
 
 Mahkemece, davalının bulunduğu ikametgahı itibariyle yetkili icra dairesinin Bakırköy İcra Dairesi olduğu, davacının ikametgahının ise Çorlu/Tekirdağ olduğu, takibin İstanbul İcra Dairesinde yapıldığı, davacının 02.03.2010 tarihli dilekçesiyle yetki itirazının usulüne uygun olmadığı, itirazda icra müdürlüğünün açıkça belirtilmediği ancak davalı borçlunun ikametgahı itibariyle kastettiği icra dairesinin Bakırköy İcra Dairesi'nin olduğu ve Bağcılar Adliyesi'nin kapatılarak Bakırköy'e bağlandığının açıkça anlaşıldığı, İstanbul İcra Dairesi'nin somut takip açısından yetkili olmadığı ve davacı tarafça yetkili icra dairesinde yapılmış usulüne uygun icra takibi bulunmadığı gerekçesiyle, davanın icra dairesinin yetkisizliği nedeniyle reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
@@ -138,6 +154,8 @@ Yetki itirazında yetkili bulunan icra dairesinin yargı teşkilatının neresi 
 Açıklanan nedenlerle, borçlunun İcra Dairesinin yetkisine itirazı hukuka uygun bulunduğundan davanın reddine ilişkin direnme kararının Onanması gerekirken Bozulmasına ilişkin sayın çoğunluk görüşüne karşıyım.
 
 ## Yargıtay HGK 2006/671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77085700)
 
 Davalı vekili cevabında, husumetin müvekkiline yöneltilemeyeceğini ödeme emrinin İİK.nun 58/3.maddesine uygun düzenlenmediğini, davacı ile müvekkili arasında sözleşme bulunmadığını, .... Film Ltd.Şti. ile anlaşma yapıldığını, tüm borcun bu firmaya ödendiğini, davacıya anapara, faiz ve cezai şart borçları bulunmadığını belirterek davanın reddini istemiştir.
 
@@ -164,6 +182,8 @@ S O N U Ç : Davalı/borçlu vekilinin temyiz itirazlarının kabulü ile direnm
 Somut olayda, davacının alacağının tahsili için ... İcra Dairesinde takip başlatıldığı, davalının icra dairesinin yetkisine itiraz etmediği, böylelikle icra dairesinin yetkisinin kesinleştiği anlaşılmaktadır. İcra dairesinin yetkisine itiraz edilmemesinin o yerdeki mahkemeyi itirazın iptali yönünden yetkili hale getirmezse de dosya kapsamından kazanın ... ilçesinde meydana geldiği, davalının dava tarihi itibariyle yerleşim yeri adresinin ise .../Malatya olduğu anlaşılmaktadır. Dolayısı ile, davacının birden çok mahkemenin yetkili olduğu ve kesin yetki kuralının bulunmadığı bu davada, 6100 sayılı Kanun'un 16 ncı maddesindeki seçimlik hakkını, davalının yerleşim yerinde dava açarak kullanmasının, genel yetki kuralına uygun olduğu anlaşılmakla, uyuşmazlığın ... Asliye Hukuk Mahkemesince (Tüketici Mahkemesi sıfatıyla) sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 5. HD 2026/4314 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208595800)
 
 İlamsız bir takipte yetkili icra dairesi de 2004 sayılı Kanun'un 50 nci maddesinin yollaması ile 6100 sayılı Kanun'un genel hükümlerine göre belirlenecektir. 6100 sayılı Kanun'un 6 ncı maddesine göre genel yetkili icra dairesi, davalı gerçek veya tüzel kişinin takibin yapıldığı tarihteki yerleşim yeri icra dairesidir. Yine aynı Kanun’un 16 ncı maddesine göre ise haksız fiilden doğan uyuşmazlıklarda, haksız fiilin işlendiği veya zararın meydana geldiği yahut gelme ihtimalinin bulunduğu yer ya da zarar görenin yerleşim yeri mahkemesi icra dairesi de yetkilidir. Aynı Kanun’un 10 uncu maddesine göre ise sözleşmeden doğan davaların sözleşmenin ifa edileceği yer mahkemesinde de açılabileceği hüküm altına alınmış olup, bu sebeple sözleşmeden doğan para borcunun tahsili için başlatılan takipte, sözleşmenin ifa edileceği yer icra dairesi de yetkili kılınmıştır. Takibin konusu sözleşmeden kaynaklı para borcu olduğunda, 6098 sayılı Kanun'un 89 uncu maddesine göre, aksi kararlaştırılmadıkça para borçları alacaklının ödeme zamanındaki yerleşim yerinde ifa edilecektir.
 
@@ -211,11 +231,15 @@ Adalet Bakanlığının 6100 sayılı Kanunun 363/1 hükmüne dayalı kanun yara
 
 ## Yargıtay 5. HD 2025/7780 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198778800)
+
 İtirazın iptali davasını gören mahkemenin, icra takibinin yapıldığı icra dairesinin yetkisine yönelik itirazı öncelikle incelemesi gerekir. Mahkemenin yetkisine yönelik bir itirazın var olup olmaması, bu sonuca etkili değildir. Eş söyleyişle, itirazın iptali davasında, mahkemenin yetkisine itiraz edilmiş olsun veya olmasın mahkeme öncelikle icra dairesinin yetkisine yönelik itirazı inceleyerek kesin olarak sonuçlandırmalıdır. Ancak icra dairesinin yetkisine itiraz edilmemesi o yerdeki mahkemeyi itirazın iptali yönünden yetkili hale getirmeyecektir.
 
 Taraflar kira sözleşmesine koyacakları bir yetki şartı veya ayrı bir yetki sözleşmesi ile başka bir yer mahkemesinin yetkili olduğunu da kararlaştırabilirler. Ancak yetki sözleşmesi tacirler veya kamu tüzel kişileri arasında yapıldığı takdirde geçerlidir. Yalnızca tacirler ve kamu tüzel kişileri, aralarında doğmuş veya doğabilecek uyuşmazlık hakkında bir veya birden fazla mahkemeyi yetkili kılabilir. Bu yeni düzenleme, 01.10.2011 tarihinden sonra açılacak davalar bakımından uygulanmakla birlikte, 6100 sayılı Kanun'un 19 uncu maddesinin 2 inci bendine göre yetkinin kesin olmadığı davalarda, yetki itirazının, cevap dilekçesinde ileri sürülmesi gerekir. Yetki itirazında bulunan taraf, yetkili mahkemeyi, birden fazla yetkili mahkeme varsa seçtiği mahkemeyi bildirir. Aksi takdirde yetki itirazı dikkate alınmayacaktır.
 
 ## Yargıtay 11. HD 2025/7273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198826000)
 
 Davalı vekili cevap dilekçesinde; sözleşmenin 6.1 ve 6.3. maddeleriyle İngiliz Hukukunun uygulanacağı ve İngiliz Mahkemelerinin yetkili olduğunun kararlaştırıldığını, davacının kendi yükümlülüklerini yerine getirmediğini, davacının proje şirket 1’e 6 ay içerisinde 10.000.000,00 USD transfer etmekle yükümlü olduğunu, davacının ödediği meblağ oranında azınlık hissesine sahip olması hususunda tarafların mutabık kaldığını, aradan 5 yıl geçtikten sonra dava açılmasının kötüniyetli olduğunu savunarak davanın reddini istemiştir.
 
@@ -234,11 +258,15 @@ VI. SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekili
 
 ## Yargıtay 5. HD 2025/4964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150899300)
+
 Kesin yetki halinin kuralının bulunmadığı ve birden fazla yetkili mahkemenin bulunduğu hallerde yetkili mahkemeyi seçme hakkı davacıya aittir. Davacı, kesin yetki kuralının bulunmadığı bir davayı yetkisiz bir mahkemede açmışsa, seçme hakkı itiraz eden davalıya geçer, davalının bildirdiği yetkili mahkemede davanın görülmesi gerekir.
 
 Somut olayda, davacının alacağının tahsili için Batman İcra Müdürlüğünde takip başlatıldığı, davalının yetki itirazında bulunduğu ancak yetkili icra dairesini göstermediği, yapılan yetki itirazının usulüne uygun olmadığı, böylelikle icra dairesinin yetkisinin kesinleştiği anlaşılmaktadır. Davacı tarafından davanın açıldığı yer mahkemesi yetkisiz ise de, dosya kapsamından 7036 sayılı Kanun'un 6 ncı maddesi gereğince Muradiye 1. Asliye Hukuk (İş Mahkemesi sıfatıyla) Mahkemesi'nin işlemin yapıldığı yer ve davalının dava açıldığı tarihteki yerleşim yeri mahkemesi olarak yetkili olduğu anlaşıldığından, uyuşmazlığın Muradiye 1. Asliye Hukuk (İş Mahkemesi sıfatıyla) Mahkemesinde görülerek sonuçlandırılması gerekir.
 
 ## Yargıtay 3. HD 2025/1900 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1147009300)
 
 Davacı vekili; davalı aleyhine müvekkili bankaya olan borcu nedeniyle Elbistan İcra Dairesinin 2021/4706 E. sayılı dosyası ile genel haciz yoluyla takip başlatıldığını, davalı tarafından borca itiraz edildiğini belirterek borçlunun haksız itirazının iptaline, takibin devamına, %20 icra inkar tazminatı ile yargılama giderlerinin davalı tarafa bırakılmasına karar verilmesini talep etmiştir.
 

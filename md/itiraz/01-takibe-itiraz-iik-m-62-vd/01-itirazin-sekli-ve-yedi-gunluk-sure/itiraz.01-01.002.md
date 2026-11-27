@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2015/1049 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112911500)
+
 (...Alacaklı tarafından borçlu T.. Seramik Sanayi ve Ticaret AŞ. hakkında Söğüt İcra Müdürlüğü'nün 2012/693 esas sayılı dosyası üzerinden kambiyo senetlerine mahsus haciz yolu ile, yine aynı icra müdürlüğünün 2012/692 esas sayılı dosyası üzerinden de genel haciz yolu ile ilamsız takip yapıldığı, 2012/692 esas sayılı dosya üzerinden gönderilen ödeme emrinin 11.12.2012 tarihinde tebliğ edilmesi üzerine borçlunun süresinde Söğüt İcra Müdürlüğü'nün 2012/693 esas sayılı dosya numarasını yazarak 13.12.2012 tarihinde itiraz dilekçesini icra müdürlüğüne sunduğu, ancak Söğüt İcra Müdürlüğü'nün 2012/692 esas sayılı dosyası için düzenlenen dilekçede dosya numarasının 2012/692 yerine 2012/693 olarak yanlış belirtilmesi nedeniyle itiraz dilekçesinin ait olduğu dosyaya girmediği anlaşılmaktadır. Maddi hata sonucu (takip dosya numaralarının da ardışık olduğu gözetildiğinde) dosya numarasının itiraz dilekçesinde yanlış yazılması hakkın zayiine neden olmaz.
 Bu durumda borçlunun süresinde Söğüt İcra Müdürlüğü'nün 2012/692 Esas sayılı dosyasından yapılan ilamsız takibe itiraz ettiğinin kabulü gerekeceğinden ve dolayısıyla süresinde itiraz nedeniyle takip duracağından mahkemece şikayetin kabulüne karar verilmesi gerekirken yazılı şekilde hüküm tesisi isabetsizdir.)
 
@@ -30,6 +32,8 @@ Bu durumda borçlunun süresinde Söğüt İcra Müdürlüğü'nün 2012/692 Esa
 Özel Dairece; “Maddi hata sonucu (takip dosya numaralarının da ardışık olduğu gözetildiğinde) dosya numarasının itiraz dilekçesinde yanlış yazılması hakkın zayiine neden olmayacağı, bu durumda borçlunun süresinde Söğüt İcra Müdürlüğü'nün 2012/692 esas sayılı dosyasından yapılan ilamsız takibe itiraz ettiğinin kabulünün gerekeceği ve dolayısıyla süresinde itiraz nedeniyle takip duracağından mahkemece şikayetin kabulüne karar verilmesi” gerektiğinden bahisle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay HGK 2013/1533 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77532100)
 
 Direnme yoluyla Hukuk Genel Kurulu önüne gelen uyuşmazlık; borçlunun Kadıköy İcra Müdürlüğü aracılığıyla borca ve yetkiye süresinde itiraz ettiği halde, itiraz dilekçesinin asıl takip dosyasına geç ulaşması ve 10.07.2008 tarihinde menkul mal haczi yapılmış olması nedeniyle takibin durdurulması gerekirken, durdurulmamış olması karşısında haczedilen malların teslim ve yedieminlik ücretine ilişkin olarak gönderilen 31.08.2009 tarihli muhtıranın iptali gerekip gerekmediği ve şikayetçi-borçlunun sorumluluğunun bulunup bulunmadığı, noktasında toplanmaktadır.
 
@@ -40,6 +44,8 @@ Hemen belirtilmelidir ki, borçlu kendisine İİK'nun 60.maddesi uyarınca gönd
 S O N U Ç : Şikayetçi-borçlu E. İnş. İth. İhr. San. ve Tic. Ltd. Şti. vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukarıda ve Özel Daire bozma ilamında gösterilen nedenlerden dolayı 6217 sayılı Kanunun 30.maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2008/639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76965500)
 
 Dava, ipoteğin paraya çevrilmesi yoluyla yapılan takibe itirazın kaldırılması istemine ilişkindir.
 
@@ -59,6 +65,8 @@ SONUÇ : Borçlunun temyiz isteminin kabulü ile yukarıda yazılı nedenlerle 5
 
 ## Yargıtay 6. HD 2026/18 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206936400)
+
 Davacı vekili dava dilekçesinde; taraflar arasında tabela yapım işine ilişkin anlaşma yapıldığını, anlaşma gereğince davalının tabelayı yaparak montajladığını ancak tabelanın ayıplı olduğundan çöktüğünü, davalı tarafça tabelanın sökülerek tamir edildiğini, ancak sonrasında yağmur yağmasına bağlı tabeladaki su sızıntısı nedeniyle iş yerine giriş çıkışı imkânsız hale getirdiğini, bu hususa ilişkin davalıya ihtarname çekilerek tabelanın yeniden tamir edilmesinin istenildiğini, tabela tamir edilmediğinden Antalya 4.
 
 …
@@ -75,6 +83,8 @@ Adalet Bakanlığı'nın 6100 sayılı Kanun’un 363/1 hükmüne dayalı kanun 
 
 ## Yargıtay 12. HD 2025/5902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178900700)
+
 Buna göre; alacaklının(kiraya verenin) ilamsız tahliye takip talebini alan icra dairesi, borçluya ihtarlı(örnek 13 nolu) ödeme emri gönderir. Bu ödeme emrinde diğer kayıtlarla birlikte, borçlunun(kiracının) kural olarak yedi gün içinde ödeme emrine itiraz edebileceği, itiraz süresi içinde kira sözleşmesini ve varsa yazılı kira sözleşmesindeki imzasını açık ve kesin olarak reddetmezse(inkâr etmezse) kira sözleşmesini kabul etmiş sayılacağı, kira borcunu ödeme emrinin tebliği tarihinden itibaren BK’nın 2 60... . (TBK m. 3 15... ) maddelerinde belirtilen(on, otuz veya altmış gün) belli bir süre içinde ödemesi, itiraz süresi içinde(İİK m. 62'ye göre) ödeme emrine itiraz etmez ve ödeme süresi içinde borcu (kira borcunu) ödemez ise kiraya verenin(alacaklının), kesinleşen kira alacağı için haciz isteyebileceği(İİK m. 78 vd) ve icra mahkemesinden(kiracının) kiralanan taşınmazdan tahliyesini isteyebileceği ihtar edilir.
 
 …
@@ -83,9 +93,13 @@ Yukarıda anlatılan nedenlerle; İİK’nın 269/a maddesi açık hükmü, Böl
 
 ## Yargıtay 12. HD 2025/5117 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169842600)
+
 Ödeme emrini tebliğinden itibaren 30 günlük süreden sonra ve ancak İtirazın kaldırılması süresi içerisinde tahliye isteminde bulunmak mümkündür. Yargıtay 12. Hukuk Dairesinin 13.1984 gün 6441/8950 sayılı kararı bu yöndedir (Kuru Baki İcra ve İflas Hukuku 2 cilt sayfa 1885) Yargıtay 12.Hukuk Dairesinin genel haciz yoluyla ilamsız icra takibinde ödeme emri tebliğ edilemeden iadesi ve borçlunun da icra dairesinde takibe itiraz edilmesi halinde borçlunun itirazının süresinde kabul edilerek itirazın kaldırılması talebinin esastan incelenmesinin mümkün olduğuna karar vermiştir. (Yargıtay 12. HD’nin 13.01.2022 tarih 2021/7314E., 2022/376K. sayılı kararı).
 
 ## Yargıtay 12. HD 2025/4932 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1166238500)
 
 Genel haciz yoluyla ilamsız icra takibinde, borçlunun icra mahkemesine başvurusunda, alacaklı tarafından yetkisiz icra müdürlüğünde başlatılan takibe itirazları üzerine açılan itirazın iptali davasının usulden reddine ilişkin kararın kesinleşme tarihinden itibaren yasada belirtilen 2 haftalık kesin süre içerisinde dosyanın yetkili icra müdürlüğüne gönderilmesi talebinde bulunulmadığını ileri sürerek takibin açılmamış sayılmasına karar verilmesini talep ettiği, İlk Derece Mahkemesince, davanın kabulü ile takibin iptaline karar verildiği, alacaklı tarafından istinaf yoluna başvurulması üzerine Bölge Adliye Mahkemesince, genel haciz yoluyla ilamsız takiplerde HMK’nın 20. maddesinin uygulama yeri bulunmadığı gerekçesi ile istinaf başvurusunun kabulüne, mahkeme kararının kaldırılması ile şikayetin reddine karar verildiği, kararın borçlu tarafından temyiz edilmesi üzerine Dairemizce;
 İİK’nın 50. maddesi göndermesi ile takip hukukunda da kıyas yolu ile tatbik edilmesi gereken HMK’nın 20. maddesinin uygulanabilirliği yönünden takip türleri arasında herhangi bir ayrım yapılmadığı, şikayetin esasının anılan madde kapsamında incelenmesi gerektiği gerekçesiyle Bölge Adliye Mahkemesi kararının bozulduğu, bozma üzerine mahkemece, başvurunun takibin ve ödeme emrinin iptalini gerektirmeyeceği, sair itirazların icra müdürlüğü yerine icra mahkemesine yapılmasının sonuç doğurmayacağı gerekçesi ile alacaklının istinaf başvurusunun kabulüne, İlk Derece Mahkemesi kararının kaldırılması ile şikayetin reddine karar verildiği, kararın borçlu tarafından temyiz edildiği anlaşılmıştır.
@@ -95,6 +109,8 @@ Genel haciz yoluyla ilamsız icra takibinde, borçlunun icra mahkemesine başvur
 Sakarya Bölge Adliye Mahkemesi 8. Hukuk Dairesinin 13.02.2025 tarih ve 2024/1539 E. - 2025/78 K. sayılı kararının yukarıda yazılı nedenlerle, 5311 sayılı Kanun ile değişik İİK'nın 364/2. maddesi göndermesiyle uygulanması gereken 6100 sayılı HMK'nın 373/2. maddeleri uyarınca BOZULMASINA …
 
 ## Yargıtay 10. HD 2025/4012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167157100)
 
 Davacı vekili dava dilekçesinde özetle; davacının ortağı olduğu şirketin prim vs. borçlarından adına düzenlenmiş olan 2014/... takip numaralı ödeme emrinin tarih ve tahakkuk aşamaların atlanmış olduğu, takibe konu alacağın asıl borçlu olan dava dışı ... İnş. A.Ş'ye ait olduğu ve şirketten tahsiline ilişkin işlemlerin yerine getirilmemiş bulunduğu, ...
 
@@ -113,6 +129,8 @@ Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 12. HD 2025/1932 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1137321900)
+
 Bu durumda, yukarıda değinilen yasal düzenlemeler ve açıklamalar uyarınca, itiraz dilekçesinin üzerinde yazılı tarihin itiraz tarihi olarak kabulüne imkan bulunmadığı ve itiraza esas olan tarihin anılan dilekçenin UYAP sistemine işlendiği 14.09.2020 tarihi olduğu açıktır. Öyleyse, belirtilen tarih nazara alındığında borçlu tarafından İİK'nın 62. maddesinde öngörülen yasal yedi günlük süre içinde yapılmış bir itirazın varlığından söz edilemez.
 
 …
@@ -120,6 +138,8 @@ Bu durumda, yukarıda değinilen yasal düzenlemeler ve açıklamalar uyarınca,
 Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, temyiz olunan Bölge Adliye Mahkemesi kararında yazılı gerekçelere göre yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesinin direnme kararının 5311 sayılı Kanun ile değişik İİK'nın 364/2. maddesi göndermesiyle uygulanması gereken 6100 Sayılı HMK'nın 373/5. maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 3. HD 2025/1184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145509400)
 
 Davalı vekili; davaya konu borç ilişkisinin 2019/18248 Esas sayılı icra dosyasından kaynaklandığını, bu icra dosyasında davacı borçluya ödeme emrinin 07.11.2019 tarihinde tebliğ edildiğini, borçlu davacı tarafından 10.11.2019 tarihinde borca itiraz edildiğini, icra dosyasında görüleceği üzere 13.01.2022 tarihinde icra müdürü tarafından icranın durdurulmasına karar verildiğini, vaki itiraz ve icranın durdurulmasına ilişkin icra müdürlüğü kararının borçluya 21.01.2022 tarihinde e-tebliğ edildiğini ve 23.01.2022 tarihinde mevzuat gereği belirlenen süre sonunda otomatik olarak okundu sayıldığını, bu durumda borçlunun itirazının iptalini isteyebilecekleri bir yıllık sürenin 26.01.2022 tarihinde başlamış olup 26.01.2023 tarihinde bu sürenin sona erdiğini, bu tarihten sonra davaya konu takip için itirazın iptali istenemeyeceğinden davacının eldeki davayı açmakta hukuki yararı bulunmadığını savunarak, davanın reddini istemiştir.
 
@@ -131,6 +151,8 @@ kararının kaldırılmasına, yeniden davanın hukuki yarar bulunmadığından 
 
 ## Yargıtay 12. HD 2025/730 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135767100)
+
 Bu durumda, yukarıda da açıklandığı şekilde, ilamsız takipte takibe itiraz edilmesi üzerine, icra müdürlüğünce itirazın süresinde ve geçerli bir itiraz olup olmadığı incelenerek takibin devamı ya da durdurulması yönünde bir karar verilmesi gerekir. İcra müdürlüğü bu konuda bir karar vermekten kaçınamaz. Bu husus, bir hakkın yerine getirilmemesi niteliğinde olup her zaman şikayet olunabilir (m.16/2).
 
 …
@@ -138,6 +160,8 @@ Bu durumda, yukarıda da açıklandığı şekilde, ilamsız takipte takibe itir
 Simav İcra Hukuk Mahkemesi’nin 02.06.2023 tarih 2022/63 Esas 2023/23 Karar sayılı kararının BOZULMASINA …
 
 ## Yargıtay 12. HD 2024/9419 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096632800)
 
 Malatya İcra Müdürlüğü'nün 2022/17947 Esas sayılı dosyası üzerinden genel haciz yolu ile icra takibi başlatıldığı, takip kesinleşmeden temin edilen ihtiyati haciz kararının da aynı dosyadan infaz edildiği, borçlunun İcra Mahkemesine başvurusunda; süresinde borca itiraz etmesi üzerine takibin durduğunu, mirası reddettiğini, borçlu sıfatının olmadığını, var ise konulan hacizlerin kaldırılmasını talep ettiğini ancak İcra Müdürlüğünün şikayete konu 14.07.2023 tarihli kararı ile talebinin reddedildiğini belirterek İcra Müdürlüğü kararının kaldırılmasını talep ettiği, mahkemece, borçlunun borca itirazının alacaklıya henüz tebliğ edilmediği, borçlunun itirazının alacaklı vekiline tebliğ edilmediğinden İİK'nun 264/2. maddesinde öngörülen sürenin başlamadığı ve dolayısıyla ihtiyati hacizlerin ayakta kaldığından bahisle şikayetin reddine karar verildiği, İlk Derece Mahkemesi kararına karşı borçlu tarafından istinaf yoluna başvurulması üzerine, aynı gerekçeyle Bölge Adliye Mahkemesince istinaf başvurusunun esastan reddedildiği anlaşılmıştır.
 
@@ -151,6 +175,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle 5311 sayılı Kanun ile değişik İİK
 
 ## Yargıtay 12. HD 2024/2502 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037603500)
+
 Yetkiye, borca ve faize ilişkin itirazların İİK'nın 62/1.maddesi uyarınca, takibin şekline göre, ödeme emrinin tebliğinden itibaren yedi gün içinde icra müdürlüğüne yapılması gerektiği doğrudur. Ancak ihtar gönderilmeyerek borcun muaccel olmadığına, takip koşulunun oluşmadığına yönelik iddialar ise İİK'nın 16. maddesi uyarınca şikayet niteliğinde olup icra mahkemesince incelenmesi gerekir.
 
 …
@@ -158,6 +184,8 @@ Yetkiye, borca ve faize ilişkin itirazların İİK'nın 62/1.maddesi uyarınca,
 SONUÇ: Yukarıda yazılı nedenlerle 5311 sayılı Kanun ile değişik İİK'nın 364/2. maddesinin göndermesiyle uygulanması gereken 6100 sayılı HMK'nın 373/1. maddesi uyarınca, İzmir Bölge Adliye Mahkemesi 12. Hukuk Dairesinin 03.05.2023 tarihli ve 2022/1757 E.- 2023/1156 K. sayılı kararının (KALDIRILMASINA)
 
 ## Yargıtay 6. HD 2024/2339 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095574400)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili ile davalı arasında düzenlenen sözleşmeler ile montaj işlerinin yapımının kararlaştırıldığını, düzenlenen faturalar kabul edildiği halde bakiye iş bedelinin tahsili için başlatılan icra takibine itiraz edildiğini, dava konusu bedelin teminat olarak tutulmasının mümkün olmadığı gibi davalı tarafından müvekkilinin borçlu, üçüncü şahsın alacaklı olduğu İstanbul 37. İcra Dairesi'nin 2016/31622 Esas sayılı dosyası üzerinden gönderilen haciz ihbarnamesi gereği yedi gün içinde ödeme yapılmadığını, beyanda da bulunulmadığını ileri sürerek, takibe vaki itirazın 346.814,17 TL bakımından iptali ile icra inkâr tazminatına karar verilmesini talep ve dava etmiştir.
 
@@ -177,6 +205,8 @@ Bölge Adliye Mahkemesinin 06.04.2021 tarihli, 2018/2011 Esas, 2021/727 Karar sa
 
 ## Yargıtay 3. HD 2024/1649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086572700)
+
 Davacı vekili; davalının, müvekkili ... İnşaat Turizm Özel Eğitim Hizmetleri İletişim Paz. San.
 
 …
@@ -193,6 +223,8 @@ Adalet Bakanlığının 6100 sayılı Kanun’un 363 üncü maddesinin birinci f
 
 ## Yargıtay 12. HD 2023/8566 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982173300)
+
 Alacaklı tarafından başlatılan genel haciz yolu ile ilamsız icra takibinde, borçlunun icra dairesine verdiği dilekçe ile borca itirazda bulunduğu, icra müdürlüğünce 12.06.2021 tarihli kararı ile ; henüz borçluya ödeme emri tebliğ edilmeden itiraz edildiğinden bahisle itiraz tarihi öğrenme tarihi olarak kabul edilerek itirazın yasal sürede yapıldığı anlaşıldığından takibin İİK’nın 62 ve 66. maddeleri uyarınca durdurulmasına karar verildiği, alacaklının 12.06.2021 tarihli icra müdürlüğü işleminin iptali talebi ile icra mahkemesine başvurduğu, mahkemece şikayetin reddine karar verildiği, kararın alacaklı vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince istinaf başvurusunun kabulü ile, ödeme emri tebliğ edilmeden yapılan borca itirazın hukuki sonuç doğurmayacağı gerekçesi ile şikayetin kabulü ile müdürlük işleminin iptaline karar verildiği, kararın borçlu vekili tarafından temyiz edildiği görülmüştür.
 
 …
@@ -200,6 +232,8 @@ Alacaklı tarafından başlatılan genel haciz yolu ile ilamsız icra takibinde,
 SONUÇ : Borçlunun temyiz itirazlarının kabulü ile, ... Bölge Adliye Mahkemesi 6. Hukuk Dairesi’nin 21/12/2022 tarih ve 2022/1846 E. - 2022/3051 K. sayılı kararının yukarıda yazılı nedenlerle, 5311 sayılı Kanun ile değişik İİK'nun 364/2. maddesi göndermesiyle uygulanması gereken 6100 sayılı HMK'nun 373/2. maddeleri uyarınca BOZULMASINA …
 
 ## Yargıtay 12. HD 2023/3928 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/948990200)
 
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile istinaf incelemesi sırasında şikayete konu olan taşınmazın üçüncü kişiler tarafından satın alındığı, kira alacağı ve tahliye talepli olarak kiracı aleyhine başlatılan takipte, ödeme emrinin kiracılara tebliğ edildiği, kiracıların takibe itiraz etmedikleri, takibe konu borcun tamamının yasal süresinde ödendiğinin ispat edilemediği gerekçesiyle İlk Derece Mahkemesi kararı usul ve yasaya uygun bulunduğundan, HMK'nın 353/1-b-1 maddesi gereğince davalıların istinaf başvurusunun esastan reddine karar verilmiştir.
 
@@ -209,6 +243,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 5311 Sayılı Kanun ile deği�
 
 ## Yargıtay 12. HD 2023/3868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/935953000)
+
 İtiraz dilekçesinde kira kontratına ve miktarına açıkça karşı çıkılmadığı, İİK'nın 62. maddesi gereğince itiraz edilen kısmın cihet ve miktarı itiraz dilekçesinde açıkça gösterilmediğinden kira miktarının kesinleştiği, bilirkişi raporunda takip konusu kira alacakları ile faizlerine ilişkin fazla talebin bulunmadığının tespit edildiği, kira farkına ilişkin borcun ödendiğinin İİK'nın 269/c maddesinde yazılı belgelerden biri ile ispatlanamadığı gerekçesi ile istemin kabulü ile itirazın kaldırılmasına, takibin devamına, asıl alacağın %20'si oranında hesaplanan 112.000,00 TL icra inkar tazminatının borçludan alınarak alacaklıya verilmesine karar verilmiştir.
 
 …
@@ -216,6 +252,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 5311 Sayılı Kanun ile deği�
 Temyiz olunan Bölge Adliye Mahkemesi kararının 5311 sayılı Kanunun ile değişik İİK'nın 364/2. maddesi göndermesiyle uygulanması gereken 6100 sayılı HMK'nın 370. maddeleri uyarınca ONANMASINA …
 
 ## Yargıtay 12. HD 2023/3796 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/931834300)
 
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile; İİK 62/1 maddesi gereğince itiraz süresinin ödeme emrinin tebliği ile başlayacağını, davacıya ödeme emrinin tebliğ edilmemesi nedeniyle daha önce yapılan itirazın geçersiz olması nedeniyle takibin devamına yönelik Antalya 2. İcra Hukuk Mahkemesi kararının takibin kesinleşmesi sonucunu doğurmayacağını, davacıya ödeme emri tebliğ edilmeden ve takip kesinleşmeden icra müdürlüğünce takip dosyasında haciz konulmasına yönelik işlemin usul ve yasaya uygun olmadığından, mahkemece hacizlerin kaldırılmasına yönelik verilen kararda isabetsizlik bulunmadığı gerekçesi ile alacaklının istinaf başvurusunun esastan reddine karar verilmiştir.
 
@@ -225,6 +263,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 5311 sayılı Kanun ile deği�
 
 ## Yargıtay 12. HD 2023/2305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897912500)
+
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile İİK'nın 62/1. maddesinde "İtiraz etmek istiyen borçlu, itirazını, ödeme emrinin tebliği tarihinden itibaren yedi gün içinde dilekçe ile veya sözlü olarak icra dairesine bildirmeye mecburdur." düzenlemesinin yer aldığı, somut olayda borçlu vekili tarafından UYAP Avukat Portal üzerinden takip dosyasına "borca itiraz dilekçesi" başlığı altında başka bir takip dosyası ile ilgili beyan dilekçesi gönderildiği, dilekçe içeriğinin şikayete konu takip dosyası ile ilgili olmadığından bunun itiraz dilekçesi olarak kabulünün mümkün olmadığı, ilgisiz bir dilekçenin Uyap sisteminde borca itiraz sekmesi seçilerek takip dosyasına gönderilmesinin takibe itiraz iradesinin ortaya konulması şeklinde yorumlanamayacağı gerekçesi ile borçlunun istinaf başvurusunun esastan reddine karar verilmiştir.
 
 …
@@ -233,6 +273,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 5311 sayılı Kanun ile deği�
 
 ## Yargıtay 12. HD 2023/2203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905810500)
+
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile; ... 4. Asliye Ticaret Mahkemesinin 02.01.2008 tarih 2007/1372 D. ... sayılı ihtiyati haciz kararına dayalı olarak borçlu hakkında 02.01.2008 tarihinde genel haciz yoluyla ilamsız icra takibi başlatıldığı, ihtiyati haciz kararı doğrultusunda hacizlerin uygulandığı, bu kapsamda borçlunun çalıştığı kuruma maaş haciz müzekkeresi gönderilerek maaşı üzerine haciz konulduğu, borçluya ödeme emri tebliğ edilmediği halde borçlunun 31.03.2021 tarihinde takibe itiraz ettiği, borçlunun itiraz dilekçesinin alacaklı vekiline 14.04.2021 tarihinde tebliğ edildiği, şikayet konusunun 30.03.2021 tarihli haciz müzekkeresi olduğu, bu tarih itibarıyla henüz takibe itiraz edilmemesi ve alacaklının yasa hükmünde belirtilen 7 günlük dava açma süresinin başlamaması sebebi ile ihtiyati haczin hükümsüz olmadığı, yapılan haciz işleminde usulsüzlük bulunmadığı, verilen takibin durdurulması kararı kaldırılmadığı müddetçe maaştan yapılan kesintilerin alacaklıya ödenmeyeceği, maaş haczinin “ihtiyaten” tesis edilmemiş olmasının sonuca etkili olmadığı gerekçesi ile istinaf başvurusunun esastan reddine karar verilmiştir.
 
 …
@@ -240,6 +282,8 @@ Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile; .
 2- ... 3. İcra Hukuk Mahkemesi’nin 07.05.2021 tarih ve 2021/631 E. - 2021/893 K. sayılı kararının BOZULMASINA …
 
 ## Yargıtay 12. HD 2023/2182 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/912048300)
 
 Davalı kiracı tarafından verilen cevap dilekçesinde; kira bedelinin uyarlanması hakkında dava açıldığını, bu davanın sonucunun beklenilmesi gerektiğini ve davanın reddine karar verilmesi talep edilmiştir.
 

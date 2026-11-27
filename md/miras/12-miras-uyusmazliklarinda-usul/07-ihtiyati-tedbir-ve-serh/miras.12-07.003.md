@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2023/1396 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/934827300)
+
 A.Ş.'nin konkordato dava dosyasından ve öğrenildiği, davalı ... AŞ'nin, ... AŞ'ye ait hisselerinin ... AŞ'ye hukuken geçerli bir yöntemle devri olanaklı olmadığından pay defterine yapılan bu kaydın hukuken geçerli olmadığı, hiç kimse kendisine ait olmayan bir malvarlığını devredemeyeceği iddialarına dayalı olarak; %66,74 hissesi ... A.Ş.'ye, dolayısıyla muris ...'nun terekesine ait olan ... A.Ş. hisselerinin ... A.Ş.'ye devrinin ve bu devre ilişkin pay defterine yapılan kaydın sahteliğinin tespitine ve bu payların ... A.Ş.adına pay defterine kaydına karar verilmesi istemlerine ilişkin olup, tereke adına dava açan davacı tarafından; davalı ... A.Ş'ye ait taşınmazlar üzerine üçüncü kişilere devirlerinin önlenebilmesi amacıyla tedbir konulmasına, mahkeme aksi kanaatte ise davalı şirkete ait taşınmazlarla ilgili tapuya "davalıdır" şerhi konulmasına, davalı şirketin, ... A.Ş.'ye dolayısıyla terekeye ait olduğu iddia olunan %66,74 oranındaki hissesi üzerine üçüncü kişilere devrinin önlenmesi amacıyla tedbir konulmasına karar verilmesi talep edilmiştir. Mahkemece duruşmalı olarak incelenen tedbir taleplerinden, birleşen dava davalısı ...
 AŞ'nin taşınmazları üzerine "DAVALIDIR" şerhi konulması talebi kabul edilmiş, karara karşı yapılan itiraz 22/06/2023 tarihli ara karar ile reddedilmiş, red kararına karşı birleşen davalı ... A.Ş. Tarafından istinaf kanun yoluna başvurulmuştur. 6100 Sayılı HMK'nun 389. maddesinde, ihtiyati tedbirin şartları düzenlenmiş olup, 1. fıkrasında "Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. " hükmü düzenlenmiştir. Buna göre şartların mevcut olması durumunda ancak uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilecektir.
 
 ## İstanbul BAM 12. HD 2023/1161 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914992500)
 
 …
 
@@ -34,6 +38,8 @@ Ancak takibe dayanak senette keşideci şirket yanında muris aval veren sıfat�
 
 ## İstanbul BAM 12. HD 2023/1099 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914453900)
+
 …
 
 : Talep, ihtiyati haciz kararına itiraza ilişkindir. İİK'nın 257/1.maddesine göre, rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı ihtiyati haciz talebinde bulunabilir. İİK'nın 258/1. maddesinin 2. cümlesine göre: "İhtiyati haciz kararı verilebilmesi için alacaklı, alacağı ve icabında haciz sebepleri hakkında mahkemeye kanaat getirecek delilleri göstermeye mecburdur." Bu madde uyarınca ihtiyati haciz talep eden, İİK'nın 257/1. maddesi kapsamında bir para borcunun alacaklısı olduğunu, borcun rehinle temin edilmediğini ve vadesinin geldiğini yaklaşık olarak mahkemeye kanaat getirecek tarzda ispat etmek durumundadır. İhtiyati hacze itiraz ise İİK'nın 265. maddesinde düzenlenmiş olup; madde hükmüne göre "borçlu kendisi dinlenmeden verilen ihtiyatî haczin dayandığı sebeplere, mahkemenin yetkisine ve teminata karşı; huzuriyle yapılan hacizlerde haczin tatbiki, aksi hâlde haciz tutanağının kendisine tebliği tarihinden itibaren yedi gün içinde mahkemeye müracaatla itiraz edebilir.
@@ -41,6 +47,8 @@ Mahkeme, gösterilen sebeplere hasren tetkikat yaparak itirazı kabul veya redde
 İş dosyasın 50.000-USD bedelli üzerinde "teminat içindir" yazan senet nedeniyle yapılan ihtiyati haciz başvurusu red edilmiş, 31.1.2022 vade tarihinden itibaren, 30.10.2022 tarihli sıralı senetler ile birlikte toplam bedeli 40.000-USD bedelli senetler için ihtiyati haciz kararı verilmiştir. İhtiyati haciz talebinin reddi halinde bu karara karşı istinaf kanun yolu açıktır. İstanbul Anadolu 9.ATM nin red kararı kanun yoluna başvurularak kaldırılması mümkün iken,kanun yoluna başvurulmadığı akabinde, yeniden bir başka mahkemede ihtiyati haciz kararı talep edilmesi hukuki güvenlik ilkesini ihlal edici nitelikte bulunmuştur.Bu sebeble 50.000-usd bedelli senet için itirazın kabulü gerekirken ,tüm senetler için verilen ihtiyati haciz kararına itirazın reddine karar verilmesi yerinde bulunmamış,50.000-usd senet nedeniyle verilen ihtiyati haciz kararına itirazın kabulüne bu senet için verilen ihtiyati haciz kararının kaldırılmasına, (3x4.000-)12.000-usd senet için ihtiyati haciz kararına itirazın reddine karar verilmiştir.
 
 ## İstanbul BAM 14. HD 2023/1083 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/906422500)
 
 Dava, 10.01.2023 tarihli ve 2023/2 sayılı yönetim kurulunda alınan 1 numaralı kararının TTK'nın 391. maddesi uyarınca batıl olduğunun tespiti ve pay defterinin buna göre düzeltilmesi istemine; ihtiyati tedbir, talebi ise bu yönetim kurulu kararının icrasının tedbiren geri bırakılması istemine ilişkindir. İlk derece mahkemesince yapılan yargılama sırasında davacının ihtiyati tedbir talebinin reddine dair ara karar verilmiş; bu ara karara karşı, ihtiyati tedbir talep eden davacı vekili tarafından, yasal süresi içinde istinaf kanun yoluna başvurulmuştur. İstinaf incelemesi, HMK'nın 355. maddesi uyarınca, ileri sürülen istinaf başvuru nedenleriyle ve kamu düzenine aykırılık yönleriyle sınırlı olarak yapılmıştır. Dava konusu edilen 10.01.2023 tarihli ve ... numaralı davalı şirketin yönetim kurulu kararının gündemi, şirket ortağı ...'nun vefatı nedeniyle hisse geçiş onayı olup alınan karar ile vefat eden paydaş ...'nun şirkette bulunan B-C-D-E grubu 2.040 adet hisseye karşılık 204.000,00 TL sermaye tutarının, Beyoğlu ...
 Noterliğinde düzenlenen 26.12.2022 tarihli, ... yevmiye numaralı mirasçılık belgesi ile 510 hisseye karşılık 51.000,00 TL'sinin ...'na, 510 hisseye karşılık 51.000,00 TL'sinin ...'na, 510 hisseye karşılık 51.000,00 TL'sinin ...'na, 510 hisseye karşılık 51.000,00 TL'sinin davacı ...'na intikal ettiğinden bahisle, mirasçıların hisseleri oranında şirkete ortak olmalarına ve yeni hisse durumunun mirasçıların şirketteki pay bütünlükleri dikkate alınarak pay defterine işlenmesine, onay işleminin mülkiyetin teyidi ve oy hakkının geçişinin tespitini içermesine, yönetim kurulu üyesi ...'nun olumsuz oyuna karşı oyçokluğu ile karar verildiği görülmektedir. Yönetim kurulu kararlarının butlanı hâlleri, sınırlı sayı ilkesine tabi olmamak üzere düzenlemiş olup TTK'nın 391.maddesinde, yönetim kurulu kararlarının butlanına yol açacak hukuka aykırılıklar örnekleme yoluyla belirlenmiştir.
@@ -53,6 +61,8 @@ Hukuk Dairesinin 28.04.2022 tarih ve 2021/6102 Esas- 2022/3535 Karar sayılı, 1
 
 ## İstanbul BAM 45. HD 2023/877 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/912278100)
+
 Mahkemenin 10/01/2023 tarihli tensip ara kararı ile "...davacının kooperatif üyeliğini hak kazanıp kazanmadığı, yargılama sonucu belirlenebileceği, bu aşamada ibraz edilen belgelerin niteliği ve dosya kapsamına göre, yaklaşık ispat koşulu gerçekleşmediği gibi, davacı açısından telafisi güç veya imkansız zararlara yol açma ihtimali bulunmadığı, aynı zamanda tedbir talep edilen taşınmazlar uyuşmazlığın konusunu oluşturmadığından HMK'nın 389 vd. maddelerinde ön görülen koşullar oluşmadığından ihtiyati tedbir konulması talebinin HMK 389/1 gereği uyuşmazlık konusu olmadığından reddine " karar verilmiştir.Verilen ara karara karşı davacılar vekili tarafından dava dilekçesindeki nedenler tekrarlanarak istinaf yasa yoluna başvurulmuştur.Dava, kooperatif üyeliğin tespiti istemine ilişkin olup, uyuşmazlık; kooperatifin tasfiyesinin tedbiren durdurulması ve banka hesapları ile taşınır ve taşınmaz tüm mal varlıkları üzerine ihtiyati tedbir konulması istemine ilişkindir.
 6100 Sayılı HMK'unu 390. maddesi uyarınca "tedbir talep eden taraf dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorundadır. 6100 Sayılı HMK'nun 389. maddesi "Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir." şeklinde düzenlenmiştir. Bu hüküm dikkate alındığında, mevcut durumun değişmesi hâlinde, hakkın elde edilmesinin önemli ölçüde zorlaşması, hakkın elde edilmesinin tamamen imkânsız hâle gelmesi, gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğması tehlikesi varsa, ihtiyati tedbir sebebi var kabul edilecektir. Hâkim kararında somut sebep gösteremiyor, bunu en azından açıklayacak veya asgari ölçüde ikna edecek delil değerlendirmesi yapamıyor, yaklaşık ispat ölçüsünü yakalayamıyorsa tedbire karar vermemelidir.
 
@@ -62,12 +72,16 @@ Sonuç olarak, mahkemece verilen ara karar usul ve yasaya uygun bulunduğundan i
 
 ## İstanbul BAM 12. HD 2023/478 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881501800)
+
 …
 
 : Talep, TTK'nın 391. maddesi uyarınca açılan davalı şirketin 10.01.2023 tarihli yönetim kurulu kararının batıl olduğunun tespiti davasında, söz konusu kararın yürütülmesinin geri bırakılmasına ilişkin ihtiyati tedbir istemidir Olaya uygulanması gereken TTK'nın 449. maddesi ''Genel kurul kararı aleyhine iptal veya butlan davası açıldığı taktirde mahkeme, YK üyelerinin görüşünü aldıktan sonra, dava konusu kararın yürütülmesinin geri bırakılmasına karar verebilir'' hükmünü içermektedir. Anılan maddede hangi hallerde geçici hukuki koruma kararı verileceği özel olarak düzenlenmediğinden, tamamlayıcı yorum kuralı olarak HMK'nın ihtiyati tedbire ilişkin hükümlerinden yararlanılabilir. HMK'nın 389. maddesi, "Mevcut durumda meydana gelebilecek bir değişme sebebiyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkansız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. "şeklindedir.
 HMK'nın 390/3 maddesi ise, ''Tedbir talep eden taraf, dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorundadır'' düzenlemesini içermektedir. Somut olayda; davalı şirketin sermayesi toplam 5.000 paya bölünmüş olup, murisin 800 paya sahip olduğu, davacı ile diğer mirasçıların, miras payı haricinde her biri 800 adet pay olmak üzere halihazırda davalı şirkette ortak oldukları, bu nedenle salt muristen intikal eden 200'er pay nedeniyle hakkın elde edilmesinin zorlaşacağı veya imkansız hale geleceğinden söz edilmeyeceği, bu durumda iptali istenen yönetim kurulu kararının icrasının durdurulmaması halinde, telafisi imkansız zarara neden olabileceği yönünde bir sonuca da ulaşılamayacağı kanaatine varılmıştır.
 
 ## İstanbul BAM 12. HD 2022/1606 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/826921600)
 
 …
 
@@ -83,13 +97,19 @@ Miras bırakan 29.01.2022 tarihinde vefat etmiş, dayanak bono 13.01.2022 tarihi
 
 ## Bursa BAM 5. HD 2022/925 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/809896300)
+
 07/12//2021 tarihli ara karar ile ; Mahkemece ;Dava dışı CNR DİAMOND OTOMOTİV GIDA SAN. VE TİC. LTD. ŞTİ. İle KAROS GIDA MOTORLU ARAÇLAR ELEKTRİK SANAYİ VE TİC. LTD. ŞTİ.’ne ait malvarlığı üzerine ihtiyati haciz konulması isteminin bu aşamada davanın tarafı olmayıp, hakkında yeterli kanaat oluşmadığından ve dava dışı tüzel kişi şirketler hakkında ihtiyati haciz kararı verilemeyeceğinden reddine, Ölü davalı ... mirasçısı olup mirası reddetmediği anlaşılan ... hakkında yürütülen iş bu dava nedeniyle ihtiyati haciz işleminin İİK'nun 257/1 maddesi uyarınca kabulü ile dosya içeriğine yatırılan teminat karşılığı (Vakıfbank Bursa Organize Sanayi şubesine ait 24/09/2019 tarihli 480.000,00.-TL bedelli teminat mektubu) davalı borçlu ...'nın 3.200.000,00.-TL menkul ve gayrimenkul malları ile ile 3.kişilerdeki hak ve alacakları üzerine İHTİYATİ HACİZ KONULMASINA, karar verildiği anlaşılmıştır.
 
 ## Gaziantep BAM 17. HD 2022/880 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760134600)
+
 İhtiyati haciz kararları esas hakkında kesin bir kanaat oluşmadan ve tam bir ispat aranmadan verilen geçici nitelikte hukuki korumaya ilişkin kararlardır. İİK'nun 257 ve devamı maddelerindeki düzenlemeler nazara alındığında, haksız fiil tarihinde zararın meydana geldiği ve alacağın muaccel olduğu, her ne kadar manevi tazminat miktarının taktiri yargılamayı gerektiyor ise de, dosya içerisinde bulunan bilgi ve belgelerle, ihtiyati haciz isteyen davacıların murisinin trafik kazası sonucu vefat ettiği, kaza tespit tutanağına göre her iki tarafa da kusur verildiği TBK 117/2 maddesine göre haksız fiilin meydana gelmesi ile tazminat yükümlülüğünün muaccel hale geleceğinin belirtildiği için İİK'nın 257/1. maddesi kapsamında yasal şartların oluştuğu anlaşılmıştır.
 
 ## İstanbul BAM 43. HD 2022/462 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/751529300)
 
 …
 
@@ -104,16 +124,22 @@ Güvence Hesabı, Yönetmeliğinin 16.maddesi uyarınca yapılan ödemeler neden
 
 ## İstanbul BAM 14. HD 2022/66 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723442600)
+
 Asıl dava, davacıya miras yoluyla intikal eden davalı şirket hisselerinin satın alınmasına ilişkin davalı şirket yönetim kurulu kararının batıl olduğunun tespiti ile mirasen intikal eden 9 payın pay defterine tescili ve bu 9 pay için de davacının şirket genel kurullarında oy kullanması için ihtiyati tedbir kararı verilmesi talebine; karşı dava ise TTK'nın 493/6. maddesi kapsamında asıl davada davacı- karşı davada davalı şirketin davacıya miras kalan şirket paylarını devralma önerisinin davacı tarafından kabul edilmiş sayıldığının tespitine karar verilmesi talebine ilişkindir. İlk derece mahkemesince yapılan yargılama sırasında verilen ara kararla, davacının ihtiyati tedbir talebinin reddine karar verilmiş; bu ara karara karşı, asıl davada davacı vekilince istinaf başvurusunda bulunulmuştur. İstinaf incelemesi, HMK'nın 355. maddesi uyarınca, ileri sürülmüş olan istinaf nedenleriyle ve kamu düzenine aykırılık yönüyle sınırlı olarak yapılmıştır.
 Öncelikle davacı vekilince yönetim kurulu kararının batıl olup, iptali istemli davanın tek hakimce görülemeyeceği, dolayısıyla tek hakim tarafından ihtiyati tedbir kararının değerlendirilerek reddine karar verilmesinin 6545 sayılı yasa hükümlerine aykırı olduğu ileri sürülerek karar istinaf edilmiştir. Söz konusu Yasa'nın 45. maddesindeki düzenleme uyarınca, yönetim kurulu kararının geçersizliğinin tespitine ilişkin davaların heyetçe karara bağlanması gereken davalardan olmadığı anlaşıldığından, davacı vekilinin bu yöndeki istinafı yerinde değildir. HMK'nın 389. Maddesi uyarınca, "Mevcut durumda meydana gelebilecek bir değişme sebebiyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkansız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde uyuşmazlık konusu hakkında ihtiyat tedbir kararı verilebilir ". Aynı yasanın 390/3 maddesi,'' Tedbir talep eden taraf, dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkca belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorundadır'' düzenlemesini içermektedir.
 Yine davada esas hükümle elde edilebilecek sonucu yaratacak şekilde yani davanın esasını çözer şekilde ihtiyati tedbir kararı da verilemeyecektir. Dosya kapsamına göre, asıl davada davacının dava dilekçesindeki iddiaları ve davalının cevap ve karşı dava dilekçesi hep birlikte gözetildiğinde, davacı talebinin yargılamayı gerektirdiği, ihtiyati tedbirin şartlarından olan yaklaşık ispat koşulunun ara karar tarihi itibariyle gerçekleşmemiş olduğu kanaatine varıldığından, ilk derece mahkemesince tedbir talebinin reddinde isabetsizlik görülmemiştir. Kaldı ki yargılamanın her aşamasında, değişen delil durumu itibariyle, talep halinde mahkemece her zaman geçici hukuki koruma talepleri hakkında yeniden karar verilmesi mümkündür. Bu nedenle ilk derece mahkemesinin karar ve gerekçesinde yasa ve usule aykırılık bulunmadığı gibi, kamu düzenine aykırılık da görülmediğinden, asıl davada davacı vekilinin istinaf başvurusunun HMK'nın 353/1.b.1 ve 391/3. maddeleri uyarınca esastan reddine dair aşağıdaki karar verilmiştir.
 
 ## İstanbul BAM 44. HD 2021/1692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/722509400)
+
 Asliye Ticaret Mahkemesinin 2013/247 E. 2018/1387 K. 26/12/2018 tarihli kararının istinaf incelemesi sonucunda kaldırılarak, yeniden yapılacak yargılama sonucunda davanın kabulüne, ihtiyati tedbir kararı kaldırıldığından dosya borcunu ödemek zorunda kalan müvekkili açısından davanın İstirdat davasına dönüştürülmesine, davalılara 30/01/2014 tarihinde ödenen 44.658,00TL ile 23/01/2019 tarihinde ödenen 379.736,49 TL'nin ödeme tarihlerinden itibaren işletilecek faizle birlikte davalılardan istirdatına davalıların kötüniyetli hareket ederek müvekkillerinin mağduriyetine neden olduğundan haklarında %20’den az olmamak üzere kötüniyet tazminatına hükmedilmesine, tüm yargılama giderleri ve vekalet ücretinin de davalılara yükletilmesine karar verilmesini talep etmiştir. İnceleme, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 355. maddesi hükmü uyarınca istinaf dilekçelerinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır. Dava, İstanbul ... İcra Müdürlüğünün ...
 E. sayılı takip dosyasına dayanak yapılan 75.000-USD tutarındaki bonodaki imzanın davacıların murisi ...'nun eli ürünü olmadığı iddiası ile davalılar aleyhine açılan borçlu olmadığının tespiti istemine ilişkindir.
 
 ## İstanbul BAM 14. HD 2021/1284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696542800)
 
 Talep , davacıların murisine ait davalı şirketteki 2018-2019 yılı kar payının tahsili, davalı ortağa yapıldığı iddia edilen haksız ödemelerin tespiti ile buna göre kar payı hesaplanarak tahsili, murisin şirketten olan alacaklarının tespiti ile tahsili, şirketin üçüncü kişilere kiralanan taşınmazlarının 2019 yılı kira bedellerinin murisin hissesi oranında tespiti ile tahsili, 02/05/2018 tarihli hisse devri bedelinin ödenmediği iddiasıyla tahsili, 02/12/2018 tarihli hisse devrinin devredenin fiil ehliyetinin bulunmadığı iddiasıyla hisse devrinin yoklukla ve mutlak butlanla malul olduğunun tespiti ile mirasçılar adına miras payları oranında pay defterine kaydedilmesi istemine ilişkin açılan esas dava içinde talep edilen ihtiyati tedbir isteminin reddine dair kararın istinafına ilişkindir. İstinaf incelemesi HMK 355 maddesi uyarınca istinaf başvuru nedenleri ve kamu düzenine aykırılık yönüyle sınırlı olarak yapılmıştır. İlk derce mahkemesi kararında da işaret edildiği üzere, HMK 389/2 maddesi uyarınca uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. Davacılar tarafından davalılar aleyhine açılan eldeki davada davalı ...
 A.Ş ve davalı ... adına kayıtlı taşınmaz ve araçlar hakkında tedbir kararı verilmesi talep edilmiş, mahkemece talep konusu taşınmaz ve araçların davanın konusu olmadığı, uyuşmazlık konusu hakkında tedbir kararı verilebileceği gerekçesiyle talebin reddine karar verildiği anlaşılmıştır. Davacılar vekilince davadaki taleplerinden birinin de 02.12.2018 tarihli hisse devrinin hile ve sahtecilikle icra edilmesi nedeniyle geçersiz olup, muris hisselerinin müvekkillerine muris payları çerçevesinde iadesi istemine ilişkindir. Buna göre davanın konusu murisin davalıya devrettiği hisseler olup, davalı şirket ve davalı gerçek kişinin mal varlığı dava konusu değildir. Davadaki diğer talepler olan para alacakları için zaten ihtiyati tedbir istenemez. Koşulları oluşursa ihtiyati haciz talep edilebilir. Bu açıklamalara göre ilk derece mahkemesi karar ve gerekçesi isabetli olup, davacı vekilinin istinaf başvurusunun HMK 353/1-b1 maddesi uyarınca esastan reddine dair aşağıdaki hüküm kurulmuştur.

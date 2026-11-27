@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2022/721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785376400)
+
 Davacı vekili 15/08/2017 tarihli dava dilekçesinde; müvekkili şirketin "..." logolu derginin yayın hakları sahibi, davalı şirketin ise derginin 2015 yılı Eylül sayısında reklamı yayınlanan firma olduğunu, tarafların reklam yayınlanması hususunda anlaştıklarını gösterir ordinolar ve yayınlanan reklama ilişkin görsellerin sunulduğunu, davalı borçlunun tahakkuk eden borçları için 31/07/2017 tarihli KDV dahil 21.010,29 TL bedelli fatura tanzim edildiğini,... Kargo aracılığıyla 14/02/2017 tarihinde davalıya tebliğ edildiğini, davalının faturaya sekiz gün içerisinde itiraz etmediğini ve fatura içeriğini kabul ettiğini, taraflar arasındaki reklam anlaşmasına istinaden de davalı tarafça müvekkiline toplamda 25/03/2016 ve 06/05/2016 tarihlerinde olmak üzere 60.000,00 TL ödeme yapıldığını, alacağın tahsili amacıyla Küçükçekmece 1. İcra Müdürlüğünün ....
 
 …
@@ -65,6 +67,8 @@ Dosyanın içerisinde bulunan Konya .... İcra Müdürlüğü'nün .... Esas say
 
 ## Ankara BAM 22. HD 2022/365 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/742422200)
+
 Davalı cevap vermemiştir.
 
 …
@@ -82,6 +86,8 @@ Esas sayılı dosyasından infaz edildiği, borçlu hakkında icra takibi başla
 
 ## İstanbul BAM 14. HD 2022/190 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/735136400)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda; davacı tarafından davalı aleyhine başlatılan ilamsız takipte davalıya ödeme emri tebliğ edilmediği, borçlunun 15.08.2018 tarihinde takibe itirazda bulunduğu, itirazın ödeme emri tebliğinden itibaren 7 günlük süre içinde yapılması gerektiği, ödeme emri henüz tebliği edilmeden itiraz süresi başlamayacağından, takip borçlusunun icra takibine itirazının usule uygun yapılmış itiraz kabul edilemeyeceği gerekçesiyle davanın usulden reddine karar verilmiştir. Bu karara karşı, davacı vekilince istinaf başvurusunda bulunulmuştur.
 
 …
@@ -94,6 +100,8 @@ KARAR: Yukarıda açıklanan gerekçelerle; 1-HMK'nın 353/1.a.4 maddesi uyarın
 
 ## Samsun BAM 3. HD 2022/108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728397100)
+
 Davalı vekili cevap dilekçesinde özetle; olayın 15/01/2014 tarihinde meydana geldiğini, davanın 15/09/2015 tarihinde ikame edildiğini, CMR m.32 gereği zamanaşımı süresinin 1 yıl olduğunu ve sürenin dolduğunu davanın zamanaşımı süresi dolduğu için reddi gerektiğini. Olayın gerçekleşmesinde müvekkilinin ve şoförün kusurunun bulunmadığını, sönmemiş izmarit veya ateş kaynaklı yangın çıktığını, TTK m.876 ve CMR m.17/2 gereği müvekkilinin sorumluluğu bulunmadığını, davacının taraf sıfatını ıspatlaması gerektiğini, faizin yıllık %5 olması ve bildirimden itibaren başlatılması gerektiğini belirterek davanın reddini talep ettiği anlaşılmıştır.
 
 …
@@ -102,6 +110,8 @@ Dosyanın tetkikinde davacının dava dışı sigortalısına ödemiş olduğu t
 karşısında davacının davasının reddine karar verilerek aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 12. HD 2021/1978 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723215600)
 
 İLK DERECE MAHKEMESİ KARARI: Mahkemece, ihtiyati haczin dayanağının taraflar arasındaki genel kredi sözleşmesi ve kefalet sözleşmeleri olduğu, talep eden banka tarafından kat ihtarının usulüne uygun tebliğ edildiği ve bu haliyle alacağın aleyhinde ihtiyati haciz kararı verilen davalı ... yönünden muaccel olduğu, ihtiyati haciz kararı verilmesine engel bir neden olmadığı ve ihtiyati haciz kararının yasada belirtilen koşullara uygun olduğu gerekçesiyle ihtiyati hacze itirazın reddine karar verilmiştir.
 
@@ -115,6 +125,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle: İhtiyati hacze itiraz eden davalı ve
 
 ## İzmir BAM 17. HD 2021/1859 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/734070600)
+
 Dava; işletmenin devri ve kiralama sözleşmesinden doğan alacağın tahsiline ilişkin başlatılan iflas takibine yapılan itirazın kaldırılması ile davalının iflasına karar verilmesi istemine ilişkin olduğu, yapılan yargılama, toplanan kanıtlar ve tüm dosya kapsamından anlaşılacağı üzere, her ne kadar davalı borçlu tarafça, davacı alacaklının İzmir 13. İcra Müdürlüğü'nün 2020/5702 Esas sayılı takip dosyasında başlatılan iflas yolu ile adi takipte ödeme emrinde talep edilen alacağa ve takibe sebep göstermeksizin süresinde itiraz etmiş ise de, mahkememizce tarafların sunduğu kanıtlar ve tarafların defter ve kayıtları üzerinde yapılan SMMM incelemesi sonucu düzenlenen rapor içeriğine göre, davalı borçlunun takibe konu alacağı ve takibe itirazında haksız olduğu kanaatine varılmış ise de, davalı borçlunun, yargılama sürecinde yürürlüğe giren 7256 sayılı Bazı Alacakların Yeniden Yapılandırılması İle Bazı Kanunlarda Değişiklik Yapılması Hakkındaki Kanunun 4.
 Maddesinin 9. fıkrası gereğince, borcun yapılandırılmasına ilişkin davacı belediyeye müracaatta bulunduğu, müracaat üzerine davalı borçlunun, borçlunun borcunun yapılandırıldığı ve iş bu nedenle davanın konusuz kaldığı anlaşılmakla, davanın konusuz kalması nedeniyle esas hakkında hüküm kurulmasına yer olmadığına karar verilmiştir …
 
@@ -123,6 +135,8 @@ Maddesinin 9. fıkrası gereğince, borcun yapılandırılmasına ilişkin davac
 İzmir 2. Asliye Ticaret Mahkemesinin 14/04/2021 tarihli, 2020/356 esas ve 2021/389 karar sayılı kararına karşı davacı vekilinin istinaf başvuru sebeplerinin HMK 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 12. HD 2021/1485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/689960700)
 
 İLK DERECE MAHKEMESİ KARARI: Mahkemece; bilirkişi kök ve ek raporu gereğince davanın kabulü ile davalıların İstanbul ... İcra Dairesinin ... esas sayılı takip dosyasına konu itirazlarının nakti krediden kaynaklanan 381,12 -TL asıl alacak bakımından iptali ile takibin işletilecek %44 faizi ve %5 gider vergisi bakımından devamına,davalı şirketin gayrinakti alacağa ilişkin itirazının 2.713,48-TL bakımından iptali ile takibin devamına, fazlaya ilişkin kısım bakımından teminat mektuplarının iade edildiği beyan edildiğinden konusuz kalan davada karar verilmesine yer olmadığına, davalı ...'in gayrinakti kredilere yönelik sorumluluğuna ilişkin açık hüküm bulunmadığından reddine karar verilmiştir.
 
@@ -164,6 +178,8 @@ Ankara 19,İcra Müdürlüğünün ....sayılı takip dosyasında, davacı taraf
 tarihinden sonra 25/07/2014 tarihli ihtarnamenin davacı tarafından davalıya keşide edildiği, buna göre takip tarihinden evvel davalının temerrüde düşürülmediğinden işlemiş faiz talebinin yerinde olmadığı, itirazın iptali davası, takip hukukuna özgü ve takipteki taleplerle bağlı kalınarak görülen bir dava olmakla, faizin türüne yönelik ıslah talebinin kabulünün mümkün olmadığı hususları belirgindir.
 
 ## İstanbul BAM 17. HD 2021/845 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670149700)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece, davalı şirketin mal teslimi karşılığı 71.000 USD borcunu fazlası ile ödediğini savunduğu, ancak dayandığı tahsilat makbuzundaki imzanın davacı şirket yetkilisine ait olmadığı, anılan bedelin havale edildiği ... davacı şirket çalışanı ise de, şahsın şirketi temsile yetkili olmadığı, tacir olan davalı şirketin basiretli hareket ederek parayı davacı şirket hesabına göndermesi gerekirken, şirketi temsile yetkili olmayan şahsa gönderdiği, adı geçen şahsın da paranın çekilmesinden bir gün sonra işten ayrıldığı, bu nedenle ödeme savunmasının yerinde olmadığı, davacının iflas avansını yatırdığı, itirazın kaldırılmasına karar verilerek ilanların yapıldığı, davalıya usule uygun ödeme emri tebliğine rağmen borcun ödenmediği gerekçesiyle davalının takibe itirazının kaldırılmasına ve iflasına karar verilmiştir.
 

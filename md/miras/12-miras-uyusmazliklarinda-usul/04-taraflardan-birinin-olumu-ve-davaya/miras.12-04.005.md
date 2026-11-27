@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Erzurum BAM 3. HD 2024/1972 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162829400)
+
 Bu durumda davanın başından bu yana usulüne uygun bir yargılama yapıldığından bahsedilmeyeceğinden 6100 sayılı HMK 55. maddesinde dava sırasında taraflardan birinin ölümü halinde izlenecek yol belirlenmiş olup anılan hüküm çerçevesinde davacı ...'nın mirasçılık belgesinin getirtilmesi ve mirasçılarına usulüne uygun tebligat yapılması, mirası reddetmeyen mirasçıların mecburi dava arkadaşı olarak yöntemince davaya katılımının sağlanması, mirasçılar davayı birlikte takip etmekten kaçınırlarsa terekeye temsilci tayin ettirmek suretiyle taraf teşkili sağlanması ve hasıl olacak sonuca göre esas hakkında bir karar verilmesi gerekirken dava şartı eksikliği giderilmeksizin yazılı şekilde hüküm tesisi usul ve kanuna aykırı olup kararın bu nedenle 6100 sayılı HMK 353-(1)/a-4 maddesince resen kaldırılması gerekmiştir.
 
 ## İzmir BAM 20. HD 2024/459 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1009527900)
 
 Dava, trafik kazasından kaynaklanan hasar bedeli ve değer kaybı tazminatının, kazaya karışan aracın zorunlu trafik sigortacısından tahsili istemine ilişkindir.
 
@@ -35,6 +39,8 @@ Somut olaya gelince, istinaf aşamasında yapılan inceleme sırasında UYAP ort
 
 ## İzmir BAM 11. HD 2024/318 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998841000)
+
 Dava, bono nedeni ile borçlu olmadığının tespiti istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın reddine karar verilmiştir.
 
 …
@@ -45,12 +51,16 @@ Açıklanan tüm bu hukuki ve maddi vakıalar karşısında; İDM tarafından ö
 
 ## İstanbul BAM 44. HD 2023/1357 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/962861200)
+
 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) 50. ve 51. maddelerinde düzenlenen taraf ve dava ehliyeti aynı Kanun’un “Dava şartları” başlıklı 114/1-d maddesinde, dava şartı olarak kabul edilmiş, 115/1. maddesinde ise dava şartlarının kamu düzeninden olduğu mahkemece davanın her aşamasında ve kendiliğinden gözetilmesi gerektiği, tarafların da dava şartı noksanlığını her zaman ileri sürebileceği düzenlemesine yer verilmiştir. Yargılama süresince tarafların dava ve taraf ehliyetine sahip bulunması dava şartıdır.Her gerçek kişi, yaşadığı sürece taraf ehliyetine sahiptir. Dava devam ederken taraflardan birinin ölmesi halinde, ölen kişinin taraf ehliyeti son bulur. (TMK.'nun 28/I. Maddesi). Genel olarak miras bırakanın alacakları, hakları ve malları mirasçıya geçer. Bu nedenle dava sırasında taraflardan birisi ölürse, mirasçıları da ilgilendiren, mirasçıların malvarlığı haklarını etkileyen davalar, tarafın ölümü ile konusuz kalmaz.
 İstek şahsa bağlı bir hak değilse dava mirasçılar tarafından yürütülür.6100 sayılı HMK’nin 55. maddesine göre “Taraflardan birinin ölümü hâlinde, mirasçılar mirası kabul veya reddetmemişse, bu hususta kanunla belirlenen süreler geçinceye kadar dava ertelenir. Bununla beraber hâkim, gecikmesinde sakınca bulunan hâllerde, talep üzerine davayı takip için kayyım atanmasına karar verebilir” hükmüne yer verilmiştir. Bu hüküm mirasçıların malvarlığını etkileyen davalarda dikkate alınmalıdır.Davalı yargılama esnasında öldüğünden HMK’nın 55. maddesi gereği mirasçılarının davaya dahili ile davanın mirasçılar huzurunda görülmesi zorunludur. Çünkü TMK’nin 599/1. maddesi gereği “Mirasçılar, mirasbırakanın ölümü ile mirası bir bütün olarak, kanun gereğince kazanırlar.” Yani, külli intikal de denilen ve yalnız kanun ile öngörülebilen terekeye ait bu kurala göre, mirasbırakanın terekesindeki mirasçılara geçişi mümkün olan hak ve borçları bir bütün olarak kendiliğinden mirasçılara intikal eder.
 
 Bu nedenle murisin mirasçılarının davaya dahili ile yargılamaya devam edilmesi gerekir.Sonuç olarak, ölü kişi hakkında hüküm kurulması ve kabule göre deliller değerlendirilmeksizin yasal ve yeterli gerekçe gösterilmeden karar verilmesi hukuka aykırı olup, esasa ilişkin istinaf sebepleri incelenmeksizin yargılamaya devam olunabilmesi için taraf teşkilinin sağlanması gerektiğinden istinaf başvurusunun kabulüne karar verilmesi gerektiği sonucuna varılmıştır. İstinaf başvurusunun esasa ilişkin hususlar incelenmeksizin kabulüne, kararın HMK 353/1-a-4 maddesi gereğince kaldırılmasına, davanın yeniden görülmesi için dosyanın kararı veren mahkemeye gönderilmesi gerektiği kanaat ve sonucuna varılarak aşağıdaki hüküm kurulmuştur.
 
 ## İzmir BAM 11. HD 2023/1159 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/932765200)
 
 Dava, ZMMS poliçesi kapsamında maddi tazminat istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın açılmamış sayılmasına karar verilmiştir.
 
@@ -59,6 +69,8 @@ Dava, ZMMS poliçesi kapsamında maddi tazminat istemine ilişkin olup, ilk dere
 Türk Medeni Kanununun 28. maddesinde, gerçek kişinin ölümüyle medeni haklardan yararlanma ehliyeti ve buna bağlı olarak da taraf ehliyetinin sona ereceği belirtilmiştir. Dava tarihinden önce ölüm nedeniyle şahsiyeti son bulan kişi taraf ehliyetini yitirir. Diğer yandan 6098 sayılı Türk Borçlar Kanunu’nun 513. maddesi gereğince,ölüm ile vekalet ilişkisi son bulacağından ölen kişi adına davaya devam da edilemez. Kural olarak vekalet sözleşmesi, vekilin veya vekalet verenin ölümü ile kendiliğinden sona erer. Vekilin davaya devam etmesi mümkün olmayıp sadece bu kişinin mirasçıları tarafından davaya devam edilebilir.
 
 ## İstanbul BAM 9. HD 2023/938 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898629500)
 
 Dava, yaralamalı trafik kazası nedeniyle maddi ve manevi tazminat istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355.
 
@@ -69,6 +81,8 @@ Taş. San. Tic. Ltd. Şti. vekilinin bu yöne değinen istinaf talebi yerindedir
 
 ## Gaziantep BAM 17. HD 2023/687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905766200)
+
 Dava, sürekli maluliyetten kaynaklanan maddi tazminat davasıdır.
 
 …
@@ -76,6 +90,8 @@ Dava, sürekli maluliyetten kaynaklanan maddi tazminat davasıdır.
 Buna göre davacının istinaf aşamasında öldüğü anlaşıldığından, davacının mirasçılarının davaya devam edip etmeyecekleri belirlenip, fiili duruma (davacının ölüm tarihi baz alınarak gerçek zararın hesaplanması için ek rapor alınması) göre yeniden karar verilmesi gerektiği anlaşılmakla kararın kaldırılmasına karar vermek gerekmiştir. Y.4.HD'nin 26.09.2022 T. 2022/3492 -10836 E.K.)
 
 ## İstanbul BAM 43. HD 2022/1063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/820148400)
 
 Dava, genel kredi sözleşmesinden kaynaklanan alacağın tahsili amacıyla başlatılan ilamsız icra takibine vaki itirazın iptali davasıdır.
 
@@ -85,6 +101,8 @@ Borçlu aleyhine başlatılan takipte borçlunun takip tarihinden önce öldüğ
 Şu halde davacı kendisinden beklenen tüm çaba, özen ve önlemlere rağmen davalının sağ olup olmadığını tespit edememiş ise, ya da tespit edememe durumu bir yanılgıya dayanıyor ve bu durum açıkça dürüstlük kuralına aykırılık arz etmiyorsa, bu dava ilişkisinde, daha sonra da kendilerine karşı dava açılması muhtemel olan mirasçılara, yani gerçek taraflara karşı davaya devam edilmesi mümkün olmalıdır. (HGK'nin 11.09.2013 tarihli ve 2013/14-612 E. 2013/1297 K. Sayılı ilamı). Miras yoluyla intikali mümkün hakların konusunu oluşturduğu bir davada, davacının ölümü hâlinde HMK’nın 55. maddesi gereğince mahkemece, davacının mirasçılarının tamamı tespit edilerek davadan haberdar edilmeleri gerekir.
 
 ## İstanbul BAM 9. HD 2022/724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760482600)
 
 Dava, ölümlü trafik kazası nedeniyle destekten yoksun kalma tazminatı istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355.
 
@@ -98,10 +116,14 @@ Bununla beraber hakim, gecikmesinde sakınca bulunan hallerde, talep üzerine da
 
 ## İstanbul BAM 14. HD 2021/1707 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720304500)
+
 İstinaf incelemesi, HMK'nın 355. maddesi uyarınca, ileri sürülmüş olan istinaf nedenleriyle ve kamu düzenine aykırılık yönüyle sınırlı olarak yapılmıştır. Asıl davada davacı- karşı davada davalı ...'nun alınan nüfus kaydına göre 23.03.2019 tarihinde yargılama sürecinde vefat ettiği, mahkemece davacı karşı davalının vefat etmiş olmasına rağmen HMK'nın 55. maddesi uyarınca kanuni mirasçıları davaya dahil edilmeden yargılamaya devam edilerek, yargılamanın bitirildiği anlaşılmıştır. Davacı ...'nun ölmesi nedeniyle taraf ehliyeti kalmamıştır. Bu durumda ilk derece mahkemesince davacının mirasçıları tespit edilerek onların davaya dahil edilmesi ve bu şekilde taraf teşkili sağlanması gerekirken, HMK'nın 55. maddesi gözardı edilerek dosyanın karara bağlanması yerinde olmamıştır. Kaldı ki istinaf başvurusunda bulunan avukat ile asıl davada davacı - karşı davada davalı ... arasındaki vekalet ilişkisi de ölümle son bulmuştur. Dava devam ederken taraflardan birinin ölmesi halinde MK'nın 28/1.maddesi uyarınca ölen kişinin taraf ehliyeti son bulur. Bu durumda mirasçıları da ilgilendiren, mirasçıların mal varlığını etkileyen davalar tarafın ölümüyle konusuz kalmaz.
 Bu halde ölen tarafın mirasını reddetmeyen mirasçıların davayı mecburi dava arkadaşları olarak hep birlikte dava etmeleri gerekir. Yukarıda da değinildiği üzere davacı 23.03.2019 tarihinde ölmüştür. Dava konusu istek mal varlığına ilişkin olup mirasçıların mal varlığını etkilemektedir. Ölü kişi hakkında hüküm kurulamayacağından, mahkemece anılan usul hükümleri de dikkate alınarak mirası reddetmeyen mirasçıların davada yer almalarının sağlanması ve HMK'nın 77/1. maddesi uyarınca mirasçıların vekaletnamelerini sunmaları için vekile süre verilmesi gerekir. Yazılı şekilde dava sırasında ölen ve taraf ehliyeti son bulan davacı- karşı davalı hakkında hüküm kurulması hatalı olmuştur. Bu açıklamalar ışığında yukarıda değinilen yasa maddeleri gereğince, taraf teşkili sağlanarak sonuca göre karar verilmesi gerektiğinden, HMK'nın 353/1.a.4.maddesi uyarınca, ilk derece mahkemesi kararının kaldırılarak davanın yeniden görülmesi için dosyanın ilk derece mahkemesine gönderilmesine dair aşağıdaki karar verilmiştir.
 
 ## İstanbul BAM 8. HD 2021/952 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661137500)
 
 Asliye Tİcaret Mahkemesinin 2016/316 Esas sayılı dosyası içeriğine göre, davacıya sigorta şirketi tarafından 14/05/2015 tarihinde 24.055,54-TL tazminat ödendiğinin belirlendiği, bu ödeme gözetildiğinde davacı tarafın karşılanmamış bir alacağın kalmadığının kabul edilmesi gerektiğini, ayrıca davacı için iyileşme süresinin 9 ay olduğu kabul edilerek bu sürenin tamamı için bakıcı gideri hesaplaması yapılmış ise de, davacının bu süre içerisinde bakıcı yardımı aldığına dair hiçbir belge sunmadığı, bu durumda mevcut olmayan bir harcamanın vekil edenlerinden istenemeyeceği, kaldı ki iyileşme süresinin 9 ay olduğuna ilişkin belirlemenin de hatalı bulunduğu, davalı ... ile vekil edeni araç maliki arasında kasko sigortası sözleşmesi olduğu gözetildiğinde esasen manevi tazminata ilişkin taleplerin de davalı ... şirketince karşılanması gerektiği ve hüküm altına alınan manevi tazminat miktarlarının çok fazla olduğuna yöneliktir. Dava, trafik kazası sonucunda meydana gelen yaralanmaya dayanılarak açılmış, maddi ve manevi tazminat isteğine ilişkindir.
 İstinaf edenlerin sıfatı, istinaf nedenleri ile kamu düzenine ilişkin olup resen gözetilmesi gereken hususlara hasren yapılan inceleme ve değerlendirme sonucunda; 1-Yargılama süresince tarafların, taraf ve dava ehliyetine sahip bulunmaları gereği usul hukukunun temel ilkelerinden biri olup dava şartıdır.(HMK.m.114/1-d). Dava sırasında, taraflardan birinin ölümü halinde ölen tarafın, ehliyeti sona ereceğinden ölen kişinin davaya devam etmesi mümkün olmayıp, sadece bu kişinin mirasçıları tarafından (dava konusunun ölenin mal varlığına ilişkin olması ve dava sonucunda verilecek hükmün olumlu veya olumsuz bir şekilde mirasçıların haklarını etkilemesi durumunda) davaya devam edilebilir. Yani dava devam ederken, taraflardan birinin ölmesi halinde TMK'nun 28/1.maddesi uyarınca ölen kişinin taraf ehliyeti son bulur. Bu durumda mirasçıları ilgilendiren, mirasçıların mal varlığını etkileyen davalar bakımından, ölenin mirasını reddetmeyen mirasçılarının davayı mecburi dava arkadaşı olarak birlikte takip etmeleri gerekir.
@@ -110,6 +132,8 @@ Somut olaya dönüldüğünde; dava devam ederken davacı ...'ın, 24/11/2017 ta
 2- Görülmekte olan davanın yargılaması sırasında; davalı ... şirketi vekili talep konusu kazanın ... plaka sayılı ticari minibüsün taşıma işini yaptığı sırada meydana geldiğini ve davacının yolcu konumunda olduğunu belirterek, söz konusu aracın Karayolu Taşımacılığı Mali Sorumluluk Sigorta poliçesi yaptırması gerekli araçlardan olduğunu, bu nedenle talebin öncelikle bu sigorta kolundan karşılanması gerektiğini savunmuştur. Zorunlu Karayolu Taşımacılık Mali Sorumluluk Sigortası 4925 Sayılı Karayolu Taşıma Kanunu'nun "Sorumluluk ve Sigorta" başlıklı bölümünde düzenlenmiş olup, Kanun'un 17. maddesinde "Şehirler arası ve uluslararası yolcu taşımacıları duraklamalar dahil olmak üzere kalkış noktasından varış noktasına kadar geçecek süre içerisinde meydana gelecek bir kaza nedeniyle yolcunun ölümü, yaralanması ya da eşyanın zarara uğramasından dolayı sorumludur" düzenlemesi yapıldıktan sonra 18. maddesinde de "Taşımacılar, yolcuya gelebilecek bedeni zararlar için bu Kanunun 17. maddesinden doğan sorumluluklarını sigorta ettirmek zorundadırlar" düzenlemesine yer verilmiştir.
 
 ## İstanbul BAM 8. HD 2021/732 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651066500)
 
 Dava, trafik kazası nedeniyle maddi tazminat istemine ilişkindir.
 
@@ -132,6 +156,8 @@ Somut olayda, davalı ..............’un karardan sonra 09.06.2020 tarihinde ve
 
 ## İstanbul BAM 40. HD 2020/4444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621482200)
+
 Dava, trafik kazasından kaynaklanan destekten yoksun kalma ve manevi tazminat istemlerine ilişkindir.
 
 …
@@ -141,12 +167,16 @@ Hukuk Dairesinin 2012/7255 2013/5874 karar numaralı ilamında da belirtildiği 
 
 ## İstanbul BAM 16. HD 2020/310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572052600)
+
 …
 
 : Dava, İİK'nun 72.maddesi uyarınca açılan menfi tespit davasıdır. Davacı, dava konusu senetteki imzanın kendisine ait olmadığını iddia etmiştir. Yargılama sonunda dava reddedilmiş olup davacının mirasçı vekilince sunulan istinaf dilekçesinde davacı ...'ın 18/11/2016 tarihinde vefat ettiği ve mahkemenin ölü kişi hakkında karar verdiği ileri sürülmüş olup öncelikli olarak bu hususun incelenmesine yoluna gidilmiş, gerçekten de mahkeme kararının başlığında davacı olarak ...'ın gösterildiği, dosyanın 03/03/2017 tarihinde karara çıktığı, davacı mirasçılar vekili olarak ilk derece mahkemesine dilekçe sunan Av. ... 24/01/2018 tarihli dilekçesi ekinde Kadıköy ...Noterliği'nce düzenlenen 09/12/2016 tarihli mirasçılık belgesi fotokopisini sunmuş olup söz konusu belge içeriğinden davacı ...'ın 18/11/2016 tarihinde vefat ettiği, geriye mirasçı olarak ... ve ...'ın kaldıkları anlaşılmıştır. Yine dava dosyasının incelenmesinde, davacının vefat ettiğinin dosyaya yansımadığı görülmüştür.
 Taraf teşkili mahkemece re'sen gözetilmesi gereken hususlardan olup davacının yargılama devam ederken vefat ettiği anlaşıldığından, mirasçılarının davaya dahil edilerek usulüne uygun bir şekilde taraf teşkili sağlandıktan sonra yargılamaya devam edilmesi gerekirken bu husus gözden kaçırılarak yargılamanın sürdürülmesi usul ve yasaya aykırıdır. Öte yandan davalılardan ...'nın da yargılama sırasında vefat ettiği ve mirasçılarının davaya dahil edildiği ve vekille temsil edildikleri halde adı geçen davalının mirasçılarının ve vekillerinin karar başlığında gösterilmemesi de usule aykırıdır. Hal böyle olunca davacı mirasçıları vekilinin sair istinaf talepleri incelenmeksizin taraf teşkiline yönelik istinaf talebinin kabulüne kısmen karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 8. HD 2020/252 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/576389500)
 
 Bu durumda davacı ... mirasçılarının tespit edilerek, mirasçıların davada taraf olarak yer almalarının sağlanarak yapılacak yargılama sonucunda karar verilmesi gerekirken bu husus gözardı edilerek karar verilmiş olması hatalı bulunmakta olup İtiraz Hakem Heyetince verilen kararın HMK.353/1-a/4 maddesi gereğince kaldırılmasına, davacılar vekilinin diğer istinaf talepleri ile davalı vekilinin istinaf taleplerinin bu aşamada değerlendirilmesine yer olmadığına" karar verilmiş, karar sonrasında davacılar vekili Av. ... tarafından koordinatör hakem ... hitaben gönderilen 30/04/2019 tarihli mailde ...'nın mirasçılarına ulaşılmaya çalışıldığı, kendilerine vekâlet verilmediği, sözlü olarak davaya devam etmeyeceklerini bildirdikleri, bu haliyle dosyanın rapor alınması için bilirkişiye gönderilmesini istedikleri yönünde beyanda bulunulduğu, İtiraz Hakem Heyetince yeniden rapor alınmadan, davacı vekilinin beyanı karşısında ... mirasçılarının başvuran sıfatıyla davaya dahil edilmesi imkanı kalmadığı, ... mirasçıları hakkında hüküm kurulmaması sonucuna varıldığı gerekçesiyle, ... mirasçıları dışındaki başvurunun kabulüne, davacı eş ... için 72.284,53-TL, davacı çocuk ... için 10.270,10-TL,
 davacı çocuk ... için 16.696,90-TL destekten yoksun kalma tazminatının başvuru tarihinden itibaren işleyecek yasal faiziyle birlikte davalı sigorta şirketinden tahsiline, ... mirasçıları hakkında hüküm kurulmasına yer olmadığına karar verilmiş, karara karşı davacılar vekili tarafından istinaf yoluna başvurulmuştur.Davacılar vekilinin istinaf sebepleri; davacılardan ...
@@ -156,9 +186,13 @@ Bu durumda davacı ... vefat ettiği tarihe kadar destekten yoksun kalma tazmina
 
 ## İstanbul BAM 40. HD 2019/603 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577368500)
+
 Dosya kapsamından, 12/03/2013 tarihinde, davalı ...'nin sevk ve idaresindeki ... plakalı araç ile dava dışı sürücünün sevk ve idaresindeki ... plakalı aracın kaza yapması sonucu, ... plakıl araçta yolcu olarak bulunan ...'ın yaralandığı, yaralanan ... tarafından işbu maddi ve manevi tazminat davasının açıldığı, ancak yargılama aşamasında, davacı ...'ın, karar tarihi olan 21/12/2016 tarihinden önce yani 08/12/2016 tarihinde vefat ettiği, ... mirasçılarının vekaletnameler vermek suretiyle davaya devam ettikleri anlaşılmıştır. Mahkemece, karara dayanak yapılan 11/04/2016 tarihli aktüerya raporunun yapılan incelemesinde; raporun, müteveffa ...'ın, PMF Yaşam Tablosuna göre bakiye ömrü dikkate alınarak maluliyet tazminatının hesaplandığı görülmüştür. Yukarıda belirtildiği üzere, davacı ..., yargılama aşamasında vefat ettiğinden, ölüm tarihi dikkate alınarak maluliyet tazminatının hesaplanması gerekirken bakiye ömrü dikkate alınarak maluliyet tazminatının hesaplanması şeklindeki raporun karara dayanak yapılması hatalı olmuştur.
 Bu durumda, Mahkemece, müteveffa ...'ın ölüm tarihi dikkate alınarak maluliyet tazminatının hesaplanması yönünden ek rapor alınması ve tarafların delillerinin değerlendirilerek yeniden bir karar verilmesi gerekmektedir. Bu bağlamda, davalı ... A.Ş. vekili, davalı ... Sigorta A.Ş. vekili, davalı ... ve ... vekili ve müteveffa ... mirasçıları olarak davaya devam eden davacılar vekillerinin istinaf başvurularının kabulü ile HMK'nın 353/1-a/6. maddesi uyarınca İlk Derece Mahkemesi kararının kaldırılmasına, dosyanın yukarıda belirtilen şekilde işlem yapılmak üzere mahkemesine gönderilmesine karar verilmiştir.
 
 ## İstanbul BAM 9. HD 2018/132 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/392945200)
 
 Olayımızda davacı ... için yaralanma nedeniyle maddi tazminat talep edilmiş iken dava sırasında vefat ettiği, vefat eden kişi açısından HMK'nın 124. maddesinin işletilmesinin mümkün ve gerekli olmadığı, zira zorunlu dava arkadaşı olan mirasçılarına tebligat yapılarak davaya devam edilmesi yasal zorunluluk olduğu, ancak mahkemece sadece annenin vekilinin sunduğu vekaletname ve taleplerle davaya devam edilerek hüküm kurulduğu görülmektedir. Kazada tam kusurlu olan sürücü babanın destekten yoksun kalma tazminatı talep edemeyecek olması esasa ilişkin bir husus olup, taraf eksikliği sonucunu değiştirmez. Zira, ölüm tarihine kadar dava maluliyete dayalı bir maddi tazminat davasıdır ve ölüm ile bu talep açısından mirasçılar arasında zorunlu dava arkadaşlığı oluşmuştur. O halde mahkemece HMK'nın 59. ve 60.maddeleri gereğince gereken işlemlerin yapılarak sonucuna göre, annenin sunduğu dava değişikliği ve feragat veya vazgeçme talebi açıklattırılarak değerlendirilmesi gerekecektir.

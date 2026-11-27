@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2012/258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78932500)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil isteğine ilişkindir.
 
 …
@@ -31,6 +33,8 @@ Ne var ki, 13.04.2009 tarihli resmi akte konu yapılan 1/4 payın davalıya, has
 
 ## Yargıtay 1. HD 2011/6407 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79309300)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
 …
@@ -39,6 +43,8 @@ Kabule göre de; eldeki davanın muris muvazaası hukuksal nedenine dayalı olar
 
 ## Yargıtay 1. HD 2010/7018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78799100)
+
 Dava, tapu iptal ve tescil isteğine ilişkindir.
 
 …
@@ -46,6 +52,8 @@ Dava, tapu iptal ve tescil isteğine ilişkindir.
 O halde, davacının başlangıçta taraf muvazaası alarak açtığı davasını muris muvazaası şeklinde ıslah ettiğine göre, iradenin bu biçimde ortaya konulmasında yasal olmayan bir durum bulunmamaktadır. Bir başka ifadeyle, davacının davasını muris muvazaası olarak kamilen ıslah ettiğinin kabulü gerekir. Buna göre de, davacının HUMK'nun 88.maddesi hükmü uyarınca 3 gün içerisinde usulüne uygun olarak harçlandırılmak suretiyle yeni bir dava ikame etmediği takdirde davanın iptaline karar verileceği öngürülmüş ve 89.maddede ise davasını tamamen ıslah eden davacının iptal tarihinden itibaren 3 ay zarfında yeniden dava açmadığı takdirde davasından feragat etmiş addolunacağı hükme bağlanmıştır.
 
 ## Yargıtay 1. HD 2010/5052 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79524200)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı taktirde tenkis isteğine ilişkindir.
 
@@ -57,6 +65,8 @@ Hal böyle olunca; davacıların muris muvazaası hukuksal nedenine dayalı iddi
 
 ## Yargıtay 1. HD 2010/159 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623436500)
+
 Davanın kabulüne ilişkin olarak verilen karar, Dairece;
 
 …
@@ -66,11 +76,15 @@ Buna göre mahkemece davalı adına kayıtlı 13 sayılı parseldeki 1 ve 2 nolu
 
 ## Yargıtay 1. HD 2008/182 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77928900)
+
 Diğer taraftan, hükme esas alınan mirasçılık belgesinin dosya kapsamında bulunan mirasçılık belgeleri ve iddialar gözetildiğinde murisin gerçek mirasçılarını ve doğru pay oranlarını gösterdiğini kabule olanak yoktur. Karardan sonra dosyaya ibraz edilen ve hasımlı olarak alınan mirasçılık belgesi ile hükme esas alınan mirasçılık belgesi arasında çelişki bulunduğu da tartışmasızdır. Öyle ise, mirasçılık belgeleri arasındaki çelişkinin de giderilip ondan sonra bir hüküm kurulması gerekeceği kuşkusuzdur.
 
 Hal böyle olunca; öncelikle mirasçılık belgeleri arasındaki çelişkinin giderilmesi konusunda davacılara olanak sağlanması, ondan sonra yukarıda değinilen ilkelerde gözetilmek suretiyle muris muvazaası iddiası yönünden gerekli inceleme ve araştırmanın yapılması, soruşturmanın eksiksiz tamamlanması, sonucuna göre bir hüküm kurulması gerekirken noksan soruşturma ile yetinilerek yazılı olduğu üzere hüküm tesisi isabetsizdir. Tarafların bu yöne değinen temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerle HUMK.'nun 428.maddesi gereğince BOZULMASINA, 13.12.2007 tarihinde yürürlüğe giren avukatlık ücret tarifesinin 14. maddesi gereğince gelen temyiz eden vekilleri için 550.00'şer.-YTL. duruşma avukatlık parasının temyiz edilenden alınmasına ve alınan peşin harcın temyiz edenlere geri verilmesine, 15.01.2008 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2007/6340 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78108100)
 
 Dava, hile hukuksal nedenine dayalı tapu iptal tescili isteğine ilişkindir.
 
@@ -81,6 +95,8 @@ Mirasçıların davacı S..'nin ölümü üzerine terekeden doğan varsa haklar�
 Hal böyle olunca, ıslah suretiyle açıklanan nedenlerden dolayı davanın hukuki sebebinin değiştirilebileceği gözetilmeksizin muris muvazaası yönünden davanın kabulüne karar verilmiş olması doğru değildir.Davacının bu yönlere değinen temyiz itirazları yerindedir.Kabulü ile hükmün açıklanan nedenlerden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 31.5.2007 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2007/3016 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78145900)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal, tescil isteğine ilişkindir.
 

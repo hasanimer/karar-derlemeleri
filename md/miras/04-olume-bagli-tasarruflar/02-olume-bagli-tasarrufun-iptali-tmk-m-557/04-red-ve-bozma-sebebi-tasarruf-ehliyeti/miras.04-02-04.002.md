@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2013/8419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/250935500)
+
 Davanın reddine dair verilen karar, Yargıtay 3. Hukuk Dairesi tarafından; “ Dosya kapsamından 12.2.2002 tarihli el yazısı ile yazılmış vasiyetnamenin MK'nun 538.maddesindeki koşullara uygun düzenlendiği, sağlık ocağı doktor raporları ve ... Kurumu raporu ile mahkemede dinlenen taraf tanıklarının ifadelerine göre vasiyetçi ....'in vasiyeti düzenlediği tarihte akli melekelerinin yerinde olduğu ve tasarruf ehliyetinin bulunduğu, vasiyetnamenin, MK'nun 557.maddesinde yer alan iptal koşullarından hiçbirisi bulunmadan düzenlendiği anlaşıldığından davacıların vasiyetin iptali talebine yönelik davanın reddine karar verilmesinde bir isabetsizlik görülmemiştir.
 Ancak, tenkis davası yönünden, mahkemenin 18.6.2008 tarihli celsesinde tenkis hesabı yapılması için bilirkişiden rapor alınması amacıyla dosyanın Konya Asliye Hukuk Mahkemesine gönderilmesine karar verilmiş, aynı ara kararında 300 YTL bilirkişi ücreti ve 30 YTL gidiş dönüş ücretinin davacı tarafça karşılanması için 15 günlük kesin süre verilmiş, kesin sürenin sonuçlarının hatırlatıldığı yazılmasına rağmen bu sonuçların neler olduğu ara kararına yazılmadığından hatırlatıldığı belirtilen sonuçların neler olduğu ve gerçekten davacıya hatırlatılıp, hatırlatılmadığı denetlenememiştir.Hakim tarafından tayin edilmiş süreler kural olarak kesin değildir. Fakat, hakim kendisinin tayin ettiği bir sürenin kesin olduğuna da HUMK 163.maddesi uyarınca karar verebilir.
 Hakim, tayin ettiği sürenin kesin olduğuna karar vermişse, bu sürenin kesin olduğu, yapılması istenilen işlemi ve kesin süreye uyulmamasının sonuçlarını hiçbir tereddüte yer vermeyecek biçimde kararında açıklaması ve bu anlatılanları tutanağa geçmesi, uyulmaması durumunda belirtilen delilden vazgeçmiş sayılıp, mevcut delillere göre karar verileceği hususunda davacı tarafı uyarması gerekir.Somut olayda, Yargıtay'ın kararlılık kazanmış uygulamalarında yerini alan bu esaslara uyulmayıp, kararda belirlenen süre de işlemlerin yapılmaması halinde doğacak hukuki netice gösterilmemiş, davanın bu nedenle reddedilebileceği hususunda davacı uyarılmamış, sadece "kesin sürenin sonuçları hatırlatıldı" denilmekle yetinilmiştir.
@@ -29,17 +31,25 @@ Mahkemece bu nitelikteki ara kararı, HUMK'nun 163.maddesinin yukarıda açıkla
 
 ## Yargıtay 3. HD 2012/22115 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522185800)
+
 Vasiyetname yapabilmek için ayırt etme gücüne sahip olmak gerekir.Ehliyetsiz kişilerin yaptığı vasiyetnameler kendiliğinden batıl olmaz.Vasiyetname tarihinde murisin 88 yaşında olduğu ve kalp hastalığının bulunduğu anlaşılmaktadır.Murisin vasiyetname düzenlendiği tarihte akıl ve ruh sağlığının yerinde olmadığı ileri sürüldüğüne göre, bu durum tek başına tanık beyanları ve mevcut tek hekim raporu ile kanıtlanmış kabul edilemez.
 
 ## Yargıtay 3. HD 2012/18760 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/533270100)
 
 Vasiyetnamenin iptali için TMK.nun 557 maddesinde belirtilen hususlar da dava açılabilir. Bunlardan birincisi: Vasiyetname miras bırakanın tasarruf ehliyetinin bulunmadığı bir sırada yapılmış ise iptali istenebilir.Vasiyetnamenin geçerli kabul edilmesi onu yapan kişinin hukuki ehliyete sahip olması ile mümkündür. Geçerlilik şartı olan hukuki ehliyet taraflar ileri sürmeseler dahi mahkemece kendiliğinden incelenir. Somut olayda, vasiyetçi için alınan raporda “mağdur-sakat maaşı için talep edildiği, sebilite-minimal kompisit bozukluk olduğu ” açıklanmıştır.
 
 ## Yargıtay 4. HD 2011/6608 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1005194800)
+
 Tarafların müşterek murisine ait Vakıflar Bankasında bulunan yabancı paranın vekaletnameye istinaden davalı ...........,'e 21.2.2007 – 9.4.2007 tarihlerinde ödendiği anlaşılmaktadır. Oysa dosya içinde bulunan müşterek murise ait 2.11.2006 tarihli Elazığ Ruh ve Sinir Hastalıkları Hastanesi tarafından verilmiş sağlık kurulu raporuna göre murisin işlem yapıldığı tarihte tasarruf ehliyetinin bulunmadığı belirlenmiştir. Yerel mahkemece, vekaletnamenin ve ekindeki sağlık kurulu raporunun getirtilip tasarruf ehliyeti olmayan kişiye noterde kişi adına vekalet düzenlenmesinin mümkün olmadığı gözetilerek murisin işlem tarihinde hukuki ehliyetinin bulunup bulunmadığı saptanmadan tanık anlatımlarına göre sağlık kurulu raporunu geçersiz sayıp buna göre karar verilmesi doğru değildir.
 
 ## Yargıtay 2. HD 2007/15635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80797300)
 
 Vasiyetçi, Türk Kanunu Medenisinin 355.nci maddesi gereğince 12.12.2000 tarihinde vesayet altına alınmış 13.12.2003 tarihinde vefat etmiştir. İptali istenen vasiyetname 30.12.1998’de düzenlenmiştir.
 
@@ -55,6 +65,8 @@ Uyuşmazlığın çözümü için murisin gerçek iradesinin, mirasçılardan ma
 Bu itibarla dava konusu şirket hisselerine ilişkin istemlerin de muris muvazaası ve miras hukuku kapsamındaki taleplerden ayrılmasını gerektiren bir durum bulunmadığı, uyuşmazlığın bir bütün halinde değerlendirilmesi gerektiği, davanın Türk Ticaret Kanunu'ndan kaynaklanan mutlak veya nispi ticari dava niteliğinde olmadığı, görevli mahkemenin Asliye Hukuk Mahkemesi olduğu gerekçesiyle karşı görevsizlik kararı verilmiş, kararın 09.09.2026 tarihinde kesinleşmesinden sonra merci tayini için dosya Dairemize gönderilmiştir.
 
 ## İstanbul BAM 16. HD 2018/1043 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403663400)
 
 Medeni Kanunun 15. maddesine göre “Kanunda gösterilen ayrık durumlar saklı kalmak üzere, ayırt etme gücü bulunmayan kimsenin fiilleri hukukî sonuç doğurmaz.” Mahkeme bu hükümden hareketle vekaletnameyi ve vekaleten yapılan ipotek sözleşmesini geçersiz saymıştır.
 

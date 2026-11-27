@@ -22,17 +22,23 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2012/6949 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617598400)
+
 Öncelikle davalı tarafından davanın niteliğinin mal rejiminin tasfiyesinden kaynaklanmadığı ve genel mahkemelerde görülmesi gereken inançlı işlemden kaynaklandığı iddia edilmekte ise de, dosya arasında İzmir 2.Aile Mahkemesi ve sonrasında İzmir 10.Asliye Hukuk Mahkemesinin verdiği davanın niteliğinden kaynaklanan görevsizlik kararı sonrasında Yüksek Yargıtay 17.Hukuk Dairesinin 12.2.2010 tarih 2009/10497 Esas 2010/1088 Karar sayılı ilamı ile davanın evlilik birliği içinde edinilen ve miras bırakan adına oluşan mallara yönelik alacak davası olduğu ve katkı payına dayalı açılan davada Aile Mahkemesinin görevli bulunduğu açıklanarak İzmir 2.Aile Mahkemesinin yargı yeri olarak belirlendiği görülmektedir. Dosya kapsamı ve yargı yeri belirlenmesine ilişkin karar gözönünde bulundurularak mahkemece davanın ölüm sebebi ile mal rejiminin sona ermesinden kaynaklanan alacak isteği olarak nitelendirilmesinde bir isabetsizlik yoktur. Her ne kadar mahkeme kararında katkı payı olarak nitelendirilmiş ise de, dosyada talep ve mahkeme gerekçesindeki açıklamalar ve dava konusu mal varlığının edinme tarihleri itibarıyla davanın katılma alacağı olduğu anlaşılmaktadır.
 
 Dava konusu 35 HHT 12 plakalı araç 10.12.2002 tarihinde satın alınarak 12.12.2002 tarihinde muris Hakkı adına trafikte tescil edilmiş ise de, toplanan delillerden taşınmazın 1.1.2002 öncesinde 2001 yılında satın alındığı ancak resmi satın alma işleminin 2002 yılında yapıldığı anlaşılmaktadır. Kural olarak, resmi işleme değer verilmesi gerekmekte ise de, her iki tarafın da aracın 2001 yılında alındığını ifade etmeleri karşısında aracın kişisel mal olarak kabulü ile araç yönünden talebin reddi doğrudur. Diğer yandan aracın 2002 yılında alındığının kabulü halinde de miras bırakan Hakkı’nın babasının 29.12.2001 tarihinde öldüğü ve Hakkı’ya bankada yüklüce para kaldığı, ...’den kalan nakit paranın bir kısmının çekildiği tarih ile dava konusu aracın alım tarihinin yakın olması da gözetildiğinde aracın Hakkı’ya babasından mirasen kalan para ile alındığı ve davalının kişisel malı olduğunun kabulü de yerindedir. Bu yönden araçla ilgili red kararı bu bakımdan da doğru olmaktadır.
 
 ## Yargıtay 7. HD 2012/3412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1103388300)
+
 Ne var ki, Kadastro Hakimi infazı mümkün doğru sicil oluşturmak zorundadır. Mahkemece paylar toplamı paydaya eşit olmayacak şekilde dava konusu taşınmazların miras bırakan ... mirasçısı ... ve paydaşları adına tapuya tesciline, nüfus kaydından miras bırakan ...’ın mirasçısı gözükmeyen ... çocukları ... ve ...’a pay verilmesine karar verilmesi isabetsiz olduğu gibi, dava konusu taşınmazlarla ilgili tespitten sonraki nedenlere dayalı katılan ... tarafından verilen katılma dilekçesinin görevsizlik nedeniyle reddine, dosya kesinleştiğinde onaylı örneğinin çıkartılarak Asliye Hukuk Mahkemesine gönderilmesine karar verilmesi gerekirken katılan ...’nın tespitten sonraki edinimlere yönelik katılma talebi hakkında mahkemenin görevsizliğine, dosya kesinleştiğinde katılan ...’nın Asliye Hukuk Mahkemesinde dava açmakta serbest olduğuna karar verilmesi dahi isabetsizdir.
 
 O halde, öncelikle miras bırakan ...’ın verasete esas aile nüfus kayıt örneği İlçe Nüfus Müdürlüğünden getirilmeli, ...çocukları ... ve ...’ın miras bırakan ...’ın mirasçıları olup olmadığı ile ...’ın mirasçıları ve payları belirlenmeli, tespitten sonraki nedenlere dayalı katılan ... tarafından verilen katılma dilekçesinin görevsizlik nedeniyle reddine, dosya kesinleştiğinde onaylı örneğinin çıkartılarak Asliye Hukuk Mahkemesine gönderilmesine karar verilmesi gerektiği hususu düşünülmeli, bundan sonra toplanan ve toplanacak tüm deliller birlikte değerlendirilerek sonucuna uygun, paylar toplamı paydaya eşit olacak şekilde infazı kabil bir karar verilmelidir.
 
 ## Yargıtay 17. HD 2011/12708 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802164800)
 
 Dava, miras hakkına mahsuben aile konutunun davacı adına özgülenmesi ve tescili istemine ilişkindir.
 
@@ -44,6 +50,8 @@ Somut olayda; davacının, murisle sağlığında birlikte yaşadıkları aile k
 
 ## Yargıtay 17. HD 2011/12389 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798373400)
+
 Dava, mirasın reddi istemine ilişkindir.
 
 …
@@ -54,11 +62,15 @@ Somut olayda; davacı, miras bırakanı ... Karacoşkun'un ölümünden bir yıl
 
 ## Yargıtay 17. HD 2011/12247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/807920700)
+
 Dava, mirasın iflas hükümlerine göre tasfiyesi istemine ilişkindir.
 
 ... Sulh Hukuk Mahkemesince, İİK'nun 180. maddesinde "red olunan mirasların tasfiyesinin aynı yasanın 8. Babı hükümlerine göre ait olduğu mahkeme tarafından yapılacağının" öngörülmüş olduğu, 8. babda yer alan işlerin ise iflas hükümlerine göre yapılan işler olduğu, sulh hukuk mahkemesinin iflas davalarına bakma görevinin bulunmadığı gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 7. HD 2011/7509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109818400)
 
 Dava, hasımlı olarak açılmış mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -70,10 +82,14 @@ Hal böyle olunca mahkemece davacı tarafa miras bırakanı ile, tespit malikini
 
 ## Yargıtay 8. HD 2011/7236 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/576735600)
+
 Dava konusu 110 ada 10 ve 115 ada 13 parsel sayılı taşınmazlar kadastro çalışmaları sırasında senetsizden bahçe niteliğiyle 31.12.2007 tarihinde davalılardan ... adına tespit ve tescil edilmiştir. Mahkemece, mahallinde yapılan keşif sonrasında alınan zirai bilirkişi raporuna göre dava konusu 110 ada 10 parsel sayılı taşınmazın arazi değerinin 2.542,40 TL, üzerindeki ağaçlarla birlikte değerinin ise 3.332,40 TL olduğu, 115 ada 13 parsel sayılı taşınmazın arazi değerinin 9.603,80 TL, üzerindeki ağaçlarla birlikte değerinin ise 13.168,80 TL olmak üzere her iki taşınmazın toplam değerinin 16.500 TL olduğu bildirilmiştir. Taşınmaz malların aynına ilişkin davalarda dava değeri taşınmazın zemin değeridir. Dava değeri, dava dilekçesinde 7.000 TL olarak gösterilmiş, yapılan keşifte ise taşınmazların arazi değerinin 12.146,20 TL olduğu belirlenmiştir. Davacılar, yakın miras bırakanlarından kendilerine kalan 1/3 oranındaki miras payları bakımından istekte bulunduklarına göre, dava değeri taşınmazların toplam değerinin 1/3 oranına isabet eden 4.048,70 TLdir.
 Dava, 3.9.2009 tarihinde açılmış olup, az yukarıda açıklanan esaslara göre belirlenen dava değeri nazara alındığında, davaya bakmak Sulh Hukuk Mahkemesinin görevi kapsamındadır. Şu halde, mahkemece dava değerinin yanlış tespit edilerek yazılı şekilde görevsizlik kararı verilmiş olması doğru değildir. Kaldı ki, muhtesatla ilgili davacıların bir dava ve istekleri bulunmamaktadır.
 
 ## Yargıtay 16. HD 2011/6538 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795036300)
 
 Mahkemece; miras bırakan ... adına yapılan tespitlerin yerinde olduğu, kadastro tespitlerinin kesinleştiği kabul edilerek yazılı şekilde karar verilmiş ise de, mahkemenin kabul ve değerlendirmesi dosya içeriğine uygun bulunmadığı gibi, dosya içeriği de karar vermeye yeterli bulunmamaktadır. Kadastro tespitleri sırasında çekişmeli taşınmazlar Asliye Hukuk Mahkemesinde dava konusu olmaları nedeniyle malik haneleri davalı bırakılarak tutanakları düzenlenmiştir. Dava dosyası Asliye Hukuk Mahkemesinden görevsizlik kararı ile devredildikten sonra Kadastro Mahkemesinde keşif yapılmamış; devredilen Asliye Hukuk Mahkemesinde yapılan keşif ile bu dosya ekinde bulunan Asliye Hukuk Mahkemesinin 1981/96 Esas sayılı davasının açılmamış sayılmasına karar verilen dava dosyasında yapılan keşifler gözetilerek karar verilmiştir. İncelenen keşif tutanaklarına göre, Asliye Hukuk Mahkemesinde dava konusu olan taşınmazlar listesinde yazılı tüm taşınmazlar başında keşif yapılmadığı gibi, yapılan keşifler de taraflar arasındaki uyuşmazlığı çözmeye yeterli bulunmamaktadır. Bu tür yetersiz ve eksik araştırma, inceleme ve uygulama ile karar verilemez.
 Doğru sonuca ulaşılabilmesi için mahallinde keşif yapılarak öncelikle Asliye Hukuk Mahkemesi dava dilekçesi ve eki davaya konu taşınmazlar listesi mevki ve sınırları itibariyle tek tek okunmak suretiyle Asliye Hukuk Mahkemesinde davaya konu olan taşınmazlar belirlenmelidir. Bundan sonra keşfe katılacak yerel bilirkişi kurulu ve taraf tanıklarından çekişmeli her bir taşınmazın öncesinin kime ait olduğu, kim tarafından hangi tarihten beri ne şekilde kullanıldığı, kullanımın kimden kime, nasıl geçtiği; öncesi ortak miras bırakan ... ’ya ait olan taşınmazlar yönünden ... terekesinin yöntemince taksim edilip edilmediği, taksime tüm mirasçıları veya yetkili temsilcilerinin katılıp katılmadığı, her bir mirasçının payına hangi taşınmazların düştüğü ve bu taşınmazların akibetlerinin ne olduğu, payına karşılık taşınmaz almayan mirasçılarının olup olmadığı ile varsa paylarına karşılık neler aldıkları; tarafların dayanaklarını oluşturan senetler ile kadastro tutanaklarının ilgili sütununda bildirilen vergi kayıtlarının çekişmeli taşınmazlara ait olup olmadıkları, mevki ve sınırları tek tek okunarak belirlenmelidir.
@@ -82,10 +98,14 @@ Bundan sonra toplanan ve toplanacak tüm deliller birlikte değerlendirilerek; �
 
 ## Yargıtay 8. HD 2011/6469 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572990700)
+
 Dosya kapsamında bulunan tapu kayıtları ile miras bırakan ...'e ait veraset belgesinden; dava konusu taşınmazın 1/9 payının 1990 tarihinde ölen ortak miras bırakan ...'den kaldığı, görülmekte olan ortaklığın giderilmesi davasında davacı ... ve arkadaşları vekili ile davalı ... vekili arasında, miras bırakan ...'den kaldığı belirtilen taşınmazların paylaşımına yönelik protokol düzenlendiği saptanmıştır. Davacılar vekilinin isteği; miras taksim sözleşmesine dayanan tapu iptali ve tescile ilişkindir. 6100 sayılı ...nun Geçici 1/1. maddesine göre bu kanunun göreve ilişkin hükümleri kanunun yürürlüğe girmesinden önce açılan davalara uygulanmayacağına ilişkindir. Hal böyle olunca, görevli mahkemenin HUMK.nun 8/1. maddesi uyarınca dava olunan taşınmazın dava tarihindeki değeri nazara alınarak belirlenmesi gerekir. Ne var ki, mahkemece bu yönde de bir araştırma yapılmadığı gibi, dava değeri ise dava dilekçesinde 10.000 TL olarak gösterilmiştir.
 Öyle ise, mahkemece işin esasına girilerek taraf delillerinin toplanıp, sonucuna göre bir karar verilmesi gerekirken dava dilekçesinin görev yönünden reddine dosyanın görevli ve yetkili Sulh Hukuk Mahkemesine gönderilmesine karar verilmiş olması doğru olmamıştır.
 
 ## Yargıtay 7. HD 2011/5047 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108991900)
 
 Görev, kamu düzenine ilişkin olup istek olmasa bile yargılamanın her aşamasında mahkemece resen gözetilmesi zorunludur. Bu nedenler ve hükümde gösterilen diğer gerekçelere göre davacılar ...mirasçıları ... ve arkadaşlarının sair temyiz itirazları yerinde değildir.
 
@@ -93,14 +113,20 @@ Ne var ki; dava konusu taşınmazın değerine göre görevli mahkeme Sulh Hukuk
 
 ## Yargıtay 8. HD 2011/144 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/511621300)
+
 TMK.nun 981 ve devamı maddelerinde, uyuşmazlık konusu taşınmaz üzerinde henüz mülkiyet hakkı doğmamış zilyetliğin bulunması veya taşınmazın hukuki niteliği itibariyle zilyetlikle kazanıma elverişli olmadığı durumlarda, zilyet olunana müdahale edilmesi halinde zilyetliğin korunmasının istenebileceği düzenlenmiş bulunmaktadır. TMK.nun 683 ve devamı maddelerinde ise, tescili talep etme hakkı doğan zilyedin müdahale edene karşı elatmanın önlenilmesi davası açabileceği hükme bağlanmıştır. Buna göre sırf zilyetliğin korunması talebi ile TMK.nun 981 ve devamı maddelerine dayalı olarak açılan davalarda, dava konusu taşınmazın değerine bakılmaksızın HUMK.nun .../II-.... bendine göre Sulh Mahkemeleri görevli bulunduğu halde, TMK.nun 683. maddesine dayalı olarak açılan elatmanın önlenilmesi davalarında görevli mahkeme dava konusu taşınmazın değerine göre belirlenir. Somut olayda davacı, dava konusu taşınmazın öncesinde miras bırakanları Memet Alkan’ın imar ve ihya ile zilyetliğinde bulunduğu, 1981 yılında ölümü üzerine mirasçılarına intikal ettiği, davalı-mirasçının tasarrufuna engel olduğu iddiasıyla miras payı oranında elatmanın önlenilmesi isteğinde bulunmuştur.
 Dava dilekçesindeki bu açıklamalar karşısında dava TMK.nun 683. maddesine dayalı aynı haktan kaynaklanan elatmanın önlenilmesi isteğine ilişkin bulunmaktadır. HUMK.nun .... maddesinde, görev dava konusu olunan şeyin değerine göre belirlenmiş ise, görevli mahkemenin tespitinde davanın açıldığı tarihteki değerin esas alınacağı hükme bağlanmıştır. Bu durumda iddia kapsamı, dava tarihi ve dava dilekçesinde belirtilen değer itibariyle uyuşmazlığın görevli Asliye Hukuk Mahkemesinde görülmesi gerekir. Bu nedenle iddia ve savunma kapsamında taraflara delillerini sunmak üzere süre ve imkan tanınması, bildirildiği takdirde taraf delillerinin toplanarak değerlendirilmesi ve sonucuna göre bir hüküm verilmesi gerekirken, hatalı nitelendirme ve gerekçe ile yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 3. HD 2010/10869 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967431600)
+
 Davanın konusu vasiyetnamenin tenfizine ilişkindir. Uyuşmazlık konusu alacağın miktarına göre davaya bakma görevi Asliye Hukuk Mahkemesine aittir. HUMK'nun 8/1.maddesi gereğince görevsizlik kararı verilmesi gerekirken, mahkemece yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2010/6062 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78685000)
 
 Dava, tapu iptal tescil, karşı dava ittihaz edilen tedbir nedeniyle uğranılan zararın tazmini isteğine ilişkindir.
 
@@ -112,12 +138,16 @@ Her ne kadar davanın ilk açıldığı Aile mahkemesince tavsif muris muvazaas�
 
 ## Yargıtay 7. HD 2010/5702 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111994700)
+
 İddia ve savunmaya, mahkemece toplanıp değerlendirilen deliller ile duruşma tutanaklarına, yansıyan bilgi ve belgelere göre dava konusu 12 parsel sayılı taşınmazın tarafların ortak miras bırakanı ...’tan kaldığı yönünde yanlar arasında bir uyuşmazlık bulunmamaktadır. Uyuşmazlık, ortak miras bırakanın ölüm gününden sonra mirasçıları arasında yöntemine uygun biçimde bir paylaşmanın yapılıp yapılmadığı yönünde toplanmıştır. Kural olarak, mirasçılar arasında yöntemine uygun bir paylaşmanın varlığından söz edilebilmesi için ortak miras bırakanın ölüm gününden sonra tüm mirasçılarının bir araya gelerek, terekeyi kendi aralarında pay etmeleri, her bir mirasçının kendi payına düşeni aldıktan sonra, terekedeki diğer miras haklarından vazgeçmesi gerekir. Somut olayda ortak miras bırakanın ölüm gününden sonra mirasçıları arasında az yukarıda saptanan olgulara uygun biçimde paylaşmanın yapıldığı dava konusu taşınmazın davalı ...’ın miras payına isabet ettiği, terekeye dahil dava dışı ... Köyü’ndeki 169 parsel sayılı taşınmazın davacı ..., ...
 Köyü’ndeki 1184 parsel sayılı taşınmazın ise diğer mirasçı ...’nun miras payına isabet ettiği mahkemece yapılan keşif, uygulama, yerel bilirkişi ve tanık sözleri ile toplanıp değerlendirilen diğer delillerle belirlenmiştir. Öte yandan, paylaşmada her bir mirasçıya eşit yüzölçümde ve eşit verimlilikte taşınmaz mal ya da ekonomik yönden parasal değeri eşit, menkul mal isabet etmesi paylaşmanın koşulu değildir. Bu nedenler ve hükümde gösterilen diğer gerekçelere göre davacı ... mirasçısı ...’nun sair temyiz itirazları yerinde değildir.
 
 Ne var ki, tespitten sonraki nedenlere dayalı istemler hakkında mahkemece görevsizlik kararı verilmesi gerekirken esasa girilerek yazılı şekilde hüküm kurulması isabetsizdir. Kadastro mahkemeleri kural olarak tespit tutanağı düzenlenip askı ilanına çıkarıldıktan sonra askı ilan süresi içinde ve tespitten önceki hukuksal nedenlere dayalı olarak açılan davalara bakmakla görevlidir. Tespitten sonraki hukuksal nedenlere dayalı olarak açılan davalara bakmak kadastro mahkemelerinin görevi dışında kalıp genel mahkemelerin görevine girmektedir. Görev kamu düzenine ilişkin olduğundan taraflarca öne sürülmese dahi mahkemelerce kendiliğinden dikkate alınır. ... mirasçısı ...’nun temyiz itirazları bu nedenlerle yerinde ise de, yanılgının giderilmesi yargılamanın tekrarını gerektirmediğinden hükmün 2.
 
 ## Yargıtay 7. HD 2010/2235 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112248600)
 
 Dava mirasçılık belgesi verilmesi istemine ilişkindir.
 
@@ -130,9 +160,13 @@ Hal böyle olunca mahkemece davacıların miras bırakanı ile, tapu maliki "...
 
 ## Yargıtay 8. HD 2010/1230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526389500)
+
 Kadastro sırasında 132 ada 1 sayılı parsel davacının miras bırakanı İsmail Ok, aynı ada 2 sayılı parsel ise davacı ... adına 21.03.2006 tarihinde tespit edilmiş ve bu tarihte tescil konusu yapılan anılan parsellerin güneyinde yer alan A ve B harfleriyle gösterilen taşınmaz bölümlerinin paftasında aynı tarihte yol olarak gösterildiği saptanmıştır. Başlangıçta dava, 06.11.2006 tarihinde Burdur Kadastro Mahkemesinde açılmış, paftasında yol gösterilen ve hakkında tutanak düzenlenmeyen yerler bakımından Kadastro Mahkemesinin görevli olmaması nedeniyle Burdur Kadastro Mahkemesinin 23.02.2007 gün ve 2006/117 Esas, 2007/88 sayılı kararıyla dosya görevsizlikle Burdur Sulh Hukuk Mahkemesine aktarılmıştır. HUMK.nun 193.maddesinde açıklanan on günlük süre içerisinde dosyanın Sulh Hukuk Mahkemesine geldiği anlaşılmıştır. Davacı tarafın 3402 sayılı Kanunun 7/4.maddesi gereğince Kadastro Mahkemesinde dava açmakla taşınmaz hakkında tutanak düzenlenmediği konusunda uyuşmazlık çıkardığının ve süresinde davanın açıldığının kabulü gerekir. Bu nedenle kadastrodan önceki zilyetlik süresinin kazanma bakımından değerlendirilmesi ve kabul edilmesi gerekmektedir.
 
 ## Yargıtay 17. HD 2009/8953 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875477700)
 
 Dava, davacının davalıyı mirasçılıktan çıkarma istemine ilişkindir.
 
@@ -142,6 +176,8 @@ Somut olayda davacı ..., öz kızı olan ... ...’ı (Aydın) mirasından redd
 
 ## Yargıtay 17. HD 2009/4671 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/869124200)
+
 Dava, mirasın borca batık olduğunun tespitine ilişkindir.
 
 …
@@ -149,6 +185,8 @@ Dava, mirasın borca batık olduğunun tespitine ilişkindir.
 Ankara 12. Sulh Hukuk Mahkemesi de, hasımsız görülen mirasın reddi davası davasına bakma görevi Ahkamı Şahsiye Mahkemesine ait ise de, mirasın borca batık olduğunun tesbiti davasının alacaklı taraf gösterilmek suretiyle değere göre genel hükümlere göre görevli mahkemede açılması gerektiği gerekçesiyle görevsizlik yönünde hüküm kurulmuştur.
 
 ## Yargıtay 20. HD 2009/3897 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894570600)
 
 Dava, kadastro tespitine itiraza ilişkindir.
 
@@ -159,14 +197,20 @@ Avukat ... ... çekişmeli 1220, 1228, 1232, 1235, 1236, 1239, 1240, 1535 numara
 
 ## Yargıtay 2. HD 2008/8733 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80397700)
+
 Birlikte yaşanılan konutun miras hakkına dayalı olarak özgüleme görevi (TMK. Md.652,658) Sulh Hukuk Mahkemesine aittir. Görev kamu düzenine ilişkin olup yargılamanın her aşamasında mahkemece kendiliğinden nazara alınır. O halde mahkemece özgüleme konusunda tefrik kararı verilerek bu taleple ilgili istemin Sulh Hukuk Mahkemesine görevsizlik kararı ile gönderilmesi gerekirken işin esasının incelenmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 16. HD 2008/7322 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864719500)
 
 Kadastro sırasında 250 ada 6, 17 ve 18 parsel sayılı 26050, 5639 ve 6399 metrekare yüzölçümündeki taşınmazlar, tapu kaydı nedeniyle davacıların murisi ... ile davalıların murisi ... ile İffet ve ... adına tespit edilmiştir. Askı ilan süresi içinde davalılardan ...’ın başka tapu kaydına dayanarak yaptığı itiraz komisyonca kabul edilerek; 6 parselin tümü ile haritasında 17 ve 18 parselin (a) ile işaretli 4307 ve 3871 metrekare olarak tespitteki pay oranına göre ilk tespit malikleri adına, haritasında 17 ve 18 parsellerin (C) ile işaretli 1268 ve 2456 metrekarelik bölümlerinin 25 ve 26 parsel numaraları ile davalıların murisi ... adına tespitine karar vermiştir. Davacı ... mirasçıları ... ve arkadaşları, 6 parsel ile komisyon kararı ile tefrikten sonraki 17 ve 18 parsellerin tapu kaydı ve harici paylaşım nedeniyle tümüyle davacılar miras bırakanı ... mirasçıları adına tescil istemi ile Kadastro Mahkemesinde dava açmışlardır. Kadastro Mahkemesince, 17. Hukuk Dairesinin 1997/5583 esas 6324 karar sayılı ve 23.12.1997 tarihli kesin bozma ilamına uyularak yapılan yargılama sonunda;
 1998/2 esas ve 1998/1 karar sayılı ve 1.5.1998 tarihli ilamı ile, kadastroca yapılan ilk tespite davacılar ve muris bırakanlarının itirazları olmadığından komisyon kararı ile de dava konusu edilen yerler yönünden aleyhlerinde bir durum yaratılmadığından ilk tespitin davacılar yönünden kesinleştiğinin kabulü ile; 3402 sayılı yasanın 25 ve takip eden maddelerine göre görev yönünden davanın reddine ve karar kesinleştiğinde talep halinde dosyanın görevli ve yetkili Suluova Asliye Hukuk Mahkemesine gönderilmesine, Kadastro tutanak ve ekleri ile komisyon kararlarının tescili için Suluova Tapu Sicil Müdürlüğü’ne gönderilmesine karar verilmiştir. Davacılar vekili, 9.4.2001 tarihinde Kadastro Hakimliği’ne dilekçe vererek dosyanın Asliye Hukuk Mahkemesine gönderilmesini istemiştir.Bunun üzerine Asliye Hukuk Mahkemesince dosya esasa kaydedilerek yapılan yargılama sonunda; Hukuk Usulü Muhakemeleri Kanunu'nun 193. maddesi gereğince davanın açılmamış sayılmasına karar verilmiş; hüküm, davacılar vekili tarafından temyiz edilmiştir.
 
 ## Yargıtay 16. HD 2008/7213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864570100)
 
 1976 yılında yapılan kadastro sırasında 322, 323, 324, 325, 326, 327, 420 ve 421 parsel sayılı 27.300, 32300, 611, 32900, 31.050, 15450, 19850 ve 113.700 metrekare yüzölçümündeki taşınmazlar Asliye Hukuk Mahkemesinde dava konusu olduklarından söz edilerek malikhaneleri açık bırakılmak suretiyle tespit edilmiştir. Davacılar ... ve müşterekleri tarafından davalılar aleyhine Asliye Hukuk Mahkemesinde açılan tapu iptali ve tescil davası davaya konu olan taşınmazlar hakkında tutanak düzenlenmiş olması nedeniyle Kadastro Mahkemesine aktarılmıştır. Tespitten sonra 26.6.1989 tarihli dava dilekçesi ile ... ve müştereklerinin sınırlarını bildirdikleri taşınmazın adlarına tescili istemiyle Asliye Hukuk Mahkemesinde açtıkları dava da görevsizlik kararı ile Kadastro Mahkemesine aktarılmış ve bu dava dosyası ile birleştirilmiştir. Kadastro Mahkemesinde süren yargılama sırasında ... terekesi temsilcisi ... , 323, 324 ve 420; ... ve ... vekili, 322 ve 421; ... vekili, 325 ve 326; ... , ... ve ... vekili, 327 parsel sayılı taşınmazlar yönünden davaya katılmışlardır.
 Kadastro Mahkemesinde çekişmeli parsel tutanakları ile aktarılan ve birleştirilen dava dosyalarıyla birlikte yapılan yargılama sonunda Mahkemece verilen 29.11.2001 tarihli önceki karar, Hazinenin temyizi üzerine Dairemizin 22.5.2003 tarihli ve 4963/4737 sayılı ilamı ile diğer temyiz itirazları reddedilerek kararın, hüküm kısmında Hukuk Usulü Muhakemeleri Kanunu’nun 388/son maddesi gereğince taraflara yüklenen hak ve borçların sıra numarası altında açık ve tereddüt yaratmayacak şekilde gösterilmesi, ifraz edilen kısımlar gözetilerek hüküm kurulması, çelişkili hüküm kurulmaması ve adlarına tescile karar verilen kişilerin kimliklerinin ve pay oranlarının açıkça gösterilmesi gereğine değinilerek bozulmuştur. Mahkemece bozma ilamına uyularak yapılan yargılama sonunda;

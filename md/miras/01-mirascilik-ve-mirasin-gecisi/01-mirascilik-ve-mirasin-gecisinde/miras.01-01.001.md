@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/1237 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985743800)
+
 Bilindiği üzere, mirasçılık ve mirasın geçişi mirasbırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirlenir (4722 s. Türk Medeni Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun m. 17). Mirasbırakan 1.1.2002 tarihinden önce ölmüşse 743 sayılı Türk Kanunu Medenisi hükümlerinin, 01.01.2002 tarihinden sonra ölmüşse 4721 sayılı Türk Medeni Kanunu'nun ilgili hükümlerinin uygulanması gerekir.
 
 Tenkis (indirim) davası, miras bırakanın saklı payları zedeleyen ölüme bağlı veya sağlar arası kazandırmaların (bağış) yasal sınıra çekilmesini amaçlayan, öncesine etkili, yenilik doğurucu (inşai) davalardandır. Tenkis davasının dinlenebilmesi için öncelikli koşul; mirasbırakanın ölüme bağlı veya sağlar arası bir kazandırma işlemi ile saklı pay sahiplerinin haklarını zedelemiş olmasıdır. Saklı payların zedelendiğinden söz edilmesi ise kazandırma konusu tereke ile kazandırma (temlik ) dışı terekenin tümüyle bilinmesiyle mümkündür. Tereke mirasbırakanın ölüm tarihinde bırakmış olduğu malvarlığı kıymetleri ile iadeye ve tenkise tabi olarak yaptığı kazandırmalardır. Bunlar terekenin aktifini oluşturur. Mirasbırakanın borçları, bakmakla yükümlü olduğu kişilerin 743 sayılı Kanun uygulanacaksa bir aylık 4721 sayılı Kanun uygulanacaksa üç aylık nafakası, terekenin defterinin tutulması, mühürlenmesi, cenaze masrafları gibi giderler de pasifidir. Aktiften belirtilen borçların indirilmesi net terekeyi oluşturur. Tereke bu şekilde tesbit edildikten sonra mirasın açıldığı tarihteki fiyatlara göre değerlendirilmesi yapılarak parasal olarak miktarının tespiti gerekir (TMK m.564).
@@ -28,9 +30,13 @@ Miras bırakanın TMK'nin 506. maddesinde belirlenen saklı paya tecavüz edip e
 
 ## Yargıtay HGK 2013/391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/86656700)
+
 4721 sayılı Türk Medeni Kanunu yürürlüğe girmeden önce elbirliği ile mülkiyet 743 sayılı Türk Kanunu Medenisi’nin 581.maddesinde düzenlenmişti. Ancak uygulamada karşılaşılan bazı güçlüklerin giderilmesi için 4721 sayıl Türk Medeni Kanununun 640.maddesine dördüncü fıkra eklenmiştir. Maddenin gerekçesinde de belirtildiği gibi, mirasta terekenin tabi olduğu elbirliği mülkiyetine yöneltilen en güçlü eleştiri, birlikte hareket etme zorunda olmaları nedeniyle mirasçıların bireysel olarak terekedeki hakların korunması amacıyla hareket edememeleriydi. Maddeye eklenen dördüncü fıkra, bu eksikliği giderme amacına yönelik olarak getirilmiştir.
 
 ## Yargıtay HGK 2012/561 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77286300)
 
 Dava, evlilik birliği içinde satın alınan taşınmaza katılma alacağı istemine ilişkindir.
 
@@ -40,6 +46,8 @@ Mülga 743 sayılı Türk Kanunu Medenisi’nin yürürlükte bulunduğu dönemd
 
 ## Yargıtay HGK 2010/326 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16895800)
+
 Dava, elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindir.
 
 …
@@ -47,6 +55,8 @@ Dava, elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindi
 Davanın dayanağı olan 20.08.1982 tarihli veraset ilamında, ölüm tarihinde yürürlükte bulunan 743 sayılı Türk Kanunu Medenisi'nin 444. maddesine göre, 336 tam payın 84 mülkiyet ile birlikte 168 intifa payının murisin sağ kalan eşi Yücel Ülgen'e, kalan mülkiyet ve çıplak payların kanunen isabet eden oranlarda murisin kardeşleri A... R..., Ş... V..., H... Ş..., M... G..., Ü... S...ve H... Y...'e paylaştırıldığı anlaşılmaktadır.
 
 ## Yargıtay HGK 2010/323 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16895500)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -58,6 +68,8 @@ Nitekim bu ilke, 07.10.1953 gün ve 8/7 sayılı Yargıtay İçtihadı Birleşti
 
 ## Yargıtay HGK 2008/695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16750800)
+
 Dava, tapu kaydında soyadı tashihi istemine ilişkindir.
 
 …
@@ -66,6 +78,8 @@ Miras ortaklığı da kanundan doğan bir elbirliği mülkiyetidir.Eski 743 say�
 
 ## Yargıtay HGK 2006/108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77204000)
+
 Dava, terekenin resmi tasfiyesi isteğine ilişkindir.
 
 …
@@ -73,6 +87,8 @@ Dava, terekenin resmi tasfiyesi isteğine ilişkindir.
 Miras bırakan H.G...’in ölüm tarihi 7.9.1996 itibariyle olaya, 743 sayılı Türk Kanunu Medenisi hükümlerinin uygulanacağı uyuşmazlık konusu değildir.Türk Kanunu Medenisinin 552.maddesi “En yakın kanuni mirasçıların cümlesi tarafından reddolunan miras, Sulh Mahkemesince karı kocadan sağ olana tebliğ olunur. Ve onun tarafından ancak bir ay içinde miras kabul olunabilir...” hükmünü içermektedir. Anılan hüküm 4721 sayılı Türk Medeni Kanununun 612.maddesinde “...En yakın yasal mirasçıların tamamı tarafından reddolunan miras Sulh Mahkemesince iflas hükümlerine göre tasfiye edilir.
 
 ## Yargıtay HGK 2005/321 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76749400)
 
 Bu kanuni düzenlemeden anlaşılacağı üzere paylaşma isteme (taksim davası açma) hakkı kural olarak paylı mülkiyette paydaşa, elbirliği mülkiyetinde ise mirasçıya tanınmıştır.Malik olmayan kimseye paylaşma isteme ve paylaşmaya katılma hakkı tanınmamıştır. Örneğin Kanuni Medeni’nin 612, Medeni Kanunun 677.maddeleri miras payının temliki konusunda üçüncü kişi ile sözleşme yapma imkanı vermesine karşın, bu kimseye paylaşmaya katılma yetkisi vermemektedir. O halde paydaş olmayan kimsenin paylaşma (taksim) davası açması mümkün değildir.
 
@@ -106,6 +122,8 @@ Kanunnamesinin Medenî Kanuna aykırı düşmeyen hükümlerinin, bu arada konuy
 
 ## Yargıtay 1. HD 2025/5302 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206154600)
+
 Dava, yolsuz tescil hukuki nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -115,14 +133,20 @@ Bu hak davası, vasiyetçinin hilafını kasdettiği vasiyetnameden anlaşılmad
 
 ## Yargıtay 7. HD 2025/4834 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191920300)
+
 Mirasın açıldığı tarihte yürürlükte bulunan 2644 sayılı Tapu Kanunu'nun 35. maddesinde yabancı uyruklu gerçek kişilerin ancak karşılıklılık bulunması ve kanuni sınırlamalara uyulması koşuluna bağlı olarak Türkiye’de taşınmaz mal edinebilecekleri, karşılıklılığın tespitinde hukuki ve fiili durumun esas alınacağı açıklanmıştır. Kanun'un açık hükmünden de anlaşılacağı üzere 2644 sayılı Kanun'da belirtilen bu sınırlama yalnızca taşınmaz mallar yönünden uygulanabileceğinden yabancı uyruklu kişilerin taşınır mallar ile para veya diğer haklar yönünden mirasçı olmalarında yasal herhangi bir engel bulunmamaktadır. 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun'un 20. maddesinde ise yabancılık unsuru içeren mirasçılık belgeleri verilmesinde terekedeki mallar, taşınır ve taşınmaz mallar olarak ayrım yapılmak suretiyle ele alınır. Gerek 2644 sayılı Kanun'un 35. maddesi gerekse 5718 sayılı Kanun'un yukarıda açıklanan hükümleri sebebiyle yabancı unsurlu veraset davalarında hak ehliyetini tespit bakımından kanuni tahditler ve mütekabiliyet (ülkeler arasında karşılıklı işlem) esaslı unsurlardandır (Hukuk Genel Kurulu 28.12.1994 tarihli ve 1994/2-625, 1994/905 sayılı Karar).
 Mirasbırakan ya da mirasçıları yabancı ülke uyrukluğunda olduğunda ise içinde yabancılık unsuru, diğer bir anlatımla milletlerarası unsur taşıdığından, terekenin miras bırakanın ölüm günü itibariyle açıldığı tarihte taşınmazların iktisabı yönünden karşılıklılık aranacaktır. Karşılıklılığın bulunmaması; yabancı mirasçıların, mirasbırakanın taşınmazlarını iktisabı hakkında uygulanacak olup, mirasçılık sıfatının terekedeki taşınırlar yönünden devam edeceği tartışmasızdır.
 
 ## Yargıtay 8. HD 2025/3599 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1164468300)
+
 Hal böyle olunca; İlk Derece Mahkemesince, 3402 sayılı Kadastro Kanunu'nun 25/1. maddesi çerçevesinde, yargılama sırasında vefat ettiği anlaşılan davacı ...'in veraset ilamı davaya özgü olmak üzere düzenlenmeli ve belirlenecek mirasçılarının davaya katılımları sağlanmalı, adı geçenin mirasçısı kalmadığının anlaşılması halinde ise murisin ölüm tarihi itibariyle yürürlükte bulunan Türk Kanunu Medenisi'nin 448. maddesi gereğince son mirasçı sıfatıyla Hazine davaya dahil edilmeli ve bundan sonra işin esasına ilişkin hüküm kurulmalıdır.
 
 ## Yargıtay 8. HD 2025/3598 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1164467400)
 
 Ne var ki; somut olayda, davacı ...' in yargılama devam ederken 22.07.1998 tarihinde vefat ettiği anlaşılmasına rağmen İlk Derece Mahkemesince, mirasçıları tespit edilerek tüm mirasçılarına yöntemince tebliğ yapılarak dava hakkında bilgilendirilmeleri ve davayı takip edebilmelerine olanak tanınması ve bu şekilde taraf teşkilinin sağlanmasından sonra yargılamaya devamla işin esası hakkında karar verilmesi gerekirken, bu husus gözden kaçırılarak, yöntemine uygun şekilde taraf teşkili sağlanmadan işin esası hakkında karar verilmesi cihetine gidildiği anlaşılmaktadır.
 
@@ -130,17 +154,23 @@ Hal böyle olunca; 3402 sayılı Kadastro Kanunu'nun 25/1. maddesi çerçevesind
 
 ## Yargıtay 7. HD 2025/1852 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143681900)
+
 2.4722 sayılı Türk Medeni Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanun'un 17. maddesinde, mirasçılık ve mirasın geçişinin miras bırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirleneceği öngörülmüştür. Bu bakımdan; kendisinden mirasçılık belgesi istenen 04.10.1926 tarihinden önce ölmüş ise, "emlak" niteliğindeki taşınmazlarda feraiz hükümlerinin, "arazi" niteliğindeki taşınmazlar için ise, 06.03.1912 tarihine kadarki ölümlerde 17 Muharrem 1284 tarihli İlk Tevsii İntikal Nizamnamesi, 06.03.1912 ile 04.10.1926 tarihleri arasındaki ölümlerde 21.02.1328 tarihli İkinci Tevsii İntikal Nizamnamesi hükümlerinin uygulanması, mirasçılardan Türk Kanunu Medenisi'nin yürürlüğe girdiği 04.10.1926 tarihinden 3678 sayılı Kanun'un yürürlüğe girdiği 23.11.1990 tarihine kadar ölenlerde değişiklikten önceki Türk Kanunu Medenisi hükümlerinin, bu tarihten Türk Medeni Kanunu'nun yürürlüğe girdiği 01.01.2002 tarihine kadar 3678 sayılı Kanunla getirilen değişik hükümlerinin, 01.01.2002 tarihinden sonra da 4721 sayılı Türk Medeni Kanunu hükümlerinin uygulanması gerekir.
 
 Temyizen incelenen kararda, murisin ölüm tarihinin 10.06.1913 olması nedeniyle "emlak" niteliğindeki taşınmazlarda feraiz hükümlerinin, "arazi" niteliğindeki taşınmazlarda ise 21.02.1328 tarihli İkinci Tevsii İntikal Nizamnamesi hükümlerinin dikkate alınarak mirasçılık belgesinin düzenlenmesi gerektiği göz önünde bulundurularak konusunda uzman bilirkişiden denetime elverişli rapor alınması gerekirken konunun uzmanı olmayan bilirkişiden alınan denetime elverişsiz raporla yetinilerek karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2025/847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1125763800)
+
 1\. 4721 sayılı Türk Medeni Kanunun 28. (743 sayılı Mülga Türk Kanunu Medenisinin 27.) maddesi uyarınca; kişilik, çocuğun sağ olarak tamamıyla doğduğu anda başlar ve ölümle sona erer, çocuk hak ehliyetini, sağ doğmak koşuluyla, ana rahmine düştüğü andan başlayarak elde eder. TMK’nın 582. (Mülga TKM’nın 524.) maddesine göre ise, cenin sağ doğmak koşuluyla mirasçı olur.
 
 Dava dosyasının incelenmesinde davacının sağ doğumla mirasçılık sıfatını ve tereke kapsamında bulunan malların mülkiyetini kazandığı, her ne kadar dava dışı anne ve baba adına veraset ilamı düzenlenmiş ise de anılan kişilerin ...’ın hiçbir zaman mirasçısı olmadıkları, buna göre mülkiyetin anne ... ve baba ...’e geçmediği, maliki olmadıkları malı devredemeyecekleri, devir işleminin temelden geçersiz olması nedeniyle minibüs hattının yarı hissesinin mülkiyetinin davalıya geçmeyeceği, dava dışı anne ...’in dava dışı ... ve ... lehine yapmış olduğu ibranamenin davacı mirasçının nüfusa tescil tarihi itibariyle geçersiz olduğu, yargılamada ileri sürülmeyen hususların kanun yolunda ileri sürülemeyeceği anlaşılmakla davalı vekilinin tüm temyiz itirazlarının reddi gerekmiştir.
 
 ## Yargıtay 7. HD 2025/172 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120560500)
 
 1.4721 sayılı Türk Medeni Kanunu’nun 598 inci maddesinde başvurusu üzerine yasal mirasçı oldukları belirlenenlere, Sulh Mahkemesince mirasçılık sıfatlarını gösteren bir belge verileceği açıklanmıştır. Mirasçılık belgesi, aksi ispat edilinceye kadar, adına düzenlenmiş bulunan kişi ve kişilerin mirasçılığı lehine bir karine oluşturur. Bu belge; miras bırakan ile mirasçıları arasındaki irs (soy) ilişkisini göstermesi yanında mirasın (terekenin) mirasçılara intikalini de sağlayıcı bir işleve sahiptir. 4721 sayılı Kanun'un 17 nci maddesi uyarınca, miras hükümleri, mirasçılık ve mirasın geçişi miras bırakanın ölüm tarihinde yürürlükte bulunan hükümlere göre belirlenir.
 
@@ -150,19 +180,27 @@ Mirasçılık belgesinin iptali davalarında ise, mirasçılar arasında zorunlu
 
 ## Yargıtay 12. HD 2024/9520 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1091561300)
+
 İİK'nin 53. maddesine göre; “Terekenin borçlarından dolayı ölüm günü ile beraber üç gün içinde takip geri bırakılır. Mirasçı mirası kabul veya reddetmemişse bu hususta Kanunu Medenide muayyen müddetler geçinceye kadar takip geri kalır. İcra takibi sırasında borçlu öldüğünde tereke henüz taksim edilmemiş veya resmi tasfiyeye tabi tutulmamış yahut mirasçılar arasında aile şirketi tesis olunmamışsa borçlu hayatta olsaydı hangi usul tatbik olunacak idi ise terekeye karşı ona göre takip devam eder.
 
 İİK'nin 53. maddesi gereğince borçlunun takip sırasında ölümü halinde alacaklının takip edebileceği iki yol vardır. Bunlardan birincisi takibin terekeye yöneltilmesi, ikincisi de mirasçılara yöneltilmesidir. Buna göre alacaklının tercih hakkını kullanarak, takibi mirasçılar hakkında mı yoksa terekeye karşı mı devam ettireceğini icra dairesine bildirmesi ve buna göre takibini sürdürmesi gerekmektedir.
 
 ## Yargıtay 7. HD 2024/2942 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1041016100)
+
 1.4722 sayılı Türk Medeni Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun 17. maddesinde, mirasçılık ve mirasın geçişinin miras bırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirleneceği öngörülmüştür. Miras bırakan 01.01.2002 tarihinden önce ölmüşse 743 sayılı Türk Kanunu Medenisi hükümlerinin, 01.01.2002 tarihinden sonra ölmüşse 4721 sayılı Türk Medeni Kanununun ilgili hükümleri uygulanır.
 
 ## Yargıtay 7. HD 2024/2190 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1036572800)
+
 2\. 4722 sayılı Türk Medenî Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanun'un 17 nci maddesine göre, mirasçılık ve mirasın geçişi, miras bırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirlenir. 04.10.1926 tarihinde yürürlüğe giren 743 sayılı Medeni Kanun'un bazı maddeleri, 23.11.1990 tarihinde yürürlüğe giren 3678 sayılı Yasayla değiştirilmiştir. Bu durumda, 04.10.1926 ila 23.11.1990 tarihleri arasında ölenlerin mirasçıları, 743 sayılı Kanun'un 3678 sayılı Yasayla yapılan değişiklikten önceki hükümlerine göre belirlenecektir. 743 sayılı Kanun'un 444 üncü maddesinin 3678 sayılı Yasayla değiştirilmeden önceki metnine göre; “Müteveffanın karı veya kocası, füruu ile içtima ettikte muhayyerdir; dilerse terekeden yarısının intifa hakkını, dilerse dörtte birinin mülkiyetini alır.”.
 
 ## Yargıtay 7. HD 2024/709 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015263700)
 
 2\. 743 sayılı Türk Kanunu Medenisi öncesinde uygulanan hukukumuzda poligami anlamına gelen bir erkeğin birden fazla kadınla evlenmesi mümkündü (Ömer Uğur Gençcan, Miras Hukuku, Ankara, 2021, s.377). 1919 yılına kadar yürürlükte bulunan 1917 tarihli Hukuk-I Aile Kararnamesinin 38 inci maddesi ile erkeğin birden çok kadınla evliliği, şarta bağlı olmak üzere kabul edilmişti (... Ünal, "Medeni Kanunun Kabulünden Önce Türk Aile Hukukuna İlişkin Düzenlemeler ve Özellikle 1917 Tarihli Hukuk-I Aile Kararnamesi”, AÜHFD, C.XXXIV, Sa. 1-4, Ankara, AÜHFY, 1977, s.229.; M. Âkif Aydın, İslâm-Osmanlı Aile Hukuku, İstanbul, 1985, s.215 ve 216). Adı geçen Kanun, 1919 yılında "ilga kararnamesi" ile yürürlükten kaldırılmış ve bu kararnamenin 2 nci maddesine göre Kanun'dan önce uygulanan hükümlerin mer'i olduğu belirtilmiştir.
 
@@ -170,9 +208,13 @@ Tüm dosya içindeki bilgiler değerlendirildiğinde; nüfus kayıt bilgilerine 
 
 ## Yargıtay 7. HD 2024/687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1001441900)
+
 Mirasçılık belgesi mülkte (emlakte) Feraiz hükümlerinin, arazide ise 21.02.1328 (1912) tarihli İkinci Tevsii İntikal Nizamnamesi hükümlerinin uygulanması gerektiği, mirasçılardan 743 sayılı Medeni Kanun ve 4271 sayılı Türk Medeni Kanunu'nun yürürlüğünden sonra ölenler olduğu taktirde, mülk ve arazi ayırt edilmeksizin ilgili Medeni Kanun hükümlerinin uygulanarak mirasçıların ve paylarının belirlenmelidir.
 
 ## Yargıtay 1. HD 2024/471 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042884400)
 
 Hemen belirtmek gerekir ki, 01.04.1974 tarih ve 1/2 sayılı İçtihadı Birleştirme Kararının uygulanabilmesi, mirasbırakanın üzerindeki taşınmazı kayden satış veya ölünceye kadar bakma akdiyle devretmesi ve bunun da muvazaalı olduğunun saptanması halinde mümkün olup mirasbırakan asıl davaya konu 21 parsel sayılı taşınmazını bağış suretiyle davalılara temlik ettiğine, birleştirilen davaya konu 2090, 2104, 2398 ve 1547 parsel sayılı taşınmazlarını ise kadastro tespitinden önce haricen davalılara bağışladığına göre anılan İçtihadı Birleştirme Kararının olayda uygulanma yeri bulunmamaktadır. Böylesi bağış yoluyla yapılan temliki işlemin koşulları varsa ancak Türk Medeni Kanunu'nun (TMK) 560 ilâ 571 inci maddeleri arasında öngörülen tenkis davasına konu edilebileceği, bağış yoluyla gerçekleştirilen temliklerde muvazaa olgusunun dinlenemeyeceği açık olup esasen bu husus Mahkemenin de kabulündedir.
 
@@ -180,8 +222,12 @@ Hemen belirtmek gerekir ki, 01.04.1974 tarih ve 1/2 sayılı İçtihadı Birleş
 
 ## Yargıtay 7. HD 2024/376 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043189800)
+
 1\. 743 sayılı Türk Kanunu Medenisi 612 nci maddesi şöyledir; "Miras haklarının temlikine mütaallik mirasçıların birbirleriyle akdedeceği mukaveleler ile hayatta bulunan ana yahut babanın müteveffa karı ve kocasından olan çocuklariyle bu çocuklara müteveffadan isabet eden hissenin temlikine mütaallik akdedecekleri mukavelenin, yazılı olması şarttır. Mirasçılardan biriyle hissesinin temlikine dair üçüncü bir şahıs arasında akdedilmiş olan mukavele üçüncü şahsa, taksime müdahale hakkı vermez. Üçüncü şahsın hakkı, ancak temlik eden mirasçıya ayrılan hissenin talebine münhasırdır.
 
 ## Yargıtay 7. HD 2023/6336 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109635900)
 
 4722 sayılı Türk Medeni Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanun'un 17 nci maddesi uyarınca; mirasçılık ve mirasın geçişi, miras bırakanın ölüm tarihinde yürürlükte olan hükümlere göre belirlenir. Muris ... 30.11.1959 tarihinde çocuksuz ve bekar olarak; eşi ... ise 20.03.1981 tarihinde ölmüştür. Murisin ölüm tarihinde ana babası hayatta değildir. Olayın çözümünde uygulanacak kanun hükmü 04.10.1926 ile 23.11.1990 tarihleri arasındaki ölümlerde 17.02.1926 günlü yürürlük tarihi 04.10.1926 olan 743 sayılı Türk Kanunu Medenisi hükümleri olup "Karı Kocadan Sağ Kalanın ..." başlıklı 444 üncü maddesinde; "müteveffanın karı veya kocası, furuu ile içtima ettikte muhayyerdir; dilerse terekeden yarısının intifa hakkını, dilerse dörtte birinin mülkiyetini alır.

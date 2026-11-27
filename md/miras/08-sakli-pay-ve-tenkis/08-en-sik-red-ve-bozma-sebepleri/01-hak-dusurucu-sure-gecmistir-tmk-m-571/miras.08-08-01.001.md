@@ -58,9 +58,13 @@ Vasiyetnamenin iptali ve tenkis davalarında 4721 sayılı Kanun'un 559. maddesi
 
 ## Yargıtay 4. HD 2024/12064 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1119197100)
+
 Bu durumda mahkemece davacı tarafa İİK'nın 94. maddesi uyarınca icra müdürlüğünden yetki alması için süre verilmesi, yetki belgesi alındıktan sonra davanın MK.nın 562. maddesi uyarınca değerlendirilmesi, taraf delillerinin toplanması, ondan sonra toplanan ve toplanacak tüm delillerin birlikte değerlendirilerek hasıl olacak sonuca göre bir karar verilmesi gerekirken yazılı olduğu üzere davanın kabulüne karar verilmesi doğru bulunmamıştır ..." gerekçesi ile kararın bozularak İlk Derece Mahkemesine gönderilmesine karar verilmiş, İlk Derece Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile, tenkis davası açma hakkının 1 yıllık hak düşürücü süreye tabi olduğu, icra dosyasından alacaklı (dosya davacısı) vekilinin murisin mal varlığına haciz konmasını talep ettiği dava konusu taşınmazın satıldığından 2015 yılı itibari ile haberdar olduğu anlaşıldığı, dava tarihi 09.10.2017 itibari ile tenkis davası açılabilmesi için kanunda öngörülen hak düşürücü sürenin geçmiş olduğu gerekçesi ile davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2024/4305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059697900)
 
 Dava, muris muvazaası hukukî nedenine dayalı miras payı oranında tapu iptali ve tescil, olmazsa tenkis istemine ilişkindir.
 
@@ -72,15 +76,21 @@ Ayrıca, ... mirasçıları olan dahili davalılar arasında zorunlu dava arkada
 
 ## Yargıtay 7. HD 2024/2131 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037500500)
+
 Yukarıda anlatılanlarla dava dilekçesi birlikte değerlendirildiğinde davada; mirasbırakan ... adına kayıtlı iken davalıların mirasbırakanı ... ile davalı ... ... satış suretiyle devredilen taşınmazlar hakkında, davacıların saklı payını bertaraf etmek suretiyle yapılan kazandırmaların tenkisi talep edilmiştir. Ne var ki, mirasbırakan 07.06.2017 tarihinde ölmüş olup, eldeki dava ise 4721 sayılı Kanun'un 571 inci maddesinde düzenlenen 1 yıllık hak düşürücü süre içerisinde 28.05.2018 tarihinde açılmıştır. İlk Derece Mahkemesince davanın mirasbırakan ...'ın kazandırmaları hakkında tenkis istemi ile açılmış olduğu değerlendirmek suretiyle davanın hak düşürücü süre geçtiğinden bahisle usulden reddine karar verilmesi hatalı olduğu gibi Bölge Adliye Mahkemesince 743 sayılı Medeni Kanun hükümlerine göre değerlendirme yapılarak mahkeme kararı kaldırılıp davanın zamanaşımı nedeniyle reddine karar verilmesi de doğru görülmemiştir.
 
 Hal böyle olunca; davacıların eldeki davaya konu taşınmazlar hakkında açtığı Diyarbakır 1. Asliye Hukuk Mahkemesinin 2017/614 Esas, Diyarbakır 7. Asliye Hukuk Mahkemesinin 2017/1195 Esas ve Diyarbakır 9. Asliye Hukuk Mahkemesinin 2017/959 Esas sayılı dosyalarının sonucunun eldeki davayı da etkileyeceği gözetilerek tenkis konusunda hükme yeterli araştırma ve incelemenin yapılması, tarafların tüm delillerin toplanması, hasıl olacak sonuca göre bir karar verilmesi gerekir.
 
 ## Yargıtay 7. HD 2023/1903 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892077300)
+
 Saklı pay sahibi mirasçı ...'ın ölüm tarihi itibari ile tenkis davasını açması için öngörülen hak düşürücü sürenin geçip geçmediği hususu önem kazanmaktadır. Türk Medeni Kanunu'nun 571 inci maddesine göre tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden on yıl geçmekle düşer. Bursa 1. Sulh Hukuk Mahkemesinin 2013/1837 Esas, 2013/1930 Karar sayılı dosyasında vasiyetname, davacıların annesi ...'a 26/11/2013 tarihli duruşmada okunmuş, davacıların annesi ... bir yıllık hak düşürücü süre içinde tenkis davasını açmamış ve tenkis davası için öngörülen hak düşürücü süre geçtikten sonra 11.03.2017 tarihinde ölmüştür.
 
 ## Yargıtay 7. HD 2023/798 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884577800)
 
 Tenkis davasını Türk Medeni Kanunu'nun 560 ıncı maddesine göre, saklı pay sahibi mirasçılar açabilir. Davacı ise, miras bırakan Sıtkıye Yüksel Karaer'in saklı pay sahibi mirasçısı değildir. Davacı vekili, tenkis davasını müvekkilinin babası ...'in saklı payına dayanarak açmıştır. Tenkis davası için öngörülen hak düşürücü süre dolmadan önce ölen saklı pay sahibi mirasçının, tenkis davasını açma hakkı kendi mirasçısına halefiyet yolu ile geçer (Ömer Uğur Gençcan, Miras Hukuku, Yetkin Yayınları, Ankara, 2021, 5. Baskı, sayfa 761).
 
@@ -89,10 +99,14 @@ Bu durumda, davacının tenkis davası açma hakkını dayandırdığı ...'in �
 
 ## Yargıtay 1. HD 2021/7914 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/731496600)
+
 İlk Derece Mahkemesince, muris davalıya bağışta bulunurken akli melekelerinin yerinde olduğu, kendisine en yakın olan ve yıllarca bakımını üstlenen çocuğunun oğluna bağışta bulunmasında hayatın olağan akışına aykırı bir durum bulunmadığı, nihayetinde ortada tapu iptali ve tescilini gerektirecek bir muvazaanın bulunmadığı, tenkis davası yönünden ise dava tarihi itibariyle tenkis davası açma hakkının düştüğü gerekçeleri ile asıl ve birleştirilen davaların reddine karar verilmiş, verilen karara karşı istinaf talebinde bulunulması üzerine, ... Bölge Adliye Mahkemesi 1.
 Hukuk Dairesince, eldeki asıl davanın temliki yapan muris ...'ın mirasçılarından ..., birleştirilen davanın ise mirasçılardan ..., ... ve ... tarafından terekeye iade istekli açıldığı, ancak asıl dava yönünden tensiple birlikte verilen kesin süreye rağmen terekeye temsilci atanmadığı, birleştirilen dava yönünden ise TMK'nun 640. maddesi gereği yerine getirilmemiş olmakla davanın görülebilirlik koşulunun sağlanmadığı, davanın usulden reddine karar verilmesi gerekirken asıl ve birleştirilen dava bakımından yazılı olduğu üzere davanın reddine karar verilmiş olmasının doğru olmadığı gerekçeleri ile asıl ve birleştirilen davada davacılar vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılarak asıl ve birleştirilen davaların usulden reddine karar verilmiştir.
 
 ## Yargıtay 3. HD 2021/3703 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666824800)
 
 Dava, vasiyetnamenin iptali istemine ilişkindir.
 
@@ -106,6 +120,8 @@ Bu açıklamalar ışığında somut olay incelendiğinde; davacının, mirasbı
 
 ## Yargıtay 1. HD 2021/1432 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651655800)
+
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali-tescil, olmadığı takdirde tenkis isteğine ilişkin olup, mahkemece bağış suretiyle gerçekleştirilen temlikte saklı payı zedeleme kastının ispat edilemediği gerekçesiyle davanın reddine ilişkin karar Dairece; davanın TMK'nın 571.
 
 …
@@ -116,6 +132,8 @@ Somut olayda; davacılar saklı payın zedelendiğini 2011 yılı ocak ayındaki
 
 ## Yargıtay 1. HD 2020/5105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648537300)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil ile tenkis isteklerine ilişkindir.
 
 …
@@ -124,14 +142,20 @@ Davanın reddine ilişkin olarak verilen karar Dairece; “... muris ...'in 06/0
 
 ## Yargıtay 16. HD 2020/5057 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/629215700)
+
 Davacılar, dava aşamasında dava ettikleri taşınmazların elden çıkarılması halinde yeni malike karşı davanın yöneltilememesi halinde tazminata dönüştürülmesi, fazlaya dair haklar saklı kalmak kaydıyla şimdilik 30.000,00 TL tazminatın davacıların hissesi nispetinde davacılara ödetilmesi, ...Köyü 232 ada 102, ...Köyü 250 ada 3, 219 ada 1, 242 ada 6, 248 ada 5, 6, 7, 8, 253 ada 14, 17, 246 ada 3 parsel sayılı taşınmazların adlarına tespit edilen mirasçılar tarafından kayden satılmaları nedeniyle davacıların miras payları oranında tenkisi, olmadığı taktirde fazlaya dair hakları saklı kalmak kaydıyla belirttikleri tazminatın davacılara ödenmesi ve dava tarihinden geriye doğru 10 yıllık ecrimisil tazminatı için şimdilik 100,00 TL'nin tahsili ayrıca dava açmış olup, Mahkemece, davanın hak düşürücü sürenin geçtiği gerekçesiyle reddine karar verilmiş ise de, 3402 sayılı Kadastro Kanunu'nun 12/3. maddesinde yazılı 10 yıllık hak düşürücü sürenin, ancak kadastro tespiti yapılıp kesinleşen taşınmazların aynına (mülkiyetine) yönelik tespit öncesi nedene dayalı olarak açılacak tapu iptali ve tescili istemli davalarda dava şartı olarak öngörüldüğü, tenkis davasının belirtilen taşınmazların tespitin
 kesinleşmesinden sonra satılması nedenine dayalı olarak açıldığı, tenkis olmadığı taktirde tazminat isteminin ise davalıların bu satıştan edindiği bedele yönelik olarak açıldığı, ecrimisil talebinin ise yine bedele ilişkin olduğu gözetildiğinde, mülkiyet dışındaki bu taleplerin 6098 sayılı Borçlar Kanun'un 77. ve devamı maddelerinde öngörülen sebepsiz zenginleşme hükümlerine ve 4721 sayılı Medeni Kanun'un 560. ve devamında düzenlenen tenkise ilişkin hükümlerine dayalı olarak, tarafların iddia ve savunmaları doğrultusunda delillerin toplanması ve sonucuna göre işin çözümlenerek bir karar verilmesi gerekirken, Mahkemece, talebin niteliğine uygun düşmeyen kanun hükümlerinin uygulanması suretiyle davanın reddine karar verilmesi isabetsiz olup, davacılar vekilinin temyiz itirazlarının yukarıda belirtilen nedenlerle kabulü ile usul ve yasaya aykırı hükmün BOZULMASINA, Yargıtay duruşması için belirlenen 2.540,00 TL vekalet ücretinin aleyhine temyiz olunan taraftan alınarak, duruşmada kendisini vekil ile temsil ettiren davacı tarafa verilmesine, …
 
 ## Yargıtay 1. HD 2020/4393 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594561400)
+
 Davanın kabulüne ilişkin olarak verilen karar Dairece, "Hal böyle olunca "hibe" yoluyla temlik edilen dava konusu taşınmaz bakımından tenkis incelemesi yapılarak sonucuna göre karar verilmesi gerekirken, yanılgılı değerlendirme yazılı şekilde karar verilmiş olması doğru değildir. " gerekçesiyle bozulmuş olup bozma ilamına uyularak yapılan yargılama neticesinde mahkemece, işlem bağış niteliğinde olduğundan 01.04.1974 tarih, 1/2 sayılı İnançları Birleştirme Kararının uygulama yerinin bulunmadığı ve muris muvazaasına ilişkin iddianın dinlenemeyeceği gerekçesiyle tapu iptali ve tescil; mirasbırakanın ölümünden itibaren 10 yıllık hak düşürücü süre geçtikten sonra davanın açıldığı gerekçesiyle tenkis, isteklerinin reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2020/4130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631171500)
 
 Somut olaya gelince; dava konusu 115 ada 6 parsel sayılı taşınmazın geldisi olan parsellerden 3832, 3896, 3950, 4167 ve 4436 parsel sayılı taşınmazların mirasbırakan tarafından bağış yoluyla davalıya devredildiği, diğer geldi 6143 parselin ise dava dışı Soner tarafından davalıya devredildiği, mirasbırakandan davalıya yaptığı bir temlik bulunmadığı anlaşılmakla 115 ada 6 parsel yönünden 1.4.1974 tarih ½ sayılı İçtihadı Birleştirme Kararı uygulanamaz …
 
@@ -139,12 +163,16 @@ Somut olaya gelince; dava konusu 115 ada 6 parsel sayılı taşınmazın geldisi
 
 ## Yargıtay 16. HD 2020/2907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621838600)
+
 Çekişmeli taşınmazların tespitinin 2008 yılında davalı adına yapıldığı ve aynı yıl kesinleşerek tapuya tescil edildiği, tarafların murisi ...’nun kadastro tespitinin kesinleşmesinden sonra 02.06.2010 tarihinde öldüğü ve eldeki davanın da 15.07.2010 tarihinde açıldığı, 2015 yılında yapılan keşif ve alınan beyanlara göre, murisin, kadastro tespiti sırasında bizzat ve iradesi doğrultusunda taşınmazların davalı adına tespit edilmesini istediğinin, diğer bir anlatımla davalıya bağışladığının ve zilyetliğinin devredildiğinin, bu haliyle artık davacıların taşınmazlarda miras yoluyla gelen haklarının bulunmadığının belirlenmemiş olması karşısında, davacıların, tapu iptali ve tescil davasına yönelik temyiz itirazları yerinde değildir.
 
 Ancak; yukarıda anlatıldığı üzere, 06.04 2015 tarihinde yapılan keşif sırasında alınan beyanlardan, murisin taşınmazları kendi iradesiyle devrettiğinin belirlenmesi üzerine, davacı tarafça 05.01.2016 tarihli ıslah dilekçesiyle tapu iptali ve tescili davası yönüyle mahkemenin aksi kanaatte olması halinde davanın tenkis davasına dönüştürülmesi talebinde bulunmuşlardır. Bu durumda öncesinin murise ait olduğu hususunda ihtilaf bulunmayan taşınmazların, muris tarafından kadastro tespiti sırasında kendi iradesiyle davalıya devredildiğinin keşif sırasında alınan beyanlardan öğrenildiği ve davacıların, öğrenme tarihinden sonra bir yıllık hak düşürücü süre içinde ıslah talebinde bulundukları açıktır.
 Diğer yandan, eldeki dava, murisin ölüm tarihinden yaklaşık 45 gün sonra açıldığına ve ıslahla talep daraltıldığına göre, hak düşürücü sürenin belirlenmesinde dava tarihinin esas alınması gerektiğinin, hatta tapu iptal ve tescil davası tenkis davasına göre daha geniş kapsamlı olduğu için ıslaha gerek kalmaksızın davanın tenkise çevrilmesinin mümkün bulunduğunun, çoğun içinde az da vardır kuralı gereğince tapu iptal ve tescil davasının tenkis davasına dönüştürülmesinde usul ve yasaya aykırı bir yön bulunmadığının, ıslah talebi dava tarihine göre hüküm ve sonuçlarını doğuracağından murisin ölüm gününden dava tarihine kadar da 1 yıllık hak düşürücü sürenin de geçmediğinin kabulü gerekir.
 
 ## Yargıtay 1. HD 2020/2135 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646513000)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis istemine ilişkindir.
 
@@ -154,6 +182,8 @@ Davanın reddine ilişkin verilen karar Dairece; "...Somut olayda, tenkis isteğ
 
 ## Yargıtay 1. HD 2020/801 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594860800)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis, vasiyetnamenin iptali isteklerine ilişkindir.
 
 …
@@ -161,6 +191,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadı�
 Hal böyle olunca, çekişme konusu 141 ada 33 parsel sayılı taşınmazın davalı ...’e temlik edildiğini, davacıların hangi tarihte öğrendiklerinin, öğrendikleri tarih itibariyle Türk Medeni Kanunu 571.maddesindeki hak düşürücü sürenin geçip geçmediğinin, ayrıca bu temlikin murisin diğer mirasçıların saklı paylarını etkisiz kılmak amacıyla yapılıp yapılmadığının açıklığa kavuşturulması, davanın süresinde açıldığı ve murisin temliki saklı pay kurallarını etkisiz kılmak amacıyla yaptığı belirlenirse, murisin aktif ve pasif malvarlığı saptanarak konusunda uzman bilirkişiden tenkis raporu alınması, 121 ada 21 ve 23 parsel sayılı taşınmazlar bakımından da; muris adına kayıtlı diğer taşınmazlar saptanarak değerleri belirlendikten sonra çekişme konusu taşınmazların tüm malvarlığına oranla makul sınırlar içerisinde kalıp kalmadığının değerlendirilmesi yanında, tanıklar yeniden dinlenerek temlikin mal kaçırma amaçlı olup olmadığının yukarıda açıklanan ilkeler uyarınca belirlenmesi gerekirken değinilen hususları içermeyen biçimde yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2019/6498 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592546600)
 
 Dava, tapu iptali ve tescil, mümkün olmazsa tenkis isteğine ilişkindir.
 
@@ -172,6 +204,8 @@ Kabule göre de, mirasbırakanın 27.06.2013 tarihinde öldüğü, eldeki davan�
 
 ## Yargıtay 1. HD 2019/4361 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515765200)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tazminat isteğine ilişkindir.
 
 …
@@ -180,16 +214,22 @@ Mirasçıların vasiyetnamenin iptali davası sürerken tenkis davası açmalar�
 
 ## Yargıtay 1. HD 2019/4189 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515764700)
+
 Ancak; tenkis davasında faiz istemi de, asıl alacağın bağlı olduğu hak düşürücü süreye tabidir. Öyleyse, TMK.'nun 571. maddesi uyarınca tenkis davasında hak düşürücü süre bir yıl olduğuna göre,faiz isteğinde de, bir yıllık hak düşürücü sürenin uygulanması gerekir.Ayrıca ifade edilmelidir ki, tenkis davasında faiz istenilmemişse ,davacı faiz isteme hakkını saklı tutmuş olsa bile, bu dava ile faiz hakkındaki hak düşürücü süre kesilmiş olmaz.
 Bu itibarla, faiz isteğine ilişkin dava, mutlaka bir yıllık hak düşürücü süre içinde açılmalıdır.Tüm bu açıklamalar ışığında somut olaya bakıldığında;davacılar,tenkis davasını 08.09.2005 tarihinde açtıklarına göre; en geç bu tarihte saklı paylarının zedelendiğini öğrendiklerinin kabulünün gerektiği ve dolayısıyla belirtilen tarih itibariyle faiz istemi yönünden de TMK.'nun 571. maddesinde öngörülen bir yıllık hak düşürücü sürenin işlemeye başladığı açıktır.Diğer taraftan, tenkis davasının faiz alacağı için yapılacak takip yönünden hak düşürücü süreyi kesmediği de ortadadır.Bu durumda,faiz alacağına ilişkin takibin başlatıldığı 27.12.2012 tarihi itibariyle bir yıllık hak düşürücü sürenin geçtiği kuşkusuzdur.Hal böyle olunca, faiz alacağının bir yıllık hak düşürücü süre içinde takip konusu yapılmadığı gözetilerek davanın reddine karar verilmesi gerekirken, yanılgılı değerlendirmeyle,yazılı şekilde hüküm tesisi isabetsizdir.Davalının yerinde bulunan temyiz itirazlarının kabulü ile, hükmün (6100 sayılı Yasa'nın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 27/06/2019 tarihinde oybirliğiyle
 karar verildi.
 
 ## Yargıtay 16. HD 2019/138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478166900)
+
 1973 yılında yapılan kadastro sonucu ... Mahallesi çalışma alanında bulunan 27 ada 22 parsel sayılı 5.548,00 metrekare yüzölçümündeki taşınmaz (İbrahim evladı) ... adına zilyetlik nedeniyle kadastro komisyon kararı ile tespit edilmiş ve itiraz edilmeksizin 03.12.1973 tarihinde kesinleşmiştir. Davacı ...; çekişmeli 27 ada 22 parsel sayılı taşınmazın ...’nin tüm mirasçıları adına tespiti gerekirken yalnızca ... adına tespitinin hatalı olduğu; bu taşınmazın daha sonra ifraz edilerek davalılar adına tapuda kayıtlı bulunan ... Mahallesi 1971 ada 1 parsel sayılı 1.500,00 metrekare yüzölçümlü taşınmazda bulunan, A-Blok zemin kat 1-14; birinci kat 2-3-4; 3.kat 10; 4.kat 11-12-13-14 numaralı bağımsız bölümler;
 1969 ada 2 parsel sayılı 874,00 metrekare yüzölçümlü taşınmazda bulunan zemin kat 1-2; birinci kat 5 numaralı bağımsız bölümler ile 1968 ada 65 parsel numarasını aldığı ve 2004 yılında (tespit maliki) ... ’nin vasiyetnamesinin mahkemece açılması sonucunda, dava konusu taşınmazların tamamının muvazaalı ve davacının saklı payına tecavüz eder şekilde davalılar ... ve ...’ye vasiyet edildiğinin anlaşıldığı; vasiyetnamenin açılmasına ilişkin davadan usulünce haberdar edilmediği, yine davalılar adına tapuda kayıtlı bulunan ...13 parsel sayılı 1.211,00 metrekare yüzölçümlü taşınmazda bulunan zemin kat 89-96-110-111 nolu bağımsız bölümler; birinci kat 131 nolu bağımsız bölüm ve ikinci kat 2 nolu bağımsız bölümlerinde, iptalini talep ettikleri vasiyetname uyarınca davalılar adına tescil edildiği iddiasına dayanarak; taşınmazların davalılar adına olan tapu kayıtlarının ve ...Sulh Hukuk Mahkemesi’nin ... Esas ve ...
 Karar sayılı dosyasıyla açılan ...’nin vasiyetnamesinin iptali ile çekişmeli taşınmazların miras hissesi oranında davacı adına tapuya kayıt ve tesciline; tapu iptal ve tescil talebi kabul edilmediği takdirde dava konusu taşınmazların belirlenecek değerlerinin toplamının miras payı ve saklı payı oranında tenkise tabi tutularak fazlaya ilişkin hakları saklı kalmak kaydıyla 50.000 TL’nin davalılardan tahsili istemiyle terditli olarak dava açmıştır. Yargılama sırasında ... Lider Grup A.Ş. davacının, kendilerinin takip borçlusu olduğu, bu nedenle davayı kazanmasında hukuki yararları bulunduğu iddiasıyla davacı yanında davaya müdahil olmuştur. Mahkemece yapılan yargılama sonunda davacının tapu iptal ve tescil talebinin 3402 sayılı Yasa'nın 12/3. maddesinde öngörülen 10 yıllık hak düşürücü süre geçmiş olduğundan reddine; vasiyetnamenin iptali ve tenkis talebinin ise davacının aktif husumeti bulunmadığından sıfat yokluğundan (husumetten) reddine karar verilmiş; hüküm, davacı ... vekili tarafından temyiz edilmiştir.
 
 ## Yargıtay 3. HD 2015/10599 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142225500)
 
 Karar düzeltme istemi üzerine yeniden yapılan incelemede; davacı tarafın vasiyetnameden 06.04.2011 tarihinde haberdar oldukları, dava ve birleşen davalarını ise 26.04.2011 tarihinde açtıkları asıl davada sadece vasiyetnamenin iptali talep edildiği, davacı vekili tarafından “ 26.04.2013 tarihinde” ıslah ile davasının “tenkis” olarak değiştirildiği bu durumda, ıslah tarihi olan 26.04.2013 tarihi itibariyle TMK 571. maddesinde öngörülen 1 yıllık hak düşürücü sürenin geçmiş olduğu anlaşılmaktadır.

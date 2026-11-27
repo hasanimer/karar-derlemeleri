@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2006/12406 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78046500)
+
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
 …
@@ -29,6 +31,8 @@ Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı tapu iptal 
 Ehliyetsiz olduğu saptanan S..A...'nın terekesi elbirliği mülkiyetine tabidir.Davacılar Medeni Kanunun 701.maddesi hükmünce paylarına yönelik taleplerinin dinlenilme olanağı yoktur.Başka bir anlatımla davanın tüm iştirakçilerinin katılımıyla ve terekeye iade şeklinde açılması asıldır.Ayrıca, Türk Medeni Kanununun 702.maddesinin çekişmede uygulama yeri yoktur.
 
 ## Yargıtay 14. HD 2006/9886 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852591300)
 
 Dava, tapu iptali ve tescil isteğine ilişkindir.
 
@@ -38,18 +42,26 @@ Bu tür mülkiyette işin özelliği gereği ortaklar arasında zorunlu dava ark
 
 ## Yargıtay 14. HD 2006/7904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851928800)
+
 Türk Medeni Kanunun elbirliği mülkiyetine dair düzenleme getiren 701. ve 702. maddelerinde elbirliği paydaşlarının tazminat istemi yönünden birbirlerini temsilde yetkili bulunacaklarına dair bir hüküm yer almamıştır. Bu konuda mirasta intikal hükümleri gereğince Türk Medeni kanunun 640.maddesinde düzenleme mevcut olup bu maddenin ikinci fıkrası gereğince elbirliği malikleri, yani mirasçılar birlikte hareket etmek mecburiyetindedirler. Bu nedenle davacıya dava hakkında diğer mirasçılarında olurunu sağlamak yada onları davaya katmak veyahut terekeye temsilci tayin ettirilerek onun huzuru ile davaya devam etmek üzere imkan ve süre verilerek bundan sonra tazminata ilişkin konuda karar vermek gerekirken davacı safında aktif husumet birliği sağlanmadan tazminat konusunda hüküm tesisi doğru değildir. Hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 14. HD 2006/4671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856014100)
 
 Davaya konu edilen 136, 405, 2391, 109, 1628, 1574, 1491 parsel numaralı taşınmazlar tarafların müşterek murisi Mustafa ... adına kayıtlı bulunmaktadır. Kayıt maliki Mustafa 21.3.1964 tarihinde vefat etmiş olup bu tarih itibariyle mirasta intikal hükümleri gereğince mirasçıları olan taraflar terekesine elbirliği mülkiyeti hükümleri gereğince malik olmuşlardır. Mirasçılar sahip oldukları miras şirketini (elbirliği mülkiyetini) çözmedikleri sürece paydaşlardan birinin kendi payını miras şirketi dışında bir 3.ncü kişiye devretmesi mümkün bulunmamaktadır. Yasanın buradaki koruması, miras şirketine, paydaşlardan tamamının iradesi alınmadan bir başkasının şirkete girişini engellemeye yöneliktir. Davacı miras şirketinin bir üyesi olup davalılardan ... Yigit’te bu şirkete dahil diğer bir paydaştır. ... ... tasdikli hüviyetini göstermek suretiyle aracı kıldığı Van Asliye Hukuk Mahkemesine sunduğu 8.9.2003 günlü dilekçesi ile davayı kabul ettiğini bildirmiştir. Davaya kabul kesin hükmün hukuki sonuçlarını doğurur.
 Az yukarıda açıklandığı üzere davalı ... .... davacı ile birlikte muris ..... terekesinin ortakları olduğundan kabule bağlı kalınarak ... ... payının iptali ile davacı adına tesciline karar verilmesi halinde onun payı yine miras şirketi içinde kalmış olacağından yasanın elbirliği mülkiyeti hakkında getirdiği kurallara aykırı bir sonuç doğurmayacağı açıktır. Bu nedenledir ki davalı ... ... payının iptali ile davacı adına tescile karar verilecek yerde ... ...’e yönelik davanın da reddine karar verilmesi doğru görülmemiş hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2006/1342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851527200)
+
 Mirasçılar terekeye elbirliğiyle sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler.” hükmünü içermektedir. Anılan maddeye göre mirasçılar terekeye ait bütün haklar üzerinde birlikte tasarrufta bulunacaklardır. Dava açılması da bir tasarruf işlemi olduğundan mirasçılar arasında zorunlu dava arkadaşlığı bulunmaktadır. Zorunlu dava arkadaşları da birlikte hareket etmek durumunda olduklarından, elbirliği mülkiyeti hükümlerine tabi bir taşınmaz lehine geçit hakkı tesisi istemini, iştirakçilerin birlikte ileri sürmeleri gerekir. Mahkemenin bu yöndeki saptaması ve diğer mirasçıların davaya olurlarının sağlanması için davacıya önel vermesinde bir usulsüzlük yoktur. Davacı da mirasçılar adına davetiye çıkartılması için 9.9.2005 tarihinde dilekçe vermiş mirasçıların adreslerini bildirmiştir. Ancak, bu bildirime rağmen yeniden davacı vekiline kesin süre verilerek bu süre içinde mirasçıların davada yer almadığı gerekçesiyle dava reddedilmiştir. Burada verilen kesin sürenin kurumun amacı ile bağdaşmadığı açıktır. Şöyle ki, …
 
 ## Yargıtay 14. HD 2006/852 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16157900)
 
 Dava; 326 ada 3 parsel sayılı taşınmaz kaydı üzerine konan ipotek rehininin kaldırılması İstemine ilişkindir.
 
@@ -59,19 +71,27 @@ Burada öncelikle davacı .......'ın tek başına dava açıp açamayacağı hu
 
 ## Yargıtay 16. HD 2005/11941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16483700)
+
 …
 
 ..'in terekesi iştirak halinde mülkiyet hükümlerine tabidir. İştirak halinde mülkiyette hak veya mal hakkında açılacak davalarda mirasçıların hepsinin davaya katılması veya miras ortaklığının bir mümessil tarafından temsil edilmesi gerekir. Mirasçılardan biri tarafından açılan davaya sonradan diğer mirasçıların katılmaları veya muvafakatlerini bildirmeleri mümkündür. Tüm mirasçıların katılma veya muvafakatleri sağlanamadığı takdirde miras şirketine mümessil tayin ettirilmesi gerekir. Bu itibarla davacıya, diğer mirasçıların davaya katılması veya muvafakatlarının sağlanması, olmadığı takdirde terekeye mümessil tayin ettirmesi için süre verilip, bu işlem tamamlandıktan bir başka ifade ile dava şartı yerine getirildikten sonra yargılamaya devam edilmelidir. Tüm mirasçıların davaya katılması veya muvafakatları sağlanmadan yargılamaya devam edilip sonuçlandırılması usul ve yasaya aykırı, temyiz itirazları bu nedenlerle yerinde bulunduğundan kabulü ile hükmün (BOZULMASINA), Yargıtay duruşması için belirlenen 450.00 YTL vekalet ücretinin davalı taraftan alınarak duruşmada kendisini vekille temsil ettiren davacıya verilmesine 06.12.2005 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 6. HD 2005/7078 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16426600)
+
 Onalım hakkının kullanılmasında davacının dayandığı pay elbirliği mülkiyetine konu ise tüm ortaklar birlikte dava açmalı veya birinin açtığı davaya diğerleri muvafakat etmelidir. Çünkü bu gibi hallerde 11.10.1982 gün ve 3/2 sayılı İçtihadı Birleştirme Kararı uyarınca davanın tereke adına açıldığının kabulü gerekir. Davaya muvafakat veren ortak haktan vazgeçtiğini beyan ederse, davanın kabulü halinde onalım hakkına konu edilen pay diğerleri adına, davacı dışındakilerin hepsi haktan vazgeçerse sadece davacı adına tescil edilir. Muvafakatin olmaması halinde payın tereke adına tescili gerekir.
 
 ## Yargıtay 17. HD 2004/14662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16385000)
+
 Davacılardan ...'ın karar düzeltme istemine gelince; istek, 237 parsel içerisindeki (B) ile işaretli muhdesat nevinden olan 3 katlı binaya ilişkin bulunmaktadır, 237 parselin tarafların ortak miras bırakanları 1961 yılında ölen ...'dan kaldığı uyuşmazlık konusu olmadığı gibi bu yön mahkemenin de kabulündedir. Hakkı'nın ölümünden sonra terekesinin taksim edildiği iddia edilip kanıtlanmış değildir. Hal böyle olunca mirasçıları arasında iştirak halinde mülkiyet hükümlerinin geçerli olduğunda duraksamamak gerekir. Dava ve hüküm tarihinde yürürlükte bulunan 3402 sayılı Kadastro Yasasının 19/2. maddesinde, taşınmaz mal üzerinde malikinden başka bir kimseye veya paydaşlarından birine ait muhdesat mevcut olduğunda bunun sahibi, cinsi, ihdas tarihi ve iktisap sebebi belirtilerek tutanağı ve kütüğünün beyanlar hanesinde gösterileceği hükme bağlanmıştır. Maddede sözü edilen paydaşlık müşterek mülkiyet, başka bir anlatımla müşterek malikleri ifade eder. İştirak halinde mülkiyette mirasçılardan biri yada birkaçı diğerlerine göre başka bir kimse sayılmaz.
 
 ## Yargıtay 1. HD 2004/8013 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16389300)
 
 Dava, 3621 sayılı Yasa hükümleri gereğince tapu iptali ve sicil kaydının terkini isteğine ilişkindir.
 
@@ -83,10 +103,14 @@ Diğer taraftan, 4.5.1978 tarih ve 4/5 sayılı İçtihadı Birleştirme Kararı
 
 ## Yargıtay 16. HD 2004/4089 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16353800)
+
 3402 sayılı Kadastro Kanunu'nun 15/3. maddesi uyarınca iştirak halinde mülkiyet hükümlerinin söz konusu olduğu hallerde iştirakçilerin taşınmaz maldaki hissesini devir ve temliki tapusuz taşınmazlarda her türlü delille kanıtlanabilir. Davalıların dayandığı 18.6.1993 tarihli senet üçüncü şahıs durumundaki Şaban evlatlarına yapılan satışa ilişkin olmakla geçerli değil ise de Ayşe Göçmen, Keziban Buhurcu ve Emine Öztürk'ün mirasçı Şaban Koçyiğit'e yaptığı 30.1.1977 tarihli miras payı satışına değer verilmesi zorunludur. 30.1.1977 tarihli senedin tarafları Mehmet Koçyiğit mirasçısı durumunda olup 3402 sayılı Kadastro Kanunu'nun 15/3. maddesi anlamında senet geçerlidir. Dinlenen bilirkişi ve tanık beyanlarıyla senet içeriği doğrulanmış, zilyetliğin devri de bilirkişi ve tanık beyanlarını güçlendirmiştir. Hal böyle olunca;
 Mehmet Koçyiğit mirasçılarından Ayşe Göçmen, Keziban Bulurcu ve Emine Öztürk'ün miras paylarını Şaban Koçyiğit'e sattıkları dosya kapsamıyla sabit olmakla mahkemece satıma konu olan miras paylarının Şaban Koçyiğit uhdesinde bırakılması suretiyle ve iştirak halinde mülkiyet şeklinde davanın kısmen kabul ve kısmen reddine karar verilmesi gerekirken satışa konu payları da içerecek şekilde davanın tamamının kabulüne karar verilmesi isabetsiz olduğundan Şaban Koçyiğit'in Ayşe Göçmen, Keziban Buhurcu ve Emine Öztürk payları yönünden temyiz itirazlarının kabulüyle hükmün BOZULMASINA, Yargıtay duruşması için belirlenen 375.000.000 TL. avukatlık vekalet ücretinin aleyhine temyiz olunan taraftan alınarak kendisini duruşmada vekil ile temsil ettiren temyiz eden tarafa verilmesine 9.3.2004 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2000/8455 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16283000)
 
 Dava, konut ihtiyacı nedeniyle kiralananın tahliyesi istemine ilişkindir.
 
@@ -108,6 +132,8 @@ Somut olayda davalı şirket ortağı murisin terekesinin temsil edilmediği; mi
 
 ## Ankara BAM 21. HD 2026/453 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206882300)
+
 Bilindiği üzere ortağın ölümü ile pay mirasçılara iştirak halinde mülkiyet hükümlerine göre geçer. Bu nedenle de Dairemiz kararında ilk olarak şirketin alım önerisini miras şirketine yapması gereğini gerekçe yapmıştır. Nitekim gerekçede belirtilen doktrin görüşleri miras şirketinin iştirak hali çözülmemiş veya çözümlendiğine dair fiili bir durum ispatlanmamış ise şirketin muhatabı ölen pay sahibinin payına iştirak halinde malik olan miras şirketidir. Miras şirketinin iştirak halinin çözümlenmesi ancak mirasçıların iradesi ile (veya tarafların arasındaki ortaklığın giderilmesi davası yolu ile) olabilir. Üçüncü kişi olan şirketin iştirak halini çözme yetkisi ve hakkı bulunmadığı için muhatabı -tıpkı genel kurul toplantısında temsil hakkının miras şirketine veya anlaşılamıyorsa temsilciye ait olduğu gibi (Yargıtay 11 Hukuk Dairesinin yerleşmiş uygulaması) - miras şirketi olup satın alma önerisini miras şirketine yöneltmesi gerekir. Diğer taraftan bakıldığında da yenilik doğurucu bir hakkın kullanılmasına ilişkin değerlendirme yetkisi de mirasçıya değil miras şirketine aittir.
 Bu nedenle de satın alma önerisini değerlendirme yetkisi miras şirketine ait olmakla irade beyanının da şirket tarafından miras şirketine yöneltilmesi gerekir. Somut olayda şirket henüz sona ermemiş bir iştirak hali mevcut iken miras şirketini oluşturan mirasçılardan sadece davacıya öneride bulunarak bu kuralı ihlal ettiğinden, yaptığı öneri geçersiz bir öneridir.
 
@@ -121,6 +147,8 @@ Mirasçılardan her biri, terekedeki hakların korunmasını isteyebilir. Sağla
 
 ## İstanbul BAM 14. HD 2026/158 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194855500)
+
 TMK'nın elbirliği mülkiyetini düzenleyen 701-703. maddelerine göre ise; elbirliği mülkiyetinde ortakların belirlenmiş payları olmayıp her birinin hakkı, ortaklığa giren malların tamamına yaygındır. Ortakların hakları ve yükümlülükleri, topluluğu doğuran kanun veya sözleşme hükümleri ile belirlenir. Kanun veya sözleşmede aksine bir hüküm bulunmadıkça, yönetim ve tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gerekir. Elbirliği mülkiyeti malın devri, topluluğun dağılması veya paylı mülkiyete geçilmesiyle sona erer. Terekeye dâhil anonim şirket hisseleri bakımından da durum aynı olup hisseler, mirasçılara iştirak hâlinde mülkiyet hükümlerine göre intikal eder (Bknz: Yargıtay 11. HD'nin 2021/1080 E- 2022/4810 K sayılı, 13.06.2022 tarihli emsal kararı). Esasen TTK'nın 494/2. maddesinde, şirket paylarının miras yoluyla intikali hâlinde mirasçıların, payların mülkiyetini derhal kazanacağı hükme bağlanmış ise de mirasçıların hangi mülkiyet şekline göre payları iktisap edeceği düzenlenmemiştir.
 Mirasın intikali TMK'nın miras hükümlerine tabi olup mirasçıların terekeye dâhil mallar üzerinde el birliği şeklinde mülkiyet hakkına sahip olduklarına dair kural, anonim şirket hisseleri bakımından da geçerlidir. Esasen mirasçıların, terekeye dâhil malları, mirasın açılmasıyla birlikte derhal iktisap edeceklerine dair kural TMK'nın 599/2. maddesinde de açıklanmıştır. Ancak mülkiyetin el birliği şeklinde olacağı hususu aynı Kanun'un 640/2. maddesinde hükme bağlanmıştır. Bu genel kurallardan, terekede yer alan bir şirket hissesi bakımından ayrılmayı gerektiren bir durum yoktur.Davacı, davalı şirketin, murisin vefatından sonra aldığı 09.07.2024 tarihli kararla müvekkili ile diğer mirasçı olan ...'ın ayrı ayrı olarak ortaklık paylarının tespit edilerek yazıldığını beyan ettiği, ancak daha sonra toplantıdan önceki gün dürüstlük kuralına aykırı şekilde bu tespitin iptal edilerek payların miras ortaklığı şeklinde yazıldığının iddia edildiği görülmüştür. Davacı tarafından sunulan 01.08.2024 tarihli, Üsküdar 11.
 
@@ -130,9 +158,13 @@ Bu durumda, şirketin yönetim kurulunun, ortaklar arasında alınmış miras pa
 
 ## İstanbul BAM 12. HD 2025/2124 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186128100)
+
 Bunun dışında karşı tarafça davacının, paylar miras ortaklığına ait bulunduğundan, huzurdaki davayı ikame etme hak ve imkânı, dava takip yetkisi bulunmadığı ileri sürülmüş ise de terekeye geçici temsilci atanmış olup, tereke temsilcisi göreve başlayıp davada temsil sağlanıncaya kadar şirketin ve davacı mirasçının haklarının korunmasında zorunluluk bulunmaktadır. Ancak, ihtiyati tedbirde tek ölçü yaklaşık ispatın sağlanması olmayıp; ihtiyati tedbir kararı ile davanın her iki yanının menfaatinin gözetilmesi gerekir. İhtiyati tedbir kararı ile ulaşılmak istenen amaç arasında ölçülülük ilkesi gereğince makul bir dengenin bulunması zorunludur. Somut olayda yaklaşık ispat koşulu sağlanmış ise de genel kurul kararının icrasının durdurulması halinde şirket organsız kalacağından, "çoğun içinde azı da vardır" prensibi dikkate alınarak şirkete denetim kayyımı atanması şirket ile ortakların hak ve menfaat dengesinin korunması için uygun ve yeterli olacağı değerlendirilmiştir.
 
 ## İstanbul BAM 18. HD 2025/2077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187260800)
 
 Zira zaman aşımı ve hak düşürücü süre itirazı dikkate alınmadan hüküm tesis edilmesi de esasen dosya kapsamı ve yüksek yargı kararlarıyla bağdaşmamaktadır. Yine kabule göre miras bırakanİsmet ... tarafından açılan önceki Mahkeme ilamının kesin hüküm teşkil etmeyeceği ve cevap dilekçesinin süresinde verilmediği yönündeki ilk derece Mahkemesi kararı isabetli görülse dahi davanın inkar kapsamında ve maddi vakıaların mahkeme tarafından re'sen değerlendirilmesi gerektiği gerçeği karşısında: Açılmış olan davanın, dava dilekçesinden de anlaşıldığı gibi tarafların ortak miras bırakanıİsmet ...’in davalılardan olan bir takım alacaklarının mirasçı sıfatıyla davacılara ödenmesi talebiyle açılmış olan bir alacak davasıdır. Diğer bir deyişle davacılar MİRAS sebebiyle bir dava açtıklarını ve mirasçı sıfatlarına dayandıklarını iddia etmekte ancak Ticaret Mahkemesi’nde dava açmaktadırlar. Bu nedenle öncelikle dava dilekçesinin görev ve işbölümü nedeniyle usulden reddi ve talep halinde dava dosyasının asliye hukuk mahkemesi'ne gönderilmesi gerekirken yargılamaya devam edilerek karar verilmesi açıkça hukuka aykırı olmuştur. ...
 
@@ -141,9 +173,13 @@ alınmaması, ... Dava dilekçesinde de ikrar edildiği üzere davanın tamamen 
 
 ## Ankara BAM 21. HD 2025/1798 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189002200)
+
 Hal böyle olunca somut olayda, davalı şirketin, muris ...'a ait olduğu belirtilen hisseleri üzerinde miras ortaklığının elbirliği ile malik olduğunun tespiti, pay defterinde ölüm tarihinden sonra münferit mirasçılar adına yapılan tescillerin iptali, söz konusu hisselerin miras ortaklığı adına tescili ve varsa dayanak yönetim kurulu kararının geçersiz olduğunun tespiti istemiyle açılan davada 24/10/2025 tarihinde gerçekleşecek genel kurul toplantısının tedbiren durdurulması ve dava konusu hisselere başta üçüncü kişilere devir ve sermaye artırımı olmak üzere hukuki işlemlere konu edilmemesi ve davalı şirket nezdinde dış kaynaklardan sermaye artırımı yapılmaması yönünde ihtiyati tedbir talep edilmiş ise de; dosya kapsamına göre yukarıda sözü edilen ve varlığı ileri sürülen davaların akıbetleri, derdest olup olmadıkları, bekletici mesele olarak kabullerinin gerekip gerekmediği hususunda mahkemece bir araştırma ve değerlendirme yapılması zorunluluğu karşısında, ilk derece mahkemesince, dosya kapsamı gözetilerek bu aşamada yaklaşık ispat koşulunun gerçekleşmediği gerekçesiyle ihtiyati tedbir talebinin reddine yönelik yazılı şekilde karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## İstanbul BAM 13. HD 2025/997 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148870700)
 
 Mirasçılardan birinin istemi üzerine sulh mahkemesi, miras ortaklığına paylaşmaya kadar bir temsilci atayabilir. TTK'nın 477. maddesinde; "Pay şirkete karşı bölünemez. Bir payın birden fazla sahibi bulunduğu takdirde, bunlar şirkete karşı haklarını ancak ortak bir temsilci aracılığıyla kullanabilirler. Böyle bir temsilci atamadıkları takdirde, şirketçe söz konusu payın maliklerinden birine yapılacak tebligat tümü hakkında geçerli olur. Genel kurul, sermaye tutarı aynı kalmak şartıyla, esas sözleşmeyi değiştirmek suretiyle, payları, asgari itibarî değer hükmüne uyarak, itibarî değerleri daha küçük olan paylara bölmek veya payları itibarî değerleri daha yüksek olan paylar hâlinde birleştirmek yetkisine haizdir.
 
@@ -153,6 +189,8 @@ noktasında ve davanın esası hakkında yaklaşık ispat koşulu sağlandığı
 
 ## Sakarya BAM 7. HD 2024/1710 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104628800)
+
 Dava; tazminat istemine ilişkindir.
 
 …
@@ -161,6 +199,8 @@ Dosya kapsamı yukarıdaki kanun maddeleri ışığında değerlendirildiğinde;
 davacıların birlikte dava tarihinden evvel arabuluculuğa başvurmadığı ve arabuluculuk işlemlerini tamamlamadığı, dava açıldıktan sonra diğer mirasçılar tarafından arabuluculuk başvurusunda bulunulmasının ve arabuluculuk anlaşmama son tutanağının mahkemeye sunulmasının 6325 sayılı Kanun'un 18/A maddesi ve TTK'nın 5/A maddesinde düzenlenen dava açılmazdan evvel arabuluculuğa başvuruya ilişkin dava şartının gerçekleşmediğini değiştirmeyeceğinden Mahkemenin dava şartı yokluğu nedeniyle davanın usulden reddine karar vermesinde bir isabetsizlik yoktur.
 
 ## İzmir BAM 20. HD 2024/1351 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066403900)
 
 Mirasçılar, mirasbırakanın ölümü ile mirası bir bütün olarak, kanun gereğince kazanırlar. Kanunda öngörülen ayrık durumlar saklı kalmak üzere mirasçılar, mirasbırakanın aynî haklarını, alacaklarını, diğer malvarlığı haklarını, taşınır ve taşınmazlar üzerindeki zilyetliklerini doğrudan doğruya kazanırlar ve mirasbırakanın borçlarından kişisel olarak sorumlu olurlar.( TMK m. 599).
 

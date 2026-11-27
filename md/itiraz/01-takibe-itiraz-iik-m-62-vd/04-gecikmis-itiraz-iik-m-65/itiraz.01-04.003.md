@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2017/13463 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/383259300)
+
 Davalı alacaklı vekili, davacının taraf sıfatı bulunmadığını,ayrıca gecikmiş itiraz iddiasının da yerinde olmadığını, birleşen dosya yönünden ise istihkak iddiasının yerinde olmadığını savunarak asıl ve birleşen davanın reddini istemiştir.
 
 …
@@ -39,6 +41,8 @@ hesaplanan)öninceleme tutanağının düzenlenmemiş olması sebebiyle 1/2 oran
 
 ## Yargıtay 8. HD 2017/12964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/383350100)
+
 Davalı alacaklı vekili,davacının taraf sıfatı bulunmadığını,ayrıca gecikmiş itiraz iddiasının da yerinde olmadığını, birleşen dosya yönünden ise istihkak iddiasının yerinde olmadığını savunarak asıl ve birleşen davanın reddini istemiştir.
 
 …
@@ -52,11 +56,15 @@ Hukuk Dairesi'nin 21.02.2013 gün 2012/26181 esas 2013/5484 karar sayılı karar
 
 ## Yargıtay 12. HD 2017/12956 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/383065400)
+
 Bu durumda, mahkemece, öncelikle ödeme emri tebligatının usulüne uygun olup olmadığı tespit edilerek tebligatın usulsüz olması halinde uyuşmazlığın İİK'nun 65. maddesinde yer alan gecikmiş itiraz kurallarına göre değil, 7201 sayılı Kanunun 32. maddesine göre çözümlenmesi (HGK.nun 5.6.1991 tarih ve 1991/12-258E. 1991/344K.) gerekirken bu yönde bir inceleme yapılmaksızın yazılı gerekçe ile hüküm tesisi doğru değildir.
 
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2017/11208 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/368066500)
 
 Alacaklı tarafından, borçlu aleyhine başlatılan genel haciz yoluyla ilamsız takipte, borçlunun; icra mahkemesine yaptığı başvuruda; gecikmiş itirazı ile birlikte, ödeme emri tebligatının usulsüz olduğu şikayetinde bulunduğu, öğrenme tarihinin tebliğ tarihi olarak kabulü ile gecikmiş itirazının da değerlendirilerek takibin durdurulmasını istediği anlaşılmıştır. Mahkemece; tebliğ işleminin yasaya uygun yapıldığı gerekçesiyle şikayetin reddine ve borca itirazın ise süre yönünden reddine karar verildiği görülmüştür.
 
@@ -66,6 +74,8 @@ SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukar
 
 ## Yargıtay 12. HD 2017/10516 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/366850000)
+
 6100 sayılı İcra ve İflas Kanunu'nun 65. maddesinde; “Borçlu kusuru olmaksızın bir mani sebebiyle müddeti içinde itiraz edememiş ise paraya çevirme muamelesi bitinceye kadar itiraz edebilir” hükmü yer almaktadır. İİK'nun 65. maddesine dayanan gecikmiş itirazda, muhatabın, bir engel nedeniyle süresinde itiraz edememesi halinde mazeretini gösterir delillerle birlikte, esasla ilgili itirazlarını ve dayanaklarını, engelin kalktığı günden itibaren üç gün içinde icra mahkemesine bildirmesi gerekir. Gecikmiş itiraz süresinde yapılmış ise, icra mahkemesi borçlunun bildirdiği mazeretin haklı olup olmadığını inceler. Mazereti kabul ederse icra takibi durur. Bu durumda artık alacaklı itirazın kaldırılması veya itirazın iptali yoluna gidebilir.
 
 …
@@ -73,6 +83,8 @@ SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukar
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2017/10245 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359875300)
 
 Alacaklı tarafından borçlular aleyhine genel haciz yoluyla icra takibine başlandığı, borçluların icra mahkemesine başvurularında; ödeme emirlerinin usulsüz tebliğ edildiğini ve takipten 07.8.2015 tarihinde haberdar olduklarını ileri sürerek gecikmiş itirazlarının kabulünü, olmazsa ödeme emri tebliğ işlemlerinin iptalini istedikleri, mahkemece istemin gecikmiş itiraz olarak nitelendirilerek borçlu ... yönünden itirazın kabulü ile takibin durdurulmasına, diğer borçlular yönünden ise tebliğ işlemlerinin usulüne uygun olduğu gerekçesiyle reddine karar verildiği anlaşılmaktadır.
 
@@ -82,6 +94,8 @@ SONUÇ : Alacaklının temyiz itirazlarının yukarıda (1) numaralı bentte, bo
 
 ## Yargıtay 12. HD 2017/10244 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359876500)
+
 Borçluların aynı mahkemenin 2015/159 E. - 2015/213 K. sayılı dosyasında ödeme emri tebligatının usulsüzlüğüne yönelik olarak 10.8.2015 tarihinde şikayette bulundukları, bu dosyada mahkemece talebin gecikmiş itiraz olarak değerlendirilerek borçlu ... yönünden itirazın kabulü ile adı geçen yönünden takibin durdurlmasına, diğer borçlular yönünden ise itirazın reddine karar verildiği, mahkeme kararının temyiz aşamasında olup kesinleşmediği görülmektedir.
 
 …
@@ -90,6 +104,8 @@ SONUÇ : Borçluların karar düzeltme isteminin kabulü ile Dairemizin 20.03.20
 
 ## Yargıtay 12. HD 2017/8452 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/363659200)
+
 İİK'nun 65. maddesinde; "Borçlunun kusuru olmaksızın bir mani sebebiyle müddeti içinde itiraz edememiş ise ise paraya çevirme muamalesi bitinceye kadar itiraz edebilir. Ancak borçlu maninin kalktığı günden itibaren üç gün içinde, mazeretini gösterir delilerle birlikte itiraz ve sebeplerinin ve müstenidatını bildirmeye ve müteakıp fıkra için yapılacak duruşmaya taalluk eden harç ve masrafları ödemeye mecburdur" hükmüne yer verilmiştir. Buna göre, gecikmiş itiraz başvurusunda bulunabilmek için her şeyden önce usulüne uygun olarak tebliğ edilmiş bir tebligat evrakının bulunması gerekir.
 
 …
@@ -97,6 +113,8 @@ SONUÇ : Borçluların karar düzeltme isteminin kabulü ile Dairemizin 20.03.20
 SONUÇ : Borçlu ...'nun temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 21. HD 2017/7491 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/377879500)
 
 Davacı, Mahkeme kararıyla kesinleşen maddi ve manevi tazminatın tahsili amacıyla başlatılan icra takibine yapılan itirazın iptaline, 148.634.05.TL. üzerinden takibin devamına karar verilmesini istemiştir.
 
@@ -114,6 +132,8 @@ SONUÇ: Hükmün yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 4. HD 2017/5615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/394179100)
+
 Mahkemece yapılan yargılama sonunda davanın reddine karar verilmiş, davacı tarafından temyizi üzerine Dairemizin 20/04/2016 tarih ve 2016/3326 esas, 2016/5387 sayılı kararı ile “... tebligatın usulsüz olup olmadığı araştırılarak usulsüz ise idari para cezasının haklı olup olmadığı değerlendirilerek karar verilmesi gerektiğinden bahisle bozulmuştur.
 
 …
@@ -123,6 +143,8 @@ Eldeki davada davalı olarak tebligatı yapan kurum olan ... A.Ş. ile usulsüz 
 durumunda davacının başvurabileceği tek yol Anayasa Mahkemesine bireysel başvuru ya da A.İ.H. mahkemesine dava açma yoludur. Açıklanan nedenlerle karar düzeltme talebinin kabulü ile davanın reddine ilişkin yerel mahkeme kararının onanması gerektiği düşüncesiyle değerli çoğunluğun kararına katılmıyorum. 09/10/2017 …
 
 ## Yargıtay 12. HD 2017/2894 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/319905500)
 
 Somut olayda, borçlu, takipten 10.09.2014 tarihinde haberdar olduğunu beyan etmiş olup, bu tarihte tebliğ işlemine muttali olduğunun kabulü gerekeceğinden, 22.09.2014 tarihinde icra mahkemesine yaptığı şikayet, İİK'nun 16/1. maddesinde öngörülen yasal yedi günlük süreden sonradır.
 
@@ -134,6 +156,8 @@ SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yu
 
 ## Yargıtay 12. HD 2016/24544 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/281376500)
+
 Alacaklı tarafından borçlu hakkında faturaya dayalı olarak genel haciz yolu ile yapılan takipte borçlu icra mahkemesine başvurarak; İİK'nun 65. maddesi hükümleri uyarınca gecikmiş itirazda bulunmuş ve takibin durdurulmasını istemiş, mahkemece tebligatın usulüne uygun olduğu ve gecikmiş itirazın süresinden sonra yapıldığı gerekçeleriyle davanın reddine karar verilmiş, hüküm borçlu tarafından temyiz edilmiştir.
 
 …
@@ -141,6 +165,8 @@ Alacaklı tarafından borçlu hakkında faturaya dayalı olarak genel haciz yolu
 SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2016/24370 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/281413700)
 
 İİK’nun 65. maddesinde; "Borçlu, kusuru olmaksızın bir mani sebebiyle müddeti içinde itiraz edememiş ise paraya çevirme muamelesi bitinceye kadar itiraz edebilir. Ancak borçlu, maninin kalktığı günden itibaren ... gün içinde, mazeretini gösterir delillerle birlikte itiraz ve sebeplerini ve müstenidatını bildirmeye ve müteakip fıkra için yapılacak duruşmaya taalluk eden harç ve masrafları ödemeye mecburdur. İtiraz üzerine, icra mahkemesi ancak gecikme sebebinin mahiyetine ve hadisenin özelliklerine göre takibin talikini tensip edebilir. İcra mahkemesi tetkikatını evrak üzerinde yapar. Lüzumu halinde iki tarafı hemen davetle mazeretin kabule şayan olup olmadığına karar verir..." hükmüne yer verilmiştir.
 
@@ -156,6 +182,8 @@ SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukar
 
 ## Yargıtay 12. HD 2016/23614 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/281789800)
+
 Borçlu icra mahkemesine başvurusunda genel haciz yolu ile ilamsız takipte gönderilen ödeme emri tebligatının usulsüz olduğunu ileri sürerek, usulsüz tebligatın iptaline, dayanak belgelerin eklenmemesi nedeniyle takibin iptaline, yerinde görülmez ise gecikmiş itirazlarının kabulüne, takibin durdurulmasına karar verilmesini talep ettiği, mahkemece tebligatın usulüne uygun olduğunun kabul edildiği, dayanak belgelerin gönderilmediğine ilişkin şikayetin de süresinde yapılmadığından talebin reddine karar verildiği görülmektedir.
 
 …
@@ -163,6 +191,8 @@ Borçlu icra mahkemesine başvurusunda genel haciz yolu ile ilamsız takipte gö
 SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2016/19715 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329468300)
 
 Eski hale getirme HMK'nun 95. ve devamı maddelerinde düzenlenmiştir. Ancak İcra ve İflas Kanunu'nda böyle bir düzenleme yoktur. Kanun koyucu İİK'nun 65. maddesinde itiraz süresi yönünden gecikmiş itirazı kabul etmiş, diğer süreler yönünden bir hüküm koymamıştır. Gecikmiş itiraz hakkındaki hükümler kıyas yolu ile şikayet süresi ve diğer süreler hakkında uygulanamaz. HMK'nun İİK'da bir hüküm bulunmayan hallerde ancak İİK'da açıkça bir gönderme olması (İİK 50, 68/a-4 gibi) veya bu kararın özel veya genel hükümlere aykırı olmaması hallerinde uygulanabilir. İİK'da, HMK'nun 95 ve devamı maddelerine gönderme yapan madde bulunmadığından yargılamaya ilişkin olmayan ihalenin feshi isteme süresi bakımından eski hale getirme kurumunu uygulama imkanı bulunmamaktadır.
 
@@ -172,6 +202,8 @@ SONUÇ : Şikayetçi borçlunun temyiz itirazlarının kısmen kabulü ile ... �
 
 ## Yargıtay 12. HD 2016/10309 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/231344100)
+
 Genel haciz yoluyla takipte borçlu ödeme emrinden 11.03.2015 tarihinde haberdar olduğunu belirtirek İİK'nun 65. madesi gereğince gecikmiş itiraz başvurusunda bulunmuş, mahkemece gecikmiş itiraz koşullarının oluşmadığı, ödeme emrinin ise 7201 sayılı Tebligat Kanunu'nun 10 ve 21/2. maddesi gereğince usulüne uygun tebliğ edildiği gerekçesiyle istemin reddine karar verilmiştir.
 
 …
@@ -180,11 +212,15 @@ SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukar
 
 ## Yargıtay 12. HD 2016/6834 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/237876400)
+
 Şikayetçi borçlu, usulsüz tebligat işleminden 14.07.2014 tarihinde haberdar olduğunu bildirdiğinden ve bu tarihten önce ıttılaya ilişkin belge bulunmadığından yasal 7 günlük süre içinde ileri sürülen usulsüz tebligat şikayetinin kabulü gerekirken, başvuru gecikmiş itiraz olarak nitelendirilmek suretiyle süre yönünden istemin reddi yönünde hüküm tesisi isabetsizdir.
 
 SONUÇ : Şikayetçi ...'in temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2016/6506 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/237606000)
 
 İİK.nun 65.maddesine uygun yapılmış bir gecikmiş itiraz bulunmadığı gibi takibin şekline göre uygulanması gereken İİK.nun 62.maddesi uyarınca borca itirazın yasal sürede icra dairesine yapılması gerekmekle sair temyiz itirazları yerinde değil ise de;
 
@@ -194,6 +230,8 @@ SONUÇ : Borçlunun temyiz itirazlarının kısmen kabulü ile mahkeme kararın�
 
 ## Yargıtay 12. HD 2016/5336 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215839600)
+
 Öte yandan başvurunun gecikmiş itiraz olarak kabul edilmesi halinde ise İİK'nun 65.maddesinin uygulanması gerekip, bu maddenin 2.fıkrası uyarınca borçlunun maninin ortadan kalkmasından itibaren üç gün içerisinde icra mahkemesine başvurması gerekmektedir. Gecikmiş itirazın icra mahkemesine yapılması gerekip, icra müdürlüğüne yapılan gecikmiş itiraz sonuç doğurmaz.
 
 …
@@ -201,6 +239,8 @@ SONUÇ : Borçlunun temyiz itirazlarının kısmen kabulü ile mahkeme kararın�
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 3. HD 2016/3202 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205977400)
 
 Davacı vekili dava dilekçesinde; davalı şirketin toplam 39.752,72 TL bedelli ilamsız icra takibi başlattığını, takip borçlularının,... ile ... ve ... olduğunu, icra takibine borçluların kimlik bilgilerinin yazılmadığını, takibe konu borçla müvekkili ...'nin hiçbir ilgisinin bulunmadığını, buna rağmen borçlu ... ile müvekkilinin isim benzerliğinin bulunması nedeniyle ödeme emrinin müvekkilinin adresine gönderildiğini, tebligatı müvekkilinin eşinin aldığını, takibin bu şekilde kesinleştiğini, müvekkilinin, aracının üzerine haciz konulması nedeniyle icra takibinden haberdar olduğunu belirterek; müvekkilinin takibe konu borçla bir ilgisinin bulunmadığının tespiti ile davalının kötüniyetli hareket ettiği gerekçesiyle takip miktarı asıl alacağın % 40'dan aşağı olmayacak şekilde tazminata mahkum edilmesine karar verilmesini talep etmiştir.
 
@@ -218,6 +258,8 @@ Ne var ki; bu hususun düzeltilmesi yeniden yargılama yapılmasını gerektirme
 
 ## Yargıtay 12. HD 2016/178 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215656900)
+
 Somut olayda borçlunun İcra Müdürlüğü'nün 2015/3369 Esas sayılı icra takip dosyasına 25.02.2015 tarihinde verdiği dilekçe ile itiraz ettiği görülmektedir. Buna göre borçlunun en geç bu tarihte tarihinde icra takibi ve ödeme emri tebliğ işlemini öğrendiğinin kabulü gerekeceğinden, icra mahkemesine 06.04.2015 tarihinde yaptığı şikayet İİK'nun 16/1. maddesinde öngörülen yasal yedi günlük süreden sonradır.
 
 Kaldı ki, borçlunun başvurusu bir an için gecikmiş itiraz olarak değerlendirilse dahi İİK'nun 65/2. maddesi uyarınca gecikmiş itirazın maninin kalktığı tarihten itibaren üç günlük sürede yapılması gerekip, şikayetçi borçlu 23.02.2015 tarihinde Türkiye'ye giriş yaptığını bildirdiğine göre, bu tarihe göre 06.04.2015 tarihinde yaptığı başvuru yine yasal üç günlük sürede değildir.
@@ -228,6 +270,8 @@ SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yu
 
 ## Yargıtay 12. HD 2015/32645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/188189700)
+
 Alacaklı vekili tarafından borçlu hakkında genel haciz yoluyla ilamsız icra takibi başlatılması üzerine, borçlunun icra mahkemesine başvurusunda; tebligat yapılan adreste oturmadığını beyan ederek gecikmiş itirazının kabulü ile takibin durdurulmasını talep ettiği, mahkemece gecikmiş itirazın kabulüne ve takibin iptaline karar verildiği görülmektedir.
 
 …
@@ -236,11 +280,15 @@ SONUÇ : Alacaklının temyiz itirazlarının kısmen kabulü ile mahkeme karar�
 
 ## Yargıtay 12. HD 2015/30576 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/172384600)
+
 Borçlu tarafından araştırma yapılan ...'ın komşusu olmadığı da ileri sürülmüş olup, mahkemece borçlunun bu iddiası araştırılarak ödeme emri tebligatının usulüne uygun olup-olmadığı yöntemince araştırılarak; usulüne uygun olduğunun tespiti halinde, borçlunun gecikmiş itiraz ve diğer şikayet sebepleri incelenerek sonucuna göre karar verilmesi gerekirken yazılı gerekçeyle hüküm tesisi isabetsizdir.
 
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2015/30392 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/172309900)
 
 Adi ortaklığın ortağı borçlu ... hakkındaki takibin kesinleşmesi üzerine, borçlu şirketin alacağı için,..Ve ... Adi Ortaklığına İİK: m. 89/1-2-3 haciz ihbarnamelerinin gönderildiği, ihbarnamelerin kesinleşmesinden sonra adi ortaklık hakkında haciz talebinde bulunulduğu, adi ortaklık yönünden ...'ne 08.05.2014 tarihli haciz müzekkeresi ve haciz ihbarnamesi gönderildiği, adi ortaklığı oluşturan şirketlerin vekilinin icra mahkemesine başvurarak, adi ortaklığa gönderilen birinci haciz ihbarnamesine gecikmiş itirazın kabulü ile ikinci ve üçüncü haciz ihbarnamesinin yok hükmünde olduğuna, adi ortaklığın hakedişleri üzerine Kilis 7 Aralık Üniversitesi'ne yazılan birinci haciz ihbarnamesinin ve adi ortaklık yönünden takibin kaldırılmasına karar verilmesini talep ettiği, mahkemece adi ortaklığa yapılan tebligatın usulüne uygun olduğu gerekçesi ile şikayetin reddine karar verildiği anlaşılmaktadır.
 
@@ -249,6 +297,8 @@ Adi ortaklığın ortağı borçlu ... hakkındaki takibin kesinleşmesi üzerin
 SONUÇ : Şikayetçilerin temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366. ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2015/27331 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404041400)
 
 Alacaklının borçlu ... aleyhine genel haciz yoluyla ilamsız takip başlattığı; borçlunun 7 örnek ödeme emrinin tebliğ edildiği tarihte yurtdışında Amerika'da olduğunu, tebligattan ...'da iken bir akrabasının telefonu üzerine haberdar olduğunu belirterek gecikmiş itirazının kabulü talebiyle icra mahkemesine başvurduğu, Mahkemece ödeme emri tebligatının usulsüz olduğu gerekçesiyle istemin kabulüne karar verildiği anlaşılmaktadır.İİK’nun 65. maddesine dayanan gecikmiş itirazda, tebligatın usulüne uygun olarak yapılmış olması, ancak, muhatap tarafından bir engel nedeniyle süresinde itiraz edilememiş olması halinde mazereti gösterir delillerle birlikte, esasla ilgili itirazların ve dayanaklarınının, engelin kalktığı günden itibaren üç gün içinde icra mahkemesine bildirilmesi gerekir. İcra hakimi, gecikmiş itiraz nedenlerini inceledikten sonra gecikme sebebinin mahiyetine ve hadisenin özelliklerine göre, takibin tatilini tensip edebilir. Mazeretin kabulü halinde icra takibi durur. Aynı celse de alacaklı itirazın kaldırılmasını sözlü olarak da isteyebilir.
 Bu takdirde tetkikata devam olunarak icra mahkemesinde gerekli karar verilebilir.Usulsüz tebligatta ise, İİK'nun 65. maddesine göre yapılacak incelemeden farklı olarak, tebligat usulüne uygun olarak yapılmamıştır. Bu durumda icra hakimi tebliğ işleminin 7201 Sayılı Kanun hükümlerine uygun olarak yapılıp yapılmadığını inceleyecek ve aynı Kanun'un 32. maddesi gereğince öğrenme tarihine göre tebliğ tarihini düzeltecektir.Somut olayda, borçluya 7 örnek ödeme emrinin 08.07.2013 tarihinde borçlunun bilinen son adresinde TK'nun 21/1. maddesi uyarınca tebliğ edildiği görülmektedir..
@@ -262,6 +312,8 @@ kararın, gecikmiş itiraz başvurusunda da kesin hüküm oluşturur.Borçlu gec
 
 ## Yargıtay 12. HD 2015/19120 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/171785100)
+
 Mahkeme her ne kadar öğrenme tarihinden sonra sürenin geçtiğini belirtmiş ise de hukuki nitelendirme hakime aittir. Somut olayda, itiraz dilekçesi içeriğinden borçlunun başvurusunun gecikmiş itiraz niteliğinde olduğu, ancak mahkemece bu konuda bir inceleme ve değerlendirme yapılmadığı görülmektedir.
 
 …
@@ -270,6 +322,8 @@ SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukar
 
 ## Yargıtay 12. HD 2015/16072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/172473200)
+
 Alacaklı tarafından borçlu hakkında genel haciz yolu ile yapılan takipte borçlu, icra mahkemesine başvurusunda, usulsüz tebliğ şikayeti ve gecikmiş itirazda bulunmuş, mahkemece, tebliğin usulüne uygun olduğu, gecikmiş itirazın ise şartları bulunmadığından istemin reddine karar verilmiştir.
 
 …
@@ -277,6 +331,8 @@ Alacaklı tarafından borçlu hakkında genel haciz yolu ile yapılan takipte bo
 SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 4. HD 2015/13383 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141208400)
 
 Yapılan takip bakımından üçüncü kişi durumunda bulunan davacı, yasanın kendisine tanıdığı hakkı kullanan durumunda olup; gecikmiş itiraz yoluna başvurmak zorunda değildir. Diğer yandan, tarafların delilleri değerlendirilmek suretiyle sonucuna göre işin esasının çözümlenmesi gerekir. Mahkemece, çelişkili gerekçelerle yazılı biçimde karar verilmesi yerinde görülmemiş ve bozmayı gerektirmiştir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/710 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919933500)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, tescil mümkün olmazsa tenkis istemine ilişkindir.
 
 …
@@ -37,10 +39,14 @@ Dava, muris muvazaası hukuki nedenine dayalı miras payı oranında tapu iptali
 
 ## Yargıtay 5. HD 2025/9264 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172515500)
+
 Dairemizce yapılan temyiz incelemesi sonucunda; hükme esas alınan bilirkişi raporunda somut emsal kabul edilen taşınmazların bilirkişilerce değerlendirmeye esas alınan satış tarihi itibarıyla fiili imar uygulaması sonucu oluşan imar parselleri mi, yoksa imar planına dahil olmakla birlikte olduğu gibi bırakılan kadastro parselleri mi olduklarının ilgili ...
 İmar Müdürlüğü ile Tapu Müdürlüğünden ayrı ayrı sorulup, değerlendirme tarihi olan 2015 yılında dava konusu taşınmaz ile hükme esas alınan bilirkişi raporunda somut emsal kabul edilen taşınmazların, Arsa Metrekare Rayiç Bedeli Takdir Komisyonu tarafından resen belirlenen emlak vergisine esas olan metrekare değerlerinin, ilgili Belediye Başkanlığı Emlak Vergi Dairesinden istenip, bilirkişi kurulunca incelenen ve değer biçmeye esas alınan emsal taşınmazların, bilirkişi raporunda belirtilen tarihteki satışına ilişkin akit tablosunun, Tapu Müdürlüğünden getirtilip, denetlenmeden, hesaplama yapan bilirkişi raporunun hüküm kurmaya elverişli olmadığı ve dava dilekçesinde, dava konusu taşınmazda davalılara ait olan hisselerin bedelinin tespit edilmesinin istenildiği dikkate alındığında, davalıların murislerinden ayrı olarak sahip oldukları paylar yönünden de hesaplama yapılması gerekirken, sadece davalılar murisi ...’ın dava konusu taşınmazdaki payı için hesaplama yapan rapora göre hüküm kurulmasının doğru görülmediği gerekçesiyle kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 1. HD 2025/2545 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156096500)
 
 Dava, vekalet görevinin kötüye kullanılması hukuki nedenine dayalı tapu iptali ve tescil, olmazsa bedel istemine ilişkindir.
 
@@ -53,9 +59,13 @@ Ayrıca, birleştirilen dava davacıları ... mirasçıları olup ...'a ait pay 
 
 ## Yargıtay 7. HD 2025/1505 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144305600)
+
 Öte yandan, yargılama sonucunda Mahkemece davanın kabulüne karar verilmiş ise de, yapılan araştırma ve inceleme ve bu kapsamda uzman bilirkişi raporu hüküm kurmaya elverişli değildir. Bilirkişi raporunda murise ait gayrimenkullerin değerinin murisin ölüm tarihi olan 13.01.2009 tarihine göre değil, davanın açıldığı 24.04.2014 tarihine göre hesaplandığı ve murisin ölüm tarihi itibariyle pasiflerinin hesaplanmadığı anlaşılmıştır. O halde mahkemece yapılması gereken iş, murisin ölüm tarihi itibariyle terekesinin araştırılarak, muris adına kayıtlı taşınmazların değerinin ölüm tarihi olan 13.01.2009 tarihi itibariyle uzman bilirkişiler marifetiyle belirlenmesi, aynı şekilde murisin ölüm tarihi itibariyle borçlarının ilgili kurumlardan sorulması, bilirkişilerce hazırlanacak raporda terekenin aktif ve pasif değerlendirmesinin tereddüde neden bırakmayacak şekilde yapılması, terekenin pasifinin aktifinden fazla olması durumunda davanın kabulüne karar verilmesi gerekirken, eksik inceleme ve yetersiz uzman bilirkişi raporu ile yazılı şekilde davanın kabulüne karar verilmesi doğru görülmemiş, kararın bozulmasını gerektirmiştir.
 
 ## Yargıtay 5. HD 2024/6872 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1067396800)
 
 Dairemizce yapılan temyiz incelemesi sonucunda; mahallinde yapılan keşif sonucu... köyü 1919/A parsel sayılı taşınmazın dava tarihindeki değerinin biçilmesinde ve bir kısım davalı murisi ...’den intikal eden paylar yönünden davanın kabulü ile kendilerine bizzat kamulaştırma işlemleri tebliğ edilen ... ve ... hakkında açılan davanın reddine karar verilmesinde bir isabetsizlik görülmemiş ancak 2942 sayılı Kanun'un 25 inci maddesi uyarınca hakların kullanılması ve borçların yerine getirilmesi bakımından kamulaştırma işlemi mal sahibi açısından usulüne uygun tebligatla başlar.
 Dosyadaki bilgi ve belgelerin incelenmesinde; dava konusu... köyü 1816 m² yüzölçümündeki 1919/A parsel sayılı taşınmaz Trakya Otoyolu güzergahında kalması sebebi ile Karayolları Genel Müdürlüğünün 03.08.1984 tarihli ve 1984/44 sayılı kararı ile kamulaştırılmış olup, idarece sunulan kamulaştırma evraklarının incelenmesinde kamulaştırma tarihinde malik olan ..., ..., ..., ..., ..., Saime Çetin murisleri ..., ..., ... ve ... ...ve bir kısım davacılar murisi Dudu Çetin’e kamulaştırma tebligatı çıkartılmadığı, bu nedenle bu davacılar ve adı geçen murislerden intikal eden paylar yönünden kesinleşmiş bir kamulaştırma işlemi olmadığından, işin esasına girilerek sonucuna göre karar verilmesi gerektiği düşünülmeden yazılı gerekçelerle davanın reddine karar verilmesi, davacılardan ..., adına çıkartılan noter tebligatı gelini Şengül Değer’e, davacılar ..., ..., ..., ... adlarına çıkartılan noter tebliğleri ise kardeşi ...’e tebliğ edilmiştir.
@@ -63,6 +73,8 @@ Dosyadaki bilgi ve belgelerin incelenmesinde; dava konusu... köyü 1816 m² yü
 Küçük ve ...’nın tapuda 02.12.1985 tarihli ve 8469 yevmiye numaralı işlemle, ... ve ...’ün 14.02.1986 tarihli ve 879 yevmiye numaralı işlemle, ...’ın ise 23.12.1985 tarihli ve 9062 yevmiye numaralı işlemle tapuda ferağ verdikleri iddia edildiğinden, bu işlemlerin onaylı suretlerinin ilgili Tapu Müdürlüğünden istendikten sonra adı geçenlerin tapuda rızai ferağ verip vermedikleri tespit edilerek sonucuna göre karar verilmesi gerekirken, eksik inceleme ile hüküm kurulması ve 6001 sayılı ... Teşkilat ve Görevleri Hakkındaki Kanun uyarınca davalı idare harçtan muaf olduğu halde aleyhine harca hükmedilmesi doğru görülmediğinden kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/5898 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120165300)
 
 Açıklanan maddede tercih hakkının kullanılmasına göre iki ihtimal öngörülmüştür; ya davacı, saklı payının dışında kalan kısmın değerini davalıya nakden öder ve tasarrufa konu malın tamamı davacı adına tescil edilir ya da davalı, davacının saklı payına denk gelen kısmın değerini davacıya nakden öder ve tasarrufa konu malın tamamı davalı adına tescili edilir. Ancak her iki ihtimalde de paylı/hisseli tescile değil tasarrufa konu malın tamamının tesciline karar verilir. Nitekim Yargıtay Hukuk Genel Kurulu'nun 2009/2-528 Esas, 2010/77 Karar sayılı ilamında da; 4721 sayılı Türk Medeni Kanunun 564 üncü maddesine göre seçme hakkının taşınmazın paylı mülkiyete dönüştürülmesi yönünde kullanılamayacağı belirtilmiştir.
 
@@ -73,9 +85,13 @@ Ayrıca, 03.05.2021 tarihli bilirkişi raporunda; dava konusu 163 ada 3 parsel s
 
 ## Yargıtay 1. HD 2024/3694 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1050794300)
+
 Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı; ile Mahallinde yapılan keşif, keşifte dinlenen mahalli bilirkişi ve tanık beyanları, bilirkişi raporları ile tüm dosya kapsamı hep birlikte değerlendirildiğinde; dava konusu kullanılan (A2), (A3), (A4), (A5), (A6), (A7) ile gösterilen kısımların TMK'nın 713 üncü maddesindeki koşullarda nizasız, fasılasız malik sıfatıyla yirmi yıldan fazla kullanıldığı, taşınmazın öncesinde davacılar mirasçıları tarafından kullanıldığı, zilyetlik koşullarının oluştuğu, yine kullanılan yerlerin tarım arazisi vasfında olduğu, bilirkişi raporlarına göre anılan kısımların 1954 yılından beri tarım arazisi olarak kullanıldığı, (A6) ve (A7) harfleri gösterilen alanlar tescil harici bırakıldığından, (A2), (A3), (A4) ve (A5) harfleri ile gösterilen alanlar ise dava açıldığı tarihte tescil harici bırakılıp dava devam ederken Hazine adına tescil edildiği gerekçesiyle davanın kısmen kabul kısmen reddi ile, …
 
 ## Yargıtay 8. HD 2024/517 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017261900)
 
 İlk Derece Mahkemesince yapılan yargılama neticesinde;
 " uyuşmazlığın, dava konusu taşınmazın evvelden beri davacıların murisi ile davalı tarafından fiili kullanım durumuna göre rızai olarak bölünüp bölünmediği, şayet bölünmedi ise davacıların murisi tarafından fiilen kullanılıp kullanmadığı noktasında toplandığı, davacıların talebi, icra edilen keşif, mahkeme gözlemi, dinlenilen bilirkişiler ile davacının bildirdiği tanıkların vermiş olduğu beyanlar, fen ve ziraat bilirkişi raporları ile tüm dosya kapsamı birlikte değerlendirildiğinde; davalı ... ile davacıların murisi Salih'in kardeş oldukları, babaları Halit'in ölümünden kısa bir süre sonra evvelinde zeminde bir bütün olan ve kök muris Halit'e ait olan 112 ada 90 parsel ile dava dışı 112 ada 89 parseli kendi aralarında fiili olarak kullanım durumlarına göre taksim ettikleri, buna göre çekişmeli 112 ada 90 ... parselin davalı tarafından kadastro çalışmalarının yapıldığı tarihe kadar aralıksız olarak fiili olarak kullanıldığı, davalı tarafından üzerine bir ev ve samanlığın yapıldığı, davacıların murisi Salih'in ise dava dışı 112 ada 89 parsel ... taşınmazı kullandığı ve üzerinde meyve ağacı yetiştirdiği, öte yandan Salih'in kullandığı ve fen raporuna ekli krokide (A) olarak ölçülen
@@ -84,14 +100,20 @@ Hukuk Dairesince, " dosya içeriğine, kararın dayandığı delillerle yasaya u
 
 ## Yargıtay 8. HD 2023/4068 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/938305600)
+
 İlk Derece Mahkemesince yapılan keşif, keşif sırasında dinlenen yerel bilirkişi, taraf tanıkları, alınan fen ve ziraat bilirkişi raporu, kadastro tespit tutanakları ve tüm dosya kapsamı bir bütün halinde değerlendirildiğinde, Hazine adına orman sınırları dışına çıkarılan taşınmazların üzerindeki kullanımın ekonomik amaca uygun olarak sürdürülmesi gerektiği, çekişmeli taşınmaza ilişkin olarak davacı miras ve zilyetliğin devri iddialarına dayanmış ise de; her ne kadar bazı tanıklar bilirkişi raporunda B Harfi ile gösterilen kısmı ...'ın kullandığını söylese bile aynı tanıkların kadastro tespit tarihinden 10 yıl önce kullanımı bıraktığı şeklindeki beyanları da göz önüne alındığında taşınmazın ekonomik amacına uygun olarak davacının herhangi bir kullanımının bulunmadığı göz önünde bulundurularak davanın reddi yönünde kurulan hükümde bir isabetsizlik bulunmadığı..." gerekçeleriyle 01.07.2020 tarihli ek kararı usul ve esas yönünden hukuka uygun bulunduğundan davacı ... ve arkadaşları vekili Av. ...'ın istinaf başvurusunun 6100 sayılı Kanun'un 353/1-b.1 inci maddesi gereğince esastan reddine, davalılar ... ve ...'nın istinaf kanun yoluna başvurma dilekçesinin 6100 sayılı Kanun'un 345/1,
 346/1 ve 352/1 inci maddeleri gereğince süre yönünden reddine; asli müdahil ... Otomotiv San. ve Tic. A.Ş. ile ... İnşaat San. ve Tic. A.Ş. adına kayyım vekili ile davacı ... mirasçıları vekilinin istinaf başvurularının, 6100 sayılı Kanun'un 353/1-b-1 maddesi gereğince esastan ayrı ayrı redlerine karar verilmiştir.
 
 ## Yargıtay 3. HD 2023/1141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892419600)
+
 Dairece verilen 27.06.2018 tarihli ve 2017/16858 E. 2018/7269 K. sayılı ilamla; Mahkemece bozma kararında belirtildiği gibi muristen kaldığı belirlenen menkullerin dava tarihindeki değerinin belirlenmesi için ek bilirkişi raporu veya yeni bir bilirkişi raporu alarak karar verilmesi gerekirken, daha önce bozma konusu yapılan ve murisin ölüm tarihini esas alarak değer tespit eden 14.01.2013 tarihli bilirkişi raporu esas alınarak hüküm kurulduğu, bu itibarla; Mahkemece bozma gereği yerine getirilmediği gerekçesiyle, karar bozulmuştur.
 
 ## Yargıtay 7. HD 2022/8016 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/869851600)
 
 Dava, vasiyetnamenin iptali ve tenkis talebine ilişkindir.
 
@@ -103,6 +125,8 @@ Dava, vasiyetnamenin iptali ve tenkis talebine ilişkindir.
 
 ## Yargıtay 1. HD 2022/6592 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842152200)
+
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali-tescil istemine ilişkindir.
 
 …
@@ -111,9 +135,13 @@ Dava, muris muvazaası hukuki nedenine dayalı tapu iptali-tescil istemine iliş
 
 ## Yargıtay 1. HD 2022/216 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761286000)
+
 3.3.3. Buna göre, davacının HMK’nın 125. maddesi gereğince davasını tazminat davasına dönüştürdüğü gözetilerek İlk Derece Mahkemesince dava konusu taşınmazların keşfen saptanan dava tarihindeki değerleri toplamı üzerinden davacının miras payına isabet eden değer üzerinden her bir davalıyı adına kayıtlı taşınmazın değerine oranla sorumlu tutarak hüküm kurulması gerekirken yanılgılı değerlendirme ile taşınmazların keşif tarihindeki değerleri toplamı üzerinden hesaplanan değerin davalılardan müşterek ve müteselsilen alınması, buna bağlı olarak fazla harca hükmedilmiş olması doğru olmamıştır.
 
 ## Yargıtay 3. HD 2021/5423 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670132900)
 
 HMK’nın 26.maddesi hükmüne göre, mahkeme tarafların iddia, savunma ve talepleri ile bağlıdır. Kural olarak mahkemenin talepten fazlasına veya başka bir şeye hükmetmesi olanak dışıdır. Öğreti ve uygulamada taleple bağlılık olarak adlandırılan bu kural sadece sonuç istem yönünden değil, sonuç istemi oluşturulan her bir alacak kalemi yönünden de uygulanır. Somut olayda davacı,dava konusu taşınmazın gerçek satış bedelinin tespit edilerek miras payı oranında davalıdan tahsilini istemiştir. İlk Derece Mahkemesince alınan bilirkişi raporunda satışı yapılan taşınmazın toplam değeri 1.200.000 TL olarak tespit edilmiştir. Mahkemece, bilirkişi raporu doğrultusunda davacının miras hissesine düşen bedelin 1/2 olduğu ve hissesine 600.000 TL düştüğü halde taleple bağlı kalınarak 27.500 TL.sının satış tarihinden itibaren işleyecek faiziyle birlikte davalıdan tahsiline karar verilmiş ise de; davaya konu taşınmazda murisin hissesinin 11/40 olduğu ve bilirkişinin taşınmazın tamamını dikkate alarak değer tespit ettiği anlaşılmıştır.
 Bölge Adliye Mahkemesince " dava konusu taşınmazların satış tarihindeki gerçek satış değerinin 1/2 miras payı nispetinde fazlaya ilişkin hakları saklı kalmak üzere 10.000,00.-TL'nin satış tarihi olan 15/02/2011 tarihinden itibaren yasal faizi ile tahsili talep edilmiş olup, alınan 08/05/2017 tarihli bilirkişi raporuna tarafların itirazı üzerine, 02/04/2018 tarihli gayrimenkul değerleme uzmanı-emlak bilirkişi raporuna göre, taşınmazın satış tarihi itibariyle 1.200.000,00.-TL, dava tarihi itibariyle ise, 1.500.000,00.-TL saptanmıştır. Ek rapora, davalı tarafından itiraz edilmediği gibi istinaf başvurusu sırasında da bilirkişi raporlarına ilişkin bir istinaf sebebi ileri sürülmemiştir. Islah dilekçesi olmadan mahkemece tapudaki satış değeri üzerinden harç tamamlama suretiyle karar verilmiş ise de, taleple bağlılık ilkesi kamu düzenine ilişkin olup, bu nedenle de verilen mahkeme kararı usul ve yasaya aykırıdır. " gerekçesiyle davalı vekilinin istinaf talebinin kabulü ile Gemlik 2.
@@ -121,11 +149,15 @@ Asliye Hukuk Mahkemesi'nin 23/05/2018 tarih 2014/594-2018/330 sayılı kararın�
 
 ## Yargıtay 1. HD 2020/3878 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609702800)
+
 Şöyle ki; tenkis hesabında, murisin adına kayıtlı olduğu tespit edilen taşınmazlardan 422 ada 4 parsel sayılı taşınmazdaki 1 nolu bağımsız bölümün terekeye dahil edilmediği, yine çekişme konusu 12 parseldeki 3 nolu bağımsız bölümün murisin ölüm tarihindeki değerinin 56.476 TL olarak saptandığı, ancak 11.03.2016 tarihli tenkis bilirkişi raporunda bu taşınmazın değerinin 35.000 TL olarak gösterildiği, ayrıca Ziraat Bankasından muris adına kayıtlı hesaptan çekilen paranın (809,09 TL); murise vekaleten davalı tarafından çekildiği bildirilmiş olmasına rağmen, bu paranın davalı adına kazandırma olarak dikkate alnması ve bu şekilde hesaplama yapılması doğru görülmemiştir.
 
 Hal böyle olunca; murisin adına kayıtlı diğer taşınmaz olan 422 ada 4 parseldeki 1 nolu bağımsız bölümün de terekeye dahil edilmesi, yine muris adına vekaleten davalı tarafından çekilen paranın davalıya yapılan kazandırma olarak dikkate alınmaması, bu hususları kapsar şekilde uzman bilirkişilerden hükme ve denetime elverişli rapor alınması ve hasıl olacak sonuca göre bir karar verilmesi gerekirken , yetersiz bilirkişi raporu hükme esas alınarak eksik inceleme ile yazılı şekilde hüküm kurulmuş olması doğru değildir.
 
 ## Yargıtay 14. HD 2020/3244 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588599300)
 
 Somut olayda, mahkemece bozma ilamına uyulmasına karar verilmiş ise de gereği tam olarak yerine getirilmemiştir. Talep hakkında karar verilebilmesi için mirasbırakanın ölüm anında ödemeden aczinin tespit edilmesi gerekir. Mirasbırakanın ödemeden aczi ölüm tarihi itibariyle terekesinin aktif ve pasifini belirlemek suretiyle olur. Bu amaçla mirasbırakanın taşınmaz mallarının tapudan, araç kaydının emniyettten, mevduat hesabının ilgili banka şubesinden sorularak belirlenmesi malvarlığı değerlerinin tespit edilmesi mirasbırakanın borcunu karşılayabilecek yeterlilikte olup olmadığının belirlenmesi gerekir. Mirasbırakanın borcundan dolayı mirasçıların mirası reddinin iptali istenebilmesi için diğer bir koşul da reddeden mirasçılara kazandırma yapılmış olduğunun belirlenmesi gerekir. Mirasçının, mirasbırakanın ölümünde evvelki beş yıl içinde mirasbırakandan sağlar arası tasarrufla almış oldukları ve mirasın paylaşılmasında geri vermekle yükümlü oldukları değerler de belirlenip sonucu uyarınca karar verilmesi gerekir.
 
@@ -133,6 +165,8 @@ O halde mahkemece araştırma yapılırken murisin ölüm tarihi esas alınacağ
 Ayrıca, davacıların mirasbırakanın ölümünde evvelki beş yıl içinde mirasbırakandan sağlar arası tasarrufla almış oldukları ve mirasın paylaşılmasında geri vermekle yükümlü oldukları değerler de belirlenip sonucuna göre bir karar verilmesi gerekirken eksik incelemeyle ve yazılı gerekçeyle davanın reddine karar verilmesi doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 20. HD 2020/1327 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592868500)
 
 …
 
@@ -143,6 +177,8 @@ Hukuk Dairesi'nin 02/06/2014 tarih, 2014/4528 E. -16356 K. sayılı kararı ile 
 
 ## Yargıtay 13. HD 2019/6395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515034800)
+
 Dava konusu taşınmaz olan ... Mah.200 Pafta,1246 Ada, 9 Parsel 32 m2 kargir evin tamamının ... ... adına kayıtlı iken, ... ...'in ölümü ile 03/06/2010 tarih 4655 yevmiye numarası ile İnsaf ..., ..., ... ve...adlarına intikalen tescil olunduğu, daha sonra bu taşınmazların tamamının kendisine vekalet verilen davalı muris tarafından eşi ...'e 03/06/2010’da satıldığı, ...'in hissesini ...'ya 14/09/2011 tarihinde kat karşılığı temlik ettiği,bu taşınmazda 28/10/2011 tarih 17576 yevmiye numarası ile 9 bağımsız bölümden ibaret kat irtifakı tesis edildiği ve 2440/29160 arsa payına tekabül eden zemin kat 3 nolu meskenin tamamının Neriman ... adına tescil edildiği dosya kapsamı ile sabittir. Vekâlet sözleşmesinin en önemli unsurları arasında, vekilin talimata uygun hareket etme borcu, özen borcu ve hesap verme borcu gelmektedir. Vekalet sözleşmesinde vekilin hesap verme borcu vekalet sözleşmesinin kurulmasıyla birlikte doğup, işin vekil tarafından yürütülmesi sırasında ve sona ermesinde de devam etmektedir.
 BK.nun 392.maddesi (TBK. 508. maddesi) hükmü gereğince vekil, talep üzerine yaptığı işin hesabını vermeye ve müvekkili nam ve hesabına edindiği her şeyi iade etmeye, iade edinceye kadar da almış olduğu şeyleri saklamaya zorunludur.
 
@@ -150,6 +186,8 @@ Bu ilke ve kurallar altında somut olaya bakıldığında, vekil olan davalını
 Ancak davacının, davalıların murisine vermiş olduğu vekaletnamenin, sadece tapu intikali ve istediği şahsa, istediği bedelle satma, devretme yetkilerini içerdiği görülmüş olmakla birlikte, binanın yapımında davacı tarafın herhangi bir katkısı bulunmadığı sabittir. Bu durumda taşınmazın, davalılar murisi ... tarafından eşi ...’e satıldığı 03.06.2010 tarihi itibariyle, davacı ve davalı tarafın murislerine ait veraset ilamı çıkartılarak davacının arsa payı üzerinde hissesine düşen miktarın bedelinin denetime elverişli bir şekilde hesaplanması, davalılar murisinin vekalet veren davacıya karşı, saptanacak bu bedelle taşınmazı satma ve aldığı bedeli ona ödeme yükümlülüğü altında bulunduğunun benimsenmesi, ortaya çıkacak uygun sonuç çerçevesinde bir karar verilmesi gerekir. Mahkemece, eksik incelemeyle ve yanlış değerlendirme ile yazılı şekilde karar verilmesi usule ve yasaya aykırı olup, bozma nedenidir.
 
 ## Yargıtay 17. HD 2019/5972 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521443100)
 
 Dava, hayat sigortalısının vefatı nedeniyle mirasçılarının sigortadan tazminat istemine ilişkindir.
 

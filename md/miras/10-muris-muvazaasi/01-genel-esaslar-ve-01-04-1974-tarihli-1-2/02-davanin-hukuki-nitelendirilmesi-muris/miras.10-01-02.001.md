@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960949200)
+
 Muris muvazaası hukuksal nedenine dayalı istek yönünden yukarıda değinilen ilkeler ve Yargıtay İçtihadı Birleştirme Hukuk Genel Kurulunun 01.04.1974 tarihli ve 1974/1 Esas 1974/2 Karar sayılı kararı çerçevesinde araştırma ve inceleme yapılması, taraf delillerinin toplanıp değerlendirilmesi, varılacak sonuç çerçevesinde bir karar verilmesi gerekirken, aynı dava içerisinde her iki hukuki sebebe dayanılmasının mahiyeti itibari ile mümkün olmadığı gerekçesiyle yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay HGK 2023/795 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963018700)
 
 Dava dilekçesinin içeriği, iddianın ileri sürülüş biçimi, davacı tarafça verilen 27.06.2016 tarihli dilekçe ve ön inceleme tutanağında tespit edilen hususlar göz önüne alındığında davanın hukuki niteliğinin muris muvazaası hukuksal nedenine dayandırıldığı anlaşılmaktadır. Bu durumda, davanın muris muvazaası hukuksal nedenine dayalı miras payı oranında iptal tescil niteliğinde bulunduğu gözetilerek Yargıtay İçtihadı Birleştirme Hukuk Genel Kurulunun 01.04.1974 tarihli ve 1974/1 Esas 1974/2 Karar sayılı kararında belirtilen ilkeler doğrultusunda değerlendirme yaparak sonucuna göre karar verilmelidir.
 
@@ -38,6 +42,8 @@ kapsamındaki delillerin tahlil ve taktirinde, hukuki nitelendirmede ve varılan
 
 ## Yargıtay 1. HD 2025/4593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194652900)
+
 Dava, ehliyetsizlik ve vekalet görevinin kötüye kullanılması hukuki nedenlerine dayalı mirasbırakana teban pay oranında açılan tapu iptali ve tescil, olmazsa bedel isteğine ilişkindir.
 
 …
@@ -45,6 +51,8 @@ Dava, ehliyetsizlik ve vekalet görevinin kötüye kullanılması hukuki nedenle
 Haksız fiil niteliğindeki muris muvazaası ve el atmanın önlenmesi gibi davaların dışında mülkiyetten kaynaklanan ve murise teb'an açılacak ehliyetsizlik ve vekalet görevinin kötüye kullanılması gibi davalarda mirasçı olmayan 3. kişiye karşı terekeyi temsil eden tüm mirasçıların bir arada hareket etmek suretiyle davayı birlikte açmaları, mirasçılardan bir tanesinin terekeye iade şeklinde dava açması halinde ise tüm mirasçıların davaya muvafakatlerinin sağlanması, aksi takdirde terekenin atanacak temsilci marifetiyle davada temsil edilmesi ve yürütülmesi gerekeceği (4721 sayılı Türk Medeni Kanunu 640. madde) tartışmasızdır. Mirasçı olmayan kişiye karşı ehliyetsizlik, vekalet görevinin kötüye kullanılması gibi hukuki nedenlere dayalı miras payı oranında açılan tapu iptali ve tescil davasının dinlenme olanağının bulunmadığı açıktır.
 
 ## Yargıtay 1. HD 2024/1571 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063515400)
 
 Dava, yolsuz tescil hukuki sebebine dayalı pay oranında tapu iptali ve tescili, olmazsa bedel istemine ilişkindir.
 
@@ -54,6 +62,8 @@ Terekeye karşı yapılan mülkiyetten kaynaklanan haksız fiil niteliğindeki m
 
 ## Yargıtay 1. HD 2023/1553 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908933900)
+
 Dava, mirasbırakana teban açılan vekalet görevinin kötüye kullanılması hukuki nedenine dayalı tapu iptali ile tüm mirasçılar adına tescil, olmadığı takdirde bedel isteğine ilişkindir.
 
 …
@@ -62,9 +72,13 @@ Bilindiği üzere mirasbırakanın ölüm tarihine göre terekesi elbirliği mü
 
 ## Yargıtay 1. HD 2022/366 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759660200)
+
 Mahkeme kararı, davalıların temyizi üzerine Dairece; ″...mirasbırakanın, mirasçılarından mal kaçırmasını gerektirir somut bir olgu ortaya konulamadığı, her ne kadar davacı tanıkları olan davacıların eşleri, beyanlarında temlikin muvazaalı olduğunu belirtmiş iseler de, iptal tescile karar verilmesi durumunda taşınmazda hak sahibi olacak mirasçılardan davalı tanığı olarak dinlenen mirasbırakanın eşi ... ile oğlu ... ...’ın, dava konusu taşınmazın davalılardan ...’a satışının gerçek olduğunu beyan ettikleri, değinilen bu olgular karşısında davacı tarafça muvazaa iddiasının kanıtlanamadığı açıktır. Hal böyle olunca, özellikle davada dayanılan ehliyetsizlik ve muris muvazaası hukuksal nedenleri bakımından iddianın kanıtlanamadığı, vekalet görevinin kötüye kullanılması hukuksal nedenine de dayanılmadığına göre, asıl ve birleştirilen davaların tümden reddine karar verilmesi gerekirken...″ gerekçesiyle bozulmuştur.
 
 ## Yargıtay 1. HD 2021/3226 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683062500)
 
 Dava, vekalet görevinin kötüye kullanılması hukuki nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -73,6 +87,8 @@ Dava, vekalet görevinin kötüye kullanılması hukuki nedenine dayalı tapu ip
 Bilindiği üzere; ehliyetsizlik, vekalet görevinin kötüye kullanılması ve muris muvazaası hukuksal nedenine dayalı tapu iptal tescil davalarının zamanaşımı ya da hak düşürücü süreye tabi olmadığı, davanın niteliğine göre bu tür iddiaların süreye tabi kılınmaksızın her zaman ileri sürülmesinin olanaklı bulunduğu tartışmasızdır.
 
 ## Yargıtay 1. HD 2021/2967 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680240000)
 
 Dava, tapu iptali ve tescil isteğine ilişkindir.
 
@@ -84,12 +100,16 @@ Hemen belirtmek gerekir ki, maddi vakıayı bildirmek taraflara, hukuki nitelend
 
 ## Yargıtay 1. HD 2020/4810 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647214800)
+
 114 ada 26 sayılı parseldeki ¼ payının devri yönünden vekalet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu iptali ve tescil, diğer dava konusu taşınmazlar yönünden ise muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, mümkün olmazsa tenkis isteğine ilişkin olduğu anlaşılmıştır.Ne var ki mahkemece, dava konusu dört parça taşınmaz yönünden doğrudan tenkis isteği üzerinde durularak ve aldırılan bilirkişi raporları ile davacının saklı payına tecavüz edilmediği gerekçesiyle davanın reddine karar verilmiştir.Davacı taraf, terditli isteklerde bulunmuştur. Öncelikle, dava konusu taşınmazlar yönünden iptal-tescil isteğinin değerlendirilmesini, mümkün olmazsa tenkis isteği yönünden inceleme yapılmasını istemiştir.Hemen belirtilmelidir ki, 3. kişilere devredilen taşınmazlar yönünden iptal-tescil isteğinin dinlenmeyeceği ortadadır. O nedenle, tazminat da istenmediği gözetilek 3. kişilere devredilen taşınmazlar yönünden tenkis incelemesi yapılması gerekmektedir.
 
 Ne var ki, muris muvazaasına konu edilen 2014 ada 5 sayılı parseldeki 16 no’lu bağımsız bölümün tamamı halen davalı adına kayıtlıdır.Yine, dava konusu 114 ada 26 parsel sayılı taşınmazın tamamı davalı ... adınadır.O halde, 114 ada 26 sayılı parseldeki ¼ pay yönünden vekalet görevinin kötüye kullanılıp kullanılmadığı, 2014 ada 5 sayılı parseldeki 16 no’lu bağımsız bölüm yönünden ise muris muvazaası hukuksal nedeni üzerinde durulması, anılan taşınmazlarda iptal-tescil isteğinin kabul edilip edilmeyeceğinin öncelikle çözümlenmesi, 16 no’lu bağımsız bölüm yönünden iptal-tescil isteğinin kabul edilmesi halinde davacı tarafın bu taşınmazdan da miras payını alacağı gözetilerek diğer dava konusu ( 3. kişilere devredilen 3931 sayılı parseldeki 9 no’lu mesken ve 6823 ada 17 sayılı parseldeki 5 no’lu mesken) taşınmazlarla birlikte tenkis değerlendirmesi yapılması, reddedilmesi halinde ise 3. kişilere devredilen taşınmazlar yönünden doğrudan tenkis değerlendirmesinin yapılması, tenkis incelemesi yapılırken temliklerin mutlak tenkise tabi olmadığı göz önüne alınarak mirasbırakanın saklı pay kurallarını ihlal kastıyla hareket edip etmediğinin tespit edilmesi ve sonucuna göre tenkis raporu
 aldırılması gerekirken, yanılgılı hukuksal niteleme ve eksik inceleme ile yazılı şekilde karar verilmesi doğru değildir.Davacının yerinde bulunan temyiz itirazlarının kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA, 02.01.2020 tarihinde yürürlüğe giren Avukatlık Ücret Tarifesi gereğince gelen temyiz eden vekili için 2.540.00. TL. duruşma vekâlet ücretinin temyiz edilenden alınmasına, alınan peşin harcın temyiz edene geri verilmesine, 06.10.2020 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2020/2689 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647462400)
 
 Davanın reddine ilişkin verilen karar Dairece; "... Eldeki dava dilekçesinin içeriği ve iddianın ileri sürülüş biçimine göre 6098 sayılı TBK. nun 19. maddesi ve 01.04.1974 tarihli 1/2 Sayılı Yargıtay İnançları Birleştirme Kararında ifadesini bulan muris muvazaası hukuksal nedenine dayanıldığı açıktır...Hâl böyle olunca, tarafların iddia ve savunmaları doğrultusunda delillerin toplanması, yukarıda değinilen ilkeler ışığında gerekli inceleme ve araştırmanın yapılması, soruşturmanın eksiksiz tamamlanması ondan sonra bir karar verilmesi gerekirken, hukuki nitelendirme yapılmaksızın ve noksan soruşturma ile yazılı olduğu üzere hüküm kurulması doğru değildir." gerekçesiyle bozulmuş, bozmaya uyularak yapılan yargılama sonucunda, ... 1. Asliye Hukuk Mahkemesi'nin 2014/416 Esas sayılı dava dosyası ile ... tarafından açılan davanın eldeki dava ile birleştirilmesine karar verilerek, asıl ve birleştirilen davaların reddine karar verilmiştir.
 
@@ -99,12 +119,16 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine 
 
 ## Yargıtay 1. HD 2019/3814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520366100)
+
 Asıl dava, vekalet görevinin kötüye kullanılması hukuksan nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis, birleştirilen dava muris muvazaası ve vekalet görevinin kötüye kullanılması hukuksal nedenlerine dayalı tapu iptali ve tescil ile elatmanın önlenmesi isteklerine ilişkindir.Davacı, mirasbırakan babası ... ’ya ait 64, 70, 270, 431, 433, 435, 437 parsel sayılı taşınmazların, davalı ...’nın mirasbırakandan hile ile aldığı vekaletname kullanılarak diğer davalı derneğe bağış suretiyle devredildiğini, yine davalı ...’nın hile ile mirasbırakanın maliki olduğu 435 parsel sayılı taşınmazdaki 33/12800 payın ara malik kullanmak suretiyle adına tescilini sağladığını, ayrıca davalı ... tarafından hile ile mirasbırakanın vasiyetname yapmasının sağlandığını, işlemlerin saklı payı bertaraf etmek kastıyla yapıldığının ileri sürerek tapu iptali ve tescil, olmazsa tenkis istemiş, birleştirlen davada davacılar, mirasbırakan İbrahim’in, 88, 234 (32/128 pay), 217, 218, 206 parsel sayılı taşınmazlarını mirasçıdan mal kaçırma amacıyla muvazaalı olarak davalılara devrettiğini, 64, 70, 270, 431, 433, 434, 437, 490 ve 435 parsel sayılı taşınmazların ise davalı ... tarafından muristen
 hile ile alınan vekaletname ile davalı derneğe devredildiğini ileri sürerek tapu iptali ve tescil ile elatmanın önlenmesine karar verilmesini istemişlerdir.Davalılar, iddiaların yersiz olduğunu belirterek davanın reddini savunmuşlardır.Mahkemece, gerekçesiz olarak davanın reddine karar verilmiştir.Hemen belirtmek gerekir ki; Anayasanın 141/3. maddesi hükmü gereği bütün mahkemelerin her türlü kararlarının gerekçeli olarak yazılması zorunludur. Tarafların tüm delilleri toplanıp, tetkik edildikten ve 6100 sayılı Hukuk Muhakemeleri Kanununun (HMK) 186. maddesine göre son sözleri dinlenip duruşmanın bittiği bildirildikten sonra hakimin, aynı Yasanın 297. maddesi uyarınca kararını gerekçesi ile birlikte (tam olarak) yazması ve hüküm sonucunu 294. madde de öngörülen biçimde tefhim etmesi asıldır.
 Bilindiği üzere, 6100 sayılı Hukuk Muhakemeleri Kanununun 297. maddesinde hükmün kapsamının hangi hususları içereceği düzenlenmiş olup, aynı maddenin (c) fıkrasında ''Tarafların iddia ve savunmalarının özetini, anlaştıkları ve anlaşamadıkları hususları, çekişmeli vakıalar hakkında toplanan delilleri, delillerin tartışılması ve değerlendirilmesini, sabit görülen vakıalarla bunlardan çıkarılan sonuç ve hukuki sebeplerini'' içermesi gerektiği belirtilmiştir.Yargıtay denetiminin yapılması bakımından da yerel mahkemenin, kararında gerekçelerini açıkça göstermesi zorunludur.Öte yandan davalar birleştirilse bile müstakil dava olma özelliklerini koruduğundan her bir dava hakkında ayrı ayrı hüküm kurulması gerektiği kuşkusuzdur.Somut olayda, mahkemece kurulan hükmün Anayasa ve Usul Yasasının değinilen hükümlerine uygun olmadığı, kararının gerekçe içermediği açık ve tartışmasızdır.Hal böyle olunca;
 6100 sayılı HMK. nun 297/1-c maddesine uygun biçimde delillerin karar yerinde tartışılması, kabul ve red nedenlerinin gösterilmesi ve bu nedenlerin dayandığı yasa maddelerinin veya yerleşmiş içtihatlarının veyahut Daire ilkelerinin belirtilmesi, birleşen davalar bakımından ayrı ayrı hüküm kurulması gerekirken değinilen husular gözardı edilerek yazılı şekilde karar verilmiş olması doğru değildir.Davacıların yerinde bulunan temyiz itirazlarının kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 13/06/2019 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2016/5443 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204233300)
 
 Davanın reddine ilişkin olarak verilen karar Dairece;
 
@@ -118,6 +142,8 @@ Hemen belirtilmelidir ki, satışa konu edilen bir malın devrinin belirli bir s
 
 ## Yargıtay 1. HD 2015/14311 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/197393000)
+
 Dava, ikrah ve muris muvazaası hukuksal nedenine dayalı tapu iptali ile miras payları oranında mirasçılar adlarına tescil isteğine ilişkindir.
 
 …
@@ -126,11 +152,15 @@ Dava, ikrah ve muris muvazaası hukuksal nedenine dayalı tapu iptali ile miras 
 
 ## Yargıtay 1. HD 2015/8791 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141488700)
+
 …
 
 yargılama sırasında yapılan keşif neticesinde dava konusu taşınmazda davacılar tarafından davalıya satılan payların değerinin akit tarihinde (14.2.2008) 71.015,70-TL, taşınmazın tamamının değerinin 101.000,00-TL olduğunun belirlendiği, davalı tanığının beyanı doğru kabul edilse dahi, hac masraflarının bu kadar yüksek meblağa ulaşmayacağı, davalıların karı-koca olup davalı Döne'nin herhangi bir gelirinin bulunmadığı, bedelin vekil edenlere ödendiği iddiasının kanıtlanamadığı, vekâlet görevinin kötüye kullanıldığı, davalı Döne'nin de bu durumu bilmesi gereken kişi konumunda olduğu tüm dosya kapsamı ile sabittir.
 
 ## Yargıtay 1. HD 2013/2255 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79491900)
 
 Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı pay oranında tapu iptali ve tescil, olmazsa tenkis isteğine ilişkindir.
 
@@ -139,6 +169,8 @@ Dava, ehliyetsizlik ve muris muvazaası hukuksal nedenlerine dayalı pay oranın
 İddianın ileri sürülüş biçimi ve içeriğinden, davacının terditli olarak öncelikle ehliyetsizliğe, olmadığı takdirde muris muvazaasına dayanarak pay oranında iptal-tescil isteğinde bulunduğu görülmektedir. Miras bırakanın ölüm tarihine göre terekesi elbirliği mülkiyetine tabidir. Davacı dışında başkaca mirasçıların bulunduğu dosya kapsamı ile sabittir. Terekeye karşı yapılan mülkiyetten kaynaklanan haksız fiil niteliğinde ki muris muvazaası ve elatmanın önlenmesi gibi davaların dışında ehliyetsizlik, vekalet görevinin kötüye kullanılması vs. gibi davalarda terekeyi temsil eden tüm mirasçıların bir arada hareket etmek suretiyle davayı birlikte açmaları, ayrıca, mirasçılardan bir tanesinin terekeye iade şeklinde dava açması halinde de tüm mirasçılarının davada muvafakatlarının sağlanması, aksi takdirde terekenin atanacak temsilci marifetiyle davada temsil edilmesi ve yürütülmesi gerekeceği (T.M.K. 640 md.) tartışmasızdır.
 
 ## Yargıtay 1. HD 2012/1927 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79089700)
 
 Dava; ehliyetsizlik, vekalet görevinin kötüye kullanılması ve muris muvazaası hukuksal nedenlerine dayalı pay oranında iptal ve tescil isteklerine ilişkindir.
 
@@ -150,5 +182,7 @@ Ne var ki, davada ileri sürülen diğer istek muris muvazaası nedenine dayalı
 İhtisas Kurulundan rapor alınmak suretiyle murisin vekaletnamenin düzenlendiği ve temlikin yapıldığı tarihlerde hukuksal ehliyete haiz olup olmadığının saptanması; ehliyetsiz olduğunun anlaşılması halinde pay oranında istekte bulunulamayacağından davanın reddedilmesi; murisin hukuksal ehliyete haiz olduğu anlaşılırsa, keza vekalet görevinin kötüye kullanılması nedenine dayanılarak da pay oranında istekte bulunamayacağının gözetilmesi; daha sonra ise, muvazaa iddiası değerlendirilerek hasıl olacak sonuca göre karar verilmesi gerekirken, değinilen hususlar göz ardı edilerek yazılı biçimde hüküm kurulması doğru değildir.
 
 ## Yargıtay 1. HD 2009/11683 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78455400)
 
 Ne varki, iddianın ileri sürülüş biçimi ve dava dilekçesinin içeriğine göre, davada muris muvazaasından ziyade vekalet görevinin kötüye kullanılması hukuksal nedenine dayanıldığı açıktır. Bilindiği üzere; Borçlar Kanununun temsil ve vekalet bağıtını düzenleyen hükümlerine göre, vekalet sözleşmesi büyük ölçüde tarafların karşılıklı güvenine dayanır. Vekilin borçlarının çoğu bu güven unsurundan, onun vekil edenin yararına ve iradesine uygun davranış yükümlülüğünden doğar.

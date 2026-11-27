@@ -21,15 +21,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/71 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131827100)
+
 Muris muvazaasına dayalı olarak açılan davalarda ispat yükü ise muvazaanın varlığını iddia eden tarafa aittir. Gerek 4721 sayılı Türk Medeni Kanunu'nun (TMK) 6. maddesindeki “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür” hükmü ve gerekse 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) 190/1. maddesindeki “İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir” hükmü uyarınca, miras bırakanın yaptığı temlikteki gerçek irade ve amacının mirasçıdan mal kaçırmak olduğunu, bu hususu ileri süren davacı taraf kanıtlamalıdır.
 
 ## Yargıtay HGK 2023/1003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/959020500)
 
 …
 
 mirasbırakanın temlik tarihinde mirasçılarından mal kaçırmasını gerektiren bir nedeninin bulunmadığı, davacı tarafça bu hususa ilişkin somut bir olgu ortaya konulamadığı, ispat yükü kendisinde olan davacı tarafın mirasbırakanın çekişmeli temlik ile mirastan mal kaçırma amacıyla hareket ettiğini kanıtlayamadığı anlaşılmıştır. Akit tablosunda gösterilen bedeller ile dava konusu bağımsız bölümlerin keşfen saptanan gerçek değerleri arasındaki fark da tek başına muvazaanın kanıtı sayılamaz.
 
 ## Yargıtay HGK 2023/861 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/948062000)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -40,6 +46,8 @@ Bir iç sorun olan ve gizlenen gerçek irade ve amacın tespiti ve aydınlığa 
 Tüm bu açıklamalardan anlaşılacağı üzere, muris muvazaasına ilişkin davaların niteliği gereğince taraflarca sunulan delillerin, her somut olayın özelliğine göre az yukarıda açıklanan objektif olgulardan da yararlanılarak bir bütün olarak değerlendirilmesi ve sonuca ulaşılması gerekmektedir. Burada hemen belirtmek gerekir ki muris muvazaasına ilişkin davalarda miras bırakanın asıl irade ve amacı belirlenirken, tarafların dayandıkları delillerin her olayın kendi özelliklerine göre objektif olgulardan da yararlanılarak birlikte değerlendirilmesi ve sonuca ulaşılması gerektiği açıktır. Fiili karineler de denilen bu objektif olgular, tarafların iddialarının doğruluğu veya bir delilin güvenilebilirlik derecesi hakkında hâkimin kanaat edinmesine yarayan, yaşam tecrübelerinin ortaya koyduğu, hukukla ilgili bulunmayan değer hükümleri olarak kabul edilmektedir. Bu fiili karinelerin varlığı tarafın ispat yükünü ortadan kaldırmaz ise de somut olayda olduğu gibi tanık delili dışında dayanılan başka delillerin bulunması durumunda dayanılan bu delillerin değerlendirilmesi sırasında da gözetileceği kuşkusuzdur.
 
 ## Yargıtay HGK 2023/540 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919367000)
 
 Öte yandan, muvazaa iddiasına dayalı davalarda mirasbırakanın kastının açık bir şekilde saptanması gerekmektedir. Bu kapsamda, 6100 sayılı Hukuk Muhakemeleri Kanununun (HMK) 190. maddesi ile TMK'nin 6. maddesi uyarınca herkes iddiasını ispatla mükelleftir. Bir başka ifade ile temlikin mirasçılardan mal kaçırma amaçlı olduğunu ispat külfeti davacı tarafa aittir.
 
@@ -55,6 +63,8 @@ başvurusunda bulunulması üzerine Bölge Adliye Mahkemesinin ilâm başlığı
 
 ## Yargıtay 1. HD 2023/7152 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024740400)
+
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptal ve tescil, olmadığı takdirde tenkis istemine ilişkindir.
 
 …
@@ -65,17 +75,23 @@ Tüm bu açıklamalar ışığında, 6100 sayılı Hukuk Muhakemeleri Kanunu’n
 
 ## Yargıtay 1. HD 2022/103 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/731538800)
+
 3.3.5.
 Yukarıda yer verilen olgular, yasal düzenleme ve bilimsel görüş ile dosya kapsamındaki deliller birlikte değerlendirildiğinde, mirasbırakanın ölümü ile geriye azımsanmayacak miktarda taşınmaz bıraktığı, mirasbırakanın mirasçılarından mal kaçırmak istemesi halinde tüm malvarlığını ya da büyük bir kısmını kaçırmaya çalışacağı, ne var ki bu şekilde hareket etmediği, dinlenen tanık beyanları uyarınca; mirasbırakanın çocukları ile arasının iyi olduğu, birini diğerine üstün tutmasını gerektirecek bir nedeninin bulunmadığı, tarafların dava dışı kardeşi ...’in dava konusu dükkanlarda temlik öncesinde Arçelik A.Ş. bayiliği yaptığı, mal temininin güvencesi olarak şirket lehine ipotek tesis edildiği, ...’in işlerinin bozulması ve piyasaya borçlanması üzerine mirasbırakanın işletmenin devamını sağlayabilmek için dava konusu dükkanları davalıya devrettiği, davalının da o dönem işletmeden kaynaklı borçları yapılandırarak mal temini ve satımına devam ettiği, bu nedenle mirasbırakanın mal kaçırma amacından bahsedilemeyeceği, 01.04.1974 tarihli ve 1/2 sayılı İçtihadı Birleştirme Kararının uygulanabilmesi için mirasbırakanın iradesinin mal kaçırma amacına matuf olduğunun kanıtlanması gerektiği, ne
 var ki ispat yükü kendisinde olan davacı tarafın bu hususu kanıtlayamadığı anlaşılmıştır.
 
 ## Yargıtay 1. HD 2021/6157 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/701761000)
+
 İlk Derece Mahkemesince, ... ve ... parsel sayılı taşınmazlar yönünden davanın reddine, ... ve ... parsel sayılı taşınmazlar yönünden davanın kabulüne karar verilmiş, ... Bölge Adliye Mahkemesi 1.
 Hukuk Dairesince tarafların ecrimisile yönelik istinaf isteklerinin kesinlik sınırının altında olması nedeniyle reddine, davalıların diğer istinaf nedenlerinin esastan reddine, davacıların istinaf başvurusunun kısmen kabulü ile kararın kaldırılmasına, vekalet ücreti yönünden düzeltilerek davanın kısmen kabul kısmen reddine ilişkin verilen karar, Dairece “...Temyiz kesinlik sınırı içinde kaldığı anlaşılan eldeki davada ecrimisil isteği yönünden tarafların temyiz dilekçesinin değerden reddine, diğer taleplere gelince, hemen belirtilmelidir ki; davalı ...’e yapılan devrin mirasçılardan mal kaçırmak amaçlı ve muvazaalı olduğunun ispatlanmadığı gerekçesiyle davanın reddine karar verilmiş olmasında isabetsizlik yoktur, davacıların yerinde görülmeyen temyiz itirazlarının reddine, diğer temyiz itirazlarına gelince somut olayda, dinlenen davacı tanıklarının işlemlerin muvazaalı olduğuna yönelik herhangi bir beyanda bulunmadıkları, mirasbırakanın mal kaçırma kastı ile hareket ettiğini gösterir somut bir olgu ortaya konulamadığı, davalı tanıklarının ise mirasbırakanın Rusya’ya yaptığı ihracat işleri nedeniyle borçları olduğunu, davalıların alım gücü olduğunu beyan ettikleri, yukarıda
 belirtildiği üzere ispat yükünün davacı tarafa ait olup, dosya kapsamındaki deliller ile davacı tarafın temliklerin mirastan mal kaçırma amaçlı ve muvazaalı olduğunu ispat edemediği anlaşılmıştır. Hal böyle olunca, davanın tümden reddine karar verilmesi gerekirken, delillerin takdirinde hataya düşülerek yazılı şekilde ... ve ... parsel sayılı taşınmazlar yönünden davanın kabulüne karar verilmesi doğru değildir.” gerekçesiyle bozulmuş, bölge adliye mahkemesince bozma ilamına uyularak yapılan inceleme sonucunda davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2021/1309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653748700)
 
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında tapu iptali ve tescil isteğine ilişkindir.
 
@@ -85,12 +101,16 @@ Muris muvazaası hukuksal nedenine dayalı davalarda mirasbırakanın gerçek ir
 
 ## Yargıtay 1. HD 2019/3914 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519381900)
+
 Hemen belirtilmelidir ki, bu tür uyuşmazlıkların sağlıklı, adil ve doğru bir çözüme ulaştırılabilmesi davalıya yapılan temlikin gerçek yönünün, diğer bir söyleyişle miras bırakanın asıl irade ve amacının duraksamaya yer bırakmayacak biçimde ortaya çıkarılmasına bağlıdır. Bir iç sorun olan ve gizlenen gerçek irade ve amacın tespiti ve aydınlığa kavuşturulması genellikle zor olduğundan bu yöndeki delillerin eksiksiz toplanılması yanında birlikte ve doğru şekilde değerlendirilmesi de büyük önem taşımaktadır. Bunun için de, Ülke ve yörenin gelenek ve görenekleri, toplumsal eğilimleri, olayların olağan akışı, miras bırakanın sözleşmeyi yapmakta haklı ve makul bir nedeninin bulunup bulunmadığı, davalı yanın alış gücünün olup olmadığı hususlarının araştırılmasında ve satış bedeli ile sözleşme tarihindeki gerçek değer arasındaki fark, taraflar ile miras bırakan arasındaki beşeri ilişki gibi olgulardan yararlanılmasında zorunluluk vardır.
 
 Öte yandan, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 190. maddesinde, "İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir."; 4721 sayılı Türk Medeni Kanunu'nun(TMK) 6. maddesinde, "Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür." şeklinde yer alan hükümlerle, açılmış bir davada ispat yükünün kural olarak davacıya yüklendiği tartışmasızdır.Somut olaya gelince mirasbırakanın, mirasçılarından mal kaçırmasını gerektirir somut bir olgu ortaya konulmadığı gibi dinlenen davacı tanıkları mirasbırakanın çekişme konusu taşınmazını, ölümü halinde davacı oğluna intikal etmesi halinde borçları sebebiyle haczedileceği endişesi ile davalıya devrettiğini bildirmişlerdir.
 Bu somut bilgiler yukarıdaki ilkelerle birlikte değerlendirildiğinde temlikin mirasçıdan mal kaçırma amacıyla yapılmadığı sonucuna varılmaktadır.Hal böyle olunca, davanın reddine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması doğru değildir.Davalının yerinde bulunan temyiz itirazlarının kabulü ile 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 373. maddesi uyarınca Bölge Adliye Mahkemesi kararının ORTADAN KALDIRILMASINA, İlk Derece Mahkemesi kararının yukarıda yazılı nedenlerden dolayı 6100 sayılı HMK’nın 371.
 
 ## Yargıtay 1. HD 2019/2384 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500314400)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, olmazsa bedel isteğine ilişkindir.
 
@@ -99,6 +119,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, olmazsa bed
 Temlikin muvazaalı olduğundan söz edilebilmesi ve 1.4.1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararının uygulanabilmesi için mirasbırakanın temliki mirasçıdan mal kaçırma amacıyla yaptığının kanıtlanması zorunludur. 6100 sayılı HMK'nun 190. maddesi ile 4721 sayılı TMK'nun 6. maddesi uyarınca herkes iddiasını ispatla mükelleftir. Bir başka ifade ile 21.12.2009 tarihli temlikin mirasçıdan mal kaçırma amaçlı olduğunu ispat yükünün davacıya yüklendiği tartışmasızdır.
 
 ## Yargıtay 1. HD 2019/623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520844700)
 
 Dava, muris muvazaası hukuksal nedenine dayalı miras payı oranında tapu iptali-tescil istemine ilişkindir.
 

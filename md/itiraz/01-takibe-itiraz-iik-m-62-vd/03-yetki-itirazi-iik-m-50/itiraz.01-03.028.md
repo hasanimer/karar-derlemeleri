@@ -36,6 +36,8 @@ Davacı vekili açtığı dava ile, taraflar arasında okul kıyafeti dikimi hus
 
 ## İstanbul BAM 16. HD 2024/1017 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1034071500)
+
 İLK DERECE MAHKEMESİ KARARI: İlk derece mahkemesince yapılan yargılama sonucunda; davalının davaya konu ilamsız icra takibine yaptığı itirazda Bakırköy İcra Müdürlükleri yetkili olduğundan bahisle yetki itirazında bulunduğu, TBK'nın 89 ve HMK'nın 10. maddelerine göre alacaklının yerleşim yerinin tayini içini akdi ilişkinin varlığının ihtilafsız olması gerektiği, davalının davacıyla arasında akdi ilişkiyi kabul etmediğini, davacının para alacağının varlığı belirli olmadığından ve taraflar arasında sözleşme ilişkisinin varlığı ihtilaflı olduğundan yetkili icra dairesinin davalının adresinin bulunduğu icra dairesi olduğu, davalının yerleşim yeri Bakırköy yargı çevresinde olduğu, davalının icra dairesinin yetkisine itirazının yerinde olduğu gerekçesiyle, usulüne uygun geçerli bir icra takibi bulunmadığından dava şartı yokluğu nedeniyle davanın usulden reddine karar verilmiştir.
 
 …
@@ -46,6 +48,8 @@ Davacı vekili açtığı dava ile, taraflar arasında okul kıyafeti dikimi hus
 HÜKÜM: Gerekçesi ayrıntılı kararda açıklandığı üzere;1-Davacı vekilinin istinaf isteminin kabulüne, 2-Bakırköy 2. Asliye Ticaret Mahkemesi'nin 24/11/2023 gün ve 2023/764 Esas 2023/1205 Karar sayılı kararının 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 43. HD 2024/947 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055316600)
 
 Davaya konu İstanbul 5. İcra Müdürlüğü'nün 2017/30522 E. sayılı takip dosyasının incelenmesinde; alacaklı ... A.Ş tarafından borçlu ... Tic. Ltd. Şti aleyhine 5 adet faturaya dayalı olarak 19.219,03-TL alacağın tahsili için 28/09/2017 tarihinde ilamsız genel haciz yoluyla takibe girişildiği, borçluya ödeme emrinin 10/10/2017 tarihinde tebliğ edildiği ve borçlu tarafından süresinde süresinde borca ve tüm ferilerine itiraz edildiği ve iş bu davanın 1 yıllık hak düşürücü süre içerisinde açıldığı anlaşılmaktadır.Davacı tarafça, 2004 sayılı İcra ve İflas Kanunu(İİK)'nun 67. maddesi uyarınca itirazın iptaline karar verilmesi istemiyle eldeki dava açılmıştır.Taraflar arasında yazılı istasyonlu bayilik sözleşmesi ve otogaz bayilik sözleşmesi bulunduğu ihtilaf konusu değildir. Davalı taraf yetki itirazında bulunmuş ve ilk derece mahkemesince yetki itirazının reddine karar verilmesi üzerine esas ile birlikte bu ara kararı da istinaf etmiş olmakla yapılan incelemede;
 2004 sayılı İcra ve İflas Kanunu(İİK)'nun 50/1. maddesinde, para veya teminat borcu için takip hususunda Hukuk Muhakemeleri Kanunu'nun yetkiye dair hükümlerinin uygulanacağı düzenlenmiştir.6100 sayılı Hukuk Muhakemeleri Kanunu(HMK)'nun genel yetkiye ilişkin 6/1. maddesine göre dava, davalının davanın açıldığı tarihteki yerleşim yeri mahkemesinde açılabileceği gibi sözleşmeden doğan davalarda yetkiye ilişkin 10. maddesine göre de sözleşmeden doğan dava, sözleşmenin ifa edileceği yer mahkemesinde de açılabilir.6098 sayılı TBK'nın 89/1-1 maddesinde, Borcun ifa yeri, tarafların açık veya örtülü iradelerine göre belirlenmediği takdirde, aksine bir anlaşma yoksa, para borçlarının, alacaklının ödeme zamanındaki yerleşim yerinde, ifa edileceği düzenlenmiştir. Karşılıklı borç yükleyen sözleşmelerde her edim yönünden ifa yerinin ayrıca değerlendirilmesi gerekir.HMK'nın 17. maddesi "Tacirler veya kamu tüzel kişileri, aralarında doğmuş veya doğabilecek bir uyuşmazlık hakkında, bir veya birden fazla mahkemeyi sözleşmeyle yetkili kılabilirler. Taraflarca aksi kararlaştırılmadıkça dava sadece sözleşmeyle belirlenen bu mahkemelerde açılır." hükmünü içermektedir.
@@ -59,6 +63,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusunu
 
 ## İstanbul BAM 13. HD 2024/941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047754900)
+
 Bina bedeli:1.511.896,44 TL, Demibaş bedeli:36.265,85 TL, Makine bedeli:839.000,00 TL, emtia bedeli:20.000,000,00 TL, Not: çürüme talimatı dahildir fakat ihmalkarlık olduğu takdirde ödeme yapılmaz..." şeklinde cevap verildiği ve davacı tarafından 18:00'de sigorta belgeleri konulu kızılay et deposu pdf formatında poliçenin gönderildiğinin anlaşıldığı, sigorta poliçesinin düzenleme tarihinin de 10/10/2018 tarihi, başlangıç tarihinin 10/10/2018 tarihi saat 17:44 olduğu, bitiş tarihinin 10/10/2019 tarihi olduğu, davalının söz konusu poliçenin düzenlenmesinden sonra herhangi bir itirazda bulunmadığı, davacı tarafından davalıya 16/10/2018 tarihinde saat 17:49'da tekrar kızılay et deposu pdf formatında poliçenin gönderildiğinin anlaşıldığı ve davalının itiraz etmediği ve uygun bir sürede reddetmediği ve örtülü olarak kabul ettiği, taraflar arasında mail yazışmaları incelendiğinde sigorta sözleşmesinin kurulmuş olduğu, davalının bir yıl süre ile sigorta poliçesi teminatından menfaat sağladığı ve davacı tarafından davalının ödemesi gereken sigorta primlerini sigorta şirketine ödediği anlaşılmıştır.
 Bu sebeple davalının sigorta sözleşmesinin kurulmadığına ve davacı tarafından sigorta primleri sigorta şirketine ödendiğinden sözleşmeden cayıldığına ilişkin istinaf sebepleri yerinde görülmemiştir. Davalı vekili tarafından icra takibinin yetkili icra dairesinde yapılmadığı iddiası ile icra takibinin yetkisine itiraz edilmiş ve davanın dava şartı eksikliği sebebiyle usulden reddine karar verilmesi gerekirken kabulüne karar verilmesinin usul ve yasaya aykırı olduğu gerekçesi ile istinaf başvurusunda bulunulmuştur.İİK'nın 50/1. maddesine göre, Para veya teminat borcu için takip hususunda Hukuk Usulü Muhakemeleri Kanununun yetkiye dair hükümleri kıyas yolu ile tatbik olunur. Şu kadar ki, takibe esas olan akdin yapıldığı icra dairesi de takibe yetkilidir. 6100 sayılı HMK'nın 6. maddesinde ise, genel yetkili mahkeme, davalı gerçek veya tüzel kişinin davanın açıldığı tarihteki yerleşim yeri mahkemesi olarak kabul edilmiştir. Bunun yanı sıra HMK'nın 10. maddesine göre de, sözleşmeden doğan davaların, sözleşmenin ifa edileceği yer mahkemesinde de açılabileceği düzenlenmiştir.
 
@@ -70,6 +76,8 @@ Bu durumda Mahkemece davanın, dava şartı yokluğu nedeniyle usulden reddine k
 Davalının istinaf başvurusunun KISMEN KABULÜ ile; İstanbul 10. Asliye Ticaret Mahkemesi'nin 30/11/2021 tarih ve 2020/650 Esas - 2021/935 Karar sayılı kararının HMK'nın 353/1-b2 maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 12. HD 2024/906 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038487700)
 
 …
 
@@ -86,6 +94,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusun
 
 ## İstanbul BAM 12. HD 2024/871 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039055300)
+
 İLK DERECE MAHKEMESİ KARARI: Mahkemece,eldeki davanın sigortalıya ait davacı tarafından emtia sigortalı ürünlerden bir kısmının taşıma esnasında kaybolması sonucu sigortalıya ödenen 56.810,47-TL'nin 1.092,63-TL faizi ile birlikte toplam 57.903,10-TL olarak davalı esas taşıyıcıdan rucüen tahsiline yönelik İstanbul ... İcra Dairesi'nin ... esas sayılı takip dosyasında, davalının itirazının iptali davası olduğu, davacı vekilinin dava dilekçesinde aynı taşıma zararının tazmini kapsamında,...
 
 …
@@ -99,6 +109,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusunu
 
 ## İstanbul BAM 12. HD 2024/812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033447900)
+
 …
 
 : Dava, davacının davalı ile ortağı oldukları dava dışı ... A.Ş.'nin vergi ve SSK borçlarını ödediği, borçların ödenmesinden sonra davalının borçların yarısını ödemesi için başlatılan takibe vaki itirazın iptali davasına ilişkindir. Mahkemece şirket adresinin İstanbul/Beşiktaş'ta ilçesinde olduğu, İstanbul Asliye Ticaret Mahkemesinin yetkili olduğu gerekçesiyle yetkisizlik kararı verilmiştir. HMKnın 17(1) maddesi "tacirler ve kamu tüzel kişileri, aralarında doğmuş veya doğabilecek bir uyuşmazlık hakkında, bir veya birden fazla yetkili mahkemeyi sözleşmeyle yetkili kılabilirler. Taraflarca aksi kararlaştırılmadıkça dava sadece sözleşmeyle belirlenen bu mahkemelerde açılır." HMK nın 18(1) maddesi ise "Tarafların üzerinde tasarruf edemeyecekleri konular ile kesin yetki hallerinde, yetki sözleşmesi yapılamaz" hükmünü haizdir. İtirazın iptali davalarında hem icra dairesinin yetkisine hem de mahkemenin yetkisine itiraz edilmesi durumunda İİK'nın 50. maddesi uyarınca öncelikle icra dairesinin yetkisinin incelenmesi gerekir.
@@ -111,6 +123,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusun
 
 ## İstanbul BAM 13. HD 2024/688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028641800)
+
 Dava konusu icra dosyası incelendiğinde davalı tarafça yasal sürede işlemiş ve işleyecek faiz oranına itirazın yanında icra müdürlüğünün yetkisine de itiraz edildiği görülmüş olup, mahkemece icra dairesinin yetkisine itiraza ilişkin bir değerlendirme yapılmadan, işin esasına girilerek yazılı şekilde karar verilmesi doğru görülmemiştir. HMK 190/1 maddesine göre ispat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Fatura içeriği malın davalıya teslim edildiği ve faturadan kaynaklı alacaklı olduğunun ispat külfeti davacıya aittir. HMK' nın 222/1 ve TTK' nın 83/1 maddesine göre ticari davalarda mahkeme tarafların ticari defterlerinin ibrazına kendiliğinden karar verebilir. Ayrıca HMK'nın 31. maddesinde hakimin davayı aydınlatma görevi düzenlenmiştir.
 Maddeye göre hakim uyuşmazlığın aydınlatılmasının zorunlu kıldığı durumlarda maddi ve hukuki açıdan belirsiz yahut çelişkili gördüğü hususlarda taraflara açıklama yaptırabileceği gibi soru sorabilecek ve delil gösterilmesini isteyebilecektir.Somut olayda, davacı taraf, şirket ticari defter ve kayıtları ile tarafların BA-BS kayıtlarına delil olarak dayanmış, mahkemece davalının mal ve hizmet alımına ilişkin BA formu ile davacının mal ve hizmet satımına ilişkin BS formlarının ilgili vergi dairesi müdürlüğünden getirtilerek dosya arasına konulduğu, davacının ticari defterlerinin talimat mahkemesince inceletilerek mali müşavir bilirkişiden kök ve ek rapor alındığı halde davalı tarafın ticari defterlerinin inceletilmesi için davalı tarafa meşruatlı davetiye çıkartılmadığı ve davalı tarafın defter ve kayıtları incelenmeden eksik inceleme ile istinafa konu kararın verildiği anlaşılmıştır. Davaya konu ..., ..., ..., ... (icra takibinde yanlış yazılmış, sunulan faturaya göre ... nolu fatura ) nolu 4 adet kdv hariç 16.022,00 TL. Miktarlı faturaların davacı tarafça 2019/02 BS formunun 68 sırası ile 16.022,00 TL.
 Olarak beyan edildiği, dava konusu ... nolu 20/03/2019 tarihli kdv dahil 1.554,65 TL. Miktarlı faturanın 5.000,00 TL.
@@ -120,6 +134,8 @@ Olarak beyan edildiği, dava konusu ... nolu 20/03/2019 tarihli kdv dahil 1.554,
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun KABULÜ ile; İstanbul Anadolu 13. Asliye Ticaret Mahkemesi'nin 27/04/2021 tarih ve 2019/422 Esas - 2021/265 Karar sayılı kararının HMK'nın 355 ve 353/1-a4,a6 maddeleri uyarınca KALDIRILMASINA …
 
 ## Ankara BAM 31. HD 2024/682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044702100)
 
 Davacı-karşı davalı vekili, ... San. ve Tic. A.Ş.' nin birleşme ve devir sonucu ...
 
@@ -148,6 +164,8 @@ Mahkemece, dosya kapsamı deliller ve alınan bilirkişi raporları uyarınca; s
 Davalı takibe yönelik itirazında icra dairesinin yetkisine itirazla birlikte yetkili icra dairesinin ikametgahının bulunduğu yer olan Ankara İcra Dairesi olduğunu belirtmiştir. Yetkili icra dairesinde mevcut bir takip bulunması itirazın iptali davası için özel dava şartıdır. Bu itibarla mahkemece yukarıda belirtilen nedenlerle davalı borçlu tarafından süresi içerisinde icra dairesinin yetkisine yapılan itiraz gözetilerek Bursa İcra Dairelerinin takip tarihi itibariyle yetkisiz olması nedeni ile itirazın iptali davası açılabilmesi için yetkili icra dairesinde yapılmış bir icra takibi bulunması dava şartı olduğundan HMK'nın 114/2 ve 115/2. madde hükümleri uyarınca birleşen davanın usulden reddine karar verilmesi gerekirken yazılı şekilde esasa ilişkin hüküm tesisi yerinde görülmemiştir.
 
 ## İstanbul BAM 45. HD 2024/550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028349900)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece; ''...Taraflar arasındaki uyuşmazlığın çözümü amacıyla yapılan yargılama ve yargılama sırasında bilirkişiden alınan denetime elverişli rapor içeriklerine göre; davacı/takip alacaklısının davalı/takip borçlusu hakkında vekalet ilişkisine dayalı olarak takip başlattığı, davalı/takip borçlusunun tebliğ edilen ödeme emri üzerine takibe borca ve fer'ileri yönünden süresinde itiraz ettiği ve takibin durduğu, eldeki itirazın iptali davasının süresinde açıldığı, taraflar arasında vekalet ilişkisinin bulunduğu ve ana paranın takip tarihinden sonra davalı borçlu tarafça 06.06.2017 tarihinde ödendiği konusunda uyuşmazlık bulunmadığı, uyuşmazlığın ana para ödemesinden sonra davalının takip dosyasında talep ettiği takip tarihi 05.05.2017 ile ödeme tarihi 06.06.2017 tarihine kadar işlemiş feri alacaklar yönünden takibe devam edilip edilemeyeceği olduğu, davacının takip dosyasında talep edebileceği başvurma, peşin ve tahsil harcı, vekalet ücreti ve 05.05.2017-06.06.2017 tarih aralığı işlemiş faiz alacağının toplam 6.523,20 TL olduğu, asıl alacağın takipten sonra ödenmesi nedeniyle davalının asıl alacağın ferilerini ödemekle yükümlü bulunduğu..." gerekçesiyle,
 "1-Davacının davasının KABULÜ İLE; Beykoz İcra müdürlüğünün ... takip sayılı icra dosyasına feri alacaklar toplamı olan 6.523,20 TL lik kısma davalının yaptığı itirazın İPTALİNE; takibin aynen devamına, 2-İcra inkar tazminatı talebinin REDDİNE" karar verilmiştir.

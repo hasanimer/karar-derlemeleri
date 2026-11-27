@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2026/105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191388900)
+
 Davacı vekili dava dilekçesi ile; İstanbul'da 10-13 Haziran 2020 tarihleri arasında düzenlenecek olan ... ... Sanayi Fuarına müvekkili şirketin katılımı hususunda taraflar arasında Fuar Katılım Sözleşmesi imzalandığını, müvekkilinin fuar katılım bedeli olarak kararlaştırılan 15.701,14 TL'nin ödenmesi amacıyla davalı şirkete senetler verdiğini, ancak davalının fuarı iptal ettiğini, sözleşmenin 2. maddesi uyarınca fuar iptali halinde ödenen katılım ücretinin iade edilmesi gerektiğini, ancak davalının senetleri iade etmediğini ve senetlere dayanarak İstanbul .... İcra Dairesi'nin .....
 
 …
@@ -61,6 +63,8 @@ Yabancılık unsuru bulunan eldeki davada, yetkiyle ilgili olarak MÖHUK'un 47. 
 
 ## İstanbul BAM 45. HD 2026/66 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188848200)
+
 Davacı vekili dava dilekçesinde; tarafların araçlarda meydana gelen her türlü hasarın onarımı ve bu araçların rutin bakımlarının yapılması hususlarında anlaştıklarını, taraflar arasında yapılan bu anlaşmaya binaen araçların onarımını yaparken ihtiyaç duyulan parçaların tedariğinin de dava dışı şirket ... aracılığıyla karşılanacağının davalının da bilgisi dahilinde olduğunu, davalı ile müvekkili arasındaki ticari ilişkiden dolayı taraflar arasında bir cari hesap ilişkisi oluştuğunu, müvekkilinin davalının talep ettiği araçların bakım ve onarımını yaparak değişmesi gereken parçalarını değiştirdiğini, sunduğu hizmetin bedellerini faturalandırarak davalıya tebliğ etmiş ve aralarında fiilen de bir cari hesap ilişkisi meydana geldiğini, müvekkili tarafından usulüne uygun olarak düzenlenen faturalara davalı tarafından itiraz da edilmeyerek fatura muhtevalarının davalı tarafından kabul edildiğini, ancak davalının sözleşmede yer alan yükümlülüklerini yerine getirmeyerek ödeme yapmaması üzerine Kocaeli İcra Dairesi'nin... sayılı dosyası üzerinden icra takibine davalının haksız itiraz ettiğini beyanla, itirazın iptali ile icra inkar tazminatına karar verilmesini talep etmiştir.
 
 …
@@ -77,6 +81,8 @@ Davalı/borçlu vekilince yetkili olarak gösterilen İstanbul Anadolu İcra Dai
 Davacı vekilinin istinaf başvurusunun KABULÜ ile İstanbul 2. Asliye Ticaret Mahkemesinin 2025/97 E. 2025/103 K. sayılı 11/02/2025 tarihli kararının 6100 sayılı HMK'nun 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## Ankara BAM 27. HD 2026/40 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188871700)
 
 Davacı vekili:
 Müvekkilinin "Çöp Şutu Sistemi Kontrol Panosu ve Yardımcı Kartların Tasarımı" üretimini ve AR-GE'sini de gerçekleştiren bir şirket olduğunu, taraflar arasında farklı tarihlerde yazılı ve şifahi yapılan anlaşmalar neticesinde davalı tarafından söz konusu ürünlerle ilgili siparişlerin iletildiğini, davalı tarafından verilen siparişler ve ürün talepleri birden fazla olduğu için davalı ile açık hesap şeklinde çalışıldığını, müvekkilinin üretimini ve satımını yaptığı belirtilen ürünlere ilişkin olarak 31.03.2020 tarihli 169.925,90 TL., 06.08.2020 tarihli 191.797,20 TL.ve 12.08.2020 tarih ve 117.174,00 TL. bedelli üç adet fatura düzenlediğini, davalı tarafından farklı tarihlerde bazı ödemelerin gerçekleştirildiğini, son faturaya ilişkin olarak ödemesi yapılmayan miktar üzerinden davalı aleyine Ankara 22.İcra Müdürlüğünün 2021/4641 sayılı dosyası üzerinden ilamsız icra takibi başlatıldığını, ancak davalının haksız şekilde takibe itiraz ettiğini, itiraz neticesinde başvurulan arabululuculuk görüşmelerinde de anlaşma sağlanamadığını belirterek, davanın kabulü ile davalının icra takibine itirazının iptaline, takibin devamına, en az %20 oranında icra inkar tazminatına karar verilmesini talep
@@ -108,6 +114,8 @@ Davalı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince es
 
 ## Kayseri BAM 6. HD 2025/2277 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181491300)
+
 Tekmil dosya mündericatı birlikte değerlendirildiğinde; "...Davacı tarafça davalıların iflasına karar verilmesi talepli dava açılmış olup, 2004 sayılı İİK'nun 154/1. maddesi uyarınca iflas yoluyla takipte yetkili icra dairesinin borçlunun muamele merkezinin bulunduğu yerdeki icra dairesidir. Ancak, İİK'nun 154/3. maddesi uyarınca icra dairesinin yetkisi kamu düzeninden olmadığından bu konuda yetki sözleşmesi yapılabilir. Borçlu ve alacaklı yetki sözleşmesi veya yetki şartı ile borçlunun muamele merkezinin bulunduğu yerden başka bir yer icra dairesini yetkili kılmışlarsa o yerin icra dairesi de iflas takibi için yetkili sayılır. Ancak iflas davaları için yetki sözleşmesi yapılamaz ve iflas davası mutlaka borçlunun muamele merkezinin bulunduğu yer ticaret mahkemesinde açılır. İİK'nun 154. maddesine göre, iflas yolu ile takipte yetkili mercii, borçlunun muamele merkezinin bulunduğu yerdeki icra dairesidir. Borçlunun yetki itirazı ile birlikte borca itiraz etmesi ve alacaklı tarafından genel mahkemede itirazın kaldırılması ve iflas davası açılması halinde genel mahkeme öncelikle icra dairesinin yetkisine yapılan itirazı çözümlemelidir.
 Mahkemenin, icra dairesinin yetkili olmadığını tesbit etmesi halinde borcun esasına ilişkin incelemeye geçilmeksizin takibin yetkili icra dairesinde yapılmadığı ve geçerli bir icra takibi yapılmadığı gözetilerek davanın reddine karar verilmesi gerekir (Yargıtay 23. Hukuk Dairesi'nin 2013/5403 Esas, 2013/5949 Karar sayılı ilamı). Açıklanan gerekçeler ışığında, somut olaya dönüldüğünde davalıların adreslerinin "Kayseri" ili olduğu, bu suretle İİK'nun 154. maddesi gereğince, davalı aleyhine iflas yoluyla yapılan takipte Kayseri İcra Dairelerinin yetkili olduğu, ancak davacının Menderes İcra Dairesi'nde iflas yolu ile adi takip başlatıldığını, davalılar vekilinin ise süresi içerisinde yetki itirazında bulunduğu saptanmakla, yetkili icra dairesinde yapılmış bir takibin bulunmaması nedeni ile dava şartı yokluğu nedeni ile işbu davanın usulden reddine karar vermek gerekmiş ve aşağıdaki hüküm tesis kılınmıştır. 1-İflas yolu ile takipte Menderes İflas Müdürlüğü'nün iflas yolu ile takip yönünden yetkisiz olması nedeni ile HMK'nun 114/2 ve 115/2.
 
@@ -116,6 +124,8 @@ Mahkemenin, icra dairesinin yetkili olmadığını tesbit etmesi halinde borcun 
 KAYSERİ 1. ASLİYE TİCARET MAHKEMESİ'nin istinafa konu edilen 20/08/2025 tarih ve 2025/733 E - 2025/722 K sayılı nihai kararının usul ve esas yönünden hukuka uygun olduğu anlaşılmakla davalılar...ve ...'ın vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ayrı ayrı ESASTAN REDDİNE …
 
 ## İstanbul BAM 3. HD 2025/2246 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167967300)
 
 Müvekkil şirketin alacaklıya borcu yoktur; takip konusu asıl alacağın ve sair alacakların tamamına, faizin türüne,faizin oranına, işlemiş ve işleyecek faizine ve tüm ferilerine itiraz ediyoruz." şeklinde beyanda bulunduğu, İcra Müdürlüğü'nce takibin durdurulmasına karar verildiğinden itirazın iptali talebi ile eldeki davanın açıldığı anlaşılmaktadır.1.) YETKİ İTİRAZI HAKKINDA;A.) İcra Dairesinin Yetkisi: icra dairesinin yetkisi yönünden İİK 50 maddesi yollaması ile 6100 sayılı HMK'nun yetki kuralları uygulanacak olup borçlunun takibe yasal süre içinde itirazda bulunması , bu itirazında İcra Dairesinin yetkisine itiraz etmesi, ayrıca yetkili icra dairesini de belirt- mesi gerekmektedir.Borçlunun Tavşanlı İcra Müdürlüğü'nün ilgili takip dosyasına sunduğu itiraz dilekçesi içeriği yukarıya ayrıntılı olarak aktarılmış olup İcra Dairesi'nin yetkisine yönelik bir itirazda bulunul- mamıştır.
 Böylelikle icra dairesinin yetkisi kesinleşmiştir.B.) Mahkemenin Yetkisi;Eldeki davada, davalı vekili cevap dilekçesinde müvekkili şirketin merkezinin bulun- duğu Çankaya/Ankara adresi itibariyle Ankara Mahkemeleri'nin yetkili olduğunu iddia etmiştir.HMK'nın 6. maddesi gereğince bir davada genel yetkili mahkeme, davalının yerleşim yerinin bulunduğu yer mahkemesi olup dosya kapsamına göre davalının adresi (Çankaya /Ankara'dır)Aynı kanunun 10. maddesinde sözleşmeden doğan davalar için, sözleşmenin ifa edile- ceği yer mahkemesinin de yetkili olduğu belirtilmiştir ki bu da özel yetkiye ilişkin bir düzenlemedir. Eldeki davada sözleşmenin ifa yeri Domaniç/Kütahya'dir.Ayrıca 6098 sayılı Türk Borçlar Kanunu 89. maddesi uyarınca para alacağına ilişkin davalarda aksi kararlaştırılmadıkça para borcu alacaklının yerleşim yerinde ödenmesi gerektiğinden alacaklının bulunduğu yer (Şişli/İstanbul) mahkemesi (İstanbul Çağlayan ) mahkemesi de yetkilidir.HMK'nun “Yetki Sözleşmesi” başlıklı 17. maddesi "Tacirler veya kamu tüzel kişileri, ara- larında doğmuş veya doğabilecek bir uyuşmazlık hakkında, bir veya birden fazla mahkemeyi sözleşmeyle yetkili kılabilirler.
@@ -138,6 +148,8 @@ Yetki itirazı, görevli mahkemenin değerlendirilecek olup mahkemece görevsizl
 
 ## İstanbul BAM 3. HD 2025/2136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167216400)
+
 İcra takibi yetkisiz icra müdürlüğünde açılmıştır.Yetkili icra müdürlüğü firma adre- sinin bağlı bulunduğu İstanbul İcra Müdürlüğüdür.Bu sebeple borca, faize ve her türlü fer’ilerine ve yetkiye itiraz etmekteyiz." şeklinde itirazda bulunduğu,İcra Müdürlüğü'nce takip durdurulduğundan itirazın iptali amacıyla eldeki davanın açıldığı anlaşılmaktadır.KAÇAK KULLANIM OLGUSU:Davacı ... görevlilerince düzenlenen 24.01.2023 tarih ve ... nolu tutanakta , davalının dava konusu mahalde kuruma kayıtlı sayaçtan geçirmeksizin, sözleşmesiz olarak/ harici hat ile elektrik enerjisi kullandığı tespit edilmiş bu husus fotoğraf vs kayıtlar ile desteklenmiş, harici hatta bağlı cihazların cins, adet ve gücü tutanakta ayrıntılı olarak belirtilmiştir.Tutanak tarihi itibariyle yürürlükte olan 30.05.2018 tarihli EPTHY'nin 42/1.maddesinde;" (1) Gerçek veya tüzel kişinin kullanım yerine ilişkin olarak;a) Perakende satış sözleşmesi veya ikili anlaşma olmaksızın dağıtım sistemine müdahale ederek elektrik enerjisi tüketmesi,b) Perakende satış sözleşmesi veya ikili anlaşması mevcutken ayrı bir hat çekmek suretiyle dağıtım sistemine müdahale ederek sayaçtan geçirilmeksizin elektrik enerjisi tüketmesi," kaçak
 kullanım olarak tanımlanmıştır.CK ...'ın cevabi yazısında; "şirket kayıtlarında yapılan sorgulama neticesinde; ilgide belirtilen müzekkerenize konu, .. Mah. .. Sok. No:..
 
@@ -147,6 +159,8 @@ tanımlanan " Perakende satış sözleşmesi veya ikili anlaşması mevcutken ay
 Mahkemece görevlendirilen bilirkişi raporundaki değerlendirmeler 42/1-b maddesi kapsamında yapılmış olmakla, konusunda uzman elektrik mühendisi başka bir bilirkişiden yönetmeliğin 42/1-a md. ve bununla ilgili diğer hükümler esas alınmak suretiyle yeni rapor tanziminin talep edil- mesi, tüm dosya kapsamına göre hasıl olacak sonuç dairesinde karar tesisi gerekirken hükme elverişli olmayan rapor esas alınmak suretiyle yazılı şekilde karar verilmesi usul ve yasaya aykırıdır.Ayrıca dairemizce İTO'nun resmi WEB sitesinden yapılan sorgulamada davalı şirketin sicil durumunun " askı" şeklinde kayıtlı olduğu görülmekle, şirketin tüzel kişiliğinin devam edip etme- diğinin araştırılması gerekmektedir.Açıklanan nedenlerle,davacının istinafbaşvurusunun kabulüne, ilk derece mahkemesi kararının kaldırılmasına …
 
 ## İstanbul BAM 13. HD 2025/2125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187003300)
 
 Davacı vekili dava dilekçesinde özetle; Müvekkilinin davalı- borçludan, muhtelif tarih ve numaralı faturalara dayanan cari hesap alacağına istinaden; taraflarınca İstanbul 28. İcra Müdürlüğü'nün ...
 
@@ -160,6 +174,8 @@ Davacı vekili dava dilekçesinde özetle; Müvekkilinin davalı- borçludan, mu
 Davalının istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b1 maddesi gereğince ESASTAN REDDİNE …
 
 ## Adana BAM 9. HD 2025/2123 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176089600)
 
 Yerel mahkemece verilen karar ile; " alacaklı ... Taahhüt Sanayi Ve Tic.
 

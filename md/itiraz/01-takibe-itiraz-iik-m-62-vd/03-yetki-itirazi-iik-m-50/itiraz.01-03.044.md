@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 40. HD 2020/665 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/584480600)
+
 Davacı vekili dava dilekçesinde özetle; müvekkili şirket nezdinde Zorunlu Mali Sorumluluk Sigortası (ZMSS) poliçesiyle sigortalanan davalı adına kayıtlı ... plaka sayılı aracın 07/11/2017 tarihinde kırmızı ışıkta geçerek "U" dönüşü yapmak istemesi sonucu yeşil ışıkta geçen ... plaka sayılı araca çarpması ve savrulan bu aracın kırmızı ışıkta bekleyen ... plakalı motosiklete çarpmasıyla meydana gelen maddi hasarlı trafik kazasının ardından sigortalı ... plakalı araç sürücüsünün kaza mahallini terk ettiğini, maddi hasarlı trafik kazası tespit tutanağıyla sabit olan bu hususlar nedeniyle müvekkili şirket tarafından ... plaka sayılı araçta meydana gelen hasar nedeniyle 30/05/2018 tarihinde 11.903,70 TL, oluşan değer kaybı nedeniyle de 09/05/2018 günü 21.096,30 TL tazminat ödendiğini, davaya konu kazanın oluşumunda davalıya ait araç sürücüsünün kırmızı ışıkta geçmek suretiyle ağır kusurlu olması ve kaza sonrasında da olay yerini terk etmesi nedeniyle davalı sigortalının ödenen tazminattan sorumlu olduğunu ileri sürerek; davalının İstanbul ...
 
 …
@@ -36,6 +38,8 @@ Bu itibarla ilk derece mahkemesi tarafından dava dilekçesinin yetki yönünden
 KARAR: Gerekçesi yukarıda açıklandığı üzere:1-Davacı vekilinin yukarıda esas ve karar numarası yazılı İlk Derece Mahkemesi kararına karşı yapılan istinaf başvurusunun HMK'nin 353/1-b/1'inci maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 13. HD 2020/663 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585309600)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: İlk Derece Mahkemesi 12/11/2019 tarih ve 2019/79 Esas - 2019/222 Karar sayılı kararı ile; " ... Yapılan açıklamalar ve belirtilen yasal düzenlemeler kapsamında somut olaya bakıldığında, dosya kapsamından sözleşmenin ifa yeri net olmamakla beraber davacı tarafça irsaliyeli fatura düzenlenmiş olmasına göre işin davalı adresinde teslimin kararlaştırıldığının anlaşılması gerekir.
 
@@ -55,6 +59,8 @@ HÜKÜM : Yukarıda açıklanan nedenlerle; Davacının istinaf başvurusunun KA
 
 ## İstanbul BAM 13. HD 2020/618 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/581787000)
+
 Asliye Ticaret Mahkemesi'nin 2017/1071 Esas sayılı dosyasında görülmekte olan davanın 09.05.2018 tarihli duruşmasında “HMK 17 ve BK 89 maddeleri gereği davalının yetki itirazının reddine” şeklinde ara karar oluşturularak davalının hukuka aykırı yetki itirazının yerinde olarak reddine karar verildiğini, dolayısıyla, aynı dava konusuna ilişkin olarak Türk yargısı içerisinde yer alan bir mahkeme tarafından taraflar arasındaki yetki sözleşmesinin muteber olduğu ve sözleşmenin ifa yeri mahkeme ve icra müdürülüklerinin yetkili olduğu yönünde karar verilmiş iken diğer bir mahkeme tarafından davalının haksız yetki itirazının kabulüne karar verilmesinin hukuk sisteminde çelişki yaratacağını, İlk Derece Mahkemesi’nin hukuka aykırı kararının bozulmasına karar verilmesi gerektiğini, Taraflar arasında muteber bir yetki sözleşmesinin bulunduğuna ilişkin yukarıdaki beyanları saklı kalmak kaydıyla, yetki sözleşmesinin söz konusu olmadığı hallerde dahi, özel yetkiyi düzenleyen Hukuk Muhakemeleri Kanunu' nun 10 maddesi uyarınca, sözleşmeden doğan davaların sözleşmenin ifa edileceği yer mahkemesinde de açılabileceğini, nitekim, İcra ve İflas Kanunu' nun 50. maddesi "Para veya teminat borcu için takip
 hususunda Hukuk Usulü Muhakemeleri Kanununun yetkiye dair hükümleri kıyas yolu ile tatbik olunur. Şu kadar ki, takibe esas olan akdin yapıldığı icra dairesi de takibe yetkilidir." hükmüne havi olduğunu, bu halde, yapılan atıf nedeniyle, sözleşmenin ifa edileceği yer icra müdürlüğünün de yetkili kabul edilmesi gerektiğini, bu kapsamda, sözleşmenin konusunun para borcunun ifası niteliğinde olduğu ve para borcunun da götürülecek borçlardan olduğu göz önüne alındığında, müvekkili şirketin ödeme zamanındaki yerleşim yerindeki icra müdürlükleri ile mahkemelerin yetkili olacağını, Nitekim, Yargıtay Hukuk Genel Kurulu’ nun 2005/19-63 E. , 2005/61 K. Sayılı ve 16.02.2005 tarihli kararında; "Anılan Kanunun 22. Maddesinde, tarafların yetki sözleşmesi yapmak suretiyle yetkili olmayan bir mahkemenin yetkisini kabul edebilecekleri belirtilmiştir.
 
@@ -67,6 +73,8 @@ HÜKÜM : Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 
 
 ## İstanbul BAM 16. HD 2020/478 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/575476900)
+
 …
 
 : Dava bayilik ve kefalet sözleşmesine dayalı itirazın iptali davasından ibarettir. İnceleme, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 355. maddesi hükmü uyarınca istinaf dilekçelerinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır. Bilindiği gibi itirazın iptali davası ; takibe sıkı sıkıya bağlı davalardan olup; davaya özgü dava şartlarının başında yetkili icra müdürlüğü nezdinde yapılmış bir takip, ve bu takibe usulüne göre yapılmış bir itiraz bulunmalıdır. Davalı ... gerçek kişi olup, yetki sözleşmesi geçersiz olmakla ; öncelikle bu davalının icra müdürlüğünün yetkisine olan itirazı hakkında karar verilmesi gerekirken, bu hususda inceleme yapılmadan davanın esasına girildiği , dava şartının incelenmediği görülmektedir.
@@ -75,6 +83,8 @@ Dava şartı resen nazara alınması gereken husus olmakla ; imzanın davalı ..
 H Ü K Ü M :Yukarıda açıklanan gerekçe ile 1 - Davacı yanın istinaf başvurusunun HMK 355. Madde gereğince kamu düzenine ilişkin inceleme yetkisine istinaden HMK 353/1-a- 4 ve 353/1-b-2 maddeleri uyarınca KARARIN KALDIRILMASINA 2-İlk derece mahkemesine açılan davada A.Davalı ... yönünden açılan dava ; yetkisiz icra müdürlüğünde yapılan takibe ilişkin olmakla dava şartı yokluğundan USULDEN REDDİNE ; koşulları oluşmadığından kötüniyet tazminatı talebinin reddine B. ... aleyhine Körfez İcra Müdürlüğünün ... esas sayılı takip dosyası ile yapılan icra takibine davalı şirketin yapmış olduğu itirazın iptali ile takibin davalı şirket yönünden 7.750 …
 
 ## İstanbul BAM 13. HD 2020/418 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577477600)
 
 Dava, faturaya dayalı alacağın tahsili için yapılan takibe itirazın iptaline ilişkindir.
 
@@ -91,6 +101,8 @@ Bakırköy 7. Asliye Ticaret Mahkemesi' nin 02/02/2018 tarih ve 2017/543 Esas - 
 
 ## İstanbul BAM 17. HD 2020/264 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572425000)
+
 Dava, İflas yolu ile başlatılan icra takibine karşı yapılan itiraz üzerine açılan itirazın kaldırılması ve iflas davasıdır.
 
 …
@@ -103,6 +115,8 @@ Ancak İflas yolu ile takipte yetkili merciinin, borçlunun muamele merkezinde b
 merkezinin bulunduğu yer icra dairesi, diğeri ise yetki sözleşmesi ile yetkili kılınan icra dairesidir. Her ne kadar taraflar arasında düzenlenen sözleşmede, anlaşmazlıklarda Soma icra daireleri ve mahkemeleri yetkili kılınmışsa da takibe konu çeke açıkça atıf bulunmadığı görülmüştür. Nitekim Yargıtay Hukuk Genel Kurulu 02/04/2019 tarih 2017/12-741 Esas 2019/382 Karar sayılı ilamında belirttiği gibi " Alacaklı takip talebinde yazılı para alacağının dayanağı olarak sözleşmeyi değil, çekleri gösterdiği için borçluya kambiyo senetlerine özgü haciz yolu ile takip başlatıldığından, taraflar arasında mevcut sözleşmede yazılı yetki şartına göre yetkili icra dairesi belirlenemez. İcra dairesinin yetkisi takip talep tarihi ve takibe ekli kambiyo senedi esas alınarak tespit edilir. " Bu sebeple takibin şekli ve dayanağı göz önüne alındığında taraflar arasında olan sözleşmede yazılı yetki şartı yetkili icra dairesini belirlemede dikkate alınmaz. Sonuç olarak takibin yetkili icra dairesinde başlatılmaması nedeniyle davanın reddine dair verilen kararın usul ve yasaya uygun olduğundan davacı vekilinin istinaf başvurusunun esastan reddine karar verilmiş aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 45. HD 2020/247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613962700)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece, taraflar arasındaki ticari ilişki sebebiyle takip başlatılmış olup, bu husus sözkonusu alacağı hem “aranacak” borç niteliğine sokup hem de ticari ilişki iki tarafa borç yüklediğinden, uyuşmazlığın çözümünde “genel yetki” kuralının işletilmesi gerekeceği, ...6.maddesi uyarınca genel yetkili mahkeme davalının şirket merkezi mahkemesi olup, davalının icra müdürlüğüne yapmış olduğu yetki itirazında belirtmiş olduğu adres Beşiktaş/ İstanbul adresi olduğundan bu doğrultuda takibe yetkili icra müdürlüğü İstanbul(Çağlayan) İcra Müdürlükleri olduğu, huzurdaki davaya konu icra takibi ise İstanbul Anadolu İcra Müdürlüklerinde başlatıldığı, nitekim icra dosyasının tetkikinde alacaklı vekili tarafından 15.01.2020 tarihinde, yetki itirazı bulunulduğundan bahisle icra dosyasının yetkili İstanbul(Çağlayan) İcra Müdürlüklerine gönderilmesinin talep edildiği, sonuç olarak genel yetki kuralları gereği takibin, İstanbul(Çağlayan) İcra dairelerinde yapılması gerekirken Anadolu İcra Müdürlüklerinde başlatıldığı, bu durumda icra takibinin yetkili yer icra dairesinde yapılmayarak itirazın iptaline dair dava şartının yerine getirilmemiş olduğu kanaatine varılarak 6100
 sayılı yasanın 114/2 maddesinde düzenlenen yasal düzenleme de göz önünde bulundurularak aynı yasanın 115.
@@ -121,6 +135,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davacı tarafın istin
 
 ## İstanbul BAM 14. HD 2020/76 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564770000)
+
 İlk derece mahkemesince, ihtiyati haciz talebinin reddine karar verilmiştir. Bu karara karşı davacı vekili tarafından, yasal süresi içinde istinaf kanun yoluna başvurulmuştur. İstinaf incelemesi, HMK'nın 355.maddesi uyarınca, ileri sürülen istinaf başvuru nedenleriyle ve kamu düzeni yönüyle sınırlı olarak yapılmıştır. İhtiyati haciz kararı verilebilmesi için İİK'nın 257. maddesindeki şartların oluşması gerekir. İİK'nın 257/1. maddesine göre, rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı... ihtiyati haciz talebinde bulunabilir. İİK'nın 258/1. maddesinin 2. cümlesine göre: "İhtiyati haciz kararı verilebilmesi için alacaklı, alacağı ve icabında haciz sebepleri hakkında mahkemeye kanaat getirecek delilleri göstermeye mecburdur." Bu madde uyarınca ihtiyati haciz talep eden, İİK'nın 257/1. maddesi kapsamında bir para borcunun alacaklısı olduğunu, borcun rehinle temin edilmediğini ve borcun vadesinin gelmiş olduğunu yaklaşık olarak mahkemeye kanaat getirecek tarzda ispat etmek durumundadır. Davacı takip alacaklısı tarafından Ankara ... İcra Müdürlüğünün ...
 E. sayılı icra dosyasından başlatılan icra takibinde 95.950 Usd alacağın tahsilinin talep edildiği, davalı takip borçlusu tarafından, icra dairesinin yetkisine ve borca itiraz edildiği, borca itirazında, iş ilişkisine istinaden düzenlenen faturalardan 45.664 Usd’lik kısmının ödendiğini, kalan mevcut borcun 50.286 Usd olduğunu belirterek takipteki borcun 45.664 Usd’lik kısmına itiraz edildiği anlaşılmaktadır. Davacı takip alacaklısı, davalı borçlunun icra dairesine ilişkin yetki itirazını kabul etmiş, icra takibindeki 95.550 Usd alacağının 36.550 Usd’lik kısmından feragat ederek yetkili icra dairesi olan İstanbul ... İcra Müdürlüğünün ... E. sayılı icra dosyasından 59.400 Usd alacağı üzerinden ödeme emri gönderilmiş, bu takipteki borcun tamamına davalı tarafça itiraz edilerek takip durdurulmuştur. Hal böyle olunca, ihtiyati haciz isteminin taraflar arasındaki taşıma ilişkisine ve faturalara dayandığı, davalı borçlunun savunması ve beyanları, ispat yükünün davalıda oluşu dikkate alınarak ihtiyati haczin kabulüne karar verilmesi gerekirken, reddedilmesi isabetsiz olmuştur.
 Derdest davada bu aşamaya kadar gerçekleşen usul işlemleri ve alınan bilirkişi raporunun da dairemizce dikkate alınması gerekmiştir. Dosya kapsamı ve bilirkişi raporu gözetildiğinde, alacağın varlığı ve miktarı konusunda 42.017 USD alacak yönünden yaklaşık ispat olgusunun, dosyanın geldiği aşama itibariyle gerçekleştiği sonuç ve kanaatine varıldığından, ihtiyati haciz isteminin kısmen kabulü gerekmiştir. Deliller sadece ihtiyati haciz bağlamında ve yaklaşık ispat olgusu kapsamında değerlendirilmiştir. İlk derece mahkemesinin delilleri ve bilirkişi raporunu ve rapora karşı taraf vekillerinin itiraz ve beyanlarını değerlendirme yetkisi saklıdır.
@@ -130,6 +146,8 @@ Derdest davada bu aşamaya kadar gerçekleşen usul işlemleri ve alınan bilirk
 KARAR: Gerekçesi yukarıda açıklandığı üzere; İhtiyati haciz talep eden davacının istinaf başvurusunun İİK'nın 258/3 ve HMK'nın 353/1.b.2. maddeleri uyarınca KABULÜ ile ilk derece mahkemesinin ihtiyati haciz talebinin redine ilişkin 17.10.2019 tarihli ara kararının kaldırılmasına; ihtiyati haciz talebinin Dairemizce karara bağlanmasına …
 
 ## İstanbul BAM 45. HD 2020/52 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602866000)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece; "Dava; hukuki niteliği itibariyle İstanbul ... İcra Müdürlüğü'nün ... esas sayılı takip dosyasında iflas yoluyla yapılan icra takibine vaki itirazın kaldırılarak davalı borçlunun iflasına karar verilmesine isteğine ilişkindir.
 
@@ -143,6 +161,8 @@ Borçlu ve alacaklı yetki sözleşmesi veya yetki şartı ile borçlunun muamel
 Bu kapsamda yürürlükten kaldırılan 1086 Sayılı HUMK'un 12. maddesinin "Haczi ihtiyatiden sonra haciz kararının müstenidi olan alacak davası haciz kararı veren mahkemede de ikame olunabilir." hükmü, Yargıtay uygulamasında icra takiplerinde de ihtiyati haciz kararına dayalı olarak ihtiyati haciz kararı veren mahkemenin yargı çevresindeki icra dairelerinin yetkili hale geleceği şeklinde istikrarlı bir biçimde uygulanmış ve yerleşmiştir. Kaldı ki takip usulünün değiştirilmesi sonuca etkili olmayıp, takip dayanağı çekin hem keşide yeri İstanbul hem de ödeme yeri olan muhatap bankanın bulunduğu yer İstanbul olduğundan bu yetki kurallarına göre de İstanbul İcra Daireleri yetkilidir. Bozma sonrası mahkemenin bu hususları gözetmeden salt takip tarihindeki borçlu adresine göre icra takibinin yetkili icra dairesinde yapılmadığını kabul etmesi usul ve yasaya aykırı olup, kararın bu gerekçelerle bozulması gerekirken, bu hususlar gözden kaçırılarak onanmasına karar verilmiş olmakla, karar düzeltme isteminin kabulü ile onama kararının kaldırılmasına, Dairemizin 01.10.2013 tarihli ve 2013/5403 E.
 
 ## İstanbul BAM 16. HD 2020/40 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560623400)
 
 …
 

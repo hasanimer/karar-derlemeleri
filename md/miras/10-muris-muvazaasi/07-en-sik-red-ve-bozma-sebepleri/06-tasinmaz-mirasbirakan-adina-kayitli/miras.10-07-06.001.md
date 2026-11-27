@@ -30,6 +30,8 @@ davanın kabulüne karar verilmesinde bir isabetsizlik bulunmadığı, 199 parse
 
 ## Yargıtay 1. HD 2023/441 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882707000)
+
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -40,6 +42,8 @@ Hâl böyle olunca, davaya katılmayan ortağın olurunun alınması ya da miras
 Bilindiği üzere Türk Medeni Kanunu'nun 640. maddesi uyarınca terekeye temsilci atanması durumunda, davanın tereke temsilcisinin veya bu sıfatla vekil kıldığı avukatın huzuru ile sürdürülmesi gerektiği tartışmasızdır. Tereke temsilcisinin atanması ile mirasçıların terekeyi temsil ve davayı takip yetkisi ortadan kalkmaktadır. Başka bir söyleyişle, mirasçıların davayı takip yetkisi sona erer ve bununla bağlantılı olarak da hükmü temyiz ... miras şirketini temsilen tereke temsilcisine geçer.
 
 ## Yargıtay 1. HD 2020/2788 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647641900)
 
 Davanın kabulüne ilişkin olarak verilen karar Dairece;
 

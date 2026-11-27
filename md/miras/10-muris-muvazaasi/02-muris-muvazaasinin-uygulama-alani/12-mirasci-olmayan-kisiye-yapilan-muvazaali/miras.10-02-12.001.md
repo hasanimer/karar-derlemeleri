@@ -25,15 +25,21 @@ Ortak (müşterek) mülkiyetin paydaşı; payını karı ve kocaya, çocukların
 
 ## Yargıtay HGK 2023/945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/954210100)
+
 Öncelikle belirtilmelidir ki, davacıların mirasbırakan tarafından yapılan bu temlikin diğer mirasçılardan mal kaçırma amacıyla yapıldığını kanıtladıklarını söyleme imkanı bulunmadığından davanın reddine karar verilmelidir. Mirasbırakanın, uzun yıllar boyunca kendisine ve eşine sağladığı bakım ve desteğin yarattığı minnet duygusu yanında ileride de kendisine bakacağı düşüncesi ve güveniyle hareket ettiği anlaşılmaktadır. Hukuk Genel Kurulunun 28.04.2009 tarihli ve 2009/1-130 Esas, 2009/150 Karar sayılı kararı ile 16.06.2010 tarihli ve 2010/1-295 Esas, 2010/333 Karar sayılı kararında da bu nitelikte hizmetin semen olarak değerlendirilmesi gerektiği hususu benimsenmiştir.
 
 ## Yargıtay HGK 2023/624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919368200)
 
 …
 
 miras bırakanın terk ettiği resmî eşi ve çocukları davacı mirasçılardan mal kaçırmak amacıyla dava konusu taşınmazı bedelini almadan birlikte yaşadığı davalıya temlik ettiği, tapuda gösterilen satışın gerçek bir satış olmayıp, bağış amacıyla yapıldığı sonucuna varılmıştır.
 
 ## Yargıtay HGK 2023/37 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897448700)
 
 …
 
@@ -58,15 +64,21 @@ kapsamındaki delillerin tahlil ve taktirinde, hukuki nitelendirmede ve varılan
 
 ## Yargıtay 1. HD 2023/2324 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924532600)
+
 Paylaştırmadan söz edebilmek için mirasbırakan tarafından sağlığında hak dengesini gözeten kabul edilebilir ölçüde ve tüm mirasçıları kapsar biçimde bir devrin yapılması gerekir. Bu durumda mirasçı olmayan kişiye yapılan devir yönünden paylaştırma olgusundan söz edilemeyeceğinden …
 
 ## Yargıtay 1. HD 2023/848 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913530000)
 
 …
 
 temlikteki amacın diğer mirasçılardan mal kaçırmak olmayıp, kendisine ilgi ve alaka gösteren ve her konuda yardımda bulunan davalıya minnet duygusu olduğu, mirasbırakanın temlik dışı başkaca taşınmazlarının da bulunduğu ve mirasçılarına intikal ettiği, ayrıca dava konusu taşınmazdaki payının sadece yarısını temlik ettiği, mirasbırakan ile davacı arasında mal kaçırmasını gerektirir neden olmadığı, temlikin minnet duygusu ile yapıldığı anlaşılmaktadır.
 
 ## Yargıtay 16. HD 2012/4888 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791625300)
 
 Mahkemece; murisin sözleşme yaptığı tarihte 86 yaşında olduğu, sözleşmenin yapılmasından iki yıl sonra vefat ettiği, tüm mal varlığını 30.9.2005 tarihinde ölünceye kadar bakma akti ile davalı tarafa devrettiği, aktin mirasçılardan mal kaçırmak amacıyla yapıldığı belirtilerek yazılı şekilde karar verilmiş ise de verilen karar dosya kapsamına uygun bulunmamaktadır. Ölünceye kadar bakma sözleşmesi karşılık alınarak yapılan ivazlı bir işlemdir. (BK 511). Murisin bu sözleşme uyarınca karşı tarafa verdiği mal ya da para tenkise konu olmaz. Ancak, murisin gerçek bir bakım amacıyla değil, sırf saklı pay kurallarını dolanma maksadıyla yaptığı açık olan ölünceye kadar bakma sözleşmesi uyarınca yapılmış olan kazandırmalar tenkise tabidir. Dava konusu somut olayda ise murisin gerçek bir bakım ihtiyacı içinde olduğu bir dönemde yasal mirasçısı olmayan davalı ile ölünceye kadar bakma sözleşmesini yaptığı, yaklaşık 2 yıl davalı tarafından bakılıp ilgilenildiği, son birkaç ayını davacılar yanında geçirdiği anlaşıldığından, aktin mirasçılardan mal kaçırmak amacıyla yapıldığı söylenemez.
 Muris ile davalı arasında yapılan ölünceye kadar bakma akti muvazaalı olmadığı gibi, davacılardan mal kaçırmak amacıyla gerçekleştirilmediği de sabit olduğundan tenkis davasının reddine karar verilmesi gerektiğinin düşünülmemesi isabetli olmadığı gibi; kabule göre, davacılar 10 000 TL üzerinden karar ve ilam harcı yatırdıkları, bakiye bölüm hakkındaki harcı ikmal etmedikleri halde, karar ve ilam harcı ödettirilmeden hüküm kurulması da isabetsiz olup, davalının temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, peşin alınan temyiz harcının istek halinde temyiz eden tarafa iadesine,

@@ -20,14 +20,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2023/674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884534300)
+
 TMK'nın 639 uncu maddesi gereğince "Miras sebebiyle istihkak davası, davacının kendisinin mirasçı olduğunu ve iyiniyetli davalının terekeyi veya tereke malını elinde bulundurduğunu öğrendiği tarihten başlayarak bir yıl ve her halde mirasbırakanın ölümünün veya vasiyetnamenin açılmasının üzerinden on yıl geçmekle zamanaşımına uğrar. İyiniyetli olmayanlara karşı zamanaşımı süresi yirmi yıldır." Bu hükümde davacı mirasçının soybağı uyuşmazlığı yahut mirasçılık sıfatına dair bir çekişmenin giderilmesi söz konusudur. Bu durumda uygulanacak zamanaşımı açıkça hüküm altına alınmıştır. Ancak dosyamızın incelenmesinde tarafların mirasçılık sıfatına dair herhangi bir çekişme mevcut olmayıp istem, murise ait hesaptan davalı tarafından çekilen bedelin tahsili istemine ilişkin olup adi istihkak niteliğindedir. Adi istihkak davasında ise zamanaşımı süresi söz konusu değildir.
 
 ## Yargıtay 8. HD 2021/5424 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684156400)
 
 TMK’nin 585.maddesi; “Gaip ortaya çıkarsa veya üstün hak sahibi olduklarını ileri sürenler bu sıfatlarını ispat ederlerse, tereke mallarını teslim almış olanlar, aldıkları malları zilyetlik kuralları uyarınca geri vermekle yükümlüdürler. İyiniyetli olanların üstün hak sahiplerine geri verme yükümlülükleri, miras sebebiyle istihkak davasına ilişkin zamanaşımı süresine tâbidir.” 639.maddesi ise; “Miras sebebiyle istihkak davası, davacının kendisinin mirasçı olduğunu ve iyiniyetli davalının terekeyi veya tereke malını elinde bulundurduğunu öğrendiği tarihten başlayarak bir yıl ve her hâlde mirasbırakanın ölümünün veya vasiyetnamenin açılmasının üzerinden on yıl geçmekle zamanaşımına uğrar. İyiniyetli olmayanlara karşı zamanaşımı süresi yirmi yıldır.” şeklindedir.
 Bu doğrultuda; davacıların 21.04.2008 tarihinde alınan mirasçılık belgesi ile ... ...’in mirasçısı olduklarını belgeledikleri, dava konusu taşınmazlardaki Hazine adına tescil edilen murislerine ait payların iptali ve kendi adlarına tesciline ilişkin açtıkları kabul ile sonuçlanan davanın 17.03.2011 tarihinde kesinleştiği, 10.08.2012 tarihinde bu taşınmazlardan elde edilen gelirlerin geri ödenmesi için davalı idareye müracaat edildiği, eldeki davanın da 10.10.2013 tarihinde açıldığı göz önüne alındığında –Hazinenin kötü niyetli olduğu düşünülemeyeceğinden- az evvel kanun maddelerinde belirtilen 1 yıllık zamanaşımı süresinin dolduğu, davalının da zamanaşımı def’inde bulunduğu anlaşılmakla, Mahkemece zamanaşımı nedeniyle tüm talep yönünden ret kararı verilmesi gerekirken, yanılgılı değerlendirmeyle yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 14. HD 2021/1035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651671600)
 
 Dava, tenkis, ıslahla davalıların birlikte hareket ettikleri iddiası ile mirasta denkleştirme ve istihkak nedenine dayalı alacak isteğine ilişkindir.
 
@@ -38,6 +44,8 @@ Mirasçılar murisin malvarlığı içerisinde bulunan hak ve malları hakkı ol
 Yasal mirasçılar, mirasbırakandan miras paylarına mahsuben elde ettikleri sağlararası karşılıksız kazandırmaları, denkleştirmeyi sağlamak için, terekeye geri vermekle yükümlüdürler (Türk Medeni Kanununun 669. maddesi). Mirasta denkleştirme davası murisin yasal mirasçılarına yaptığı sağlararası karşılıksız kazandırmaların belirli koşullar gerçekleştiğinde geri verilmesini talep etmeyi sağlayan bir davadır. Bu davadan elde edilmek istenen amaç mirasçılar arasında sağlararası karşılıksız kazandırmalar ile oluşan dengesizliğin denkleştirme ile ortadan kaldırılmasıdır.
 
 ## Yargıtay 1. HD 2020/2249 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646559200)
 
 Dava, vasiyetnamenin iptali ve tenkis isteğine ilişkindir.
 
@@ -52,6 +60,8 @@ Somut olayda, davalılar tarafından sunulan 22.12.2002 tarihli ilmuhaberde ve d
 
 ## Yargıtay 14. HD 2019/8389 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612639200)
+
 Türk Medeni Kanununun 639. maddesi gereğince "Miras sebebiyle istihkak davası, davacının kendisinin mirasçı olduğunu ve iyiniyetli davalının terekeyi veya tereke malını elinde bulundurduğunu öğrendiği tarihten başlayarak bir yıl ve her halde miras bırakanın ölümünün veya vasiyetnamenin açılmasının üzerinden on yıl geçmekle zamanaşımına uğrar. İyiniyetli olmayanlara karşı zamanaşımı süresi yirmi yıldır."
 
 Somut olayda da, Türk Medeni Kanununun 639. maddesi uyarınca miras sebebiyle istihkak davasında terekeden doğan alacak istemi öğrenildiği tarihten itibaren 1 yıl içerisinde zamanaşımına uğrar. Mirasçılar ... ile ...’in açtıkları miras sebebiyle istihkak davası ile miras paylarına yönelik işlem yapıldığından haberdar oldukları kabul edilerek dava tarihi olan 02.06.2009 tarihi üzerinden değerlendirme yapılmalıdır.
@@ -59,12 +69,16 @@ Birleşen davada dava tarihi olan 11.12.2012 tarihi ile asıl davada dava tarihi
 
 ## Yargıtay 11. HD 2018/6797 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461227900)
+
 …
 
 ‘Mirastan Doğan Davalarda Yetki’ başlığını taşıyan 6100 sayılı HMK’nın 11. maddesiyle, terekenin paylaşılmasına, yapılan paylaşma sözleşmesinin geçersizliğine, ölüme bağlı tasarrufların iptali ve tenkisine, miras sebebiyle istihkaka ilişkin davalar ile mirasçılar arasında terekenin yönetiminden kaynaklanan davalar ve terekenin kesin paylaşımına kadar mirasçılara karşı açılacak tüm davalar bakımından miras bırakanın son yerleşim yeri mahkemesinin kesin yetkili olduğu hüküm altına alınmıştır. Görüleceği üzere, madde metninde tahdidi bir sayıma gidilmiş olup, zikredilen kesin yetki kuralı sadece bu madde kapsamında sayılan davaları kapsamaktadır. Davacılar, ...’ün vasiyetnamesi gereğince, murislerine ödenen iradın günün koşullarına göre uyarlanmadığını ve bu nedenle murise eksik ödeme yapıldığını iddia etmektedirler. İddianın ileri sürülüş biçimi itibariyle uyuşmazlık, yukarıda zikredilen maddede tahdidi olarak sayılan davalardan hiçbirisine girmemektedir. Zira, terekenin paylaşılmasına ya da yapılan paylaşma sözleşmesinin geçersizliğine ilişkin olmadığı gibi, davada, ölüme bağlı tasarrufun iptali ya da tenkisi de talep edilmemektedir.
 Ayrıca, yine iddianın ileri sürülüş biçimine göre, uyuşmazlığı, miras sebebiyle istihkak talebine ilişkin veya terekenin yönetiminden kaynaklanan bir dava olarak tanımlamak da mümkün değildir. Bu durumda yetkili mahkemenin HMK’nın yetkiye ilişkin genel hükümlerine göre belirlenmesi gerekmektedir.
 
 ## Yargıtay 14. HD 2017/8657 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/384154000)
 
 Dava miras payına karşılık tazminat istemine ilişkindir.
 
@@ -74,6 +88,8 @@ HMK'nun 204/2 maddesi uyarınca; yetkili memurların görevleri içinde usulune 
 
 ## Yargıtay 20. HD 2016/7092 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/236910900)
+
 Dava, terekenin paylaştırılması istemine ilişkindir.
 
 ... Sulh Hukuk Mahkemesince, davacıların isteminin, mirasçılıktaki üstün hak iddiasına dayanmadığından TMK'nın 637. maddesinde düzenlenen miras sebebiyle istihkak davası niteliğinde olmayıp yasal miras payının tahsiline yönelik olan adi istihkak niteliğinde olduğu, çözüme kavuşturulması gereken bir mülkiyet iddiasının bulunduğu gerekçesiyle görevsizlik yönünde hüküm kurulmuştur.
@@ -82,6 +98,8 @@ Dava, terekenin paylaştırılması istemine ilişkindir.
 
 ## Yargıtay 14. HD 2016/5952 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223431100)
+
 Yasal veya atanmış mirasçı tarafından terekenin tamamını veya bir kısmına el koyan veya hakları eline geçirmiş kişilere karşı istihkak davası açılabilir. Nitekim, TMK'nın 637. maddesi gereğince "Yasal veya atanmış mirasçı terekeyi veya bazı tereke mallarını elinde bulunduran kimseye karşı mirasçılıktaki üstün hakkını ileri sürerek miras sebebiyle istihkak davası açabilir." Murisin terekesine murisin sağlığında veya ölümünden sonra el konulması davanın görülmesine engel teşkil etmemektedir.
 
 Somut uyuşmazlıkta, dosyaya sunulan mirasçılık belgesine göre tarafların murisi ...'nın 21.03.2004 tarihinde vefat ettiği görülmektedir. Davacılar, 1034 ada 94 sayılı parseldeki (B) blok 3 no'lu; 5 ada 294 sayılı parseldeki (B) blok 9 no'lu ile 2296 ada 1, 2297 ada 1 ve 2298 ada 90 sayılı parseller üzerinde yapılan bir adet bağımsız bölümü kooperatif payı muris adına iken davalı ...'in adına tescilini sağlayarak üçüncü kişilere sattığından miras paylarının alınmasını talep etmişlerdir. Dava konusu taşınmazlardan 1034 ada 94 sayılı parseldeki (B) blok 3 numaralı bağımsız bölüm 27.01.2006 günü satış nedeniyle davalı ... adına kayıtlı iken 24.02.2011 günü dava dışı kişiye devredilmiştir. Dava konusu 5 ada 294 sayılı parseldeki (B) blok 9 numaralı bağımsız bölüm 23.09.2008 günü kat mülkiyeti tesisi nedeniyle davalı ... adına kayıtlı iken 21.12.2010 günü dava dışı kişiye devredilmiştir. Anılan bu taşınmazlara ait kooperatif payı muris tarafından edinilerek vefatına kadar yükümlülüklerini yerine getirdiği mal rejiminin tasfiyesine ilişkin tereke tespit dosyalarından anlaşılmaktadır.
@@ -89,18 +107,26 @@ Yine, çekişme konusu taşınmazlardan 2296 ada 1, 2297 ada 1 ve 2298 ada 90 pa
 
 ## Yargıtay 14. HD 2016/3411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/222532600)
+
 TMK'nın 576. maddesi gereğince "Miras, malvarlığının tamamı için miras bırakanın yerleşim yerinde açılır. Mirasbırakanın tasarruflarının iptali veya tenkisi, mirasın paylaştırılması ve miras sebebiyle istihkak davaları bu yerleşim yeri mahkemesinde görülür." Dosya içerisindeki nüfus müdürlüğünün cevabi yazısına göre murisin yerleşim yeri adresi.... olup .... Sulh Hukuk Mahkemesi yetkili olduğu halde mahkemece yetkisizlik kararı verilmesi doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 11. HD 2016/3319 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/217798100)
 
 Tarafların iddia ve savunmaları sunulan deliller kapsamında, işbu davanın miras sebebiyle istihkak davası olduğu ve uyuşmazlığın Medeni Kanundaki hükümler çerçevesinde çözümlenmesi gerektiği açıktır. 26/06/2012 tarihli, 6335 sayılı yasa ile değiştirilen TTK 4. maddesinde, Asliye Ticaret Mahkemesi ile Asliye Hukuk Mahkemesi ve diğer hukuk mahkemeleri arasındaki ilişkinin görev ilişkisi olduğu ve bu durumda göreve ilişkin hükümlerin uygulanması gerektiği belirtilmiştir. Anılan maddede, tek tek belirtilen davaların, mutlak ticari dava niteliğinde olduğu anlaşılmaktadır. Ayrıca, mutlak ticari davadan başka, nisbi ticari davaların da tanımı yapılmış ve bir davanın nisbi ticari dava olarak kabul edilebilmesi için her iki tarafın tacir olması ve aynı zamanda uyuşmazlığın da her iki tarafın ticari işletmesi ile ilgili bulunması gerektiği kabul edilmektedir. Davacının iddiası, dava konusu ve sunulan deliller kapsamında uyuşmazlık TTK 4. maddede belirtilen, mutlak ticari davalardan olmadığı gibi, aynı maddede dayanağını bulan nisbi ticari dava niteliğinde de değildir.
 Her ne kadar işbu davada, şirket hisselerinin bir kısmının davalı vakıf adına tescil edilmesinin haksız olduğu iddiası ile bu payların iptali ile davacı adına tescili talep edilmekte ise de, şirket hisselerinin vakıf adına tescilinin temel nedeninin vasiyetname olduğu ve bu vasiyetnamenin içeriğinin yanlış yorumlanıp tescilin yapıldığının ileri sürüldüğü açık olduğundan Medeni Kanundaki düzenlemeler çerçevesinde yapılacak değerlendirme sonucu uyuşmazlığın çözümlenebileceği anlaşılmakla; işbu davada genel mahkemeler görevlidir. HMK 114. maddesinde, mahkemenin görevli olması hususu dava şartı olarak belirtilmiş olup, 115. maddesine göre de, dava şartları yargılamanın her aşamasında mahkemece resen dikkate alınır. Bu nedenle, mahkemece davanın görev yönünden reddi ile görevli Asliye Hukuk Mahkemesine gönderilmesi gerektiğinden, davacı vekilinin karar düzeltme itirazının kabulü ile Dairemizin 13.01.2015 gün ve 2014/1685-2015/245 sayılı onama ilamının kaldırılarak yerel mahkeme kararının bu gerekçe ile davacı yararına bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 20. HD 2016/1793 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/159892400)
+
 4721 sayılı TMK'nın 637. maddesinin birinci fıkrasında, "Yasal veya atanmış mirasçı, terekeyi veya bazı tereke mallarını elinde bulunduran kimseye karşı mirasçılıktaki üstün hakkını ileri sürerek miras sebebiyle istihkak davası açabilir." ve 683. maddesinin ikinci fıkrasında, "Malik, malını haksız olarak elinde bulunduran kimseye karşı istihkak davası açabileceği gibi, her türlü haksız elatmanın önlenmesini de dava edebilir." düzenlemeleri mevcuttur.
 
 ## Yargıtay 20. HD 2015/12142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/398139000)
 
 …
 
@@ -111,6 +137,8 @@ Her ne kadar işbu davada, şirket hisselerinin bir kısmının davalı vakıf a
 TMK'nın 576. maddesinde "Miras, malvarlığının tamamı için miras bırakanın yerleşim yerinde açılır; mirasbırakanın tasarruflarının iptali veya tenkisi, mirasın paylaştırılması ve miras sebebiyle istihkak davaları bu yerleşim yeri mahkemesinde görülür" hükmü yeralmaktadır.
 
 ## Yargıtay 1. HD 2014/17781 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84515300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali tescil, mirasta iade, olmazsa tenkis isteğine ilişkindir.
 

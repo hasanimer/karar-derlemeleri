@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2011/178 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76963400)
+
 …
 
 miras bırakan tarafından davalı eşine yapılan intifa hakkı tesisi şeklindeki temlikin mirasçıdan mal kaçırmak amacıyla ve muvazaalı olarak temlik edildiğinin kanıtlanamadığı,davanın reddine karar verilmesi gerektiği kanaatına varılmıştır.
@@ -37,6 +39,8 @@ nolu bağımsız bölümde iş yeri vasıflı taşınmazlarının olduğu, taş�
 
 ## Yargıtay 1. HD 2024/6601 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122572000)
+
 Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmazsa tazminat istemine ilişkindir.
 
 …
@@ -44,6 +48,8 @@ Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmazsa ta
 Hemen belirtmek gerekir ki, mirasbırakanlar ...ve ...'un intifa haklarını uhdelerinde bırakıp aynı resmi akitle davalıya temlik ettikleri 2/3 payın mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğu saptanarak davanın kabulüne karar verilmiş olmasında kural olarak bir isabetsizlik bulunmamaktadır. Davalı vekilinin bu yöne ilişkin temyiz itirazları yerinde değildir.
 
 ## Yargıtay 1. HD 2024/1002 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045967100)
 
 …
 
@@ -53,11 +59,15 @@ tüm dosya kapsamı itibariyle mirasbırakanın çekişme konusu taşınmaz dı�
 
 ## Yargıtay 1. HD 2023/1823 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903215300)
+
 …
 
 bilindiği üzere semenin bir başka ifade ile malın bedelinin mutlaka para olması şart olmayıp belirli bir hizmet ya da emek olabileceği, bakımın da bir semen olduğu, tüm dosya içeriği ve toplanan deliller itibariyle davalı ...'in mirasbırakana baktığı sabit olup, mirasbırakanın bakım karşılığı dava konusu taşınmazlarını temlik ettiği, mal kaçırma amacı bulunmadığı, minnet duygusu ile devirlerin yapıldığı sonucuna varılmaktadır.
 
 ## Yargıtay 1. HD 2020/6622 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627508800)
 
 Taraflar arasında birleştirilerek görülen davada;Asıl ve birleştirilin davada davacılar, mirasbırakan babaları ...’nın maliki olduğu 2425 ada 4 parselde bulunan 3, 4, 7, 8, 1, 5 no’lu bağımsız bölümleri 18/03/2009 tarihinde intifa hakkını üzerinde bırakarak çıplak mülkiyetini davalı kızına muvazaalı şekilde ve mal kaçırma amacıyla satış suretiyle temlik ettiğini ileri sürerek çekişme konusu taşınmazların tapu kayıtlarının iptali ile miras payları oranında adlarına tescilini istemişlerdir. Davalı, asıl davayı kabul etmiş, birleştirilen davanın ise açılmasında hukuki yarar bulunmadığını belirterek reddini savunmuştur.Asıl davadaki kabul iradesinin birleştirilen dava bakımından da geçerli olduğu gerekçesiyle asıl ve birleştirilen davaların kabulüne dair verilen karar Dairece, “Dosya içeriği ve toplanan delillerden, asıl ve birleşen davalar 300.000,00 TL dava değeri gösterilerek açılmış, davanın kabulü üzerine asıl ve birleşen davalar için ayrı ayrı olmak üzere 300.000,00 TL esas alınarak harca ve vekalet ücretine hükmedilmiştir.
 Hemen belirtilmelidir ki; muris muvazaası hukuksal nedenine dayalı davalarda dava değerinin davayı açan mirasçıların payına isabet eden değer olduğu, harç ve vekalet ücretinin bu değer üzerinden hüküm altına alınması gerektiği tartışmasızdır. Somut olayda; dava konusu taşınmazların değeri tespit edilmeden ve davacıların her birinin payına isabet eden değer belirlenmeden fazla harç ve vekalet ücretine hükmedilmesi doğru değildir. Hâl böyle olunca; yukarıdaki açıklamalar ile birlikte 6100 sayılı Hukuk Muhakemeleri Kanununun 312/2. maddesinin değerlendirilmesi ve sonucuna göre bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde hüküm kurulmuş olması isabetsizdir.”gerekçesiyle bozulmuş olup; Mahkemece bozma ilamına uyularak yapılan yargılama sonucunda asıl ve birleştirilen davanın kabulüne ilişkin verilen karar bu kez Dairece; “ mahkemece davacıların her birinin miras payına isabet eden değer nazara alınmak suretiyle harç ve vekalet ücretine hükmedildiği, davacının ön inceleme duruşmasından önce cevap dilekçesiyle davayı kabul ettiği anlaşılmaktadır.
@@ -65,6 +75,8 @@ Hemen belirtilmelidir ki; muris muvazaası hukuksal nedenine dayalı davalarda d
 Şöyle ki, kabulle sonuçlanan davada, hükmüne uyulan bozma ilamında değinildiği şekilde 6100 sayılı HMK 312/2. maddesinin karar yerinde tartışılmaması, 492 sayılı Harçlar Kanunu 22. maddesi ve karar tarihinde yürürlükte bulunan AAÜT 6. maddesinin nazara alınmaksızın harç ve vekalet ücretine hükmedilmesi doğru değildir.” gerekçesiyle bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama sonunda asıl ve birleştirilen davaların kabulüne karar verilmiştir.Karar, davalı vekili tarafından süresinde temyiz edilmiş olmakla, Tetkik Hakimi ...’un raporu okundu, düşüncesi alındı. Dosya incelendi, gereği görüşülüp, düşünüldü.
 
 ## Yargıtay 1. HD 2019/5619 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541942400)
 
 Davanın kısmen kabulüne ilişkin olarak verilen ilk karar, Dairece;
 
@@ -76,17 +88,23 @@ Mahkemece, tenkis isteğide reddedilmiş ise de bu yönde yapılan inceleme ve a
 
 ## Yargıtay 1. HD 2019/4114 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515927800)
+
 Asıl davada davacılar, mirasbırakan ...’ın 706 ada 28 parsel sayılı taşınmaz üzerindeki 2,3,4 ve 13 nolu dükkan vasfındaki taşınmazlarını intifa hakkını uhdesinde bırakarak mülkiyetini davalı oğlu ...’a bağış suretiyle, 10 ve 11 nolu bağımsız bölümleri satış suretiyle davalı ikinci eş ...’ya temlik ettiğini, işlemin mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğunu ileri sürerek miras payları oranında tapu iptal ve tescile, olmadığı taktirde tenkise karar verilmesini istemişlerdir. Davalılar, muvazaanın olmadığını belirterek davanın reddini savunmuşlar, birleşen ... 6.Asliye Hukuk Mahkemesi’nin 1999/116Esas sayılı davasında ise 28 parsel sayılı taşınmaz üzerindeki 1 ve 5 nolu dükkan ile 6,7,8,9 ve 12 nolu mesken vasfındaki taşınmazların mirasbırakan tarafından davacı ...’a mirastan mal kaçırma amacıyla ve muvazaalı olarak temlik edildiğini ileri sürüp miras payları oranında tapu iptali ve tescile, aksi halde tenkise karar verilmesini istemişlerdir.Mahkemece, tapu iptal ve tescil isteğinin kısmen kabulüne ilişkin olarak verilen karar Dairece;
 “...mirasbırakanın davalı ...’e dava konusu taşınmaz arsa niteliğinde iken ½ payının temliki mirasçıdan mal kaçırma amaçlı ve muvazaalı olduğu kanıtlanamadığından yerel mahkemece, paya bağlantılı olarak sonradan davalı ...’e özgülenen kat mülkiyetli bağımsızbölümler bakımından davanın reddedilmiş olmasında bir isabetsizlik yoktur. Asıl davada; dava konusu 10 ve 11 nolu bağımsız bölümler davalı ...’ya satış suretiyle temlik edilmiş olup, tenkise tabi nitelik taşımayacağı açıktır. Koşulların varlığı halinde haklarında 01.04.1974 tarih, ½ sayılı İçtihadı Birleştirme Kararının uygulanması gerekeceği kuşkusuzdur. Oysa mahkemece, sağlararası ölüme bağlı tasarruflar için Türk Medeni Yasasının 560 ve 571. maddeleri arasında öngörülen tenkis davasına konu edilebilecek işlem olarak değerlendirme yapılarak anılan bağımsız bölümler bakımından tenkisten dolayı hüküm kurulmuş olması doğru değildir.
 Diğer taraftan, davacılar, 28 parsel sayılı taşınmazdaki 2, 3, 4 ve 13 nolu bağımsız bölümler hakkında dava açtıklarına göre, bu bağımsız bölümlere ilişkin olarak tenkis hükmü kurulması gerekirken, dava dışı ve miras bırakan adına kayıtlı iken imarla 3040 ada 2 parsel olan ve hukuki niteliği kalmayan kadastral 1158 ada 36 parsel hakkında karar verilmesi de doğru değildir.” gerekçesiyle bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama sonunda birleşen davanın reddine, asıl davanın ise kısmen kabulüne karar verilmiştir.Karar, asıl davada davacılar-karşı davalılar ile birleşen davada katılma yoluyla davalılar karşı davacılar vekili tarafından süresinde temyiz edilmiş olmakla Tetkik Hâkimi ...’un raporu okundu, düşüncesi alındı. Dosya incelendi, gereği görüşülüp düşünüldü.
 
 ## Yargıtay 14. HD 2012/845 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663335000)
+
 Davada intifa sözleşmesinin muvazaalı kurulduğu iddiası bulunduğundan, olayda Borçlar Kanununun 18. ve muris muvazaasına ilişkin 01.04.1974 tarih 1/2 sayılı inançları birleştirme kararının uygulanma yeri bulunmamaktadır. Uygulama, bu doğrultudadır (Yargıtay 1.HD 17.05.2007 tarih 2007/3853-5647 sayılı kararı gibi).
 
 Yapılan bu saptamaya göre, intifa hakkının terkini istemiyle açılan davada muris muvazaasında öngörülen kurallar uygulanamayacağından, davanın reddi yerine istemin yazılı olduğu şekilde hükme bağlanması doğru olmadığından karar bozulmalıdır.
 
 ## Yargıtay 1. HD 2008/985 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78024800)
 
 Dava, paydaşlar arasındaki elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2020/2172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/619345800)
+
 İLK DERECE MAHKEMESİ KARARI: İlk derece mahkemesince; bilirkişi raporu ve tüm dosya kapsamına nazaran; davalının davacıya her iki takip yönünden de borçlu olduğu, bilirkişi tarafından hesap edilen miktar üzerinden itirazın kaldırılmasına karar verilmesi gerektiği, davalının depo emri gereğince bedeli yasal süresinde mahkeme veznesine depo ettiğinden bahisle ödeme nedeni ile iflas davasının esası hakkında karar verilmesine yer olmadığına, davalı şirket tarafından 09.07.2020 tarihinde yatırılan 382.191,46 TL'nin karar kesinleştiğinde davacıya ödenmesine karar verilmiştir.
 
 …
@@ -29,6 +31,8 @@ Sİ VE HUKUKİ NİTELENDİRME: Dava; İİK'nın 158. Maddesi gereğince takibe i
 İcra Müdürlüğünün ... takip sayılı dosyası incelendiğinde; davacının dayanak faturalar gereğince 24.10.2018 tarihinde, 193.370,86 TL asıl alacak üzerinden davalı aleyhinde takip başlattığı, ödeme emrinin davalıya 26.10.2018 tarihinde tebliğ edildiği, davalı vekilinin 02.11.2019 tarihinde takip konusu borca ve tüm ferilerine itirazı neticesinde takibin durduğu, davacı vekilinin akabinde, 11.01.2019 tarihinde icra takip yolunu değiştirerek, İflas yolu ile adi takibe çevirdiği 2. ödeme emrinin davalıya 18.01.2019 tarihinde tebliğ edildiği, davalı vekilinin 24.01.2019 tarihinde takip konusu borca ve tüm ferilerine itirazı neticesinde takibin durduğu, Bakırköy ... İcra Müdürlüğünün ... takip sayılı dosyası incelendiğinde; davacının bakiye alacak için 17.01.2019 tarihinde 93.571,20 TL asıl alacak üzerinden davalı aleyhinde takip başlattığı, ödeme emrinin davalıya 28.01.2019 tarihinde tebliğ edildiği, davalı vekilinin 01.02.2019 tarihinde takip konusu borca ve tüm ferilerine itirazı neticesinde takibin durduğu anlaşılmıştır. Sözleşme ilişkisi yanlar arasında çekişmesiz olup, uyuşmazlık davacının takip tarihi itibari ile alacaklı olup olmadığı noktasında toplanmıştır.
 
 ## İstanbul BAM 17. HD 2020/1093 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580706200)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece, çekin teminat amaçlı olduğunu savunan davalı tarafın savunmasını kanıtlaması gerektiğini, takibe konu çekin üzerinde teminat çeki olduğuna dair kayıt olmadığı gibi, davalı tarafça sunulan sözleşmede de takip konusu çekin teminat senedi olduğuna ve teminat çeki düzenleneceğine dair kayıt bulunmadığı, çek fotokopisi altındaki davacı şirket çalışanı yazısının çekin teminat çeki olduğunu göstermeye yetmeyeceği, davalıların takibe itirazının haksız olduğu ve depo emrine rağmen borcun ödenmediği gerekçesiyle davalıların takibe itirazlarının kaldırılmasına ve iflaslarına karar verilmiştir.
 
@@ -42,6 +46,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davalı tarafın isti
 
 ## İstanbul BAM 12. HD 2020/611 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579990400)
+
 İLK DERECE MAHKEMESİ KARARI: Mahkemece; ilk takibin 15.10.2018 tarihinde İstanbul ....İcra Müd. ... esas sayılı dosyası ile başladığı ödeme emrinin davalı borçluya 23.10.2018 tarihinde tebliğ edildiği, borçlunun 31.10.2018 tarihinde süresinden sonra yetkiye ve borca itiraz dilekçesi verdiği, bu şekli ile takibin kesinleştiği, daha sonra alacaklı vekilinin 11.12.2018 tarihli talebi ile İstanbul Anadolu ....İcra Müd. ... esas sayılı numarasını aldığı ve yeniden ödeme emri gönderildiği, ilk takip dosyası ile gönderilen ödeme emrine süresinde yapılmış bir yetkiye ve borca itiraz bulunmadığı halde usulsüz bir şekilde İstanbul Anadolu İcra Müdürlüğünde takibe devam edilmesi davalı borçluya yeni bir hak bahşetmediği, davacı alacaklının itiraz iptali davası açmakta hukuki bir yararının bulunmadığı gerekçesiyle davanın usulden reddine karar verilmiştir.
 
 …
@@ -54,6 +60,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle: 1-Davacı vekilinin istinaf başvurus
 
 ## İstanbul BAM 14. HD 2020/474 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578881100)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince 02/04/2019 tarihli kararında özetle; "...İstanbul Anadolu ....İcra Müdürlüğü'nün ... sayılı takip dosyası getirtilmiş ,incelenmesinde davacının davalı hakkında ilamsız icra takibi başlattığı,ödeme emrinin davalıya 17/08/2018 tarihinde tebliğ edildiği,davalı tarafça takibe 27/08/2018 tarihinde itiraz edildiği görülmüştür.17/08/2018 tebliğ tarihi itibariyle yasada öngörülen 7 günlük yasal itiraz süresi 24/08/2018 tarihinde dolmakta olup ,takibe itirazın ise 27/08/2018 tarihinde süresinden sonra yapıldığı belirlenmiştir.
 
 …
@@ -65,6 +73,8 @@ KARAR:Gerekçesi yukarıda açıklandığı üzere; 1-HMK'nın 353/1.a.4. maddes
 
 ## İstanbul BAM 15. HD 2020/349 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577370900)
+
 Bakırköy ...İcra Müdürlüğü'nün ... esas sayılı takip dosyası ile; davacı tarafından davalı aleyhine 09/08/2011 tarihinde 1.646.665,35 TL asıl alacak ve faiz toplamı 1.660.046,24 TL'nin tahsili amacı ile ilamsız takip başlatıldığı, ödeme emrinin davalı borçluya 12/08/2011 tarihinde tebliğ edildiği, davalı tarafından 25/08/2011 tarihinde faturadan doğan borcu bulunmadığı gerekçesi ile borca ve ferilerine itirazda bulunduğu, icra müdürlüğünce itirazın süresinde olmadığı belirlenerek takibin devamına karar verildiği, borçlu şirket tarafından yapılan şikayet üzerine Bakırköy 3.İcra Hukuk Mahkemesi'nin 26/08/2011 tarih 2011/1519 esas 1140 karar sayı ile ödeme emri tebliğinin usulsüzlüğünün tespitine, tebliğ tarihinin 25/08/2011 olarak kabulüne karar verildiği anlaşılmaktadır. Davacı tarafça Bakırköy ...İcra Müdürlüğü'nün ... esas sayılı takip dosyasına ait vekalet ücretine itirazın iptali ile ilgili 18/04/2014 tarihinde açılan davada, Bakırköy 6.Asliye Ticaret Mahkemesi'nin 2014/495 Esas ve 2015/407 Karar sayılı ilamı ile davanın kısmen kabulüne karar verilmiş, kararın temyizi üzerine Yargıtay 15.
 Hukuk Dairesi'nin 2015/4539 Esas ve 2016/3235 Karar sayılı ilamı ile hükmün bozulmasına karar verilmiş, yerel mahkemece bozmaya uyularak 2017/366 Esas, 2017/660 Karar sayılı karar ile davalı borçlunun takibe itirazının davacıya tebliğinden itibaren yasal süresinde takibe konu asıl alacak ve işlemiş faiz yönünden açılmış bir itirazın iptâli davası mevcut olmayıp, açılan bu davada asıl alacak miktarı üzerinden tarife uyarınca hesaplanan vekâlet ücreti yönünden itirazın iptâli ve takibin devamının talep edildiği, vekâlet ücreti asıl alacağın fer'i niteliğinde olup, davacı asıl alacak ve işlemiş faiz yönünden harçlandırmak suretiyle itirazın iptâli davası açmadığı ve alacağı mahkemece hüküm altına alınmış olmadığı gerekçesiyle davanın reddine karar verilmiş ve temyiz edilen hükmün Yargıtay 15. Hukuk Dairesi'nin 2018/210 esas, 2018/2016 karar sayılı kararı ile onanmasına karar verilmiştir. İİK.'nın 67. Maddesi gereğince itirazın iptali davası itiraz dilekçesinin alacaklıya tebliğinden itibaren 1 yıllık hak düşürücü süre içerisinde açılması gerekmektedir.
 
@@ -73,10 +83,14 @@ Tüm bu hususlar bir arada değerlendirildiğinde yerel mahkemece davanın hak d
 
 ## İstanbul BAM 14. HD 2020/119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/575077300)
+
 İNCELEME VE GEREKÇE Talep, ihtiyati hacze itirazın reddine dair kararın kaldırılması istemine ilişkindir. Karar itiraz eden borçlular vekilince istinaf edilmiştir. İstinaf incelemesi, HMK'nın 355. maddesi uyarınca, istinaf başvuru nedenleriyle ve kamu düzenine aykırılık yönüyle sınırlı olarak yapılmıştır. Alacaklı banka ile asıl borçlu ... arasında imzalanan ve ...' in borçlu müteselsil kefil olarak imzaladığı ticari nitelikteki 24/02/2017 tarihli Genel Kredi sözleşmesinin 31.1. maddesinde İstanbul mahkemelerinin yetkili olacağı öngörülmüştür. Kullandırılan kredi ticari kredi olmakla, müteselsil kefil sıfatıyla sözleşmeyi imzalayan ... tacir olmasa bile tacirler arasındaki yetki sözleşmesi, TTK’nın 7. maddesinde öngörülen teselsül karinesi nedeniyle muteriz ...'i de bağlar. (Yargıtay 19. HD 2014/11550 E 2015/1636 K 10.02.2015 T.) Bu durumda sözleşmenin 31.1. maddesi uyarınca her iki borçlu bakımından ve ihtiyati haciz yönünden İstanbul Mahkemelerinin yetkili olduğu anlaşıldığından, borçlular vekilinin aksi yöndeki istinaf nedeni yerinde değildir.
 İhtiyati haciz kararı sonrasında yapılan takibe itiraz üzerine 7 günlük sürede itirazın iptali davası açılması zorunluluğunun yerine getirilip getirilmediği itiraz kapsamında incelenecek bir husus olmayıp, haczin yasa gereği kalktığı iddiasının takip hukuku çerçevesinde halli gerekir. Borçlular vekilince istinaf dilekçesinde borcun ipotekle temin edilmiş olduğu ileri sürülmüşse de bu hususun ihtiyati hacize itirazda ileri sürülmediği gibi, bu yönde soyut beyandan öte herhangi bir kanıt da sunulmadığından, bu yöndeki istinaf nedeni de yerinde değildir. Dosyada mübrez kredi ve kefalet sözleşmesi örneğinde kefil ...'in usule uygun şekilde el yazısı ile yazılmış kefalet beyan ve tutarı görülmekle, kefil ...'in TBK'nın 583. maddesine uygun kefaletinin bulunmadığı yönündeki istinaf da yerinde değildir. Mahkemenin karara ve gerekçesinde yasa ve usule aykırılık bulunmadığı gibi kamu düzenine aykırılık da görülmediğinden, itiraz eden borçlular vekilinin istinaf başvurusunun HMK'nın 353/1.b.1. maddesi uyarınca esastan reddine dair aşağıdaki şekilde karar verilmiştir.
 
 ## İstanbul BAM 12. HD 2019/1268 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/531951700)
 
 İLK DERECE MAHKEMESİ KARARI:Mahkemece, itirazın iptaline konu icra takibinde davalı borçlu ... şirketine ödeme emrinin 08/04/2017 tarihinde tebliğ edildiği, davalı borçlunun itirazının ise Uyap sistemi üzerinden 16/04/2017 tarihinde gönderildiği, bu durumda icra takibine geçerli bir itiraz bulunmadığı ve bu sebeple itirazın iptalinin talep edilemeyeceği gerekçesiyle; davanın hukuki yarar yokluğu nedeni ile dava şartı yokluğundan reddine karar verilmiştir.
 
@@ -113,6 +127,8 @@ Likid alacak demek, tutarı belli (muayyen), bilinebilir, hesaplanabilir alacak 
 
 ## İstanbul BAM 14. HD 2019/582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496471900)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİİlk derece mahkemesince, kural olarak itirazın iptali davasının bir yıl içinde açılması gerektiği, davacı alacaklının davalı borçlunun itirazının kendisine tebliği için avans yatırmadığı, itirazın üzerinden iki yıl yedi ay geçtikten sonra iş bu davayı açtığı, davacının kendisine tebligat yapılmadığı için bir yıllık hak düşürücü sürenin işlemeyeceği düşüncesi kabul görürse, İİK'nın 62/2. maddesinin hiç bir anlamı ve uygulanırlığının olmayacağı, zira alacaklıların avans yatırmayacak, itirazdan haberdar olsa bile bir süre ile bağlı ve sınırlı kalmadan itirazın iptali davası açabileceği, İİK'nın 67. maddesi bir an için göz ardı edilebilirse dahi bir yıl içinde işlemsiz bırakılan takibin düşeceği kuralı da davacı lehine yorum yapılmasını imkansız hale getirdiği, itirazın tebliğ edilmemesi nedeniyle bir yıllık sürenin işlemeye başlamayacağı şeklindeki bir yorumun yasaya aykırı olduğu gibi iyi niyet ve dürüstlük kuralları ile bağdaşmayacağından hukuk sisteminin korumasının da söz konusu olamayacağı gerekçesiyle, hak düşürücü süre içinde açılmayan davanın reddine karar verilmiştir.Bu karara karşı davacı vekili tarafından istinaf başvurusunda
 bulunulmuştur.
 
@@ -125,6 +141,8 @@ GEREKÇE Dava, İİK'nın 67. maddesi uyarınca açılmış bir itirazın iptali
 KARAR: Gerekçesi yukarıda açıklandığı üzere;1-HMK'nın 353/1.a.4. maddesi uyarınca, ilk derece mahkemesinin istinafa konu kararının KALDIRILMASINA …
 
 ## İstanbul BAM 12. HD 2019/484 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492941000)
 
 GEREKÇE: İİK nun 264.maddesi “Dava açılmadan veya icra takibine başlanmadan evvel ihtiyati haciz yaptırmış olan alacaklı; haczin tatbikinden, haciz gıyabında yapılmışsa haciz zabıt varakasının kendisine tebliğinden itibaren yedi gün içinde ya takip talebinde bulunmaya veya dava açmaya mecburdur.İcra takibinde, borçlu ödeme emrine itiraz ederse bu itiraz hemen alacaklıya tebliğ olunur. Alacaklı, tebliğ tarihinden itibaren yedi gün içinde icra mahkemesinden itirazın kaldırılmasını istemeye veya mahkemede dava açmaya mecburdur. İcra mahkemesi , itirazın kaldırılması talebini reddederse alacaklının kararın tefhim veya tebliği tarihinden itibaren yedi gün içinde dava açması lazımdır. Alacaklı bu müddetleri geçirir veya davasından yahut takip talebinden vazgeçerse veya takip talebi kanuni müddetlerin geçmesiyle düşerse veya dava dosyası muameleden kaldırılıp da bir ay içinde dava yenilenmezse veya davasında haksız çıkarsa ihtiyati haciz hükümsüz kalır ve alakadarlar isterse lazım gelenlere bildirilir...” şeklinde düzenlenmiştir. Somut olayda, ihtiyati haciz talep eden taraf alacağının tahsili amacıyla önce İstanbul Anadolu ...İcra Müdürlüğü’nün ...
 Esas sayılı dosyası üzerinden ilamsız icra takibi başlatmış, bu takip borçlunun itirazı üzerine durmuştur.Mahkemece verilen 03.08.2018 tarihli ihtiyati haciz kararı, daha önce başlatılan icra takip dosyası üzerinden işleme konulmak yerine İstanbul Anadolu ....İcra Dairesinin ... Esas sayılı dosyası üzerinden işleme konulmuş ve bu şekilde yeni bir icra takibi başlatılmıştır.Bu arada borçlu tarafından İstanbul Anadolu ....İcra Müdürlüğü’nün .... Esas sayılı icra takibine de itiraz edilmesi üzerine takip durmuş, bu kez alacaklı tarafça itirazın iptali talebiyle 24.09.2018 tarihinde İstanbul Anadolu 4.Asliye Ticaret Mahkemesi’nin 2018/1130 esas sayılı dosyası üzerinden itirazın iptali davası açıldığı, ancak mahkemenin 01.02.2019 tarihli 2018/1130 E., 2019/11 K. sayılı kararıyla davaya konu icra takibinin mükerrer olması nedeniyle geçerli bir icra takibi olmadığından bahisle davanın usulden reddine karar verilmiştir.
@@ -142,6 +160,8 @@ Bu durumda 03.08.2018 tarihli ihtiyati haciz kararı üzerine İİK 264. maddesi
 
 ## İstanbul BAM 14. HD 2019/86 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475575600)
+
 Davacı vekili, müvekkili şirket ile yetkilisi ...'ın "..." adresindeki işyerini, 03.10.2013 tarihli sözleşme ile davalıya devrettiklerini, sözleşme uyarınca müvekkiline, 125.000 TL devir bedelinin nakit olarak davalı tarafından ödendiğini, müvekkillerinin bakiye alacağının ise sözleşme uyarınca 120.000 TL olup, 15.11.2013 tarihinde 5.000 TL, 15.01.2014 tarihinde 20.000 TL, 15.03.2014 tarihinde 25.000 TL, 15.05.2014 Tarihinde 25.000 TL, 15.07.2014 tarihinde 20.000 TL ve 15.09.2014 tarihinde 25.000 TL şeklinde vadelendirildiğini, ancak davalının müvekkillerine hiçbir ödemede bulunmadığını, işletmenin tam ve eksiksiz bir şekilde davalıya teslim edildiğini, davalının da söz konusu işyerinde .. . Turizm San. ve Tic. Ltd.
 
 …
@@ -149,6 +169,8 @@ Davacı vekili, müvekkili şirket ile yetkilisi ...'ın "..." adresindeki işye
 Hal böyle olunca, davacı şirketin icra takip itibari ile asıl alacağı 111.420,40 TL ve toplam işlemiş faiz alacağı da 3.648,68 TL olup, davalının takibe itirazının belirlenen bu tutarlar üzerinden iptaline karar vermek gerekmiş, alacak yargılamayı gerektirdiğinden İİK'nın 62. maddesinde belirtilen likit-bilinebilir niteliğine haiz olmadığından davacı yararına icra inkar tazminatına hükmedilmemiştir.
 
 ## İstanbul BAM 13. HD 2018/1098 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/456457700)
 
 Somut olayda, ödeme emrine itirazda bulunulmakla birlikte süresi içerisinde yapılmış ve takibi durdurmuş geçerli bir itiraz bulunmadığı bu nedenle takibin kesinleştiği ve itirazın iptali davası açmakta hukuki yarar bulunmadığı anlaşılmış, davacının dava açmakta hukuki yararının bulunmasına ilişkin dava şartı yokluğundan HMK 114/1-h fıkrası gereğince davanın reddine karar vermek ..." gerektiği gerekçesi ile, …
 

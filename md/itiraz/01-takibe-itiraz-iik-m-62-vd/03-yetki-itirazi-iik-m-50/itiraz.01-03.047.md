@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 12. HD 2019/140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472888900)
+
 İLK DERECE MAHKEMESİ KARARI:Mahkemece, bilirkişi raporu doğrultusunda davacının davalı ile arasındaki ticari ilişkiyi ve düzenlenen faturalara konu hizmeti verdiğini imzalı irsaliyelerle ispat ettiği, davalı tarafça da ödeme yapıldığının iddia ve ispat edilmediği , davacı taraf takip talebinde ve açılan itirazın iptali davasında alacak miktarının 10.377,33- TL göstermiş ise de yapılan bilirkişi incelemesi sonucunda alacak miktarının 10.376,68- TL olduğu belirlendiği gerekçesiyle davacının davasının kısmen kabulüne, faturaya dayalı alacak likit olduğundan itirazının haksız olduğu belirlenen davalı aleyhine icra inkar tazminatına hükmedilmesine karar verilmiştir.
 
 …
@@ -35,6 +37,8 @@ Buna göre yetkili icra dairesinde takip yapıldığını tesbit eden mahkemenin
 Davalı vekilinin istinaf başvurusunun HMK 'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 16. HD 2018/2381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/448640000)
 
 Davalı, davaya cevap vermemiştir.
 
@@ -78,6 +82,8 @@ takibini başlatmış olduğu, serbest meslek makbuzu düzenlenmemiş olan borç
 
 ## İstanbul BAM 17. HD 2018/1848 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/453016500)
+
 Davalı vekili ıslah yolu ile verdiği cevabında; davalı taraf ile söz konusu ürünlerin kalite kontrolü amacıyla anlaşma yapıldığını ancak davacının üzerine düşen yükümlülüğü yerine getirmediğini, davacı ile yapılan mail yazışmalarından da anlaşılacağı üzere davacının edimini süresinde ifa etmediğini bu nedenle söz konusu borcu ödemediklerini belirterek davanın reddini talep etmiş ise de;
 
 …
@@ -89,6 +95,8 @@ Buna göre icra takibi yetkili icra dairesinde başlatılmadığından, davanın
 Bakırköy 6. Asliye Ticaret Mahkemesinin 22/05/2017 Tarih ve 2015/986 E. 2017/468 K. Sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 3. HD 2018/1717 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/460843900)
 
 Davacı vekili dava dilekçesinde özetle; abone olan davacıdan, davalı tarafça düzenlenen elektrik faturalarında, her hangi bir tüketim karşılığı olmayan, kayıp kaçak bedeli gibi bir kısım adlar altında tahakkuk ettirilen ve haksız olarak tahsil edildiğini ileri sürdüğü bedellerden, toplam 94.581,99 TL'nin iadesi için davalı şirket aleyhine Manavgat ...İcra Müdürlüğü'nün ... esas sayılı dosyası ile takip başlatıldığını, borca itiraz edildiğini, takibin durdurulduğunu, davalının itirazlarının yersiz ve haksız olduğunu belirterek davalı şirketin takibe yaptığı yetki itirazının iptaline, davalı şirketin borca itirazının iptaline ve Manavgat 1.İcra Müdürlüğü'nün 2014/2754 esas sayılı takibinin devamına,icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
 
@@ -104,6 +112,8 @@ Bu nedenle davalı hakkında Manavgat İcra Dairesinde icra takibi yapıldığı
 
 ## İstanbul BAM 3. HD 2018/1562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464654900)
+
 Davalı vekili cevap dilekçesinde, zamanaşımı ve yetki itirazı ile birlikte ayrıca görevli mahkemenin de Tüketici Mahkemeleri olduğunu belirterek, davacı tarafça borç için İstanbul ....İcra Müdürlüğü'nün ... esas saylı dosyası ile takip başlattıktan sonra davaya konu bu takibin de yapıldığını, davalının bazı hatlarını Türk Telekom'a devrettiğini,talep edilen tutarın Türk Telekom'a devredilen hatlarla ilgili olduğunu belirterek, davanın reddi ile %20 kötü niyet tazminatını talep etmiştir.
 
 …
@@ -111,6 +121,8 @@ Davalı vekili cevap dilekçesinde, zamanaşımı ve yetki itirazı ile birlikte
 İtirazın iptali davasında öncelikle, icra dairesinin yetkisinin inceleneceği açıktır. Taraflar arasındaki sözleşmede İstanbul mahkeme ve icra dairelerinin yetkili kılındığı, davalı borçlunun yerleşim yerinin ise Kayseri ilinde bulunduğu, para borcu olarak bakıldığında da ifa yerinin, alacaklı ikametgah yeri olan Maltepe/İSTANBUL olduğu, ancak davalı hakkındaki takibin borçlunun ikametgahı mahkeme-icra dairesi ve sözleşmeyle belirlenen yetkili mahkeme-icra dairesi ve alacaklı ikametgah yeri dışında taraflarla hiçbir ilgisi kurulamayan Bursa icra Müdürlüğünde yapılması nedeniyle bu tür davalarda öncelikle icra dairesinin yetkisi inceleneceği yasa gereği olmakla, davalının takipteki icra dairesinin yetkisine itirazı HMK 6 ve HMK 17.madde uyarınca yerinde görülmüş, bu itibarla ortada yetkili yerde yapılmış usule uygun bir icra takibinin olmadığı anlaşılmıştır.
 
 ## İstanbul BAM 8. HD 2018/1337 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452376200)
 
 Davacı vekili dava dilekçesi ile; davalı ... Tic. Ltd, Şti. adına kayıtlı, davalı ...’in sürücüsü olduğu, davalı S.S.
 
@@ -132,6 +144,8 @@ Davacı vekili ile davalı ...Sigorta A. Ş. Vekilinin istinaf taleplerinin yuka
 
 ## İstanbul BAM 8. HD 2018/1184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/444695400)
+
 HMK 16. maddesi gereğince "haksız fiilden doğan davalarda haksız fiilin işlendiği veya zararın meydana geldiği yahut gelme ihtimalinin bulunduğu yer ya da zarar görenin yerleşim yeri mahkemesi de yetkilidir" hükmünü içermektedir. Ayrıca İİK. 50. maddesinde de; "para borcu için takip hususunda HMK'nın yetkiye dair hükümleri kıyas yoluyla tatkik olunur" hükmü ve İİK 67/1 maddesinde genel hükümler doğrultusunda dava açılacağı maddesi yer almıştır. Davacının yerleşim yerinin Pendik/İstanbul olduğu, bu haliyle İstanbul Anadolu Asliye Hukuk Mahkemesinin yetki alanında kaldığı, takibin de yetkili yerde başlatıldığı anlaşılmaktadır. (Yargıtay 17. Hukuk Dairesinin 25/10/2017 gün 2016/17772 Esas, 2017/9611 Karar sayılı ilâmı ve Yargıtay 17. Hukuk Dairesinin 25/04/2017 gün ve 2016/9639 Esas, 2017/4553 Karar sayılı ilâmı) Bu nedenle, mahkemece kazanın meydana geldiği yerin ve davalıların ikametgahlarının İzmir olduğu, icra takibinin de burada yapılması gerektiği görüşünden hareketle yazılı biçim ve şekilde verilen karar doğru olmamıştır.
 
 Açıklanan nedenlerle;mahkemece, tarafların iddia ve savunmaları gözetilerek yapılacak inceleme ve değerlendirme sonucuna göre davanın esası hakkında bir karar verilmesi gerekirken; icra dairesinin yetkisiz olduğu bu sebeple mahkemenin de yetkisiz bulunduğu düşüncesinden hareketle verilen karar, hatalı bulunduğundan; HMK.353/1-a/3 hükmü uyarınca kaldırılması gerektiği sonucuna varılarak aşağıdaki biçimde hüküm tesis edilmiştir.
@@ -141,6 +155,8 @@ Açıklanan nedenlerle;mahkemece, tarafların iddia ve savunmaları gözetilerek
 Davacı vekilinin istinaf başvurusunun yukarıda açıklanan nedenle KABULÜ ile; istinaf istemine konu olan ve başlıkta yazılı bulunan ilk derece mahkemesi kararının HMK.m.353/1-a/3 hükmü uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2018/1146 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430989000)
 
 Taraflar arasında 03.03.2016 tarihli sözleşmenin olduğu ve sözleşme gereği davacı yüklenici tarafından sipariş üzerine tekstil ürünlerinin imal edileceği hususu ihtilafsız olup, davacı yüklenici, davacı iş sahibidir. Taraflar tacir olup, sözleşmenin 13.maddesinde bu sözleşmeden doğacak ihtilafların çözümünde İstanbul mahkeme ve icra daireleri'nin yetkili olduğuna dair yetki sözleşmesinin bulunduğu da görülmüştür. Davacı yüklenici tarafından dosyada fotokopisi sunulan davaya konu Küçükçekmece...İcra Müdürlüğü'nün ... takip sayılı dosyasıyla 09.06.2017 tarihinde 19.128,66 Euro toplam bedel üzerinden icra takibinin yapılmış olduğu, davalı borçlu tarafından ise ödeme emrinin tebliği üzerine süresinde 14.06.2017 havale tarihli itiraz dilekçesi ile takipte talep edilen miktara kısmen itiraz ettiklerini toplam borçlarının 7.780,78 Euro 'yu aşan kısmına itiraz ettiğini, başka herhangi bir itiraz sebebinin bulunmadığı görülmüştür.
 
@@ -154,6 +170,8 @@ Yetki sözleşmesini düzenleyen HMK'nın 17. maddesinde "tacirler veya kamu tü
 Bakırköy 6. Asliye Ticaret Mahkemesi'nin 23.03.2018 gün, 2017/584 Esas, 2018/294 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2018/1144 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/412612700)
 
 Davacı vekili, 04.09.2017 tarihli dava dilekçesinde, müvekkili şirketin taraflar arasındaki ticari ilişkiden kaynaklanan 90.966,44 TL alacağının tahsili için Bakırköy ... İcra Müdürlüğünün ... Esas sayılı dosyasında ilamsız icra takibi başlatıldığını, borçlunun icra takibinden önce 4 aylık fatura alacağını ödememek için müvekkili şirketle ilgisi olmayan hırsızlık olayını basiretli tacir ilkesine aykırı olarak kullandığını, davalının takibe itirazının haksız ve kötü niyetli olduğunu iddia ederek, müvekkili şirketin iş bu alacağını tahsil edememesi nedeniyle ortaya çıkan mağduriyetini giderebilmesi için TBK 76. madde gereğince takdir edilecek miktarda geçici ödemeye karar verilerek buna yönelik tedbir kararı verilmesini, icra takibine karşı yapılan İtirazın iptali ile takibin devamına ve %20 den aşağı olmamak üzere icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
 
@@ -178,6 +196,8 @@ hukukunda HMK ‘nun yetkiye dair hükümlerinin kıyas yolu tatbik olunacağın
 
 ## İstanbul BAM 3. HD 2018/961 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422815200)
+
 Davalı vekili cevap dilekçesi ile, yetki itirazı ile birlikte ,esas yönünden ise davalı şirketçe Lütfiye Köyü- Gölcük adresinde bulunan üretim tesislerinde izinleri alınmış kaptajlardan üretim yapılmakla birlikte ,davalı idarenin talep ettiği ... nolu abonelikten kaynaklı Kaynak Suyu Satış Sözleşmesi konusu kaptajın mühürlendiğini, mühürlenme sebebiyle icra takibine konu edilen alacağa ilişkin faturaların ilk ve son endeks bilgilerinin aynı olup, davalı şirkete gönderilen faturalara süresinde itiraz edildiğini ve faturaların iadesinin sağlandığını, bu nedenle hangi su bedelinin talep edildiğinin belirsiz olduğunu,herhangi bir abonelik sözleşmesi olmadığından dolayı davacı yanca "Null abonelik" kabul edilen durumun, ilk ve son endeks bilgilerinin aynı olması karşısında kötü niyet iddialarının sübuta ermediğini, dosyaya ibraz ettikleri tespit evrakının sadece akan suyun debisini ölçen bir çalışma niteliğinde olduğunu, suyun kullanımına yönelik bir tespit dosyasının bulunmadığını, Kocaeli ...İcra Müdürlüğünün ... esas sayılı dosya borcunun cebri icra tehdidi altında öndendiğini,ayrıca davalı şirketin su kaynaklarını köy tüzel kişiliğinden kiraladığını, bu nedenle davacı tarafın alacak
 talep etme yetkisi bulunmadığını beyanla, davanın reddini talep etmiştir.
 
@@ -192,6 +212,8 @@ Mahkemece, keşif yapılmak suretiyle bilirkişi kurulundan alınan kök ve ek b
 Taraflarca ileri sürülen sebeplerle sınırlı olarak yapılan istinaf incelemesi sonucunda; davalı tarafça icra takibine icra dairesinin yetkisi yönünden de itiraz edilmiş olup, mahkemece ,,taraflar arasında abonelik sözleşmesinin bulunduğu,her ne kadar davalıya İSU yönergesi uyarınca revize edilmiş sözleşmeyi imzalanmamış ise de, mevcut sözleşmenin de kaynak suyu satışı ile ilgili olması itibariyle,sözleşmedeki yetki şartı da dikkate alınarak icra dairesinin yetkisine yönelik itirazının reddine karar verilmesinde bir isabetsizlik bulunmadığı anlaşılmakla , davalı tarafın bu husustaki istinaf sebebi yerinde görülmemiştir.
 
 ## İstanbul BAM 12. HD 2018/832 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/415554100)
 
 İLK DERECE MAHKEMESİ KARARI:Mahkemece, davacı şirketin, şirket merkez ya da şube adresini İstanbul Anadolu adliyesi yargı çevresine nakil almış ise bu hususun tevsik edilmesi gerektiği, dosyada böyle bir husus iddia edilmediği gibi anlaşılamadığını, davacı şirket, adresini mahkemenin yargı çevresine nakil alıp almadığı hususunda araştırma yapılamayacağı gerekçesiyle itirazın iptali davasının ön koşulu olan yetkili icra müdürlüğünde takip yapılması gerçekleşmemiş olduğu gerekçesiyle davanın esası incelenmeksizin usulden reddine karar verilmiştir.
 

@@ -27,6 +27,8 @@ Kanun koyucu sözlü vasiyetnameye ilişin koşulları belirlerken bulunması ge
 
 ## Yargıtay HGK 2025/768 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206245000)
+
 Vasiyetname lehine yorum ilkesi, Roma Hukukundan itibaren geniş uygulama alanı bulan "Favor Testemanti" prensibini ifade eder. Bu ilke iptal edilme ihtimâli olan bir vasiyetnamenin yorum yoluyla ayakta tutulmasını sağlar. Amaç mirasbırakanın son arzusunun yerine getirilmesidir. Vasiyetname lehine yorum ilkesi, tasarrufların yorumlanması bakımından geçerli olan irade teorisinin doğal bir sonucudur. Bu yorum tarzı, ölüme bağlı tasarrufu imkân olduğu ölçüde geçerli saymaya, onu ayakta tutmaya, başka bir ifade ile tasarruf yapanın gerçek iradesini, son isteklerini elden geldiği kadar değerlendirmeye, onu üstün tutmaya, ona saygı ve bağlılık göstermeye yönelmiş bulunmaktadır. Vasiyetname lehine yorum ilkesinin uygulanabilmesi için; mirasbırakanın vasiyetname yapma iradesinin varlığı, vasiyetnamenin farklı biçimlerde yorumlanabilir olması ve mirasbırakanın gerçek iradesinin belirlenebilir olması koşullarının bir arada bulunması gerekir (Caner Taşatan, Vasiyetname Lehine Yorum İlkesi ve Bu İlkenin Türk Medeni Kanunu’na Yansımaları, Dergi Park, s.571).
 
 Vasiyetname lehine yorum ilkesi, vasiyetnamenin şekle aykırılığı durumlarında da uygulanabilir. Elbette ki bu yorum, şekil kurallarını anlamsız kılacak bir genişliğe ulaşmamalıdır. Resmî vasiyetnamenin resmî memur tarafından düzenlenmemesi veya bu işleme iki tanığın katılmaması sebepleriyle oluşan şekle aykırılık, lehe yorum ilkesi kapsamında giderilemeyeceği şüphesizdir. Zira işlemin oluşma sürecine katılan bu kişiler, mirasbırakanın vasiyetname yapma iradesinin varlığını "kesin olarak ortaya koyan" ve vasiyetname içerisinde yer alan tasarrufların onun iradesine uygun olduğunu "beyan eden" konumdadırlar. Bunun dışında yer alan şekil koşulları bakımından ise her somut olay bazında amaca uygun değerlendirme yapılması gerekir. Bu kapsamda; resmî vasiyetnamelerde özellikle resmî memurun veya yardımcılarının işlemlerinden kaynaklanan şekle aykırılıkların, vasiyetname lehine yorum ilkesi kapsamında değerlendirilmesine hiçbir engel yoktur.
@@ -35,6 +37,8 @@ Tüm bu açıklamalar ışığında davaya konu resmî memur tarafından düzenl
 böyle olunca işlemde birlik ilkesine uygun şekilde düzenlenen resmî vasiyetname lehine yorum yapılması gerektiği, vasiyetnamenin bütününden vasiyet edenin beyanının tanıklar huzurunda yapıldığının açıkça anlaşıldığı somut olayda vasiyetnamenin geçerli olduğu hususunda bir tereddüt bulunmamaktadır.
 
 ## Yargıtay HGK 2024/511 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087947600)
 
 Türk Medeni Kanunu'nun 531 inci maddesi "Vasiyet, resmî şekilde veya mirasbırakanın el yazısı ile ya da sözlü olarak yapılabilir" hükmünü taşımaktadır. Resmi vasiyetnamenin yapılabilmesi için, resmi memurun ve iki tanığın varlığı şarttır. 4721 sayılı Kanun'un 533 ve 534 üncü maddelerinde okuma yazma bilenlerin okuyup imzalayarak düzenlettirecekleri resmi vasiyetnamelere ilişkin hükümlere yer verildikten sonra kanun koyucu okuma yazma bilmeyenlerin de vasiyetname yapmalarına imkân vermek amacıyla "mirasbırakan tarafından okunmaksızın ve imzalanmaksızın düzenleme" başlığı altında 535 inci maddeyi hüküm altına almıştır.
 
@@ -57,6 +61,8 @@ Aynı Kanun'un "Memurun işlevi" başlıklı 533. maddesi ise; "Mirasbırakan, a
 
 ## Yargıtay 7. HD 2025/3425 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178310700)
+
 Somut olayda ise mirasbırakan ...'un sağlığında iki ayrı vasiyetname düzenlediği, bu vasiyetnamelerden .... Noterliği 28.06.2000 tarih ... yevmiye numaralı vasiyetnameden vasiyetçinin okur yazar olmadığı beyanı üzerine vasiyetnamenin TMK 535. maddesine göre düzenlendiği anlaşılmaktadır. Bu bakımdan mirasbırakanın beyanı üzerine okuyamayan veya yazamayanlar gibi vasiyetname düzenlenmesinde bir engel olmadığı gibi mirasbırakanın TMK 535. maddesine göre vasiyetname düzenlemesinin okuma yazma bilmediği veya daha sonra da öğrenmediği sonucunu doğurmayacaktır.
 
 Diğer yandan mirasbırakan asıl davada iptali istenen .... Noterliği 05.09.2008 tarih ve ... yevmiye numaralı vasiyetnamesinde ise vasiyetçinin okur yazar olduğu belirlenerek vasiyetnamenin TMK 532. maddesine uygun olarak düzenlendiği anlaşılmaktadır. 4721 sayılı Türk Medeni Kanunu'nun 6 ncı maddesinde, "Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür." Gerek doktrinde, gerek Yargıtay içtihatlarında kabul edildiği üzere ispat yükü hayatın olağan akışına aykırı durumu iddia eden ya da savunmada bulunan kimseye düşer. Öte yandan, ileri sürdüğü bir olaydan kendi yararına haklar çıkarmak isteyen kimse iddia ettiği olayı kanıtlaması gerekir. Asıl davada iptali istenen 05.09.2008 tarihli resmi şekilde düzenlenen vasiyetnamede mirasbırakanın okur yazar olduğunun noter tarafından da tespiti yapılmış olup, asıl davada iptali istenen 05.09.2008 tarihli vasiyetnamenin düzenlendiği tarihte vasiyetçinin okur yazar olmadığına dair ispat yükü vasiyetnamenin şekil eksikliği nedeniyle iptalini talep eden davacıda olduğu açıktır.
@@ -66,6 +72,8 @@ Bu bakımdan dosyanın incelenmesinde dinlenen tanıkların görgüye dayalı be
 
 ## Yargıtay 7. HD 2025/2019 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163435800)
+
 2\. 4721 sayılı Türk Medeni Kanunu'nun 536. maddesinde "Fiil ehliyeti bulunmayanlar, bir ceza mahkemesi kararıyla kamu hizmetinden yasaklılar, okur yazar olmayanlar, mirasbırakanın eşi, üstsoy ve altsoy kan hısımları, kardeşleri ve bu kişilerin eşleri, resmî vasiyetnamenin düzenlenmesine memur veya tanık olarak katılamazlar." hükmü düzenlenmiştir. Yine aynı Kanun'un 18. maddesinde ise "Eşlerden biri ile diğer eşin kan hısımları, aynı tür ve dereceden kayın hısımları olur. Kayın hısımlığı, kendisini meydana getiren evliliğin sona ermesiyle ortadan kalkmaz." düzenlemesi yer almaktadır. Dava konusu ... Noterliğinin 02.06.2015 tarih ve 3254 yevmiye numaralı vasiyetnamenin incelenmesinde mirasbırakan ...in 23.10.2008 tarihinde ölen kardeşi ...'in sağ kalan eşi ...'in vasiyetnameye tanık olarak katıldığı anlaşılmaktadır. Vasiyetnamenin düzenlediği tarihte ... ve ...'nin evlilik birliği ölüm nedeniyle sona ermiştir. TMK'nın 18/2. maddesindeki kayın hısımlığının devam etmesinin, kayın hısımlığı hükümleri yönünden evlenme yasağının devam etmesi, vasi atamada kayın hısımın tercih sebebi olması, tanıklıktan kaçınma ve hakimin davaya bakma yasağı gibi maddi sonuçları bulunmaktadır.
 Diğer yandan vasiyetnamelerdeki şekil şartları tahdidi olarak sayılmıştır. Bu bakımdan TMK'nın 536. maddedeki resmi vasiyetnameye tanık olamayacak kişiler vasiyetnamenin şekil şartları kapsamındadır. Bu tür şartların tahdidi (numerus clausus) şekilde düzenlendiği hem öğretide hem de uygulamada kabul görmekte olup, bunun gerekçesi, vasiyetçinin iradesinin şekli anlamda güvence altına alınması gerekliliğidir. Dolayısıyla, vasiyetnamelerin şekil şartları yönünden genişletici yorum yapılması, vasiyetçinin iradesinin ayakta tutulması ilkesine (favor testamenti) aykırılık oluşturacaktır.
 
@@ -73,6 +81,8 @@ TMK'nın 18/2. maddesi esasen maddi sonuçlara ilişkin sonuç doğuracak niteli
 Sonuç olarak, dava konusu vasiyetnamede tanık olarak yer alan ...'nin yukarıda açıklananlar ışığında düzenlemeye katılma yasağı bulunan kişilerden olmadığı halde, Bölge Adliye Mahkemesince kayın hısımlığının devam etmesi nedeniyle düzenlemeye katılma yasağı bulunduğu, vasiyetnamenin şekil şartına uygun olmadığı gerekçesiyle vasiyetnamenin iptaline karar verilmesi doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2025/1492 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151481000)
 
 Dava, vasiyetnamenin iptali istemine ilişkindir.
 
@@ -84,6 +94,8 @@ Bu kurala uygun şekilde düzenlenen vasiyetnamelerde beyanın mirasbırakanın 
 
 ## Yargıtay 7. HD 2024/5897 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194399500)
+
 Türk vatandaşı mirasbırakanın ...'da düzenlediği dava konusu vasiyetnameler yönünden; 06.11.2018 tarihinde T.C. Dışişleri Bakanlığı Konsolosluk İşleri Genel Müdürlüğünce dosya kapsamına tercümesi sunulan Amerika Birleşik Devletleri ... Eyaleti'nin miras hukukuna ilişkin yerel mevzuatında vasiyetname şartları olarak, vasiyetçinin en az 18 yaşında olması, zihinsel engelinin bulunmaması yetkinlik şartı olarak sayılmış, vasiyeti vasiyetçinin iki tanığın huzurunda kendi isteği ile beyan etmesi ve tanıkların vasiyetnameyi şahit olarak imzalaması şekil şartları açısından yeterli görülmüş, sözlü vasiyetnameler veya el yazısıyla yazılan ancak tanıklar tarafından imzalanmayan vasiyetnamelerin ise şekli anlamda geçersiz kabul edilmiştir. Amerika Birleşik Devletleri ise Vasiyet Tasarruflarının Biçimine İlişkin Kanun Uyuşmazlıkları Konusundaki 05.10.1961 tarihli La Haye Sözleşmesi'ne 24 Aralık 1980 tarihinde taraf olmuştur.
 Bu bakımdan 20.02.2011 tarihli el yazılı vasiyetname yönünden alınan Adli Tıp Kurumu ve Jandarma Kriminal Laboratuvar Amirliği tarafından düzenlenen raporlarda 20.02.2011 tarihli el yazılı vasiyetnamedeki imza ve yazıların mirasbırakanın eli ürünü olmadığının tespit edilmesi nedeniyle el yazılı vasiyetnamenin hem vasiyetnamenin düzenlendiği yer hukuku olan ... Hukuku hem de taşınmazların bulunduğu yer hukuku olan Türk Hukuku'na göre şekli anlamda geçerli olmadığından, 20.02.2011 tarihli el yazılı vasiyetnamenin iptaline karar verilmesi yerinde görülmüştür.
 
@@ -92,6 +104,8 @@ Bu nedenle, 18.02.2011 tarihli resmî vasiyetnamenin şekli geçerliliğine ili�
 
 ## Yargıtay 7. HD 2024/4145 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100622600)
+
 Dosya kapsamına göre davacılar, dava konusu ... 1. Noterliği 29.11.1994 tarih ve 31899 yevmiye numaralı vasiyetnamenin şekle aykırılığını ileri sürmüşlerdir. Bu kapsamda vasiyet eden mirasbırakanın okuyup yazamadığı anlaşıldığından, dava konusu vasiyetnamenin düzenlendiği tarihte geçerli 743 sayılı Kanun'un 482 nci maddesine göre geçerliliği belirlenmelidir.
 
 Davaya konu vasiyetname incelendiğinde, yapılan resmi vasiyetnamenin tanıklar önünde vasiyet edene okunduğu belirtildikten sonra vasiyet eden yazılanların tamamen son ve gerçek isteklerini kapsadığını söylemiştir. Bu bağlamda 743 sayılı Kanun'un 482 nci maddesinin 1 inci fıkrası ile 2 nci maddesinin ilk cümlesinin yerine getirildiği ortadadır. Bununla birlikte tanıkların beyanlarında vasiyetnamenin noter tarafından yazıldıktan sonra her iki tanık birlikte söze başlayarak "İşbu vasiyetnamenin vasiyetçinin beyanı ile noter ... tarafından yazılıp düzenlendikten sonra huzurumuzda vasiyetçi ...'e açıkça okunduğunu ve mealini anlattığını vasiyetçi ise okunan bu vasiyetnamede yazılı olanların hakiki arzu ve maksatlarını tam olarak kapsadığını noter ... ve bizlere söylediğini, bizler de ilgiliyi nu işleri yapmaya kanunen ve hukuken yetenekli gördüğümüzü ve Medeni Kanun'un 483 üncü maddesinde yazılı mahzurlardan dahi salim bulunduğumuzu tanık sıfatı ile beyan ve ifade eder ve bu beyanlarımızı okuyarak imza ederiz" şeklinde bir açıklamalarının bulunduğu ve açıklamanın altında imzalarının bulunduğu görülmektedir.
@@ -99,19 +113,27 @@ Dolayısıyla, tanıkların, vasiyetçinin beyanı ile vasiyetnamenin düzenlene
 
 ## Yargıtay 7. HD 2024/3939 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1099874800)
+
 2\. 6098 sayılı Türk Borçlar Kanunu'nun 611 ilâ 619 uncu maddeleri, ölünceye kadar bakma sözleşmesini düzenlemiştir. Bunlar arasında yer alan 612 nci maddenin 1 inci fıkrası, ölünceye kadar bakma sözleşmesinin şeklini düzenlemiş olup bunun miras sözlemesi şeklinde yapılmadıkça geçerli olmayacağını belirtmiştir. Bu nedenledir ki; söz konusu hükmün, 4721 sayılı Türk Medeni Kanunu'nun miras sözleşmesinin şeklini düzenleyen 545 inci maddesine atıf yaptığı anlaşılmaktadır. TMK'nın 545 inci maddesinin 1 inci fıkrası da miras sözleşmesinin geçerli olabilmesi için onun resmî vasiyetname şeklinde düzenlenmesinin gerektiğini; 2 nci fıkrası da miras sözleşmenin taraflarının buna yönelik arzularını resmî memura aynı zamanda bildirmelerinin ve düzenlenen sözleşmeyi memurun ve iki tanığın önünde imzalarının zorunlu olduğunu belirtmiştir. Ninayet aynı Kanun'un 536 ncı maddesinin 2 nci fıkrası, "Resmî vasiyetnamenin düzenlenmesine katılan memura ve tanıklara, bunların üstsoy ve altsoy kan hısımlarına, kardeşlerine ve bu kişilerin eşlerine o vasiyetname ile kazandırmada bulunulamaz" şeklindeki bir düzenlemeye yer vermiştir.
 
 Somut olayda; dosyada bulunan düzenleme şeklindeki 22.09.2017 tarihli ölünceye kadar bakma sözleşmesinde tanık olarak yer alan ...'a ait nüfus kayıt belgesinde onun davacı ...'un eşi olarak yer aldığı görülmektedir. Yukarıda da belirtildiği gibi TMK'nın 612 nci maddesinin 1 inci fıkrasının yaptığı atıf nedeniyle miras sözleşmesinin geçerlilik şartını düzenleyen TMK'nın 545 inci maddesinin uygulanması gerekli olup bu madde ile ilişkili olan 536 ncı maddenin 2 nci fıkrasının gereğince tanıklık yasağına uyulmaması sebebiyle dava konusu sözleşmenin geçersizliği konusunda herhangi bir şüphe bulunmamaktadır. Temyizen incelenen karar, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile kararda belirtilen gerekçelere göre usul ve kanuna uygun olup davalı vekili tarafından temyiz dilekçesinde ileri sürülen nedenler kararın bozulmasını gerektirecek nitelikte görülmemiştir.
 
 ## Yargıtay 7. HD 2024/2478 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052074700)
+
 Bilindiği üzere okur-yazar kişiler de hiç bir gerekçe göstermeden okuyamayan veya imzalayamayanlar gibi resmi vasiyetname düzenletme yolunu seçebilirler. Bu yön 26.03.1962 günlü ve 23/3 sayılı İçtihadı Birleştirme Kararının sonuç bölümünde açıkça ifade edilmiş olup, içtihadın yürürlüğünden bu yana bu yolda süregelen uygulamaya paralel olarak yasada da düzenleme yapılmıştır. Ancak, okur-yazar kişilerce, okuyamayan veya imzalayamayanlar gibi resmi vasiyetname düzenletme yolunun seçilmesi halinde de; 4721 sayılı Kanun'un 535 inci maddesinde gösterilen şekle uyulmak zorundadır.
 
 ## Yargıtay 7. HD 2024/76 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990987400)
+
 2\. 4721 sayılı Türk Medeni Kanunu'nun 536 ncı maddesi "Fiil ehliyeti bulunmayanlar, bir ceza mahkemesi kararıyla kamu hizmetinden yasaklılar, okur yazar olmayanlar, mirasbırakanın eşi, üstsoy ve altsoy kan hısımları, kardeşleri ve bu kişilerin eşleri, resmî vasiyetnamenin düzenlenmesine memur veya tanık olarak katılamazlar. Resmî vasiyetnamenin düzenlenmesine katılan memura ve tanıklara, bunların üstsoy ve altsoy kan hısımlarına, kardeşlerine ve bu kişilerin eşlerine o vasiyetname ile kazandırmada bulunulamaz." şeklinde düzenlenmiştir. Somut olayda vasiyetname tanıklarından ...'nin murisin torunu olan ...'nin eşi olduğu, resmi vasiyetnamenin düzenlenmesine vasiyetçinin altsoy kan hısımlarının eşlerinin tanık olarak katılamayacağının anlaşılmış olmasına göre 05.04.2018 tarihli vasiyetnamenin iptali yönünde kurulan hükümde bir isabetsizlik bulunmamaktadır.
 
 ## Yargıtay 7. HD 2023/6341 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108618700)
 
 Dava, şekil eksikliği ve ehliyetsizlik nedenleriyle vasiyetnamenin iptali istemine ilişkindir.
 
@@ -119,22 +141,32 @@ Türk Medeni Kanunu'nun 532 nci maddesi, "(f.1) Resmî vasiyetname, iki tanığ�
 
 ## Yargıtay 7. HD 2023/5815 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988506900)
+
 Resmî vasiyetnamenin düzenlenmesi yasada sıkı şekil şartlarına bağlanmış olup bu maddeler kamu düzenine ilişkindir. Bu nedenle resmî vasiyetname düzenlenmesine tanık olarak katılan kişilerin kimliği önem arz etmektedir. "Düzenlemeye katılma yasağı" başlıklı 4721 sayılı Türk Medeni Kanunu'nun 536 ncı maddesinin birinci fıkrasında fiil ehliyeti olmayanlar, bir ceza mahkemesi kararıyla kamu hizmetinden yasaklılar, ... yazar olmayanlar, murisin üstsoy ve altsoy kan hısımları, kardeşleri ve bu kişilerin eşlerinin resmî vasiyetnameye memur ve tanık olarak katılamayacakları belirtilmiştir.
 
 ## Yargıtay 7. HD 2023/5717 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002855200)
 
 Davaya konu vasiyetname incelendiğinde, yapılan resmi vasiyetnamenin tanıklar önünde vasiyet edene okunduğu belirtildikten sonra vasiyet eden yazılanların tamamen son ve ... isteklerini kapsadığını söylemiştir. Vasiyet eden mirasbırakanın gözlerinin görmemesi nedeniyle okuyup yazamadığı anlaşılmaktadır. Vasiyetnamenin 7 nci paragrafından da anlaşılabileceği üzere 4721 sayılı Kanun'un 535 ... maddesinin 1 ... fıkrasının yerine getirildiği ortadadır. Bu doğrultuda vasiyetname tanıklar önünde vasiyet edene okunduktan sonra vasiyet eden yazılanların son ve ... isteklerini kapsadığını belirtmiştir. Bununla birlikte tanıkların beyanlarında vasiyetnamenin noter tarafından yazıldıktan sonra "Vasiyetname tarafımdan gözleri görmeyen vasiyet eden ... isimli kişiye tanıkların huzurunda okudum. Adı geçenin vasiyetnamesi tanıkların huzurunda okunduktan sonra, yazılanların son ve ... isteklerine uygun olduğunu beyan ettiğini ve kendisini bu işlemi yapmaya yeterli (tasarrufa ehil) gördüğümüzü bildiririz " şeklinde bir açıklamalarının bulunduğu görülmektedir.
 4721 sayılı Kanun'un 535 ... maddesinin ikinci fıkrasına göre her ne kadar tanık açıklamalarında, "miras bırakanın beyanının kendi önlerinde" yapıldığına yönelik bir ibare bulunmasa da vasiyetnamenin 3 üncü paragrafına göre tanıkların bu belgenin düzenlenmesinde başından beri bulundukları, belgenin 2 nci sayfasının son paragrafında bulunan "aynı oturumda yazılan vasiyetname" ibaresiyle de tüm işlemlerin ... seferde aynı oturumda yapıldığı görülmektedir. Aksi yorum, vasiyetnamenin korunması başka bir deyişle onun elden geldiğince ayakta tutulması anlamına gelen favor testamenti prensibine aykırı olacağı anlamına gelecektir. Zira, kişiliği sona erdiren ölüm ile kişinin artık herhangi bir irade açıklamasında bulunamayacağı bir zaman dilimine geçilmiş olur. Bu nedenledir ki, vasiyet edenin irade beyanı lehine bir incelemenin yapılması gerekir. Tüm bu nedenlerle, düzenleme şeklindeki vasiyetnamenin şekil eksikliği nedeniyle iptaline yönelik karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2023/5290 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986319700)
+
 Şekli anlamda ölüme bağlı tasarruflar, vasiyetname ve miras sözleşmesi olarak ikiye ayrılmakta olup vasiyetnameler de kendi içerisinde resmi, el yazılı ve sözlü şekilde üçe ayrılmaktadır. 4721 sayılı Türk Medeni Kanunu'nun 538 ... maddesi uyarınca, el yazılı vasiyetnamenin yapıldığı yıl, ay ve ... gösterilerek başından sonuna kadar mirasbırakanın el yazısıyla yazılmış ve imzalanmış olması zorunludur. El yazılı vasiyetname, saklanmak üzere açık veya kapalı olarak notere, sulh hâkimine veya yetkili memura bırakılabilir maddenin birinci fıkrasından da anlaşılabileceği üzere el yazılı vasiyetnamenin ... sonra vasiyetçinin el yazısıyla yapılması gerekir. Bu da el yazılı vasiyetnamenin basit bir adi yazılı değil, nitelikli bir adi yazılı şekil şartına haiz olduğunu göstermekte ve bu doğrultuda, vasiyetnamenin tüm metninin, ...-ay-yıl şeklindeki tarihinin ve imzasının vasiyetçinin el yazısıyla yapılmasını zorunlu kılmaktadır.
 
 ## Yargıtay 7. HD 2023/1362 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910148600)
+
 Vasiyetnamenin şekil eksikliğinin kamu düzenine ilişkin olup re'sen araştırma ilkesine tâbi olduğu yönündeki temyiz itirazlarının "İlgili Hukuk" bölümünün 2, 3 ve 4 üncü maddelerinde örnek olarak gösterilen Yargıtay içtihatları ile benimsenen açıklamalar doğrultusunda; tenkis yönünden kararın bozulması gerektiğine ilişkin temyiz itirazlarının ise, "İlgili Hukuk" bölümünün 8, 9 ve 10 uncu maddelerinde örnek olarak gösterilen Yargıtay içtihatları ile benimsenen açıklamalar doğrultusunda reddi gerekmiştir.
 
 ## Yargıtay 5. HD 2022/14879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/830794000)
 
 Dava, sözlü vasiyetnamenin belgelenmesi istemine ilişkindir.
 
@@ -144,6 +176,8 @@ Alanya 3. Sulh Hukuk Mahkemesince ise, TMK’nın 540. maddesinde “Mirasbırak
 Sulh Hukuk Mahkemesince görülüp sonuçlandırılması gerektiği gerekçesiyle yetkisizlik kararı verilerek, yargı yerinin belirlenmesi için dosya Dairemize gönderilmiştir.
 
 ## Yargıtay 5. HD 2022/7866 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785831500)
 
 Dava, vasiyetnamenin düzenlenmesi istemine ilişkindir.
 

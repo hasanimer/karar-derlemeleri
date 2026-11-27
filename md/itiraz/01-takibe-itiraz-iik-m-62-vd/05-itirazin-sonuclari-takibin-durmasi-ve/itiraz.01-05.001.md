@@ -45,6 +45,8 @@ Böyle bir durumda icra mahkemesinin nasıl bir inceleme yapacağı hususu ise a
 
 ## Yargıtay HGK 2025/591 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180513000)
+
 İlk Derece Mahkemesince verilen kararın taraf vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince istinaf başvurularının ayrı ayrı esastan reddine karar verilmiştir.
 
 …
@@ -66,6 +68,8 @@ kaldırılıp işin esasının incelenmesi gerektiğinden yeniden yargılama yap
 
 ## Yargıtay HGK 2025/363 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153919800)
+
 Davacı vekili dava dilekçesinde; davalılardan ... A.Ş. tarafından abonelik sözleşmesi gereği müvekkili aleyhine İzmir 1.
 
 …
@@ -78,9 +82,13 @@ Dosya içerisinde yer alan bilgilerden haczin yapıldığı tarihte takibin hen�
 
 ## Yargıtay HGK 2022/1317 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857567800)
+
 Ayrıca İİK 53/1, 68/4 maddeleri devam eden takipte mirasçıların mirasın reddi davası açabilmeleri için takibin durması, İcra Mahkemesinde bekletici mesele yapılabilmesi imkânı tanıyarak mirası reddetmek isteyen mirasçıyı korumaya aldığı hâlde icra takibinin mirasın reddi kararından sonra açılması hâlinde itiraz süresi gibi bir süre sınırı getirmek kanunun bu amacına da uygun düşmemektedir. Bu nedenlerle mahkemenin başvuruya şikâyet olarak değerlendirmesi ve borca itiraz olarak niteleme yapan özel daire bozma kararına uymama yönündeki görüşleri yerindedir.
 
 ## Yargıtay HGK 2022/925 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794749900)
 
 Borçlunun imzaya itiraz dışındaki diğer nedenlerden dolayı ödeme emrine itirazı borca itiraz niteliğindedir. İİK’nın 168. maddesinin 5. fıkrası ile aynı Kanun’un 169. maddesi gereğince kambiyo senetlerine özgü haciz yolu ile takipte borçlu, borca itirazını ödeme emrinin tebliğinden itibaren beş gün içinde bir dilekçe ile icra mahkemesine bildirerek icra mahkemesinden itirazının kabul edilmesine karar verilmesini isteyebilir. Borcun mevcut olmadığı, ödendiği, ertelendiği, zamanaşımına uğradığı, takas, faiz oranına itiraz, yetki itirazı gibi itirazlar borca itiraz niteliğindedir (Kuru, Baki: İcra ve İflas Hukuku El Kitabı, Ankara 2013, s. 783). İİK’nın 169/a maddesinin 5. fıkrası uyarınca itirazın kabulü kararı ile takip durur.
 
@@ -89,6 +97,8 @@ Borçlunun imzaya itiraz dışındaki diğer nedenlerden dolayı ödeme emrine i
 Borçlu vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarıda açıklanan değişik gerekçe ve nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2021/1508 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726587900)
 
 Davacı vekili dava dilekçesinde; davalı şirketin 13.09.2006 tarihli sözleşme kapsamında 7011 kodlu hizmet bedelini dayanak göstererek Beyoğlu 1. İcra Müdürlüğünün 2008/15886 sayılı dosyasında müvekkili aleyhine icra takibi başlattığını, müvekkilinin genel müdürlükten aldığı onay ile toplam 14.516,98TL’yi menfi tespit ve istirdat davası açılması şartıyla davalıya ödenmek üzere icra dosyasına yatırdığını, oysa davalı ile imzalanan sözleşme ve sözleşmenin eki teknik şartname hükümleri gereğince davalıya ödeme yapılmasını gerektiren bir durum olmadığını ileri sürerek fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 7.500TL'nin davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -106,6 +116,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel D
 
 ## Yargıtay HGK 2021/1486 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724741800)
+
 Mersin 3.
 İcra (Hukuk) Mahkemesinin 02.12.2015 tarihli ve 2015/530 E., 2015/721 K. sayılı kararı ile; takibe ekli vekâletnameye göre alacaklının Arjantin vatandaşı olduğu, Türkiye'nin de taraf olduğu Lahey Sözleşmesi'nin teminat akçesi bölümünün 17. maddesine göre teminattan muaf olduğu, ilamsız takipte itiraz ile takibin durması üzerine alınan itirazın iptali kararından sonra ilam kapsamında yapılacak borç kapak hesabının borçluya muhtıra ile gönderilmesi veya aynı takip dosyasından ilama göre icra emri tanzim edilerek borçluya gönderilmesi gerektiği hâlde bu lazimelerin ikmal edilmeksizin doğrudan haciz işlemlerine geçilmesinin usul ve yasaya aykırı olduğu, bu eksiklikler tamamlanabilir mahiyette olduğundan takibin iptalinin gerekmediği gerekçesi ile şikâyetin kısmen kabulüne, borçluya takip dosyasında itirazın iptali ilamı kapsamında icra emri veya muhtıra gönderilmemesi sebebiyle takibin durdurulmasına, alacaklı tarafça yapılacak talebe binaen icra dairesince itirazın iptali ilamı kapsamında borçluya gönderilecek olan icra emri veya muhtıra tebliği ile takibin kesinleşme prosedürü ikmalinden sonra takibe devam edilebileceğine, fazlaya ilişkin talep, dava ve şikâyetin reddine karar
 verilmiştir.
@@ -116,6 +128,8 @@ Alacaklı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel
 
 ## Yargıtay HGK 2021/1146 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724699800)
+
 "...Alacaklı tarafından ticari nitelikte taşıt kredisi sözleşmesine ve hesap kat ihtarına dayalı olarak genel haciz yoluyla ilamsız icra takibine başlandığı, örnek 7 numaralı ödeme emrinin tebliği üzerine borçlunun, yasal sürede icra dairesine verdiği dilekçe ile borca itiraz ettiği, icra müdürlüğünce takibin durmasına karar verilmesi ile duran takibin devamını sağlamak için alacaklı vekilinin, itirazın kaldırılması istemi ile icra mahkemesine başvurduğu, mahkemece, İİK'nun 68/b maddesinde yer alan; "... bir ay içerisinde itiraz etmeyen ...." düzenlemesine, davalıya çıkartılan kat ihtarında yer verilmediği, kat ihtarının usul ve yasaya uygun düzenlenmediği, sözleşmenin İİK'nun 68. maddesi anlamında belge olmadığı gerekçesiyle, itirazın kaldırılması isteminin reddine karar verildiği anlaşılmıştır.
 
 …
@@ -124,6 +138,8 @@ Alacaklı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukar
 
 ## Yargıtay HGK 2021/152 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660792100)
+
 Hâl böyle olunca yerel mahkemenin direnme kararı yerindedir. Ancak İİK’nın 169/a maddesinin 5. fıkrası “…İtirazın kabulü kararı ile takip durur…” hükmünü içermektedir. O hâlde icra mahkemesince takibin durdurulmasına hükmedilmesi gerekirken, takibin iptaline karar verilmesi doğru değil ise de, bu yanılgının giderilmesi yeniden yargılama yapılmasını gerektirmediğinden, 03.03.2016 tarihli gerekçeli kararın hüküm fıkrasının 1. bendinde geçen “iptaline” ibaresinin çıkartılarak, yerine “durdurulmasına” ibaresinin yazılması suretiyle karar düzeltilerek onanmalıdır.
 
 …
@@ -131,6 +147,8 @@ Hâl böyle olunca yerel mahkemenin direnme kararı yerindedir. Ancak İİK’n�
 Alacaklı vekilinin temyiz itirazlarının reddi ile direnme kararının yukarıda açıklanan gerekçelerle, 03.03.2016 tarihli gerekçeli kararın hüküm fıkrasının 1. bendinde geçen “iptaline” ibaresinin çıkartılarak …
 
 ## Yargıtay HGK 2020/1001 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638312000)
 
 Davacı vekili 12.11.2013 harç tarihli dava dilekçesinde; Kars 2. İcra Dairesinin 2012/1146 E. sayılı dosyasında yapılan icra takibinde davalının 04.11.2012 tarihli itiraz dilekçesi ile borca ve ferilerine itiraz etmesi üzerine takibin durduğunu, yapılan itirazda herhangi bir neden belirtilmediği gibi itirazın da haklı bir yanı bulunmadığını ileri sürerek takibe vaki itirazın iptaline, takibin devamına, davalının %40 icra inkâr tazminatına mahkum edilmesine karar verilmesini istemiştir.
 
@@ -144,6 +162,8 @@ Hukuk genel kurulunda yapılan görüşmeler sırasında, somut olayda hasar tal
 verilmesi gerektiği yönünde görüşler ileri sürülmüş ise de; bu görüşler yukarıda açıklanan nedenlerle Kurul çoğunluğunca benimsenmemiştir.
 
 ## Yargıtay HGK 2019/125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/499006000)
 
 Davalı vekili; müvekkilinin dava dışı Volkan Kara'nın genel kredi sözleşmesi dışındaki borçlarına kefil olmadığını belirterek, davanın reddini savunmuştur.
 
@@ -163,6 +183,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının
 
 ## Yargıtay HGK 2019/67 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498814600)
+
 Mahkemece; takip konusu senedin kambiyo senedi olduğu, şirket yetkilileri tarafından imzalanmadığının dosya kapsamına göre sabit olduğu, senette imzası bulunan .....'nun borçlu şirket adına kambiyo senedi tanzim etmeye yönelik yetkisi bulunmadığı gerekçesiyle itirazın kabulüne, takibin kesin olarak durdurulmasına, alacaklı tarafın kötü niyeti sabit olmadığından kötü niyet tazminatı taleplerinin reddine karar verilmiştir.
 
 …
@@ -170,6 +192,8 @@ Mahkemece; takip konusu senedin kambiyo senedi olduğu, şirket yetkilileri tara
 İİK’nın 169/9 maddesinin 5. fıkrasında “itirazın kabulü kararı ile takip durur. Alacaklının genel hükümlere göre dava açma hakkı mahfuzdur. Alacaklı genel mahkemede dava açarsa inkar tazminatı ve para cezasının tahsilini dava sonuna kadar tehir olunur ve bu davayı kazanırsa hakkında verilmiş olan inkar tazminatı ve para cezası kalkar” hükmü düzenlenmiş olup, alacaklının alacağını genel hükümlere göre açacağı alacak davasında davayı kazanması hâlinde icra mahkemesince aleyhine hükmedilen kötü niyet tazminatını da kaldırma hakkı bulunmaktadır.
 
 ## Yargıtay HGK 2018/1927 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470050600)
 
 Davacı vekili, davalı aleyhine Bakırköy 17. İcra Müdürlüğünün 2012/5933 Takip sayılı dosyasında başlatmış oldukları takibe davalı tarafça itiraz edildiğini, ancak itirazın haklı sebeplere dayanmadığını belirterek davalı tarafından Bakırköy 17. İcra Müdürlüğünün 2012/5933 takip sayılı dosyasına yapılan itirazın iptali ile davalı aleyhine icra inkar tazminatına hükmedilmesine karar verilmesini talep etmiştir.
 
@@ -186,6 +210,8 @@ Mahkemece, toplanan delillere dayanılarak, Bakırköy 17. İcra Müdürlüğün
 İtirazın hükmü başlığını taşıyan İİK 66. maddeye göre süresinde yapılan itiraz ile takip durur. Bu itirazın hükümden düşürülmesi için kanunda bu başlık altında düzenlenmiş olan itirazın iptali davası açılması ya da itirazın kaldırılması yoluna gidilmesi gerekir. İtirazın iptali davası ya da itirazın kaldırılması yoluyla itirazı hükümden düşüren bir karar alınmadıkça ilâmsız takibe devam edilmesi veya bu sonucu doğuracak biçimde yeni takip işlemlerinin yapılabilmesi mümkün değildir.
 
 ## Yargıtay HGK 2013/802 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77523500)
 
 Davalı vekili; davacı yanın borcun vadesi gelmeden müvekkilinin aleyhine takip başlattığını ve müvekkilince takibe itirazın yapıldığı aynı gün takibe konu asıl alacak tutarının ödendiğini, başkaca alacağı kalmadığını bildirmek, davanın reddini istemiştir.
 
@@ -238,6 +264,8 @@ yansıtılmak suretiyle iade edildiği, buna göre davacının kendi alacağı y
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 370/1 maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 12. HD 2026/1680 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209233200)
 
 Kambiyo senetlerine özgü haciz yolu ile yapılan icra takibinde borçlu yasal 5 günlük süre içinde imzaya veya borca itiraz ederse, İİK’nın 170/3. ve 169/a-5. maddeleri gereğince takip durur.İtirazın kabulü kararının kesinleşmesi, takibin iptali sonucunu doğurur ve hacizler kalkar.
 

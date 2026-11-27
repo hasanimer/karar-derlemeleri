@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2006/938 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16486100)
+
 Kabule göre de; ÜK.nun 65. maddesine dayanan gecikmiş itirazda, gecikmiş itirazda bulunacak kişi, mazeretini gösterir delillerle birlikte, esasla ilgili itirazlarını ve dayanaklarını da engelin kalktığı günden itibaren 3 gün içinde İcra Mahkemesine bildirmek zorundadır. İcra Hâkimi gecikmiş itiraz nedenlerini ve belgelerini inceleyerek, sonucuna göre bir karar verecektir. ÜK.nun 65. maddesine göre Hakim, "gecikme sebebinin mahiyetine" ve "hadisenin özelliklerine" göre, takibin tatilini tensip edebilir. Mazeretin kabulü halinde icra takibi durur. Aynı celsede alacaklı, itirazın kaldırılmasını sözlü olarak da isteyebilir. Bu takdirde tetkikata devam olunarak icra Hâkimliğince gerekli karar verilir. Somut olayda Mahkemece borçlunun gecikmiş itirazına dayanak yaptığı belgeler geçerli kabul edildiğine göre, İİK. 65/4. maddesine göre alacaklı itirazın kaldırılması yönünde bir talebi olmadığından Mahkemece mazeretin kabulü ile takibin durmasına karar verilmesi, gerekirken yazılı şekilde borçlunun yetki itirazının kabulü yönünde hüküm tesisi doğru değildir.
 
 Sonuç: Alacaklı vekilinin temyiz itirazlarının kısmen kabulü ile mahkeme kararının yukarıda yazılı nedenlerle bozulmasına …
 
 ## İstanbul BAM 12. HD 2026/723 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204854800)
 
 Süresi içinde yapılan geçerli bir itiraz ile veya gecikmiş itiraz nedeninin icra mahkemesince kabulü üzerine duran icra takibine devam edebilmek için alacaklının başvurusu ile itirazın hükümden düşürülmesi lazımdır ve bunu temin gayesiyle alacaklının ya itirazın kaldırılması için icra mahkemesine başvurması ya da genel mahkemelerde itirazın iptali davası açması gerekir. Bu doğrultuda; takip konusu alacak İİK’nın 68, 68-a maddelerindeki belgelerden birine dayanmaktaysa, alacaklı dilerse icra mahkemesinde itirazın kaldırılması, dilerse mahkemede itirazın iptali davası açma (İİK nın 67 maddesi ) yoluna gidebilir.Hem itirazın iptali davası, hem de itirazın kaldırılmasında kanun koyucu hak düşürücü süreler öngörmüş olup, bu süre itirazın kaldırılması için altı ay (İİK nın68, 68-a), itirazın iptali davası için bir yıldır (m. 67). Her ikisinde de süre ödeme emrine itirazın alacaklıya veya vekiline Kanun’un 62/2. maddesi çerçevesinde tebliğinden itibaren başlar ve tebliğ Tebligat Kanunu hükümleri çerçevesinde sağlanır.
 Alacaklı seçim hakkını mahkemede dava açmak suretiyle kullanmışsa, bu defa dava derdest iken bunu olduğu gibi bırakarak icra mahkemesinden itirazın kaldırılması yoluna başvuramaz. Hatta evvelce icra mahkemesine başvuran alacaklı, sonra mahkemeye başvurarak itirazın iptali davası açmışsa, bu davanın derdest olduğu sırada, tekrar icra mahkemesine dönerek ilk müracaatını yineleyemez. Bununla beraber önce itirazın kaldırılmasını talep eden alacaklı, bu yolu bırakarak itirazın mahkemede iptalini isteyebilecektir (Değnekli, A.: İtirazın İptali Davası, Ankara 2013, s.79)
@@ -40,9 +44,13 @@ Alacaklı seçim hakkını mahkemede dava açmak suretiyle kullanmışsa, bu def
 
 ## İzmir BAM 23. HD 2025/1673 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178559200)
+
 İzmir 6. Asliye Ticaret Mahkemesince, davanın davalı şirketin dava dışı ...bank .... Şubesinden aldığı krediye davacının müteselsil kefil olduğu, davalı şirketin borcu ödemediğinden davacı tarafından ödendiği, yapılan ödemelerin TBK 596 maddesi gereğince rücu amacıyla İzmir 7. İcra Dairesinin 2015/19410 sayılı dosyası ile genel haciz yolu ile takip yapıldığı, gecikmiş itiraz yolu ile borca itiraz edilerek takibin durdurulduğu, kredinin davacı şirket tarafından ödendiğinin banka kayıtları ile sabit olduğu bildirilerek krediyi kullanan davalı şirketten rücuan tahsili için başlatılan icra takibine itirazın iptaline yönelik olarak açıldığı, icra takibinde ve davada bankanın taraf olmadığı, davanın kefalet iç ilişkisinden kaynaklandığı nazara alındığında Finans İhtisas Mahkemesi olarak Mahkemenin görevli olmadığı, görevli Mahkemenin davanın açıldığı İzmir 3. Asliye Ticaret Mahkemesi olduğu gerekçesiyle karşı görevsizlik kararı verilmiştir.
 
 ## İzmir BAM 17. HD 2024/2270 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110843800)
 
 İzmir 1. İcra Hukuk Mahkemesinin 11/12/2019 tarihli, 2017/67 Esas, 2019/1072 Kararı ile " İzmir 7. İcra müdürlüğünün 2015/19409 esas sayılı takip dosyasından davacı-borçlu şirkete gönderilen ödeme emrinin tebliğinin usulsüz olduğunun tesbitine, ödeme emrinin öğrenme tarihinin 08/02/2016 olarak düzeltilmesine," karar verildiği, İzmir BAM 12. Hukuk Dairesinin 2020/821 esas 2021/236 karar sayılı kararı ile "borçlu şirkete kayyım atandığından davalı vekilinin davacıların aktif husumet ehliyeti bulunmadığı yönündeki iddiası yerinde görülmeyerek istinaf başvurusunun reddine karar verildiği, bu kararında temyiz edilmesi üzerine Yargıtay 12. Hukuk Dairesinin 2021/3397 esas 2021/7783 karar sayılı karar ile onandığı, usulsüz tebligat ve gecikmiş itiraz davası kararının kesinleştiği, icra takibinin durdurulduğu görülmüştür.
 
@@ -51,6 +59,8 @@ Alacaklı seçim hakkını mahkemede dava açmak suretiyle kullanmışsa, bu def
 İzmir 5. Asliye Ticaret Mahkemesi'nin 15/11/2023 Tarih,2022/852 Esas 2023/915 Karar sayılı kararın 353/(1)-a-4 ve 6. maddeleri uyarınca KALDIRILMASINA …
 
 ## İzmir BAM 11. HD 2024/1925 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088664600)
 
 Davalı vekili istinafa cevap dilekçesi ile davacının istinaf başvurusunun reddini talep etmiştir.
 
@@ -64,6 +74,8 @@ dava açıldıktan sonra mahkemece şikayetçi ortağa süre verilerek, şirkete
 İzmir 5.Asliye Ticaret Mahkemesinin 15.11.2023 tarih 2022/851 E. - 2023/914 K. sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 13. HD 2024/792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029261400)
 
 Davacı,davalı şirket aleyhine diğer ortağın babası tarafından girişilen icra takiplerinin usulsüz olarak kesinleştirildiği ve bu şekilde davalı şirketin zarar uğratıldığını iddia etmiş ise de,bilirkişi raporunda da belirtildiği gibi söz konusu takiplerin davalı şirketin diğer ortağının babasının şirkete ödünç olarak gönderdiği paraların ödenmemesi üzerine başlatıldığı,şirket kayıtlarında yer alan havalelerin dayanaklarının bulunduğu,icra takiplerinin haksız başlatılmadığı, her ne kadar bilirkişi raporunda 160.000,00 USD olarak başlatılan icra takibinde 22.02.2012 tarihinin dayanak gösterildiği, bu tarihin şirketin kuruluş tarihi olan 28.02.2012 tarihinden önceki bir tarih olduğu, keza tarihte sehven yanlışlık olsa dahi 300ç000.00 USD fazla takip başlatıldığı, yine 500.000,00 TL nin de fazla başlatılan bir takip olduğu” tespit edilmiş ise de, şirkete karşı başlatılan icra takibinde alacağın fazla gösterilmesi veya kesinleşen icra takiplerinin usulsüz olması halinin menfi tespit davasının konusunu oluşturup, bu durum tek başına şirkettin haklı nedenle feshi yada ortağın haklı nedenle şirketten çıkması/çıkarılması için bir gerekçe oluşturamaz.Bilgi alma ve inceleme hakkına ilişkin
 TTK. m.
@@ -81,6 +93,8 @@ gidilmiş olduğu değerlendirilmeksizin, şirket kayıtlarında döviz cinsinde
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b-1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 43. HD 2024/665 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1036261900)
 
 İLK DERECE MAHKEMESİ KARARI: İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, "Mahkememizce 07/11/2023 tarihinde ihtiyati tedbir talebinin reddine karar verildiği, bu ret kararının davacı vekiline 13/11/2023 tarihinde tebliğ olduğu, bu haliyle mahkememizce işbu talep yönünden daha önce karar verildiğinden ve davacı vekilince İstinaf başvurusunda bulunulmadığından ve dosya kapsamına giren yeni delil bulunmadığından talebin reddine" karar verilmiştir.Bu karara karşı ihtiyati tedbir talep eden davacı vekili tarafından istinaf başvurusunda bulunulmuştur.
 
@@ -110,6 +124,8 @@ Alacaklının talebi üzerine, 3. kişi olan davacıya gönderilen 89/1 haciz ih
 Bankası Elmadağ Şubesi'ne ait 01/12/2017 tarihli, 351.392,42 USD bedelli çekin, takip alacaklısı davalı ... vekiline, icra dosyasındaki borca istinaden düzenlendiği belirtilerek, teslim edildiği anlaşılmıştır.
 
 ## İstanbul BAM 16. HD 2022/670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/746882500)
 
 DELİLLER: \*İstanbul ...İcra Müdürlüğü'nün ... esas sayılı takip dosyasında; takibin davalı ... vekili tarafından davacı aleyhine 07.05.2011 tarihli, ... nolu faturaya istinaden 20.072,72TL'si asıl alacak, 631,33TL'si işlemiş faiz olmak üzere toplam 20.704,05TL'nin tahsili için yapılan ilamsız takip olduğu görülmüştür. \* İstanbul 11.İcra Hukuk Mahkemesinin 2012/1084 Esas - 2012/1516 Karar sayılı dosyasında; davanın davacı tarafça açılan icra memurunun işleminin şikayet istemine ilişkin olup, konusuz kaldığından bahisle karar tesisine yer olmadığına kararı ile sonuçlandığı görülmüştür. \* İstanbul 11.İcra Hukuk Mahkemesinin 2012/1002 Esas - 2012/1140 Karar sayılı dosyasında; davanın davacı tarafça icra memurunun muamelesi şikayet istemine ilişkin olduğu, ödeme emrinin usulsüz tebliğ edildiği ve tebliğ tarihinin 05.07.2012 olarak kabulünün talep edildiği, davanın gecikmiş itirazın süresinde yapılmadığından bahisle reddine karar verildiği görülmüştür.
 

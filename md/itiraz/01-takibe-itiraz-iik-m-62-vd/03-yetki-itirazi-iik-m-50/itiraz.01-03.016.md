@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 43. HD 2026/406 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202771600)
+
 Ancak sözleşme kapsamındaki karşı tarafın menfaatine aykırı genel işlem koşullarının geçerli olması, sözleşmenin yapılması sırasında düzenleyenin karşı tarafa, bu koşulların varlığı hakkında açıkça bilgi verip, bunların içeriğini öğrenme imkânı sağlamasına ve karşı tarafın da bu koşulları kabul etmesine bağlıdır. Sözleşmenin niteliğine ve işin özelliğine yabancı olan genel işlem koşulları da yazılmamış sayılır.6098 sayılı TBK'nın 20 vd. maddelerinde düzenlenen genel işlem koşullarına ilişkin hükümler tacirler hakkında da geçerli olmakla birlikte, genel işlem koşullarının TTK'nın 18/2. Maddesinde düzenlenen her tacirin, ticaretine ait bütün faaliyetlerinde basiretli bir iş adamı gibi hareket etme yükümlülüğü ile birlikte değerlendirilmesi gerekir. Konişmento ekinde taşıyanın hüküm ve koşullarına ilişkin düzenlemeler ticari hayatta yaygın olarak kullanıldığından, deniz yoluyla ihracat işiyle uğraşan yükletenin konişmentoyu kabul ettikten sonra basiretli bir iş adamı gibi konişmentodaki düzenlemeleri incelemesi ve varsa itirazlarını bildirmesi gerekir.
 Yükleten her hangi bir koşula itiraz etmeden taşıma tamamlandığına göre genel işlem koşullarının geçersiz olduğunun kabul edilmesi mümkün değildir.TTK'nın 105/2. Maddesinde, acentenin aracılıkta bulunduğu veya yaptığı sözleşmelerden doğacak uyuşmazlıklardan dolayı müvekkili adına dava açabileceği gibi, kendisine karşı da aynı sıfatla dava açılabileceği, yabancı tacirler adına acentelik yapanlar hakkındaki sözleşmelerde yer alan, bu hükme aykırı şartların geçersiz olduğu düzenlenmiştir. Bu maddenin öngörülme amacı yabancı tacirlere Türkiye’de dava açılması olanağını sağlamak ve Türkiye'de bir tebligat adresi tesis etmekten ibarettir(TTK 105. Madde gerekçesinden). Bahsi geçen düzenleme esasında acentenin aracılık ettiği sözleşmelere ilişkin olarak açılacak bir davada müvekkilini aktif ve pasif temsil yetkisine ilişkindir. Bu hüküm emredici nitelikte olup, düzenlemeye konu temsil yetkisini kaldıran sözleşme hükmü geçersiz olacaktır.
 
@@ -31,6 +33,8 @@ Maddeleri uyarınca davaya konu uyuşmazlık ve bu uyuşmazlıkta yetkili mahkem
 Bu nedenle ilk derece mahkemesince milletlerarası yetki itirazı kabul edilerek davanın usulden reddine karar verilmesi gerekirken işin esasına girilerek karar verilmesi doğru görülmemiştir.HMK'nın 355. maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılan istinaf incelemesi sonunda; ilk derece mahkemesince eldeki davada Türk Mahkemelerinin yargı yetkisinin bulunduğu kabulü ile işin esasına girilerek karar verilmesi doğru görülmemiş ve bu nedenle davalı ... vekili ile birleşen dosya davalısı ... 'ye izafeten ... A.Ş. vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına, yeniden yargılama yapılmasına gerek bulunmadığından Dairemizce ilk derece mahkemesi kararı düzeltilerek yeniden esas hakkında, kararın kaldırılma sebebine göre davacı ... A.Ş. Vekili ve birleşen dosya davalısı... A.Ş. vekilinin istinaf başvuruları incelenmeksizin aşağıdaki şekilde karar verilmiştir.
 
 ## İstanbul BAM 17. HD 2026/396 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202612700)
 
 Davacı vekili dava dilekçesinde özetle; davalı, müvekkili şirketle 11-14 Kasım 2023 tarihleri arasında düzenlenen ...Fuarı’na katılım sözleşmesi ve reklam sözleşmesi yaptıklarını, sözleşmeyle ödemeyi taahhüt ettiği reklam sözleşmesi bedelini bugüne kadar ödemediğini, müvekkili alacağı için yapılan icra takibi de davalının itirazı üzerine durduğunu, davalının itirazı haksız olduğunu ileri sürerek dilekçesinde bildirmiş olduğu diğer nedenlerle; öncelikle davalının itirazının iptaline, haksız itiraz nedeniyle müvekkili lehine %20’dan aşağı olmamak üzere inkâr tazminatına hükmedilmesine karar verilmesini talep ve dava etmiştir.
 
@@ -55,6 +59,8 @@ Taraflar arasında imzalanan 12.05.2023 tarihli katılımcı kira sözleşmesini
 
 ## İstanbul BAM 3. HD 2026/354 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196582100)
+
 Davacı vekili dava dilekçesinde özetle ; taraflar arasında ...... Hizmet numaralı abonelik sözleşmesi akdedildiğini, davalı tarafça abonelik sözleşmesine uygun olarak tahakkuk ettirilen hizmet bedellerinin sözleşmeye aykırı şekilde ödenmediğini, müvekkili şirket tarafından ilgili bedellere ilişkin icra takibi başlatıldığını, Merkezi Takip Sistemi... E. sayılı dosya üzerinden ödenmeyen fatura bedelleri ve bu bedellere işlemiş gecikme faizleri talep edildiğini, başlatılan bu takibe davalı tarafından haksız olarak itiraz edildiğini ve bu itiraz neticesinde söz konusu takibin durdurulduğunu, davalı tarafından borca itiraz dilekçesinde yetkiye de itiraz edildiğinden ilgili dosyanın Diyarbakır İcra Dairesi'ne gönderilmiş olup ...
 
 …
@@ -66,6 +72,8 @@ Söz konusu bedellere ilişkin müvekkil şirket tarafından takip başlatılmı
 başlatılmış olan icra takibi ve takibe yapılmış olan itiraz esas alınmak suretiyle, ödeme emri düzenlenmeksizin ve borçluya tebliğ edilmeksizin önceki takibin devam ettirilmiş olması usul ve yasaya aykırı olmuştur. 7155 sayılı Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanun'un ilgili maddelerinde açıklandığı üzere, davacı tarafından yapılan geçerli bir takip dosyası bulunmadığı anlaşılmaktadır.Böylece ,mahkemece verilen kararda maddi vakıa ve hukuki denetim yönlerinden usul ve hukuka aykırılık bulunmadığı anlaşılmakla, davacı tarafın istinaf talebinin reddine karar verilmesi gerekmiştir.
 
 ## Adana BAM 9. HD 2026/332 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195998900)
 
 Davalı vekili cevap dilekçesinde özetle; kabul anlamına gelmemek kaydıyla dava konusu alacağın zaman aşımına uğramış olduğunu, alacağın yetkisiz icra müdürlüğün de ve yetkisiz mahkemede dava konusu edildiğini, ihtarnamenin usulüne uygun şekilde tebliğ edilmemesinden ötürü davacının takipten önceki dönem için faiz talep edemeyeceğini, davacının haksız olarak açtığı davanın red edilmesi gerektiğini, açıklanan nedenlerle yetkisiz icra müdürlüğün de açılan icra dosyası hakkında yetkisizlik kararı verilerek dosyanın Gebze Adliyesi İcra Müdürlüğü ve Mahkemelerine gönderilmesini, davanın reddine karar verilmesini %20'den aşağı olmamak üzere kötü niyet tazminatına hükmedilmesini, yargılama masrafları ve vekalet ücretinin de davacı tarafa tahmiline karar verilmesini talep etmiştir.
 
@@ -86,6 +94,8 @@ Maddesinin" satın alınacak araç yetkili bayiden satış fiyatı ve vergileriy
 
 ## İzmir BAM 11. HD 2026/285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195377500)
+
 Dava, bonoya dayalı takip nedeniyle avalistin takip alacaklısına yaptığı ödemenin rucuen tahsili amacıya yapılan takibe vaki itirazın iptali istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -100,6 +110,8 @@ Davalı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 
 
 ## Adana BAM 9. HD 2026/269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195996200)
+
 Dava, icra takibine yapılan itirazın iptali istemine ilişkindir.
 
 Davacı tarafından, davalıya ait 750 kap eşyanın, 24/07/2018 tarihinde ambarlara alındığı, eşyaların bir kısmının 14/08/2018, bir kısmının ise 30/03/2020 tarihinde ambarlardan çıkışının yapıldığı, davalıya verilen bu hizmet karşılığı düzenlenen 568.094,07.TL fatura bedelinin 92.802,00.TL'lık kısmının ödendiği, bakiye fatura alacağının ise ödenmediği iddia edilmiş, davalı tarafından cevap dilekçesi sunulmamış, mahkemece yazılı gerekçe ile davanın kısmen kabulüne karar verilmiştir.
@@ -111,6 +123,8 @@ Maddesi gereğince alacaklının yerleşim yerindeki icra dairesinin yetkili olu
 edildiği, bilirkişi raporunun, tüm dosya kapsamına uygun ve hüküm kurmaya yeterli bulunduğu, davacının, dava ve takip konusu fatura içeriğindeki hizmeti verdiğini yazılı delil ile ispatladığı, davalı tarafından, bakiye fatura alacağının ödendiğinin ise ispatlanamadığı, bu nedenle, mahkemece, bilirkişi raporunda tespit edilen miktar üzerinden davanın kısmen kabulüne karar verilmiş olmasının usul ve yasaya uygun olduğu, davalı vekilinin aksi yöndeki istinaf sebeplerinin ise yerinde olmadığı anlaşılmıştır.
 
 ## İstanbul BAM 17. HD 2026/174 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194847400)
 
 Mahkemece; itirazın iptali davasında usulüne uygun olarak başlatılmış ve itirazla durmuş bir takibin varlığının dava şartı olduğu, 6100 sayılı HMK'nın 115. maddesi uyarınca dava şartının varlığı yargılamanın her aşamasında mahkemece re'sen gözetilmesi gerektiği, somut olayda ödeme erminin tebliğ edilmeyişi ile birlikte durmuş bir takipten bahsedilemeyeceği gerekçesi ile davanın usulden reddine karar verilmiştir. Mahkeme gerekçesinin sonunda "Davanın usulden reddine karar verilmesine rağmen kısa kararda sehven icra inkar tazminatına hükmedilmiş olup, kısa karar ile gerekçeli karar arasında çelişki olmaması adına sadece bu hususa değinilmekle yetinilmiştir." ifadesine yer verilmiştir.
 
@@ -128,6 +142,8 @@ Bu durumda, icra takibine itirazın iptaline yönelik iş bu davada özel dava �
 Maddesinde açıkça belirtildiği üzere, davanın esastan reddine karar verilmesi ve talep halinde davalı lehine kötüniyet tazminatı şartlarının oluşup oluşmadığı değerlendirilebilecektir. Somut olayda, davanın, özel dava şartı yokluğu nedeniyle usulden reddine karar verildiğinden, davanın usulden reddi halinde bu hükmün uygulama olanağı bulunmamaktadır. Bu durumda davalının kötüniyet tazminat talebinin reddine karar verilmesi gerekir. Bu nedenle Dairemizce yeniden kurulan hükümde davalının kötüniyet tazminatı talebinin reddine karar verilmiştir. Açıklanan nedenler ile davacı vekilinin istinaf başvurusunun yukarıda açıklanan nedenler ile kabulü ile ilk derece mahkemesi kararının kaldırılmasına ancak yeniden yargılama yapılmasına gerek olmadığından, yeniden esas hakkında aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İzmir BAM 14. HD 2026/152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192099700)
 
 Davacı vekili tarafından verilen dava dilekçesi ile özetle; Müvekkili şirketin uzun zamandır inşaat sektöründe faaliyet gösterdiğini, yürütmekte olduğu inşaat işi sebebiyle, inşaatta kullanılacak malzemelerin temini için 02.09.2023 tarihinde karşı taraf ile "Kazan Tesisat Yerden Isıtma Klima Yapım Sözleşmesi" başlıklı sözleşme imzaladığını, taraflar arasında kurulan ticari ilişki gereği karşı tarafın müvekkili şirkete sözleşmede belirtilen ürünleri sözleşmenin 2 inci maddesi gereği müvekkıline ait adreste teslim ve montaj yapmayı taahhüt ettiğini, ürünlerin bedelinin karşı tarafa ödendiğini, karşı tarafın ise ürünleri teslim etmediği gibi montajın da yapılmadığı, müvekkilinin ... Mah. .../.... Sk. ....
 
@@ -151,6 +167,8 @@ Karşıyaka Asliye Ticaret Mahkemesi'nin 17.11.2025 tarih ve 2025/737 Esas, 2025
 
 ## Sakarya BAM 5. HD 2026/120 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190356300)
+
 Davalı vekili cevap dilekçesinde özetle;
 
 …
@@ -160,6 +178,8 @@ Her ne kadar yetki sözleşmesinde icra takiplerinin yapılacağı yer konusunda
 
 ## İstanbul BAM 13. HD 2026/120 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196292800)
+
 Davalının (borçlunun) birden fazla olması halinde bunlardan birinin yerleşim yeri mahkemesinde dava (takip) açılabilir. Ancak, dava sebebine göre Kanun'da davalıların tamamı hakkında ortak yetkiyi taşıyan bir mahkeme belirtilmiş ise, davaya o yer mahkemesinde bakılır. Birden fazla davalının bulunduğu hallerde, davanın, davalılardan birini sırf kendi yerleşim yeri mahkemesinden başka bir mahkemeye getirmek amacıyla açıldığı, deliller veya belirtilerle anlaşılırsa mahkeme, ilgili davalının itirazı üzerine onun hakkındaki davayı ayırarak yetkisizlik kararı verir. Somut olayda davalılarla ... arasındaki sözleşme ve davalıların ortaklık yapısı nedeniyle HMK. 57 madde kapsamında ihtiyari dava arkadaşlığı bulunduğu, İİK'nın 50.maddesi yollamasıyla HMK'nın 6. ve 7. maddeleri gereğince İstanbul İcra Müdürlüğü yetkili olduğundan tüm davalılar yönünden takibin yetkili icra müdürlüğünde yapıldığının kabulü gerekir.
 Bu nedenle mahkemece 10/06/2021 tarihli duruşmanın ara kararı ile davalılar vekilinin yetki itirazının reddine karar verilmesi usul ve yasaya uygun olduğundan, davalılar vekilinin yetkili icra müdürlüğünde takip yapılmadığına yönelik istinaf sebepleri yerinde görülmemiştir.Davalılar vekilinin mahkemenin kabulüne yönelik istinaf sebepleri incelendiğinde ... tüm dünyada tarifeli havayolu taşıyıcılarının temsil edildiği bir birlik olduğu, davacı havayolu şirketi ile dava dışı ... Taşımacılığı Birliği (...) arasında imzalanan sözleşme çerçevesinde davacı havayolu şirketi ... sistemine üye olmayı ve ... Birliği’nin ... sitemine üye olan acentelerin davacı havayoluna ait biletleri satmasını kabul etmiştir.Davalı ...ile dava dışı ... arasında 01.02.2013 tarihli, Davalı ...Ş. İle dava dışı ... arasında 26.10.2016 tarihli, Davalı ... A.Ş. İle dava dışı ... arasında ise 04.04.2013 tarihli acentelik anlaşması imzalandığı, Bu anlaşmaların 3.1.
 
@@ -168,6 +188,8 @@ Bu nedenle mahkemece 10/06/2021 tarihli duruşmanın ara kararı ile davalılar 
 Davalıların istinaf başvurularının 6100 sayılı HMK' nın 353/1-b1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İzmir BAM 14. HD 2026/116 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192900600)
 
 Davacı vekili tarafından verilen dava dilekçesi ile özetle; davacının “....AVM Projesi” kapsamında, dava dışı iş sahibi ... A.Ş. ile “İnce İmalat İşleri Taahhüt Sözleşmesi” imzalandığını, yüklenici olduğu projede kule vinç işlerinin davalı firma tarafından sağlanması konusunda tarafların anlaşmış olmasına ve defalarca talep edilmesine rağmen davalının yazılı bir sözleşme imzalamadığını, 07.10.2015 günü saat 06.10 sıralarında kule vinci kullanan davalı firma operatörünün dikkatsizliği neticesinde gaz beton paletinin TLS platformuna çıkarılması sırasında gaz beton paletinin platforma çarptırılması sonucu 5-6 adet gaz betonun açılır cam çatıya düşerek zarar verdiğini, dava dışı işveren tarafından müvekkilinin hak edişinden 154.213,44-TL kesinti yapılarak zararın müvekkilinden tahsil edildiğini, davacı tarafından keşide edilen Kemalpaşa 1.
 

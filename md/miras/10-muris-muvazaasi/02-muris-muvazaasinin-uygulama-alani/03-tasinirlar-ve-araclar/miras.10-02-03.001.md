@@ -39,6 +39,8 @@ Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, mümkün o
 
 ## Yargıtay 1. HD 2025/5199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186130600)
+
 Dava, muris muvazaasına dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -46,6 +48,8 @@ Dava, muris muvazaasına dayalı tapu iptali ve tescil istemine ilişkindir.
 Hâl böyle olunca, mirasbırakanın kadastro tespitinden önce ölmesi halinde, kadastro tespitinden önce miras hakkı sahibi olan davacılar tarafından kadastro öncesi nedene dayanılmış olacağı, somut olayda mirasbırakanın kadastro tespitinden sonra ölmüş olması ve davacıların bu tarihten sonra mirasçılık sıfatını kazanmaları nedeniyle 3402 sayılı Yasa'nın 12/3. maddesinde öngörülen hak düşürücü sürenin uygulanamayacağının gözetilmesi, ancak davaya konu taşınmazın kadastro tespitinden önce tapusuz ve taşınır hükmünde olup mirasbırakan tarafından davalıya devredilen tapulu bir taşınmazın bulunmadığı, bu nedenle muris muvazaasına ilişkin Yargıtay İçtihadı Birleştirme Büyük Genel Kurulunun 01.04.1974 tarihli, 1/2 sayılı Yargıtay İçtihadı Birleştirme Kararının bu davada uygulanamayacağı dikkate alınarak davanın bu nedenle esastan reddedilmesi gerekirken yazılı gerekçeyle hüküm kurulması doğru değildir.
 
 ## Yargıtay 1. HD 2024/1043 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1032226600)
 
 Dava, kadastro öncesi nedene dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -55,17 +59,25 @@ Hemen belirtmek gerekir ki; dava konusu taşınmazların ortak mirasbırakan ...
 
 ## Yargıtay 1. HD 2023/3075 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933691800)
+
 TBK'nın 19. maddesi hükmünde düzenlenen genel muvazaa ilkelerine göre dava konusu araç yönünden tüm dosya içeriğinin birlikte değerlendirilmesi ve sonucuna göre bir karar verilmesi gerekirken yazılı şekilde karar verilmesi isabetsiz olup bozmayı gerektirmektedir.
 
 ## Yargıtay 1. HD 2021/2694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680781000)
 
 Asıl ve birleştirilen Salihli 1. Asliye Hukuk Mahkemesinin 2012/49 Esas, Salihli 2. Asliye Hukuk Mahkemesinin 2011/832 Esas sayılı davaları muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, birleştirilen Salihli 2. Asliye Hukuk Mahkemesinin 2011/718 Esas (bozmadan sonra 2018/376 Esas) sayılı davası TBK 19. maddesine dayalı araç satışı ve hat devir işleminin iptali istemine ilişkindir.
 
 ## Yargıtay 4. HD 2020/2139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/590534600)
+
 Yukarıda yapılan açıklamalar ışığında; miras bırakan tarafından davalıya devredilen 48 HY 013 plaka sayılı araç bakımından yapılan işleme gelince, dava konusu menkul mal niteliğinde olup, muris muvazaasıyla ilgili 1/4/1974 günlü ve 1/2 sayılı İçtihadi Birleştirme Kararının tapulu taşınmazların satışıyla ilgili ve konusuyla sınırlı olması nedeniyle, uyuşmazlık konusu olayda araçla ilgili temlikin anılan İçtihadı Birleştirme Kararı kapsamında mütalaa edilmesine olanak yoktur. Anılan İçtihadı Birleştirme Kararı, sadece miras bırakanın tapulu taşınmazlarının devir ve temliklerinde yapmış olduğu muvazaalı işlemler için geçerlidir. 2918 sayılı Kanun gereğince trafik siciline tescili zorunlu araçlar dışındaki araçlar ve taşınır mallar ile tapuya kayıtlı olmayan taşınmazların temliklerinde ise gizli bağış sözleşmesi şekle bağlı olmayıp geçerlidir ve zilyetliğin devri ile mülkiyet karşı tarafa geçmektedir.
 
 ## Yargıtay 1. HD 2018/13650 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/453852700)
 
 Dava, muris muvazaası hukuksal nedenine dayalı pay oranında tapu iptal ve tescil isteğine ilişkindir.
 

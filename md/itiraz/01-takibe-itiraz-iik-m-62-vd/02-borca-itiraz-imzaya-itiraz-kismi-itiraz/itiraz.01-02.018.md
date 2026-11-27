@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 45. HD 2023/432 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887197400)
+
 İcra Hukuk Mahkemesinde 2010/1394 esas sayılı imzaya itiraz davası açıldığı, yapılan yargılamada," 20.12.2010 tarih ve 2010/2615 sayılı kararla, takibe konu çek üzerinde yapılan bilirkişi incelemesinde, çek arkasındaki ... kaşesi üzerindeki imzanın, şirket yetkilisi ...' nin eli ürünü olmadığı, ... isimli biri tarafından imza edilip verildiği, çekteki imzanın borçlu davacı şirket yetkilisinin eli ürünü olduğunu kontrol etmeden ya da imzaların huzurunda atılmasını sağlamadan çekin alan alacaklı imzaya itirazı kabul edilen davacı şirkete karşı başlattığı takipte ağır kusurlu kabul edilmesi gerektiği" gerekçesiyle davanın kabulü ile takibin devamına, alacaklının takip konusu asıl alacağın %20'si nispetinde icra inkâr tazminatına ve %10'u oranında da para cezasına mahkûm edilmesine karar verildiği, verilen kararın temyiz edilmesi üzerine Yargıtay 12. Hukuk Dairesi'nin 24/10/2011 tarih 2011/4425 E. 2011/19724 K. Sayılı ilamı ile onama kararı verildiği görülmüştür. Davalı şirket yetkilisi ... hakkında resmi belgede sahtecilik, tacir veya şirket yöneticilerinin dolandırıcılığı suçuna istinaden kamu davası açıldığı, İstanbul 18. Ağır Ceza Mahkemesi'nin 12/02/2016 tarih 2012/349 E.
 2016/29 K. Sayılı ilamı ile " suç tarihinde ... Tic. Ltd. Şti. Ortağı ve yetkilisi olan sanık ...'nin daha önceden doğan şirket borcundan dolayı suça konu olan ve sahte olarak ciro edilen (şirket yetkilisi sanık tarafından imza edilmeden) 05/04/2010 keşide tarihli 23.300-USD tutarlı suça konu çeki ... Tic. Ltd. Şti.ye verdiği, suça konu çekteki cirodaki imzanın sahte olması nedeniyle sanığın üzerine atılı resmi evrakta sahtecilik suçunun sübut bulduğu, aksi yöndeki savunmalarının kendisini cezadan kurtarmaya yönelik olduğu vicdani kanaatine varılarak sanığın resmi evrakta sahtecilik suçundan sabit olan eylemine uyan TCK.nun 204/1, 62/1 maddeleri gereğince cezalandırılmasına, yasal şartların oluşması nedeniyle CMK.nun 231.
 
@@ -33,6 +35,8 @@ Maddesi gereğince sanık hakkında hükmün açıklanmasının geri bırakılma
 B)BİRLEŞEN İSTANBUL 6. SULH HUKUK MAHKEMESİ'NİN 2011/133 ESAS SAYILI DOSYASI YÖNÜNDEN 1-)Davanın KABULÜ İLE; 19.000 TL'nin davalıdan alınarak davacı yana ödenmesine 2-)Davacının İstanbul 8. İcra Hukuk Mahkemesi'nin 20.12.2010 tarih 2010/1394 E-2010/2615 K sayılı ilamı ile aleyhine hükmedilen %20 oranında icra inkar tazminatı ile yargılama giderinin iptaline dair istemin reddine 3-)Davacının İstanbul 8. İcra Hukuk Mahkemesi'nin 20.12.2010 tarih 2010/1394 E-2010/2615 K sayılı ilamı ile aleyhine hükmedilen %10 oranında para cezasının iptali yönündeki talebi hakkında karar verilmesine yer olmadığına …
 
 ## Ankara BAM 27. HD 2023/344 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878471000)
 
 Davacı vekili: Taraflar arasında, davalının iş yerinin tadilat işlemlerinin yapılması için sözlü olarak anlaşma yapıldığını, anlaşma gereğince müvekkili tarafından yapımı taahhüt edilen tadilat işlemlerinin tamamlanarak davalıya teslim edildiğini, teslimden sonra müvekkilinin toplamda 71.567,00 TL tutarlı faturayı düzenlediğini, davalının fatura bedeline karşılık müvekkiline 43.306,82 TL ödeme yaptığını, kalan bedelin ödenmemesi üzerine müvekkilinin Eskişehir 8.
 
@@ -54,6 +58,8 @@ Davaya konu olayda ihtiyati haciz talebinde bulunan davacı şirket tarafından 
 
 ## Ankara BAM 22. HD 2023/265 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877751500)
+
 Davalı vekili, müvekkili ile davacı taraf arasında herhangi bir ticari ilişkinin bulunmadığını, müvekkili tarafından davacıya düzenlenmiş çek bulunmadığını, ancak davacı tarafın dava dilekçesinde çekle ilgili bir kısım açıklamalarda bulunduğunu, bu açıklamalardan hareketle iddia edilen çekin kambiyo vasfında olmadığını, müvekkiline yönelik de usulüne uygun bir kambiyo takibi yapılamadığını, ciro silsilesinin de bozulduğunu, çünkü yine davacının iddiasıyla hareket edildiğinde hakkında tedbir olan şirket yetkilisi tarafindan yapılan borçlandırıcı işlemin kabul görmeyeceğinin aşikar olduğunu, ayrıca keşideci ve diğer cirantalara karşı takip ve dava yoluna başvurulmadan doğrudan müvekkiline dava açmanın hukuka aykırı olduğunu, alacaklı olduğunu iddia eden tarafın bu durumu ispatla külfetli olduğunu, davacı tarafça talep edilen faiz türü ve işlemiş faiz miktarının çok fahiş olduğunu ve reddi gerektiğini, temerrüt koşullan oluşmadığından işlemiş faiz talep edilemeyeceğini bildirerek davanın reddini istemiştir …
 
 …
@@ -69,6 +75,8 @@ Dava, kambiyo senedinden kaynaklanan alacağın tahsili talebi ile başlatılan 
 Kaldı ki, davalı çekteki imzaya itiraz etmemiş olup, kendisinden sonra gelen cirantanın imzasının sıhhatine itiraz ettiği dosya içeriğinden anlaşılmaktadır. TTK'nın 677. maddesinde düzenlenen imzaların istiklali prensibine göre çek üzerindeki imzaların geçersizliği diğer imzaların geçerliliğini etkilemez. Buna göre, davalının kendi imzası dışındaki imzaların geçersizliğini ileri süremeyeceğinden geçerli bir ciro silsilesine göre çeke hamil olan davacının yetkili hamil olduğunun kabulü gerekir.
 
 ## Ankara BAM 22. HD 2023/175 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/869914500)
 
 Davalı cevap dilekçesi sunmamıştır.
 
@@ -90,10 +98,14 @@ Dayanak Kayseri 1. İcra Müdürlüğünün 2017/4541 Esas sayılı takip dosyas
 
 ## İstanbul BAM 3. HD 2022/3040 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829966800)
+
 E. sayılı dosyasına davalı tarafça yapılan kısmi itirazın asıl alacak yönünden iptali ile, takibin 43.556,07 TL asıl alacak üzerinden devamına, asıl alacağa takip tarihinden itibaren avans faizi işletilmesine, 2-Davacının icra inkar tazminatının talebinin kabulü ile asıl alacak miktarı 43.556,07 TL'nin %20'si oranında belirlenecek olan tazminatın davalıdan tahsili ile davacıya ödenmesine" karar verilmiş,kararı davalı vekili istinaf etmekle Dairemizin 2018/401 E.2019/1358 K.ve 17/09/2019 tarihli ilamı ile, " Davalının istinaf başvurusunun kabulü ile HMK 353/1-a-6 maddesi gereğince kararın kaldırılarak yargılamada hiç toplanmadan ve hiç değerlendirilmeden karar verilmekle, iş emirleri incelenerek ve fatura kapsamları ile karşılaştırılarak uyumlu olup olmadığı, fatura konusu hizmetin verilip verilmediği, hangi hizmet için sigortadan tahsilat yapıldığı ve kayıtlara işlendiği konusunda uzman teknik, otomotiv ve makine bilirkişileri marifetiyle davaya konu olan araçla ilgili inceleme yapılarak elde edilecek sonuçların, tarafların ticari defterleri ile birlikte incelenmesiyle taraflar arasındaki ilişki uyarınca gerekli tamir ve bakım hizmetinin verilip verilmediği, verildi ise hizmet
 bedelinin ne olduğu tespit edilerek, varılacak sonuca göre bir karar verilmesi için dosyanın ilk derece mahkemesine gönderilmesine" karar verilmiştir. Devam eden yargılama bilirkişi kök ve ek raporların alındığı anlaşılmıştır.
 
 ## Erzurum BAM 3. HD 2022/2174 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856035700)
 
 Davalı vekili cevap dilekçesi sunmamıştır.
 
@@ -110,6 +122,8 @@ Hükme esas alınan bilirkişi raporunda bilirkişi 9.247,93 TL borç tahakkuk k
 Davalı vekilinin istinaf isteminin KABULÜ ile, Erzurum Asliye Ticaret Mahkemesi 'nin 18/06/2020 tarih ve 2018/376 Esas, 2020/172 Karar sayılı kararının, HMK’nın 355, 353/(1)- a-6. maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 3. HD 2022/1790 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/780961200)
 
 Davacı vekili dava dilekçesinde özetle; Müvekkili şirket tarafından davalı borçlunun araç bakım onarımı işlemlerinden kaynaklanan alacağın tahsili için İzmir 24. İcra Müdürlüğü'nün ... Esas sayılı dosyası ile icra takibi yapıldığı, davalının yetkiye ve borca itiraz etmesi üzerine dosyanın İstanbul'a gönderilerek İstanbul 3.
 
@@ -137,6 +151,8 @@ Dosyada mevcut 20/05/2019 tarihli arabuluculuk tutanağı incelendiğinde, daval
 
 ## İstanbul BAM 12. HD 2022/1615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838238900)
+
 İLK DERECE MAHKEMESİ KARARI : Mahkemece, 4 nolu celsede bilirkişi raporunda belirtilen eksik belgelerin sunulması için davacı vekiline son kez ihtaratlı süre verilmesine rağmen eksik belgeler sunulmadığından 13/02/2019 tarihli mali bilirkişi raporunda tespiti edilebilen 2.264,38 TL üzerinden takibin devamına,takip tarihinden itibaren avans faizi işletilmesine, fazla istemin reddine,icra inkar tazminatının davalıdan tahsiline karar verilmiştir.
 
 …
@@ -148,6 +164,8 @@ ibraz edildiği ve bilirkişi tarafından sunulan belgelerin yetersiz olup hangi
 HÜKÜM: Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 40. HD 2022/1540 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/806484000)
 
 Dava, trafik kazası nedeniyle otomobilde meydana gelen hasarın giderilmesi için kasko sigortacısı şirkete karşı başlatılan icra takibine yapılan itirazın iptali istemine ilişkindir.
 
@@ -161,6 +179,8 @@ Kadıköy ...'inci Noterliğinde 17/4/2015 günü düzenlenen ... yevmiye numara
 KARAR: Gerekçesi yukarıda açıklandığı üzere:1-Davacı vekilinin yukarıda esas ve karar numarası yazılı ilk derece mahkemesinin hükmüne yönelik istinaf başvurusunun, HMK'nin 353/1-b/1'inci maddesi gereğince esastan reddine …
 
 ## İstanbul BAM 14. HD 2022/1527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840645800)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda; "...Raporda açıklandığı üzere, bilirkişi tarafından kendisine verilen yetki çerçevesinde davalının Genel Merkezinde inceleme yapılmış, alacak iddiasına ilişkin dayanak belgeler bilirkişi incelemesine sunulamamıştır.
 
@@ -178,6 +198,8 @@ Asliye Ticaret Mahkemesinin 2007/229 Esas, 2011/237 Karar ve 30.05.2011 tarihli 
 HÜKÜM: Yukarıda açıklanan gerekçelerle;1-HMK'nın 353/1.b.1.maddesi uyarınca, davacı vekilinin istinaf başvurusunun esastan reddine …
 
 ## İstanbul BAM 12. HD 2022/1526 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/820414400)
 
 İLK DERECE MAHKEMESİ KARARI: Mahkemece, somut olayda yetkisizlik itirazı ve alacaklı vekilinin talebi üzerine dosyanın geldiği İstanbul Anadolu Dairesince davalı borçluya davadan önce ödeme emri çıkarılmadığı, itirazın iptali davalarında HMK 114/2 gereği usulüne uygun gönderilmiş ödeme emri ve bu ödeme emrine karşı süresinde itiraz edilmiş olmasının dava şartı olduğu ve bu dava şartı giderilebilir bir dava şartı olmadığı gerekçesiyle davanın dava şartı yokluğundan usulden reddine karar verilmiştir.
 

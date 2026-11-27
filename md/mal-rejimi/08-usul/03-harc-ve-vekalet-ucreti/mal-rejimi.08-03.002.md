@@ -22,12 +22,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2023/3225 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981173300)
+
 İlk Derece Mahkemesinin yukarıda başlıkta tarih ve sayısı belirtilen kararı ile, asıl konuda tasfiye konusu 126 ada 1 parselde kayıtlı taşınmazın 27.03.2009 tarihinde, 82 ada 15 parselde kayıtlı taşınmazın 08.05.2009 tarihinde ve 3397 ada 7 parselde kayıtlı taşınmazın 22.04.2009 tarihinde davalı-davacı erkek adına tescil edildiği, taşınmazların iktisap edildiği tarih edinilmiş mallara katılma rejimi sırasında olduğundan ... kadının katılma alacağı olduğu; tanık anlatımları, dosyaya sunulan evraklar, Mahkemece yaptırılan keşif ve karara esas alınan 25.10.2017 havale tarihli bilirkişi raporuna göre ... kadının 126 ada 1 parselde kayıtlı taşınmaz yönünden 18.817,57 TL, 182 ada 15 parselde kayıtlı taşınmaz yönünden 14.113,18 ve 3397 ada 7 nolu parselde kayıtlı taşınmaz yönünden 22.452,66 TL katılma alacağının olduğu; bankadaki paralar yönünden talebin ise değer artış payı alacağı niteliğinde olduğu; tanık beyanları, tarafların UYAP entegrasyon ve SGK kayıtları, tarafların sosyal - ekonomik durum araştırması, karara esas alınan 25.10.2017 havale tarihli bilirkişi raporu ile dosyadaki evraklar dikkate alındığında bankadaki paralar nedeniyle değer artış payı alacağın talebinin kabulü ile
 385.574,00 TL değer artış payı alacağının olduğu, talepten fazlaya karar verilemeyeceğinden ıslah dilekçesinde talep edilen 267.609,82 TL değer artış payı alacağının kabulüne karar verilmesi gerektiği; birleşen davada tasfiye konusu taşınmazların 2002 yılından önce edinilmiş olduğu, 5309 ada 22 parselde kayıtlı taşınmazın 09.04.1992 tarihinde (işbu taşınmaz 23.12.02.2008 tarihinde davalı-davacı erkeğin vekâleten hareket ile annesine satış yaptığı, ... kadın tarafından açıları davanın yapılan yargılaması sonucunda tapunun iptali ile ... kadın adına tesçiline karar verildiği ve taşınmazın 08.08.2011 tarihinde hükmen ... kadın adına tescil edildiği), 827 parselde kayıtlı taşınmazın 12.03.1997 tarihinde (işbu taşınmazın 10.09.2009 tarihinde bizzat hareketle taşınmazın tamamının satıldığı) ve 2387 ada 4 parsel 4 nolu bağımsız bölümün 12.08.1993 tarihinde (işbu taşınmaz 23.12.02.2008 tarihinde davalı-davacı erkeğin vekâleten hareket ile annesine satış yaptığı, ... kadın tarafından açıları davanın yapılan yargılaması sonucunda tapunun iptali ile ... kadın adına tesçiline karar verildiği ve taşınmaz 08.08.2011 tarihinde hükmen ... kadın adına tescil edildiği) ... kadın adına tescil
 edildiği; ... kadın her ne kadar söz konusu taşınmazları babasından kalan miras parası ile aldığını ve kişisel malı olduğunu iddia etmiş ise de, davalı-davacı erkeğin tanıklarının anlatımlarında ... kadının tasfiye konusu edilmeyen başka bir taşınmazı miras parası ile aldığını belirttikleri, taşınmazların 1992,1993 ve 1997 tarihlerinde ayrı ayrı zamanlarda alınmış olmaları gözetilerek ... kadının kişisel malı olmadıkları ve tarafların birlikte tasarruf etmeleri sonucu evlilik birliği içerisinde alınmış mallardan oldukları, tarafların her ikisinin de matematik öğretmeni olarak çalışıyor bulunmaları ve davalı-davacı erkeğin gelirinin % 40'ı oranında katkıda bulunacağı, taşınmazların dava tarihi itibariyle belirlenen değerleri üzerinden karara esas alınan 25.10.2017 havale tarihli bilirkişi raporunda ayrıntılı olarak açıklandığı üzere davalı-davacı erkeğin toplam 103.960,00 TL katkı payı alacağının olduğu, katkı payı alacağının 30.000,00 TL'lik kısmının dava, kalan kısmının ıslah tarihi olan (ıslah harcının yatırıldığı tarih olan) 09.11.2017 tarihinden itibaren yasal faiz uygulanması gerektiği gerekçesiyle; asıl davanın kısmen kabulüyle, 126 ada 1 parselde kayıtlı taşınmaz yönünden
 18.817,57 TL, 182 ada 15 parselde kayıtlı taşınmaz yönünden 14.113,18 TL, ve 3397 ada 7 parselde kayıtlı taşınmaz yönünden 22.452,66 TL katılma alacağının; bankadaki paralar yönünden de 385.574,00 TL değer artış payı alacağının davalı tarafça davacı kadına ödenmesine ve fakat talepten fazlaya karar verilemeyeceğinden ıslah dilekçesinde talep edilen 267.609,82 TL değer artış payı alacağının tahsiline; birleşen davanın kabulüyle taşınmazlar yönünden toplam 103.960,00 TL katkı payı alacağının 30.000,00 TL'lik kısmının dava, kalan kısmının ıslah tarihi olan (ıslah harcının yatırıldığı tarih olan) 09.11.2017 tarihinden itibaren yasal faizi ile tahsiline karar verilmiştir.
 
 ## Yargıtay 2. HD 2023/3046 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981159300)
 
 1315 plaka sayılı aracın 10.07.2002 tarihinde davalı-davacı erkek adına tescil edildiği, 30.12.2008 tarihinde satıldığı, araç yönünden de edinilmiş mallara katılma rejiminin geçerli olduğu, taraf beyanlarına göre ... kaıdnın evlilik öncesi malik bulunduğu bir aracın satımından gelen paranın işbu araç alınırken kullanıldığı, bu sebeple davacı-davalının değer artış payı alacağının da bulunduğu, araç yönünden tarafların talep ve yatırdıkları harç da dikkate alınarak son bilirkişi raporunda belirtildiği üzere 8.500,00 TL katılma alacağı, 6.000,00TL değer artış payı olduğu bulunmakta ise de ... kadının değer artış payı alacağına ilişkin talebi ve harcını yatırarak usulüne uygun açılmış bir davası olmadığı, taleple bağlılık ilkesi gereğince karar verilmesi gerektiği; birleşen dava yönünden de, 45 ada 79 parsel 8 nolu bağımsız bölümün 04.10.2000 tarihinde trampa edinme sebebi ile ... kadın adına tescil edildiği, öncesinde aynı ada parselde bulunan 9 nolu bağımsız bölüm olarak satış nedeniyle ... kadın adına tescil edilmiş olduğu, taşınmazın edinme tarihine göre, kişisel mal niteliğinde olduğu, davalı-davacı erkeğin iddia ettiği sabit katkıları dosyaya giren banka kayıtları veya başka bir
 delil ile ispatlanamadığından katkı payı alacağının bulunmadığı, ayrıca taşınmazın 01.01.2002 tarihinden sonraki bir tarihte tamamlandığı, taraflar arasındaki edinilmiş mallara katılma rejimi esnasındaki tamamlanan kısımlar yönünden davalı-davacı erkeğin katılma alacağı talep edebileceği, tanık beyanları dosyada sunulan dekontlar dikkate alınarak ve bilirkişi tarafından Bölge Adliye Mahkemesi kaldırma kararına göre yapılan hesaplamaya göre davalı-davacı erkeğin 10.125,00 TL katılma alacağının bulunduğu; hesaplardaki kira gelirlerine ilişkin talepler yönünden ise mal rejiminin devamı süresince elde edilmiş ve mal rejiminin sona erdiği tarihe kadar tüketilmiş olan gelirler yönünden alacak talep imkanı bulunmadığı, davacı- davalı kadının incelenen banka hesaplarına göre boşanma davasının açıldığı ve mal rejiminin sona erdiği tarih olan 27.03.2007 tarihindeki mevcut bakiyesine göre bilirkişi tarafından hesap edilen 81,68 TL katılma alacağının bulunduğu;
@@ -36,10 +40,14 @@ delil ile ispatlanamadığından katkı payı alacağının bulunmadığı, ayr�
 
 ## Yargıtay 2. HD 2023/2114 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929998100)
+
 Aile Mahkemesi tarafından reddine karar verildiği, işbu dava yönünden bağlayıcılığı bulunmadığı; dava konusu taşınmazın edinilmiş mal olduğu, katılma alacağının yasadan kaynaklanan bir hak olduğu, bu hakkı talep eden eşin gelirinin olmasına veya söz konusu mal varlığının edinilmesine, iyileştirilmesine ya da korunmasına katkıda bulunulmasına gerek olmadığı, davacının taşınmazın edinilmesinde ziynetlerinin kullanıldığını ispat edemediği, dava konusu taşınmazın sürüm değerinin 938.362,50 TL olduğu, yabancı mahkeme kararının tenfizine ilişkin ilamın 14.04.2014 tarihinde kesinleştiği, dava ve ıslah dilekçesi ile talep edilen kısımlara yönelik zamanaşımı itirazının yerinde olmadığı; mal rejimine yönelik alacak davalarında ayni hak talebinde bulunulamayacağı, mal rejiminin tasfiyesi halinde tarafların ancak şahsi hak talebinde bulunabileceği; davacının taşınmazdan kaynaklanan 469.181,25 TL katılma alacağı olduğu; davalı vekilinin cevap dilekçesinde, boşanma sonrasında davalının 1/2 payı davacıya devredilen İsviçre'de bulunan taşınmazın değerinin dava konusu taşınmazın değerinden fazla olduğunu belirterek davalıya devredilen 1/2 payın değerinin dava edilen taşınmaz için istenilen alacak
 ile takas ve mahsubuna karar verilmesini talep etmiş ise de, davalının takas ve mahsup talebine konu İsviçre'de bulunan taşınmazın 1/2 hissesi ile ilgili taraflar arasında düzenlenen protokolde düzenleme yapılarak mal rejiminin tasfiye edildiği, işbu dosyada takas ve mahsup yapılmayacağı; davanın terditli olarak açıldığı, iki ayrı dava değil, tek dava olduğu, terditli olarak istenilen tapu iptal tescil talebi yönünden davalı lehine vekâlet ücreti takdir edilmesi mümkün olmadığı, davacı lehine kabulüne karar verilen katılma alacağı miktarı üzerinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre vekâlet ücreti hesaplandığı belirtilerek; davalı vekilinin istinaf başvurusunun esastan reddine, davacı vekilinin istinaf başvurusunun kabulü ile İlk Derece Mahkemesi hükmü kaldırılarak yeniden esas hakkında hüküm kurulmak suretiyle davacının tapu iptali ve tescile yönelik talebinin reddine, katılma alacağına yönelik talebin kabulüyle 469.181,25 TL katılma alacağının karar tarihinden itiberen işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmiştir.
 
 ## Yargıtay 2. HD 2023/2112 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929839300)
 
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile, taşınmazların hükme esas alınan değerlerinin belirlendiği tarih ve İlk Derece Mahkemesinin karar tarihi arasında ... bir sürenin geçmediği, dosyanın bilirkişi safahatları dikkate alınarak hükme esas alınan değerlerin belirlendiği tarih ile İlk Derece Mahkemenin karar tarihi arasında geçen sürenin makul bir süre olduğu, yeniden güncel değer belirlenmemesinde herhangi bir isabetsizlik olmadığı; dosyada alınan tüm bilirkişi raporlarının taraflara tebliğ edildiği, tarafların itirazlarının alınan ek raporlar ile değerlendirildiği, alınan raporların denetime elverişli olduğu, hükme esas alınmasında isabetsizlik olmadığı; bu itibarla asıl dava konusu taşınmazlar ve araçlar yönünden belirlenen değerlerinin yarısı üzerinden katılma alacağına hükmedilmesinde de herhangi bir isabetsizlik olmadığı; ... Makine San. ve Tic. Ltd.
 Şti'nin boşanma dava tarihi itibariyle öz sermaye tutarının 70.381,23 TL olarak belirlendiği, şirketin aktif net değerinin boşanma dava tarihi itibariyle bu miktar olduğu, dolayısıyla işbu şirketin tasfiye hesabında dikkate alınmasında isabetsizlik olmadığı, şirketin mal rejiminin sona erdiği tarihteki niteliği, seviyesi ve ekonomik durumu göz önünde bulundurularak mal rejiminin sona erdiği tarih itibariyle tüketici fiyat endeksine göre belirlenen güncel değeri üzerinden tasfiye hesabın yapılmasının da ... olduğu;
@@ -48,35 +56,51 @@ birinci fıkrası ve 161 ... maddeleri uyarında boşanmalarına karar verildiğ
 
 ## Yargıtay 3. HD 2023/857 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981131100)
+
 Yargıtay (Kapatılan) 13. Hukuk Dairesince verilen 12.11.2013 tarihli ve 2013/14847 E., 2013/15812 K. sayılı ilamla; davacıların boşanma davasına yönelik talep ettikleri vekalet ücretine ilişkin olarak davalı ... yönünden davanın reddi, diğer davalı ... yönünden ise feragat nedeni ile maktu vekalet ücreti ile sorumlu tutulması gerektiği, boşanma davasının sonucuna bağlı olan katılma alacağı davası yönünden ise davalıların ancak maktu vekalet ücreti ile sorumlu tutulmaları gerektiği gerekçesi ile davalıların sair temyiz itirazları reddedilerek karar bozulmuştur.
 
 ## Yargıtay 2. HD 2023/519 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887787100)
+
 Bölge Adliye Mahkemesinin yukarıda başlıkta tarih ve sayısı belirtilen kararı ile tasfiyeye konu malların karara yakın tarihteki değerlerinin tespitinin yapıldığı, tarafların delillerinin toplandığı, delillerin değerlendirilmesinde, kanunun olaya uygulanmasında ve gerekçede hata yapılmadığı, bu nedenle davacının katılma alacağı talebinin kısmen kabulüne karar verilmesinin usul ve kanuna uygun olduğu; davalı taraf yararına 2.725,00 TL vekâlet ücretine hükmedildiği, reddedilen katılma alacağı miktarının vekâlet ücreti hesaplanırken dikkate alınıp alınmadığı kararda açıkça belirtilmemiş ise de, reddedilen katkı payı ve katılma alacağı toplamının 18.048,72 TL olduğu, reddedilen toplam miktar üzerinden karar tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesine (AAÜT) göre hesaplanan ve davalı taraf yararına verilmesi gereken vekâlet ücretinin Mahkemece davanın reddedilen miktarı yönünden verilen 2.725,00 TL vekâlet ücretinin üzerinde olmadığı, sonuç olarak davalı taraf yararına verilen vekâlet ücretinin miktar olarak doğru olduğu gerekçesiyle davalının istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 2. HD 2023/66 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910773700)
 
 Asliye Hukuk (Aile) Mahkemesinin 2018/501 E., 2018/538 K. sayılı kesinleşen kararıyla protokolün ve ilaveten duruşmada alınan beyanların tarafların hür iradesiyle imzalandığı, protokol hükümlerinin ve alınan beyanların boşanma kararında yer aldığı, mal rejiminin tasfiyesi bakımından protokol ve mahkeme huzurunda bildirilen beyanlar ile taraflar arasında düzenleme yapıldığı hususunda tereddüt bulunmadığı, davacı tarafından boşanma davasında mal rejimine ilişkin beyanda bulunulduğu, mahkeme içi ikrarla taraflar arasındaki mal rejiminin tasfiyesi ile ilgili düzenleme yapıldığı, 4721 sayılı Kanunu'nun 2 inci maddesinde "Herkes, haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına uymak zorundadır.
 Bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz", 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 29 uncu maddesinde de “Taraflar, dürüstlük kuralına uygun davranmak zorundadırlar.” şeklindeki düzenlemeler karşısında mahkemece yazılı gerekçe ile karar verilmiş olmasında bir isabetsizlik bulunmadığı gibi karar tarihinde yürürlükte olan avukatlık asgari ücret tarifesi nazara alınarak aleyhe vekâlet ücreti takdirinde de bir isabetsizlik bulunmadığı gerekçesi ile davacı vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 8. HD 2021/1309 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655312100)
+
 Yargılama giderleri ve vekalet ücreti yönünden karar incelendiğinde mahkemece davacı tarafın katkı payı alacağı isteğinin kısmen kabul kısmen reddine karar verildiği halde kabul-ret oranlarının hükümde dikkat alınmadığı anlaşılmaktadır. Mahkemece, yargılama gideri ve vekalet ücreti yönünden davalı hakkında hüküm tesis edilmesi gerekirken, yargılama giderlerinin tamamından davalı tarafın sorumlu tutulması ve lehine vekalet ücretine hükmedilmemesi doğru olmamıştır. Ne var ki, bu husus yeniden yargılamayı gerektirmediğinden bozma sebebi yapılmamış, hükmün bu kısmının HUMK'un 438/7 (HMK 370) maddesi uyarınca düzeltilerek onanması gerekmiştir.
 
 ## Yargıtay 3. HD 2021/178 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631662100)
 
 Eldeki dava, başlatılan icra takibine yapılan itirazın iptali talebine ilişkindir. Mahkemece, davanın kabulüne dair verilen ilk kararın davalılar tarafından temyizi üzerine 13. Hukuk Dairesinin 07/11/2017 tarihli bozma ilamı ile davacıların boşanma davasına yönelik talep ettikleri vekalet ücretine ilişkin olarak davalı ... yönünden davanın reddi, diğer davalı ... yönünden ise feragat nedeni ile maktu vekalet ücreti ile sorumlu tutulması gerektiği, boşanma davasının sonucuna bağlı olan katılma alacağı davası yönünden ise davalıların ancak maktu vekalet ücreti ile sorumlu tutulmaları gerektiği gerekçesi ile bozulduğu ve mahkemece bozma ilamına uyulmasına karar verildikten sonra "...AAÜT m. 6 da düzenlendiği üzere dava feragatle sonuçlandığında vekalet ücretinin tespiti için ön inceleme tutanağının imzalanıp imzalanmadığına ilişkin bir ayrım yapılmalıdır. Bu ayrıma göre davacıların davalı adına açmış oldukları davalardan birinde avukatların ilk duruşmaya katılmamaları nedeniyle ön inceleme duruşmasının yapılamadığı diğerinde ise dava açılır açılmaz ilk celse de feragatle sonuçlandırıldığı anlaşılmıştır.
 Açıklanan bu nedenle davacılar karar tarihi olan 2014 AAÜT gereğince tarifede belirlenen ücretin yarısına hak kazanmışlardır.
 
 ## Yargıtay 8. HD 2019/11669 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648093000)
+
 Kabule göre de, Mahkemece, bozmaya uyularak yapılan yargılama sonunda, 2378 parsel yönünden, davacı-birleşen davada davalı kadın lehine 266.850,00 TL katılma alacağına, bozma öncesi verilen ilk kararda ise bu parsel yönünden 271.297,50 TL katılma alacağına hükmedildiği, mahkemece bozma üzerine verilen hükümde, kendilerini vekille temsil eden taraflar lehine vekalet ücretine hükmedilmediği anlaşılmaktadır. Buna göre, bozma sonrası verilen kararla, hükmedilen alacak miktarı değiştiğine göre, kabul ve reddedilen miktarlar dikkate alınarak , her iki taraf lehine vekalet ücretine hükmedilmesi gerekirken, yazılı şekilde hüküm tesisi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2019/11247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/576167900)
+
 Maddi olayları ileri sürmek taraflara, hukuki nitelendirme yapmak ve uygulanacak kanun maddelerini belirlemek hakime aittir (6100 sayılı HMK mad. 33). İddianın ileri sürülüş şekline göre dava, boşanma nedeniyle maddi tazminat ve katkı payı alacağı isteğine ilişkin olup, artık değere katılma alacağına ilişkin usulüne uygun açılmış bir dava da yoktur. Mahkemenin 25.02.2014 tarihli ilk kararında maddi tazminata ilişkin reddi içeren bölüm temyiz edilmemesi nedeniyle kesinleşmiş ise de, 21.02.2017 tarihli bozma ilamı sonucunda tüm talepler yönünden davalı lehine hükmedilen vekalet ücretine ilişkin hükmün infaz olanağı kalmadığından, bozma sonrası sadece katkı payı alacağı yönünden davacı lehine vekalet ücretine hükmedilmesi yerinde ise de; reddedilen maddi tazminata ilişkin bölüm yönünden davalı lehine vekalet ücreti takdir edilmemesi doğru olmamıştır. Ne var ki, bu husus yeniden yargılamayı gerektirmediğinden HUMK'un 438/7. maddesi uyarınca kararın düzeltilerek onanmasına karar verilmiştir.
 
 ## Yargıtay 8. HD 2019/10855 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/562242700)
 
 İstanbul Bölge Adliye Mahkemesi 10.
 Hukuk Dairesi'nce, davacı- birleşen dosyada davalı ...'in reddolunan davalı-birleşen dosyada davacının birleşen davası açısından vekalet ücretine yönelik istinaf talebinin kabulü ile İlk Derece Mahkemesi kararının hüküm fıkrasının b/2 nolu bendinin kaldırılmasına, yerine davalı kadın kendisini vekille temsil ettirdiğinden harçlandırılmış dava değeri üzerinden hesaplanan 20.950,00 TL vekalet ücretinin davacıdan (erkek) alınarak davalıya (kadın) verilmesine, davacı-birleşen davada davalı ...'in faiz talep etitikleri birleşen dosya açısından vekalet ücretiyle ilgili ve diğer istinaf taleplerinin reddine, davalı-birleşen davada davacı ...'ün esas davada kadın yararına hükmolunan katılma alacağı ile ilgili faize ilişkin istinaf talebinin kabulüne, İlk Derece Mahkemesi kararının hüküm fıkrasının a/1 nolu bendindeki 350.000,00 TL alacağın 50.00,00 TL'si için dava tarihinden itibaren, 300.000,00 TL'si için ıslah tarihinden itibaren işletilecek yasal faiziyle birikte ibaresinin kaldırılmasına, yerine 350.000,00 TL'nin karar tarihi olan 04.11.2016 tarihinden itibaren işleyecek yasal faiziyle birlikte davalı ...'den alınarak davacı ...'e verilmesine ve davalı-birleşen davada davacı ...'ün
@@ -84,18 +108,26 @@ diğer istinaf taleplerinin reddine karar verilmiştir. Taraf vekillerince, Böl
 
 ## Yargıtay 2. HD 2019/5285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524236500)
+
 Mal rejiminin tasfiyesi, alacak, ziynet ve çeyiz eşyası alacağı, maddi ve manevi tazminat davalarının yapılan yargılaması sonunda, mahkemece verilen ilk hüküm davacı-davalı kadın tarafından reddedilen alacak, katılma alacağı, ziynet ve çeyiz alacağı ile yargılama gideri ve vekalet ücreti yönünden temyiz edilmesi üzerine Dairemizin 21.12.2015 tarihli ilamı ile davacı- davalı kadının ziynet ve çeyiz alacağının kabulüne karar verilmesi gerektiğinden bahisle ziynet ve çeyiz alacağı yönünden hükmün bozulmasına, bozma kapsamı dışında kalan temyize konu diğer bölümlerin ise onanmasına karar verilmiştir. Bozmadan sonra devam eden dava ziynet ve çeyiz alacağına ilişkin olup taraflarca açılan diğer davalar kesinleşmiştir.
 O halde kabul edilen ziynet alacağı ve çeyiz alacağı davasında davacı-davalı kadın lehine nispi vekalet ücretine hükmedilmesine ve ziynet ve çeyiz eşyası alacağı davasının kabulü nedeniyle davacı-davalı kadın tarafından yapılan yargılama giderinin davalı-davacıdan alınmasına karar verilmesi gerekirken, kesinleşen diğer davalar yönünden yeniden davacı-davalı kadın ve davalı-davacı erkek lehine vekalet ücreti ve yargılama giderine hükmedilmesi doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2019/4661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512084400)
+
 Yargılama giderleri ve vekalet ücreti yönünden karar incelendiğinde ise toplam talebin 60.000,00 TL olduğu, davacının izah edilen şekilde yapılan hesaplama sonucu 24.530,00 TL katılma alacağı ve (ikinci hükümde taleple bağlı kalınarak verilen ve bozma nedeni yapılmayan kısım içerisinde kalan) 25.000,00 TL değer artış payı alacağı olduğu dikkate alındığında davanın kısmen kabul kısmen reddine karar verilip yargılama gideri ve vekalet ücreti yönünden kabul ve red oranına göre hüküm tesis edilmesi gerekirken, davanın kabulü şeklinde hüküm tesis edilip giderlerin tamamından davalı tarafın sorumlu tutulması doğru olmamıştır.
 
 ## Yargıtay 8. HD 2019/4452 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512755600)
+
 Kabule göre de, Mahkemece, davacının artık değere katılma alacağı talebi kabul edilmiş, katkı payı alacağı talebi reddedilmiş olup, reddedilen miktar üzerinden kendisini vekille temsil ettiren davalı yararına kararın verildiği tarihte yürülükte bulunan AAÜT gereğince vekalet ücretine hükmedilmesi gerekirken vekalet ücretine hükmedilmemesi hatalı olmuştur. Ayrıca, davanın kısmen kabul kısmen reddine karar verildiğine göre, yargılama giderlerinin tarafların haklılık oranına göre paylaştırılması gerekirken, tamamının davalıya yükletilmesi de doğru olmamıştır.
 
 ## Yargıtay 8. HD 2019/3601 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512355200)
 
 Mahkemece, davacı taraf sözlü duruşmada davasını ıslah edeceğini bildirerek ıslah dilekçesini sunmuş ise de, ıslah harcını yatırmadığı, her ne kadar ıslah harcını yatırması için süre verilmesi mümkün ise de 05.04.2016 tarihli duruşmada 16.06.2016 günlü duruşmada sözlü duruşma yapılacağı taraf vekillerine bildirilmiş olup, yaklaşık 2,5 aylık süre içerisinde davacının davasını ıslah edip harcını yatırması mümkün iken karar duruşmasında ıslah dilekçesi ibraz ederek harcını yatırmak üzere süre istemesinin mahkemece uygun görülmediği belirtilmişse de, gerekçe dosya kapsamına uygun düşmemektedir. Şöyle ki, dava, artık değere katılma alacağı isteğine ilişkin olup, 06.12.2011 tarihinde açılmıştır. 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 107. maddesi "Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu hâllerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz alacak davası açabilir.
 Karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacı, iddianın genişletilmesi yasağına tabi olmaksızın davanın başında belirtmiş olduğu talebini artırabilir..." hükmü ile belirsiz alacak davası düzenlenmiştir. Davanın açıldığı 06.12.2011 tarihi itibariyle 6100 sayılı Hukuk Muhakemeleri Kanunu yürürlüktedir. Belirsiz alacak davası, yukarıda belirtildiği üzere, 01.10.2011 tarihinde yürürlüğe giren Hukuk Muhakemeleri Kanunu'nun 107. maddesiyle kabul edilmiştir. Bu durumda eldeki davanın açıldığı tarihte 6100 sayılı Hukuk Muhakemeleri Kanunu yürürlükte olduğuna göre, belirsiz alacak davası ile ilgili hükümlerin uygulanması gerekir. Davacı vekili, dava dilekçesinde fazlaya ilişkin haklar saklı kalmak kaydı ile şimdilik 5.000 TL katılma alacağının davalıdan tahsiline karar verilmesini istemiştir. Daha sonra davacı vekili son yargılama oturumunda sunduğu havalesiz, tarihsiz dilekçe ile talebini 29.000 TL'ye yükseltmiştir.
@@ -103,42 +135,62 @@ Mahkemece anılan dilekçenin ıslah dilekçesi olduğu kabul edilmişse de, dav
 
 ## Yargıtay 8. HD 2016/8091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/200737800)
+
 O halde, talep edilen Amerikan doları (USD) cinsinden alacağın dava tarihindeki Türk lirası karşılığı ile katılma alacağı üzerinden hesaplanan toplam alacak tutarı üzerinden alınması gereken nisbi karar ve ilam harcının ¼ ü oranındaki peşin kısmının mahkemece Harçlar Kanunu 30-32. maddesindeki usul uygulanarak tamamlatılmadıkça davanın esasına girilemeyeceği düşünülmeden yazılı şekilde karar verilmiş olması usul ve yasaya aykırı olup, hükmün bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2016/7893 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214331800)
+
 Tüm dosya kapsamı ve toplanan delillerden; mahkemenin de kabulünde olduğu üzere, davalı-davacı erkeğin 12 AH 615 plaka sayılı aracın yarısının kendisine aidiyetini talep etmesi, mal rejimine ilişkindir. Davalı-davacı erkeğin bu talebinin incelenebilmesi eşler arasındaki mal rejiminin sona ermesi halinde mümkündür. Boşanma yönünden oluşacak hüküm kesinleşmedikçe, bu taleplerin incelenmesi yasal olarak mümkün bulunmamaktadır. Şu hale göre; davalı-davacı erkeğe, talebine yönelik olarak Harçlar Kanununun 30-32. maddeleri gereğince nispi harcını tamamlaması için süre verilmesi, tamamlandığı takdirde mal rejimine ilişkin talebin tefrik edilmesi, verilen süre içerisinde harç tamamlanmadığı takdirde, Harçlar Kanununun 30. maddesinde gösterilen usul çerçevesinde hareket edilmesi gerekirken, mahkemece yanlış gerekçeyle işin esasına girilerek yazılı şekilde hüküm tesisi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2015/22724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403135000)
 
 Artık değere katılma alacak miktarı hesaplanırken, mal rejiminin sona erdiği sırada mevcut malların, bu tarihteki durumlarına göre, ancak tasfiye anındaki sürüm değerleri esas alınır. (TMK.nun 227/1, 228/1, 232 ve 235/1.m). Yargıtay uygulamalarına göre, tasfiye anı karar tarihidir. Somut olayda; davacı ziynet bedeli olarak 10.000 TL ve bankadaki mevduatlar yönünden toplam 36.810 TL'nin yarısı olan 18.405 TL katılma alacağı olmak üzere toplam 28.405 TL alacak isteğinde bulunmuştur. Mahkemece, davacı-karşı davalının taleplerinden ziynet alacağı talebinin reddine, bankadaki mevduat hesaplarındaki alacak talebi yönünden ise tasfiye suretiyle yarı orandaki miktarın faizi ile birlikte katılma alacağı olarak davalıdan tahsiline karar verilmiştir. Ziynet alacağı yönünden isteğin mahkemece reddine karar verilmiş olması doğrudur. Kaldı ki bu bölüm temyiz edilmeksizin kesinleşmiştir.
 Mahkemenin kabul gerekçesine göre, davacı-karşı davalının bankadaki mevduatlar yönünden talebi kabul edildiği ve bu miktardan da hesaplardaki paranın yarısı olan 18.405 TL miktarındaki alacağa hükmedilmesi gerekirken 20.832,73 TL alacağa hükmedilmesi ve ayrıca hükmedilen alacağa faiz yürütülmesi isteği de bulunmadığı halde, faize de karar verilmesi; 6100 sayılı HMK'nun 26. maddesinde açıklanan talepten fazlasına hükmedilemeyeceği kuralına aykırı olmuştur. Buna göre kabul ve reddine karar verilmesi gereken miktarlar ve oranları esas alındığında; hükmün harç, yargılama gideri ve avukatlık ücretine ilişkin bölümlerinin de isabetli olmadığı açıktır. Temyiz incelemesi sırasında bu husus gözden kaçırılarak hükmün onandığı görülmekle, bu yönlere ilişkin karar düzeltme isteği kabul edilmiş; hükmün kabul edilen alacak miktarı ile buna bağlı olarak tarafların leh ve aleyhine hükmedilen harç, vekalet ücreti ve yargılama giderleri ile alacağa faiz yürütülmesine ilişkin bölümlerinin bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2015/21127 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/156926000)
+
 Ayrıca; davada eş ... ile meskeni devrettiği babası ...'in davalı olarak gösterilmesi TMK'nın 229/3 ve 241.madde karşısında doğru ise de, davada hükmedilecek katılma alacağının davalı eş Keziban'dan tahsiline karar verilebileceği, taşınmazın son maliki davalı ...'in bu alacağın ödenmesinden bu aşamada yani daha tasfiyenin başlangıcında sorumlu tutulmasının mümkün olmadığı gözetilmeden hükümde karışıklığa neden olacak şekilde alacağın "davalıdan" tahsiline şeklinde hüküm kurulması,harç ve vekalet ücretinin de davalılardan tahsiline karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2015/19586 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/123302000)
 
 Davacının 5 numaralı meskenle ilgili talebinin harcı da yatırılmak suretiyle talep edilen 55.000 TL olduğu anlaşıldığına, bozma sonrası Mahkemece davacının talebi kısmen kabul edilerek 16.916 TL katılma alacağına hükmedildiğine göre yargılama oturumlarında kendisini vekille temsil ettiren davalı lehine reddedilen kısım yönünden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince nispi vekalet ücreti takdiri gerekirken, vekalet ücreti verilmemiş olması doğru olmamıştır. Davalı vekilinin temyiz itirazı bu bakımdan yerindedir. Ne var ki, yapılan bu yanlışlığın giderilmesi yargılamanın tekrarını gerektirir nitelikte görülmediğinden 6100 sayılı HMK'nun Ek Geçici 3. maddesi yollaması ile 1086 sayılı HUMK'nun 438/7. maddesi uyarınca hükmün düzeltilerek onanması uygun görülmüştür.
 
 ## Yargıtay 2. HD 2015/18780 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402142100)
+
 Dava açılırken yatırılan başvuru harcı tüm talepleri kapsar. Davacı-davalı kadının mal rejiminin sona ermesine ilişkin dava ve talepleri yönünden nispi harcın tamamlattırılması; (Harçlar Kanunun 30-32 md.) harcın tamamlattırılmasından sonra işin esası hakkında olumlu veya olumsuz bir hüküm tesis edilmesi gerekirken, yazılı şekilde karar verilmesine yer olmadığına, şeklinde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2015/16849 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136835800)
 
 Avukatlık Asgari Ücret Tarifesi 10/4. maddesine göre; manevi tazminat davasının maddi tazminat veya parayla değerlendirimesi mümkün diğer taleplerle birlikte açılması durumunda; manevi tazminat açısından vekalet ücretine ayrı bir kalem olarak hükmedilmelidir. Avukatlık Asgari Ücret Tarifesi 10/3. maddesi uyarınca, manevi tazminat davasının tamamının reddi durumunda ise vekalet ücreti maktudur. Mahkemece, anılan tarife hükümleri gözetilmeksizin reddedilen katılma alacağı ve manevi tazminat taleplerinin toplamı üzerinden davalı yararına fazla vekalet ücreti hükmedilmiş olması usul ve yasaya aykırı olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2015/14241 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/158224300)
+
 Kısa kararda kabul edilen katılma alacağı miktarı 203.777 TL olduğu halde gerekçeli kararda 20.377 TL yazılması mahkemesince her zaman düzeltilebilir maddi hata niteliğinde olduğundan Mahkeme tarafından 203.777 Tl olarak düzeltilmesi doğru ise de, yargılamada kendisini vekille temsil ettiren davacı lehine karar tarihinde geçerli Avukatlık Asgari Ücret Tarifesi gereğince takdir edilecek vekalet ücretinin davacı lehine kabul edilecek toplam miktar üzerinden hesaplanması gerekirken, gerekçeli karardaki maddi hata sebebiyle yazılı şekilde eksik hesaplanması doğru değildir.
 
 ## Yargıtay 8. HD 2015/12828 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/153844900)
+
 Katılma alacağı talebi nispi harca tabi olup, nispi peşin harcın alınması gerekir. Mahkemece nispi peşin harcın alınmadığı maktu harç alınmakla yetinilerek karar verildiği, nispi harcın kararla tamamlatılmasına karar verildiği görülmektedir. Nispi peşin harç için de talep miktarı davacı tarafça açıklanmamışsa HMK'nun 31.maddesi gereğince davacıya talep miktarını açıklaması için süre verilmesi, açıklandığında açıklanan miktara göre nispi peşin harcın Harçlar Kanunu 30-32.maddedeki usul işlemleri uygulanarak tamamlatılması yoluna gidilmesi gerekir. Harç tamamlanmadan davanın esasına girilemez.
 
 ## Yargıtay 2. HD 2014/18002 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88325600)
 
 Davalı-davacı koca karşı dava dilekçesiyle, boşanma talebinin yanında, evlilik birliği içinde edinilen 55 BN 779 plakalı aracın yarı değeri olarak fazlaya ilişkin haklarını saklı tutmak suretiyle 10.000 TL maddi tazminat isteğinde bulunmuştur. Mahkemece kocanın bu talebinin boşanmanın eki niteliğinde olmadığı, araç değeri üzerinden harcı yatırılarak usulünce açılmış bir davanın da bulunmadığı gerekçesiyle "karar verilmesine yer olmadığına" dair karar verilmiştir. Dava dilekçesinden alınan başvurma harcının bu dilekçede yer alan bütün istemleri kapsayacağı nazara alınarak; davalı-davacı kocaya dava değeri üzerinden peşin nispi harç noksanlığını tamamlaması için süre ve imkan verilmesi (Harçlar Kanunu madde 30-32), peşin harcın tamamlanması halinde, mal rejiminin tasfiyesine yönelik bu isteğin incelenebilmesinin; eşler arasındaki mal rejiminin sona ermesi halinde mümkün olduğu, evliliğin iptal veya boşanma sebebiyle sona erdirilmesi halinde mal rejiminin buna ilişkin davanın dava tarihinden geçerli olmak üzere sona ereceği (TMK.
 225/2), boşanma yönünde oluşacak hüküm kesinleşmedikçe, bu taleplerin incelenmesinin yasal olarak mümkün bulunmadığı hususları dikkate alınarak, davalı-davacı (koca)’nın karşı davasındaki mal rejiminin tasfiyesine ilişkin talebinin tefrik edilip boşanma davasının neticelenmesinin beklenmesi ve oluşacak sonucu uyarınca bir karar verilmesi gerekir. Bu hususlar nazara alınmaksızın yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirmiştir.

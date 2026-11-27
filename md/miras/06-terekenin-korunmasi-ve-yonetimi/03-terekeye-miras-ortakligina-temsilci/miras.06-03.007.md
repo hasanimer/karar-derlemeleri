@@ -38,6 +38,8 @@ davasının reddedilmiş olması, vasiyetnamenin tenfizini kendiliğinden sağla
 
 ## Sakarya BAM 7. HD 2026/660 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204130400)
+
 Dava menfi tespit talebine ilişkindir.
 
 …
@@ -46,6 +48,8 @@ Miras yoluyla intikali mümkün hakların konusunu oluşturduğu bir davada dava
 Ancak her hâlükarda davacının vefatından sonra yargılamaya devam edilebilmesi için mahkemece mirasçıların tamamının davaya katılımının sağlanması veya terekeye temsilci atanması yoluyla taraf teşkilinin sağlanarak yargılamaya devam edilip hüküm kurulması gerekir. (Yargıtay Hukuk Genel Kurulunun 2025/(14)7-120 esas 2025/353 karar sayılı ilamı) Dosya kapsamında dava devam ederken vefat eden davacı ...’ın vefatıyla terekesinin elbirliği mülkiyetine tabi olduğu, 6100 sayılı yasanın 59.maddesi gereği mirasçılarının mecburi dava arkadaşı olduğu dikkate alındığında davaya tüm mirasçıların katılımıyla veya terekeye temsilci atanması sağlanarak tereke temsilcisinin katılımıyla devam edilmesi gerekirken mirasçılardan sadece ... ile ...’ın huzuruyla devam edilip hüküm verilmesi hatalıdır.
 
 ## İstanbul BAM 43. HD 2026/506 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202572400)
 
 …
 
@@ -60,9 +64,13 @@ Mahkemece asıl ve birleşen davanın kabulüne karar verilmiş, davalı tarafç
 
 ## İstanbul BAM 14. HD 2026/347 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199053500)
+
 Mahkemece davacının yukarıda belirtilen ilk üç talebinin mirasçı sıfatıyla tereke adına ileri sürüldüğü tespit edilmiş ve bu talepler yönünden HMK'nın 640. maddesi uyarınca tüm mirasçıların veya tereke temsilcisinin dava açmaması nedeniyle davacının aktif dava ehliyeti bulunmadığı belirtilmiştir. Davacının bu taleplerini esasında anılan kararların alındığı tarihteki ortaklığına dalandırdığı anlaşılmaktadır. Ancak mahkemece davanın husumet yönünden reddine karar verilmiş ve davacnın bu karara yönelik istinaf başvurusunda bulunmadığı anlaşılmıştır. Davacının ortak olması nedeniyle genel kurul ve yönetim kurulu kararlarının iptalini talep etmesi için belirli sürelere uyulması gerekmektedir. Hukuki yarar dava şartı olup, dava ve tüm talepler bakımından hukuki yarar bulunması aranmalıdır. Mahkemece davanın usulden reddine karar verilmiş olup, bu kararın hatalı olduğu ve başka bir dava şartı olan derdestlik nedeniyle davanın reddi istenmiştir. Ancak belirlendiği üzere davalar arasında derdestlik bulunmamaktadır. Bu durumda davalının, usulden reddedilen talepler bakımından kararın kaldırılmasını istemesinde hukuki yarar bulunmamaktadır.
 
 ## Ankara BAM 31. HD 2026/247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201061800)
 
 Dava, eser sözleşmesinden kaynaklanan alacağın tahsili istemine ilişkindir.
 
@@ -71,6 +79,8 @@ Dava, eser sözleşmesinden kaynaklanan alacağın tahsili istemine ilişkindir.
 O halde Mahkemece yapılacak işlem; davalı ...'ün veraset ilamının ve terekeye temsilci atama dosyasının ilgili Mahkemeden celbi ile davalının dosyaya yansıyan mirası reddeden çocukları dışında başka mirasçısı olup olmadığının denetlenmesi, kabule göre de yukarıda anlatıldığı üzere usuli kazanılmış hak ilkesi dikkate alınarak HMK'nın 297. maddesine uygun olarak karar verilmesinden ibaret olacaktır.
 
 ## Ankara BAM 22. HD 2025/1401 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181856900)
 
 Dava, kambiyo senedindeki imza inkarı ve bedelsizlik iddiasına dayalı olarak açılan menfi tespit davasıdır.
 
@@ -81,6 +91,8 @@ Miras bırakanın ölüm tarihi itibariyle terekesi elbirliği mülkiyetine tabi
 Murisin ölüm tarihine göre terekesi iştirak halinde olduğundan davanın tüm mirasçılar tarafından elbirliğiyle açılması ya da davacının açtığı bu davaya diğer mirasçıların muvaffakatlarının sağlanması veya terekeye temsilci tayin ettirilerek tereke temsilcisi vasıtasıyla davanın yürütülmesi gerekmektedir. Bu yön dava şartı olup öncelik ve re'sen gözetilmesi gerekmektedir.
 
 ## İstanbul BAM 15. HD 2025/1339 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183476700)
 
 E. sayılı dosyası ile ilamsız takip başlatıldığını, takibe dava dışı...ve ...haricinde kalan davalıların takibi yeni öğreniyormuş gibi itiraz ederek durdurduğunu, yapılan itirazın haksız ve kötü niyetle yapıldığını belirterek; itirazının iptalini talep ve dava talep etmiştir.Davalılardan; ... ve ... vekili; davacının iddialarının gerçeği yansıtmadığını, muris...'nın tacir olmadığını, bu sebeple davanın asliye hukuk mahkemesinde açılmasının gerektiğini, davacının muaccel ve likit olmayan bir alacak için icra takibine başladığını, davalıların davacı yana borcunun bulunmadığını, davacının yaptığnıı iddia ettiği işlere ilişkin herhangi bir sözleşmeyi davalılara göndermediğini belirterek; mahkemenin görevsizliğine ve davanın reddine karar verilmesini talep etmiştir.Davalılardan ... vekili; Davacının davasının haksız ve hukuki dayanaktan yoksun olduğunu, davacının alacaklı olduğunu iddia ettiği hizmetleri, murisin aldığına dair bir sözleşmenin bulunmadığını, bu borcu kabul etmediklerini, aynı zamanda alacağı terekeye yazdırdığını ve mükerrer takip başlattığını belirterek; davanın reddine karar verilmesini talep etmiştir.Mahkemece;
 2014/975 Esas, 2019/466 sayılı, 16.05.2019 tarihli karar ile; muris... terekesinin; Şubat 2009 da vefatının akabinde, Mart 2009 dan itibaren mahkemece idare edilmekte olup, tüm malvarlığına tereke tedbiri konulmuş , tereke fiilen mirasçıların eline geçmemiş, halen İstanbul 2.
@@ -95,6 +107,8 @@ Sulh Hukuk Mahkemesi’nin 2013/55 Tereke sayılı dosyası ile tereke temsilcil
 
 ## İstanbul BAM 17. HD 2025/1282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175753800)
+
 Bu davalara ölen tarafın mirasçılarına karşı veya mirasçıları tarafından devam edilmesine imkan yoktur. Yalnız ölen tarafı ilgilendirmeyen, yani mirasçıları da ilgilendiren, mirasçıların malvarlığı haklarını etkileyen davalar tarafın ölümü ile konusuz kalmaz. Bu davalara ölen tarafın mirasçılarına karşı veya ölen tarafın mirasçıları tarafından devam edilir. Mirasçıları ilgilendiren davalar, ölen tarafın mirasçılarına geçen alacakları, hakları ve mallarına ilişkin davalardır. Bu halde, ölen tarafın mirasçıları, davayı mecburi dava arkadaşı olarak hep birlikte takip ederler. Dava devam ederken davacı ölürse, davacının mirasçıları, davayı mecburi dava arkadaşı olarak hep birlikte takip ederler. Davalı ölürse dava davalının mirasçılarının hepsine karşı birlikte devam ettirilir. HMK'nin 55. maddesinde taraflardan birinin ölümü halinde, mirasçılar mirası kabul veya reddetmemişse, bu hususta kanunda belirlenen süreler geçinceye kadar davanın erteleneceği, bununla beraber hakimin, gecikmesinde sakınca bulunan hallerde, talep üzerine davayı takip için kayyım atanmasına karar verebileceği bildirilmiştir.
 TMK'nin 605. maddesinin birinci paragrafı gereğince yasal ve atanmış mirasçıların mirası TMK'nin 606. maddesi gereğince üç ay içinde reddedebilecekleri, bu üç aylık sürecin hak düşürücü süre olduğu, bu sürenin miras bırakanın ölümünü öğrendikleri tarihte başlayacağı, atanmış mirasçıların miras bırakanın tasarrufunun kendilerine resmen bildirildiği tarihten işlemeye başlayacağı bildirilmiştir..." denilmiştir.Yukarıda yer verilen Yargıtay kararında da belirtildiği üzere, dava devam ederken taraflardan birinin ölmesi halinde, ölen kişinin taraf ehliyeti son bulur. Bu nedenle davaya ölen tarafa karşı veya onun tarafından devam edilmesine olanak bulunmamaktadır. Dava devam ederken davacının ölümü halinde onun yerine mirasçıları geçer ve mirasçılar davaya devam eder. Mirasçılar, mirası TMK'nun 605 vd.M gereği reddetmemişse yada TMK 606. Maddesindeki mirasın reddi süresi geçtikten sonra ölen tarafın tüm mirasçılarının duruşmaya çağrılması gerekir. Ölen taraf kendisini bir vekille temsil ettirmiş olsa bile ölümle birlikte vekalet son bulacaktır.
 
@@ -106,6 +120,8 @@ deliller değerlendirilmek suretiyle karar verilmesi gerekirken yazılı şekild
 
 ## İstanbul BAM 13. HD 2025/554 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140973400)
+
 Dava, davacı tarafından davalı aleyhine başlatılan icra takibine davalının itirazının iptali talebine ilişkindir.
 
 …
@@ -114,9 +130,13 @@ Mirasın iflas hükümlerine göre tasfiyesi için yasal prosedürün uygulanıp
 
 ## Ankara BAM 31. HD 2025/115 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1114066900)
+
 TMK'nın 612. maddesine göre en yakın mirasçıların tamamı tarafından reddolunan miras sulh hukuk mahkemesince iflas hükümlerine göre tasfiye edilir. Tasfiye sonunda arta kalan değerler mirası reddetmemişler gibi hak sahiplerine verilir. Doktrin görüşlerinde ve Yargıtay içtihatlarında en yakın mirasçılar ifadesinden 1. zümre mirasçıların anlaşılması gerektiği belirtilmektedir. Somut uyuşmazlıkta 1. zümre mirasçıların tamamınca mirasın reddedildiği görülmektedir. Bu durumda mahkemece yapılması gereken iş, davacının terekesine temsilci tayin edilmesi için sulh hukuk mahkemesine ihbarda bulunmak, sulh hukuk mahkemesince terekeye temsilci tayin edilmesinden sonra, mahkeme kararını tereke temsilcisine tebliğ etmek suretiyle karar tebliğ işlemlerini yürütmek olmalıdır. Mahkemece TMK 612 maddesine aykırı olarak, hazineye gerekçeli karar tebliğ edilmek suretiyle dosyanın istinaf incelemesi yapılmak üzere Dairemize gönderilmesi doğru olmamıştır.
 
 ## İstanbul BAM 12. HD 2025/90 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117003500)
 
 Karşı yan şirket davacı mirasçı'nın, paylar miras ortaklığına ait bulunduğundan, huzurdaki davayı ikame etme hak ve imkânı, dava takip yetkisi olmadığını ileri sürmüş ise de tereke temsilcisi göreve başlayıp davada temsil sağlanıncaya kadar şirketin ve davacı mirasçının haklarının korunması zorunluluğu Dairemizin 17/11/2022 tarihli 2022/1823-1606 sayılı kararında da belirtilmiştir. İstanbul 1. Sulh Hukuk Mahkemesi'nin 2020/33 Tereke sayılı dosyasında 23/10/2024 tarihinde ticaret mahkemelerindeki davaların takibini de kapsamak üzere müteveffanın terekesine ...'nin geçici tereke temsilcisi atanmasına dair ara karar verilmiş olup, bahsi geçen ara kararın İstanbul BAM 6. HD'nin 30/01/2025 tarihli 2025/43-200 sayılı ilamıyla eldeki davanın kararının yazımı aşamasında kesinleştiği anlaşılmaktadır. Somut olayda; icrasının geri bırakılması talep edilen genel kurul kararı, ...'ın katılımı ile yapılan genel kurul toplantısında alınan ...'ın yönetim kurulu üyesi seçilmesine ilişkindir.
 Miras yolu ile şirketin %25 hissesine sahip olduğunu iddia eden davacı, terekeye temsilci atanmasına ilişkin dava devam ederken, ...'a yapılan pay devrinin gerçek olmadığı, dolayısıyla genel kurul toplantısının, toplantıya katılma ve oy hakkı bulunmayan kişi tarafından şirketin % 5 hissesine tekabül eden ve gerçek olmayan pay devri suretiyle gerçekleştirildiği gerekçesiyle genel kurul kararının yok hükmünde veya batıl olduğunu ileri sürmektedir. Bununla birlikte yargılama sırasında 23/11/2023 tarihinde yapılan genel kurulda ... 23/11/2026 tarihine kadar yönetici seçilmiş olup, bahsi geçen 23/11/2023 tarihli genel kurul kararı eldeki davanın konusu değildir. Eldeki davanın konusunu oluşturan 19.04.2022 tarihli genel kuruldan sonra ... yeniden yönetici seçildiğinden bu aşamada 19.04.2022 tarihli genel kurul kararının icrasının tedbiren durdurulması talebi yerinde görülmemiştir. İhtiyati tedbir yoluyla kayyım atanması ile ilgili olarak;
@@ -125,6 +145,8 @@ TTK’da kayyım atanmasına ilişkin düzenleme mevcut olmayıp TMK'nın 403/2 
 Somut olayda; genel kurul toplantısı şirketin hissesinin % 5'ine isabet eden hisse ile yapılmış olup, genel kurul toplantısının yapıldığı tarih itibariyle terekeye henüz temsilci atanmamıştır. Genel kurul toplantısından sonra 03/11/2022 tarihli yönetim kurulu kararı ile, % 95'lik payın ... adına kaydedildiği anlaşılmakta ise de % 95'lik payın ne şekilde devralındığına ilişkin bir belge, temlik beyanı ve ciro bu aşamaya kadar sunulmamıştır. Dosyadaki delillere göre yaklaşık ispat şartının sağlandığının kabulü gerekir. Buna göre yapılan değerlendirmede; şirkete eldeki davanın yargılaması sırasında 23/11/2023 tarihinde yeniden yönetici seçildiği, bahsi geçen 23/11/2023 tarihli genel kurul kararın ayrı bir davanın konusunu teşkil ettiği dikkate alındığında tereke haklarının korunması bakımından davalı şirkete tedbiren denetim kayyımı atanmasının şirket ve tarafların menfaatlerine uygun olacağı kanaatine varılmış, aynı hukuki nedenlerle ...A.Ş.'ne yönetim kayyımı atanan ..., ..., ...'ın davalı şirkete denetim kayyımı atanması yargılama birliği açısından uygun görülmüştür.
 
 ## İstanbul BAM 43. HD 2024/1097 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059584700)
 
 Dava, davalı şirket kayıtlarında yer alan 10,00 TL nominal değerde 1 adet payı temsil eden 46312 seri numaralı pay (hisse) senedinden doğan mali hakların tespiti ve davalıdan tahsili ile bedelsiz hak kazanılan paylar bulunması halinde payların tespiti ve bu payların davacılara verilmesi istemine ilişkindir.
 

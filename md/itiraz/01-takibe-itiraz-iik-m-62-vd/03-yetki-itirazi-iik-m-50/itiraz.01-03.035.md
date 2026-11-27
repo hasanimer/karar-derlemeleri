@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 12. HD 2022/1848 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842580100)
+
 …
 
 : İtirazın iptali davasının dinlenilme koşullarından bir tanesi de takibin yetkili icra dairesinde usulüne uygun olarak yapılmış olmasıdır. Yetkili icra dairesi; İİK’nun 50/1 maddesi yollamasıyla HMK’nun yetkiye ilişkin hükümlerine göre belirlenir. HMK 6. maddesi gereği genel yetkili mahkeme ve icra dairesi davalı borçlunun yerleşim yeri mahkeme icra dairesidir. Somut olayda dava, satım sözleşmesine dayalı verilen satış gerçekleşmediğinden kaparonun iadesi için başlatılan takibe yönelik itirazın iptali istemine ilişkin olup, mahkemece icra takibinin yetkili icra dairesinde yapılmadığı gerekçesiyle davanın usulden reddine karar verilmiştir. Davalı tarafından icra dosyasına verilen itiraz dilekçesinde;borca,ödeme emrine, faize ve oranına itiraz etmiş ise de,icra dairesinin yetkisine itiraz edilmemiştir. İİK nun 50/2.maddesi gereği yetki itirazı esas hakkındaki itiraz ile birlikte yapılır. İİK'nun 62.madde uyarınca da, itiraz etmek isteyen borçlu, itirazını ödeme emrinin tebliği tarihinden itibaren yedi gün içinde dilekçe ile veya sözlü olarak icra dairesine bildirmeye mecburdur.
@@ -32,6 +34,8 @@ Yasal düzenlemelere göre icra dairesinin yetkisine itiraz icra dosyasına veri
 HÜKÜM:Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun kabulüne; Bakırköy 6. Asliye Ticaret Mahkemesi'nin 29/09/2021 Tarih 2020/666 Esas - 2021/829 Karar sayılı kararın HMK'nun 353(1)a-4 gereği KALDIRILMASINA; "Davanın yeniden görülmek üzere dosyanın kararı veren mahkemeye GÖNDERİLMESİNE" Davacı tarafça yatırılan 80 …
 
 ## Adana BAM 9. HD 2022/1730 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853192100)
 
 Davalı vekili cevap dilekçesi ile, davacının alacağının zamanaşımına uğradığını, arada eser sözleşmesi olmadığını, davanın yetkili mahkeme ve icra müdürlüklerine açılmadığını, yetkili yerin Kayseri olduğunu, yetki ve husumet itirazında bulunulduğunu belirterek davacının davasının reddine karar verilmesi ve davacının %20'den aşağı olmamak üzere tazminat ödemesine karar verilmesini talep etmiştir.
 
@@ -47,6 +51,8 @@ Dosya içerisinde bulunan Türkiye Ticaret Sicili Gazetesi'nin 04/05/2015 tarih 
 
 ## İstanbul BAM 12. HD 2022/1700 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840091800)
+
 …
 
 : İstanbul ... İcra Dairesi'nin ... Esas sayılı dosyasında, davacı alacaklı tarafından davalı-borçlular aleyhine KMH, Kredi kartı ve ...'dan kaynaklanan 29.997,88-TL asıl alacak, 3.917,46-TL işlemiş faiz, 195,86-TL temerrüt faizinin %5 gider vergisi, 153,24-TL masraf olmak üzere toplam 34.264,44-TL üzerinden 05/05/2017 tarihinde icra takibi başlatıldığı, ödeme emrinin davalı şirkete 12/05/2017 tarihinde, diğer davalı ...'a 13/05/2017 tarihinde tebliğ edildiği, davalı borçluların 16/05/2017 tarihinde ayrı ayrı sundukları itiraz dilekçeleri ile icra dairesinin yetkisine ve borca itirazları üzerine takibin durduğu anlaşılmaktadır. Her ne kadar davalılar tarafından icra dairesinin ve mahkemenin yetkisine itiraz edilmiş ise de icra takibine ve davaya konu borcun para borcu olması nedeniyle TBK 89/1 ve HMK'nın 10. maddeleri uyarınca alacaklının ikametgahında bulunan mahkeme ve icra daireleri yetkili olduğundan davalıların mahkemenin ve icra dairesinin yetkisine yönelik itirazları yerinde görülmemiştir.
@@ -60,6 +66,8 @@ Kredi hesabının 28/02/2017 tarihinde kat ettiği, davalı şirkete 30/03/2017 
 HÜKÜM:Yukarıda açıklanan nedenlerle: Davalı ... A.Ş.'nin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 14. HD 2022/1688 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847701300)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda; "...Davalı mahkemenin yetkisine de itirazda bulunmuş ise de taraflar arasındaki ihtilaf konusu haksız fiilden doğduğu, davacının sigortalısına ait emtianın taşınması sırasında meydana geldiği, bu nedenle TTK 890 maddesi gereğince malın teslim alındığı veya teslim için öngörülen yer mahkemesi yetkili olduğu göz önüne alınarak malın teslim alındığı yerin İstanbul Yenibosna olması sebebiyle davacının seçimlik hakkını kullandığı, bu nedenle yetki itirazının reddine karar verilmiştir.
 
@@ -89,6 +97,8 @@ Davalı her ne kadar icra dairesinin yetkisine itiraz etmiş ise de davalının 
 
 ## Gaziantep BAM 11. HD 2022/1592 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/817249600)
+
 Davacı vekili; müvekkili ile davalı arasında bulunan alacağın ödenmemesi nedeniyle yapılan icra takibine haksız olarak yapılan itiraz neticesinde iş bu davayı açtıklarını, teslim tutanaklarında malzemelerin teslim alındığının sabit olduğunu, yapılan yetki itirazının haksız olduğunu tüm bu nedenlerle faturalarda belirtilen malzemeler için belirlenen alacak için yapılan takibe itirazın iptalini talep etmiştir.
 
 Davalı vekili ; davanın yetkisiz mahkemede açıldığını yetkili mahkemenin Erzurum Mahkemeleri olduğunu, davacının .... İcra Müdürlüğü'nce ....E. başlattığı haksız takibe süresinde itiraz etmekle, hak sahibi bulunmadığı mallar üzerinden talepte bulunması veya kabul anlamına gelmemek kaydıyla taraflar arasında ki eski tarihli Kira Sözleşmesi uyarınca kendi edimi ve yükümlülüğü altında olan bir durumdan kendisine haksız pay ve kazanç sağlama gayreti içerisinde bulunmakta olduğunu, davacının haksız, mesnetsiz, usul ve yasaya aykırı davsının reddini talep etmiştir.
@@ -105,6 +115,8 @@ Somut olayda; taraflar arasında mal alımı sonucu davacı yanca düzenlenen fa
 
 ## İstanbul BAM 14. HD 2022/1556 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841215100)
+
 Dava itirazın iptali istemine ilişkin olup, Yargıtayın kararlılık kazanmış uygulamasına göre, itirazın iptali davasını gören mahkemenin, icra takibinin yapıldığı icra dairesinin yetkisine yönelik itirazı öncelikle incelemesi gerekir.
 
 …
@@ -117,6 +129,8 @@ Yetkisiz icra dairesinde takip başlatılmışsa, itirazın iptali davasının u
 HÜKÜM: Yukarıda açıklanan gerekçelerle; Davacı vekilinin istinaf nedenleri yerinde görülmemekle birlikte kararın resen düzeltilmesi gerektiğinden, HMK'nın 33, 355 VE 353/1.b.2 maddeleri uyarınca ilk derece mahkemesinin istinafa konu kararının kaldırılmasına …
 
 ## İstanbul BAM 12. HD 2022/1526 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/820414400)
 
 İLK DERECE MAHKEMESİ KARARI: Mahkemece, somut olayda yetkisizlik itirazı ve alacaklı vekilinin talebi üzerine dosyanın geldiği İstanbul Anadolu Dairesince davalı borçluya davadan önce ödeme emri çıkarılmadığı, itirazın iptali davalarında HMK 114/2 gereği usulüne uygun gönderilmiş ödeme emri ve bu ödeme emrine karşı süresinde itiraz edilmiş olmasının dava şartı olduğu ve bu dava şartı giderilebilir bir dava şartı olmadığı gerekçesiyle davanın dava şartı yokluğundan usulden reddine karar verilmiştir.
 
@@ -131,6 +145,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusun
 
 ## İstanbul BAM 43. HD 2022/1498 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047473300)
+
 Dava, taşıma sırasında oluşan hasar bedelini sigortalısına ödeyen sigorta şirketinin, ödediği bu bedeli taşıyan taraftan rücuen tahsili istemi ile başlattığı icra takibine vaki itirazın iptali davasıdır.
 
 …
@@ -141,6 +157,8 @@ KARAR: Yukarıda açıklanan nedenlerle:1-Davacı vekilinin istinaf başvurusunu
 
 ## Gaziantep BAM 11. HD 2022/1496 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/817266200)
+
 Davacı vekili dava dilekçesinde özetle; müvekkili bankanın......Şubesi ile ..... tarafından borçlu sıfatıyla, ........ tarafından müteselsil kefil sıfatıyla..... tarih ve ....- TL bedelli Genel Kredi ve Teminat Sözleşmesi akdedildiğini, davalı/borçlular işbu krediden kaynaklanan yükümlülüklerini yerine getirmediğini, davalılar aleyhine davacı banka tarafından talep edilen borç için, aynı belgeler dayanak tutularak aynı tutarda, ..... tarihinde ......Müdürlüğü ... Esas sayılı dosya ile ilamlı takip başlatıldığını, 26.07.2019 tarihinde ....... Müdürlüğü ....
 
 …
@@ -148,6 +166,8 @@ Davacı vekili dava dilekçesinde özetle; müvekkili bankanın......Şubesi ile
 İİK'nın 50. maddesine göre, "Para veya teminat borcu için takip hususunda Hukuk Usulü Muhakemeleri Kanunu'nun yetkiye dair hükümleri kıyas yolu ile tatbik olunur. Şu kadar ki, takibe esas olan akdin yapıldığı icra dairesi de takibe salahiyetlidir." Somut olayda takibin sözleşmeden kaynaklandığı tarafların kabulünde olup dosya kapsamında bulunan sözleşme ve kefalet suretlerinden akdin yapıldığı yerin İslahiye olduğu anlaşılmaktadır.
 
 ## İstanbul BAM 43. HD 2022/1453 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864156600)
 
 İLK DERECE MAHKEMESİ KARARI: "...Yargıtay ve İstinaf Mahkemeleri tarafından verilen kararlar, Bölge Adliye Mahkemeleri Hukuk Daireleri’nin kesin nitelikteki kararları arasındaki uyuşmazlığın giderilmesine dair kararlar ve gerekçeleri değerlendirildiğinde, Mahkememiz'in faaliyete başladığı 01.09.2021 tarihinden önce açılmış olan davalar yönünden görevli mahkemenin, davanın açıldığı tarihte görevli olan Asliye Hukuk Mahkemeleri olduğu, mahkemelerin görevinin kamu düzenine ilişkin olduğu, kamu düzeninin ve göreve ilişkin dava şartının yargılamanın her aşamasında nazara alındığı, buna göre dava tarihi itibariyle görevli olmayan Mahkememizce yargılamaya devam edilmesinin hukuki dayanağının olmadığı kanaatine varılarak ve HMK 30.
 
@@ -159,6 +179,8 @@ HMK'nın 355. maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçes
 KARAR:Yukarıda açıklanan nedenlerle: 1-Taraf vekillerinin istinaf başvurularının HMK'nın 353/(1)b-1 maddesi uyarınca, ayrı ayrı ESASTAN REDDİNE …
 
 ## İstanbul BAM 14. HD 2022/1416 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838990700)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda; "...Tüm açıklamalar nazara alındığında; davacı tarafça taşıma işleminden sonraki 1 yıllık süre içerisinde takip işlemi yapıldığı, zamanaşımı süresinin kesildiği ancak yeniden işlemeye başladığı, her bir takip işleminde zamanaşımı süresinin kesildiği, ancak takip dosyasında en son alacaklı- davacı vekilinin 20/10/2014 tarihinde PTT na müzekkere yazılmasının talep edildiği, kaldı ki alacaklının talebiyle bile olsa akıbetin sorulmasının zaman aşımını kesmeyeceği (Gaziantep BAM 12 HD 2021/284 esas, 2021/653karar ), takibin durdurulma tarihi ile dava açılış tarihi arasında 1 yılı aşkın bir sürenin bulunduğu anlaşılmakla alacak talebi CMR’nin 32, TBK’nun 153, 154 maddeleri gereğince dava tarihinden önce zamanaşımına uğramış olup davanın zamanaşımı nedeniyle reddine karar verilerek aşağıdaki şekilde hüküm kurulmuştur." gerekçesiyle, davanın davasının zamanaşımı nedeniyle reddine, karar verilmiştir.
 

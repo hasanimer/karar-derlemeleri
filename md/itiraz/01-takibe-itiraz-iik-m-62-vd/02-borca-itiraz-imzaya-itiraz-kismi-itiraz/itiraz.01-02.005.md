@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2014/4189 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/103016100)
+
 Davacı firma, 18/01/2010 tarihinde doğrudan temin yöntemi ile davalı üniversiteye malzeme sattığını ancak fatura bedelinin ödenmediğini, daha sonra ise 01/06/2010 tarihinde imzalanan sözleşme gereğince yine davalıya teslim ettiği malzemenin bedelinin ödenmediğini, yapılan icra takibine ise davalının kısmi itirazda bulunduğunu ancak yapılan itirazın haksız olduğunu ileri sürerek, itirazın iptali ile birlikte %40 icra inkar tazminatının davalıdan tahsilini istemiş, 08.06.2012 tarihli ıslah dilekçesi ile de itirazın kaldırılmasını istediği miktarı 6.075,84 TL olarak düzelttiklerini belirtmiştir.
 
 Davalı, dava açılmadan evvel borcun tamamının ödendiğini savunarak davanın reddini dilemiştir.
@@ -37,6 +39,8 @@ SONUÇ: Yukarıda açıklanan nedenle davacının temyiz itirazının kabulü il
 
 ## Yargıtay 12. HD 2013/38128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/54109500)
+
 Somut olayda alacaklı tarafından faize ilişkin herhangi bir sözleşmeye dayanılmadığı takip dayanağı belge adi nitelikte olup borcun ticari işten kaynaklandığı da İİK. nun 68. maddesinde yazılı belge ile ispatlanamamıştır.
 
 Bu durumda, alacağa 3095 sayılı Kanunun 2/1. maddesinin göndermesiyle aynı kanunun 1.maddesi uyarınca yasal faiz istenebileceğinden, mahkemece, faize itirazın kaldırılması istemin bu doğrultuda incelenerek oluşacak sonuca göre karar verilmesi gerekirken avans faiz oranı esas alınarak yazılı şekilde hüküm tesisi isabetsizdir.
@@ -44,6 +48,8 @@ Bu durumda, alacağa 3095 sayılı Kanunun 2/1. maddesinin göndermesiyle aynı 
 SONUÇ : Borçluların temyiz itirazlarının kısmen kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 4. HD 2013/19971 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/266603100)
 
 Dava, itirazın iptali istemine ilişkindir.
 
@@ -61,6 +67,8 @@ SONUÇ: Temyiz olunan kararın yukarıda (2) sayılı bentte gösterilen nedenle
 
 ## Yargıtay 6. HD 2013/16111 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522180400)
+
 Dava, kira alacağının tahsili için girişilen takibe vaki itirazın kaldırılması ve kiralananın tahliyesi istemine ilişkindir.
 
 …
@@ -73,6 +81,8 @@ Tahliye hakkı halefiyet yolu ile yeni malike intikal etmeyeceğinden mahkemece 
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 428 ve İİK.nın 366.maddesi uyarınca kararın BOZULMASINA …
 
 ## Yargıtay 6. HD 2013/14990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521818700)
 
 Dava, itirazın kaldırılması ve kiralananın tahliyesi istemlerine ilişkindir.
 
@@ -88,12 +98,16 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile karar
 
 ## Yargıtay 12. HD 2013/11178 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/53359100)
+
 Yukarıda tarih ve numarası yazılı mahkeme kararının müddeti içinde temyizen tetkiki alacaklı tarafından istenmesi üzerine bu işle ilgili dosya mahallinden daireye gönderilmiş olup, dava dosyası için Tetkik Hakimi e tarafından düzenlenen rapor dinlendikten ve dosya içerisindeki tüm belgeler okunup incelendikten sonra işin gereği görüşülüp düşünüldü :Borçlu aleyhinde genel haciz yoluyla ilamsız icra takibi yapılmış, borçlunun itirazı üzerine takip durmuş, alacaklı tarafından icra hukuk mahkemesine itirazın kaldırılması davası açılmıştır.Alacaklı tarafından takibe dayanak olarak 05.12.2007 tarihli bir adet adi senet gösterilmiştir. Borçlu borca itiraz dilekçesinde borcun aslına ve tüm ferilerine, faiz miktar ve oranlarına itiraz etmiş, açıkça adi senet altındaki imzaya itiraz etmemiştir. İİK'nun 68. maddesi gereğince, talebine itiraz edilen alacaklının takibi, imzası ikrar veya noterlikçe tasdik edilen borç ikrarını içeren bir senede yahut resmi dairelerin veya yetkili makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz veya belgeye müstenitse, alacaklı itirazın kendisine tebliği tarihinden itibaren altı ay içinde itirazın kaldırılmasını isteyebilir.
 Adi senet altındaki imza açıkça inkar edilmediğinden, imzası ikrar edilmiş adi senet İİK'nun 68. maddesi kapsamında borç ikrarını içeren belge niteliğindedir. Bu durumda, borçlu ödeme iddiasını İİK.nun 68.maddesinde sayılan belgeler ile ispat edemediğine göre mahkemece alacaklının itirazın kaldırılması isteminin kabulüne karar verilmesi gerekirken, yazılı gerekçeyle reddi isabetsizdir.
 
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 11. HD 2013/5815 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489355800)
 
 Davacı vekili, müvekkili sigorta şirketi tarafından dava dışı sigortalı Ford Otomotiv A.Ş tarafından ...' dan ithal edilen emtianın nakliyesi sırasında hasarlanması sonucu ödedikleri hasar tazminatından ... rücuen tazminat alacağının tahsili için davalı aleyhinde icra takibi yapıldığını, davalının haksız itirazı üzerine takibin durduğunu, emtianın davalı tarafından yapılan nakliyesi neticesi eksik teslim edildiğini, müvekkili tarafından nakliyat sigorta poliçesi kapsamında sigortalının zararının karşılandığını, ileri sürerek itirazın iptaline ve takibin devamına karar verilmesini talep ve dava etmiştir.
 
@@ -111,6 +125,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 6. HD 2013/4371 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657255900)
+
 Dava, kira alacağının tahsili ve tahliye istemi ile yapılan icra takibine vaki kısmi itirazın kaldırılması takibin devamı, % 40 icra tazminatı ve temerrüt nedeni ile tahliye istemine ilişkindir.
 
 …
@@ -123,6 +139,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 
 
 ## Yargıtay 19. HD 2013/2739 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/807248500)
+
 Davalı ... ve ... Ekmek San.
 
 …
@@ -133,6 +151,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 12. HD 2013/2101 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/54468700)
+
 Alacaklı hakkında Yatağan Cumhuriyet Başsavcılığı'nın 2003/284 Hazırlık sayılı dosyasında sahtecilik suçu kapsamında yapılan soruşturmada, dayanak senet hakkında aldırılan 16.01.2010 tarihli ekspertiz raporuna göre, senet bedelinin tahrifattan önce 6.750.000.000 TL olduğu görülmektedir. Bu durumda borçlular icra dairesine süresinde yaptığı borca itirazında açıkça senetteki imzaya itiraz etmediğinden dayanak senet İİK.nun 68/1. anlamında imzası ikrar edilmiş belge sayılır.
 
 …
@@ -140,6 +160,8 @@ Alacaklı hakkında Yatağan Cumhuriyet Başsavcılığı'nın 2003/284 Hazırl�
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2013/483 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/55690700)
 
 Takibe konu senedin tanzim tarihinin 28.12.2010, vade tarihinin ise 30.08.2010 tarihi olduğu, bu haliyle vade tarihinin, tanzim tarihinden önce olduğu görülmektedir. Bu durumda tanzim tarihinden evvelki vadeyi taşıyan bu senette tanzim tarihinin TTK.nun 690. madde göndermesi ile bonolarda da uygulanması gereken TTK.nun 615. maddesine aykırı olarak düzenlendiğinin kabulü gerekeceğinden, TTK.nun 688-689. maddeleri gereğince dayanak senet bono vasfında kabul edilemez ise de, borçlu icra dairesine süresinde yaptığı borca itirazında açıkça senetteki imzaya itiraz etmediğinden dayanak senet İİK.nun 68/1. anlamında imzası ikrar edilmiş belge sayılır.
 
@@ -151,6 +173,8 @@ SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yu
 
 ## Yargıtay 12. HD 2012/35277 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620739800)
+
 Alacaklı tarafından genel haciz yolu ile yapılan ilamsız icra takibinde borçlunun süresi içinde kısmi itirazda bulunduğu, alacaklının icra mahkemesine başvurarak, borçlunun kısmi itirazının kaldırılmasını ve takibin ticari faiz oranı üzerinden devamına karar verilmesini talep ettiği, mahkemece borçlunun takipten sonraki faize yönelik itirazını şikayet yoluyla icra mahkemesine yapması gerektiği, dava her ne kadar itirazın kaldırılması olarak açılmış ise de, şikayet niteliğinde kabul edilerek şikayetin kabulüne ve icra müdürlüğünün takibin durdurulmasına yönelik işleminin iptaline karar verildiği görülmüştür.
 
 İİK’nun 68/1. maddesi gereğince, talebine itiraz edilen alacaklının takibi, imzası ikrar veya noterlikçe tasdik edilen borç ikrarını içeren bir senede yahut resmi dairelerin veya yetkili makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz veya belgeye müstenit ise, alacaklı itirazın kaldırılmasını isteyebilir.
@@ -161,6 +185,8 @@ SONUÇ : Borçlunun temyiz itirazlarının kısmen kabulü ile mahkeme kararın�
 
 ## Yargıtay 12. HD 2012/27430 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/57674400)
+
 Borçlu itirazın kaldırılması davası sırasında takip dayanağı belgenin ödeme emri ile birlikte kendilerine tebliğ edilmediğini, bu nedenle borca itirazları ile birlikte imzaya itirazda bulunmadıklarını iddia etmişse de İİK.nun 58/3.maddesi gereğince; "Alacak belgeye dayanmakta ise, belgenin aslının veya alacaklı yahut mümessili tarafından tasdik edilmiş, borçlu sayısından bir fazla örneğinin takip talebi anında icra dairesine tevdii mecburdur". Aynı Yasa'nın 61/1. maddesinin 2. cümlesine göre de, takip belgeye dayanıyorsa, belgenin tasdikli bir örneği ödeme emrine bağlanır. Bu hükümlerin gereğinin yerine getirilmemesi halinde, borçlunun şikayet yoluyla ödeme emrini iptal ettirme hakkı vardır (HGK.nun 02.02.2000 tarih ve 2000/12-50 E. - 2000/47 K.). Bu konudaki başvurunun İİK.nun 16/1.maddesi uyarınca ödeme emrinin tebliğ tarihinden itibaren 7 günlük süre içerisinde icra mahkemesine yapılması zorunludur. Genel haciz yoluyla yapılan takipte, borçlunun yasal sürede icra dairesine itiraz etmiş olması, şikayet yoluyla icra mahkemesinden ödeme emrinin iptalini istemesine engel teşkil etmez.
 
 İİK.nun 68/1. maddesinde talebine itiraz edilen alacaklının takibi, imzası ikrar veya noterlikçe tasdik edilen borç ikrarını içeren bir senede yahut resmi dairelerin veya yetkili makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz veya belgeye dayanmakta ise, alacaklı itirazın kendisine tebliği tarihinden itibaren altı ay içinde itirazın kaldırılmasını isteyebilir.
@@ -170,6 +196,8 @@ Borçlu itirazın kaldırılması davası sırasında takip dayanağı belgenin 
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK. 366 ve HUMK.’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 6. HD 2012/16997 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054838400)
 
 Dava kira borcunun tahsili ve tahliyeye ilişkin yapılan takibe vaki itirazın kaldırılması ve kiralananın tahliyesi istemine ilişkindir.
 
@@ -183,12 +211,16 @@ SONUÇ: Yukarıda açıklanan nedenlerle, kararın BOZULMASINA …
 
 ## Yargıtay 6. HD 2012/15964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1049614300)
+
 İcra takibinde dayanılan ve karara esas alınan 02.06.2004 başlangıç tarihli ve 31.12.2013 bitiş tarihli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Davacı alacaklı 24.07.2007 tarihinde başlatmış olduğu icra takibinde, aylık 10.952 TL'den 2007 Ocak, Şubat, Mart, Nisan, Mayıs ve Haziran ayları kira bedeli olan 65.712 TL ve 2.103 TL işlemiş faiz olmak üzere toplam 67.815 TL'nin davalıdan tahsilini istemiş, davalı kiracı ödeme emrinin tebliği üzerine yasal sürede, Balıkesir 1. Asliye Hukuk Mahkemesi'nin 2005/327 esas 2006/317 sayılı kararı ile aylık kiranın 8.491,66 TL olarak tespitine karar verilmesine rağmen bu karar dikkate alınmadan hatalı hesap sonucu aylık 10.952 TL üzerinden yapılan takibe itiraz ettiğini bildirmiştir. Davacının aynı takip ile ilgili yaptığı şikayeti üzerine Balıkesir 2.
 İcra Hukuk Mahkemesi'nin 27.01.2009 tarih, 2008/257-2009/22 Sayılı kararı ile borçlunun aylık kira bedelinin 8.491,66 TL olduğu yönünde kısmi itirazda bulunduğu kabul edilerek, 50.949,96 TL alacak ve bu alacağa isabet eden memurlukça hesaplanacak faiz dışındaki itiraz edilen alacak yönünden takibin durdurulmasına karar verilmiş olup, bu karar 16.06.2009 tarihinde Yargıtay 12. Hukuk Dairesince onanmak suretiyle kesinleşmiştir. Yukarıda belirtilen kesinleşmiş mahkeme kararı ile davalının itirazının kısmi itiraz olduğu kabul edildiğine ve itiraz edilen alacak miktarı üzerinden takibin durdurulmasına karar verildiğine göre mahkemece davalı kiracının kısmi itirazında haklı olup olmadığı hususunun incelenerek sonucuna göre bir karar verilmesi gerekirken hatalı değerlendirme sonucu daha önce kısmi itirazın kaldırılmasına karar verildiğinden bahisle davacının itirazın kaldırılması talebi hakkında karar verilmesine yer olmadığına karar verilmesinin doğru olmadığı bu defaki incelemeden anlaşılmakla davacının karar düzeltme isteğinin kabulüne karar verilmesi gerekmiştir. ./..
 
 SONUÇ:1-Mahkeme kararında ve Yargıtay ilamında yazılı sebeplere göre davalı kiracının karar düzeltme isteminin reddine, takdiren 200.00.-TL para cezasının karar düzeltme isteyen davalıdan alınmasına, 2-Davacı kiralayanın karar düzeltme isteğinin kabulü ile Dairemizin 21.05.2012 gün ve 2012/4234 Esas, 7514 Karar sayılı itirazın kaldırılması talebi hakkında karar verilmesine yer olmadığına dair kararın onanmasına ilişkin kararın kaldırılarak mahalli mahkemenin 24.01.2012 gün 2008/258 Esas …
 
 ## Yargıtay 19. HD 2012/12773 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/806439200)
 
 Dava, yemek satışından kaynaklanan faturalara dayalı alacağın tahsili için girişilen icra takibine yönelik itirazın iptali ve icra inkar tazminatı istemine ilişkindir.
 
@@ -204,6 +236,8 @@ SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle davacı vekilinin temyi
 
 ## Yargıtay 6. HD 2012/11868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059794700)
+
 Dava, kira alacağının tahsili amacıyla başlatılan icra takibine vaki itirazın kaldırılması ve tahliye istemine ilişkindir.
 
 …
@@ -215,6 +249,8 @@ Dava, kira alacağının tahsili amacıyla başlatılan icra takibine vaki itira
 SONUÇ:Yukarıda 2.bentte açıklanan nedenle kararın BOZULMASINA …
 
 ## Yargıtay 6. HD 2012/10045 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054439100)
 
 Dava, kira alacağından dolayı yapılan takipte itirazın iptali istemine ilişkindir.
 
@@ -228,11 +264,15 @@ SONUÇ:Yukarıda 2.bentte açıklanan nedenlerle temyiz itirazlarının kabulü 
 
 ## Yargıtay 12. HD 2012/8798 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/60931900)
+
 Alacaklı tarafından başlatılan genel haciz yolu ile ilamsız takipte, borçlunun süresinde borca ve faize itiraz etmesi üzerine alacaklı tarafından açılan itirazın iptali davasında Kadıköy 3.Asliye Ticaret Mahkemesi'nin 10/06/2010 tarih ve 2008/722 E.- 2010/449 K. sayılı kararı ile itirazın iptaline ve inkar tazminatına hükmedildiği görülmektedir. Alacaklının işlemiş faiz yönünden talebi itirazın iptali kararı ile kesinleşmiştir. Ancak, takipten sonra talep edilen %27 faiz oranının reeskont faizi olduğu takip talebinde açıkça yazılıdır. Bu durumda, takip tarihinden tahsil tarihine kadar %27 oranı aşılmamak üzere değişen oranlarda faiz hesaplanması gerekir. Mahkemece, takip tarihinden sonraki dönem için değişen oranlarda reeskont faizi (değişen oranlarda reeskont işlemlerinde uygulanan iskonto) uygulanmasına karar verilmesi gerekirken, %27 faiz oranının kesinleştiğinden bahisle bu oran üzerinden takibe devam edilmesi sonucunu doğuracak şekilde şikayetin reddi yönünde hüküm tesisi isabetsizdir.
 
 SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 6. HD 2012/6644 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563131400)
 
 Alacaklı tarafından kiracı borçlu hakkında ödenmeyen kira paralarının tahsili amacıyla tahliye istekli olarak başlatılan 21/01/2010 tarihli icra takibinde, 296.065,08.-TL asıl alacak ve 1.757,42 TL işlemiş faiz toplamından oluşan alacağın tahsili istenmiştir. Ancak, daha sonra alacaklı vekili icra müdürlüğüne sunduğu 17.02.2010 tarihli dilekçe ile, takip konusu alacak miktarını “293.790,83 TL asıl alacak ve 1.753,44 TL işlemiş faiz” olarak düzeltmiştir. İtirazın kaldırılması talebi üzerine mahkemece, davanın kısmen kabulüne, kısmi itirazın kaldırılmasına takibin 293.789,22 TL asıl alacak ve 1.091,48 TL işlemiş faiz üzerinden devamına, fazla talep edilen 2.275,86 TL asıl alacak ve 665,94 TL işlemiş faiz yönünden takibin iptaline karar verilmiştir. Bu durumda mahkemece alacak hesabı yapılırken davacı alacaklı vekilinin 17.02.2010 tarihli dilekçesinin dikkate alınmadığı anlaşılmıştır.
 Oysa, davada davacının talep edilebileceği alacak miktarı, davalının kısmi itirazının ne kadarında haklı ya da haksız olduğu kısaca davanın kabul edilen ve reddedilen kısmı belirlenirken, takip talebinde bildirilen alacak miktarı değil, davacı alacaklı vekilinin icra dairesine sonradan verdiği ve talep edilen alacak miktarının düzeltildiği 17.02.2010 tarihli dilekçenin ve bu dilekçede bildirilen alacak (asıl alacak ve işlemiş faiz alacağı) miktarının esas alınması gerektiği bu defaki incelemeden anlaşılmakla davacının ve davalının bu yöndeki karar düzeltme isteklerinin kabulüne karar verilmesi gerekmiştir.
@@ -240,6 +280,8 @@ Oysa, davada davacının talep edilebileceği alacak miktarı, davalının kısm
 SONUÇ: Davacı alacaklı ile davalı borçlunun karar düzeltme isteklerinin kabulü ile, Dairemizin 28.11.2011 gün ve 2011/8949 Esas -2011/13083 Karar sayılı onama kararının kaldırılarak mahalli mahkemenin 31.03.2011 gün ve 2010/880 Esas ve 2011/377 Karar sayılı kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2012/5752 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/45499300)
 
 Öte yandan, İcra Mahkemeleri, İcra ve iflas işleri için kurulmuş özel bir yargı organıdır. İcra ve İflas Dairelerinin muamelelerine karşı yapılan şikayetlerle itirazların incelenmesi İcra Mahkemesi hakimi yahut kanun gereğince bu görev kendisine verilmiş olan hakim tarafından yapılır (İİK’nın md. 4). Yargıtay HGK’nın 2003/3-737 E. 2003/700 K. sayılı ve 19.11.2003 tarihli kararı ile de belirtildiği üzere, İcra Mahkemeleri, istisnalar saklı kalmak koşulu ile takip hukukuna ilişkin uyuşmazlıklara bakar ve bununla görevlidir. Bu tür istemler hakkında görevsizlik kararı veremez. İstem ya red veya kabul edilir. Alacaklı tarafından İİK’nın 275. maddesi gereğince itirazın kaldırılması istenmiştir. Bu istem genel mahkemede görülmesi gereken dava niteliğinde olmayıp, takip hukukuna yönelik bir istemdir.
 
@@ -250,6 +292,8 @@ Olayımızda; davacının icra takibine dayanak yaptığı tahliye taahhüdü no
 S o n u ç: Yukarıda açıklanan nedenlerle kararın (BOZULMASINA)
 
 ## Yargıtay 6. HD 2012/4956 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569981900)
 
 Dava, kira alacağının tahsili için yapılan icra takibine vaki itirazın kaldırılması ve tahliye istemine ilişkindir.
 
@@ -263,6 +307,8 @@ SONUÇ: Yukarıda 1 nolu bentte açıklanan nedenlerle tahliye isteminin reddine
 
 ## Yargıtay 19. HD 2012/1578 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/809525800)
+
 Mahkemece toplanan deliller ve dosya kapsamına göre; davacı banka tarafından davalı adına kredi kartı tahsis edildiği, davalının kredi kartını kullanarak harcamalarda bulunduğu, davalı tarafından borca ait asgari ödemelerin yapılmadığı, bu nedenle ödenmeyen kredi kartı hesabının 23/05/2009 tarihinde kat edilerek davacı banka tarafından hesap kat ihtarnamesinin 26/05/2009 tarihinde davalıya tebliğ çıkartıldığı, davalının adreste bulunduğu halde ihtarnameyi tebliğ almaktan imtina ettiği, hesap kat ihtarnamesinin 08/07/2009 tarihinde kart sahibine adresinde tebliğ edildiğinin kabul edilmesi gerektiği, ihtarnamede verilen sürenin dolması ile davalının 15/07/2009 tarihinde temerrüte düştüğü gerekçesiyle ...
 
 …
@@ -272,6 +318,8 @@ Davanın temelini oluşturan icra takibinde asıl alacak ve ferilerin toplamı o
 SONUÇ: Yukarıda açıklanan nedenlerle hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2012/318 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/527467700)
 
 Davacı vekili, davalıların kooperatiften kullanılan kredi borcunu ödemediklerinden dolayı başlatılan icra takibine kısmi itirazda bulunduklarını ve itirazın haksız olduğunu ileri sürerek, itirazın iptaline, takibin devamına ve %40'tan az olmamak üzere icra inkar tazminatının davalılardan tahsiline karar verilmesini talep ve dava etmiştir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Diyarbakır BAM 6. HD 2026/682 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207244500)
+
 İlk Derece Mahkemesince yapılan yargılama sonucunda; davalı tarafın davaya cevap dilekçesi ile süresi içinde zamanaşımı def'inde bulunduğu, davacının üçüncü kişiye ödeme yaptığı tarihten itibaren 2 yıl içinde sigortalısına rücu etmesi gerektiği, iki yıllık rücu zamanaşımı süresi ödemenin yapıldığı ..... tarihinden başlamakta olup, söz konusu tarih üzerinden 2 yıl içinde, ..... tarihinde icra takibinin açıldığı, icra takip tarihi olan ..... tarihinde zamanaşımı süresinin kesildiği, icra takibi borçlunun itirazı ile durduğundan, davacının en geç takip tarihinden itibaren 2 yıl içinde alacak veya itirazın iptali davası açması gerektiği, buna göre davacının dava açmak için son gününün ..... olduğu, davacının arabulucuya başvurduğu, sürecin ..... tarihinde başladığı, son tutanağın ..... tarihinde düzenlendiği, yani ara buluculuk sürecinin 52 gün sürdüğü, buna göre davacının işbu davayı açmak için son gününün ..... + 52 gün = ..... tarihi olduğu, oysa işbu davanın ..... tarihinde açıldığı, her ne kadar icra dosyasında borçlunun itiraz evrakı, davacıya tebliğ edilmemiş ise de itirazın iptali davası açmak için hak düşürücü sürenin başlamamasının, özel kanunda düzenlenen zamanaşımı
 süresinin işlemesine engel olmadığı gerekçesiyle davanın zamanaşımı nedeniyle reddine karar verilmiştir.
 
@@ -102,6 +104,8 @@ Açıklanan nedenlerle; ilk derece mahkemesi kararı esas ve usul yönünden huk
 
 ## Ankara BAM 21. HD 2026/542 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207959500)
+
 Davalılar vekili cevap dilekçesinde özetle; davacının müvekkilleri aleyhine haksız şekilde icra takibi başlattığını, müvekkilinin davacıya ödeme amaçlı çekler verdiğini, davacının verilen çekleri dahil etmeksizin hesaplama yaptığını, davacının icra takibinde talep ettiği miktarın doğru olmadığını, müvekkillerinin böyle bir borcu bulunmadığını, davacının talep ettiği faiz miktarının fahiş olduğunu bildirerek davanın reddini, %20 oranında kötüniyet tazminatına hükmedilmesini istemiştir.
 
 …
@@ -124,6 +128,8 @@ Ankara 5. Asliye Ticaret Mahkemesi'nin 14/11/2022 tarih ve 2019/286 Esas 2022/66
 
 ## İstanbul BAM 17. HD 2026/503 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204303800)
+
 Davalı vekili cevap dilekçesinde özetle; sanat galerisinde alınması gereken önlemlerin alınmadığını, galerinin ruhsatının bulunmadığını, şirket yetkilisinin galeriyi ayrıca ev olarak kullandığını, sağlık personelinin ev olduğu düşüncesi ile tüm dikkat ve özeni göstererek hastaya müdahale ettiğini, olayda şirket çalışanlarının bir kusurunun ve illiyet bağının bulunmadığını, müvekkilinin verdiği evde sağlık hizmeti kapsamında müvekkili çalışanlarının bir evde gösterebilecekleri azami özeni gösterdiklerini belirterek davanın reddine ve davacı aleyhine kötüniyet tazminatına hükmedilmesini savunmuştur.
 
 …
@@ -140,6 +146,8 @@ Açıklanan nedenlerle; ilk derece mahkemesi kararı usul ve yasaya uygun olduğ
 
 ## İstanbul BAM 17. HD 2026/492 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202624500)
+
 Davalı vekili cevap dilekçesinde özetle; dava değeri düşük gösterildiğinden öncelikle eksik harç bedelinin ikmal ettirilmesi gerektiğini, davanın zamanaşımına uğradığını, itirazın iptalinin süresinde istenmediğini, davacı tarafça başlatılan icra takibinin İİK ve Yargıtay içtihatlarına aykırı olarak başlatıldığını, ödeme emrinde bulundurulması zorunlu unsurların eksik/yanlış olarak gösterildiğini, yargı yerinin caiz olup olmadığı, aynı konuda kesin hüküm bulunup bulunmadığı, davacının dava açmakta hukuki yararının bulunup bulunmadığı, kesin yetki kuralının bulunup bulunmadığı gibi hususlar, dava şartlarından olduğundan bu hususların da Mahkeme’ce resen araştırılması gerektiğini, arabuluculuk süreci tamamlamadan davanın açıldığını, davacı tarafın Büyükçekmece İcra Müdürlüğü...
 
 …
@@ -155,6 +163,8 @@ Dosya kapsamına göre, davacının Büyükçekmece İcra Müdürlüğünün... 
 Davacı vekilinin istinaf başvurusunun KABULÜNE, Bakırköy 1. Asliye Ticaret Mahkemesinin 2024/970 Esas, 2025/1198 Karar sayılı ve 06/11/2025 tarihli kararının HMK'nun 353/1a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2026/490 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204070400)
 
 Davacı vekili dava dilekçesi ile; davalının müvekkiline olan ve havale dekontları ile sabit olan borcunu ödemediğini, bunun üzerine İstanbul 20. İcra Müdürlüğü'nün... Esas sayılı dosyası ile davalı aleyhine iflas yolu ile takip başlattıklarını, iflas ödeme emrinin 08/02/2022 tarihinden davalıya tebliğ edildiğini, takibin itiraz edilmeden kesinleştiğini ileri sürerek alacağın ferileri ile birlikte ödenmesi için davalıya depo emri çıkartılmasını ve borcun ödenmemesi halinde İİK'nın 156/1 fıkrası gereğince davalının iflasına karar verilmesini talep ve dava etmiştir.
 
@@ -176,6 +186,8 @@ Sonuç olarak davanın kabulü ile davalının iflasına dair ilk derece mahkeme
 
 ## Ankara BAM 31. HD 2026/439 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205778100)
+
 Davacı vekili; müvekkili ile davalı arasında 18/12/2017 tarihinde yüklenici hafriyat sözleşmesi yapıldığını, sözleşme gereğince ... ada 1 parselde kayıtlı arsa üzerinde hafriyat çalışması yapıldığını, yapılan işin toplam bedeli olan 1.029.078,00-TL için 3 adet fatura düzenlendiğini, ödenmeyen bedelin 584.078,00-TL olduğunu, borcunu ödememesi üzerine Eskişehir 6. İcra Müdürlüğü'nün 2019/8164 esas nolu dosyasında icra takibi başlatıldığını, davalı/borçlu vekili tarafından borcun tamamına itiraz edildiğini, bu itiraz üzerine icra takibinin durdurulduğunu, ayrıca davalı/borçlu vekilinin yetki itirazında da bulunduğunu ancak yetki itirazının yerinde olmadığını, arabuluculuğa başvurulduğunu, sonuç alınamadığını ileri sürerek, icra takibine yapılan itirazın iptali ile takibin devamına, davalı aleyhine icra inkar tazminatına hükmedilmesine karar verilmesini talep ve dava etmiştir.
 
 …
@@ -183,6 +195,8 @@ Davacı vekili; müvekkili ile davalı arasında 18/12/2017 tarihinde yüklenici
 Eskişehir 6. İcra Müdürlüğünün 2019/8164 esas sayılı dosyasının incelenmesinden; davacı alacaklı tarafından davalı borçlu hakkında 18/12/2017 tarihli yüklenici hafriyat sözleşmesine dayalı faturadan kaynaklı 534.078,00 TL asıl alacağın takip tarihinden itibaren işleyecek reeskont/avans faizi ile birlikte tahsili için ilamsız icra takibi başlatıldığı, davalı borçlunun takibe itirazı üzerine takibin durduğu ve davanın yasal süresinde açıldığı anlaşılmıştır.
 
 ## İstanbul BAM 14. HD 2026/281 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199029200)
 
 Mahkemece, borçlular ... ve ... ... AŞ vekilinin ihtiyati hacze itirazı üzerine, ihtiyati haciz kararının dayanak yapıldığı icra takibine ihtiyati hacze itiraz edenler vekilince 09/09/2025 tarihinde itiraz edildiği, itiraz üzerine takibin durduğu, itiraz dilekçesinin alacaklıya 17/09/2025 tarihinde tebliğ edildiği, İİK'nın 264/2 maddesi gereğince takibin durduğunu tebligatla öğrenen alacaklı vekilinin tebliğ tarihinden itibaren yedi günlük dava açma süresi içinde dava açmadığı, bu şekilde İİK'nın 264/2 maddesi gereğince ihtiyati haciz kararının hükümsüz kaldığı belirtilerek itirazın kabulü ile ihtiyati haczin kaldırılmasına karar verilmiştir.
 
@@ -195,6 +209,8 @@ Buna göre somut olayda, itiraz edenler vekilince, ödeme emrine itirazın alaca
 HMK'nın 353/1.b.2 ve İİK'nın 265/son maddeleri uyarınca alacaklı vekilinin istinaf başvurusunun kabulü ile İlk Derece Mahkemesinin ihtiyati hacze itirazın kabulüne dair verdiği 09.10.2025 tarihli ek kararın kaldırılmasına …
 
 ## İstanbul BAM 17. HD 2026/178 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193813900)
 
 Mahkemece; hakkında iflas talebinde bulunulan borçlunun itirazı nedeniyle takip durduğundan, öncelikle itirazın kaldırılması koşullarının bulunup bulunmadığı, başka ifadeyle iflas istemine dayanak olarak gösterilen alacağın bulunup bulunmadığı ve mevcutsa miktarının tespitinin gerektiği, 6100 Sayılı HMK'nın 200. ve devamı maddeleri uyarınca kural olarak iddia sahibinin iddiasını ispatlaması gerektiği, somut olayda davacının taraflar arasındaki ticari ilişkinin sona ermesinden sonra stoklarında bulunan ürünlerin kendisine fahiş fiyattan fatura edildiğini tespit ettiği ve bu nedenle cari hesaba alacak kayıt ederek davalıya bildirdiğini beyan ettiği, davacının, sözleşmenin feshinden sonra kendi yaptığı hesaplamaya göre cari alacak kaydı oluşturduğu ve davalıdan talep ettiği, ancak davalının ticari kayıtlarında veya kabulünde bu yönde bir alacak kaydı bulunmadığı gibi taraflar arasındaki sözleşmeden de böyle bir sonuca ulaşmanın mümkün olmadığı, bilirkişi heyeti raporunun da aynı yönde olduğu, buna göre davacının alacağın varlığını ispatlayamadığı gerekçesiyle davanın reddine, talep yargılamayı gerektirdiğinden davalı borçlunun kötü niyet tazminatı ödenmesi talebinin de reddine karar
 verilmiştir.
@@ -209,6 +225,8 @@ görülmezse kaldırılır ve borçluya depo emri tebliğ edilir. Depo emrinde b
 
 ## İstanbul BAM 45. HD 2026/138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191875400)
+
 Davalı vekili cevap dilekçesi ile; müvekkili ile davalı arasında yapılan sözleşme ile müvekkili tarafından yapımının üstlenildiği ... sitesine ilişkin araziden geçen enerji hattının deplase edilmesi işinin davacı tarafından anahtar teslim olarak üstlenildiğini, işin 45 günlük mutad sürede bitirilmesi gerektiğini, ancak davacı ile yapılan sözleşmenin imzalanmasından sonra davacıya yapılan peşinat ödemelerinden sonra işin geciktirildiğini, 20/07/2016 tarihli tutanak ile davacının gerekli tedbirleri almadığından kazaya neden olduğunun tespit edildiğini, dava konusu parsele ilişkin ... ruhsatının davacının gecikmeleri nedeniyle 1 yıl gecikme ile 22/08/2016 tarihinde alındığını, davacı tarafından işin 1 yıl geciktirildiğini, işin halen davacı tarafından tamamlanmadığını, bir kısım alt ... ve açıkta kalan kabloların bir kısmının müvekkilince 10.000,00 TL harcama yapılarak kapatıldığını, halen açıkta kalan kabloların mevcut olduğunu, ... ruhsatı alabilmek için ...
 
 …
@@ -222,6 +240,8 @@ tarihinden sonra ticari ilişki olmadığı, takip tarihi olan 22.05.2018 tarihi
 Davalı vekilinin istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2026/71 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190760400)
 
 Davacı vekili dava dilekçesinde özetle; Davacı şirket ile hizmet, ticari ilişkisi bulunan davalı borçlu ... A.Ş.'nin (marka adı "...") 22.06.2020 tarihinde ... ...A.Ş. ile birleşerek infisah olduğunu, bu sebeple huzurdaki bu dava devralan şirket ... ...A.Ş.'ye karşı açıldığını, taraflar arasında verilen hizmete ilişkin yazılı bir sözleşme akdedilememişse de; taraflar arasındaki e-posta yazışmaları ve fatura bedellerine ve içeriklerine itiraz edilmemesi, hizmet ve hizmet bedeli konusunda tarafların mutabık kaldığını ve aradaki sözleşmesel ilişkiyi kanıtladığını beyanla İstanbul 28. İcra Müdürlüğünün ...
 

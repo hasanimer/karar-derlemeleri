@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 43. HD 2024/1404 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068427900)
+
 Dava, nakliyat emtia sigorta poliçesi kapsamında dava dışı sigortalıya ödenen hasar bedelinin gemi donatanı/taşıyana izafeten davalıdan rücuen tahsili amacıyla yapılan takibe vaki itirazın iptali istemine ilişkindir.
 
 …
@@ -33,6 +35,8 @@ Maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtile
 KARAR :Yukarıda ayrıntısı ile açıklanan nedenlerle;1-Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 43. HD 2024/1392 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068701200)
 
 Dava, ticari satım sözleşmesine dayalı faturadan kaynaklanan alacağın tahsili istemiyle başlatılan 2 adet icra takibine vaki itirazın iptali davası ile birlikte kur farkı alacağı davasıdır.
 
@@ -50,6 +54,8 @@ Mahkemece herhangi bir ayırım yapmadan ve alacak istemine ilişkin bir değerl
 HÜKÜM: Yukarıda açıklanan nedenlerle: 1-Davacı vekilinin istinaf başvurusunun KABULÜ İLE, istinaf incelemesine konu İlk Derece Mahkemesi kararının HMK'nın 353(1)a-6 maddesi uyarınca USULDEN KALDIRILMASINA …
 
 ## Adana BAM 9. HD 2024/1391 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1050887300)
 
 Davalı vekili cevap dilekçesi ile; davacının iddialarının gerçek dışı olduğu gibi taleplerinin de hukuki olmadığını, öncelikle, ...
 
@@ -72,6 +78,8 @@ Dava hukuki niteliği itibarıyla "İtirazın İptali (Ticari Satımdan Kaynakla
 Somut olayda, davacı şirketçe davalı ile aralarındaki cari ilişkiye dayanılarak bir miktar para alacağının davalıdan tahsili konusunda, genel yetkili olan davalı şirketin yerleşim yeri olan ... İcra Dairesi yanında, davacı şirketin yerleşim yerinin bulunduğu yer çevresindeki ... İcra Dairesi'nin de yetkili olduğu, anılan icra dairelerinden birinde takip yapmakta seçim hakkı alacaklıya ait olup davacı tarafından yetkili ... İcra Dairesi'nde icra takibi başlatıldığı anlaşılmıştır. İİK'da itirazın iptali davası konusunda yetkili mahkemeye ilişkin özel bir düzenleme bulunmadığı dikkate alındığında, davacının kendi yerleşim yerinde başlattığı icra takibine borçlu tarafından itiraz edilmesi halinde, HMK'nın 6.maddesinde gösterilen genel yetkili mahkeme olan davalının yerleşim yeri mahkemesinde itirazın iptali isteminde bulunması davalının icra takibine yönelik yetki itirazının zımnen kabul edildiği şeklinde kabul edilemez. Bu nedenle, davalı vekilinin icra takibinin yetkili icra dairesinde yapılmadığına yönelik istinaf sebebi yerinde görülmemiştir.
 
 ## İstanbul BAM 45. HD 2024/1374 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1084510000)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece; ''...Taraflar arasında imzalanan Özel Güvenlik Hizmetleri Sözleşmesinde sözleşmenin 11. maddesinde anlaşmazlıkların çözümünde İstanbul Mahkemeleri ve icra dairelerinin yetkili olduğuna ilişkin yetki sözleşmesi yapıldığı, yetki sözleşmesinde İstanbul Mahkeme ve İcra Dairelerinin münhasıran yetkili olduğunun anlaşıldığı, sözleşmeyi yapan tarafların tacir olduğu, süresi içerisinde geçerli yetki ilk itirazında bulunulduğu, davanın ancak sözleşmeyle belirlenen mahkemede açılabileceği, anlaşılmakla mahkememizin davayı görmekle yetkili olmadığı, İstanbul Ticaret Mahkemeleri'nin yetkili olduğu..." gerekçesiyle, yetkisizlik nedeniyle davanın usulden reddine karar verilmiştir.
 
@@ -106,6 +114,8 @@ Davalı vekilinin istinaf talebinin KABULÜ ile Bursa ....Asliye Ticaret Mahkeme
 
 ## İstanbul BAM 43. HD 2024/1351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1071401500)
+
 İLK DERECE MAHKEMESİ KARARI: İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, "Dava, davacı tarafça poliçe kapsamında dava dışı sigortalıya ödenen bedelin rücuen tahsili amacıyla başlatılan takibe itirazın iptali istemine ilişkindir. Davalı tarafça yetki ilk itirazında bulunulmuş olup itirazın iptali davası için HMK'da özel bir yetki düzenlemesi bulunmamakta olup genel yetki kurallarının geçerli olduğu,davanın dayanağının davacı sigortalısı ...
 
 …
@@ -118,6 +128,8 @@ HMK'nın 355. maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçes
 KARAR: Yukarıda ayrıntısı ile açıklanan nedenlerle; 1-Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2024/1338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1092065900)
 
 Dava, hizmet sözleşmesinden kaynaklanan bakiye fatura alacağının tahsili için başlatılan icra takibine itirazın iptali istemine ilişkindir.
 
@@ -144,6 +156,8 @@ Kural olarak yetkili icra dairesine gelen icra dosyası ilk takip dosyasının d
 
 ## İstanbul BAM 13. HD 2024/1120 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1048104400)
+
 Türk Borçlar Kanunu madde 20-25'te yer alan denetime tabi olduğunu, İzmir 5 Asliye Ticaret Mahkemesi'nin 2021/527 E. ve 2022/287 K. Sayılı ve 16.3.2022 tarihli gerekçeli kararının "muhalefet şerhinde" bu hususa işaret edildiğini, dolayısıyla, yabancılık unsuru içeren olaylarda dahi, Mahkemenin Türk Borçlar Kanunu'nda yer alan genel işlem şartlarına ilişkin denetim kurallarının uygulanması gerektiğini; Türk Borçlar Kanunu'nun 25. Maddesince "Genel işlem koşullarına, dürüstlük kuralına aykırı olarak, karşı tarafın aleyhine veya onun durumunu ağırlaştıracak nitelikte hükümler konulamaz." Somut olayda yetki kaydının geçerli olması halinde söz konusu konşimento tahtında ortaya çıkan herhangi bir uyuşmazlıkta davacının Türk mahkemelerine başvuramayacak olup; Türk Medeni Kanunu'nun madde 2 "Dürüstlük Kuralı" uyarınca bahsi geçen yetki kaydının geçerliliği ise Türkiye'de bulunan ihracatçı firmalar açısından açık bir dengesizlik yaratacağını;
 Türk Borçlar Kanunu madde 25 çerçevesinde ise söz konusu yetki kaydı geçersiz hale geleceğini, somut olayda, konşimentoya koyulan yetki ve tahkim kaydının yükle ilgili kimsenin hak arama özgürlüğü üzerinde herhangi bir sınırlama getirmemesi gerekmekte olup, tahkim kaydının geçerliliği ve bağlayıcılığı ancak hak arama özgürlüğünün fiilen sınırlandırılmadığı durumlarda mümkün olması gerektiğini, yetki klozunun, TBK md. 20 ve md. 21 gereğince "genel işlem şartı" niteliğinde olduğundan yok hükmünde olduğunu, nitekim Yargıtay 11. Hukuk Dairesi, aşağıda alıntılanan kararında konşimentodaki yetki kaydına dayalı itirazı, ilgili kaydın genel işlem koşulu niteliğinde olduğu gerekçesiyle geçersiz sayan Yerel Mahkeme kararını onadığını, bu hususta benzer bir davada, İzmir 6.
 
@@ -158,6 +172,8 @@ Asliye Ticaret Mahkemesi'nin 2014/16 E. ve 2014/75 K. sayılı ilamında davalı
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b-1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İzmir BAM 17. HD 2024/1120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1032964900)
 
 Davacı ... AŞ ile davalı ... AŞ arasında taraflarca itiraza uğramayan 06.11.2014 tarihli gizlilik sözleşmesi başlıklı bir sözleşe icra edilmiştir.
 

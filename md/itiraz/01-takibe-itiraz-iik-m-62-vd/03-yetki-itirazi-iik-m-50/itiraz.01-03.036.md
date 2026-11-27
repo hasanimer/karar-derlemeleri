@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 14. HD 2022/1403 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/832709900)
+
 Dava, ticari satıma ilişkin açık hesap alacağının tahsili amacıyla başlatılmış olan ilamsız icra takibine vaki itirazın İİK'nın 67. maddesi uyarınca iptali davasıdır. İlk derece mahkemesince yapılan yargılama sonucunda; yetkisiz icra dairesinde takip başlatılmış olması sebebiyle davanın usulden reddine karar verilmiş; bu karara karşı, davacı vekilince, yasal süreleri içinde istinaf başvurusunda bulunulmuştur. İstinaf incelemesi, HMK'nın 355. maddesi uyarınca, ileri sürülmüş olan istinaf nedenleriyle ve kamu düzeni yönüyle sınırlı olarak yapılmıştır. Çorlu ...İcra Müdürlüğünün ... Esas sayılı dosyanın incelenmesinde; alacaklının davacı borçlunun davalı olduğu, 17.983,79TL asıl alacak ve 643,72 TL işlemiş faiz olmak üzere toplamda 18.627,51 TL alacağın takibe konu edildiği, takip sebebi olarak cari hesap alacağının gösterildiği, borçlu vekilinin icra dosyasına itirazında müvekkilinin yerleşim yeri adresinin Çerkezköy'de bulunması sebebiyle yetkiye açıkça itiraz ettiğini ayrıca herhangi bir borcu olmadığından borcun tamamına da itiraz ettiğini belirtmiştir.
 Davalı vekili esasa cevap süresi içerisinde müvekkilinin yerleşim yeri adresinin Çerkezköy'de olması sebebiyle icra dairesinin ve mahkemenin yetkisiz olduğunu ileri sürmüştür. Davanın ilk olarak açıldığı anlaşılan Çorlu 5. Asliye Hukuk Mahkemesince 2019/74 E 2020/27 K 22.01.2020 tarihli karar ile yetkili mahkemenin Çerkezköy Asliye Hukuk Mahkemesi olduğu gerekçesiyle yetkisizlik kararı verilmiş, iş bu kararın yasa yolu denetiminden geçmeksizin kesinleşmesi ile dava dosyası Çerkezköy 2. Asliye Hukuk Mahkemesine tevzi olmuş, Çerkezköy 2. Asliye Hukuk Mahkemesinin 2021/16 E 2021/476 K 07.10.2021 Tarihli kararıyla, davadan sonra Tekirdağ Asliye Ticaret Mahkemesi açılmakla dava dosyasının Tekirdağ Asliye Ticaret Mahkemesine devredilmesine karar verilmiştir. Dosyanın devredildiği Tekirdağ Asliye Ticaret Mahkemesince de istinafa konu kararın verildiği anlaşılmaktadır.
 
@@ -34,6 +36,8 @@ KARAR: Gerekçesi yukarıda açıklandığı üzere;1-HMK'nın 353/1.a.6. maddes
 
 ## İstanbul BAM 15. HD 2022/1378 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783240400)
+
 Dosya kapsamına göre, taraflar arasında tekstil ürünlerinin boyama işlerinin yapılması konusunda sözlü sözleşme bulunmaktadır. Taraflar arasındaki bu sözleşme niteliğince, TBK'nın 470 ve devamı maddelerinde düzenlenen bir eser sözleşmesidir. Mahkemelerin yetkisi 6100 sayılı HMK'nın 5 ilâ 19. maddeleri arasında düzenlenmiştir. HMK'nın 6. Maddesine göre genel yetkili mahkeme, davalı gerçek ya da tüzel kişinin davanın açıldığı tarihteki yerleşim yeri mahkemesidir. Yerleşim yeri 4721 sayılı Türk Medeni Kanunu hükümlerine göre belirlenir. TMK'nın 19. Maddesine göre gerçek kişilerin yerleşim yeri, sürekli kalma niyetiyle oturduğu yerdir. Aynı Kanunun 51. Maddesine göre tüzel kişilerin yerleşim yeri ise, kuruluş belgesinde başka bir hüküm bulunmadıkça işlerinin yönetildiği yerdir. HMK'nın 10. Maddesine göre sözleşmeden doğan davalar, sözleşmenin ifa edileceği yer mahkemesinde de açılabilir.
 6098 sayılı TBK'nın 89. maddesine göre, borcun ifa yeri konusunda aksine bir anlaşma yoksa, para borçları, alacaklının ödeme zamanındaki yerleşim yerinde; parça borçları, sözleşmenin kurulduğu sırada borç konusunun bulunduğu yerde; bunların dışındaki bütün borçlar, doğumları sırasında borçlunun yerleşim yerinde ifa edilir. Para borçlarının alacaklının yerleşim yerinde ifa edileceğine dair TBK'nın 89. maddedeki kural salt para alacakları ile ilgili olup, eser sözleşmesinden kaynaklanan alacak istemleri yönünden uygulanamayacağı Yargıtay 6. Hukuk Dairesi'nin yerleşik kararlarıyla da kabul edilmektedir. Somut olayda, davacı yüklenici iş bedelinin tahsili için icra takibi başlatmış; davalı/borçlu taraf süresi içerisinde icra dairesinin yetkisine itiraz bulunarak yetkili icra dairesinin Gaziosmanpaşa İcra Daireleri olduğunu bildirmiş; açılan davada da yetkili icra dairesinin Gaziosmanpaşa İcra Daireleri olduğunu, davanın da İstanbul Asliye Ticaret Mahkemelerine açılması gerektiğini belirterek yetki itirazında bulunmuştur.
 İcra takibinde icra dairesinin yetkisine itiraz edilmesi halinde, itirazın iptali için açılan davada öncelikle icra dairesinin yetkili olup olmadığının incelenmesi gerekmektedir.
@@ -45,6 +49,8 @@ Yetkili icra dairesinde icra takibi yapılması itirazın iptali davası yönün
 HÜKÜM: Gerekçesi açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 6. Asliye Ticaret Mahkemesinin 19/04/2022 tarih, 2022/99 esas, 2022/356 karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 13. HD 2022/1374 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/816233400)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: İlk Derece Mahkemesi 11/02/2022 tarih ve 2021/795 Esas - 2022/96 Karar sayılı kararında; "Davalı yan, icra dairesinin yetkisine itiraz etmiş, ayrıca yasal süre içinde yetki ilk itirazında bulunarak yetkili mahkemelerin Antalya Mahkemeleri olduğunu ileri sürmüştür. Davacı tarafından ..., ... ve ...
 
@@ -67,6 +73,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun K
 
 ## İstanbul BAM 12. HD 2022/1153 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795002600)
+
 …
 
 : Alacaklı davacı tarafından borçlu davalı şirket hakkında ilk olarak 3.2.2020 tarihinde,1.9.2019 tarihli 26.426,65-TL bedelli tutarlı faturaya dayalı olarak İstanbul Anadolu ... İcra Dairesinin ... sayılı takip dosyası ile toplam 28.305,70-TL alacağın tahsili için takibe girişildiği, ödeme emrinin 18/02/2019 tarihinde davalı borçluya tebliğ edildiği borçlu davalı vekilinin 19/02/2020 tarihli dilekçesi ile yetkiye ve borca itiraz ettiği ve takibin durdurulmasına karar verildiği, alacaklı davacı vekilinin 26/02/2020 tarihli talebi üzerine dosyanın Bakırköy ... İcra Dairesine gönderildiği ve ... esas dosya numarasını aldığı, 08/03/2020 tarihli ödeme emrinin düzenlendiği, ödeme emrinin 24/06/2022 tarihinde davalı borçluya tebliğ edildiği ve 25/06/2022 tarihinde borca itiraz edildiği, eldeki davanın ise yetkili icra dairesinde ödeme emri tebliği ve borca itiraz yapılmadan, 10/02/2022 tarihinde açıldığı anlaşılmaktadır.
@@ -75,6 +83,8 @@ Davacı vekilinin dayandığı emsal içtihad, henüz ödeme emri tebliğ edilme
 HÜKÜM:Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 14. HD 2022/1109 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/801977900)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda; "...Tüm dosya kapsamı toplanan deliller ve alınan bilirkişi raporu bir bütünlük içerisinde değerlendirildiğinde, dava dışı ... T.A.Ş. ile davalı ...
 
@@ -95,6 +105,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; HMK'nın 353/1.b.2 maddes
 
 ## İstanbul BAM 17. HD 2022/1077 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813632800)
+
 İflas davasında yetkili mahkeme borçlunun muamele merkezinin bulunduğu yer ticaret mahkemesidir. (İİK.m.154) İflas davasında yetki, kamu düzeninden olduğundan yetki itirazında bulunulmamış olsa bile mahkeme yetkili olup olmadığını kendiliğinden gözetecektir. İflas takibi yetkisiz yerde başlatılmış ve itiraz edilmemiş olsa bile iflas davasının mutlaka borçlunun muamele merkezinin bulunduğu yer ticaret mahkemesinde açılması gerekir. İflas davasında yetki kamu düzeninden olduğu için yetki sözleşmesi yapılamaz. İflas davasını inceleyen ticaret mahkemesince yetki itirazı olmasa bile yetkili olup olmadığını yargılamanın her aşamasında kendiliğinden gözetir. 6100 sayılı Hukuk Muhakemeleri Kanunun 114/1-ç bendinde, yetkinin kesin olduğu hallerde mahkemenin yetkili olması dava şartları arasında yer almaktadır.
 5718 sayılı MÖHUK'nun "Yetki anlaşması ve sınırları" başlıklı 47. maddesi hükmü ile Türk mahkemelerinin yer itibariyle yetki kurallarının münhasır yetki esasına göre tayin edilmediği hâllerde, tarafların, aralarındaki yabancılık unsuru taşıyan ve borç ilişkilerinden doğan bir uyuşmazlığın yabancı bir devletin mahkemesinde görülmesini kararlaştırmalarının Türk Hukuku bakımından da geçerli olacağı düzenlenmiştir. Yabancı devlet mahkemesine yetki tanıyan anlaşmanın Türk hukuku bakımından hukuki değer taşıması için öncelikle yazılı ve taraflar arasında yabancılık unsuru taşıyan ve borç ilişkisinden doğan bir uyuşmazlığa ilişkin olmalı, ikinci olarak söz konusu uyuşmazlık yönünden münhasır bir mahkeme tayin edilmemiş olmalı, üçüncü olarak ise, yetki anlaşması "uyuşmazlığın yabancı bir devletin mahkemesinde görülmesi konusunda" olmalıdır. Diğer yandan yetki anlaşmasıyla yetkilendirilen yabancı devlet mahkemesinin HMK'nın 17. ve 18. maddelerindeki düzenlemeye paralel olarak "belirli" olması şartı MÖHUK'nın 47. maddesi yönünden de aranmalıdır.
 
@@ -106,6 +118,8 @@ Bu durumda MÖHUK'nun 47. maddesine göre davanın yetkili Türk mahkemesinde g�
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı tarafın istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin KABULÜNE, 2-İstanbul 2. Asliye Ticaret Mahkemesinin 2021/668 Esas, 2022/119 Karar ve 17/02/2022 tarihli kararının HMK 353/1a-3 maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 14. HD 2022/950 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784952500)
 
 Davacı vekili, davasında özetle; davalı şirketin siparişlerine uygun olarak mal üretip, tedarik eden müvekkili ile davalı şirket arasında tedarik sözleşmesi bulunduğunu, icra takibine konu olan alacağa ilişkin emtiaların müvekkilince tedarik edilip davalıya teslim edilmesine rağmen bedellerinin ödenmediğini, sözleşmenin 34. maddesinde fatura tarihinden itibaren en geç 60 gün içinde ödemelerin Euro bazında yapılacağının, ödenmezse aylık %1 gecikme faizi uygulanacağının düzenlendiğini, ödeme yapmayan davalı aleyhine müvekkilince İstanbul Anadolu 4. İcra Müdürlüğünün ... sayılı dosyası ile ilamsız icra takibi yapıldığını, davalının haksız olarak takibe itiraz ettiğini ve takibin durduğunu belirterek; itirazın iptali ile takibin devamına, %20 oranda icra inkar tazminatının davalıdan tahsiline karar verilmesini istemiştir.
 
@@ -125,6 +139,8 @@ Davalı; somut davada cevap dilekçesi vermemiş dava ve duruşmalara katılmam�
 HMK'nın 353/1.b.1. maddesi uyarınca, davacı vekilinin istinaf başvurusunun esastan reddine …
 
 ## İstanbul BAM 45. HD 2022/770 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781720400)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece; "...İflas davası açılabilmesi için gerekli şartlardan birisi de yetkili icra dairesinde yapılmış bir iflas takibi bulunmasıdır. HMK 17.madde uyarınca geçerli bulunan yetki sözleşmesi nedeniyle, kanunen yetkili bulunan yerlerin yetkisi kalktığından bir başka deyişle yetki sözleşmesi ile kararlaştırılan yetkili yer, kesin yetkili olmasa da; münhasır yetkiye ilişkin olduğundan, yetki sözleşmesinde kararlaştırılan yer dışında takip ve dava açılamaz.
 

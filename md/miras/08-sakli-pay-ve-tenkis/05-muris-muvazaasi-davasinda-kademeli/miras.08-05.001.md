@@ -25,6 +25,8 @@ Miras bırakanın yaptığı temliki tasarruflardan zarar gören mirasçılar, t
 
 ## Yargıtay HGK 2022/1472 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862320200)
+
 Muris muvazaası nedeniyle tapu iptali ve tescil davası ile tenkis davası terditli olarak açılabilir. Bu durumda öncelikle daha kapsamlı olan muvazaa iddiasının araştırılıp değerlendirilmesi ve sonucuna göre tenkis isteğinin incelenmesi gerekmektedir. Eldeki dava muris muvazaası iddiasına dayalı tapu iptali ve tescil, tescil mümkün olmadığı takdirde tenkis istemine ilişkindir. Mahkemece İçtihadı Birleştirme Kararının somut olayda uygulanma olanağı bulunmadığından davacının tapu iptali ve tescil talebinin reddine karar verilmeli ve terditli taleplerden olan tenkis istemi değerlendirilerek sonucuna göre hüküm kurulmalıdır. Özel Dairece, davanın reddine karar verilmesi gerektiği yazılmış ise de mahkemenin tenkis talebini değerlendirmesi gerektiği hususu belirtilmediğinden kararın bu değişik gerekçe ile bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2026/6068 K.
@@ -112,6 +114,8 @@ Somut olayda, çekişme konusu 1 79... parselde dava dış...’nun 3/96 payın�
 
 ## Yargıtay 1. HD 2026/2263 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203446100)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; davanın muvazaa iddiasına dayalı tapu iptali ve tescil olmazsa tenkis talebiyle açıldığı, Mahkemece 18.12.2012 tarihli kararla davanın reddine karar verildiği, kararın temyizi üzerine Dairenin 18.09.2013 tarihli kararıyla tapu iptali ve tescil isteminin reddine karar verilmesinde bir isabetsizlik bulunmadığı ancak terditli tenkis istemi yönünden araştırma yapılması gerektiği belirtilerek Mahkeme kararının bozulmasına karar verildiği, Mahkemece bozmaya uyularak yapılan yargılama sonunda davanın reddine karar verildiği, bu haliyle temyizin kapsamının tenkis istemine ilişkin olduğu anlaşılmaktadır.
 
 ## Yargıtay 7. HD 2026/1518 K.
@@ -156,17 +160,25 @@ Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmadığ�
 
 ## Yargıtay 1. HD 2025/6285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190987700)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; davanın muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil olmazsa tenkis istemiyle açıldığı, İlk Derece Mahkemesince muris muvazaası yönünden davanın kabulüne karar verilmesi üzerine Dairenin 2015/12467 Esas, 2018/10885 Karar sayılı kararıyla temlikin 01.04.19 74... /2 sayılı İBK kapsamında değerlendirilmeyeceği belirtilerek kararın bozulmasına karar verildiği, İlk Derece Mahkemesince direnme kararı verilmesi üzerine Hukuk Genel Kurulunun 2020/1-570 Esas, 2022/1472 Karar sayılı kararıyla Dairenin bozma kararına uyulması gerektiği belirtilerek direnme kararının bozulmasına karar verildiği, İlk Derece Mahkemesince bozma sonrası yapılan yargılamada muris muvazaası ve tenkis istemi yönünden davanın reddine karar verildiği, bu itibarla temyizin kapsamının tenkis istemine ilişkin olduğu anlaşılmaktadır.
 
 ## Yargıtay 1. HD 2025/5647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187553100)
 
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; davanın, muris muvazaasına dayalı tapu iptali ve tescil, olmazsa tazminat ve terditli tenkis talebine ilişkin olduğu, Dairemizin 01.12.2021 tarih ve 2021/7073 Esas, 2021/7451 Karar sayılı kararıyla İlk Derece Mahkemesince davanın muris muvazaası yönünden reddine karar verilmesinde bir isabetsizlik bulunmadığı, ancak tenkis istemi yönünden davanın hak düşürücü süre yönünden reddine karar verilmesinin isabetsiz olduğu, tenkis talebi yönünden işin esasına ilişkin araştırma ve inceleme yapılarak sonucuna göre bir karar verilmesi gerektiğine değinilerek İlk Derece Mahkemesi kararının bozulmasına karar verildiği, İlk Derece Mahkemesince bozma ilamına uyularak yapılan yargılama sonunda davanın reddine karar verildiği, bu haliyle temyizin kapsamının tenkis istemine ilişkin olduğu anlaşılmıştır.
 
 ## Yargıtay 1. HD 2025/2106 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143320300)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; asıl davanın, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil ile tenkis, birleştirilen davanın ise sadece tenkis istemine ilişkin olduğu, Dairenin 17.12.2020 tarihli bozma ilamında asıl davadaki muris muvazaasına dayalı tapu iptali ve tesciline ilişkin uyuşmazlığın nihayete erdirildiği, asıl ve birleştirilen davada tenkise yönelik inceleme yapılması gerektiği belirtilerek kararın bozulduğu, Mahkemece Dairenin 17.12.2020 tarihli bozma ilamına uyulduğu ve bu doğrultuda karar verildiği, Mahkemenin yukarıda tarihi belirtilen kararın temyiz incelenmesinde tenkis hesabı yönünden değerlendirme yapılması gerektiği görülmüştür.
 
 ## Yargıtay 1. HD 2025/857 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134983900)
 
 Hemen belirtilmelidir ki, önceki bozma kararında da değinildiği üzere asıl dava yönünden temliklerin muvazaalı olduğu saptanarak davanın kabulüne karar verilmiş olmasında kural olarak bir isabetsizlik bulunmadığı ancak muris muvazaası iddiasına dayalı asıl dava kabul edildiğine göre birleştirilen davada tenkis isteği yönünden karar verilmesine yer olmadığına karar verilmesi gerekirken tenkis davasının reddine karar verilmiş olması doğru değildir.
 
@@ -174,9 +186,13 @@ Hemen belirtilmelidir ki, önceki bozma kararında da değinildiği üzere asıl
 
 ## Yargıtay 1. HD 2025/623 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118826200)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; asıl dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tenkis, birleştirilen dava ise muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil istemine ilişkin olup Mahkemece yapılan yargılama sonunda asıl ve birleştirilen davanın reddine karar verilmiş, temyiz üzerine Dairemizin 22.11.2022 tarihli ve 2022/5282 Esas, 2022/7689 Karar sayılı kararıyla birleştirilen davada verilen hükmün onanmasına, asıl dava yönüyle ise Mahkemece muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil isteminin reddine karar verilmesinde bir isabetsizlik bulunmadığı, ancak; terditli tenkis isteği yönüyle yapılan araştırma ve incelemenin yeterli olmadığı belirtilerek hükmün bozulmasına karar verilmiş, bu aşamadan sonra Mahkemece tenkis istemi yönüyle yargılamaya devam olunduğu anlaşılmıştır.
 
 ## Yargıtay 1. HD 2025/548 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134948800)
 
 Dava, kadastro öncesi nedene dayalı tapu iptali ile tescil, olmazsa tenkis isteğine ilişkindir.
 
@@ -185,5 +201,7 @@ Dava, kadastro öncesi nedene dayalı tapu iptali ile tescil, olmazsa tenkis ist
 Bölge Adliye Mahkemesince; davacıların tapu iptali ve tescil talebine yönelik satış senedinin düzenlendiği 1960 ve 1965 tarihlerinde dava konusu taşınmazların tapusuz taşınmaz niteliğinde olduğu bu sebeple muris muvazaası iddiasının dinlenebilme olanağının bulunmadığı, tapusuz taşınmazların menkul mal hükümlerine tabi olup yanlar arasındaki uyuşmazlığın zilyetlik hükümlerine göre çözümleneceği, muris ... ...'un dava konusu taşınmazlardaki zilyetliğini davalıların murisi ... ...'ya devrettiği, dava konusu taşınmazların murisin terekesinden çıktığı, davacıların tenkis talebine yönelik ise TMK'nın 565. maddesindeki şartların oluşmadığı gerekçesi ile ret kararı verilmiş ise de yapılan araştırma ve inceleme hüküm kurmaya elverişli değildir.
 
 ## Yargıtay 1. HD 2024/5759 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1084769500)
 
 2797 sayılı Yargıtay Kanunu’nun 40 ıncı ve Yargıtay İç Yönetmeliği’nin 18 inci maddeleri uyarınca yapılan ön incelemede; davacının, muris muvazaası nedenine dayalı tazminat, olmazsa tenkis talebinde bulunduğu, Dairenin 10.10.2017 tarihli ve 2014/22276 Esas, 2017/5173 Karar sayılı kararı ile; taşınmazların bedelinin muris tarafından ödenip ödenmediğinin tespit edilmesi, murisin ödediğinin tespit edilmesi halinde ise tenkis isteği yönünden araştırma yapılması gerektiği belirtilerek Mahkeme kararının bozulduğu anlaşılmıştır.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2010/7885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78900000)
+
 Dava, tapu iptal ve tescil,olmazsa tazminat isteklerine ilişkindir.
 
 …
@@ -34,14 +36,20 @@ kavuşturulması, hasıl olacak sonuca göre bir karar verilmesi gerekirken yaz�
 
 ## Yargıtay 16. HD 2010/7146 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784367600)
+
 Kadastro sırasında çekişme konusu parseller ... oğlu ... , Ölü ... mirasçıları, Ölü Ümmühani Temel mirasçıları, ölü ... mirasçıları ... , ölü ... mirasçıları, ... oğlu ... adına tespit edilmiştir. Dosyaya getirtilen nüfus kayıt örneklerine göre tespit maliklerinin ölüm tarihlerinin ... oğlu ...'nın 16.11.1956, ... oğlu ... 'nın 25.11.2004, ... oğlu ... 'nın 15.5.1999, ... Oğlu ...'in 15.10.1956, ... oğlu ... 'in 10.2.1951, ... kızı ...'in 19.8.1963, ... oğlu ... 'nın 14.7.1972 olduğu ve mirasçılarının bazılarının da karar tarihinden önce öldükleri anlaşılmaktadır. Yargılama sırasında tespit maliklerinin tüm mirasçıları davaya dahil edilerek taraf teşkili sağlanmamıştır. Tespit maliki ... Oğlu ... 'nın ölüm tarihi 14.7.1972 olduğu halde mirasçıları davaya dahil edilmemiş, karar başlığında ... oğlu ... ve mirasçıları taraf olarak gösterilmemişlerdir. Tespit malikleri ... ve ... ve bir kısım tespit maliki mirasçıları ölü oldukları halde ölü şahıslar taraf gösterilip, bunların mirasçıları gösterilmemiştir.
 Hal böyle olunca tespit maliklerinin tüm mirasçılarının davaya katılmaları ve usulen taraf teşkili sağlandıktan sonra tarafların iddia ve savunmalarına ilişkin tüm deliller toplanarak uyuşmazlığın çözümlenmesi gerekirken, taraf teşkili sağlanmaksızın hüküm kurulması isabetsizdir.
 
 ## Yargıtay 8. HD 2010/6044 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/552389600)
+
 Toplanan deliller ve tüm dosya kapsamına, özellikle dava konusu taşınmazın miras bırakanından intikal ettiği iddiası nedeniyle TKM.nun 640, 701 ve 702. maddelerine göre mirasçılar terekeye elbirliği ile sahip olurlar ve bütün haklar üzerinde birlikte tasarruf ederler. Tasarruf işlemleri için ortakların oybirliği ile karar vermeleri gerekir. Davacının tek başına taşınmazın adına tapuya tesciline karar verilmesini istemesi mümkün değildir. Çünkü davacının terekeye dahil bir taşınmaz için üçüncü kişilere karşı dava açma sıfat ve yetkisi bulunmadığı gibi yalnızca adına iptal ve tescile karar verilmesini isteyemez. Öte yandan 11.10.1982 gün ve 3/2 sayılı Yargıtay İnançları Birleştirme Kararı kapsamına göre dava dışı paydaşların sonradan muvafakatlarının alınması ya da miras şirketine mümessil tayini suretiyle taraf teşkili sağlanıp yürütülemez. Elbirliği mülkiyetinde paydaşlar arasında zorunlu dava arkadaşlığı bulunduğu kuralı ve davanın açılmasındaki ittifak koşulu dava şartı niteliğindedir. Elbirliği ile açılmayan davanın bu nedenle reddine karar verilmesi gerekirken uyuşmazlığın esası hakkında inceleme yapılarak davanın kabulüne karar verilmiş olması doğru olmamıştır.
 
 ## Yargıtay 8. HD 2010/5986 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551446100)
 
 Bu nedenle öncelikle dava konusu taşınmazın hangi tarihte ve ne niteliğiyle tespit dışı bırakıldığının Kadastro Müdürlüğünden sorulması, teknik bilirkişinin rapor ve krokisi eklenmek suretiyle tescili istenen taşınmaz bölümünün tapuda kayıtlı yerlerden olup olmadığının (çifte tapunun önlenmesi için) Tapu Sicil Müdürlüğünden sorulup belirlenmesi gerekir. Keşifte dinlenen yerel ve tespit bilirkişinin beyanlarına göre dava konusu taşınmazın davacı ve babası tarafından kullanıldığını, babasının ölümünden sonra davacının zilyetliğinin devam ettiğini açıklamışlar, herhangi bir paylaşımdan söz etmemişlerdir. Uyuşmazlık konusu taşınmaz davacının babasından kaldığına göre, ölüm tarihi itibariyle terekesi elbirliği mülkiyet hükümlerine tabidir. O halde öncelikle murise ait veraset belgesi istenerek dosya arasına konulmalıdır. Elbirliği mülkiyetinde mirasçıların belirlenmiş payları olmayıp, TMK.nun 701 ve 702. maddeleri gereğince her birinin payı taşınmazın tamamı üzerinde söz konusudur. Dava üçüncü kişilere karşı açılmıştır.
 Terekeye dahil bir taşınmaz için bir veya birkaç mirasçının üçüncü kişilere karşı TMK. nun 701 ve 702. maddelerinde belirtilen ilkeler uyarınca tek başına dava açma sıfat ve yetkileri bulunmamaktadır. Tasarrufi işlemlerde oybirliği aranır. Dava da bir tasarrufi işlem olup tüm mirasçıların birlikte üçüncü kişilere karşı dava açmaları gerekmektedir. Bu bakımdan taşınmazın davacının babasından kaldığı gözetilerek satış, bağış veya paylaşım yoluyla davacıya kalmış ve davacı tek mirasçı ise davanın bulunduğu bu haliyle yürütülmesi düşünülmelidir. Davacı dışında murisin başka mirasçılarının olduğu veraset belgesi ile belirlendiği, muristen satış, bağış ya da terekenin paylaşımı sonucu taşınmazın davacıya intikal etmediği anlaşıldığı takdirde, terekeye dahil bir taşınmaz için davacının tek başına dava açma sıfat ve yetkisi bulunmadığından davanın reddine karar verilmelidir.
@@ -51,17 +59,23 @@ Bu bakımdan davacının babası tarafından belgesizden edinilen taşınmazlar�
 
 ## Yargıtay 8. HD 2010/5958 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551409800)
+
 Tapu iptali ve tescil davaları kural olarak kayıt malikine veya maliklerine, kayıt malikleri ölü ise mirasçılarına yöneltilir. Başka bir anlatımla, tapu iptali ve tescil davası dava tarihi itibariyle tapu kaydına göre hak sahibi ve malik olan kişiye karşı açılır. Kural olarak, zorunlu dava arkadaşlığının bulunduğu durumlar dışında davaya dahil edilmek suretiyle taraf teşkili sağlanmasına usul kuralları müsait değildir. Dava konusu parseller dava tarihi itibariyle davalı ..., ..., ..., ..., ..., ..., ..., ... ve ... adlarına tapuya kayıtlı bulunmamaktadır. İsmi yazılı davalılar yönünden davanın husumet yokluğundan reddine karar verilmesi gerekirken değişik gerekçeyle karar verilmiş ise de, hüküm redde ilişkin olup adı geçen davalılar yönünden sonucu itibariyle doğru bulunmaktadır.
 
 Öte yandan; dava konusu paylı mülkiyet şeklinde tapuya kayıtlı 362 ve 364 parselin paydaşlarından ...’a usule uygun şekilde dava yöneltildiği halde, diğer paydaşlar ... , ..., ..., ..., ..., ..., ..., ..., ... ve ...davaya dahil edilmek suretiyle davada yer almıştır. Paylı mülkiyete tabi taşınmazlarda paydaşlardan birine veya belli bir paya ilişkin dava açılması mümkün olup, dava yöneltilmeyen ve ayrıca dava açılarak birleştirme kararı verilmeyen paydaşların dahili dava yoluyla taraf sıfatı almaları mümkün değildir. Çünkü paylı mülkiyette, her pay birbirinden bağımsız olarak dava konusu olabilmektedir. Aralarında zorunlu dava arkadaşlığı yoktur. 362 ve 364 parselin kayıt maliklerinden davalı-paydaş ... dışındaki yukarıda ismi yazılı dahili davalılar bakımından da davanın reddi açıklanan nedenle sonuç itibariyle doğrudur.
 
 ## Yargıtay 6. HD 2010/5024 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638754000)
+
 Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan) biri veya bir kaçı diğer paydaşlara (ortaklara) karşı açar. HUMK.nun 569.maddesi hükmü uyarınca davada bütün paydaşların (ortakların) yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Olayımıza gelince;dava konusu edilen ve satışına karar verilen ... nolu parselde ortak olan davalı ... mirasçısı ...'nın yargılama sırasında 11.1.2004 tarihinde öldüğü geride mirasçı olarak eşi ... ve çocukları ..., ... ve ...'yı bıraktığı dosyaya ibraz edilen mirasçılık belgesinden anlaşılmaktadır. Bu durumda adı geçen mirasçıların davaya dahil edilmesi, kendilerine usulüne uygun dava dilekçesinin tebliğ olunması, taraf teşkilinin sağlanması ve ondan sonra işin esası hakkında bir karar verilmesi gerekirken, yazılı şekilde taraf teşkili sağlanmadan karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/4025 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635785000)
 
 Dava bir adet taşınmazın paydaşlığının giderilmesine ilişkindir.
 
@@ -73,11 +87,15 @@ Olayımıza gelince; davalı ..., davalı ... ve davalı ...'ın dava açıldık
 
 ## Yargıtay 6. HD 2010/3790 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635548300)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer paydaşlara karşı açar. HMUK.nun 569.maddesi hükmü uyarınca davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Davaya konu edilen 888 parsel no'lu taşınmaz paydaşlarından ölü ... mirasçılarından ...'ın yargılama sırasında 24.08.2006 tarihinde ölmüş olduğu,mirasçılarının davaya dahil edilmeden yargılamaya devam edildiği görülmüştür. Ayrıca, davaya konu ... ve ... parsel no'lu taşınmazların paydaşlarından ...’ın yargılama sırasında 24.01.2008 tarihinde ölmüş olduğu, mirasçılarının davaya dahil edilmeden yargılamaya devam edildiği görülmüştür. Mahkemece ölü davalılar ... ile ...’ın mirasçılık belgelerinin temini ile mirasçılarına dava dilekçesi ve duruşma gününü bildirir davetiye tebliğ edilerek taraf teşkilindeki eksiklik giderildikten sonra işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmadan yazılı şekilde hüküm tesisi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/3487 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/626324000)
 
 Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan) biri veya bir kaçı diğer paydaşlara (ortaklara) karşı açar. HMUK.nun 569.maddesi hükmü uyarınca davada bütün paydaşların (ortakların) yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
@@ -85,10 +103,14 @@ Olayımıza gelince;Dava konusu edilen ve satışına karar verilen ... ada ... 
 
 ## Yargıtay 8. HD 2010/2600 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539704600)
+
 Saptanan bu somut olgu karşısında ...in babası ... ve ...’nın babası ...’in terekesi TMK. nun 701 ve 702. maddeleri gereğince elbirliği mülkiyet hükümlerine tabi olup, her mirasçının payı terekenin tamamı üzerinde söz konusudur. Yani mirasçıların belirlenmiş payları yoktur. Veraset belgelerine göre, her iki murisin davacılar dışında mirasçıları olduğu görülmüştür. Davacı ... ve ...’nın 13.12.2006 günlü celsedeki beyanı gözetilerek muris adına tescil isteği; tüm mirasçılar adına istenildiği kabul edilmek suretiyle dava dışı kalan ... ve ...mirasçılarının yöntemine uygun bir biçimde davacı safhında yer almalarının sağlanması ya da açılmış bulunan davaya karşı olurlarının alınması, veya TMK.nun 640. maddesi gereğince terekelerine temsilci atanmak suretiyle davanın yürütülmesi ve taraf teşkilinin sağlanması zorunluluğu vardır. Bundan ayrı, TMK. nun 28. maddesi gereğince kişilik ölümle son bulur. 4.5.1978 tarih ve 4/5 sayılı YİBK. uyarınca da ölü kişiye karşı dava açılamayacağı gibi, ölü kişi adına iptal ve tescile ya da tescile de karar verilmez.
 Muris ... ve ... dava tarihinden çok önce ölmüş oldukları veraset belgeleriyle bilindiği halde davacıların yargılama oturumundaki beyanları gözetilerek ölü kişiler adına tescile karar verilmesi anılan madde ve YİBK’na aykırılık oluşturur.
 
 ## Yargıtay 15. HD 2010/1728 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773321500)
 
 Dava, arsa payı karşılığı inşaat sözleşmesi uyarınca tapu iptâli ve tescil, bunun mümkün olmaması halinde alacak istemlerine ilişkindir.
 
@@ -98,6 +120,8 @@ Bu durumda, yüklenici Kemal’in terekesinin elbirliği ile mülkiyet hükümle
 
 ## Yargıtay 6. HD 2010/1378 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622860700)
+
 Dava, esaslı onarın nedeniyle kiralananın tahliyesine ilişkindir.
 
 …
@@ -106,11 +130,15 @@ Dava da dayanılan ve hükme esas alınan 27.4.2008 gün ve 31.12.2008 süreli k
 
 ## Yargıtay 6. HD 2010/1007 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613151500)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer paydaşlara karşı açar. HMUK.nun 569.maddesi hükmü uyarınca davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Olayımıza gelince; Davalılardan ...’na dava dilekçesi ve hüküm ilanen tebliğ edilmiş ve ... ada ... parsel nolu taşınmazın satışına ilişkin hüküm 20.3.2008 tarihinde verilmiştir. Davalılardan ... mirasçılarından ... 17.7.2009 tarihli temyiz dilekçesi ile,miras bırakanı olan ...’nun dava açılmadan önce 22.7.1989 tarihinde ölmüş olduğunu,ölü davalı hakkında dava açılıp sonuçlandırıldığını yeni öğrendiklerini belirterek hükmün bozulmasını istemiştir.Temyiz dilekçesine ekli nüfus kaydı ve mirasçılık belgesinden davalılardan ...’nun dava açılmadan önce 22.7.1989 tarihinde ölmüş olduğu ve mirasçılarının davada taraf gösterilmediği anlaşılmıştır.Taraf teşkili kamu düzenine ilişkin olup mahkemece kendiliğinden (re’sen) yargılamanın her aşamasında dikkate alınmalıdır. Bu durumda mahkemece ölü davalı ... mirasçılarına dava dilekçesi ve duruşma gününü bildirir davetiye tebliğ edildikten sonra, işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmadan yazılı şekilde hüküm tesisi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 20. HD 2009/12860 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896410700)
 
 Mahkemece verilen karar usul ve yasaya aykırıdır. Şöyleki; ...’ın dosyaya sunduğu ... Sulh Hukuk Mahkemesinin 24.03.2000 gün 2000/274-298 sayılı veraset ilamından (mirasçılık belgesinden) davalı ...’ın, temyize konu davanın açıldığı tarihten önce 08.02.2000 tarihinde ... olduğu anlaşılmaktadır. Ancak; mahkemece, davalıya çıkarılan dava dilekçesi ve duruşma gününü bildirir davetiye “muhatabın şehirde olduğundan aynı çatı altında oturan torunu Fahri ...’a tebliğ edildi ” yönündeki açıklama ile gerekçeli karar ise “muhatabın şehirde olduğundan aynı çatı altında oturan yeğeni ... ...’a tebliğ edildi” yönündeki açıklama ile 7201 Sayılı Tebligat Yasası ve Tüzüğüne aykırı olarak tebliğ edilmiştir.
 Kadastro Mahkemelerinde ölü kişi aleyhine dava açılabilmekte ise de, 3402 Sayılı Yasanın 29/2. maddesinin son cümlesi uyarınca dava sırasında, davalının dava tarihinden önce öldüğünün anlaşılması halinde davaya mirasçıları aleyhine devam edilir ve aynı yasanın 28/1. maddesinin son cümlesinde belirtilen "kadastro hakimi, duruşma gününü taraflara Tebligat Yasası hükümlerine göre resen tebliğ eder" hükmü uyarınca tebligat giderleri ileride haksız çıkacak taraftan alınmak üzere suçüstü ödeneğinden karşılanarak, ölü kişinin tüm mirasçılarına dava dilekçesi ve duruşma gününü bildirir davetiye tebliğ edilip, delil ve belgeleri istenerek yargılama yapılıp sonuçlandırılması gerekirken davalının mirasçılarının yokluğunda yargılama yapılıp yazılı şekilde sonuçlandırılması doğru değildir.
@@ -119,12 +147,16 @@ Yasal ayrıcalıklar dışında yargılamayı yürüten hakim davanın taraflar�
 
 ## Yargıtay 20. HD 2009/9240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892297700)
+
 Medeni Yasanın 701 ve 703. Maddesinde düzenlenen Elbirliği ortaklığı eski deyimiyle iştirak halinde mülkiyettin onu meydana getiren kişilerden ayrı bir tüzel kişilik olmadığı, elbirliği ortaklığını meydana getiren kişilerden her birinin sahip olunan bir mal ve ya hak üzerinde doğrudan bir hak ya da yetkisinin bulunmadığı, hak ya da malın bir bütün olarak ortaklardan tümüne ait olduğu, başka bir anlatımla ortaklık sona erene kadar ortaklardan birinin ayrı ayrı mal veya ... bulunmadığı, ortaklığın hak sahibi ortaklığı olduğu, el birliği ortaklığında, elbirliğiyle ortakların ortaklığa ait mal yada hak üzerinde tek başlarına kullanabilecekleri payları bulunmadığı, bu durumun Medeni Yasanın 701. maddesinde (...Kanun ve kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte ... olanların mülkiyeti, elbirliği mülkiyetidir.
 Elbirliği mülkiyetinde ortakların belirlenmiş paylan olmayıp her birinin ..., ortaklığa giren malların tamamına yaygındır.) biçiminde açıklandığı, elbirliği (iştirak) halinde mülkiyetin bu özelliği itibariyle ortaklar arasında zorunlu dava arkadaşlığı bulunduğu, Şayet yasada veya elbirliği ortaklığını oluşturan sözleşmede, ortaklık adına hareket etme yetkisinin kime ait olacağı belirtilmemişse, ortaklığın sona erdirilmesini isteme yetkisi dışında, elbirliği ortaklığına ait mal ve haklara ilişkin olarak yapılacak tüm işlemlerde, ortakların hepsinin birlikte karar almaları ve hareket etmelerinin zorunlu olduğu, Medeni Yasanın 702/2. maddesinin bu konuyu düzenlediği, açıklanan kuralın uygulamada kısmen yumuşatılarak, 11.10.1982 tarih 1982/3-2 sayılı İçtihadı Birleştirme Kararında değinildiği gibi elbirliği ile ortaklardan her birinin tek başına dava açabileceği, ancak, davaya devam edebilmesi için öteki ortakların olurlarının alınması veya miras şirketine atanacak temsilci aracılığı ile davanın sürdürülmesi gerektiğinin kabul edildiği, bu yöndeki Yargıtay uygulamalarının bilimsel çevrelerde de kabul gördüğü, …
 
 Somut olayda; çekişmeli parselin ortak muris ... ... adına tapuya kayıt edildiği ve halen onun adına kayıtlı olduğu, ... ... mirasçıları arasındaki mirasın henüz paylaşılmadığı, el birliği ortaklığının henüz sona erdirilmediği, davacı ... Şahinin bu ortaklardan sadece birisi olduğu, elbirliği (iştirak) halinde mülkiyet söz konusu olup, el birliği ortaklığının paylı ortaklığa dönüştürülmediği, tapunun beyanlar hanesindeki 6831 Sayılı Yasanın 2/B madde uygulamasına ilişkin şerhin taşınmazın aynına ilişkin olduğu ve bu şerhin silinmesi istemiyle açılan davanın, el birliği ile ortak olanların hepsi tarafından birlikte açılması veya miras şirketine atanacak miras şirketi mümessili tarafından davaya devam edilmesi yada yargı uygulamalarında kabul edildiği gibi, mirasçılardan sadece birisi tarafından açılan davaya diğer tüm mirasçıların birlikte devam etmesi gerektiği gözetilmeden, el birliği ortaklarından sadece ... tarafından açılan davaya devamla, davanın esası hakkında hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 20. HD 2009/8887 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892008700)
 
 Dava, kadastro tespitine itiraza ilişkindir.
 
@@ -135,11 +167,15 @@ Bu nedenle; davalının getirtilen aile nüfus kaydındaki mirasçılarının te
 
 ## Yargıtay 17. HD 2009/8520 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875187100)
+
 Dava İKK 277 ve devamı maddelerine dayalı tasarrufun iptali istemine ilişkindir.
 
 İİK.nun 282. maddesi uyarınca iptal davalarının borçlu ve borçlu ile hukuki işlemde bulunan kişiler aleyhine açılması gerekir. Başka bir anlatımla borçlu ile 3. kişi arasında zorunlu dava arkadaşlığı vardır. Borçlu yargılama sırasında ölmüş ve en yakın mirasçıları mirası red etmişlerdir. Bu durumda terekenin iflas hükümlerine göre tasfiyesi ve dava da taraf teşkilinin de sağlanması gerekir. İflas masası alacaklılarının bir davanın takibi hakkını herhangi bir alacaklıya İİK.nun 245. maddesi uyarınca devretmesi davada taraf olma yetkisinin de devri ve iflas idaresinin davadaki taraf olma zorunluluğunu ortadan kaldırmaz. O halde mahkemece borçlu davalı ... terekesi iflas idaresinin zorunlu hasım olarak davaya katılmasının sağlanarak taraf teşkilinin sağlanması ondan sonra davanın esasına girilerek karar verilmesi gerekirken taraf teşkili sağlanmadan yazılı olduğu üzere karar verilmesi doğru bulunmamıştır.
 
 ## Yargıtay 17. HD 2009/8458 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871818100)
 
 Dava, İİK 277 ve devamı maddeleri gereğince açılmış tasarrufun iptali istemine ilişkindir.
 
@@ -149,9 +185,13 @@ Somut olayda dava konusu taşınmaz davalı borçlu tarafından 19.12.2003 tarih
 
 ## Yargıtay 16. HD 2009/3225 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/861556400)
+
 Kadastro tesbiti ölü ... adına yapılmış ve davacılar da davayı ölü ... aleyhine açmışlardır. Dosyada nüfus kayıtları mevcut olup mahkemece 1981 yılında ölen ... eşi ....... mirasçılarından ... davaya dahil edildiği halde .......’nin diğer oğlu ......’in mirasçıları davaya dahil edilmemiştir. Yine ...’in eski eşi .....’ten olma çocukları .... ve ...... ile 1943 yılında ölen eşi Ünzüle’den olma çocuklarından Şevki ve ...’nin sağ olup olmadıkları nüfus kayıtlarından anlaşılamamaktadır. Dosyada mevcut nüfus kayıtlarında, bu şahıslar sağ gözükmekte ancak kaydın altındaki şerhlerde “ölüm tarih”lerinden bahsedilmektedir. Mahkemece bu çelişki giderilmeye çalışılmamış, ölmüşler ise mirasçılarının davaya dahil edilmeleri gerektiği düşünülmemiştir. Taraf teşkili dava şartı olup dava şartı yerine getirilmeden ve usulüne uygun taraf teşkili sağlanmadan işin esasına girilip davaya devamla esas hakkında karar verilemez. Mahkemece, tesbit maliki davalı ölü ...’ın tüm mirasçıları kesin olarak tesbit edilip usulen davaya dahil edilmeleri sağlanmadan işin esasına girilerek yazılı olduğu şekilde karar verilmiş bulunulması isabetsizdir. Davacılar vekilinin temyiz …
 
 ## Yargıtay 1. HD 2009/1856 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78315300)
 
 Dava tapu iptal ve tescil isteğine ilişkindir.
 
@@ -160,6 +200,8 @@ Dava tapu iptal ve tescil isteğine ilişkindir.
 Hal böyle olunca, davanın niteliği gözönünde bulundurularak, davacıya çekişmeli taşınmazın paydaşları olan Ferho ve Aziz mirasçılarının tamamına husumetin yöneltilmesi için olanak tanınması, davanın görülebilirlik koşulu olan taraf teşkili sağlandıktan sonra işin esası yönünden bir hüküm kurulması gerekirken değinilen usuli eksiklik giderilmeden yanlış değerlendirmeyle yazılı olan gerekçelerle davanın reddedilmiş olması doğru değildir.
 
 ## Yargıtay 18. HD 2008/12732 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875744500)
 
 Dava, kamulaştırılan 38 parsel numaralı taşınmazın kamulaştırma bedelinin tespiti ve davacı adına tescili istemine ilişkin olup; mahkemece, tapu maliklerinin tamamına karşı dava açılmadığı ve 2942 sayılı Kamulaştırma Yasasının 4650 Sayılı Yasayla değişik 8.
 
@@ -171,6 +213,8 @@ Dava, kamulaştırılan 38 parsel numaralı taşınmazın kamulaştırma bedelin
 
 ## Yargıtay 1. HD 2008/9687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78268100)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve yıkım isteklerine ilişkindir.
 
 …
@@ -178,6 +222,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve yıkım isteklerine ilişkind
 Öyle ise, kayıt malikinin ölüm tarihine ve halen taşınmazın sicil kaydının miras bırakan üzerinde bulunduğuna, davalılar ve dava dışı kişilerin komşu 1023 parselin Türk Medeni Kanununun 705. maddesi hükmü gereğince irsen maliki oldukları gözetildiğinde 1023 parsel sayılı taşınmazın elbirliği mülkiyetine tabi olduğu tartışmasızdır. Öyleyse, diğer mirasçılar aleyhine ayrı dava açılmasına gerek olmayıp zorunlu dava arkadaşlığı kuralı uyarınca davaya dahil edilmesi suretiyle taraf teşkilinin sağlanması gerektiği kuşkusuzdur.
 
 ## Yargıtay 20. HD 2007/11036 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/902117500)
 
 Davacı kadastro sırasında, ... Köyünde bulunan 129 ada 108 parsel sayılı taşınmazın davalı adına tespit ve tescil edildiğini oysa orman sayılan yerlerden olduğunu iddia ederek, tapu kaydının iptali ile orman olarak hazine adına tescili istemiyle dava açmıştır. Mahkemece 2000/151-197 EK sayılı karar ile ölü kişi aleyhine dava açılamayacağından dava husumetten reddedilmiş, hükmün orman yönetimince temyiz edilmesi üzerine Hükmüne uyulan Yargıtay 20 Hukuk Dairesinin 2002/4261-7535 EK sayılı bozma kararında özetle (Davacı ... Yönetiminin, aynı gün Dairede temyiz incelemesi yapılan, yerel mahkemenin 2000/174, 201, 194, 182, 168, 89, 198, 150, 154, 197, 94, 165, 143, 156, 136, 135, 144, 219, 215, 140, 186, 141, 147, 151, 172, 175 ve 223 Esas sayılı dava dosyalarına konu edilen, sırası ile ...
 Köyü 138 ada 24, 125 ada 42, 126 ada 22, 17, 129 ada 73, 138 ada 48, 125 ada 46, 100, 138 ada 86, 91, 125 ada 101, 126 ada 5, 128 ada 2 , 133 ada 38, 132 ada 10, 134 ada 2, 133 ada 47, 134 ada 5, 138 ada 84, 131 ada 2, 1, 131 ada 11, 133 ada 49, 30, 129 ada 108, 129 ada 60, 130 ve 128 numaralı parsellerin öncesinin orman olması nedeniyle kadastroca oluşturulan tapu kayıtlarının iptal ve tescil isteği ile dava açtığı, mahkemece, dosyaya getirtilen tapu kayıtlarının bir kısmının veraseten hükümlerine göre elbirliği mülkiyeti (iştirak halinde), bir kısmının paylı (müşterek), bir kısmının ise paylı ve elbirliği mülkiyet hükümlerine göre davalılar adına kayıtlı olduğu ve davalılardan bazılarının dava tarihinden önce ölmesi nedeniyle 04.05.1978 gün 4/5 sayılı İçtihadı Birleştirme kararı gereğince ıslah ile bile olsa taraf değiştirilemeyeceğinden, dava tarihinden önce ölen kişinin mirasçılarının davaya dahil edilme olanağının bulunamadığı, ölü kişiler aleyhine ayrı bir dava açılması gerektiği, taşınmazın orman olduğunun saptanması halinde husumet doğru yöneltilerek haklarında dava açılan kişilerin paylarının orman niteliği ile tescil edileceği, ancak dava tarihinden önce ölenlerin

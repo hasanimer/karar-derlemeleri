@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 44. HD 2026/559 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203118400)
+
 …
 
 -Bilirkişi raporundaki bazı anlatımlar huzurdaki davanın konusu ve taraflar arasındaki ihtilafla uyumsuz olduğunu, bilirkişinin raporunda bahsettiği konular taraflar arasında ihtilafsız olduğunu, sayın mahkemece davalı-borçlunun itirazının bulunmadığı konular hakkında bir inceleme ve araştırma yapmak veya davacı sıfatıyla bizim yazılı konuları ispat etmek gibi bir yükümlülüğü bulunmadığını, aksi halde ... mevzuatından kaynaklanan ve neredeyse sınırsız sayıdaki tüm usul kurallarının borçlunun bu yönde bir itirazı dahi bulunmadığı halde incelenmesi söz konusu olacağını, borçlunun itirazının bulunmadığı ... usul işlemleri yönünden mahkemenin araştırma yükümlülüğü bulunmadığını, bilirkişi raporunun görüş ve kanaat başlıklı sonuç kısmının 1- 3 ve 4 numaralı bendlerinde yer alan; ''temlikten önce oluşan işlemler ve alacağın doğruluğu kabul edilirse davalının itirazının yerinde olmadığı ve davalının (davacıya) 18.12.2014 tarihi itibariyle 160.901,52-TL borçlu olduğu söylenebileceği'' yönündeki görüşüne gerekçeli kararda yer verilmediği gibi, hüküm kurulurken rapordaki bu tespitler hiç bir şekilde göz önünde bulundurulmadığını, kararın kaldırılarak davanın kabulüne karar verilmesini talep
@@ -36,6 +38,8 @@ Davaya konu alacağı ve takip işlemini oluşturan ... işlemleri ile ilgili bi
 İstanbul 12. Asliye Ticaret Mahkemesi'nin 20/04/2022 tarih, 2018/622 E. 2022/418 K. Sayılı Kararının 6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğince KALDIRILMASINA …
 
 ## Ankara BAM 21. HD 2026/542 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207959500)
 
 Davalılar vekili cevap dilekçesinde özetle; davacının müvekkilleri aleyhine haksız şekilde icra takibi başlattığını, müvekkilinin davacıya ödeme amaçlı çekler verdiğini, davacının verilen çekleri dahil etmeksizin hesaplama yaptığını, davacının icra takibinde talep ettiği miktarın doğru olmadığını, müvekkillerinin böyle bir borcu bulunmadığını, davacının talep ettiği faiz miktarının fahiş olduğunu bildirerek davanın reddini, %20 oranında kötüniyet tazminatına hükmedilmesini istemiştir.
 
@@ -61,6 +65,8 @@ Ankara 5. Asliye Ticaret Mahkemesi'nin 14/11/2022 tarih ve 2019/286 Esas 2022/66
 
 ## Ankara BAM 27. HD 2026/539 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209452200)
+
 İİK'nın 67/1. maddesine göre; “Takip talebine itiraz edilen alacaklı, itirazın tebliği tarihinden itibaren bir sene içinde mahkemeye başvurarak, genel hükümler dairesinde alacağın varlığını ispat suretiyle itirazın iptâlinin dava edebilir." düzenlemesi hüküm altına alınmıştır. Birleşen davaya dayanak Ankara 16. İcra Müdürlüğünün 2020/8838 sayılı icra dosyasının Uyap sistemi üzerinden yapılan incelemesinde davalı borçluya ödeme emrinin tebliği üzerine, borca itiraz dilekçesi verildiği, borçlu vekilinin 30.03.2021 günlü dilekçesiyle icra müdürlüğünden itiraz dilekçesinin alacaklıya tebliğe çıkarılması yönünden talepte bulunduğu, davalı borçlunun itiraz dilekçesinin davacı alacaklı vekiline 05.04.2021 tarihinde tebliğ edildiği, İİK'nun 67.maddesi gereğince borca itirazın alacaklıya tebliğinden itibaren bir yıl içinde itirazın iptalinin dava edebileceği, birleşen davanın ise 27.05.2022 tarihinde bir yıllık yasal süresinden sonra açıldığı anlaşılmakla, yasanın aradığı özel dava şartı gerçekleşmediğinden hak düşürücü süre nedeniyle davanın reddine karar verilmesi gerekirken hatalı değerlendirmeyle kısmen kabul kararı verilmesi doğru olmamıştır.
 
 ## Konya BAM 5. HD 2026/487 K.
@@ -79,6 +85,8 @@ Dava , gemi vinci imalatı işine dair eser sözleşmesinden kaynaklanan ödemen
 Davalı tarafça mahkemeye içinde yetki şartı da bulunan 03.11.2011 tarihli alım satım sözleşmesi sunulmuş ve icra dairesinin yetkisine ve borca itirazda bulunmuştur. Davacı ise bu sözleşmedeki imzaya itirazda bulunmuştur. Sözleşmede gemi vinci işinin ne şekilde yapılacağı ve yetki düzenlemesi bulunmaktadır. Mahkemece öncelikli olarak sözleşmedeki imzanın davacıya ait olup olmadığı yönünde bir inceleme yaptırılıp imza davacıya ait ise 6100 sayılı HMK'nın 17. maddesi uyarınca tacirler arasındaki yetki sözleşmesinin tarafları bağlayacağı hükmü de gözetilerek oluşacak sonuca göre bir karar verilmesi gerekirken, bu yönde bir imza incelemesi yaptırılmamış olması hatalıdır.
 
 ## İstanbul BAM 17. HD 2026/468 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202620300)
 
 Davacı vekili dava dilekçesinde özetle; davalı firmanın müvekkili bankanın Pendik Ticari Şubesi ile imzaladığı 11.11.2013 tarihli 10.000.000 TL'lik kredi sözleşmesi uyarınca kredi kullandığını, kredi borcunun zamanında ödememesi üzerine Kartal 15. Noterliği'nin 05.03.2015 tarih ve ... yevmiye no.lu ihtarnamesinin keşide edildiğini ve borcun ödenmemesi üzerine de davalı hakkında İstanbul 9. İcra Müdürlüğü'nün ...
 
@@ -104,6 +112,8 @@ Açıklanan nedenlerle; ilk derece mahkeme kararı usul ve yasaya uygun olduğun
 
 ## Tekirdağ BAM 4. HD 2026/419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203299700)
+
 Davacı vekili .......... tarihinde sunduğu dava dilekçesinde; Davalı ile arasında ticari ilişki bulunduğunu, ........
 
 …
@@ -124,6 +134,8 @@ Buna göre, Mahkemece, takip davalı takip boçlusunun icra dairesinin yetkisine
 
 ## İstanbul BAM 3. HD 2026/354 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196582100)
+
 Davacı vekili dava dilekçesinde özetle ; taraflar arasında ...... Hizmet numaralı abonelik sözleşmesi akdedildiğini, davalı tarafça abonelik sözleşmesine uygun olarak tahakkuk ettirilen hizmet bedellerinin sözleşmeye aykırı şekilde ödenmediğini, müvekkili şirket tarafından ilgili bedellere ilişkin icra takibi başlatıldığını, Merkezi Takip Sistemi... E. sayılı dosya üzerinden ödenmeyen fatura bedelleri ve bu bedellere işlemiş gecikme faizleri talep edildiğini, başlatılan bu takibe davalı tarafından haksız olarak itiraz edildiğini ve bu itiraz neticesinde söz konusu takibin durdurulduğunu, davalı tarafından borca itiraz dilekçesinde yetkiye de itiraz edildiğinden ilgili dosyanın Diyarbakır İcra Dairesi'ne gönderilmiş olup ...
 
 …
@@ -132,6 +144,8 @@ Davacı vekili dava dilekçesinde özetle ; taraflar arasında ...... Hizmet num
 yeni bir ödeme emrinin gönderilmesi gerektiği, esasen yetkisiz icra müdürlüğü tarafından düzenlenen MTS ödeme emrinde de açıkça belirtilerek yetki itirazı halinde yeni bir ödeme emri düzenlenmeyeceğinin belirtildiği, davalı tarafından yetki itirazı dışında borca da itiraz edildiği, fakat dosyanın yetkisizlikle geldiği Diyarbakır İcra Müdürlüğünden davalıya ödeme emri tebliğ edilmesinin birden çok kez istendiğini fakat yeni bir ödeme emri tebliğe çıkarılmadığı, davacının icra müdürlüğü işlemlerini şikayet etmek ve ödeme emrinin tebliğini sağladıktan sonra borca itiraz olması halinde itirazın iptalini istemesi gerektiği, dava tarihi itibariyle davalı borçluya usulüne uygun düzenlenmiş ve tebliğ edilmiş bir ödeme emri bulunmadığı, itirazın iptali davasının ön koşulu olan geçerli bir ödeme emri olması dava şartı olduğundan ( Bkz. Yargıtay 11. Hukuk Dairesinin 2021/8624 Esas, 2023/2855 Karar sayılı ilamı, Yargıtay 11.
 
 ## İstanbul BAM 17. HD 2026/333 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202349200)
 
 Davalı vekili cevap dilekçesinde özetle; davacının Eskişehir icra Müdürlüğünde başlattığı takibe taraflarınca itiraz edilmesi üzerine süresinde itirazın iptali davası açmaması üzerine takibin düştüğünü, davacının Beykoz İcra Müdürlüğünde başlattığı takibe itiraz edilmesi üzerine huzurdaki davayı açtığını, davacının aynı konuda 2. bir takip yapmasının hukuken mümkün olmadığını, bu sebeple davanın usulden reddi gerektiğini, görevli Mahkemenin Ticaret Mahkemesi olduğunu, yetkili Mahkemenin İstanbul Asliye Ticaret Mahkemeleri olduğunu, müvekkilinin davacı ile imzaladığı sözleşme gereğince hizmet bedelinin % 50 sini peşin olarak davacıya ödediğini, müvekkilinin davacı ile imzaladığı sözleşmenin akabinde müvekkiline iletilen Mayıs ayı yayın akış raporundan bazı noktalarda hiç yayın yapılmadığı, bazı noktalarda da eksik yayın yapıldığının anlaşıldığını, ayrıca Mayıs ayından sonra davacı tarafından müvekkiline nokta ve ekran bilgilerini içeren raporlamanın iletilmediğini, davacının sözleşmedeki yükümlülüklerini yerine getirmediğinin iadeli taahhütlü mektup ve noter kanalı ile iletildiğini, davacı tarafından bu yazışmalara cevap verilmediği gibi yükümlülüklerin ifasında da bir düzelmenin
 söz konusu olmadığını, davacının sözleşmenin esaslı noktalarını yerine getirmediğinden 23.09.2023 tarihinde sözleşmenin müvekkili tarafından feshedildiğini, davacının fesihten sonra fatura düzenleyerek sözleşmenin kalan bedelini talep ettiğini, ancak davacının sözleşme gereğince üzerine düşen yükümlülüğünü yerine getirmediğini ve sözleşmenin haklı olarak müvekkili tarafından feshedildiğini, bu nedenle davacının davaya konu fatura nedeniyle talepte bulunmasının haksız olduğunu belirterek davanın reddine ve davacı aleyhine % 20 icra inkar tazminatına hükmedilmesini talep etmiştir.
@@ -154,6 +168,8 @@ Davacı tarafından davalı aleyhine Beykoz İcra Dairesinin ... Esas sayılı t
 
 ## İstanbul BAM 43. HD 2026/315 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198712800)
+
 İLK DERECE MAHKEMESİ KARARI:İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, " tarafların iddia ve savunmaları içeriğine göre; tarafların ticari defterlerinin usulüne uygun olarak tutuldu ve lehlerine delil vasfının bulunduğu, her ne kadar davalı sevk irsaliyesindeki imzaya itiraz etmiş ise de davalı tarafından uyuşmazlığa konu faturalara itiraz edildiğine dair dosyada davalı tarafından sunulmuş tevsik edici belge bulunmadığı, davalının faturaları itirazsız kabul edip ticari defterlerine kaydettiği anlaşılmakla davacı tarafından faturalara konu edilen hizmeti aldığının kabulü gerektiği ve her ne kadar davacı ticari defterlerinde davalı ile olan cari hesabında, dava dışı ...
 
 …
@@ -168,6 +184,8 @@ Bu nedenle ilk derece mahkemesince dava konusu faturalar yönünden davanın kab
 Davanın kabulü ile davalının Büyükçekmece 1. İcra Müdürlüğünün ... sayılı takibe vaki itirazın 67.260,00 TL asıl alacak yönünden İPTALİNE …
 
 ## Kayseri BAM 6. HD 2026/212 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191579000)
 
 Davalı vekili cevap dilekçesinden özetle; Dava açılırken dava şartlarından olan hukuki yararının bulunması gerektiğini, davacı vekilinin itirazın iptali davasını 24/07/2025 tarihinde açtığını, ancak bu tarihten bir gün önce 23/07/2025 tarihinde Kayseri Banka Alacakları İcra Müdürlüğü'nün ... esas sayılı dosyasına ile icra takibine vaki tüm itirazlardan açıkça feragat edildiğini, feragat beyanı doğrultusunda 24/07/2025 tarihinde takibin devamına karar verildiğini, bu nedenle işbu davanını hukuki yarar yokluğu nedeniyle reddine karar verilmesini, yargılama giderleri ve vekalet ücretinin davacı tarafa yükletilmesini talep etmiştir..
 

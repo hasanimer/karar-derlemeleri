@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2014/8952 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88204300)
+
 Davacı vekili, davalının işyeri telefon aboneliğine ilişkin tahakkuk eden borçlarını ödemediğini, bu nedenle Ankara 20. İcra Müdürlüğünün 2009/4437 sayılı dosyası ile icra takibi başlatıldığını, davalının borca itiraz ettiğini, itirazın haksız olduğunu ileri sürerek, itirazın iptali ile davalı aleyhine icra-inkar tazminatına hükmedilmesini talep ve dava etmiştir.
 
 Davalı vekili, dava konusu telefon hattının müvekkiline ait olmadığını, borca ve icra takibine yapılan itirazın haklı olduğunu belirterek, davanın reddini savunmuştur.
@@ -38,6 +40,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 19. HD 2013/17333 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484358400)
+
 Dava, kredi alacağının tahsili için başlatılan icra takibine itirazın iptali istemine ilişkindir.
 
 Davalı vekili, davanın reddine karar verilmesi gerektiğini savunmuştur.
@@ -52,6 +56,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle Dairemizin 01.04.2013 gün, 2013/1659 E
 
 ## Yargıtay 23. HD 2013/4652 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496299800)
+
 Sıra cetveline itiraz edebilmek için, satış tarihinde geçerli bir haczin bulunması gerekir; ancak bu suretle şikâyetçinin, iptal üzerine düzenlenecek yeni sıra cetveline girmesi mümkündür. Aksi takdirde şikayetçinin hukuki yararının bulunmadığı kabul edilir.
 
 ... ve İflas Kanunu’nun 264 üncü maddesinin ikinci fıkrası uyarınca borçlunun ödeme emrine itiraz etmesi halinde, alacaklının itirazın kendisine tebliği tarihinden itibaren yedi gün içinde itirazın iptali veya itirazın kaldırılması davası açması gerekir. Aksi takdirde ihtiyati haciz düşer.
@@ -61,6 +67,8 @@ Sıra cetveline itiraz edebilmek için, satış tarihinde geçerli bir haczin bu
 SONUÇ: Yukarıda açıklanan nedenle şikayet olunanların temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2013/3748 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435765700)
 
 Rehnin paraya çevrilmesi yolu ile takiplerle ilgili İİK'nun 147. maddesinde “ödeme emrine itiraz hakkında 62 den 72. maddeye kadar hükümlerin uygulanacağı” devamında (1) nolu bentte “Rehin hakkına açıkça itiraz edilmemiş ise, alacaklının rehin hakkının takip safhası içinde artık tartışma konusu yapılamayacağı” hükmüne yer verilmiştir.
 
@@ -72,6 +80,8 @@ SONUÇ: Taraf vekillerinin temyiz itirazlarının kabulü ile Mahkeme kararını
 
 ## Yargıtay 12. HD 2013/3693 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/54103900)
+
 Takibin şekline göre, İİK.nun 62.maddesi uyarınca yetki itirazı ile aynı kanunun 66.maddesi gereği takip durur. Alacaklı, takibin devamı için, İİK.nun 68.maddesi kapsamında itirazın kendisine tebliğinden itibaren 6 ay içinde itirazın kaldırılmasını isteyebilir. Bu süre içerisinde itirazın kaldırılması istenilmediği takdirde yeniden ilamsız takip yapılamaz.
 
 Somut olayda; borçlunun yapmış olduğu yetki itirazı ile ilgili olarak alacaklı tarafça itirazın kaldırılması yönünde bir karar alınmaz ise takibe devam edilemez ve dolayısıyla takip kesinleşmediğinden haciz de yapılamaz. Mahkemece borçlunun yetkiye itirazının kaldırılıp kaldırılmadığı araştırıldıktan sonra oluşacak sonuca göre bir karar verilmesi gerekirken somut olaya uygun düşmeyen yetki itirazına ilişkin mahkemeye açılmış bir dava olmadığından bahisle istemin reddi yönünde sonuca gidilmesi isabetsizdir.
@@ -80,10 +90,14 @@ SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukar
 
 ## Yargıtay 3. HD 2012/14729 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537973200)
+
 İlamsız icra takiplerinde ödeme emrine itiraz süresi yedi gündür. Bu süre, ödeme emrinin borçluya tebliğ edildiği tarihten itibaren başlar. Borçlu yedi gün içinde ödeme emrine itiraz etmez ise, ödeme emri ve icra takibi kesinleşir. Ödeme emri tebliği usulsüz ise, ödeme emrinin tebliğ edildiği tarih, borçlunun usulsüz tebliği öğrendiğini bildirdiği tarihtir ve yedi günlük normal itiraz süresi bu tarihten itibaren başlar. Somut olayda; ödeme emri 30.11.2010 tarihinde davalının işçisine tebliğ edilmiş, davalı 08.12.2010 günü, ödeme emrinin tebliğini izleyen 8. gün itirazını yapmıştır. Davalı itirazını yedi günlük itiraz süresi içinde yapmamıştır. Ancak davalıya yapılan ödeme emri tebliği usulsüzdür. Zira; 7201 Sayılı Tebligat Kanununun 17. maddesi ile Tebligat Tüzüğünün 23. maddesine göre belli bir yerde devamlı olarak meslek veya sanatını icra edenler o yerde bulunmadıkları takdirde tebliğ aynı yerdeki daimi memur veya müstahdemlerinden birine yapılır. Bu şekilde yapılan tebligatın geçerli olabilmesi için muhatabın o yerde bulunmadığının tebliğ evrakına yazılması gerekir.
 Somut olayda, muhatabın o yerde bulunmadığı tebliğ evrakına yazılmadığı için sözü edilen tebligat usulsüz olup davalının ödeme emrinin tebliğini izleyen 8. günde yaptığı itiraz bu sebeple süresinde kabul edilmelidir.O halde mahkemece yapılacak iş; itirazın iptali davasının esasına girip, tarafların tüm delillerini toplayıp hasıl olacak sonuca göre karar vermek olmalıdır.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 19. HD 2012/9283 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810131000)
 
 Davalı vekili, davanın reddini istemiştir.
 
@@ -95,6 +109,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 6. HD 2012/5132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/559847600)
+
 Dava, itirazın kaldırılması ve temerrüt nedeni ile kiralananın tahliyesi istemine ilişkindir.
 
 …
@@ -105,6 +121,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabu
 
 ## Yargıtay 12. HD 2012/5087 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/63134400)
+
 İlamsız takibe itirazın süresi, şekli, itirazın hükmü İİK.nun 62.ve 66.maddelerinde düzenlenmiştir. Buna göre, borçlu itirazını ödeme emrinin tebliği tarihinden itibaren yedi gün içinde icra dairesine bildirmeye mecburdur. Müddeti içinde yapılan itiraz takibi durdurur. Takibin durması yasa hükmü gereği olup, icra dairesinin ayrıca takibin durdurulması kararı vermiş olması açıklayıcı nitelikte olup hukuki sonucu etkilemez. Duran takibin devamı ise alacaklının aynı yasanın 67.ve 68.maddeleri koşullarında, mahkemeden alacağı olumlu karar ile mümkündür.
 
 Somut olayda borçlu İzzet Sezer'e 21.11.2006 tarihinde ödeme emri tebliğ edilmiş ve bu borçlu tarafından ödeme emrinin tebliğinden itibaren yedi günlük süre içinde icra dairesinde borca itiraz edilmiş olmasına rağmen takibin durdurulmayarak haciz işlemine gidilmesi doğru değildir.
@@ -114,6 +132,8 @@ Somut olayda borçlu İzzet Sezer'e 21.11.2006 tarihinde ödeme emri tebliğ edi
 SONUÇ : Borçlular temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK. 366 ve HUMK.’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 8. HD 2012/3957 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617650500)
 
 İİK.nun 150/a maddesinde "Ödeme emrine itiraz hakkında 62'den 72 maddeye kadar hükümler uygulanır.'' şeklinde düzenleme getirilmiştir.
 
@@ -127,11 +147,15 @@ SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yu
 
 ## Yargıtay 12. HD 2011/29907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/68104700)
+
 İİK.nun 150-a/1 maddesi gereğince ödeme emrine itiraz halinde İİK. nun 62. den 72. maddeye kadar olan hükümleri uygulanır. Buna göre, alacaklının itirazın kaldırılma talebi reddedildiğine ve borçlunun da talebi bulunduğuna göre İİK.nun 150/a maddesi göndermesiyle uygulanması gerekli olan aynı kanunun 68/son maddesi uyarınca borçlu yararına inkar tazminatına hükmedilmek gerekirken bu konuda olumlu olumsuz karar verilmemesi isabetsizdir.
 
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 12. HD 2011/4079 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/57481400)
 
 İİK'nun 62. maddesi hükmü gereğince; ilamsız takipte her türlü itirazın, ödeme emrinin tebliği tarihinden itibaren yedi gün içinde icra dairesine bildirilmesi gerekir. Aynı yasanın 59. maddesine göre de; takibe itiraz edildiği, alacaklının yatırdığı avanstan karşılanmak suretiyle üç gün içinde bir muhtıra ile alacaklıya tebliğ edilir. Aynı Yasa'nın 66/1. maddesinde ise, müddeti içinde yapılan itirazın takibi durduracağı düzenlemesine yer verilmiştir.
 
@@ -142,6 +166,8 @@ Somut olayda, borçlunun süresi içinde icra dairesine itirazla takibi durdurdu
 SONUÇ : Borçlu vekilinin temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 17. HD 2010/3745 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792661300)
 
 Davacı(üçüncü kişi) vekili, ... İcra Müdürlüğü’nün 2007/8035 Esas sayılı dosyasında trafik kaydına 23.03.2007 tarihlerinde haciz konulan ... ve ... plaka sayılı araçların, noterde yapılan sözleşme ile 15.03.2007 ve 22.03.2007’de davacı tarafından satın alındığını, 29.03.2007’de devir işlemleri için yaptığı başvuru sırasında hacizden haberdar olduğunu belirterek istihkak iddiasının kabulü ile araçlar üzerindeki haczin kaldırılmasına karar verilmesini istemiştir.
 
@@ -161,6 +187,8 @@ S O N U Ç :Davacı (üçüncü kişi) ... vekilinin yukarıda (1) numaralı ben
 
 ## Yargıtay 3. HD 2009/2904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16951600)
+
 İİK'nın 67. maddesine göre; takip talebine (süresi içinde) itiraz edilen alacaklı, itirazın tebliğ tarihinden itibaren bir sene içinde itirazın iptali istemiyle dava açabilir.
 
 Borçlu (ödeme emrinin tebliğinden itibaren 7 gün; İİK m. 62) süresi içerisinde ödeme emrine itiraz etmemiş veya süresi geçtikten sonra itiraz etmiş ve bu nedenle ilamsız icra takibi kesinleşmiş ise, alacaklının itirazın iptali davası açması mümkün değildir. Nitekim alacaklı bu durumda, kesinleşen takip gereği alacağını tahsil imkanına kavuştuğundan ayrıca itirazın iptali davası açarak ilam elde etmesinde hukuki bir yararı bulunmamaktadır. Davanın ön şartı ise, dava açmakta hukuki yararın bulunmasıdır. Bu husus dava şartı olup, mahkemece re'sen gözetilmesi gerekir.
@@ -170,6 +198,8 @@ Somut olayda ödeme emri 16.09.2005 tarihinde tebliğ edilmesine ve 7 günlük s
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan, kabulü ile hükmün HUMK'nın 428. maddesi gereğince (BOZULMASINA) ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 19. HD 2009/2858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886475000)
 
 Davacı vekili müvekkilinin alacaklı olduğu takip dosyalarına vaki itiraz nedeniyle itirazın iptali davaları açtıklarını ve bu davaların karara bağlanması ile birlikte, davalılardan önceki tarihte konulan ihtiyati hacizlerin kesinleştiğini ve İcra ve İflas Kanunu’nun 268 nci maddesindeki şartları taşıdığını, ne var ki borçluya ait aracın satışından sonra düzenlenen sıra cetvelinde müvekkilinin garameye sokulmadığını ileri sürerek sıra cetvelinin iptaline karar verilmesini talep ve dava etmiştir.
 
@@ -181,6 +211,8 @@ SONUÇ: Yukarıda açıklanan nedenle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 12. HD 2007/5292 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/71932600)
+
 İlamsız takip talebi ile borçluya gönderilen örnek 7 numaralı ödeme emrinin 15.03.2006 tarihinde adı geçene tebliğ edildiği, ancak İİK'nun 62.maddesinde yazılı 7 günlük itiraz süresi geçirildikten sonra icra dairesinde 23.03.2006 tarihli itiraz dilekçesinin borçlu tarafça sunulduğu görülmektedir. Bu durumda, itiraz süresi geçirildiği için takip kesinleşmiştir. Alacaklının icra dairesine başvurarak kesinleşen takibi sürdürme olanağı vardır. İcra dairesinin aksine kararı hakkında şikayet yoluna başvurulmalıdır. Bu durumda, alacaklının itirazın kaldırılması istemi ile icra mahkemesine dava açması fuzuli bir başvurudan ibarettir. Her ne kadar dava dilekçesinde (itirazın iptali) sözcükleri kullanılmış ise de, icra mahkemesindeki bu talebin itirazın kaldırılması olarak kabulü gerekir.
 
 …
@@ -188,6 +220,8 @@ SONUÇ: Yukarıda açıklanan nedenle temyiz olunan hükmün BOZULMASINA …
 SONUÇ : Borçlu vekilinin temyiz itirazlarının reddi ile sonucu doğru mahkeme kararının İİK 366 ve HUMK’nun 438. maddeleri uyarınca (ONANMASINA)
 
 ## Yargıtay 12. HD 2007/4208 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/72083700)
 
 İİK.nun 62.maddesi hükmüne uygun olarak borçlunun süresinde 22.06.2005 tarihli dilekçesiyle icra dairesine başvurduğu ve takibe itiraz ettiği görülmektedir. İİK.nun 66.maddesi gereğince müddeti içinde yapılan itiraz takibi durdurur. Aynı Kanunun 68/1.maddesinde ise itirazın tebliğ tarihinden itibaren alacaklının altı ay içinde İcra Mahkemesine başvurarak itirazın kaldırılmasını isteyebileceği belirlenmiştir. Alacaklı takibe devam edebilmek için Mahkemeden olumlu karar almak zorundadır. Borçlunun itirazı alacaklı vekiline tebliğ edilmediği için itirazın kaldırılması istemi süresinde kabul edilmelidir.
 

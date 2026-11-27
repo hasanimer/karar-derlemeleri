@@ -21,32 +21,46 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2014/17306 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/87870300)
+
 Davacı kadın, dava dilekçesiyle, boşanma ve fer'i niteliğindeki taleplerin yanı sıra boşanmanın eki niteliğinde olmayan katkı payı alacağı talebinde de bulunmuştur. Mahkemece, boşanma hükmünün kesinleşmesi sonrasında değerlendirilen davacı kadının katkı payı alacağına yönelik bu talebi "ispatlanamadığı” gerekçesiyle reddedilmiştir. O halde, bu talep yönünden, davalı yararına karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca hesap edilecek nispi vekalet ücretine hükmedilmesi gerekirken, bu hususta olumlu ya da olumsuz bir karar verilmemesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2014/4369 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/86342000)
+
 Davalı-davacı kadın 50.000 TL maddi tazminat talebinde bulunmuştur. Davalı-davacı kadının bu tazminat talebinin bir kısmı TMK 174/1 maddesinden, bir kısmı ise mal rejiminden kaynaklanmaktadır. Mahkemece yapılacak iş, davalı-davacı kadına maddi tazminat isteğinin ne kadarlık kısmının TMK 174/1 maddesinden, ne kadarlık kısmının mal rejimine ilişkin talebinden kaynaklandığının açıklattırılmasından sonra, kadının mal rejimine ilişkin maddi tazminat talebinin boşanmanın eki niteliğinde olmadığından nispi harca tabi olması nedeniyle, başvuru harcının dava dilekçesindeki bütün istekleri kapsadığı hususu göz önünde bulundurularak, bu taleple ilgili nispi peşin harcın davacıya tamamlattırılması (Harçlar Kanunu md. 30 - 32 ); harç tamamlandığı takdirde mal rejimine ilişkin taleplerin evlilik birliğinin sona ermesinden sonra görülebilir hale gelmesi nedeniyle boşanma davasının kesinleşmesine kadar bekletici mesele yapılmak üzere tefrik edilmesi, harç tamamlanmadığı takdirde ise anılan 32. madde uyarınca işlem yapılması gerekir. Bu gereklilik gözetilmeden yargılamaya devamla yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2013/17513 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/439744100)
 
 Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, mevcut deliller mahkemece takdir edilerek karar verildiğine ve taktirde bir isabetsizlik bulunmadığına, dava konusu 45 HM 852 plakalı aracın edinilmiş mallara katılma rejiminin geçerli olduğu dönemde edinildiği belirlendiğine, tarafların ailelerinden gelen ve aracın alımına katkı yapılan kişisel malların (paraların) mahkemece gözönünde tutularak bilirkişiye hesap yaptırdığına, öte yandan kooperatifin değer tespiti 04.05.2009 tarihinde yapılan keşif ile 60.000,00 TL olarak hesaplanması doğru değil ve karar tarihine yakın bir tarihte değerin belirlenmesi (TMK.m.232,235/1) gerekir ise de, davacı 04.11.2009 tarihli yargılama oturumunda okunan bilirkişi raporuna karşı bir diyeceği olmadığını bildirdiğine, bunun yanında 743 sayılı TMK'nun 190. maddesi bugüne kadar Daire tarafından uygulanmadığı halde Mahkemece hükme esas aldığı uzman bilirkişi raporuna göre bu maddeyi uyguladığı buna bağlı olarak davalı aleyhine fazla miktarda katılma alacağından indirim yapıldığı görüldüğüne, hükmün davalı tarafından temyiz edilmediğine, aleyhe bozma yasağı ve temyiz edilenin sıfatı gözönünde bulundurularak bu nedenle bu husus bozma
 sebebi yapılmadığına, her ne kadar karar tarihi itibarıyla 1.100,00 TL nisbi vekalet ücretinin davacıdan alınarak davalıya verilmesi gerektiği halde bunun yerine 2.640,00 TL’nin takdir edilmesi doğru değil ise de; bu konu HMK'nun 370/2. maddesi gereğince yeniden yargılamayı gerektirmediğinden hüküm fıkrasının 6. nolu bendinde yazılı, “… hesaplanan 2.640,00 TL nisbi vekalet ücretinin davacıdan alınarak davalıya verilmesine..” cümlesindeki “2.640,00 TL rakamının" çıkartılmasına bunun yerine “ 1.100,00 TL rakamının" yazılmasına (bu konuda Avukatlık Asgari Ücret Tarifesinin 12. maddesi gözönünde bulundurularak), bu tür davalarda fedakarlığın denkleştirilmesi ve hakkaniyet kuralının da gözetilmesi gerektiğine, davacı vekilinin tüm temyiz itirazlarının reddi ile HMK'nun 370/2.
 
 ## Yargıtay 8. HD 2013/15889 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437027600)
+
 Davada davacı, evlilik birliği içerisinde edinilen mallara katkısı sebebiyle alacak isteğinde bulunmuş, davalı ise, dava konusu edilen taşınmazlar ile araçların kişisel malları olduğu sebebiyle tasfiye edilemeyeceğini, eşi yararına herhangi bir alacağın söz konusu olmadığını savunmuştur. Yargılama devam ederken 13.01.2012 tarihli dilekçesi ile harç yatırmadan müdahale talebinde bulunan davalının babası ..., dava konusu taşınmazlar ve araçların kendisi tarafından alındığını ve her iki tarafın da alımlarda katkılarının bulunmadığını açıklayarak müdahale talebinin kabulü ile bu davanın derdest dava ile birlikte yürütülmesini, davacının davasının reddine karar verilmesini istemiş, herhangi bir harç yatırmamıştır. Müdahale isteğinin 07.06.2012 tarihli yargılama oturumunda reddedilmesi üzerine bu kez davaya harç yatırmak suretiyle HMK'nun 65. maddesi uyarınca, müdahale talebinde bulunan davalının babası ... önceki isteğini tekrarla açmış olduğu bu davasının derdest dava ile birlikte yürütülmesini ve katılma alacağı davasının reddini talep etmiştir.
 Bu isteği de Mahkemece 11.10.2012 tarihli yargılama oturumunda ara kararı ile reddedilmiştir. ..., 10.12.2012 tarihli dilekçe ile HMK 69.maddesi gereği fer'i müdahillik talebinde bulunmuş ve davalı yanında davaya katılma istediğinde bulunmuş ise de, Mahkemece, bu isteğin dosya Yargıtay’dan döndükten sonra değerlendirilmesine karar verilmiştir.
 
 ## Yargıtay 8. HD 2013/13255 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/442523600)
 
 Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, mevcut deliller Mahkemece takdir edilerek karar verildiğine ve taktirde bir isabetsizlik görülmediğine, davacı ...’nün çalışarak gelir elde ettiğinin, bu gelir ile de katkıda bulunduğunun, katkı oranına esas gelirlerin net olarak tespiti mümkün olmadığından hakkaniyet ve fedakarlığın denkleştirilmesi ilkesi ile 6098 sayılı Türk Borçlar Kanunu'nun 50 ve 51. maddeleri de gözetilerek davacının katkı oranının % 30 olarak kabul edilmesinde usul ve yasaya aykırı bir yön bulunmadığına, mahkemece katkı payı alacağına hükmedilirken davacının ziynetlerinin satışından gelen gelirin değil çalışarak elde ettiği kabul edilen gelir dikkate alındığına, edinilmiş mallara katılma rejimi döneminde alınan traktörün yöntemine uygun bir şekilde belirlenen bilirkişi raporundaki karar tarihine en yakın piyasa değeri dikkate alındığına, katılma alacağı bakımından da eşlerin gelir elde edip etmemelerinin bir önemi olmayıp yasadan kaynaklanan alacak hakkı niteliği gösterdiğine, davalı tarafından kişisel mal ile edinildiği savunması da ispatlanamadığına, dava konusu traktörle ilgili reddedilen 1.000 TL yönünden değer de dikkate alınarak
 hüküm tarihinde geçerli Avukatlık Asgari Ücret Tarifesi gereğince doğru şekilde 4.000 TL vekalet ücreti takdir edildiğine göre davalı vekilinin aşağıda açıklanan hususlar dışındaki diğer temyiz itirazları yerinde görülmemiştir.
 
 ## Yargıtay 8. HD 2013/12401 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/474424600)
+
 Dava dilekçesi ve yargılamanın devamında davadaki talebin 100.000 TL'ye yönelik olduğu, bu miktar üzerinden harcın tamamlandığı açık ise de, Mahkemece, davacı tarafa süre ve imkan verilerek ........ parça oldukları anlaşılan dava konusu taşınmazlardan hangi taşınmaz için ne miktar katkı payı alacağı isteğinde bulunulduğu açıklattırılmamış, davacının talebi somutlaştırılmamıştır. (HMK.m.194). Öncelikle, dava konusu taşınmaz mallar bakımından dava dilekçesinde gösterilen dava değerinin kalem kalem açıklattırılması, hangi uyuşmazlık konusu mal bakımından ne kadar istenildiğinin Lira olarak belirlenmesi gerekmektedir. Bu husus yani dava dilekçenin açıklattırılarak talebin somutlaştırılması 6100 sayılı HMK.nun 31, 33, 147, 169 ve 194/1.maddelerinin (HUMK. m.75/2, 76, 213/1, 230) gereğidir. Mahkemece, bu husus da gözden kaçırılmıştır.
 
 ## Yargıtay 8. HD 2013/7898 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437411700)
 
 Açıklanan olgular tarafların ve Mahkeme'nin bilgisi dahilindedir. Uyuşmazlık ... 1. Noterliği'nde 06.10.2006 tarih ve 07733 yevmiye numaralı genel vekaletnamenin düzenlendiği tarihte davacı ve vekil tayin eden ...’un Sulh Hukuk Mahkemesi'nin 2000/593 Esas, 2001/126 Karar sayılı kararında açıklandığı üzere kısıtlı olması nedeniyle bizzat vekil tayin etmesinin hukuken geçerli olup olmadığı ve bu vekaletnameye göre açılıp yürütülen ve karara bağlanan dava dosyalarındaki kararların geçerli bulunup bulunmadığında toplanmaktadır. Ne var ki, daha sonradan vasi tayin edilen kişi, aynı avukata vekaletname vermekle başlangıçta sakat olan hukuki işlemin sonradan geçerli hale gelip gelmediği bir başka hukuki sorun olarak karşımıza çıkmakta ise de, boşanma kararı temyiz edilmeksizin kesinleştirilmiş ve infaz edilmiştir. Artık bu konunun burada tartışılması Dairemiz'in görev alanı dışındadır. Ancak, boşanma dava dosyası açıldığı tarihte harcı ikmal edilmeden katkı payı veya yasal edinilmiş mallara katılma alacağı nedeniyle açılmış bir davadan söz etme olanağı da bulunmamaktadır.
 Çünkü, 492 sayılı Harçlar yasasının emredici hükümlerine göre, maktu harç veya belirli bir nispi harç alınarak açılmış bir dava söz konusu değildir. Davacı vekilinin 02.10.2007 tarihli dilekçesi nedeniyle ...’daki taşınmaz için tazminata yönelik isteminin Mahkemece mal rejiminin tasfiyesinden kaynaklanan bir alacak davası olup olmadığı açıklattırılmamış, bununla ilgili harçları tamamlattırılmamış, dosya tefrik edildikten sonra da harcı alınmaksızın yargılamaya devam edilmiş, ancak, bilirkişi raporundan sonra taşınmazların dava tarihi itibariyle değerlerinin belirlenmesi üzerine noksan harcın ikmali yoluna gidilmiştir. Davacı tarafın 02.10.2007 tarihli dilekçesi mal rejiminin tasfiyesine ilişkin bir dava olarak dikkate alınmış ise, bu dilekçe de fazlaya ilişkin talepler de saklı tutulmamıştır. Vasinin, mal rejiminden kaynaklanan davanın takibi için almış olduğu bir yetki de bulunmamaktadır. Öte yandan, Mahkeme kararından sonra noksanın tamamlanması yönüyle getirtilen evrak kapsamına göre, davacının 19.08.2011 tarihinde öldüğü belirlendiğine göre, mirasçılarına kararın tebliğ edilmediği ve davada taraf teşkilinin sağlanmadığı saptanmıştır.
@@ -54,53 +68,77 @@ Bu nedenle davanın ölen davacının veraset belgesindeki mirasçılarına yön
 
 ## Yargıtay 8. HD 2013/229 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242499400)
+
 Mahkemenin kabulüne göre dava, boşanma davası ile birlikte maktu harç yatırılarak açılmış ve 24.3.2009 tarihli yargılama oturumunda 1291 parselde kayıtlı daire ve ...plakalı araca ilişkin katkı payı alacağı talebi mevcut olduğu açıklanarak, bu talepler açısından dosyanın tefriki ile ayrı esasa kaydedilmesine karar verilmiş, tefrik sonrasında... Asliye Hukuk (Aile Mahkemesi sıfatı ile) Mahkemesi'nin 2009/116 esasına kaydedilerek yargılamaya devam edilmiştir. Az yukarıda yazılı dava dilekçesi incelendiğinde, davacının daire ve araçla ilgili herhangi bir alacak isteğinin bulunmadığı, bunlarla ilgili tek talebinin ihtiyati tedbir konulması olduğu anlaşılmaktadır. O halde herhangi bir talep olmadan Mahkemece kendiliğinden ortada bir alacak talebi olduğu kabul edilemez. Böyle bir talebin Mahkemenin tefrik kararı vermesi sonunda ayrı esasa kaydedilerek devam eden yargılamadan dolayı kabul edilmesi de mümkün değildir. Boşanma talebini de içeren dava dilekçesi sebebiyle yatırılan maktu harç, aynı dava dilekçesindeki diğer talepler için de yatırıldığı kabul edilebilir ise de, olmayan bir alacak talebi bakımından da yatırılmış bir harç olarak kabul edilemez.
 Olayları anlatmak taraflara, hukuki nitelendirmeyi yapmak ise, HMK'nun 25, 26, 31 ve 33. maddeleri (1086 sayılı HUMK'nun 74, 75 ve 76. maddeler) gereğince, Hakime aittir. Ancak HMK'nun 26. (HUMK. m. 74) maddesine göre hakim tarafların talep sonucu ile bağlı olup, talepten fazlasına veya başka bir şeye karar veremez. HMK’nun 119.maddesinde de dava dilekçesinde bulunması gereken hususlar içinde (ğ) bendinde açık bir şekilde talep sonucunun bulunması gerektiği yazılıdır. Bu açıklamalar karşısında davacı tarafından ortada usulüne uygun şekilde açılmış bir katkı payı alacağı talebi bulunmadığına, Mahkemece tarafların talebi olmadan dava açıldığı da kabul edilemeyeceğine göre, yazılı şekilde esas hakkında karar verilmesine yer olmadığına karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Yargıtay 2. HD 2012/29157 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82628100)
+
 Dava dilekçesiyle birlikte alınan başvurma harcı bu dilekçede yer alan bütün istekleri kapsar. Davacının boşanma davasının eki niteliğinde olmayan mal rejiminin tasfiyesine ilişkin talebi nispi harca tabidir. Öyleyse bu isteme ilişkin nispi peşin harcının tamamlattırılması (Harçlar Kanunun md.30); harç tamamlandığı takdirde boşanma hükmünün temyiz edilmeksizin kesinleştiği ve mal rejimine ilişkin davanın dinlenebilir hale geldiği gözetilerek davanın tefrikine gerek bulunmaksızın tüm deliller değerlendirilip bir karar verilmesi gerekirken; talebin genel hükümlere tabi bir alacak olduğundan bahisle görevsizlik kararı verilmesi usul ve yasaya aykırı görülmüş ve bu husus bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2012/13264 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610891400)
+
 Öte yandan davalının usulüne uygun olarak harç yatırmak suretiyle açmış olduğu bir dava ve istek bulunmadığı halde HUMK'nun 74 (HMK. 26) maddesine aykırı olarak istek aşılmak suretiyle davacı adına evlilik birliği içinde edinilmiş bulunan 34 UJ 8739 plaka sayılı araçtan kaynaklanan davalıya ait katılma alacağı bulunduğu gerekçesi ile davacının katılma alacağı ile takas yoluna gidilmesi de doğru olmadığı gibi, kendisini vekille temsil ettiren davalı lehine reddedilen miktar yönünden vekalet ücretine hükmedilmemiş olması da doğru değildir.
 
 ## Yargıtay 8. HD 2012/13056 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628583200)
 
 Bu açıklama sonrası dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, mevcut deliller mahkemece takdir edilerek karar verildiğine ve takdirde bir isabetsizlik görülmediğine, özellikle bu davalarda dikkate alınması gereken hakkaniyet ve fedakarlığın denkleştirilmesi ilkeleri de gözönünde tutulduğunda katkı payı alacağı davasında gerekçeli ve hüküm kurmaya yeterli nitelikteki 11.01.2012 tarihli bilirkişi raporu doğrultusunda dava tarihi itibariyle belirlenen 80.000 TL sürüm değeri ve davacı tarafın % 42,53 katkı oranı gözetilerek yazılı şekilde hüküm kurulmasında bir isabetsizlik bulunmadığına, her ne kadar faize tamamen ıslah sebebiyle 19.12.2002 tarihinden geçerli olacak şekilde hükmedilmesi gerekirse de bu hususta davacılar vekilinin açık temyizi olmadığından bozma yapma imkanı da olmadığına göre taraf vekillerinin tüm temyiz itirazlarının reddi ile usul ve yasaya uygun bulunan hükmün ONANMASINA, taraflarca HUMK.nun 388/4.
 (HMK m.297/ç) ve HUMK.nun 440/I maddeleri gereğince Yargıtay Daire ilamının tebliğinden itibaren ilama karşı 15 gün içinde karar düzeltme isteğinde bulunulabileceğine ve aşağıda dökümü yazılı 683,00'er TL peşin harcın onama harcına mahsubu ile kalan 2.094,54 TL harcın temyiz eden davacılar ve davalıdan ayrı ayrı alınmasına, 25.12.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2012/12987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988573500)
+
 Hemen belirtilmelidir ki talep, dava konusu taşınmazlar üzerindeki katılma alacağına ilişkin olup dava konusu hakkın para ile değerlendirilmesinin mümkün bulunduğu açıktır. Bu tür davada, 6100 ... HMK.nun 120. maddesi (HUMK'nun 413) ve 492 ... Harçlar Kanunu'nun 16. maddesi uyarınca dava değeri üzerinden Harçlar Kanunu'nun 26, 27, 28, 30 ve 32. maddelerinin öngördüğü şekilde işlemlerin yerine getirileceği ve gerekli olan harcın alınacağı tartışmasızdır.
 
 ## Yargıtay 2. HD 2012/6889 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83098200)
 
 Davalı-davacı koca karşı dava dilekçesiyle boşanma talebinin yanında, eşine ait taşınmaz ve aracın alımına yapmış olduğu katkı nedeniyle değer artış payı alacağı isteminde de bulunmuş, başvurma harcını yatırmıştır (TMK. md. 227). Başvurma harcı karşı dava dilekçesindeki tüm talepleri kapsar. Ancak mal rejminden kaynaklanan alacak davası nispi harçla görülebilecek davalardan olduğundan alacağın tutarına göre nispi harcın tamamlanması gerekir. Aksi halde Harçlar Kanununun 30 ve 32. maddeleri uyarınca müteakip işlemler yapılmaz ve bu talep yönünden davanın açılmamış sayılmasına karar verilir. Mahkemece davalı-karşı davacı kocaya mal rejiminden kaynaklanan bu alacağı yönünden eksik nispi harcın tamamlanması için mehil verilmesi ve harcın tamamlanması halinde Türk Medeni Kanununun 225. maddesi hükmü gereği boşanma kararının kesinleşmesi halinde bu talebin incelenebilir hale geleceği dikkate alınarak boşanma davasının bekletici mesele yapılarak, tarafların delilleri toplanarak sonucu uyarınca hüküm kurulması gerekirken yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2012/4394 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/611487400)
+
 Harçlar Yasasının 30. maddesi gereğince harç alınmadan ya da tamamlanmadan yargılama faaliyetlerine devam edilemez. Hal böyle iken, dava konusu katılma alacağına ilişkin istek, boşanma dava dilekçesinde boşanma talebiyle birlikte ileri sürülmüş ve 30.000 TL değer gösterilmesine rağmen buna ilişkin harç başlangıçta alınmamıştır. Katılma alacağına ilişkin talep, Marmaris 2. Asliye (Aile) Hukuk Mahkemesinin 2008/435 Esas sayılı dosyasından 22.12.2009 tarihli celsede tefrik edilerek ayrı esasa kaydedilmesine rağmen, bu aşamada ve yargılamanın sonuna kadar harçların tamamlandığına ilişkin bilgi ve belgeye dosya arasında rastlanmamıştır. Hükümle birlikte alınması gerekli harçların karar altına alındığı görülmüş ve ikmali için mahalli vergi dairesine müzekkere yazıldığı tespit edilmiştir.
 
 ## Yargıtay 8. HD 2012/4295 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/611515500)
+
 Hesaplamada kadına ait olduğu anlaşılan, dosya arasında trafik tescil belgesi bulunmayan ve hangi tarihte edinildiği bilinmeyen ancak her iki tarafın ortak beyanı ile davacı kadın adına trafikte tescil edildiği bildirilen 2005 model 06 N 3771 plakalı araçla ilgili davalı tarafından hesaplamada dikkate alınması istenmiş ise de usulüne uygun harcı yatırılarak bu araçla ilgili katılma alacağı davası açılmadığından hesaplamada dikkate alınması doğru değildir. Ancak bu şekildeki hesaplamaya davacı taraf bir itirazda bulunmamıştır. Temyiz dilekçelerinde yaptıkları kendi hesaplamalarında da bu araçla ilgili 22.000 TL değerinde artık değer olarak yer aldığı görülmektedir. Artık bu araçla ilgili belirlenen değerin artık değer olarak davalı lehine hesaplamada dikkate alınması, davalı lehine kazanılmış hak oluşturmuştur. Davalı vekilinin reddedilen kısım bakımından vekalet ücreti takdir edilmesi gerektiğine yönelik temyizi dışındaki diğer temyiz itirazları bu bakımdan yerinde bulunmamaktadır.
 
 ## Yargıtay 8. HD 2012/4048 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617817200)
 
 TMK.nun 222/son maddesi gereğince bir eşin bütün malları aksi ispat edilinceye kadar edinilmiş mal kabul edilir. Dosya kapsamı ve tanık beyanlarına göre aksi kanıtlanamadığına göre dava konusu altınların edinilmiş mal olarak kabul edilmiş olması ve katılma alacağı hesaplanmasında isabetsizlik bulunmamıştır. Ne var ki, davacı dava dilekçesinde dava konusu altınların ½ sinin verilmesini istemiş, harca esas değer gösterilmemiştir. 9.5.2007 tarihli dilekçeyle ise, 67,5 adet cumhuriyet altınının 13.095 TL değerinde olduğu açıklanarak bu değer üzerinden harç ikmal edilmiştir. Davacı vekili 11.2.2009 tarihli dilekçeyle de, talebin niza konusu altınların ½ sinin aynen, olmadığı takdirde murisin ölüm tarihi itibariyle parasal değerinin yasal faiziyle tahsilini istemiştir. Mahkemece, dava konusu altınların tasfiye tarihi itibariyle değerleri esas alınarak yazılı şekilde hüküm kurulmuştur. Kural olarak, TMK.nun 235.maddesine göre katılma alacağının hesabında edinilmiş malın tasfiye anındaki (karar tarihine en yakın) değeri esas alınır. Ne var ki, HMK.nun 26 (HUMK.nun 74.) maddesine göre “...Hakim tarafların talep sonuçlarıyla bağlıdır; ondan fazlasına veya başka bir şeye karar veremez....”.
 Davacı taraf dava konusu altınların yarısının miras bırakan eşin ölüm tarihi itibariyle değerinin yasal faiziyle tahsilini istediğine göre isteğin aşılması, bundan ayrı harçlandırılan dava değerinin gözden kaçırılması suretiyle yazılı şekilde hüküm kurulmuş olması doğru değildir.
 
 ## Yargıtay 8. HD 2012/2454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602548200)
+
 Bu açıklamalara göre; kararın niteliği itibari ile kabule karar verilen katkı payı alacağının miktarı üzerinden nispi temyiz karar harcı alınması gerekirken maktu temyiz karar harcı alındığından; HMK.nun 366.maddesi yollamasıyla aynı Kanunun 344. (HUMK.nun m.434/3.fıkrası) maddesi gereğince ve 25.01.1985 tarih, 5/1 sayılı Yargıtay İçtihadı Birleştirme Kararı da gözetilerek;
 "nisbi temyiz karar harcını" diğer temyiz giderleriyle birlikte yatırması için bir kısım davalılar vekili adına muhtıra çıkarılmasına, muhtırada yatırılacak nisbi temyiz karar harcının hesaplanarak gösterilmesi, verilecek 7 günlük kesin süre içerisinde "nisbi temyiz karar harcını" diğer temyiz giderlerini tamamlaması, aksi halde temyiz isteğinden vazgeçmiş sayılacağı hususunun muhtırada belirtilmesi, verilen kesin süre içinde istenen harç ve giderlerin tamamlanmadığı taktirde mahkemece başvurunun yapılmamış sayılmasına karar verileceği konusunda aynı biçimde muhtırada uyarı yapılması, tebliğ tarihinden itibaren 7 günlük kesin sürenin dolmasının beklenilmesi, bu konuda 10.05.1965 tarih 1965/1 Esas, 1965/1 Karar sayılı Yargıtay İçtihadı Birleştirme Kurulu Kararı kapsamının gözönünde bulundurulması, ondan sonra temyiz incelemesi yapılmak üzere geri çevrilmesi için dosyanın mahal mahkemesine GÖNDERİLMESİNE, 03.04.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2012/997 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523855000)
+
 Yukarıda da açıklandığı üzere gerçekten davacının harç yatırmak suretiyle yöntemine uygun bir biçimde açtığı bir mal rejimi davası bulunmamaktadır. Ne var ki, açıklanan olaylar sisilesinden de anlaşılacağı gibi davacı ...’un verdiği mal rejimine ilişkin dilekçeler üzerine mahkemece gerekli harç alınmıştır. Hatta daha ileri giderek mal rejimine konu taşınmazlar ve traktör bakımından değer tespiti için keşif yapılmış, keşif sonucu uzman bilirkişilerce belirlenen değer üzerinden de tamamlama harcı alınmıştır. Daha öteye gidilerek dosya hukukçu bilirkişiye verilerek katkı payı alacağının hesaplanması istenmiş ve bu konuda gerekli rapor dosyaya sunulmuştur. Tüm bu aşamalardan sonra yöntemine uygun bir ...//.
 
 ## Yargıtay 8. HD 2012/330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521468300)
 
 Davacı tarafın Ataköy'de bulunan meskenin tadilat giderlerine ilişkin temyiz itirazlarına gelince; evlilik öncesinde (06.08.1997) satış suretiyle davalı adına tescil edilen ve aile konutu olarak kullanılan taşınmazın 1999 yılında yapılan tadilatına katkıda bulunulduğu açıklanarak alacak isteğinde bulunulmuştur. Uyuşmazlığa konu davalı kocanın kişisel malı niteliğinde bulunan taşınmaza, eşler arasında 743 sayılı MK.nun 170.maddesi hükmü uyarınca mal ayrılığı rejiminin geçerli bulunduğu dönemde yapılan tadilata katkı iddiasının Borçlar Kanunu’nun genel hükümlerine göre çözüme kavuşturulması gerekir. Buna göre, eşlerin birbirlerinin mal varlıklarına katkılarının kanıtlanması durumunda, katkı oranında alacak hakkı doğar. Dosya arasında bulunan çalışma ve gelir belgeleri incelendiğinde; tarafların tadilatın yapıldığı dönem itibariyle çalıştıkları belirlenmiştir. 743 sayılı MK.nun yürürlükte bulunduğu, 01.01.2002 tarihinden önce eşler arasında yasal mal ayrılığının geçerli olduğu dönemde, karı ve kocanın diğerinden katkı payı karşılığında tazminat isteyebilmesi için mutlaka parasal veya parayla ölçülebilen maddi bir değer koymak suretiyle katkısının bulunması gerekir.
 Somut olayda her iki taraf çalıştığına göre, evlilik birliği içinde davalının kişisel malı niteliğinde bulunan taşınmaza yapılan kapsamlı tadilata katkıda bulunduklarının kabulü gerekir. Gerek davacı taraf tanıklarının anlatımları, gerekse davacının banka hesabından çekilen ve tadilat dönemiyle örtüşen meblağ gözönüne alındığında, tadilat giderlerine ilişkin dava kanıtlanmıştır.
@@ -112,13 +150,19 @@ Dava dilekçesiyle birlikte alınan başvurma harcı bu dilekçede yer alan büt
 
 ## Yargıtay 8. HD 2011/3076 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/530659900)
+
 Bundan ayrı mahkemece kurulan hükümde katkı payı ve katılma alacağı ile yargılama gideri, harç ve vekalet ücretinin “davalıdan” tahsiline karar verilmiş ise de davada iki davalı olup hükmün hangi davalı hakkında olduğu veya iki davalıyı da kapsayıp kapsamadığı anlaşılamamaktadır. HUMK.nun 388. maddesinde; bir kararda bulunması gereken hususlar tek tek bentler halinde gösterilmiş, aynı maddenin 2. fıkrasında ise; “…istek sonuçlarından her biri hakkında verilen hükümle taraflar yüklenen borç ve tanınan hakların mümkünse sıra numarası altında birer birer, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gerektiği öngörülmüş, aynı kanunun 389. maddesinde de; verilen karar ile iki tarafa tahmil ve bahşedilen vazife ve haklar şüphe ve tereddüte mucip olmayacak surette gayet sarih ve açık yazılmalıdır...” denilmektedir. Verilen hüküm açıklandığı biçimde açıklanan kanun hükümlerine aykırılık oluşturmaktadır. Hükmün bu hali ile infazı da olanaksızdır. Kurulan hüküm bu nedenle de usul ve kanuna aykırıdır.
 
 ## Yargıtay 2. HD 2010/10565 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81273200)
+
 Birleşen davada davalı-davacı kocanın katkı payı alacağına yönelik talebi boşanma davasının eki niteliğinde olmayıp ayrıca nispi harca tabidir. Başvurma harcı ilk dava açma sırasında,nispi harç da tensiple yapılan ihtarat üzerine 14.10.2008 tarihinde mahkeme veznesine yatırılmış makbuzu dosyaya ibraz edilmiştir. Katkı payı alacağına yönelik isteğin dinlenebilmesi için öncelikle evlilik birliğinin sona ermesi gerekir. Davalı-davacı kocanın katkı payına ilişkin talebi yönünden tefrik kararı verilerek boşanma davasının sonucunun beklenmesi gerekirken yazılı gerçekçe ile katkı payına yönelik istek hakkında davanın açılmamış sayılmasına karar verilmesi de doğru bulunmamıştır.
 
 ## Yargıtay 8. HD 2010/6093 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/552386100)
 
 Buna karşılık; dosya arasında bulunan kayıt ve belgelere göre davacı ... ile 16.9.2005 tarihinde öldüğü belirlenen ...’in 5.2.1999 tarihinde evlendikleri ve Ural’ın ölümü ile geriye davacı ... ile davalılar ... ve ...’in kaldığı, dava konusu Bodrum Akyarlar’da bulunan 2171 parsel sayılı arsa vasıflı taşınmazın 1/2 payının 27.6.2002 tarihinde Ural tarafından satın alındığı ve Ural’a ait pay üzerine evlilik birliği içinde konut yapıldığı anlaşılmıştır. Tarafların başka bir mal rejimini seçtikleri ileri sürülüp kanıtlanmadığına göre; taraflar arasındaki söz konusu taşınmaza ilişkin uyuşmazlığın yasal edinilmiş mallara katılma rejimi kuralları gereğince çözüme kavuşturulması gerektiği ve ileri sürülüş biçimi dikkate alındığında davanın katılma alacağı isteğine ilişkin bulunduğu hususunda duraksama bulunmamaktadır. TMK.nun 222/ son fıkrası uyarınca bir eşin bütün malları aksi ispat edilinceye kadar edinilmiş mal kabul edilir.Böyle bir malın edinilmiş mal olmadığını veya kişisel mallar yerine geçen bir mal olduğunu ileri süren kişi bu iddiasını kanıtlamak zorundadır.
 Edinilmiş mallara katılma rejiminde tarafların dava konusu mal varlığının edinilmesinde maddi bir katkısının bulunup bulunmadığının da bir önemi yoktur. Diğer bir ifade ile davacının maddi katkısının varlığını ispatlamak zorunda kalmaksızın diğer eşe ait malın artık değerinin (TMK.m.231) yarısı üzerinden (TMK.m.236/1) hak sahibi olacağı açıktır. Davalı-karşı davacılar dava konusu Bodrum Akyarlarda bulunan taşınmazın miras bırakanları Ural’a ait olan ve evlilik birliğinden önce edinildiği için kişisel malı niteliğinde bulunan başka taşınmazların satımı sonucunda elde edilen değerlerin kullanılması ile edinildiğini ileri sürmüşler ise de, satılan taşınmazların hangi taşınmazlar olduğunu, ne zaman ve ne bedelle satıldıklarını, satış bedellerinin dava konusu taşınmazın edinilmesine nasıl aktarıldığı gibi konularda açıklamada bulunmamışlardır. Dinlenen tanıkların da bu yönde somut, iddiayı kanıtlar nitelikte bilgiye sahip olmadıkları görülmektedir.
@@ -127,29 +171,43 @@ Davacı ... yargılama sırasında vekili vasıtası ile dosyaya sunduğu açık
 
 ## Yargıtay 2. HD 2010/4343 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81296100)
+
 Davacı kadının davalı koca adına kayıtlı taşınmazın 1/2 hissesinin iptali ile adına tesciline ilişkin talebi mal rejiminin tasfiyesi niteliğindedir. Bu istek boşanmanın eki niteliğinde olmayıp nispi harca tabidir. Yatırılan başvurma harcı bu isteği de karşılamakta olup, bu istekle ilgili olarak nispi peşin harcın tamamlattırılması (Harçlar Kanunu md.30-32) gerekmektedir. Türk Medeni Kanununun 225/2 maddesine göre mahkemece, evlilik boşanma sebebiyle sona erdirilmesine karar verilmesi halinde mal rejimi dava tarihinden geçerli olmak üzere sona erer. Mahkemece dava değeri açıklattırılarak nispi peşin harç tamamlattırılmadan ve taraflar arasındaki boşanma davasının kesinleşmesi de beklenmeden yargılamaya devamla yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2010/2962 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519348700)
+
 Karar tarihi itibariyle yürürlükte olan Avukatlık Asgari Ücret Tarifesinin 7. maddesi 1.fıkrası hükmüne göre; konusu belli bir değerle ilgili davalarda; görevsizlik, yetkisizlik ve HUMK.nun 409. maddesi gereğince davanın açılmamış sayılmasına ilişkin olarak, delillerin toplanmasına ilişkin ara kararı gereğinin yerine getirilmesinden önce karar verilmesi hallerinde, tarifede yazılı ücretin yarısına hükmolunacağı, ancak belirlenecek avukatlık ücretinin ikinci kısmın ikinci bölümünde yazılı miktarı geçemeyeceği belirtilmiştir. Somut olayda, katkı payı alacağı davasına ilişkin vekalet ücreti tabi bulunduğu Avukatlık Asgari Ücret Tarifesinin 3.kısmına uygun olarak hesap edilmiş ise de, yukarıda açıklanan 7. maddenin 1.fıkrası son cümlesi nazara alınmadan hüküm kurulmuş olması belirtilen düzenlemeye aykırı bulunmaktadır.
 
 ## Yargıtay 2. HD 2009/14695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80204500)
 
 Edinilmiş mallara katılma rejiminin tasfiyesinde, malların sürüm değeri esas alınır. (TMK. md. 232), Mal rejiminin sona erdiği sırada mevcut olan edinilmiş mallar, tasfiye anındaki değerleriyle hesaba katılırlar. (TMK. md. 235/1) Edinilmiş mallara hesapta eklenecek olanların değeri, malın devredildiği tarih esas alınarak hesaplanır (TMK. md. 231/2) Her eş veya mirasçıları, diğer eşe ait artık değerin yarısı üzerinde hak sahibi olurlar. (TMK. md. 236/1) Artık değer, eklemeden ve denkleştirmeden elde edilen miktarlar da dahil olmak üzere her eşin edinilmiş mallarının toplam değerinden, bu mallara ilişkin borçlar çıkarıldıktan sonra kalan miktardır. (TMK. md. 231) Açıklanan yasal düzenlemelere göre; tasfiyede; mal rejiminin sona erdiği sırada mevcut olan edinilmiş mallar tasfiye anındaki sürüm değerleriyle, hesapta eklenecek olan mallar ise devredildiği tarihteki değerleriyle hesaba dahil edileceklerine göre Türk Medeni Kanununun 231. maddesinde gösterilen şekilde yapılacak hesap sonucu ortaya çıkacak artık değer ve bu değer üzerindeki davacı eşin hakkının (TMK. md.
 236/1), başka bir ifade ile davacının katılma alacağının miktarının başlangıçta bilinmesi ve tayin edilmesi mümkün değildir. Değer tayini mümkün olan hallerde dava dilekçesinde değer gösterilmesi mecburidir. (Harçlar K. md. 16/1) Değer tayini mümkün değil ise, somut davada olduğu gibi yasada gösterilen usul çerçevesinde yapılacak hesap sonucu değer belirlenecek ise, dava dilekçesinde gösterilen değer tahmini ve harca esas olmak üzere gösterilmiş olup, davacı gösterdiği bu değerle bağlı sayılamaz. Noksan tespit edilen değerler hakkında Harçlar Kanununun 30. maddesi uygulanarak (Harçlar K. md.16/2) nispi peşin harç noksanlığının tamamlanmış olması koşuluyla, hakim de, dava dilekçesinde gösterilen tahmini değerle bağlı olmayıp, daha çoğuna karar verebilir. Böyle bir karar, Hukuk Usulü Muhakemeleri Kanununun 74. maddesinde yer alan “isteği aşan hüküm” niteliğinde sayılamaz. Davacı, yargılama sırasında belirlenen katılma alacağının üzerinden peşin nispi harç noksanlığını tamamladığına göre, belirlenen katılma alacağının hüküm altına alınması gerekirken, istekle bağlı kalındığından söz edilerek yazılı şekilde hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2008/9419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80563100)
+
 Yatırılan başvurma harcının tüm talepleri kapsadığı gözetilerek, karşılık dava ile istenen boşanma, katkı payı, katılma alacağı, aile konutuna şerh konulması talepleri hakkında ayrı ayrı peşin harçların tamamlanması sağlanmadan yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır. (Harçlar K.30-32.md.)…
 
 ## Yargıtay 2. HD 2008/4793 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81238000)
 
 Davacı koca tarafından açılan Türk Medeni Kanununun 166/son maddesine dayalı boşanma davası ile davalı kadın tarafından daha önce açılmış olan müstakil nafaka davası birleştirilerek görülmüştür. Davalı-davacı kadının boşanmanın fer’ileri ile katılma alacağına yönelik, harcı verilerek usulüne uygun açılmış bir karşı davası bulunmamaktadır. Boşanma davası içinde talep edilen boşanmanın eki niteliğindeki maddi ve manevi tazminat ve yoksulluk nafakası istekleri ise harca ve vekalet ücretine tabi değildir. Bu husus gözetilmeden hüküm altına alınan tazminatlar üzerinden davalı-davacı kadın yararına nisbi vekalet ücretine hükmedilmesi ve hükmedilen miktarlardan nisbi harç alınması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2006/5636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76917400)
+
 Davanın devamı sırasında katkı payı alacağı yönünden dava koşullarının gerçekleştiği, mal rejiminin kocanın açtığı boşanma davasının dava tarihi olan 3.11.2003 tarihinde sona erdiği de belirlenmiştir. Katkı alacağı yönünden harç ikmal edildiğinden, ıslaha dayalı bu konunun incelenmesi, işin esası hakkında bir karar verilmesi gerekirken, yazılı gerekçeyle karar tesisi doğru olmadığı gibi, boşanmanın eki niteliğindeki maddi ve manevi tazminat ile tedbir ve yoksulluk nafakası ile ilgili olarak da harç noksanı ikmal ettirilerek, ıslaha uygun işin esasının incelenerek, hasıl olacak sonuca göre bir karar verilmesi gerekirken, yazılı şekilde davanın reddi bozmayı gerektirmiştir.
 
 ## İstanbul BAM 12. HD 2021/1691 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/702086400)
 
 Asli müdahale talep edenin talepleri bağımsız bir başka davanın konusunu oluşturmaktadır.Eşler arasında mal rejiminin sona ermesi en erken boşanma davası tarihi olan 20.12.2016 olduğu gözetildiğinde, asli müdahale talep eden açısından mal rejimi tasfiyesi açısından bu davada verilen hüküm ile hak kaybının yaşanması da sözkonusu değildir.Asli müdahale talep eden ...'in dava konusu hisseler üzerinde ayrı bir hak talebinin sözkonusu olmadığı gözetilerek 6100 sayılı HMK nun 65. maddesinde düzenlenen koşullar bulunmadığı halde ,yargı uygulamasında feri müdahaleden farklı olarak asıl davadan bağımsız bir dava olarak kabul edilen asli müdahalin davası hakkında olumlu olumsuz bir karar verilmemesi doğru olmamıştır. Talebin asli müdahale koşulları bulunmadığından reddi gerekmekte birlikte ; davacı yanında dava konusu üzerinde hak iddia etmesi mümkün görülen asli müdahale talep eden ile asıl davanın davacısı aynı safta yer aldığı, hasım durumunda olmadıkları talebin reddi halinde davacı yararına vekalet ücreti ödenmesine de karar verilemeyeceğinden ,davacı vekilinin vekalet ücretine yönelik istinaf nedeni yerinde görülmemiştir.

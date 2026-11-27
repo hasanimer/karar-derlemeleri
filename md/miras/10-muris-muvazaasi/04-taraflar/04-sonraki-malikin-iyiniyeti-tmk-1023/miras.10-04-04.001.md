@@ -25,9 +25,13 @@ Hemen belirtmek gerekir ki; hükmüne uyulan bozma ilamında da belirtildiği ü
 
 ## Yargıtay 1. HD 2025/4077 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183110700)
+
 Hemen belirtmek gerekir ki, mirasbırakanın taşınmazdaki iştirak halinde bulunan payını mirasçılardan mal kaçırma amacıyla muvazaalı olarak dahili davalı oğlu ...’a, ...‘in de taşınmazı davalı ... ... devrettiği, davalı ...’un ...’ın arkadaşı olup temlikin muvazaalı olduğunu bilebilecek durumda olduğu, TMK'nın 1023. maddesinin koruyuculuğundan yararlanamayacağı saptanmak suretiyle asıl dava yönünden ve birleştirilen davada davacı ... ...’ın muris muvazaası hukuki nedenine dayalı talebi yönünden davanın kabulüne karar verilmesinde kural olarak bir isabetsizlik bulunmamaktadır. Asıl ve birleştirilen davada dahili davalı ... vekilinin yerinde bulunmayan temyiz itirazlarının reddine.
 
 ## Yargıtay 1. HD 2023/2252 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924208300)
 
 …
 
@@ -35,15 +39,21 @@ temlikin muvazaalı olduğu kanaatine varılır ise son kayıt maliki olan daval
 
 ## Yargıtay 1. HD 2023/2250 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924205300)
+
 Öte yandan, davalı ...'in akrabası olan diğer davalı Nihal'in, temlikin muvazaalı olduğunu bilen veya bilmesi gereken kişi konumunda olduğu, TMK'nın 1023. maddesinin koruyuculuğundan yararlanamayacağı tartışmasızdır.
 
 ## Yargıtay 1. HD 2023/259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894699900)
 
 …
 
 diğer devir işlemlerinde de temlik alanların TMK.nın 1023.maddesi koruyuculuğundan yararlanamayacakları belirlenmek suretiyle davanın kabulüne karar verildiği, söz konusu kararın eldeki temyize konu dava açısından güçlü delil teşkil ettiği, davacı ...'nin satış işleminin tarafı olmadığı, dolayısıyla eldeki davayı açmasının TMK.nın 2.maddesine aykırılık olarak değerlendirilmesinin doğru olmadığı gözetilmek suretiyle, 153 ada 3 parsel sayılı taşınmaz yönünden de davanın kabulüne karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı olduğu üzere hüküm kurulması isabetsizdir.
 
 ## Yargıtay 1. HD 2021/6434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729076300)
 
 Dava, muris muvazaası hukuki nedenine dayalı miras payı oranında tapu iptal ve tescil istemine ilişkindir.
 
@@ -53,6 +63,8 @@ Hemen belirtmek gerekir ki, hükmüne uyulan bozma kararında gösterildiği şe
 
 ## Yargıtay 1. HD 2021/6376 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729079600)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı takdirde bedel isteğine ilişkindir.
 
 …
@@ -60,6 +72,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadı�
 Öncelikle belirtmek gerekir ki, mirasbırakan ...’in yaptığı temliklerin mirastan mal kaçırma amaçlı ve muvazaalı olduğu saptanmak suretiyle davanın kabulüne karar verilmiş olması doğru olduğu gibi son bozma ilamında gerekçesi ortaya konulduğu üzere ikinci el konumundaki davalı ...’in de 4721 sayılı TMK’nin 1023. maddesinden yararlanamayacağı ortadadır. Davalılar vekilinin bu yönlere ilişkin karar düzeltme nedenleri, HUMK'un 440. maddesinde gösterilen dört halden hiçbirine uymadığından reddine.
 
 ## Yargıtay 1. HD 2021/5860 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718277500)
 
 Dava, muris muvazaası hukuki nedenine dayalı miras payı oranında tapu iptal ve tescil istemine ilişkindir.
 
@@ -69,9 +83,13 @@ Hemen belirtmek gerekir ki, mirasbırakanın davalı ...'e yaptığı devrin mir
 
 ## Yargıtay 8. HD 2020/6431 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610597100)
+
 Bilindiği üzere; muvazaa nedenine dayalı olarak verilen kararlar yenilik doğurucu değil, açıklayıcı nitelik taşırlar. Bu suretle oluşan kararlara konu işlemler yapıldıkları tarihten itibaren yok hükmünde olup yapılmamış sayılırlar ve iptal hükmü geriye etkili olarak sonuç doğurur. Aynı şekilde Yargıtay Hukuk Genel Kurulunun 07.02.1990 tarihli ve 1989/3–602 Esas 1990/56 Karar sayılı ilamında kabul edildiği gibi murisin mirasçılarından mal kaçırmak amacıyla yaptığı muvazaaya dayanan devir ve temlikler geçersiz olduğundan, davaya konu taşınmazı muvazaalı olarak iktisap eden davalının işgali iyi niyetli sayılamaz ve kendisinden mal kaçırılan davacılar, murisin ölüm tarihinden başlayarak dava tarihine kadar geçen süre için ecrimisil isteyebilirler.
 
 ## Yargıtay 1. HD 2019/3299 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515260300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil;olmadığı takdirde,tazminat isteğine ilişkindir.
 
@@ -81,9 +99,13 @@ Gerçekten de hükmüne uyulan bozma ilamı doğrultusunda, mirasbırakan ... ta
 
 ## Yargıtay 1. HD 2019/2990 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510002300)
+
 Davanın kısmen kabulüne ilişkin olarak verilen karar Dairece; "... miras bırakanın satış yoluyla temlik ettiği taşınmazlar bakımından temliklerin mirasçıdan mal kaçırma amaçlı ve muvazaa ile illetli olduğu, ikinci el konumunda bulunan son kayıt maliklerinin de muvazaalı işlemi bilen ve bilmesi gerekli konumunda bulundukları TMK’nun 1024. maddesi aracılığıyla ve TMK’nun 1023. maddesinin koruyuculuğundan yararlanamayacakları belirlenmek suretiyle asıl ve birleşen davadaki tapu iptal tescil isteklerinin kabulüne karar verilmiş olmasında bir isabetsizlik yoktur. Bu yöne değinen davalıların temyiz itirazları yerinde değildir.
 
 ## Yargıtay 8. HD 2018/18759 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/476654700)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -93,6 +115,8 @@ Murisin mirasçılarından mal kaçırmak kastı ile yaptığı muvazaaya dayana
 
 ## Yargıtay 1. HD 2018/8030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410590400)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil olmadığı takdirde tazminat istemine ilişkindir.
 
 …
@@ -101,11 +125,15 @@ Hemen belirtilmelidir ki, dosya kapsamı ile, murisin çekişme konusu 268 parse
 
 ## Yargıtay 1. HD 2018/905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406304900)
+
 Gerçekten de, bozma kararları doğrultusunda yapılan araştırma sonucunda, murisin 1/3 pay bakımından davalı oğlu ... yapmış olduğu temlikin mirastan mal kaçırma amaçlı ve muvazaalı olduğu, sonraki malikler ... ve ... da 4721 sayılı Türk Medeni Kanunu'nun 1023. maddesinin koruyuculuğundan yararlanamayacakları benimsenmek suretiyle tapu iptali-tescile karar verilmesinde kural olarak bir isabetsizlik yoktur. Tarafların bu hususa yönelik temyiz itirazları yerinde değildir, reddine.
 
 Ancak, hemen belirtilmelidir ki, muris muvazaası hukuksal nedenine dayalı olarak açılan tapu iptal ve tescil davaları sonucunda kurulan kabul hükmü inşai(kurucu) nitelikte olmayıp izhari(açıklayıcı) nitelik taşıdığından ve muvazaa ile illetli olan temlik işlemi baştan itibaren geçersiz sayılacağından, temlik konusu edilen taşınmazın murisin terekesinden maddi anlamla çıktığı düşünülemez. Bunun sonucu olarak da, murisin ölümü ile terekesinin mirasçılarına intikal edeceği ve ölüm tarihi itibarıyla mirasçılarının hak sahibi olacağı gözetildiğinde, taşınmazı haksız olarak kullanan kişinin ecrimisil sorumluluğunun da murisin ölüm tarihinden itibaren başlayacağı açıktır.
 
 ## Yargıtay 1. HD 2017/6494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/381344100)
 
 Dava, paydaşlar arası ecrimisil isteğine ilişkindir.
 
@@ -114,6 +142,8 @@ Dava, paydaşlar arası ecrimisil isteğine ilişkindir.
 Öte yandan, muris muvazaası hukusal nedenine dayalı tapu iptal ve tescil davası kabul edildiğine göre muris muvazaasının tarafı olan davalının iyiniyetinden söz edilemeyeceği, bir başka değişle kötüniyetli zilyet olduğu gözetilerek ecrimisile hükmedilmesinde kural olarak bir isabetsizlik yoktur. Davalının bu yöne ilişkin temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2016/7196 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223112500)
 
 Dava, muris muvazaası hukuksal nedenine dayalı alacak ve ecrimisil isteklerine ilişkindir.
 
@@ -125,6 +155,8 @@ Hemen belirtilmelidir ki, muvazaa ile illetli olarak yapılan temlikin yok hükm
 
 ## Yargıtay 1. HD 2016/4394 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204518500)
+
 Dava, tapu iptali ve tescili isteğine ilişkindir.
 
 …
@@ -132,6 +164,8 @@ Dava, tapu iptali ve tescili isteğine ilişkindir.
 Toplanan deliller ve tüm dosya içeriği ile, mirasbırakan ...'ın çekişme konusu taşınmazlarını kızından mal kaçırma amacı ile davalı oğluna temlik ettiği, oğlunun da taşınmazı diğer davalı ...’e devrettiği, ...’in tarafların dayısı olması sebebi ile TMK 1023 md. koruyuculuğundan yararlanamayacağı, son malik ...’ın taşınmazı edinmesine rağmen, taşınmazların ölümüne kadar muris, ölümünden sonra davalı tarafından kullanıldığı, ...’ın da iyiniyetli olmadığı saptanarak davanın kabul edilmesinde bir isabetsizlik yoktur. Davalı ...’in temyiz itirazları yerinde görülmediğinden reddine.
 
 ## Yargıtay 1. HD 2015/1917 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120633200)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -144,6 +178,8 @@ Hemen belirtilmelidir ki, dava konusu taşınmazın muris muvazaasına dayalı o
 
 ## Yargıtay 1. HD 2014/16775 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84283100)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
 …
@@ -152,6 +188,8 @@ Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal g
 
 ## Yargıtay 1. HD 2014/13731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84268600)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -159,6 +197,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine
 Toplanan deliller ve tüm dosya içeriği ile mirasbırakan A.A.'ın çekişme konusu 1, 10, 52, 82 ve 97 parsel sayılı taşınmazları mirasçılardan mal kaçırma amacıyla muvazaalı olarak yeğeni Süleyman'a temlik ettiği, Süleyman'ın da 1 parsel haricindeki taşınmazları eşi Ayşe'ye bağışladığı, Ayşe'nin konumu nedeniyle Türk Medeni Kanunu'nun 1023. maddesinin koruyuculuğundan yararlanamayacağı belirlenerek davanın kabul edilmesinde bir isabetsizlik yoktur.
 
 ## Yargıtay 1. HD 2014/7647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84290000)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve miras payı oranında tescil, olmadığı takdirde tenkis isteğine ilişkindir.
 
@@ -170,6 +210,8 @@ Ne varki, çekişmeli 9601 parsel sayılı taşınmaz üzerine bina inşa ediler
 
 ## Yargıtay 1. HD 2013/14291 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79567400)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -180,15 +222,21 @@ Davalılardan N. A. ve H. İ.E.dava dilekçesi ve duruşma gününün tarafları
 
 ## Yargıtay 1. HD 2013/13221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254928700)
+
 Toplanan deliller ve tüm dosya içeriği ile miras bırakan ... çekişme konusu 21 numaralı bağımsız bölümü ilk eşinden olma çocuklarından mal kaçırmak amacıyla ikinci eşi ... temlik ettiği saptanmak, son kayıt maliki ...kızı olduğu, muvazaalı işlemleri bilebilecek durumda olup TMK'nin 1023. maddesinin koruyuculuğundan yararlanamayacağı gözetilmek suretiyle davanın kabulüne karar verilmiş olması kural olarak doğrudur.
 
 Ancak, çekişmeli taşınmazın 1/2 payı miras bırakan İbrahim ....... iken satış yoluyla davalı ...'ya intikal etmiş olup bu pay üzerinden tapu iptali ve tescile karar verilmesi gerekirken taşınmazın tümü bakımından hüküm kurulmuş olmasına rağmen temyiz edenin sıfatına göre bu husus bozma nedeni yapılmamıştır.
 
 ## Yargıtay 1. HD 2013/6983 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79633100)
+
 Bilindiği üzere; geçerli şekilde bağış suretiyle temlik edilen taşınmazlar yönünden 1.4.1974 tarih ve 1/2 Sayılı İçtihadı Birleştirme Kararının uygulama yeri yoktur. Ancak bu taşınmazda miras bırakan A..’nun eşi aya satış suretiyle temlik ettiği 1800/31200 pay temlikinin mal kaçırma amaçlı ve muvazaalı olduğu, sonraki kayıt malikinin de durumu bilen ve bilmesi gereken konumda olup Türk Medeni Kanununun 1023. maddelerinin de koruyuculuğundan yararlanamayacakları anlaşıldığına göre, 257 parsel sayılı taşınmazda miras bırakan tarafından satış suretiyle temlik edilen 1800/31200 pay yönünden bilirkişi incelemesi sonucunda saptanacak davacının miras payı oranında iptal ve tescil kararı verilmesi gerekirken, tamamının kabul kapsamına alınmış olması doğru değildir.
 
 ## Yargıtay 1. HD 2013/3915 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79709800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkin olup, Mahkemece,davanın kabulüne karar verilmiştir.
 
@@ -196,9 +244,13 @@ Dosya içeriğin ve toplanan deliller ile miras bırakan A. A..'ın, çekişme k
 
 ## Yargıtay 1. HD 2013/1351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/245959200)
+
 Davanın reddine ilişkin olarak verilen karar Dairece; “mirasbırakan tarafından davalı ...'e,ondan da diğer davalı ...'e yapılan temliklerin mirasçılardan mal kaçırma amaçlı ve muvazaalı olmadığı, davalı ...'in aynı zamanda iyiniyetli olduğu saptanmak suretiyle davanın reddine karar verilmiş olmasında bir isabetsizlik olmadığı ancak mahkemece 26.02.2008 tarihli celsede birleşen dosya davacıları ... ile... tarafından açılan dava dosyasının taraflarca takip edilmemesi sebebi ile HUMK'un 409/1. maddesi gereğince işlemden kaldırıldığı, bir sonraki celse olan 27.05.2008 tarihli oturuma kadar da HUMK'un 409/5. maddesi gereğince 3 aylık sürenin dolduğu gözetilerek birleşen davacılar bakımından davanın açılmamış sayılmasına karar verilmesi” gereğine değinilerek bozulmuş, mahkemece bozmaya uyularak yapılan yargılama sonunda birleşen davacılar bakımından HMK'nun 150/2 maddesi (HUMK'Nun 409/5. maddesi) uyarınca davanın açılmamış sayılmasına, diğer davacılar bakımından davanın reddine ilişkin karar kesinleştiğinden karar ittihazına yer olmadığına karar verilmiştir.
 
 ## Yargıtay 3. HD 2012/25190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482675400)
 
 Tescil hukuki sebebe bağlı bir işlemdir. Diğer deyişle hukuki sebepten yoksun bir tescil yolsuz tescildir ve mülkiyetin intikalini sağlamaz (Saymen-Elbir, Türk Eşya Hukuku, İst.1954,sh.194; Oğuzman-Seliçi, Eşya Hukuku, İst.1982, sh.369; Gürsoy-Eren-Cansel, Türk Eşya Hukuku, Ank.1978, sh.261, 326, 381, 549). Tapuda malik gözüken davalı aslında gerçek malik olmayıp, tescil hukuki sebepten yoksun bulunduğundan gerçek malik davacıdır. Tapuda malik olarak davalının gözükmesi onun hukuki açıdan mülkiyet hakkını kazandığını göstermez. Taşınmazı teslim almış olan sadece ödediği bedeli kendisine iade edilinceye kadar hapis hakkına sahiptir.
 Teslim keyfiyeti mülkiyetin naklinde gözönünde tutulacak bir husus değildir.Taşınmazın mücerret teslimi ifa olarak kabul edilemez, ifa kabul edilirse o zaman eldeki ifa davasının anlamını izah mümkün olmaz.Tapu Sicilinin aleniyeti ilkesi karşısında taşınmazı teslim alırken o tarihte malikin kim olduğunu Tapu Dairesinde incelemeyen ve şekil, ehliyet bakımından yasanın aradığı koşulları ihtiva etmeyen hukuki işlem mutlak olarak geçersiz olup; bunu incelemeyen kimsenin Medeni Kanun'un 3.maddesi karşısında iyiniyetli olduğu da kabul edilemez.Tescile sebep teşkil eden akit muteber olmadığı durumlarda mülkiyetin intikal etmeyeceği ve tapunun ipteline ilişkin yargı kararlarının beyani (izhari) bir karar olduğu, inşai nitelikte olmadığı, tashih davasının bir tesbit davası bulunduğu hususu doktrinde de kabul edilmektedir (Gürsoy-Eren-Cansel, age, sh.333, 381, 1050). Bu bakımdan davalının tapusunun iptaline ilişkin karar kesinleştiği tarihe kadar davalıdan herhangi bir talep de bulunulmayacağı görüşüne de iştirak mümkün değildir.
@@ -206,10 +258,14 @@ Olayda gerçek bir bedel mukabilinde satış sözkonusu olmadığından, satış
 
 ## Yargıtay 3. HD 2012/11562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550101200)
+
 Öte yandan tescil hukuki sebebe bağlı bir işlemdir. Diğer bir deyişle hukuki sebepten yoksun olan veya murisin mirasçılardan mal kaçırmak kastıyla muvazaalı olarak yaptığı devir ve tesciller geçersiz olup, mülkiyetin intikalini sağlamazlar. Muvazaalı bir işlemle tapuda malik olan kişinin iktisabı iyiniyetli sayılmaz. Muvazaa sonucunda tapuda malik olarak davalının gözükmesi onun hukuki açıdan gerçek malik olduğunu göstermez. Bu tür devir ve temliklerde gerçek malik murisin ölüm tarihinden itibaren onun mirasçılarıdır. Bu nedenle kendisinden mal kaçırılan mirasçı, murisin ölüm tarihinden dava tarihine kadar ecrimisil isteyebilir. (HGK 31.12.2008 gün ve 2008/3-726 E.-734 K.sayılı ilam) O halde, mahkemece tapu iptal ve tescile ilişkin ... 2.
 Asliye Hukuk Mahkemesinin 2009/302 Esas sayılı dava dosyası sonucu beklenip, hüküm kesinleştikten sonra yukarıda açıklanan hususlar dikkate alınarak toplanacak delillere göre bir karar verilmelidir.Eksik inceleme ve yazılı gerekçe ile davanın reddi doğru olmayıp, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/5914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79156800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -221,6 +277,8 @@ Ancak, dava konusu her üç parselin öncesinde miras bırakanın eşi olan B.'e
 
 ## Yargıtay 1. HD 2012/646 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78864800)
+
 Dava, tapu iptal ve tescil isteğine ilişkindir.
 
 …
@@ -228,6 +286,8 @@ Dava, tapu iptal ve tescil isteğine ilişkindir.
 Hal böyle olunca; yukarıdaki ilkeler gözetilmek suretiyle araştırma ve inceleme yapılarak davalıların TMK'nun 1023. maddesinin koruyuculuğunda bulunmadıklarının saptanması durumunda öncelikle muris muvazaası, kanıtlanamaması halinde ise gabin iddiası açısından değerlendirme yapılması hasıl olacak sonuca göre bir karar verilmesi gerekirken yazılı olduğu üzere noksan soruşturma ili neticeye gidilmiş olması doğru değildir. Davacıların bu yöne ilişkin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 21.12.2011 tarihinde yürürlüğe giren Avukatlık Ücret Tarifesinin 14. maddesi gereğince gelen temyiz eden vekili için 900.00.-TL. duruşma avukatlık parasının temyiz edilenden alınmasına, 31.1.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2011/5703 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79207800)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
 
@@ -238,6 +298,8 @@ Tüm bu olgular ve dosyada mevcut deliller birlikte değerlendirildiğinde, mira
 Davacıların temyizine gelince; miras bırakanın, 27.12.1972 tarihli resmi akitle çekişme konusu 70 ada 2 (eski 417) parsel sayılı taşınmazdaki 1/2 payı ile birlikte 196/1280 miras payını satış suretiyle Fatma Bilir'e temlik ettiği, F... B...'in de davalılara devrettiği; halen davalıların paylı mülkiyet üzere olan taşınmazın kayıt maliki oldukları gözetilerek, davalılar adına kayıtlı paylardan davacıların miras payları oranında iptal ve tescile karar verilmesi gerekirken, sanki halen F... B... adına kayıtlıymış gibi karar verilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2011/5625 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17199200)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, olmadığı takdirde tenkis isteğine ilişkindir.
 

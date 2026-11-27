@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 11. HD 2021/688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660803200)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına göre, davalı tarafından yapılan ödeminin TBK'nın 100. maddesi uyarınca faiz ve diğer masraflardan mahsubu gerektiği, davalının 1.525,00 TL aidat borcu ve 1.637,98 TL işlemiş faiz borcu bulunduğu, 29.12.2014 tarihinde yapılan ödemenin işlemiş faize mahsubu sonrası davalının 1.525,00 TL ana para ve 260,00 TL işlemiş faiz borcu bulunduğu gerekçesiyle davanın kısmen kabulü ile davalının Selçuk İcra Dairesinin 2014/1752 E sayılı takip dosyasına yapmış olduğu itirazın kısmen iptali ile 1.785,00 TL üzerinden takibin devamına, fazlaya ilişkin istemin reddine, takip tarihinden itibaren asıl alacak olan 1.525,00 TL üzerinden yasal faiz yürütülmesine, kabul edilen miktar üzerinden icra inkar tazminatı tahsiline karar verilmiştir.
 
 …
@@ -40,6 +42,8 @@ Davacı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 
 
 ## İstanbul BAM 45. HD 2021/682 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/672216800)
+
 Dava, İİK'nun 154 vd maddelerinde düzenlenmiş olan, iflas yoluyla takip sonucu, borçlunun icra takibine itirazı nedeniyle açılan itirazın kaldırılması ve iflas davasıdır.
 
 …
@@ -55,6 +59,8 @@ Mahkeme, icra dosyasını celbeder ve basit yargılama usulüne göre duruşma y
 H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere,1-Davalı vekilinin istinaf başvurusunun KABULÜNE,2-İstanbul Anadolu 2. Asliye Ticaret Mahkemesinin 2018/420 E. 2020/879 K. sayılı 23/12/2020 tarihli kararının 6100 sayılı HMK'nun 353/1.b.2 maddesi uyarınca KALDIRILMASINA ve YENİDEN HÜKÜM TESİSİNE …
 
 ## İzmir BAM 17. HD 2021/630 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671784800)
 
 Davalı/borçlu taraf, gerek icra takibine itirazında ve gerekse davaya cevabında faturaların tebliğ edilmediğini, davacı yanın edimini ayıplı ifa ettiğini ileri sürerek borçlu bulunmadığını savunmuştur.
 
@@ -74,6 +80,8 @@ Alınan bu rapora taraf vekillerinin itirazı bulunmamaktadır. Bu durumda, e-po
 
 ## İstanbul BAM 13. HD 2021/357 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645172800)
+
 İcra Dairesinin ... E. Sayılı dosyasına vaki itirazın iptali ile takibin devamına ve likit bir alacağa karşı yapılan haksız borca itiraz sebebiyle davalı aleyhine takibe konu alacağın % 20' sinden aşağı olmamak üzere icra inkar tazminatına karar verilmesi gerektiğini, ana dava yönünden her nevi hukuki mesnetten yoksun işbu davanın reddi ile yargılama giderleri ve ücret-i vekaletin davacı karşı davalıya yükletilmesini, karşı davaları yönünden davanın kabulü ile Bursa ... İcra Dairesinin ... E. Sayılı dosyasına vaki itirazın iptali suretiyle takibin devamını, likit bir alacağa karşı yapılan haksız itiraz sebebiyle davalının müvekkil şirkete takibe konu alacağın % 20'sinden aşağı olmamak üzere icra inkar tazminatı ödenmesine karar verilmesini, karşı dava yönünden de yargılama giderleri ile ücret-i vekaletin davacı karşı davalıya yükletilmesini talep etmiştir.
 
 …
@@ -81,6 +89,8 @@ Alınan bu rapora taraf vekillerinin itirazı bulunmamaktadır. Bu durumda, e-po
 HÜKÜM: Yukarıda açıklanan nedenlerle; A) Davacı / karşı davalının istinaf başvurusunun HMK'nın 353/1-b1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 12. HD 2021/234 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636409200)
 
 …
 
@@ -91,6 +101,8 @@ Davalıya, dava dilekçesi 16.2.2016 tarihinde tebliğ edilmiş ,davalı vekili 
 HÜKÜM :Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusunun KABULÜNE, İstanbul 4. Asliye Ticaret Mahkemesi'nin 2016/92 Esas- 2018/657 Karar sayılı 21/05/2018 tarihli kararının, HMK.'nun 353(1)a-6 gereği KALDIRILMASINA; "Davanın yeniden görülmek üzere dosyanın kararı veren mahkemeye GÖNDERİLMESİNE" İstinaf yoluna başvuran davalı tarafça yatırılan toplam 282 …
 
 ## İstanbul BAM 13. HD 2021/226 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642166700)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: İlk Derece Mahkemesi 26/12/2019 tarih ve 2019/1346 D.İş Esas 2019/1367 D.İş Karar sayılı ek kararında; "İİK 265 maddesi uyarınca 26/12/2019 tarihinde duruşmalı olarak itirazın incelenmesine karar verilerek taraflara usulünce tebligat yapılmıştır. İtiyati hacze itiraz eden vekili duruşmaya katılmış olup beyanı alınmış ve alacaklı vekili duruşmaya katılmamıştır.
 
@@ -107,10 +119,14 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-İhtiyati hacze itiraz edenlerin (m
 
 ## İstanbul BAM 37. HD 2021/214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/626682500)
+
 K A R A R Dava, ilamsız takipte yetki itirazının kaldırılması talebine ilişkindir. Gaziosmanpaşa 2. İcra Hukuk Mahkemesince, "... davacı tarafça davalı borçlunun itirazının iptali talebi ile mahkememize dava açılmış ise de, 2004 sayılı İİK 'nun 68. Maddesi gereğince elinde kanunda sayılan belgesi bulunan alacaklının icra mahkemesinde itirazın kaldırılmasını talep edebileceğini, itirazın iptali davalarının genel yetkili mahkemeler tarafından bakılması gerektiği, bu itibarla mahkememizin görevsiz olduğu anlaşılmakla görevli mahkemenin Gaziosmanpaşa Nöbetçi Asliye Hukuk Mahkemesi olduğu..." gerekçesiyle görevsizlik kararı verilmiştir. Gaziosmanpaşa 5. Asliye Hukuk Mahkemesince, "... Somut olayda, uyuşmazlık taraflar arasında cari hesap alacağın tahsili için yaptığı icra takibine vaki itirazın iptali isteminden kaynaklanmaktadır. Tarafların tacir olduğu, dava konusunun tarafların ticari işletmesiyle ilgili hususlardan doğan bir dava niteliğinde olduğu anlaşılmakla, mahkememizin Ticaret Mahkemesi sıfatı bulunmadığından, bu davaya bakmaya İstanbul Nöbetçi Asliye Ticaret Mahkemesinin görevli olduğu ..." gerekçesiyle yetkisizlik kararı verilmiştir. İstanbul 7.
 Asliye Ticaret Mahkemesince, "... Davalı borçlunun icra dosyasına sunduğu itiraz dilekçesinin incelenmesi sonucunda davalı borçlunun sadece icra dairesinin yetkisine itiraz ettiği, borca itiraz etmediği anlaşılmaktadır. Davacı vekili de sadece yetki itirazının iptali davası açmıştır. 2004 sayılı İcra ve İflas Kanunu m. 50'ye göre icra dairesinin yetkisine itiraz davalarına bakmakla görevli mahkeme icra hukuk mahkemesi olup mahkememiz icra dairesinin yetkisine itiraz davalarında görevsiz olduğu..." gerekçesiyle yetkisizlik kararı verilmiştir. İİK'nın 4. maddesi gereğince, takip hangi icra dairesinden başlamış ise bu takiple ilgili itiraz ve şikayetler, takibin yapıldığı yer icra müdürlüğünün bağlı olduğu icra mahkemesinde çözümlenir. Somut olayda, davacı alacaklı, borçlu davalının ilamsız takibe konu Gaziosmanpaşa ... İcra Müdürlüğü'nün ... Esas sayılı dosyasında yapmış olduğu yetki itirazının kaldırılmasını talep etmiş olup, davalının borca itirazının bulunmadığı anlaşıldığından takip hukukuna ilişkin uyuşmazlığın İcra Mahkemesince çözümlenmesi gerekir.
 
 ## İstanbul BAM 12. HD 2021/149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628572300)
 
 İLK DERECE MAHKEMESİ KARARI: Mahkemece,takip talebi ekinde yer alan faturalarda teslim alan imzası bulunduğu, her ne kadar imzanın davalıya ait olup olmadığı yönünde araştırma yapılmamış ise de, davalı tarafından yapılan kısmi ödemelerden borcun davalı tarafından kabul edildiğinin anlaşıldığı, yapılan bilirkişi incelemesi ile takip talebi ekinde yer alan faturaların davacı taraf defterlerinde kayıtlı olduğu, bilirkişi raporunda iş bu davaya konu olmayan 10.000- TL tutarlı çek iadesinin de hesaba katıldığı, takip konusu faturaların toplamı ve davalı tarafından icra dosyasına sunulan ödeme dekontları dikkate alındığında kalan borç miktarının 1.020,91 TL olacağı,davalının icra takibi öncesinde temerrüde düşürüldüğüne dair herhangi bir delilin dosyaya sunulmadığı gerekçesiyle, davanın kısmen kabulü ile Bakırköy ...
 
@@ -123,6 +139,8 @@ Davacının cari hesabına kaydedilen bilahare çıkarılan çek bedelinin alaca
 HÜKÜM: Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun KABULÜNE; Bakırköy 2. Asliye Ticaret Mahkemesi'nin 03/11/2020 Tarih, 2019/981 Esas-2020/716 Karar sayılı hükmünün HMK 353(1)b-2 maddesi gereği KALDIRILMASINA; "Davanın KABULÜNE …
 
 ## İstanbul BAM 44. HD 2021/131 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/630898600)
 
 Dava, fatura alacağından kaynaklanan icra takibine vaki itirazın iptali davasıdır.
 
@@ -140,6 +158,8 @@ Davacı tarafça asıl alacak olarak 80.341,65 TL üzerinden icra takibi başlat
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Davalı vekilinin istinaf isteminin KABULÜ ile, 2- İstanbul Anadolu 7. Asliye Ticaret Mahkemesi'nin 12/09/2017 gün ve 2015/114 Esas, 2017/778 Karar sayılı kararının 6100 Sayılı HMK'nın 353/1-a/6 hükmü uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 44. HD 2021/117 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634289900)
 
 İcra Dairesi'nin ... sayılı takip dosyasında icra takibi başlatıldığı, davalı borçlunun icra dairesinin yetkisine ve borca itiraz ederek, yetkili icra dairesi olarak ise Gaziantep icra dairelerini gösterdiği, çeklerin incelenmesinde, keşidecisinin davalı şirket, lehtarının ... olduğu, hamil olan davacı ile keşideci olan davalı arasında sözleşmeden kaynaklanan bir ilişki bulunmadığı, bu nedenle sözleşmenin ifa yeri icra dairesi yetkisinin geçerli olmadığı, takibe konu çeklerin kambiyo senedi vasfını kaybettiğinden, yetkili icra dairelerinin davalının ikametgahı olan Gaziantep icra daireleri olduğu, davalı borçlunun icra dairesinin yetkisine yönelik itirazının yerinde olduğu anlaşıldığından, davanın usul yönünden reddine karar verilmiştir. Davacı vekili istinaf dilekçesi ile TBK 89/1. maddesi gereğince sözleşmeden doğan rapa borçlarında ifa yerini ödeme zamanında alacaklının ikametgahı olarak gösterildiğini, HMK 10 md.
 Uyarınca sözleşmeden doğan davaların sözleşmenin ifa yeri mahkemesinde açılabileceğini, davacının ikametinin Ümraniye -İstanbul olduğundan Anadolu İcra Daireleri ile mahkemelerinin yetkili olduğundan kararın hatalı olduğu gibi, takibe konu çek kambiyo senedi vasfını yitirmiş olup para alacağına dönüştüğünden, borçlu şirket borcu ikrar edip 12.203,37TL lik kısmını 19/01/2015 tarihinde ödediğinden, borçlunun, çek iptali kararının ilanı ile kayıptan haberdar olduğundan, davalının iyi niyetli olmadığını, yapılan ödemenin TBK 100 md. uyarınca asıl alacak ve ferilerinden düşülmesi gerekirken düşülmediğini kararın kaldırılmasını talep etmiştir. İnceleme 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun (HMK)355. Maddesi hükmü uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır. Davacı tarafça, Anadolu ... İcra Dairesinin ... takip sayılı dosyası ile 08/01/2015 tarihinde ...

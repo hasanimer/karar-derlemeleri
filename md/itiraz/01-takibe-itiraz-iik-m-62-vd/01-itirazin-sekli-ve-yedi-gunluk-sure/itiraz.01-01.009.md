@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 20. HD 2025/2406 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185829300)
+
 Davalı ... vekili, hacizli malların davacı nakliye şoförleri tarafından araçlardan indirilmediğini, tırların yüklü olarak yediemin olarak bırakılan adreste bırakıldığını, davacıların kötü niyetli olarak malları araçlardan indirmemeleri sebebiyle oluşan nakliye ücretinden müvekkilinin sorumlu olmadığını ileri sürerek, ilk derece mahkemesi kararının kaldırılmasını ve davanın reddini istemiştir.
 
 …
@@ -29,6 +31,8 @@ Davalı ... vekili, hacizli malların davacı nakliye şoförleri tarafından ar
 Zira İİK'nun 62/1. maddesinde; “İtiraz etmek isteyen borçlu, itirazını, ödeme emrinin tebliği tarihinden itibaren yedi gün içinde dilekçe ile veya sözlü olarak icra dairesine bildirmeye mecburdur” hükmü ile İİK'nun 66/1. maddesinde; “Müddeti içinde yapılan itiraz takibi durdurur.” hükmü yer almaktadır. Borçlu tarafından süresinde icra dairesine yapılan itirazla birlikte takip, kanun hükmü gereğince kendiliğinden durur ve duran takibe devam edilebilmesi, alacaklı tarafından borçlunun itirazının hükümden düşürülmesine bağlıdır. İtirazın iptali davasında usulüne uygun olarak başlatılmış ve itirazla durmuş bir takibin varlığı dava şartı olup, 6100 sayılı HMK'nın 115. maddesi uyarınca dava şartının varlığı yargılamanın her aşamasında mahkemece re'sen gözetilmelidir (Yargıtay 3. H.D.'nin 20/05/2019 tarih ve 2017/8728 E.- 2019/4727 K.).
 
 ## Adana BAM 9. HD 2025/1664 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169030800)
 
 Davacı vekilinin dava dilekçesinde özetle, takip dayanağının cari hesap ilişkisi ve davalı aleyhine düzenlenen fatura ve faturaya konu mal ve hizmete ilişkin kayıtlar olduğunu, davalı borçlu tarafından borca itiraz edildiğini, davalının itirazının haksız ve mesnetsiz olduğunu, davacının davalı borçludan alacaklı olduğunu ileri sürerek itirazın iptaline karar verilmesini talep etmiştir.
 
@@ -42,6 +46,8 @@ Borçlu, icra dairesinin yetki itirazını ödeme emrine itiraz süresi içinde 
 
 ## İstanbul BAM 9. HD 2025/1325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167420300)
+
 1-6100 sayılı HMK'nın genel yetkiyi düzenleyen 6.maddesinin 1.fıkrasına göre; "Genel yetkili mahkeme, davalı gerçek veya tüzel kişinin davanın açıldığı tarihteki yerleşim yeri mahkemesidir." HMK 7/1 maddesine göre dava, dava dilekçesi ile birden fazla davalıya yöneltilmiş olup, davalılardan birinin ikametgahı mahkemesinde açılabilir. Yine aynı Yasa'nın 16.maddesinde ise, "Haksız fiilden doğan davalarda, haksız fiilin işlendiği veya zararın meydana geldiği yahut gelme ihtimalinin bulunduğu yer ya da zarar görenin yerleşim yeri mahkemesi de yetkilidir." hükmü yer almaktadır. Buna göre haksız fiil halinde HMK'nın 16. maddesi gereğince birden fazla mahkeme yetkili kılınarak davacıya bir seçimlik hak tanınmıştır. 2918 sayılı Karayolları Trafik Kanunu'nun 110. maddesi ile ZMSS Genel Şartlarının C.7.maddesinde, motorlu araç kazalarından dolayı hukuki sorumluluğa ilişkin davaların sigortacının merkez veya şubesinin veya sigorta sözleşmesini yapan acentenin bulunduğu yer mahkemelerinden birinde açılabileceği gibi kazanın vuku bulduğu yer mahkemesinde de açılabileceği düzenlenmiştir.
 Somut olayda kaza yeri Bolu, davalıların adresi Bolu olmakla beraber, davalı sigorta şirketinin dava açıldığı esnadaki adresi Sarıyer/İstanbul olduğundan, davanın açıldığı İstanbul Asliye Ticaret Mahkemesinin dava tarihi itibariyle yetkili olduğu, davacı vekilinin dava açarken HMK'nın 16. maddesindeki seçimlik hakkını kullanarak itirazın iptali davasını yetkili Mahkemede açtığı anlaşıldığından aksi yöndeki istinaf talepleri yerinde görülmemiştir. (HGK'nun 30/4/2013 gün ve 2013/17-2099 esas, 2014/572 karar sayılı ilamı). 2-Haksız fiilden kaynaklı davaların, haksız fiil tarihinden itibaren iki yıllık zaman aşımına tabi olduğu, kaza tarihi 23/07/2019 olup, icra takip tarihinin 28/11/2019 olduğu ve iki yıllık zamanaşımı süresinde takibin başlatıldığı; itirazın iptali davasının ödeme emrine itirazın alacaklıya tebliğinden itibaren bir yıllık hak düşürücü sürede açılması gerektiği, icra dosyası kapsamında ödeme emrine itirazın alacaklıya tebliğine dair bir belge bulunmadığı, davanın 01/09/2020 tarihinde ve süresinde açıldığı anlaşılmış, bu istinaf itirazı yerinde görülmemiştir.
 
@@ -53,6 +59,8 @@ Bu maddeye göre hakim tarafından verilen kesin süre içinde teminat gösteril
 A- Davalılar ... ve ... vekili ile davalı ... Sigorta A.Ş. vekilinin istinaf başvurusunun kısmen KABULÜ ile yukarıda esas ve karar numarası belirtilen İlk Derece Mahkemesi kararının, HMK'nın 353/1-b/2. maddesi gereğince düzeltilerek yeniden esas hakkında karar verilmek üzere KALDIRILMASINA …
 
 ## Ankara BAM 31. HD 2025/741 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167927400)
 
 Davacı vekili; taraflar arasında nevresim takımlarının fason dikimi üzerine aktedilen anlaşmaya göre; dikilecek kumaşın tedariki ve tesliminin davalı şirket tarafından sağlanacağının, müvekkili şirketin ise sadece dikim işini yapacağının kararlaştırıldığını, müvekkilinin davalı tarafın teslim ettiği nevresim kumaşlarını belirtilen şartlara uygun olarak dikim işini yerine getirdiğini, varılan mutabakata uygun olarak ve zamanında üretilen mallar ve bu mallara ilişkin faturaların, davalı şirkete sevk irsaliyeleri ile birlikte teslim edildiğini, 05/11/2014 tarihi itibariyle müvekkilinin davaya ve icra takibine konu 316.520,69TL davalı şirketten alacaklı hale geldiğini, Ankara 17. İcra Müdürlüğünün 2019/811 E.
 
@@ -66,6 +74,8 @@ Ankara 4 Genel İcra Dairesinin 2023/45045 ( eski 17. İcra Müdürlüğünün 2
 
 ## Ankara BAM 22. HD 2025/715 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152318700)
+
 Davalı vekili, davacı yanca yasal süresi içerisinde dava açılmadığını, müvekkili tarafından ödeme yapılarak icra dosyasının kapatıldığını bildirerek davanın reddini istemiştir.
 
 …
@@ -77,6 +87,8 @@ Mahkemece, toplanan delillere ve tüm dosya kapsamına göre, ödeme iddiasını
 Hem itirazın iptali davası, hem de itirazın kaldırılmasında kanun koyucu hak düşürücü süreler öngörmüş olup, bu süre itirazın kaldırılması için altı ay (m.68, 68-a), itirazın iptali davası için bir yıldır (m. 67). Her ikisinde de süre ödeme emrine itirazın alacaklıya veya vekiline Kanun’un 62/2. maddesi çerçevesinde tebliğinden itibaren başlar ve tebliğ yukarıda açıklandığı üzere Tebligat Kanunu hükümleri çerçevesinde sağlanır. Yerleşik uygulamada da bu sebeple ödeme emrine itiraz Tebligat Kanunu’nun düzenlediği şekilde alacaklı veya vekiline tebliğ edilmemişse, sair suretlerle itirazdan haberdar olunduğu ileri sürülse dahi hak düşürücü sürenin başlamayacağı kabul edilmektedir (Hukuk Genel Kurulunun 21.10.2015 tarihli, 2013/19-2415 E., 2015/2335 K. sayılı kararı).
 
 ## Adana BAM 9. HD 2025/619 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138424200)
 
 Dava, Genel Kredi Sözleşmesinden kaynaklanan kefillikten ötürü başlatılan takine yönelik itirazın iptali istemine ilişkindir.
 
@@ -92,6 +104,8 @@ Dosya kapsamı, mevcut delil durumu ve ileri sürülen istinaf sebepleri dikkate
 
 ## Tekirdağ BAM 4. HD 2025/62 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113606900)
+
 …
 
 geciktirici koşulun davalı alıcının tasarruf alanında meydana gelen fiil ve eylemler ile engel olunduğu değerlendirilmekle davacı tarafın sözleşme bedelini almaya hak kazanmıştır. ... Takip talebinde işlemiş faiz talep edilmemiş, takipten sonra ise %9 yıllık adi kanuni faiz talep edilmiş ise de 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun'un ("3095 sayılı Kanun") 4/a maddesi uyarınca, sözleşmede daha yüksek akdi veya gecikme faizi kararlaştırılmadığı hallerde, yabancı para borcunun faizinde, devlet bankalarının o yabancı para ile açılmış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranının esas alınacağı düzenleme altına alınmıştır. Bu kapsamda, TBK madde 99 uyarınca, alacaklının seçimlik hakkını fiili ödeme tarihindeki kur üzerinden Türk Lirası olarak ödenmesi yönünde kullandığı hallerde, talep konusu alacak tahsil tarihine kadar yabancı para alacağı olarak değerlendirileceğinden, alacağa 3095 sayılı Kanunun 4/a maddesi gereğince vade tarihinden fiilen ödeme tarihine kadar devlet bankalarının o para birimi ile açılmış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranına göre faiz işletilecektir.
@@ -99,6 +113,8 @@ Davacının takipten sonra talep ettiği yıllık %9 oranındaki yasal faiz tale
 Dava dosyamız kapsamında alacağın belirli olduğu anlaşıldığından davaya konu alacak likit olduğundan davacının icra inkar tazminatı talebinin (...... EURO asıl alacağın takip tarihindeki Türkiye Cumhuriyet Merkez Bankası'nın Efektif Satış Kuru olan 18,5353 üzerinden belirlenen Türk Lirası karşılığının %20'si) kabulüne ...'' gerekçesi ile davanın kabulüne, ..... İcra Dairesi'nin ..... Esas sayılı takipte ödeme emrine vaki davalı itirazının iptaline, asıl alacağa 3095 sayılı Kanun m.4/a kapsamında takip tarihinden itibaren faiz işletilmek üzere takibin devamına, davacı lehine alacağın %20si oranında .....-TL icra inkar tazminatının davalıdan tahsiline karar vermiştir.
 
 ## İstanbul BAM 3. HD 2024/3054 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085432500)
 
 Dava, asıl dosyada menfi tespit, birleşen dosyalarda ise itirazın iptali ve ihtiyati haciz taleplerine ilişkindir.
 
@@ -140,6 +156,8 @@ Bu durumda; Yerel Mahkemece icra takip dosyasında davalı borçlular adına ç�
 
 ## İstanbul BAM 45. HD 2024/1627 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095070300)
+
 İİK'nın 156/son fıkrası uyarınca, iflas ödeme emrine itiraz edilsin edilmesin, ödeme emrinin tebliğ tarihinden itibaren bir senelik hak düşürücü süre içerisinde iflasın istenmesi gerekmektedir. Somut olayda dava 30/11/2022 tarihinde bir yıllık hak düşürücü süre içerisinde açılmıştır. İİK'nın 158/1 ve 166/2 maddesinde belirtilen usule göre ilanların yapılmış olması gerekmektedir. İflas davası 25/03/2023 tarihinde ... Gazetesi'nde, 27/03/2023 tarihinde Türkiye Ticaret Sicili Gazetesi'nde ilan edilmiştir.İİK 160. maddesi uyarınca davacı tarafından iflas avansı yatırılmıştır.İİK'nın 158.maddesinde "Alacaklının iflas takibi kesinleştiğinde l66. maddenin ikinci fıkrasındaki usulle ilan edilir. İflas talebinin ilanından itibaren onbeş gün içinde diğer alacaklılar davaya müdahele veya itiraz ederek iflası gerektiren bir hal bulunmadığını ileri sürerek mahkemeden talebin reddini isteyebilirler. Mahkeme, icra dosyasını celbeder ve basit yargılama usulüne göre duruşma yaparak, gerek iflas talebini gerek itiraz ve defileri umumi hükümler dairesinde tetkik ve intac eder.
 Şu kadar ki, borçlu takibe karşı usulü dairesinde itiraz etmemiş veya itiraz ve defileri varit görülmemişse mahkeme yedi gün içinde faiz ve icra masrafları ile birlikte borcunu ifa veya o miktar meblağın mahkeme veznesine depo edilmesini borçluya veya iflas davasında kendisini temsil etmiş olan vekiline, dava vicahda devam ediyorsa duruşmada, aksi takdirde Tebligat Kanunu hükümleri dairesinde yapılacak tebliğ ile emreder. Borçlu imtina ederse ilk oturumda iflasına karar verilir." düzenlemesi yer almaktadır. Takibe itiraz edildiğinden, mahkemece öncelikle itirazın kaldırılması talebi yönünden genel hükümlere göre alacağın mevcut olup olmadığı, muaccel hale gelip gelmediği hususları incelenerek değerlendirilme yapılması gerekmektedir.
 
@@ -149,6 +167,8 @@ H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere; 1-Davalı vekilinin isti
 
 ## İstanbul BAM 45. HD 2024/805 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037453200)
+
 DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE İstinaf kanun yolu başvurusuna konu edilen karar hakkında inceleme; 6100 sayılı HMK'nın 355.maddesi uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılmış, kamu düzenine aykırılık olup olmadığı ise re'sen gözetilmiş ayrıca HMK'nın 357. maddesindeki "İlk derece mahkemesinde ileri sürülmeyen iddia ve savunma istinafta dinlenemez ve istinafta yeni delillere dayanılamaz" kuralı nazara alınmıştır. Dava, hizmet sözleşmesinden kaynaklanan alacağın tahsili için başlatılan icra takibine vaki itirazın iptali istemine ilişkindir. İstanbul .... İcra Müdürlüğü'nün ... E. sayılı takip dosyası incelendiğinde; davacı tarafından 236.000,00 TL (fatura ve cari hesap) alacağın tahsili istemiyle takip başlatıldığı, ödeme emrinin 30/06/2015 tarihinde tebliğ edildiği, davalı tarafça 03/07/2015 tarihinde borca itiraz edildiği tespit edilmiştir. Davalı vekilinin istinaf sebeplerinden ilki davanın süresinde açılmadığı yönündedir.
 Dava itirazın iptali istemine ilişkin olup, 2004 sayılı İİK'nın 67. maddesinde "Takip talebine itiraz edilen alacaklı, itirazın tebliği tarihinden itibaren bir sene içinde mahkemeye başvurarak, genel hükümler dairesinde alacağının varlığını ispat suretiyle itirazın iptalini dava edebilir." hükmü yer almaktadır. Davalı tarafa ödeme emri 30/06/2015 tarihinde tebliğ edilmiş, davalı tarafça takibe 03/07/2015 tarihinde itiraz edilmiş olup, dava ise 27/12/2018 tarihinde açılmıştır. İcra dosyası kapsamında ödeme emrine itiraz dilekçesi davacı tarafa tebliğ edilmediği için davanın yasal süre içerisinde açıldığı tespit edildiğinden davalı vekilinin, bu yöndeki itirazı yerinde değildir.
 
@@ -157,6 +177,8 @@ Dava itirazın iptali istemine ilişkin olup, 2004 sayılı İİK'nın 67. madde
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davalı vekilinin istinaf başvurusunun KABULÜ ile İstanbul 19. Asliye Ticaret Mahkemesi'nin 2018/945 E. 2020/811 K. Sayılı 14/12/2020 tarihli kararının 6100 sayılı HMK'nın 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## Erzurum BAM 3. HD 2024/780 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025106000)
 
 Davalılar vekili cevap dilekçesinde özetle; davacının, müvekkiller aleyhine Erzurum ... İcra Müdürlüğü’nün 2019/...
 
@@ -174,6 +196,8 @@ Bu nedenle davacının bu davalı borçlu yönünden itirazın iptaline karar ve
 İtirazın iptali davasına konu .... 14.İcra Müdürlüğünün .... E.sayılı icra takip dosyasında; takip alacaklısı davacı banka tarafından başlatılan icra takibinde, 835.323,45 TL asıl alacak, 106.039,34 TL % 39 işlemiş tem.faizi, 5.301,97 TL %5 faiz gider vergisi, 1.418,09 TL masraf olmak üzere toplam 946.812,85 TL nakit alacağın tahsilini ve 8.460,00 TL çek yasal sorumluluk bedelinin deposunu talep ettiği, başlatılan takibe itirazın 7 günlük yasal süre içerisinde yapıldığı, itirazın davacı alacaklı vekiline tebliğ edilmediği, işbu itirazın iptali davasının yasal süresi içerisinde açıldığı dosya içeriğiyle sabittir.
 
 ## Ankara BAM 26. HD 2024/352 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012906500)
 
 Davalı vekili, davaya bakmaya asliye ticaret mahkemelerinin görevli olduğunu, davalının araç kiralama işi yapmakta olduğunu ve adına kayıtlı bir çok aracı kiraya verdiğini, davanın 1 yıllık hak düşürücü sürede açılmadığını, icra takibinin yapılan itiraz üzerine durduğunu, ekte sunulan arabuluculuk tutanağından anlaşılacağı üzere taraflar arasında itirazın iptali davası açılmadan önce gerçekleştirilmesi gereken arabuluculuk görüşmesi yapıldığını ve anlaşma sağlanamadığını, arabuluculuk bitiş tarihine göre davanın 1 yıllık hak düşürücü sürede açılmadığını, davalının maliki olduğu aracı 03/10/2018 tarihinde 14 aylığına uzun süreli araç kiralama sözleşmesi ile teslim ettiğini, sözleşmenin ayrıca Emniyet Müdürlüğünün ilgili birimine bildirildiğini ve davalının işleten sıfatını kaybettiğini, maddi ya da manevi hiçbir zarardan sorumlu tutulamayacağını, benzer nedenlerle açılan davaların reddedildiğini belirterek davanın reddini savunmuştur.
 

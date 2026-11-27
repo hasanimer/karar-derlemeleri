@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/1515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858820700)
+
 Bilindiği üzere; TMK’nın 605/2. maddesi ile “Ölümü tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır” hükmü düzenleme altına alınmıştır. Dolayısıyla mirasın hükmen reddi davası, terekenin borca batık olduğunun tespitine ilişkindir. Bu maddeye dayanan davalar herhangi bir süreye tabi olmadığı gibi mirasçıların iyi niyetli veya kötü niyetli olmalarının da bir önemi bulunmamaktadır. Miras bırakanın ödemeden aczi ölüm tarihine göre belirlenir. Ölüm tarihi itibariyle, miras bırakanın tüm mal varlığı terekenin aktifini, tüm borçları ise terekenin pasifini oluşturur. Terekenin pasifinin aktifinden fazla olması; terekenin ödemeden aczini ve dolayısıyla da terekenin borca batık olduğunu gösterir (TMK m. 605/2).
 
 Ne var ki tereke borca batık olmasına rağmen; tereke işlemlerine karışan, tereke mallarını gizleyen veya kendine mal eden mirasçı, mirası reddedemez. Bu husus TMK’nın 610/2. maddesinde “…Ret süresi sona ermeden mirasçı olarak tereke işlemlerine karışan, terekenin olağan yönetimi niteliğinde olmayan veya miras bırakanın işlerinin yürütülmesi için gerekli olanın dışında işler yapan ya da tereke mallarını gizleyen veya kendisine mal eden mirasçı, mirası reddedemez…” hükmü ile düzenleme altına alınmıştır. Madde metninden de anlaşıldığı üzere; yasa koyucu mirasçılardan birinin tereke işlerine gereğinden fazla karışmasının mirası örtülü kabul anlamına geleceğini ve tıpkı açık kabulde olduğu gibi, ret hakkının bu mirasçı bakımından sona ereceğini düzenlemiştir.
 
 ## Yargıtay HGK 2022/752 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794335000)
 
 Mirasın hükmen ya da zımnen reddi olarak adlandırılan karine TMK’nın 605. maddesinin ikinci fıkrasında düzenlenmiştir. Buna göre ölümü tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılmaktadır.
 
@@ -46,6 +50,8 @@ Somut olayda; Mahkemece, TMK'nın 618. maddesine göre muris terekesini oluştur
 
 ## Yargıtay 3. HD 2025/5153 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195916400)
+
 4721 sayılı Türk Medeni Kanununun 599. maddesine göre mirasçılar, mirasbırakanın ölümü ile mirası bir bütün olarak, kanun gereğince kazanırlar. Kanunda öngörülen ayrık durumlar saklı kalmak üzere mirasçılar, mirasbırakanın aynî haklarını, alacaklarını, diğer malvarlığı haklarını, taşınır ve taşınmazlar üzerindeki zilyetliklerini doğrudan doğruya kazanırlar ve mirasbırakanın borçlarından kişisel olarak sorumlu olurlar. Yasal ve atanmış mirasçılar mirası reddedebilirler. Ölüm tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır (TMK m.605).
 
 TMK'nın 612. maddesinde, en yakın yasal mirasçıların tamamı tarafından reddedilmesi halinde mirasın sulh mahkemesince iflâs hükümlerine göre tasfiye edileceği, tasfiye sonunda arta kalan değerlerin mirası reddetmemişler gibi hak sahiplerine verileceği öngörülmüştür.
@@ -53,6 +59,8 @@ TMK'nın 612. maddesinde, en yakın yasal mirasçıların tamamı tarafından re
 Buna göre en yakın yasal mirasçıların tamamının mirası reddettiği anlaşılıyorsa sulh hukuk hakimi resen tasfiye yoluna gitmelidir (Kendiliğinden resmi tasfiye). Bunun için başvuruya gerek yoktur. Tasfiye, sulh hukuk mahkemesince veya atayacağı bir ya da birkaç tasfiye memuru tarafından yapılır (TBM m.634). Terekeyi mahkemelerde ve dışarıda Tasfiye memurları temsil eder (Tüzüğün 53.maddesi atfıyla TTK m.280).
 
 ## Yargıtay 7. HD 2025/4815 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185135800)
 
 Dava, 4721 sayılı Kanun'un 605/2 hükmü gereğince açılan mirasın hükmen reddi istemine ilişkindir.
 
@@ -63,6 +71,8 @@ Somut olaya gelince; Mahkemece davanın kabulüne karar verilmiş ise de; yapıl
 Yapılan araştırmalar sonucu terekenin aktifinin pasifini karşılayamadığı tespit edilse dahi 4721 sayılı Kanun'un 610/2 hükmüne göre terekeyi sahiplenen mirasçıların mirası reddetme hakkı bulunmadığından davacı mirasçıların mirası kabul anlamına gelen davranışlarda bulunup bulunmadıkları da araştırılmalıdır. Terekenin ve davacının durumu net olarak tespit edildikten sonra sonucuna göre bir karar verilmelidir. 15 45... parsel sayılı taşınmazın 09.06.2015 tarihinde, 12 11... parsel ile 14 97... parsel, 21... numaralı bağımsız bölümlerin ise 14.07.2014 tarihinde davacılar adına intikal sebebiyle elbirliği mülkiyeti olarak tescil ettirildiği anlaşıldığından, bu hisselerin davacılara murisleri ...’ten mi geldiği araştırılmamıştır. Mirasçıların mirası kabul anlamına gelen davranışlarda bulunup bulunmadığına dair yeterli araştırma yapılmaksızın eksik inceleme ile yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2025/4784 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187242600)
 
 Dava, mirasın hükmen reddi istemine ilişkindir.
 
@@ -75,15 +85,21 @@ Mirasbırakanın yasal mirasçısı olan davacılar hakkında, amme alacaklısı
 
 ## Yargıtay 3. HD 2025/1928 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1147011300)
+
 Türk Medenî Kanununun 605/1. maddesinde gerçek ret, 605/2. maddesinde ise hükmen ret düzenlenmiştir. TMK'nın 605/1. maddesi uyarınca miras ancak üç ay içinde reddolunabilir. (TMK m. 606) Ölümü tarihinde miras bırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır. Bu hüküm çerçevesinde, mirasın hükmen reddi bir süreye tabi olmayıp, mirasçılar, alacaklılara karşı açacakları tespit davası ile terekenin borca batık olduğunun tespitini her zaman isteyebilecekleri gibi, mirasçılara karşı açılacak davada defi olarak da her zaman terekenin borca batık olduğu ileri sürülebilecektir.
 
 ## Yargıtay 7. HD 2024/6006 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120271100)
 
 Kanun koyucu murisin alacaklılarına mirasçıların mirası ret hakkından mahrum olduklarının tespiti davası açma imkanı tanımıştır. Ödemeden aciz bir murisin mirasını reddeden mirasçılar, onun alacaklarına karşı ölümünden önceki beş yıl içinde ondan almış oldukları ve mirasın paylaşılmasında geri vermekle yükümlü olacakları değer ölçüsünde sorumlu olurlar (TMK m. 618 f.I). Murisin alacaklılarının korunması belirtilen koşulların gerçekleşmesine bağlıdır. Bunun için; miras açılmış olmalı, ödemeden aciz bir muris bulunmalı, miras süresinde reddedilmelidir. Reddeden mirasçıya kazandırma yapılmış olmalıdır. Mirasın kayıtsız şartsız reddi kararının iptali davalı tüm mirasçılara yöneltilmelidir.
 
 Somut olayda; muris ... ...'ın vefatı tarihinde onun terekesinin borca batık olup olmadığıyla ilgili olarak ölüm tarihi itibariyle bankalar, trafik tescil müdürlüğü, vergi daireleri, belediyeler, tapu müdürlüğü vb. kurum ve kuruluşlardan yeterli araştırmaların yapılmadığı, bu doğrultuda murisin terekesinde yer alan aktif ve pasif unsurların tereddüde neden olmayacak şekilde belirlenmediği ve TMK'nın 618. maddesindeki şartların gerçekleşip gerçekleşmediğinin tartışılmadan karar verilmesi hatalı bulunduğundan Mahkeme kararının bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2024/3042 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1050042100)
 
 Dava, 4721 sayılı TMK'nın 605 inci maddesinin 2 nci fıkrası gereğince açılan mirasın hükmen reddi istemine ilişkindir.
 
@@ -92,6 +108,8 @@ Dava, 4721 sayılı TMK'nın 605 inci maddesinin 2 nci fıkrası gereğince aç�
 Ölüm tarihinde murisin ödemeden aczi açıkça belli veya resmen tespit edilmiş ise miras reddedilmiş sayılır (TMK m. 605/2). Bu maddeye dayanan talepler süreye tabi olmayıp, mirasçıların iyiniyetli ya da kötüniyetli olmalarının bir önemi bulunmamaktadır. Murisin ödemeden aczi ölüm tarihine göre belirlenir. Ölüm tarihi itibariyle, murisin tüm malvarlığı terekenin aktifini, tüm borçları ise terekenin pasifini oluşturur. Terekenin pasifinin aktifinden fazla olması; terekenin ödemeden aczini ve dolayısıyla da terekenin borca batık olduğunu gösterir. Ancak, tereke borca batık olmasına rağmen Türk Medeni Kanunu'nun 610/2 nci maddesinde açıklandığı şekilde tereke işlemlerine karışan, tereke mallarını gizleyen veya kendine maleden mirasçı, mirası reddedemez.
 
 ## Yargıtay 7. HD 2023/4761 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963167800)
 
 Dava, düzenleme şeklindeki satış vaadi sözleşmesine dayalı ilk kademede tapu iptali ve tescil; ikinci kademede tazminat istemine ilişkindir.
 
@@ -103,15 +121,21 @@ Bilindiği üzere, yasal ve atanmış mirasçılar, murisin terekesinden mütese
 
 ## Yargıtay 6. HD 2023/3004 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950707100)
+
 1\. 4721 sayılı TMK nın 605 nci maddesinin 1. fıkrasında “Yasal ve atanmış mirasçılar mirası reddedebilirler.” hükmü ile mirasın kayıtsız, şartsız reddi (hakiki ret/gerçek ret), 2 nci fıkrasında “Ölümü halinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır.” hükmü ile mirasın hükmen reddi düzenlenmiştir.
 
 TMK’nın 610/2. maddesi uyarınca da ret süresi sona ermeden mirasçı olarak tereke işlemlerine karışan, terekenin olağan yönetimi niteliğinde olmayan ve mirasbırakanın işlerinin yürütülmesi için gerekli olanın dışında işler yapan ya da tereke mallarını gizleyen veya kendisine maleden mirasçı, mirası reddedemez. Madde metninden de anlaşıldığı üzere; yasa koyucu mirasçılardan birinin tereke işlerine gereğinden fazla karışmasının mirası örtülü kabul anlamına geleceğini ve tıpkı açık kabulde olduğu gibi, ret hakkının bu mirasçı bakımından sona ereceğini düzenlemiştir.
 
 ## Yargıtay 7. HD 2022/4607 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797661700)
+
 Somut olayda, mahkemece murisin ölüm tarihi itibariyle üzerine kayıtlı gayrımenkul, menkul ve araç olup olmadığı, murisin davalılara ölüm tarihi itibariyle borç miktarının araştırılmadığı görülmektedir. O halde mahkemece yapılması gereken iş, murisin 23.05.2008 tarihi itibariyle tapuda gayrımenkul kaydının, bankalarda mevduat hesabının ve trafik sicilinde araç kaydının bulunup bulunmadığının araştırılması için ilgili tapu, banka ve emniyet müdürlüklerine yazı yazılmalıdır. Terekenin pasifinin belirlenmesi amacıyla da murisin 23.05.2008 tarihi itibariyla borçlarının tespiti sağlanmalıdır. Ayrıca, TMK’nin 610/2. maddesine göre terekeyi sahiplenen mirasçıların mirası reddetme hakkı bulunmadığından davacı mirasçıların mirası kabul anlamına gelen davranışlarda bulunup bulunmadıkları da araştırılmalıdır.
 
 ## Yargıtay 7. HD 2022/995 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737771900)
 
 Dava, mirasın hükmen reddine (terekenin borca batık olduğunun tespitine) ilişkindir.
 
@@ -123,9 +147,13 @@ Somut olayda, dosya içerisinde yer alan Kocaeli Büyükşehir Belediyesi İSU G
 
 ## Yargıtay 4. HD 2021/3000 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684441200)
+
 4721 sayılı Türk Medenî Kanunu’nun 605. maddesinin 1. fıkrasında "gerçek ret", 2. fıkrasında ise "mirasın hükmen reddi" düzenlenmiş ve ölümü tarihinde miras bırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, mirasın reddedilmiş sayılacağı hüküm altına alınmıştır. Mirasın hükmen reddi davası, alacaklılara karşı herhangi bir süreye bağlı olmaksızın, miras paylaşılıncaya kadar her zaman açılabileceği gibi, mirasçılar aleyhine alacaklılar tarafından açılmış davada da her aşamada terekenin borca batık olduğu savunması ileri sürülebilir. 4721 sayılı Kanun’un 605. maddesinin 2. fıkrasında düzenleme altına alınan hükmi ret (terekenin borca batık olduğu def’i) sadece ileri süren mirasçılar yönünden gözetilebilir.
 
 ## Yargıtay 7. HD 2021/2444 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/708541600)
 
 Dava, mirası hükmen reddin tespiti isteğine ilişkindir.
 
@@ -137,12 +165,16 @@ Mirasın hükmen reddine ilişkin olarak açılan davalarda, terekenin açıkça
 
 ## Yargıtay 17. HD 2021/940 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683574200)
+
 Dava 6183 sayılı Yasa’nın 24 ve devamı maddelerine dayalı olarak açılmış tasarrufun iptali istemine ilişkindir.
 
 1-6183 sayılı Yasa’nın 25. maddesi hükmü gereğince bu tür davalarda, davalı olarak borçlu ve borçlu ile hukuki muamelede bulunan kişiler arasında mecburi dava arkadaşlığı vardır. Öte yandan TMK'nun 605. maddesi 1. fıkrasında "Yasal ve atanmış mirasçılar mirası reddedebilirler.” hükmü kayıtsız, şartsız red (hakiki red) düzenlemekte 2. fıkrası ile ise “Ölümü halinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır.” hükmü ile bir karine getirilmektedir. Bir çok yargı kararlarında ve ilmi görüşlerde bu red, hükmi red olarak isimlendirilmiştir. Anılan maddenin 1. fıkrasındaki “hakiki red” halinde süre ile kayıtlı ve mirasçıların tek taraflı irade açıklamasını öngördüğü halde, 2. fıkradaki “hükmi reddin” sonuç doğurması için herhangi bir irade açıklaması ya da dava yolu öngörmemiştir. Öyle ki; reddin kendiliğinden oluştuğu kabul edilip, mirasın açılması ile kendiliğinden mirasçılara intikal edeceği (TMK.m.599) yönündeki kurala bir istisna getirilmiştir.
 Eğer mirasçı olabilecek kişi açık irade beyanıyla, ya da Türk Medeni Kanunu’nun 610. maddesinin ikinci cümlesinde açıklanan davranışlarla mirası kabul etmiş ise, zaten yapılabilecek bir işlem kalmamıştır. Mirası hükmen red etmiş sayılan kişi, tereke alacaklıları aleyhine husumet yönelterek bu durumun tespitini isteyebileceği gibi, bunu def’i yolu ile de ileri sürebilir.
 
 ## Yargıtay 14. HD 2020/8249 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621496800)
 
 Dava, mirasın hükmen reddi istemine ilişkindir.
 
@@ -153,6 +185,8 @@ Somut olaya gelince; mahkemece davanın kabulüne karar verilmiş ise de; yapıl
 Yapılan araştırmalar sonucu terekenin aktifinin pasifini karşılayamadığı tespit edilse dahi 4721 sayılı Türk Medeni Kanununun 610/2. maddesine göre terekeyi sahiplenen mirasçıların mirası reddetme hakkı bulunmadığından davacı mirasçıların mirası kabul anlamına gelen davranışlarda bulunup bulunmadıkları da araştırılmalıdır. Terekenin ve davacının durumu net olarak tespit edildikten sonra sonucuna göre bir karar verilmelidir. Buna göre Ziraat Bankası'na ait cevabi yazının ekinde bulunan hesap hareketlerine göre 29.03.2013 tarihi itibariyle 17.058,94TL hesapta alacak kaydı bulunduğu vefat sonucu hesabın kapatıldığı, 27.03.2013 tarihinde de ATM'den para çekildiği belirtilmiştir. Ancak bu işlemlerin kim tarafından yapıldığı ve akibeti saptanmamıştır.
 
 ## Yargıtay 14. HD 2020/7483 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627261500)
 
 Dava, mirasçının alacaklısı tarafından açılan mirası (alacaklıları zararlandırmak amacıyla kötü niyetle yapılan) reddin iptaline ilişkin olup, Türk Medeni Kanununun 617.
 
@@ -165,6 +199,8 @@ Malvarlığı borcuna yetmeyen mirasçı, alacaklılarına zarar vermek amacıyl
 
 ## Yargıtay 14. HD 2020/1732 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588507100)
+
 Dava, mirasın hükmen reddi isteğine ilişkindir.
 
 …
@@ -172,6 +208,8 @@ Dava, mirasın hükmen reddi isteğine ilişkindir.
 Mirasın hükmen reddi davası, niteliği gereği davalı-alacaklının, murisin terekesinin borca batık olduğunu bilmediği, bilmesinin de mümkün olmadığı, terekenin borca batık olup olmadığına yapılan yargılama sonrasında karar verildiği göz önünde bulundurularak yargılama gideri ve harçtan davalının değil davacıların sorumlu tutulması, davacılar lehine vekalet ücretine hükmedilmemesi gerekirken yazılı şekilde karar verilmesi de doğru görülmemiş ise de bu husus hükmün bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden HUMK’nun 438/7 maddesi gereğince hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 14. HD 2020/460 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593172700)
 
 Dava, terekenin borca batık olduğunun tespiti hukuksal nedenine dayalı olarak 4721 sayılı Türk Medeni Kanununun 605/2 maddesi gereğince açılan mirasın hükmen reddi istemine ilişkindir.
 
@@ -182,6 +220,8 @@ O halde, mirasın hükmen reddi davasında terekenin açıkça borca batık olup
 Öte yandan, mahkemece gerekçesinde belirtilen mirasbırakana ait hesapta bulunan 252.900.000 eski türk lirasının terekenin boyutu dikkate alındığında az bir miktara denk geldiği, bu miktar paranın mirasçılar tarafından çekildiği açık olmamakla birlikte mirasçılar tarafından alındığı kabul edilse dahi açıklanan ilkeler doğrultusunda terekenin benimsendiği söylenemeyeceğinden yukarıda belirtilen araştırmalar yapıldıktan sonra talep hakkında bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2019/5893 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538245700)
 
 Dava, mirasın hükmen reddi isteğine ilişkindir.
 
@@ -196,13 +236,19 @@ Somut olayda, mirasbırakanın prim borcuna ilişkin evrakın mirasbırakanın d
 
 ## Yargıtay 14. HD 2019/5674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538192900)
+
 Somut olayda, mahkemece murisin ölüm tarihi itibariyle üzerine kayıtlı gayrimenkul, menkul ve araç olup olmadığının, davalılara olan borcun ölüm tarihi itibariyle miktarının araştırılmadığı görülmektedir. O halde mahkemece yapılması gereken iş, murisin 30.10.2014 tarihi itibariyle gayrimenkul, banka ve araç kaydının bulunup bulunmadığının araştırılması için ilgili tapu, banka ve emniyet müdürlüklerine yazı yazılması, terekenin pasifinin belirlenmesi amacıyla da murisin davalılara olan borcunun 30.10.2014 tarihi itibariyle tespitinin sağlanmasıdır. Ayrıca, TMK’nin 610/2. maddesine göre terekeyi sahiplenen mirasçının mirası reddetme hakkı bulunmadığından davacı mirasçıların mirası kabul anlamına gelen davranışlarda bulunup bulunmadığı da araştırılmalıdır. Terekenin ve davacının durumu net olarak tespit edildikten sonra sonucuna göre bir karar verilmelidir.
 
 ## Yargıtay 14. HD 2019/5328 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538007100)
+
 Mirasın hükmen reddi davasının niteliği gereği davalı-alacaklıların, murisin terekesinin borca batık olduğunu bilmediği, bilmesinin mümkün olmadığı, yapılan yargılama sonrasında terekenin borca batık olup olmadığına karar verildiği göz önünde bulundurularak yargılama gideri ve harçtan davalıların değil davacıların sorumlu tutulması, davacılar lehine vekalet ücretine hükmedilmemesi gerekir. Mahkemece yargılama giderinin davacılar üzerinde bırakılmasına karar verilmesine rağmen davacılar lehine vekalet ücretine hükmedilmiş olması doğru görülmemiş ise de bu husus kararın bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden HUMK’nın 438/7 maddesi gereğince hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 14. HD 2019/4506 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516009800)
 
 Kabule göre de, mahkemece yapılan araştırma ve incelemeler hüküm kurmaya yeterli değildir. Mirasın hükmen reddine ilişkin olarak açılan davalarda, terekenin açıkça borca batık olup olmadığının araştırılması gerekmektedir. İcra takibi sonunda aciz vesikası düzenlenmesi halinde terekenin borca batık olduğu kabul edilir. Aksi halde terekenin borca batık olup olmadığı, murisin malvarlığı bulunup bulunmadığının usulüne uygun olarak, bankalar, trafik tescil müdürlüğü, vergi daireleri, belediyeler, tapu müdürlüğü v.b. kurum ve kuruluşlardan sorulması, murisin alacak ve borçları zabıta marifetiyle de araştırılarak aktif malvarlığı ile takibe konu borç miktarı gözönünde tutularak aktif ve pasifinin tereddüde neden olmayacak şekilde belirlenmesi gerekirken yapılacak incelemelerde ölüm tarihi esas alınarak murisin borçlarının miktarının belirlenmediği, murise ait taşınmaz, araç ve banka kaydının bulunup bulunmadığı, mirasçıların mirası kabul anlamına gelecek davranışlarda bulunup bulunmadığı araştırılmadan hüküm kurulduğu görülmüştür.
 
