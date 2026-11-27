@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2015/16904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/190934200)
+
 Davacılar vekili dava dilekçesi ile, dava konusu ... Mahallesi 570 ada 3 ve 556 ada 2 parsel sayılı taşınmazların ...
 
 …
@@ -40,6 +42,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/16567 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/133020800)
+
 Y.. B.. İmar ve Şehircilik Müdürlüğü'nün yazısından, dava konusu 2462 ada 12 parsel sayılı taşınmazın 1/1000 ölçekli imar planı kapsamında kısmen yeşil alan ve imar yolunda kaldığı; fen bilirkişi rapor ve krokisinden, taşınmazın (B) ve (C) harfleri ile gösterilen yol olarak el atılan bölümlerin Y.. B..nın sorumluluğunda olduğu, (D) harfi ile gösterilen bölüme fiilen el atılmadığı ancak bu kısmın da imar planında davalı ilçe belediyesinin sorumluluk alanında ara arter niteliğinde yol alanında kaldığı, buna göre yol olarak fiilen el atılan bölümlerin fiilen el atılmayan (D) bölümü ile proje bütünlüğü içinde bulunduğu anlaşıldığından, dava konusu taşınmazın krokide (D) harfiyle gösterilen bölümünün bedeline de hükmedilmesi gerektiği düşünülmeden, bu kısımla ilgili hukuki el atma olduğu kabul edilerek davaya bakma görevinin idare mahkemesine ait bulunduğu gerekçesiyle ret kararı verilmesi, …
 
 …
@@ -48,6 +52,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/15959 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/133220500)
+
 1-10.06.2013 tarihli fen bilirkişi rapor ve krokisinde dava konusu taşınmazın (A) 12,10 m², (B) 42,56 m², (C) 40,41 m² ve (D) 31,92 m² ve (E) ile gösterilen 68,44 m² lik bölümlerine asfalt yol yapılmak suretiyle el atıldığı, (B), (C) ve (D) ile gösterilen kısımların imar planında yol alanında kaldığı, (A) ile gösterilen kısmının park, (E) ile gösterilen kısmının ise konut alanında kaldığı belirtilmiş olup, davacı vekili 10.06.2013 tarihli fen bilirkişi raporunda (E) harfi ile gösterilen kısmın ticaret imarlı olması ve imar planına göre yol ve yeşil alanda kalmaması nedeniyle el atma olsa dahi tazminatı ödenerek belediye adına tescilinin mümkün olmadığını açıklamış, ıslah dilekçesinde de fiilen el atılan kısımların bedeline hükmedilecekse 06.02.2014 tarihli bilirkişi raporunda (A), (B), (C) ve (D) harfi ile gösterilen toplam 150,16 m² yönünden davasını ıslah ettiğini belirterek, temyiz dilekçesi ile de 10.06.2013 tarihli fen bilirkişi rapor ve krokisinde (E) harfi ile gösterilen 68,44 m² lik kısmın dava konusu edilmediğini açıklamış olup, davacının bu kısım ile ilgili bir talebi bulunmadığı dikkate alınmadan bu kısım yönünden bedele hükmedilmesi ve tapusunun iptal edilmiş olması, …
 
 …
@@ -55,6 +61,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2015/15902 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/127640100)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -68,6 +76,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2015/12634 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146507200)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiş; hüküm, davalı idare vekilince temyiz edilmiştir.
@@ -79,6 +89,8 @@ Mahallinde yapılan delil tespitine ilişkin keşifte, mahkemece taşınmazın e
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2015/11899 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/401227200)
 
 Dava, kamulaştırmasız el atılan taşınmaza el atmanın önlenmesi ve kal, bu olmazsa telefon hattının zarar vermeyecek hale getirilmesi istemlerine ilişkindir.
 
@@ -94,6 +106,8 @@ Davacının temyiz itirazları yerinde olduğundan hükmün açıklanan nedenler
 
 ## Yargıtay 18. HD 2015/10917 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405811200)
+
 Davacı vekili dilekçesinde, dava konusu taşınmaz üzerinden kamulaştırma işlemi yapılmadan elektrik hattı ve yakınında yüksek gerilim hattı geçirildiği nedeniyle tazminat talep etmiş, mahkemece davanın kısmen kabulüne karar verilmiştir.
 
 Dosya içindeki bilgi ve belgelerin incelenmesinde, 02.09.2013 tarihli fen bilirkişi raporunda Hat-2 ve Hat-3 olarak gösterilen iletim hatları nedeniyle daha önce Türkiye Elektrik Kurumu ( TEK) tarafından dava konusu taşınmazın 2.716 m2 sinin, ... 3. Asliye Hukuk Mahkemes'nin 1988/86-162 Sayılı dosyası ile irtifak kamulaştırmasının yapıldığı, kamulaştırmanın kesinleştiği ve tapuya şerh verildiği anlaşılmıştır. Bu nedenle mahkemece söz konusu hatlar nedeniyle davanın TEİAŞ yönünden reddine karar vermek gerekirken, bu hatlar yönünden hüküm kurulmamış olması, …
@@ -106,6 +120,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/10671 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404526400)
+
 Fen bilirkişi rapor ve krokisinde (B), (C) ve (D) harfi ile gösterilen kısımlara fiilen el atılmadığı bu kısımların mezarlık koruma bandında olması nedeniyle ... sorumluluğunda olduğu (E) ile gösterilen kısmının ise1/5000 ölçekli imar planında tarım alanında kaldığı belirtilmiş ise de; aynı taşınmazın paydaşı tarafından açılan ve Dairemizce aynı gün temyiz incelemesi yapılan Dairenin 2015/6216E-10672K sayılı (... 7. Asliye Hukuk Mahkemesinin 2012/450Esas-2014/29Karar) dosyasında yer alan bilirkişi raporunda dava konusu taşınmazda 06.12.2013 tarihinde yapılan keşifte taşınmazın tamamını içine alacak şekilde mevcut kent mezarlığını çevreleyecek şekilde taş duvar örüldüğünün tespit edildiği, buna göre dava konusu taşınmaza davalı ... tarafından da fiilen el atılmış hale geldiği anlaşılmış olup usul ekonomisi gözetilerek ... sorumluluğunda bulunan ve mezarlık olarak fiilen el atılmış hale gelen yerlere ilişkin hesaplanacak olan tazminatın davalı ... Büyükşehir Belediye Başkanlığından tahsiline karar verilmesi gerekirken Bursa ... aleyhine açılan davanın idari yargı görev alanına girmesi nedeniyle reddine karar verilmiş olması, …
 
 …
@@ -113,6 +129,8 @@ Fen bilirkişi rapor ve krokisinde (B), (C) ve (D) harfi ile gösterilen kısım
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2015/9141 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/150628900)
 
 Mahkemece davanın kabulüne karar verilmiş; hüküm taraf vekillerince temyiz edilmiştir.
 
@@ -125,6 +143,8 @@ Mahkememizin 2011/192 Esas sayılı dosyası, dosya arasına alınıp; bu dava d
 Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/4997 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139107100)
 
 Davacı,kayden maliki olduğu 139 ve 143 parsel sayılı taşınmazlar ile 1081/1120 oranında paydaşı olduğu 138 parsel sayılı taşınmazı davalı idarenin askeri eğitim alanı olarak işgal ettiğini ileri sürerek 01.08.2006-31.08.2011 tarihleri arasındaki dönem için toplam 750.140,00 TL ecrimisile karar verilmesini istemiştir.
 
@@ -142,6 +162,8 @@ Davalı vekilinin temyiz itirazı açıklanan nedenlerle yerindedir. Kabulü ile
 
 ## Yargıtay 18. HD 2015/2872 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/190118500)
+
 4-...... Müdürlüğü'nün 14.098.2012 günlü yazısında dava konusu taşınmazın 1/1000 ölçekli imar planı kapsamında park alanında ve yolda kaldığı, fen bilirkişi rapor ve krokisinde taşınmazın (A1) 11,71m²lik kısmına asfalt yol, (A2) 34,27 m² lik kısmına ise kaldırım yapılmak suretiyle el atıldığı, (Y) harfi ile gösterilen 56,17 m² lik kısmının ana arter niteliğindeki yol alanında kaldığı açıklanmış olup proje bütünlüğü kapsamında bu kısmında bedeline hükmedimesi gerektiğinin düşünülmemesi, …
 
 …
@@ -149,6 +171,8 @@ Davalı vekilinin temyiz itirazı açıklanan nedenlerle yerindedir. Kabulü ile
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2014/27201 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96866200)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -166,6 +190,8 @@ Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan n
 
 ## Yargıtay 5. HD 2014/19132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96568700)
+
 Dava, kamulaştırmasız el atılan taşınmazlara yönelik el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 Mahkemece, davanın reddine karar verilmiş; hüküm, davacılar vekilince temyiz edilmiştir.
@@ -182,6 +208,8 @@ Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan
 
 ## Yargıtay 8. HD 2014/15971 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98750700)
+
 Davacı Hazine vekili, 13 Kasım 2012 havale tarihli dava dilekçesinde özetle; B.n Köyü, 268 parsel sayılı taşınmazın köy merası olarak sınırlandırıldığını, Gaziantep İl Gıda Tarım ve Hayvancılık Müdürlüğü tarafından yapılan bildirim üzerine dilekçede yazılı kişilerin köy merasına tecavüz ettiklerinin tespit edildiğini ileri sürerek davalıların meraya vaki müdahalelerinin önlenmesine, bu yerdeki yapılarının kal'ine ve meraya verdikleri zararın keşif ve bilirkişi raporuyla tespit edilerek bu zararın davalılardan tahsiline karar verilmesini talep ve dava etmiştir.
 
 Mahkemece, 11.07.2013 günlü ilk oturumda "...davanın meni müdahale yönünden kabulüne, taşınmazın gölet altında kalacağı dikkate alınarak eski hale iade ve masrafın ve kal talebinin reddine, davalı ilk oturumda davayı kabul ettiğinden harç ve ücretin yarısına..." hükmolunmasına karar verilmiştir.
@@ -196,6 +224,8 @@ Davalı Hazine vekilinin temyiz itirazları açıklanan nedenlerle yerindedir. K
 
 ## Yargıtay 18. HD 2014/14488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106896500)
+
 Davacı vekili dava dilekçesinde, davacıların paydaş olduğu ..... ilçesi .....Mahallesi 12 pafta 3151 parsel sayılı taşınmaza davalılarca yol ve kaldırım için, asfalt dökülerek kamulaştırmasız el atılması nedeni ile 250.000,00 TL tazminatın davalılardan tahsilini talep etmiş, 23.10.2012 tarihli ıslah dilekçesi ile de talebini 2.020.000,00 TL ye çıkartmış; mahkemece, davalılardan İ.. B.. yönünden davanın kabulüne, Ç.. B.. yönünden husumetten reddine karar verilmiştir.
 
 Davaya konu 3151 parsel sayılı taşınmazın; 1/1000 ölçekli imar planında 10 , 12, 14,50 ve 24,50 metre genişliğinde ilçe belediyesi sorumluluğunda olan yolda kaldığı ve yargılama sırasında yapılan keşif sonucu harita ve kadastro mühendislerince düzenlenen rapor ve ekindeki krokiden bir kısmına fiili olarak el atıldığı anlaşılmaktadır. Dosya içerisindeki bilgi ve belgelerden ve özellikle geri çevirme kararı üzerine dosyadaki cevap yazılarından, fen bilirkişi raporunda el atıldığı belirtilen davaya konu taşınmazın el atılan kısmının davalı Ç.. B..'nın sorumluluk alanında kaldığı hususu dikkate alınmadan, davalı Ç.. B.. aleyhindeki davanın husumet yokluğundan reddine karar verilmesi ve tazminat bedelinden diğer davalı İ.. B..'nın sorumlu tutulması doğru görülmemiştir.
@@ -205,6 +235,8 @@ Davaya konu 3151 parsel sayılı taşınmazın; 1/1000 ölçekli imar planında 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 16. HD 2014/10026 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105998800)
 
 Mahkemece; çekişmeli taşınmazın, devlet karayolu ile deniz arasında kaldığı, 1956 yılında yapılan kadastro sırasında çekişmeli taşınmazın bulunduğu bölümün orijinal paftasında niteliği belirtilmeden tespit dışı bırakıldığı, komşu taşınmazlara uygulanan 1935 tarih (1) numaralı tapu kaydının miktar itibariyle bu taşınmazı kapsamadığı Ş.
 
@@ -217,6 +249,8 @@ Zilyetliğe ilişkin çelişki giderilmeden yazılı şekilde karar verilmesi is
 
 ## Yargıtay 5. HD 2014/9721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96296600)
+
 Dava konusu taşınmaz başında fen bilirkişi marifetiyle keşif yapılıp, tadil edilen imar planı ile çaplı kroki zemine uygulanarak, dava konusu taşınmaza trafo yeri olarak el atılıp atılmadığı, ... Organize Sanayi Bölgesi tüzel kişiliğine ait taşınmazdaki payından karşılanıp karşılanmadığı, kesin olarak tespit edilip, el atılmış ise imar planı tadilatı ile taşınmazın kamu ortak parseli olmaktan çıkarılarak, sanayi parseli haline geldiği de gözetilerek el atılan kısmın bedelinin verilmesi, el atılmamış ise davanın konusuz kalacağından karar verilmesine yer olmadığına karar verilmesi gerekirken, yazılı şekilde davanın kabulüne karar verildiği anlaşıldığından, …
 
 …
@@ -224,6 +258,8 @@ Dava konusu taşınmaz başında fen bilirkişi marifetiyle keşif yapılıp, ta
 Mahkeme kararının açıklanan nedenle davalı idare vekilinin temyiz itirazı doğrultusunda BOZULMASINA …
 
 ## Yargıtay 18. HD 2014/5582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107036900)
 
 Hükme esas alınan 09.12.2012 tarihli fen bilirkişisi raporunda taşınmazın B harfiyle gösterilen 12645,73 m²'lik kısmının boş halde bulunduğunun, elektrik direkleri ve yer yer stabilize yollar yapılmak suretiyle kurban bayramı öncesinde kurbanlık satış alanı olarak düzenlendiğinin, buna karşılık dosya içerisinde bulunan aynı parselin paydaşlarının Bursa 2.Asliye Hukuk Mahkemesi'ne açtığı 2009/515 Esas sayılı dosyasının 08.05.2012 tarihli fen bilirkişisi raporunda ise B harfiyle gösterilen bu kısmın boş arsa halinde olduğunun belirtildiği anlaşıldığına göre, B harfiyle gösterilen kısımdaki el atmanın kalıcı bir el atma olup olmadığı, hangi kamu amacına hizmet ettiği araştırılarak, ancak söz konusu el atmanın kamu amacına hizmet eden ve süreklilik arzeten bir el atma olduğunun tespiti halinde bu kısmın da bedeline hükmedilebileceği, aksi halde bu kısım yönünden talebin dava konusu taşınmazın genel ve düzenleyici bir işlem olan imar planıyla kamu hizmetine özgülenmesinden ve bu planda öngörülen kamulaştırma işlemlerinin zamanında yapılmamasından kaynaklandığı kabul edilerek idari işlem ve eylemden doğan zarara ilişkin davanın 2577 sayılı İdari Yargılama Usulü Kanunu hükümleri uyarınca
 idari yargı yerinde çözümlenmesi gerektiği gerekçesiyl 6100 sayılı Hukuk Muhakemeleri Kanununun 114/1-b ve 115/2. maddeleri uyarınca davanın usulden reddine karar verilmesi gerekirken eksik incelemeyle taşınmazın tamamının bedeline hükmedilmesi, …
@@ -233,6 +269,8 @@ idari yargı yerinde çözümlenmesi gerektiği gerekçesiyl 6100 sayılı Hukuk
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2014/4170 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96466200)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -247,6 +285,8 @@ Bu nedenle, dava konusu taşınmazın ilk kez kamuya özgülendiği imar planın
 Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2014/2608 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106612400)
 
 Buna göre her iki dosyadaki fen bilirkişi raporları arasındaki çelişki giderilerek dava konusu 6551 ada 3 parsel sayılı taşınmaza fiilen el atılıp atılmadığı kesin olarak belirlendikten sonra fiilen el atma varsa sadece el atılan bölüm yönünden kamulaştırmasız el atma bedelinin tespiti ile bu kısmın idare adına tesciline karar verilmesi, fiilen el atılmadığı anlaşılması halinde ise mülkiyet hakkına getirilen kısıtlamanın, dava konusu taşınmazın, genel ve düzenleyici bir işlem olan imar planıyla kamu hizmetine özgülenmesinden ve bu planda öngörülen kamulaştırma işlemlerinin zamanında yapılmamasından kaynaklandığının kabulü ile idari işlem ve eylemden doğan zarara ilişkin davanın 2577 sayılı İdari Yargılama Usulü Kanunu hükümleri uyarınca idari yargı yerinde çözümlenmesi gerekmektedir.
 

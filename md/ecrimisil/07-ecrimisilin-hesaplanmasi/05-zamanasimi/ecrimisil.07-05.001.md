@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2015/1718 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115120500)
+
 Dava, dava konusu taşınmazın davalı idare tarafından kullanılmasından kaynaklanan ecrimisil istemine ilişkindir.
 
 …
@@ -33,11 +35,15 @@ Bu itibarla mahkemece, davacının 03.03.2006 ila 20.06.2007 tarihleri arasında
 
 ## Yargıtay HGK 2008/246 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76685800)
+
 Ecrimisili konu alan 09.12.1931 gün ve 23/44 sayılı Yargıtay İçtihadı Birleştirme Kararı’nda zamanaşımı yönünden sonuca ulaşılmış, ancak ecrimisilin anlamı, niteliği ve koşulları yönünden açıklama yapılmamıştır. 25.05.1938 gün ve 29/10 sayılı Yargıtay İçtihadı Birleştirme Kararı’nda, ecrimisil davalarında Borçlar Kanununun 126. maddesi gereğince beş senelik zamanaşımının uygulanacağı belirtilmiştir.
 
 Yine, 8.3.1950 gün ve 22/4 sayılı Yargıtay İçtihadı Birleştirme Kararı’nda “Başkasının gayrimenkulünü haksız olarak zaptedip kullanmış olan kötü niyetli kimsenin o gayrimenkulü elinde tutmuş olmasından doğan zararları ve elde ettiği veya elde etmeyi ihmal eylediği semereleri tazminle mükellef olup, bir zarara uğramamış olan malik veya zilyede ecrimisil adı veya başka bir ad altında herhangi bir tazminat vermekle mükellef olmadığı” sonucuna varılmıştır.
 
 ## Yargıtay 7. HD 2025/1199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151462400)
 
 Dava, ecimisil istemine ilişkindir.
 
@@ -47,19 +53,27 @@ Bilindiği üzere, gerek öğretide ve gerekse yargısal uygulamalarda ifade edi
 
 ## Yargıtay 7. HD 2024/3721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095903300)
+
 Yargıtay 1.Hukuk Dairesince;
 “...çekişme konusu, tarla vasıflı, 462 ada-3 parsel sayılı, 14.212 metrekare yüzölçümlü taşınmazın 6.11.1950 tarihli tesis kadastrosu işlemi ile ... adına kayıtlı olduğu, İstanbul (kapatılan) 24.Sulh Hukuk Mahkemesinin 2007/203 E-2007/316 K sayılı ilamı ile içerisinde dava konusu taşınmazın da yer aldığı toplam 5 parça taşınmazın maliki olan ...’ya TMK’ nin 427 nci maddesi gereğince en büyük mal memuru İstanbul Defterdarı ...’in kayyum olarak atanmasına karar verildiği, dava konusu taşınmazın tapu kaydında kayyum tayinine ilişkin hususun beyanlar hanesinde şerh verildiği, davalıların kayda dayalı bir haklarının bulunmadığı, taşınmaz üzerinde 40 kadar kaçak bina ve bahçe bulunduğunun, davalılar tarafından işgal edilen kısmın 450 metrekarelik yer olduğunun keşfen sabit olduğu, davalılardan, ... ... temyiz aşamasında tapu senedi ibraz etmek suretiyle dava konusu taşınmazda 18.05.2010 tarihinden itibaren zilyetliğinin başladığını belirtmiş ise de yargılama aşamasında öne sürülmeyen savunmanın (kamu düzeni hariç) kanun yolu aşamasında ileri sürülemeyeceği nazara alındığında davalının bu hususa yönelik temyiz itirazlarının yerinde görülmediğinden reddine, ancak davanın 29.03.2011
 tarihinde açıldığı, davalıların ıslahla zamanaşımı def’inde bulunduğu, bu durumda dava tarihinden geriye doğru 5 yıl için ecrimisil hesaplanabileceği, davacı tarafından dönemsel faiz istendiğine göre 29.3.2006 tarihinden itibaren birer yıllık dönemler ile hesaplanan ecrimisile ilk dönem için 29.03.2007 tarihinden itibaren, diğer ecrimisil dönemleri için dönem sonu itibariyle faiz işletilmek suretiyle karar verilmesi gerekirken yanılgılı değerlendirme ile takvim yılı itibariyle ecrimisil döneminin belirlenmesi ve buna göre faize hükmedilmesinin doğru olmadığı..." gerekçeleriyle karar bozulmuştur.
 
 ## Yargıtay 7. HD 2024/850 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043240800)
+
 2\. 04.06.1958 gün ve 15/6 sayılı Yargıtay İçtihadı Birleştirme Kararı ile ecrimisil, haksız işgal tazminatı olarak nitelendirilmiştir. Bu kararın gerekçesinin V. bendinde “işgal tazminatı davalarının hususi bir şekli olan ecrimisil davalarının beş yılda zamanaşımına uğrayacağı esasını benimsemiş bulunan 25.05.1938 tarih ve 29/10 sayılı İçtihadı Birleştirme Kararının halen geçerli” olduğu açıklanmış ve ecrimisil davalarının 743 sayılı Türk Kanunu Medenisinin 908 inci (4721 sayılı Kanunu'nun 995 inci) maddesine dayanan bir tazminat davası olduğu belirtilmiştir.
 
 ## Yargıtay 5. HD 2023/9158 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987633300)
+
 Dairemizce yapılan inceleme sonucunda; taraflar arasında görülüp kesinleşen davasında ilk dava tarihi olan 02.09.2015 tarihinden geriye doğru son beş yıl için belirlenen ecrimisil bedeli esas alınmak suretiyle davanın kabulüne karar verildiği, ancak ecrimisil davalarının 5 yıllık zamanaşımına tabi olup, bu beş yıllık süre dava tarihinden geriye doğru işlemeye başlayacağı, görülen ek davada davalı idare vekilinin süresi içerisinde zamanaşımı itirazında bulunduğu, davanın 19.06.2019 tarihinde açılmış olduğu, ilk dava ile 02.09.2015 tarihinden geriye doğru beş yıllık ecrimisil isteminde bulunulduğu dikkate alındığında 19.06.2014 tarihinden önceki dönem için ecrimisil talebinin reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulmasının doğru görülmediği gerekçesiyle kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/3007 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916171300)
 
 Yargıtay 1. Hukuk Dairesince: “.... evrak arasına sunulan yönetim planında davalı ...'nin imzasının bulunmadığı da gözetilerek, öncelikle taraflar arasında Kartal .....
 Noterliğinde düzenlenen 06.10.1997 tarihli Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Dükkan Karşılığı İnşaat Sözleşmesinin dağıtım ve paylaştırma plan ve ekleri de dahil olmak üzere tamamının onaylı bir suretinin temin edilerek mahallinde yeniden konusunda uzman bilirkişiler aracılığıyla keşif yapılması, sözleşme gereğince çekişmeye konu F Blok 22 No.lu dükkanın hangi paydaş veya paydaşlara bırakıldığının kuşkuya yer bırakmayacak şekilde belirlenmesi, bu konuda sözleşme ve eklerinde bir açıklık yok ise, kat mülkiyeti ve kat irtifakı kurulu olmayan çekişmeye konu 6541 ada, 1 No.lu parsel üzerinde tüm paydaşları bağlayan harici bir taksim sözleşmesi ve özel bir parselasyon planın olup olmadığı veya fiili kullanma biçiminin oluşup oluşmadığı üzerinde özenle durulması,davalı ... tarafından kullanıldığı iddia edilen ecrimisile konu dükkanın hangi paydaşın kullanımına terk edildiğinin saptanması, harici veya fiili taksim yoksa uyuşmazlığın yukarıda değinildiği gibi, Türk Medeni Kanunu'nun müşterek mülkiyet hükümlerine göre çözümleneceğinin düşünülmesi, ecrimisil hesabı konusunda tarafların gösterdikleri ve gösterecekleri emsallerin de değerlendirilerek yukarıda belirtilen ilkeler
@@ -67,15 +81,21 @@ doğrultusunda bilirkişilerden ecrimisil hesabı konusunda denetime elverişli 
 
 ## Yargıtay 7. HD 2023/2660 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915866800)
+
 Bozma ilamında belirtildiği şekilde, protokol kapsamında olmayan aile hekimliği olarak kullanımın haksız işgal oluşturduğu, davalı tarafın zamanaşımı def’i de dikkate alınarak belirlenen ecrimisile hükmedilmesine yönelik olarak verilen kararda, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile kararda belirtilen gerekçelere göre usul ve kanuna uygun olup taraf vekillerince temyiz dilekçelerinde ileri sürülen nedenler kararın bozulmasını gerektirecek nitelikte görülmemiştir.
 
 ## Yargıtay 7. HD 2023/724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897370400)
 
 09.12.1931 tarih ve 23/44 sayılı Yargıtay İçtihadı Birleştirme Kararında zamanaşımı yönünden sonuca ulaşılmış, 25.05.1938 gün ve 29/10 sayılı Yargıtay İçtihadı Birleştirme Kararında, ecrimisil davalarında Borçlar Kanununun 126 ncı maddesi gereğince beş senelik zamanaşımının uygulanacağı belirtilmiştir.
 
 3\. 08.03.1950 gün ve 22/4 sayılı Yargıtay İçtihadı Birleştirme Kararında "Başkasının gayrimenkulünü haksız olarak zaptedip kullanmış olan kötü niyetli kimsenin o gayrimenkulü elinde tutmuş olmasından doğan zararları ve elde ettiği veya elde etmeyi ihmal eylediği semereleri tazminle mükellef olup, bir zarara uğramamış olan malik veya zilyede ecrimisil adı veya başka bir ad altında herhangi bir tazminat vermekle mükellef olmadığı" sonucuna varılmıştır.
 
 ## Yargıtay 1. HD 2022/944 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761915700)
 
 9.3.2. Kararın (IV/5.) numaralı paragrafında yer verilen ve hükmüne uyulan bozma kararında gösterildiği şekilde işlem yapılarak, tapu iptali ve tescil (dava konusu taşınmazın kamulaştırılmış olması nedeniyle tazminat) ile ecrimisil talebinin birlikte görüldüğü ve davaların yığılması halinin söz konusu olduğu dosyada taşınmazın bedeline ilişkin isteğin kabul edilmesinde bir isabetsizlik bulunmamaktadır. Bu yöne ilişkin temyiz itirazlarının reddine.
 
@@ -84,6 +104,8 @@ Bozma ilamında belirtildiği şekilde, protokol kapsamında olmayan aile hekiml
 9.3.4. Somut olayda; çekişme konusu taşınmazdaki davacıya intikal eden 2/21 payın davalılara temlik edildiği tarihin 30/12/2008, dava tarihinin ise 02/05/2011 olduğu gözetildiğinde, davalıların malik olduğu dönemi aşacak şekilde fazla hesaplanan (dava tarihi ile devir tarihi arasındaki hesaplanacak miktara hükmedilmesi gerekirken) ecrimisil miktarına hükmedilmesi doğru olmadığı gibi, davacının 19/06/2012 havale tarihli ıslah dilekçesi ile harcını yatırmak suretiyle ıslah ettiği 74.542,00 TL ecrimisil bedelinden 34.477.47 TL’nin kabul kapsamına alınmış olması nedeniyle, reddedilen kısım üzerinden davalılar lehine vekalet ücretine hükmedilmemiş olması da doğru olmamıştır.
 
 ## Yargıtay 8. HD 2021/3289 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680982500)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -95,6 +117,8 @@ Sonuç olarak; dosya kapsamına ve davalının zamanaşımı savunmasına göre,
 
 ## Yargıtay 8. HD 2021/2308 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666208700)
+
 Dava; mülkiyet hakkından kaynaklanan müdahalenin men’i ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -104,6 +128,8 @@ Ayrıca hükme esas alınan 23.09.2011 tarihli bilirkişi raporunda talep edilen
 
 ## Yargıtay 7. HD 2021/800 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/695777100)
+
 Dava, intifa hakkına dayalı ecrimisil istemine ilişkindir.
 
 …
@@ -111,6 +137,8 @@ Dava, intifa hakkına dayalı ecrimisil istemine ilişkindir.
 Ecrimisil miktarı, ...2. Asliye Hukuk Mahkemesinde görülen davada belirlenmiş olup, eldeki davada sonraki dönem için ecrimisil talep edildiğinden, yukarıda açıklanan ilkeler ışığında davacının davanın açıldığı tarih itibariyle uyuşmazlığa konu alacağın miktar veya değerini tam ve kesin olarak belirleyemediğinden söz edilemez. Bu nedenle, eldeki dava belirsiz alacak davası olarak nitelendirilemez; davacının 12.01.2017 tarihinde davanın değerini bilirkişi raporu doğrultusunda 70.983,46TL'ye çıkarması, ıslah talebi olarak değerlendirilmelidir. Davalı vekili süresinde 19.01.2017 tarihinde zamanaşımı def’inde bulunmuştur. Mahkemece zamanaşımı def’i değerlendirilerek bir karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmemiş, bu nedenle kararın bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2019/10694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648031500)
 
 Dava, ecrimisil alacağının tahsili amacıyla başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
@@ -121,6 +149,8 @@ TBK’nin 153. maddesinin 1. fıkrasının 6. bendi uyarınca alacağın Türk m
 
 ## Yargıtay 8. HD 2019/4426 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522925700)
+
 Dava, ecrimisil ve tazminat istemine ilişkindir.
 
 …
@@ -129,9 +159,13 @@ Dava, ecrimisil ve tazminat istemine ilişkindir.
 
 ## Yargıtay 8. HD 2019/2321 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501265500)
+
 Öte yandan; davacının 31.07.2003 ile 07.09.2010 tarihleri arasındaki dönem için ecrimisil ve tazminat istekli davayı 29.06.2012 tarihinde açtığı, davalının süresinde zaman aşımı itirazında bulunduğu görülmektedir. O halde, 25/05/1938 tarihli ve 29/10 sayılı İçtihadı Birleştirme Kararı’nda belirtildiği üzere, davalının zamanaşımı savunması dikkate alınarak ancak 5 yıllık ecrimisilin hüküm altına alınması gerektiği gözetilmeksizin yanılgılı değerlendirme ile yazılı olduğu üzere fazla ecrimisile hükmedilmiş olması da doğru değildir.
 
 ## Yargıtay 8. HD 2019/1674 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645441900)
 
 Dava, çaplı taşınmaza yönelik ecrimisil istemine ilişkindir.
 
@@ -141,10 +175,14 @@ Dava açılış şekli itibariyle belirsiz alacak davasıdır. Davacının yapt�
 
 ## Yargıtay 16. HD 2019/1673 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/506429900)
+
 Hal böyle olunca, öncelikle taşınmazın bulunduğu bölgede imar planının yürürlüğe girdiği tarihten ve ecrimisil ihbar tarihinden 15-20-25 yıl öncesine ait hava fotoğrafları ile temin edilebilen en eski ve en son tarihli uydu fotoğrafları getirtilerek dosya ikmal edildikten sonra, refakate alınacak ziraatçi bilirkişi ve jeodezi ve fotogrametri mühendisi bilirkişisinin katılımıyla mahallinde yeniden keşif yapılmalı ve bu keşifte ziraat bilirkişisinden, taşınmaz üzerinde bulunan ağaçların yaşlarını, cinslerini, taşınmaz imar-ihya gerektiren yerlerden ise imar-ihyasının tamamlanıp tamamlanmadığını, tamamlanmış ise ne zamandan beri ekonomik amaca uygun kullanıldığını, komşu parsellerle karşılaştırmalı biçimde toprak yapısını belirten ve önceki bilirkişinin raporunu irdeleyen ayrıntılı ve gerekçeli rapor alınmalı; jeodezi ve fotogrametri mühendisi bilirkişisine hava fotoğrafları ve uydu fotoğrafları üzerinde inceleme yaptırılarak, taşınmaz üzerinde imar-ihya işlemlerine başlandığı ve tamamlandığı tarih ile tarımsal amaçlı zilyetliğin başlangıç tarihi ayrı ayrı net olarak ortaya konulmalı, kadastro paftası ile hava ve uydu fotoğraflarının çakıştırıldığı renkli haritalar düzenlettirilmeli;
 bundan sonra tüm deliller birlikte değerlendirilerek davacı yararına kazandırıcı zamanaşımı zilyetliği ile iktisap koşullarının gerçekleşip gerçekleşmediği belirlenmeli ve davacıya yapılan ecrimisil ihbarnamesinin malik sıfatıyla zilyetliğini ortadan kaldırıp kaldırmadığı hususu da yapılan açıklamalar çerçevesinde değerlendirilmek suretiyle, 4721 sayılı Kanun'un 713/4 ve 5. fıkraları gereği yerine getirildikten sonra sonucuna göre karar verilmelidir. Mahkemece bu hususlar göz ardı edilerek dosya kapsamına uygun düşmeyen gerekçelerle davanın reddine karar verilmesi isabetsiz olup, temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, peşin yatırılan temyiz karar harcının talep halinde temyiz edene iadesine, yasal koşullar gerçekleştiğinde kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere, 12.03.2019 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2018/18910 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477047100)
 
 Dava, itirazın iptali istemine ilişkindir.
 
@@ -154,18 +192,26 @@ Hal böyle olunca; davalının kendi kullandığı daire için intifadan men edi
 
 ## Yargıtay 8. HD 2018/18571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488823300)
+
 Hal böyle olunca, zamanaşımı itirazının süresinde olmadığı ve davacının aynı oturumda savunmaya itiraz ettiği ve ayrıca kayyım tarafından açılan davalarda davalının zamanaşımı savunmasına itibar edilmeyeceği de gözetilerek talep gibi 01.01.2002 ile 31.12.2008 tarihleri arası belirlenen/belirlenecek ecrimisile karar verilmesi gerekirken zamanaşımı savunmasına karşı çıkılmadığı gerekçesiyle 21.07.2005 ile 31.12.2008 tarihleri arası belirlenen ecrimisile karar verilmiş olması doğru değildir.
 
 ## Yargıtay 8. HD 2018/17184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478726000)
 
 25.05.1938 tarih ve 29/10 sayılı Yargıtay......... Kararı ve Yargıtay'ın aynı yoldaki yerleşmiş içtihatları uyarınca ecrimisil davaları beş yıllık zamanaşımına tabi olup bu beş yıllık süre dava tarihinden geriye doğru işlemeye başlar. Mahkemece davalı hakkında 10 yıllık ecrimisile hükmedilmiş ise de, bu husus doğru olmayıp; dava tarihinden geriye doğru 5 yıllık ecrimisile hükmedilmesi gerekirdi.
 
 ## Yargıtay 8. HD 2018/16019 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454673300)
+
 Bilindiği üzere; Türk Borçlar Kanunu'nun 77.maddesinde; “Haklı bir sebep olmaksızın, bir başkasının malvarlığından veya emeğinden zenginleşen, bu zenginleşmeyi geri vermekle yükümlüdür. Bu yükümlülük, özellikle zenginleşmenin geçerli olmayan veya gerçekleşmemiş ya da sona ermiş bir sebebe dayanması durumunda doğmuş olur.”, 82.maddesinde ise; “Sebepsiz zenginleşmeden doğan istem hakkı, hak sahibinin geri isteme hakkı olduğunu öğrendiği tarihten başlayarak iki yılın ve her hâlde zenginleşmenin gerçekleştiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar” düzenlemeleri getirilmiş olup, somut olayda; gerek, ... 1.Asliye Hukuk Mahkemesi'nin 2005/166 Esas sayılı dosyasından, davaya konu edilen taşınmaz üzerindeki müştemilatın davalı / karşı davacıya ait olduğunun tespit edildiği tarih ile dava tarihi, gerekse de, hüküm altına alınan ecrimisilin ...
 3.İcra Müdürlüğü'nün 2007/2014 Esas sayılı dosyası ile tahsil edildiği tarih ile dava tarihi arasında, Türk Borçlar Kanunu'nun 82.maddesinde düzenlenen iki yıllık süreden fazla süre geçmiş olduğundan ve davalı/ karşı davacı taraf da süresinde zamanaşımı def'inde bulunduğundan, karşı davanın zamanaşımı nedeniyle reddine karar verilmesi gerekirken, kısmen kabulüne ve kısmen reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2018/13005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424723300)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -177,15 +223,21 @@ Hemen belirtilmelidir ki, kamulaştırma kararı almadan veya kamulaştırma iş
 
 ## Yargıtay 5. HD 2018/3747 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/414881000)
+
 09/12/1931 gün ve 23/44 sayılı Yargıtay İçtihadı Birleştirme kararı uyarınca ecrimisil davaları 5 yıllık zamanaşımına tabidir. Bu 5 yıllık süre dava tarihinden itibaren geriye doğru hesap edilmelidir. Davalı idarece süresinde zamanaşımı defi’inde bulunulduğu gözetilmeksizin 5 yıllık ecrimisil bedeli yerine, yazılı şekilde 01.07.2004 - 05.06.2007 tarihleri arasını da kapsar şekilde 8 yıllık ecrimisil bedeline hükmedilmesi, …
 
 ## Yargıtay 3. HD 2018/2206 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419207400)
 
 Öte yandan, T.M.K.'nun 599. maddesi uyarınca, murisin ölümüyle mirasçılar mirasta hak kazanacaklarından ecrimisilin murisin ölüm tarihinden itibaren hesaplanması gerekir. Ayrıca, 25.5.1938 tarih, 29/10 sayılı İçtihatları Birleştirme Kararı ve 6098 sayılı Türk Borçlar Kanunu'nun 147. (818 sayılı Borçlar Kanunu'nun 126.) maddesi hükmü gözetilerek ecrimisil istekleri 5 yıllık zamanaşımına tabi olup, beş yıllık zamanaşımı süresi dava tarihinden geriye doğru hesaplanır.
 
 O halde mahkemece, yukarıda açıklanan hususlar doğrultusunda, davanın açıldığı tarihten geriye doğru 5 yıla isabet eden dönem için belirlenecek ecrimisilin hüküm altına alınması gerekirken; hukuki nitelendirmede yanılgıya düşülerek yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 5. HD 2017/24457 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/386842200)
 
 Dava, kamulaştırmasız el atılan taşınmaza yönelik müdahalenin meni ve ecrimisil istemine ilişkindir.
 
@@ -199,6 +251,8 @@ Hüküm altına alınan ecrimisil bedeline her dönem sonu itibariyle ayrı ayr�
 
 ## Yargıtay 1. HD 2017/5523 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385597200)
+
 Dava, paydaşlar arası ecrimisil isteğine ilişkindir.
 
 …
@@ -207,9 +261,13 @@ Ne var ki; dava açılırken davacı tarafından on yıllık dönem için 12.000
 
 ## Yargıtay 1. HD 2017/2440 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358069300)
+
 Hal böyle olunca; süresinde zamanaşmı def'inde bulunuldu gözetilerek, ıslahla artırılan ecrimisil miktarına ıslah (05.07.2013) tarihinden geriye doğru 5 yıllık zamanaşımı süresi uygulanarak karar verilmesi gerekirken, yanılgılı değerlendirme ile zamanaşımı def'i dikkate alınmadan karar verilmisinin doğru olmadığı görüşünde olduğumdan, davalıların bu yöne ilişkin temyiz itiazının kabulü ile kararın bu yönden bozulması gerektiği kanaatindeyim.
 
 ## Yargıtay 1. HD 2017/1142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355623000)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -218,6 +276,8 @@ Dava, ecrimisil istemine ilişkindir.
 Mahkemece; davanın kısmen kabulü ile 21/07/2005 ve 31/12/2008 tarihleri arasında belirlenen ecrimisile hükmedilmesine karar verilmiş, verilen karar taraf vekillerince temyiz edilmiş, Dairece; “Mahkemece; davalının,kayıttan ve mülkiyetten kaynaklanan bir hakkı olmadığı halde dava konusu taşınmazı kullandığı belirlenmek ve benimsenmek suretiyle davanın kabul edilmiş olmasında bir isabetsizlik yoktur. Davalının temyiz itirazları yerinde değildir. Reddine. Davacının temyiz itirazlarına gelince,25.5.1938 tarih, 29/10 sayılı İçtihatları Birleştirme Kararı gereğince ecrimisil istekleri 818 sayılı Boçlar Kanunu 126 maddesi(6098 sayılı Türk Borçlar Kanunu 147.maddesi) hükmüne göre 5 yıllık zamanaşımına tabi olduğundan dava tarihinden geriye doğru 5 yıllık süre için belirlenecek ecrimisilin hüküm altına alınması gerekirken, yazılı olduğu üzere 3 yıllık belirlenen ecrimisilin karar altına alınmış olması isabetsizdir.”gerekçesi ile bozulmuştur.
 
 ## Yargıtay 1. HD 2017/949 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/317836900)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -229,6 +289,8 @@ Somut olaya gelince; yukarıda belirtilen ilkeler ve gerçekleşen olgular dikka
 
 ## Yargıtay 1. HD 2016/2381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204476900)
+
 Davanın kısmen kabulüne ilişkin verilen kararın taraf vekilleri tarafından temyizi üzerine Yargıtay 3.Hukuk Dairesi’nce duruşmalı yapılan incelemede;
 
 …
@@ -238,6 +300,8 @@ O halde, davalının zamanaşımı def’i nazara alınarak dava tarihinden geri
 
 ## Yargıtay 1. HD 2016/1383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215304800)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -246,11 +310,15 @@ Her ne kadar 25.05.1938 tarih ve 29/10 sayılı Yargıtay İçtihadı Birleştir
 
 ## Yargıtay 1. HD 2015/8799 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140903700)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 Davanın reddine ilişkin olarak verilen karar 3. Hukuk Dairesince, “davacının ecrimisil istenilen sürede dava konusu taşınmazda malik olması sebebiyle ecrimisil istemeye hakkı olduğu, aktif husumetinin bulunmadığından bahisle davanın reddine karar verilmesinin doğru olmadığı” gerekçesiyle bozulmuş, mahkemece bozmaya uyularak yapılan yargılama neticesinde, davanın kabulüne dair verilen karar, davalının temyizi üzerine Dairece, “... davalının ecrimisil bakımından zamanaşımı def'inde bulunduğu, bu durumda davacının 20.12.2005 tarihinden geriye doğru 5 yıllık süre için ecrimisil istemesi sebebiyle, dava tarihi olan 12.9.2008 tarihinden geriye doğru 5 yıllık sürenin başlangıç tarihi olan 12.09.2003 tarihi ile 20.12.2005 tarihi arasındaki dönem için belirlenecek ecrimisilin hüküm altına alınması ve dava konusu taşınmazın arsa vasfı ile kiraya verildiği takdirde getirebileceği kira getirisi üzerinden ecrimisil hesabı yapılması gerektiğine” değinilerek bozulmuş, davacı vekili karar düzeltme istemiştir.
 
 ## Yargıtay 1. HD 2015/5141 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/122461000)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -259,6 +327,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Hemen belirtmek gerekir ki; mahkemece bozma ilamına uyularak, davalının süresinde yaptığı zamanaşımı itirazı da dikkate alarak, 30.11.2009 tarihinden geriye doğru 5 yıllık süre için ecrimisil isteğinin kabulüne karar verilmiş olmasında kural olarak bir isabetsizlik yoktur. Taraf vekillerinin bu yöne ilişkin temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2014/20287 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/338612900)
 
 Dava, ecrimisil isteğine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiştir.
 

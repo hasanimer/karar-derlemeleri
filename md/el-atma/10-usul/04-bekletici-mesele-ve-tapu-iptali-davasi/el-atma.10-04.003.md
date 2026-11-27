@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2023/1209 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929832500)
+
 Davacı vekili dava dilekçesinde özetle; ... ili, ... ilçesi ... Mahallesinde kain tapuda 108 ada 2 parsel sayılı 21.596,13 m2 yüzölçümlü 2/B vasıflı, evvelinde tamamı davalı Hazine adına kayıtlı taşınmazda fiili kullanıcı olan ...'ın bu kullanımını çocukları ..., ..., ... ve ...'a eşit olarak devrettiğini, açıklanan nedenlerle ... ilçesi ...
 
 …
@@ -38,6 +40,8 @@ ve davanın reddine karar verilmiştir.
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/1069 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898459100)
 
 Davacı; kayden maliki olduğu 809 ada, 4 parsel sayılı taşınmazın ihtara rağmen davalı tarafından haksız olarak kullanıldığını ileri sürerek, el atmanın önlenmesi ve ecrimisile karar verilmesini istemiştir.
 
@@ -58,6 +62,8 @@ Diğer taraftan; gerek öğretide ve gerekse yargısal uygulamalarda ifade edild
 
 ## Yargıtay 8. HD 2023/80 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879028600)
+
 İlk Derece Mahkemesince bozma ilamına uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne kısmen reddine karar verilmiştir.
 
 …
@@ -75,6 +81,8 @@ Temyiz itirazlarının kabulü ile bozma nedenine göre sair yönler incelenmeks
 
 ## Yargıtay 5. HD 2022/16420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839758800)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 İlk derece mahkemesince davanın kabulüne ilişkin olarak verilen karara karşı davalı idare vekilince yapılan istinaf başvurusunun Antalya Bölge Adliye Mahkemesi 5. Hukuk Dairesince esastan reddine karar verilmiş, hüküm davalı idare vekilince temyiz edilmiştir.
@@ -89,6 +97,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2022/15229 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833322400)
+
 İlk derece mahkemesince asıl davanın kabulüne, birleştirilen davanın konusuz kalması nedeniyle karar verilmesine yer olmadığına, birleştirilen diğer davanın ise husumet nedeniyle reddine ilişkin olarak verilen karara karşı yapılan istinaf başvurusunun Ankara Bölge Adliye Mahkemesi 14. Hukuk Dairesince kabulü ile HMK’nın 353/1-b-1 maddesi gereğince ilk derece mahkemesi kararı kaldırılarak asıl davanın kabulüne, birleştirilen davanın reddine, diğer birleştirilen davanın ise husumet nedeniyle reddine karar verilmiş, hüküm davalı-karşı davacı vekilince temyiz edilmiştir.
 
 Dosyanın incelenmesinden, dava konusu taşınmazın 11.06.1984 tarih ve 103 sayılı kamu yararı kararı ile Karayolları Genel Müdürlüğünce kamulaştırıldığı, kamulaştırma evrakının o zamanki malik ...’a 31.03.1986 tarihinde bizzat tebliğ edildiği, taşınmazın muhtelif tarihlerde el değiştirmesinden sonra en son davacı tarafından 07.11.2018 tarihinde, 05.07.1985 tarihli ‘Karayolları Genel Müdürlüğü'nce kamulaştırılmıştır’ şerhi ile satın alındığı, Ankara Büyükşehir Belediye Başkanlığınca Karayolları Genel Müdürlüğü ile aralarında yapılan protokol gereğince ve Kamulaştırma Kanunu'nun 17. maddesine dayanılarak tapu iptali ve tescil istemiyle eldeki asıl davanın, tapu kayıt maliki tarafından ... aleyhine hukuki el atma nedeniyle tazminat istemiyle birleştirilen Gölbaşı 2. Asliye Hukuk Mahkemesinin 2019/87 Esas sayılı davasının, yine Ankara Büyükşehir Belediye Başkanlığınca önceki malik ... tarafından aleyhine yine tapu iptali ve tescil istemiyle Gölbaşı 1.
@@ -97,6 +107,8 @@ Asliye Hukuk Mahkemesinin 2016/603 Esas sayılı davasının açıldığı anla�
 Davalı-birleştirilen kamulaştırmasız el atılan taşınmaz bedelinin tahsili davasının davacısı tarafından yapılan temyiz itirazları yerinde olmadığından usul ve yasaya uygun olan Ankara Bölge Adliye Mahkemesi 14. Hukuk Dairesinin 2021/135 Esas ve 2022/198 Karar sayılı kararının ONANMASINA …
 
 ## Yargıtay 7. HD 2022/7099 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847157300)
 
 Davacı vekili dava dilekçesinde, müvekkiline ait taşınmazın davalı tarafından duvarı yıkılıp trafo binası ve enerji nakil hattı kurulduğunu belirterek, elatmanın önlenmesini, yapıların kal’ini, zararı nedeniyle tazminat ve haksız işgal nedeniyle ecrimisil tahsilini ve tapu sicilindeki davalı lehine olan şerhin terkinini talep etmiş; davacı asil, 10.05.2012 tarihli 11. celsede, ecrimisil ve tazminat talebinden feragat etmiştir.
 
@@ -114,6 +126,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazları ye
 
 ## Yargıtay 7. HD 2022/6751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865172700)
+
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 Davacı vekili, davaya konusu 7 No.lu bağımsız bölümün maliki bulunduğunu, davalının 2014 yılından bu yana taşınmaza haksız olarak müdahale ettiğini, ... 1. Noterliği'nin 23/11/2016 tarih 27480 yevmiye sayılı ihtarnamesi ile ihtarnamenin tebliğinden itibaren 7 gün içinde müvekkilinin maliki bulunduğu meskendeki haksız müdahalenin men’i ve 2014 yılından itibaren haksız olarak el koymak nedeniyle oluşmuş olan ecrimisil talep edildiğini, ihtarnamenin 28/11/2016 tarihinde tebliğ edilmiş olmasına rağmen davalının müdahalesine devam ettiği gibi, ecrimisil bedelini de ödemediğini ileri sürerek; müdahalesinin men'ine, fazlaya ilişkin hakları saklı kalmak kaydıyla 16.800,00 TL ecrimisilin 2014 yılından itibaren işlemiş olan yasal faizi ile davalıdan tahsiline karar verilmesini istemiştir.
@@ -130,6 +144,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle HMK 373/1. maddesi gereğince temyiz ol
 
 ## Yargıtay 8. HD 2022/4597 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/771891800)
+
 Davacı ... İdaresi vekili, ... İli Çiftlikköy İlçesi ...
 
 …
@@ -140,6 +156,8 @@ Köyü 147 ada 75 parsel sayılı taşınmazın davalı adına olan tapu kaydın
 Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, yapılan yargılama ve uyuşmazlık bakımından uygulanması gereken hukuk kuralları ile temyiz olunan Bölge Adliye Mahkemesi kararında yazılı gerekçelere, hukuki ilişkinin nitelendirmesine göre temyiz itirazları yerinde görülmediğinden, temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı HMK'nin 370. maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2022/4362 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792756900)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -159,6 +177,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 8. HD 2021/11623 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727943600)
+
 Mahkemece, bozma ilamına uyularak yapılan yargılama sonunda davanın reddine karar verilmiş, hüküm davacı ... İdaresi vekili tarafından temyiz edilmiştir.
 
 Dava, eylemli orman iddiasına dayalı tapu iptali - tescil ve elatmanın önlenmesi istemine ilişkindir.
@@ -171,6 +191,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 8. HD 2021/10688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/698895500)
+
 Kadastro sonucu, Nusaybin İlçesi Söğütlü Köyü çalışma alanında bulunan 24, 25, 26, 27, 28, 29, 30, 31 ve 34 parsel sayılı sırasıyla 995250, 59375, 1738750, 82500, 33750, 1142000, 358625, 259250 637500 metrekare yüzölçümündeki taşınmazlar, Asliye Hukuk Mahkemesinin 1964/103 Esas ve 1961/163 Esas sayılı dosyalarında dava konusu olduklarından söz edilerek malik haneleri açık bırakılmak suretiyle; 32 ve 33 parsel sayılı 2500, 1500 metrekare yüzölçümündeki taşınmazlar ise, satış, hibe ve kazandırıcı zamanaşımı zilyetliği nedeniyle, müştereken ...... ... adlarına tespit edilmiştir.
 Davacı ... ... ve arkadaşları tarafından davalı ... ... ve arkadaşları aleyhine Asliye Hukuk Mahkemesinin 1964/103 Esas sayılı dosyasında ketmi verese iddiasıyla açılan tapu iptali ve tescil davası ile davacı ..., ... ve ... tarafından ... aleyhine 1961/163 Esas sayılı dosyasında tapu kaydına dayanarak açtıkları meni müdahale davası ve ... tarafından ..., ... ve ... aleyhine davalıların dayandıkları tapu kayıtlarının yolsuz tescil edildiği iddiasıyla açılan ve 1961/163 Esas sayılı dosyaya birleşen tapu iptali davası davaya konu olan parseller hakkında tutanak düzenlenmiş olması nedeniyle ayrı ayrı Kadastro Mahkemesine aktarılmıştır.
 
@@ -179,6 +201,8 @@ Davacı ... ... ve arkadaşları tarafından davalı ... ... ve arkadaşları al
 Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, mevcut deliller Mahkemece takdir edilerek karar verildiğine, delillerin takdirde bir isabetsizlik bulunmadığına ve temyiz edenin sıfatına göre, yerinde olmayan temyiz itirazlarının reddi ile Usul ve Kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 7. HD 2021/3894 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727628200)
 
 Davacılar vekili tarafından, davalı aleyhine 05/11/2014 gününde verilen dilekçe ile elatmanın önlenmesi ve kal talebi üzerine Yargıtay 8. Hukuk Dairesinin bozma ilamına uyularak yapılan duruşma sonunda; davanın kabulüne, orman idaresinin asli müdahil talebinin reddine dair verilen 17/01/2019 günlü hükmün Yargıtayca incelenmesi davalı vekili ile asli müdahale talebinde bulunan Orman İdaresi tarafından istenilmekle süresinde olduğu anlaşılan temyiz dilekçesinin kabulüne karar verildikten sonra dosya ve içerisindeki bütün kağıtlar incelenerek gereği düşünüldü:
 
@@ -202,6 +226,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekili ile asli müdahale taleb
 
 ## Yargıtay 5. HD 2021/3633 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/682159700)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece uyulan bozma ilamı uyarınca inceleme ve işlem yapılarak hüküm kurulmuş, karar davalı idare vekilince temyiz edilmiştir.
@@ -213,6 +239,8 @@ Bu durumda; Ankara 14. Asliye Hukuk Mahkemesinin 2019/177 Esas sayılı dosyası
 Davalı idare vekilinin temyiz itirazları yerinde görüldüğünden hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/2645 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651824400)
 
 Davacı/karşı davalı vekili, vekil edeninin 52 ada 7 parsel sayılı taşınmaz üzerinde bulunan binadaki 9 numaralı dairenin maliki olduğunu, vekil edeni ile dava dışı ... arasında yapılan 01.02.2000 tarihli gayrimenkul satış vaadi sözleşmesinden doğan ihtilaflar nedeni ile davalı ...’in dava konusu dairede diğer davalı Nurten ile yaşamaya başladığını, haksız işgalin 10 yıldır devam ettiğini belirterek, davalıların dava konusu yere yaptığı müdahalenin men’i ile şimdilik 40.000,00 TL ecrimisil bedelinin davalılardan tahsiline karar verilmesini istemiş, 04.06.2018 havale tarihli dilekçesi ile bilirkişi raporu uyarınca, 60.912,00 TL üzerinden bedel artırımında bulunmuş, karşı davanın ise reddini savunmuştur.
 
@@ -235,6 +263,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar/karşı davacılar vekilinin
 
 ## Yargıtay 16. HD 2021/336 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665779600)
+
 Yargıtay bozma ilamında özetle; "davanın orman kadastrosuna itiraz, tapu iptali ve tescil ve müdahalenin men'i istemlerine ilişkin olduğu, dava konusu ... İli ... İlçesi ...
 Köyü 463 sayılı parselin tesis kadastrosunda gerçek kişi adına tespit ve tescil edildiği, Orman İdaresinin, dava dilekçesine ekli krokide gösterdiği 884 metrekare bölümün öncesinin orman olduğu iddiasıyla taşınmazın tapu kaydının iptali ile orman olarak Hazine adına tapuya kayıt ve tescilini ve davalının elatmasının önlenmesini istediği, yörede 132 numaralı Orman Kadastro Komisyonu tarafından yapılan orman kadastrosu ve 6831 sayılı Kanun'un 2/B uygulamasının ilân edildiği 31.01.2012 tarihinden sonra altı aylık askı süresi içinde dava açıldığı, Mahkemece usuli bozma ilamına uyularak yapılan yargılama sonucunda 15.05.2014 tarihli fen bilirkişi raporunda (A) harfi ile gösterilen 12.509,66 metrekarelik ve (C) harfi ile gösterilen 3.016,27 metrekarelik kısımlar açısından davanın reddine, (B) harfi ile gösterilen 869,96 metrekarelik kısım yönünden mahkemenin görevsizliği nedeni ile dava şartı yokluğundan davanın reddine karar verildiği, hükmün orman idaresince temyiz edilmekle, davaya konu taşınmazın (A) harfi ile gösterilen kısmının orman sayılmayan yerlerden olduğu anlaşıldığından temyiz itirazlarının reddi ile hükmün onanmasına;
 (B) harfi ile gösterilen kısmının orman kadastro sınırları içinde kalan yerlerden olduğu anlaşıldığından Orman İdaresinin dava açmakta hukukî yararı bulunmadığından bu kısma yönelik temyiz itirazlarının reddine; (C) harfi ile gösterilen kısmının orman tahdidi içinde kaldığı, öncesinin orman olduğu ve yapılan 2/B çalışması ile orman sınırı dışına çıkarıldığı belirlendiğine göre, Mahkemece bu bölüm açısından Orman İdaresinin davasının kesinleşmeyen 2/B işlemine itiraza da dönüşeceği gözönüne alınarak, çekişmeli (C) harfi ile gösterilen kısmının 31.12.1981 tarihinden önce orman vasfını kaybedip kaybetmediğinin kararda belirtilen usule göre araştırılması gerektiği belirtilerek, öncelikle Hazinenin ilgisi yönünden davaya dahil edilmesi, bundan sonra 1980 yıllara ait hava fotoğrafı ve memleket haritası bulundukları yerlerden getirtilerek taşınmazın 31.12.1981 yılından önce bilim ve fen bakımından tam olarak orman niteliğini yitirip yitirmediğinin araştırılması gereğine ve Orman İdaresinin 463 sayılı parselin bütününe yönelik olarak tapu iptal ve tescil ve müdahalenin men'i talepleri yönünden görevsizlik kararı verilmemiş olmasının da isabetsizliğine” değinilmiştir.
@@ -244,6 +274,8 @@ Köyü 463 sayılı parselin tesis kadastrosunda gerçek kişi adına tespit ve 
 Dosya içeriğine, mahkemece hükmüne uyulan bozma kararında açıklandığı gibi işlem yapılıp sonucuna göre hüküm verilmiş olmasına, delillerin takdirinde bir isabetsizlik bulunmamasına göre, yerinde bulunmayan temyiz itirazlarının reddi ile usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2020/10902 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633567400)
 
 …
 

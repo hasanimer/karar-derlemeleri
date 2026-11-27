@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/1233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833759900)
+
 Davacılar vekili 29.08.2013 tarihli dava dilekçesinde; müvekkillerinin ...’ın yasal mirasçıları olduğunu, murisin davalılar ile samimi ilişki içinde yaşam sürdüğünü ve nüfus cüzdanının dâhi davalı ... tarafından muhafaza edildiğini, inşaat yüklenicisi olan davalı ... tarafından arsasına inşaat yapılarak kendisine daire verileceği söylenerek muristen inşaat yetkilerini içerir şekilde ...
 
 …
@@ -36,6 +38,8 @@ Yolsuz tescile ilişkin olarak yapılan açıklamalar kapsamında, eldeki davan�
 Dava tarihine kadar taşınmazın tapu kaydına dayalı olarak tasarruf edildiği haksız bir el atmanın söz konusu olmadığı açıktır. Dava tarihi itibariyle davalının tapu maliki olduğu, davacıların ancak tapu kaydının iptaline karar verilip kararın kesinleşmesinden sonra malik olacakları dava tarihi itibariyle malik olmamaları nedeniyle mülkiyet hakkına dayalı olarak dava açıp kazanma koşulları bulunmadığı …
 
 ## Yargıtay HGK 2019/1330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579466300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -53,6 +57,8 @@ Taşınmaz üzerindeki aynî hakka ilişkin dava, doğrudan doğruya taşınmaz 
 
 ## Yargıtay HGK 2013/501 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/45612300)
+
 Mahkemece, davanın kabulüne karar verilmiş, hüküm davalı idare vekilince temyiz edilmiştir.
 
 …
@@ -68,6 +74,8 @@ Hukuk Genel Kurulu’ndaki görüşmeler sırasında, işin esasının incelenme
 Yerel mahkemece, mülkiyeti davacıya ait taşınmazın imar planında okul yeri olarak ayrılması nedeni ile taşınmazdan bağımsız yararlanma ve başka türlü kullanma olanağı kalmadığı ve bu nedenle kamulaştırmasız el atma koşullarının oluştuğu gerekçeksiyle davanın kabulüne karar verilmiştir. Yargıtay Özel Dairesince, dava konusu taşınmazın imar planında okul yeri olarak ayrıldığı, eylemli olarak el atılmadığı gerekçesiyle davanın reddine karar verilmesi gerektiği gerekçesiyle mahkeme kararı bozulmuştur.
 
 ## Yargıtay HGK 2011/587 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77267700)
 
 Davalı C. E., davanın reddini savunmuştur.
 
@@ -134,6 +142,8 @@ Hüküm fıkrasının 9.bendinin yukarıda yazılı şekilde değiştirilmesinde
 
 ## Yargıtay 8. HD 2025/5520 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203188000)
+
 Müteveffa davacı ... tarafından Asliye Hukuk Mahkemesinde müdahalenin men'i ve tapu iptali talebiyle açılan dava devam ederken dava konusu taşınmazlar hakkında tespit yapılarak kadastro tutanağı düzenlendiğine göre her ne kadar Asliye Hukuk Mahkemesince bu davaya kadastro mahkemesi sıfatıyla bakılmış ise de 2613 sayılı Kanun'un 27. maddesi gereğince gayrimenkullere ilişkin kadastro ve yazım ile ilgili davanın re’sen kadastro mahkemelerine devri gerektiğinden, dava konusu taşınmazlarla ilgili müdahalenin meni ve tapu iptali davası görülürken, yörede 2613 sayılı Kanun hükümlerine göre yapılan arazi kadastrosunda, dava konusu taşınmazlar hakkında 4 77... ve 10 parsel numaraları ile kadastro tespit tutanağı düzenlendiğine göre, davanın kadastro tesbitine itiraz davasına dönüştüğünden ve genel mahkemenin görevi bittiğinden uyuşmazlığın, 2613 sayılı Kanun hükümlerine göre kadastro mahkemesince çözümlenmek üzere, kadastro mahkemesine devredilmesi gerekmektedir. Devredilecek bu dava, niteliği itibarıyla aktarılan dava niteliğinde olup; 3402 sayılı Kadastro Kanunu'nun (3402 sayılı Kanun) 30/2. maddesi uyarınca res'en araştırma ilkesinin geçerli olduğu da açıktır.
 
 …
@@ -141,6 +151,8 @@ Müteveffa davacı ... tarafından Asliye Hukuk Mahkemesinde müdahalenin men'i 
 Davacı mirasçısı ...'in temyiz itirazlarının kabulü ile İlk Derece Mahkemesinin 03.06.1998 tarihli kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2025/4337 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185333600)
 
 Davacı vekili dava dilekçesinde; tarafların kardeş olduğunu, 15 44... parsel sayılı taşınmazda kain 1 No.lu bağımsız bölümün müvekkiline ait olduğunu, davalıların zor durumda bulunmaları nedeniyle davacının kısa bir süreliğine dava konusu taşınmazda davalıların oturmasına izin verdiğini, sonrasında ihtar çekilerek tahliye etmeleri istenmesine rağmen dava konusu bağımsız bölümün davalılarca kullanılmaya devam edildiğini, davalıların kullanım bedeli de ödemediğini iddia ederek; davalıların 15 44... parselde bulunan 1 No.lu bağımsız bölüme davalıların el atmalarının önlenmesine ve tahliyelerine karar verilmesini talep etmiştir.
 
@@ -160,6 +172,8 @@ Hâl böyle olunca Mahkemece, Büyükçekmece 7. Asliye Hukuk Mahkemesinin 2024/
 
 ## Yargıtay 8. HD 2025/3135 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170647900)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabul kısmen reddine karar verilmiştir.
 
 …
@@ -177,6 +191,8 @@ Ayrıca, hükme esas alınan 16.01.2017 tarihli orman bilirkişi heyet raporunda
 
 ## Yargıtay 8. HD 2025/2430 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145198100)
+
 Davacı ... İdaresi vekili dava dilekçende özetle; Ankara ili ... ilçesi ... Mahallesinde bulunan 368 parselin dava dilekçesine ekli krokide gösterilen kesiminin kesinleşen orman tahdidi içinde kaldığını ileri sürerek orman olan kesimin tapu kaydının iptal edilip orman niteliği ile Hazine adına tapuya tesciline, davalının elatmasının önlenmesine, var ise üzerindeki bina ve tesislerin yıkımına karar verilmesi talep ve dava etmiştir.
 
 İlk Derece Mahkemesince yapılan yargılama sonunda; davanın kabulüne, 368 (yeni 138 ada 1) parsel sayılı 2,535 m² yüzölçümlü taşınmazın tapu kaydının iptal edilip orman niteliği ile Hazine adına tapuya tesciline, davalının elatmasının önlenmesine, taşınmaz üzerinde yapı bulunmadığından yıkım konusunda karar verilmesine yer olmadığına karar verilmiştir.
@@ -191,6 +207,8 @@ Bölge Adliye Mahkemesince yapılan inceleme sonunda;
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370. maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2025/1976 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163422900)
 
 Davacı vekili dava dilekçesinde özetle; dava konusu 948 ada 1 parsel sayılı taşınmaz üzerinde yer alan 14 numaralı bağımsız bölümün davacıya ait olup davalı tarafından 13.09.2013 tarihinden beri haksız şekilde işgal edildiğini ve 18.09.2019 tarihli ihtarnameye rağmen müdahalenin sonlandırılmadığını belirterek davalının haksız el atmasının önlenmesine ve ecrimisile karar verilmesini talep etmiştir.
 
@@ -211,6 +229,8 @@ Hâl böyle olunca, davalı tarafından açılan tapu iptali ve tescil ile davac
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2025/830 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1130255600)
 
 İlk Derece Mahkemesi kararının, davacılar vekili ve asli müdahiller vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince, istinaf başvurularının esastan reddine karar verilmiştir.
 
@@ -238,6 +258,8 @@ uyarınca kadastrosu tamamlanan çalışma alanı içinde kalan eski tapu kayıt
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/7636 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1074886200)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların açılmamış sayılmasına karar verilmiştir.
 

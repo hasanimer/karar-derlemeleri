@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2015/14338 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390296900)
+
 Yine paydaşlar arasında yapılan kullanım anlaşması sonucu her paydaşın yararlanacağı ortak taşınmaz veya bölümlerinin belli bulunması durumunda, davacı paydaş tarafından davalı paydaş aleyhine bu taşınmaza ilişkin elatmanın önlenmesi, ortaklığın giderilmesi, ecrimisil ve benzeri dava açılması hallerinde yine intifadan men koşulu aranmaz. Bu nedenle, davaya konu taşınmazlar yönünden sayılan istisnalar dışında intifadan men koşulunun gerçekleşmesi aranacak ve intifadan men koşulunun gerçekleştiği iddiası, her türlü delille kanıtlanabilecektir. (Yargıtay HGK.'nun 27.02.2002 gün ve 2002/3-131 E, 2002/114 K sayılı ilamı) Öte yandan, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan kötüniyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır.
 Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira geliri karşılığı zarardır. Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde oluşan ve kullanmadan kaynaklanan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda (olumsuz zarar) ecrimisilin kapsamını belirler. Haksız işgal, haksız eylem niteliğindedir. (YHGK'nun 25.02.2004 gün ve 2004/1-120-96 sayılı kararı)
 
@@ -34,6 +36,8 @@ olaya gelince; yukarıda belirlenen esaslar birlikte değerlendirildiğinde dava
 
 ## Yargıtay 1. HD 2015/13698 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/156610200)
+
 Dava, yıkım ve ecrimisil isteğine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiş, hüküm taraflarca temyiz edilmiştir.
 
 …
@@ -44,6 +48,8 @@ Temyiz eden davalıların bu yönlere ilişkin temyiz itirazları yerindedir. Ka
 
 ## Yargıtay 1. HD 2015/12695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/123247700)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -53,6 +59,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Davacının temyiz itirazı bu nedenle yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü (6100 Sayılı HMK’nun geçici 3.maddesi yollamasıyla) 1086 Sayılı HUMK’nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/11897 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/156630900)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -68,6 +76,8 @@ Davalılar vekilinin bu yönlere ilişkin temyiz itirazları yerindedir. Kabulü
 
 ## Yargıtay 6. HD 2015/11458 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148932400)
+
 Davacı vekili, asıl dava dilekçesinde; davaya konu oteli dava dışı ... Turizm Ltd. Şti.'den kiraladıklarını, taşınmazda tadilat yaptıklarını ve bu tadilatlardan davalıların haberdar olduğunu, ancak ...
 
 …
@@ -81,6 +91,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 
 
 ## Yargıtay 14. HD 2015/10840 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/123671000)
+
 Mahkemece, bilirkişi raporu gibi taşınmazların toplam aylık 1.500,00 TL ecrimisil getirebilecekleri kabul edilerek, davalıların aylık 330,00 TL ödemesi nedeniyle fark toplamı 2.470,00 TL ecrimisilin faizi ile birlikte davalılardan tahsiline karar verilmiş, hüküm davalılar vekili tarafından temyiz edilmiştir.
 
 …
@@ -93,6 +105,8 @@ SONUÇ: Yukarıda 1. bentte yazılı nedenlerle sair temyiz itirazlarının redd
 
 ## Yargıtay 1. HD 2015/10642 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139148500)
+
 Dava, ecrimisil isteğine ilişkin olup, mahkemece, davanın reddine karar verilmiştir.
 
 …
@@ -102,6 +116,8 @@ Hal böyle olunca; mahallinde uzman bilirkişi heyeti ile birlikte yeniden keşi
 Davacının bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hükmün (6100 sayılı Hukuk Muhakemeleri Kanununun geçici 3. maddesi aracılığıyla) 1086 sayılı HUMK.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/10078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403886400)
 
 Mahkemece, arazi niteliğindeki taşınmazlarda öncelikle kamulaştırmasız el atma nedeniyle oluşan zararlar tespit edilerek, zemin değeri hesaplandıktan sonra bu değer eski hale getirme bedelinden veya kâl istenmesi halinde oluşacak zarardan az ise zemin bedelinin davacıya ödenmesine ve el atılan bölümün tapusunun iptali ile niteliğine göre idare adına tescil veya terkinine karar verilmesi, zemin değerinin fazla çıkması halinde ise davalı idarenin taşınmaza el atmasının önlenmesine ve hesaplanan eski hale getirme bedelinin de davalı idareden tahsiline karar verilmesi gerekirken, bu yönde bir araştırma yapılmadan, dava konusu taşınmazlara el atmanın önlenmesine karar verilmiş olması, …
 
@@ -114,6 +130,8 @@ Bilirkişi heyetince hesaplanan ecrimisil bedellerine dönem sonlarından itibar
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 6. HD 2015/9513 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/160267600)
 
 Davacı vekili dava dilekçesinde;
 Müvekkili ile dava dışı İstanbul Defterdarlığı arasında akdedilen sözleşme uyarınca 1998-2008 yılları arasında, ..İlçesi .. ada .. parselde bulunan ... olarak tanınan taşınmazın kiracısı olduğunu, bu alana bitişik olan ve üzerinde .. nin vagon yükleme rampası bulunan 1850-2107 m2 lik komşu alanla ilgili olarak da hak sahibi olduğunu iddia eden davalı ... ile aynı dönem için kira sözleşmeleri ve protokoller yapıldığını, taşınmazın tahliyesi esnasında tahliyeyi takiben İstanbul Defterdarlığı tarafından ecrimisil ihbarnameleri düzenlenerek gönderildiğini, ecrimisile konu alanlar arasında davalıdan kiralanan ve kira bedelleri ödenen kısımların da bulunduğunu, ecrimisil ihbarnamelerine karşı açtığı idari davalarda tanzim edilen bilirkişi raporlarında, davalıya kira ödenen yerlerin deniz dolgu alanı olması sebebiyle devletin hüküm ve tasarrufunda bulunan yerlerden olduğunun tespit edildiğini, sonuç olarak davalıya kira bedeli ödenen alanlarla ilgili olarak hazineye ecrimisil ödemesine hükmedildiğini, davalıya ödenen kira bedellerinin haklı bir sebebinin bulunmadığının ortaya çıktığını belirterek davalıya haksız olarak kira bedeli olarak ödenen bedellerden şimdilik 10.000.-TL nin
@@ -129,6 +147,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100
 
 ## Yargıtay 1. HD 2015/9491 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142647400)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım, eski hale iade ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -142,6 +162,8 @@ Hükmüne uyulan bozma ilamı uyarınca araştırma ve inceleme yapılarak yazı
 Tarafların temyiz itirazı değinilen yön itibariyle yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/8609 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139574900)
 
 Davacılar, ortak mirasbırakan Alime intikal eden elbirliği halinde malik oldukları üzüm bağı niteliğindeki 457 ada 30 parsel sayılı taşınmazı diğer paydaş davalının tasarruf ettiğini,davalı ve diğer paydaşlar aleyhine açtıkları ortaklığın giderilmesi davasının kabul edildiğini ve taşınmazın ihale ile davalıya satılıp onun adına tescil edildiğini,tespit dosyasında 2008-2012 yılları arasındaki dönem için hesaplanan toplam 39.291,90 TL ecrimisilden paylarına isabet edenin 1.894,00 TL olduğunu ileri sürerek 7.576,00 TL ecrimisile;yargılama sırasında ise ihale tarihinden geriye dönük 5 yıllık ecrimisile karar verilmesini istemişlerdir.
 
@@ -157,6 +179,8 @@ Davacıların bu yönlere değinen temyiz itirazları yerindedir.Kabulü ile hü
 
 ## Yargıtay 1. HD 2015/7358 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139697000)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkin olup, mahkemece davanın kabulüne karar verilmiştir.
 
 …
@@ -167,6 +191,8 @@ Davalının bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hük
 
 ## Yargıtay 1. HD 2015/7205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139734800)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi,eski hale getirme,eski hale getirme bedelinin tahsili ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -176,6 +202,8 @@ Hal böyle olunca; mahkemece,yeniden keşif yapılmak suretiyle taşınmazın ''
 Davalı Yusuf vekilinin bu yöne değinen temyiz itirazı yerindedir.Kabulü ile hükmün açıklanan nedene hasren (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/7119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140297200)
 
 Davalılar, husumet ve esas yönünden davaların reddini savunmuşlardır.
 
@@ -193,6 +221,8 @@ Birleştirilen davanın davacıları ile davalılardan Yalova Belediyesi ve TOK�
 
 ## Yargıtay 1. HD 2015/6832 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139373500)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -202,6 +232,8 @@ Hâl böyle olunca; yukarıda açıklana ilke ve olgular doğrultusunda gerekli 
 Davalıların bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/6012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140538100)
 
 Dava; ecrimisil isteğine ilişkindir.
 
@@ -216,6 +248,8 @@ Hâl böyle olunca, mahkemece, aralarında ziraat bilirkişinin de bulunacağı 
 Anılan bu husus davacı vekilinin karar düzeltme isteği sonucu yeniden yapılan inceleme neticesinde anlaşıldığından, karar düzeltme isteğinin HUMK'un 440. maddesi gereğince kabulüyle, Dairenin 22.10.2014 gün ve 2014/1347-16244 E.K. sayılı bozma kararının 5. paragrafının 2. cümlesinin ve 6. paragrafının bozma kapsamından çıkarılmasına, yukarıda açıklanan gerekçe ile yerel mahkemenin 22.10.2013 gün ve 2011/430 E-2013/331 K. sayılı kararının (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/4997 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139107100)
 
 Davacı,kayden maliki olduğu 139 ve 143 parsel sayılı taşınmazlar ile 1081/1120 oranında paydaşı olduğu 138 parsel sayılı taşınmazı davalı idarenin askeri eğitim alanı olarak işgal ettiğini ileri sürerek 01.08.2006-31.08.2011 tarihleri arasındaki dönem için toplam 750.140,00 TL ecrimisile karar verilmesini istemiştir.
 
@@ -233,11 +267,15 @@ Davalı vekilinin temyiz itirazı açıklanan nedenlerle yerindedir. Kabulü ile
 
 ## Yargıtay 1. HD 2015/1911 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120126000)
+
 Ancak; mahkemece bilirkişi raporuna atfen karar verildiği ve bilirkişi raporunda 01.06.2008-12.10.2010 dönemine ilişkin hesaplanan toplam ecrimisil miktarının 29.699,25 TL olduğu belirtildiği gözetilerek bu miktar üzerinden ecrimisile hükmedilmesi gerekirken, davacı aleyhine 26.699,25 TL ve bilirkişi raporunda belirtilen dönemlerdeki ecrimisil miktarı ile genel toplamdaki ecrimisil miktarı arasında çelişki oluşturularak 6100 sayılı HMK. nun 297/2. maddesine aykırı olarak infazda tereddüt yaratacak yazılı şekilde karar verilmesi de isabetsizdir.
 
 Anılan bu husus, davacı vekilinin karar düzeltme isteği üzerine yeniden yapılan inceleme sonucu anlaşıldığından, karar düzeltme isteğinin HUMK'nun 440. maddesi uyarınca kabulüyle, Dairenin 14.04.2014 tarihli, 2013/19646 esas, 2014/7643 karar sayılı onama kararının ortadan kaldırılmasına ve yukarıda değinilen husus gözetilerek bir hüküm kurulması için yerel Mahkemenin 14.05.2013 günlü …
 
 ## Yargıtay 1. HD 2015/1208 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120025800)
 
 Dava; ecrimisil isteğine ilişkindir.
 
@@ -251,6 +289,8 @@ Davalının bu yöne ilişkin temyiz itirazları yerindedir. Kabulü ile yerel m
 
 ## Yargıtay 1. HD 2015/455 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/103453100)
+
 Davacı vekili, Eminönü, Cankurtaran Mahallesi, eski 88 parsel, yeni kamu malı sahasının tasarruf hakkı davacı Belediyeye ait olduğu halde davalının haksız yere taşınmazı işgal ettiğini, 19.12.2003 – 13.07.2005 tarihleri arası için işleyen 129.690.-YTL ecrimisilin ödenmesi davalıya ihtar edildiği halde ödeme yapılmadığını ileri sürerek, fazlaya ilişkin hakları saklı kalarak 129.690.-YTL ecrimisil alacağının tahakkuk tarihlerinden itibaren işleyecek kademeli yasal faizi ile birlikte davalıdan tahsiline karar verilmesini istemiştir.
 
 Davalı, iddiaların doğru olmadığını, dava konusu taşınmaza müdahalesinin olmadığını, bu hususun İstanbul 5. Asliye Hukuk Mahkemesi'nin 2004/355 Esas sayılı dosyasından alınan bilirkişi raporu ile sabit olduğunu, yalnızca mülkiyeti Hazineye ait 1 ada 15 parsel sayılı taşınmazın bir bölümünü kira ilişkisine istinaden kullanıp, 2000 yılında da terkettiğini belirterek davanın reddini savunmuştur.
@@ -263,6 +303,8 @@ Hükme esas alınan bilirkişi raporunda ise; davaya konu taşınmazın 19.12.20
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davalının temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 18. HD 2014/17899 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106751500)
 
 Ecrimisile hükmedilmesi için arsa niteliğindeki taşınmazın bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne şekilde kiraya verildiklerinin taraflardan delilleri sorulmak suretiyle tespit edilmesi, varsa emsal kira sözleşmelerinin ibraz ettirilerek buna göre düzenlenecek bilirkişi raporuna göre karar verilmesi gerektiğinden bozma yapılmış, bozma sonrasında ise davacı tarafından emsal kira sözleşmesi sunulamadığı, bilirkişi ek raporunda da emsal kira sözleşmesi bulunulamadığı belirtilerek bozma öncesindeki raporu tekrarladıkları ve mahkemece bozma öncesindeki gibi 45.260 TL ecrimisile hükmedilmiştir. Ecrimisil bedeli tayin edilebilmesi için el atma nedeniyle davacının bu yeri kullanamamasından dolayı kazanç kaybına uğradığının davacı tarafından ispatlanması gerekmektedir.
 Bozma sonrası yapılan yargılamada mahkemece davacı tarafa emsal kira sözleşmesi sunulması için süre verilmiş ve davacı tarafça emsal kira sözleşmesi sunulamamış olmakla ecrimisil talebi yönünden davanın reddine karar verilmesi gerekirken, soyut ifadelerle ecrimisil bedeli tespit eden raporlar hükme esas alınarak davanın kabulüne karar verilmesi doğru görülmemiştir.

@@ -37,6 +37,8 @@ O halde, davacının davalılara gönderdiği ihtarnamenin tebliğ tarihinden, d
 
 ## İstanbul BAM 2. HD 2025/1848 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158010800)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ:Mahkemece; "1-Mahkememizde görülmekte olan işbu davanın, duruşma günü tebliğ edilen tarafların hazır olmaması ve mazeret de bildirmemiş olması nedeniyle takip edilmediğinden 03/12/2024 tarihli celsede işlemden kaldırıldığı, işlemden kaldırıldığı tarihten itibaren üç aylık yasal süre içinde yenilenmediği anlaşıldığından HMK 150/5 maddesi uyarınca AÇILMAMIŞ SAYILMASINA," karar verilmiştir.
 
 …
@@ -50,6 +52,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle:1-Davacı vekilinin İstinaf başvurusu
 
 ## Adana BAM 16. HD 2025/167 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1116676300)
+
 Davalı vekili cevap dilekçesi ile; dava dilekçesinin talep sunucu bölümünde açıkça; işgal edildiği iddia edilen kısımdaki müdahalenin men'ine karar verilmesi, işgal edilen alandaki eşya ve yapıların yıkılması, geriye doğru 5 yıllık şimdilik 50.000,00 TL ecrimisil bedelinin tahsili talep ve dava edildiğini, yıkım isteği de aynı el atmanın önlenmesi talebi gibi, dava konusunun değeri üzerinden nisbi harca tabi olduğunu, bu itibarla, el atmanın önlenmesi talebi yönünden harcın eksik yatırılması, yıkım talebi yönünden ise hiç harç yatırılmaması usul ve yasaya aykırı olup, peşin harç tamamlanmadan davanın esasına girilmesinin mümkün olmadığını, 50.000-TL bedelli ecrimisil talebinin ise belirsiz alacak davası olarak ikame edildiğine ilişkin dava dilekçesinde açık ifade bulunmadığından, belirsiz alacak davası şartlarının oluşup oluşmadığına bakılmaksızın ecrimisil talebi yönünden kısmi dava olarak açıldığının kabulü gerektiğini, taraflarca yapılan ilk kira sözleşmesinin başlangıç tarihi 01/06/2011 olduğu, müvekkilinin bu tarihten beri anılan taşınmazda kiracı durumunda olduğunu, hem 01/06/2011 başlangıç tarihli hem de dava dilekçesi ekinde sunulan 01/06/2017 başlangıç tarihli kira
 sözleşmesi ile müvekkili şirketin haksız işgalci olmadığının sabit olduğunu, müvekkili şirketin kiracı olarak bulunduğu 12 yıl boyunca sınırlar konusunda hiçbir ihtilaf yaşanmadığını, bu zamana kadar bu konuda bir uyarı ya da talepte de bulunulmadığını, davacı kiracı müvekkilin tasarrufuna muvafakat ettiğini, kira ilişkisinin varlığı halinde haksız işgalden söz edilemeyeceğini, davada ileri sürülen talepler, hakkın kötüye kullanılması olduğunu, haksız ve hukuka aykırı davanın reddini, izah edildiği üzere davacı hiçbir haklı yön bulunmadan işbu davayı kötü niyetle açtığı için HMK m.329 gereği müvekkilinin sözleşme gereği kendi avukatına ödeyeceği % 15 avukatlık ücretinin de davacıdan tahsilini, yargılama giderleri ile ücreti vekaletin karşı yana yüklenmesine karar verilmesini talep etmiştir.
 
@@ -62,6 +66,8 @@ Dava hukuki niteliği itibariyle, el atmanın önlenmesi ve ecrimisil istemine i
 Kabule göre de, dava konusu taşınmaz üzerinde usulüne uygun keşif yapılarak , fen bilirkişisinden kira sözleşmesine konu olan 2.200 m2'lik kapalı alan , 4.400 m2'lik açık alan ile davalıların fazla kullandığı iddia olunan alan, kroki üzerinde gösterilerek, davalıların kullandığı fazla var ise bu kısımlar üzerinde yapı olup olmadığı var ise, bunları tek tek belirtecek şekilde hükme elverişli rapor tanzim edilmesi istenmelidir. Aynı zamanda taşınmazın niteliği dikkate alınarak, bilirkişi heyetinin o doğrultuda oluşturulması ve taşınmazda el atılan yerin değerinin belirlenmesi ve ona göre ecrimisil hesabının yapılması istenilerek, eksik harç tamamlama yoluna gidilmesi gerekmektedir. Ecrimisil hesabı yönünden davacının istinafa gelmediği, davalı açısından usuli kazanılmış hak hususu da dikkate alınmalıdır. Davacının ihtarnamenin tebliğ tarihinden öncesinde davalının kullanımına karşı çıkıp çıkmadığı hususu araştırılmalı, bu durum yok ise ecrimisil hesabında ihtarnamenin tebliğinden sonra tanınan süre sonundan dava tarihine kadar ecrimisil talep edebileceği değerlendirilmelidir.
 
 ## İstanbul BAM 2. HD 2022/237 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728069600)
 
 Dava, elatmanın önlenmesi, tahliye ve ecrimisil istemine ilişkindir.
 

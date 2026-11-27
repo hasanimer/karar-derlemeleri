@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2024/3225 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028138700)
+
 Dosya kapsamından dava konusu uyuşmazlığa konu sitenin tek ada tek parsel üzerinde bulunduğu ve kat mülkiyeti kurulu olduğu tespit edilmekle somut olayda 634 sayılı Kanun'un Ek 1 inci maddesi uyarınca, bu kanundan doğan her türlü uyuşmazlığın değerine bakılmaksızın sulh hukuk mahkemesince çözümlenmesi gerektiği, ayrıca 6100 sayılı Kanun'un 23 üncü maddesinin 2 nci fıkrası dikkate alındığında davaya bakmakla Of Sulh Hukuk Mahkemesinin yetkili olduğu özel dairenin kabulünde olduğu anlaşıldığından uyuşmazlığın Of Sulh Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 8. HD 2021/2990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668716500)
 
 Davacı vekili, dava konusu 5286 parsel taşınmazdaki 10 nolu bağımsız bölümün davacıya ait olduğunu, davalıların davacının bağımsız bölümünün 1 odasının duvarını yıkarak kendi bağımsız bölümlerine kattıklarını, davalıların tecavüzü nedeniyle ... 2. Shm de 2010/380 Esas sayılı dosya ile tespit de yapıldığından bahisle davalıların müdahalelerinin men’ini talep etmiştir.
 
@@ -44,6 +48,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı ...’ın karar düzeltme taleb
 
 ## Yargıtay 20. HD 2019/1782 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493234700)
+
 Mahkemece; davanın kabulüne; davalının 4. kat 11 nolu 4/100 arsa paylı çatı piyesli dairesinin çatı piyesini sahiplenerek tüm teras katı kendi lehine işgal etmek suretiyle kaçak yapı inşaa ettiği bu nedenle 4. kattaki 9 nolu daire maliki olan davacının tapuda şerh bulunan çatı piyesini alamayarak hak kaybına uğradığı anlaşıldığından davalının 4. katta bulunan dairesine projesine uygun çatı piyesliği yaparak kullanması ve çatıdaki projesine aykırı olarak işgaline son vermesi suretiyle projesine uygun eski hale getirilmesine, bu iş için davalıya 90 gün süre verilmesine karar verilmiş, hüküm davalı vekili tarafından temyiz edilmiştir.
 
 Dava, müdahalenin men'i, kal ve eski hale getirme istemine ilişkindir.
@@ -61,6 +67,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazların�
 
 ## Yargıtay 20. HD 2017/10114 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388804500)
+
 Davacı asıl dava dilekçesi ile müvekkilinin davalı kooperatifin üyesi olduğunu, ... ili, ... ilçesi, ...mahallesinde bulunan kooperatife ait parseller üzerine davalı kooperatifçe yaptırılan yapıda ferdileşmenin yapılıp üyelerin bağımsız bölümlerinin belli olduğunu bu kapsamda müvekkilinin dükkan niteliğinde 7 adet bağımsız bölümün sahibi olduğunu, ancak arsa paylarının ferdileşmenin yapıldığı tarihteki bağımsız bölümlerin gerçek değerine göre yapılmadığı gibi, müvekkilinin de dahil olduğu ... grubuna ait ortak alana yeni bina yapıldığını, ayrıca kapalı alan içerisine de iki adet dükkan yapıldığını, buraların ...
 
 …
@@ -73,6 +81,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 18. HD 2015/1214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/185378300)
+
 Davacı vekili dava dilekçesinde, davalının yönetim planına aykırı olarak sitenin ortak yerlerine müdahale ile eklentiler yaptığını ileri sürerek bu haksız müdahalenin önlenmesini, ortak yere yapılan sabit direğin ve bacanın kaldırılarak eski hale getirilmesini, yönetimce sökülen bazı eklentilerin sökme maliyeti olan 500 TL'nin ve izinsiz kullanılan ortak yerlerle ilgili şimdilik 1.000 TL'lik ecrimisilin yasal faizi ile birlikte davalıdan tahsilini istemiş, mahkemece davanın reddine karar verilmiştir.
 
 …
@@ -82,6 +92,8 @@ Dava konusu hukuki uyuşmazlık, çok sayıda bağımsız bölümün de kat irti
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/7826 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919667300)
 
 Davalı ...; taşınmazda kiracı sıfatı ile ikamet ettiğini bildirip, davanın reddini savunmuştur. Diğer davalılar, yargılamaya katılmadıkları gibi davaya cevap da vermemişlerdir.
 
@@ -94,9 +106,13 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 1. HD 2011/6938 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917928700)
+
 Medeni Kanuna göre dava, 634 Sayılı Yasadan kaynaklanmaktadır. Davanın açıklanan bu nitelendirmesine göre, 2797 Sayılı Yargıtay Yasasının 14.maddesi uyarınca temyiz incelemesi Yüksek 18. Hukuk Dairesine ait bulunduğundan dosyanın ilgisi yönünden anılan Daire Başkanlığına gönderilmesine, 9.6.2011 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 14. HD 2011/6427 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766765800)
 
 Davacı, 1988 tarihli protokole dayanarak elatmanın önlenmesi ve ecrimisil istemiştir.
 
@@ -115,6 +131,8 @@ Davanın açıldığı 02.08.2005 tarihinde sulh mahkemeleri mamelek hukukundan 
 SONUÇ: Yukarıda açıklanan nedenlerle, temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2011/2670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78691400)
 
 Davacı, kat irtifakı kurulu 6 bağımsız bölüm numaralı dubleks meskenin kendisine, 5, 12 ve 13 bağımsız bölüm numaralı dubleks meskenlerin ise davalı adına kayıtlı olduğunu, davalının yasal mevzuata ve yönetim planına aykırı olarak sözkonusu bağımsız bölümlerini tasdikli projeye aykırı olarak büyük inşa ederek ve eklentiler yaparak ortak yerlere elattığı gibi, binalarının dış görüntüsünü bozacak şekilde imalatlar yaptığını ileri sürerek, elatmanın önlenmesi ve yıkım isteğinde bulunmuştur.
 
@@ -136,6 +154,8 @@ Davacı vekilinin temyiz itirazları yerindedir. Kabulü ile hükmün açıklana
 
 ## Yargıtay 1. HD 2010/13317 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78538800)
+
 Davacı, 7582 parsel sayılı taşınmazdaki 1 nolu bağımsız bölümün maliki olduğunu, davalıların da 2 nolu bağımsız bölüm maliki olup, davalıların mimarı projeye aykırı olacak şekilde 1 nolu bağımsız bölüme ait olan 8 m2'lik bir alanı kendi taşınmazlarına eklediklerini, ortak yola duvar çektiklerini, kendilerine ait bacayı kapattıklarını, otopark alanını bahçe duvarı ile örerek kendi mülklerine kattıklarını ileri sürerek, el atmanın önlenmesi, yıkım ve eski hale iade isteminde bulunmuştur..
 
 Davalılar, davanın reddini savunmuşlardır.
@@ -154,11 +174,15 @@ Davacının bu yöne ilişkin temyiz itirazları yerindedir. Kabulüyle hükmün
 
 ## Yargıtay 18. HD 2007/3560 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880067900)
+
 Geri çevirme kararı üzerine dosyaya getirtilen tapu kayıtları ile yönetim planından dava konusu sitenin iki parsel üzerinde (7352 Ada 1 Parsel ve 7354 Ada 1 Parsel) kurulu olduğu ve davacı ile davalının ayrı parsellerde kat malikleri oldukları anlaşılmaktadır. Kat Mülkiyeti Yasası ancak tek parsel üzerinde inşaa edilmiş bağımsız bölümler ve malikleri arasındaki uyuşmazlıklara uygulanabileceğinden, sitedeki malikler arasında sözleşme niteliğinde olan site yönetim planına dayanılarak açılmış bulunan elatmanın önlenmesi ve projeye aykırılıkların giderilmesi istemli bu davanın değerinin Sulh Hukuk Mahkemesinin görev sınırını da aştığı gözetilerek Asliye Hukuk Mahkemesinde genel hükümlere göre bakılarak oluşacak sonuç doğrultusunda karar verilmesi gerekirken, davada uygulanma olanağı bulunmayan Kat Mülkiyeti Yasasının ek 1. maddesine dayanılarak görevsizlik kararı verilmesi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## İstanbul BAM 45. HD 2023/19 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849003900)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece ''... yapılan yargılama sonunda İstanbul Anadolu 5.
 
@@ -177,12 +201,16 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davalı tarafın isti
 
 ## İstanbul BAM 35. HD 2022/692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/735181800)
+
 …
 
 : Yasal dayanak:Türkiye Cumhuriyeti Anayasası 142. maddesi, Hukuk Muhakemeleri Kanunu'nun 1,2,4. maddeleri, 634 sayılı kanunun Ek 1.maddesi, Türk Borçlar Kanunu 299, 313, 314, 315. maddeleri, Yargılama konusu olayda:Dava dilekçesinde taraflar arasındaki kira ilişkisinin sona erdiğini, davalı şirketin işgalinde olan büro nitelikli taşınmaza yönelik haksız elatmanın önlenmesine mobilya nitelikli eşyaların bedeli davalı şirketten alınmak üzere yedi emine tevdine karar verilmesini talep ettiği, Mahkeme, Dava davaya konu çekişmenin kira ilişkisinden kaynaklandığı kanaatiyle Sulh Hukuk Mahkemesinin görevli olduğunu kabul ederek Asliye Ticaret Mahkemesinin görevsizliğine karar vermiştir.
 Davacının, görevsizlik kararının yerinde olmadığını, kararı veren mahkemenin görevli olduğunu savunarak görevsizlik kararının kaldırılmasını istediği, HMK 4/a maddesi gereğince "kiralanan taşınmazların İcra İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu olan davalar ile bu davalara karşı açılan davalar Sulh Hukuk Mahkemesinde" görüleceğinin düzenlendiği, Taraflar arasındaki uyuşmazlığın kira sözleşmesinden kaynaklandığı, görevli mahkemenin Sulh Hukuk Mahkemesi olduğu anlaşılmıştır. Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak tespit edilen yargılama hatalarını bizzat düzeltmek amacıyla yapılan inceleme sonunda; dairemizce duruşma yapılmasına gerek olmadığı, dosyadaki yazılara, kararın dayandığı kanıtlara, yasal gerektirici nedenlere göre karar verilmiş olması sebebiyle, incelenen mahkeme kararının usul ve esas yönünden hukuka uygun olduğu, istinaf sebepleri yerinde olmadığından HMK 353/1-b/1 maddesi gereğince istinaf başvurusunun esastan reddine karar vermek gerekmiştir.
 
 ## İstanbul BAM 35. HD 2020/1309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592141600)
 
 …
 

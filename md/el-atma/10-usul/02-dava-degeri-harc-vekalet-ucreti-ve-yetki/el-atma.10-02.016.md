@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2014/3252 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105790800)
+
 Davacı, dava dilekçesinde davalı yükleniciden bağımsız bölüm satın alan davalı R.. K..'ın 9 numaralı bağımsız bölüme el atmasının önlenmesine karar verilmesini talep etmiştir. Ancak, mahkemece bu yönde olumlu ya da olumsuz bir karar verilmiş değildir.
 
 …
@@ -35,6 +37,8 @@ Eldeki davada, davacı arsa sahipleri tescil, el atmanın önlenmesi ve tazminat
 SONUÇ:Yukarıda açıklanan nedenlerle davalı R.. K.. vekilinin karar düzeltme talebinin kabulüne, Dairemizin 22.05.2013 Tarih, 2013/200 Esas ve 2013/3283 Karar sayılı onama ilamının kaldırılmasına …
 
 ## Yargıtay 5. HD 2014/2568 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96182800)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -50,6 +54,8 @@ Davacılar vekili ile davalılardan E.. M.. ve K.İnş Turizm Sanayi Ve Tic. Ltd
 
 ## Yargıtay 1. HD 2014/879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84214800)
+
 Mahkemece, asıl davada elatmanın önlenmesi isteğinin kabulüne,ecrimisil isteği hakkında karar verilmesine yer olmadığına; birleşen davada ise elatmanın önlenmesi isteğinin kabulüne,tazminat isteğinin ise kısmen kabulüne karar verilmiştir.
 
 …
@@ -60,6 +66,8 @@ Taraf vekillerinin bu yöne değinen temyiz itirazları yerindedir.Kabulü ile y
 
 ## Yargıtay 1. HD 2013/18437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79491800)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davanın kısmen kabulüne ilişkin olarak verilen kararın taraflarca temyiz edilmesi üzerine, Dairece; ''....bilirkişilerce belirlenen taşınmazın değeri üzerinden karar ve ilam harcına hükmedilmesi gerekirken sadece ecrimisil bedeli esas alınmak suretiyle karar ve ilam harcı alınması, eksik harcı tamamlanmadığı halde dava konusu taşınmazların değeri ve kabul edilen ecrimisil miktarının toplamı üzerinden davacı lehine vekalet ücretine hükmedilmek suretiyle neticeye gidilmiş olmasının....'' doğru olmadığı belirtilmek suretiyle hüküm bozulmuş, mahkemece bozma kararına uyulmak suretiyle, elatmanın önlenmesi ve ecrimisil taleplerine ilişkin bozma öncesi kurulan hükmün kesinleştiği gerekçesi ile davanın esası hakkında karar verilmesine yer olmadığına karar verilmiştir.
@@ -69,6 +77,8 @@ Davanın kısmen kabulüne ilişkin olarak verilen kararın taraflarca temyiz ed
 Tarafların bu hususa değinen temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2013/18288 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434961000)
 
 Davalı-birleşen dosyada davacı ... vekili, birleşen dosyada tapulu taşınmaza davalı Mehmet’in ev, bağ bahçe yaparak müdahale ettiğini açıklayarak elatmanın önlenmesine, kal’e karar verilmesini istemiş, asıl dava yönünden de kazanma koşullarının oluşmadığını, zilyetliğin 2001 yılına kadar başlangıç ve süresinin hava fotoğrafları ile belirlenmesi gerektiğini,taşınmazın davacının talebi ile idari yoldan ... adına tescil edildiğini açıklayarak davanın reddini savunmuştur.
 
@@ -84,6 +94,8 @@ Yukarıda açıklanan nedenlerle davalı-birleşen dosyada davalı ... vekilinin
 
 ## Yargıtay 1. HD 2013/17736 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79360900)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Mahkemece, yargılama sırasında taşınmaz tahliye edildiğinden elatmanın önlenmesi isteği yönünden karar verilmesine yer olmadığına, davalının aralarındaki birliktelik nedeniyle taşınmazı davacıya devrettiği, devirden sonra da kullanmaya devam ettiği, davacının taşınmazın tahliyesi yönünde herhangi bir ihtarda bulunmadığı, kullanımın davacının iradesine uygun olarak gerçekleştiği gerekçesiyle ecrimisil isteğinin reddine karar verilmiştir.
@@ -95,6 +107,8 @@ Dava elatmanın önlenmesi isteği bakımından 20.500,00-TL değer gösterilere
 Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2013/15282 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/267498100)
 
 Dava, dava konusu taşınmazın tapusunun iptali ve tescil, karşı dava ise kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -109,6 +123,8 @@ Mahkemece davanın reddine, karşı davanın ise kabulüne karar verilmiş; hük
 Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 1. HD 2013/14597 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79636100)
 
 Dava, elatmanın önlenmesi, yıkım, ecrimisil ve tazminat isteklerine ilişkindir.
 
@@ -125,6 +141,8 @@ Davacının temyiz itirazı değinilen yönler itibariyle yerindedir. Kabulü il
 
 ## Yargıtay 14. HD 2013/13314 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/659731100)
+
 Mahkemece davanın reddine, karşı davanın ise kabulüne karar verilmiştir.
 
 …
@@ -134,6 +152,8 @@ Somut olayda; dava ve karşı dava 6100 sayılı HMK’nın yürürlüğe girmes
 SONUÇ: Temyiz itirazlarının yukarıda açıklanan nedenlerle kabulü ile kararın BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/12235 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79465000)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve tazminat isteklerine ilişkindir.
 
@@ -151,6 +171,8 @@ Davalıların temyiz itirazı yerindedir. Kabulüyle, hükmün açıklanan neden
 
 ## Yargıtay 1. HD 2013/10964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79689600)
+
 Dava, elatmanın önlenmesi ve eski hale getirme isteğine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiştir.
@@ -166,6 +188,8 @@ Bu nedenle mahkemece sadece dilekçede belirtilen değer esas alınmak suretiyle
 Hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/10476 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914512600)
 
 Davacı, kayden paydaş olduğu 2608 parsel sayılı taşınmazda bulunan mesken ve ahırı davalıların işgal ettiklerini, valiliğe yaptığı müracaatın da süre yönünden reddedildiğini ileri sürerek, el atmanın önlenmesi, taşınmazın tahliyesi ve 3.000.00-TL ecrimisilin davalılardan tahsilini istemiştir.
 
@@ -187,6 +211,8 @@ yolu ile alınan 1.615,70 TL 'sinin mahsubu ile bakiye 1.148.46-TL harcın davac
 
 ## Yargıtay 1. HD 2013/8934 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79787700)
+
 Asıl ve birleşen davalar, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, asıl ve birleştirilen davaların kısmen kabulüne dair verilen kararın bir kısım davalılar ile dahili davalılar vekili tarafından temyizi üzerine, Dairece; “...
 Elatmanın önlenmesi isteği yönünden davanın kabul edilmiş olmasında kural olarak bir isabetsizlik bulunmadığı, ancak elatma isteği yönünden harç ikmalinin yapılmamasının yasal olmadığı, öte yandan; asıl ve birleşen davalarda ecrimisil isteğinin reddine karar verildiğine göre, asıl ve birleşen davaların ayrı ayrı değerlendirilerek, vekille temsil edilen davalılar lehine reddedilen ecrimisil tutarı üzerinden ayrı ayrı vekalet ücretine karar verilmesi gerekirken, tek vekalet ücretine karar verilmiş olmasının da doğru olmadığı, diğer taraftan; asıl davanın davalılarından S..T..'un dava tarihinden önce 04.02.1980 tarihinde ölmüş olduğu kayden sabit olduğuna göre bu davalı yönünden açılan davanın reddi gerekirken, sonradan davaya dahil edilen mirasçıları hakkında el atmanın önlenmesi isteği yönünden davanın kabulü yönünde hüküm kurulmuş olmasının da isabetsiz olduğu ” hususlarına değinilerek bozulmuş, mahkemece bozma ilamına uyularak asıl ve birleşen davaların kısmen kabulüne karar verilmiştir.
 
@@ -197,6 +223,8 @@ Davalı S.S. vekili, davalı F.B. vekili, davalı F.T. E.T.C..T.ve Ş. T.vekilin
 …
 
 ## Yargıtay 1. HD 2013/8370 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79717300)
 
 Dava, imar parseline elatmanın önlenmesi, yıkım ve taşınmazın teslimi isteğine ilişkindir.
 
@@ -210,6 +238,8 @@ Katılma yolu ile hükmü temyiz eden davacılar vekilinin belirtilen nedenlerle
 
 ## Yargıtay 1. HD 2013/7233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79681100)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 Mahkemece, davanın kısmen kabulüne karar verilmiştir.
@@ -222,6 +252,8 @@ Davalıların bu yönlere ilişkin temyiz itirazları yerindedir. Kabulü ile h�
 
 ## Yargıtay 1. HD 2013/6555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79744700)
+
 Mahkemece, kayden davacıya ait 15948 ada 13 parsel sayılı taşınmazın 26 nolu bağımsız bölümüne davalının mülkiyetten ya da sözleşmeden kaynaklanan bir hakka dayanmaksızın oturmak suretiyle elattığı ve çekişmeli taşınmazı yargılama aşamasında boşalttığı belirlenerek konusu kalmayan elatmanın önlenmesi isteği hakkında karar verilmesine yer olmadığına; davalı davanın açılmasına sebebiyet verdiğine göre davalının harç,mahkeme masrafları ve vekalet ücretinden sorumlu tutulmasına;ecrimisil açısından da davanın kabulüne karar verilmiş olmasında kural olarak bir isabetsizlik yoktur. Davalı vekilinin bu yönlere değinen temyiz itirazları yerinde değildir.
 
 …
@@ -233,6 +265,8 @@ Eldeki davada;elatmanın önlenmesi isteği hakkında dava 20.000,00.-TL değer 
 Tafar vekillerinin temyiz itirazları değinilen yönler itibariyle yerindedir. Kabulü ile yerel mahkeme kararının açıklanan nedenlere hasren (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/5895 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79731600)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -248,6 +282,8 @@ Davacı ve bir kısım davalılar vekillerinin, temyiz itirazları değinilen y�
 
 ## Yargıtay 5. HD 2012/16416 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021296500)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, karar verilmesine yer olmadığına karar verilmiş; hüküm, davacı vekili ve davalı idare temsilcisi tarafından temyiz edilmiştir.
@@ -261,6 +297,8 @@ Buna göre yargılama masraflarından hangi tarafın sorumlu olduğu tespit edil
 Davacı vekili ile davalı idare vekilinin temyiz itirazları yerinde olduğundan, hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/13479 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79407200)
 
 Dava, elatmanın önlenmesi ve alacak isteğine ilişkindir.
 
@@ -280,11 +318,15 @@ Davalının, bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmü
 
 ## Yargıtay 1. HD 2012/12899 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79359900)
+
 O halde; iddia ve savunma doğrultusunda; taraf delillerinin, toplanması ve toplanacak deliller değerlendirilip, işin esası bakımından bir karar verilmesi gerekirken yazılı olduğu üzere hüküm kurulmuş olması isabetsiz olduğu gibi dava dilekçesinde ecrimisil bakımından değer gösterilmiş ve fakat elatılan yer yönünden bir değer belirtilmemiştir. Oysa 492 sayılı Harçlar Kanunu hükmü uyarınca elatmanın önlenmesi istekli davalarda ecrimisil de istenilmiş ise dava değerinin elatılan yerin değeri ile istenilen ecrimisilin toplamından ibaret olacağı öngörülmüştür. Öyle ise mahkemece öncelikle davacıya elatıldığı iddia edilen yer için de bir değer belirlemesi yaptırılması buna göre 492 sayılı Harçlar Kanunu'nun 30 ve 32. maddesi de gözetilmek suretiyle harcın tamamlatılarak gerekli usuli işlemlerin ikmal edilmesi gerekirken bu hususun gözetilmemesi de doğru değildir.
 
 Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/12791 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79347200)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -302,6 +344,8 @@ Davalının, temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan ned
 
 ## Yargıtay 1. HD 2012/11788 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79203300)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiştir.
@@ -314,10 +358,14 @@ Davalı S.'ın temyiz itirazı açıklanan nedenlerden ötürü yerindedir. Kabu
 
 ## Yargıtay 16. HD 2012/11063 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538519600)
+
 Meraların mülkiyeti Hazineye yararlanma hakkı köy tüzel kişiliğine ait olmakla beraber, köylünün de meraya el atıldığını ileri sürerek müdahalenin önlenmesi istemekte hukuki yararı bulunmaktadır. Her ne kadar taşınmazların kadastro tespiti davalılar adına yapılmış ise de, kadastro tespitinden önce genel mahkemede açılan el atmanın önlenmesine ilişkin dava kadastro mahkemesine aktarılmıştır. Davanın aktarılmış olması nedeniyle hukuken malik hanesi açık sayılan taşınmazlar hakkında kadastro mahkemesi 3402 sayılı Kadastro Kanunu'nun 30/2. maddesi uyarınca re'sen araştırma ilkesi çerçevesinde yargılama yaparak, gerçek hak sahibini belirlemek zorundadır. Hal böyle olunca, yasal hasım Köy Tüzel Kişiliğinin dosyaya sunulmuş olan davaya müdahale dilekçesi de harçlandırılmak suretiyle dikkate alınarak yargılamaya devam edilmeli, bundan sonra toplanmış ve toplanacak tüm deliller birlikte değerlendirilerek sonucuna göre karar verilmelidir. Bu hususun göz ardı edilmesi isabetsiz olduğu gibi, kabule göre; kadastro mahkemesince çekişmeli taşınmazlar hakkında sicil oluşturacak şekilde hüküm kurulması gerektiği göz ardı edilerek "davanın reddine" karar verilmekle yetinilmesi de yerinde değildir.
 Davacılar vekilinin temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULASINA, peşin alınan temyiz karar harcının talep halinde temyiz edenlere iadesine, 18.12.2012 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2012/10951 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641030500)
 
 Davacılar vekili dava dilekçesinde, kendilerine ait adresi yazılı taşınmaza davalı ... tarafından içinde oturmak suretiyle müdahalede bulunduğunu, davalıya yapılan bir satışın bulunmadığını, kiracıları da olmadığını açıklayarak davalı ... tarafından yapılan müdahalenin önlenmesine ve 10.000,00 TL ecrimisilin tahsiline karar verilmesini istemiştir.
 

@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2024/5595 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108362300)
+
 Dava, mülkiyet hakkına dayalı el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -28,15 +30,21 @@ Dava, mülkiyet hakkına dayalı el atmanın önlenmesi ve ecrimisil istemine il
 
 ## Yargıtay 7. HD 2023/5117 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980912300)
+
 Erzurum Bölge Adliye Mahkemesi 1. Hukuk Dairesinin 05.04.2022 tarihli ve 2019/2081 Esas, 2022/593 Karar ... kararında belirtilen "...yeniden değerleme oranındaki artış sonucu yerel mahkeme hükmünün verildiği 2019 yılı için HMK'nın 341/2 nci maddesindeki kesinlik sınırının 4.400,00 TL olduğu, mahkemece ..., ..., ... için 2.367,05'şer TL ecrimisile hükmedildiği, paydaşlar arasında zorunlu dava arkadaşlığı bulunmadığı, davalı bakımından davacıların her biri için hükmedilen miktarların karar tarihi olan 2019 yılı itibariyle istinaf kesinlik sınırı olan altında kaldığı, hal böyle olunca 6100 ...
 HMK'nın 341, 346/1 ve 352 nci maddeleri gereğince, hüküm tarihi itibarı ile kesin olan karara ilişkin istinaf başvurusunda bulunan davalı vekilinin istinaf dilekçesinin reddine karar verilmesinin gerektiği, mahkemece el atmanın önlenmesi talebi yönünden ise ortaklığın giderilmesi davası açıldığı gerekçesiyle davanın hukuki yarar yokluğu nedeniyle ile reddine karar verilmiş ise de ortaklığın giderilmesi davası açılması veya sonuçlanmasının davacıların el atmanın önlenmesi isteğine engel olmadığı, buna göre davacıların el atmanın önlenmesi davası açmakta hukuki yararının bulunduğu anlaşılmakla mahkemece davalının davacıların payına yönelik el atmanın önlenmesi talebinin kabulüne karar verilmesi gerekirken reddine karar verilmesinin doğru olmadığı..." gerekçesiyle davalı vekilinin istinaf talebinin davacılar ..., ... ve ... yönünden usulden reddine; geri kalan davacı ... yönünden ise esastan reddine; davacılar vekilinin istinaf talebinin kısmen kabulü ile ilk derece mahkemesi hükmünün kaldırılarak davanın kısmen kabulü ile "Artvin ili, Merkez ilçesi, Dere Mahallesi, ...
 Caddesi 269 ada 5 parsel ... taşınmazın davacıların tapu kaydındaki 1/2 payları oranında el atmanın önlenmesine, davacıların ecrimisil taleplerinin kısmen kabul-kısmen reddi ile; toplam 14.202,33 TL nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak 7.101,16 TL'nin davacı ...'a, 2.367,05 TL'nin ise ayrı ayrı davacılar ..., ... ve ...'a verilmesine, fazlaya ilişkin talebin reddine" karar verilmiştir.
 
 ## Yargıtay 1. HD 2022/6613 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853522700)
+
 3.3.1. Somut olayda, keşfen saptanan ecrimisil miktarı 12.557,00 TL olup, bu değerin 2022 yılı itibarıyla temyiz kesinlik sınırı olan 107.090,00 TL’nin altında kaldığı ve temyiz kesinlik sınırı içinde kalması nedeniyle temyiz kabiliyeti bulunmayan kararların temyizi hakkında 01.06.1990 tarihli ve 3/4 sayılı İçtihadı Birleştirme Kararı uyarınca Yargıtayca da bir karar verilebileceği açık olduğundan, davalı ...’ın ecrimisile yönelik temyiz dilekçesinin reddi gerekmektedir.
 
 ## Yargıtay 7. HD 2022/6401 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/831787600)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -46,6 +54,8 @@ Dava, ecrimisil istemine ilişkindir.
 
 ## Yargıtay 7. HD 2022/4565 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792812600)
+
 Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 
 …
@@ -53,6 +63,8 @@ Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 Ayrıca; dava, ecrimisil talebine ilişkin olup, davalılar arasında zorunlu dava arkadaşlığı bulunmamaktadır. Davalılar arasında zorunlu dava arkadaşlığı bulunmadığına göre, temyiz sınırının her bir davalı yönünden ayrı ayrı belirlenmesi gerekmektedir.
 
 ## Yargıtay 8. HD 2021/4656 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683339900)
 
 Dava, haksız kullanım iddiasına dayalı ecrimisil istemi ile taşınmazlara elatmanın önlenmesi istemine ilişkin olup elatmanın önlenmesi yönünden gerekli harçlar yatırılmadığından bu hususta karar verilmesine yer olmadığı kararı verilmiş, ecrimisil istemi esastan incelenerek hüküm kurulmuştur.
 
@@ -64,11 +76,15 @@ Bilindiği üzere; 6100 sayılı HMK'nin 362. maddesinde Bölge Adliye Mahkemele
 
 ## Yargıtay 8. HD 2020/5972 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609698000)
+
 Dava, ecrimisil talebine ilişkindir.
 
 6100 sayılı HMK’ye 6217 Sayılı Kanun'la eklenen Geçici 3.madde hükmü gözetilerek HUMK’un 14.07.2004 tarihli ve 5219 sayılı Kanun'la değişik 427. maddesi uyarınca, karar tarihinde temyiz sınırı 2.190,00 TL olup, temyiz konusu yapılan ecrimisil miktarı temyiz kesinlik sınırının altında kalmaktadır.
 
 ## Yargıtay 8. HD 2020/5927 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638387600)
 
 Dava, paydaşlar arasında elmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -78,6 +94,8 @@ Bilindiği üzere; paylı mülkiyette taşınmazdan yararlanamayan paydaş, enge
 
 ## Yargıtay 8. HD 2019/5626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519114900)
+
 Dava, müdahalenin men'i, kâl ve ecrimisil istemlerine ilişkindir.
 
 …
@@ -86,9 +104,13 @@ Somut olayda mahkemece 490,00 TL ecrimisilin kabulüne hükmedilmiş olup, 6100 
 
 ## Yargıtay 8. HD 2019/5347 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646859900)
+
 Somut olayda Mahkemece, toplam 20,49 TL ecrimisile hükmedildiğine göre, temyiz edilen miktar, 2016 karar tarihindeki, kesinlik sınırı olan 2.190,00 TL'yi geçmemektedir. Kesin olan kararların temyiz istemleri hakkında Mahkemece bir karar verilebileceği gibi 01.06.1990 tarihli ve 3/4 sayılı İçtihadı Birleştirme kararı uyarınca Yargıtayca da temyiz isteminin reddine karar verilebilir. Temyiz edilen miktar kesinlik sınırı içinde kaldığından, 6100 Sayılı HMK'nin 3. maddesi yollaması ile HUMK'un 427/2 ve 432/4 maddeleri uyarınca temyiz isteminin reddine karar vermek gerekmiştir.
 
 ## Yargıtay 8. HD 2019/5277 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647005100)
 
 Dava elatmanın önlenmesi ve ecrimisil talebine ilişkindir.
 
@@ -97,6 +119,8 @@ Dava elatmanın önlenmesi ve ecrimisil talebine ilişkindir.
 6100 sayılı HMK’ye 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK’un 14.07.2004 tarih, 5219 sayılı Kanunla değişik 427.maddesi uyarınca, karar tarihinde temyiz sınırı 1.890 TL olup, temyiz konusu yapılan ecrimisil miktarı 1100 TL olduğundan temyiz kesinlik sınırının altında kalmaktadır.
 
 ## Yargıtay 8. HD 2018/19948 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/476095500)
 
 Dava ; Ecrimisile ilişkindir.
 
@@ -111,6 +135,8 @@ Davalı asil ...’in elatmanın önlenmesine ilişkin temyiz itirazlarına geli
 
 ## Yargıtay 8. HD 2018/17186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478758300)
+
 Dava, tapulu taşınmazda elatmanın önlenmesi, ecrimisil ve tazminat istemine ilişkindir.
 
 …
@@ -119,10 +145,14 @@ Dava, tapulu taşınmazda elatmanın önlenmesi, ecrimisil ve tazminat istemine 
 
 ## Yargıtay 13. HD 2018/7216 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/428730600)
+
 14.7.2004 günlü ve 5219 sayılı yasa ile HUMK.nun 427/2 maddesindeki temyiz ile ilgili parasal sınır 1.000.000.000 TL, 5236 sayılı yasanın 19. maddesi uyarınca 1.1.2013 tarihinden itibaren 1.820,00 TL. ye çıkarılmıştır. Anılan yasada derdest davalar yönünden ne şekilde uygulanacağı yönünde açık bir uygulama hükmü bulunmamakta ise de Yargıtay Hukuk Genel Kurulunun 23.2.2005 gün ve esas 2005/13-32, karar 2005/85 sayılı kararı uyarınca yerel mahkemelerce kurulan hükümlerin temyizinin ve temyiz incelemesi sonucunda Yargıtay daireleri ya da Hukuk Genel Kurulunca verilen kararlara karşı karar düzeltme yoluna gidilmesi durumunda temyiz ya da karar düzeltme istemi hangi karara yönelik ise, o karar tarihinde yürürlükte bulunan kanun hükmünün esas alınacağı belirtilmiştir. Davacının talebi sözleşmenin imzalandığı tarih olan 19.10.2010'dan fesih tarihi olan 25.02.2011 tarihine kadar ödenmesi gereken 2.100,00 TL kullanım bedeli ile ihtarname tarihinden taşınmazın teslim edileceği tarihe kadar aylık 500,00 TL ecrimisil bedelinin tahsiline ilişkindir.
 Davacı her ne kadar fesih tarihinden taşınmazın teslim edileceği tarihe kadar aylık 500,00 TL ecrimisil bedelinin ödenmesine karar verilmesini talep etmişse de, her dava açıldığı tarih itibariyle değerlendirilip karara bağlandığından, mahkemece, en fazla fesih tarihi olan 25.02.2011 ile dava tarihi olan 12.05.2011 tarihleri arasında davacının talebi doğrultusunda aylık 500,00 TL'den 2 ay 16 gün için yaklaşık 1.250,00 TL'ye hükmedilebilecektir. Davacının bu talebi ile ilgili kısmen kabul edilen miktarın talep edebileceği miktardan düşülmesi neticesinde (1.250,00 TL-381,12 TL) kısmen reddedilen miktar 868,88 TL olup, bu miktar 1.820,00 TL. yi geçmediğinden HUMK.nun 5219 sayılı yasa ile değiştirilen 427.maddesinin 2. fıkrası gereğince davacının temyiz hakkı bulunmamaktadır. O nedenle, davacının miktar itibariyle kesin olan karara ilişkin temyiz dilekçesinin reddine karar verilmesi gerekmiştir.
 
 ## Yargıtay 1. HD 2015/9278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142036500)
 
 Aynı yargılama sınırları içinde birden fazla bağımsız davanın bulunması hali olarak nitelendirilen dava birleşmesini iki guruba ayırmak mümkündür. Bunlardan birincisi, davacı veya davalı yanda veyahut hem davacı hemde davalı yanda, taraf çokluğu olması sebebiyle doğan “ subjektif dava birleşmesi”; diğeri ise aynı yargılama sınırları içinde ve taraflardan birinin diğerine karşı birden fazla davasının bulunması halinden doğan “ objektif dava birleşmesidir”.
 ( .................., Medeni Usul Hukukunda Dava Ortaklığı,S:30, Aynı yönde,....................... , Hukuk Yargılama Usulleri, S:83,129.) Bir davada objektif dava birleşmesinden bahsedebilmek için; taraflarının aynı olması, başka bir deyişle davacının, birden fazla talebini aynı davalıya karşı ileri sürmesi, birbirinden bağımsız birden fazla asli talebin bulunması, taleplerin aynı yargı çeşidi içinde yer alması ve aynı yargılama usulüne tabi olması gerekir.Davaların yığılmasında (Objektif Dava Birleşmesi) görünüşte tek bir dava dilekçesi bulunmasına rağmen aslında dava dilekçesinde belirtilen talep sayısı kadar birbirinden ayrı, bağımsız dava vardır ve yargılamada her bir dava (talep) bağımsız olarak ayrı ayrı işlem görür ve karara bağlanır (Kuru/Arslan/Yılmaz: Medeni Usul Hukuku Ders Kitabı, Ankara 2011, S:284,285). Yalın bir ifade ile taleplerden birinden vazgeçilmesi veya takip edilmemesi halinde diğer talep açısından yargılamaya devam edilerek ayrı bir hüküm kurulabiliyorsa objektif dava birleşmesi mevcuttur.Somut olayda; davacı, aynı dava dilekçesi ile davalıya karşı elatmanın önlemesi ve ecrimisil taleplerini aynı davada birleştirmiştir.
@@ -131,6 +161,8 @@ Davacı talepleri yönünden objektif dava birleşmesi söz konusu olup birlikte
 Her biri ayrı dava konusunu oluşturan davacı tarafın talepleri ile ilgili olarak her bir dava (talep) için verilen karar diğerinden bağımsız olduğundan temyiz kesinlik sınırının davaların toplam değerine göre değil her dava için ayrı ayrı ele alınması gerektiğinden davacı lehine hükmedilen ecrimisil alacağı temyiz kesinlik sınırı altında kaldığından davalı vekilinin ecrimisile ilişkin temyiz isteminin reddine karar verilmesi gerektiği görüşüyle sayın çoğunluğun ecrimisil istemini de kapsar şekilde onama yönündeki görüşüne katılmıyoruz.
 
 ## Yargıtay 1. HD 2015/2716 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390200600)
 
 Dava, elatmanın önlenmesi , yıkım ve ecrimisil isteklerine ilişkindir.
 

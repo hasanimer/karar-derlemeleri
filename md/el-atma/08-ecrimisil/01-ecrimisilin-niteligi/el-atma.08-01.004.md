@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2011/10981 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79385400)
+
 Davacı, kayden maliki olduğu 4558 parsel sayılı taşınmazına komşu davalıya ait 12921 sayılı parsel üzerindeki binanın taşkın olduğunu, bu binanın çatı oluklarından akan su ve bodrumdan sızan pis sulardan zarar gördüğünü, ayrıca davalının jeneratörünün de 4558 sayılı parselinin üzerinde kaldığını ileri sürerek, taşkın binayla ilgili elatmanın önlenmesi ve yıkım hakkını saklı tutarak, jeneratörün kaldırılması, binadan akan suyun tamir edilmesi ve bodrumdan sızan pis suyun önlenmesi ile ecrimisil isteklerinde bulunmuştur.
 
 Davalı taraf, iddiaların doğru olmadığını belirtip, davanın reddini savunmuştur.
@@ -44,6 +46,8 @@ Birkısım davalılar vekilinin, bu yöne değinen temyiz itirazları yerindedir
 
 ## Yargıtay 1. HD 2011/9616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918240200)
+
 Davacı, davalıların murisi Ömer ile kayden paydaş oldukları 54, 60, 64 ve 285 parsel sayılı taşınmazları davalıların kullandığını ve kendisinin istifade edemediğini ileri sürerek, payına vaki el atmanın önlenmesi ve ecrimisile karar verilmesini istemiş, yargılama sırasında 60 nolu parsel ile ilgili davasından vazgeçmiş, ölümü ile de mirasçıları davayı sürdürmüşlerdir.
 
 Davalılar, çekişme konusu taşınmazlara karşılık, davacının başka parseller kullandığını belirterek, davanın reddini savunmuşlardır.
@@ -56,6 +60,8 @@ Davacıların payı oranında elatmanın önlenmesine karar verilmiş olmasında
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Tarafların temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2011/9464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78775600)
 
 Davacılar (birleşen dosya davalıları), maliki oldukları 6877 parsel sayılı taşınmaz hakkında muris muvazaası nedeniyle açılan dava sonucu davalılar lehine iptal ve pay oranında tescile dair verilen kararın kesinleştiği, ancak taşınmaz üzerine kendilerinin ruhsatlı bina inşa ettiklerini kat irtifakı tesis ederek yapı kullanma izinlerini aldıklarını, davalıların yapıya hiçbir katkılarının bulunmadığını ileri sürerek, 15 adet bağımsız bölüm bakımından adlarına kayıtlı olanları kendilerinin yaptığının tespitini istemişler, davalıların davasının da reddini savunmuşlardır.
 
@@ -73,6 +79,8 @@ Hal böyle olunca, davacıların yukarıda değinilen hususlara yönelik temyiz 
 
 ## Yargıtay 3. HD 2011/9422 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/962296900)
+
 Davacı vekili; tarafların ortak murisi ...'ın vefatı ile Sincan adresindeki akaryakıt istasyonu olarak kullanılan gayrimenkulün davalı-mirasçılar ve müvekkiline intikal ettiğini, akaryakıt istasyonunun gelirlerinden davalıların yararlandığını, müvekkilin mağduriyetine sebep oldukların ileri sürerek, beş yıl için toplam 39.500,00 TL ecrimisil tutarının faizi ile birlikte tahsiline karar verilmesini talep ve dava etmiştir.
 
 …
@@ -88,6 +96,8 @@ Ecrimisil (haksız işgal) tazminatı 8.3.1950 gün ve 22/4 sayılı İçtihadı
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 1. HD 2011/2296 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78605600)
 
 Davacı, kayden maliki olduğu 2 ve 3 parsel sayılı taşınmazları kullanmalarına ilişkin muvafakatını geri almasına karşın davalıların taşınmazları kullanmaya devam ettiklerini ileri sürerek, elatmanın önlenmesi ve ecrimisil istemiştir.
 
@@ -111,6 +121,8 @@ O halde, davalılıların, bu yönlere ilişkin olarak temyiz itirazları yerind
 
 ## Yargıtay 3. HD 2011/1565 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/961944200)
+
 Mahkemece, davanın kabulü ile “11.449,35 TL ecrimisil bedelinin davalılardan alınarak davacılara verilmesine,” karar verilmiş, hüküm davalılar vekili tarafından temyiz edilmiştir.
 
 …
@@ -122,6 +134,8 @@ O halde; yukarıda açıklanan nedenlerden ötürü, ecrimisilin bölünebilir b
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2011/1432 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960656000)
 
 Davalı taraf savunmasında yetki itirazında bulunmuştur.
 
@@ -137,12 +151,16 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 20. HD 2010/13371 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/825326800)
+
 3402 Sayılı Yasanın 14/1. maddesinde yazılı 40 ve 100 dönüm kısıtlama araştırmasının aynı maddenin 03/07/2005 gün ve 5403 Sayılı Toprak Koruma ve Arazi Kullanma Yasası ile değiştirilen 2. fıkrası hükümlerine göre yapılacağı düşünülerek, adına tescil kararı verilecek kişi ya da kişiler ile diğer mirasçılar ve onların miras bırakanları yönünden aynı çalışma alanı içerisinde belgesizden zilyetliğe dayalı olarak tesbit ve tescil edilen taşınmaz olup olmadığı, varsa cinsi, parsel numaraları ve miktarı, Tapu Sicil ve Kadastro Müdürlüklerinden ve yine, aynı kişiler tarafından açılan tescil davası olup olmadığı Hukuk Mahkemesi Yazı İşleri Müdürlüklerinden ayrı ayrı sorularak gerektiğinde tesbit tutanak örnekleri ve tapu kayıtları ya da tescil dava dosyaları getirtilip incelenmeli, davacı ya da miras bırakanının haksız işgal tazminatını kaç yıl ödediği belirlenmeli, haksız işgal tazminatı ödemesinin Hazinenin üstün hakkı olduğunu kabul etmesi nedeniyle davacı tarafından sürdürülen zilyetliğin malik sıfatıyla olmadığından zilyetlik koşullarının davacı yararına oluşmadığı düşünülmeli, dava konusu taşınmazın sulu ya da kuru tarım arazisi olup olmadığı konusunda (5403 Sayılı Yasanın 3/j maddesi
 ile Taşınmaz Malların Sınırlandırma Tespit ve Kontrol İşleri Hakkındaki Yönetmeliğin değişik 10. maddesinin ikinci fıkrası hükümlerine göre, sulu tarım arazisi: tarım yapılan bitkilerin büyüme devresinde ihtiyaç duyduğu suyun, su kaynağından alınarak yeterli miktarda ve kontrollü bir şekilde karşılandığı araziler olarak açıklandığından) ... mühendisinden yasanın amacına uygun rapor alınmalı, ecrimisil ödendiğinin saptanması halinde dava açıp açmadıkları da araştırılarak açıklanan ilkeler doğrultusunda toplanan delillerin tümü birlikte değerlendirilerek sonucuna göre bir karar verilmelidir.
 
 SONUÇ: Yukarıda açıklanan nedenlerle; davacı ...'ın temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/12750 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78462800)
 
 Davacı, davalı ile kayden paydaşı olduğu 23 sayılı parselde 21 nolu bağımsız bölümün tamamını davalının kullandığını, buna muvafakatının olmadığını ileri sürerek, elatmanın önlenmesi ve ecrimisile karar verilmesini istemiştir.
 
@@ -162,6 +180,8 @@ Davacının, bu yöne değinen temyiz itirazları yerindedir. Kabulü ile hükm�
 
 ## Yargıtay 3. HD 2010/11026 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968101000)
+
 Ecrimisil ise; haksız işgal tazminatı olup, 08.03.1950 gün ve 22/4 ... Yargıtay İçtihadı Birleştirme Kararında haksız eylem olarak nitelendirilmiştir. Bu nedenle; ecrimisil davaları taşınmazın aynına ilişkin davalardan olmayıp, HUMK'nun 13.maddesindeki kesin yetki kuralının bu davalarda uygulama imkanı bulunmamaktadır. Genel yetki kuralları uyarınca davalının ikametgahının bulunduğu yer mahkemesinde dava açılabileceği gibi, HUMK.nun 21.maddesine göre haksız işgalin vuku bulduğu yer mahkemesinde de dava açılabilir.
 
 …
@@ -169,6 +189,8 @@ Ecrimisil ise; haksız işgal tazminatı olup, 08.03.1950 gün ve 22/4 ... Yarg�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 1. HD 2010/5863 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78648900)
 
 Davacı, davacının maliki olduğu 233 parsel sayılı taşınmaz üzerinde yapılmış olan apartman dairesine davalının haklı ve geçerli bir nedeni bulunmaksızın kullanmak suretiyle müdahale ettiğini ileri sürerek, elatmanın önlenmesi ve ecrimisile karar verilmesini istemiştir.
 
@@ -188,6 +210,8 @@ Davacının, ecrimisil dışındaki sair temyiz itirazlarının kabulü ile, hü
 
 ## Yargıtay 1. HD 2010/5516 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78593800)
+
 Davacı, kayden 2/8 oranında paydaşı olduğu 430 ada 67 parsel sayılı taşınmazın, davalı tarafından depo olarak kullanılmak suretiyle işgal edildiğini ileri sürerek, elatmanın önlenmesi ve ecrimisil isteğinde bulunmuştur.
 
 Davalı, dava konusu taşınmazı paydaşlardan kiraladığını belirterek, davanın reddini savunmuştur.
@@ -206,9 +230,13 @@ O halde, davalının tüm temyiz itirazları yerinde değildir. Reddine, davacı
 
 ## Yargıtay 18. HD 2010/5094 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802923500)
+
 Haksız işgal tazminatı istemi yönünden davanın HUMK 409. maddesi gereğince açılmamış sayılmasına karar verilmiş olmasına rağmen kendilerini vekil ile temsil ettiren davalılar lehine yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 7. maddesi uyarınca maktu vekalet ücretine hükmedilmesi gerektiğinin düşünülmemesi doğru değil ise de, bu yanılgının giderilmesi yeniden yargılama yapılmasını gerektirmediğinden, hüküm fıkrasının "4-" nolu bendinin sonuna "310'ar TL’lik maktu vekalet ücretinin davacıdan alınarak davalılara verilmesine" sözcüklerinin yazılmak suretiyle hükmün düzeltilmesine ve düzeltilmiş bu şekli ile ONANMASINA, aşağıda yazılı bakiye onama harçlarının temyiz eden davalılara yükletilmesine, 01.04.2010 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2009/4671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78459600)
 
 Davacı,kayden maliki olduğu 5 parça taşınmaza davalıların yol açmak,maden ocağı ağzı oluşturmak suretiyle müdahale ettiklerini,maden çıkararak zarar verdiklerini ileri sürüp elatmanın önlenmesine,taşınmazın eski hale getirilmesine ve 1603 parselden istihsal edilen maden bedelinin tahsiline karar verilmesini istemiştir.
 
@@ -225,6 +253,8 @@ Bu itibarla,davalıların davacının maliki ve paydaşı bulunduğu çekişmeli
 Hal böyle olunca;yerinde yeniden keşif yapılarak davalılar tarafından müdahale edilen taşınmazları infazda duraksamaya yer vermeyecek şekilde gösterir kroki düzenlettirilmesi,davacının müdahaleye konu taşınmazları kullanamamaktan kaynaklanan tazminat miktarının (ecrimisilin) belirlenmesi ve bu şekilde belirlenecek tazminatın ayrıca davada eski hale getirme isteği de bulunduğu ve 3213 Sayılı Yasanın 4. Maddesi gereğince taşınmazdan istihraç edilen madenin devlete ait olacağı ve maden üzerinde taşınmaz malikinin bir hakkının varlığından söz edilemeyeceği gibi aynen yerine konulamayacağı gözetilerek bundan kaynaklanan davacının doğan bir zararı varsa ne gibi bir önlemle zararın giderilebileceği konusundaki önlem ve tedbirlerin tespit edilmesi, gerektiğinde tazminatın da bir önlem olarak düşürülmesi ve ondan sonra durumun değerlendirilerek çekişmenin hüküm altına alınması gerekirken değinilen yönler göz önünde tutulmaksızın noksan soruşturma ile yetinilerek yazılı olduğu üzere hüküm tesisi isabetsizdir. Davalıların temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerle HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2008/11355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78417300)
 
 Davacı; idarelerinin maliki olduğu 1097 parsel sayılı taşınmazın 204.800 m2'lik bölümünü davalı idarenin haklı ve geçerli bir nedeni olmaksızın tarım yapmak suretiyle kullandığını ileri sürerek elatmanın önlenmesi, eski hale getirilmesi ve ecrimisil isteklerinde bulunmuştur.
 
@@ -246,6 +276,8 @@ O halde, davalının bu yöne değinen temyiz itirazı yerindedir. Kabulü ile h
 
 ## Yargıtay 1. HD 2008/4772 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77960800)
+
 Davacılar vekili, 2255 ada 397 parsel sayılı taşınmazda müvekkili M.P.n paydaş, diğer davacının taşınmazı kiralamaya yetkili vekil olduğunu, davacı L.nün taşınmazı dava dışı S. H... kiraladığını, ancak 2006 yılının eylül ayında taşınmazın kiracı tarafından davalıya devredildiğini öğrendiklerini ve S.aleyhine açılan tahliye davasının kabul ile sonuçlandığını, davalının fuzuli şagil olduğunu ileri sürerek, elatmanın önlenmesi, tahliye ve ecrimisil isteminde bulunmuşlardır.
 
 Davalı, davanın reddini savunmuştur.
@@ -262,6 +294,8 @@ Hal böyle olunca, haksız işgalcinin taşınmaz malikine ödemekle yükümlü 
 
 ## Yargıtay 14. HD 2007/9138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852724900)
+
 Dava, elatmanın önlenmesi, tahliye ve 2770 YTL ecrimisilin tahsili istemine ilişkindir.
 
 …
@@ -271,6 +305,8 @@ HUMK.nun 21.7.2004 tarihinde yürürlüğe giren 5219 sayılı Yasa ile değişi
 SONUÇ: Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2007/4703 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850979000)
 
 Mahkemece elatmanın önlenmesi isteminin kabulüne, haksız işgal tazminatı isteminin kısmen kabulüne karar verilmiş, …
 
@@ -282,6 +318,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/4569 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855993200)
+
 Davacı kiralayan, eldeki davada kiralananın haksız işgal edilmesi nedeni ile davalının alacaklı olduğu bir kısım meblağ mahsup edildikten sonra 31.08.2003-30.08.2004 ve 31.08.2004-31.05.2005 dönemlerindeki alacağı olan 270.240.00.YTL.nin tahsilini istemiş, mahkemece dava kabul edilmiş, hükmü davalı temyiz etmiştir.
 
 Yanlar arasındaki 31.08.1999 başlangıç tarihli 3 yıl süreli hasılat kira sözleşmesi sözleşmenin 8 ve 12.maddelerine dayanılarak İl Daimi Encümenince belirlenen yıllık kira parasının davalı tarafından fahiş bulunarak ödenmeyeceğinin 02.09.2002 tarihinde bildirilmesi ve davacı kiralayanın da sözleşmenin 12.maddesine dayanarak kiralanandan tahliye edilmesi istenmesi üzerine feshedilmiştir. 05.09.2002 tarihinden sonra davalının kiralanan mahalli elinde tutması haksız işgaldir. Sözleşme Borçlar Kanunu'nun 287.maddesi uyarınca feshedilmiş bulunduğundan, bu tarihten sonraki kira alacaklarının belirlenmesinde feshedilen sözleşme hükümlerinden yararlanılamaz. Dava konusu yapılan dönemler için haksız işgal tazminatının, İl Daimi Encümenince belirlenen tutar olduğunun kabulü ile istemin buna uygun hüküm altına alınması açıklanan nedenle doğru olmamıştır.
@@ -292,6 +330,8 @@ SONUÇ : Yukarıda açıklanan nedenlerle; davalının temyiz itirazlarının ka
 
 ## Yargıtay 18. HD 2005/1889 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16430200)
+
 Dava anataşınmazın ortak yerine kurulan baz istasyonunun kaldırılması ve ayrıca ecrimisil (haksız işgal tazminatı) istemine ilişkindir.
 
 …
@@ -301,6 +341,8 @@ Dava anataşınmazın ortak yerine kurulan baz istasyonunun kaldırılması ve a
 Yukarıda açıklanan nedenlerle dosyadaki yazılara, gerektirici yasal nedenlere göre yerinde bulunmayan bütün temyiz (ONANMASINA)
 
 ## Yargıtay 1. HD 2004/2156 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16347800)
 
 Davacı, kayden maliki bulunduğu imar planında "Belediye Hizmet Atanı" olarak ayrılan 4 parsel sayılı taşınmazına davalının ev ve bahçe yapmak suretiyle müdahalede bulunduğunu iteri sürüp, elatmanın önlenmesi, yapıların yıkımı ve tazminatın tahsiline karar verilmesini istemiştir.
 
@@ -343,6 +385,8 @@ Bilirkişi raporlarıyla 30/10/2013 – 30/10/2018 tarihleri arasındaki 5 yıll
 Bölge Adliye ve Adli Yargı İlk Derece Mahkemeleri ile Cumhuriyet Başsavcılıkları İdari ve Yazı İşlerinin Yürütülmesine Dair Yönetmeliğin 203. maddesi uyarınca dava dosyasının tarih ve işlem sırasına düzenlenip dizi listesine bağlanmasına, Yazı İşleri Müdürü tarafından kontrolü yapıldıktan sonra istinaf incelemesine gönderilmesine veya mahkememiz arşivine kaldırılmasına …
 
 ## İstanbul BAM 13. HD 2025/914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148661800)
 
 Borçlar Kanunu'ndaki hükümlere göre tasnifinin mümkün olmadığını, Örneğin yerel mahkeme kararında; 'davacının kiraya veren, davalının kiralayan olduğu, kira sözleşmelerinin süresinde yenilenmese de kendiliğinden uzayabileceği dolayısı ile davacı tarafın icra takibine konu ettiği alacak ilişkisinin kira sözleşmesine dayalı olması sebebi' karara gerekçe gösterilmişse de; esasen tabi olunan üst kanunlara göre taraflar arasındaki işletme işi sözleşmesinin bu şekilde kendiliğinden uzamayarak; meclis kararı süresinin dolması, alt ihale süresinin sona ermesi, ihale şartlarının sağlanmaması, ihalenin iptali veya sair nedenlerle sona erebileceğini; bu hususların da sulh hukuk mahkemelerince değerlendirilmesinin usul kanununa ve hukuka uygun olmayacağını, İcra takibine konu alacağın haksız işgalden kaynaklı doğduğunu, Davalı ile yapılan işletme sözleşmesinin süresinin 30.11.2017 tarihinde meclis kararıyla verilen sürenin dolması ile birlikte son bulduğunu; sözleşmenin 5. maddesine göre 30.06.2017 tarihinde sözleşme süresi sona ermekte olup, sözleşmenin süre sonunda devam edeceğine ilişkin hiç bir hüküm de bulunmamasına rağmen davalı borçlu büfeyi tahliye etmeksizin haksız işgal suretiyle
 kullanmaya devam ettiğini; ... büfelerininde 30.11.2017 tarihi itibariyle müvekkil şirketin tasarruf yetkisinin sonlandığını ve 17.07.2020 tarihli 604 sayılı...

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2014/28621 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96802500)
+
 Dava, kamulaştırmasız el atmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
 …
@@ -33,6 +35,8 @@ Bilirkişi heyeti yasaya uygun oluşturulmadığı gibi ecrimisil bedeli de bu y
 
 ## Yargıtay 5. HD 2014/22095 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96832800)
+
 Dava, kamulaştırmasız el atma nedeniyle; el atılan taşınmazlar bedeli, kalan kısımda oluşan zarar bedeli ve ecrimisil bedeli istemine ilişkindir.
 
 …
@@ -40,6 +44,8 @@ Dava, kamulaştırmasız el atma nedeniyle; el atılan taşınmazlar bedeli, kal
 3- 2942 sayılı Kamulaştırma Kanununun Geçici 6. maddesinde değişiklik yapan ve 11.06.2013 tarihinde yürürlüğe giren 6487 sayılı Yasanın 21.maddesi ile "kamulaştırmasız el atmadan kaynaklanan tazminat davalarında mahkeme ve icra harçları ile her türlü vekalet ücretleri bedel tespit davalarında öngörülen şekilde maktu olarak belirlenir. ... açılan ve kesinleşmeyen davalarda da uygulanır." hükmünün getirilmiş olduğu gözetildiğinde, harcın maktu olarak hüküm altına alınması gerekirken ecrimisil bedeli dışında el atılan yer bedeli ve değer azalışı bedeli yönünden de nispi harca hükmedilmesi, …
 
 ## Yargıtay 1. HD 2014/18475 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/293029800)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -51,6 +57,8 @@ Taşınmaz mal maliki, idarenin bu fiili durumuna razı olup, bedeli mukabilinde
 
 ## Yargıtay 1. HD 2014/16272 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84591200)
+
 Dava, kamulaştırmasız el atma nedeniyle ecrimisil isteğine ilişkindir.
 
 …
@@ -61,10 +69,14 @@ Hemen belirtilmelidir ki, kamulaştırmasız el atma nedeniyle tazminat davalar�
 
 ## Yargıtay 1. HD 2014/14813 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/289221100)
+
 Mahkemece; dava açıldıktan sonra 29.06.2010 tarihinde yürürlüğe giren ve 2942 sayılı yasaya ek 5999 sayılı yasanın geçici 6.maddesine göre taşınmaza kamulaştırmasız el atılması halinde öncelikle uzlaşma yoluna başvurulması, uzlaşma sağlanamaması halinde sadece tazminat davası açılması hakkının tanınmış olması nedeniyle ecrimisil talep edilemeyeceğinden davanın reddine ilişkin olarak verilen karar Yargıtay 3. Hukuk Dairesince "... ..., kötü niyetli şagilin ödemekle sorumlu bulunduğu tazminattır. Bu nedenle ... davaları haksız fiil benzeri davalar olup, TMK'nun 995.maddesinde ve 08.03.1950 gün ve 22/4 sayılı YİB kararında da kabul edildiği gibi, başkasına ait şeyi haksız olarak kullanmış olan ve bu kullanımı iyi niyete dayanmayan kimse o şeyi elinde tutmuş olmasından doğan zararları tazmin ile yükümlüdür. 2942 sayılı Kamulaştırma Kanununun hak düşürücü süreye ilişkin 38.maddesi ...
 Mahkemesinin 10.4.2003 tarih ve 2002/112 E., 2003/33 K.sayılı kararı ile iptal edilmiş, takiben 30.06.2010 tarihinde yürürlüğe giren ve geçmişe etkili olan kamulaştırma kanununda değişiklik yapılmasına dair 5999 sayılı kanun hükümlerine göre davacı ... tapu kaydı ile sahip olduğu mülkiyet hakları devam ettiğine ve dava konusu taşınmazın 96 m² lik bölümünün davalı idare tarafından yol ve kaldırım olarak kullanılmak suretiyle kamulaştırılmaksızın fiilen el konulduğunun anlaşıldığına göre mahkemece; davaya konu edilen dönemde davacının mülkiyet hakkının var olduğu gözetilerek davalının haksız işgali nedeniyle mahallinde yapılacak keşif ve alınacak uzman bilirkişi raporu doğrultusunda hüküm kurulması gerekirken, davanın reddine karar verilmesi doğru görülmemiştir." gerekçesiyle bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama sonunda davanın kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 5. HD 2014/12055 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/302036400)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -74,11 +86,15 @@ Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil is
 
 ## Yargıtay 1. HD 2014/10713 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84115300)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 Davanın reddine ilişkin olarak verilen karar 3. Hukuk Dairesince, ''..5302 sayılı İl Özel İdaresi Kanunu’nun 6/a maddesi uyarınca; ilk ve orta öğretim kurumlarının arsa teminini İl Özel İdaresi yapmakla görevli ve yetkilidir. Bu nedenle imar planında okul yeri olarak ayrılan ve kamulaştırmasız el konularak ilköğretim ve orta öğretim okulu yapılan arsa nedeniyle haksız işgal tazminatı davasının İl Özel İdaresi aleyhine açılması doğru olup, davanın esası hakkında hüküm kurmak gerekirken, yanılgılı gerekçe ile davanın husumet yönünden reddi usul ve yasaya uygun görülmemiştir.'' gerekçesiyle bozulmuş, mahkemece bozmaya uyularak yapılan yargılama neticesinde, davanın kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2014/10268 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84311600)
 
 Dava, ecrimisil talebine ilişkindir.
 
@@ -91,12 +107,16 @@ Bundan ayrı, taşınmazın getirdiği ürün itibariyle de, kendiliğinden olu�
 
 ## Yargıtay 18. HD 2014/9575 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106627200)
+
 Dava konusu taşınmazın değerlendirme tarihi olan 01/03/2011 gününde kesinleşmiş 1/1000 ölçekli uygulama imar planı içinde bulunup bulunmadığının, bu tarih itibariyle kesinleşmiş imar planı içinde olmadığının anlaşılması halinde belediye veya mücavir alan sınırları içinde olup olmadığının, belediye ve altyapı hizmetlerinden (yol, su, elektrik, çöp toplama, kanalizasyon, aydınlatma vd. gibi) yararlanıp yararlanmadığının, özellikle etrafının meskûn olup olmadığının, taşınmaz belediye nazım imar planı içinde ise Yargıtay İçtihadı Birleştirme Büyük Genel Kurulunun 17.04.1998 gün ve 1996/3-1998/1 sayılı kararı uyarınca bu plan kapsamına alındığı tarih ve plandaki konumunun, hangi amaçla plan kapsamına alındığının, yerleşim merkezlerine uzaklığının, altyapı hizmetlerinden yararlanma ve ulaşım olanaklarının, kullanma biçimi itibariyle iskan amacına yönelik yapılaşma olasılıklarının belediye başkanlığından araştırılarak, bu konuda taraflara delillerini ibraz etmek üzere süre verildikten sonra, mahallinde yapılacak keşif sonucunda, taşınmaz arsa vasfında ise, taşınmazın bulunduğu mevkideki diğer arsaların kiraya verilip verilmedikleri, veriliyor iseler nasıl ve ne şekilde kiraya
 verildiklerinin taraflardan delilleri sorulmak suretiyle tespit edilmesi, varsa emsal kira sözleşmeleri ibraz ettirilmesi, buna göre bilirkişi raporu alınarak oluşacak duruma göre; arazi vasfında ise, olduğu gibi kullanılması halinde getireceği net geliri üzerinden ecrimisil bedelinin hesaplanması için alınacak bilirkişi raporuna göre hüküm kurulması gerekirken, taşınmazın niteliği denetlemeye elverişli şekilde belirlenmeden arsa olarak kabul edilerek, ecrimisil bedeli hesaplayan rapora göre eksik inceleme sonucu karar verilmesi, …
 
 Dava konusu taşınmazın üzerinde yapı bulunmadığına göre, aynı nitelikteki bir taşınmazın kiraya verilmesine ilişkin kira sözleşmesinin ecrimisil hesabında esas alınması gerekirken, işyeri olarak kullanılan taşınmazların kiraya verilmesine ilişkin sözleşmeleri emsal olarak inceleyen raporun hükme esas alınması, …
 
 ## Yargıtay 1. HD 2014/7086 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84140400)
 
 Dava; ecrimisil istemine ilişkindir.
 
@@ -106,6 +126,8 @@ Dosya içeriği ve toplanan delillere,hükmün dayanağı yasal ve hukuksal gere
 
 ## Yargıtay 5. HD 2014/6584 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96422800)
+
 Dava, kamulaştırmasız el atılan taşınmazlar bedelinin tahsili ile ecrimisil istemine ilişkindir.
 
 …
@@ -114,10 +136,14 @@ Mahallinde yapılan keşif sonucu alınan rapor uyarınca yol olarak el atılan 
 
 ## Yargıtay 18. HD 2014/5166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794137000)
+
 11.06.2013 tarihinde yürürlüğe giren 6487 sayılı Yasa ile 2942 sayılı Kamulaştırma Kanunu'nun değiştirilen Geçici 6. maddesinin 7 ve 13. fıkralarında “Bu madde kapsamında açılan davalarda mahkeme ve icra harçları ile her türlü vekalet ücretleri bedel tespiti davalarında öngörülen şekilde maktu olarak belirlenir” ve “Bu fıkra hükmü, bu fıkra kapsamında kalan taşınmazlar hakkında açılan ve kesinleşmeyen davalarda da uygulanır.” hükmü getirildiğinden kamulaştırmasız el atmadan kaynaklanan el atmanın önlenmesi ve kal talebi yönünden maktu vekalet ücreti ile maktu karar ve ilam harcı, ecrimisil bedeli yönünden ise nisbi vekalet ücreti ile nisbi karar ve ilam harcına hükmedilmesi gerekmekle birlikte bedel dikkate alınarak AAÜT'nin 12. maddesindeki “(1) Tarifenin ikinci kısmının ikinci bölümünde gösterilen hukuki yardımların konusu para veya para ile değerlendirilebiliyor ise avukatlık ücreti, (yedinci maddenin ikinci fıkrası, dokuzuncu maddenin birinci fıkrasının son cümlesi ile onuncu maddenin son fıkrası hükümleri saklı kalmak kaydıyla,) Tarifenin üçüncü kısmına göre belirlenir." (2)Şu kadar ki asıl alacak miktarı 3.666,66 TL’ye kadar olan davalarda avukatlık ücreti, tarifenin ikinci
 kısmının, ikinci bölümünde, icra mahkemelerinde takip edilen davalar için öngörülen maktu ücrettir. Ancak bu ücret asıl alacağı geçemez.” şeklindeki düzenleme uyarıca 440 TL maktu vekalet ücretine hükmedilmesi gerekirken tüm bedel üzerinde nisbi vekalet ücreti ile nisbi karar ve ilam harcına hükmedilmesi, …
 
 ## Yargıtay 1. HD 2014/4079 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84120100)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -127,15 +153,21 @@ Toplanan deliller ve tüm dosya içeriği ile çekişme konusu 2400 parsel sayı
 
 ## Yargıtay 3. HD 2013/17969 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/263806300)
+
 Şu durumda; Kamulaştırma Kanununun 25. maddesi uyarınca, kamulaştırma bedelinin tespiti ve tescil davasının açıldığı mahkemece yapılan tebligatla kamulaştırma işleminin başlamış olmasına ve davaya konu taşınmazın bedelinin de davanın açıldığı tarih itibariyle belirlenecek olmasına göre, bu tarihten sonraki dönem için taşınmaza haksız el atıldığı iddiasıyla ecrimisil talebinde bulunulamayacağı açıktır.
 
 Hal böyle olunca, mahkemece; kamulaştırma bedelinin tespiti ve tescil davasının açıldığı tarihe kadar olan dönem için davalı şirket aleyhine ecrimisile hükmedilmesi gerekirken, yanılgılı değerlendirme ile davaya konu edilen dönemin tamamı için belirlenen ecrimisilden davalı şirketin sorumlu tutulması doğru görülmemiştir.
 
 ## Yargıtay 1. HD 2013/15360 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/252816400)
+
 Buna göre; mahkemece, davanın esasına girilerek tarafların delillerinin usulünce toplanması, dava konusu taşınmaz hakkında açılan ... Asliye Hukuk Mahkemesinin 2011/29 E. Sayılı dava dosyasının getirtilerek incelenmesi, hangi kısma ilişkin olduğunun belirlenmesi, kamulaştırmasız el atma nedeniyle tazminat davasının (kamulaştırmayı yapmakla yetkili olan kuruma karşı) açıldığı tarihe kadar talep edilebilecek olan ecrimisil hususunda, davacıların ecrimisil talep ettiği dönemle bağlı kalmak kaydıyla, konusunda uzman üç kişilik bilirkişi kurulu ile keşif yapılarak ecrimisil hesabının yapılması ve ortaya çıkacak sonuca göre bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması usul ve yasaya aykırıdır.
 
 ## Yargıtay 1. HD 2013/14141 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79488600)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -147,6 +179,8 @@ Kamulaştırma kararı almadan veya kamulaştırma işlemlerini tamamlamadan ta�
 
 ## Yargıtay 1. HD 2013/8565 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79744000)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -157,6 +191,8 @@ Hal böyle olunca, anılan İçtihadı Birleştirme Kararı ile Borçlar Kanunun
 
 ## Yargıtay 5. HD 2013/8131 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/287282200)
+
 Dava kamulaştırmasız el atılan taşınmaza el atmanın önlenmesi, ecrimisil ve zararın tazmini istemlerine ilişkindir.
 
 …
@@ -165,16 +201,22 @@ Dava konusu taşınmazın 236 m2'lik kısmına davalı şirketçe kamulaştırma
 
 ## Yargıtay 3. HD 2013/2447 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257916600)
+
 Dava; ecrimisil talebine ilişkindir.
 
 Ecrimisil; başkasına ait taşınmaza haklı ve hukuken geçerli bir neden olmaksızın el atan kötüniyetli işgalcinin ödemekle sorumlu olduğu tazminat olup, en azı kira geliri, en çoğu ise tam gelir yoksunluğudur. Bu dava, taraflarca hazırlama ilkesine tabi ise de, kamulaştırmasız el atma nedeniyle ecrimisil davalarında kamulaştırma nedeniyle tazminat davalarındaki benzer usuller uygulanarak ecrimisil miktarı bilirkişilere hesaplatılmaktadır. (HGK'nun 2002/3-1060 Esas, 2002/1111 Karar.)
 
 ## Yargıtay 3. HD 2012/22849 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489810000)
+
 Her ne kadar dava, taraflarca hazırlama ilkesine tabi ise de, kamulaştırmasız el atma nedeniyle ecrimisil davalarında kamulaştırma nedeniyle tazminat davalarındaki benzer usuller uygulanarak ecrimisil miktarı bilirkişilere hesaplatılmaktadır. (HGK'nun 2002/3-1060 Esas, 2002/1111 Karar.) Ecrimisile hükmedebilmek için davalının fiilen el atması gerekmediği gibi taşınmazın kullanma biçiminin de önemi yoktur. Böyle bir durumda taşınmazına haksız olarak elatılan kişinin tazminat davasındaki gibi zararına yol açılmış olması ya da sebepsiz zenginleşme isteminde ki gibi yoksullaşmış olması aranmaksızın mahkemece, haksız olarak zilyet olan kişiyi zorlayan bir yöntem izlenmeli ve haksız kullanım kazancının geri verilmesine karar verilmelidir. 6100 sayılı HMK.'nun 31.maddesi ile Hakimin davayı aydınlatma görevinin bulunduğu, aynı yasanın 30.maddesine göre de usul ekonomisi ilkesine uyulması gereklidir. Hakimin, uyuşmazlığın aydınlatılması bakımından neler yapabileceğinin hüküm altına alındığı bu madde, 1086 sayılı HMUK.'nun 75/2, 3.fıkralarını karşılamaktadır. Maddi anlamda davayı sevk yetkisinin düzenlendiği görülmektedir.
 Mukayeseli hukuktaki gelişim sonucunda, iddianın taraflarca, muktezanın tayininin ise duruşma hakiminde olduğu açıktır.
 
 ## Yargıtay 5. HD 2012/14882 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609565700)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -184,9 +226,13 @@ Bu nedenle Kamulaştırma Kanununun 11/1-f maddesi uyarınca taşınmazın oldu�
 
 ## Yargıtay 3. HD 2012/12192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/545396000)
+
 Ecrimisil; kötüniyetli şagilin ödemekte sorumlu olduğu tazminat olup en azı kira geliri en çoğu ise tam gelir yoksunluğudur.Somut olayda; dava konusu parsel için davalı ... tarafından kamulaştırma için dava açılmış ve dava devam ederken davalı idarenin 2942 sayılı Kamulaştırma Kanununun 21.maddesine göre, kamulaştırmadan tek taraflı olarak vazgeçilmesi nedeniyle davanın konusuz kalması nedeniyle hüküm kurulmasına yer olmadığına karar verilmiş ve hüküm 18.Hukuk Dairesi tarafından onanarak kesinleşmiştir.Davalı belediyenin, imar planına uygun olarak; taşınmazdaki hissesine isabet eden bölümü kullanmış olması davacının murisinin hissesine isabet eden 1958 m² yerden fazla 1892 m²'lik kısmın kullanılıyor olması, hissedar davacının taşınmazdaki hissesine karşılık ecrimisil isteminin kabulüne karar verilmesi gerekirken, yazılı gerekçelerle davanın reddi doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 5. HD 2012/8418 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550758200)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -195,6 +241,8 @@ Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil is
 Dava konusu taşınmazın bir bölümüne davalı idarece kamulaştırma yapılmaksızın yol olarak el atılmıştır. Taşınmazın ne şekilde kullanılacağı davacıya açıklattırılıp, emsal kira sözleşmeleri de ibraz edildikten sonra, davalı tarafından işgal edilen yıllara ait ecrimisil hesabı yapılması için bilirkişi kurulundan ek rapor alınarak neticesine göre karar verilmesi gerekirken, böyle bir inceleme yapılmadan hükümde yazılı gerekçe ile ecrimisil isteminin reddine karar verilmesi, …
 
 ## Yargıtay 5. HD 2012/1480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516240100)
 
 Dava, kamulaştırmasız el atılan taşınmazlar ve ecrimisil bedelinin tahsili istemine ilişkindir.
 
@@ -206,6 +254,8 @@ Dava konusu tapuya kayıtlı olmayan taşınmazlar için açılan davada, kamula
 
 ## Yargıtay 5. HD 2012/847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510745900)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil karşılığının tahsili istemine ilişkindir.
 
 …
@@ -214,11 +264,15 @@ Dosyada bulunan kanıt ve belgelerden; dava konusu taşınmazın ....03.1987 ona
 
 ## Yargıtay 14. HD 2012/38 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657296200)
+
 Taşınmaz mülkiyeti tescil ile kazanılır. Tescilden önce ise, miras, mahkeme kararı, cebri icra, kamulaştırma ve kanunda öngörülen diğer hallerde kazanılabilir. Tescilden önce mülkiyetin kazanıldığı durumlarda, taşınmazda malikin tasarruf işlemi yapabilmesi için mülkiyetin tapu kütüğüne tescilinin sağlanmış olması gerekir. Malik dışındaki kişilerce taşınmazda haksız olarak tasarruf edilmesi halinde, malik bu kişilere karşı ecrimisil isteminde bulunabilir.
 
 Somut olayda, davacılar, davalının 1984 yılından bu yana taşınmazda haksız olarak tasarrufta bulunduğunu ileri sürerek ecrimisil isteminde bulunmuşlardır. Çekişme konusu yapılan 11999 parsel sayılı taşınmazda davacıların 08.07.2008 tarihinde hükmen paydaş oldukları anlaşılmaktadır. Hükme esas alınan 10.11.2010 tarihli bilirkişiler kurulu raporunda ise, 18.02.2004-28.01.2009 tarihleri arasındaki ecrimisil bedeli belirlenmiş, belirlenen bu bedel hüküm altına alınmıştır. TMK’nun 705/2 maddesi uyarınca, davacıların malik olarak tapu kaydına tescil edildiği 08.07.2008 tarihi ile dava tarihi arasındaki ecrimisil bedeli belirlenmelidir. Bu nedenle, mahkemece, davacıların tapu kaydında malik oldukları tarih ile dava tarihi arasındaki ecrimisil bedelinin belirlenmesi için bilirkişi kurulundan ek rapor alınmalı, bu raporun sonucuna göre bir hüküm kurulması gerekir.
 
 ## Yargıtay 5. HD 2011/19458 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028292300)
 
 Dava kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -228,9 +282,13 @@ Bilirkişi incelemesi yaptırılmıştır. Alınan rapor yasa hükümlerine uygu
 
 ## Yargıtay 3. HD 2011/14982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966079500)
+
 Dolayısıyla somut olayda; davalı idareye karşı, dava konusu parsele ilişkin kamulaştırmasız el koymaya dayalı 22.10.2002 tarihinde dava açıldığı ve kamulaştırma bedeli bu tarihe göre belirlendiği gözetilerek bu tarihten geriye doğru sadece 06.02.2002-22.10.2002 tarihleri arası için ecrimisile hükmedilmesi gerekir. Mahkemece, yazılı gerekçe ile kamulaştırmasız el atma dava tarihinden sonrası için de (06.02.2007'ye kadar) ecrimisil isteminin kabulüne karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2011/14227 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965836000)
 
 2942 Sayılı Kamulaştırma Yasasının 25. maddesi hükmü gereğince ve davacının tapuda ferağ vermesi sonucu dava konusu taşınmazın mülkiyeti davalı idareye geçmiştir. Davacı tarafından bu tarihten sonraki davalı kullanımının haksız olduğu ileri sürülemez. Dava konusu taşınmaz, ... 5. Asliye Hukuk Mahkemesinin 2005/449-2006/499 sayılı kararı ile yeniden davacı adına tescil edildiğinden bu kararın kesinleşmesi tarihinden itibaren davalının işgalinin haksız olduğunun kabulü ile ecrimisile hükmedilmesi gerekir.
 
@@ -238,9 +296,13 @@ O halde mahkemece, açıklanan nedenlerle tapu iptal tescil kararının kesinle�
 
 ## Yargıtay 5. HD 2011/5995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026620100)
+
 Bilirkişi incelemesi yaptırılmıştır. Arazi niteliğindeki taşınmaza gelir metoduna göre değer biçilmesinde, kamulaştırma bedelinin tespiti ve tescili davasının kabulü ile tespit edilen bedelin bloke ettirilerek hükmün kesinleşmesi beklenmeden davalı tarafa ödenmesine karar verilmesinde ve kamulaştırma davası açılması nedeniyle kamulaştırmasız el atma nedeniyle tazminat davasının reddine ve belirlenen ecrimisil bedelinin davacı idare (karşı davalı)'dan tahsiline dair hüküm kurulmasında bir isabetsizlik görülmemiştir. Ancak;
 
 ## Yargıtay 5. HD 2011/4981 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033581600)
 
 Dava, kamulaştırmasız el atılan taşınmazlar bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -249,6 +311,8 @@ Dava, kamulaştırmasız el atılan taşınmazlar bedelinin tahsili ve ecrimisil
 Belediye Başkanlığı yazısına ve dava konusu taşınmazların bilirkişi raporunda belirtilen özelliklerine göre taşınmazlar arazi niteliğindedir. Bu itibarla taşınmazın Kamulaştırma Kanununun 11/1-f maddesi gereğince gelir metoduna göre belirlenen değerine aynı maddenin (i) bendi uyarınca objektif değer arttırıcı unsurda ilave edilerek bedelinin tespit edilmesi gerektiği gözetilmeksizin, bu kurala uyulmadan ve 3 kişilik bilirkişi kurulu yerine tek kişi tarafından düzenlenen raporlar ile taşınmazlara değer biçildiğinden, yeniden oluşturulacak bilirkişi heyeti ile keşif yapılıp, yukarıdaki esaslara uygun şekilde taşınmazların bedelini belirleyen rapor alınarak sonucuna göre karar verilmesi gerektiği düşünülmeden, geçersiz raporlara itibar edilerek taşınmazların bedeline ve ecrimisile hükmedilmesi, …
 
 ## Yargıtay 5. HD 2011/4868 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033476700)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -260,6 +324,8 @@ Bu durumda, mahkemece, taraflara emsal göstermeleri için mehil verilmesi, lüz
 
 ## Yargıtay 5. HD 2011/888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/624356500)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -270,6 +336,8 @@ Dava konusu taşınmaza mahkeme kararıyla el konulduğu sabittir. Ancak; bu kar
 
 ## Yargıtay 5. HD 2010/8803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1027216700)
+
 Dava, kamulaştırmasız el atılan taşınmaza el atmanın önlenmesi, kal ve ecrimisilin tahsili istemine ilişkindir.
 
 …
@@ -278,9 +346,13 @@ Bilirkişi incelemesi yaptırılmıştır. Dava konusu taşınmaza davalı idare
 
 ## Yargıtay 3. HD 2010/3570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967615300)
+
 Hükme esas alınan bilirkişi raporunda; 40/64 pay için ecrimisil hesabı yapılırken, kamulaştırmasız el atma nedeniyle tazminat davasının açıldığı 26.4.2001 tarihi yerine 16.9.2001 tarihine kadar tahakkuk eden ecrimisil saptanmıştır. Ayrıca 20/64 pay için, dava dilekçesindeki talep 2000-2004 dönemi olduğu halde, HUMK'nun 74.maddesine aykırı olarak 2005 yılını da kapsayacak şekilde (16.09.2005 tarihine kadar) ecrimisil hesabı yapılmıştır.
 
 ## Yargıtay 1. HD 2008/7027 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78240000)
 
 Dava, paydaşlar arası elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup, mahkemece davanın reddine karar verilmiştir.
 

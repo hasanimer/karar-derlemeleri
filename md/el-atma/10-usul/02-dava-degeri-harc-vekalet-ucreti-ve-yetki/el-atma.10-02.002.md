@@ -183,6 +183,8 @@ Davalı ... ve davacı vekillerinin temyiz itirazlarının kısmen kabulü ile t
 
 ## Yargıtay 5. HD 2026/4578 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209223300)
+
 Davacı vekili dava dilekçesinde özetle; davaya konu Bursa ili, ..., ... Mahallesi 42 67... parsel ve 5 parsel sayılı taşınmazların bir kısmının imar planında park alanında kaldığını, bir kısmına kaldırım yapılmak suretiyle fiilen kamulaştırmasız el atıldığını ileri sürerek tazminatın davalı idarelerden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -199,6 +201,8 @@ Başkanlığına tahsiline karar verilmesinde ve taşınmazlara ilişkin sorumlu
 Davacı vekilinin temyiz itirazının kısmen kabulü ile Bölge Adliye Mahkemesi kararının hüküm fıkrasının (5.) bendinde yer alan cümleden sonra gelmek üzere "Başkanlığından alınarak davacıya verilmesine" ibaresinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2026/4536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209170700)
 
 Davacılar vekili dava dilekçesinde özetle; Ankara ili, ..., ... Mahallesi 1017 64... (eski 1006 78... ) parsel sayılı taşınmazın imar planında mesire alanı olarak ayrıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin davalı idarelerden tahsilini talep etmiştir.
 

@@ -20,11 +20,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2025/2914 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178832700)
+
 Men'i müdahale, temelini Türk Medeni Kanunu'ndaki mülkiyet hakkına ilişkin hükümlerden almaktadır. Ercimisil ise doktrin ve yargı kararlarında bir nevi haksız kullanım tazminatı olarak kabul edilmektedir. Davada 6100 sayılı HMK'nın 110. maddesiyle düzenleme altına alınan "davaların yığılması" durumu söz konusu olup uyuşmazlık men'i müdahale ve ecrimisil talebi olmak üzere iki ayrı dava içermektedir. Ticari davalardan konusu bir miktar para olan alacak, tazminat, itirazın iptali, menfi tespit ve istirdat davaları TTK 5/A maddesi (değişik 05.04.2023 tarihli 7445 sayılı Yasanın 31. maddesi) gereğince arabuluculuğa tabi ise de; müdahalenin men'i talebi arabuluculuğa tabi değiltir.
 
 Bu durumda arabuluculuğa tabi olmayan bir dava ile birlikte açılan tazminat davası da arabuluculuk dava şartına tabi olmayacağından aksi yöndeki mahkeme gerekçesi isabetli görülmemiştir. Şu halde İlk Derece Mahkemesince davanın arabuluculuk dava şartına tabi olmadığı gözetilerek, işin esasına girilmek suretiyle taraf iddia ve savunmaları değerlendirilip sonucuna göre bir karar verilmesi gerekirken yazılı gerekçeyle davanın usulden reddine karar verilmesi doğru görülmemiş, İlk Derece Mahkemesi kararı ile bu karara karşı istinaf isteminin reddi kararı usul ve yasaya aykırı bulunmuş, kararın bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 1. HD 2020/171 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/565447100)
 
 Dava; tapu iptal ve tescil, olmadığı takdirde tenkis istemine ilişkindir.
 
@@ -35,6 +39,8 @@ bir itirazda bulunmadığı, HMK.'nın 140/3. maddesinin son cümlesi gereğince
 
 ## İstanbul BAM 1. HD 2024/1175 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1075246300)
+
 Dava, haksız işgal tazminatı niteliğinde ecrimisil isteğine ilişkindir.
 
 …
@@ -44,6 +50,8 @@ Maddesi gereğince resen istinaf sebebi olarak kabul edilmiştir.Açıklanan ned
 
 ## İzmir BAM 1. HD 2024/487 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016865000)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -52,6 +60,8 @@ Somut olayda, davacının davalı aleyhine açmış olduğu, 09/09/2011 - 28/01/
 Bu yönlere ilişkin davacı vekilinin istinaf sebeplerinin yerinde olduğu anlaşılmıştır.
 
 ## Kayseri BAM 6. HD 2023/1736 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/949402100)
 
 AVM" olarak adlandırılan, “Beş Katlı Betonarme İşyeri ve Arsası” niteliğinde bulunan gayrimenkule ilişkin Vefa Protokolü kapsamında tanımlanan sürenin 31.12.2022 tarihinde sonlandığı ve ilgili gayrimenkulün 28.02.2023 tarihine kadar işletmesinin müvekkil Bankaya devir edilmesi, gayrimenkulün işletmesinin devir edilmemesi halinde gerekli tüm yasal işlemlerin yapılacağını ve her türlü yargılama gideri ve masrafların kendilerine ait olacağı davalı firmaya ihtaren bildirdiğini, ihtarnamenin davalı firmaya 24,02.2023 tarihinde tebliğ edilmesine karşın gayrimenkulün işletmesinin devri yapılmadığını, Protokolün Vefa Hakkının Kullanım Şartları başlığının 3. maddesine göre de Borçlu, iş bu sözleşmede yazılı hallerin gerçekleşmemesi veya işbu vefa/iştira hakkının herhangi bir sebeple sona ermesi veya sözleşmenin hükümsüz kalması halinde sözleşmenin sona erdiği veya hükümsüz kaldığı tarihte " Banka” ya teslim edileceğini, vefa hakkı sahibi vefa hakkını kullanmadığı sözkonusu taşınmazları rızaen tahliye ve teslim etmediği takdirde tahliye kadar geçecek her ay için güncel kira bedelinin 2 katı tutarında cezai şart ödemeyi kabul ettiğini, vefa hakkının sona erdiği 31.12.2022 tarihinden dava
 tarihine kadar işlemiş ve taşınmazın teslim tarihine kadar hesaplanacak ecrimisil bedeli ve fiilen ödeme tarihine kadar işleyecek avans faizi ve 6S BSMV'si ile birlikte ve güncel kira bedelinin her ay için 2 katı tutarında cezai şartın ve 31.12.2022 tarihinden itibaren işleyen TCMB avans faizi ile birlikte bankaya ödenmesini ve haksız işgale son verilerek taşınmazların boş ve hasarsız olarak bankaya teslimini talep ettiğini, karşı tarafla uzlaşma ihtimaline karşın, 04/05/2023 tarihinde 2023/51301 başvuru numarasıyla Kayseri Arabuluculuk Bürosu'na arabuluculuk başvurusunda bulunulmuş olup, ayrı ayrı günlerde 1 oturum halinde yapılan arabuluculuk toplantısı neticesinde tarafların anlaşmayacakları kanaatine varıldığını, davalının haksız olarak işgal ettiği müvekkil Bankaya ait, ...

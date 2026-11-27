@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2006/4409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855422000)
+
 Dava, çapa bağlı taşınmaza yapılan elatmanın önlenmesi, elatılan bölümdeki binaların ve dikilen ağaçların kal'i ile ecrimisil istemine ilişkindir.
 
 …
@@ -33,6 +35,8 @@ SONUÇ: Yukarıda açıklanan 1.bent uyarınca davalılar vekilinin diğer temyi
 
 ## Yargıtay 7. HD 2006/4399 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16540100)
+
 Mahkemece davanın kısmen kabulüne karar verilmiş ise de, varılan sonuç davanın niteliğine, tarafların sıfatına, dosya kapsamında toplanan delillere uygun düşmemiştir.
 
 …
@@ -40,6 +44,8 @@ Mahkemece davanın kısmen kabulüne karar verilmiş ise de, varılan sonuç dav
 Davaya konu olaya gelince; davalı borçlu şirket tacirdir. Haksız işgal edilen taşınmazın davalı şirketin ticari işletmesi ile ilgili olarak kullanıldığı tartışmasızdır. Bu olgu ve az yukarıda açıklanan hukuki olgular dikkate alındığında, davacı kurumun alacağına 3095 sayılı Kanun'un 2. maddesi hükmüne göre avans faizi oranında temerrüt faizi uygulanmasını isteme hakkı bulunmaktadır. Ne var ki, davacı kurum icra takibinde daha azını ve % 64 oranındaki reeskont faizi uygulanmasını istemiştir. Hal böyle olunca, mahkemece 20.000.000 TL asıl alacak ile birlikte, reeskont faiz oranına göre hesaplanan işlemiş faiz alacağına yönelik davalı itirazının iptaline karar verilmesi gerekirken yasal faize göre hesap yapan bilirkişi raporu esas alınarak ve itiraz edilen 20.000.000 TL asıl alacak yönünden de dava açıldığı gözardı edilerek yazılı şekilde hüküm kurulması isabetsiz, davacı tarafın temyiz itirazları bu nedenlerle yerinde görüldüğünden kabulü ile hükmün (BOZULMASINA), peşin alınan harcın istek halinde davacı tarafa iadesine, 25.12.2006 gününde oybirliği ile karar verildi.
 
 ## İstanbul BAM 12. HD 2024/868 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038120700)
 
 …
 

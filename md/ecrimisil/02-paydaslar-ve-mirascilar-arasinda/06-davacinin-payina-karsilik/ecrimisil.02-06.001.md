@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/62 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131644100)
+
 Ancak, o paydaşın, payına karşılık çekişmesiz olarak kullandığı bir kısım yer varsa açacağı ecrimisil davasının dinlenme olanağı yoktur. Yerleşmiş Yargıtay içtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorununu, kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir.
 
 Kural olarak, men edilmedikçe paydaşlar birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi de, ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanmak isteğinin davalı paydaşa bildirilmiş olmasına bağlıdır. Ancak, bu kuralın yerleşik yargısal uygulamalarla ortaya çıkmış bir takım istisnaları vardır. Bunlar; davaya konu taşınmazın kamu malı olması, ecrimisil istenen taşınmazın (bağ, bahçe gibi) doğal ürün veren yada (işyeri, konut gibi) kiraya verilerek hukuksal semere elde edilen yerlerden olması, paylı taşınmazı işgal eden paydaşın bu yerin tamamında hak iddiası ve diğerlerinin paydaşlığını inkar etmesi, paydaşlar arasında yapılan kullanım anlaşması sonucu her paydaşın yararlanacağı ortak taşınmaz veya bölümlerinin belirli bulunması, davacı tarafından diğer paydaşlar aleyhine daha önce bu taşınmaza ilişkin, elatmanın önlenmesi, ortaklığın giderilmesi, ecrimisil ve benzeri davalar açılması veya icra takibi yapılmış olması halleridir.
@@ -28,9 +30,13 @@ Bundan ayrı, taşınmazın getirdiği ürün itibariyle de, kendiliğinden olu�
 
 ## Yargıtay 7. HD 2023/3254 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929527700)
+
 İntifa hakkı; başkasına ait bir eşya, hak veya mal varlığı üzerinde belirli bir kişiye tam olarak yararlanma olanağını sağlayan bir irtifak türüdür. TMK'nın 794 üncü maddesi uyarınca bu hak sahibine konusu üzerinde tam yararlanma yetkisi sağlar. Hak sahibi tam yararlanma yetkisi kapsamında haksız elatmanın önlenmesini ve ecrimisil isteme olanağına sahiptir. Bu isteği ise intifa hakkı sahibinin hakkı üzerinde muaraza çıkartan yana dava açılarak yöneltmesi gerekir. Başka bir deyişle, davadaki hasım intifa hakkı sahibini o eşyadan tam yararlanma hakkını engelleyen kişidir.
 
 ## Yargıtay 8. HD 2021/13239 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/772094700)
 
 Dava, paydaşlar arası ecrimisil ve zorunlu giderlerin tahsili istemlerine ilişkindir.
 
@@ -42,6 +48,8 @@ Bilindiği üzere, paylı veya elbirliği mülkiyetinde taşınmazdan yararlanam
 
 ## Yargıtay 8. HD 2021/12220 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727915700)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -49,6 +57,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil istemine ilişkindi
 Hal böyle olunca; davalı mülkiyetten kaynaklanan bir hakka sahip olmadığına, davacı da pay sahibi olduğuna göre, Mahkemece, davalının kullanımında bulunan 4.016,00 m2'lik kısmın davacı payına denk gelen kısmı üzerinden ecrimisil bedeli hesaplanması gerekirken, yanılgılı değerlendirme ile davacının kullanımında olan 484,00 m2'lik kısmın davacı hissesine düşen 627,67 m2'lik kısımdan düşülmek suretiyle kalan 143,67 m2 üzerinden ecrimisil bedeline hükmedilmesinin doğru olmadığı, bu seferki incelemeden anlaşılmakla davacı vekilinin ecrimisile ilişkin karar düzeltme isteminin kabulü gerekmiştir.
 
 ## Yargıtay 8. HD 2021/5181 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684294400)
 
 Dava, 19 parça taşınmaza yönelik ecrimisil istemine ilişkindir.
 
@@ -58,6 +68,8 @@ Hal böyle olunca, Mahkemece, öncelikle yukarıda izah edildiği üzere mahalli
 
 ## Yargıtay 8. HD 2021/1832 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648697600)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -65,6 +77,8 @@ Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkin
 Bilindiği üzere, paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan payına vaki elatmanın önlenilmesinden ötürü ecrimisil isteyebilir. Ancak, o paydaşın payına karşılık çekişmesiz olarak kullandığı yada kullanılabileceği bir kısım yer varsa, açacağı elatmanın önlenilmesi ve ecrimisil davasının dinlenme olanağı yoktur. Yerleşmiş Yargıtay İçtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre, payından az yer kullandığını ileri süren paydaşın sorununu kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir.
 
 ## Yargıtay 8. HD 2021/823 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667963300)
 
 Dava, paydaşlar arası el atmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -76,6 +90,8 @@ Somut olayda; dava konusu taşınmaz muris ...’tan kalmıştır. 3. kat daval�
 
 ## Yargıtay 8. HD 2021/538 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642647300)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -85,6 +101,8 @@ Somut olaya gelince; dava konusu 8155 ada 4 parsel sayılı 500,29 m2 arsa nitel
 O halde, davacı tarafından payına karşılık çekişmesiz olarak kullanabileceği az da olsa yer olduğuna göre, payını kullanamadığını ileri süren paydaşın sorununu elatmanın önlenmesi davası ile değil, kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerektiğinden, elatmanın önlenmesi ve ecrimisil davasının dinlenme olanağı bulunmamamaktadır.
 
 ## Yargıtay 8. HD 2020/7172 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642132700)
 
 Dava; paydaşlar arasında ecrimisil ve alacak istemine ilişkindir.
 
@@ -96,11 +114,15 @@ Bu durumda Mahkemece yapılacak iş, davacı tarafından keşide edilen ihtarnam
 
 ## Yargıtay 8. HD 2020/5925 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610929100)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 Paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan her zaman payına vaki elatmanın önlenmesi ve/veya ecrimisil isteyebilir. Ancak, o paydaşın, payına karşılık çekişmesiz olarak kullandığı ya da kullanabileceği bir kısım yer varsa açacağı elatmanın önlenmesini ve/veya ecrimisil davasının dinlenme olanağı yoktur. Yerleşmiş Yargıtay içtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorununu, kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir.
 
 ## Yargıtay 8. HD 2020/5198 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609588400)
 
 Dava; ecrimisil istemine ilişkindir.
 
@@ -109,6 +131,8 @@ Paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki payda
 Kural olarak, men edilmedikçe paydaşlar birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi de, ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanmak isteğinin davalı paydaşa bildirilmiş olmasına bağlıdır. Ancak, bu kuralın yerleşik yargısal uygulamalarla ortaya çıkmış bir takım istisnaları vardır. Bunlar; davaya konu taşınmazın kamu malı olması, ecrimisil istenen taşınmazın (bağ, bahçe gibi) doğal ürün veren yada (işyeri, konut gibi) kiraya verilerek hukuksal semere elde edilen yerlerden olması, paylı taşınmazı işgal eden paydaşın bu yerin tamamında hak iddiası ve diğerlerinin paydaşlığını inkar etmesi, paydaşlar arasında yapılan kullanım anlaşması sonucu her paydaşın yararlanacağı ortak taşınmaz veya bölümlerinin belirli bulunması, davacı tarafından diğer paydaşlar aleyhine daha önce bu taşınmaza ilişkin, elatmanın önlenmesi, ortaklığın giderilmesi, ecrimisil ve benzeri davalar açılması veya icra takibi yapılmış olması halleridir.
 
 ## Yargıtay 8. HD 2020/4527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/591829800)
 
 Dava, paydaşlar arasında ecrimisil istemine ilişkindir.
 
@@ -119,6 +143,8 @@ O halde; dava konusu taşınmazın paylı mülkiyete tabi olduğu, üzerinde bul
 Hâl böyle olunca; ecrimisil isteme koşullarının gerçekleşmediği gözetilerek davanın reddine karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı olduğu üzere ecrimisilin hüküm altına alınması isabetsizdir.
 
 ## Yargıtay 8. HD 2020/101 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592008400)
 
 Dava, paydaşlar arasında ecrimisil istemi ile ilgili yapılan icra takibine itirazın iptali ve tazminat talebi istemine ilişkindir.
 
@@ -131,6 +157,8 @@ Bundan ayrı, taşınmazın getirdiği ürün itibariyle de, kendiliğinden olu�
 
 ## Yargıtay 8. HD 2019/11650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571471700)
+
 Dava; paydaşlar arası elatmanın önlenmesi ve ecrimisile ilişkindir.
 
 …
@@ -142,6 +170,8 @@ Bu nedenle Mahkemece elatmanın önlenmesi yönünden dava konusu taşınmazın 
 
 ## Yargıtay 8. HD 2019/10230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558627700)
+
 Dava; paydaşlar arası ecrimisil istemine ilişkindir.
 
 …
@@ -151,6 +181,8 @@ isabetsizdir.
 
 ## Yargıtay 8. HD 2019/9359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648802100)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Dosya içeriği ve toplanan delillerden; çekişmeli, altında mağazası olan kargir apartman niteliğindeki 90 ada 12 parsel sayılı taşınmazda davacılar ile davalının 1/16'şar paylarının olduğu, taşınmazda dava dışı başkaca paydaşların da bulunduğu, taşınmazın davaya konu kısmında beş katlı betonarme binanın yer aldığı, 08.12.2014 tarihli bilirkişi raporuna göre (B) ile işaretli alanın davacı ... kullanımında olduğu, yapının 1. katının davacı ..., 3. katın ise davacı ... tarafından kullanıldığı, 5. kat ve 6. kattaki çatı katının ise boş olduğu belirtilmiştir.
@@ -158,6 +190,8 @@ Dosya içeriği ve toplanan delillerden; çekişmeli, altında mağazası olan k
 Bilindiği üzere, paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan payına vaki el atmanın önlenilmesinden ötürü ecrimisil isteyebilir. Ancak, o paydaşın payına karşılık çekişmesiz olarak kullandığı ya da kullanılabileceği bir kısım yer varsa, açacağı el atmanın önlenilmesi ve ecrimisil davasının dinlenme olanağı yoktur. Yerleşmiş Yargıtay İçtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre, payından az yer kullandığını ileri süren paydaşın sorununu kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir.
 
 ## Yargıtay 8. HD 2019/5365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647142000)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -167,6 +201,8 @@ Bilindiği üzere, paylı mülkiyette taşınmazdan yararlanamayan paydaş, enge
 
 ## Yargıtay 8. HD 2019/4244 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512658000)
+
 Dava; paydaşlar arası ecrimisil istemine ilişkindir.
 
 …
@@ -174,6 +210,8 @@ Dava; paydaşlar arası ecrimisil istemine ilişkindir.
 Ayrıca, o paydaşın, payına karşılık çekişmesiz olarak kullandığı bir kısım yer varsa açacağı ecrimisil davasının da dinlenme olanağı yoktur. Yerleşmiş Yargıtay içtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorununu, kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir …
 
 ## Yargıtay 8. HD 2019/3571 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522806500)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -183,6 +221,8 @@ Hal böyle olunca; 106 ada 31 parsel sayılı taşınmazın devir tarihi ve tan�
 
 ## Yargıtay 8. HD 2019/2615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645541100)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -191,6 +231,8 @@ Yukarıda (2) nolu bentte izah edildiği üzere paydaşın, payına karşılık 
 
 ## Yargıtay 8. HD 2019/561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/480091800)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -198,6 +240,8 @@ Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 Paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan her zaman payına vaki elatmanın önlenmesini ve/veya ecrimisil isteyebilir. Ancak, o paydaşın, payına karşılık çekişmesiz olarak kullandığı / kullanabileceği bir kısım yer varsa açacağı ecrimisil davasının dinlenme olanağı yoktur. Yerleşmiş Yargıtay içtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorununu, kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir …
 
 ## Yargıtay 1. HD 2018/15784 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475455600)
 
 Dava, mülkiyet hakkında dayalı ecrimisil isteğine ilişkindir.
 
@@ -208,6 +252,8 @@ Bilindiği üzere, paylı mülkiyette taşınmazdan yararlanamayan paydaş, enge
 Somut olayda, davacı paydaşların paylarına karşılık kullanabilecekleri yerler bulunduğu keşfen saptanmış olup, davalının çekişme konusu yeri dava dışı paydaş babası Aydın'a teb'an kullanımının haksız işgal niteliğinde olduğunu ve ecrimisile konu edilebileceğini söyleyebilmek mümkün değildir.
 
 ## Yargıtay 8. HD 2018/14309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430239100)
 
 Dava, paydaşlar arasında el atmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -222,9 +268,13 @@ Bundan ayrı, taşınmazın getirdiği ürün itibariyle de, kendiliğinden olu�
 
 ## Yargıtay 1. HD 2017/6211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385509600)
+
 Asıl davada bir kısım davalılar, ... ... ’e kadar olan parsellerde harabe evlerin bulunduğunu ve kullanılmadığını, diğer taşınmazlarda ise davacıların paylarından daha fazla yer kullandığını, ecrimisil isteğinin yerinde olmadığını bildirip davanın reddini savunmuşlardır.
 
 ## Yargıtay 1. HD 2017/5576 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378378500)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -234,10 +284,14 @@ Hal böyle olunca, yukarıda değinilen ilkeler gözetilmek suretiyle gerekli ar
 
 ## Yargıtay 1. HD 2016/7338 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223334800)
+
 Mahkemece, davanın kabulüne dair verilen karar Yargıtay .... Tarafından "...1-Mahkemece, binadaki boş olan kullanılmayan daireler için de ecrimisile hükmedilmiştir. Oysa, ecrimisil; TMK.nun 995.maddesine göre ve 08.03.1950 gün ve 22/4 sayılı Yargıtay İçtihadı Birleştirme Kararında da kabul edildiği gibi; başkasının taşınmazını haksız olarak kullanmış olan kötüniyetli zilyedin, ödemekle yükümlü olduğu bir tazminattır. Davalılarca kullanılmayan veya kiraya verilmeyen yerlerle ilgili yanılgılı değerlendirme sonucu yazılı şekilde ecrimisile hükmedilmiş olması doğru görülmemiştir.2-Davalılar arasında zorunlu dava arkadaşlığı bulunmamaktadır. Mahkemece, her birinin kullandığı ve kiraya verdiği yerlerin farklı olduğu saptanmış olmasına rağmen; ayrı ayrı sorumlulukları belirlenerek, ecrimisille sorumlu tutulmamış olmalarıda doğru değildir.3-Ayrıca, dava konusu binada en üst katın davalı ... tarafından yapıldığı anlaşılmaktadır. Bu durumda, davacılar zeminde müşterek bulunduklarından; arsa kirası üzerinden, davalının ecrimisille sorumlu olduğu gözetilmeli, oluşacak sonuç dairesinde bir hüküm kurulmalıdır.
 Yanılgılı değerlendirme ve eksik inceleme sonucu yazılı şekilde hüküm kurulmuş olmasının doğru olmadığı .." gereçesiyle bozulmuş mahkemece, bozma ilamına uyularak yapılan yargılama sonucunda davanın kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2015/12937 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143617600)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -246,6 +300,8 @@ Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 Hemen belirtmek gerekir ki; çekişme konusu taşınmazda davacı da paydaş olduğu halde taşınmazdan yararlanamadığı, payına karşılık çekişmesiz olarak kullanabileceği bölümün bulunmadığı, intifadan men koşulunun da gerçekleştiği belirlenmek suretiyle ecrimisil isteğinin kabulüne karar verilmiş olmasında kural olarak bir isabetsizlik yoktur.
 
 ## Yargıtay 1. HD 2015/2462 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120396900)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, davacılar, kayden paydaş oldukları dava konusu yirmi parça taşınmazın uzun yıllardır davalılar tarafından kullanıldığını ve taşınmazları kullanmalarına izin verilmediğini, uyarılara ve açılan davalara rağmen davalıların kullanıma devam ettiklerini ileri sürerek eldeki davayı açmışlardır.
 
@@ -259,6 +315,8 @@ Ayrıca davacılar tarafından aynı taşınmazlara yönelik, davalı aleyhine a
 
 ## Yargıtay 1. HD 2015/1526 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120267600)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -269,6 +327,8 @@ Kabule göre de bilirkişi raporlarında, bir kısım taşınmazlarda herhangi b
 
 ## Yargıtay 1. HD 2014/18301 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/293498900)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -277,6 +337,8 @@ Gerçekten de; davacı ...'in 227 parsel sayılı taşınmaz içerisinde payına
 
 ## Yargıtay 1. HD 2014/11348 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/89109600)
+
 Dava, on parça çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -284,6 +346,8 @@ Dava, on parça çaplı taşınmaza elatmanın önlenmesi ve ecrimisil istekleri
 Hal böyle olunca, 1314 parsel sayılı taşınmazda davacının kullandığı bir yer olup olmadığının belirlenmesi, payına karşılık kullandığı bir yer varsa bu parsel bakımından davanın reddine karar verilmesi, davalıların kullandıkları çaylık alanların miktarları tam olarak belirlendikten sonra ihtarnamenin tebliğinden dava tarihine kadar olan dönem için ecrimisile hükmedilmesi gerekirken yukarda değinilen hususlar gözardı edilerek yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2014/10718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84119900)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 

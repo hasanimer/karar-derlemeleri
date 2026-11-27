@@ -27,13 +27,19 @@ ekilebilecek ürünler münavebeye alınarak İlçe Tarım ve Orman Müdürlüğ
 
 ## Yargıtay 5. HD 2025/11381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176144600)
+
 Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan inceleme sonucunda, ecrimisil davası yönünden; ecrimisil istemi malvarlığı haklarına ilişkin olduğundan, davanın bu niteliğine göre davaya bakma görevi asliye hukuk mahkemesine ait olduğundan, mahkemece, ecrimisil talebi yönünden dosyanın tefrik edilerek görevsizlik kararı ile asliye hukuk mahkemesine gönderilmesi yerine, işin esasına girilerek bu konuda karar verilmesi, eski hale getirme davası yönünden; mahkemece, mahallinde keşif yapılıp, mimari proje, yönetim planı ve tapu kaydı uygulanarak, tarafların talep ve delillerinin tespit edildikten sonra gerekçeli bilirkişi raporu alınıp, projeye aykırılıklar tek tek tespit edilip, sonucunun değerlendirilerek hüküm kurulması gerekirken, eksik ve yetersiz inceleme ile hüküm kurulması, …
 
 ## Yargıtay 7. HD 2025/2055 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145131500)
+
 Yargıtay 8. Hukuk Dairesince: “bozma nedenine göre sair temyiz itirazlarının incelenmesine yer olmadığına, öncelikle 01.09.2011-31.01.2013 (davamızın takip eden dönemi) dönemi ecrimisil talebi ile ilgili Vakıflar Genel Müdürlüğünün 20.02.2013 tarih ve 301 sayılı ecrimisil ihbarnamesinin iptaline ilişkin İstanbul 9. İdare Mahkemesinin 30.04.2014 tarihli ve 2013/773 Esas, 2014/815 Karar sayılı kesinleşme şerhini içerir ilâmının getirtilmesi, davaya konu 2739 ada 3 parselin imar uygulamasından önceki tapu kayıtları, ilk tesisinden itibaren atlanmaksızın, birbirini izleyecek şekilde ve krokileriyle birlikte ilgili yerlerden getirtilmesi, yerinde uygulama yapılması ve yeniden denetime elverişli uzman bilirkişilerden rapor alınması, mevcut durumun imar uygulamasıyla oluşup oluşmadığının açıklığa kavuşturulması ve sonucuna göre karar verilmesi gerekirken davalının savunması dikkate alınmadan eksik araştırma ile yazılı şekilde davanın kabulüne karar verilmesinin doğru görülmediği” gerekçesiyle karar bozulmuştur.
 
 ## Yargıtay 5. HD 2025/536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133491700)
 
 Yargıtay (Kapatılan) 18. Hukuk Dairesince yapılan inceleme sonucunda; emsalin taşınmazla aynı konumda olması, taşınmaza yakın mesafede bulunması, aynı nitelik ve özellikleri taşıması, benzer yüzölçümünde olması veya kamulaştırmaya yakın günlerde satılması zorunlu değildir. Aynı özellik ve nitelikleri taşıyan başka yerlerde bulunan ve değerlendirme gününden önce satılan taşınmazlar da emsal alınabilir. Bu emsalin satış fiyatına Türkiye İstatistik Kurumu Üretici Fiyat Endeksi uygulanmak suretiyle değerlendirme tarihinde oluşan fiyatları bulunduktan sonra dava konusu taşınmazla karşılaştırılıp incelenerek aradaki farklılıklar belirtilip üstün ve eksik yönleri açıklanmalı, bu nitelik ve farklılıkların taşınmazın değerine olan etkilerinin ne olduğu belirtilmeli ve bu suretle yapılacak karşılaştırma ile dava konusu taşınmazın değeri belirlenmesi gerektiği, emsal kayıtlar Tapu Müdürlüğünden getirtildikten sonra bunun imar parseli olup olmadığı da sorulup saptanmalıdır.
 İncelenen emsal imar parseli olup da dava konusu taşınmazın bu nitelikte olmaması hâlinde dava konusu taşınmazın yapılacak karşılaştırmadan sonra bulunacak değerinden, 3194 sayılı İmar Kanunu'nun 18 inci maddesinin ikinci fıkrası gözetilerek düzenleme ortaklık payına tekabül edecek oranda indirim yapılması gerektiği, 2942 sayılı Kamulaştırma Kanunu'nun (2942 sayılı Kanun) 4650 sayılı Kanun ile değişik 11 inci maddesinin birinci fıkrasının (d) bendi gereği emlak vergi değerlerinin de dava konusu taşınmazın emsalle karşılaştırılmasında gözönünde tutulması gerekir. Buna göre dava konusu taşınmaz ve emsallerin emlak vergisine esas tutulan asgari metrekare değerlerinin ilgili Belediye Başkanlığından 2014 yılı itibarıyla getirtilerek karşılaştırılması ve değerlendirmeye esas alınan oranlar fahiş ölçüde farklı olduğunda bu farklılık ve çelişkinin giderilmiş olması gerekir.
@@ -41,6 +47,8 @@ Yukarıda açıklanan esaslara uygun olarak alınacak bilirkişi raporuna göre 
 Mahkemece, yukarıda belirtilen şekilde inceleme ve araştırma yapılarak hazırlanacak bilirkişi raporuna göre hüküm kurulması gerekirken soyut olarak otopark olarak kullanılabileceği belirtilmek suretiyle herhangi bir emsal kira sözleşmesi esas alınmadan hazırlanan rapora göre ecrimisile hükmedilmesi ve 2942 sayılı Kanun'un 6487 sayılı Kanun'la değiştirilen Geçici 6 ncı maddesinin onikinci ve onüçüncü fıkraları 13.03.2015 tarihli Resmî Gazete'de yayımlanan Anayasa Mahkemesinin 13.11.2014 tarihli, 2013/95 Esas, 2014/176 Karar sayılı kararıyla iptal edildiğinden; 04.11.1983 tarihinden sonra el atılan taşınmazlar yönünden, kamulaştırmasız el atma nedeniyle açılan davalarda, mahkeme ve icra harçları ile her türlü vekâlet ücretinin nispî olarak uygulanması gerektiğinden hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/2467 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052020300)
 
 Yargıtay 1. Hukuk Dairesince;
 
@@ -51,12 +59,16 @@ verilmesinin isabetsiz olduğu” gerekçesiyle karar bozulmuş, davalı vekilin
 
 ## Yargıtay 8. HD 2024/1032 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017664600)
+
 Dairemizin 26.04.2022 tarihli ve 2021/3831 Esas 2022/4067 Karar ... ilamı ile; ''...Mahkemece, dava konusu taşınmazın muris ...'dan mirasçılarına geçtiği, mirasçıları arasında herhangi bir taksim yapılmadığı, tüm mirasçıların ortak kullanımında olduğu kanaati ile davanın kabulüne karar verilmiş ise de, eksik inceleme ve araştırma ile karar verildiği anlaşılmaktadır. Şöyle ki, davalı, dava konusu taşınmaza ilişkin ecrimisil bedelleri ödediğine dair bir takım makbuzlar ile dava konusu taşınmazı 2003 tarihli taksime dayanarak kullandığını belirtilen taksim sözleşmesi sunmuştur. Her ne kadar keşif sırasında dinlenen mahalli bilirkişi ve tanıklar, 2003 tarihli belgenin dava konusu yerle ilgilsi olmadığını belirtmiş iseler de, gerek 2003 tarihli sözleşme gerekse ecrimisil evrakları hususunda, dava konusu yere ait olup olmadıkları ve davalının kullanımına ilişkin delil teşkil edip etmeyeceği konusunda karar vermeye ve denetime elverişli yeterli inceleme ve araştırma yapıldığını söyleyebilme olanağı yoktur.
 Yine keşif sırasında dinlenen mahalli bilirkişiler ve tanıklardan, davalının kullanımının muris adına mı yoksa kendi adına mı olduğu, kullanım süresinin ne kadar olduğu gibi konularda detaylı bilgi alınmamış, dava konusu taşınmazın kullanım hakkının kimden geldiği, kimden kime ne şekilde intikal ettiği ve kim tarafından ne zamandan beri kullanıldığı hususunda mahalli bilirkişi ve tanıkların yetersiz beyanlarına itibar edilmek suretiyle hüküm kurulması cihetine gidilmiştir. Bu şekilde eksik araştırma ve incelemeye dayalı olarak karar verilemez.
 Hal böyle olunca; doğru sonuca ulaşılabilmesi için Mahkemece mahallinde, yaşlı, tarafsız, taşınmazı iyi bilen, davada yararı bulunmayan şahıslar arasından seçilecek yerel bilirkişiler ve taraf tanıkları ile fen bilirkişinin katılımıyla keşif yapılmalı ve bu keşifte dinlenecek yerel bilirkişi ve tanıklardan, dava konusu taşınmazın kullanım hakkının kimden geldiği, kim tarafından ne zamandan beri ve ne suretle kullanıldığı; kullanım kadastrosu tarihi itibarı ile de fiili kullanıcının ne sıfatla kim ya da kimler olduğu husuları sorularak maddi olaylara dayalı ayrıntılı bilgi alınmalı; ayrıca davalının dayandığı 2003 tarihli sözleşme ve ecrimisil evrakları hususunda, dava konusu yere ait olup olmadıkları ve davalının kullanımına ilişkin delil teşkil edip etmeyeceği konusunda araştırma ve inceleme yapılmalı, bu husus yerel bilirkişi ve tanıklardan sorularak aydınlatılmalı; yerel bilirkişi ve tanık beyanlarının çelişmesi halinde gerektiğinde yüzleştirme yapılmak suretiyle çelişki giderilmeye çalışılmalı; çelişkinin giderilememesi halinde hangi beyana, hangi nedenle üstünlük tanındığı gerekçeli kararda tartışılarak açıklanmalı ve ve bundan sonra iddia ve savunma çerçevesinde toplanan tüm
 deliller birlikte değerlendirilerek sonucuna göre karar verilmelidir...'' gereğine değinilmiştir.
 
 ## Yargıtay 5. HD 2023/2907 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898060100)
 
 Dairemizce yapılan inceleme sonucunda, davaya konu ...
 Mahallesi, 525 ada 2 parsel sayılı taşınmazın arsa niteliğinde olduğu, 2942 sayılı Kanunu'nun kıymet takdir esaslarını belirten 11 nci maddesinin 1 nci fıkrasının arsalara ilişkin (g) bendi uyarınca, arsaların bedelinin değerlendirme gününden önceki özel amacı olmayan emsal satışlara göre hesaplanmasının zorunlu olduğu, bu itibarla, emsal satışların değerlendirme tarihindeki karşılıklarının fiyat artış endekslerinin uygulanması suretiyle tespiti, bundan sonra emsal ile dava konusu taşınmazın eksik ve üstün yönlerinin neler olduğu ve oranları açıklanmak suretiyle değer biçilmesi gerektiği, değerlendirme tarihi olan 2014 yılında dava konusu taşınmaz ile bilirkişi kurulunca emsal kabul edilen taşınmazın, Arsa Metrekare Rayiç Bedeli Takdir Komisyonu tarafından belirlenen emlak vergisine esas olan m² değerlerinin ilgili Belediye Başkanlığı Emlak Vergi Dairesinden, imar durumlarının Tapu Müdürlüğü ve Belediye İmar Müdürlüğünden istenip, dava konusu taşınmazın emsal taşınmaza göre üstünlük oranı karşılaştırılmadığından bilirkişi raporu hüküm kurmaya yeterli olmadığı, bu durumda; taraflara dava konusu taşınmaza yakın bölgelerden ve yakın zaman içinde satışı yapılan benzer yüzölçümlü
@@ -65,9 +77,13 @@ kira sözleşmelerinin ibrazı halinde ecrimisil miktarının tespiti için maha
 
 ## Yargıtay 3. HD 2023/2587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993787600)
+
 Dairemizce verilen 19.04.2017 tarihli ve 2017/1795 E., 2017/5659 K. sayılı ilamıyla; davacının tüm, davalının sair temyiz itirazları reddedildikten sonra, ecrimisil taleplerinde, öncelikle taraflardan emsal göstermeleri istenmek suretiyle benzer yerlerin kira sözleşmelerinin getirtilmesi, sonrasında davaya konu taşınmaz ve emsaller incelenerek taşınmaz ve çevre özellikleri dikkate alınarak dava konusu ilk dönemde serbest koşullarda getirebileceği kira parasının rayice göre belirlenmesi, sonraki dönemler için ise belirlenen miktara ÜFE artış oranın tamamının yansıtılması ile ecrimisil hesabı yapılması gerektiği, hükme esas alınan bilirkişi raporunda ecrimisil alacağının davacı ve davalı kiracı şirket arasında görülüp kesinleşen kira bedelinin tespiti kararına esas bilirkişi raporuna dayandırıldığı, ancak söz konusu dosyada kira bedeline ÜFE oranına göre artışının yapılması gerektiği kabul edilerek hüküm kurulduğu, rayiçlere göre yapılan incelemenin Mahkemece hükme esas alınmadığı, hiçbir emsal incelemesi yapılmadan kira sözleşmesindeki bedel de dikkate alınmadan sonuca gidilmesinin isabetsiz olduğu gerekçesiyle, karar bozulmuştur.
 
 ## Yargıtay 7. HD 2023/1211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884280100)
 
 Yargıtay 8.Hukuk Dairesince:
 
@@ -83,6 +99,8 @@ gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 8. HD 2021/4074 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667857600)
+
 Dava, paydaşlar arası ecrimisil isteğine ilişkindir.
 
 …
@@ -94,6 +112,8 @@ durumuna göre, doğal ürün getiren taşınmazlarda intifadan men koşulunun a
 
 ## Yargıtay 8. HD 2021/3021 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666370400)
+
 Dava, paydaşlar arasında ecrimisil istemine ilişkindir.
 
 …
@@ -103,6 +123,8 @@ Kural olarak ecrimisile hükmedilmesi için taşınmazda haksız işgalci oldukl
 Hal böyle iken davacı tarafa tanık listesi sunmak üzere süre ve imkan verilmesi, sonrasında yeniden taşınmazlar başında keşif yapılması, tanıkların taşınmaz başlarında dinlenmeleri iddia ve savunma çerçevesinde toplanmış ve toplanacak diğer deliller de nazara alınarak sonucuna göre karar verilmesi gerekirken eksik inceleme ve yetersiz araştırma ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2021/2691 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651809100)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -115,6 +137,8 @@ Hal böyle olunca; mahallinde yeniden keşif yapılarak 1, 3 , 4 ve 5 nolu bağ�
 
 ## Yargıtay 8. HD 2021/1400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644049900)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -122,6 +146,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Hal böyle olunca, önceki döneme ilişkin açılan Eyüp 1. Sulh Hukuk Mahkemesi'nin 2011/127 Esas sayılı dava dosyasında işgal edilen yerin (85 m2) dava konusu yapılan yerle aynı yer olup olmadığının belirlenmesi; aynı yer ise, ilgili dava dosyasındaki kararın kesinleşip kesinleşmediğinin araştırılması, kesinleşmemiş ise, ilgili dava dosyasının sonucunun HMK'nin 165. maddesi gereğince bekletici mesele yapılarak kesinleşmesinin beklenmesi; kesinleşmiş ise, önceki döneme ilişkin dava dosyasında tespit edilen 2010 dönemi için aylık kira bedeline ÜFE artış oranının uygulanması suretiyle tespit edilecek ecrimisile karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2021/358 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636973200)
 
 Dava, ecrimisil istemlerine ilişkindir.
 
@@ -133,6 +159,8 @@ Kabule göre de, 28.06.2016 tarihli kısa kararda hüküm altına alınan ecrimi
 
 ## Yargıtay 8. HD 2021/348 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635039200)
+
 Dava; ecrimisil istemine ilişkindir.
 
 …
@@ -143,6 +171,8 @@ Hal böyle olunca, iddia ve savunma doğrultusunda taraf delillerinin toplanmas�
 
 ## Yargıtay 8. HD 2020/7526 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/625352300)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -151,6 +181,8 @@ O halde, Mahkemece, öncelikle, kargir depo dışındaki diğer yapıların dava
 Eksik inceleme ve yetersiz bilirkişi raporu ile yetinilerek sonuca gidilmiş olması isabetsiz olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2020/6653 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622421800)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -162,6 +194,8 @@ Hal böyle olunca, mahkemece yeniden konusunda uzman bilirkişiler eşliğinde k
 
 ## Yargıtay 8. HD 2020/4390 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/591854200)
+
 Dava, ecrimisil alacağından kaynaklanan takip alacağı nedeniyle menfi tespit isteğine ilişkindir.
 
 …
@@ -169,6 +203,8 @@ Dava, ecrimisil alacağından kaynaklanan takip alacağı nedeniyle menfi tespit
 O halde Mahkemece, taraflardan emsal kira sözleşmeleri istenmesi, gerekirse benzer nitelikli yerlerin işgal tarihindeki kira bedelleri araştırılıp, varsa emsal kira sözleşmelerinin de getirtilmesi, az yukarıda açıklanan ilkeler çerçevesinde oluşturulacak bilirkişi heyeti marifeti ile yine yukarıda belirtilen ilkeler ve olgular doğrultusunda bilimsel verilere uygun, denetime elverişli şekilde emsal araştırması yapılarak ecrimisil hesabı konusunda rapor alınması, ondan sonra varılacak sonuç çerçevesinde bir karar verilmesi gerekirken, eksik inceleme ve yetersiz bilirkişi raporu ile yetinilerek sonuca gidilmiş olması isabetsiz olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2020/3877 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598292700)
 
 Dava paydaşlar arasında ecrimisil alacağına ilişkindir.
 
@@ -179,6 +215,8 @@ alan, davalının eşi Samiye’nin payı ve davacı payı ve müktesep haklar d
 
 ## Yargıtay 8. HD 2019/3144 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645764300)
+
 Dava; ecrimisil istemine ilişkindir.
 
 …
@@ -188,6 +226,8 @@ Bu genel bilgiler ışığında somut olaya gelince; mahkemece alınan bilirkiş
 O halde, mahkemece usulü müktesep haklar da gözetilmek suretiyle yukarıda açıklandığı şekilde yöntemine uygun bilirkişi raporu alınarak sonucuna göre karar verilmesi gerekirken eksik ve yetersiz bilirkişi raporunu hükme esas alarak yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2018/18861 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463254300)
 
 Dava, ecrimisil talebine ilişkindir.
 

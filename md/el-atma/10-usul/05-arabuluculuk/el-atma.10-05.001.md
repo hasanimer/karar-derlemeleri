@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2025/2914 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178832700)
+
 Davacı vekili dava dilekçesinde özetle; davacı müflis kooperatif hakkında Ankara Batı Asliye Ticaret Mahkemesi'nin 19.06.2012 tarih ve 2011/294-E ve 2012/158-K sayılı kararı ile iflasına karar verildiğini, verilen kararın 12.03.2013 tarihinde kesinleştiğini, iflasın açılması ile birlikte mülkiyeti müflise ait olan 110 adet taşınmazın masa mal varlığına dahil olduğunu, bu taşınmazlar üzerine iflasın açılması ile birlikte iflas şerhleri konulduğunu, iflas masa mal varlığına dahil olan taşınmazlardan bazılarının işgal edildiğini, konut olarak kullanılmakta olduğunun tespit edildiğini, bu tespitin üzerine mülkiyeti müflis kooperatife ait olan ve iflas masa mal varlığına dahil olan taşınmazlardaki haksız işgalin sona erdirilerek işgalcinin/işgalcilerin taşınmazdan tahliye edilebilmesi ve bu taşınmazlardan haksız olarak fayda sağlayan kişiden faydalanma bedeli kadar ecrimisilin (şimdilik 10.000,00 TL'nin) yasal faiziyle birlikte tahsiline karar verilmesi için iş bu davayı açma zaruretinin doğduğunu ileri sürerek, davalı işgalcinin dava konusu olan taşınmazdan tahliyesine, dava konusu taşınmazdan haksız olarak faydalanmasının karşılığı olan ecrimisilin haksız fiilden kaynaklanması
 nedeniyle iflas tarihinden itibaren işleyecek yasal faizi ile birlikte (şimdilik 10.000,00 TL'nin) davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -37,6 +39,8 @@ Bu durumda arabuluculuğa tabi olmayan bir dava ile birlikte açılan tazminat d
 
 ## Yargıtay 3. HD 2022/9061 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838651600)
+
 Davacı, davalı ile aralarında 21.03.2011 tarihli konut satışına ilişkin sözleşme bulunduğunu, dairenin teslim edildiğini, taksitlerin zamanında ödenmediğini, sözleşmenin 9. maddesi uyarınca temerrüt ihtarı gönderildiğini, borcun ifa edilmediğini ileri sürerek sair hakları saklı tutularak sözleşmenin feshine ve davalı tarafından işgal edilen taşınmaza vaki el atmanın önlenmesine karar verilmesini istemiştir.
 
 Davalı, davaya cevap dilekçesi sunmamıştır.
@@ -50,6 +54,8 @@ Mahkemece, dosya üzerinden yapılan inceleme ile 6502 sayılı Tüketicinin Kor
 SONUÇ: Yukarıda açıklanan nedenlerle 6100 sayılı HMK'nın 373/1 maddesi uyarınca temyiz olunan bölge adliye mahkemesi kararının KALDIRILMASINA …
 
 ## İstanbul BAM 16. HD 2020/26 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/559563000)
 
 İLK DERECE MAHKEMESİNİN KARARI:İlk derece mahkemesince yapılan yargılama sonucunda, dava şartı arabuluculuk son tutanağı incelendiğinde, davalı ile arabuluculuk sürecinin başladığı tarihin 09/08/2019 olduğu, anlaşmaya varılamadığına ilişkin tutanak tarihinin 05/09/2019 olduğu, davanın 01/07/2019 tarihinde açıldığı, bu hali ile yasanın aradığı şekilde dava açılmadan önce arabuluculuk kurumuna başvurulmadığı ve son tutanağın dava açılmadan önce alınmadığı ve dava şartının gerçekleşmediği anlaşılmakla, HMK 114/2 ile HMK 115/2 gereğince davanın, dava şartı yokluğu sebebiyle usulden reddine karar verilmiştir.
 

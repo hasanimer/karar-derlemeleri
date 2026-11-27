@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2013/7770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79740000)
+
 Davalının öteki temyiz itirazlarına gelince; çekişme konusu taşınmaza davacının 29.5.1996 tarihinden beri malik olduğu, davalının ise çekişmeli yeri uzun yıllardır kullandığı keşfen sabittir. Kaldı ki, bu husus davacının da kabulündedir. Davacı tarafından davalının kullanımına mani olmak yönünden uzun süre bir uyarı ve ihtar da bulunulmamış dava tarihinden kısa bir süre önce, Beşiktaş 11. Noterliğinin 1.6.2007 tarihli ihtarnamesinde davalının ihtarnamenin tebliğinden itibaren 30 gün içinde taşınmaz üzerindeki binayı yıkıp temiz olarak tahliye etmesini ve ayrıca son 5 yıllık ecrimisili ödemesini istemiş, ihtarname davalıya 4.6.2007 tarihinde tebliğ edilmiş, dava ise 3.8.2007 tarihinde açılmıştır. Öyle ise, taraflar arasındaki ilişkinin Borçlar Kanunu'nun 299. maddesinde öngörülen (6098 sayılı TBK'nun 379. maddesi) ariyet akdi (kullanım ödüncü) niteliği taşıdığı kuşkusuzdur.
 Bilindiği üzere ariyet akdi sözlü yapılabileceği gibi yazılı da yapılabilir ve aynı zamanda muayyen bir müddet için yapılabileceği gibi aynı Yasanın 303. maddesi uyarınca (6098 sayılı TBK'nun 383. maddesi) gayrımuayyen bir müddet içinde yapılması da olanaklıdır. Âriyet veren şeyi, ne müddetini ne de niçin kullanılacağını tayin etmeyerek vermiş ise dilediği vakit geri alabileceği BK'nun 304. maddesi hükmü (6098 sayılı TBK'nun 384. maddesi) gereğidir. Bu durumda dava açılmakla muvafakatin geri alındığı ve BK'nun 304. maddesi (6098 sayılı TBK'nun 384. maddesi) gereğince de akdin feshedildiği kabul edilmelidir.
 
@@ -29,15 +31,21 @@ O halde, ihtarnamenin tebliğinden itibaren davalıya taşınmazı boşaltması 
 
 ## Yargıtay 1. HD 2013/7110 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79667400)
+
 Bu durumda, davalıya 13/12/2011 tarihli ihtarnameyle, tebliğ tarihinden itibaren 10 gün içinde taşınmazı tahliye etmesi ihtaren bildirildiğine göre,ecrimisilin, tahakkuk edeceği dönemin, ihtarnamenin tebliğ edildiği 15.12.2011 tarihten itibaren 10 günlük sürenin bitim tarihinden, davanın açıldığı 2.1.2012 tarihleri arasındaki dönem olduğu gözetilerek, buna göre belirlenecek ecrimisilin hüküm altına alınması gerekmektedir.
 
 Hal böyle olunca, yukarıda sözü edilen dönemi kapsayacak şekilde belirlenecek olan ecrimisilin hüküm altına alınması gerekirken, yanılgılı değerlendirme ile davacı yararına fazla ecrimisilin hüküm altına alınmış olması isabetli değildir.
 
 ## Yargıtay 1. HD 2013/6555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79744700)
+
 Öte yandan, davacının çekişmeli taşınmazı 14.06.2010 tarihinde satış suretiyle edindiği, 23.05.2011 keşide tarihli ihtara rağmen davalının taşınmazı boşaltmadığı taktirde iktisap tarihinden itibaren ecrimisil isteğinde bulunduğu gözetilerek dava tarihinden çekişmeli taşınmazı satın aldığı tarihe kadar geriye dönük ecrimisil isteğinin kabulüne karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi de isabetsizdir.
 
 ## Yargıtay 1. HD 2013/5302 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79655000)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -46,6 +54,8 @@ Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkin
 Öyle ise, haksız işgal tazminatı niteliğindeki ecrimisilin kapsayacağı dönemi belirleyebilmek için davalının taşınmazı tasarruf etmeye başladığı tarihin duraksamaya yer bırakmayacak şekilde açığa çıkarılması önem taşımaktadır. Tarafların bu konuda dosyaya sunacakları delillerin toplanarak işgalin başlangıç tarihinin saptanması ve istek de gözetilmek suretiyle, sonucuna göre karar verilmesi gerekirken yazılı olduğu üzere hüküm kurulmuş olması doğru değildir.
 
 ## Yargıtay 1. HD 2013/5120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79634900)
 
 Dava, el atmanın önlenmesi, ecrimisil ve eski hale getirme isteklerine ilişkindir.
 
@@ -58,6 +68,8 @@ Bu düzenlemeler karşısında davalının kullanım durumu değerlendirildiğin
 
 ## Yargıtay 14. HD 2013/3561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647404300)
+
 Dava, şahsi hak niteliğindeki kooperatif üyeliğine dayalı elatmanın önlenmesi tahliye ve ecrimisil istemine ilişkindir.
 
 …
@@ -66,11 +78,15 @@ Dava, şahsi hak niteliğindeki kooperatif üyeliğine dayalı elatmanın önlen
 
 ## Yargıtay 1. HD 2013/223 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79221000)
+
 Öte yandan, uzun süreli kullanıma muvafakat edilmesi ecrimisil tahakkukuna mani ise de, el atmanın önlenmesi isteğinin reddine gerekçe gösterilemez,zira ihtar çekilmekle veya dava açılmakla muvafakatın geri alındığının kabulü gerekir.
 
 Hal böyle olunca; elatmanın önlenmesi isteğiyle birlikte davacıların, davalıya gönderdiğini ileri sürdüğü ihtarnamenin mevcudiyeti halinde, ihtarnamenin tebliği tarihinden itibaren dava tarihine kadar ki dönem gözetilmek suretiyle belirlenecek ecrimisile hükmedilmesi; aksi halde muvafakatin dava açılmakla geri alındığının kabulü ile elatmanın önlenmesine, ancak ecrimisil isteğinin reddine karar verilmesi gerekirken yanılgılı değerlendirmeyle yazılı olduğu üzere hüküm kurulmuş olması doğru değildir.
 
 ## Yargıtay 3. HD 2012/22590 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487851000)
 
 TMK’nun 705 ve İİK’nun 134. maddeleri birlikte değerlendirildiğinde davalı malik Kooperatifin taşınmazın ihale tarihinde mülkiyet hakkı sona ermektedir. Yine, bu durumda üçüncü kişilerin elinde olan taşınmazı ihalede satın alan davacılara teslim borcundan da söz edilemez. Mahkemece, bu davalının ecrimisil ile sorumlu tutulması doğru görülmemiştir.Diğer davalılar yönünden ise, taşınmazı işgal eden üçüncü kişi durumundadırlar. Taşınmazın cebri satışa konu olduğunu ancak icra müdürlüğünün İİK’nun 135/2. maddesi hükmüne göre gönderdiği ihtarname ile öğrenmiş olmakla ihtarnamenin tebliğ tarihinden yasal 15 günlük sürenin geçmesi üzerine haksız şagil durumuna gelecekleri ve ecrimisil ödemekle yükümlü olacakları tartışmasızdır.
 
@@ -78,9 +94,13 @@ O halde mahkemece, davalı kooperatif yönünden davanın reddine ve diğer dava
 
 ## Yargıtay 3. HD 2012/19067 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/532488200)
+
 Öyle ise mahkemece, yukarıdaki ilke ve esaslar gözetilerek, davalıya gönderilen ve dava konusu yerin kullanımına son verilmesine ilişkin ihtarnamenin tebliğ tarihinden, taşınmazın terk edildiği tarihe kadar ecrimisile karar verilmesi gerekirken, yanılgılı değerlendirme sonucu yazılı şekilde hüküm tesisi bozmayı gerektirmiştir. Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/12003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79235400)
 
 Dava; elbirliği mülkiyetine tabi taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup mahkemece elatmanın önlenmesi isteğinin kabulüne, ecrimisil isteğinin ise kısmen kabulüne karar verilmiştir.
 
@@ -90,12 +110,16 @@ Ancak Türk Medeni Kanununun 599. maddesi hükmü uyarınca mirasbırakanın öl
 
 ## Yargıtay 1. HD 2012/8329 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79250000)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi, ecrimisil ve eski hale getirme isteklerine ilişkin olup dosya içeriğinden ve toplanan delillerden mahkemece davacının kayden malik olduğu ...ada 32 sayılı taşınmazın fen bilirkişiler tarafından ortak düzenlenen 22.3.2011 havale tarihli krokili raporda kırmızı ve yeşil renk ile boyalı olarak işaretlenen toplam 26,66m2 yüzölçümlü kesimine davalı tarafından haklı ve geçerli bir neden olmaksızın el atıldığı gözetilerek el atmanın önlenmesine karar verilmiş olmasında kural olarak bir isabetsizlik bulunmamaktadır. Davalının bu yönlere ilişkin temyiz itirazları yerinde değildir. Reddine;
 
 Ne varki ; Mahkemece davacı ve davalıya ait taşınmazlar arasında bulunan duvarın davalı tarafından yıkıldığı kabul edilerek yıkılan duvarın yeniden inşaasına , taşınmazın eski hale getirilmesine ve ecrimisile karar verilmiş ise de davalı ... ada 19 sayılı taşınmazı 30.12.1997 tarihinde bugünkü haliyle satın aldığını, taşınmazın fiili kullanımına bugüne kadar davacının itirazının bulunmadığını iddia etmiştir. Mahkemece iki taşınmaz arasında önceden duvar bulunup bulunmadığı, ne zaman ve kim tarafından yıkıldığı, taşınmaz üzerinde bulunduğu belirtilen barın ne kadar süreyle ve ne şekilde kullanıldığı, el atmanın ne zaman oluştuğu ve fiili kullanım şeklinin süresi yönünde araştırma ve inceleme yapılmadan, davacı ve davalının belirttiği tanıkların beyanlarına başvurulmadan soyut ve gerekçesiz olarak yazılı şekilde hüküm kurulması isabetsizdir. Bundan ayrı davacı, davalıya el atmasını sonlandırması ve ecrimisil ödemesi yönünde ihtar göndermemiştir.
 Davalı da ...ada 19 sayılı taşınmazı 30.12.1997 tarihinde bugünkü haliyle satın aldığını, taşınmazın fiili kullanımına bugüne kadar davacının itirazının bulunmadığını iddia ettiği halde, bu savunma açıklığa kavuşturulmadan, davacının, çekişmeli yeri davalının kullanımına muvafakat edip etmediği, taraflar arasında BK'nun 299. maddesi hükmünde öngörüldüğü şeklinde şifai bir ariyet bağıtının kurulup kurulmadığı ve aynı Yasanın 304. maddesi uyarıncada dava açılmasıyla muvafakatın geri alınıp alınmadığı, başka bir deyişle akdin feshedilerek sonlandırılıp sonlandırılmadığı üzerinde de durulmamıştır. Diğer taraftan kabule göre de davacı 04.10.2011 havale tarihli ıslah dilekçesiyle ecrimisil dönemlerini ve faizin başlangıç tarihini belirterek ecrimisil miktarını artırdığı ve ıslah dilekçesinin sonuç bölümündeki ecrimisil dönemlerinde yaptığı maddi hatanın düzeltilmesi istemiyle 24.10.2011 havale tarihli dilekçeyi mahkemeye sunduğu halde mahkemece; 04.10.2011 havale tarihli ıslah dilekçesinin sonuç bölümü dikkate alınarak gerekçe belirtilmeden yazılı şekilde ecrimisile hükmedilmesi ve faizin başlangıç tarihinin hüküm yerinde belirtilmemesi de doğru değildir.
 
 ## Yargıtay 1. HD 2012/4700 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79599400)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -107,14 +131,20 @@ Hal böyle olunca; ihtarnamenin tebliğ tarihinden itibaren verilen 15 günlük 
 
 ## Yargıtay 8. HD 2012/4352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610948900)
+
 Yargıtay’ın kararlılık arz eden içtihatlarında; ecrimisil davalarında talep edilen faizin başlangıç tarihi olarak, alacağın ait olduğu dönem sonu esas alınması gerektiği vurgulanmaktadır. Birkaç yıllık ecrimisil talep edilmesi halinde, birden çok dönem söz konusu olacağından, bu durumda her dönemin son bulduğu tarihten itibaren faiz tahakkuk ettirilecektir.
 
 ## Yargıtay 3. HD 2012/1677 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621372600)
 
 Somut olayda; ecrimisile konu edilen taşınmaza taraflar paydaş olup paydaşlar kural olarak intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi; ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanmak isteğinin davalı paydaşa bildirilmiş olmasına bağlıdır. İntifadan men koşulunun gerçekleştiği iddiası, tanık dahil her türlü delille ispatlanabilir. Bu koşul dava şartı niteliğinde olduğundan gerçekleşip gerçekleşmediğinin mahkemece re'sen araştırılarak saptanması gerekir.Dosyadaki bilgi ve belgelerden; bir kısım davacıların davalıya ihtar çektiği ve ihtarnamenin davalıya tebliğ edildiği tarihi ile dava tarihi arasında ki dönem için ihtarname gönderen davacılar yönünden ecrimisil talep etme şartlarının oluştuğu anlaşılmaktadır. Davacılar ihtarnamenin tebliğinden önceki döneme ilişkin olarak davalının dava konusu taşınmazı kullanmaktan men edildiği hususunu ispatlayamamışlardır.
 Sadece ihtarnamenin davalıya tebliğ tarihi ile dava tarihi arasında ki dönem için davalıya ihtar çeken davacılar yönünden ecrimisil talep etme şartlarının oluştuğu gözetilmeden ihtar öncesi dönem için ecrimisile hükmedilmesi doğru görülmemiş bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/1272 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78976300)
 
 Dava , çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -123,6 +153,8 @@ Dava , çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişk
 Hal böyle olunca; davacı Y.. bakımından ecrimisil isteğinin reddine , diğer davacı Ö.. yönünden ise istek de gözetilmek suretiyle ihtarnamenin davalı tarafa tebliğ tarihinden dava tarihine kadar olan süre için belirlenecek ecrimisilin Ö..'in payı oranında kabulüne karar verilmesi gerekirken yazılı olduğu üzere hüküm kurulmuş olması isabetsiz olduğu gibi ; kısa kararda faize yer verilmediği halde gerekçeli kararda ecrimisile faiz tahakkuk ettirilerek kısa karara çelişkili olacak şekilde gerekçeli karar oluşturulması da doğru değildir. Bilindiği üzere kısa karar ve gerekçeli karar çelişkisi kamu düzeni ile ilgili olup; davacıların temyizi bulunmamakla beraber re'sen gözetilmesi gereken bir husustur.
 
 ## Yargıtay 1. HD 2011/11063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924522400)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -134,9 +166,13 @@ Hal böyle olunca, mahkemece davalıya ne zaman ihtarname gönderildiğinin sapt
 
 ## Yargıtay 3. HD 2011/10378 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964640000)
+
 O nedenle davada 4 yıl 4 ay için, fazlaya dair haklar saklı tutularak 10.000,00 TL ecrimisilin dönem sonlarından başlatılacak kademeli yasal faizi ile birlikte tahsili istendiği ve dava konusu taşınmazın talep konusu dönem için toplam 70.438,24 TL ecrimisil getirebileceği kabul edildiği halde, davacıya her bir yıla göre istenen ecrimisil miktarı ayrı ayrı açıklatılarak, buna göre kabul edilen ve kalan kısım ile o kısma ait faiz başlama tarihleri belirtilmeden, toplam miktar üzerinden davanın kabulü ile faizin tahakkuk tarihi olan dönem sonlarından yürütüleceğinin belirtilmesi doğru görülmemiştir.
 
 ## Yargıtay 1. HD 2011/9819 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79103000)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -146,15 +182,21 @@ Ne varki, haksız işgal tazminatı olan ecrimisil isteği bakımından müdahal
 
 ## Yargıtay 3. HD 2011/5274 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970604100)
+
 Yargıtayın yerleşik uygulamasına göre, ecrimisilin, taşınmazın davacı adına tesciline dair ilamın kesinleştiği tarihden itibaren başlaması gerekir. Mahkemece, mülkiyetin davacı adına tescil tarihinden (21.11.2006) önceki süreleri kapsar şekilde ecrimisile hükmedilmesi ... görülmemiştir.
 
 ## Yargıtay 1. HD 2011/1416 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78825200)
 
 Dava; elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup çekişme konusu yeri davalının, kayıttan ve mülkiyetten kaynaklı hakkı bulunmadığı halde kullanmak suretiyle müdahale ettiği belirlenerek elatmanın önlenmesine ve belirlenen ecrimisile hükmedilmiş olmasında kural olarak bir isabetsizlik yoktur.
 
 Ancak davacı çekişmeli yere bağlantılı olarak 18.09.2009 tarihinde pay satın almış ve davalı tarafa 15.12.2009 tebliğ tarihli ihtarda bulunarak 10 gün içerisinde taşınmazın terk edilmemesi halinde ecrimisil isteği ile birlikte yasal yollara başvurulacağı bildirildiğine göre, davalı tarafın taşınmazda fuzuli şagil durumuna düştüğü tarihin ihtarnamenin tebliğ tarihinden itibaren 10 gün sonraki 25.12.2010 tarihi olacağı sabittir. O halde, ecrimisilin başlangıç tarihi 25.12.2010 kabul edilerek dava tarihine kadar belirlenecek davacının payı oranında ecrimisile hükmedilmesi gerekirken yazılı olduğu üzere karar verilmiş olması isabetsizdir.
 
 ## Yargıtay 1. HD 2011/1220 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78789800)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -164,19 +206,27 @@ Değinilen ilke ve yasa hükümleri gözardı edilerek, kısa kararda "hükmedil
 
 ## Yargıtay 1. HD 2011/953 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78730700)
+
 Bu durumda, davacılar tarafından davalı O..'a gönderilen 30.4.2008 tarihli ihtarnamede, tebliğ tarihinden itibaren 30 gün içerisinde çekişmeli bölümü boşaltması ihtaren bildirildiğine göre, sözü edilen ihtarnamenin tebliğ edildiği tarihten itibaren öngörülen 30 günlük sürenin bitim tarihine kadar olan süre yönünden davalı O..'ı fuzuli şagil olarak kabul etmek olanaksızdır. Öyleyse, kötüniyetli zilyedin taşınmazı kullanmasından dolayı malikine ödemekle yükümlü bulunduğu haksız işgal tazminatı niteliğindeki ecrimisilden davalı O..'ın bu süre bakımından sorumlu tutulmasına olanak yoktur.
 
 Hal böyle olunca, 30.4.2008 tarihli ihtarnamenin davalı O..'a tebliğ edildiği tarih saptarak, davalı O..'a taşınmazı terk etmesi yönünde tanınan 30 günlük sürenin hitam tarihi ecrimisilin başlangıcına esas alınmak suretiyle, dava tarihine kadar ki dönem için belirlenecek ecrimisilin hüküm altına alınması gerekirken, yazılı olduğu üzere karar verilmiş olması doğru değildir. Davalı O..'ın, bu yöne ilişkin temyiz itirazı yerindedir. Kabulü ile hükmün açıklanan nedene hasren HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 03.12.2010 tarihinde yürürlüğe giren Avukatlık Ücret Tarifesinin 14. maddesi gereğince gelen temyiz eden vekili için 825.00.-TL. duruşma avukatlık parasının temyiz edilenden alınmasına, 01.02.2011 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2010/13525 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78559700)
+
 Öte yandan,ecrimisil isteği red edilmiş ise de, yapılacak inceleme sonucu, Ş. ile kira ilişkisinin olmadığının saptanması halinde ecrimisil isteği yönünden de diğer tüm davalılar hakkında işgalin başlangıcı ile dava tarihi arasındaki süre gözetildiğinde bu tasarrufun onaya (muvafakata) dayalı olduğu sonucu çıkarılacak kadar uzun bir süre olamayacağı açıktır. Bu durumda; tüm davalılar bakımından ecrimisil isteğinin kabulüne karar verilmesi gerekecektir.
 
 ## Yargıtay 14. HD 2010/11493 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770188900)
+
 Davada asıl istek, paya vaki müdahalenin önlenmesidir. Davacı, bu isteğin yanında 30.04.2009 tarihli intifadan men ihtarından sonraki dönem için ecrimisil tahsili talebinde de bulunmuştur. Dava, 29.05.2009 tarihinde açılmıştır. Tarafların 233, 255 ve 1009 parsellerden tümüyle davalının yararlandığında bir çekişmeleri olmadığından, mahkemece davacı payına yönelik elatmanın önlenmesi isteminin kabulü gerekirken, bu talebin reddi doğru olmamıştır.
 
 ## Yargıtay 1. HD 2010/10691 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78633500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, ecrimisil ve İcra İflas Kanunundan kaynaklanan itirazın iptali isteklerine ilişkindir.
 
@@ -186,6 +236,8 @@ Ne varki, davalı H. yargılama sırasında taşınmazı boşalttığı belirlen
 
 ## Yargıtay 1. HD 2010/3963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79386700)
+
 Dava, el atmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -193,6 +245,8 @@ Dava, el atmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 Hal böyle olunca, Türk Medeni Kanunun 683. maddesinden kaynaklanan davacılara ait mülkiyet hakkına değer verilerek, el atmanın önlenmesine, reklam panolarının kaldırılmasına ve ihtarın tebliği tarihinden dava tarihine kadarki süre için belirlenecek ecrimisilin hüküm altına alınmasına karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde hüküm kurulması doğru değildir. Şayet davalının varsa bir kişisel hakkı kendi akidine yönelerek hak arayabileceği kuşkusuzdur.Davacıların temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 7.4.2010 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2010/1361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78684800)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi,yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -202,6 +256,8 @@ Hal böyle olunca; mahkemece, noksan soruşturma ile yetinilerek karar verilmesi
 
 ## Yargıtay 14. HD 2009/12588 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846490700)
+
 Dava, intifa hakkına dayalı elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -209,6 +265,8 @@ Dava, intifa hakkına dayalı elatmanın önlenmesi ve ecrimisil isteğine iliş
 Hal böyle olunca; elatmanın önlenmesi isteğiyle birlikte davacının davalıya çektiği ihtarname de gözetilmek suretiyle belirlenecek ecrimisile hükmedilmesi gerekirken yanılgılı değerlendirmeyle davanın reddine karar verilmiş olması doğru değildir. Yargıtay Hukuk Genel Kurulu’nun benzer nitelikteki bir olaya ilişkin 4.11.2009 tarihli, 2009/1-401 Esas, 2009/473 Karar sayılı ilamı da aynı doğrultudadır.
 
 ## Yargıtay 1. HD 2009/8002 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78416800)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -218,9 +276,13 @@ Hal böyle olunca, 21.6.1944 tarih 13/ 24 sayılı İnançları Birleştirme Kar
 
 ## Yargıtay 1. HD 2009/876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78271300)
+
 Hal böyle olunca, ihtarnamenin davalıya tebliğ edildiği tarih ile dava tarihi arasındaki dönem için saptanacak ecrimisile hükmedilmesi gerekirken, bu isteğin tümden reddedilmesi doğru olmadığı gibi, her ne kadar yargılama sürerken taşınmaz boşaltılmış ise de , davalı davanın açılmasına sebebiyet verdiğinden yargılama giderlerinden sorumlu tutulması gerekirken, bunların davacı üzerinde bırakılması da isabetsizdir.
 
 ## Yargıtay 1. HD 2008/12014 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78567500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -230,6 +292,8 @@ Hal böyle olunca, ihtarnamenin davalıya tebliğ edildiği tarihten dava tarihi
 
 ## Yargıtay 1. HD 2008/9308 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78227400)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -237,6 +301,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişki
 O halde, ihtarnamenin tebliği tarihinden itibaren davalılara ihtarnamede belirtilen sürede gözetilmek suretiyle dava tarihine kadar geçen dönem için belirlenecek ecrimisilin hüküm altına alınması gerekirken yanılgılı değerlendirme ile değinilen süreç dışında kalan diğer zamanlar içinde ecrimisil yönünden yazılı olduğu üzere karar verilmiş olması doğru olmadığı gibi kabul tarzı itibariylede bölünebilir nitelikte bulunan ecrimisilinde davacının payı gözetilmeksizin tamamı üzerinden hüküm altına alınmış olmasıda isabetli değildir.
 
 ## Yargıtay 1. HD 2008/1417 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78065500)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -246,11 +312,15 @@ Hal böyle olunca, ihtarnamenin tebliğinden sonraki 1 aylık sürenin sonundan 
 
 ## Yargıtay 1. HD 2007/7304 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78411500)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil;birleşen dava ise, muhtesatın aidiyetinin tespiti isteklerine ilişkin olup; mahkemece hükmüne uyulan bozma kararında gösterildiği kapsamında araştırma ve inceleme yapılarak davadan önce çekişmeli taşınmazın tamamını davalının kullandığı, ancak yargılama aşamasında davacıların da kullanımına bıraktığı yer bulunduğu başka bir deyişle davacılar yönünden intifadan men olgusunun gerçekleşmediği belirlenmekle; elatmanın önlenmesi davasının konusuz kalması karşısında, bu istek bakımından karar verilmesine yer olmadığına şeklinde hüküm kurulması gerekirken davanın reddedilmiş olması doğru değildir.
 
 Öte yandan, dava tarihine kadar çekişmeli taşınmazı tamamının davalı tarafından kullanıldığı, davalının 7.4.2005 tarihli beyanıyla sabittir.O halde, davalının bu beyanı ile 21.1.1999 tarihli ihtarname gözetilmek suretiyle, davacıların payına isabet edecek ecrimisilin belirlenerek hüküm altına alınması gerekirken, yanılgılı değerlendirmeyle bu istek yönünden de davanın reddine karar verilmiş olması isabetsizdir.Ayrıca dava konusu taşınmaz Türk Medeni Kanununun 688. ve devam eden maddelerinde öngörüldüğü üzere paylı mülkiyet hükümlerine tabi olup, tarafların paydaş bulunduğu kayden sabittir.Davalının taşınmaz üzerine yapmış olduğu binanın Türk Medeni Kanununun 684.maddesi uyarınca arzın mütemmin cüzü olacağı ve arzın mülkiyetine tabi bulunduğu tartışmasızdır.
 
 ## Yargıtay 14. HD 2006/3916 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851939800)
 
 Mülkiyet hakkı hak sahibine yasal sınırlamalar dışında mutlak bir tasarruf hakkı tanır. Davalıların uzun süreden beri davaya konu yeri kullana geldikleri, evin bulunduğu taşınmazı davacı yanın 8.7.2004 tarihinde mülkiyetine geçirdiği dosyadaki delillerle sabittir. Davacı 1.11.2004 tarihinde çektiği ihtarnamede satınalma tarihinden itibaren haksız işgal tazminatı isteyeceğini belirttiğine göre istenilen sürenin tamamı için ecrimisile karar verilmesi gerekirken ihtarname çektiği tarihten önceki aylara ait ecrimisilden feragati varmış gibi değerlendirme yapılarak sadece ihtarnamenin tebliğinden sonraki tarih için ecrimisil hesabı ile bunun tahsiline karar verilmesi yasaya aykırıdır. Ecrimisil hakkında kurulan hükümdeki değere bakılarak bu kısım hakkındaki mahkeme hükmünün kesinleştiğinden sözedilerek 2.2.2006 tarihinde verilen hükümle davacı tarafın temyiz isteminin reddine karar verildiği anlaşılmaktadır. 2.2.2006 tarihli mahkeme hükmü davalı tarafın buna yönelik bir temyizi olması halinde kesinlik sırnırı bakımından onun açısından değerlendirmeye tabi tutulacak hallerdendir. Davacının 23.12.2005 tarihli hüküm hakkındaki temyiz istemi o hükümle karşılanamayan talebine yöneliktir.
 Bunun miktarı kesinlik sınırının üzerinde olduğuna göre davacının hükmü temyizde hukuki yararı mevcuttur. Davacı süresi içinde 2.2.2006 tarihli hükmüde temyiz ettiğine göre yasaya aykırı olduğu anlaşılan 2.2.2006 tarihli mahkeme hükmünün kaldırılmasına ve mahkemenin 23.12.2005 tarihli hükmünün bozulmasına karar vermek gerekmiştir.

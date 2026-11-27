@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2008/9347 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78232100)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, eski hale getirme ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -28,6 +30,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi, eski hale getirme ve ecrimisil 
 Ne var ki, davada ecrimisil yanında miktar belirtilmeden yasal faiz istendiğine göre, ecrimisilin yasal faizi ile birlikte tahsiline karar verilmekle yetinilmesi gerekirken infaza ilişkin olan ecrimisil faizinin miktar olarak gösterilmesi doğru olmadığı gibi, bozma ilamı öncesindeki ilk kararda hükmedilen 18.304,68.-YTL ecrimisil için hesaplanan faiz miktarının bozma sonrasında hükmedilen 9.956,59.-YTL ecrimisil miktarına aynen uygulanması da isabetsizdir.
 
 ## Yargıtay 1. HD 2007/4918 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77896000)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -45,6 +49,8 @@ Ecrimisil alacaklarından dönem sonlarından itibaren faize hükmedilmesi gerek
 
 ## Denizli BAM 1. HD 2025/1298 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171693300)
+
 Dava, şahsi hakka dayalı ecrimisil alacağının tahsili için yapılan takibe itirazın iptali istemine ilişkindir.
 
 …
@@ -53,15 +59,21 @@ Hal böyle olunca, yerel mahkemece yapılması gereken, ecrimisil talebine iliş
 
 ## Ankara BAM 21. HD 2023/27 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864478200)
+
 Asliye Hukuk Mahkemesinin 2016/373 E sayılı dosyasında görülen davada, 2018/290 K numarası ile davanın kabulüne 7.324,34 TL ecrimisil bedelinin her dönem sonunda işleyecek yasal faizi ile ve davacı lehine hükmedilen vekalet ücretinin davalı genel müdürlüklerinden alınmasına karar verildiğini, davacı tarafça Sinop İcra Müdürlüğünün 2019/451 E sayılı dosyasında icra takibi başlatıldığı, dosya borcuna 16.044,57 TL ödeme yapıldığı, yapılan posta giderleri, gider avansı, başvurma harcı, istinaf karar harcı, tehiri icra karar harcı, bakiye karar harcı olmak üzere 1.140,90 TL olmak üzere toplam 17.185,47 TL ödeme yapıldığını,Genel Müdürlükleri ve ... arasında 24.07.2006 tarihinde imzalanan İHDS gereğince tüm dağıtım faaliyetlerinin ... tarafından yürütülmesi ve bu tesislerin kullanımının ...’a ait olması nedeniyle ayrıca İHDS nin 7.5. ve 7.7 maddesindeki düzenlemeler gereğince ,yerel mahkemede ikame edilen davaya konu taleplerin kullanımına ilişkin olması ve gerekçeli kararda da belirtildiği üzere taleplerin İHDS sonrası dönem olan 2010 ila 2015 yılı dönemlerini kapsaması huşuları dikkate alındığında, dava ile icra dosyasına yapılan tüm ödemelere ilişkin sorumluluğun ...'a ait olduğu, bu
 nedenle 01.07.2009 tarih ve 6687 sayılı yazıyla 17.752,78 TL nin ödenmesinin talep edildiği, davalı ... an 6446 sayılı yasanın 19. maddesi gereğince ve İHDS 7.2. ve 7.4 maddelerine göre sorumluluğun ...’a ait olduğunu beyanla ödeme taleplerini reddettiğini belirtilerek,fazlaya ilişkin hakları saklı kalmak kaydıyla, Sinop 2. Asliye Hukuk Mahkemesinin 2016/373 E 2018/290 K sayılı dosyasına yapılan masrafların ve bu dosyaya istinaden açılan Sinop İcra Müdürlüğünün 2019/451 E sayılı dosyasına yapılan masraf ve ödemelerin toplamı olan 17.185,47 TL nin ödeme tarihlerinden itibaren işleyecek avans faizi ile birlikte,davalı ...'tan rücuen tahsili ile müvekkili kuruma verilmesini talep etmiştir.
 
 ## İstanbul BAM 3. HD 2022/1935 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782883600)
+
 Bilirkişi tarafından davacı tarafça ihtar gönderildiği şeklinde belirtilen dilekçelerin davalı ... tarafından verildiği halde bu dilekçelerin davacı tarafça yazılan ihtarlar olarak nitelendirildiği, davalının sözleşmesi devam ettiğini savunduğu araçlara ilişkin kira sözleşmeler iile her bir aracın teslim belgesini değerlendirilmediği, davalı taraça sunulan dilekçe örneklerinde belirtilen hususların davacının araçları teslimden kaçınması olarak nitelendirilip nitelendirilemeyeceğinin değerlendirilmediği, kira sözleşmesinde faize ilişkin hüküm bulunmamasına rağmen faiz hesaplaması yapılmış olduğu, kira sözleşmesindeki araçların kira bedelleri belirtilmişken ecrimisil hesabında kiralama şirketinden alınan fiyat listesine göre, ortalama aylık 1.500,00 TL kira getirisi sağlayacağının tespit edilmesinin hatalı olduğu halde raporun hükme esas alınması usul ve yasaya uygun olmadığı tespit edilmiştir.
 Bu nedenle, davalı tarafın istinaf başvurusunun HMK'nın 353/1-a-6 maddesi uyarınca kabulü ile kararın kaldırılmasına, yukarıda belirtilen hususlarda yeniden hükme elverişli, dosyadaki belgelerle uyumlu ve denetime elverişli şekilde bilirkişi incelemesi yaptırılarak hasıl olacak sonuca göre karar verilmek üzere dosyasının mahkemesine gönderilmesine karar vermek gerekmiştir.
 
 ## İstanbul BAM 2. HD 2019/1527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540881700)
 
 İhale kesinleşinceye kadar taşınmazın ne şekilde muhafaza ve idare edileceği ... dairesi tarafından kararlaştırılır.” hükmüyle, cebri ihale sonucu mülkiyetin kazanılması ve ihale kesinleşinceye kadar taşınmazın idare ve korunma şekli belirlenmiştir.Bu yasal düzenlemelere göre ihale ile taşınmazı satın alan kişi veya kurum taşınmazın mülkiyetini ihalenin kesinleşmesi halinde ihale tarihinde kazanmış olur.Somut uyuşmazlıkta, cebri ihale 20.03.2012 tarihinde yapılmış olup davalılardan ... tarafından açılan ihalenin feshi davası reddedilerek 20.12.2013 tarihinde kesinleşmiştir. Bu durumda, ihale alıcısı davalı ...'e mülkiyetin 20.12.2013 tarihinde geçtiği ve ihale tarihinden itibaren davalı-karşı davacının ecrimisil isteyebileceği açıktır.İİK'nun 135/2. maddesinde ise “Taşınmaz borçlu tarafından veya hacizden evvelki bir tarihte yapıldığı resmi bir belge ile belgelenmiş bir akte dayanmayarak başkaları tarafından işgal edilmekte ise onbeş gün içinde tahliyesi için borçluya veya işgal edene bir tahliye emri tebliğ edilir. Bu müddet içinde tahliye edilmezse zorla çıkarılıp taşınmaz alıcıya teslim olunur” denilmiştir.
 Anılan yasa hükmüne göre, ihale yoluyla satılan taşınmazın kayıt maliki dışındaki üçüncü kişiler tarafından işgali halinde uygulanma olanağı bulmaktadır.Alıcıya ihale edilen taşınmaz kayıt maliki dışındaki kişi ya da kişiler tarafından işgal edilmekte ise İİK'nun 135/2 maddesindeki açıklamaları içeren ihtarnamenin işgalciye gönderilerek 15 günlük süre tanınması ondan sonra ecrimisil isteğinde bulunulması gereklidir..."Somut olayda; dava konusu taşınmazın 02/05/2005 tarihindeki ihale sonucu davacının mülkiyetine geçtiği, taşınmazda işgalci konumunda bulunan davalı ...'a taşınmazın 15 gün içinde tahliyesi için İcra müdürlüğünce gönderilen tahliye emrinin 11/07/2007 tarihinde tebliğ edildiği, 19/02/2008 tarihinde taşınmazın tahliye edildiği anlaşıldığından bu davalının 27.07.2007- 19.02. 2008 tarihleri arasındaki süre için hesaplanan ecrimisilden müteselsilen sorumlu olacağı anlaşılmıştır. Diğer davalının ise ihale tarihinden itibaren dava konusu tüm süre yönünden sorumlu olduğu açıktır.

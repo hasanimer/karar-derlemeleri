@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2020/4158 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598668800)
+
 Davalı vekili, dava konusu taşınmazın kamulaştırılarak bedelinin ödendiğini ve dava konusu taşınmazın belediyenin mülkiyetine geçtiğini belirterek davanın reddini savunmuştur.
 
 …
@@ -35,6 +37,8 @@ Yargıtay 1. Hukuk Dairesinin 2013/17350 Esas ve 2014/1438 sayılı önceki bozm
 SONUÇ: Davacılar vekili ve davalı vekilinin temyiz itirazları yukarıdaki sebeplerle yerinde görüldüğünden kabulü ile hükmün 6100 sayılı HMK'nin Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/3452 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648325000)
 
 Davacı; 545 ada (380), 113 parsel üzerinde yer alan binanın zemin kat dükkanlarının (ardiye, kantar ofisi, depo ve eklentilerinin) davalılar tarafından işyeri olarak kullanıldığını, 216 ada, 1 parsel sayılı taşınmazın bir kısmının tel çitle çevrildiğini ve öte yandan davalı ...'ün bağımsız maliki olduğu ve halı saha olarak işlettiği komşu 115 parseli 113 parsele taşkın kullandığını, 113 parselin bir kısmının halı saha ve halı sahanın devamı niteliğinde sundurma, çay ocağı ve kafeterya olarak kullandığını, davalıların gerek bizzat kullanmak gerekse ihracatçı firmalara sezonluk kiralamak suretiyle gelir elde ettiklerini, kullanımına engel oldukları gibi payına isabet eden gelirden de pay vermediklerini ileri sürerek eldeki davayı açmış, yargılama sırasında davalılardan ... ve ... hakkındaki davadan feragat etmiş, diğer davalı ... bakımından da keşfen belirlenen değer üzerinden talebini arttırmıştır.
 
@@ -54,6 +58,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı ... vekilinin temyiz itirazlar�
 
 ## Yargıtay 5. HD 2019/20671 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560440200)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -67,6 +73,8 @@ Arsa niteliğindeki taşınmazların getirebileceği ecrimisil miktarı hesaplan
 Davalı ... Belediye Başkanlığı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenle HMK'nun 371. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/11118 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569068800)
 
 Davacı vekili, asıl davada, davalı şirketin, 1.5.2000 başlangıç tarihli kira sözleşmesi ile dava konusu taşınmazda 10 yıl süre ile kiracı olarak bulunduğunu, kira süresinin 1.5.2010 tarihinde sona erdiğini, davalının taşınmazı boşaltmaması nedeniyle ... 2. Sulh Hukuk Mahkemesinin 2010/589 Esas sayılı dosyası ile tahliye davası açıldığını ve davalının tahliyesine karar verildiğini, ancak davalı tarafın taşınmazı işgale devam ettiğini açıklayarak, aylık 15.000 TL ecrimisilin davalıdan alınmasına karar verilmesini istemiş, birleşen davada da aynı beyanları tekrar ile asıl davadan sonraki dönem için ecrimisil talebinde bulunmuştur.
 
@@ -90,6 +98,8 @@ SONUÇ: Davalı vekilinin temyiz itirazları yukarıda açıklanan nedenlerle ye
 
 ## Yargıtay 8. HD 2019/10185 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567185000)
+
 Davacılar, mirasbırakanları adına kayıtlı bulunan 266 ada 32 parsel sayılı taşınmazın davalı ... tarafından salı günleri pazar yeri olarak kullanıldığını ileri sürerek elatmasının önlenmesine ve tahakkuk tarihlerinden itibaren kademeli yasal faizi ile birlikte ecrimisile karar verilmesini istemişlerdir.
 
 Davalı ..., taşınmazın ihya etmek suretiyle haftanın bir günü pazar yeri olarak kullandıklarını belirterek davanın reddini savunmuştur.
@@ -112,6 +122,8 @@ SONUÇ: Yukarıda (1) numaralı bentte yazılı nedenlerle taraf vekillerinin di
 
 ## Yargıtay 8. HD 2019/8714 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648997900)
+
 Davacılar vekili, tarafların ortak murislerinden intikal eden 1247 ada 39 parsel sayılı taşınmaz üzerinde kurulu binadaki dava konusu dairenin haklı ve geçerli bir neden olmaksızın davalı tarafından işgal edildiğini belirterek, dava konusu yere davalı tarafından yapılan müdahalenin önlenmesine ve fazlaya ilişkin hakları saklı kalarak geriye dönük 5 yıllık hisseye düşen kira bedeli olan 3.750,00 TL'nin her aya ilişkin bedelin ilişkin olduğu ayın sonundan itibaren yasal faizi ile birlikte davalıdan tahsiline karar verilmesini istemiştir.
 
 Davalı vekili, dava konusu yerde davacıların da kullanabilecekleri yerler bulunduğunu belirterek davanın reddini savunmuştur.
@@ -132,6 +144,8 @@ SONUÇ: Davalı vekilinin karar düzeltme talebinin, 6100 sayılı HMK'nin Geçi
 
 ## Yargıtay 8. HD 2019/6774 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646555700)
+
 Davacı, asıl ve birleşen davalarında; maliki oldukları 34 ada 1 parsel sayılı taşınmazın davalılara kiraya verildiğini ancak davalıların aynı ada 2 ve 3 parsel sayılı taşınmazları da otelin devamı olarak kullanarak işgal ettiklerini ileri sürerek ecrimisile karar verilmesini istemiştir.
 
 Davalılar, taşınmazların başkaları tarafından işgalini engellemek amacıyla kısa bir dönem masa sandalye konulması suretiyle kullanıldığını belirterek davanın reddini savunmuşlardır.
@@ -146,6 +160,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı kurum vekilinin temyiz itirazla
 
 ## Yargıtay 5. HD 2019/4312 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486615200)
+
 Mahkemece uyulan bozma kararı uyarınca inceleme ve işlem yapılarak hüküm kurulmuş, karar taraf vekillerince temyiz edilmiştir.
 
 …
@@ -157,6 +173,8 @@ Dava kunusu taşınmaz arsa niteliğinde olduğundan ...... geliri üzerinden ec
 Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U....nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2018/18191 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452578600)
 
 Dava, müdahalenin meni, kal ve ecrimisil istemine ilişkindir.
 
@@ -172,6 +190,8 @@ Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan n
 
 ## Yargıtay 8. HD 2018/16222 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451710100)
+
 Davalı cevabında; intifadan men koşulunun gerçekleşmediğini, taşınmazı ABF Tekstil Ürünleri Sanayi Limited Şirketi’nin kullanması nedeniyle husumetin kendisine yöneltilemeyeceğini, davacının temerrüde düşürmeden faiz isteyemeyeceğini belirterek, davanın reddini savunmuş;
 
 …
@@ -186,6 +206,8 @@ SONUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeplerle BOZULMASINA …
 
 ## Yargıtay 5. HD 2018/8945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423353200)
+
 Mahkemece uyulan bozma kararı gereğince inceleme ve işlem yapılarak hüküm kurulmuş, karar davalı idare vekilince temyiz edilmiştir.
 
 …
@@ -197,6 +219,8 @@ Bunun için mahkemece; taşınmazın bulunduğu mevkideki diğer arsaların kira
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/2302 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409005000)
 
 Davacı Kayyım vekili, dava konusu 115 ada 7 parsel sayılı taşınmazda hisse malikleri ...
 
@@ -220,6 +244,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle taraf vekillerinin temyiz itirazların�
 
 ## Yargıtay 5. HD 2017/7243 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/319518600)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -231,6 +257,8 @@ Arsa niteliğindeki taşınmazın ecrimisil bedeli belirlenirken, taşınmazın 
 Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/6639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/384764700)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -244,6 +272,8 @@ Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü il
 
 ## Yargıtay 1. HD 2017/6405 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/381260000)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -256,6 +286,8 @@ Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü il
 
 ## Yargıtay 1. HD 2017/5250 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/375172600)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -267,6 +299,8 @@ Davanın kabulüne ilişkin karar Dairece “...Dosya içeriğine, toplanan deli
 Davalı vekilinin temyiz itirazı yerindedir. Kabulüyle hükmün belirtilen nedenlerle (6100 sayılı Yasanın geçici 3. maddesi yollaması ile) 1086 sayılı HUMK'nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/1257 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355808100)
 
 Dava, haksız işgalden kaynaklanan ecrimisil isteğine ilişkindir.
 
@@ -290,6 +324,8 @@ Davalılar vekilinin temyiz itirazı açıklanan nedenden ötürü yerindedir. K
 
 ## Yargıtay 1. HD 2017/1126 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355569600)
+
 Dava, vekâlet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu iptali, tescil ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -299,6 +335,8 @@ Hâl böyle olunca, dava konusu bağımsız bölümlerin ecrimisil istenen ilk d
 Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2016/11228 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208079200)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -315,6 +353,8 @@ Hal böyle olunca, ecrimisilin dava edilen ilk tarihten itibaren ileriye doğru 
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan, hükmün, açıklanan nedenlerle H.U....nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/7330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223303300)
 
 Dava, ecrimisil isteğine ilişkindir.
 

@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1406 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724739200)
+
 (2) Bir davanın incelenmesi ve sonuçlandırılması başka bir davanın veya idari makamın çözümüne bağlı ise mahkeme, ilgili tarafa görevli mahkemeye veya idari makama başvurması için uygun bir süre verir. Bu süre içinde görevli mahkemeye veya idari makama başvurulmadığı takdirde, ilgili taraf bu husustaki iddiasından vazgeçmiş sayılarak esas dava hakkında karar verilir...” hükmünü içermekte olup, madde metninden de anlaşılacağı üzere, bir davada hüküm verilmesi, başka bir davada incelenmekte ve kesin olarak karara bağlanacak olan bir hukukî ilişkinin mevcut olup olmadığına kısmen veya tamamen bağlı ise, mahkeme o davanın sonuçlanmasını beklemek üzere yargılamayı erteleyebilir. O davanın sonuçlanmasını kendi bakmakta olduğu dava için bekletici sorun yapabilir. Davaların aynı sebepten doğması veya biri hakkında verilecek kararın diğerini etkileyecek nitelikte bulunması hâlinde iki dava arasında bağlantı var sayılır.
 
 Somut olayda da, davalı tarafından TMK'nın 652. maddesi gereğince açılan dava konusu taşınmazın miras hakkına mahsuben sağ kalan eşe özgülenmesi davasının sonucunda mülkiyet durumu değişebileceğinden ortaklığın giderilmesi davasının sonucu da etkilenecektir. Bu nedenle, davalı tarafından açılan Balıkesir 1. Sulh Hukuk Mahkemesinin 2015/262 E. sayılı dosyasının HMK'nın 165/1. maddesi gereğince görülmekte olan ortaklığın giderilmesi davası için bekletici sorun yapılması gerekir. Her ne kadar mahkemece, bekletici sorun yapılması istenen bahsi geçen davanın davalı tarafından ortaklığın giderilmesi davasında karar verildikten sonra açıldığı, bekletici sorun yapılamayacağı gerekçesiyle direnme kararı verilmiş ise de, hüküm kesinleşinceye kadar açılmış olan ve eldeki davanın sonucuna etki edecek mahiyetteki davanın HMK'nın 165. maddesi gereğince bekletici sorun yapılması gerektiği kuşkusuzdur.
 
 ## Yargıtay HGK 2019/1096 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570981800)
 
 Dava, muhdesatın aidiyetinin tespiti istemine ilişkindir.
 
@@ -37,13 +41,19 @@ Yukarıda ifade edildiği üzere, tespit davası, kendine özgü davalardan olup
 
 ## Yargıtay HGK 2009/116 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16788800)
+
 Tarafların karşılıklı iddia ve savunmalarına, dosyadaki tutanak ve kanıtlara, bozma kararında açıklanan gerektirici nedenlere ve özellikle, davacı tarafından inşa edildiği ihtilafsız olan dava konusu muhdesatın üzerinde bulunduğu parsel hakkında paydaşlar arasında derdest bulunan ortaklığın giderilmesi davası sonunda taşınmazın muhdesatla birlikte satılarak yıkılması durumunun yanı sıra; tapuda mevcut zemin paydaşları veya ortaklığın giderilmesi davası sonucunda taşınmazı satın alan yeni zemin malikinin men’i müdahale ve kal davası açmak suretiyle davacı muhtesat sahibine taşınmazdan el çektirme ihtimalinin bulunmasına, bu itibarla hukuken himaye edilmesi gereken hakkı yakın bir tehlike altında bulunan davacının eldeki tespit davasını açmakta hukuki yararının bulunduğunun kabulü gerektiğine; nitekim Hukuk Genel Kurulu’nun 07.04.2004 gün ve E:2004/7-185 K:2004/207 sayılı kararında da aynı ilkenin benimsenmiş olmasına göre, Hukuk Genel Kurulu’nca da benimsenen Özel Daire bozma kararına uyulmak gerekirken, önceki kararda direnilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 7. HD 2026/480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208630200)
+
 Tespit davalarında, tespit davası açanın hukuki yararının varlığı gerekir. 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 106/2 hükmünde “tespit davası açanın, kanunlarda belirtilen istisnai durumlar dışında, bu davayı açmakta hukuken korunmaya değer güncel bir yararı bulunmalıdır.” denilmektedir. Bu nedenle taşınmaz üzerinde bulunan muhdesat yönünden derdest ortaklığın giderilmesi davası ya da kamulaştırma işlemi bulunmadığı takdirde bu dava görülemez.
 
 ## Yargıtay 7. HD 2025/5372 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196327900)
 
 Dava; muhdesat aidiyetinin tespiti istemine ilişkindir.
 
@@ -53,19 +63,27 @@ Dava; muhdesat aidiyetinin tespiti istemine ilişkindir.
 
 ## Yargıtay 7. HD 2025/2781 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169471400)
+
 İstanbul 15. Sulh Hukuk Mahkemesinin 2012/377 Esas sayılı dosyası üzerinden açılan ortaklığın giderilmesi davasında, davacının taraf olup aynı zamanda dava konusu taşınmazda paydaş olduğu, bu sebeple eldeki davayı açmakta hukuki yararının bulunduğu anlaşıldığından davanın esasına girilerek inceleme yapılması ve oluşacak sonuca göre bir karar verilmesi gerekirken hukuki yarar yokluğundan davanın reddine karar verilmesi doğru görülmemiş hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2024/466 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999749200)
+
 Tespit davalarının görülebilmesi için güncel hukuki yararın bulunması (6100 sayılı HMK'nın 106 ncı maddesinin ikinci fıkrası) ve dava sonuçlanıncaya kadar da güncelliğini kaybetmemesi gerekir. Tespit davaları eda davalarının öncüsüdür, bu nedenle eda davası açılmasının mümkün olduğu hallerde, tespit davası açılmasında hukuki yararın bulunmadığı kabul edilmektedir. Hukuki yararın bulunması dava şartı olup yargılamanın her aşamasında taraflarca ileri sürülebileceği gibi, hakim tarafından da re'sen gözetilir. Hukuki yararın bulunmadığının tespiti halinde davanın, dava şartı yokluğu gerekçesiyle usulden reddine karar verilmelidir. Somut olayda, davacının muhdesatın tespiti davası açmada güncel hukuki yararı bulunmamaktadır.
 
 ## Yargıtay 7. HD 2023/5117 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980912300)
 
 Erzurum Bölge Adliye Mahkemesi 1. Hukuk Dairesinin 05.04.2022 tarihli ve 2019/2081 Esas, 2022/593 Karar ... kararında belirtilen "...yeniden değerleme oranındaki artış sonucu yerel mahkeme hükmünün verildiği 2019 yılı için HMK'nın 341/2 nci maddesindeki kesinlik sınırının 4.400,00 TL olduğu, mahkemece ..., ..., ... için 2.367,05'şer TL ecrimisile hükmedildiği, paydaşlar arasında zorunlu dava arkadaşlığı bulunmadığı, davalı bakımından davacıların her biri için hükmedilen miktarların karar tarihi olan 2019 yılı itibariyle istinaf kesinlik sınırı olan altında kaldığı, hal böyle olunca 6100 ...
 HMK'nın 341, 346/1 ve 352 nci maddeleri gereğince, hüküm tarihi itibarı ile kesin olan karara ilişkin istinaf başvurusunda bulunan davalı vekilinin istinaf dilekçesinin reddine karar verilmesinin gerektiği, mahkemece el atmanın önlenmesi talebi yönünden ise ortaklığın giderilmesi davası açıldığı gerekçesiyle davanın hukuki yarar yokluğu nedeniyle ile reddine karar verilmiş ise de ortaklığın giderilmesi davası açılması veya sonuçlanmasının davacıların el atmanın önlenmesi isteğine engel olmadığı, buna göre davacıların el atmanın önlenmesi davası açmakta hukuki yararının bulunduğu anlaşılmakla mahkemece davalının davacıların payına yönelik el atmanın önlenmesi talebinin kabulüne karar verilmesi gerekirken reddine karar verilmesinin doğru olmadığı..." gerekçesiyle davalı vekilinin istinaf talebinin davacılar ..., ... ve ... yönünden usulden reddine; geri kalan davacı ... yönünden ise esastan reddine; davacılar vekilinin istinaf talebinin kısmen kabulü ile ilk derece mahkemesi hükmünün kaldırılarak davanın kısmen kabulü ile "Artvin ili, Merkez ilçesi, Dere Mahallesi, ...
 Caddesi 269 ada 5 parsel ... taşınmazın davacıların tapu kaydındaki 1/2 payları oranında el atmanın önlenmesine, davacıların ecrimisil taleplerinin kısmen kabul-kısmen reddi ile; toplam 14.202,33 TL nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak 7.101,16 TL'nin davacı ...'a, 2.367,05 TL'nin ise ayrı ayrı davacılar ..., ... ve ...'a verilmesine, fazlaya ilişkin talebin reddine" karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/4864 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980498600)
 
 Yargıtay Hukuk Genel Kurulunca;
 
@@ -75,9 +93,13 @@ yüklenicinin, arsa maliki aleyhine açtığı davada çekişmeli bölümün kat
 
 ## Yargıtay 7. HD 2023/2035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903238000)
+
 Yukarıda açıklanan ilkeler ışığında somut olaya gelince; borçlu ...'ın dava konusu 270 ada, 7 parsel sayılı taşınmazda 6/12 hissesi bulunup bu payının müstakilen satışı mümkün olduğundan bu parsel yönünden yasal koşulları oluşmadığı halde davanın kabulüne karar verilmiş olması doğru değildir. 5403 sayılı Kanun'un 8 inci maddesinde, 6537 sayılı Kanun'un 4 üncü maddesi ile yapılan değişiklikle asgari tarımsal arazi büyüklüklerinin altındaki arazilerde de payın üçüncü şahıslara satışı ve devri mümkün hale geldiğinden ve davacı alacaklının artık ortaklığın giderilmesini istemekte hukuki yararı kalmadığından mahkemece, davanın hukuki yarar yokluğu nedeniyle reddine karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 7. HD 2022/7928 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853892100)
 
 Dava, İİK'nın 121'inci maddesi gereğince açılan ortaklığın giderilmesi istemine ilişkindir.
 
@@ -87,6 +109,8 @@ Dava tarihinde davacı taraf ortaklığın satış suretiyle giderilmesini talep
 
 ## Yargıtay 7. HD 2022/3061 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783925200)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -95,9 +119,13 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 ## Yargıtay 7. HD 2022/2948 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782950600)
+
 Açıklanan nedenlerle, davacı alacaklının İcra ve İflas Kanununun 121. maddesi gereğince yetki alarak 991 parsel sayılı taşınmaz yönünden ortaklığın giderilmesi davası açmasında hukuki yararı bulunmadığından ve dava konusu 664 parsel sayılı taşınmazda ise davalı borçlunun payı bulunmadığından davanın reddine karar verilmesi gerektiğinden bu taşınmazlar yönünden hükmün bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2021/4231 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737511900)
 
 Dava, İcra ve İflas Kanununun 121'inci maddesi uyarınca alınan yetki belgesine dayalı olarak alacaklı tarafından açılan ortaklığın giderilmesi istemine ilişkindir.
 
@@ -109,6 +137,8 @@ Hukuki yarar, mahkemeden hukuksal korunma istemi ile bir davanın açılabilmesi
 
 ## Yargıtay 7. HD 2021/2902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724543400)
+
 Dava, 2004 sayılı İcra ve İflas Kanununun 121'inci maddesine göre alınan yetki belgesi uyarınca açılan ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -119,6 +149,8 @@ Dava, 2004 sayılı İcra ve İflas Kanununun 121'inci maddesine göre alınan y
 
 ## Yargıtay 8. HD 2021/1351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655319000)
+
 Dava; muhdesatın tespiti istemine ilişkindir.
 
 …
@@ -126,6 +158,8 @@ Dava; muhdesatın tespiti istemine ilişkindir.
 Tespit davaları, kendine özgü davalardan olup, tespit davalarının görülebilmesi için güncel hukuki yararın bulunması ve dava sonuçlanıncaya kadar da güncelliğini kaybetmemesi gerekir. Hukuki yararın bulunması dava şartı olup, yargılamanın her aşamasında taraflarca ileri sürülebileceği gibi, hakim tarafından da re’sen gözetilir. Öğretide ve Yargıtay’ın devamlılık gösteren uygulamalarında; taşınmaz hakkında derdest ortaklığın giderilmesi davasının, kentsel dönüşüm uygulamasının ya da kamulaştırma işleminin bulunması gibi istisnai durumlarda muhdesatın tespiti davasının açılmasında güncel hukuki yararın bulunduğu kabul edilmektedir. Bahsedilen hukuki yarar davanın sonuna kadar varlığını korumalıdır.
 
 ## Yargıtay 8. HD 2020/7510 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627186100)
 
 Dava, muhdesatın tespiti istemine ilişkindir.
 
@@ -138,9 +172,13 @@ anlaşılmaktadır. Şöyle ki, az yukarıda da, açıklandığı üzere, dava k
 
 ## Yargıtay 14. HD 2020/6202 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620096300)
+
 Borçlu davalı ...'ın dava konusu taşınmazlarda müşterek pay sahibi olduğu ve müşterek mülkiyete konu taşınmazlarda alacaklı davacı tarafından haczedilen payların doğrudan icra yoluyla satışı istenebileceğinden; davacının bu davayı açmakta hukuki yararı kalmamıştır. Mahkemece davacının dava açmakta hukuki yararı kalmadığı gerekçesiyle davasının reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiş, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2020/5103 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/611437000)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -152,13 +190,19 @@ Dava konusu taşınmazla ilgili olarak davalı ... ve arkadaşları tarafından 
 
 ## Yargıtay 14. HD 2020/4982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596201500)
+
 Bu durumda mahkemece, davalı ... tarafından açılan muhdesat aidiyetinin tespiti davası bekletici mesele yapılarak, adı geçen davalıya ait olduğuna karar verilen muhdesat yönünden gerekirse mahallinde yeniden keşif yapılmak suretiyle yukarıdaki ilkelere göre dava konusu taşınmazın tespit edilen toplam değerinin ne kadarının arza ne kadarının muhdesata isabet ettiğinin yüzdelik oran kurulmak suretiyle belirlenmesi ve muhdesata isabet eden kısmın muhdesat sahibi paydaşa, geri kalan bedelin ise tapu kaydındaki payları oranında tüm paydaşlara dağıtılması gerekir.
 
 ## Yargıtay 14. HD 2020/4645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600043700)
+
 Bu durumda, satışına karar verilen dava konusu 126 ada 1 parsel sayılı taşınmazda, davalı borçlu ... adına kayıtlı payın bu haliyle haczi ve satışı mümkün olup davacının bu parsel yönünden ortaklığın giderilmesini istemekte hukuki yararının kalmadığı anlaşıldığından; mahkemece, hukuki yarar yokluğu nedeniyle davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiş, bu nedenle hükmün bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 8. HD 2020/3683 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/595443300)
 
 Dava, muhdesatın tespiti isteğine ilişkindir.
 
@@ -167,6 +211,8 @@ Dava, muhdesatın tespiti isteğine ilişkindir.
 Kabule göre de, bütünleyici parça niteliğinde olmayıp her zaman için ana taşınmazdan sökülüp götürülebilen ve taşınmazdan ayrılması mümkün olan eşyalar da teferruat niteliğindedir. Bu nitelikteki eşyalar yönünden muhdesat aidiyeti davası açılamayacağı, iyileştirici nitelikteki giderlerden paya düşenden fazlasını ancak koşullarının varlığı halinde Türk Borçlar Kanunu'nun 77 ve devam eden maddeleri hükmüne ve sebepsiz zenginleşme kurallarına göre açılacak eda nitelikli bir alacak davası ile istenebileceği kuşkusuzdur. Eda davası açma hakkının bulunduğu hallerde bu davaya öncü olacak bir tespit davası açılmasında hukuki yarar bulunduğundan söz edilemez. Hemen belirtmek gerekir ki hukuki yarar dava koşuludur. O halde, somut olayda; mahallinde yapılan keşif sonucunda, dosyaya ibraz edilen bilirkişi raporlarına göre; aidiyetinin tespiti istenen ve Mahkemece kabulüne karar verilen, tel çit ve demir kapı taşınmazın bütünleyici parçası veya kalıcı nitelikte yapı olmayıp, muhdesat niteliğinde değildir. Tespiti istenen bu kalemler yönünden ret kararı verilmesi gerekirken, yanılgıya düşülerek kabule karar verilmesi de isabetsizdir.
 
 ## Yargıtay 8. HD 2020/3005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646966300)
 
 Dava muhdesat tespiti isteğine ilişkindir.
 
@@ -181,6 +227,8 @@ Somut olayda davacı tarafça 5762 parsel sayılı taşınmazda muhdesat olarak 
 
 ## Yargıtay 8. HD 2020/2505 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588635900)
+
 Dava, muhdesatın tespiti ve tapu kaydındaki muhdesat şerhinin terkini isteğine ilişkindir.
 
 …
@@ -193,14 +241,20 @@ nedeniyle talebin reddine karar verilmesi gerekirken, yukarıdaki açıklamalar 
 
 ## Yargıtay 14. HD 2020/94 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567818700)
+
 Elbirliği mülkiyetinin söz konusu olduğu taşınmazlarda paydaşların müstakil payı olmadığı için alacaklı olan davacının ortaklığın giderilmesi davası açmakta hukuki yararı bulunmaktadır. Bu durumda mahkemece, işin esasına girilerek bir karar verilmesi gerekirken, 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 8. maddesinde yapılan değişiklik gereği İcra Müdürlüğünden alınacak yetkiyle tapuda hisselerin belirlenip, hisse haczi yapılarak satış suretiyle alacağın alınabileceği belirtildiğinden davacının dava açmasında hukuki yararı kalmadığı gerekçesiyle davanın reddine karar verilmesi doğru görülmemiş, hükmün bu nedenle bozulmasına karar verilmiştir.
 
 ## Yargıtay 8. HD 2019/11640 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648128000)
 
 Durum böyleyken, asıl dava davacısının meydana getirdiği iddia edilen ve fen raporuna ekli krokide A harfi ile işaretli gösterilen kısmın boyasız olan bölümü ile Birleşen dava davacısı tarafından meydana getirildiği belirtilen ve fen raporuna ekli krokide B harfi ile gösterilen kısmın boyasız olan bölümünün 06.06.1967 tarihli kadastro tespitinden önce mevcut olduğu, asıl ve birleşen davanın kadastro kanununun 12/3. maddesi gereğince 10 yıllık hak düşürücü sürenin dolduğu diğer yandan fen raporuna ekli krokide asıl davacı tarafından yapıldığı iddia edilen yapının, krokide A harfi ile işaretli kısmının kırmızı boya ile gösterilen bölümünün ve benzer şekilde birleşen dava davacısı tarafından yapıldığı ileri sürülen yapının, krokide B harfi ile işaretli kısmının yeşil boya ile gösterilen bölümünün, her ne kadar kadastro tespit tarihinden sonra yapıldığı görülmekte ise de bu yapı bölümlerinin bağımsız yapı niteliğinde olmadığı ve kadastro tespitinden önce esasen var olan ana yapılara ilave olarak yapılmış iyileştirme niteliğinde yapı bölümleri olduğu, iyileştirme niteliğinde olan faaliyetlerin ise muhdesat sayılamayacağı, hukuki yararın bulunmaması nedeniyle bunların meydana
 getirildiğinden bahisle muhdesat iddiasında bulunulamayacağı, iyileştirmelerin ancak koşulları mevcutsa sebepsiz zenginleşme kurallarına göre açılacak eda davası nitelikli alacak talebine konu olabileceği, dolayısıyla asıl dava ile birleşen dava hakkında, hak düşürücü sürenin geçirilmiş olması ve hukuki yarar yokluğu nedeniyle ayrı ayrı red kararı verilmesi gerekirken, yanılgılı değerlendirme ile işin esasına girilerek yazılı şekilde ayrı ayrı kabul kararı verilmesi doğru olmamıştır.
 
 ## Yargıtay 14. HD 2019/8452 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612279500)
 
 Dava, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi isteğine ilişkindir.
 
@@ -209,6 +263,8 @@ Dava, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi isteğine i
 Öte yandan, Karşıyaka Sulh Hukuk Mahkemesinin 2008/808 Esas ve 2015/633 Esas sayılı dava dosyaları getirtilerek incelenmeli, bu dosyalardan eldeki davaya konu 21719 ada 10 ve 11 parsel sayılı taşınmazlarla ilgili ortaklığın giderilmesi davalarının açılıp açılmadığı araştırılıp davacının eldeki davayı açmakta hukuki yararının olup olmadığı tespit edilmeli, hukuki yararının bulunmadığının tespit edilmesi halinde 6100 Sayılı Hukuk Usulü Muhakemeleri Kanunun 114/1-h. maddesi gereğince hukuki yarar yokluğundan davanın usulden reddine karar verilmesi gerekirken mahkemece yazılı şekilde karar verilmesi doğru görülmemiş hükmün bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2019/6734 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520532600)
 
 Dava, muhdesatın tespiti istemine ilişkindir.
 
@@ -222,6 +278,8 @@ Bütün bu olgular birlikte değerlendirildiğinde ortaklığın giderilmesi dav
 
 ## Yargıtay 14. HD 2019/6015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538247200)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -229,6 +287,8 @@ Dava, ortaklığın giderilmesi isteğine ilişkindir.
 Somut olayda; dava konusu taşınmazdaki imar işlemlerinin iptali için Ordu İdare Mahkemesinin 2013/1669 Esas sayılı dosyası ile dava açılmıştır. İmar planının iptali için idari yargıda dava açılmışsa, açılan bu davanın sonucunun beklenmesi gerekir. Bu dava sonunda pay ve paydaş durumunun değişebileceğinden ortaklığın giderilmesi davası etkilenecektir. İdari yargıda açılan idari işlemin iptali davası 6100 sayılı HMK'nın 165/1. maddesi gereğince görülmekte olan ortaklığın giderilmesi davası için bekletici mesele teşkil eder. Mahkemece, 01.07.2015 tarihli duruşmada Ordu İdare Mahkemesi dosyasının bekletici mesele yapılmasının eldeki davaya hukuki bir yarar sağlamayacağı gerekçesiyle bekletici mesele talebinin reddine karar verilmesi doğru görülmemiş, kararın bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2018/5275 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/414607000)
 
 Dava muhdesatın tespiti isteğine ilişkindir.
 

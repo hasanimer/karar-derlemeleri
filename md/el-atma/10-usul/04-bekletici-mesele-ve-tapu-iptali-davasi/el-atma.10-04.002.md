@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2024/7060 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110856200)
+
 Davacı vekili dava dilekçesinde, müvekkilinin Kahramanmaraş ili Pazarcık ilçesi Ganidağı Mahallesi Döşeme de bulunan 108 ada 4 parsel sayılı tarlasının yanında bulunan ve tapu kaydı bulunmayan 35 yılı aşkın süredir müvekkilinin zilyetliğinde bulunan taşınmazın yaklaşık 18 dönümlük kısmını 35 yıldır ekip biçmekte olduğunu, zilyet olarak gözüken ve adlarına tescil yapılan bu kişilerin aslında zilyetlikleri bulunmadığının kendi ifadeleri ile de sabit olduğunu, taşınmazın kadastro sırasında uygulanan tapu kaydı tarihinden (inlikal tarihinden) geriye doğru yaklaşık 35 yıllık süre boyunca, öncelikle müvekkilinin dedesinin sonra babasının ve en sonunda müvekkilinin zilyetliğinde olup düzenli olarak ekilip biçilmiş olduğunu, bu süre boyunce hiç kimsenin ya da üstsoyunun dava konusu taşınmaza ilişkin herhangi bir zilyetlikleri söz konusu olmadığından dava konusu taşınmazın tapu kaydının iptali ile söz konusu taşınmazın müvekkili adına tescil edilmesini istemiş; davacı vekili 26.06.2018 tarihli ıslah dilekçesinde, dava dilekçesinde halen davalı adına kayıtlı bulunan taşınmazın zilyetliğinin tespiti ve tapu kaydının iptali ile söz konusu taşınmazın müvekkili adına tescil edilmesini
 istediklerini, ancak ilgili taşınmazın mevcut durumu ve tapulanma sürecinde olduğundan davayı zilyetliğin tespiti olarak ve davaya Orman İdaresinin dahil edilmesi yönünde ıslah ettiklerini, taşınmaz orman vasfından çıkarılmış olup, tapulama sürecinde olduğunu beyanla zilyetliğin tespitini istemiş; asli müdahil vekili müdahale dilekçesi ile, Mahkemenin 2018/494 Esasında kayıtlı bulunan dava dosyası üzerinden görülmekte olan davanın davacısı çekişme konusu olan ve Kahramanmaraş ili Pazarcık ilçesi, Ganidağı Mahallesi Döşeme mevkii ekli krokide PII olarak gösterilen taşınmazın yaklaşık 18 dönümlük kısmının 35 yılı aşkın süredir zilyetliğinde bulunduğu iddiasıyla tapu iptali ve tescil isteğinde bulunmuş olduğunu, söz konusu taşınmazı yıllardır müvekkilinin zilyetliğinde bulunmakta olduğunu, müvekkilinin burayı yaşlılık sebebiyle geçen yıl ekmemiş olup davacı yan müvekkilinden izin isteyerek söz konusu yeri kullanmış olduğunu, bu durumda asli zilyet müvekkili olup davacının yan feri zilyet konumunda olduğunu, dava konusu taşınmaza ilişkin yapılan tespitlerde de söz konusu yerlerin müvekkili ve ...'a ait olduğunu gösterir şekilde karar vermiş olduğunu beyanla asli müdahale taleplerinin
 kabulü ile taşınmazın zilyetliğinin müvekkili adına tescilini istemiş; davalılar, davanın reddini savunmuştur.
@@ -42,6 +44,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 8. HD 2024/6551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111367300)
+
 Davalı vekili cevap dilekçesinde özetle; davanın yersiz ve dayanaksız olduğunu, öncelikle dava dilekçesinin açıklanması gerektiğini, davanın tapuya itimat prensibine aykırı olduğunu, davalının dava konusu taşınmazı tapuda resmi memur önünde iktisap ettiğini, tapu kaydında herhangi bir tedbir ve beyan bulunmadığını, iyi niyetli malikin korunmasının esas olduğunu, 31.12.1981 öncesi ve geriye dönük 5 yıllık taşınmazın bulunduğu mahalde ikamet esası mevcut olduğunu, davacı tarafın taleplerinin maddi vakalara aykırı olduğunu, taşınmazın orman vasfında olmadığını, dava konusu taşınmazın içinde ürün verir şekilde meyve ağaçlarının olduğunu, taşınmazın etrafın çeviren duvarlar yapıldığını, koruma önlemleri alındığını, tüm bunların emek ve para sarfı olduğunu öne sürerek davanın reddini istemiştir.
 
 Dava, kesinleşen tahdide dayalı tapu iptali ve tescil istemine ilişkindir.
@@ -57,6 +61,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 5. HD 2024/2745 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021826000)
+
 Hukuk Dairesinin 25.10.2018 tarihli ve 2017/12650 Esas, 2018/18818 Karar sayılı kararında da belirtildiği gibi taşınmazın kesinleşen orman kadastro sınırları içinde kalan bölümü hakkında tapu iptal davası açılmadığı da gözetilip, mevcut tapu kaydı esas alınarak kamulaştırılan tüm taşınmaz bölümünün bedelinin tespiti, arta kalan tüm alan için değer azalışı verilmesi gerekirse de kamulaştırılan alanda bulunan orman tahdidi yapılan kısım düşülerek tespit edilen bölümün bedeline ve arta kalan alan için değer azalışı verilmesine davacı-davalı tapu malikince itiraz edilmediği gibi, kamulaştırılan kısımdan orman tahdidinde kalan kısmın düşülerek tapu iptal kararı verilmesini de kamulaştırmayı yapan idare vekilinin istinaf etmediği nazara alındığında mevcut kararda bir düzeltme/kaldırma yapılmasına gerek bulunmadığı, kamulaştırma nedeniyle tapu iptal ve tescil kararı verilen kısımdan arta kalan bölümün yözölçümü ve geometrik durumuna göre de belirlenen değer azalış oranının yerinde bulunduğu, Orman Genel Müdürlüğünün tapudaki şerh nedeniyle zorunlu olarak davaya dahil edildiği ve tapuda malik gözükmediği nazara alındığında lehine vekâlet ücretine hükmedilmemesinde bir isabetsizlik
 bulunmadığı, Orman Genel Müdürlüğü kamulaştırma bedel tespiti ve tescil davasına dahil edilmiş olmasına rağmen karar başlığında kamulaştırmasız el atma davasında davalı olarak gösterilmiş ise de anılan hususun her zaman mahallinde giderilebilecek maddi hata niteliğini taşıdığı anlaşıldığından davalı-davacı ... vekili ile davalı ... Genel Müdürlüğü vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
@@ -66,9 +72,13 @@ Birleştirilen davada davacı idare ve davalı ... Genel Müdürlüğü vekiller
 
 ## Yargıtay 7. HD 2024/974 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1004684100)
+
 2797 sayılı Yargıtay Kanunu’nun (2797 sayılı Kanun) 40 ıncı ve Yargıtay İç Yönetmeliği’nin 18 inci maddeleri uyarınca yapılan ön incelemede; dava konusu uyuşmazlığın niteliği ve temyizin kapsamının, asıl davada kamulaştırmasız el atma nedeniyle tapu iptali ve davalı adına tesciline, bedelinin tahsili ve ecrimisil; birleştirilen davada yolsuz tescil nedeniyle tapu iptali, olmaz ise 2942 sayılı Kanunun 17 nci maddesine göre irtifak tesisine ilişkin olduğu anlaşılmıştır.
 
 ## Yargıtay 1. HD 2023/7362 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029708600)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davada tapu iptali ve ecrimisil isteklerinin kabulüne, karşı davanın kısmen kabulü ile 289 parsel sayılı taşınmaza yönelik elatmanın önlenmesi ve ecrimisil talebinin reddine, 290 parsel sayılı taşınmaza yönelik elatmanın önlenmesi ve ecrimisil taleplerinin kabulüne karar verilmiştir.
 
@@ -92,6 +102,8 @@ Tarafların değinilen yönden yerinde görülen temyiz itirazlarının kabulü 
 
 ## Yargıtay 8. HD 2023/6362 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990822400)
+
 Mahkemenin vermiş olduğu önceki karar Yargıtay tarafından bozulmuş olup, bozma ilamında özetle; "Dava konusu 203 ada 1 parsel ... taşınmaz 13.02.1973 tarihinde yapılan tespitte tutanakta gösterilen payları oranında ... ..., ... ... ve ... .... adlarına tespit edilmiş, buna karşın ... Mahalli Mahkemesi'nin 1972/14, 1972/62, 1971/101 ve 1971/102 Esas ... dava dosyalarında dava konusu olduğundan söz edilerek tutanak Komisyona sunulmuş, sonraki tarihli komisyon kararları ile anılan dava dosyalarında tutanağın davalı olduğu belirtilerek malik hanesinin boş bırakılmasına karar verilmiştir. Dairemizin geri çevirme kararları sonucunda yapılan araştırmada; dava konusu taşınmazın davalı olarak belirtildiği ...
 Asliye Hukuk Mahkemesi'nin 1971/101 Esas ... dava dosyasının incelenmesinde; ...temsilcisi tarafından tespit tarihinden önceki tarihte tespit tutanağında adlarına tespit yapılan ....... de davalı olduğu bir kısım kişiler aleyhine men-i müdahale ve ecrimisil talepli dava açıldığı, açılan davanın 1992 yılında feragat nedeniyle reddine ve Kadastro Kanunu'nun 27. maddesi gereğince Kadastro Mahkemesine devrine karar verildiği ve Kadastro mahkemesine devredildiği, taşınmazın davalı olarak belirtildiği aynı mahkemenin 1971/102 Esas ... dosyasının incelenmesinde; ...Temsilcisi tarafından tespit tarihinden önceki tarihte tespit tutanağında adlarına tespit yapılan ... ..., ... ... ve ... ...'in de davalı olduğu bir kısım kişiler aleyhine tapu iptali ve tescil istemli dava açıldığı, anılan davanın yargılaması sırasında verilen ilk red kararı üzerine Yargıtay 1. Hukuk Dairesi tarafından dosyanın Kadastro Mahkemesine devri gerektiğinden bahisle hükmün bozulduğu, aynı mahkemede yapılan yargılama sonucunda 06.03.2013 tarihinde davanın açılmamış sayılmasına karar verildiği, henüz dosyanın kesinleşmediği, taşınmazın davalı olarak belirtildiği ...
 Sulh Hukuk Mahkemesi'nin 1972/14 Esas ... dosyasının incelenmesinde; ... Tapu Sicil Müdürlüğü tarafından tespit tarihinden önceki tarihte tespit tutanağında adlarına tespit yapılan ... ..., ... ... ve ... ...'in de davalı olduğu bir kısım kişiler aleyhine tapu iptali ve tescil talepli dava açıldığı, aynı mahkemece davanın kabulüne karar verilerek 1974 yılında hükmün kesinleştiği, anılan dava dosyasının Kadastro Mahkemesi'ne aktarılması gerekirken aktarılmadığı, taşınmazın davalı olarak belirtildiği ... Kadastro Mahkemesi'nin 1972/62 Esas ... dosyasının ise taraflar ile ilgisi bulunmadığı anlaşılmaktadır. Mahkemenin hükmüne gerekçe yaptığı dava dosyasında ise; ...temsilcisi tarafından tespit malikleri olarak belirlenen kişilerin taraf olmadığı bir kısım şahıslar aleyhine dava açıldığı, anılan dosya ile bir çok dava dosyasının birleştirildiği, yargılama sonunda da 203 ada 1 parselin dava konusu edilmediği belirtilerek bu parsel hakkında karar verilmesine yer olmadığına karar verildiği anlaşılmaktadır. Hal böyle olunca; yukarıda belirtilen ... Asliye Hukuk Mahkemesi'nin 1971/101 ve 102 Esas ve ...
@@ -102,6 +114,8 @@ Sulh Hukuk Mahkemesi'nin 1972/14 Esas ... dava dosyaları sonuçlanarak taşınm
 SONUÇ: Yukarıda açıklanan sebeplerle; temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 7. HD 2023/6084 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108788100)
 
 Davacı vekili dava dilekçesinde; müvekkilinin Rize ili, Merkez ilçesi, ... Mahallesi, 243 ada 9 parselde kayıtlı, 10 No.lu bağımsız bölümün maliki olduğunu, davalının ise kardeşi ... 'ın eski eşi olup boşandıklarını, davacının taşınmazı satın aldığı 11.07.2016 tarihinden itibaren davalının burada haksız işgalci olarak kaldığını, aralarında yazılı bir kira sözleşmesinin olmadığını, davalının taşınmaza haksız müdahalesinin men-i'ne ve müvekkilinin uğramış olduğu zararların tazmini için 11.07.2016 tarihinden itibaren ecrimisil alacağının tahsiline karar verilmesini talep etmiştir.
 
@@ -121,6 +135,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370'inc
 
 ## Yargıtay 7. HD 2023/5026 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980835600)
+
 Davacı vekili dava dilekçesinde; müvekkillerinin paydaşı olduğu dava konusu 243 ada 3 parsel ... taşınmazda davalının hiçbir ... yokken taşınmaza ceviz ağacı dikmek suretiyle tecavüz ettiğini, taşınmaza yaptığı haksız müdahalenin önlenmesini ve diktiği ağaçların kâl'ine karar verilmesini talep etmiştir.
 
 …
@@ -138,6 +154,8 @@ Diğer taraftan, anılan tapu iptal ve tescil davasının tarafı bulunan Orman 
 Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/4112 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/900726500)
 
 Davalı Hazine vekili cevap dilekçesinde özetle; dava edilen binanın ...'ye ait olduğunu ve bir kısmının Hazineye ait 4202 ada 3 parsel üzerinde, bir kısmının ise 4224 ada 129 parsel üzerinde olduğunu, bu nedenle ...'nin de davalı olarak davaya dahil edilmesi gerektiğini, ...
 
@@ -157,6 +175,8 @@ anlaşılmakla, 4721 sayılı Kanun’un 1007 nci maddesi uyarınca tazminat şa
 Davacı vekili ile asıl dosya davalısı Hazine vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 8. HD 2023/1393 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929982800)
 
 Mahkemece bozma ilamına uyularak yapılan yargılama sonunda, orman kadastrosuna itiraz davasının kısmen kabul ve kısmen reddine, ... ili ... ilçesi ... Köyü 890, 891 ve 892 parsel sayılı taşınmazların orman niteliğinde olduğunun tespitine; 1018 parsel sayılı taşınmazın bilirkişi kurulu tarafından düzenlenen 20.08.2015 tarihli ek rapora ekli krokide A harfi ile gösterilen 989.593 m2'lik kısmı ile 861, 863, 941, 943, 1019 ve 1020 nolu parsel sayılı taşınmazların orman niteliğinde olmadığının tespitine, tapu iptali ve tescil ile el atmanın önlenmesi davaları yönünden bozma öncesi verilen görevsizlik kararı kesinleşmiş olduğundan katılanların tapu iptal ve tescil talebine yönelik davalarının reddine, görevli mahkemede müdahillik hususunda muhtariyetlerine karar verilmiş; hüküm, davacı ...
 İdaresi, katılanlar Hazine, ... ve arkadaşları vekili ve ... vekili ile davalılar DSİ ve ... ve arkadaşları vekili tarafından temyiz edilmiş, Dairemizin 01.03.2022 tarihli ve ve 2021/13203 E. - 2022/1712 K. sayılı ilamıyla “ sair temyiz itirazlarının reddine, Mahkemece dava konusu taşınmazların orman sayılan yerlerden olduğu belirlenen kısımlarının orman sınırları içine alınmasına, orman sayılmayan yerlerden olan kısımlarının ise orman sınırları dışında bırakılmasına karar verilmesi gerekirken, orman niteliğinde olup olmadıklarına dair tespit hükmü kurulmakla yetinilmesi ve eldeki davanın orman kadastrosuna itiraz davası olduğu gözetilerek bozma kararından sonra davaya katılma isteminde bulunan gerçek kişilerin satın alma ve zilyetliğe dayalı katılma taleplerinin reddine karar verilmesi gerekirken, tapu iptal ve tescil talebine yönelik davalarının reddine karar verilmesi hatalı ise de, bu hususların düzeltilmesi yeniden yargılamayı gerektirmediğinden bozma sebebi yapılmamış ve hükmün aşağıda belirtilen kısmının düzeltilerek onanmasına karar verilmiştir.

@@ -43,14 +43,20 @@ başına verim miktarları, üretim masrafları ile hasat dönemindeki toptan kg
 
 ## Yargıtay 8. HD 2024/631 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017693600)
+
 Hal böyle olunca; doğru sonuca ulaşılabilmesi için, İlk Derece Mahkemesince öncelikle, dava konusu taşınmazların bulunduğu bölgeye ilişkin 2015 yılı ve öncesine ait ortofotolar ilgili yerden getirtilerek dosya içerisine alınmalı, bundan sonra mahallinde yaşlı, tarafsız, yöreyi iyi bilen ve davada yararı bulunmayan şahıslar arasından seçilecek yerel bilirkişiler, tespit bilirkişilerinin tümü ve taraf tanıkları ile fen bilirkişisi ve ziraat mühendisi bilirkişinin katılımıyla yeniden keşif yapılmalı ve yapılacak bu keşifte, yerel bilirkişi ve tanıklardan, çekişmeli taşınmaz bölümlerinin nitelikleri, 2015 yılı ve öncesinde ne şekilde zilyet edildikleri, davacıların dava konusu taşınmaz bölümleri üzerinde fiili kullanımlarının bulunup bulunmadığı, dosya içerisinde yer alan ecrimisil ihbarnamelerinin dava konusu taşınmaz bölümlerine ait olup olmadığının tespiti açısından, davacıların dava konusu taşınmazların geldisi olan 4527 parsel ... taşınmazda kullandıkları başka bir yer bulunup bulunmadığı hususlarında maddi olaylara dayalı ayrıntılı bilgileri alınmalı; tespite aykırı sonuca ulaşılması halinde tespit bilirkişileri tanık sıfatıyla ve gerekirse yüzleştirme yapılmak suretiyle
 dinlenilerek aykırılığın giderilmesine çalışılmalı; fen bilirkişisine, keşfi takibe ve denetlemeye imkan verir şekilde, özellikle 2015 yılına ve öncesine ilişkin ortofoto üzerinde inceleme yaptırılarak çekişmeli taşınmazların bu tarihlerdeki niteliklerini ve kullanım durumlarını açıklayan rapor ve kroki düzenlettirilmeli; ziraat mühendisi bilirkişisinden, çekişmeli taşınmazların zemininde evvelce herhangi bir tarımsal faaliyet yapılıp yapılmadığını ortaya koyan, somut verilere ve bilimsel esaslara dayalı ve gerekçeli rapor aldırılmalı ve bundan sonra toplanan ve toplanacak deliller birlikte değerlendirilip sonucuna göre bir karar verilmelidir.
 
 ## Yargıtay 7. HD 2023/4767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963148000)
+
 Hâl böyle olunca yukarıdaki ilkeler uyarınca yeniden keşif yapılarak çekişme konusu taşınmazlarda davalıların kullandıkları bölümlerin şüphe ve tereddüte yer vermeyecek şekilde saptanması, fen bilirkişisi krokisinde açıkça gösterilmesi, davacıların kullanabilecekleri yer olup olmadığının da tespiti, davacıların kullanabilecekleri yer varsa davanın rededilmesi, aksi halde davalıların kullandıkları yerler esas alınarak belirlenecek ecrimisile hükmedilmesi gerekirken, keşfi izlemeye yetersiz bilirkişi raporu ile yetinilerek yazılı gerekçe ile davanın reddine karar verilmesi isabetsizdir..." gerekçesiyle bozma kararı verilmiştir.
 
 ## Yargıtay 8. HD 2022/4656 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/771902400)
 
 Kullanım kadastrosu sırasında, Kazım ... Mahallesi çalışma alanında bulunan 25085 ada 8 parsel sayılı 261 metrekare yüzölçümündeki taşınmaz, kadastro tutanağının beyanlar hanesine, 6831 sayılı Yasa'nın 2/B maddesi uyarınca orman sınırları dışına çıkarıldığı ve krokisinde (A) harfi ile gösterilen kısmın kullanımsız; (B) harfi ile gösterilen kısmın ...’in kullanımında olduğu; (C) ile gösterilen kısmın ise ... 8. Asliye Hukuk Mahkemesinin 2013/364 Esas sayılı dosyasında davalı olduğu şerhi yazılarak; aynı ada 9 parsel sayılı 261 metrekare yüzölçümlü taşınmaz, kadastro tutanağının beyanlar hanesine, 6831 sayılı Yasa'nın 2/B maddesi uyarınca orman sınırları dışına çıkarıldığı ve krokisinde (A) harfi ile gösterilen kısmın ...; (B) ile gösterilen kısmın kullanımsız; (C) ile gösterilen kısmın ise ... 8. Asliye Hukuk Mahkemesinin 2013/364 Esas sayılı dosyasında davalı olduğu şerhi yazılmak suretiyle arsa vasfıyla Hazine adına tespit edilmiştir.
 Genel yetkili mahkemede davacı ... tarafından davalı ... aleyhine açılan zilyetliğin tespiti davası ile, davacılar ... ve ... tarafından davalı ... aleyhine açılan tahliye ve ecrimisil davası davaya konu taşınmaz bölümleri hakkında tutanak düzenlenmiş olması nedeniyle Kadastro Mahkemesine aktarılmıştır. Askı ilan süresi içerisinde ... 9 parsel sayılı taşınmazın (B) harfi ile gösterilip kullanımsız olduğu belirtilen bölümünün kendi fiili kullanımında bulunduğu; davacı ... aktarılan davanın konusu olup 8 parsel sayılı taşınmazın (C) ile gösterilen bölümünde bulunan iki adet tek katlı evin kendisinin ve kardeşi ...'nun kullanımında bulunduğu; davacı ... de dava konusu 25805 ada 8 parsel sayılı taşınmazda kendi kullanımında olan bölümün eksik yazıldığı iddiasına dayanarak ayrı ayrı dava açmışlardır. Kadastro Mahkemesinde, çekişmeli parsel tutanakları ile aktarılan dava dosyası ve askı ilan süresi içerisinde açılan tespite itiraz davaları birleştirilerek yapılan yargılama sonunda, davaya konu 25805 ada 8 parsel sayılı taşınmazın sınırlandırma krokisi ve kadastro tutanağında (C) harfi ile işaretli 136,00 metrekarelik kısım yönünden ... 8.
@@ -59,9 +65,13 @@ kısım yönünden ... 8. Asliye Hukuk Mahkemesinin 2013/364 Esas sayılı dosya
 
 ## Yargıtay 7. HD 2022/199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759220100)
+
 Bu durumda mahkemece, 29.05.2018 tarihli fen bilirkişisi raporu ile iki adet krokisinin de eklenmek suretiyle ... Plan ve Proje Müdürlüğüne müzekkere yazılarak, fen bilirkişi tarafından yapılan ölçümlerin güncel imar planı ile uyumlu olup olmadığının sorulması; uyumlu olmaması halinde taşınmazın güncel imar planına göre yol, park, trafo, dere, vb. alanlarda kalan kısımlarının yüzölçümü bilgilerinin istenerek, gerektiği takdirde mahallinde uzman bilirkişiler eşliğinde yeniden keşif yapılmak suretiyle dava konusu taşınmazda davalılarca el atılan kısımların miktarının net bir şekilde belirlenmesi ve daha sonra ecrimisil hesabı yaptırılarak sonucuna göre bir karar verilmesi gerekirken, bilirkişi raporları arasındaki bu çelişki giderilmeksizin, eksik inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 16. HD 2021/5039 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684813000)
 
 Hal böyle olunca;
 Mahkemece, öncelikle çekişmeli taşınmazların tutanaklarında zilyet olarak adı geçen ... oğlu ...’in tüm mirasçılarına husumet yaygınlaştırılarak davaya katılımları sağlanmalı, taşınmazlara komşu bulunan parsellerin tapu kayıtları ve dayanakları getirtilerek yöreyi iyi bilen, elverdiğince yaşlı, yansız üç kişilik yerel bilirkişi kurulu ve taraf tanıkları ile öncekinden farklı üç kişilik fen bilirkişi kurulu eşliğinde dava konusu taşınmazlar başında yeniden keşif yapılmalı ve yapılacak bu keşifte 3402 sayılı Kadastro Kanunu’nun 20. maddesi hükmü uyarınca dayanılan tapu kayıtları yerel bilirkişiler yardımı ile zemine uygulanmalı, uygulamada tapu kayıtlarının uygulama kabiliyetine haiz haritalarının bulunması halinde haritalara itibar edilmeli; haritalarının bulunmaması halinde ise kayıtlarda tarif edilen sınırlar esas alınmalı ve bu amaçla kayıtlarda belirtilen sınırlar yerel bilirkişilere tek tek göstertilmeli, bu sınırlardan yerel bilirkişilerce bilinemeyenler bulunduğu takdirde bu konuda taraflara tanık dinletme olanağı sağlanmalı, uzman bilirkişilere tapu kayıtlarında tarif edilen sınır yerleri düzenleyecekleri haritada ayrı ayrı işaret ettirilmeli, tapu kayıtlarının sınırlarının
@@ -69,6 +79,8 @@ sabit olup olmadığı üzerinde durulmalı ve tapu kaydının hukuki değeri ve
 karşılaştırmalı biçimde toprak yapısı, eğimi, bitki desenini açıklayan, taşınmazların değişik yönlerden çekilmiş ve sınırları işaretlenen fotoğraflar ile desteklenmiş ayrıntılı rapor alınmalı; fen bilirkişisinden tapu kaydının kapsamının kroki üzerinde gösterilmesi istenilmeli; bundan sonra 3402 sayılı Kadastro Kanunu’nun 14. maddesindeki miktar sınırlamaları dikkate alınmak suretiyle, toplanan delillerin sonucuna göre karar verilmelidir. Mahkemece belirtilen şekilde araştırma ve inceleme yapılmaksızın hüküm verilmesi isabetsiz olduğu gibi, Kadastro Mahkemesine aktarılan dava dosyasında davacı tarafça müdahalenin men’i ile birlikte ecrisimil de talep edildiğinden, ecrimisil talebi taşınmazın aynına ilişkin olmadığından genel mahkemenin davaya bakması gerektiğinin de göz ardı edilmesi doğru olmayıp, temyiz itirazları açıklanan bu nedenle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, peşin yatırılan temyiz karar harcının talep halinde temyiz edene iadesine, yasal koşullar gerçekleştiğinde kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere, 08.06.2021 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2021/4689 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683358600)
 
 Dava, el atmanın önlenmesi, kal ve ecrimisil istemlerine ilişkindir.
 
@@ -93,6 +105,8 @@ ise 639 m2 olduğu, diğer davalı ...’in ise evini yaptığı yerin kendisine
 
 ## Yargıtay 8. HD 2021/2351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651792900)
+
 Dava; ecrimisil istemine ilişkindir.
 
 …
@@ -104,6 +118,8 @@ dosya kapsamına uygun (ve kazanılmış haklar da dikkate alınarak) bir karar 
 
 ## Yargıtay 8. HD 2021/1400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644049900)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -112,12 +128,16 @@ Hal böyle olunca, önceki döneme ilişkin açılan Eyüp 1. Sulh Hukuk Mahkeme
 
 ## Yargıtay 16. HD 2021/1139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663153900)
+
 Mahkemece, bozma ilamına uyulduğu halde, bozma ilamının gerekleri yerine getirilmemiştir. Oysa ki, bozma ilamına uyulmakla taraflar yararına usuli kazanılmış hak oluşacağından, bu hakkın zedelenmemesi için bozma ilamının gereklerinin tam ve eksiksiz olarak yerine getirilmesi gerekir. Önceki tarihli bozma ilamında dava konusu taşınmazla ilgili olarak davacının ecri misil ödeyip ödemediğinin kesin olarak belirlenmesi vurgulandığı halde, söz konusu konu araştırma Milli Emlak Müdürlüğü yerine hatalı bir şekilde Belediye Başkanlığı’ndan yapılmıştır. Öte yandan dosya kapsamında alınan ziraat bilirkişi raporunda, taşınmazda 35-45 yaşlarında ağaçlarının bulunduğu belirtildiği halde, uzman jeodezi raporunda herhangi bir yapı unsuru ve detayı görülmediği tespitine yer verilmek suretiyle raporlar arasında çelişki oluşturulmasına rağmen, söz konusu çelişki giderilmeksizin karar verilmesi cihetine gidilmiştir. Bu şekilde eksik araştırma ve incelemeye dayalı olarak hüküm verilemez.
 
 Hal böyle olunca; doğru sonuca ulaşabilmek için Mahkemece öncelikle, davacının dava konusu taşınmazla ilgili olarak ecri misil ödeyip ödemediğine ilişkin bilgi ve belgeler Milli Emlak Müdürlüğü’nden dosya arasına celp edilmeli, dosya ikmal edildikten sonra mahallinde, yaşlı, tarafsız, yöreyi iyi bilen, davada yararı bulunmayan şahıslar arasından seçilecek yerel bilirkişiler, aynı yönteme göre tespit edilecek taraf ve zilyetlik tanıkları, tespit bilirkişileri, fen bilirkişisi, 3 kişilik jeodezi ve fotogrametri mühendisi ve 3 kişilik ziraat mühendisi bilirkişi kurulunun katılımıyla keşif yapılmalı ve bu keşif sırasında dinlenecek yerel bilirkişi ve tanıklardan, davaya konu edilen taşınmazın niteliğinin ne olduğu, taşınmazın temyize konu bölümünün geçmişte ne durumda bulunduğu, kime ait olduğu, kimden nasıl intikal ettiği, kim tarafından ne zamandan beri ne suretle kullanıldığı, dava konusu taşınmaz üzerinde asli zilyetliğin hangi tarihte başladığı etraflıca sorulup maddi olaylara dayalı olarak açıklattırılmalı, beyanları arasında oluşabilecek çelişkiler gerektiğinde yüzleştirme yapılmak suretiyle giderilmeye çalışılmalı; ziraatçi bilirkişi kurulundan, taşınmazın temyize konu
 bölümünün toprak yapısını ve niteliğini belirtir ve önceki tarihli ziraatçi bilirkişi raporunu irdeler şekilde ayrıntılı ve gerekçeli rapor alınmalı; bilirkişi ve tanık sözleri komşu parsel tutanak ve dayanaklarıyla denetlenmeli; jeodezi ve fotogrametri uzmanı harita mühendisi bilirkişi heyetinden dosya kapsamında yer alan hava fotoğraflarının stereoskop aletiyle incelenmesi neticesinde, taşınmazın temyize konu bölümünün incelenen fotoğraflara göre önceki tarihli jeodezi raporunu irdeler şekilde sınırlarını ve niteliğini belirlemesi istenilmeli; taşınmazın temyize konu bölümünün tüm yönlerinden gösterir fotoğrafları çektirilmeli; fen bilirkişiye, keşfi takibe imkan verir ve denetime elverişli kroki ve ayrıntılı rapor düzenlettirilmeli; dava konusu taşınmazla ilgili olarak davacının ecri misil ödeyip ödemediği kesin olarak belirlenmeli, davacının dava konusu taşınmazla ilgili olarak kendiliğinden ecri misil ödemesi halinde zilyetliğin fer'i nitelikte, cebri icra tehdidi altında ödemesi halinde zilyetliğin asli nitelikte olacağı göz önünde bulundurulmalı, bundan sonra tüm deliller birlikte değerlendirilerek sonucuna göre karar verilmelidir.
 
 ## Yargıtay 8. HD 2021/479 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642616500)
 
 Dava, elatmanın önlenmesi, kal ve ecrimisil isteklerine ilişkindir.
 
@@ -127,6 +147,8 @@ Hal böyle olunca, müdahaleli olduğu belirtilen alanların ne şekilde ve ne �
 
 ## Yargıtay 8. HD 2020/6331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610289400)
+
 Dava elatmanın önlenmesi, kal, eski hale getirme ve ecrimisil istemine ilişkindir.
 
 …
@@ -134,6 +156,8 @@ Dava elatmanın önlenmesi, kal, eski hale getirme ve ecrimisil istemine ilişki
 Dava konusu 31 nolu parselde taraflar paydaş konumundadırlar. Dosyadaki tanık anlatımlarından davacıların murisinin bu parsel üzerindeki fen bilirkişi raporunda D harfi ile gösterilen evi kullandığı ve ölüm tarihine kadar bu evin kullanımının devam ettiği anlaşılmaktadır.Murisin ölümünden sonra söz konusu parselin etrafının duvar örülmek suretiyle davacıların bu parsele girmelerinin engellendiği ve evi kullanamadıkları anlaşıldığına göre fen bilirkişi raporunda D harfi ile gösterilen ev için kira geliri üzerinden hesaplama yöntemi dikkate alınarak taşınmazın dava konusu ilk dönemde mevcut haliyle serbest şartlarda getirebileceği kira parası, emsal kira sözleşmeleri ile karşılaştırılarak, taşınmazın büyüklüğü, niteliği ve çevre özellikleri de nazara alınarak yöredeki rayiçe göre ve sonraki dönemler için ecrimisil değeri ise ilk dönem için belirlenen miktara ÜFE artış oranının tamamının yansıtılması suretiyle davacıların murisinin ölüm tarihinden dava tarihine kadarki dönem için hesaplanan ecrimisile hükmedilmesi gerekirken 31 nolu parselin tamamı üzerinden bu ilkeler göz ardı edilerek ecrimisile hükmedilmesi doğru olmamıştır.
 
 ## Yargıtay 16. HD 2020/5826 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627646000)
 
 Yargıtay bozma ilamında özetle;
 “çekişmeli taşınmazların müşterek muristen geldiğinin anlaşılmasına ve taraflarca taksim iddiasında bulunulmamış olmasına göre, mahkemece verilen kararın zemin açısından doğru olduğu, ancak; çekişmeli 462 ada 2 parseldeki evin murisin ölümünden sonra davalı ... tarafından yaptırıldığı dosya kapsamına göre sabit olup söz konusu evin davalıya ait olduğunun tapu kütüğünün beyanlar hanesinde gösterilmesine karar verilmemesinin isabetsiz olduğu, öte yandan; beyanına başvurulan mahalli bilirkişi ve tanıkların çekişmeli bazı taşınmazlardaki fındık ağaçlarının da davalı tarafından dikildiğini belirtmelerine rağmen hangi parseldeki, kaç adet ağacın davalı tarafından dikildiğinin sorularak bu hususun aydınlığa kavuşturulmadığı, fen bilirkişisinden, ağaçların yerleri ve sayısına ilişkin rapor alınmadığı ve zeytin ağaçlarından davalı tarafından dikilenler belirlenerek tapunun beyanlar hanesine şerh verilmesi gereği üzerinde durulmadığı açıklanarak; taşınmaz başında yeniden taraflar, fen bilirkişisi, yerel bilirkişiler ve taraf tanıklarının katılımı ile keşif yapılması, taraflardan, yerel bilirkişiler ve tanıklardan çekişmeli taşınmazların hangisindeki zeytin ağaçlarının davalı tarafından

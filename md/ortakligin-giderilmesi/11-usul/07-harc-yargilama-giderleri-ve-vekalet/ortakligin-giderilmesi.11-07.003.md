@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2013/5562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/544856200)
+
 Dava, bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -31,17 +33,23 @@ hesaplanacak onama harcının temyiz edenden alınmasına, 28.03.2013 tarihinde 
 
 ## Yargıtay 6. HD 2013/5515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551050400)
+
 Olayımıza gelince; Ortaklığın giderilmesine karar verilen ... parsel sayılı taşınmaz paydaşlarından ...'un davada yer almadığı, adı geçene duruşma gününü bildirir davetiye tebliğ edilmediği görülmüştür. Adı geçen paydaş sağ ise kendisinin ölü ise alınacak mirasçılık belgesine göre tüm mirasçılarının davaya katılmalarıyla taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken, yazılı şekilde taraf teşkili sağlanmadan satış kararı verilmesi usul ve yasaya ayrıdır.
 
 492 Sayılı Harçlar Kanunu gereğince menkul malların paydaşlığının satış suretiyle giderilmesine karar verilmesi halinde, karar tarihinde yürürlükte bulunan 1 sayılı tarifeye göre maktu harç alınması ile yetinilmesi gerekirken, ... Plakalı araç üzerindeki ortaklığın satış bedeli üzerinden "% 09.9 harç alınmasına karar verilmesi isabetsizdir.
 
 ## Yargıtay 6. HD 2013/4207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405108900)
+
 Paydaşlığın giderilmesi davaları iki taraflı, taraflar için benzer sonuçlar doğuran davalar olup, sonuçta kazanan veya kaybeden taraftan söz edilemeyeceğinden, yargılama giderleri ve vekalet ücretinin taraflara payları oranında yükletilmesi gerekir.
 
 Olayımıza gelince; dava konusu edilen 5 No'lu parselin paydaşlığın giderilmesine yönelik davada, davalı ... Belediyesi kendisini vekille temsil ettirdiğine göre adı geçen davalı yararına da vekalet ücreti takdir edilmesi gerekirken, yazılı şekilde sadece davacı yararına vekalet ücreti verilmesi doğru değil ise de, bu yanlışlığın düzeltilmesi için yeniden yargılama yapılmasında yarar görülmediğinden davacı için takdir edilen vekalet ücreti de nazara alınarak hüküm fıkrasından vekalet ücretine ilişkin kısmın çıkarılarak yerine “davada kendisini vekille temsil ettiren davacı ve davalı ... yararına takdir edilen 825'er TL maktu vekalet ücretinin payları oranında paydaşlardan alınmasına” ibaresi eklenmesi suretiyle hükmün 6100 Sayılı HMK'na 6217 Sayılı Kanun ile eklenen geçici 3. madde hükmü gözetilerek HMUK’nun 438.
 
 ## Yargıtay 6. HD 2013/2913 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410167700)
 
 Dava, borçlu ortağın alacaklıları tarafından açılan borçlunun paydaşı olduğu iki adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -51,6 +59,8 @@ Ayrıca kabule göre, karar tarihi itibariyle Harçlar Yasası gereği satış b
 
 ## Yargıtay 6. HD 2013/2879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410164700)
+
 Dava dört adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -58,6 +68,8 @@ Dava dört adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 Bu nedenle mahkemece “davacı lehine vekalet ücreti verilmesine rağmen kendisini vekille temsil ettiren davalılardan ... lehine vekalet ücreti verilmemesi doğru değil ise de bu yanlışlığın düzeltilmesi için hükmün bozularak yeniden duruşma yapılmasında fayda görülmediğinden hüküm fıkrasının 5 nolu bendi hükümden çıkarılarak yerine “davacı ve davalılardan ... kendisini vekille temsil ettirdiğinden 900'er TL vekalet ücretinin paydaşlardan payları oranında tahsili ile davacı ve davalı ...'a verilmesine” ibaresinin yazılması ayrıca hüküm fıkrasının 6 nolu bendindeki “payları oranında davalılardan tahsili” ibaresinin çıkarılarak yerine “paydaşlardan payları oranında tahsili” ibaresinin eklenmek suretiyle hükmün 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 438.maddesi uyarınca düzeltilmesine ve bu düzeltilmiş şekli ile ONANMASINA, 21.02.2013 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2013/962 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243004000)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
@@ -69,6 +81,8 @@ Olayımıza gelince; Dava konusu taşınmaz üzerinde davacıya ait bir adet ev 
 
 ## Yargıtay 6. HD 2013/773 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242918400)
+
 Dava, dört adet taşınmazdaki ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -79,10 +93,14 @@ Olayımıza gelince; Davada davalı ... da kendini vekille temsil ettirdiğine g
 
 ## Yargıtay 6. HD 2013/154 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241452000)
+
 Olayımıza gelince; dava konusu edilen 12 ve 13 parsel No’lu taşınmazların paydaşlığının giderilmesi için açılan davada mahkemece taşınmazların satışına karar verilirken, davalı ... de kendisini vekille temsil ettirdiğine göre davalı ... yararına da vekalet ücreti takdir edilmesi gerekirken yazılı şekilde sadece davacı yararına vekalet ücreti verilmesi ve gider avansının kullanılmayan 50.- TL'lik bölümünün iadesi yerine yargılama giderleri içinde gösterilmesi doğru değil ise de, bu nedenlerle hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden hüküm fıkrasından vekalet ücreti ve yargılama giderlerine ilişkin 6 ve 7. bentlerin çıkarılarak yerine “yargılamada kendilerini vekille temsil ettiren davacı ve davalı ... yararına takdir olunan 900.-TL’şar vekalet ücretinin ve 18.40.- TL peşin harç, 129.20.- TL keşif mahkeme gideri, 450.- TL bilirkişi ücreti, 14.60.- TL müzekkere gideri ve 42.- TL tebligat giderinden ibaret 654.20.- TL yargılama giderinin paydaşlara payları oranında aidiyetine” ibaresinin eklenmesi suretiyle hükmün 6100 Sayılı HMK’ya 6217 Sayılı Kanun ile eklenen geçici 3. madde hükmü gözetilerek HMUK’nun 438.maddesi gereğince düzeltilmesine ve bu
 düzeltilmiş şekliyle ONANMASINA, istek halinde peşin alınan temyiz harcının temyiz edene iadesine, 15.1.2013 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2013/75 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241499100)
 
 Dava bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -91,6 +109,8 @@ Dava bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 Dosya kapsamına, toplanan delillere, hükmün dayandığı gerekçelere, satış aşamasında taşınmazın yeniden değerinin tespit edileceğinin anlaşılmasına göre hükmün esasına yönelik temyiz itirazları yerinde değildir. Ortaklığın giderilmesi davaları çift taraflı davalar olup, niteliği gereği kaybeden ya da kazananı bulunmamaktadır. Bu nedenle mahkemece kendisini vekille temsil ettiren davalı yararına vekalet ücreti takdir edilmesi gerekirken davalı lehine vekalet ücretine hükmedilmemesi doğru değilse de bu yanlışlığın düzeltilmesi için hükmün bozularak yeniden duruşma yapılmasında fayda görülmediğinden, hüküm fıkrasının 5 nolu bendinin çıkartılarak yerine "kendisini vekille temsil ettiren davacı ve davalı için 900.-'er TL vekalet ücretinin payları oranında paydaşlardan tahsiline" ibaresinin eklenmek suretiyle hükmün 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen geçici 3. madde hükmü gözetilerek HUMK.nın 438.
 
 ## Yargıtay 6. HD 2012/17564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572881800)
 
 Dava, altı adet taşınmazın ve bir adet taşınırın paylaşılmasına ilişkindir.
 
@@ -102,6 +122,8 @@ Ancak her ne kadar taşınır mallardaki ortaklığın giderilmesi davalarında 
 
 ## Yargıtay 6. HD 2012/16468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/553310600)
+
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -109,6 +131,8 @@ Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 Ortaklığın giderilmesi davalarında kendilerini vekil ile temsil ettiren paydaşlar yararına Avukatlık Asgari Ücret Tarifesi gereğince takdir edilen vekalet ücretinin taraflardan payları oranında alınması gerekirken, kendisini vekil ile temsil ettiren davalı yararına taktir edilen ücretin davacıdan tahsiline karar verilmesi doğru değil ise de, bu nedenle hükmün bozularak yeniden yargılama yapılması usul ekonomisi yönünden yerinde görülmediğinden, vekalet ücretine ilişkin hüküm kısmından ''yine 900 TL ücreti vekalet ücretinin davacıdan alınarak davalı ... ve ...'a verilmesine '' cümlesi çıkarılarak yerine "kendisini vekil ile temsil ettiren davalılar ... ve ... yararına yürürlükte bulunan A.A.Ü.T. gereğince 900 TL vekalet ücreti taktiri ile tapu kaydındaki payları oranında taraflardan alınıp adı geçen davalılara verilmesine" cümlesinin eklenmesine hükmün bu şekliyle 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK’un 438/son maddesi gereğince düzeltilerek ONANMASINA, istek halinde peşin alınan temyiz harcının temyiz edene iadesine 12.12.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2012/15829 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551503800)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -118,6 +142,8 @@ Dava konusu edilen ve satışına karar verilen taşınmazın satış bedelinin 
 
 ## Yargıtay 6. HD 2012/15641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056338700)
+
 Dava, sekiz adet taşınmazdaki ve bir adet traktör üzerinde ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -126,6 +152,8 @@ Ancak her ne kadar taşınır mallardaki ortaklığın giderilmesi davalarında 
 
 ## Yargıtay 6. HD 2012/14699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054562800)
+
 Dava, iki adet bağımsız bölümde ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -133,6 +161,8 @@ Dava, iki adet bağımsız bölümde ortaklığın giderilmesi istemine ilişkin
 Ancak 492 Sayılı Harçlar Yasasının mükerrer 138.maddesinin sonuna eklenen fıkra gereğince 31.12.2009 günlü Resmi gazetede yayımlanan Harçlar Yasasının Genel Tebliğinin 1 sayılı tarifesi gereğince taşınmazların satış bedeli üzerinden (binde 9.9) nisbi karar harcı alınması gerekeceği gözönünde tutulmaksızın (binde 99) harç alınması doğru değilse de bu yüzden hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden hüküm fıkrasındaki harç kısmının çıkartılarak yerine (binde 9.9) harcın payları oranında paydaşlara aidiyetine ibaresinin eklenerek 6100 sayılı ...ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 438.maddesi gereğince hükmün bu düzeltilmiş şekliyle ONANMASINA ve taşınmaz malın satış bedelinden payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin alınan 21.15.-TL’nın mahsubu ile bakiyesinin temyiz edenlerden alınmasına, 13/11/2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2012/14438 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054337700)
 
 Dava, beş adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -144,6 +174,8 @@ temyiz edene iadesine, 08.11.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2012/13510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055101100)
+
 Dava, dört adet bağımsız bölüm niteliğindeki taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -154,6 +186,8 @@ Kabule göre de; 492 Sayılı Harçlar Kanunu ve Tebliğine göre ortaklığın 
 
 ## Yargıtay 6. HD 2012/12582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054756300)
+
 Dava, iki adet taşınmazda paydaşlığın giderilmesine ilişkindir.
 
 …
@@ -162,6 +196,8 @@ Bu duruma göre mahkemece, pay üzerinde intifa hakkı bulunmaksızın satış y
 
 ## Yargıtay 6. HD 2012/11818 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059680700)
+
 Dava, bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -169,6 +205,8 @@ Dava, bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 Öte yandan, mahkemece dava konusu edilen taşınmazların satışına karar verildikten sonra satış bedelinin taraflara tapu kayıtları ve mirasçılık belgesindeki payları oranında paylaştırılmasına karar vermekle yetinilmesi gerekirken,borçlu paydaşın payına düşen miktarın ...1. İcra Müdürlüğü'nün 2010/357 esas sayılı dosyasına yatırılmasına karar verilmesi ve satış bedeli üzerinden binde 9.9 oranında harç alınması gerekirken binde 9 oranında harç alınması da doğru değildir.
 
 ## Yargıtay 6. HD 2012/10525 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054604800)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -179,6 +217,8 @@ Olayımıza gelince; yargılama gideri ve vekalet ücretinden tüm paydaşların
 Bu yüzden hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden, hüküm fıkrasının harca ilişkin 4.bendinin hüküm fıkrasından çıkarılarak yerine "satış parası üzerinden binde 9,9 harcın payları oranında paydaşlardan tahsiline" kelimelerinin eklenmesine ve yine hükmün vekalet ücretine ilişkin 5.bendindeki 600.-TL vekalet ücretinin ibaresinden sonra gelen "davalılardan alınarak davacıya" kelimelerinin çıkarılarak yerine "ve kendisini vekil ile temsil ettiren davalı yararına hüküm tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca 900.-TL vekalet ücretinin payları oranında taraflara aidiyetine" ibaresinin eklenmesine, yine hükmün yargılama giderlerine ilişkin 6.bendindeki "davalıdan" kelimesinin hükümden çıkartılarak yerine "taraflardan payları oranında" ibaresinin hükme yazılmak suretiyle düzeltilmesine ve 6100 Sayılı HMK.'ya 6217 Sayılı Kanunla eklenen geçici 3/2 maddesi hükmü gözetilerek, HUMK.'nun 438.
 
 ## Yargıtay 6. HD 2012/10357 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054544300)
 
 Dava, dört adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
@@ -191,6 +231,8 @@ Kabule göre de 492 sayılı Harçlar Kanununun 138. maddesinin sonuna eklenen f
 
 ## Yargıtay 6. HD 2012/9044 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053981700)
+
 Dava, 12 adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -202,6 +244,8 @@ Ancak, 492 Sayılı Harçlar Yasası’nın mükerrer 138. maddesinin sonuna ekl
 
 ## Yargıtay 6. HD 2012/8355 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053733100)
+
 Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 
 …
@@ -209,6 +253,8 @@ Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 Ancak paydaşlığın giderilmesi davaları iki taraflı, taraflar için benzer sonuçlar doğuran davalardan olup, sonuçta kazanan ve kaybeden taraftan söz edilemeyeceğinden yargılama giderlerinden olan vekalet ücretinin de payları oranında tüm paydaşlara yüklenmesi gerekirken Avukatlık Asgari Ücret Tarifesi'ne göre 825-TL vekalet ücretinin davalılardan alınıp davacılara verilmesine, takdiren 825-TL vekalet ücretinin davacılardan alınıp kendisini vekille temsil ettiren davalıya verilmesine karar verilmiş olması doğru değil ise de bu yanlışlığın düzeltilmesi için yeniden yargılama yapılmasında fayda görülmediğinden hüküm fıkrasından vekalet ücretine ilişkin 4.kısmın çıkarılarak yerine “Davacılar kendilerini vekille temsil ettirdiğinden 825.-TL vekalet ücretinden paydaşlardan payları oranında alınarak davacılara ve davalı ... kendisini vekil ile temsil ettirdiğinden 825-TL vekalet ücretinin paydaşlardan payları oranında alınarak davalıya verilmesine” ibaresinin eklenmek suretiyle 6100 sayılı HMK.'ya 6217 sayılı Kanunla eklenen geçici 3. madde hükmü gözetilerek HUMK.'nın 438.
 
 ## Yargıtay 6. HD 2012/7185 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/557850100)
 
 Dava, bir adet taşınmazın paydaşlığının giderilmesi istemine ilişkindir.
 
@@ -221,6 +267,8 @@ Fıkrasında yazılı "825 TL ücreti vekaletin davalıdan hissesi oranında ola
 
 ## Yargıtay 7. HD 2012/6368 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104110900)
+
 Dava, taşınmaz üzerinde bulunan muhdesatların aidiyetinin tespiti istemine ilişkindir.
 
 …
@@ -232,6 +280,8 @@ dilekçesinde gösterilen değerin tamamı üzerinden fazla miktarda karar ve il
 
 ## Yargıtay 7. HD 2012/6126 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102950100)
+
 Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespitine ilişkindir.
 
 …
@@ -242,6 +292,8 @@ Ne var ki, dava muhdesat aidiyetinin tespiti davası olarak nitelendirilip dava 
 
 ## Yargıtay 6. HD 2012/6080 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560049700)
+
 Dava, iki adet bağımsız bölümde paydaşlığın giderilmesine ilişkindir.
 
 …
@@ -249,6 +301,8 @@ Dava, iki adet bağımsız bölümde paydaşlığın giderilmesine ilişkindir.
 Paydaşlığın giderilmesi davalarının, iki taraflı, taraflar için benzer sonuçlar doğuran davalar olması, sonuçta kazanan ve kaybeden taraftan sözedilmeyeceğinden, yargılama giderleri ve vekalet ücretinin taraflara payları oranında yükletilmesi gerekir. Bu nedenle kendisini vekil ile temsil ettiren davacı yararına vekalet ücretinin takdir edilmesi gerekirken, davacı yararına vekalet ücreti takdir edilmemesi doğru değilse de, bu yüzden hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden, hüküm fıkrasına "davacı yararına Avukatlık Asgari Ücret Tarifesi gereğince, davanın niteliği gereği maktu 825,00.-TL vekalet ücreti takdiri ile taraflardan payları nisbetinde tahsili ile davacı tarafa …
 
 ## Yargıtay 7. HD 2012/5205 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1101642200)
 
 Dava, taşınmaz üzerindeki muhdesatların aidiyetinin tespiti istemine ilişkindir.
 
@@ -282,5 +336,7 @@ rakamlarının çıkarılmasına, yerlerine sırasıyla …
 rakamlarının yazılmasına, hükmün düzeltilen bu şekli ile ONANMASINA, hüküm düzeltilerek onandığından harç alınmasına yer olmadığına, peşin alınan harcın istek halinde ilgililerine iadesine, Yargıtay duruşmasında kendisini vekil ile temsil ettiren davacı taraf yararına avukatlık ücretine hükmedilmesine yer olmadığına, 03.07.2012 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 6. HD 2012/4963 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/566731500)
 
 Paydaşlığın giderilmesi davaları, paylı veya elbirliği halinde mülkiyet hükümlerine tabi mallarda ortaklar ya da paydaşlar arasındaki hukuki ilişkiyi sona erdiren, birlikte mülkiyetten ferdi mülkiyete geçmeyi sağlayan, iki taraflı ve taraflar için benzer sonuçlar doğuran davalardır. Davanın bu niteliği nedeniyle sonuçta kazanan ya da kaybeden taraftan söz edilemeyeceğinden yargılama giderleri ve vekalet ücretinin taraflara payları oranında yükletilmesi gerekir.

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2010/1121 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519698000)
+
 Davacı vekili, dava dilekçesinde mevkii ve sınırlarını açıkladığı toplam 50 dönümlük taşınmazın vekil edeni tarafından 30 yılı çok aşkın bir süreden beri kullandığını açıklayarak vekil edeni adına tapuya kayıt ve tesciline karar verilmesini istemiştir.
 
 …
@@ -39,6 +41,8 @@ Davalı Hazine temsilcisinin yerinde görülen temyiz itirazlarının kabulü il
 
 ## Yargıtay 14. HD 2009/13329 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848133200)
+
 Davalı ... vekili, öncelikle görev yönünden ayrıca, tapu tahsis belgesinin iptali işlemi aleyhine idare mahkemesinde açılan iptal davası neticesinin beklenmesini beyanla davanın esastan reddini savunmuştur.
 
 …
@@ -55,6 +59,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı ... vekilinin teMyiz itirazlar�
 
 ## Yargıtay 1. HD 2009/13032 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78693900)
+
 Davacı, maliki olduğu 2 ada 48 parsel sayılı taşınmazın 800 m2’lik kısmının, konut ve bahçe yapmak suretiyle davalı tarafından kullanıldığını, işgal edilen 400 metrekarelik kısmın tapu tahsis fazlası niteliğinde olduğunu ileri sürerek, el atmanın önlenmesi, yıkım ve ecrimisil isteğinde bulunmuştur.
 
 Davalı, davaya konu taşınmazda işgalci olmayıp tapu tahsis belgesi sahibi olduğunu ve tahsis miktarı kadar yer kullandığını, fazladan bir kullanımının olmadığını belirterek davanın reddini savunmuştur.
@@ -69,6 +75,8 @@ Davacının temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan neden
 
 ## Yargıtay 20. HD 2009/8981 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/893004600)
+
 Mahkemece, çekişmeli taşınmazın bilirkişi krokisinde (B) ve (C) harfleri ile işaretli bölümünün orman sayılan, (A) harfi ile işaretli bölümünün orman sayılmayan yerlerden olduğu kabul edilerek hüküm kurulmuşsa da yapılan inceleme ve araştırma hüküm kurmaya yeterli ve elverişli değildir.
 
 …
@@ -82,6 +90,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davalı ... Yönetiminin temyiz itiraz
 
 ## Yargıtay 14. HD 2008/10672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848354400)
+
 Dava paylı mülkiyete konu taşınmaza elatmanın önlenmesi istemine ilişkindir.
 
 …
@@ -93,6 +103,8 @@ Bu tür davalarda; çap kaydının sağlıklı şekilde uygulanması uyuşmazlı
 SONUÇ:Temyiz olunan kararın açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2008/5852 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845784800)
 
 Davalılar, davanın reddini savunmuştur.
 
@@ -110,6 +122,8 @@ SONUÇ : Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2007/1356 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852091300)
+
 Davacı, maliki bulunduğu 369 parsel sayılı taşınmaza komşu parsel maliki davalının elatmasının önlenmesini ve tecavüzlü duvarın kal'ini istemiştir.
 
 …
@@ -119,6 +133,8 @@ Açıklanan şekilde yapılan inceleme ve araştırma hüküm kurmaya yeterli ve
 SONUÇ : Yukarıda açıklanan nedenlerle, davalının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 16. HD 2007/635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865282000)
 
 Hazinenin 101 ada 88 ve 89 parsellere yönelik temyizi hakkında; mahkemece taşınmazlara tespitte uygulanan tapu ve vergi kaydı kapsamında kaldığı, adına tescil kararı verilenlerin zilyet bulunduğu ve kayıt maliki mirascılarının hisse devri de nazara alınarak tescil kararı verilmiş isede; mahkemece yapılan araştırma, inceleme ve uygulama hüküm kurmaya yeterli bulunmamaktadır. Tespite dayanak Temmuz 327 tarih 19 numaralı tapu ve 1937 tarih 113 numaralı vergi tahrir kaydı gereği gibi uygulanarak kapsamları belirlenmediği, kayıtlar değişebilir hudutlu olup miktarı ile geçerli bulunduğu, taşınmazların yüzölçümü kayıt miktarından fazla olduğu, zeminde komşu 101 ada 97 parsel mera olarak sınırlandığı, taşınmazın bitişikteki meradan açılıp açılmadığı araştırılmadığı gibi ziraatçı bilirkişiden taşınmazın toprak yapısı, nitelikleri, kuzeydeki mera ile arasında doğal sınır bulunup bulunmadığı hususunda rapor alınmadığı anlaşılmıştır. Böylesine eksik inceleme ile karar verilemez.
 Doğru sonuca varılabilmesi için; taşınmaz başında yeniden yaşlı, tarafsız, yöreyi ile bilen ve komşu köylerde ikamet edip davada yararı bulunmayan şahıslar arasından seçilecek yerel bilirkişiler ve aynı yöntemle belirlenecek taraf tanıkları huzuru ile keşif icra edilmelidir.
@@ -130,11 +146,15 @@ hava fotoğrafları uygulanarak taşınmazın orman sayılan yerlerden olup olma
 
 ## Yargıtay 17. HD 2006/5319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871922000)
+
 Eksik inceleme ile hüküm verilemez. O halde, taraf tanıkları ile tüm tespit bilirkişileri eşliğinde yerinde yeniden keşif yapılarak öncelikle taşınmaza asliye mahkemesine açılan elatmanın önlenmesi davasına konu olan yer olup olmadığı yerel bilirkişi aracılığı ile kesin olarak saptanmalı, daha sonra bilirkişi ve tanıklardan taşınmazın öncesinin mer’a olup olmadığı, değilse kime ait olduğu, kim yada kimlerden kaldığı, davacının mı yoksa davalının mı zilyet olduğu zilyetliğinin başlangıç tarihi, süresi ve sürdürülüş biçimi içindeki kavak ağaçlarının kim tarafından ne zaman dikildiği, olaylara dayalı olarak ayrı ayrı sorulup saptanmalı, bilirkişi ve tanık sözleri arasında aykırılık doğduğunda giderilmeli, gerektiğinde yukarıda açıklanan hususlarla ilgili olarak komşu parsellerin malik yada zilyetlerinin tanık sıfatıyla bilgilerine başvurulmalı, uyuşmazlığın 3402 S.K.Y.nın 30/2 maddesi uyarınca çözümlenmesi gerekir bir nitelik arzettiği gözetilerek gerektiğinde lüzum görülecek deliller re’sen toplanmalı, fen bilirkişisine raporlu kroki düzenlettirilmeli, bundan sonra toplanan ve toplanacak tüm deliller birlikte değerlendirilerek sonucuna göre bir karar verilmelidir.
 
 Davalı ...’un temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü BOZULMASINA ve peşin alınan harcın istek halinde temyiz edene geri verilmesine 12.6.2006 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 5. HD 2005/2815 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16439200)
 
 Dava, kamulaştırmasız el atmanın önlenmesi ve uğranılan zararın tazmini istemine ilişkindir.
 
@@ -147,6 +167,8 @@ Bir taşınmaza kamulaştırmasız el atıldığından söz edebilmek için yap�
 Davalı idare vekilinin temyiz itirazları yerinde görüldüğünden hükmün açıklanan nedenlerle HUMK'nın 428. maddesi gereğince ( BOZULMASINA )
 
 ## Adana BAM 1. HD 2025/1247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170401100)
 
 Davacı vekili ilk derece mahkemesine verdiği dava dilekçesinde özetle; müvekkili şirketle davalı şirketin ... MERSİN adresinde bulunan ve tapunun Mersin İli ... parsel numarasında kayıtlı taşınmazda 1/2'şer oranında hissedar olduklarını, bu taşınmaz üzerinde bulunan ve muhtelif hollerden oluşan bir bina yer aldığını, davalı şirketin taşınmaz üzerinde bulunan binadaki 2.200 m2 yüzölçümlü bir holü, müvekkilinin bilgi ve onayı dışında 01.12.2019 tarihli ve 5 yıl süreli kira kontratına istinaden aylık 13.000 TL + KDV bedelle dava dışı ... ... San.ve Tic.Ltd.Şti.ne kiraya verdiğini, müvekkilinin bu durumu öğrendikten sonra davalıya ihtarname keşide ederek Aralık 2019 - Ocak ve Şubat 2020 aylarına ilişkin kira bedelinin yarısının kendisine ödenmesini istediğini, ihtarname tebliğ edilmesine rağmen ödeme yapılmaması üzerine Mersin 5.
 
@@ -161,6 +183,8 @@ Bu kapsamda keşif yapılmadan dosya üzerinden mali müşavir bilirkişiden ald
 Hal böyle olunca, taşınmaz başında alanında uzman bilirkişiler ile keşif yapılmalı, fiili durum tespit edilmeli, davacının fiilen zeminde bizzat veya kiraya vererek kullandığı yerler var ise, payından az yer kullandığını ileri süren paydaşın sorununu el atmanın önlenilmesi davası ile değil, kesin sonuç getiren taksim veya şuyun satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerektiği bu nedenle davanın reddinin gerektiği gözetilmeli veya davalı hissesi kadar veya hissesinden daha az yer kullanıyor, aynı vasıf ve nitelikte davacının da kullanabileceği alan var ise yine davanın reddinin gerektiği gözetilmeli, davalının taşınmazın tamamını kullanıp kallanmadığı tespit edilmeli ve esas hakkında bir karar verilmelidir.
 
 ## İstanbul BAM 1. HD 2019/1889 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554924300)
 
 İlk Derece Mahkemesi Kararının Özeti: İlk derece mahkemesince yapılan yargılama sonucunda; ''.....Dosyaya sunulan protokole göre davalılar ... ve ... şirketlerinin 30 gün içinde kaldırmayı taahhüt ettikleri hafriyatı kaldırma sürelerinin 01/08/2011 tarihinde sona erdiği, bu protokole göre davacının taşınmazında yer alan hafriyatının sadece 20.000 m³'lük kısmının alınması konusunda anlaşmaya varıldığı, aksi takdirde günlük 3.000 USD cezai şartı davalı ... ve ... yetkilisinin kabul ettiği ancak bu protokolün gereğini yerine getirmedikleri anlaşılmıştır.
 

@@ -21,17 +21,23 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2024/7004 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1069696400)
+
 Sulh Hukuk Mahkemesi Satış Memurluğunun 2018/3 Ortaklığın Giderilmesi Satış dosyası ile 22.06.2018 tarihinde yapılan açık artırmada satın aldığı ve satın alırken mahkeme satış dosyasında ve tapu kayıtlarında taşınmazın yüzölçümünün 22.350,00 m² olarak kayıtlı olduğu ve bedelin, harç ve masrafların bu yüzölçüm üzerinden hesaplandığını ancak sonrasında yaptırılan teknik ölçümde taşınmazın yüzölçümünün tapu kaydında yazandan daha az olduğun ortaya çıktığını belirterek 4721 sayılı Kanun'un 1007 nci maddesi uyarınca tazminat talebinde bulunmuş ve gerçekten davacının taşınmazı satın aldığı tarihte tapu kaydında yazılı yüzölçümünün 22.350,00 m² olduğu ve İlk Derece Mahkemesince yapılan keşif sonrasında sunulan harita mühendisi bilirkişi kurulu raporuna göre ise gerçek yüzölçümünün 12.300,00 m² olduğu belirlenmiş ise de; dosya arasında bulunan söz konusu satış dosyası kapsamına göre taşınmazın, ortaklığın giderilmesi davası sonrasında davacı tarafından 06.12.2018 tarihli ve 18356 yevmiye sayılı satış işlemiyle satın alınarak 2018 yılında adına tapuya tescil edildiği; taşınmazın tapu kaydında, davacı tarafından satın alındığı tarihten daha önce olmak üzere 02.06.2015 tarihli 6419 yevmiye
 numaralı işlemiyle parselin tapu kaydının beyanlar hanesine “yüzölçümü düzeltmesi vardır” şerhi konulmuş olup, taşınmazın bu şerhten daha sonraki bir tarihte yapılan satış işlemiyle davacı tarafından satın alınmış olunması nedeniyle satış tarihinde de bu şerh tapu kaydında yer almakla birlikte, Antalya 1.Sulh Hukuk Mahkemesi Satış Memurluğu tarafından yapılan 2018/3 satış sayılı 10.05.2018 tarihli Taşınmaz Açık Artırma İlanında söz konusu taşınmazın "Kaydındaki Şerhler" bölümüne, tapu kaydında yer aldığı halde “yüzölçümü düzeltmesi vardır” şerhinin bulunduğunun yazılmadığı, dolayısıyla tapu kaydındaki "yüzölçümü düzeltmesi vardır" şerhi, tapu memurunun hatalı işlemiyle değil, Satış Memurluğu tarafından yapılan Taşınmaz Açık Artırma İlanına satış memuru tarafından yazılmaması nedeniyle açık artırma ilanında yer almadığından, tapu memuru tarafından yapılan hatalı bir işlemin bulunmadığı, tapu memurunun satış gereğini yerine getirdiği; dolayısıyla davacının uğradığını iddia ettiği zararın, tapu memurunun hatalı ya da hukuka aykırı bir eylem veya işleminden kaynaklanmadığı; satış memurluğu görevlilerinin kusurlarından doğan tazminat davalarının ise 4721 sayılı Kanun'un 1007 nci
 maddesinde düzenlenen tazminat davaları kapsamında bulunmadığı; bu nedenle 4721 sayılı Kanun'un 1007 nci maddesine dayalı olarak açılan eldeki davanın bu gerekçeyle reddine karar verilmesi gerekirken kabulüne karar verilmesinin yerinde olmadığı anlaşıldığından İlk Derece Mahkemesi kararı kaldırılarak düzeltilerek yeniden esas hakkında hüküm kurulmak suretiyle davanın reddine karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/22 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879254100)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya birkaçı diğer paydaşlara karşı açar. HMK'nın 27 nci maddesi uyarınca davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birinin ölümü hâlinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Ortaklığının giderilmesi istenen taşınmaz üzerinde intifa hakkı var ise bu hak sahibinin davaya dahil edilmesi zorunludur. Satış suretiyle ortaklığın giderilmesi istenen taşınmaz üzerinde 4721 sayılı TMK'nın yürürlüğe girdiği 01.01.2002 tarihinden önce kurulmuş bir intifa hakkı varsa taşınmazın 14.03.1960 tarihli ve 1/3 sayılı Yargıtay İçtihadı Birleştirme Kararı uyarınca intifa hakkı ile yükümlü olarak satılması gerekir. İntifa hakkı sahibi yalnız başına bu hakkının paraya çevrilmesini, taşınmazın intifasız satışını isterse diğer paydaşların muvafakati aranmaksızın taşınmazın intifasız satışına karar verilmelidir.
 
 ## Yargıtay 7. HD 2022/5946 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829481900)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -43,9 +49,13 @@ Bu hüküm ile 14.3.1960 tarihli ve 1/3 sayılı Yargıtay İçtihadı Birleşti
 
 ## Yargıtay 5. HD 2022/1766 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/735849100)
+
 Somut olaya bakıldığında ise; davacının alacaklı olduğu dosyada borçlu hakkında icra takibi yaptığı, borçlunun murisinin hissedar olduğu taşınmaz üzerine murisinden gelecek mirasçılık payına ilişkin olarak haciz şerhi konulması için icra dosyasından tapu müdürlüğüne yazı yazıldığı, istem doğrultusunda tapu müdürlüğünün 17.12.2010 tarih, 9553 yevmiye numaralı işlemi ile borçlunun murisinden intikal edecek hissesine haciz şerhinin işlendiği, mahkemece davalıya yapılan ödemelere ilişkin tapu takyidat tablosunun çıkartılarak gönderilmesinin bankadan istenilmesi üzerine verilen cevapta her ne kadar 10.10.2012 tarihli takyidatsız tapu kaydının gönderildiği görülmüş ise de; dosya içerisinde tapu müdürlüğünden istenilen takyidatlı kayıt örneğinde söz konusu haciz şerhinin mevcut olduğu görülmüş olup uğranılan zararın tapu sicilinin tutulmasından kaynaklı olmadığı anlaşılmakla bu hali ile eldeki davada TMK'nın 1007. maddesinin yasal koşulları oluşmadığından bahisle davanın reddi gerekirken yazılı gerekçe ile davanın kabulüne karar verilmesi, …
 
 ## Yargıtay 7. HD 2021/2117 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715359900)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -55,9 +65,13 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 ## Yargıtay 14. HD 2020/7088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638247300)
+
 Davalı ... intifa hakkını kendi üzerinde tutarak, dava konusu 36 ada 72 parsel sayılı taşınmazın çıplak mülkiyetini kızı olan diğer davalıya devretmiştir. Paylı malik olan davacının diğer paydaş tarafından kendi payı üzerine 3. kişi lehine intifa hakkı tanıması halinde, 4721 sayılı TMK'nun 700. maddesi uyarınca ortaklığın giderilmesi davasını açmak veya açılmış olan davada bu kanun maddesi uyarınca intifa hakkının ilgili payın satış bedeli üzerinden devam edeceği hususunun ortaklığın giderilmesi davasında değerlendirilebileceği göz önüne alındığında, davacının bu davayı açmakta hukuki yararı bulunmadığı anlaşılmaktadır. Açıklanan sebeplerle davanın reddi gerekirken kabulü doğru görülmemiş ve hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2020/5732 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615900300)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -68,6 +82,8 @@ Somut olaya gelince; mahkemece her ne kadar dava konusu 7 adet taşınmazın sat
 Öte yandan, dava konusu taşınmazlardan 140 ada 13 parsel sayılı taşınmazın tapu kaydı beyanlar hanesinde “Taşınmaz üzerinde 2 katlı kargir ev ...’a aittir” şerhi bulunması sebebi ile mahkemece anılan taşınmazın üzerindeki muhdesatın satış bedelinin oranlama yapılmaksızın davacı ...’a ödenmesine karar verildiği görülmüştür. Ortaklığın giderilmesine karar verilirken yukarıda açıklanan ilkeler doğrultusunda oranlama yapmak suretiyle muhdesata isabet eden kısmın muhdesat sahibi paydaşa, geri kalan bedel ise payları oranında tüm paydaşlara (ortaklara) dağıtılmasına karar verilmesi gerekirken muhdesatın satış bedelinin davacı ...’a ödenmesi doğru görülmemiş bu sebeplerle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2017/4243 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360866400)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -81,9 +97,13 @@ Diğer taraftan, (kapatılan).... Asliye Hukuk Mahkemesinin 2011/84 Esas sayıl�
 
 ## Yargıtay 18. HD 2016/8105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228528900)
+
 Ortaklığın giderilmesi talep edilen ....parsel sayılı taşınmazlar için tapu müdürlüğünden en son gönderilen tapu kayıtlarına göre taşınmazlar üzerinde bulunan haciz şerhlerinin satış bedeline yansıtılmamış olması doğru değil ise de, bu hususun düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden hüküm fıkrasının 2 nolu bendinin sonuna gelmek üzere "taşınmazlar üzerinde mevcut haciz şerhlerinin ilgili kişiye isabet eden satış bedeline yansıtılmasına" ibaresi eklenmek suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438.
 
 ## Yargıtay 8. HD 2016/3257 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/169758100)
 
 TMK. m. 706, 6098 sayılı TBK. m. 237 ve Tapu Kanunun 26. maddesi hükümlerine göre, tapulu taşınmazların satış ve devri tapu sicil memuru önünde yapılacak resmi sözleşme ile geçerli olur. Elbirliği mülkiyetine tabi taşınmazlarda miras payının devri konusunda mirasçılar arasında yapılan sözleşmeler yazılı olmak koşulu ile geçerlidir. (TMK.nun 677. mad.) Resmi şekil şartı öngörülmemiştir. Terekeye dahil taşınmazlar, paylaşılması ya da elbirliği mülkiyetinin paylı mülkiyete çevrilmesi ile miras malı olmaktan çıkar Bu aşamadan sonra paydaşlar arasındaki ilişki miras ilişkisi olmayıp mal ortaklığına dönüştürüldüğünden paylı mülkiyet esaslarına göre malik olan kişiler arasındaki paylaşım ve pay devrinin genel kurala göre tapu sicil memuru önünde resmi şekilde yapılması zorunludur. Somut olayda davacı davalılara ait taşınmazlardaki paylarını satın aldığını usulüne uygun biçimde ispat edemediğinden davanın reddine karar verilmiş olması ilke olarak doğrudur. Ne var ki davalıların tümü mahkemeye sundukları dilekçelerinde imzalı beyanları ile açılan davayı kabul ettiklerini açıklamışlardır.
 6100 sayılı HMK'nun 308 (1086 sayılı HUMK.92.) maddesinde “..kabul, davacının talep sonucuna davalının tamamen veya kısmen muvafakat etmesi …
@@ -95,6 +115,8 @@ TMK. m. 706, 6098 sayılı TBK. m. 237 ve Tapu Kanunun 26. maddesi hükümlerine
 
 ## Yargıtay 14. HD 2016/2177 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/225104100)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -105,6 +127,8 @@ Bu durumda mahkemece, lehine intifa hakkı tesis edilen ... davaya dahil edildik
 
 ## Yargıtay 14. HD 2015/4089 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/178923200)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -112,6 +136,8 @@ Dava, ortaklığın giderilmesi isteğine ilişkindir.
 Somut olaya gelince; ortaklığının giderilmesi istenen taşınmaz üzerinde davacı paydaşlar ... ve ... lehine, paydaşlar ... ve ... payları üzerinde 15.10.2008 tarihinde intifa hakkı tesis edildiği anlaşılmaktadır. Davaya konu taşınmazda intifa hakkı kurulduğu hususunda diğer paydaşlara Türk Medeni Kanunu'nun 700. maddesinde öngörülen biçimde bir bildirimde bulunulmamıştır. Taşınmazdaki pay üzerinde intifa hakkı kurulduğu tebliğ edilmediğine göre 10.09.2012 tarihinde açılan davanın süresinde olduğunun kabulü gerekir. Bu durumda mahkemece, pay üzerinde intifa hakkı bulunmaksızın satış yoluyla paydaşlığın giderilmesine, intifa hakkının söz konusu paya düşecek bedel üzerinde devam etmesine karar verilmesi gerekirken dava konusu taşınmazın intifa ile yükümlü olarak satışına karar verilmesi doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2015/805 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/189215000)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -121,9 +147,13 @@ Dava konusu taşınmazın tapu maliklerinden ...’ın hissesi üzerinde ... leh
 
 ## Yargıtay 14. HD 2014/12546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/357760500)
+
 4721 sayılı Türk Medeni Kanununun 700. maddesi intifa hakkı kurulmasından sonraki ortaklığın giderilmesi haline ilişkin olup somut olayda dava konusu taşınmaz üzerindeki ortaklığın satış suretiyle giderilmesine karar verildikten sonra taşınmazdaki pay üzerinde intifa hakkı kurulmuştur. Bu nedenle davanın reddine karar vermek gerekirken satış suretiyle ortaklığın giderilmesine ilişkin hükümde değişiklik yapılacak şekilde karar verilmesi doğru değildir. Davacıların intifa hakkının kaldırılması davası ile elde edebilecekleri sonucu bu davada elde etmeleri mümkün değildir.
 
 ## Yargıtay 14. HD 2014/1085 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105498300)
 
 Dava ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -132,6 +162,8 @@ Dava ortaklığın giderilmesi isteğine ilişkindir.
 Somut olayda, davacının payı üzerinde intifa hakkı kurulduğu hususunda davalı paydaşa Türk Medeni Kanununun 700. maddesinde öngörülen biçimde bir bildirimde bulunulup bulunulmadığı anlaşılamamaktadır. Anılan Yasa maddesi paydaşlardan birinin üç ay içinde paylaşma isteminde bulunma halini intifa hakkı kurulduğunun tebliğinden itibaren başlatmaktadır. Mahkemece taşınmazdaki pay üzerinde intifa hakkı kurulduğu hususunun davalı paydaşa tebliğ edilip edilmediği üzerinde durularak TMK.nun 700. maddesinde öngörülen biçimde bir bildirimde bulunulmaması halinde davanın üç aylık sürede açıldığının kabulü ile pay üzerinde intifa hakkı bulunmaksızın satış yoluyla paydaşlığın giderilmesine, intifa hakkının söz konusu paya düşecek bedel üzerinden devam etmesine karar vermek gerekirken, Türk Medeni Kanununun 700. maddesinin uygulamasında yanılgıya düşülerek satışın intifa hakkı ile yükümlü olarak yapılmasına karar verilmesi usul ve yasaya aykırı olduğundan hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2013/11748 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/659631400)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -144,6 +176,8 @@ Bu nedenle mahkemece intifa hakkının kurulduğu tarih itibari ile taşınmazı
 
 ## Yargıtay 14. HD 2013/9723 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/649286300)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -154,6 +188,8 @@ Somut olaya gelince, İcra müdürlüğünden gelen cevabi yazıda davalıların
 
 ## Yargıtay 14. HD 2013/8661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652588900)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -161,6 +197,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 Satış suretiyle ortaklığın giderilmesi istenen taşınmaz üzerinde intifa hakkı varsa bu hak sahibinin davaya dahil edilmesi zorunlu olduğu gibi 08.12.2001 tarihinde yürürlüğe giren Türk Medeni Kanununun 700. maddesi hükmünün nazara alınması, bu maddedeki şartların gerçekleşmemesi halinde taşınmazın 14.03.1960 günlü ve 1/3 sayılı Yargıtay İçtihadı Birleştirme Kararı uyarınca intifa hakkı ile yükümlü olarak satılması gerekir. İntifa hakkı sahibi yalnız başına bu hakkının paraya çevrilmesini, taşınmazın intifasız satışını isterse diğer paydaşların muvafakatlerini aramaksızın taşınmazın intifasız satışına karar verilmesi gerekir.
 
 ## Yargıtay 6. HD 2013/2912 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410167500)
 
 Dava, bir adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -172,6 +210,8 @@ Davaya konu taşınmazda intifa hakkı kurulduğu hususunda diğer davacı payda
 
 ## Yargıtay 6. HD 2012/17270 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/269033100)
+
 Dava, bir adet taşınmazda paydaşlığın giderilmesine ilişkindir.
 
 …
@@ -179,6 +219,8 @@ Dava, bir adet taşınmazda paydaşlığın giderilmesine ilişkindir.
 Satış suretiyle ortaklığının giderilmesi istenen taşınmaz üzerinde 721 sayılı ....nın yürürlük tarihi olan 08.12.2001 tarihinden önce konulmuş bir intifa hakkı varsa bu hak sahibinin davaya dahil edilmesi zorunlu olduğu gibi, taşınmazın 14/03/1960 gün ve 1/3 sayılı İçtihadı Birleştirme Kararı uyarınca, intifa hakkı ile yükümlü olarak satılması gerekir. İntifa hakkı sahibi yalnız başına bu hakkın paraya çevrilmesini taşınmazın intifasız satışını isterse diğer paydaşların muvafakatları aranmaksızınn taşınmazın intifasız satışına karar verilmesi gerekir.
 
 ## Yargıtay 6. HD 2012/14920 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056837000)
 
 Dava, bir adet taşınmazın paydaşlığının giderilmesi istemine ilişkindir.
 
@@ -191,6 +233,8 @@ Yukarıda açıklanan esaslar karşısında mahkemece aynen bölünerek paylaşt
 
 ## Yargıtay 6. HD 2011/9686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059640400)
+
 Dava, bir adet taşınmazın ortaklığının aynen taksim, mümkün olmadığı takdirde satış yolu ile giderilmesi istemine ilişkindir.
 
 …
@@ -200,6 +244,8 @@ Türk Medeni Kanunu'nun 700. maddesi ile bir pay üzerinde intifa hakkı kurulma
 Olayımıza gelince; dava konusu edilen ve satışına karar verilen 25594 ada 3 parsel sayılı taşınmazın tapu kaydının hak ve mükellefiyetler bölümünde ... Mim. Müh. Proje Turz. San ve Tic. Ltd. Şti. hissesinin intifa hakkının ...'a ait olduğu belirtilmekte olup, tapu kaydına göre intifa hakkının ne zaman tesis edildiği anlaşılamamaktadır. Bu durumda mahkemece tapu kaydında yer alan intifa hakkının ne zaman tesis edildiği üzerinde durularak intifa hakkı kurulduğu hususunda diğer paydaşlara Türk Medeni Kanunu'nun 700. maddesinde öngörülen biçimde bir bildirimde bulunulmaması sebebiyle davanın süresinde açıldığının kabulü ile yukarıda açıklanan esaslar çerçevesinde paylar üzerinde intifa hakkı bulunmaksızın satış yoluyla paydaşlığın giderilmesine, intifa hakkının söz konusu paya düşecek bedel üzerinden devam etmesine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2011/9352 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058800200)
 
 Dava bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -211,16 +257,22 @@ Olayımızda; dava konusu taşınmaza ait tapu kaydı incelendiğinde, taşınma
 
 ## Yargıtay 6. HD 2011/144 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055265300)
+
 Dava konusu edilen 6 parsel No’lu taşınmaz tapuda 345 m2 bağ vasfıyla kayıtlı olup taşınmazda davacı 155 / 345,davalı 190 / 345 pay oranında maliktir. ... taşınmazın tasdikli imar planında park ( rekreasyon ) alanında kaldığını aynen bölünmesinin mümkün olmadığını, kamulaştırma kapsamında kaldığını belirtmiştir. Yerinde yapılan keşif sonrasında düzenlenen bilirkişi raporlarında dava konusu edilen taşınmazın imarlı arsa olup 3194 Sayılı İmar Yasası gereğince konumu ve pay oranları itibariyle aynen bölünemeyeceği, kamulaştırma alanlarında kalan parsellerin tapu kayıtlarına kamulaştırma şerhinin konulması durumunda paydaşlığın giderilmesi için satış yapılamayacağı, ancak bu yönde tapu kaydında bir şerhin yer almadığı, bu itibarla paydaşlığın satış yoluyla giderilebileceği belirtilmiştir. Her ne kadar taşınmaz imar planda park ( rekreasyon ) alanında kalmakta ise de davalı belediyece bu konuda bir kamulaştırma kararı alınmamış, bu yönde tapu kaydına bir şerh konulmamıştır.
 İmar Yasası’nın 15.maddesi hükmü gereği imar planlarına göre yol, meydan, yeşil saha, park ve otopark gibi kamu hizmetlerine ayrılan yerlere rastlayan taşınmazların bu kısımlarının ifraz ve tevhidine izin verilmemekle birlikte davada davacının talebi aynen bölünme değil satış suretiyle paydaşlığın giderilmesi olduğundan var olan koşullar itibariyle satış suretiyle paydaşlığın giderilmesine engel bir durum bulunmamaktadır. Bu durumda mahkemece davanın kabulü ile taşınmazın satışı suretiyle paydaşlığın giderilmesine karar verilmesi gerekirken yazılı şekilde istemin reddedilmesi doğru görülmediğinden hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2010/10795 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770714900)
 
 Türk Medeni Kanununda müşterek mülkiyette paydaş olan kişinin intifa hakkının özelliği gereği payı üzerinde intifa hakkı kurabileceği kabul edilmiştir. Ancak paydaşa bu hak verilirken, payı üzerinde intifa hakkı kurmasının diğer paydaşların mülkiyet haklarını kullanmalarına zarar vermeyeceği öngörülmüştür. Diğer taraftan intifa hakkı ile yüklü olarak bir taşınmazın satılmasının o taşınmaz malın değerini düşüreceği de bir gerçektir. Uygulamada bazı paydaşların haklı ve geçerli bir nedeni bulunmadığı halde diğer paydaşları zarara uğratmak ve onları külfet altına sokmak için payları üzerinde intifa hakkı tesis ettikleri görülmektedir.
 
 Türk Medeni Kanununun 2. maddesi ile getirtilen kural gereği herkes haklarını kullanırken dürüstlük kuralına uymak zorundadır. Bu bağlamda da, görülmekte olan dava sırasında veya dava açılmadan hemen önce payda üçüncü kişi yararına intifa hakkı tesisinin taşınmazın satışında talepleri azaltmak ve düşük bir bedel karşılığı taşınmazın tamamının ele geçirilmesini sağlamak amacına yönelik yapıldığı karine olarak kabul edilmekte, diğer paydaşlar tarafından zarar gördüğü ileri sürülerek intifa hakkının terkini istemli açılan davalarda, aksi hak sahibi tarafından kanıtlanamadığı sürece intifa hakkına ilişkin işlemin iptaline karar verilmektedir.
 
 ## Yargıtay 6. HD 2010/9195 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060468700)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 

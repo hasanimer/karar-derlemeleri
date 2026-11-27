@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2011/14675 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059989200)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -30,6 +32,8 @@ Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer
 Paydaşlığının giderilmesi istenen taşınmazların maliki miras bırakan ...'a ait dosya arasında mevcut mirasçılık belgesindeki mirasçılardan ölü ... mirasçısı ...'ın 2002 doğumlu 18 yaşından küçük olduğundan dava dilekçesinin veli ya da vasisine tebliğ edilmesi gerekirken, tebligatın bizzat küçük adına gönderildiği, tebligatın usulsüz olduğu anlaşılmıştır. Taraf teşkili kamu düzenine ilişkin olup Hakim, re'sen (kendiliğinden) davanın her aşamasında dikkate almalıdır. Mahkemece adı geçen küçük mirasçının veli ya da vasisine dava dilekçesi ve duruşma gününü bildirir davetiye tebliğ edildikten sonra, işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmadan yazılı şekilde hüküm tesisi doğru olmadığı gibi paylı mülkiyete tabi olmayan müstakilen davacı adına kayıtlı taşınmazın satışına karar verilmesi de doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/14450 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059968400)
 
 Dava, altı adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -41,6 +45,8 @@ Olayımıza gelince; dava konusu yapılan ve satışına karar verilen 887 parse
 
 ## Yargıtay 6. HD 2011/11070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1080480500)
+
 Dava, 1 parsel No’lu taşınmazın paydaşlığının giderilmesine ilişkindir.
 
 …
@@ -51,6 +57,8 @@ Olayımıza gelince ; dava konusu edilen ve satışına karar verilen Küçükba
 
 ## Yargıtay 6. HD 2011/9048 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058306300)
+
 Dava, bir adet taşınmazın paydaşlığının giderilmesi istemine ilişkindir.
 
 …
@@ -60,6 +68,8 @@ Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan
 Olayımıza gelince; dava konusu taşınmazda paydaş olan ...’nün mirasçılarından olan ...’ye duruşma gününün tebliğine ilişkin olarak çıkarılan tebligatın “muhatap vefat ettiğinden” bila tebliğ iade edilmiş olmasına rağmen mahkemece bu husus üzerinde durulmadan ve adı geçen kişinin mirasçıları davaya dahil edilmeden Tebligat Kanunu 35.maddeye göre tebligat yapılarak yargılamaya devam edildiği anlaşılmaktadır. Bu durumda taraf teşkilinin sağlandığından söz edilemeyeceğinden Mahkemece yukarıda açıklandığı şekilde adı geçen kişinin veraset belgesine göre tüm mirasçılarının davaya dahil edilerek taraf teşkilinin sağlanması, ondan sonra işin esası ile ilgili bir karar verilmesi gerekirken bu husus üzerinde durulmadan karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2011/8726 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058565900)
 
 Dava, 14 adet taşınmaz üzerindeki ortaklığın giderilmesi davasıdır.
 
@@ -72,6 +82,8 @@ Taraflardan ...'ye ait mirasçılık belgesi temin edildikten sonra, davada tara
 
 ## Yargıtay 6. HD 2011/6441 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057802100)
+
 Dava, bir adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
 …
@@ -82,11 +94,15 @@ Olayımıza gelince; Dava konusu bağımsız bölüm paydaşlarından ...'nın 0
 
 ## Yargıtay 6. HD 2011/3778 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058858800)
+
 Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan) biri veya bir kaçı diğer paydaşlara (ortaklara) karşı açar. HUMK.nun 569.maddesi hükmü uyarınca davada bütün paydaşların (ortakların) yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Olayımıza gelince; dava konusu taşınmazların paydaşı olan ... kızı ... davacı tarafça davaya dahil edilmiş ise de dava dilekçesinin tebliği için çıkarılan tebligat parçasına göre tebliğin aynı konutta oturan eşi ...'e yapıldığı, tebligat parçasında ... soyadının üstü çizilerek ... yazıldığı, bu halde dava dilekçesinin davalı ...'e tebliği yerine başka bir davalı olan, paydaş ...'in mirasçısı ...'e tebliğ edildiği anlaşılmıştır. Bu durumda davalı ...'e dava dilekçesinin usulünce tebliğ edilmemesi nedeniyle taraf teşkilinin sağlandığından da bahsedilemez. HUMK.nun 73.maddesi uyarınca hakim tarafları usulüne uygun olarak duruşmaya davet etmedikçe hükmünü veremez. Mahkemece öncelikle taraf teşkilinin sağlanması ve ondan sonra işin esasının incelenmesi gerekirken, yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2011/2730 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058366900)
 
 Paydaşlığın giderilmesi davasını ortaklardan biri veya bir kaçı diğer paydaşlara karşı açar. Davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlanmalıdır. Bu şekilde taraf teşkili sağlandıktan sonra işin esasının incelenmesi gerekir.
 
@@ -94,9 +110,13 @@ Olayımıza gelince; dava konusu edilen 7288 ada 1 No’lu parselin paydaşları
 
 ## Yargıtay 6. HD 2011/1730 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056846800)
+
 Olayımızda; dava konusu edilen ve satışına karar verilen taşınmazda paydaş davalı ... hakkında adresi tespit edilemediğinden, zabıta araştırması yapılmadan vergi dairesi ve nüfus müdürlüğüden yapılan araştırma sonucunda adres tespit edilemeye çalışılarak davalıya dava dilekçesi ve duruşma gününü bildirir davetiye ilanen tebligat yapılmış ise de ilgili dairelerden yazılan müzekkereye adı geçenin ... olan soyadının ... olarak yazılarak sorulduğu ve ... adına herhangi bir araştırma yapılmadığından yapılan bu tebligatın usulüne uygun olduğunun söylenemediği gibi, tapu kaydında davalı ...'in payının Gaziantep 2. Asliye Hukuk Mahkemesinin 1978/265 Esas, 1979/983 Karar sayılı ilamı ile oluştuğu, dosya kapsamı ile anlaşılmakla bu dosyanın ilgili mahkemeden getirtilerek adı geçen davalının bu dosyadaki adresine tebligat yapılmadan ilanen tebligat yapılması da doğru olmadığından taraf teşkilinin sağlandığı söyelenemez. Bu nedenle taraf teşkili sağlanmadan işin esasının incelenmesi de doğru değildir.
 
 ## Yargıtay 6. HD 2010/14361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113776300)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -108,6 +128,8 @@ Olayımıza gelince; dava konusu taşınmazın paydaşlarından ... ve ... ile y
 
 ## Yargıtay 6. HD 2010/14277 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113712100)
+
 Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 
 …
@@ -118,11 +140,15 @@ Olayımızda; bir kısım davalılardan ... ve ... için yöntemine uygun şekil
 
 ## Yargıtay 6. HD 2010/13231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111676500)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer paydaşlara karşı açar. HMUK.nun 569.maddesi hükmü uyarınca davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 285 nolu parselde paydaş olan davalı ...’un tebligat yarar adresi nüfus müdürlüğünce bildirildiği ve bu adrese çıkarılan tebligatın iade edilmesi üzerine adı geçen davalıya Tebligat Yasasının 35.maddesi gereğince tebligat yapılması gerekirken şartları oluşmayan ilanen tebligat yoluyla dava dilekçesi ve karar tebligatı yapılması doğru olmadığı gibi ilanen tebliğe ilişkin askı ilan tutanaklarına da dosya arasında rastlanılmamıştır.Ayrıca 285 parsel paydaşlarından ...’un ölü olduğu ileri sürüldüğüne göre,adı geçen davalının ölü olup olmadığı üzerinde durularak ölmüş ise mirasçılık belgesinin ilgililerden temini ile varsa mirasçılarının davaya dahil edilmesi gerekmektedir. Mahkemece davalı ...’a dava dilekçesi ve duruşma gününü bildirir usulüne uygun tebligat yapıldıktan ve ...’un ölü olup olmadığı tespit edildikten sonra,işin esası hakkında bir karar verilmesi gerekirken,taraf teşkili sağlanmadan yazılı şekilde hüküm tesisi doğru değildir.
 
 ## Yargıtay 6. HD 2010/9038 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060656300)
 
 Dava yirmiyedi adet taşınmazın paydaşlığının giderilmesi istemine ilişkindir.
 
@@ -132,17 +158,23 @@ Dava konusu satışına karar verilen taşınmazlarda tapu paydaşı olan Sevim 
 
 ## Yargıtay 6. HD 2010/8771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060181300)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer paydaşlara karşı açar. HMUK.nun 569.maddesi hükmü uyarınca davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Olayımıza gelince; Dava konusu taşınmazda paydaş olan ... ... ve ... ...’ye ait olduğu beyan edilerek sunulan mirasçılık belgelerinde murislerin soyadları bulunmamakta olup adı geçen kişilerin aynı kişiler olup olmadıkları denetlenememiştir. Ayrıca bir diğer paydaş olan ... ... ile ... ...’nin de aynı kişiler olduğu beyan edilerek sadece ... ...’ın mirasçılık belgesi sunulmuş ise de, adı geçen kişilerin de aynı kişiler olup olmadığı dosya kapsamından anlaşılamamıştır. Mahkemece nüfus kayıtları ile mirasçılık belgeleri arasındaki çelişkilerin giderilmesi için davacıya süre verilerek ondan sonra oluşacak sonuca göre yargılamaya devam edilerek hüküm kurulması gerekirken bu husus üzerinde durulmadan karar verilmesi doğru olmadığı gibi, kabul şekli itibariyle de, davalılar ..., ..., ..., ..., ... ve ... ...’a dava dilekçesi ve karar Tebligat Kanunu 35. Maddesine göre tebliğ edilmiş olmasına rağmen tebligat yapılan adreslerin nereden temin edildikleri ve 35. Maddeye göre tebligat yapılmasının dayanağı anlaşılamadığı gibi, dava konusu taşınmazın bulunduğu yerde keşif yapılmadan tapu kaydının zemine uyumlu olup olmadığı denetlenmeksizin eksik inceleme ile hüküm kurulması da doğru değildir.
 
 ## Yargıtay 6. HD 2010/8502 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060167500)
+
 Paydaşlığın giderilmesi davasını ortaklardan biri veya bir kaçı diğer paydaşlara karşı açar. Davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlanmalıdır. Bu şekilde taraf teşkili sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Olayımıza gelince; dava konusu edilen 1 parsel No’lu taşınmazın paydaşlarından ..., ..., ..., ..., ... ve ... adlarına çıkarılan dava dilekçesinin tebliğ edilememesi üzerine ilanen tebligat yapılmış ise de Tebligat Kanunu’nun 29 / 2 ve Tebligat Tüzüğü’nün 47 /2 maddesi hükmü gereği tebliğ olunacak evrak ve ilan suretinin bir ay süreyle mahkeme divanhanesinde askıya çıkarılması gerekirken, bu konuda askı tutanağı düzenlenmemesi nedeniyle adı geçen davalılara usulüne uygun dava dilekçesinin tebliğ edildiği kabul edilemez. Bu durumda davalılar ..., ..., ..., ..., ... ve ...’ya yöntemine uygun dava dilekçesinin tebliğ olunması, taraf teşkilinin sağlanması ve ondan sonra işin esası hakkında bir karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/6968 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665602100)
 
 Dava, iki parça taşınmaz paydaşlığının giderilmesine ilişkindir.
 
@@ -154,9 +186,13 @@ Olayımıza gelince;davaya konu taşınmazlarda Durmuş kızı ... 1/3 pay sahib
 
 ## Yargıtay 6. HD 2010/3053 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/626319900)
+
 Olayımıza gelince; Davaya konu ... ada ... parsele ait tapu kaydında paydaş olan ...’nin kim olduğunun ve adresinin tespit edilememesi üzerine mahkemece davacı tarafa adı geçen davalıya 3561 sayılı yasa gereğince kayyım tayini davası açılmak üzere süre verildiği, ancak daha sonra davalı ...’nin tapu sicil müdürlüğünden bildirilen adresine Tebligat Yasası’nın 35.’nci maddesi gereğince tebligat yapılarak taraf teşkilinin sağlandığı,davalıya tayin edilen kayyıma davetiye tebliğ edilmediği anlaşılmıştır.Hükmü temyiz eden davalılardan ... kayyımı vekili ... 1.Sulh Hukuk Mahkemesinin 2007/73 esas,2007/1097 karar sayılı kararı ile 3561 sayılı yasa …
 
 ## Yargıtay 6. HD 2010/1521 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623479600)
 
 Paydaşlığın giderilmesi davasını ortaklardan biri veya bir kaçı diğer paydaşlara karşı açar. Davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlanmalıdır. Bu şekilde taraf teşkili sağlandıktan sonra işin esasının incelenmesi gerekir.
 

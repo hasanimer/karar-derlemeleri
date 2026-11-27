@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2014/496 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84033500)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -30,6 +32,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Somut olayda; dava konusu 52 ada 5 parsel sayılı taşınmazda davacıların 206/1772’şer payları bulunduğu,taşınmazın arsa vasfında olup, üzerinde yapı bulunmadığı, imar planında kent meydanı olarak ayrıldığı ve fiilen de kent meydanı olarak kullanıldığı anlaşılmaktadır.Mahkemece alınan 28.10.2011 tarihli bilirkişi raporunda emsal olarak 46 m² kapalı alana, 110 m² bahçe alanına sahip çay bahçesi niteliğinde yapı esas alınarak; dava konusu taşınmaz üzerine 50 m² kapalı, 100 m² üstü kapalı yanları açık bir bahçe yapılacağı düşünülerek ecrimisil hesaplanmıştır. Oysa arsa niteliğinde olan dava konusu taşınmazda ecrimisil bedelinin hesabında mevcut hali ile kiraya verilmesi halinde belirlenecek ecrimisil bedelinin esas alınması gerekir.
 
 ## Yargıtay HGK 2009/552 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77071000)
 
 Dava, haksız işgal nedeniyle ecrimisil istemine ilişkindir.
 
@@ -49,6 +53,8 @@ denilmiş ve dava konusu sonraki yılların ecrimisil miktarları da, bulunan bu
 
 ## Yargıtay HGK 2008/138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76614800)
+
 Dava, haksız kullanım nedeniyle tazminat istemine ilişkindir.
 
 …
@@ -56,6 +62,8 @@ Dava, haksız kullanım nedeniyle tazminat istemine ilişkindir.
 Davacı ve müdahil davacı; davalıların murisi ile davacı arasında düzenlenen 27.12.1990 tarihli Yap-İşlet-Devret Modeline Uygun Kira Sözleşmesi ile, taraflar arasında daha önce düzenlenen kira sözleşmelerinin tamamının 09.01.1991 tarihinden itibaren bir yıl süreyle uzatılarak 09.02.1992 tarihinde sona ereceğinin koşulsuz olarak, kararlaştırıldığı; 27.12.1990 tarihli bu sözleşmede yer alan ve “sözleşmenin işlerlik kazanması” şartlarını düzenleyen 3.maddesi gereği, davalı taraf edimlerinin yerine getirilmediği; bu itibarla anılan maddede yer alan açık hüküm gereği, sözleşmenin kendiliğinden feshedilip, hükümsüz ve geçersiz olduğu; bu olgunun karşı tarafa 03.03.1992 tarihli ihtarla bildirilerek tahliye hususunda iki aylık süre tanındığı; takip eden ihtarlara karşın haksız işgalin sürdürüldüğü, iddialarına dayanarak tazminat istemektedir.
 
 ## Yargıtay HGK 2006/816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77193500)
 
 Dava konusu edilen bahçenin anataşınmazın ortak yerlerinden olduğunda kuşku ve tartışma yoktur. Kat Mülkiyeti Yasasının 16.maddesi hükmü uyarınca kat malikleri; anataşınmazın bütün ortak yerlerine arsa payları oranında ortak mülkiyet hükümlerine göre maliktirler ve bu yerlerden yararlanma hakkına sahiptirler. Kat Maliklerine tanınan bu kullanma ve yararlanma hakkı, onların bağımsız bölümlerinde kira sözleşmesine veya kullanma hakkına ya da başka bir nedene dayanarak sürekli olarak oturanlara da tanınmış bulunmaktadır.
 
@@ -67,6 +75,8 @@ Somut olayda ortak mülkiyet hükümlerine tabi olan dava konusu bahçenin belli
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararıyla dosya içeriği itibarıyla sulu tarım arazisi niteliğinde olduğunun kabulü ile arazi niteliğindeki taşınmaza, 2942 sayılı Kanun'un 11 inci maddesinin birinci fıkrasının (f) bendi uyarınca arazilerde taşınmaz mal veya kaynağın kamulaştırma tarihindeki mevki ve şartlara göre olduğu gibi kullanılması halinde getirebileceği net geliri esas alınarak değer biçilmesinde bir isabetsizlik görülmediği belirtilerek davacının ecrimisil talebinin reddine karar verilmesinin hatalı olduğu gerekçesi ile İlk Derece Mahkemesi kararı kaldırılarak düzeltilerek yeniden esas hakkında hüküm kurularak davanın kabulüne karar verilmiştir.
 
 ## Yargıtay 5. HD 2026/5512 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206179900)
 
 İlçe Tarım ve Orman Müdürlüğünün 2022 yılı verileri esas alınarak değerlendirme yapıldığı, dava tarihine endekslendiği, dava tarihine göre Seferihisar İlçe Tarım ve Orman Müdürlüğünün 2023 yılı verilerinin esas alınması gerektiğinden Dairelerince sulu tarım ürünlerine ilişkin veriler istendiğinde sadece kuru tarım verilerinin bulunduğu anlaşıldığından Dairelerince İzmir İl Tarım ve Orman Müdürlüğünün 2023 yılı verileri dosya içine alınarak usul ekonomisi gereğince resen hesaplama yapılması uygun bulunarak, bunun yanı sıra talep sonucuna göre hüküm kurulması ve davacıların fazlaya ilişkin haklarının saklı tutulmasına karar verildiği, Yargıtay 5. Hukuk Dairesi içtihatlarına göre dava konusu taşınmaza ilişkin tek vekâlet ücreti taktir edilmesi gerekirken ecrimisil yönünden ayrıca vekâlet ücreti takdirinin doğru görülmediği gerekçesiyle taraf vekillerinin istinaf başvurularının kısmen kabulü ile İlk Derece Mahkemesi hükmü kaldırılarak yeniden esas hakkında hüküm kurulmak suretiyle davanın kabulüne karar verilmiştir.
 
@@ -92,9 +102,13 @@ olduğundan İlk Derece Mahkemesinin kararında bir isabetsizlik bulunmadığı 
 
 ## Yargıtay 5. HD 2026/22 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209015100)
+
 Valiliğinin yazısında dava konusu yolun ... İl Özel İdaresi tarafından yapıldığını, 6360 Sayılı Kanun uyarınca ... Büyükşehir Belediye Başkanlığına devredildiği bildirildiğinden, davalı idarenin husumet itirazları yerinde görülmediği, dava konusu taşınmazın sulu kapama zeytin bahçesi niteliğinde kabul edildiği, istinafa gelen tarafın sıfatı gözetilerek hükmedilen bedelin uygun olduğu, taşınmazın davacı tarafından satın alındığı tarihten itibaren ecrimisil hesaplanmasında bir isabetsizlik görülmediği, ancak taşınmazın kısmen yol niteliğinde kullanılmasının anlaşılması karşısında yol olarak terkininine hükmedilmesi gerektiği ve takyidatların bedele yansıtılmamasının hatalı olduğu gerekçesiyle davalı idare vekilinin istinaf başvurusunun kısmen kabulü ile düzeltilerek yeniden esas hakkında hüküm kurulmak suretiyle davanın kabulüne karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/18015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206182000)
 
 Dairemizce yapılan inceleme sonucunda; dava konusu taşınmazlara 1974 tarihinde el atıldığından, el atma tarihindeki nitelikleri esas alınarak dava tarihindeki değerinin tespit edilmesi gerekirken, el atma tarihinde dava konusu taşınmazın niteliği net olarak belirlenmeden arazi olarak değer biçilmesi nedeniyle rapor hüküm kurmaya elverişli olmadığından öncelikle 1974 yılı itibarıyla dava konusu taşınmazın arsa mı, arazi mi olduğunun belirlenmesi gerektiğini, taşınmazın 1974 yılında belediye imar planı içinde olup olmadığı, değilse belediye veya mücavir alan sınırları dahilinde bulunup bulunmadığı, belediye hizmetlerinden yararlanıp yararlanmadığı ve etrafının meskun mahal olup olmadığı hususları Belediye Başkanlığından sorulup, alınacak yazı cevabına göre, taşınmazın vasfı belirlendikten sonra taşınmazın niteliğine göre oluşturulacak bilirkişi kurulu eşliğinde mahallinde keşif yapılarak arsa ise yakın tarihte satışı yapılan emsallerle dava konusu taşınmazın üstün ve eksik yönleri belirtilmek suretiyle mukayese yapılıp, tarım arazisi ise o yörede mutat olarak ekilen münavebe ürünleri belirlendikten sonra taşınmazın olduğu gibi kullanılması halinde getireceği net gelirine göre bedel
 belirlenerek hüküm kurulması gerekirken, eksik inceleme ile açıklanan hususlarda değerlendirme yapılmadan soyut ifadelerle taşınmaza arazi olarak değer biçen rapor doğrultusunda hüküm kurulması, kabule göre de dava konusu taşınmazın nasıl sulandığı ve sulama kaynağı belirtilmeden, çevresinde sulu tarım yapıldığı gerekçesi ile sulu arazi sayılarak değer tespit edildiği gözetildiğinde yeniden keşif yapılarak, öncelikle 1974 yılında dava konusu taşınmazın sulanıp sulanmadığı, sulanıyorsa fiilen nereden ve ne şekilde sulandığı, yapılan sulamanın taşınmazın tamamını sulamaya yeterli olup olmadığı tespit edilip, gerekirse keşifte taşınmazın sulu olup olmadığı ve seracılık yapılıp yapılmadığı hususlarında tanık ve mahalli bilirkişiler de dinlenilerek yeniden alınacak rapor uyarınca karar verilmesi gerektiği düşünülmeden, eksik inceleme ve soyut ifadelerle sulu arazi olarak ve cam serada domates, cam serada gül, plastik serada karanfil yetiştirildiğinin kabulü, ecrimisile yönelik talep bakımından ise taşınmaz arsa niteliğinde ise taşınmazın bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne
@@ -102,40 +116,58 @@ belirlenerek hüküm kurulması gerekirken, eksik inceleme ile açıklanan husus
 
 ## Yargıtay 5. HD 2025/17239 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201730800)
+
 İlçe Tarım ve Orman Müdürlüğü verilerinden edinilen bilgilerden tespit edilen dava konusu taşınmazın konumu ve bilirkişi kurulu raporunda belirtilen özellikleri de dikkate alınarak %150 objektif değer artışı uygulanmasında ve sonuç metrekare birim fiyatının ve bu şekilde kamulaştırmasız el atmaya ilişkin tazminat bedelinin tespitinde bir isabetsizlik görülmediği, dava tarihi 17.02.2024 olmasına rağmen 2023 verileri doğrultusunda karara bağlanmış ise de, bu husus davalı idare lehine olup davacı tarafın da bu konuda istinafı bulunmadığından bu hususun sonuca etkili bulunmadığı, ecrimisil konusunda da Yargıtay 5. Hukuk Dairesinin pek çok kararında dava konusu taşınmaza ilişkin idarenin 2942 sayılı Kanun'un 27 nci maddesi uyarınca acele el koyma talep ettiği ve mahkemece el koyma kararı verildiği anlaşıldığından, davalı idarenin bu durumda haksız el atmasından bahsedilemeyeceğinden ecrimisil talebinin reddine karar verilmesi gerektiği belirtildiğinden haksız işgalin oluşmadığı ve mahkemece ecrimisil talebinin reddine ilişkin kararda usul ve yasaya aykırılık bulunmadığı gerekçesiyle istinaf başvurularının esastan reddine karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/13761 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185428200)
+
 Dairemizce yapılan inceleme sonucunda; dava konusu 983 parsel sayılı taşınmazın tapu kaydında ... lehine tesis edilen daimi irtifak hakkının taşınmazda meydana getireceği değer düşüklüğü yönünden bilirkişi kurulundan ek rapor alınıp, sonucuna göre hüküm kurulması gerektiği düşünülmeden eksik inceleme ile karar verilmesi, ecrimisil yönünden sulu tarım arazisine göre belirlenecek münavebe ürünlerinin ecrimisil hesaplaması yapılacak yıllara ilişkin fiyat ve maliyet değerleri üzerinden hesaplanması gerekirken denetlenmesi mümkün olmayacak şekilde dayanakları gösterilmeden ecrimisil karşılığının hesaplanması, dava konusu 983 parsel sayılı tapu kaydında bulunan ipotek şerhinin hükmedilen bedele yansıtılmaması, dava konusu taşınmazın değeri dava tarihine göre belirlendiğinden, hüküm altına alınan alacağın tamamına dava tarihinden itibaren faiz işletilmesi gerektiğinin düşünülmemesi ve ... harçtan muaf hale geldiğinden ... aleyhine harca hükmedilmesi doğru görülmediğinden kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/11758 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178350300)
 
 Gölü'nün maksimum su kotu gibi unsurları da dikkate alınarak gözlem çukurları açılmak ve haritada işaretlenmek suretiyle kıyı kenar çizgisinin belirlendiği, bilirkişi heyetince taşınmazın kıyı kenar kısmında kalan miktarlarının gösterildiği, hükme esas alınan bilirkişi kurulu raporunda sulu tarım arazisi niteliğindeki dava konusu taşınmaza o yörede mutat olarak ekilen münavebe ürünleri buğday, yonca, biber verileri esas alınarak olduğu gibi kullanılması halinde getireceği net geliri üzerinden bilimsel yolla değer biçilerek taşınmazın m² birim fiyatının 36,70 TL olarak hesaplanmasında, hesaplamaya esas alınan ürünler ile kapitalizasyon faiz oranının % 4 olarak alınmasında, taşınmazın bilirkişi raporunda belirlenen özelliği, dosya kapsamı ve Kadastro Genel Müdürlüğü Parsel Sorgulama Sisteminden edinilen bilgilere göre dava konusu taşınmazın özelliği ve durumu dikkate alındığında %50 oranında objektif değer artışı uygulanmasında bir isabetsizlik görülmediğini; ancak Mahkemece her ne kadar davacının ecrimisil talebi kabul edilmişse de ecrimisil bir taşınmazın kullanımını engellemeye yönelik el atma sonucu malikin o yeri kullanamamasından kaynaklanan bir zararına karşılık bir tazminat
 oluşu, davalı idarece yapılan işlemin ise tapu kaydına şerh koymaktan ibaret olup davacının kullanımını engelleyici fiili bir müdahalesinin olmaması dikkate alındığında ecrimisil şartlarının oluşmadığı anlaşıldığından ve reddine karar verilmesi gerekirken kabulü yönünde hüküm kurulmasında isabet görülmediğinden davalı ... vekilinin istinaf isteminin bu yönüyle kabulü ile İlk Derece Mahkemesi hükmü kaldırılarak, yeniden esas hakkında hüküm kurulmak suretiyle davanın ecrimisil istemi yönünden reddine, tazminat istemi yönünden kabulüne karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/11245 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175623900)
+
 Dairemizce yapılan inceleme sonucunda; dava konusu taşınmazlara ait kök tapu ve kadastro tutanaklarının dosya arasına alınarak, dosyada mevcut 2018-2019-2020 ve 2021 tarihlerine ait çiftçi kayıt sistemi kayıtları birlikte değerlendirildirilerek dava konusu taşınmazın hangi mevsimlerde ne kadar süre ile taşkın altında kaldığı mevcut hali ile tarım yapılmasının mümkün olup olmadığı, taşkının sürekli olup olmadığı ve tarımsal olarak kullanılabilir hale getirilip getirilemeyeceği, taşınmazın el atıldığı tespit edilen kısmının taşınmazın ayrıntılı fotoğrafları da çekilerek, çekilen fotoğrafları üzerinden işaretlenip koordinatlarını gösterir rapor alınmak suretiyle el atmanın varlığı somut olarak araştırılarak varılacak sonuca göre bir karar verilmesi gerekirken eksik incelemeye dayalı olarak karar verilmesinin hatalı olduğunu, kabule göre de kamulaştırılmadan el atıldığı tespit edilen taşınmazların tapu kaydının iptali ile davalı idare adına tescil edildikten sonra terkinine karar verilmesi gerektiğinden bahisle kararın bozulmasına, ecrimisil yönünden ise kesinlik sınırı altında kaldığından davalı idare vekilinin temyiz dilekçesinin reddine karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/3620 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142687200)
 
 Dairemizce yapılan temyiz incelemesi sonucunda; arazi niteliğindeki taşınmaza ekilebilir net ürün gelirine göre değer biçilmesi yöntem itibarıyla doğru olmakla birlikte, dava konusu taşınmazın konumu ve bilirkişi kurulu raporunda belirtilen özellikleri dikkate alınarak gelir metoduna göre tespit edilen metrekare birim bedeline % 25 oranında objektif değer artırıcı unsur ilave edilerek bedel tespit edilmesi gerektiğinin gözetilmemesi, taşınmaza hangi tarihte el atıldığına ilişkin bilgi ve belgeler taraflardan sorularak tespit edilip sonucuna göre karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması, gerekçeli kararın hüküm fıkrasında kamulaştırmasız el atmaya dayanan tazminat miktarı ile ecrimisil bedelinin ayrı ayrı gösterilmesi ve ecrimisile dönem sonlarından faiz uygulanması gerektiğinin gözetilmemesi ve dava konusu taşınmazın tapu kaydında bulunan ipotek şerhinin hükmedilen bedele yansıtılmaması hatalı olduğundan hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2025/2661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168978400)
+
 Hükme esas bilirkişi raporunda, tarım arazisi niteliğindeki çekişmeli taşınmazda tarımsal ürün gelir metodu uyarınca ecrimisil hesabı yapılmamış, aksine arsa vasfındaki taşınmazlar için kabul edilen emsal kira metoduyla ilgili değerleme oranı uygulanmak suretiyle hesaplama yapılmış olması doğru görülmediğinden, tarım arazisi niteliğindeki taşınmaz bakımından ecrimisil istenen dönem için yukarıda açıklanan yöntem izlenerek zirai gelir metoduna göre ecrimisil hesabı yapılmak üzere belirtilen esaslara göre bilirkişiden rapor alınarak oluşacak sonuca göre hüküm kurulması gerektiğinden, yazılı şekilde eksik incelemeye dayalı hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 5. HD 2025/999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139747000)
 
 Dairemizce yapılan inceleme sonucunda, Mahallinde yapılan keşif sonucu ... köyü 340 parsel sayılı taşınmaza davalı idarece el atılmadığından bahisle bu parsel yönünden davanın reddine karar verilmesinde isabetsizlik olmadığı gibi, arazi niteliğindeki 168 parsel sayılı taşınmazın dava tarihindeki değerinin biçilmesinde ve ecrimisil bedelinin hesaplanmasında yöntem olarak bir isabetsizlik görülmediği; ancak dava konusu taşınmazın kuru tarım arazisi niteliğine göre bulunduğu yörede yaygın olarak uygulanan münavebe sistemi İlçe Tarım ve Orman Müdürlüğünden sorulup, değerlendirme (dava) tarihi itibarıyla resmi veriler de dikkate alınarak tespit edilecek münavebe sistemine göre taşınmazın değerinin belirlenmesi gerekirken, münavebe uygulanmaksızın sadece buğday ürünü nazara alınarak hesap yapan bilirkişi kurulu raporu doğrultusunda yazılı şekilde hüküm kurulması ve değerlendirme tarihi olan 2013 yılı dekar başına üretim masrafları ile hasat dönemindeki ortalama toptan kg. satış fiyatlarının da ilgili resmi kuruluşlardan sorulup, rapor denetlenmeden eksik inceleme ile karar verilmesi, taşınmazın kuru tarım arazisi niteliği, konumu ve yüzölçümü dikkate alındığında değeri belirlenirken
 kapitalizasyon faiz oranının % 5 uygulanması gerekirken, bu oranın % 6 kabulü ile az bedel tespiti, davalı ... harçtan muaf olduğu halde aleyhine harca hükmedilmesi doğru görülmediği gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2024/9287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120832400)
+
 Dairemizce yapılan inceleme sonucunda, kapama ... bahçesi niteliğindeki taşınmaza gelir metoduna göre değer biçilmesi yöntem itibarıyla doğru olduğu; ancak taşınmazın kuru tarım arazisi niteliği, konumu ve yüzölçümü dikkate alındığında değeri belirlenirken kapitalizasyon faiz oranının % 5 uygulanması gerekirken, bu oranın % 6 kabulü ile az bedel tespiti, 15.04.2014 tarihli fen bilirkişi raporunda, dava konusu 479 parselin 1.326 m² olarak tapuda kayıtlı iken kadastro yenileme çalışmaları sonucu 104 ada 9 parsel olarak ve 1.025,63 m² yüzölçümü ile tapuya tescil edildiği belirtildiğinden, dava konusu taşınmazın son tapu kaydı ilgili Tapu Müdürlüğünden getirtilerek yüzölçümünün 1.025,63 m² olduğunun tespiti halinde el atmadan arta kalan kısım için hesaplanan değer azalış bedelinin 488,57 m² üzerinden belirlenmesi gerektiği gözetilmeden eksik inceleme ile yazılı şekilde karar verilmesi, davacının ecrimisil talebi yönünden; dava konusu taşınmaza fiilen hangi tarihte (ay, gün ve yıl olarak) el atıldığı taraflardan delilleri sorulmak, gerektiğinde tanık dinlenmek ve el atma tarihine ilişkin tüm belgeler (yer teslim tutanağı, geçici ve kesin kabul tutanakları vs) getirtilmek suretiyle
 tespit edilip sonucuna göre hüküm kurulması gerektiği gözetilmeden eksik inceleme ile ecrimisil isteminin reddi, davalı idare harçtan muaf olduğu halde yargılama giderleri arasında idareye harç yüklenmesi, doğru olmadığı gibi dava konusu taşınmaza 04.11.1983 tarihinden sonra el atıldığının tespiti halinde nispi vekâlet ücretine hükmedilmesi gerektiğinden kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2024/7400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073052200)
 
 Arsa niteliğinde ise, dava konusu taşınmazın el atmadan önce ne şekilde kullanıldığı, ayrıca civar taşınmazların ecrimisil istenilen dönemdeki kullanma biçimleri araştırılarak, bu kullanma şekillerine uygun kira sözleşmelerinin taraflardan ibrazı istenmeli, ayrıca bilirkişilerin resen bulacakları emsaller de dikkate alınmak suretiyle, …
 
@@ -143,15 +175,21 @@ Arazi ise, İlçe Tarım ve Orman Müdürlüğü verileri getirtilerek verilere 
 
 ## Yargıtay 5. HD 2024/2669 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021332900)
+
 Dairemizce yapılan inceleme sonucunda; arazi niteliğindeki taşınmazlara net gelir metoduna göre değer biçilmesinde bir isabetsizlik görülmediği gibi 117 ada 34 parsel sayılı taşınmaz yönünden tazminata ve ecrimisile hükmedilmesinde bir isabetsizlik görülmediğini; ancak 117 ada 34 parsel sayılı taşınmazın bedeline hükmedilen alanda bulunan hafriyatın kaldırılması masrafına hükmedilmemesi gerektiğinin düşünülmemesi, 117 ada 59 parsel (ifrazla 121 ve 122 parsel olmuştur), 117 ada 50 parsel (ifrazla 112 ve 113 parsel olmuştur), 117 ada 53 parsel (ifrazla 119 ve 120 parsel olmuştur) sayılı taşınmazlara yönelik olarak Artvin Asliye Hukuk Mahkemesinin 2014/14 Esas ve 2014/15 Esas sayılı dosyalarında davalı idarece kamulaştırma bedelinin tespiti ve tescil davaları açılmış olduğu anlaşıldığından, bu davalar bekletici mesele yapılarak sonucuna göre karar verilmesi gerekirken bu parseller yönünden yazılı şekilde hüküm kurulması, davacılar vekilince usulüne uygun olarak verilmiş ıslah dilekcesi bulunmadığı halde talepten fazlaya hükmedilmesi ve 28.04.2018 tarihinde yayımlanarak yürürlüğe giren 7139 sayılı Kanun'un 6 ncı maddesi gereğince Devlet Su İşleri Genel Müdürlüğünün harçtan muaf
 tutulması gerektiğinden hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2024/2429 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059994900)
 
 Dairemizce yapılan inceleme sonucunda; arazi niteliğindeki Mardin ili, ..., ... 135 ada 2 parsel (eski 863) sayılı taşınmaza gelir metodu esas alınarak değer biçilmesinde yöntem itibarıyla bir isabetsizlik görülmemiştir.
 Ancak; dava konusu 863 parsel (yeni 135 ada 2 parsel) sayılı taşınmaza davalı idare tarafından yol genişletmek suretiyle el atılmasına ilişkin Mazıdağı Asliye Hukuk Mahkemesinin 2010/5 Esas, 2012/4 Karar sayılı dosyasından dava konusu taşınmazın 4.562,98 m²lik kısmının bedelinin ödenmesine karar verildiği, bu dosyada ise taşınmazın 5.675,59 m²lik kısmına yol genişletilmek suretiyle el atıldığının belirlendiği anlaşılmakla; taşınmazın krokisi ile el atıldığı belirlenen kısımların krokisi çakıştırılarak taşınmaza el atılan kısmın, bedeli ödenen bölüm içinde kalıp kalmadığı tespit edilerek sonucuna göre karar verilmesi gerekirken eksik inceleme ile hüküm kurulması, münavebeye esas alınan ürünlerin ve ağaçların maktu değerlerinin değerlendirme tarihi olan 2014 yılı Tarım ve Orman İlçe Müdürlüğünden resmi verileri getirtilip, bilirkişi raporu denetlenerek, sonuca göre karar verilmesi gerekirken, 2016 yılı verilerine göre belirleyen bilirkişi raporunun hükme esas alınması, dava tarihinden geriye doğru hesap yapılmak suretiyle ecrimisil bedelinin tespit edilmesi gerekirken, 2016 yılından geriye dönük hesap yapılmak suretiyle yazılı şekilde hüküm kurulması, dava konusu taşınmazın üzerinde
 yer alan haciz şerhinin hükmedilen bedele yansıtılması gerektiğinin düşünülmemesi, kabule göre de dava konusu taşınmazın kullanım amacı, yüzölçümü ve geometrik şekli dikkate alındığında kamulaştırmadan arta kalan bölümünde herhangi bir değer kaybı olmayacağı gözetilmeden, kalan alanın bir kısmı için değer azalışı hesaplayan bilirkişi raporu hükme esas alınmak suretiyle fazlaya hükmedilmesi doğru görülmemiştir.
 
 ## Yargıtay 5. HD 2024/813 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029593200)
 
 Kapama fıstık niteliğindeki dava konusu Siirt ili, Merkez ilçesi, ... köyü 145 ada 1 parsel sayılı taşınmaza 2942 sayılı Kanun'un 11 inci maddesinin birinci fıkrasının (f) bendi uyarınca net gelir esas alınarak, üzerindeki yapılara ise resmi birim fiyatları esas alınıp yıpranma payı düşülerek değer biçilmesine ve alınan rapor uyarınca belirlenen el atma ve ecrimisil bedelinin bedelin davalı idareden tahsiline karar verilmesi yerindedir.

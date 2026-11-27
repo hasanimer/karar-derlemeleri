@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2016/15895 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/272358600)
+
 Dava, muhdesatın tespiti isteğine ilişkindir.
 
 Dava konusu 102 parsel sayılı taşınmazın dosya içeriğindeki tapu kaydına göre davalı ... .... A.Ş., taşınmazdaki .../... payını 28.08.2009 tarihinde satın alma yoluyla edinmiştir. Taşınmazın bulunduğu yerde Mahkemece yapılan keşif sonrasında ziraat ve inşaat bilirkişileri tarafından birlikte düzenlenen ........2015 tarihli raporda, tespiti istenen kayısı ağaçlarının ..., dut ağaçlarının ...-... yaşlarında olduğu bildirilmiştir. Söz konusu ağaçlar, keşif tarihi esas alındığında davalı şirket tarafından tapuda satın alındığı tarihte mevcut olan muhdesatlardır. Nitekim, davalı şirket vekili de satın alma tarihinde muhdesatın taşınmaz üzerinde mevcut olduğu yönünde savunma yapmıştır. Anılan muhdesatlar ile ilgili davacı tarafın bir isteği mevcut ise bu isteğini, davacı, önceki malikten eda davası ile talep edebilir. Davacının, tapu siciline güvenerek üzerindeki muhdesat ile birlikte taşınmazı satın alan davalı şirkete karşı söz konusu ağaçlar yönünden tespit davası açmakta hukuki yararı bulunmamaktadır.
@@ -31,6 +33,8 @@ Tespitine karar verilen motopomp ve tesisatına gelince; ........1995 tarih ve .
 
 ## Yargıtay 14. HD 2016/10943 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/331874900)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -38,6 +42,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 Bu durumda muhdesat iddiasının yukarıda açıklandığı şekilde araştırılarak gerekirse bilirkişiden ek rapor alınmak suretiyle taşınmazların tespit edilen toplam değerlerinin ne kadarının arza ne kadarının muhdesata isabet ettiğinin yüzdelik oran kurulmak suretiyle belirlenmesi ve bu oran uyarınca satış bedelinin paydaşlara dağıtılması gerekmektedir. Bu husus göz ardı edilerek yazılı şekilde hüküm kurulması doğru görülmemiş, bu nedenle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2016/9368 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/330667000)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -47,6 +53,8 @@ Bunun yanısıra, mahkemece mahallinde yapılan keşifte dava konusu 2 parsel sa
 
 ## Yargıtay 14. HD 2016/4759 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/227053800)
+
 Dava, ortaklığın giderilmesine ilişkindir.
 
 …
@@ -55,15 +63,21 @@ Bu durumda mahkemece, HMK'nın 165. maddesi gereğince muhdesat iddiasında bulu
 
 ## Yargıtay 8. HD 2016/3898 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210458800)
+
 Dava konusu 589 parsel sayılı taşınmaz üzerinde yer alan muhdesatlar yönünden ise dava konusu taşınmazın niteliğinin araştırılıp soruşturularak sonucuna göre karar verilmesi gerektiği kuşkusuzdur.
 
 Ne var ki; Mahkemece uzman fen bilirkişi tarafından düzenlenen raporda, taşınmazın mera olarak belirtilmesine rağmen niteliği usulüne uygun olarak araştırılmamış, muhdesatların üzerinde bulunduğu taşınmaz hakkında yapıldığı öne sürülen kamulaştırma ile ilgili kayıt ve belgelerle, kamulaştırma haritası getirtilip uygulanmamış, muhdesatların bulunduğu taşınmazın kamuya ait mera, yaylak, kışlak, genel harman yeri, orman veya aktif dere yatağı niteliğinde olup olmadığı hususu ile kamulaştırma sahası içinde kalıp kalmadığı belirlenmemiştir.
 
 ## Yargıtay 8. HD 2015/22216 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402573800)
+
 Bu nedenlerle, Mahkemece gerek görüldüğü takdirde mahallinde yeniden keşif yapılarak dava konusu taşınmaz üzerindeki muhdesatların duraksamaya meydan vermeyecek şekilde ayrı ayrı numaralandırılması ve harflendirilmesi, teknik bilirkişiye infaza ve denetime elverişli basit kroki düzenlettirilmesi, ağaçların da hangi parsel üzerinde yer aldığının belirtilmesi ve HMK 297/2 maddesine göre dava konusu muhdesatlar ile ilgili infazda kuşku oluşturmayacak şekilde bir karar verilmesi gerekir. Anılan yön gözetilmeksizin verilen kararın bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 18. HD 2015/17812 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/197043900)
 
 Kat Mülkiyeti Yasası hükümlerine uygun olarak üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, üzerindeki yapının mimari projesine uygun biçimde tamamlanmış ya da projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin olması, bağımsız bölümlerinin başlı başına kullanmaya elverişli bulunması (M.1), yapının tümünün kargir olması (M.50/2) ve her bir paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı) tamamlattırılması gerekmektedir. Bu koşulların gerçekleşmesi durumunda anılan Yasanın 10. maddesinin beşinci fıkrası hükmünce taşınmazda kat mülkiyetine geçilebilecek ve açılan davada ortaklığın bu yolda giderilmesine karar verilebilecektir.
 
@@ -71,13 +85,19 @@ Dosyada toplanan belge ve bilgilere özellikle bilirkişi raporu içeriğine gö
 
 ## Yargıtay 1. HD 2015/11798 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138791500)
+
 Hâl böyle olunca; mahallinde yeniden konusunda uzman bilirkişiler aracılığıyla keşif yapılması, yukarıda belirtilen ilkeler doğrultusunda tüm paydaşları kapsar biçimde fiili kullanma biçiminin oluşup oluşmadığının veya harici taksim yapılıp yapılmadığının belirlenmesi, fiili kullanma biçimi veya harici taksim oluşmuş ise kime nerenin kullanımının bırakıldığının açıklığa kavuşturulması, fiili kullanma biçimi veya harici taksim oluşmadı ise davacının taşınmazda kullandığı veya kullanabileceği bir yer olup olmadığının kuşkuya yer bırakmayacak şekilde saptanması ve varılacak sonuç çerçevesinde bir karar verilmesi gerekirken eksik inceleme ile yetinilerek yazılı olduğu üzere karar verilmiş olması doğru değildir.
 
 ## Yargıtay 18. HD 2015/8799 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/189746000)
+
 Dava konusu 162 ada 3 parsel sayılı taşınmaz üzerinde kat mülkiyeti kurmaya elverişli zemin ve 4 katlı kargir bina bulunmaktadır. 1. katta 2 adet bağımsız bölüm diğer katlarda ise birer bağımsız bölüm olup mirasçı taraflar arasında rızai taksim ile kullanıldığı anlaşılmaktadır. Her bir bağımsız bölümün kullanan mirasçılara verilmek suretiyle ( ölen mirasçı yönünden de mirasçılar arasında elbirliği şeklinde ), zemindeki işyeri niteliğindeki bağımsız bölümün taraflar arasında kura çekilmek suretiyle kura neticesi düşecek mirasçıya verilmek üzere kat mülkiyeti oluşturulabileceği, işyeri nitelikli bağımsız bölüm ve daireler arasındaki değer farkının ise ivaz ilavesiyle denkleştirilmesi mümkün bulunmaktadır. Mahkemece belediye başkanlığının 18.02.2013 tarihli yazısı gözetilerek binanın inşaat ruhsat projesi getirtilip, harita ve inşaat mühendislerinin katılımı ile oluşacak bilirkişi kurulu marifetiyle açıklanan esaslar dairesinde keşif yapılarak alınacak raporlar ile tarafların tüm delilleri birlikte değerlendirilip açıklanan esaslar gözönünde bulundurularak oluşacak sonuca göre karar verilmesi gerektiğinin düşünülmemesi doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2015/8660 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/128670900)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -89,17 +109,25 @@ Kabule göre de, paydaşlığın giderilmesi davalarında, sonuçta kazanan ve k
 
 ## Yargıtay 1. HD 2015/8609 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139574900)
+
 Hâl böyle olunca, yerinde keşif yapılarak yukarıdaki ilkeler uyarınca inceleme ve araştırma yapılması, toplanan ve toplanacak delillerin değerlendirilmesi, davacıların taşınmazda kullanabileceği bir bölümün olup olmadığının gerektiğinde taşınmaz başında dinlenecek yerel bilirkişi ve tanık sözleri ile kuşkuya yer bırakmayacak biçimde saptanması, davacıların kullanabileceği bir yer var ise ecrimisil isteğinin reddedilmesi, aksi halde davalının kullandığı alan gözetilerek ortaklığın giderilmesi davasında dava dilekçesinin davalıya tebliğ tarihi olan 04.02.2010 tarihinden ihale tarihine kadar bilirkişi tarafından hesaplanacak ecrimisile hükmedilmesi gerekirken noksan soruşturma ve yanılgılı değerlendirme ile yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 8. HD 2015/7945 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/152203500)
 
 Hükmün dayanağı olarak belirtilen 28.09.2012 tarihli inşaat bilirkişi raporunda davaya konu edilen muhdesat niteliğindeki bağımsız bölümler ile bulundukları katlar yönünden yeterli açıklama bulunmamaktadır. Dava dilekçesi içeriği ve bilirkişi raporu birlikte değerlendirildiğinde taşınmaz üzerinde tarafların da kabulünde olan zemin ve 1. kat dışında sonradan yapıldığı iddia edilen 2. kat ile çatı arası katının bulunduğu belirtilmiştir. Hal böyle olunca verilen kararda dava konusu edilen çatı arası katı hakkında olumlu olumsuz bir karar verilmediği gibi, uzman bilirkişiye kroki düzenlettirilerek katların ve dairelerin yerleri de krokide gösterilmemiştir.
 
 ## Yargıtay 8. HD 2015/4389 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/159349500)
+
 Yapılan bu açıklamalar karşısında davaların tespitini istediği 4 katlı binanın imar uygulaması sonucu hangi ada ve parseller üzerinde kaldığının yerinde yapılacak keşif ile ve teknik bilirkişiler aracılığıyla imar ve gerekirse kadastro paftası çakıştırılmak suretiyle belirlenmesi, hangi imar parseli üzerinde kaldığının krokiye işaret ettirilmesi, bu konuda davacının hukuki yararının olduğunun göz önünde bulundurulması, ortaklığın giderilmesi dosyasınında olayın çözümünde değerlendirilmesi, dava konusu muhdesatın kim tarafından ve ne zaman meydana getirildiğinin araştırılması ve tüm deliller birlikte değerlendirilerek sonucuna göre bir karar verilmesi gerekirken, yazılı gerekçeyle davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 14. HD 2015/2378 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/176935800)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -111,6 +139,8 @@ Bilirkişi raporunda satış bedelinin; (A) seçeneğinde hali hazır fiili duru
 
 ## Yargıtay 14. HD 2014/14641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105681000)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -120,6 +150,8 @@ Ortaklığın giderilmesi davasında taşınmazın aynına ilişkin karar verile
 Mahkemece keşif yapılmaksızın, dava konusu .. parsel sayılı taşınmazlar üzerindeki ortaklığın satış suretiyle giderilmesine karar verilmesi doğru görülmemiş, bu nedenle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2014/13838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105774600)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -131,9 +163,13 @@ Bu durumda mahkemece, mahallinde uzman harita mühendisi marifetiyle yeniden ke�
 
 ## Yargıtay 8. HD 2014/13762 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98887700)
+
 Dava konusu nolu parsel dosya içeresinde bulunan tapu kaydına göre 620/1680 paylı olarak davacı A.. O.. ile yine 620/1680 pay ile davalı H.. C.. ve 620/1680 pay ile davalı H.. C.. adlarına kayıtlıdır. Davacının paylı mülkiyete tabi olan taşınmaz üzerinde bulunan binanın (muhdesatın) kendisi veya babası tarafından yaptırıldığının tespitini istemesinde hukuki yararı vardır. Davalılardan H.. C.. keşif sonrası düzenlenen 22.01.2013 tarihli Kadastro Teknisyeni bilirkişi F.. K.. raporuna ekli krokisinde A harfi ile işaretli muhdesatın davacıya ait olduğunu açıkça ifade etmiş ve davayı da kabul etmiştir. Davalı H.. C..'in bu beyanı da keşif yerinde dinlenen tanık İ.. C.. ve duruşmada dinlenen tanık A.. T..'nın yeminli beyanları ile doğrulanmıştır. Tarafların delilleri bu açıklamalar doğrultusunda teknik bilirkişi ve tanık beyanları da göz önüne alınarak birlikte değerlendirilerek bir sonuca varılması gerekirken uygulama yeri olmayan TMK'nun 684. maddesine dayanılarak yazılı şekilde hüküm kurulması doğru değildir. Hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2014/10591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105622600)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -148,11 +184,15 @@ Kabule göre de aynen taksim suretiyle ortaklığın giderilmesine karar verilme
 
 ## Yargıtay 18. HD 2014/7167 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106975600)
+
 Dosya içerisindeki bilgi ve belgelerin incelenmesinde; dava konusu 9543 ada 5 parsel sayılı taşınmaz üzerinde kat irtifakı kurulu olduğu dava konusu taşınmazda yer alan 1 ve 2 numaralı bağımsız bölümlerin davacıya ait olduğu, davalı belediyeye ait bağımsız bölüm bulunmayıp hissesinin zemine yönelik olduğu, dava konusu taşınmaz üzerinde değeri en fazla olan gayrimenkul maliki olan davacı vekilinin 12.09.2013 tarihli celsede açık artırma yolu ile satış isteği nedeniyle yukarıda açılanan Yasanın 54. maddesinin 2.fıkrasına göre satın alma isteminin bulunmadığı, İzmir Büyükşehir Belediye Başkanlığının 24.09.2012 tarihli yazısında da taşınmazın İmar Yönetmeliğine göre ifrazının mümkün olmadığı anlaşılmıştır.
 
 Bu durumda, satın alma ve kat mülkiyeti muhafaza ile ortaklık giderilemediğine ve taşınmazda en fazla pay sahibi olan davacı taşınmazın satışını talep ettiğine göre; mahkemece yukarıda açılanan yasa maddesinin 2. fıkrasına göre gayrimenkulün ortaklaştırmadan önceki geçer değerlerinin takdir edilerek, bunlara Türkiye İstatistik Kurumunca yayımlanan üretici fiyat endeksi uygulanmak suretiyle, her bir gayrimenkulün hükme en yakın tarih itibariyle ulaştığı değerleri bilirkişiye tespit ettirilerek, taşınmaz üzerindeki kat irtifakı kaldırılarak ikinci fıkrada takdir edilmiş olan değerleri arasındaki orana göre malikler arasında paylaştırılması gerekirken, mahkemece Kat Mülkiyeti Kanununun 54. maddesinin 2. ve 3. fıkralarına uygun bilirkişi raporu alınmadan, satış bedelinin dağıtım şekli gösterilmeden ve taşınmaz üzerindeki kat irtifakı kaldırılmadan salt taşınmaz üzerindeki paydaşlığın satış yolu ile giderilmesine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2014/5670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/354014800)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -162,9 +202,13 @@ Somut olaya gelince; dava konusu 407 parsel sayılı taşınmazın ... kaydı in
 
 ## Yargıtay 8. HD 2014/4799 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98601200)
+
 Hal böyle olunca, işin esasına girilerek tarafların dilekçelerinde belirttikleri tüm delillerinin toplanması, ortaklığın giderilmesine konu olan taşınmaz üzerindeki bina ve eklentilerinin aidiyetinin tespiti için gerekirse mahallinde uzman bilirkişiler, yerel bilirkişi ve tanık huzuruyla keşif yapılması, muhdesatlarla ilgili belirtilen kişilerin bilgi ve beyanlarının keşif zaptına ve düzenlenecek kroki ve raporlara yansıttırılması ve hasıl olacak sonuç çerçevesinde bir karar verilmesi gerekirken, iddia savunma ve dosya kapsamına uygun düşmeyecek gerekçe ile ve yazılı olduğu üzere red kararı verilmesi doğru olmamıştır.
 
 ## Yargıtay 14. HD 2014/2043 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105507300)
 
 Dava, taşınmazdaki ortaklığın giderilmesi istemine ilişkindir.
 
@@ -174,9 +218,13 @@ Somut uyuşmazlıkta, dava konusu .. parsel sayılı taşınmazın 1/2 payının
 
 ## Yargıtay 14. HD 2014/1244 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105409600)
+
 Paydaşlığın (ortaklığın) satış yoluyla giderilmesi halinde dava konusu taşınmaz üzerinde bina, ağaç vs. gibi bütünleyici parçalar (muhdesat) varsa bunların arzla birlikte satılması gerekir. Ancak TMK'nın 728. maddesi uyarınca "Başkasının arazisi üzerinde kalıcı olması amaçlanmaksızın yapılan kulübe, büfe, çardak, baraka ve benzeri hafif yapılar, bunların malikine aittir. Bu tür yapılar, taşınır mal hükümlerine tabi olur ve tapu kütüğünde gösterilmez." Dosya içerisindeki 22.01.2010 ve 21.02.2012 tarihinde yapılan keşifler sonucu düzenlenen bilirkişi raporlarında büfelerin "geçici basit baraka" niteliğinde olduğu belirtilmiş olup dava konusu taşınmazın üzerindeki büfeler muhdesat niteliğinde değildir. Bu nedenle bedelinin satış tutarının bölüştürülmesinde dikkate alınmaması gerektiğinden mahkemece oran kurulmak suretiyle karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2014/1120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105504200)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -190,6 +238,8 @@ Belirtilen bu huslar gözetilmeden eksik inceleme ile bilirkişi raporları aras
 
 ## Yargıtay 14. HD 2013/15209 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564007300)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -202,6 +252,8 @@ Bu durumda mahkemece, aynen taksime ilişkin olarak hazırlattırılan ifraz kro
 
 ## Yargıtay 14. HD 2013/14654 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657642700)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -211,6 +263,8 @@ Somut olaya gelince; davaya konu edilen ve satışına karar verilen taşınmaz 
 Ayrıca dosyada mevcut 09.10.2012 tarihli bilirkişi raporu hüküm kurmaya elverişli değildir. İntifa hakkı sahibi...'in 15.11.2012 tarihinde öldüğü dosyada mevcut nüfus kaydından anlaşılmaktadır. 4721 sayılı TMK 797/1 maddesine göre intifa hakkı gerçek kişilerde hak sahibinin ölümü ile sona erer. Anılan raporda zemin değeri intifa hakkının devam ediyor olmasına göre hesaplandığı için intifasız zemin bedeli hesaplandığında arza ve muhdesata isabet eden oran değişecektir. Bu nedenle intifa hakkının sona erdiği kabul edilerek, muhdesat ve arza isabet eden oranların hesaplanması hususunda bilirkişiden ek rapor alınarak satış bedelinin ve yargılama giderlerinin paylaştırılmasında değerlendirmeye esas alınmalıdır.
 
 ## Yargıtay 6. HD 2013/14317 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535151500)
 
 Dava, altı adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -222,16 +276,22 @@ Kabule göre de karar tarihi itibarıyla yürürlükte olan 492 Sayılı Harçla
 
 ## Yargıtay 7. HD 2013/13192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096947900)
+
 Hal böyle olunca; öncelikle 615 parsel sayılı taşınmazın kadastro tespit tutanağı ilgili Tapu Sicil Müdürlüğünden getirtilmeli, daha sonra taraf tanıkları hazır edilmek suretiyle az yukarıda açıklanan hukuki olgunun belirlenmesi açısından taşınmaz başında yeniden keşif yapılmalı,keşifte uzman inşaat bilirkişisi İsmail Sertdurak tarafından düzenlenen raporda belirtilen ev,samanlık,eski ev,tahıl ambarı, ahır ve garaj ile kuruluk niteliğinde bulunan muhdesatların hangi tarihte, kim tarafından,ne şekilde meydana getirildiği duraksamasız belirlenmeli,bunun sonucunda davada hak düşürücü sürenin gerçekleşip gerçekleşmediği araştırılmalı,muhdesatın kadastro tespit gününden sonra meydana getirilen bölümleri var ise buna göre değerlendirme yapılmalı,muhdesatın belirli bölümünün tek başına meydana getirildiğinin davacı tarafça kanıtlanması halinde davanın sadece bu bölüm yönünden kısmen kabulüne karar verilmeli,muhdesatın oturulabilir hale getirilmesi için yapılan harcamaların yeni bir muhdesat meydana getirme niteliğinde olmayıp,iyileştirme gideri (faydalı masraf) niteliğindeki bu gibi giderlerin,ancak koşullarının varlığı halinde sebepsiz zenginleşme davasına konu edilebileceği düşünülmeli,
 daha sonra toplanan ve toplanacak tüm deliller bir arada değerlendirilerek sonucuna göre bir karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2013/12496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095442700)
 
 Dava, muhdesat aidiyetinin tespiti istemine ilişkindir.
 
 Tapuda kayıtlı ve taraflar arasında ortaklığın giderilmesi davasına konu olduğu belirlenen 1247 parsel sayılı taşınmaz üzerinde bulunan ve bilirkişi raporunda (D) harfi ile gösterilen muhdesatın davacı ..., aynı raporda (H) harfi ile gösterilen muhdesatın ise ... tarafından meydana getirildiği mahkemece yapılan keşif, uygulama, toplanıp değerlendirilen delillerle belirlenmiştir. Bu nedenler ve hükümde gösterilen diğer gerekçelere göre davalı tarafın sair temyiz itirazları yerinde değildir.
 
 ## Yargıtay 14. HD 2013/11452 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655462000)
 
 Dava, İİK’nun 121 maddesi hükmü uyarınca verilen yetki belgesine dayalı olarak ortaklığın giderilmesi istemine ilişkindir.
 
@@ -241,11 +301,15 @@ Olayımıza gelince; dava konusu taşınmaz üzerindeki bir kısım muhdesatın 
 
 ## Yargıtay 7. HD 2013/9977 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100301800)
+
 Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti istemine ilişkindir.
 
 Tapuda kayıtlı ve taraflar arasında ortaklığın giderilmesi davasına konu olduğu belirlenen 425 parsel sayılı taşınmaz üzerinde bulunan uzman bilirkişi tarafından düzenlenen 12.10.2010 tarihli haritalı raporda kırmızı renge taralı ve “2” numara ile işaretli muhdesatın davacı ... tarafından meydana getirildiği mahkemece yapılan keşif, uygulama ve toplanıp değerlendirilen delillerle belirlenmiştir. Bu nedenler ve hükümde gösterilen diğer gerekçelere göre davalılardan ... ve ...’ın sair temyiz itirazlarının reddi gerekir.
 
 ## Yargıtay 7. HD 2013/4906 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098075500)
 
 Dava tapuya kayıtlı ve ortaklığın giderilmesi davasına konu edilen taşınmazlar üzerinde bulunan muhdesatların aidiyetlerinin tespiti istemine ilişkindir.
 

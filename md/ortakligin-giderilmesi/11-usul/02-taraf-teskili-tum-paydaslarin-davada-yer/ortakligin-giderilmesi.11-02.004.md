@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2013/9875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657886400)
+
 Dava, onsekiz adet taşınmazın ortaklığın giderilmesine ilişkindir.
 
 …
@@ -32,6 +34,8 @@ Olayımızda; Dava konusu ve satışına karar verilen taşınmazların paydaş�
 
 ## Yargıtay 6. HD 2013/9493 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550907300)
+
 Dava, yedi adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -41,6 +45,8 @@ Paydaşlığın (ortaklığın) giderilmesi davasını paydaşlardan (ortaklarda
 Olayımıza gelince; Tapu kayıtlarında ... ve ... parsel sayılı taşınmazlarda paydaş olarak yer alan ..., ..., ..., ... ve ...'nun davada taraf olarak gösterilmedikleri gibi davaya dahil de edilmedikleri anlaşılmıştır. Mahkemece bu paydaşların davaya dahil edilerek adlarına dava dilekçesi ve duruşma gününü bildirir davetiye tebliği suretiyle taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmadan yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/7930 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550498500)
 
 Dava, bir adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -54,11 +60,15 @@ Kabule göre de, paydaşlardan ... mirasçısı ...’un dava devam ederken 26.1
 
 ## Yargıtay 6. HD 2013/6203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404474500)
+
 Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan) biri veya bir kaçı diğer paydaşlara (ortaklara) karşı açar. HMK.'nun 27. maddesi hükmü uyarınca, davanın tarafları, müdahiller ve yargılamanın diğer ilgilileri, kendi haklarıyla bağlı olarak hukuki dinlenilme hakkına sahiptirler. Hukuki dinlenilme hakkı, Anayasının 36. maddesinde ve Avrupa İnsan Hakları Sözleşmesinin 6. maddesinde düzenlenen adil yargılama hakkının en önemli unsurudur. Bu itibarla, paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Paydaşlardan Hacere Ceylan'ın 16.3.2008 tarihinde hükümden önce ölmüş olduğu, miraçılarının davaya dahil edilmediği anlaşılmıştır. Taraf teşkili kamu düzenine ilişkin olup, hâkim kendiliğinden (re'sen) yargılamanın her aşamasında dikkate almalıdır. Mahkemece, hükümden önce ölen paydaş ...'ın mirasçılık belgesindeki mirasçılarının davaya dahil edilmesi,dava dilekçesi içeren duruşma günü tebliğ edilerek taraf teşkilinin sağlanması ve sonucuna göre bir karar verilmesi gerekirken eksik taraf teşkili ile karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2013/6078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096549500)
 
 Dava, tapuda kayıtlı ve ortaklığın giderilmesi davasına konu edilen 38824 ada 21 parsel sayılı taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti istemine ilişkindir.
 
@@ -70,6 +80,8 @@ Bu kuralların ayrık hali olmak üzere; üzerinde ana taşınmazın değerinde 
 
 ## Yargıtay 14. HD 2013/5985 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652498900)
+
 Dava, borçlu ortağın alacaklısı tarafından açılan bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -77,6 +89,8 @@ Dava, borçlu ortağın alacaklısı tarafından açılan bir adet taşınmazda 
 Öte yandan, dava konusu taşınmazın paydaşlarından ...'in öldüğü ve tapuda mirasçıları ...adına 23.12.2009 tarihinde intikal yapıldığı, yine paydaşlardan ...'in öldüğü ve payının 14.05.2009 tarihinde mirasçılarından ... ve ...'e intikal ettiği halde bu paydaşların davada taraf olmadıkları, paydaşlardan ...'in de yargılama aşamasında öldüğü ancak veraset belgesine göre mirasçılarının davaya dahil edilmedikleri anlaşılmıştır. Bu nedenle son tapu kaydına göre tüm paydaşların ve ölü paydaş ...'in veraset belgesine göre de mirasçılarının davaya dahil edilerek dava dilekçesi ve duruşma gününü bildirir usulüne uygun tebligat yapıldıktan sonra işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmadan yazılı şekilde karar verilmesi doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2013/5526 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551049400)
 
 Dava, yedi adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -88,6 +102,8 @@ Olayımıza gelince; Dava konusu taşınmazlarda paydaş olan ..., ..., ..., ...
 
 ## Yargıtay 6. HD 2013/5314 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657754300)
+
 Dava, 11 adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -97,6 +113,8 @@ Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan
 Olayımızda; Dava konusu ve satışına karar verilen ...,... ada ...,... ada ...,...,...,...,...,... ve ... parsel nolu taşınmazların tapu kayıtlarında paydaş ve malik olan ...,... ve...’un davada taraf olmadıkları görülmüştür. Yukarıda açıklanan ilke ve esaslar doğrultusunda davada tüm paydaşların yer alması zorunlu olup mahkemece adı geçen paydaşlar hayatta iseler kendilerinin ölmüş iseler alınacak mirasçılık belgesine göre mirasçılarının usulüne uygun olarak davaya dahil edilip taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken taraf teşkili sağlanmadan 6100 sayılı HMK.nun 27. Maddesi hükmüne aykırı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 14. HD 2013/5269 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647729700)
 
 Dava, ortaklığının giderilmesi isteğine ilişkindir.
 
@@ -110,6 +128,8 @@ Yukarıda açıklanan ilkeler ışığında somut olaya gelince; davaya konu 527
 
 ## Yargıtay 6. HD 2013/5178 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657689800)
+
 Dava bir adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
 …
@@ -119,6 +139,8 @@ Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan
 Olayımıza gelince; dava konusu taşınmazın maliklerinden ...’ün dava tarihinden önce 26/7/1999 tarihinde vefat ettiği dosya içindeki nüfus kaydından anlaşılmaktadır.Ayrıca davalılar ...,...,..., mirasçılarına hükmün tebliğ edildiği görülmektedir.Mahkemece adı geçen paydaşların mirasçılarının davaya dahil edilmesi ve taraf teşkili sağlandıktan sonra işin esasının incelenmesi gerekirken taraf teşkili sağlanmadan yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2013/4965 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657803600)
 
 Dava, bir adet taşınmazda paydaşlığın giderilmesine ilişkindir.
 
@@ -130,6 +152,8 @@ Olayımızda: dava konusu edilen ve satışına karar verilen taşınmaz ... ad�
 
 ## Yargıtay 6. HD 2013/4684 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657428800)
+
 Dava beş adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
 …
@@ -139,6 +163,8 @@ Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan
 Paydaşlardan ...’in dava devam ederken 06.07.2010 tarihinde, paydaşlardan ...’in ise 30.09.2009 tarihinde vefat ettiği sunulan nüfus kayıtlarından anlaşılmaktadır. Bu durumda adı geçen paydaşlara ait mirasçılık belgelerinin ibrazının sağlanması ve mirasçılarının davaya dahil edilerek taraf teşkilinin sağlanması ve ondan sonra işin esasına girilerek bir karar verilmesi gerekirken, noksan taraf teşkili ile yazılı şekilde karar verilmesi doğru olmayıp hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 6. HD 2013/4679 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657423400)
 
 Dava sekiz adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -150,11 +176,15 @@ Olayımıza gelince;Dava konusu ... ada ...parsel sayılı taşınmazın paydaş
 
 ## Yargıtay 6. HD 2013/4486 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657295700)
+
 Elbirliği mülkiyetinin paylı mülkiyete çevrilmesi davasını ortaklardan biri veya bir kaçı diğer ortaklara karşı açar. HMK.'nun 27. maddesi hükmü uyarınca, davanın tarafları, müdahiller ve yargılamanın diğer ilgilileri, kendi haklarıyla bağlı olarak hukuki dinlenilme hakkına sahiptirler. Hukuki dinlenilme hakkı, Anayasının 36. maddesinde ve Avrupa İnsan Hakları Sözleşmesinin 6. maddesinde düzenlenen adil yargılama hakkının en önemli unsurudur. Bu itibarla, paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Olayımıza gelince; Dava konusu 20, 28, 94 ve 97 parsel nolu taşınmazlarda hissedar olan Hatice Kabakcı, Elife Kabakcı ve Mehmet Kabakcı davaya dahil edilmeden, taraf teşkili sağlanmaksızın yargılamaya devam edilerek hüküm kurulması doğru olmadığı gibi, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verilirken, paydaşlara ait payların HMK.nun 297/2 maddesi gereğince hüküm fıkrasında ayrı ayrı yazılması gerekirken mirasçılık belgesindeki paylara atıf yapılarak hüküm kurulması, ayrıca, davaya konu 36 parsel nolu taşınmaz zaten tapuda paylı mülkiyet olarak kayıtlı olmasına rağmen bu husus dikkate alınmadan tekrar paylı mülkiyete çevrilmesine karar verilmiş olması da doğru olmadığından Yargıtay Cumhuriyet Başsavcılığı'nın, Adalet Bakanlığı'nın gösterdiği lüzum üzerine kanun yararına bozma isteğinin kabulü gerekmiştir.
 
 ## Yargıtay 6. HD 2013/3636 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550935200)
 
 Dava, bir adet taşınmazın ortaklığın giderilmesine ilişkindir.
 
@@ -166,6 +196,8 @@ Dava konusu edilen ve satışına karar verilen taşınmazın davalı olarak gö
 
 ## Yargıtay 14. HD 2013/3375 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646032300)
+
 Dava, 469 ada 12 parsel sayılı taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -173,6 +205,8 @@ Dava, 469 ada 12 parsel sayılı taşınmazda ortaklığın giderilmesi istemine
 Dava konusu edilen ve satışına karar verilen 469 ada 12 parsel sayılı taşınmazın tapu kaydından yargılama sırasında 30.12.2011 tarihinde ...’ın pay satın almak sureti ile paydaş olduğu ve davaya dahil edilmediği anlaşılmaktadır. Bu durumda adı geçen kişinin davaya dahil edilerek taraf teşkili sağlandıktan sonra işin esası hakkında bir karar vermek gerekirken bu husus gözardı edilerek taraf teşkili sağlanmadan yazılı şekilde karar verilmesi doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2013/2769 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410039900)
 
 Dava, yedi adet taşınmazın paydaşlığının giderilmesine ilişkindir.
 
@@ -184,6 +218,8 @@ Olayımıza gelince;ortaklığın giderilmesine karar verilen taşınmaz paydaş
 
 ## Yargıtay 6. HD 2013/2696 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409115600)
+
 Dava, yedi adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -194,6 +230,8 @@ Olayımıza gelince; dava konusu yapılan ve şatışına karar verilen taşınm
 
 ## Yargıtay 6. HD 2013/2377 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655137100)
+
 Dava, bir adet taşınmazda ortaklığın giderilmesine ilişkindir.
 
 …
@@ -201,6 +239,8 @@ Dava, bir adet taşınmazda ortaklığın giderilmesine ilişkindir.
 Olayımıza gelince; dava konusu taşınmazın 8/256 payı ...kızı ... adına kayıtlıdır.Paydaş ...'nın kimliği ve oturduğu yer bilinmediğinden, kayyım atanması yoluyla, taraf teşkili sağlanmıştır. Oysa, geri çevirme kararından sonra dosyaya sunulan... 2. Sulh Hukuk Mahkemesinin 2010/1175 Esas ve 1051 Karar sayılı mirasçılık belgesine göre paydaş ...'nın 4.11.2004 tarihinde vefat ettiği ve mirasçılarının bulunduğu anlaşılmaktadır. Yine... Sulh Hukuk Mahkemesinin 2012/609 -815 sayılı kararı ile ...'ya kayyım tayinine dair kararın kaldırılmasına karar verildiği görülmüştür. Mahkemece, paydaş ...'nın mirasçıları davaya dahil edilerek, taraf teşkilinin usulüne uygun olarak sağlanmasından sonra, işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmadan yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/2366 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655129000)
 
 Dava, iki adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -212,6 +252,8 @@ Olayımıza gelince; Ortaklığın giderilmesine karar verilen taşınmaz payda�
 
 ## Yargıtay 6. HD 2013/1965 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/408897400)
+
 Dava, sekiz adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -222,6 +264,8 @@ Dava konusu parsellere ait tapu kayıtlarında paydaş gözüken Cemal Kırca'n�
 
 ## Yargıtay 6. HD 2013/1935 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/408868000)
+
 Dava, bir adet taşınmazda elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istemine ilişkindir.
 
 …
@@ -229,6 +273,8 @@ Dava, bir adet taşınmazda elbirliği mülkiyetinin paylı mülkiyete dönüşt
 Tapu paydaşlarından ... ölü olduğu anlaşılmasına rağmen bu kişinin mirasçılarını gösterir veraset ilamının ibrazı sağlanarak taraf teşkilinin sağlanması,ayrıca paydaş ... mirasçısı ...’un veraset ilamı getirtilerek mirasçısının olup olmadığı denetlenerek ondan sonra işin esası hakkında bir karar verilmesi gerekirken, yazılı şekilde taraf teşkili sağlanmadan karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/1316 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243868700)
 
 Dava, alacaklı tarafından açılan, 7 adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -240,6 +286,8 @@ Davaya konu 247, 431, 464, 176, 470 ve 511 parsel sayılı taşınmazlarda ...'�
 
 ## Yargıtay 6. HD 2013/405 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241523200)
+
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -249,6 +297,8 @@ Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer
 Olayımıza gelince; davaya konu 260 ada 23 parsel nolu taşınmazın paydaşlarından ... oğlu ...'un 27.12.2001 yılında davadan önce öldüğü ve mirasçılarından ... dışında kalan mirasçıların davada taraf olmadıkları anlaşılmıştır. Ölü paydaş ... mirasçıları davaya dahil edilerek dava dilekçesi ve duruşma gününü bildirir usulüne uygun tebligat yapıldıktan sonra,işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmadan yazılı şekilde hüküm tesisi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2013/343 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241469400)
 
 Dava, alacaklı tarafından açılan, 2 adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -260,6 +310,8 @@ Dava konusu taşınmazların tapu kaydında ... isimli paydaşlar bulunduğu hal
 
 ## Yargıtay 6. HD 2013/191 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241401200)
+
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -269,6 +321,8 @@ Paydaşlığın (ortaklığın) giderilmesi davasını paydaşlardan (ortaklarda
 Olayımıza gelince; Dava konusu taşınmazın paydaşlarından ...'ın 22.05.1966 tarihinde, ...'ın ise 05.03.1981 tarihinde öldüğü nüfus müdürlüğünün dosyada bulunan 14.04.2010 tarihli cevabi yazısından anlaşılmıştır. Bu durumda mahkemece adı geçen paydaşların mirasçılık belgelerinin ilgililerden temin edilerek mirasçılarının tespit edilememesi halinde, Hazinenin son mirasçı olduğu hususu üzerinde de durularak, mirasçılık belgesinde belirtilen tüm mirasçıların davaya dahil edilmesi mirasçılara usulüne uygun dava dilekçesinin tebliğ olunması ve taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken taraf teşkili sağlanmadan ölü paydaşlar Abbas ve ...'a dava dilekçesinin ilanen tebliğ edilmek suretiyle yazılı şekilde karar verilmesi doğru olmadığı gibi kabule göre de adresi tespit edilemeyen davalı ... Nogmanoğluna dava dilekçesi ilanen tebliğ edilmiş ise de, mahkeme divanhanesinde ilan yapıldığına dair askı ilan tutanağının geri çevirme kararımız üzerine düzenlendiği anlaşıldığından, adı geçen davalıya Tebligat Kanunu'nun 29 ve Tebligat Tüzüğünün 47.maddelerine aykırı olarak tebligat yapılması da doğru değildir.
 
 ## Yargıtay 6. HD 2012/17633 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1049752600)
 
 Dava, borçlu ortağın alacaklısı ve paydaş tarafından açılan bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 

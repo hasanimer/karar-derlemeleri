@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2011/14549 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059984500)
+
 Dava bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
 …
@@ -30,6 +32,8 @@ Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan
 Olayımızda; dava konusu taşınmaza ait tapu kaydı incelendiğinde, taşınmaz paydaşlarından bir kısmının baba isimlerinin tapu kaydında yazılı olmadığı görülmüştür. Tapu kaydında baba ismi yazılı olmayan paydaşların kim oldukları, davanın tarafları veya onların miras bırakanları ile bir ilgisinin olup olmadığı dosyadaki bilgi ve belgelerden anlaşılamamaktadır. Öte yandan paydaş ... tapu kaydında “...e kızı” olarak gösterilmiş ise de adı geçene ait olduğu bildirilen mirasçılık belgesinin ... oğlu ... adına düzenlendiği görülmüştür. Tapu kaydı ile mirasçılık belgesi arasında uyumsuzluk bulunmaktadır. Keza davalılar ... ve ... hükümden önce öldükleri halde mirasçıları davaya dahil edilmemiştir. Mahkemece belirtilen bu eksiklikler giderilip taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken noksan taraf teşkili ile yazılı şekilde hüküm verilmesi usul ve yasaya aykırıdır …
 
 ## Yargıtay 6. HD 2011/12595 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059378400)
 
 Dava, dört adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -41,6 +45,8 @@ Olayımıza gelince; davaya konu edilen ve satışına karar verilen 263 parsel 
 
 ## Yargıtay 6. HD 2011/11070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1080480500)
+
 Dava, 1 parsel No’lu taşınmazın paydaşlığının giderilmesine ilişkindir.
 
 …
@@ -51,11 +57,15 @@ Olayımıza gelince ; dava konusu edilen ve satışına karar verilen Küçükba
 
 ## Yargıtay 6. HD 2011/9560 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059786000)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer paydaşlara karşı açar. HMUK.nun 569.maddesi hükmü uyarınca davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Olayımıza gelince;Dava konusu edilen ve satışına karar verilen 3963 ada 11 parsel maliki Yahya oğlu ...'in dosya içindeki Kartal 1 Sulh Hukuk mahkemesinin 1985/172-246 sayılı mirasçılık belgesinden dava açılmadan önce 20.8.1981 tarihinde ölmüş olduğu ve davanın ölü kişi aleyhine açıldığı anlaşılmaktadır.Ortaklığın giderilmesi davası çift taraflı davalardan olması nedeniyle ölü kişi aleyhine açıldığı nazara alınmaksızın dosya içindeki mirasçılık belgesine göre paydaş ... mirasçıları,... ...,... ...(...) ve ... ... in sağ ise kendilerinin,ölü ise ibraz ettirilecek mirasçılık belgesine göre mirasçılarının davaya dahil edilip taraf teşkili sağlandıktan sonra işin esasının incelenmesi gerekirken taraf teşkili sağlanmadan yazılı şekilde karar verilmesi doğru değildir. Kabule göre de ... Harçlar kanunun 13/j maddesi uyarınca harçtan muaf olduğu nazara alınmadan Maliye Hazinesinin de harçtan sorumlu tutulması doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/8757 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058187900)
 
 Dava, bir adet taşınmazın paydaşlığının giderilmesine ilişkindir.
 
@@ -64,6 +74,8 @@ Dava, bir adet taşınmazın paydaşlığının giderilmesine ilişkindir.
 Davaya konu taşınmazda davacı ile birlikte ... kızı ... paydaş olarak yer almaktadır. Bu durumda davada, davalı olarak husumetin diğer paydaş ...'e yöneltilmesi gerekir. Davacılar davalının kim olduğunu tespit edemediklerini iddia ettiklerine ve mahkemece yapılan araştırmalara göre paydaşın soyisminin tespit edilemediği ve adres araştırmalarında kendisine ulaşılamadığına göre, Mal Memurlarının Kayyım Tayin edilmesine dair 3561 Sayılı Kanun Hükümleri dikkate alınarak davalıyı davada kayyım temsil edeceğinden, ayrı bir dava açılarak bu kişi için mahallin en büyük mal memurunun kayyım tayin edilmesi için süre verilmesi, kayyımın davaya çağrılması, böylece taraf teşkilinin sağlanmasından sonra işin esasının incelenmesi gerekirken, mahkemece bu husus gözardı edilerek, husumetin hazineye yöneltilerek açılan davanın incelenip neticelendirilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2011/4110 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056016700)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
@@ -75,6 +87,8 @@ Dava konusu edilen ve satışına karar verilen 870 ada 6 parsele ait Muratpaşa
 
 ## Yargıtay 6. HD 2011/3760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058857300)
+
 Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 
 …
@@ -82,6 +96,8 @@ Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 Olayımıza gelince; dava konusu taşınmazlarda paydaş olan davalılar ... ve ... adlarına tebliğe çıkarılan dava dilekçesi Tebligat Yasasının 21.maddesi gereği tebliğ edilmiş ise de, muhatapların adreste ne sebeple bulunmadığı açıklanmamış, komşu ...'ın imzası veya imzadan imtina ettiğine ilişkin açıklaması da alınmamıştır. Bu durumda dava dilekçesi ve duruşma gününü bildirir davetiyeler yöntemine uygun şekilde tebliğ edilmemiştir. Taraf teşkili sağlanmadan karar verilemez. Mahkemece yapılacak iş davalılara dava dilekçesi ve duruşma gününü bildiren davetiyenin yöntemine uygun şekilde tebliğinin sağlanması bu şekilde taraf teşkili yapıldıktan sonra işin esası hakkında karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/2070 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055627400)
 
 Dava bir adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -94,9 +110,13 @@ Akına dava dilekçesi ve duruşma gününü bildirir tebligat gönderildiğine 
 
 ## Yargıtay 6. HD 2011/1730 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056846800)
+
 Olayımızda; dava konusu edilen ve satışına karar verilen taşınmazda paydaş davalı ... hakkında adresi tespit edilemediğinden, zabıta araştırması yapılmadan vergi dairesi ve nüfus müdürlüğüden yapılan araştırma sonucunda adres tespit edilemeye çalışılarak davalıya dava dilekçesi ve duruşma gününü bildirir davetiye ilanen tebligat yapılmış ise de ilgili dairelerden yazılan müzekkereye adı geçenin ... olan soyadının ... olarak yazılarak sorulduğu ve ... adına herhangi bir araştırma yapılmadığından yapılan bu tebligatın usulüne uygun olduğunun söylenemediği gibi, tapu kaydında davalı ...'in payının Gaziantep 2. Asliye Hukuk Mahkemesinin 1978/265 Esas, 1979/983 Karar sayılı ilamı ile oluştuğu, dosya kapsamı ile anlaşılmakla bu dosyanın ilgili mahkemeden getirtilerek adı geçen davalının bu dosyadaki adresine tebligat yapılmadan ilanen tebligat yapılması da doğru olmadığından taraf teşkilinin sağlandığı söyelenemez. Bu nedenle taraf teşkili sağlanmadan işin esasının incelenmesi de doğru değildir.
 
 ## Yargıtay 7. HD 2011/1159 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17121500)
 
 Dava taşınmaz üzerinde bulunan muhdesatların aidiyetinin tespiti istemine ilişkindir.
 
@@ -104,6 +124,8 @@ Dava taşınmaz üzerinde bulunan muhdesatların aidiyetinin tespiti istemine il
 Muhtesatların kime ait olduğu hususunda tapu kaydında şerh bulunmasa veya tüm paydaşlar bu konuda ittifak etmese dahi, bu konuyu belirleyen kesinleşmiş bir hüküm bulunması halinde böyle bir kesin hükmün ortaklığın giderilmesi davasına bakan mahkemeyi de bağlayacağından muhtesatın kendisine ait olduğunu öne süren paydaşın buna karşı çıkan diğer paydaş veya paydaşları hasım göstererek muhtesat aidiyetinin tespiti davası açmakta hukuki yararı bulunduğunun kabulü gerekir.
 
 ## Yargıtay 6. HD 2011/1063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055541200)
 
 Dava sekiz adet taşınmazın ortaklığının giderilmesi isteğine ilişkindir.
 
@@ -115,20 +137,28 @@ Olayımızda; hüküm tarihinden sonra dosyaya ibraz edilen mirasçılık belges
 
 ## Yargıtay 12. HD 2010/28329 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/72025000)
+
 Ortaklığın giderilmesine ilişkin ilamın infazı için yapılan ihalenin mahkemeden feshinin istenmesi halinde tüm paydaşların ve alıcıların taraf gösterilmesi gerekir. Taraf teşkili sağlanmadan yargılama sonuçlandırılamaz. Mahkeme taraf teşkilinin sağlanması için davacı tarafa kesin süre verebilir. Kesin süre, HUMK'nun 159 ve 163. maddelerinde düzenlenmiştir. Bu hüküm yargılamanın süratle yerine getirilmesi amacıyla konulmuştur. Bu madde hükümlerine göre verilen sürenin bir sonuç doğurabilmesi için kesin süreye konu işlemin açık ve kesin bir şekilde belirtilmesi ve bu işlemin niteliğine göre makul bir sürenin belirlenmesi gerekir. Ancak makul bir süre verildiği takdirde karşı taraf lehine kazanılmış bir hak doğar.
 
 ## Yargıtay 18. HD 2010/16232 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803484400)
 
 Kat Mülkiyeti Yasası'nın 10.maddesine göre “kat mülkiyetine konu olmaya elverişli bir gayrimenkul üzerindeki ortaklığın giderilmesi davalarında, mirasçılardan veya ortak maliklerden biri, paylaşmanın, kat mülkiyeti kurulması ve bağımsız bölümlerin tahsisi suretiyle yapılmasını isterse, hakim, o gayrimenkulün mülkiyetinin, 12. maddede yazılı belgelere dayanılarak kat mülkiyetine çevrilmesine ve paylar denkleştirilmek suretiyle bağımsız bölümlerin ortaklara ayrı ayrı tahsisine karar verebilir” demekte, 12. maddesinde ise “Kat mülkiyetinin kurulması için, anagayrimenkulün kat mülkiyetine çevrilmesi hususunda o gayrimenkulün maliki veya bütün paydaşlarının anagayrimenkulde, yapı veya yapıların dış cepheler ve iç taksimatı bağımsız bölüm, eklenti, ortak yerlerinin ölçüleri ve bağımsız bölümlerin konum ve büyüklüklerine göre hesaplanan değerleriyle oranlı arsa payları, kat, daire, iş bürosu gibi nevi ile bunların birden başlayıp sırayla giden numarası ve bağımsız bölümlerin yapı inşaat alanı da açıkça gösterilmek suretiyle, proje müellifi mimar tarafından yapılan ve anagayrimenkulün maliki veya bütün paydaşları tarafından imzalanan, yetkili kamu kurum ve kuruluşlarınca onaylanan mimarî
 proje ile yapı kullanma izin belgesi, bağımsız bölümlerin kullanılış tarzına, birden çok yapının varlığı halinde bu yapıların özelliğine göre 28.maddedeki esaslar çerçevesinde hazırlanmış, kat mülkiyetini kuran malik veya malikler tarafından imzalanmış bir yönetim plânı” bulunmasını aramaktadır.
 
 ## Yargıtay 18. HD 2010/15907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17057300)
+
 Kat Mülkiyeti Yasasının 14. maddesine göre; kat irtifakı, ancak arsa malikinin ya da paylı mülkiyette tüm paydaşların buna ilişkin bir dilekçe veya istemle (Yasada öngörülen diğer belgeleri de ekleyerek) Tapu İdaresine başvurmaları üzerine idari bir işlemle tesis edilir. Paydaşlar arasında uyuşmazlık çıktığında, kat irtifakı kurulması için mahkemeye başvurulamaz. Yasa bu hususu paydaşların oybirliğine bıraktığı için uyuşmazlık öngörülmemiş, bu nedenle de mahkemeye bu konuda paydaşları zorlayıcı sonuç doğurmak üzere karar vermesini öngören bir görev vermemiştir. Tüm paydaşların onayı olmadan müşterek mülkiyetten ferdi mülkiyete geçmek ancak ortaklığın giderilmesi davası ile mümkün olup, mahkemeden ancak ortaklığın giderilmesi yolu ile 634 sayılı Yasanın 10'uncu maddesinin uygulanması istenebilir.
 
 Bu durumda ortak mülkiyetten bir çeşit ferdi ve bağımsız mülkiyeti öngören kat irtifakına geçilmesi ve bunun tapuya tescili kamu düzeni ile ilgili olduğu için mahkeme kararıyla böyle bir mülkiyet rejimine geçişe ve davalının muvafakat vermeye zorlanması sonucunu doğuracak şekilde paydaşın yerine geçilerek onay vermiş sayılmasına yasal olanak bulunmadığından davanın reddine karar verilmesi gerekirken yazılı gerekçelerle kabulü yolunda hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2010/14277 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113712100)
 
 Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -140,11 +170,15 @@ Olayımızda; bir kısım davalılardan ... ve ... için yöntemine uygun şekil
 
 ## Yargıtay 6. HD 2010/13231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111676500)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer paydaşlara karşı açar. HMUK.nun 569.maddesi hükmü uyarınca davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 285 nolu parselde paydaş olan davalı ...’un tebligat yarar adresi nüfus müdürlüğünce bildirildiği ve bu adrese çıkarılan tebligatın iade edilmesi üzerine adı geçen davalıya Tebligat Yasasının 35.maddesi gereğince tebligat yapılması gerekirken şartları oluşmayan ilanen tebligat yoluyla dava dilekçesi ve karar tebligatı yapılması doğru olmadığı gibi ilanen tebliğe ilişkin askı ilan tutanaklarına da dosya arasında rastlanılmamıştır.Ayrıca 285 parsel paydaşlarından ...’un ölü olduğu ileri sürüldüğüne göre,adı geçen davalının ölü olup olmadığı üzerinde durularak ölmüş ise mirasçılık belgesinin ilgililerden temini ile varsa mirasçılarının davaya dahil edilmesi gerekmektedir. Mahkemece davalı ...’a dava dilekçesi ve duruşma gününü bildirir usulüne uygun tebligat yapıldıktan ve ...’un ölü olup olmadığı tespit edildikten sonra,işin esası hakkında bir karar verilmesi gerekirken,taraf teşkili sağlanmadan yazılı şekilde hüküm tesisi doğru değildir.
 
 ## Yargıtay 6. HD 2010/12312 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066016500)
 
 Dava dokuz adet taşınmaz ortaklığının giderilmesine ilişkindir.
 
@@ -156,6 +190,8 @@ Paydaşlığın satış yoluyla giderilmesi halinde dava konusu taşınmaz üzer
 
 ## Yargıtay 6. HD 2010/9669 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061202700)
+
 Dava üç adet taşınmazın paydaşlığının giderilmesine ilişkindir.
 
 …
@@ -166,6 +202,8 @@ Olayımızda; davaya konu 730 sayılı parselin paydaşlarından ... Köyü Tüz
 
 ## Yargıtay 6. HD 2010/8665 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060166100)
+
 Dava bir adet taşınmazda paydaşlığının aynen taksim suretiyle giderilmesi istemine ilişkindir.
 
 …
@@ -174,11 +212,15 @@ Davaya konu 362 No’lu parsel sayılı taşınmazın ½ payının davalı ... a
 
 ## Yargıtay 6. HD 2010/8434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060224000)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer paydaşlara karşı açar. Davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlanmalıdır. Bu şekilde taraf teşkili sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Olayımıza gelince; dava konusu edilen 3512 ada 43 parsel sayılı taşınmazda 60/400 hisse sahibi ...'ın yargılama sırasında 29.06.2007 tarihinde öldüğü hükümden sonra dosyaya ibraz edilen nüfus kaydı ve mirasçılık belgesinden anlaşılmaktadır. Bu durumda davalı ...'ın mirasçılık belgesindeki mirasçılarının davaya dahil edilerek taraf teşkilinin sağlanması gerekir. Tapu paydaşlarından ... adına çıkartılan duruşma ve gün saatini bildiren dava dilekçesinin soyadı nedeniyle tanınmadığından iadesi üzerine bu defa dava dilekçesinin tavzihi suretiyle ... isimli kişinin davaya dahil edildiği anlaşılmaktadır. Bu husus üzerinde durularak ...'ün nüfus kayıtlarının getirtilmesi gerekirse tapu kaydının nüfus kaydına uygun hale getirilmesi için ilgilisine dava açmak üzere süre verilmesi ondan sonra işin esası hakkında bir karar verilmesi gerekirken yazılı şekilde karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2010/6399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/639416100)
 
 Dava bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
@@ -188,11 +230,15 @@ Dava konusu edilen ve satışına karar verilen dava konusu parsel paydaşların
 
 ## Yargıtay 6. HD 2010/4083 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633936400)
+
 …
 
 ... oğlu ... ile paydaş ...’ın aynı kişi olup olmadıkları hususu araştırılarak aynı kişi olmadıklarının anlaşılması halinde ... oğlu ...’ın davaya dahil edilmesi gerekmektedir.Yine mahkemece tapu kayıtlarında paydaş olan kişilerin soyadlarının bir kısmının ... bir kısmının ise ... olması,davalıların soyadlarının ise ... olması karşısında bu çelişki üzerinde durularak sonucuna göre karar verilmesi gerekmektedir.Bu nedenlerle mahkemece öncelikle taraf teşkili sağlanıp ve tarafların soyadlarındaki çelişkinin giderilmesinden sonra işin esası hakkında bir karar verilmesi gerekirken,taraf teşkili sağlanmadan yazılı şekilde hüküm tesisi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2010/2979 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768605700)
 
 Dava, satış vaadi sözleşmesi ile muvazaa iddiasına dayanan tapu iptali ve tescil istemlerine ilişkindir.
 
@@ -201,6 +247,8 @@ Dava, satış vaadi sözleşmesi ile muvazaa iddiasına dayanan tapu iptali ve t
 Elbirliği ortaklığında bir paydaşın tasarrufu ile diğer paydaşların zarar görmemesi; bir başka anlatımla diğer paydaşların dışa karşı koruması gerekir. Bunun sonucu, her türlü tasarruf tüm paydaşların oluru ile mümkündür. Somut uyuşmazlıkta, satış vaadi elbirliği ortakları arasında yapılmıştır. Satıcı maliklerin payı alıcı malike geçeceğinden ortak malikler zarar görmeyecektir. Hal böyle olunca elbirliği ortaklar arasında yapılan satış vaadi sözleşmesinin ifa olanağı vardır.
 
 ## Yargıtay 7. HD 2010/1875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110794400)
 
 Dava, taşınmaz üzerinde bulunan muhdesatların mülkiyetinin tespiti istemine ilişkindir.
 
@@ -214,6 +262,8 @@ Somut olaya gelince, Pazar Sulh Hukuk Mahkemesinin 2008/637 esas sayılı dava d
 
 ## Yargıtay 6. HD 2010/1570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623099900)
+
 Dava, elbirliği mülkiyetin paylı mülkiyete dönüştürülmesine ilişkindir.
 
 …
@@ -224,18 +274,26 @@ Kabule göre de; hükme esas alınan bilirkişi raporundaki hisse bölüştürü
 
 ## Yargıtay 6. HD 2010/1253 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613485100)
+
 Dava konusu taşınmazın paydaşlarından davacı ....Şti.'nin payını yargılama sırasında 9.7.2008 tarihinde ...'a sattığı ve adı geçen kişinin davaya dahil edilmediği anlaşılmaktadır.Bu durumda mahkemece ...'un davaya dahil edilerek adına usulüne uygun dava dilekçesinin tebliğ olunması ve taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmadan yazılı şekilde karar verilmesi doğru değildir.Hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 14. HD 2009/5213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850218000)
 
 Yapılacak bu inceleme ve araştırma sonucu dava konusu taşınmazın tarafların ortak mirasbırakanlarından kaldığı saptanırsa bu takdirde bütün paydaşlarının katılması suretiyle kullanma taksimine tabi tutulup tutulmadığı Türk Medeni Kanununun 676. maddesi de gözetilerek araştırılmalı, yöntemine uygun yapılmış bir taksim varsa ve bu taksimde taşınmaz davalıya terk edilmişse dava şimdiki gibi reddedilmeli, aksinin belirlenmesi halinde payı sebebiyle davacının da taşınmazda yararlanma hakkı olacağından, elatmanın önlenmesi isteği kabul olunmalıdır.
 
 ## Yargıtay 14. HD 2007/10282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851395800)
+
 634 sayılı Kat Mülkiyeti Kanununun 10. maddesi hükmünce gerek kat irtifakı, gerekse kat mülkiyeti binadaki paydaş olan kişilerin tümünün iradeleriyle düzenlenecek resmi senetle kurulabilir. Bu resmi senet yapıdaki tüm paydaşların tapu müdürü huzurunda düzenlenecek kat irtifakı veya kat mülkiyeti kurulması taleplerini içeren irade beyanlarıdır. Taşınmazdaki tüm paydaşların bu konuda ortak irade beyanları yoksa kat irtifakı kurulamaz. Esasen mahkemenin de paydaşların iradesi yerine geçerek hükmen kat mülkiyeti kurmalarına olanak yoktur. Çünkü kat irtifakının kurulması tamamen idari bir işlemdir. Her ne kadar sözü edilen yasa hükmünün son fıkrasında mahkeme kararı ile kat mülkiyetinin kurulmasından bahsedilmekte ise de, hükmen kat mülkiyeti ancak yapıdaki ortaklığın kat mülkiyeti kurulmak suretiyle giderilmesinin izale-i şuyu davasında istenmesi halinde olanaklıdır. Ancak bu koşulun varlığı halinde hakim mevcut uyuşmazlığa müdahale ederek yapıda hükmen kat mülkiyeti kurulmasına karar verebilir. Eldeki davada sözü edilen bu koşul bulunmadığından, kat mülkiyetinin terkini ile yeniden kat irtifakı veya yeniden kat mülkiyeti kurulması mahkemeden istenemez.
 Kaldı ki, bu tür bir davanın dahi ortaklığın giderilmesi istemiyle ve tüm paydaşların huzuruyla görülmesi zorunludur. Hukuki saptama bu doğrultuda olunca davanın reddedilmesinde usul ve aykırılık yoktur.
 
 ## Yargıtay 18. HD 2006/5265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883542000)
 
 Dava, üzerinde yapı bulunan paylı taşınmazın paydaşlığının giderilmesi istemine ilişkin olup mahkemece kat mülkiyeti kurulması yoluyla ortaklığın giderilmesine karar verilmiştir.
 
@@ -247,6 +305,8 @@ Somut olayda taşınmaz üzerindeki yapı mimari projesine göre tamamlanmış v
 Bu durumda mahkemece yukarıda sayılan ve nitelikleri Kat Mülkiyeti Yasasının 12. maddesinde gösterilen belgelerin tamamlanması için kat mülkiyetinin kurulmasını isteyen tarafa belli ve uygun bir süre verilmesi, süresinde eksiklikler giderildiğinde malikleri gösteren liste ve yönetim planı gibi belgeleri paydaşların (tanınan süreye karşın) imzalamaktan kaçınması halinde bunların imzalanmış sayılması suretiyle tahkikatın ikmal edilmesinden sonra kat mülkiyetine geçiş yoluyla ortaklığın giderilmesine karar verilmesi gerekirken, yetersiz araştırma ve eksik inceleme ile yazılı olduğu şekilde hüküm kurulmuş olması doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2006/2477 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851117100)
 
 634 sayılı Kat Mülkiyeti Kanununun 10. maddesi hükmünce kat irtifakı ve kat mülkiyeti taşınmazdaki paydaş olan kişilerin tümünün iradeleri ile yapılacak olan resmi senetle kurulabilir. Bu resmi senet bütün paydaşlarının tapu müdürü huzurunda düzenleyecekleri kat irtifakı veya kat mülkiyeti kurulması taleplerini içeren beyanlarıdır. Taşınmazdaki tüm paydaşlar bu konuda ortak irade beyanında bulunmadıkça kat irtifakı kurulamaz. Mahkemenin de paydaşların iradesi yerine geçerek hükmen kat mülkiyeti kurulabilme olanağı yoktur. Zira kat irtifakının kurulması tamamen idari bir işlemdir. Her ne kadar sözü edilen maddenin son fıkrasında mahkeme kararı ile kat mülkiyetinin kurulmasından bahsedilmekte ise de, hakim kararı ile kat mülkiyeti kurulması ancak taşınmazdaki ortaklığın kat mülkiyeti kurulmak suretiyle giderilmesinin istenmesi halinde mümkündür.
 Değişik bir anlatımla söylemek gerekirse, mahkeme kararı ile kat mülkiyeti kurulmasına ilişkin olan son fıkranın uygulanabilmesi için herşeyden önce mülkiyeti paydaşlı olan taşınmazda paydaşları arasında açılan bir ortaklığın giderilmesi davası olması ve bu davada ortaklardan birisi tarafından ortaklığın taksim yoluyla giderilmesinin talep edilmiş bulunması gerekir. Şayet bu koşul varsa hakim uyuşmazlığa müdahale ederek taşınmazda hükmen kat mülkiyetinin kurulmasına karar verebilir. Olayda sözü edilen koşul da bulunmadığından dava konusu parsel üzerindeki yapıya bağımsız bölüm ilave edilerek mevcut kat mülkiyetinin terkini ile kat irtifakı veya bina tamamlanmış ise yeniden kat mülkiyeti kurulması mahkemeden istenemez. Kaldı ki, bu tür bir davanın dahi ortaklığın giderilmesi istemiyle ve tüm paydaşların huzuruyla görülmesi zorunludur.

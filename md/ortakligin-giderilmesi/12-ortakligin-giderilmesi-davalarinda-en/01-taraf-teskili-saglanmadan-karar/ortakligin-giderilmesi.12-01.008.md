@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2010/8434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060224000)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer paydaşlara karşı açar. Davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlanmalıdır. Bu şekilde taraf teşkili sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Olayımıza gelince; dava konusu edilen 3512 ada 43 parsel sayılı taşınmazda 60/400 hisse sahibi ...'ın yargılama sırasında 29.06.2007 tarihinde öldüğü hükümden sonra dosyaya ibraz edilen nüfus kaydı ve mirasçılık belgesinden anlaşılmaktadır. Bu durumda davalı ...'ın mirasçılık belgesindeki mirasçılarının davaya dahil edilerek taraf teşkilinin sağlanması gerekir. Tapu paydaşlarından ... adına çıkartılan duruşma ve gün saatini bildiren dava dilekçesinin soyadı nedeniyle tanınmadığından iadesi üzerine bu defa dava dilekçesinin tavzihi suretiyle ... isimli kişinin davaya dahil edildiği anlaşılmaktadır. Bu husus üzerinde durularak ...'ün nüfus kayıtlarının getirtilmesi gerekirse tapu kaydının nüfus kaydına uygun hale getirilmesi için ilgilisine dava açmak üzere süre verilmesi ondan sonra işin esası hakkında bir karar verilmesi gerekirken yazılı şekilde karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2010/6968 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665602100)
 
 Dava, iki parça taşınmaz paydaşlığının giderilmesine ilişkindir.
 
@@ -37,6 +41,8 @@ Olayımıza gelince;davaya konu taşınmazlarda Durmuş kızı ... 1/3 pay sahib
 
 ## Yargıtay 6. HD 2010/6399 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/639416100)
+
 Dava bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
 …
@@ -44,6 +50,8 @@ Dava bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 Dava konusu edilen ve satışına karar verilen dava konusu parsel paydaşlarından ... kızı ...’nin ve mirasçılarının yapılan araştırmalara rağmen kimlik ve adreslerin tesbit edilemediği gibi tanıyan ve bilen bir kimse de bulunmadığından paydaş ... kızı ...’yi açılan davada temsil etmek ve hukuki işlemlerini takip etmek için 3 şahıs ...’nin kayyım tayin edildiği ... Sulh Hukuk Mahkemesinin 2009/321-457 Esas ve karar sayılı ilamından anlaşılmaktadır. Paydaş ... kızı ...'ye kayyım atanarak taraf teşkili sağlanmış ise de bu şekilde taraf teşkili sağlanması doğru değildir.Öte yandan Hazinenin davada hukuki yararı da bulunmaktadır.Bu nedenle kim olduğu ve adresi tesbit edilemeyen ve gaip olan ... kızı ...’ye, 3561 Sayılı kanuna göre en büyük mal memurunun kayyım olarak atanmasının sağlanması ve kayyım olarak atanan kişinin davadan haberdar edilmesi ve bu şekilde taraf teşkili sağlandıktan sonra işin esası hakkında bir karar vermek gerekirken bu husus göz ardı edilerek yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/5411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/639703700)
 
 Dava, 88 adet taşınmaz ile bir adet traktör ve ekipmanları üzerindeki paydaşlığın giderilmesine ilişkindir.
 
@@ -53,18 +61,26 @@ Davaya konu edilen ve satışına karar verilen ..., ..., ..., ... ve ... parsel
 
 ## Yargıtay 6. HD 2010/4083 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633936400)
+
 …
 
 ... oğlu ... ile paydaş ...’ın aynı kişi olup olmadıkları hususu araştırılarak aynı kişi olmadıklarının anlaşılması halinde ... oğlu ...’ın davaya dahil edilmesi gerekmektedir.Yine mahkemece tapu kayıtlarında paydaş olan kişilerin soyadlarının bir kısmının ... bir kısmının ise ... olması,davalıların soyadlarının ise ... olması karşısında bu çelişki üzerinde durularak sonucuna göre karar verilmesi gerekmektedir.Bu nedenlerle mahkemece öncelikle taraf teşkili sağlanıp ve tarafların soyadlarındaki çelişkinin giderilmesinden sonra işin esası hakkında bir karar verilmesi gerekirken,taraf teşkili sağlanmadan yazılı şekilde hüküm tesisi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/1253 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613485100)
+
 Dava konusu taşınmazın paydaşlarından davacı ....Şti.'nin payını yargılama sırasında 9.7.2008 tarihinde ...'a sattığı ve adı geçen kişinin davaya dahil edilmediği anlaşılmaktadır.Bu durumda mahkemece ...'un davaya dahil edilerek adına usulüne uygun dava dilekçesinin tebliğ olunması ve taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmadan yazılı şekilde karar verilmesi doğru değildir.Hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 6. HD 2010/425 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605761100)
+
 Dava konusu edilen ve satışına karar verilen ... ili ... ilçesi ... mahallesi ... ada ... parsel 214.50 m2 yüzölçümünde arsa niteliğindeki taşınmazın imar uygulaması sonucu karardan önce kaydının 3.4.2003 tarih ve 2332 yevmiye ile kapatıldığı, 485 sayfa 301 pafta ... ada ... parsel numarası ile tapuya tescil edildiği, yeni oluşan tapu kaydına göre davacı ve davalılar dışında başka paydaşlarında olduğu temyiz dilekçesine verilen cevap dilekçesi ekinde bulunan Kocasinan kaymakamlığı ilçe tapu sicil müdürlüğünün 8.7.2009 tarih ve B091TKG4384801-101-05-4507 sayılı yazısı ve ekindeki tapu kaydından anlaşılmaktadır.Yeni oluşan ... ada ... parsele ilişkin tapu kaydına göre maliklerin tamamı davada yer almamışlardır.Bu durumda taraf teşkili sağlandığı söylenemez.Bu nedenle en son oluşan tapu kaydına göre taraf teşkilinin sağlanması ve sonucuna göre karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 12. HD 2009/723 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/66128600)
 
 Şikayetçi tarafından ihaleye konu taşınmazın gerçek durumunun şartnameye yazılmaması nedeniyle ihalenin feshi talep edilmiş mahkemece de bu talep doğrultusunda ihalenin esaslı unsurlarında yanıltma bulunduğu sebebi ile şikayetin kabulüne karar verildiği görülmüştür. İhaleye konu taşınmazın izale-i şuyuu davası sonucu Sulh Hukuk Mahkemesince satışına karar verildiğinden bu taşınmazda diğer hissedarların taraf gösterilerek şikayetin sonuçlandırılması gerekirken taraf teşkili sağlanmadan yazılı şekilde ihalenin feshine karar verilmesi doğru bulunmamıştır.

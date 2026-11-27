@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2018/19950 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470414900)
+
 Dava; Ecrimisil istemine ilişkindir.
 
 …
@@ -31,6 +33,8 @@ Bu bilgiler doğrultusunda dava konusu taşınmaz üzerindeki bilirkişi raporun
 Hal böyle olunca; davalıların dava konusu taşınmaz üzerindeki A harfli binayı bizzat kullanmaları suretiyle tasarruf ettikleri ve bu A harfli bina yönünden intifadan men koşulunun ihtarnamenin tebliği ile oluştuğu anlaşıldığına göre, ihtarnamenin davalılara tebliğ tarihi saptanarak bu tarihten dava tarihine kadar olan dönem için ecrimisilin hüküm altına alınması gerekirken, bu dönemi aşar şekilde ecrimisile karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2018/19714 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488389600)
 
 Dava, ecrimisil alacağının takibinden kaynaklanan itirazın iptali ve icra inkar tazminatının tahsili istemine ilişkindir.
 
@@ -43,6 +47,8 @@ Somut uyuşmazlıkta, çekişmeli taşınmazda icra dosyasının rehin/ipotek ve
 
 ## Yargıtay 8. HD 2018/16663 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/476146300)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -53,9 +59,13 @@ Kabule göre de, ecrimisil hesabının önceki tarihten başlayarak ileriye doğ
 
 ## Yargıtay 8. HD 2018/13906 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429492600)
+
 Hal böyle olunca, öncelikle ihtarname tebliğ tarihinden yedi gün sonrasının ecrimisil hesabı için başlangıç tarihi olarak tespit edilmesi ve taleple bağlılık ilkesi gereği aylık 2.000,00 TL üzerinden hesap yapılması gerekirken bu hususlar gözardı edilerek yazılı şekilde sonuca gidilmesi doğru değildir.
 
 ## Yargıtay 14. HD 2018/8511 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464504300)
 
 Dava, elbirliği halinde malik olunan tapu tahsis belgeli yerin; müştereklerden birinin haksız kullanımı nedeni ile, şahsi hakka dayanan ecrimisil istemine ilişkindir.
 
@@ -65,6 +75,8 @@ Bu durumda; intifadan men koşulu davacı intifa hakkı sahibleri tarafından ke
 
 ## Yargıtay 1. HD 2018/147 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402085500)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -73,9 +85,13 @@ Hal böyle olunca, ortaklığın giderilmesi dava dosyasının getirtilip dava d
 
 ## Yargıtay 3. HD 2017/17695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389544400)
+
 Kira ilişkisinin kanıtlanması halinde, davanın sözleşme hükümleri çerçevesinde değerlendirilerek sonuçlandırılması aksi taktirde yani kira ilişkisinin kanıtlanamaması durumunda ise davanın ecrimisil değil kira alacağına yönelik başlatılan icra takibine ilişkin menfi tespit istemi olduğu ve davalının davacıdan kira alacağı talep edemeyeceği gözetilerek davanın kabulüne karar verilmesi gerekirken hatalı değerlendirme sonucu yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2017/6852 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385644100)
 
 Dava, paydaşlar arasında el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -86,6 +102,8 @@ Hâl böyle olunca; davalının taşınmazları miras bırakanın ölümü itiba
 Kabule göre de; bilirkişi raporunda, taşınmazların 2013 yılındaki aylık ecrimisil bedeli belirlenerek, geriye dönük talep edilen döneme ilişkin olarak yapılan hesap da doğru değildir.
 
 ## Yargıtay 1. HD 2017/3432 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/349762400)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -99,9 +117,13 @@ Hal böyle olunca, ortak bölümlerin ne zaman bağımsız bölüme çevrildiği
 
 ## Yargıtay 1. HD 2017/2151 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/357521800)
+
 Hâl böyle olunca; mahkemece yukarıda açıklanan ilkeler uyarınca araştırma yapılması, mirasbırakan Hüseyin ve Melek’in çekişme konusu taşınmazlardaki payı gözetilerek, ecrimisil istenilen ilk dönem başlangıç tarihi olarak baz alınmak suretiyle hesaplama yaptırılarak belirlenen ecrimisile, sonraki dönemler için ÜFE artış oranının tamamının yansıtılması suretiyle belirlenecek ecrimisile hükmedilmesi gerekirken bu hususları içermeyen bilirkişi raporuna itibar edilerek yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2017/2019 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/357271200)
 
 Dava, çaplı taşınmazda kat irtifakı kurulu bağımsız bölüme el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -111,13 +133,19 @@ Gerçekten de, davacının mülkiyet hakkına üstünlük tanınarak el atmanın
 
 ## Yargıtay 1. HD 2017/103 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/317766000)
+
 Hâl böyle olunca; davacı tarafından gönderilen 11.10.2010 tarihli ihtarname ile intifadan men koşulunun gerçekleştiği, bu isteğin davalıya iletildiği tarihin başlangıç kabul edilerek, ecrimisilin hesaplanması gereği belirtilmesine rağmen, davalının 13.10.2010 tarihinde itiraz etmiş olduğu ve 11.10.2010 tarihinde tebliğ edilen 06.10.2010 tarihli ihtarname aslı getirtilmeden ve bu ihtarname ile davalıya bir süre verilip verilmediği saptanarak, ecrimisilin başlangıç tarihinin belirlenmesi, bu tarihe göre belirlenen ecrimisil miktarına Üretici Fiyat Endeksi uygulanmak suretiyle dava tarihine kadar hesaplanan ve davacı payına düşen miktara hükmedilmesi gerekirken, bozma gerekleri yerine getirilmeksizin yanılgılı değerlendirme ile yazılı şekilde karar verilmesi isabetsizdir.
 
 ## Yargıtay 8. HD 2016/5570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/213116400)
+
 Mahkeme tarafından yapılan nitelendirmeden de anlaşıldığı üzere taraflar arasındaki uyuşmazlık, davalının müdahalesi sebebiyle mülkiyet hakkı sahibi davacının mahrum kaldığı ecrimisilin tahsili için başlattığı icra takibine itirazdan kaynaklanan itirazın iptali isteğini ilişkin bulunduğuna göre, Yargıtay Kanunu'nun 14. maddesi uyarınca Yargıtay Başkanlar Kurulu'nun 16.01.2016 tarih, 2016/1 sayılı Kararı ile hazırlanıp, 26.02.2016 tarihli ve 29636 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Yargıtay Büyük Genel Kurulu'nun 12.02.2016 gün 2016/1 sayılı Hukuk Daireleri'ne ilişkin iş bölümü uyarınca, hükme yöneltilen temyiz itirazlarının incelenmesi Yargıtay (1.) Hukuk Dairesi'nin görevine girmektedir. 11 Nisan 2015 tarihi itibariyle Resmi Gazete'de yayımlanarak yürürlüğe giren 6644 sayılı Kanun'un 2. maddesi ile değişik 2797 sayılı Kanun'un 60. maddesinin 1. ve 3. fıkraları uyarınca dosyanın görevli Daireyi belirlemek üzere HUKUK İŞBÖLÜMÜ İNCELEME KURULUNA GÖNDERİLMESİNE, 25.03.2016 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2016/2960 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/206361100)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -127,6 +155,8 @@ Hâl böyle olunca; davacı şirket tarafından davalıya çekilen ihtarnamenin 
 
 ## Yargıtay 1. HD 2015/13868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/150579500)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -134,6 +164,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkind
 Hâl böyle olunca davalının savunması üzerinde durulması, davalının savunmasını kanıtlaması halinde ihtarname tarihi ile dava tarihi arasındaki dönemi kapsar şekilde ecrimisile hükmedilmesi aksi halde davacının kayden edindiği tarihle dava tarihi arasındaki dönemi için belirlenecek ecrimisile karar verilmesi gerekirken değinilen hususlar gözardı edilerek yazılı şekilde ecrimisile hükmedilmesi doğru değildi …
 
 ## Yargıtay 1. HD 2015/13284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143489500)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -145,9 +177,13 @@ Hâl böyle olunca; çekişme konusu 53 parsel sayılı taşınmazdaki bağıms�
 
 ## Yargıtay 8. HD 2015/11531 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/157488900)
+
 Mahkeme tarafından yapılan nitelendirmeden de anlaşıldığı üzere, taraflar arasındaki uyuşmazlık, tapulu taşınmazda mülkiyet hakkına dayanılarak açılan ecrimisil davası sonunda hükmedilen ecrimisil alacağı sebebiyle başlatılan icra takibine itirazdan kaynaklanan itirazın iptali isteğine ilişkin bulunduğuna göre, Yargıtay Kanunu 14. maddesi uyarınca Yargıtay Birinci Başkanlık Kurulu'nun 19.01.2015 tarih 2015/8 sayılı Kararı ile hazırlanıp, 22.01.2015 tarihli ve 29244 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren hukuk dairelerine ilişkin iş bölümü uyarınca, hükme yöneltilen temyiz itirazlarının incelenmesi Yargıtay (1.) Hukuk Dairesi'nin görevine girmektedir. 11 Nisan 2015 tarihi itibariyle Resmi Gazete'de yayımlanarak yürürlüğe giren 6644 sayılı Kanun'un 2. maddesi ile değişik 2797 sayılı Kanun'un 60. maddesinin 1. ve 3. fıkraları uyarınca dosyanın görevli daireyi belirlemek üzere HUKUK İŞBÖLÜMÜ İNCELEME KURULU'NA GÖNDERİLMESİNE, 25.05.2015 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2015/10569 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139444900)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -159,10 +195,14 @@ Hâl böyle olunca; 13 nolu dükkan bakımından, davacı tarafından düzenlene
 
 ## Yargıtay 6. HD 2015/9664 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149171100)
+
 Davalının alacağın faizine ve ecrimisil bedeline yönelik temyiz itirazlarına gelince; Davada dayanılan ve hükme esas alınan 29/1/2007 başlangıç ve 31/12/2007 bitiş tarihli kira sözleşmeleri ile 4 adet aracın kiraya verilmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 6. maddesinde tarafların 15 günlük feshi ihbar şartına uymaları şartı ile sözleşmeyi feshedebilecekleri kararlaştırılmıştır. Davacı 16/4/2008 tarihli ihtarı ile sözleşmeyi 1/5/2008 tarihinden itibaren fesh ettiğini bildirmiştir. Davacının fesih tarihinden itibaren ecrimisil bedeli istemesinde bir usulsüzlük bulunmamaktadır. Ne var ki, hükme esas alınan bilirkişi raporunda araçların ecrimisil bedeli toplam 1950 Euro olarak belirlenirken hiç bir somut veriye dayanılmadan soyut olarak piyasa araştırmalarına göre belirlendiği beyan edilmiştir. Bilirkişi raporu bu hali ile Yargıtay denetimine elverişli olmadığı gibi hüküm kurmaya da yeterli değildir.
 Bu nedenle Mahkemece bilirkişi heyetinden dava konusu araçların, yaşı ve modeli benzer araçların dava tarihi itibarı ile raiç getirisi emsal kira sözleşmeleri ile desteklenmek sureti ile Yargıtay denetimine uygun bir rapor alınarak sonucuna göre karar verilmesi gerekir. Diğer yandan temyize konu birleşen davada istenilen ecrimisil alacağı aylık 1950 € üzerinden toplam 48.555 Euro olarak talep edilmiştir. Taraflar arasındaki kira sözleşmesinde faize ilişkin bir şart bulunmamaktadır. Esasen yabancı para alacaklarına talep edilecek faiz yasa ile düzenlenmiş olup faizi düzenleyen 3095 Sayıl Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun'un 4/a maddesine göre sözleşmede daha yüksek akdi veya gecikme faizi düzenlenmemiş ise yabancı para borcunun faizinde devlet bankalarınca o yabancı para ile açılmış bir yıl vadeli mevduat hesabına ödenen en yüksek faiz oranı uygulanması gerekirken avans faizi uygulanması doğru değildir …
 
 ## Yargıtay 1. HD 2015/9430 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142355400)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -172,6 +212,8 @@ Hemen belirtilmelidir ki, davalının 2000-2005 yılları arasındaki kullanım�
 
 ## Yargıtay 1. HD 2015/8611 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140120000)
+
 Dava, paydaşlar arasında çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -179,6 +221,8 @@ Dava, paydaşlar arasında çaplı taşınmaza elatmanın önlenmesi ve ecrimisi
 Hemen belirtilmelidir ki,ihtarname tarihinden sonra taraflar arasında malların tasfiyesi amacıyla yapılan yazılı sözleşme ile açıkça dava konusu taşınmazın davalıya bırakıldığı , bu bağlamda taşınmazda davalının oturmasına davacının muvafakatının bulunduğu saptanmak suretiyle ecrimisil isteğinin reddine karar verilmiş olmasında bir isabetsizlik yoktur.Davacı vekilinin ecrimisile yönelik temyiz itirazları yerinde değildir.Reddine.
 
 ## Yargıtay 1. HD 2015/6761 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139044300)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -188,9 +232,13 @@ Ne var ki davalının, dava konusu taşınmaz için ecrimisil başlangıç döne
 
 ## Yargıtay 1. HD 2015/4539 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139807200)
+
 Hâl böyle olunca, davalının davaya konu taşınmazları muvafakate dayalı olarak tasarruf ettiği, davacı tarafından keşide edilen 09.12.2011 tarihli ihtarname ile muvafakatın geri alındığı, ihtarnamenin davacının ecrimisil istediği dönemden sonra olduğu gözetilmek suretiyle ecrimisil isteminin reddine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu üzere hüküm kurulmuş olması doğru değildir.
 
 ## Yargıtay 1. HD 2015/4516 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119448700)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -200,6 +248,8 @@ Hâl böyle olunca; yukarıdaki ilkeler doğrultusunda mahkemece, yeniden keşif
 
 ## Yargıtay 1. HD 2015/3812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138866400)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -207,6 +257,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Hâl böyle olunca, davalı tarafından kullanılmak suretiyle tasarruf edildiği anlaşılan 12 parsel sayılı taşınmazdaki 7 numaralı bağımsız bölüm yönünden, intifadan men koşulunun anılan ihtarnamenin tebliği ile oluştuğu anlaşıldığına göre, ihtarnamenin davalıya tebliğ tarihi saptanarak bu tarihten dava tarihine kadar olan dönem için ecrimisilin hüküm altına alınması gerekirken, bu dönemi aşar şekilde ecrimisile karar verilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2015/1984 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120722700)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -216,6 +268,8 @@ Hâl böyle olunca; mahkemece, yeniden bilirkişi heyeti oluşturmak suretiyle d
 
 ## Yargıtay 1. HD 2014/17166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84799300)
+
 Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 
 …
@@ -223,6 +277,8 @@ Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 Gerçekten de; çekişmeli taşınmazdaki dükkanın davalı tarafından kullanıldığı ve davacı tarafından keşide edilen 04.06.2007 tarihli ihtarname ile intifadan men olgusunun oluştuğu belirlenmek suretiyle ecrimisile karar verilmesinde kural olarak bir isabetsizlik yoktur.
 
 ## Yargıtay 1. HD 2014/14606 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84580700)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -234,6 +290,8 @@ Ne var ki; bilirkişilerce hesap edilen 7.784,00 TL ecrimisil bedeline, ihtarnam
 
 ## Yargıtay 1. HD 2014/14463 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84506700)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -244,6 +302,8 @@ O halde; davacının, davalının intifadan men edildiği ihtarname tarihinden i
 
 ## Yargıtay 1. HD 2014/14113 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84347900)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -251,6 +311,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Hal böyle olunca; yukarıdaki ilkeler doğrultusunda mahkemece, taraflardan emsal kira sözleşmeleri istenmeli, somut emsaller incelenerek taşınmazın tamamı için dava konusu ecrimisil istenilen ilk dönemi başlangıç tarihi olarak baz alınarak bilirkişilerce ilk dönem için ecrimisil belirlenmesi, sonraki dönemler için bu miktara ÜFE oranının tamamının yansıtılması suretiyle belirlenecek ecrimisile davacıların payı oranında hükmedilmesi gerekirken yanılgılı değerlendirme ve eksik inceleme ile yetinilerek yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2014/10502 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84363500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -260,6 +322,8 @@ Kabule göre de; davacı tarafından davalıya gönderilen 25.05.2011 tarihli ih
 
 ## Yargıtay 1. HD 2014/5210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84305900)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -268,19 +332,27 @@ O halde; mahkemece öncelikle yukarıda açıklanan hususların araştırılmas�
 
 ## Yargıtay 20. HD 2014/2839 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107385200)
+
 Mahkemece, davacıya gönderilen ecrimisil ihbarnamesinde işgal veya tasarrufun başlangıç tarihinin 01.01.1990 olarak belirtildiği, davacının itirazı üzerine bu tarihin 25.09.1998 olarak düzeltildiği, Milli Emlak Müdürlüğü tarafından da taşınmazın 1990’dan beri işgalli olduğunun yazıldığı, bu nedenle 1990 ile dava tarihi dikkate alındığında, 20 yıllık zilyetlik süresinin dolmadığı gerekçesiyle davanın reddine karar verilmiş ise de mahkemenin değerlendirmesi yerinde değildir.
 
 Şöyle ki; ecrimisil dosyasının incelenmesinde; işgal ve faydalanmanın başladığı tarihin 01.01.1990 olarak belirtildiği, davacının itirazı üzerine bu tarihin 25.09.1998 olarak düzeltildiği, davacı tarafından ecrimisil bedelinin 04.10.2008’de yatırıldığı, davacının ecrimisile itiraz dilekçesinde; dava konusu taşınmazın 1960’lı yıllarda yapılan kadastro çalışmalarında cebel olarak tespit dışı bırakıldığı, bu tarihten itibaren murisi tarafından imar ve ihya edilip daha sonra kullanımının kendisine geçtiği, taşınmaza fuzulî işgalci olarak değil de malik sıfatıyla zilyet olduğunu ileri sürdüğü, hükme esas alınan raporlarda çekişmeli taşınmaz üzerinde 30 yaşlarında dikili zeytin ağacı bulunduğu ve dava konusu yerin davacıya babasından kaldığının mahalli bilirkişiler tarafından da doğrulandığı anlaşılmakla, mahkemece davacı yönünden eklemeli zilyetlik koşulları ve dosyadaki diğer tüm deliller değerlendirilerek sonucuna göre karar verilmesi gerekirken yazılı gerekçelerle davanın reddedilmesi usûl ve kanuna aykırı olup bozma nedenidir.
 
 ## Yargıtay 1. HD 2014/1460 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84555300)
+
 Hal böyle olunca, davacıların asıl ve birleşen davalardaki itirazın iptali ve ecrimisil talepleri ile faiz başlangıç tarihleri yönünden; davaların geçirdiği aşamalar ve bozma ilamları da değerlendirilmek suretiyle kazanılmış hakların korunması gerektiğinin nazara alınması, birleşen Bakırköy 9. Asliye Hukuk Mahkemesinin 2009/158 Esas, 2011/81 Karar sayılı davasında yalnız davalı D. B.’ye husumet yöneltildiğinin gözetilmesi, yukarıda açıklanan ilkeler doğrultusunda davalıların her birine yüklenen borç ve tanınan hakların açık ve şüphe uyandırmayacak şekilde gösterilmesi gerekirken anılan hususların gözardı edilmiş olması doğru olmadığı gibi, hüküm altına alınan ecrimisil bedeli için faiz başlangıç tarihlerinin infazda tereddüt oluşturacak şekilde hem dava tarihi, hem de dönem sonları ibareleri kullanılmak suretiyle hüküm oluşturulmuş olması da isabetsizdir.
 
 ## Yargıtay 1. HD 2014/1141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84503800)
+
 Hal böyle olunca, dava konusu taşınmaz kendisine devredilen kişiye tebligat yapılarak onun huzuru ile davanın görülmesi ve 33 ada 3 parselle ilgili olarak davalı (birleşen dosya davacısı) lehine ihtarnamenin tebliğ tarihinden sonraki dönem için belirlenecek ecrimisilin hüküm altına alınması gerekirken yanılgılı değerlendirme ile yazılı şekilde hüküm kurulması doğru değildir. Asıl davanın davacısının bu yöne değinen temyiz itirazları yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 27.01.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2013/14452 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79580900)
 
 Dava, ecrimisil alacağının tahsili için başlatılan icra takibine karşı öne sürülen itirazın iptali ile icra inkar tazminatına hükmedilmesi isteğine ilişkindir.
 
@@ -290,11 +362,15 @@ O halde,davalının ihtarnamenin tebliği tarihinden itibaren taşınmazı kulla
 
 ## Yargıtay 1. HD 2013/14262 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79545500)
+
 Bilindiği üzere, 25.05.1938 tarih ve 29/10 sayılı İçtihadı Birleştirme Kararı uyarınca ecrimisil davaları 5 yıllık zamanaşımı süresine tabidir. Bu beş yıllık süre, dava tarihinden itibaren geriye doğru hesap edilmelidir.
 
 Hal böyle olunca, anılan İçtihadı Birleştirme Kararı ile Borçlar Kanununun 126. (TBK md.147) maddesi hükmü gözetilerek dava tarihi olan 01.12.2011 tarihi esas alınmak suretiyle ecrimisil başlangıç döneminim belirlenmesi, ardından önceki davada saklı tutulan ecrimisilden belirlenen ecrimisil dönemine isabet eden miktarın bilirkişi aracılığı ile saptanması ve bu bedelin hüküm altına alınması gerekirken, savunmaya itibar edilmeksizin ve bu süreyi aşar ve öncesini de kapsar şekilde belirlenen ecrimisilin karar altına alınmış olması isabetsizdir.
 
 ## Yargıtay 1. HD 2013/13086 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79642000)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -304,13 +380,19 @@ O halde, davalının bu yeri davacının muvafakatı ile kullandığı, muvafaka
 
 ## Yargıtay 3. HD 2013/11452 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/260664000)
+
 Düzeltilmesi istenilen Yargıtay ilamında açıklanan ve benimsenen mahkeme kararındaki gerekçelere özellikle dönem sonunun, ecrimisil başlangıç tarihinden sonraki 1 yıl olarak anlaşılmasının tabii bulunmasına göre düzeltme dileğinde ileri sürülen sebepler HUMK.nun 440.nci maddesindeki yazılı hallerden hiç birisine uymadığından vaki düzeltme isteğinin REDDİNE, 03.07.2013 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2013/11131 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/248994900)
+
 Davanın kısmen kabulüne ilişkin verilen Yargıtay 3. Hukuk Dairesince, özetle"Dava öncesinde davacı tarafından davalılara çekilen ihtarname ile (intifadan men edildikleri) ve talep edilen 14.07.2010-20.08.2010 arasında ki dönem için ecrimisil şartlarının oluştuğunun anlaşıldığı; ancak, ihtarnamenin tebliğinden önceki döneme ilişkin olarak davalının dava konusu taşınmazı kullanmaktan men edildiği hususunun ispatlanmadığı, bu durumda, davalının intifadan men edildiği hususunun araştırılarak sonucuna göre ecrimisile hükmedilmesi gerekirken geçmiş beş yılın ecrimisil bedeline hükmedilmesinin doğru görülmediği" gerekçesiyle bozulmuş, Mahkemece, bozma ilamına uyulmuş olmakla yapılan yargılama sonucunda, davalı kendisine teklif edilen yemini kabul ve eda ettiğinden, ihtarnamenin tebliğinden önceki döneme ilişkin olarak davacının, davalıyı dava konusu taşınmazı kullanmaktan men ettiği hususunun ispatlanamadığı gerekçesiyle, ihtarnamenin tebliğinden önceki dönem için istenen ecrimisil yönünden davanın reddine, 14/07/2010 - 20/08/2010 tarihleri arasındaki dönem için şartları oluştuğundan bu dönem için 330,00 TL ecrimisilin yasal faiziyle birlikte davalıdan tahsiline karar verilmiştir.
 
 ## Yargıtay 1. HD 2013/10497 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79996000)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -321,6 +403,8 @@ Somut olayda, dükkan niteliği ile kullanılan binanın ecrimisil istekli ihtar
 Bu düzenlemeler karşısında davalıların kullanım durumu değerlendirildiğinde; davacı tarafından keşide edilen ihtarnamenin tebliğ edildiği tarihe kadar davalıları haksız işgalci olarak kabul etmek olanaksız olup, bu tarihe kadarki dönem için haksız işgalcinin taşınmazı kullanmasından dolayı ödemekle yükümlü olduğu haksız işgal tazminatı niteliğindeki ecrimisilden sorumlu tutulamaz. Mahkemece davacı tarafından keşide edilen ihtarnamenin tebliğ edildiği tarihten dava tarihine kadarki dönem için ecrimisil hesaplanması ve davalıların temerrüde düşürüldükleri tarihten (ihtarnamenin tebliğ tarihinden) itibaren faize hükmedilmesi gerekirken önceki dönemi de kapsar şekilde dava tarihinden geriye doğru 6 yıl için hesaplanan ecrimisile karar verilmesi ve dava tarihinden itibaren faize hükmedilmesi doğru değildir..
 
 ## Yargıtay 1. HD 2013/9283 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79811700)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 

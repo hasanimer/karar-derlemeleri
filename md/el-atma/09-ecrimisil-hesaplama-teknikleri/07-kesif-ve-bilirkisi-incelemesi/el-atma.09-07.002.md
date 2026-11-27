@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/123 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131737600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda, asıl davada müdahalenin men'i ve kal davası hakkında karar verilmesine yer olmadığına, davalı ... ve Antalya Havalisi Elektrik Santralleri A.Ş ( Elekrik Üretim AŞ.Genel Müdürlüğü )hakkında açılan davanın pasif husumetten reddi ile davalı ... yönünden davanın taleple bağlı kalınarak kabulüne, birleştirilen davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -43,6 +45,8 @@ hüküm kurulması gerekirken eksik incelemeyle hüküm kurulması, dava konusu 
 Davacılar ve davalı ... vekillerinin temyiz itirazı yerinde görülmediğinden usul ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2024/5484 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058417100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -66,6 +70,8 @@ Davalı idareler vekillerinin yerinde görülmeyen tüm temyiz itirazlarının r
 
 ## Yargıtay 7. HD 2024/3722 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095904000)
+
 Mahkemece bozma ilamına uyularak yeniden yapılan yargılama sonunda; 21,33 metrekare olarak gösterilen kısımda davalının müdahalesinin önlenmesine, bu kısma isabet eden binanın yıkılmasına, ecrimisil olarak 273,00 TL'nin davalıdan alınıp davacıya verilmesine karar verilmiştir.
 
 …
@@ -86,6 +92,8 @@ Davalılar vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 7. HD 2024/2428 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1041012800)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -97,6 +105,8 @@ Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birle
 Asıl ve birleştirilen davada davalı vekilinin yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2024/1564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029815500)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın ve birleştirilen davanın ayrı ayrı kısmen kabulüne, kısmen reddine karar verilmiştir.
 
@@ -121,6 +131,8 @@ Yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan 
 
 ## Yargıtay 5. HD 2024/1058 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039039600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -142,6 +154,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 7. HD 2024/368 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008104900)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kabulüne, dava konusu 4476 ada 4 parsel sayılı taşınmaza el atmanın önlenmesine, taşınmazın eski haline getirilmesine, 11.383,00 TL ecrimisil bedelinin yasal faiziyle birlikte davalıdan tahsiline, birleştirilen 2019/80 Esas sayılı davanın kabulüne, 34.327,95 TL ecrimisil bedelinin yasal faiziyle birlikte davalıdan tahsiline, birleştirilen 2022/118 Esas sayılı davanın reddine karar verilmiştir.
 
 …
@@ -161,6 +175,8 @@ Dava konusu taşınmaz tarla vasfında olmasına ve taşınmaz üzerindeki binan
 Tarafların yukarıda belirtilen temyiz itirazlarının kabulü ile temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/12550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987238300)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; el atmadan kaynaklanan irtifak ve pilon bedeli yönünden karar verilmesine yer olmadığına, ecrimisil talebinin ise kabulüne karar verilmiştir.
 
@@ -182,6 +198,8 @@ Davacılar vekilinin temyiz itirazlarının kısmen kabulü ile Diyarbakır 4. A
 
 ## Yargıtay 5. HD 2023/12129 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993533500)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davanın TEDAŞ Genel Müdürlüğü yönünden kabulüne, TEİAŞ Genel Müdürlüğü yönünden esastan reddine, ... Elektrik Dağıtım A.Ş. yönünden ise husumet yokluğundan reddine karar verilmiştir.
 
 …
@@ -201,6 +219,8 @@ Dairemizce yapılan inceleme sonucunda; hükme esas alınan bilirkişi raporunda
 TEDAŞ Genel Müdürlüğü vekilinin temyiz itirazlarının kısmen kabulü ile Mahkeme kararının, hüküm fıkrasının asıl davaya ilişkin (1) numaralı bendinde yer alan "dava tarihinden" ibaresinin çıkartılarak yerine "dava tarihi olan 12.06.2012 tarihinden", birleştirilen davaya ilişkin (2) numaralı bendinde yer alan "dava tarihinden" ibaresinin çıkartılarak yerine "dava tarihi olan 25.02.2013 tarihinden" ibaresinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2023/11905 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1020882200)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -222,6 +242,8 @@ Ancak; dava konusu taşınmazın bulunduğu bölgede yargılama sırasında imar
 Mahkeme kararının (2) numaralı bendinin hükümden çıkarılmasına yerine ''Alınması gereken 567.342,96 TL nispi harçtan 148,50 TL peşin harç, 1.735,05 TL tamamlama harcının mahsubu ile bakiye kalan 565.459,41 TL'nin davalı ... Başkanlığından alınarak Hazineye irat kaydına'' cümlesinin yazılması suretiyle kararın DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2023/9032 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987337600)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kabulüne ve birleştirilen davanın kısmen kabulüne karar verilmiştir.
 
@@ -246,6 +268,8 @@ Taraf vekillerinin temyiz itirazlarının kabulü ile temyiz olunan Mahkeme kara
 
 ## Yargıtay 5. HD 2023/8785 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975139600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların kısmen kabulüne karar verilmiştir.
 
 …
@@ -267,6 +291,8 @@ Dairemiz bozma ilamında ecrimisil miktarı hesaplanırken, dava konusu taşınm
 Davacı ve davalı TEDAŞ vekillerinin temyiz itirazlarının kabulü ile temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/8071 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/958080500)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2015/6940 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/137155000)
+
 Sulh Hukuk Mahkemesinin 2010/1216 Esasına kayıtlı kiralananın tahliyesi ve kira alacağının tahsili hususunda açtığı dava da davalının kira ilişkisini kabul etmediğini ve taşınmazda oturmaya devam ettiğini ileri sürmesi sebebi ile davanın reddedildiğini, davalının haksız işgalci olması sebebi ile elatmasının önlenmesine ve 2010 yılı Mayıs ayından itibaren hesaplanacak şimdilik 5.600.-TL ecrimisilin davalıdan tahsiline karar verilmesini istemiştir.Tapu iptali ve tescil isteğinin kabulüne, karşı davanın reddine dair verilen karar, Dairece; '' Asıl davanın inanç sözleşmesi hukuksal nedenine dayalı tapu iptali ve tescil,mümkün olmadığı taktirde tazminat, karşı davanın ise çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olduğu, somut olayda; değinilen ilkeler gözetildiğinde, davalı-karşı davacının 25.11.2008 tarihli satış sözleşmesi başlıklı aslı ibraz edilemeyen fotokopi şeklindeki belgedeki imzayı inkar etmekle bu belgenin yukarıda açıklanan 05.02.1947 tarih 20/6 sayılı İnançları Birleştirme Kararında belirtilen anlamda inanç sözleşmesi niteliğini taşımadığı sonucuna varıldığı, ancak, her ne kadar taraflar arasında yazılı bir belgenin varlığı kabul edilmemekte ise
 de, banka aracılığıyla davalı-karşı davacının hesabına çeşitli tarihlerde davacı-karşı davalı tarafından ödemelerde bulunulduğu ve kredinin bir kısmının bu şekilde kapatılmış olduğu, ayrıca ödemelere ilişkin banka dekontlarının da dosyaya ibraz edildiği, davalı-karşı davacının da kiralananın tahliyesi dosyasında, yapılan ödemelerin davacı-karşı davalının kendisine olan kira borçları nedeniyle olduğunu belirttiği, ancak bunu ispatlayamadığı, gerçekten de, taraflar arasındaki ilişki ve çekişmenin çözüme kavuşturulması bakımından değinilen İçtihadı Birleştirme Kararı uyarınca yazılı belge ile ispatı gerekmekte ve fakat böylesine bir belgenin bulunmadığı anlaşılmakta ise de; davalı-karşı davacının bankadaki hesabına yatırılan paralara ilişkin dekontların bu ilişki ile bağlantılı olduğunun saptanması halinde güçlü delil teşkil edeceği ve çekişmenin giderilmesinde gözardı edilemeyeceğinin tartışmasız olduğu, davacı-karşı davalının karşılıklı edimleri içeren inanç sözleşmesi iddiası ile sunduğu belgede taşınmazın tapu kaydının iptalini ve adına tescilini isteyebilmesi için Türk Borçlar Kanunu (Borçlar Kanunu'nun 81. maddesi) 97. maddesi uyarınca öncelikle kendi edimini yerine getirmesinin
 zorunlu olduğu, öte yandan, davacı-karşı davalı tarafından ibraz edilen 25.11.2008 tarihli satış sözleşmesi başlıklı fotokopi şeklindeki belgede taşınmazın davalı-karşı davacının bankadan çektiği kredi borcuna karşılık teminat olmak üzere devrinin ve borcun tamamen ödenmesi halinde mülkiyetin davacı-karşı davalıya iadesinin kararlaştırıldığı, ancak bu süreçte davacı-karşı davalının bedelsiz oturması konusunda bir düzenlemeye yer verilmediğinin görüldüğü, hemen belirtmek gerekir ki, davalı-karşı davacının TMK 683. maddesinden kaynaklanan mülkiyet hakkı bulunduğuna, çap iptale kadar geçerli olduğuna göre, kayda üstünlük tanınmak suretiyle davacı-karşı davalının haksız işgali nedeniyle elatmanın önlenmesi ve ecrimisil isteğinin haklı olduğu, hal böyle olunca, belirtilen ilkeler doğrultusunda taraf delillerinin toplanması, eksikliklerin tamamlanması, inananın tapu kaydının iptalini ve adına tescilini isteyebilmesi için Türk Borçlar Kanunu'nun 97. maddesi (Borçlar Kanunu'nun 81. maddesi) gereği kendi edimini yerine getirip getirmediğinin saptanması, çap kaydı iptale kadar geçerli olduğuna ve henüz iptal edilmediğine göre, davalı-karşı davacının açtığı elatmanın önlenmesi ve ecrimisil
@@ -32,6 +34,8 @@ davasının buna göre değerlendirilmesi gerekirken, yanılgılı gerekçe ve d
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davacı-karşı davalının temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2015/392 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/193523100)
 
 Davacı ... Yönetimi 20.04.2012 günlü dilekçesiyle, tapuda davalı adına kayıtlı ... İlçesi,...
 
@@ -49,6 +53,8 @@ Ayrıca; Orman Yönetimince, çekişmeli 463 sayılı parselin bütününe yöne
 
 ## Yargıtay 20. HD 2014/8108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/386270700)
+
 Davacı ... .... parsel sayılı taşınmazların yörede 3116 sayılı Kanuna göre yapılan orman tahdidinde orman olarak sınırlandırılmışlarsa da, 5653 sayılı Kanun hükümlerine göre makiye ayrılmaları nedeniyle 1955 yılında toprak tevzi komisyonunca dağıtımı yapılarak 4753 sayılı Kanun uyarınca tarla niteliği ile tapu kayıtlarının oluşturulduğunu, 1988 yılında yapılan orman kadastrosunda ise orman sınırları içinde bırakılıp bu konuda tapu kayıtları üzerine şerh konulduğunu, bu nedenle; taşınmazlara ilişkin, orman kadastro işleminin iptali ile orman sınırları dışına çıkarılmalarını ve tapu kayıtlarına konulan şerhin kaldırılmasını istemiştir.
 
 …
@@ -65,6 +71,8 @@ harcının davacılardan tahsilini içeren dördüncü parağrafının karardan 
 
 ## Yargıtay 20. HD 2014/7876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387142200)
+
 Mahkeme tarafından tapu iptali ve tescil davalarının kayıt malikine karşı açılması gerektiğinden, davacının tapu iptali ve tescil isteminin malik olmayan davalı ... yönünden husumetten reddine, davalı ... İnşaat Emlak ve ... Bölge Başkanlığı'nın tüzel kişiliği ve dolayısıyla taraf ehliyetinin bulunmadığı anlaşıldığından bu davalı aleyhine açılan tapu iptali ve tescil ile elatmanın önlenmesi istemlerine yönelik davanın husumetten reddine karar verilmiş ise de, mahkemenin bu değerlendirmesi yerinde değildir.
 
 Şöyle ki; tapusunun iptali istenen dava konusu taşınmazların tapu kayıtlarının beyanlar hanesinde « askeri güvenlik bölgesi içerisinde kalmaktadır » ve « ...'na tahsislidir » beyanları ile 2942 sk 31/B maddesi gereğince ...İnşaat Emlak ve ... Bölge Başkanlığı lehine şerh bulunduğuna ve davanın tapu kaydının iptali, tescili ve elatmanın önlenmesi istemine ilişkin olduğuna göre, davada verilecek karar beyan sahibi ... ile şerh maliki ... İnşaat Emlak ve ...Bölge Başkanlığını etkileyecektir. Bu nedenle adı geçenlerin davada taraf olması gerekmekte olup ... yönünden husumetten redde karar verilmesi yerinde değildir. Ayrıca, şerh maliki... İnşaat Emlak ve ...Bölge Başkanlığı'nın tüzel kişiliği bulunmadığı tespit edildiğine göre bağlı bulunduğu tüzel kişiliğin davaya dahil edilmesi ve husumetin yaygınlaştırılarak davada yer almasının sağlanması, delillerinin toplanarak sonucuna göre bir hüküm kurulması gerekirken, taraf teşkili sağlanmadan, şerh ve beyan sahiplerinin tapu iptal ve tescil davasının sonucundan etkilenecekleri değerlendirilmeden davanın onlar hakkında husumetten reddine dair hüküm kurulması usûl ve kanuna aykırıdır.
@@ -72,6 +80,8 @@ Mahkeme tarafından tapu iptali ve tescil davalarının kayıt malikine karşı 
 SONUÇ: Yukarıda açıklanan nedenlerle; davacı Orman Yönetimi ve davalı Hazinenin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2014/6613 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378714200)
 
 Çekişmeli taşınmazın bulunduğu yörede 15/01/1993 tarihinde kesinleşmiş orman kadastrosu bulunmaktadır.1) Orman Yönetimi tarafından açılan tapu iptali ve tescil davası ile davacı ... ve arkadaşları tarafından açılan şerhin kaldırılması davası yönündeki temyiz itirazları bakımından;İncelenen dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak bozma sonrası alınan bilirkişi raporuna göre çekişmeli taşınmazın (A) ve (B) bölümlerinin kesinleşen orman kadastro sınırları içinde, (C) ile gösterilen kısmın ise kesinleşen orman kadastro sınırları dışında bulunduğu belirtilerek Orman Yönetimi ve gerçek kişilerce açılan davaların kısmen kabulüne karar verilmesinde bir isabetsizlik bulunmadığından tapu iptali ve tescil ile şerhin kaldırılması davalarına ilişkin hükmün onanmasına karar vermek gerekmiştir.2) Davalı gerçek kişilerin elatmanın önlenmesine ilişkin temyiz itirazlarına gelince;
 Dava konusu taşınmaz, davalı gerçek kişiler tarafından tarafından dava tarihine kadar tapu kaydına dayanılarak tasarruf edildiğinden ve bu tarihe kadar davalı gerçek kişilerce çekişmeli taşınmaza haksız elatma sözkonusu olmadığından, Orman Yönetiminin elatmanın önlenmesine ilişkin talebinin reddine karar verilmesi gerekirken, mahkemece, davalıların taşınmaza yönelik elatmasının önlenmesine karar verilmiş olması, usûl ve kanuna aykırı olup, bozma nedenidir.
@@ -82,12 +92,16 @@ Dava konusu taşınmaz, davalı gerçek kişiler tarafından tarafından dava ta
 
 ## Yargıtay 23. HD 2014/6304 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/117995800)
+
 Öte yandan, HMK'nın 297/2. maddesi," Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir." hükmünü içermektedir. Birleşen dava, kooperatif üyeliğine dayalı tapu iptali ve tescil ile müdahalenin önlenmesine, bu taleplerin uygun görülmemesi halinde konutun rayiç değeri kadar tazminatın ve ecrimisil bedelinin tahsili istemlerine ilişkin olup, mahkemece asıl istemin tapu iptal ve tescil; diğer istemlerin terditli istem olduğu belirtilmiş ve birleşen dava tarihi itibariyle borcu olan davacının tapu iptal ve tescil istemi ile terditli diğer istemlerinin yerinde olmadığı sonucuna varılmıştır.
 Oysa, mahkemece asıl istemlerden tapu iptal ve müdahalenin önlenmesi isteminin reddi gerektiği sonucuna varılması halinde, terditli istemlerden diğeri olan konut karşılığı tazminat ve ecrimisil istemleri yönünden inceleme ve değerlendirme yapılması gerekirken, asıl ve terditli istemlerin ve inceleme sırasının karıştırılması, özellikle üye olup ta konut verilemeyen üyelerin eksik ödemesinin bulunması halinde dahi konut karşılığı tazminat isteyebileceğinin gözden kaçırılması doğru olmamış, her bir talebin ayrı ayrı ele alınıp, gerekçelendirilmesi gerekirken, HMK'nın yukarıda belirtilen hükümlerine aykırı yazılı şekilde hüküm kurulması nedeniyle kararın bozulması gerekmiştir.
 
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, birleşen davada davacı vekilinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, temyiz itirazlarının kabulü ile hükmün, birleşen davada davacı yararına BOZULMASINA …
 
 ## Yargıtay 20. HD 2014/6179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/380106400)
 
 Davacı Orman Yönetimi, dava konusu... İlçesi,...
 
@@ -96,6 +110,8 @@ Davacı Orman Yönetimi, dava konusu... İlçesi,...
 Kaldıki; davalı tarafın tapu kaydına dayalı olarak tazminat istemli bir davası veya karşı davası bulunmadığına ve bu hususun tapuya dayalı bir tazminat davası açılması halinde değerlendirileceğine göre davalı vekilinin esasa ilişkin karar düzeltme istemlerinin reddi gerekmiştir.Ancak; dava kesinleşen tahdide dayalı tapu iptali ve tescil istemine ilişkindir. Mahkemece, tapu iptali ve tescil davası kabul elatmanın önlenmesi davasıda reddedildiğine ve davalı taraf kendisini vekille temsil ettirdiğine göre davadaki ret ve kabul dikkate alınarak davalı taraf yararına vekâlet ücreti verilmesi gerekirken takdir edilmemesi doğru değilsede bu husus usûl ekonomisi yönünden hükmün bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden hükmün düzeltilerek onanması gerekmiştir.SONUÇ: 1)
 
 ## Yargıtay 8. HD 2014/1359 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98577600)
 
 Davacılar- karşı davalılar vekili; dava konusu 579 parselde vekil edenlerinin murisi adına tapuda kayıtlı taşınmaza yönelik davalının haksız kullanımı bulunduğundan elatmasmın önlenilmesine, 15.000 TL ecrimisil bedelinin doğduğu tarihten itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak vekil edenlerine ödenmesine karar verilmesini istemiştir.
 
@@ -109,6 +125,8 @@ temyiz itirazlarının kabulüyle usul ve kanuna aykırı bulanan Yerel Mahkeme 
 
 ## Yargıtay 1. HD 2013/18521 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257208100)
+
 Dava, tapu iptal tescil, çaplı taşınmaza elatmanın önlenmesi ve yıkım isteklerine ilişkindir.
 
 Mahkemece, davanın kısmen kabulüne karar verilmiştir.
@@ -120,6 +138,8 @@ Hal böyle olunca, öncelikle elatıldığı iddia edilen taşınmazın değerin
 Tarafların temyiz itirazının kabulü ile, hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2013/18241 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434625600)
 
 Davacı; 1992 yılında yapılan kadastro tespitlerinde, annesi ...'dan tarafına intikal eden 1/5 oranındaki hissenin dayısı ... adına tescil edildiğini, davalının sürekli olarak hissesini vereceği vaadi ile oyaladığını, davalının ... tarafından halen futbol sahası olarak kullanılan ve müşterek malik oldukları tarlayı bu arada sattığını, hissesine düşen bedelini de tarafına ödemediğini, ...'a futbol sahası olarak satılan tarladaki satıştan tarafına düşen payın halen davalı uhdesindeki tüm parsellerin toplam değerinden fazla olduğunu, futbol sahası olan tarladaki payının ve annesinden intikal eden payının karşılığı olarak, halen davalı uhdesinde bulunan 259, 370, 383, 632, 765, 975, 980, 1035, 1294, 1414, 1417, 1432, 1734 ve 1736 sayılı parsellerin tapu iptal ve adına tescilini, bu parsellerdeki davalının müdahalesinin menine karar verilmesini istemiştir.
 
@@ -140,6 +160,8 @@ Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabulü ile 
 
 ## Yargıtay 8. HD 2013/5624 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438098700)
+
 Davacı vekili, vekil edeni adına kayıtlı 1168 ada 2 parsel sayılı taşınmaz içerisine, haklı ve geçerli bir neden bulunmadan davalılar ... ile ... tarafından gecekondu yapılarak müdahale edildiğini açıklayıp, müdahalelerin önlenilmesine, gecekonduların yıkılması suretiyle taşınmazın teslimine, ayrıca işgal tarihinden itibaren toplam 20.000 TL ecrimisil bedelinin davalı ...’den, 8.000 TL ecrimisil bedelinin ise davalı ...faizi ile birlikte tahsiline karar verilmesini istemiştir. Yargılama devamında ... aleyhine açılan davanın tefrikine karar verilmiştir.
 
 …
@@ -153,6 +175,8 @@ Toplanan deliller ve tüm dosya kapsamından; asıl dava, elatmanın önlenilmes
 Yukarıda açıklanan nedenlerle davacı-karşı davalı ... vekili ile davalı-karşı davacı ... vekilinin temyiz itirazlarının kabulüyle usul ve yasa hükümlerine aykırı bulunan Yerel Mahkeme hükmünün 6100 sayılı HMK'nun Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK'nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/15367 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79613800)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve yıkım isteklerine ilişkindir.
 
@@ -168,10 +192,14 @@ Davalılar vekilinin temyiz itirazları yerindedir. Kabulü ile, hükmün açık
 
 ## Yargıtay 3. HD 2012/13562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549430400)
+
 Paylı malı, diğer paydaşların hakları ile bağdaşmayan bir biçimde kullanan paydaşlar, kullanmayan haklarını, rayiç kira üzerinden ve onun payı oranında ödemekle yükümlüdür.Kötü niyetli zilyet, taşınmazın haksız olarak alıkonulmasından kaynaklanan tüm zararlardan sorumludur.Dava konusu taşınmazda taraflar paydaştırlar. Paydaşlar (kural olarak) intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler.İntifadan men koşulunun gerçekleşmesi ise; ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanmak isteğinin davalı paydaşlara bildirilmiş olmasına bağlıdır. İntifadan men koşulunun gerçekleştiği iddiası yemin dahil her türlü delille ispatlanabilir. Yararlanma isteğinin bildirilmesine ilişkin olarak davalı tarafa gönderilen ihtarname ya da, daha önce açılan ecrimisil, meni müdahale, tapu iptal ve tescil davası da intifadan men koşulunun gerçekleşmesi için yeterlidir.
 Bu koşul dava şartı niteliğinde olduğundan gerçekleşip gerçekleşmediğinin mahkemece re'sen araştırılarak saptanması gerekmektedir.Somut olayda, davacı tarafından davalı aleyhine taşınmaza ilişkin olarak sahte vekaletname nedeni ile tapu iptal ve tescil davsı açılmış olup, bu dava ile intifadan men şartı gerçekleşmiş bulunduğundan dolayı, tapu iptal ve tescil davasının açılış tarihinden ecrimisile karar verilmesi gerekirken, murisin ölüm tarihinden itibaren ecrimisile karar verilmesi bozmayı gerektirmiştir. Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 8. HD 2012/10951 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641030500)
 
 Davacılar vekili dava dilekçesinde, kendilerine ait adresi yazılı taşınmaza davalı ... tarafından içinde oturmak suretiyle müdahalede bulunduğunu, davalıya yapılan bir satışın bulunmadığını, kiracıları da olmadığını açıklayarak davalı ... tarafından yapılan müdahalenin önlenmesine ve 10.000,00 TL ecrimisilin tahsiline karar verilmesini istemiştir.
 
@@ -199,6 +227,8 @@ Taraflar vekillerinin temyiz itirazları yerindedir. Kabulü ile, hükmün açı
 
 ## Yargıtay 1. HD 2012/9629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78964400)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkin olup, yargılama sırasında ecrimisil isteğinden feragat edilmiştir.
 
 Mahkemece, ecrimisile yönelik talebin feragat nedeniyle reddine, elatmanın önlenmesi ve yıkım taleplerinin kabulüne karar verilmiştir.
@@ -210,6 +240,8 @@ Ancak, elatmanın önlenmesi isteği yanında yıkım isteği de bulunmaktadır.
 Davalı tarafın bu yöne ilişkin temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2012/8802 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636559200)
 
 Davacı ..., ortak miras bırakan Kazım’dan kalan ve taksimen adına tapuda kayıtlı 104 ada 26 parselin kadastro çalışmalarında bir bölümünün davalı ... adına tapuda kayıtlı 104 ada 27 parsel içinde tespit gördüğünü, sınırların zeminde sabit olduğunu açıklayarak gerçek sınıra göre belirlenecek taşınmaz bölümünün davalıya ait 104 ada 27 parselden ifrazı ile adına tapuda kayıtlı 104 ada 26 parsele eklenerek adına tesciline karar verilmesini istemiş, aleyhine açılan ve birleştirilen elatmanın önlenmesi davasının ise reddini savunmuştur.
 
@@ -226,6 +258,8 @@ Davalı Kestel ... vekilinin temyiz itirazları bu bakımdan yerinde görüldü�
 
 ## Yargıtay 8. HD 2012/7306 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513733200)
+
 Davacı vekili dava dilekçesinde; davaya konu olan 1075 parsel sayılı taşınmazın müvekkili adına kayıtlı olduğunu, davalının kendisine ait olan bu taşınmazın içindeki zeytin ağaçlarının zeytinlerini toplayarak müdahalede bulunduğunu, bu müdahalenin önlenmesini talep etmiştir.
 
 Davalı-karşı davacı vekili 07.04.2010 tarihli cevap dilekçesinde davaya konu taşınmazın 100 yıllık aile zeytinliği olduğunu bu nedenle bu taşınmazın yaklaşık 1500 m2 kısmının davacı adına olan tapusunun iptali ile adına tescilini talep etmiştir.
@@ -235,6 +269,8 @@ Mahkemece elatmanın önlenmesi davasının kabulüne, karşı davanın reddine 
 İlk dava çap kaydına bağlı TMK.683. maddesine dayalı elatmanın önlenmesi talebine ilişkindir. Karşılık dava TMK. 713/1 maddesine dayalı tespit öncesi sebebe bağlı tapu iptal tescile yöneliktir. Kural olarak çaplı taşınmaza elatmanın önlenmesi davalarındaki müdahalenin belirlenmesi tapu fen memuru yetki ve yeteneğine haiz uzman bilirkişiye düzenlettirilecek ölçekli kroki ile saptanır. TMK.713/1 maddesine dayalı tescil ya da tapu iptali ve tescil davalarında ise davacı iddiasını her türlü delille kanıtlayabilir. Ancak, her iki dava türünde de emlakçı bilirkişinin dinlenmesine gerek yoktur. Bir başka anlatımla emlakçı bilirkişiler kamulaştırma ya da kamulaştırmasız elatmanın önlenmesi davalarında dinlenmektedir. Taşınmazın harca esas değerinin mahalli bilirkişi beyanı ile belirlenmesi gerekir.
 
 ## Yargıtay 8. HD 2012/3339 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/603257500)
 
 Takibe konu edilen Bünyan Asliye Hukuk Mahkemesinin 14.07.2010 tarih ve 2002/228 E. 2010/114 K. ilamda davacının ... ve arkadaşları, davalıların Ömer Keskin mirasçıları dava konusunun meni müdahale ve ecrimisil olduğu birleşen davanın davacısının ise Ömer Keskin mirasçıları davalının ... davanın konusunun ise tapu iptali tescil, mümkün olmadığı takdirde taşınmazların satış bedelinin talebi yönünde olduğu görülmektedir. Söz konusu tapu iptali tescil ve satış bedeline ilişkin dava birleştirme kararından önce Bünyan Asliye Hukuk Mahkemesinin 2003/212 Esas 2006/11 sayılı kararı ile hükme bağlanmış, Yargıtay 8. Hukuk Dairesinin 09.11.2006 gün 2006/6731-6777 Esas ve Karar sayılı ilamı ile tapu iptali ve tescili talebinin reddine ilişkin hükümde isabetsizlik bulunmadığı belirtilerek hükmün bu kısmı onanmıştır. Bozma doğrultusunda satış bedeli talebinin zamanaşımına uğramadığından dava, takibe konu dava ile birleştirilip karar verilmiştir. Böylece tapu iptali tesciline ilişkin ret kararı Yargıtay tarafından onanmış tashihi karar edilmeyerek kesinleşmiştir.
 

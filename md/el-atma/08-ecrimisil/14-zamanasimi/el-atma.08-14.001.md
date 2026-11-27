@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2015/1718 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115120500)
+
 Mahkemece davanın reddine karar verilmiş; hüküm, davacı vekilince temyiz edilmiştir.
 
 …
@@ -40,6 +42,8 @@ Bu itibarla mahkemece, davacının 03.03.2006 ila 20.06.2007 tarihleri arasında
 SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukarıda gösterilen değişik gerekçe ve nedenlerden dolayı.. BOZULMASINA …
 
 ## Yargıtay HGK 2008/246 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76685800)
 
 Mahkemece davanın bedel istemi yönünden kabulüne, ecrimisil istemi yönünden reddine karar verilmiş, hüküm davacılar vekilince temyiz edilmiştir.
 
@@ -63,6 +67,8 @@ Yukarıda (2) numaralı bentte ve Özel Daire bozma kararında gösterilen neden
 
 ## Yargıtay 7. HD 2025/1199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151462400)
+
 Davacı vekili dava dilekçesinde özetle; müvekkilinin,... ilçesi, Merkez Mahallesi, 7687 parsel sayılı taşınmazın hissedarlarından olduğunu, taşınmazın 4.537,10 m²'sinin müvekkili davacı adına, 120.545,72 m²'sinin davalı adına kayıtlı olduğunu, davalının taşınmazın tamamını kendisininmiş gibi kiracılarla sözleşmeler imzalayarak kullandığını ve bu işlemleri yaparken tüm hissedarların muvafakatının almadığını, dava konusu taşınmazda parselasyon ve hissedarlar arasında paylaşımın da yapılmadığını, davalının taşınmazın tamamına yakın kısmını diğer hissedarların kullanımını engellemek suretiyle 3. şahıslar eliyle sera olarak işlettiğini ve yüksek gelirler elde ettiğini ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla dava tarihinden geriye dönük 5 yıllık dönem için şimdilik 10.000,00 TL ecrimisil bedelinin, hak ediş tarihlerinden itibaren işleyecek faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -82,6 +88,8 @@ Bilindiği üzere, gerek öğretide ve gerekse yargısal uygulamalarda ifade edi
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/3721 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095903300)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -105,6 +113,8 @@ Davalılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 7. HD 2024/850 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043240800)
+
 Davalılar vekili cevap dilekçesinde; davanın görevsiz mahkemede açıldığını, haksız işgalin söz konusu olmadığını, müvekkillerine davalı sıfatı yüklenemeyeceğini, taraflar arasında kiracılığın tespitine yönelik uyuşmazlık bulunduğunu ileri sürerek davanın reddini istemiştir.
 
 …
@@ -116,6 +126,8 @@ Davalılar vekili cevap dilekçesinde; davanın görevsiz mahkemede açıldığ�
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2023/9158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987633300)
 
 Davacı vekili dava dilekçesinde özetle; Yargıtay denetiminden geçerek kesinleşen dava dosyasında bilirkişi raporu doğrultusunda 92.424,59 TL tazminat ve 16.789,53 ecrimisil alacaklarının olduğunun tespit edildiğini, ilk davada tazminat ve ecrimisil olarak talep ettikleri 6.000 TL tazminat ve 2.000 TL ecrimisil bedelinin tenzili ile bakiye 101.214,13 TL tazminat ve ecrimisil bedelinin ilk dava tarihinden itibaren işleyecek yasal faizi ile birlikte yargılama giderleri ve vekâlet ücretinin davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -132,6 +144,8 @@ Dairemizce yapılan inceleme sonucunda; taraflar arasında görülüp kesinleşe
 Davacı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/3007 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916171300)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... yönünden davanın kısmen kabulüne karar verilmiştir.
 
@@ -155,6 +169,8 @@ peşin ve ıslah harcı olarak alınan 1.336,35 TL’nin kabul-red oranına gör
 
 ## Yargıtay 7. HD 2023/2660 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915866800)
+
 Davacı vekili; müvekkilinin 1800 ada, 7 parseldeki iş yeri nitelikli taşınmazların maliki olduğunu, davalıların bu dükkanları hiçbir ayni ve şahsi hakka dayanmaksızın, haksız olarak işgal ettiklerini ve kullandıklarını, davalıları ihtar ettiklerini, ihtarnamenin davalılara 18.03.2015 tarihinde tebliğ edildiğini, ihtarnameye rağmen taşınmazı boşaltmadıklarını ve kullanmaya devam ettiklerini ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydı ile davalıların el atmasının önlenmesine ve taşınmazın haksız olarak kullanımından dolayı müdahale tarihinden itibaren 100,00 TL ecrimisilin yasal faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -170,6 +186,8 @@ Bozma ilamında belirtildiği şekilde, protokol kapsamında olmayan aile hekiml
 Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile temyiz olunan kararda belirtilen gerekçelere göre taraf vekillerinin yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897370400)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -193,6 +211,8 @@ Davacı vekilinin Bölge Adliye Mahkemesi kararına yönelik temyiz itirazının
 
 ## Yargıtay 1. HD 2022/944 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761915700)
+
 Davacı, mirasbırakan babaları ...’den kalan taşınmazların intikal işlemlerini yapması için yeğeni davalı ...'ı vekil tayin ettiğini, ancak ...’ın vekalet görevini kötüye kullanarak 643 ada 45 parsel sayılı taşınmazdaki payını davalı babasına ve davalı amcasına bedelsiz olarak temlik ettiğini ileri sürerek, tapu kaydının iptali ile adına tesciline ve geriye dönük 10 yıllık ecrimisil bedelinin tahsiline karar verilmesini istemiş, aşamada taşınmazın kamulaştırılması üzerine tapu iptali ve tescil talebini HMK’nın 125. maddesi uyarınca tazminata dönüştürmüştür.
 
 …
@@ -213,6 +233,8 @@ Davalıların ecrimisil talebine ilişkin temyiz itirazlarının kabulü ile hü
 
 ## Yargıtay 8. HD 2021/3289 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680982500)
+
 Davacı vekili; İstanbul İli, Sarıyer İlçesi, Kireçburnu Mahallesi, 470 ada, 1 parsel sayılı taşınmazın hissedarlarının gaip olması nedeniyle, Sarıyer 2. Sulh Hukuk Mahkemesinin 16.09.2010 tarih ve 2009/735 E.- 2010/732 K. Sayılı Kararı ile İstanbul Defterdarının kayyım tayin edildiğini, taşınmazın 125,00 m2’lik kısmının ... ve ... ile ... tarafından kullanıldığının tespit edildiğini, mezkur işgal nedeniyle 01.10.2007 - 31.12.2012 dönemleri için Kayyım Komisyonunca tespit edilen 13.348,00 TL ecrimisil alacağının her dönem için dönem sonlarından itibaren işleyecek kademeli yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini dava ve talep etmiştir.
 
 Davalılar vekili; ecrimisile ilişkin taleplerin 5 yıl geçmekle zamanaşımına uğrayacağını, İstanbul Defterdarının kayyım olarak 16/09/2010 tarihi itibarıyla atandığını, bu tarihten önceki taleplere ilişkin taleplerin usul ve yasaya da uygun olmadığını, 16/09/2010 tarihinden önceki zamanlara ilişkin olarak ecrimisil talep hakkı bulunmadığını, 125m²'lik kısım için ecrimisil talep edilemeyeceğini ancak 85 m²'lik kısım için talep edilebileceğini belirterek davanın reddini savunmuştur.
@@ -230,6 +252,8 @@ Sonuç olarak; dosya kapsamına ve davalının zamanaşımı savunmasına göre,
 SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazlarının kabulü ile hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/2308 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666208700)
 
 Davalı vekili cevap dilekçesinde; davaya konu dairenin müteahhit ...'dan temlik sureti ile satın aldığını ve bedelinin tamamen ödendiğini, dairedeki eksikliklerin davalı tarafından tamamlandığını, davalı müvekkil tarafından arsa sahipleri aleyhine Mahkememizin 2008/200 Esas sayılı tapu iptali tescil, bu talep kabul edilmediği taktirde yapılan masrafların sebepsiz zenginleşme hükümleri çerçevesinde tahsili yönünde terditli dava açtıklarını, davanın reddine karar verildiğini ancak kesinleşmediğini belirterek, davanın reddini savunmuştur.
 
@@ -250,6 +274,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazları
 
 ## Yargıtay 7. HD 2021/800 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/695777100)
+
 Dava, intifa hakkına dayalı ecrimisil istemine ilişkindir.
 
 …
@@ -259,6 +285,8 @@ Ecrimisil miktarı, ...2. Asliye Hukuk Mahkemesinde görülen davada belirlenmi�
 SONUÇ: Yukarıda açıklanan nedenlerle ve HMK’nın 371. maddesi uyarınca ...Bölge Adliye Mahkemesi 5. Hukuk Dairesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/10694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648031500)
 
 Davacı vekili, davalının muvazaalı kira sözleşmesine dayanarak dava konusu taşınmazı kiraya verdiğini, kira sözleşmesinin mahkeme kararı ile iptal edildiğini, davalı aleyhine ecrimisil alacağının tahsili amacıyla takip başlatıldığını, bu takibe davalı tarafından haksız yere itiraz edildiğini belirterek,itirazın iptalini ve %40 icra inkar tazminatına karar verilmesini talep etmiştir.
 
@@ -278,6 +306,8 @@ TBK’nin 153. maddesinin 1. fıkrasının 6. bendi uyarınca alacağın Türk m
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının yerinde olduğundan kabulü ile hükmün 6100 sayılı HMK'nın Geçici 3. maddesi yollamasıyla HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/4426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522925700)
 
 Davacı vekili; 227 ada 28 parselde bulunan 1 nolu dairenin malikinin vekil edeni olduğunu, ancak davalının bu dairenin kendisine ait olduğunu belirterek haksız mülkiyet iddiasında bulunduğunu, Ümraniye 2 Asliye Hukuk Mahkemesinin 2009/706 Esas sayılı dosyasında davalının müdahalenin menine karar verildiğini ve o davada 01.01.2009 - 31.12.2009 tarihleri arasındaki kısım yönünden de ecrimisil kararı verildiğini açıklayarak, davalının mülkiyet iddia ettiği 20.06.2006 ile 01.01.2009 tarihleri arası ve 01.01.2010 ile taşınmazı tahliye ettiği 09.03.2013 tarihleri arasındaki döneme ait ecrimisilin tahsilini, bunun yanında dairenin kullanımından kaynaklı boya, badana, priz ve sökülen kombi bedeli de olmak üzere 2.475 TL tazminata hükmedilmesini talep ve dava etmiştir.
 

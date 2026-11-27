@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2019/11650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571471700)
+
 Davacı, dava konusu edilen 3 parça taşınmazda hissedar olduğunu davalı kardeşinin bu parsellerde 40 yıldır tarımsal faaliyet gösterdiğinden bahisle elatmanın önlenmesini ve ecrimisilin tahsilini talep etmiştir. Davacı vekili daha sonra verdiği dilekçesi ile 2000 yılından beri rızası olmadan dava konusu 657, 615 ve 195 ada 5 parsellerin 2000-2014 yılları arasında ekildiğini, bu nedenle toplamda 45.500,00 TL ecrimisil talep ettiğini açıklamıştır.
 
 Davalı; babalarının ölümünden sonra taşınmazların rızaen bölüşüldüğünü, 2011 yılına kadar tarlaları ekmediğini, daha sonrasında kendisine düşen tarlaları ekmeye başladığını, 2000 yılında yapılan toplulaştırma sonrası davacının aldığı tarlanın davacı adına yazıldığını ancak davalı ve diğer kardeşe rızaen yapılan bölüşmedeki taşınmazların ortak yazıldığını , bu yerlerin de kendisi ve diğer dava dışı kardeşleri tarafından ekildiğini, davanın reddini savunmuştur.
@@ -41,6 +43,8 @@ SONUÇ: Yukarıda 2. bentte açıklanan nedenlerle davacı vekilinin temyiz itir
 
 ## Yargıtay 8. HD 2019/10230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558627700)
+
 Davacılar vekili, dava konusu 134, 155, 156, 213, 296 ve 685 parsel sayılı taşınmazlarda müvekkillerinin miras bırakanı ...'nun paydaş olduğunu, müvekkilleri tarafından ecrimisil talebiyle davalılar aleyhine daha önce ikame edilmiş olan ... 2.
 
 …
@@ -57,6 +61,8 @@ isabetsizdir.
 SONUÇ: Davalılardan ... vd vekili ile davalılardan ... vd vekilinin temyiz itirazlarının yukarıda açıklanan nedenle yerinde olduğundan kabulüyle, usul ve yasaya uygun bulunmayan hükmün 6100 sayılı HMK'nin Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/9359 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648802100)
 
 Davacılar, mirasbırakanlarından intikal edip davalı ile birlikte paydaşı oldukları 90 ada 12 parsel sayılı taşınmazda 3 ayrı bloktan ortada kalan binanın fiili taksim sonucu mirasçılara kaldığını, kendilerinin binanın ev olarak kullanılan çeşitli kısımlarını kullanmalarına rağmen davalının dükkanı işgal etmek suretiyle tek başına kullandığını, dükkanın değerinin evlerin toplam değerinden fazla olduğunu ileri sürerek dükkan olarak kullanılan kısma davalının elatmasının önlenmesine ve ecrimisile karar verilmesini istemişlerdir.
 
@@ -76,6 +82,8 @@ SONUÇ: Yukarıda yazılı nedenlerle davalı vekilinin temyiz itirazları yerin
 
 ## Yargıtay 8. HD 2019/5365 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647142000)
+
 Davacı, paydaşı olduğu 7000 ada 1 parsel sayılı taşınmazın bir kısmının yediemin deposu olarak davalılar tarafından bizzat, bir kısmının ise oto-yıkama servisi olarak kiraya vermek suretiyle kullanıldığını ileri sürerek kendi kullandıkları alan için ecrimisilin, kiraya vermek suretiyle kullandıkları alan için ise vekaletsiz iş görme hükümleri uyarınca kira bedellerinin davalılardan tahsiline karar verilmesini istemiştir.
 
 Davalı ..., diğer davalının oğlu olduğunu, taşınmazın ölen eşi Saim tarafından yediemin deposu ve oto yıkama servisi olarak işletildiğini ancak eşinin ölümü üzerine yediemin deposu olarak kullanılan alanda bulunan araçların taşınmazın bir kenarına toplandığını, birçok defa müracaat etmesine rağmen sicilden terkinini sağlayamadığını, oto yıkama servisinin ise davacının oğluna kiralandığını ancak davacı taşınmazda paydaş olduktan sonra dava dışı oğlunun kira bedellerini babasına ödeyeceğine dair ihtar çektiğini belirterek davanın reddini savunmuştur.
@@ -93,6 +101,8 @@ Bilindiği üzere, paylı mülkiyette taşınmazdan yararlanamayan paydaş, enge
 SONUÇ: Yukarıda (1), (2), (3) ve (4) numaralı bentlerde açıklanan nedenlerle davalı ... vekilinin temyiz itirazları yerinde görüldüğünden kabulüyle, hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/4244 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512658000)
 
 Davacı vekili, dava konusu 929, 997, 817, 811, 804, 684, 769, 753 ve 766 parsel sayılı taşınmazlarda müvekkil ile davalıların 1/6’şer hisse ile malik olduklarını, 769, 766 ve 804 nolu parsellerin davalılardan ... tarafından, 929, 997 ve 817 nolu parsellerin davalılardan ... ve ... tarafından, 684 ve 753 nolu parsellerin ise ... tarafından kullandığını, bu taşınmazların büyük çoğunluğunun yetişkin ve verimli fındıklık, bir kısmının ise tarla niteliğinde olduğunu, davalıların müvekkilinin kullanımına imkan vermediğini, Akçakoca Sulh Hukuk Mahkemesinin 1999/140 Esas sayılı dava dosyasından da görüleceği üzere taraflar arasında taşınmazların rızaen taksiminin mümkün olmadığını, davalılardan ...'nun müvekkili aleyhine Akçakoca Asliye Hukuk Mahkemesinin 2002/151 Esas sayılı dava dosyası üzerinden açtığı şuf'a davasının reddine karar verildiğini belirterek, dava tarihinden geriye doğru 5 yıllık sürede kaybettiği kazanç kaybının hesaplanmasını, fazlaya ait dava ve talep hakkının saklı kalması kaydıyla 20.000 TL’nin dava tarihinden işleyecek faizi ile birlikte davalılardan tahsiline karar verilmesini talep etmiştir.
 
@@ -112,6 +122,8 @@ SONUÇ: Dahili davalılar ... ve arkadaşları vekilinin temyiz itirazlarının 
 
 ## Yargıtay 8. HD 2019/3571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522806500)
+
 Davacı, maliki olduğu 8 parça taşınmazdan 101 ada 21 parsel sayılı taşınmazı davalının ekip biçmek suretiyle diğer 7 parça taşınmazı ise kiraya vermek suretiyle kullandığını ileri sürerek taşınmazlara elatmasının önlenmesi ile ecrimisile karar verilmesini istemiştir.
 
 Davalı, taşınmazlarla bir ilgisinin bulunmadığını belirterek davanın reddini savunmuştur.
@@ -130,6 +142,8 @@ SONUÇ: Yukarıda (1) numaralı bentte yazılı nedenlerle davacı vekilinin sai
 
 ## Yargıtay 8. HD 2019/2615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645541100)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -141,6 +155,8 @@ Yukarıda (2) nolu bentte izah edildiği üzere paydaşın, payına karşılık 
 SONUÇ: Yukarıda (2) nolu bentte açıklanan nedenlerle karşı davacı vekilinin, (4) nolu bentte açıklanan nedenlerle birleşen 2011/108 Esas sayılı dosyaya ilişkin birleşen dosya davalılarının temyiz itirazlarının yerinde olduğundan kabulü ile hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/561 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/480091800)
 
 Davacı vekili, dava konusu 50 parsel sayılı taşınmazda vekil edeninin de pay sahibi olduğunu, taşınmaz üzerindeki yapıların davalılar tarafından kullanıldığını ve vekil edenine herhangi bir ödeme yapılmadığını açıklayarak, dava tarihinden geriye doğru beş yıllık ecrimisilin davalılardan alınmasına karar verilmesini istemiştir.
 
@@ -158,6 +174,8 @@ SONUÇ: Davalılardan ... vekilinin temyiz itirazları yukarıda açıklanan ned
 
 ## Yargıtay 1. HD 2018/15784 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475455600)
+
 Dava, mülkiyet hakkında dayalı ecrimisil isteğine ilişkindir.
 
 …
@@ -171,6 +189,8 @@ Somut olayda, davacı paydaşların paylarına karşılık kullanabilecekleri ye
 Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/14309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430239100)
 
 Davalı ... vekili; davacı ve müvekkilinin taşınmazda müşterek malik olup taşınmazda fiili taksim olmadığını,davacıya karşı şufa davası açılıp bu davanın sonucunun beklenmesi gerektiğini, davacının aralarında fiili taksim olmamasına rağmen şufa davası açıldıktan sonra fiili taksim varmış gibi taşınmazın bir kısmına tel çekmeye başladığını, belediyeye yapılan şikayet ile bu durumun engellendiğini, davacının taşınmazı 2007 yılında satın alıp 10 yıllık ecrimisil istediğini, bu durumun usul ve yasaya aykırı olduğunu, ecrimisil davalarının 5 yıllık zamanaşımına tabi olup zamanaşımı itirazlarının olduğunu, paylı mülkiyette paydaşların taşınmazda kullanımları varsa hisselerinden az yeri kullanamıyor diye elatmanın önlenmesi davası açamayacaklarını,ancak ortaklığın giderilmesi davası açılabileceğini, müvekkilinin kullandığı evin müvekkili tarafından inşa edildiğini, davacının bu evde hakkının olmadığını belirterek davanın reddini savunmuştur.
 
@@ -193,6 +213,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazları ye
 
 ## Yargıtay 1. HD 2017/6211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385509600)
+
 Davacılar, asıl davada; kayden paydaşı oldukları ... ... ... ... parsel sayılı taşınmazları davalıların haksız kullandıklarını, davalılar ... ... ... ’nin şehir dışından getirdikleri diğer davalılar ile cebir, şiddet ve silah kullanımı sonucunda arazilerini kullanmalarına mani olduklarını, daha önce açtıkları el atmanın önlenmesi davasının devam ettiğini ileri sürerek, fazlaya dair haklarını saklı tutarak geriye dönük 5 yıllık dönem için şimdilik 30.000,00 TL ecrimisilin yasal faizi ile birlikte davalılardan tahsilini istemişler, 06/07/2009 tarihli ıslah dilekçeleri ile ecrimisil isteklerini 100.000,00 TL ye arttırmışlar, birleştirilen 2011/90 E sayılı davada; davalıların çekişmeli taşınmazları ( ... sayılı parsel hariç ) işgal etmeye devam etmeleri nedeniyle 2006 – 2010 yılları arasındaki 5 yıllık dönem için fazlaya dair haklarını saklı tutarak şimdilik 10.000,00 TL nin davalılardan tahsilini istemişler, birleştirilen 2015/52 E sayılı davada ise; ... ... ... ... sayılı parselleri davalıların işgal etmesi nedeniyle 2010 – 2015 yılları arasındaki 5 yıllık dönem için fazlaya dair haklarını saklı tutarak şimdilik 20.000,00 TL nin davalılardan tahsilini istemişlerdir.
 
 Asıl davada bir kısım davalılar, ... ... ’e kadar olan parsellerde harabe evlerin bulunduğunu ve kullanılmadığını, diğer taşınmazlarda ise davacıların paylarından daha fazla yer kullandığını, ecrimisil isteğinin yerinde olmadığını bildirip davanın reddini savunmuşlardır.
@@ -203,6 +225,8 @@ Davacıların temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü 
 
 ## Yargıtay 1. HD 2017/5576 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378378500)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -212,6 +236,8 @@ Hal böyle olunca, yukarıda değinilen ilkeler gözetilmek suretiyle gerekli ar
 Davalılar ... ve ... Ergitmecilik ve Metalurji San. Tic. A.Ş.'nin temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/7338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223334800)
 
 Davacılar, ortak mirasbırakanları...'a ait "arsa" vasıflı 11566 parsel sayılı taşınmazdaki binada bulunan daire ve dükkanların bir kısmının bizzat davalılar tarafın kullanıldığını bir kısmının ise kiraya verilerek davalılar gelir elde ettikleri halde paylarına karşılık herhangi bir bedel ödemediklerini, taşınmazdan yararlanmalarını davalıların engellediklerini ileri sürerek, ecrimisile karar verilmesini istemişlerdir.
 
@@ -226,6 +252,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 1. HD 2015/12937 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143617600)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -237,6 +265,8 @@ Hemen belirtmek gerekir ki; çekişme konusu taşınmazda davacı da paydaş old
 Davalı vekilinin temyiz itirazları yerindedir. Kabulü ile hükmün belirtilen nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/2462 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120396900)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, davacılar, kayden paydaş oldukları dava konusu yirmi parça taşınmazın uzun yıllardır davalılar tarafından kullanıldığını ve taşınmazları kullanmalarına izin verilmediğini, uyarılara ve açılan davalara rağmen davalıların kullanıma devam ettiklerini ileri sürerek eldeki davayı açmışlardır.
 
@@ -254,6 +284,8 @@ Tarafların bu yöne değinen temyiz itirazları yerindedir. Kabulüyle, hükmü
 
 ## Yargıtay 1. HD 2015/1526 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120267600)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -265,6 +297,8 @@ Kabule göre de bilirkişi raporlarında, bir kısım taşınmazlarda herhangi b
 Davalıların bu yöne değinen temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/18301 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/293498900)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -278,6 +312,8 @@ Somut olayda; yemin deliline açıkça dayanan davacıya "sen davanın reddedile
 
 ## Yargıtay 1. HD 2014/11348 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/89109600)
+
 Dava, on parça çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -288,6 +324,8 @@ Tarafların bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hük
 
 ## Yargıtay 1. HD 2014/10718 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84119900)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 Davacı, mirasbırakanlarına ait 3023 ada 13 parsel sayılı taşınmazda 6 mesken ve 1 dükkan olmak üzere 7 bağımsız bölüm bulunduğunu, 1 dairenin kendi kullanımında olduğunu, diğer bağımsız bölümlerin davalı ve dava dışı mirasçılar tarafından kullanıldığını, dükkanın da yıllardır davalı tarafından kiraya verildiğini ileri sürerek 3.9.2005-3.9.2010 tarihleri arasındaki dönemde dükkan için alınan kira bedellerinden payına düşen ecrimisilin davalıdan tahsilini istemiş; davalı ise, dava konusu dükkan niteliğindeki taşınmazı mirasçılar arasından yapılan sözlü paylaşım gereğince kullandığını, intifadan men koşulunun gerçekleşmediğini belirterek davanın reddini savunmuştur.
@@ -297,6 +335,8 @@ Davacı, mirasbırakanlarına ait 3023 ada 13 parsel sayılı taşınmazda 6 mes
 Davalı vekilinin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/7069 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84131700)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup, mahkemece, davanın kabulüne karar verilmiştir.
 

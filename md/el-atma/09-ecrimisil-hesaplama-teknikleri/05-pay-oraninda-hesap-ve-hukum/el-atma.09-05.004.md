@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2012/12004 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79235600)
+
 Dava; elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup mahkemece davanın kabulüne karar verilmiştir.
 
 …
@@ -35,12 +37,16 @@ Hal böyle olunca, davalının bu yöne değinen temyiz itirazları yerindedir.K
 
 ## Yargıtay 3. HD 2012/11578 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549922000)
+
 Dosya kapsamından dava konusu taşınmazın tapu kaydına göre davacının 28/70, davalının ise 192/8400 payının bulunduğu, tarafların taşınmaza müşterek malik oldukları, taşınmazda üçüncü kişilerin de paylarının bulunduğu anlaşılmaktadır.Hükme esas alınan bilirkişi raporunda; davalının tapu kaydına göre 49,33 m2 yere sahip olduğu ancak payından fazla işgal ettiği 22,68 metrekare üzerinden davacının hissesine düşen miktar üzerinden 1.588,10 TL ecrimisilin hesaplandığı görülmektedir.TMK.mad. 693’e göre: “Paydaşlardan herbiri, diğerlerinin hakları ile bağdaştığı ölçüde paylı maldan yararlanabilir ve onu kullanabilir”. Buna göre, her paydaşın, müşterek mülkiyet konusu şeyin tamamı (veya bir kısmı) üzerinde yararlanma hakkı bulunmaktadır. Bu hak, ne mekân (yer), ne de zaman itibariyle sınırlandırılmıştır. Fakat paydaşlar, bu hususta değişik düzenlemeler getirebilirler. Zira, yasa, yalnızca her paydaşın kullanma ölçüsünü belirtmiştir.
 Kullanma olanağı sınırsız değilse (müşterek mülkiyet konusu bir apartmandaki asansörden yararlanma gibi), paydaşların örneğin yerce bölünmüş ya da zamanla değişen bir kullanma anlaşmasıyla kullanmanın biçiminde uyuşmaları gerekir.Açıktır ki, sözkonusu yararlanma, ancak, diğer paydaşların haklarına saygı gösterildiği oranda hukuksal himaye görecektir. Nitekim, Medeni Kanun da, yararlanma hakkının, “diğer paydaşların hakları ile bağdaştığı ölçüde” mevcut bulunduğunu kesin bir biçimde belirtmiştir (TMK.mad.693). Kaldı ki TMK.mad.2 hükmü gereğince de bu sonuca ulaşılacaktır.Paya uyan bir belirtme ve sınırlandırma olmadığı takdirde, her paydaşın, öbürlerine zarar vermemesi kaydıyla taşınmazı kullanma hakkı vardır. Bu hakkın ölçüsü ise, her somut olayda durumun özellliğini gözönünde tutarak araştırılmak gerekir.
 
 TMK’nun 993-995 madde hükümleri tarafından düzenlenmiş ve uygulamada “ecrimisil” olarak isimlendirilen bir istemin de bulunduğu kabul edilen yasal tasfiye rejimi, halihazır zilyedin, iadesi istenen taşınmaz (nesne) üzerinde, iadeyi engelleyecek bir hakka sahip olmamasını gerektirir.Somut olayda taraflar taşınmazın hissedarları olup, davalının 72 m2 yer kullandığı konusunda ihtilaf bulunmamaktadır. Davacının toplam payı 28/70, davalının payı ise 192/8400'dür. Bu durum karşısında mahkemece, davalının kullandığı 72 m2'lik taşınmazda, davacının payına düşen ecrimisil miktarı belirlenerek, bu bedele hükmedilmesi gerekirken, hükme esas alınan bilirkişi raporuna dayanılarak davalının hissesinden fazla kullandığı 22,68 m2'lik kısımda davacının payının hesaplanması suretiyle ecrimisile hükmedilmesi doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/6407 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79219800)
 
 Davacı, paydaşı bulunduğu 81 nolu parsel üzerindeki iki dükkan ve iki normal katın davalılar tarafından kullanıldığını ileri sürerek, müdahalenin menine ve ecrimisile karar verilmesini talep etmiştir.
 
@@ -60,6 +66,8 @@ Davalıların, temyiz itirazları değinilen yönler itibariyle yerindedir. Kabu
 
 ## Yargıtay 1. HD 2012/5886 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79158900)
+
 Dava; çaplı taşınmaza elatmanın önlenmesi, ecrimisil isteklerine ilişkindir.
 
 …
@@ -69,6 +77,8 @@ Bu durumda değinilen yasal düzenleme ve yargısal uygulamaya göre pay ve payd
 Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/3938 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79468400)
 
 Davacı, tavuk çiftliği ve tarlası vasıflı 188 parsel sayılı taşınmazın davalı ile birlikte müşterek maliki olduğunu, davalının taşınmazı izni olmaksızın tavuk çiftliği olarak işlettiğini, bugüne kadar herhangi bir ecrimisil ödemediğini ileri sürüp, elatmanın önlenmesi ve ecrimisil istemiştir.
 
@@ -88,6 +98,8 @@ Tarafların temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nede
 
 ## Yargıtay 1. HD 2012/1272 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78976300)
+
 Davacı, adına kayıtlı .. ada .. parsel sayılı taşınmazı davalıların haksız biçimde işgal ettiğini ileri sürerek, elatmanın önlenmesi ve ecrimisile karar verilmesini istemiştir.
 
 Davalılar, davanın reddini savunmuştur.
@@ -105,6 +117,8 @@ Hal böyle olunca; davacı Y.. bakımından ecrimisil isteğinin reddine , diğe
 Davalıların, açıklanan nedenlere değinen temyiz itirazları yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2011/12106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79182000)
 
 Davacılar, 7 ve 9 parsel sayılı taşınmazların paydaşı olduklarını, davalılara ait toprak çeken kamyonların taşınmazın bir bölümünü yol olarak kullanmak suretiyle müdahale ettiklerini, taşınmazı kullanılamaz hale getirdiklerini , ayrıca araziye bulaştırdıkları toz ve duman nedeniyle verim kaybina neden olduklarını ileri sürerek elatmanın önlenmesine,ecrimisile, maddi ve marevi tazminata karar verilmesini istemişlerdir.
 
@@ -124,6 +138,8 @@ Ne var ki, davacılardan A. çekişme konusu taşınmazlarda 2005 yılında payd
 
 ## Yargıtay 1. HD 2011/9616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918240200)
+
 Davacı, davalıların murisi Ömer ile kayden paydaş oldukları 54, 60, 64 ve 285 parsel sayılı taşınmazları davalıların kullandığını ve kendisinin istifade edemediğini ileri sürerek, payına vaki el atmanın önlenmesi ve ecrimisile karar verilmesini istemiş, yargılama sırasında 60 nolu parsel ile ilgili davasından vazgeçmiş, ölümü ile de mirasçıları davayı sürdürmüşlerdir.
 
 Davalılar, çekişme konusu taşınmazlara karşılık, davacının başka parseller kullandığını belirterek, davanın reddini savunmuşlardır.
@@ -136,6 +152,8 @@ Davacıların payı oranında elatmanın önlenmesine karar verilmiş olmasında
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Tarafların temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2011/1416 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78825200)
 
 Davacı, dava konusu 1317 ada, 85 parsel sayılı taşınmazın teras katındaki 19 nolu daireye karşılık gelen 1/24 payı ihale yoluyla iktisap ettiğini, davalıların önceki kayıt maliki- borçlu Y.. A..’ın yakını olup haklı ve geçerli bir neden olmaksızın taşınmazda ikamet etmeye devam ettiklerini, tahliye edilmesi ve ecrimisil ödenmesi amacıyla noter kanalıyla yapılan uyarılardan sonuç alamadıklarını ileri sürerek, elatmanın önlenmesi, boş olarak teslimi ve 3.500,00.-TL ecrimisilin tahsili isteğinde bulunmuştur.
 
@@ -155,6 +173,8 @@ Davalıların, bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükm
 
 ## Yargıtay 3. HD 2010/16561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967522000)
+
 Davalı cevabında, taşınmazın üçe bölündüğünü, kendi payına düşen 62767 m2'lik kısmı kullandığını, davacının taşınmazına müdahale olmadığını beyanla davanın reddini savunmuştur.
 
 Mahkemece, davanın kabulü ile, bilirkişi raporuna göre toplam elde edilen ürün gelirinden (61.553,00) davacı payına düşen 20.000,00 liranın davalıdan tahsiline karar verilmiş, hüküm davalı tarafından temyiz edilmiştir.
@@ -166,6 +186,8 @@ O halde mahkemece, ecrimisile esas olacak veriler resmi mercilerden (İlçe Tar�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 1. HD 2009/8265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78491200)
 
 Davacı, kayden paydaş olduğu 22 ayrı taşınmazdaki paylarını davalıların tasarruf ettiğini, payından az yer kullandığını ileri sürerek, elatmanın önlenmesi ve ecrimisil isteğinde bulunmuştur.
 
@@ -185,6 +207,8 @@ Davacının, temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan ned
 
 ## Yargıtay 14. HD 2009/7674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845751700)
+
 Davalı, 3428 ada 3 parsel sayılı taşınmaz üzerindeki yapının davalı tarafından değil, ortak miras bırakan Hamdi tarafından yapıldığını, tapu tahsis belgesinin de kendisi askerde olduğu için davacı adına çıktığını, açılan davanın reddini savunmuştur.
 
 Mahkemece, elatmanın önlenmesi isteminin reddine, ecrimisil istemine yönelik davanın kısmen kabulüne karar verilmiştir.
@@ -196,6 +220,8 @@ Mirasçılık belgesine göre ortak mirasbırakan 30.04.1985 yılında ölmüşt
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/1251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78214600)
 
 Davacılar 2530 ada 4 parsel sayılı taşınmazda paydaş olduklarını, taşınmazdaki binanın 3. kat 6 nolu dairesinin davalı tarafından 29.01.1999 tarihinden beri haksız olarak işgal edildiğini ileri sürerek, el atmanın önlenmesi ve ecrimisil isteminde bulunmuşlardır.
 
@@ -216,6 +242,8 @@ Davacıların, temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan n
 
 ## Yargıtay 1. HD 2008/6207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78134800)
+
 Davacılar, miras bırakanları adına kayıtlı 2804 parseldeki 8 nolu bağımsız bölümü davalının yıllardır kullandığını, bedel ödenemediğini, davalının kullanımına muvafakat etmediklerini ileri sürerek, elatmanın önlenmesi ve ecrimisil talebinde bulunmuşlardır.
 
 Davalı, taşınmazın eşi olan olan murisle ortak ikametgahları olduğunu ihtiyacı nedeniyle daireyi kullandığını belirtip, davanın reddini savunmuştur.
@@ -231,6 +259,8 @@ Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişk
 Oysa mahkemece, anılan bu olgular gözardı edilmek suretiyle davalının tümden ecrimisilden sorumlu tutulmamış olması doğru olmadığı gibi, herne kadar davacı yönünden intifadan men olgusunun gerçekleştiği belirlenmek ve bu olgu mahkemece benimsenmek suretiyle elatmanın önlenmesine karar verilmiş olması kural olarak doğru ise de, davacının payı oranında davanın kabulüne karar verilmesi gerekirken, dava dışı paydaşların payınıda kapsar şekilde davanın kabulü isabetsizdir.O halde, tarafların bu yöne değinen temyiz itirazları yerindedir.Kabulü ile hükmün açıklanan nedenlerle HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 15.5.2008 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2007/7304 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78411500)
 
 Davacılar (birleşen dosya davalıları), ortak miras bırakan adına kayıtlı ...parsel sayılı taşınmazı mirasçılar arasında yapılan rızai taksim sonucu çay bahçesi kısmının kendilerine isabet ettiğini murise ait mevcut binanın ise taksime konu edilmediğini, ancak davalının çay bahçesi ve evden yararlanmalarına engel olduğunu ileri sürüp, elatmanın önlenmesi ve ecrimisil isteklerinde bulunmuşlar; birleştirilen davanın ise tanıkla ispatlanamayacağını belirtip, reddini savunmuşlardır.
 
@@ -252,6 +282,8 @@ Hal böyle olunca, davacılar (birleşen dosya davalıları) vekilinin temyiz it
 
 ## Yargıtay 1. HD 2007/6918 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78369800)
+
 Davacılar, paydaşı oldukları ..ada ..parsel sayılı taşınmazın paydaşlar arası yapılan harici taksim sonucu kullanımlarına bırakıldığını, taşınmazı ürün karşılığı davalıya kiraya verdiklerini .. yıldır kira bedellerinin ödenmediğini, sözleşmenin sona erdiğini ileri sürerek elatmanın önlenmesi ve ecrimisil isteğinde bulunmuşlardır.
 
 Davalı, çekişmeli taşınmazda eşinin payı bulunduğunu, paydaşlar arasında yapılan taksime göre taşınmazın eşine bırakıldığını, eşi adına tasarrufta bulunduğunu bildirip davanın reddini savunmuştur.
@@ -267,6 +299,8 @@ Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkin
 Hal böyle olunca, tümü davalı tarafından kullanılan çekişmeli taşınmaz yönünden davacıların payı oranında elatmanın önlenmesi ve belirlenecek ecrimisile karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı biçimde hüküm kurulması doğru değildir.Davacıların bu yöne değinen temyiz itirazları yerindedir.Kabulüyle hükmün HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 14.6.2007 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 14. HD 2006/3681 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857057600)
 
 Davacı, paydaşı bulunduğu 672 ada 4 parsel sayılı taşınmaza davalının haksız elattığını ileri sürerek müdahalenin men'i ve ecrimisil isteğinde bulunmuştur. Mahkeme, davalının müdahalesinin men'ine ve 233.97 YTL ecrimisilin faizi ile davalıdan tahsiline karar vermiş, hükmü davalı temyiz etmiştir.
 

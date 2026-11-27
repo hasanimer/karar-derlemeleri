@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/62 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131644100)
+
 Davacılar vekili dava dilekçesinde; müvekkillerinin murisi ...'nın 12.05.2008 tarihinde öldüğünü, murisin Zeytinburnu ilçesi ... Mahallesi 2945 ada 13 parsel sayılı taşınmazda bulunan işyeri niteliğindeki binanın 4/10, yine Kartal ilçesi ...
 
 …
@@ -45,6 +47,8 @@ Taraf vekillerinin temyiz itirazlarının kabulü ile direnme kararının Özel 
 
 ## Yargıtay 8. HD 2021/5479 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684251500)
+
 Davacılar vekili, dava konusu taşınmazın taraflara murislerinden kaldığını, murisin vefatından bu yana taşınmazın davalının kullanımında olduğunu, davalının öncesinde muris tarafından yapılan elma bahçesi, ev ve samanlığı kullandığını, daha sonraki dönemde elma bahçesini sökerek, tarımsal faaliyetlerde kullandığını, ayrıca davalının taşınmaz üzerine iki katlı betonarme ev inşa ettiğini, ecrimisil bedelinin taşınmaz üzerindeki muhdesat ve ana taşınmazın kullanımına ilişkin olarak hesaplanması gerektiğini öne sürerek, fazlaya ilişkin hakları saklı kalmak kaydı ile dava tarihinden geriye dönük 5 yıl için 5000,00 TL ecrimisilin yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 Davalı vekili, davacılarından ...'un taşınmazdaki hissesinin 16.12.1999 tarihli sözleşme ile müvekkilince haricen satın alındığını, harici satış bedeli ödenmeden ecrimisil talep edilemeyeceğini, intifadan men şartının gerçekleşmediğini açıklayarak, davanın reddine karar verilmesi gerektiğini savunmuştur.
@@ -64,6 +68,8 @@ SONUÇ: Yukarıda (1) nolu bentte bendinde açıklanan nedenlerle davacı ... ve
 
 ## Yargıtay 8. HD 2021/4074 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667857600)
+
 Davalılar, dava konusu traktörün parasının ödendiğini, kullanılan taşınmazlar karşılığı davacılara ayni yardımda bulunulduğunu, yiyecek, yakacak ve sair ihtiyaçlarının giderildiğini belirtip, davanın reddini savunmuşlardır.
 
 Mahkemece verilen ilk kararda, davanın kısmen kabulü ile 1.136,76 TL ecrimisil alacağının (659,52 TL'sinin 11.04.2004 tarihinden itibaren, 477,24 TL'sinin dava tarihinden itibaren) işleyecek yasal faizleri ile birlikte davalılardan alınarak davacılara verilmesine karar verilmiştir. Taraf vekilleri tarafından temyiz itirazı üzerine yapılan inceleme neticesinde, Yargıtay 1.
@@ -81,6 +87,8 @@ Bunlardan başka, bozma ilamında, ecrimisile hükmedilen taşınmazlardan 113 a
 SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazları yerinde olduğundan kabulü ile usul ve kanuna aykırı bulunan hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/618 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486695100)
 
 Davacı vekili, davacı ile davalının dava konusu 1595 ada 5 parsel sayılı taşınmaz üzerindeki D blok 14 nolu bağımsız bölümde ½' şer hisselerle malik olduklarını, taşınmazın satın alındığı tarihten itibaren davalının tasarrufunda olduğunu, davalının bir dönem taşınmazda ikamet ettiğini, daha sonrasında ise kira geliri elde ettiğini ve davacıya hiç ödeme yapmadığını, taraflar arasında ... Sulh Hukuk Mahkemesinde 2013/538 Esas ve 2014/137 Karar sayılı dosya ile ortaklığın giderilmesine karar verildiğini, bu nedenle taşınmazın satın alındığı tarihten sonra davacı payına isabet eden 1000 TL ecrimisilin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsilini talep etmiştir.
 
@@ -103,6 +111,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı asil ...’in temyiz itirazlar
 
 ## Yargıtay 1. HD 2017/3911 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351954100)
+
 Dava; ecrimisil isteğine ilişkindir.
 
 …
@@ -117,6 +127,8 @@ Davalının temyiz itirazı değinilen yönlerden yerindedir. Kabulüyle, hükm�
 
 ## Yargıtay 1. HD 2016/5021 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207158500)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -129,6 +141,8 @@ Taraf vekillerinin temyiz itirazları yerindedir. Kabulü ile, hükmün belirtil
 
 ## Yargıtay 1. HD 2015/14875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390362600)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -140,6 +154,8 @@ Yine paydaşlar arasında yapılan kullanım anlaşması sonucu her paydaşın y
 Kabulü ile yerel mahkeme kararının (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 21.12.2015 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2015/14338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390296900)
 
 Dosya içeriği ve toplanan delillerden; çekişme konusu 104 ada 43 parsel sayılı fındık bahçesi vasıflı taşınmazın 09.12.2006'da tesis kadastrosu ile verasette iştiraken davacı, davalı ve dava dışı kardeşleri ... ve ... adlarına kayıtlı olduğu, 438 parsel sayılı fındık bahçesi vasıflı taşınmazda intikal ve pay temliki yoluyla davacı, davalı ve kardeşleri ...'ün müştereken malik oldukları, 111 ada 5 ve 20 parsel sayılı fındık bahçesi vasıflı taşınmazların 12.06.2007 tarihinde tesis kadastrosu ile davacı, davalı ve diğer kardeşleri adına 1/4'er paylarla tespit ve tescil edildiği anlaşılmaktadır.Hemen belirtilmelidir ki, kural olarak, men edilmedikçe paydaşlar birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi de, ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanmak isteğinin davalı paydaşa bildirilmiş olmasına bağlıdır. Ancak, bu kuralın yerleşik yargısal uygulamalarla ortaya çıkmış bir takım istisnaları vardır.
 Bunlar; davaya konu taşınmazın kamu malı olması, ecrimisil istenen taşınmazın (bağ, bahçe gibi) doğal ürün veren yada (işyeri, konut gibi) kiraya verilerek hukuksal semere elde edilen yerlerden olması, paylı taşınmazı işgal eden paydaşın bu yerin tamamında hak iddiası ve diğerlerinin paydaşlığını inkar etmesi, paydaşlar arasında yapılan kullanım anlaşması sonucu her paydaşın yararlanacağı ortak taşınmaz veya bölümlerinin belirli bulunması, davacı tarafından diğer paydaşlar aleyhine daha önce bu taşınmaza ilişkin, elatmanın önlenmesi, ortaklığın giderilmesi, ecrimisil ve benzeri davalar açılması veya icra takibi yapılmış olması halleridir. Bundan ayrı, taşınmazın getirdiği ürün itibariyle de, kendiliğinden oluşan ürünler; biçilen ot, toplanan fındık, çay yahut muris tarafından kurulan işletmenin yahut, başlı başına gelir getiren işletmelerin işgali halinde intifadan men koşulunun oluşmasına gerek bulunmamaktadır.
@@ -156,6 +172,8 @@ olaya gelince; yukarıda belirlenen esaslar birlikte değerlendirildiğinde dava
 
 ## Yargıtay 1. HD 2015/1400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120429600)
+
 Dava, paydaşlar arasında ecrimisil ve alacak isteğine ilişkindir.
 
 …
@@ -170,6 +188,8 @@ Davacı vekilinin temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabu
 
 ## Yargıtay 14. HD 2014/14405 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/363509200)
+
 Dava, intifa hakkına dayalı ecrimisil isteğine ilişkindir.
 
 …
@@ -183,6 +203,8 @@ Dosyada mevcut tapu kaydına göre, davaya konu 2800 ada, 15 parsel sayılı ta�
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin karar düzeltme isteminin kabulü ile Dairemizin 01.07.2014 tarihli ve 2014/4616 Esas, 2014/8816 Karar sayılı ilamının KALDIRILMASINA …
 
 ## Yargıtay 14. HD 2014/8816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105512500)
 
 Davacı vekili, dava konusu taşınmazın 1/4 payını 20.03.2009 tarihinde ihale ile alan N. K. bu payı üzerinde 29.08.2009 tarihinde müvekkili lehine intifa hakkı kurulduğunu, ancak paydaş olan davalının muvafakatları olmadan taşınmazda ikamet ettiğini ve ecrimisil ödemediğini iddia ederek 29.08.2009 tarihinden sonraki dönem için ecrimisil isteğinde bulunmuştur.
 
@@ -200,6 +222,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 1. HD 2013/14515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79620600)
+
 Dava, ecrimisil isteğine ilişkin olup mahkemece; davacılardan İ.
 
 …
@@ -212,6 +236,8 @@ Hal böyle olunca; dava konusu taşınmazların tarla vasfı ile gelir getiren t
 Davacılardan A.G.H. U. M.N.U.'in bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 3. HD 2013/10785 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/260141600)
 
 Davalı, imar uygulaması sonucu paydaş olduğu nedeniyle davanın reddini savunmuştur.
 

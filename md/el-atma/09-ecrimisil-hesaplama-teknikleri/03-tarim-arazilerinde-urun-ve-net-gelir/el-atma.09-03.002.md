@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/3620 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142687200)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda, davanın kabulüne karar verilmiştir.
 
 …
@@ -42,6 +44,8 @@ Davalı idare vekilinin temyiz itirazlarının kısmen kabulü ile Mahkeme karar
 
 ## Yargıtay 7. HD 2025/2661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168978400)
+
 Davacı vekili dava dilekçesinde; müvekkiline ait ... ili, ... ilçesi, ... Mahallesi, 278 ada 26 parsel sayılı 20.019,00 m² yüzölçümlü taşınmaza davalının haklı bir nedene dayanmaksızın GSM verici kulesi/baz istasyonu ve elektrik hattı yaparak el atmak suretiyle taşınmazı uzun süredir işgal ettiğini, müvekkilinin taşınmazın kalan kısmını kullanmasının ya da taşınmazda tasarrufta bulunma imkanının kalmadığını, taşınmazdaki müdahalesine son vermesi ve geçmişe yönelik beş (5) yıllık ecrimisilin tahsili için ... 1.
 
 …
@@ -58,6 +62,8 @@ Hükme esas bilirkişi raporunda, tarım arazisi niteliğindeki çekişmeli taş
 Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139747000)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -80,6 +86,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 5. HD 2024/9287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120832400)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -101,6 +109,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyl
 
 ## Yargıtay 5. HD 2024/7400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073052200)
+
 Davalı idare vekili cevap dilekçesi sunmamıştır.
 
 …
@@ -114,6 +124,8 @@ Arazi ise, İlçe Tarım ve Orman Müdürlüğü verileri getirtilerek verilere 
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2024/2669 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021332900)
 
 Mahkemece bozma ilamına uyularak yeniden yapılan yargılama sonucunda; davanın 117 ada 34 parsel sayılı taşınmaza yönelik tazminat isteminin kısmen kabulüne, diğer parsellere yönelik tazminat isteminin reddine, ecrimisil isteminin ise kısmen kabulüne karar verilmiştir.
 
@@ -135,6 +147,8 @@ tutulması gerektiğinden hükmün bozulmasına karar verilmiştir.
 Taraf vekillerinin temyiz itirazlarının kısmen kabulü ile Mahkeme kararının hüküm fıkrasının; (6) numaralı bendinde yer alan “davalıdan alınarak davacıya ödenmesine” ibaresinin çıkartılması, yerine “istem halinde davacılara iadesine” ibaresinin yazılması, (7) numaralı bentte yer alan “ kabul ve ret oranına göre 686,58 TL'sinin” ibaresinin çıkartılması, (9) numaralı bendin tamamen çıkartılması, yerine “Davalı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına” cümlesinin yazılması, (10) numaralı bendin tamamen çıkartılması suretiyle hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2024/2429 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059994900)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -158,6 +172,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 5. HD 2024/813 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029593200)
+
 Davalı idare vekili cevap dilekçesinde özetle; dava konusu taşınmaza el atmanın olmadığını, yargı yolu itirazında bulunduklarını, davacının kanun hükümlerine göre uzlaşma talebinde bulunmadan dava açtığından davanın bu yönüyle reddi gerektiğini ayrıca davacının taşınmazdan yol geçmesine zımni olarak rıza gösterdiğinden ecrimisil talebi koşullarının gerçekleşmediğini belirterek davanın reddini talep etmiştir.
 
 …
@@ -174,6 +190,8 @@ Kapama fıstık niteliğindeki dava konusu Siirt ili, Merkez ilçesi, ... köyü
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2023/4978 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981971400)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -200,6 +218,8 @@ Temyiz olunan İlk Derece Mahkemesi kararının 6100 ... Kanun'un Geçici 3 ünc
 
 ## Yargıtay 7. HD 2023/4139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979133100)
+
 Davacılar vekili dava dilekçesinde; davacı müvekkillerinin Samsun ili, Canik ilçesi, Kaşyayla Mahallesi, 102 ada 38 parselde bulunan tarla vasıflı taşınmazın malikleri olduğunu, davalının davacıların maliki olduğu taşınmazı hiçbir hukuki nedene dayanmadan kullandığını, işgal ettiğini, davalıya taşınmazı terk etmesi ve kullandığı yıllar için ecrimisil bedeli ödemesi gerektiği hususunda noter aracılığı ile ihtarname gönderildiğini, ancak ihtara cevap verilmediği gibi ecrimisil ödemesinin de yapılmadığını belirterek taşınmaza davalının müdahalesinin men'i ile taşınmazın davacılara teslimini, dava tarihinden geriye doğru 5 yıllık ecrimisil bedelinin dönem sonralarından itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -215,6 +235,8 @@ Hükme esas alınan bilirkişi raporunun incelenmesinden, ecrimisil hesabının 
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/1366 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880783500)
 
 Davacı vekili dava dilekçesinde özetle; dava konusu Mersin İli, ..., İlçesi, ... Mahallesinde bulunan 223 ada 6 parsel sayılı taşınmazın davalı idare tarafından kamulaştırma yapılmadığı halde fiilen el atılarak yol olarak kullanıldığını bu nedenle taşınmazın bedelinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte 2.000,00 TL ecrimisil bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
@@ -233,6 +255,8 @@ Davalı idarenin Bölge Adliye Mahkemesi kararına yönelik temyiz itirazının 
 …
 
 ## Yargıtay 7. HD 2023/1209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884329300)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların reddine karar verilmiştir.
 
@@ -258,6 +282,8 @@ Açıklanan sebeplerle davacı vekilinin yerinde görülmeyen tüm temyiz itiraz
 
 ## Yargıtay 7. HD 2022/3662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792710600)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -273,6 +299,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazları
 
 ## Yargıtay 5. HD 2021/9865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686060600)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -286,6 +314,8 @@ Belirlenen ecrimisil bedeline her dönem sonu itibariyle faize hükmedilmesi ger
 Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle HUMK'un 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/5065 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668967000)
 
 Davacı vekili dava dilekçesinde, tarafların paydaş olduğu 2392 parsel ve 350 ada 1, 2, 3, 4 parsel sayılı taşınmazların yalnız davalılar tarafından ev, ahır ve sera olarak kullanıldığını belirterek ecrimisil talep etmiştir.
 

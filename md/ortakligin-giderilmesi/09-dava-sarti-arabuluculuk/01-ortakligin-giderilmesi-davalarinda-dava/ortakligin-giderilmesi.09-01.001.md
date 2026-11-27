@@ -28,6 +28,8 @@ Bakılmakta olan davada vesayet altına alınan kişinin paydaş olduğu taşın
 
 ## Yargıtay 11. HD 2025/7367 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198571300)
+
 6102 sayılı Türk Ticaret Kanunu'nun 5/A maddesi ile getirilen düzenlemede, konusu bir miktar para olan alacak, tazminat, itirazın iptali, menfi tespit ve istirdat davalarında, dava açılmadan önce arabulucuya başvurulması bir dava şartı olarak kabul edilmiştir.
 
 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'nun 18/B maddesine göre ise, kiralanan taşınmazların 2004 sayılı Kanuna göre ilamsız icra yoluyla tahliyesine ilişkin hükümler hariç olmak üzere, kira ilişkisinden kaynaklanan uyuşmazlıklar, taşınır ve taşınmazların paylaştırılmasına ve ortaklığın giderilmesine ilişkin uyuşmazlıklar, 23.06.1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunundan kaynaklanan uyuşmazlıklar, komşu hakkından kaynaklanan uyuşmazlıklar hakkında dava açılmadan önce arabulucuya başvurulması bir dava şartı olarak kabul edilmiştir.
@@ -35,6 +37,8 @@ Bakılmakta olan davada vesayet altına alınan kişinin paydaş olduğu taşın
 Dava, ipoteğin fekki davası olup, yargılamanın devamı esnasında dava konusu gayrimenkulün cebri icra yoluyla satılması neticesinde istirdata dönüşmüştür. Bu durumda yukarıda anılı kanuni düzenlemeler uyarınca eldeki davanın dava şartı arabuluculuğa tabi olmadığı gözetilerek Mahkemece işin esasına girilip varılacak uygun sonuca göre karar verilmesi gerekirken hatalı nitelendirme ile davanın dava şartı yokluğundan reddine dair yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 7. HD 2025/2394 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168429000)
 
 Uyuşmazlık; ortaklığın satış suretiyle giderilmesi istemine ilişkindir.
 

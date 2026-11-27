@@ -217,11 +217,15 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2010/6688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803230000)
+
 Ortak yerlere el atmanın önlenmesi ve eski hale getirilmesi davasının el atmayı gerçekleştirdiği iddia edilen ve kat maliki olmayan kişi (kiracı veya bağımsız bölümde sürekli oturan) hakkında açılması halinde özellikle hükmün infazı yönünden davanın bu kişi ile birlikte kat malikine de yönetilmesi zorunludur. Kat maliki davalı olarak gösterilmemiş ise, dava ekonomisi de gözetilerek kat malikinin davaya dahil edilmesi sağlanıp işin esası hakkında hüküm kurmak gerekir. Somut olayda 13 nolu bağımsız bölümün maliki ... ile 14 nolu bağımsız bölümün maliki ... davaya dahil edilmeden davaya bakılıp karar verilmiş olması doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2010/6661 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803094100)
 
 Dosyaya getirtilen tapu kayıt örneğine göre davaya konu taşınmazda kat irtifakı kurulmuş olup, davacı ve davalılar bağımsız bölüm malikleridir. Mahallinde yapılan keşif sonucunda düzenlenen bilirkişi raporunda, dükkan önlerine gölgelik ve bodrum merdivenlerine demir kapı yapıldığı, asansör boşluğunun kapatılıp dükkanlara katıldığı, bina ön cephesine klima monte edilip suyunun bina koridoruna akıtıldığı, yapılanların ortak yerlere el atma ve mimari projeye aykırı değişiklik niteliğinde olduğu saptanmış olmakla birlikte durum denetime ve infaza elverişli bir krokiye bağlanmamış, hangi davalı tarafından hangi aykırılığın yapıldığı belirlenmemiş, bilirkişinin uzmanlık alanı kapsamında olduğu halde iki bina arasındaki boşluğun hangi binaya ait olduğunun parsel tespiti suretiyle belirlenebileceği ileri sürülerek bu konu ve mimari projeye aykırılıkların eski hale nasıl getirileceği hususları açıklığa kavuşturulmamıştır.
 
@@ -232,6 +236,8 @@ Bilirkişi raporunda saptanan ve Kat Mülkiyeti Yasası hükümlerine aykırıl�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/1992 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774369200)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca inşaat yapılan taşınmazın ortak alanlarındaki projeye aykırılıkların giderilerek eski hale getirilmesi ve müdahalenin men'i istemlerine ilişkindir.
 
@@ -244,11 +250,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükm
 
 ## Yargıtay 18. HD 2009/12181 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881770600)
+
 Mahkeme kararının hüküm fıkrasında davanın kabulü ile davaya konu bağımsız bölümün eski haline getirilmesine denilmekle yetinilip sözü edilen taşınmazda davalı yanın müdahalede bulunduğu ve önlenmesine karar verilip projesine uygun eski haline dönüştürülmesi gereken işlerin neler olduğu ve ne şekilde eski hale getirileceği açıkça gösterilmemiştir. HUMK.nun 388. maddesinin son fıkrası ve 389. maddesi hükümleri uyarınca mahkeme kararının hüküm fıkrası kısmında taraflara yüklenen borç ve tanınan hakların kuşku ve duraksamaya yer vermeyecek biçimde açıkça gösterilmesi gerekir. Mahkemece, anataşınmazın yerinde yaptırılan inceleme sonucu bilirkişi tarafından düzenlenen rapora dayanılarak hüküm kurulduğuna göre bu hükme dayanak oluşturan raporda davalı yanca el atılıp projeye aykırı değişiklikler yapıldığı belirtilen kısımların hüküm fıkrasında açıkça gösterilmesi gerekirken infazda duraksamaya yer verecek ve anılan yasa maddesi hükümlerine uygun düşmeyecek biçimde hüküm kurulmuş olması doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2009/11718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880204200)
 
 Davacı vekili dava dilekçesinde, davacı ile davalıların kat maliki oldukları kat mülkiyetli anataşınmazda davalı tarafın anayapının projesine aykırı olarak apartmanın ortak yerlerinden olan terasın bir bölümünde izin ve ruhsat almaksızın kaçak inşaat yaparak kendilerine ait bağımsız bölümlerine kattıklarını ileri sürerek söz konusu elatmaların önlenmesini, terasta yapılan tesis ve eklentilerin yıkılıp projeye uygun eski hale getirilmesini istemiş; mahkemece terasların, teras kat maliklerine ait olduğu yönünde yönetim planında açıklama bulunduğu, dava konusu yerlerin ortak alan olmadığı, dava konusu terastan diğer kat maliklerinin yararlanmasının mümkün bulunmadığı, davalıların bağımsız bölümlerinin içinden geçmeden dava konusu terasa girilemeyeceği gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -260,6 +270,8 @@ Mahkemece tüm bu hususlar gözönünde bulundurularak davalıların el atmalar�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2009/10591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879578600)
 
 634 Sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrası uyarınca kat maliklerinden biri bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım, tesis ve değişiklik yaptıramaz. Yasanın bu buyurucu hükmü gözetilerek anılan maddeye aykırı değişikliklerle ilgili davanın geç açılmasının hakkın kötüye kullanılması olarak yorumlanamayacağı da düşünülmeden yukarıda değinilen ve bilirkişi raporunda açıklanan projeye aykırılıkların kat malikleri kurulu kararları kapsamında bulunmadığı hususu da gözetilerek onaylı mimari projesine uygun eski hale getirilmesine ve ayrıca anılan Yasanın 33. maddesi uyarınca bu işlerin yapılması için davalı tarafa uygun bir süre verilmesi yolunda hüküm kurulması gerekirken yazılı gerekçe ile davanın reddi doğru görülmemiştir.
 

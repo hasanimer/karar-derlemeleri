@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2011/748 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17156400)
+
 Dava, el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -45,6 +47,8 @@ Taraflar arasında, davalı tarafından açılan sözleşme gereği taşınmazı
 
 ## Yargıtay 7. HD 2025/1751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140779600)
+
 Diğer temyiz itirazlarına gelince; iddianın içeriği ve ileri sürülüş biçiminden davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu açıktır. Bu tür davalarda, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 120. maddesi ve 492 sayılı Harçlar Kanunu'nun 16. maddesi uyarınca dava değerinin el atılan yerin değeri ile talep edilen ecrimisil değerinin toplamından (4.3.1953 tarih 10/2 sayılı İçtihadı Birleştirme Kararı) ibaret olacağı ve belirlenen bu değer üzerinden 492 sayılı Kanun'un 26, 27, 28, 30 ve 32. maddelerinde öngörüldüğü şekilde işlemlerin yerine getirilerek gerekli olan harcın alınacağı tartışmasızdır.
 
 Dava konusu 133 ada 4 No.lu parsel 5 No.lu bağımsız bölüme ilişkin müdahalenin men'i ve ecrimisil istemiyle davalılara karşı ayrı ayrı dava açılmışsa da aralarında hukuki ve fiili irtibat bulunması nedeniyle birleştirilerek karar verildiği, müdahalenin men'i istemine konu yerin tek bir bağımsız bölüme ilişkin olduğu, davaların bu yeri birlikte kullandıkları belirtilerek davanın kabul edildiği, ecrimisil isteminde ise davaların açılış tarihlerine göre dönemsel hesaplama yapılıp karar verildiği hâlde müdahalenin men'i yönünden tüm davalıların harç ve giderlerden müştereken ve müteselsilen sorumlu oldukları, ecrimisil talebi yönünden ise aleyhlerine hükmedilen miktar üzerinden harç ve yargılama giderlerinden sorumlu olacakları gözetilmeden mükerrer olacak şekilde aynı dava konusu yer üzerinden ayrı ayrı harç ve yargılama giderlerine hükmedilmiş olması doğru görülmemiştir.
@@ -54,6 +58,8 @@ Dava konusu 133 ada 4 No.lu parsel 5 No.lu bağımsız bölüme ilişkin müdaha
 Davalı ...'in temyiz itirazlarının kabulüyle temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/4568 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089210800)
 
 Davacı vekili; muristen intikal eden 2660 ada 17 parsel sayılı taşınmaz üzerinde bulunan 1, 2 ve 12 No.lu bağımsız bölümler ile 3 adet garajın davalı tarafından haksız şekilde tasarruf edildiğini, ihtarnameye rağmen müdahalenin sonlandırılmadığını ileri sürerek; el atmanın önlenmesine, (ihtarnamede verilen sürenin son günü olan) 14.06.2015 tarihinden başlayacak şekilde ecrimisil ve işletmeden kaynaklı kâr payına karar verilmesini istemiştir.
 
@@ -77,6 +83,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us�
 
 ## Yargıtay 7. HD 2024/3143 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053752900)
+
 Davacı vekili; müvekkillerinin murisinin paydaşı olduğu dükkanın davalı tarafından işgal edildiğini belirterek elatmanın önlenmesi ve ecrimisil talep etmiştir.
 
 …
@@ -94,6 +102,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 7. HD 2024/674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015244800)
+
 Davacı vekili, davalı ile olan evliliklerinin 27/10/2014 tarihinde kesinleşen ilam ile sona erdiğini, 2720 ada 1 parsel, 4. kat, 17 No.lu bağımsız bölümün davacı adına kayıtlı olduğunu, işbu taşınmaz için davalının açmış olduğu katılma alacağı davasının red ile sonuçlandığını, davalıya gönderdiği ihtarnamenin neticesiz kaldığını ileri sürerek el atmanın önlenmesi ile şimdilik 500,00 TL ecrimisil bedelinin boşanma kararının kesinleşme tarihi olan 27/10/2014 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsilini talep ve dava etmiştir.
 
 …
@@ -109,6 +119,8 @@ Bölge Adliye Mahkemesi yukarıda tarih ve sayısı belirtilen kararı ile "...2
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/6409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109661400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... yönünden davanın reddine, davalı ... yönünden el atmanın önlenmesi talebinin kabulüne, ecrimisil talebinin kısmen kabulüne karar verilmiştir.
 
@@ -137,6 +149,8 @@ Harçlar Kanunu'nun 16 ncı maddesi uyarınca dava değerinin ve buna göre alı
 
 ## Yargıtay 7. HD 2023/5010 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985129000)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -156,6 +170,8 @@ Bu durumda mahkemece usuli müktesep hak gözetilmek suretiyle, dava konusu 1160
 V.C.3.(2.a.) ve devamındaki bentlerde açıklanan nedenlerle davacılardan ...’nin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/4399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981199300)
 
 Mahkemece bozmaya uyularak yapılan yargılama sonunda davanın reddine karar verilmiştir.
 
@@ -186,6 +202,8 @@ Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 1. HD 2023/4258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974612400)
+
 Mahkemece, bozmaya uyularak yeniden yapılan yargılama sonucunda asıl davada ecrimisil isteği yönünden feragat nedeniyle davanın reddine,tapu iptali ve tescil isteği yönünden davacılar ..., ... ve ... mirasçıları yönünden davanın reddine, davacı ... yönünden davanın kabulüne, birleştirilen 2017/122 E.davada, davacılar ..., ... ve ... mirasçıları yönünden davanın reddine, davacı ... yönünden davanın kabulüne, birleştirilen 2015/244 E.sayılı davada tapu iptali ve tecsil isteği yönünden davacılar ..., ... ve ... mirasçıları yönünden davanın reddine, davacı ... yönünden davanın kabulüne; ecrimisil isteği yönünden davacılar ..., ... ve ... mirasçıları yönünden davanın reddine, davacı ... yönünden davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -197,6 +215,8 @@ Birleştirilen 2015-244 E. sayılı davada, iptal-tescil kararı verilen davalı
 Asıl ve Birleştirilen 2015/244 E.sayılı davada ( davalı ... hariç ) davalıların değinilen yönlerden yerinde bulunan temyiz itirazlarının kabulü ile hükmün 6100 sayılı Kanun'un geçici 3 üncü maddesi yollaması ile 1086 sayılı HUMK'un 428 inci maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/4083 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979118700)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davalılardan ... yönünden yeniden hüküm kurulmasına yer olmadığına, ... yönünden davanın kabulüne, diğer davalılar yönünden reddine karar verilmiştir.
 
@@ -219,6 +239,8 @@ Bunlardan ayrı olarak, davalı tarafın faize ilişkin temyiz itirazına gelinc
 Tarafların yukarıda açıklanan temyiz itirazlarının kabulü ile temyiz olunan mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/876 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897429000)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -249,6 +271,8 @@ gerekçesiyle hükmün bozulmasına karar verilmiştir.
 Açıklanan sebeplerle davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896493300)
 
 Taşınmazın fiilen davalının tasarrufunda olduğu hususu dosya kapsamı ile sabit olduğu gibi davalınında kabulündedir. Davacının dava konusu taşınmazdaki mülkiyet hakkı yanında davalının taşınmazda korunmaya değer üstün bir hakkı bulunmamaktadır. Bu itibarla davalının dava konusu taşınmazdaki işgali haksız işgal niteliğindedir. Mahkemenin gerekçeli kararında elatmanın önlenmesi talebinin kabulüne ilişkin gerekçeye yer verilmemekle birlikte elatmanın önlenmesine dair kararı sonucu itibariyle yerindedir... Dava konusu taşınmaz konut niteliğinde bağımsız bölüm olup, taşınmazın değerinin tespiti ile getireceği ecrimisil miktarının hesabı inşaat mühendisi bilirkişinin uzmanlık alanında yer almaktadır. Bu itibarla eldeki davada taşınmazın değeri ile ecrimisil miktarının tespiti hususunda aynı bilirkişiden rapor alınmasında usule aykırılık bulunmamakta olup, davalı vekilinin elamanın önlenmesi ve ecrimisil konularında ayrı ayrı uzman bilirkişilerden rapor alınması gerektiği yönündeki istinaf sebebi yerinde değildir..." gerekçesiyle davalı vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 

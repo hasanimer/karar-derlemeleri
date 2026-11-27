@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 10. D. 2025/4051 E., 2025/4706 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190796600)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararıyla; dava konusu işlemin iptaline karar verilmiştir.
 
 …

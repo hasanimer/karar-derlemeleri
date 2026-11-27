@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/12432 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97487600)
+
 Dava konut ihtiyacı nedeni ile kiralananın tahliyesi istemine ilişkindir.
 
 …
@@ -29,6 +31,8 @@ Olayımıza gelince; dosya arasında bulunan 07/08/2012 tarihli satış vaadi s�
 
 ## Yargıtay 1. HD 2014/9960 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84267900)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -36,6 +40,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Hemen belirtilmelidir ki, Türk Medeni Kanunun 706, Borçlar Kanunun 213 (Türk Borçlar Kanunu 237) ve 2644 sayılı Tapu Kanununun 26. maddesi uyarınca tapuda kayıtlı taşınmazların resmi şekilde yapılmayan temliklerine değer verme olanağı yoktur ve mülkiyetin naklinin sebebini teşkil etmez. Ne var ki, harici satışın; ilgilisine harici satış bedelinden kaynaklanan hapis hakkı tanıyacağı kuşkusuzdur. Nitekim; 10.07.1940 tarih ve 2/77 Sayılı Yargıtay İçtihadı Birleştirme Kararı ile haricen taşınmazı temlik eden kişinin aldığı satış bedelini karşı tarafa ödemedikçe haricen satın alan kişinin taşınmazı terk etmesini isteyemeyeceği, satış bedeli kendisine ödenmeyen taraf temerrüde düşmüş sayılamayacağından, para geri verilinceye kadar ecrimisil ödemekle sorumlu tutulamıyacağı hükme bağlanmıştır.
 
 ## Yargıtay 1. HD 2014/4572 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84164400)
 
 Dava; ecrimisil isteğine ilişkin olup, mahkemece davanın kabulüne karar verilmiş, hüküm davalı tarafından temyiz edilmiştir.
 
@@ -47,9 +53,13 @@ Bu durumda; harici satış sözleşmesinin lehtarına hapis hakkı sağlayacağ�
 
 ## Yargıtay 19. HD 2014/2029 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107100500)
+
 Öte yandan davacı 3.000.000 TL tahsilat yapmış olup, bu parasının nemasından faydalanmış olduğundan geçersiz sözleşmede herkesin aldığını iade edeceği gözetildiğinde ve davalıya taşınmazı terk etmesi için temerrüde de düşürmediği anlaşıldığından, ecrimisil de talep edemez. Mahkemece bu yönler gözetilmeden eksik inceleme ile düzenlenen bilirkişi raporuna göre yazılı olduğu şekilde karar verilmesi doğru görülmemiştir “ gerekçesiyle bozulmuştur.
 
 ## Yargıtay 1. HD 2013/15635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/253240300)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -59,6 +69,8 @@ Ne var ki, satış vaadi sözleşmelerinin taraflarına kişisel hak sağlayabil
 
 ## Yargıtay 1. HD 2013/15404 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79626600)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım, ecrimisil ve tazminat isteklerine ilişkindir.
 
 …
@@ -67,9 +79,13 @@ Bilindiği üzere; Türk Medeni Kanununun 706., Borçlar Yasasının 213. maddes
 
 ## Yargıtay 1. HD 2013/8458 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79729000)
+
 Davacı tarafın ecrimisile yönelik temyiz itirazlarına gelince; davalı S.tarafından daha önce satış vaadi sözleşmesine dayalı olarak açılan tapu iptal ve tescil davasının reddine ilişkin kararın 25.04.2008 tarihinnde kesinleştiği, davalı G..nin açtığı satış vaadi sözleşmesine dayalı tapu iptal ve tescil davasının da reddedildiği ve 06.03.2009 tarihinde kesinleştiği anlaşıldığına göre tapu iptal ve tescil davalarının kesinleştiği tarih itibariyle davalıların haksız ve kötüniyetli olduğunun kabulü gerekir. Bu durumda tapu iptal ve tescil davalarının kesinleştiği tarihten dava tarihine kadar olan dönem için ecrimisile hükmedilmesi gerekir.
 
 ## Yargıtay 1. HD 2013/5609 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79701400)
 
 Dava, el atmanın önlenmesi ve ecrimisil, karşı dava alacak isteklerine ilişkindir.
 
@@ -79,6 +95,8 @@ Bilindiği üzere, TMK'nun 706. BK'nun 213. ve 2644 Sayılı Yasanın (Tapu Kanu
 
 ## Yargıtay 3. HD 2012/18914 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/533955200)
+
 Dava, tapulu taşınmazın haksız kullanımından kaynaklanan ecrimisil talebidir.Arsa payı karşılığı inşaat yapım sözleşmeleri karşılıklı taahhütleri ihtiva eden, iki tarafa da borç yükleyen eser yapımı ile satış vaadinden oluşan karma bir sözleşmedir. Bu sözleşmelerde yüklenicinin asli edimi, arsa sahibinin arsası üzerinde sözleşme ve imara uygun olmak üzere finansmanı kendisi tarafından sağlanarak inşaat yapıp teslim etmek, arsa sahibinin borcu ise, bedel olarak kararlaştırılan bağımsız bölüm ya da arsa payının mülkiyetini yükleniciye devretmektir.Arsa payı karşılığı inşaat yapım sözleşmesi uyarınca yüklenicinin sözleşmede kararlaştırılan tapu kaydı ya da bağımsız bölümlere hak kazanabilmesi inşaatı kusursuz ve eksiksiz tamamlayıp teslim etmesine bağlıdır. Sözleşmeden sonra ve inşaat süresince yükleniciye bir kısım payların devri avans niteliğindedir. Sözleşmenin geriye etkili feshi halinde bu arsa payları talep halinde arsa sahibine geri döner. Yüklenici edimini ifa ettiği oranda şahsi hak elde edebilir ve elde ettiği hakkını üçüncü kişilere devredebilir.
 
 Bütün sözleşmelerde olduğu gibi kat karşılığı inşaat sözleşmelerinde de taraflar sözleşmenin kendilerine yüklediği borçları belirlenen zaman ve biçimde ifa etmek zorundadır. Buna göre yüklenicinin edimini süresinde yerine getirmemesi halinde arsa sahibinin sözleşmenin feshini isteme hakkı bulunmaktadır.Yüklenicinin fesih kararının kesinleştiği tarih itibariyle sözleşme konusu taşınmazı, arsa sahibine teslimi gerekir. Yüklenici, sözleşmenin geriye etkili sonuç doğurur şekilde feshinin kesinleştiği tarihe kadar, taşınmazı sözleşme gereğince zilyetliğinde bulundurma hakkına sahip olduğundan, o tarihe kadarki sürede yüklenici de, yüklenicinin yararlandırdığı kimseler de Türk Medeni Kanununun 994. maddesi hükmü uyarınca “iyiniyetli zilyet” sayılacaklarından; aynı Kanunun 995. maddesi gereğince haksız işgal tazminatı kapsamında ecrimisil istenemez.
@@ -87,9 +105,13 @@ Somut olayda dosya kapsamından; davacı ile dava dışı yüklenici arasında a
 
 ## Yargıtay 1. HD 2012/12024 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/719829500)
+
 Mahkeme kararındaki nitelendirmeye göre asıl dava, satış vaadi sözleşmesinden kaynaklanan kişisel hakka dayalı tapu iptali, tescil birleşen dava çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, 9.2.2012 tarih 2012/1 sayılı Yargıtay Başkanlar Kurulu Kararının ortak hükümlerin 6.maddesine göre asıl uyuşmazlık kişisel hakka dayalı tapu iptal ve tescil istemine ilişkindir.
 
 ## Yargıtay 3. HD 2012/9408 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/559940800)
 
 …
 
@@ -100,14 +122,20 @@ HUMK.m.185/2 çerçevesinde davalının açıkça muvafakat etmesi hali dışın
 
 ## Yargıtay 1. HD 2012/6530 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79324900)
+
 Bu durumda, öncelikle belirtmek gerekir ki, davacı paydaşında harici satışta bulunduğu gözetildiğinde TMK.'nun 2. maddesinde öngörülen iyiniyet ilkesi ile bağdaşmadığından mahkemece ecrimisil isteminin reddedilmiş olmasında isabetsizlik yoktur. Ancak, yukarıda sözü edilen harici satış senedinde, taşınmaz üzerindeki evlerin satışa konu edildiği, buna karşın paydaş olan davalıların tüm taşınmazı kullandıklarının ifade edildiği görülmektedir. Paylı mülkiyette taşınmazdan yararlanamıyan paydaş, engel olan öteki paydaş veya paydaşlardan payına vaki elatmanın önlenilmesini her zaman istiyebilir. Hatta elbirliği mülkiyetinde dahi paydaşlardan biri öteki paydaşların olurlarını almadan veya miras şirketine temsilci atanmadan tek başına ortak taşınmazdan yararlanmasına engel olan ortaklar aleyhine elatmanın önlenilmesi davası açabilir.
 
 ## Yargıtay 3. HD 2012/2390 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596824900)
 
 Taraflar arasında görülen ... 17.Asliye Hukuk Mahkemesinin 2006/491 E. 2007/373 K. sayılı dosyasında; satış vaadi sözleşmesinden haberdar olan davalı ... ... ile diğer davalı ... arasında satış şeklinde gerçekleştirilen dairenin temliki işleminin muvazaalı olarak yapıldığı gerekçesiyle davanın kabulüne karar verildiği ve hükmün temyiz edilmeksizin kesinleştiği anlaşılmaktadır.Hemen belirtmek gerekir ki, Borçlar Kanununun 18. maddesinde deyimini bulan muvazaa; tarafların üçüncü kişileri aldatmak amacıyla ve fakat kendi iradelerine uymayan, aralarında hüküm ve sonuç doğurmayan bir görünüş yaratmak hususunda anlaşmalarıdır, şeklinde tanımlanabilir.Kararlılık kazanmış Yargıtay İçtihatlarında ve bilimsel alanda ortaklaşa kabul edildiği üzere muvazaalı işlemin müeyyidesi mutlak butlandır. Bu itibarla muvazaalı sözleşmeler başlangıçtan itibaren geçersiz olduklarından hiçbir hüküm ve sonuç doğurmazlar. Açılan dava sonunda verilen karar yenilik doğuran (inşai) bir karar değil açıklayıcı (ihdasi) bir karar durumundadır (HGK.
 01.03.2000 gün ve 2000/1–126 E, 2000/143 K. ).Diğer taraftan, TMK'nun 995/1.maddesi ve 08.03.1950 gün ve 22/4 sayılı Yargıtay İ.B.K. ile iyiniyetli olmayan zilyedin, geri vermekle yükümlü olduğu şeyi haksız alıkoymuş olması yüzünden hak sahibine verdiği zararlar ve elde ettiği (veya elde etmeyi ihmal eylediği) gelir karşılığında tazminat ödemek zorunda olduğu açıklanmıştır. Şu durumda mahkemece; geçersiz sözleşmeye dayalı olarak dava konusu daireyi kullanan davalının iyiniyetli zilyed olmadığı belirlenmiş olduğundan, bu kullanımın müeyyidesi olan ecrimisille sorumlu tutulması gerekirken, yanılgılı değerlendirme ile davanın reddine karar verilmesi doğru görülmemiştir.Buna göre mahkemece yapılacak iş; davacı tarafın talep edeceği ecrimisilin belirlenerek, sonucuna göre bir karar vermek olmalıdır. Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz olup bu nedenlerle yerinde olan temyiz itirazlarının kabulü ile hükmün HUMK. nun 428.
 
 ## Yargıtay 1. HD 2012/834 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78895900)
 
 Dava çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -118,6 +146,8 @@ Gerçekten de mahkemenin, miras bırakan İ..'in satış vaadi sözleşmesiyle p
 Ne var ki, taşınmazın tamamının davalı tarafından kullanıldığı ve davacıların satışa konu edilen pay dışında başka paylarının da bulunduğu gözardı edilerek, anılan paylar nedeniyle davacıların ecrimisile müstehak olacaklarının düşünülmemesi doğru değildir.
 
 ## Yargıtay 1. HD 2011/13220 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79335700)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -131,6 +161,8 @@ Hal böyle olunca; bildirilen ve bildirilecek olan emsaller de dikkate alınarak
 
 ## Yargıtay 1. HD 2011/2625 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920664900)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -139,9 +171,13 @@ Hal böyle olunca, öncelikle davacıya ödenen harici satış bedelinin davalı
 
 ## Yargıtay 13. HD 2010/11692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17031500)
+
 Taraflar arasında düzenlenen 15.09.2003 tarihli taşınmaz satışına ilişkin harici satış, MK'nın 634., BK'nın 213. ve Tapu Kanunu'nun 26. maddesi uyarınca resmi şekilde yapılmadığından geçersizdir. Her geçersiz satışta olduğu gibi taraflar aldıklarını sebepsiz iktisap hükümleri dairesinde iade ile yükümlüdürler. 10.07.1940 tarih ve 2/7 sayılı Yargıtay İçtihadı Birleştirme Kararına göre, geçersiz taşınmaz satışında verilen satış bedeline alıcı faiz, taşınmazın kullanılmasından dolayı da satıcı ecrimisil veya kira bedeli isteyemez. Mahkemece, bağlayıcı nitelik taşıyan Tevhidi İçtihat Kararına rağmen, satış bedelinin denkleştirici adalet ilkesine göre ulaştığı değerden davacının elde ettiği ürün gelirinin indirilmesi suretiyle hüküm kurulması usul ve yasaya aykırı olup, bozma gerektirir.
 
 ## Yargıtay 1. HD 2010/7242 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78828900)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -150,6 +186,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişki
 Kabule göre de; çekişmeli taşınmazın davacı tarafından, davalıya haricen satıldığı, zilyetliğinin devredildiği, davalının da bir bölüm harici satış bedelini ödediği taraflar kabulünde olup davalı tarafından davacıya ödenen bedelin belirlenerek davalı yararına (1940 tarih 2/77 sayılı İ.B.K.) harici satış bedeli üzerinden hapis hakkı tanınmak suretiyle elatmanın önlenmesine karar verilmesi gerekeceği (TMK'nun 683.maddesi 994.md.ler gereğince) ve davalının çekişmeli yeri tasarrufu harici satış ilişkisine dayandığına göre, kötü niyetli zilyedin mülkiyet hakkı sahibine ödemekle yükümlü olduğu haksız işgalden kaynaklanan ecrimisilden sorumlu tutulamayacağının dikkate alınmamış olması da isabetsizdir.
 
 ## Yargıtay 1. HD 2010/6912 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78786600)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -161,6 +199,8 @@ Hal böyle olunca, 1940 tarih 2/77 Sayılı İçtihadı Birleştirme Kararı gö
 
 ## Yargıtay 1. HD 2010/5119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78509700)
+
 Dava ve birleşen dava, elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -168,6 +208,8 @@ Dava ve birleşen dava, elatmanın önlenmesi ve ecrimisil isteğine ilişkindir
 Bu durum karşısında, HUMK.'nun 79.maddesi gereğince bir kimsenin kendi lehine karar almayı gerektiren hususlarda dava açmaya icbar edilemeyeceği hükmü gözetilerek, geçersiz sözleşmeyi düzenleyen Parti Başkanı K.T. aleyhine bir dava açılmadığına göre, Onun düzenlediği sözleşmede belirtilen 1.1.2003 - 31.12.2003 tarihlerine tekabül eden ecrimisil değeri, belirlenecek değerden düşülerek, bakiye ecrimisilin tespiti keza davacı idareye yapılan birtakım ödemeler varsa bunlarda dönemlere göre her iki davalının sorumlu tutulacağı ecrimisilden tenkis edilmek suretiyle, bakiyesi üzerinden ayrı ayrı sorumlulukları cihetine gidilmesi yönünde bir karar verilmesi gerekirken, yazılı olduğu üzere hüküm kurulmuş olması doğru değildir.
 
 ## Yargıtay 1. HD 2010/1338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78673100)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -178,6 +220,8 @@ Kabule göre de, çekişme konusu bağımsız bölümün davacı tarafından dav
 Hal böyle olunca, elatmanın önlenmesi isteği yönünden davacı tarafından bir değer belirtilmediği gözetilmek suretiyle mahkemece davacıdan bu istek bakımından dava değeri sorularak açıklattırılması, bu değere davalının itiraz edilmesi halinde taşınmazın değerinin keşfen belirlenmesi ve saptanacak değeri üzerinden yukarıda açıklandığı şekilde işlem yapılması, ondan sonra bir hüküm kurulması gerektiği halde yazılı şekilde sonuca gidilmesi doğru olmadığı gibi; davalı yararına hapis hakkı tanınmak suretiyle elatmanın önlenmesine ve ecrimisil isteğinin de reddine karar verilmesi gerekirken yazılı olduğu üzere hüküm kurulmuş olması da isabetsizdir.
 
 ## Yargıtay 1. HD 2009/13231 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78701300)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -191,17 +235,25 @@ Hal böyle olunca, harici satış bedeli ve davalının Türk Medeni Kanununun 9
 
 ## Yargıtay 13. HD 2009/12518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834033600)
+
 115.301.67 YTL ödeyerek icra dosyası borcunu kapatığı, davacı ile davalı arasında bono ile aynı keşide tarihini taşıyan 31.12.1998 tarihli tapulu taşınmazın satışına ilişkin haricen düzenlenen satış sözleşmesi yapıldığı, harici satış sözleşmesine konu taşınmazın resmi şekle uyğun satışının gerçekleştirilmediği dosya içerisinden anlaşıdığı gibi bu husus taraflarında kabulündedir. Uyuşmazlık davaya konu senedin harici satış sözleşmesini teminatı olarak diğer bir değişle davacının taşınmazın tapuda devrinin ve davalıdan aldığı satış bedilinin teminatı olarak verilip verilmediği hakkındadır. Bononun harici satış sözleşmesinin teminatı olarak verildiği sabit olduğu takdirde satış sözlemesi BK 213 MK 706 Md Tapu kanunu 26.mAddesi gereği geçersiz olduğundan taraflar sadece sözleşme gereği verdiklerinin iadesini isteyebilecektir. Satıcı taşınmaz icin kira, ecrimisil v.b. Isteyemeyecek, alıcıda satış bedeline karşılık faiz isteyemeyecektir.
 
 ## Yargıtay 19. HD 2009/4918 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887594300)
 
 Karşı davada, talep edilen kalemlerden olan ecrimisil talebine ilişkin olarak, haksız işgalden söz edilemeyeceği mahkemenin de kabulündedir. Karşı davada talep edilen tapulu taşınmazın satış vaadi resmi senede bağlanmamış ise de taşınmaza zilyet olan kişi haricen satış sebebi ile ödediği meblağı almadığı sürece taşınmaz üzerinde hapis hakkı vardır ve özellikle ecrimisil davalarında bu suretle taşınmaza zilyet olan kişinin suiniyetli olduğu kabul edilemeyeceğinden ecrimisil de söz konusu olamaz. Bu durumda karşı davanın reddi gerekirken kabulü doğru görülmemiştir.
 
 ## Yargıtay 12. HD 2008/20877 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/71813000)
+
 Alacaklı banka tarafından borçlular hakkında ipoteğin paraya çevrilmesi yolu ile yapılan takip sonucu, borçlu tarafa ait taşınmaz, alacaklı bankaya ihale olunmuştur. İhaleden sonra alacaklı banka ile üçüncü şahıs Y. A.. karşılıklı edimleri havi 23.06.2006 tarihli sözleşmeyi ve 16.10.2006 tarihli ek sözleşmeyi düzenlenmişlerdir. İş bu sözleşmelerin içeriğinden, ihale ile alacaklı bankaya geçen taşınmaz üzerinde, 3.şahsa satış vaadinde bulunulduğu ve tescil tarihine kadar ecrimisil bedeli mukabilinde taşınmazın 3.şahsın kullanımına tahsis edildiği anlaşılmaktadır. Anılan sözleşmelerin koşullarının yerine getirilip getirilmediği, satış vaadinin geçerliliğini koruyup korumadığı yargılama yapılmasını gerektirir hale getirmiştir. Bu durumda alacaklı bankanın İİK.nun 135.maddesine dayanarak 3.şahsa tahliye emri göndermesi mümkün değildir.
 
 ## Yargıtay 1. HD 2008/11732 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78464600)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -213,6 +265,8 @@ Hal böyle olunca, ecrimisil isteminin reddine, 10.7.1940 tarih 2/77 sayılı İ
 
 ## Yargıtay 1. HD 2007/9363 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77926900)
+
 Dava kat irtifakı kurulu çaplı taşınmazdaki bağımsız bölüme elatmanın önlenmesi ve ecrimisil, karşı dava ise, taşınmaza yapılan masrafların tahsili isteklerine ilişkindir.
 
 …
@@ -222,9 +276,13 @@ Kabulüyle, hükmün açıklanan nedenlerden ötürü HUMK.'nun 428.maddesi gere
 
 ## Yargıtay 13. HD 2007/6754 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16021400)
+
 Tapulu taşımazların haricen satışı TMK. 706, BK. 213 Tapu Kanunun 26. ve Noterlik kanunun 60. maddelerine göre geçersizdir. Geçersiz olan harici satışlarda taraflar aldıklarını aynı anda iade ile yükümlü olup taşınmazın kullanılmasından dolayı ecrimisil veya bedel, verilen para içinde faiz talep edilemez. Mahkemece, harici satımlarda kullanma bedeli istenemeyeceği hususları gözardı edilerek karar verilmesi usul ve yasaya aykırı olup bozma nedenidir.
 
 ## Yargıtay 14. HD 2007/1846 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855480700)
 
 Dava ile elatmanın önlenmesi ve ecirimisil, karşı dava ise sözelşmenin iptali ve elatmanın önlenmesi istemlerine ilişkindir.
 
@@ -234,18 +292,26 @@ Birleşen davanın davalısı ... adına 12.12.1985 tarihli tapu tahsis belgesi 
 
 ## Yargıtay 13. HD 2006/15662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842015800)
+
 Davacı ile davalı arasında yapılan 25.7.2002 tarihli sözleşme, tapulu taşınmazın haricen satışına ilişkin olup, tMK.nun 706. maddesi, Bk.nun 213.maddesi ve Tapu Kanunun 26. maddesi gereğince resmi şekilde yapılmadığından geçersizdir. Geçersiz sözleşmeye istinaden, taraflar ancak aldıklarını sebepsiz iktisap hükümlerine göre aynen iade ile mükelleftirler. Davacı, geçersiz sözleşme gereğince sözleşmeyi feshettiğini ve aldıklarını iadeye hazır olduğunu beyan ettiğine göre, 10.07.1940 tarih 1939/2 esas ve 1940/77 karar sayılı İBK kararında da belirtildiği gibi, haricen yapılan taşınmaz satımlarında verdiği bedel kendisine geri verilmeyen tarafın, parası geri verilinceye kadar ecrimisil ya da kira bedeli altında bedel ödemekle yükümlü olmadığı hususu gözetilerek, 25.7.2002 tarihli sözleşme ile tarafların birbirlerine verdiklerinin iadesine karar verilmelidir. Mahkemece yanlış değerlendirme ile yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Kayseri BAM 6. HD 2024/919 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025577200)
 
 Şti. tarafından ortaklığı süresince oluşmuş bir hak ve alacak talebinin ileri sürülemeyeceğini, miras hukukundan kaynaklı tarafların birlikte malik oldukları işyeri için ecrimisil talebinin yasal olmadığını, geçersiz sözleşmeye dayalı cezai şartın da geçersiz olduğuna ilişkin davacıların talebini kabul etmediklerini, davacıların geçersiz anlaşma şartnamesinde belirlenen 50.000,00-TL'lık cezai şart gereği müvekkillerin bu bedeli davacı ... ve ...'na ayrı ayrı ödemesine yönelik talebin kabul edilebilirolmadığını, nitekim geçersiz sözleşme kapsamında belirlenen cezai şartta geçersiz olduğunu, bu hususun TBK'nun 182/2. maddesinde "Asıl borç herhangi bir sebeple geçersiz ise veya aksi kararlaştırılmadıkça sonradan borçlunun sorumlu tutulamayacağı bir sebeple imkânsız hâle gelmişse, cezanın ifası istenemez." hükmünde açıkça yer aldığını belirterek usul ve esas yönünden davanın reddine, dava masraf ve giderleri ile vekillik ücretinin davacılara tahmiline karar verilmesini talep etmiştir.
 
 ## İstanbul BAM 3. HD 2024/911 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1011655200)
+
 Dava; menfi tespit, araç teslimi ve haksız kullanım bedeline (tazminata) ilişkin olup talepler HMK 110.maddesinde düzenlenen "davaların yığılması" şeklinde ileri sürülmüştür.Dosyaya ibraz edilen protokolde "... adına kayıtlı ... ve ... plakalı araçların 30.03.2011 tarihli 0301301 nolu 6.000,00 TL, 21.04.2011 tarihli ... nolu 20.000,00 TL ve 21.04.2011 tarihli ... nolu 18.500,00 TL bedelli ... Bankası'na ait çeklerle toplam 44.500,00 TL'ye ... Turizmi temsilen 05.11.2011 tarihinde ... tarafından satın alınmış olup karşılıkları söz konusu çeklerle ödenmiştir. Aracın bir tanesinin satışı 1 ay içerisinde, bir diğeri ise son çekin ödendiği tarih itibariyle verilecekken 26.09.2011 tarihi itibariyle her iki aracın da satışları henüz verilmemiştir." denilmektedir.Dosya kapsamına göre; söz konusu iki aracın davacı tarafından davalının temsilcisi olduğu ... Turizm şirketine 46.000,00 TL'ye satıldığı, satış bedelinin 1.500,00 TL'lik kıs- mının nakden 44.500,00 TL'lik kısım karşılığında çek verildiği, söz konusu çeklerin davacı tara- fından tahsil edildiği ancak araçların devrine ilişkin resmi işlemin gerçekleşmediği tartışmasızdır.
 Dava konusu araç satış sözleşmesinin resmi şekilde düzenlenmemiş olması nedeniyle, 2918 Sayılı Karayolları Trafik Kanunu'nun 20/d maddesi uyarınca geçersiz olduğu anlaşılmakta olup, bu tür geçersiz sözleşmelerde taraflar sözleşme uyarınca birbirlerine verdiklerini sebepsiz zenginleşme hükümleri uyarınca geri isteme hakkına sahiptirler. Geçersiz sözleşmeler taraflarca hak ve borç tahmil etmeyeceği için, taraflar ancak verdiklerini karşılıklı olarak haksız iktisap hükümleri uyarınca geri alabilirler. Bu bağlamda alıcı taraf satıcıdan ancak ödediği bedelin iadesini isteyebilir. Aracın alıcıda kaldığı dönem için kullanma bedeli kira, ecrimisil adı altında talepte bulunulamaz. Satıcı taraf ise sadece aracın iadesini isteyebilir. Satış bedelinin satıcıda kaldığı süre için faiz istenemez.
 
 ## Sakarya BAM 5. HD 2023/1550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964339900)
 
 Dava, harici araç satım sözleşmesi nedeniyle aracın davalı adına olan mülkiyet kaydının iptali ile davacı adına tescili; bu mümkün olmadığı taktirde aracın güncel bedelinin tahsili istemine ilişkindir.
 
@@ -256,6 +322,8 @@ Trafikte kayıtlı araçların satış sözleşmesinin KTK'nın 20/d. maddesine 
 Geçersiz sözleşmelerde; 6098 sayılı TBK'nın 77-82. maddeleri gereğince, sebepsiz zenginleşme hükümlerine göre, taraflar karşılıklı olarak, ancak verdiklerini geri alma hakkına sahiptirler. Sebepsiz zenginleşmeden söz edilebilmesi için, bir tarafın mal varlığının diğer tarafın malvarlığı aleyhine çoğalması gerekir. Sebepsiz zenginleşmeden söz edilebilmesi için; bir taraf zenginleşirken diğerinin fakirleşmesi, zenginleşme ve fakirleşme arasında uygun nedensellik bağının bulunması ve zenginleşmenin hukuken geçerli bir nedene dayalı olmaması gerekir. Buna göre, sebepsiz zenginleşme; geçerli olmayan veya tahakkuk etmemiş yahut varlığı sona ermiş bir nedene ya da borçlu olunmayan şeyin hataen verilmesine dayalı olarak gerçekleşebilir.
 
 ## İstanbul BAM 3. HD 2022/463 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/730279000)
 
 19.02.2016 tarihli adi "araç satış protokolü" başlıklı belge ile ... plaka sayılı aracın esnaf kefalet kooperatifine olan kredi borcu düştükten sonra 125 bin TL'nin natik olarak kapatılacak şekilde 200 bin TL satış bedeli karşılığı satıcı ... tarafından alıcı ...'ya satılarak teslim edildiği, sözleşmenin Kurtuluş korkmaz, ..., ... tarafından şahit sıfatıyla imzalanmış olduğu, davalı tarafından senet örneklerinin sunulduğu, senet örneklerine göre keşidecinin ... olan 19/02/2016 keşide tarihli düzenleme yeri İstanbul olan kefili (avalisti) ... olan ödeme tarihi 15/03/2016 olan 125.000,00 TL bedelli lehtarı ... olan senet ile bedeli 75.000 TL olan ödeme günü belirtilmeyen 19.02.2016 düzenleme tarihli senetler olduğu görülmektedir. Dava konusu araç satış sözleşmesinin resmi şekilde düzenlenmemiş olması nedeniyle, 2918 Sayılı Karayolları Trafik Kanunu'nun 20/d maddesi uyarınca geçersiz olduğu anlaşılmakta olup, bu tür geçersiz sözleşmelerde taraflar sözleşme uyarınca birbirlerine verdiklerini sebepsiz zenginleşme hükümleri uyarınca geri isteme hakkına sahiptirler.
 Geçersiz sözleşmeler taraflarca hak ve borç tahmil etmeyeceği için, taraflar ancak verdiklerini karşılıklı olarak haksız iktisap hükümleri uyarınca geri alabilirler. Bu bağlamda alıcı taraf satıcıdan ancak ödediği bedelin iadesini isteyebilir. Aracın alıcıda kaldığı dönem için kullanma bedeli kira, ecrimisil adı altında talepte bulunulamaz. Satıcı taraf ise sadece aracın iadesini isteyebilir. Satış bedelinin satıcıda kaldığı süre için faiz istenemez. Somut olayda taraflar arasında araç satış sözleşmesi yapıldığı, dava konusu senetlerin ise satış sözleşmesi gereğince davalıya verildiği konusunda ihtilaf yoktur. Davalı, aracın davacıya tesliminden sonra uğradığı kazanç kaybı, trafik cezaları gibi uğradığı zararları ancak davacıya yönelteceği dava ile talep etmesi mümkündür. Davalının cevap dilekçesi içeriğine gör, davacının borçlu olduğunun tespitini talep etmekle beraber usule uygun şekilde açtığı karşı dava bulunmamakta olup, bu talebi yönünden de tefrik kararı verilmiştir. Mahkemece bu yönler gözetilerek verilen karar usul ve yasaya uygundur.

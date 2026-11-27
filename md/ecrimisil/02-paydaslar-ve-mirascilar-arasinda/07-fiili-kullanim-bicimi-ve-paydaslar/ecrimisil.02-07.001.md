@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2020/706 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615700300)
+
 Dava, paydaşlar arasında ecrimisil talebine ilişkindir.
 
 …
@@ -33,6 +35,8 @@ Tüm bu açıklamalar kapsamında somut olaya gelindiğinde; dava konusu 282 par
 
 ## Yargıtay 8. HD 2025/6242 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179400600)
+
 Buna göre; taraflar arasındaki uyuşmazlık, kullanım kadastrosu tespit tarihinde fiili kullanımın birleşen dosyanın davacısı ...'de olup olmadığı noktasında toplanmaktadır. Dosya kapsamına göre, çekişmeli taşınmazın evveli olan 406 parsel sayılı taşınmazın, noterde düzenlenen 1995 tarihli satış vaadi sözleşmeleri ile davacı ... tarafından, ... mirasçılarından satın alındığı ve üzerine yapı inşa edildiği, ... Dairesi Başkanlığı tarafından Beykoz Belediyesine yazılan 09.09.2009 tarihli yazıda, 775 sayılı Gecekondu Kanunu'nun 18 inci maddesi gereğince 08.10.2009 tarihinde taşınmaz üzerindeki apart odalar, toplantı odası, havuz ve diğerlerinin yıkıldığının, kullanımsız hale getirildiğinin ve boş olarak ... Müdürlüğüne teslim edildiğinin belirtildiği ve yine 08.04.1993 - 08.10.2009 tarihlerini kapsayan döneme olarak ilişkin işgalci ... adına ecrimisil ihbarnamesi gönderildiği ve bu ihbarnamenin iptali için açılan İstanbul 9.
 İdare Mahkemesinin 2010/445 Esas sayılı dava dosyasında 23.09.2010 tarihinde yapılan keşifte, taşınmazda beş adet tek odalı kulübenin, iki adet yapının ve bazı unsurlarının yıkılmış olduğu, sahanın etrafının duvarla çevrili olması ve giriş-çıkışların kontrol altında tutulması nedeniyle sahanın ...'in kullanımında olduğunun belirlendiği anlaşılmaktadır.
 
@@ -40,10 +44,14 @@ Buna göre; taraflar arasındaki uyuşmazlık, kullanım kadastrosu tespit tarih
 
 ## Yargıtay 7. HD 2025/262 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126784500)
+
 Yargıtay 8.Hukuk Dairesince: “ihtilafın, taraflar arasındaki 19.03.2003 tarihli protokolün 3. maddesinin uygulanabilirliği noktasında toplandığı, taraflarca her ne kadar ilgili maddede, aralarında rızai taksim yapmak suretiyle paydaşı oldukları meskenin davalıya devri kararlaştırılmış ise de tarafların yine paydaş oldukları Muğla'da bulunan taşınmazlar hakkında aynı protokolün 2. maddesindeki rızai taksimin uygulanması amacıyla açılan davada yapılan yargılama neticesinde Bodrum 2.
 Asliye Hukuk Mahkemesinin 2013/251 Esas ve 2014/163 Karar sayılı ilamıyla, taraflarca söz konusu taşınmazlar hakkında ortaklığın giderilmesi davası açılmış olmakla rızai taksim konusundan rücu edildiği gerekçesiyle davanın reddine karar verildiği, dosya kapsamındaki tüm bilgi, belge, taraflar arasında imzalanan protokülün içeriği, 9 No.lu mesken yönünden açılmış ecrimisil ve ortaklığın giderilmesi davalarının varlığı birlikte değerlendirildiğinde 19.03.2003 tarihli protokolün 3. maddesinin uygulanma imkanının kaldığından söz edilemeyeceği, Mahkemece davanın açıklanan nedenlerle reddine karar verilmesi gerekirken protokol hükümlerine göre tapu iptali ve tescile karar verilmesinin hatalı olduğu” gerekçesiyle karar bozulmuş, davacı vekilinin karar düzeltme başvurusu reddedilmiştir.
 
 ## Yargıtay 7. HD 2023/496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896654800)
 
 Yargıtay 1. Hukuk Dairesince :
 
@@ -59,12 +67,16 @@ gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 8. HD 2021/4998 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668989100)
+
 1579, 135 ada 8 ve 135 ada 11 ve 491 parsel sayılı taşınmazları muris ... adına kayıtlıyken cebri ihale ile davalı ... adına tescil edildiği bilahare ifrazı ile 2380 ve 2381 parsel sayılı taşınmazlara dönüştüğü, davaya konu 135 ada 7 ve 12 parsel sayılı taşınmazların ise muris ... adına kayıtlı olduğu, muris ...'nın 04.01.2003 tarihinde, eşi olan ...'nın ise 17.10.1994 tarihinde ölümüyle geriye mirasçı olarak davacı ve davalıların kaldığının anlaşılmakta olduğu, tarafların dava konu taşınmazlarda paydaş olup somut olayda, davalıların rızai taksim yapıldığına yönelik savunmada bulundukları halde, mahkemece davalıların savunması üzerinde durularak bu hususun açıklığa kavuşturulmuş olmadığı, bu nedenle gerekli araştırma ve incelemenin yapılması, taraf delillerinin eksiksiz toplanması, çekişme konusu taşınmazları hangi davalının ne şekilde tasarruf ettiğinin kuşkuya yer bırakmayacak şekilde açıklığa kavuşturulması, davacıların dava konusu taşınmazlarda kullandığı veya kullanabileceği bir bölüm bulunup bulunmadığı hususunda araştırma ve inceleme yapılması, özellikle mirasçılar arasında rızai ve fiili taksim yapıldığına yönelik tanık beyanları arasındaki çelişkinin giderilmesi ve hasıl
 olacak sonuca göre bir karar verilmesi gerekirken noksan soruşturma ile yetinilerek yazılı olduğu üzere hüküm kurulmasının doğru olmadığı, kabule göre de; bilirkişilerce ilk dönem (14.07.2006 yılı) ecrimisil miktarı belirlenerek, sonraki yıllar için ise ÜFE artış oranı uygulanmak suretiyle takip eden dönemler için ecrimisil miktarı hesap edilerek bu miktar üzerinden ecrimisile hükmedilmesi gerekirken bu hususun da gözetilmeksizin yazılı şekilde karar verilmiş olması da doğru olmadığı şeklindeki gerekçelerle Mahkeme kararının bozulmasına karar verilmesi üzerine, Mahkemece bozmaya uyulması kararı verilerek yargılamaya devam edilmiş, bozmadan sonra taşınmazlar yanında alanında uzman bilirkişilerle yeniden keşif yapılmamış ve taraf tanıkları duruşmada dinlenerek ve bozmadan önceki keşifte bulunan bilirkişilerden ek rapor alınmıştır.
 
 Bozmadan sonra yapılan yargılama neticesinde Mahkemece, bozma kararı uyarınca yapılan araştırma ve inceleme ile toplanan delillere göre, davalıların rızai taksim yapıldığına yönelik savunmalarının huzurda dinlenen tanık beyanları ile doğrulandığı, davacıların dava konusu taşınmazlarda kullandığı veya kullanabileceği bölümlerin belirlendiği, mirasçılar arasında fiili taksim yapıldığı, hakkaniyete uygun paylaşım yapılmadığını ya da söz konusu paylaşımda kendisine payından az yer verildiğini ileri süren paydaş yönünden uyuşmazlığın çözümü için ecrimisil davası değil kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davasının açılması gerektiği, davacı tarafça dava konusu taşınmazların fiilen paylaşılmadığı hususunun ispatlanamadığı şeklinde açıklanan gerekçelerle davanın reddine karar verilmesi üzerine, hükme karşı davacılar vekili tarafından temyiz talebinde bulunulmuştur.
 
 ## Yargıtay 8. HD 2021/314 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642578300)
 
 Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 
@@ -73,6 +85,8 @@ Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 Hal böyle olunca; anne İmat’ın öldüğü 30.05.2012 tarihi itibariyle 5 kardeşin kaldığı, taraflar arasındaki 25.04.2007 tarihli yazılı kullanım anlaşmasına göre; davalı ...’ın anne İmat’tan gelecek paydan feragat ettiği göz önüne alındığında annenin kullanımına bırakılan 172 ada 7 parsel ve 120 ada 7 parsel üzerinden elde edilen gelirlerin 4 paya bölünüp onun üzerinden ecrimisile hükmedilmesi gerekirken, 3 paya bölünerek yazılı şekilde hüküm kurulması doğru olmamıştır.
 
 ## Yargıtay 8. HD 2020/7183 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641862100)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -83,6 +97,8 @@ kullandığı veya kullanmasına müsait bir kısmın olup olmadığı belirlene
 
 ## Yargıtay 8. HD 2020/4307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596713600)
+
 Dava elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -91,9 +107,13 @@ O halde, mahkemece tarafların iddia ve savunması üzerinde durularak, paydaşl
 
 ## Yargıtay 8. HD 2020/2057 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/586352600)
+
 Taşınmaz üzerine inşa edilen binada paydaş sayısınca daire ve her bir paydaşın payı kadar kullanabileceği yer bulunduğu diğer bir ifadeyle tüm paydaşları bağlayan fiili kullanım biçiminin oluştuğu açık olup, davalılardan Tamer'in de diğer davalıların kiracısı olduğu belirlendiğine göre elatmanın önlenmesi ve ecrimisil davasının koşulları oluşmadığından reddine karar verilmesi gerekirken yazılı şekilde ret kararı verilmiş olması doğru olmamıştır. Ne var ki bu husus yeniden yargılamayı gerektirmediğinden HUMK'un 438/son maddesi uyarınca davanın reddine ilişkin kararın gerekçesinin açıklanan şekilde değiştirilerek ve düzeltilerek onanmasına karar verilmiştir.
 
 ## Yargıtay 14. HD 2020/363 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593182500)
 
 Dava, önalım hakkından kaynaklanan tapu iptali ve tescil istemine ilişkindir.
 
@@ -107,6 +127,8 @@ Hukuk Dairesince istinaf kanun yolu başvurusunun kabulüne, kararın kaldırıl
 
 ## Yargıtay 8. HD 2019/11650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571471700)
+
 Dava; paydaşlar arası elatmanın önlenmesi ve ecrimisile ilişkindir.
 
 …
@@ -118,6 +140,8 @@ Bu nedenle Mahkemece elatmanın önlenmesi yönünden dava konusu taşınmazın 
 
 ## Yargıtay 8. HD 2019/8796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648796100)
+
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -126,10 +150,14 @@ Hal böyle olunca, davalının kullanım şekli dikkate alındığında Mahkemec
 
 ## Yargıtay 16. HD 2018/2534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421556200)
+
 3402 sayılı Yasa'nın Ek-4. maddesi, "6831 sayılı Yasa'nın 20.06.1973 tarihli Kanunla değişik 2. maddesinin (B) bendine göre ... ... komisyonlarınca ... adına ... sınırları dışına çıkarılan yerler, fiili kullanım durumları dikkate alınmak ve varsa üzerindeki muhdesatın kime veya kimlere ait olduğu ve kim veya kimler tarafından ne zamandan beri kullanıldığı, ... tutanağının beyanlar hanesinde gösterilmek suretiyle bu Kanun'un 11. Maddesinde belirtilen askı ilanı hariç diğer ilanlar yapılmaksızın öncelikle kadastrosu yapılarak ... adına tescil edilir" hükmünü taşımaktadır. "Kullanım kadastrosu" olarak isimlendirilen bu çalışmanın amacı, 2/B sahalarını, fiili kullanım durumlarını dikkate alarak parsellere ayırmak ve bu taşınmazları 2/B alanı olarak ... adına tescil ederken, taşınmazlar üzerinde tespit günü itibariyle fiili kullanımı bulunanları ve muhdesatları tespit ederek tapunun beyanlar hanesinde göstermektir. Bu maddeye dayanılarak açılacak davalarda kabul kararı verilebilmesi için öncelikle davacı tarafın taşınmazı kullandığının ispat edilmesi gerekmektedir.
 Diğer bir anlatımla, kullanım kadastrosu sırasında beyanlar hanesinde kullanıcı olarak gösterilebilecek kişiler, ... tespiti sırasında çekişmeli taşınmazı ekonomik amacına uygun olarak fiilen asli zilyet olarak kullanan kişilerdir. Somut olayda, davacılar ... ve ...'ın taşınmazdaki zilyetliklerine ilişkin delil olarak ecrimisil ihbarnamelerini sundukları, söz konusu ecrimisil ihbarnamesine ek krokiye göre, ecrimisile konu olan taşınmazın çekişmeli taşınmaz olmayıp, çekişmeli taşınmaz bölümünün boş alan olarak gösterildiği, bu hususun keşif sonrası dosyaya ibraz edilen uzman teknik bilirkişi raporu ile de belirlendiği, keşifte dinlenen mahalli bilirkişiler ile tespit bilirkişilerinin taşınmazın davacılar ... ve ...'ın kullanımlarının bulunmadığı yönündeki beyanları birlikte değerlendirildiğinde çekişmeli taşınmazda davacıların kullanımlarının bulunmadığı anlaşılmaktadır. Hal böyle olunca; mahkemece davanın reddine karar verilmesi gerekirken çekişmeli taşınmazın davacı ... ve ...
 
 ## Yargıtay 1. HD 2017/5470 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378274800)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -143,6 +171,8 @@ Hal böyle olunca, mahkemece, dava konusu taşınmazın niteliği ve kullanım b
 
 ## Yargıtay 1. HD 2017/1958 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/356986200)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -151,10 +181,14 @@ Hal böyle olunca, öncelikle yukarıda belirtilen ilkeler doğrultusunda tarafl
 
 ## Yargıtay 16. HD 2016/6607 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/226633800)
+
 Dava; 3402 sayılı Kanun'a 5831 sayılı Kanunu'nun 8. maddesi ile eklenen Ek-4. maddesine göre yapılan kadastro tespitine itiraz niteliğindedir. Mahkemece çekişmeli taşınmazın fiiili kullanıcısı ... mirasçılarının davayı kabul etmeleri ve taşınmazın davacı ...'in fiili kullanımında bulunduğu gerekçesiyle yazılı şekilde karar verilmişse de varılan sonuç dosya kapsamı ile usul ve yasaya uygun değildir. 3402 sayılı Yasa'nın Ek-4. maddesi ile 6831 sayılı Yasa'nın 20.06.1973 tarihli kanunla değişik 2. maddesinin (B) bendine göre orman kadastro komisyonlarınca adına orman sınırları dışına çıkarılan yerlerin, fiili kullanım durumları dikkate alınmak ve varsa üzerindeki muhdesatın kime veya kimlere ait olduğu ve kim veya kimler tarafından ne zamandan beri kullanıldığı, kadastro tutanağının beyanlar hanesinde gösterilmek suretiyle, bu Kanun'un 11. maddesinde belirtilen askı ilanı hariç diğer ilanlar yapılmaksızın öncelikle kadastrosu yapılarak adına tescil edileceği hükme bağlanmıştır. Bu maddeye dayanılarak açılacak davaların kabul edilebilmesi için davacı tarafın taşınmazda fiili kullanımının olduğunun kanıtlanması zorunludur.
 Somut olayda, mahkemece taşınmaz başında yapılan keşif sonrası dosyaya ibraz edilen ziraat bilirkişi, orman bilirkişi ve harita bilirkişi tarafından hazırlanan 11.08.2014 tarihli ortak raporda taşınmazın %35 eğimli olduğu, bitki örtüsü olarak 10-60 yaş arasında değişen kızılçam ağaçları ile ve değişik türde çalı ve maki elemanları ile kaplı olup eylemli orman vasfında olduğu ve herhangi bir kullanımın bulunmadığının belirtilmiş olmasına göre davacı ...'in sırf ecrimisil ödemelerine dayanarak ve ... mirasçıları dahili davalıların “davayı kabul” beyanlarına dayanılarak dava kabul edilmişse de çekişmeli taşınmazın davacının fiili kullanımı olmadığından davanın reddine karar verilmesi gerekirken kabulüne karar verilmesi isabetsizdir.
 
 ## Yargıtay 1. HD 2016/5825 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205537700)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -164,6 +198,8 @@ Hâl böyle olunca; mahkemece, dava konusu taşınmazın niteliği ve kullanım 
 
 ## Yargıtay 1. HD 2016/4214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203483800)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -171,6 +207,8 @@ Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 Hâl böyle olunca, konunun uzmanı bilirkişiler ile yerinde keşif yapılarak dava konusu taşınmazda tüm paydaşları bağlayan fiili kullanım biçiminin oluşup oluşmadığının araştırılması, oluşmuş ise hangi bölümün hangi paydaşa bırakıldığının belirlenmesi ve bu durumun bilirkişilerce krokilerinde işaretlenmesi ve davacının kullanımına bırakılan bölüme bir elatma var ise ecrimisil hesabı yapılması, eğer fiili kullanım biçiminin oluşmadığı saptanır ise de paylı mülkiyet hükümlerine göre payından az yer kullandığını iddia eden davacının davası dinlenemeyeceğinden davanın tümden reddi gerekirken noksan soruşturma ile yetinilerek yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2014/18257 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84417000)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -183,6 +221,8 @@ Bundan ayrı, taşınmazın getirdiği ürün itibariyle de, kendiliğinden olu�
 
 ## Yargıtay 6. HD 2014/7902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97578800)
+
 Dava, kira alacağının tahsili istemine ilişkindir.
 
 …
@@ -191,6 +231,8 @@ Olayımızda ; davacı mirasçı her ne kadar davaya konu kiralananın rızai ta
 Buna göre davada yer almayan ortakların (mirasçıların) davaya olurlarının alınması yada miras şirketine Türk Medeni Kanununun 640. maddesi uyarınca atanacak temsilci aracılığı ile davanın sürdürülmesi gerekirken yazılı şekilde davalı ile muris arasında kira ilişkisi bulunduğu belirtilerek davanın reddi doğru değildir.
 
 ## Yargıtay 1. HD 2014/3487 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84093200)
 
 Dava, paydaşlar arasında el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -202,6 +244,8 @@ doğru olmadığı “ gereğine değinilmiştir. Mahkemece bozma kararına uyul
 
 ## Yargıtay 1. HD 2014/2197 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84040100)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -209,6 +253,8 @@ Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece, d
 O halde, kötü niyetli şagilin ödemekle sorumlu olduğu tazminat olan ve en azı kira geliri en çoğu ise tam gelir yoksunluğu bulunan ecrimisilin, taşınmazın akaryakıt istasyonu olarak kullanım şekline göre davacıların payları dikkate alınarak belirlenmesi ve davalıların buna göre tespit edilecek ecrimisilden sorumlu tutulmaları gerekirken bu husus gözetilmeksizin taşınmazın boş arazi olduğu kabul edilmek suretiyle belirlenen eksik ecrimisil üzerinden kabul kararı verilmesi isabetsizdir.
 
 ## Yargıtay 1. HD 2013/15083 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79603700)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2011/6488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108957700)
+
 Dava, taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti istemine ilişkindir.
 
 …
@@ -28,6 +30,8 @@ Dava, taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti istemine ili�
 İddia ve savunmaya, duruşma tutanaklarına yansıyan bilgi ve belgelere, toplanıp değerlendirilen delillere ve hüküm yerinde gösterilen gerekçelere göre, mahkemece ortaklığın giderilmesi davasının görüldüğü Sulh Hukuk Mahkemesinde belirlenen muhdesat değerinin görevsizlik kararına esas alınmasında bir isabetsizlik bulunmamaktadır. Ne var ki, dava konusunun muhdesat değerinin davalı payına isabet eden bölümü olduğu gözetildiğinde, görev hususunun belirlenmesi yönünden esas alınacak değerin, muhdesatın toplam değeri olan 51.883,00 TL değil, davalının taşınmazdaki 84/96 payına isabet eden 45.397,62 TL olduğu kabul edilmelidir. Ancak bu halde dahi davaya bakmakla görevli mahkemenin Asliye Hukuk Mahkemesi olduğu kuşkusuzdur.
 
 ## Yargıtay 6. HD 2011/4924 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060484900)
 
 Dava, bir adet taşınmazdaki ortaklığın giderilmesi istemine ilişkindir.
 
@@ -38,6 +42,8 @@ Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil 
 Olayımıza gelince; dava konusu taşınmaz üzerinde bulunan ve taraflar arasında ittifaklı olan iki katlı bina niteliğindeki muhdesatın değeri belirlenmiş, ancak muhdesat bedeli arz bedeli oranlaması yapılmamıştır. Muhdesat bedeli ile arz bedeli ayrı, ayrı belirlenip oranlama yapılarak satışına karar verilmesi gerekirken, taşınmazdaki muhdesatın değeri belirlenmesine rağmen arza oranlaması yapılmadan satış kararı verilmiştir. Bu durumda mahkemece yapılacak iş yukarıda açıklandığı gibi iki katlı bina niteliğindeki muhdesatın oranı belirlenerek muhdesata isabet eden kısmın muhdesat sahibi paydaşlara ve taraflar arasında ittifaklı olmayan müştemilat niteliğindeki tek katlı bina ile arz değerinin ise payları oranında paydaşlara dağıtılması gerekirken bu yön üzerinde durulmadan yazılı şekilde karar verilmiş olması doğru değildir.
 
 ## Yargıtay 7. HD 2011/1566 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106574700)
 
 Dava taşınmaz üzerindeki muhdesatların aidiyetinin tespiti istemine ilişkindir.
 
@@ -50,17 +56,23 @@ Somut olaya gelince, mahkemece taraf tanıkları dinlenmiş ise de, davacı tara
 
 ## Yargıtay 6. HD 2010/12631 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066512600)
+
 Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil de üçüncü şahsa ait olduğunun anlaşılması halinde bu kimseyi muhdesat sahibi olarak davaya dahil etme ve ona satış bedelinden pay verme mümkün değildir.
 
 Olayımıza gelince; dava konusu taşınmazlardan 423 nolu parsel üzerinde bulunan yeni ev ve ahır niteliğindeki muhdesatların davalılardan ...'a ait olduğu hususunda uyuşmazlık bulunmamaktadır. Muhdesatların değerleri belirlenmiş, ancak oranlama yapılmadan satış kararı verilmiştir. Bu durumda mahkemece yapılacak iş yukarıda açıklandığı gibi muhdesatların oranı belirlenerek muhdesata isabet eden kısmın muhdesat sahibi paydaşlara, arz değerinin ise payları oranında paydaşlara dağıtılması gerekir. Ayrıca yargılamada kendisini vekil ile temsil ettiren davalı vekili yararına vekalet ücreti takdir edilmemesi de doğru değildir.
 
 ## Yargıtay 6. HD 2010/10276 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061841700)
+
 Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil de üçüncü şahsa ait olduğunun anlaşılması halinde bu kimseyi muhdesat sahibi olarak davaya dahil etme ve ona satış bedelinden pay vermek mümkün değildir.
 
 Olayımıza gelince; dava konusu 116 ada 65 parsel sayılı taşınmaz üzerinde bulunan üç katlı kargir ev niteliğindeki muhdesatın paydaşlardan ...'na ait olduğu tapu kaydındaki şerhten anlaşılmaktadır. Nitekim bu husus mahkemenin de kabulündedir. Bu itibarla dava konusu taşınmazın ve üzerindeki muhdesatın değerinin ayrı ayrı tespit edilmesi belirlenen bu değerler toplanarak taşınmazın tüm değerinin bulunması bulunan bu değerin ne kadarının arz'a ne kadarının muhdesat'a isabet ettiğinin oran kurulmak suretiyle saptanması ve satıştan elde edilecek bedellerin saptanan bu oran dahilinde muhdesat bedelinin muhdesat sahibine, arz bedelinin tapu paydaşlarına payları oranında dağıtılması gerekirken, yazılı şekilde muhdesatın satışından elde edilecek bedelin tapu kaydı ve mirasçılık belgesindeki payları oranında taraflara verilmesi şeklinde karar verilmesi doğru olmadığından hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/6060 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643489200)
 
 Dava, dokuz adet taşınmazdaki ortaklığın giderilmesi istemine ilişkindir.
 
@@ -72,15 +84,21 @@ Olayımıza gelince; dava konusu ... nolu parsel üzerinde bulunan ve taraflar a
 
 ## Yargıtay 6. HD 2010/4265 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636114600)
+
 Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil de üçüncü şahsa ait olduğunun anlaşılması halinde bu kimseyi muhdesat sahibi olarak davaya dahil etme ve ona satış bedelinden pay verme mümkün değildir.
 
 Olayımıza gelince; dava konusu taşınmaz üzerinde bulunan 17 m2 yüzölçümündeki samanlığın davacı ...'e ve 29 m2 yüzölçümündeki samanlığın ise davalılardan ...'e ait olduğu konusunda taraflar arasında ittifak bulunmaktadır. Söz konusu iki adet samanlık niteliğindeki muhdesatların değerleri belirlenmiş, ancak oranlama yapılmamıştır. Muhdesat bedelleri ile arz bedeli ayrı ayrı belirlenip oranlama yapılarak satış kararı verilmesi gerekirken, taşınmaz üzerindeki muhdesatların değerleri belirlenmesine rağmen oran kurulmadan satış kararı verilmiştir. Bu durumda mahkemece yapılacak iş yukarıda açıklandığı gibi muhdesat oranı belirlenerek muhdesata isabet eden kısmın muhdesat sahibi paydaşlara, arz değerinin ise payları oranında paydaşlara dağıtılması gerekirken bu yön üzerinde durulmadan yazılı olduğu şekilde karar verilmiş olması doğru değildir.
 
 ## Yargıtay 3. HD 2010/2702 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964946100)
+
 Paydaşlardan biri yaptığı muhdesat bedelini sebepsiz iktisap hükümlerine göre isteyebilir. Sebepsiz zenginleşmede bir tarafın mal varlığının diğer tarafın malvarlığ aleyhinde çoğalması gerekir. Yani zenginleşme fakirleşmenin karşılığı olmalıdır. Başka bir anlatımla aralarında illiyet bağı bulunmalıdır. İade borcunun kapsamını belirlemede öncelikle fakirleşme ve zenginleşme zamanının tesbit edilmesi gerekir. Yıllarca evvel paydaşlardan biri tarafından vücuda getirilen ve onun tarafından kullanılıp yararlanılan muhdesat (bina, ... gibi) nedeniyle iade borçlusu ne zaman zenginleşmiş, alacaklısı ne zaman fakirleşmiş sayılacaktır? Sebepsiz zenginleşme borçlusunun bu muhdesatın yapıldığı anda ekonomik açıdan zenginleştiği, yapanın ise o anda fakirleştiği ileri sürülmez. Zira vücuda getiren paydaş tarafından kullanılan muhdesatın diğer paydaşlara herhangi bir katkısı kural olarak olmayacaktır. Ekonomik yönden zenginleşme ve fakirleşmenin taşınmazın şuyunun satış ücretiyle giderildiği anda gerçekleştiğinin kabulü gerekir.
 
 ## Yargıtay 18. HD 2008/8915 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878746400)
 
 Dava, taşınmaz mal ortaklığının giderilmesi istemine ilişkindir.
 
@@ -91,8 +109,12 @@ Bulunan tüm değer muhdesat bedeline ve arzın kıymetine ayrı ayrı oranlanar
 
 ## Yargıtay 1. HD 2008/3112 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78302000)
+
 Ne varki, davacının ihale ile taşınmazı satın aldığı, başka bir deyişle taşınmazdaki davalının payı ile üzerindeki mütemmim cüz niteliğindeki (TMK. 684. maddesi ) yapının yanı muhdesatının kaim bedellerini ihale dosyasında ödediği sabit bulunduğuna göre, eldeki davada muhdesat bedelinin mükerrer olarak ödetilmesine hükmedilmesi isabetsizdir. Davacının temyiz itirazı yerindedir. Kabulüyle, hükmün açıklanan nedenden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 12.3.2008 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 13. HD 2000/8356 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16283700)
 
 Bunun tesbitinde ise, davacının yaptığı bina ve eklentiler için hiçbir şekilde maliyet hesabı yapılmaksızın taşınmazın üçüncü kişiye satış tarihi itibariyle taşınmazın mevkii, konumu, imar durumu, satın alınmasındaki objektif amaç, taşınmaz üzerindeki muhdesatların alıcıya sağlayacağı muhtemel yarar ile varlığının getireceği muhtemel zarar gibi faktörler tek tek irdelenerek taşınmazın muhdesatlı gerçek sürüm değeri ile muhdesatlar yok farz edilerek gerçek sürüm değerleri ayrı ayrı saptanmakta bu yolla bulunacak iki değer arasında muhdesatları yapan lehine bir fark oluşmaz, değişik bir anlatımla taşınmaz üzerinde bulunan muhdesatların varlığı alıcı yönünden bir ekonomik değer taşımadığı için satım bedeline etki yapmıyor veya yapmayacak ise davalıların muhdesatlar nedeniyle zenginleşmelerinin olmadığı aksi halde iki bedel arasında muhdesatları yapan yönünden lehine bir fark oluştuğunda ise bu iki değerinin birbirine oranlanması, bu oranının üçüncü kişiye satış bedeline uygulanması suretiyle elde edilecek fark bedel kadar muhdasatlar nedeniyle arsa sahiplerinin zenginleştiği kabul edilmektedir.

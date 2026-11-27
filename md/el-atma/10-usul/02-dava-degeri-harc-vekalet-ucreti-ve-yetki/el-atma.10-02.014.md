@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2016/10863 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/281652400)
+
 Mahkemece davacı vekilinin tapu kaydının beyanlar hanesinde yazılı şerhin düzeltilmesi istemi konusuz kaldığı için esas hakkında karar verilmesine yer olmadığına, tapu iptal ve tescil talebinin kabulü ile; İmrahor mahallesi 769 parsel sayılı taşınmazın 20.12.2013 tarihli fen bilirkişirapor ve eki krokisinde (A) harfi ile gösterilen 1764,30 m² alanda davalıların paylarının iptali ile orman vasfında tapuya kayıt ve tescillerine, bu kısma yönelik davalıların müdahalesinin önlenmesine karar verilmiş, hüküm davalılardan ... tarafından temyiz edilmiştir.
 
 …
@@ -35,11 +37,15 @@ Yukarıda ikinci bentde açıklanan nedenlerle, davalı, ...’ın, elatmanın �
 
 ## Yargıtay 18. HD 2016/10127 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228536600)
+
 Ayrıca; 2942 sayılı Kamulaştırma Kanunu'nun 6487 sayılı Kanunla değiştirilen Geçici 6.maddesinin onikinci ve onüçüncü fıkraları 13.03.2015 tarihli Resmi Gazete'de yayımlanan Anayasa Mahkemesi'nin 13.11.2014 tarih, 2013/95 Esas ve 2014/176 Karar sayılı kararıyla iptal edildiğinden; 04.11.1983 tarihinden sonra el atılan taşınmazlar yönünden, kamulaştırmasız el atma nedeniyle açılan davalarda, mahkeme ve icra harçları ile her türlü vekalet ücretinin nispi olarak uygulanması gerektiğinden, harcın maktu olarak belirlenmis olması da bozma nedeni yapılmıştır.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2016/7508 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228585200)
 
 Davaya konu taşınmaza 2011 yılında el atıldığı anlaşılmakla, 2942 sayılı Kamulaştırma Kanununun 6487 sayılı Kanunla değiştirilen Geçici 6.maddesinin 12. ve 13. fıkraları 13.03.2015 tarihli Resmi Gazete'de yayımlanan Anayasa Mahkemesinin 13.11.2014 tarih ve .....sayılı kararıyla iptal edildiğinden, 04.11.1983 tarihinden sonra el atılan taşınmazlar için açılan davalarda, mahkeme ve icra harçları ile vekalet ücretinin nisbi olarak uygulanması gerektiği halde, mahkemece maktu harca ve maktu vekalet ücretine karar verilmesi, …
 
@@ -48,6 +54,8 @@ Davaya konu taşınmaza 2011 yılında el atıldığı anlaşılmakla, 2942 say�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/7298 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223288500)
 
 Dava, inançlı işlem hukuksal nedenine dayalı tapu iptal ve tescil, mümkün olmadığı takdirde bedel, birleşen dava ise; çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -67,6 +75,8 @@ Değinilen husus, karar düzeltme isteği üzerine yeniden yapılan inceleme son
 
 ## Yargıtay 5. HD 2016/7219 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/177307200)
+
 Dava, kamulaştırmasız el atılan taşınmazlar bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 Mahkemece davanın kabulüne karar verilmiş; hüküm, taraf vekillerince temyiz edilmiştir.
@@ -81,6 +91,8 @@ Mahkemece verilen kararın taraf vekillerinin temyiz itirazları doğrultusunda 
 
 ## Yargıtay 1. HD 2016/6351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228970500)
+
 Dava, elatmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 
 …
@@ -90,6 +102,8 @@ Ne var ki, elatmanın önlenmesi yönünden davanın açılmamış sayılmasına
 Davalıların temyiz itirazı açıklanan nedenlerden ötürü yerindedir. Kabulüyle, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/6222 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/229132900)
 
 Davacı maliki olduğu 1893 ada 1 parsel sayılı taşınmazdaki 4 nolu bağımsız bölümü 21.11.2008 tarihinde davalıdan satış suretiyle devraldığını ardından taraflar arasında 13.04.2009 tarihli gayrimenkul satış vaadi sözleşmesi tanzim edildiğini, sözleşmede belirtilen koşullarda anılan taşınmazı davalıya satmayı vadettiğini, aynı tarihte yerin davalıya teslim edildiğini, ancak, sözleşme koşullarını davalının yerine getirmemesi nedeniyle 01.12.2009 tarihinde gönderilen ihtarname ile sözleşmenin feshedildiğini ileri sürerek elatmanın önlenmesi ve ecrimisil isteklerinde bulunmuştur.
 
@@ -102,6 +116,8 @@ Davanın kısmen kabulüne ilişkin olarak verilen karar, Dairece; “.... daval
 .satıcı sözleşmeyi feshederse alıcı taşınmazın zilyetliğini teslim aldığı tarihten başlamak üzere tahliye edeceği tarihe kadar geçen süreler için aylık 480,00 TL kullanım bedelini satıcıya ödeyecektir” şeklinde hükme yer verdiklerine göre, taraflar arasındaki sözleşmenin bu hükmü gözetilerek kullanım bedeli ve ecrimisil hesabı yapılması gerektiğinde kuşku yoktur. Diğer taraftan, hükmün 2. bendinde, asıl alacak ve faiz miktarları belirlendikten sonra faize faiz yürütecek şekilde yeniden asıl alacağa tahsil tarihine kadar % 60 temerrüt faizi uygulanmasına karar verilmiş olması da isabetsizdir.” gerekçesiyle bozulmuş, mahkemece bozmaya uyularak yapılan yargılama sonunda, ecrimisil isteği yönünden davanın kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2016/5052 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228038400)
 
 Dava elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -121,6 +137,8 @@ Ne var ki, anılan bu hususlar yeniden yargılama yapılmasını zorunlu kılmad
 
 ## Yargıtay 18. HD 2016/4438 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/229469300)
+
 Kamulaştırmasız el koyma nedenine dayalı olarak açılan davalarda el atılma tarihi araştırılarak 09/10/1956 ile 04/11/1983 tarihleri arasında taşınmaza fiilen el konulduğu anlaşıldığı takdirde 11.06.2013 tarihinde yürürlüğe giren 6487 sayılı Yasa ile 2942 sayılı Kamulaştırma Kanununun değiştirilen Geçici 6. maddesinin 7. fıkrasında getirilen “Bu madde kapsamında açılan davalarda mahkeme ve icra harçları ile her türlü vekalet ücretleri bedel tespiti davalarında öngörülen şekilde maktu olarak belirlenir.” düzenlemesi karşısında harç ve vekalet ücretlerinin maktu olarak, el atma tarihinin 04/11/1983 sonrası olması halinde ise nispi olarak belirlenmesi gerekirken eksik inceleme ile hüküm kurulması, …
 
 …
@@ -128,6 +146,8 @@ Kamulaştırmasız el koyma nedenine dayalı olarak açılan davalarda el atılm
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/4400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204904800)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi istemine ilişkindir.
 
@@ -141,6 +161,8 @@ Tarafların temyiz itirazı açıklanan nedenlerden ötürü yerindedir. Kabulü
 
 ## Yargıtay 23. HD 2016/4085 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/238905800)
+
 Karar ve ilam harcı, maktu ve nispi olmak üzere iki çeşittir. (492 sayılı Kanun m.15,21). Bu anlamda davanın maktu veya nispi harca tabi olup olmaması, kural olarak dava konusunun para ile değerlendirilebilir olup olmamasına göre değişmektedir.
 
 Nispi harç, konusu belli bir değerle (para veya para ile değerlendirilebilen bir şey) ilgili davalarda, hüküm altına alınan değer üzerinden tarifedeki belli nisbete göre alınan harçtır (1 Sayılı Tarife, madde III/1-a). Maktu harç ise, konusu belli bir değerle tespit edilemeyen davalarda ve davanın reddine ilişkin kararlardan alınan harçtır (1 Sayılı Tarife, madde III/2-a). Harçlar Kanunu'nun 16/1. maddesinde değer ölçüsüne göre harca tabi işlerde (1) sayılı tarifede yazılı değerlerin; esas alınacağı öngörülmüş, 16/2. madde hükmünde ise, "müdahalenin men'i tescil ve tapu kayıt iptali gibi gayrimenkulün aynına taalluk eden davalarda gayrimenkulün değeri nazara alınır." hükmüne yer verilmiştir.
@@ -150,6 +172,8 @@ Nispi harç, konusu belli bir değerle (para veya para ile değerlendirilebilen 
 Mahkemece, asıl davada ... dışındaki davalılar yönünden el atmanın önlenmesi ve ecrimsil talebinin reddine, ... yönünden el atmanın önlenmesi talebinin kabulü ile davalının .... sayılı taşınmaz ve taşınmaz üzerinde bulunan muhtesatlara el atmasının önlenmesine, ecrimisil talebinin kısmen kabulüne, davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2016/3855 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/213139400)
 
 Davacılar, kayden paydaşı oldukları 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 22, 28, 29, 39, 40, 42, 43, 44 ve 46 parsel sayılı taşınmazları davalıların haksız kullandıklarını, bir kısım davalıların dava dışı ...'ye yaptıkları pay satışının açtıkları ön alım davası sonucunda iptal edilmesi ile büyük paydaş haline geldiklerini, ancak davalıların şehir dışından getirdikleri adamlar ile cebir, şiddet ve silah kullanımı sonucunda arazilerini kullanmalarına mani olduklarını, daha önce açtıkları elatmanın önlenmesi davası ile intifadan menin sağlandığını ileri sürerek elatmanın önlenmesine ve 10.000,00 TL ecrimisilin tahsiline karar verilmesi isteğiyle eldeki davayı açmışlar, yargılama sırasında, ecrimisil taleplerinden, davalılar ... ve ...'e yönelik davalarından ve 16 ile 22 parseller bakımından davadan feragat ettiklerini bildirmişlerdir.
 
@@ -168,6 +192,8 @@ Davacılar ve davalı ...'nin bu yönlere değinen temyiz itirazları yerindedir
 
 ## Yargıtay 5. HD 2016/1758 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/160044700)
+
 6487 sayılı Yasanın 21. maddesi ile 2942 sayılı Kamulaştırma Kanununun başlığı ile birlikte değiştirilen geçici 6. maddesinin 13. fıkrasının Anayasa Mahkemesi’nce iptal edildiği ve dava konusu taşınmaza 04.11.1983 gününden sonra el atıldığı anlaşılmakla, nispi harç ve nispi vekâlet ücretine hükmedilmesi gerektiğinden, …
 
 …
@@ -175,6 +201,8 @@ Davacılar ve davalı ...'nin bu yönlere değinen temyiz itirazları yerindedir
 Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2015/22478 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/127124700)
 
 Bu durumda; 04.11.1983 tarihinden sonraki döneme ilişkin el atmalarda nispi harç ve nispi vekalet ücretine hükmedilmesi gerekmekte olup ,mahkemece de bu husus gözetilerek hüküm altına alınan bedel üzerinden nispi vekalet ücreti ve nispi harca karar verildiği dikkate alınarak hükmün onanması gerekirken yasa gereği düzeltilerek onama yapıldığı anlaşıldığından, …
 
@@ -184,17 +212,23 @@ Taraf vekillerinin temyiz itirazı yerinde olmadığından usul ve yasaya uygun 
 
 ## Yargıtay 18. HD 2015/18658 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/195020300)
+
 Bundan ayrı olarak; 2942 Sayılı Kamulaştırma Kanununun 6487 sayılı Kanunla değiştirilen geçici 6.maddesinin onikinci ve onüçüncü fıkraları 13.03.2015 tarihli Resmi Gazetede yayımlanan Anayasa Mahkemesinin 13.11.2014 tarih, Esas 2013/95 ve 2014/176 Karar sayılı kararıyla iptal edildiğinden; 04.11.1983 tarihinden sonra elatılan taşınmazlar yönünden, kamulaştırmasız elatma nedeniyle açılan davalarda, mahkeme ve icra harçları ile her türlü vekalet ücretinin nispi olarak uygulanması gerektiği dikkate alınarak mahkeme kararının bozulması gerekmiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/18256 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/195729000)
+
 Bundan ayrı olarak 11.06.2013 tarihinde yürürlüğe giren 6487 sayılı Yasa ile 2942 sayılı Kamulaştırma Kanununun değiştirilen Geçici 6. maddesinin 7.fıkrasında 04.11.1983 tarihinden önce el atılmış taşınmazlar için getirilen “Bu madde kapsamında açılan davalarda mahkeme ve icra harçları ile her türlü vekalet ücretleri bedel tespiti davalarında öngörülen şekilde maktu olarak belirlenir.” ve 10.fıkrasında getirilen “Bu madde hükümleri karara bağlanmamış veya kararı kesinleşmemiş tüm davalara uygulanır.” düzenlemeleri karşısında maktu harç ve vekalet ücreti takdir edilmesi gerektiğinin düşünülmemesi bozmayı gerektirmiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/14764 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390434700)
 
 Bilindiği üzere, Harçlar Kanunu harç alınması veya tamamlanmasını yanların isteklerine bırakmamış, değinilen yönün mahkemece kendiliğinden (re'sen) gözetilmesini ve harcın yatırılmaması halinde de ne gibi bir mukteza tayin edileceğini 30. ve 32. maddelerinde hükme bağlamıştır. Buna göre, mahkeme sırasında tespit olunan değerin, dava dilekçesinde bildirilen değerden fazla olduğunun anlaşılması halinde yalnız o celse için davaya devam olunacağı, harç tamamlanmadıkça davaya devam olunamayacağı ve yargı işlemlerinden alınacak harçlar ödenmedikçe müteakip işlemlerin de yapılamayacağı hükümlerine yer verilmiştir.
 Somut olayda, mahkemece çekişme konusu taşınmazların keşfen belirlenen değeri üzerinden harcın tamamlanması için 10.12.2013 ile 16.01.2014 tarihli duruşmalarda davacı tarafa ikincisi kesin olmak üzere iki kez süre verilmiş, buna rağmen davacı tarafça harç tamamlanmadığından elatmanın önlenmesi isteği bakımından HMK. nin 150. maddesi gereğince davanın açılmamış sayılmasına karar verilmişse de, yukarıda açıklandığı şekilde, öncelikle verilen süre içinde harç ikmali yapılmadığından elatmanın önlenmesi bakımından HMK'nin 150. maddesi gereğince dosyanın işlemden kaldırılması, üç aylık süre içinde yenilenmediği taktirde elatmanın önlenmesi isteği bakımından davanın açılmamış sayılmasına karar verilmesi gerektiği kuşkusuzdur.
@@ -205,11 +239,15 @@ Tarafların bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hük
 
 ## Yargıtay 1. HD 2015/14460 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389671700)
+
 Hemen belirtilmelidir ki; iddianın içeriği ve ileri sürülüş biçiminden, davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu; böyle bir davada, 6100 sayılı Hukuk Muhakemeleri Kanunu 120. (1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 413.) ve 492 sayılı Harçlar Kanunu'nun 16. maddeleri uyarınca dava değerinin ve buna göre alınacak harcın, elatılan yerin değeri ile istenilen ecrimisil miktarının toplamından ibaret olacağı kuşkusuzdur (4.3.1953 tarihli ve 10/2 sayılı İBK).Dosya içeriği ve toplanan delillerden, davanın, hükmedilmesi istenen ecrimisil miktarı üzerinden harç ödenmek suretiyle açıldığı, el atmanın önlenmesi yönünden harç yatırılmadığı gibi, yargılama sırasında da bu yönden harç ikmali yapılmadığı anlaşılmaktadır.
 
 Elatmanın önlenmesi isteği yönünden davacı harç yatırmadığından ve usulüne uygun açılmış bir dava bulunmadığından, ayrıca yargılama sırasında davalı tarafça dava değerine itiraz edilmediğinden davalının temyiz itirazları yerinden değildir. Reddine.Davacının temyiz itirazlarına gelince; dava dilekçesinde istenilen ecrimisil yönünden harç yatırılıp, elatmanın önlenmesi yönünden harç yatırılmadığından ve usulüne uygun bir dava bulunmadığından elatmanın önlenmesi bakımından davalı lehine vekalet ücretine hükmedilmesi doğru değildir.Davacı vekilinin temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 14.12.2015 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2015/13802 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/132419400)
 
 Davacı, 05.05.2000 tarihinde davacı kurum ile Sağlık Bakanlığı arasında imzalanan protokol ile mülkiyeti davacı kuruma ait olan ... Merkez .... ada 12 parsel sayılı işhanı vasfındaki taşınmazın kullanım hakkının, Milas Hastanesinin kullanım hakkına karşılık olarak 30 yıl süre ile Sağlık Bakanlığına devredildiğini, 5283 sayılı yasa ile kuruma ait sağlık tesislerinin S.. B..na devredildiğini, böylece 05.05.2000 tarihli protokolün de sona ermiş olduğunu, 20.02.2005 tarihinden itibaren de Van Milli Eğitim İl Müdürlüğü tarafından kullanılmakla olduğunu ileri sürerek elatmanın önlenmesi ve ecrimisil isteklerinde bulunmuştur.
 
@@ -224,6 +262,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 18. HD 2015/12411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/190380200)
+
 4-11.06.2013 tarihinde yürürlüğe giren 6487 sayılı Yasa ile 2942 sayılı Kamulaştırma Kanunu'nun değiştirilen Geçici 6. maddesinin 7. fıkrasıyla getirilen “Bu madde kapsamında açılan davalarda mahkeme ve icra harçları ile her türlü vekalet ücretleri bedel tespiti davalarında öngörülen şekilde maktu olarak belirlenir.” düzenlemesi karşısında 04.11.1983 tarihinden önce el atılan taşınmazlara yönelik davalarda karar ve ilam harcının maktu olarak alınması ve maktu vekalet ücretine hükmedilmesi gerektiğinin düşünülmemesi, …
 
 …
@@ -231,6 +271,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/9149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141396200)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -247,6 +289,8 @@ Kabul tarzı itibariyle de, elatmanın önlenmesi ve ecrimisil isteği üzerinde
 Davalı vekilinin temyiz itirazları yerindedir. Kabulüyle hükmün belirtilen nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/9111 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140889400)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -265,6 +309,8 @@ Bilindiği üzere, elatmanın önlenmesi ve ecrimisil davalarında dava değeri,
 Davacı vekilinin temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan nedenlere hasren (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/9004 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140850200)
 
 Dava, 2 parça taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 

@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2015/5617 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/137931100)
+
 H.. H.. adına, (B) harfi ile işaretli 11838,34 m2’lik bölümü 12 pay kabul edilerek 11/12 payı payları oranında A.. B.. mirasçıları adına, 1/12 payı H.. H.. adına tapuya tesciline karar verilmiş, hüküm H.. H.. ve Y.. B.. vekilinin temyizi üzerine, Dairenin 13/05/2013 tarih ve 2013/2931 E. - 2013/5484 K. sayılı kararıyla davacı Y.. B..ün 101 ada 71 parsel ile 72 sayılı parselin H.. H.. adına tesciline karar verilen 1/3 paya ilişkin temyizi yönünden yerinde görülmeyen temyiz itirazlarının reddi ile usûl ve kanuna uygun olan hükmün onanmasına, davalı H.. H..nin 101 ada 72 sayılı parselin Y.. K.. ve M.. K.. adına tesciline karar verilen 2/3 paya ilişkin temyiz itirazları yönünden mahkemenin 02.06.2010 tarihli davanın reddine ilişkin kararı, sadece davacı Y.. B.. tarafından temyiz edilmiş olup, davacılar M.. K.. ve Y.. K.. tarafından temyiz edilmediğinden kendileri yönünden karar kesinleşmiş olup, önceki hükmü temyiz etmeyen davacılar yönünden talepleri hakkında yeniden hüküm kurulması isabetsiz olduğuna, davacı Y.. B.. ve H..
 H..nin 101 ada 55 sayılı parsele ilişkin temyiz itirazları yönünden ise mahkemece, davalı taşınmazın (A) harfi ile işaretli bölümünün orman tahdit sınırları içinde kaldığından orman niteliği ile H.. H.. adına, (B) harfi ile işaretli bölümünün ise, davacı Y.. B..’ün murisi A.. B..’den kaldığı, ne var ki Milli Emlak Müdürlüğünce tahakkuk ettirilen ecrimisilin davacı Y.. B.. tarafından ödenmek suretiyle H.. H..nin üstün hakkının tanındığı, bu nedenle Y.. B..’ün 1/12 olan miras payının H.. H.. adına, kalan 11/12 payın ise A.. B..’ün diğer mirasçıları adlarına tapuya tesciline karar verilmiş ise de, mahkemenin kabulü yerinde görülmediğine, şöyle ki, hükme dayanak yapılan orman bilirkişi kurulu raporunda; çekişmeli taşınmazın elle çizilmek suretiyle gösterildiği tahdit haritasında kısmen tahdit içinde kaldığı açıklanmakla birlikte, Dairemizin geri çevirme kararı üzerine aynı orman bilirkişi kurulu tarafından düzenlenen rapor ekindeki aplikeli tahdit haritasında davalı taşınmaz, tahdidin dışında gösterilmiş olup taşınmazın orman olup olmadığı yönünde duraksama olmuştur.
 Bu durumda, karara dayanak alınan uzman orman bilirkişi tarafından düzenlenen rapor çelişkili olduğundan bu rapora dayanılarak hüküm kurulamaz. Diğer taraftan, davalı taşınmazın kök muris A.. B..’den kaldığı ve mirasının taksim edilmediği mahkemenin kabulündedir. Bu durumda, iştirak halinde mülkiyet hükümlerine tabi olan taşınmaz hakkında, mirasçılardan birisi olan davacı Y.. B..’ün tek başına ecrimisil ödemiş olmasının her hangi bir sonuç doğurmayacağı, taşınmazda belli bir payı bulunmadığından kendi payı yönünden H.. H..nin üstün hakkını tanıdığı sonucunun çıkarılamayacağı gibi, esasen böyle bir durumun zilyetlik kurumunun mahiyetiyle de bağdaşmayacağı, …
 
 ## Yargıtay 1. HD 2015/5568 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139632100)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -34,6 +38,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Ne var ki; çekişme konusu taşınmazda davacılar murislerinin payı üzerinde paydaş olduklarına göre elatılan bölüm yönünden davacıların payı oranında ve her bir davalının kullandığı alan belirlenerek sorumlu olacakları ecrimisilin hüküm altına alınması gerekirken davacıların pay oranları gözetilmeksizin ve davalıların kullandıkları alan ayrı ayrı belirlenmeksizin taşınmazın tamamı üzerinden hesaplanan toplam ecrimisilden davalıların müştereken ve müteselsilen sorumlu tutulmuş olması da doğru olmadığı gibi ecrimisilin belirlenmesinde davacılar tarafından 25/09/2009 tarihinde açılan tazminat davası da değerlendirilmeksizin sonuca gidilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2014/20225 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/338515300)
 
 Dava; ecrimisil isteğine ilişkindir.
 
@@ -45,9 +51,13 @@ Dava; ecrimisil isteğine ilişkindir.
 
 ## Yargıtay 1. HD 2014/19307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/301475000)
+
 Hal böyle olunca, normal koşullarda kira sözleşmesi yapılırken karşısındaki kişinin ehliyetsiz olacağı düşünülemeyeceğinden, bu durumda, iyiniyet asıl olup, dosya kapsamına göre davalının kötüniyetli zilyet olduğu kanıtlanamadığı anlaşıldığından, murisin ölüm tarihinden önceki döneme yönelik olarak açılan ecrimisil talebine ilişkin olarak asıl davanın bu nedenle reddine; birleştirilen dava yönünden ise, murisin ölümünden sonra tereke temsilcisi tarafından, 11.08.2010 tarihli ihtarnameyle kira bedellerinin artırılması, 23.08.2010 tarihli ihtarnameylede kira bedelinin ödenmesi isteğinde bulunulduğu gözetildiğinde ,bu durumun mirasçılar tarafından kira sözleşmesine muvafakat edildiği şeklinde değerlendirilerek, birleştirilen davanında bu sebeple reddine karar verilmesi gerekirken, yanılgılı değerlendirmeyle yazılı olduğu üzere karar verilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2014/15500 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84227900)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -56,6 +66,8 @@ Dava, ecrimisil istemine ilişkindir.
 Hal böyle olunca davacı tarafa taşınmazdaki pay-payda uyumsuzluğunu gidermesi için süre verilmesi davalı tarafın hangi tarihte taşınmaza müdahale ettiği saptanarak bu tarihten itibaren istek de gözetilerek ecrimisilin hesaplanması, taşınmazın paydaşlarından ölü Kemale'nin mirasçılarından H..B...nin sağ olup olmadığının, ölü ise tüm mirasçılarının davada yer alıp alamadığının belirlenmesi, sağ ise ya da mirasçıları davada yer almamış ise davacıların payı oranında ecrimisilin hüküm altına alınması gerekirken değinilen yönler gözardı edilerek yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2014/14300 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84434000)
 
 Dava; paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -69,6 +81,8 @@ O halde davacıların murisinin ölüm tarihinden (28.02.2009) dava tarihine (03
 
 ## Yargıtay 1. HD 2014/13854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/287742600)
+
 Dava; ecrimisil isteğine ilişkindir.
 
 …
@@ -76,6 +90,8 @@ Dava; ecrimisil isteğine ilişkindir.
 Bilindiği üzere; muvazaa nedenine dayalı olarak verilen kararlar yenilik doğurucu değil, açıklayıcı nitelik taşırlar.Bu suretle oluşan kararlara konu işlemler yapıldıkları tarihten itibaren yok hükmünde olup yapılmamış sayılırlar ve iptal hükmü geriye etkili olarak sonuç doğurur.TMK'nun 599. maddesi uyarınca murisin ölümüyle mirasçıların hak kazanacakları ilkesi geçerli olup ecrimisilin murisin ölüm tarihinden itibaren hesaplanması gerekir. Nevar ki ... 4.Asliye Hukuk Mahkemesinin 31.12.2012 gün 2009/571E-2012/606K sayılı dava dosyasında kesinleşen hükmün, temyize konu dava yönünden HMK'nin 303.maddesi uyarınca kesin hüküm oluşturduğu kuşkusuzdur.
 
 ## Yargıtay 1. HD 2014/10795 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84160700)
 
 Dava, paylı mülkiyette paydaşlar arasındaki ecrimisil isteğine ilişkindir.
 
@@ -87,6 +103,8 @@ Nevar ki, miras bırakan 06.11.1998 tarihinde ölmüş olup eldeki dava ise 12.0
 
 ## Yargıtay 1. HD 2014/10676 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84277500)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -96,6 +114,8 @@ Dosya içeriğinden ve toplanan delillerden; ; dava konusu 208 ada 72 parsel say
 Hemen belirtilmelidir ki, dava konu taşınmazda taraflar paydaştırlar. Paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan her zaman payına vaki elatmanın önlenilmesini ve/veya ecrimisil istiyebilir. Elbirliği mülkiyetinde de paydaşlardan biri öteki paydaşların olurlarını almadan veya miras şirketine temsilci atanmadan tek başına ortak taşınmazdan yararlanmasına engel olan ortaklar aleyhine ecrimisil davası açabilir. Ancak, o paydaşın, payına karşılık çekişmesiz olarak kullandığı bir kısım yer varsa açacağı ecrimisil davasının dinlenme olanağı yoktur. Yerleşmiş Yargıtay içtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorununu, kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir.
 
 ## Yargıtay 1. HD 2014/9686 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84246200)
 
 Dava, paylı mülkiyette paydaşlar arasındaki ecrimisil isteğine ilişkindir.
 
@@ -107,6 +127,8 @@ O halde davacıların murisinin ölüm tarihinden dava tarihine kadar olan döne
 
 ## Yargıtay 1. HD 2013/18446 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257274800)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -115,11 +137,15 @@ Bilindiği üzere; ecrimisil kötüniyetli zilyedin malike ödemekle yükümlü 
 
 ## Yargıtay 1. HD 2013/14550 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79636000)
+
 Hemen belirtmek gerekir ki, ecrimisil isteği ile davalı A.S. bakımından Dairenin onama kararında bir isabetsizlik bulunmadığı gibi, birleşen dava yönünden verilen bozma kararında da bir isabetsizlik yoktur. Ne var ki; çekişmeye konu 1 nolu bağımsız bölümün tapuda davacılar ile davalı A.'in miras bırakanı olan A.S.adına kayıtlı olduğu, murisin 24.11.2002 tarihinde öldüğü, geride mirasçı olarak davacılar, davalı A.ile dava dışı çocukları N. B.H. S.ile torunları İ. S. İ. S.ve İ.S.'ın kaldıkları, miras bırakan A. S.'ın sağlığında dava konusu yeri 01.02.2001 düzenleme ve başlangıç tarihli, 5 yıllık yazılı kira sözleşmesi ile davalı M. G.'e kiraya verdiği anlaşılmaktadır.
 
 Bu durumda, taşınmazı kiraya veren murisin ölümü ile davacı mirasçıların külli halefiyet yolu ile anılan kira sözleşmesi ile bağlı oldukları ve bu kira sözleşmesinden doğan hak ve yükümlülüklerin kendileri ile birlikte diğer mirasçılara geçtiği kuşkusuzdur.
 
 ## Yargıtay 3. HD 2012/25190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482675400)
 
 Tescil hukuki sebebe bağlı bir işlemdir. Diğer deyişle hukuki sebepten yoksun bir tescil yolsuz tescildir ve mülkiyetin intikalini sağlamaz (Saymen-Elbir, Türk Eşya Hukuku, İst.1954,sh.194; Oğuzman-Seliçi, Eşya Hukuku, İst.1982, sh.369; Gürsoy-Eren-Cansel, Türk Eşya Hukuku, Ank.1978, sh.261, 326, 381, 549). Tapuda malik gözüken davalı aslında gerçek malik olmayıp, tescil hukuki sebepten yoksun bulunduğundan gerçek malik davacıdır. Tapuda malik olarak davalının gözükmesi onun hukuki açıdan mülkiyet hakkını kazandığını göstermez. Taşınmazı teslim almış olan sadece ödediği bedeli kendisine iade edilinceye kadar hapis hakkına sahiptir.
 Teslim keyfiyeti mülkiyetin naklinde gözönünde tutulacak bir husus değildir.Taşınmazın mücerret teslimi ifa olarak kabul edilemez, ifa kabul edilirse o zaman eldeki ifa davasının anlamını izah mümkün olmaz.Tapu Sicilinin aleniyeti ilkesi karşısında taşınmazı teslim alırken o tarihte malikin kim olduğunu Tapu Dairesinde incelemeyen ve şekil, ehliyet bakımından yasanın aradığı koşulları ihtiva etmeyen hukuki işlem mutlak olarak geçersiz olup; bunu incelemeyen kimsenin Medeni Kanun'un 3.maddesi karşısında iyiniyetli olduğu da kabul edilemez.Tescile sebep teşkil eden akit muteber olmadığı durumlarda mülkiyetin intikal etmeyeceği ve tapunun ipteline ilişkin yargı kararlarının beyani (izhari) bir karar olduğu, inşai nitelikte olmadığı, tashih davasının bir tesbit davası bulunduğu hususu doktrinde de kabul edilmektedir (Gürsoy-Eren-Cansel, age, sh.333, 381, 1050). Bu bakımdan davalının tapusunun iptaline ilişkin karar kesinleştiği tarihe kadar davalıdan herhangi bir talep de bulunulmayacağı görüşüne de iştirak mümkün değildir.
@@ -127,11 +153,15 @@ Olayda gerçek bir bedel mukabilinde satış sözkonusu olmadığından, satış
 
 ## Yargıtay 3. HD 2012/22752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489193600)
+
 Dava konusu 9 parselin tapu kaydının incelenmesinde davacının murisi ... 'nın 3196/17608, davalı belediyenin ise 14412/17608 oranında paydaş oldukları ve davacının murisinin 13.07.1993 tarihinde vefatı ile eşi ... ve çocukları ... , ... , ... , ... (davacı) ve ... 'nın mirasçı olarak kaldığı, taşınmazın 3196/17608 hissesine iştirak halinde malik oldukları ve davacının 3/20 miras payına karşılık olarak ecrimisil talebinde bulunduğu anlaşılmaktadır.TMK.nun 995.maddesine göre, 08.03.1950 gün ve 22/4 sayılı Yargıtay İçtihadı Birleştirme Kararında da kabul edildiği gibi, başkasının taşınmazını haksız olarak kullanmış olan kötüniyetli kimse, o taşınmazı haksız olarak elinde tutmasından doğan zararı ve elde ettiği veya etmeyi ihmal eylediği semereleri tazmin ile yükümlüdür.
 
 TMK.'nun 640 ve 702.maddelerine göre, iştirak (elbirliği) halindeki mülkiyet kuralları gereğince miras ortaklığının tümüne ilişkin davaların bütün mirasçılar tarafından birlikte açılması veya davacı mirasçının kendi açtığı davaya tüm mirasçıların birlikte katılması gerekir. Bu durumda diğer mirasçıların davaya katılmasının (icazet verilmesinin) sağlanması veya terekeye temsilci tayin edilmesi gerekir.Ancak, davada davacının sadece kendi 3/20 miras payına karşılık ecrimisil talebinde bulunması nedeniyle iştirak halinde mülkiyette kendi payı ile ilgili tek başına tasarruf yetkisi bulunmadığı gibi, diğer mirasçıların paylarını da kapsamadığından diğer mirasçıların davaya katılması ya da terekeye temsilci atanması yoluyla davaya devam imkanı da bulunmamaktadır.
 
 ## Yargıtay 3. HD 2012/19911 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524133900)
 
 Dosyadaki bilgi ve belgelerden; tarafların mirasbırakanları olan baba ... ile anne ...’in davaya konu taşınmazlarda üst soylarının ölümü ile paydaş konumuna geldikleri, baba ...’ün 02.07.1995 tarihinde ölmesi üzerine tüm mirasçıların katılımı ile düzenlenen rızai taksim sözleşmesine göre anne ...’ye de pay verildiği, daha sonra anne ...’nin gerek üst soyundan gerekse kocası ...’den miras yoluyla gelen paylarının bir bölümünü 20.04.2000 tarihinde düzenlediği ölünceye kadar bakma sözleşmesi ile davalıya verdiği, bu sözleşme nedeni ile taraflar arasında ... Asliye Hukuk Mahkemesinde görülen 2001/205 E. sayılı dava sonucunda anne ...’ye ait payların ¼ ünün davacı, ¾ ünün ise davalı adına tesciline karar verildiği anlaşılmaktadır.TMK. Mad. 693’e göre; “Paydaşlardan her biri, diğerlerinin hakları ile bağdaştığı ölçüde paylı maldan yararlanabilir ve onu kullanabilir.”. Buna göre, her paydaşın, paylı mülkiyet konusu şeyin tamamı (veya bir kısmı) üzerinde yararlanma hakkı bulunmaktadır. Bu hak, ne mekân (yer), ne de zaman itibariyle sınırlandırılmıştır. Fakat paydaşlar, yasanın yalnızca her paydaşın kullanma ölçüsünü belirtmesi nedeniyle bu hususta değişik düzenlemeler getirebilirler.
 Bu nedenle, taşınmazın kullanma biçimi; tüm paydaşlar arasında varılan bir anlaşma ile belirlenmiş ya da fiili bir kullanma biçimi oluşmuş ve uzun süre paydaşlar bu durumu benimsemişlerse, kayıtla paylı, eylemsel olarak bağımsız bu oluşumun, tapuda yapılacak resmi taksime ve şüyuun satış suretiyle giderilmesine yahut o yerde imar uygulaması yapılmasına kadar korunması ahde vefa kuralının yanında Türk Medeni Kanununun 2. maddesinde düzenlenen iyiniyet kuralının da bir gereğidir. Açıktır ki, söz konusu yararlanma, ancak, diğer paydaşların haklarına saygı gösterildiği oranda hukuksal himaye görecektir. Nitekim anılan yasa maddesi de, yararlanma hakkının, “diğer paydaşların hakları ile bağdaştığı ölçüde” mevcut bulunduğunu kesin bir biçimde belirtmiştir.Paya uyan bir belirtme ve sınırlama olmadığı takdirde, her paydaşın, öbürlerine zarar vermemesi kaydıyla taşınmazı kullanma hakkı vardır.
@@ -140,19 +170,27 @@ Buna göre mahkemece; davaya konu edilen taşınmazlardan davalının kullanım�
 
 ## Yargıtay 3. HD 2012/19757 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526215600)
+
 Davada; vasiyetnameye konu taşınmaza; davalının vaki müdahalenin men'i ile, haksız kullanımı nedeniyle ecrimisil talep edilmiştir.Miras bırakanın, 07.02.2002 tarihli vasiyetnamesinde; “...ben öldükten sonra, (2/268) arsa paylı (4) bağımsız bölüm numaralı dükkanımın tamamının oğlum ...'un çocukları olan torunlarım ..., ... ve ... ...'a eşit hisseler nisbetinde kalmasını, vasiyet ediyorum” denilmektedir.Kural olarak, muris, ölüme bağlı tasarruf ile mirasçı atayabilir veya muayyen mal vasiyetinde bulunabilir (TMK.md; 516-517-519)TMK'nun 599/3 maddesi uyarınca atanmış mirasçılar, mirası, miras bırakanın ölümü ile kazanırlar. Bu kişiler Sulh Hukuk Mahkemesi tarafından kendilerine mirasçılık belgesi verilmesi ile vasiyetname konusu hakkın kendi adlarına geçirilmesini sağlayabilirler (Tapu Tüzüğü m.21).
 
 Ancak, TMK'nun 517.maddesi uyarınca; muayyen mal vasiyetinde ise; lehine mal vasiyet edilen, miras bırakanın ölümü ile ayni bir hak kazanmış olmaz. Şahsi bir hak kazanır. Başka bir anlatımla, vasiyet edilen mal, lehine mal vasiyet edilene doğrudan intikal etmez. Bu durumda, lehine mal vasiyet edilen, şahsi hakka dayanarak, vasiyetnamede lehine vasiyet edilen malın adına tescili için vasiyetnamenin tenfizi davası açması gerekir.Somut olayda, sözü edilen vasiyetname ile muayyen mal vasiyetinde bulunulmuştur. Davacılar, öncelikle dava konusu taşınmazın adlarına tescilini (açacakları vasiyetnamenin yerine getirilmesi (tenfizi) davası ile) sağlamalılar, bundan sonra (taşınmazın mülkiyeti adlarına geçtikten sonra) davalının, taşınmazı; halâ kullanmaya devam ettiğinden bahisle iş bu men'i müdahale ve ecrimisil talepli davayı açmaları gerekir.
 
 ## Yargıtay 1. HD 2012/15723 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242998000)
+
 Davanın kısmen kabulüne ilişkin olarak verilen karar Dairece;Davada elatmanın önlenmesi isteği yanında ecrimisil isteğide bulunmaktadır. Davalı ...'nin çekişmeli taşınmazda elatma olgusu sabit olmakla birlikte yargılama sırasında öldüğünden, ölen tarafın mirasçılarının davayı mecburi dava arkadaşı olarak hep birlikte takip etmeleri zorunlu olup, mirasçıların bazılarına tebligat yapılarak bazılarana da, somut olayda olduğu üzere tebligat yaptırmadan davayı yürütemezler.Somut olayda...nin bir kısım mirasçılarına karşı davanın yürütülmesini istememişler ve onlar hakkındaki davadan feragat etmişlerdir. Öyle ise ....mirasçıları bakımından sürdürülmesi olanaklı bir davadan bahsedilemez Buna göre... mirasçılarından ... aleyhine davanın sürdürülmesi ve hüküm kurulması elbirliği hükümlerine aykırılık teşkil eder. Bu kurallar gereğince ecrimisil isteği bakımından davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulmasının doğru olmadığı '' gerekçesiyle bozulmuş, Mahkemece bozmaya uyularak yapılan yargılama sonucunda davalı ... yönünden davanın kabulüne, davalı ... aleyhinde açılan davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2012/14059 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79481800)
+
 Diğer taraftan; davacı D... ve davalı B... kardeş olup, kabul kapsamındaki 732, 670, 744 ve 786 parsel sayılı taşınmazların ortak murisleri Ş...’ten intikal ettiği; Ş...’in 1984 yılında öldüğü ve davalının anılan taşınmazları çok uzun süredir ekip biçmek suretiyle kullandığı, davacı D...’in bu kullanıma ses çıkarmadığı ve davalıya herhangi bir biçimde ihtar keşide etmediği dosya kapsamıyla sabittir. O halde, davalının tasarrufunun onaya dayalı olduğu ve dava açılmakla muvafakatın geri alındığı gözetilerek, davacı D...’in ecrimisil isteminin reddine hükmedilmesi gerekirken, yanılgılı değerlendirmeyle yazılı biçimde karar verilmiş olması da isabetsizdir.
 
 ## Yargıtay 3. HD 2012/12811 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/561231100)
 
 TMK. nun 702/2. maddesi bu yönde açık hüküm getirmiştir. Ancak, açıklanan kural yargısal uygulamada kısmen yumuşatılmış, terekedeki hakların korunması için bir ortağın tek başına dava açabileceği, ne var ki, davaya devam edebilmesi için öteki ortakların olurlarının alınması veya miras şirketine atanacak temsilci aracılığı ile davanın sürdürülmesi gerektiği kabul edilmiştir (11.10.1982 tarih 1982/3-2 sayılı İçtihadı Birleştirme Kararı). Nitekim bu görüş bilimsel alanda da aynen benimsenmiştir.Uyuşmazlık konusu olayda; davacılar, mirasbırakandan intikal eden taşınmaza, (paydaş bulunmayan) davalıların el attığını ileri sürerek ecrimisil istemiştir. Ecrimisil davası, “terekedeki hakların korunması” ile ilgili olmayıp, “terekedeki taşınmazdan yararlanmaya” yönelik bulunmaktadır. Böyle bir durumda elbirliği mülkiyetine tabi olan bir mal veya hakka ilişkin davaların, mirasçıların (ortakların) hepsi tarafından veya hepsine karşı birlikte açılması zorunludur. Davaya diğer mirasçıların katılması (olurlarının alınması) veya TMK. nun 640/3 maddesi uyarınca miras ortaklığına temsilci tayin edilmek suretiyle davaya devam edilmesi mümkün değildir.
 
@@ -160,12 +198,16 @@ Yapılan bu açıklamalar ışığında dosya incelendiğinde; davaya konu edile
 
 ## Yargıtay 3. HD 2012/11562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550101200)
+
 Kural olarak ecrimisil, kötüniyetli şagilin ödemekle yükümlü bulunduğu bir tür tazminattır. İyiniyetli olmayan zilyed, geri vermekle sorumlu olduğu şeyi haksız alıkoymuş olması (işgali) nedeniyle hak sahibine verdiği zarar ile elde ettiği veya elde etmeyi ihmal ettiği semereler karşılığını tazmin etmek zorundadır. (TMK.md.995).
 
 Öte yandan tescil hukuki sebebe bağlı bir işlemdir. Diğer bir deyişle hukuki sebepten yoksun olan veya murisin mirasçılardan mal kaçırmak kastıyla muvazaalı olarak yaptığı devir ve tesciller geçersiz olup, mülkiyetin intikalini sağlamazlar. Muvazaalı bir işlemle tapuda malik olan kişinin iktisabı iyiniyetli sayılmaz. Muvazaa sonucunda tapuda malik olarak davalının gözükmesi onun hukuki açıdan gerçek malik olduğunu göstermez. Bu tür devir ve temliklerde gerçek malik murisin ölüm tarihinden itibaren onun mirasçılarıdır. Bu nedenle kendisinden mal kaçırılan mirasçı, murisin ölüm tarihinden dava tarihine kadar ecrimisil isteyebilir. (HGK 31.12.2008 gün ve 2008/3-726 E.-734 K.sayılı ilam) O halde, mahkemece tapu iptal ve tescile ilişkin ... 2.
 Asliye Hukuk Mahkemesinin 2009/302 Esas sayılı dava dosyası sonucu beklenip, hüküm kesinleştikten sonra yukarıda açıklanan hususlar dikkate alınarak toplanacak delillere göre bir karar verilmelidir.Eksik inceleme ve yazılı gerekçe ile davanın reddi doğru olmayıp, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/9576 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78956100)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tüm mirasçılar adına tescil, ecrimisil olmadığı takdirde tenkis isteklerine ilişkindir.
 
@@ -175,10 +217,14 @@ Ne varki; miras bırakanın 14.09.2005 tarihinde öldüğü ve T.M.K.'nun 599. m
 
 ## Yargıtay 3. HD 2012/8479 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592950600)
+
 Karşı davada; terekeye ait ...'daki yazlık villanın da davalı (k.davacı) tarafından kullanıldığı ileri sürülerek, ecrimisil talep edilmiştir. Bu konuda bir inceleme ve araştırma yapılmaksızın karar verilmiş olması da doğru görülmemiş, bozmayı gerektirmiştir. Gerekçesiyle” mahkeme kararı bozulmuştur.Davalı-k.davacı vekilinin, 23.02.2012 tarihli karar düzeltme talebi nedeniyle, bu kez yapılan incelemede; karşı davada, ecrimisile konu taşınmazlarla ilgili belirtilen harcamalar bedeli 19.169,30 TL ile tereke için vekilin yaptığı işler bedeli 2.680,00 TL ve davalının (k.davacının) terekeye ait bodrumdaki tripleks villayı kullanması bedeli 10.500 TL olmak üzere toplam 32.349,30 TL den, davalının (k.davacının) ½ hissesine düşen miktarın 16.408,35 TL'nin tahsilinin talep edildiği; mahkemece, ispatlanamaması nedeniyle davanın reddedildiği anlaşılmaktadır.
 Ecrimisil davasına konu taşınmazları kullanan veya kiraya vererek gelir elde eden hissedar, bu taşınmazlarla ilgili yaptığı (emlak vergisi, onarım ve bakım giderleri vs. ile ilgili) harcamaları, kendisinden talep edilen ecrimisil bedelinden takas ve mahsubunu isteyebileceği gibi, karşılık dava yoluyla vekaletsiz iş görme hükümlerine dayalı olarak alacağın tahsilini de talep edebilir. Mahkemece, bu hususta bilirkişi incelemesi yaptırılarak alacağın varlığı ve miktarı saptanıp, oluşacak sonuç dairesinde hüküm kurulması gerekirken, yanılgılı değerlendirme ve eksik inceleme sonucu, taleplerin bu davada dava konusu yapılamayacağından ve davanın ispatlanamadığından bahisle reddi doğru görülmemiştir. Ne var ki, temyiz incelemesinde; karşı davacının, tereke ile ilgili yaptığı harcama ve alacak kalemleri yönünden mahkemece verilen red kararının zuhulen (sair temyiz itirazları reddedilmek suretiyle) onandığı görülmüştür.
 
 ## Yargıtay 1. HD 2012/4407 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79554700)
 
 Öte yandan; davalıların taşınmazları elden çıkardıkları tarih itibariyle mevcut nitelikleri gözetilerek belirlenecek gerçek değerin tazminat hesabına esas alınması gerektiği de kuşkusuzdur. Ayrıca hemen ifade edilmelidir ki, muris muvazaası hukuksal nedenine dayalı açılan davalar nedeniyle verilen kararların inşai olmayıp, açıklayıcı nitelikte olduğunda kuşku yoktur. Buna göre, özellikle Türk Medeni Kanununun 599. maddesi hükmü uyarınca, murisin ölümü ile mirasçıların tereke üzerinde hak sahibi olacakları gözetildiğinde; murisin ölüm tarihinden taşınmazların elden çıkarıldıkları tarihe kadar olan süreç için ve davalıların her birinin malik olarak göründükleri bağımsız bölümlerin mevcut özellikleri itibariyle ecrimisilin belirlenerek, her bir davalının, murisin ölüm tarihinden itibaren üzerlerine kayıtlı bağımsız bölümlerin getireceği ecrimisilden, davacıların miras payları oranında davacılara karşı müstakilen sorumlu olacaklarının nazara alınması ve bu konudaki isteklerin de gözetilmesi suretiyle bir karar verilmesi gerektiği de tartışmasızdır.
 
@@ -186,9 +232,13 @@ O halde, yukarıda değinilen hususlar dikkate alınmaksızın noksan soruşturm
 
 ## Yargıtay 3. HD 2012/2187 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594275300)
+
 Dava konusu taşınmazın ½ hissesi davacıya, diğer ½ hissesi ise davacının kardeşi davalıların murisi ...'e aittir. Davalıların davacının rızası ile 1984 yılından beri bu evde yaşadıkları anlaşılmaktadır. Davacı alzhemir hastası olan eşinin bu evin iki odasında yaşamasını istemiş, davalılar ise rıza göstermemişlerdir. Davacı, bunun üzerine 11.05.2009 tarihinde... Sulh Hukuk Mahkemesinin 2009/158 esas sayılı ortaklığın giderilmesi davası açtığı ve taşınmazın satılarak ortaklığın giderilmesine karar verildiği, kararın temyiz edilmeden kesinleştiği anlaşılmaktadır. Davacının açmış olduğu ortaklığın giderilmesi davasının dava dilekçesinin davalılara tebliğ edildiği tarih itibariyle intifadan men koşulu gerçekleştiğinden ecrimisil hesabının bu tarihten dava tarihine kadar hesap edilerek hüküm altına alınması gerekirken yanlış değerlendirme sonucunda davanın reddine karar verilmiş olması bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 5. HD 2011/19259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028145000)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -197,6 +247,8 @@ Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil is
 Taşınmazın tapu kaydı ve muris Mehmet Ağun'un veraset ilamı uyarınca hak sahiplerinden Hakkı Ağun'un davacı olmadığı gözetilerek, davacılara ödenmesi gereken yer bedeli 140.535-TL, ecrimisil bedeli 27.534,00-TL olduğu halde, gerekçeli kararda Mehmet Ağun'un bütün mirasçıları dava açmış gibi fazla bedelin verilmesi gerektiği, gerekçe kısmında yazılması doğru değilse de, taleple bağlı kalınarak hüküm kurulduğundan bu eksiklik bozma nedeni yapılmamıştır.
 
 ## Yargıtay 7. HD 2011/8400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110908200)
 
 Dava; taşınmaz üzerinde bulunan muhtesatın mülkiyetinin tespiti istemine ilişkindir.
 
@@ -207,15 +259,21 @@ Muhtesat tespiti davalarında iddianın yazılı belge ile ispatı zorunluluğu 
 
 ## Yargıtay 3. HD 2010/19950 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970899300)
+
 Ancak dava, mirasbırakan ...’ın terekesine atanan temsilci tarafından açılmıştır. Diğer bir anlatımla, davaya konu taşınmazlarda paydaş olan mirasbırakanın payına isabet eden ecrimisil talep edilmiştir. Bu nedenle, davalının belirlenecek ecrimisilin 13/56 sından sorumlu olması gerekirken, ecrimisil tutarının tamamının davalıdan tahsiline karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2010/17908 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968006500)
 
 İştirak halinde mülkiyet kuralları gereğince, miras şirketinin (terekenin) tümüne ilişkin davaların bütün mirasçılar tarafından birlikte açılması gerekir (TMK.md640/2).
 
 Buna göre, davacıların açtığı ecrimisil davasının yürütülebilmesi için davanın tüm paydaşlar tarafından açılması ya da muvafakatlarının sağlanması veya TMK.nun 540. maddesi gereğince terekeye mümesil tayini ... aranmalıdır. Davanın yasaya uygun biçimde iştirak hali sağlanmadığı için reddi gerekirken, mahkemece, davalının taşınmazı kullanmadığı ve yanlış kişi aleyhine dava açıldığından bahisle davanın reddine karar verilmesi doğru değilse de sonuç itibariyle kurulan hükümde bir isabetsizlik görülmediğinden gerekçe değiştirilerek hükmün onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 1. HD 2010/1914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78763400)
 
 Dava, kat irtifakı kurulu taşınmazdaki mesken vasıflı bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -227,6 +285,8 @@ Ne var ki, davacıların murisinin sağlığında dava açmamış olmasının da
 
 ## Yargıtay 1. HD 2010/985 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78606000)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -236,9 +296,13 @@ Kabulüyle, hükmün HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşi
 
 ## Yargıtay 14. HD 2009/7674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845751700)
+
 Mirasçılık belgesine göre ortak mirasbırakan 30.04.1985 yılında ölmüştür. Taraflar dışında başkaca mirasçıları da bulunmaktadır. Bu saptamaya göre davacının da yapıda miras yoluyla geçen payı bulunmaktadır. Mahkemece, ecrimisil isteminde olduğu gibi elatmanın önlenmesi isteminin de miras payı oranında kabulü gerekirken bu yönün gözden kaçırılması doğru olmamış, kararın bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2006/4182 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855262500)
 
 Uyuşmazlık konusu yer dava dışı kilise vakfı tarafından davacılar miras bırakanı ... ve davalı ...’e 15.8.1981 başlangıç tarihli sözleşmesi ile belli bir kira bedeli karşılığı kullanılmak üzere terk edilmiştir. Anılan sözleşme adi kiraya ilişkin bulunduğundan sorunun çözümünde adi kirayı düzenleyen Borçlar Kanununun 248 ve devamı maddelerinden yararlanılması zorunludur. Gerçekten, yasanın 260 maddesindeki kiracının temerrüdü, 261 maddesindeki kiracının iflası nedenleri ileri sürülerek fesih istenmedikçe 263. maddedeki düzenleme gereğince adi kira ilişkisi gayri muayyen bir müddet için yenilenmiş sayılır. Her ne kadar davacıların miras bırakanı, kiracı ... 1988 yılında ölmüş ise de gerek mirasçıları gerekse kiralayan yasanın öngördüğü mehillere uyarak fesih ihbarında bulunmadığından kiracının ölümü de sözleşmenin kendiliğinden feshi sonucunu meydana getirmez. Başka bir anlatımla, davacıların murisi ... ve davalı ...’in kiracı sıfatı ile kiralayan Rum Ortadoks Kilise Vakfı ile imzaladıkları 15.8.1981 başlangıç tarihli kira sözleşmesi geçerlidir.
 Kilise tarafından daha sonra 1.1.1992 ve 1.1.2002 başlangıç tarihli sözleşmeler ile çekişmeli taşınmazın davalı ...’e onun tarafından da alt kiracı ...’e kiralanmış olması yarışan şahsi haklardan önceki tarihli olanın geçerli sayılacağı kuralı uyarınca davacıların kiracılık hakkını etkilemez. Bu durumda mahkemece 15.8.1981 tarihli sözleşme ile kiralanandan davacıların miras bırakanı ... ile davalı ...'in ve müştereken yararlandığı gözetilerek, davacıların 1/2 payına vaki davalı ... ve diğer davalının elatmasının önlenmesine ve koşulları yerinde bulunursa hesaplattırılacak ecrimisil tahsiline karar verilmesi yerine davanın yazılı bazı gerekçelerle reddine karar verilmesi doğru olmamış bozmayı gerektirmiştir.

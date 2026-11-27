@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/2195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135033200)
+
 Davacılar vekili dava dilekçesinde özetle; Ankara ili, ..., ... 112203 ada 3 parsel sayılı taşınmaz üzerinden kamulaştırma yapılmaksızın enerji nakil hatları geçirildiğini ve bu hatların, taşınmazın kullanılmasını olanaksız hale getirdiğini, bu nedenle taşınmazın bedelinin davalı taraftan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -42,6 +44,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usu
 
 ## Yargıtay 5. HD 2025/2079 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135147200)
+
 Davacı vekili dava dilekçesinde özetle; Kocaeli ili, ........ ilçesi, .......Mahallesi 5408 parsel sayılı taşınmaza fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin tahsilini talep etmiştir.
 
 …
@@ -58,6 +62,8 @@ Hukuk Dairesinin 2021/692 Esas, 2021/8552 Karar sayılı kararı ile onandığı
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 1. HD 2025/1961 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148198400)
 
 Davacı Hazine vekili; mülkiyeti TMSF'ye ait ... ili, Merkez ilçesi, ... Mahallesindeki 907 ada 3 parsel sayılı taşınmazın bitişiğinde bulunan, Devletin hüküm ve tasarrufu altında olan 1.417,58 m2'lik alanın düğün salonu işletmeciliği yapılmak sureti ile davalı tarafından işgalen kullanıldığını ileri sürerek müdahalenin önlenmesine ve yapıların kâl'ine karar verilmesini istemiştir.
 
@@ -83,6 +89,8 @@ Davalının temyizi üzerine ve re'sen yapılan inceleme sonucu Mahkeme kararın
 
 ## Yargıtay 5. HD 2025/1820 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135486100)
+
 Davacı vekili 11.12.2023 havale tarihli dilekçesiyle, feragat nedeniyle reddine dair verilen kararda hükmedilen vekâlet ücretinin Avukatlık Asgari Ücret Tarifesi'nin 6 ncı maddesi gereği 500 TL olması gerektiğinden hükmün tavzih edilmesini talep etmiştir.
 
 …
@@ -99,6 +107,8 @@ Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul
 
 ## Yargıtay 7. HD 2025/1751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140779600)
+
 Diğer temyiz itirazlarına gelince; iddianın içeriği ve ileri sürülüş biçiminden davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu açıktır. Bu tür davalarda, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 120. maddesi ve 492 sayılı Harçlar Kanunu'nun 16. maddesi uyarınca dava değerinin el atılan yerin değeri ile talep edilen ecrimisil değerinin toplamından (4.3.1953 tarih 10/2 sayılı İçtihadı Birleştirme Kararı) ibaret olacağı ve belirlenen bu değer üzerinden 492 sayılı Kanun'un 26, 27, 28, 30 ve 32. maddelerinde öngörüldüğü şekilde işlemlerin yerine getirilerek gerekli olan harcın alınacağı tartışmasızdır.
 
 Dava konusu 133 ada 4 No.lu parsel 5 No.lu bağımsız bölüme ilişkin müdahalenin men'i ve ecrimisil istemiyle davalılara karşı ayrı ayrı dava açılmışsa da aralarında hukuki ve fiili irtibat bulunması nedeniyle birleştirilerek karar verildiği, müdahalenin men'i istemine konu yerin tek bir bağımsız bölüme ilişkin olduğu, davaların bu yeri birlikte kullandıkları belirtilerek davanın kabul edildiği, ecrimisil isteminde ise davaların açılış tarihlerine göre dönemsel hesaplama yapılıp karar verildiği hâlde müdahalenin men'i yönünden tüm davalıların harç ve giderlerden müştereken ve müteselsilen sorumlu oldukları, ecrimisil talebi yönünden ise aleyhlerine hükmedilen miktar üzerinden harç ve yargılama giderlerinden sorumlu olacakları gözetilmeden mükerrer olacak şekilde aynı dava konusu yer üzerinden ayrı ayrı harç ve yargılama giderlerine hükmedilmiş olması doğru görülmemiştir.
@@ -108,6 +118,8 @@ Dava konusu 133 ada 4 No.lu parsel 5 No.lu bağımsız bölüme ilişkin müdaha
 Davalı ...'in temyiz itirazlarının kabulüyle temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/1474 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134021900)
 
 Davacı vekili dava dilekçesinde özetle; Ankara ili, ..., ......-İmar Mahallesi 112219 ada 1 parselde davacıların murisinin paydaş olduğunu, taşınmazın üzerinde enerji nakil hattı bulunduğunu, davalı ... Genel Müdürlüğü tarafından kamulaştırma yapılmaksızın enerji nakil hatları geçirildiğini ve bu hatların, taşınmazın kullanılmasını olanaksız hale getirdiğini ileri sürerek taşınmazdaki muris payının bedelinin davalı taraftan tahsiline karar verilmesini talep etmiştir.
 
@@ -127,6 +139,8 @@ Taraf vekillerinin tüm temyiz itirazlarının reddi ile usul ve kanuna uygun ol
 
 ## Yargıtay 5. HD 2025/1192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129492000)
+
 Davacı vekili dava dilekçelerinde özetle; müvekkiline ait olup 3194 sayılı İmar Kanunu’nun (3194 sayılı Kanun) 18 inci maddesi uygulaması yapılmaksızın yapı izni sürecinde önce kamu gücü kullanılarak kamu lehine terk yaptırılan alanın daha sonra ticari amaçla İstanbul ili, ........ ilçesi.......
 
 …
@@ -142,6 +156,8 @@ Başkanlığının bu davada davalı sıfatı bulunmadığından, davanın ... y
 Davalı ... vekilinin temyiz isteminin kabulü ile temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/1007 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139774500)
 
 Davacı vekili dava dilekçesinde özetle; İstanbul ili,...ilçesi, ...Mahallesi 172 parsel sayılı taşınmaza kamulaştırma yapılmaksızın el atıldığını belirterek tazminat bedelinin davalı idareden tahsilini talep etmiştir.
 
@@ -160,6 +176,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 5. HD 2025/949 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139407700)
+
 Davacı vekili dava dilekçesinde özetle; dava konusu İstanbul ili, ...,...Mahallesi eski 144 parsel sayılı taşınmaza davalı idare tarafından el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -175,6 +193,8 @@ Ancak; dava konusu taşınmaza 1983 sonrasında el atıldığından nispi vekâl
 Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/910 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135699100)
 
 Davacılar vekili dava dilekçesinde; Ankara ili,...ilçesi,...Mahallesi 15928 ada 2 parsel sayılı taşınmazın imar planında davalı idare tarafından "Okul Alanı" olarak belirlendiğini ve taşınmaza fiilen kamulaştırmasız el atıldığını, taşınmazın bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
@@ -194,6 +214,8 @@ de davalı idare harçtan muaf olduğundan bu husus eleştirilmekle yetinilmişt
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132272100)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın konusuz kalması nedeniyle esas hakkında karar verilmesine yer olmadığına karar verilmiştir.
 
@@ -216,6 +238,8 @@ Davalı ... vekilinin temyiz itirazlarının kısmen kabulü ile İlk Derece Mah
 
 ## Yargıtay 5. HD 2025/268 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132209000)
+
 Mahkemece uyulan bozma kararı uyarınca yapılan yargılama sonucunda davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -237,6 +261,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 5. HD 2024/10671 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123077800)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
 …
@@ -253,6 +279,8 @@ Davalı idare vekilinin temyiz itirazlarının kabulü ile Mahkeme kararının h
 
 ## Yargıtay 5. HD 2024/10653 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123073500)
+
 Davacı vekili dava dilekçesinde özetle; İstanbul ili, Küçükçekmece ilçesi, Altınşehir Mahallesi 1358 parsel sayılı taşınmazın imar planında ilköğretim tesis alanı olarak ayrılmak suretiyle el atıldığını, taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -268,6 +296,8 @@ Davalı idare vekili cevap dilekçesinde özetle; davanın belirsiz alacak davas
 Temyiz olunan, İlk Derece Mahkemesi kararına karşı istinaf başvurusunun esastan reddine ilişkin Bölge Adliye Mahkemesi kararının ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 5. HD 2024/10102 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122589400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın konusuz kalması nedeniyle karar verilmesine yer olmadığına karar verilmiştir.
 

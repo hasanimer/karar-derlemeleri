@@ -22,12 +22,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2014/16928 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107182600)
+
 Yargıtay'ın yerleşmiş uygulamalarında, tamamlanmış yapının fiili durumu ile onaylı projesi arasında aykırılıkların bulunması ya da yapının imara uygun ancak projesiz inşa edilmiş olması veya bir kısım bağımsız bölümlerin başlı başına kullanılmaya elverişli halde bulunmaması gibi kat mülkiyeti kurulmasına engel oluşturan eksikliklerin mevcut olduğu durumlarda bu eksikliklerin giderilip yasal koşullara uygun hale getirilmesi mümkün ise kat mülkiyetine çevrilmesi yoluyla ortaklığın giderilmesini isteyen tarafa tamamlattırılması gerektiği kabul edilmektedir.
 
 Bu bakımdan somut olayda; mahkemece öncelikle söz konusu 392 ada 1 parsel sayılı taşınmaz üzerindeki yapının onaylı projesinin olup olmadığı araştırılarak bulunduğu taktirde binanın bu projeye aykırı olduğu tespit edilmişse, ilgili belediyeden alınacak ön belgeye göre binanın mevcut durumunun bu projeye uygun hale getirilmesi durumunda sözü edilen projenin imar mevzuatına ve fenne aykırılık oluşturup oluşturmayacağının, başka bir ifade ile bu durumda projeye onay verilip verilemeyeceğinin saptanması ve belediye yetkililerinin uygun görmesi üzerine binanın bu projeye uygun hale getirilmesi için taraflara önel verilmesi, belediyenin cevabının olumsuz olması durumda ise yapının fiili durumunu yansıtan projenin (rolöve projenin) hazırlattırılması halinde bu projeye onay verilip verilmeyeceğinin araştırılması, bu konuda belediyeden olumlu yanıt alındığı taktirde proje hazırlattırılıp ilgili imar müdürlüğünün onayının ve buna bağlı olarak oturma izin belgesinin alınması için davalı tarafa süre verilmesi, ayrıca Kat Mülkiyeti Yasası'nın 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen tarafa yetki ve yeterli
 süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp taraflar arasındaki anlaşma durumu gözetilerek (anlaşma yoksa kura ile) her bir paydaşa düşen bağımsız bölümler ve gerekiyorsa bedel farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi, fotoğraf ve yönetim planı gibi belgeleri paydaşların (tanınan süreye rağmen) imzalamaktan kaçınması halinde bunların imzalanmış sayılması suretiyle araştırmanın tamamlanmasından sonra kat mülkiyetine geçiş yoluyla ortaklığın giderilmesi gerekmektedir. Bu koşulların oluşmaması halinde satış yoluna gidilecektir. Mahkemece, yukarıda açıklanan konularda yeterli inceleme ve araştırma yapılmadan dava konusu taşınmazın aynen paylaştırılmasına olanak bulunmadığı gerekçesiyle satılması suretiyle ortaklığın giderilmesine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2014/10591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105622600)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -42,6 +46,8 @@ Kabule göre de aynen taksim suretiyle ortaklığın giderilmesine karar verilme
 
 ## Yargıtay 14. HD 2014/8640 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105595900)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -50,6 +56,8 @@ Bu durumda mahkemece, dava konusu taşınmazın tarımsal niteliği ve aynen tak
 
 ## Yargıtay 14. HD 2014/5670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/354014800)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -57,6 +65,8 @@ Dava, ortaklığın giderilmesi isteğine ilişkindir.
 Somut olaya gelince; dava konusu 407 parsel sayılı taşınmazın ... kaydı incelendiğinde taşınmazın “kargir cami ve avlu” niteliğinde olduğu, taşınmazın üzerinde cami bulunduğu yapılan keşif ve bilirkişi raporundan anlaşılmaktadır. Bu durumda mahkemece kamu malı niteliğindeki cami ve müştemilatının bulunduğu kısım ile ilgili teknik bilirkişiye ifraz (taksim) projesi düzenlettirerek belediye encümeninden ifrazının mümkün olup olmadığı araştırılmalı, ifrazı mümkün ise caminin ve kullanım alanının bulunduğu kısmın ifraz edilerek bırakılması, geriye kalan kısım için ortaklığın giderilmesi karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2014/1120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105504200)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -70,6 +80,8 @@ Belirtilen bu huslar gözetilmeden eksik inceleme ile bilirkişi raporları aras
 
 ## Yargıtay 18. HD 2014/221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106530100)
+
 Bu bakımdan somut olayda da mahkemece öncelikle davaya konu... ada 6 parsel sayılı taşınmaz üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje mevcut değilse, ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara ya da projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması durumunda, öncelikle aykırılıkların giderilmesi daha sonra yapının fiili durumunu yansıtan projenin hazırlattırılıp, ilgili imar müdürlüğünün onayının ve buna bağlı olarak oturma izin belgesinin alınması, ayrıca Kat Mülkiyeti Yasasının 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı
 uzman bilirkişi aracılığıyla saptanıp varsa fiili taksime göre, taksim yoksa çekilecek kura ile önce her paydaşa birer bağımsız bölüm özgülendikten sonra arta kalan bağımsız bölümlerin pay oranları da gözetilmek suretiyle yine kura ile paydaşlara özgülenerek, gerekiyorsa bedel farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi, yönetim planı gibi belgeleri paydaşların (tanınan süreye rağmen) imzalamaktan kaçınması halinde bunların imzalanmış sayılması suretiyle araştırmanın tamamlanmasından sonra kat mülkiyeti kurulmak suretiyle ortaklığın giderilmesine; belirtilen koşulların oluşmaması durumunda ancak, satışa karar verilmesi gerekir.
 
@@ -77,11 +89,15 @@ Yukarıda açıklanan hususlar yerine getirilmeden yetersiz araştırma ve eksik
 
 ## Yargıtay 1. HD 2013/18268 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79487500)
+
 Şöyle ki; taşkın kısımların bulunduğu bölümlerin ifrazının mümkün olup olmadığı araştırılmadığı gibi, tecavüzün imar uygulaması neticesinde oluşup oluşmadığı da belirlenmiş değildir.
 
 Hal böyle olunca, öncelikle 2875, 2877 ve 2878 nolu parsellerin dava dışı paydaşları Araban Belediyesi ile C. D.'in davada yeralmalarının sağlanması, ondan sonra taşkın kısımların ifrazlarının mümkün olup olmadığının belirlenmesi, ifrazlarının mümkün olmadığı tespit edilir ise, yukarıda değinilen ilkeler çerçevesinde soruşturma yürütülerek tecavüzlü durumun imar uygulamasıyla oluşup oluşmadığının açıklığa kavuşturularak varılacak sonuç çerçevesinde karar verilmesi gerekirken noksan soruşturma ile yetinilerek yazılı olduğu üzere karar verilmiş olması doğru olmadığı gibi, yargılama sırasında davacıya ait parseller ile davalı İ.'e ait 2877 nolu parselde İmar Kanunu'nun 18. maddesi kapsamında imar düzenlemesi yapıldığı ve çalışmaların tamamlanarak dosyalarının Kadastro Müdürlüğüne gönderildiği ilgili Belediye tarafından bildirildiği halde, anılan imar uygulamasının neticesi değerlendirilmeden sonuca gidilmiş olması da isabetsizdir.
 
 ## Yargıtay 6. HD 2013/14317 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535151500)
 
 Dava, altı adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -93,6 +109,8 @@ Kabule göre de karar tarihi itibarıyla yürürlükte olan 492 Sayılı Harçla
 
 ## Yargıtay 14. HD 2013/10482 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/532615100)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -103,6 +121,8 @@ Onay makamından olumsuz cevap gelmesi halinde paydaşlığın (ortaklığın) s
 
 ## Yargıtay 14. HD 2013/10212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/531403500)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -111,9 +131,13 @@ Bu durumda mahkemece bilirkişi raporlarında ... Büyükşehir Belediyesi'ne ai
 
 ## Yargıtay 6. HD 2013/5045 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657686400)
+
 Dava konusu ... nolu parsele ait tapu kaydında 2941 sayılı yasanın 31/B maddesi gereğince DSİ tarafından kamulaştırma yapıldığına ilişkin şerh bulunmaktadır. Dosya arasında bulunan belge ve yazışmalardan taşınmazda DSİ tarafından kamulaştırma yapılıdğı anlaşılmakta olup,ziraat bilirkişi raporunda da “taşınmaz üzerinde DSİ tarafından yapılan sulama kanalı bulunduğu ve taşınmaza üçe böldüğü” bildirilmiştir. Bu durumda mahkemece öncelikle kamulaştırma işlemlerinin kesinleşip kesinleşmediğinin araştırılması, kesinleştiği takdirde kamulaştırma işlemi yapan idarenin de davaya dahil edilmesi,kamulaştırılan kısmın(sulama kanalının bulunduğu alanın) ifraz edilip edilemeyeceğinin araştırılarak ifrazı mümkün ise kamulaştırılan bu kısmın ifraz edilmesi ve sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile taşınmazın satışına karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/1403 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243910500)
 
 Dava, sekiz adet taşınmazın paydaşlığının giderilmesi istemine ilişkindir.
 
@@ -125,6 +149,8 @@ Dava konusu 495, 1304 ve 1305 parsellere ilişkin temyiz itirazlarına gelince; 
 
 ## Yargıtay 6. HD 2013/551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241904700)
+
 Dava, bir adet taşınmazdaki paydaşlığın aynen taksim edilerek giderilmesi istemine ilişkindir.
 
 …
@@ -135,6 +161,8 @@ Olayımıza gelince; dava konusu 892 parsel sayılı taşınmaz taraflar arasın
 
 ## Yargıtay 6. HD 2013/546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242201000)
+
 Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 
 …
@@ -142,6 +170,8 @@ Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 ... İdare Mahkemesi'nin 2009/1648-2011/321 sayılı, ... İdare Mahkemesi'nin 2009/1374-2011/380 sayılı ve ... İdare Mahkemesi'nin 2009/2192-2011/508 sayılı kararları ile, davalı taşınmazı kapsayan alanda yapılan parselasyon planı ve bu planın dayanağını oluşturan uygulama imar planının iptaline karar verildiği anlaşılmaktadır. Ancak, söz konusu idare mahkemesi kararları henüz temyiz aşamasında olup kesinleşmemiştir. Bu kararın bozulması ve durumun eski hale dönüşmesi mümkündür. Ayrıca imar planının iptali halinde taşınmazlardaki pay ve paydaş durumu değişebileceğinden bu davaların sonucunun bekletici mesele yapılması gerekir. Parselasyon planı ve dayanağını oluşturan imar planının iptaline ilişkin yargı kararlarının kesinleşmesinin beklenmesi ve sonrasında davaya konu ... ili ... İlçesi ... mahallesindeki 112275 ada 4 parsel sayılı taşınmazın imar planında değişiklik bulunup bulunmadığının ilgili belediyeden sorularak varsa değişikliğe dayanak işlem ve kararın getirtilerek sonucuna göre karar verilmesi gerekirken idare mahkemesi kararlarının kesinleşmesi beklenmeden yazılı şekilde karar verilmesi doğru olmadığından kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/12509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054680500)
 
 Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -153,6 +183,8 @@ Olayımıza gelince; dava konusu 219 ada 2 parsel sayılı taşınmaz tarla nite
 
 ## Yargıtay 6. HD 2012/12057 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060349800)
+
 Dava, bir adet taşınmaz ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -162,6 +194,8 @@ Mahkemece bu husus üzerinde durularak fen memuru bilirkişinin raporunda, kroki
 
 ## Yargıtay 6. HD 2012/11620 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058335000)
+
 Dava bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -169,6 +203,8 @@ Dava bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 Dava konusu edilen ve satışına karar verilen 292 nolu parselin tapu kaydının beyanlar hanesinde TEİAŞ lehine 2942 sayılı kamulaştırma kanununun 7. Maddesi gereğince şerh, Kepez ve... Havalesi Elektrik Santralları T.A.Ş. lehine irtifak hakkı ve tedbir şerhlerinin bulunduğu görülmüş olup mahkemece bu şerhler üzerinde durularak, kamulaştırma işlemlerinin kesinleşip kesinleşmediği, taşınmazda kamulaştırma nedeni ile ifraz edilecek kısım bulunup bulunmadığının araştırılması ve kamulaştırılan kısmın ifrazı için ilgilisine önel verilerek kalan kısmın ortaklığın giderilmesine karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/10152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054452000)
 
 Dava, 1 adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -179,6 +215,8 @@ Onay makamından olumsuz cevap gelmesi halinde paydaşlığın (ortaklığın) s
 Olayımızda; davaya konu 73 ada 2 parsel sayılı taşınmaz tapuda ... Fabrikası ve müştemilatı olarak kayıtlı olup 10420 m² büyüklüğündedir. 4.5.2009 tarihli Fen Bilirkişi raporunda üzerinde narenciye paketleme fabrikası olarak kullanılan bina ve kantar olan taşınmazın davacı ve davalıya ait paylara göre aynen ikiye bölünmek suretiyle taksiminin mümkün olduğu belirtilmiş ve buna ilişkin taksim projesi ... Belediyesince uygun görülerek taşınmazın taksim projesinde belirtildiği gibi 2 kısma ifrazının mümkün olduğu belirtilmiş ve mahkemece buna uygun olarak aynen taksime karar verilmiş ise de, düzenlenen ifraz krokisine göre fabrika binasının her iki bölünen parça üzerinde yer aldığı anlaşılmaktadır. Mevcut fabrika binasının bu şekilde, ifraz projesine göre bülünüp bölünemeyeceği konusunda uzman bilirkişiden görüş alınmamış olup mahkemece eksik inceleme ve araştırma ile karar verilmiştir. O halde sözkonusu fabrika binasının da bilirkişi tarafından hazırlanan taksim projesi kapsamında bölünüp bölünmeyeceğine ilişkin gerekli araştırma yapılarak, sonucuna göre karar verilmesi gerekirken yazılı şekilde hüküm tesisi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2012/9931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054349400)
 
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -193,6 +231,8 @@ Kabule göre, 492 Sayılı Harçlar Kanunu ve tarifesine göre, taşınmazlarda 
 
 ## Yargıtay 6. HD 2012/8603 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053821200)
+
 Dava, dört parça taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -203,9 +243,13 @@ Olayımıza gelince; dava konusu taşınmaz başında yapılan keşif sonrasınd
 
 ## Yargıtay 6. HD 2012/5022 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569975000)
+
 Ayrıca dava konusu taşınmazlardan ... ve ... parsel sayılı taşınmazlar 1/3 'er payla davacı ve davalılar adına kayıtlıdır. Mahkemece taşınmazlar başında yapılan keşif neticesinde düzenlenen bilirkişi raporunda, ... parsel nolu taşınmazın iki veya beş, ... parsel nolu taşınmazın ise iki parçaya aynen taksiminin mümkün olduğu bildirilmiş ve taksimle ilgili kroki düzenlenmiş ise de, yasal onay makamından görüş sorulmamıştır. Yukarıda açıklanan esaslar doğrultusunda, bilirkişi tarafından düzenlenen ifraz projesine göre taşınmazların aynen taksiminin mümkün olup olmadığı il idare kurulundan sorularak sonucuna göre karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde satış yönünden hüküm kurulması da isabetsizdir.
 
 ## Yargıtay 6. HD 2012/1000 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053531600)
 
 Onay makamından olumsuz cevap gelmesi halinde paydaşlığın (ortaklığın) satış suretiyle giderilmesine karar verilmesi gerekir.
 
@@ -214,6 +258,8 @@ Olayımıza gelince; dava konusu taşınmaz 818 parsel nolu taşınmaz susuz tar
 Kabule göre de taşınmazlar arasındaki değer farkının yarısı oranında ivaz ilavesi yapılması gerekirken tamamının ivaz alarak ilave edilmesi de doğru değildir.
 
 ## Yargıtay 6. HD 2011/13880 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059531700)
 
 Dava, dokuz adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -224,6 +270,8 @@ Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan
 Davaya konu 900 nolu parsel tapuda ... adına kayıtlıdır. Dosyada mevcut tapu malikinin mirasçılarını gösterir mirasçılık belgesinde yer alan mirasçısı ... (...) davada taraf olarak görülmemektedir. Bu nedenle mahkemece öncelikle mirasçı ... (...)'ın sağ ise kendisinin ölmüş ise mirasçıların davaya katılması ve böylece taraf teşkilinin tamamlanması gerekir. Ayrıca yine davaya konu 454 nolu parsele ilişkin tapu kayıtlarının beyanlar hanesinde ... Üniversitesi Rektörlüğü lehine kamulaştırma şerhi bulunmaktadır. Mahkemece bu şerhin mahiyeti üzerinde durularak kamulaştırma işlemlerinin kesinleşmiş olup olmadığının ilgili idareden sorulması, taşınmazın tamamı değil de bir bölümünün kamulaştırılması halinde kalan bölümün ifrazının mümkün olup olmadığının araştırılıp, ifrazın mümkün olması halinde geri kalan kısım için ortaklığın giderilmesine karar verilmesi gerekirken, bu hususlar üzerinde durulmadan bu parseller yönünden de satış kararı verilmesi doğru değildir.
 
 ## Yargıtay 18. HD 2011/11907 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804697200)
 
 Dava, taşınmaz mal ortaklığının giderilmesi istemine ilişkindir.
 

@@ -141,6 +141,8 @@ Bu durumda, Mahkemece yeniden konusunda uzman bilirkişiler eşliğinde keşif y
 
 ## Yargıtay 5. HD 2025/18015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206182000)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -163,6 +165,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 5. HD 2025/15444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197227400)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın ... yönünden ksımen kabulüne, davalı ... yönünden ise reddine karar verilmiştir.
 
 …
@@ -184,6 +188,8 @@ Davalı ... vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle 
 
 ## Yargıtay 7. HD 2025/2661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168978400)
+
 Davacı vekili dava dilekçesinde; müvekkiline ait ... ili, ... ilçesi, ... Mahallesi, 278 ada 26 parsel sayılı 20.019,00 m² yüzölçümlü taşınmaza davalının haklı bir nedene dayanmaksızın GSM verici kulesi/baz istasyonu ve elektrik hattı yaparak el atmak suretiyle taşınmazı uzun süredir işgal ettiğini, müvekkilinin taşınmazın kalan kısmını kullanmasının ya da taşınmazda tasarrufta bulunma imkanının kalmadığını, taşınmazdaki müdahalesine son vermesi ve geçmişe yönelik beş (5) yıllık ecrimisilin tahsili için ... 1.
 
 …
@@ -200,6 +206,8 @@ Hükme esas bilirkişi raporunda, tarım arazisi niteliğindeki çekişmeli taş
 Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/928 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139016300)
 
 Mahkemece bozma kararına uyularak yapılan yargılama sonunda, davanın kabulüne karar verilmiştir.
 
@@ -222,6 +230,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 3. HD 2025/637 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1125693000)
+
 Davacı vekili; davalı şirketin ... Caddesi, 39 ada 12 parsel sayılı taşınmaz üzerinde bulunan dükkanda, İstanbul ... Noterliğinin 26.03.2004 tarihli ve 05744 sayılı kira sözleşmesiyle kiracısı olduğunu, kiralanana ait 22.10.2006 ile 21.10.2008 döneminde faiz hariç ödenmeyen toplam 1.549.800,00 USD kira parasının tahsili amacıyla müvekkili tarafından başlatılan takibe davalının haksız olarak itiraz ettiğini, davalı şirkete İstanbul ....
 
 …
@@ -241,6 +251,8 @@ Dairenin 17.01.2024 tarihli ilamıyla; davalı tarafça kiralananın öncesinde 
 Davalı vekili; davacının davasını ispat edemediğini, hesaplamanın hatalı olduğunu, işgale yönelik bir iddia bulunmadığını, kiralananın 21.10.2006 tarihinde fiilen elinden alındığını, taşınmaz üzerindeki yapıların yıktırıldığını ve her tarafının açık hale geldiğini, bu haliyle anahtar tesliminin mümkün olmadığını, kiralanan alanın açık otopark olarak kullanıldığını, buna ilişkin hava fotoğraflarının dosya arasına alınmasının talep edildiğini ancak alınmaması nedeniyle eksik inceleme ile karar verildiğini, talep edilen dönemde kiralananın müvekkilinin işgali altında olduğunu davacının ispatlayamadığını, kiralananın 21.10.2006 tarihinde tahliye edildiğinin bizzat davacı beyanlarından anlaşılmakta olduğunu, ecrimisil bedelinin fahiş olduğunu, icra takibinde kira alacağı talep edildiğinden davanın reddi gerektiğini, ecrimisil bedelin hesaplamasının komisyon tarafından yapılması gerektiğini, mevzuattaki düzenlemeye uyulmadığını, vekalet ücretinin fahiş hesaplandığını ileri sürülerek, kararın düzeltilmesini ve Mahkeme kararının bozulmasına karar verilmesini talep etmiştir.
 
 ## Yargıtay 5. HD 2025/206 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132101100)
 
 İlk Derece Mahkemesince bozma kararına uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 

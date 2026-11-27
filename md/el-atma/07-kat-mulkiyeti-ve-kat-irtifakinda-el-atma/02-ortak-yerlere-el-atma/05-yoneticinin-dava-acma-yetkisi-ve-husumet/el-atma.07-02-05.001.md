@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2017/604 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/332557100)
+
 Davacı vekili 24.09.2010 tarihli dilekçe ile; müvekkilinin 6651 ada 25 parsel sayılı taşınmazda bağımsız bölüm maliki ve apartman yöneticisi olduğunu, davalılardan ... ve ... tarafından 21 numaralı bağımsız bölümün ortak alanla birlikte Kiler Mağazacılık A.Ş'ne kiraya verildiğini, anılan şirket tarafından ortak alanında kullanıldığı ve apartman aidatlarının ödenmediğini ileri sürerek toplam 3.500.-TL ecrimisil ve 1.000.-TL aidat isteğinde bulunmuştur..
 
 Mahkemece, apartman aidatına ilişkin istek ayrıldıktan sonra davacının bağımsız bölüm maliki olduğu halde payına yönelik dava açmadığı, yönetici sıfatıyla diğer kat maliklerini temsilen ecrimisil isteğinde bulunamayacağı, aktif husumet ehliyetinin olmadığı gerekçesiyle davanın reddine karar verilmiştir.
@@ -42,6 +44,8 @@ Tüm bu açıklamalar ışığında somut olaya gelindiğinde, davacının Karde
 SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2015/2925 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329987700)
 
 Dava, kamulaştırmasız elatma istemine ilişkindir.
 
@@ -114,6 +118,8 @@ Bu açıklamalar ışığında ana taşınmazın onaylı mimari projesi yerinde 
 
 ## Yargıtay 5. HD 2025/1683 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133948000)
+
 Davacı vekili dava dilekçesinde özetle; Gaziantep ili, .......... ilçesi, .......... Mahallesi 846 ada 450 parsel sayılı taşınmazda davalının diğer kat maliklerinin rızasını almadan apartmanın ortak alanına taşan nitelikte çatı yaparak mülkiyet hakkına müdahalede bulunduğunu, Nizip 1. Noterliğinin 05383 yevmiye numaralı ihtarnamesinin gönderildiğini; ancak buna rağmen herhangi bir düzeltme olmadığını, davalının apartmanın ortak kullanım alanına diğer kat maliklerinin izni ve onayı olmadan haksız müdahalede bulunduğunu, dükkanını haksız müdahale ile genişleterek kiraya vermek suretiyle kendisine ekonomik kazanç elde ettiğini, 7.500,00 TL ecrimisil alacağının faiziyle birlikte davalıdan tahsiline, yargılama giderleri ve vekâlet ücretinin davalı yana bırakılmasına karar verilmesini talep etmiştir.
 
 …
@@ -130,6 +136,8 @@ Davacı site yönetimi vekilinin temyiz itirazlarının kabulü ile temyiz oluna
 
 ## Yargıtay 20. HD 2019/2230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503357300)
+
 Davacı taraf dava dilekçesinde ... Apt. yöneticisi olduğunu beyanla yönetim hakkının apartman yönetimine ait olduğunun tespiti ve ortak alanların kullanımının apartman yönetimine ait olması yönünde karar verilmesini talep etmiş olmakla;
 
 KMK hükümleri uyarınca yönetim planının malikleri bağlayan bir sözleşme niteliğinde olduğu değerlendirilerek öncelikle müdahalenin menine ilişkin talep yönünden davacının yönetici olup olmadığı ve davalının da belirtilen ortak alana müdahalesi bulunup bulunmadığı konusunda inceleme yapılarak dava konusu taşınmazda yetkili yönetimin kim olduğunun tespiti ile varsa yapılan müdahalelerin öncelikle mimari proje getirtilerek inceleme yapılması ve oluşacak sonuca göre karar verilmesi gerekirken yanılgılı değerlendirme ile reddine karar verilmesi doğru görülmemiştir.
@@ -137,6 +145,8 @@ KMK hükümleri uyarınca yönetim planının malikleri bağlayan bir sözleşme
 SONUÇ: Yukarıda açıklanan nedenlerle; tarafların temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/7244 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465297200)
 
 Mahkemece; davacı yönetim site yönetimini temsilen açtığı davada davalıların ısı pay ölçer cihazlarını ortak alana kurduklarını ileri sürerek davayı açmış, yönetime kat maliklerince bu davayı açması yönünde verilmiş kat malikleri genel kurul kararı sunulamadığından kat maliki olan yönetici tarafından davaya devam edilmiştir. Davalıların projeye aykırı olarak ortak alana müdahale ettikleri tespit edilmiş olup davacının tapuda paydaş olduğu gözetilerek diğer pay sahibinin de davaya muvafakat etmesi sonucu dosya hakkında yapılan değerlendirme neticesinde davanın kabulüne...
 
@@ -149,6 +159,8 @@ Anataşınmazda kat maliki olup aktif dava ehliyeti bulunan davacının davaya d
 
 ## Yargıtay 20. HD 2018/5877 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/445639300)
+
 Mahkemece davanın kabulüne, davalının taşınmazın ortak alana yapmış olduğu işgalin müdahalenin men’ine, müdahaleye konu yapının kaldırılmasına karar verilmiş, hüküm davalı vekili tarafından temyiz edilmiştir.
 
 Dava ortak alana yapılan müdahalenin meni istemine ilişkindir.
@@ -160,6 +172,8 @@ Ayrıca davacının site yöneticisi sıfatı ile bu davayı açtığı anlaşı
 SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2017/7241 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385829200)
 
 Davacı, 286 parsel sayılı taşınmazda bulunan ... Sitesi ile davalı ... arasındaki imar yolunun davalı site yönetimi tarafından tel örgü çekilerek kapatıldığını, davacı sitedeki yedi adet bağımsız bölüm sakinlerinin evlerine araçla ulaşamadıklarını belirterek, yola elatmanın önlenmesini ve yolun açılmasını istemiştir.
 
@@ -177,11 +191,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalının temyiz itirazlarının kab
 
 ## Yargıtay 20. HD 2017/2757 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358284500)
+
 Dolayısıyla mahkemece iptal edilmediği müddetçe geçerli olan bir yönetim planına göre site yöneticisi seçilen ve kat maliklerince de yetkilendirilmiş davacının dava açma hakkının mevcut olduğu ve de hukuken geçerliliğini koruyan yönetim planının sonradan malik olanları da bağlayacağı gözetilerek işin esasına girilip talepler konusunda inceleme yapılarak hüküm kurulması gerekmektedir.
 
 SONUÇ: Yukarıda açıklanan nedenlerle; davacı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 18. HD 2016/8491 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/226952500)
 
 Davacı vekili dilekçesinde, davalının evinin kapısını onaylı mimari projesine aykırı olarak farklı bir yerden açtığı ve ortak alana beton döktüğü belirterek müdahalenin önlenmesi ve taşınmazların eski hale getirilmesi istemiş, mahkemece davacının aktif dava ehliyetinin yokluğu gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -190,6 +208,8 @@ Davacı kooperatif tarafından aynı nedenle... Sulh Hukuk Mahkemesinin .... say
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/2404 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203740300)
 
 Dava, çaplı taşınmaza ve yola elatmanın önlenmesi, yıkım ile eski hale getirme isteklerine ilişkindir.
 
@@ -209,6 +229,8 @@ Davalıların ve dahili davalıların bu yönlere ilişkin temyiz itirazları ye
 
 ## Yargıtay 18. HD 2016/499 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/227526800)
+
 Kat Mülkiyeti Yasası'nın 19. maddesi gereğince; yöneticinin ortak alana müdahalenin önlenmesi ile kal'i davası açabilmesi için kat maliki olması ya da kat maliki olmayan yönetici tarafından dava açılması halinde kat malikleri kurulunca kendisine dava açma yetkisinin verilmiş bulunması gerekir.
 
 Somut olaya gelince; dosya arasında bulunan bilgi ve belgelerin incelenmesinde davacı yöneticinin bağımsız bölüm maliki olmadığı anlaşılmaktadır. Buna göre mahkemece davacı yöneticiyi dava açmak üzere Kat Mülkiyeti Yasası'nın 35. vd. maddeleri gereğince kat malikleri kurulu tarafından verilmiş bir yetki bulunup bulunmadığı araştırılarak bu yönde verilmiş bir yetki bulunmadığı takdirde davanın reddine karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulmuş olması doğru görülmemiştir.
@@ -216,6 +238,8 @@ Somut olaya gelince; dosya arasında bulunan bilgi ve belgelerin incelenmesinde 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2014/18916 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107230000)
 
 Davacı dava dilekçesinde, bina ortak alanı olan kapıcı dairesine müdahalenin sona erdirilerek ortak alanların mimari projeye uygun eski hale getirilerek yönetime teslimine karar verilmesini talep etmiştir. Mahkemece davanın reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
 
@@ -226,6 +250,8 @@ Buna göre yönetici ile yaptığı kira kontratına dayanarak kiracı sıfatıy
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/14603 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84517200)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve yıkım isteklerine ilişkindir.
 
@@ -241,11 +267,15 @@ Davacı vekilinin temyiz itirazları yerindedir. Kabulü ile hükmün açıklana
 
 ## Yargıtay 18. HD 2014/11790 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106713200)
+
 Kat malikleri kurulu, apartmanın ortak yerlerinde projeye uygun tadilat yapılmasına karar vermiş olmasına rağmen yönetici yetkisini aşarak projeye aykırı tadilat yaptırmış ve apartmanın ortak yerlerinde yaptırılan bu tadilat sırasında davacıya ait bağımsız bölüme zarar verilmiştir. Mahkemece, bu zarardan yetkisini aşarak projeye aykırı tadilatları yaptıran yöneticinin şahsen sorumlu tutulması gerekirken davacının bağımsız bölümünde oluşan zarardan bütün bağımsız bölüm maliklerinin sorumlu tutulması doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2014/9413 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/332179700)
 
 Davacı, bağımsız bölüm maliki olduğu taşınmazda çatının projesine uygun olarak kapalı yapılmadığını teras olarak bırakıldığını, bu nedenle terasın altında olan bağımsız bölümün yaz ve kış aylarında zarar gördüğünü belirterek çatının projeye uygun hale getirilmesini istemiş, mahkemece davanın kabulüne karar verilmiştir.
 
@@ -256,6 +286,8 @@ infazına” ibaresi hükümden çıkartılarak yerine “davacı tarafından ye
 
 ## Yargıtay 18. HD 2014/5001 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106729900)
+
 Davacı vekili dava dilekçesinde; tapuda mesken olarak kayıtlı bağımsız bölümün aile sağlığı merkezi olarak kullanıldığını, onaylı mimari projeye aykırı olarak taşınmazın balkon kısmı yıkılarak site bahçesinden giriş ve çıkışı sağlayan kapı girişi yaptırıldığını, bağımsız bölüm içinde bina güvenliğini tehlikeye sokacak şekilde duvarların yıkıldığını belirterek meskenin eski hale getirilmesini ve kiracıların tahliyesini istemiş, mahkemece davacı yöneticinin kat maliki olmayıp Kat Mülkiyeti Yasasının 19 ve 24. maddeleri gereğince yöneticiye açıkça kat malikleri kurulunca verilmiş yetki bulunmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
 Dosya içindeki bilgi ve belgelerin incelenmesinde; 03.11.2010 tarihli kat malikleri kurulu toplantısında 3 nolu bağımsız bölüm için yapılan tadilatlar ile balkonda yapılan ruhsata aykırı yıkım ve değişikliklere ve mesken olan bağımsız bölümün işyeri olarak kiraya verilmesine muvafakat verilmemesine, kiracının bağımsız bölümü tahliye etmesi hususunda noterden taahhütname vermemesi durumunda dava açılması ve Avukat İ.. S..'in yetkili kılınmasına karar verildiği anlaşılmaktadır. Kat Mülkiyeti Kanunu'nun 35. maddesinin (a) bendi gereğince yönetici kat malikleri kurulunca verilen kararları yerine getirmekle görevli olup sözü edilen kat malikleri kurulu kararında ruhsata aykırılıklara ve işyeri olarak kullanıma izin verilmediği belirtilerek dava açılması ve Avukat İ.. S..'in yetkili kılınması kararlaştırılmış yönetici tarafından Avukata verilen vekaletnameyle de dava açılmıştır. Buna göre yönetim tarafından açılan davaya bakmak gerekirken, yazılı gerekçeyle davanın reddine karar verilmesi doğru görülmemiştir …
@@ -263,6 +295,8 @@ Dosya içindeki bilgi ve belgelerin incelenmesinde; 03.11.2010 tarihli kat malik
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2013/16258 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798408300)
 
 Davacılar vekili dava dilekçesinde; davalının dairesinin bahçe teras alanını betonarme ilave yaparak büyüttüğünü ve böylece yeşil alanı küçülttüğünü ileri sürerek bu yerin eski hale getirilmesini istemiş, mahkemece davacı ...'nin dava tarihi itibariyle aktif dava ehliyeti olmadığından davasının reddine, davacı ... yönünden ise davasının kabulüne karar verilmiştir.
 
@@ -274,6 +308,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2013/7072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/799069600)
+
 Kamulaştırmasız el atma nedenine dayalı olarak bedelin tahsiline ilişkin davalar ancak mülkiyet hakkına dayanılarak açılır. Kat Mülkiyeti Kanunu'nun 35. maddesi, yöneticinin görev ve yetkilerini belirlemiş olup bunların arasında mülkiyet hakkı ile sıkı sıkıya bağlantısı olan kamulaştırmasız el atılan taşınmaz bedelinin tahsili davasını diğer kat malikleri adına açma yetki ve görevi bulunmamaktadır.
 
 …
@@ -281,6 +317,8 @@ Kamulaştırmasız el atma nedenine dayalı olarak bedelin tahsiline ilişkin da
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/10123 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79199800)
 
 Dava, 634 sayılı Kat Mülkiyeti Kanunu hükümlerine göre, apartman yöneticisinin apatmanın ortak yerleri ile ilgili olarak açtığı elatmanın önlenmesi yıkım ve ecrimisil davasıdır.
 

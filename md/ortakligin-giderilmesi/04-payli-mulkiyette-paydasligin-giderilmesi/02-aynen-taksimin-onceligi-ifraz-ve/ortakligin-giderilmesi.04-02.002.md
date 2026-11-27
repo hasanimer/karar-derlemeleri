@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/926 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139008300)
+
 Planına bağlı olarak yapılan ifrazlar sonucu taşınmazın çok fazla parçaya bölündüğü, davacılar murislerinin bu taşınmazlardan hisse satın almak suretiyle taşınmazı edindiği; ancak taşınmazın bulunduğu yerde 1980 yılında yapılan tapulama çalışmalarında davacıya ait tapu hiçbir parsele revizyon görmeyerek kayıt kapsamındaki alanın 229 parsel olarak makilik vasfıyla Hazine adına 9.298.589 m² yüzölçümü ile tespit gördüğü ve bu taşınmazla ilgili Antalya Kadastro Mahkemesinde 06.12.1982 tarihinde açılarak 2004/1 Esas sayılı dosya üzerinden karara bağlanan davada, söz konusu taşınmazın tapu kaydının dayanağını oluşturan izale-i şuyu davasında yüzölçümünün 1.838.000 m²den 22.201.202 m²ye çıkarılarak tescilin dayanağının yolsuz olması ve taşınmazların bulunduğu sahanın 1946 yılında 3116 sayılı Kanun kapsamında yapılan orman tahdidi ile orman sınırları içerisine alındığı, 1952 yılında makiye tefrik edildiği ve 1976 yılında da orman sayılmayan makilik olarak Hazine adına orman sınırları dışına çıkarıldığı, dava konusu taşınmazın içerisinde bulunduğu alan Hazine adına orman sınırları dışına çıkarılan yerlerden olmakla beraber öncesinin Devlet Ormanı olması nedeniyle tespite itiraz davasının
 reddi ile yüzölçümü düzeltilerek taşınmazın fazlasının Hazine adına tesciline karar verildiği ve söz konusu kararın 01.07.2008 tarihinde kesinleşmesinden sonra 02.07.2018 tarihinde eldeki davanın açıldığı anlaşıldığından ve dolayısıyla 4721 sayılı Kanun’un 1007 nci maddesine göre tapu sicilinin tutulmasından doğan zararlardan Devlet sorumlu ise de somut olayda 1007 nci madde de belirtilen koşulların oluşmaması ve Mahkemece hüküm kurulurken Avukatlık Asgari Ücret Tarifesi'nin 13 üncü maddesinin 4 üncü fıkrası uyarınca belirlenerek maktu vekâlet ücretine hükmedilmesi nedeniyle İlk Derece Mahkemesince de bu gerekçeyle davanın reddine karar verilmesinde bir isabetsizlik görülmediğinden davacı vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 7. HD 2025/637 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127378600)
 
 Dava konusu 15 ada 199 parsel, 516 ada 79 parsel, 15 ada 106 parsel sayılı taşınmazlarda davacının paydaş olmadığı, dava açma sıfatı bulunmadığı gözetilmeden bu parseller hakkında ortaklığın giderilmesi kararı verilmesi doğru görülmemiştir.
 
@@ -35,14 +39,20 @@ Ortaklığın giderilmesi kararı verilen 15 ada 191 parsel, 888 ada 42 parsel s
 
 ## Yargıtay 8. HD 2024/5390 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096430300)
+
 2\. b) Dava, kullanım kadastrosuna itiraza ilişkin olup, İlk Derece Mahkemesince hüküm yerinde çekişmeli taşınmazın bilirkişi raporunda (A) harfi ile gösterilen bölümünün ifrazı ile yeni parsel numarası verilmek suretiyle tapuya tesciline karar verilmesi isabetsiz ve bozmayı gerektirmekte ise de, bu yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden 6100 sayılı Kanun'un Geçici 3 üncü maddesinin ikinci fıkrası atfıyla uygulanmasına devam olunan mülga 1086 sayılı Kanun'un 438 inci maddesinin yedinci fıkrası hükmü uyarınca İlk Derece Mahkemesi kararının düzeltilerek onanması gerekmiştir.
 
 ## Yargıtay 7. HD 2024/5298 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1115249300)
 
 Yargıtay 1.Hukuk Dairesince; ''arsa vasıflı davaya konu 879 ada 40 No.lu parselin davacı adına, kat mülkiyeti kurulu komşu 34 No.lu parseldeki bağımsız bölümlerin ise davalı ve birleştirilen davanın davalıları adına kayıtlı olduğu, mahallinde yapılan uygulama neticesinde teknik bilirkişilerin her iki taşınmaz üzerindeki yapıların bitişik nizam olduğunu, taşkın kısmın yıkımı halinde davacıların binasının taşıyıcı sisteminin zarar göreceğini bildirdikleri, savunma yoluyla getirilen temliken tescil isteği bakımından hükme yeterli araştırma ve inceleme yapıldığını söyleyebilme olanağı bulunmadığı, çap kayıtlarının düzeltilmesi, kısmı ifraz veya tevhit işlemlerinin yapılabilmesi, 3194 sayılı Yasanın 16. maddesi hükmü gereği Belediye Encümen kararıyla mümkün olduğu halde, anılan kurum yerine taşkın bölümün ifrazının mümkün olup olmadığı hususunda...Valiliği Çevre ve Şehircilik İl Müdürlüğü'ne yazı yazılmakla yetinildiği, davalıya ait taşkın binanın işgal ettiği alanın ifraz kabiliyeti yönünden ilgili belediyeden encümen kararına dayalı bilgi alınması, toplanacak deliller toplanan delillerle birlikte değerlendirilerek varılacak sonuç çerçevesinde bir karar verilmesi gerekirken eksik
 inceleme ile yetinilerek sonuca gidildiği...'' gerekçesiyle karar düzeltme talebinin kabulüyle karar bozulmuştur.
 
 ## Yargıtay 7. HD 2024/2247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1036158700)
 
 Yerleşmiş Yargıtay içtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre, payından az yer kullandığını ileri süren paydaşın sorununu elatmanın önlenilmesi davası ile değil, kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir. Öte yandan, yurdumuzda sosyal ekonomik nedenlerle kırsal kesimlerden kentlere aşırı akım, nüfus çoğalması, büyük mesken ve işyeri ihtiyacı nedeniyle hızlı yapılaşma karşısında görevli mercilerin aciz kalmaları veya çeşitli nedenlerle göz yummaları sonucu, izinsiz, ruhsatsız, resmi kayıtlara bağlanmayan büyük yerleşim alanları oluştuğu, bu arada paylı taşınmazların tapuda resmi ifrazları yapılmadan paydaşlar arasında haricen veya fiilen taksim edilip üzerlerine büyük mahalleler hatta beldeler yapıldığı bir gerçektir.
 
@@ -51,9 +61,13 @@ O halde, paydaşlar arasındaki elatmanın önlenilmesi davalarında öncelikle 
 
 ## Yargıtay 7. HD 2024/1998 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058060300)
+
 O halde; taraflardan birinin aynen taksim suretiyle ortaklığın giderilmesini istemesi halinde ve aynen taksim yoluyla ortaklığın giderilebileceği hallerde asıl olan, ortaklığın aynen taksim suretiyle giderilmesi olmalıdır. Aynen taksim suretiyle yapılacak paylaşımda, bölümler belirlendikten sonra öncelikle hangi bölümün kime kalacağı hususunda tarafların tam mutabakatlarının olup olmadığı belirlenmeli, bu hususta taraflar arasında uyuşma olmadığı takdirde mahkemece kur'a çekme yöntemiyle hangi paydaşa hangi bölümün kalacağı belirlenmelidir. Kur'a çekilip çekilmemesi hususu tarafların muvafakatlarına tabi bir işlem değildir. Kur'a çekilmesine muvafakat edip etmediklerine dair taraf beyanlarının alınmasına gerek bulunmamaktadır. Bunun yanında, mahkemece bu hususta talep edilen sürenin de reddedilerek aynen taksim istemi olduğu halde, taşınmazın satışı suretiyle ortaklığın giderilmesine karar verilmesi de doğru görülmemiş, açıklanan nedenlerle hükmün bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2024/1206 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016433400)
 
 Bu şekilde açılacak davalarda borçlu ortak (paydaş) dahil tüm ortakların (paydaşların) davaya dahil edilmeleri zorunludur.
 
@@ -61,16 +75,22 @@ Ancak; 5578 sayılı Kanun'la değiştirilen 5403 sayılı Toprak Koruma ve Araz
 
 ## Yargıtay 6. HD 2024/525 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008257100)
+
 Noterliğinin 25.07.2013 tarih 14322 yevmiye no.lu ihtarı ile arsa sahiplerine sözleşmenin 5. maddesinde yazılı bulunan belediye ve resmi kurumlarda ilgili resmi işlemlerde geçen süre dikkate alınarak ... Müdürlüğünden tamamlanmak üzere alınması gereken parça parsellerin 04.04.2013 tarihinde resmen alındığını, sözleşme tarihinden bu tarihe kadara geçen sürelerin bu fıkra gereğince inşaat süresine ilave edileceği, aynı fıkrada arsada hissesi bulunan arsa sahiplerinden herhangi birinden veya vekillerinden doğacak sorunlardan dolayı olabilecek gecikmelerde inşaat süresine ilave edileceğinin yazılı olduğu, arsa sahiplerinden ...'nın şahsi borçlarından hissesini sözleşme tarihinden sonra devrettiğini, devir alan kişi ile sözleşme yapılana kadar bir takım resmi sorunlarla karşılaşıldığını, ...
 Encümeninin 16.04.2013 tarih ve 16/449 sayılı kararı ile parsellerinin 14 ve 15 parsellerle tevhit ve ifraz işlemlerinin yaptırılmış olup dosyanın tapuya gönderildiğini, tapudaki işlemler için alınmış olana vekaletlerin yetersiz kaldığını, arsa sahiplerinin vekaletlerinin tamamının ellerine ulaşmadığını, bu sebeplerden dolayı ifraz ve tevhit işlemleri yapılamadığından 15 gün içinde vekaletlerin gönderilmesi aksi halde sözleşme şartlarına uyulmadığından cezai şart uygulanacağının ihtar olunduğu, arsa sahipleri tarafından 07.08.2017, 07.08.2017, 14.07.2017, 18.07.2017, 18.08.2017 ve 18.08.2018 tarihli azilnameler ile kat karşılığı sözleşmesi uyarınca verilen vekaletlerin sonlandırıldığı, mahkemece Çevre ve Şehircilik Bakanlığından sözleşmelere konu 16 ve 17 parsel sayılı taşınmazın davacı arsa sahipleri için kira yardımı ödemesi yapılıp yapılmadığı sorulmuş olup maliklerden ... adına kira yardımı ödemesi yapıldığının bildirildiği, davacıların hissedar oldukları ve 25.03.1963 tarihinde tapuya tescili yapılan ... ili ... ilçesi ... Mahallesinde kayıtlı olan eski 1055 ada 16 ve 17 parsel numaralı kadastro parsellerinde, ...
 
 ## Yargıtay 7. HD 2023/6607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109072100)
 
 …
 
 ...Taşınmazın tamamına ilişkin kullanım biçimi ve üzerindeki otel binasının durumu değerlendirildinde taşınmazın tamamı üzerinde fiili kullanım biçimi oluşmadığı, davacı paydaşın dava konusu taşınmazda çekişmesiz, fiilen kullandığı yerin bulunduğu da kabul edilerek Yerleşmiş Yargıtay içtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre, payından az yer kullandığını ileri süren paydaşın sorununu elatmanın önlenmesi davası ile değil, kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlenmesi gerektiği, yapılan açıklamalar doğrultusunda; mahkemece asıl ve birleşen davaların reddine karar verilmiş olmasında bir isabetsizlik bulunmadığı, davalı vekilinin kötüniyet tazminatına ilişkin katılma yolu ile istinaf talepleri yönünden ise; davacının kötüniyetli olduğunun ispatlanamadığı ve yasal şartların oluşmaması nedeniyle reddine karar verilmiş olmasında da bir isabetsizlik bulunmadığı..." gerekçesiyle; asıl ve birleşen davalarda davacı vekilinin ve katılma yolu ile davalı vekilinin istinaf başvurularının esastan reddine karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/5398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986422900)
 
 …
 
@@ -84,14 +104,20 @@ Kanunu'nun 12/3 üncü maddesinde öngörülen 10 yıllık hak düşürücü sü
 
 ## Yargıtay 7. HD 2023/4336 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960889800)
+
 Karar ... ilamında özetle; "Mahkemece bozma ilamına uyulduğuna göre, bozma ilamında değinilen tüm hususlar dikkate alınarak, aynen taksim talep eden tarafa Kat Mülkiyeti Kanununun 12. maddesi gereğince tamamlanması gereken her bir belge ve yapılması gereken her bir işlemi açıkça gösterir şekilde, bir ... az olmamak üzere makul süreler ve yetki vermek suretiyle kat mülkiyetine geçiş yoluyla ortaklığın giderilmesi koşullarının oluşturulmasına imkan sağlanması, mümkün olmadığı takdirde satışa karar verilmesi gerekirken bu hususlar yerine getirilmeden, özellikle davalı tarafa gerekli açıklamaları içeren yeterli süre verilmeden, yetersiz araştırma ve eksik inceleme ile ortaklığın satış yoluyla giderilmesine karar verilmiş olması doğru görülmemiştir" gerekçesiyle hüküm ikince kez bozulmuştur.
 
 ## Yargıtay 5. HD 2023/4016 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/900667100)
 
 O hâlde, Mahkemece 75 ada 71 parsel yönünden, Yargıtay uygulamalarında iştirak hâlindeki maliklere hissedarı oldukları murisin hissesi itibarıyla tek bir bağımsız bölümün hisseli olarak tahsisi mümkün olduğu kabul edildiğinden, dosya içerisinde dava konusu taşınmaza ilişkin onaylı mimari proje, yapı kullanma izin belgesi ve yönetim planının bulunduğu anlaşılmakla, mahkemece dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün konumu, yüzölçümü, kullanım amacı gözönünde bulundurulmak suretiyle değerinin tespiti ve bu değere göre özgülenecek arsa payı da saptanarak varsa fiili taksime göre, olmadığı takdirde tapudaki hisse sahiplerinin mirasçıları bir kişi kabul edilerek çekilecek kura ile her bir paydaşa bir bağımsız bölüm özgülenmeli, gerekiyorsa bedel farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi sağlanmalı, malik listesi ve yönetim planı gibi belgeleri, paydaşların tanınan süreye rağmen imzalamaktan kaçınmaları hâlinde bunların da imzalanmış sayılmasına karar verilmesi, hüküm kısmının infaza elverişli şekilde arsa paylarının ve bağımsız bölüm niteliklerinin belirlenerek tapuya tescili ile böylece kat mülkiyetine geçilmek suretiyle
 ortaklığın giderilmesi gerektiği gözetilmeden eksik araştırma ve inceleme sonucu yazılı olduğu şekilde karar verilmesi bozmayı gerektirmiştir.
 
 ## Yargıtay 7. HD 2023/3700 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929177500)
 
 Somut olaya gelince, mahallinde yapılan keşif sonrasında düzenlenen fen bilirkişisinin 28.10.2013 tarihli raporunda, parselin ifraz koşullarını taşıdığı belirtilmiş, onay makamı da aynen bölünmenin mümkün olduğu yönünde görüş bildirmiştir. Ziraat mühendisi ve mimar bilirkişileri ise 30.10.2013 tarihli ortak raporlarında, tarafların pay oranlarına göre taşınmazın ivazlı veya ivazsız taksiminin mümkün olmadığını ve ortaklığın ancak satış yoluyla giderilebileceği belirtilmiş; ancak fen bilirkişi tarafından hazırlanan raporda, paylaştırılma sonucunda taraflara taksim edilen yerlerin aynı nitelikte ve değerde olup olmadığı konusunda bir inceleme yapılmadığı gibi mahkemece de tarafların bilirkişi raporuna yaptığı itirazlar değerlendirilmemiş ve raporlar arasında taksimin mümkün olup olmadığı konusundaki çelişki giderilmemiştir. Ayrıca, önceki bozma kararına uyulmasına rağmen bozma gereği tam olarak yerine getirilmemiştir.
 
@@ -101,11 +127,15 @@ Kabule göre de; hüküm sonucunda, bilirkişi raporunda (A) harfi ile gösteril
 
 ## Yargıtay 8. HD 2023/3574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982075500)
+
 2\. 3402 ... Kadastro Kanununun 12/3.maddesinin uygulanabilmesi için davanın kadastro tespitine itiraza ilişkin olması ve dayanılan hakkın da tespit öncesine dayanması gerektiği, somut davada ise davacı tarafça taşınmazın 1969 yılında kesinleşen tesis kadastrosundaki sınırlarına ve hatalara değil, sonrasında ifrazla oluşan ve 33 yıldır kullandıkları sınırlara aykırı oluşturulduğunu iddia ettikleri sınırlara itiraz edilerek, durumun tesis kadastrosundaki haline getirilmesi istenildiğinden, ana davadaki sınırların düzeltilerek tapu iptali ve tescil isteminin Kadastro Kanununun 12/3.maddesi kapsamında olmadığı halde ilk Derece Mahkemesince bu madde gereğince reddine karar verilmesinin yerinde olmadığı, söz konusu ifraz işlemlerinin maliklerinin kendi istemleri doğrultusunda gerçekleştirilerek kesinleştiği; bu şekilde ifraz işlemine tabi tutulan 2038 ve 3043 nolu parsellerin sayısallaştırma sonucunun paftasıyla uyumlu olduğu; ifraz sonucu oluşan sınırların geldisi olan 3043 ve 2038 parsellerin kadastral sınırlarıyla bir aykırılık oluşturmadığı; davacı tarafça bu ifraz işlemlerinin tespit kadastrosu sonrasında oluşan kullanım durumuna aykırı olduğu iddia edilmekle birlikte, 3402 ...
 Kadastro Kanunu'nun "Hataların Düzeltilmesi" başlıklı 41. maddesi, kadastro sırasında veya sonrasında yapılan işlemlerle geometrik durumları kesinleşmiş olan taşınmazlarda ölçü, sınırlandırma, tersimat ve hesaplamalardan ... hataların Kadastro Müdürlüğünce düzeltilmesine ilişkin bir yasal düzenleme olup, somut davada ise ifraz tarihindeki maliklerin kendi talepleri doğrultusunda gerçekleştirilen ifraz işlemleri sonucunda yine maliklerin istemleri doğrultusunda oluşturulan parsel sınırlarının, ifraz işlemi sonrasında bu sınırlara uygun olmayan fiili kullanım durumuna göre düzeltilmesi isteminin Kadastro Kanunu'nun 41.maddesi kapsamında düzeltilmesi gereken hatalar kapsamında bulunmadığından ve davacılar tarafından da bu ifraz işlemleri sonucu oluşan tapu kayıtlarının çapa dayalı olarak satın alınmış olunması karşısında bu kanun kapsamında düzeltme ve tapu iptali işlemi yapılamayacağından, ana davadaki tapu iptali ve tescil isteminin bu sebeple reddinin gerektiği; dolayısıyla söz konusu ifraz işlemlerinin maliklerinin rızasıyla oluşturulmuş olması nedeniyle tapu sicilinin hatalı tutulmasından kaynaklanan bir zarar da bulunmadığı anlaşıldığından terditli tazminat isteminin
 koşullarının oluşmadığı, …
 
 ## Yargıtay 7. HD 2023/3005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910558900)
 
 …
 
@@ -122,11 +152,15 @@ ayrıntılı bir şekilde fen bilirkişisi krokisine yansıtılması, tarafları
 
 ## Yargıtay 7. HD 2023/1763 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933472400)
+
 1\. 386 parsel sayılı taşınmaz yönünden yapılan değerlendirmede; Kapatılan Yargıtay 14. Hukuk Dairesi 10.09.2018 tarihli ilamında 386 parsel sayılı taşınmazın satışına ilişkin hükmün onanmasına karar verdiğinden mahkemece mükerrer hüküm oluşturacak şekilde bu parselin yeniden satışına karar verilerek ortaklığın giderilmesi doğru değildir.
 
 Hükmün gerekçe kısmında davanın kabulü ile dava konusu Ankara ili, Çubuk ilçesi, Kargın Mahallesi, 126 ada 2 parsel sayılı taşınmazın aynen taksimi ve ivaz suretiyle ifrazı mümkün olmadığından üzerindeki muhdesatlarla birlikte açık artırma yolu ile satılarak ortaklığın giderilmesine karar verildikten sonra hüküm fıkrasında dava konusu edilen 35 adet parselden 34 adet parselin satışına ve 3152 parselin dosyadan tefrikine karar verilmesi, hüküm fıkrası ile gerekçenin çelişkili olmasına neden olmuştur.
 
 ## Yargıtay 7. HD 2023/1142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897650400)
 
 Dava, muhdesat aidiyetinin tespiti istemine ilişkin olup, uyuşmazlık; davacı konumundaki alacaklının, davalı borçlu adına muhdesat aidiyetinin tespiti davası açmakta hukuki yararı bulunup bulunmadığı noktasında toplanmaktadır.
 
@@ -140,6 +174,8 @@ Ayrıca, aidiyetin tespiti hükmü kurulurken muhdesatın davalı ... tarafında
 
 ## Yargıtay 7. HD 2022/7337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853857400)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -150,17 +186,23 @@ Burada mahkemece yapılması gereken bilirkişilerin aynen taksim ile ilgili bel
 
 ## Yargıtay 5. HD 2022/6356 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753755500)
+
 11.01.1940 tarih ve 15/1 sayılı taksim ve satış kararı ile taşınmazın satışı yolu ile ortaklığın giderilmesine karar verildiği, ancak kararda, tapu kapsamı belirlenirken kayıt miktarının değil, hudutların esas alınması sonucu 22.201.202 m²'lik kısmın satışına karar verildiği, ilama dayalı olarak yapılan açık arttırmada, taşınmazın ... ve ... adına tescil edilmesinden sonra, 13.04.1944 tarih ve 118 sıra nosu ile oluşan tapu kaydının zaman içerisinde ifrazlara tabi tutulduğu, maliklerin talebi, Tapu ve Kadastro Müdürlüğü’nün 19.07.1968 tarih ve 5572 sayılı oluru ile 1/5000 ölçekli Nazım İmar Planına bağlı olarak yapılan ifrazlar sonucu taşınmazın 113 parçaya bölündüğü, 30.07.1968 tarih 8 ila 120 sıra, 3444 yevmiye numaralı işlem ile 113 adet müstakil tapu oluştuğu, davacı murisinin bu ifraz sonucu oluşan tapulardan 14 bağımsız bölüm numaralı 30.07.1968 tarih ve 34 sıra (Cilt173 - Sayfa 74) 1647.286 m² alanlı taşınmaz, ...’na ait iken, davacı murisi bir kısım hissesi dava dışı kişilere satılmış, davacılar murisi ...
 04.10.1974 tarih ve 12 sıra (Cilt 178-Sayfa 79) numaralı tapu kaydı ile taşınmazın 6000/4941858’ini satın almak suretiyle edindiği; ancak taşınmazın bulunduğu yerde 1980 yılında yapılan tapulama çalışmalarında, davacılar murisine ait tapunun toplam 201.914 m²’lik kısmının 229 parsel sayılı içerisinde kaldığı, kalan kısımların hiçbir parsele revizyon görmeyerek, kayıt kapsamındaki 5687.46 m²’lik alanın 229 parsel olarak, makilik vasfı ile Hazine adına 9.298.589 m² yüzölçümü ile tespit gördüğü ve bu taşınmazla ilgili olarak ...
 Kadastro Mahkemesi'nde 06.12.1982 tarihinde açılıp, 2004/1 esas sayılı dosya üzerinden karara bağlanan davada, söz konusu taşınmazın tapu kaydının dayanağını oluşturan izale-i şuyu davasında yüzölçümünün 1.838.000 m²'den 22.201.202 m²'ye çıkarılarak tescilin dayanağının yolsuz olması ve taşınmazların bulunduğu sahanın 1946 yılında 3116 sayılı yasa kapsamında yapılan orman tahdidi ile orman sınırları içersine alındığı, 1952 yılında makiye tefrik edildiği ve 1976 yılında da orman sayılmayan makilik olarak Hazine adına orman sınırları dışına çıkarıldığı, dava konusu taşınmazın içerisinde bulunduğu alan Hazine adına orman sınırları dışına çıkarılan yerlerden olmakla beraber, öncesinin Devlet ormanı olması nedeniyle, tespite itiraz davasının reddi ile yüzölçümü düzeltilerek taşınmazın fazlasının Hazine adına tesciline karar verildiği ve söz konusu kararın 01.07.2008 tarihinde kesinleşmesinden sonra 02.07.2018 tarihinde (01.07.2008 günü pazar gününe isabet ettiği gözetilerek) TMK'nın 1007. maddesine dayalı olarak tazminat istemli iş bu davanın açıldığı anlaşılmıştır.
 
 ## Yargıtay 8. HD 2022/4803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776997300)
+
 …
 
 .. Mahallesi 678 parsel sayılı taşınmaz, senetsizden vergi kaydı bulunmakla 21.300 m2 olarak ev ve bahçe vasfıyla ölü ... Fiş mirasçıları adına kayıtlı iken 21.04.1961 tarihinde tashih ve ifraz neticesinde 11.873 m2 olarak ev ve bahçe vasfıyla mirasçıları adına yazıldıktan sonra, 17.09.1991 tarihinde ise izale-i şuyu davası neticesinde tam hisse ile ... adına kaydedilmiş; bilahare 02.07.2009 tarihinde TKGM. 2005/22 sayılı Genelgesine göre kısmen orman sınırları içerisinde kalan kısmın malikinin talebine istinaden ifraz işlemi uygulanarak 944 parsel 1562, 1563, 1564, 1565, 1566 parsellere ayrılmış ve dava konusu 1563 parsel 3.400,02 m2, 1564 parsel 1.749,20 m2 ve 1565 parsel 1.327,39 m2 olarak bahçe vasfıyla tam hisse ile ... adına kaydedilmiş, 1563 ve 1565 parsellerin beyanlar hanesine, 19.08.2010 tarihinde "6831 sayılı Kanun'un 2/B maddesi gereğince orman sınırları dışına çıkarılan yerlerdendir. Satılamaz, devredilemez" şerhi, 10.11.2010 tarihinde ise 6831 sayılı Kanun'un 2/B maddesi gereğince Hazine adına orman sınırları dışına çıkarıldığı şerhi yazılmış ancak 20.04.2015 tarihinde her iki şerh de terkin edilmiştir.
 
 ## Yargıtay 7. HD 2022/4221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795554900)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -169,6 +211,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 Bu durumda mahkemece, dava konusu taşınmazın tarım arazisi (tarla) niteliğinde olduğu göz önüne alınarak, fen bilirkişisi tarafından düzenlenen ifraz projesinin İl Özel İdaresinin onayına sunulmak suretiyle ifrazının mümkün olup olmadığının anılan idareden sorulması gerekirken, taşınmazın tarla vasfında olduğu gözetilmeksizin, ifrazının mümkün olup olmadığı hususunda belediyeden görüş alınarak yazılı şekilde karar verilmesi doğru görülmemiş; bu nedenle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 16. HD 2021/4143 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686899300)
 
 Hal böyle olunca; doğru sonuca ulaşılabilmesi için Mahkemece öncelikle, davacı ...’nun dayandığı 30.07.1999 tarih ve 11 sıra numaralı tapu kaydının tesisinden itibaren tüm tedavülleri, ...
 Sulh Hukuk Mahkemesi’nin 20.10.1965 tarih ve 1962/26 Esas ve 1965/26 Karar izale-i şuyu dava dosyasının plan, harita ve krokisi, ifraz görmüş olduğundan ifraz haritası ve tüm oluşum belgeleri, revizyon gördüğü 141 ada 89 parsel sayılı taşınmaz ile bu taşınmaza komşu taşınmazları da bir arada gösterecek birleşik harita getirtilip dosya ikmal edilmeli, bundan sonra mahallinde, yaşlı, tarafsız, yöreyi iyi bilen, davada yararı bulunmayan şahıslar arasından seçilecek yerel bilirkişiler ve taraf tanıkları ile fen bilirkişisinin katılımıyla yeniden keşif yapılmalı; yapılacak bu keşifte, 3402 sayılı Kadastro Kanunu'nun 20. maddesi hükmü uyarınca davacının dayandığı tapu kaydının haritası mevcut ise, yerel bilirkişi yardımı ve uzman teknik bilirkişi eliyle yöntemince yerine uygulanmalı, uygulama yapılırken haritası bulunan kayıtların kapsamlarının öncelikle haritasına göre belirleneceği gözetilmeli; tapu kaydının haritasının bulunmaması ya da uygulama kabiliyetinin olmaması halinde, kayıtlardaki sınırların tespiti bakımından mahalli bilirkişi ve tanık beyanlarına başvurulmalı; ifraz yoluyla oluşan müfrez tapu kayıtlarının kapsamının, kök tapu kaydının içinde aranmasının zorunlu olduğu

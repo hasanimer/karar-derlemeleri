@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2021/3593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727608900)
+
 Dava, paydaşlar arasında çaplı taşınmaza yönelik elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -39,6 +41,8 @@ gerekçesiyle davanın reddine karar verilmiş,hükme karşı davacı vekili tar
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/3121 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665973400)
 
 Davacı, davalı ile birlikte miras bırakan ...'ün mirasçısı olduklarını, miras bırakandan kalan tüm taşınmazların (72 adet) davalının tasarrufunda bulunduğunu, davalının taşınmazları kullanmasına izin vermediği gibi, kira gelirinden de payına düşeni alamadığını belirterek 5 yıllık, 30.11.2012 tarihli bedel artırım dilekçesiyle 21.000,00 TL ecrimisil bedelinin işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini istemiştir.
 
@@ -60,6 +64,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazları ye
 
 ## Yargıtay 8. HD 2021/3068 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664822500)
+
 Davacılar vekili, dava konusu taşınmazın öncesinde müvekkilerinden Fatma ile, Fatma’ın annesi Elif ve kardeşi Ahmet adına kayıtlı olduğunu, annesine ait payın da müvekkili ile birlikte kardeşi Ahmet’e intikal ettiğini, davalıların ise 1960 yılından 2013 yılının ortalarına kadar müvekkilli Fatma'nın kendisine ait payı ve annesi Elif'ten intikal eden payını işgal ettiklerini, haksız işgal ile başa çıkamayan müvekkili Fatma’nın payını 2013 yılında oğlu olan diğer davacı ...'a satmak zorunda kaldığını, davalıların 2013 yılının ortalarından bu yana da davacı ...'a ait olan payı işgal etmeye devam ettiklerini öne sürerek 2011-2013 yılının ortasına kadar olan dönem için 43.500 TL ecrimisilin davalılardan müteselsilen tahsili ile davacı ...'ya, 2013 yılının ortasından-dava tarihi arası dönem için ise 53.500 TL ecrimisil faizi ile birlikte davalı ... dışındaki davalılardan müteselsilen tahsili ile davacı ...'a verilmesini karar verilmesini istemiş, 31.10.2017 tarihli dilekçesi ile ecrimisil talebini 202.073,50 TL'ye yükseltmiş, davanın devamı sırasında davacılardan Ramazan’ın vefat etmesi nedeni ile tüm mirasçılarının katılımı ile davaya devam olunmuştur.
 
 Davalılar vekili, müvekkillerinin murisinin dava konusu taşınmazın tamamını haricen satın aldığını, taşınmazın 40-50 yıldır müvekkilleri ve murisleri tarafından nizasıf-fasılasız kullanıldığını, 2013 yılında dava dışı paydaş Ahmet'in harici satış uyarınca payını devrettiğini, davacıların ise haksız ek bedel istemeleri nedeni ile anlaşmaya varılamadığını, 2013 yılı Ağustos ayına kadar taraflar arasında kullanım yönünden niza olmadığını, harici satın alanların bedel ödenmedikçe taşınmazdan çıkarılamayacağını, aleyhlerine ecrimisil davası açılamayacağını, taşınmaz üzerindeki 30-50 yaş arası zeytinlerin müvekkileri tarafından dikildiğini açıklayarak davanın reddine karar verilmesi gerektiğini savunmuştur.
@@ -77,6 +83,8 @@ O halde Mahkemece, dava konusu taşınmaz üzerinde yer alan zeytin ağaçların
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı ... vekilinin temyiz itirazlarının REDDİNE, (2) numaralı bentte gösterilen nedenlerle davacı ... mirasçıları vekilinin yazılı temyiz itirazları yerinde görüldüğünden kabulü ile Bölge Adliye Mahkemesinin istinaf isteminin esastan reddine dair kararının KALDIRILMASINA …
 
 ## Yargıtay 8. HD 2021/2735 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666308700)
 
 Davacılar vekili; müvekkillerinin davalı ile birlikte mirasbırakanları ... ve ...’den kalan ... İli, ... İlçesi, 231, 232, 351, 1135, 1359, 1466, 495, 350, 1208, 805, 2069 parsel sayılı taşınmazlarda paydaş olduklarını, itirazlarına rağmen uzun süredir davalının haklı ve geçerli bir neden olmaksızın taşınmazları bizzat kullanmak, kiraya vermek suretiyle gelir elde ettiğini ve miras paylarını vermediğini ileri sürerek paylarına isabet edecek toplam 10.000 TL ecrimisilin davalıdan tahsiline karar verilmesini istemiş, yargılama aşamasında talep 231, 351, 1135, 1208, 805, 495 parsellere hasredilmiştir.
 
@@ -97,6 +105,8 @@ SONUÇ: Yukarıda davalı vekilinin temyiz itirazlarının (2) nolu bentte yazı
 
 ## Yargıtay 8. HD 2021/2446 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651769400)
+
 Davalılar, asıl ve birleşen davanın reddini savunmuştur.
 
 Mahkemece 20.02.2013 tarihli kararla, 9 tane parsel yönünden 2.964,27 TL ecrimisil tazminatının dönem sonu olan 29.03.2011 tarihinden, 2.302,98 TL ecrimisil tazminatının dönem sonu olan 29.03.2010 tarihinden, 1.969,60 TL ecrimisil tazminatının dönem sonu olan 29.03.2009 tarihinden, 1.966,53 TL ecrimisil tazminatının dönem sonu olan 29.03.2008 tarihinden, 1.657,74 TL ecrimisil tazminatının dönem sonu olan 29.03.2007 tarihinden itibaren işleyecek yasal faizleri ile birlikte davalı ...'tan tahsili ile davacıya verilmesine, davalılardan ...,'a yönelik davanın reddine karar verilmesi üzerine; hüküm davalılar vekili tarafından temyiz edilmiştir. Yargıtay 1.
@@ -115,6 +125,8 @@ O halde, Mahkemece yapılacak iş, asıl davada sadece 9 parsel yönünden bozma
 SONUÇ: Davalı ... vekilinin temyiz itirazları yukarıda gösterilen sebeplerle yerinde görüldüğünden kabulü ile hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/2330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666196800)
 
 Davacılar, davalı ... ile ortak mirasbırakanları ...’dan intikal eden dava konusu 129 parsel sayılı taşınmazın 376/480 payına karşılık gelen kısmına, davalı ... ile ondan taşınmazı kiralayan diğer davalı ... tarafından ekip biçmek suretiyle müdahale edildiğini, mirasbırakanın taşınmazdaki payının tamamını davalı ...’ye vasiyet ettiği 13.05.2002 tarihli vasiyetnamenin, Kahramanmaraş 2. Asliye Hukuk Mahkemesinin 2004/559 Esas, 2010/687 Karar sayılı 30.09.2010 tarihli kesinleşen kararı ile iptaline karar verildiğini ileri sürerek 16.05.2012 tarihinden geriye doğru 5 yıllık dönem için toplam 43.123,11. TL ecrimisilin her bir dönem için dönem sonu itibariyle işleyecek yasal faiziyle ödenmesini talep ve dava etmiştir.
 
@@ -138,6 +150,8 @@ SONUÇ: Yukarıda (2) nolu bentte açıklanan nedenlerle davalı ... vekilinin s
 
 ## Yargıtay 5. HD 2021/2036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663033000)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -147,6 +161,8 @@ Dosyada bulunan kanıt ve belgelere, kararın dayandığı gerekçelere göre; k
 Davalı idare vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun olan hükmün HMK'nun 370. maddesi gereğince ONANMASINA …
 
 ## Yargıtay 5. HD 2020/8194 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600960600)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -159,6 +175,8 @@ Arazi niteliğindeki ... İlçesi,... mahalle 163 ada 30 parsel sayılı taşın
 Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 8. HD 2020/7355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636832800)
 
 Davacı vekili, müvekkilinin Mehmet ve ... ...’nin mirasçısı olduğunu, ...’nin 11.10.1996 tarihinde, eşi ... ...'nin ise 28.02.2011 tarihinde vefat etmesiyle geriye mirasçı olarak davacı ..., davalı ... ve dava dışı ...’nin kaldığını, ..., ... İlçesi, ... Mah.
 
@@ -182,6 +200,8 @@ SONUÇ: Davalının temyiz itirazlarının kabulüyle hükmün 6100 sayılı HMK
 
 ## Yargıtay 8. HD 2020/6938 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642103800)
+
 Davacılar vekili, tarafların murisi ...'ün19.09.2009 tarihinde vefat ettiğini, vefatinden sonra murise ait taşınmazları ve aracı davalıların kullandıklarını, vekil edenlerinin kullanmalarına izin vermediklerini ileri sürerek, dava konusu bir adet araç, 438 ada 7 parsel üzerindeki 6 adet bağımsız bölüm ile ... kasabası 10 parça taşınmaz için fazlaya ilişkin hakları saklı kalmak kaydıyla toplam 11.800,00 TL ecrimisilin faizi ile birlikte davalılardan tahsilini talep ve dava etmiştir.
 
 Davalılar vekili davanın reddini savunmuştur.
@@ -204,6 +224,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı ... vekili, davalı asıl ... 
 
 ## Yargıtay 8. HD 2020/3877 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598292700)
+
 Davacı vekili, vekil edeninin dava konusu taşınmazda 1/4 paydaş olduğunu, davalının bu taşınmazı diğer paydaşların payı ile birlikte kiraya vermek suretiyle kullandığını ve vekil edenine herhangi bir bedel ödemediğini açıklayarak, 2006-2011 dönemlerine ilişkin olarak 13.600 TL ecrimisilin davalıdan alınmasına karar verilmesini istemiştir.
 
 Davalı vekili, vekil edeninin, dava konusu taşınmazın paydaşlarından Samiye’nin eşi olduğunu, taşınmazın diğer paydaşı Seviye’nin 1/4 payı ile eşi Samiye’nin 1/4 payını kiraya verdiğini, davacı ... ile diğer paydaş Kevser’in paylarına ilişkin bir tasarrufunun olmadığını beyanla davanın reddini savunmuştur.
@@ -221,6 +243,8 @@ SONUÇ: Açıklanan nedenlerle, davalı vekilinin temyiz itirazları yerinde old
 
 ## Yargıtay 8. HD 2020/3854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599565900)
+
 Davalılar ... ve ... vekili; davanın reddine karar verilmesini savunmuştur.
 
 …
@@ -237,6 +261,8 @@ SONUÇ: Yukarıda (2) nolu bendin (b) harfi ile gösterilen nedenlerle davacıla
 
 ## Yargıtay 5. HD 2020/3820 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578134500)
+
 Dava, kamulaştırmasız el atılarak üzerine pilon dikilip enerji nakil hattı geçirilen taşınmazın, pilon yeri bedeli ile irtifak hakkı karşılığının tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -244,6 +270,8 @@ Dava, kamulaştırmasız el atılarak üzerine pilon dikilip enerji nakil hattı
 Arazi niteliğindeki ... İlçesi, ... Mahallesi 17 parsel sayılı taşınmaza net gelir metoduna göre değer biçilerek, ecrimisile hükmedilmesinde ve irtifak hakkı karşılığı ile pilon yeri bedelinin tespit edilmesinde bir isabetsizlik görülmemiştir. Ancak;Dosyaya imzasız ve mühürsüz olarak sunulan tapu kayıtlarına göre dava konusu taşınmazın toplulaştırma çalışmaları nedeniyle ifraz görerek yeni parsel numaralarına gittiği anlaşılmış olup, toplulaştırma sonucu yeni oluşan tapu kayıtları ve krokileri ilgili tapu ve kadastro müdürlüklerinden ayrı ayrı getirtilip, davacıların hak sahiplikleri de denetlenmek suretiyle, mahallinde keşif yapılıp enerji nakil hattı ve direkler nedeniyle fiili elatma olup olmadığı belirlenerek sonucuna göre karar verilmesi gerektiğinden,Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428.
 
 ## Yargıtay 8. HD 2020/3719 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596064800)
 
 Davacılar vekili dava dilekçesinde, taşınmazın öncesinde ½ hisseyle murisleri adına kayıtlı iken, yolsuz tescille önce ... ve ... adına tescil ediliği, satış suretiyle el değiştirdiği, son olarak ... Kooperatifi tarafından kat maliklerine satıldığı, malikler hakkında açılan tapu iptali ve tescil davasının kabul edilerek kesinleştiğini, ancak davalıların işgalinin halen devam ettiğini belirterek, geriye dönük beş yıllık ecrimisil alacağı talep etmiştir.
 

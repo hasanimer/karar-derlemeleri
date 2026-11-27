@@ -20,11 +20,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2022/2142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791483300)
+
 3.3.4. Öte yandan, temsil kayyımı belirli ve ivedi işlerde bir kimsenin kişisel ve malvarlığı ile ilgili hususlarda temsili için atanırken; yönetim kayyımı uzun süreden beri haber alınamayan, sağ olup olmadığı veya nerede olduğu bilinemeyen kimselerin malvarlıklarının yönetimi için atanır. Bu anlamda, temsil kayyımlığında kişinin temsili esas alınırken, yönetim kayyımlığında malvarlığının yönetimi esas alınmaktadır. Nitekim,Türk Medeni Kanunu'nun 588. maddesinde de, belirli malvarlığının yönetiminden bahsedildiğine göre, belirtilen kayyımın yönetim kayyımı olduğu anlaşılmaktadır.
 
 3.3.5. Somut olayda ise, İstanbul Defterdarının ortaklığın giderilmesi davasında kimliği tespit edilemeyip, adresi bulunamayan paydaşları temsil etmek üzere kayyım olarak atandığı anlaşılmaktadır. Türk Medeni Kanunu'nun 477/1. maddesinde temsil kayyımlığının, kayyımın yapmakla görevlendirildiği işin bitmesiyle sona ereceği düzenlenmiştir. Bu durumda öncelikle dava konusu 10 ada 2 parsel sayılı taşınmazın 760/2560 pay sahibi olan kişilere yönetim kayyımı atanıp atanmadığının araştırılması, yönetim kayyımı olması ve halen sağ olması halinde kendisine usulünce tebligat yapılarak taraf teşkilinin sağlanması, mümkün olmaz ise, davalının usulünce temsili açısından temsil kayyımı atanmasının sağlanması suretiyle atanan kayyımın huzuruyla yargılamaya devam edilmesi gerekirken, bu işlemler yapılmadan ortaklığın giderilmesi davası için temsil kayyımı olarak atanan İstanbul Defterdarlığı davalı gösterilerek yargılamanın sonuçlandırılması doğru olmamıştır.
 
 ## Yargıtay 8. HD 2019/1842 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501278400)
 
 Dava; muhdesat tespitine ilişkindir.
 
@@ -36,6 +40,8 @@ Kabule göre de; dosyaya getirilen tapu kaydı ve veraset ilamları göz önüne
 
 ## Yargıtay 20. HD 2018/8366 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471323300)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 1-4721 sayılı Türk Medenî Kanununun 426. maddesinde, vesayet makamı, ergin bir kişi, hastalığı, başka bir yerde bulunması veya benzeri bir sebeple ivedi bir işini kendisi görebilecek veya bir temsilci atayabilecek durumda değilse, bir işte yasal temsilcinin menfaati ile küçüğün veya kısıtlının menfaati çatışıyorsa, yasal temsilcinin görevini yerine getirmesine bir engel varsa veya kanunda gösterilen diğer hallerde ilgilisinin isteği üzerine veya resen temsil kayyımı atanacağı düzenlenmiş olup, mahkemece dava konusu taşınmazlarda kısıtlılar ile vasinin birlikte hissedar olduğu ve aralarında menfaat çatışması olabileceği düşünülerek, kısıtlılara asıl ve birleşen dava dosyaları yönünden temsil kayyımı atanması suretiyle taraf teşkili sağlanarak yargılama yapılması gerekirken, taraf teşkili sağlanmadan hüküm kurulması, …
@@ -43,6 +49,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 2-634 sayılı Kat Mülkiyeti Kanunu hükümlerine uygun olarak, üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, üzerindeki yapının mimari projesine uygun biçimde tamamlanmış ya da projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin olması, bağımsız bölümlerinin başlı başına kullanmaya elverişli bulunması (M.1), yapının tümünün kargir olması (M.50/2) ve her bir paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı) tamamlattırılması gerekmektedir. Bu koşulların gerçekleşmesi durumunda anılan Kanunun 10. maddesinin 5. fıkrası hükmünce taşınmazda kat mülkiyetine geçilebilecek ve açılan davada ortaklığın bu yolda giderilmesine karar verilebilecektir.
 
 ## Yargıtay 14. HD 2017/4020 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360671200)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -54,6 +62,8 @@ Ayrıca, reşit olmayan paydaş davalı ... ...'u, davada annesi ...'in velayete
 
 ## Yargıtay 14. HD 2016/1654 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223315400)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -61,6 +71,8 @@ Dava, ortaklığın giderilmesi isteğine ilişkindir.
 Ayrıca; TMK'nun 426/2. maddesine göre, bir işte yasal temsilcinin menfaati ile küçüğün veya kısıtlının menfaati çatışırsa, vesayet makamının, ilgilisinin isteği üzerine veya re'sen temsil kayyımı ataması gerekmektedir. Ortaklığın giderilmesi çift taraflı dava olduğundan, davacılar ... ve ... ile davacı ...'ün menfaati çatışmaktadır. ... ve ...'e velayeten ... dava açamaz. Mahkemece, annenin hukuki yararı ile çocukların hukuki yararı çatıştığından; çocuklar ... ve ...'e kayyım tayin ettirilmesi, davaya kayyım tarafından devam edilmesi ve kayyımın gösterdiği takdirde delilleri toplanıp sonucuna göre karar verilmesi gerekirken, çocuklar ... ve ...'e kayyım tayin edilmeden karar verilmesi doğru görülmemiş bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2016/934 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/220660700)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -70,15 +82,21 @@ Davaya konu taşınmazlarda paydaş olan davalılar .... ve ....'in reşit olmad
 
 ## Yargıtay 8. HD 2015/14465 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/153029500)
+
 Eda davasının mümkün olduğu durumda tespit davası dinlenmez. Bir tespit davasının dinlenebilmesi için davacı tarafın dava açmakta güncel hukuki yararının bulunması gerekir (HMK 106). Taşınmazın tapuda paylı mülkiyet olarak kayıtlı olduğu anlaşılmaktadır. Üzerinde kat irtifakı/kat mülkiyeti kurulmamış, filen bağımsız bölümlere sahip bina bulunduğu, paydaşların kullanımının bu fiili bağımsız bölümlere yönelik olduğu, paydaşlar arasında ortaklığın giderilmesine ilişkin bir davanın mevcut olmadığı görülmektedir. Bir eda/inşai davası niteliğinde olmak üzere ortaklığın kat mülkiyetinin kurulması suretiyle giderilmesi için dava açılması imkan dahilindedir. Bu durumda bu davayı açmakta davacıların güncel hukuki yararının bulunduğundan söz edilemez. Bu nedenle davanın hukuki yarar yokluğundan reddine karar verilmesi gerekirken, yazılı şekilde kabul edilmesi isabetli olmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 20. HD 2015/13040 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/400461700)
 
 Sulh Hukuk Mahkemesince, "elbirliği mülkiyetine konu ...larda ortaklar paylaşma sözleşmesi yapmış iseler bu sözleşme ile elbirliği haline son vermiş olduklarından artık ortaklığın giderilmesi davası açamayacakları, bu durumda taksim sözleşmesine dayalı tescil davası açılması gerektiği" gerekçesiyle görevsizlik yönünde hüküm kurulmuştur.
 
 Asliye Hukuk Mahkemesince ise, "vesayet makamının öncelikle, vasinin de kısıtlı ile birlikte dava konusu taşınmazlarda hissedar olduğu ve taraflar arasında menfaat çatışması da olacağı gözönünde bulundurularak, sözkonusu terekenin paylaşım sözleşmesinde kısıtlıyı temsil etmek üzere bir kayyım tayininden sonra talebin 4721 sayılı Türk Medenî Kanununun 463/5. maddesi uyarınca değerlendirilmesi ve bu aşamadan sonra bir karar verilmek üzere dosyayı denetim makamına göndermesinin gerektiği" gerekçesiyle görevsizlik yönünde hüküm kurulmuştur.
 
 ## Yargıtay 14. HD 2014/6130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355131400)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -88,6 +106,8 @@ Ortaklığın giderilmesi davası iki taraflı, taraflar için benzer sonuçlar 
 
 ## Yargıtay 8. HD 2014/5883 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98516800)
+
 Diğer yandan tespit davası açan davacı, eda davası ile inşai davalardan farklı olarak dava açmakta hukuken korunmaya değer güncel bir yararının bulunduğu hususunu açıkça ortaya koymak, hukuki yararını ispatlamak zorundadır. Maddi vakıalar tek başına tespit davasına konu yapılamaz; ancak bir hakkın yahut bir hukuki ilişkinin varlığının ya da yokluğunun belirlenmesi amacıyla tespite konu yapılabilir. Taraflar arasındaki ortaklığın giderilmesi davasının kesinleşip kesinleşmediğine ilişkin dosyada bir bilgi veya ilamda bir şerh bulunmamakta ise de ortaklığın giderilmesi davasındaki feragatin hatalı algılanması ve davacı E..’ye muhdesatın aidiyetinin tesbiti bakımından süre ve imkan verilmemiş olması gözetildiğinde taşınmazların muhdesatlarla birlikte satılması halinde satın alacak kişinin muhdesatlar üzerinde de hak sahibi olacağı, muhdesatta hak sahibi olduğunu iddia eden E.. aleyhine elatmanın önlenmesi ve kal davası açarak taşınmazdan el çektirme ihtimali dikkate alınarak eldeki davayı açmakta davacı E..’nin hukuki yararının olduğunun kabulü gerekir.
 Yargıtay Hukuk Genel Kurulu'nun 05.10.2012 tarih 2012/7-334 Esas 2012/650 Karar ve 11.03.2009 tarih 2009/8-75 Esas 2009/116 Karar sayılı ilamları da bu sonucu destekler niteliktedir.
 
@@ -95,12 +115,16 @@ Bundan ayrı hukuki yararı olmak kaydıyla paydaşlar tarafından muhdesatın a
 
 ## Yargıtay 2. HD 2013/11520 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/82979600)
+
 …
 
 .. K... adına kayıtlı taşınmaz hakkında açılan izale-i şuyu davası sırasında adresinin bilinememesi nedeniyle kayyım atanmasına karar verildiğini, ancak bu tarihte miras bırakanın ölü olup mirasçı olarak hak sahibi olan kendilerine de tebligat yapılmadığını ileri sürerek kayyımlık kararına ilişkin dosyada yargılamanın yenilenmesini ve kayyımlık kararının kaldırılmasını talep etmişlerdir. İzale-i şuyu davası sırasında kayyım atanmasındaki amaç, tapu maliki olan miras bırakanın, mirasçılarının ve Hazinenin mevcut haklarının korunması ve o anda görülmekte olan davadaki hak ve menfaatlerinin korunmasının sağlanmasıdır. Miras bırakanın açık adresinin, kimlik bilgilerinin ve mirasçıların tespit edilememesi nedeniyle izale-i şuyu davasında hak ve menfaatlerinin korunması amacıyla kayyım marifeti ile temsil edilmesinde bir isabetsizlik bulunmamaktadır. Mevcut olayda kanunda sayılan yargılamanın yenilenmesi sebeplerinden hiç birisi bulunmamaktadır. Olayları açıklamak taraflara, hukuki nitelendirme hakime aittir.
 Davacılar kendisine kayyım atanan şahsın mirasçısı olduklarını, adreslerinin mevcut olduğunu ve kayyım atanması şartlarının bulunmadığını ileri sürerek kayyımlık kararının kaldırılmasını talep ettiklerine göre istek kayyımlık kararının kaldırılması istemine ilişkindir. Hal böyle olunca, toplanan delillerden kayyım atanmasını gerektiren şartların ortadan kalktığı, mirasçılara ulaşılabildiği anlaşılmakla Fatih 2. Sulh Hukuk Mahkemesinin 31.01.2001 gün ve 2000/628-52 sayılı kayyımlık kararının kaldırılmasına karar verilecek yerde yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.
 
 ## Yargıtay 6. HD 2012/14827 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056693000)
 
 Dava, iki adet taşınmazda paydaşlığın giderilmesi davasıdır.
 
@@ -112,6 +136,8 @@ Olayımıza gelince; satışına karar verilen taşınmazlarda paydaş olan ...'
 
 ## Yargıtay 6. HD 2012/6237 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563972700)
+
 Dava, iştirakli ortağın borcundan dolayı 1 adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
 …
@@ -120,11 +146,15 @@ Olayımıza gelince; İİK.nun 121.maddesi gereğince icra mahkemesinden dava ko
 
 ## Yargıtay 6. HD 2012/71 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687812000)
+
 Borçlu ortağın alacaklısı İcra Mahkemesinden İ.İ.K.nun 121.maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilirse de, yetki belgesi ile açılan dava sırasında, davacının dava açma ve takip yapma hakkının devam etmesi gerekir. Yargılama sırasında borcun ödenmesi halinde, davacının davanın görülmesindeki hukuki yararı sona erer.
 
 Olayımıza gelince, davacı tarafından borçlu ... hakkında, Sivas 2. İcra Müdürlüğünün 2003/4234 E. sayılı dosyası ile yapılan icra takibi neticesinde, ...'a miras kalan taşınmazlardaki, miras hissesi üzerine haciz konularak, Sivas İcra Hukuk Mahkemesinin 2007/7-7 D.iş sayılı dosyası üzerinden İİK'nun 121. maddesi gereğince verilen yetki belgesine istinaden Ortaklığın giderilmesi davası açılmıştır. Ne var ki Sivas 2. İcra Müdürlüğü'nün 22.11.2011 tarihli cevabi yazısına göre mahkemece yetki verildikten sonra davacı alacaklı 14.04.2011 tarihinde tüm alacaklarından ferileri ile birlikte feragat ettiğinden, takip dosyası kapatılmıştır. Bu nedenle davacının İİK'nun 121 maddesi gereğince başlangıçta dava açma hakkı ve yetkisi olmasına rağmen, yargılama sırasında takipten feragat etmesi nedeni ile davayı takip etme hakkı ortadan kalkmıştır. Mahkemece davacının takipten feragat ettiği hususu değerlendirilerek, buna göre karar verilmesi gerekirken, davanın kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 7. HD 2010/1875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110794400)
 
 Dava, taşınmaz üzerinde bulunan muhdesatların mülkiyetinin tespiti istemine ilişkindir.
 

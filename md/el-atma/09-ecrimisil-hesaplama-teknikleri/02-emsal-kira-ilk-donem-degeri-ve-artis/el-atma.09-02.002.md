@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2024/3756 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095965400)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -44,6 +46,8 @@ Yukarıda V.C.3.2 ve devamındaki bentlerde açıklanan nedenlerle İlk Derece M
 
 ## Yargıtay 5. HD 2024/2020 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024774600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, birleştirilen davanın ise reddine karar verilmiştir.
 
 …
@@ -65,6 +69,8 @@ Bir kısım davacılar ve davalı idare vekillerinin görülmeyen tüm temyiz it
 
 ## Yargıtay 5. HD 2024/1984 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024274900)
+
 Davalı idare vekili cevap dilekçesinde özetle; öncelikle zamanaşımı def'inde bulundukları davanın haksız olduğunu, kamulaştırmasız el atmanın söz konusu olmadığını, dava konusu taşınmaza bir müdahalenin bulunmadığını belirterek davanın reddini savunmuştur.
 
 …
@@ -78,6 +84,8 @@ Dava, taşınmazın bir kısmının dere yatağı haline gelmesi nedeniyle tazmi
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan Bölge Adliye Mahkemesi karının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/1058 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039039600)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -99,6 +107,8 @@ görülmediği ve ecrimisil talebi yönünden, arsa niteliğindeki taşınmazın
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2024/259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008041100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, birleştirilen davanın kabulüne karar verilmiştir.
 
@@ -125,6 +135,8 @@ Asliye Hukuk Mahkemesinin 19.02.2013 tarih ve 2011/629 E, 2013/126 K sayılı il
 
 ## Yargıtay 5. HD 2023/11526 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1004081900)
+
 Davalı ...
 
 …
@@ -140,6 +152,8 @@ Davalı idareler vekillerinin Bölge Adliye Mahkemesi kararına yönelik temyiz 
 …
 
 ## Yargıtay 5. HD 2023/9571 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988796400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -160,6 +174,8 @@ Dairemizce yapılan inceleme sonucu; ecrimisile yönelik talep bakımından; ars
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2023/9032 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987337600)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kabulüne ve birleştirilen davanın kısmen kabulüne karar verilmiştir.
 
@@ -184,6 +200,8 @@ Taraf vekillerinin temyiz itirazlarının kabulü ile temyiz olunan Mahkeme kara
 
 ## Yargıtay 5. HD 2023/8071 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/958080500)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -199,6 +217,8 @@ Dairemizce yapılan inceleme sonucunda, Tapu Kadastro Genel Müdürlüğünün p
 c) (2) numaralı bendindeki “dava tarihi olan 26.07.2010 tarihinden,” ibaresi hükümden çıkartılarak yerine “her dönem için dönem sonlarından” ibaresinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2023/7597 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/943478700)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -221,6 +241,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usu
 
 ## Yargıtay 5. HD 2023/7436 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/941026000)
+
 Davacı vekili dava dilekçesinde; dava konusu Manisa ili, .... ilçesi, ... Mahallesi, 26 ada 6 parsel sayılı taşınmazın davalı idare tarafından kamulaştırma yapılmadığı halde fiilen kullanıldığını, bu nedenlerle haksız ve hukuka aykırı el atmanın önlenmesine ve ecrimisil bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -238,6 +260,8 @@ Kabule göre de; hükmedilen ecrimisil bedeline talep gibi dava tarihinden itiba
 İlk Derece Mahkemesinin kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/6190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108809900)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -260,6 +284,8 @@ Ecrimisil belirlenen dönem için davacının tapudaki pay oranlarının değerl
 Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/6023 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987714200)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, birleştirilen davanın kabulüne karar verilmiştir.
 

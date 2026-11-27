@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2012/19987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523351500)
+
 Ecrimisil, kötü niyetli şagilin ödemekle sorumlu bulunduğu tazminattır. Bu nedenle ecrimisil davaları haksız fiil benzeri davalar olup, ecrimisil miktarının en çoğu tam kar mahrumiyeti en azı ise asgari kira bedelidir.Yargıtayın yerleşmiş uygulamaları doğrultusunda kira geliri üzerinden ecrimisilin belirlenmesinde, taşınmazın dava konusu ilk dönemde mevcut haliyle serbest koşullarda getirebileceği kira parası emsal kira sözleşmeleri ile karşılaştırılarak (taşınmazın büyüklüğü ve çevre özellikleri de nazara alınarak) rayice göre belirlenir. Sonraki dönemler için ecrimisil miktarı ise, ilk dönem için belirlenen miktara ÜFE(TEFE) artış oranının tamamı yansıtılmak suretiyle belirlenecek miktardan az olamaz. Bilirkişi raporunu hazırlarken, raporun dayanağı olan somut ve özel nedenleri bilimsel verilere uygun olarak göstermek zorundadır. HMK'nun 279/2. maddesi hükmüne göre; bilirkişi raporu Yargıtay denetimine de elverişli olacak şekilde bilgi ve belgeye dayanan gerekçe ihtiva etmelidir.
 Ancak bu şekilde hazırlanmış raporun denetimi mümkün olup, hüküm kurmaya dayanak yapılabilir.Hükme esas alınan bilirkişi raporunda, emsal değerlendirmesi yapılmadan, davalı tarafa ait dükkanlar için davalı ...'ye ödenen 2008 yılı aylık kira-işgal bedelleri esas alınarak 2008 yılından geriye doğru hesaplama yapılarak endekslerin tamamının yansıtılması suretiyle ecrimisil bedeli tespit edilmiş ve endeks uygulanmak suretiyle hesaplanan miktar üzerinden hüküm kurulmuş ise de, bu haliyle bilirkişi raporu hüküm kurmaya elverişli ve yeterli değildir.
 O halde mahkemece; mahallinde üç kişilik bilirkişi kurulu (inşaat, hukuk ve emlak) ile yeniden keşif yapılarak, benzer yerlerin kira sözleşmeleri getirtilerek (resen emsal araştırması yapmak ya da taraflardan emsal göstermeleri istenmek suretiyle) incelenmeli, taşınmazın büyüklüğü ve çevre özellikleri de nazara alınarak, öncelikle dava konusu yerin arsa olduğu, muhtesadın davalıya ait olduğu gözetilmek suretiyle dava konusu ilk dönemde arsa olarak serbest koşullarda getirebileceği kira parası rayice göre belirlenmeli, sonraki dönemler için ise, ilk dönem için belirlenen miktara TÜİK. ce yayımlanan ÜFE artış oranının tamamının yansıtılması suretiyle bulunacak miktardan az olmamak koşuluyla ecrimisil hesabı yapılarak karar verilmesi gerekirken eksik inceleme ve yetersiz bilirkişi raporuna dayanılarak hüküm kurulması doğru görülmemiştir.
@@ -28,6 +30,8 @@ O halde mahkemece; mahallinde üç kişilik bilirkişi kurulu (inşaat, hukuk ve
 Ecrimisile ilişkin davalarda talep olması halinde, bilirkişi tarafından her yıl için saptanan ecrimisil miktarına, tahakkuk tarihleri olan dönem sonlarından itibaren yasal oranda işleyecek kademeli faize hükmedilmesi gerekir. Davacının dava dilekçesinde, ecrimisile ilişkin işlemiş faiz talebini de açıkça belirtmiş olmasına göre, her dönem için tahakkuk eden ecrimisile dönem sonundan itibaren işleyecek kademeli faizin de bilirkişilerce tespit ettirilip hüküm altına alınması gerekirken işlemiş faiz talebi yönünden olumlu veya olumsuz bir karar verilmemesi doğru görülmemiş, bozmayı gerektirmiştir. Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/15369 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79614700)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -41,11 +45,15 @@ Davalı vekilinin temyiz itirazları yerindedir. Kabulü ile, hükmün açıklan
 
 ## Yargıtay 3. HD 2012/8895 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549887400)
+
 Borçlar Kanununun 104/son maddesi gereğince “Geçmiş günler faizinin tediyesinde temerrüt sebebi ile faiz yürütülemez.”Somut olayda, bilirkişi toplam ecrimisil alacağını belirlerken, bu alacağı dönemsel olarak hesap ettiği faizi de dahil etmiş, mahkeme tarafından da, bu toplam alacağa ayrıca faiz yürütülmüştür. Öyle ise mahkemece, bilirkişiden ek rapor alınarak, talep konusu 2003-2008 dönemine ilişkin ecrimisil hesabı yaptırılmasından sonra, bulunacak ecrimisil bedeline, kararda dönemsel olarak faiz tahakkuk ettirilmek suretiyle karar verilmesi gerekirken, yanılgılı değerlendirme sonucu yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 1. HD 2012/4409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79560500)
 
 Davacı, 14.11.2008 tarihinde davalıdan satın alarak kayden malikli olduğu 33, 34, 35 ve 36 bağımsız bölüm numaralı taşınmazlara, davalının kullanımını sürdürmek suretiyle müdahale ettiğini ileri sürerek, elatmanın önlenmesi ve ecrimisil isteğinde bulunmuş; ıslah suretiyle ecrimisil talep miktarını arttırmıştır.
 
@@ -65,6 +73,8 @@ Tarafların temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan ned
 
 ## Yargıtay 3. HD 2011/19366 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620437600)
+
 Davada tarafların müşterek malik bulundukları taşınmazların davalı paydaşın tasarrufunda bulunduğu, önceki döneme ilişkin ecrimisil davasının sonuçlandığı ileri sürülerek, fazla hak saklı tutularak 2,5 yıllık yeni dönem için ecrimisil istenilmiş, mahkemece, kısmen kabulü ile 13.303 TL'nin davalıdan tahsiline karar verilmiş; hüküm, taraflarca temyiz edilmiş; Dairemizin 2010/17777-2011/1609 Karar sayılı ve 03.02.2011 günlü ilamı ile "...Ayrıca dava dilekçesinde ecrimisili faizi ile tahsili istenmediği gözetilerek ecrimisile faiz uygulanmamış ise de, müddeabihin ıslahla artırılması isteminde faiz talebinde bulunulduğu böylece ıslahla artırılan (803 TL) kısım için ıslah tarihinden faize karar verilmesi gerektiği değerlendirilmeden faize hiç hükmedilmemesi isabetli görülmemiştir" gerekçesiyle hükmün bozulmasına karar verilmiş, davacı taraf bozma ilamına karşı karar düzeltme isteğinde bulunmuştur.
 
 …
@@ -72,6 +82,8 @@ Davada tarafların müşterek malik bulundukları taşınmazların davalı payda
 Sonuç: Karar düzeltme talebinin kabulüne, Dairemizin 03.02.2011 gün, 2010/17777-1609 Karar sayılı bozma ilamının faizle ilgili bölümünü kaldırarak, 13.303 TL ecrimisil alacağının dava tarihinden itibaren yasal faiziyle tahsili şeklindeki gerekçe ile BOZULMASINA …
 
 ## Yargıtay 1. HD 2011/880 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78705700)
 
 Davacı, kayden maliki bulunduğu 4 parsel sayılı taşınmaza, komşu 3 parsel sayılı taşınmaz malikleri davalı ve dahili davalının taşkın yapı yapmak suretiyle müdahale ettiklerini ileri sürerek, elatmanın önlenmesine, yıkıma, ecrimisile ve tazminata karar verilmesini istemiştir.
 
@@ -86,6 +98,8 @@ Dava çaplı taşınmaza elatmanın önlenmesi, yıkım, ecrimisil ve tazminat i
 Kabule göre de, bozma kararında, hüküm altına alınan ecrimisile istek olmadığı için faiz tahakkuk ettirilmesinin doğru olmadığına değinildiğine ve mahkemece bozmaya uyulduğuna göre bu hususta davalı yararına kazanılmış hak oluştuğu kuşkusuzdur. Buna rağmen mahkemece son kurulan kararda kazanılmış hak kuralı gözetilmeksizin ecrimisile faiz tahakkuk ettirilmesi doğru değil ise de anılan husus temyiz sebebi olarak gösterilmediği için bozma nedeni yapılmamıştır. Davalıların yukarıda değinilen yöne ilişkin temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedene hasren HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 27.01.2011 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2010/12273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78738600)
 
 Davacı, kayden maliki olduğu 13 ada 151 parsel sayılı taşınmaza komşu 145 sayılı parsel maliki olan davalının 1991 m2’lik kısma müdahalede bulunduğunu ve bu yerden ürün elde ettiğini ileri sürüp, elatmanın önlenmesi ve ecrimisil istemiştir.
 
@@ -102,6 +116,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkind
 Değinilen ilke ve yasa hükümleri gözardı edilerek kısa kararda hükmedilen tazminata (ecrimisile) faiz yürütülmediği halde, gerekçeli kararda faize hükmedilmek suretiyle kısa karara çelişkili olarak gerekçeli karar yazılması doğru değildir. Hal böyle olunca, hükmün l0.4.l992 gün, l992/7 Esas, l992/4 sayılı Yargıtay İçtihatları Birleştirme Kararı çerçevesinde bir karar verilmek üzere HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 25.11.2010 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2010/7670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78871600)
 
 Davacı, kayden maliki olduğu 73 ada 13 parsel sayılı taşınmazına komşu 12 sayılı parsel maliki davalıların taşkın bina yapmak suretiyle müdahale ettiklerini bu nedenle bina yapamadığından zarar gördüğünü ileri sürüp, elatmanın önlenmesi,yıkım,ecrimisil ve tazminat isteklerinde bulunmuştur.
 
@@ -123,10 +139,14 @@ Temyiz eden davalıların temyiz itirazları yerindedir.Kabulü ile, hükmün a�
 
 ## Yargıtay 7. HD 2010/1274 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110721700)
+
 Ne varki; birleşen davada ecrimisil isteminin kabulüne karar verildiğine ve bilirkişi tarafından da her yıl için istenebilecek ecrimisil miktarı net biçimde belirlenip mahkemece de belirlenen bu bedele hükmedildiğine göre ecrimisil alacaklarının haksız fiilden kaynaklandığı, gelir getiren taşınmazlar yönünden ecrimisil tazminatına faiz istenilebilmesi için temerrüt ve intifadan men koşulunun gerçekleşmesinin gerekmemesine, bu nedenle temyiz edenin sıfatı da dikkate alınarak her yıl için hükmedilen ecrimisil tazminatına ait olduğu yılın bitim gününden sonrası için yasal faize karar verilmesi gerekirken, hüküm yerinde anlaşılmaz ve infazda kuşku yaratacak biçimde faize hükmedilmesi isabetsiz ise de yanılgının giderilmesi yargılamanın tekrarını gerektirmediğinden hüküm yerinin 2 numaralı bendindeki " ...kabul edilen miktar ile ilgili olarak 15/3/2002 başlangıç ve 15/3/2007 tahakkuk tarihleri itibariyle faiz uygulanmasına," sözlerinin hüküm yerinden çıkartılmasına, yerine "alacağın 4.795,00 TL sine 16.3.2003, 6.000,00 TL sine 16.3.2004, 7.200,00 TL sine 16.3.2005, 8.880,00 TL sine 16.3.2006 tarihinden dava tarihi olan 16.3.2007 tarihine kadar değişken oranlı yasal faiz yürütülmesine"
 sözlerinin yazılmasına, hükmün düzeltilen bu şekli ile ONANMASINA, hüküm düzeltilerek onandığından harç alınmasına yer olmadığına, davacı-birleşen dosya davalısı ... tarafından peşin ödenen 580,00 TL temyiz harcının istek halinde iadesine, 11.03.2010 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 1. HD 2008/9347 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78232100)
 
 Davacı, adına kayıtlı 61 sayılı parseli davalının işgal ettiğini ileri sürerek elatmanın önlenmesi, eski hale iade ve ecrimisil istemiştir.
 
@@ -143,6 +163,8 @@ Ne var ki, davada ecrimisil yanında miktar belirtilmeden yasal faiz istendiğin
 Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulüyle, hükmün HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2007/4918 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77896000)
 
 Davacı, kayden paydaşı olduğu .ada ..parsel sayılı taşınmazından davalıya ait tütün işleme makine ve teçhizatlarının bulunması nedeniyle yararlanamadığını ve kullanımını davalının engellediğini ileri sürerek, elatmanın önlenmesi ve ecrimisil istemiştir.
 
@@ -176,6 +198,8 @@ Davalı vekilinin istinaf başvurusunun 3533 Sayılı Kanun'un 6/2-a ve 6100 say
 
 ## Denizli BAM 1. HD 2025/1298 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171693300)
+
 Davalı vekili 12/02/2024 tarihli cevap dilekçesinde özetle; icra takibine konu ecrimisil ihbarnamesinin idari yargının konusu olduğundan takip yapılamayacağını, icra takibi kanuna aykırı olduğundan itirazın iptali davasının reddine karar verilmesini, icra takibinin yetkili icra dairesi olan ...’te açılmadığından yetki itirazında bulunduklarını ve davanın usulden reddi gerektiğini, davacı kurumun kendi yönetmeliğinde dava konusu alacağın tahsili için 6183 sayılı Kanun hükümlerinin uygulanacağını açıkça belirttiğinden icra takibi ile alacak talebinde bulunmasının hukuka aykırı olduğunu, alacak likid olmadığından icra inkar tazminatı talebinin reddine karar verilmesini, kira sözleşmesinin TBK.hükümleri kapsamında sona ermesi nedeniyle kiraya verenin kira sözleşmesini sonlandıramayacağını, bu konuda açılan kiracılık sıfatının tespiti davasının beklenmesi gerektiğini belirterek davanın reddine ve karşı taraf aleyhine %20 kötüniyet tazminatına hükmedilmesine karar verilmesini savunmuştur.
 
 …
@@ -196,6 +220,8 @@ Davacı vekili ile davalı vekilinin istinaf başvurusunun KABULÜ ile, .... Asl
 
 ## Ankara BAM 21. HD 2023/27 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864478200)
+
 Asliye Hukuk Mahkemesinin 2016/373 E sayılı dosyasında görülen davada, 2018/290 K numarası ile davanın kabulüne 7.324,34 TL ecrimisil bedelinin her dönem sonunda işleyecek yasal faizi ile ve davacı lehine hükmedilen vekalet ücretinin davalı genel müdürlüklerinden alınmasına karar verildiğini, davacı tarafça Sinop İcra Müdürlüğünün 2019/451 E sayılı dosyasında icra takibi başlatıldığı, dosya borcuna 16.044,57 TL ödeme yapıldığı, yapılan posta giderleri, gider avansı, başvurma harcı, istinaf karar harcı, tehiri icra karar harcı, bakiye karar harcı olmak üzere 1.140,90 TL olmak üzere toplam 17.185,47 TL ödeme yapıldığını,Genel Müdürlükleri ve ... arasında 24.07.2006 tarihinde imzalanan İHDS gereğince tüm dağıtım faaliyetlerinin ... tarafından yürütülmesi ve bu tesislerin kullanımının ...’a ait olması nedeniyle ayrıca İHDS nin 7.5. ve 7.7 maddesindeki düzenlemeler gereğince ,yerel mahkemede ikame edilen davaya konu taleplerin kullanımına ilişkin olması ve gerekçeli kararda da belirtildiği üzere taleplerin İHDS sonrası dönem olan 2010 ila 2015 yılı dönemlerini kapsaması huşuları dikkate alındığında, dava ile icra dosyasına yapılan tüm ödemelere ilişkin sorumluluğun ...'a ait olduğu, bu
 nedenle 01.07.2009 tarih ve 6687 sayılı yazıyla 17.752,78 TL nin ödenmesinin talep edildiği, davalı ... an 6446 sayılı yasanın 19. maddesi gereğince ve İHDS 7.2. ve 7.4 maddelerine göre sorumluluğun ...’a ait olduğunu beyanla ödeme taleplerini reddettiğini belirtilerek,fazlaya ilişkin hakları saklı kalmak kaydıyla, Sinop 2. Asliye Hukuk Mahkemesinin 2016/373 E 2018/290 K sayılı dosyasına yapılan masrafların ve bu dosyaya istinaden açılan Sinop İcra Müdürlüğünün 2019/451 E sayılı dosyasına yapılan masraf ve ödemelerin toplamı olan 17.185,47 TL nin ödeme tarihlerinden itibaren işleyecek avans faizi ile birlikte,davalı ...'tan rücuen tahsili ile müvekkili kuruma verilmesini talep etmiştir.
 
@@ -205,10 +231,14 @@ Davacı vekilinin istinaf başvurusunun HMK'nın 353/(1)-b.1 maddesi gereğince 
 
 ## İstanbul BAM 3. HD 2022/1935 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782883600)
+
 Bilirkişi tarafından davacı tarafça ihtar gönderildiği şeklinde belirtilen dilekçelerin davalı ... tarafından verildiği halde bu dilekçelerin davacı tarafça yazılan ihtarlar olarak nitelendirildiği, davalının sözleşmesi devam ettiğini savunduğu araçlara ilişkin kira sözleşmeler iile her bir aracın teslim belgesini değerlendirilmediği, davalı taraça sunulan dilekçe örneklerinde belirtilen hususların davacının araçları teslimden kaçınması olarak nitelendirilip nitelendirilemeyeceğinin değerlendirilmediği, kira sözleşmesinde faize ilişkin hüküm bulunmamasına rağmen faiz hesaplaması yapılmış olduğu, kira sözleşmesindeki araçların kira bedelleri belirtilmişken ecrimisil hesabında kiralama şirketinden alınan fiyat listesine göre, ortalama aylık 1.500,00 TL kira getirisi sağlayacağının tespit edilmesinin hatalı olduğu halde raporun hükme esas alınması usul ve yasaya uygun olmadığı tespit edilmiştir.
 Bu nedenle, davalı tarafın istinaf başvurusunun HMK'nın 353/1-a-6 maddesi uyarınca kabulü ile kararın kaldırılmasına, yukarıda belirtilen hususlarda yeniden hükme elverişli, dosyadaki belgelerle uyumlu ve denetime elverişli şekilde bilirkişi incelemesi yaptırılarak hasıl olacak sonuca göre karar verilmek üzere dosyasının mahkemesine gönderilmesine karar vermek gerekmiştir.
 
 ## İstanbul BAM 2. HD 2019/1527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540881700)
 
 İhale kesinleşinceye kadar taşınmazın ne şekilde muhafaza ve idare edileceği ... dairesi tarafından kararlaştırılır.” hükmüyle, cebri ihale sonucu mülkiyetin kazanılması ve ihale kesinleşinceye kadar taşınmazın idare ve korunma şekli belirlenmiştir.Bu yasal düzenlemelere göre ihale ile taşınmazı satın alan kişi veya kurum taşınmazın mülkiyetini ihalenin kesinleşmesi halinde ihale tarihinde kazanmış olur.Somut uyuşmazlıkta, cebri ihale 20.03.2012 tarihinde yapılmış olup davalılardan ... tarafından açılan ihalenin feshi davası reddedilerek 20.12.2013 tarihinde kesinleşmiştir. Bu durumda, ihale alıcısı davalı ...'e mülkiyetin 20.12.2013 tarihinde geçtiği ve ihale tarihinden itibaren davalı-karşı davacının ecrimisil isteyebileceği açıktır.İİK'nun 135/2. maddesinde ise “Taşınmaz borçlu tarafından veya hacizden evvelki bir tarihte yapıldığı resmi bir belge ile belgelenmiş bir akte dayanmayarak başkaları tarafından işgal edilmekte ise onbeş gün içinde tahliyesi için borçluya veya işgal edene bir tahliye emri tebliğ edilir. Bu müddet içinde tahliye edilmezse zorla çıkarılıp taşınmaz alıcıya teslim olunur” denilmiştir.
 Anılan yasa hükmüne göre, ihale yoluyla satılan taşınmazın kayıt maliki dışındaki üçüncü kişiler tarafından işgali halinde uygulanma olanağı bulmaktadır.Alıcıya ihale edilen taşınmaz kayıt maliki dışındaki kişi ya da kişiler tarafından işgal edilmekte ise İİK'nun 135/2 maddesindeki açıklamaları içeren ihtarnamenin işgalciye gönderilerek 15 günlük süre tanınması ondan sonra ecrimisil isteğinde bulunulması gereklidir..."Somut olayda; dava konusu taşınmazın 02/05/2005 tarihindeki ihale sonucu davacının mülkiyetine geçtiği, taşınmazda işgalci konumunda bulunan davalı ...'a taşınmazın 15 gün içinde tahliyesi için İcra müdürlüğünce gönderilen tahliye emrinin 11/07/2007 tarihinde tebliğ edildiği, 19/02/2008 tarihinde taşınmazın tahliye edildiği anlaşıldığından bu davalının 27.07.2007- 19.02. 2008 tarihleri arasındaki süre için hesaplanan ecrimisilden müteselsilen sorumlu olacağı anlaşılmıştır. Diğer davalının ise ihale tarihinden itibaren dava konusu tüm süre yönünden sorumlu olduğu açıktır.

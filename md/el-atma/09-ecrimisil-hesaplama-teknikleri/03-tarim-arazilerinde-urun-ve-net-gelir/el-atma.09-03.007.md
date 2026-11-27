@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2011/3405 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969148400)
+
 Davacı dilekçesinde; elbirliği mülkiyetine tabi 68, 71, 264, 321, 358, 359, 364, 368, 371, 412, 420 ve 586 parsel taşınmazların davalı tarafından kullanılması nedeniyle, 01.01.2006 – 09.09.2009 tarihleri arasındaki dönem için ecrimisil bedeli olarak 15.365 TL’nin yasal faizi ile birlikte tahsilini talep etmiş, 01.04.2010 tarihli ıslah dilekçesi ile bu kez 19.619 TL nin tahsilini istemiştir.
 
 Davalı, ektiği yerlerin parasını ödediğini, ancak 2008 ve 2009 yıllarında kuraklık olması nedeniyle davacıya ödeme yapmadığını savunarak davanın reddine karar verilmesini talep etmiştir.
@@ -37,6 +39,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2011/903 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/962655500)
+
 Davalı ... vekili cevap dilekçesinde; dava konusu taşınmazın 4900 m²'lik kısmının ... A.Ş'nin kullanımında olduğunu, 3400 m²'lik alanın belediyece kullanıldığını, geriye kalan 321 m²'lik alanın ise atıl durumda boş bir alan olduğunu, kaldı ki taşınmazın 537,98 m² alan için kamulaştırma kararı alındığını, talep edilen ecrimisil bedelinin de fahiş olduğunu savunarak; davanın reddini istemiştir.
 
 Mahkemece; bilirkişi raporu esas alınarak, davanın kısmen kabulü ile 496.777,14 TL ecrimisilin her dönem sonu itibariyle işleyecek yasal faiziyle birlikte tahsiline karar verilmiş, hüküm taraf vekillerince süresinde temyiz edilmiştir.
@@ -51,6 +55,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2010/16561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967522000)
+
 Davalı cevabında, taşınmazın üçe bölündüğünü, kendi payına düşen 62767 m2'lik kısmı kullandığını, davacının taşınmazına müdahale olmadığını beyanla davanın reddini savunmuştur.
 
 Mahkemece, davanın kabulü ile, bilirkişi raporuna göre toplam elde edilen ürün gelirinden (61.553,00) davacı payına düşen 20.000,00 liranın davalıdan tahsiline karar verilmiş, hüküm davalı tarafından temyiz edilmiştir.
@@ -62,6 +68,8 @@ O halde mahkemece, ecrimisile esas olacak veriler resmi mercilerden (İlçe Tar�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 5. HD 2010/5993 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025024800)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -77,6 +85,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2010/4960 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1027914800)
+
 Dava, kamulaştırmasız el atmanın önlenmesi, kal ve ecrimisil bedelinin tahsili istemine ilişkindir.
 
 …
@@ -89,11 +99,15 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 3. HD 2010/4635 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966310000)
+
 Kabule göre de, bilirkişilerin kira gelirine göre ecrimisil belirlerken, emsalleri de inceleyip somut ve özel nedenleri bilimsel verilere uygun, yargıtay denetimine elverişli olacak şekilde bilgi ve belgeye dayalı olarak gösterip, ilk dönem ecrimisil miktarı taşınmazın mevcut haliyle ve serbest koşullarda emsallere göre belirlendikten sonra, takip eden yıllar için belirlenen bu miktarlara (TEFE-ÜFE) artış oranının tamamı yansıtılmak suretiyle bulunacak miktarlar baz alınarak sonuç ecrimisil tespiti gerekirken, soyut bir takım gerekçelere dayalı, Yargıtay denetimine elverişli olmayan ve endeks uygulamasının üzerinde artışla belirlenen ecrimisil hesaplayan bilirkişiler raporunun hükme esas alınması isabetli görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 5. HD 2010/3271 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025482500)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -111,6 +125,8 @@ Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan n
 
 ## Yargıtay 14. HD 2009/8464 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847302300)
+
 Davacı, davalının 115 ada 4 parsel sayılı taşınmazına kullanarak elattığını ileri sürerek davalının haksız elatmasının önlenmesi, taşınmazı kullanamaması ve doğrudan gelir desteği alamaması nedeniyle 2000,00. YTL tazminatın ve doğrudan gelir desteğinin yasal faizi ile birlikte davalıdan alınarak davacıya verilmesi talebinde bulunmuştur.
 
 …
@@ -127,6 +143,8 @@ SONUÇ: Yukarıda (1) numaralı bentte yazılı nedenlerle davalı vekilinin di�
 
 ## Yargıtay 8. HD 2008/2553 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16801200)
+
 Davacı vekili,Hazine adına kayıtlı 131 parselin üzerindeki 12 adet zeytin ağacının vekil edeninin miras bırakanı Z.. G.. tarafından yetiştirildiğini ve tapu kaydının beyanlar hanesinde gösterildiğini, davalıların bu ağaçların ürünlerini toplamak suretiyle yararlandıklarını açıklayarak elatmalarının önlenilmesine, 5000 YTL maddi, 1000 YTL. manevi tazminatın yasal faizi ile birlikte davalılardan tahsiline karar verilmesini istemiştir.
 
 Davalılar vekili, vekil edeni G..'ın taşınmazdan yararlanmadığını, bu nedenle kendisine husumet yöneltilemeyeceğini, diğer davalı A.. Ü.. isteğin zilyetliğin korunmasına ilişkin bulunduğunu, davanın görevsiz mahkemede açıldığını, ayrıca dava açma süresinin geçtiğini, istenilen tazminat miktarlarının yüksek olduğunu belirterek davanın reddine karar verilmesini savunmuştur.
@@ -139,6 +157,8 @@ Davalılar vekilinin tüm temyiz itirazlarının reddi ile usul ve kanuna uygun 
 
 ## Yargıtay 14. HD 2007/13066 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859414400)
+
 Davacı Eylül 2000 tarih 4 numaralı tapuda 9/3750 pay sahibi bulunduğu taşınmazda bu payı temlik aldığı kişi tarafından kendisine teslim edilen ev ile bu paya karşılık kullanması gereken fındık bahçesine davalı paydaşın elattığını bildirerek yapılan elatmanın önlenmesi ile birlikte ziraatine engel olunan bahçeden yoksun kaldığı gelir karşılığı olarak 4000 YTL ecrimisil bedelinin ödetilmesini istemiştir.
 
 …
@@ -148,6 +168,8 @@ Talepte yeralan ve hükme konu edilen istemler arasında 68 m2 zemine oturan bir
 SONUÇ:Yukarıda açıklanan nedenlerle davalı temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## İstanbul BAM 15. HD 2025/830 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159968200)
 
 Asliye Ticaret Mahkemesi'nin 2011/50 Esasını aldığı, iş mahkeme dosyasının da mahkememize devredilerek mahkememizin (İst.14.ATM) 2014/295 Esasını üzerinden yargılamanın devam ettiği, (İstanbul 3.ATM 1993/1311 > bozmayla İstanbul 3.ATM 2007/84 > bozmayla İstanbul 3.ATM 2008/408 > devirle 20.ATM 2011/50 > devirle 14.ATM 2014/295) 2.Bozma;
 Yargıtay Hukuk Genel Kurulu'nun 2008/15-16 Esas 2008/138 Karar sayılı kararının bozma gerekçesinde "...Sonuç itibariyle taraflar arasındaki 27.12.1990 tarihli sözleşme taraflarca serbest irade ile akdedilmiş ve işlerlik kazanma, hüküm ifade etme ve nihayetinde geçerlilik koşuları da yine yanlarca kararlaştırılmış; bu koşuların yerine getirilmemesinin sonuçları da çok açık biçimde ortaya konulduğu , sözleşmenin imzalanmasına rağmen işlerlik kazanmasını koşula bağlayan bu açık kararlaştırmada davalıya ait yükümlülükler gösterilmiş ve yerine getirilmemiş olmakla sözleşmenin işlerlik kazanıp, devam etmesine olanak kalmadığı , böylece, davalının kiracılık sıfatının sona ermiş olmasına ve dolayısıyla da taşınmazı elinde bulundurmasına olanak veren bir hukuki sebep de bulunmamasına göre, davalının haksız işgalinin karşılığı tazminatı ödemekle yükümlü olduğunun kabulü gerektiği , öyle ise mahkemece yapılacak iş; ecrimisil tazminatının en azının kira geliri, en çoğunun da tam kar yoksunluğu olduğu dikkate alınıp, taşınmazın bulunduğu bölge, kullanma biçimi göz önünde bulundurularak konusunda uzman bilirkişi kurulundan alınacak rapor doğrultusunda hüküm kurmaktan ibaret olması gerektiği ..."
@@ -159,6 +181,8 @@ Yargıtay Hukuk Genel Kurulu'nun 2008/15-16 Esas 2008/138 Karar sayılı kararı
 
 ## İstanbul BAM 13. HD 2025/386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129540000)
+
 Yine Aynı Kanunun 15. maddesine göre ister gezici olsun ister bir dükkânda veya bir sokağın belirli yerlerinde sabit bulunsun, ekonomik faaliyeti sermayesinden fazla bedenî çalışmasına dayanan ve geliri 11. maddenin ikinci fıkrası uyarınca çıkarılacak kararnamede gösterilen sınırı aşmayan ve sanat veya ticaretle uğraşan kişi esnaftır. Ancak, tacirlere özgü 20 ve 53. maddeler ile Türk Medenî Kanunu'nun 950. maddesinin ikinci fıkrası hükmü bunlara da uygulanır. TTK'nın 11. maddesinin 02/07/2018 tarihli değişiklikten önceki halinde sınırın Bakanlar Kurulunca çıkarılacak kararnamede gösterileceği ifade edilmiştir. Nitekim 21.07.2007 tarihli, 26589 sayılı Resmi Gazete'de yayımlanan Bakanlar Kurulu kararı ile söz konusu ayrımın ne şekilde yapılacağı açıklığa kavuşturulduğundan ve sonrasında Cumhurbaşkanlığı kararıyla bu hususta yeni bir düzenleme yapılmadığından, halen geçerliliğini koruyan Bakanlar Kurulu kararı doğrultusunda değerlendirme yapılmalıdır.
 Anılan Bakanlar Kurulu kararı uyarınca, esnaf ve tacir ayrımı, esnaf faaliyetinin türüne göre 213 sayılı VUK’nun 177. maddesindeki parasal sınırlar esas alınarak belirlenir.213 sayılı Vergi Usul Kanunu'nun 176. maddesinde; tüccarların, birinci sınıf ve ikinci sınıf olmak üzere ikiye ayrıldığı, birinci sınıf tüccarların, bilanço esasına göre defter tutanlar olduğu, ikinci sınıf tüccarların ise işletme hesabına göre defter tutanlar olduğu hususu düzenlenmiştir. VUK'nun 177. maddesinde ise kimlerin birinci sınıf tüccar olduğu açıklanmış olup birinci aşamada gelir esasına göre bir ayrım yapılmış, maddenin son fıkrasında ise tacirin gelirine hiç bakılmaksızın, ihtiyari olarak bilanço esasına göre defter tutmayı tercih eden tacirlerin de birinci sınıf tacir oldukları kabul edilmiş, VUK'nun 178. maddesinde ise ikinci sınıf tüccarların kimler olduğu düzenlenmiştir. Bu yasal düzenlemelere göre, kanun gereği birinci sınıf tacir sayılan bir tacirin esnaf olarak kabulü mümkün değildir.Yukarıdaki açıklamalar ışığında somut olay değerlendirildiğinde; davacı taraf, davalı ile aralarındaki kira sözleşmesinin süresinin sona erdiğini ve davalının haksız işgalci olduğunu iddia etmiştir.
 
@@ -168,6 +192,8 @@ Mahkemece gerçek kişi davalının yıllık alış ve satış tutarlarına ili�
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun KABULÜ ile; Bakırköy 2. Asliye Ticaret Mahkemesi'nin 07/06/2024 ve 2024/402 Esas ve 2024/624 Karar sayılı kararının HMK'nın 353/1-a3 ve 353/1-a6 maddeleri uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 43. HD 2022/288 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749647600)
 
 Dava, bayilik sözleşmesinin feshi nedeniyle sözleşmenin kalan süresine tekabül eden destek priminin iadesi ve sözleşmenin feshinden sonra istasyonun kullanılmaya devam edilmesi nedeniyle ecri misil alacağının tahsili davasıdır.
 

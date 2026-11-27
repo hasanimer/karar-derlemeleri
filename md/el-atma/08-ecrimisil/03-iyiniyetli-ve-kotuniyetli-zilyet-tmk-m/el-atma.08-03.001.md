@@ -55,6 +55,8 @@ Davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarı
 
 ## Yargıtay HGK 2023/1136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976309900)
+
 İlk Derece Mahkemesince verilen kararın taraf vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince taraf vekillerinin istinaf başvurularının ayrı ayrı kabulüne, İlk Derece Mahkemesi kararının kaldırılmasına, el atmanın önlenmesi, ecrimisil ve tazminat talebinin reddine, tapu kaydındaki şerhin terkini talebi hakkında karar verilmesine yer olmadığına, dava dilekçesinde talep edilen miktar üzerinden vekâlet ücretine karar verilmiştir.
 
 …
@@ -75,6 +77,8 @@ B) bendinde (§1-11) belirtilen nedenlerle davalı vekilinin temyiz itirazların
 
 ## Yargıtay HGK 2023/1074 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976641600)
+
 Davacı vekili dava dilekçesinde; mülkiyeti müvekkiline ait olan ... ili, ... ilçesi, ...
 
 …
@@ -86,6 +90,8 @@ Davalı ...Ş. vekili cevap dilekçesinde; davacı tarafından 15.09.2005 tarihi
 Bilindiği üzere; gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere, ecrimisil, diğer bir deyişle haksız işgal tazminatı, hak sahibinin, hak sahibi olmayan kötüniyetli zilyetten isteyebileceği bir tazminat olup, ecrimisilin hüküm altına alınabilmesi için, davalının kötüniyetli müdahalesinin duraksamaya yer vermeyecek şekilde ispatı gerekir.
 
 ## Yargıtay HGK 2019/911 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538775500)
 
 Mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
@@ -100,6 +106,8 @@ Ecrimisil ise gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiğ
 Nitekim TMK'nın 995. maddesinin birinci fıkrasında, iyi niyetli olmayan zilyedin geri vermekle yükümlü olduğu şeyi haksız alıkoymuş olması yüzünden hak sahibine verdiği zararlar ve elde ettiği veya elde etmeyi ihmal eylediği ürünler karşılığında tazminat ödemek zorunda olduğu hüküm altına alınmıştır.
 
 ## Yargıtay HGK 2015/1718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115120500)
 
 Mahkemece davanın reddine karar verilmiş; hüküm, davacı vekilince temyiz edilmiştir.
 
@@ -118,6 +126,8 @@ Dava, dava konusu taşınmazın davalı idare tarafından kullanılmasından kay
 SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukarıda gösterilen değişik gerekçe ve nedenlerden dolayı.. BOZULMASINA …
 
 ## Yargıtay HGK 2015/1061 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112926700)
 
 Davalı vekili cevabında; davalının dava konusu taşınmazı işgal etmediğini, davacı tarafın ödenmeyen kira bedellerinin tahsili için icra takibi başlattığını bu hususunda kira ilişkisini ortaya koyduğunu, uyuşmazlığın kira ilişkisinden kaynaklanmış olması nedeniyle mahkemenin görevli olmadığını belirterek davanın reddini dilemiştir.
 
@@ -153,6 +163,8 @@ S O N U Ç : Davacı vekilinin temyiz itirazlarının kabulü ile, direnme karar
 
 ## Yargıtay 7. HD 2025/5242 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195663000)
+
 Davacı vekili asıl dava dilekçesinde özetle; müvekkilinin Van ili, ... ilçesi, ... Mahallesi, 19 92... parsel sayılı taşınmazda bulunan C Blok, 2.
 
 …
@@ -170,6 +182,8 @@ Yukarıda (V.B.4-9) numaralı bentlerinde açıklanan nedenlerle davacı vekilin
 …
 
 ## Yargıtay 7. HD 2024/2529 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052611400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -191,6 +205,8 @@ Davalı vekilinin yukarıda belirtilen temyiz itirazlarının kabulü ile temyiz
 
 ## Yargıtay 7. HD 2023/5259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002695200)
+
 Davacı vekili dava dilekçesinde özetle; davalıların kullanmakta olduğu İstanbul ili, ... ilçesi, Büyükada, 169 ada 4 parselde bulunan gayrimenkulün mülkiyetinin Rusya Federasyon Devleti'ne ait olduğunu beyanla el atmanın önlenmesi ve fazlaya ilişkin haklar saklı kalmak kaydı ile dava tarihinden itibaren geriye dönük 5 yıl için ecrimisile hükmedilmesi talep etmiş, 561.115, 80 TL üzerinden davasını ıslah etmiştir.
 
 …
@@ -206,6 +222,8 @@ Davalı ... cevap dilekçesinde; kendisinin, annesi ... ve babası ile birlikte 
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 ... maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 8. HD 2020/2353 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588761500)
 
 Davacı vekili, vekil edeninin dava konusu 1 numaralı bağımsız bölümün maliki olduğunu, davalı tarafın sözkonusu taşınmazı 2006 yılından bu yana haksız olarak işgal ettiğini, davalı ile vekil edeni arasında kira ilişkisi bulunmadığını açıklayarak, davalının haksız işgaline son verilmesini ve dava tarihinden geriye yönelik 5 yıla ilişkin 10.000,00 TL ecrimisilin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınmasına karar verilmesini istemiş, yargılama sırasında, talebini bilirkişi raporu doğrultusunda 570.551,89 TL’ye yükseltmiştir.
 
@@ -227,6 +245,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının yukarıda (A-2) nolu bentte aç
 
 ## Yargıtay 8. HD 2019/5622 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519113800)
+
 Davacı vekili, müvekkilinin hissedar olduğu 11266 ada 13 parsel sayılı taşınmaza davalının bina yapmak suretiyle müdahalede bulunduğunu belirterek, müdahalenin men'i ile yapılan binanın kâl'i ve fazlaya dair hakları saklı kalmak üzere toplam 175,00 TL ecrimisil bedelinin her yıl sonundan itibaren işleyecek yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiş ve ıslahla talep miktarını arttırmıştır. Davacı vekili cevaba cevap dilekçesi ile, davalı tarafından dosyaya sunulan satış sözleşmesini kabul etmediklerini, sözleşme üzerinde bulunan imzanın vekil edenine ait olmadığını belirtmiştir.
 
 Davalı vekili, 09.01.1992 tarihinde 220 m2 yeri müvekkilinin, davacı ... ('tan 18.000.000 TL bedelle harici satış sözleşmesi ile satın alıp iyiniyetli olarak üzerine ev yaptırdığını, o zamandan bu yana da davacının bir itirazının olmadığını, müvekkilinin emlak vergisini ödeyip, su ve elektrik aboneliği aldığını belirterek davanın reddini savunmuştur.
@@ -243,6 +263,8 @@ Somut olaya gelince; davalı tarafın 09.01.1992 tarihli harici satış sözleş
 SONUÇ: Davacı vekilinin temyiz itirazlarının yukarıda yazılı nedenlerle kabulüyle hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/3632 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512356900)
 
 Davacılar vekili, (asıl ve birleşen davalarda) kayden malik oldukları 223 (imar sonrası 102 ada 8), 207 (imar sonrası102 ada 3), 193 (imar sonrası 103 ada 3), 103 ada 2, 232 (imar sonrası 103 ada 2 ve 13), 234, 235 (imar sonrası104 ada 3 ve 4), 254 (imar sonrası 104 ada 7), 230 ile 183 (imar sonrası 103 ada 1 ve 4) parsel sayılı taşınmazlara, komşu parsel üzerinde kurulu bulunan davalıya ait tesiste üretilen kum vb. malzemelerin stok edilmek, araç park edilmek, yol olarak kullanılmak suretiyle müdahale edildiğini ileri sürerek, ecrimisil istemlerinde bulunmuşlardır.
 
@@ -264,6 +286,8 @@ SONUÇ: Asıl ve birleşen davalarda davalı vekilinin temyiz itirazları yukar�
 
 ## Yargıtay 8. HD 2018/20194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471965100)
+
 Davacı vekili, davacının dava konusu 410 ada 13 parsel sayılı taşınmazda bulunan 16 numaralı bağımsız bölümün ......i olduğunu, davalının dairede herhangi bir bedel ödemeden oturduğunu belirterek 01.06.2013 ile 01.09.2013 tarihleri arasında işleyen 4.500,00 TL ecrimisil bedelinin yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 Davalı vekili, müvekkilinin davacının annesi olduğunu ve dava konusu taşınmazda rıza üzere oturduğunu beyanla davanın reddini savunmuştur.
@@ -284,6 +308,8 @@ SONUÇ: Davalı vekilinin temyiz itirazlarının yukarıda (2) nolu bentte yazı
 
 ## Yargıtay 23. HD 2018/5056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461690400)
+
 Davacı vekili, müvekkili kooperatif ile dava dışı S.S. Karacaören Kardelen Konut Yapı Kooperatifi arasında 19.01.2007 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, dava dışı yüklenici kooperatifin sözleşmeden kaynaklanan edimlerini yerine getirmediğini, sadece (A) bloğun tamamlandığını, diğer iki bloğun inşa edilmediğini, bunun üzerine müvekkili arsa sahibi kooperatifin sözleşmeyi feshettiğini, dava dışı yüklenici kooperatifin üyesi olan davalının da aralarında bulunduğu bazı kişilerin (A) bloktaki konutları haksız olarak işgal ettiklerini ileri sürerek davalının 27 no'lu bağımsız bölüme yönelik müdahalesinin men’i ile fazlaya ilişkin hakları saklı kalmak kaydıyla 5.000,00 TL ecrimisil bedelinin davalıdan tahsilini talep ve dava etmiş, ıslah yoluyla talebini 21.060,00 TL’ye arttırmıştır.
 
 Davalı vekili, müvekkilinin dava dışı yüklenici kooperatifin üyesi olduğunu, yüklenici kooperatife düşen bloktaki konutların kur’a ile üyelere tahsis edildiğini, müvekkilinin de üyelik hakkına ve kura ile yapılan tahsise dayalı olarak dava konusu konutta oturduğunu savunarak davanın reddini istemiştir.
@@ -299,6 +325,8 @@ Somut olayda, davacı arsa sahibi kooperatif ile dava dışı yüklenici S.S. Ka
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin müdahalenin men'i ve tahliye hakkında verilen hükme yönelik temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, ecrimisil tazminatı hakkında verilen hükme yönelik temyiz itirazlarının kabulü ile hükmün, davalı yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/5397 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203871300)
 
 Dava, çaplı taşınmazlara elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 

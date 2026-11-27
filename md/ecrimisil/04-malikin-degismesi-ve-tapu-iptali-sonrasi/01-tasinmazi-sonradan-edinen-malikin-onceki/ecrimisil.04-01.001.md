@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2013/1409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76489400)
+
 Eldeki davada, davacıların taşınmazı önceki kiralayandan iktisap ettikleri ve bu hususu ihbarname ile davalı kiracıya bildirdikleri hususlarında bir uyuşmazlık bulunmamaktadır. Davalı kiracı da önceki malik ile yapılmış kira sözleşmesine karşı çıkmadığına göre, davacılar kira sözleşmesinin tarafı haline gelmiştir ve önceki malik ile yapılmış olan kira sözleşmesine dayanarak dava açmalarında bir usulsüzlük bulunmamaktadır. Bu durumda, uyuşmazlığın da, el atmanın önlenmesi ve haksız işgal tazminatı kurallarına göre değil, kira sözleşmesine göre çözümlenmesi gerekmektedir.
 
 Kural olarak, davalı kiracı, davacıların talep ettiği kira miktarına karşı çıktığına göre taşınmazı iktisap eden davacılar, kiralayan sıfatı ile talep ettikleri aylık kira miktarını kanıtlamak zorundadırlar. Mahkemece, ilk bozmadan sonra vergi dairelerinden getirtilen muhtasar beyannameler ile kira miktarının kanıtlanması doğru olmadığı gibi, davalının fuzuli şagil kabul edilerek, haksız işgal tazminatı belirlenmesi de doğru olmamıştır.
 
 ## Yargıtay HGK 2011/679 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77293500)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -45,21 +49,29 @@ Bilindiği üzere ecrimisil haksız işgal tazminatı niteliğindedir. Davalı .
 
 ## Yargıtay 7. HD 2025/1414 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141858600)
+
 Anılan yasa hükmüne göre, ihale yoluyla satılan taşınmazın kayıt maliki dışındaki üçüncü kişiler tarafından işgali hâlinde uygulanma olanağı bulmaktadır. Alıcıya ihale edilen taşınmaz kayıt maliki dışındaki kişi yada kişiler tarafından işgal edilmekte ise İİK'nun 135. maddesinin ikinci fıkrasındaki açıklamaları içeren ihtarnamenin işgalciye gönderilerek 15 günlük süre tanınması ondan sonra ecrimisil isteğinde bulunulması gereklidir.
 
 Somut uyuşmazlıkta, 02.03.2012 tarihinde yapılan ihalenin kesinleşmesi ile dava konusu taşınmazın mülkiyetinin ihale alıcısı davacı bankaya 02.03.2012 tarihinde geçtiği ve ihale tarihinden itibaren mülkiyet sahibi olana davacı bankanın ecrimisil isteyebileceği, ihalenin tarafı olan davalıların dava konusu taşınmazı tahliye edilmediğine, bu şekilde kullanıldığı sabit olduğuna göre İİK'nun 135. maddesinin ikinci fıkrası uyarınca ihtar keşide edilmeksizin ecrimisilden sorumlu tutulması gerektiği açıktır.
 
 ## Yargıtay 7. HD 2024/5654 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108344700)
+
 Asliye Hukuk Mahkemesinin 2019/186 Esas sayılı dosyası ile tapu iptal ve tescil davası açtığı, davanın TMK m. 1023 uyarınca davalının iyiniyetli malik olduğundan bahisle ret edildiği, dosyanın henüz kesinleşmediği, davalı dilekçesinde ...le yaptığı kira sözleşmesinin dikkate alınmasını talep etmiş ise de, icraya yaptığı itirazda dolandırıldıklarını, kiracı olmadığını beyan ettiğinden sonradan önceki malik ile yaptığı sözleşmeye dayanmasının dürüstlük kuralına aykırı olduğu anlaşıldığından, davanın kısmen kabulüne, davalının dava konusu taşınmaza yapmış olduğu müdahalenin menine, 59.250,35 TL ecrimisil bedelinin dönem sonlarından itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine karar verilmiştir.
 
 ## Yargıtay 1. HD 2022/944 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761915700)
 
 9.3.3. Ecrimisil talebine ilişkin hususların incelenmesine gelince; bilindiği ve (9.2.2.) numaralı paragrafta yer verildiği üzere ecrimisile ilişkin talepler 5 yıllık zamanaşımı süresine tabidir. 5 yıllık süre ecrimisil istenilebilecek azami süre olup, hak edilen ecrimisil miktarı dosya kapsamına göre belirlenecektir.
 
 9.3.4. Somut olayda; çekişme konusu taşınmazdaki davacıya intikal eden 2/21 payın davalılara temlik edildiği tarihin 30/12/2008, dava tarihinin ise 02/05/2011 olduğu gözetildiğinde, davalıların malik olduğu dönemi aşacak şekilde fazla hesaplanan (dava tarihi ile devir tarihi arasındaki hesaplanacak miktara hükmedilmesi gerekirken) ecrimisil miktarına hükmedilmesi doğru olmadığı gibi, davacının 19/06/2012 havale tarihli ıslah dilekçesi ile harcını yatırmak suretiyle ıslah ettiği 74.542,00 TL ecrimisil bedelinden 34.477.47 TL’nin kabul kapsamına alınmış olması nedeniyle, reddedilen kısım üzerinden davalılar lehine vekalet ücretine hükmedilmemiş olması da doğru olmamıştır.
 
 ## Yargıtay 8. HD 2020/7235 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623470200)
 
 Dava, paydaşlar arası ecrimisil talebine ilişkindir.
 
@@ -69,11 +81,15 @@ Hal böyle olunca; davacı, tarafların ortak murisinin ölüm tarihi olan 15.05
 
 ## Yargıtay 8. HD 2020/6102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609919000)
+
 Mahkemece, davacı lehine ecrimisile hükmedilmiş ise de dosya kapsamı incelendiğinde kabulün hatalı olduğu anlaşılmaktadır. Bilindiği ve gerek öğretide gerekse yargısal uygulamalarda ifade edildiği üzere, ecrimisil, diğer bir deyişle haksız işgal tazminatı, hak sahibinin, hak sahibi olmayan kötüniyetli zilyetten isteyebileceği en azı kira geliri, en fazlası mahrum kalınan gelir kaybına karşılık gelen bir bedeldir. Ecrimisil talep edilebilmesi için "kötüniyetli zilyet" ve "hak sahibi olmama" koşulları birlikte aranır.
 
 Tüm dosya kapsamındaki bilgi, belge, davalı tarafça açılan Küçükçekmece 4. Asliye Hukuk Mahkemesinin 2011/900 Esas sayılı temliken tescil istekli dava dosyası içeriği birlikte değerlendirildiğinde; davalının açmış olduğu temliken tescil davası neticesinde davalının iyiniyetli olduğunun belirlendiği, buna istinaden davası kabul edilerek temliken tescile karar verildiği ve ilgili kararın kesinleşerek niza konusu yerin tapuda davalı adına tescil edildiği sabittir. Diğer bir ifadeyle ecrimisil için aranan "kötüniyetli zilyet" olma koşulu somut olayda gerçekleşmemiştir. Mahkemece, ecrimisil talebinin tümden reddine hükmedilmesi gerekirken davalı aleyhine geriye dönük beş yıllık ecrimisil bedeli üzerinden karar verilmesi hatalı olmuştur. Açıklanan nedenle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2020/5624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613678300)
 
 Dava; ecrimisil istemine ilişkindir.
 
@@ -85,6 +101,8 @@ Her ne kadar Mahkemece davalı şirketin kötüniyetli zilyet olmayıp kamulaşt
 
 ## Yargıtay 8. HD 2020/5590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609861400)
+
 Dava, elbirliği mülkiyet halinde tapuda kayıtlı taşınmazdan dolayı paydaşlar arasındaki haksız kullanım nedeni ile ecrimisil istemine ilişkindir.
 
 …
@@ -92,6 +110,8 @@ Dava, elbirliği mülkiyet halinde tapuda kayıtlı taşınmazdan dolayı payda�
 Ecrimisil hesabında, dava konusu taşınmazın tapuda elbirliği mülkiyetin sözkonusu olması halinde miras payları göz önünde bulundurularak hesaplama yapılması gerekir. Somut olayda davacı ve davalı, anneleri Nazmiye'nin mirasına 1/4'er pay ile mirasçı oldukları, taraflar dışında Dilek ve Nilgün adında iki mirasçı daha bulunduğu, dava konusu taşınmazın tapu kaydında ise elbirliği mülkiyetin paylı mülkiyete çevrilmeden 08.10.2013 tarihinde satış sureti ile pay temliki yapıldığı hususları dikkate alınarak, ilgili tapu müdürlüğünden tedavüllü tapu kaydı ile dayanakları getirtilip, pay temlikinin tarihi ve temlikin hangi paydaşın lehine yapıldığı üzerinde durulmadan davacının miras payının 1/3 olduğu kabulü üzerinden hesaplama yapan bilirkişi kurulu raporunun hükme esas alınması doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2019/11119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570596500)
 
 Dava, el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -103,6 +123,8 @@ Hal böyle olunca, hüküm altına alınan ecrimisil bedelinin, davalıdan alın
 
 ## Yargıtay 8. HD 2019/10626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570770600)
+
 Dava, elatmanın önlenmesi, kal ve ecrimisil isteğine ilişkindir.
 
 …
@@ -110,6 +132,8 @@ Dava, elatmanın önlenmesi, kal ve ecrimisil isteğine ilişkindir.
 Yukarıdaki açıklamalar karşısında, ecrimisil ile ilgili bir temlikten söz edilmemekle beraber, mahkemece talebin elatmanın önlenmesi ve kali de içerdiği, taşınmazın yargılama sırasında el değiştirdiği gözetilerek, bu talepler yönünden HMK’nin 125. maddesi hükümleri karşısında taraf teşkilinin yapılması gerektiğinin gözden kaçırılması doğru olmadığı gibi kısa karar ile gerekçeli karar arasında usul ve yasaya aykırı olarak çelişki meydana getirilmesi, Hukuk Muhakemeleri Kanunu'nun 294/3. maddesine aykırılık teşkil ettiğinden 10.4.1992 tarihli ve 1991/7 Esas, 1992/4 Karar Sayılı Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu Kararı uyarınca, kısa karar ile gerekçeli karar arasındaki çelişkinin giderilmek ve önceki hüküm ile bağlı kalınmaksızın, açıklamalar da gözetilerek yeni bir hüküm kurulmak üzere kararın bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 8. HD 2019/6287 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520140800)
 
 Dava; ecrimisil istemine ilişkindir.
 
@@ -121,6 +145,8 @@ Eldeki davada, taşınmazın tapuya ilk tescil tarihi olan 08.04.2013 tarihi ve 
 
 ## Yargıtay 8. HD 2019/2283 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501299300)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -128,6 +154,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişki
 Kullanılan taşınmazda davalı paydaş ise; davacıların çekişmesiz olarak kullanabileceği alanlar olup olmadığının belirlenmesi, yok ise davacı ...'nin payı da dikkate alınarak paya vaki elatmasının önlenmesine karar verilmesi, ecrimisil isteğine yönelik olarak, taşınmazlara ait resmi akitler getirtilerek diğer davacıların hisselerini davacı ...'ye temlik edip etmedikleri, temlik olunmuş ise hangi tarihte temlik ettiklerinin belirlenerek davacıların tarihlere göre pay durumları belirlendikten sonra ortaklığın giderilmesi davası ile davalının intifadan men edildiği gözetilerek bu tarihten sonrası için davacıların payı oranında ecrimisil isteğinin kabulüne karar verilmesi aksi halde sonucuna göre karar verilmesi gerekirken eksik inceleme ve araştırma ile yazılı olduğu üzere karar verilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2018/17035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/476679200)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, ecrimisil ve yıkım isteklerine ilişkindir.
 
@@ -141,14 +169,20 @@ Diğer taraftan; gerek 1086 sayılı HUMK gerekse 6100 sayılı HMK' de dava hak
 
 ## Yargıtay 3. HD 2018/11263 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463206700)
+
 İİK 134. Maddesine göre icra dairesi tarafından taşınmaz kendisine ihale edilen alıcı o taşınmazın mülkiyetini iktisap etmiş olur. Alıcı, ihale ile, ihale tarihinde gayrimenkulun mülkiyetini -nefi ve hasarı ile birlikte-iktisap eder. İhaleden sonra ve fakat tescilden önce, taşınmaz üzerinde «mülkiyeti başkalarına geçirici nitelikte bulunmayan» işlemlerde bulunabilir. Örneğin, o gayrimenkulü kiraya verebilir. İhale edilen taşınmazda kiracı varsa, ihale tarihinden sonra, ihale kesinleşinceye kadar, kiracının kira paralarını icra dairesine ödemesi (İİK.md.92/11), ihale kesinleşince icra dairesinin, bu paraları alıcıya vermesi gerekir. Mülkiyet «ihale» ile alıcıya geçtiğinden, ihale tarihinden sonraki yarar (nefi) ve zarar (hasar) da alıcıya ait olur. Bu nedenle, taşınmazı ihalede satın almış olan alıcı, taşınmazı işgal eden üçüncü kişiden «ihalenin kesinleşmesi» tarihinden değil «ihale tarihinden itibaren» ecrimisil istemeye hak kazanır.
 
 ## Yargıtay 3. HD 2018/5094 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423972200)
 
 Kira sözleşmesi geçerlilik yönünden herhangi bir şekle tabi olmayıp, sözlü yapılan kira sözleşmesi geçerli ise de; inkarı halinde, bu sözleşmenin varolduğunu ileri süren kişinin bu sözleşmeyi, "uygulanması gerekli HUMK'nun 287-288 ve 290 maddeleri" (6100 Sayılı HMK'nun 200. Maddesi) gereğince, senet (kesin delil) ile ispat etmelidir. HMK’nun ispat yükünü düzenleyen 190. maddesine göre ispat yükü; kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Türk Medeni Kanunu'nun 6. maddesi gereğince de, "Kural olarak, herkes iddiasını ispat etmekle yükümlüdür." düzenlemeleri mevcuttur.Somut olayda; Dava konusu taşınmazın mülkiyeti 08.11.2013 tarihinde davacı bankaya intikal etmiştir. Taşınmazın intikal tarihinden sonra önceki malik... ile davalı ... arasında 08.06.2015 tarihli iki ay süreli kira sözleşmesi imzalanmış olup davacı, davalının belirtilen tarihten önce dava konusu taşınmazda fuzuli şagil ya da kiracı olduğunu ispatlayamamıştır. Davacı tarafından 29.07.2015 tarihinde ecrimisil bedelinin ödenmesine dair gönderilen ihtarname ise davalıya tebliğ edilememiştir.
 Mahkemece, 08.06.2015 tarihinden itibaren davalının önceki malik olan kiraya verene kira bedellerini ödeyip ödemediği hususu araştırılarak davalının ödemeyi ispatlayamaması halinde davalının, sözleşmenin yapıldığı tarihten dava tarihi olan 26.08.2015 tarihine kadar aradaki süre kadar kira bedelinden sorumlu olacağı gözetilerek karar verilmesi gerekirken Davacının taşınmazı iktisap ettiği 08.11.2013 tarihinden sonra kira bedellerinin ödenmesi hususunda davalıya herhangi bir ihtar da tebliğ edilmemiş olduğu halde, yazılı şekilde tüm kira bedellerinden sorumlu tutulması suretiyle karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 14. HD 2018/1974 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/412937200)
 
 O halde, yukarıda değinilen ilkelere göre somut olay değerlendirildiğinde; idari işleme dayalı olarak taşkınlığın oluştuğu gözetilerek, taşkın yapının kaim bedelinin davalıya ödenmesi suretiyle elatmanın önlenmesi ve yıkıma karar verilmesi gerektiğinde kuşku yoktur. Ayrıca, taşkınlık idari işlemden kaynaklandığına göre, davalının kusurunun bulunduğundan sözedilemeyeceği ve davalının 3194 Sayılı Yasanın 18/9. maddesi gereği taşkın yapıyı kullanım hakkı bulunduğu gözetilerek, koşulları oluşmadığından ecrimisile hükmedilemeyeceği gibi, yargılama giderlerinden ve avukatlık ücretinden de davalının sorumlu tutulamayacağı tartışmasızdır. Yine böylesi bir durumda, temliken tescilin sözkonusu olamayacağı da açıktır.
 Öyle ise; mahkemece temliken tescil isteminin reddine karar verilmesinde ve taşkın binanın kaim bedelinin ödenmesi suretiyle elatmanın önlenmesi ile yıkıma hükmedilmiş olmasında kural olarak bir isabetsizlik yok ise de; mahkemece "binanın taşkın kısımlarının yıkımının, binanın tamamının yıkımına neden olup olmayacağı" kuşkuya yer bırakmayacak biçimde ortaya konulmadığı gibi, taşkın kısımların yapı değeri de, taşkın kısım miktarı itibariyle hatalı hesaplanıp, usulüne uygun olarak tespitedilmemiştir.
@@ -157,12 +191,16 @@ Hal böyle olunca; mahkemece yerinde uzman bilirkişiler aracılığıyla yenide
 
 ## Yargıtay 3. HD 2017/7908 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390975100)
+
 2886 Sayılı Devlet İhale Kanun'unun 5737 Sayılı Kanun'un 79/c maddesi ile değişik “Ecrimisil ve Tahliye” başlıklı 75.maddesinin 3 ve 4.fıkrasında; “kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde, sözleşmede hüküm var ise ona göre hareket edilir. Aksi halde ecrimisil alınır. İşgal edilen taşınmaz mal, idarenin talebi üzerine bulunduğu yer mülkiye amirince en geç onbeş gün içinde tahliye ettirilerek, idareye teslim edilir.” hükmü bulunmaktadır. Bu madde önceleri sadece Hazine tarafından bu kanun hükümlerine göre kiraya verilen taşınmazlar hakkında uygulanırken, 13.07.2005 tarihinde yürürlüğe giren 5393 Sayılı Belediye Kanun'unun 15/p-3. maddesi hükmüyle belediye taşınmazları, 5538 Sayılı Kanun'un 26/b maddesi uyarınca İl Özel İdareleri ve son olarak 5737 Sayılı Kanun'un 79/c maddesi uyarınca Vakıflar Genel Müdürlüğü'ne ait taşınmazlar hakkında da uygulanması öngörülmüştür. Bu madde ile adı geçen kurumlara tahliye konusunda bir ayrıcalık tanınmıştır. Yasal süre bitiminden itibaren ecrimisil alınacağı hüküm altına aldığından, 2886 Sayılı Yasa'nın 1.maddesi uyarınca usulüne uygun yeni bir sözleşme yapılmadıkça kiracıyı fuzuli şagil kabul etmek gerekir.
 Hazine, Vakıflar Genel Müdürlüğü, İl Özel İdareleri ve Belediyeler 2886 Sayılı Yasa uyarınca kiraya verdikleri taşınmazlarını, kira süresi sonunda, işgal ne kadar süre devam ederse etsin kiralananın 6570 Sayılı Yasaya ya da Borçlar Kanun'una tabi olup olmadığına bakılmaksızın her zaman gerek mahkemeden, gerekse mülkiye amirinden tahliyesini isteyebilirler. Ecrimisil olarak alınması gereken paranın “kira parası” adı altında alınmış veya ödenmiş olması, taraflar arasındaki kira sözleşmesinin yenilendiği anlamına gelmez.
 
 Olayımızda taraflar arasında 20.04.2009 başlangıç ve 31.12.2009 bitiş tarihli kira sözleşmesi ile davaya konu taşınmaz ihale ile davacıya kiralanmıştır. Her ne kadar kira sözleşmesinin sona ermesinden sonra davalı idarenin belirlediği miktarlar üzerinden davacı taahhütname vermek suretiyle taşınmazı kullanmaya devam etmiş ise de, bu durum taraflar arasında kira sözleşmesi yapıldığı ya da kira sözleşmesinin yenilendiği anlamına gelmez. Talep edilen ve davacı tarafından ödenen miktar, gerçekte haksız işgal tazminatı niteliğindedir. Yukarıda açıklandığı üzere taraflar arasında kiracılık ilişkisi kalmadığından ve bu nedenle kira parasının tespitini istemek mümkün olmadığından davanın bu gerekçe ile reddine karar verilmesi gerekirken, yazılı gerekçe ile davanın reddine karar verilmiş olması doğru olmadığı anlaşılmıştır.
 
 ## Yargıtay 1. HD 2017/7282 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/386284100)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, olmazsa tenkis ve ecrimisil isteklerine ilişkindir.
 
@@ -171,6 +209,8 @@ Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, olmazsa ten
 Gerçekten de, 01.04.1974 tarihli İçtihadı Birleştirme Kararının, konusu ve sonuç bölümü itibariyle mirasbırakanın üzerindeki tapulu taşınmazlar yönünden yaptığı temliki işlemler için bağlayıcı olduğu, somut olaydaki gibi bedeli ödenerek "gizli bağış" şeklinde gerçekleştirilen işlemler hakkında anılan Yargıtay İçtihadı Birleştirme Kararının doğrudan bağlayıcı olma niteliği bulunmadığı, ancak koşullarının varlığı halinde tenkis isteğine konu edebileceği gözetilerek tapu iptali-tescil isteğinin ve buna bağlı olarak ecrimisil isteğinin reddedilmesinde bir isabetsizlik yoktur. Davacıların bu yöne değinen temyiz itirazları yerinde değildir, reddine.
 
 ## Yargıtay 1. HD 2017/6750 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385635400)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -182,6 +222,8 @@ temyiz ettikleri halde, davacıların temyiz itirazları inceleme konusu yapılm
 
 ## Yargıtay 1. HD 2017/6169 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/395377000)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -189,6 +231,8 @@ Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 Hal böyle olunca, davalının satın alma tarihi olan 26.02.2009 tarihi itibariyle dava konusu akaryakıt tanklarının depolama kira bedellerine ilişkin 2009 yılına ait emsallerin araştırılması, davacının temlik tarihinden önceki malikin haklarını devraldığına dair iddia ve yazılı belge ibraz edilmediği dikkate alınarak davacının satın alma tarihinden itibaren dava tarihine kadarki dönem için ecrimisile karar verilmesi gerekirken eksik inceleme ile yetinilerek yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2016/2387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204113900)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -202,10 +246,14 @@ Hâl böyle olunca; yukarıda değinilen ilke ve usul çerçevesinde, öncelikle
 
 ## Yargıtay 1. HD 2015/12106 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139222500)
+
 Davanın kabulüne ilişkin olarak verilen son karar, Dairece; “mirasbırakanın yapmış olduğu temliklerin mirasçıdan mal kaçırma amaçlı ve muvazaalı olduğu belirlenmek ve benimsenmek suretiyle, taşınmazların el değiştirmesi nedeniyle ve hükmüne uyulan bozma ilamından sonra, davalılar A. S. ve S.
 V. aleyhindeki gerek ecrimisil ve gerekse taşınmazların satışından kaynaklanan bedel istemleri yönünden davaların kısmen kabul edilmiş olmasında kural olarak bir isabetsizlik bulunmadığı, ne var ki her bir davalının edindiği bağımsız bölümlerin satış nedeniyle edindikleri kazanımlarda davacıların miras paylarının bulunduğu ve bu oranda davacılara karşı sorumlu olacakları, davalıların taşınmazları elden çıkardıkları tarih itibariyle mevcut nitelikleri gözetilerek belirlenecek gerçek değerin, tazminat hesabına esas alınması gerektiği, ecrimisil hesabında murisin ölüm tarihi ve taşınmazların dava dışı kişiye temlik edildiği tarihin nazara alınması, ayrıca davalıların ecrimisilden davacıların miras payları oranında müstakilen sorumlu olacaklarının nazara alınmamasının doğru olmadığı” gerekçeleriyle bozulmuş, mahkemece bozma kararına uyularak yapılan yargılama sonunda asıl ve birleşen davanın kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2015/11653 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138666700)
 
 Dava, ecrimisilin tahsili için yapılan icra takibine vaki itirazın iptali isteğine ilişkindir.
 
@@ -215,6 +263,8 @@ Hâl böyle olunca, Türk Medeni Kanunu'nun 705. maddesinin 1. fıkrası gözeti
 
 ## Yargıtay 6. HD 2015/7135 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/127307700)
+
 Dava, kira bedelinin tespiti istemine ilişkindir.
 
 …
@@ -222,6 +272,8 @@ Dava, kira bedelinin tespiti istemine ilişkindir.
 Dava her ne kadar kira bedelinin tespiti istemi ile açılmış ise de, davacı ve davalı anlatımları ile taraflar arasındaki kira sözleşmesinden, kira sözleşmesinin konusunun dava konusu yer dışında .... ada ....parselde kayıtlı 3360 m2 yüzölçümlü alan olduğu, iş bu davanın konusunun ise, ... Belediyesine ecrimisil ödenen ve davacı tarafından 27.12.2012 tarihli ihale ile satın alınan 473 m2’lik alana ilişkin olduğu anlaşılmaktadır. Davaya konu 473 m2’lik alanın ihale ile davacı şirket tarafından satın alınmasından sonra da davalı şirket taşınmazı aynı amaçla kullanmaya devam etmiştir. Bu durumda davaya konu edilen yerin kiralananın sınırları içinde bulunmaması nedeniyle kira parasının mahkeme aracılığı ile tespit olanağı olmadığından mahkemenin tarafların yerine geçerek bilirkişi aracılığı ile kira parasını belirleme yönüne gitmesi yerinde değildir. Açıklanan bu nedenle istemin reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2015/3213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119969000)
 
 Dava ecrimisil isteğine ilişkindir.
 
@@ -232,6 +284,8 @@ Yine, İcra İflas Kanununun 134/1 maddesinde “İcra dairesi tarafından taş�
 Bununla birlikte, tescile dayanmayan kazanımlarda tescil yapılmadığı sürece tasarruf işlemleri yapılamaz; çünkü taşınmazı tescilsiz iktisap eden kişi, tapu kütüğünde malik olarak gözükmemektedir. Anılan bu husus TMK. 705/2. maddesinde "Ancak, bu hallerde malikin tasarruf işlemleri yapabilmesi, mülkiyetin tapu kütüğüne tescil edilmiş olmasına bağlıdır" şeklinde ifade edilmiştir. Ne var ki; yasa maddesinde belirtilen işlemler temliki tasarruflar olup, mülkiyeti tescilsiz olarak kazanan kişi tescilden önce de bir malikin sahip olduğu bütün hak ve yetkilerden yararlanır. Tapuda temliki işlem yapılmasını gerektirmeyen tüm işlemleri de yapabilir. Yasa maddesindeki düzenlemenin, ihale ile mülkiyeti kazanan kişinin, her hangi bir hakka dayanmaksızın taşınmazı işgal eden kişiye karşı ecrimisil davası açamayacağı şeklinde değerlendirilmesi olanaklı değildir. Keza, İİK'nun 135/2. maddesinde, alıcıya ihale edilen taşınmaz üçüncü bir kişi tarafından işgal edilmekte ise, ihalenin kesinleşmesi ile alıcının icra dairesinden üçüncü kişinin taşınmazdan çıkarılmasını isteyebileceği düzenlenmiştir.
 
 ## Yargıtay 1. HD 2015/566 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/103478800)
 
 Dava, müstakilen ecrimisil; ıslahla ecrimisil ve maddi tazminat isteklerine ilişkindir.
 

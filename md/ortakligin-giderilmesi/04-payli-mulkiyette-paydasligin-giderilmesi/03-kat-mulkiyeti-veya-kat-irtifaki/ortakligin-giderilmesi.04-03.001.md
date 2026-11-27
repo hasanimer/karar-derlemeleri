@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/2 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920338700)
+
 Dava ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -31,25 +33,35 @@ Aynı Kanun’un 10 uncu maddesinin yedinci fıkrası ise kat mülkiyetinin doğ
 
 ## Yargıtay 5. HD 2024/3090 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029685800)
+
 Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan temyiz incelemesi sonucunda; somut olayda üzerindeki ortaklığın satış sureti ile giderilmesi istenilen 146 ada 21 parsel sayılı taşınmaz üzerinde 9 adet bağımsız bölüm bulunduğu hissedar ve mirasçı sayısının ise oniki kişi olduğu, bu hali ile her bir paydaşa en az bir bağımsız bölüm düşmesi koşulu gerçekleşmemiş ise de; murislerin mirasçılarının bir bağımsız bölümde hissedar olmayı kabul etmeleri halinde kat mülkiyeti kurulması olasılığı vardır.
 Mahkemece mirasçıların bu konuda beyanlarının alınması, bir bağımsız bölümde hissedar olmayı kabul etmeleri halinde yukarıda açıklanan usul ve şekilde inceleme yapılması, kabul etmemeleri halinde ortaklığın satış suretiyle giderilmesine karar verilmesi gerekirken, Mahkemece, yukarıda açıklanan hususlar gözönünde bulundurularak kaç bağımsız bölüm olduğunun belirlenmesi ve öncelikle kat mülkiyetine geçişin sağlanması yolunda yargılama yapılması, her ne kadar bağımsız bölüm büyüklükleri farklı ise de ivaz ilavesi yapmak suretiyle paylaştırmanın kat mülkiyeti kurulmak suretiyle yapılması gerektiği gözönünde bulundurularak karar verilmesi gerekirken, eksik araştırma ve inceleme sonucu yazılı olduğu şekilde ortaklığın satış suretiyle giderilmesine karar verilmesi doğru görülmediğinden kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2024/213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021337400)
 
 Bankası A.Ş'ye, 16 bağımsız bölüm numaralı mesken ...'ın ölümü nedeniyle mirasçılarınca davalı ...'a, 3 nolu bağımsız bölüm meskenin ...'in ölüm nedeniyle mirasçılarınca davalı ...'a satış ve devredildiğini, yeni bağımsız bölümün yapılmasına katılmayan kat maliklerinin arsa paylarından yeni tahsis sebebiyle azalan kısmın bedeli kendilerine ödenmek şartıyla yeni yapılan bağımsız bölüm kat irtifakı kurulmasına dair olan eski resmi senet gereğince kat mülkiyetine çevrilerek onu yaptıranın mülkü veya yaptırılanların ortak mülkü olur ve kat mülkiyeti kütüğünün ayrı bir sayfasına yeni malik veya malikler adına tescil edilir şeklindeki 634 sayılı Kat Mülkiyeti Kanunu'nun (634 sayılı Kanun) 44/son maddesi gereğince yeni bağımsız bölümün yapılmasına katılmayan kat maliklerinin arsa paylarından yeni tahsis sebebiyle azalan kısmın bedeli kendilerine ödenmek şartıyla yeni yapılan bağımsız bölüm, kat irtifakı kurulmasına dair olan eski resmi senet gereğince kat mülkiyetine çevrilerek onu yaptıranın mülkü veya yaptırılanların ortak mülkü olur ve kat mülkiyeti kütüğünün ayrı bir sayfasına yeni malik veya malikler adına tescil edilebileceğini, açıklanan nedenlerle dava konusu taşınmazlarda
 paydaşlığın 634 sayılı Kanun'un 44 ncü vd. maddeleri gereğince bodrum, asma kat, zemin, 1. katlarda birleşme ve yenileme ile oluşan diğer kat maliklerinin arsa paylarında azalmaya neden olmayan ve yaptıranların tamamı davacılan olan bağımsız bölümlerin kat mülkiyeti kütüğünün ayrı bir sayfasına müvekkiller adına tescil edilmek suretiyle kat mülkiyeti kurulmak suretiyle veya yukarıdaki talebinin uygun bulunmadığı takdirde yine 634 sayılı Kanun'un 10 uncu vd. maddeleri gereğince ortaklığın kat mülkiyeti kurulmak ve bağımsız bölümler maliklerine tahsil edilmek suretiyle ortaklığın giderilmesine karar verilmesini ve tüm yargılama giderleri ve avukatlık ücretlerinin davalılar üzerinde bırakılmasını müvekkilleri adına talep ve dava etmiştir.
 
 ## Yargıtay 7. HD 2023/4336 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960889800)
+
 Yargıtay 20. Hukuk Dairesinin 04.04.2017 tarih ve 2017/1996 Esas, 2017/2820 Karar ... ilamında özetle; "..dava konusu taşınmaz üzerinde bulunan binalara ilişkin olarak; kat mülkiyeti kurulmak suretiyle ortaklığın giderilmesinin mümkün olup olmadığı hususunda araştırmanın tamamlanması, araştırma sonucunda belirtilen koşulların oluşmaması durumunda ancak, satışa karar verilmesi gerektiği hususu düşünülmeden, 1/1000'lik uygulama imar planına göre yolda kalan kısımların kamuya terki ile taşınmazın zemin üzerinde üçe bölünmek suretiyle yine paydaşlar arasında şuyulu halde bırakılması yoluyla ortaklığın giderilmesine karar verilmiş olması doğru görülmemiştir." gerekçesiyle hüküm bozulmuştur.
 
 ## Yargıtay 7. HD 2023/1288 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/899721200)
 
 Dava konusu taşınmazın üzerindeki yapı kargir olup paydaşlardan her birine en az bir bağımsız bölüm özgülenecek sayıda ve niteliktedir. Taşınmaz bu yönüyle üzerinde kat mülkiyeti kurulmasına elverişli ise de, kat mülkiyetine geçiş için bunlar yeterli olmayıp, yukarıda açıklanan diğer tüm koşulların (12. maddede yazılı belgelerin) varlığını da aramak gerekir.
 
 Yargıtay’ın yerleşmiş uygulamalarında, tamamlanmış yapının fiili durumu ile onaylı projesi arasında aykırılıklarının bulunması ya da yapının imara uygun ancak projesiz inşa edilmiş olması gibi kat mülkiyeti kurulmasına engel oluşturan eksikliklerin mevcut olduğu durumlarda hemen kat mülkiyeti kurulamayacağı sonucuna varılmayarak, bu eksikliklerin giderilip yasal koşullara uygun hale getirilmesi mümkün ise bunun isteyen tarafa tamamlattırılması yoluna gidilmesi gerektiği kabul edilmektedir.
 
 ## Yargıtay 14. HD 2021/3309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/662068100)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -63,12 +75,16 @@ Yargıtayın yerleşmiş uygulamalarında, tamamlanmış yapının fiili durumu 
 
 ## Yargıtay 5. HD 2020/11071 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622729600)
+
 Yargıtayın yerleşmiş uygulamalarında, tamamlanmış yapının fiili durumu ile onaylı projesi arasında aykırılıkların bulunması veya yapının imara uygun ancak projesiz inşa edilmesi gibi kat mülkiyeti kurulmasına engel oluşturan eksikliklerin varlığı durumunda hemen kat mülkiyeti kurulamayacağı sonucuna varılmayarak, bu eksikliklerin giderilip yasal koşullara uygun hale getirilmesi mümkün ise bunun isteyen tarafa tamamlattırılması yoluna gidilmesi; ayrıca Kat Mülkiyeti Kanununun 50. maddesinin ikinci fıkrasına göre; bir anayapıda kat mülkiyeti kurulabilmesi için binanın tümünün kargir ve aynı zamanda tamamlanmış bulunması gerektiği hususu hüküm altına alınmış ise de Yargıtayın yerleşmiş uygulamalarında, tamamlanmamış yapılarda, kat mülkiyetinin kurulmasını isteyen paydaşlar eksiklikleri ikmal edip binayı tamamlayacaklarını bildirdikleri takdirde mahkemece kendilerine bu işin tamamlanması için uygun bir süre verilmesi gerektiği kabul edilmektedir.
 
 Dava konusu taşınmaz üzerinde bulunan tamamlanmış yapıya ilişkin olarak; mahkemece öncelikle bilirkişi kurulundan bağımsız bölümlerin başlı başına kullanılmaya elverişli bağımsız bölüm olup olmadığı, niteliklerinin (mesken, işyeri, depo vs. gibi) ne olduğu da açıklattırılarak davaya konu taşınmaz üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje mevcut değilse, ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara veya projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması durumunda, öncelikle aykırılıkların giderilmesi daha sonra yapının fiili durumunu yansıtan projenin hazırlattırılıp, ilgili imar müdürlüğünün onayının ve buna bağlı olarak oturma izin belgesinin alınması, ayrıca Kat Mülkiyeti Kanununun 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği
 takdirde de, dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp varsa fiili taksim veya mülkiyetin tespitine ilişkin kesinleşmiş kararlar dikkate alınarak, taksim yoksa çekilecek kura ile önce her paydaşa birer bağımsız bölüm özgülendikten sonra arta kalan bağımsız bölümlerin pay oranları da gözetilmek suretiyle yine kura ile paydaşlara özgülenerek, gerekiyorsa bedel farkı nedeni ile …
 
 ## Yargıtay 1. HD 2020/4808 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647211000)
 
 7840 sayılı parselin 92/255 payı ... adına kayıtlı iken, ...’un 79/255 payı üzerinde bırakarak 13/255 payı davacı ...’ta sattığı, 10.09.2003 tarih ve 6147 yevmiye no’lu akitle; 7840 sayılı parselin 79/255 payı ... adına kayıtlı iken, ...’un 66/255 payı üzerinde bırakarak 13/255 payı davacı ...’a sattığı,24.09.2003 tarih ve 6533 yevmiye no’lu akitle; 7840 sayılı parselin 54/255 payı ... adına kayıtlı iken, ...’un 28/255 payı üzerinde bırakarak 13/255 payı davacı ...’a, 13/255 payı da dava dışı ...’e sattığı, ...’in de temlik aldığı 13/255 payı 09.01.2008 tarih ve 330 yevmiye no’lu işlemle davacı ...’e sattığı, 7840 sayılı parseldeki davacıların toplam arsa payının 52/255 olduğu, halihazırda 7840 sayılı parselde mirasbırakan ... adına kayıtlı bir pay bulunmadığı kayden sabittir.
 Dava konusu 7839 sayılı parselde ise davalıların mirasbırakanı ...’nun 102/255 payın maliki olduğu tespit edilmiştir.Her ne kadar tapu kayıtlarında, dava konusu 7839 sayılı parsel 210 m2’lik arsa niteliğinde ve 7840 sayılı parsel de 210 m2’lik tarla niteliğinde kayıtlı ise de; keşfen saptandığı üzere 7839 ve 7840 sayılı parseller üzerinde bitişik nizam şekilde bodrum kat+zemin kat+beş normal kat+çatı katı olmak üzere iki farklı bina bulunduğu, 7839 sayılı parselde binanın 26 dış kapı numarasını ve 7840 sayılı parseldeki binanın 24 dış kapı numarasını aldığı ve girişlerinin farklı olduğu, anılan taşınmazlar üzerinde kat irtifakı ya da kat mülkiyeti kurulmadığı, imara aykırı yapılar olması nedeniyle de kurulamadığı, her iki binada da 7, 8, 9 ve 10 no’lu dairelerin 4. ve 5. katlarda bulunduğu anlaşılmıştır.17.03.2015 tarihli keşif zabtında, 26 kapı numaralı ( dava konusu 7839 sayılı parsel ) binanın 7, 8, 9 ve 10 no’lu dairelerinde davacıların, 24 kapı numaralı ( 7840 sayılı parsel ) binanın 7, 8, 9 ve 10 no’lu dairelerinde ise dava dışı 3. kişilerin ikamet ettiği tespit edilmiştir.Bu tespitlerden sonra öncelikle aşılması gereken sorun, hata nedenine dayalı eldeki davanın süresi
@@ -80,6 +96,8 @@ verilmesi doğru değildir.
 
 ## Yargıtay 14. HD 2020/3011 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579132200)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -89,6 +107,8 @@ Somut olayda; dava konusu taşınmaz ''natamam kargir bina ve arsa'' niteliğiyl
 O halde, taraflara dava konusu taşınmazda bulunan dört katlı bina için kat irtifakı veya kat mülkiyeti kurulması için ilgili makama başvurmak üzere süre verilmesi, taşınmazda kat irtifakı veya kat mülkiyeti kurulması halinde Nevşehir Sulh Hukuk Mahkemesinin 2013/189 Esas sayılı dosyası üzerinden verilen karar gözetilerek ...'a özgülenen bağımsız bölüm dışındaki bağımsız bölümler üzerindeki ortaklığın giderilmesine karar verilmesi, kat irtifakı veya kat mülkiyeti kurulamaması halinde ise taşınmaz ve üzerindeki bina ile birlikte ortaklığın giderilmesine karar verilmesi gerekirken eksik araştırma ve inceleme ile yazılı şekilde hüküm tesisi doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2019/6734 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520532600)
 
 Dava, muhdesatın tespiti istemine ilişkindir.
 
@@ -100,11 +120,15 @@ Açılacak bu tür tespit davaları sonucunda verilecek tespit hükmü, cebri ic
 
 ## Yargıtay 20. HD 2019/2716 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/506084300)
+
 Kat Mülkiyeti Kanununun 10. maddesinin son fıkrası hükmüne göre kat mülkiyetine konu olmaya elverişli bir taşınmaz üzerindeki ortaklığın giderilmesi istemli davada, her paydaşa en az bir bağımsız bölüm düştüğü anlaşılmaktadır. Kat mülkiyetine konu olmaya elverişli taşınmaz üzerindeki ortaklığın giderilmesi istemine ilişkin eldeki davada; ortak maliklerden birinin yargılamanın (temyiz aşaması dahil) herhangi bir aşamasında paylaşmanın kat mülkiyeti kurulması (taksim) yoluyla yapılmasını istemesi durumunda, hakim, 12. maddedeki belgeleri de tamamlattırıp taşınmaz mülkiyetinin kat mülkiyetine çevrilmesinin (bağımsız bölümlerin ortaklara ayrı ayrı özgülenmesinin) mümkün olup olmadığı hususunda araştırma yapmalıdır.
 
 Kat Mülkiyeti Kanununun 10. maddesinin son fıkrasına göre; kat mülkiyetine konu olmaya elverişli bir taşınmaz üzerindeki ortaklığın giderilmesi davasında, ortak maliklerden birinin yargılamanın herhangi bir aşamasında paylaşmanın kat mülkiyeti kurulması yoluyla yapılmasını istemesi durumunda, hakim, 12. maddedeki belgeleri de tamamlattırıp taşınmaz mülkiyetinin kat mülkiyetine çevrilmesine ve paylar denkleştirilmek suretiyle bağımsız bölümlerin ortaklara ayrı ayrı özgülenmesine karar vermelidir.
 
 ## Yargıtay 20. HD 2019/2037 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/495035000)
 
 Yargıtay'ın yerleşmiş uygulamalarında, tamamlanmış yapının fiili durumu ile onaylı projesi arasında aykırılıkların bulunması ya da yapının imara uygun ancak projesiz inşa edilmiş olması veya bir kısım bağımsız bölümlerin başlı başına kullanılmaya elverişli halde bulunmaması gibi kat mülkiyeti kurulmasına engel oluşturan eksikliklerin mevcut olduğu durumlarda bu eksikliklerin giderilip yasal koşullara uygun hale getirilmesi mümkün ise kat mülkiyetine çevrilmesi yoluyla ortaklığın giderilmesini isteyen tarafa tamamlattırılması gerektiği kabul edilmektedir.
 
@@ -113,9 +137,13 @@ süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konu
 
 ## Yargıtay 20. HD 2019/1686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492850300)
+
 Her ne kadar 634 sayılı Kat Mülkiyeti Kanununun 14. maddesinde kat irtifakının, ancak arsa malikinin ya da paylı mülkiyette tüm paydaşların buna ilişkin bir dilekçe veya istemle yasada öngörülen diğer belgeleri de ekleyerek tapu idaresine başvurmaları üzerine idari bir işlemle tesis edileceği düzenlenmiş, Yargıtay yerleşik içtihatları ile paydaşlar arasında uyuşmazlık çıktığında, kat irtifakı kurulması için mahkemeye başvurulamayacağı, yasanın bu hususu paydaşların oybirliğine bıraktığı için uyuşmazlık öngörülmediği, bu nedenle de mahkemeye bu konuda paydaşları zorlayıcı sonuç doğurmak üzere karar veremeyeceği kabul edilmişse de eldeki davanın kat irtifakı kurulması istemine yönelik olmayıp kat irtifakının kurulabilmesi için sulh sözleşmesinin 13. maddesi gereğince Tapu Müdürlüğünde, Belediye ve ilgili kurumlarda davalı paydaş ... adına imza atmak üzere davacılara veya mahkemece belirlenecek kişiye yetki verilmesi istemine ilişkin olduğunun gözetilmemiş olması doğru görülmemiştir." denilmek suretiyle bozulmuştur.
 
 ## Yargıtay 14. HD 2019/1518 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486175900)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -125,15 +153,21 @@ Ne var ki, tapu kayıt maliki ...’ ın mirasçılarının miras paylarının m
 
 ## Yargıtay 20. HD 2018/3910 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427259400)
+
 Kat Mülkiyeti Kanununun 10. maddesinin son fıkrası hükmüne göre kat mülkiyetine konu olmaya elverişli bir taşınmaz üzerindeki ortaklığın giderilmesi istemli davada, dava konusu 368 parsel sayılı taşınmaz "tarla" nitelikli olup, üzerinde hali hazırda 76 adet ağaç bulunduğu, 712 parsel sayılı taşınmaz "bahçeli kargir ev ve ahır" nitelikli olup, bilirkişi raporuna göre üzerinde hali hazırda basit ve eski yapı bulunduğu belirlenmiş olup, pay ve paydaş sayısı bakımından her bir paydaşa bir bağımsız bölüm düşmeyeceği tespit edilerek, ortaklığın satış suretiyle giderilmesi yönünde karar verilmesinde bir isabetsizlik bulunmadığına göre; yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA, taşınmazın satış bedeli üzerinden temyiz edenlerin payına düşen paranın binde 11,38 oranında hesaplanacak onama harcından peşin alınan harcın mahsubu ile artanının alınmasına 17/05/2018 günü oy birliğiyle karar verildi.
 
 ## Yargıtay 20. HD 2018/3387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426042100)
 
 Kat Mülkiyeti Kanununun 10. maddesinin son fıkrası hükmüne göre kat mülkiyetine konu olmaya elverişli bir taşınmaz üzerindeki ortaklığın giderilmesi istemli davada; mahkemece kat mülkiyeti kurulmasının ekonomik olmadığı ve taraflara masraf yükleteceği gerekçesi ile satış kararı verilmiş ise de, paylı mülkiyette ortaklığın giderilmesinde ortaklardan/taraflardan birinin taksim talebinde bulunması halinde öncelikle taksim suretiyle ortaklığın giderilmesinin koşullarının araştırılması gerektiği, Kat Mülkiyeti Kanunu hükümleri gereğince kat mülkiyeti kurulabilmesi için ortaklara/taraflara gereken imkanın sağlanması amacıyla yetki ve süre verilmesi gerektiği kanunda düzenlenmiş olmakla, anılan gerekçe ile satışa karar verilmesi doğru değildir.
 
 Kat Mülkiyeti Kanununun 10. maddesinin son fıkrası hükmüne göre kat mülkiyetine konu olmaya elverişli bir taşınmaz üzerindeki ortaklığın giderilmesi istemli davada, ortak maliklerden birinin yargılamanın herhangi bir aşamasında paylaşmanın kat mülkiyeti kurulması …
 
 ## Yargıtay 20. HD 2018/3011 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422912800)
 
 Dava ortaklığın giderilmesi istemine ilişkindir.
 
@@ -142,11 +176,15 @@ Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici neden
 
 ## Yargıtay 20. HD 2017/9923 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378103100)
+
 Dava, paylı mülkiyete tabi taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye, dava konusu taşınmazda kat mülkiyeti kurularak ortaklığın giderilmesi koşullarının oluştuğu belirlenerek hüküm kurulduğuna ve mahkemece yönetim planının imzalanmış sayılmasına karar verilmesinde bir isabetsizlik bulunmadığına göre yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan hükmün ONANMASINA, taşınmazın satış bedeli üzerinden temyiz edenlerin payına düşen paranın binde ....... oranında hesaplanacak onama harcından, peşin alınan harcın mahsubu ile artanın alınmasına 23/.../2017 gününde oy birliği ile karar verildi.
 
 ## Yargıtay 14. HD 2016/8868 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/275990500)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -156,6 +194,8 @@ Taşınmazda kat irtifakı kurulmuş olup, üzerine inşa edilen binanın yapı 
 
 ## Yargıtay 18. HD 2016/7700 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/233515600)
+
 Dava, ortaklığın giderilmesi istemine ilişkin olup, mahkemece kat mülkiyeti kurulmak suretiyle ortaklığın giderilmesini isteyen tarafın, Kat Mülkiyeti Yasasının 12.
 
 …
@@ -164,13 +204,19 @@ Dava konusu taşınmaza ait tapu kaydında 04.03.2014 tarihinde kat irtifakı ku
 
 ## Yargıtay 18. HD 2015/3022 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396759300)
+
 Bozma ilamının (1) numaralı bendinde; anataşınmazın en son durumunu gösteren ve onay tarihi ile sayısı belli olmayan mimari projenin belediyece onaylanıp onaylanmadığının anlaşılamadığı, bu hususun araştırılarak projenin yapıya ve imara uygunluğu onaylanmış ve buna bağlı olarak oturma izin belgesi de alınmış ise kat mülkiyeti kurularak ortaklığın giderilmesine karar verilebileceği açıklandığı halde bozma sonrasında yine kat mülkiyeti kurulmasına esas alınan projenin hangisi olduğu, projenin tarih ve sayısı da açıklanmadan belediyece onaylanıp onaylanmadığı ve bu projeye uygun oturma izin belgelerinin alınıp alınmadığı da araştırılmadan infazda tereddüt yaratacak şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2013/14569 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794999200)
+
 634 sayılı Kat Mülkiyeti Yasasının 10. maddesinin son fıkrası ve onun yollamada bulunduğu aynı Yasanın 12. maddesi hükümlerine göre ortaklığın kat mülkiyeti kurulmak suretiyle giderilmesine karar verilebilmesi için paydaşlardan herbirine bir bağımsız bölüm düşmesi zorunluluğu bulunmakta ise de, 9 bağımsız bölümden ibaret taşınmaz tapu kaydına göre 7 paydaşın mülkiyetinde olup, tapu maliklerinden ... ve ...'nin ölümü üzerine mirasçıları kendi aralarında iştirak halinde (elbirliği) paydaş bulunmaktadır. Bu durumda tapu kaydı esas alınarak ve ölenlerin mirasçıları bir kişi kabul edilerek... mirasçılarına bir, .... mirasçılarına bir bağımsız bölüm tahsis edilmesi halinde her paydaşa en az bir bağımsız bölüm düşebileceği dikkate alınarak sözü edilen 10. maddenin son fıkrası uyarınca gerekli tahkikat ve inceleme tamamlandıktan sonra oluşacak sonuca göre bir karar vermek gerekirken, her bir paydaşa bir bağımsız bölüm düşmeyeceği ve bu nedenle kat mülkiyeti kurularak ortaklığın giderilmesinin mümkün olmadığı ve tarafların satış da istemediği gerekçesi ile davanın reddine karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2013/14301 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797011800)
 
 Kat Mülkiyeti Yasasının 13. maddesi hükmüne göre, kural olarak üzerinde kat mülkiyeti kurulmasına elverişli yapı veya yapıların bulunduğu anagayrimenkulde kat mülkiyetinin taşınmazın malik veya paydaşları tarafından 12. madde hükmü uyarınca hazırlanacak belgelerle birlikte ilgili tapu müdürlüğüne müracaatedilerek sözleşme düzenlenmesi ve bu sözleşme çerçevesinde tapuya tescil edilmesi suretiyle kurulması gerekir. Aynı Yasanın 10. maddesinin üçüncü fıkrası uyarınca da bu nitelikte bir yapının bulunduğu taşınmazın paydaşlarının kendi aralarında anlaşamamaları halinde bunlardan birisinin başvurusu üzerine ortaklığın giderilmesine yönelik olarak verilecek mahkeme hükmüyle de kat mülkiyeti kurulması olanağı mevcuttur.
 
@@ -178,15 +224,21 @@ Yasanın açıklanan bu hükümleri çerçevesinde tesis olunan kat mülkiyetini
 
 ## Yargıtay 18. HD 2013/2443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795158600)
+
 Bozma ilamında öncelikle dava konusu taşınmazın üzerinde bulunan yapımı tamamlanmış üç katlı kargir yapının kaç bağımsız bölümden oluştuğu ve bağımsız bölüm sayısının paydaş sayısına yeterli olup olmadığının araştırılması gerektiği belirtildiği halde bozma sonrası mahkemece bu hususta bir araştırma yapılmadan, bozmadan sonraki pay satışları nedeniyle paydaş sayısının artmış olduğu ve üç katlı yapının davacı ...'a ait olduğundan kat mülkiyeti kurulması yolu ile ortaklığın giderilmesinin mümkün olmadığı gerekçesiyle satış yolu ile ortaklığın giderilmesine karar verilmiştir.
 
 Dava konusu taşınmazda bozma sonrası yapılan pay satışları Fethiye Sulh Hukuk Mahkemesi'nin 2007/531 Esas sayılı dosyasında iptale konu edildiğinden bu dava sonucunun beklenmesi gerektiği gibi kaldı ki pay satışları sonucunda taşınmazda 4 paydaş mevcut olup, üç katlı yapının yapı kullanma izin belgesinde belirtildiği gibi 1 dükkan, üç büro olmak üzere başlıbaşına kullanılmaya elverişli 4 adet bağımsız bölümden oluştuğu saptandığı takdirde her bir paydaşa en az bir bağımsız bölümün isabet edeceği ve yapının tümünün davacı tarafından yapılmış olmasının da kat mülkiyeti kurulması yönünde bir engel oluşturmadığı dikkate alınarak önceki bozma ilamı doğrultusunda kat mülkiyeti kurulması suretiyle ortaklığın giderilmesi imkanı olup olmadığı yönünden inceleme ve araştırma yapılması gerekirken eksik ve yetersiz araştırma sonucu yazılı gerekçe ile satış yolu ile ortaklığın giderilmesine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2013/396 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/247189900)
+
 Dosya içindeki bilgi ve belgelerin incelenmesinde taraflar arasında noterde düzenlenen ........1995 tarihli miras taksim sözleşmesinde 84 ada 34 parsel sayılı taşınmazda kat mülkiyeti kurulmasından sonra oluşacak bağımsız bölümler de diğer bir kısım parsellerle birlikte miras taksim sözleşmesine konu edilmiştir. Bu haliyle anılan parselde kat mülkiyeti kurulmadığından miras taksim sözleşmesinin uygulanırlığı bulunmamaktadır. Sözleşmeye dayanan davalı vekiline verilen süreye rağmen bu şartı gerçekleştiremediği anlaşılmakla mahkemece ortaklığın giderilmesi istenen her bir parsel için ayrı ayrı Kat Mülkiyeti Yasasının ... ve .... maddeleri de dikkate alınarak gerekli araştırma ve inceleme yapılarak şartların gerçekleşmesi halinde kat mülkiyeti kurulmak ve kat mülkiyeti kurulurken bağımsız bölümlerin tahsisi sırasında miras taksim sözleşmesindeki hükümlerin de göz önünde bulundurulması, aksi durumda satış yoluyla ortaklığın giderilmesine karar vermek gerekirken yerinde olmayan gerekçelerle davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2012/8604 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800170400)
 
 Kat Mülkiyeti Yasasının 10. maddesinin son fıkrası uyarınca; kat mülkiyetine konu olmaya elverişli bir taşınmaz üzerindeki ortaklığın giderilmesi davasında, ortak maliklerden birinin yargılamanın herhangi bir aşamasında paylaşmanın kat mülkiyeti kurulması yoluyla yapılmasını istemesi durumunda, hakim, 12. maddedeki belgeleri de tamamlattırıp paylar denkleştirilmek suretiyle taşınmaz mülkiyetinin kat mülkiyetine çevrilmesine ve bağımsız bölümlerin ortaklara ayrı ayrı özgülenmesine karar vermelidir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 16. HD 2019/4230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516675900)
+
 2- 635, 640, 641, 642, 644, 645, 646, 652 ve 656 parsel sayılı taşınmazlara yönelik temyiz itirazlarına gelince; Mahkemece 635, 640, 641 ve 652 ve 656 parsel sayılı taşınmazlar için davacıların ecrimisil ödediklerini kabul etmeleri nedeniyle zilyetliklerinin malik sıfatıyla olmadığı, 642, 644, 645, 646 parsel sayılı taşınmazlar yönüyle ise davacılar yararına zilyetlikle taşınmaz edinme koşullarının gerçekleştiği gerekçe gösterilerek yazılı şekilde hüküm kurulmuş ise de varılan sonuç yasal düzenlemelere uygun olmadığı gibi yapılan inceleme ve araştırma da hüküm vermeye yeterli değildir. Yukarıda açıklandığı gibi çekişmeli taşınmazların bir bölümü toprak tevzi komisyonunca hazırlanan tapu kayıtlarının kapsamında kalması nedeniyle Hazine adına tespit edilmiş, bir bölümünün ise malik hanesi açık olarak sınırlandırılmıştır.
 Temyize konu dosya ile birleşen ve tutanaklarda bahsi geçen 1974/182 Esas sayılı dosyada davacı ... ve müşterekleri Aralık 1962 tarih 29 ve 30 numaralı tapu kayıtlarına, 1980/381 Esas sayılı dosyada davacı ... ve ... miras yoluyla gelen hakka ve tapu kayıtlarına, 1974/391 Esas sayılı dosyada ...ve müşterekleri ...319 tarih 4 nolu tapu kaydına 1981/135 Esas sayılı dosyada Şükrü... 1964 tarih 116 nolu tapu kaydına dayanmış olup, yine tutanaklarda bahsi geçen 1978/25 Esas sayılı dosyada ise ... 11.11.1978 tarih 15 nolu kayıtta ...adına tescil edilen payın şufa hakkı uyarınca adına tescili istemiyle dava açmış ve davasının kabulüne karar verilmiş, anılan dosyalara çok sayıda kişi müdahale talebinde bulunmuştur.
 Mahkemece, önceki tarihli, taşınmazların bir kısmına yönelik bozma ilamında da belirtildiği halde belirtmelik tutanakları ve belirtmelik haritaları, dağıtım cetvelleri getirtilmemiş, kadastro paftası ile toprak tevzi haritaları çakıştırılmamış, çekişmeli taşınmazların toprak tevzi paftasında ne olarak gözüktüğü, öncesinin kadim veya tahsisli mera olup olmadığı araştırılmamış, taraflar çok sayıda kayda dayanmış olmasına karşın bu kayıtların tüm tedavülleri dosyaya getirtilerek keşifte dayanılan tüm kayıtlar usulünce uygulanmamış, dayanak kayıtların kapsamları tayin edilmemiş, taşınmazların komşu taşınmazlarına ait bitişikte bulunan Şahinli Köyü ve ...
@@ -33,6 +35,8 @@ kabul etmeleri nedeniyle zilyetliklerinin malik sıfatıyla olmadığı kabul ed
 
 ## Yargıtay 5. HD 2019/3397 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484189900)
+
 Dava, kamulaştırmasız el atılan taşınmaz üzerinde bulunan muhdesat bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -42,6 +46,8 @@ Kapama ...... niteliğindeki taşınmaza net ...... geliri esas alınarak değer
 Davalı idare vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2018/18585 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/453053100)
 
 Dava, meni müdahale ve ecrimisil istemine ilişkindir.
 
@@ -54,6 +60,8 @@ Ecrimisil bakımından ise taşınmazın ne şekilde kullanıldığı ve boş ar
 Bir kısım davalılar vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/13815 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429035600)
 
 Davacı vekili dava dilekçesinde, vekil edenin satın alma yoluyla paydaş olduğu 91, 168, 235 ve 308 parsel sayılı taşınmazların tamamının davalı tarafından kullanıldığı gibi vekil edeni tarafından kullanılmasına da engel olunduğunu ileri sürerek, dava konusu taşınmazlarda davalının müdahalesinin menine, 2000 TL ecrimisil bedelinin yasal faizi ile tahsiline karar verilmesini istemiş, ıslah dilekçesi ile 91 ve 235 parseller yönünden 2008-2012 yılları arasında 4.831,62 TL, 168 ve 308 parseller yönünden 2008-2010 yılları arasında 3.940,75 TL olmak üzere toplam 8.773,24 TL ecrimisil bedelinin tahsiline karar verilmesini talep etmiş ve ıslah harcı yatırmıştır.
 
@@ -73,16 +81,22 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazları y
 
 ## Yargıtay 8. HD 2018/13636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/428836900)
+
 Elatmanın Önlenmesi, Yıkım ve Ecrimisil talepli davalarda vekalet ücreti hesaplanırken elatılan taşınmazın değeri, muhdesatın değeri ve hükmedilen ecrimisil miktarının toplamı üzerinden nispi vekalet ücretine hükmedilir. Eldeki davada 367 TL ecrimisile hükmedilmiştir, yine elatmanın önlenmesine karar verilmiştir ve dava açılırken davacı tarafından elatılan taşınmaz için 10.000 TL üzerinden harç yatırılmıştır ve yine muhdesat bedeli de 6.657 TL’dir . Mahkemece davacı lehine 17.024 TL üzerinden 2.042,88 TL nispi vekalet ücretine hükmedilmesi gerekirken yanılgılı değerlendirmeyle elatmanın önlenmesi ve ecrimisil talepleri için ayrı ayrı 1.500’er TL vekalet ücretine hükmedilmesi doğru değil ise de; hüküm sonucu itibarıyla doğru olduğundan ve bu husus yeniden yargılamayı gerektirmediğinden temyiz edilen hükmün HUMK'nun 438/son maddesi uyarınca düzeltilerek onanması gerekmiştir.
 
 SONUÇ: Yukarıda açıklanan nedenlerle 1086 sayılı HUMK'nun 438/son fıkrası gereğince hükmün asıl dava bakımından başlıklı kısmının 7 ve 8 no’lu bentlerinin “ Davacı kendisini bir vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan AAÜT’ne göre takdir ve tayin olunan 2.042,88 -TL nispi vekalet ücretinin davalı ...’den alınıp davacı ...‘a VERİLMESİNE...” şeklinde düzeltilerek ONANMASINA …
 
 ## Yargıtay 16. HD 2018/2534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421556200)
+
 3402 sayılı Yasa'nın Ek-4. maddesi, "6831 sayılı Yasa'nın 20.06.1973 tarihli Kanunla değişik 2. maddesinin (B) bendine göre ... ... komisyonlarınca ... adına ... sınırları dışına çıkarılan yerler, fiili kullanım durumları dikkate alınmak ve varsa üzerindeki muhdesatın kime veya kimlere ait olduğu ve kim veya kimler tarafından ne zamandan beri kullanıldığı, ... tutanağının beyanlar hanesinde gösterilmek suretiyle bu Kanun'un 11. Maddesinde belirtilen askı ilanı hariç diğer ilanlar yapılmaksızın öncelikle kadastrosu yapılarak ... adına tescil edilir" hükmünü taşımaktadır. "Kullanım kadastrosu" olarak isimlendirilen bu çalışmanın amacı, 2/B sahalarını, fiili kullanım durumlarını dikkate alarak parsellere ayırmak ve bu taşınmazları 2/B alanı olarak ... adına tescil ederken, taşınmazlar üzerinde tespit günü itibariyle fiili kullanımı bulunanları ve muhdesatları tespit ederek tapunun beyanlar hanesinde göstermektir. Bu maddeye dayanılarak açılacak davalarda kabul kararı verilebilmesi için öncelikle davacı tarafın taşınmazı kullandığının ispat edilmesi gerekmektedir.
 Diğer bir anlatımla, kullanım kadastrosu sırasında beyanlar hanesinde kullanıcı olarak gösterilebilecek kişiler, ... tespiti sırasında çekişmeli taşınmazı ekonomik amacına uygun olarak fiilen asli zilyet olarak kullanan kişilerdir. Somut olayda, davacılar ... ve ...'ın taşınmazdaki zilyetliklerine ilişkin delil olarak ecrimisil ihbarnamelerini sundukları, söz konusu ecrimisil ihbarnamesine ek krokiye göre, ecrimisile konu olan taşınmazın çekişmeli taşınmaz olmayıp, çekişmeli taşınmaz bölümünün boş alan olarak gösterildiği, bu hususun keşif sonrası dosyaya ibraz edilen uzman teknik bilirkişi raporu ile de belirlendiği, keşifte dinlenen mahalli bilirkişiler ile tespit bilirkişilerinin taşınmazın davacılar ... ve ...'ın kullanımlarının bulunmadığı yönündeki beyanları birlikte değerlendirildiğinde çekişmeli taşınmazda davacıların kullanımlarının bulunmadığı anlaşılmaktadır. Hal böyle olunca; mahkemece davanın reddine karar verilmesi gerekirken çekişmeli taşınmazın davacı ... ve ...
 
 ## Yargıtay 1. HD 2018/928 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406388700)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -95,6 +109,8 @@ Tarafların yerinde bulunan temyiz itirazlarının kabulü ile, hükmün (6100 s
 
 ## Yargıtay 1. HD 2017/1257 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355808100)
+
 Dava, haksız işgalden kaynaklanan ecrimisil isteğine ilişkindir.
 
 …
@@ -105,11 +121,15 @@ Davalılar vekilinin temyiz itirazı açıklanan nedenden ötürü yerindedir. K
 
 ## Yargıtay 8. HD 2016/8445 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209521500)
+
 Takip dayanağı ilamda; depo niteliğindeki yapının davacıya ait olduğunun tespiti tapuya tescili ile muhdesatı haksız işgali nedeniyle beş yıllık ecrimisil bedeli 20.000,00 TL'nin davalıdan tahsilinin talep edildiği, Mahkemece davanın reddine karar verildiği anlaşılmaktadır. Dayanak ilamda, taşınmazın aynıyla ilgili olmayan ve taşınmazın üzerinde bulunan, muhdesat yapana yönelik uyuşmazlık bulunmaktadır. Bu konuya ilişkin ilamlar kesinleşmeden takip konusu yapılabileceğinden buna bağlı olarak eklentilerin de aynı şekilde takibe konu edilmesinde herhangi bir usulsüzlük bulunmadığından, Mahkemece borçlu vekilinin şikayetinin reddi yerine yazılı gerekçe ile kabulüne karar verilmesi isabetsizdir.
 
 SONUÇ: Alacaklı vekilinin temyiz itirazlarının kabulü ile Mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366. ve HUMK'nun 428. maddeleri uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/1789 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119002700)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiş, hüküm taraflarca temyiz edilmiştir.
 
@@ -120,6 +140,8 @@ Hâl böyle olunca; davalıların muhdesatın aidiyetinin tespiti isteğiyle aç
 Tarafların bu yöne değinen temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2014/24989 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96738900)
 
 Dava, el atmanın önlenmesi, kal ve ecrimisil, karşı dava ise taşınmazlar üzerindeki yapı bedellerinin tahsili istemine ilişkindir.
 
@@ -132,6 +154,8 @@ Taşınmazın el atılan bölümü üzerinde bulunan yapılar davacı tarafında
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2014/22538 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/436852000)
 
 Davacılar vekili, 1761 ada 57 parsel sayılı taşınmazın 1/2 payının tapuda davacıların babası ölü .... adına, 1/2 payının ise tarafların ortak miras bırakanı....adına kayıtlı olduğunu, üzerindeki 3 katlı binanın davacıların babası ..... tarafından yaptırıldığını açıklayarak bu hususun tespitini istemiştir.
 
@@ -148,6 +172,8 @@ karar verilmesi doğru değil ise de; red kararı sonucu itibarıyla doğru oldu
 
 ## Yargıtay 1. HD 2014/16467 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84327000)
+
 Dava, kamulaştırmasız elatmadan kaynaklanan ecrimisil isteğine ilişkindir.
 
 …
@@ -157,6 +183,8 @@ Hal böyle olunca, dava konusu taşınmazın tecavüzlü kısmının 09.01.2007 
 Davalı tarafın bu yöne değinen temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/12546 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/89297200)
 
 Dava; çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -168,6 +196,8 @@ Davalılardan A.. B.. tarafından yapılan temyiz itirazları bu yönüyle yerin
 
 ## Yargıtay 17. HD 2014/9593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/375245700)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -175,6 +205,8 @@ Dava, ecrimisil istemine ilişkindir.
 3402 sayılı kadastro kanunu’nun 25/son Maddesinde “---taksim, şuyuun giderimesi, muhdesatın yıkılıp kaldırılması ve benzeri nitelikte olan ve mahkemeden yenilik doğurucu hüküm almayı gerektiren dava ile ilgili isteklerin incelenmesi, kadastro mahkemesinin görevi dışındadır“ şeklinde düzenleme getirilmiştir.. Buna göre yenilik doğurucu hüküm vermeyi gerektiren ecrimisil istemi ile ilgili uyuşmazlığınesinde görülüp, sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 1. HD 2014/24 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84039000)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -190,6 +222,8 @@ Davacı tarafın temyiz itirazları yerindedir. Kabulüyle hükmün, açıklanan
 
 ## Yargıtay 1. HD 2013/13531 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79766300)
+
 Dava; çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -201,6 +235,8 @@ Hal böyle olunca; 155 ada, 2 parselde yer alan 22 nolu bölümün kapsadığı 
 Davalının bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 3. HD 2013/5640 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254753900)
 
 Davalı ... vekili cevap dilekçesi ile; davaya konu yerin imar uygulamaları ile son parselasyon çalışmasında Belediye mülkiyetinde kalan, park alanı olarak terk edilen yer olduğunu, söz konusu müştemilatların Belediye ile ilgisinin olmadığını, Belediye'nin de taşınmazda hissedar olduğundan intifadan men şartının oluşmadığını, daha evvel davacıların kamulaştırmasız el atma nedeniyle tazminat davası açarak seçimlik haklarını bu yönde kullandıklarını, artık ecrimisil talep edemeyeceklerini savunarak davanın reddini dilemiştir.
 
@@ -214,6 +250,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 1. HD 2013/5324 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79652200)
+
 Dava, elatmanın önlenmesi, yıkım ve ecrimisil isteğine ilişkin olup, dosya içeriği ve toplanan deliller ile, kayden davacının maliki olduğu 177 parsel sayılı taşınmaza davalı A.
 
 …
@@ -223,6 +261,8 @@ Hal böyle olunca, çekişmeli 177 parsel sayılı taşınmaz tapuda kargir ev v
 Davalı A.oğlu M.nın, ecrimisile yönelik temyiz itirazı yerindedir. Kabulüyle hükmün açıklanan nedene hasren (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2013/4563 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688552000)
 
 Mahkemece, asıl davanın reddine, karşı davanın kabulüne, birleştirilen davanın da pasif husumet yokluğu nedeniyle reddine karar verilmiştir.
 
@@ -236,6 +276,8 @@ SONUÇ : Yukarıda (1) numaralı bentte yazılı nedenlerle davacı-karşı dava
 
 ## Yargıtay 3. HD 2012/14943 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539815900)
+
 Davacı vekili dava dilekçesinde, davacıya ait 2075 nolu parselde davalının taşkın inşaat yapması nedeniyle daha evvel müdahalenin önlenmesi ve kal davası açıldığını, mahkemece kabul edildiğini, davalının buna rağmen taşınmazı işgal etmeye devam ettiğini belirterek 01/02/2004- 31/12/2008 arası 156.000 TL ecrimisilin davalıdan kademeli faizi ile tahsilini talep etmiştir.Davalılar vekili cevabında, dava konusu inşaatın belediyenin yapı ruhsatı vermesi nedeniyle 1973 yılında yapıldığını, davacının sonradan malik olduğunu beyan etmiştir.Mahkemece; bilirkişi raporuna göre davanın kısmen kabulü ile 100.806,52 TL ecrimisilin her dönem sonu yasal faizi ile tahsiline karar verilmiş, hükmü taraf vekilleri temyiz etmiştir.Dava konusu 2075 nolu parsele ait tapu kaydına göre davacının 02/06/2000 tarihinde malik olduğu, davalının ise 2076 nolu parsele malik olduğu anlaşılmaktadır.Davada, davacının tapulu taşınmazına davalı tarafından yapılan taşkın inşaat nedeniyle ecrimisil talep edilmektedir.Taraflar arasında daha önce görülen ...
 
 …
@@ -245,15 +287,21 @@ tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü i
 
 ## Yargıtay 3. HD 2012/10803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/576257500)
+
 Davaya konu taşınmaz tapuda arsa olarak kayıtlı bulunduğuna göre üzerindeki bina aksi kanıtlanmadığı sürece arsanın mülkiyetine tabidir.Şu durumda; binanın 3. katını inşa ettirdiğini ileri süren davalı ... tarafından bu iddianın ispat edilmesi gerekmektedir. Ne var ki mahkemece, davalı tarafın bu konudaki delilleri toplanılmadığı gibi, bu yönde de bir belirleme yapılmamıştır.
 Buna göre mahkemece; taşınmazın 3. katında yer alan dairenin kim tarafından inşa ettirildiğinin tespiti için davalı ...’in (ve sunması halinde davacı tarafın karşı) delillerinin usulünce toplanılması, bu dairenin davalı tarafından inşa ettirildiğinin tespit edilmesi halinde; dairenin yüzölçümü itibariyle (kural olarak binadaki daireler eşit paya sahip düşünülerek) arsadaki hissesi oranında ecrimisile konu olduğu kabul edilerek bilirkişi marifeti ile arsanın getirebileceği kira geliri üzerinden ecrimisilin belirlenmesi, aksi halde ise şimdiki gibi karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde hüküm kurulması doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK. nun 428.
 
 ## Yargıtay 7. HD 2012/566 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100953900)
+
 Ne var ki; davacı ... tapu kaydına dayanarak dava açmıştır. Mahkemece taşınmazların davacı ...'nin tutunduğu tapu kaydı kapsamında kaldığı, ayrıca davalıların taşınmazlar için Hazine'ye ecrimisil ödeyip zilyetliklerinin malik sıfatıyla olmadığı belirlendiğine göre dava konusu taşınmazların arsa niteliği ile davacı ... adına tapuya tesciline, dava konusu taşınmazlar üzerinde bulunan muhdesatların davalılara ait olduğunun tapu kütüğünün beyanlar hanesinde gösterilmesine karar verilmesi gerekirken talep aşılarak taşınmazların genel harman yeri olarak sınırlandırılmasına karar verilmesi isabetsiz olduğu gibi, mahkeme hükmünden sonra 19.01.2011 tarihinde yürürlüğe giren 6099 Sayılı Yasa ile değişik 3402 Sayılı Kadastro Kanunu’nun 36/A ve geçici 11. maddelerinde “Kadastro işlemi ile oluşan tespit ve kayıtların iptali için Devlet veya diğer kamu kurum ve kuruluşları tarafından kayıt lehtarına karşı Kadastro Mahkemeleri ile genel mahkemelerde açılan davalarda davalı aleyhine vekalet ücreti dahil, yargılama giderine hükmolunmaz ve bu hüküm henüz infaz edilmemiş yargı kararlarına da uygulanır.” hükmü öngörülmüştür.
 Bu yasal değişiklik nedeniyle davalılar ... ve ... aleyhine vekalet ücreti dahil yargılama giderine hükmolunmaması gerekirken, yazılı şekilde hüküm oluşturulması sonradan yürürlüğe giren ve geçmişe etkili sonuç doğuran yasal düzenlemelere aykırı ise de; yanılgıların giderilmesi yargılamanın tekrarını gerektirmediğinden hükmün 2 nolu bendinin 2.satırında yazılı olan “harman yeri olarak sınırlandırılmasına” sözlerinin hüküm yerinden çıkarılarak yerine “arsa niteliği ile davacı ... adına tapuya tesciline, dava konusu 175 ada 6 parsel sayılı taşınmaz üzerinde bulunan muhdesatların davalı ...'e, 10 parsel sayılı taşınmaz üzerinde bulanan muhdesatların davalı ...'e ait olduğunun tapu kütüğünün beyanlar hanesinde gösterilmesine” sözlerinin yazılmasına, aynı zamanda hükmün 3, 4, 5 ve 6. bentlerinin hüküm yerinden çıkartılmasına, yerine 3. bent olarak "Davacı ...
 
 ## Yargıtay 5. HD 2011/15555 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1032207400)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -267,6 +315,8 @@ Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan n
 
 ## Yargıtay 14. HD 2011/12663 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/557724000)
+
 Mahkemece, ... mirasçıları olan davacıların davalarının kabulüne, 365 ada 10 ve 11 parsellerin tapularının iptali ile ... mirasçıları adına tesciline, asıl davaya karşılık açılan ve eldeki dava dosyası ile birleştirilen davalardaki ... mirasçılarının haksız elatmanın önlenmesi, kal ve ecrimisil istemlerinin reddine karar verilmiştir.
 
 …
@@ -278,6 +328,8 @@ Mahkemece, ... mirasçıları olan davacıların davalarının kabulüne, 365 ad
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 3. HD 2011/10887 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965201700)
 
 Davalı, kadastro çalışmalarından önce davacıların taşınmazı kullanmaya yönelik talepleri olmadığını, zirai muhdesatın yaklaşık yüzde altmışbeş miktarını kendisinin diktiğini, evi kendisinin yaptığını beyan etmiştir.
 
@@ -295,6 +347,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 1. HD 2010/11342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/921140000)
+
 Davacı- birleşen dosya davalısı, şirketin kayden malik olduğu 47 parsele, davalının haklı ve geçerli bir neden olmaksızın gecekondu yapmak suretiyle müdahale ettiğini ileri sürerek, elatmanın önlenmesi, yıkım ve ecrimisil isteğinde bulunmuştur.
 
 Davalı- birleşen dosya davacısı, çekişmeli taşınmazdaki yapının aidiyetinin ve değerinin tespiti isteği ile davanın reddini savunmuştur.
@@ -310,6 +364,8 @@ davacıya ait 47 parsel sayılı taşınmaza davalının haklı ve geçerli bir 
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davalının, temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 16. HD 2007/2047 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/867221000)
 
 Dosya içeriğine, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere, delillerin takdirinde bir isabetsizlik bulunmamasına, çekişmeli taşınmazın temyize konu ve 20.12.2006 tarihli uzman bilirkişi raporunda (14/A) ile gösterilen bölümünün tarım arazisi niteliğinde olduğu ve adlarına tescile karar verilenler yararına zilyetlikle mülk edinme şartlarının oluştuğu, taşınmazın bir süre kullanılıp geri verilmek üzere İl Tarım Müdürlüğüne bırakıldığı, mahallinde yapılan keşif, uygulama, dinlenen bilirkişi ve tanık beyanları ile uzman bilirkişi raporlarıyla belirlendiğine göre müdahil Hazinenin diğer temyiz itirazları yerinde değildir. Ancak; temyize konu taşınmaz bölümü üzerinde, boğaevi olarak kullanılmak üzere inşa edilmiş ve halen mesken olarak Hazine tarafından ecrimisil alınmak suretiyle kiralanan bina bulunduğu anlaşılmaktadır. 3402 sayılı Kadastro Kanunu'nun 19/2. maddesi gereğince, taşınmaz mal üzerinde malikinden başka bir kimseye ait muhdesat mevcut ise bunun sahibi, cinsi, ihdas tarihi ve iktisap sebebi belirtilerek kütüğün beyanlar hanesinde gösterilmesi gerekir.
 Mahkemece, çekişmeli taşınmaz bölümü üzerinde Hazine tarafından meydana getirilmiş muhdesatın kütüğün beyanlar hanesinde gösterilmemesi usul ve yasaya aykırı bulunmaktadır.

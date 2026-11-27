@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/1332 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857579800)
+
 Dava, davacı idareye ait taşınmazdan çıkarılan maden bedelinin tazmini istemine ilişkindir.
 
 …
@@ -32,15 +34,21 @@ Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufundaki yerlerde y
 
 ## Yargıtay 5. HD 2025/12703 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188608500)
+
 Dairemizce yapılan inceleme sonucunda, kuru tarım arazisi niteliğindeki taşınmaza net gelir metodu esas alınarak değer biçilmesinde bir isabetsizlik görülmediği, ancak; 23.05.2017 havale tarihli fen raporunda A, B, C ve D ile gösterilen toplam 251.428,70 m²lik kısmın zemin bedeline hükmedildiği gözetildiğinde bu bölümünün davalı idare adına tescili yerine bu kısım lehine daimi irtifak hakkı tesisi ile tapuya tesciline karar verilmesi doğru görülmediği gibi davacı murisi adına ... Belediyesi lehine intifa hakkı bulunduğu anlaşıldığı, bu nedenle, tapu kaydında lehine intifa hakkı bulunan ...
 Belediyesi Başkanlığını davaya dâhil etmesi için davacı vekiline süre verilip, taraf teşkili sağlandıktan sonra, davacı hissesine düşen taşınmaz bedelinin intifa hakkı sona erinceye kadar bir milli bankaya çıplak mülkiyet sahibi bu davacı adına yatırılarak bu bedelin nemalarından intifa hakkı sahibinin yararlanmasına, intifa hakkı sona erdiğinde adı geçen paydaşa ödenmesine karar verilmesi gerekirken bu hususun gözetilmemesi, kamulaştırmasız el atma nedeniyle tazminat istemi yönünden dava konusu edilen taşınmazın değeri dava tarihine göre belirlendiğinden, hüküm altına alınan alacağın tamamına dava tarihinden itibaren yasal faiz işletilmesi gerekirken infazda tereddüt yaratacak şekilde olay tarihinden itibaren faiz yürütülmesi, ecrimisil bedeline her dönem sonu itibarıyla ayrı ayrı faiz yürütülmesi gerekirken, infazda tereddüt yaratacak şekilde olay tarihinden itibaren faiz yürütülmesine karar verilmesi doğru görülmediğinden kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/2881 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133892700)
+
 Dairemizce yapılan inceleme sonucunda; arazi niteliğindeki dava konusu taşınmaza gelir metodu esas alınarak değer biçilmesinde yöntem itibarıyla bir isabetsizlik görülmediği, taşınmazda dava dışı Mustafa eşi Hatice Mahiye lehine intifa hakkı bulunduğunun anlaşıldığı, bu nedenle intifa hakkı sahibinin sağ olduğu takdirde davaya dahil etmek üzere davacıya süre verilip taraf teşkili sağlandıktan sonra tespit edilen taşınmaz bedelinin intifa hakkı sona erinceye kadar bir milli bankaya çıplak mülkiyet sahibi adına yatırılarak bu bedelin nemalarından intifa hakkı sahibinin yararlanmasına, intifa hakkı sona erdiğinde tapu malikine ödenmesine karar verilmesi gerekirken bu hususun gözetilmemesinin, tapu kaydında bulunan ipoteklerin bedele yansıtılmasına ilişkin hüküm kurulmamasının, 2013, 2014, 2015, 2016 ve 2017 yılı İlçe Tarım ve Orman Müdürlüğü verileri getirtilip hükme esas alınan bilirkişi raporunun ecrimisil bedeli yönünden denetlenmesi gerekirken eksik inceleme ile karar verilmesinin, taşınmazın nehir yatağı haline dönüşen el atılan kısmının tapusunun iptali ile 3402 sayılı Kadastro Kanunu'nun (3402 sayılı Kanun) 16 ncı maddesinin (C) bendi uyarınca tapudan terkinine karar verilmesi
 gerekirken davacı idare adına tesciline hükmedilmesinin, dava tarihinin 12.01.2018 tarihi olmasına rağmen faiz başlangıç tarihinin 02.01.2018 tarihi olarak gösterilmesinin doğru görülmediği gerekçesiyle kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/4753 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096067400)
 
 Dairemizce; "...davacının; intifa hakkına dayalı olarak açtığı bu davada, davalının taşınmazı kullandığı iddiasıyla intifa hakkına vaki el atmanın önlenmesi ve ecrimisil talebinde bulunduğu, intifa hakkına dayalı el atmanın önlenmesini ve ecrimisil talep eden davacının ispat yükü kendi üzerinde bulunduğundan taşınmazın davalı ... tarafından kullanıldığını ispat etmek zorunda olduğu, İlk Derece Mahkemesince toplanan delillere ve yapılan keşifte görülen elektrik ve su faturalarındaki bilgilere göre taşınmazı eylemli olarak kullananların dava dışı kişiler oldukları, davalının intifa hakkına yönelik bir el atma eyleminin bulunduğu kanıtlanamadığından davalı yönünden ispatlanamayan davanın reddine dair hüküm kurulması gerekirken husumet yöneltilemeyeceği belirtilerek ret kararı verilmesinin doğru görülmediği …
 
@@ -50,6 +58,8 @@ gerekçesiyle karar bozulmuştur.
 
 ## Yargıtay 7. HD 2023/5375 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986394900)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil taleplerine ilişkindir.
 
 …
@@ -57,6 +67,8 @@ Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil taleplerine ilişk
 Dava konusu 10511 ada 6 parsel sayılı taşınmazda davacı 15/149 payda ... mülkiyet sahibi olup dava dışı 3. kişi lehine intifa hakkı verilmiştir. Kural olarak el atmanın önlenmesi davası açılabilmesi için mülkiyetin tam veya ... mülkiyet olması davacılık sıfatını etkilemez. Üzerinde intifa hakkı gibi gayri ayni veya kira gibi şahsi hak bulunan taşınmaz maliki dahi el atmanın önlenmesi davası açabilir. (Yargıtay Hukuk Genel Kurulu 9.11.2016 tarihli 2014/1-1425 Esas ve 2016/1039 Karar) Ancak, intifa hakkı kurulmakla taşınmazın kullanma ve yararlanma hakkı intifa hakkı sahibine ait olduğundan ... mülkiyet sahibi ecrimisil talep edemez. Bu durumda, dava konusu 6 parsel hakkında davacının ecrimisil talebinin reddine ilişkin karar doğru ise de el atmanın önlenmesi talebinin reddedilmesi doğru görülmemiş bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2021/5119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684355100)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -66,6 +78,8 @@ Bu durumda, mahkemece, taşınmazın davacı adına tescil edildiği 26.06.2008 
 
 ## Yargıtay 8. HD 2021/2307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680899200)
+
 Dava; elatmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 
 …
@@ -73,6 +87,8 @@ Dava; elatmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 Ancak dava konusu 43 ada, 12 parsel sayılı taşınmazın arsa niteliğinde davacı ... adına tam hisse ile tapuda kayıtlı olduğu, davacı dernek yönetim kurulunun 08.02.1987 günlü kararıyla Kuran Kursunun intifa hakkının Diyanet İşleri Başkanlığına devredildiği, dernek yönetim kurulunca tanınan intifa hakkının kuran kursuna ilişkin olup davalı tarafından lojman olarak kullanılan daireye ilişkin olmadığı, çekişme konusu taşınmazın davalının kullanımında olduğu ve kira sözleşmesine ve davacının rızasına dayalı bir kullanım bulunmadığı tarafların kabulünde olduğuna göre davalının taşınmaza elatmasının önlenmesine ve belirlenecek ecrimisile hükmedilmesi gerekirken yanılgılı değerlendirme ile olayda uygulama yeri bulunmayan dava konusu taşınmazın kullanımının kamu görevlisinin hizmet kusurundan kaynaklanmakta olduğu gerekçesiyle davanın pasif husumet ehliyeti yokluğu nedeniyle reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2017/5740 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378785000)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -82,6 +98,8 @@ Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 ## Yargıtay 14. HD 2015/593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/188631800)
+
 Dava, intifa hakkına elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -89,6 +107,8 @@ Dava, intifa hakkına elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 Ancak dosya çerisindeki 23.03.1990 tarihli ... Sulh Hukuk Hakimliği 1990/125 E., 1990/316 K. Sayılı mirasçılık belgesine göre davacının dava konusu taşınmazın 1/2 hissesi üzerinde intifa hakkı bulunduğundan ve taşınmazın davacı dışındaki mirasçılar tarafından kiraya verilmek suretiyle tasarruf edildiği anlaşıldığından davacının halen kullandığı dairenin getireceği kira bedeli de gözetilmek suretiyle ecrimisile hükmetmek gerekirken mahkemece ecrimisil talebinin de reddedilmesi doğru görülmemiş kararın bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2014/14405 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/363509200)
 
 Dava, intifa hakkına dayalı ecrimisil isteğine ilişkindir.
 
@@ -100,6 +120,8 @@ Dosyada mevcut tapu kaydına göre, davaya konu 2800 ada, 15 parsel sayılı ta�
 
 ## Yargıtay 14. HD 2014/13415 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105819300)
+
 Dava kanuni intifa hakkı sahibi tarafından açılan ecrimisil istemine ilişkindir.
 
 …
@@ -108,9 +130,13 @@ Bu durumda mahkemece, davacının intifa hakkı sahibi olması nedeniyle dava ko
 
 ## Yargıtay 14. HD 2014/8816 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105512500)
+
 Bu durumda davacı intifa hakkı sahibi tarafından intifadan men koşulu 15.08.2012 tarih ve 16568 yevmiye numaralı ihtarnamenin davalıya tebliğ tarihi olan 22.08.2012 tarihinden itibaren gerçekleşmiş sayılacağından bu tarihten itibaren ecrimisile hükmedilmesi gerekirken yazılı şekilde intifa hakkının tesisi tarihinden dava tarihine kadar geçen dönem için ecrimisile hükmedilmiş olması doğru görülmemiş, bu nedenle kararın bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2014/5425 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84186200)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -122,6 +148,8 @@ Hemen belirtilmelidir ki, davalı idare tarafından asfalt yol, tretuvar ve yeş
 
 ## Yargıtay 14. HD 2014/5100 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105683100)
+
 Dava, intifa hakkına dayalı elatmanın önlenmesi, kal ve ecrimisil isteğine ilişkindir.
 
 …
@@ -130,6 +158,8 @@ Dava, intifa hakkına dayalı elatmanın önlenmesi, kal ve ecrimisil isteğine 
 
 ## Yargıtay 14. HD 2014/1459 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105439300)
+
 İntifa hakkının kurulmasını sağlayan hukuki sebepte (anlaşma, vasiyetname) bu hak için bir süre gösterilmişse o sürenin bitmesi ve herhalde hak sahibi gerçek kişi ise TMK’nın 796. maddesine göre intifa hakkı sahibinin ölümü, intifa hakkı sahibi tüzel kişilik ise infisahı veya hakkın kurulmasının üstünden 100 yıl geçmesi, mahkemeden verilmiş intifa hakkını sona erdiren bir kararın bulunması intifa hakkını son bulduran diğer sebeplerdir.
 
 Bu genel açıklamalardan sonra somut olaya gelince; H.. S..'in benzin istasyonu niteliğindeki taşınmazda S.. S..'in 1/2 hissesi üzerinde intifa hakkının bulunduğu, S.. S..'in taşınmazın tamamının çıplak mülkiyetine sahip olduğu anlaşılmıştır. İntifa hakkının kurulması ile mülkiyet hakkına konu olan mal üzerinde çıplak mülkiyet sahibinin yararlanma ve kullanma yetkisini kaldırır. İntifa hakkı üzerine yüklendiği mülkiyet hakkını içi boşaltılmış bir hak durumuna sokar. İntifa hakkı varken bir mülkiyet hakkının sahibine verdiği mutat kullanma yetkilerinden mülkiyet hakkı sahibi mahrum kalmış olur. Kuru mülkiyet hakkı sahibinin sadece bu mülkiyet hakkını başkasına devretmek yetkisi vardır. İntifa hakkının hangi hallerde son bulacağı TMK'nın 796. maddesinde yer almıştır. Somut uyuşmazlıkta davalı (davacı) S.. S..'in şufa hakkını kullandığı esnada benzin istasyonu niteliğindeki taşınmazda davacı (davalı) H.. S..'in intifa hakkının bulunduğunu bilmediğini ileri sürmesi mevcut delil durumuna göre olanaklı değildir. Mahkemece davacı (davalı) H..
@@ -137,15 +167,21 @@ S..'in intifa hakkı devam ettiği halde intifa hakkına dayalı olarak talep et
 
 ## Yargıtay 14. HD 2013/15196 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563982800)
+
 İntifa hakkı, başkasına ait bir eşya, hak veya mal varlığı üzerinde belirli bir kişiye tam olarak yararlanma olanağı sağlayan bir irtifak türüdür. Kuşkusuz intifa hakkı sahibinin eşya üzerinde oluşan saldırının kaldırılmasını ve elatmanın önlenmesini istemesi olanaklıdır. Somut olayda, davacı 16. 11 2009 tarihinde davalıya gönderdiği ihtarname ile sözleşme ilişkisini sona erdirerek taşınmazın kendisine teslimini istemiştir. Davalı ise taşınmazı sözleşme ilişkisinin sona ermesine rağmen dava tarihinden sonra 02.02.2012 tarihinde tahliye etmiştir. Bu itibarla mahkemece taraflar arasındaki bayilik ilişkisinin sona erdiği tarihten dava tarihine kadar geçen süre için davacının ecrimisil isteminin kabulüne karar verilmesi gerekirken, davalının taşınmazı kuru mülkiyet sahibi olan üçüncü kişi ile yaptığı kira sözleşmesi uyarınca kullandığından bahisle bu isteminin reddine karar verilmesi doğru görülmemiş, bu nedenle kararın bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2013/3943 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79704100)
 
 O halde, dava konusu taşınmazı kullanma ve her türlü semeresinden faydalanma hakkı intifa hakkı sahibine geçtiğinden, dava konusu taşınmazlara elattığı iddia edilen kişilere karşı ecrimisilden kaynaklanan dava açma hakkınında intifa hakkı sahibine geçtiği kuşkusuzdur.
 
 Davanın kayıt malikleri tarafından açıldığı, intifa hakkı sahibi tarafından açılmış bir davanın da bulunmadığı gözetildiğinde, davanın reddine karar verilmesi gerekirken yanılgılı gerekçelerle yazılı olduğu üzere hüküm kurulmuş olması doğru değildir.
 
 ## Yargıtay 14. HD 2009/9409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844258000)
 
 Dava, intifa hakkına dayalı yersiz elatmanın kaldırılması ve ecrimisil tahsili istemlerine ilişkindir.
 
@@ -157,6 +193,8 @@ Yapılan bütün bu saptamalara göre mahkemece mevcut olsa bile rıza ile kulla
 
 ## Yargıtay 1. HD 2008/12449 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78653900)
+
 Dava çaplı taşınmaza elatmanın önlenmesi,yıkım ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -164,6 +202,8 @@ Dava çaplı taşınmaza elatmanın önlenmesi,yıkım ve ecrimisil isteklerine 
 Davada elatmanın önlenmesi, ecrimisil istekleri yanında yıkım isteğinde de bulunulmuştur.Hemen belirtilmelidir ki yıkım istekli davalarda komşu parsel maliki ile birlikte intifa hakkı sahibine karşıda davanın yöneltilmesi gereklidir.Bu durumda davacıya komşu parsel maliki ile intifa hakkı sahibine karşı dava açmak üzere önel verilmesi açıldığı takdirde eldeki dava ile birleştirilerek sonucuna göre bir karar verilmesi gereklidir. Öte yandan davacı taşınmaza 22.6.2005 tarihinde hükmen malik olmuştur.Keşfen yapılan bilirkişi incelemesi sonucu ise dava tarihinden itibaren geriye doğru beş yıllık 17.5.2002 tarihle 17.5.2007 tarihleri arası ecrimisil hesabı yapılmış ve mahkemece taleple bağlı kalınarak beş yıllık ecrimisile karar verilmiştir.Davacının taşınmaza hükmen malik olduğu 22.6.2005 tarihinden itibaren hesaplanacak ecrimisile hükmedilmesi gerekirken malik olmadığı dönemide kapsar biçimde fazla ecrimisilin karar altına alınmış olması da doğru değildir.
 
 ## Yargıtay 14. HD 2008/5624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845753000)
 
 Dava, intifa hakkına dayalı elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -173,12 +213,16 @@ Somut olaya gelince; Dava dışı ... 'ün maliki olduğu dönemde dava konusu t
 
 ## İstanbul BAM 7. HD 2021/1565 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664668900)
+
 Dava, intifa hakkına dayalı ecrimisil istemine ilişkindir.
 
 Bilindiği gibi, öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan kötüniyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira geliri karşılığı zarardır. Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde oluşan ve kullanmadan kaynaklanan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda (olumsuz zarar) ecrimisilin kapsamını belirler. Haksız işgal, haksız eylem niteliğindedir. Türk Medeni Kanununun 794. vd. maddeleri uyarınca aksine düzenleme olmadıkça intifa hakkı sahibine, konusu üzerinde tam yararlanma yetkisi sağlar.
 Yani intifa hakkına sahip bulunan kimse, hayatı ile sınırlı olarak başkalarına ait bir malın tamamından veya bir kısmından, özüne dokunmamak şartıyla faydalanmak ve kullanmak hakkına sahiptir. Başka bir deyişle intifa hakkı, buna kaynak olan hukuk ilişkisinin düzenlenmesi sırasında taraflarca aykırı bir şart kararlaştırılmış olmadıkça hakkın konusu olan şeyden tam ve sınırsız bir faydalanma hakkı sağlar. Öyle ki bu kullanma ve faydalanma hakkına engel olanların aynı Kanunun 983. maddesine göre müdahalelerinin men'ini talep edebilir. İntifa hakkı sahibi hayatta bulunduğu sürece çıplak mülkiyet sahibinin tasarrufundan söz edilemez. Somut olayda; davalılardan SS Sünnet Kağıthane Köprüsü Yapı Kooperatifi mülkiyetinde bulunan dava konusu taşınmazda davacı lehine intifa hakkı tesis edildiği, davacının bu intifa hakkına dayanarak istasyonlu bayii sözleşmesi imzaladığı, davacı şirket ile davalı ... LTD şti arasında akaryakıt satış ve serbest istasyonu inşası ve inşa edilecek istasyonun ... markası ile işletilmesi amacıyla sözleşme akdedildiği, istasyonun tamamlanması ardından davalı şirket ...
 
 ## Antalya BAM 5. HD 2021/1323 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690720400)
 
 Dava Tazminat (Kamulaştırmasız El Koymadan Kaynaklanan) davasıdır.
 
@@ -189,6 +233,8 @@ Noterliğinin 20.06.2013 tarih ... yevmiye nolu ihtarnamesi ile mülk sahipleri 
 istasyonun dava dışı ... Tarafından işletilmesi nedeni ve davalıların bu taşınmazda vaki tecavüzlerinin bulunmaması nedeniyle açılan müdahalenin meni ve ecrimisil talepleri yönünden davanın pasif husumet yokluğundan reddine karar verilmesinin yerinde olduğu, ilk derece mahkemesi kararının usul ve yasaya uygun bulunup taraf vekillerinin istinaf talepleri yerinde olmadığı görülmekle talep vekillerinin istinaf taleplerinin HMK'nın 353/1-b-1 maddesi gereğince esastan reddine karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 16. HD 2021/164 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/626301600)
 
 …
 

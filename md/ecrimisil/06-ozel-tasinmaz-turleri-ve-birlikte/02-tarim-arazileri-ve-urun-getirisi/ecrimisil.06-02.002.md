@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2023/4978 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981971400)
+
 O halde İlk Derece Mahkemesince, yöreye ait en eski tarihli memleket haritası ve hava fotoğraflarının tamamı ile varsa amenajman planı ve komşu parsellere ait kadastro tutanakları, tutanaklar kesinleşmiş ise tapu kayıt örnekleri ve tapu kayıtları mahkeme kararı sonucu oluşmuş ise mahkeme karar örnekleri, ecrimisile ilişkin tüm belgeler ilgili yerlerden getirtilip, yaşlı, tarafsız, yöreyi iyi bilen, davada yararı bulunmayan aynı köyde ve komşu köylerde ikamet eden şahıslar arasından seçilecek ayrı ayrı 3’er kişilik yerel bilirkişi kurulu ve taraf tanıkları ile önceki bilirkişiler dışında halen Tarım ve Orman Bakanlığı ve bağlı birimlerinde görev yapmayan bu konuda uzman orman mühendisleri arasından seçilecek bir orman mühendisi bilirkişi, bir ziraat mühendisi bilirkişi, bir fen elemanı ve bir jeodezi ve fotogrametri mühendisi aracılığıyla yeniden keşif yapılmalıdır.
 Keşifte getirtilen belgeler çekişmeli taşınmaz ile birlikte çevre araziye de uygulanmak suretiyle taşınmazın öncesinin bu belgelerde ne şekilde nitelendirildiği belirlenmeli; keşifte, hakim gözetiminde, taşınmazın dört yönden renkli fotoğrafları çektirilip, onaylanarak dosyaya eklenmeli; yukarıda değinilen diğer belgeler fen, jeodezi ve fotogrametri ile uzman orman bilirkişiler eliyle yerine uygulattırılıp; orijinal-renkli (renkli fotokopi) hava fotoğrafları ve memleket haritasının ölçeği kadastro paftası ölçeğine, yine kadastro paftası ölçeği de hava fotoğrafları ve memleket haritası ölçeğine (Net-Cad veya benzeri programlar kullanılarak)denetime elverişli olacak şekilde çevrildikten sonra komşu ve yakın komşu parselleri de içine alacak şekilde birbiri üzerine aplike edilmek suretiyle çekişmeli taşınmaz, çevre parsellerle birlikte memleket haritası ve hava fotoğrafları üzerinde gösterilmeli; taşınmazın gerçek eğimi klizimetre aletiyle ölçülerek memleket haritalarındaki münhanilerden (yükseklik eğrilerinden) de faydalanılmak suretiyle belirlenmeli; stereoskopik hava fotoğraflarının stereoskop vasıtasıyla üç boyutlu incelemesi yapılarak, temyize konu taşınmazın niteliği ve kullanım
 durumu ile tasarruf sınırlarını belirgin olarak görünüp görünmediği belirlenmeli, taşınmazın üzerindeki bitki örtüsünün cinsi, yaşı, dağılımı, kapalılık oranı ile taşınmazın imar-ihyaya konu olup olmadığını, olmuş ise imar-ihyaya en erken ne zaman başlanıldığını ve imar-ihyanın hangi tarihte tamamlandığını, taşınmazın ekonomik amacına uygun olarak tarım arazisi niteliğiyle zilyetliğine ne zaman başlanıldığını belirten müşterek imzalı, tereddüte mahal bırakmayacak şekilde, yalnız büro incelemesine değil, uygulamaya ve araştırmaya dayalı, bilirkişilerin onayını taşıyan krokili bilimsel verileri bulunan yeterli ve dosyadaki belgeler ile karşılaştırıldığında denetime elverişli rapor alınmalıdır.
@@ -31,13 +33,19 @@ dayanılarak hazırlanan söz konusu bilirkişi raporlarıyla denetlenmeli 3402 
 
 ## Yargıtay 7. HD 2023/4139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979133100)
+
 Hükme esas alınan bilirkişi raporunun incelenmesinden, ecrimisil hesabının fındık dikili alan için ayrı geri kalan kısım için ise yörede yaygın münavebe ürünleri olan buğday- mısır ekimi üzerinden yapıldığı anlaşılmıştır. Ancak, taşınmazın tapudaki tarla vasfı dikkate alınarak taşınmazın üzerindeki fındık ağaçları olmaksızın ecrimisilin belirlenmesi gerekirken, taşınmazın 2.600 m²'lik kısmının fındık bahçesi olarak getirebileceği ecrimisil belirlenerek bu miktar üzerinden karar verilmesi doğru görülmemiştir. Yine bilirkişi raporunda her ne kadar yıllık üretim masrafları ve satış fiyatlarının İlçe Tarım ve Orman Müdürlüğünden temin edildiği belirtilmiş ise de, raporun taraf ve mahkeme denetimine açık olması açısından taşınmazda münavebeli ekim yapılıp yapılmadığı, taşınmazın nadasa bırakılıp bırakılmadığı ve taşınmazın bulunduğu bölgede ekilen tarım ürünlerinin neler olduğu İlçe Tarım ve Orman Müdürlüğünden sorularak ekildiği bildirilen ürünlerin ecrimisil talep edilen 2015, 2016, 2017, 2018 ve 2019 dönemlerine ait birim fiyatları ve dekara verim değerlerine ilişkin bilgi ve belgelerin İlçe Tarım ve Orman Müdürlüğünden getirilerek dosya arasına alınması gerekmektedir.
 
 ## Yargıtay 5. HD 2023/1366 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880783500)
+
 Dava konusu Mersin ili, ..., ilçesi, ... Mahallesinde bulunan ada 223 ada 6 parsel sayılı taşınmaza 2942 sayılı Kanun'un 11 inci maddesinin birinci fıkrasının (f) bendi uyarınca net gelir yöntemine göre değer biçilmesinde, dava konusu taşınmazın el atılan kısımlarının bedellerinin davalı idarelerden tahsiline ilişkin ilk derece mahkemesinden verilen karara karşı yapılan istinaf başvurularının, kabulü ile ecrimisil bedeli yönünden hükmün yeniden esas hakkında karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Yargıtay 7. HD 2023/1209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884329300)
 
 Yargıtay 8. Hukuk Dairesince:
 
@@ -50,6 +58,8 @@ davalının dava konusu taşınmazı geçerli bir sebebe dayanmaksızın bahçe 
 gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2022/3662 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792710600)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -64,6 +74,8 @@ Hal böyle olunca, mahkemece yeniden konusunda uzman bilirkişiler eşliğinde k
 
 ## Yargıtay 5. HD 2021/9865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686060600)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -74,6 +86,8 @@ Belirlenen ecrimisil bedeline her dönem sonu itibariyle faize hükmedilmesi ger
 
 ## Yargıtay 8. HD 2021/5065 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668967000)
+
 Dava, paydaşlararası ecrimisil talebine ilişkindir.
 
 …
@@ -81,6 +95,8 @@ Dava, paydaşlararası ecrimisil talebine ilişkindir.
 Dava konusu taşınmazlar tarla vasfıyla önceden bir bütün iken, 26.08.2008 tarihinde imar görmesi sonucu 2392 parsel tarla vasfıyla, 350 ada 1, 2, 3, 4 parsel sayılı taşınmazlar arsa vasfıyla tapuya tescil edilmiştir. Davacı tarafın 2006-2011 tarihleri için ecrimisil talebinde bulunması karşısında Mahkemece, 2392 parsel sayılı taşınmaz yönünden 2006-2011 yılları için tarla vasfına göre, 350 ada 1, 2, 3, 4 parsel sayılı taşınmazlar yönünden ise 2006-2008 yılları için tarla vasfına, 2008-2011 yılları için arsa vasfına göre ecrimisil hesabı yapılması gerekirken, 350 ada 1, 2, 3, 4 parsel sayılı taşınmazlar yönünden 5 yıllık arsa vasfına göre ecrimisil hesabı yapılması doğru görülmemiş bozmayı gerektirmiştir.
 
 ## Yargıtay 7. HD 2021/3593 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727608900)
 
 Dava, paydaşlar arasında çaplı taşınmaza yönelik elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -96,6 +112,8 @@ gerekçesiyle davanın reddine karar verilmiş,hükme karşı davacı vekili tar
 
 ## Yargıtay 8. HD 2021/3121 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665973400)
+
 Dava paydaşlar arası ecrimisil isteğine ilişkindir.
 
 …
@@ -106,6 +124,8 @@ Bundan başka, ecrimisile hükmedilen ... İlçesi, ... Köyü, 147 ada 13 parse
 
 ## Yargıtay 8. HD 2021/3068 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664822500)
+
 Dava ecrimisil istemine ilişkindir.
 
 …
@@ -113,6 +133,8 @@ Dava ecrimisil istemine ilişkindir.
 O halde Mahkemece, dava konusu taşınmaz üzerinde yer alan zeytin ağaçlarının davalılara ait olduğu hususunda taraflar arasında çekişme olmaması nedeni ile dava konusu taşınmazın “tarla” niteliği ve davacının pay satın alma tarihleri göz önünde bulundurularak, her bir davalının işgal ettiği yer belirlenip, kullandıkları yere göre belirlenen ecrimisile ayrı ayrı hükmedilmesi gerekirken yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2021/2735 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666308700)
 
 Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 
@@ -122,6 +144,8 @@ Diğer davacılar ... ve ... bakımından ise 231 ve 351 parsel yönünden veril
 Yine bahçeli kerpiç iki ev niteliğindeki 351 parselle ilgili olarak davacı tanığı Mehmet Akgün’ün parsel başında verdiği beyanında; evin önündeki boşluğu (yaklaşık 1.550 m2 yeri) 2 yıldır davacı ... adına kendisinin kullandığını, iki yıl öncesinde davalı ...’in ekip biçtiğini beyan etmesine rağmen, ... için anılan parselle ilgili 3 yıllık ecrimisile hükmedilmesi gerekirken, 5 yıllık hesap üzerinden karar verilmesi de bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2021/2446 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651769400)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -134,6 +158,8 @@ O halde, Mahkemece yapılacak iş, asıl davada sadece 9 parsel yönünden bozma
 
 ## Yargıtay 8. HD 2021/2330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666196800)
+
 Dava , ecrimisil istemine ilişkindir.
 
 …
@@ -144,6 +170,8 @@ Hal böyle olunca, yukarıdaki ilkeler uyarınca, tarım arazi vasfındaki taş�
 
 ## Yargıtay 5. HD 2021/2036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663033000)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -152,6 +180,8 @@ Dosyada bulunan kanıt ve belgelere, kararın dayandığı gerekçelere göre; k
 
 ## Yargıtay 5. HD 2020/8194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600960600)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -159,6 +189,8 @@ Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil is
 Arazi niteliğindeki ... İlçesi,... mahalle 163 ada 30 parsel sayılı taşınmaza net gelir metodu esas alınarak değer biçilmesinde bir isabetsizlik görülmemiştir. Ancak, Tarım arazisi niteliğinde kabul edilen dava konusu taşınmazda münavebeye esas alınan ürünlerin net gelirleri esas alınarak ecrimisil bedelinin hesaplanması gerekirken sadece şekerpancarının net geliri üzerinden hesaplama yapan rapora göre hüküm kurulması, …
 
 ## Yargıtay 8. HD 2020/7355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636832800)
 
 Dava, paydaşlar arasında ecrimisil istemine ilişkindir.
 
@@ -169,6 +201,8 @@ Gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrim
 Paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan ecrimisil isteyebilir. Fakat kural olarak, men edilmedikçe paydaşlar birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi de, ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanmak isteğinin davalı paydaşa bildirilmiş olmasına bağlıdır. Ancak, bu kuralın yerleşik yargısal uygulamalarla ortaya çıkmış bir takım istisnaları vardır. Bunlar; davaya konu taşınmazın kamu malı olması, ecrimisil istenen taşınmazın (bağ, bahçe gibi) doğal ürün veren yada (iş yeri, konut gibi) kiraya verilerek hukuksal semere elde edilen yerlerden olması, paylı taşınmazı işgal eden paydaşın bu yerin tamamında hak iddiası ve diğerlerinin paydaşlığını inkar etmesi, paydaşlar arasında yapılan kullanım anlaşması sonucu her paydaşın yararlanacağı ortak taşınmaz veya bölümlerinin belirli bulunması, davacı tarafından diğer paydaşlar aleyhine daha önce bu taşınmaza ilişkin, elatmanın önlenmesi, ortaklığın giderilmesi, ecrimisil ve benzeri davalar açılması veya icra takibi yapılmış olması halleridir.
 
 ## Yargıtay 8. HD 2020/6938 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642103800)
 
 Dava paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -182,6 +216,8 @@ Dava konusu taşınmazların ecrimil bedelinin tasarruf eden davalıdan alınmak
 
 ## Yargıtay 8. HD 2020/3877 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598292700)
+
 Dava paydaşlar arasında ecrimisil alacağına ilişkindir.
 
 …
@@ -191,6 +227,8 @@ alan, davalının eşi Samiye’nin payı ve davacı payı ve müktesep haklar d
 
 ## Yargıtay 8. HD 2020/3854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599565900)
+
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -199,6 +237,8 @@ Hal böyle olunca, mahkemece, (öncelikle) yukarıda izah edildiği üzere İl v
 
 ## Yargıtay 5. HD 2020/3820 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578134500)
+
 Dava, kamulaştırmasız el atılarak üzerine pilon dikilip enerji nakil hattı geçirilen taşınmazın, pilon yeri bedeli ile irtifak hakkı karşılığının tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -206,6 +246,8 @@ Dava, kamulaştırmasız el atılarak üzerine pilon dikilip enerji nakil hattı
 Arazi niteliğindeki ... İlçesi, ... Mahallesi 17 parsel sayılı taşınmaza net gelir metoduna göre değer biçilerek, ecrimisile hükmedilmesinde ve irtifak hakkı karşılığı ile pilon yeri bedelinin tespit edilmesinde bir isabetsizlik görülmemiştir. Ancak;Dosyaya imzasız ve mühürsüz olarak sunulan tapu kayıtlarına göre dava konusu taşınmazın toplulaştırma çalışmaları nedeniyle ifraz görerek yeni parsel numaralarına gittiği anlaşılmış olup, toplulaştırma sonucu yeni oluşan tapu kayıtları ve krokileri ilgili tapu ve kadastro müdürlüklerinden ayrı ayrı getirtilip, davacıların hak sahiplikleri de denetlenmek suretiyle, mahallinde keşif yapılıp enerji nakil hattı ve direkler nedeniyle fiili elatma olup olmadığı belirlenerek sonucuna göre karar verilmesi gerektiğinden,Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428.
 
 ## Yargıtay 8. HD 2020/3719 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596064800)
 
 Dava, ecrimisil alacağına ilişkindir.
 
@@ -217,6 +259,8 @@ Kabule göre, ecrimisil davalarında talep olması halinde, bilirkişi tarafınd
 
 ## Yargıtay 5. HD 2019/12922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516188600)
+
 Dava, kamulaştırmasız el atılan taşınmaza yönelik el atmanın önlenmesi, kal ve ecrimisil; birleştirilen dava ise davalı belediyece diğer davalıya yapılan satışın ve tapunun iptali ile TEDAŞ Genel Müdürlüğü adına tescili istemine ilişkindir.
 
 …
@@ -226,5 +270,7 @@ Ecrimisil talebi yönünden; öncelikle dava konusu taşınmazın arsa mı, araz
 Arsa vasfında ise; taşınmazların bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne şekilde kiralandıklarının taraflardan delilleri sorulmak suretiyle tespit edilmesi, varsa emsal kira sözleşmeleri ibraz ettirilerek, arazi vasfında ise; dava tarihinden geriye doğru taşınmazlara yıllık ekilebilecek ürünler belirlendikten sonra tespit edilecek dekara net gelirine göre ve dava tarihinden geriye doğru, dava konusu taşınmazı devreden davacının dava konusu taşınmazı satın aldığı tarihe kadar hesap yapan rapor doğrultusunda hüküm kurulması gerektiği gözetilmeden;
 
 ## Yargıtay 8. HD 2019/11156 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567380800)
 
 Fındık bahçesi niteliğindeki taşınmazların davalı tarafından kullanıldığı tespit edilenler yönünden talepte belirtilen süreler ve paylar da gözetilerek ziraat bilirkişisi Ahmet Biltekin'in 07.11.2014 tarihli raporda belirtilen, asıl dava için 3.225 TL ve birleştirilen dava için ise 11.118 TL ecrimisilin davacıların payları gözetilerek davalıdan tahsiline karar verilmesi gerekirken yanılgılı değerlendirmeyle davanın reddine karar verilmiş olması doğru görülmemiştir ...' gerekçesi ile bozulmasına karar verilmesi üzerine, ilama karşı davalı vekili karar düzeltme isteminde bulunmuştur.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2017/6672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390837100)
+
 Davacılar, kayden paydaşı oldukları 7657 ada 16 parsel sayılı taşınmaza davalıların gecekondu yapmak suretiyle müdahale ettiklerini ileri sürerek, elatmanın önlenmesi, yıkım ve ecrimisile karar verilmesini istemişleridir.
 
 Davalılar, taşınmazda kendilerinin de paydaş olduklarını, davacıların yararlanmasına engel olmadıklarını belirterek, davanın reddini savunmuşlardır.
@@ -40,6 +42,8 @@ verilmesi gerekirken infazda tereddüt yaratacak şekilde ½ oranında yıkıma 
 
 ## Yargıtay 1. HD 2017/6639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/384764700)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -54,6 +58,8 @@ Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü il
 
 ## Yargıtay 1. HD 2017/6405 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/381260000)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -65,6 +71,8 @@ Hal böyle olunca; bozmaya uymakla oluşan kazanılmış hak (usulü müktesep h
 Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/6315 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/384969200)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -78,6 +86,8 @@ Bir kısım davalılar vekilinin bu yöne ilişkin temyiz itirazları yerindedir
 
 ## Yargıtay 1. HD 2017/6210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390830600)
+
 Dava, paydaşlar arasında el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -90,6 +100,8 @@ Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü il
 
 ## Yargıtay 1. HD 2017/5289 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378145400)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -99,6 +111,8 @@ O halde, TMK’nun 683. maddesinden kaynaklanan davacıların mülkiyet hakkına
 Davacıların temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerle(6100 sayılı Yasa'nın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/5171 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378116500)
 
 Dava, elatmanın önlenmesi, ecrimisil ve şerhin terkini isteklerine ilişkindir.
 
@@ -112,6 +126,8 @@ Davalılar vekilinin temyiz itirazları değinilen yön itibariyle yerindedir. K
 
 ## Yargıtay 1. HD 2017/4745 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/371662300)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -123,6 +139,8 @@ Hal böyle; olunca yıkım ve ecrimisil istemleri yönünden de davanın kabulü
 Davacının temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/3611 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/349853100)
 
 Davacı; mirasbırakanlarından intikal eden 618, 330, 589, 590 parsel sayılı taşınmazların diğer paydaşlarla yaptıkları rızai taksim sonucu kendisine bırakıldığını, yaklaşık 40-45 yıldır zilyetliğinde bulunan taşınmazları yeğeni ve yeğeninin oğlu olan davalıların 2002 yılından beri kullandıkları halde bir ödeme yapmadıklarını, taşınmazları terk etmeleri ve kullanım bedeli ödemeleri isteğininde sonuçsuz kaldığını ileri sürerek davalıların el atmasının önlenmesine, narenciye ağaçlarının sökülerek eski hale getirilmesine ve 2002 yılından itibaren gelirinden mahrum kalması nedeniyle fazlaya ilişkin haklar saklı kalmak üzere 6.500-Tl ecrimisilin davalılardan müteselsilen tahsiline karar verilmesini istemiştir.
 
@@ -136,6 +154,8 @@ davalıların el atmasının önlenmesine, bu yerdeki 11 adet narenciye ağacın
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Tarafların temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2017/2980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359065500)
 
 Davacı asıl davada, davalılar ile 8 parsel sayılı taşınmazdaki 2.kat dairenin satışı konusunda 05.09.2009 tarihli harici satış sözleşmesi düzenlendiğini ve satış bedelinin bir kısmının ödendiğini, ayrıca daireye faydalı ve zorunlu giderler yaptığını, ancak; taşınmazın daha sonra davalı ...’nin kızı ...’a devredildiğini ileri sürerek, sözleşmenin haksız feshi ve başka kişiye satış nedeniyle uğradığı zararın tahsiline karar verilmesini istemiştir.
 
@@ -153,6 +173,8 @@ Bu durumda, 08.04.2010 tarihinde tebliğ aldığı ihtarnemeyle davalı ...'ın 
 
 ## Yargıtay 1. HD 2017/1465 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/356143800)
+
 Dava, paydaşlar arasında el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -164,6 +186,8 @@ Diğer taraftan, her bir davalı için karar verilen el atmanın önlenmesi ve e
 Davalıların temyiz itirazları açıklanan nedenlerden ötürü yerindedir. Kabulü ile, hükmün (6100 sayılı Hukuk Muhakemeleri Kanunu'nun geçici 3. maddesi yollamasıyla) 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/73 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/317701900)
 
 Davacı, maliki olduğu 11 parsel sayılı taşınmaza davalının araç yıkama binası ve otopark tesisi yaparak müdahalede bulunduğunu ileri sürerek taşınmaza yönelik elatmanın önlenmesine, muhdesatların yıkılmasına ve 6 yıl için 7.000,00TL ecrimisil bedeline hükmedilmesini istemiştir.
 
@@ -185,6 +209,8 @@ Davacı vekilinin temyiz itirazı açıklanan nedenlerden ötürü yerindedir. K
 
 ## Yargıtay 14. HD 2016/10561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/330803200)
+
 Mahkemece; asıl davada, davalı ... aleyhine açılan davanın açılmamış sayılmasına, davalı ... aleyhine açılan davanın reddine; birleştirilen davanın da reddine karar verilmiştir.
 
 …
@@ -195,6 +221,8 @@ O halde, davacının usulüne göre harçlandırarak açtığı bir ecrimisil da
 SONUÇ : Yukarıda açıklanan nedenlerle; 1 numaralı bent uyarınca davacı vekilinin diğer temyiz itirazlarının reddine, 2 numaralı bent gereğince davacı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/9957 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/327154900)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -208,6 +236,8 @@ Davalı vekilinin temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan
 
 ## Yargıtay 1. HD 2016/9111 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/269528100)
+
 Dava, bağımsız bölüme el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -219,6 +249,8 @@ Hâl böyle olunca, öncelikle davada ileri sürülen isteklerden el atmanın ö
 Davalı ...’in temyiz itirazları açıklanan nedenden ötürü yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/7298 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223288500)
 
 Dava, inançlı işlem hukuksal nedenine dayalı tapu iptal ve tescil, mümkün olmadığı takdirde bedel, birleşen dava ise; çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -236,6 +268,8 @@ Değinilen husus, karar düzeltme isteği üzerine yeniden yapılan inceleme son
 
 ## Yargıtay 1. HD 2016/6916 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/219019600)
+
 Dava, paydaşlar arasında el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -245,6 +279,8 @@ Hâl böyle olunca; öncelikle davada ileri sürülen isteklerden el atmanın ö
 Davacının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/6870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/218814500)
 
 Dava el atmanın önlenmesi, yıkım ve ecrimisil taleplerine ilişkindir.
 
@@ -257,6 +293,8 @@ Davalının diğer temyiz itirazlarına gelince, dava konusu taşınmazın daval
 Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/5811 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205541500)
 
 Davacılar; maliki oldukları 416 parsel sayılı taşınmazın 600m²'lik bölümüne davalının ekip biçmek suretiyle müdahale ettiğini ileri sürerek, elatmanın önlenmesi ve ecrimisil isteklerinde bulunmuşlardır.
 
@@ -274,6 +312,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 1. HD 2016/5581 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203351000)
+
 Dava, imar parseline elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -286,6 +326,8 @@ Davacılar vekilinin temyiz itirazları yerinde değildir. Reddiyle usul ve yasa
 
 ## Yargıtay 1. HD 2016/5450 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204195600)
+
 Mahkemece, hükmüne uyulan bozma ilamı doğrultusunda asıl davanın kısmen kabulüne, birleşen davanın reddine karar verilmiştir.
 
 Asıl davada, davalılardan ...., ...., .... ve .....’in davacıya ait 296 parsel sayılı taşınmaza müdahalesi saptanarak bu davalılar hakkında elatmanın önlenmesi isteminin kabulüne, ecrimisil isteminin kısmen kabulüne, yıkım isteminin reddine, davalılar .... ve .....’in bir müdahalesi olmadığından bu davalılar yönünden davanın reddine; birleşen davada 269 parsel sayılı taşınmaza birleşen davanın davalılarının bir müdahalesinin bulunmadığı belirlenerek elatmanın önlenmesi ve tazminat isteminin reddine karara verilmesinde bir isabetsizlik yoktur. Davalılar-birleşen dosya davacılarının bu yöne ilişkin temyiz itirazları yerinde görülmediğinden reddine.
@@ -293,6 +335,8 @@ Asıl davada, davalılardan ...., ...., .... ve .....’in davacıya ait 296 par
 Ancak asıl davada, davalılardan .... ve ..... için 3000-TL, davalı ... için 500-TL ecrimisil istendiği; .... ve .... için toplam 399,48-TL, .... için 0,56-TL ecrimisile hükmedildiği halde, yargılamanın bir bölümünde davalıların vekil ile temsil edildikleri gözardı edilerek reddedilen bölüm yönünden davalılar yararına avukatlık ücretine hükmedilmemesi doğru değildir.
 
 ## Yargıtay 1. HD 2016/4722 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205828200)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -305,6 +349,8 @@ Davanın kısmen kabulüne ilişkin olarak verilen karar Dairece; “....Hal bö
 Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/4229 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203298300)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 

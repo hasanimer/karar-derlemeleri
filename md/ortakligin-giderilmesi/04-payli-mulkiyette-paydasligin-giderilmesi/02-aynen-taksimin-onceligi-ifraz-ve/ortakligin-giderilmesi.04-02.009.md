@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2008/8383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16693100)
+
 Davada taşınmaz mallardaki ortaklığın taksim suretiyle mümkün olmadığı takdirde satış yoluyla giderilmesi istenilmiştir. Dava konusu edilen 125 Ada 590 parsel sayılı taşınmaz üzerinde bir bodrum, bir zemin ve 3 normal kattan oluşan betonarme bir binanın mevcut olduğu, tarafların istemi doğrultusunda mahkemece ortaklığın kısmen kat mülkiyeti kurulması ve kısmen de (iki bağımsız bölüm için) satış suretiyle ortaklığın giderilmesine karar verilmiştir.
 
 Yargıtay uygulamalarında ortaklığın giderilmesi davalarında dava tarihinde yürürlükte bulunan Türk Medeni Yasasının 699/2 maddesi hükmü gereği istek olduğu takdirde asıl olan taşınmazın aynen taksimi suretiyle ortaklığın giderilmesine karar vermektir. Davada paydaşlardan bir bölümünün ana yapıdaki ortaklığın kat mülkiyeti kurularak paylaşmanın yapılmasını istediğine göre Kat Mülkiyeti Yasasının 10/son maddesi gereğince hakim taşınmaz malın mülkiyetinin aynı Yasanın 12. maddesinde yazılı belgelere dayanarak kat mülkiyetine çevrilmesine ve payları denkleştirilmek suretiyle bağımsız bölümlerin ortaklara ayrı ayrı özgülenmesine karar verir. Dava konusu edilen taşınmaz malın üzerinde kurulmuş olan ana yapının mimari projesine uygun biçimde tamamlandığı, yapının tümünün kargir olduğu 7 bağımsız bölümden ibaret anayapıda her paydaşa en az bir bağımsız bölüm düştüğü, Yasanın 12. maddesinde yazılı belgelerin (Belediyeden onaylı proje, yapı kullanma izin belgesi, noterden onaylı malik listesi ve yönetim planı) tamamlattırıldığı anlaşılmaktadır.
@@ -28,11 +30,15 @@ Somut olayda 7 bağımsız bölümden 5'inin her birine birer tane olmak üzere 
 
 ## Yargıtay 18. HD 2008/6948 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875345400)
+
 634 Sayılı Kat Mülkiyeti Yasasının 10. maddesinin beşinci fıkrası hükmüne göre, kat mülkiyetine konu olmaya elverişli bir taşınmaz üzerindeki ortaklığın giderilmesi davasında paydaşlardan biri paylaşmanın kat mülkiyeti kurulması ve bağımsız bölümlerin özgülenmesi yoluyla yapılmasını istediğinde, hakim o taşınmazın mülkiyetinin Yasanın 12. maddesinde yazılı belgelere dayanılarak kat mülkiyetine çevrilmesine ve bağımsız bölümlerin paydaşlara ayrı ayrı özgülenmesine karar verir. Somut olayda davacı taşınmazdaki ortaklığın satış yoluyla giderilmesini istemişken davalı aynen paylaştırılması isteminde bulunmuştur. Davalının aynen paylaştırma istemi, üzerinde yapı bulunan taşınmazda kat mülkiyetinin kurulması isteğini de içerir.
 
 Dosyada toplanan bilgi ve belgelere özellikle bilirkişi raporu içeriğine göre, dava konusu taşınmazın davacı ve davalı olmak üzere iki paydaşı bulunduğu, taşınmaz üzerindeki yapının kargir ve bağımsız bölümlerin başlı başına kullanılmaya elverişli olduğu, herbir paydaşa en az bir bağımsız bölümün düştüğü, dolayısıyla taşınmazın kat mülkiyetine konu olmaya elverişli bulunduğu anlaşılmakla, mahkemece taşınmaz mülkiyetinin kat mülkiyetine çevrilmesi yolu ile ortaklığın giderilmesine karar verilmiş olması kural olarak doğrudur.
 
 ## Yargıtay 18. HD 2007/9165 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879354700)
 
 Ortaklığın giderilmesi davalarında istek olduğu takdirde asıl olan aynen taksim suretiyle ortaklığın giderilmesidir. Yargıtay uygulamalarında, Üzerinde yapı bulunan taşınmazlarda aynen taksim isteminin, paylaşmanın kat mülkiyetine çevrilmesi istemini de kapsadığı kabul edilmektedir. Davalılar aynen taksim istediğine göre öncelikle bu istemin değerlendirilmesi gerekmektedir. Kat mülkiyetine konu olmaya elverişli bir taşınmaz ile ilgili olarak ortaklığın giderilmesi davası açılmışsa ve bu davada paydaşlardan en az bir tanesi taksimin kat mülkiyeti kurularak yapılmasını istemişse, Kat Mülkiyeti Yasasının 10/son maddesi gereğince hakim, o taşınmazın mülkiyetinin aynı yasanın 12.maddesinde yazılı belgelere dayanarak kat mülkiyetine çevrilmesine ve payların denkleştirilmek suretiyle bağımsız bölümlerin ortaklara ayrı ayrı özgülenmesine karar verecektir.
 Ayrıca Kat Mülkiyeti Yasası hükümlerine uygun olarak ortak taşınmazda kat mülkiyetine geçilebilmesi için, üzerindeki yapının mimari projesine uygun biçimde tamamlanmış olması ve bağımsız bölümlerin başlı başına kullanmaya elverişli bulunması (Kat Mülkiyeti Kanunu m.l) yapının tümünün kargir olması (Kat Mülkiyeti Kanunu m.50/2) ve her bir paydaşa en az bir bağımsız bölüm düşmesi, yine 12.maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma izin belgesi, noterden onaylı malik listesi, belediyeden onaylı fotoğraf ve yönetim planı) tamamlattırılması gerekmektedir. Bu koşulların gerçekleşmesi durumunda anılan yasanın 10.maddesi gereği Kat Mülkiyetine geçilebilecek açılan davada ortaklık bu yolla giderilebilecektir.
@@ -43,9 +49,13 @@ da gözetilerek yine kur’a ile paydaşlara özgülenerek ve gerekiyorsa bedel 
 
 ## Yargıtay 18. HD 2007/9164 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883304900)
+
 Yargıtay uygulamalarına göre ortaklığın giderilmesi davalarında asıl olan ortak taşınmazdaki ortaklığın aynen taksim yoluyla giderilmesidir. Somut olayda olduğu gibi aynen taksimin mümkün bulunmadığı hallerde gerek davacı ve gerekse davalı yargılama sırasında ortaklığın satış suretiyle giderilmesini istemek hak ve yetkisine sahiptir. Çünkü bu tür davaların özelliği olarak gerek davacı taraf ve gerekse davalı taraf aynı haklara sahiptir. Tüm bu hususlar dikkate alınarak istem gibi dava konusu taşınmaz maldaki ortaklığın satış suretiyle giderilmesine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/4449 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882549800)
 
 Dava, kat mülkiyeti kurulması suretiyle ortaklığın giderilmesi istemine ilişkindir.
 
@@ -56,6 +66,8 @@ Bu bakımdan öncelikle onaylı mimari projenin veya bu projede sonradan değiş
 suretiyle payların denkleştirilmesi, fotoğraf, malik listesi ve yönetim planı gibi belgeleri paydaşların tanınan süreye rağmen imzalamaktan kaçınmaları halinde bunların da imzalanmış sayılmasına karar verilmesi, böylece kat mülkiyetine geçilmek suretiyle ortaklığın giderilmesi gerekmektedir.
 
 ## Yargıtay 18. HD 2007/1170 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879244100)
 
 Dava, dava konusu edilen taşınmaz malların hissedarları arasında payları oranında aynen taksimine, olmadığı taktirde ivaz ilavesi suretiyle taksimine bu da mümkün olmadığı taktirde taşınmaz malların satılarak satış bedelinin hisseleri oranında paylaştırılmasına karar verilmesi istemine ilişkindir.
 
@@ -72,15 +84,21 @@ Mahkemece yukarıda açıklanan konularda gerekli araştırma ve inceleme yapıl
 
 ## Yargıtay 18. HD 2007/42 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877599900)
+
 Ortaklığın giderilmesi davalarında dava tarihinde yürürlükte bulunan Medeni Kanunun 642/2.maddesi hükmü gereği istek olduğu takdirde asıl olan, taşınmazın aynen taksimi suretiyle ortaklığın giderilmesine karar vermektir. Kat mülkiyetine konu olmaya elverişli bir taşınmazla ilgili olarak ortaklığın giderilmesi davası açılmışsa ve bu davada paydaşların en az bir tanesi paylaşmanın kat mülkiyeti kurularak yapılmasını istemişse, Kat Mülkiyeti Yasasının 10/son maddesi gereğince hakim, o taşınmazın mülkiyetinin aynı kanunun 12.maddesinde yazılı belgelere dayanarak kat mülkiyetine çevrilmesine ve paylar denkleştirilmek suretiyle bağımsız bölümlerin ortaklara ayrı ayrı özgülenmesine karar verecektir.
 Ayrıca Kat Mülkiyeti Yasası hükümlerine uygun olarak ortak taşınmazda kat mülkiyetine geçilebilmesi için, üzerindeki yapının mimari projesine uygun biçimde tamamlanmış olması ve bağımsız bölümlerin başlı başına kullanılmaya elverişli bulunması (K.M.K. m.1), yapının tümünün kargir olması (m.50/2) ve her bir paydaşa en az bir bağımsız bölüm düşmesi, yine 12.maddede yazılı belgelerin (belediyeden onaylı proje, ... kullanma izin belgesi, belediyeden onaylı fotoğraf, noterden onaylı ... listesi ve yönetim planı) tamamlattırılması gerekmektedir. Bu koşulların gerçekleşmesi durumunda anılan kanunun 10.maddesi gereği kat mülkiyetine geçilebilecek ve açılan davada ortaklık bu yolda giderilecektir.
 
 ## Yargıtay 18. HD 2006/7548 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886883900)
+
 Kat Mülkiyeti Yasasının hükümlerine göre ortak taşınmazda kat mülkiyetine geçilebilmesi için üzerindeki yapının mimari projesine uygun biçimde tamamlanmış olması ve bağımsız bölümlerin başlı başına kullanılmaya elverişli bulunması, yapının kagir olması ve herbir paydaşa en az bir bağımsız bölüm düşmesi ve anılan yasanın 12. maddesinde yazılı belgelerin tamamlattırılması gerekmektedir. Dava konusu anataşınmazda 5 bağımsız bölüm ve tapu kaydına göre de bu anataşınmazın 4 paydaşı bulunmaktadır. Herbir paydaşa birer bağımsız bölüm düştüğü halde mahkemece iki bağımsız bölüm 2 paydaşa, 3 bağımsız bölüm ise diğer iki paydaşa özgülenmiştir. Ana kural herbir paydaşa birer bağımsız bölüm özgülenmesi ve artan bir bağımsız bölümün ise maliklerin pay oranları gözetilerek kur'a ile paydaşlara özgülenmesi, diğer paydaşlara ivaz ödenmesi, paydaşların artan bölümle ilgili olarak kendi aralarında anlaşmaları halinde buna göre hareket edilmesi, fiili kullanım varsa ona göre yoksa ivaz ilavesi suretiyle payların denkleştirilmesi gerekir.
 Bu açıklamaların ışığında paydaşların herbirinin kendilerine birer bağımsız bölüm özgülenmesini isteyip istemedikleri sorulup sonucuna göre ve yukarıda açıklanan ilkeler doğrultusunda payların denkleştirilmesi ve kat mülkiyeti kurulması suretiyle ortaklığın giderilmesine karar verilmesi gerekirken tarafların iradesine aykırı olarak ana ilkeler gözetilmeden davanın kabulü yolunda hüküm kurulması, …
 
 ## Yargıtay 14. HD 2006/7248 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854627500)
 
 9.6.2003 günlü sözleşme Kalecik Sulh Hukuk Mahkemesinin 2001/73 esasında kayıtlı izale-i şuyu davasının görülmesi sırasında yanların anlaşmaları üzerine mahkeme dışında düzenlenmiştir. Sulh müessesesi H.U.M.K.da bağımsız olarak düzenlenmemiş, ancak hem anılan yasada hem de diğer bazı yasa hükümlerinde Sulh'dan sözedilmiş, böylelikle varlığı kabul edilmiştir. Bir tarif yapmak gerekirse sulh tarafların karşılıklı anlaşmaları ile aralarında var olan çekişmeye son verme işlemidir. Yasalarımızdaki sulh işleminden maksat ise mahkeme önünde yapılan sulh işlemidir. Bu gibi durumlarda tarafların mahkeme önünde yaptıkları Sulh anlaşması tutanağa hakim tarafından yazdırılarak okunup kendilerine imza ettirilir. Somut olayda olduğu gibi taraflar sulh anlaşmasını mahkeme dışında yapmışlarsa bu bir akittir. Ancak taraflar mahkeme dışında yaptıkları sulh anlaşmasını mahkemeye vererek sulh anlaşması doğrultusunda çekişmeye son verdiklerini bildirirlerse bu anlaşma da tutanağa geçirilerek dosyaya eklenebilir. Böyle yapılmışsa bu anlaşmada mahkeme önünde yapılmış bir sulh anlaşması olarak kabul edilir, hüküm ve sonuçları meydana getirir.
 Eldeki davada sözü edilen usuli işlemler yerine getirilmediğinden 9.6.2003 günlü sulh anlaşması mahkeme dışında yapılmış bir sulhtur.
@@ -88,6 +106,8 @@ Eldeki davada sözü edilen usuli işlemler yerine getirilmediğinden 9.6.2003 g
 Dayanılan sulh anlaşması incelendiğinde tarafların mirasbırakanlarından kalan bazı taşınmazlardaki haklarını ve yine bazı taşınmazları tarafların bazılarına devri ve ivaz ilavesi suretiyle temlikini öngördükleri görülmektedir. Tarafların bu anlaşmayı yapmaktaki amaçları ise dava konusu yapılan taşınmazların temlikini sağlamak ve mevcut izale-i şuyu davasındaki çekişmeyi ortadan kaldırmaktır. Hukukça nitelendirmek gerekirse tarafların yaptıkları işlem düzenlenmesi Borçlar Kanununun 232'de yapılan bir trampa işlemidir. Trampadan maksat bir malın başka bir malla değiştirilmesidir. Dava konusu taşınmazlar tapuda kayıtlı oldukları için trampa akdinin biçim koşuluna uyularak resmi şekilde yapılması zorunludur. Davada biçim koşuluna uyularak yapılmış bir trampa sözleşmesi bulunmadığından, dayanılan sulh sözleşmesi de mahkeme dışında yapıldığından mahkeme önünde yapılanlar gibi ilam niteliği olmadığından mülkiyetin nakline ilişkin eldeki davanın dinlenme olanağı yoktur. Mahkemece açıklanan tüm bu yönler gözönünde tutularak istemin hüküm altına alınması doğru görülmemiş, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2005/3951 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16422300)
 
 Dava bir parça taşınmazın paylaşılmasına ilişkindir.
 
@@ -100,9 +120,13 @@ Somut olayda; Dava konusu edilen ve satışına karar verilen 280 nolu parsel ta
 
 ## Yargıtay 6. HD 2005/3765 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16412800)
+
 Olayımıza gelince; dava konusu edilen 54 parsel No'lu taşınmaz tapuda tarafların ortak miras bırakanı Bayram adına 16.708 ms tarla vasfıyla kayıtlıdır. Yerinde yapılan keşif sonrasında fen bilirkişisi düzenlediği 27.5.2004 tarihli raporunda anılan parselin İfraz koşullarını taşıdığını, ancak ifraz sonucunda taraflara eşit miktarda parsel düşmediğini 7.12.2004 tarihli ek raporunda da taşınmazdan yola, parka ve ilkokula bedelsiz terk edilecek alanların dışında kalan kısmın imar parselleri olarak ifrazının mümkün olduğunu, buna göre alanları ve değerleri birbirinden farklı yirmiyedi parselin oluşacağını taşınmazın ivaz ilavesi İle aynen bölünebileceğini, ancak ifraz ve parselasyon planını harita mühendisinin yapması gerektiğini bildirmiştir. Bu raporlardan taşınmazın aynen bölünmesinin mümkün olduğu anlaşılmaktadır. Oluşacak parseller arasında meydana gelecek değer farklılığının denkleştirme ile giderilmesi mümkündür.
 Bu durumda mahkemece yukarda açıklanan esaslar çerçevesinde harita mühendisine ifraz projesi hazırlatılması, projenin onay makamına gönderilerek görüş sorulması ve sonucuna göre bir karar verilmesi gerekirken eksik inceleme sonucu yazılı şekilde bu parselin de satışına karar verilmesi hatalı görüldüğünden hükmün bozulması gerekmiştir.
 
 ## İzmir BAM 6. HD 2021/820 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655649700)
 
 Somut olayda; Taraflar arasında görülen ortaklığın giderilmesi davası ile taşınmazın aynen taksimine, ivaz ilavesi olarak davacının ...'e ivaz ödemesine karar verilmiş, karar kesinleşmiştir. Kesinleşen karara dayanak ilamlı icra yapılmıştır. Davacı bu takibe dayanak borçlu olmadığının tesbitini istemiştir. Ortaklığın giderilmesi davası kesinleştiğinden kesinleşen karardaki alacağın tahsiline ilişkin ilamlı icra takibi, ortalığın giderilmesi davasının devamı niteliğinde olmayıp kesinleşme ile illiyet bağı kesildiğinden, ilama dayalı borcun ödendiği ve ibraname alındığı iddiasına dayalı davanın, tarafların sıfatına, uyuşmazlığın konusuna göre asliye hukuk mahkemesinde görülüp sonuçlanması gerekir. Zira, taşınmazın artık bedeli sulh hukuk mahkemesince depo ettirilmemiş, tahsiline ilişin hüküm kurulmuştur. Sulh hukuk mahkemesi kararı, taşınmazın artık değerinin tahsiline, tesciline ilişkindir. Taşınmaz bedelinin tahsiline ilişkin kesinleşen ilama karşı menfi tesbit istenmiştir.

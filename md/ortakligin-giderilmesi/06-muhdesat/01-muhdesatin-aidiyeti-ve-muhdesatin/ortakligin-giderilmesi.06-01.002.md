@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2021/3772 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/681018900)
+
 Dava; muhdesatın tespiti ve tapu kaydına şerh verilmesi istemine ilişkindir.
 
 …
@@ -31,15 +33,21 @@ davanın 3402 sayılı Kanun’un 12/3.maddesi uyarınca hak düşürücü süre
 
 ## Yargıtay 7. HD 2021/3498 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724628200)
+
 Bu durumda mahkemece, öncelikle dava konusu taşınmazın güncel tapu kaydı getirtilip, taraf teşkili denetlendikten sonra tüm tarafların muhdesat iddalarını kabul edip etmediklerine dair beyanları tespit edilmeli, muhdesat konusunda ihtilaf bulunduğunda muhdesat iddiasında bulunanlara muhdesatın aidiyeti konusunda dava açmak üzere HMK'nın 165. maddesi uyarınca uygun bir süre verilmesi, açıldığı takdirde sonucunun beklenmesi, tüm tarafların muhdesat iddiasını kabul etmesi veya muhdesatın aidiyeti davası açılıp da muhdesatın muhdesat iddiasında bulunan paydaşlara aidiyetine karar verilmesi halinde;
 
 ## Yargıtay 8. HD 2021/3222 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668528900)
 
 Dava; muhdesatın tespiti istemine ilişkindir.
 
 Muhdesatın tespiti davaları kendine özgü davalardan olup dava sonucunda istihsal edilecek ilamın icra ve infaz kabiliyeti bulunmamaktadır. Bunun doğal sonucu olarak bu davaların uygulama alanı sınırlıdır. Bilindiği üzere ve kural olarak; tespit davalarında tespit davası açanın hukuki yararının varlığı gerekir. 6100 sayılı HMK'nin 106. maddesinin 2. fıkrasında “tespit davası açanın, kanunlarda belirtilen istisnai durumlar dışında, bu davayı açmakta hukuken korunmaya değer güncel bir yararı bulunmalıdır.” denilmektedir. Bu nedenle taşınmaz üzerinde bulunan muhdesat yönünden derdest ortaklığın giderilmesi davası ya da kamulaştırma işlemi bulunmadığı takdirde bu dava görülemez.
 
 ## Yargıtay 7. HD 2021/3041 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727500500)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -51,6 +59,8 @@ Kabule göre de yargılama sırasında ... muhdesat iddiasında bulunmuş, mahke
 
 ## Yargıtay 8. HD 2021/2788 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668713500)
+
 Dava, muhdesatın tespitine ilişkindir.
 
 …
@@ -60,6 +70,8 @@ Muhdesatın tespitine ilişkin davada kabul kararı verilebilmesi için, muhdesa
 O halde Mahkemece yapılacak iş; öncelikle dava konusu taşınmazda ortaklığın giderilmesi için açıldığı iddia edilen Bolu 1. Sulh Hukuk Mahkemesinin 2006/1561 E. Sayılı dosyasının getirtilmesi, dava konusu taşınmaz üzerindeki inşaata ilişkin dosyaya sunulan projelerle ilgili belediyelerden inşaatın yapılmasına ilişkin evrak ve bilgilerin getirtilip incelenmesi, davacının sunduğu diğer delillerin toplanması ve toplanacak tüm delillerin sonucuna göre bir hüküm verilmesi gerekir. Mahkemece böylesine bir araştırma ve soruşturma yapılmadan, eksik araştırma ve soruşturma ile yazılı şekilde hüküm verilmesi usul ve yasaya aykırı olmuştur.
 
 ## Yargıtay 8. HD 2021/1781 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664185600)
 
 Dava, muhdesatın tespiti istemine ilişkindir.
 
@@ -71,6 +83,8 @@ Kabule göre de, muhdesatın tespiti davalarında, davanın konusu (müddeabih) 
 
 ## Yargıtay 8. HD 2021/1447 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657892700)
+
 Dava, muhdesatın tespiti istemine ilişkindir.
 
 …
@@ -80,6 +94,8 @@ Dava, muhdesatın tespiti istemine ilişkindir.
 Diğer yandan; taşınmaz üzerindeki muhdesatın kim tarafından meydana getirildiğinin tespitine ilişkin davalarda mahkemece araştırılması gereken husus muhdesatın kim tarafından, hangi gelirlerle, kimin adına ve hesabına yaptırıldığıdır. Somut olaya gelince; toplanan deliller, dosya kapsamı ve dinlenen tanık anlatımlarına göre, dava konusu üst kat ve alt katın yarısının davacı tarafından tek başına, kendi nam ve hesabına meydana getirildiği ispat edilemediğine göre davanın reddine karar verilmesi gerekirken, kısmen kabul kararı verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2021/1059 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646269500)
 
 Dava, muhdesatın tespiti isteğine ilişkindir.
 
@@ -91,9 +107,13 @@ Hal böyle olunca, davacı aleyhine hükmedilen vekalet ücretinin takdirinde, d
 
 ## Yargıtay 8. HD 2020/7970 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634626100)
+
 Yukarıda da belirtildiği üzere, kural olarak, taşınmaz üzerindeki muhdesatın tespiti davalarında husumetin muhdesatın bulunduğu taşınmaz maliki ya da maliklerine yöneltilmesi zorunludur. Ne var ki, davacı taraf dava dilekçesinde taşınmaz maliki olmayan, kamulaştırma işlemini yapan ...'nü de hasım göstererek dava açmıştır. Aleyhine dava açılan ... taşınmazın maliki olmadığı gibi, davanın açılmasına sebep olacak bir eylemde de bulunmamıştır. Hal böyle olunca, Mahkemece davalı olarak gösterilen Karayolları Genel Müdürlüğü'ne karşı açılan davanın husumet yokluğu reddine karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru değildir. Ne var ki, bu husus yeniden yargılamayı gerektirmediğinden HUMK'un 438/7. maddesi uyarınca kararın düzeltilerek onanmasına karar verilmiştir.
 
 ## Yargıtay 16. HD 2020/5459 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/629569000)
 
 Dava, tesis kadastrosu sırasında bulunmayan ve sonradan yapıldığı anlaşılan binayla ilgili 2001 yılında 2859 sayılı Yasa uyarınca yapılan yenileme kadastrosu sırasında beyanlar hanesine işlenen muhdesat şerhinin kaldırılması istemine ilişkindir.
 
@@ -106,6 +126,8 @@ Yukarıda değinilen yasal düzenlemelere göre kural olarak, taşınmaz mal üz
 
 ## Yargıtay 14. HD 2020/4227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589019700)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -113,6 +135,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 Bu durumda mahkemece, davalı ... tarafından açılan muhdesat aidiyetinin tespiti davası bekletici mesele yapılarak, adı geçen davalıya ait olduğuna karar verilen muhdesat yönünden gerekirse mahallinde yeniden keşif yapılmak suretiyle dava konusu taşınmazın tespit edilen toplam değerinin ne kadarının arza ne kadarının muhdesata isabet ettiğinin yüzdelik oran kurulmak suretiyle belirlenmesi ve muhdesata isabet eden kısmın muhdesat sahibi paydaşa, geri kalan bedelin ise tapu kaydındaki payları oranında tüm paydaşlara dağıtılması gerekir.
 
 ## Yargıtay 8. HD 2020/4206 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598253100)
 
 Dava, muhdesat tespiti isteğine ilişkindir.
 
@@ -124,13 +148,19 @@ Somut olayda, Mahkemece, bozma ilamına uyulmuş, ancak bozma gerekleri tam olar
 
 ## Yargıtay 8. HD 2020/4188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598241800)
+
 Bununla birlikte 3402 sayılı Kadastro Kanunu'nun 19/11. maddesi, muhdesatın arz malikinden başkasına aidiyetine ve tapunun beyanlar sütununda gösterilmesine izin veren özel yasal düzenleme getirmiştir. Anılan kanun maddesinde, taşınmaz mal üzerinde malikinden başka bir kimseye veya paydaşlardan birine ait muhdesat mevcut ise bunun sahibi, cinsi, ihdas tarihi ve iktisap sebebi belirtilerek tutanağın ve kütüğün beyanlar hanesinde gösterilebileceği belirtilmiştir. Ancak, aynı Kanun'un 12/3. maddesi gereğince, on yıllık hak düşürücü süre içinde kadastrodan önceki nedenlere dayanılarak genel mahkemelerde açılan davalara 19. madde uygulanır ve iddianın kanıtlanması halinde muhdesatın mülkiyetinin arz malikinden başkasına aidiyeti ile tapunun beyanlar hanesine tesciline karar verilebilir. On yıllık süre kamu düzenine ilişkin olup, hak düşürücü niteliktedir ve olumsuz dava koşuludur. Hak düşürücü sürenin geçmesi, işin esasının incelenmesini önler. Hak düşürücü süre tüm defi ve itirazlardan önce göz önünde bulundurulur. Yargılama bitinceye kadar hak düşürücü sürenin geçtiği taraflarca ileri sürülebileceği gibi, görevden ötürü hakim tarafından da kendiliğinden dikkate alınır.
 
 ## Yargıtay 8. HD 2020/3203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648088100)
+
 Muhdesat tespiti davalarında, ortaklığın giderilmesi davasının yargılaması sırasında muhdesatın davacı tarafça meydana getirildiğini açıkça kabul edenler dışında kalan ve muhdesatın üzerinde bulunduğu taşınmazda paydaş olan tüm tapu maliklerinin ya da mirasçılarının davada taraf olmaları gerekmektedir. Dosya içerisindeki bilgi ve belgelerden, dava konusu taşınmazın tarafların ortak murisi Ferhat Tocan adına kayıtlı olduğu, mirasçılardan ...'in muhdesat iddiasını kabul ettikleri gerekçesi ile davada taraf gösterilmedikleri, ancak adı geçenlerin kabul beyanı olup olmadığının, dosya getirilip denetlenmediği anlaşılmaktadır.
 
 ## Yargıtay 8. HD 2020/3132 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648123000)
 
 Dava, dava konusu taşınmaz üzerinde yer alan muhdesatların tespiti istemine ilişkindir.
 
@@ -139,6 +169,8 @@ Dava, dava konusu taşınmaz üzerinde yer alan muhdesatların tespiti istemine 
 Şöyle ki, Mahkemece verilen hükümde, Fen bilirkişisi raporu ekinde yer alan krokide harflerle gösterilen muhdesatların aidiyetinin tespitine karar verilmiş ise de, gerek krokide gerekse hükümde, ağaçların cinsi, sayısı, kapladığı alan belirtilmeden, harflerle belirtilen muhdesatların aidiyetine denilmekle yetinilmiştir. Hal böyle olunca, davacılara ait olduğu belirlenen muhdesatların/ağaçların nelerden ibaret olduğu, ağaçların sayısının,cinsinin ayrı ayrı tespit edilerek hükümde yer almasının sağlanarak HMK'nin 297/2 maddesi uyarınca infaza elverişli biçimde hüküm kurulması gerekirken yazılı şekilde karar verilmesi isabetsizdir.
 
 ## Yargıtay 8. HD 2020/3005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646966300)
 
 Dava muhdesat tespiti isteğine ilişkindir.
 
@@ -151,6 +183,8 @@ Somut olayda davacı tarafça 5762 parsel sayılı taşınmazda muhdesat olarak 
 
 ## Yargıtay 8. HD 2020/2888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646801800)
+
 Dava, ortaklığın giderilmesi davasına konu 943 parsel sayılı taşınmaz üzerindeki tek katlı evin davacı tarafından meydana getirildiğinin tespiti (muhtesatın tespiti) istemine ilişkindir.
 
 …
@@ -161,6 +195,8 @@ Somut olayda, davacının dava konusu taşınmazda paydaş olmadığı, taşınm
 
 ## Yargıtay 8. HD 2020/2736 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646562400)
+
 Dava, muhdesatın tespiti istemine ilişkindir.
 
 …
@@ -168,6 +204,8 @@ Dava, muhdesatın tespiti istemine ilişkindir.
 Öncelikle belirtmek gerekir ki; muhdesatın tespiti davasının konusu (müddeabih) davacının payı düştükten sonra kalan muhdesat değeridir (zemin bedeli hariç). Buna göre, yargılama sonucunda hüküm altına alınan nispi karar ve ilam harcından, aynı şekilde 6100 sayılı HMK'nin 326/2. maddesi uyarınca yargılama giderinden ve davacı yararına takdir edilen vekalet ücretinden, her bir davalının tapu kaydında yazılı bulunan payları oranında sorumlu tutulmaları gerekirken, tapuda yazılı payları dikkate alınmaksızın, müştereken ve müteselsilen davalılardan alınmasına karar verilmesi doğru olmamıştır. Diğer yandan; davalı ... cevaba cevap dilekçesinde muhdesatın davacıya ait olduğunu kabul ettiği dikkate alınarak, davanın açılmasına sebebiyet verip vermediğinin anlaşılabilmesi için ortaklığın giderilmesi dava dosyası getirtilip incelenmelidir. HMK'nin 312/2. maddesi uyarınca davanın açılmasına sebebiyet vermeyen ve ilk duruşmada davayı kabul eden davalı aleyhine yargılama giderleri yüklenemeyeceği hususu da dikkate alınmalıdır.
 
 ## Yargıtay 8. HD 2020/2503 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588609400)
 
 Dava muhdesat tespiti isteğine ilişkindir.
 
@@ -177,15 +215,21 @@ Somut olayda ise, davacı tarafın talebi muhdesat tespitine yönelik olduğuna 
 
 ## Yargıtay 8. HD 2020/2457 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588955600)
+
 Dava, muhdesatın tespiti isteğine ilişkindir.
 
 Muhdesatın tespiti davası, bir tespit davası olmakla davacının dava açmakta güncel hukuki yararının bulunması gerekir (HMK mad.106). Bu güncel hukuki yararın sadece davanın açıldığı tarihte değil, tahkikatın bitimi ve hükmün verilmesine kadar devamı gereklidir. Hukuki yarar kamu düzeni ile ilgili dava şartı olduğundan (HMK mad.114/h) iddia ve savunma olarak ileri sürülmese bile yargılamanın her aşamasında mahkemece resen göz önünde bulundurulur (HMK mad.115/1). UYAP sistemi üzerinden yapılan incelemede taraflar arasındaki Ortaca Sulh Hukuk Mahkemesi'nin 2007/127 Esas, 2017/117 Karar sayılı ortaklığın giderilmesi davasının açılmamış sayılmasına karar verildiği ve kararın 29.06.2018 tarihinde kesinleştiği, dolayısıyla muhdesatın tespiti davası açmakta davacıların hukuki yararlarının kalmadığı görülmektedir. Bu durumda, Mahkemece davanın hukuki yarar yokluğundan karar verilmesine yer olmadığına karar verilmesi gerekirken işin esası hakkında yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2020/61 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578495200)
+
 Dava konusu 8811 ada 19 parsel sayılı taşınmazın dosya içeriğinde bulunan tapu kaydına göre, taşınmazın tam hissesinin malikinin Maliye Hazinesi olduğu, dolayısıyla da davacının taşınmazda malik olmadığı, bunun yanısıra taşınmaz hakkında açılmış derdest ortaklığın giderilmesi davasının veya kentsel dönüşüm uygulamasının ya da kamulaştırma işleminin bulunmaması nedeniyle davacı yönünden mevcut ve güncel hukuki yararın da bulunmadığı anlaşılmaktadır. Bu sebeple mahkemenin az yukarıda muhdesat tespiti davalarına yönelik mülkiyet ve hukuki yarar konusundaki açıklama çerçevesinde davacı tarafın muhdesat tespiti ve tapunun beyanlar hanesine şerh edilmesi talebi hakkında red kararı vermesi gerekirken, yazılı şekilde muhdesat tespiti ve tapunun beyanlar hanesine şerh edilmesi konusunda karar vermemiş olması doğru değildir.
 
 ## Yargıtay 8. HD 2019/11342 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648208500)
 
 Dava; muhdesatın tespiti istemine ilişkindir.
 
@@ -197,15 +241,21 @@ Açıklanan bu ilke ışığında somut olaya gelince; tüm dosya kapsamı incel
 
 ## Yargıtay 8. HD 2019/9316 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648707400)
+
 Ne var ki, çoğun içinde az da vardır kuralı gereğince, muhdesatın mülkiyetinin aidiyetinin tespiti ve tapunun beyanlar sütununa tescili isteğinin, muhdesatı meydana getirenin tespiti isteğini de kapsadığı kabul edilmelidir. Bu tür davalarda, güncel hukuki yararın mevcut olması ve iddianın kanıtlanması durumunda, muhdesatın davacı tarafça meydana getirildiğinin tespiti isteğinin kabulüne, muhdesatın mülkiyetinin aidiyeti ve tapunun beyanlar sütununa tescili isteğinin ise reddine karar verilmesi gerekir.
 
 Dosyanın içeriğine, toplanan delillere ve tanık beyanlarına göre, davanın açılmasında taraflar arasında derdest ortaklığın giderilmesi davası bulunması nedeniyle güncel hukuki yararın bulunduğu ve taşınmaz üzerindeki 2 katlı kargir evin davacının murisi ... oğlu ...... tarafından meydana getirildiği de kanıtlandığına göre, mahkemece 2 katlı kargir evin davacının mirasbırakanı olan ... oğlu ...... tarafından meydana getirildiğinin tespiti isteğinin kabulüne; muhdesatın, tapunun beyanlar hanesine verasetteki miras payları oranında ... oğlu ...... mirasçılarına ait olduğu şerhinin konulması isteminin yukarıda açıklanan gerekçeler nedeniyle reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru değil ise de, bu husus yeniden yargılama yapmayı gerektirmediğinden bozma nedeni yapılmamıştır.
 
 ## Yargıtay 8. HD 2019/9314 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/649082000)
+
 Celse arasında ve mahkemeye sundukları 02.02.2015 tarihli dilekçe ile ve muhdesat tespiti davasının açıldığı tarih olan 06.02.2015 tarihinden önce davacıların muhdesat iddialarını kabul ettiklerini belirterek HMK’nin 312/2 maddesi gereğince davanın açılmasına sebebiyet vermemiş olmaları nedeniyle yargılama giderleri ve vekalet ücretinin davacı taraf üzerinde bırakılmasına karar verilmesini talep etmiştir.
 
 ## Yargıtay 14. HD 2019/8474 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612642600)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -217,6 +267,8 @@ Bu durumda mahkemece; muhdesatın aidiyetinin tespiti davası açmak üzere dava
 
 ## Yargıtay 14. HD 2019/8281 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605879600)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -227,6 +279,8 @@ Yukarıda belirtilen ilkeler uyarınca mahkemece tarafların ...’in muhdesat a
 
 ## Yargıtay 14. HD 2019/7955 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571346600)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -235,11 +289,15 @@ O halde mahkemece, bilirkişilerden 124 ada 6 parselde dava tarihi itibariyle ar
 
 ## Yargıtay 8. HD 2019/4771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646563200)
+
 Bilindiği üzere, bir davanın görülebilmesi için öncelikle davada taraf teşkilinin sağlanması gereklidir. 26.05.2004 tarihli ve 5177 sayılı Kanun'un 35. maddesi ile 2942 sayılı Kamulaştırma Kanunu'nun 19. maddesine eklenen ek fıkra hükmünde "başkası adına tapulu, sahipsiz ve/veya zilyedi tarafından iktisap edilmemiş yerin kamulaştırmasında binaların asgarî levazım bedeli, ağaçların ise 11. madde çerçevesinde takdir olunan bedeli zilyedine ödenir" denilmektedir. Bu hükümle başkası adına tapulu veya tapusuz bir taşınmazın kamulaştırılması halinde, taşınmazda malik olmayan ancak üzerindeki muhtesatı meydana getiren kişilere muhdesatın kamulaşma bedelinin kendisine verilmesini sağlama amacıyla zilyetliğin tespiti (muhdesatın tespiti) davası açma hakkı tanınmıştır. Bu şekildeki tapusuz taşınmaz yönünden belediye başkanlığının davada taraf olarak gösterilmesi gerekmektedir. Taraf teşkili sağlanmadan işin esasına girilerek hüküm tesis edilmesi doğru görülmemiştir.
 
 Ayrıca,bir şeye malik olan kimse, o şeyin bütünleyici parçalarına da malik olur (4721 s.lı TMK mad.684/1). Arazi üzerindeki mülkiyet, kullanılmasında yarar olduğu ölçüde, üstündeki hava ve altındaki arz katmanlarını kapsar. Bu mülkiyet kapsamına, yasal sınırlamalar saklı kalmak üzere kalıcı yapılar, bitkiler ve kaynaklar da girer (TMK mad. 718). 22.12.1995 tarihli ve 1/3 sayılı Yargıtay İçtihadı Birleştirme Kararında da vurgulandığı gibi Eşya Hukukunda, muhdesattan, bir arazi üzerinde kalıcı yapı ve tesisler ile bağ ve bahçe şeklinde dikilen ağaçları anlamak gerekir. Muhdesat, şahsi bir hak olup (TMK mad. 722, 724 ve 729), sahibine arazi mülkiyetinden ayrı bağımsız bir mülkiyet veya sınırlı bir ayni hak bahşetmez. Taşınmaz üzerindeki kalıcı yapı, ağaç gibi bütünleyici parça niteliğindeki muhdesatların taşınmazın arzından ayrı bir mülkiyetinin varlığından söz edilemez. Açıklanan bu ilke ve esaslara göre, kural olarak muhdesatın arz malikinden başkasına aidiyetinin tespiti istenemez.
 
 ## Yargıtay 8. HD 2019/2924 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645700900)
 
 Somut olayda, asıl dosyada davacının talebini, az yukarıda bahsi geçen taraflar arasında imzalanmış 13.04.2004 tarihli kira sözleşmesine ve özellikle sözleşmenin 12. maddesine dayandırdığı açıktır. Keza bahsi geçen sözleşmenin belirtilen maddesinde dava konusu muhdesatlara ilişkin düzenlemelerin yer aldığı ortadadır. Bu durumda, davacının eldeki bu davayı açmakta güncel hukuki yararının olduğunun kabulü mümkün değildir, davacının sözleşme hükümlerine göre eda davası açarak dava konusu muhdesatlara ilişkin uyuşmazlığı çözmesi gerekirken, eda davası yerine tespit davası açmasında hukuki yararı bulunmamaktadır. Dava konusu taşınmaz hakkında açılan ortaklığın giderilmesi davasında taraflara muhdesat aidiyetinin tespiti hakkında dava açmak için süre verillmiş olması da bu sonucu değiştirmeyecektir. O halde, Mahkemece asıl ve birleşen davanın muhdesatın tespiti davası olarak görülüp, yazılı olduğu şekilde davanın kabulüne karar verilmesi doğru görülmemiştir.
 

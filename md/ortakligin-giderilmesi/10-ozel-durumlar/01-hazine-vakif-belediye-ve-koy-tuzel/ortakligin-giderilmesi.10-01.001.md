@@ -24,11 +24,15 @@ Hazine dava açıldığı tarih itibariyle dava konusu taşınmazların ikisinde
 
 ## Yargıtay 5. HD 2021/7713 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/691160600)
+
 Somut olayda, yapının kargir olduğu ve her bir hissedara bir bağımsız bölüm (her bir hissedara bir bağımsız bölüm düşmeyen durumda ise mirastan elbirliği ile hissedar olanlara birlikte bağımsız bölüm verilerek) düştüğüne göre mahkemece öncelikle tespit edilecek husus, yapının mimari projesine uygun biçimde tamamlanmış ya da projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin olması gerektiğidir. Bu husus, mahkemece gerek belediyeye yazılarak yerinde tespite ilişkin bilgi alınmalı, gerekse konusunda uzman bilirkişi heyeti ile keşif suretiyle rapor alınmak suretiyle tespit edilmelidir.
 
 Ortaklığın kat mülkiyeti kurulması suretiyle giderilmesi yönünden yapılan yargılamada, anlaşamayan hissedarların belediyede projeye muvafakat vermeleri veya tapuda yönetim planı imzalamaları söz konusu değildir. Mahkemece kat mülkiyeti kurulması suretiyle ortaklığın giderilmesini isteyen tarafa, yapının varsa mevcut projesine veya yapı imara ve fenne uygun ise fiili durumun kat mülkiyetine geçişe uygun hale getirilmesi için (yapı ruhsatı, proje hazırlatma, belediye onayı, yapı kullanma belgesi alma gibi işlemleri) dava konusu parsel yönünden yaptırmak üzere yetki ve süre verilmek suretiyle eksikliklerin tamamlattırılması gerekir.
 
 ## Yargıtay 14. HD 2019/6877 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542998100)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -40,6 +44,8 @@ Kabule göre de; Harçlar Kanunu'nun 13/j maddesi gereğince Hazine harçtan mua
 
 ## Yargıtay 8. HD 2018/10284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422479100)
+
 Saptanan bu olgular karşısında, davacı ... Belediyesi ile dava dışı ... Gıda ve İhtiyaç AŞ arasında düzenlenen yap-işlet-devret sözleşmesi ile dava dışı ... Gıda ve İhtiyaç AŞ tarafından yapılması planlanan davaya konu binanın henüz taşınmaz maliki Belediyeye devri gerçekleşmeden önce Hazinenin binanın yapıldığı 171 m2'lik kısımda hak sahibi olduğunun belirlendiği, Hazinenin paydaş olmasından sonra davaya konu binanın kira ücretlerinin hissesi oranında Hazineye de ödendiği gözönünde bulundurulduğunda, davaya konu binanın paydaşlardan sadece Belediyeye ait olduğunun kabulü doğru görülmemiştir.
 
 Kabule göre de, bilindiği üzere 4721 sayılı Türk Medeni Kanunu'nun 684.maddesi hükmünde, bir şeye malik olan kimsenin, o şeyin bütünleyici parçalarına da malik olacağı, bütünleyici parçanın, yerel âdetlere göre asıl şeyin temel unsuru olan ve o şey yok edilmedikçe, zarara uğratılmadıkça veya yapısı değiştirilmedikçe ondan ayrılmasına olanak bulunmayan parça olduğu, aynı Kanun'un 718. maddesi hükmünde de, arazi üzerindeki mülkiyetin, kullanılmasında yarar olduğu ölçüde, üstündeki hava ve altındaki arz katmanlarını kapsayacağı, bu mülkiyetin kapsamına yasal sınırlamalar saklı kalmak üzere yapılar, bitkiler ve kaynakların da gireceği açıklanmıştır. Bu hükümler karşısında taşınmaz üzerinde bulunan ve bütünleyici parça niteliğindeki bina, ağaç gibi muhdesatların taşınmazın arzından ayrı bir mülkiyetinin varlığından söz edilemeyeceğinden kural olarak ve aksine bir kanun hükmü bulunmadıkça muhdesatların mülkiyetinin tespiti dava edilemez ve mahkemelerce de anılan kanun hükümleri gözardı edilerek mülkiyet tespitine karar verilemez. Mahkemece, taşınmaz üzerindeki bodrum+zemin kat olmak üzere toplam 5910 m2 miktarındaki AVM (binanın) mülkiyetinin davacı ...
@@ -47,9 +53,13 @@ Belediyesi'ne ait olduğunun tespitine karar verilmiş olması da usul ve yasaya
 
 ## Yargıtay 14. HD 2017/5121 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350335100)
+
 Hükmün gerekçesinde taşınmazda 04.03.1997 tarihinde iki katlı iki daireli bahçeli kargir ev olarak kat mülkiyeti kurulmuş ise de, imar uygulaması sonucunda taşınmazda Kepez Belediyesinin paydaş olduğu, Kepez Belediyesi'nin taşınmazda fiilen kullandığı bir yer olmadığı, tüm paydaşları kapsayan fiili taksim olmadığından bu paylaşmaya değer verilmediği belirtilmiş ise de önalım davalarında fiili taksime değer verilmesi için tüm paydaşlar tarafından ayrı ayrı fiilen kullanılan bölümlerin mevcut olması gerekmez. Davacının ve davalıya pay satan kişilerin kullandığı ayrı ayrı bölümler var ise yukarıda belirtildiği üzere satıcı zamanında kullanıma karşı çıkmayan, o yerde hak iddia etmeyen davacının tapuda pay satışı nedeni ile önalım hakkını kullanması TMK'nın 2. maddesinde yer alan dürüstlük kuralı ile bağdaşmayacaktır;
 
 ## Yargıtay 14. HD 2017/5047 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350196100)
 
 Bu hükme göre, davalılardan ..., imar uygulamasına tâbi tutulan ve dava konusu taşınmazın mütemmim cüz-ü niteliğindeki evlerini bedeli diğer paydaşlar ile belediye veya valilikçe ödenmedikçe kullanmaya devam edeceklerdir.
 
@@ -59,6 +69,8 @@ Ortaklığın giderilmesi durumunda, bina zeminin mütemmim cüz-ü olduğundan,
 
 ## Yargıtay 14. HD 2017/3624 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/361221400)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -66,6 +78,8 @@ Dava, ortaklığın giderilmesi isteğine ilişkindir.
 Satıştan elde edilecek gelirin sadece tapu kaydındaki hisseleri oranında paydaşlara dağıtılmasına, ayrıca 492 sayılı Harçlar Kanununun 13/j maddesi gereğince Hazine harçtan muaf olduğundan harcın Hazine dışındaki paydaşlardan tahsiline karar verilmesi gerekirken belirtilen hususların gözetilmemesi doğru görülmemiş ise de bu hususlar kararın bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden HUMK’nın 438/7 maddesi gereğince hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 14. HD 2017/125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/294702700)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -75,9 +89,13 @@ Bu durumda mahkemece; dava konusu taşınmazda paydaş olan Hazinenin davaya dah
 
 ## Yargıtay 18. HD 2016/3548 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/226356700)
+
 Hal böyle olunca somut uyuşmazlığın çözümü için, davaya konu taşınmazın tapu kaydında belirtilen "... Vakfı"nın mukataalı veya icareteynli vakıflardan olup olmadığının yöntemince araştırılması, vakıf türünün belirlenmesi ve belirlenen vakıf türüne göre taşınmazda hissedar ....'nun bir hakkının kalıp kalmadığının, ....'nun ölü veya gaip olup olmadığının, mirasçısının bulunup bulunmadığının hiçbir kuşkuya yer bırakmadan saptanması gerekir.
 
 ## Yargıtay 14. HD 2015/1728 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/181833200)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -87,6 +105,8 @@ Hal böyle olunca, kayyım atanan kişiler harçtan muaf olmadığı halde ve da
 
 ## Yargıtay 14. HD 2014/8516 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105588300)
+
 5578 Sayılı Kanunla değiştirilen 5403 Sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 8. maddesi gereğince bölünemez büyüklükteki tarım arazilerinin mirasa konu olmaları ve üzerlerinde her ne sebeple gerçekleşmiş olursa olsun birlikte mülkiyetin mevcut olması durumunda bu arazilerin ifraz edilemeyeceği, payların 3. şahıslara satılamayacağı, devredilemeyeceği hükmü mevcutken, 5403 Sayılı Kanunun 8. maddesinde 30.04.2014 tarihli ve 6537 …
 
 Sayılı Kanunun 4. maddesi ile yapılan değişiklikle "Tarım arazileri Bakanlıkça belirlenen büyüklüklerin altında ifraz edilemez, hisselendirilemez, Hazine taşınmazlarının satış işlemleri hariç olmak üzere pay ve paydaş adedi artırılamaz...." şeklinde düzenleme yapıldığından artık asgari tarımsal arazi büyüklüklerinin altındaki arazilerde de payın üçüncü şahıslara satışı ve devri mümkün hale gelmiştir.
@@ -94,6 +114,8 @@ Sayılı Kanunun 4. maddesi ile yapılan değişiklikle "Tarım arazileri Bakanl
 Somut uyuşmazlıkta, borçlu (davalı) G.. B.. .. parsel sayılı taşınmazda 1/4 oranında paydaş durumundadır. Yukarıda bahsedilen yasal değişiklikle alacaklı (davacı) B.. K.. tarafından borçlu G.. B..'nin haczedilen payının doğrudan icra yolu ile satışı istenebileceğinden alacaklının bu parsel yönünden (davacı) İcra ve İflas Kanununun 121. maddesi gereğince yetki alarak ortaklığın giderilmesi davası açmasında hukuki yararı kalmamıştır.
 
 ## Yargıtay 14. HD 2014/7090 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/356327700)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -103,6 +125,8 @@ Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 ## Yargıtay 14. HD 2014/4957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353079200)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -110,6 +134,8 @@ Dava, ortaklığın giderilmesi isteğine ilişkindir.
 Ancak Harçlar Yasasının 13/j maddesi gereğince paydaş Hazine harçtan muaf olduğu halde harçla yükümlü tutulması doğru görülmemiş ise de bu husus kararın bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden HUMK’nın 438/7 maddesi gereğince hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 6. HD 2013/6936 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405419500)
 
 Dava, iki adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -121,6 +147,8 @@ Olayımıza gelince; Dairemizin 25.12.2012 tarihli geri çevirme kararı üzerin
 
 ## Yargıtay 6. HD 2013/4697 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405164600)
+
 Dava, bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -131,11 +159,15 @@ Olayımıza gelince; davaya konu parselde 07.07.2000 tarih ve 5843 yevmiye numar
 
 ## Yargıtay 6. HD 2012/14248 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054332600)
+
 Paydaşlığın (ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan) biri veya bir kaçı diğer paydaşlara (ortaklara) karşı açar. HMK.'nun 27. maddesi hükmü uyarınca, davanın tarafları, müdahiller ve yargılamanın diğer ilgilileri, kendi haklarıyla bağlı olarak hukuki dinlenilme hakkına sahiptirler. Hukuki dinlenilme hakkı, Anayasının 36. maddesinde ve Avrupa İnsan Hakları Sözleşmesinin 6. maddesinde düzenlenen adil yargılama hakkının en önemli unsurudur. Bu itibarla, paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Olayımıza gelince; Dava konusu taşınmazlardan 26624 ada 5 nolu parselde 111/2400 pay ile tapu paydaşı olan Meram Belediyesi davaya dahil edilmeden yargılamaya devam edildiği anlaşılmaktadır. Mahkemece yukarıda açıklandığı şekilde adı geçen Meram Belediyesinin davaya dahil edilerek taraf teşkilinin sağlanması, ondan sonra işin esası ile ilgili bir karar verilmesi gerekirken bu husus üzerinde durulmadan yazılı şekilde karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2012/9852 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054353500)
 
 Dava bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
@@ -144,6 +176,8 @@ Dava bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 Ancak:dava konusu edilen ve satışına karar verilen taşınmazın satış bedeli üzerinden %09.9 karar ve ilam harcı alınması gerekirken %099(binde doksan dokuz) harç alınması doğru değilse de bu yanlışlığın düzeltilmesi için hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden,hükmün 4 maddesinde belirtilen”Harçlar kanunu uyarınca alınması gereken binde doksan dokuz harcın hissedarlardan tapu kaydındaki hisseleri oranında alınarak hazineye irat kaydına” ibaresinin çıkarılarak yerine” Harçlar kanunu uyarınca alınması gereken %09.9 (binde dokuz nokta dokuz harcın) hissedarlardan tapu kaydındaki hisseleri oranında alınarak hazineye irat kaydına “ ibaresinin eklenmek suretiyle 6100 sayılı HMK ya 6217 Sayılı kanunla eklenen geçici 3 maddesi hükmü gereğince HUMK 438 maddesi gereğince düzeltilerek ONANMASINA ve taşınmaz malın satış bedelinden payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin alınan 21.15.-TL’nın mahsubu ile bakiyesinin temyiz edenden alınmasına, 02.07.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2011/16014 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060861700)
 
 Dava, bir parça taşınmazın aynen taksim sureti ile ortaklığın giderilmesi istemine ilişkindir.
 
@@ -157,6 +191,8 @@ Kabule göre de, dava konusu edilen ve aynen taksimine karar verilen taşınmaz 
 
 ## Yargıtay 6. HD 2011/15783 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060743000)
+
 Dava, bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
 …
@@ -164,6 +200,8 @@ Dava, bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 Olayımızda;mahkemece Dairemizin bozma ilamına uyularak tapu kaydında paydaş olmayan hazine hakkındaki davanın husumet nedeniyle reddine karar verildiği halde hazine yararına vekalet ücreti hükmedilmemesi ve dava konusu taşınmazın satışına karar verilirken 492 sayılı Harçlar Yasası’nın 138. maddesinin sonuna eklenen fıkra gereğince yayımlanan Harçlar Yasası’nın Genel Tebliği 1. sayılı tarifesi uyarınca hüküm tarihi itibariyle satış bedeli üzerinden % 0 9.9 nispi karar harcı alınması gerekirken % 09 harcın alınmasına karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/4870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060303100)
 
 Dava, üç adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
@@ -173,6 +211,8 @@ Dava konusu edilen ve satışına karar verilen parsellerin satış sonucu elde 
 eklenmek suretiyle hükmün HUMK 438.
 
 ## Yargıtay 6. HD 2011/4191 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055694200)
 
 Dava, iki parça taşınmazın paydaşlığının giderilmesine ilişkindir.
 
@@ -184,6 +224,8 @@ Olayımıza gelince; Davaya konu taşınmazlara ait tapu kayıtlarının incelen
 
 ## Yargıtay 6. HD 2010/6068 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643495000)
+
 Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 
 …
@@ -191,6 +233,8 @@ Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya bir kaçı diğer paydaşlara karşı açar. HMUK.nun 569. maddesi hükmü uyarınca davada bütün paydaşların yer alması zorunludur. Ancak, tapu kaydında paydaş olmayanların davada taraf olması mümkün değildir. Dosya arasında mevcut tapu kaydına göre taşınmazda paydaş olmayan hazinenin davada davalı olarak gösterildiği ve hakkında hüküm verildiği görülmüştür. Bu nedenle mahkemece, tapu kaydında paydaş olmayan hazinenin davada taraf olarak yer aldığı anlaşıldığından davanın reddine karar verilmesi gerekirken dava ile ilgisi bulunmayan hazine hakkında hüküm kurulması doğru olmadığı gibi kabulü göre de kayyım vekili olarak temsil edilen hazine vekiline vekalet ücreti verilmemiş olması da doğru değildir. Hüküm bu nedenlerle bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2010/5075 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79524400)
 
 Diğer taraftan, 634 Sayılı Kat Mülkiyeti Kanununun 10/4. maddesi hükmü kat mülkiyetinin ne yolla kurulacağı ve tescil edileceği konusunda genel kuralı belirlemiştir. Buna göre, kat mülkiyeti tapu memurunca düzenlenen resmi senet (sözleşme) uyarınca ya da, aynı maddenin son fıkrasına göre; mahkeme kararı ile kurulur ve tescil edilir, böylece varlık kazanır. Gerek sözleşme gereğince tapu idaresince ve gerekse mahkeme kararı ile kat mülkiyeti kurulacak hallerde aynı yasanın 10.maddesi ile 13.4.1983 tarihli ve 2814 Sayılı Yasanın 4, 6. maddeleriyle değişik 12, 13. maddesi hükümlerinin gözetilmesi gerekeceğinde kuşku bulunmamaktadır. Belirtmek gerekir ki, her iki halde de; ilkinde ana taşınmazın maliki ya da ortak malikleri tarafından istenilmesiyle keza, mahkeme kararıyla kat mülkiyetine geçişte ise 12.maddenin 5. fıkrasında öngörüldüğü üzere kat mülkiyetine konu olmaya elverişli bir gayrimenkul üzerindeki ortaklığın giderilmesi davalarında mirasçılardan veya ortak maliklerden birinin paylaşmanın kat mülkiyeti kurulması ve bağımsız bölümlerin tahsisi suretiyle yapılmasını istemesiyle mümkün olacağı tartışmasızdır.
 O halde, değinilen yasal düzenlemeler ve ilkeler ışığında durum değerlendirildiğinde, her iki halde de, kat mülkiyetinin kurulmasını isteme hakkının mutlaka taşınmazın malikine veya paydaşına yahut onların yasal temsilcilerine ait olacağı kuşkusuzdur. Bir başka ifadeyle, taşınmazda mülkiyetten kaynaklanan bir hakkı bulunmayanın ya da yasal temsilci olmayanın bu hakkı kullanmasına ve istemesine olanak yoktur. Hemen vurgulanmalıdır ki, aynı ilkeler 634 Sayılı Kat Mülkiyeti Kanununun 14.maddesinde öngörülen kat irtifakının kurulmasında da geçerlidir.

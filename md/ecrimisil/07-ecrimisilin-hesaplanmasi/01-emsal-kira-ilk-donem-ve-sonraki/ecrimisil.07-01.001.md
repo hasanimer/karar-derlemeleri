@@ -68,41 +68,59 @@ Asliye Hukuk Mahkemesince açılan dava tarihi olan 16.03.2010 tarihinden ecrimi
 
 ## Yargıtay 5. HD 2025/18015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206182000)
+
 Dairemizce yapılan inceleme sonucunda; dava konusu taşınmazlara 1974 tarihinde el atıldığından, el atma tarihindeki nitelikleri esas alınarak dava tarihindeki değerinin tespit edilmesi gerekirken, el atma tarihinde dava konusu taşınmazın niteliği net olarak belirlenmeden arazi olarak değer biçilmesi nedeniyle rapor hüküm kurmaya elverişli olmadığından öncelikle 1974 yılı itibarıyla dava konusu taşınmazın arsa mı, arazi mi olduğunun belirlenmesi gerektiğini, taşınmazın 1974 yılında belediye imar planı içinde olup olmadığı, değilse belediye veya mücavir alan sınırları dahilinde bulunup bulunmadığı, belediye hizmetlerinden yararlanıp yararlanmadığı ve etrafının meskun mahal olup olmadığı hususları Belediye Başkanlığından sorulup, alınacak yazı cevabına göre, taşınmazın vasfı belirlendikten sonra taşınmazın niteliğine göre oluşturulacak bilirkişi kurulu eşliğinde mahallinde keşif yapılarak arsa ise yakın tarihte satışı yapılan emsallerle dava konusu taşınmazın üstün ve eksik yönleri belirtilmek suretiyle mukayese yapılıp, tarım arazisi ise o yörede mutat olarak ekilen münavebe ürünleri belirlendikten sonra taşınmazın olduğu gibi kullanılması halinde getireceği net gelirine göre bedel
 belirlenerek hüküm kurulması gerekirken, eksik inceleme ile açıklanan hususlarda değerlendirme yapılmadan soyut ifadelerle taşınmaza arazi olarak değer biçen rapor doğrultusunda hüküm kurulması, kabule göre de dava konusu taşınmazın nasıl sulandığı ve sulama kaynağı belirtilmeden, çevresinde sulu tarım yapıldığı gerekçesi ile sulu arazi sayılarak değer tespit edildiği gözetildiğinde yeniden keşif yapılarak, öncelikle 1974 yılında dava konusu taşınmazın sulanıp sulanmadığı, sulanıyorsa fiilen nereden ve ne şekilde sulandığı, yapılan sulamanın taşınmazın tamamını sulamaya yeterli olup olmadığı tespit edilip, gerekirse keşifte taşınmazın sulu olup olmadığı ve seracılık yapılıp yapılmadığı hususlarında tanık ve mahalli bilirkişiler de dinlenilerek yeniden alınacak rapor uyarınca karar verilmesi gerektiği düşünülmeden, eksik inceleme ve soyut ifadelerle sulu arazi olarak ve cam serada domates, cam serada gül, plastik serada karanfil yetiştirildiğinin kabulü, ecrimisile yönelik talep bakımından ise taşınmaz arsa niteliğinde ise taşınmazın bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne
 şekilde kiralandıklarının taraflardan delilleri sorulmak suretiyle tespit edilmesi, varsa emsal kira sözleşmesi temin ettirilerek; arazi ise dava tarihinden geriye doğru taşınmazlara yıllık ekilebilecek ürünler belirlendikten sonra her yılın dekar başına verim miktarları, üretim masrafları ile hasat dönemindeki ortalama toptan kilogram satış fiyatları İlçe Tarım ve Orman Müdürlüğünden getirtilerek, bu veriler üzerinden her yıl için hesaplanacak yıllık net gelirleri esas alınarak ecrimisil bedelinin hesaplanması gerekirken, bu yönteme uygun olmayan ve tüm yıllar için 2011 yılı verileri esas alınıp ecrimisil bedeli tespit eden rapora göre hüküm kurulması ve ecrimisil bedeli yönünden davacı lehine ayrı nispi vekâlet ücretine hükmedilmesi gerektiğinin düşünülmemesi doğru görülmediğinden kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/15444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197227400)
+
 Dairemizce yapılan inceleme sonucunda; arsa niteliğindeki taşınmaza hükme esas alınan bilirkişi raporunda dava konusu taşınmaza göre yüzölçümü büyük olan taşınmazın emsal alınması doğru olmadığı gibi, emsal alınan ... 2 47... parsel sayılı taşınmazın tapu ve satış akit tablosunun incelenmesinde satışın anonim şirkete satış olup bu satışın tarafları ve taşınmazın nitelikleri dikkate alındığında ticari amaçlı bir satış olduğu, serbest satış olmadığı ve taşınmazın gerçek değerini yansıtmadığı izlenimini uyandırdığından bu emsali esas alarak değer tespit eden bilirkişi kurulu raporunun hükme esas alınması mümkün olmadığından yeniden oluşturulacak bilirkişi kurulu marifetiyle mahallinde keşif yapılarak alınacak rapor sonucuna göre hüküm kurulması gerektiğinin düşünülmemesi bozma öncesinde kararı davacının temyiz etmediği anlaşıldığından, usuli kazanılmış hak ilkesine aykırı olarak ilk kararı temyiz etmeyen davacı yönünden fazla bedele hükmedilmesi, bozma öncesindeki kararın Denizli 5.
 İcra Müdürlüğünün 2015/2066 Esas sayılı dosyasında takibe konu edildiğinden bahisle davalı ... tarafından yapılan ödemenin ve icra dosyasında ödenen vekâlet ücretinin mahsup edilmek suretiyle bozma sonrası Hazine hakkında husumet nedeniyle ret kararı verildiği gözetilmeden yazılı şekilde karar verilmesi, ecrimisil; yönünden değerlendirme gününden önceki kira sözleşmesi emsal alınıp ilk dönem ecrimisil bedeli belirlenip sonraki dönemler için ÜFE artış oranının yansıtılması gerekirken, değerlendirme gününden çok sonraki tarihli bir kira sözleşmesi esas alınıp geriye doğru endeks uygulamak suretiyle ecrimisil bedeli belirlenmesi, davalı ... hakkında açılan davanın pasif husumet yokluğu nedeniyle reddine karar verildiği hâlde, lehine maktu vekâlet ücretine hükmedilmesi gerektiği düşünülmeden yazılı şekilde karar verilmesi doğru olmadığından karar bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/12255 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176986700)
+
 Mahallesi 653 ada 5 parsel sayılı emsal taşınmazın satış tarihinin dava tarihinden önce ve tapuda yapıldığı, bu satışın özel nitelikte olmadığı ve emsal kıyaslamasına esas alınabileceği, emsal ile dava konusu taşınmazın mevkii, konum, nitelik, yüzölçümleri, vergi beyan değerleri bakımından kıyaslaması yapılarak ve benzer özellikleri ile üstün ve eksik yanları gözetilerek değerinin hesaplandığı anlaşılmış, arsa niteliğindeki taşınmaza emsal karşılaştırması yapılarak, hükme esas bilirkişi raporunda dava konusu taşınmazın metrekare birim fiyatının 2022 yılına göre 332,19 TL olarak hesaplanmasında, taşınmazın niteliğine göre ecrimisile hükmedilmesinde, yol niteliğine dönüşen taşınmazda, davacı adına olan tapu kaydının iptali ile davalı kurum adına tapudan terkinine karar verilmesinde, hükmedilen tazminattan ve ecrimisil bedellerinden davalı tarafın sorumlu tutulmasında, hükmedilen tazminata ve ecrimisil alacaklarına dava tarihinden itibaren yasal faiz işletilmesinde istinaf edenin sıfatı ve istinaf nedenlerine göre bir isabetsizlik görülmediğinden davalı idare vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/8485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199614100)
 
 Dairemizce yapılan temyiz incelemesi sonucunda; el atmanın önlenmesi, kal talebinin kabulüne karar verilmesinde bir isabetsizlik görülmediği,ancak dava konusu taşınmaz zemininde davacı 1138/2080 oranında pay sahibi sahibi iken davacının payı oranında oranında ecrimisil bedeline hükmedilmesi gerekirken el atılan bölümde davacı tam pay sahibi kabul edilerek yazılı şekilde hüküm kurulması hatalı olduğundan ve arsa niteliğindeki taşınmazların getirebileceği ecrimisil miktarı hesaplanırken, dava konusu taşınmazın el atmadan önce ne şekilde kullanıldığı, ayrıca civar taşınmazların ecrimisil istenilen dönemdeki kullanma biçimleri araştırılarak, bu kullanma şekillerine uygun kira sözleşmelerinin taraflardan ibrazı istenmeli, ayrıca bilirkişilerin re'sen bulacakları emsaller de dikkate alınmak suretiyle, taşınmazın ilk dönem getirebileceği ecrimisil miktarı bulunduktan sonra, takip eden dönemler için, ÜFE'deki artış oranları dikkate alınmak suretiyle alacak miktarı hesaplanması gerektiğinden kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/7175 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181259200)
+
 Dairemizce yapılan temyiz incelemesi sonucunda; arsa niteliğindeki dava konusu taşınmazlara emsal karşılaştırması yapılarak değer biçilmesinde bir isabetsizlik görülmediği, ancak arsalarda ecrimisile hükmedilmesi için taşınmazın bulunduğu mevkide diğer arsaların ne şekilde kiraya verildiklerinin taraflardan sorulmak suretiyle tespit edilmesi, örnek kira sözleşmesinin ibraz ettirilerek yapılacak inceleme sonucunda ecrimisil miktarının belirlenmesi gerekirken, yazılı şekilde usulüne uygun olmayan bilirkişi raporuna göre karar verilmesinin doğru görülmediği gerekçesiyle kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/928 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139016300)
 
 Dairemizce yapılan inceleme sonucunda; dava konusu taşınmaza değer biçilirken, emsal olarak alınan taşınmazların satış bedellerine fiyat endeksleri uygulandıktan sonra bulunan değerlerin gerçeği yansıtmadığı açıklandığı hâlde sonuçta dava konusu taşınmazın daha değerli olduğu belirtilmek suretiyle bedel belirlendiğinden raporun hüküm kurmaya elverişli olmadığı ve arsa niteliğindeki taşınmazın ne şekilde kullanılacağı davacı tarafa açıklattırılıp, civar parsellerin kullanım durumları, kiraya veriliyorsa buna ilişkin emsal kira sözleşmeleri de ibraz ettirildikten sonra, taşınmaz başında keşif yapılıp, alınacak rapor sonucuna göre karar verilmesi gerekirken, taşınmazın konumuna göre soyut ifadelerle ecrimisil bedeli belirleyen rapor esas alınmak suretiyle yazılı şekilde hüküm kurulması doğru olmadığı, ayrıca davacı tarafça ecrimisile ilişkin bir ıslah yapılmadığı gözetilerek taleple bağlı karar verilmesi gerektiğinden hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132101100)
+
 Dairemizce yapılan inceleme sonucunda; mahallinde yapılan keşif sonucu, ... ilçesi, ... Mahallesi 1314 ada 1 parsel sayılı taşınmazın dava tarihindeki değerinin biçilmesinde ve alınan rapor uyarınca bedelinin tahsiline karar verilmesinde bir isabetsizlik görülmemiş; ancak arsa niteliğindeki taşınmazların getirebileceği ecrimisil miktarı hesaplanırken, dava konusu taşınmazın ve bölgede benzer taşınmazların el atmadan önce ne şekilde kullanıldığı, ayrıca civar taşınmazların ecrimisil istenilen dönemdeki kullanma biçimleri araştırılarak, bu kullanma şekillerine uygun kira sözleşmelerinin taraflardan ibrazı istenmeli, ayrıca bilirkişilerin re'sen bulacakları emsaller de dikkate alınmak suretiyle, taşınmazın ilk dönem getirebileceği ecrimisil miktarı bulunduktan sonra, takip eden dönemler için, ÜFE'deki artış oranları dikkate alınmak suretiyle alacak miktarı hesaplanmalıdır.Mahkemece bu hususlara dikkat edilmeden benzer nitelikteki davaya konu taşınmaza biçilen değere dayalı bilirkişi raporuna göre hüküm kurulması doğru görülmediğinden Bölge Adliye Mahkemesinin esastan ret kararı ortadan kaldırılarak, İlk Derece Mahkemesi hükmünün bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2024/9668 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121632700)
 
 Dairemizce yapılan inceleme sonucunda; dava konusu taşınmazın değerlendirme tarihi olan 2011 yılında, Arsa Metrekare Rayiç Bedeli Takdir Komisyonu tarafından resen belirlenen emlak vergisine esas olan m² değeri ilgili Belediye Başkanlığı Emlak Müdürlüğünden getirtilerek değerlendirilmediği gibi; dava konusu taşınmazın değerinin tespitinde emsal olarak incelenen taşınmaz, tamamı Belediye lehine kamulaştırma yoluyla satılan özel amaçlı satış olduğundan bu rapora göre hüküm kurulması mümkün değildir, arsa niteliğindeki taşınmazın ne şekilde kullanılacağı davacı tarafa açıklattırılıp, civar parsellerin kullanım durumları, kiraya veriliyorsa buna ilişkin emsal kira sözleşmeleri de ibraz ettirildikten sonra, taşınmaz başında keşif yapılıp, alınacak rapor sonucuna göre karar verilmesi gerekirken;
 Devlete Ait Mal Satış, Trampa, Kiraya verme, Mülkiyetin Gayri Ayni Hak Tesis, Ecrimisil ve Tahliye Yönetmeliği uyarınca yıllık ecrimisil bedelini satış bedelinin %5’i olarak belirleyen rapor esas alınmak suretiyle yazılı şekilde hüküm kurulması ve dava konusu taşınmaza fiilen hangi tarihte (ay, gün ve yıl olarak) el atıldığı davalı idareden sorularak, el atma tarihine ilişkin tüm belgelerin getirtilmesi gerektiği düşünülmeden eksik inceleme ile karar verilmesi doğru görülmeyerek mahkeme kararının bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2024/7400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073052200)
 
 Arsa niteliğinde ise, dava konusu taşınmazın el atmadan önce ne şekilde kullanıldığı, ayrıca civar taşınmazların ecrimisil istenilen dönemdeki kullanma biçimleri araştırılarak, bu kullanma şekillerine uygun kira sözleşmelerinin taraflardan ibrazı istenmeli, ayrıca bilirkişilerin resen bulacakları emsaller de dikkate alınmak suretiyle, …
 
@@ -110,9 +128,13 @@ Arazi ise, İlçe Tarım ve Orman Müdürlüğü verileri getirtilerek verilere 
 
 ## Yargıtay 7. HD 2024/4382 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088991300)
+
 Yargıtay 1.Hukuk Dairesince: ‘"..çekişme konusu, arsa nitelikli, 410 parsel sayılı taşınmazda davacının 6/43 pay, davalının ise 38/412 pay ile paydaş olduğu, Mahkemece, taraflar ve dava dışı kişiler adına paylı mülkiyet ile kayıtlı taşınmazın otobüs garajı olarak kullanıldığı tespit edilmekle ecrimisile karar verilmesinde bir isabetsizlik olmadığı ancak ecrimisil döneminin başlangıç tarihi olarak 2011 yılının alınması, taşınmazın getireceği ecrimisil miktarı hesaplanarak ÜFE uygulanmak suretiyle sonuca gidilmesi gerekirken, 2013 yılındaki ecrimisil bedeli tespit edildikten sonra geriye dönük olarak ecrimisil hesabı yapıldığı, üç kişiden oluşan bilirkişi heyeti aracılığıyla taşınmazın arsa niteliği göz önünde bulundurularak 2011 yılında getireceği ecrimisil miktarı saptanıp, ÜFE uygulanmak suretiyle sonuca gidilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu üzere hüküm tesisi edildiği..." gerekçesiyle karar bozulmuştur.
 
 ## Yargıtay 7. HD 2024/3756 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095965400)
 
 Bir mahkemenin Yargıtay Dairesince verilen bozma kararına uyması sonunda, kendisi için o kararda gösterilen şekilde inceleme ve araştırma yaparak yine o kararda belirtilen hukuki esaslar gereğince hüküm verme yükümlülüğü doğar. “Usuli kazanılmış hak” olarak tanımlayacağımız bu olgu mahkemeye, hükmüne uyduğu Yargıtay bozma kararında belirtilen çerçevede işlem yapma ve hüküm kurma zorunluluğu getirmektedir (09.05.1960 tarihli ve 21/9 sayılı YİBK). Somut olayda, mahkemece bozma ilamına uyularak hüküm kurulsa da, bozma ilamının gereklerinin tam olarak yerine getirilmediği anlaşılmaktadır. Şöyle ki, hükme esas alınan bilirkişi raporunda davacı tarafından sunulan emsal kira sözleşmelerinin dikkate alındığı, re'sen benzer nitelikteki yerlerin kira bedellerinin araştırılmadığı anlaşılmıştır.
 
@@ -122,29 +144,43 @@ Bu itibarla mahkemece, aralarında gayrimenkul değerlendirme uzmanının da bul
 
 ## Yargıtay 5. HD 2024/3277 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038508800)
+
 Dairemizce yapılan inceleme sonucu; arsa niteliğindeki taşınmaza emsal karşılaştırması yapılarak bedel tespit edilmesinde bir isabetsizlik görülmediği, ancak dava konusu taşınmaz üzerindeki muhtesata değer tespit edilirken objektif değer artırıcı unsur oranı eklenmemesi ve hükmedilen toplam 50.786,77 TL bedel içinde ecrimisil de olduğu halde, ikinci kez 331,00 TL ecrimisil ödenmesine karar verilmemesi gerektiği gerekçesiyle kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/2428 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1041012800)
+
 2....somut olaya gelince; karara esas alman bilirkişi raporlarının hükme yeterli olduğunu söyleyebilme olanağı yoktur. Mahkemece yeniden konusunda uzman bilirkişiler eşliğinde keşif yapılarak, yukarıda açıklanan ilkeler uyarınca benzer yerlerin kira sözleşmeleri getirtilerek (resen emsal araştırması yapmak ya da taraflardan emsal göstermeleri istenmek suretiyle) araştırma ve inceleme yapılması, 5 ve 6 numaralı bağımsız bölümlerin yanısıra 7 numaralı bağımsız bölümün de kullanıldığının davalı tarafın kabulünde olduğu da gözetilerek, oluşacak sonuca göre, davacı tarafın 05.06.2014 tarihli dilekçesinde belirttiği ecrimisil talepleri de dikkate alınmak suretiyle belirlenecek ecrimisile hükmedilmesi gerekirken yetersiz bilirkişi raporu ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 5. HD 2024/1058 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039039600)
 
 Dairemizce yapılan inceleme sonucunda; bilirkişi kurulunca somut emsal olarak değerlendirilen Karayılan Mahallesi 351 parsel sayılı emsal taşınmazın, bilirkişi raporunda belirtilen tarihteki satışına ilişkin akit tablosu ilgili Tapu Müdürlüğünden, somut emsal kabul edilen taşınmazın bilirkişilerce değerlendirmeye esas alınan satış tarihi itibarıyla, dava konusu taşınmazın değerlendirme tarihi itibarıyla fiili imar uygulaması sonucu oluşan imar parseli mi, yoksa imar planına dahil olmakla birlikte olduğu gibi bırakılan kadastro parseli mi olduğunun ilgili Belediye İmar Müdürlüğü ile Tapu Müdürlüğünden, değerlendirme tarihi olan 2012 yılında, dava konusu taşınmaz ile hükme esas alınan bilirkişi raporunda somut emsal kabul edilen taşınmazın, Arsa Metrekare Rayiç Bedeli Takdir Komisyonu tarafından resen belirlenen emlak vergisine esas olan m² değerlerinin, ilgili Belediye Başkanlığı Emlak Vergi Dairesinden getirtilip dava konusu taşınmaz ile emsal taşınmazın Hükümet, Belediye, Adliye gibi merkezlere uzaklıkları fen elemanına çizdirilerek alınacak cevaplar da dikkate alınarak bilirkişi rapor düzenlenmesi gerekirken denetime elverişli ve inandırıcı olmayan rapor hüküm kurmaya yeterli
 görülmediği ve ecrimisil talebi yönünden, arsa niteliğindeki taşınmazın bulunduğu bölgede benzer taşınmazların ve dava konusu taşınmazın el atmadan önce ne şekilde kullanıldığı tespit edilip, kira gelirine ilişkin var ise emsal kira sözleşmeleri de getirtilerek elde edilecek kiranın somut bulgularla tespit edilmesi gerektiğinden, davacı tarafa, emsal kira sözleşmelerini ibraz etmesi için süre verilerek, ya da resen Belediye, Maliye gibi kurumlardan kira sözleşmesi olup olmadığı araştırılarak bu sözleşmelere göre ecrimisil belirlenmesi, gerektiği gözetilmeden eksik inceleme ile yazılı şekilde karar verilmesi doğru olmadığından kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2023/12173 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985899300)
+
 Dairemizce yapılan inceleme sonucunda; arsa niteliğindeki dava konusu taşınmazın dava tarihindeki değerinin biçilmesinde ve alınan rapor uyarınca bedelinin tahsiline karar verilmesinde bir isabetsizlik görülmediği, bu nedenle, davalı idarenin tüm, davacılar vekilinin sair temyiz itirazları bozma ile kesinleşen yönlere ilişkin olduğundan yerinde olmadığı, ancak arsa niteliğindeki taşınmazın bulunduğu bölgede benzer taşınmazların ve dava konusu taşınmazın el atmadan önce ne şekilde kullanıldığı, kira gelirine ilişkin var ise emsal kira sözleşmeleri de getirtilerek elde edilecek kiranın somut bulgularla tespit edilmesi gerektiğinden, davacı tarafa, emsal kira sözleşmelerini ibraz etmesi için süre verilerek ya da resen Belediye, Maliye gibi kurumlardan kira sözleşmesi olup olmadığı araştırılmalı bu sözleşmelere göre ecrimisil belirlenmesi gerektiği gözetilmeden, belirtilen esaslara uygun şekilde inceleme ve araştırma yapılmadan ecrimisil talebinin reddine karar verilmesi doğru görülmediğinden bahisle kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2023/12129 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993533500)
 
 Dairemizce yapılan inceleme sonucunda; hükme esas alınan bilirkişi raporunda emsal olarak değerlendirilen taşınmaz ile dava konusu taşınmazın denetime esas olacak şekilde arsa metrekare rayiç bedeli takdir komisyonu tarafından resen belirlenen emlak vergisine esas olan m² değerleri getirtilmeden m² birim bedeli belirlendiği gibi dava konusu taşınmaz ile emsal taşınmaz arasında 100-150 metre mesafe bulunduğu hâlde, dava konusu taşınmazın emsal taşınmazdan 23 kat değerli olması nedeniyle bilirkişi raporu inandırıcı bulunmadığını, dava konusu taşınmaz üzerinde bulunan trafo merkezinin TEİAŞ'a, işletme binasının ise TEDAŞ'a ait olduğu anlaşılmaktadır. TEDAŞ'ın işletme binasının işgal ettiği alandan sorumlu tutulması gerekirken, el atılan alanın tümünden sorumlu tutulması ve arsa niteliğindeki taşınmaza ecrimisil belirlenirken taşınmazın bulunduğu bölgede benzer taşınmazların ne şekilde kullanıldığı, kira gelirine ilişkin var ise emsal kira sözleşmeleri de getirtilerek elde edilecek kiranın somut bulgularla tespit edilmesi gerektiğinden, davacı tarafa, emsal kira sözleşmelerini ibraz etmesi için süre verilerek ya da resen Belediye, Maliye gibi kurumlardan kira sözleşmesi olup olmadığı …
 
 ## Yargıtay 5. HD 2023/12109 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990955600)
+
 Arsa niteliğindeki dava konusu Van ili, Edremit ilçesi, Eminpaşa Mahallesi 107 ada 93 parsel ... taşınmaz 2942 ... Kanun'un 11 inci maddesinin birinci fıkrasının (g) bendi uyarınca emsal kıyaslaması yapılarak değer biçilmesi ve tespit edilen bedelin ve ecrimisilin davacı tarafa ödenmesi, dava konusu taşınmaz davacı adına olan tapu kaydının iptali ile idare adına tesciline karar verilmesi yerindedir.
 
 ## Yargıtay 5. HD 2023/10317 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/997247700)
 
 Arsa niteliğindeki ... ili,Atakum ilçesi, ... Mahallesi 6730 ada 16 parsel sayılı taşınmaza 2942 sayılı Kanun'un 11 inci maddesinin birinci fıkrasının (g) bendi uyarınca emsal karşılaştırması yapılarak değer biçilmesine ve alınan rapor uyarınca taşınmaz ve ecrimisil bedelinin davalı idareden tahsiline karar verilmesinde bir isabetsizlik görülmemiştir.

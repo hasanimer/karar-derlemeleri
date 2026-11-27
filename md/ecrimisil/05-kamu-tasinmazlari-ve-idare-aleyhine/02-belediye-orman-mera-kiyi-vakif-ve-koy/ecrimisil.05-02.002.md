@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2021/4474 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683173800)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -34,6 +36,8 @@ Asliye Hukuk Mahkemesinin 2011/286 Esas, 2012/108 Karar sayılı dosyasında tal
 
 ## Yargıtay 8. HD 2021/2149 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664312000)
+
 Dava, mülkiyet hakkına dayalı çaplı taşınmaza elatmanın önlenmesi, kal (yıkım) ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -41,6 +45,8 @@ Dava, mülkiyet hakkına dayalı çaplı taşınmaza elatmanın önlenmesi, kal 
 Bununla birlikte taşınmaz üzerinde bulunan ve raporda belirtilen davalının kullanımında olan ve dava konusu edilen meskenin tanık beyanları ile dosya içerisindeki belediye yazılarına göre ruhsatsız yapı sebebi ile yıkım kararı içeriğinden yapının davalının babası tarafından yapıldığı sabittir. Hal böyle olunca, Mahkemece bu yapılar dikkate alınmadan taşınmaz arsa olarak değerlendirilerek ecrimisil bedelinin belirlenmesi gerekir.
 
 ## Yargıtay 8. HD 2019/11003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570463000)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -50,9 +56,13 @@ Hemen belirtmek gerekir ki; tescil kararı yenilik doğurucu değil açıklayıc
 
 ## Yargıtay 8. HD 2019/8649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/649028900)
+
 Tüm dosya kapsamı ve incelenen delillerden davacı tarafın ecrimisil talebine konu taşınmazın 13/144 hissesinin malikinin .... 262/288 hissesinin ise Vakıflar Genel Müdürlüğüne ait olduğu görülmüştür. Taraflar arasında davacı tarafın yine davacısı olduğu davalı tarafın ise davalısı olduğu ... 5. Sulh Hukuk Mahkemesinin 06.12.2006 tarihli ve 2006/1164 Esas, 2006/1348 Karar sayılı; ... 3. Sulh Hukuk Mahkemesinin 24.10.2007 tarihli ve 2007/686 Esas, 2007/1153 Karar sayılı; ... 2. Sulh Hukuk Mahkemesinin 22.10.2008 tarihli ve 2008/788 Esas, 2008/1151 Karar sayılı; ... 2. Sulh Hukuk Mahkemesinin 31.03.2010 tarihli ve 2009/1034 Esas, 2010/255 Karar sayılı dosyalarında dava konusu taşınmaz üzerinde davalının kiracı olarak bulunmasından dolayı kira bedellerinin arttırılması suretiyle tespitine dair kesin karar niteliğinde ilamların bulunduğu anlaşılmaktadır.
 
 ## Yargıtay 20. HD 2019/1041 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483942200)
 
 Kural olarak bir yerin mera olarak kabul edilebilmesi için taşınmazın yetkili ve idarî merciler tarafından mera olarak tahsis edilmesi ya da taşınmazın öncesinin bilinmeyen bir zamandan beri geleneksel biçimde kamu malı niteliğinde mera olarak kullanılagelmiş olmasına bağlıdır.
 
@@ -64,6 +74,8 @@ Asliye Hukuk Mahkemesinin 2006/157 E. - 2006/249 K. sayılı dava dosyası zemin
 
 ## Yargıtay 5. HD 2018/17402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/449760500)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -72,6 +84,8 @@ Arsa niteliğindeki ... İlçesi ... Mahallesi 3766 ada 1 parsel sayılı taşı
 
 ## Yargıtay 8. HD 2018/13702 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/428966700)
+
 Dava, ecrimisil tazminatına ilişkindir.
 
 …
@@ -79,6 +93,8 @@ Dava, ecrimisil tazminatına ilişkindir.
 Hal böyle olunca, kesinleşen dosyada alınan bilirkişi raporunda taşınmazın niteliğinin tarım arazisi olarak değerlendirilerek ecri misil tazminatının hesaplandığı, eldeki dosyada ise mevcut bilirkişi kurulu raporuna göre, Belediye Başkanlığı'nın 07.05.2012 tarihli ve 20 sayılı Meclis kararına göre, dava konusu taşınmazın Belediye Mücavir alan sınırları dahiline alındığının belirtildiği ve bu nedenle taşınmazın vasfının arsa olarak değerlendirildiği hususları da gözönüne alınarak, taşınmazın tarla vasıflı olduğu yıllar ile arsa vasıflı olduğu yılların tespit edilerek, kesinleşen mahkeme ilamında son yılda belirlenen ecri misil değeri esas alınarak, açıklanan ilkeler doğrultusunda bilirkişilerden ek rapor alınarak, sonucu dairesinde bir karar verilmesi gerekirken, belirtilen şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2018/9665 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/417292700)
 
 Dava; ecrimisil isteğine ilişkindir.
 
@@ -90,6 +106,8 @@ Kabule göre de; mahkemece, tespit edilen ecrimisil miktarına 31.12.2012 tarihi
 
 ## Yargıtay 1. HD 2018/504 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405701500)
+
 Dava, ecrimisil isteğine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -98,10 +116,14 @@ Hemen belirtilmelidir ki, dosya kapsamı ve toplanan delillere göre, kayden dav
 
 ## Yargıtay 3. HD 2017/11006 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353954100)
+
 Kiralanan akaryakıt istasyonu, davalıya ait 1643 ada 59 parsel ile dava dışı Vakıflar Genel Müdürlüğü'ne ait 2070 ada 419 parsel sayılı taşınmazlara tekabül etmektedir. Davacı tarafından, dava dışı Vakıflar Genel Müdürlüğüne ecrimisil ödenmek zorunda kalındığı ve bu kısım için 08/01/2004 başlangıç tarihli kira sözleşmesi düzenlendiği anlaşılmaktadır. Kiraya verenin sözleşmeye konu şeyin maliki olması zorunlu değildir. Kira sözleşmesi feshedilmediği veya sözleşmenin iptali davası açılmadığı sürece geçerlidir. Ancak bir üçüncü kişinin kiralanan üzerinde, kiracının hakkıyla bağdaşmayan bir hak ileri sürmesi durumunda kiraya veren, söz konusu hukuki ayıbı gidermek ve kiracının bu yüzden uğradığı zararları tazmin ile yükümlüdür. Kiraya verenin zapta karşı tekeffül borcu 6098 sayılı TBK.’nun 309. (BK. 253.) maddesinde düzenlenmiştir. Kiraya veren kiralananı her türlü maddi ve hukuki ayıptan ari olarak kiracının kullanımına sunmak ve kira müddetince bu hali ile muhafaza etmekle yükümlüdür. Üçüncü kişinin aynî bir hakka dayalı olarak kiralanan üzerinde ileri sürdüğü talepler davalı kiralayanın tekeffülü altındadır.
 Davacı kiracının, davalının mülkiyetinde olmayan kısım için ödemek durumunda kaldığı ecrimisil ve kira bedellerinin de bu kapsamda değerlendirilmesi zorunludur. Bu nedenle Mahkemece, kira sözleşmesi ile aynı döneme rastlayan, dava dışı malike ödenen ecrimisil ve kira ödelemeleri saptanarak, bu miktar ödenen kiradan düşükse bu bedelden, üçüncü kişiye ödenen kira ve ecrimisil bedeli ödenen kiradan fazla ise ödenen kira miktarında davalının sorumlu olduğu gözetilerek karar verilmesi gerekirken yazılı şekilde karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2017/6639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/384764700)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -113,6 +135,8 @@ Hemen belirtilmelidir ki, 12/11/2012 tarihinde kabul edilen 6360 sayılı 13 İl
 
 ## Yargıtay 1. HD 2015/6737 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139042200)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -120,6 +144,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Hal böyle olunca, davaya konu taşınmazdaki stadyumun, davacı belediye tarafından dava dışı Gençlik ve Spor il Müdürlüğüne tahsisine ilişkin tüm belgelerin getirtilmesi, taşınmazın tamamının tahsis edilip edilmediğinin saptanması, davalı belediyenin 28.04.2009 tarihinden önceki bölüme ilişkin olarak 23.319m2 alanın kira bedeli ile birlikte davaya konu 1853m2 bölüme ilişkin ecrimisil bedelinin ödendiği yönündeki savunması üzerinde durulması, dava konusu taşınmazın 1853m2 lik kısmının ecrimisil talep edilen 01/07/2008-12/01/2010 tarihleri arasında kimin kullanımında olduğunun kuşkuya yer vermeyecek şekilde saptanması, sonucuna göre bir karar verilmesi gerekirken, yanılgılı değerlendirmeyle yazılı olduğu üzere karar verilmiş olması doğru değildir …
 
 ## Yargıtay 1. HD 2015/6012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140538100)
 
 Dava; ecrimisil isteğine ilişkindir.
 
@@ -129,6 +155,8 @@ Ne var ki; Sarıyer Belediye Başkanlığı İmar ve Şehircilik Müdürlüğün
 
 ## Yargıtay 1. HD 2015/1788 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119713800)
+
 Dava, ecrimisil isteğine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -137,9 +165,13 @@ Dava, ecrimisil isteğine ilişkin olup, mahkemece, davanın kısmen kabulüne k
 
 ## Yargıtay 8. HD 2014/20929 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98885900)
+
 Az yukarıda değinilen Yargıtay İçtihadı Birleştirme kararı kapsamına göre eldeki davadaki üstün zilyetlik hakkının belirlenmesine ilişkin delillerin irdelenmesine gelince; taraflar arasında nizalı yerde bulunan yapıların davalıya ait olduğu konusunda bir ihtilaf bulunmamaktadır. Davaya konu çay bahçesi davalı tarafından meydana getirilmiş ve inşa edilmiş, davacı tarafından 10.07.2009 tarihli dilekçe ile belediyeye yapılan şikayet ile Belediye Başkanlığı tarafından yıkımı gerçekleşmiştir. Yine dosya kapsamına göre, nizalı yerde hali hazırda davacı tarafından inşa edilen bir yapı vs. de bulunmamaktadır. Öte yandan, sadece vergi veya ecrimisil bedeli ödemek zilyetliğin bulunduğuna kesin karine teşkil etmez. Başka bir anlatımla, somut olayda nizalı taşınmazda fiili kullanımı bulunmayan davacının, sadece vergi (veya ecrimisil) ödemesi, nizalı yere zilyet olduğunun yani fiili hakimiyetinde bulundurduğunun kabulü için yeterli değildir.
 
 ## Yargıtay 1. HD 2014/18440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84364000)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -152,11 +184,15 @@ yapının tamamının da anılan imar parseli içersinde kaldığı, dava konusu
 
 ## Yargıtay 1. HD 2014/17408 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84688600)
+
 Ne var ki, mahkemece, Şişli Belediyesi ile davalı şirket arasında 13.06.1996 tarihinde yapılan sözleşmenin 13. maddesine tutunularak belirlenen ecrimisilden %30 indirim yapılsa da bunun doğru olduğu söylenemez. Şöyle ki, sözleşmedeki bu madde 13.06.2001 tarihine kadar geçerli olup daha sonraki dönemler için uygulanamayacağı açıktır.
 
 Hâl böyle olunca, belirlenen ecrimisile hükmedilmesi gerekirken hükmü kalmayan sözleşme gözetilerek % 30 indirim yapılmak suretiyle ecrimisilin karar altında alınması doğru değildir.
 
 ## Yargıtay 1. HD 2014/9686 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84246200)
 
 Dava, paylı mülkiyette paydaşlar arasındaki ecrimisil isteğine ilişkindir.
 
@@ -168,9 +204,13 @@ O halde davacıların murisinin ölüm tarihinden dava tarihine kadar olan döne
 
 ## Yargıtay 20. HD 2014/7975 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379201700)
+
 Hükmüne uyulan bozma ilâmına, kararın dayandığı gerekçeye ve uzman orman bilirkişi raporlarına göre, çekişmeli taşınmazın kesinleşen orman sınırı dışında, eski ve yakın tarihli resmi belgelerde orman sayılmayan yerlerden olduğu, sınırda bulunan komşu ve taşınmazlarının tescil kararlarının 2004 yılında Yargıtay 8. Hukuk Dairesi tarafından onanarak kesinleştiği, 3402 sayılı Kadastro Kanununun 14. ve 17. maddesinde yazılı imar ve ihyaya dayalı zilyetlikle kazanma koşullarının adına tescil kararı verilen davacı yararına gerçekleştiği, her ne kadar geçmişte çekişmeli taşınmazla ilgili olarak Hazineye ecrimisil ( işgal tazminatı) ödenmişse de; kısa bir süre sonra bununla ilgili idari yargıda iptal davası açıldığı, bu durumda işgal tazminatının zor altında ödendiği ve malik sıfatı ile zilyet olma iradesinin bulunduğu saptanarak yazılı biçimde hüküm kurulmasında isabetsizlik bulunmadığına göre, davalı yerinde görülmeyen temyiz itirazlarının reddi ile usûl ve kanuna uygun olan hükmün ONANMASINA, Harçlar Kanununun değişik 13/j maddesi gereğince harç alınmasına yer olmadığına 23.09.2014 günü oy birliğiyle karar verildi.
 
 ## Yargıtay 5. HD 2013/16999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/268525000)
 
 Dava kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -182,10 +222,14 @@ Hükmedilen ecrimisil bedeline dönem sonlarından itibaren faiz yürütülmesi 
 
 ## Yargıtay 6. HD 2013/14606 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534779400)
+
 Davaya konu ... Cad. No. ..-... adresindeki taşınmaz davalı tarafından 01.02.2004 başlangıç tarihli sözleşme ile davacıya kiraya verilmiştir. Davacı kiracı işyerinin mülkiyetinin dava dışı vakıflar idaresine ait olduğundan bahisle bu durumun ortaya çıktığı Ekim/2006 tarihinden itibaren davalıya kira borcu olmadığının tespitini istemiştir. Kiraya verenin sözleşmeye konu şeyin maliki olması zorunlu değil ise de bir üçüncü kişinin kiralanan üzerinde, kiracının hakkıyla bağdaşmayan bir hak ileri sürmesi durumunda kiraya veren, söz konusu hukuki ayıbı gidermek ve kiracının bu yüzden uğradığı zararları tazmin ile yükümlüdür. Kiraya verenin zapta karşı tekeffül borcu BK.’nun 253. (6098 sayılı TBK.’nun 309)maddesinde düzenlenmiştir. Somut olayda kiralanan taşınmaz ... ve ... nolu parsellere tekabül etmekte olup 29 nolu parselin tümü, 30 nolu parselin ise ½ payının dava dışı Vakıflar idaresine ait olduğu uyuşmazlık konusu değildir. Davacı tarafından dava konusu parsellerin mülkiyet hakkına sahip olan dava dışı Vakıflar idaresine ecrimisil ödenmek zorunda kalındığı bildirilmiştir.
 Kiraya veren kiralananı her türlü maddi ve hukuki ayıptan ari olarak kiracının kullanımına sunmak ve kira müddetince bu hali ile muhafaza etmekle yükümlüdür. Üçüncü kişinin aynî bir hakka dayalı olarak kiralanan üzerinde ileri sürdüğü talepler davalı kiralayanın tekeffülü altındadır. Davacı kiracının menfi tespit istemine konu dönem için dava dışı Vakıflar idaresine ödemek durumunda kaldığı ecrimisil bedellerinin de bu kapsamda değerlendirilmesi zorunludur. O nedenledir ki davacı tarafından menfi tespit …
 
 ## Yargıtay 1. HD 2013/3179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79621100)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -195,6 +239,8 @@ Kabule göre de, davalının 11.01.2012 tarihli ihbar dilekçesi üzerine HMK 61
 
 ## Yargıtay 1. HD 2012/2233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79193300)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ecrimisil ve yıkım isteklerine ilişkindir.
 
 …
@@ -203,13 +249,19 @@ Hal böyle olunca, dava konusu taşınmazın ilk tesisinden itibaren tüm tedav�
 
 ## Yargıtay 3. HD 2012/1670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621356400)
+
 Dava ecrimisil talebine ilişkindir.3533 Sayılı Kanunun 1.maddesi hükmüne göre genel, katma ve özel bütçelerle yönetilen daireler ve belediyelerle sermayesinin tamamı devlete veya belediyelere yahut özel idarelere ait olan daire ve müesseseler arasında çıkan uyusmazlıklardan adalet mahkemelerinin görevi içinde bulunanlar o kanunda yazılı tahkim usulüne göre çözümlenir.Davacı ... Genel Müdürlüğü'nün 2954 Sayılı Yasanın 33 ve devam eden maddeleri uyarınca sermayesinın tamamı devlete ait bulunmadığından, davaya konu olayda 3533 Sayılı Kanunun uygulanma olanağı yoktur. Bu nedenle genel hükümlere göre işin esası incelenip bir karar verilmek üzere hüküm kurulması gerekirken yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK'nın 428.
 
 ## Yargıtay 3. HD 2011/17374 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964970300)
+
 Kira esasına göre ecrimisil belirlenmesinde, dava konusu taşınmazın (arsanın) imar durumu ve belediye hizmetlerinden yararlanıp yararlanmadığı belediye vasıtasıyla araştırılıp tespit edilip niteliğine (arsa) uygun emsal kira sözleşmelerinin ibrazı için taraflara süre verilmeli ve emsal sözleşmeler dosyaya celbedilmeli, keşif esnasında bilirkişilerce re'sen emsal araştırması yapılıp, rayiç belirlenmeli ve somut veriler toplanmalı bu dahi mümkün olmadığı taktirde haksız fiillerde olduğu gibi BK.nun 42/2. maddesi gereğince, hakim ecrimisil bedelini piyasa koşullarına göre takdir etmeli, davalı taşınmazı bizzat kullanmasının objektif değerini ödemeyi mahkum etmelidir. Takdir hakkını kullanırken son alınan bilirkişi raporunu da gözetmelidir. Somut olayda mahkemece yukarıda bahsedildiği şekilde deliller tam olarak toplanmamış ehil olmayan (hukukçu) bilirkişi vasıtasıyla keşif yapılmış ve bu rapora dayanarak hüküm verilmiştir.
 
 ## Yargıtay 1. HD 2011/9251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78712000)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -220,6 +272,8 @@ Hukuk Dairesince onandığı anlaşılmaktadır. omut olayda; kayda üstünlük 
 
 ## Yargıtay 1. HD 2011/4979 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79146200)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkin olup, mahkemece, sadece ecrimisil isteği kabul edilmiş, elatmanın önlenmesi ve yıkım isteği, davacının taşınmazı aldığı sırada davalının kullanımındaki evin taşınmazda bulunduğu, ayrıca tapu kaydında üzerindeki evin davalıya ait olduğunun belirtildiği gerekçesiyle reddedilmiştir.
 
 …
@@ -227,5 +281,7 @@ Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerin
 Kaldı ki, kabul tarzı itibariyle davada ileri sürülen istekler gözetildiğinde, taraflar arasındaki çekişme taşınmazın aynına ilişkin olup davanın nispi harca tabi olacağında da kuşku yoktur. Diğer taraftan, 5737 Sayılı Yasanın 77.maddesinde her nekadar vakıf idaresinin her türlü işlemlerden dolayı harçtan muaf olduğu öngörülmüş ise de, HGK 24.12.2008 tarih 777/788 sayılı kararında belirtildiği üzere, vakıflar yargı harçları yönünden harçtan muaf değildir. Öte yandan, açılan dava nispi harca tabi olduğuna göre davanın görülebilmesi ve sürdürülmesi için Harçlar Yasasının 16.maddesi ve 04.3.1953 tarih 10/2 Sayılı İçtihadı Birleştirme Kararı hükmü uyarınca elatmanın önlenmesi yanında yıkım ve ecrimisil isteği de bulunduğu takdirde, dava değerinin her üç isteğin toplamı olacağı sabittir. Harcın ikmal edilmemesi halinde aynı yasanın 30 ve 32.maddesinde ne gibi işlemler yapılacağı da açıkça belirtilmiştir. Öyleyse, harç ikmali yapılmadan davanın görülmesi ve neticeye bağlanmasının da doğru olduğu söylenemez.
 
 ## Yargıtay 3. HD 2010/19331 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967722100)
 
 Davanın konusu ... İdaresi ile ... arasında ecrimisil talebine ilişkin olup, ecrimisile konu edilen taşınmaz, tapuda davacı ... idaresi adına kayıtlıdır. 3533 Sayılı Kanunun 1. maddesi hükmünce "umumi, mülhak ve hususi bütçelerle idare edilen daireler ve belediyelerle sermayesinin tamamı devlete veya belediyeye veya umumi idarelere ait olan daire ve müesseseler arasında çıkan ihtilaflardan adliye mahkemelerinin vazifesi dahilinde bulunanlar, bu kanunda yazılı tahkim usulüne göre halledilir." Davada taraflar, 3533 Sayılı Kanunun 1. maddesinde gösterilen kuruluşlardandır. Bu kanunun 2570 sayılı kanunla değişik 4. maddesi gereğince aralarındaki uyuşmazlığın "Hakem" sıfatı ile çözümlenmesi gerekmektedir.

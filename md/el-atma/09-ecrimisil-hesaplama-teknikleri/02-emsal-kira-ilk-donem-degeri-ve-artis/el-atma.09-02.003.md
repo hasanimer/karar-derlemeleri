@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2023/6012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/922706700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların kısmen kabulüne karar verilmiştir.
 
 …
@@ -44,6 +46,8 @@ b) Gerekçeli karar başlığında davalı olarak yer alan ''..., ..., ..., ...,
 
 ## Yargıtay 5. HD 2023/5591 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917665300)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -65,6 +69,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 5. HD 2023/5030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911129700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... İl Milli Eğitim Müdürlüğü yönünden husumet yokluğu nedeniyle davanın reddine, davalı ... yönünden davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -85,6 +91,8 @@ mahallinde keşif yapılıp alınacak rapor doğrultusunda hüküm kurulması ge
 Davalı ... vekilinin temyiz itirazlarının reddine, davacılar vekilinin temyiz itirazlarının kabulü ile Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/4863 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980325300)
 
 Davacılar vekili; dava konusu 990 ada 1 parsel ... taşınmazda bulunan 195.598,00 metrekarelik taşınmazın 967 metrekaresinin vekil edenlerine ait olduğunu, bu adanın uzun süredir davalı tarafça sosyal konut alanı olarak kullanıldığını ileri sürerek şimdilik 10.000,00 TL ecrimisilin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline, müdahalenin men'ine ve güvenlik duvarlarının yıkılması ve güvenlik görevlilerinin kaldırılmasına karar verilmesini talep etmiş, 18.05.2018 tarihli dilekçesi ile ecrimisil talebini 149.400,00 TL üzerinden arttırmıştır.
 
@@ -112,6 +120,8 @@ Davalı vekilinin yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kan
 
 ## Yargıtay 5. HD 2023/3411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891305300)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davalılardan ... hakkında açılan davanın husumetten reddine, davalı ... aleyhine açılan davanın kabulüne karar verilmiştir.
 
 …
@@ -134,6 +144,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 7. HD 2023/3007 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916171300)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... yönünden davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -155,6 +167,8 @@ doğrultusunda bilirkişilerden ecrimisil hesabı konusunda denetime elverişli 
 peşin ve ıslah harcı olarak alınan 1.336,35 TL’nin kabul-red oranına göre 1.100,49 TL’sinin davalı ...'dan alınarak davacıya verilmesine,” cümlesinin yazılmasına, hüküm sonucunun 5 inci fıkrasının hükümden çıkarılmasına ve yerine “5- Kabul edilen kısım yönünden; yargılama sırasında davacı kendisini vekille temsil ettirdiğinden karar tarihinde yürürlükte olan AAÜT gereğince 9.309,01 TL nispi vekalet ücretinin davalı ...'dan alınarak kendini vekille temsil ettiren davacıya verilmesine; reddedilen miktar üzerinden 9.200,00 TL maktu vekalet ücretinin davacı taraftan alınarak davalı ...’a verilmesine,” cümlesinin yazılmasına, hüküm sonucunun 6 ncı fıkrasının hükümden çıkarılmasına ve yerine “6- Yargılama sırasında davacı gider avansından karşılanan tebligat ve posta gideri 2.572,55 TL ile bilirkişi ücreti 1.500,00 TL, keşif harcı 170,80 olmak üzere toplamı olan 4.243,35 TL'nin, kabul red oranına göre 3.494,40 TL’den davalı ...'dan alınarak davacıya verilmesine, bakiye gider avansının karar kesinleştiğinde davacıya iadesine,” cümlesinin yazılmasına, hükmün 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 438/7 nci maddesi gereğince DEĞİŞTİRİLMİŞ ve DÜZELTİLMİŞ bu şekliyle ONANMASINA …
 
 ## Yargıtay 5. HD 2023/2907 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898060100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -179,6 +193,8 @@ Davalı idare vekilinin temyiz itirazlarının kısmen kabulü ile temyiz olunan
 
 ## Yargıtay 5. HD 2023/2645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896455600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kamulaştırmasız el atma tazminatı yönünden kısmen kabulüne, ecrimisil talebi yönünden reddine karar verilmiştir.
 
 …
@@ -199,6 +215,8 @@ Davacı vekilinin temyiz itirazlarının kısmen kabulü ile, temyiz olunan kara
 
 ## Yargıtay 7. HD 2023/1354 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898965900)
+
 Davacı vekili; vekil edeninin 1/4 paydaşı olduğu dava konusu 73 ada 15 parsel sayılı taşınmazın 200 m2’lik kısmının davalı tarafça kira sözleşmesi uyarınca, 240 m2’lik kısmının ise sözleşme dışı olarak kullanıldığını belirterek, sözleşme dışı kullanılan 240 m2 kısım için 01.01.2011-30.09.2013 tarihleri arası için 196.800,00 TL ecrimisilin kademeli faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -218,6 +236,8 @@ Yargıtay 8. Hukuk Dairesince: “...Mahkemece ilk defa belirlenen kira bedelini
 Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile temyiz olunan kararda belirtilen gerekçelere göre davacı vekilinin yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/1211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884280100)
 
 Davacı vekili; davalı tarafından kamulaştırmasız elatılan 284 ada 1 parsel sayılı taşınmaza ilişkin olarak ... Asliye Hukuk Mahkemesinin 2012/360 Esas, 2015/473 Karar sayılı dosyasında dava açıldığını, mahkemece mahallinde yapılan keşifte elatmanın tespit edildiğini, yargılama devam ederken belediyenin elatmaya son verdiğini, anılan mahkemenin 02.07.2015 tarihli kararıyla elatmanın vuku bulduğunun belirtildiğini, elatma sona erdiğinden davanın reddine karar verildiğini, belediyenin el attığı döneme ilişkin ecrimisil isteme haklarının bulunduğunu ileri sürerek fazlaya ilişkin hakları saklı kalmak kaydıyla son 5 yıla ilişkin 20.000,00 TL ecrimisilin dava tarihinden itibaren işleyecek yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiştir. 18.04.2016 tarihinde bilirkişi raporuna göre davasını 24.612,00 TL üzerinden ıslah etmiştir.
 
@@ -249,6 +269,8 @@ gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/877 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884160700)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -277,6 +299,8 @@ gerekçesiyle hükmün bozulmasına karar verilmiştir.
 Açıklanan sebeplerle davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/548 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896700900)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 

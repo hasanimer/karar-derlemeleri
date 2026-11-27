@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2014/13893 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84302200)
+
 Dava; elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup mahkemece davanın kısmen kabulüne karar verilmiş, hüküm taraflarca temyiz edilmiştir.
 
 …
@@ -37,6 +39,8 @@ Davacıların ve davalıların bu yöne değinen temyiz itirazları yerindedir. 
 
 ## Yargıtay 1. HD 2014/10795 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84160700)
+
 Dava, paylı mülkiyette paydaşlar arasındaki ecrimisil isteğine ilişkindir.
 
 …
@@ -51,6 +55,8 @@ Davalı vekilinin, bu yöne değinen temyiz itirazları yerindedir. Kabulüyle, 
 
 ## Yargıtay 1. HD 2014/9018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84356600)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -61,6 +67,8 @@ Davacının temyiz itirazının kabulü ile, hükmün açıklanan nedenlerle (61
 
 ## Yargıtay 1. HD 2014/6883 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84110500)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -70,6 +78,8 @@ Bilindiği üzere, 25.05.1938 tarih ve 29/10 sayılı İçtihadı Birleştirme K
 Davalının temyiz itirazları açıklanan yön itibariyle yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/5425 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84186200)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -85,6 +95,8 @@ Davalının, bu yönlere değinen temyiz itirazları yerindedir. Kabulüyle, hü
 
 ## Yargıtay 1. HD 2014/1091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84479900)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -94,6 +106,8 @@ Hal böyle olunca, anılan İçtihadı Birleştirme Kararı ile Borçlar Kanunun
 Davalı İ.. B..nın temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 3. HD 2013/2049 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255686900)
 
 Mahkemece davanın kabülü cihetine gidilerek 7.000,00 TL, eldeki davanın açma tarihi olan 06.11.2006 tarihinden, 231.000,00 TL ek davanın açılma tarihi olan 29.04.2011 tarihinden itibaren yasal faiziyle birlikte davalılardan tahsiline karar verilmiş, hüküm davalılar vekilince temyiz edilmiştir.
 
@@ -107,10 +121,14 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2012/25076 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481811200)
+
 Ancak ecrimisil davaları 5 yıllık zamanaşımına tabidir. Davalı taraf süresi içerisinde zamanaşımı def'inde bulunmuştur. Bu durumda dava tarihinden geriye 5 yıllık dönem olan 19.10.2004 tarihinden önceki ecrimisil talepleri ile ilgili zamanaşımına ilişkin olumlu ve olumsuz bir karar verilmemiş olması; Diğer yandan, ecrimisil davalarında talep halinde dönem sonlarından itibaren kademeli yasal faize hükmolunur. Davacı taraf dava dilekçesinde dönem sonları itibariyle kademeli faiz istemiştir. Bu durumda davacı tarafın kademeli faiz miktarına ilişkin bilirkişiden rapor alınıp bu kademeli faizin temyiz eden davalının lehine olması halinde kademeli faize hükmolunmalı aksi takdirde davalının kazanılmış hakkının ihlal edilmemesi için şimdi hükmolunan faizin lehe olması halinde şimdiki gibi faize hükmolunmalıdır.
 Eksik inceleme ve araştırma ile yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 05.12.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2012/23149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492058200)
 
 Zamanaşımı borcun doğumuyla ilgili olmayıp istenmesini önleyen bir savunma olgusudur. Şu durumda zamanaşımı savunması ileri sürülmedikçe, istemin konusu olan hakkın var olduğu ve kabulüne karar verilmesinde hukuksal ve yasal bir engel yoktur. 25.05.1938 tarih ve 29/10 sayılı İçtihatları Birleştirme Kararı uyarınca ecrimisil davaları 5 yıllık zamanaşımına tabi ise de, kural olarak bu def’i re’sen (mahkemece kendiliğinden) nazara alınamaz. Zira B.K. 140. maddesine göre zamanaşımı ileri sürülmediği takdirde hakim zamanaşımını kendiliğinden dikkate alamaz hükmüne amirdir. Davalının taşınmazı 5-6 yıldır kullanmıyorum beyanı zamanaşımı defi olarak değerlendirilemez. Bu durumda davalı tarafından açıkça zamanaşımı definde bulunulmadığına göre lehine zamanaşımı uygulanamayacağı hususu gözetilmeyerek yalnızca 31.05.2005 ila 13.07.2005 dönemi için ecrimisil bedelinin tahsiline karar verilmesi doğru görülmemiştir.
 
@@ -118,19 +136,27 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2012/20566 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492226600)
+
 Kira esasına göre ecrimisil belirlenmesinde taraflara emsal kira sözleşmelerini sunmaları için süre verilmeli, emsaller ilgili yerlerden celbedilmeli, keşif mahalinde de bilirkişilerce re'sen emsal araştırması yapılmalı, rayiç belirlenmeli, böylece somut veriler toplandıktan sonra ecrimisil istenen ilk dönem kira parası belirlenmeli, bu belirlenen miktara ÜFE yansıtılmak suretiyle sonraki dönemler ecrimisil ve böylece toplam ecrimisil bedeli belirlenmelidir.Somut olayda, dava konusu taşınmazın (arsanın) niteliğine göre emsal kira sözleşmeleri araştırılmamış, rayiç kira belirlenmemiş, somut deliller toplanmamış, hükme esas alınan bilirkişi raporu soyut ve genel ifadeli olup, hüküm kurmaya elverişli değildir. Mahkemece, eksik inceleme ve araştırma ile hüküm kurulmuştur. Diğer yandan, bir kısım davalılar süresi içerisinde zamanaşımı def'inde bulunmuşlardır.
 Mahkemece, bu zamanaşımı def'ileriyle ilgili değerlendirme de yapılmadan (olumlu veya olumsuz karar verilmeden) yazılı şekilde hüküm kurulmuş olması da doğru görülmemiş, bu nedenlerle hükmün bozulması gerekmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/14013 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542394400)
 
 4.6.1958 gün ve 15/6 sayılı Yargıtay İçtihadı Birleştirme Kararı ile ecrimisil, tazminat olarak nitelendirilmiştir. Bu kararın gerekçesinin V inci bendinde “işgal tazminatı davalarının hususi bir şekli olan ecrimisil davalarının beş yılda zamanaşımına uğrayacağı esasını benimsemiş bulunan içtihadı birleştirme kararının henüz baki” olduğu açıklanmış ve ecrimisil davalarının Türk Kanunu Medenisinin 908. maddesine (TMK m.995) dayanan bir tazminat davası olduğu belirtilmiştir.O halde, 29.12.2009 tarihinde açılan bu davada ancak 29.12.2004 tarihine kadar ecrimisil istenebileceği gözetilmeden, 2004 yılı için de ecrimisile hükmedilmesi ve davalının zamanaşımı def’i nazara alınmadan sonuca gidilmesi doğru görülmemiştir.Ayrıca, bilirkişi raporunun denetlenmesi açısından rapora esas alınan 5 yıllık veriler dosyaya konulmamıştır. Dava ecrimisil istemine ilişkin olup, ürün esasına göre ecrimisil miktarı belirlenmiştir. Bu belirleme yapılırken de taşınmazda 1.sınıf kapama susuz bağ yetiştiriciliği yapıldığı tespitinden hareketle, bağın 11-50 yaş grubunda olması esas alınarak hesaplama yapılmıştır. Ancak, davacıların ...
 Asliye Hukuk Mahkemesi tarafından yapılan delil tespitinde, dava konusu taşınmaz üzerinde 10-12 yaşlarında kapama bağ olduğu tespit edilmiştir. Hükme esas alınan bilirkişi raporunda İlçe Tarım Müdürlüğü veri listelerinde 11-50 yaş aralığı için gösterilen 1000 kg verim esas alınmış ise de; bağın dekara verim miktarının yaşı ile doğru orantılı olduğu gözetildiğinde dava konusu yıllarda 10-12 yaş aralığında olan bağdan 1000 kg verim alınması olanaksızdır.Bu durumda ecrimisil hesabı yapılırken resmi veriler ve bağın yaşının esas alınmamış olması doğru değildir. Bunun yanında masraf hesaplanırken de resmi verilerden ayrılmanın somut gerekçesi gösterilmeden çok düşük tutulması uygun görülmemiştir.Mahkemece, tüm dönemlere ilişkin resmi veriler dosyaya konularak, yukarıda belirtilen bu hususunda değerlendirilmesi suretiyle yeniden ek rapor alınması ve sonucuna göre bir karar verilmesi gerekmektedir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/673 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628800300)
+
 25.05.1938 tarih ve 29/10 sayılı Yargıtay İçtihadı Birleştirme kararına göre; ecrimisil davası 5 yıllık zamanaşımı süresine tabidir. Bu 5 yıllık süre dava tarihinden geriye doğru hesaplanır. Somut olayda; davacı bu davada 09.04.2005-09.04.2010 tarihleri arasındaki süre için şartları oluştuğu takdirde ecrimisil talep edebilir.Davacı 09.04.2010 tarihinde dava açarak ecrimisil istediğine göre ve 2008 ürününü kendisinin aldığını beyan ettiğinden dosya kapsamı ve tanık beyanları da dikkate alınmak suretiyle haksız işgal edildiği ileri sürülen 2005-2006-2007 dönemleri için (nadasa bırakılan ve davacının kendisi tarafından ekildiği belirtilen yıllar hariç tutulmak suretiyle) zamanaşımı itirazı reddedilerek işin esasının incelenmesi ve sonucuna göre ecrimisile hükmedilmesi gerekirken; mahkemece, zamanaşımı süresinin beş yıl olduğu gözetilmeden davanın reddine karar verilmiş olması bozma nedenidir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/232 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613768700)
 
 Dosya kapsamından, davacıya ait taşınmazın davalı tarafından işgal edilmesi nedeniyle 01/01/1998-13/07/2005 tarihleri için talep edilen ecrimisil bedelinin tahsili amacıyla 11/11/2009 tarihinde dava açıldığı anlaşılmaktadır.Davalıya dava dilekçesi 25/11/2009 da tebliğ edilmesine rağmen 28/01/2010 tarihli cevap dilekçesinde zamanaşımı def'inde bulunmuş, davacı ise 01/02/2011 tarihinde (4.celsede) zamanaşımı def'inin süresinde olmadığına dair itiraz etmiştir.HUMK'nun 195.maddesi gereğince, dava dilekçesinin kendisine tebliğ tarihinden itibaren 10 gün içinde davalının itirazlarını bildirmesi gerekir. Davalının 10 günlük yasal sürede cevap vermemesi nedeniyle davayı inkar ettiği kabul edilir. Ancak, davalının 10 günlük yasal süreden sonra zamanaşımı def'inde bulunarak savunmasını genişlettiği açıktır.
 Davacı ise davalının savunmasının genişletmesine derhal (hemen) karşı çıkmayıp, yaklaşık 1 yıl sonra cevap vermiştir.Dava, 11.11.2009 tarihinde açıldığına göre bu tarihten geriye doğru 5 yıllık zamanaşımı süresinin başlangıcı 11.11.2004 tarihinin esas alınarak bu tarihten davacının talebi ile bağlı kalınmak suretiyle 13.07.2005 tarihine kadar hesaplanacak ecrimisil bedelinden davalının sorumlu olduğu açıktır.Bu durumda, mahkemece; davacının zımni olarak savunmanın genişletilmesine muvafakat ettiği kabul edilerek davalının zamanaşımı def'inin kabul edilmesi suretiyle, dava tarihinden geriye doğru 5 yıllık (11/11/2004 - 13/07/2005 arası) ecrimisil bedeline karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmemiştir.
@@ -138,6 +164,8 @@ Davacı ise davalının savunmasının genişletmesine derhal (hemen) karşı ç
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2011/8327 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970139300)
 
 Davalı vekili; davanın haksız fiile dayalı olduğunu ve bir yıllık zaman aşımına uğradığını beyanla bu nedenle ve kesin hüküm oluştuğundan bahisle davanın reddini savunmuştur.
 
@@ -155,6 +183,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2011/903 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/962655500)
+
 Davalı ... vekili cevap dilekçesinde; dava konusu taşınmazın 4900 m²'lik kısmının ... A.Ş'nin kullanımında olduğunu, 3400 m²'lik alanın belediyece kullanıldığını, geriye kalan 321 m²'lik alanın ise atıl durumda boş bir alan olduğunu, kaldı ki taşınmazın 537,98 m² alan için kamulaştırma kararı alındığını, talep edilen ecrimisil bedelinin de fahiş olduğunu savunarak; davanın reddini istemiştir.
 
 Mahkemece; bilirkişi raporu esas alınarak, davanın kısmen kabulü ile 496.777,14 TL ecrimisilin her dönem sonu itibariyle işleyecek yasal faiziyle birlikte tahsiline karar verilmiş, hüküm taraf vekillerince süresinde temyiz edilmiştir.
@@ -168,6 +198,8 @@ Bu davada ecrimisil talep edilen dönem 2003-2008 tarihleri arası içindir. Yar
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/14110 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78632400)
 
 Davacı, asıl davasında, kayden paydaşı olduğu 42968 ada 1 parsel sayılı taşınmaza davalı paydaş .. Ticaret A.Ş. tarafından diğer davalı şirkete kiraya verilmek ve bu davalı .. ve Ticaret A.Ş. tarafından da akaryakıt ve fuel-oil deposu olarak kullanılmak suretiyle müdahale edildiğini ileri sürerek, elatmanın önlenmesi, yıkım ve ecrimisil isteklerinde bulunmuş, birleşen davasında da; 42968 ada 1 sayılı parselin ifrazen 2 ve 3 sayılı parsellere ayrıldığını ve her iki parselde de paydaş olduğunu, davalı şirketlerde anılan değişiklikleri yapıldığını ve taşınmaza işgallerini sürdürdüklerini belirterek, asıl dava tarihinden itibaren ecrimisil ile elatmanın önlenmesi ve yıkım istemiştir.
 
@@ -185,6 +217,8 @@ A.Ş.nin sorumlu tutulması gerekeceğinin dikkate alınmamasının da isabetli 
 
 ## Yargıtay 3. HD 2010/11063 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968083700)
+
 Mahkemece; asıl davada (ecrimisil davasında) 91.179,02 TL alacağın 79.715.58 TL'lik asıl ecrimisil alacağı üzerinden dava tarihi olan 25.4.2006 tarihinden hesap edilecek yasal faizi ile birlikte davalıdan tahsili ile davacıya verilmesine, birleşen davanın kısmen kabulü ile 13.485,71 TL'nin dava tarihi olan 22.1.2008 tarihinden hesap edilecek yasal faizi ile birlikte birleşen davanın davalısından tahsili ile birleşen davanın davacısına verilmesine karar verilmiş, hüküm taraf vekilince temyiz edilmiştir.
 
 …
@@ -196,6 +230,8 @@ Yerleşmiş Yargıtay uygulamalarına göre fazlaya ilişkin hakların saklı tu
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2010/10132 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965296300)
 
 Davacılar vekili 3.9.2008 tarihli dava dilekçesinde, davalı ile davacıların iştirak halinde malik oldukları fındık bahçesi ve tarla vasfındaki 13 adet taşınmazın davalı tarafından işgal edildiğini belirterek 2003-2007 yılları için 10.000 TL ecrimisilin davalıdan tahsilini talep etmiştir.
 
@@ -213,6 +249,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2010/6711 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965276200)
+
 Davalı zamanaşımı ve esastan davanın reddini dilemiştir.
 
 Mahkemece davanın kısmen kabulü ile 5.978.00 TL ecrimisilin tahsiline karar verilmiş; hüküm, taraflarca temyiz edilmiştir.
@@ -224,6 +262,8 @@ Mahkemece davanın kısmen kabulü ile 5.978.00 TL ecrimisilin tahsiline karar v
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2010/2858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965891000)
 
 Davalı Kooperatif, davacı arsa paydaşlarının ecrimisil talebinin zamanaşımına uğradığını, davacıların kat karşılığı inşaat sözleşmesi yaptığı yükleniciler tarafından inşaatın yapımının davalı kooperatife devredildiği ve arsa üzerindeki yapının davalı kooperatif tarafından yapıldığı hususunun tartışmasız olduğundan; bu yapının imalat bedeli ödenmeden (ki, hapis hakkı olduğundan) ecrimisil talep edilemeyeceğini savunarak, davanın reddini istemiştir. Davalı ... ise; kendisinin kooperatif başkanı olup, talep edilen ecrimisilden sorumlu tutulamayacağını savunarak, davanın reddini istemiştir.
 
@@ -237,6 +277,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2010/1561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635673100)
+
 Mahkemece davanın kısmen kabulüyle 4.912 TL ecrimisille, 2.386,82 TL sebepsiz zenginleşme tazminatı adı altındaki bedelin tahsiline karar verilmiş, hüküm davalılar vekili tarafından temyiz edilmiştir.
 
 …
@@ -246,6 +288,8 @@ O halde; ecrimisil davalarında uygulanan 5 yıllık zamanaşımı süresi ile d
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## İstanbul BAM 15. HD 2025/830 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159968200)
 
 Bankasına devrolunduğu , dava konusu taşınmazın bilirkişi raporlarında ve tarafların aşamalardaki beyanlarında belirtildiği gibi ..., ..., Benzinlik kısımları itibariyle bir bütün olarak kullanımının değerlendirilmesi gerektiği , asıl ve birleşen dava dosyalarının ilgili dönemleri itibariyle rızaen ödenen fuzuli işgal bedellerinin ilgili dönemler itibariyle mahsubu gerektiği , bu kapsamda 07/10/2018 ve 21/06/2021 tarihli ek raporlar hükme ve denetime uygun bulunduğu , rapor kapsamında asıl ve birleşen davaların talep dönemlerinin, yapılan kısmi ödemelerin, tapu hisselerinin, mülkiyet geçişlerinin gözetildiği görülmekle hükme esas alındığı , ıslahtan sonra zamanaşımı itirazı bulunuyor ise de kısmi ödemenin zamanaşımını kestiği, bu yönden yapılan ödemelerin aynı kullanma/yararlanma iradesine sahip tüm tarafları bağladığına, birleşen dava olan İstanbul 2. Asliye Ticaret Mahkemesinin 2006/366 esas sayı dosyasında;
 Ecrimisil üst tarihi dava tarihinden önceki bir tarih, bu tarihten önceki 5 yıllık süre hesaplamasında ihtar bulunduğundan zamanaşımına uğramış bir kısım bulunmadığına kanaat edildiği Asıl dava (1993/1131E.) kapsamında davacı ... bankasının 6.774,88 TL talebinin bulunduğu, bu ve diğer dosyalardaki ... 9/100 hissesi dışlanarak hesaplama talep ettiği görülmekle bu miktarın 91/100 hisse kaydına göre 6.165,15 TL'sinin kabulüne karar vermek gerektiği ,diğer birleşen dosyalar kapsamında da bu hisse kayıtları dikkate alındığı, Davalı ... A.Ş.'nin iflas dosyası olan Bakırköy ... İcra Dairesinin ... iflas dosyasında iflas dosyasının kapatılmış olduğu, buna göre davalı ... şirketi açısnıdan davanın konusuz kaldığının anlaşıldığı Düzeltmeler;

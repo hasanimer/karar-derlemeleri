@@ -20,17 +20,25 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/769 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200870400)
+
 Hak düşürücü süre; bir hakkın kullanılmasına ilişkin olarak, yasayla, sözleşmeyle ya da mahkeme kararıyla kesin olarak belirlenen ve bu süre içinde kullanılmadığında hakkın varlığını sona erdiren süredir. Hak düşürücü süre kamu düzenine ilişkindir; süreyi belirleyen kurallar buyurucu niteliktedir. Bunun sonucu olarak yargıç ya da diğer yetkililerce kendiliğinden gözetilir. Sürenin geçirilmesi nedeniyle varlığı sona eren hakkı taraflar anlaşarak yeniden canlandıramazlar (Türk Hukuk Lügatı, s. 450). Başka bir anlatımla hak düşürücü süre, hâkim tarafından kendiliğinden göz önünde tutulması gereken, davada “itiraz” olarak başvurulması zorunlu olan ve zamanaşımı gibi “kesme” ve “durma” hükümlerine bağlı olmayan, uyulmama hâlinde “hakkın” kaybına yol açan, diğer bir ifade ile hakkın özünü ortadan kaldıran süredir.
 
 ## Yargıtay HGK 2020/671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615819700)
 
 Oysa şeklen meydana gelmiş bir evliliğin, kanunun taraflarda ya da iradelerinde aradığı niteliklerin eksikliği nedeniyle ortadan kaldırılması gerekiyorsa "yokluk" kavramından değil, "butlan" kavramından söz edilecektir. TMK'nda evlenmenin butlanı "mutlak" ve "nisbi" butlan hâlleri olmak üzere ayrı ayrı düzenlenmiş olup, geçerlilik şartlarındaki sakatlık kamu düzenini ilgilendiriyorsa "mutlak butlan", kamu yararı değil de ilgililerin özel menfaatleri söz konusuysa “nisbi butlan” hâllerinden söz edilir. Bu bağlamda mutlak butlan davasını her ilgili ve savcı açabilir. Nisbi butlan sebepleri ise sadece tarafları ilgilendirdiğinden nisbi butlan davasını sadece ilgili eş ve yasal temsilcinin rızasının arandığı durumlarda yasal temsilci açılabilir. Diğer taraftan mutlak butlan davası her zaman açılabilir; dava açma süreyle sınırlı değildir. Nisbi butlan davasının açılması ise altı aylık ve beş yıllık hak düşürücü sürelere bağlanmıştır. Buna göre hak düşürücü süre içinde dava açılmaması halinde nisbi butlanla sakat olan bir evlenme iptal edilemez, yani geçerli hale gelir.
 
 ## Yargıtay HGK 2016/503 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/233664400)
+
 Önemle vurgulanmalıdır ki; zamanaşımı ve hak düşürücü süreye bağlı olmayan nüfus kaydının düzeltilmesine ilişkin davalarda, her türlü kanıta başvurulabilir (YHGK 11.2.1998 gün ve 2-87/77 sayılı). Şu durumda; zamanaşımı veya hak düşürücü süreye bağlı olmaksızın açılabilen nüfus kaydının düzeltilmesine ilişkin davada resmi kayıt ve belgelere başvurulabileceği gibi tanık da dinlenebilecektir (Özsunay, a.g.e., s. 244; Bilge Öztan, Şahsın Hukuku Hakiki Şahıslar, Ankara 1997, s. 210). Ancak, Nüfus Kanununun 47 nci maddesince yapılan tanımlamalara göre kişisel durumlarda ortaya çıkan “değişiklikler” için mahkeme kararına gerek bulunmamaktadır (TKM m.40, Nüfus Kanunu m.48). Buna karşılık, nüfus kütüklerindeki “doğru olmayan kayıtların” düzeltilmesi için mahkemeden karar alınması zorunludur (TKM m.38, Nüfus Kanunu m.11).
 
 ## Yargıtay HGK 2004/742 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16416900)
 
 C- Yerel mahkemenin ilk kararının özeti; Yerel mahkeme, "Dava Türk Medeni Kanunu'nun 289. maddesinde yer alan nesebin reddi davası olup, davanın (...her halde doğumdan başlayarak 5 yıl içerisinde açılması) gereklidir. Bu süre hak düşürücü süredir. Küçük İrem'in doğum tarihi 4.8.1998 olmasına göre davanın 5 yıl dolduktan sonra açıldığı anlaşılmıştır. Açılan davanın hak düşürücü süre geçmiş olması şekliyle reddine" karar vermiştir.
 
@@ -40,32 +48,46 @@ Soybağının reddi davasında, davanın hak düşürücü süre içerisinde aç
 
 ## Yargıtay 2. HD 2022/10508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878335800)
+
 Davalı-davacı erkeğin boşanma davası, Türk Medeni Kanununun 161. maddesinde yer ... zina hukuki nedenine dayanmakta olup, mahkemece davanın Türk Medeni Kanununun 161. maddesi yönünden kabul edildiği, hükmün davacı-davalı kadın tarafından Türk Medeni Kanununun 161. maddesi kapsamında kabul edilen boşanma davası yönünden temyiz edildiği anlaşılmaktadır. Türk Medeni Kanununun 161. maddesi uyarınca, davaya hakkı olan eşin boşanma sebebini öğrenmesinden başlayarak altı ay ve her halde zina eyleminin üzerinden beş yıl geçmekle dava hakkı düşer. Davalı-davacı erkeğin, 22.07.2015 doğumlu ...'nın babası olmadığını 18.09.2019 tarihli DNA raporu ile öğrendiği, boşanma davasını da 22.01.2020 tarihinde açtığı anlaşılmaktadır. Davalı-davacı erkek her ne kadar öğrenme tarihinden itibaren 6 ay dolmadan dava açmış ise de, ...'nın doğumuna sebebiyet veren zina eyleminden itibaren beş yıldan fazla bir sürenin geçtiği anlaşılmaktadır. Toplanan delillerden, davacı-davalı kadının başka bir zina eylemi de kanıtlanamamıştır. Gerçekleşen bu durumda zina nedeniyle boşanma davasının yasada öngörülen zina eyleminden itibaren beş yıllık hak düşürücü süre içerisinde açılmadığı anlaşılmaktadır.
 Durum böyleyken, davalı-davacı erkeğin zina (TMK.md.161) hukuki sebebine dayalı boşanma davasının mahkemece resen gözönüne alınması gereken hak düşürücü süre nedeniyle reddi gerekirken, yazılı olduğu şekilde kabulüne karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/6946 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423142300)
+
 Zina (TMK m.161) hukuksal sebebine dayanan boşanma davalarında yasada öngörülen altı aylık hak düşürücü süre, süre gelen eylemlerde, son eylemin bittiği tarihten itibaren başlar. Davalının bir başka kadınla birlikte yaşamasının devamlılık arz ettiği ve bu birliktelikten çocuklarının olduğu, tanık beyanları ve davalının sosyal-ekonomik durumunun tespiti için kolluk tarafından düzenlenen araştırma tutanağı içeriğinden anlaşılmaktadır. Bu durumda, zina için öngörülen altı aylık sürenin son eylem tarihinden başlayacağı düşünülmeden, olayın tek eylem gibi değerlendirilip, zina (TMK m.161) hukuki sebebine dayanan boşanma davasının kabulü koşulları oluşmuş olmasına rağmen davanın hak düşürücü süreden reddedilmesi doğru bulunmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2017/4939 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359992300)
+
 1-) HMK'nın 320/2. maddesi uyarınca daha önce karar verilmeyen hallerde mahkeme, ilk duruşmada dava şartları ve ilk itirazlarla hak düşürücü süre ve zamanaşımı hakkında tarafları dinler; daha sonra tarafların iddia ve savunmaları çerçevesinde, anlaştıkları ve anlaşamadıkları hususları tek tek tespit eder. Uyuşmazlık konularının tespitinden sonra hâkim, tarafları sulhe veya arabuluculuğa teşvik eder. Tarafların sulh olup olmadıkları, sulh olmadıkları takdirde anlaşamadıkları hususların nelerden ibaret olduğu tutanağa yazılır; tutanağın altı hazır bulunan taraflarca imzalanır. Tahkikat bu tutanak esas alınmak suretiyle yürütülür.
 
 ## Yargıtay 2. HD 2015/22270 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390348500)
 
 Davacı erkeğin boşanma davası, Türk Medeni Kanununun 161. maddesinde yer alan "..." ve 166/1. maddesinde yer alan "evlilik birliğinin temelinden sarsılması" sebeplerine dayanmakta olup, mahkemece davanın Türk Medeni Kanununun 161. maddesi yönünden kabul edildiği, Türk Medeni Kanununun 166/1. maddesi yönünden ise herhangi bir karar verilmediği, hükmün davalı kadın tarafından Türk Medeni Kanununun 161. maddesi kapsamında kabul edilen boşanma davası yönünden temyiz edildiği anlaşılmaktadır. Türk Medeni Kanununun 161. Maddesi uyarınca, davaya hakkı olan eşin boşanma sebebini öğrenmesinden başlayarak altı ay ve her halde ... eyleminin üzerinden beş yıl geçmekle dava hakkı düşer. Davacının, 29.11.2007 doğumlu ... babası olmadığını 15.01.2013 tarihli DNA raporu ile öğrendiği, boşanma davasını da 17.04.2013 tarihinde açtığı anlaşılmaktadır. Davacı her ne kadar öğrenme tarihinden itibaren 6 ay dolmadan dava açmış ise de, ... doğumuna sebebiyet veren ... eyleminden itibaren beş yıldan fazla bir sürenin geçtiği anlaşılmaktadır. Toplanan delillerden, davalı kadının başka bir ... eylemi de kanıtlanamamıştır.
 Gerçekleşen bu durumda ... nedeniyle boşanma davasının yasada öngörülen ... eyleminden itibaren beş yıllık hak düşürücü süre içerisinde açılmadığı anlaşılmaktadır. Durum böyleyken, davacı erkeğin ... (TMK.md.161) hukuki sebebine dayalı boşanma davasının hak düşürücü süre nedeniyle reddi gerekirken, yazılı olduğu şekilde kabulüne karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2014/23684 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/298378600)
+
 Davacı (kadın)'ın boşanma davası, Türk Medeni Kanununun 161. maddesinde yer alan "zina" ve 166/1. maddesinde yer alan "evlilik birliğinin temelinden sarsılması" sebeplerine dayanmaktadır. Zina (TMK m. 161), yasal koşullar gerçekleştiğinde başkaca hiçbir şey aranmaksızın mutlak olarak boşanmayı sağladığı için özel boşanma sebeplerindendir. Özel boşanma sebebi gerçekleştiğinde, evlilik birliğini derin ve onarılamaz bir şekilde sarstığı yasa koyucu tarafından baştan karine olarak kabul edilmiştir. Bu karine dolayısıyladır ki, ayrıca evlilik birliğinin temelinden sarsılmış olup olmadığı araştırılmamakta, olayların ispatlanması halinde (af veya dava hakkı düşmedikçe) boşanmaya karar verilmektedir. Başka bir ifade ile zina veya diğer özel boşanma sebeplerinden biriyle karşılaşan eş, dilerse bu özel sebeplerden birine ya da bir kaçına, dilerse genel boşanma sebebine dayanarak boşanma davası açabileceği gibi, özel ve genel nitelikte sebeplerinden ikisine birlikte dayanarak da boşanma talep edebilir. Bu son halde, kanundaki özel boşanma sebebi ispatlanmış ise, af veya dava hakkının düşmesi gibi bir durum da söz konusu değilse, özel sebebe dayanılarak boşanma kararı verilmesi gerekir.
 Zina (TMK md. 161) sebebine dayanan boşanma davalarında, yasada öngörülen hak düşürücü süre, süre gelen eylemlerde, son eylemin bittiği tarihten itibaren başlar. Davalı (koca)'nın başka bir kadınla karı-koca gibi birlikte yaşamasının devamlılık arz ettiği, bu kadınla davanın açıldığı tarihte de birlikte yaşamın devam ettiği tanıklarca ifade edildiğine göre, altı aylık hak düşürücü sürenin sona erdiğinden söz edilemez. Hal böyle olunca, davanın süresinde açıldığının ve kocanın zina eyleminin gerçekleştiğinin kabulü gerekir. Öyleyse, kadının boşanma davasının, kocanın sübut bulan zinası sebebiyle (TMK md. 161) kabulü gerekirken, sadece Türk Medeni Kanununun 166/1. maddesi gereğince boşanma kararı verilmesi doğru olmamıştır. Hükmün bu sebeple bozulması gerekiyor ise de, gösterilen gerekçe doğru olmasa bile verilen boşanma kararı sonucu bakımından usul ve yasaya uygun olduğuna göre, boşanma hükmünün gerekçesinin değiştirilmesi suretiyle hükmün onanması usulen imkan dahilinde olduğundan (HUMK md. 438/son) bozma yapılmamış, davalı (koca)'nın tüm, davacı (kadın)'ın ise aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yerinde görülmemiştir.
 
 ## Yargıtay 2. HD 2012/14045 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83330100)
+
 Zina nedenine dayalı boşanma davalarında altı aylık hak düşürücü süre, temadi eden eylemlerde son eylemin bittiği tarihten başlar. Davalının zinasının devamlılık arz ettiği, tanık beyanları ve davalının sosyal ve ekonomik durumunun tespiti için kolluk tarafından düzenlenen 21.04.2011 tarihli tutanak içeriğinden anlaşılmaktadır. Bu durumda zina için öngörülen altı aylık sürenin son eylemden itibaren başlayacağı düşünülmeden, olayın tek eylem gibi değerlendirilip, "zina (TMK. md. 161)" sebebine dayalı boşanma davasının kabulü koşulları oluşmuş olmasına rağmen; davanın hak düşürücü süreden reddedilmesi doğru bulunmamıştır.
 
 ## Yargıtay 3. HD 2010/12535 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968830600)
 
 Maddede öngörülen bu süre hak düşürücü süre olup, re'sen mahkemece dikkate alınması gerekir. Davacı, nafakanın ödeme biçimine göre dava tarihinden geriye doğru bir yıllık süre içerisinde ödediği nafaka miktarının istirdadını talep edebilir. Bu husus gözetilmeden, müşterek çocuğun reşit olduğu tarihten itibaren ödenen nafakaların istirdadı cihetine gidilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
@@ -75,8 +97,12 @@ Maddede öngörülen bu süre hak düşürücü süre olup, re'sen mahkemece dik
 
 ## Antalya BAM 11. HD 2025/795 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176672100)
+
 6101 sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanun'un 5. maddesinde ise "Türk Borçlar Kanununun yürürlüğe girmesinden önce işlemeye başlamış bulunan hak düşürücü süreler ile zamanaşımı süreleri, eski kanun hükümlerine tabi olmaya devam eder. Ancak, bu sürelerin henüz dolmamış kısmı, Türk Borçlar Kanunu'nda öngörülen süreden uzun ise, yürürlüğünden başlayarak Türk Borçlar Kanunu'nda öngörülen sürenin geçmesiyle, hak düşürücü süre veya zamanaşımı süresi dolmuş olur" düzenlemesi yer almaktadır.
 
 ## İzmir BAM 17. HD 2022/386 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/734062400)
 
 Toplanan delillere göre, davacı iddialarının ikrah sebebine dayandığı, 6098 sayılı Borçlar Kanunu’nun 37-39 maddesi gereğince davanın korkutmanın etkisinin ortadan kalktığı günden itibaren 1 yıllık hak düşürücü süre içerisinde açılabileceği, davalı ... tarafından, davacı hakkında tehdit, kişiyi hürriyetin yoksun kılma suçlarından açılan kamu davalarında verilen beraat kararlarının 02.06.2016 ve 26.02.2016 tarihlerinde kesinleştiği, eldeki davada korkunun ortadan kalktığı gün olarak davacı vekilinin İzmir Cumhuriyet Başsavcılığı’na dava konusu olay ile ilgili olarak intikal ettirdiği 30.06.2016 havale tarihli şikayet dilekçesinin tarihinin esas alınması gerektiği, bu tarihden itibaren iş bu menfi tespit davasının açıldığı 30.01.2018 tarihine kadar 1 yıllık hak düşürücü sürenin geçirildiği anlaşılmakla davacının davasının hak düşürücü süre içerisinde açılmaması nedeniyle reddine karar vermek gerektiği...'' gerekçesi ile Davacının menfi tespit davasının, TBK.nun 39. maddesinde belirtilen hak düşürücü süre içinde açılmadığı anlaşıldığından REDDİNE, karar verilmiş, verilen bu karara karşı davacı vekili tarafından istinaf kanun yoluna başvurulmuştur.

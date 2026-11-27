@@ -22,16 +22,22 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 16. HD 2021/226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647812100)
+
 Ayrıca keşifte dinlenecek yerel bilirkişi ve tanıklardan, taşınmazların öncesinin ne olduğu, kim veya kimler tarafından, hangi tarihten beri ve ne şekilde kullanıldığı, taşınmazda asli zilyet olup olmadıkları sorulup etraflıca sorulup maddi olaylara dayalı olarak açıklattırılmalı; yerel bilirkişiler ve tanıkların sözleri arasında doğabilecek çelişkiler gerektiğinde yüzleştirme yapılarak giderilmeye çalışılmalı; ziraatçı bilirkişiden taşınmazın toprak yapısını, önceki ve halen mevcut niteliğini ve zilyetlikle mülk edinilebilecek yerlerden olup olmadığını komşu taşınmazlarla karşılaştırmalı şekilde açıklayan, bilimsel esaslara ve somut verilere dayalı, ayrıntılı ve gerekçeli rapor alınmalı; fen bilirkişisinden ise, keşfi takibe ve denetlemeye olanak verir rapor ve kroki alınmalı, tanık ve yerel bilirkişi ifadeleri bilimsel esaslara ve maddi bulgulara dayanılarak hazırlanan söz konusu bilirkişi raporlarıyla denetlenmeli, taşınmazın orman içi açıklık olması halinde zilyetlikle iktisabının mümkün olamayacağı, öncesinin orman veya 6831 sayılı Kanun'un 1/J maddesi kapsamında eğimi % 12'yi aşan ve dolayısıyla toprak muhafaza karakteri taşıyan çalılık niteliğinde olduğunun anlaşılması
 halinde, orman kadastrosunun kesinleştiği tarihten dava tarihine kadar yeterli zilyetlik süresinin dolup dolmadığı gözetilmeli; taşınmazın orman sayılmayan yerlerden olduğunun anlaşılması halinde ecrimisil belgeleri uygulanarak, taşınmaza ait olduğunun belirlenmesi halinde ödemenin icra baskısı nedeniyle olup olmadığı araştırılmalı, Hukuk Genel Kurulunun 2003/8-592 Esas, 2003/508 Karar ve 24.09.2003 tarihli kararında da belirtildiği gibi zilyetlikle kazanım koşulları lehine gerçekleşen kişilerin cebri icra (zorlayıcı yaptırım) tehdidi altında Hazineye ecrimisil ödemiş bulunmalarının aleyhlerine yorumlanmayacağı, ödeme sırasında ihtirazı kayıt ileri sürülmemesinin de Hazinenin üstün mülkiyet hakkını kabul anlamına gelmeyeceği göz önünde bulundurulmalı, bundan sonra tarafların iddia ve savunmaları çerçevesinde toplanan tüm deliller birlikte değerlendirilerek sonucuna göre bir karar verilmelidir.
 
 ## Yargıtay 14. HD 2020/8220 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631770100)
 
 Kural olarak, meraların kuru mülkiyeti Hazineye, yararlanma hakkı köy ve belediyelere aittir. Meradan yararlanma hakkı olan köy ve belediyeler yoksun kaldıkları yararlanma nedeniyle haksız elatmanın kaldırılmasını, hayvanlarının yararlanamaması sebebiyle ot bedelini, mülkiyet hakkı sahibi olan Hazine ise, haksız elatmanın giderilmesi ve bunun dışında 4342 sayılı Mera Kanununun 4/4 maddesine dayanarak meralarda meydana gelen tahribat sebebiyle eski hale getirme masraflarının tahsilini haksız eylem sahibinden isteyebilir. Diğer taraftan Mera Kanunu 12.maddesi ve mera Yönetmeliğinin 7. maddesinde ihtiyaç fazlası meraların kiralanma usul ve esasları düzenlenmiş olup buna göre kiralama işlemleri İl Mera Komisyonlarının yetki kapsamındadır. Bu hükümler uyarınca yapılan değerlendirme sonucunda haksız işgal tazminatını da köy tüzel kişiliği değil mülkiyet hakkı sahibi Hazine isteyebilir.
 
 Davacı ... kullanım hakkına dayanarak sadece yoksun kaldığı otun bedelini talep etme hakkı bulunmakta olup ecrimisil isteyemez. Bu nedenle ecrimisil isteminin kabulü doğru görülmemiş hükmün bozulması gerekmiştir …
 
 ## Yargıtay 8. HD 2020/6888 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/630657900)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -42,6 +48,8 @@ Ne var ki dosya arasında davalı tarafından sunulan karar örneğinin sureti k
 
 ## Yargıtay 8. HD 2020/3453 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648309000)
+
 Dava, itirazın iptali istemine ilişkindir.
 
 Dosya içerisinde bulunan 01.01.2003 başlangıç tarihli kira sözleşmesinin hususi şartlar başlıklı bölümünün 1. maddesinde davalının dava konusu taşınmazda 2886 sayılı Kanun'un 75. maddesine göre kiracı olduğu, Belediye Encümeni'nin 19.12.2002 tarihli ve 1268 sayılı kararı ile 01.01.2003 tarihinden 31.12.2003 tarihine kadar kira süresinin uzatıldığı, bu sürede davalının kiracı olduğu; 13.07.2005 tarihli Resmi Gazete'de yayımlanarak yürürlüğe giren 5393 sayılı Kanun'un 15. maddesinin 6. fıkrasının "...2886 sayılı Devlet İhale Kanununun 75 inci maddesi hükümleri belediye taşınmazları hakkında da uygulanır" şeklindeki hükmünde belediye taşınmazlarının da 2886 sayılı Kanun'un 75. maddesinden yararlanacağının öngörüldüğü, 2886 sayılı Devlet İhale Kanunu'nun 75. maddesine göre, süre bitiminden itibaren ecrimisil alınacağı, aynı Kanun'un 1. maddesi uyarınca usulüne uygun yeni bir sözleşme yapılmadıkça kiracının fuzuli şagil olacağı, kira parasının kiracı tarafından ödenmiş olmasının kira sözleşmesinin yenilendiği anlamına gelmeyeceği düzenlenmiştir.
@@ -50,10 +58,14 @@ Mahkemenin de kabulünde olduğu üzere, taraflar arasındaki kira sözleşmesi 
 
 ## Yargıtay 16. HD 2020/2876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621893800)
+
 Çekişmeli taşınmaz bölümünün, bölgede 5602 sayılı Kanun uyarınca yapılan kadastro sırasında tescil harici bırakıldığı, öncesinde Sakarya Nehrinin yatağı iken yatak değiştirmesi sonucunda davacıların murisi ... tarafından bitişiğinde bulunan 888 parsel (yenileme ile 104 ada 1) ile birlikte 1960’lı yıllarda zilyet ve tasarruf edilmeye başlandığı, taşınmaz başında yapılan keşif sonucunda, jeodezi ve fotogrametri uzmanı bilirkişi tarafından sunulan raporda, taşınmaz bölümünün 1978 ve 1991 tarihli hava fotoğraflarına göre sürülmüş, nadasa bırakılmış, sabit sınırlarının şimdiki haliyle mevcut olduğunun, ziraatçı ve jeolog bilirkişi raporunda ise, 2. sınıf tarım arazisi niteliğinde olup, dere yatağı niteliğinde bulunmadığının bildirildiği anlaşılmaktadır. Her ne kadar;
 Hazine tarafından 27.05.2010 tarihli ecrimisil ihbarnamesi düzenlenmiş ve davacılardan ... tarafından 27.05.2010 tarihli dilekçe ile ecrimisilin taksitle ödenmesi hususunda talepte bulunulmuş ise de; aralarında elbirliği mülkiyeti ilişkisi bulunan davacılardan birinin ecrimisil ihbarnamesini alması (tebellüğ etmesi) ve ödeme taahhüdünde bulunmasının diğer mirasçılar aleyhine hüküm ifade etmeyeceği göz önüne alındığında dosya kapsamına göre davacılar lehine TMK’nın 713 ve 3402 sayılı Kadastro Kanunun 14. maddesinde öngörülen imar ihyaya dayalı zilyetlikle taşınmaz edinme koşullarının oluşmuş olması nedeniyle verilen kararda isabetsizlik bulunmadığından yerel mahkeme hükmünün onanmasına karar verilmesi gerekirken, maddi hataya dayalı olarak bozulduğu anlaşılmakla;
 
 ## Yargıtay 3. HD 2019/8092 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549768800)
 
 2886 Sayılı Devlet İhale Kanununun 5737 Sayılı Kanunun 79/c maddesi ile değişik “Ecrimisil ve Tahliye” başlıklı 75.maddesinin 3. ve 4.fıkrasında; “kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde, sözleşmede hüküm var ise ona göre hareket edilir. Aksi halde ecrimisil alınır. İşgal edilen taşınmaz mal, idarenin talebi üzerine bulunduğu yer mülkiye amirince en geç onbeş gün içinde tahliye ettirilerek, idareye teslim edilir.” hükmü bulunmaktadır. Bu madde önceleri sadece Hazine tarafından bu kanun hükümlerine göre kiraya verilen taşınmazlar hakkında uygulanırken, 13.7.2005 tarihinde yürürlüğe giren 5393 Sayılı Belediye Kanununun 15/p-3 maddesi hükmüyle Belediyeye, 5538 Sayılı Kanunun 26/b maddesi uyarınca İl Özel İdarelerine ve son olarak 5737 Sayılı Kanunun 79/c maddesi uyarınca Vakıflar Genel Müdürlüğüne ait taşınmazlar hakkında da
 
@@ -61,17 +73,25 @@ Hazine tarafından 27.05.2010 tarihli ecrimisil ihbarnamesi düzenlenmiş ve dav
 
 ## Yargıtay 8. HD 2018/19072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465028800)
+
 Ne var ki, eldeki dava, davacının çekişme konusu odaları fuzulen işgal ettiği iddiası ile gönderilen ecrimisil ihbarnamesi nedeniyle borçlu olunmadığının tespiti isteği olduğuna göre; anılan isteğin 4721 sayılı Türk Medeni Kanunu hükümlerinden kaynaklandığı ve uyuşmazlığın çözümünün 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 2/1. maddesi uyarınca Asliye Hukuk Mahkemesi'nin görevinde bulunduğu kuşkusuz olup, Asliye Hukuk Mahkemesi tarafından işin esasının incelenmesi gerekir.
 
 ## Yargıtay 3. HD 2018/9460 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/444346200)
 
 2886 sayılı yasa hükümlerine göre ihale ile kiraya verilen taşınmazların kira sözleşmeleri, 2886 sayılı kanunun 75.maddesine göre kira süresinin bitimi ile yasal olarak sona erer. Sözleşmenin sona erdiği tarih itibariyle taraflar arasındaki kira ilişkisi sona erdiğinden kiracı haksız işgalci durumunda olur. Belirtildiği üzere 2886 sayılı yasanın …
 
 ## Yargıtay 8. HD 2018/9365 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/416700400)
+
 Somut olayda, Hazine'ye ait taşınmazdaki üstün zilyetliğin kimde olduğu hususunun araştırılması gerekir. Bunun için, taraflara varsa tüm delillerini bildirmeleri için süre ve imkan tanınması, Çivril Mal Müdürlüğüne müzekkere yazılarak nizalı taşınmaza dair tapunun tesis tarihinden itibaren tutulan idari tahkikat tutanakları, gönderilen ecrimisil ihbarnameleri, ödeme evrakları vb tüm kayıtların istenmesi, tanık deliline dayanan tarafların tanıklarının 6100 sayılı HMK'nın 243 ve 244. maddeleri (HUMK'nın 258 ve 259. maddeleri) hükmü uyarınca keşif yerinde hazır bulunmak üzere davetiye ile çağırılmak suretiyle mümkün olduğunca taşınmaz başında yapılacak keşifte maddi vakıalara göre dinlenilmeleri, üstün zilyetliğin kimde olduğunun kendilerinden ayrıntılı olarak sorulup belirlenmesi, beyanları arasında aykırılık çıktığı taktirde usulüne uygun olarak çelişkinin giderilmesine çalışılması, davalının kullanımında olduğu iddia edilen kısmın ödendiği belirtilen ecrimisiller kapsamında kalıp kalmadığının tespit edilmesi ondan sonra uyuşmazlık hakkında hüküm kurulması gerekirken yazılı gerekçeyle davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 16. HD 2018/8310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471161800)
 
 Dava, kadastrodan önceki haklara dayanan tapu iptali ve tescil istemine ilişkindir.
 
@@ -84,15 +104,21 @@ Dosyadaki bilgi ve belgelere göre, devletin hüküm ve tasarrufu altındaki zil
 
 ## Yargıtay 20. HD 2018/7481 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465683100)
+
 Dava tescil davası olup, 4721 sayılı TMK’nın 713/3 maddesi uyarınca Hazineye ve ilgili kamu tüzel kişilerine karşı açılır. Somut olayda taşınmazın bulunduğu köyün bağlı olduğu ilçe belediyesi davaya dahil edilmiş ise de hüküm tarihinden önce yayımlanarak yürürlüğe giren 6360 sayılı Kanun uyarınca büyükşehir belediyesinin de davada taraf olarak yer alması yasal zorunluluk haline gelmiştir. Bu nedenle... Büyükşehir Belediyesinin de davada taraf olarak yer alması gerekir. Ayrıca dava tarihinden 15-20 yıl önceki hava fotoğrafları yöntemince incelenerek taşınmazlarda kullanım olup olmadığı araştırılmamış, davacı taşınmazların zilyetliğini devraldığını iddia ettiğine, ibraz ettiği senetlerde taşınmazların ... adlı kişiler tarafından zilyetliğin devreldiği öne sürüldüğüne, keşifte dinlenen mahalli bilirkişiler tarafından davaya konu taşınmazların ...ailesi tarafından imar ihya edildiği, davacıya devredildiği tarihe kadar tarım arazisi olarak kullanıldığı, 2010 yılında zilyetliğin devredildiği anlatıldığına, dosya ekinde bulunan... 4.
 Asliye Hukuk Mahkemesinin 1992/526 Esas sayılı dava dosyasında ...adına zilyetlik şartları oluştuğu gerekçesiyle toplam 97.500,00 m2 yüzölçümde taşınmazın tescil edildiğine ve adı geçenler adına bu şekilde tapu oluştuğuna göre 3402 sayılı Kanunun 14/1 maddesi uyarınca 40/100 dönüm norm kısıtının aşılıp aşılmadığı değerlendirilmemiştir. Bunun yanında Hazine tarafından davacının dava konusu taşınmazlar için ecrimisil ödediği yönündeki iddiası da araştırılarak taşınmazlarda malik sıfatıyla zilyetliğin bulunup bulunmadığı da irdelenmemiştir.
 
 ## Yargıtay 16. HD 2018/2534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421556200)
+
 3402 sayılı Yasa'nın Ek-4. maddesi, "6831 sayılı Yasa'nın 20.06.1973 tarihli Kanunla değişik 2. maddesinin (B) bendine göre ... ... komisyonlarınca ... adına ... sınırları dışına çıkarılan yerler, fiili kullanım durumları dikkate alınmak ve varsa üzerindeki muhdesatın kime veya kimlere ait olduğu ve kim veya kimler tarafından ne zamandan beri kullanıldığı, ... tutanağının beyanlar hanesinde gösterilmek suretiyle bu Kanun'un 11. Maddesinde belirtilen askı ilanı hariç diğer ilanlar yapılmaksızın öncelikle kadastrosu yapılarak ... adına tescil edilir" hükmünü taşımaktadır. "Kullanım kadastrosu" olarak isimlendirilen bu çalışmanın amacı, 2/B sahalarını, fiili kullanım durumlarını dikkate alarak parsellere ayırmak ve bu taşınmazları 2/B alanı olarak ... adına tescil ederken, taşınmazlar üzerinde tespit günü itibariyle fiili kullanımı bulunanları ve muhdesatları tespit ederek tapunun beyanlar hanesinde göstermektir. Bu maddeye dayanılarak açılacak davalarda kabul kararı verilebilmesi için öncelikle davacı tarafın taşınmazı kullandığının ispat edilmesi gerekmektedir.
 Diğer bir anlatımla, kullanım kadastrosu sırasında beyanlar hanesinde kullanıcı olarak gösterilebilecek kişiler, ... tespiti sırasında çekişmeli taşınmazı ekonomik amacına uygun olarak fiilen asli zilyet olarak kullanan kişilerdir. Somut olayda, davacılar ... ve ...'ın taşınmazdaki zilyetliklerine ilişkin delil olarak ecrimisil ihbarnamelerini sundukları, söz konusu ecrimisil ihbarnamesine ek krokiye göre, ecrimisile konu olan taşınmazın çekişmeli taşınmaz olmayıp, çekişmeli taşınmaz bölümünün boş alan olarak gösterildiği, bu hususun keşif sonrası dosyaya ibraz edilen uzman teknik bilirkişi raporu ile de belirlendiği, keşifte dinlenen mahalli bilirkişiler ile tespit bilirkişilerinin taşınmazın davacılar ... ve ...'ın kullanımlarının bulunmadığı yönündeki beyanları birlikte değerlendirildiğinde çekişmeli taşınmazda davacıların kullanımlarının bulunmadığı anlaşılmaktadır. Hal böyle olunca; mahkemece davanın reddine karar verilmesi gerekirken çekişmeli taşınmazın davacı ... ve ...
 
 ## Yargıtay 11. HD 2018/377 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404472400)
 
 Hazine'ye ait taşınmazların işgali halinde tahakkuk ettirilecek ecrimisilin nasıl hesaplanacağına dair Maliye Bakanlığı tarafından çıkarılan 2007 tarihli Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik bulunmaktadır. Yönetmeliğin 84. ve devamı maddelerinde konuya ilişkin düzenlemelere yer verilmiş olup, buna göre; Hazine taşınmazlarının kişilerce işgale uğradığının tespit edilmesi hâlinde, tespit tarihinden itibaren onbeş gün içinde Taşınmaz Tespit Tutanağı'na dayanılarak ecrimisil idarece tespit edilir. Taşınmaz Tespit Tutanağında; işgalin başlangıç tarihi, taşınmazın işgale veya kullanıma konu olan yüzölçümü, işgalcileri, kullanım amacı, ecrimisil takdirinde yararlanılabilecek bilgiler ile bilinmesinde yarar görülen diğer bilgilere yer verilir. Ecrimisilin tespit ve takdirinde, idarenin zarara uğrayıp uğramadığına, işgalcinin kusurlu olup olmadığına ve taşınmazın işgalci tarafından kullanım şekline bakılmaksızın idarenin bu taşınmazdan işgalden önceki hâliyle elde edebileceği muhtemel gelir esas alınır.
 Ecrimisilin tespitinde, aynı yer ve mahalde bulunan emsal nitelikteki taşınmazlar için oluşmuş kira bedelleri veya ecrimisiller, varsa bunlara ilişkin kesinleşmiş yargı kararları, gerektiğinde ilgisine göre belediye, ticaret odası, sanayi odası, ziraat odası, borsa gibi kuruluşlardan veya bilirkişilerden soruşturulmak suretiyle edinilecek bilgiler ile taşınmazın değerini etkileyecek tüm unsurlar göz önünde bulundurulur. Ancak tespit ve takdir edilen ecrimisil bedeli kira bedelinden az olamaz. O halde, dosya kapsamında bulunan ve somut veri ve dayanaklar içermeyen bilirkişi raporuna itibar edilemeyeceği dikkate alındığında, yukarıda ifade edilen Yönetmelik hükümleri gözetilerek Hazine'ye ait taşınmazdaki reklam panosuyla ilgili olarak idarenin talep edebileceği ecrimisil bedelinin denetime elverişli olacak şekilde tespiti için yeni bir bilirkişi raporu alınarak sonuca varılması gerekirken eksik incelemeye dayalı olarak davanın kısmen kabulüne karar verilmesi doğru olmamış, bozmayı gerektirmiştir.
@@ -100,6 +126,8 @@ Ecrimisilin tespitinde, aynı yer ve mahalde bulunan emsal nitelikteki taşınma
 Ayrıca, davalının yargılama süresince savunduğu üzere, davacının reklamı bulunan panonun mahalden ne zaman kaldırıldığı ve işgalin hangi tarihte son bulduğunun da belirlenerek işgal süresinin tespit edilmesi gerektiği, tespit tutanağında panonun 2005 yılı ortalarında kaldırıldığı ifade edilirken davalı tarafından Eylül 2006 tarihi itibariyle kaldırıldığının ifade edildiği, bu hususta tereddüte mahal vermeyecek bir tespitte bulunulmadığı, buna rağmen 2006 yılı sonuna kadar işgal devam etmiş gibi idare tarafından ecrimisil tahakkuk ettirildiği gözetildiğinde, davacı tarafın işgale son verdiği tarihin de tespiti ile işgal süresinin belirlenmesi ve buna göre ecrimisil bedelinin hesaplanması gerektiğinden, eksik incelemeye dayalı kararın bu yönden de bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2017/6444 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/381301900)
 
 Dava, haksız işgal nedeniyle ecrimisil alacağının tahsili için başlatılan icra takibine karşı yapılan itirazın iptali ve icra inkar tazminatı isteklerine ilişkindir.
 
@@ -111,6 +139,8 @@ Somut olayda, 01/01/2004 başlangıç tarihli sözleşmenin hususi şartlar baş
 
 ## Yargıtay 1. HD 2017/2988 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359281000)
+
 Davanın kabulüne ilişkin verilen karar, Dairece; ‘’ Hemen belirtmek gerekir ki, çekişme konusu taşınmazda haksız işgalci olduğu belirlenen davalının ecrimisilden sorumlu tutulmuş olmasında kural olarak bir isabetsizlik yoktur. Davalı vekilinin bu yöne ilişkin temyiz itirazları yerinde değildir. Reddine. Davalının ecrimisilin hesaplanmasına ilişkin temyiz itirazlarına gelince;
 
 …
@@ -120,9 +150,13 @@ Hâl böyle olunca; taraflardan emsal kira sözleşmeleri istenip, konusunda uzm
 
 ## Yargıtay 1. HD 2017/253 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/317875400)
+
 Hâl böyle olunca, mahkemece dava konusu taşınmazın zemin değeri esas alınarak ecrimisil isteğinin saptanması, ayrıca ihale ile satış işleminin iptaline kadar ki dönemde davacı malik olduğuna göre 25/07/2008-31/10/2008 dönemi için talep edilen ecrimisile karar verilmesi gerekirken yanılgılı değerlendirme ile istemin reddine karar verilmesi doğru değildir. Öte yandan; el atmanın önlenmesi ve yıkım istekleri bakımından da, ihale işlemi iptal edildiğine göre, dava dışı Hazine tarafından tapu kaydının iptali ve tescil davası açılıp açılmadığı,dava konusu taşınmazın Hazine adına tescil olup olmadığı araştırılmadan eksik inceleme ile yazılı olduğu üzere hüküm kurulması da doğru değildir.
 
 ## Yargıtay 1. HD 2015/7255 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140402100)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -131,6 +165,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Bu durumda; mahkemece 2886 sayılı Yasanın 75. maddesi uyarınca davalının haksız işgalci olduğu benimsenerek üçüncü kişinin yıllık kira geliri olarak teklif sunduğu 300.000,00 TL esas alınmak suretiyle hesaplanan ecrimisilin hüküm altına alınmasında kural olarak bir isabetsizlik yoktur. Davalının bu yöne değinen temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 6. HD 2015/2729 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149876300)
 
 Dava, kira alacağının tahsili için tahliye istekli olarak girişilen takibe vaki itirazın iptali ve tahliye istemine ilişkindir.
 
@@ -143,6 +179,8 @@ Dava dilekçesinde her ne kadar kira alacağın nedeniyle başlatılan icra taki
 
 ## Yargıtay 1. HD 2015/1524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120437200)
+
 Dava, müstakilen ecrimisil isteğine ilişkindir.
 
 …
@@ -153,11 +191,15 @@ Somut olayda her ne kadar davacı tarafından gönderilen ihbarnamede davalıya 
 
 ## Yargıtay 1. HD 2014/15599 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84240700)
+
 Şöyle ki; yukarıda belirtilen kira sözleşmelerinin 8. maddesinde açıkça; '' Müstecir Belediyenin izni olmadan kiraladığı yerde herhangi bir fiziki değişiklik yapamaz. Ancak Belediye'nin uygun görüşü olduğunda bir değişiklik yapabilir. Kiracı bu değişiklik isteğini dilekçe ile Belediye'ye bildirmek zorundadır. Sözlü müracaatlar kabul edilemez.'' düzenlemesine yer verildiği hâlde, anılan sözleşme hükmünün irdelenmediği, davalının taşınmaz üzerinde yaptığı yapılar sebebi ile, Belediyeye herhangi bir müracaatının olup olmadığı ve Belediyece bu konuda bu konuda uygun görüş verilip verilmediği hususlarının araştırılmadığı ve buna ilişkin belgelerin evrak arasına alıp değerlendirilmediği, öte yandan davacının Hazineye ödediğini iddia ettiği 11.077,70.-TL ecrimisilin, evrak arasına sunulan Ecrimisil Düzeltme İhbarnamesi içeriğine göre 13.10.2010-16.02.2012 dönemine ilişkin olduğu, Belediye ile S..
 Ç.. arasındaki en son tarihli olan 16.01.2009 tarihli kira sözleşmesinde ise kira döneminin 27.11.2008 tarihinde başlayıp 27.11.2010 tarihinde biteceğinin kararlaştırıldığı ve yine aynı kira sözleşmesinin 7. maddesinde; ''Kira aktinin bitim süresinin dolmasını takip eden 5 iş günü içerisinde müstecir herhangi bir hak talep etmeden kiraladığı yeri belediyeye teslim eder'' hükmüne yer verildiğinin görüldüğü, diğer bir anlatımla, ecrimisil ihbarnamesindeki dönem ile kira sözleşmesindeki dönemlerin karşılaştırılması neticesinde yalnızca 13.10.2010-2711.2010 tarihleri arasındaki dönem örtüştüğü halde, Belediye ile S..
 Ç.. arasında 27.11.2010 tarihinde sona eren kira ilişkisinin yenilenip yenilenmediği, 27.11.2010 tarihinden sonra çekişme konusu yeri davacının kira ilişkisine istinaden tasarruf edip etmediği, bu tarihten sonra Belediyeye kira ödeyip ödemediği hususları üzerinde durulmadığı, diğer taraftan; evrak arasına alınan 01.06.2012 tarihli alındı belgesine göre davacının 7.200,50.-TL ecrimisil bedeli yatırdığı görülse de davaya konu 3606 nolu parselle ilgili davacının Hazineye toplam ne kadar ecrimisil ödediğinin kuşkuya yer bırakmayacak şekilde belirlenmediği ve buna ilişkin tüm ödeme belgelerinin evrak arasına alınmadığı görülmektedir.
 
 ## Yargıtay 6. HD 2014/10712 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97320800)
 
 Dava, kira sözleşmesinde kararlaştırılan cezai şarta ilişkin muarazanın giderilmesi ve menfi tespit istemine ilişkindir.
 
@@ -166,6 +208,8 @@ Dava, kira sözleşmesinde kararlaştırılan cezai şarta ilişkin muarazanın 
 Davada dayanılan ve hükme esas alınan 26.02.2007 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesi özel şartlar 14.maddesinde kira süresinin sona ermesi veya sözleşmenin feshi halinde taşınmaz idareye teslim edilmezse geçen her gün için cari yıl kira bedelinin %1 i oranında cezanın itirazsız olarak ödeneceği kararlaştırılmıştır. Bu şart geçerli olup tarafları bağlar. Dava konusu taşınmaz Hazineye ait olup 2886 sayılı Devlet İhale Kanunu ile kiraya verildiği için sözleşme sonunda kira sözleşmesi kendiliğinden son bulur. Bu tarihten itibaren davalı haksız işgalci sayılır. Nitekim davalı tarafından tahliyeden sonra işgal edilen günler karşılığı 13847,67 TL ecrimisil tahakkuk ettirilmiştir. Bu bedel davacının haksız işgali karşılığıdır ve davalının sözleşmenin 14. maddesi gereğince belirlenecek cezayı istemesine engel değildir. Bu durumda mahkemece davanın reddine karar verilmesi gerekirken ecrimisil borcunun olmadığının tesbitine ilişkin bir talebin olmadığı hususu da gözardı edilerek yazılı gerekçe ile davanın kısmen kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2014/10481 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84357800)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -177,11 +221,15 @@ Bilindiği üzere, ecrimisil, diğer bir deyişle haksız işgal tazminatı, zil
 
 ## Yargıtay 6. HD 2014/10195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97213800)
+
 2886 Sayılı Devlet İhale Kanunu'nun “Ecrimisil ve Tahliye” başlıklı 75. maddesinin 3 ve 4. fıkrasında, kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde, sözleşmede hüküm varsa ona göre hareket edileceği, aksi halde ecrimisil alınacağı, işgal edilen taşınmaz malın idarenin talebi üzerine bulunduğu yer mülki amirince en geç onbeş gün içinde tahliye ettirilerek, idareye teslim edileceği düzenlenmiştir. Bu madde daha önce sadece Maliye Hazinesi tarafından bu kanun hükümlerine göre kiraya verilen taşınmazlar hakkında uygulanırken, 5393 Sayılı Belediye Kanunu'nun 15 / p-3 maddesi hükmüyle belediye taşınmazları, 5538 Sayılı Kanun'un 26 / b maddesi uyarınca İl Özel İdareleri ve son olarak 5737 Sayılı Kanun'un 79 / c maddesi gereğince Vakıflar Genel Müdürlüğü'ne ait taşınmazlar hakkında da uygulanması öngörülmüştür.
 
 Bu madde ile adı geçen kurumlara tahliye konusunda bir ayrıcalık tanınmıştır. Yasa, süre bitiminden itibaren ecrimisil alınacağını hüküm altına aldığından 2886 Sayılı Kanun'un 1. maddesi gereğince usulüne uygun yeni bir sözleşme yapılmadıkça kiracıyı fuzuli şagil kabul etmek gerekir.
 
 ## Yargıtay 1. HD 2014/5092 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84149000)
 
 Dava; ecrimisil isteğine ilişkindir.
 

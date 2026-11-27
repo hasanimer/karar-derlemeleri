@@ -25,6 +25,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2025/430 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133027400)
+
 Dava, el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -32,6 +34,8 @@ Dava, el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 Kabule göre de; ecrimisil istemi, dava açılırken 10.000,00 TL değer üzerinden harçlandırılmış, bilirkişi raporuyla tespit edilen miktar üzerinden talep artırım veya ıslah dilekçesi sunulmamıştır. Bu hususa dikkat edilmeksizin 39.000,00 TL üzerinden ecrimisil talebinin kabulüne hükmedilmesi, 6100 sayılı Kanun'un 26. maddesinde düzenlenen taleple bağlılık ilkesine aykırılık oluşturmuştur.
 
 ## Yargıtay 7. HD 2024/1564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029815500)
 
 …
 
@@ -42,9 +46,13 @@ ecrimisil talebinin kabulü gerektiği..." gerekçeleriyle; asıl dava yönünde
 
 ## Yargıtay 7. HD 2024/1340 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1032862000)
+
 Mahkemece her ne kadar davanın belirsiz alacak niteliğinde olması nedeniyle davalının zamanaşımı itirazının değerlendirilemeyeceğini belirtmiş ise de, somut olayda davanın kısmi dava olarak açıldığı, ecrimisil davalarının niteliği gereği belirsiz alacak davası olarak kabul edilemeyeceği, ancak davacının ıslah talebinden davalı tarafın celsede haberdar olması, mahkemece beyanda bulunmak üzere süre verilmesine rağmen zamanaşımı definde bulunulmamış olması nedeniyle mahkeme kararı sonuç itibariyle yerinde görülmüştür.
 
 ## Yargıtay 5. HD 2023/9032 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987337600)
 
 Dairece yapılan inceleme sonucunda;dava konusu taşınmaz ile hükme esas alınan raporda emsal olarak incelenen taşınmazın değerlendirme tarihi olan 2016 yılı Arsa Metrekare Rayiç Bedeli Takdir Komisyonu tarafından resen belirlenen emlak vergisine esas olan m² değerlerinin, ilgili Belediye Başkanlığı Emlak Vergi Dairesinden; yine dava konusu taşınmazın değerlendirme tarihi itibarıyla emsal taşınmazın da satış tarihi itibarıyla imar parseli mi, yoksa imar planına dahil olmakla birlikte olduğu gibi bırakılan kadastro parseli mi olduğu ve imar parseli ise kesilen, değil ise kesilecek düzenleme ortaklık payı oranı ilgili Belediye İmar Müdürlüğü ile Tapu Müdürlüğünden ayrı ayrı sorulup rapor denetlenmeden hüküm kurulması, ecrimisile yönelik talep bakımından; arsa niteliğindeki taşınmazın bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne şekilde kiraladıklarının taraflardan delilleri sorulmak suretiyle tespit edilmesi, varsa emsal kira sözleşmesi temin ettirilerek ecrimisil bedelinin hesaplanması gerekirken, bu yönteme uygun olmayan, soyut bir şekilde ecrimisil hesabı yapan rapor esas
 alınarak hüküm kurulması, dosyadaki 16.04.2015 tarihli Menteşe Belediyesinin yazısında dava konusu taşınmazın yol olan kısmının Muğla Büyükşehir Belediyesi kalan kısmının ise Menteşe Belediyesinin sorumluluğunda olduğunun belirtildiği hususları doğrultusunda; dava konusu taşınmazın nihai imar durumunun detaylı olarak ilgili belediyelerden ayrı ayrı sorularak sorumluluğun, el atılan alanların her biri yönünden ve proje bütünlüğü esasları değerlendirilerek tespit edilmesi gerekirken eksik inceleme ile hüküm kurulması, dosyadaki 16.04.2015 tarihli Menteşe Belediyesinin yazısında dava konusu taşınmazın yol olan kısmı dışındaki alanın Menteşe Belediyesinin sorumluluğunda olduğu ve yeşil alanda kaldığının belirtildiği, keşifte, dava konusu taşınmazın bir kısmının çam ağaçları ile kaplı olduğunun gözlendiği ve hükme esas alınan fen bilirkişisi raporunda da dava konusu taşınmazın 1648,40 metrekaresinin ağaçlık alanda kaldığının belirtildiği hususları beraber değerlendirildiğinde bu alana fiilen el atma olduğu sonucuna varıldığından sorumlu idarenin tespit edilerek sonucuna göre karar verilmesi gerekirken yerinde olmayan gerekçe ve eksik inceleme ile ağaçlık alanın bedeline hükmedilmemesi
@@ -52,6 +60,8 @@ ve dava açıldığı tarihte taşınmaz değerinin davacı tarafça tam ve kesi
 Ancak bozma kararına uymakla ortaya çıkan hukuki durum ortadan kaldırılamaz" hükmü getirilmiş olduğu gözetildiğinde bozmadan sonra ıslah yapılamaz kuralı uygulanmaksızın bozmadan sonra alınan bilirkişi raporuna göre harcı ödenen ve ıslah kapsamında davacının bedele dönüşen payına takdir edilen bedelin artırabileceğinin kabulu ile hüküm kurulması gerekirken bozma sonrası ıslah yapılamayacağından bahisle taleple bağlı kalınarak karar verilmesi doğru görülmeyerek kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/5235 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986278500)
 
 Yargıtay 8. Hukuk Dairesince;
 
@@ -63,9 +73,13 @@ davacının saklı tuttuğu bu ecrimisil miktarının 6.395,00 TL olarak belirle
 
 ## Yargıtay 7. HD 2023/3040 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950851700)
+
 Bu durumda, davacının el atmanın önlenmesi ve ecrimisil talepleri yönünden dava açılışı ve ıslahla birlikte harcını ödediği toplam 12.383,56 TL üzerinden davalı lehine Avukatlık Asgari Ücret Tarifesine göre nispi avukatlık ücreti takdir edilmesi gerekmektedir. Ne var ki reddedilen kısım üzerinden hesaplanan 1.486,02 TL nispi vekalet ücreti karar tarihinde yürürlükte bulunan AAÜT'de belirlenen maktu vekalet ücretinin altında kaldığından davalı lehine 2.725,00 TL maktu vekalet ücretine karar verilmesi gerekmektedir.
 
 ## Yargıtay 7. HD 2023/3007 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916171300)
 
 Yargıtay 1. Hukuk Dairesince: “.... evrak arasına sunulan yönetim planında davalı ...'nin imzasının bulunmadığı da gözetilerek, öncelikle taraflar arasında Kartal .....
 Noterliğinde düzenlenen 06.10.1997 tarihli Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Dükkan Karşılığı İnşaat Sözleşmesinin dağıtım ve paylaştırma plan ve ekleri de dahil olmak üzere tamamının onaylı bir suretinin temin edilerek mahallinde yeniden konusunda uzman bilirkişiler aracılığıyla keşif yapılması, sözleşme gereğince çekişmeye konu F Blok 22 No.lu dükkanın hangi paydaş veya paydaşlara bırakıldığının kuşkuya yer bırakmayacak şekilde belirlenmesi, bu konuda sözleşme ve eklerinde bir açıklık yok ise, kat mülkiyeti ve kat irtifakı kurulu olmayan çekişmeye konu 6541 ada, 1 No.lu parsel üzerinde tüm paydaşları bağlayan harici bir taksim sözleşmesi ve özel bir parselasyon planın olup olmadığı veya fiili kullanma biçiminin oluşup oluşmadığı üzerinde özenle durulması,davalı ... tarafından kullanıldığı iddia edilen ecrimisile konu dükkanın hangi paydaşın kullanımına terk edildiğinin saptanması, harici veya fiili taksim yoksa uyuşmazlığın yukarıda değinildiği gibi, Türk Medeni Kanunu'nun müşterek mülkiyet hükümlerine göre çözümleneceğinin düşünülmesi, ecrimisil hesabı konusunda tarafların gösterdikleri ve gösterecekleri emsallerin de değerlendirilerek yukarıda belirtilen ilkeler
@@ -73,13 +87,19 @@ doğrultusunda bilirkişilerden ecrimisil hesabı konusunda denetime elverişli 
 
 ## Yargıtay 7. HD 2023/2197 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910606700)
+
 Diğer taraftan bağımsız bölümlerin davalılar tarafından kullanıldığı keşfen sabit olduğu benimsenerek ecrimisil talebine konu 20.09.2006-13.11.2007 tarihleri arası için, ıslah tarihi ve davalılardan ... Mağazacılık Giyim Anonim Şirketi'nin ıslaha karşı zamanaşımı savunması gözetilerek davalıların ayrı ayrı sorumlu oldukları miktar üzerinden ecrimisilin tahsiline karar verilmiş olmasında bir isabetsizlik bulunmadığından davalıların istinaf başvurularının kabulü ile İlk Derece Mahkemesi hükmü kaldırılarak yeniden esas hakkında hüküm kurulmak suretiyle el atmanın önlenmesi istemi bakımından davanın konusu kalmadığından karar verilmesine yer olmadığına, ecrimisil davasının kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/516 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896521300)
+
 Ecrimisil istemli dava, fazlaya ilişkin haklar saklı kalmak kaydıyla 10.000,00 TL üzerinden açılmış ve ıslah ile talep sonucu arttırılmıştır. Buna rağmen kabul edilen ecrimisil tutarına ıslah ile arttırılan kısım yönünden ıslah tarihinden itibaren faize hükmedilmesi gerekirken kabul edilen ecrimisilin tamamına dava tarihinden itibaren faiz hükmedilmesi doğru değildir.
 
 ## Yargıtay 5. HD 2022/9617 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792916400)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -89,6 +109,8 @@ Diğer taraftan 28.07.2020 tarih ve 31199 sayılı Resmi Gazete'de yayımlanan 7
 
 ## Yargıtay 7. HD 2022/2179 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/752124600)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil talebine ilişkindir.
 
 …
@@ -97,15 +119,21 @@ Bilindiği üzere HMK’nin 26. maddesinin 1. fıkrasında “Hakim tarafların 
 
 ## Yargıtay 1. HD 2022/944 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761915700)
+
 9.3.3. Ecrimisil talebine ilişkin hususların incelenmesine gelince; bilindiği ve (9.2.2.) numaralı paragrafta yer verildiği üzere ecrimisile ilişkin talepler 5 yıllık zamanaşımı süresine tabidir. 5 yıllık süre ecrimisil istenilebilecek azami süre olup, hak edilen ecrimisil miktarı dosya kapsamına göre belirlenecektir.
 
 9.3.4. Somut olayda; çekişme konusu taşınmazdaki davacıya intikal eden 2/21 payın davalılara temlik edildiği tarihin 30/12/2008, dava tarihinin ise 02/05/2011 olduğu gözetildiğinde, davalıların malik olduğu dönemi aşacak şekilde fazla hesaplanan (dava tarihi ile devir tarihi arasındaki hesaplanacak miktara hükmedilmesi gerekirken) ecrimisil miktarına hükmedilmesi doğru olmadığı gibi, davacının 19/06/2012 havale tarihli ıslah dilekçesi ile harcını yatırmak suretiyle ıslah ettiği 74.542,00 TL ecrimisil bedelinden 34.477.47 TL’nin kabul kapsamına alınmış olması nedeniyle, reddedilen kısım üzerinden davalılar lehine vekalet ücretine hükmedilmemiş olması da doğru olmamıştır.
 
 ## Yargıtay 8. HD 2021/5117 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684352500)
+
 Ayrıca ecrimisil davası belirsiz alacak davası olup, 01.10.2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK’nin) 107. maddesiyle, mülga 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nda yer almayan yeni bir dava türü olarak belirsiz alacak ve tespit davası kabul edilmiştir. HMK’nin 107. maddesi, "(1) Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu hâllerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz alacak davası açabilir. (2) Karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacı, iddianın genişletilmesi yasağına tabi olmaksızın davanın başında belirtmiş olduğu talebini artırabilir. (3) Ayrıca, kısmi eda davasının açılabildiği hâllerde, tespit davası da açılabilir ve bu durumda hukuki yararın var olduğu kabul edilir." hükmünü içermektedir.
 
 ## Yargıtay 8. HD 2021/205 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636980800)
 
 Dava; paydaşlar arasında ecrimisil talebine ilişkindir.
 
@@ -117,6 +145,8 @@ Ayrıca Mahkemece yapılan keşifte bilirkişi raporlarında 664 parsel sayılı
 
 ## Yargıtay 5. HD 2020/6911 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600590100)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -124,6 +154,8 @@ Dava, ecrimisil istemine ilişkindir.
 Yapılan incelemede; mahkemece bozma ilamına uyularak alınan ek rapor ve ıslah dilekçesi de gözetilerek 36.000,00 TL ecrimisil bedeline hükmedilmiş ise de mahkemenin 11.06.2009 tarihli kararında 13.000,00 TL ecrimisil bedeline hükmedildiği ve anılan kararın davacı tarafça temyiz edilmediği gözetildiğinde davalı idare lehine oluşan usuli kazanılmış hak ilkesi uyarınca davanın kısmen kabulüne karar verilmesi gerektiğinin düşünülmemesi, …
 
 ## Yargıtay 8. HD 2019/4426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522925700)
 
 Dava, ecrimisil ve tazminat istemine ilişkindir.
 
@@ -133,6 +165,8 @@ Dava, ecrimisil ve tazminat istemine ilişkindir.
 
 ## Yargıtay 8. HD 2019/1674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645441900)
+
 Dava, çaplı taşınmaza yönelik ecrimisil istemine ilişkindir.
 
 …
@@ -141,6 +175,8 @@ Dava açılış şekli itibariyle belirsiz alacak davasıdır. Davacının yapt�
 
 ## Yargıtay 8. HD 2018/18311 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462197700)
+
 Dava, haksız işgal iddiasına dayalı ecrimisil istemine ilişkindir.
 
 …
@@ -148,6 +184,8 @@ Dava, haksız işgal iddiasına dayalı ecrimisil istemine ilişkindir.
 Şöyle ki, davacılar, davalı kiracının kira sözleşmesi dışında kalan bölümü, kiralanan alanlar ile birleştirmek suretiyle kullandığını ileri sürerek, dava tarihinden geriye yönelik kira kontratının başlangıç tarihine kadar fazlaya ilişkin hakları saklı kalmak üzere, şimdilik 20.000 TL ecrimisil alacağının dönem sonlarından itibaren işleyecek ticari faiziyle birlikte davalıdan tahsiline karar verilmesini istemişler, bilirkişi raporu doğrultusunda da davayı ıslah etmişlerdir. Mahkemece, asıl dosya açısından bozmadan sonra ıslah mümkün olmadığından dava dilekçesindeki talep olan 20.000,00-TL. ecrimisilin dönem sonundan itibaren işleyecek avans faiziyle birlikte davalıdan alınarak davacıya verilmesine, ıslahla arttırılan kısma ilişkin talebin reddine karar verilmiş ise de, Mahkemece hüküm altına alınan miktarın ne kadarlık kısmının hangi döneme ait olduğu, dönem sonları ve hangi miktara hangi tarihten itibaren faiz işletileceği açıkça belirlenmemiştir.
 
 ## Yargıtay 8. HD 2018/15582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451654200)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -159,9 +197,13 @@ Yine kabule göre de, hükme esas alınan bilirkişi raporunda 2007-2011 yıllar
 
 ## Yargıtay 1. HD 2017/2440 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358069300)
+
 Hal böyle olunca; süresinde zamanaşmı def'inde bulunuldu gözetilerek, ıslahla artırılan ecrimisil miktarına ıslah (05.07.2013) tarihinden geriye doğru 5 yıllık zamanaşımı süresi uygulanarak karar verilmesi gerekirken, yanılgılı değerlendirme ile zamanaşımı def'i dikkate alınmadan karar verilmisinin doğru olmadığı görüşünde olduğumdan, davalıların bu yöne ilişkin temyiz itiazının kabulü ile kararın bu yönden bozulması gerektiği kanaatindeyim.
 
 ## Yargıtay 1. HD 2017/1257 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355808100)
 
 Dava, haksız işgalden kaynaklanan ecrimisil isteğine ilişkindir.
 
@@ -181,6 +223,8 @@ Bilindiği, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği 
 
 ## Yargıtay 1. HD 2016/3174 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207093400)
+
 Dava ve birleştirilen dava ecrimisil isteklerine ilişkindir.
 
 …
@@ -188,6 +232,8 @@ Dava ve birleştirilen dava ecrimisil isteklerine ilişkindir.
 Asıl davada 6 davacı ( ..., ......, ..., ..., ... ve ...) ıslah ile birlikte 100.579,12.-TL ecrimisil isteminde bulundukları ve 3 davacının (..., ... ve ...'nin) her birinin ecrimisil isteminin 16.763,18.-TL (3 davacı için toplam 50.289,54.-TL) olduğu halde ıslah gözetilmeksizin; birleştirilen davada ise 5 davacı (......, ..., ..., ... ve ...) dava dilekçesi ile 32.223,12.-TL ecrimisil isteminde bulundukları ve 3 davacının (..., ... ve ...'nin) her birinin ecrimisil isteminin 6.444,62.-TL (3 davacı için toplam 19.333,86.-TL) olduğu halde talep nazara alınmaksızın bu davacılar yararına asıl ve birleştirilen davada toplam 50.289,56.-TL ecrimisile hükmedilmiş olması doğru olmadığı gibi davacı ... ile davalı yüklenici arasında yapılan sulh protokolü çerçevesinde tarafların karşılıklı olarak yargılama gideri ve vekâlet ücreti talebinde bulunamayacakları dikkate alınmaksızın davacı ... aleyhine vekâlet ücretine hükmedilmesi de isabetsizdir.
 
 ## Yargıtay 1. HD 2015/10760 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139618800)
 
 Öte yandan; birleşen davaların birlikte görülmekle birlikte ayrı dava olma özelliğini koruduğu, her bir dava hakkında ayrı ayrı hüküm kurulması gerektiğinde kuşku yoktur. Nitekim yukarıda da açıklandığı üzere 6100 sayılı HMK'nın 297/2. maddesi uyarınca hüküm kısmında isteklerden her biri hakkında verilen hükümle taraflara yüklenen borç ve tanınan hakların açık şüphe ve tereddüt uyandırmayacak şekilde gösterilmesinin zorunlu olduğu düzenlenmiştir. Ne var ki; mahkemece asıl ve birleşen davalarda talep edilen ecrimisil miktarları yönünden ayrı ayrı hüküm kurulmadığı görülmektedir.
 
@@ -197,6 +243,8 @@ Kabule göre de; davalı M.. K.. hakkında ecrimisil isteği kısmen kabul edild
 
 ## Yargıtay 1. HD 2015/8300 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/122394800)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -204,6 +252,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Hâl böyle olunca, bozma ilamında; ıslah ile arttırılan miktar için faizin ıslah harcının yatırıldığı 07.07.2008 tarihinden itibaren başlaması gerektiğine işaret edildiği hâlde hükmedilen ecrimisil miktarının tamamına ıslah dilekçesinin havale tarihi (19.06.2008'den) itibaren faiz yürütülmesi doğru değildir.
 
 ## Yargıtay 1. HD 2015/5625 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139670400)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -215,6 +265,8 @@ Ne var ki, faiz isteği yönünden, ıslah tarihinden itibaren ıslahla arttır�
 
 ## Yargıtay 1. HD 2014/11350 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/89110600)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -225,6 +277,8 @@ Hal böyle olunca, eldeki davada ecrimisil istemi bakımından usulünce yapılm
 
 ## Yargıtay 1. HD 2014/5425 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84186200)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -234,6 +288,8 @@ Hemen belirtilmelidir ki, davalı idare tarafından asfalt yol, tretuvar ve yeş
 Öyle ise, mahkemece yapılması gereken, dava konusu edilen kısmın A. AŞ'ye intifa hakkı tesis edilen alanında kalıp kalmadığının belirlenmesi, intifa hakkı tesis edilen alanında kalıyorsa taşınmazı haksız işgal eden üçüncü kişiden ecrimisil talep hakkının intifa hakkı sahibinde bulunduğu gözetilerek mülkiyet hakkı sahibinin ecrimisil isteğinin reddine karar verilmesi, yok eğer intifa hakkı tesis edilen alan dışında kalıyor ise asıl davada 27.1.2011 tarihinden geriye doğru 5 yıllık sürenin ve ıslah edilen miktar yönünden ise ıslah tarihinden geriye doğru 5 yıllık sürenin dikkate alınmak suretiyle karar verilmesi gerekirken bu hususlar dikkate alınmadan hüküm kurulması isabetsizdir.
 
 ## Yargıtay 1. HD 2013/14735 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79664300)
 
 Ne var ki; mahkemece, Silivri Sulh Hukuk Mahkemesi'nin 2007/136 Değişik iş sayılı dosyasında, dava konusu bölümün davalının kullanımında olup olmadığının belirlenmesi amacıyla yapılan keşfin tarihi olan 17.08.2007 tarihi ile dava tarihi olan 11.11.2008 tarihleri arasındaki dönem için belirlenen ecrimisilin hüküm altına alınmış olması isabetsizdir.
 

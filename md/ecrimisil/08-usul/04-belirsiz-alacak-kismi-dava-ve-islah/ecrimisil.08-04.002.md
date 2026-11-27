@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2013/10481 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79983700)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -31,20 +33,28 @@ Diğer taraftan davalılar arasında zorunlu dava arkadaşlığı bulunmadığı
 
 ## Yargıtay 3. HD 2012/25359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483841900)
+
 Dava; ecrimisil talebine ilişkindir.Ecrimisile konu taşınmazda taraflar paydaştır. Paydaşlar kural olarak intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi; ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanmak isteğinin davalı paydaşa bildirilmiş olmasına bağlıdır. Yararlanma isteminin iletilmesi, belli bir şekil şartına bağlı olmayıp, yemin dahil her türlü delil ile ispat edilebilir. İntifadan men şartı mahkemece re'sen araştırılmalıdır.Somut olayda; mahkemece; taşınmazı kullanan davalı ...'ye davadan önce herhangi bir bildirim yapılmadığı gerekçesi ile davanın reddine karar verilmiş ise de; dosya içerisinde mevcut ... 2. Asliye Hukuk Mahkemesi'nin 1997/1395 Esas; 1999/948 Karar sayılı dosyasının tetkikinden; davacının 03.12.1997 tarihinde 499, 198, 172, 637, 724, 465,514 ve 730 nolu parsellere ilişkin olarak davalı ...'nin de içinde bulunduğu davalılardan ecrimisil talebinde bulunduğu; mahkemece, 24.12.1999 tarihli karar ile davanın kabulü cihetine gidilerek; 150,00 TL (150.000.000 TL) ecrimisilin davalılardan tahsiline karar verildiği anlaşılmıştır.
 
 Bu bağlamda; yararlanma dileğinin açıklanması niteliğinde bulunan önceki ecrimisil davasının dava dilekçesinin tebliğ tarihi intifadan men koşulunun oluşması için yeterlidir.Davacı asil 19.02.2009 havale tarihli ıslah dilekçesinde; avukatının yalnızca ... Köyü'nde bulunan 730 nolu parselle ilgili dava açtığını; ... Köyü'nde bulunan 499, 198, 172, 637, 465, 514 parsel sayılı ve ... Mahallesi'nde bulunan 257 ada 141 parsel sayılı parsellerle ilgili ecrimisil talebini dava dilekçesinde belirtmediğini belirterek; ıslah yolu ile dava değerini değiştirmeksizin bu taşınmazları da davaya dahil ettiğini ve bu taşınmazlar için de ecrimisil talep ettiğini belirtmiş ancak keşif yalnızca 730 nolu parselle ilgili yapılmış; hükümde yalnızca bu parselle ilgili verilmiştir. Mahkemece, ıslah edilen taşınmazlarla ilgili herhangi bir araştırma ve yargılama yapılmaması ve ıslah edilen taşınmazlar yönünden olumlu ya da olumsuz bir karar verilmemiş olması da doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2012/25051 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481725400)
+
 Ecrimisil davalarında, istem olması halinde her dönem için belirlenen miktara dönem sonu (tahakkuk tarihi) itibariyle faiz yürütülmesi gerekir. Belirlenen ecrimisil miktarının 66.259,20 TL'sinin dönem sonu olan 05.03.2010 tarihinden, kalan miktarın ıslah tarihinden itibaren yasal faiz işletilmesi gerekirken, 66.259,20 TL'sinin dava tarihinden, kalan miktarın ıslah tarihinden itibaren işleyecek yasal faizi ile davalıdan tahsiline karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2012/22680 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488689600)
 
 Dosya kapsamından ve mahallinde yapılan keşif sonucu alınan bilirkişi raporundan, 2.kat 17 nolu daire ile zeminde 5 nolu dükkanın davalılar tarafından kiraya verildiği, diğer taşınmazların ise boş olduğu ve iki taşınmaz yönünden 5 yıllık ecrimisil bedelinin davacıların 3/12 payına göre 47.556,87 TL olduğu, davacıların 10.000 TL haricinde kalan 37.556,87 TL ecrimisil ile ilgili 28.11.2011 tarihinde ıslah talebinde bulundukları anlaşılmaktadır.Kural olarak, paydaşlar intifadan men (yararlanmadan engelleme) olmadan ecrimisil isteyemezler ise de, doğal semere ve hukuksal semere (kira) getiren taşınmazlar yönünden intifadan men koşulu aranmaz.Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle delillerin takdirinde bir isabetsizlik görülmemesine göre, davalılar vekilinin sair temyiz itirazları yerinde değildir.Ancak, ıslah edilen 37.556,87 TL ecrimisil miktarına 28.11.2011 ıslah tarihinden itibaren yasal faize hükmedilmesi gerekirken, tamamının (47.556,87 TL.nın) 29.03.2010 dava tarihinden itibaren yasal faizi ile tahsiline karar verilmesi doğru görülmemiştir.Ayrıca, davacılardan ...'in davayı takip etmemesi nedeniyle bu davacı hakkında HMK.nun
 150/5.maddesi gereğince "Davanın açılmamış sayılmasına" karar verildiğine göre, AAÜT.'nin 7.maddesine göre davalılara vekalet ücreti takdir edilmesi gerekirken, mahkemece; bu konuda davalılar lehine vekalet ücreti verilmemesi ve yine bu davacı ile ilgili yargılama gideri yapılmış ise bu miktarın belirlenip toplam yargılama giderinden çıkarılmak suretiyle geri kalan kısmın davalılardan tahsiline karar verilmesi gerekirken, yargılama giderinin tamamının davalılardan tahsiline hükmedilmesi de bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2012/20526 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492193100)
 
 Dava, kira sözleşmesinin sona ermesi nedeni ile müdahalenin men'i ve ecrimisil istemine ilişkindir.
 
@@ -55,6 +65,8 @@ Başka bir anlatımla; davalının usuli itirazlarını yapabilmesi gerekmektedi
 
 ## Yargıtay 1. HD 2012/7990 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79493300)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkin olup mahkemece davacının kayden malik olduğu villanın davalı tarafından haklı ve geçerli bir neden olmaksızın kullanıldığı gözetilerek el atmanın önlenmesine karar verilmiş olmasında kural olarak bir isabetsizlik bulunmamaktadır.
 
 …
@@ -63,9 +75,13 @@ Ne varki; davacı, fazlaya ilişkin haklarını saklı tutarak aylık 1.000TLden
 
 ## Yargıtay 3. HD 2011/19366 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620437600)
+
 Davada tarafların müşterek malik bulundukları taşınmazların davalı paydaşın tasarrufunda bulunduğu, önceki döneme ilişkin ecrimisil davasının sonuçlandığı ileri sürülerek, fazla hak saklı tutularak 2,5 yıllık yeni dönem için ecrimisil istenilmiş, mahkemece, kısmen kabulü ile 13.303 TL'nin davalıdan tahsiline karar verilmiş; hüküm, taraflarca temyiz edilmiş; Dairemizin 2010/17777-2011/1609 Karar sayılı ve 03.02.2011 günlü ilamı ile "...Ayrıca dava dilekçesinde ecrimisili faizi ile tahsili istenmediği gözetilerek ecrimisile faiz uygulanmamış ise de, müddeabihin ıslahla artırılması isteminde faiz talebinde bulunulduğu böylece ıslahla artırılan (803 TL) kısım için ıslah tarihinden faize karar verilmesi gerektiği değerlendirilmeden faize hiç hükmedilmemesi isabetli görülmemiştir" gerekçesiyle hükmün bozulmasına karar verilmiş, davacı taraf bozma ilamına karşı karar düzeltme isteğinde bulunmuştur.
 
 ## Yargıtay 1. HD 2011/12179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79204200)
 
 Dava; bağımsız bölüme elatmanın önlenmesi, ecrimisil ve katılım payı isteklerine ilişkindir.
 
@@ -75,9 +91,13 @@ Hemen belirtilmelidir ki; 1086 sayılı Yasanın yürürlükten kaldırılan HUM
 
 ## Yargıtay 3. HD 2011/8327 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970139300)
+
 Bu nedenle, binanın boşaltılması tarihinden başlatılarak, eski hale getirilmesi için gereken süreye dair yoksun kalınan kira bedeli belirlenmeli, ilk davaya ilişkin 10.000,00 TL'yı aşan kısım olursa, ıslah tarihi olan 24.05.2010 tarihi itibariyle beş yıllık zamanaşımı nazara alındığında 24.05.2005 tarihinden sonrası için ıslah edilen kısım yönünden zamanaşımı süresinin dolduğu gözetilerek ancak bu tarihe kadar olan kısım için kesinleşen hükümle bu zararın oluşmasına davacıların %30 oranında kusurlu olmasının katkısı da nazara alınarak uygun miktara hükmedilmesi gerekirken, soyut belirlemeler ile 44 aylık ecrimisile hükmedilmesi doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2010/11063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968083700)
 
 Davalı taraf esasa cevap süresi olan 10 günlük süre geçtikten sonra verdiği cevabında zamanaşımı itirazında bulunmuştur. Mahkemece dava edilen kısım olan 56.600 TL'lık ecrimisil alacağı için 10 günlük süre geçtiği için zamanaşımı def'i nazara alınmamıştır. Bu yönden bir isabetsizlik yoktur. Ancak, saklı tutulan fazla kısım için davacı taraf bilirkişi raporu doğrultusunda davasını 10.9.2009 tarihinde ıslah etmiş, davalı taraf ıslaha cevabında ıslah tarihi itibariyle 10.9.2004 tarihinden önceki dönemlere ilişkin ecrimisil alacaklarının fazla kısmının zamanaşımına uğradığını ileri sürerek ıslah dilekçesine karşı zamanaşımı def'inde bulunmuştur.
 
@@ -85,13 +105,19 @@ Yerleşmiş Yargıtay uygulamalarına göre fazlaya ilişkin hakların saklı tu
 
 ## Yargıtay 1. HD 2010/5032 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79515100)
+
 Hemen belirtmek gerekir ki, HUMK.nun 83 ve müteakip maddelerinde öngörülen ıslah ile 4.2.1948 tarih 10/3 Sayılı İçtihadı Birleştirme Kararında belirtildiği üzere davanın konusunda, sebebinde ve delillerde ıslah yoluyla tebdil imkanı var ise de, dava konusu edilmeyen bir değerin ıslah yoluyla davaya dahil edilmesi olanaksızdır. Diğer taraftan HUMK.nun 87. maddesinin son fıkrasının Anayasa Mahkemesince iptal edilerek müddeabihin arttırılması imkanı getirilmiş ise de, değinildiği üzere dava konusu edilmeyen bir hususun ıslah yoluyla davaya ithal edilmesine yasal olanak bulunmamaktadır. Bu sebeple ecrimisil isteği bakımından usulüne uygun olarak açılmış bir dava bulunmadığından, bu istek bakımından davanın dinlenmesine olanak bulunmadığı göz ardı edilerek yazılı olduğu üzere bu isteğin de hüküm altına alınması doğru değildir.
 
 ## Yargıtay 3. HD 2010/2858 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965891000)
+
 Öte yandan, ecrimisil davalarında; davalı tarafın zamanaşımı def'i bulunduğu takdirde, 25.5.1938 tarih ve 29/10 sayılı İçtihatları Birleştirme Kararı ve yerleşik Yargıtay uygulaması uyarınca; dava tarihinden (ıslah varsa, fazlaya ilişkin talep yönünden ıslah tarihinden) geriye doğru 5 yıl için ecrimisile hükmedileceği gözetilmeden, davacı ...'in ıslah dilekçesiyle talep ettiği ecrimisilin hüküm altına alınması da doğru görülmemiştir.
 
 ## Yargıtay 1. HD 2009/12219 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78567300)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteğine ilişkindir.
 
@@ -101,11 +127,15 @@ Kabule göre de, özellikle bir taraftan haksız işgal tazminatı niteliğindek
 
 ## İzmir BAM 1. HD 2024/2177 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102681100)
+
 Davacı;mülkiyeti davacı şirkete ait olan ... İli, ... İlçesi, ... köyü, ... mevkii, ... Ada, ... parsel ile ... parsel numaralı taşınmazlarda davalı şirketin haksız işgal ve kullanımı nedeniyle ecrimisil bedelinin tespiti ile davalıdan alınmasına yönelik olarak HMK 107/1. Maddesine göre belirsiz alacak davası açtıklarını, İzmir 3.
 Asliye Ticaret Mahkemesi' nin 2016/1114 Esas sayılı dosyasında görülen davada, mahkeme tarafından benimsenip hükme esas alınan 25/08/2017 tarihli ek bilirkişi raporunda "davalı tarafından haksız işgal edilen 12.000 m2 alan ve üzerinde kurulu yapı ve tesislerin 09/09/2011 ile 28/01/2016 tarihleri arası dönem için ecri misil bedeli 39.608,22-TL" olarak hesaplandığını, söz konusu ek bilirkişi raporundaki eksik hesaplamaya karşı itirazların mahkeme tarafından reddedildiğini, mahkeme tarafından verilen 30/10/2018 tarihli nihai kararda, söz konusu ek raporda belirlenen ecri misil miktarı kabul edilerek, davada talep edilen 5.000,00-TL ecri misil bedelinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine, davacının fazlaya ilişkin ecri misil talebinin saklı tutulmasına karar verildiğini, karara karşı istinaf kanun yoluna başvuru üzerine, İzmir Bölge Adliye Mahkemesi 1.
 Hukuk Dairesi' nin 25/03/2021 tarih ve 2019/1760 Esas, 2021/723 Karar sayılı kararı ile istinaf başvurusunun esastan reddine kesin olmak üzere karar verildiğini, toplam 39.608,22-TL ecri misil alacağı bulunduğunun kesinleşen mahkeme kararı ile belirlendiğini, belirsiz alacak davası olan ilk davada fazlaya ilişkin talep ve dava hakları saklı kalmak kaydıyla 5.000,00-TL ecrimisil alacağı talep edildiğini, mahkeme tarafından da bu miktarın hüküm altına alınıp hesaplanan fazlaya ilişkin ecri misil talebinin saklı tutulmasına karar verildiği için bakiye 34.608,22-TL ecrimisil alacağının 08/09/2016 tarihinden itibaren yasal faiziyle birlikte davalıdan alınmasını istemiştir.
 
 ## İstanbul BAM 16. HD 2023/351 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878235100)
 
 Bu yönden HMK 304 gereğince karar verilmesi talebi ile mahkemeye başvurmuş ise de; hükümde tarafların hak ve borçlarını değiştirecek nitelikte değişiklik yapılamayacağından tashih isteminin reddi yerinde olduğu gibi davalı yan asıl kararın istinafı süresi içinde bu hususu istinaf istemi olarak ileri sürmediğinden ek karara ilişkin istinaf isteminin esastan reddi gerekmiştir. Bayilik sözleşmesi sona ermesine rağmen taşınmazın davalı tarafça davacıya teslim edilmediği sabit olmakla davacı ecrimisil talebinde bulunabilir. Mahkemece ecrimisil hesabı yönünden talimat mahkemesi aracılığıyla keşfen inceleme yapılarak 11.10.2013 tarihinde bilirkişi raporu alınmış, davacı yan ise 17.09.2015 Tarihli dilekçesi İle 5000TL olan ecrimisil talebini 169.000TL'ye yükselterek eksik harcı ikmal etmiştir. Davalı vekili ıslaha karşı zamanaşımı definde bulunmuştur. Dairemizin kaldırma kararında; davacının ecrimisil talebi yönünden davalının zamanaşımı savunmasının dikkate alınması gerektiğine değinilmiş ise de; mahkemece bu hususa değinilmeden esas hakkında karar verildiği, davalı vekilinin bu hususu istinaf istemi olarak ileri sürdüğü görülmüştür.
 Davacı dava dilekçesinde fazlaya ilişkin haklarını saklı tutarak şimdilik 5000TL ecrimisl talebinde bulunmuş, bilirkişi raporuna istinaden talebini ıslah etmiştir. Yargıtay 8. Hukuk Dairesi'nin 2018/5567 Esas, 2020/1639 Karar sayılı ilamında; "Davacı dava tarihinden geriye dönük olarak 5 yıl için fazlaya ilişkin hakları saklı kalmak kaydıyla 43.000 TL ecrimisin davalıdan tahsiline karar verilmesini istemiş, bilahare 09.09.2013 tarihinde davasını 58.296 TL'ye ıslah etmiştir....Dosya içeriği ve toplanan delillerden eldeki davanın 22.12.2006 tarihinde açıldığı, davacı vekilinin dava tarihinden itibaren geriye dönük olarak ve fazlaya dair hakları saklı tutularak 43.000 TL ecrimisin davalıdan tahsilini İstediği, bilahare 09.09.2013 tarihli ıslah dilekçesiyle talebin 58.296 TL'ye arttırıldığı sabittir. HMK'nin 448.maddesinde bu kanun hükümlerinin tamamlanmış işlemleri etkilememek kaydıyla derhal uygulanacağı belirtilmiştir.
@@ -115,21 +145,29 @@ Bu durumda mahkemece asıl davadaki talep olan 5000TL ile 17.09.2010-18.09.2010 
 
 ## İstanbul BAM 45. HD 2022/795 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786131100)
+
 2021/427 K. sayılı ilamında; "...Dava, elatmanın önlenmesi ve ecrimisil taleblerine ilişkindir.Hemen belirtilmelidir ki; iddianın içeriği ve ileri sürülüş biçiminden, davanın taşınmaz malın aynına yönelik olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu; böyle bir davada, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 120/1.
 (1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 413.) ve 492 sayılı Harçlar Kanunu'nun 16. maddeleri uyarınca dava değerinin ve buna göre alınacak harcın, elatılan yer (kısım) ile talep edilen ecrimisil toplamından ibaret olacağı kuşkusuzdur (4.3.1953 tarihli ve 10/2 sayılı İBK).Dosya içeriği ve toplanan delillerden, davanın, hükmedilmesi istenen ecrimisil miktarı olan 5.000,00 TL dava değeri üzerinden harç ödenmek suretiyle açıldığı, davacı vekilince 03.02.2014 tarihli ıslah dilekçesi ile, dava dilekçesinde 5.000,00 TL olan ecrimisil bedelinin bilirkişi raporu doğrultusunda 37.496,00 TL üzerinden (32.496,00 TL artırarak) ıslah ederek, ecrimisil talebi yönünden 555,00 TL ıslah harcı yatırıldığı, elatmanın önlenmesi yönünden harç yatırılmadığı gibi, yargılama sırasında da elatılan taşınmazın bilirkişi tarafından belirlenen değeri olan 165.120,00 TL üzerinden harç ikmali yapılmadığı anlaşılmaktadır.Bilindiği üzere, 492 sayılı Harçlar Kanunu, harcın alınmasını veya tamamlanmasını tarafların isteklerine bırakmayıp, anılan hususun mahkemece kendiliğinden gözetileceğini düzenlemiş ve buyurucu nitelikteki 32. maddesinde yargı işlemlerinden alınacak harçlar ödenmedikçe müteakip işlemlerin
 yapılamayacağını öngörmüştür. Şu halde, öncelikle davada ileri sürülen isteklerden elatmanın önlenmesi isteği ile ilgili elatılan taşınmazın bilirkişi tarafından belirlenen değeri olan 165.120,00 TL üzerinden peşin harcın alınması, bu zorunluluk yerine getirildiği takdirde davaya devam edilmesi gerekirken, anılan husus gözardı edilerek işin esası bakımından hüküm kurulması doğru değil/dir..." denilerek harç ikmalinin zorunlu olduğuna aksi takdirde müteakip işlemlerin yapılmayacağına işaret edilmiştir.
 
 ## İstanbul BAM 43. HD 2022/714 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/777890800)
+
 Eldeki davada, sözleşmenin davalı tarafça haklı bir neden olmaksızın feshedildiği halde, üzerinde akaryakıt istasyonu bulunan taşınmazın geç tahliyesinden kaynaklı olarak sözleşmenin 14. maddesindeki geç tahliye edilen beher gün 1.000 USD olmak üzere toplam 249 gün karşılığı 249.000 USD cezai şart alacağı ile sözleşmesinin 18. maddesinde sözleşmeye aykırılıktan dolayı kararlaştırılan 100.000 USD cezai şart alacağı ve nihayetinde taahhütnamedeki alım taahhüdünü ihlalden doğan ve belirsiz alacak davası olarak açılan cezai şart alacağından şimdilik 1.000 USD alacağının tahsili istendiği halde, ilk derece mahkemesince fuzuli işgale dayalı ecrimisil alacağına ilişkin dava ve talep bulunmadığı gibi bu talep bakımından dosyada ıslaha da rastlanılmadığından ancak dava ve talep konusu hususlarda yargılama yapılıp hüküm verilebileceği gözetilmeksizin yazılı şekilde ecrimisil alacağına hükmedilmesi doğru olmadığı gibi yıllık alım taahhüdüne aykırılıktan dolayı taahütname gereğince belirlenecek cezai şart alacağına hükmedilmesi istendiği halde yazılı şekilde belirlenen kar mahrumiyeti alacağına hükmedilmesi de doğru olmamıştır.
 Öte yandan, davacının asgari alım taahhüdünden kaynaklanan cezai şart alacağının tahsili istemi yönünden, dava tarihinde yürürlükte bulunan 6098 sayılı TBK’nın 179/2. maddesi uyarınca ifaya ekli cezai şart talep edilebilmesi için açıkça haktan feragat edilmemiş olması ve ifanın çekincesiz olarak kabul edilmemiş bulunması koşullarının gerçekleşmesi gerekmektedir. Somut olayda dönemler itibariyle yıllık asgari alım taahhüdüne uyulmamasına rağmen tedarikçi firma tarafından bayiye mal verilmeye devam edilmiş ve cezai şart alacağı yönünden ihtirazi kayıt konulmamıştır. Bu itibarla davacı önceki dönemlere ilişkin cezai şart isteyemez ise de son döneme ait cezai şart isteyebilir. Bu durumda, ilk derece mahkemesince bu yönler gözetilerek bilirkişiden ek rapor alınarak varılacak uygun sonuç dairesinde bir karar verilmesi gerekir. HMK'nın 355.
 
 ## İstanbul BAM 12. HD 2020/618 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/581435700)
+
 Buna göre 20.000:3= 6.666,66- TL miktarda her bir kalem için dava değeri bulunduğu kabul edilmiştir.Davacı tarafça dava ıslah edilerek 20.000-TL kısmi davası 182.960,42-TL haksız rekabet nedeniyle uğranılan zarar ,132.000-TL (ecrimisil) araçların bedelsiz kullanımından kaynaklanan zarar ,25.332-TL de araçların zararına satılmasından kaynaklanan zarar olmak üzere ıslah edilmiştir.İlk derece mahkemesince 182.960,42-TL zarar kaleminin içinde 132.000-TL ecrimisil bedeli de bulunduğunu kabul ile bu kısma yönelik talebin ayrıca tahsiline karar verilmemiş ise de hükmedilen uğranılan zarar içerisinde ecrimisil bedeli de olduğu kabul edilmiştir. Hüküm bu yönüyle de kesinleşmiştir. Buna göre kısmi dava da iki kalem isteğin zamanaşımına uğramadığı anlaşılmakla 6.666,66x2=13.333,33TL nin kabulü gerekmektedir.Hükmüne uyulan Yargıtay bozma ilamı gereği ;6762 sayılı TTK nun 335/son maddesinde yazılı rekabet yasağının ihlalinden kaynaklanan zararlara TTK 335/son maddesi uyarınca haksız rekabet fiillerinin öğrenildiği tarihten itibaren 3 ay fiillerin vukuundan itibaren 1 yıllık zamanaşımı süresinin uygulanması gerekmektedir.
 Kısmi davanın açılması halinde ; dava açılmayan kısım için zamanaşımı işlemeye devam etmektedir. Asıl davanın açıldığı tarih 25.1.2010 olup ,ıslah tarihi ise 22.2.2016 tarihidir.Kısmi davanın açıldığı tarihten itibaren ıslah tarihine kadar TTK nun 335/son gereği 1 yıllık zamanaşımı süresi geçmiştir.Buna göre;rekabet yasağından kaynaklı talebin ıslah edilen kısma yönelik talebin zamanaşımı nedeniyle reddi gerekmektedir. 25.530-TL tutarlı araçların zararına satışına ilişkin kısım bakımından ise davacı zararın şirket yerine kendisine ödenmesini talep etmiş bulunduğundan zararın kendisine ödenmesi istemli dava açamayacağından bu kısma yönelik talebin aktif husumet yokluğundan reddine karar verilmiştir.Birleşen dava da ise, dava tarihinin maddi hata neticesinde 2010 yılı iken 2011 yılı olduğu gerekçesiyle davanın zamanaşımı nedeniyle reddine karar verilmiştir. Dava TTK 335/son gereği 1 yıllık zamanaşımı süresi içerisinde açılmıştır.Davalı ...'in, 09/12/2009 tarihinde kurduğu ....
 
 ## İstanbul BAM 1. HD 2019/1889 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554924300)
 
 Özellikle, kısmi davaya ilişkin yeni hükümler de dikkate alınıp birlikte değerlendirildiğinde, baştan tespiti mümkün olan hallerde bu yola başvurulması kabul edilemez." şeklindeki açıklamayla, alacağın belirli veya belirlenebilir nitelikte olması durumunda, belirsiz alacak davası açılarak bu davanın sağladığı imkanlardan yararlanmanın mümkün olmadığına işaret edilmiştir. Taraflar arasında alacak miktarı bakımından uyuşmazlık bulunması, talep sonucunun belirlenmesinin davacıdan beklenemeyecek olması anlamına gelmez. Önemli olan objektif olarak talep sonucunun belirlenmesinin davacıdan beklenemeyecek olmasıdır (H. Pekcanıtez, Belirsiz Alacak Davası, Ankara 2011, s. 45; H. Pekcanıtez/O. Atalay/M. Özekes, Medeni Usul Hukuku, 14. Bası, Ankara 2013, s. 448). Sadece alacak miktarında taraflar arasında uyuşmazlık bulunması ya da miktarın tartışmalı olmasının belirsiz alacak davası açılması için yeterli sayılması halinde, neredeyse tüm davaların belirsiz alacak davası olarak kabulü gerekir ki, bu da kanunun amacına aykırıdır. Çünkü, zaten uyuşmazlık bulunduğu için dava açılmakta ve uyuşmazlık mahkeme önüne gelmektedir.
 Önemli olan davacının talebini belirli kılacak imkana sahip olup olmadığıdır. Burada, alacağın belirlenebilir olması ile ispat edilebilirliğinin de ayrıca değerlendirilmesi gerektiği unutulmamalıdır. Davacının talep ettiği alacağı belirlemesi objektif olarak mümkün, ancak belirleyebildiği alacağını ispat etmesi, kanunun öngördüğü şekilde (elindeki delillerle) mümkün değilse, burada da belirsiz alacak davası açılacağından söz edilemez. Çünkü, bir alacağın belirlenmesi ile onun ispatı ayrı şeylerdir. Davacı, talep konusu yaptığı alacağını çok net şekilde belirleyebilir; ancak her zaman onu ispat edecek durumda olmayabilir. Aksinin kabulü, her ispat güçlüğü olan alacağı belirsiz alacağa dönüştürmek gibi, hem kanunun amacına hem de genel ilkelere aykırı bir durumu ortaya çıkartabilir. Alacağın miktarının belirlenebilmesinin, tahkikat aşamasında yapılacak delillerin incelenmesi, bilirkişi incelemesi veya keşif gibi sair işlemlerin yapılmasına bağlı olduğu durumlarda da belirsiz alacak davası açılabileceği kabul edilmelidir.
@@ -138,6 +176,8 @@ Ne var ki, bir davada bilirkişi incelemesine gidilmesi belirsiz alacak davasın
 Somut olayın özellikleri dikkate alınarak, yukarıda belirtilen açıklamalar ışığında, davanın belirsiz alacak davası olarak açılabilmesi için gerekli şartların bulunup bulunmadığının değerlendirilmesine gelince; davacının davasını 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 107. maddesi uyarınca belirsiz alacak davası olarak açtığı, dava konusu taleplerden ecrimisil, mahrum kalınan kira ve artan inşaat maliyet giderlerine ilişki talebinin belirsiz alacak niteliğinde olduğunu kabulü gerekir. Cezai Şart isteminin ise belirsiz alacak niteliğinde değildir. 11.04.2015 tarihinde 29323 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 6644 sayılı Kanun ile 6100 sayılı HMK'nın 109'uncu maddesinin ikinci fıkrası yürürlükten kaldırılmıştır. Bu değişiklik sonucunda, bölünebilir alacaklar yönünden, dava hakkının kötüye kullanılması yasağı dışında, kısmi dava açılabilmesinin yolu açılmıştır. Asıl dava dosyasında davalılar vekilinin istinaf nedenine ilişkin yapılan incelemede;
 
 ## İstanbul BAM 2. HD 2019/778 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501601600)
 
 Gerekçe Ve Sonuç:HMK'nın 355. maddesi gereği, kamu düzenine aykırılık teşkil eden hususlar hariç tutularak, istinaf neden ve gerekçeleri ile sınırlı olmak üzere yapılan incelemede;Dava, Türk Medeni Kanunu'nun 683. maddesinden kaynaklanan mülkiyet hakkına dayalı çaplı taşınmaza elatmanın önlenmesi ve ecrimisil istemine ilişkindir. TMK'nın 683/1. maddesinde, mülkiyet hakkı sahibinin hak ve yetkileri düzenlenmiş olup, "Bir şeye malik olan kimse, hukuk düzeninin sınırları içinde, o şey üzerinde dilediği gibi kullanma, yararlanma ve tasarrufta bulunma yetkisine sahiptir." Aynı maddenin ikinci fıkrasında ise, mülkiyet hakkının malikine sağladığı dava çeşitlerinden ikisi düzenlenmiş olup, "Malik, malını haksız olarak elinde bulunduran kimseye karşı istihkak davası açabileceği gibi, her türlü haksız elatmanın önlenmesini de dava edebilir." Bu maddeye göre malik, aktif yetki kapsamında mülkiyet hakkına konu olan eşya üzerinde kanuni sınırları içinde dilediği gibi tasarrufta bulunma; hem de pasif yetki kapsamında mülkiyet hakkına konu olan eşyayı üçüncü kişilerce yapılacak saldırılara karşı koruma haklarına sahiptir.
 Müdahalenin men'ine ilişkin bu dava ayni bir dava olup, tecavüz devam ettiği sürece açılabilir. Davacı dava konusu şeyin maliki olduğunu ve mülkiyet hakkına davalı tarafından el atıldığını ispatla yükümlüdür. Davalı ise, davacının malik olmadığını ya da davacının mülkiyet hakkına el atmadığını, el atmanın sona erdiğini ispat edebilir. Öte yandan TMK'nın 995. maddesine göre kötüniyetli zilyet, geri vermekle yükümlü olduğu şeyi haksız olarak alıkoymuş olmasından doğan tazminatı karşılamak zorundadır. Davalı iyiniyetli ise, tazminatla yükümlü olmayacak, suiniyetli ise sorumlu kılınacaktır. Rızaya dayalı kullanımda kötü niyet söz konusu olamaz. Ayrıca, taşınmazı kullanan kişi, haklı bir sebebe dayandığına inanarak veya bir edim karşılığı ya da davacının rızası dahilinde kullandığından bahisle yararlanmayı sürdürüyorsa (harici satış, fiili taksim, kira sözleşmesi vs.), rızanın ortadan kalkması veya tarafların aldıklarını iade etmesine kadar taşınmazı elinde bulundurma haksız ve kötü niyetli kullanım olarak kabul edilemez.

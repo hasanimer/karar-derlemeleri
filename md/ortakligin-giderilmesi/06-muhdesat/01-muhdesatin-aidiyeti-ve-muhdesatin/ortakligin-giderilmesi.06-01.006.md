@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2011/1566 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106574700)
+
 Dava taşınmaz üzerindeki muhdesatların aidiyetinin tespiti istemine ilişkindir.
 
 …
@@ -32,6 +34,8 @@ Somut olaya gelince, mahkemece taraf tanıkları dinlenmiş ise de, davacı tara
 
 ## Yargıtay 7. HD 2011/1563 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106569800)
+
 Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti istemine ilişkindir.
 
 …
@@ -41,6 +45,8 @@ Somut olaya gelince, toplanan deliller ve dosya içeriğinden tarafların dava k
 Hal böyle olunca, davanın az yukarıda açıklanan niteliği ve ispatlandığı gözönünde tutularak dava konusu muhdesatın davacı tarafından meydana getirildiğinin tespitine, mülkiyet tespitine yönelik istemin ise reddine karar verilmesi gerekirken yersiz gerekçelerle yazılı şekilde hüküm kurulması isabetsiz, davacı ...’ın temyiz itirazları bu nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, bozma nedenine göre sair yönlerin şimdilik incelenmesine yer olmadığına, peşin ödenen 91,05 TL temyiz harcının istek halinde davacıya iadesine, 15.03.2011 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 7. HD 2010/6524 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798237900)
 
 Tapuda kayıtlı ve taraflar arasında ortaklığın giderilmesi davasına konu olduğu belirlenen 2431 ada 1 parsel sayılı taşınmaz üzerinde bulunan muhtesatların davacı ... tarafından meydana getirildiği, mahkemece yapılan keşif, uygulama, toplanıp değerlendirilen delillerle belirlenmiştir. Bu nedenler ve hükümde gösterilen diğer gerekçelere göre davalı ... Tic.San.A.Ş’nin sair temyiz itirazları yerinde değildir.
 
@@ -52,6 +58,8 @@ ve bu muhdesatın dava tarihi itibari ile değerinin bilirkişi raporunda belirt
 
 ## Yargıtay 7. HD 2010/6515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/793748600)
+
 Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tepitine ilişkindir.
 
 …
@@ -62,11 +70,15 @@ Hal böyle olunca; mahkemece davanın kısmen kabulü sonucunu doğuracak şekil
 
 ## Yargıtay 7. HD 2010/5784 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112077600)
+
 Tapuda kayıtlı taraflar arasında ortaklığın giderilmesi davasına konu olduğu belirlenen 4741 ada 6 parsel sayılı taşınmaz üzerinde bulunan muhtesatın (taşınmazın ön tarafında yer alan iki katlı evin üst katının) davacı ... tarafından meydana getirildiği mahkemece yapılan keşif, uygulama, toplanıp değerlendirilen delillerle belirlenmiştir. Bu nedenler ve hükümde gösterilen diğer gerekçelere göre davalı ...’un sair temyiz itirazları yerinde değildir.
 
 Ancak dava, taşınmaz üzerinde bulunan muhdesatın aidiyetinin ve değerinin tespitine ilişkin olduğu, ortaklığın giderilmesi davası sonucunda taşınmazın satışına karar verildiği takdirde muhdesat değerinin satış dosyasında belirleneceği, bu istem yönünden davacı tarafın tespit istemekte hukuki yararının bulunmadığı gözetildiğinde, davanın kısmen kabulü sonucunu doğuracak biçimde sadece muhdesatın davacı tarafından meydana getirildiğinin tespitine karar verilmekle yetinilmesi, değer tespitine ilişkin istemin ise reddine karar verilmesi gerekirken, davanın niteliğinde yanılgıya düşülerek yazılı şekilde hüküm kurulması isabetsiz, davalı ...’un temyiz itirazları bu nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, peşin alınan harcın istek halinda temyiz eden davalıya iadesine, 14.10.2010 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 7. HD 2010/5293 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113750500)
 
 Dava 4687 parsel sayılı taşınmaz üzerinde bulunan muhdesatın (iki katlı evin) aidiyetinin tespiti istemine ilişkindir.
 
@@ -79,6 +91,8 @@ karar verildi.
 
 ## Yargıtay 7. HD 2010/4882 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17010900)
+
 Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tesbiti istemine ilişkindir.
 
 …
@@ -86,6 +100,8 @@ Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tesbiti istemine iliş
 Ne var ki ;3402 sayılı Kadastro Kanununun 12/3 maddesi hükmünde kadastro tutanaklarının kesinleştiği tarihten itibaren 10 yıl geçtikten sonra bu tutanaklarda belirtilen haklara, sınırlandırma ve tespitlere karşı kadastrodan önceki hukuki sebeplere dayanarak dava açılamayacağı açıklanmıştır. Bu sürenin hak düşürücü nitelikte olduğu ve taraflarca öne sürülmese bile mahkemece kendiliğinden değerlendirileceği tartışmasızdır. Görülmekte olan davada da dava konusu muhdesatın kadastro tespitinden önce meydana getirildiği ve muhdesatın üzerinde bulunduğu 150 ada 8 parsel sayılı taşınmazın tespitinin kesinleştiği gün ile davanın açıldığı gün arasında 3402 sayılı Kadastro Kanununun 12/3 maddesi hükmünde sözü edilen kamu düzenine ilişkin, 10 yıllık hak düşürücü sürenin geçtiği anlaşılmaktadır.
 
 ## Yargıtay 7. HD 2010/3464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111026500)
 
 Dava, 9975 ada 4 parsel sayılı taşınmaz üzerinde bulunan muhdesatın binanın üst katının aidiyetinin tespiti istemine ilişkindir.
 
@@ -95,6 +111,8 @@ Ne varki gerek 743 sayılı Medeni Kanun ve gerekse halen yürürlükte bulunan 
 
 ## Yargıtay 7. HD 2010/3460 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111074700)
+
 Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti istemine ilişkindir.
 
 …
@@ -102,6 +120,8 @@ Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti istemine iliş
 Ortaklığın giderilmesi davasına konu taşınmaz üzerinde bulunan ve arzın mukadderatına tabi olan bütünleyici parça niteliğindeki muhdesatların aidiyetinin tespiti istemi ile açılan davalarda kural olarak tüm tapu maliklerinin, ölmüş ise mirasçılarının taraf olması gerekir. Davanın muhdesata yönelik olarak açıldığı ve taşınmazın ortaklığının giderilmesi davası sonucunda satılması halinde satış bedelinin muhdesatı yapana verilmesinin amaçlandığı gözetildiğinde, ortaklığın giderilmesi davasının yargılaması sırasında muhdesatın davacı tarafça meydana getirildiğini açıkça kabul eden taşınmaz maliklerinin davada hasım gösterilmesine gerek bulunmadığı da kuşkusuzdur.
 
 ## Yargıtay 7. HD 2010/1444 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110877800)
 
 Dava, taşınmaz üzerinde bulunan muhdesatların mülkiyetinin tespiti ile tapu kütüğünün beyanlar hanesinde gösterilmesi istemine ilişkindir.
 
@@ -114,11 +134,15 @@ Hal böyle olunca mahkemece davanın kısmen kabulü ile 114 ve 116 parsel sayı
 
 ## Yargıtay 1. HD 2008/1340 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78051000)
+
 Hemen belirtmek gerekir ki, Türk Medeni Kanunun 684. maddesi hükmü uyarınca söz konusu muhdesatın arzın mütemmim cüz’ü (bütünleyici parça) olduğuna, taraflar arasında muhdesatın aidiyetinin tespitini gerektiren ortaklığın giderilmesi, kamulaştırma gibi bir çekişme de bulunmadığına göre, anılan istek hakkında hukuki yarar yokluğundan ret kararı verilmesi doğrudur. Davacının bu yöne değinen temyiz itirazı yerinde değildir, reddine.
 
 Ne var ki, arzın bütünleyici parçası olan ve yasa gereği (T.M.K. 684. maddesi) tüm paydaşların mülkiyetinde bulunduğu kabul edilen yapının paydaşlar arasında elatmanın önlenmesi davasına konu yapılabileceği de kuşkusuzdur.
 
 ## Yargıtay 7. HD 2006/459 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16482000)
 
 Dava niteliği ve içeriği itibariyle tarafların ortak miras bırakanı Hasan adına tapuda kayıtlı eski 1620, yeni 5583 ada 61 parsel sayılı taşınmaz üzerinde bulunan muhdesatın ikinci ve üçüncü katlarındaki 4 adet dairenin davacıya aidiyetinin tespiti istemine ilişkindir. Mahkemece, toplanan ve değerlendirilen delillere göre, ikinci katta bulunan dairelerin ortak miras bırakanın sağlığında ve miras bırakan Hasan tarafından yaptırıldığı, üçüncü kattaki dairelerin ise, davacı tarafından yaptırıldığı "meydana getirildiği" kabul edilerek davanın kısmen kabulüne karar verilmiş ise de, yerel mahkemenin vardığı sonuç dosya kapsamına uygun düşmemektedir.
 Dosyaya ibraz edilen veraset belgesine göre davacının 28.02.1968 doğumlu olduğu, tanık beyanları ve davacının 29.04.2004 günlü keşifte keşif tutanağına geçen usulün 151. maddesi hükmü uyarınca imzasıyla belgelendirilen beyanından önce binanın ilk iki katının 1977 yılında tamamlanıp, yapı kullanma izin belgesinin alındığı\* miras bırakanı 1980 yılında hastalanması üzerine işini oğlu olan, davacıya bıraktığı, davacının çalıştığı işten elde ettiği tüm parayı kasa olarak gördükleri babası ortak miras bırakan Hasan'a verdiği, bu yolla elde edilen gelirlerle davaya konu üçüncü katın yapılmış olduğu dosya içeriğinden anlaşılmaktadır.

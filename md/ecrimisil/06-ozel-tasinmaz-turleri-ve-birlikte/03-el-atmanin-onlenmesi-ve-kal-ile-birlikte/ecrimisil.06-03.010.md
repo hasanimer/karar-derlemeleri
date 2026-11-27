@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2006/1656 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853096700)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi kal ve ecrimisil istemine ilişkindir.
 
 …
@@ -28,6 +30,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi kal ve ecrimisil istemine ilişk
 Mahallinde yapılan keşif ve bilirkişinin 22.3.2005 günlü raporundan davalının kullanımında bulunan binanın davacı taşınmazına tecavüzlü olduğu sabit olduğu halde, “davacının, meni müdahale ve tahliye kararlarına rağmen taşınmazı işgalcilerinden arındırmadığı ve işgal tazminatı aldığı bu nedenle de kal yoluyla elatmanın önlenmesi isteminde sonucu itibarıyla hukuki yarar bulunmadığı” gerekçesiyle davanın reddine karar verilmiştir.Ne var ki; TMK’nun 683.maddesi, ‘Bir şeye malik olan kimse, hukuk düzeninin sınırları içinde, o şey üzerinde dilediği gibi kullanma, yararlanma ve tasarrufta bulunma yetkisine sahiptir.
 
 ## Yargıtay 1. HD 2004/2156 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16347800)
 
 Dava, Hazine tarafından açılan, çaplı yere elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -56,6 +60,8 @@ Somut olayda; haksız elatmanın önlenmesi, 4721 sayılı TMK'nın 683. ve 995.
 
 ## İstanbul BAM 2. HD 2025/544 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126682800)
+
 DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE;Dava, mülkiyet hakkına dayalı haksız el atma nedeni ile el atmanın önlenmesi, kâl ve ecrimisil talebine ilişkindir.Dosyanın incelenmesinde; dava konusu İstanbul ili, Tuzla ilçesi, ... mahallesi, ... ada, ... parsel sayılı taşınmazın tam pay davalı şirket adına, aynı yer 6558 ada, 6 parselin ise davacı şirket adına kayıtlı olduğu, mahkemece tapu kayıtları, kadastro müdürlüğünce hazırlanan aplikasyon krokisi, ihtarname, kadastro tutanakları, tespite itiraz, yapı ruhsatı celbedilerek mahallinde keşif yapıldığı, bilirkişi heyetinden rapor alındığı anlaşılmıştır.Bilirkişi heyeti dosyaya sunduğu raporunda özetle; beş yıllık ecrimisil miktarının 51.831,70 TL, işgal tarihi olan 24.11.2015 ve ruhsat tarihi olan 10.08.2001 dönemi için 60.057,42 TL, genel toplam olarak ecrimisil miktarının 134.506,44 TL olduğu, istinat duvarının tecavüz ettiği alanının 61,28 m² olduğu, istinat duvarının statik güvenlik nedeni ile mümkün olmadığı belirtilmiştir.Bilirkişi ek raporunda ise; dava tarihi olan 24.11.2021 ile keşif tarihi olan 03.12.2021 dönemi için ecrimisil miktarının 38.486,70 TL, dava tarihinden geriye doğru beş yıl için 88.227,28 TL, 24.11.2015 işgal
 tarihi ile yapı ruhsat tarihi olan 10.08.2001 dönemi için 102.219,13 TL, genel toplamın 228.933,11 TL ecrimisil talep edilebileceği belirtilmiştir.Mahkemece yeniden keşif yapılarak yeni bilirkişi heyetinden rapor alındığı anlaşılmıştır.12.01.2023 tarihli bilirkişi raporunda özetle; davalının taşınmazının davacının taşınmazını B harfi ile gösterilen sarı renkli istinat duvarının taşkın olduğu, duvar dışında kalan alanın 104,30 m² olduğu, bu alanın davalı tarafından malzeme koymak sureti ile aktif olarak kullanıldığı, önceki bilirkişi raporunda tecavüzlü alanın hesabının koordinatlarda sayısal olarak yapılmadığından, grafik olarak yapılan hesap hatası olduğu, emsal değerlendirmesi yapılarak 24.11.2015 - 24.11.2020 dönemi için toplam ecrimisil miktarının 65.599,00 TL, duvarın değerinin 102.114,00 TL, duvarın dava tarihi itibari ile değerinin 81.691,20 TL, duvarın kâl'inin ve yıkım sonunda davalının uğrayacağı zararın toplam 83.620,61 TL olduğunun belirtildiği anlaşılmıştır.Mahkemece 21.02.2023 tarihli ara kararı ile 81.691,20 TL duvar bedeli 65.599;00 TL olmak üzere toplam 147.290,20 TL üzerinden eksik harcı tamamlattığı anlaşılmıştır.Mahkemece mevcut bu delillerle yukarıda
 belirtildiği şekilde karar verilmiştir.TMK' nın 683/1. maddesinde, mülkiyet hakkı sahibinin hak ve yetkileri düzenlenmiş olup, " Bir şeye malik olan kimse, hukuk düzeninin sınırları içinde, o şey üzerinde dilediği gibi kullanma, yararlanma ve tasarrufta bulunma yetkisine sahiptir " Aynı maddenin ikinci fıkrasında ise, mülkiyet hakkının malikine sağladığı dava çeşitlerinden ikisi düzenlenmiş olup, "Malik, malını haksız olarak elinde bulunduran kimseye karşı istihkak davası açabileceği gibi, her türlü haksız elatmanın önlenmesini de dava edebilir " Bu maddeye göre malik, aktif yetki kapsamında mülkiyet hakkına konu olan eşya üzerinde kanuni sınırları içinde dilediği gibi tasarrufta bulunma; hem de pasif yetki kapsamında mülkiyet hakkına konu olan eşyayı üçüncü kişilerce yapılacak saldırılara karşı koruma haklarına sahiptir.
@@ -65,6 +71,8 @@ Tespitten kaçınma halinde, dava dilekçesi muameleye konmaz (16/3. md.). Noksa
 
 ## Denizli BAM 1. HD 2025/299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126607100)
+
 Dava, müdahalenin önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -72,6 +80,8 @@ Dava, müdahalenin önlenmesi ve ecrimisil istemine ilişkindir.
 Tüm dosya kapsamına göre; Davacı tarafça, davalının kira sözleşmesi konusu olmayan alanı fuzulen işgal ettiği iddiasına yönelik uyuşmazlıkta 4721 sayılı Türk Medeni Kanunu'nun 683'üncü ve devamı maddelerinde düzenlenen mülkiyet hakkına dayalı olarak el atmanın önlenmesi ve buna bağlı olarak ecrimisil isteğinde bulunmuş olduğundan anılan isteğin 4721 Sayılı Türk Medeni Kanunu Hükümlerinden kaynaklandığı ve uyuşmazlığın çözümünün 6100 Sayılı HMK'nun 2/1. maddesi uyarınca Asliye Hukuk Mahkemesi görevinde bulunduğu kuşkusuzdur. Zira tarafların ticari şirket olmalarına rağmen el atmanın önlenmesi ve haksız işgal tazminatı istemli davalarda, davanın mutlak ve nispi dava niteliğinin bulunmaması nedeniyle uyuşmazlığın asliye hukuk mahkemesinde görülüp çözülmesi gerekmektedir. (Benzer; Yargıtay 8. Hukuk Dairesi 2019/699Esas 2020/4277 Karar)
 
 ## İstanbul BAM 45. HD 2024/454 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1014794400)
 
 Dava, kooperatif üyeliğinden kaynaklı olarak açılan konut karşılığı tazminat ve sair zararların tazmini istemine ilişkindir.
 
@@ -82,11 +92,15 @@ Blok ... ve ... no.lu dairelerin 03/03/2002 tarihinde yapılan olağan genel kur
 
 ## İstanbul BAM 37. HD 2023/1865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910808300)
+
 K A R A R Dava haksız işgalin tespiti, müdahalenin men'i, haksız işgalden kaynaklı ecrimisil ve mahrum kalınan gelir istemlerinde ilişkindir. İstanbul 26. Asliye Hukuk Mahkemesince, "..davacı ve davalı şirketin Türk Ticaret Kanunu kapsamında tacir oldukları, davaya konu talebin ticari işletmeleriyle ilgili olduğu, hal böyle olunca da davanın ticari dava; davaya bakma görevinin de Asliye Ticaret Mahkemesi'ne ait olduğu .." gerekçesiyle görevsizlik kararı verilmiştir. İstanbul 7. Asliye Ticaret Mahkemesince, "...Davacı maliki olduğu akaryakıt istasyonunun davalı tarafından haksız işgal edildiği iddiasına dayalı olarak eldeki davayı açmış olup Asliye Hukuk Mahkemesi tarafından davacı ve davalı şirketin tacir olduğundan bahisle görevsizlik kararı verilmiş ise de; gerek dava dilekçesine ekli Ankara BAM 16. Hukuk Dairesi'nin 2020/390 Esas 2020/771 Karar sayılı ilamında yine davacı şirket tarafından el atmanın önlenmesi talebi ile açılan davada Asliye Hukuk Mahkemesi'nin görevli olduğundan bahisle kaldırma kararından, gerekse de yine benzer mahiyette Sakarya BAM 6.
 Hukuk Dairesi'nin 2020/683 Esas 2020/1167 Karar sayılı ilamından anlaşılacağı üzere davanın, 4721 sayılı TMK hükümlerinden kaynaklandığı ve uyuşmazlığın çözümünün 6100 sayılı HMK'nın 2/1. maddesi uyarınca Asliye Hukuk Mahkemesinin görevinde bulunduğu ..." gerekçesiyle görevsizlik kararı verilmiştir. Somut olayda davacı maliki olduğu akaryakıt istasyonunun davalı tarafından haksız olarak işgal edildiği gerekçesiyle meni müdahale ve ecrimisil talebinde bulunmuştur.6102 sayılı Türk Ticaret Kanununun 4/I-a maddesinde, her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ve çekişmesiz yargı işleri ile tarafların tacir olup olmadıklarına bakılmaksızın, bu kanunda öngörülen hususlardan doğan hukuk davaları ve çekişmesiz yargı işlerinin ticari dava ve ticari nitelikte çekişmesiz yargı işi sayılacağı açıkça düzenlenmiştir. Dosya kapsamına göre uyuşmazlık tacirler arası haksız fiilden kaynaklanmakta olup, uyuşmazlığın her iki tarafın ticari işletmesini ilgilendirmesine göre davanın İstanbul 7. Asliye Ticaret Mahkemesinde görülüp sonuçlandırılması gerekmektedir. ( T.C.YARGITAY 17. Hukuk Dairesi ESAS NO:2021/2391-KARAR NO:2021/2537; T.C. YARGITAY 4.
 Hukuk Dairesi ESAS NO: 2017/1454 -KARAR NO:2019/5777; T.C. YARGITAY 20. Hukuk Dairesi ESAS NO: 2016/4999 -KARAR NO: 2018/1637)
 
 ## İzmir BAM 6. HD 2021/1399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668032400)
 
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -96,12 +110,16 @@ Somut olayda; Dava, TMK'nın 683/2. maddesine göre açılan elatmanın önlenme
 
 ## İstanbul BAM 4. HD 2020/1358 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617454700)
+
 …
 
 : İstinaf sebepleri ile bağlı kalınarak yapılan incelemede: Dava, el atmanın önlenmesi, kal ve ecri misil alacağına ilişkindir. Davacı her ne kadar dava tarihinde malik olan firma ile dava tarihinden önce taşınmazı devreden firma arasında ihtiyari dava arkadaşlığı olduğunu ileri sürmüş ise de mülkiyet hakkına dayalı haksız el atmanın önlenmesi ve buna bağlı tazminat davasında usulüne uygun dava açmayan taşınmaz malikinin hukuk usulünde yeri olmayan bir biçimde davacı olarak davaya dahil edilmesi talebinin yasal dayanağı bulunmamaktadır. HMK 124/3-4 uyarınca davacının maddi hata ile yanlış gösterildiğinden somut davada söz edilemez, davacı tarafın eksik gösterilmesi de tapu kayıtlarına göre kabul edilebilir bir yanılgı değildir. Usulden red edilen davada yargılama giderlerinin davacıya yüklenmesinde kanuna aykırı bir yön bulunmamaktadır.
 Ancak davada ecri misil talebi bulunduğu, Ecrimisil alacağının dava tarihinden önceki döneme ilişkin olduğu, davacının malik olduğu dönem için ecri misil talep edebileceği, bu yönüyle davacının her ne kadar malik olmaması nedeniyle el atmanın önlenmesi ve kal talebinde bulunamayacağı yönündeki karar doğru ise de davacı ecri misil talebi yönünden aktif dava ehliyetine sahiptir. HMK 355 m uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılan inceleme neticesinde davacı vekilinin istinaf talebinin ecrimisil talebi gözetilerek kabulü ile ilk derece mahkemesi kararının HMK'nın 353/1-a.6 maddesi uyarınca kaldırılmasına, belirtilen yönde taraf delilleri toplanarak yargılama yapılması için dosyanın ilk derece mahkemesine gönderilmesine karar verilerek aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 37. HD 2020/825 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/582125600)
 
 K A R A R Esas dava, haksız işgal nedeniyle ecrimisil ve el atmanın önlenmesi, birleşen dava ise, ecrimisil talebine konu taşınmaz nedeniyle sebepsiz zenginleşmenin gerçekleştiği iddiasıyla açılan tazminat davasıdır. İstanbul 13. Asliye Hukuk Mahkemesince, "... Uyuşmazlığın, kredi sözleşmelerinden doğan borçlarının tahsil ve tasfiye edilmesi amacıyla davalı ve davacı banka arasında akdedilen 29.04.2015 tarihli protokolden kaynaklandığı, davacı ve birleşen dosya davalısı banka olup Türk Ticaret Kanunu hükümlerine tabi olduğundan dava ve birleşen davada görevli mahkeme Asliye Ticaret Mahkemesi..." olduğu gerekçesiyle görevsizlik kararı verilmiştir. İstanbul 1.
 Asliye Ticaret Mahkemesince, "... esas davada, ecrimisil tazminatının dayanağının TMK 683.maddesi ve devamı maddeleri olduğu, birleşen davanın da TBK'da düzenlenen sebepsiz zenginleşme hükümlerine dayalı olarak açıldığı, esas ve birleşen davanın konusu olan sebepsiz zenginleşme ve ecrimisil tazminatının TTK'da düzenlenmediği, buna göre esas ve birleşen davaların mutlak ticari dava olarak kabul edilemeyeceği, yukarıda açıklandığı üzere nisbi ticari dava olarak da kabul edilmesinin mümkün olmadığı, zira bir davanın nisbi ticari dava olarak kabul edilebilmesi için tarafların tacir olması ve ihtilafın ticari işletmeleriyle ilgili olması gerektiği, bu iki koşulun aynı anda gerçekleşmesinin zorunlu olduğu, huzurdaki bu davalarda bu koşulların gerçekleşmediği, nitekim davacı tacir olsa da , davalının tacir olduğuna ilişkin herhangi bir delil bulunmadığı gibi bir an için her iki tarafın tacir olduğu kabul edildiğinde dahi uyuşmazlığın her iki tarafın ticari işletmeleriyle ilgisinin bulunmadığı, sadece davacı banka bakımından ticari işletmesiyle ilgili olduğunun kabulü gerektiği, esas davada davalı-birleşen davada davacı yönünden, bu koşulun oluştuğundan söz edilemeyeceği, ecrimisil

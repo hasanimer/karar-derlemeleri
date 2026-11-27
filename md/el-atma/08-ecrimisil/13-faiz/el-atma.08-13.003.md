@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2015/10045 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/178892300)
+
 Dava, tapulu taşınmaza ve geçit hakkına yapılan elatmanın önlenmesi, yıkım ve ecrimisil istemine ilişkindir.
 
 …
@@ -34,6 +36,8 @@ SONUÇ :Yukarıda (1). bentte açıklanan nedenlerle sair temyiz itirazlarının
 
 ## Yargıtay 1. HD 2015/7828 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141784500)
+
 Dava; çaplı taşınmaza elatmanın önlenmesi, eski hale getirme, ecrimisil ve tazminat isteklerine ilişkindir.
 
 …
@@ -43,6 +47,8 @@ Kabul tarzı itibariyle de; tarafların gösterdikleri tüm deliller eksiksiz to
 Davalı ... Gayrimenkul Yatırım Ortaklığı A.Ş. vekili ile davalı ... İnşaat San. ve Tic. A.Ş. vekilinin temyiz itirazları yerindedir. Kabulü ile, hükmün belirtilen nedenlerden (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/7119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140297200)
 
 Davalılar, husumet ve esas yönünden davaların reddini savunmuşlardır.
 
@@ -60,6 +66,8 @@ Birleştirilen davanın davacıları ile davalılardan Yalova Belediyesi ve TOK�
 
 ## Yargıtay 1. HD 2015/5625 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139670400)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -73,6 +81,8 @@ Ne var ki, faiz isteği yönünden, ıslah tarihinden itibaren ıslahla arttır�
 Davalının temyiz itirazları değinilen yönler itibariyle yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/5230 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/122448500)
 
 Davacılar, kayden paydaşı oldukları .. parsel sayılı taşınmaza davalının haklı ve geçerli bir neden olmaksızın yapılaşmak suretiyle müdahale ettiğini ileri sürerek, ecrimisile, birleştirilen davaları ile de; aynı iddialarını tekrar ederek elatmanın önlenmesi ve yıkıma karar verilmesini istemişlerdir.
 
@@ -92,6 +102,8 @@ Davalının bu yöne değinen temyiz itirazları yerindedir. Kabulü ile hükmü
 
 ## Yargıtay 1. HD 2015/797 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113202600)
+
 Davacılar, mirasbırakan ............'ın maliki olduğu üzerinde kat mülkiyeti ve kat irtifakı kurulmamış 4340 ada 15 parsel sayılı taşınmazını davalılara eşit paylarla 08.11.2004 tarihli satış aktiyle temlik ettiğini, anılan devir işleminin ehliyetsizlik hukuksal nedenine dayalı olarak açtıkları tapu iptali ve tescil davası sonucunda iptal edildiğini ve kararın derecattan geçerek kesinleştiğini, çekişmeli taşınmazdaki binanın zemin katındaki daire ve 1. katındaki daireyi davalıların kiraya vermek 2. katını ise bizzat kullanmak suretiyle tasarruf ettiklerini, 11.12.2009 keşide tarihli ihtara rağmen herhangibir bedel ödenmediğini ileri sürerek dava tarihinden akit tarihine kadar geriye dönük toplam 10.000,00 TL ecrimisilin yıllara göre uygulanacak faizleri ile birlikte tahsiline; yargılama sırasında ise bilirkişi raporu doğrultusunda çekişmeli taşınmazın anahtar tesliminin yapıldığı 28.03.2012 tarihine kadar ıslah ile birlikte 42.622,00 TL ecrimisile karar verilmesini istemişler; birleştirilen davada ise asıl davada davalı İbrahim dava tarihinden önce 15.03.2012 tarihinde öldüğünden yasal mirasçıları olan diğer davalılar .......... ve ..............'e karşı aynı sebebe dayalı olarak
 6.000,00 TL ecrimisil isteğinde bulunmuşlardır.
 
@@ -109,6 +121,8 @@ Ecrimisile her dönem sonu ya da tahakkuk tarihinden itibaren faiz işletilmesi 
 
 ## Yargıtay 1. HD 2015/113 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/103139700)
+
 Davacı, dava konusu 17 parsel sayılı taşınmazda davalı ile paydaş olduklarını, taşınmazın tamamını davalının tek başına kullanması nedeniyle açılan elatmanın önlenmesi ve ecrimisil davasında davanın kabulüne karar verildiğini; davalının kesinleşmiş mahkeme kararına rağmen tecavüzünü sürdürdüğünü ileri sürerek, payına karşılık gelen ecrimisil bedelinin 28/07/2007 tarihinden itibaren, aylık 600-Tl’den 1000 TL'ye çıkartılarak davalıdan tahsiline karar verilmesini istemiştir.
 
 Davalı, davanın reddini savunmuştur.
@@ -124,6 +138,8 @@ Yargıtay'ın yerleşmiş içtihatlarına göre önceki dönem ecrimisil bedeli 
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davacının temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2014/28621 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96802500)
 
 Davacılar vekilinin dava dilekçesi ve ıslah dilekçesi dikkate alındığında, davacı tarafça yalnızca taşınmaza el atmanın önlenmesi, kal ve ecrimisil talebinde bulunulduğu, taşınmazın eski hale getirilmesi isteminde bulunmadıkları anlaşıldığından, el atmanın önlenmesi, kal ve ecrimisil bedeline hükmedilmesi ile yetirilmesi gerekirken yazılı şekilde karar verildiği anlaşılmakla, …
 
@@ -145,6 +161,8 @@ Davacılar ve davalı şirketler vekillerinin temyiz itirazları yerinde olduğu
 
 ## Yargıtay 1. HD 2014/19097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/300534200)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -152,6 +170,8 @@ Dava, elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 Ne var ki, anılan bu husus yeniden yargılama yapılmasını gerektirmediğinden mahkeme kararının hüküm kısmının (2) numaralı bendindeki "1.345,44-TL alacağın dava tarihi olan 14.03.2008 tarihinden itibaren işleyecek faizi ile birlikte davalıdan alınarak davacıya verilmesine" ibaresinin çıkarılarak yerine "08.03.2005-08.03.2006 dönemine ilişkin 406,56-Tl, 08.03.2006-08.03.2007 dönemine ilişkin 447,12-TL, 08.03.2007-03.03.2008 dönemine ilişkin 491,76-TL olmak üzere toplam 1.345,44-TL ecrimisilin dönem sonlarından itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine, fazlaya ilişkin talebin reddine" ibaresinin yazılmasına, davacının bu yöne ilişkin temyiz itirazının kabulü ile 6100 sayılı HMK'nin geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 438/7.
 
 ## Yargıtay 1. HD 2014/18827 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/301334800)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -165,6 +185,8 @@ Davalıların temyiz itirazı değinilen yönler itibariyle yerindedir. Kabulü 
 
 ## Yargıtay 1. HD 2014/16940 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84322000)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -177,6 +199,8 @@ Taraf vekillerinin bu yönlere değinen temyiz itirazları yerindedir. Kabulüyl
 
 ## Yargıtay 1. HD 2014/15249 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84221000)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -184,6 +208,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişki
 Hâl böyle olunca, açıklanan ilkeler gözetilmek suretiyle kira esasına göre emsallerde incelenmek suretiyle dava konusu taşınmazın 2010 yıllında getirebileceği ecrimisilin belirlenmesi, sonraki dönemler için ÜFE artış oranının uygulanması, böylece hüküm vermeye elverişli rapor alınarak, hasıl olacak sonuca göre bir karar verilmesi gerekirken; hükme yeterli olmayan rapora itibar edilerek yazılı şekilde ecrimisile karar verilmiş olması doğru olmadığı gibi ecrimisil davalarında, her dönem sonu için belirlenen miktara dönem sonu (tahakkuk tarihi) itibariyle faiz yürütülmesi gerekirken belirlenen ecrimisil miktarının tamamına ihtar tebliğ tarihinden itibaren faiz işletilmesi de isabetsizdir. Davalı hazine vekilinin ve davalı il özel idaresi vekilinin bu yönlere ilişkin temyiz itirazları yerindedir.Kabulüyle,hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA, 01.10.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2014/5961 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84233100)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -194,6 +220,8 @@ Hal böyle olunca; davalı idare tarafından dava konusu taşınmaza el atıldı
 Davacılar vekili ile davalı vekilinin bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/4889 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84128200)
 
 Dava, elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -207,6 +235,8 @@ Tarafların, temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan ned
 
 ## Yargıtay 1. HD 2014/4735 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84099500)
+
 Dava, paydaşlar arasında el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -219,6 +249,8 @@ Hal böyle olunca yukarıda belirtilen ilkeler ve değinilen hususlar dikkate al
 
 ## Yargıtay 1. HD 2014/4082 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84119200)
+
 Dava, paydaşlar arası ecrimisil isteğine ilişkindir.
 
 …
@@ -229,6 +261,8 @@ Davacının, temyiz itirazları yukarıda belirtilen nedenlerle yerindedir. Kabu
 
 ## Yargıtay 1. HD 2013/18585 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/260925200)
+
 Dava, ecrimisil ve tel çitin sökülmesi nedeniyle tazminat isteğine ilişkindir.
 
 …
@@ -238,6 +272,8 @@ Hal böyle olunca; elatmanın önlenmesi ve yıkım kararlarından sonra davalı
 Davalının, temyiz itirazları değinilen yön itibarıyle yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/17134 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255758000)
 
 Davacı, asıl davasında kayden maliki olduğu 5603 parsel sayılı taşınmazın, davalı tarafından alınan maden nedeniyle doğal ve fiziki yapısının bozulduğu, ekim ve dikime elverişliliğinin ortadan kalktığını ileri sürerek elatmanın önlenmesi, maden bedeli ve eski hale iade bedelinin davalıdan tahsilini istemiş, 06.01.2011 tarihli ıslah dilekçesi ile maden bedelinin tahsili yerine ecrimisile, eski hale iade bedeli yerine taşınmazın sürüm değeri olan 53.600 TL'nin davalıdan tahsili ile taşınmazın 4082 m² lik bölümünün ifrazı ve davalı adına tesciline, birleşen davasında ise taşınmazın sürüm bedelinin bakiyesi olan 19.185 TL'nin davalıdan tahsiline karar verilmesini istemiştir.
 
@@ -253,6 +289,8 @@ Tarafların belirtilen yönlere değinen temyiz itirazları yerindedir. Kabulü 
 
 ## Yargıtay 1. HD 2013/16566 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79695500)
+
 Dava, müstakilen ecrimisil isteğine ilişkindir.
 
 …
@@ -267,6 +305,8 @@ Tarafların bu yöne değinen temyiz itirazları yerindedir. Kabulü ile hükmü
 
 ## Yargıtay 1. HD 2013/11337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79765800)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -277,6 +317,8 @@ Davalı vekilinin bu yönlere ilişkin temyiz itirazları yerinde değildir. Red
 Ne var ki, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 26. maddesinde; hakimin tarafların talep sonuçları ile bağlı olduğu, ondan fazlasına karar veremeyeceği hüküm altına alındığı ve somut olayda da, ecrimisil için faiz isteğinde bulunulmadığı halde, talep aşılmak sureti ile hüküm altına alınan ecrimisile dava tarihinde itibaren faiz işletilmiş olması doğru değildir.
 
 ## Yargıtay 3. HD 2013/5888 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257818700)
 
 Davacı vekili dilekçesinde; taraflar ile dava dışı kardeş ...’nın paydaşı bulunduğu dört adet taşınmazın ve müvekkilinin maliki bulunduğu bir adet taşınmazın davalı tarafından kiraya verildiğini, ancak davalının müvekkilinin payına düşen kira gelirini ödememesi nedeniyle taraflar arasında niza çıktığını ileri sürerek; fazlaya ilişkin hakları saklı kalmak kaydıyla, 03.08.2005 ila 03.08.2010 tarihleri arasındaki dönem için şimdilik 369.283 TL kira alacağı ve dava tarihi itibariyle işlemiş 53.475,94 TL faiz olmak üzere toplam 422.759,... TL nin, kira alacağına dava tarihinden işleyecek yasal faiz ile birlikte tahsilini talep etmiştir.
 
@@ -290,6 +332,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 1. HD 2013/5819 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79729900)
+
 Hal böyle olunca, tarafların iddiaları ve savunmaları gözetilerek araştırma ve inceleme yapılması,tanık dahil tarafların gösterecekleri delliler toplanıp yerinde yapılacak keşifte yerel bilirkişi ve tanık beyanlarına başvurulmak suretiyle ve uzman bilirkişilerden alınacak rapor ve krokiye belirlenen hususlar da yansıtılarak yukarıdaki ilkeler uyarınca inceleme yapılması,öncelikle tüm paydaşları kapsar şekilde paydaşlar arasında harici bir taksim olgusu olup olmadığı üzerinde durulması, böyle bir taksim olgusu kanıtlanamaz ise dışarıda kalmayacak şekilde tüm paydaşların uzun zamandan beri taşınmazı kullanımı açısından fiili bir durumun yaratılıp yaratılmadığının tespit edilmesi, böyle bir fiili durumun olmadığının anlaşılması halinde ise davacıların taşınmazda payından az veya çok kullandığı veya kullanabilecekleri bir yerin olup olmadığının saptanması, bir başka ifade ile davacılar yönünden intifadan men olgusunun gerçekleşip gerçekleşmediğinin, ayrıca davalı tarafın taşınmazı harici satın almaya dayalı kullanıp kullanmadığının belirlenmesi,harici satın alma savunması kanıtlanır ise davacı A.nin ecrimisil isteğinin reddedilmesi aksi halde oluşacak duruma göre bir karar verilmesi
 gerekirken, eksik inceleme ile yetinilerek neticeye gidilmiş olması isabetli değildir. Kabule göre de;davacı, dava dilekçesinde ecrimisile dava tarihinden itibaren faiz uygulanmasını talep etmiş iken ıslah dilekçesinde bilirkişi raporunda saptanan tüm ecrimisile ıslah tarihinden itibaren faiz uygulanmasını istemiştir.Davacının faiz istemi bakımından talebini daraltmasına rağmen dava tarihinin faiz başlangıcına esas alması doğru olmadığı gibi davacı A.nin kayden 6/240 hisse oranında maliki olduğu 8 ve 343 parsel sayılı taşınmazlardaki paylarını 10.08.2009 tarihinde oğlu davacı R.satış suretiyle temlik ettiği halde bilirkişi raporunda hesaplanan toplam 4.064,61 TL ecrimisil bedelinin dava tarihinden geriye doğru 5 yıllık süreden satış tarihine kadar davacı A.nin ve satış tarihinden dava tarihine kadar ise davacı R.in hakettiği ecrimisil bedelinin infaza elverişli bir şekilde teknik bilirkişiden rapor alınmak suretiyle hesaplanıp karar verilmesi gerekirken yazılı şekilde karar verilmesi de isabetsizdir.
 
@@ -297,10 +341,14 @@ Davalı tarafın, temyiz itirazı açıklanan nedenlerden ötürü yerindedir. K
 
 ## Yargıtay 3. HD 2012/25076 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481811200)
+
 Ancak ecrimisil davaları 5 yıllık zamanaşımına tabidir. Davalı taraf süresi içerisinde zamanaşımı def'inde bulunmuştur. Bu durumda dava tarihinden geriye 5 yıllık dönem olan 19.10.2004 tarihinden önceki ecrimisil talepleri ile ilgili zamanaşımına ilişkin olumlu ve olumsuz bir karar verilmemiş olması; Diğer yandan, ecrimisil davalarında talep halinde dönem sonlarından itibaren kademeli yasal faize hükmolunur. Davacı taraf dava dilekçesinde dönem sonları itibariyle kademeli faiz istemiştir. Bu durumda davacı tarafın kademeli faiz miktarına ilişkin bilirkişiden rapor alınıp bu kademeli faizin temyiz eden davalının lehine olması halinde kademeli faize hükmolunmalı aksi takdirde davalının kazanılmış hakkının ihlal edilmemesi için şimdi hükmolunan faizin lehe olması halinde şimdiki gibi faize hükmolunmalıdır.
 Eksik inceleme ve araştırma ile yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 05.12.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2012/25051 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481725400)
 
 Ecrimisil davalarında, istem olması halinde her dönem için belirlenen miktara dönem sonu (tahakkuk tarihi) itibariyle faiz yürütülmesi gerekir. Belirlenen ecrimisil miktarının 66.259,20 TL'sinin dönem sonu olan 05.03.2010 tarihinden, kalan miktarın ıslah tarihinden itibaren yasal faiz işletilmesi gerekirken, 66.259,20 TL'sinin dava tarihinden, kalan miktarın ıslah tarihinden itibaren işleyecek yasal faizi ile davalıdan tahsiline karar verilmesi doğru görülmemiştir.
 

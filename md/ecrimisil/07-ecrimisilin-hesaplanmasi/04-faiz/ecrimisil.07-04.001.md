@@ -25,11 +25,15 @@ Dairemizce yapılan inceleme sonucunda; mahallinde yapılan keşif sonucu ... Ma
 
 ## Yargıtay 7. HD 2024/3721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095903300)
+
 Yargıtay 1.Hukuk Dairesince;
 “...çekişme konusu, tarla vasıflı, 462 ada-3 parsel sayılı, 14.212 metrekare yüzölçümlü taşınmazın 6.11.1950 tarihli tesis kadastrosu işlemi ile ... adına kayıtlı olduğu, İstanbul (kapatılan) 24.Sulh Hukuk Mahkemesinin 2007/203 E-2007/316 K sayılı ilamı ile içerisinde dava konusu taşınmazın da yer aldığı toplam 5 parça taşınmazın maliki olan ...’ya TMK’ nin 427 nci maddesi gereğince en büyük mal memuru İstanbul Defterdarı ...’in kayyum olarak atanmasına karar verildiği, dava konusu taşınmazın tapu kaydında kayyum tayinine ilişkin hususun beyanlar hanesinde şerh verildiği, davalıların kayda dayalı bir haklarının bulunmadığı, taşınmaz üzerinde 40 kadar kaçak bina ve bahçe bulunduğunun, davalılar tarafından işgal edilen kısmın 450 metrekarelik yer olduğunun keşfen sabit olduğu, davalılardan, ... ... temyiz aşamasında tapu senedi ibraz etmek suretiyle dava konusu taşınmazda 18.05.2010 tarihinden itibaren zilyetliğinin başladığını belirtmiş ise de yargılama aşamasında öne sürülmeyen savunmanın (kamu düzeni hariç) kanun yolu aşamasında ileri sürülemeyeceği nazara alındığında davalının bu hususa yönelik temyiz itirazlarının yerinde görülmediğinden reddine, ancak davanın 29.03.2011
 tarihinde açıldığı, davalıların ıslahla zamanaşımı def’inde bulunduğu, bu durumda dava tarihinden geriye doğru 5 yıl için ecrimisil hesaplanabileceği, davacı tarafından dönemsel faiz istendiğine göre 29.3.2006 tarihinden itibaren birer yıllık dönemler ile hesaplanan ecrimisile ilk dönem için 29.03.2007 tarihinden itibaren, diğer ecrimisil dönemleri için dönem sonu itibariyle faiz işletilmek suretiyle karar verilmesi gerekirken yanılgılı değerlendirme ile takvim yılı itibariyle ecrimisil döneminin belirlenmesi ve buna göre faize hükmedilmesinin doğru olmadığı..." gerekçeleriyle karar bozulmuştur.
 
 ## Yargıtay 7. HD 2024/1123 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016027700)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -39,9 +43,13 @@ Kabule göre de; Mahkemece ecrimisilin tahakkuk tarihinden (ait oldukları yıl�
 
 ## Yargıtay 7. HD 2024/1022 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015400900)
+
 Bölge Adliye Mahkemesi yukarıda tarih ve sayısı belirtilen kararıyla "..istinaf edenin sıfatı ve istinaf sebepleri ile sınırlı olarak yaptığı incelemede; ecrimisil davalarında faize dönem sonu itibariyle kademeli olarak hükmedilmesi gerekir ise de; mahkemece işgal tarihinden itibaren yasal faize hükmedilmesi kararına karşı istinaf bulunmadığından, faizin başlangıcı konusundaki yanılgıya işaret edilerek ve taraflar arasında ticari ilişki söz konusu olmadığından yasal faize hükmedilmesinde herhangi bir yanılgı bulunmadığı belirtilerek davacı vekilinin istinaf başvurusunun esastan reddine" karar vermiştir.
 
 ## Yargıtay 7. HD 2023/4083 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979118700)
 
 Hükme esas alınan 29.11.2021 tarihli rapor, 1 nci bentte belirtilen sebeplerle hüküm kurmaya elverişli ve yeterli değildir. Mahkemece, davalı ...'in kullandığı yer dışında kalan dava konusu bağımsız bölümlere yönelik olarak, alanında uzman bilirkişi eli ile, yukarıda "ilgili hukuk" bölümünde belirtilen ilkeler dikkate alınarak, talep edilen ilk dönemde taşınmazın mevcut şartları ile getirebileceği kira bedelinin belirlenmesi ve bu miktara ÜFE oranında artış uygulanarak, usulüne uygun şekilde, dava konusu bağımsız bölümü kullanan davalının sorumlu olduğu ecrimisil miktarının tespiti, önceki hükmü davacı tarafın temyiz etmemiş olması nedeniyle davalı taraf lehine oluşan usuli kazanılmış haklar da göz önünde bulundurularak, oluşacak sonuca göre bir hüküm kurulması gerekmektedir.
 
@@ -49,15 +57,21 @@ Bunlardan ayrı olarak, davalı tarafın faize ilişkin temyiz itirazına gelinc
 
 ## Yargıtay 7. HD 2023/2697 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915912100)
+
 Daireler bakımından ise, mahkemece uyulan bozma ilamı doğrultusunda, intifadan men şartının gerçekleştiği tarihten dava tarihine kadar olan dönem için ecrimisil hesabı yapılması gerekirken, dava tarihinden geriye doğru giderek 2006 yılına kadar ecrimisil hesabı yapılması doğru görülmemiştir.
 
 Kabule göre de; kabul edilen ecrimisil miktarına dönem sonları itibarıyla yasal faize hükmedilmesi gerekirken, değişen oranlar uygulanmak suretiyle yasal faize hükmedilmesi ve ayrıca daireler bakımından, 4 aylık dönem sonundan itibaren faize hükmedilmesi gerekirken, her ay için ayrı ayrı faize hükmedilmesi doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2023/1208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897640400)
+
 Yargıtay 8. Hukuk Dairesince; davalının sair temyiz itirazlarının reddiyle, zamanaşımı def’inin dikkate alınmadan hüküm tesis edilmiş olduğu ve alacağa dönem sonlarından itibaren faiz hükmedilmesi gerekirken, toplam ecrimisile davacının edinme tarihinden itiberen faiz hükmedilmesi, faiz yönünden dönem sonlarının gösterilmemiş olduğu gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2022/2678 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/754799900)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -69,6 +83,8 @@ Dava, ecrimisil isteğine ilişkindir.
 
 ## Yargıtay 7. HD 2022/2179 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/752124600)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil talebine ilişkindir.
 
 …
@@ -76,6 +92,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil talebine ilişkindi
 Bilindiği üzere HMK’nin 26. maddesinin 1. fıkrasında “Hakim tarafların talep sonuçlarıyla bağlıdır. Ondan fazlasına ya da başka bir şeye karar veremez. Duruma göre talepten daha azına karar verebilir.” hükmü düzenlenmiştir. Bu doğrultuda somut olaya gelince, dava dilekçesinde 40.000 TL ecrimisil bedelinin faiziyle davalıdan tahsili talep edilmiş, yargılama sırasında 18.05.2017 tarihli ıslah dilekçesi ile, talep 230.915,54 TL’ye artırılarak, 40.000 TL’nin dava tarihinden, bakiye talebin ise ıslah tarihinden itibaren faiziyle davalıdan tahsili talep edilmiş olmasına rağmen, bölge adliye mahkemesince talep aşılarak 220.915,54 TL’nin dava tarihinden itibaren yasal faiziyle davalıdan tahsiline karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2021/5192 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684270900)
 
 Dava; ecrimisil istemine ilişkindir.
 
@@ -85,6 +103,8 @@ Açıklanan ilkeye göre tüm dosya kapsamı incelendiğinde; dava konusu 1690 p
 
 ## Yargıtay 8. HD 2021/3234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680978000)
+
 Dava, çaplı taşınmaza yönelik elatmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
 …
@@ -92,6 +112,8 @@ Dava, çaplı taşınmaza yönelik elatmanın önlenmesi, kal ve ecrimisil istem
 Bilindiği üzere ecrimisil davalarında, her dönem için belirlenen miktara dönem sonu (tahakkuk tarihi) itibariyle faiz yürütülmesi gerekmektedir. Mahkemece, varılacak sonuca göre ecrimisilin tahsiline karar verilmesi halinde hangi dönem için kaç lira ecrimisilin tahsili gerektiğinin ve buna göre faizin başlama tarihinin, diğer bir deyişle dönem sonlarının hükümde açıkça belirtilmesi gerektiği de dikkate alınmalıdır.
 
 ## Yargıtay 8. HD 2021/2149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664312000)
 
 Dava, mülkiyet hakkına dayalı çaplı taşınmaza elatmanın önlenmesi, kal (yıkım) ve ecrimisil isteklerine ilişkindir.
 
@@ -101,6 +123,8 @@ Bu durumda Mahkemece, davalı ... aleyhine yürütülecek ecrimisil isteminde, D
 
 ## Yargıtay 7. HD 2021/1798 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/703786900)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil talebine ilişkindir.
 
 …
@@ -109,6 +133,8 @@ Bilindiği üzere HMK’nin 26. maddesinin 1. fıkrasında; “Hakim tarafların
 
 ## Yargıtay 8. HD 2020/7873 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634548700)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -116,6 +142,8 @@ Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 Ecrimisil talebi yönünden davalıların müdahale ettileri anlaşılan dava konusu üç katlı binanın bodrum ve zemin katlarıyla ilgili işgalde bulunan davalılar yönünden ayrı ayrı hesaplama yapılması gerekirken davalıların kullanmadıkları bölümün de ecrimisil hesabına katılması ve her bir davalının hangi miktar ecrimisilden sorumlu olduğu yazılmaksızın, tek ecrimisile hükmedilmesi suretiyle HMK’nin 297. maddesine aykırı davranılması ve hükmedilen ecrimisile yasal faiz uygulanması gerekirken temerrüt faizinin uygulanması da doğru olmamıştır.
 
 ## Yargıtay 8. HD 2020/7800 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634493600)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -127,6 +155,8 @@ Diğer yandan hükme esas alınan rapor da hüküm kurmaya elverişli değildir.
 
 ## Yargıtay 8. HD 2020/7051 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645479000)
+
 Dava, paydaşlar arasında olmakla, paya elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -134,6 +164,8 @@ Dava, paydaşlar arasında olmakla, paya elatmanın önlenmesi ve ecrimisil iste
 Mahkemece ecrimisil yönünden davanın kısmen kabulü ile 11.388,78 TL ecrimisilin davalıdan tahsiline karar verilmiş ise de, hükmün gerekçesinde yazılı olan hususların tam olarak hükme yansıtılmamış olması doğru görülmemiştir. Mahkemece 11.388,78 TL alacağın her aya ilişkin ay sonundan itibaren işleyecek yasal faizi ile birlikte denilerek hüküm kurulması doğru olmayıp her dönemin ayrı ayrı hüküm fıkrasında gösterilerek faizin başlangıç tarihi de belirtilmek suretiyle hüküm kurulması gerekmektedir. Hüküm bu haliyle infaza elverişli değildir. O halde Mahkemece hangi dönem için kaç lira ecrimisilin tahsili gerektiğinin ve buna göre faizin başlama tarihinin, diğer bir deyişle dönem sonlarının hükümde açıkça belirtilmesi gerekmektedir. Ne var ki, bu yanlışlık yeniden yargılamayı gerektirmediğinden hükmün düzeltilerek onanmasına karar verilmiştir.
 
 ## Yargıtay 8. HD 2020/6702 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622673200)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -145,6 +177,8 @@ O halde Mahkemece, taraflardan emsal kira sözleşmeleri istenmesi, gerekirse be
 
 ## Yargıtay 8. HD 2020/6407 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610453900)
+
 Dava; çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -152,6 +186,8 @@ Dava; çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişki
 Ecrimisil davalarında talep olması halinde hükmedilecek ecrimisil bedeline tahakkuk tarihleri olan dönem sonlarından itibaren yasal oranda faiz yürütülür. Mahkemece, ecrimisil alacağının dönem sonlarından işleyecek yasal faizi ile birlikte davalılardan alınmasına karar verilmesinde bir isabetsizlik bulunmamakla birlikte, dönem sonlarının kararda açıkça belirtilmemiş olması infazda tereddüt oluşturacağından doğru olmamıştır.
 
 ## Yargıtay 8. HD 2020/6200 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613707300)
 
 Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 
@@ -161,6 +197,8 @@ Kabule göre de; ecrimisil davalarında talep olması halinde, bilirkişi taraf�
 
 ## Yargıtay 8. HD 2020/6174 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610018100)
+
 Dava ecrimisil isteğine ilişkindir.
 
 …
@@ -168,6 +206,8 @@ Dava ecrimisil isteğine ilişkindir.
 Tarafların hesaplamaya yönelik temyiz itirazlarına gelince, 15.12.2014 tarihli ek bilirkişi raporunda, 13.08.2010-21.03.2012 tarihleri arasındaki dönem için hesaplanan ecrimisile her ayın sonundan itibaren faiz işletilerek toplam 166,29 TL faiz hesaplandığı anlaşılmaktadır. Mahkemece 2.243,38 TL ecrimisilin ve 166,29 TL faizin yasal faizi ile birlikte tahsiline karar verilerek faize faiz yürütülmesi doğru değilse de, bu husus yeniden yargılamayı gerektirmediğinden kararın düzeltilerek onanması uygun görülmüştür.
 
 ## Yargıtay 8. HD 2020/6158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/611027400)
 
 Dava; ecrimisil istemine ilişkindir.
 
@@ -177,6 +217,8 @@ Ecrimisil miktarına, tahakkuk tarihleri olan dönem sonlarından itibaren faize
 
 ## Yargıtay 8. HD 2020/5364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609393200)
+
 Dava; ecrimisile ilişkindir.
 
 …
@@ -184,6 +226,8 @@ Dava; ecrimisile ilişkindir.
 Kabule göre de; 6100 sayılı HMK'nin 297/2 maddesi hükmüne göre; taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi, infaza elverişli biçimde hüküm kurulması zorunludur. Mahkemece, her dönem için ecrimisil miktarı ve faizin başlangıç tarihi ayrı ayrı gösterilmesi gerekirken, infazda tereddüte neden olacak şekilde, toplam ecrimisilin dönem sonlarından itibaren faiziyle tahsiline karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2020/2240 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/586557700)
 
 Dava; ecrimisil alacağına yönelik icra takibine yapılan itirazın iptali istemine ilişkindir.
 
@@ -193,9 +237,13 @@ Dava; ecrimisil alacağına yönelik icra takibine yapılan itirazın iptali ist
 
 ## Yargıtay 8. HD 2019/7835 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646950900)
+
 Bundan ayrı, ecrimisil talep edilen dönem 1 yılı aşmadığından mahkemece hüküm altına alınan alacak miktarına dava tarihinden itibaren yasal faize hükmedilmesi gerekirken dönem ve tarihi belirtilmeksizin dönem tahakkuk tarihinden itibaren yasal faizi ile denilmek suretiyle infazı kabil olmayacak şekilde faize hükmedilmesi de doğru olmamıştır.
 
 ## Yargıtay 8. HD 2019/5381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647156800)
 
 Dava, çaplı taşınmaza yönelik ecrimisil isteğine ilişkindir.
 
@@ -207,6 +255,8 @@ Kabule göre de; hükmedilecek ecrimisil bedellerine ait olduğu yıllar itibari
 
 ## Yargıtay 8. HD 2019/3480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522802000)
+
 Dava, paydaşlar arasında ecrimisil istemine ilişkindir.
 
 …
@@ -215,6 +265,8 @@ Kabule göre de; HMK’nin 297/2. maddesi gereğince, Mahkemece verilen hüküm 
 
 ## Yargıtay 8. HD 2019/2005 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498965400)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -222,6 +274,8 @@ Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 Kabule göre de; Davacılar tarafından, belirlenecek ecrimisilin dönem sonları itibariyle tahakkuk edecek yasal faizi ile birlikte davalı kurumdan tahsilinin talep edildiği gözetilerek kademeli faize karar verilmiş olması doğru ise de; somut olaya göre dönem sonlarının yıl sonları olduğu gözardı edilerek her ayın sonundan itibaren tahakkuk edecek yasal faize karar verilmiş olması da doğru değildir.
 
 ## Yargıtay 8. HD 2019/1642 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500407200)
 
 Dava, ecrimisil ve davalı tarafından alındığı iddia olunan depozito bedelinin faizi isteklerine ilişkindir.
 
@@ -233,6 +287,8 @@ Kabule göre de; davacının işgal tarihinden itibaren faiz isteği gözönüne
 
 ## Yargıtay 8. HD 2019/78 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482664000)
+
 Dava ; ecrimisil istemine ilişkindir.
 
 …
@@ -241,6 +297,8 @@ Bir kısım davalıların sair karar düzeltme taleplerine gelince; faizin başl
 
 ## Yargıtay 8. HD 2018/18311 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462197700)
+
 Dava, haksız işgal iddiasına dayalı ecrimisil istemine ilişkindir.
 
 …
@@ -248,6 +306,8 @@ Dava, haksız işgal iddiasına dayalı ecrimisil istemine ilişkindir.
 Şöyle ki, davacılar, davalı kiracının kira sözleşmesi dışında kalan bölümü, kiralanan alanlar ile birleştirmek suretiyle kullandığını ileri sürerek, dava tarihinden geriye yönelik kira kontratının başlangıç tarihine kadar fazlaya ilişkin hakları saklı kalmak üzere, şimdilik 20.000 TL ecrimisil alacağının dönem sonlarından itibaren işleyecek ticari faiziyle birlikte davalıdan tahsiline karar verilmesini istemişler, bilirkişi raporu doğrultusunda da davayı ıslah etmişlerdir. Mahkemece, asıl dosya açısından bozmadan sonra ıslah mümkün olmadığından dava dilekçesindeki talep olan 20.000,00-TL. ecrimisilin dönem sonundan itibaren işleyecek avans faiziyle birlikte davalıdan alınarak davacıya verilmesine, ıslahla arttırılan kısma ilişkin talebin reddine karar verilmiş ise de, Mahkemece hüküm altına alınan miktarın ne kadarlık kısmının hangi döneme ait olduğu, dönem sonları ve hangi miktara hangi tarihten itibaren faiz işletileceği açıkça belirlenmemiştir.
 
 ## Yargıtay 8. HD 2018/15582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451654200)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -259,6 +319,8 @@ Yine kabule göre de, hükme esas alınan bilirkişi raporunda 2007-2011 yıllar
 
 ## Yargıtay 1. HD 2018/771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406162300)
+
 Dava ecrimisil istemine ilişkindir.
 
 …
@@ -269,11 +331,15 @@ Somut olayda ise, dönem sonlarından itibaren 6183 Sayılı Amme Alacaklarını
 
 ## Yargıtay 16. HD 2017/9052 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387334700)
+
 Asıl dosyadaki davacı ...’in ecrimisil davasının temyiz itirazlarının incelenmesinde; Mahkemece, ziraat bilirkişi raporu doğrultusunda davacının son beş yıla ilişkin ecrimisil talebinin kabulüne karar verilmiş ise de, yapılan inceleme, araştırma ve uygulama hüküm vermeye yeterli değildir. Hemen belirtmek gerekir ki, ecrimisil hesabı uzmanlık gerektiren bir konu olup, taşınmazın niteliğine uygun bilirkişi marifetiyle keşif ve inceleme yapılarak ve taleple bağlı kalınarak ecrimisil yani haksız işgal tazminatı miktarı belirlenmelidir. Alınan bilirkişi raporu, somut bilgi ve belgelere dayanmalı, tarafların ve hakimin denetimine açık, değerlendirmenin gerekçeleri bilimsel verilere ve HMK'nın 266 vd. maddelerine uygun olmalıdır.
 Bu nedenle, özellikle tarım arazilerinin haksız kullanımından kaynaklanan bir talep varsa, bu konudaki resmi veriler getirtilmeli, taşınmazın bulunduğu bölgede ekilen tarım ürünlerinin neler olduğu, bu ürünlerin ecrimisil talep edilen yıllara göre birim fiyatları ve dekara göre verim değerleri tarım il veya ilçe müdürlüğünden sorulmalı, hal müdürlüğünden ilgili dönem için birim fiyatlar getirtilmeli, bölgede münavebeli ekim yapılıp yapılmadığı ve taşınmazın nadasa bırakılıp bırakılmadığı tespit edilmelidir. Öte yandan; kural olarak ecrimisil isteğini içeren davalarda talep olması halinde, bilirkişi tarafından her yıl için saptanan ecrimisil miktarına, tahakkuk tarihleri olan dönem sonlarından itibaren yasal oranda işleyecek kademeli faize hükmedilmesi gerektiğinde şüphe yoktur. Kademeli faiz talebi olmaksızın yalnızca faiz talep edilmiş ise dava tarihinden itibaren yasal faize hükmolunabilir. Somut olayda; gerek mahkemece yapılan araştırmanın, gerekse de hükme esas alınan ziraat bilirkişi raporunun yeterli ve yukarıda açıklanan yönteme uygun olduğunu söyleyebilme olanağı yoktur.
 Hâl böyle olunca, ecrimisilin yukarıda değinilen ilke ve açıklamalar doğrultusunda belirlenmesi ve her yıl için saptanan ecrimisil miktarına, tahakkuk tarihleri olan dönem sonlarından itibaren yasal oranda işleyecek kademeli faize hükmedilmesi gerekirken değinilen hususlar göz ardı edilerek yazılı olduğu şekilde hüküm kurulması isabetsiz olup, davalı ...’in ecrimisil davasına yönelik temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, 18.12.2017 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2017/3948 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351015200)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -284,6 +350,8 @@ Dosya içeriği ve toplanan delillere, hükmün dayanağı yasal ve hukuksal ger
 Asıl ve birleştirilen davada davalı ... İhracat şirketinin temyiz itirazlarına gelince, öteki temyiz itirazları yerinde değilse de hüküm altına alınan haksız işgal tazminatı niteliğindeki ecrimisile yasal faiz hükmedilmesi gerekirken ticari faiz hükmedilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2017/3433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/349764600)
 
 Dava, çaplı taşınmaza yönelik ecrimisil isteğine ilişkindir.
 
@@ -297,6 +365,8 @@ Hal böyle olunca, davacının kullanımında olan 890 m2 lik yerin fabrika bina
 
 ## Yargıtay 1. HD 2017/3354 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/349279200)
+
 Dava; ecrimisil isteğine ilişkindir.
 
 …
@@ -309,6 +379,8 @@ Ayrıca, davalı ...'ın yargılama sırasında öldüğü, geriye mirasçılar�
 
 ## Yargıtay 14. HD 2017/1928 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359883900)
+
 Dava, kira sözleşmesinden kaynaklanan kişisel hakka dayalı elatmanın önlenmesi, ecrimisil isteğine ilişkindir.
 
 …
@@ -317,10 +389,14 @@ Dava, kira sözleşmesinden kaynaklanan kişisel hakka dayalı elatmanın önlen
 
 ## Yargıtay 1. HD 2017/1226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/319758500)
+
 Davanın kabulüne dair verilen karar Dairece, "... Mahkemece 28.03.2011 tarihli bilirkişi raporu esas alınarak ve taleple bağlı kalınarak 10.000 TL ecrimisilin dava tarihi itibariyle işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmiştir. Hükme esas alınan 28.03.2011 havale tarihli bilirkişi raporunda davaya konu taşınmazın 2005 yılından 2010 yılı dahil ecrimisil hesabı 8164 TL ve her dönem için faiz hesabı ise 2230 TL olarak yapılmıştır.Davacılar vekili faiz başlangıcı belirtmeksizin 2004 yılından 2010 yılı dahil 6 yıllık ecrimisil ve temizleme bedelinin yasal faizleriyle birlikte tahsilini talep etmiş olmakla dava dilekçesinde faiz başlama tarihi konusunda açıklık bulunmadığından bilirkişi tarafından hesaplanan ecrimisil bedeline(8164TL) dava tarihinden itibaren faiz yürütülmesi gerekirken mahkemece ait olduğu yıllardan itibaren faiz yürütülmesi ve ayrıca işlemiş faiz alacağına dava tarihinden itibaren tekrar faiz yürütülmesi doğru görülmemiştir.
 Davacı vekili dava dilekçesinde ecrimisil bedeli ve temizleme bedeli olarak toplam 10.000TL'nin yasal faizleriyle birlikte tahsilini talep etmiş ise de;talebinin ecrimisil bedeline ve temizleme bedeline ilişkin kısımlarının ayrı ayrı açıklattırılması gerekirken bu açıklama yaptırılmadan hüküm tesisi doğru görülmemiştir. Ayrıca Tapu Sicil Müdürlüğünden getirtilen tapu kaydına göre davaya konu taşınmazda davacılar dışında başka şahıslarında hissedar oldukları anlaşılmakla yalnızca davacıların hisselerine düşen ecrimisil miktarının hesaplanması gerekirken davacıların ecrimisil bedelinin taşınmazın tamamı üzerinden hesaplanması doğru görülmemiştir...." gerekçesiyle bozulmuş, mahkeme bozma ilamına uyularak yapılan yargılama sonucunda alınan bilirkişi raporu doğrultusunda davanın kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2016/2164 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214561300)
 
 Dava, elatmanın önlenmesi, yıkım ve ecrimisil istemine ilişkindir.
 

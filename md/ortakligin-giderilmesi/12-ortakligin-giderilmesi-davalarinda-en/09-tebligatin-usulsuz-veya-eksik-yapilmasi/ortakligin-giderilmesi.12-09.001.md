@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2023/1482 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905632100)
+
 Şikayetçi hissedar vasisi tarafından, sair fesih nedenleri ile birlikte satış ilanının vasiye tebliğ edildiği ancak vasi de satışa konu taşınmazda hissedar olduğundan kısıtlı ile vasi arasında menfaat çatışması bulunduğu, kayyım atanmadan ihale yapılamayacağı ileri sürülerek ortaklığın giderilmesi suretiyle satışa ilişkin ihalenin feshi istemiyle sulh hukuk mahkemesine başvurulduğu, İlk Derece Mahkemesince; ihalenin feshi isteminin reddine ve şikayetçi aleyhine ihale bedelinin %10’u oranında para cezasına hükmedildiği, şikayetçi tarafından istinaf kanun yoluna başvurulması üzerine Bölge Adliye Mahkemesince; istinaf başvurusunun süresinde olmadığından bahisle istinaf isteminin süre yönünden reddine karar verildiği, şikayetçinin temyiz yoluna başvurması üzerine Dairemizce; istinaf başvurusunun süresinde yapıldığı, şikayetçinin dilekçesinde ileri sürdüğü istinaf nedenleri ve kamu düzeni yönünden yapılacak olan inceleme neticesinde oluşacak sonuca göre bir karar verilmesi gerekirken, istinaf dilekçesinin süreden reddine karar verilmesinin isabetsiz olduğu gerekçesi ile Bölge Adliye Mahkemesi kararının bozulduğu, bozma sonrası Bölge Adliye Mahkemesince bozmaya uyularak yapılan yargılama
 sonrası; vasinin hissedar olduğu, tebliğ işleminin TK’nın 39. maddesi hükmüne aykırı ve usulsüz olduğu, kısıtlıya kayyım atanarak işlemlere devam edilmesi ve satış ilanının kayyıma tebliğ edilmesi gerekirken vasiye satış ilanı tebliğinin usulsüz olduğu gerekçesi ile şikayetçinin istinaf başvurusunun kabulü ile İlk Derece Mahkemesi kararının kaldırılmasına, davanın kabulü ile ihalenin feshine karar verildiği anlaşılmıştır.
 
@@ -28,11 +30,15 @@ sonrası; vasinin hissedar olduğu, tebliğ işleminin TK’nın 39. maddesi hü
 
 ## Yargıtay 1. HD 2022/2142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791483300)
+
 3.3.4. Öte yandan, temsil kayyımı belirli ve ivedi işlerde bir kimsenin kişisel ve malvarlığı ile ilgili hususlarda temsili için atanırken; yönetim kayyımı uzun süreden beri haber alınamayan, sağ olup olmadığı veya nerede olduğu bilinemeyen kimselerin malvarlıklarının yönetimi için atanır. Bu anlamda, temsil kayyımlığında kişinin temsili esas alınırken, yönetim kayyımlığında malvarlığının yönetimi esas alınmaktadır. Nitekim,Türk Medeni Kanunu'nun 588. maddesinde de, belirli malvarlığının yönetiminden bahsedildiğine göre, belirtilen kayyımın yönetim kayyımı olduğu anlaşılmaktadır.
 
 3.3.5. Somut olayda ise, İstanbul Defterdarının ortaklığın giderilmesi davasında kimliği tespit edilemeyip, adresi bulunamayan paydaşları temsil etmek üzere kayyım olarak atandığı anlaşılmaktadır. Türk Medeni Kanunu'nun 477/1. maddesinde temsil kayyımlığının, kayyımın yapmakla görevlendirildiği işin bitmesiyle sona ereceği düzenlenmiştir. Bu durumda öncelikle dava konusu 10 ada 2 parsel sayılı taşınmazın 760/2560 pay sahibi olan kişilere yönetim kayyımı atanıp atanmadığının araştırılması, yönetim kayyımı olması ve halen sağ olması halinde kendisine usulünce tebligat yapılarak taraf teşkilinin sağlanması, mümkün olmaz ise, davalının usulünce temsili açısından temsil kayyımı atanmasının sağlanması suretiyle atanan kayyımın huzuruyla yargılamaya devam edilmesi gerekirken, bu işlemler yapılmadan ortaklığın giderilmesi davası için temsil kayyımı olarak atanan İstanbul Defterdarlığı davalı gösterilerek yargılamanın sonuçlandırılması doğru olmamıştır.
 
 ## Yargıtay 7. HD 2021/2903 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/708529200)
 
 Dava, 2004 sayılı İcra ve İflas Kanununun 121'inci maddesine göre alınan yetki belgesi uyarınca açılan ortaklığın giderilmesi istemine ilişkindir.
 
@@ -43,6 +49,8 @@ Dava, 2004 sayılı İcra ve İflas Kanununun 121'inci maddesine göre alınan y
 5.3.2. Öte yandan dava konusu taşınmazlarda hissedar ...'a dava dilekçesi usulüne uygun tebliğ edilmemiş, bilinen en son adresine dava dilekçesi tebliğ edilmeksizin doğrudan 7201 sayılı Tebligat Kanununun 21/2 maddesi uyarınca dava dilekçesi tebliğ edilmiştir. Hal böyle olunca güncel tapu kayıtları temin edilerek davalı ... ve davada taraf olmadığı tespit edilen tapu kayıt malikleri usulüne uygun şekilde dava dilekçesi tebliği ile davada taraf kılındıktan sonra işin esası hakkında bir karar verilmesi gerekirken yazılı şekilde eksik taraf teşkili ile hüküm kurulması doğru görülmemiş, hükmün bu sebeplerle bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2021/1250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/695523100)
 
 Dava, satış suretiyle ortaklığın giderilmesine dair verilen hükmün yargılamanın iadesi yolu ile yenilenmesi istemine ilişkindir.
 
@@ -56,6 +64,8 @@ Mahkemece ... Sulh Hukuk Mahkemesinin... Esas sayılı dosyası ile tespit edile
 
 ## Yargıtay 14. HD 2021/582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634197400)
+
 Dava, satış suretiyle ortaklığın giderilmesine dair verilen hükmün yargılamanın iadesi yolu ile yenilenmesi istemine ilişkindir.
 
 …
@@ -68,6 +78,8 @@ Mahkemece tapu kayıt maliki Hüseyin oğlu ...'e usulüne uygun dava dilekçesi
 
 ## Yargıtay 14. HD 2020/1300 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/586362600)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -77,6 +89,8 @@ Hukuki dinlenilme hakkının bir sonucu olarak davanın taraflarına usulüne uy
 Yukarıdaki ilkeler ışığında somut olaya gelince; ortaklığın giderilmesi istenen taşınmazın tapu kaydında pay sahibi olan ...'ya dava dilekçesini içerir tebligat evrakının usulüne uygun şekilde tebliğ edilmediği (tebligatın davalının bilinen en son adresine çıkarılması, bu adresin tebligata elverişli olmadığının anlaşılması veya tebligat yapılamaması halinde, muhatabın adres kayıt sisteminde bulunan yerleşim yeri adresi bilinen en son adresi olarak kabul edilip tebligatın buraya yapılması gerekirken, ilk seferde doğrudan Kanunun 21/2. maddesine göre tebligat yapıldığı), davalının duruşmalara katılıp davacının iddialarına karşı beyanda bulunamadığı anlaşılmakla mahkemece, taraf teşkili sağlanmadan davalının savunma hakkı ve hukuki dinlenilme hakkı ihlal edilerek yazılı şekilde hüküm kurulması doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2019/8843 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599843900)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -88,6 +102,8 @@ Kabule göre de; taşınmaz hissedarlarından muris ...’a ait mirasçılık be
 
 ## Yargıtay 14. HD 2019/8474 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612642600)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -98,6 +114,8 @@ Bu durumda mahkemece; muhdesatın aidiyetinin tespiti davası açmak üzere dava
 
 ## Yargıtay 14. HD 2019/8113 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612415400)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya birkaçı diğer paydaşlara karşı açar. 6100 sayılı Hukuk Muhakemeleri Kanununun 27. maddesi uyarınca davada bütün paydaşların yer alması zorunludur.
 
 Paydaşlardan veya ortaklardan birinin ölümü halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir. Taraf teşkili kamu düzenine ilişkin olup re’sen yargılamanın her aşamasında göz önünde bulundurulması gerekmektedir.
@@ -106,9 +124,13 @@ Yukarıdaki ilkeler ışığında somut olaya gelince; ortaklığın giderilmesi
 
 ## Yargıtay 12. HD 2019/5007 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501558000)
+
 Satış ilanı tebligatının usulsüzlüğü nedeniyle ihalenin feshini isteme hakkı, sadece kendisine usulüne uygun tebligat yapılmayan ilgilisine aittir. İhalenin feshini isteyen davacı hissedar ..., kendisi dışındaki diğer ilgililere, satış ilanının tebliğ edilmediği ya da usulsüz tebliğ edildiği hususunu ihalenin feshi sebebi olarak ileri süremez. Bu nedenle mahkemenin bu yöne ilişkin fesih gerekçesi yerinde değildir.
 
 ## Yargıtay 14. HD 2018/6757 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/446570200)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -117,6 +139,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 Bu durumda mahkemece; Dava konusu 204 ada 14 parsel sayılı taşınmazın 1/5 paydaşı ... mirasçısı ...’ın davaya dahil edilmesi, ... mirasçısı ...’a dava dilekçesinin tebligat kanunu ve tebligat yönetmeliğine göre usulüne uygun tebliğ edilmesi, ... mirasçısı 28.12.2006 doğumlu küçük ... velisine tebligat yapılarak kanuni temsilcisi tarafından temsilinin sağlanması, ayrıca ...’in 25.08.2015 tarihinde öldüğü anlaşılmakla mirasçılık belgesinin dosya arasına alındıktan sonra mirasçılarının usulüne uygun olarak davaya dahil edilmesi, izah edildiği şekilde HMK'nın 27. maddesi uyarınca taraf teşkilinin usulüne uygun sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken, bozmaya uyulduğu halde bozma gerekleri yerine getirilmeden ve taraf teşkili sağlanmadan yazılı olduğu üzere hüküm kurulması doğru görülmemiş, açıklanan nedenlerle kararın bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2017/9646 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385348200)
 
 Dava, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istemine ilişkindir.
 
@@ -130,6 +154,8 @@ Mirasçılara gönderilecek davetiyede "belirlenen süre içinde elbirliği mül
 
 ## Yargıtay 14. HD 2014/10820 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105620700)
+
 Dava ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -137,6 +163,8 @@ Dava ortaklığın giderilmesi istemine ilişkindir.
 HMK'nın 166. maddesi uyarınca bu davaların ayrılmasına gerek bulunmamaktadır. Usul ekonomisi ve davanın niteliği gözetilerek ve davalıların da bu davayı takip etmek istedikleri dikkate alındığında mahkemece ölü paydaşların mirasçılık belgelerini almak üzere ilgililere yetki ve uygun süre verilmesi, mirasçılık belgelerinin alınması halinde mirasçıların davaya dahil edilmesi, adresi tespit edilemeyen mirasçı veya paydaşlara Tebligat Kanunu hükümlerine göre usulüne uygun gerekirse ilanen tebligat yapılması ve sonucuna göre bir karar verilmesi gerekirken yazılı bu parseller yönünden ayırma kararı verilmesi ve asıl dosya üzerinden bu parseller hakkındaki davanın reddine karar verilmesi doğru görülmemiş hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/9832 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97196400)
 
 Dava bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -149,9 +177,13 @@ Mahkemece, adı geçen davalılar ve dahili davalılara Tebligat Kanunun'da yap�
 
 ## Yargıtay 12. HD 2013/10023 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/53419400)
+
 Somut olayda, davacıya yapılan satış ilanı tebligatı, adresin kapalı olduğundan komşu isim vermedi, sorulduğunda nerede olduğunun bilinmediği sözlü/imzalı beyanından anlaşıldığından tebliğ evrakı TK. 21.madde gereği muhtar D.... D...'a teslim edilmiş olup 2 nolu haber kağıdı muhatabın kapısına yapıştırılmış ve en yakın komşuya haber verildiği yazılmıştır. Satışa esas alınan Elbistan Sulh Hukuk Mahkemesi'nin ortaklığın giderilmesine ilişkin 2010/356 esas sayılı dosyasında şikayetçinin vekili olup ona tebligat yapılması gerekirken asile satış ilanının tebliğ edilmesi usulsüz olduğu gibi davacıya yapılan satış ilanı tebligatı da yukarıda açıklandığı üzere usulsüzdür. Görüldüğü gibi tebliğ memuru, muhatabın tevziat saatlerinden sonra geleceğini tespit etmeden ve muhatabın nerede olduğunu sorduğu komşusunun isminin ve imzasını almadan tebligatı muhtara teslim etmiş olup bu haliyle de tebliğ işlemi, 7201 Sayılı Kanunun 21. maddesi ile Tebligat Tüzüğü'nün 28. maddesi hükümlerine uygun yapılmamış olmakla usulsüzdür.
 
 ## Yargıtay 14. HD 2013/8471 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647512600)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -163,6 +195,8 @@ Ayrıca, mahkemece taraf teşkili, tapu kaydı ve paydaşlar ... ve ...'nin mira
 
 ## Yargıtay 14. HD 2013/7590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525539500)
+
 Dava, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istemine ilişkindir.
 
 …
@@ -171,16 +205,22 @@ Elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi davalarında, dav
 
 ## Yargıtay 6. HD 2013/6203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404474500)
+
 Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan) biri veya bir kaçı diğer paydaşlara (ortaklara) karşı açar. HMK.'nun 27. maddesi hükmü uyarınca, davanın tarafları, müdahiller ve yargılamanın diğer ilgilileri, kendi haklarıyla bağlı olarak hukuki dinlenilme hakkına sahiptirler. Hukuki dinlenilme hakkı, Anayasının 36. maddesinde ve Avrupa İnsan Hakları Sözleşmesinin 6. maddesinde düzenlenen adil yargılama hakkının en önemli unsurudur. Bu itibarla, paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
 
 Paydaşlardan Hacere Ceylan'ın 16.3.2008 tarihinde hükümden önce ölmüş olduğu, miraçılarının davaya dahil edilmediği anlaşılmıştır. Taraf teşkili kamu düzenine ilişkin olup, hâkim kendiliğinden (re'sen) yargılamanın her aşamasında dikkate almalıdır. Mahkemece, hükümden önce ölen paydaş ...'ın mirasçılık belgesindeki mirasçılarının davaya dahil edilmesi,dava dilekçesi içeren duruşma günü tebliğ edilerek taraf teşkilinin sağlanması ve sonucuna göre bir karar verilmesi gerekirken eksik taraf teşkili ile karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2013/4464 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657316700)
+
 Türk Medeni Kanunun 644.maddesine dayalı elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi davalarında davalılara gönderilen dava dilekçesi içeren duruşma gününü bildirir davetiyelerde “elbirliği mülkiyetinin devamını haklı kılacak bir itiraz ileri sürülmediği veya belirlenen süre içinde paylaşma davası açılmadığı takdirde, istem konusu mal üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verileceğine” dair ihtarın bulunması gerekir. Davalılar ..., ..., ...,...,...,...,...,...,...,...,... ile ..., ..., ...,...,...,...,...,...,...,...,...ve ...'a gönderilen duruşma gününü bildirir davetiyelerde bu meşruhatın yazılmaması nedeniyle daha önce Dairemizce hükmün bozulmasına karar verilmiş, ancak mahkemece bozma ilamına uyulmasına karar verildiği halde adı geçen davalılara gönderilen tebligatlara yukarıda yazılı meşruhatın yazılmamış olduğu görülmüştür. Bu durumda davalılara gönderilen davetiyelere MK'nun 644.maddesi gereği meşruhatlar yazılmadığından tebligatlar geçersizdir.
 Mahkemece uyulmasına karar verilen Dairemiz Bozma kararı gerekleri yerine getirilerek davalılara yukarıda belirtilen ihtarı içeren davetiye tebliğ edilmesi gerekirken, bu eksiklik giderilmeden hüküm verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/755 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242518000)
 
 Dava, 1 adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -194,10 +234,14 @@ Mahkemece ... kızı ...'un mirasçılarının davaya dahili, davalı ...'un yur
 
 ## Yargıtay 12. HD 2012/22732 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/62010100)
+
 Somut olayda, şikayetçi mahkemece verilen ortaklığın giderilmesi kararından sonra ihaleye konu taşınmazda hisse satın almış ve Tapu Sicil Müdürlüğü'ne E. Mah. . N. Gaziosmanpaşa İstanbul adresini bildirmiştir. Satış dosyasında söz konusu adrese çıkarılan kıymet takdir raporu ekli tebligatın tanınmadığından bahisle iade edilmesi üzerine şikayetçiye aynı adreste kıymet takdir raporu Tebligat Kanunu'nun 35/son. Maddesine göre 10.06.2009 tarihinde tebliğ edilmiş, bilahare 14.07.2009 tarihli satış kararı doğrultusunda düzenlenen taşınmaz satış ilanı da aynı adreste Tebligat Kanunu'nun 35/son maddesine göre 25.08.2009 tarihinde tebliğ edilmiştir. Yapılan tebligatlar bu hali ile yürülükteki yasaya uygundur.
 Ancak 14.07.2009 tarihli satış kararı doğrultusunda yapılmasına karar verilen ihale, dosyadaki eksiklikler nedeni ile yapılamamış bilahare 09.09.2009 tarihli satış kararı ile taşınmazın 1. açık artırmasının 09.11.2009 tarihinde 2. açık artırmasının 19.11.2009 tarihinde yapılmasına karar verilmiş ve karar doğrultusunda satış ilanı tanzim edilmiş ise de düzenlenen bu satış ilanı şikayetçiye tebliğ edilmemiştiİİK 'nun 127. maddesi gereğince satış ilanının usulüne uygun tebliğ edilmemesi başlı başına ihalenin feshi nedeni olup, şikayetin bu nedenle kabulü ile ihalenin feshi gerekirken, eksik inceleme ve yazılı gerekçe ile şikayetin reddine karar verilmesi isabetsizdir.
 
 ## Yargıtay 6. HD 2012/14827 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056693000)
 
 Dava, iki adet taşınmazda paydaşlığın giderilmesi davasıdır.
 
@@ -209,9 +253,13 @@ Olayımıza gelince; satışına karar verilen taşınmazlarda paydaş olan ...'
 
 ## Yargıtay 12. HD 2012/14049 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687600000)
+
 Somut olayda, ihaleye fesat karıştırıldığı yönündeki iddiaların soyut beyanlar olduğu, kıymet takdirine itiraz etmeyen şikayetçinin bu hususa dayanarak ihalenin feshini isteyemeyeceği, taşınmazın niteliği dikkate alındığında satış ilanının yerel gazetede yapılmasında bir usulsüzlük bulunmadığı, hissedarlara hazırlık aşamasında tebligatların usulsüz yapıldığının ilgililer tarafından ileri sürülmediği, ihalenin feshi istemiyle açılan davanın ilgililerin tamamı tarafından kabul edilmediği, dosya kapsamındaki tüm bilgi ve belgelerle sabit olup, yapılan ihalede herhangi bir usulsüzlük bulunmadığı anlaşıldığından istemin reddi gerekirken, ihalenin feshine karar verilmesi isabetsizdir.
 
 ## Yargıtay 6. HD 2012/8499 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053789000)
 
 Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2015/5410 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139108400)
+
 Dava, çaplı taşınmazdaki bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -31,6 +33,8 @@ Bilindiği gibi; gerek öğretide ve gerekse yargısal uygulamalarda ifade edild
 O halde; kat karşılığı inşaat sözleşmesinin feshine ilişkin kararın kesinleşmesi ile davalının çekişmeli taşınmazda malik olmadığı saptandığına göre; davacının, taşınmazı kayden edindiği 05.11.2010 tarihinden dava tarihine kadar ki dönemi kapsar şekilde belirlenecek ecrimisilin hüküm altına alınması gerekirken, davacının taşınmazda hak sahibi olmadığı dönemide içerir biçimde ecirimisilin hüküm altına alınmış olması doğru olmadığı gibi, hüküm altına alınan ecrimisil miktarının nasıl hesaplandığının denetime olanak verecek şekilde açıklanmamış olmasıda isabetli değildir.
 
 ## Yargıtay 1. HD 2015/5409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139113000)
 
 Dava, çaplı taşınmazdaki bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -42,6 +46,8 @@ O hâlde; kat karşılığı inşaat sözleşmesinin feshine ilişkin kararın k
 
 ## Yargıtay 14. HD 2015/3524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/180251000)
+
 Dava, yükleniciden bağımsız bölüm temlikine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -52,9 +58,13 @@ Uygulamada yüklenicinin aynı bağımsız bölümü değişik tarihlerde bir ve
 
 ## Yargıtay 23. HD 2015/1356 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/199805000)
+
 Davacı arsa sahibi ... ile davalılardan ... arasında 24.07.1996 tarihli arsa payı karşılığı inşaat sözleşmesi bulunduğu, yüklenicinin kardeşi olan alt yüklenici ...'e sözleşmeyi devrettiği, davacının alt yükleniciye taşınmazın bir kısmını devrettiği, davalılardan ...'ın davalılardan...ten taşınmazın bir kısmını devraldığı, ...'ın devraltığı paya isabet eden yerin davacı adına isabet ettiği, davacının açtığı dava ile tüm davalıların müdahalesinin men'in karar verildiği, bu kararın kesinleştiği, davacıya isabet eden yerin 04.11.2009 tarihinde teslim edildiği, dava ile geriye doğru 5 yıllık ecrimisil bedelinin talep edildiği, esasen davacı ile yüklenici arasındaki sözleşmenin feshedilmediği, davacı isteminin de bu çerçevede olduğu nazara alındığında, davacının isteminin, adına isabet eden bağımsız bölümün zamanında teslim edilmemesi nedenine dayalı kira tazminatına ilişkin olduğunun kabulü gerekir.
 
 ## Yargıtay 1. HD 2014/19211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/301187200)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -64,10 +74,14 @@ Hemen belirtilmelidir ki; kat karşılığı inşaat sözleşmesinin feshine ili
 
 ## Yargıtay 1. HD 2014/16416 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727364800)
+
 Asıl ve birleşen davanın kısmen kabulüne ilişkin olarak verilen karar, dairece; “ gerçekten de, davacının mülkiyet hakkı karşısında davalıların üstün bir haklarının olmadığı gözetilerek ve kayda üstünlük tanınarak 4721 sayılı Türk Medeni Kanunu'nun 683. ve devamı maddeleri uyarınca elatmanın önlenmesine karar verilmesi doğrudur. Öte yandan, ecrimisil, kayıt malikinin kötü niyetli zilyetten isteyebileceği bedeldir. Davalıların yüklenici ile yapmış oldukları harici sözleşmeye göre taşınmazları tasarruf ettikleri, kötü niyetli olduklarının söylenemeyeceği gözetildiğinde ecrimisil isteğinin reddinde bir isabetsizlik yoktur. Davacının ecrimisile yönelik, davalıların ise tüm temyiz itirazları yerinde görülmediğinden reddine. Ancak, davalıların, dava dışı yüklenici ile olan anlaşmasından dolayı taşınmazlarda yaptıkları imalat harici satıştan değil, yüklenici ile yapılan eser sözleşmesinden kaynaklanmaktadır.
 Arsa maliki olan davacı ile davalılar arasında herhangi bir hukuki ilişki ve anlaşma söz konusu olmadığına, dava dışı yükleniciden haricen satın aldıkları ve iyileştirme yaptıklarına ilişkin savunmalarını ancak akidine, yani yükleniciye yöneltebileceklerine göre davalılar yararına TMK.'nın 994. maddesinin uygulanması da mümkün değildir. Hal böyle olunca; kayda üstünlük tanınarak Türk Medeni Kanunu'nun 683. maddesinde düzenlenen mülkiyet hakkına değer verilerek mutlak surette elatmanın önlenmesine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru değildir” gerekçesiyle bozulması üzerine bozma ilamına uyularak, mahkemece, davanın ve birleşen davanın kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 23. HD 2014/7607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119179800)
 
 Kural olarak, dava tarihi itibariyle yürürlükte bulunan, 818 sayılı BK'nın 355. vd. maddelerinde yer alan eser sözleşmesinin bir türü olan arsa payı karşılığı inşaat sözleşmelerinde, inşaatın kararlaştırılan tarihte tesliminin gerçekleştirilememesi durumunda yüklenici borçlu temerrüdüne düşer. 818 sayılı BK'nın 128. maddesi uyarınca zamanaşımı süresi, kural olarak alacağın muaccel (ödenebilir) olduğu tarihten itibaren işlemeye başlar. Kural olarak eser sözleşmelerinden kaynaklanan davalar, ayrık durumlar hariç BK’nın 126/4. maddesi uyarınca 5 yıllık zamanaşımı süresine tâbidir. Buna göre, yüklenici kasıt veya ağır kusuru ile akdi hiç veya gereği gibi yerine getirmişse gizli ayıba dayalı açılacak davalarda on yıllık, diğer hallerde ise beş yıllık zamanaşımı süreleri uygulanır. Yüklenicinin yapımını üstlendiği inşaatın, sözleşme ve ekleri, tasdikli projesi ve ruhsatı ile imara uygun olarak tamamlanıp arsa sahiplerine ait tüm bağımsız bölümlerin teslimi ile zamanaşımı başlar. Kendisine düşen bağımsız bölümlerin arsa payının devri, inşaatı bitirmesi ve arsa sahibine düşen bağımsız bölümleri teslim etmesi üzerine istenebilir.
 Arsa payı karşılığı inşaat yapım sözleşmelerinde, ücret, bağımsız bölümün kararlaştırılan arsa payıdır. Aksine sözleşme yoksa arsa payının devri, bağımsız bölümün arsa sahibine teslimi üzerine istenebilir (BK. m. 364). İnşaat yapma borcunu yerine getirmeyen yüklenici, arsa sahibinden tapu devrini isteyemez (BK. m. 81). Ne var ki, sözleşme uyarınca davacı yükleniciye isabet eden bağımsız bölümlerin davacı yüklenicinin zilyetliğinde bulunmasına rağmen arsa payı sahibi davalı tarafından yükleniciye müdahalenin önlenmesi, ecrimisil gibi haklar talep ve dava edilmemek suretiyle yüklenicinin zilyetliği benimsenmiş ise, davalı arsa sahibi tarafından yüklenicinin tescil istemine karşı zamanaşımı def'inin ileri sürülmesi hakkın kötüye kullanılması niteliğindedir. Zamanaşımının işlemesi için dava konusu bağımsız bölümlerin arsa sahiplerinin kullanımında olması, diğer anlatımla yüklenicinin zilyetliğinde bulunmaması gerekir. Dava konusu bağımsız bölümler davacı yüklenicinin kullanımında ise zamanaşımı nedeniyle davanın reddinin istenmesi hakkın kötüye kullanılması sayılmalıdır. Yüklenicinin zilyetliği sırasında zamanaşımı süresi işlemez. Yargıtay 15.
@@ -75,9 +89,13 @@ HD'nin 01.07.2008 tarih ve 620 E., 4433 K.; 04.11.2009 tarih ve 2008/6214 E., 20
 
 ## Yargıtay 23. HD 2014/6015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119616800)
+
 Arsa sahipleri ile yüklenici C.. K.. arasında, arsa payı karşılığı inşaat sözleşmesi mevcut olup, daha önceden men kararı verilmedikçe, yüklenici, fesih kararı verilinceye kadar, yapı üzerinde tasarruf hakkına sahiptir. Davada, fesih, müdahalenin men'i ve kal yanında, ecrimisil talep edilmiş ise de, bu istek, aksi kararlaştırılmadıkça, fesih ile birlikte talep edilemez. Çünkü, talep konusu olan ecrimisil, dava konusu yere haksız müdahaleyi gerektirir. Bu hale göre, yüklenicinin akdi ilişkisinden dolayı sözleşmenin feshi anına kadar, taşınmaza haksız müdahalesinden söz edilemeyeceğinden, aleyhine açılan ecrimisil talebinin reddi gerekir.
 
 ## Yargıtay 23. HD 2014/3743 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113974200)
 
 Asıl davada davacı arsa sahipleri ile karşı davadaki davacı yüklenici arasında, arsa sahiplerine ait arsada inşaat yapılması konusunda 20.03.1990 tarihinde onaylama şeklinde arsa payı karşılığı inşaat sözleşmesi yapılmıştır. Asıl davada davalı-karşı davada davacı yüklenici, anılan sözleşmeye göre imalat yapmış ise de, yapılan imalatın imar mevzuatına aykırı ekonomik değeri olmayan kaçak yapı niteliğinde olduğu mahkemece de belirlenmiştir. Sözleşmenin geçerli şekilde düzenlenmemesi ve tarafların edimlerini ifa etmemesi nedeniyle arsa payı karşılığı inşaat sözleşmesi geçersizdir. Ancak arsa sahipleri, geçersiz olan sözleşmeye göre yüklenici tarafından inşaa edilen yapılardan D blokun yüklenici tarafından tasarruf edilmesi nedeniyle ecrimisil isteminde bulunamaz.
 Bilindiği gibi, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan kötüniyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih 22/4 sayılı İnançları Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olup, taraflar arasında geçersiz olsa da ifasına başlanmış bir sözleşme ilişkisi bulunduğu ve anılan sözleşme uyarınca yüklenici tarafından imal edilen bağımsız bölümlerden yine sözleşmedeki paylaşıma göre yükleniciye ait olan bağımsız bölümlerin yüklenici tarafından tasarruf edilmesinin haksız işgal sayılamayacağının anlaşılmasına göre asıl davadaki ecrimisil isteminin tümden reddi gerekirken kısmen kabulüne karar verilmesi doğru görülmemiştir.
@@ -86,6 +104,8 @@ Diğer yandan, asıl davada davalı olan ve yükleniciden bağımsız bölüm ki
 
 ## Yargıtay 1. HD 2013/17738 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254724000)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -93,6 +113,8 @@ Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 Şöyle ki, arsa maliki olan davacı ile dava dışı yüklenici arasında imzalanan 6.3.1997 tarihli kat karşılığı inşaat sözleşmesine göre 7 numaralı dairenin dava dışı yükleniciye ait olacağının kararlaştırıldığı, davalının da bu daireyi yükleniciden haricen satın alan dava dışı Hanım Tali isimli kişiden 13.10.1998 tarihli harici satım sözleşmesi ile satın aldığı, davalının inşaat halinde aldığı bu yeri tamamlayarak bu tarihten itibaren konut halinde kullanmaya başladığı, davacının kat karşılığı inşaat sözleşmesinin feshi nedeniyle açtığı davanın devam etmekte olduğu ancak davalının 6098 s. TBK'nun 183/1 (BK'nun 162) maddesinden doğan hakkına dayalı olarak 19.3.2008 tarihinde arsa maliki davacı ve dava dışı yüklenici aleyhine İstanbul 4. Tüketici Mahkemesinde açıtığı iptal-tescil davasının yapılan yargılaması sonucunda davanın reddine karar verildiği dosya kapsamı ile sabit olup, davalının bu davanın kesinleşme tarihine kadarki kullanımı haklı nedene dayandığından haksız işgalci olamayacağı kuşkusuzdur. Ancak, anılan kararın kesinleşip kesinleşmediği dosya kapsamından anlaşılamamaktadır.
 
 ## Yargıtay 1. HD 2013/15615 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/253241400)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -104,16 +126,22 @@ O halde; kat karşılığı inşaat sözleşmesinin feshine ilişkin kararın ke
 
 ## Yargıtay 1. HD 2013/11133 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79726000)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece, davanın kısmen kabulü ile, el atmanın önlenmesine; ecrimisil isteğinin ise reddine karar verilmiştir.
 
 Dosya içeriğinden ve toplanan delillerden; çekişme konusu 189 ada 12 parsel sayılı taşınmazdaki B blok 8 nolu bağımsız bölüm davacı adına kayıtlı iken; mahkemece, davalının taşınmazda kayıttan kaynaklanan bir hakkının bulunmadığı; davalının müdahalesinin, davacılar ile dava dışı yüklenici arasındaki kat karşılığı inşaat sözleşmesine dayanılarak yüklenici firma ile davalının babası E.. arasında yapılan satış vaadi sözleşmesine dayandığı gerekçesiyle, davalının, eldeki davanın açıldığı tarihe kadar çekişmeli taşınmazı iyiniyetle kullandığı kabul edilerek, şartları oluşmadığından ecrimisil isteği yönünden davanın reddine karar verilmiş olmasında bir isabetsizlik yoktur.Davacının tüm temyiz itirazları yerinde değildir. reddine, …
 
 ## Yargıtay 1. HD 2013/9585 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914413400)
+
 Davanın kabulüne ilişkin olarak verilen karar, Yüksek 3. Hukuk Dairesince; ''hükme esas alınan bilirkişi raporunda, imar durumuna göre dava konusu arsa üzerinde 12 daireli bir bina inşa edilebileceği, arsa sahibinin taşınmazı kat karşılığı vermesi halinde yarısı olan 6 daire alacağı ve inşaat süresi çıkartılarak kalan süre için bu dairelerden elde edebileceği gelir esas alınarak ecrimisil hesabı yapılmıştır. Rapor varsayıma dayalı olup hükme esas alınamaz. Taşınmaz tapu kaydına göre arsa niteliğindedir. Ecrimisil istenen dönemden önce davacı tarafından kat karşılığı inşaata verildiği veya verileceği ispat edilmiş de değildir. İmar durumuna göre kat karşılığı verilmesi halinde, arsa sahibinin kendisine düşen dairelerden elde edebileceği kira geliri üzerinden ecrimisil hesabının hukuki dayanağı yoktur.
 Mahkemece yapılacak iş, benzer nitelikteki yerlerin işgal tarihindeki kira paraları araştırılıp, varsa emsal kira sözleşmeleri de getirtilerek, bilirkişiler marifetiyle inceleme yaptırıp, dava konusu taşınmazın büyüklüğü, niteliği ve mevcut kullanım durumu gözetilerek işgal tarihinde getirebileceği ecrimisil miktarını belirlemek gerekirken, noksan inceleme ile yazılı şekilde karar verilmesinin doğru olmadığı''gerekçesiyle bozulmuş, mahkemece bozmaya uyularak yapılan yargılama sonucunda davanın reddine karar verilmiştir.
 
 ## Yargıtay 23. HD 2013/3975 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490975700)
 
 Dava, elatmanın önlenmesi ve tahliye istemlerine ilişkindir.
 
@@ -126,6 +154,8 @@ No'lu dükkanın davalıya üyeliğe bağlı olarak tahsis edilip edilmediği, v
 
 ## Yargıtay 1. HD 2013/3149 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79623200)
+
 Dava, bağımsız bölüme el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -134,6 +164,8 @@ Dosya içeriği ve toplanan delillerden; davacı Y. ile dava dışı M. Y.'un ka
 Hukuk dairesince onaylandığı ve Uyap ortamında yapılan araştırmada da anılan dairece karar düzeltme isteğinin 07.02.2013 tarihinde reddedildiği ve 27.02.2013 tarihinde de esasının kapatıldığı, böylece tapu iptal ve tescil davasının derecattan geçmek suretiyle kesinleştiği ve TMK'nun 705. maddesi hükmü uyarınca çekişmeli taşınmazın mülkiyetinin anılan kararın kesinleşme tarihinde geriye etkili olmak üzere dava dışı M.'ya intikal ettiği, böylece davacının çekişmeli yerde mülkiyetten kaynaklanan bir hakkının kalmadığı, davalıların bayisi olan dava dışı M.'nın açmış olduğu davanın geriye etkili olmak üzere kabul edildiği gözetildiğinde davalıların taşınmazı M.'nın halefi sıfatıyla kullanmaları söz konusu olup, kendilerinin fuzuli şagil olarak kabul edilmesi, dolayısıyla haksız işgalcinin kayıt malikine ödemekle yükümlü olduğu haksız işgal tazminatı niteliğindeki ecrimisilden sorumlu tutulmalarına olanak yoktur.
 
 ## Yargıtay 1. HD 2013/3147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79624200)
 
 Dava, tazminat, birleşen dava el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -145,13 +177,19 @@ Ne var ki, her bir davalının belirlenen avukatlık ücreti ve harçtan ayrı a
 
 ## Yargıtay 23. HD 2013/2990 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490019000)
+
 Yüklenici kooperatif, sözleşme ile kendisine devri vaadedilen taşınmazın .../... tapu kaydına, ....07.1994 tarihinde açmış olduğu tapu iptâli ve tescil davası sonucunda kavuşmuştur. Bu durumda, yüklenici sözleşme gereğince malik olacağı, ancak istifade edemediği villalardan dolayı ecrimisil isteminde bulunabilir. Mahkemece de, villaların davacı yüklenici tarafından kullanılmaması nedeniyle oluşan ecrimisil alacağına hükmedildiğinden artık yüklenici, ecrimisile konu villaların olağan kullanımından kaynaklanan yıpranma bedelini talep edemeyecektir. Bu durumda anılan kalem yönünden davanın reddine karar verilmesi gerekirken kabulüne karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2012/22751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489185700)
+
 Bozma kararından sonra, mahkemece kurulan yeni hükümde 14.329 TL tazminatın davalılardan müştereken ve müteselsilen tahsiline, 10.671 TL ecrimisilin davalı ... İnş. San.Tic. AŞ.'den tahsiline karar verilmiş, taraf vekillerinin temyizi üzerine Dairemizin 05/03/2012 tarih, 2010/523 E.- 2011/387 K.sayılı ilamı ile onama kararı verilmiş, bu karara karşı davacı vekili tarafından "Ecrimisil bedelinden davalı ... AŞ. ile birlikte davalı ... Genel Müdürlüğünün müştereken ve müteselsilen sorumlu olması gerektiğine" ilişkin karar düzeltme talebinde bulunulmuştur.Davada, ... -... karayolu yapımı ile ilgili sözleşmenin iş sahibi davalı ... Genel Müdürlüğü ile yüklenici davalı ...Ş. arasında düzenlenen sözleşmenin 29.maddesi gereğince Karayolları Genel Müdürlüğünün verilen zarardan sorumlu olmadığı kararlaştırılmış olsa bile; iş veren, yüklenici firmanın 3.kişilere verdiği zarardan BK.'nun 55 vd. maddeleri gereğince sorumlu olduğu anlaşılmaktadır.
 
 ## Yargıtay 14. HD 2012/1437 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668006800)
 
 Taraflar arasındaki imza ve içeriği çekişmesiz 30.06.2008 tarihli sözleşmenin “işin bedeli ve iş miktarındaki artma ve azalma” başlıklı 16. maddesinde aynen “iş birim fiyat toplamı: malzeme + işçilik + genel gider / kar kalemlerinden oluşacaktır. Alt yüklenici, taahhüt ettiği işlerin fiyatlarının sözleşme ve ekleri hükümlerine göre malzeme temini, işçilik, nakliye, makine, ekipman, teçhizat, yakıt, vergi, sigorta, genel gider ve kar, kusur ve eksiklikleri giderilmesi, korunması ve gerekli masrafları, yatay ve düşey delik açma, delik kapatma, tamirat, şantiye içi ve dışı yatay ve düşey taşıma, test ve devreye alma ile ilgili tüm giderler ve diğer her türlü masrafları kapsadığını kabul ve beyan eder” hükmü bulunmaktadır. İş bedelinin kararlaştırıldığı ve yukarıya aynen alınan bu hükme göre işin bedeli götürüdür.
 
@@ -159,15 +197,21 @@ Bir tanımlama yapmak gerekirse “götürü ücret” önceden ve kesin olarak 
 
 ## Yargıtay 15. HD 2011/7912 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/662556200)
+
 Taraflar arasında düzenenen 11.05.1993 tarihli düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinin varlığı ve içeriği çekişme konusu değildir. Davacı, yüklenici; davalılar ise arsa sahibi mirasçılarıdır. Sözleşmenin 4. maddesi ile taraflara ait olacak bağımsız bölümler gösterildikten sonra, 7. madde ile bağımsız bölümlerin hangi aşamalarda yükleniciye devredileceği kararlaştırlmış, buna göre son bağımsız bölümün iskân alınıp, arsa sahibine teslimi halinde, yükleniciye satış izni verileceği ifade edilmiştir.Davacı yüklenici, sözleşme gereği kendisine ait olduğunu ileri sürdüğü son bağımsız bölüm olan bodrum kattaki 1 nolu bağımsız bölümün adına tescili için 16.06.2003 tarihinde dava açmış, ... Asliye 20. Hukuk Mahkemesi'nin 2005/516 esas ve 2006/402 karar sayılı dosyasında yapılan yargılama sonucu, binada eksik ve ayıplı işler bulunduğu saptandığından, bunların giderilme bedeli yükleniciye depo ettirilmek suretiyle, davanın kabulü cihetine gidilmiş, verilen karar 22.12.2008 tarihinde kesinleşmiştir.Yukarıda yapılan izahattan anlaşılacağı üzere, ... 20.
 Asliye Hukuk Mahkemesi'nin 2005/516 esas sayılı dosyasında tescili istenen aynı bağımsız bölümün birlikte ifa suretiyle tesciline karar verilmiştir. Yani anılan davanın açıldığı tarih itibariyle binadaki eksik ve ayıplı işler nedeniyle arsa sahibinin alacağı karşılığında kendisi açısından teminat teşkil eden yükleniciye ait son bağımsız bölümü devretmemekte haklı olduğu sübuta ermiştir. Belirtilen karar, eldeki davanın açılma tarihinden sonra kesinleşmiştir. Şu halde, BK'nın 81. maddesi uyarınca kendi edimini yerine getirmeyen davacı, inşaatı eksiksiz ve kusursuz, iskân ruhsatı alınmış şekilde süresinde teslim etmeyerek temerrüde düştüğünden ve arsa sahibinin alacakları en son 22.12.2008 tarihinde kesinleşen kararla karşılandığından, davacının önceki dava konusu 1 nolu bağımsız bölüm için kendisine teslim edilmediğinden bahisle ecrimisil talebinde bulunabilmesi mümkün değildir.
 Bu durumda davanın reddi yerine, değinilen hususlar nazara alınmadan yazılı şekilde kabul kararı verilmesi usul ve yasaya aykırı olmuş, bozmayı gerektirmiştir.SONUÇ:Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazlarının kabulü ile hükmün davalılar yararına BOZULMASINA, ödediği temyiz peşin harcının istek halinde temyiz eden davalılara geri verilmesine, 26.12.2011 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 14. HD 2010/10283 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769611700)
+
 Karşı davacı elatmasının önlenmesine karar verilen ve tadilatlar sonucu 13 no'lu bağımsız bölüm olduğu anlaşılan daireyi, yüklenici ile yaptığı 23.10.1991 ve 16.01.1999 tarihli temlik sözleşmelerine dayanarak işgal etmektedir. İşgal haksız olmayıp mahiyeti hükümle tartışılan sözleşmelere dayalı olduğundan karşı davacının ecrimisil ödemesi gerekmez. Zira ecrimisil haksız işgal nedeni ile uğranılan zarar karşılığıdır. Asıl davadaki ecrimisil isteminin bu nedenle reddi gerekirken yazılı şekilde hüküm tesisi doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 15. HD 2010/6269 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/777945000)
 
 Somut olayda arsa sahipleri tarafından yüklenici şirkete noter kanalıyla fesih ihtarı gönderilmesi nedeniyle bu davada bu konuda yaratılan muarazanın giderilmesi istendiğinden ve yüklenici şirket de 09.08.2005 tarihinde açtığı birleşen davada tapu iptâli-tescil istekleri kabul edilmediği takdirde yaptıkları imalâtın bedelinin tahsilini istediklerinden, taraf iradelerinin sözleşmenin feshi konusunda birleşen davanın açılma tarihi olan 09.08.2005 tarihinde birleştiği sonucuna varılmıştır. Arsa payı devri karşılığı inşaat sözleşmelerinden kaynaklanan uyuşmazlıklarda sözleşmenin mahkeme kararıyla feshi durumunda yüklenicinin hakettiği iş bedelinin fesih kararının kesinleştiği tarihteki rayiçlere göre, iradelerin birleşmesi sonucu fesih halinde ise iradelerin birleştiği tarih rayiçlerine göre hesaplanması gerekir. Bu kurala göre yüklenici şirketin hakettiği iş bedelinin fesih konusunda iradelerin birleştiği 09.08.2005 tarihi itibariyle ve mahalli serbest piyasa rayiçlerine göre hesaplanması gerekirken, imalât bedelinin 2007 yılı Bayındırlık Birim Fiyatlarıyla hesaplayan bilirkişi raporuna dayanılarak hüküm kurulması doğru olmamıştır.
 
@@ -175,8 +219,12 @@ Arsa sahipleri davalar haksız kullanma tazminatı (ecrimisil) isteminde de bulu
 
 ## Yargıtay 15. HD 2009/2964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854599800)
+
 Davacı arsa sahibi, yüklenici ile yükleniciden taşınmazı kiracı sıfatı ile alan Utku aleyhine elatmanın önlenmesi ve ecrimisil isteminde bulunmuştur. Davalı ... kiracı olarak taşınmazda bulunduğunu bildirmiş kiracı sıfatıyla savunma yapmıştır. Mülkiyete yönelik iddiası yoktur. Dava feragat nedeniyle red olduğundan dava değerinin ecrimisil değeri olan 900,00 TL esas alınarak vekâlet ücretinin hesaplanması gerekir. Nisbi olarak belirlenecek miktar maktu ücretten az olamayacağından davalı ... yararına maktu vekâlet ücretine karar verilmesi gerekirken yanlış değerlendirme ile fazla miktarda nisbi vekâlet ücretine karar verilmesi doğru olmamış, mahkeme kararının bu nedenle bozulması gerekmiştir. Ancak bu husus yeniden yargılama yapılmasını gerektirmediğinden, HUMK’nın 438/VII. maddesi uyarınca hükmün düzeltilerek onanması uygun görülmüştür.
 
 ## Yargıtay 15. HD 2009/1755 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855642400)
 
 Ecrimisil istemine yönelik temyiz itirazlarına gelince; yanlar arasında imzalanan ve imzası inkâr olunmayan 01.03.1997 tarihli (Kat Karşılığı İnşaat Sözleşmesidir başlıklı) sözleşmenin 2. maddesinin sonundaki (binaya ilave kat yapılması veya yeni imarda fazla kat verilmesi halinde ... Kardeşlerin bir hakkı yoktur) ibaresinin sözleşmeye sonradan ilave edildiği ve renk farkı olduğu açıkça anlaşılmış olup, bu eklentinin davacılarca kabul edilmemesi ve ayrıca parafe edilmemesi sebebiyle geçersiz olması nedeniyle sözleşme dışında fazla yapılan ve davalının işgalinde bulunan yerler için davacıların sözleşmedeki payları arasında işgal tazminatı talep edebilecekleri gözetilerek sonuca varılmadır.

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2014/3911 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105549500)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -31,6 +33,8 @@ Ayrıca 492 sayılı Harçlar Kanunu ve eki Tarifenin karar ve ilam harcına ili
 
 ## Yargıtay 14. HD 2014/1381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/363616800)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -39,10 +43,14 @@ Dava konusu 1086 parsel sayılı taşınmaz hakkında hüküm sonucunun birinci 
 
 ## Yargıtay 7. HD 2013/20449 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152959700)
+
 Her ne kadar karar düzeltmeye konu ilamda işbu davanın açıldığı tarihte mevcut olan ortaklığın giderilmesi davasının yargılama sırasında sonuçlandığı ve kesinleştiğinden bahisle başlangıçta var olan hukuki yararın sonradan ortadan kalktığı kabul edilerek hukuki yarar bulunmadığı gerekçesiyle mahkeme kararı bozulmuş ise de, öğretide ve uygulamada kararlılık kazanan görüşlere göre muhtesat aidiyetinin tespiti davalarının ortaklığın giderilmesi davasının yargılaması sırasında muhtesatın davacı tarafça meydana getirildiğini açıkça kabul edenler dışında kalan ve muhtesatın üzerinde bulunduğu taşınmazda paydaş olan tüm tapu maliklerine yöneltilmesi zorunludur. Bir başka deyişle ortaklığın giderilmesi davasının yargılaması sırasında davaya konu muhtesatların davacı tarafa ait olduğunu açıkça kabul edenlere bu davanın açılmasında davacının hukuki yararı bulunmamaktadır.
 Somut olayda ortaklığın giderilmesi davasının davacısı bu davanın davalısı olan ...'ın(Baş) ortaklığın giderilmesi davasının dava dilekçesinde dahi binalardan birinin davacı ...'e diğerinin muris Osman'a ait olduğunu beyan ettiği ortaklığın giderilmesi davasında baştan beri muhtesatlar üzerinde herhangi bir hak iddiasının bulunmadığı anlaşılmaktadır. Hal böyle olunca başlangıçtan beri hukuki yararın bulunmadığının kabulü zorunludur. Hukuki yararın dava koşulu olduğu taraflarca öne sürülmese bile mahkemece kendiliğinden değerlendirileceği gözetildiğinde salt bu nedenle davanın reddine karar verilmesi gerekir, davanın esasına girilemez. Açıklanan nedenle ve karar düzeltme nedeni olarak ileri sürülen yönler daire kararında gerekçesi gösterilmek suretiyle karşılanmıştır.
 
 ## Yargıtay 7. HD 2013/19245 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152960700)
 
 Dava, taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti ile tapu kaydının beyanlar hanesine şerh verilmesi istemine ilişkindir.
 
@@ -54,6 +62,8 @@ Aidiyet tespiti davaları kendine özgü davalardan olup dava sonucunda istihsal
 
 ## Yargıtay 6. HD 2013/11998 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/511718700)
+
 Dava, bir adet taşınmaz üzerindeki ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -61,6 +71,8 @@ Dava, bir adet taşınmaz üzerindeki ortaklığın giderilmesi istemine ilişki
 .. Köyü ... ada ... nolu parsel sayılı taşınmazda paydaş olan davalılar ..., ..., ... ve ...’ın paylarına yönelik olarak paydaş olmayan ... tarafından ... 3. Asliye Hukuk Mahkemesinin 2012/296 Esas sayılı dosyasında muris muvazaası nedeni ile tapu iptal ve tescil davası açıldığı anlaşılmaktadır. Ortaklığın giderilmesine konu olan taşınmaza ilişkin görülmekte olan tapu iptali davası sonucunda pay ve paydaşlık durumunda değişiklik olabileceğinden dava sonucunun bekletici mesele yapılması gerekir. Mahkemece tapu iptali ve tescil isteğine ilişkin dava dosyasının bekletici mesele yapılarak kesinleşen karar sonucuna göre bir karar verilmesi gerekirken yazılı şekilde davanın kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 7. HD 2013/11640 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100067100)
 
 Dava, yerel mahkemenin de nitelendirmesine göre taşınmaz üzerinde bulunan muhdesatın aidiyetinin (bağımsız bölümünün davacı tarafından meydana getirildiğinin) tespiti istemine ilişkindir.
 
@@ -70,6 +82,8 @@ Hal böyle olunca; taraflar arasında derdest ortaklığın giderilmesi davasın
 
 ## Yargıtay 7. HD 2013/8564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096509700)
+
 Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti istemine ilişkin olup, mahkemece davanın kanıtlanamadığı gerekçesiyle reddine karar verilmiştir.
 
 …
@@ -77,6 +91,8 @@ Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti istemine iliş
 Şu halde, taraflar arasında derdest bir ortaklığın giderilmesi davası bulunmadığı gözetildiğinde görülen davada hukuki yararın bulunmadığının kabulü gerekir. Bu durumda davacı tarafın koşullarının varlığı halinde eda nitelikli sebepsiz zenginleşme davası açabileceği kuşkusuzdur. Kaldı ki dava konusu muhdesatın davacı ...’e ait olduğu tapu kaydının beyanlar hanesinde de gösterilmiştir.
 
 ## Yargıtay 7. HD 2013/8397 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096162500)
 
 Dava taşınmaz üzerinde bulunan muhdesatların aidiyetinin tespitine ilişkindir.
 
@@ -86,17 +102,23 @@ O halde, öncelikle ortaklığın giderilmesine ilişkin dava dosyasında verile
 
 ## Yargıtay 7. HD 2013/6075 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1097713600)
+
 Dava, taşınmaz üzerindeki muhdesatın bağımsız bölümlerinin aidiyetinin tespiti istemine ilişkindir.
 
 İddia ve savunmaya, duruşma tutanaklarına yansıyan bilgi ve belgelere, bu yolla saptanan dava niteliği ile dosya kapsamında toplanıp değerlendirilen delillere, delillerin takdir, tahlil ve tartışımına ilişkin hükümde gösterilen gerekçelere, taraflar arasında derdest ortaklığın giderilmesi davası bulunduğu anlaşılmakla davada hukuki yararın mevcut olmasına, muhdesatın kaçak yapı olmasının aidiyet tespiti istemine engel bulunmamasına, taşınmazın tapu kaydının ortak miras bırakan adına kayıtlı olduğu gözetildiğinde muhdesata ilişkin resmi belgelerin onun adına düzenlenmiş olmasının zorunlu olup sonuca etkili görülmemesine göre davalılar ... ve arkadaşlarının sair temyiz itirazları yerinde değildir.
 
 ## Yargıtay 14. HD 2012/10959 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/758726500)
+
 …
 
 ... ... mirasçıları harcını ödemek suretiyle tüm taşınmazlarda örnekleri dosya arasında bulunan “... ... Çiftliğini satın alan hissedarlara mahsus taahhüt senedi” başlıklı belgelere dayanarak hak iddiasında bulunmuştur. Davaya müdahale istemlerinde hukuki yararlarının bulunduğu şüphesizdir. O yüzden müdahale istemlerinin kabulü ile iddialarının nedenleri açıklattırılarak delilleri toplanmak suretiyle istemlerinin sonuçlandırılması gerekirken hukuki yararları bulunmadığından söz edilerek müdahale taleplerinin reddi doğru değildir.
 
 ## Yargıtay 7. HD 2012/2821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172496700)
 
 Dava, taşınmaz üzerinde bulunan muhdesatların aidiyetinin tespiti ile tapu kaydına şerh verilmesi istemine ilişkindir.
 
@@ -108,6 +130,8 @@ Gerçekten taşınmaz üzerindeki muhdesatın kendisine ait olduğunu öne süre
 
 ## Yargıtay 7. HD 2012/2429 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109278500)
+
 Dava taşınmaz üzerinde bulunan muhdesatın bağımsız bölümlerinin aidiyetinin tespitine ilişkindir.
 
 …
@@ -118,6 +142,8 @@ O halde, öncelikle ortaklığın giderilmesine ilişkin dava dosyasında verile
 
 ## Yargıtay 7. HD 2012/1963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100241900)
+
 Dava taşınmaz üzerinde bulunan muhdesatların aidiyetinin ve değerlerinin tespiti istemine ilişkindir.
 
 Ortaklığın giderilmesi davasına konu taşınmazın tapu kütüğünün beyanlar hanesinde muhtesatın maliklerden biri veya birkaçına ait olduğuna ilişkin kayıt bulunması veya tüm taşınmaz maliklerinin muhtesatın belirli bir veya birkaç malik tarafından kendi adına ve hesabına meydana getirildiğini oybirliği ile kabul etmeleri halinde, ortaklığın giderilmesi davasına bakan mahkemenin taşınmaz satış bedelinin paylaştırma oranını belirlerken muhtesata isabet edecek satış bedelinin sadece bu muhtesatı meydana getiren malik veya maliklere verilmesini sağlayacak şekilde oranlama yapması ve buna göre hüküm vermesi, tapu kütüğünde muhtesata ilişkin bir kayıt yoksa veya taşınmaz malikleri arasında bu konuda oybirliği sağlanamazsa ancak bu halde konuyu ön mesele yapması, muhtesat konusunda çıkan uyuşmazlığı çözmek miktar itibarıyla (muhtesat değeri) kendi görevine giriyorsa uyuşmazlığı kendisinin çözmesi, görevini aşıyorsa, muhtesatın kendisine ait olduğunu öne süren malik veya maliklere bu konuda tespit davası açmak üzere HUMK'nun 567. maddesi hükmüne göre 10 günlük kesin süre vermesi ve açılacak bu davanın sonucunu beklemesi gerekir.
@@ -126,6 +152,8 @@ Bu olgu gözetildiğinde davanın sadece ortaklığın giderilmesi davasının y
 Bunun yanında davalının ortaklığın giderilmesine ilişkin davada davaya cevap vererek veya duruşmalara gelerek görülen davaya konu edilen muhtesatların davacıya ait olduğunu açıkça kabul etmediği, görülen davada da davayı kabulünün sözkonusu olmadığı, bu nedenle HUMK'nun 95. maddesinde öngörülen koşulların da gerçekleşmediği anlaşılmaktadır. Öte yandan tapuda kayıtlı ve taraflar arasında ortaklığın giderilmesi davasına konu olduğu belirlenen 187 parsel sayılı taşınmazın bilirkişi raporunda (A) harfi ile gösterilen bölümü üzerinde bulunan tek katlı yığma bina ile muhtesat niteliğindeki muhtelif ağaçların davacı ... tarafından dikilip yetiştirildiği mahkemece yapılan keşif, uygulama ve toplanıp değerlendirilen delillerle belirlenmiştir. Bu nedenler ve hükümde gösterilen diğer gerekçelere göre mahkemece bu muhtesatların davacı tarafa aidiyetinin tespitine karar verilmesinde ve davalının yargılama gideri ve avukatlık ücretinden sorumlu tutulmasında bir isabetsizlik bulunmadığından davalı ... ...’ün bunlara ilişen ve aşağıdaki bendin dışında kalan sair temyiz itirazları yerinde değildir.
 
 ## Yargıtay 7. HD 2012/1728 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100095400)
 
 Dava, taşınmazlar üzerinde bulunan muhdesatların aidiyetinin tespiti istemine ilişkindir.
 
@@ -137,6 +165,8 @@ Hukukumuzda aidiyetin tespitine ilişkin davalar kendine özgü nitelikte bir da
 
 ## Yargıtay 7. HD 2012/546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100941300)
+
 Dava, taşınmaz üzerinde bulunan muhdesatın aidiyeti ile taşınmazda yapılan iyileştirme giderlerinin ve değerlerinin tespiti istemine ilişkindir.
 
 …
@@ -147,11 +177,15 @@ Hal böyle olunca mahkemece davacının sadece muhdesat niteliğindeki birikette
 
 ## Yargıtay 14. HD 2011/11020 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761610100)
+
 Burada öncelikle kesin hüküm olgusu üzerinde durulması gerekecektir. Gerçekten, kesin hüküm ancak konusunu teşkil eden husus bakımından muteberdir. HUMK’nun 237.maddesi uyarınca kesin hükümden söz edebilmek için iki tarafın, dava konusunun ve dayanılan dava, sebebinin bir olması gerekir. Mahkemece, kesin hüküm oluşturduğu kabul edilen Gaziantep 3.Asliye Hukuk Mahkemesinin 2006/5 esasında kayıtlı dava kayıt maliklerinden ... tarafından bu davanın davacısı ... aleyhine açılmış elatmanın önlenmesi ve tazminat istemine, Gaziantep 2.Sulh Hukuk Mahkemesinin 2004/1814 esasında kayıtlı dava ise yine kayıt maliki ... tarafından 1282 sayılı parseldeki ortaklığın giderilmesi amacıyla açılan davaya ilişkindir. Eldeki davada ise davacı, taşınmazın tapu kaydındaki muhdesat şerhi nazara alınmaksızın satışa karar verildiğini ileri sürerek Borçlar Kanununun 61. vd maddelerine dayanıp sebepsiz iktisap nedeniyle iade talebinde bulunmuştur. Görülüyor ki, eldeki dava ile taraflar arasında daha önce cereyan eden davadaki dayanılan hukuki sebepler tamamen farklıdır. Bu yüzden, kesin hüküm bulunduğunun kabulüne olanak yoktur.
 
 1282 sayılı parseldeki şerh “bu parsel üzerindeki bağ ve fıstıklar ... oğlu ... ...’e aittir” şeklindedir. Davacı, mirasçılık belgesine göre şerh sahibi ... ...’ün tek mirasçısıdır. 22.12.1995 tarihli ve 1/3 sayılı Yargıtay İçtihadı Birleştirme Kararında vurgulandığı üzere, eşya hukukunda “muhdesat” kavramından bir arazi üzerinde arz malikinden başkasına veya yalnızca bir paydaşa ait yapı ve tesisler ile bağ ve bahçe şeklinde dikilen ağaçlar anlaşılmaktadır. Kuşkusuz muhdesat sahibine arazi mülkiyetinden ayrı, bağımsız bir mülkiyet veya sınırlı bir ayni hak sağlamaz. Muhdesat sahibinin ... sadece şahsi bir haktır. Dolayısıyla, davacı 1282 sayılı parselin tapu kaydındaki belirtmeden yararlanarak sebepsiz zenginleşme nedeniyle hak iddiasında bulunabilir.
 
 ## Yargıtay 7. HD 2011/7723 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110115500)
 
 Dava, davacı tarafın paydaş bulunduğu ve ortaklığın giderilmesi davasına konu edilen taşınmaz üzerinde bulunan muhdesatın mülkiyetinin tespiti ve tapu kaydına şerh verilmesi istemine ilişkindir.
 
@@ -164,6 +198,8 @@ incelenmesine şimdilik yer olmadığına, peşin ödenen 1.016,05 TL harcın is
 
 ## Yargıtay 7. HD 2011/5710 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107740000)
+
 Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespitine ilişkindir.
 
 …
@@ -172,6 +208,8 @@ Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespitine ilişkindir.
 
 ## Yargıtay 7. HD 2011/1349 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106197900)
+
 Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespitine ilişkin olup, mahkemece davanın kabulüne karar verilmiştir.
 
 …
@@ -179,6 +217,8 @@ Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespitine ilişkin olu
 Şu halde, taraflar arasında derdest bir ortaklığın giderilmesi davası bulunmadığı gözetildiğinde görülen davada hukuki yararın bulunmadığının kabulü gerekir. Tarafların yargılama sırasındaki kabul ya da feragate ilişkin beyanları da davada hukuki yarar bulunmadığı gerçeğini ortadan kaldırmaz. Bu durumda davacı tarafın koşullarının varlığı halinde BK 61.maddesinde öngörülen eda nitelikli sebepsiz zenginleşme davası açabileceği kuşkusuzdur.
 
 ## Yargıtay 7. HD 2010/1875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110794400)
 
 Dava, taşınmaz üzerinde bulunan muhdesatların mülkiyetinin tespiti istemine ilişkindir.
 
@@ -192,17 +232,23 @@ Somut olaya gelince, Pazar Sulh Hukuk Mahkemesinin 2008/637 esas sayılı dava d
 
 ## Yargıtay 7. HD 2010/1278 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110725500)
+
 Dava, 143 ada 6 parsel sayılı taşınmaz üzerinde bulunan muhdesatın mülkiyetinin tespiti istemine ilişkindir.
 
 Türk Hukuk Sisteminde aidiyetin tespiti davası diye bir dava türü bulunmamaktadır. Bu tür bir davanın hukuki yarar bulunması koşuluyla açılabileceği doktrinde ve Yargıtay uygulamasında kabul edilmektedir. Taraflar arasında görülmekte olan ortaklığın giderilmesi davasının varlığı yada taşınmazın veya üzerinde bulunan muhdesatın kamulaştırma işlemine tabi tutulması halinde taşınmaz üzerinde bulunan muhdesatlar hakkında aidiyet tespiti davası açmasında hukuki yarar bulunduğu benimsenmektedir. Hukuki yarar dava koşulu olup hukuki yarar bulunmaması halinde davanın dava şartı yokluğundan reddi gerektiği kuşkusuzdur.
 
 ## Yargıtay 1. HD 2006/13009 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78124000)
+
 Bu durumda açıldığı bildirilen 2004/66 esas sayılı ortaklığın giderilmesine ilişkin davada verilecek olan kararın eldeki davayı aktif ve pasif husumet yönünden doğrudan doğruya etkileyeceği kuşkusuzdur.
 
 Hal böyle olunca, ortaklığın giderilmesi amacıyla açılan davanın eldeki dava yönünden bekletici sorun sayılması, hasıl olacak sonuca göre bir karar verilmesi gerekirken, yazılı biçimde hüküm kurulması doğru değildir. Kaldı ki davaya dahil etme yolu ile de olsa bir kişiye taraf sıfatı verilemiyeceği gözetilmeden, dahili davalılar hakkında karar verilmesi de isabetsizdir. Davalı H. ile dahili davalı M..'in temyiz itirazı, yerindedir. Kabulüyle hükmün HUMK'nun 428.maddesi uyarınca BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 25.12.2006 tarihinde oybirliğiyle karar verildi.
 
 ## İstanbul BAM 44. HD 2026/9 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194018400)
 
 …
 

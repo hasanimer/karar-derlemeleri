@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2016/162 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202902500)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -34,6 +36,8 @@ Taraf vekillerinin bu yönlere ilişkin temyiz itirazları yerindedir. Kabulüyl
 
 ## Yargıtay 5. HD 2015/12174 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146045200)
+
 Dava, kamulaştırmasız el atmanın önlenmesi, eski hale getirme ve ecrimisil istemine ilişkindir.
 
 …
@@ -45,6 +49,8 @@ Dava konusu taşınmaza davalı idare tarafından kamulaştırmasız el atıldı
 Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/10760 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139618800)
 
 Davacı idare asıl davasında; maliki olduğu 2699 sayılı parsel sayılı taşınmaza davalıların uzun süredir yapılanmak suretiyle müdahale ettiklerini ileri sürerek, elatmanın önlenmesi ve yıkım ile dava tarihinde geriye doğru 5 yıllık ecrimisile karar verilmesini istemiş, birleşen davada ise 2000-2004 yılları arasındaki dönem için ecrimisil istemiştir.
 
@@ -64,6 +70,8 @@ Tarafların değinilen yönler itibariyle temyiz itirazları yerindedir. Kabulü
 
 ## Yargıtay 18. HD 2015/7629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/187907600)
+
 Davaya konu taşınmazın ne şekilde kullanılacağının davacıya açıklattırılıp, emsal kira sözleşmeleri de ibraz edildikten sonra, davalı tarafından işgal edilen yıllar için ecrimisil hesabı yapılması amacıyla bilirkişi kurulundan ek rapor alınarak neticesine göre karar verilmesi gerektiği, davacının dava konusu taşınmaz malın ne şekilde kiraya verileceğini açıklayamaması ve emsal kira sözleşmeleri de ibraz edememesi durumunda, davacının davasını ispatla sorumlu olup davasını ispat edememesi nedeniyle ecrimisil istemi yönünden davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması, …
 
 …
@@ -71,6 +79,8 @@ Davaya konu taşınmazın ne şekilde kullanılacağının davacıya açıklatt�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/7562 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141431200)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -81,6 +91,8 @@ Hâl böyle olunca; 6100 sayılı Hukuk Muhakemeleri Kanununun 166. maddesine g�
 Davacının temyiz itirazı değinilen yön itibariyle yerindedir. Kabulüyle, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/6847 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118879900)
 
 Davacılar vekili, müvekkillerinin davalı kooperatifin üyesi olan A.... mirasçısı olduklarını, müvekkillerinin murisine kooperatif tarafından tahsis edilen 4b blok 10 nolu işyerinin murislerinin ölümünden sonra kendilerine verilmediğini, gerekçe olarak murislerinin üyeliğinin iptal edildiğinin bildirildiğini, oysa kendilerine bildirilmiş bir ihraç kararının bulunmadığını ileri sürerek, 10 no'lu işyerinin müvekkillerine teslimine, işyerini şimdiye kadar kullanamamaları nedeniyle müvekkilerinin uğradığı zarara karşılık şimdilik 2.500,00 TL'nin ve işyerinin kira gelirinden mahrum olmaları nedeniyle 6.000,00 TL kira bedelinin davalıdan tahsiline karar verilmesini istemiştir.
 
@@ -100,6 +112,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazların�
 
 ## Yargıtay 1. HD 2015/6480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139907900)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -111,6 +125,8 @@ Hal böyle olunca; kesinleşen mahkeme kararı uyarınca 2006 yılı için 253,5
 Davacının bu yönlere ilişkin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/6012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140538100)
 
 Dava; ecrimisil isteğine ilişkindir.
 
@@ -126,6 +142,8 @@ Anılan bu husus davacı vekilinin karar düzeltme isteği sonucu yeniden yapıl
 
 ## Yargıtay 1. HD 2015/5802 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140160700)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -138,6 +156,8 @@ Davacının bu yöne ilişkin temyiz itirazı yerindedir. Kabulüyle, hükmün (
 
 ## Yargıtay 1. HD 2015/4516 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119448700)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -147,6 +167,8 @@ Hâl böyle olunca; yukarıdaki ilkeler doğrultusunda mahkemece, yeniden keşif
 Taraf vekillerinin bu yöne ilişkin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/1984 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120722700)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -158,6 +180,8 @@ Davalının değinilen yöneler itibariyle temyiz itirazları yerindedir. Kabul�
 
 ## Yargıtay 1. HD 2015/1964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120160900)
+
 Dava; ecrimisil istemine ilişkindir.
 
 …
@@ -167,6 +191,8 @@ Kabule göre de; eldeki davada talebe konu dönem öncesi için ecrimisil kesinl
 Davalının, temyiz itirazları değinilen yönler itibariyle yerindedir. Kabulüyle, hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/1788 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119713800)
 
 Dava, ecrimisil isteğine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
@@ -180,6 +206,8 @@ Davalının temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nede
 
 ## Yargıtay 1. HD 2015/120 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118823300)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -189,6 +217,8 @@ Hal böyle olunca; öncelikle bilirkişi raporunda atıfta bulunulan Mahkemenin 
 Davalının ecrimisile ilişkin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlere hasren (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2014/24989 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96738900)
 
 Dava, el atmanın önlenmesi, kal ve ecrimisil, karşı dava ise taşınmazlar üzerindeki yapı bedellerinin tahsili istemine ilişkindir.
 
@@ -202,12 +232,16 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 18. HD 2014/17899 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106751500)
+
 Ecrimisile hükmedilmesi için arsa niteliğindeki taşınmazın bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne şekilde kiraya verildiklerinin taraflardan delilleri sorulmak suretiyle tespit edilmesi, varsa emsal kira sözleşmelerinin ibraz ettirilerek buna göre düzenlenecek bilirkişi raporuna göre karar verilmesi gerektiğinden bozma yapılmış, bozma sonrasında ise davacı tarafından emsal kira sözleşmesi sunulamadığı, bilirkişi ek raporunda da emsal kira sözleşmesi bulunulamadığı belirtilerek bozma öncesindeki raporu tekrarladıkları ve mahkemece bozma öncesindeki gibi 45.260 TL ecrimisile hükmedilmiştir. Ecrimisil bedeli tayin edilebilmesi için el atma nedeniyle davacının bu yeri kullanamamasından dolayı kazanç kaybına uğradığının davacı tarafından ispatlanması gerekmektedir.
 Bozma sonrası yapılan yargılamada mahkemece davacı tarafa emsal kira sözleşmesi sunulması için süre verilmiş ve davacı tarafça emsal kira sözleşmesi sunulamamış olmakla ecrimisil talebi yönünden davanın reddine karar verilmesi gerekirken, soyut ifadelerle ecrimisil bedeli tespit eden raporlar hükme esas alınarak davanın kabulüne karar verilmesi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/17886 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/291713900)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -218,6 +252,8 @@ Bu durumda, takas-mahsuba konu 708 parseldeki 5 nolu bağımsız bölüm için h
 Davacı vekilinin bu yönlere değinen temyiz itirazı yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/16940 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84322000)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -231,6 +267,8 @@ Taraf vekillerinin bu yönlere değinen temyiz itirazları yerindedir. Kabulüyl
 
 ## Yargıtay 1. HD 2014/16716 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84271400)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -241,6 +279,8 @@ Davacının bu yöne değinen temyiz itirazı yerindedir. Kabulü ile hükmün a
 
 ## Yargıtay 1. HD 2014/15249 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84221000)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -248,6 +288,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişki
 Hâl böyle olunca, açıklanan ilkeler gözetilmek suretiyle kira esasına göre emsallerde incelenmek suretiyle dava konusu taşınmazın 2010 yıllında getirebileceği ecrimisilin belirlenmesi, sonraki dönemler için ÜFE artış oranının uygulanması, böylece hüküm vermeye elverişli rapor alınarak, hasıl olacak sonuca göre bir karar verilmesi gerekirken; hükme yeterli olmayan rapora itibar edilerek yazılı şekilde ecrimisile karar verilmiş olması doğru olmadığı gibi ecrimisil davalarında, her dönem sonu için belirlenen miktara dönem sonu (tahakkuk tarihi) itibariyle faiz yürütülmesi gerekirken belirlenen ecrimisil miktarının tamamına ihtar tebliğ tarihinden itibaren faiz işletilmesi de isabetsizdir. Davalı hazine vekilinin ve davalı il özel idaresi vekilinin bu yönlere ilişkin temyiz itirazları yerindedir.Kabulüyle,hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA, 01.10.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2014/14113 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84347900)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -258,6 +300,8 @@ Hal böyle olunca; yukarıdaki ilkeler doğrultusunda mahkemece, taraflardan ems
 Davalı vekilinin bu yönlere ilişkin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2014/12359 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106748300)
 
 Dava, kamulaştırmasız el atılan taşınmaza vaki müdahalenin önlenmesi ve ecrimisil istemine ilişkin olup mahkemece, müdahalenin önlenmesi talebinin davacının uzlaşma yoluna başvurmadan dava açtığı gerekçesiyle usulden reddine, ecrimisil isteminin ise davalı idarenin taşınmazda hissedar olduğu ve kötüniyetli olmadığı gerekçesiyle reddine karar verilmiştir.
 
@@ -271,11 +315,15 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 1. HD 2014/5016 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84145600)
+
 Hal böyle olunca, davalı payını 3. kişiye temlik etmiş olup, çekişmeli dairenin davalı tarafından halen kullanılıp kullanılmadığının açıklığa kavuşturulması, halen kullanıyor ise elatmanın önlenmesi isteğinin kabul edilmesi, aksi halde elatmanın önlenmesi isteği bakımından davanın konusuz kaldığının gözetilmesi, ecrimisil isteği bakımından da 2001/16 ve 2001/17 esas sayılı davalarda belirlenen ecrimisil miktarına Tüfe uygulanmak suretiyle belirlenecek ecrimisile hükmedilmesi gerekirken bilimsel verilere dayanmayan soyut içerikli bilirkişi raporun itibar edilerek yazılı şekilde hüküm kurulması doğru değildir.
 
 Davalının temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/4735 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84099500)
 
 Dava, paydaşlar arasında el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -289,6 +337,8 @@ Hal böyle olunca yukarıda belirtilen ilkeler ve değinilen hususlar dikkate al
 
 ## Yargıtay 1. HD 2014/4223 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84136100)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -298,6 +348,8 @@ Bu durumda, hükmüne uyulan Yargıtay 3.Hukuk Dairesinin bozma kararında deği
 Davalıların temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/16566 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79695500)
 
 Dava, müstakilen ecrimisil isteğine ilişkindir.
 
@@ -313,6 +365,8 @@ Tarafların bu yöne değinen temyiz itirazları yerindedir. Kabulü ile hükmü
 
 ## Yargıtay 1. HD 2013/15002 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79592700)
+
 Dava, el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -324,6 +378,8 @@ Hal böyle olunca dava konusu taşınmazların bir kısmının göl niteliğinde
 Davalının bu yönlere değinen temyiz itirazı yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/14259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79549300)
 
 Dava, ecrimisil isteğine ilişkindir.
 

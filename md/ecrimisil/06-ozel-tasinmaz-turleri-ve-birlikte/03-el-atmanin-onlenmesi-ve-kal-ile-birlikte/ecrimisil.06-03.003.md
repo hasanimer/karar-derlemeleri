@@ -22,12 +22,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2021/1393 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663689700)
+
 Dava; elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 Hemen belirtmek gerekir ki, her ne kadar Samsun Bölge Adliye Mahkemesi 1. Hukuk Dairesince 2018/542 Esas-2018/683 Karar, 02.05.2018 tarihli ek karar ile davalılar tarafından sadece ecrimisil yönünden kararın istinaf edildiği ve ecrimisil dava değerinin temyiz sınırının altında kaldığından kesin olduğu gerekçesi ile Hukuk Muhakemeleri Kanunu 366. madde delaletiyle 346. madde gereğince davacının temyiz talebinin reddine karar verilmiş ise de, dava dilekçesinde dava değeri 24750 TL olarak gösterilmiş olup dava devam ederken davacı vekilince bilirkişi raporu doğrultusunda 40320 TL üzerinden 688,60 TL tamamlama harcı alınmış, ilk karara karşı istinaf yoluna başvurulması üzerine Bölge Adliye Mahkemesince HMK'nin 355. maddesi gereğince “İnceleme istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılır. Ancak bölge adliye mahkemesi kamu düzenine aykırılık gördüğü takdirde bunu resen gözetir.” hükmü düzenlenmiş olup yargı harçları kamu düzenine ilişkin olduğundan harcın tamamlanmasına karar vermiştir. Bu karar üzerine mahkemece davacı vekiline bilirkişi raporu doğrultusunda elatmanın önlenmesi talebi yönünden eksik kalan 1717,39 TL harç tamamlattırılmıştır.
 Ayrıca davalılarca 14.02.2018 tarihinde verilen istinaf dilekçesinde “Müvekkilimiz tarafından söz konusu daireye bir el atma veya zilyetlik söz konusu değildir.” denilerek elatmanın önlenmesi yönünden de yerel mahkeme kararına karşı istinaf yoluna gidildiği anlaşılmaktadır …
 
 ## Yargıtay 8. HD 2020/7993 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634631500)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -38,6 +42,8 @@ Sulh Hukuk Mahkemesinin 2015/56 D.İş dosyasına ibraz edilen inşaat bilirkiş
 
 ## Yargıtay 8. HD 2020/7772 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620597500)
+
 Dava, haksız inşaat nedeniyle açılan elatmanın önlenmesi, kal ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -45,6 +51,8 @@ Dava, haksız inşaat nedeniyle açılan elatmanın önlenmesi, kal ve ecrimisil
 Hal böyle olunca, davalının iyiniyetli olduğu gözönüne alınarak davacıya yıkılacak yapıların değerini depo etmesi için önel verilmesi, depo edilmesi halinde yıkım isteğinin de kabulüne, aksi takdirde yıkım isteğinin reddine karar verilmesi, davalı tarafın kullanımının kötüniyetli olarak değerlendirilmesi sözkonusu olamayacağından ecrimisil isteğinin de reddine karar verilmesi gerekirken, yazılı gerekçe ile ecrimisil ve kal istekleri yönünden de kabul kararı verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2020/7521 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636704400)
 
 Dava, müdahalenin men’i, kal ve ecrimisil isteğine ilişkindir.
 
@@ -55,9 +63,13 @@ Bu nedenle, özellikle tarım arazilerinin haksız kullanımı nedeniyle ürün 
 
 ## Yargıtay 8. HD 2020/7021 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/618859000)
+
 Somut olayda, her ne kadar Mahkemece, davaya konu taşınmazın evlilik birliği içerisinde alındığı ve bu nedenle mal paylaşımının talep edildiği, bu şekilde açılan davanın 4. Asliye Hukuk Mahkemesinde halen derdest olduğu, bu nedenle 4721 Sayılı TMK'nin 194 vd. maddeleri gereğince uyuşmazlığın Aile Mahkemesi tarafından çözümlenmesi gerektiği gerekçesi ile davanın usulden reddine karar verilmiş ise de, bu görüşe katılma olanağı bulunmamaktadır. Şöyle ki, dosya arasında bulunan dava konusu taşınmaza ait tapu kaydına göre, davacı taşınmazda malik olup, mülkiyet hakkına dayalı olarak el atmanın önlenmesi ve ecrimisil isteğinde bulunmuştur. Görüldüğü üzere, davadaki iddianın ileri sürülüş şekline göre dava, mülkiyet hakkına dayalı el atmanın önlenmesi davası ve ecrimisil isteğine ilişkin olup, davanın Türk Medeni Kanunu'nun 683/2. maddesi hükmünde öngörülen mülkiyetin korunmasından kaynaklandığı açıktır. Bu nitelikteki istekler bakımından 6100 Sayılı HMK'nin 2. maddesine göre Asliye Hukuk Mahkemesi görevlidir. Hal böyle olunca, Mahkemece işin esasının incelenmesi, oluşacak sonuca göre bir karar verilmesi gerekirken yazılı olduğu üzere hüküm kurulmuş olması doğru değildir.
 
 ## Yargıtay 8. HD 2020/6707 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642120900)
 
 Dava, elatmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
@@ -67,6 +79,8 @@ Bu durumda Mahkemece, açıklanan kanun hükümleri uyarınca; ayni hakka dayana
 
 ## Yargıtay 8. HD 2020/5999 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609698300)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -74,6 +88,8 @@ Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkin
 Hemen belirtilmelidir ki, gerek 492 sayılı Harçlar Kanunu'nun 16. maddesi, gerekse 1953 tarih 10/2 sayılı İçtihadı Birleştirme Kararı uyarınca elatmanın önlenmesi ve ecrimisil istekli davalarda dava değerinin her isteğe ilişkin dava değerinin toplamından ibaret olacağı öngörülmüştür. Ayrıca davaya devam edilebilmesi, belirlenen değer üzerinden harcın ikmaline bağlıdır. Harcın ikmal edilmemesinin müeyyidesi ise yine Harçlar Kanunu'nun 30 ve 32.maddesinde duraksamaya yer bırakmaksızın belirlenmiştir. Bu nedenle, Mahkemece dava dilekçesinde ecrimisil olarak gösterilen değerle bağlı kalınarak, diğer istek el atmanın önlenmesi bakımından bilirkişi raporunda belirlenen değer üzerinden usulüne göre harç ikmal edilmeden neticeye gidilmiş olması doğru değildir.
 
 ## Yargıtay 8. HD 2020/5934 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609559100)
 
 Dairemizin bozma ilamının (2.b) bendinde:
 
@@ -83,6 +99,8 @@ b) Hükümle birlikte her ne kadar bilirkişi raporunda belirlenen dava konusu t
 
 ## Yargıtay 8. HD 2020/4307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596713600)
+
 Dava elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -90,6 +108,8 @@ Dava elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 Bilindiği üzere, paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan payına vaki elatmanın önlenmesi ve ecrimisil isteyebilir. Hatta elbirliği mülkiyetinde dahi paydaşlardan biri öteki paydaşların olurlarını almadan veya miras şirketine temsilci atanmadan tek başına ortak taşınmazdan yararlanmasına engel olan ortaklar aleyhine elatmanın önlenmesi davası açabilir. Ancak, o paydaşın, payına karşılık çekişmesiz olarak kullandığı bir kısım yer varsa açacağı elatmanın önlenmesi davasının dinlenme olanağı yoktur. Yerleşmiş Yargıtay İçtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorununu elatmanın önlenilmesi davası ile değil, kesin sonuç getiren taksim veya şuyuun satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir.
 
 ## Yargıtay 8. HD 2020/4241 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598378100)
 
 Dava elatmanın önlenmesi, kal, ecrimisil ve alacak istemlerine ilişkindir.
 
@@ -101,6 +121,8 @@ Kabule göre ise; dava tarihinden geriye doğru beş yıllık ecrimisil talep ed
 
 ## Yargıtay 8. HD 2020/2972 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646735400)
+
 Dava, elatmanın önlenmesi, ecrimisil, kal ve alacak istemine ilişkindir.
 
 …
@@ -108,6 +130,8 @@ Dava, elatmanın önlenmesi, ecrimisil, kal ve alacak istemine ilişkindir.
 3402 sayılı Kadastro Kanunu'nun 27. maddesi hükmüne göre, mahalli hukuk mahkemelerinde görülmekte olan kadastro ile ilgili ve henüz kesinleşmemiş bulunan taşınmaz mala ilişkin davalar hakkında o taşınmaz mal için kadastro tutanağı düzenlendiği tarihte bu mahkemelerin görevi sona erer ve davalara ait dosyalar mahkemesine re’sen devrolunur denilmiştir.Dava konusu yer hakkında kadastro tutanağı düzenlendiğine göre elatmanın önlenmesi talebi hakkında görevsizlik kararı verilmek ve dava dosyası Kadastro Mahkemesine gönderilmek ve ecrimisil, kal, alacak talebi yönünden dosya tefrik edilerek ayrı esasa kaydedilmesi, Kadastro Mahkemesinin sonucunun beklenerek oluşacak duruma göre karar verilmek üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 20. HD 2020/2100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599140000)
 
 Dava; el atmanın önlenmesi, ecrimisil ve tescil istemine ilişkindir.
 
@@ -117,9 +141,13 @@ Dava; el atmanın önlenmesi, ecrimisil ve tescil istemine ilişkindir.
 
 ## Yargıtay 14. HD 2020/1848 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588320000)
+
 Davacının elatmanın önlenmesi ve ecrimisil talepleri yönünden mahkemece, elatmanın önlenmesi talebinin kabulüne; ecrimisil talebi hakkında ise asliye hukuk mahkemesinin görevli olması sebebiyle verilen görevsizlik kararı Dairemizin 30.04.2019 tarihli 2016/11604 Esas ve 2019/3824 Karar sayılı ilamı ile “...mahkemece her ne kadar dava kat mülkiyeti kanunundan kaynaklı uyuşmazlık olarak nitelendirilmişse de, dosya içerisinde yer alan kira sözleşmesinin dava konusu taşınmazla ilgili olmadığı ve kat maliklerinden biri ile davalı arasında yapılmış bir sözleşmenin de sunulmadığı dikkate alındığında uyuşmazlığın haksız işgal nedeniyle elatmanın önlenmesi, kal ve ecrimisil istemlerine ilişkin olduğu, 6100 sayılı HMK’nın yürürlüğe girdiği 01.10.2011 tarihinden sonra (01.11.2012 tarihinde) dava açıldığından, davanın 6100 sayılı HMK’nın 2. maddesi uyarınca genel yetkili Asliye Hukuk Mahkemesinde görülmesi gerekir...” gerekçesiyle bozulmuştur.
 
 ## Yargıtay 8. HD 2020/1561 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593038300)
 
 Dava, elatmanın önlenmesi, ecrimisil ve yıkım isteğine ilişkindir.
 
@@ -128,6 +156,8 @@ Dava, elatmanın önlenmesi, ecrimisil ve yıkım isteğine ilişkindir.
 Tüm dosya kapsamı birlikte incelendiğinde, davacı tarafından sadece ecrimisil talep miktarı olan 25.000,00 TL dava değeri üzerinden harç yatırılarak dava açıldığı, yargılama sırasında 13.10.2005 tarihinde kal talebi yönünden 2.500,00 TL ve elatmanın önlenmesi talebi yönünden 2.500,00 TL olmak üzere toplam 5.000,00 TL üzerinde harç tamamlandığı anlaşılmaktadır. O halde, harcı yatırılarak talep edilen dava değeri toplamı 30.000,00 TL olduğundan, Mahkemece bu değer dikkate alınarak, kısmen kabul edilen miktar üzerinden (23.170,48 TL) kendisini vekille temsil ettiren davacı yararına kararın verildiği tarihte yürürlükte bulunan AAÜT'nin 13. maddesi gereğince nispi avukatlık ücretine hükmedilmesi gerekirken yazılı şekilde harcı tamamlanmayan miktar da dahil edilerek hesaplanan fazla avukatlık ücetine hükmedilmesi doğru olmamıştır. Ne var ki, bu husus yeniden yargılamayı gerektirmediğinden HUMK'un 438/7. maddesi uyarınca kararın düzeltilerek onanmasına karar verilmiştir.
 
 ## Yargıtay 8. HD 2020/153 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578501500)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -138,9 +168,13 @@ Mahkemece tüm talepler yönünden vekalet, harç ve yargılama giderleri bakım
 
 ## Yargıtay 5. HD 2019/6929 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/497141800)
+
 Dava konusu taşınmaza davalı ...Ş. tarafından baz istasyonu kurulmak suretiyle el atılmış ise de; yargılama sırasında el atmaya son verildiğinden bu şirket aleyhine açılan el atmanın önlenmesi davasında karar verilmesine yer olmadığına hükmedilmesinde; trafo alanı yönünden dosyada bulunan kanıt ve belgelere, kararın dayandığı gerekçelere göre müdahalenin meni ve kal talebi yönünden davanın kabulüne; ecrimisil istemlerinin ise kısmen kabulüne karar verilmesinde bir isabetsizlik görülmemiştir. Ancak;
 
 ## Yargıtay 8. HD 2019/5395 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647165800)
 
 Dava, el atmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -152,6 +186,8 @@ Hal böyle olunca, Mahkemece, davacının dava tarihinden önceki döneme ilişk
 
 ## Yargıtay 8. HD 2019/4649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645700200)
+
 Dava, el atmanın önlenmesi, kâl ve ecrimisil istemlerine ilişkindir.
 
 …
@@ -159,6 +195,8 @@ Dava, el atmanın önlenmesi, kâl ve ecrimisil istemlerine ilişkindir.
 Uyuşmazlık konusu olayda; davacı, murisinden intikal eden taşınmaza paydaş olmayan davalıların elatmalarının önlenmesi ve bunlara ait yapıların kâl'i ile birlikte davalılardan ecrimisil isteminde bulunmuş ancak yargılama sırasında ecrimisil talebinden feragat etmiştir. Terekeye dahil bir taşınmaza ilişkin elatmanın önlenmesi ve kâl davası "terekedeki hakların korunması" kapsamına girdiğinden, bahsi geçen davalar mirasçılardan sadece biri tarafından da açılabilir. O halde; davacı tek başına kâl talebinde bulunma sıfatına haiz olduğundan, talebin esastan incelenip karar verilmesi gerekirken, dava şartı yokluğu nedeniyle davanın reddine karar verilmesi isabetli değildir.
 
 ## Yargıtay 8. HD 2019/4199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645567700)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -168,10 +206,14 @@ Elatmanın önlenmesi ve ecrimisil istekli davalarda dava değeri elatılan yeri
 
 ## Yargıtay 8. HD 2019/4161 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503876500)
+
 Az yukarıda bahsi geçen ilkeler ve bozma ilamları uyarınca, dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına ve uyulan bozma ilamında açıklandığı üzere işlem yapılıp sonucu dairesinde hüküm tesis edildiğine, çekişme konusu taşınmazda paydaşlar arasında benimsenen ve uzun zamandan beri süregelen eylemli olarak bir kullanım tarzının belirlenmediğine, kullanım tarzına ilişkin fiili bir taksim olgusunun mevcut bulunmadığına, 06.05.1955 tarihli 12/18 sayılı İçtihatları Birleştirme Kararı uyarınca pay ve paydaş çoğunluğu olmadığından dava konusu taşınmaza ilişkin davalı tarafça yapılan kira sözleşmelerinin geçersiz olduğuna, dava konusu taşınmazda davalı şirketin bizatihi kullandığı ve boş olarak tespit edilen yerlere ilişkin olarak davalı şirketin taşınmazı davacıya intifadan men edecek tarzda tasarruf etmediği sürece davacının bu kısımlar için el atmanın önlenmesi ve ecrimisil tazminatı istenemeyeceğine, yine, el atma olgusu haksız eylem niteliğinde olduğundan, her dava açıldığı tarihteki koşullara göre değerlendirileceğinden, mahkemece yapılan 24.11.2005 tarihli ilk keşifte kirada olduğu belirlenen bölümler üzerinden mahkemece ecrimisil tazminatının
 hesaplanmasına, davalı aleyhine hükmedilen ecrimisil tazminatı hesaplanırken bozma ilamları uyarınca kesinleştiği gerekçesi ile davalının muarazalı bölümlere yaptığı masrafların ecrimisil tazminatı hesabından düşülmemesine, dosyada yer alan mükerrelik iddalarının mahkemece değerlendirilerek sonucu dairesinde tazminat hesabının yapılmasına, son olarak davalının kiraya vererek kullandığı bölümler yönünden davacının payı oranında el atmanın önlenmesine karar verildiğine göre, tarafların aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yerinde görülmemiştir.
 
 ## Yargıtay 8. HD 2019/3424 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645849700)
 
 Davacının davaya konu ecrimisil alacağını gerekli şekil şartlarını taşıyacak şekilde devrettiği, HMK’nin 125/2 madde hükmü uyarınca dava konusunun devredilmesi halinde devralan şahsın davaya devam edeceği ortadayken temlik alanın davaya devamıyla hüküm tesis edilmiş olmasında bir isabetsizlik bulunmadığından yerel mahkeme hükmünün onanması yerine yanılgılı değerlendirmeyle kararın bozulması doğru değildir.
 
@@ -179,9 +221,13 @@ Asıl davada, davanın taşınmazın aynına ilişkin olduğu ve 492 sayılı Ha
 
 ## Yargıtay 14. HD 2019/1828 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492571600)
+
 Her ne kadar mahkemece, asıl davanın kabulü ile davalının elatmanın önlenmesine, taşkın yapının kal’ine ve ecrimisilin tahsiline; TMK’nın 725. maddesi uyarınca temliken tescil isteğinin reddine karar verilmiş ise de hüküm verildikten ve Dairemizce onandıktan sonra davaya konu taşınmazların bulunduğu yerde 3402 sayılı yasanın 22/A maddesi maddesi uyarınca yenileme çalışmaları yapıldığı, tapu kayıtlarında UYAP üzerinden yapılan incelemede davaya konu taşınmazların yüzölçümlerinin değiştiği anlaşıldığından oluşan yeni duruma göre mahkemece inceleme ve değerlendirme yapılması gerektiği açıktır.
 
 ## Yargıtay 8. HD 2019/1711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492775900)
 
 Dava, çaplı taşınmazda paydaşlar arasında elatmanın önlenmesi ve ecrimisil talebine ilişkindir.
 
@@ -191,6 +237,8 @@ Diğer taraftan 1800 nolu parseli bir bütün olarak kullandığı anlaşılan d
 
 ## Yargıtay 8. HD 2019/1562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498881400)
+
 Dava, el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -199,10 +247,14 @@ Açıklanan bu ilke ışığında somut olaya gelince; dava el atmanın önlenme
 
 ## Yargıtay 8. HD 2018/19090 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465012700)
+
 Davanın kısmen kabul kısmen reddi ile, davacının müdahalenin men'i ve kal taleplerinin konusuz kalması sebebiyle karar verilmesine yer olmadığına, tüm parseller için talep edilen 79.800,00 TL işgal tazminatının 35.700 TL’sinin kabulü ile, her dönem sonundan itibaren işleyecek yasal faizi ile tahsiline dair ilk hüküm, taraf vekillerinin temyizi üzerine, Yargıtay 1. Hukuk Dairesinin 15.4.2013 tarih ... Esas, 2013/5539 Karar sayılı sayılı ilamı ile özet olarak; “... mahkemece kısa kararda müdahalenin men'i ve kal taleplerinin konusuz kalması sebebiyle karar verilmesine yer olmadığına, davacının dava dilekçesinde tüm parseller için talep ettiği 79.800,00-TL işgal tazminatının 35.700,00-TL'sinin kabulü ile dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine, fazlaya ilişkin talebinin reddine” denildiği halde, gerekçeli kararda “faizin başlangıç tarihi değiştirilmek suretiyle kısa karara çelişkili biçimde gerekçeli karar yazılması doğru değildir. Kabule göre de, SS. ...
 Konut Yapı Kooperatifinin açtığı dava hakkında olumlu ya da olumsuz bir karar verilmemiş olması da doğru değildir...” gereğine işaret edilerek hüküm bozulmuş, Mahkemece bozma ilamına uyma kararı verildikten sonra yukarıda yazılı şekilde hüküm tesis edilmiştir.
 
 ## Yargıtay 8. HD 2018/18528 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462283200)
 
 Dava; ecrimisil isteğine ilişkindir.
 
@@ -217,9 +269,13 @@ O halde; mahkemece keşif yapılmak ve yukarıda belirtilen esaslar doğrultusun
 
 ## Yargıtay 8. HD 2018/17443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471460000)
+
 Mahkeme kararında da belirtildiği üzere, dava; çapa bağlı elatmanın önlenmesi ve kal, kal hukuken mümkün değil ise, tecavüz edilen bölümün değeri olarak 36.000 TL’nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte mahkeme veznesine depo edilmesi halinde tecavüzlü bölüme isabet eden arsa kısmının ifraz edilerek davalılar adına tescili ve 3.000,00 TL ecrimisil bedelinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte tahsili istemine ilişkindir.
 
 ## Yargıtay 8. HD 2018/16193 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454633000)
 
 Dava , elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -229,9 +285,13 @@ Dava açılırken elatmanın önlenmesi talebi için 1.000 TL ve ecrimisil taleb
 
 ## Yargıtay 8. HD 2018/15965 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452206800)
+
 Tüm dosya kapsamı birlikte incelendiğinde; Mahkemece; hükmüne uyulan bozma ilamı doğrultusunda karşılıklı talepler yeniden değerlendirilerek davacı yanın yasal koşulları oluşmayan ecrimisil ve el atmanın önlenmesi isteminin reddine, davalı-karşı yanın terditli taleplerinden tapu iptali ve tescil isteminin kabulüne karar vermek gerektiği şeklindeki gerekçe gerekçe olarak kabul edilemez. Mahkemece, gerekçede yazılı delillerin hangisine neden üstünlük tanındığının anlaşılamadığı, delillerin tartışılmadığı ve değerlendirilmediği gibi inançlı işlemin geçerliliğinin kabulü halinde 6098 sayılı Türk Borçlar Yasasının 97. maddesinde yer alan düzenleme gereğince Mahkeme veznesine depo edilecek miktar yönünden hükme yeterli bir araştırma yapılmadan, davacı tarafından satılan dairenin borca mahsuben satıldığının hangi delillerle ispat edildiği açıklanmadan, davalı-karşı davacının beyanına dayalı olarak daire bedeli borçtan mahsup edilerek 17.967,80 TL’nin depo ettirilmek suretiyle sonuca gidildiği anlaşılmıştır.
 
 ## Yargıtay 8. HD 2018/15609 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451903100)
 
 Dava, mülkiyet hakkına dayalı el atmanın önlenmesi, kal ve ecrimisil isteklerine ilişkindir.
 
@@ -241,6 +301,8 @@ Yukarıda değinilen hususlar çerçevesinde somut olaya bakıldığında; eldek
 
 ## Yargıtay 8. HD 2018/14517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430253000)
+
 Dava, çapa bağlı taşınmaza yönelik ecrimisil isteğine ilişkindir.
 
 …
@@ -248,6 +310,8 @@ Dava, çapa bağlı taşınmaza yönelik ecrimisil isteğine ilişkindir.
 Hal böyle olunca; 25163 ada 6 parsel sayılı taşınmazın imar öncesi tapu kayıtlarının ve tüm tedavüllerinin getirtilmesi, yukarıda izah edilen Elatmanın Önlenmesi ve Yıkım dava dosyası ile davalılar tarafından açılan Tapu İptal ve Tescil davaları da dikkate alınarak, davalıların ve haricen satın alma işlemlerini gerçekleştirdikleri kişilerin satın alma tarihleri, imar öncesi ve imar sonrası dava konusu taşınmazda hak sahibi olup olmadıklarının belirlenmesi, bu şekilde davalıların imar uygulamasından önce korunmaya değer bir haklarının olup olmadığının açıklığa kavuşturulması, aynı şekilde davacıların da haricen satın alma işlemlerinin gerçekleştiği satın alma tarihleri ve imar öncesi dava konusu taşınmazda hak sahibi olup olmadıklarının tespit edilmesi, Ecrimisil davasına konu yapıların dava konusu taşınmazın sınırlarında kalıp kalmadığının denetime elverişli şekilde hazırlanacak bilirkişi raporu ile ölçekli ve koordinatlı krokide farklı renk ve harfler ile gösterilmesi ondan sonra oluşacak sonuca göre karar verilmesi gerekirken değinilen hususlar incelenmeksizin yazılı olduğu şekilde karar verilmiş olması isabetsizdir.
 
 ## Yargıtay 1. HD 2018/9525 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/418729700)
 
 Asıl dava bakımından (2008/278 Esas) feragat nedeniyle davanın reddine, birleştirilen 2008/421 Esas sayılı davada elatmanın önlenmesi isteğinin kabulüne, ecrimisil isteği atiye bırakıldığından karar verilmesine yer olmadığına, birleştirilen 2009/150 Esas sayılı dava bakımından ise takip edilmediğinden davanın açılmamış sayılmasına ilişkin olarak verilen karar Dairece, " Hal böyle olunca; öncelikle davalının durumunun araştırılarak tutuklu mu yoksa hükümlümü olduğu, bunun sonucu olarak işlemlerde vasi aracılığıyla temsil edilmesi gerekip gerekmediğinin belirlenmesi, usulüne uygun taraf teşkilinin sağlanması ondan sonra davacının feragat beyanının gerçek iradesini yansıtıp yansıtmadığının açıklıkla saptanabilmesi için feragatin hataya dayalı olup olmadığının, haktan feragat için bir sebebin var olup olmadığının değerlendirilmesi davacının feragatinin hile ile alınıp alınmadığı yönündeki iddiaları üzerinde durularak, vakıa biçiminde incelenmesi bu konuda taraf delillerinin toplanması, ortaya çıkacak sonuca göre davanın esası hakkında karar verilmesi gerekirken yanılgılı değerlendirmeyle yazılı olduğu üzere hüküm kurulmuş olması doğru değildir." gerekçesiyle bozulmuş olup, hükmüne
 uyulan bozma ilamı doğrultusunda yapılan yargılama neticesinde mahkemece, asıl dava yönünden iddianın sabit olduğu gerekçesiyle davanın kabulü ile tapu kaydının iptaliyle davacı adına tesciline, birleştirilen davada elatmanın önlenmesi isteminin reddine, ecrimisil isteği atiye bırakıldığından karar verilmesine yer olmadığına karar verilmiştir.

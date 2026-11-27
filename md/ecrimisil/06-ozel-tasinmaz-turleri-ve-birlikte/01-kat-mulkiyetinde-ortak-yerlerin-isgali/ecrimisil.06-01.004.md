@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2014/15699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84361200)
+
 Dava, kat mülkiyeti kurulu apartmanın ortak yerine elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -32,6 +34,8 @@ Kat mülkiyeti kurulu bir taşınmazın ortak alanına üçüncü kişilerin tec
 
 ## Yargıtay 1. HD 2014/14548 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84509100)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -39,6 +43,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Hemen belirtilmelidir ki, ecrimisil isteğine konu 9 parsel sayılı taşınmazdaki 4 ve 5 numaralı bağımsız bölümlerin ortak mirasbırakanlar tarafından davalıya yapılan temliklerinin mirasçıdan mal kaçırma amaçlı ve muvazaalı olduğunun kesinleşmiş mahkeme kararları ile saptandığı, muvazaa nedenine dayalı olarak verilen kararların yenilik doğurucu değil, açıklayıcı nitelikte olduğu, bu suretle oluşan kararlara konu işlemlerin yapıldıkları tarihten itibaren mutlak butlanla batıl olup yapılmamış sayıldıkları, iptal hükmünün geriye etkili olarak sonuç doğurduğu, bu nedenle muvazaalı işleme taraf olan davalının da iyiniyetli olduğundan söz edilemeyeceği belirlenmek, ayrıca davalı tasarrufunda bulunan 5 numaralı dairenin kiraya verilmemiş olmasının davacıların ecrimisil hakkını ortadan kaldırmayacağı benimsenmek suretiyle mahkemece dava tarihinden geriye doğru beş yıllık süre esas alınarak, davacılar lehine taşınmazlardaki payları oranında ecrimisile karar verilmiş olmasında kural olarak bir isabetsizlik yoktur. Davalı vekilinin bu yönlere değinen temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2014/14156 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84367800)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -48,6 +54,8 @@ Hemen belirtilmelidir ki; ecrimisil isteğine konu 1 parsel sayılı taşınmazd
 
 ## Yargıtay 1. HD 2014/14154 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84366300)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -55,6 +63,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Yukarıda açıklanan ilkeler, dosya içeriği ve toplanan deliler ışığında somut olaya bakıldığında, davalıların ortak kararı ile kiraya verilerek gelir (hukuksal semere) elde edildiği saptanan Kuşadası İlçesi, 241 parsel sayılı taşınmazdaki 4 numaralı bağımsız bölüm ile 9394 ada 4 parsel sayılı taşınmazdaki 7, 8 ve 9 numaralı bağımsız bölümler için ayrıca intifadan men koşulunun aranmayacağı, davalılar H.. G.. ile A.. G..'ın bizzat oturmak suretiyle tasarruflarında bulundurdukları saptanan mesken niteliğindeki 16 numaralı bağımsız bölüm bakımından ise intifadan men koşulunun davacının gönderdiği ihtarname ile gerçekleştiği gözetilmek ve davalılarca yapıldığı belgelendirilen faydalı ve zorunlu giderlerin, ıslah dilekçesindeki davacı kabulü de dikkate alınarak hesaplanan ecrimisilden mahsup edilmek suretiyle mahkemece bu taşınmazlar için haksız kullanım tazminatına karar verilmiş olmasında kural olarak olarak bir isabetsizlik bulunmamaktadır. Davalıların adı geçen taşınmazlar hakkındaki açıklanan yönlere değinen temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2014/7664 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84294900)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -64,6 +74,8 @@ Hal böyle olunca; davalı tanıklarının tümü dinlenerek savunma üzerinde d
 
 ## Yargıtay 1. HD 2014/7430 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84245200)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -71,6 +83,8 @@ Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişk
 Hal böyle olunca, yerinde yeniden konusunda uzman üç kişilik bilirkişi heyeti ile birlikte keşif yapılarak, binaya ait proje uygulanmak suretiyle davacının paydaşı olduğu 3 nolu bağımsız bölümün nereye tekabül ettiğinin, çekişme konusu yerin ortak yerlerden olup olmadığının açıklığa kavuşturulması, bu saptama doğrultusunda elatmanın önlenmesi isteği bakımından olumlu ya da olumsuz bir karar verilmesi, eğer davalının kullandığı yer davacının bağımsız bölümüne denk geliyorsa ecrimisil isteğinin kabulüne, aksi takdirde reddine karar verilmesi gerekirken yetersiz bilirkişi raporu ile yetinilerek yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2014/6804 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84418900)
 
 Dava, kat mülkiyeti kurulu taşınmazda 2 ve 3 numaralı bağımsız bölümlere ve ortak alanlara elatmanın önlenmesi, 1 numaralı bağımsız bölümün projeye aykırı olarak otopark şeklinde kullanılmasının önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -82,6 +96,8 @@ Bu durumda, davacının mülkiyet hakkına değer verilerek 2 ve 3 numaralı ba�
 
 ## Yargıtay 1. HD 2014/6475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84358100)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -92,10 +108,14 @@ Hal böyle olunca;yukarıda belirtilen 6 adet taşınmaz için de belirlenen ecr
 
 ## Yargıtay 8. HD 2014/4420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/305268300)
+
 Dava konusu 25337 ada ... parsel, 08.04.1991 tarihinde imar uygulaması nedeniyle paylı mülkiyet şeklinde davacı karşı davalı ... ve müşterekleri adına tescil edilmiş, paydaşlardan ... tarafından 211/545 oranındaki payının .../545 payı ....09.2004 tarihinde pay satış ve ipka nedeniyle davalı karşı davacı ... adına tescil edilmiş olup, davacı-karşı davalı ...’un taşınmaz üzerindeki payı 168/545 oranındadır. Davacı ... ....02.2010 tarihli oturumdaki imzalı beyanında ... nolu bağımsız bölümün kendisi ile kardeşi ... arasında ortak olduğunu, paydaşlardan ...’un tapuda davalı-karşı davacı ...’ya pay satışı yaptığını bildirmiştir. Mahkemece ... nolu bağımsız bölümün haksız olarak işgal edildiği gerekçesiyle yazılı şekilde müdahalenin önlenmesine ve bilirkişi tarafından belirlenen haksız işgal tazminatına hükmedilmiştir. Yukarıdaki açıklamalardan ... nolu bağımsız bölüm üzerindeki davacı payının .../... oranında olduğu anlaşılmaktadır.
 O halde; mahkemece, ... nolu bağımsız bölüm yönünden davacının .../... oranında hak sahibi olduğu, diğer paydaş ... tarafından usulüne uygun olarak açılmış bir dava ve istek bulunmadığı dikkate alınarak davacının payı dikkate alınarak müdahalenin önlenmesi ve ecrimisile hükmedilmesi gerekirken ... nolu bağımsız bölümün tamamı üzerinde davacı-karşı davalı ... hak sahibi gibi yazılı şekilde müdahalenin önlenmesi ve ecrimisilin tamamına hükmedilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 23. HD 2014/3743 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113974200)
 
 Asıl davada davacı arsa sahipleri ile karşı davadaki davacı yüklenici arasında, arsa sahiplerine ait arsada inşaat yapılması konusunda 20.03.1990 tarihinde onaylama şeklinde arsa payı karşılığı inşaat sözleşmesi yapılmıştır. Asıl davada davalı-karşı davada davacı yüklenici, anılan sözleşmeye göre imalat yapmış ise de, yapılan imalatın imar mevzuatına aykırı ekonomik değeri olmayan kaçak yapı niteliğinde olduğu mahkemece de belirlenmiştir. Sözleşmenin geçerli şekilde düzenlenmemesi ve tarafların edimlerini ifa etmemesi nedeniyle arsa payı karşılığı inşaat sözleşmesi geçersizdir. Ancak arsa sahipleri, geçersiz olan sözleşmeye göre yüklenici tarafından inşaa edilen yapılardan D blokun yüklenici tarafından tasarruf edilmesi nedeniyle ecrimisil isteminde bulunamaz.
 Bilindiği gibi, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan kötüniyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih 22/4 sayılı İnançları Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olup, taraflar arasında geçersiz olsa da ifasına başlanmış bir sözleşme ilişkisi bulunduğu ve anılan sözleşme uyarınca yüklenici tarafından imal edilen bağımsız bölümlerden yine sözleşmedeki paylaşıma göre yükleniciye ait olan bağımsız bölümlerin yüklenici tarafından tasarruf edilmesinin haksız işgal sayılamayacağının anlaşılmasına göre asıl davadaki ecrimisil isteminin tümden reddi gerekirken kısmen kabulüne karar verilmesi doğru görülmemiştir.
@@ -103,6 +123,8 @@ Bilindiği gibi, gerek öğretide ve gerekse yargısal uygulamalarda ifade edild
 Diğer yandan, asıl davada davalı olan ve yükleniciden bağımsız bölüm kiraladıkları iddiasıyla, davalılar Rana ve İbrahim aleyhine de men'i müdahale davası açılmış, davalılar 27.12.2007 tarihli oturumda, diğer davalı yükleniciden yeri kiralayarak kullandıklarını beyan etmişlerdir. Mahkemece, yapılan imalatın kaçak olduğu belirlenerek yüklenicinin istemlerinin reddine karar verilerek yüklenicinin müdahalesinin men'ine karar verildiğine göre arsa üzerindeki kaçak yapıda yüklenici ile yaptıkları sözleşme ile kiracı olarak bulundukları anlaşılan diğer davalıların müdahalelerinin sürmesi halinde bunların da müdahalelerinin men'ine karar verilmesi gerekirken bu davalılara yönelik men'i müdahale isteminin reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 17. HD 2014/1690 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/365109800)
 
 Dava, ortak yere yapılan haksız işgal nedeniyle ecrimisil (Haksız işgal tazminatı) istemine ilişkindir.
 
@@ -112,9 +134,13 @@ Bu durumda, ecrimisil davasının niteliği gereği Kat Mülkiyeti Kanunundan ka
 
 ## Yargıtay 18. HD 2014/1645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/315693000)
+
 Kat Mülkiyeti Yasası uygulamasında, özel ortak amaçlara tahsis edilmiş ortak yerlerin bu özel amaca tahsisi kaldırılmadığı müddetçe herhangi bir gelir getirmesi ve tüm kat maliklerinin oybirliğiyle karar alması halinde dahi kiraya verilmesi mümkün olmadığından bu gibi yerlerin işgali sebebiyle de ecrimisil istenemez. Somut olayda davaya konu edilen bahçe, aydınlık ve çatı bu ortak yerlerden sayıldığından ecrimisile yönelik talebin kabulüne karar verilmesi doğru değil ise de bu hususun düzeltilmesi yeniden yargılamayı gerektirmediğinden gerekçeli kararın hüküm fıkrasının (5) numaralı bendinin çıkartılması suretiyle hükmün düzeltilmesine ve düzeltilmiş bu şekli ile ONANMASINA, aşağıda yazılı bakiye onama harçlarının temyiz edenlere yükletilmesine, 06.02.2014 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2013/17736 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79360900)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -123,6 +149,8 @@ Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 Toplanan deliller ve tüm dosya içeriğine göre, kayden davacıya ait 179 ada 1 parsel sayılı taşınmazın (H Blok) 2 numaralı bağımsız bölümüne davalının mülkiyetten ya da sözleşmeden kaynaklanan bir hakka dayanmaksızın oturmak suretiyle elattığı ve çekişmeli taşınmazı yargılama sırasında boşalttığı belirlenerek konusu kalmayan elatmanın önlenmesi isteği hakkında karar verilmesine yer olmadığına; ecrimisil isteği yönünden de kullanımın davacının rızası dışında gerçekleştiğinin ispat edilemediği gözetilerek davanın reddine karar verilmiş olmasında kural olarak bir isabetsizlik yoktur. Davacının bu yönlere ilişkin temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2013/16398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79689700)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -134,6 +162,8 @@ Dava konusu 2 numaralı bağımsız bölümün ½ oranında paydaşı olan Şük
 
 ## Yargıtay 1. HD 2013/16233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79673500)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -143,6 +173,8 @@ Bu durumda 4 nolu bağımsız bölüm yönünden kötü zilyedin malike ödemekl
 Ancak; dava konusu 15 ve 16 numaralı mesken niteliğindeki bağımsız bölümler yönünden davalının harici taksim savunması kanıtlanamadığına göre, bu bağımsız bölümler yönünden davanın kabulüne karar verilmesi gerekirken, yazılı şekilde davanın reddine karar verilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2013/15567 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79631200)
 
 Dava, müstakilen ecrimisil isteğine ilişkindir.
 
@@ -154,6 +186,8 @@ Hal böyle olunca davalı N.G.'a usulüne uygun tebligat yapılması, her bir da
 
 ## Yargıtay 1. HD 2013/14513 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254617300)
+
 Dava; bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -161,6 +195,8 @@ Dava; bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişk
 Yukarıda belirlenen olgular karşısında; Türk Medeni Kanunu'nun 683. maddesi ve Anayasının 35. maddesinde öngörülen davacının mülkiyet hakkına değer verilerek çekişmeli bağımsız bölümün haklı ve geçerli bir neden olmaksızın davalı tarafından işgal edildiği belirlenerek elatmanın önlenmesine ve harici satın almaya dayalı savunma gözetilerek harici satış bedeli üzerinden hapis hakkı tanınmasına ve buna bağlı olarak ecrimisil isteğinin reddine karar verilmiş olmasında kural olarak bir isabetsizlik yoktur. Davacının tüm temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2013/13302 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79694600)
 
 Dava , ecrimisil isteğine ilişkindir.
 
@@ -174,6 +210,8 @@ Hal bölme olunca, temyize konu dava tarihinden geriye doğru 5 yıllık dönem 
 
 ## Yargıtay 1. HD 2013/11102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79727100)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -184,22 +222,32 @@ Bilindiği üzere, gerek öğretide ve gerekse yargısal uygulamalarda ifade edi
 
 ## Yargıtay 3. HD 2013/7017 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/258675100)
+
 Ancak; davaya konu edilen 44 nolu bağımsız bölümde davacılar paylı mülkiyet hükümlerine göre paydaştır. Davalı, bu bağımsız bölümü davacılardan 5 ... ile imzaladığı sözleşme uyarınca kullandığını ileri sürmüş, bu iddiaya davacı 5 ... karşı koymamıştır. Bu nedenle, kira sözleşmesinin davacı 5 ... ni bağlayacağı, diğer bir anlatımla bu davacının davalıdan 44 nolu bağımsız bölümle ilgili olarak ecrimisil talebinde bulunamayacağı açıktır.
 
 ## Yargıtay 3. HD 2012/24302 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/491377100)
 
 Davacı yönetim, ana taşınmazın ortak yerlerinden olan otoparkın diğer kat maliklerinin izni olmadan davalılar tarafından kiraya verildiğini iddia ederek; haksız kullanım karşılığı, ecrimisil talep etmektedir.Bilindiği gibi, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere, ecrimisil; (diğer bir deyişle işgal tazminatı) hak sahibinin kötüniyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih 22/4 sayılı İnançları Birleştirme Kararında “...fuzuli işgalin kiraya benzetilemeyeceği, haksız bir eylem sayılması gerektiği....bir zarar meydana gelirse bunun tazmin ettirileceği,...Medeni Kanunun (eski) 908.maddesi anlamında zilyedin faydalanmasından doğan bir istem olduğu...” vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira geliri, en çoğu ise tam gelir yoksunluğu karşılığı zarardır.Somut olayda; davalıların otoparkı ekonomik fayda sağlamak amacıyla dava dışı şirkete kiraladığı, buna karşılık, diğer kat maliklerinin bu kullanım nedeniyle bir zararının doğduğu anlaşılmaktadır.
 Mahkemece, davalılar tarafından yararlanılan ve haksız olarak kiralanan bu yerin, projede ortak kullanım alanında kaldığı, kiraya verilme ve gelir sağlama olanağı bulunan yerlerden olmadığından bahisle, ecrimisil talebinin reddine karar verilmiştir. Oysa, bir kimsenin başkasına ait olduğunu bildiği taşınmazı; hukuki bir dayanağı olmadan kendi malı gibi kullanması ve dolayısıyla ekonomik yarar sağlamasının bir karşılığı olmalıdır.
 
 ## Yargıtay 3. HD 2012/16540 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/528300400)
+
 Şu durumda mahkemece; davalı sitede yer alan dairelerden her birinin arsa payına düşen ecrimisilin bilirkişi marifetiyle belirlenmesi ve haklarında davaya devam edilen davalı kat maliklerinin arsa paylarına düşen ecrimisil ile sorumlu tutulması gerekirken, açıklanan ilkeye aykırı olarak davalıların müteselsilen sorumlu tutulmuş olmaları usul ve yasaya aykırıdır.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 02.07.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2012/16372 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534969800)
+
 Hükme esas alınan bilirkişi raporunda 4 nolu bağımsız bölüm için ecrimisil hesabı murisin ölüm tarihinden itibaren hesaplanmıştır. Ancak tarafların murislerinden kalan 4 nolu bölüm vasiyenamenin tenfiz tarihi olan 28.04.2009 tarihinde davacıya intikal etmiştir. Bu bölümün anahtarlarının davacıya davalının cevabında belirttiği gibi 03.02.2009 tarihinde geçmiş olduğu davalı tarafça ispat edildiği takdirde; bu bölüm için mahkemece ecrimisile hükmedilemeyecektir. Aksi halde; davacının vasiyetnamenin tenfiz tarihi olan 28.04.2009 tarihinden ecrimisil isteme hakkı bulunmaktadır. Mahkemece; tarafların delileri toplanmak suretiyle, bu konuda araştırma yapılarak sonucuna göre karar verilmesi gerekmektedir.
 
 ## Yargıtay 1. HD 2012/15105 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79577000)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
@@ -211,6 +259,8 @@ O halde, davacıların miras payı oranında davanın tüm bağımsız bölümle
 
 ## Yargıtay 17. HD 2012/13698 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794697700)
+
 Dava, elatmanın önlenmesi ve ecrimisilin tahsili istemine ilişkindir.
 
 …
@@ -218,6 +268,8 @@ Dava, elatmanın önlenmesi ve ecrimisilin tahsili istemine ilişkindir.
 Kat Mülkiyeti Kanununun Ek 1. maddesi hükmü uyarınca bir uyuşmazlığın dava değerine bakılmaksızın Sulh Hukuk Mahkemesinde görülebilmesi için uyuşmazlığın kat mülkiyetinden kaynaklanması gerekmektedir. Halbuki davacının C Blok Zemin katta bulunan ve projede kazan dairesi, sığınak vs. şeklinde düzenlenen ancak fiilen daire şeklinde bulunup ayrı bir bağımsız bölüm olarak tapuya tescil edilmeyen kısım üzerindeki mülkiyet iddiasına dayanarak dava açtığı nazara alındığında davanın kat mülkiyetinden kaynaklandığının kabulü söz konusu olmayacağından görev, müdahalenin önlenmesi istenen bölümün değeri ile talep edilen ecrimisil miktarına göre belirlenecektir. İstenen ecrimisil miktarının 3.000-TL, dosya içerisindeki 13.02.2012 tarihli bilirkişi raporuna göre de dava konusu bölümün değerinin 61.503-TL olarak belirlendiği anlaşıldığından, davanın açıldığı tarihe göre değer itibariyle Asliye Hukuk Mahkemesinde görülmesi gerekmektedir.
 
 ## Yargıtay 1. HD 2012/12004 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79235600)
 
 Dava; elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup mahkemece davanın kabulüne karar verilmiştir.
 
@@ -231,9 +283,13 @@ Diğer taraftan, 5 ve 6 nolu dükkan niteliğindeki bağımsız bölümler yön�
 
 ## Yargıtay 1. HD 2012/7991 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79495000)
+
 Asıl dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil, karşı dava alacak isteklerine ilişkin olup dosya içeriğinden ve toplanan delillerden mahkemece davacının kayden malik olduğu 4 nolu bağımsız bölümün davalılar tarafından haklı ve geçerli bir neden olmaksızın kullanıldığı gözetilerek elatmanın önlenmesine ve ispatlanamayan karşı davanın reddine karar verilmiş olmasında kural olarak bir isabetsizlik bulunmamaktadır. Davalıların bu yönlere ilişkin temyiz itirazları yerinde değildir. Reddine;
 
 ## Yargıtay 1. HD 2012/6819 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79358600)
 
 Dava, bağımsız bölüme elatmanın önlenmesi, yıkım, ecrimisil veya tazminat isteklerine ilişkindir.
 
@@ -243,13 +299,19 @@ Hal böyle olunca; mahallinde yeniden uzman bilirkişi heyeti ile birlikte keşi
 
 ## Yargıtay 3. HD 2012/4542 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613663000)
+
 Bir hakkı dava edebilme yetkisi, hakkın sahibine aittir. Bu husus dava şartı olmakla, mahkemece kendiliğinden incelenir. Dosya içeriğine göre, site birden fazla parsel üzerinde kurulu olup, toplu yapı yönetimine de geçilmediğinden olayda Kat Mülkiyeti Kanunu 35.maddesi gereğince yönetimin dava ehliyeti bulunmamaktadır. Kaldı ki istenen alacak haksız işgal tazminatına ilişkin olup, yönetim giderlerine veya ana gayrimenkulün yönetimine ilişkin de değildir. Davacının yönetimle ilgili konularda yönetici seçilmiş olması dışında, tüm kat malikleri tarafından bu davayı açmak üzere yetki de verilmiş değildir.
 
 ## Yargıtay 1. HD 2012/3180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79362900)
+
 Asıl dava, bağımsız bölüme elatmanın önlenmesi, birleşen dava ecrimisil isteklerine ilişkin olup; mahkemece yargılama aşamasında elatmanın önlenmesi davasında davacının aktif dava ehliyetini kaybettiğinden bahisle ecrimisil davasının da koşulları oluşmadığı gerekçesiyle reddine karar verilmiş olmasında, kural olarak bir isabetsizlik bulunmamaktadır. O halde davacı vekilinin bu yönlere değinen temyiz itirazları yerinde değildir. Reddine;
 
 ## Yargıtay 14. HD 2012/2411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670295400)
 
 Dava, fuzuli işgal nedenine dayalı müdahalenin men'i ve ecrimisil istemlerine ilişkindir.
 
@@ -259,9 +321,13 @@ Dava tarihi itibariyle yürürlükte bulunan HUMK'nuna göre mahkemelerin görev
 
 ## Yargıtay 3. HD 2012/1458 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623977700)
+
 TMK. md. 993–995 ve 8.3.1950 gün 22/4 sayılı Y.İ.B. Kararında da kabul edildiği gibi ecrimisil; haksız fiil benzeri olup, üstün bir hakka dayanmadan başkasının taşınmazını işgal edip böylece “haksız kazanç elde eden” şahsın iade etmekle yükümlü olduğu bir tazminat türüdür. Bu tür davalarda, başkasının taşınmazının işgal eden kişi veya kişilerin kişisel sorumluğu söz konusudur. Diğer taraftan, Kat Mülkiyeti Kanununun 35. maddesi uyarınca kat malikleri kurulunca verilen kararların yerine getirilmesi yöneticinin görevleri arasındadır.Dosyadaki belgeler ve aldırılan bilirkişi raporundan; davaya konu arsa nitelikli taşınmazın 1.820 m² lik bölümünün etrafının duvarla çevrilerek davalıların yöneticilik hizmeti vermiş oldukları ...Sahil Sitesine dâhil edildiği ve halen otopark olarak kullanıldığı sabittir. Ne var ki işgalin, kat malikleri kurulunca verilen bir karar nedeniyle mi yoksa yöneticilerin kişisel kararı sonucu mu gerçekleştirildiği dosya kapsamından anlaşılamadığı gibi mahkemece de bu yönde bir araştırma yapılmamıştır.
 O halde mahkemece; işgalin kim veya kimlerin kararı ile gerçekleştirildiğinin araştırılarak bu yönde kat malikleri kurulunca bir karar alınmamış olması halinde davaların kişisel sorumluluğu söz konusu olduğundan davaya devam edilmesi, aksi halde ise dava dilekçesinin eksik düzenlendiği (HUMK. md. 179/1) kabul edilerek tüm kat maliklerinin davaya dahil edilmesi hususunda davacı tarafa önel verilip sonucuna göre işlem yapılması gerekirken, eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru görülmemiştir. Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz olup bu nedenlerle yerinde olan temyiz itirazlarının kabulü ile hükmün HUMK. nun 428.
 
 ## Yargıtay 18. HD 2011/10902 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804858400)
 
 634 sayılı Kat Mülkiyeti Yasası'nın Ek 1. maddesinde, bu Kanunun uygulanmasından doğacak her türlü anlaşmazlığın sulh hukuk mahkemesinde çözümleneceği hükme bağlanmıştır. Ecrimisil davasının Kat Mülkiyeti Yasası'nın uygulanmasından kaynaklanmadığı, anılan yasa maddesi hükmünün bu istem yönünden uygulama olanağı bulunmadığı, uyuşmazlığın değeri dikkate alınarak genel hükümlere göre sonuçlandırılması gerektiğinden mahkemece kat mülkiyetinden kaynaklanan müdahalenin men'i istemi konusunda davanın tefrik edilip görevsizlik kararı verilerek dosyasının görevli ve yetkili sulh hukuk mahkemesine gönderilmesi, ecrimisil ile ilgili davanın ise asliye hukuk mahkemesinde görülüp işin esasına girilerek toplanacak deliller doğrultusunda anılan mahkemece karar verilmesi gerektiğinin düşünülmemesi doğru görülmemiştir.

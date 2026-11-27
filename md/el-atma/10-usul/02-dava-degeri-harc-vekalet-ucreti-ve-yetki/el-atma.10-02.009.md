@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2023/7469 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/939013200)
+
 Davacı vekili dava dilekçesinde; dava konusu Ankara ili, ... ilçesi, ... Mahallesi, 147 parsel sayılı taşınmazda müvekkilinin malik olduğunu, imar uygulaması sonrası düzenleme ortaklık payı kesintisi yapılarak bedelsiz terkin şerhinin konulduğunu ve davalı idarece yol ve park yapılmak suretiyle fiilen el atıldığından bahisle kamulaştırmasız el atmaya dayalı taşınmaz bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -37,6 +39,8 @@ Hukuk Dairesinin söz konusu ilamlarında belirlenen bedellerin değerlendirme t
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunu'nun 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 8. HD 2023/6271 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982121600)
 
 İlK Derece Mahkemesi kararının davacı - karşı davalı ... vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince, istinaf başvurusunun yargılama giderleri yönünden kabulü ile ilk derece mahkemesi kararının kaldırılması suretiyle asıl davanın reddine, karşı davanın kabulüne karar verilmiştir.
 
@@ -58,6 +62,8 @@ Davacı - karşı davalı ... Kılıçkaya vekilinin, temyiz itirazlarının yuk
 
 ## Yargıtay 7. HD 2023/6071 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987909700)
+
 Davacı vekili dava dilekçesinde; 115 ada 52 parsel sayılı taşınmazın davacı Hazine adına kayıtlı olduğunu, davalının bu taşınmazda iki katlı kaçak inşaat yapmak suretiyle haksız işgalci konumunda bulunduğunu belirterek, el atmanın önlenmesine ve yapıların yıkılmasına karar verilmesini talep etmiştir.
 
 …
@@ -75,6 +81,8 @@ Buna göre, harçlandırılan dava değeri üzerinden vekâlet ücretine hükmed
 Temyiz olunan, İlk Derece Mahkemesi kararına karşı istinaf başvurusunun esastan reddine ilişkin Bölge Adliye Mahkemesi kararının ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 5. HD 2023/6012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/922706700)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların kısmen kabulüne karar verilmiştir.
 
@@ -98,6 +106,8 @@ b) Gerekçeli karar başlığında davalı olarak yer alan ''..., ..., ..., ...,
 
 ## Yargıtay 5. HD 2023/5671 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917519600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -119,6 +129,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 7. HD 2023/5636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988116100)
+
 Davalı, davaya cevap vermemiş; davalı vekili beyan dilekçesinde, dava açıldıktan sonra taşınmazın tahliye edildiğini, öncesinde davacının rızası ile oturulduğunu beyan etmiştir.
 
 …
@@ -131,6 +143,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 ...
 
 ## Yargıtay 12. HD 2023/4903 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983748300)
+
 Alacaklılar şikayet dilekçelerinde; hukuki el atmadan kaynaklı tazminat istemiyle açılan dava sonucunda ... İdare Mahkemesince verilen ilama dayalı olarak davalı aleyhine ... İcra Müdürlüğünün 2021/15849 Esas sayılı dosyası üzerinden icra takibi başlatıldığını, takip uyarınca icra vekalet ücretinin nispi hesaplanması gerekirken maktu hesaplandığını ileri sürerek icra müdürlüğünce verilen 09.12.2021 tarihli kararın iptali ile vekalet ücretinin nispi olarak hesaplanmasına karar verilmesini talep etmişlerdir.
 
 …
@@ -138,6 +152,8 @@ Alacaklılar şikayet dilekçelerinde; hukuki el atmadan kaynaklı tazminat iste
 Temyiz olunan Bölge Adliye Mahkemesi kararının 5311 sayılı Kanun ile değişik İİK'nın 364/2. maddesi göndermesiyle uygulanması gereken 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/4819 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969602500)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne ve kısmen reddine karar verilmiştir.
 
@@ -159,6 +175,8 @@ Davacı vekili ile davalı ... ve davalı-karşı davacı ... mirasçısı ... v
 
 ## Yargıtay 7. HD 2023/4214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978775800)
+
 Davacı vekili dava dilekçesinde; davalı adına kayıtlı İstanbul ili, Bakırköy ilçesi, Şenlik Mahallesi, 567 ada 37 parsel sayılı taşınmazda 5 numaralı bağımsız bölümün Bakırköy 18. İcra Müdürlüğünün 2016/31 Esas sayılı dosyasında 31/07/2017 tarihinde yapılan açık arttırma sonucunda 2.001.000,00 TL karşılığı satın aldığını, davalının açtığı ihalenin feshi davasının reddedildiğini beyanla el atmanın önlenmesi, fazlaya ilişkin hakları saklı kalmak kaydıyla ihale tarihinden dava tarihine kadar olan 228.000,00 TL ecrimisil bedelinin davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -174,6 +192,8 @@ El atma yönünden belirlenen taşınmaz değeri üzerinden eksik harcın yatır
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/3904 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979073500)
 
 Davacılar vekili dava dilekçesinde; Adana 14. Noterliğinin 23.07.1999 tarih ve 17942 yevmiye No.lu kat karşılığı inşaat sözleşmesine istinaden; davacı ...'in 28 No.lu daireyi 19.02.2000 tarihinde satın aldığını belirtilerek, bu daireye ... tarafından yapılan müdahalenin men'ine, ...'ın 11 No.lu daireyi 29.12.1999 tarihinde satın aldığı belirtilerek, bu daireye ... tarafından yapılan müdahalenin men'ine, ...'nın 22 No.lu daireyi 14.05.2001 tarihinde satın aldığını belirtilerek, bu daireye ... tarafından yapılan müdahalenin men'ine karar verilmesini, ayrıca her 3 davacı tarafından tüm davalılara yönelik 45.000,00 TL mahrum kalınan kira bedelinin munzam zarar olarak teslim tarihi olan 31.12.2002 tarihinden itibaren yasal faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
 
@@ -195,6 +215,8 @@ Yukarıda IV-C-3-1.2 bentte açıklanan nedenlerle davacılar vekilinin, IV-C-3-
 
 ## Yargıtay 7. HD 2023/3558 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929550200)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; el atmanın önlenmesi ve ecrimisil talepleri yönünden konusuz kalan davada karar verilmesine yer olmadığına karar verilmiştir.
 
 …
@@ -215,6 +237,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 7. HD 2023/3297 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915822100)
+
 Davacı vekili, müvekkilinin Tokat ili, .... ilçesi, .... Köyü 147 ada 3 parsel sayılı taşınmaz ile .... Köyü, 147 ada 1 parsel sayılı taşınmazı cebri icra yoluyla satın almış olmasına rağmen davalı tarafından tarla vasfındaki taşınmazların kullanılmaya ve işgal edilmeye devam edildiğini belirterek el atmanın önlenmesini, fazlaya ilişkin haklarının saklı kalmak kaydıyla taşınmazların haksız kullanımından dolayı 5.000,00 TL ecrimisilin davalıdan tahsilini talep etmiştir.
 
 …
@@ -234,6 +258,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/3040 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950851700)
+
 Davacılar vekili dava dilekçesinde; dava konusu 6084 ve 2365 parsel sayılı taşınmazların murislerinden intikal ettiğini, davalının yıllardan beri dükkanı kiraya vererek kira parasını aldığını, evi ikamet olarak kullandığını, zeytinliğin ürününü satarak parasını aldığını, davacıların bu yerlerden faydalanmasına izin vermediğini, uyarılara rağmen davalının müdahalesine devam ettiğini belirterek, müvekkillerinin hisseleri oranında davalının müdahalesinin men'ine, geriye dönük 5 yıllık ecrimisil bedelinin tespiti ile davalıdan alınarak müvekkillerine verilmesine karar verilmesini talep etmiş, 14.11.2018 tarihli celsede el atmanın önlenmesi talebinden feragat etmiştir.
 
 …
@@ -249,6 +275,8 @@ Bu durumda, davacının el atmanın önlenmesi ve ecrimisil talepleri yönünden
 İlk Derece Mahkemesi kararının 6. bendinde yer alan "19.425,22 TL nispi" ibaresinin silinerek yerine "2.725,00 TL maktu" ibaresinin yazılması suretiyle kararın DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 7. HD 2023/2409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910818800)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -271,6 +299,8 @@ Davacı vekili ile davalılar ... ile ...’in temyiz itirazlarının kabulü il
 
 ## Yargıtay 1. HD 2023/2395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917960000)
+
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonucunda; asıl davanın kabulüne, birleştirilen davanın reddine karar verilmiştir.
 
 …
@@ -289,6 +319,8 @@ Hal böyle olunca, asıl dava yönünden TBK.'nın 97. maddesi hükmü uyarınca
 Asıl davada davalı- birleştirilen davada davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/1953 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/926067200)
 
 Davacılar vekili, dava konusu taşınmazda üç bina bulunduğunu, B blok zemin katta ortak kullanım alanı olan kısmın daire şekline dönüştürülüp davalı tarafından işgal edildiğini belirterek, elatmanın önlenmesi, ecrimisil ve eski hale getirilmesini talep etmiştir.
 

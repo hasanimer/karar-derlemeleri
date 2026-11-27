@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2023/608 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980260500)
+
 Varılan bu sonuç uyarınca, mahkemece davanın hukuki niteliğinin haksız işgalden doğan ecrimisil tazminatı olmayıp, gerçek olmayan vekâletsiz iş görme hükümlerinden doğan menfaatin devrine ilişkin itirazın iptali davası olduğu kabul edilerek, delillerin bu hükümler çerçevesinde değerlendirilmesi gerekmekte ise de temyize konu Bölge Adliye Mahkemesi kararının dosyadaki bilgi ve belgeler, taraf delilleri ve iddia ile savunmaları kapsamı itibariyle isabetli olduğu, davalı paydaş (işgörenin) ödeme iddiasını ispatlayamadığı gözetildiğinde, hukuki nitelendirmenin ise az yukarıda anıldığı şekilde kabulü gerektiğinden Bölge Adliye Mahkemesi kararının gerekçesinin değiştirilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2022/4480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805799700)
 
 Dava, paydaşlar arasında ecrimisil isteminden kaynaklanan takibe itirazın iptali istemine ilişkindir.
 
@@ -34,13 +38,19 @@ Kabule göre de; İcra İflas Kanununun 67. maddesi hükmüne göre; itirazın i
 
 ## Yargıtay 11. HD 2021/6459 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/712951600)
+
 Dava mahkemece de nitelendirildiği üzere haksız işgal tazminatının tahsiline ilişkin başlatılan takibe itirazın iptali davasıdır. Taraflar arasındaki işletme (kira) sözleşmesi düzenlenen tarihsiz protokolle 11.07.2010 tarihi itibariyle sonlanmıştır. Bu durumda davalı, icarında bulunan yeri tahliye etmek suretiyle davacıya teslim borcu altına girmiştir. Ancak toplanan delillerden de anlaşılacağı üzere mecuru iki ay daha hukuksal bir sebebe dayanmadan işgal ettiği ve bu suretle davacı lehine bir ecrimisil alacağı doğmuş olduğu aşikardır. Davalının istenen ecrimisil bedeline ayrıca ve açıkça bir itirazı da söz konusu olmadığına göre davalı hakkında iki adet fatura nedeniyle başlatılan takibe yapılan itirazın iptaline karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2020/5496 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609543800)
+
 İlk Derece Mahkemesinin, 19.09.2017 tarihli duruşmada yapmış olduğu incelemeye göre; davacı taraf, Bakırköy 11. İcra Müdürlüğünün 2017/3532 Esas sayılı dosyası ile, dava konusu taşınmazlar için, 18.02.2016 ila 13.02.2017 dönemlerini kapsayacak şekilde ecrimisil alacağı talebinde bulunmuş olup, borçlu tarafın borca itirazı nedeniyle 21.04.2017 tarihinde incelemeye konu itirazın iptali davası açılmıştır. Eldeki davanın itirazın iptali davası olması ve icra takibinde de 18.02.2016 ila 13.02.2017 dönemlerini kapsayacak şekilde ecrimisil alacağı talebinde bulunmuş olması nedeniyle, Mahkemece bu döneme ilişkin alacak hesabı yaptırılmak suretiyle hesaplanacak miktar üzerinden itirazın iptaline karar verilmesi gerekirken, davacının talebini aşacak şekilde, 18.02.2016 ila eldeki dava tarihi olan 21.04.2017 tarihleri arasını kapsayacak şekilde alacak hesabı yaptırılması ve bu miktar üzerinden itirazın iptali ile takibin devamına karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2019/4125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512602400)
 
 Dava, Körfez İcra Müdürlüğünün 2012/1382 sayılı icra dosyasında yapılan itirazın iptali (paydaşlar arasında haksız işgal tazminatı alacağından kaynaklanan) istemine ilişkindir.
 
@@ -49,6 +59,8 @@ Dava, Körfez İcra Müdürlüğünün 2012/1382 sayılı icra dosyasında yapı
 Öncelikle belirtmek gerekir ki; itirazın iptali davası, takip hukuku içinde ve takip talebiyle sıkı sıkıya bağlantılı olarak ele alınması gereken, sonucuyla takibin devamına etkili bir dava türüdür. Bu nedenle takip talebinde dayanılan borç ve borcun sebebine bağlılık esastır. İtirazın iptali davasında ispat edilecek olan, takibe ve itiraza konu alacaktır. İtirazın iptali davasında takibe konu alacak sebebi değiştirilemez. Bu bağlamda da takipte talep edilen döneme ilişkin ecrimisil hesabı yapılması gerekir.
 
 ## Yargıtay 1. HD 2017/1311 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355882300)
 
 Dava; ecrimisil alacağının tahsili için başlatılan icra takibine karşı yapılan itirazın iptali isteğine ilişkindir.
 
@@ -60,13 +72,19 @@ Hal böyle olunca mahkemece reddedilen takibe konu 5492,84-TL üzerinden davalı
 
 ## Yargıtay 1. HD 2016/2136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214946400)
+
 Hâl böyle olunca; asıl davada, icra takibine konu dönemler (19.9.2007-1.6.2010) için ecrimisil hesabının yapılması, istenen bedel aşılmamak suretiyle belirlenecek miktar üzerinden itirazın iptali ile icra takibinin devamına karar verilmesi, birleşen davada ise TMK'nın 995/2. maddesi gözetilerek hesaplanacak zorunlu masrafların hüküm altına alınması gerekirken, yanılgılı değerlendirme ve yasal olmayan gerekçe ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2016/1062 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211183700)
+
 İcra takibinin dayanağı ilam ecrimisil bedelinin tespitine ilişkin ilam olup kira bedeli yönünden likit bir alacak içeren eda hükmü taşımamakta ise de yargılama gideri ve avukatlık ücreti alacağı yönünden eda hükmü taşımaktadır. Bu alacaklar ve faizleri yönünden takip yapılmasında bir usulsüzlük bulunmamaktadır. Mahkemece anılan husus gözardı edilerek takibin tümden iptaline karar verilmesi doğru değildir.
 
 ## Yargıtay 20. HD 2015/9887 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136645700)
 
 Dava, itirazın iptali istemine ilişkindir.
 
@@ -75,6 +93,8 @@ Dava, itirazın iptali istemine ilişkindir.
 Sulh hukuk mahkemesi ise; taraflar arasındaki iş bu dava ortak alanın işgal edilmesi nedeniyle ecrimisil talebine itirazın iptaline ilişkin olduğu, 634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesinde, bu Kanunun uygulanmasından doğacak her türlü anlaşmazlığın sulh hukuk mahkemesinde çözümleneceği hükme bağlandığı, ecrimisil davası Kat Mülkiyeti Kanununun uygulanmasından kaynaklanmayıp, anılan Kanun maddesi hükmünün bu istem yönünden uygulama olanağı bulunmadığı gerekçesiyle görevsizlik yönünde hüküm kurulmuştur.
 
 ## Yargıtay 6. HD 2015/8550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148543100)
 
 Dava, ecrimisil ve kira alacağının tahsili için girişilen tahliye talepli icra takibine vaki itirazın iptali ve tahliye istemine ilişkindir.
 
@@ -87,6 +107,8 @@ Mahkemece, itirazın kısmen kabulü ile 14.000,00.-TL asıl alacak ve 935.00-TL
 
 ## Yargıtay 1. HD 2015/3684 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/128903400)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -97,6 +119,8 @@ Kabule göre de, bir tür haksız kullanım bedeli (tazminatı) olan ecrimisil t
 
 ## Yargıtay 1. HD 2014/14465 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84507000)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -104,6 +128,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Kabule göre de; itirazın iptaline konu Ankara 26. İcra Müdürlüğü'nün 2012/14139 Esas sayılı takip dosyasından davacı alacaklı tarafından davalı borçlu hakkında yapılan takipte düzenlenen ödeme emri ile ödeme emrinin eklerini oluşturan belgelerden; belediyeye ait toplam 39 m2 yer için ecrimisil talebi ile takip yapıldığı görüldüğü ve mahallinde yapılan uygulama neticesinde davalının müdahale ettiği tespit edilen 39 m2'lik kısım içinde davacıya ait yol ve yeşil alanın bulunduğu belirlendiği halde, bu bölümlerin müdahale edilen kısımlar içerisinde değerlendirilmemiş olması da doğru değildir.
 
 ## Yargıtay 1. HD 2014/6875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84110000)
 
 Dava, ecrimisil birleşen davalar ecrimisil ile itirazın iptali isteklerine ilişkindir.
 
@@ -113,15 +139,21 @@ Hâl böyle olunca, davalıların taşınmazdaki bağımsız bölümleri tahliye
 
 ## Yargıtay 3. HD 2013/1767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/256850800)
+
 Davacı taraf asıl davada fazlaya ilişkin hakların saklı tutularak ecrimisil alacağı için 200.000 TL asıl, 5.223,29 TL işlemiş faiz toplam 205.523,29 TL üzerinden icra takibi yapmış, davalının itirazı üzerine bu miktar üzerinden itirazın iptali ile %40 icra inkar tazminatına hükmolunması istenilmiştir. İcra İflas Kanunu 67/2.maddesinde yerini bulan icra inkar tazminatı itirazın iptali davası sonucunda verilen ve ona bağlı bir tazminat olup, itirazın iptali davalarında hem kısa kararda hem de sonradan yazılan gerekçeli kararın hüküm fıkrasında itirazın iptaline ve icra inkar tazminatına ilişkin olarak ayrı ayrı hüküm kurulur.
 
 Somut olayda; mahkemece kısa kararda (hükümde) asıl dava yönünden davanın kabulüne şeklinde hüküm kurulmuş, icra inkar tazminatına ilişkin olarak hüküm kurulmamıştır. Sonradan yazılan gerekçeli hükümde ise ayrıca icra inkar tazminatına ilişkin olarakta hüküm kurulmuştur. Bu durumda kısa kararda (hükümde); asıl davanın itirazın iptaline ilişkin kısmının mı kabul edildiği yoksa icra inkar tazminatına ilişkin kısmınında mı kabul edildiği hususunda açık şüphe ve tereddütten uzak hüküm kurulmamıştır. Yazılı şekilde HUMK'nun 388/son, HMK'nun 297/son fıkrasına aykırı ve çelişki oluşturucak şekilde hüküm kurulmuş olması doğru görülmemiş, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 3. HD 2012/9513 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560809000)
+
 İcra İflas Kanunun 67.maddesi gereğince, itirazın iptali davası, takip alacaklısı tarafından (süresi içinde) ödeme emrine itiraz etmiş olan borçluya karşı açılır; yani, davacı alacaklı, davalı ise takip borçlusudur.Davaya konu icra takip dosyasında alacaklı sıfatı ile Maliye Bakanlığı (...), itirazın iptali davasında ise davacı olarak Kayyım ...'ın yer aldığı ve ...1.Sulh Hukuk Mahkemesinin 20.01.2009 tarihli kararında, 52 parsel ile ilgili gaip ..., ..., ..., ..., ... ve ...adına dava açması için ...'ın kayyım tayin edildiği anlaşılmaktadır.Bir davada taraf ehliyeti (HMK madde 50) dava şartıdır ve mahkemece dava şartlarının tamam olup olmadığı yargılamanın her aşamasında kendiliğinden gözetilmesi gerekir.Gaip olan kimseyi temsil ve mallarını idare etmek için tayin olunan kayyıma Medeni Kanunun 377/1.maddesine göre “İdare Kayyımlığı” denilmektedir. Kayyımın dava takibindeki yetkileri, vasinin yetkileri gibidir (Medeni Kanunun 353/3, 402 ve 403/2.maddeleri).Davada, kayyım tayin edilen gaip kişiler adına kayıtlı 52 parselin davalı tarafından haksız işgali nedeniyle ecrimisil talep edilmektedir.
 
 ## Yargıtay 3. HD 2011/14016 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/962591700)
 
 Ancak, hükme esas alınan bilirkişi raporunda; her ay için öngörülen ecrimisil bedeline faiz işletilmek suretiyle hesaplama yapılmıştır. Oysa, Yargıtay'ın yerleşmiş uygulamalarına göre, ecrimisil davalarında; faize, dönem sonu (tahakkuk tarihi) itibariyle hükmedilmesi gerekmektedir. Dönem olarak da yıllık süre baz alınmaktadır. Mahkemece, bu hususta, yanılgılı değerlendirme ve eksik inceleme ile hüküm verilmiş olması doğru görülmemiştir.
 
@@ -129,9 +161,13 @@ Bundan ayrı, takibin konusu ecrimisil bedeline ilişkin olup; haksız fiil benz
 
 ## Yargıtay 3. HD 2011/8641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970206200)
+
 İtirazın iptali davası (müddeabihi takip konusu yapılmış ve borçlunun itiraz etmiş olduğu alacak olan) normal bir eda (alacak) davasıdır. itirazın iptali davasında genel hükümler uygulanır. Mahkeme, bu davada (normal bir alacak davasında olduğu gibi) tarafların iddia ve savunmalarını genel hükümlere göre inceleyerek, borçlunun borçlu olup olmadığını araştırır. İnceleme sonucunda; borçlunun borçlu olmadığı kanısına varırsa, borçlunun itirazının iptaline (ve şartları varsa, icra inkar tazminatına) karar verir. Aksi takdirde, davanın reddine karar verir. Mahkemece; yukarıdaki ilke ve esaslar doğrultusunda bir inceleme ve araştırma yapılmaksızın, ecrimisil talep edilen döneme ilişkin takip tarihinden önce bir hüküm bulunmadığından bahisle, itirazın iptali davasının mahiyetinde yanılgıya düşürülerek, davanın reddi yönünde hüküm kurulmuş olması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 14. HD 2008/14266 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849634100)
 
 Dava, menfi tespit, birleştirilen dava ise birlikte açılmış, itirazın iptali, tahliye, elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -140,6 +176,8 @@ Dava, menfi tespit, birleştirilen dava ise birlikte açılmış, itirazın ipta
 Eldeki davada, menfi tespit, itirazın iptali istemleri açısından Sulh Hukuk Mahkemesi görevli olmasına rağmen konut olarak kullanılan taşınmaza elatmanın önlenmesi ve ecrimisil istemi açısından dava değeri sulh Hukuk Mahkemesinin görevini aşmaktadır. Mahkemece bağlantılı olduğu kabul edilen tüm davalar için görevsizlik kararı verilmesi gerekirken sadece elatemanın önlenmesi ve ecrimisil istemine yönelik görevsizlik kararı verilmesi usul ve yasaya aykırı bulunduğundan kararın bozulması gerekmiştir.
 
 ## İstanbul BAM 49. HD 2024/1608 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1049500900)
 
 DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE: Yasal dayanak:Hukuk Muhakemeleri Kanunu;190, 191. maddeleri, Türk Medeni Kanunu 6. maddesi, Türk Borçlar Kanunu 299, 313, 314, 315. maddeleri, İcra İflas Kanunu 67,68, 269, 269/a. 269/b, 269/c maddeleri, Yargılama konusu olayda: Davacı alacaklının, davalı borçlu aleyhine taşınmazı haksız işgali nedeniyle Şişli ... İcra Müdürlüğü'nün ... Esas sayılı dosyasıyla 12/02/2010 tarihinde ekspertiz raporu ve ihtarnameye dayanarak 20/05/2004-20/12/2009 dönemi için kullanılan taşınmazın kira ve ecrimisil alacağı için ilamsız icra takibi başlattığı, Haciz talep edildiği, 369.720,00 TL kira alacağı, 307.724,00 TL ecrimisil alacağı olmak üzere toplam 677.444,00 TL asıl alacak ve 434.119,00 TL işlemiş reeskont faizinin tahsili için Örnek 7 ödeme emrinin 16/02/2010 tarihinde tebliğ edildiği, 7 gün ödeme 7 gün itiraz süresi verildiği, borçlu 24/02/2010 tarihinde herhangi bir borcu olmadığını, borcun tamamına ve tüm ferilerine itiraz ettiği, takibin durduğu, itirazın iptali davasının 17/10/2010 tarihinde açılmıştır.
 Birleşen alacak davası 09/11/2012 tarihinde açıldığı, Davacı, itirazın iptali ile asıl alacağın %20 si oranında icra inkar tazminatına karar verilmesini dava ve talep ettiği, Birleşen dosya davacısı, kiracı olduğu taşınmazın kullanıma elverişli hale getirmesi için harcadığı 154.145,27 TL miktarlı meblağın tazminini, davanın mahkemenin dosyasıyla birleştirilmesini, asıl davaya konu alacak talebinin takas ve mahsubuna karar verilmesi talep ve dava etmiştir. Asıl davada davalı, ekspertiz raporunun tek taraflı olarak düzenlenmesi nedeniyle hukuki niteliği olmadığını, takip tarihinden 5 yıl öncesi taleplerin zamanaşımına uğradığını, davacı banka ile kira sözleşmesi tanzim etmediğini ve kira borcunun bu haliyle mevcut olmadığını, taşınmazda işgalci olmadığını, taşınmaza bir çok masraflar yaparak taşınmazı kullanılabilir hale getirildiğini, takibin haksız ve dayanaksız olması nedeniyle asıl davanın reddini savunmuştur. Birleşen davada davalı, dava konusu taşınmazı Abana İcra Müdürlüğü’nün ... Talimat sayılı dosyasında ihale ile alacağına mahsuben satın aldığını, taşınmazın bankanın mülkiyetine geçtiğini, İİK 135.

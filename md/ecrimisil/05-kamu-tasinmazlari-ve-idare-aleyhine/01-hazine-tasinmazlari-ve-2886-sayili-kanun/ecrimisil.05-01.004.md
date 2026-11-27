@@ -21,10 +21,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2010/3141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968739200)
+
 Gerçekten de davacının dayandığı 17.12.1981 başlangıç ve 31.08.1986 bitim tarihli sözleşme fotokopisi ... bir sahifeden ibaret olup, taraf imzalarını içermemektedir. Ayrıca davacının bizzat sunduğu makbuzlardan idareye ödediği bedelinde kira bedeli olmayıp, ecrimisil olduğu anlaşılmaktadır. Nitekim davacının işgalci kabul edilerek kendisine çeşitli tarihlerde ecrimisil ihbarnamesi çıkarıldığı her iki tarafın da kabulündedir. O halde, davalı ... Hazinesine ait taşınmazı geçerli bir kira sözleşmesine dayalı olarak kullandığını ispat edemeyen davacının iyiniyet iddiası kabul edilemez. Ancak, keşif raporunda belirtilen ağaç ve yapıların davacıya ait olduğu da yanlar arasında tartışmasızdır. Bu takdirde TMK.nun 723 - 729. maddelerinde yer alan ” malzeme sökülüp alınamaz ise, arazi maliki malzeme sahibine uygun bir tazminat ödemekle yükümlüdür. Yapıyı yaptıran malzeme sahibi iyiniyetli değilse, hakimin hükmedeceği miktar, bu malzemenin arazi maliki için taşıdığı en az değeri geçmeyebilir” hükmü gereğince bir karar verilmelidir. Anılan hüküm esas itibariyle BK.nun 61 vd. maddelerinde düzenlenen sebepsiz zenginleşmenin özel bir halidir.
 Davacının iyiniyetli olduğu ispat edilemediğine ve malzeme de sökülüp alınmadığına göre hükmedilecek miktar davacının yaptığı giderler olmayıp, bu malzemeler nedeniyle taşınmaz malikinin zenginleştiği miktardır. Bu miktar TMK'nun 723/son maddesinde belirtildiği üzere, malzemenin arazi maliki için taşıdığı en az değeri ifade ettiğinden, davada olayların özelliğine bakan hakimin TMK'nun 4.maddesinin kendisine tanıdığı takdir yetkisini de kullanarak bir karar vermesi gerekmektedir.
 
 ## Yargıtay 1. HD 2009/7752 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78336300)
 
 Dava, yargılamanın yenilenmesi isteğine ilişkindir.
 
@@ -34,21 +38,29 @@ Ne varki anılan karardan sonra Hazinenin ecrimisil isteği üzerine, davalını
 
 ## Yargıtay 13. HD 2008/3170 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834949000)
+
 Davacının davalı ... ile yaptığı 23.10.2003 tarihli 3 yıllık kira sözleşmesi ile 42 ve 45 parsel sayılı taşınmazları üzerindeki futbol sahası ile kafeteryanın işletilmesi amacıyla kiraladığı, ancak futbol sahasının 1/10 unun, 45 parselde kaldığı ,futbol sahasının geriye kalan kısmının ve kafenin tamamının hazineye ait 46 parselde kaldığı,42 parselin tesisle ilgisinin olmaması nedeniyle hazinenin 28.6.2002,13.1.2003 ,7.10.2003 tarihli ihbarnamelerle 23.10.2003 tarihinden 27.8.2003 tarihine kadar ki dönem için 20.019.166.667 TL ecrimisil talebinde bulunulduğu ve ödediği,taşınmazların halen hazine tarafından davacının ortağı olduğu dava dışı firmaya 27.8.2003 tarihli ve 5 yıllık kira sözleşmesi ile kiralandığı ve teslim edildiği,davacının açtığı kira sözleşmenin feshine ilişkin davanın reddedilip 9.2.2006 tarihi itibarıyla kesinleştiği,...
 2.Sulh Hukuk Mahkemesinin 18.4.2006 tarihli kararı ile de temerrüt nedeniyle tahliyesine karar verildiği dosya kapsamından anlaşıldığı gibi taraflar arasında da ihtilafsızdır.taraflar arasında yapılan kira sözleşmesine göre ve BK nun 272.maddesi ve devamı maddeleri hükmüne göre davalı kiralananı kiracının kullanımına Salih halde teslim ve kira müddeti süresince de bu halde kullanımına hazır halde tutmak zorundadır.Davacının kullanımında bulunduğu süre zarfında taşınmazın hazine yeri olması nedeniyle ecrimisil talebinde bulunulmuş davacı da bunları ödemek zorunda kalmıştır.Buna göre davacının taşınmazı kullandığı dönem içinde dava dışı hazineye ödediği ecrimisil bedellerinin,davacının kira sözleşmesi nedeniyle ödediği kira bedelinden mahbubu gerektiği halde mahkemece davacının taşınmazların hazineye ait olduğunu öğrendikten sonra kira sözleşmesini feshetmeyip bu durumu benimsediğinden bahisle davanın reddine karar verilmiştir.Mahkemece davacının kira dönemi içinde ödediği kira bedelleri ve ecrimisil bedelleri araştırılarak,ödenen kira bedelinden ecrimisil bedelinin mahsubu ile borçlu olacağı kısmın belirlenmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi usul ve
 yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 8. HD 2008/1405 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16607800)
+
 Dosya içeriğine göre bu yer 1984 yılında Kızılırmak metrukatı niteliğiyle tespit dfşı bırakılmıştır. Tespit dışı bırakılan bir yerin paftasında gösterildiği tarihten dava tarihine kadar koşullarına uygun olarak tasarruf edilmiş olması kazanmayı sağlar. Yerel bilirkişi, tanık sözleri ve uzman bilirkişi raporlarına göre, davacının dava konusu yeri dava tarihine kadar 20 yıldan fazla süre ile koşullarına uygun olarak tasarruf ettiği belirlenmiştir. Hazine vekili, davacının 1998 ve 1999 yılları için Hazine'ye işgal tazminatı ödediğini savunmuştur. Kazanma koşulları oluşmadan önce Hazine'ye işgal tazminatının ödenmesi işleyen zilyetliği keser. İşgal tazminatının ödenmesi halinde bu yer üzerinde sürdürülen zilyetlik malik sıfatıyla geçmiş de sayılmaz. Diğer kazanma koşulları yanında zilyetliğin malik sıfatıyla geçmesi de kazanma bakımından bir unsurdur. Görülmekte olan davada Hazine vekilinin savunmasında ileri sürmüş olduğu belgeler davacı tarafın itirazına uğramıştır. Bu belgelerin içeriğinden davacının Hazine'ye işgal tazminatı ödediği de anlaşılmamaktadır. Hazine'nin tek taraflı olarak işgal tazminatı yönünden birtakım belgeler düzenlemiş olması işleyen zilyetliği kesmez.
 Diğer yönden işgal tazminatının istenmesi TMK'nın 713/1. maddesinde yazılı davasızlık unsurunu da ortadan kaldırmaz. Tüm bu açıklamalar karşısında mahkemenin gerekçesi yerinde ve yasal görülmemiştir. Yukarıda da açıklandığı üzere, kazanma koşullarının oluştuğu sonucuna ulaşmak gerekmektedir. Ne var ki, Hazine vekilinin cevap layihasına ekli belgelerden dayanak yapıldığı anlaşılan İskilip Asliye Hukuk Mahkemesi'nin 1998/47 esas numaralı dava dosyası da getirtilip nazara alınmamıştır. Bu dosyanın getirtilmesi, aynı yer hakkında daha önce dava açılıp açılmadığının araştırılması, açılmış ise böyle bir davanın 19.01.2007 gün 1/1 sayılı YİBK uyarınca çekişme yaratıp yaratmadığının gözönünde tutulması ve tüm deliller birlikte değerlendirildikten sonra sonucuna göre bir karar verilmesi gerekir.
 
 ## Yargıtay 20. HD 2007/14153 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/899272600)
+
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye ve çekişmeli 102 ada 1 parselin kısmen orman sayılan yerlerden olduğu, bu parselin kalan bölümü ile 103 ada 2 nolu parselin Hazinenin dayandığı Ağustos 1941 tarih 259 nolu tapunun kapsamında kaldığı, dosyadaki ecrimisil tutanakları ile özellikle 1. Asliye Hukuk Mahkemesinin 2006/295 E. sayılı dosyası içerisinde bulunan 02.09.1964, 19.10.1981 tarihli tutanaklarında Fenk obasında bulunan Karaçalılık mevkiindeki 41355 m2 yüzölçümlü Doğusu; ... ve ..., Batısı;
 Zeytinsuyu, Kuzeyi; kat ve Güneyi; ... olan (bu sınırla Hazinenin dayandığı tapu kaydının sınırıdır.) taşınmaza ecrimisil ödemesini kabul ettikleri, konusunda ... ..., , ..., ..., ..., ... , ... ..., ... ..., ... ..., ... , ... ... isimli kişilerin köy muhtarı ve milli emlak memuru huzuru ile düzenlenen tutanaklarda kabul ettikleri ve daha sonraki yıllarda da bu yerleri kullanmalarından dolayı davalılar ve mirasbırakanlarının ecrimisil ödediklerine dair tahsilat fişleri ve makbuzları bulunduğu tapulu yerlerin zilyetlikle kazanılamayacağı bir yana, davalı kişilerin zilyetliklerin ... sıfatı ile olmadığı belirlenerek Hazine ve Orman Yönetiminin davasının kabulüne karar verilmesinde bir isabetsizlik bulunmadığına göre, tarafların yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve yasaya uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının gerçek kişilere ve Orman Yönetimine ayrı ayrı yükletilmesine, Hazineden harç alınmasına yer olmadığına 12/11/2007 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 14. HD 2006/10197 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854822200)
 
 Dava, tahsis şerhine dayalı olarak açılan tapulu taşınmaza elatmanın önlenmesi, kal ve ecrimisil isteğine ilişkindir.
 
@@ -67,6 +79,8 @@ Dava konusu yapılan alanın ...Mahallesinde bulunan ...m² olarak alanın büy�
 5-3621 Sayılı Kıyı Kanununun 7. maddesi "Kamu yararının gerektirdiği hallerde, uygulama imar planı kararı ile deniz, göl ve akarsularda ekolojik özellikler dikkate alınarak doldurma ve kurutma suretiyle arazi elde edilebilir. ...Bu araziler Devletin hüküm ve tasarrufu altındadır, özel mülkiyet konusu olamaz." hükmünü içermektedir. 5393 Belediye Kanunu 79/2.maddesinde "...belediye tarafından deniz, akarsu ve gölden doldurma suretiyle kazanılan alanlar Kıyı Kanunu ve ilgili mevzuata uygun olarak kullanılmak şartıyla Maliye Bakanlığı tarafından belediyelerin, büyükşehirlerde, Büyükşehir Belediyelerin tasarrufuna bırakılır..." hükmü bulunmaktadır. Anılan mevzuat hükmü karşısında denizden doldurularak kazanılan golf sahasının kiraya verildiği, 15/11/2019 tarihi ile davalıya tahsis yapılan 28/11/2022 tarihleri arasında mülkiyet hakkının Hazineye ait olduğu ve tahsis kararının olmadığı bu dönemde kiraya verilmek suretiyle gelir getirecek şekilde 3.kişilere kullandırılması sebebiyle Hazinenin ecrimisil talebinde bulunabileceği kanaatine varılmıştır.
 
 ## İstanbul BAM 45. HD 2024/381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1014814300)
 
 Dava kooperatif genel kurul kararının iptali istemine ilişkindir.
 

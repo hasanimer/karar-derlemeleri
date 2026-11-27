@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/693 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200912600)
+
 Davacı vekili dava dilekçesinde; müvekkilinin 634 sayılı Kat Mülkiyeti Kanunu’na (634 sayılı Kanun) göre yetkilendirilen site yönetimi olduğunu, davalının siteye ait ortak kullanım alanını haksız işgal ettiğini, işgalin Kadıköy 5. Sulh Hukuk Mahkemesinin 2011/129 D.İş dosyasında keşfen saptandığını, sözlü ve yazılı uyarılara rağmen işgalin devam ettiğini, davalının siteye ait ortak alanda ticari faaliyet yürüttüğünü ileri sürerek el atmanın önlenmesini ve şimdilik 10.000,00 TL ecrimisilin işgal tarihinden itibaren işleyecek yasal faiziyle birlikte tahsilini istemiştir.
 
 …
@@ -41,6 +43,8 @@ Kat maliklerinden birinin yahut onun katından kira akdine, oturma hakkına veya
 
 ## Yargıtay 8. HD 2021/96 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634253100)
+
 Davalılar vekili; davanın reddini savunmuştur.
 
 Mahkemece elatmanın önlenmesi istemli davada Asliye Hukuk Mahkemesinin görevli olduğundan bahisle davanın görev yönünden reddine karar verilmiş olup; hüküm, davalılar vekili tarafından temyiz edilmiştir.
@@ -52,6 +56,8 @@ Tüm dosya kapsamı incelendiğinde; davacının taleplerinin ortak alan olan ba
 SONUÇ: Davalı vekilinin temyiz itirazlarının kabulüyle hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/8140 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648074200)
 
 Davacılar vekili, tarafların ana gayrimenkulde bağımsız bölüm malikleri olup davalının, mimari projede ortak alan görünen yerleri kat maliklerinin rızasını almadan kullandığını, bu hususta davacılar tarafından açılan müdahalenin meni ve eski hale getirme talepli dava sonunda ... 4.Sulh Hukuk Mahkemesinin 2013/263 E., 2014/368 K. sayılı kararı ile davalının müdahalesinin meni ve eski hale getirmeye karar verildiğini, davalı tarafın anılan haksız kullanım sebebiyle kat maliklerine herhangi bir bedel ödemediğini açıklayarak, fazlaya ilişkin hakları saklı kalmak kaydıyla 16.10.2010-25.05.2015 tarihleri arasına ilişkin toplam 15.000,00 TL ecrimisil bedelinin yasal faizi ile birlikte davalıdan alınarak arsa payları oranında davacılara ödenmesine karar verilmesini talep etmiştir.
 
@@ -70,6 +76,8 @@ Eldeki davada, 634 sayılı Kat Mülkiyeti Kanunu'na tabi taşınmazın ortak al
 SONUÇ: Davacılar vekilinin temyiz itirazları açıklanan nedenlerle yerinde olduğundan kabulüyle hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla ve HUMK'un 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/5283 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647013300)
 
 Davacı vekili, müvekkili firmanın ....
 
@@ -93,6 +101,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin yerinde görülen tem
 
 ## Yargıtay 20. HD 2017/10632 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388754200)
+
 Dava, davacı kayyımın yönetimine bırakılan bağımsız bölüm dairelerin bulunduğu ana taşınmaza ait ortak yere elatılması nedeniyle tazminat istemine ilişkindir.
 
 634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesinde, bu Kanunun uygulanmasından doğacak her türlü anlaşmazlığın sulh hukuk mahkemesinde çözümleneceği hükme bağlanmıştır.
@@ -103,6 +113,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacının temyiz itirazlarının kab
 
 ## Yargıtay 20. HD 2017/8829 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385041100)
+
 Mahkemece, davanın 634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesi uyarınca sulh hukuk mahkemesinde görülmesi gerektiği,davalılar aleyhine el atmanın önlenmesi ve ecrimisil istemi ile dava açılmış ise de taraflar arasındaki uyuşmazlığın kat irtifakı kurulu ana taşınmazda bulunan ortak alanın kiraya verilmesi nedeni ile talep olunan ecrimisilin tahsili, haksız el atmanın önlenmesi isteminden kaynaklandığı, sulh hukuk mahkemelerinde davanın görülmesi gerektiği gerekçesiyle görev yönünden davanın reddine karar verilmiş, hüküm davalı ... tarafından temyiz edilmiştir.
 
 …
@@ -111,11 +123,15 @@ Mahkemece, davanın 634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesi uyarınc
 
 ## Yargıtay 20. HD 2017/7507 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/369560800)
+
 Mahkemece dava konusu 5890 ada 15 parselin birinci bodrum katında bulunan mimari projede apartman ortak alanı olan hizmetli odası, sığınak ve kömürlüğün birleştirilerek 1968 tarihinde oy birliği ile alınan karar ile mesken haline getirilip kiraya verildiği görülmüş ise de 634 sayılı Kanunun 4. maddesi gereğince tadilat projesi yapılmayan yerin halen ortak alan olduğu 3194 sayılı Kanunun 13. maddeside gözetilerek davalıların müdahalelerinin önlenmesine, dava konusu yerin 30 gün içerisinde boşaltılmasına, süresinde müdahelenin önlenmemesi halinde İİK 30. maddesinin infazda nazara alınmasına karar verilmiş, hüküm davalı tarafından temyiz edilmiştir.
 
 Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, mahkemece müdahalenin menine karar verilmesinde bir isabetsizlik bulunmadığından, yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2015/13988 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/132652200)
 
 Dava, bağımsız bölüme elatmanın önlenmesi eski hale getirilmesi isteklerine ilişkindir.
 
@@ -133,6 +149,8 @@ Davalının temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan neden
 
 ## Yargıtay 20. HD 2015/9887 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136645700)
+
 Dava, itirazın iptali istemine ilişkindir.
 
 …
@@ -145,9 +163,13 @@ Somut olayda davacılar Muratlı ilçesi, 87 ada 13 parselde kayıtlı taşınma
 
 ## Yargıtay 20. HD 2015/8875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/164691500)
+
 634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesinde, bu Kanunun uygulanmasından doğacak “her türlü anlaşmazlığın” sulh hukuk mahkemesinde çözümleneceği hükme bağlanmıştır. Bu düzenleme emredici olduğu gibi, genel usul hükümlerine istisna teşkil eden özel bir kanun hükmüdür. Ecrimisil talebi yönünden davanın kabulüne karar verilebilmesi için, davalının eyleminin, Kat Mülkiyeti Kanununa göre ortak alanı haksız işgal sayılıp sayılmadığının değerlendirilmesi gerekmektedir. Bu yönüyle dava, kaynağı itibariyle, elatmanın önlenmesi davasından farklı bir hukuki niteliğe sahip değildir.
 
 ## Yargıtay 1. HD 2015/8843 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/129180700)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -167,6 +189,8 @@ Davalı M.. Market AŞ’nin bu yönlere değinen temyiz itirazları yerindedir.
 
 ## Yargıtay 20. HD 2015/8696 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/397040400)
+
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -175,11 +199,15 @@ Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 ## Yargıtay 18. HD 2014/4554 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106646200)
+
 Dosyadaki bilgi ve belgelerin özellikle tapu kaydının incelenmesinden; davacı ve davalıya ait 9 ve 10 numaralı bağımsız bölümlerin 2989 sayılı parsel üzerinde bulunmaktadır. Buna göre aynı parsel üzerinde dubleks yapılardan oluşan kat mülkiyeti kurulu sitede ortak alana müdahalenin önlenmesi kâl ve eski hale getirme istemli davalarda Kat Mülkiyeti Yasası hükümlerinin uygulanması gerekmekte olup aynı Yasa'nın Ek 1.maddesi gereğince bu davada sulh hukuk mahkemesi görevli olduğundan açılan davaya bakılarak işin esası hakkında bir karar verilmesi gerekirken, sitenin birden fazla parsel üzerinde kurulu ve toplu yapı yönetimine geçilmemiş bulunduğundan genel hükümlere göre davaya bakılmak üzere görevsizlik kararı verilmesi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/514 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79245500)
 
 Dava 256 parselde yer alan davacının kullanımındaki dairenin banyosuna davalının el atmasının önlenmesi ve 10 nolu bağımsız bölüm üstünde yer alan ortak alana elatmanın önlenmesi isteğine ilişkindir.
 
@@ -195,6 +223,8 @@ Davacının temyiz itirazları yerindedir.Kabulü ile hükmün açıklanan neden
 
 ## Yargıtay 18. HD 2012/10626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798631600)
+
 Davacı vekili dava dilekçesinde, davalıların ortak yer olan kapıcı dairesini kendi bağımsız bölümlerine dahil ederek kullandıklarından el atmalarının önlenmesi, eski hale getirme ve fazlaya ilişkin hakları saklı kalmak kaydıyla toplam 16.200,00 TL ecrimisilin şimdilik 6.200,00 TL sinin davalılardan tahsilini istemiştir. Mahkemece, davanın kısmen kabulüne ve 3.720,00 TL ecrimisilin davalılardan tahsiline karar verilmiştir.
 
 …
@@ -204,6 +234,8 @@ Davacı vekili dava dilekçesinde, davalıların ortak yer olan kapıcı dairesi
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/2043 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79100500)
 
 Davacılar, kayden paydaşı oldukları 6 parsel sayılı taşınmaza davalının yapılaşmak suretiyle müdahale ettiğini ileri sürerek elatmanın önlenmesi, yıkım ve ecrimisil isteklerinde bulunmuşlar, yargılama sırasında ecrimisil isteğinden feragat etmişlerdir.
 
@@ -225,6 +257,8 @@ Tarafların temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nede
 
 ## Yargıtay 18. HD 2012/1647 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798548100)
+
 Davacı vekili, dava dilekçesinde müvekkili ile davalının ikiz villadan oluşan bağımsız bölümlerinin arasına davacının onayı alınmadan davalı tarafından sınır duvarı inşa edildiğini ileri sürerek davalının haksız tecavüzünün önlenmesini, duvarın yıkılmasını istemiş, mahkemece davanın kabulüne, müdahalenin men'ine, duvarın kal'ine karar verilmiştir.
 
 …
@@ -235,6 +269,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2009/10256 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877985000)
+
 Davacı parsel yönetimi dava dilekçesinde; aynı parselde kat maliki olan davalının kat mülkiyeti kurulu anataşınmazın ortak yerine çelik kule yaparak müdahale ettiğini ileri sürerek ortak yere el atmanın önlenmesi, eski hale getirme, 10.000 YTL ecrimisilin faizi ile birlikte tahsilini istemiştir.
 
 Ortak yere müdahalenin önlenmesi ve eski hale getirme talebi ile ilgili olarak Kat Mülkiyeti Yasasının hükümlerinin uygulanması söz konusu olduğundan anılan Yasanın ek 1. maddesi amir hükmü karşısında Sulh Hukuk Mahkemesi görevlidir. Ecrimisil isteminin ise genel hükümlere göre ve müddeabihin miktarı itibariyle Asliye Hukuk Mahkemesinde yazılı yargılama usulü uygulanarak bakılıp sonuçlandırılması gerekir. Özel Yasa hükmüne dayanan görev konusunda HUMK’nun 7. maddesinin son fıkrası hükmü de uygulanamayacağından ecrimisil istemine yönelik dava tefrik edilip, diğer talebe ilişkin davaya Sulh Hukuk Mahkemesinde bakılmak üzere görevsizlik kararı verilmesi gerekirken Asliye Hukuk Mahkemesinde bakılarak davacının aktif husumet ehliyeti yokluğundan davanın reddine karar verilmiş olması doğru görülmemiştir.
@@ -242,6 +278,8 @@ Ortak yere müdahalenin önlenmesi ve eski hale getirme talebi ile ilgili olarak
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/8805 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847293800)
 
 Davacılar vekili, 30.07.2007 tarihli dilekçesi ile; 20 sayılı parselde zemin 1 nolu bağımsız bölümün "4. katta terası olan dükkan" cinsi ile davacılar adına kayıtlı olup davalı ve dahili davalının 4. kattaki terasa müdahalelerinin önlenmesini ve 17.03.2008 tarihli ıslah dilekçesiyle taşınmazın eski hale getirilmesini istemiştir.
 
@@ -257,6 +295,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazları
 
 ## Yargıtay 18. HD 2009/1945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875097700)
+
 Dava, kat mülkiyetli anataşınmazın ortak yerlerine el atmanın önlenmesi istemine ilişkindir.
 
 Kat mülkiyetli bir anataşınmada ortak yerlere el atılmasına ilişkin uyuşmazlıkların Kat Mülkiyeti Yasası hükümlerinin uygulanmasıyla çözümlenmesi gerekmekte olup, sözü edilen yasanın Ek 1.maddesi hükmüne göre bu tür uyuşmazlıklar, dava değerine bakılmaksızın, Sulh Hukuk Mahkemelerinin görevine girmektedir.
@@ -267,6 +307,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2008/5030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879649400)
+
 Ortak yerlere el atmanın önlenmesi ile ilgili istem yönünden uyuşmazlıkta –dava değerine bakılmaksızın- Kat Mülkiyeti Yasası hükümlerinin uygulanması gerekmekte olup, anılan Yasanın Ek 1.maddesi hükmü uyarınca davaya bakmak Sulh Hukuk Mahkemesinin görevi dahilindedir.
 
 Mahkemece bu husus dikkate alınarak davanın ayrılması (tefriki) ve yalnızca ortak yerlere el atılmasının önlenmesi istemiyle ilgili olarak görevsizlik kararı verilmesi ve dosyanın görevli Sulh Hukuk Mahkemesine gönderilmesi, işgal tazminatı istemi hakkında ise Sulh Mahkemesinin kararı beklendikten sonra bir karar verilmesi gerektiğinin düşünülmemesi doğru görülmemiştir.
@@ -274,6 +316,8 @@ Mahkemece bu husus dikkate alınarak davanın ayrılması (tefriki) ve yalnızca
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2008/3910 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879749600)
 
 Dava, davacının bağımsız bölümünün üzerinde ve yanındaki ortak yerlere davalının haksız elatmasının önlenmesi ile onaylı mimari projeye aykırı olarak yapılan değişikliklerin eski hale getirilmesi istemine ilişkindir.
 
@@ -283,6 +327,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2008/2261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876171300)
+
 Kat irtifaklı anagayrimenkulün ortak yerlerindeki projeye aykırı değişikliklerin eski haline getirilmesi istemiyle ilgili olarak, Kat Mülkiyeti Yasasının Ek 1.maddesi hükmü uyarınca görevsizlik kararı verilmesi ve dosyanın görevli Sulh Hukuk Mahkemesine gönderilmesine karar verilmesi doğrudur.
 
 …
@@ -290,6 +336,8 @@ Kat irtifaklı anagayrimenkulün ortak yerlerindeki projeye aykırı değişikli
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2007/5575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880906200)
 
 Davacı dava dilekçesinde, diğer istemi yanında kaçak çatı katının kaldırılmasını, yapının projesine uygun eski hale getirilmesine karar verilmesini de istemiştir.
 
@@ -299,6 +347,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2006/10087 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882592000)
+
 Davacı vekili dava dilekçesinde; kat irtifaklı anataşınmazın ortak yeri olan bahçeye davalının haksız müdahalesinin önlenmesini, 10.000.000.000 TL. ecrimisil tazminatı ile 20.000.000.000 TL. manevi tazminata hükmedilmesini ve ayrıca dava tarihinden müdahalenin sona ereceği tarihe kadar aylık 500.000.000 TL. kira bedelinin tahsilini istemiş mahkemece dava konusu yerin Kat Mülkiyeti Kanununun 19. maddesi kapsamındaki yerlerden olduğu gerekçesiyle görevsizlik kararı verilmiştir.
 
 Dosya içindeki bilgi ve belgelerden davacının, dava konusu anataşınmazda yönetici, davalının ise kat maliki bulunduğu anlaşılmaktadır. 634 Sayılı Kat Mülkiyeti Yasasının Ek 1. maddesine göre bu kanunun uygulanmasından doğacak her türlü anlaşmazlık Sulh Mahkemelerinde çözümlenir. Dava konusu edilen haksız işgal tazminatı ile kira alacağının 634 Sayılı Yasadan kaynaklanmadığı gözetilerek mahkemece bu iki dava tefrik edilerek ayrı esasa alınarak bu davalara bakılması diğer istemler hakkında (ortak yere elatmanın önlenmesi ve buna bağlı manevi tazminat) görevsizlik kararı verilmesi gerekirken Asliye Hukuk Mahkemesinin görev alanına giren ve yukarıda sözü edilen istemleri de içerecek şekilde görevsizlik kararı verilmesi doğru görülmemiştir.
@@ -307,6 +357,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2006/5229 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883436600)
+
 Davacı vekili dava dilekçesinde davalının dava konusu anataşınmazın çatıya çıkan merdiveninin terasa açılan bölümünde demir kapı imal ettirip kilitleyerek diğer kat maliklerinin teraslara çıkışlarının engellendiğini ve ayrıca tasdikli mimari projede gizli ahşap kiremit örtülü oturtma çatı olan çatının yerine profil demirden eternitle örtülmüş çelik çatı yapıp projeye aykırı şekilde yüksekliğini de arttırarak kendi kullanımına tahsis ettiğini ileri sürüp davalının haksız müdahalesinin önlenmesini, çatının projesine uygun eski hale getirilmesini istemiş, mahkemece davanın men'i müdahale istemi yönünden reddine, projeye aykırı olarak yapılmış bulunan çatının projesine uygun eski hale getirilmesine karar verilmiştir.
 
 634 Sayılı Kat Mülkiyeti Yasasının ek 1. maddesine göre, bu yasanın uygulanmasından doğacak her türlü anlaşmazlığın değerine bakılmaksızın Sulh Hukuk Mahkemesinde çözümlenmesi gerekir. Kat irtifaklı anataşınmazda ortak yerlere yapılan müdahale ve projeye aykırı imalatlar Kat Mülkiyeti Yasasının uygulanmasından kaynaklanmaktadır. Anılan Yasa maddesi uyarınca anlaşmazlığın Sulh Hukuk Mahkemesinde çözümlenmesi için görevsizlik kararı verilmesi gerekirken işin esasına girilerek hüküm verilmiş olması doğru görülmemiştir.
@@ -314,6 +366,8 @@ Davacı vekili dava dilekçesinde davalının dava konusu anataşınmazın çat�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2006/3740 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881099800)
 
 Davacı vekili dava dilekçesinde, tarafların kat irtifakı hakkı sahibi oldukları taşınmazın ortak yeri niteliğindeki çatı arasına, davalının elatmasının önlenmesine ve 560.000.000 TL haksız işgal tazminatının davalıdan alınmasına karar verilmesini istemiş, yargılama sırasında ecrimisile ilişkin istemini ... terk etmiştir.
 
@@ -324,6 +378,8 @@ Kat Mülkiyeti Yasasının Ek 1. maddesi hükmü uyarınca bu yasadan doğan anl
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## İstanbul BAM 17. HD 2020/602 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/576798000)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece, davacının, davayı sigortalısına halefen açmış olup görevli mahkemenin tayininde sigortalı ile davalı arasındaki ilişkinin hukuki mahiyeti nazara alındığını, dava dışı sigortalı ile davalılar arasındaki ilişkide kat mülkiyeti hukuku ve kira ilişkisinden kaynaklı hükümler uygulanacağından bu kanundan doğan uyuşmazlıklarda görevli mahkeme Sulh Hukuk Mahkemesi olup mahkemenin görevsizliğine karar verilmiştir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2010/6579 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968610800)
+
 Diğer taraftan, bilirkişiler raporlarını hazırlarken bilimsel ve somut verileri gözetip varsa taraf emsallerini, yoksa mahkemece resen tespit edilecek emsalleri inceleyip dava konusu taşınmazın getirebileceği ecrimisil miktarını belirlemeleri gerekir. Hükme esas alınan raporda bu yönde bir araştırma yapılmadığı dolayısı ile soyut ifadelere dayalı olarak ecrimisil saptandığı anlaşılmış olup, hüküm kurmaya yeterli olmayan rapora dayalı olarak karar verilmiş olması isabetli görülmemiştir.
 
 …
@@ -28,6 +30,8 @@ Diğer taraftan, bilirkişiler raporlarını hazırlarken bilimsel ve somut veri
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2010/4682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967972000)
 
 Somut olayda, tüm dosya içeriğine göre davacı taraf gelir (ürün) esasına göre ecrimisil istemiş olup, buna göre mahkemece yapılan keşif sonucunda ziraatçi bilirkişiden gelir esasına göre bilirkişi raporu alınmış; ziraatçi bilirkişi raporunda gelir (ürün) esasına göre dava edilen döneme ilişkin 5733 TL gelir elde edileceğinin bildirildiği, buna göre davacı taraf usulüne uygun ıslah talebinde bulunarak bu miktarın hüküm altına alınmasını istemiştir. Mahkemece, ıslah edilen miktar itibariyle davanın kabulüne göre karar verilmesi gerekirken, yazılı şekilde hüküm tesisi doğru değildir.
 
@@ -37,11 +41,15 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2010/4635 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966310000)
+
 Kabule göre de, bilirkişilerin kira gelirine göre ecrimisil belirlerken, emsalleri de inceleyip somut ve özel nedenleri bilimsel verilere uygun, yargıtay denetimine elverişli olacak şekilde bilgi ve belgeye dayalı olarak gösterip, ilk dönem ecrimisil miktarı taşınmazın mevcut haliyle ve serbest koşullarda emsallere göre belirlendikten sonra, takip eden yıllar için belirlenen bu miktarlara (TEFE-ÜFE) artış oranının tamamı yansıtılmak suretiyle bulunacak miktarlar baz alınarak sonuç ecrimisil tespiti gerekirken, soyut bir takım gerekçelere dayalı, Yargıtay denetimine elverişli olmayan ve endeks uygulamasının üzerinde artışla belirlenen ecrimisil hesaplayan bilirkişiler raporunun hükme esas alınması isabetli görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2010/4139 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966989600)
 
 Mahkemece, 14.04.2008 havele tarihli bilirkişi raporu doğrultusunda istemin kabulüne karar verilmiştir.
 
@@ -55,6 +63,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2010/500 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84010000)
+
 Davalı belediye vekili; öncelikle husumet yönünden reddini, müvekkili belediye tarafından pazar alanı olarak kullanılmadığını, şuyulandırma sonrası davacının hissesinin 22 parsele taşındığını, 2003-2005 yılları arasında parselin kısıtlı olmadığını, istenen ecrimisil miktarının fahiş olduğunu belirterek davanın esastan reddine karar verilmesini istemiştir.
 
 Mahkemece, 20.514,66-TL için davanın kısmen kabulüne karar verilmiş, hüküm davalı vekili tarafından temyiz edilmiştir.
@@ -66,6 +76,8 @@ Kabule göre ise; ecrimisil istenen dönemde davalının pazar yeri olarak düze
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## İstanbul BAM 43. HD 2025/1399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182905500)
 
 Davalı vekili cevap dilekçesinde özetle; davalı vekili cevap dilekçesinde ve özetle; taraflar arasında 07.12.2007 tarihinde bayilik sözleşmesi bağıtlandığını, 28.12.2007 tarihinden itibaren 15 yıl süre ile iNTİFA hakkı tesis edildiğini, davacı taleplerinin BK.
 
@@ -86,6 +98,8 @@ Mahkemece de rapor esas alınarak davacının eksik alımdan kaynaklı cezai şa
 Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 14. HD 2025/970 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160087000)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda; "... davacı şirketin İBB'nin iştiraki olduğu, davacı tarafından dava konusu olarak süre bitimi nedeniyle haksız işgale dayanılmışsa da taraflar arasında sözleşme ilişkisinin bulunduğu, süre sonunda sözleşmenin yenilenip yenilmediğinin ve tarafların alacak borç durumunun kira uyuşmazlıklarına bakmakla görevli Sulh Hukuk Mahkemesince değerlendirilmesinin gerektiği, taraflar arasında çiçek satış büfesinin kullanımı dışında ücret ödemeyi gerektirir başka bir unsurun sözleşmede yer almadığı (benzer nitelikte İstanbul Bölge Adliye Mahkemesi 37.
 

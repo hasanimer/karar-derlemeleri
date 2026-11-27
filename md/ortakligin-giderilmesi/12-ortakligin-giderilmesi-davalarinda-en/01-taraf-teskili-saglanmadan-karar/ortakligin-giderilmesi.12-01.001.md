@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2025/637 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127378600)
+
 Dava konusu 15 ada 199 parsel, 516 ada 79 parsel, 15 ada 106 parsel sayılı taşınmazlarda davacının paydaş olmadığı, dava açma sıfatı bulunmadığı gözetilmeden bu parseller hakkında ortaklığın giderilmesi kararı verilmesi doğru görülmemiştir.
 
 Dava konusu 15 ada 38 parsel, 15 ada 191 sayılı parselden ifraz olan 15 ada 448 parsel ve 15 ada 449 parsel, 15 ada 168 parsel, 15 ada 159 parsel, 888 ada 42 parselden ifraz olan 4408 ada 2 parsel, 4409 ada 2 parsel, 4411 ada 1 parsel, 205 ada 51 parsel 54 numaralı bağımsız bölüm sayılı taşınmazlarda taraf teşkili sağlanmadan, bu taşınmazların maliklerine husumet yöneltilmeden hüküm kurulması doğru görülmemiştir.
@@ -29,11 +31,15 @@ Ortaklığın giderilmesi kararı verilen 15 ada 191 parsel, 888 ada 42 parsel s
 
 ## Yargıtay 7. HD 2025/571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127370700)
+
 Somut olaya gelince; dosya içine alınan tapu kaydına göre; karar tarihi olan 29.04.2024 tarihinden beş gün önce 24.04.2024 tarihinde paydaş olan Hacer Çelik'in davaya dâhil edilmediği ve bu hâliyle 6100 sayılı Kanun'un 125. maddesi uygulanarak taraf teşkilinin sağlanmadığı anlaşılmaktadır.
 
 Hal böyle olunca; Mahkemece öncelikle güncel tapu kaydı getirtilerek, 6100 sayılı Kanun'un 125. maddesi uygulanarak taraf teşkilinin sağlanması; tapu kaydında yer alan paydaşların denetlenmesi ve davada taraf olmayan maliklerin veya ölü iseler mirasçılarının davada taraf olmaları sağlanarak usulüne uygun şekilde taraf teşkili sağlandıktan sonra işin esası hakkında infaza elverişli bir hüküm kurulması gerekirken yazılı şekilde, taraf teşkili sağlanmadan karar verilmesi doğru görülmemiş, hükmün açıklanan nedenle bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2025/85 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126706600)
 
 TMK’nin "Elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi" başlığını taşıyan “644. maddesi: “Bir mirasçı, terekeye dahil malların tamamı veya bir kısmı üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi isteminde bulunduğu takdirde sulh hâkimi, diğer mirasçılara çağrıda bulunarak belirleyeceği süre içinde varsa itirazlarını bildirmeye davet eder. Elbirliği mülkiyetinin devamını haklı kılacak bir itiraz ileri sürülmediği veya mirasçılardan biri belirlenen süre içinde paylaşma davası açmadığı takdirde, istem konusu mal üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verilir. Terekeye dahil diğer hakların ve alacakların paylar oranında bölünmesi hususunda da yukarıdaki hükümler uygulanır.” düzenlemesini; 703. maddesi ise: “Elbirliği mülkiyeti, malın devri, topluluğun dağılması veya paylı mülkiyete geçilmesiyle sona erer. Paylaştırma, aksine bir hüküm bulunmadıkça, paylı mülkiyet hükümlerine göre yapılır.” düzenlemesini ihtiva etmektedir.
 
@@ -41,11 +47,15 @@ Mahkemece yapılan araştırma ve incelemenin hüküm tesis etmeye elverişli ol
 
 ## Yargıtay 7. HD 2024/2517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052102400)
+
 …
 
 ...Satış suretiyle ortaklığının giderilmesine karar verilen taşınmazlarda iştirak halinde hissesi olan davalı ..., 15.09.2015 tarihinde vefat etmesine karşın, mirasçıları davada taraf kılınmadığı, davalı ...’in mirasçılık belgesi temin edilerek tespit edilecek mirasçılarının davaya katılımı sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken yazılı şekilde eksik taraf teşkili ile hüküm kurulması doğru görülmediği..." gerekçeleriyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/1873 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022524600)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -55,9 +65,13 @@ Bunun yanı sıra davalı paydaş ... 05.08.2016 tarihinde, yargılama devam ede
 
 ## Yargıtay 7. HD 2023/4534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960991900)
+
 Dairemizin 04.11.2021 tarihli ve 2021/786 Esas, 2021/2698 Karar ... ilamı ile "... yargılama devam ederken dava konusu 21711 ada 2 parsel ... taşınmazın hissedarı ... ...’ın 20.07.2007 tarihinde öldüğü, 30.03.2010 tarihinde verilen kararın, ölü ... ...’a Tebligat Kanunu'nun 21/1 inci maddesine göre tebliğ edildiği ve kesinleştirilmesinin yapıldığı, ancak maddi hukuk yönünden kesinleşmiş bir karar bulunmadığı ve dava konusu 21711 ada 2 parsel ... taşınmazın hissedarı ... ... mirasçılarının davada taraf olarak yer almadığı anlaşılmaktadır. Mahkemece, dava konusu taşınmazın güncel tapu kaydı Tapu Müdürlüğünden getirtilerek taşınmazın hissedarı ... ...’ın davada taraf olarak yer almayan mirasçılarının davaya dahil edilmesi ve taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmaksızın ve 6100 ... HMK'nın 27 nci maddesi uyarınca hukuki dinlenme ... ihlal edilmek suretiyle yazılı şekilde hüküm kurulması doğru görülmemiştir" şeklindeki gerekçe ile hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/3439 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/930343000)
 
 Taraf teşkili, kamu düzenine ilişkindir ve yargılamanın her aşamasında re’sen göz önünde bulundurulması gerekir. Savunma hakkı, Anayasanın 36 ncı maddesi ile güvence altına alınmış olup 6100 sayılı HMK’nın 27 nci maddesinde de “Hukuki dinlenilme hakkı” başlığı altında ayrıca düzenlenmiştir. Hakim, tarafları dinlemeden veya iddia ve savunmalarını bildirmeleri için kanuna uygun biçimde davet etmeden hükmünü veremez. Buna göre hakim iddia ve savunma haklarını kullanabilmeleri için tarafları duruşmaya çağırmak zorundadır. Bu nedenle davalılardan ...'ın davaya usulüne uygun olarak dahil edilmesi sağlanmadan İlk Derece Mahkemesince karar verilmesi doğru görülmemiştir. Tüm bu nedenlerle öncelikle, davada taraf olarak yer almayan ...'ın ve eldeki davaya yönelik hüküm verildikten sonra 13.04.2021 tarihinde paydaş olan Ulaş Utku Bozdoğan'ın davaya usulüne uygun bir şekilde katılımının sağlanması gerekmektedir.
 
@@ -65,11 +79,15 @@ Taraf teşkili, kamu düzenine ilişkindir ve yargılamanın her aşamasında re
 
 ## Yargıtay 7. HD 2023/2079 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/901406900)
+
 Dosyanın incelenmesinde İlk Derece Mahkemesince bozma ilamına uyulduğu halde, bozma ilamının gereklerinin yerine getirilmediği; dava konusu 143 ada 1 parsel (eski 801 parsel) sayılı taşınmazın tapu kaydına göre davalı ...'in murisi ...'in taşınmazda 3/16 payının bulunduğu, bozma ilamında belirtilmiş olmasına rağmen kayıt maliklerinden ...,... ve ...... ile intikal işlemi ile elbirliği halinde taşınmaza paydaş olan bir kısım mirasçıların davaya dahil edilmeden hüküm kurulduğu anlaşılmıştır. İlk Derece Mahkemesince taşınmaza ait güncel tapu kaydının ilgili tapu müdürlüğünden temin edilerek taraf teşkilinin denetlenmesi ve davada taraf olarak yer almayan tapu kayıt maliklerinin usulüne uygun şekilde davaya katılımı sağlandıktan sonra oluşacak sonuca göre işin esası hakkında bir karar verilmesi gerekirken, anılan taşınmaz yönünden taraf teşkili sağlanmaksızın, yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 Bozma ilamında da belirtildiği şekilde, dava konusu 115 ada 9 parsel (eski 228 parsel) sayılı taşınmazda davalı borçlu payının paylı mülkiyet halinde bulunduğu, dava niteliğinin İİK'nun 121 inci maddesi uyarınca yetki belgesine istinaden açılan ortaklığın giderilmesi istemine yönelik olduğu hususu dikkate alındığında, bu taşınmaz yönünden hukuki yarar yokluğu nedeniyle davanın reddine karar verilmesi gerekirken, yazılı şekilde davanın kabulüne karar verilmesi de doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2023/1142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897650400)
 
 Dava, muhdesat aidiyetinin tespiti istemine ilişkin olup, uyuşmazlık; davacı konumundaki alacaklının, davalı borçlu adına muhdesat aidiyetinin tespiti davası açmakta hukuki yararı bulunup bulunmadığı noktasında toplanmaktadır.
 
@@ -83,9 +101,13 @@ Ayrıca, aidiyetin tespiti hükmü kurulurken muhdesatın davalı ... tarafında
 
 ## Yargıtay 7. HD 2023/706 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897290400)
+
 Bağımsız bölümleri kullanan davalıların kullandıkları bağımsız bölümlere ilave masraflar yaptıkları anlaşılmaktadır. Bu sebeple, bağımsız bölümlerin ve zeminin değerinin tek tek belirlenip ayrı ayrı oranlanıp yüzde itibarıyla ne kadarının arza, ne kadarının muhdesata isabet ettiğinin belirlenip, satış bedelinin dağıtımında bulunan bu yüzde oranlar gözönünde tutularak muhdesata isabet eden kısmın sadece muhdesat sahibine veya payları oranında sahiplerine, arza isabet eden kısmın da yine payları oranında tüm paydaşlara veren ek rapor alınmadan eksik incelemeyle hüküm tesisi doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2022/6417 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837947700)
 
 Dava iki adet taşınmazda ortaklığın satış sureti ile giderilmesi isteğine ilişkindir.
 
@@ -95,6 +117,8 @@ Bu durumda mahkemece, mahallinde uzman bilirkişiler eşliğinde yeniden keşif 
 
 ## Yargıtay 7. HD 2022/6061 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837960900)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -102,6 +126,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 Bu durumda mahkemece, mahallinde uzman bilirkişiler eşliğinde yeniden keşif yapılarak, dava konusu taşınmaz üzerinde bulunan muhdesatın ve sahiplerinin ayrı ayrı ve açık bir şekilde belirlenmesi; muhdesatın aidiyeti hususunda paydaşlar arasında uyuşmazlık bulunması halinde, muhdesat sahibi paydaşa bu iddiası hakkında dava açmak üzere süre verilmesi ve dava açıldığı takdirde sonucunun beklenmesi; açılacak davanın niteliği ve sonucuna göre de gerekirse bilirkişiden ek rapor alınarak, dava konusu taşınmazın tespit edilen toplam değerinin ne kadarının arza ne kadarının muhdesata isabet ettiğinin yüzdelik oran kurulmak suretiyle belirlendikten sonra muhdesata isabet eden kısmın muhdesat sahibi paydaşa, geri kalan bedelin ise tapu kaydı ve mirasçılık belgelerindeki payları oranında tüm paydaşlara dağıtılması gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiş; bu nedenle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2022/2145 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/752024200)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -113,11 +139,15 @@ Taraf teşkili sağlanmadan eksik inceleme ile yazılı şekilde hüküm kurulma
 
 ## Yargıtay 1. HD 2022/2142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791483300)
+
 3.3.4. Öte yandan, temsil kayyımı belirli ve ivedi işlerde bir kimsenin kişisel ve malvarlığı ile ilgili hususlarda temsili için atanırken; yönetim kayyımı uzun süreden beri haber alınamayan, sağ olup olmadığı veya nerede olduğu bilinemeyen kimselerin malvarlıklarının yönetimi için atanır. Bu anlamda, temsil kayyımlığında kişinin temsili esas alınırken, yönetim kayyımlığında malvarlığının yönetimi esas alınmaktadır. Nitekim,Türk Medeni Kanunu'nun 588. maddesinde de, belirli malvarlığının yönetiminden bahsedildiğine göre, belirtilen kayyımın yönetim kayyımı olduğu anlaşılmaktadır.
 
 3.3.5. Somut olayda ise, İstanbul Defterdarının ortaklığın giderilmesi davasında kimliği tespit edilemeyip, adresi bulunamayan paydaşları temsil etmek üzere kayyım olarak atandığı anlaşılmaktadır. Türk Medeni Kanunu'nun 477/1. maddesinde temsil kayyımlığının, kayyımın yapmakla görevlendirildiği işin bitmesiyle sona ereceği düzenlenmiştir. Bu durumda öncelikle dava konusu 10 ada 2 parsel sayılı taşınmazın 760/2560 pay sahibi olan kişilere yönetim kayyımı atanıp atanmadığının araştırılması, yönetim kayyımı olması ve halen sağ olması halinde kendisine usulünce tebligat yapılarak taraf teşkilinin sağlanması, mümkün olmaz ise, davalının usulünce temsili açısından temsil kayyımı atanmasının sağlanması suretiyle atanan kayyımın huzuruyla yargılamaya devam edilmesi gerekirken, bu işlemler yapılmadan ortaklığın giderilmesi davası için temsil kayyımı olarak atanan İstanbul Defterdarlığı davalı gösterilerek yargılamanın sonuçlandırılması doğru olmamıştır.
 
 ## Yargıtay 7. HD 2021/3107 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/714485300)
 
 Dava, İcra ve İflas Kanununun 121’inci maddesine dayalı ortaklığın giderilmesi istemine ilişkindir.
 
@@ -126,6 +156,8 @@ Dava, İcra ve İflas Kanununun 121’inci maddesine dayalı ortaklığın gider
 Bu durumda mahkemece; ...’ın mirasçılık belgesi ilgilisinden temin edilerek tüm mirasçılarının ve 428 ada 103 parsel sayılı taşınmaz paydaşı ...’nun davada taraf olarak yer almalarının sağlanması, taraf teşkili sağlandıktan sonra işin esası hakkında karar verilmesi gerekirken taraf teşkili sağlanmaksızın yazılı şekilde hüküm kurulması doğru görülmemiş, hükmün bu nedenlerle bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2021/2165 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704362100)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -136,6 +168,8 @@ Somut olaya gelince; dava konusu taşınmazda paydaş olan Bahriye Kabacı ve Sa
 Kabule göre de; dava konusu taşınmazın tapu kaydında muhtesat şerhi bulunduğu ve davalı ...’in bu şerh uyarınca muhtesat iddiasında bulunduğu anlaşıldığından taşınmazın toplam bedeli üzerinden, bedelin ne kadarının arza ne kadarının muhdesata isabet ettiği yüzdelik oran kurulmak suretiyle gösterilip bu oranlar doğrultusunda muhdesata isabet eden kısım muhdesat sahibi paydaşa, geri kalan bedelin ise payları oranında paydaşlara dağıtılmasına karar verilmesi gerekirken, mahkemece şerh dikkate alınmadan satış bedelinin tapudaki payları oranında taraflara dağıtılmasına karar verilmesi de doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2021/1250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/695523100)
 
 Dava, satış suretiyle ortaklığın giderilmesine dair verilen hükmün yargılamanın iadesi yolu ile yenilenmesi istemine ilişkindir.
 
@@ -149,6 +183,8 @@ Mahkemece ... Sulh Hukuk Mahkemesinin... Esas sayılı dosyası ile tespit edile
 
 ## Yargıtay 14. HD 2021/582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634197400)
+
 Dava, satış suretiyle ortaklığın giderilmesine dair verilen hükmün yargılamanın iadesi yolu ile yenilenmesi istemine ilişkindir.
 
 …
@@ -161,6 +197,8 @@ Mahkemece tapu kayıt maliki Hüseyin oğlu ...'e usulüne uygun dava dilekçesi
 
 ## Yargıtay 14. HD 2021/417 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645895000)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -169,9 +207,13 @@ Bu durumda mahkemece, muhdesatın aidiyetinin tespitine ilişkin kesinleşmiş m
 
 ## Yargıtay 14. HD 2020/8260 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631600600)
+
 Dava konusu 5 parsel sayılı taşınmazın tapu kayıt maliklerinden ... davada yer almamıştır. Mahkemece, 5 parsel sayılı taşınmazda adı geçen paydaşlar sağ ise kendilerinin, ölü iseler mirasçılık belgelerinin temini ile mirasçılarının davaya dahil edilerek taraf teşkilinin sağlanması gerekirken, taraf teşkili sağlanmadan 5 parsel sayılı taşınmaz yönünden davanın esasının karara bağlanması doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2020/4191 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588618100)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -181,6 +223,8 @@ Somut olayda; dava, ortaklığın giderilmesi davasıdır. Davanın açıklanan 
 
 ## Yargıtay 8. HD 2020/3979 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596077800)
+
 Dava, muhdesatın tespiti istemine ilişkindir.
 
 …
@@ -189,6 +233,8 @@ Yukarıda açıklandığı üzere dava açılırken taraf teşkili sağlanıp sa
 
 ## Yargıtay 14. HD 2020/2514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/587832800)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -196,6 +242,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 Tüm bu açıklamalar ışığında, dava konusu taşınmazlarda tapu kayıt maliki haline gelen Mehmet Ercan'a usulüne uygun husumet yöneltilmemiş olup, adı geçen hissedar davada taraf olarak yer almadığından, sağ ise kendisinin, ölü ise mirasçılık belgesi temin edilerek mirasçılarının davaya dahil edilerek, taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken, taraf teşkili sağlanmaksızın ve 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 27. maddesi uyarınca hukuki dinlenme hakkı ihlal edilerek yazılı şekilde hüküm kurulması doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir..
 
 ## Yargıtay 14. HD 2020/1300 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/586362600)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -207,11 +255,15 @@ Yukarıdaki ilkeler ışığında somut olaya gelince; ortaklığın giderilmesi
 
 ## Yargıtay 14. HD 2019/8881 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605143200)
+
 Kabule göre de, dava konusu taşınmazlarda ...’nın elbirliği mülkiyetine konu payı 10.10.2018 tarihli işlem ile paylı mülkiyete dönüştürüldüğünden borçlu dava konusu taşınmazda paylı malik durumundadır. Yukarıda bahsedilen yasal değişiklikle alacaklı tarafından borçlunun haczedilen payının doğrudan icra yolu ile satışı mümkün hale geldiğinden davacının İcra ve İflas Kanununun 121. maddesi gereğince yetki alarak dava konusu taşınmaz yönünden ortaklığın giderilmesi davası açmasında hukuki yararı da kalmamıştır.
 
 Anılan hissedarların usulüne uygun şekilde davaya taraf olarak katılımı sağlanmadan işin esasına girilerek karar verilmesi doğru görülmemiş hükmün bu nedenlerle bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2019/8843 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599843900)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -223,6 +275,8 @@ Kabule göre de; taşınmaz hissedarlarından muris ...’a ait mirasçılık be
 
 ## Yargıtay 14. HD 2019/8113 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612415400)
+
 Paydaşlığın giderilmesi davasını paydaşlardan biri veya birkaçı diğer paydaşlara karşı açar. 6100 sayılı Hukuk Muhakemeleri Kanununun 27. maddesi uyarınca davada bütün paydaşların yer alması zorunludur.
 
 Paydaşlardan veya ortaklardan birinin ölümü halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir. Taraf teşkili kamu düzenine ilişkin olup re’sen yargılamanın her aşamasında göz önünde bulundurulması gerekmektedir.
@@ -230,6 +284,8 @@ Paydaşlardan veya ortaklardan birinin ölümü halinde alınacak mirasçılık 
 Yukarıdaki ilkeler ışığında somut olaya gelince; ortaklığın giderilmesi istenen 33034 ada 12 sayılı parselde bulunan taşınmazın tapu kaydında pay sahibi olan davalılardan ..., ..., ..., ..., ...'a dava dilekçesini içerir tebligat evrakının usulüne uygun şekilde tebliğ edilmediği, bu davalıların duruşmalara katılıp davacının iddialarına karşı beyanda bulunmadıklarının anlaşılmasıyla mahkemece, taraf teşkili sağlanmadan davalılardan ..., ..., ..., ..., ...'un hukuki dinlenilme hakları ihlal edilerek yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2019/6877 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542998100)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -241,6 +297,8 @@ Kabule göre de; Harçlar Kanunu'nun 13/j maddesi gereğince Hazine harçtan mua
 
 ## Yargıtay 14. HD 2019/6152 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541001400)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -248,6 +306,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 Bu durumda mahkemece; davacının payını devrettiği şahıs tespit edilerek HMK'nun 125. maddesi gereğince dava dilekçesi tebliğ edilip davada taraf olarak yer almasının sağlanması, sonradan pay satın alan paydaşların davaya dahil edilmesi, taraf teşkili sağlandıktan sonra işin esası hakkında karar verilmesi gerekirken taraf teşkili sağlanmaksızın yazılı şekilde hüküm kurulması doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2019/4972 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523178200)
 
 Dava, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi isteğine ilişkindir.
 
@@ -257,11 +317,15 @@ Somut olaya gelince, davalılara TMK’nin 644. maddesi gereğince meşruhatlı 
 
 ## Yargıtay 8. HD 2019/4771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646563200)
+
 Bilindiği üzere, bir davanın görülebilmesi için öncelikle davada taraf teşkilinin sağlanması gereklidir. 26.05.2004 tarihli ve 5177 sayılı Kanun'un 35. maddesi ile 2942 sayılı Kamulaştırma Kanunu'nun 19. maddesine eklenen ek fıkra hükmünde "başkası adına tapulu, sahipsiz ve/veya zilyedi tarafından iktisap edilmemiş yerin kamulaştırmasında binaların asgarî levazım bedeli, ağaçların ise 11. madde çerçevesinde takdir olunan bedeli zilyedine ödenir" denilmektedir. Bu hükümle başkası adına tapulu veya tapusuz bir taşınmazın kamulaştırılması halinde, taşınmazda malik olmayan ancak üzerindeki muhtesatı meydana getiren kişilere muhdesatın kamulaşma bedelinin kendisine verilmesini sağlama amacıyla zilyetliğin tespiti (muhdesatın tespiti) davası açma hakkı tanınmıştır. Bu şekildeki tapusuz taşınmaz yönünden belediye başkanlığının davada taraf olarak gösterilmesi gerekmektedir. Taraf teşkili sağlanmadan işin esasına girilerek hüküm tesis edilmesi doğru görülmemiştir.
 
 Ayrıca,bir şeye malik olan kimse, o şeyin bütünleyici parçalarına da malik olur (4721 s.lı TMK mad.684/1). Arazi üzerindeki mülkiyet, kullanılmasında yarar olduğu ölçüde, üstündeki hava ve altındaki arz katmanlarını kapsar. Bu mülkiyet kapsamına, yasal sınırlamalar saklı kalmak üzere kalıcı yapılar, bitkiler ve kaynaklar da girer (TMK mad. 718). 22.12.1995 tarihli ve 1/3 sayılı Yargıtay İçtihadı Birleştirme Kararında da vurgulandığı gibi Eşya Hukukunda, muhdesattan, bir arazi üzerinde kalıcı yapı ve tesisler ile bağ ve bahçe şeklinde dikilen ağaçları anlamak gerekir. Muhdesat, şahsi bir hak olup (TMK mad. 722, 724 ve 729), sahibine arazi mülkiyetinden ayrı bağımsız bir mülkiyet veya sınırlı bir ayni hak bahşetmez. Taşınmaz üzerindeki kalıcı yapı, ağaç gibi bütünleyici parça niteliğindeki muhdesatların taşınmazın arzından ayrı bir mülkiyetinin varlığından söz edilemez. Açıklanan bu ilke ve esaslara göre, kural olarak muhdesatın arz malikinden başkasına aidiyetinin tespiti istenemez.
 
 ## Yargıtay 14. HD 2019/4287 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/517955800)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 

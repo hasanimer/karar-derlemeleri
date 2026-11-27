@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686783700)
+
 Somut olayda da, dava konusu taşınmazlar hakkında paydaşlıktan çıkarma davasının sonucunda pay ve paydaş durumu değişebileceğinden ortaklığın giderilmesi davasının sonucu da etkilenecektir. Bu nedenle, davalılar tarafından açılan paydaşlıktan çıkarma davasının HMK'nın 165/1. maddesi gereğince görülmekte olan ortaklığın giderilmesi davası için bekletici mesele yapılması gerekir.
 
 Öte yandan, her ne kadar mahkemece "mevcut duruma göre tapu kaydı ile mimari projenin çeliştiği, taraflara süre verilmiş ise de, çelişkinin giderilemediği, tapu kaydına göre satışı istenen dükkanların değerlerinin tespitinin mümkün olmadığı, bu koşullarda ortaklığın giderilmesine karar verilemeyeceği" gerekçeleriyle davanın reddine karar verilmiş ise de, dava konusu 4983 ada 6 parsel sayılı taşınmaz üzerinde bulunan binanın zemin katında tarafların paydaş olduğu 15 ve 17 numaralı dükkanlar ile dava dışı kişiler adına kayıtlı 14 ve 16 nolu dükkanlar olmak üzere toplam 4 dükkanın ayrı bağımsız bölüm olarak tescil edilmiş olduğu, dosya kapsamında 25.08.1967 onay tarihli mimarî proje bulunmakla birlikte yapılan keşif sonucu alınan bilirkişi raporunda "mimari proje üzerinde 08.11.1968 tarihli tadilat"tan söz edildiği, bu hususun Çankaya Belediye Başkanlığı İmar ve Şehircilik Müdürlüğünden sorulması üzerine 12.03.2013 havale tarihli cevabi yazısı ile "dava konusu binaya ait 25.08.1967 onay tarihli mimari projesine 16.09.1967 tarihli ve 614 sayı ile yapı izin belgesi, 11.11.1968 tarihli ve 68/46-827 sayılı yapı kullanma izin belgesi alındığı, herhangi bir tadilat/tashihat başvurusunun ve
@@ -36,11 +38,15 @@ Ancak, bilindiği üzere yargı harcı kamu düzenine ilişkindir. Muhdesatın t
 
 ## Yargıtay 7. HD 2025/5482 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197109100)
+
 Paydaşlığın (ortaklığın) satış yoluyla giderilmesi hâlinde dava konusu taşınmaz üzerinde bina, ağaç vs. gibi bütünleyici parçalar (muhdesat) varsa bunların arzla birlikte satılması gerekir. Ancak muhdesatın bir kısım paydaşlara (ortaklara) ait olduğu konusunda tapuda şerh varsa veya bu hususta bütün paydaşlar ittifak ediyorlarsa ve muhdesat arzın değerinde bir artış meydana getiriyorsa bu artışın belirlenmesi için dava tarihi itibariyle arzın ve muhdesatın değerleri ayrı ayrı tespit edilir. Belirlenen bu değerler toplanarak taşınmazın tüm değeri bulunur. Bulunan bu değerin ne kadarının arza ne kadarının muhdesata isabet ettiği yüzdelik (%...) oran kurulmak suretiyle belirlenir. Satış sonunda elde edilecek bedelin bölüştürülmesi de bu oranlar esas alınarak yapılır. Muhdesata isabet eden kısım muhdesat sahibi paydaşa, geri kalan bedel ise payları oranında paydaşlara (ortaklara) dağıtılır. Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil de üçüncü şahsa ait olduğunun anlaşılması hâlinde bu kimseyi muhdesat sahibi olarak davaya dâhil etmek ve ona satış bedelinden pay vermek mümkün değildir.
 
 Somut olaya gelince; dâhili davalı ...'nın muhdesat iddiasına ilişkin değerlendirme yapılması ve dava tarihi itibariyle arzın ve muhdesatın değerlerinin ayrı ayrı tespit edilip belirlenen bu değerler toplanarak taşınmazın tüm değeri bulunduktan sonra bulunan bu değerin ne kadarının arza ne kadarının muhdesata isabet ettiği yüzdelik oran kurulmak suretiyle tespit edilip hüküm kurulması gerekirken yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2023/5238 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986282500)
 
 Yargıtay 8. Hukuk Dairesince;
 
@@ -54,12 +60,16 @@ gerekçesiyle karar bozulmuştur.
 
 ## Yargıtay 5. HD 2019/14665 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570005800)
+
 Bilirkişi incelemesi yaptırılmıştır. Arsa niteliğindeki ... ilçesi, ... mahallesi, 365 ada 47 parsel sayılı taşınmaza emsal karşılaştırması yapılarak değer biçilmesi yöntem itibariyle doğrudur. Ancak;
 
 Kamulaştırma Kanunu'nun kıymet takdir esaslarını belirten 11.maddesinin 1.fıkrasının arsalara ilişkin (g) bendi uyarınca, arsaların bedelinin değerlendirme gününden önceki özel amacı olmayan emsal satışlara göre hesaplanması ve değerlendirme tarihine yakın satışların emsal alınması gerekir.Bilirkişi kurulu raporunda emsal alınan taşınmazın satış tarihi 03.05.2004 olup, değerlendirme tarihinden yaklaşık 11 sene öncesine ait satış işlemi olduğu gibi, ortaklığın giderilmesi davası sonucunda bir kısım hissedarlar tarafından satın alınmış olması ve dava konusu taşınmazın ... Belediye Başkanlığının 19.03.2019 gün ve 17832 sayılı yazısına göre kadastro parseli, emsal alınan taşınmazın ise ... Belediye Başkanlığının 03.01.2019 gün ve159 sayılı yazısına göre imar parseli olduğu halde düzenleme ortaklık payı düşülmeden dava konusu taşınmazın m2 birim bedelinin belirlenmesi nedeniyle bilirkişi kurulu raporu inandırıcı bulunmamıştır.
 Bu durumda; taraflara, dava konusu taşınmaza yakın bölgelerden ve yakın zaman içinde satışı yapılan benzer yüzölçümlü satışları bildirmeleri için imkan tanınması, lüzumu halinde re'sen emsal celbi yoluna gidilmesi, taşınmazın, değerlendirme tarihi itibariyle, emsal alınacak taşınmazın ise satış tarihi itibariyle imar ya da kadastro parselleri olup olmadığı ilgili Belediye Başkanlığı ve Tapu Müdürlüğünden sorulması, ayrıca dava konusu taşınmazın; imar planındaki konumu, emsallere ve değerini etkileyen merkezi yerlere olan uzaklığını da gösterir krokisi ve dava konusu taşınmaz ile emsal taşınmazların resen belirlenen vergi değerleri ve emsal taşınmazların satış akit tablosu getirtilerek, dava konusu taşınmazın değerlendirmeye esas alınacak emsallere göre ayrı ayrı üstün ve eksik yönleri ve oranları açıklanmak suretiyle yapılacak karşılaştırma sonucu değerinin belirlenmesi bakımından, yeniden oluşturulacak bilirkişi kurulu marifetiyle mahallinde keşif yapılarak alınacak rapor sonucuna göre hüküm kurulması gerektiğinin düşünülmemesi,Doğru görülmemiştir.Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428.
 
 ## Yargıtay 14. HD 2019/6113 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542790700)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -71,6 +81,8 @@ Taşınmazın hissedarlar arasında satışı suretiyle ortaklığın giderilmes
 
 ## Yargıtay 14. HD 2019/6026 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538371300)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -81,6 +93,8 @@ O halde mahkemece, bilirkişi raporunu hazırlayan aynı bilirkişilerden ek rap
 
 ## Yargıtay 8. HD 2019/79 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496018100)
+
 Dava; muhdesat tespitine ilişkindir.
 
 Dava ilk olarak; davacılar ..., ..., ..., ... ve tarafından sadece davalı ...’a karşı açılmıştır. Tapu kayıtları incelendiğinde dava konusu taşınmazda davacılardan ...’ın 148/1200 hissesi, ..., ..., ..., ...‘ın ise 87/1200'er hisseleri bulunmaktadır. Davalı ...’ın 1/3 hissesi diğer tapu malikleri olan ve sonradan davaya dahil edilen ...’ın 87/1200,...A.Ş’nin 100/1200, ...’ın 4/1200, ...’un 3/1200, ... (Akpınar)‘in ise 110/1200 hissesi bulunmaktadır. Dava dilekçesinde her ne kadar davacılarca arsa üzerindeki binanın ... haricindeki diğer paydaşların katkıları ile yapıldığının ve muhdesatın hisseleri oranında bu paydaşlara aidiyetinin tespiti talep edilmişse de, davacıların muhdesatın kendilerine ait olduğunun tespiti dışında diğer paydaşlar adına talepte bulunma yetkileri bulunmamaktadır.
@@ -90,14 +104,20 @@ Dava konusu bina ... dışındaki tüm kayıt maliklerinin katkısıyla yapılm�
 
 ## Yargıtay 3. HD 2017/13948 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/391081700)
+
 Sebepsiz zenginleşme kurallarına göre, alacak talebinde bulunabilmek için fakirleşme ve zenginleşme anının gerçekleşmesi gerekir. Sebepsiz zenginleşme, ortaklığın giderilmesi yoluyla satışın yapıldığı ve satış bedelinin ödendiği tarihte gerçekleşir. Kural olarak davacı, davalıdan taşınmaz üzerinde yaptığı muhtesat ve faydalı giderler nedeniyle taşınmazın satış bedelinde bir artış olmuş ise, bu artan değerin davalının payına isabet eden miktarını sebepsiz zenginleşme kuralları uyarınca isteyebilir.Somut olayda, davaya konu taşınmaz, üzerindeki şeftali ağaçları ile birlikte davalı ...'a satılmış, satış parası da dağıtılmıştır. Artık davacı taşınmaza yaptığı masrafları diğer paydaş olan davalı ... 'dan sebepsiz zenginleşme hükümleri doğrultusunda isteyebilir.Mahkemece hükme dayanak alınan ve jeoloji mühendisi bilirkişi tarafından hazırlanan raporda kuyu yapım işi, sondaj borusu, çakılama ve kompresör işlemi, dalgıç pompa ve elektrik ile iligili ekipmanlara keşif tarihi olan 09/05/2012 tarihi itibari ile 15.415.TL değer biçilmiştir.
 Mahkemece dava tarihi itibari ile yapılan tesisatın değeri belirlenerek bunun yarısına hükmedilmesi gerekirken keşif tarihine göre belirlenen değere hükmedilmesi isabetli bulunmamıştır.SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince davalı ...
 
 ## Yargıtay 8. HD 2017/7697 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/345549900)
+
 Hal böyle olunca mahkemece davacı tarafın dava açmakta hukuki yararının bulunduğu kabul edilerek, taraflarca gösterilen ve gösterilecek tüm delillerin toplanması, tüm deliller birlikte değerlendirilerek muhdesatın tespiti istemi ile açılan bu davanın esasına yönelik bir hüküm verilmesi gerekirken, hukuki yarar bulunmadığı gerekçesiyle açılan davanın reddine karar verilmesi doğru değildir. Hükmün bu nedenlerle bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2017/5047 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350196100)
 
 Bu hükme göre, davalılardan ..., imar uygulamasına tâbi tutulan ve dava konusu taşınmazın mütemmim cüz-ü niteliğindeki evlerini bedeli diğer paydaşlar ile belediye veya valilikçe ödenmedikçe kullanmaya devam edeceklerdir.
 
@@ -107,6 +127,8 @@ Ortaklığın giderilmesi durumunda, bina zeminin mütemmim cüz-ü olduğundan,
 
 ## Yargıtay 14. HD 2017/3574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360374200)
+
 Dava, ortaklığın giderilmesi talebine ilişkindir.
 
 …
@@ -114,6 +136,8 @@ Dava, ortaklığın giderilmesi talebine ilişkindir.
 Öte yandan, mahkemece yapılan keşif sonucu temin edilen bilirkişi raporunun hükme yeterli ve elverişli olmadığı anlaşılmaktadır. Hükme esas alınan bilirkişi raporunda, tarafların muhdesat oranı hesaplanırken sadece muhdesat değerinin, arzın ve muhdesatın toplamı olan tüm değere oranlanması gerekirken; muhdesat sahibinin arsa payı ile muhdesat bedeli toplanarak tüm değere oranlanması suretiyle muhdesat oranının belirlenmiş olması hatalıdır.
 
 ## Yargıtay 14. HD 2016/10943 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/331874900)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -123,21 +147,29 @@ Bu durumda muhdesat iddiasının yukarıda açıklandığı şekilde araştırı
 
 ## Yargıtay 8. HD 2016/3137 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/165014900)
+
 Davalılar ... ve ...'nın yargılama gideri, harç ve vekalet ücretine yönelik temyiz itirazlarına gelince; dava konusu muhdesatın üzerinde bulunduğu ... parsel sayılı taşınmaz tarafların ortak murisi ... ... adına tapuda kayıtlı olup, taraflar miras payları oranında maliktirler. Bu nedenle yargılama sonunda hükmedilecek yargılama gideri, harç ve vekâlet ücretinin davacıya isabet eden pay karşılığı değer çıkartıldıktan sonra davalı tarafın miras paylarına isabet eden muhdesat değeri (zemin bedeli hariç) üzerinden belirlenmesi gerekirken, muhdesatın toplam değeri üzerinden davalı taraf aleyhine fazla miktarda harç ve vekâlet ücretine hükmedilmesi, hükmedilen bu miktarların da davalılardan müştereken ve müteselsilen tahsiline karar verilmesi doğru olmamıştır.
 
 Hal böyle olunca, mahkemece az yukarıda açıklanan hukuksal olgular gözetilerek davanın kabulü ile anılan taşınmaz üzerindeki muhdesatın davacı tarafından meydana getirildiğinin tespitine, mülkiyet tespiti isteminin ise reddine, ayrıca davalının yargılama gideri,harç ve vekâlet ücretinden miras payları oranında sorumlu tutulmasına karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru olmamıştır. Ancak bu yanlışlıkların giderilmesi yeniden yargılamayı gerektirmediğinden hükmün 1, 3, 4 ve 5. fıkralarının HUMK'un 438/7. maddesi uyarınca düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 8. HD 2016/2253 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/164984400)
+
 Ne var ki; taraflar arasında ... ada ... parsel ile ilgili açılan ve derdest olan ortaklığın giderilmesi davasında davalılar ... ile ...'in muhdesatla ilgili bir beyanda bulunulmadıkları görülmektedir. Eldeki dosyada davalı ..., yargılama oturumlarına katılmadığına, diğer davalı ... ise delillerin toplanmasına ilişkin ara kararının yerine getirilmesinden sonra keşif aşamasında davayı kabul ettiğine göre; karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 6.maddesi gereği aleyhlerine sonuçlanan dava nedeniyle paylarına isabet eden muhdesat değeri üzerinden hesaplanacak vekalet ücretinin tamamından sorumlu tutulmaları gerekirken, yazılı şekilde bu davalılarla ilgili olarak da vekalet ücreti takdirine yer olmadığına karar verilmesi isabetsiz olmuş; hükmün bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2015/17797 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/129408000)
 
 Muhdesatın değerinin tespiti ve arsa değeri karşısındaki oranının belirlenmesi, eda davası niteliğindeki ortaklığın giderilmesi davasına bakan mahkemenin görevi kapsamında olup muhdesatın tespiti davasında görülemeyeceğinden buna ilişkin talebin bu gerekçeyle hukuki yarar yokluğundan usulden reddine karar verilmesi gerekirken yazılı gerekçeyle reddine karar verilmesi doğru değilse de, ret kararı sonucu itibariyle doğru görüldüğünden bu husus ayrıca bozma nedeni yapılmamıştır.
 
 Bir şeye malik olan kimse, o şeyin bütünleyici parçalarına da malik olur (4721 s.lı TMK 684/1 m). Arazi üzerindeki mülkiyet, kullanılmasında yarar olduğu ölçüde, üstündeki hava ve altındaki arz katmanlarını kapsar. Bu mülkiyet kapsamına, yasal sınırlamalar saklı kalmak üzere kalıcı yapılar, bitkiler ve kaynaklar da girer (TMK 718 m). 22.12.1995 tarih ve 1/3 sayılı Yargıtay İçtihadı Birleştirme Kararında da vurgulandığı gibi Eşya Hukukunda, muhdesattan, bir arazi üzerinde kalıcı yapı ve tesisler ile bağ ve bahçe şeklinde dikilen ağaçları anlamak gerekir. Muhdesat, şahsi bir hak olup (TMK 722, 724, 729 m.ler), sahibine arazi mülkiyetinden ayrı bağımsız bir mülkiyet veya sınırlı bir ayni hak bahşetmez. Taşınmaz üzerindeki kalıcı yapı, ağaç gibi bütünleyici parça niteliğindeki muhdesatların taşınmazın arzından ayrı bir mülkiyetinin varlığından söz edilemez. Açıklanan bu ilke ve esaslara göre, kural olarak muhdesatın arz malikinden başkasına aidiyetinin tespiti istenemez.
 
 ## Yargıtay 8. HD 2014/18477 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98844800)
 
 Dava; mülkiyeti davacı ve davalılar adına kayıtlı taşınmaz üzerindeki ev niteliğindeki muhdesatların aidiyetinin tespiti isteğine ilişkindir.
 
@@ -147,9 +179,13 @@ Dava; mülkiyeti davacı ve davalılar adına kayıtlı taşınmaz üzerindeki e
 
 ## Yargıtay 8. HD 2014/18472 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/312543700)
+
 Hal böyle olunca; mahkemece dava konusu taşınmazda davacının da paydaş olduğu davanın konusunun (müddeabihin) davalılar payına isabet eden muhdesat değeri olduğu dikkate alınarak, hesaplanacak bu bedel üzerinden yargılama sonunda hükmedilecek nisbi orandaki karar ve ilam harcının aleyhine hüküm verilen taraftan alınmasına, aynı şekilde HMK'nun 326/2. maddesi uyarınca yargılama giderinin davalılardan tahsiline, yine yargılama sırasında kendisini vekil ile temsil ettiren davacı taraf yararına nisbi tarife üzerinden avukatlık ücretine hükmedilmesi gerekirken, bu durum gözardı edilerek yazılı şekilde davalılar aleyhine fazla miktarda harç ve vekalet ücretine hükmedilmesi doğru olmamıştır.
 
 ## Yargıtay 8. HD 2014/17605 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98874400)
 
 Dava, muhdesatın aidiyetinin tespiti isteğine ilişkindir.
 
@@ -161,6 +197,8 @@ Diğer yandan gerek eski Medeni Kanun ve gerekse sonradan yürürlüğe giren T�
 
 ## Yargıtay 14. HD 2014/14641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105681000)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -170,6 +208,8 @@ Ortaklığın giderilmesi davasında taşınmazın aynına ilişkin karar verile
 Mahkemece keşif yapılmaksızın, dava konusu .. parsel sayılı taşınmazlar üzerindeki ortaklığın satış suretiyle giderilmesine karar verilmesi doğru görülmemiş, bu nedenle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2014/7527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105474100)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -183,6 +223,8 @@ Ayrıca, mahkemece ortaklığın giderilmesi davalarının niteliği gereği tar
 
 ## Yargıtay 6. HD 2013/14319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535168500)
+
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -195,6 +237,8 @@ Olayımıza gelince; dava konusu ... İli ... İlçesi ... ada .. nolu parsel ar
 Bu durumda mahkemece yukarıdaki esaslar dairesinde taşınmaz üzerindeki muhdesatların taşınmazın değerine ne şekilde bir etkide bulundukları, taşınmazın değerinde artış sağlayıp sağlamadıkları üzerinde durularak taşınmaz üzerindeki binalar taşınmazın değerinde artış meydana getiriyorsa, yıpranma payı da düşüldükten sonra oran kurulup belirlenen oranlar dahilinde satış parasının paylaştırılmasına karar verilmesi gerekirken eksik inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 7. HD 2013/12123 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102721600)
 
 Dava taşınmaz üzerinde bulunan muhdesatların aidiyetinin tespitine ilişkindir.
 
@@ -218,6 +262,8 @@ tarafından meydana getirildiğinin …
 sözlerinin yazılmasına, yine hüküm yerinin altı numaralı bendinden sırasıyla “4.924,00” ve “3.693,00” rakamlarının çıkarılmasına, yerlerine sırasıyla “1.846,68” ve “615,68” rakamlarının yazılmasına, hükmün düzeltilen bu şekli ile ONANMASINA, hüküm düzeltilerek onandığından harç alınmasına yer olmadığına, peşin alınan harcın istek halinde davalıya iadesine, 27.06.2013 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 7. HD 2013/9977 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100301800)
 
 Dava taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespiti istemine ilişkindir.
 
@@ -243,6 +289,8 @@ söz ve rakamlarının hüküm yerinden çıkarılmasına yerlerine 2. bende …
 
 ## Yargıtay 7. HD 2013/1727 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1114415500)
+
 Dava niteliği ve içeriği itibariyle 494 ada 11 parsel sayılı taşınmaz üzerinde bulunan muhdesatın aidiyetinin tespitine ilişkindir.
 
 …
@@ -254,6 +302,8 @@ Hal böyle olunca, mahkemece az yukarıda açıklanan hukuksal olgu gözetilerek
 sözlerinin hüküm yerinden çıkartılmasına, yerine sırasıyla "...kısmen kabulü..." ve "...tarafından meydana getirildiğinin..." sözlerinin yazılmasına, hükmün 2 numaralı bendinde yazılı bulunan “4531,39 TL” ve “3424,89 TL” ile 5 numaralı bendinde yazılı bulunan “8152,89 TL” rakamlarının çıkarılmasına, yerlerine sırasıyla “2265,70 TL”, “1159,20 TL” ve “4445,73 TL” rakamlarının yazılıp eklenmesine, hükmün düzeltilen bu şekli ile ONANMASINA, hüküm düzeltilerek onandığından harç alınmasına yer olmadığına, peşin alınan harcın istek halinde davalı tarafa iadesine, 27.02.2013 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 6. HD 2013/962 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243004000)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 

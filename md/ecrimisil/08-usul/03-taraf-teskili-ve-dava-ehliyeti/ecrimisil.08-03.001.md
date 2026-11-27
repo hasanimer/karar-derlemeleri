@@ -20,24 +20,34 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/15444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197227400)
+
 Dairemizce yapılan inceleme sonucunda; arsa niteliğindeki taşınmaza hükme esas alınan bilirkişi raporunda dava konusu taşınmaza göre yüzölçümü büyük olan taşınmazın emsal alınması doğru olmadığı gibi, emsal alınan ... 2 47... parsel sayılı taşınmazın tapu ve satış akit tablosunun incelenmesinde satışın anonim şirkete satış olup bu satışın tarafları ve taşınmazın nitelikleri dikkate alındığında ticari amaçlı bir satış olduğu, serbest satış olmadığı ve taşınmazın gerçek değerini yansıtmadığı izlenimini uyandırdığından bu emsali esas alarak değer tespit eden bilirkişi kurulu raporunun hükme esas alınması mümkün olmadığından yeniden oluşturulacak bilirkişi kurulu marifetiyle mahallinde keşif yapılarak alınacak rapor sonucuna göre hüküm kurulması gerektiğinin düşünülmemesi bozma öncesinde kararı davacının temyiz etmediği anlaşıldığından, usuli kazanılmış hak ilkesine aykırı olarak ilk kararı temyiz etmeyen davacı yönünden fazla bedele hükmedilmesi, bozma öncesindeki kararın Denizli 5.
 İcra Müdürlüğünün 2015/2066 Esas sayılı dosyasında takibe konu edildiğinden bahisle davalı ... tarafından yapılan ödemenin ve icra dosyasında ödenen vekâlet ücretinin mahsup edilmek suretiyle bozma sonrası Hazine hakkında husumet nedeniyle ret kararı verildiği gözetilmeden yazılı şekilde karar verilmesi, ecrimisil; yönünden değerlendirme gününden önceki kira sözleşmesi emsal alınıp ilk dönem ecrimisil bedeli belirlenip sonraki dönemler için ÜFE artış oranının yansıtılması gerekirken, değerlendirme gününden çok sonraki tarihli bir kira sözleşmesi esas alınıp geriye doğru endeks uygulamak suretiyle ecrimisil bedeli belirlenmesi, davalı ... hakkında açılan davanın pasif husumet yokluğu nedeniyle reddine karar verildiği hâlde, lehine maktu vekâlet ücretine hükmedilmesi gerektiği düşünülmeden yazılı şekilde karar verilmesi doğru olmadığından karar bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/12233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176657500)
 
 Önleme Bölgesi alanında kaldığı anlaşıldığından TOKİ Başkanlığı tarafından kamulaştırma çalışmaları yapıldığı, dava aşamasında ise verilen yetkiye dayalı olarak imar uygulamasının yapıldığı ve hukuki sınırlandırmanın kaldırıldığı, davacıya başka bir parsel tahsis edildiği, dava konusuz kaldığı ve böylece davanın açılmasına davalı TOKİ Başkanlığının sebebiyet verdiği anlaşıldığından, yargılama giderlerinden bu davalının sorumlu olduğunun kabulü doğru olduğu gibi; taşınmaza yalnızca hukuken el atıldığından maktu vekâlet ücretine hükmedilmesinin usul ve kanuna uygun olduğunu; ancak davacı vekili Avukat ... hükümden sonra vermiş olduğu dilekçesiyle davalı TOKİ Başkanlığı yönünden davadan feragat ettiğini beyan etmiş, davacı vekilinin vekâletnamesinde davadan feragat yetkisi olduğu görüldüğünden, davacının feragati uyarınca davanın reddi gerektiği gibi diğer davalılar ... ve ... hakkında açılan davalar yönünden pasif husumet yokluğu nedeniyle davanın usulden reddine karar verilmesi gerekirken bu hususta bir karar verilmemiş olması doğru görülmediği gerekçesiyle ecrimisil bedeline ilişkin hükme yönelik davacı ve davalı ...
 Belediyesinin istinaf talebinin verilen hüküm itibarıyla kesin olduğundan usulden reddine, tazminat talebi yönünden davacı vekilinin istinaf başvurusunun esastan reddine, davalı ... ve davalı ... vekillerinin istinaf başvurusunun kabulü ile İlk Derece Mahkemesi kararı kaldırılarak düzeltilerek yeniden esas hakkında hüküm kurulmak suretiyle ecrimisil talebinin kabulüne tazminat talebinin ise TOKİ Başkanlığı yönünden feragat nedeniyle reddine, diğer davalılar ... ve ... yönünden pasif husumet yokluğu nedeniyle reddine karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/8964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171462300)
+
 Dairemizce yapılan inceleme sonucunda; Mahkemece verilen ilk kararda davalılardan ... Genel Müdürlüğü aleyhine açılan davanın husumetten reddine, ... hakkında açılan davanın ise kabulüne karar verildiği ve bu husus bozmaya konu edilmediği hâlde, davalılardan ... Genel Müdürlüğü lehine oluşan usuli kazanılmış hak ilkesi ihlal edilerek, ecrimisil talebine ilişkin birleştirilen davalarda hükmedilen bedellerin davalılardan ... Genel Müdürlüğünden tahsiline karar verilmesi hatalı olduğundan ve ecrimisil bedeline her dönem sonu itibarıyla ayrı ayrı faiz yürütülmesi gerekirken, yazılı şekilde hüküm kurulması doğru olmadığından hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2024/4980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056436600)
 
 Dairemizce yapılan inceleme sonucunda; karar düzeltme talebinin kabulü ile alınan rapor uyarınca dava konusu taşınmazın davalı ... Başkanlığınca el atılan bölüm için tespit edilen ecrimisil bedelinin taleple bağlı kalınarak kabulüne ve davalı ... yönünden davanın husumet yönünden reddine karar verilmesinde bir isabetsizlik görülmemiştir.
 Ancak; dosyada bulunan kanıt ve belgelere göre dava konusu taşınmazın yargılama sırasında imar uygulaması görerek başka parsellere şuyulandırıldığı anlaşıldığından, davalı ... yönünden açılan kamulaştırmasız el atma nedeniyle tazminat davasının konusu kalmadığından karar verilmesine yer olmadığına ve davacı lehine vekalet ücretine hükmedilmesi gerekirken bu hususta yazılı şekilde karar verilmesi ve davacılardan ... ile ... hakkında vekaleten dava açılmış ise de; \[TCKN] TC kimlik numaralı ...'un nüfus kayıt örneğinin incelenmesinde 30.06.2009 tarihinde vefat ettiği, dava açıldığı tarihte ölü olduğu ve mirasçıları adına düzenlenmiş vekaletname de ibraz edilmediği gibi davacı ... yönünden de tapuda isim tashihi yapılması için davacı vekiline süre verilip, sonucuna göre karar verilmesi gerekirken aktif husumet ehliyeti araştırılmadan bu kişiler yönünden eksik inceleme ile hüküm tesis edilmesi doğru görülmediğinden kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 11. HD 2024/3687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043793600)
 
 Noterliği kanalıyla 18.11.2011 tarihli devir tarihi itibariyle davacıların ...
 A.Ş.'de pay sahibi olmadıkları, her ne kadar kural olarak yönetim kurulu kararının yokluğunun hukuki yararı olan herkes tarafından herhangi bir süreye bağlı olmaksızın ileri sürülmesi mümkünse de, davacı pay sahiplerinin kendilerinden önce olmuş tamamlanmış işlemlere karşı geçmişe etkili olarak yokluk ya da butlanı ileri sürmesinin mümkün olmadığı, şirketin mevcut durumunu bilerek ve araştırarak davacıların şirket hisselerini devralmış olmalarının bekleneceği, şirketin mevcut finansal durumunu benimseyerek hisselerin devralınmasının esas olduğu, şirketin mali durumu hakkında yanıltıcı bilgi verildiği yönündeki iddialar ise olsa olsa irade fesadına dayalı açılacak hisse devrinin iptali davasında tartışma konusu olabileceği, ancak, pay devrinden evvel yapılan işlemler butlan da olsa, yok hükmünde de olsa sonradan payı iktisap eden davacılar tarafından ileri sürülmesinin mümkün olmadığı, İlk Derece Mahkemesince yok hükmünde olduğu dava edilen yönetim kurulu kararı açısından ileriye etkili işlemlere dayanak teşkil edeceğinden bahisle davacıların hukuki yararı olduğu kabul edilmişse de, anılan 11.08.2011 tarihli yönetim kurulunun yetkilendirme kararına binaen davalı ...'in yaptığı
@@ -46,6 +56,8 @@ Kültür arasındaki muvazaalı devir işleminin yapıldığı 18.09.2013 tarihi
 görülmediği, davalılar vekilinin istinaf başvurusunun bu yönüyle kabulüne karar verilerek davanın tümüyle aktif husumet yokluğu nedeniyle reddine, öte yandan kabule göre davanın aktif husumet yokluğu nedeniyle reddi durumunda Avukatlık Asgari Ücreti Tarifesinin (AAÜT) 7 nci maddesinin ikinci fıkrası gereğince maktu vekalet ücreti verilmesi gerektiği, hüküm tarihindeki tarifeye göre karar verilmesi gerektiği, davada maddi ve manevi tazminat talepleri ileri sürülmekle AAÜT 10 uncu maddesinin dördüncü fıkrası gereğince maddi ve manevi tazminatlar yönünden ayrı ayrı kalemler olarak (ret sebeplerinin tek olduğu da gözetilerek) maktu vekalet ücretlerine hükmedilmesine, davalılar vekilinin nispi vekalet ücreti verilmesi yönündeki istinaf başvurusu yerinde olmadığı gerekçesiyle davacılar vekilinin istinaf başvurunun esastan reddine davalılar vekilinin başvurusunun kabulü ile İlk Derece Mahkemesi hükmünün kaldırılmasına, yeniden esas hakkında hüküm kurulmasına, davanın reddine kabulüne karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/1179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044620400)
 
 Yargıtay 8. Hukuk Dairesince:
 
@@ -61,10 +73,14 @@ gerekçeleriyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/5397 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986412700)
+
 Yargıtay 1. Hukuk Dairesince; “...Davacının 1407 ada, 29 parsel sayılı taşınmazın kayden maliki olduğu, TMK'nın 683 üncü maddesinden kaynaklanan mülkiyet hakkına dayalı olarak açtığı davada taraf sıfatının bulunduğu tartışmasız iken davanın aktif dava ehliyeti yokluğundan reddine karar verilmesinin doğru olmadığı, dava açıldığı tarihte davacı mülkiyet hakkına sahip olduğundan bu tarihe kadar koşulları varsa ecrimisil isteme hakkı bulunduğu, davacının davalıya karşı açtığı İstanbul Anadolu 21. Asliye Hukuk Mahkemesi 2012/407 Esas, 2014/21 Karar sayılı davada 01.09.2001, 30.11.2009 dönemine ilişkin 32.794,00 TL ecrimisil isteğinde bulunduğu, davanın kısmen kabulüne karar verildiği, hükmün yapılan temyiz incelemesinde 09.04.2015 tarihinde bozma kararı verilerek mahkemesine iade edildiği, ilamın içeriği incelendiğinde davalının haksız işgalci olduğu ve ecrimisilden sorumlu olduğunun kabul edildiği, ecrimisil hesabı yönünden bozma kararı verildiği, talep edilen dönem itibariyle verilecek kararın eldeki davada ecrimisil miktarını etkileyeceği, İstanbul Anadolu 21.
 Asliye Hukuk Mahkemesi 2012/407 Esas, 2014/21 Karar sayılı kararının kesinleşmesinin beklenilmeden yazılı şekilde karar verilmiş olmasının da doğru olmadığı...’’ gerekçeleriyle hüküm bozulmuştur.
 
 ## Yargıtay 7. HD 2023/2658 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915857600)
 
 Yargıtay 8. Hukuk Dairesince:
 
@@ -78,12 +94,16 @@ gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/2551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915804800)
+
 Bu durumda, davalı ...'in yargılama sırasında, diğer davalı ...'in ise karar tarihinden sonra ölümü ile onlar tarafından vaki haksız fiil niteliğindeki el atmanın sona erdiğinin kabul edilmesi gerektiği, buna karşın yıkım isteği yönünden ise davada kayıt maliklerine yöneltilen bir husumet bulunmadığından davalılar ... ve ...'e husumet düşmeyeceği kuşkusuzdur. Esasen davaya dahil edilen kişilerin haksız eylemleri var ise ayrı bir davanın konusunu oluşturacağı da açıktır. Ancak, mirası reddetmeyen mirasçıların, murislerin halefi sıfatı ile el atmanın önlenmesi yönünden yargılama giderlerinden ve ecrimisilden sorumlu olacakları kuşkusuzdur.
 
 .... yargılama devam ederken davalı ...'in ve karar tarihinden sonra ise davalı ...'in ölmesi nedeniyle tespit edilen zemine (arsaya) onlar tarafından vaki haksız fiil niteliğindeki el atmanın önlenmesi isteği yönünden dava konusuz kalmış olduğundan anılan kişiler bakımından "el atmanın önlenmesi isteği hakkında bir karar verilmesine yer olmadığına" şeklinde karar verilmesi ve yargılama giderleri ile vekalet ücretinin de davanın açılmasına sebebiyet veren davalıların mirasçılarına yükletilmesi, ecrimisil isteğinin ise niteliği itibariyle ölenlerin mal varlığını ilgilendirdiği ve mirasçılara geçen haklara ilişkin bulunduğu gözetilerek davalı murislerin 34 parseldeki kullandığı taşkın kısım (zemin geliri) üzerinden talep edilen dönemler için ecrimisil miktarının belirlenmesi ve tüm mirasçıların bu miktar üzerinden miras payları oranında sorumlu tutulması, yıkım isteği yönünden ise davada kayıt maliklerine yöneltilen bir husumet bulunmadığı gözetilerek davalılar ... ve ... hakkında davanın husumet yönünden reddine karar verilmesi gerekirken haklarında usulüne uygun dava bulunmayan ..., ..., ..., ... ve ... hakkında davalı murislerin mirasçısı olarak değil (davalı ...'ın mirasçı sıfatı
 bile bulunmadığı halde) davalı olarak işin esası hakkında karar verilmesi, ölen davalıların mirasçıları belirlenerek taraf teşkili sağlanmadan, binanın davacılara ait taşınmaza tecavüz miktarı açıklığa kavuşturulmadan, davalılar tarafından yaptırılan binanın geliri üzerinden ecrimisil hesabı yapılarak ve 6100 sayılı HMK. nun 26. maddesine aykırı olarak talep aşılmak suretiyle hesaplanan ecrimisile hükmedilerek yazılı şekilde karar verilmesi doğru değildir.'' şeklindeki değişik gerekçeyle hüküm bozulmuştur.
 
 ## Yargıtay 7. HD 2022/3629 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775905800)
 
 Dava, mülkiyet hakkına dayalı ecrimisil istemine ilişkindir.
 
@@ -92,6 +112,8 @@ Dava, mülkiyet hakkına dayalı ecrimisil istemine ilişkindir.
 Dava; Turkcell İletişim Hizmetleri AŞ. ve ... olmak üzere iki davalıya husumet yöneltilerek açılmıştır. Mahkemece dava kabul edilmiş ancak hüküm fıkrasında ecrimisilin hangi davalıdan tahsil edileceğine dair bir belirleme yapılmamıştır. Dava konusu miktardan her iki davalı da müştereken ve müteselsilen sorumlu olduğuna göre, mahkemece hükmedilen ecrimisilin davalılardan tahsiline karar verilmesi gerekirken hangi davalıdan olduğu da belirsiz bırakılmak suretiyle, ‘davalıdan’ tahsiline karar verilmesi doğru görülmemiştir. Ne var ki, anılan husus kararın bozulmasını gerektirmekte ise de yeniden yargılama yapılmasını gerektirmediğinden 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 438/7. maddesi gereğince hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 8. HD 2021/4474 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683173800)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -105,11 +127,15 @@ Asliye Hukuk Mahkemesinin 2011/286 Esas, 2012/108 Karar sayılı dosyasında tal
 
 ## Yargıtay 16. HD 2018/1231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/420505900)
+
 Elatmanın önlenmesi ve ecrimisil isteminden doğan uyuşmazlıkta mahkemece, dava konusu tapulu taşınmazı, davacı-karşı davalıların yaklaşık 30 yılı aşkın süredir bu taşınmazın kendilerine ait olmadığını, mülkiyet davasında lehlerine bir karar verilmediğini bilerek kullandıkları, bu kullanımın kötü niyetli olduğu; bu yerde ...’nin ve ölümünden sonra mirasçılarının mülkiyet hakkı olduğundan, taşınmazın zilyetlikle kazanılmasının mümkün olmadığı, davacı-karşı davalıların hukuken korunan her hangi bir tasarruf yetkisinin olmadığının sabit bulunduğu, bu yönüyle davalı-karşı davacının elatmanın önlenmesi ve ecrimisil isteminde haklı olduğu kabul edilerek karar verilmiştir. Tapu kayıt maliki ...'nin çocuksuz ölümü ile terekesi elbirliği mülkiyetine tabi olup, 29.03.2012 tarihli veraset ilamında yazılı mirasçılarına kaldığı anlaşılmıştır.
 Yargılama sırasında bir kısım mirasçılar vekili olarak Avukat ... taşınmaza haksız olarak el atıldığını ileri sürerek davacı-karşı davalı ... ve arkadaşlarının taşımazdan men'ine ve fazlaya ilişkin hakları saklı almak kaydıyla 12.500 TL ecrimisil bedelinin tahsili ile müvekkillerine ödenmesi talebiyle açmış olduğu davada zilyetliğin korunması yönünden TMK'nın 702/son maddesi gereğince dava açma ehliyeti bulunmakta olduğu gibi el atmanın önlenmesine ilişkin olarak verilen karar yönünden; Dosya içeriğine, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere, delillerin takdirinde bir isabetsizlik bulunmamasına göre temyiz itirazları yerinde değildir. Ancak, ecrimisil davasının tereke adına açılmış olmadığı kuşkusuzdur.
 El birliği mülkiyetinde tasarruf işlemlerinin tüm mirasçılar tarafından birlikte yapılması zorunlu olduğuna, ecrimisil bedelinin sadece dava açan mirasçılara ait olduğundan da söz edilemeyeceğine göre ecrimisil talebi yönünden aktif dava ehliyeti bulunmaması nedeniyle davanın reddine karar vermek gerekirken yazılı olduğu şekilde hüküm kurulması isabetsiz olup, davacılar vekilinin temyiz itirazları açıklanan nedenlerle yerinde bulunduğundan kabulüyle hükmün BOZULMASINA, 23.02.2018 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2016/2865 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204562500)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -119,6 +145,8 @@ Hâl böyle olunca; öncelikle davacının halen vesayet altında olup olmadığ
 
 ## Yargıtay 1. HD 2016/2387 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204113900)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -126,6 +154,8 @@ Dava, ecrimisil istemine ilişkindir.
 Hemen belirtilmelidir ki, ecrimisil haksız işgal tazminatı olup husumetin 6100 sayılı HMK'nun 50. maddesi (1086 HUMK.'nun 38. maddesi) hükmü uyarınca taşınmazı haklı ve geçerli bir neden olmaksızın kullanan ve kullandıran kişilere yöneltilmesi gerekir. Bu durumda davalı ... kullandıran, davalı ... da kullanan olarak ecrimisilden sorumlu olup, davalı ... hakkında verilen red kararı yanlış ise de davalı ... yönünden davacı temyizi bulunmadığından bu konu bozma nedeni yapılmamıştır. Davalı ...’in husumete ilişkin temyiz itirazı açıklanan gerekçe ile yerinde görülmediğinden reddine.
 
 ## Yargıtay 1. HD 2015/7034 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139641500)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi ve yıkım ile ecrimisil isteklerine ilişkindir.
 
@@ -137,9 +167,13 @@ Hâl böyle olunca; yukarıda belirtilen ilkeler ve açıklamalar doğrultusunda
 
 ## Yargıtay 1. HD 2015/4575 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120909500)
+
 Hal böyle olunca, doğrudan mülkiyet hakkına dayalı olarak açılan birleştirilen davadaki ecrimisil isteğine yönelik dava hakkı, mutlak biçimde mülkiyet hakkı sahibine ait olduğuna göre, birleştirilen davada mülkiyet hakkı sahibi olmayan davacının taraf sıfatının (aktif husumet ehliyetinin) bulunmadığı gözetilerek birleştirilen davanın reddine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2015/3522 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119529800)
 
 Dava, paydaşlar arasında imar parseline elatmanın önlenmesi, yıkım ve ecrimisil, karşı dava ise temliken tescil isteğine ilişkindir.
 
@@ -150,6 +184,8 @@ O halde, yukarıda değinilen hususlar dikkate alınmaksızın mahkemece yazıl�
 
 ## Yargıtay 1. HD 2015/394 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118901500)
+
 Dava; ecrimisil istemine ilişkindir.
 
 …
@@ -158,11 +194,15 @@ Hemen belirtilmelidir ki, ecrimisil haksız işgal tazminatı olup husumetin 610
 
 ## Yargıtay 1. HD 2014/12099 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/89238300)
+
 Ne var ki, eldeki davada sadece elatmanın önlenmesi isteğinde bulunulmuş ayrıca ecrimisil isteğinde bulunulmamış, bilahare yargılama sırasında ıslah yoluyla ecrimisil istenilmiştir. Oysa anılan hususun ayrı bir dava konusunu teşkil edeceği, yargılama sırasında harçlandırılan ıslah dilekçesi ile dava konusu edilmeyen bir şeyin davaya dahil edilmesinin mümkün olmadığı tartışmasızdır.
 
 Hal böyle olunca; davacılardan N.. K.. ve A.. Y.. bakımından aktif dava ehliyeti yokluğundan davanın reddine karar verilmesi gerektiğinin gözetilmemesi doğru olmadığı gibi ecrimisil isteği bakımından da usulüne uygun olarak açılmış bir dava olmadığı, bu istek bakımından davanın dinlenmesine olanak bulunmadığı gözardı edilerek yanılgılı değerlendirme ile yazılı olduğu üzere karar verilmiş olması da doğru değildir.
 
 ## Yargıtay 1. HD 2014/8197 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84702700)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -172,6 +212,8 @@ Hal böyle olunca, dava konusu 3 parsel sayılı taşınmaz maliki N.. O..'nın 
 
 ## Yargıtay 1. HD 2014/7690 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84305100)
+
 Dava ecrimisil isteğine ilişkindir.
 
 …
@@ -180,13 +222,19 @@ Hal böyle olunca, öncelikle davalının husumet itirazının incelenmesi, teca
 
 ## Yargıtay 1. HD 2014/5528 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/283916000)
+
 Bir kısım davalılar ile dahili davalılar, çekişme konusu yapıların ... Valiliğinden sağlanan parasal kaynakla imece usulü yapılarak buralara yerleştirildiklerini, husumetin Valiliğe yöneltilmesi gerektiğini, kötüniyetli olmadıkları için ecrimisil istenemeyeceğini belirterek davanın reddini savunmuşlar, birleştirilen davaları ile de; köy korucusu olduklarını, ... Köyü, 102 ada 9 parsel ile 103 ada 4 parsel üzerine yaptırılan konutlara güvenlik sebebi ile yerleştirildiklerini, bu konuda tapu kaydı üzerinde şerh bulunduğunu, iyiniyetli olduklarını, yapı değerlerinin arsa değerlerinden fazla olduğunu ileri sürerek temliken tescile karar verilmesini istemişlerdir.
 
 ## Yargıtay 1. HD 2014/4570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84163700)
+
 Hal böyle olunca; yukarıda değinilen ilkeler gözetilmek ve 6100 sayılı HMK’nun 124. maddesinin sağladığı imkânlar da değerlendirilmek suretiyle yıkımı istenen seranın eklentisi niteliğinde olduğu 247 ada, 3 parsel sayılı taşınmazın, kayıt malikleri Mahmut Okşar ve Hüseyin Okşar'a husumetin tevcih edilmesi, taraf teşkilinin sağlanması, ondan sonra işin esasının incelenmesi, seranın 3194 sayılı Yasanın 5. maddesinde tanımlanan yapı niteliğinde olmadığı, dolayısıyla 3194 sayılı İmar Kanunu'nun 18. maddesinin uygulama yeri bulunmadığının gözetilmesi, toplanan ve toplanacak delillerin birlikte değerlendirilmesi ve sonucuna göre bir karar verilmesi gerekirken yazılı olduğu üzere hüküm kurulmuş olması doğru olmadığı gibi usulüne uygun bir dava olmadığı halde ecrimisile hükmedilmiş olmasıda isabetsizdir.
 
 ## Yargıtay 1. HD 2013/127 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79206700)
 
 Dava, el atmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece konusuz kalan elatmanın önlenmesi isteği bakımından karar verilmesine yer olmadığına, ecrimisil isteği bakımından ise davacının payı oranında talepte bulunduğu, elbirliği mülkiyetinde ortaklardan birinin kendi payı oranında ecrimisil isteyemeyeceği gerekçesiyle husumet nedeniyle davanın reddine karar verilmiş, hüküm yalnızca davacılar tarafından temyiz edilmiştir.
 
@@ -196,12 +244,18 @@ Dava, el atmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece k
 
 ## Yargıtay 1. HD 2011/11677 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79077400)
+
 Hal böyle olunca; 3 ve 10 nolu bağımsız bölümler bakımından davalı M. hakkında davacıların miras payları gözetilerek tapu iptali ve tescil davasının kabulüne, diğer davalılar hakkında anılan bağımsız bölümler bakımından iptal ve tescil isteğinin ve ayrıca bu davalılar aleyhindeki ecrimisil davasının husumet nedeniyle retlerine; 1, 6 ve 9 nolu bağımsız bölümlerle ilgili tazminat davası yönünden davalı M. hakkındaki davanın husumet yokluğu sebebiyle reddine ve diğer davalılar hakkındaki tazminat talebinin ise yukarıda değinilen tarihler itibariyle yasal faiz hususu gözetilerek kabulüne karar verilmesi gerekirken, yazılı olduğu üzere hüküm kurulmuş olması isabetli değildir.
 
 ## Yargıtay 4. HD 2011/4035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002128200)
+
 Yerel mahkemece, davacının aktif dava ehliyetinin varlığı kabul edilip işin esasına girilerek, tarafların kanıtları değerlendirilmek, davacının ecrimisil ödediği yerlerden yararlanmasının engellenip engellenmediği ve bu yüzden bir zarara uğrayıp uğramadığı belirlenmek suretiyle varılacak sonuca göre bir karar verilmesi gerekirken, yerinde olmayan gerekçeyle, yazılı karar verilmiş olması usul ve yasaya uygun düşmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 18. HD 2007/8186 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878626300)
 
 Mahkemece yapılan yargılama sonunda 15.09.2005 gün ve 2004/2930- 2005/2030 sayılı kararla "davacı apartman yöneticiliğinin husumet ehliyeti bulunmadığından davanın husumet yokluğu nedeniyle reddine" karar verilmiş, davacı tarafın temyizi üzerine Kat Mülkiyeti Yasasının 20. ve 35/i maddeleri hükümleri uyarınca davacı yönetimin davada pasif husumet ehliyetinin bulunduğu gerekçesiyle mahkemenin kararı işin esası ile ilgili - diğer yönler incelenmeksizin- bozulmuştur. Buna göre hükmüne uyulan bozma kararı karşısında mahkemece ilk kararda davada istenilen haksız işgal tazminatı yönünden herhangi bir hüküm kurulmadığından bu yönün kesinleşmiş olduğundan söz edilemez. Bu durumda mahkemece davalı taraftan istenilen ecrimisil (haksız işgal tazminatı) açısından da gerekli araştırma ve incelemenin yapılıp hüküm kurulması gerektiğinin düşünülmemiş olması doğru görülmemiştir.

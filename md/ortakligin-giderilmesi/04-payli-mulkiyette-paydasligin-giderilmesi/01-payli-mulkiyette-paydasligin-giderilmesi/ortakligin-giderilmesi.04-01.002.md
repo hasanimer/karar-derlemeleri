@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2014/3496 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105503400)
+
 Borçlu ortağın alacaklısı İcra Hakimliğinden İcra İflas Kanununun 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Bunun için icra hakiminden yetki belgesi alınması zorunludur. İcra hakiminden yetki belgesi almadan doğrudan doğruya veya yetkisi olmayan icra müdürünün verdiği yetki belgesine dayanılarak dava açılması halinde dava hemen reddedilmeyip davacı tarafa icra hakiminden yetki belgesi almak üzere süre verilmelidir.
 
 İcra mahkemesinden alınan yetkiye dayalı olarak açılan davalarda kural olarak borçlu ortağın mülkiyet hakkının elbirliği mülkiyetine konu olması gerekir. Paylı mülkiyette ise yine kural olarak borçlu paydaşın alacaklısı, borçlunun payının icra yoluyla satışını isteyebileceğinden İcra İflas Kanununun …
@@ -29,6 +31,8 @@ Borçlu ortağın alacaklısı İcra Hakimliğinden İcra İflas Kanununun 121. 
 121\. maddesi uyarınca yetki belgesine dayanarak ortaklığın giderilmesini isteyemez. Ancak 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 8. maddesi hükmündeki yasal sınırlama nedeniyle parsel büyüklüğü uygun bulunmadığından borçlunun payının icra müdürlüğünce satışı mümkün olmayan, tarımsal nitelikli parsellerde alacaklı İcra İflas Kanununun 121. maddesi uyarınca aldığı yetki belgesine dayalı olarak taşınmazın tamamının satılması suretiyle paydaşlığın giderilmesini isteyebilir.
 
 ## Yargıtay 14. HD 2014/2560 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/364261400)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -40,6 +44,8 @@ Mahkemece işin esası incelenerek sonucuna göre bir karar verilmesi gerekirken
 
 ## Yargıtay 14. HD 2014/1140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105506100)
+
 Dava, ortaklığın satış yoluyla giderilmesi istemine ilişkindir.
 
 …
@@ -49,6 +55,8 @@ Dava, ortaklığın satış yoluyla giderilmesi istemine ilişkindir.
 Paylı mülkiyette ise yine kural olarak borçlu paydaşın alacaklısı, borçlunun payının icra yoluyla satışını isteyebileceğinden İcra İflas Kanununun 121. maddesi uyarınca yetki belgesine dayanarak ortaklığın giderilmesini isteyemez. Ancak 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 8. maddesi hükmündeki yasal sınırlama nedeniyle parsel büyüklüğü uygun …
 
 ## Yargıtay 14. HD 2013/10366 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/532531900)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -60,6 +68,8 @@ Davaya konu 948, 9, 634, 617, 418, 1935, 336, 440, 1801, 1545, 1772, 1514, 1519,
 
 ## Yargıtay 14. HD 2013/9691 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647589600)
+
 Dava, 1603 ada 5 sayılı parsel sayılı 4524 m2 arsa cinsli taşınmazda ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -68,15 +78,21 @@ Tapu kaydına göre dava konusu edilen 1603 ada 5 parsel sayılı arsa cinsli ta
 
 ## Yargıtay 14. HD 2013/7034 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523691600)
+
 Dava konusu edilen ve satışı suretiyle ortaklığının giderilmesine karar verilen 928 parsel sayılı taşınmazın tam pay ile ... adına kayıtlı olduğundan bu taşınmaz yönünden ortaklığın giderilmesine karar verilmesi doğru değildir.
 
 Öte yandan dava konusu edilen ve satışı suretiyle paydaşlığın giderilmesine karar verilen 730, 850 ve 795 parsel sayılı taşınmazların paylı mülkiyete tabi olduğu anlaşılmaktadır. Yukarıda açıklanan ilkelere göre, borçlu paydaşın alacaklısı tarafından İİK'nun 121.maddesine göre icra mahkemesinden alınan yetkiye dayanarak açılan ortaklığın giderilmesi davasında, borçlunun müstakil payının haczi mümkün ise de, taşınmazların niteliğine göre 5403 sayılı Kanunun 8.maddesi uyarınca pay satışının mümkün olup olmadığının belirlenmesi gerekirken eksik inceleme ile davanın kabulüne karar verilmesi doğru görülmemiş, yukarda açıklanan nedenlerle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2013/6454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404929500)
+
 Olayımıza gelince;Davacı alacaklı borçlu ......İcra Müdürlüğünün 2010/.... sayılı takip dosyasındaki borcu nedeniyle icra mahkemesinden alınan yetki belgesine dayanarak borçlunun miras bırakanı Mümin Yurtsever'den intikal eden ....parsel nolu taşınmazda ortaklığın satış suretiyle giderilmesini talep etmiştir. Dava dosyasında mevcut tapu kayıtlarında dava konusu ....parsel nolu taşınmazın davalılar mirasbırak... parsel sayılı taşınmazda elbirliği mülkiyetinin paylı mülkiyete çevrilmesine karar verildiği,kararın 20.6.2012 tarihinde kesinleşip tapuda infaz edildiği ve infazı gösterir son tapu kaydının dosyaya sunulduğu görülmüştür. Son tapu kaydı incelendiğinde dava konusu ... parsel nolu taşınmazın paylı mülkiyete tabi olduğu ve borçlu ...'in müstakilen 1/8 payının bulunduğu görülmüştür. Paylı mülkiyete tabi taşınmazlarda(taşınmazın niteliğinin arsa olması da dikkate alındığında) payın haczi ve satılması mümkün olup borçlu ...'in payının da müstakilen haczedilip satılabileceği anlaşıldığından mahkemece davanın reddine karar verilmesi gerekirken yazılı şekilde satışa karar verilmesi doğru değildir. Hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 14. HD 2013/4628 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688521300)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -86,9 +102,13 @@ Ortaklığın giderilmesi davaları paylı mülkiyet ve elbirliği mülkiyetine 
 
 ## Yargıtay 6. HD 2013/4204 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655319800)
+
 Dava konusu edilen ve satışına karar verilen ... No'lu parseldeki bağımsız bölümlerde paylı mülkiyete geçilerek, borçlu davalılar adına 1 / 15'şar pay olarak tescil edilmiştir. Taşınmazlar bu haliyle paylı mülkiyet hükümlerine tabi olup, borçlu davalıların taşınmazlarda müstakil payı bulunmaktadır. Bağımsız olarak payın haczi ve satışı mümkün olduğundan, mahkemece söz konusu bağımsız bölümler hakkındaki davanın reddine karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru olmadığı gibi, mahkemece hüküm kurulurken infaza müdahale edecek şekilde satış bedelinden borçlu davalıların payına düşecek satış bedelinin Balıkesir 2. İcra Müdürlüğü’nün 2001 / 5127 sayılı icra takip dosyasına gönderilmesine karar verilmesi de usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2013/2913 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410167700)
 
 Dava, borçlu ortağın alacaklıları tarafından açılan borçlunun paydaşı olduğu iki adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -97,6 +117,8 @@ Dava, borçlu ortağın alacaklıları tarafından açılan borçlunun paydaşı
 5403 sayılı Kanunun 8. maddesi hükmü gereğince, pay satışı mümkün olmayan paylı mülkiyete tabi tarımsal nitelikli taşınmazlarda ise, alacaklı İİK.nun 121. maddesi uyarınca aldığı yetki belgesine dayalı olarak taşınmazın tamamının satılması suretiyle paydaşlığın giderilmesini isteyebilir.
 
 ## Yargıtay 6. HD 2013/605 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241988000)
 
 Dava, bir adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -108,6 +130,8 @@ Olayımıza gelince; dava konusu edilen parsel, paylı mülkiyet hükümlerine t
 
 ## Yargıtay 6. HD 2013/551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241904700)
+
 Dava, bir adet taşınmazdaki paydaşlığın aynen taksim edilerek giderilmesi istemine ilişkindir.
 
 …
@@ -118,6 +142,8 @@ Olayımıza gelince; dava konusu 892 parsel sayılı taşınmaz taraflar arasın
 
 ## Yargıtay 6. HD 2012/17252 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054743600)
+
 Dava, sekiz adet taşınmaz ile bir adet traktörde paydaşlığın giderilmesi istemine ilişkindir.
 
 …
@@ -125,6 +151,8 @@ Dava, sekiz adet taşınmaz ile bir adet traktörde paydaşlığın giderilmesi 
 Hakkında paylaşma sözleşmesi bulunan taşınmazlar için dava açılamaz. Zira Medeni Kanunu'nun 676. maddesine uygun olarak paylaşma sözleşmesi yapılmakla, ortaklık hali o sözleşme ile çözüme bağlanmış ve paylaşma yapılmış sayılır. Ancak, Medeni Kanunun sözü edilen maddesi, elbirliği halindeki mülkiyet hükümlerine tabi mallara ilişkin olup, paylı mülkiyette uygulanmaz. Bu durumda, davaya konu mallar, miras bırakan ... adına müstakilen kayıtlı olmadığından, davacının paylı mülkiyete konu mallar hakkında paydaşlığın giderilmesi davası açmasında herhangi bir usulsüzlük bulunmamaktadır. Mahkemece işin esasının incelenerek sonucuna göre bir karar verilmesi için hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/14141 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551451700)
 
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -134,15 +162,21 @@ Davaya konu taşınmaz, taraflar adına paylı mülkiyet olarak tapuya kayıtlı
 
 ## Yargıtay 6. HD 2012/13477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055094300)
+
 Borçlu ortağın alacaklısı İcra Hakimliğinden İ.İ.K.nun 121.maddesine göre alacağı yetki belgesine dayanarak elbirliği mülkiyetine konu ve borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir, paylı mülkiyette ise borçlu payının satışı mümkün olduğundan ortaklığın giderilmesi davası açamaz.
 
 Olayımıza gelince;dosyada mevcut tapu kaydının incelenmesinden satışına karar verilen 5 nolu bağımsız bölümün paylı mülkiyete konu olduğu, davalı borçlu ...'ın 1/8 oranında müstakil payı bulunduğu anlaşılmaktadır. Yukarıda ilke kararında açıklandığı gibi paylı mülkiyette bağımsız olarak payın haczi ve satışı mümkün olup, bu durumda alacaklı tarafından istisnai bir yol olan İ.İ.K.’nun 121.maddesine dayalı olarak ortaklığın giderilmesi davası açılamaz. Mahkemece davanın reddine karar vermek gerekirken yazılı şekilde satış suretiyle ortaklığın giderilmesine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2012/12728 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054905400)
+
 Dava konusu edilen ve satışına karar verilen 80 Ada 25 Parsel No'lu taşınmazın ¾ payı borçlu paydaş ... adına kayıtlı olup, borçlunun payının elbirliği mülkiyetine tabi olmayıp paylı mülkiyet hükümlerine tabi olduğu tapu kayıtlarından anlaşılmaktadır. Bu durumda, davacı alacaklı borçlu paydaşın paylı mülkiyet payı bulunan taşınmazlardaki payını bağımsız olarak haciz ettirip sattırma olanağına sahip olduğundan, davanın reddine karar vermek gerekirken, yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 6. HD 2012/10023 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054391000)
 
 Dava, iki adet taşınmaz malda paydaşlığın giderilmesine ilişkindir.
 
@@ -151,6 +185,8 @@ Dava, iki adet taşınmaz malda paydaşlığın giderilmesine ilişkindir.
 Davaya konu taşınmazlar, taraflar adına paylı mülkiyet olarak tapuya kayıtlıdır. Tarafların pay oranları belirlidir. Davalı tarafca dosyaya ibraz edilen miras taksim sözleşmesinin geçerliliğinin kabul edilebilmesi için takibe konu olan taşınmazların, miras bırakan adına kayıtlı ya da elbirliği mülkiyetine konu edilebilecek taşınmazlar olması gerekir. Mahkemece, paylı mülkiyete konu taşınmazlar için yapılan taksim sözleşmelerine değer verilerek, paydaşların taksim sözleşmesine göre yerlerini kullandıkları gerekçesiyle davanın reddine karar verilmesi hatalıdır. Mahkemece işin esasının incelenerek neticeye göre bir karar verilmesi için hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 6. HD 2012/8080 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/559643500)
 
 Dava, yedi adet taşınmazda ortaklığın giderilmesine ilişkindir.
 
@@ -162,15 +198,21 @@ Davaya konu taşınmazlardan ... parsel sayılı taşınmazda tarafların miras 
 
 ## Yargıtay 8. HD 2012/7368 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513651100)
+
 Tapulu taşınmazların malikleri arasında tapu harici yapılan yazılı taksim sözleşmesinin geçerliliği elbirliği mülkiyeti hükmüne tabi olmasına bağlıdır. Yazılı taksim sözleşmesinin düzenlendiği 22.03.1976 tarihinde mirasçılar arasında elbirliği mülkiyeti geçerli olduğundan TMK.nun 676/son maddesi uyarınca taksim geçerlidir. Kaldı ki, dosya arasında bulunan ve mirasçılar arasında görülen Bozdoğan Sulh Hukuk Mahkemesinin Yargıtay denetiminden geçerek kesinleşen 2004/3 E. – 2005/194 K. sayılı ortaklığın giderilmesi davasında da anılan taksim sözleşmesi yasaya uygun görülerek geçerli kabul edilmiştir. Bu kabule göre, yazılı taksim sözleşmesinin düzenlenmesi ile taşınmazlar tereke malı (elbirliği) olmaktan çıkmıştır. TMK.nun 677.maddesinde belirtilen mirasçılar arasındaki yazılı pay devrinin geçerli olabilmesinin ön koşulu, sözleşmeye katılan mirasçılar arasında elbirliği mülkiyetinin mevcut olmasıdır. Gerçek durumu yansıtmayan tapu sicilindeki malik kaydı bu sonucu değiştirmez.
 Başka bir anlatımla, muristen kalan taşınmazın geçerli bir taksimle tereke malı olmaktan çıkarak, tam ya da paylı mülkiyete dönüşmesinden sonra, pay devrinin geçerliliği TMK.nun 706, BK.213 (6098 sayılı TBK.nun 237) ve Tapu Kanununun 26.maddesine göre tapu sicil memuru huzurunda resmi şekilde yapılmasına bağlıdır. Halbuki, yukarıda da açıklandığı üzere mirasçılar arasında yapılan geçerli taksim sözleşmesi ile söz konusu taşınmazlar tereke malı olmaktan çıkarak tam ve paylı mülkiyete dönüşmüşlerdir. Oluşan bu duruma göre 09.07.1993 tarihli sözleşmenin düzenlendiği tarihde elbirliği mülkiyetine tabi taşınmaz bulunmadığından, taşınmazların mülkiyetlerinin devirleri bakımından TMK.nun 677.maddesi uygulanamayacağından hukuki geçerliliği bulunmamaktadır. Bu açıklamalara göre, her ne kadar mirasçılar arasında yapılan geçerli sözleşme ile temyize konu 341 parselin tamamı, 399 ve 767 parsellerin ise dava konusu olan bölümlerinin mülkiyeti davacının yakın murisi ...'e geçmiş ise de, bu kişinin davalı ...’e haricen yaptığı satış geçerli olmadığından mülkiyet davalıya geçmemiştir.
 Davacının söz konusu parsellere ilişkin talebinin açıklanan bu gerekçelerle, mirasçılık belgesi ve geçerli taksim sözleşmesi gözönünde bulundurularak kabulüne karar verilmesi gerekirken 09.07.1993 tarihli payın harici satışı sözleşmesine değer vererek yazılı gerekçeyle davanın reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 6. HD 2012/6590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564098500)
+
 Olayımıza gelince;Her ne kadar İİK. 121. maddesi hükmü gereği davalı borçlu ...nin hissedar olduğu dava konusu ... İlçesi ... mevkii 3008 parselde kayıtlı incir bahçesi vasıflı taşınmazın satılması istenmişse de yargılama sırasında taşınmaz üzerindeki elbirliği mülkiyetinin paylı mülkiyete çevrildiği anlaşılmıştır. Bu haliyle taşınmaz paylı mülkiyet hükümlerine tabi olduğu, borçlu olduğu iddia edilen ...'nin müstakil payı bulunduğu görülmektedir. Bağımsız olarak payın haczi ve satışı mümkün olduğundan mahkemece davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2012/3727 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1103893000)
 
 Dava, taşınmaz üzerinde bulunan muhdesatların aidiyetinin tespiti istemine ilişkindir.
 
@@ -179,6 +221,8 @@ Tapuda taraflar adına paylı mülkiyet şeklinde kayıtlı ortaklığın gideri
 Ne var ki; dava konusu 132 ada 3 parsel sayılı taşınmazda muristen kalan ev hattında ve 165 ada 16 parsel sayılı taşınmazda sekileme suretiyle yapılan taş duvarlar, iyileştirici ve değer arttırıcı nitelikteki giderleri yapma muhdesat meydana getirme olarak nitelendirilemeyeceğinden, davacının iyileştirme giderlerinin tespiti davası açmakta hukuki yararı bulunduğundan söz edilemez. Davacının bu giderlerden payına düşenden fazlasını B.K.'nun 61 ve devam eden maddelerinde düzenlenen sebepsiz zenginleşme hükümlerine göre açacağı bir eda davası ile diğer maliklerden isteyebileceği kuşkusuzdur. Bu dava ise, taşınmazın satılarak elden çıkarılması,bu şekilde davacının muhdesattan yararlanma durumunun sona erdiği tarihte açılabilir. Eda davası açılabilecek hallerde tespit davası açılamaz.
 
 ## Yargıtay 6. HD 2012/3552 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569798800)
 
 Dava, neticeten 35 adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -190,19 +234,27 @@ Olayımıza gelince; dava konusu edilen ve satışına karar verilen ... ada ...
 
 ## Yargıtay 8. HD 2012/2224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602251600)
+
 Şöyle ki, Türk Medeni Kanununun 688. maddesinde paylı mülkiyet “birden çok kimsenin maddi olarak bölünmüş olmayan bir şeyin tamamına belli paylarla malik olmaları” şeklinde ifade edilmiştir. Bu tanıma göre, paylı mülkiyetin söz konusu olabilmesi için; birden fazla kişinin bir mala paylı malik bulunması ve bu malın malikleri arasında maddi olarak paylaşılmış olunmaması gerekir. Paylı mülkiyette, mülkiyet hakkına sahip birden ziyade kişi olmasına rağmen eşya üzerinde tek bir mülkiyet hakkı vardır. Eşya üzerindeki bu tek mülkiyet hakkı, malikler arasında bir paylı mülkiyet birliği meydana getirir. Her paydaş, mülkiyet hakkının belli bir payına sahip olur. Her pay diğerinden bağımsız ayrıca tasarrufi işlemlere konu olabileceği için kanun bazı istisnalar hariç payları taşınmaz hükmüne tabi tutmuştur.
 
 Kuşkusuz, paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşların payına elatmalarının önlenmesini her zaman isteyebilir. Ancak, o paydaşın taşınmazda payına karşılık çekişmesiz olarak kullandığı bir kısım yer varsa elatmanın önlenmesi davası dinlenemez. Yerleşmiş Yargıtay uygulamaları da bu yöndedir.
 
 ## Yargıtay 6. HD 2012/1168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053543700)
+
 Dava konusu edilen ve satışına karar verilen 1226 ve 1297 no'lu parsellerin tapu kayıtlarının incelenmesinde paylı mülkiyete konu olduğu ve taşınmazlarda davalı borçlu ...'ya ait 1/3 ve ½ oranında müstakil payların adına kayıtlı olduğu görülmüştür. Paylı mülkiyette bağımsız olarak payın haczi ve satışı mümkün olup bu durumda alacaklı tarafından istisnai bir yol olan İİK.'nun 121. maddesine dayalı olarak ortaklığın giderilmesi istenemez. Mahkemece davanın reddine karar vermek gerekirken, yazılı şekilde satış suretiyle ortaklığın giderilmesine karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2012/1061 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053545500)
+
 Tapu kaydına göre dava konusu edilen 58 No’lu taşınmaz taraflar adına paylı mülkiyet hükümleri gereğince kayıtlıdır. Tapunun beyanlar hanesinde 24.10.2007 tarihi itibariyle 2942 Sayılı Kanun’un 31/b maddesi gereğince kamulaştırma şerhi bulunmaktadır. Bununla birlikte tapuda kamulaştıran idare gösterilmediği gibi kamulaştırma evrakları da yer almamaktadır. Öte yandan taşınmaz halen davanın tarafları adına kayıtlıdır. Bu durumda mahkemece öncelikle kamulaştırılma evrakları celp edilerek kamulaştırma işlemlerinin kesinleşip kesinleşmediğinin araştırılması, kamulaştırmanın kesinleşmesi halinde bu kısmın ifraz edilerek taşınmazın kalan bölümü üzerinden paydaşlığın giderilmesine karar verilmesi gerekirken, eksik inceleme sonucu yazılı şekilde karar verilmesi doğru görülmediğinden hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/1043 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053541200)
 
 Borçlu ortağın alacaklısı İcra Hakimliği’nden İcra İflas Kanunu’nun 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Bunun için icra hakiminden yetki belgesi alınması zorunludur. İcra hakiminden yetki belgesi almadan doğrudan doğruya veya yetkisi olmayan İcra Müdürünün verdiği yetki belgesine dayanılarak dava açılması halinde dava hemen ret edilmeyip icra hakiminden yetki belgesi almak üzere önel verilmelidir. Bu şekilde açılacak davada borçlu ortak dahil tüm ortakların davaya dahil edilmeleri zorunludur.
 
@@ -210,11 +262,15 @@ Olayımıza gelince;dava konusu edilen ve satışına karar verilen Elazığ mer
 
 ## Yargıtay 1. HD 2012/875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78906000)
+
 Dava ve birleşen dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece kurulan hükmün taraflarca temyizi üzerine davacı tarafın tüm temyiz itirazlarının reddine ve davalının temyiz itirazlarının kabulü ile Daire kararında belirtilen gerekçelerle yerel mahkeme kararının bozulmasına ve karar düzeltme isteği üzerine bozma kararına TMK'nun 693/2 maddesi hükmü gereğince açıklama yapılarak mahkemece değerlendirilmesi hususu ilave edilerek bozma kararının genişletilmesine karar verildiği, yerel mahkemece karar düzeltme üzerine TMK'nun 693/2 maddesi hükmü uyarınca ilave edilen bozma gerekçesi ile bozma kararında belirtilen mükerrer ödemeye ilişkin bozma nedenlerine karşı ısrar kararı verildiği, diğer bozma nedenlerine uyularak yeni hüküm tesis edilmek suretiyle, kısmi ısrar kararı neticesinde verilen kararın; Hukuk Genel Kurulunca yeni hüküm olduğu gerekçesiyle Dairece incelenmek üzere dosyanın Daireye gönderildiği arlaşılmaktadır.
 
 Hemen belirtilmelidir ki, taşınmaz paylı mülkiyet üzere olup, kat mülkiyeti ve kat irtifakı kurulmayan birçok bölümleri muhtevi bir yapıdan ibarettir. Mahkemece TMK'nun paylı mülkiyet hükümlerini öngören 688 ve devamı maddeleri gereğince taşınmazda davacı tarafın kullanabileceği boş yerlerin olması sebebiyle davacı taraf yönünden intifadan men olgusu gerçekleşmediği gözetilerek dava tarihine göre boş olan yerler bakımından ve davalı şirketin bizatihi kullandığı yerler bakımından ecrimisil isteğinin reddine karar verilmiş olmasında bir isabetsizlik yoktur. Bu yöne değinen davacının temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 6. HD 2011/14671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059989000)
 
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -224,6 +280,8 @@ Dava konusu 127 ada 88 parsel nolu taşınmaz tapuda fındık bahçesi niteliği
 Mahkemece taraflarca taşınmazın uzun yıllardır eylemle paylaşıma uygun şekilde kullanıldığından bahisle davacının ortaklığın giderilmesi isteminin MK'nun 2.maddesinde düzenlenen iyiniyet kuralı ile bağdaşmayacağı gerekçesi ile davanın reddine karar verilmiş ise de, olayda, paylı mülkiyete tabi taşınmazda taraflardan birisinin ortaklığın giderilmesini istemesinde bir usulsüzlük bulunmamaktadır. Bu nedenle mahkemece esasa girilerek gerekli inceleme yapılıp sonucuna göre bir karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru olmadığından ükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/13526 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059437600)
 
 Dava bir adet taşınmazın paydaşlığının giderilmesi istemine ilişkindir.
 
@@ -235,6 +293,8 @@ Olayımıza gelince; Dava konusu taşınmazda davacı ... 3/8, davalı ... ise 5
 
 ## Yargıtay 6. HD 2011/10103 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060722300)
+
 Dava, 31 adet taşınmazda ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -244,6 +304,8 @@ Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan
 Olayımıza gelince; Davaya konu 152 ada 41-81 ve 85 parseller ile 154 ada 4 parsel ve 148 ada 47 parsellerde davacının murisleri tam mülkiyet hakkına sahip olmayıp, paylı mülkiyet hissesi bulunmaktadır. Diğer paylı mülkiyet sahibi paydaşlar davaya dahil edilmemiştir. Mahkemece davada taraf gösterilmeyen, paydaşların davaya katılımlarını sağlanarak davanın esası hakkında karar verilmesi gerekirken, taraf teşkili sağlanmadan bu parseller hakkında karar verilmesi doğru değildir. Hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 6. HD 2011/6854 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057846100)
 
 Dava, dört adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -255,6 +317,8 @@ Olayımıza gelince;dava konusu edilen ve satışına karar verilen Ankara İli,
 
 ## Yargıtay 6. HD 2011/4402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056305600)
+
 Dava, bir adet taşınmazda paydaşlığın giderilmesi istemine ilişkindir.
 
 …
@@ -265,6 +329,8 @@ Olayımıza gelince ; dava konusu edilen ve satışına karar verilen Çorlu İl
 
 ## Yargıtay 6. HD 2011/4024 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058915800)
+
 Dava, 90 ada 7 parsel sayılı taşınmazın paydaşlığının giderilmesi istemine ilişkindir.
 
 …
@@ -274,5 +340,7 @@ Paydaşlığın giderilmesi davasını ortaklardan biri veya bir kaçı diğer p
 Olayımıza gelince; dava konusu edilen ve satışına karar verilen 90 ada 2 parsel sayılı taşınmaz tapuda davacı ve ... kardeşi ... adına paylı mülkiyet esasına göre kayıtlıdır. Adı geçen davalı ... kardeşi ...'nin açık kimliği belli olmadığından dava, kendisine atanan kayyım huzuru ile yürütülmüş ise de Kütahya Sulh Hukuk Mahkemesi’nin 16.3.2005 gün ve 2004/1391 esas 2005/592 karar sayılı kararı ile ... kardeşi ...’nin mirasçısı bulunmadığından terekesinin Medeni Kanun’un 501. maddesi gereğince hazineye aidiyetine karar verilmiştir.
 
 ## Yargıtay 6. HD 2011/1410 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057617600)
 
 4721 sayılı Türk Medeni Kanununun 696. maddesi gereğince paydaşlıktan çıkarma kararı verilebilmesi için bir paydaşın tutum ve davranışlarıyla diğer paydaşların tümüne veya bir kısmına karşı olan yükümlülüklerini ağır suretle ihlal etmesi ve bu davranışı yüzünden müşterek mülkiyet ilişkisinin devamının çekilmez hale gelmesi gerekmektedir. Maddede bahsedilen yükümlülüklerin ağır surette ihlali deyiminden kusurun özel bir yoğunlukta ve önemde bulunması amaçlanmıştır. Ağır surette ihlal unsurunun gerçekleşebilmesi için, paydaşın kasten ve bilerek müşterek mülkiyet ilişkisinin devamını çekilmez hale getirmesi gerekir.

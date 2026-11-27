@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2014/496 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84033500)
+
 Davalı G.. B.. cevabında, ecrimisilden diğer belediyenin sorumlu olduğunu beyan etmiştir.
 
 …
@@ -42,6 +44,8 @@ Somut olayda; dava konusu 52 ada 5 parsel sayılı taşınmazda davacıların 20
 SONUÇ : Davalı K.. B.. vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6217 sayılı Kanunun 30.maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429. Maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2009/552 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77071000)
 
 Mahkemece, davanın kısmen kabul kısmen reddine karar verilmiştir.
 
@@ -69,6 +73,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararını
 
 ## Yargıtay HGK 2008/138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76614800)
+
 Dava, haksız kullanım nedeniyle tazminat istemine ilişkindir.
 
 …
@@ -80,6 +86,8 @@ Davacı ve müdahil davacı; davalıların murisi ile davacı arasında düzenle
 S O N U Ç : Davacı ve asli müdahil vekillerinin temyiz itirazlarının kabulü ile, direnme kararının yukarıda gösterilen nedenlerden dolayı H.U.M.K.nun 429.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2006/816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77193500)
 
 Dava konusu edilen bahçenin anataşınmazın ortak yerlerinden olduğunda kuşku ve tartışma yoktur. Kat Mülkiyeti Yasasının 16.maddesi hükmü uyarınca kat malikleri; anataşınmazın bütün ortak yerlerine arsa payları oranında ortak mülkiyet hükümlerine göre maliktirler ve bu yerlerden yararlanma hakkına sahiptirler. Kat Maliklerine tanınan bu kullanma ve yararlanma hakkı, onların bağımsız bölümlerinde kira sözleşmesine veya kullanma hakkına ya da başka bir nedene dayanarak sürekli olarak oturanlara da tanınmış bulunmaktadır.
 
@@ -107,6 +115,8 @@ Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararıyla dos
 B. Davalı ... vekilinin kamulaştırmasız el atma tazminatı yönünden yerinde görülmeyen tüm temyiz itirazlarının reddi ile temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2026/5512 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206179900)
 
 Davacılar vekili dava dilekçesinde özetle; müvekkillerinin İzmir ili, ... ilçesi, .... Mahallesi 33 82... parsel sayılı taşınmazın maliki olduklarını, davalı idare tarafından yol yapılmak suretiyle taşınmaza kamulaştırmasız olarak el atıldığını, bu güne kadar ne müvekkillerinin murisine ne de müvekkillerine herhangi bir bedel ödenmediğini, davalı idarece dava konusu taşınmaza el atılması sebebiyle müvekkillerini mülkiyet hakkının ihlal edildiğini, taşınmazın kullanımının engellendiğini ileri sürerek kamulaştırmasız el atma tazminatı ile ecrimisil bedelinin el atma tarihinden itibaren işleyecek temerrüt faizi ile birlikte davalı idareden tahsiline karar verilmesini talep etmiştir.
 
@@ -156,6 +166,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyl
 
 ## Yargıtay 5. HD 2026/22 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209015100)
+
 Davacı vekili dava dilekçesinde özetle; dava konusu taşınmaza davalı idare tarafından kamulaştırılmadan yol yapılmak suretiyle fiilen el atıldığını, taşınmazın kamulaştırılması ya da tahsis amacına uygun işlem yapılması talebiyle davalı idareye başvuruda bulunmalarına rağmen ret cevabı aldıklarını, müvekkilinin söz konusu taşınmaz üzerindeki tasarruf hakkını ortadan kaldırıldığını, taşınmazın kamulaştırmasız fiilen el atılan alanı için öncelikle müdahalenin önlenmesini talep ettiklerini, işbu taleplerinin karşılanamaması halinde kamulaştırmasız el atma karşılığının davalı kurumdan tahsili ile ecrimisil bedeli ödenmesini talep etmiştir.
 
 …
@@ -171,6 +183,8 @@ Valiliğinin yazısında dava konusu yolun ... İl Özel İdaresi tarafından ya
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/18015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206182000)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -194,6 +208,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 5. HD 2025/17239 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201730800)
+
 Davacı vekili dava dilekçesinde özetle; müvekkilinin maliki olduğu .. ili, ... ilçesi, .. Mahallesi 3 30... parsel sayılı taşınmaza davalı idare tarafından el atıldığını, kamulaştırma yapılmaksızın el atılan taşınmazın bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -209,6 +225,8 @@ Davalı idare vekili cevap dilekçesinde özetle; davanın reddine karar verilme
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/13761 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185428200)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -230,6 +248,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 5. HD 2025/11758 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178350300)
+
 Davacı vekili dava dilekçesinde özetle; dava konusu .... ili, ..., Mahallesi 112 parsel sayılı taşınmazın kıyı kenar çizgisi içinde kaldığından uğramış olduğu zarar ile ecrimisil bedelinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalı Hazineden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -246,6 +266,8 @@ oluşu, davalı idarece yapılan işlemin ise tapu kaydına şerh koymaktan ibar
 Davalı ... vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesi birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/11245 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175623900)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2012/15105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79577000)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup, mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -31,6 +33,8 @@ O halde, davacıların miras payı oranında davanın tüm bağımsız bölümle
 
 ## Yargıtay 1. HD 2012/13482 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79408700)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -38,6 +42,8 @@ Dava, elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 Hemen belirtilmelidir ki; ecrimisil, taşınmazı haksız olarak elinde bulunduran kimsenin mülkiyet sahibine (malike) ödemekle yükümlü bulunduğu, en azı kira geliri en çoğu mahrum kalınan gelir kaybı olan haksız işgal tazminatıdır. Somut olayda; çekişmeye konu taşınmazlardan 6 ve 570 parsel sayılı taşınmazların yarısının davalının tasarrufunda olduğu dosya kapsamı ile sabit olup esasen bu durum mahkemenin de kabulünde olduğuna göre; her iki parselin yarısının getirdiği en azı kira bedeli, en fazlası mahrum kalınan gelir kaybı üzerinden, davacının payı oranında saptanacak haksız işgal tazminatı niteliğindeki ecrimisile hükmedilmesi gerekirken, yanılgılı değerlendirme ile taşınmazın yarısına isabet eden değer üzerinden fazla ecrimisile karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2012/12219 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79263900)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteğine ilişkindir.
 
@@ -49,6 +55,8 @@ Somut olayda; paydaşlar arasında birfiil kullanma biçimi ya da özel parselas
 
 ## Yargıtay 1. HD 2012/12106 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79244400)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -58,6 +66,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkind
 Hal böyle olunca; taşınmazda pay satın aldığı tarihten dava tarihine kadar davacının payı oranında belirlenen ecrimisilin de hüküm altına alınması gerekirken yanılgılı değerlendirme ile yazılı olduğu karar verilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2012/12004 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79235600)
 
 Dava; elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup mahkemece davanın kabulüne karar verilmiştir.
 
@@ -71,12 +81,16 @@ Diğer taraftan, 5 ve 6 nolu dükkan niteliğindeki bağımsız bölümler yön�
 
 ## Yargıtay 3. HD 2012/11578 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549922000)
+
 Dosya kapsamından dava konusu taşınmazın tapu kaydına göre davacının 28/70, davalının ise 192/8400 payının bulunduğu, tarafların taşınmaza müşterek malik oldukları, taşınmazda üçüncü kişilerin de paylarının bulunduğu anlaşılmaktadır.Hükme esas alınan bilirkişi raporunda; davalının tapu kaydına göre 49,33 m2 yere sahip olduğu ancak payından fazla işgal ettiği 22,68 metrekare üzerinden davacının hissesine düşen miktar üzerinden 1.588,10 TL ecrimisilin hesaplandığı görülmektedir.TMK.mad. 693’e göre: “Paydaşlardan herbiri, diğerlerinin hakları ile bağdaştığı ölçüde paylı maldan yararlanabilir ve onu kullanabilir”. Buna göre, her paydaşın, müşterek mülkiyet konusu şeyin tamamı (veya bir kısmı) üzerinde yararlanma hakkı bulunmaktadır. Bu hak, ne mekân (yer), ne de zaman itibariyle sınırlandırılmıştır. Fakat paydaşlar, bu hususta değişik düzenlemeler getirebilirler. Zira, yasa, yalnızca her paydaşın kullanma ölçüsünü belirtmiştir.
 Kullanma olanağı sınırsız değilse (müşterek mülkiyet konusu bir apartmandaki asansörden yararlanma gibi), paydaşların örneğin yerce bölünmüş ya da zamanla değişen bir kullanma anlaşmasıyla kullanmanın biçiminde uyuşmaları gerekir.Açıktır ki, sözkonusu yararlanma, ancak, diğer paydaşların haklarına saygı gösterildiği oranda hukuksal himaye görecektir. Nitekim, Medeni Kanun da, yararlanma hakkının, “diğer paydaşların hakları ile bağdaştığı ölçüde” mevcut bulunduğunu kesin bir biçimde belirtmiştir (TMK.mad.693). Kaldı ki TMK.mad.2 hükmü gereğince de bu sonuca ulaşılacaktır.Paya uyan bir belirtme ve sınırlandırma olmadığı takdirde, her paydaşın, öbürlerine zarar vermemesi kaydıyla taşınmazı kullanma hakkı vardır. Bu hakkın ölçüsü ise, her somut olayda durumun özellliğini gözönünde tutarak araştırılmak gerekir.
 
 TMK’nun 993-995 madde hükümleri tarafından düzenlenmiş ve uygulamada “ecrimisil” olarak isimlendirilen bir istemin de bulunduğu kabul edilen yasal tasfiye rejimi, halihazır zilyedin, iadesi istenen taşınmaz (nesne) üzerinde, iadeyi engelleyecek bir hakka sahip olmamasını gerektirir.Somut olayda taraflar taşınmazın hissedarları olup, davalının 72 m2 yer kullandığı konusunda ihtilaf bulunmamaktadır. Davacının toplam payı 28/70, davalının payı ise 192/8400'dür. Bu durum karşısında mahkemece, davalının kullandığı 72 m2'lik taşınmazda, davacının payına düşen ecrimisil miktarı belirlenerek, bu bedele hükmedilmesi gerekirken, hükme esas alınan bilirkişi raporuna dayanılarak davalının hissesinden fazla kullandığı 22,68 m2'lik kısımda davacının payının hesaplanması suretiyle ecrimisile hükmedilmesi doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/6407 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79219800)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -86,6 +100,8 @@ Bu durumda, paydaş olan davalı H. hakkındaki elatmanın önlenmesi isteğinin
 
 ## Yargıtay 1. HD 2012/5886 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79158900)
+
 Dava; çaplı taşınmaza elatmanın önlenmesi, ecrimisil isteklerine ilişkindir.
 
 …
@@ -93,6 +109,8 @@ Dava; çaplı taşınmaza elatmanın önlenmesi, ecrimisil isteklerine ilişkind
 Bu durumda değinilen yasal düzenleme ve yargısal uygulamaya göre pay ve paydaş çoğunluğuna dayanmayan kira sözleşmelerine geçerlilik tanıma olanağı olmadığı gibi davalının dava dışı paydaş ile yaptığı kira sözleşmenin davacı paydaşı bağlamayacağı, davacı yanın davanın açıldığı tarihten geriye dönük 5 yıllık ecrimisil talep ettiği ve davalının da taşınmazların tamamının 2006 yılına kadar (2006 yılı dahil olmak üzere) kullandığı dosya kapsamı ile sabit olduğuna göre ecirmisil isteği bakımından davacının payı oranında bilimsel verilere uygun olarak belirlenecek ecrimisile karar verilmesi gerekirken davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2012/3938 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79468400)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup mahkemece, elatmanın önlenmesi isteğinin reddine, ecrimisil isteğinin kısmen kabulüne karar verilmiştir.
 
@@ -102,6 +120,8 @@ Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkin
 
 ## Yargıtay 1. HD 2012/1272 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78976300)
+
 Dava , çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -109,6 +129,8 @@ Dava , çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişk
 Hal böyle olunca; davacı Y.. bakımından ecrimisil isteğinin reddine , diğer davacı Ö.. yönünden ise istek de gözetilmek suretiyle ihtarnamenin davalı tarafa tebliğ tarihinden dava tarihine kadar olan süre için belirlenecek ecrimisilin Ö..'in payı oranında kabulüne karar verilmesi gerekirken yazılı olduğu üzere hüküm kurulmuş olması isabetsiz olduğu gibi ; kısa kararda faize yer verilmediği halde gerekçeli kararda ecrimisile faiz tahakkuk ettirilerek kısa karara çelişkili olacak şekilde gerekçeli karar oluşturulması da doğru değildir. Bilindiği üzere kısa karar ve gerekçeli karar çelişkisi kamu düzeni ile ilgili olup; davacıların temyizi bulunmamakla beraber re'sen gözetilmesi gereken bir husustur.
 
 ## Yargıtay 1. HD 2011/12106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79182000)
 
 Dava, çaplı taşınmaza hem doğrudan tecavüz nedeniyle elatmanın önlenmesi ve ecrimisil, hem de davalılara ait araçların çıkardığı toz nedeniyle taşınmazda oluştuğu iddia edilen verim kaybı nedeniyle maddi ve manevi tazminat isteklerine ilişkindir.
 
@@ -120,10 +142,14 @@ Ne var ki, davacılardan A. çekişme konusu taşınmazlarda 2005 yılında payd
 
 ## Yargıtay 1. HD 2011/9616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918240200)
+
 Davanın kısmen kabul, kısmen reddine dair verilen karar, Dairece; “...
 Davacıların payı oranında elatmanın önlenmesine karar verilmiş olmasında bir isabetsizlik bulunmadığı, ancak, taşınmazlar paylı mülkiyet hükümlerine tabi ve taraflar paydaş olup, 20 yıla yakın bir süredir taşınmazları davalıların kullandığı, davacıların bu kullanım tarzına karşı çıkmadıkları, davalı tarafa bir ihtar veya uyarı yapmadıkları, buna göre taraflar arasında Borçlar Kanunu'nun 299. maddesi hükmü uyarınca ariyet sözleşmesinin yapıldığı ve süresiz olan bu zımni sözleşmeyi davacıların; aynı yasanın 304. maddesi hükmü gereğince dava açmakla feshettiklerini kabul etmek gerektiği, buna göre de davalıların haksız işgalci (fuzuli şagil) olduklarını söyleyebilme olanağı bulunmadığı, öyle ise, fuzuli şağil'in arsa maliki veya paydaşına taşınmazı kullanmasından dolayı ödemekle mükellef olduğu haksız işgal tazminatı niteliğindeki ecrimisilden davalı tarafın sorumlu tutulamayacağının tartışmasız olduğu, hal böyle olunca; ecrimisil isteği bakımından davanın reddine karar verilmesi gerektiği, ” hususlarına değinilerek bozulmuş, mahkemece bozma ilamına uyularak, ecrimisil isteği yönünden davanın reddine karar verilmiştir.
 
 ## Yargıtay 1. HD 2011/1416 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78825200)
 
 Dava; elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup çekişme konusu yeri davalının, kayıttan ve mülkiyetten kaynaklı hakkı bulunmadığı halde kullanmak suretiyle müdahale ettiği belirlenerek elatmanın önlenmesine ve belirlenen ecrimisile hükmedilmiş olmasında kural olarak bir isabetsizlik yoktur.
 
@@ -131,9 +157,13 @@ Ancak davacı çekişmeli yere bağlantılı olarak 18.09.2009 tarihinde pay sat
 
 ## Yargıtay 3. HD 2010/16561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967522000)
+
 O halde mahkemece, ecrimisile esas olacak veriler resmi mercilerden (İlçe Tarım Müd. Şeker fabrikaları vb.) getirtilip, ürün münavebesi ve masrafı gözönünde bulunduran, her yıl için davacı payına düşen (62 dekar) miktarı o yıl ki ürüne göre ayrı ayrı hesaplayan ek zirai bilirkişi raporu alınarak sonucuna göre karar vermek gerekirken yazılı şekilde eksik incelemeye dayalı hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 1. HD 2009/8265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78491200)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -143,9 +173,13 @@ Hal böyle olunca; davacının paydaşı olduğu, tasarruf edebileceği bir yer 
 
 ## Yargıtay 14. HD 2009/7674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845751700)
+
 Mirasçılık belgesine göre ortak mirasbırakan 30.04.1985 yılında ölmüştür. Taraflar dışında başkaca mirasçıları da bulunmaktadır. Bu saptamaya göre davacının da yapıda miras yoluyla geçen payı bulunmaktadır. Mahkemece, ecrimisil isteminde olduğu gibi elatmanın önlenmesi isteminin de miras payı oranında kabulü gerekirken bu yönün gözden kaçırılması doğru olmamış, kararın bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2009/1251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78214600)
 
 Dava, paylı mülkiyet üzere olan taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -156,6 +190,8 @@ Kaldı ki, Türk Medeni Kanununun 706., Borçlar Kanununun 213 ve 2644 Sayılı 
 
 ## Yargıtay 1. HD 2008/6207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78134800)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -164,11 +200,15 @@ Oysa mahkemece, anılan bu olgular gözardı edilmek suretiyle davalının tümd
 
 ## Yargıtay 1. HD 2007/7304 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78411500)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil;birleşen dava ise, muhtesatın aidiyetinin tespiti isteklerine ilişkin olup; mahkemece hükmüne uyulan bozma kararında gösterildiği kapsamında araştırma ve inceleme yapılarak davadan önce çekişmeli taşınmazın tamamını davalının kullandığı, ancak yargılama aşamasında davacıların da kullanımına bıraktığı yer bulunduğu başka bir deyişle davacılar yönünden intifadan men olgusunun gerçekleşmediği belirlenmekle; elatmanın önlenmesi davasının konusuz kalması karşısında, bu istek bakımından karar verilmesine yer olmadığına şeklinde hüküm kurulması gerekirken davanın reddedilmiş olması doğru değildir.
 
 Öte yandan, dava tarihine kadar çekişmeli taşınmazı tamamının davalı tarafından kullanıldığı, davalının 7.4.2005 tarihli beyanıyla sabittir.O halde, davalının bu beyanı ile 21.1.1999 tarihli ihtarname gözetilmek suretiyle, davacıların payına isabet edecek ecrimisilin belirlenerek hüküm altına alınması gerekirken, yanılgılı değerlendirmeyle bu istek yönünden de davanın reddine karar verilmiş olması isabetsizdir.Ayrıca dava konusu taşınmaz Türk Medeni Kanununun 688. ve devam eden maddelerinde öngörüldüğü üzere paylı mülkiyet hükümlerine tabi olup, tarafların paydaş bulunduğu kayden sabittir.Davalının taşınmaz üzerine yapmış olduğu binanın Türk Medeni Kanununun 684.maddesi uyarınca arzın mütemmin cüzü olacağı ve arzın mülkiyetine tabi bulunduğu tartışmasızdır.
 
 ## Yargıtay 1. HD 2007/6918 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78369800)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -177,5 +217,7 @@ Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkin
 Hal böyle olunca, tümü davalı tarafından kullanılan çekişmeli taşınmaz yönünden davacıların payı oranında elatmanın önlenmesi ve belirlenecek ecrimisile karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı biçimde hüküm kurulması doğru değildir.Davacıların bu yöne değinen temyiz itirazları yerindedir.Kabulüyle hükmün HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 14.6.2007 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 14. HD 2006/3681 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857057600)
 
 Tecavüz edilen alan için müşterek paydaşlardan herbiri Türk Medeni Kanununun 693/3 maddesi gereğince diğerlerini temsilen dava açabilir. Bu kural gereğince müdahalenin men'ine ilişkin talep bölünemez olup bu konuda mahkemece verilen hüküm doğru ise de, ecrimisile ilişkin talep bölünebilir menfaatlerden olup aynı madde ve fıkra hükümleri gereğince paydaşların bu istem hakkında diğerini temsilen hareket etmeleri mümkün bulunmadığından ecrimisile hükmedilirken, sadece davacının payına isabet eden miktarın hüküm altına alınması gerekirken elatılan yer için hesaplamış ecrimisilin tümü hakkında hüküm kurulması doğru görülmemiş, kararın bu nedenle bozulması gerekmiştir.

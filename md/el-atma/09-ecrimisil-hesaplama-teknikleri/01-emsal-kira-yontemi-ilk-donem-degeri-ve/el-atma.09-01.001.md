@@ -208,6 +208,8 @@ Davacılar ve davalı ... Genel Müdürlüğü vekillerinin yerinde görülmeyen
 
 ## Yargıtay 5. HD 2025/18015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206182000)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -230,6 +232,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 5. HD 2025/15444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197227400)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın ... yönünden ksımen kabulüne, davalı ... yönünden ise reddine karar verilmiştir.
 
 …
@@ -251,6 +255,8 @@ Davalı ... vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle 
 
 ## Yargıtay 5. HD 2025/12255 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176986700)
+
 Davalı idare vekili cevap dilekçesinde özetle; davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -262,6 +268,8 @@ Mahallesi 653 ada 5 parsel sayılı emsal taşınmazın satış tarihinin dava t
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin ikinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/8485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199614100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; müdahelenin meni ve kal talebinin kabulüne, ecrimisil talebinin ise kısmen kabulüne karar verilmiştir.
 
@@ -278,6 +286,8 @@ Dairemizce yapılan temyiz incelemesi sonucunda; el atmanın önlenmesi, kal tal
 Taraf vekillerinin temyiz itirazları yerinde olduğundan temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/7175 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181259200)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -299,6 +309,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 5. HD 2025/928 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139016300)
+
 Mahkemece bozma kararına uyularak yapılan yargılama sonunda, davanın kabulüne karar verilmiştir.
 
 …
@@ -318,6 +330,8 @@ Dairemizce yapılan inceleme sonucunda; dava konusu taşınmaza değer biçilirk
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2025/206 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132101100)
 
 İlk Derece Mahkemesince bozma kararına uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 

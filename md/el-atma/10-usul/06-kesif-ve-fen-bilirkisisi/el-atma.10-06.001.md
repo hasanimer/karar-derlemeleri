@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/1737 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/867753500)
+
 Davacılar vekili dava dilekçesinde; müvekkillerinin ... ili ... ilçesi ... mahallesi 758 ada 45 parselde kayıtlı 2.471 m2’lik taşınmazın maliki olduğunu, taşınmazın tamamının yolda kaldığını, davalı idarenin bu yer için kamulaştırma işlemi yapmadığı gibi müvekkillerine de herhangi bir ücret ödenmediğini ileri sürerek fazlaya ait hak ve talepleri saklı kalmak kaydıyla 10.000TL tazminatın yasal faizi ile birlikte davalı idareden alınarak müvekkillerine ödenmesine karar verilmesini talep etmiş, 26.04.2013 harç tarihli ıslah dilekçesi ile talebini artırmıştır.
 
 …
@@ -36,6 +38,8 @@ Hâl böyle olunca kamulaştırma işlemine ilişkin noter tebligatının malike
 Davalı idare vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında belirtilen nedenlerden dolayı, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun Geçici 3. maddesine göre uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2016/804 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232840100)
 
 Dava, kamulaştırmasız el konulan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -64,6 +68,8 @@ S O N U Ç : Davalı ... Müdürlüğü vekilinin temyiz itirazlarının kabulü
 
 ## Yargıtay HGK 2014/93 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84021300)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiş, hüküm davalı şirket vekilince temyiz edilmiştir.
@@ -83,6 +89,8 @@ Tarafların karşılıklı iddia ve savunmalarına, dosyadaki tutanak ve kanıtl
 S O N U Ç: Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Dairenin bozma kararında gösterilen nedenlerden dolayı 6217 sayılı Kanunun 30.maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2001/143 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16138100)
 
 Mahkemece bozmaya uyulduktan sonra yapılan araştırma, inceleme ve uygulama dahi hüküm kurmaya yeterli değildir. Dava ve hüküm tarihinde yürürlükte bulunan 3402 sayılı Kadastro Yasasının 27/3. maddesinde Asliye Mahkemesinden aktarılan ve henüz kesinleşmemiş olan davalara kaldıkları noktadan bu yasada öngörülen esas ve usul dairesinde devam olunacağı hükme bağlandığına göre, öncelikle Asliye Mahkemesinde davaya konu edilen yerin 103 ada 12 parsel olup olmadığının keşfen belirlenmesi gerekir. Mahkemece bu yönde herhangi bir belirleme yapılmamıştır. Diğer taraftan bozma ilamındaki kabulün aksine Haziran 1289 tarih 63 nolu tapu kaydı ile 1937 tarih 124 tahrir nolu vergi kaydının dava konusu taşınmazla dava dışı 11 ve 13 nolu parsellere aidiyeti keşfen saptanmadığı gibi, tarafların bu konuda açık bir kabulleri de bulunmamaktadır.
 Hükmüne uyulan bozma ilamında H ve CT dışındaki tesbit bilirkişileri ile İA'ın dinlenerek, taşınmazın tapu maliki M'ten İA tarafından mı satın alındığı, yoksa DA'a mı ait olduğu konusunda olaylara dayalı olarak bilgilerinin alınması özellikle tutanak bilirkişileri ile duruşmada dinlenen tanık sözleri arasındaki çelişkinin giderilmesi, bu arada taşınmazda kimin hangi tarihten beri zilyet olduğu ve zilyetliğin sürdürülüş biçiminin sorulması gereğine değinildiği halde HT, KA ve NK'nın dinlenilmeleriyle yetinilmiş, başkaca araştırma yapılmamış, adı geçenlerin ifadeleri arasındaki çelişkinin giderilmesine dahi çalışılmamıştır. Bozma ilamına uyulmakla lehine olan taraf yararına usulü kazanılmış hak, mahkemeye de bozma gereklerini tam anlamıyla yerine getirme yükümlülüğü doğar. Mahkemece bu yönler dikkate alınmaksızın yazılı olduğu üzere eksik incelemeye dayalı hüküm tesis edilmiş olması doğru değildir.
@@ -164,6 +172,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 5. HD 2025/14423 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186315200)
+
 Davalı idare vekili cevap dilekçesinde özetle; dava konusu taşınmaza kurumları tarafından el atıldığı iddia edilmiş ise de, ancak bu durumun keşifte ortaya çıkacağını, keşif ve dosya arasına istenecek emlak vergi değeri ile yapılacak emsal araştırması neticesinde arsanın yaklaşık değeri hesaplanabileceğini, dava konusu parselin üzerinden yol geçirilmesinin söz konusu parsellere kattığı değerin ve yine inşaata elverişli olup olmadığı hususları da değerlendirilerek ileride yapılacak hesaplama göz ardı edilmeden hesaplama yapılması gerektiğini beyan etmiştir.
 
 …
@@ -175,6 +185,8 @@ Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararıyla 294
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/14036 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183265000)
 
 Davacı vekili dava dilekçesinde özetle; Ankara ili, ..., ... Mahallesi ... parsel sayılı taşınmaz imar planında ''... alanı'' olarak ayrıldığından kamulaştırmasız el atılan taşınmaz bedelinin tahsilini talep etmiştir.
 
@@ -194,6 +206,8 @@ tutulduğu, taşınmazın alanı ve imar durumu da dikkate alındığında sorum
 
 ## Yargıtay 5. HD 2025/12929 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186552500)
+
 Davacı vekili asıl ve birleştirilen davada dava dilekçelerinde özetle; davacının ... ili, ... ilçesi, Aşağı Mahallesi 5 24... ve 6 parsel sayılı arsa vasıflı taşınmazların maliki olduğunu, müvekkilinin parsellerine davalı ... tarafından fiilen el atıldığı yol ve kaldırım olarak kullanıldığını ileri sürerek fazlaya ilişkin hakları saklı kalmak kaydı ile 10.000,00 TL kamulaştırmasız el atma bedelinin davalıdan tahsiline karar verilmesini, birleştirilen davada ise ... Belediye Başkanlığının taşınmaza ... Büyükşehir Belediyesi tarafından el atıldığını ileri sürmesi nedeniyle davalı ...
 
 …
@@ -209,6 +223,8 @@ Başkanlığının yetki ve sorumluluk alanında kaldığı ve husumetin doğru 
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2025/8948 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171450900)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -230,6 +246,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyl
 
 ## Yargıtay 5. HD 2025/8682 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199655500)
+
 Davacılar vekili dava dilekçesinde özetle; ... ili, ..., Mahallesi 2 62... parsel sayılı 7,136,00 m² yüzölçümlü taşınmazın 2.894,00 m²lik kısmının yola terkin edildiğini, 3.514,00 m²lik kısmının ... Mahallaesi 10 12... nolu parsele gittiğini, 725,00 m²lik kısmına ise kamulaştırma yapılmadan ... tarafından ... Parkı yapılmak suretiyle fiilen el atıldığını ileri sürerek kamulaştırmasız el atma nedeniyle tazminatın ve ecrimisilin davalıdan tahsilini talep etmiştir …
 
 …
@@ -247,6 +265,8 @@ Başkanlığından sorulduktan, şuyulandırma öncesi ve sonrası çaplı kroki
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 1. HD 2025/5875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191029100)
 
 Davacı ... vekili dava dilekçesinde; kadastro sırasında taşlık olarak tescil harici bırakılan dava konusu 29.000 metrekare yüz ölçümlü tapusuz taşınmazın kayınpederi ... tarafından imar-ihya edilerek 50 yıldır tarım arazisi olarak kullanıldığını, 1991 yılında ölmesi üzerine mirasçılar arası taksim ile eşi ve davacıya düştüğünü, davacının da kadastro çalışmalarından beri 30 yıldır tarım arazisi olarak kullandığını ileri sürerek dava konusu tapusuz taşınmazın davacı adına tescilini talep etmiş, dava sırasında kayınpederi ... mirasçıları davaya yazılı muvafakatlerini sunmuş, dava sırasında davacı ...'nün ölümü üzerine tüm mirasçıları vekâlet sunmak suretiyle davayı takip etmiş, dava dilekçesinde davalı gösterilen ... köyünün tüzel kişiliğinin kaldırılarak idari yönden kendisine bağlandığı Melikgazi Belediyesi davaya dahil edilmiş, taşınmazın karayoluna komşu olması sebebiyle ... davaya dahil edilmiş, dava dilekçesinde davalı gösterilen ...
 

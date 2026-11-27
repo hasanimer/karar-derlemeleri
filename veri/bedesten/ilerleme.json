@@ -1,10 +1,10 @@
 {
- "baglanti_mrfg_id": 37363,
+ "baglanti_mrfg_id": 47129,
  "bedesten_kontrol": {
-  "tutar": 80
+  "tutar": 100
  },
- "bedesten_kontrol_edilen": 80,
- "cok_aday": 23,
+ "bedesten_kontrol_edilen": 100,
+ "cok_aday": 26,
  "derleme": {
   "adi-ortaklik": {
    "eslesmedi": 116,
@@ -25,13 +25,25 @@
    "eslesmedi": 351,
    "kesin": 3396
   },
+  "bosanma": {
+   "eslesmedi": 10,
+   "kesin": 306
+  },
   "cisg": {
    "eslesmedi": 1,
    "kesin": 21
   },
+  "ecrimisil": {
+   "cok_aday": 1,
+   "eslesmedi": 85,
+   "hatali_kunye": 1,
+   "kesin": 3309
+  },
   "el-atma": {
-   "eslesmedi": 135,
-   "kesin": 3033
+   "cok_aday": 1,
+   "eslesmedi": 239,
+   "hatali_kunye": 1,
+   "kesin": 6049
   },
   "fidic": {
    "kapsam_disi": 88,
@@ -65,6 +77,12 @@
    "kesin": 45,
    "olasi": 38
   },
+  "ortakligin-giderilmesi": {
+   "cok_aday": 1,
+   "eslesmedi": 29,
+   "kapsam_disi": 1,
+   "kesin": 3135
+  },
   "tapu-tescil": {
    "eslesmedi": 93,
    "kapsam_disi": 3,
@@ -80,40 +98,40 @@
    "kesin": 142
   }
  },
- "eslesmedi": 2324,
- "hatali_kunye": 27,
- "islenen": 40000,
- "kapsam_disi": 182,
+ "eslesmedi": 2552,
+ "hatali_kunye": 29,
+ "islenen": 50000,
+ "kapsam_disi": 183,
  "kaynak": "hf:mrfg/turkish-court-decisions@e9062174adcdee8386b94cebd01df7264268e86b",
  "nedenler": {
-  "2_aday": 23,
+  "2_aday": 26,
   "alinti_kismen_uyuyor": 5,
   "alinti_uyusmuyor": 8,
   "alinti_yok": 74,
   "esas_veya_tarih_uyusmuyor": 245,
-  "hatali_kunye": 27,
-  "kapsam_disi": 182,
+  "hatali_kunye": 29,
+  "kapsam_disi": 183,
   "kisa_alinti": 2,
-  "veri_setinde_anahtar_yok": 2071
+  "veri_setinde_anahtar_yok": 2299
  },
  "olasi": 81,
- "son_checkpoint": "parti 04 (30001-40000) 2026-11-27T18:27:14",
- "son_commit": "6bfe427 Bedesten: batch 03 — 10,000 processed, 9,201 linked (mrfg_id), 20 Bedesten-checked",
- "son_push": "6bfe427",
+ "son_checkpoint": "parti 05 (40001-50000) 2026-11-27T18:33:48",
+ "son_commit": "ac0e437 Bedesten: batch 04 — 10,000 processed, 9,539 linked (mrfg_id), 20 Bedesten-checked",
+ "son_push": "ac0e437",
  "toplam_kunye": 133954,
  "tur": {
   "aym": {
-   "kapsam_disi": 94
+   "kapsam_disi": 95
   },
   "bam": {
-   "eslesmedi": 1053,
+   "eslesmedi": 1082,
    "hatali_kunye": 15,
-   "kesin": 5653,
+   "kesin": 5832,
    "olasi": 3
   },
   "danistay": {
    "eslesmedi": 169,
-   "kesin": 1290
+   "kesin": 1292
   },
   "ilk-derece": {
    "kapsam_disi": 3
@@ -122,13 +140,13 @@
    "kapsam_disi": 85
   },
   "yargitay": {
-   "cok_aday": 23,
-   "eslesmedi": 1102,
-   "hatali_kunye": 12,
-   "kesin": 30420,
+   "cok_aday": 26,
+   "eslesmedi": 1301,
+   "hatali_kunye": 14,
+   "kesin": 40005,
    "olasi": 78
   }
  },
  "url_bicimi": "https://mevzuat.adalet.gov.tr/ictihat/{documentId}",
- "yuzde": 29.86
+ "yuzde": 37.33
 }

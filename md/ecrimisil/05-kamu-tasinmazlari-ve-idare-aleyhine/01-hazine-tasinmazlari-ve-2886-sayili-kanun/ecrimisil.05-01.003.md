@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2013/18426 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145126700)
+
 Kadastro Kanunu'nun 14. maddesinde öngörülen kısıtlamalar da dikkate alınarak yeterli biçimde zilyetlik araştırması yapılmalı, yine davacı ...'nin dayandığı ecrimisil belgesi ve krokilerinin dava konusu taşınmaza ait olup olmadığı sorulup saptanmalı, zilyetliğin başlangıç günü, süresi ve sürdürülüş biçimi hakkında yerel bilirkişi ve tanıklardan olaylara dayalı bilgi alınmalı, taşınmazın özel kanunları gereği hazineye intikal eden taşınmazlardan olup olmadığı bu bağlamda kaçak-yitik kişilerden kalıp kalmadığı da araştırılmalı, taşınmazın kaçak-yitik kişilerden Hazineye intikal eden taşınmazlardan olduğunun anlaşılması halinde bu nitelikteki taşınmazlar üzerinde sürdürülen zilyetliğin süresi ne kadar olursa olsun hukukça bir değer ifade etmeyeceği düşünülmeli, tespit tutanağı bilirkişilerinin beyanları ile yerel bilirkişi ve tanık beyanları arasında aykırılık bulunduğu takdirde tespit tutanağı bilirkişileri de taşınmaz başında ayrı ayrı dinlenerek, çelişki giderilmeli, uzman bilirkişiden keşfi izlemeye, bilirkişi sözlerini denetlemeye imkan verecek şekilde ayrıntılı, gerekçeli rapor alınmalı, ziraatçi bilirkişiden taşınmazın özelliğini, niteliğini, eğimini, toprak yapısını, bitki
 örtüsünü, kullanım durumunu, komşu parseller ile arasında ayırıcı unsur olup olmadığını belirtir, bilimsel verilere dayalı ayrıntılı ve gerekçeli, jeoloji mühendisinden ise taşınmazın aktif çay yatağında kalıp kalmadığı, kültür arazisi olup olmadığı yönünde ayrıntılı rapor alınmalı taşınmazın farklı yön ve açılardan fotoğrafları çektirilmeli, mahkemece yapılacak gözlem tutanağa geçirilmeli, bundan sonra toplanan ve toplanacak tüm deliller birlikte değerlendirilerek sonucuna uygun bir karar verilmelidir.
 
 ## Yargıtay 6. HD 2013/13165 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537569200)
 
 Dava, kiracılığın tespiti ve muarazanın meni istemine ilişkindir.
 
@@ -35,11 +39,15 @@ Davada dayanılan ve hükme esas alınan 14.06.2007 başlangıç tarihli 5 yıl 
 
 ## Yargıtay 16. HD 2013/6059 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508593200)
+
 Davaya konu 133 ada 6 sayılı parselle ilgili temyiz itirazlarına gelince; mahkemece bu parselin krokisinde (A) ve (B) harfi ile gösterilen bölümler yönünden; davacılar yararına zilyetlikle mülk edinme şartlarının gerçekleştiği kabul edilmek suretiyle hüküm kurulmuştur. ... tespit tutanağında davacıların ecrimisil ödeyerek kullandıkları belirtildiği halde ecrimisile ilişkin belgeler getirtilmemiş, davacıların ecrimisil ödeyip ödemedikleri, ödeme varsa icra tehdidi altında olup olmadığı araştırılmamış, davacıların zilyetliğinin başlangıcı ve süresi hakkındaki beyanlar arasında çelişki bulunduğu halde giderilmemiş, taşınmazın öncenin mera olduğuna dair beyanlar karşısında usulüne uygun mera araştırması yapılmamış olması nedeniyle yapılan araştırma ve inceleme hükme yeterli bulunmamaktadır. Eksik inceleme ile karar verilemez.
 Doğru sonuca varılabilmesi için ecrimisile ilişkin tüm belgeler getirtildikten sonra taşınmaz başında komşu köylerde ikamet eden, taşınmazı iyi bilen, yaşlı ve tarafsız kişiler arasından seçilecek yerel bilirkişiler ve aynı yöntemle gösterilecek taraf tanıkları, tüm tespit bilirkişileri, fen bilirkişi ve 3 kişilik ziraat bilirkişi kurulu katılımı ile keşif yapılmalı, yerel bilirkişiler ve tanıklardan taşınmazın öncesinin ne olduğu, kimin tarafından ne şekilde ve ne zamandan beri kullanıldığı, kullanıma karşılık ecrimisil ödenip ödenmediği, öncesinin kamu orta malı niteliğinde mera olup olmadığı, taşınmazın sınırındaki dereden sonra bulunan mera parseli ile aynı özellikleri taşıyıp taşımadığı hususlarında maddi olaylara dayalı ayrıntılı bilgi alınmalı, beyanlar arasındaki çelişkiler yüzleştirme yapılarak giderilmeli, toplanan delillerin tespit tutanağının edinme sebebinde yazılı beyanlarla çelişmesi halinde tespit bilirkişileri tanık sıfatıyla dinlenerek çelişki giderilmeli, fen bilirkişisinden keşfi takibe imkan verir krokili rapor alınmalı, ziraat bilirkişi kurulundan taşınmazın toprak yapısı, niteliği, eğimi, komşu 130 ada 49 sayılı mera parseli ile toprak yapısının aynı özellik
 taşıyıp taşımadığı, taşınmaz ile mera parseli arasındaki derenin ayırıcı unsur teşkil edip etmediği, ne zamandan beri ekilip biçildiği hususlarında bilimsel verilere dayalı ayrıntılı rapor alınmalı, taşınmazın öncesinin mera olduğunun anlaşılması halinde meralar üzerinde sürdürülen zilyetliğin hukukça değer taşımayacağı düşünülmelidir. Taşınmazın öncesinin mera olmadığının anlaşılması halinde davacıların taşınmazı kullanmaları nedeniyle Hazineye ecrimisil ödeyip ödemedikleri, ödeme yapılmış ise bunun icra tehdidi altında olup olmadığı araştırılmalı, yukarıdaki bentte açıklandığı gibi davacıların cebri icra (zorlayıcı yaptırım) tehdidi altında Hazineye ecrimisil ... bulunmalarının ihtirazı kayıt ileri sürmemiş olsalar bile Hazinenin üstün (mülkiyet) hakkını kabul anlamına gelmeyeceği göz önünde bulundurularak tüm deliller birlikte değerlendirilmek suretiyle sonucuna göre karar verilmelidir.
 
 ## Yargıtay 6. HD 2013/5877 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404356700)
 
 Dava, 2886 sayılı Yasa hükümlerine göre, kiraya verilen taşınmazda kira sözleşmesi sonunda, kiralananın teslim edilmemesi nedeniyle ecrimisil ve sözleşme gereğince cezai şart tazminatı istemine ilişkindir.
 
@@ -51,6 +59,8 @@ Taraflar arasında düzenlenen 03.10.2010 başlangıç 31.12.2010 bitim tarihli 
 
 ## Yargıtay 20. HD 2013/5484 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813874100)
+
 Dava, kadastro tesbitine itiraza ilişkindir.
 
 …
@@ -59,14 +69,20 @@ Dava, kadastro tesbitine itiraza ilişkindir.
 
 ## Yargıtay 20. HD 2013/1131 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815528600)
+
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye göre, çekişmeli taşınmaz orman sayılmayan yerlerden ise de, Hazinenin tutunduğu, Ağustos 1973 tarih 33 numaralı tapu kapsamında kaldığı, tapunun mütegayyip şahıslardan kalan yerlerden olması nedeniyle idarî yoldan Hazine adına oluşturulduğu ve 102125 m2 yüzölçümlü geniş bir alanı kapsadığı, taşınmazın komşularının da aynı tapu kapsamındayken sonradan kişilere satıldığı ve gerçek kişiler adına tapu kaydı oluştuğu, çekişmeli taşınmazın ise satılmadığı, davalının ecrimisil ödemek suretiyle kullandığı, 2000 - 2005 yıllarına ait ecrimisil ihbarnamelerinin dosyada bulunduğu, bu şekildeki kullanım malik sıfatıyla olmadığından davalıya bir hak sağlayamayacağı belirlenerek yazılı şekilde karar verilmesinde bir isabetsizlik bulunmamaktadır. Ancak;
 19.01.2011 tarihinde yürürlüğe giren 6099 sayılı Kanunun 16. maddesi ile 3402 sayılı Kanuna eklenen "Kadastro işlemi ile oluşan tespit ve kayıtların iptali için Devlet veya diğer kamu kurum ve kuruluşları tarafından kayıt lehtarına karşı kadastro mahkemeleri ile genel mahkemelerde açılan davalarda davalı aleyhine vekâlet ücreti dahil, yargılama giderine hükmolunmaz.” şeklindeki geçici 11. maddesi hükümleri gereğince davalı aleyhine yargılama giderleri ve vekalet ücretine hükmedilmesi doğru değil ise de; bu husus …
 
 ## Yargıtay 20. HD 2012/14898 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/821516300)
+
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye ve davacıya 01.01.1987 ilâ 01.01.1992 tarihleri arasındaki kullanım için tahakkuk ettirilen ecrimisilin 11.03.1992 günü, 01.10.1997 ilâ 30.09.2002 tarihleri arasındaki kullanım için tahakkuk ettirilen ecrimisilin ise 25.10.2002 günü davacı tarafından ödendiği anlaşılmakla, davacı yararına kazandırıcı zamanaşımı zilyetliğinin süre ve koşullarının oluşmadığı belirlendiğine, davacının 26.03.2012 gün ve 28275 sayılı Resmî Gazetede yayımlanarak yürürlüğe giren 6292 sayılı Kanunun 12/1. maddesi hükmüne dayanarak hak sahibi sıfatıyla yasanın yürürlüğe girdiği tarihten itibaren 2 yıl içinde Hazineye müracaatla çekişmeli taşınmazı bedeli karşığı Hazineden satın alabileceğine göre, yerinde görülmeyen temyiz itirazlarının reddi ile usul ve yasaya uygun olan hükmün ONANMASINA, aşağıda ... onama harcının temyiz edene yükletilmesine 24.12.2012 gününde oy birliği ile karar verildi.
 
 ## Yargıtay 20. HD 2012/14572 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/821582000)
 
 Davacı tarafa, 18.10.1996 – 17.10.2006 tarihleri arasına ilişkin olarak, dava açıldıktan sonra 30.1.2006 tarihinde tahakkuk ettirilen ecrimisile, davacı tarafından 08.12.2006 tarihli dilekçe ile taşınmazlar hakkındaki davanın devam ettiği gerekçesiyle itiraz edilmiş, vaki bu itiraz 05.01.2007 tarihli karar ile reddedilmiş olması nedeniyle davacı tarafından 20.02.2007 tarihinde ödenmiştir. Davacının, gönderilen ecrimisil ihbarnamesine eldeki dava nedeniyle itiraz etmesi, itirazının reddedilmesi karşısında hakkında herhangi bir takibata mahal vermemek amacıyla ödemede bulunması yararına gerçekleştiğini iddia ettiği kazandırıcı zamanaşımını bulunmadığını kabule imkan vermez.
 Bu nedenle, mahkemece eski tarihli (en eski ve 15-20 yıl öncesine ait) memleket haritaları, ... fotoğrafları ve varsa amenajman planı ilgili yerlerden getirtilip, önceki bilirkişiler dışında halen ... ve Orman Bakanlığı (Orman ve Su İşleri Bakanlığı) ve bağlı birimlerinde görev yapmayan bu konuda uzman yüksek orman mühendisleri arasından seçilecek bir orman mühendisi, bir ziraat mühendisi ve bir bir harita-kadastro (jeodezi ve fotogrametri) mühendisi ile yeniden yapılacak inceleme ve keşifte, imar ve ihya edilip edilmediğinin, üzerinde sürdürülen zilyetliğin, başlangıç ve süresinin, kullanılıp kullanılmadığının ve tasarruf sınırlarının ne olduğunun belirlenmesi, topografik ve memleket haritalarından yararlanılarak taşınmazların gerçek eğim durumunu gösterir rapor alınmalı, dava konusu taşınmazların orman sayılmayan yerlerden olması veya kesinleşen orman kadastro sınırları dışında kalması halinde taşınmazların öncesinin ne olduğu, imar ve ihya yapılmışsa hangi tarihte başlanılıp bitirildiği, kimden kime kaldığı, zilyetliğin ne zaman başlayıp nasıl sürdürüldüğü ve ekonomik amacına uygun olup olmadığı, maddî olaylara dayalı ve ayrıntılı olarak, taşınmazlar başında dinlenecek yerel
@@ -76,10 +92,14 @@ Hukuk Mahkemesinin 17.12.1984 gün ve 1983/474-922 sayılı ve yine 495 parselle
 
 ## Yargıtay 3. HD 2012/12815 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/561193900)
+
 2886 sayılı Devlet İhale Kanununun 75.maddesinde; “Devletin özel mülkiyetinde veya hüküm ve tasarrufu altında bulunan malların gerçek ve tüzel kişilerce işgali üzerine fuzuli şagilden bu Kanunun 9.maddesinde ki yerlerden (Ticaret Odası, Sanayi Odası, borsa veya bilirkişilerden) sorulmak suretiyle komisyonca takdir ve tespit edilerek ecrimisil isteneceği, ecrimisil talep edilebilmesi için Hazinenin işgalden dolayı bir zarara uğramış olmasının gerekmediği ve fuzuli şagilin kusurunun aranmayacağı, ecrimisilin fuzuli şagil tarafından rızaen ödenmemesi halinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil olunacağı, işgal edilen taşınmazın, idarenin talebi üzerine bulunduğu yer mülkiye amirince en geç 15 gün içinde tahliye ettirilerek idareye teslim edileceği” hükmü öngörülmüştür.Uyuşmazlık Mahkemesi'nin 20.02.1989 tarih 2/1 sayılı ilke kararında “2886 sayılı Devlet İhale Kanununun 75. maddesi uyarınca, fuzuli şagilden istenecek ecrimisilin belirlenmesi ve istenmesi üzerine açılacak davaların çözüm yerinin, ecrimisilin belirlenmesi ve işgalciden istenilmesi işlemlerinin idari niteliği nedeniyle idari yargı yeri olduğu” açıklanmıştır. Gerçekten de;
 2886 sayılı Kanun'un 75. maddesine göre Hazinece ecrimisil ihbarnamesinin düzenlenip tebliği işleminden sonra, ihbarnamenin iptali, ecrimisil gerekip gerekmediği veya fazla talep edildiği iddiasına dayalı işlem ve davaların idari nitelikte bulunduğu, çözüm yerinin idari yargı olduğu kuşkusuzdur(HGK. nun 2.3.3005 gün ve 2005/1-116 E, 2005/135 K. ). Esasen bu husus, davacı tarafında kabulündedir. Zira davacı taraf davaya konu ihbarnamenin iptali için idari yargıda dava açmış, ancak bu davanın süre aşımı nedeniyle idare mahkemesince reddedilmesi üzerine, yerel mahkemeye başvurarak eldeki davayı açma yoluna gitmiştir. O halde mahkemece, HMK. nun 1. maddesi (HUMK. nun 7. maddesi) gereğince yargı yolu nedeniyle görevsizlik kararı verilmesi gerekirken, yanılgılı değerlendirme ile davanın esasına girilerek yazılı şekilde hüküm kurulması, usul ve yasaya aykırıdır.
 
 ## Yargıtay 16. HD 2012/10092 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/518178400)
 
 121 ada 109 parsel sayılı taşınmaz açısından davalı hakkında usulünce verilmiş bir men kararı olmayıp sadece davalıya ecrimisil tahakkuk ettirilmiş ve ecrimisil tahakkuk ettirilen yere ilişkin kroki düzenlenmiştir. Tahakkuk ettirilen ecrimisiller de davacı tarafça ödenmiş ancak davanın açıldığı tarihe kadar taşınmaz üzerinde zilyetliklerini 20 yıldan fazla süre ile sürdürmüşlerdir. Yargıtay Hukuk Genel Kurulu'nun 24.09.2003 gün 2003/8-592 Esas, 508 Karar, 05.05.2004 gün 2004/8-252 Esas, 257 Karar ve 09.06.2004 gün 2004/7-327 Esas, 348 Karar sayılı ilamlarında vurgulanan ve Dairemizce de benimsenen ilke gereği uzun yıllardan beri bir taşınmaza malik sıfatıyla zilyet olan, gerek Türk Medeni Kanunu'nun 713. maddesi gerekse Kadastro Kanunu'nun 14 ve 17. maddelerindeki taşınmaz mal kazanımına ilişkin koşulların lehine gerçekleştiği kişinin cebri icra tehdidi altında Hazine tarafından istenen işgal tazminatını ödemesi aleyhine yorumlanamaz. Davacının amacı Hazine tarafından istenen işgal tazminatını ödemediği takdirde hakkında Amme Alacaklarının Tahsili Usulü Hakkında Kanun hükümleri uygulanacak olması nedeniyle taşınmazların elinden çıkmasına engel olmaktır.
 Dosyadaki bilgi ve belgelere göre davacı, devletin hüküm ve tasarrufu altındaki zilyetlikle iktisap edilebilir yer niteliğindeki taşınmazın, kendi adına tespit edilen 30 parsel sayılı taşınmazdan 109 parsel ve 110 parsel sayılı taşınmazdaki su kuyusuna kadar olan bölümünü kullanmaya devam etmiştir. Dava tarihinde 20 yıllık iktisap süresi murisinin kullanımı da düşünüldüğünde fazlası ile dolmuştur. Bu durumda davacının ecrimisil ödemesi Hazinenin üstün mülkiyet hakkını kabul ettiği ve fer'i zilyet olduğu anlamına gelmez. Üstelik kazanım koşulları oluşmuş mülkiyet hakkından vaz geçtiği anlamınada gelmez. Aksinin kabulü bir kimse kendi aleyhine beyanda bulunamaz ilkesine de aykırı olacağıda göz önünde bulundurularak zilyetliğe ilişkin tüm deliller değerlendirilmek sureti ile karar verilmesi gerekir. Davacı her ne kadar dava dilekçesinde 109 parsel sayılı taşınmaza Hazineyi hasım göstererek dava açmış ise de; yargılama sırasında 110 parsel sayılı taşınmazın bir bölümü ile bu iki taşınmaz arasında kalan yol bölümünü de dava ettiği yer olarak göstermiştir.
@@ -87,11 +107,15 @@ Hal böyle olunca 110 parsel sayılı taşınmazın tutanak aslı getirtilip tes
 
 ## Yargıtay 20. HD 2012/7760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/817178200)
+
 13.02.2002 gün ve 2002/8-183-187 sayılı kararları), 15.07.2004 günlü Resmî Gazetede yayımlanan Orman Kadastrosunun Uygulanması Hakkındaki Yönetmeliğin 26. maddesinin 2. fırkasında yazılı, 4785 sayılı Yasayla Devletleştirilmiş Orman, 3116 sayılı Yasanın Geçici 1. maddesine göre kamulaştırılmış orman, 6831 sayılı Yasanın 3. maddesine göre orman rejimine alınmış yer, aynı Yasanın 13. maddesinin (B) bendine göre orman olarak ağaçlandırılan veya ağaçlandırılacak yer, aynı Yasanın 24. maddesine göre kamulaştırılan ya da diğer suretle orman yetiştirmek üzere kamulaştırılan yer, devlet Ormanı olduğuna dair kesinleşmiş mahkeme kararı bulunan yer, Herhangi bir nedenle orman sınırı dışında kalmış orman, Maliye Bakanlığınca orman olarak tahsis edilmiş yerlerden ağaçlandırılmış ya da ağaçlandırılmak üzere planlanmış saha, orman ve toprak muhafaza karakteri taşıyan funda ve makilik alan olduğunun belirlenmesi halinde, bu tür yerlerin herhangi bir şekilde komisyonlarca sınırlama dışı bırakılmış veya orman sayılmamış olmasının bu yerlerin orman olma vasfını ortadan kaldırmayacağı düşünülerek başka bir araştırmaya gerek kalmadan Hazine davasının kabulü ile dava konusu taşınmazın orman niteliği ile
 Hazine adına tesciline karar verilmesi (H.G.K.’nun 15/03/2006 gün ve 2006/8-106-68 sayılı kararı), yazılı koşulların somut olayda bulunmaması halinde, taşınmazın öncesinin ne olduğu, imar ve ihya yapılmışsa hangi tarihte başlanılıp bitirildiği, kimden kime kaldığı, zilyetliğin ne zaman başlayıp nasıl sürdürüldüğü ve ekonomik amacına uygun olup olmadığı, maddî olaylara dayalı ve ayrıntılı olarak, taşınmaz başında dinlenecek yerel bilirkişiler ile taraf tanıklarından sorulması, yerel bilirkişi ve tanık sözlerinin doğruluğu yukarıda belirtilen ve gerçeğin kendisi olan belgelere dayalı olarak düzenlenecek bilirkişi kurulu raporuyla denetlenmesi, somut olayın özelliği göz önünde bulundurularak ayrıca; taşınmazın eski ve yeni niteliği konusunda jeoloji mühendisinden de ayrıntılı rapor alınması, keşif sırasında taşınmazı çeşitli yönlerinden hali hazır durumunu gösterir renkli fotoğrafları çektirilip onaylanarak dava dosyası içine konulması, davanın açıldığı tarihten önce ya da sonra Hazine yetkilileri tarafından hazırlanan idarî tahkikat ve haksız işgal (ecrimisil) tutanakları varsa bu tutanaklar da yerine uygulanıp tutanaklarda ismi yazılı kişiler tanık sıfatıyla dinlenilmesi, 3402
 sayılı Yasanın 14/1. maddesinde yazılı 40 ve 100 dönüm kısıtlama araştırması] gereğine değinilmiştir.
 
 ## Yargıtay 1. HD 2012/1940 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79097400)
 
 Dava, kişiler arasında görülen çaplı taşınmaza el atmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkin olup; Hazine de aynı isteklerle davaya müdahale etmiştir.
 
@@ -101,18 +125,26 @@ Toplanan delillerden ve tüm dosya içeriğinden; çekişme konusu 174 sayılı 
 
 ## Yargıtay 3. HD 2011/20802 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636504700)
+
 Bir akaryakıt kaçakçılığı hakkında yürütülen koğuşturmada el konulan kamyonların davacıya ait taşınmaza jandarma tarafından park edilmesi nedeniyle 2.510 TL ecrimisil istenilmiştir. Jandarma, idari yönden İçişleri Bakanlığına bağlıdır. Jandarmanın eyleminden dolayı Maliye Hazinesine husumet yöneltilemez. Jandarma ile ilgili davalarda hasım İçişleri Bakanlığıdır. (Yargıtay HGK'nun 03.06.1983 gün ve E:1980/8-2070, K:1983/611 Kararı) Mahkemece Maliye Hazinesinin pasif husumet ehliyeti bulunmadığından davanın reddine karar verilmesi gerekirken, işin esasına girilerek yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2011/11523 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918842700)
 
 Asıl ve birleşen davanın kısmen, asli müdahilin davasının ise kabulüne ilişkin olarak verilen karar, dairece; “davalının hukuken haklı ve geçerli bir nedene dayanmaksızın 104 sayılı parsele el attığı anlaşıldığına göre, asıl ve birleştirilen davalar bakımından yazılı şekilde kabul kararı verilmesinde bir isabetsizlik yoktur. Davalının öteki temyiz itirazları yerinde değildir, Reddine. Hazine ile ilgili temyize gelince; bilindiği gibi, usul hukukumuzda asli müdahale müessesesi düzenlenmemiştir. Anılan hususun yargısal uygulamalarla benimsenmiş olmasının, dava konusu yapılmayan hak ve şey üzerinden davaya asli müdahil sıfatıyla katılabilme imkanı sağlamayacağı da kuşkusuzdur. Hal böyle olunca, asıl ve birleştirilen davada dava konusu yapılmayan nehir terki kısım yönünden Hazinenin asli müdahale talebinin reddedilmesi gerekirken, asli müdahil sıfatıyla davaya katılmasına ve isteklerinin kabulüne karar verilmesi doğru değildir.
 Diğer taraftan, birleştirilen dava bakımından ecrimisil faizinin reddedilen miktarı için kendisini vekille temsil ettiren davalı yararına vekalet ücreti tayin edilmemesi de isabetsizdir” gerekçesiyle bozulması üzerine bozma ilamına uyularak mahkemece, asıl ve birleşen davalar hakkında bozma öncesinde verilen hüküm kesinleşmiş olduğundan yeniden hüküm kurulmasına yer olmadığına, asli müdahilin talebinin reddine karar verilmiştir.
 
 ## Yargıtay 3. HD 2011/10902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17141300)
+
 2886 sayılı Yasa'nın 75. maddesinin 1. fıkrası uyarınca; Devletin özel mülkiyetinde veya hüküm ve tasarrufunda bulunan taşınmaz malların başkaları tarafından işgali üzerine, fuzuli şagilden, 2886 sayılı Devlet İhale Kanunu'nun 9. maddesinde sayılan mercilerde takdir ve tespit edilecek ecrimisil istenir. Ecrimisil rızaen ödenmediği takdirde de aynı Yasa uyarınca tahsil edileceği, sözü edilen 2886 sayılı Kanun'un 75. maddesinin ikinci fıkrasında hükme bağlanmıştır.
 
 ## Yargıtay 8. HD 2011/3492 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534013600)
 
 Davacı taraf; kira mukavelesinin yapıldığı 2002 yılında yürürlükte bulunan mevzuata uygun olarak taşınmazı Hazineden özel hukuk hükümlerine göre kiraladığını ileri sürmekte ve kira mukavelesinden kaynaklanan zilyetliğinin korunmasını, kira mukavelesinin tarafı olmayan Büyükşehir Belediyesine karşı istemekte olduğuna; davalı ... tarafından da bu gibi yerlerde tasarruf yetkisinin Belediyelerde olduğu ileri sürülerek davaya karşı konulduğuna göre; taraflar arasındaki uyuşmazlık, denizden doldurma yolu ile elde edilen taşınmazların hukuki durumlarının ne olduğu ve bu gibi yerler üzerindeki tasarruf hakkının kime ait bulunduğu hususuna ilişkindir. Dairenin 1.10.2009 gün 2009/3656 Esas ve 2009/4420 Karar sayılı bozma ilamında taraflar arasındaki uyuşmazlıkta dikkate alınması gereken hukuku prosedür açıklandıktan sonra “ ….. mahkemece yapılacak iş; dava konusu ...
 İlçesi, ...Mahallesi, ...Meydanında bulunan 6/1 pafta, 36 ada 1, 2 ve 3 parsellerin önüne isabet eden 180,6 m2 yüzölçümünde deniz dolgu vasıflı taşınmazın Kıyı Kanunu ve ilgili mevzuat hükümlerine uygun olarak kullanılmak şartıyla İstanbul Büyükşehir Belediyesi tasarrufuna bırakılıp bırakılmadığının, bırakılmışsa hangi tarihte bırakıldığının, buna dair varsa belgeler ve uygun görme yazılarının İstanbul Defterdarlığına sorularak araştırılması, bu konuda Büyükşehir Belediyesinin tasarrufuna bırakma ile ilgili herhangi bir işlem yapılmadığının anlaşılması halinde, denizden doldurulan bu yerin kendiliğinden Büyükşehir Belediyesinin tasarrufuna geçmeyeceği düşünülerek sonucuna göre karar verilmesi gerekirken davanın reddine karar verilmiş olması doğru olmamıştır.” Denilmek suretiyle bozma sevk edilmiştir.
@@ -121,6 +153,8 @@ Bozmadan sonra dosya adasına giren İstanbul Valiliği, Defterdarlık Anadolu Y
 İdaremizce de buna dayanılarak kira sözleşmesinin sona erdiği 23.10.2004 tarihinden tespitin yapıldığı 14.11.2008 tarihine kadar ecrimisil işlemleri yapılmış olup, düzenlenen taksitle ödenecek ecrimisile ilişkin ödeme planı düzenlenmiş ve tahsilatı davam etmektedir, denilmektedir. Söz konusu cevapta; dava konusu taşınmazın tasarrufunun İstanbul Büyükşehir Belediyesine devredildiğine ilişkin herhangi özel bir işlem yapıldığı bildirmemiş; aksine ecrimisil alınmak suretiyle yer üzerindeki tasarrufun halen Hazineye ait bulunduğu açıklanmıştır. Bu durumda, dava konusu yerin Büyükşehir Belediyesinin tasarrufuna bırakıldığından söz edilemeyeceğine ve denizden doldurulan böyle bir yer kendiliğinden Büyükşehir Belediyesinin tasarrufuna geçmeyeceğine göre; yazı cevabına yanlış anlam verilmesi sonucunda davanın reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 1. HD 2011/1633 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78861100)
 
 Dava çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -134,6 +168,8 @@ Dava çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkin
 iptal edildiği, davacının Medeni Yasanın zilyetlik hükümlerine göre zilyetliğin korunması amacıyla bu davayı açtığı, Medeni Yasanın 984. Maddesinde anılan 2 ay ve 1 yıllık hak düşürücü sürelerin geçtiği, Hazinenin davalılar ile yaptığı kira sözleşmesini iptal etmesinin davacıya bir hak sağlamayacağı belirlenerek, davanın hak düşürücü süre yönünden reddine karar verilmesinde ve dava dilekçesinde dava değeri belirtilmediği, keşifte belirlenen değer üzerinden harç tamamlattırılmadığı, davalılar vekilinin dava değerine yönelik itirazının bulunmadığı anlaşıldığından maktu vekalet ücreti takdir edilmesinde isabetsizlik bulunmadığına göre, yerinde görülmeyen temyiz itirazlarının reddi ile usul ve yasaya uygun olan hükmün ONANMASINA, aşağıda ... onama harcının temyiz edenlere yükletilmesine 22.12.2010 günü oybirliği ile karar verildi.
 
 ## Yargıtay 20. HD 2010/11912 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/824008900)
 
 Hükmüne uyulan Yargıtay 20.Hukuk Dairesinin 24.06.2008 tarih ve 2008/6193-9078 sayılı bozma kararında; “Mahkemece verilen karar usul ve yasaya aykırıdır.Dairemizin geri çevirme kararı üzerine getirtilen ... Ereğli Kadastro Mahkemesinin 1988/122 -2001/102 esas sayılı dosyası incelendiğinde; TEK Müessesesinin 06.01.1977 tarihinde... mirasçıları aleyhine el atmanın önlenmesi davası açtığı, orman yönetiminin ecrimisil ve el atmanın önlenmesi istemiyle davaya katıldığı, ...
 Ereğlisi 1.Asliye Hukuk Mahkemesinin 26.12.1988 gün 1977/19-1988/553 sayılı kararı ile çekişme konusu taşınmazlar hakkında 58, 61, 704 ve 705 parsel numarası ile kadastro tespitlerinin yapıldığı gerekçesi ile davanın 3402 Sayılı Yasanın 27. maddesi uyarınca Kadastro Mahkemesine aktarıldığı ve 1988/122 esasa kayıt edildiği, Hazinenin, çekişmeli taşınmazların orman niteliği ile hazine adına tapuya tescili istemiyle davaya katıldığı, mahkemece, 58,61, 62,704 ve 705 parsellerin tamamının, 702 parselin ise (A) ile işaretlenen bölümünün orman niteliği ile hazine adına tapuya tesciline, (B) ile işaretlenen kesiminin... mirasçıları adlarına tapuya tesciline karar verildiği, hükmün Orman Yönetimi ve hazine tarafından 702 parsele ilişkin olarak temyiz edilmesi üzerine Dairece “702 parselin (B) ile işaretlenen bölümünün dayanak tapu kaydının miktar fazlası olduğu, tapunun oluşum tarihinden memleket haritasının düzenlendiği 1957 tarihine kadar orman dan açıldığı gerekçesi ile B ile işaretlenen bölümünde orman yapılması yönünde bozulduğu, yerel mahkemenin 2006/42 esasına kaydedildiği ve davanın derdest olduğu, ancak 704 parsele ilişkin hüküm temyiz edilmediğinden kesinleştiği anlaşılmaktadır.

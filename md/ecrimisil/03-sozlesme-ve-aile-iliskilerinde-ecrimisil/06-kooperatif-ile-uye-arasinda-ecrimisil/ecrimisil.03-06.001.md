@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2023/2476 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914622500)
+
 Yargıtay 1. Hukuk Dairesince karar:
 
 …
@@ -33,6 +35,8 @@ olduğu gerekçesiyle bozulmuş; karara karşı davacılar vekili karar düzeltm
 
 ## Yargıtay 8. HD 2020/6411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610543600)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -41,6 +45,8 @@ Dava dışı S.S ... Toplu Konut Yapı Kooperatifi ile ... ... Başmüdürlüğ�
 
 ## Yargıtay 14. HD 2020/2952 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579108000)
+
 Deliller toplanarak yapılan incelemede; davalı ... ile S.S. ... Konut Yapı Koop. arasındaki kat karşılığı inşaat sözleşmesi yapıldığı, ... Konut Yapı Kooperatifi tarafından taşınmaz üzerinde yapılacak yapılarla ilgili ... Müh. İnş. Eml. Dış. Tic. Ltd. Şti. arasında eser sözleşmesi yapıldığı, davaya konu taşınmazların davalı şirket tarafından yapıldığı, ancak ... Konut Yapı Kooperatifi Genel kurulu tarafından 2000 yılında yapılan olağan genel kurulda 1163 sayılı Kooperatifler Kanununun 42/6 ve 8. fıkralarındaki düzenlemeye aykırı olarak yüklenici ... Ltd. Şti.'ne eser sözleşmesi gereğince kendisine verilmesi taahhüt edilen gayri menkullerin satışı yönünden yetki verildiği, yüklenici ... Ltd. Şti. tarafından bu yetkiye dayanılarak davacıya yapılacak dairelerden bir tanesini 28.03.2006 tarihinde 17.000 TL'ye sattığı, bilahare ...
 Konut Yapı Kooperatifi tarafından davacının kooperatife B tipi tercihli üye olarak kaydedildiği, kooperatif genel kurulu tarafından yapımı tamamlanan 48 adet daire ile ilgili usulüne uygun bir karar verilmeden ve karara uygun kura çekilmeden dava konusu taşınmazın davacı tarafından işgal edilmek suretiyle 15.08.2008 tarihinde işgal etmek suretiyle kullanmaya başladığı, halen taşınmazın davalının kullanımında olduğu anlaşılmış olup, davacı ile davalı ... Müh. Ltd. Şti. arasında 28.03.2006 tarihinde yapılan sözleşmenin konusunun gayri menkul mülkiyetinin devrine ilişkin olması sebebiyle Tapu Kanununun 26, T.M.K'nun 706 ve T.B.K'nun 237. maddelerindeki yasal düzenleme gereğince resmi şekilde yapılması gerekirken şekil şartlarına uyulmadan gayri resmi olarak düzenlenmiş olması, tapu maliki ... Konut Yapı Koop.'nin gayri menkul mülkiyetinin devri ile ilgili davacı ile aralarında herhangi bir hukuki ilişkinin bulunmaması nazara alındığında davacının tapu iptal tescil talebinin aktif dava ehliyeti bulunmaması, diğer davalılar ... Konut Yapı Kooperatifi ve ... Mühendislik Ltd.
 Şti.'ne yönelik talebin ise taşınmazın bu davalılar adına kayıtlı olmaması sebebiyle husumetin yanlış yöneltilmesi sebebiyle reddine, birleşen davanın davalısı Ramazan'ın, ... Konut Yapı Kooperatifi genel kurulunca usulüne uygun verilen bir karar ve karar doğrultusunda üye sayısı nazara alındığında çekilmiş bir kura mevcut olmadan ve özellikle davacı ile davalı ... Ltd. Şti. arasında yapılan sözleşmeye konu taşınmazın birleşen davanın konusu taşınmaz olduğuna ilişkin hiç bir bilgi olmadan dava konusu taşınmazı işgal edilmek suretiyle davacı tarafından kullanılmasının haksız müdahale niteliğinde olduğu, bu nedenle men-i müdahale isteminin kabulü gerektiği, bunun yanında kooperatifin diğer üyelerinin haklarını ihlal edecek şekilde taşınmazdan yararlanmış olması nazara alınarak işgal tarihinden itibaren üyesi olduğu kooperatife ecrimisil ödemesi gerektiği mahkemece kabul edilmiş, birleşen davanın davacısı ...'nin men-i müdahale talebinin kabulü ile, birleşen dava davalısı ...'ın dava konusu Selahattin Eyyübi Mh. Yardımcı Sk.
@@ -48,25 +54,35 @@ Konut Yapı Kooperatifi tarafından davacının kooperatife B tipi tercihli üye
 
 ## Yargıtay 23. HD 2017/1593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/354122600)
+
 Dava, kooperatif üyesi olan davacının kendisine bağımsız bölüm tahsisi ve ecrimisil talebi, bağımsız bölüm bulunmadığı taktirde bedelinin tahsili istemine ilişkindir.
 
 Kooperatife ait talep edilen bağımsız bölümlerin dışında eşdeğer nitelikte başka bağımsız bölümler bulunup bulunmadığı, eşitlik ilkesi gereğince davalı kooperatifin aidat borcu bulunmasına rağmen üyelerine bağımsız bölüm verip vermediği, ecrimisil talebi yönünden kooperatifin diğer üyelerine borçlarına rağmen tahsisli bağımsız bölümleri teslim etmiş ise diğer üyelerine ecrimisil bedeli verip vermediği hususları araştırılarak, bu hususların bulunması halinde bağımsız bölümlerin tahsisine veya ecrimisil talebinin kabulüne karar verilmesi, tahsis edilecek bağımsız bölüm bulunmadığı takdirde, kendisine konut tahsis edilmeyen kooperatif üyesi davacıların tazminat isteminin kabulüne karar verilmesi gerekmektedir.
 
 ## Yargıtay 1. HD 2016/5047 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228587300)
+
 Öte yandan, davalı kooperatif basit bir araştırma ile tahsisi yapan kurumun malik olmadığını tespit edebileceği halde bunu yapmadığı için kötüniyetli olduğunun kabulü gerektiği ve ecrimisilden sorumlu olacağı da kuşkusuzdur. Bu durumda ecrimisile karar verilmiş olmasında kural olarak bir isabetsizlik yoktur.. Bir başka ifadeyle, davacının ecrimisil isteğinin kabulüne karar verilmesi kural olarak doğrudur. Temyiz eden davalı kooperatifin bu hususlara yönelik temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 23. HD 2016/2912 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/247308300)
+
 Bu durumda, mahkemece, dava tarihi itibariyle davacı kooperatifin imal ettiği konutlara ilişkin kur’a çekilmediği, birleşen davada davalı ... adına tahsis kararı bulunmadığı, üretilen konut ile ortak sayısı arasında fark bulunduğu, eşitlik kuralı çerçevesinde kur’a ile kooperatif ortağına konut tahsis edilmedikçe, ortağın yada ortağın hakkına dayalı olarak üçüncü kişilerin konuta yerleşip kullanamayacağı nazara alınarak, taraflar arasında doğan muarazanın, asıl ve birleşen davalarda davalıların davaya konu konuta ilişkin müdahalesinin tahliye edilmesi suretiyle önlenmesine, birleşen davada davalı ... adına tahsis olmadan, anılan anasözleşme hükmüne dayalı kur'a işlemi yapılmadan, kooperatifin bekçisinden temin edilen anahtarla konuta yerleşilmesi iyiniyetli olmadığından ecrimisil tazminatının da kabulüne karar verilmesi gerekirken, hatalı değerlendirme ile yazılı şekilde davanın tümden reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 23. HD 2015/6847 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118879900)
 
 Davalı kooperatif tarafından davacılar murisi A....hakkında 01.04.2008 tarihinde yönetim kurulunca ihraç kararı alınmışsa da, bu kararın tebliği gerçekleştirilmediğinden usulüne uygun kesinleşmiş bir ihraç kararının varlığından söz edilemez. Davacılar, murislerine isabet eden işyerine kooperatif tarafından yapılan müdahalenin önlenmesi, ecrimisil ve tazminat istemlerinde bulunmuşlardır. Ne var ki, Mahkemece, dava konusu bağımsız bölümün davacılar murisine isabet ettiğini tevsik edecek kura tutanağı getirtilmemiş, keza kura çekilişini takiben işyerlerinin üyelere teslim edilip edilmediği hususunun tespiti açısından kooperatifin defter, kayıt ve belgeleri üzerinde inceleme yapılmamıştır. İşyerlerinin üyelere tesliminin gerçekleştiği tarihin veya 1163 sayılı yasanın 23. maddesi doğrultusunda diğer üyelere işyerlere teslim edildiği halde haklı bir sebep bulunmadıkça davacı tarafa işyerinin teslim edilmemesinin eşitlik ilkesine aykırı olacağı gözden kaçırılmadan bu tarihin saptanarak, o tarih itibari ile men'i müdahale ve ecrimisil taleplerinin değerlendirilmesi gerekirken, yazılı şekilde eksik inceleme ile karar verilmesi doğru olmamıştır.
 
 Kabule göre de; davalı aleyhine hüküm altına alınan ecrimisil bedelinin hesabında az yukarıda işaret edilen esaslar doğrultusunda iş yerinin teslimi gereken tarihten dava tarihine kadarki sürenin nazara alınması gerekirken, dava tarihini aşan süre için de bedele hükmedilmesi doğru olmadığı gibi, ecrimisilin hükmedildiği dönemdeki serbest piyasa rayiçlerine göre emsal kira bedelinin esas alınması gerekirken en son kira bedelinin geçmişe dönük şekilde eskale edilmesi hatalı bulunmuştur. İzah edilen sebeplerle karar bozulmalıdır.
 
 ## Yargıtay 23. HD 2014/6247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/117931900)
 
 1163 sayılı Kooperatifler Kanunu'nun 16/son maddesinde; "Haklarındaki çıkarma kararı kesinleşmeyen ortakların yerine yeni ortak alınamaz. Bu kişilerin ortaklık hak ve yükümlülükleri, çıkarılma kararı kesinleşinceye kadar devam eder" hümüne yer verilmiştir. Üyelikten ihraç kararı aleyhine iptal davası açan kooperatifin üyesi, ihraç kararı kesinleşinceye kadar hak ve yükümlülükleri devam edeceğinden, kendisine tahsis edilen bölüm/bölümleri dava sonunda verilecek kararın kesinleşmesine kadar kullanmaya devam edebilir. Bir üyeye üyelik nedeniyle adına tahsis edilen bağımsız bölümünden tahliyesi için, tahsis nedeni olan üyeliğin sona ermiş olması gerekir. İhracın kesinleştiği tarihten sonra daireyi kooperatife geri vermesi gerekirken vermeyip, kullanmaya devam etmiş ise dairede oturmasının karşılığı olan ecrimisil alacağından talep halinde sorumlu olacaktır. İhraç kararının kesinleştiği tarihten sonraki dönem için davalının taşınmazda fuzuli şağil durumuna düşeceğinin kabulü ile ecrimisil hesabının ihraç kararının kesinleştiği tarihten itibaren başlatılması gerekir.
 Öte yandan, davacı kooperatif, ihraç kararının kesinleşmesinden sonra doğan inşaat finansman gideri kapsamında aidat isteyemez ise de, ortağa tahsis edilen konutun daha önce oluşmuşsa tapusunun iptalini isteme hakkı doğmuş olup, ortak taşınmazı teslim etmemiş ise ortağın müdahalesinin men'ini de isteyebilir. Diğer yandan, Yargıtay 11. Hukuk Dairesi'nin 18.12.2008 tarih ve 2007/1551 E., 2008/14269 K. sayılı ilamında açıklandığı üzere, yasa ve anasözleşme hükümleri uyarınca iade edilmesi gereken çıkma payının iade edilmemesi, geri vermekle yükümlü olan daire üzerinde hapis hakkı tesis edilmesi sonucunu doğurmaz. Tahsis ortağa şahsi hak sağlar. Kooperatifçe bir dairenin geçerli bir tahsis işlemiyle bir ortağa tahsisi halinde, tahsis edilen ortağın rızası olmaksızın, ortaklığı devam ettiği sürece konutun başka bir ortağa tahsisi mümkün değildir.
@@ -78,6 +94,8 @@ Somut olayda, asıl davada davacı kooperatif üyesi olan davalı H.. Ö..'ın 3
 
 ## Yargıtay 23. HD 2014/4576 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115393900)
+
 Konut yapı kooperatifleri, aidat ödeme yükümlülüğünü yerine getiren ortaklarına kullanılabilir durumdaki bir daireyi tahsisle yükümlüdür. Kooperatif anasözleşmesinin 62. maddesi uyarınca, konutlar maliyet bedelleri kesinleştikten sonra ortaklar veya temsilcilerinin katılımıyla noter önünde çekilecek kur'a ile dağıtılır. Konutların anasözleşmenin 59/2. maddesine göre ortaklara dağıtılması halinde kur’aya başvurulmaz. Bu durumda, bir konutun ortağa tahsis edildiğinden sözedilebilmesi için ya kur’a sonucu konutun tahsis edilmiş olması veya konutların genel kurulca belirlenecek esaslar dahilinde ortaklara dağıtılmış olması ve genel kurulun bu dağıtımı açık veya zımni olarak onaylaması gerekir. Anlatılan ilkeler dışında, yönetim kurulu, genel kurulun kararı veya onayı olmaksızın bir konutun belli bir ortağa tahsisine karar veremez. Tahsis ortağa şahsi hak sağlar. Kooperatifçe bir dairenin geçerli bir tahsis işlemiyle bir ortağa tahsisi halinde, tahsis edilen ortağın rızası olmaksızın, ortaklığı devam ettiği sürece konutun başka bir ortağa tahsisi mümkün değildir.
 Kooperatif tarafından taşınmazın ortağa tahsisi, mülkiyeti geçiren bir işlem olmayıp, kooperatifle olan iç ilişkide bir hak bahşeden ve koşulları oluştuğunda kooperatife karşı tapu iptal ve tescil talebinde bulunma hakkı yanında ortağa, tahsis hakkına karşı yapılan haksız saldırılarda üçüncü kişilere karşı müdahalenin men'i ve ecrimisil davası açmaya izin veren bir haktır. Tahsis hakkına dayanan ortak, taşınmazını işgal eden üçüncü bir kişiye karşı müdahalenin men'i ve ecrimisil davası yanında tahsis hakkını tanımayan kooperatife karşı birlikte tek bir dava açabileceği gibi, sonradan açılan davalar da, bağlantı sebebi ile birleştirilmelidir. Diğer bir anlatımla, tahsis hakkına dayalı müdahalenin men'i ve ecrimisil davalarında mülkiyet hakkı, kooperatife ait olduğundan ve tahsis hakkı, bu hak ile doğan bağlı bir hak olduğundan, kendisinde tahsis hakkı bulunduğu kooperatif tarafından kabul edilmeyen kişi, haksız şağil olduğu iddiasındaki kişiye ve kooperatife dava açmalıdır.
 
@@ -85,10 +103,14 @@ Kooperatif tarafından taşınmazın ortağa tahsisi, mülkiyeti geçiren bir i�
 
 ## Yargıtay 23. HD 2014/719 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/109366300)
+
 Davacı kooperatif, kooperatifçe inşaa edilip, ortaklara tahsisi yapılmayan dairenin, davacı tarafından haksız şekilde işgal edildiğini ileri sürerek müdahalenin önlenmesi yanında ecrimisil isteminde bulunmuştur. Bilindiği gibi, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan kötüniyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih 22/4 sayılı İnançları Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olup, kooperatifle dava dışı A.
 Y.. arasında kooperatife ait konutların inşaası konusunda genel kurulca alınan karara dayalı olarak ticari ilişki bulunması, genel kurul kararları uyarınca yüklenici A.Y..'ın ödemelerinin daire olarak yapılabilmesine olanak sağlanması ve davalının babası dava dışı M. .. ile A.y.. arasında taşınmaz satışına ilişkin bir sözleşme bulunması, konutun elektrik ve su aboneliklerinin bulunması karşısında ecrimisil tazminatı koşullarının oluşmadığı gözetilerek bir karar verilmesi gerekirken, yanılgılı değerlendirme ile bu istemin kabulüne karar verilmesi doğru görülmemiştir. Öte yandan, davalının hakkının dayanağı olan ve taşınmazı A.Y..'dan satın aldığı bildirilen M. E..'ın davaya dahil edilmesi veya dava açılması için davacıya süre verilmesi, dava açıldığında birleştirme kararı verilerek infazı kabil bir karar verilmesi gerekirken taraf teşkili sağlanmadan karar verilmesi de doğru görülmemiştir.
 
 ## Yargıtay 23. HD 2013/4113 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493506200)
 
 Dava, ortaklık nedeniyle edinilen taşınmaz için Hazine'ye ödenen satış ve ecrimisil bedelinin davalı kooperatiften tahsili istemine ilişkindir.
 
@@ -98,11 +120,15 @@ Dava, ortaklık nedeniyle edinilen taşınmaz için Hazine'ye ödenen satış ve
 
 ## Yargıtay 3. HD 2012/22590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487851000)
+
 Kural olarak ihale ile mülkiyeti kazanan alıcı taşınmazın nef’i ve hasarını da üstlenmiş olur (BK.md.183). Bu durumda alıcı malik sıfatı ile taşınmazı işgal eden şahsın tahliyesini (İİK.135/2 kapsamında) isteyebileceği gibi, fuzuli şagil aleyhine ecrimisil istemiyle dava da açabilir. Ancak, açılacak bu davada ecrimisil, borçluya gönderilecek ihtarın tebliğinden 15 gün sonrası için istenebilecektir. Yine, ihalenin feshi davası açılmış ise bu konudaki dava sonuçlanıp ihale kesinleşinceye kadar satılan taşınmaz icra dairesi tarafından muhafaza ve idare edilir İİK.md.134/1).Somut olayda, 25795 ada 1 parsel 18 no’lu daire tapu kaydında davalı ... Konut Yapı Kooperatifine ait iken kooperatifin borcu nedeniyle cebri icra yolu ile 18.12.2007 tarihinde davacılara satılmış olup ihalenin feshi istemli dava sonucunda davanın reddine ilişkin hüküm 10.03.2009 tarihinde kesinleşmiştir. Ayrıca 15.04.2009 tarihinde taşınmazın tahliyesi için icra müdürlüğünce davacıların talebi üzerine davalılara ihtarname gönderilmiştir.Davalılardan ... ve ...’a kooperatif üyesi olmaları nedeniyle satışa konu 18 nolu dairenin tahsis ve telsim edildiği anlaşılmaktadır.
 
 TMK’nun 705 ve İİK’nun 134. maddeleri birlikte değerlendirildiğinde davalı malik Kooperatifin taşınmazın ihale tarihinde mülkiyet hakkı sona ermektedir. Yine, bu durumda üçüncü kişilerin elinde olan taşınmazı ihalede satın alan davacılara teslim borcundan da söz edilemez. Mahkemece, bu davalının ecrimisil ile sorumlu tutulması doğru görülmemiştir.Diğer davalılar yönünden ise, taşınmazı işgal eden üçüncü kişi durumundadırlar. Taşınmazın cebri satışa konu olduğunu ancak icra müdürlüğünün İİK’nun 135/2. maddesi hükmüne göre gönderdiği ihtarname ile öğrenmiş olmakla ihtarnamenin tebliğ tarihinden yasal 15 günlük sürenin geçmesi üzerine haksız şagil durumuna gelecekleri ve ecrimisil ödemekle yükümlü olacakları tartışmasızdır.
 
 ## Yargıtay 1. HD 2011/1897 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78928800)
 
 Dava; elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -111,6 +137,8 @@ Dava; elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 Toplanan delillere ve tüm dosya içeriğine göre, hükmün dayandığı yasal ve hukuksal gerekçeye, delillerin takdirinde bir isabetsizlik bulunmadığına, özellikle davalının kayden davacı kooperatif adına kayıtlı çekişmeli taşınmaza haklı ve geçerli bir hukuki nedene dayanmaksızın elattığı keşfen belirlenmek suretiyle elatmanın önlenmesine, ecrimisilin tahsiline karar verilmiş olmasında kural olarak bir isabetsizlik bulunmamaktadır. Davalının bu yöne değinen temyiz itirazları yerinde değildir. Reddine, …
 
 ## Yargıtay 5. HD 2010/17070 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031345800)
 
 Dava ve birleştirilen davalar el atmanın önlenmesi, kal, ecrimisil ile tapu iptal ve tescil istemine ilişkindir.
 
@@ -130,6 +158,8 @@ Açıklanan nedenlerle kooperatif üyeliğinden istifa sonucu çıkan davalını
 
 ## İstanbul BAM 45. HD 2024/381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1014814300)
+
 Dava kooperatif genel kurul kararının iptali istemine ilişkindir.
 
 …
@@ -145,9 +175,13 @@ Bu durumda mahkemece kooperatif ana sözleşmesi ile ecrimisil ödenmesine iliş
 
 ## Kayseri BAM 1. HD 2023/1492 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/962288700)
+
 Dosya kapsamına göre taraflar arasındaki uyuşmazlık; ... ili ... ilçesi ... Mah. ...Mevkii ... pafta ... ada ... parselde kayıtlı ve dava dışı kooperatifçe inşa ettirilen binadaki ... nolu dairenin davacının murisi ...'e tahsis edildiği, sonrasında muris ...'in kooperatif üyeliğinden ihraç edildiği ve ... numaralı dairenin davalı ...'ya tahsis edildiği, davacının murisinin ihracı sonrası Kayseri 2. Asliye Ticaret Mahkemesi'nce dava dışı ... Yapı Kooperatifi ile ihraca yönelik davanın devam etmesi nedeniyle ihraç kararı kesinleşmeden davalının taşınmazı işgal ettiğinden bahisle davalının taşınmazael atmasının önlenmesini ve ecrimisil ödenmesini talep edip edemeyeceği noktasında toplanmakta olup eldeki dava, TTK’da düzenlenen mutlak ticari davalardan olmadığı gibi, tarafların tacir olmadığı da gözetildiğinde, her iki tarafın ticari işletmesiyle ilgili de olmadığından nispi ticari dava da değildir. Bu nedenle, davaya bakmakla görevli mahkeme Asliye Ticaret Mahkemesi değil, 6100 sayılı HMK’nun 2. maddesi gereğince genel görevli Asliye Hukuk Mahkemesidir.
 
 ## Konya BAM 6. HD 2023/712 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879995800)
 
 Dava, haksız işgal tazminatı (ecrimisil) istemine ilişkindir.
 
@@ -158,6 +192,8 @@ Davalı halen haksız olarak oturduğu meskeni kura sonucu elde etmediğinden b�
 Bu gerekçelerle aşağıdaki gibi karar vermek gerekmiştir..." belirtilerek ecrimisil davasının kabulüne karar verildiği, bu kararın Yargıtay ... Hukuk Dairesi'nin ... tarih ... Esas ... Karar sayılı ilamı ile onandığı, bu nedenle ilk derece mahkemesince alınan bilirkişi raporu doğrultusunda davanın kısmen kabulüne karar verilmesi usul ve yasaya uygun bulunduğundan davacı ile davalıların istinaf başvuru taleplerinin HMK'nın 353/1.b.1 maddesi gereğince ayrı ayrı esastan reddine ilişkin aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 45. HD 2020/51 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602877500)
 
 492 sayılı Harçlar Kanununun 28.maddesi "(1) sayılı tarifede yazılı nispi harçlar aşağıdaki zamanlarda ödenir. a) (Değişik: 23/7/2010-6009/18 md.) Karar ve ilam harcı; Karar ve ilam harçlarının dörtte biri peşin, geri kalanı kararın tebliğinden itibaren bir ay içinde ödenir...", 30.maddesi "Muhakeme sırasında tesbit olunan değerin, dava dilekçesinde bildirilen değerden fazla olduğu anlaşılırsa, yalnız o celse için muhakemeye devam olunur, takip eden celseye kadar noksan değer üzerinden peşin karar ve ilam harcı tamamlanmadıkça davaya devam olunmaz. Hukuk Usulü Muhakemeleri Kanununun 409 uncu maddesinde gösterilen süre içinde dosyanın muameleye konulması, noksan olan harcın ödenmesine bağlıdır.", 32.maddesi ise "Yargı işlemlerinden alınacak harçlar ödenmedikçe müteakip işlemler yapılmaz. Ancak ilgilisi tarafından ödenmeyen harçları diğer taraf öderse işleme devam olunmakla beraber bu para muhakeme neticesinde ayrıca bir isteğe hacet kalmaksızın hükümde nazara alınır." şeklinde düzenlenmiştir. Yani nispi harca tabi davalarda, dava değeri üzerinden hesap edilen harcın 1/4'ünün peşin olarak ödenmesi gerekmektedir.
 Dava açılırken, harcın eksik alınmış olması halinde mahkemece davaya devam olunabilmesi için harcın, Harçlar Kanunu'nun 30. ve 32.maddeleri uyarınca tamamlanması yoluna gidilir ve davacıya eksik harcı yatırması için süre verilir. Şayet verilen süreye rağmen eksik harç ikmal edilmez ise dosya işlemden kaldırılır ve 6100 sayılı Yasanın 150.maddesi uyarınca süresinde tamamlanarak yenilenmez ise davanın açılmamış sayılmasına karar verilir. Davacının dava dilekçesinde iki talebi mevcut olup, bunlardan ilki terditli olarak dava konusu bağımsız bölüme ilişkin tapu kaydının iptali ile bağımsız bölümün kooperatif adına tapuya tescili, bu talebinin mümkün olmaması halinde güncel değerinin tespiti ile davacı kooperatife ödenmesine ilişkin, ikinci talebi ise dava konusu bağımsız bölüme için şimdilik 1.000,00 TL ecrimisil bedelinin tahsili istemine ilişkindir. Buna rağmen ilk talebi yönünden harç yatırmadığı, harcı ikinci talebi olan 1.000,00 TL ecrimisil bedeli üzerinden yatırdığı tespit edilmiştir.

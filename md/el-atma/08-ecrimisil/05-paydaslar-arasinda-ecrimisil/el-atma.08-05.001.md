@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2018/1386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/457314400)
+
 Mahkemece, davanın kabulüne karar verilmiştir.
 
 …
@@ -42,11 +44,15 @@ SONUÇ: Davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının
 
 ## Yargıtay HGK 2011/748 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17156400)
+
 Türk Medeni Kanunu hükümleri gereğince ortak mülkiyete bağlı olan bir yeri paydaşlardan birisinin kendi kullanımına özgülemesi durumunda diğer paydaşların ecrimisil (haksız işgal tazminatı) isteyebilmesi için öncelikle o paydaş bu ortak yeri münhasıran kullanmaktan yöntemince men edilmiş olmalıdır. Başka bir deyişle diğer paydaşlar bu yerden kendilerinin de yararlanmak istediklerini şagil paydaşa yöntemince ihtar etmiş olmalarına karşın kullanımın sürdürülmüş olması gerekir.
 
 Somut olayda ortak mülkiyet hükümlerine tabi olan dava konusu yerleri kullanarak müdahalede bulunan davalının diğer paydaşlarca önceden uyarıldığı yolunda bir kanıt ortaya konulup kanıtlanmadığı, sığınak özel amaca tahsisli ortak yer olmakla niteliği gereği ekonomik bir yarar sağlamayacağı gözetilmeden davacı yanın ecrimisil (haksız işgal tazminatı) isteminin reddine karar verilmesi gerekirken, yerinde olmayan gerekçelerle ecrimisile hükmedilmesi, …
 
 ## Yargıtay HGK 2007/852 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76826100)
 
 Mahkemece, davanın kabulüne karar verilmiştir.
 
@@ -77,6 +83,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyl
 
 ## Yargıtay 7. HD 2025/1238 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160768500)
+
 Davalı ... vekilinin Mahkememize vermiş olduğu cevap dilekçesinde özetle; davanın Tapu Müdürlüğünü ilgilendiren bir yönünün bulunmadığını, bu sebeple idareleri açısından husumet yokluğu sebebi le davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -95,10 +103,14 @@ Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/4564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1093096900)
+
 Taşınmaz mülkiyetinin özgüleme davası sonucu sağ kalan eşe devredildiği, özgüleme davasına ait mahkeme ilamının kesinleştiği tarihe kadar sağ kalan eşin taşınmazda diğer mirasçılarla birlikte elbirliği mülkiyet hükümlerine göre paydaş olduğu, özgüleme davalarında bedelin diğer paydaşlara ödenmesi ve hükme en yakın tarihteki bedelin tespit edilerek depo edilmesi karşısında da hukuki niteliğinin geleceğe etkili- kurucu (inşai-yenilik doğurucu) olduğu ve bu dava bakımından inşai hükmün geçmişe etkili olması yönünde özel ve istisnai yasal bir düzenlemenin bulunmadığı hususları bir arada değerlendirildiğinde, davacının mahkeme ilamının kesinleştiği tarihe kadar taşınmazda zilyet olarak bulunan davalıdan ecrimisil talep edebilme hakkının bulunduğu sonucuna ulaşılmaktadır. Bu nedenle özgüleme davasının kabulü halinde, davacı ya da davacıların ecrimisil talebinin reddedilmesi gerektiği yönündeki görüşe katılma imkanı bulunmamaktadır. T.C.
 Anayasasının "Mülkiyet Hakkı" kenar başlıklı 35 inci maddesi, Avrupa İnsan Hakları Sözleşmesi Ek 1 No.lu Protokolün "Mülkiyetin Korunması" kenar başlıklı 1 inci maddesi ile 6800 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 108 inci maddelerinde yer alan düzenlemeler karşısında, taşınmazda özgüleme davasının kesinleştiği tarihe kadar miras bırakanın ölümü nedeni ile elbirliği mülkiyet hükümlerine tabi mülkiyet hakkı bulunan mirasçıların hakları da korunmuş olacaktır.
 
 ## Yargıtay 5. HD 2024/4150 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053292700)
 
 Davacı vekili dava dilekçesinde özetle; Aydın ili, ... ilçesi, Karaçay Mahallesi 1471 ada 27 parsel sayılı taşınmaza kamulaştırma işlemi olmaksızın ve müvekkilinin rızası dışında bir kısmına park yapmak bir kısmına da yol yapmak suretiyle idarece fiilen el atıldığını, bunun karşılığında müvekkiline herhangi bir ödeme yapılmadığını, müvekkilinin ... Belediye Başkanlığına söz konusu taşınmaz üzerindeki tecavüzlerin kaldırılması amacıyla defalarca başvurduğunu; ancak herhangi bir sonuç alamadığını, davalı idarenin dava konusu taşınmaz üzerinde devam etmekte olan tecavüzünün önlenerek taşınmazın teslimine, fazlaya ilişkin hakları saklı kalmak kaydı ile geriye dönük 5 yıllık şimdilik 60.000 TL'nin yasal faizi ile birlikte davalıdan tahsiline, yargılama giderleri ve vekâlet ücretinin davalı tarafa yükletilmesine karar verilmesini talep etmiştir.
 
@@ -117,6 +129,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyl
 
 ## Yargıtay 7. HD 2023/5375 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986394900)
+
 Davacı vekili; tarafların kardeş olup dava konusu taşınmazlarda davacının paydaş olduğunu, annesinin intifa hakkı sahibi olarak göründüğünü, annesinin müvekkili ile aynı adreste ikamet ettiğini, kardeşi olan davalının dava konusu taşınmazlara haksız şekilde el atıp tasarruf ettiğini, "Yay Meydanı ... Sokak No:12/1 ... ..." adresinde bulunan taşınmazın davalı tarafından kiraya verilerek gelir elde edildiğini, davalının müvekkilden herhangi bir muvafakat almadığını, elde edilen gelirlerden müvekkiline ödeme yapılmadığını belirterek fazlaya ilişkin hakları saklı kalmak kaydı ile davalı tarafın dava konusu taşınmazlara haksız el atmasının önlenmesine ve şimdiye kadar sağlamış olduğu faydalar için geriye dönük 5 yıllık 5.000,00 TL ecrimisilin yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -133,6 +147,8 @@ Davacı vekilinin 6 parsel sayılı taşınmaz hakkında elatmanın önlenmesi t
 
 ## Yargıtay 7. HD 2023/4385 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979992300)
+
 Birleştirilen İstanbul 1. Asliye Hukuk Mahkemesinin 2014/543 Esas ... dava yönünden; davalılar ..., ... ve ...’nın davacıların hissedarı olduğu taşınmazı işgal ettikleri, ecrimisil koşullarının adı geçen davalılar yönünden oluştuğu, diğer davalılar yönünden davadan feragat edildiği, ecrimisil hesabına dair hükme esas alınan bilirkişi raporunun da gerekçeli ve somut olaya uygun olduğu, bu yönü ile el atmanın önlenmesi ve ecrimisil istemi hakkında verilen kararda isabetsizlik bulunmadığı gerekçesiyle asıl ve birleştirilen İstanbul 1. Asliye Hukuk Mahkemesinin 2015/271 Esas ... davada davacılar- birleştirilen İstanbul 1. Asliye Hukuk Mahkemesinin 2014/543 Esas ... davada bir kısım davalılar vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 …
@@ -140,6 +156,8 @@ Birleştirilen İstanbul 1. Asliye Hukuk Mahkemesinin 2014/543 Esas ... dava yö
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 ... Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2023/3411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891305300)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davalılardan ... hakkında açılan davanın husumetten reddine, davalı ... aleyhine açılan davanın kabulüne karar verilmiştir.
 
@@ -163,6 +181,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 7. HD 2023/3007 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916171300)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... yönünden davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -184,6 +204,8 @@ doğrultusunda bilirkişilerden ecrimisil hesabı konusunda denetime elverişli 
 peşin ve ıslah harcı olarak alınan 1.336,35 TL’nin kabul-red oranına göre 1.100,49 TL’sinin davalı ...'dan alınarak davacıya verilmesine,” cümlesinin yazılmasına, hüküm sonucunun 5 inci fıkrasının hükümden çıkarılmasına ve yerine “5- Kabul edilen kısım yönünden; yargılama sırasında davacı kendisini vekille temsil ettirdiğinden karar tarihinde yürürlükte olan AAÜT gereğince 9.309,01 TL nispi vekalet ücretinin davalı ...'dan alınarak kendini vekille temsil ettiren davacıya verilmesine; reddedilen miktar üzerinden 9.200,00 TL maktu vekalet ücretinin davacı taraftan alınarak davalı ...’a verilmesine,” cümlesinin yazılmasına, hüküm sonucunun 6 ncı fıkrasının hükümden çıkarılmasına ve yerine “6- Yargılama sırasında davacı gider avansından karşılanan tebligat ve posta gideri 2.572,55 TL ile bilirkişi ücreti 1.500,00 TL, keşif harcı 170,80 olmak üzere toplamı olan 4.243,35 TL'nin, kabul red oranına göre 3.494,40 TL’den davalı ...'dan alınarak davacıya verilmesine, bakiye gider avansının karar kesinleştiğinde davacıya iadesine,” cümlesinin yazılmasına, hükmün 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 438/7 nci maddesi gereğince DEĞİŞTİRİLMİŞ ve DÜZELTİLMİŞ bu şekliyle ONANMASINA …
 
 ## Yargıtay 7. HD 2023/3002 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916168700)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davacının takip dosyasında borçlu olmadığının tespitine dair isteminin reddine, kötü niyet tazminatı koşulları oluşmadığından tazminat takdirine yer olmadığına karar verilmiştir.
 
@@ -214,6 +236,8 @@ Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 7. HD 2023/147 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883600600)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
 …
@@ -234,6 +258,8 @@ Uyulan bozma kararı gereğince tesis edilmiş İlk Derece Mahkemesi kararında 
 
 ## Yargıtay 5. HD 2022/15472 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837786900)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili için açılan ilk davada saklı tutulan bölümün tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -245,6 +271,8 @@ Karar tarihinde yürürlükte bulunan 6100 sayılı Hukuk Muhakemeleri Kanunu'nu
 İlk derece mahkemesince davanın kabulüne dair verilen karara karşı, davacılar ile dahili davalı idare vekilleri tarafından yapılan istinaf başvurusunun Ankara Bölge Adliye Mahkemesi 14. Hukuk Dairesince esastan reddi kararının Dairenin çoğunluk görüşü doğrultusunda 2942 sayılı Kamulaştırma Kanunu’nun Ek-Madde 3 gereğinin yerine getirilmesi yönünden hükmün bozulmasına karar verilmiş ise de …
 
 ## Yargıtay 7. HD 2022/6060 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865163800)
 
 Dava, paydaşlar arasında yoksun kalınan gelir kaybının tazmini istemine ilişkindir.
 

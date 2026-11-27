@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2016/2213 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214557300)
+
 Hemen belirtmek gerekir ki; 41 parseldeki 5 nolu bağımsız bölüm ile çatı katını davalı-karşı davacı ...'in, 14 parseldeki 6 nolu bağımsız bölümü davacı-karşı davalı ...'nin, 7101 parseldeki 65 nolu bağımsız bölümü ise davacı-karşı davalı ...'ın kullandıkları, bu taşınmazlarda tarafların karşılıklı kullanabilecekleri kısımların bulunmadığı, keşide edilen ihtarnameler ile intifadan men koşulunun gerçekleştiği saptanarak asıl ve karşı davada ecrimisil isteğinin kabulüne karar verilmiş olmasında kural olarak bir isabetsizlik yoktur.
 
 Ancak, asıl davada, davalı ...'in yaptığı zorunlu ve faydalı masrafları şüpheye yer vermeyecek şekilde saptanarak takas mahsup defin değerlendirilip asıl dava bakımından ecrimisile hükmedilmesi gerekirken noksan soruşturma ile yetinilerek asıl dava bakımından yazılı olduğu üzere karar verilmesi doğru olmadığı gibi, karşı davaya konu 324 ada 14 parseldeki 6 nolu bağımsız bölüm ile 7101 parseldeki 65 nolu bağımsız bölümlerin 1/2 payının muris ... adına kayıtlı olduğu gözetilmeden taşınmazların tamamı için karşı davada ecrimisile hükmedilmiş olması da isabetsizdir.
 
 ## Yargıtay 1. HD 2015/12937 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143617600)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -36,6 +40,8 @@ Hemen belirtmek gerekir ki; çekişme konusu taşınmazda davacı da paydaş old
 
 ## Yargıtay 1. HD 2015/3826 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120884500)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -44,6 +50,8 @@ Davanın kabulüne ilişkin olarak verilen karar 3. Hukuk Dairesince, “Dosyada
 Mahkemece, bu husustaki tarafların tüm delilleri toplanarak intifadan men'in gerçekleşip gerçekleşmediğinin re'sen araştırılıp tartışılması ve sonucu dairesinde hüküm kurulması gerekirken; kiraya verilebilecek yerlerden olmasını yeterli görerek ecrimisile hükmedilmesi doğru değildir.” gerekçesiyle bozulmuş, mahkemece bozmaya uyularak yapılan yargılama neticesinde, davanın kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2015/3686 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/129488100)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -55,6 +63,8 @@ Kabule göre de; davacının ancak taşınmazdaki payı oranında ecrimisil tale
 
 ## Yargıtay 1. HD 2015/3523 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119935000)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -62,6 +72,8 @@ Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 Hemen belirtmek gerekir ki; taraflar adına paylı şekilde kayıtlı olan çekişme konusu 6, 14 ve 18 numaralı bağımsız bölümlerin tamamının davalı paydaşın tasarrufunda bulunduğu, davacının taşınmazlarda kullandığı ya da kullanabileceği bölümlerin bulunmadığı, kira gelirlerinden de yararlanamadığı saptanmak, ayrıca kiraya verilerek hukuksal semere elde edilen yerler için paydaşlar arasında intifadan men koşulunun aranmayacağı gözetilmek suretiyle, ecrimisil isteğinin kabulüne karar verilmiş olmasında kural olarak bir isabetsizlik yoktur. Davalı vekilinin işin esasına yönelik temyiz itirazları yerinde olmadığı gibi bilirkişilerce hesaplama yapılırken 6 ve 18 numaralı bağımsız bölümler için davacının kira gelirlerinden payını almaya başladığı tarihlerle sınırlı olarak ecrimisil belirlendiği ve mükerrerlik bulunmadığı anlaşıldığından, bu yöne ilişkin temyiz itirazları da yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2015/2142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120159200)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -73,6 +85,8 @@ Hal böyle olunca, dava tarihi itibariyle çekişme konusu 248 ada 20 parsel say
 
 ## Yargıtay 1. HD 2015/1208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120025800)
+
 Dava; ecrimisil isteğine ilişkindir.
 
 …
@@ -83,6 +97,8 @@ Ne var ki; hükme dayanak yapılan bilirkişi raporunda; davacıların miras pay
 
 ## Yargıtay 1. HD 2014/17166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84799300)
+
 Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 
 …
@@ -90,6 +106,8 @@ Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 Gerçekten de; çekişmeli taşınmazdaki dükkanın davalı tarafından kullanıldığı ve davacı tarafından keşide edilen 04.06.2007 tarihli ihtarname ile intifadan men olgusunun oluştuğu belirlenmek suretiyle ecrimisile karar verilmesinde kural olarak bir isabetsizlik yoktur.
 
 ## Yargıtay 1. HD 2014/16694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84270500)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -99,6 +117,8 @@ Hemen belirtilmelidir ki; ecrimisil isteğine konu 123 ada 69 parsel sayılı ta
 
 ## Yargıtay 1. HD 2014/15740 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84353400)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -106,6 +126,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Hemen belirtilmelidir ki; kayden tarafların paydaşı bulunduğu 1517 ada 37 sayılı parselin imar uygulaması sonucu oluştuğu,davalının taşınmazın öncesini teşkil eden kadastral parselde bir hakkının olmadığı, 3194 sayılı Yasa'nın 18. maddesinin koşullarının oluşmadığı ayrıca davacının taşınmazda kullanabileceği bir yer bulunmadığı gözetilerek ecrimisile hükmedilmiş olmasında kural olarak bir isabetsizlik yoktur.Davalı vekilinin bu yöne değinen temyiz itirazları yerinde değildir.Reddine.
 
 ## Yargıtay 1. HD 2014/15699 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84361200)
 
 Dava, kat mülkiyeti kurulu apartmanın ortak yerine elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -117,6 +139,8 @@ Kat mülkiyeti kurulu bir taşınmazın ortak alanına üçüncü kişilerin tec
 
 ## Yargıtay 1. HD 2014/14463 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84506700)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -126,6 +150,8 @@ Somut olaya gelince; yukarıda belirtilen ilkeler ve gerçekleşen olgular dikka
 O halde; davacının, davalının intifadan men edildiği ihtarname tarihinden itibaren dava tarihine kadar ki dönem için ecrimisil isteğinin kabulüne karar verilmiş olmasında kural olarak bir isabetsizlik yoktur. Davacı vekilinin bu yöne ilişkin temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2014/12549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/89298600)
 
 Dava; paydaşlararasında ecrimisil isteğine ilişkindir.
 
@@ -137,6 +163,8 @@ Bilindiği, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği 
 
 ## Yargıtay 1. HD 2014/11161 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84193900)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -144,6 +172,8 @@ Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 Hâl böyle olunca; yukarıda açıklanan ilkeler doğrultusunda uzman bilirkişiler ile taşınmaz başında keşif yapılması, tanıkların dinlenmesi, davalının tasarufunda olduğu iddia edilen bölümün ecrimisil talep edilen dönemde davalının kullanımında olup olmadığının, kimin tasarufunda olduğunun ve ne zaman tahliye edildiğinin araştırılması, kiraya verilmek suretiyle kullanıldığı iddia edilen bölüm bakımından ise ecrimisil talep edilen dönemde kiraya verilip verilmediğinin açıklığa kavuşturulması kiraya verildiğinin tespiti halinde intifadan men koşulunun aranmayacağı hususunun gözetilmesi toplanacak deliller, toplanan delillerle birlikte değerlendirilerek varılacak sonuç çerçevesinden bir karar verilmesi gerekirken eksik inceleme ile yetinilerek yazlı olduğu üzere hüküm kurulmuş olması doğru değildir.
 
 ## Yargıtay 1. HD 2014/5210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84305900)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -153,6 +183,8 @@ O halde; mahkemece öncelikle yukarıda açıklanan hususların araştırılmas�
 
 ## Yargıtay 1. HD 2014/5010 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84141700)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -160,6 +192,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Türk Medeni Kanunun 688. ve devamı maddelerinde öngörülen paylı mülkiyet hükümleri gözetilerek, 140 parsel sayılı taşınmazdaki davacının payının tamamını davalıların haklı ve geçerli bir neden olmaksızın, üzerine bina ve tesisler yapmak suretiyle kullandıkları ve kiraya verdikleri, davacının bu taşınmazda payına karşılık kullandığı ya da kullanabileceği bir yer bulunmadığı, kira geliri getirebilecek taşınmaz yönünden intifadan men şartının aranmayacağı belirlenmek suretiyle ecrimisil isteğinin kabul edilmesinde ve tazminata dönem sonlarından itibaren yasal faiz yürütülmesinde kural olarak bir isabetsizlik yoktur. Davalıların bu yönlere değinen temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2013/14515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79620600)
 
 Dava, ecrimisil isteğine ilişkin olup mahkemece; davacılardan İ.
 
@@ -172,11 +206,15 @@ Hal böyle olunca; dava konusu taşınmazların tarla vasfı ile gelir getiren t
 
 ## Yargıtay 1. HD 2013/12317 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79490700)
+
 Hemen belirtirmek gerekir ki; davalıların, paylı mülkiyet üzere olan taşınmazın büyük bir bölümünü cam sera olarak, kalan bölümünü ise süs bitkisi üretim ve sergi alanı olarak kullanmak suretiyle davacıyı intifadan men ettiği belirlenerek haksız işgal tazminatı niteliğindeki ecrimisile karar verilmiş olmasında kural olarak bir isabetsizlik yoktur. Davalıların temyiz itirazları yerinde değildir, reddine …
 
 Bilindiği üzere, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan kötüniyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih 22/4 sayılı İnançları Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira geliri karşılığı zarardır. Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde oluşan olumlu zarar ile kullanmadan kaynaklanan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda (olumsuz zarar) ecrimisilin kapsamını belirler. Haksız işgal, haksız eylem niteliğindedir. (YHGK'nun 25.02.2004 gün ve 2004/1-120-96 sayılı kararı)
 
 ## Yargıtay 1. HD 2013/12314 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79482300)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -186,6 +224,8 @@ Hemen belirtmek gerekir ki; dava konusu 122 ada 6 parsel sayılı taşınmazı e
 
 ## Yargıtay 1. HD 2013/9282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79812300)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -194,10 +234,14 @@ Paylı mülkiyet üzere olan taşınmazın tamamını davalının kullanmak sure
 
 ## Yargıtay 1. HD 2013/5819 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79729900)
+
 Hal böyle olunca, tarafların iddiaları ve savunmaları gözetilerek araştırma ve inceleme yapılması,tanık dahil tarafların gösterecekleri delliler toplanıp yerinde yapılacak keşifte yerel bilirkişi ve tanık beyanlarına başvurulmak suretiyle ve uzman bilirkişilerden alınacak rapor ve krokiye belirlenen hususlar da yansıtılarak yukarıdaki ilkeler uyarınca inceleme yapılması,öncelikle tüm paydaşları kapsar şekilde paydaşlar arasında harici bir taksim olgusu olup olmadığı üzerinde durulması, böyle bir taksim olgusu kanıtlanamaz ise dışarıda kalmayacak şekilde tüm paydaşların uzun zamandan beri taşınmazı kullanımı açısından fiili bir durumun yaratılıp yaratılmadığının tespit edilmesi, böyle bir fiili durumun olmadığının anlaşılması halinde ise davacıların taşınmazda payından az veya çok kullandığı veya kullanabilecekleri bir yerin olup olmadığının saptanması, bir başka ifade ile davacılar yönünden intifadan men olgusunun gerçekleşip gerçekleşmediğinin, ayrıca davalı tarafın taşınmazı harici satın almaya dayalı kullanıp kullanmadığının belirlenmesi,harici satın alma savunması kanıtlanır ise davacı A.nin ecrimisil isteğinin reddedilmesi aksi halde oluşacak duruma göre bir karar verilmesi
 gerekirken, eksik inceleme ile yetinilerek neticeye gidilmiş olması isabetli değildir. Kabule göre de;davacı, dava dilekçesinde ecrimisile dava tarihinden itibaren faiz uygulanmasını talep etmiş iken ıslah dilekçesinde bilirkişi raporunda saptanan tüm ecrimisile ıslah tarihinden itibaren faiz uygulanmasını istemiştir.Davacının faiz istemi bakımından talebini daraltmasına rağmen dava tarihinin faiz başlangıcına esas alması doğru olmadığı gibi davacı A.nin kayden 6/240 hisse oranında maliki olduğu 8 ve 343 parsel sayılı taşınmazlardaki paylarını 10.08.2009 tarihinde oğlu davacı R.satış suretiyle temlik ettiği halde bilirkişi raporunda hesaplanan toplam 4.064,61 TL ecrimisil bedelinin dava tarihinden geriye doğru 5 yıllık süreden satış tarihine kadar davacı A.nin ve satış tarihinden dava tarihine kadar ise davacı R.in hakettiği ecrimisil bedelinin infaza elverişli bir şekilde teknik bilirkişiden rapor alınmak suretiyle hesaplanıp karar verilmesi gerekirken yazılı şekilde karar verilmesi de isabetsizdir.
 
 ## Yargıtay 3. HD 2012/25700 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487084000)
 
 Ecrimisile konu edilen taşınmazlarda; taraflar paydaştır. Paydaşlar, kural olarak, intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçeklemesi de; ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanma isteğini davalı paydaşa bildirmiş olmasına bağlıdır.İntifadan men koşulunun gerçekleştiği iddiası, niteliğinde yemin dahil her türlü delille ispatlanabilir.
 Bu koşul dava şartı niteliğinde olduğundan, gerçekleşip gerçekleşmediğinin mahkemece re’sen araştırılarak saptanması gerekir.Ancak; ecrimisil istenilen taşınmazın (bağ-bahçe gibi) doğal ürün veren ya da kiraya verilerek hukuksal semere elde edilen yerlerden olması, paylı taşınmazı işgal eden paydaşın diğerlerinin paydaşlığını inkar etmesi, fiili taksim olması, davacı paydaş tarafından davalı paydaş aleyhine müdahalenin önlenmesi, ortaklığın giderilmesi davası açılması halinde intifadan men şartının aranmasına gerek yoktur.Mahkemece, yukarıdaki ilkeler ışığında araştırma ve inceleme yapılarak, davalı tarafından kullanıldığı iddia edilen yere ilişkin intifadan men şartının gerçekleşip gerçekleşmediği saptanmak suretiyle hüküm kurulması gerekirken, açıklanan gerekçe ile yazılı şekilde hüküm kurulması doğru görülmemiştir.Bundan ayrı olarak, davada ecrimisil miktarını tayin ve tespitte mahkemece dayanak yapılan bilirkişi raporu, Yargıtay’ın yerleşmiş uygulamalarına göre hüküm kurulmasına yeterli değildir.Ecrimisil davaları, haksız fiil benzeri davalar olup, ecrimisil miktarının en çoğu tam kar mahrumiyeti en azı ise asgari kira bedelidir.Somut olayda bilirkişi raporu; emsal
@@ -205,10 +249,14 @@ değerlendirmesi yapılmadan hesaplamanın hangi yıllar için neye göre, hangi
 
 ## Yargıtay 3. HD 2012/25495 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484889500)
+
 Dava konusu taşınmazlarda taraflar paydaştırlar. Paydaşlar (kural olarak) intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler.İntifadan men koşulunun gerçekleşmesi ise, ecrimisil istenen süreden önce davacı paydaşın dava konusu taşınmazdan yada gelirinden yararlanmak isteğinin davalı paydaşlara bildirilmiş olmasına bağlıdır.İntifadan men koşulunun gerçekleştiği iddiası yemin dahil her türlü delille ispatlanabilir. Bu koşul dava şartı niteliğinde olduğundan gerçekleşip gerçekleşmediğinin mahkemece re'sen araştırılarak saptanması gerekmektedir.Yargıtay'ın yerleşmiş içtihatlarına göre intifadan men şartı, istisnai olarak bazı durumların varlığı halinde aranmaz. Hukuki (kira geliri getiren) ve tabii semere veren (bağ-bahçe gibi) taşınmazlar yönünden aranmadığı gibi; taraflar arasında görülen, men-i müdahale davası, ortaklığın giderilmesi davası, tapu iptali ve tescil davası ve redle sonuçlanan ecrimisil davalarının ve benzeri davaların bulunması halinde de intifadan men koşulunun gerçekleştiği kabul edilmektedir. Somut olayda; taraflar arasında murislerinden kalan taşınmazların fiilen taksim edildiği hususu (yazılı belgeye dayalı olarak ) ispatlanmış değildir.
 Davalı, taşınmazların bir kısmını boş bırakarak, bu kısımdan davacının yararlanabileceğini savunmuş ise de; davacının rızasına dayanmayan kullanımı sonucu, kendi kullandığı kısımlardan ecrimisille sorumlu tutulması gerekir. Bu nedenle, taraflar arasındaki görülmekte olan izale-i şuyuu davası da gözetilerek (en azından bu davanın dava dilekçesinin tebliğ tarihinde intifadan men'in gerçekleştiği kabul edilerek) ecrimisil miktarının tespiti ile hüküm altına alınması gerekmektedir.Mahkemece, yanılgılı değerlendirme sonucu, yazılı şekilde intifadan men'in gerçekleşmediğinden bahisle davanın reddine ilişkin hüküm tesisi doğru görülmemiştir.Ne var ki, mahkeme kararının bu gerekçe ile bozulması gerekirken, zuhulen onandığı anlaşılmakla; davacı vekilinin karar düzeltme talebinini kabulü ile Dairemizin 18/09/2012 tarihli 2012/12925-19071 sayılı onama kararının kaldırılarak, mahkeme kararının BOZULMASINA, peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 11.12.2012 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2012/25053 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481726900)
 
 Elbirliği mülkiyetinde (kural olarak) intifadan men edilmedikçe malikler birbirinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi ise taşınmazdan yararlanma isteminin karşı tarafa iletilmesi ile oluşur. İntifadan men şartı yemin dahil her türlü delille kanıtlanabilir. Ancak,bağ bahçe gibi doğal ürün veren veya başkalarına kiralanmak suretiyle medeni semere elde edilen taşınmazlarda ayrıcalıklı olarak intifadan men koşulu aranmaz. Somut olayda, alınan bilirkişi raporu, taraf ve tanık beyanları doğrultusunda davaya konu olan taşınmazın zemin kat, 1.Normal kat, 2.Normal kat olmak üzere 3 katlı bir bina olduğu, binanın 2.katında davalının, murisin ölümünden bu yana kendisinin ikamet ettiği, diğer katların ise kiraya verilerek gelir elde edildiği anlaşılmaktadır.
 
@@ -216,17 +264,23 @@ Elbirliği mülkiyetinde (kural olarak) intifadan men edilmedikçe malikler birb
 
 ## Yargıtay 3. HD 2012/16418 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534722600)
+
 Dava konusu taşınmazda taraflar paydaştırlar. Paydaşlar, (kural olarak) intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler.İntifadan men koşulunun gerçekleşmesi ise; ecrimisil istenen süreden önce davacı paydaş tarafından davaya konu taşınmazdan ya da gelirinden yararlanmak isteğinin davalı paydaşa bildirilmiş olmasına bağlıdır.İntifadan men koşulunun gerçekleştiği iddiası yemin dahil her türlü delille ispatlanabilir.
 Bu koşul dava şartı niteliğinde olduğundan gerçekleşip gerçekleşmediğinin mahkemece re'sen araştırılarak saptanması gerekmektedir.Somut olayda, yargılama sırasında dinlenen davacı tanığı ve damadı ... ’in beyanı ile intifadan men olgusunun gerçekleştiği kabul edilmiş ise de, beyanı somut tarih ve olaylara dayalı olmayıp, daha muris babalarının sağlığında davacının söz konusu eve alınmadığından bahsetmiş ise de, murisin ölüm tarihi 1985 olup, kendisi beyanına göre 2000 yılında aileye katılmıştır.Oysa tarafsız davalı tanığı Tahsin Konakçı, tarafların babalarından kalan arsayı birlikte ... ’a giderek 2011 yılında sattıkları, o tarihe kadar aralarında husumet bulunmadığı, bu satış sonrasında davacının dava konusu taşınmaz için kira istediği ondan sonra ortaklığın giderilmesi ve ecrimisil davası açtığını belirtmiştir.
 O halde, somut tarih ve olayları içeren tanık beyanı ile intifadan men şartının gerçekleşmediği subuta ermekle, davanın bu nedenle reddi gerekirken, yazılı gerekçe ile kısmen kabulü doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/14156 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534515200)
+
 Ecrimisile konu taşınmazlarda taraflar elbirliği halinde malik olup, mahkemece yapılan keşif ile taşınmazların tamamının tarla vasfında olduğu belirlenmiştir.Kural olarak bir taşınmazın paydaşları veya ortakları, intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi de; ecrimisil istenen süreden önce davacı ortağın davaya konu taşınmazlardan ya da gelirinden yararlanma isteğini davalı ortağa bildirilmiş olmasına bağlıdır. Ancak, bu kuralın bir takım istisnaları vardır. Mesela, tabii ( meyve veren ağaçlar) ya da hukuki ( kiraya verilerek kira geliri elde edilmesi ) semere getiren taşınmazlar için bu şartın gerçekleşmiş olması lüzumu olmadığı gibi, Yargıtay'ın yerleşmiş uygulamasına göre, taşınmazı kullanan malikin diğer maliklerin hakkını inkâr etmiş olması halinde de intifadan men şartı aranmaz.
 Ayrıca, yararlanma dileğinin açıklanması koşulu ile davacının açtığı izale-i şüyu davasının dilekçesinin tebliğ tarihi, keza icra emrinin tebliğ tarihi, murisin mirasçılardan mal kaçırdığından söz edilerek dava konusu taşınmazların tapularının iptali için açılan tapu iptal davasına ilişkin dilekçenin tebliğ tarihi, daha önce aynı yer için açılan ve intifadan men koşulunun gerçekleşmediğinden ötürü ret edilen ecrimisil davasına dair davalı tarafa tebliğ edilen önceki dava dilekçesi ile taraflar arasındaki sonuçlanmış önceki tarihli elatmanın önlenmesi veya ecrimisil davaları intifadan men koşulunun oluşması için yeterli sayılmışlardır. Somut olayda; davacı tarafça, intifadan men koşulunun gerçekleştiğinin ispatı için tanık deliline dayanılmış ise de, dinlenilen tanıkların beyanları ile davalının intifadan men edildiği hususu kanıtlanamamıştır.Şu durumda mahkemece; intifadan men koşulunun gerçekleşip gerçekleşmediği hususunda davacı taraftan başkaca delili olup olmadığının sorulması ve ortaya çıkacak sonuca göre karar verilmesi gerekirken, tarla vasfındaki taşınmazların tabi semere getirdiği kabul edilerek intifadan men koşulu aranmaması doğru görülmemiştir.
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/6973 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578228800)
 
 Ecrimisile konu edilen taşınmazlar tapusuz iken, kadastro çalışmaları sonucu davalılar adına tespit edilmiş, Kadastro Mahkemesinin 2005/310 Esas sayılı dosyasında, davacının tespite itiraz davası sonucu davacı payı kabul edilerek, adına tespit ve tescile karar verilmiştir. Bu nedenle taraflar davaya konu bir kısım taşınmazda müşterek maliktirler. Paydaşlar (kural olarak) intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler. Bu koşul dava şartı olması nedeniyle kendiliğinden gözetilir.Ancak, bu kuralın birtakım istisnaları vardır ki bunlar; ecrimisil istenen taşınmazın fındıklık, çayır gibi (kendiliğinden) doğal ürün veren ya da hukuksal semere getiren işletme, fabrika gibi yerlerden olması, ya da paylı taşınmazı işgal eden paydaşın bu yerin tamamında hak iddiası ve diğerlerinin paydaşlığını inkar etmesi, paydaşlar arasında yapılan kullanım anlaşması sonucu her paydaşın yararlanacağı ortak taşınmaz veya bölümlerinin belirli bulunması, davacı tarafından diğer paydaşlar aleyhine daha önce bu taşınmaza ilişkin, el atmanın önlenmesi, ortaklığın giderilmesi, ecrimisil ve benzeri davalar açılmış bulunması halleridir.Bu ayrık durumlarda intifadan men koşulu aranmaz.
 Sözü edilen davaların açılmış olması durumunda ise, o dava dilekçesinin davalı paydaşlara tebliğ edildiği tarihten sonrası için intifadan men koşulu gerçekleşmiş sayılır.Somut olayda, davalı ... bir kısım taşınmazlarda hak iddia etmekle onun yönünden intifadan men şartı aranmayacağı gibi, davacı tespite itiraz etmekle bu taşınmazlar yönünden ve fındık bahçesi niteliğindeki taşınmazlar için yukarıda yazılı ilkeler uyarınca inceleme yapılmadan intifadan men şartının gerçekleşmediği gerekçesiyle davanın reddi doğru görülmemiştir.Ayrıca, bu dava 8.5.2001 tarihinde açılarak, o yıl için davacı payına olan ecrimisil talep edilmiş olup, davalıların zamanaşımı def’i de bulunmadığı halde, yanılgılı gerekçe ile davanın zamanaşımı nedeniyle reddi de doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.

@@ -83,6 +83,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 8. HD 2024/631 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017693600)
+
 Davacı ... dava dilekçesinde; ... ili Ceylanpınar ilçesi Fatih Sultan Mehmet Mahallesi 716 ada 9, 717 ada 2, 718 ada 2, 754 ada 8 ve 755 ada 8 parsel ... taşınmazların kendi kullanımında bulunduğunu ileri sürerek, lehine kullanıcı şerhi verilmesini talep etmiştir.
 
 …
@@ -104,6 +106,8 @@ dinlenilerek aykırılığın giderilmesine çalışılmalı; fen bilirkişisine
 
 ## Yargıtay 7. HD 2023/4767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963148000)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın usulden reddine karar verilmiştir.
 
 …
@@ -124,6 +128,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 8. HD 2022/4656 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/771902400)
+
 Kullanım kadastrosu sırasında, Kazım ... Mahallesi çalışma alanında bulunan 25085 ada 8 parsel sayılı 261 metrekare yüzölçümündeki taşınmaz, kadastro tutanağının beyanlar hanesine, 6831 sayılı Yasa'nın 2/B maddesi uyarınca orman sınırları dışına çıkarıldığı ve krokisinde (A) harfi ile gösterilen kısmın kullanımsız; (B) harfi ile gösterilen kısmın ...’in kullanımında olduğu; (C) ile gösterilen kısmın ise ... 8. Asliye Hukuk Mahkemesinin 2013/364 Esas sayılı dosyasında davalı olduğu şerhi yazılarak; aynı ada 9 parsel sayılı 261 metrekare yüzölçümlü taşınmaz, kadastro tutanağının beyanlar hanesine, 6831 sayılı Yasa'nın 2/B maddesi uyarınca orman sınırları dışına çıkarıldığı ve krokisinde (A) harfi ile gösterilen kısmın ...; (B) ile gösterilen kısmın kullanımsız; (C) ile gösterilen kısmın ise ... 8. Asliye Hukuk Mahkemesinin 2013/364 Esas sayılı dosyasında davalı olduğu şerhi yazılmak suretiyle arsa vasfıyla Hazine adına tespit edilmiştir.
 Genel yetkili mahkemede davacı ... tarafından davalı ... aleyhine açılan zilyetliğin tespiti davası ile, davacılar ... ve ... tarafından davalı ... aleyhine açılan tahliye ve ecrimisil davası davaya konu taşınmaz bölümleri hakkında tutanak düzenlenmiş olması nedeniyle Kadastro Mahkemesine aktarılmıştır. Askı ilan süresi içerisinde ... 9 parsel sayılı taşınmazın (B) harfi ile gösterilip kullanımsız olduğu belirtilen bölümünün kendi fiili kullanımında bulunduğu; davacı ... aktarılan davanın konusu olup 8 parsel sayılı taşınmazın (C) ile gösterilen bölümünde bulunan iki adet tek katlı evin kendisinin ve kardeşi ...'nun kullanımında bulunduğu; davacı ... de dava konusu 25805 ada 8 parsel sayılı taşınmazda kendi kullanımında olan bölümün eksik yazıldığı iddiasına dayanarak ayrı ayrı dava açmışlardır. Kadastro Mahkemesinde, çekişmeli parsel tutanakları ile aktarılan dava dosyası ve askı ilan süresi içerisinde açılan tespite itiraz davaları birleştirilerek yapılan yargılama sonunda, davaya konu 25805 ada 8 parsel sayılı taşınmazın sınırlandırma krokisi ve kadastro tutanağında (C) harfi ile işaretli 136,00 metrekarelik kısım yönünden ... 8.
 Asliye Hukuk Mahkemesinin 2013/364 Esas sayılı dosyasında davalı olması nedeniyle boş bırakılan beyanlar hanesine "Fen Bilirkişisinin 09.03.2016 tarihli ek krokili raporunda (C2) ile işaretli (50,80 metrelik) kısım içerisindeki tek katlı evin malikinin tespit edilmemesi nedeniyle kullanımsız olduğunun, (C1) ile işaretli 85,20 metrekarelik kısmın 1/2'şer hisse itibariyle ... ile ...'nın kullanımında olduğunun ve üzerindeki tek katlı yapının 1/2'şer hisse oranında kendilerine ait olduğunun" şerhine, davacı ... ile davacı ...'nın kadastro tutanağında (A) harfi ile işaretlenerek kullanımsız olduğu belirtilen 79 metrekarelik kısmına ilişkin sübut bulmayan davalarının ayrı ayrı reddine; dava konusu edilmeyen (B) harfi ile işaretli 79,00 metrekarelik kısma ilişkin beyanlar hanesindeki kullanıcı ve muhdesat şerhinin aynen korunarak, çekişmeli taşınmazın arsa vasfıyla Hazine adına tapuya tesciline, tapu kaydının beyanlar hanesine taşınmazın 6831 sayılı Yasa'nın 2/B maddesi uyarınca orman sınırları dışına Hazine adına çıkartıldığı şerhinin yazılmasına, çekişmeli 25805 ada 9 parsel sayılı taşınmazın sınırlandırma krokisi ve kadastro tutanağında (C) harfi ile gösterilen 33,00 metrekarelik
@@ -134,6 +140,8 @@ kısım yönünden ... 8. Asliye Hukuk Mahkemesinin 2013/364 Esas sayılı dosya
 Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına ve ilâmda belirlenip dayanılan gerektirici sebeplere göre yerinde olmayan temyiz itirazlarının reddi ile Usul ve Kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 7. HD 2022/199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759220100)
 
 Davacı vekili, müvekkilinin kayden maliki olduğu 4.211,95 m2 yüzölçümlü 2772 No’lu parselin bulunduğu yerde davalı ... tarafından, imar planı ve imar tadilatı ile yol ve park yapılmak suretiyle taşınmazın tamamına kamulaştırmasız olarak el atıldığını, davalı ... aleyhine açtıkları elatmanın önlenmesi ve ecrimisil davasında Alanya 3.
 
@@ -155,6 +163,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, taraf vekillerinin temyiz itirazların
 
 ## Yargıtay 16. HD 2021/5039 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684813000)
+
 Mahkemece davacının dayandığı Haziran 1970 tarih 7 nolu tapu kaydının çekişmeli 92 parsel sayılı taşınmaz ile 91 parsel sayılı taşınmazın 15.000 metrekarelik bölümünü kapsadığı gerekçesiyle davanın kısmen kabulüne karar verilmiş ise de, tapu maliki ... ile davacı arasındaki ırsi bağ dosyadaki nüfus kayıtları kapsamından anlaşılamamış, tapu kaydı 5.6.2018 tarihinde mahallinde yapılan keşifte uygulanmış ve mahalli bilirkişi ...’ın soyut ifadeleriyle çekişmeli 92 parsel sayılı taşınmazı kapsadığı ifade edilmiş, fen bilirkişi tarafından hazırlanan raporda tapu sınırları kroki üzerinde gösterilmeden yine soyut ifadelerle mevkii ve sınır olarak çekişmeli 92 sayılı parseli kapsadığı ancak tapunun 15.000 metrekare yüzölçümünde olmasına rağmen 92 sayılı parselin 117,31 metrekare yüzölçümünde olduğundan miktar olarak uymadığı ifade edilmiştir.
 
 …
@@ -165,6 +175,8 @@ sabit olup olmadığı üzerinde durulmalı ve tapu kaydının hukuki değeri ve
 karşılaştırmalı biçimde toprak yapısı, eğimi, bitki desenini açıklayan, taşınmazların değişik yönlerden çekilmiş ve sınırları işaretlenen fotoğraflar ile desteklenmiş ayrıntılı rapor alınmalı; fen bilirkişisinden tapu kaydının kapsamının kroki üzerinde gösterilmesi istenilmeli; bundan sonra 3402 sayılı Kadastro Kanunu’nun 14. maddesindeki miktar sınırlamaları dikkate alınmak suretiyle, toplanan delillerin sonucuna göre karar verilmelidir. Mahkemece belirtilen şekilde araştırma ve inceleme yapılmaksızın hüküm verilmesi isabetsiz olduğu gibi, Kadastro Mahkemesine aktarılan dava dosyasında davacı tarafça müdahalenin men’i ile birlikte ecrisimil de talep edildiğinden, ecrimisil talebi taşınmazın aynına ilişkin olmadığından genel mahkemenin davaya bakması gerektiğinin de göz ardı edilmesi doğru olmayıp, temyiz itirazları açıklanan bu nedenle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, peşin yatırılan temyiz karar harcının talep halinde temyiz edene iadesine, yasal koşullar gerçekleştiğinde kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere, 08.06.2021 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2021/4689 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683358600)
 
 Davalılar vekili; yetki, görev, derdestlik ve zamanaşımı itirazlarında bulunarak davacının davalıların taşınmazda hak sahibi olmadığı yönündeki iddialarının doğru olmadığını, davalıların satın almak suretiyle kayden paydaş olduklarını, dava konusu evleri kendi payları üzerine yaptıklarını, müvekkillerinin taşınmazı işgal etmediklerini, davalı ... de ayrıca verdiği dilekçesinde ve duruşmada; evini yaptığı yeri kardeşi ... ...'dan 1984 yılında aldığını, kardeşinin de yeri ... ...'dan aldığını, ev yapmak amacıyla gidip ...'in oğlu...'ten yeri göstermesini istediğini, kendisinin de şu anda evinin bulunduğu yeri gösterdiğini, yere evin temelini 1984 yılında attığını, temelin sekiz sene kadar atılı kaldığını, 1992 yılında evi yaptığını, 24 senedir bu evde oturduğunu, kimsenin yerine müdahale etmediğini, dava konusu taşınmaz üzerinde hisseli tapusunun olduğunu, davacının dava konusu yerin kendisine tahsis edildiğini bütün ortakların muvafakati ile ispatlanması gerektiğini, davada böyle bir durum söz konusu olmadığını belirterek davanın reddini savunmuşlardır.
 
@@ -197,6 +209,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı ... mirasçıları vekilinin t
 
 ## Yargıtay 8. HD 2021/2351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651792900)
+
 Davacılar vekili, müvekkillerinin malik oldukları 434, 433, 354, 445, 431, 444, 335, 364, 362, 359, 336, 315, 306, 337, 358, 339, 308, 321, 338 parsel sayılı taşınmazlara davalı tarafından yol yapmak suretiyle müdahale edildiğini belirterek fazlaya ilişkin haklar saklı kalmak kaydı ile 50.000 TL ecrimisilin yasal faiziyle birlikte davalından tahsiline karar verilmesini istemiştir.
 
 Davalı ... vekili, davanın reddini savunmuştur.
@@ -215,6 +229,8 @@ dosya kapsamına uygun (ve kazanılmış haklar da dikkate alınarak) bir karar 
 SONUÇ: Temyiz olunan kararın yukarıda (2) nolu bentte gösterilen nedenlerle davalı vekilinin yazılı temyiz itirazları yerinde görüldüğünden kabulü ile hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollaması ile HUMK’un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/1400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644049900)
 
 Davalı vekili, davanın reddini savunmuştur.
 

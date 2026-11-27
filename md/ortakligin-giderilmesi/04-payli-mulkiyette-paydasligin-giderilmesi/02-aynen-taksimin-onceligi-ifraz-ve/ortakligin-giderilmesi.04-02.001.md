@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2024/217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055512600)
+
 Türk Medeni Kanunu’nun 706, 6098 sayılı Türk Borçlar Kanunu’nun 237 ve 2644 sayılı Tapu Kanunu’nun 26 ncı maddeleri hilafına tapulu taşınmazlarda harici veya fiili taksim ile payların mülkiyeti ana taşınmazdan ayrılamaz. Ne var ki, taşınmazın kullanma biçimi tüm paydaşlar arasında varılan bir anlaşma (4721 sayılı Kanun, md. 689/1) ile belirlenmiş ya da fiili bir kullanma biçimi oluşmuş ve uzun süre paydaşlar bu durumu benimsemişlerse kayıtta paylı, eylemsel olarak (fiilen) bağımsız bu oluşumun tapuda yapılacak resmî taksime veya ortaklığın satış suretiyle giderilmesine yahut o yerde bir imar uygulaması yapılmasına kadar korunması "ahde vefa" kuralının yanında 4721 sayılı Kanun’un 2 nci maddesinde düzenlenen iyiniyet kuralının da bir gereğidir. Aksi hâlde, pek çok kimse zarar görecek toplum düzeni ve barışı bozulacaktır.
 
 ## Yargıtay HGK 2021/1063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707314300)
 
 Bir paydaş tarafından bu hakkın kullanılması, bütün paydaşların paylaşmayı yerine getirme borcunu doğurur. Paylaşmanın nasıl yapılacağı TMK'nın 699. maddesinde düzenlenmiş olup, bir veya birkaç paydaşın geçerli şekilde paylaşma istemleri ile paylaşma borcu doğunca, bu borcun rızaen yerine getirilmesi (rızai paylaşma) durumunda paylaşma, aynen bölüşme veya bedelini paylaşmak üzere malın pazarlık veya arttırma ile satılması (bedelin bölüşülmesi) ile gerçekleşebilir (TMK m. 699/1). Şayet bir veya birkaç paydaşın paylaşmaya yanaşmaması ya da paylaşmanın tarzında anlaşamaması durumunda mahkeme tarafından paylaşmanın sağlanması (kazai paylaşma) için dava açılır. Bu davada paydaşlardan birinin istemi üzerine hâkim, malın aynen bölünmesi mümkün oldukça malın aynen bölünerek paylaştırılmasına karar verecektir (TMK m. 699/2).
 
@@ -33,9 +37,13 @@ Uyuşmazlığın çözümünde 3194 sayılı İmar Kanunu’nun 16. maddesinin i
 
 ## Yargıtay HGK 2021/91 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646424400)
+
 Ayrıca; mahkemece iptal ve tescile karar verilebilmesi için taşkın yapının zeminindeki arazi parçasının ana taşınmazdan ifrazının da mümkün olması gereklidir. İfrazın mümkün olup olmadığı ilgili idareden araştırılarak, mümkün olması hâlinde bunun idari kararla (örneğin taşınmazın Belediye imar planı içerisinde olması halinde ifraza ilişkin Belediye Encümen Kararı alınarak) tespit edilmesi gerektiği gözetilmelidir.
 
 ## Yargıtay HGK 2020/983 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638466200)
 
 Yapılan açıklamalar ışığında somut olayın incelenmesinde; davacılar tarafından dayanılan 22.11.1974 tarihli ve 9 sıra nolu tapu kaydının kökü olan Mayıs 1325 tarih 71 ilâ 80 ve 136 ilâ 141 sıra nolu tapu kayıtlarının miktarının 2.000 dönüm (1.838.000 m²) yüzölçümlü olduğu, maliklerinin gerçek kişiler ile Hazine olduğu, bir kısım tapu malikleri tarafından açılan ortaklığın giderilmesi davası üzerine Antalya Sulh Hukuk Mahkemesinin 11.01.1940 tarihli ve 15/1 sayılı kararı ile Mayıs 1325 tarih 71 ilâ 80 ve 136 ilâ 141 sıra nolu tapu kayıtlarının kapsadığı alanın 23.079.766 m² olduğuna, 878.564 m²'sinin tarım arazi niteliğinde olduğundan taksimine, geriye kalan 22.201.202 m² yüzölçümlü bölümünün tarıma elverişli olmadığından satılarak ortaklığın giderilmesine karar verildiği, 878.564 m² yüzölçümlü tarıma elverişli taşınmazın taksimle 28 parçaya ayrıldığı, Hazinenin payına karşılık olarak ayrılan 353.815 m² yüzöçümlü taşınmazın iskanen Cihadiye köyünde bulunan göçmenlere dağıtıldığı, tarıma elverişsiz 22.201.202 m² yüzöçümlü taşınmazın ihale ile satılarak alıcıları ... ve ... adlarına 13.04.1944 tarihli ve 118 sıra nolu tapu kaydının oluştuğu, yapılan ifraz ve pay satışı sonucu
 24.11.1953 tarihli ve 53 sıra nolu kayıttan bölünen 17.578,632 m2'lik kısmın pay satışı sonucu 29.4.1958 tarihli ve 30 sıra nolu kayıtla ..., ... ve ... adlarına paylı mülkiyet üzere kayıtlı iken, ifraz sonucu 13.357,447 m2'lik bölümünün 1968 tarih ve 7 sıra nolu tapu kaydı ile ..., ... ve ... adlarına tescil edildiği, Çamköy, Koyunlar ve Varsak sınırlarında kalan 13.357.447 m2'lik bu bölümün, 1968 yılında krokiye bağlanarak ifraz ve taksim sonucu 113 parçaya bölünerek, 30.07.1968 tarih 8 ila 120 sıra nolu müfrez tapuların oluştuğu, davacıların murisi ... tarafından 30.07.1968 tarihli ve 35 nolu, senkistan ve fundalık vasfında, sınırları şarken 23 parsel, kısmen yol ve ötesi 39 parsel, garben Düden, şimalen eşek alanını fasleden yayla yolu, cenuben 37 kroki nolu parsel olan 436.800 m2'lik taşınmazın 100000/436800 oranındaki payını 21.11.1974 tarihli ve 7566 yevmiye sayılı senetle maliklerinden satın alındığı, Varsak köyünde yapılan kadastro çalışmasında davacıların murisi tarafından satın alınan taşınmazın 115,525 m2 olarak ölçülen 2807 parsele revizyon gördüğü ve davacının murisi ... adına payı oranında tespit edildiği, anılan tespite 3. kişilerce ve davacının murisi ...
@@ -44,6 +52,8 @@ Yargıtay denetiminden geçerek 01.06.2009 tarihinde kesinleştiği anlaşılmak
 
 ## Yargıtay HGK 2020/279 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602207300)
+
 Bu hükümlerden açıkça anlaşılacağı üzere, terekedeki mallara iştirak hâlinde malik olan her mirasçı, ortak sıfatıyla terekedeki taşınır ve taşınmaz malların aynen ve şayet bu mümkün değilse satış yoluyla paylaştırılmasına karar verilmesini sulh mahkemesinden isteyebilir. Mirasçının açtığı ortaklığın giderilmesi davasında, hâkim imkân varsa taşınmazlardan her birinin tamamını bir mirasçıya vermek suretiyle paylaştırmayı yapar. Mirasçılara paylaştırma yapılırken şayet taşınmazların değerleri arasında fark varsa bu farkın para olarak ödenmesi yoluyla miras payları arasında denkleştirme sağlanır. Bu hüküm, paylı mülkiyetin sona erdirilmesi için açılan davada paylaşma biçiminin düzenlendiği TMK’nın 699/2. maddesi ile aynı mahiyettedir.
 
 TMK’nın 642. maddesinin gerekçesinde, uygulamada terekede yer alan değerlerin her birinin ayrı ayrı ele alınması nedeniyle aynen paylaşılmasının mümkün olmadığı, bunun da taşınmazların el değiştirmesine ve mirasçıların mirasbırakanın terekesinden uzaklaştırılmasına sebep olduğu, bu nedenle hâkime istem hâlinde terekenin tamamının aynen parçalara bölerek karar verebilme imkânının getirildiği şeklinde açıklanmıştır. Kanun koyucunun bu hükmü getirmekteki amacı, öncelikle aynen taksim isteyen mirasçılar arasındaki paylaşma konusundaki ihtilafın en uygun biçimde çözümlenmesi ve taşınmazların değerleri arasında fark bulunması hâlinde gereğinde fark ödetmek yoluyla, denkleştirmenin sağlanmasıdır. Ayrıca payların özgülenmesinde mirasçıların anlaşması asıl olup, anlaşamazlarsa kura çekilecektir. Bu yolla aynen taksimi gerçekleştirme olanağı olan mallar üzerinde mahkemenin ortaklığı ve uyuşmazlığı sürdürecek, sonuçta mirasçıları satışa zorlayacak bir yöntemi benimsemesi olanaklı olmadığı gibi, açıklanan yasal düzenlemelere de aykırı olacaktır (Hukuk Genel Kurulunun 27.04.2011 tarihli ve 2011/6-55 E., 2011/222 K. sayılı kararı).
@@ -51,6 +61,8 @@ TMK’nın 642. maddesinin gerekçesinde, uygulamada terekede yer alan değerler
 Yukarıda da ifade edildiği üzere ortaklığın giderilmesi davaları, tarafların hem davacı hem de davalı durumda olduğu iki taraflı davalardandır. İki taraflı davalar arasında sayılmaları sebebiyle, yargılama esnasında davacı ve davalı tarafın hakları ve talepleri aynı şekilde ele alınmalıdır. Davacının satış talebine karşılık davalı aynen taksim isteminde bulunmuşsa, yapılan inceleme sonucunda aynen taksim mümkün olmadığı zaman davacının talebine uygun şekilde malların satış suretiyle ortaklığın giderilmesine karar verilebilmektedir.
 
 ## Yargıtay HGK 2016/174 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232481500)
 
 Dava, ortaklığın aynen taksim, olmazsa satış suretiyle giderilmesi istemine ilişkindir.
 
@@ -61,12 +73,16 @@ taksim projesi-bilirkişi raporu içeriğinin doğru olduğunu, altındaki imzan
 
 ## Yargıtay HGK 2015/1185 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113477100)
+
 Bilindiği üzere; paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan payına vaki elatmanın önlenilmesini her zaman isteyebilir. Hatta elbirliği mülkiyetinde dahi paydaşlardan biri öteki paydaşların olurlarını almadan veya miras şirketine temsilci atanmadan tek başına ortak taşınmazdan yararlanmasına engel olan ortaklar aleyhine elatmanın önlenilmesi davası açabilir. Ancak, o paydaşın, payına karşılık çekişmesiz olarak kullandığı bir kısım yer varsa açacağı elatmanın önlenilmesi davasının dinlenme olanağı yoktur. Yerleşmiş Yargıtay İçtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorununu elatmanın önlenilmesi davası ile değil, kesin sonuç getiren taksim veya şuyun satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir.
 
 Öte yandan, yurdumuzda sosyal ekonomik nedenlerle kırsal kesimlerden kentlere aşırı akım, nüfus çoğalması, büyük mesken ve işyeri ihtiyacı nedeniyle hızlı yapılaşma karşısında görevli mercilerin aciz kalmaları veya çeşitli nedenlerle göz yummaları sonucu, izinsiz, ruhsatsız, resmi kayıtlara bağlanmayan büyük yerleşim alanları oluştuğu, bu arada paylı taşınmazların tapuda resmi ifrazları yapılmadan paydaşlar arasında haricen veya fiilen taksim edilip üzerlerine büyük mahalleler hatta beldeler yapıldığı bir gerçektir. Bilindiği üzere M.K.nun 706, B.K.nun 2l3, T.K.nun 26. maddeleri hilafına tapulu taşınmazlarda harici veya fiili taksim ile payların mülkiyeti ana taşınmazdan ayrılamaz. Ne varki, taşınmazın kullanma biçimi tüm paydaşlar arasında varılan bir anlaşma ile belirlenmiş yada fiili bir kullanma biçimi oluşmuş, uzun süre paydaşlar bu durumu benimsemişlerse kayıtta paylı, eylemsel olarak (fiilen) bağımsız bu oluşumun tapuda yapılacak resmi taksime veya şuyun satış suretiyle giderilmesine yahut o yerde bir imar uygulaması yapılmasına kadar korunması, "ahde vefa" kuralının yanında M.K.nun 2. maddesinde düzenlenen iyi niyet kuralının da bir gereğidir.
 Aksi halde, pekçok kimse zarar görecek toplum düzeni ve barışı bozulacaktır.
 
 ## Yargıtay HGK 2013/754 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77474000)
 
 Dava; taşınmaz mal ortaklığının giderilmesi istemine ilişkindir.
 
@@ -80,20 +96,28 @@ Somut olayda, mahkemece alınan bilirkişi raporu içeriğine göre; dava konusu
 
 ## Yargıtay HGK 2012/403 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/55665000)
+
 Kuşkusuz, paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşların payına elatmalarının önlenmesini her zaman isteyebilir. Ancak, o paydaşın taşınmazda payına karşılık çekişmesiz olarak kullandığı bir kısım yer varsa elatmanın önlenmesi davası dinlenemez. Yerleşik Yargıtay uygulamasına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorunu elatmanın önlenmesi davasıyla değil kesin sonuç sağlayacak taksim veya şüyuun satış yoluyla giderilmesi davası açmak suretiyle çözülebilir.
 
 Bilindiği üzere, Türk Medeni Kanununun 706, Borçlar Kanununun 213, 2644 sayılı Tapu Kanununun 26. maddeleri hilafına tapulu taşınmazların harici veya fiili taksimi ile paylarının mülkiyeti ana taşınmazdan ayrılamaz. Ne var ki, taşınmazın kullanma biçimi tüm paydaşlar arasında varılan bir anlaşmayla belirlenmiş ya da fiili bir kullanma biçimi oluşmuş, uzun süre de paydaşlar bu durumu benimsemişlerse; kayıtta paylı, eylemli olarak bağımsız bu oluşumun resmi taksim yapılana veya ortaklığın giderilmesine kadar “ahde vefa” (söze sadakat) kuralı doğrultusunda korunması gerekir. O yüzden mahkemece açıklanan bu yön üzerinde durulması, başka bir anlatımla taşınmazın tüm paydaşların katıldığı kullanma paylaşımına konu olup olmadığının, tarafların bu konudaki delilleri istenerek açıklığa kavuşturulması gerekir.
 
 ## Yargıtay HGK 2012/31 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/62612300)
+
 Bu bakımdan somut olayda da mahkemece öncelikle anataşınmazda başlı başına kullanılmaya uygun kaç bağımsız bölüm bulunduğu, bunların nitelikleri, her bir paydaşa en az bir bağımsız bölüm düşüp düşmeyeceği belirlenip, davaya konu taşınmaz üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje mevcut değilse, ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara yada projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması halinde, öncelikle aykırılıkların giderilmesi daha sonra yapının fiili durumunu yansıtan projenin hazırlattırılıp, ilgili İmar Müdürlüğünün onayının ve buna bağlı olarak yapı kullanma izin belgesinin alınması, ayrıca Kat Mülkiyeti Yasasının 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her
 bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp varsa fiili taksime göre, taksim yoksa çekilecek kura ile önce her bir paydaşa birer bağımsız bölüm özgülendikten sonra arta kalan bağımsız bölümlerin pay oranları da gözetilmek suretiyle yine kura ile paydaşlara özgülenerek, gerekiyorsa bedel farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi, yönetim planını paydaşların (tanınan süreye rağmen) imzalamaktan kaçınması halinde imzalanmış sayılması suretiyle tahkikatın ikmal edilmesinden sonra kat mülkiyetine geçiş yoluyla ortaklığın giderilmesine; belirtilen koşulların oluşmaması halinde ancak, satışa karar verilmesi gerekir.
 
 ## Yargıtay HGK 2005/92 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76610600)
+
 Taraflara ait taşınmazların, kadastro parsellerinin ifraz ve tevhidi sonucu oluşan imar parselleri olduğu bilirkişi raporunda yazılıdır.Her iki taşınmaz ifraz ve tevhid ile oluştuğundan kadastro beyannamelerinin bulunmadığı da Tapu Sicil Müdürlüğünce bildirilmiştir.Yerinde yapılan keşif ve uygulama sonucunda davalıya (karşı davacıya) ait 151 parsel sayılı taşınmazdaki binanın toplam 27.03 metrekarelik kısmının davacının (karşı davalının) 379 parsel sayılı taşınmazına tecavüzlü olduğu saptanmıştır.Ancak düzenlenen kroki ve raporlarda taşınmazların imar uygulaması öncesinde kadastro parseli iken bu yapıların yapılıp yapılmadığı, kadastro parselinde de aynı taşkınlığın sözkonusu olup olmadığı, nizalı kesimin imar uygulaması sonucunda davacı parseline taşkın hale gelip gelmediği hususlarının belirtilmediği anlaşılmıştır.Bu yönler gözetilerek bilirkişilerden kroki ve rapor alınmak suretiyle oluşacak duruma göre bir karar vermek gerekirken eksik inceleme ve soruşturma ile yazılı olduğu şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir...)
 
 ## Yargıtay HGK 2001/166 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16138600)
 
 Ortaklığın giderilmesi davalarında taksim istenmesi halinde, dava konusu taşınmazın pay ve paydaş durumuna göre taksimin mümkün olup olmadığının araştırılması gerekir. Paydaşlar muvafakat etmediği takdirde taşınmazın bir kesimi paydaşlar arasında paylı "müşa" bırakılamaz. Davada sulh vaki olmadığı sürece bir kısım taşınmazların bazı paydaşlara, diğerlerinin diğer paydaşlara verilmesi şeklinde re'sen taksime gitmek mümkün değildir. Taksimde taşınmazın pay ve paydaş durumuna arazinin verim niteliğine göre taksimin mümkün olup olmadığının bilirkişi aracılığıyla saptanması gerekir. Payların denkleştirilmesi için ivaz ilavesi icap ediyorsa fen ehline taksim projesi düzenlettirilir. Taşınmaz Belediye ve mücavir alan hudutları içerisinde ise taksim projesi eklenerek Belediye'den imar yasası ve yönetmeliği uyarınca bu taksime imkan olup olmadığı sorulur. Taşınmaz Belediye ve mücavir alan dışındaysa aynı husus İl İdare Kurulundan sorularak saptanır. Taksim tarzında yani taksim projesindeki bölümlerin hangi paydaşa verileceği konusunda taraflar anlaşamazlarsa mahkeme huzurunda kura çekilerek hangi kesimin hangi paydaşa verileceği belirlenir.
 
@@ -121,9 +145,13 @@ Asliye Hukuk Mahkemesinin 05.05.2017 tarihli ve 2017/67 Esas, 2017/166 Karar say
 
 ## Yargıtay 7. HD 2025/5072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192179000)
+
 Dava konusu 1215 34... parsel, 1215 70... parsel, 1215 70... parsel ve 1216 52... parsel sayılı taşınmazlar yönünden temyiz incelemesine gelince; bu taşınmazlarda 2942 sayılı Kamulaştırma Kanunu'nun 7. maddesi gereği kamulaştırma şerhi bulunduğundan bu taşınmazlara ilişkin kamulaştırma evrakları dosya arasına temin edilerek söz konusu şerhe dayalı işlem yapılıp yapılmadığının belirlenmesi, işlem varsa kamulaştırma işleminin kesinleşip kesinleşmediğinin araştırılması, kamulaştırma kesinleşmişse kamulaştırılan kısmın ifrazı için davacıya uygun bir süre verilip kamulaştırılan kısmın ifrazı yapıldıktan sonra Mahkemece bir hüküm kurulması gerekirken eksik araştırma ve inceleme sonucunda karar verilmesi doğru görülmemiş kararın bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2025/4094 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173187400)
 
 Hukuk Dairesince bozulduğu, Antalya Kadastro Mahkemesince bu kez 1999/285 E. - 1999/292 K. sayılı ilamla direnme kararı verildiği, HGK’nın direnme kararını bozması üzerine Antalya Kadastro Mahkemesinin 2004/1-2005/5 K. sayılı ilamla dayanak tapu kayıtlarının Mayıs 1325 tarih 71 ila 80 ve 136 ila 141 sıra nolu sicilden geldikleri, kök tapuların 2.000 dönüm (1.838.000 m2) olan miktarının Hazinenin de taraf olduğu ortaklığın giderilmesi davasıyla 22.201.202 m2 olarak belirlenmiş ise de anılan dava yüzölçüm artırılması davası olmadığından Hazineyi bağlamayacağı, tapu kayıtlarının ilk tesisindeki miktara (2.000 dönüm) itibar edilmesi gerektiği, miktarından fazlasıyla Koyunlu Köyünde bulunan 3.931.926 m2 yüzölçümlü dava dışı parsellere revizyon gördüğü gerekçesiyle davacıların davalarının reddine, 229 parselin 4.126.352m2 yüzölçümlü olarak makilik niteliği ile Hazine adına tapuya tesciline karar verildiği, temyiz ve karar düzeltme isteklerinin Yargıtay 7.
 
@@ -131,6 +159,8 @@ Hukuk Dairesince reddedilerek 01.07.2008 tarihinde kesinleştiği, anılan davad
 kaydının oluştuğu, anılan tapunun ifraz edildiği, 17.578.632 m2 yüzölçümlü kesiminin 29.04.1958 tarih 30 sıra numarasıyla ...ve... adlarına paylı mülkiyet üzere kayıtlı iken yine ifraz edildiği, 3.913.685 m2 yüzölçümlü kesiminin Koyunlar Köyünde yapılan genel arazi kadastrosu sırasında revizyon gördüğü, Tapu ve Kadastro Genel Müdürlüğünün 14.06.1968 gün Tasarruf Dairesi Başkanlığının 4.1.10.4/451 sayılı emirleri uyarınca 307.500 m2 yüzölçümlü kesiminin orman olarak ayrıldığı ve 30.07.1968 tarih 6 sıra nolu tapunun Hazine adına oluştuğu, anılan tapunun...’de yapılan genel arazi kadastrosu sırasında 230 sayılı orman parseline revizyon gördüğü, 13.357.447 m2 yüzöçümlü bölümünün ...ve... adlarına paylı mülkiyet üzere kayıtlı iken tapu maliklerinin rızai taksim yaptıkları, bir kesimini yola terk ettikleri, gerisini 113 parçaya ayırdıkları, 30.07.1968 tarih 8 ila 120 sıra nolu ifraz tapularının oluştuğu, ifraz haritasında 1 ila 10, 15 ila 33, 37 ila 46, 49 ila 55, 57 ila 67 ve 115 numaralı yerlerin ... köyünde bulunan parsellere revizyon gördüğü, ifraz haritasındaki 11 ila 14, 34, 35, 36, 47, 48, 56, 68 ila 114 nolu yerlerin ise...
 
 ## Yargıtay 5. HD 2025/2199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135053200)
 
 Hukuk Dairesinin ve Antalya Bölge Adliye Mahkemesi 8 Hukuk Dairesinin kararından gerekse dosyada mevcut tapu kayıtları ve bilirkişi raporlarından, ....... ve ........... köylerine revizyon gören tapu kayıtlarının Antalya Sulh Hukuk Mahkemesinin 1940 tarihli ve 15/1 sayılı kararına istinaden yapılan 13.04.1944 tarihli ihale ile oluşan 118 sıra sayılı tapu kaydından ifrazen geldiklerinin tartışma konusu olmadığı, Nisan 1944 tarihli ve 118 nolu tapudan 05.04.1953 tarihli ve 54 sıra nolu tapu ile ....... ve 49 arkadaşına satışı yapılan 2.297.500 m² nin ...köyüne revizyon gören 364 ila 444 sayılı parseller olduğunun tapu kayıtlarından anlaşıldığı, .... ve ........ köylerine revizyon gören tapu kayıtları Antalya Asliye 8.
 Hukuk Mahkemesinin 2016/308 Esas sayılı dosyasında incelendiği ve geldi kayıtlarında 30.07.1968 tarihli ifraz haritasında bağımsız bölüm numaralarının yazılı olduğunun görüldüğü, 30.07.1968 tarihli taksim ve ifraz haritasında belirtilen bağımsız bölümlerin tamamının, tapu kayıtları incelendiğinde satış suretiyle oluştuğu da her türlü izahtan vareste olduğu, bu durumda Kadastro Mahkemesinin kararında belirtilen ...ve ........köylerine revizyon gören tapu kayıtlarının tamamının Nisan 1944 tarihli ve 118 sıra nolu tapu kaydından çeşitli tarihlerde yapılan satışlar sonucu oluştuğu, senetsizden tapulama konusu olmadığının açıkça anlaşıldığı, davacının dayandığı tapunun 20.363.202 m²lik yolsuz kayıt kapsamında mı kaldığı yoksa 1.838.000 m² içerisinde mi kaldığı sorusunun önem arz ettiği, gerek Antalya Kadastro Mahkemesinin kararını onaylayan Yargıtay 7.Hukuk Dairesinin ve tazminat taleplerinin reddedilmesi gerektiğini ifade eden Yargıtay (Kapatılan) 20.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2024/2091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029319800)
+
 2/B maddesi uyarınca yapılan çalışmalarda orman sınırları dışına çıkartılan P.CXI, P.CXII, P.CXIII numaralı blok parsellerinin iptal edildiği, dava konusu taşınmazların P.CVI 2/B blok parseli içerisinde yer aldığı ve Kemer Kadastro Mahkemesinin 1994/1085 Esas 2002/16 Karar sayılı kararı ile ilgisinin bulunmadığı, fiili durumu, toprak ve bitki örtüsü itibariyle taşınmazın 2/B şartlarını taşıdığı, taşınmazların orman sayılmayan yerlerden olduğu açıklanarak davanın reddine, davacının tapu iptali ve tescil talebinin reddine dair karar verildiğinden ve davalılar kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre hesaplanan 2.725,00-TL maktu vekalet ücretinin davacı taraftan alınarak davalılara verilmesine, davacının men'i müdahale ve kal talebinin reddine dair karar verildiğinden ve davalılar kendilerini vekil ile temsil ettirdiklerinden ret edilen miktar üzerinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre hesaplanan 2.725,00-TL maktu vekalet ücretinin davacı taraftan alınarak davalılara verilmesine …
 
 …
@@ -29,6 +31,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 Yukarıda (2) numaralı bentte açıklanan sebeplerle; davacı ... İdaresi vekilinin vekalet ücretine yönelik karar düzeltme isteminin kabulü ile Dairenin 30.05.2023 tarihli ve 2021/12542 Esas, 2023/3343 Karar sayılı ilamı ile İlk Derece Mahkemesi kararının onanmasına dair ilamın ortadan kaldırılmasına …
 
 ## Yargıtay 7. HD 2024/1765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031437800)
 
 Davacı vekili dava dilekçesinde; dava konusu bağımsız bölümün davacıya ait olup davalı tarafından haksız şekilde kullanıldığını ve ihtarnameye rağmen müdahalenin sonlandırılmadığını belirterek el atmanın önlenmesi ve ecrimisile karar verilmesini talep etmiştir.
 
@@ -46,6 +50,8 @@ Davacı tarafından davalı aleyhine eldeki dava açılarak el atmanın önlenme
 
 ## Yargıtay 5. HD 2024/1195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021013400)
+
 Davacı vekili dava dilekçesinde özetle; dava konusu ... ili, ... ilçesi, ... Mahallesi, 91758 ada 8 parsel sayılı taşınmazın imar planında açık spor tesisi olarak planlandığını ve oto pazarı olarak fiilen el atıldığından, bedelinin el atma tarihinden itibaren işleyecek yasal faizi ile birlikte davalı idarelerden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -61,6 +67,8 @@ Eldeki davada dava konusu taşınmaz hâlihazırda yürürlükte bulunan 2013 on
 Davalı ... vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/601 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026506600)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -82,6 +90,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 5. HD 2024/187 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1020997900)
+
 Davacılar vekili dava dilekçesinde özetle; Hakkari ili, Yüksekova ilçesi, .../... köyü, 155 ada 19 parsel sayılı taşınmaza kamulaştırma yapılmaksızın fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmaz ve ecrimisil bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -101,6 +111,8 @@ Davacı vekilinin temyiz itirazlarının kısmen kabulü ile temyiz olunan Bölg
 
 ## Yargıtay 5. HD 2024/109 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015945500)
+
 Davacı vekili dava dilekçesinde özetle; Kocaeli ili, Dilovası ilçesi, ... köyü 2510 parsel sayılı taşınmaza yol olarak fiilen el atıldığından kamulaştırmasız el atmaya dayanan tazminat bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -118,6 +130,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyl
 
 ## Yargıtay 5. HD 2024/92 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015700600)
+
 Davacı vekili dava dilekçesinde özetle; Ankara ili, Keçiören ilçesi, ... Mahallesi 91758 ada 8 parsel sayılı taşınmazın imar planında spor alanı olarak ayrıldığını, 2002 yılından bu yana davalı idarece fiili el atma olgusu gerçekleşecek şekilde taşınmaza kamulaştırmasız el atıldığı taşınmazın bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -133,6 +147,8 @@ Dosyadaki bilgi ve belgelere göre; dava konusu taşınmaza fiilen el atılmadı
 Davacı vekilinin temyiz isteminin kabulü ile İlk Derece Mahkemesi kararının (5) numaralı bendinde yer alan "39.370,00" sayısının çıkartılmasına, yerine "9.200,00" sayısının yazılması suretiyle hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2023/12804 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1000111300)
 
 Davalı vekili cevap dilekçesinde özetle; kamulaştırmasız el atma davalarında husumetin taşınmaza fiilen el atan idareye yöneltilmesi gerektiğini, dava konusu taşınmaza müvekkili idare tarafından herhangi bir şekilde el atılmadığını, söz konusu parselin spor alanında kaldığını, karara esas alınan bilirkişi raporunda tespit edilen değerin çok yüksek olduğunu, emsal alınan taşınmazların dava konusu parsellerin farklı mevkilerde olduğunu, taşınmaza fiili olarak el atılmayan kısımların da bedelinin tazmin edilmesi gerektiği şeklindeki beyan ve taleplerin hukuka aykırı olduğunu savunarak davanın reddine karar verilmesini talep etmiştir.
 
@@ -151,6 +167,8 @@ Bu davaların yasal kaynağını Yargıtay İçtihadı Birleştirme Büyük Gene
 Kamu düzeni gereğince Bölge Adliye Mahkemesi kararının 3 No,lu bendinin tümüyle çıkartılmasına, yerine “Alınması gereken 22.679.39 TL harçtan peşin alınan 17.009.54 TL harçtan mahsubu ile bakiye 5.669.85 TL harcın davalı idareden tahsili ile Hazineye irat kaydına,'' cümlesinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2023/11400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1005087900)
 
 Mahkemece bozma ilamına uyularak yeniden yapılan yargılama sonucunda; dava ve bozma ilamından sonra işbu dava dosyası ile birleştirilen kamulaştırmasız el atılan taşınmaz bedelinin tahsiline ilişkin davalarla ilgili olarak karar verilmesine yer olmadığına dair hüküm kurulmuştur.
 
@@ -172,6 +190,8 @@ Davalı ... vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile
 
 ## Yargıtay 5. HD 2023/11339 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1010730200)
+
 Davacı vekili dava dilekçesinde özetle; dava konusu Ankara ili, Sincan ilçesi, .../... Mahallesi 116 ada 87,88 parsel ile 117 ada 2, 3 parsel sayılı taşınmazların büyük bir kısmı üzerine davalı idare tarafından kamulaştırma yapılmadan ... Karayolu yapıldığını yol yapılmayan kısmının ise müvekkili tarafından değerlendirilemediğini belirterek bedelinin yasal faizi ile birlikte davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -187,6 +207,8 @@ Dava konusu 116 ada 88 parsel sayılı 5.510,55 m² yüzölçümlü taşınmazı
 Davacı ve davalı ... vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2023/10958 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008805800)
 
 Davacı vekili dava dilekçesinde özetle; İstanbul ili, Eypsultan ilçesi, ... Mahallesi 319 ada 5 parsel sayılı taşınmaza fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin tahsilini talep etmiştir.
 
@@ -204,6 +226,8 @@ Mahallesinde bulunan 319 ada 5 parsel sayılı arsa niteliğindeki taşınmaza, 
 Taraf vekillerinin tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2023/10616 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1003958900)
 
 Davacılar vekili dava dilekçesinde; Kocaeli ili, Gebze ilçesi, ... köyü 113 ada 7 ve 8 parsel ile 114 ada 31 parsel sayılı taşınmazların kamulaştırma yapılmaksızın fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmazlar bedelinin davalı idareden tahsilini talep etmiştir.
 
@@ -223,6 +247,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/10570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1003613400)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -240,6 +266,8 @@ ecrimisil talep edilen her dönem için o yörede ekimi yapılabilecek mutad ür
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2023/10209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/996964100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -261,6 +289,8 @@ Taraf vekillerinin temyiz isteminin kabulü ile temyiz olunan kararın BOZULMASI
 
 ## Yargıtay 5. HD 2023/9971 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/991239800)
+
 Davacı vekili dava dilekçesinde özetle; Eskişehir ili, ... ilçesi, ... 17142 ada 6 parsel sayılı taşınmazın davalı idare tarafından kamulaştırma yapılmadığı hâlde, imar planında ağaçlandırılacak alan olarak ayrıldığını, bu nedenle mülkiyet hakkının kısıtlandığını, taşınmaza hukuken el atıldığını ileri sürerek taşınmazın bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -277,6 +307,8 @@ Bölge Adliye Mahkemesince 7421 sayılı Kanun'un 5 inci maddesiyle 2942 sayıl�
 Davalı ... vekilinin Bölge Adliye Mahkemesi kararına yönelik temyiz itirazının kabulü ile Bölge Adliye Mahkemesi kararının hüküm fıkrasına ayrı bir bent olarak "Davalı ... kendisini vekil ile temsil ettirdiğinden, Avukatlık Asgari Ücret Tarifesi uyarınca 9.200,00 TL maktu vekâlet ücretinin davacıdan alınarak davalı ... Başkanlığına verilmesine, cümlesinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2023/9047 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987340100)
 
 Davacı vekili dava dilekçesinde; İzmir ili, ... ilçesi, ... Mahallesi 2289 ada 11 parsel sayılı taşınmaza fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin tahsilini talep etmiştir.
 

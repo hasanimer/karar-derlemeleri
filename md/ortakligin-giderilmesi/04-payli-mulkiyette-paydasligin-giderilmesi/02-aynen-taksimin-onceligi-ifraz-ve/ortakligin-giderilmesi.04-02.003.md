@@ -22,18 +22,26 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2021/2797 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724537000)
+
 5.7. Bu bilgiler ışığında somut olaya gelince; her ne kadar davaya konu yer, fiilen bağımsız bölümlerden oluşmakta ise de; tapuda bağımsız bölümlere kurulmuş bir kat irtifakı ya da kat mülkiyeti bulunmamaktadır. Dava konusu yer, tapuda arsa vasfında olup taraflar ise bu yer üzerinde paylı mülkiyet hükümlerine göre hissedar bulunmaktadırlar. Paylı mülkiyete konu taşınmazların kullanımına ilişkin paydaşlar arasında alınacak kararlarla ya da hakim kararıyla bir takım düzenlemeler yapılabilse de; fiili kullanım durumu gerekçe gösterilerek paydaşların mülkiyet haklarında rıza dışı bir değişiklik yapılması mümkün değildir. Zira mülkiyet hakkı, Anayasa ile güvence altına alınmış temel haklardan biridir. O halde, taşınmaz üzerinde bağımsız bölüm maliklerinin bir kısmı tarafından, fiilen bağımsız bölüm sahibi olmadıkları iddiasıyla bir kısım tapu kayıt maliklerinin hisselerinin iptali ile diğer maliklerin tapuda görünen hisselerinin de zilyedi oldukları bağımsız bölüm nitelik ve nicelikleri dikkate alınarak eşitlenmesi şeklindeki taleplerinin geçerli bir dayanağı yoktur.
 Başka bir deyişle, bir kısım tapu kayıt maliklerinin, diğer tapu kayıt maliklerinin hisselerine yönelik fiili kullanım durumu gerekçe gösterilerek tapu iptali ve tescil davası açmaları mümkün değildir. Paylı mülkiyetin uyum içinde sürdürülmemesi durumu var ise sorunlu paydaş yönünden paydaşlıktan çıkarma (madde; 696, 697) ya da paylı mülkiyetin sonra ermesi (madde; 698-699) davaları düşünülebilir. Ancak eldeki dava bakımından, davacıların tapu iptal ve tescil davası açmalarında hukuki yararları bulunmadığından davanın reddine karar verilmesi gerekirken yazılı gerekçeyle davanın kısmen kabulü yönünde hüküm kurulması doğru görülmemiş, hükmün bu nedenle bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2021/2036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715339700)
+
 10.11.1985 tarihinde yürürlüğe giren 3194 Sayılı İmar Yasası kamu düzeni ile ilgili olup sözü edilen yasanın 16. maddesiyle Belediye ve mücavir alan hudutları dahilindeki taşınmazların ifrazının Belediye Encümenlerince, bu alanların dışında bulunan taşınmazların ifrazlarının ise İl İdare Kurullarında onaylanması gerektiği hüküm altına alınmıştır.
 
 ## Yargıtay 5. HD 2021/1240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634791700)
+
 Dairenin bozma ilamında, kat mülkiyeti kurmak suretiyle ortaklığın giderilmesi yönünden yargılama yapılarak aynen taksim isteyen tarafa uygun süre verilip anayapıdaki varsa eksikliklerin giderilmesi ile Kat Mülkiyeti Kanunun 12. maddesine göre ilgili belgelerin tamamlattırılması, elbirliği ile hissedar olan maliklere birlikte bağımsız bölüm tahsis edilmesi ve değer farkının ivaz ilavesi ile denkleştirilmesi suretiyle ortaklığın kat mülkiyeti kurularak giderilmesine karar verilebileceği belirtilmiştir. Ancak;
 
 ## Yargıtay 14. HD 2020/7464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628469000)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -45,6 +53,8 @@ Somut olaya gelince; mahkemece bozma ilamına uyulduktan sonra dava konusu taş�
 
 ## Yargıtay 8. HD 2020/5653 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609393800)
+
 Dava, muhdesatın tespiti isteğine ilişkindir.
 
 …
@@ -52,6 +62,8 @@ Dava, muhdesatın tespiti isteğine ilişkindir.
 Yukarıdaki açıklamalar ışığında somut olaya gelince, dosya içerisindeki bilgi ve belgelere göre, taşınmazın evveliyatında 61 ada 65 parsel sayılı mera niteliğinde taşınmaz iken ifrazı ile 61 ada 90 ve 91 parsel sayılı taşınmazların, 61 ada 91 parselin yine ifrazı ile de 61 ada 152 ve 153 parsel sayılı taşınmazların oluştuğu, son olarak 61 ada 90 parsel sayılı taşınmazın arsa niteliğinde Hazine adına, 61 ada 152 parsel sayılı taşınmazın mera niteliğinde kamu ortak malı olarak, 61 ada 153 parsel sayılı taşınmazın da ham toprak olarak Hazine adına tapuda kayıtlı olduğu; yapılan keşif sonucunda alınan fen bilirkişi raporuna göre davaya konu muhdesatın 102,19 m2 miktarında tek katlı yapı olduğu, tamamının yol ve dere arasındaki boşluk kısımda kaldığı ve herhangi bir ada parselde olmadığının belirlendiği; muhdesatın bulunduğu taşınmazın kamulaştırma kapsamında olup olmadığına dair bilgi bulunmadığı anlaşılmaktadır.
 
 ## Yargıtay 14. HD 2020/4019 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/591389200)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -63,6 +75,8 @@ Kabule göre de, aynen taksimine karar verilen taşınmazlar yönünden %o 4,55 
 
 ## Yargıtay 14. HD 2020/3853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592308100)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -73,6 +87,8 @@ Dava konusu taşınmazın aynen taksime elverişli olup olmadığı hususu fen b
 
 ## Yargıtay 14. HD 2020/2943 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579107000)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -82,6 +98,8 @@ Bu durumda mahkemece, ifraz krokisinde “A” ve “B” harfleri ile gösteril
 
 ## Yargıtay 14. HD 2020/2283 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648594800)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -90,9 +108,13 @@ Ayrıca davalı ...'in cevap ve temyiz dilekçelerinde dava konusu taşınmazın
 
 ## Yargıtay 14. HD 2020/1769 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588890400)
+
 Alacaklı tarafından açılan ortaklığın giderilmesi davasında davacı yargılama sırasında aynen taksim istediğini beyan etmiş olup dosyada mevcut bilirkişi raporlarına göre dava konusu taşınmazın aynen taksiminin mümkün olmadığı anlaşıldığından başkaca taraf da satış yoluyla ortaklığın giderilmesini talep etmediğine göre davanın reddi gerekirken, mahkemece yazılı olduğu üzere davanın kabulüne, ortaklığın satış yoluyla giderilmesine karar verilmesi doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 20. HD 2020/1426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592103200)
 
 Dava , ortaklığın giderilmesi istemine ilişkindir.
 
@@ -104,6 +126,8 @@ ikmal edilmesinden sonra kat mülkiyetine geçiş yoluyla ortaklığın giderilm
 
 ## Yargıtay 14. HD 2020/692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593986900)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -111,6 +135,8 @@ Dava, ortaklığın giderilmesi isteğine ilişkindir.
 Aynen bölünerek paylaştırma (taksim) halinde teknik bilirkişiye ifraz projesi düzenlettirilerek bu projeye göre taşınmaz belediye veya mücavir alan hudutları içerisinde ise belediyeden, belediye dışında ise İl İdare Kurulundan 3194 sayılı İmar Kanunu ve Yönetmeliğine göre bölüşmenin (taksimin) mümkün olup olmadığı sorulur. Belediyeler veya İl İdare Kurullarınca onaylanması gereken ifraz projesinde kimlere nerelerin verileceği konusunda paydaşlar anlaşamazlarsa hakim huzurunda kura çekilerek belirlenir.
 
 ## Yargıtay 8. HD 2020/682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/586846700)
 
 Dava, muhdesatın tespiti istemine ilişkindir.
 
@@ -120,6 +146,8 @@ Yukarıda açıklanan yasal düzenlenmeler ve ilkeler ışığında somut uyuşm
 
 ## Yargıtay 14. HD 2020/609 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593753300)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -128,11 +156,15 @@ Bu taşınmaz üzerinde halen faal durumda olan bir okul binası mevcut olduğun
 
 ## Yargıtay 8. HD 2020/61 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578495200)
+
 Dava TMK madde 713/1’e dayanan tapu iptali ve tescil; olmadığı takdirde muhdesat tespiti ve tapunun beyanlar hanesine şerh edilmesi talebine dayalıdır.
 
 Dava konusu 8811 ada 19 parsel sayılı taşınmaz, tapu kaydına göre arsa vasfında ve tam mülkiyeti Maliye Hazinesine ait olup 10.03.2006 tarihli ifraz işlemi ile bu kaydın oluştuğu anlaşılmaktadır. Taşınmazın Maliye Hazinesi adına kayıtlı olması nedeniyle davacının, TMK’nin 713/1. maddesi uyarınca zilyetlik ile taşınmazın mülkiyetini kazanması mümkün olmadığından mahkemenin davacının tapu iptali ve tescil talebinin reddine hükmetmesinde bir isabetsizlik yoktur.
 
 ## Yargıtay 14. HD 2019/8956 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600132900)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -142,6 +174,8 @@ Ayrıca aynen bölünerek paylaştırma (taksim) halinde teknik bilirkişiye ifr
 
 ## Yargıtay 14. HD 2019/6222 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542970900)
+
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
 …
@@ -149,6 +183,8 @@ Dava, ortaklığın giderilmesi isteğine ilişkindir.
 Bu durumda mahkemece; teknik bilirkişi tarafından hazırlanan ifraz projesi ilgili belediyeye gönderilerek aynen taksimin mümkün olup olmadığının belediyeden sorulması, projenin Belediye Encümenince 3194 sayılı İmar Kanunu ve ilgili Yönetmelik hükümlerine uygun bulunması halinde aynen taksim kararı verilmesi gerekirken, Belediye Encümeninin açık bir onama veya ret kararı bulunmaksızın, bu konuda yetkili olmayan Belediye Başkanlığı Etüd Proje Müdürlüğünün yazısı doğrultusunda aynen taksim kararı verilmesi doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2019/5655 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538035700)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -160,6 +196,8 @@ Somut olaya gelince; dava konusu taşınmazlarda elbirliği halinde mülkiyet s�
 
 ## Yargıtay 20. HD 2019/3884 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514245000)
+
 Dava konusu uyuşmazlık ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -167,6 +205,8 @@ Dava konusu uyuşmazlık ortaklığın giderilmesi istemine ilişkindir.
 Aynen taksim suretiyle ortaklığın giderilmesi davalarında her bir paydaşa bir bağımsız bölüm düşmesi asıl ise de, Dairemizin uygulamalarında mirastan elbirliği (iştirak) mülkiyetinin söz konusu olması halinde birden fazla elbirliği halindeki malike bir bağımsız bölümün tahsis edilmek suretiyle de ortaklığın giderilmesi mümkündür. Dosya içerisindeki raporda binanın kargir olup olmadığı, kaç bağımsız bölümün bulunduğu ve kullanıma elverişli bulunup bulunmadıkları konularında bir bilgi bulunmadığından mahkemece bu hususlarda keşif suretiyle rapor alınıp, taşınmazın Kat Mülkiyeti Kanununun 50/2. maddesi hükmüne uygun olduğunun anlaşılması halinde, aynen taksim isteyen hissedarlara süre verilerek Kat Mülkiyeti Kanununun 12. maddesinde belirtilen eksikliklerin giderilmesi suretiyle paydaş ve bağımsız bölüm itibariyle herbir müşterek malike/paydaşa (mirasçı davalılar arasında elbirliği şeklinde) en az bir bağımsız bölüm verilerek kat mülkiyeti oluşturulması ve bağımsız bölüm ve daireler arasındaki değer farkının ise ivaz ilavesiyle denkleştirilmesi mümkün bulunmaktadır.
 
 ## Yargıtay 14. HD 2019/3306 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/497559700)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -178,6 +218,8 @@ Dairemizin mahalline iade ilamı sonrası dosya arasına alınan güncel tapu ka
 
 ## Yargıtay 14. HD 2019/2262 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493244100)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -185,6 +227,8 @@ Dava, ortaklığın giderilmesi istemine ilişkindir.
 Bozma ilamı üzerine Orman ve Su İşleri Bakanlığı ... 6. Bölge Müdürlüğü 02.01.2016 havale tarihli yazısında 470 parsel sayılı taşınmazın ifrazı ile oluşan 948 ve 950 parsel sayılı taşınmazların kamulaştırma güzergahı dışında kaldığından kamulaştırma çalışması yapılmadığı, 12.03.2018 havale tarihli yazısında ise 948 ve 950 parsel sayılı taşınmazlarda kamulaştırma işlemlerinin tamamlandığını belirtmiştir. Yazı cevapları arasında çelişki bulunduğudan davalı idareye tam olarak bu iki parsel yönünden kamulaştırma işlemi yapıp yapmadığı sorularak; eğer kamulaştırma var ise kamulaştırma işlemlerinin kesinleşip kesinleşmediğinin araştırılması, kamulaştırma kesinleşmişse kamulaştırılan kısmın ifrazı için davacıya uygun bir süre verilmesi ve taşınmazın kalan kısmının ortaklığının giderilmesine karar verilmesi gerekirken, belirtilen hususlara uyulmadan noksan soruşturmayla anılan taşınmazlar bakımından yazılı olduğu üzere karar verilmesi doğru görülmemiş, bu nedenle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 20. HD 2019/1237 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482219600)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -194,12 +238,16 @@ Taraflara tefhim edilen kısa kararda "davacının davasının kabulüyle, ... i
 
 ## Yargıtay 20. HD 2019/1142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481156400)
+
 Aynen taksim suretiyle ortaklığın giderilmesi davalarında her bir paydaşa bir bağımsız bölüm düşmesi asıl ise de, Dairemizin uygulamalarında mirastan elbirliği/iştirak mülkiyetinin söz konusu olması halinde birden fazla elbirliği/iştirak halindeki malike bir bağımsız bölümün tahsis edilmesi suretiyle de ortaklığın giderilmesi mümkündür. 24 parsel sayılı taşınmaz yönünden Kat Mülkiyeti Kanununun 50/2 maddesi hükmüne uygun olduğunun anlaşılması halinde, aynen taksim isteyen taraflara süre verilerek Kat Mülkiyeti Kanununun 12. maddesinde belirtilen eksikliklerin giderilmesi suretiyle, paydaş ve bağımsız bölüm itibariyle, aynen taksim isteyen mirasçı davalılara birlikte bağımsız bölüm verilerek kat mülkiyeti oluşturulması ve bağımsız bölümler arasındaki değer farklarının ivaz ilavesiyle denkleştirilmesi mümkün bulunmaktadır.
 26 sayılı parsel yönünden kura ile her bir paydaşa bir bağımsız bölüm verilip, kalan bağımsız bölümün ise aynen taksim isteyen elbirliği/iştirak malik mirasçı davalılara verilmesi, ivaz verilmek suretiyle denkleştirilmesi, 15692 sayılı parsel yönünden ise paydaş ve bağımsız bölüm itibariyle, aynen taksim isteyen mirasçı davalılara birlikte bağımsız bölüm verilip, bağımsız bölümler arasındaki değer farklarının ivaz verilmek suretiyle denkleştirilmesi mümkündür.
 
 Mahkemece, yukarıda açıklanan hususlar gözönünde bulundurularak, 24 parsel sayılı taşınmaz yönünden kat mülkiyetine geçişin sağlanması yolunda yargılama yapılması gerektiği, aynen taksim isteyen elbirliği/iştirak halindeki maliklere birlikte bağımsız bölüm verilip ivaz ilavesi ile de denkleştirme yapmak suretiyle de taşınmazların paylaştırılabileceği düşünülmeden, yetersiz araştırma ve eksik incelemeyle ortaklığın satış suretiyle giderilmesine karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2019/718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488922000)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -212,24 +260,34 @@ Yukarıda açıklanan ilkeler doğrultusunda somut olaya gelince; dosya kapsamı
 
 ## Yargıtay 8. HD 2018/18313 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473526900)
+
 Tüm dosya içeriği ve toplanan delillerden, dava konusu 1816 ada 1 parsel sayılı taşınmazın arsa niteliği ile asıl/birleşen dosya davacısı ... ile birleşen dosya davalıları, ihbar edilenler ve dava dışı malikler adına paylı mülkiyet hükümlerine göre kayıtlı olduğu, dosyaya sunulan ...... sözleşmelerine göre, dava konusu yerin özel okul binası olarak ...... maliklerinden davalılar ...... Bayram ve ... tarafından davalı......
 A.Ş.ye 01/16/2000 tarihinde 8 yıllığına ......landığı, yine 01/06/2009 tarihli ve 8 yıllık ...... sözleşmesi ile de, birleşen dosya davalıları ..., ...,..., ... tarafından aynı davalıya ......landığı, çekişmeli 1816 ada 1 parsel sayılı taşınmazın geldisinin 795 ada 25 parsel sayılı taşınmaz olduğu, anılan taşınmazda......Haritasının bulunduğu, davacının iddia ettiği üzere kendisine ait olması gereken özel parsele davalı tarafından okul binası ve bahçe olarak kullanılmak sureti ile el atıldığı, hükme esas alınan bilirkişi raporuna göre 795 ada 25 parselde düzenlenen özel ifraz haritasına dayalı fiili taksimin oluştuğu ve bu fiili taksim gözönünde bulundurularak taşınmazda imar uygulamasının yapıldığı, özel ifraz haritasında okul,okula ait bahçe ve spor alanı olarak fiili zeminde kullanılan kısmın 4,5,6,7 ve 8 nolu özel parsellere denk geldiği, ... Belediye Başkanlığı...... Müdürlüğünce 2981 sayılı Yasa kapsamında yapılan imar uygulamasına göre .........
 Haritasının dava konusu 1816 adaya uygulanmasında 20 nolu özel parselde davacının adının yazılı olduğu, davalı tarafından kullanılan kısım içinde ise bahsi geçen özel parselin 348 m2 lik kısmının kaldığının belirtildiği ve tüm hususların kroki üzerinden işaretlendiği anlaşılmaktadır.
 
 ## Yargıtay 5. HD 2018/12071 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/431482500)
+
 Dava konusu 113 ada 93 parselin ifraz görerek 113 ada 116 ve 117 parsel sayılı taşınmazlara ayrıldığı ve kamulaştırılan bölümün 113 ada 117 parsel sayılı taşınmaz içerisinde kaldığı gözetildiğinde dosyada mevcut fen bilirkişisi raporuna göre bu bölümün davalı adına olan tapu kaydının iptali ve yol olarak terkinine karar verilmesi gerekirken, ifraz edildiği gözardı edilerek 113 ada 93 parsel sayılı taşınmazın tamamının davalı adına olan tapu kaydının iptali ile davacı idare adına tesciline karar verilmesi doğru görülmemiştir.Davalı/karşı davacı vekilinin temyiz itirazları yerinde olduğundan hükmün yukarıda açıklanan nedenlerle HUMK’nun 428.maddesi gereğince BOZULMASINA, peşin alınan temyiz harcının istenildiğinde iadesine ve temyize başvurma harcının Hazineye irad kaydedilmesine, 18/06/2018 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 23. HD 2018/5536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469888600)
 
 Ancak sözleşmenin içeriğinde yapılacak ifrazlardan bahsedildiğine göre yapılan taksim ve ifrazların sonuçlarıyla ilgili gerekli araştırmalar yapılarak sözleşmenin sonradan değişen durumlar nedeniyle geçerli hale gelip gelmediğinin belirlenmesi, eğer geçerli hale gelmediyse sözleşmenin geçersizliğinin tespitine karar verilmesi, geçerli hale geldiğinin tespiti halinde ise şimdiki gibi davanın reddine karar verilmesi gerekir. Mahkemece bu hususlar üzerinde durulmadan ve yeterli inceleme yapılmadan davanın reddine karar verilmesi doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2018/5449 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433471300)
+
 KMK'nun 7. maddesi ''Kat mülkiyetine ve kat irtifakına tabi olan gayrimenkulde ortaklığın giderilmesi istenemez'' hükmü yer almakta olup; kat mülkiyetine konu bir yerle ilgili aynen taksim suretiyle ortaklığın giderilmesi davası açılamayacağı, davacının satış suretiyle ortaklığın giderilmesi yönünde bir talebi bulunmamasına, kaldı ki fiili kullanımın dayanağını teşkil eden yapı kullanma izin belgesinin verildiği tarih ve diğer davalıların taşınmazdaki hisse sahibi oldukları tarih itibariyle davalıların yapı kullanma izni alınmasında bir dahillerinin bulunmadığı gerekçesiyle davanın reddine karar verilmiş ise de Kat Mülkiyeti Kanununun 7/II maddesinde "bağımsız bölümler, bağımsız bir gayrimenkul gibi dava ve takip konusu olabilir. Bunlarda ortaklığın giderilmesi istenebilir" hükmü gereğince bağımsız bölümlerin paylı olması halinde ortaklığın giderilmesinin istenebileceği düzenlenmiştir.
 Bu nedenle davacının aynen taksim talep etmesi satış istenmemesi ve taşınmazın pay ve paydaş adedi nedeniyle aynen taksiminin mümkün olmadığı anlaşıldığından davanın bu gerekçe ile reddi gerekirken yazılı gerekçe ile reddine karar verilmesi doğru görülmemiş bu nedenle bozulması gerekmiş ise de davanın reddi sonucu itibariyle doğru olduğundan HUMK’nın 438/son maddesi gereğince hükmün gerekçesinin düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 14. HD 2018/2251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/412094800)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -242,6 +300,8 @@ Somut olayda, dava konusu 344 ada 30 ve 35 parsel sayılı taşınmazların 25.0
 Ayrıca, davacı, ortaklığın satış yoluyla giderilmesini istediğini, aynen taksim istemediğini belirterek keşif masraflarını yatırmayı kabul etmediğini bildirmiş olup keşif masrafının aynen taksim yoluyla ortaklığın giderilmesini isteyen taraflardan karşılanmasının istenmesi, yatırıldığı taktirde keşfin yapılarak oluşacak sonuca göre bir karar verilmesi gerektiğinin düşünülmemesi de doğru görülmemiş; bu nedenlerle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2018/1899 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/412958900)
 
 Ayrıca, dava konusu taşınmaz hakkında tapu iptali ve tescil davası bulunması halinde bu davaların sonunda pay ve paydaş durumu değişebileceğinden ortaklığın giderilmesi davasının sonucu da etkilenecektir. Bu nedenle, açılan tapu iptali ve tescil davaları 6100 sayılı HMK'nın 165/1. maddesi gereğince görülmekte olan ortaklığın giderilmesi davası için bekletici mesele yapılması gerekir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2004/2156 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16347800)
+
 Davacı, kayden maliki bulunduğu imar planında "Belediye Hizmet Atanı" olarak ayrılan 4 parsel sayılı taşınmazına davalının ev ve bahçe yapmak suretiyle müdahalede bulunduğunu iteri sürüp, elatmanın önlenmesi, yapıların yıkımı ve tazminatın tahsiline karar verilmesini istemiştir.
 
 Davalı, davanın reddini savunmuştur.
@@ -74,6 +76,8 @@ Somut olayda; haksız elatmanın önlenmesi, 4721 sayılı TMK'nın 683. ve 995.
 
 ## İstanbul BAM 2. HD 2025/544 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126682800)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ:Mahkemece; "1-Davacı tarafından davalı aleyhine açılan elatmanın önlenmesine ilişkin davanın KABULÜ ile, İstanbul İli, Tuzla İlçesi, ... Mah. ... ada, ... parsel maliki davalının davacıya ait İstanbul İli, Tuzla İlçesi, ...
 
 …
@@ -91,6 +95,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle:1-Davalı vekilinin istinaf başvurusun
 
 ## Denizli BAM 1. HD 2025/299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126607100)
+
 Davacı şirket vekili dava dilekçesinde özetle; davacının,....,... İlçesi, ....
 
 …
@@ -106,6 +112,8 @@ Dava, müdahalenin önlenmesi ve ecrimisil istemine ilişkindir.
 Tüm dosya kapsamına göre; Davacı tarafça, davalının kira sözleşmesi konusu olmayan alanı fuzulen işgal ettiği iddiasına yönelik uyuşmazlıkta 4721 sayılı Türk Medeni Kanunu'nun 683'üncü ve devamı maddelerinde düzenlenen mülkiyet hakkına dayalı olarak el atmanın önlenmesi ve buna bağlı olarak ecrimisil isteğinde bulunmuş olduğundan anılan isteğin 4721 Sayılı Türk Medeni Kanunu Hükümlerinden kaynaklandığı ve uyuşmazlığın çözümünün 6100 Sayılı HMK'nun 2/1. maddesi uyarınca Asliye Hukuk Mahkemesi görevinde bulunduğu kuşkusuzdur. Zira tarafların ticari şirket olmalarına rağmen el atmanın önlenmesi ve haksız işgal tazminatı istemli davalarda, davanın mutlak ve nispi dava niteliğinin bulunmaması nedeniyle uyuşmazlığın asliye hukuk mahkemesinde görülüp çözülmesi gerekmektedir. (Benzer; Yargıtay 8. Hukuk Dairesi 2019/699Esas 2020/4277 Karar)
 
 ## İstanbul BAM 45. HD 2024/454 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1014794400)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece; ''...Davacı ...davalı kooperatifin üyesi olan ... ... blok ... nolu daireyi Üsküdar ... Noterliğince düzenlenen 12/06/2002 tarihli ve ... yevmiye nolu devir sözleşmesiyle daireyi devir aldığı ve kooperatif yönetim kurulunun 12/06/2002 tarih ve ... sayılı kararıyla kooperatif üyesi olduğu, aynı tarihte nama yazılı ortaklık senedi düzenlendiği, düzenlenen ortaklık senedinde davacı ... nolu daireyi devir almasına rağmen kooperatifçe nama yazılı ortaklık senedinde 2 nolu dairenin yazıldığı, dava dışı ... tarafından 1.
 
@@ -124,11 +132,15 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Taraf vekillerinin is
 
 ## İstanbul BAM 37. HD 2023/1865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910808300)
+
 K A R A R Dava haksız işgalin tespiti, müdahalenin men'i, haksız işgalden kaynaklı ecrimisil ve mahrum kalınan gelir istemlerinde ilişkindir. İstanbul 26. Asliye Hukuk Mahkemesince, "..davacı ve davalı şirketin Türk Ticaret Kanunu kapsamında tacir oldukları, davaya konu talebin ticari işletmeleriyle ilgili olduğu, hal böyle olunca da davanın ticari dava; davaya bakma görevinin de Asliye Ticaret Mahkemesi'ne ait olduğu .." gerekçesiyle görevsizlik kararı verilmiştir. İstanbul 7. Asliye Ticaret Mahkemesince, "...Davacı maliki olduğu akaryakıt istasyonunun davalı tarafından haksız işgal edildiği iddiasına dayalı olarak eldeki davayı açmış olup Asliye Hukuk Mahkemesi tarafından davacı ve davalı şirketin tacir olduğundan bahisle görevsizlik kararı verilmiş ise de; gerek dava dilekçesine ekli Ankara BAM 16. Hukuk Dairesi'nin 2020/390 Esas 2020/771 Karar sayılı ilamında yine davacı şirket tarafından el atmanın önlenmesi talebi ile açılan davada Asliye Hukuk Mahkemesi'nin görevli olduğundan bahisle kaldırma kararından, gerekse de yine benzer mahiyette Sakarya BAM 6.
 Hukuk Dairesi'nin 2020/683 Esas 2020/1167 Karar sayılı ilamından anlaşılacağı üzere davanın, 4721 sayılı TMK hükümlerinden kaynaklandığı ve uyuşmazlığın çözümünün 6100 sayılı HMK'nın 2/1. maddesi uyarınca Asliye Hukuk Mahkemesinin görevinde bulunduğu ..." gerekçesiyle görevsizlik kararı verilmiştir. Somut olayda davacı maliki olduğu akaryakıt istasyonunun davalı tarafından haksız olarak işgal edildiği gerekçesiyle meni müdahale ve ecrimisil talebinde bulunmuştur.6102 sayılı Türk Ticaret Kanununun 4/I-a maddesinde, her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ve çekişmesiz yargı işleri ile tarafların tacir olup olmadıklarına bakılmaksızın, bu kanunda öngörülen hususlardan doğan hukuk davaları ve çekişmesiz yargı işlerinin ticari dava ve ticari nitelikte çekişmesiz yargı işi sayılacağı açıkça düzenlenmiştir. Dosya kapsamına göre uyuşmazlık tacirler arası haksız fiilden kaynaklanmakta olup, uyuşmazlığın her iki tarafın ticari işletmesini ilgilendirmesine göre davanın İstanbul 7. Asliye Ticaret Mahkemesinde görülüp sonuçlandırılması gerekmektedir. ( T.C.YARGITAY 17. Hukuk Dairesi ESAS NO:2021/2391-KARAR NO:2021/2537; T.C. YARGITAY 4.
 Hukuk Dairesi ESAS NO: 2017/1454 -KARAR NO:2019/5777; T.C. YARGITAY 20. Hukuk Dairesi ESAS NO: 2016/4999 -KARAR NO: 2018/1637)
 
 ## İzmir BAM 6. HD 2021/1399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668032400)
 
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -137,6 +149,8 @@ Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 Somut olayda; Dava, TMK'nın 683/2. maddesine göre açılan elatmanın önlenmesi ve 995 maddesine göre açılan ecrimisil alacağına ilişkindir. Taraflar şirket olup, tacirlerdir. Ancak uyuşmazlığın tarafları ticari işletmesi ile ilgisi yoktur. Açılan dava mutlak ve nispi ticari dava değildir. Uyuşmazlığın genel görevli asliye hukuk mahkemesinde çözümlenmesi gerekmektedir. Görevli mahkeme asliye hukuk mahkemesidir.
 
 ## İstanbul BAM 4. HD 2020/1358 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617454700)
 
 …
 
@@ -148,6 +162,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacının istinaf ba�
 …
 
 ## İstanbul BAM 37. HD 2020/825 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/582125600)
 
 K A R A R Esas dava, haksız işgal nedeniyle ecrimisil ve el atmanın önlenmesi, birleşen dava ise, ecrimisil talebine konu taşınmaz nedeniyle sebepsiz zenginleşmenin gerçekleştiği iddiasıyla açılan tazminat davasıdır. İstanbul 13. Asliye Hukuk Mahkemesince, "... Uyuşmazlığın, kredi sözleşmelerinden doğan borçlarının tahsil ve tasfiye edilmesi amacıyla davalı ve davacı banka arasında akdedilen 29.04.2015 tarihli protokolden kaynaklandığı, davacı ve birleşen dosya davalısı banka olup Türk Ticaret Kanunu hükümlerine tabi olduğundan dava ve birleşen davada görevli mahkeme Asliye Ticaret Mahkemesi..." olduğu gerekçesiyle görevsizlik kararı verilmiştir. İstanbul 1.
 Asliye Ticaret Mahkemesince, "... esas davada, ecrimisil tazminatının dayanağının TMK 683.maddesi ve devamı maddeleri olduğu, birleşen davanın da TBK'da düzenlenen sebepsiz zenginleşme hükümlerine dayalı olarak açıldığı, esas ve birleşen davanın konusu olan sebepsiz zenginleşme ve ecrimisil tazminatının TTK'da düzenlenmediği, buna göre esas ve birleşen davaların mutlak ticari dava olarak kabul edilemeyeceği, yukarıda açıklandığı üzere nisbi ticari dava olarak da kabul edilmesinin mümkün olmadığı, zira bir davanın nisbi ticari dava olarak kabul edilebilmesi için tarafların tacir olması ve ihtilafın ticari işletmeleriyle ilgili olması gerektiği, bu iki koşulun aynı anda gerçekleşmesinin zorunlu olduğu, huzurdaki bu davalarda bu koşulların gerçekleşmediği, nitekim davacı tacir olsa da , davalının tacir olduğuna ilişkin herhangi bir delil bulunmadığı gibi bir an için her iki tarafın tacir olduğu kabul edildiğinde dahi uyuşmazlığın her iki tarafın ticari işletmeleriyle ilgisinin bulunmadığı, sadece davacı banka bakımından ticari işletmesiyle ilgili olduğunun kabulü gerektiği, esas davada davalı-birleşen davada davacı yönünden, bu koşulun oluştuğundan söz edilemeyeceği, ecrimisil

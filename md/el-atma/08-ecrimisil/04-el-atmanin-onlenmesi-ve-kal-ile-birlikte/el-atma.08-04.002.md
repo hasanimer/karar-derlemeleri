@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2024/4150 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053292700)
+
 Davacı vekili dava dilekçesinde özetle; Aydın ili, ... ilçesi, Karaçay Mahallesi 1471 ada 27 parsel sayılı taşınmaza kamulaştırma işlemi olmaksızın ve müvekkilinin rızası dışında bir kısmına park yapmak bir kısmına da yol yapmak suretiyle idarece fiilen el atıldığını, bunun karşılığında müvekkiline herhangi bir ödeme yapılmadığını, müvekkilinin ... Belediye Başkanlığına söz konusu taşınmaz üzerindeki tecavüzlerin kaldırılması amacıyla defalarca başvurduğunu; ancak herhangi bir sonuç alamadığını, davalı idarenin dava konusu taşınmaz üzerinde devam etmekte olan tecavüzünün önlenerek taşınmazın teslimine, fazlaya ilişkin hakları saklı kalmak kaydı ile geriye dönük 5 yıllık şimdilik 60.000 TL'nin yasal faizi ile birlikte davalıdan tahsiline, yargılama giderleri ve vekâlet ücretinin davalı tarafa yükletilmesine karar verilmesini talep etmiştir.
 
 …
@@ -38,6 +40,8 @@ Belediye Başkanlığının 2019 yılı aylık otopark abonelik ücretinin bir a
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/2578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052781100)
 
 Davacı vekili; müvekkilinin paydaş olduğu 1278 ada 17 parsel sayılı taşınmazda davalının 31/12/2014 tarihinde 1/50 hisse satın aldığını, müvekkilinin ön alım hakkını kullanmak istediğini belirterek; davalı adına kayıtlı payın iptali ile müvekkili adına tescilini talep etmiştir.
 
@@ -56,6 +60,8 @@ Mevcut durumda; dava konusu taşınmazın üzerinde 25 adet yapı bulunup, bunla
 
 ## Yargıtay 1. HD 2024/2042 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064339700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda, asıl davada el atmanın önlenmesi ve karşı davada tapu iptali ve tescil davası yönünden verilen karar kesinleştiğinden yeniden karar verilmesine yer olmadığına, asıl davada ecrimisil isteğinin reddine karar verilmiştir.
 
 …
@@ -67,6 +73,8 @@ Taraf vekillerinin temyizi üzerine Dairece; "...asıl davada, davacının çeki
 Asıl davada davacı / karşı davada davalı vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2024/1765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031437800)
 
 Davacı vekili dava dilekçesinde; dava konusu bağımsız bölümün davacıya ait olup davalı tarafından haksız şekilde kullanıldığını ve ihtarnameye rağmen müdahalenin sonlandırılmadığını belirterek el atmanın önlenmesi ve ecrimisile karar verilmesini talep etmiştir.
 
@@ -83,6 +91,8 @@ El atmanın önlenmesi ve ecrimisil isteklerinin birlikte açılması halinde da
 Davacı tarafından davalı aleyhine eldeki dava açılarak el atmanın önlenmesi talep edilmiş ise de, davacı adına bulunan tapu kaydı, Bakırköy 3. Aile Mahkemesinin 2013/751 sayılı kararı ile bağımsız bölüm aile konutu olduğundan iptaline karar verilmiştir. El atmanın önlenmesi istemi yönünden davacı dava açmakta …
 
 ## Yargıtay 7. HD 2024/1564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029815500)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın ve birleştirilen davanın ayrı ayrı kısmen kabulüne, kısmen reddine karar verilmiştir.
 
@@ -107,6 +117,8 @@ Yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan 
 
 ## Yargıtay 7. HD 2024/1475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044848600)
+
 1\.
 
 …
@@ -126,6 +138,8 @@ Yukarıda (V.C.II) numaralı bentte de açıklandığı üzere el atmanın önle
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/1179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044620400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabul, kısmen reddine; birleştirilen davanın reddine karar verilmiştir.
 
@@ -153,6 +167,8 @@ Davalı-birleştirilen dava davacısı vekilinin yerinde görülmeyen tüm temyi
 
 ## Yargıtay 7. HD 2024/259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008041100)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, birleştirilen davanın kabulüne karar verilmiştir.
 
 …
@@ -178,6 +194,8 @@ Asliye Hukuk Mahkemesinin 19.02.2013 tarih ve 2011/629 E, 2013/126 K sayılı il
 
 ## Yargıtay 8. HD 2023/6271 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982121600)
+
 İlK Derece Mahkemesi kararının davacı - karşı davalı ... vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince, istinaf başvurusunun yargılama giderleri yönünden kabulü ile ilk derece mahkemesi kararının kaldırılması suretiyle asıl davanın reddine, karşı davanın kabulüne karar verilmiştir.
 
 …
@@ -198,6 +216,8 @@ Davacı - karşı davalı ... Kılıçkaya vekilinin, temyiz itirazlarının yuk
 
 ## Yargıtay 7. HD 2023/5636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988116100)
+
 Davalı, davaya cevap vermemiş; davalı vekili beyan dilekçesinde, dava açıldıktan sonra taşınmazın tahliye edildiğini, öncesinde davacının rızası ile oturulduğunu beyan etmiştir.
 
 …
@@ -210,6 +230,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 ...
 
 ## Yargıtay 7. HD 2023/5149 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981063700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, birleştirilen davanın reddine karar verilmiştir.
 
 …
@@ -221,6 +243,8 @@ Yargıtay 1. Hukuk Dairesinin 09.10.2017 tarihli ve 2015/2991 Esas, 2017/5103 ..
 Tarafların yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/5117 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980912300)
 
 Davacılar vekili, dava dilekçesinde; dava konusu 269 ada 5 parsel ... taşınmazın taraflara onların murisi olan ... Bekçi’den intikal ettiğini, dava konusu taşınmazın üç katlı bina vasfı ile tapuya kayıtlı olduğunu, alt katının iş yeri niteliğinde olduğunu, üst katlarının ise bizzat davalı tarafından kullanılmakta olduğunu, tüm uyarılara rağmen müvekkillerinin payına düşen kullanım ve kira bedellerinin müvekkillerine ödenmediğini, öte yandan taşınmazın müvekkilleri tarafından kullanılmasının engellendiğini belirterek davalının el atmasının önlenmesini ve 2013 ilâ 2017 yılları için payına düşen toplamda 45.000,00 TL ecrimisil bedelinin dava tarihinden işleyecek yasal faizi ile birlikte tahsilini talep etmiştir.
 
@@ -239,6 +263,8 @@ Caddesi 269 ada 5 parsel ... taşınmazın davacıların tapu kaydındaki 1/2 pa
 Davalı mirasçıları ortak vekilinin Bölge Adliye Mahkemesi kararına yönelik temyiz itirazının kabulü ile Bölge Adliye Mahkemesi kararının hüküm fıkrasının C fıkrasının 1 numaralı bendinin hüküm yerinden çıkarılmasına, yerine 1 numaralı bent olarak; "Artvin ili, Merkez ilçesi, Dere Mahallesi 269 ada 5 parsel ... taşınmazda davacıların elbirliği paylarına yönelik davalının el atmasının önlenmesine" cümlesinin yazılmasına hükmün bu şekilde DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 7. HD 2023/4036 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/942869000)
 
 Davacılar vekili dava dilekçesinde; tarafların murislerinden mirasçılık payları oranında intikal eden taşınmazların meyve ve fındık ağaçları bulunan araziler olduğunu, davalı tarafından murisin sağlığı da dahil olmak üzere, davacının iktisap tarihinden bu yana taşınmazların tümüne müdahale edilmek suretiyle ekilip biçildiğini, diğer hissedarların faydalanmalarına izin vermediğini, taşınmazlardan elde ettiği geliri de mirasçılara payları oranında dağıtmayarak kendisinin kullandığından taşınmazlar üzerinde, davacının hissesi oranındaki müdahalesinin men'ine, geriye dönük beş yıllık ecrimisilin yasal faizi ile tahsiline karar verilmesini talep etmiştir.
 
@@ -260,6 +286,8 @@ gelen hisse de dahil) payı nispetinde hüküm kurulması gerekirken dava konusu
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/3338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/930080100)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
@@ -286,6 +314,8 @@ V-C-3-2 numaralı paragrafta açıklanan nedenlerle davalılar vekilinin temyiz 
 …
 
 ## Yargıtay 7. HD 2023/3329 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914158700)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davada, davacıların ecrimisil ve yıkım taleplerinin kabulüne, el atmanın önlenmesi talenin ise reddine, birleştirilen davada, ecrimisil ve el atmanın önlenmesi taleplerinin reddine, yıkım isteminin ise kabulüne karar verilmiştir.
 

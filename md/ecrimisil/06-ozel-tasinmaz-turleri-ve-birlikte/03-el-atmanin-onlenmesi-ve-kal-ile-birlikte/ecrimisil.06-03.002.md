@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2023/4036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/942869000)
+
 Mahkeme, dava konusu 116 ada 2 No.lu parselde ise yapı bulunduğu ve bu yapının kiraya verilmek suretiyle kullanıldığının davacı taraflarca ispat edilmediği, dolayısıyla bu parsel yönünden intifadan men koşulunun gerçekleşmediği, yine 102 ada 6 No.lu taşınmazın da davalı tarafça değil dava dışı ... tarafından kullanıldığının ortaya çıktığı, davada kabul kararı verilen Akçaabat ilçesi, Fındıklı Mahallesi 104 ada 4 parsel sayılı taşınmaz ile Akçaabat ilçesi, Yolbaşı Mahallesinde kain 104 ada 3 taşınmazlar dışındaki taşınmazların da davalı tarafça kullanıldığını, ispat yükünün de davacı taraflarda olup bu hususun davacı taraflarca ispat edilmediği, bu şekilde taşınmazların haksız kullanımından söz edilemeyeceğinden ve muvafakatin dava tarihi ve fındık ürününün hasadı tarihinden önce geri alındığından söz edilemeyeceğinden haksız işgal tazminatına dair talep yönünden davaların reddinin gerektiği ancak, dava tarihi itibarıyla davalının kullanımında olduğu sabit olan taşınmazlar yönünden kullanımın artık davacı tarafların miras payları oranında haksız hâle geldiği, bu şekilde el atmanın önlenmesine ilişkin talep yönünden davanın kabulünün yerinde olduğu ancak, davacının (mütevvefadan
 gelen hisse de dahil) payı nispetinde hüküm kurulması gerekirken dava konusu yerlerin tamamına yönelik el atmanın önlenmesine karar verilmesinin doğru olmadığı gerekçeleriyle davacıların istinaf taleplerinin esastan reddine, haksız işgal tazminatına ilişkin davanın reddine karar verilmesi, bir kısım taşınmazlar yönünden el atmanın önlenmesine ilişkin talep yönünden ise davanın davacıların miras paylarına isabet eden değer üzerinden kabulüne karar verilmesi gerektiği hâlde davanın taşınmazların tümü yönünden kabulüne karar verilmesi usul ve yasaya aykırı olduğundan davalı vekilinin istinaf başvurusunun kabulü ile yeniden yargılamaya ihtiyaç duyulmadığından, İlk Derece Mahkemesi kararının kaldırılmasına ve davanın reddine karar vermiştir.
 
 ## Yargıtay 7. HD 2023/3338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/930080100)
 
 Dava, paydaşlar arası el atmanın önlenmesi ve ecrimisil talebine ilişkindir.
 
@@ -35,11 +39,15 @@ Dava, paydaşlar arası el atmanın önlenmesi ve ecrimisil talebine ilişkindir
 
 ## Yargıtay 7. HD 2023/3329 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914158700)
+
 İddianın içeriği ve ileri sürülüş biçiminden, davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu; böyle bir davada, 6100 sayılı HMK'nın 120. (1086 sayılı HUMK'un 413.) ve 492 sayılı Harçlar Kanunu'nun 16. maddeleri uyarınca dava değerinin ve buna göre alınacak harcın, el atılan yerin ve yıkımı istenen şeyin değeri ile talep edilen ecrimisil toplamından ibaret olacağı kuşkusuzdur (04.03.1953 tarihli ve 10/2 sayılı İBK).
 
 Hal böyle olunca, asıl davada yıkım isteğinin kabulü ile ecrimisil isteği yönünden HMK'nın 297/2. maddesi uyarınca infaza elverişli biçimde hüküm kurulması ve birleştirilen dava da öncelikle davada ileri sürülen isteklerden el atmanın önlenmesi ve yıkım isteği ile ilgili olarak keşfen saptanan dava değeri üzerinden peşin harcın alınması, bu zorunluluk yerine getirildiği takdirde davaya devam edilmesi gerekirken, anılan husus gözardı edilerek yazılı şekilde karar verilmesi isabetsizdir...” gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/3297 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915822100)
 
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkin olup, bu tür davalarda dava değeri hesaplanırken, elatma yönünden taşınmazın keşfen belirlenen dava tarihindeki rayiç değeri, ecrimisil yönünden ise mahkemenin kabul ettiği miktar toplamı esas alınmaktadır.
 
@@ -47,6 +55,8 @@ Buna göre; davaya konu 2 adet taşınmaz için elatmanın önlenmesi ve ecrisim
 Hal böyle olunca, Bölge Adliye Mahkemesince usulüne uygun muhtıraya rağmen davalı vekilinin istinaf başvuru harcını yatırmadığı hususu gözetilerek istinaf dilekçesinin reddine dair karar verilmesi gerekirken İlk Derece Mahkemesinin istinaf başvurunun yapılmamış sayılmasına ilişkin ek kararının kaldırılarak esastan inceleme yapılmış olması doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2023/2658 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915857600)
 
 Yargıtay 8. Hukuk Dairesince:
 
@@ -60,12 +70,16 @@ gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/2551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915804800)
+
 Bu durumda, davalı ...'in yargılama sırasında, diğer davalı ...'in ise karar tarihinden sonra ölümü ile onlar tarafından vaki haksız fiil niteliğindeki el atmanın sona erdiğinin kabul edilmesi gerektiği, buna karşın yıkım isteği yönünden ise davada kayıt maliklerine yöneltilen bir husumet bulunmadığından davalılar ... ve ...'e husumet düşmeyeceği kuşkusuzdur. Esasen davaya dahil edilen kişilerin haksız eylemleri var ise ayrı bir davanın konusunu oluşturacağı da açıktır. Ancak, mirası reddetmeyen mirasçıların, murislerin halefi sıfatı ile el atmanın önlenmesi yönünden yargılama giderlerinden ve ecrimisilden sorumlu olacakları kuşkusuzdur.
 
 .... yargılama devam ederken davalı ...'in ve karar tarihinden sonra ise davalı ...'in ölmesi nedeniyle tespit edilen zemine (arsaya) onlar tarafından vaki haksız fiil niteliğindeki el atmanın önlenmesi isteği yönünden dava konusuz kalmış olduğundan anılan kişiler bakımından "el atmanın önlenmesi isteği hakkında bir karar verilmesine yer olmadığına" şeklinde karar verilmesi ve yargılama giderleri ile vekalet ücretinin de davanın açılmasına sebebiyet veren davalıların mirasçılarına yükletilmesi, ecrimisil isteğinin ise niteliği itibariyle ölenlerin mal varlığını ilgilendirdiği ve mirasçılara geçen haklara ilişkin bulunduğu gözetilerek davalı murislerin 34 parseldeki kullandığı taşkın kısım (zemin geliri) üzerinden talep edilen dönemler için ecrimisil miktarının belirlenmesi ve tüm mirasçıların bu miktar üzerinden miras payları oranında sorumlu tutulması, yıkım isteği yönünden ise davada kayıt maliklerine yöneltilen bir husumet bulunmadığı gözetilerek davalılar ... ve ... hakkında davanın husumet yönünden reddine karar verilmesi gerekirken haklarında usulüne uygun dava bulunmayan ..., ..., ..., ... ve ... hakkında davalı murislerin mirasçısı olarak değil (davalı ...'ın mirasçı sıfatı
 bile bulunmadığı halde) davalı olarak işin esası hakkında karar verilmesi, ölen davalıların mirasçıları belirlenerek taraf teşkili sağlanmadan, binanın davacılara ait taşınmaza tecavüz miktarı açıklığa kavuşturulmadan, davalılar tarafından yaptırılan binanın geliri üzerinden ecrimisil hesabı yapılarak ve 6100 sayılı HMK. nun 26. maddesine aykırı olarak talep aşılmak suretiyle hesaplanan ecrimisile hükmedilerek yazılı şekilde karar verilmesi doğru değildir.'' şeklindeki değişik gerekçeyle hüküm bozulmuştur.
 
 ## Yargıtay 7. HD 2023/2473 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910851700)
 
 Yargıtay 1. Hukuk Dairesince:
 
@@ -80,6 +94,8 @@ gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 1. HD 2023/2395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917960000)
+
 Birleştirilen davaya gelince; bilindiği üzere, duruşmanın bittiği bildirildikten sonra hakimin, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 298. maddesi uyarınca kararı gerekçesi ile birlikte tam olarak yazması ve hüküm sonucunu 6100 sayılı Kanun'un 297/2. maddesinde öngörülen biçimde tefhim etmesi asıldır. Ne var ki, uygulamada 6100 sayılı Kanun'un 294. maddesinin getirdiği imkândan faydalanarak bazı zorunlu nedenlerle sadece hükmün sonucu tutanağa geçirilip tefhim edilmekte, gerekçeli karar daha sonra yazılmaktadır. İşte bu gibi hallerde, tarafların hak ve yükümlülüklerini açıkça gösteren tefhim ile aleniyet ve hukuki varlık kazanan kısa karara daha sonra yazılan gerekçeli kararın uygun olması zorunludur. Esasen kısa kararı yazıp, tefhim etmekle davadan elini çekmiş olan hakimin artık bu kararını değiştirmesine yasal olanak yoktur. Öte yandan, kısa kararla gerekçeli kararın çelişkili olması, yargılamanın aleniyeti, kararların alenen tefhim edilmesine ilişkin Anayasa'nın l4l. maddesi ile 6100 sayılı Kanun'un yukarıda değinilen buyurucu nitelikteki maddelerine de aykırı bir durum oluşturur.
 Ayrıca anılan husus kamu düzeni ile ilgili olup, gözetilmesi yasa ile hakime yükletilmiş bir ödevdir. Aksine düşünce ve uygulama yargının, hakimin ve kararlarının her türlü düşünceden uzak, saygın ve güvenilir olması ilkesi ile de bağdaşmaz. 10.04.1992 tarihli 1991/7-1992/4 sayılı Yargıtay İçtihatları Birleştirme Kararında; kısa karar ile gerekçeli kararın çelişkili bulunmasının bozma nedeni oluşturacağı, bozmadan sonra yerel mahkemenin önceki kısa kararla bağlı olmaksızın çelişkiyi kaldırmak kaydı ile karar verebileceği öngörülmüştür. Somut olayda, Mahkemece; kısa kararda el atmanın önlenmesi isteği yönünden davanın kabulüne karar verilmiş, gerekçeli kararda ise el atmanın önlenmesi davası yönünden aslında davanın reddedileceği ancak kısa kararda hatalı olarak kabulü yönünde hüküm kurulduğu belirtilerek kısa karar ile gerekçe arasında çelişki yaratılmıştır.
 Diğer taraftan, gerek 492 sayılı Harçlar Kanunu'nun 16. maddesi, gerekse 1953 tarih 10/2 sayılı İçtihadı Birleştirme Kararı uyarınca elatmanın önlenmesi, yıkım ve ecrimisil istekli davalarda dava değerinin her üç isteğinin toplamından ibaret olacağı, belirlenen bu değer üzerinden Harçlar Kanunu'nun 26, 27, 28, 30 ve 32 maddelerinin öngördüğü şekilde işlemlerin yerine getirileceği ve gerekli olan harcın alınacağı tartışmasızdır. Harçlar Kanunu harç alınması veya tamamlanmasını yanların isteklerine bırakmamış, değinilen yönün mahkemece kendiliğinden (re'sen) gözetilmesini ve harcı yatırılmaması halinde de ne gibi bir işlem yapılacağını 30. ve 32. maddelerinde hükme bağlamıştır. Ne var ki, birleştirilen dava, dava değeri gösterilmeden açılmış ve harç alınmaksızın yargılamaya devam edilerek hüküm kurulmuştur. Bu nedenle Mahkemece davanın harçsız görülmesi sonucunu doğuracak şekilde, ikamesi ve yürütülmesi yasal olarak olanaklı değildir.
@@ -87,14 +103,20 @@ Hal böyle olunca, asıl dava yönünden TBK.'nın 97. maddesi hükmü uyarınca
 
 ## Yargıtay 7. HD 2023/2210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950907800)
+
 Hal böyle olunca; mahkemece, taşınmazın başında yapılacak keşifte taraf tanıklarının beyanlarının alınması, tüm paydaşları bağlayan harici bir taksim sözleşmesi ve özel bir parselasyon planın olup olmadığının veya fiili kullanma biçiminin oluşup oluşmadığının tespit edilmesi, varsa çekişmeli yerlerin kimin kullanımına terk edildiğinin, yoksa, davacıların, payına karşılık çekişmesiz olarak kullandıkları ya da kullanmalarına uygun bir kısım olup olmadığının saptanması, ecrimisil istenen dönemler için, hangi taşınmazın, hangi davalı tarafından, hangi dönemlerde kullanıldığının ya da kullanılıp kullanmadığının duraksamaya yer vermeyecek şekilde saptanması, kullanım var ise, kullanımın niteliğinin tespiti ile intifadan men koşulunun gerçekleşip gerçekleşmediği üzerinde durulması, davalıların ve davacıların taşınmazlardaki pay oranları / hisse oranları da gözönünde bulundurulmak suretiyle, davacıların paylarına göre kendilerine ödenmesi gereken miktarları gösterecek şekilde, ecrimisil hesap yöntemine uygun, denetime elverişli bilirkişi raporu alınması, ondan sonra, davacı/karşı davalılar vekilinin elatmanın önlenmesi, ecrimisil ve kal talebi hakkında toplanmış ve toplanacak delillere
 göre bir karar verilmesi gerekir iken, eksik inceleme ve araştırma ile yazılı olduğu şekilde karar verilmesi doğru görülmemiştir..." gerekçesiyle; (2) numaralı bentte açıklanan nedenlerle davacı karşı davalılar vekilinin temyiz itirazları yerinde görüldüğünden kabulü ile hükmün bozulmasına, (1) numaralı bentte açıklanan nedenlerle davalı karşı davacılar vekilinin temyiz itirazlarının reddine karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/1953 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/926067200)
+
 Bölge Adliye Mahkemesi yukarıda esas ve karar sayısı belirtilen kararı ile istinaf talebinden vazgeçmiş sayılmasına karar verilmiş olmasında bir isabetsizlik bulunmadığını belirterek tebligatın yapıldığı ve verilen kesin sürenin işlediği dönemde mesai saatleri içerisinde sokağa çıkma yasağı bulunmadığını belirterek davalı vekilinin ek karara yönelik istinaf talebinin reddine karar vermiştir. Davacılar vekilinin istinaf incelemesinde, elatmanın önlenmesi ve ıslah edilen ecrimisil bedeli üzerinden harcı tamamlanan toplam dava değerinin 111.322,00 TL olmasına rağmen mahkemece yalnız ecrimisil bedeli üzerinden vekalet ücretine hükmedildiği belirtilerek, davacılar vekilinin istinaf talebinin kabulüne, ilk derece mahkemesi kararının kaldırılmasına; davacı ... yönünden davanın reddine, diğer davacılar yönünden elatmanın önlenmesi ve ecrimisil talebinin kabulüne, 14.525,59 TL nispi vekalet ücretinin davalıdan alınarak davacı ... dışındaki davacılara verilmesine karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/1068 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897728000)
 
 Yargıtay 1. Hukuk Dairesince:
 
@@ -110,12 +132,16 @@ gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/873 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897440600)
+
 Sakarya Bölge Adliye Mahkemesi 1. Hukuk Dairesi 08.09.2022 tarihli ek kararında, yerel mahkeme kararının dava değeri itibariyle kesin olduğundan 6100 sayılı Hukuk Muhakemeleri Kanunun 366 ıncı maddesi yollamasıyla 6100 sayılı Kanunun 346 maddesinin birinci fıkrası gereğince reddine karar vermiş ise de, el atılan taşınmazın değeri ile birlikte ecrimisil değeri dikkate alındığında bu karar davacı yönünden temyizi kabil nitelikte olup davacının temyiz dilekçesinin reddine karar verilmesi doğru değildir. Bu nedenle davacı vekilinin temyiz dilekçesinin reddine yönelik Bölge Adliye Mahkemesi'nin ek kararı kaldırılarak işin esasının incelenmesine geçilmiştir.
 
 İşin esası yönünden yapılan incelemede; belirtilmelidir ki, iddianın içeriği ve ileri sürülüş biçiminden davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu açıktır. Bu tür bir davada, 6100 sayılı Hukuk Muhakemeleri Kanununun (HMK) 120 ve 492 sayılı Harçlar Kanununun 16 ıncı maddesi uyarınca dava değerinin ve buna göre alınacak harcın elatılan yerin değeri ile talep edilen ecrimisil toplamından elatmanın önlenmesi isteğinin yanında yıkım isteği de varsa dava değeri elatılan yerin değeri ile yıkımı istenilen yapı değerinin toplamından (4.3.1953 tarih 10/2 sayılı İ.B.K.) ibaret olacağı kuşkusuzdur. Öte yandan, Harçlar Kanunu harç alınması veya tamamlanmasını yanların isteklerine bırakmamış, değinilen yönün mahkemece kendiliğinden (re'sen) gözetilmesini ve harcı yatırılmaması halinde de ne gibi bir mukteza tayin edileceğini 30 uncu ve 32 inci maddelerinde hükme bağlamıştır.
 Somut olayda, mahkemece fen ve inşaat bilirkişileri ile birlikte 27.09.2019 tarihinde yapılan keşif sonrası sunulan bilirkişi raporlarında dava konusu el atılan taşınmazın değeri 352.817,00 TL olarak tespit edilmiş ise de eksik harç bu değer üzerinden tamamlatılmadan karar verilmiştir. Mahkemece bakiye harcın tahsil edildikten sonra işin esasına girilmesi, soruşturmanın eksiksiz tamamlanması ve sonucuna göre bir karar verilmesi gerekir. Bu nedenle yazılı şekilde karar verilmesi doğru görülmemiş, ilk derece mahkemesi kararının bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2023/496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896654800)
 
 Yargıtay 1. Hukuk Dairesince karar:
 
@@ -131,6 +157,8 @@ gerekliliğine vurgu yapılarak bozulmuştur.
 
 ## Yargıtay 7. HD 2022/7278 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858290500)
+
 Dava, el atmanın önlenmesi, kal ve ecrimisil istemlerine ilişkindir.
 
 …
@@ -139,9 +167,13 @@ El atmanın önlenmesi ve ecrimisil istekli davalarda dava değeri el atılan ye
 
 ## Yargıtay 7. HD 2022/7096 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847152700)
+
 2.11.Karşı davada iddianın içeriği ve ileri sürülüş biçiminden davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu açıktır. Bu tür davalarda, 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 413’üncü (6100 sayılı Hukuk Muhakemeleri Kanunu 120’nci maddesi) ve 492 sayılı Harçlar Kanununun 16.maddesi uyarınca dava değerinin el atılan yerin değeri ile talep edilen ecrimisil veya tazminatın toplamından, el atmanın önlenmesi isteğinin yanında yıkım isteği de varsa dava değerinin el atılan yerin değeri ile yıkımı istenilen yapı değerinin toplamından (4.3.1953 tarih 10/2 Sayılı İçtihadı Birleştirme Kararı) ibaret olacağı ve belirlenen bu değer üzerinden 492 sayılı Harçlar Kanununun 26, 27, 28, 30 ve 32’inci maddelerinde öngörüldüğü şekilde işlemlerin yerine getirilerek gerekli olan harcın alınacağı tartışmasızdır.
 
 ## Yargıtay 7. HD 2022/6701 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846858500)
 
 Dava, mülkiyet hakkına dayalı el atmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 
@@ -151,6 +183,8 @@ Bölge Adliye Mahkemesi yukarıda tarih ve sayısı belirtilen kararı ile davac
 
 ## Yargıtay 7. HD 2022/3172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/767602700)
+
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -158,6 +192,8 @@ Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 O halde taraflar arasında murislerinin de katılımıyla bir taksim yapıldığı, elatmanın önlenmesi ve ecrimisil taleplerinin kabulüne karar verilen 119 ada 95 parsel, 123 ada 27 parsel ile 110 ada 102 parsel sayılı taşınmazların eylemli taksime dayalı olarak uzun yıllardır davacı ...’ün hakkına dayalı olarak eşi ve damadı olan davalılar tarafından tasarruf edildiği gözetilerek bu taşınmazlar hakkında davanın elatmanın önlenmesi ve ecrimisile hükmedilmesi doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 7. HD 2022/1857 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760605100)
 
 Dava, paydaşlar arası elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -168,6 +204,8 @@ düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 7. HD 2022/1724 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/750408500)
+
 Dava, elatmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
 …
@@ -175,6 +213,8 @@ Dava, elatmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 Tüm bu açıklamalar sonucu, müdahalenin meni talebinden açıkça vazgeçen davacı taraf, talebini yalnızca taşınmazda malik olduğu döneme ilişkin olarak ecrimisil istemi ile sınırlandırmış olup, müdahalenin meni yönündeki talebinin reddine ilişkin karar, temyize konu edilmediği halde; mahkemece, bozma ilamına uyularak yapılan yargılama sonucunda, ilk karara ve davacı talebine aykırı olacak şekilde, davanın kabulü ile müdahalenin önlenmesi ve trafonun kaldırılmasına dair karar verilmesi doğru görülmemiş, hükmün, bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2022/389 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729644000)
 
 Dava Kadastro öncesi nedene dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -184,6 +224,8 @@ Dava Kadastro öncesi nedene dayalı tapu iptali ve tescil istemine ilişkindir.
 
 ## Yargıtay 5. HD 2021/7572 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/691153100)
+
 Dava, elatmanın önlenmesi, kal, eski hale getirme ve ecrimisil istemine ilişkindir.
 
 …
@@ -191,6 +233,8 @@ Dava, elatmanın önlenmesi, kal, eski hale getirme ve ecrimisil istemine ilişk
 Ecrimisil istemi yönünden; öncelikle tefrik edilerek Sulh Hukuk Mahkemesine gönderilen el atmanın önlenmesi ve eski hale iade dosyasının bekletici mesele yapılarak, ecrimisil talep edilen alanın kat mülkiyeti kanunu uyarınca özel amaca tahsisli bir yer olup olmadığının, ecrimisil şartlarının oluşup oluşmadığının değerlendirilerek oluşacak sonuca göre karar verilmesi gerekirken aksi düşünce ile yazılı olduğu şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 1. HD 2021/6328 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729070200)
 
 Dava, mülkiyet hakkına dayalı elatmanın önlenmesi ve ecrimisil, birleştirilerek görülen davalar ise inançlı işlem hukuki nedenine dayalı tapu iptali ve tescil isteklerine ilişkindir.
 
@@ -200,9 +244,13 @@ Asıl davanın kabulüne, birleştirilen davanın reddine ilişkin olarak verile
 
 ## Yargıtay 8. HD 2021/4569 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683213300)
+
 Bu durumda, Mahkemece, yargılama aşamasında yapılan imar işlemi ile çakışmanın ortadan kalktığı ve çekişme konusu yerinde birleşen dava davalısı şirketin imar parseli içinde kaldığının anlaşılmasına göre, elatmanın önlenmesi ve kal istemleri yönünden karar verilmesine yer olmadığına karar verilmesi sonuç itibariyle doğru olmakla birlikte, dava tarihi itibariyle dava konusu yapılan yer davacı ve davalıya ait çakışan alanda kaldığı anlaşıldığından, yargılama gideri ve vekalet ücretinin taraflar üzerinde bırakılmasına karar verilmesi gerekirken davalılardan tahsiline karar verilmesi doğru değildir. Aynı şekilde az yukarıda izah edildiği gibi ecrimisil için kötüniyet şartı var olup, asıl dava davalısı (yapı müteahhidi) şirket ile birleşen dava davalısı taşınmaz maliki şirketin 46672 ada 3 parsel sayılı taşınmaz sınırları içinde tasarrufta bulunmaları ve 13.01.2014 tarihinde ortadan kalkan çakışmadan kaynaklı onlara izafe edilecek bir kusur da saptanmadığına göre ecrimisil talebinin reddine karar verilmesi gerekirken, yazılı şekilde hüküm tesis edilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2021/4387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/681047600)
 
 Dava; elatmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 
@@ -212,6 +260,8 @@ Taleple bağlılık ilkesini düzenleyen 6100 sayılı Hukuk Muhakemeleri Kanunu
 
 ## Yargıtay 8. HD 2021/3673 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/681017800)
+
 Dava, müdahalenin men’i ve ecrimisil istemlerine ilişkindir.
 
 …
@@ -220,13 +270,19 @@ O halde mahkemece tüm taraf tanıklarının, ayrı ayrı taşınmazların baş�
 
 ## Yargıtay 8. HD 2021/3226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/669299600)
+
 Az yukarda açıklanmış olduğu üzere; davacı tarafça elatmanın önlenmesi talebi yönünden harca esas miktarı belirlemek amacı ile yapılacak keşif için keşif günü sunulan dilekçe ile keşif delil avansının yatırılmayacağı bildirildiğine göre, Mahkemece yapılması gereken; elatmanın önlenmesi yönünden tefrik kararı verilerek bu talebin ayrı bir esasa kaydedilmesi, Harçlar Kanunu'nun 30.maddesi kapsamındaki ihtarların bu dosya üzerinden yeniden yapılması, eğer gereği yerine getirilmez ise dosyanın işlemden kaldırılmasına karar verilmesi; geriye kalan ecrimisil talebi yönünden ise esas hakkında karar verilmesi iken, yanılgılı değerlendirme ile tüm talepler yönünden davanın açılmamış sayılmasına karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 8. HD 2021/2732 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666323200)
+
 Dava konusu 9 nolu parselde taraflar paydaştır. Paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan her zaman payına vaki el atmanın önlenmesi ve/veya ecrimisil isteyebilir. Ancak, o paydaşın, payına karşılık çekişmesiz olarak kullandığı veya kullanabileceği bir kısım yer varsa açacağı el atmanın önlenmesi ve/veya ecrimisil davasının dinlenme olanağı yoktur. Yerleşmiş Yargıtay içtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorununu, kesin sonuç getiren taksim veya ortaklığın satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir. Hal böyle olunca; davacı ...’nin payından az yer kullandığını ileri sürerek açtığı el atmanın önlenmesi ve ecrimisil davasının dinlenme olanağı yoktur. Bu itibarla birleşen dava yönünden ret kararı verilmesi gerekirken, davalı ... yönünden kabul kararı verilmesi hatalıdır.
 
 ## Yargıtay 8. HD 2021/2313 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666194500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, ecrimisil ve ka’l istemine ilişkindir.
 
@@ -235,6 +291,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi, ecrimisil ve ka’l istemine il
 Tüm dosya kapsamı ve toplanan delillerden; davacının devlet demiryolu ve varyant hattı vasıflı ... ilçesi 230 ada, 1 parsel sayılı taşınmazın maliki, komşu 1024 ada 2 parsel sayılı arsa niteliğindeki taşınmazın ise davalı ...’na ait olduğu, bilirkişi kök ve ek raporlarında 1024 ada 1 parselde bulunan 118 m2 taban oturumlu, bodrum kat+ zemin kat + normal kat + teras kattan oluşan (3 kat + teras) betonarme olarak inşa edilmiş mesken vasıflı binanın da davacıya ait 230 ada 1 parsele 29,00 m2'lik kısmın tecavüzlü olduğu, davacının bu elatma nedeniyle talep edebileceği ecrimisil bedelinin 1.757,00 TL, elatılan kısmın zemin değerinin 3.480,00 TL, kal masraflarının 24.780,00 TL ve kal nedeniyle davalı tarafın uğrayacağı zarar miktarının da 140.069,00 TL, asgari levazım bedelinin 28.014,00 TL olduğu, tecavüzlü kısmın yıkılması durumunda yapının geri kalan kısmın tamamının kullanılamaz hale geleceği ve bu sebeple tamamının yıkılması gerektiğinin mütalaa edildiği anlaşılmaktadır.
 
 ## Yargıtay 8. HD 2021/1763 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648651500)
 
 Dava; müdahalenin meni, ecrimisil, kal, eski hale getirme talebine ilişkindir.
 

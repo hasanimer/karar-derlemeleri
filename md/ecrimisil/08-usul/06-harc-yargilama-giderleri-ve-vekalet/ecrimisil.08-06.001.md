@@ -21,13 +21,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2026/196 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206116600)
+
 Eldeki dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil istemine yönelik olarak açılmıştır. İddianın içeriği ve ileri sürülüş biçiminden, davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün olduğu da açıktır. Bu tür davalarda, HMK ve 492 sayılı Harçlar Kanunu'nun 16. maddesi uyarınca, dava değerinin ve buna göre alınacak harcın elatılan yerin değeri ile talep edilen ecrimisil bedelinin toplamından ibaret olacağı kuşkusuzdur. Objektif dava birleşmesi olarak adlandırılan bu durumda taleplerin her biri ayrı dava olmakla birlikte, görünüşte tek bir hüküm bulunduğundan kesinlik sınırının tespiti bakımından el atmanın önlenmesi ve ecrimisil istemlerine yönelik dava değerlerinin toplanmaları ile ortaya çıkacak değerin esas alınması ve dolayısıyla Bölge Adliye Mahkemesinin ecrimisile yönelik istinaf isteminin de esastan incelemesi gerekmektedir.
 
 ## Yargıtay HGK 2023/1136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976309900)
+
 Bu durumda davacının sözleşmenin feshedildiğini belirttiği 28.02.2013 tarihinden dava tarihi olan 08.04.2014 tarihine kadar geçen süre içerisinde ecrimisil talebinde bulunmasında hukuki yararı olduğunun kabulü ile bu dönem içerisinde kalan ecrimisil talebi hakkında verilen red kararı nedeniyle davalı yararına nispi vekâlet ücretine hükmedilmesi, davacının dava tarihinden sonraki dönemi kapsayan ecrimisil talebi hakkında ise karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 7/2 nci maddesi uyarınca maktu vekâlet ücreti tayini gerekirken Bölge Adliye Mahkemesince reddedilen ecrimisil talebi yönünden harca esas dava değeri 60.000,00 TL kabul edilerek bu bedel üzerinden nispi vekalet ücretine hükmedilmesi yerinde değildir.
 
 ## Yargıtay HGK 2006/529 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76981000)
 
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -41,6 +47,8 @@ Hal böyle olunca, yerel mahkemece eksik incelemeye dayalı önceki kararda dire
 Noterliği yazı cevabı doğrultusunda usulünce yapılan kamulaştırma işlemi bulunmadığından davacının dava açmakta haklı olduğu kabul edilerek davalı aleyhine vekâlet ücreti ve yargılama giderleri hükmedilmesinde, 2012-2016 yılları arasında usulünce hesap edilen ecrimisil talebi yönünden davanın kabulüne karar verilmesinde bir isabetsizlik bulunmadığı anlaşıldığından davalı idarenin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 5. HD 2026/5512 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206179900)
 
 İlçe Tarım ve Orman Müdürlüğünün 2022 yılı verileri esas alınarak değerlendirme yapıldığı, dava tarihine endekslendiği, dava tarihine göre Seferihisar İlçe Tarım ve Orman Müdürlüğünün 2023 yılı verilerinin esas alınması gerektiğinden Dairelerince sulu tarım ürünlerine ilişkin veriler istendiğinde sadece kuru tarım verilerinin bulunduğu anlaşıldığından Dairelerince İzmir İl Tarım ve Orman Müdürlüğünün 2023 yılı verileri dosya içine alınarak usul ekonomisi gereğince resen hesaplama yapılması uygun bulunarak, bunun yanı sıra talep sonucuna göre hüküm kurulması ve davacıların fazlaya ilişkin haklarının saklı tutulmasına karar verildiği, Yargıtay 5. Hukuk Dairesi içtihatlarına göre dava konusu taşınmaza ilişkin tek vekâlet ücreti taktir edilmesi gerekirken ecrimisil yönünden ayrıca vekâlet ücreti takdirinin doğru görülmediği gerekçesiyle taraf vekillerinin istinaf başvurularının kısmen kabulü ile İlk Derece Mahkemesi hükmü kaldırılarak yeniden esas hakkında hüküm kurulmak suretiyle davanın kabulüne karar verilmiştir.
 
@@ -58,14 +66,20 @@ Müdahalenin men'i ve ecrimisil talepli davalar çoğunlukla taşınmazın aynı
 
 ## Yargıtay 5. HD 2025/15444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197227400)
+
 Dairemizce yapılan inceleme sonucunda; arsa niteliğindeki taşınmaza hükme esas alınan bilirkişi raporunda dava konusu taşınmaza göre yüzölçümü büyük olan taşınmazın emsal alınması doğru olmadığı gibi, emsal alınan ... 2 47... parsel sayılı taşınmazın tapu ve satış akit tablosunun incelenmesinde satışın anonim şirkete satış olup bu satışın tarafları ve taşınmazın nitelikleri dikkate alındığında ticari amaçlı bir satış olduğu, serbest satış olmadığı ve taşınmazın gerçek değerini yansıtmadığı izlenimini uyandırdığından bu emsali esas alarak değer tespit eden bilirkişi kurulu raporunun hükme esas alınması mümkün olmadığından yeniden oluşturulacak bilirkişi kurulu marifetiyle mahallinde keşif yapılarak alınacak rapor sonucuna göre hüküm kurulması gerektiğinin düşünülmemesi bozma öncesinde kararı davacının temyiz etmediği anlaşıldığından, usuli kazanılmış hak ilkesine aykırı olarak ilk kararı temyiz etmeyen davacı yönünden fazla bedele hükmedilmesi, bozma öncesindeki kararın Denizli 5.
 İcra Müdürlüğünün 2015/2066 Esas sayılı dosyasında takibe konu edildiğinden bahisle davalı ... tarafından yapılan ödemenin ve icra dosyasında ödenen vekâlet ücretinin mahsup edilmek suretiyle bozma sonrası Hazine hakkında husumet nedeniyle ret kararı verildiği gözetilmeden yazılı şekilde karar verilmesi, ecrimisil; yönünden değerlendirme gününden önceki kira sözleşmesi emsal alınıp ilk dönem ecrimisil bedeli belirlenip sonraki dönemler için ÜFE artış oranının yansıtılması gerekirken, değerlendirme gününden çok sonraki tarihli bir kira sözleşmesi esas alınıp geriye doğru endeks uygulamak suretiyle ecrimisil bedeli belirlenmesi, davalı ... hakkında açılan davanın pasif husumet yokluğu nedeniyle reddine karar verildiği hâlde, lehine maktu vekâlet ücretine hükmedilmesi gerektiği düşünülmeden yazılı şekilde karar verilmesi doğru olmadığından karar bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2025/5114 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190360300)
+
 İddianın içeriği ve ileri sürülüş biçiminden davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu açıktır. Bu tür bir davada, 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 120. ve 492 sayılı Harçlar Kanunu’nun 16. maddesi uyarınca, dava değerinin ve buna göre alınacak harcın el atılan yerin değeri ile talep edilen ecrimisil bedelinin toplamından, el atmanın önlenmesi isteğinin yanında yıkım isteği de varsa dava değeri el atılan yerin değeri ile yıkımı istenilen yapı değerinin toplamından (04.03.1953 tarihli ve 10/2 sayılı ....) ibaret olacağı kuşkusuzdur.
 
 ## Yargıtay 7. HD 2025/3864 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188891500)
 
 Dava; paydaşlar arasında el atmanın önlenmesi ve ecrimisil istemlerine ilişkin olup Mahkemece doğal semere getiren bir kısım taşınmazlar yönünden intifadan men şartına gerek olmadığı, doğal semere getirmeyen taşınmazlar yönünden ise intifadan men şartının gerçekleştiği benimsenmek suretiyle elatma olgusu sabit görülerek el atmanın önlenmesine ve ecrimisile hükmedilmesinde kural olarak isabetsizlik yoktur. Bu sebeple tarafların temyiz itirazlarının reddi gerekmiştir. Ancak paydaşlar arasındaki el atmanın önlenmesi istemli davalarda davanın kabulü hâlinde davacının payı oranında el atmanın önlenmesine karar verilmesi gerekirken, 4721 sayılı Türk Medeni Kanunu'nun 688. maddesi hükmüne aykırı olacak şekilde taşınmazın tamamının kullanımına engel olma anlamına gelecek şekilde mutlak el atmanın önlenmesine karar verilmesi hatalı olup bozmayı gerektirmiştir.
 
@@ -73,13 +87,19 @@ Dava; paydaşlar arasında el atmanın önlenmesi ve ecrimisil istemlerine iliş
 
 ## Yargıtay 7. HD 2025/2301 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145223000)
+
 Kabule göre de; bu tür davalarda, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 120 ve 492 sayılı Harçlar Kanunu'nun 16. maddesi uyarınca, dava değerinin ve buna göre alınacak harcın el atılan yerin değeri ile talep edilen ecrimisil bedelinin toplamı olduğu, dava konusu taşınmazın tamamının üzerindeki yapılar ile değerinin toplamı üzerinden harca ve vekâlet ücretine hükmedilmiş ise de, davalının temliken tescil savunması da değerlendirilerek, davalının el attığı yerin değeri ile talep edilen ecrimisil bedelinin toplamı üzerinden harç ve vekâlet ücretine hükmedilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 7. HD 2024/5789 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1116748900)
+
 Mahkemece asıl davada harcı tamamlanan el atmanın önlenmesi ve ecrimisil toplamı üzerinden harç tahsiline karar verilmesi gerekirken harcın hatalı hesaplanmış olması hükmün bozulmasını gerektirir ise de, yeniden yargılama yapılmasını gerektirmediğinden 6100 sayılı HMK’nın geçici 3 üncü maddesinin ikinci fıkrası atfıyla uygulanmasına devam olunan mülga 1086 sayılı HUMK’nın 438 inci maddesinin yedinci fıkrası gereğince hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir …
 
 ## Yargıtay 5. HD 2024/5484 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058417100)
 
 Dairemizce yapılan inceleme sonucu;
 Mahkemece bozma ilamına uyulmuşsa da, bozma gereklerinin tam olarak yerine getirilmediği, şöyle ki, dava konusu taşınmazın kadastro parseli, emsal taşınmazın imar parseli olduğu anlaşıldığından, dava konusu taşınmazın tespit edilen metrekare birim fiyatından düzenleme ortaklık payı kesintisi yapılması gerekirken; bu yönteme uyulmaksızın değer tespit edildiği gibi, tek bilirkişi tarafından hazırlanan raporun da inandırıcı bulunmadığı, bu durumda yeni bilirkişi kurulu ile mahallinde keşif yapılarak alınacak rapor sonucuna göre hüküm kurulması gerektiğinin düşünülmemesi, ecrimisile hükmedilmesi için taşınmazın bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne şekilde kiraladıklarının taraflardan delilleri sorulmak suretiyle tespit edilmesi, varsa emsal kira sözleşmesi temin ettirilerek mahallinde keşif yapılıp alınacak rapor doğrultusunda hüküm kurulması gerektiği düşünülmeden soyut bir şekilde ecrimisil hesabı yapan rapor esas alınarak eksik inceleme ile hüküm kurulması, dava konusu taşınmaza fiilen hangi tarihte el atıldığı taraflardan sorularak, el atma tarihine ilişkin tüm
@@ -87,11 +107,15 @@ belgeler getirtilip, el atma tarihinin 04.11.1983 tarihinden önce olduğunun te
 
 ## Yargıtay 7. HD 2024/4644 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089593200)
+
 Bölge Adliye Mahkemesi, "Ecrimisil davası itibariyle harçlandırılan dava değeri 100 TL olması nedeniyle AAÜT'nin 13/2 md gereğince davadan feragat dikkate alınarak davalı lehine 100 TL vekalet ücreti takdiri gerekirken nisbi harca tabi eldeki dava itibariyle davalı lehine maktu vekalet ücreti takdiri yerinde olmamıştır.
 
 Aynı zamanda mahkemeninde kabulünde olduğu üzere davalı taraf eldeki davanın açılmasına sebebiyet verdiğinden davacı lehine konusuz kalan nisbi harca tabi elatmanın önlenmesi davası itibariyle harçlandırılan dava değeri olan 3.200.000 TL üzerinden nispi vekalet ücreti takdiri gerekirken maktu vekalet ücreti takdiri de yerinde olmamıştır.
 
 ## Yargıtay 11. HD 2024/3687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043793600)
 
 Noterliği kanalıyla 18.11.2011 tarihli devir tarihi itibariyle davacıların ...
 A.Ş.'de pay sahibi olmadıkları, her ne kadar kural olarak yönetim kurulu kararının yokluğunun hukuki yararı olan herkes tarafından herhangi bir süreye bağlı olmaksızın ileri sürülmesi mümkünse de, davacı pay sahiplerinin kendilerinden önce olmuş tamamlanmış işlemlere karşı geçmişe etkili olarak yokluk ya da butlanı ileri sürmesinin mümkün olmadığı, şirketin mevcut durumunu bilerek ve araştırarak davacıların şirket hisselerini devralmış olmalarının bekleneceği, şirketin mevcut finansal durumunu benimseyerek hisselerin devralınmasının esas olduğu, şirketin mali durumu hakkında yanıltıcı bilgi verildiği yönündeki iddialar ise olsa olsa irade fesadına dayalı açılacak hisse devrinin iptali davasında tartışma konusu olabileceği, ancak, pay devrinden evvel yapılan işlemler butlan da olsa, yok hükmünde de olsa sonradan payı iktisap eden davacılar tarafından ileri sürülmesinin mümkün olmadığı, İlk Derece Mahkemesince yok hükmünde olduğu dava edilen yönetim kurulu kararı açısından ileriye etkili işlemlere dayanak teşkil edeceğinden bahisle davacıların hukuki yararı olduğu kabul edilmişse de, anılan 11.08.2011 tarihli yönetim kurulunun yetkilendirme kararına binaen davalı ...'in yaptığı
@@ -101,17 +125,25 @@ görülmediği, davalılar vekilinin istinaf başvurusunun bu yönüyle kabulün
 
 ## Yargıtay 5. HD 2024/3277 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038508800)
+
 Dairemizce yapılan inceleme sonucu; tazminat talebi yönünden dava konusuz kaldığından karar verilmesine yer olmadığına, ecrimisil istemi yönünden ise davanın kabulüne karar verilmesinde bir isabetsizlik görülmediği, ancak yargılama sırasında 08.05.2014 havale tarihli dilekçe ile davacılar vekilince talep miktarı kamulaştırmasız el atma bedeli yönünden 50.786,77 TL, ecrimisil istemi yönünden ise 331 TL olarak belirlenmiş ise de arttırılan kısım için gerekli harç tamamlanmadığından, ecrimisil istemi yönünden taleple bağlı kalınarak ve fazlaya ilişkin hakkı saklı tutularak dava dilekçesinde belirtilen miktar üzerinden tam kabul kararı verilmesi gerektiği gibi davanın açıldığı andaki haklılık durumu gözetildiğinde, konusuz kalan tazminat talebi ile birlikte ecrimisil istemi yönünden vekâlet ücretine de bu kapsamda dava dilekçesindeki talep miktarı dikkate alınarak hükmedilmesi gerektiği gerekçesiyle kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2024/1765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031437800)
 
 El atmanın önlenmesi ve ecrimisil isteklerinin birlikte açılması halinde dava konusu taşınmazın dava tarihindeki değeri ile talep edilen ecrimisil bedeli toplamı üzerinden tek vekalet ücretine hükmedilmesi gerekirken el atmanın önlenmesi ve ecrimisil istekleri yönünden ayı ayrı vekalet ücretine karar verilmesinin de doğru görülmediği gerekçesiyle davacı vekilinin istinaf başvurusunun kabulüne, İlk Derece Mahkemesi kararının kaldırılmasına, davanın konusuz kalması sebebiyle dava hakkında karar verilmesine yer olmadığına karar verilmiştir .
 
 ## Yargıtay 8. HD 2023/6271 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982121600)
+
 Ancak; Bölge Adliye Mahkemesince, karşı davanın değerinin, elatmanın önlenmesi talep edilen yerin değeri ve ecrimisil bedeli üzerinden belirleneceği açıklanarak, bahisle el atılan yerin değeri 18,97 metrekare x 130 TL = 2.466,1 TL ile ecrimisil miktarı olan 383,44 TL' nin istinaf sınırı altında kaldığından bahisle davacı - karşı davalı vekilinin elatmanın önlenmesi ve ecrimisil (karşı dava) yönünden istinaf isteğinin reddine karar vermek gerektiği belirtildikten sonra, hükmün 11 inci fıkrasında "Karşı dava değeri olan 2.849,54 TL üzerinden hesap edilecek nispi vekalet ücreti, maktu vekalet ücretinin altında kaldığından karar tarihindeki Avukatlık Asgari Ücret Tarifesi’nin 13. maddesi uyarınca 9.200,00 TL vekalet ücretinin asıl davacı ...'dan alınarak karşı davacıya verilmesine," karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 5. HD 2023/6012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/922706700)
 
 Dairece yapılan inceleme sonucunda; asıl dava yönünden, bilirkişi kurulunca somut emsal alınan taşınmazın, satışına ilişkin akit tablosu Tapu Müdürlüğünden istenilip, dava konusu taşınmaz ile somut emsal taşınmazın 2013 yılında Arsa Metrekare Rayiç Bedeli Takdir Komisyonu tarafından resen belirlenen emlak vergisine esas olan m² değerleri ilgili Belediye Başkanlığı Emlak Müdürlüğünden getirtilip, dava konusu taşınmazın değerlendirme tarihi itibarıyla; hükme esas alınan bilirkişi raporunda somut emsal kabul edilen taşınmazın ise bilirkişilerce değerlendirmeye esas alınan satış tarihi itibarıyla fiili imar uygulaması sonucu oluşan imar parselleri mi, yoksa imar planına dahil olmakla birlikte olduğu gibi bırakılan kadastro parselleri mi oldukları ilgili Belediye İmar Müdürlüğü ile Tapu Müdürlüğünden ayrı ayrı sorulup alınacak cevaplara göre bilirkişi kurulu raporu denetlenmeden eksik inceleme ile karar verilmesi, hükme esas alınan bilirkişi kurulu raporunda tespit edilen metrekare birim fiyatına göre davacılardan ..., ... ve ...'in hisselerine düşen tazminat miktarı 308.849,06'şar TL'den toplam 926.547,18 TL olduğu hâlde, maddi hata sonucu adı geçen davacıların payına düşen meblağ
 348.849,06'şar TL olarak yazılmak suretiyle hesap yapan rapor doğrultusunda yazılı şekilde karar verilmesi, birleştirilen dava yönünden; ecrimisil bedeli tayin edilebilmesi için el atma nedeniyle davacıların bu yeri kullanamamasından dolayı kazanç kaybına uğraması gerekmektedir.
@@ -119,21 +151,31 @@ Bu itibarla, ecrimisil belirlenirken taşınmazın bulunduğu bölgedeki diğer 
 
 ## Yargıtay 7. HD 2023/5636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988116100)
+
 Bölge Adliye Mahkemesi yukarıda tarih ve sayısı belirtilen kararı ile "..davalının taşınmazda haksız yere bedel ödemeden oturduğu, dava açıldıktan sonra tahliye ettiğinden davanın kabulü kararının hatalı olduğu, davacı lehine nisbi vekalet ücretine hükmedilmesi gerekirken maktu vekalet ücretine hükmedilmiş ise de; davacı vekalet ücreti yönünden hükmü istinaf etmediğinden davalı lehine kazanılmış hak oluştuğu belirtilerek davalı vekilinin istinaf başvurusunun kabulü ile el atmanın önlenmesi davası konusuz kaldığından karar verilmesine yer olmadığına; davacının ecrimisil (09/01/2018-11/09/2019) talebinin kabulü ile 15.902,32 TL'nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine, el atmanın önlenmesi talebi yönünden 4.080,00 TL, ecrimisil talebi yönünden 4.080,00 TL olmak üzere 8.160,00 TL vekalet ücretinin davalıdan alınarak kendisini vekil ile temsil ettiren davacıya verilmesine" karar vermiştir.
 
 ## Yargıtay 5. HD 2023/4310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/901306200)
 
 Dairemizce yapılan temyiz incelemesinde, İlk Derece Mahkemesince tazminat talebi yönünden esas hakkında hüküm kurulması gerekirken, infaz kabiliyeti olmayacak şekilde karar verilmesi, İlk Derece Mahkemesinin ikinci kararında tazminat ve ecrimisil toplam bedeli üzerinden nispi vekâlet ücreti ve nispi harcın hesaplandığı, kaldırma kararı sonrası yapılan üçüncü yargılamada tazminat bedeli yönünden karar verilmesine yer olmadığına ve ecrimisil talebinin kısmen kabulü ile kabul ve reddedilen ecrimisil miktarına göre vekâlet ücretine hükmedildiği; ancak önceki ve sonraki kararlardaki ecrimisil bedeli farklı olduğu gibi, talep miktarının da değiştiği gözetildiğinde, tazminat talebi yönünden tarafların alacakları vekâlet ücreti hakkında netlik bulunmadığı anlaşılmakla, belirsiz alacak davası niteliğindeki davada mahkemece son talep miktarı gözetilerek; tazminat ve ecrimisil bedelinin toplamı üzerinden kabul ve ret miktarlarına göre taraflar lehine nispi vekâlet ücretine hükmedilmesi gerekirken, infazda tereddüt oluşturacak şekilde hüküm kurulması doğru görülmediğinden sair hususlar incelenmeksizin bozulmasına karar verilmiştir.
 
 ## Yargıtay 1. HD 2023/4258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974612400)
+
 Asıl davada her bir davacı için ayrı, ayrı 1.000,00 TL ecrimisil talebinde bulunulmuş ve bu miktarlar üzerinden harç yatırılmış olup, yargılama aşamasında ise asıl dava yönünden tüm davacılar için ecrimisil taleplerinden feragat edilmiştir. Bu durumda her bir davacı yönünden ayrı ayrı ecrimisil isteklerinin reddine karar verildiğine göre haklarında dava reddedilen davalılar yararına her bir davacı için ayrı ayrı (reddedilen miktar da gözönüne alınarak) avukatlık ücretine hükmedilmesi gerekirken tek avukatlık ücreti ile yetilnilmesi doğru olmadığı gibi, asıl davada ..., ... ve ... mirasçıları için reddedilen tapu iptali ve tescil istekleri yönünden vekille temsil edilen davalılar Raci ve Mustafa lehine vekalet ücretine hükmedilmemesi de isabetsizdir.
 
 ## Yargıtay 7. HD 2023/3558 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929550200)
+
 Hemen belirtilmelidir ki; iddianın içeriği ve ileri sürülüş biçiminden, elatmanın önlenmesi davasının taşınmaz malın aynına yönelik olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu; böyle bir davada, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 120/1. (1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 413.) ve 492 sayılı Harçlar Kanunu'nun 16. maddeleri uyarınca dava değerinin ve buna göre alınacak harcın, el atılan yerin değeri ile talep edilen ecrimisil toplamından ibaret olacağı kuşkusuzdur (4.3.1953 tarihli ve 10/2 sayılı İBK).
 
 ## Yargıtay 7. HD 2023/2551 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915804800)
 
 Bu durumda, davalı ...'in yargılama sırasında, diğer davalı ...'in ise karar tarihinden sonra ölümü ile onlar tarafından vaki haksız fiil niteliğindeki el atmanın sona erdiğinin kabul edilmesi gerektiği, buna karşın yıkım isteği yönünden ise davada kayıt maliklerine yöneltilen bir husumet bulunmadığından davalılar ... ve ...'e husumet düşmeyeceği kuşkusuzdur. Esasen davaya dahil edilen kişilerin haksız eylemleri var ise ayrı bir davanın konusunu oluşturacağı da açıktır. Ancak, mirası reddetmeyen mirasçıların, murislerin halefi sıfatı ile el atmanın önlenmesi yönünden yargılama giderlerinden ve ecrimisilden sorumlu olacakları kuşkusuzdur.
 
@@ -142,11 +184,15 @@ bile bulunmadığı halde) davalı olarak işin esası hakkında karar verilmesi
 
 ## Yargıtay 7. HD 2023/1151 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897362800)
+
 Mahkemece yapılan inceleme ve araştırmanın hüküm kurmaya yeterli olduğu söylenemez. Şöyle ki; 10.11.2015 tarihli bilirkişi raporunda hatalı olarak 2009 yılı için belirlenen aylık ecrimisil bedeline yine hatalı olarak "TEFE" uygulanarak 2014 tarihine kadar artırıldığı, ayrıca 18.02.2016 tarihli raporda davacı tarafça getirilen emsaller değerlendirilmiş ise de, dava konusu taşınmaz ile emsalin somut karşılaştırmasının yapılmadığı, üstün veya eksik taraflarının açıkça belirlenmediği, 29.03.2016 tarihli ek raporda da tarafların itirazlarının gereği gibi karşılanmadığı anlaşılmaktadır. Mahkemece, tarafların iddia ve savunmaları çerçevesinde, dava konusu taşınmazların başında konusunda uzman bilirkişiler eşliğinde keşif yapılarak, yukarıda "İlgili Hukuk" bölümü 3., 4., 5. bentlerde açıklanan ilkeler uyarınca araştırma ve inceleme yapılması, hasıl olacak sonuca göre bir karar verilmesi gerekirken, yetersiz araştırma ve inceleme ile yetinilerek yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 Kabule göre de, davacıların tek bir vekalet ilişkisi ile temsil edilmiş olması da gözetilerek, kabul/ret oranına göre hükmedilen toplam ecrimisil bedeli üzerinden hesaplanacak nispi vekalet ücretinin davalıdan alınarak davacılara verilmesine, reddedilen ecrimisil bedeli üzerinden hesaplanacak nispi vekalet ücretinin ise davacılardan alınarak davalıya verilmesine karar verilmesi gerekirken, Mahkemece her bir davacı lehine ayrı ayrı vekalet ücretine hükmedilmiş olması da isabetli değildir.
 
 ## Yargıtay 7. HD 2023/873 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897440600)
 
 Sakarya Bölge Adliye Mahkemesi 1. Hukuk Dairesi 08.09.2022 tarihli ek kararında, yerel mahkeme kararının dava değeri itibariyle kesin olduğundan 6100 sayılı Hukuk Muhakemeleri Kanunun 366 ıncı maddesi yollamasıyla 6100 sayılı Kanunun 346 maddesinin birinci fıkrası gereğince reddine karar vermiş ise de, el atılan taşınmazın değeri ile birlikte ecrimisil değeri dikkate alındığında bu karar davacı yönünden temyizi kabil nitelikte olup davacının temyiz dilekçesinin reddine karar verilmesi doğru değildir. Bu nedenle davacı vekilinin temyiz dilekçesinin reddine yönelik Bölge Adliye Mahkemesi'nin ek kararı kaldırılarak işin esasının incelenmesine geçilmiştir.
 
@@ -155,9 +201,13 @@ Somut olayda, mahkemece fen ve inşaat bilirkişileri ile birlikte 27.09.2019 ta
 
 ## Yargıtay 7. HD 2023/171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933421600)
+
 6100 sayılı HMK.nin 297 inci maddesi uyarınca; hükmün infazı kabil bulunması gerektiği dikkate alınmadan yazılı şekilde müphem karar verilmesinin doğru olmadığı, elatmanın önlenmesi ve ecrimisil istekli dava kabul edildiğine göre Harçlar Kanunu’nun 16 ıncı maddesi hükmü uyarınca elatılan taşınmazın bedeli ile hükmedilen ecrimisil miktarı üzerinde bulunacak dava değerine göre harcın ve vekalet ücretinin de hüküm altına alınması gerektiği, ancak yanılgılı değerlendirmeyle sadece ecrimisil miktarı esas alınarak eksik harç ve vekalet ücreti takdirinin isabetsiz olduğu, açıklanan nedenlerle davacı ...’ün istinaf talebinin reddine, birleştirilen davanın davacıların istinaf talebinin kabulüne, istinafa gelenin sıfatı ve istinaf sebepleri dikkate alınarak birleştirilen davada hükmün kuruluş biçimi ve hükmedilen harç ve vekalet ücreti bakımından hükmün düzeltilmesi suretiyle esas hakkında asıl dava ve birleştirilen dava yönünden yeniden karar vermek gerektiği gerekçesiyle;
 
 ## Yargıtay 5. HD 2022/12832 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/819537800)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -168,5 +218,7 @@ Davacıların ecrimisil talebine yönelik her ne kadar ilk derece mahkemesinin "
 Karar tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesinin 13/4 maddesinde belirtilen "Maddi tazminat istemli davaların tamamının reddi durumunda avukatlık ücreti, bu Tarifenin ikinci kısmının ikinci bölümüne göre hükmolunur." hükmü uyarınca ecrimisil talebi bakamından da davalı idare lehine maktu vekalet ücret takdiri yerine nisbi vekalet ücretine hükmedilmesi, …
 
 ## Yargıtay 7. HD 2022/2147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/751981600)
 
 Kararda, karşı dava yönünden; çaplı taşınmaza taşkın yapılanma halinde yapı sahibinin iyi niyetli olduğunun, kabul edilebilmesi bakımından davalının resmi mercilere müracaat ettiğini kanıtlanamadığı gibi, davacıya ait çap kaydının da bulunmadığı gerekçesiyle temliken tescil isteğinin reddine karar verilmesi gerekirken olumlu veya olumsuz bir karar verilmemesinin doğru olmadığı, ayrıca harcı tamamlanmayan değer üzerinden vekalet ücreti takdiri ve red edilen ecrimisil miktarı üzerinden davalı lehine vekalet ücreti takdir edilmemesin de doğru olmadığından İlk Derece Mahkemesi kararının kaldırılarak yeniden esas hakkında karar verildiği izah edilmiştir.

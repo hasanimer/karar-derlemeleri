@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2012/9299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054082000)
+
 Davaya konu bağımsız bölümler davalı mirasçılar adına, elbirliği mülkiyeti hükümlerine göre kayıtlı olup, mahkemece, tapuda intikale esas alınan mirasçılık belgesine göre değil, davacı tarafından ibraz edilen mirasçılık belgesine göre hüküm kurulmuştur. Tapuda taşınmazın veraseten intikali yapıldığından, mahkemece tapu kaydına esas alınan mirasçılık belgesi ile varsa hissedarlar arasındaki satış ve hisselerin birleşmesine ilişkin belgelerin tapu müdürlüğünden getirtilerek sonucuna göre payların belirlenmesi gerekirken, yazılı şekilde davacı tarafından sunulan ve tapuda yapılan intikale esas alınıp alınmadığı anlaşılamayan mirasçılık belgesine göre karar verilmesi doğru değildir.
 
 ## Yargıtay 14. HD 2012/9129 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539402100)
 
 Dava, satış vaadi sözleşmesine dayalı tapu iptali ve pay tescili istemine ilişkindir.
 
@@ -35,6 +39,8 @@ Gerçekten dava konusu taşınmazlar halen elbirliği mülkiyeti hükümlerine t
 
 ## Yargıtay 6. HD 2012/9077 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054017700)
+
 Dava, iki adet taşınmaz üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istemine ilişkindir.
 
 …
@@ -43,6 +49,8 @@ Elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi davaları iki tar
 
 ## Yargıtay 6. HD 2012/8896 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053920200)
+
 Dava, elbirliği mülkiyetinin, paylı mülkiyete çevrilmesi istemine ilişkindir.
 
 …
@@ -50,6 +58,8 @@ Dava, elbirliği mülkiyetinin, paylı mülkiyete çevrilmesi istemine ilişkind
 Miras bırakan ... elbirliği mülkiyetinin, paylı mülkiyete dönüştürülmesine karar verilen taşınmazlardan 1293, 1294, 1295, 1296, 1173, 1323 parselde ¼, 1169, 1170, 1177 parselde 65/160 ve 143 ada 13 parsel, 149 ada 26 parsel, 144 ada 12 parsel, 148 ada 15 parselde ½ pay sahibidir. Mahkemece taşınmazlar mirasçılık belgesine göre dört pay kabul edilerek 1'er payın davalılar adına tesciline karar verilmiş ise de miras bırakan taşınmazlarda tam pay sahibi olmadığından yapılan pay tespiti doğru değildir. Bu durumda miras bırakanın taşınmazlardaki payının mirasçılık belgesindeki paylar gözetilerek paylaştırılması ve hüküm fıkrasında mirasçıların paylarının ayrı ayrı gösterilmesi gerekir. Öte yandan hüküm kısmında sadece payların tespitiyle yetinilip ayrıca tesciline karar verilmemesi gerektiği de gözardı edilerek yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 6. HD 2012/8873 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053897800)
 
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -61,6 +71,8 @@ Olayımıza gelince; dava konusu taşınmazın paydaşlarından ...'in 1995 yıl
 
 ## Yargıtay 6. HD 2012/8090 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/559488900)
+
 Dava, elbirliği mülkiyetinin, paylı mülkiyete çevrilmesi istemine ilişkindir.
 
 …
@@ -71,13 +83,19 @@ Madde hükmünden açıkça anlaşıldığı üzere, mahkemece bir süre belirle
 
 ## Yargıtay 6. HD 2012/6664 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564083500)
+
 Türk Medeni Kanunu’nun 644/2 maddesi elbirliği mülkiyetinin devamını haklı kılacak bir itiraz ileri sürülmediği veya mirasçılardan biri belirlenen süre içinde paylaşma davası açmadığı takdirde istem konusu mal üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verileceği hükmünü içermektedir. Mahkemece Medeni Kanun’un 644 / 1-2 maddeleri gereği davaya karşı itirazlarını bildirmek ya da taksim davası açarak esas numarasını sunmak üzere süre verilmesi üzerine davalı ...’in süresi içinde elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istenen taşınmaz malların taksimi için ... 1.Sulh Hukuk Mahkemesi’nin 2011/879 ve ... 3.Sulh Hukuk Mahkemesinin 2011 / 872 esas sayılı dosyalarında ortaklığın giderilmesi davaları açması karşısında davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/6590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564098500)
+
 Olayımıza gelince;Her ne kadar İİK. 121. maddesi hükmü gereği davalı borçlu ...nin hissedar olduğu dava konusu ... İlçesi ... mevkii 3008 parselde kayıtlı incir bahçesi vasıflı taşınmazın satılması istenmişse de yargılama sırasında taşınmaz üzerindeki elbirliği mülkiyetinin paylı mülkiyete çevrildiği anlaşılmıştır. Bu haliyle taşınmaz paylı mülkiyet hükümlerine tabi olduğu, borçlu olduğu iddia edilen ...'nin müstakil payı bulunduğu görülmektedir. Bağımsız olarak payın haczi ve satışı mümkün olduğundan mahkemece davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/4263 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569459300)
 
 Dava, 9 adet taşınmazda elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindir.
 
@@ -86,6 +104,8 @@ Dava, 9 adet taşınmazda elbirliği mülkiyetinin paylı mülkiyete çevrilmesi
 Elbirliği mülkiyetinin paylı mülkiyete çevrilmesi davası, çift taraflı (actio dublex) davalardan olup, davanın bu niteliğine göre, yargılama giderine ve vekalet ücretine tarafların payları oranında hükmedilmesi gerekirken, davalıdan alınarak davacılara verilmesine karar verilmesi doğru değil ise de, bu hususta hükmün bozularak, yeniden yargılama yapılmasında, yarar görülmediğinden, hükmün 3. ve 4. fıkrasındaki “davalıdan alınarak davacılara verilmesine” ibaresinin hükümden çıkartılarak, yerine “davalının payı oranında, davalıdan alınarak davacılara verilmesine” ibaresinin eklenerek, 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3/2.madde hükmü gözetilerek HUMK.nun 438.maddesi gereğince hükmün bu düzeltilmiş şekliyle ONANMASINA ve aşağıda yazılı temyiz giderinin temyiz edenden alınmasına 19.03.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2012/3552 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569798800)
 
 Dava, neticeten 35 adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -97,12 +117,16 @@ Olayımıza gelince; dava konusu edilen ve satışına karar verilen ... ada ...
 
 ## Yargıtay 8. HD 2012/2164 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602254200)
+
 Taşınmaz, davalıların ortak miras bırakanı ...’den kaldığına ve kadastro çalışmaları sırasında tüm davalılar adına elbirliği mülkiyet şeklinde tespit edildiğine göre terekenin elbirliği mülkiyet hükümlerine tabi olduğunun kabulü gerekir. Satıcı ... 24.5.2004 tarihli senette; babası olan murisi Osman’dan kalan sınırları senette belirtilen arsasından 1000 m2 yeri alıcılara sattığını bildirdiğinden, senedin nitelik itibariyle TMK.nun 677. maddesi kapsamında kalan miras payının devri niteliğinde bir senet olduğunun kabulü gerekir. Taşınmaz, kadastro öncesi tapusuz olup, mirasçılar arasından bir mirasçının miras payını üçüncü kişiye devretmesinin adi yazılı biçimde yapılması yeterli ve geçerlidir. Ancak, TMK.nun 677/2. fıkrası uyarınca tapulu taşınmazlardaki miras payı devrinin 1.1.2002 tarihinden sonra Noterlikçe resmi şekilde yapılması esastır. Ne var ki, ister adi, ister resmi şekilde miras payının devri sözleşmesi yapılmış olsun, her iki halde de sözleşme alıcı kişiye paylaşmaya katılma yetkisini vermez, sadece paylaşma sonunda mirasçıya özgülenen payın kendisine verilmesini isteme hakkını sağlar.
 Yani TMK.nun 677/son fıkrası uyarınca, miras payını devralan kişi terekeye göre üçüncü şahıs durumunda olduğundan mirasçılar arasındaki elbirliği mülkiyet paylı mülkiyete dönüştürülmedikçe iptal ve tescile karar verilemez. Çünkü elbirliği mülkiyetinde mirasçıların belirlenmiş payları olmayıp, her birinin payı taşınmazın tamamı üzerinde söz konusudur.
 
 Saptanan bu somut ve hukuki olgular karşısında dava konusu 358 ada 73 sayılı parselde söz konusu elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi halinde hukuki sonuç doğurmak üzere davanın kabulüne karar verilmesi gerekirken, elbirliği mülkiyet çözülmeden iptal ve tescile karar verilmesi anılan madde hükmüne aykırıdır. Taşınmaz elbirliği mülkiyet hükümlerine tabi olduğundan, mirasçılardan (davalılardan) bir tanesinin hükmü temyiz etmesinin doğurduğu hukuki sonuçlardan diğer ortaklar da yararlanır. Bu nedenle hükmün sadece bir mirasçı tarafından temyiz edilmesi yeterli olup, diğerlerinin herhangi bir temyiz isteğinde bulunmamaları sonuca etkili görülmemektedir.
 
 ## Yargıtay 6. HD 2012/1748 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/576721300)
 
 Dava, elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindir.
 
@@ -112,25 +136,37 @@ Türk Medeni Kanunu'nun 644.maddesine dayalı elbirliği mülkiyetinin paylı m�
 
 ## Yargıtay 6. HD 2012/1380 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570940300)
+
 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 440.maddesinin III.fıkrasının 2 nolu bendi uyarınca elbirliği mülkiyetinin paylı mülkiyete çevrilmesi davalarına ait hükümlerin onanması veya bozulmasına ilişkin Yargıtay’ca verilen kararlar için karar düzeltme istenemeyeceğinden karar düzeltme istemine ait dilekçenin reddi gerekmiştir.
 
 ## Yargıtay 6. HD 2012/1203 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570947500)
 
 Elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verilirken, paydaşlara ait payların HUMK.nun 388/son maddesi gereğince hüküm fıkrasında ayrı ayrı yazılması gerekir. Hüküm fıkrasında paydaşlara ait paylar ayrı ayrı gösterilmeksizin mirasçılık belgesine atıf yapılarak hüküm kurulması doğru değildir …
 
 ## Yargıtay 6. HD 2011/15930 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060853000)
+
 Türk Medeni Kanunun 644.maddesine dayalı elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi davalarında davalılara gönderilen dava dilekçesi içeren duruşma gününü bildirir davetiyelerde “elbirliği mülkiyetinin devamını haklı kılacak bir itiraz ileri sürülmediği veya belirlenen süre içinde paylaşma davası açılmadığı takdirde istem konusu mal üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verileceğine” dair ihtarın bulunması gerekir. İhtarın içeriğinde itirazları bildirmek üzere duruşma gününe kadar süre verilmiş ise de belirlenen sürede paylaşma davası açılmadığı takdirde istemin kabulüne karar verileceği ibaresi yazılmamıştır. Bu durumda davalılara gönderilen davetiyelere yazılan ihtar MK'nun 644.maddesine uygun olmadığından davalılara gönderilen tebligatlar geçersizdir. Mahkemece davalılara yukarıda belirtilen ihtarı içeren dava dilekçesi içeren duruşma gününü bildirir davetiye tebliğ edilmesi,temyiz dilekçesinde sözü edildiği gibi paydaşlığın giderilmesi davası açılmış ise istemin reddine karar verilmesi gerekirken eksik inceleme ile karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/12698 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060664800)
 
 Dava Türk Medeni Kanunun 644. maddesine dayalı elbirliği şeklindeki mülkiyetin paylı mülkiyete çevrilmesi davasıdır. Dava dilekçesi davalılara bu maddede açıklanan ihtarat yapılmadan tebliğ edildiği için yapılan tebligat geçersizdir. Elbirliği mülkiyetinin devamını haklı kılacak bir itiraz ileri sürülmediği veya belirlenen süre içinde paylaşma davası açılmadığı takdirde istem konusu mal üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verileceğine dair ihtarın bulunduğu tebligatın davalılara tebliğ edilmesi gerekir. Bu nedenle adı geçen davalılara yukarda açıklanan ihtarlı davetiyenin tebliği ve duruşmaya katılan davalılara ise Türk Medeni Kanunun 644. maddesinde açıklanan ihtaratın yapılması ondan sonra işin esasının incelenmesi gerekirken bu hususlar gözardı edilerek yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/10254 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063242100)
+
 Medeni Kanun'un 644. maddesi uyarınca; ancak mirasçılar terekeye dahil malların elbirliği mülkiyetinin paylı mülkiyete çevrilmesini isteyebilirler. İstisnai hallerde mahkemelerden alınacak yetki belgesine dayanarak ilgili kişiler de bu davayı açabilir. Davacı ...'un miras bırakan ile soybağı tespit edilememiştir. Davacı dava dilekçesinde, açtığı tescil davasında yetki belgesi aldığını ve bu belgeye dayanarak dava açtığını bildirmiş ise de yetki belgesini ibraz etmemiştir. Davacının dava dilekçesinde yetki belgesi aldığını iddia ettiği satış vaadine dayalı hükmen tescil davasının da reddedildiği anlaşılmaktadır. Mahkemece öncelikle dava hakkı üzerinde durularak karar verilmesi gerekirken bu yön üzerinde durulmadan kabul kararı verilmesi doğru görülmemiş, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/9188 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058771900)
 
 Dava, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istemine ilişkindir.
 
@@ -140,6 +176,8 @@ Türk Medeni Kanunu’nun 644.maddesine dayalı elbirliği mülkiyetinin paylı 
 
 ## Yargıtay 6. HD 2011/657 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055321300)
+
 Dava, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istemine ilişkindir.
 
 …
@@ -147,6 +185,8 @@ Dava, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istemine il
 Türk Medeni Kanununun 644.maddesine dayalı olarak elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verilirken, hüküm fıkrasında infazda tereddüt yaratmayacak şekilde her paydaşın payının ayrı ayrı gösterilmesi gerekir. Mahkemece mirasçılık belgesine veya dosyadaki her hangi bir belgeye atıfta bulunarak yazılı şekilde hüküm kurulması usul ve yasaya aykırı olduğundan hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/499 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055297500)
 
 Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -157,6 +197,8 @@ Madde hükmünden de açıkça anlaşıldığı üzere elbirliği mülkiyetine k
 
 ## Yargıtay 6. HD 2010/10639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062849000)
+
 Dava, bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
 …
@@ -164,6 +206,8 @@ Dava, bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 Olayımıza gelince; davalılar tarafından temyiz dilekçesine ekli tapu kaydına göre dava konusu edilen ve satışına karar verilen 1038 No’lu parseldeki elbirliği mülkiyetinin paylı mülkiyete çevrildiği görülmektedir. Bu durumda bağımsız olarak payın haczi ve satışı mümkün olduğundan dava konusu 1038 nolu parselin son tapu kaydı getirilerek sonucuna göre karar verilmesi gerekir. Bu nedenle hükmün bozulması gerekir.
 
 ## Yargıtay 6. HD 2010/9943 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061456000)
 
 Dava, elli iki adet taşınmazdaki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istemine ilişkindir.
 
@@ -173,11 +217,15 @@ Elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi davalarının nit
 
 ## Yargıtay 6. HD 2010/4335 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633928500)
+
 Madde hükmünden açıkca anlaşıldığı üzere mahkemece bir süre belirlenerek, mirasçılara gönderilecek çağrıda "..belirlenen süre içinde elbirliği mülkiyetinin devamını haklı kılacak bir itiraz ileri sürülmediği veya paylaşma davası açılmadığı takdirde istem konusu mal üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verileceğinin.." bildirilmesi zorunludur. Mirasçılara çıkartılan davetiyelerde açıklanan hususlar bulunmamaktadır. Mahkemece yukarıda açıklanan hususları içeren davetiye ile mirasçılara çağrıda bulunmak ve sonucuna göre bir karar vermek gerekirken, bu yön gözetilmeden yazılı şekilde karar verilmesi doğru değildir.
 
 Kabule göre de; mahkemece dava konusu taşınmazlar üzerindeki elbirliği mülkiyetinin, paylı mülkiyete dönüştürülmesine karar verilmiş, ancak hüküm fıkrasında mirasçıların payları ayrı ayrı gösterilmeden sadece elbirliği halindeki mülkiyetin tapu kaydındaki malikler arasında paylı mülkiyete çevrilmesine demekle yetinilmiştir. HUMK.nun 388/son maddesi gereğince elbirliği mülkiyeti paylı mülkiyete çevrilirken, hüküm fıkrasında, her paydaşın payının ayrı ayrı gösterilmesi zorunlu olup, mahkemece bu yön gözetilmeden yazılı şekilde hüküm kurulması da doğru değildir.
 
 ## Yargıtay 6. HD 2010/2952 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/626343000)
 
 …
 
@@ -185,6 +233,8 @@ Kabule göre de; mahkemece dava konusu taşınmazlar üzerindeki elbirliği mül
 Mahkemece, mirasçılık belgeleri arasındaki çelişki giderilmeden ilk alınan mirasçılık belgesine atıf yapılmak suretiyle karar verilmesi usul ve yasaya aykırı bulunduğu gibi dava konusu edilen ... parsel sayılı taşınmazda davalı borçluların mirasbırakanı Süleyman Yumak'ın payı bulunmadığından mahkemece bu parsel yönünden de elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2010/1655 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623499700)
 
 Dava, mirasçı olmayan davacı tarafından açılan elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istemine ilişkindir.
 
@@ -194,6 +244,8 @@ Olayımıza gelince; davacı gayrimenkul satış vaadi sözleşmesine dayanarak 
 
 ## Yargıtay 6. HD 2010/1140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613459600)
+
 Dava, üç adet taşınmazdaki elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindir.
 
 …
@@ -202,17 +254,25 @@ Türk Medeni Yasasının 644. maddesi gereğince bu davayı ancak mirasçılar a
 
 ## Yargıtay 6. HD 2009/9176 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16877100)
+
 Uyuşmazlık elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine ilişkindir. İcra İflas Kanunu'nun 121/1.maddesi "... başka nev'i malların satılması lazım gelirse icra müdürü satışın nasıl yapılacağını tetkik merciinden sorar" 2.fıkrası ise " mercii ikametgahları malum olan alakadarları davet ve gelenleri dinledikten sonra açık artırma yaptırabileceği gibi satış için bir memur da tayin edebilir, yahut iktiza eden diğer bir tedbiri alabilir" hükmünü taşımaktadır. Bu açıklama karşısında bu davanın açılabilmesi için İcra Hakimliğince yetki verilmesi gerekirken İcra Müdürlüğü'nden alınan yetki belgesine dayanılarak dava açılması ve karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2007/11076 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79871200)
 
 Muris Kadir’in vasiyetnamesine konu taşınmazlar muris elbirliği mülkiyeti ile maliktir. Elbirliği mülkiyeti paylı mülkiyete dönüştürülmeden verilecek kararın infazı mümkün bulunmamaktadır. Davacılara muris K’in hissesi yönünden elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi için dava açmak üzere önel verilmesi, açılacak davanın sonucunun beklenmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2006/13015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83929100)
+
 Türk Medeni Kanununn 644/2 maddesi "elbirliği mülkiyetinin devamını haklı kılacak bir itiraz ileri sürülmediği veya mirasçılardan biri belirlenen süre içerisinde paylaşma davası açmadığı takdirde istem konusu mal üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verilir." hükmünü içermektedir.Yasal mirasçılardan biri tarafından açılmış ortaklığın giderilmesi davası olmadığı gibi Uşak Sulh Hukuk Mahkemesinin 2000/475 ve 2000/1335 esas sayılı ortaklığın giderilmesi davaları, muris S.'nin bir kısım mirasçılarının alacaklıları (üçüncü kişiler) tarafından açılmıştır. Bu nedenle davacının elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi isteminin kabulü gerekirken yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## İstanbul BAM 12. HD 2020/991 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599309800)
 
 …
 

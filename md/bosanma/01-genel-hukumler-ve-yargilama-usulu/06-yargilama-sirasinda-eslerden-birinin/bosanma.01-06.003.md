@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2018/8822 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434284300)
+
 Türk Medeni Kanunu'nun 166/1-2. maddesi uyarınca boşanma kararı verilebilmesi için evlilik birliğinin ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir. Mahkemece davalı-karşı davacı kadına kusur olarak yüklenen hakaret vakıasının ispat edilemediği, ispat edilemeyen vakıanın kusur olarak yüklenemeyeceği açıktır. Gerçekleşen bu olay karşısında davacı-karşı davalı erkeğin boşanmaya sebebiyet veren vakıalarda tamamen kusurlu olduğu anlaşılmaktadır. Bu durumda erkeğin boşanma davasının reddi gerekirken, kânun hükümlerinin yorumunda yanılgıya düşülerek boşanmaya karar verilmesi usul ve kanuna aykırıdır. Ne var ki davalı-karşı davacı kadın tarafından açılan boşanma davasının kabulüne karar verilmiş ve hüküm temyiz edilmeksizin kesinleştiğinden, davacı-karşı davalı erkeğin boşanma davası konusuz kalmıştır. Bu durumda erkeğin boşanma davasının esası hakkında bir karar verilemeyecektir. Ancak, davanın konusuz kalması sebebiyle esası hakkında bir karar verilmesine gerek bulunmayan hallerde hakim, davanın açıldığı tarihteki, tarafların haklılık durumuna göre yargılama…
 
 ## Yargıtay 2. HD 2018/8443 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430164600)
 
 Tüm dosya kapsamı ve toplanan delillerden; davalı-karşı davacı kadının kendisi ve ortak çocuk ... yönünden 03.09.2013 tarihinde Türk Medeni kanununun 197. maddesine dayalı bağımsız tedbir nafakası davası açtığı; bu davasında ayrı yaşamada haklı bulunarak davanın kısmen kabul edildiği ve bu kararın da onanarak kesinleştiği görülmektedir. Davacı- karşı davalı erkek bu tedbir nafakası davasında cevap olarak ileri sürdüğü ispatlayamadığı vakıaları, boşanma sebebi yaparak boşanma davası açmıştır. Önceki nafaka davasının açılmasından daha önceki bir tarihte başlamak üzere; tarafların ayrı yaşamaya başladığı, nafaka davasının açılmasından sonra da yeni bir olayın meydana gelmediği; taraflar arasında uyuşmazlık konusu olmadığı gibi, aksini kanıtlar nitelikte bir delil de bulunmamaktadır.
 Kadın açtığı nafaka davasında, ayrı yaşamada haklı bulunarak davasının kısmen kabul edilip kesinleştiğine ve daha sonra da yeni bir olay meydana gelmediğine göre; eldeki davada davalı-karşı davacıya bir kusur yüklenmesi doğru olmadığı gibi her iki dosya kapsamı ve erkeğin temyize gelmeyerek üzerine atılı kusurların da kesinleştiği de dikkate alındığında, mahkemece erkeğe yüklenen kusurlu davranışlar yanında erkeğin çocuklarıyla ilgilenmediği, kadının sürekli evden gitmesini istediği, bu haliyle boşanmaya sebebiyet veren olaylarda tam kusurlu olduğu anlaşılmaktadır. O halde, erkeğin davası yönünden Türk Medeni Kanunu'nun 166/1 - 2. maddesindeki boşanma koşulları oluşmamıştır. Açıklanan nedenlerle erkeğin boşanma davasının reddine karar verilmesi gerekirken kabulü doğru olmamış ise de, ne var ki davalı-karşı davacının boşanma davasında verilen boşanma hükmü temyizin kapsamı dışında bırakılmak suretiyle boşanma hükmü kesinleştiğinden, erkeğin davasının konusuz hale geldiği de görülmektedir. Bu durumda erkeğin boşanma davasının esası hakkında bir karar verilemeyecektir.
@@ -32,25 +36,37 @@ Ancak, davanın konusuz kalması sebebiyle esası hakkında bir karar verilmesin
 
 ## Yargıtay 2. HD 2018/7629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427831000)
+
 Boşanma hükmü kesinleşmeden davacı asil 08.06.2016 tarihinde ölmüştür. Evlilik birliği ölümle sona ermiştir. Davacı mirasçıları Türk Medeni Kanununun 181/2 maddesi gereğince davaya devam edeceklerini de beyan etmişlerdir. Konusuz kalan boşanma davası hakkında karar verilmesine yer olmadığına şeklinde hüküm tesis edilmek ve kusur tespiti bakımından davaya devam edilerek, sağ eşin kusurunun bulunup bulunmadığı hususunda bir karar verilmek üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2018/5764 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/420830600)
 
 Boşanma davası 26.9.2014 tarihinde açılmış, davacı 14.10.2014 tarihinde ölmüştür. Bu durumda, evlilik davacının ölümüyle sona ermiştir. Davaya, ölen davacının mirasçısı ... davalının kusurunun tespiti yönünden devam etmiştir. Devam edilen dava boşanma davası değil, boşanmada davalı eşin kusurlu olduğunun saptanmasına yönelik tespit davasıdır. (TMK. m. 181/2) O halde, mahkemece yapılacak iş evlilik birliği davacı erkeğin ölümü ile sona erdiğinden, konusuz kalan boşanma davası hakkında karar verilmesine yer olmadığına karar vermek ve davalı kadının boşanmayı gerektirecek derecede kusurlu olup olmadığının tespiti yönünde karar vermekten ibarettir. Bu husus gözetilmeden yazılı şekilde karar verilmesi doğru olmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/4880 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/414469300)
+
 Türk Medeni Kanununun 166/1-2. maddesi uyarınca boşanma kararı verilebilmesi için evlilik birliğinin ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir. Davacı-karşı davalı erkeğin gerçekleşen ve mahkemece kabul edilen kusurlu davranışları yanında, kadının da erkeğin kardeşine hakaret ettiği anlaşılmaktadır. O halde, mahkemece erkeğin de davasının kabulü gerekirken, reddine karar verilmesi usul ve kanuna aykırı ise de kadının boşanma davası temyizin kapsamı dışında bırakılmak suretiyle kesinleştiğinden, erkeğin boşanma talebinin konusuz hale geldiği de görülmektedir. Bu durumda erkeğin boşanma davasının esası hakkında bir karar verilemeyecektir. Ancak, davanın konusuz kalması sebebiyle esası hakkında bir karar verilmesine gerek bulunmayan hallerde hakim, davanın açıldığı tarihteki, tarafların haklılık durumuna göre yargılama giderleri ile vekalet ücreti konusunda haklılık durumu nazara alınarak karar verilmek üzere hükmün bozulması gerekmiştir (HMK m.311/1).
 
 ## Yargıtay 2. HD 2018/4313 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/413557400)
 
 Toplanan delillerden mahkemenin de kabulünde olduğu üzere; tarafların 01.10.2012 tarihinde kesinleşen kararla boşandıkları anlaşılmaktadır. Evlilik boşanma ile sona erdiğine göre dava konusu taşınmaz aile konutu olma niteliğini kaybetmiş, dava konusuz kalmıştır. Davanın konusuz kalması sebebiyle esası hakkında "karar verilmesine yer olmadığına" karar verilmesi halinde, yargılama giderleri ile bunun kapsamına dahil olan vekalet ücreti (HMK m. 323/l-ğ) hakkında, davanın açıldığı tarihteki tarafların haklılık durumu nazara alınarak hüküm tesis edilmelidir (HMK m.331/1). O halde; konusuz kalan dava hakkında "karar verilmesine yer olmadığına" kararı ile davanın açıldığı tarih itibariyle tarafların haklılık durumları tespit edilerek yargılama giderleri ve vekalet ücreti konusunda bir karar vermek gerekirken, yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2018/3596 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/418283900)
+
 Kural olarak bir davada asıl istemin konusuz hale gelmesi durumunda dava hakkında karar verilmesine yer olmadığına hükmedilmelidir. Ayrıca asıl istemin fer'i (yan) niteliğindeki diğer istemler hakkında yargılamaya devam edilerek hangi tarafın haksız olduğu tespit edilerek yargılama gideri ve vekalet ücretine hükmolunmak gerekir.
 
 ## Yargıtay 2. HD 2018/3209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/417817900)
 
 Boşanma davasının devamı sırasında davacı erkek 30.12.2014 tarihinde vefat ettiğine göre, evlilik birliği ölümle sona ermiş, boşanma davasının konusu kalmamıştır. Konusuz kalan boşanma talebi hakkında karar verilmesine yer olmadığına karar verilmesi gerekirken, davanın reddine şeklinde hüküm kurulması doğru bulunmamıştır. Davanın devamı sırasında ölen davacının mirasçıları tarafından verilen temyiz dilekçesi davalı kadının kusurunun belirlenmesi bakımından davaya devam iradesini göstermektedir. Bu durumda Türk Medeni Kanununun 181/2. maddesi gereğince davalı kadının kusurlu olup olmadığının tespiti ve bu hususta bir karar verilmek üzere hükmün bozulması gerekmiştir. Mahkemece yapılması gereken iş, evlilik birliğinin davacı erkeğin ölüm tarihinde sona erdiğinden boşanma davasının konusuz kalması nedeniyle karar verilmesine yer olmadığına karar verilerek davalının boşanmaya sebep olan olaylarda boşanmaya sebebiyet verecek şekilde kusurlu olup olmadığı yönünde tespit kararı vermekten ibarettir. Bu husus gözetilmeden, yazılı şekilde hüküm kurulması doğru olmayıp bozmayı gerektirmiştir.
 

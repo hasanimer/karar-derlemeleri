@@ -20,11 +20,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2024/195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044864600)
+
 Kira alacağı talebi ile ecrimisil talebi davanın sebebi yönünden ayrı mahiyettedirler. Kira alacağı sözleşmeye göre belirlenirken ecrimisil rayice göre hesaplanacağından verilen kararların birbirlerine karşı kesin hüküm dahi teşkil edemeyecekleri düşünüldüğünde aynı dava olduklarından bahsedilemez. Bu durumda davacı vekili kira sözleşmesine dayanmadığından anılan bu isteğin 4721 sayılı Kanun hükümlerinden kaynaklandığı ve uyuşmazlığın çözümünün 6100 sayılı Kanun'un 2/1 inci maddesi uyarınca asliye hukuk mahkemesinin görevinde bulunduğunun kabulü gerekir.
 
 Hâl böyle olunca, davanın asliye hukuk mahkemesinde görülerek taraflar arasında yapılan kira sözleşmesinin devam edip etmediğinin tartışılması, hukuken geçerli bir kira ilişkisinin saptanması hâlinde işgal ve kötüniyetli bir kullanım durumu olmayacağından ecrimisil talebine ilişkin eldeki davanın reddedilmesi, aksi hâlde ise ecrimisil isteği yönünden bir karar verilmesi gerekirken, taraflar arasında kira ilişkisinin bulunduğu gerekçesiyle görevli mahkemenin sulh hukuk mahkemesi olduğundan bahisle görevsizlik kararı verilmesi doğru görülmemiştir.
 
 ## Yargıtay HGK 2015/1164 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113502200)
 
 Dava, kat mülkiyeti kurulu binanın ortak alanına davalıların yaptığı müdahelenin men'i, eski hale getirilmesi ve ecrimisil istemine ilişkindir.
 
@@ -34,6 +38,8 @@ Az yukarda belirtildiği üzere haksız işgal tazminatı(ecrimisil) haksız eyl
 
 ## Yargıtay 8. HD 2020/4253 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598302700)
+
 Dava, mülkiyet hakkına dayalı ecrimisil isteğine ilişkindir.
 
 …
@@ -41,6 +47,8 @@ Dava, mülkiyet hakkına dayalı ecrimisil isteğine ilişkindir.
 Yukarıda değinilen hususlar çerçevesinde somut olaya bakıldığında; eldeki davada istenen ecrimisilin, 4721 sayılı Türk Medeni Kanunu'nun (TMK) 683. ve 995. maddeleri ve 08.03.1950 tarihli ve 22/4 sayılı YİBK'nda kabul edildiği gibi haksız fiil benzeri olupüstün bir hakka dayanmadan başkasının taşınmazını işgal eden, böylece haksız kazanç sağlayan tarafın iade etmekle yükümlü bulunduğu bir tazminat türü olduğu; her ne kadar taraflar tacir ve çekişme konusu taşınmaz üzerinde ticari faaliyet yapıyor ya da yapacak olsalar dahi, uyuşmazlığın tarafların ticari işletmesiyle ilgisinin bulunmadığı, esasen dava dilekçesinde de bu yönde bir iddiaya yer verilmediği, davanın bu özelliği itibariyle mutlak ve nispi ticari dava olarak nitelendirilemeyeceği ve TTK hükümlerinin veya özel kanun hükümlerinin uygulanmasını gerektirir ticari bir uyuşmazlıktan söz edilemeyeceği, uyuşmazlığın çözümünün genel mahkemelerin görev kapsamında kaldığı sonucuna ulaşılmaktadır. Bu durumda esas görevli mahkemenin Sulh Hukuk Mahkemesi olmayıp Asliye Hukuk Mahkemesi olduğu anlaşılmaktadır.
 
 ## Yargıtay 8. HD 2020/3670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/595665500)
 
 Dava, mülkiyet hakkına dayanan men’i müdahale ve ecrimisil isteğine ilişkindir.
 
@@ -50,6 +58,8 @@ Yukarıda ayrıntılı biçimde yapılan açıklamalar çervesinde somut olay de
 
 ## Yargıtay 14. HD 2017/184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/322903300)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -58,13 +68,19 @@ Dava tarihi itibariyle yürürlükte bulunan 1086 sayılı HUMK.nun Değişik 8/
 
 ## Yargıtay 14. HD 2016/8695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/275340800)
+
 6100 sayılı HMK'nın 2/1 maddesi gereğince dava konusunun değer ve miktarına bakılmaksızın malvarlığı haklarına ilişkin davalarla, şahıs varlığına ilişkin davalarda görevli mahkeme aksine bir düzenleme bulunmadıkça Asliye Hukuk Mahkemesidir. Davanın açılış tarihi itibariyle ecrimisil istemine ilişkin davanın HMK'nın 167. maddesi gereğince tefrik edilmesi ve Asliye Hukuk Mahkemesi görevli olduğundan görevsizlik kararı verilmesi gerekirken karar verilmesine yer olmadığı yönünde yazılı şekilde hüküm kurulması doğru görülmemiş, bu sebeble kararın bozulması gerekmiştir.
 
 ## Yargıtay 18. HD 2015/3140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/189061600)
+
 Dosyaya getirtilen tapu kaydından dava konusu anayapının tek parsel üzerinde ve kat irtifakı kurulu olduğu anlaşılmaktadır. 634 sayılı Kat Mülkiyeti Yasası'nın Ek 1. maddesinde, bu Kanunun uygulanmasından doğacak her türlü anlaşmazlığın sulh hukuk mahkemesinde çözümleneceği hükme bağlanmıştır. Ecrimisil davasının Kat Mülkiyeti Yasası'nın uygulanmasından kaynaklanmadığı, anılan Yasa maddesi hükmünün bu istem yönünden uygulama olanağı bulunmadığı, uyuşmazlığın değeri dikkate alınarak genel hükümlere göre sonuçlandırılması gerektiğinden mahkemece kat mülkiyetinden kaynaklanan müdahalenin men'i istemi konusunda davanın tefrik edilip görevsizlik kararı verilerek dosyasının görevli ve yetkili sulh hukuk mahkemesine gönderilmesi gerekirken, müdahalenin men'i ile ecrimisil davalarının birlikte görülmüş olması doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2014/911 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97130400)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -74,6 +90,8 @@ Olayımızda: taraflar arasında düzenlenen 02.03.2010 başlangıç ve 31.12.20
 
 ## Yargıtay 8. HD 2012/9480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636992100)
+
 Toplanan deliller ve tüm dosya kapsamından, nizalı taşınmazın bulunduğu köyde kadastro çalışmalarının yapılmadığı sabittir. TMK.nun 981 ve devamı maddelerinde, uyuşmazlık konusu taşınmaz üzerinde henüz mülkiyet hakkı doğmamış zilyetliğin bulunması veya taşınmazın hukuki niteliği itibariyle zilyetlikle kazanıma elverişli olmadığı durumlarda, zilyet olunana müdahale edilmesi halinde zilyetliğin korunmasının istenebileceği düzenlenmiş bulunmaktadır. TMK.nun 683 ve devamı maddelerinde ise, tescili talep etme hakkı doğan zilyedin müdahale edene karşı elatmanın önlenilmesi davası açabileceği hükme bağlanmıştır. Buna göre sırf zilyetliğin korunması talebi ile TMK.nun 981 ve devamı maddelerine dayalı olarak açılan davalarda, dava konusu taşınmazın değerine bakılmaksızın HUMK.nun 8/II-3. bendine göre Sulh Mahkemeleri görevli bulunduğu halde, TMK.nun 683. maddesine dayalı olarak açılan elatmanın önlenilmesi davalarında görevli mahkeme dava konusu taşınmazın değerine göre belirlenir.
 Somut olayda davacı vekili, dava dilekçesinin ekinde bulunan yukarıda belirtilen zilyetlik devir sözleşmesi ve adi yazılı sözleşmelere dayanarak taşınmazın mülkiyetinin vekil edeni tarafından iktisap edildiği halde, davalıların nizalı taşınmaza müdahale ettikleri iddiasıyla elatmanın önlenmesine ve ecrimisil bedeline hükmedilmesine karar verilmesini istemiştir. Dava dilekçesindeki bu açıklamalar karşısında dava, TMK.nun 683. maddesine dayalı aynı haktan kaynaklanan elatmanın önlenilmesi ve ecrimisil isteğine ilişkin bulunmaktadır. Başka bir anlatımla; dava, TMK.nun 981 ve devamı maddelerinde düzenlenen zilyetliğin korunması davası olarak nitelindirilemez. Bu kapsamda, hüküm Sulh Hukuk Mahkemesince verilmiştir. Sulh Hukuk Mahkemesinin bakacağı dava ve işler HMK.nun 4. maddesinde gösterilmiştir. Anılan maddenin 1.bendi hükmüne göre; dava konusunun değer ve miktarına bakılmaksızın mal varlığı haklarına ilişkin davalarla, şahıs varlığına ilişkin davalarda görevli mahkeme, aksine bir düzenleme bulunmadıkça Asliye Hukuk Mahkemesidir.
 Yine karar tarihinde yürürlükte bulunan ve 6100 sayılı HMK'nın geçici 1. maddesi ile geçerliliğini koruyan 1086 sayılı HUMK.nun 8. maddesine göre miktar ve değeri 7.230 TL'yi geçmeyen davalara Sulh Hukuk Mahkemesinde bakılır. HUMK.nun 1.maddesinde de görev, dava olunan şeyin değerine göre belirtilmiş ise, görevli mahkemenin tespitinde, davanın açıldığı gündeki değerin esas olduğu açıklanmıştır. Görevle ilgili düzenlemeler kamu düzenine ilişkin olup taraflar ileri sürmese dahi yargılamanın her aşamasında resen gözetilir. Görevle ilgili hususlarda kazanılmış hak söz konusu olmaz. Davacı, dava dilekçesinde dava değeri olarak 8.000 TL bildirmiş ve 1.000 TL ecrimisil talebinde bulunmuştur. 03.12.2010 tarihinde keşifte dinlenen ziraatçi bilirkişi ise dava konusu taşınmazın 9.600 TL değerinde olduğunu açıklamıştır. 13.04.2011 tarihli ek raporunda ise, nizalı taşınmazın altı aylık ecrimisil bedelinin 57.60 TL olduğunu bildirmiştir. Öncelikle, davada elatmanın önlenmesi isteği ile birlikte ecrimisil de talep edildiğinden, talepler bakımından objektif dava birleşmesinin olduğu kabul edilmektedir.
@@ -81,13 +99,19 @@ Bu halde, dava değer ve miktarın Sulh Hukuk Mahkemelerinin görev sınırını
 
 ## Yargıtay 3. HD 2011/10902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17141300)
+
 Bu hukuki durum karşısında uyuşmazlığın genel hükümler dairesinde çözümlenmesinin mümkün olmadığı, eskiden olduğu gibi ecrimisil istenebilme-si için artık Hazine'nin mahkemeye başvurup karar alması gerekmediği, aksine kendisinin bir idari işlemle ecrimisili tahakkuk ettirdiği, buna karşı çıkmak isteyen mükellefin diğer idari işlemlerde ve vergi tahakkuklarında olduğu gibi idari yargıya başvurması gerektiği ve son olarak da, devletin mükellefe tebliğ ettiği alacağına dair ihbarnamenin iptalinin hiçbir zaman adliye mahkemesinin görev alanı içinde bulunmadığı hususları dikkate alınarak uyuşmazlığın çözüm yerinin idari yargı mercii olduğu sonucuna varılmalıdır.
 
 ## Yargıtay 14. HD 2010/12264 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770842300)
+
 Mahallinde yapılan keşif sonucu alınan fen ve ziraat bilirkişilerinin 09.02.2010 tarihli raporunda, dava konusu taşınmazda müdahalenin men’i istenilen 453 m2’lik kısmının değerinin 5.436,00 TL olduğu tespit edilmiştir. Kal’i istenen yapı kısmının değeri hariç müdahalenin men’i istenen taşınmaz kısmının değeri ile talep edilen ecrimisil değerinin toplamı 11.436,00 TL olup bu miktar dahi dava tarihi itibariyle sulh hukuk mahkemelerinin görev sınırını belirleyen HUMK.nun 8. maddesindeki 7.080,00 TL’nin çok üstünde olduğundan davayı görmeye sulh hukuk mahkemesi değil asliye hukuk mahkemesi görevlidir. Mahkemece re’sen gözetilmesi zorunlu ve kamu düzeninden olan görev husus gözden kaçırılarak, davaya bakmak asliye hukuk mahkemesinin görev alanı içinde olduğu ve bu nedenle görevsizlik kararı verilmesi gerektiği düşünülmeden yargılamaya devamla esas hakkında hüküm kurulması doğru görülmediğinden hükmün bozulması gerekmiştir.
 
 ## Yargıtay 17. HD 2010/9070 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/799997300)
 
 Dava, el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -97,6 +121,8 @@ Sulh Hukuk Mahkemesi de; davanın el atmanın önlenmesi ve ecrimisil talepli ol
 
 ## Yargıtay 5. HD 2010/8273 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16957800)
+
 Dava, kamulaştırmasız elatılan taşınmaza yönelik elatmanın önlenmesi, kal, eski hale getirme ve ecrimisil istemine ilişkindir.
 
 …
@@ -105,9 +131,13 @@ Kamulaştırmasız elkoyma nedeniyle müdahalenin önlenmesi ve ecrimisil favas�
 
 ## Yargıtay 14. HD 2009/13329 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848133200)
+
 HUMK.nun 8. maddesine göre davanın açıldığı tarihte sulh hukuk mahkemeleri miktar ve değeri 6.330.00 YTL.yi geçmeyen davaları görmekle görevlidir. Davada, 21.10.2008 tarihinde keşfen yapılan inceleme sonucu harita mühendisi ve inşaat mühendisi bilirkişilerin 04.11.2008 tarihli müşterek keşif raporunda dava konusu 3 sayılı parsel üzerinde yer alan keşif krokisinde "A" harfli davalı ...'a ait gecekondu tarzında olan evin bina değeri 19.698 YTL. olarak belirlenmiştir. Medeni Kanununun 684 ve 718. maddeleri gereğince bina üzerinde bulunduğu taşınmazın tamamlayıcı parçası (mütemmim cüz'ü) olmakla, taşınmazın mülkiyetine tabi olup, mahkemenin görevi, bina değeri, elatmanın önlenmesi istenen taşınmaz kesiminin zemin değeri ve ecrimisil değeri toplamı esas alınarak belirlenir. Bu durumda, dava değerinin HUMK.nun 8. maddesi gereğince davanın açıldığı tarihte sulh hukuk mahkemesinin görevini aşacak bir değerde olduğu açık olmasına rağmen, mahkemece asliye hukuk mahkemesinin görevli olduğu kabul edilerek görevsizlik kararı verilmesi gerekirken işin esası hakkında karar verilmesi doğru değildir.
 
 ## Yargıtay 14. HD 2007/3809 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850508400)
 
 Dava, tapulu taşınmaza elatmanın önlenmesi ve ecrimisil istemine ilişkin olup, bu tür davalarda mahkemenin görevi dava konusunun dava tarihindeki değerine göre belirlenir.
 
@@ -117,9 +147,13 @@ Hal böyle olunca, mahkemece taşınmazların dava tarihindeki değeri tesbit ed
 
 ## Samsun BAM 2. HD 2024/1699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087135600)
+
 Samsun Asliye Ticaret Mahkemesi " Somut olayda; taşınmazda hisse sahibi olan davacının tarafı olmadığı kira sözleşmesinin geçersiz olduğundan bahisle taşınmaz üzerindeki, benzin istasyonunun davalı tarafından kullanılması nedeniyle davacının payına karşılık gelen ecrimisil alacağı için dava açıldığı, tarafların tacir olduğu, ancak davanın tarafların ticari işletmeleri ile alakalı olmadığı, HMK’nın 2. Maddesi uyarınca mal varlığına ilişkin davalarda görevli mahkemenin Asliye Hukuk Mahkemesi olduğu, eldeki davada istenen ecrimisilin, 4721 sayılı Türk Medeni Kanunu'nun(TMK) 683. vd. maddelerine dayandırıldığı; her ne kadar taraflar tacir olsalar dahi, uyuşmazlığın tarafların ticari işletmesiyle ilgisinin bulunmadığı, esasen dava dilekçesinde de bu yönde bir iddiaya yer verilmediği, davanın bu özelliği itibariyle mutlak ve nispi ticari dava olarak nitelendirilemeyeceği ve TTK hükümlerinin veya özel kanun hükümlerinin uygulanmasını gerektirir ticari bir uyuşmazlıktan söz edilemeyeceği, uyuşmazlığın çözümünün genel mahkemelerin görev kapsamında kaldığı " gerekçesiyle karşı görevsizlik verilmiştir.
 
 ## İstanbul BAM 37. HD 2020/825 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/582125600)
 
 K A R A R Esas dava, haksız işgal nedeniyle ecrimisil ve el atmanın önlenmesi, birleşen dava ise, ecrimisil talebine konu taşınmaz nedeniyle sebepsiz zenginleşmenin gerçekleştiği iddiasıyla açılan tazminat davasıdır. İstanbul 13. Asliye Hukuk Mahkemesince, "... Uyuşmazlığın, kredi sözleşmelerinden doğan borçlarının tahsil ve tasfiye edilmesi amacıyla davalı ve davacı banka arasında akdedilen 29.04.2015 tarihli protokolden kaynaklandığı, davacı ve birleşen dosya davalısı banka olup Türk Ticaret Kanunu hükümlerine tabi olduğundan dava ve birleşen davada görevli mahkeme Asliye Ticaret Mahkemesi..." olduğu gerekçesiyle görevsizlik kararı verilmiştir. İstanbul 1.
 Asliye Ticaret Mahkemesince, "... esas davada, ecrimisil tazminatının dayanağının TMK 683.maddesi ve devamı maddeleri olduğu, birleşen davanın da TBK'da düzenlenen sebepsiz zenginleşme hükümlerine dayalı olarak açıldığı, esas ve birleşen davanın konusu olan sebepsiz zenginleşme ve ecrimisil tazminatının TTK'da düzenlenmediği, buna göre esas ve birleşen davaların mutlak ticari dava olarak kabul edilemeyeceği, yukarıda açıklandığı üzere nisbi ticari dava olarak da kabul edilmesinin mümkün olmadığı, zira bir davanın nisbi ticari dava olarak kabul edilebilmesi için tarafların tacir olması ve ihtilafın ticari işletmeleriyle ilgili olması gerektiği, bu iki koşulun aynı anda gerçekleşmesinin zorunlu olduğu, huzurdaki bu davalarda bu koşulların gerçekleşmediği, nitekim davacı tacir olsa da , davalının tacir olduğuna ilişkin herhangi bir delil bulunmadığı gibi bir an için her iki tarafın tacir olduğu kabul edildiğinde dahi uyuşmazlığın her iki tarafın ticari işletmeleriyle ilgisinin bulunmadığı, sadece davacı banka bakımından ticari işletmesiyle ilgili olduğunun kabulü gerektiği, esas davada davalı-birleşen davada davacı yönünden, bu koşulun oluştuğundan söz edilemeyeceği, ecrimisil
@@ -127,6 +161,8 @@ talebine ilişkin esas davada ve sebepsiz zenginleşme ilişkin açılan birleş
 Dosya kapsamından davalı ve birleşen dava da gerçek kişi davacının tacir sıfatı bulunmadığı, davanın tarafların ticari işletmelerine ilişkin bulunmadığı anlaşılmakla uyuşmazlığın genel hükümler uyarınca asliye hukuk mahkemesinde çözümlenmesi gerekmektedir.
 
 ## İstanbul BAM 1. HD 2019/1597 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/544352300)
 
 Buna göre; her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ile maddenin devamı fıkralarında belirtilen davalar ticari dava olarak nitelendirilmiştir. Yine aynı yasanın 5/3.maddesinde “Asliye ticaret mahkemesi ile asliye hukuk mahkemesi ve diğer hukuk mahkemeleri arasındaki ilişki görev ilişkisi olup, bu durumda göreve ilişkin usul hükümleri uygulanır” hükmüne yer verilmiştir. Anılan yasal düzenlemeler uyarınca Asliye Ticaret Mahkemelerinin özel mahkeme niteliğinde olduğu, bu niteliği gereği görev alanının 6102 sayılı Türk Ticaret Kanunu hükümlerine göre belirleneceği ve genel mahkemeler ile arasındaki ilişkinin önceki kanunun aksine görev ilişkisi olduğu açıktır. Asliye Ticaret Mahkemelerinin çekişmeli yargıdaki görev alanının, TTK’da ve diğer özel kanunlarda ticari dava olduğu belirtilen davalarla sınırlı olduğu kuşkusuzdur.Öte yandan, 6102 sayılı Türk Ticaret Kanunun 6335 sayılı Yasa ile değişik 4. maddesinde ticari davaların; mutlak ticari davalar ve nispi ticari davalar olarak iki gruba ayrıldığı anlaşılmaktadır.
 Mutlak ticari davalar, tarafların sıfatına veya bir ticari işletme ile ilgili olup olmamasına bakılmaksızın kanun gereği ticari sayılan davalar olup TTK’nun 4/1. maddesinin b, c, d, e, f fıkralarında ve özel kanunlarda düzenlenmiştir. Nispi ticari davalar ise; tarafların tacir sıfatına haiz olduğu ve her iki tarafın da ticari işletmesiyle ilgili uyuşmazlıklardan doğan davalardır. Bir başka ifade ile, bu davalar ya bir ticari işletmeyi ilgilendirmeli ya da iki taraf için de ticari sayılan hususlardan doğmaları halinde ticari dava olarak nitelendirilebilirler. Gerek mutlak ve gerekse nispi ticari davaların, Asliye Ticaret Mahkemelerinde görüleceği kuşkusuzdur.

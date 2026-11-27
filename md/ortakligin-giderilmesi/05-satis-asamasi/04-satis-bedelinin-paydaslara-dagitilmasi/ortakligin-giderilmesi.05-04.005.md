@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2011/9190 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058778200)
+
 Dava bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -29,6 +31,8 @@ Dava bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 Ancak taşınmazın paydaşı ...’un ölü olduğu ve mirasçılık belgesinin de dosya arasında bulunduğunun anlaşılmasına göre satış bedelinin tapu kaydındaki ve mirasçılık belgesindeki payları oranında dağıtılmasına karar verilmesi gerekirken satış parasının tapudaki payları oranında dağıtılmasına, karar verilmesi doğru görülmemiş ise de bu yüzden hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden hüküm fıkrasının 5 nolu bendindeki “tapudaki payları oranında taraflara dağıtılmasına” ibaresinin çıkartılarak yerine “tapu kaydındaki ve mirasçılık belgesindeki payları oranında taraflara dağıtılmasına” ibaresi eklenerek HUMK.nun 438.maddesi gereğince hükmün bu düzeltilmiş şekliyle ONANMASINA ve taşınmaz malın satış bedelinden payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin alınan 18.40.-TL’nın mahsubu ile bakiyesinin temyiz edenden alınmasına, 19.9.2011 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2011/8507 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063506200)
 
 Dava, bir adet taşınmazda ortaklığın giderilmesine ilişkindir.
 
@@ -40,6 +44,8 @@ Olayımıza gelince; Dava konusu edilen ve satışına karar verilen 14 parsel s
 
 ## Yargıtay 6. HD 2011/8482 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063438700)
+
 Dava, 75 parsel No’lu taşınmazın paydaşlığının giderilmesine ilişkindir.
 
 …
@@ -50,15 +56,21 @@ Olayımıza gelince Mahkemece dava konusu edilen 75 parsel No’lu taşınmaza y
 
 ## Yargıtay 6. HD 2011/8480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063422600)
+
 Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil de üçüncü şahsa ait olduğunun anlaşılması halinde bu kimseyi muhdesat sahibi olarak davaya dahil etme ve ona satış bedelinden pay vermek mümkün değildir.
 
 Olayımıza gelince; mahkemece her ne kadar 01.05.2006 tarihli bilirkişi raporuna atıf yapılmak suretiyle satış bedelinin dağıtılmasına karar verilmiş ise de, esasen bu raporda muhtesatların oranları dikkate alınmamış olmakla dava konusu taşınmazlar üzerinde daha sonra yapılan keşif sonucunda muhdesatların oranları dikkate alınmak suretiyle 10.10.2008 tarihli zirai bilirkişi raporu düzenlenmiş olup, bu raporda belirtilen oranlar dikkate alınmak suretiyle satış bedelinin dağıtılmasına karar verilmesi gerekirken bu husus üzerinde durulmadan bilirkişi raporuna atıfta bulunmak suretiyle karar verilemeyeceği de gözetilmeksizin yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/7775 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063541100)
+
 Ancak;Dosya içerisine getirtilen tapu kaydından paydaşlardan...’in payını 07/12/2010 tarihinde davacıya sattığı halde bilirkişi raporunda bu durum gözetilmeden paydaş ...’e de satış bedelinden pay verilmesi ve mahkemenin de hükmün 4. Bendinde taşınmazın satış bedelinin 20/12/2010 havale tarihli bilirkişi raporundaki pay ve paydaş durum ve oranına göre bölüştürülmesine karar verilmesi hatalı ise de bu yüzden hükmün bozularak yeniden yargılama yapılmasında fayda görülmediğinden, hükmün satış bedelinin dağıtılmasına ilişkin 4 nolu bendinin hüküm fıkrasından çıkarılarak yerine “satış bedelinin paydaşlara tapudaki payları oranında dağıtılmasına” ibaresinin eklenmesine ve HUMK.nun 438/son maddesi gereğince hükmün bu düzeltilmiş şekliyle ONANMASINA ve taşınmaz malın satış bedelinden payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin alınan 18.40.-TL’nın mahsubu ile bakiyesinin temyiz edenden alınmasına, 11.7.2011 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2011/7343 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059199800)
 
 Dava, 5 adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
@@ -67,6 +79,8 @@ Dava, 5 adet taşınmazın ortaklığının giderilmesine ilişkindir.
 Ancak dava konusu edilen ve satışına karar verilen parsellerin satış bedelinin paydaşlara mirasçılık belgesindeki payları oranında dağıtılması ile yetinilmesi gerekirken infazda tereddüt yaratacak şekilde borçlu ortak davalı ...'ın hissesine düşen bedeli ... İcra Müdürlüğünün 2008/3175 sayılı takip dosyasına gönderilmesine karar verilmesi doğru değilse de bu yanlışlığın düzeltilmesi için hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden hükmün 3 maddesinde yazılı” satış bedelinin muris ...'ın mahkememizin 1997/93 sayılı kararıyla hissedar ... ... mahkememizin 2010/734 sayılı kararıyla belirlenen miras payları oranında davalılara paylaştırılması ile, davalı borçlu ...'a muris ...'dan isabet edecek olan hisse karşılığındaki bedelin ... İcra Müdürlüğünün 2008/3175 sayılı takip dosyasına gönderilmesine” ibaresinin çıkartılarak yerine “satış bedelinin muris ...'ın mahkememizin 1997/93 sayılı kararıyla hissedar ... ...
 
 ## Yargıtay 6. HD 2011/6945 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057917700)
 
 Dava iki adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -78,6 +92,8 @@ Ancak; hükmün 1.maddesinin (b) bendinde Satışına karar verilen 50 parselin 
 
 ## Yargıtay 6. HD 2011/6828 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057795400)
+
 Dava, üç adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -86,6 +102,8 @@ Ancak 492 Sayılı Harçlar Yasasının mükerrer 138.maddesinin sonuna eklenen 
 edenden alınmasına, 21.06.2011 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2011/5747 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17119200)
 
 Dava, bir adet taşınmazda paydaşlığın giderilmesine ilişkindir.
 
@@ -97,9 +115,13 @@ Davaya konu edilen 21 nolu parselde davalıya aidiyeti davacılar tarafından da
 
 ## Yargıtay 7. HD 2011/5721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107714800)
+
 İddia ve savunmaya, duruşma tutanaklarına yansıyan bilgi ve belgelere, toplanıp değerlendirilen delillere ve hüküm yerinde gösterilen gerekçelere, görülmekte olan davanın açılmasına esas olan ortaklığın giderilmesi davası sırasında, taşınmazın satış bedelinin taşınmaz paydaşlarına dağıtılmasına esas dağıtım cetvelinin düzenlenebilmesi için taşınmaz ve üzerindeki muhdesatların değerinin tespit edileceği, bu değerlendirmeye göre oranlama yapılıp satış bedelinin hisseler oranında paylaştırılmasına karar verileceğine göre tarafların buna ilişen ve aşağıdaki bendin dışında kalan sair temyiz itirazları yerinde değildir.
 
 ## Yargıtay 6. HD 2011/3003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058595700)
 
 Dava 25 adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -111,6 +133,8 @@ Köyü 105 ada 66 parsel, 105 ada 137 parsel, 111 ada 31 parsel, 113 ada 31 pars
 
 ## Yargıtay 6. HD 2011/2998 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058594200)
+
 Dava, altı adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -119,11 +143,15 @@ Ancak taşınmazların satış bedelinin tapu kaydı ve mirasçılık belgesinde
 
 ## Yargıtay 6. HD 2011/1821 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056734300)
+
 Paydaşlığın giderilmesi davaları iki taraflı, taraflar için benzer sonuçlar doğuran davalar olup, sonuçta kazanan veya kaybeden taraftan söz edilemeyeceğinden yargılama giderleri ve vekalet ücretinin taraflara payları oranında yükletilmesi gerekir.
 
 Olayımıza gelince ; dava konusu edilen 36 ve 38 parsel No’lu taşınmazların paydaşlığının giderilmesine yönelik davada davacı ve davalılar kendisini vekille temsil ettirdiğinden taraflar yararına takdir edilen vekalet ücretinin tarafların payları oranında alınması gerekirken 750 TL’şar vekalet ücretinin ve yargılama giderlerinin satış bedelinden mahsup edilerek taraflara ödenmesine hükmedilmesi doğru değil ise de, bu yanlışlığın düzeltilmesi için hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden hüküm fıkrasından yargılama giderleri ve vekalet ücretine ilişkin kısımların çıkarılarak yerine “ davada kendisini vekille temsil ettiren taraflar yararına takdir edilen 750 TL’şar maktu vekalet ücretinin ve 472.90 TL yargılama giderinin payları oranında paydaşlardan alınmasına” ibaresi eklenerek hükmün bu düzeltilmiş şekliyle HMUK’nun 438 / son maddesi gereğince ONANMASINA, taşınmaz malın satış bedelinden payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin alınan 17.15.-TL’nın mahsubu ile bakiyesinin temyiz edenden alınmasına, 22.02.2011 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2011/1291 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056718700)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
@@ -134,14 +162,20 @@ payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin 
 
 ## Yargıtay 6. HD 2011/849 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056215700)
+
 Ancak; mahkemece paydaşlığın (ortaklığın) satış suretiyle giderilmesine karar verilmesi halinde satış bedelinin ne şekilde dağıtılacağının karar yerinde gösterilmesi ve satış bedelinin satışına karar verilen taşınmaz elbirliği halinde mülkiyet hükümlerine tabi olması halinde mirasçılık belgesindeki payları oranında dağıtılmasına karar verilmesi gerekir.
 Bu nedenle mahkemece, dava konusu taşınmazın satışına karar verirken satış bedelinin mirasçılık belgesindeki payları oranında taraflara paylaştırılmasına karar vermekle yetinmek gerekirken satıştan elde edilen bedelin 19.02.2010 tarihli ek bilirkişi raporunda belirlenen oranlar nispetinde taraflara aidiyetine karar verilmesi doğru değil ise de, bu yanlışlığın düzeltilmesi için yeniden yargılama yapılmasında yarar görülmediğinden, hükmün 1. bendinde yazılı “... satıştan elde edilecek bedelin 19.02.2010 tarihli ek bilirkişi raporunda belirlenen oranlar nispetinde taraflara aidiyetine,” ibaresinin çıkartılarak yerine “ satıştan elde edilen bedelin pay temlikleri göz önüne alınarak mirasçılık belgesindeki payları oranında taraflara dağıtılmasına” ibaresi eklenmek suretiyle HUMK.nun 438/son maddesi uyarınca DÜZELTİLEREK ONANMASINA ve taşınmaz malın satış bedelinden payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin alınan 17.15.- TL’nın mahsubu ile bakiyesinin temyiz edenden alınmasına, 31.1.2011 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2011/490 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055295900)
+
 Dava konusu edilen ve satışına karar verilen parselin satış bedelinin paydaşlara mirasçılık belgesindeki payları oranında dağıtılması ile yetinilmesi gerekirken borçlu ortaklarının alacağa yetecek orandaki paylarının icra dosyasına yatırılması şeklinde infaza yönelik hüküm kurulması doğru değilse de bu yanlışlığın bozularak düzeltilmesi için yeniden yargılama yapılmasında usul ekonomisi yönünden yarar görülmediğinden hüküm fıkrasının 3.maddesinde yazılı” Satış bedelinin veraset ilamındaki hisseleri oranında davalılara paylaştırılarak davalıların hissesine düşen bedelin (borca yetecek oranda) ...İcra Müdürlüğünün 2007/315 esas sayılı dosyasına gönderilmesine” ibaresinin kaldırılarak yerine “Satış bedelinin Konya 2.Sulh Hukuk Mahkemesinin 2008/810 esas 2008/884 karar sayılı mirasçılık belgesindeki payları oranında paydaşlara ödenmesine” ibaresinin eklenmek suretiyle HUMK 438/7.
 
 ## Yargıtay 6. HD 2011/115 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055227300)
 
 Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil de üçüncü şahsa ait olduğunun anlaşılması halinde bu kimseyi muhdesat sahibi olarak davaya dahil etme ve ona satış bedelinden pay vermek mümkün değildir.
 
@@ -149,11 +183,15 @@ Olayımıza gelince:dava konusu edilen ve satışına karar verilen 438 parsel �
 
 ## Yargıtay 6. HD 2010/14475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113854400)
+
 Paydaşlığın (ortaklığın) satış yoluyla giderilmesi halinde dava konusu taşınmaz üzerinde bina, ağaç vs gibi bütünleyici parça (muhdesat) varsa bunların arzla birlikte satılması gerekir. Ancak muhdesatın bir kısım paydaşlara (ortaklara) ait olduğu konusunda tapuda şerh varsa veya bu hususta bütün paydaşlar (ortaklar) ittifak ediyorlarsa ve muhdesat arzın değerinde bir artış meydana getiriyorsa bu artışın belirlenmesi için dava tarihi itibariyle arzın ve muhdesatın değerleri ayrı ayrı tespit edilir. Belirlenen bu değerler toplanarak taşınmazın tüm değeri bulunur. Bulunan bu değerin ne kadarının arza ne kadarının muhdesata isabet ettiği oran kurulmak suretiyle belirlenir. Satış sonunda elde edilecek bedelin bölüştürülmesinde bu oranlar esas alınarak yapılır. Muhdesata isabet eden kısım muhdesat sahibi paydaşa, geri kalan bedel ise payları oranında paydaşlara (ortaklara) dağıtılır.
 
 Olayımıza gelince; Davaya konu edilen taşınmaz üzerinde ev bulunduğu ve bu evin davalıya ait olduğuna ilişkin davacının imzalı beyanı karşısında yukarıdaki ilke doğrultusunda mahkemece muhdesat bedeli ile ilgili oran kurularak satış bedelinin bu oran doğrultusunda dağıtılması gerekirken satış bedelinin oran kurulmadan tapu kaydındaki paylar oranında dağıtılmasına karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/13338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112424500)
 
 Dava, 2 adet taşınmazın paydaşlığının giderilmesi istemine ilişkindir.
 
@@ -165,9 +203,13 @@ Ancak hüküm fıkrasında satış bedelinin tapu ve mirasçılık belgesindeki 
 
 ## Yargıtay 6. HD 2010/13092 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1065797600)
+
 Ancak 492 Sayılı Harçlar Yasası'nın mükerrer 138.maddesinin sonuna eklenen fıkra gereğince, 19.12.2001 günlü Resmi Gazete'de yayımlanan, Harçlar Yasası'nın Genel Tebliği'nin 1 sayılı tarifesinin karar ve ilam harcı bölümündeki açıklığa göre, taşınmazların satış bedeli üzerinden %09,9 nisbi karar harcı alınması gerekeceği gözönünde tutulmaksızın karar verilmiş ise de, bu yanlışlığın düzeltilmesi için hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden hüküm fıkrasına "satış bedeli üzerinden alınacak %09,9 harcın payları oranında paydaşlardan alınmasına " ibaresinin eklenmesi suretiyle hükmün HUMK.'nun 438.maddesi uyarınca düzeltilmesine ve bu düzeltilmiş şekliyle ONANMASINA ve taşınmaz malın satış bedelinden payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin alınan 17.15.-TL’nın mahsubu ile bakiyesinin temyiz edenden alınmasına, 30.11.2010 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2010/12327 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068096800)
 
 Ne var ki, mahkemece satış parasının, miras bırakan ...ye ait mirasçılık belgesindeki paylar oranında mirasçılara pay edilmesine karar verilmesi gerekirken, münasip bir mesken edinebilmesi için belirlenen miktarın borçlu ortağa, kalanının da taraflara mirasçılık belgesindeki paylar oranında bölüştürülmesine karar verilmesi doğru değildir. Ancak, bu yanlışlığın düzeltilmesi için yeniden yargılama yapılmasında yarar görülmediğinden hükmün 1. bendindeki …
 
@@ -179,6 +221,8 @@ elde edilecek satış bedelinin …
 
 ## Yargıtay 6. HD 2010/11853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062707400)
+
 Dava, bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -188,6 +232,8 @@ Paydaşlığın satış yoluyla giderilmesi halinde dava konusu taşınmaz üzer
 Bütünleyici parçanın arzın paydaşlarına değil de üçüncü şahsa ait olduğunun anlaşılması halinde bu kimseyi muhdesat sahibi olarak davaya dahil etme ve ona satış bedelinden pay vermek mümkün değildir. Olayımıza gelince; dava konusu edilen ve satışına karar verilen 24 parsel No’lu taşınmazın tapu kaydının beyanlar hanesinde A harfiyle gösterilen evin ...’na B harfiyle gösterilen evin ... (Görgün) C harfi ile gösterilen evin ...’a ait olduğu belirtilmiştir. Bu durumda mahkemece yapılacak iş, tapu kaydının beyanlar hanesinde gösterilen davanın taraflarına ait bulunan muhdesatlar yönünden yukarıda belirtilen esaslara göre oran kurularak muhdesata isabet eden oranların muhdesat sahiplerine verilmesi ve geri kalan, arz ve muhdesat bedelinin tapu kaydındaki payları oranında taraflara dağıtılmasına karar verilmesi gerekirken, bu yön üzerinde durulmadan, yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2010/11442 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063726400)
 
 Dava bir adet taşınmazda ortaklığın giderilmesine ilişkindir.
 
@@ -199,6 +245,8 @@ Olayımıza gelince; yerel mahkemenin 8.7.2008 tarihli kararı, davalı temyizi 
 
 ## Yargıtay 6. HD 2010/8373 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059962100)
+
 Dava, bir parça taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -208,6 +256,8 @@ Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil 
 Olayımıza gelince; dava konusu taşınmaz üzerinde üç adet binanın ..., ... ve ...’ya ait bulunduğu konusunda taraflar arasında çekişme bulunmamaktadır. Muhdesat konusunda taraflarca ittifak sağlandığı gibi taşınmaz üzerindeki 18 no'lu binanın ...’e ve 20 nolu binanın ise ...’ya ait olduğuna dair kesinleşmiş mahkeme ilamı bulunmaktadır. Mahkemece taşınmaz üzerindeki evlerin satış bedelinin yukarda belirtilen esaslar çerçevesinde oran kurularak satış bedelinin bu oranlar dahilinde muhdesatlara isabet eden kısmın muhdesat sahibi paydaşlara, geri kalan bedelin ise payları oranında paydaşlara dağıtılması gerekirken bu husus göz ardı edilerek yazılı şekilde hüküm kurulması hatalı olduğundan hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/7478 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665272200)
 
 Dava beş adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -225,15 +275,21 @@ karar verilmesi doğru değilse de bu yüzden hükmün bozularak yeniden yargıl
 
 ## Yargıtay 6. HD 2010/7037 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665269200)
+
 Olayımıza gelince; dava konusu edilen ve aynen bölünmesinin mümkün olmadığının anlaşılması sebebiyle satışına karar verilen 2919 parsel saylı taşınmaz üzerinde üç katlı bina, çelik yapı, ahır ve depodan oluşan muhdesatlar bulunmaktadır. Muhdesatlar hususunda taraflar arasında ittifak bulunmadığından İnşaat Mühendisi bilirkişi tarafından hazırlanan 07.04.2009 ve 03.08.2009 tarihli raporlarda üzerindeki muhdesatların değeri saptandıktan sonra davalı ... tarafından yapılmış olması ya da tarafların mirasbırakanı tarafından yapılmış olmasına göre alternatifli şekilde tevzi cetveli düzenlenmiştir. Mahkeme ise satış kararı verirken satış bedelinin dağıtımı konusunda bilirkişi raporlarına atıfta bulunmakla yetinmiş, ancak hangi dağıtım sistemine göre satış bedelinin paylaştırılacağının karar yerinde gösterilmemiş olması doğru görülmemiştir.
 
 Ayrıca dava konusu taşınmazın beyanlar hanesinde 2942 sayılı Yasa'nın 7. maddesi gereğince kamulaştırma şerhi bulunmakta olup mahkemece, kamulaştırma işlemlerinin kesinleşip kesinleşmediğinin araştırılması, kesinleştiği takdirde kamulaştırılan kısmın ifraz edilerek kalan kısmın ortaklığının giderilmesine karar vermek gerekirken eksik inceleme ile yazılı şekilde satış kararı verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2010/6015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642306400)
+
 Dava konusu edilen ve satışına karar verilen taşınmazın satış bedelinin paydaşlara mirasçılık belgesindeki payları oranında dağıtılması ile yetinilmesi gerekirken infazda tereddüt yaratacak şekilde borçlu davalı ... hissesine düşecek bedelin icra dosyasına yatırılmasına karar verilmesi doğru değilse de bu yanlışlığın bozularak yeniden yargılama yapılmasında usul ekonomisi açısından yarar görülmediğinden hükmün birinci fıkrasında yazılı” Davanın kabulüne ... Mahallesi ... ada ... parsel ... BB.nolu taşınmazın açık artırma suretiyle satışının yapılarak ortaklığın giderilmesine,satış bedelinin veraset ilamındaki payları oranında hak sahiplerine ödenmesine,Mirasçı borçlu ... hissesine düşen bedelin ... 1 İcra Müdürlüğünün 2007/5818 esas sayılı dosyasına bakiye miktar kalması halinde bu mirasçıya ödenmesine” ibaresinin kaldırılarak yerine” Davanın kabulüne ... mahallesi ... ada ... parsel ...
 B.B.nolu taşınmazın açık artırma suretiyle satışının yapılarak ortaklığın giderilmesine,satış bedelinin veraset ilamındaki payları oranında hak sahiplerine ödenmesine” ibaresinin eklenmek suretiyle hükmün HUMK 438/son maddesi gereğince DÜZELTİLEREK ONANMASINA ve taşınmaz malın satış bedelinden payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin alınan 17.15.-TL’nın mahsubu ile bakiyesinin temyiz edenden alınmasına, 24.5.2010 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2010/5328 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637943700)
 
 Elbirliği ve paylı mülkiyet halindeki taşınmazların ortaklığın giderilmesi davasında satış bedelinin tarafların tapu kaydındaki ve mirasçılık belgesindeki paylarına göre dağıtılması gerekirken satış bedelinin dağıtımı konusunda hüküm kurulmamış olması doğru değil ise de bu yanlışlığın düzeltilmesi için yeniden yargılama yapılmasına gerek görülmediğinden hüküm fıkrasının 1. bendinin sonuna eklenmek üzere “satış bedelinin tapu kaydındaki ve mirasçılık belgesindeki payları oranında taraflara dağıtılmasına” ibaresi eklenmek suretiyle hükmün HUMK.nun 438.maddesi uyarınca düzeltilerek ONANMASINA ve taşınmaz malın satış bedelinden payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin alınan 15.60.-TL’nın mahsubu ile bakiyesinin temyiz edenden alınmasına, 3.5.2010 tarihinde oybirliğiyle karar verildi.

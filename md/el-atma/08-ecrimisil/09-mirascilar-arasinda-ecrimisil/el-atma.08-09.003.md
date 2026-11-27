@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 16. HD 2020/3548 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623033100)
+
 Dava konusu 122 ada 28 ve 66, 157 ada 4, 12 ve 13, 186 ada 54, 59, 61, 62, 80, 87, 90, 92, 98, 100, 101 ve 102 parsel sayılı taşınmazlar hakkındaki hükme yönelik temyiz itirazlarının incelenmesine gelince; davacı, çekişmeli taşınmazların 1972 yılında ölen anneannesi ...’tan intikal ettiği iddiasına dayanarak, tapu iptali, tescil ve ecrimisil istemiyle dava açmıştır. Davalılar ise, dava konusu taşınmazların bir kısmını üçüncü kişilerden satın aldıklarını, bir kısmını kardeşleri olan davacının annesi ...’nin kendilerine devrettiğini belirterek, davanın reddini istemişlerdir.
 Mahkemece, dava konusu 122 ada 28 ve 66, 150 ada 4, 186 ada 54, 59, 61 ve 62 parsellerin keşfinin yapıldığı, keşfi daha sonra yapılmak üzere ertelenen taşınmazlarla ilgili olarak davacı vasisinin bu yerlerin babadan kalma ya da satın alınmış olabileceğini, davacının maddi olarak yıprandığını, bu taşınmazların keşfinin yapılmasını istemediklerini beyan etmekle keşif taleplerinden vazgeçtiği, keşfi yapılan taşınmazlar hakkında ise keşifte dinlenen mahalli bilirkişiler ve davalı tanıklarının davacının iddialarını doğrular nitelikte her hangi bir beyanda bulunmadıkları ve davacının iddiasını ispatlayamadığı gerekçesiyle davanın reddine karar verilmiş ise de, yapılan inceleme ve araştırma hüküm kurmaya elverişli bulunmamaktadır. Dava konusu taşınmazların kadastro tespiti tapu kayıtlarına dayalı olarak yapıldığı halde, Mahkemece bu tapu kayıtları tesisinden itibaren tüm tedavülleriyle birlikte getirtilmemiş ve mahallinde uygulanmamıştır.
 Dava konusu 122 ada 28, 66 parsellere revizyon görenlerden 19.02.1963 tarih 138 sıra numaralı, 157 ada 4, 12 ve 13, 186 ada 80, 87, 90, 92, 98, 100, 101 ve 102 parsellere revizyon görenlerden 28.05.1943 tarih 113 sıra numaralı ve 186 ada 54, 59, 61 ve 62 parsellere revizyon gören 04.03.1941 tarih 6 sıra numaralı tapu kayıtlarının, tarafların 1943 yılında ölen murisleri, davacının dedesi olan ... adına kayıtlı olduğu anlaşılmaktadır. Kadastro tutanaklarının edinme sebebine göre de, muris ...’tan davacının annesi ...’ye intikal eden payın ... tarafından 1960, 1970 yıllarında davalı kardeşlerine haricen satıldığı ya da hibe edildiği belirtilmektedir. Dava konusu taşınmazların kadastro tespitleri tapu kaydına dayalı olarak yapıldığına göre, mahkemenin kabulünün aksine ispat yükü davacıda değil, davacının annesi ...’nin payının kendilerine devredildiğini veya bir kısım taşınmazların 3. kişilerden satın alındığını iddia eden davalı taraf üzerindedir.
@@ -32,6 +34,8 @@ Dolayısıyla davacının vasisinin beyanına istinaden 157 ada 4, 12, 13, 186 a
 taraflara tanık dinletme olanağı sağlanmalı, ayrıca yerel bilirkişi ve tanıkların çekişmeli taşınmazların kime ait olduğu, kimden kime ne şekilde intikal ettiği, davacının annesi ... tarafından davalılara devredilip devredilmediği veya davalıların üçüncü kişilerden satın alıp almadığı, taşınmazların ne zamandan beri, kim tarafından ve ne şekilde kullanıldığı hususunda somut ve maddi olaylara dayalı beyanları alınmalı, beyanlar arasında çelişki bulunduğu takdirde yüzleştirme yapılmak suretiyle çelişkinin giderilmesine çalışılmalı, çelişkinin giderilmemesi halinde hangi beyana üstünlük tanındığının gerekçesi karar yerinde gösterilmeli; fen bilirkişisine, tapu kayıtlarında tarif edilen sınır yerleri, denetime elverir şekilde düzenleyeceği haritada ayrı ayrı işaret ettirilmeli, tapu kapsamında kaldığı belirlenen tüm taşınmazları bir arada gösterir kroki düzenlettirilmeli ve tapu kayıtlarının taşınmazlara uyup uymadığı komşu parsel tutanak ve dayanaklarıyla da denetlenmeli, bundan sonra elde edilen deliller hep birlikte değerlendirilerek sonucuna göre karar verilmelidir. Mahkemece belirtilen şekilde inceleme ve araştırma yapılmadan davanın reddine karar verilmiş olması isabetsiz olup …
 
 ## Yargıtay 8. HD 2020/2111 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/586420800)
 
 Davacı vekili, dava konusu 23 ada 89 nolu parselin müvekkilinin baldızı adına kayıtlı olduğu dönemde müvekkili ile baldızının anlaşarak vekil edeni tarafından taşınmaz üzerine 3 katlı bir ev inşaa edildiğini, ikinci katın müvekkiline diğer katların ise karşı tarafa kalacak şekilde bölüşüldüğünü, fakat o yıllarda müvekkiline ait daireye davalılardan Şaban’ın kiracı olarak yerleştiğini, inşaatın 1981 senesinde tamamlanmasına rağmen müvekkili adına 13.04.1983 tarihinde ¼ hissenin devredildiğini, bu arada davalıların müvekkilinin haberi olmadan binanın alt katından toprak tahliye etmek suretiyle kat sayısını dörde çıkardığını, davalı ...’ın bir kaç yıl kira ödenmesine müteakip diğer kiraların ödenmediğini, yapılan tüm uyarılara rağmen taşınmazın boşaltılmadığını, vekil edenin payını 06.05.2011 tarihinde dava dışı ...’a devrettiğini belirterek, elatmanın önlenmesi ile fazlaya ilişkin hakları saklı kalmak kaydıyla (06.05.2011 tarihinden geriye doğru 4 yıla ilişkin) 20.400 TL ecrimisil bedelinin davalıdan alınarak vekil edenine ödenmesini talep etmiştir.
 
@@ -48,6 +52,8 @@ Dosya içeriği ve toplanan delillerden, dava konusu 23 ada 89 parsel sayılı t
 SONUÇ: Davalı ... vekilinin temyiz itirazları yukarıda açıklanan nedenle yerinde olduğundan kabulüyle usul ve yasaya uygun bulunmayan hükmün, 6100 sayılı HMK'nın Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/458 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572846600)
 
 Davacı vekili, vekil edeninin paydaşı olduğu 999 parsel sayılı taşınmaza komşu 381 parsel maliklerinden davalı tarafından sera yapılmak suretiyle müdahale edildiğini belirterek elatmanın önlenmesine, yapının kaline ve 5 yıllık ecrimisil bedeli olan 3.154 TL’nin yasal faizi ile birlikte tahsiline karar verilmesini istemiştir.
 
@@ -67,6 +73,8 @@ SONUÇ: Yukarıda (1.) ve (2.) nolu bentlerde gösterilen nedenlerle davacı ve 
 
 ## Yargıtay 8. HD 2019/6561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521250200)
+
 Davacılar vekili, dava konusu taşınmazın ½ oranında hisse ile vekil edenlerine ait olduğunu, davalının dava konusu taşınmaza müdahale ettiğini açıklayarak davalının el atmasının önlenmesine ve geriye yönelik beş yıllık ecrimisil alacağının davalıdan alınmasına karar verilmesini istemiştir.
 
 Davalı vekili, davanın reddini savunmuştur.
@@ -84,6 +92,8 @@ Mirasbırakan...'in 11.12.2012 tarihinde ölümüyle taşınmazdaki payı irsen 
 SONUÇ: Davalı vekilinin temyiz itirazlarının kabulü ile temyiz olunan kararın (2) sayılı bentte açıklanan nedenle 6100 sayılı HMK'nin Geçici 3.maddesi yollaması ile HUMK’un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/6556 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521233300)
 
 Davacı vekili, dava konusu 10691 parsel sayılı taşınmaza komşu 10689 ve 10688 parsel malikleri tarafından haksız şekilde müdahale edildiğini ileri sürerek davalıların müdahalesinin önlenmesine ve fazlaya ilişkin hakları saklı kalmak kaydı ile 12.630 TL ecrimisil bedelinin yasal faizi ile birlikte tahsiline karar verilmesini istemiştir.
 
@@ -103,6 +113,8 @@ SONUÇ: Davalıların temyiz itirazları yukarıda açıklanan nedenle yerinde o
 
 ## Yargıtay 8. HD 2019/4887 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646618600)
+
 Davacılar vekili, vekil edenlerinin dava konusu 12 parsel sayılı taşınmazda davalı ile birlikte paydaş olduklarını, taşınmazın 2007 yılından bu yana davalı tarafından kullanıldığını, dava konusu taşınmazın giriş katını kuyumcu ve ayakkabıcı olarak iki ayrı kişiye kiraya verdiğini, üst katında davalının oğlunun ikamet ettiğini, diğer katları da oğlu ile birlikte işlettiğini açıklayarak, 1.7.2007 tarihinden itibaren tahakkuk edecek 50.000,00 TL ecrimisilin davalıdan alınmasına karar verilmesini istemiştir.
 
 Davalı vekili; dava konusu taşınmazın tamamı aslında vekil edenine ait iken davacıların murisi Yavuz Saraylıoğlu’nun bir kredi işi nedeniyle bedelsiz olarak 1/2 hissesinin adı geçene verildiğini, talebin zamanaşımına uğradığını ve fahiş olduğunu beyanla davanın reddini savunmuştur.
@@ -118,6 +130,8 @@ Kabule göre ise; yerleşik içtihatlar uyarınca, davacıların murisinin sağl
 SONUÇ: Davalı vekilinin temyiz itirazları yukarıda (2) ve (3) nolu bentlerde açıklanan nedenlerle yerinde olduğundan kabulüyle, usul ve yasaya uygun bulunmayan hükmün 6100 sayılı HMK'nin Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/3980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503607600)
 
 Davacılar; paylı mülkiyet üzere malik oldukları 318 ve 323 parsel sayılı taşınmazların davalılar tarafından kullanıldığını, elde edilen gelirlerden kendilerine pay verilmediğini ileri sürerek dava tarihinden geriye doğru 5 yıllık dönem için fazlaya ilişkin haklarını saklı tutup 5.000TL ecrimisil isteğinde bulunmuşlardır.
 
@@ -135,6 +149,8 @@ maddesi yollaması ile HUMK’un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2019/3482 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514149500)
+
 Dava, ketmi verese hukuksal nedenine dayalı terekeye iade taleli tapu iptal ve tescil istemine ilişkindir.
 
 …
@@ -146,6 +162,8 @@ Kabule göre de, davada yer almayan dava dışı mirasçıların gerekçeli kara
 Tarafların değinilen yönler itibariyle yerinde görülen temyiz itirazlarının kabulüyle, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/20283 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488411000)
 
 Davalı, taşınmazda payı olan dava dışı ...... mirasçılarına tebaan kullandığını belirterek davanın reddini savunmuştur.
 
@@ -161,6 +179,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazları yerinde 
 
 ## Yargıtay 8. HD 2018/19089 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463986800)
+
 Davacı; ... Caddesinde bulunan dükkanların eşi ...’a ait olduklarını ve dava dışı gerçek kişilere kiralandıklarını, eşinin ölümü üzerine kira bedellerinin davalılar tarafından tahsil edildiğini açıklayarak, davalıların haksız olarak dükkanların davacı tarafından kullanımını engellemeleri ve haksız olarak kazanç elde etmeleri nedeniyle toplam 24.000 TL ecrimisilin 2012 yılı Haziran ayından itibaren işleyecek yasal faizi ile birlikte davalılardan tahsiline karar verilmesini istemiştir.
 
 Davalılar vekili, davacının kira talebinde bulunduğu dükkanlarda hak sahibi olmadığını, davacının eşi Aziz’in ölene kadar muris Hatice’yi temsilen kiraları aldığını, Aziz’in ölümü sonrası mirasçılardan Mustafa’nın tahsile devam ettiğini, davacının Aziz’in mirasını da reddettiğini açıklayarak, davanın reddini savunmuştur.
@@ -174,6 +194,8 @@ Hal böyle olunca, az yukarıda yapılan açıklamalar ve tarafların hiçbirisi
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazları yerinde olduğundan kabulü ile usul ve kanuna aykırı bulunan hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/17036 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454397800)
 
 Davacılar, mirasbırakanları ......'ten kalan 594 ada 45 parsel sayılı taşınmazda bulunan 1, 2, 9 ve 10 numaralı bağımsız bölümleri davalıların kullandığını ileri sürerek, ecrimisile karar verilmesini istemişlerdir.
 
@@ -193,6 +215,8 @@ SONUÇ: Yukarıda (1) numaralı bentte yazılı nedenlerle davacılar vekili ve 
 
 ## Yargıtay 3. HD 2018/2206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419207400)
+
 Mahkemece; dava sebepsiz zenginleşmeye dayalı alacak davası olarak nitelendirilerek davacıların sebepsiz zenginleşmeyi öğrendikleri tarih itibariyle davanın zamanaşımına uğradığı gerekçesi ile davanın zamanaşımı nedeniyle reddine karar verilmiş, hüküm süresi içinde taraf vekillerince temyiz edilmiştir.
 
 …
@@ -205,6 +229,8 @@ SONUÇ: Yukarıda birinci bendde açıklanan nedenlerle davalı tarafın temyiz 
 
 ## Yargıtay 1. HD 2018/1258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/407437900)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -215,11 +241,15 @@ Tarafların yerinde bulunan temyiz itirazlarının kabulü ile, hükmün (6100 s
 
 ## Yargıtay 16. HD 2018/1231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/420505900)
+
 Elatmanın önlenmesi ve ecrimisil isteminden doğan uyuşmazlıkta mahkemece, dava konusu tapulu taşınmazı, davacı-karşı davalıların yaklaşık 30 yılı aşkın süredir bu taşınmazın kendilerine ait olmadığını, mülkiyet davasında lehlerine bir karar verilmediğini bilerek kullandıkları, bu kullanımın kötü niyetli olduğu; bu yerde ...’nin ve ölümünden sonra mirasçılarının mülkiyet hakkı olduğundan, taşınmazın zilyetlikle kazanılmasının mümkün olmadığı, davacı-karşı davalıların hukuken korunan her hangi bir tasarruf yetkisinin olmadığının sabit bulunduğu, bu yönüyle davalı-karşı davacının elatmanın önlenmesi ve ecrimisil isteminde haklı olduğu kabul edilerek karar verilmiştir. Tapu kayıt maliki ...'nin çocuksuz ölümü ile terekesi elbirliği mülkiyetine tabi olup, 29.03.2012 tarihli veraset ilamında yazılı mirasçılarına kaldığı anlaşılmıştır.
 Yargılama sırasında bir kısım mirasçılar vekili olarak Avukat ... taşınmaza haksız olarak el atıldığını ileri sürerek davacı-karşı davalı ... ve arkadaşlarının taşımazdan men'ine ve fazlaya ilişkin hakları saklı almak kaydıyla 12.500 TL ecrimisil bedelinin tahsili ile müvekkillerine ödenmesi talebiyle açmış olduğu davada zilyetliğin korunması yönünden TMK'nın 702/son maddesi gereğince dava açma ehliyeti bulunmakta olduğu gibi el atmanın önlenmesine ilişkin olarak verilen karar yönünden; Dosya içeriğine, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere, delillerin takdirinde bir isabetsizlik bulunmamasına göre temyiz itirazları yerinde değildir. Ancak, ecrimisil davasının tereke adına açılmış olmadığı kuşkusuzdur.
 El birliği mülkiyetinde tasarruf işlemlerinin tüm mirasçılar tarafından birlikte yapılması zorunlu olduğuna, ecrimisil bedelinin sadece dava açan mirasçılara ait olduğundan da söz edilemeyeceğine göre ecrimisil talebi yönünden aktif dava ehliyeti bulunmaması nedeniyle davanın reddine karar vermek gerekirken yazılı olduğu şekilde hüküm kurulması isabetsiz olup, davacılar vekilinin temyiz itirazları açıklanan nedenlerle yerinde bulunduğundan kabulüyle hükmün BOZULMASINA, 23.02.2018 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2018/508 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410492500)
 
 Dava, mülkiyet hakkına dayalı ecrimisil isteğine ilişkindir.
 
@@ -233,6 +263,8 @@ Davalı ...'nin ve davalı ...'in belirtilen nedenlerle yerinde bulunan temyiz i
 
 ## Yargıtay 1. HD 2018/98 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402054300)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -244,6 +276,8 @@ Toplanan deliller ve tüm dosya içeriği ile çekişme konusu taşınmazların 
 Davacıların temyiz itirazı açıklanan nedene hasren yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 20. HD 2017/8045 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385874400)
 
 Davacılar vekili, dava dilekçesinde sınırlarını bildirdiği, ... ilçesi, ... mahallesinde bulunan yaklaşık 81.000 m2 yüzölçümündeki taşınmazın tapuda kayıtlı olmadığını, kazandırıcı zamanaşımı zilyetliği yoluyla taşınmaz edinme koşullarının müvekkilleri yararına oluştuğunu iddia ederek, Medenî Kanunun 713. maddesi hükmüne göre müvekkilleri adına tescilini istemiştir. Davalı Hazine ise taşınmazın Hazine adına tesciline karar verilmesini talep etmiştir.
 
@@ -261,6 +295,8 @@ belirlendiği takdirde diğer mirasçılar ve onların miras bırakanları yön�
 SONUÇ: Yukarıda açıklanan nedenlerle; dahili davalı ... ve davalı Hazine vekilinin temyiz itirazlarının kabulüyle hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/6017 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/380839700)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 

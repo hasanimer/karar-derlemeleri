@@ -38,6 +38,8 @@ II. B bendinde (§13-30) belirtilen gerekçelerle, iki numaralı uyuşmazlık y�
 
 ## Yargıtay HGK 2026/196 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206116600)
+
 Davacı vekili dava dilekçesinde; müvekkiline ait dava konusu taşınmazın hiçbir hukuki sebebe dayanmaksızın davalı tarafından haksız olarak kullanıldığını, davalıdan taşınmazın tahliye edilmesi istenmesine rağmen taşınmazın tahliye edilmediğini ileri sürerek davalının müdahalesinin men'ine, şimdilik 1.000,00 TL ecrimisilin davalıdan yasal faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -54,6 +56,8 @@ Davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel D
 
 ## Yargıtay HGK 2022/1 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744276400)
+
 Davacılar vekili dava dilekçesinde; müvekkillerinin maliki oldukları Kocaeli ili Başiskele ilçesi Kullar köyünde kain 5598 parsel sayılı 1281 m² yüzölçümlü taşınmazın 35,64 m²'lik kısmına tecavüzlü bulunan trafo binasının çekilen noter ihtarnamelerine rağmen hâlen kaldırılmadığını, tüm bu nedenlerle davalının davaya konu taşınmaza vaki el atmasının önlenmesine, taşınmaz üzerindeki tesislerin kal'ine, fazlaya ilişkin hakları saklı kalmak kaydıyla 2000TL ecrimisile karar verilmesini talep etmiştir.
 
 …
@@ -65,6 +69,8 @@ Davalı SEDAŞ Genel Müdürlüğü vekili; ilk itirazlarının değerlendiriler
 Az yukarıda da açıklandığı üzere davanın açıldığı tarih itibariyle davacının el atmanın önlenmesi ve kal talep etme hakkı olduğu hâlde yargılama sırasında yürürlüğe giren Kanunla sadece tazminat talep edebileceğinin hükme bağlandığı, Özel Daire bozma kararı sonrası davacının da 20.09.2011 günlü celsede "...biz davamızı bedele dönüştürüyoruz, beyan tarihi olarak bugünkü tarih esas alınarak davalı tarafça el atılan yerin bedelinin davalı taraftan tahsili ile müvekkile ödenmesini talep ediyoruz, harçlandırdığımız dava değeri bilirkişi raporuna göre 16.038TL dir. Fazlaya ilişkin haklarımızı saklı tutuyoruz, keşfe karar verilmesini istiyoruz..." şeklinde imzalı beyanda bulunduğu anlaşılmakla; eldeki dava yönünden davacının yasal düzenleme doğrultusunda talebini bedele dönüştürdüğü, tercih hakkını kullandığı tarihin değerlendirme tarihi olarak esas alınması gerektiği kanaatine varılmıştır.
 
 ## Yargıtay HGK 2019/954 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554344400)
 
 Dava; kamulaştırmasız el konulan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -86,6 +92,8 @@ Buna göre dava konusu 2745 parsel sayılı taşınmaza el koyma tarihi 04.11.19
 Yukarıda (III) numaralı bentte yer alan uyuşmazlık yönünden; davalı idare vekilinin temyiz itirazlarının reddi ile direnme kararının yukarıda açıklanan değişik gerekçe ile ONANMASINA …
 
 ## Yargıtay HGK 2006/529 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76981000)
 
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 

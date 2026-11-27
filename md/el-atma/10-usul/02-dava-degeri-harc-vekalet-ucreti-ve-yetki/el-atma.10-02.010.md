@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2023/1658 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881485800)
+
 Davacı idare vekili dava dilekçesinde; dava konusu Muş ili ... ilçesi ... Köyü 148 ada 2 parsel sayılı taşınmazın davalı idare tarafından kamulaştırma yapılmadığı halde ... yol çalışmaları kapsamında el atıldığını bu nedenle taşınmazın el atılan kısmının bedelinin dava tarihinden, ecrimisil bedeline ise zarar tarihinden itibaren işleyecek yasal faizi davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -37,6 +39,8 @@ Dava konusu 148 ada 2 parselden ifraz edilen 148 ada 3 parsel sayılı taşınma
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/943 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897366900)
 
 Davacılar vekili; ... Mahallesi, 103 ada 6, 102 ada 56, 59 ve 71 parseller ile Güneşli Mahallesi 108 ada, 135 parsel sayılı taşınmazların tarafların ortak murisinin mülkiyetinde olduğu, davacıların da hisseleri bulunduğu halde taşınmazların tamamının davalılarca kullanıldığını, taşınmaz üzerindeki fındık ürününü her sene davalıların topladıklarını, davacıların paylarına düşen kısmı kullanmalarına davalılarca müsaade edilmediğini beyan ederek; davalıların taşınmazlara yönelik vaki müdahalelerinin men'ine ve belirsiz alacak davası olarak dava tarihinden geriye doğru 5 yıl için hesaplanacak ecrimisil bedellerinin yasal faiziyle davalılardan tahsiline karar verilmesini talep etmiştir.
 
@@ -54,6 +58,8 @@ eksik harç yönünden ise "Harçlar Kanuna göre alınması gerekli 27.240,35 T
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/873 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897440600)
 
 Davacı vekili; dava konusu 21 ada 7 parsel sayılı taşınmaz üzerindeki 10 No.lu binanın babaları İlyas'a ait iken vefatı ile taraflara kaldığını, binada babalarına ait 3 adet mesken mevcut iken davalıların bu binayı kullandıklarını ve müvekkiline kullandırmadıklarını belirterek, dava konusu taşınmaza elatmanın önlenmesi ile geriye dönük 5 yıllık kira bedelinin davalılardan müşterek ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
@@ -74,6 +80,8 @@ Bölge Adliye Mahkemesinin 08.09.2022 tarihli ek kararının kaldırılarak İlk
 
 ## Yargıtay 7. HD 2023/171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933421600)
+
 Davacı vekili; müvekkilinin dava konusu taşınmazı davalılardan haricen satın aldığını, taraflar arasında Yeşilhisar Asliye Hukuk Mahkemesinin 2011/109 Esas, 2013/9 Karar sayılı dosyasından görülen harici satın alamaya dayalı tapu iptal ve tescil istemli davada tapu iptali ve tescil isteminin reddedilerek Yargıtay onama ilamı sonrasında 27.02.2014 tarihinde kesinleşen karara göre harici satış işleminin geçersiz olup tarafların harici satış nedeniyle vermiş oldukları bedelleri geri isteyebileceklerini, bu kapsamda Kayseri ili, Yeşilhisar ilçesinde bulunan 76 ada 569 parsel sayılı taşınmazı haricen 3.742 USD (Dolar) karşılığı 3.000,00 TL’sini peşin olarak elden ödemek kaydıyla satın aldığını ancak davalıların taşınmazın devrini vermedikleri gibi aldıkları bedeli de iade etmediklerini, ayrıca sözleşmede davalı ...’in kayıt maliki kardeşlerini ikna edemeyip dava konusu taşınmazın devrini veremediği takdirde 5.000 USD (Dolar) cezai şartı vereceğini kabul ve taahhüt ettiğini ileri sürerek; fazlaya ilişkin hakları saklı kalmak kaydıyla TBK'nin 77. maddesi ve devamındaki sebepsiz zenginleşme hükümleri uyarınca; davalılara ödediği harici satış bedelinin şimdilik 3.000,00 TL'nin ve satış
 işlemin gerçekleşmemesi nedeniyle 5.000 USD (Dolar) cezai şartın dava tarihinden itibaren işleyecek yasal faiziyle davalılardan tahsiline karar verilmesini talep etmiş; yargılama sırasında 12/07/2017 tarihinde ıslah suretiyle bilirkişi tarafından belirlenen 51.824,34 TL bedelin dava tarihinden işleyecek yasal faiziyle birlikte tahsilini istediğini beyan etmiştir.
 
@@ -86,6 +94,8 @@ işlemin gerçekleşmemesi nedeniyle 5.000 USD (Dolar) cezai şartın dava tarih
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2022/17352 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846668800)
 
 Dava kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemlerine ilişkindir.
 
@@ -101,6 +111,8 @@ tarihinden sonra olduğunun tespiti halinde nispi harç ve nispi vekalet ücreti
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan Muratlı Asliye Hukuk Mahkemesinin 2021/15 Esas, 2021/329 Karar sayılı kararının açıklanan gerekçelerle HMK'nın 371. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2022/7821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886423500)
 
 Davacı ... vekili, mülkiyeti Hazine’ye ait olan dava konusu 2524 parsel sayılı taşınmazın tamamı üzerine davalı tarafından depo, ahır, bina yapmak ve ağaç dikmek, etrafını taş duvar ve tel örgü ile çevirmek ve sair muhtesat yapmak suretiyle müdahalede bulunulduğunu, sulh için davalıya yazı gönderildiğini ancak olumlu sonuç alınamadığını, davalının haksız işgalci olduğunu ileri sürerek dava konusu 2524 parsel sayılı taşınmaza davalının elatmasının önlenmesine, taşınmaz üzerindeki tüm muhtesatların yıkımına karar verilmesini istemiştir.
 
@@ -122,6 +134,8 @@ Dava, mülkiyet hakkına dayalı el atmanın önlenmesi ve yıkım isteklerine i
 
 ## Yargıtay 7. HD 2022/7278 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858290500)
+
 Dava, el atmanın önlenmesi, kal ve ecrimisil istemlerine ilişkindir.
 
 Davacı vekili; dava konusu taşınmazın 265/1024 hissesinin vekil edenlerinin murisi ...
@@ -142,6 +156,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin 
 
 ## Yargıtay 7. HD 2022/6514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838049200)
+
 Dava, mülkiyet hakkına dayalı el atmanın önlenmesi, kâl ve eski hale iade istemine ilişkindir.
 
 …
@@ -157,6 +173,8 @@ Bu tür davalarda 6100 sayılı Hukuk Muhakemeleri Kanununun 120/1. (1086 sayıl
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulüne, Bölge Adliye Mahkemesi'nin 08.03.2021 tarihli hükmünün 2. bendinde yer alan "60.890,91 TL" ibaresinin hükümden çıkarılmasına "60.580,00 TL" ibaresinin yazılmasına; "45.668,91 TL" ibaresinin hükümden çıkarılmasına, yerine "45.358,00 TL" ibaresinin yazılmasına; 6100 sayılı Hukuk Muhakemeleri Kanununun 370/2. maddesi uyarınca Erzurum Bölge Adliye Mahkemesi 1. Hukuk Dairesi hükmünün DÜZELTİLMİŞ bu şekli ile ONANMASINA …
 
 ## Yargıtay 3. HD 2022/6195 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795686300)
 
 Davacı; davalı ...’e ait iki adet taşınmazı icra dosyasında yapılan satış neticesinde satın aldığını, bu taşınmazların bitişiğinde davalılara ait maden ocağı sahası bulunduğunu, rızası olmaksızın arazisinde kazı çalışması yapılmak suretiyle zarar verildiğini iddia ederek; taşınmazlara müdahalenin meni ile fazlaya ilişkin hakları saklı kalmak üzere, hafriyatın kaldırılması ve eski haline getirilme bedeli 500 TL, ecrimisil bedeli 400 TL ve çıkarılan cevher yönünden gelir elde edilmesine bağlı tazminat bedeli 100 TL olmak üzere 1.000 TL’nin davalılardan tahsilini talep etmiştir.
 
@@ -174,6 +192,8 @@ SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davacının temyiz itira
 
 ## Yargıtay 5. HD 2022/2813 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736133400)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece uyulan bozma kararı gereğince inceleme ve işlem yapılarak hüküm kurulmuş, karar taraf vekillerince temyiz edilmiştir.
@@ -189,6 +209,8 @@ Taşınmaza fiilen ne zaman el atıldığına ilişkin tüm bilgi ve belgeler da
 Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle HUMK'un 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 7. HD 2022/1857 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760605100)
 
 Dava, paydaşlar arası elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -207,6 +229,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle hüküm sonucunun 8.bendi hüküm fıkr
 
 ## Yargıtay 5. HD 2021/12168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699150600)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece uyulan bozma kararı gereğince inceleme ve işlem yapılarak hüküm kurulmuş; karar, davacılar vekili ile davalı ... vekilince temyiz edilmiştir.
@@ -221,6 +245,8 @@ Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2021/12036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700576100)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 İlk derece mahkemesince davanın kabulüne dair verilen karara karşı;taraf vekillerince yapılan istinaf başvurusunun Ankara Bölge Adliye Mahkemesi 14. Hukuk Dairesince davalı idare vekili bakımından esastan reddine, davacılar vekilinin istinaf başvuru talebinin ise kabulü ile, el atma tarihi 1983 yılından sonra olduğundan nispi harç ve vekalet ücretine hükmedilmesi gerektiğinden bahisle HMKnın 353/1-b-2 maddesi uyarınca düzeltilerek yeniden esas hakkında hüküm kurulmuş; karar, davalı idare vekilince temyiz edilmiştir.
@@ -232,6 +258,8 @@ Dosyada bulunan kanıt ve belgelere, kararın dayandığı gerekçelere göre; d
 Davalı idare vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun olan hükmün HMK'nun 370. maddesi gereğince ONANMASINA …
 
 ## Yargıtay 11. HD 2021/7130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/721173800)
 
 Davacılar vekili, 16/01/2007 tarihli sözleşmeye göre davalı Bolka... Şti.’e ait taşınmazın davacıya satışının kararlaştırıldığını, ödeme olarak Arapsuyu 4118/2 parseldeki dairenin verileceği ve bedelinin 140.000,00 TL olarak satılacağının düzenlendiğini, ...' ün......
 
@@ -250,6 +278,8 @@ davalı ... aleyhine açılan ecrimisil davası reddolunduğundan AAÜT uyarınc
 
 ## Yargıtay 5. HD 2021/6828 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657947900)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, uyulan bozma kararı gereğince inceleme ve işlem yapılarak hüküm kurulmuş; karar, davacılar vekili ve davalı B.. B.. vekilince temyiz edilmiştir.
@@ -261,6 +291,8 @@ Yapılan incelemede; mahkemece verilen ilk kararda,davalılardan O.. B..ı hakk�
 Davacılar vekili ve davalı B.. B.. vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 8. HD 2021/2737 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666219100)
 
 Davacı vekili; ... ili, Merkez ilçesi, 623 ada, 16 parsel sayılı taşınmazın müvekkiline ait olduğunu, davalıların, müvekkilinin taşınmazının bir kısmını haksız olarak kullandıklarını belirterek, dava konusu taşınmaza vaki elatmalarının önlenmesini istemiştir.
 
@@ -279,6 +311,8 @@ Somut olayda; ziraat ve inşaat bilirkişilerince düzenlenen 21.03.2016 tarihli
 SONUÇ: Yukarıda (1) no’lu bentte açıklanan nedenlerle davalılar vekilinin sair temyiz itirazlarının reddine, (2) no’lu bentte yazılı nedenlerle davalılar vekilinin temyiz itirazlarının kabulü ile, kararın 2. paragrafında bulunan “1.757,55 TL” ibaresinin madde metninden çıkarılarak yerine “1.171,68 TL”, “1.307,35 TL” ibaresinin madde metninden çıkarılarak yerine “721,48 TL” ibarelerinin yazılmasına, kararın 4.paragrafında bulunan “3.087,40 TL” ibaresinin madde metninden çıkarılarak yerine “2.058,29 TL” ibaresinin yazılmasına, 6100 sayılı HMK'nin geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 438/7. maddesi uyarınca hükmün bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 8. HD 2021/2196 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645168400)
 
 Davacılar vekili, davacılara murisleri ... ve ...'dan intikal eden 41 parsel'deki, 2617 metrekarelik alan üzerine kurulu taşınmaz üzerindeki dükkanlardan bir tanesinin müvekkillerinin rızası olmaksızın davalılardan ... Taşımacılık Zirai Aletleri San Tic.Ltd Şti.’ye kullandırıldığını ileri sürerek, elatmanın önlenmesine ve ecrimisile karar verilmesini istemiştir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2017/6014 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/380833400)
+
 Davacılar, ortak mirasbırakanları ...'ın 45 parsel sayılı taşınmazını davalıya temlikine ilişkin ... 1. Asliye Hukuk Mahkemesi'nin 2009/239 Esas sayılı dosyası ile muris muvazaası hukuksal nedenine dayalı olarak açtıkları tapu iptali ve tescil davasının kabul edilerek kararın derecattan geçmek suretiyle kesinleştiğini, taşınmazın davalı tarafından tek başına kullanıldığını ileri sürerek, paya yönelik elatmanın önlenmesi ile murisin ölüm tarihi ile dava tarihi arası dönem için 5.000,00.-TL ecrimisilin davalıdan tahsilini istemişlerdir.
 
 Davalı, davanın reddini savunmuştur.
@@ -37,6 +39,8 @@ Dava, ecrimisil ve elatmanın önlenmesi istemine ilişkindir.
 Hemen belirtilmelidir ki, muris muvazaası hukuksal nedenine dayalı dava sonucunda verilen iptal kararları yenilik doğurucu değil açıklayıcı nitelik taşıdıkları için murisin ölüm tarihi itibariyle hüküm ve sonuçlarını doğuracağı; başka bir ifadeyle, davacının mirasçılıktan kaynaklanan mülkiyet hakkının murisin ölümüyle oluşacağı tartışmasızdır. Somut olayda da mahkemece murisin ölüm tarihi ile dava tarihi arasındaki dönem için ecrimisile hükmedildiği anlaşıldığına göre, yazılı olduğu üzere hüküm kurulmasında bir isabetsizlik yoktur. Davalının temyiz itirazları yerinde değildir.
 
 ## Yargıtay 17. HD 2017/2587 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/323541000)
 
 Davacılar vekili, ........2010 tarihinde vefat eden müvekkillerinin murisi ...’in mirasçılarından mal kaçırmak amacıyla adına kayıtlı...plakalı ticari taksiyi ........2009 tarihinde torunu davalı ...’e sattığını, satış işleminin eş ve kız çocuklarından mal kaçırma amacıyla yapıldığını belirterek satış işleminin iptali ile aracın trafik kaydının iptaline, miras hisseleri oranında davacılar adına tesciline, ....000 TL ecrimisil alacağının yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -54,6 +58,8 @@ Mahkemenin kabul gerekçesinde belirttiği ........1974 tarih ve .../... Sayıl�
 
 ## Yargıtay 1. HD 2016/2469 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203845500)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -66,6 +72,8 @@ Dahili davalı ... vekilinin temyiz itirazları açıklanan nedenlerden ötürü
 
 ## Yargıtay 1. HD 2015/15173 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390774400)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -75,6 +83,8 @@ Bilindiği üzere ecrimisil kötüniyetli zilyedin malike ödemekle yükümlü o
 Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/14006 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/156358900)
 
 Mahkemece, eksik temyiz harcı ve posta masraflarının yedi gün içinde yatırılması için davalı vekiline muhtıra tebliğ edilmiş, verilen süre içerisinde davalı vekilinin temyiz harç ve masraflarını yatırmadığı gerekçesiyle 10.09.2013 tarihli ek karar ile davalının temyiz hakkından vazgeçmiş sayılmasına karar verilmiştir.
 
@@ -94,6 +104,8 @@ Davalı vekilinin temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan
 
 ## Yargıtay 1. HD 2015/12106 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139222500)
+
 Davanın kabulüne ilişkin olarak verilen son karar, Dairece; “mirasbırakanın yapmış olduğu temliklerin mirasçıdan mal kaçırma amaçlı ve muvazaalı olduğu belirlenmek ve benimsenmek suretiyle, taşınmazların el değiştirmesi nedeniyle ve hükmüne uyulan bozma ilamından sonra, davalılar A. S. ve S.
 V. aleyhindeki gerek ecrimisil ve gerekse taşınmazların satışından kaynaklanan bedel istemleri yönünden davaların kısmen kabul edilmiş olmasında kural olarak bir isabetsizlik bulunmadığı, ne var ki her bir davalının edindiği bağımsız bölümlerin satış nedeniyle edindikleri kazanımlarda davacıların miras paylarının bulunduğu ve bu oranda davacılara karşı sorumlu olacakları, davalıların taşınmazları elden çıkardıkları tarih itibariyle mevcut nitelikleri gözetilerek belirlenecek gerçek değerin, tazminat hesabına esas alınması gerektiği, ecrimisil hesabında murisin ölüm tarihi ve taşınmazların dava dışı kişiye temlik edildiği tarihin nazara alınması, ayrıca davalıların ecrimisilden davacıların miras payları oranında müstakilen sorumlu olacaklarının nazara alınmamasının doğru olmadığı” gerekçeleriyle bozulmuş, mahkemece bozma kararına uyularak yapılan yargılama sonunda asıl ve birleşen davanın kısmen kabulüne karar verilmiştir.
 
@@ -102,6 +114,8 @@ V. aleyhindeki gerek ecrimisil ve gerekse taşınmazların satışından kaynakl
 Davacılar ve bir kısım davalıların temyiz itirazı açıklanan nedenlerle yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü(6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/10874 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139827600)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -114,6 +128,8 @@ Taraf vekillerinin temyiz itirazları yerindedir. Kabulüyle hükmün belirtilen
 
 ## Yargıtay 1. HD 2015/9063 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141322000)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -125,6 +141,8 @@ Hemen belirtilmelidir ki, TMK'nın 599. maddesine göre; mirasbırakanın ölüm
 Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedene hasren (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 20. HD 2015/5617 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/137931100)
 
 Davacı Y.. B.. 71 sayılı parselin tamamının kendisine ait olduğu, 55 sayılı parselin murisi A..
 
@@ -144,6 +162,8 @@ Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak 
 
 ## Yargıtay 1. HD 2015/5568 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139632100)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -155,6 +175,8 @@ Ne var ki; çekişme konusu taşınmazda davacılar murislerinin payı üzerinde
 Davalıların temyiz itirazları belirtilen nedenlerle yerindedir. Kabulüyle, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/20225 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/338515300)
 
 Dava; ecrimisil isteğine ilişkindir.
 
@@ -170,6 +192,8 @@ Davalıların temyiz itirazları belirtilen nedenlerle yerindedir. Kabulüyle h�
 
 ## Yargıtay 1. HD 2014/19307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/301475000)
+
 Davacı tereke temsilcisi, dava konusu 4212 ada 7 parsel sayılı taşınmazın paydaşı olan muris ... ile davalı ... arasında düzenlenen ... 16. Noterliğinin 22/09/2008 gün ve 410461 nolu kira sözleşmesinin, murisin hukuki ehliyeti haiz olmadığının ...
 
 …
@@ -184,6 +208,8 @@ Hal böyle olunca, normal koşullarda kira sözleşmesi yapılırken karşısın
 
 ## Yargıtay 1. HD 2014/15500 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84227900)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -193,6 +219,8 @@ Hal böyle olunca davacı tarafa taşınmazdaki pay-payda uyumsuzluğunu giderme
 Davalının bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/14300 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84434000)
 
 Dava; paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -207,6 +235,8 @@ O halde davacıların murisinin ölüm tarihinden (28.02.2009) dava tarihine (03
 Davacılar vekilinin bu yönlere değinen temyiz itirazı yerindedir. Kabulüyle hükmün açıklanan nedene hasren (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/13854 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/287742600)
 
 Davacılar; muris muvazaası hukuksal nedenine dayalı açılan tapu iptali ve tescil davasının ... 3.Asliye Hukuk Mahkemesinin 2010/1040E-2011/137K sayılı kararıyla kabul edilerek 2 ada 33 (yeni 12036 ada 270) parsel sayılı taşınmazın mirasbırakan ...'ın tüm mirasçıları adlarına tesciline karar verildiğini, temyiz incelemesinden geçerek 21.02.2012 tarihinde kesinleştiğini, taşınmazın muvazaalı temlikten bu yana davalı tarafından kullanıldığını, 16.09.2009 tarihinde davalı aleyhine elatmanın önlenmesi ve ecrimisil isteğiyle açtıkları davanın ... 4.Asliye Hukuk Mahkemesinin 31.12.2012 gün 2009/571E-2012/606K sayılı ilamıyla tapu iptali ve tescil davası kesinleşmeden dava açılamayacağı gerekçesiyle reddedildiğini, temyiz edilmeksizin 08.04.2013 tarihinde kesinleştiğini ileri sürerek 16.09.2004 ila 16.09.2009 dönem aralığı için ecrimisil isteğinde bulunmuşlardır …
 
@@ -226,6 +256,8 @@ Bu durumda davanın reddi, kesin hüküm nedeni ile ve sonucu itibariyle doğrud
 
 ## Yargıtay 1. HD 2014/10795 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84160700)
+
 Dava, paylı mülkiyette paydaşlar arasındaki ecrimisil isteğine ilişkindir.
 
 …
@@ -239,6 +271,8 @@ Nevar ki, miras bırakan 06.11.1998 tarihinde ölmüş olup eldeki dava ise 12.0
 Davalı vekilinin, bu yöne değinen temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/10676 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84277500)
 
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
@@ -254,6 +288,8 @@ Davalının temyiz itirazları açıklanan yön itibariyle yerindedir. Kabulü i
 
 ## Yargıtay 1. HD 2014/9686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84246200)
+
 Dava, paylı mülkiyette paydaşlar arasındaki ecrimisil isteğine ilişkindir.
 
 …
@@ -265,6 +301,8 @@ O halde davacıların murisinin ölüm tarihinden dava tarihine kadar olan döne
 Davacılar vekilinin bu yönlere değinen temyiz itirazı yerindedir. Kabulüyle hükmün açıklanan nedene hasren (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/18446 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257274800)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -278,6 +316,8 @@ Davalıların temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan ne
 
 ## Yargıtay 1. HD 2013/14550 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79636000)
+
 Hemen belirtmek gerekir ki, ecrimisil isteği ile davalı A.S. bakımından Dairenin onama kararında bir isabetsizlik bulunmadığı gibi, birleşen dava yönünden verilen bozma kararında da bir isabetsizlik yoktur. Ne var ki; çekişmeye konu 1 nolu bağımsız bölümün tapuda davacılar ile davalı A.'in miras bırakanı olan A.S.adına kayıtlı olduğu, murisin 24.11.2002 tarihinde öldüğü, geride mirasçı olarak davacılar, davalı A.ile dava dışı çocukları N. B.H. S.ile torunları İ. S. İ. S.ve İ.S.'ın kaldıkları, miras bırakan A. S.'ın sağlığında dava konusu yeri 01.02.2001 düzenleme ve başlangıç tarihli, 5 yıllık yazılı kira sözleşmesi ile davalı M. G.'e kiraya verdiği anlaşılmaktadır.
 
 Bu durumda, taşınmazı kiraya veren murisin ölümü ile davacı mirasçıların külli halefiyet yolu ile anılan kira sözleşmesi ile bağlı oldukları ve bu kira sözleşmesinden doğan hak ve yükümlülüklerin kendileri ile birlikte diğer mirasçılara geçtiği kuşkusuzdur.
@@ -287,6 +327,8 @@ Bu durumda, taşınmazı kiraya veren murisin ölümü ile davacı mirasçılar�
 Davalı M.G.in karar düzeltme isteği bu sebeple yerindedir. Kabulüyle, Dairemizin 20.02.2013 tarihli, 2013/331 Esas, 2013/2274 sayılı kararının onanan bölümünün bu yönlerden ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 3. HD 2012/25190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482675400)
 
 Davacı vekili dilekçesinde; davacının davalılardan ... ile kardeş olduğu, diğer davalıların ise ...’in oğulları olduğunu, dava konusu edilen bir kısım taşınmazların satış yoluyla davalılar üzerine geçirilmesi nedeniyle açılan muris muvazası nedeniyle tapu iptali tescil davalarının davacı lehine sonuçlandığı, bir kısım taşınmazların ise muris adına kayıtlı olduğunu belirterek, davacının da hissesi olduğu halde murisin ölümünden önce de sonrasında da davalılar tarafından kullanıldığını belirterek 54 adedi ... Köyünde bir tanesi de ... Köyünde bulunan toplam 55 adet taşınmazın haksız işgal nedeniyle dava tarihinden geriye 5 yıllık 35.546,73 TL ecrimisilin davalılardan tahsilini talep etmiştir.Davalılar vekili cevabında; intifadan men’in gerçekleşmediği ve davalıların kötüniyeti olmadığını savunarak davanın reddini dilemiştir.Mahkemece; ...
 

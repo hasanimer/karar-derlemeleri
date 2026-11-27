@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2021/358 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636973200)
+
 Davacı vekili, dava konusu 27 ada 129 parsel sayılı taşınmazın 12/96 hisse maliki Kigork kızı Annik yönünden 3561 sayılı Yasa gereği Sarıyer 1. Sulh Hukuk Mahkemesinin 06.08.2008 tarihli ve 2008/43 Esas, 2008/737 Karar sayılı kararı ile mahallin en büyük mal memuru İstanbul Defterdarının Kayyım tayin edildiğini, taşınmazın 450,00 m2'lik kısmının davalı tarafından konut ve bahçe olarak işgal edildiğini öne sürerek 01.01.2009-30.09.2014 tarihleri arasına ilişkin olarak 8.025,00 TL ecrimisilin yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 Davalı, davanın reddine karar verilmesi gerektiğini savunmuştur.
@@ -39,6 +41,8 @@ Kabule göre de, 28.06.2016 tarihli kısa kararda hüküm altına alınan ecrimi
 SONUÇ: Yukarıda, (1) nolu bentte açıklanan nedenlerle davalı vekilinin sair temyiz itirazlarının REDDİNE, (2) nolu bentte açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollaması ile HUMK’un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/348 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635039200)
 
 Davacı vekili, müvekkilinin paydaşı olduğu dava konusu taşınmazın davalı tarafından kullanıldığını ileri sürerek dava tarihinden geriye dönük 5 yıl için, fazlaya dair hakları saklı kalmak kaydıyla 10.000 TL ecrimisilin davalıdan tahsiline karar verilmesini istemiştir.
 
@@ -58,6 +62,8 @@ SONUÇ : Temyiz olunan kararın yukarıda (2) no’lu bentte gösterilen nedenle
 
 ## Yargıtay 8. HD 2020/7526 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/625352300)
+
 Davalı vekili, davanın reddini savunmuştur.
 
 Mahkemece, davacının 3/20 hissesinin bulunduğu 1618 ada 322 parselde bulunan binaların davalı şirket tarafından kullanıldığı anlaşıldığından, dava dilekçesi ve ıslah dilekçesi nazara alınarak açılan davanın kabulü ile; 49.695,00 TL ecrimisilin davalıdan alınıp davacıya verilmesine, 10.000,00TL’ye dava tarihinden itibaren, 39.695,00 TL’ye ıslah tarihi olan 08.02.2016 tarihinden itibaren yasal faiz işletilmesine karar verilmiştir. Hüküm, davalı vekili tarafından temyiz edilmiştir.
@@ -72,6 +78,8 @@ Eksik inceleme ve yetersiz bilirkişi raporu ile yetinilerek sonuca gidilmiş ol
 SONUÇ: Davalı vekilinin temyiz itirazları yukarıda 2. bentte gösterilen sebeplerle yerinde görüldüğünden kabulü ile hükmün 6100 sayılı HMK'nin Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/6653 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622421800)
 
 Davacı vekili, davalı tarafından kamulaştırmasız elatılan 284 ada 1 parsel sayılı taşınmaza ilişkin olarak Denizli 4. Asliye Hukuk Mahkemesinin 2012/360 Esas, 2015/473 Karar sayılı dosyasında dava açıldığını, mahkemece mahallinde yapılan keşifte elatmanın tespit edildiğini, yargılama devam ederken belediyenin elatmaya son verdiğini, anılan mahkemenin 02.07.2015 tarihli kararıyla elatmanın vuku bulduğunun belirtildiğini, el atma sona erdiğinden davanın reddine karar verildiğini, belediyenin elattığı döneme ilişkin ecrimisil isteme haklarının bulunduğunu ileri sürerek fazlaya ilişkin hakları saklı kalmak kaydıyla son 5 yıla ilişkin 20.000,00 TL ecrimisilin dava tarihinden itibaren işleyecek yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir. 18.04.2016 tarihinde bilirkişi raporuna göre davasını 24.612,00 TL üzerinden ıslah etmiştir.
 
@@ -91,6 +99,8 @@ SONUÇ: Davalı vekilinin yukarıda belirtilen temyiz itirazları yerinde görü
 
 ## Yargıtay 8. HD 2020/4390 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/591854200)
+
 Davalı vekili, davanın reddini savunmuş, %40 tazminatın davacıdan tahsilini talep etmiştir.
 
 Mahkemece, davanın kısmen kabulüyle, davacının İzmir 15. İcra Müdürlüğünün 2010/16031 Esas sayılı dosyasındaki takip miktarı yönünden 1.485,25 TL'lik bölüm için borçlu olmadığının tespiti ile; takibin bu miktarda sınırlı kalarak iptaline; takibe konu alacağın 20.979,75 TL lik bölümüne ilişkin istek yönünden davanın reddi ile takip teminat ile durdurulmuş olduğundan bu tutar üzerinden %20 tazminatın (4.195,95 TL) kararın kesinleşmesinden sonra davacıdan alınarak davalıya ödenmesine, davacının tazminat isteğinin reddine karar verilmiştir.
@@ -109,6 +119,8 @@ SONUÇ: Davacı vekilinin temyiz itirazları yukarıda 2. bentte gösterilen seb
 
 ## Yargıtay 8. HD 2020/3877 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598292700)
+
 Davacı vekili, vekil edeninin dava konusu taşınmazda 1/4 paydaş olduğunu, davalının bu taşınmazı diğer paydaşların payı ile birlikte kiraya vermek suretiyle kullandığını ve vekil edenine herhangi bir bedel ödemediğini açıklayarak, 2006-2011 dönemlerine ilişkin olarak 13.600 TL ecrimisilin davalıdan alınmasına karar verilmesini istemiştir.
 
 Davalı vekili, vekil edeninin, dava konusu taşınmazın paydaşlarından Samiye’nin eşi olduğunu, taşınmazın diğer paydaşı Seviye’nin 1/4 payı ile eşi Samiye’nin 1/4 payını kiraya verdiğini, davacı ... ile diğer paydaş Kevser’in paylarına ilişkin bir tasarrufunun olmadığını beyanla davanın reddini savunmuştur.
@@ -125,6 +137,8 @@ alan, davalının eşi Samiye’nin payı ve davacı payı ve müktesep haklar d
 SONUÇ: Açıklanan nedenlerle, davalı vekilinin temyiz itirazları yerinde olduğundan kabulü ile Yerel Mahkeme hükmünün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/3144 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645764300)
 
 Davacı vekili, davacıya ait taşınmaza 6. Jandarma Tabur Komutanlığı tarafından 1994 yılından beri müdahale edildiğini, bu nedenle fazlaya ilişkin haklar saklı kalmak kaydı ile şimdilik 10.000 TL ecrimisilin yasal faizi ile davalıdan tahsili talep etmiştir. Davacı vekili talebini 100.300TL olarak ıslah ettiğini beyan etmiştir.
 
@@ -146,6 +160,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin ve davalı vekilinin
 
 ## Yargıtay 8. HD 2018/18861 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463254300)
+
 Davacı dava dilekçesinde, davalı ile birlikte paydaş oldukları dava konusu taşınmazların davalı tarafından kullanıldığını belirterek, geriye dönük beş yıllık ecrimisil talebinde bulunmuştur.
 
 Davalı, cevap dilekçesi sunmamıştır.
@@ -164,6 +180,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle davalının temyiz itirazları yerinde o
 
 ## Yargıtay 8. HD 2018/16223 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454627800)
+
 Davacılar dilekçelerinde, maliki oldukları ... ada ... numaralı parselin davalı ... tarafından kamulaştırmasız elatılarak bir kısmına asfalt yol ve kaldırım yapılması nedeniyle geriye dönük beş yıllık ecrimisil talep etmişlerdir.
 
 Davalı cevabında, dava konusu yerin 1985 yılından beri bu şekilde kullanıldığını, kendilerinin yeni bir kamulaştırma yapmadıklarını, husumetin kendilerine yöneltilemeyeceğini, davacıların kötü niyetli olduğunu belirterek davanın reddini istemiştir.
@@ -181,6 +199,8 @@ Hal böyle olunca; mahkemece, yeniden konusunda uzman bilirkişi kurulu eşliği
 SONUÇ: Yukarıda açıklanan nedenlerle davacıların temyiz itirazları yerinde olduğundan kabulü ile usul ve kanuna aykırı bulunan hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nin 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/15964 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461683000)
 
 Davacılar vekili, tarafların ortak mirasbırakanı adına kayıtlı 845 ada 85 parselde kayıtlı 1/A numaralı bağımsız bölüm, 816 ada 30 parselde 8 ve 10 numaralı bağımsız bölümlerin diğer hissedarların muvafakatı olmaksızın davalının kullanımında olduğunu ileri sürerek 8.2.2010 tarihinden itibaren hesaplanacak ecrimisil tutarından şimdilik 5000 TL'nin davalıdan tahsili ile miras hisseleri oranında davacılara ödenmesini istemiş, 27.8.2014 tarihli dilekçesi ile talebini 43.179,17 TL olarak ıslah etmiştir.
 
@@ -203,6 +223,8 @@ SONUÇ: Dahili davalılar vekilinin temyiz itirazları açıklanan nedenlerle ye
 
 ## Yargıtay 8. HD 2018/15582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451654200)
+
 Davacı vekili, tarafların paydaşı olduğu ... parsel sayılı taşınmazın vekil edenlerine ait olan kısmı ile birlikte haklı bir neden olmaksızın davalı tarafından kullanıldığını ileri sürerek fazlaya ilişkin hakları saklı kalmak kaydı ile, dava tarihinden geriye doğru olmak üzere, son 5 yıldaki fuzuli kullanım karşılığında şimdilik 10.000TL ecrimisil bedelinin dönem dönem ve her dönem için işgal tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini istemiştir.
 
 Davalı vekili, davanın reddine karar verilmesini savunmuştur.
@@ -221,6 +243,8 @@ SONUÇ: Davalı vekilinin temyiz itirazları açıklanan nedenlerle yerinde oldu
 
 ## Yargıtay 1. HD 2017/2988 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359281000)
+
 Davacı, 21.12.2009 tarihinde ½ pay maliki olduğu 3567 parsel sayılı taşınmazın bakiye payını da 28.03.2013 tarihinde Hazineden ihale suretiyle satın alarak tamamına malik olduğunu, ancak sözkonusu yeri 2005 yılından bu yana davalının hiçbir hakkı olmadığı halde işgal ederek tasarruf ettiğini, 03.05.2013 tarihinde noter kanalı ile ihtar keşide ettiğini, verilen cevabi ihtarda; kullanım sebebi ile Hazineye ecrimisil ödendiğini ve borçlarının olmadığını bildirdiklerini, halbuki o dönem itibariyle taşınmazın tamamının Hazine'ye ait olmaması sebebi ile payı kadar ecrimisil ödenmiş olabileceğini ileri sürerek, şimdilik 21.12.2009 tarihinden dava tarihine kadar 80.000,00 TL crimisilin kademeli faizi ile birlikte tahsiline karar verilmesini istemiş, yargılama sırasında ecrimisil miktarını ıslahla 114.849,75 TL'ye yükseltmiştir.
 
 Davalı, iddiaların gerçeği yansıtmadığını, dava konusu taşınmazın Hazine'ye ait bölümünü kullanıp bunun için de ecrimisil ödediğini, haksız işgalci olmadığını, davacının payı satın aldığı tarihten, ihtar gönderdiği tarihe kadar da bir talebinin olmadığını, kaldı ki istenen ecrimisilin de fahiş olduğunu belirterek davanın reddini savunmuştur.
@@ -238,6 +262,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 5. HD 2016/17956 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/270399600)
+
 Dava, ecrimisil bedelinin tahsili istemine ilişkindir.
 
 …
@@ -251,6 +277,8 @@ Bu itibarla, arsalarda ecrimisile hükmedilebilmesi için taşınmazın bulundu�
 Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/6652 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/229624200)
 
 Davacı ... asıl ve birleştirilen 2011/324 Esas sayılı davalarda maliki olduğu 20458 parsel sayılı taşınmazın mesken nitelikli 15 nolu bağımsız bölümünü davalının haksız yere işgal ettiğini, uyarılarının sonuç vermediğini, taşınmazdan yararlanamadığını ve gelir elde edemediğini ileri sürerek, elatmanın önlenmesi ve tahliyeye, ayrıca işgalin gerçekleştiği 01.09.2010 tarihinden itibaren ecrimisile karar verilmesini istemiş, aleyhine açılan ve birleştirilen 2010/689 Esas sayılı davada ise davacı ... ile taşınmazın .satışı konusunda emlakçıda adi sözleşme yapıldığı ve davacının 30.000.-TL verip karşılığında senet aldığının doğru olduğunu, ancak ..in kalan bedeli ödemeyerek temerrüde düştüğünü, sözleşmenin geçerliliğini yitirdiğini, buna rağmen taşınmaza anahtar uydurarak haksız yere işgal ettiğini, masraf yaptığının doğru olmadığını, taşınmaza girmesine muvafakati olmadığı gibi tadilat yaptırmasına da muvafakatinin bulunmadığını belirterek birleşen davanın reddini savunmuş, ayrıca takas mahsup talebinde bulunmuştur.
 
@@ -268,6 +296,8 @@ Kabul tarzi itibariyle de, yargılama sırasında ölen davalı-birleştirilen d
 Dahili davalılar-birleştirilen davada dahili davacılar (... mirasçıları) vekilinin temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/5825 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205537700)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2015/8686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141401800)
+
 Dava, elatmanın önlenmesi, binanın projeye uygun hale getirilmesi ve ecrimisil isteklerine ilişkindir.
 
 Davacı, kayden malik olduğu 200 ada 30 parsel sayılı taşınmazdaki bir kısım payını, noterde düzenlenen 03.05.1994 tarihli kat karşılığı inşaat sözleşmesi ile kendisine bir daire ve eklentilerinin verilmesi koşuluyla davalıya devrettiğini, sözleşme gereği dairesinin verildiğini, ancak yapılan inşaatın projeye aykırı olduğunu, ortak alanları kullanmasına davalının engel olduğunu ve bu yerleri kiraya vererek gelir elde ettiğini ileri sürerek elatmanın önlenmesine, binanın projeye uygun hale getirilmesine, şimdilik işgal tarihinden itibaren 1.000.-TL ecrimisilin davalıdan tahsiline karar verilmesini istemiş, bozma ilamından önce yargılama sırasında ıslahla ecrimisil miktarını 6.644,16.-TL'ye yükseltmiştir.
@@ -38,6 +40,8 @@ Davalı vekilinin temyiz itirazları yerindedir. Kabulü ile hükmün belirtilen
 
 ## Yargıtay 20. HD 2015/8534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/133093100)
+
 Dava, elatmanın önlenmesi ve zilyetliğin korunması istemine ilişkindir.
 
 …
@@ -46,6 +50,8 @@ Somut olayda; davanın 6100 sayılı HMK’nın yürürlüğe girdiği 01.10.201
 
 ## Yargıtay 18. HD 2015/6822 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/189525400)
+
 Islah talebi bulunmadığı halde ıslah talebi varmış gibi bilirkişi raporunda tespit edilen miktara hükmedilmesi ve 2942 sayılı Kamulaştırma Kanununun 6487 sayılı Kanunla değiştirilen Geçici 6.maddesinin 12. ve 13. fıkraları 13.03.2015 tarihli Resmi Gazete'de yayımlanan Anayasa Mahkemesinin 13.11.2014 tarih, 2013/95-2014/176 sayılı kararıyla iptal edildiğinden; 04.11.1983 tarihinden sonra kamulaştırmasız el atma nedeniyle açılan davalarda, mahkeme ve icra harçları ile her türlü vekalet ücretinin nispi olarak uygulanacağı gözetilerek kararın bu nedenle bozulması gerektiği bu kez yapılan incelemeden anlaşıldığından; taraf vekillerinin karar düzeltme isteminin yukarıda açıklanan nedenle kabulüne Dairenin 30.06.2014 gün ve 2014/397-2014/11712 sayılı onama kararının kaldırılmasına karar verildikten sonra dosyadaki bilgi ve belgelerin yeniden incelenmesi sonucunda;
 
 …
@@ -53,6 +59,8 @@ Islah talebi bulunmadığı halde ıslah talebi varmış gibi bilirkişi raporun
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2015/5556 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149655400)
 
 Dava, kamulaştırmasız el atılarak enerji nakil hattı geçirilen taşınmazın irtifak hakkı karşılığının tahsili istemine ilişkindir.
 
@@ -65,6 +73,8 @@ Mahkemece, uyulan bozma kararı gereğince inceleme ve işlem yapılarak hüküm
 Taraf vekillerinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2015/5138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/122457100)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -82,6 +92,8 @@ Davacı vekili ile davalı vekilinin temyiz itirazları yerindedir. Kabulü ile 
 
 ## Yargıtay 1. HD 2015/4167 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119494500)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davacılar, mirasbırakanın paydaşı bulunduğu 2 parsel sayılı taşınmazı ve üzerindeki binayı davalının uzun süredir haksız olarak kullandığını ileri sürerek elatmanın önlenmesi ve ecrimisile karar verilmesini istemişlerdir.
@@ -98,6 +110,8 @@ Davalının temyiz itirazları değinilen yönler itibariyle yerindedir. Kabulü
 
 ## Yargıtay 8. HD 2015/3922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/157804500)
+
 Mahkemece; takibe dayanak .
 
 …
@@ -111,6 +125,8 @@ Takibe dayanak ilamda, karar tarihindeki tarifeye göre hesap ve takdir olunan 2
 SONUÇ: Borçlu vekilinin temyiz itirazlarının kabulü ile Mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca BOZULMASINA …
 
 ## Yargıtay 14. HD 2015/2604 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/178128300)
 
 Dava, elatmanın önlenmesi ve kal isteğine ilişkindir.
 
@@ -127,6 +143,8 @@ Elatmanın önlenmesi ve kal davası yönünden, dava değeri olarak sadece bina
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin diğer temyiz itirazlarının reddine, (2) numaralı bent uyarınca temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/989 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119931600)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -146,6 +164,8 @@ Davacı vekilinin temyiz itirazları açıklanan nedenden ötürü yerindedir. K
 
 ## Yargıtay 18. HD 2015/749 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/186835000)
+
 Davacı vekili dava dilekçesinde, davalı ile aynı sitede dubleks mesken nitelikli bağımsız bölüm maliki olduklarını, davalının yerleşim planı, mimari proje ve Kat Mülkiyeti Yasası'na aykırı olarak bağımsız bölümünde eklentiler yaptığını, ortak alan bahçede imalatlar yaparak kameriye ve eklentiler, şelale, demir kapı ve duvarlar, beton ve kayrak yürüyüş yolu, depo, kendine ait garaj girişi vs. oluşturduğunu, böylece ortak yerlere müdahale ettiğini ileri sürerek yapılan müdahalelerin engellenmesi ile projeye aykırı imalatların sökülerek eski hale getirilmesini istemiş, mahkemece kat maliklerinin 4/5 çoğunluğunu sağlayan muvafakat işlemi geçerli olsa dahi yapılan imalatların Kat Mülkiyeti Kanunu'nun 19.maddesi kapsamında değerlendirilemeyeceği, davalının site içinde kendi kullanımına münhasır alan oluşturmasının davacının arsa payı oranında ortak alandan faydalanmasını engellediği, yapılan imalatların mimari proje ve vaziyet planı değişikliğine yol açan imalatlar olup bu değişikliklerin yapılmasının kat maliklerinin oybirliğiyle karar almalarına bağlı olduğu gerekçesiyle davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -161,6 +181,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/483 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/186892900)
+
 5-11.06.2013 tarihinde yürürlüğe giren 6487 sayılı Yasa ile 2942 sayılı Kamulaştırma Kanununun değiştirilen Geçici 6. maddesinin 7 ve 13. fıkralarında “Bu madde kapsamında açılan davalarda mahkeme ve icra harçları ile her türlü vekalet ücretleri bedel tespiti davalarında öngörülen şekilde maktu olarak belirlenir” ve “Bu fıkra hükmü, bu fıkra kapsamında kalan taşınmazlar hakkında açılan ve kesinleşmeyen davalarda da uygulanır.” hükmü getirildiğinden hükmedilen kamulaştırmasız el atma bedeli yönünden maktu vekalet ücretine hükmedilmesi gerektiğinin düşünülmemesi, …
 
 …
@@ -168,6 +190,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2014/19913 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/301971700)
 
 Dava kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -183,6 +207,8 @@ Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2014/17203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96375900)
+
 Dava, kamulaştırmasız el atmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
 Mahkemece, İ.. M.. hakkındaki davanın husumetten reddine, K..
@@ -196,6 +222,8 @@ Davanın niteliği gereği; dava konusu taşınmazın kamulaştırmasız el atı
 Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2014/12055 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/302036400)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -211,6 +239,8 @@ Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 1. HD 2014/10823 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84154700)
+
 Ne var ki, bozma ilamında elatmanın önlenmesi isteği yönünden harçlandırma yapılmadığı saptanmak suretiyle önceki karar bozulmuş, bozma sonrası davacı- karşı davalı 30.09.2013 havale tarihli dilekçesi ile kiraya verilmek suretiyle tasarruf edilen yapı (bilirkişi raporunda A harfi ile gösterilen) bakımından elatmanın önlenmesi ve ecrimisil isteklerinden feragat ettiğini bildirerek bilirkişi krokisinde B harfi ile gösterilen yapı bakımından tamamlama harcı yatırmış olduğuna göre, elatmanın önlenmesi isteğine ilişkin bilirkişi krokisinde A ile gösterilen yapı yönünden usulünce açılmış ve harçlandırılmış bir davadan söz etme imkanı bulunmamaktadır. Bu durumda A harfi ile gösterilen yapıya ilişkin elatamanın önlenmesi yönünden karar verilmiş ve davalı – karşı davacı yararına vekalet ücretine hükmedilmiş olması doğru değildir.
 
 Hal böyle olunca, bilirkişi raporunda A harfi ile gösterilen yapıya ilişkin sadece ecrimisil isteği yönünden feragat nedeniyle davanın reddine ve davalı-karşı davacı yararına Avukatlık Ücret Tarifesinin 6 ve 12/2 maddeleri gözetilerek vekalet ücretine hükmedilmesi gerekirken, yanılgılı değerlendime ile yazılı şekilde karar verilmiş olması doğru değildir.
@@ -218,6 +248,8 @@ Hal böyle olunca, bilirkişi raporunda A harfi ile gösterilen yapıya ilişkin
 Davacı-karşı davalının temyiz itirazları bu nedenle yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/10647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918360100)
 
 Davacılar, kayden maliki oldukları 7305 parsel sayılı taşınmazdaki 60 nolu bağımsız bölümü davalının haksız biçimde kullandığını ileri sürerek, elatmanın önlenmesine ve ecrimisile karar verilmesini istemişlerdir.
 
@@ -232,6 +264,8 @@ Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal g
 
 ## Yargıtay 17. HD 2014/8131 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/371459000)
+
 Dava, ortak alana haksız yere müdahale edildiği iddiasına dayalı kal, ecrimisil ve eski hale getirme istemine ilişkindir.
 
 …
@@ -239,6 +273,8 @@ Dava, ortak alana haksız yere müdahale edildiği iddiasına dayalı kal, ecrim
 Somut uyuşmazlıkta, kat mülkiyeti kurulmuş olan ana taşınmaz üzerinde ve tarafların miras bırakanına ait arsa payı içinde(ortak alanda) bulunan bir katlı kargir atölye binasına davalı tarafından haksız müdahale edildiği, yıkılarak üzerine tek katlı kargir bir katlı mesken yapıldığı iddiasıyla kal ve ecrimisil talep edilmiştir. Ecrimisil ve kal davasının Kat Mülkiyeti Yasası'nın uygulanmasından kaynaklanmadığı, anılan yasa maddesi hükmünün bu istem yönünden uygulama olanağı bulunmadığından , davanın genel hükümlere göre sonuçlandırılması gerekir . O halde davanın açıldığı tarihte yürürlükte bulunan 1086 sayılı HUMK ‘na göre görevli mahkeme dava değerine göre belirlenecektir. Dava dilekçesinde dava değerinin 6500,00 TL olarak belirtilmesine göre, dava değeri 2008 yılı görev sınırı olan 3740, 00 Tl ‘nin üzerinde kaldığından, uyuşmazlığın Asliye Hukuk Mahkemesinde görülüp, sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 1. HD 2014/7621 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84308000)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -250,6 +286,8 @@ Elatmanın önlenmesi ve ecrimisil davalarında harç ve vekalet ücretine elat�
 
 ## Yargıtay 14. HD 2014/7098 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/356308800)
+
 Mahkemece, asıl davanın kabulüne, birleştirilen davanın reddine karar verilmiştir.
 
 …
@@ -259,6 +297,8 @@ Mahkemece, asıl davanın kabulüne, birleştirilen davanın reddine karar veril
 SONUÇ: Yukarıda .... bentte açıklanan nedenlerle davalılar vekilinin diğer temyiz itirazlarının reddine, .... bent uyarınca hüküm fıkrasının dördüncü bendinde yer alan “ ....549,...” rakamının hüküm sonucundan çıkarılarak bunun yerine “....207,65" rakamının yazılmasına, bu bendin sonuna “...,64 TL fazla alınan harcın davacıya iadesine” cümlesinin eklenmesine, hüküm fıkrasının beşinci bendinde yer alan “....721,48” rakamının hüküm sonucundan çıkarılarak bunun yerine “....121,48" rakamının yazılmasına, aynı bentte yer alan “994,05” rakamının hüküm sonucundan çıkartılarak yerine “971,41” rakamının yazılmasına, hükmün HUMK'nun 438/.... maddesi gereğince DEĞİŞTİRİLMİŞ ve DÜZELTİLMİŞ bu şekliyle ONANMASINA …
 
 ## Yargıtay 14. HD 2014/6417 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355252600)
 
 Mahkemece, asıl davada elatmanın önlenmesi isteminin kabulüne, haksız işgal tazminatına yönelik istemin reddine, karşı davada ise temliken tescil isteminin reddine, tazminat isteminin kabulü ile 80.910 TL ağaç bedelinin dava tarihinden itibaren işleyecek yasal faizi ile davacı-karşı davalıdan tahsiline karar verilmiştir.
 
@@ -271,6 +311,8 @@ Somut olayda; mahkemece, dava konusu 625 parsel sayılı taşınmaza yönelik ol
 SONUÇ:Yukarıda .... bentte açıklanan nedenlerle karar düzeltme isteminin reddine, .... bentte açıklanan nedenlerle kabulü ile hükmün Dairemizin ........2013 tarihli ve 2013/12776 Esas, 15951 Karar sayılı bozma kararında belirtilen bozma gerekçesine ek olarak yukarıda açıklanan gerekçe ile de BOZULMASINA …
 
 ## Yargıtay 14. HD 2014/6007 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/354711900)
 
 Davacı vekili, davalının şeftali ağacı dikmek ve artezyen su kuyusu açmak suretiyle müdahalesinin men'ine, dikilen şeftali ağaçları ile artezyen su kuyusunun kal'ine karar verilmesini talep etmiştir.
 
@@ -287,6 +329,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle davalı-karşı 
 
 ## Yargıtay 1. HD 2014/5528 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/283916000)
+
 Davacı, Dağdöşü köyünde ikamet ettiği sırada 1993 yılında terör sebebi ile köylerinin boşaltıldığını, ancak miras bırakanlarından intikal eden 103 ada 5, 10, 14 ve 16 parsel sayılı taşınmazları kullanmaya devam ettiğini, köy korucusu olan davalıların 1998 yılında haksız yere anılan taşınmazlara yapılaşmak suretiyle müdahale ettiklerini ileri sürerek elatmanın önlenmesine ve 5 yıllık her bir davacı için 6.000,00.-TL olmak üzere toplam 120.000,00.-TL ecrimisilin yasal faizi ile birlikte tahsiline karar verilmesini istemiş, birleştirilen davaların da reddini savunmuştur.
 
 …
@@ -298,6 +342,8 @@ Asıl davada elatmanın önlenmesi ve ecrimisil isteğinin kısmen kabulüne, bi
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davalılar birleştirilen dosyalarda davacıların temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2014/4889 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84128200)
 
 Dava, elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 

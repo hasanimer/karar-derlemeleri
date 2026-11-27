@@ -41,6 +41,8 @@ Davacı vekilinin temyiz itirazlarının 3, 5, 7 ve 9 numaralı bağımsız böl
 
 ## Yargıtay HGK 2021/1084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709860700)
+
 Davacı vekili; dava konusu taşınmazın İzmir 12. İcra Dairesinin 2005/7617 sayılı dosyası üzerinden müvekkiline ihale edildiğini ve ihalenin 06.04.2007 tarihinde kesinleşerek taşınmazın 12.03.2008 tarihinde davacı şirket adına tescil edildiğini, taşınmazda oturan davalının ise yapılan sözlü uyarılara rağmen müvekkili şirketin izin ve muvafakati olmaksızın taşınmazı kullanmaya devam ettiğini, İzmir 27.
 
 …
@@ -65,6 +67,8 @@ Davacı vekilinin temyiz itirazlarının reddi ile sonucu itibariyle doğru olan
 
 ## Yargıtay HGK 2021/802 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685279400)
+
 Davacı vekili dava dilekçesinde; müvekkiline ait 107 ada 27 nolu parselin bitişiğindeki 33 nolu parselde ... Cafe adlı işletmenin bulunduğunu, işletmeyi işleten davalı firmanın müvekkiline ait taşınmazın 590 m2'lik kısmının bir bölümüne asfalt dökmek, bir bölümünü düzlemek suretiyle otoparka çevirerek işgal ettiğini ve 2011 Kasım ayından bu yana 3 yıldır otopark olarak kullandığını ileri sürerek davalının müvekkiline ait 27 parsel sayılı taşınmaza müdahalesinin önlenmesine, Kasım 2011 tarihinden itibaren haksız olarak işgal eden davalıdan şimdilik 21.000TL ecrimisilin kira esasına göre her dönem sonu tahakkuk tarihi itibariyle kademeli yasal faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -79,6 +83,8 @@ Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde olu
 Nitekim TMK'nın 995. maddesinin 1. fıkrasında, iyi niyetli olmayan zilyedin geri vermekle yükümlü olduğu şeyi haksız alıkoymuş olması yüzünden hak sahibine verdiği zararlar ve elde ettiği veya elde etmeyi ihmal eylediği ürünler karşılığında tazminat ödemek zorunda olduğu hüküm altına alınmıştır. Haksız işgal, haksız eylem niteliğinde olup, bu durumda ecrimisilin tahsili için genel mahkemelerde genel hükümlere göre dava açılabileceğinde kuşku bulunmamaktadır.
 
 ## Yargıtay HGK 2021/502 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686560000)
 
 Davacı vekili; müvekkilinin acentesi olduğu ....’ya ait 117 adet konteyner ile taşınan malların 07.11.1999 tarihinde davalının işlettiği limana getirildiğini, konteyner içerisindeki eşyanın ithalat işlemlerinin gerçekleştirilememesi nedeniyle eşyaların millileştirilerek defalarca satışa çıkarıldığını, ancak satışın gerçekleştirilemediğini, nihayetinde eşyaların hurda olarak üçüncü bir şahsa satıldığını ve 02.08.2004 tarihinde konteynerlerin boşaltıldığını, müvekkili tarafından ihtarname ile boşalan konteynerlerin tesliminin istenmesine rağmen davalının ardiye ücreti alacağı olduğundan bahisle teslime yanaşmadığını, bu nedenle müvekkili tarafından 26.10.2004 tarihinde ... 1.
 
@@ -98,6 +104,8 @@ Dava, haksız alıkonulan konteynerler nedeniyle uğranılan zararın tazmini is
 
 ## Yargıtay HGK 2019/752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520428400)
+
 Mahkemece, davanın kabulüne karar verilmiştir.
 
 …
@@ -113,6 +121,8 @@ Az yukarda belirtildiği üzere haksız işgal tazminatı (ecrimisil) haksız ey
 SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında açıklanan gerekçe ve nedenlerden dolayı 6100 sayılı Hukuk Muhakemeleri Kanununun Geçici 3. maddesine göre uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2019/325 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510853300)
 
 Mahkemece, davanın reddine karar verilmiştir.
 
@@ -134,6 +144,8 @@ SONUÇ: Davacılar vekilinin temyiz itirazlarının kabulü ile direnme kararın
 
 ## Yargıtay HGK 2013/285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/85682300)
+
 Mahkemece, asıl davanın reddine birleşen davanın kabulüne karar verilmiştir.
 
 …
@@ -152,6 +164,8 @@ Asıl dava davacıları N.. Ö.. ve arkadaşları vekilinin temyiz itirazların�
 
 ## Yargıtay HGK 2006/816 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77193500)
+
 Türk Medeni Kanunu hükümleri gereğince paydaşlardan birinin (veya buna bağlı olarak onun bağımsız bölümünü kullananın) ortak mülkiyete bağlı olan bir yeri kendi kullanımına özgülemesi durumunda diğer paydaşlarca ecrimisil (haksız işgal tazminatı) istenebilmesi için öncelikle o paydaş bu ortak yeri münhasıran kullanmaktan yöntemince men edilmiş olmalıdır. Başka bir anlatımla, diğer paydaşlar bu yerden kendilerinin de yararlanmak istediklerini şagil paydaşa yöntemince ihtar etmiş olmalarına karşın kullanımın sürdürülmüş olması gerekir.
 Somut olayda ortak mülkiyet hükümlerine tabi olan dava konusu bahçenin belli bir bölümünü kullanarak müdahalede bulunan davalının diğer paydaşlarca İzmir 1.Noterliğinin 18.06.2004 gün ve 9048 yevmiye sayılı ihtarnamesinin muhataba 01.07.2004 tarihinde bizzat tebliği ile uyarıldığı, bu uyarıda kendisine tebliğden itibaren 3 gün içinde bahçeye müdahalesinin önlenmesi istendiğine göre ecrimisilin sözü edilen uyarının tebliğini izleyen 3 günden sonraki günden başlayarak dava gününe kadarki süre için hesaplanıp buna hükmedilmesi gerekirken, 2003 yılına ilişkin bir yıllık haksız işgal tazminatı (ecrimisil) bedeline hükmedilmiş olması,doğru görülmemiştir...) gerekçesiyle bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda; mahkemece önceki kararda direnilmiştir.
 
@@ -160,6 +174,8 @@ Somut olayda ortak mülkiyet hükümlerine tabi olan dava konusu bahçenin belli
 SONUÇ: 1- Yukarıda (1) numaralı bentte belirtilen nedenlerle davalı vekilinin ecrimisile ilişkin temyiz itirazlarının kabulü ile, direnme kararının BOZULMASINA …
 
 ## Yargıtay HGK 2005/135 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76641900)
 
 Mahkemece, diğer isteklerin kabulüne, ecrimisil istemi bakımından mahkemenin görevsizliğine karar verilmiştir.
 
@@ -206,6 +222,8 @@ Bilindiği üzere; ecrimisil, kötüniyetli zilyedin geri vermekle yükümlü ol
 
 ## Yargıtay 5. HD 2025/11381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176144600)
+
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonunda davanın davalılardan ... ..ve Ltd.Şti. aleyhine açılan davanın husumet yönünden reddine dair verilen kararın Yargıtay 5. Hukuk Dairesinin 2021/13502 Esas, 2022/353 Karar sayılı ilamı ile kesinleştiğinden bu hususta yeniden karar verilmesine yer olmadığına, davalılardan.... ve ... aleyhine açılan davanın pasif husumet nedeniyle reddine, davalılardan ... ve ... mirasçıları ..., ..., ..., ... ve ...'a karşı açılan müdahalenin meni ve eski hale getirme davasının kabulüne, sökülen ağaç ve bitkilerin değerine yönelik açılan davanın açılmamış sayılmasına karar verilmiştir.
 
 …
@@ -225,6 +243,8 @@ Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan inceleme sonucunda, ecrimis
 Davacı vekili ve davalı ... mirasçıları vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile Mahkeme kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2024/931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043337600)
 
 Davacı vekili, müvekkilinin alacak konusu taşınmazı aldığı tarihte davalı site yönetiminin taşınmazı site yönetim binası olarak kullandığını, noter aracılığıyla gönderilen ihtarnameye rağmen davalının taşınmazı boşaltmadığını, davalı site yönetimi ile müvekkili arasında 01.10.2013 tarihli protokol başlıklı sözleşme yapıldığını, davalı site yönetimimin protokolün 3 üncü maddesi uyarınca 01.10.2013 tarihinden itibaren taşınmazda kiracı konumunda olduğunu belirterek taşınmazın işgal edildiği 27 aylık dönem için fazlaya ilişkin dava ve hakları saklı kalmak üzere 7.350,00 TL ecrimisil bedelinin tahsiline karar verilmesini talep etmiştir.
 
@@ -248,6 +268,8 @@ Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zar
 
 ## Yargıtay 5. HD 2023/9571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988796400)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -267,6 +289,8 @@ Dairemizce yapılan inceleme sonucu; ecrimisile yönelik talep bakımından; ars
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2023/7952 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950430200)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davanın reddine karar verilmiştir.
 
@@ -288,6 +312,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 7. HD 2023/5517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002733000)
+
 Davacılar vekili dava dilekçesinde; davacıların da maliki olduğu 6173 ada 5 parsel sayılı taşınmaz üzerinde bulunan ... ... Sitesi A Blok apartmanın ortak alanı vasfındaki yerlerden olan zemin kat ve bodrum katını davalı ...’nin haksız ve mimari projeye aykırı şekilde diğer davalıya kiraya verilmek suretiyle kullanıldığını ileri sürerek, geriye dönük 5 yıllık süre için fazlaya ilişkin hakları saklı kalmak kaydıyla 100.000,00 TL ecrimisilin tahsilini talep etmiş, 16.11.2017 tarihinde talebini 344.442,62 TL olarak güncellemiştir.
 
 …
@@ -303,6 +329,8 @@ Gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere; ecri
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/3558 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929550200)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; el atmanın önlenmesi ve ecrimisil talepleri yönünden konusuz kalan davada karar verilmesine yer olmadığına karar verilmiştir.
 
@@ -324,6 +352,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 3. HD 2022/6009 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794883500)
+
 Davacı; davalının, Ankara İli, Çankaya İlçesi, ... Caddesi, 44088 Ada 2 parselde bulunan zemin kattaki dükkanda 01/02/2015 başlangıç tarihli ve 10 yıl süreli sözleşme gereği kiracısı olduğunu, davalının kiralanan alan dışında kalan, taşınmazın bulunduğu binanın teras katını, dava dışı GSM şirketlerine baz istasyonu olarak kiraya vermek suretiyle haksız gelir elde ettiğinin tespit edildiğini, yapılan görüşmelerde haksız olarak elde edilen kira gelirlerinin tarafına ödeneceğinin bildirilmesine rağmen bugüne kadar bir sonuç alınamadığını ileri sürerek; fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 15.000 TL'nin tahsilini talep etmiştir.
 
 Davalı; davacının, elde edildiği iddia edilen geliri hangi sebeple istediğine ilişkin bir açıklamada bulunulmadığını, taşınmazın amacına aykırı bir biçimde kullanıldığı iddiasının doğru olmadığını savunarak; davanın reddini istemiştir.
@@ -336,6 +366,8 @@ Somut olayda; Davacının, dava konusu taşınmazın bulunduğu binanın zemin k
 Bu teras katın kullanımı başlı başına haksız kullanım olarak kabul edilmelidir.
 
 ## Yargıtay 7. HD 2022/2262 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784443900)
 
 5.7.Yukarıda açıklanan ilkeler ışığında somut uyuşmazlık incelendiğinde, mahkemece davanın kısmen kabulü ile belirlenen ecrimisilin tahsiline dair hüküm kurulmuş ise de yapılan araştırma yeterli değildir. Ecrimisil, hak sahibi olmayan kötü niyetli zilyedin, ödemesi gereken kötü niyet tazminatı olduğuna göre, davalının, davacıya ecrimisil ödemeye mahkum edilebilmesi için haksız işgalinin duraksamaya yer bırakmayacak şekilde kanıtlanması gerekir. Mahkemece, hangi deliller esas alınmak suretiyle davalının haksız işgalinin sabit görüldüğü gerekçeli kararda açıklanmamıştır. Davacı tarafından sunulan dava dilekçesinde, davalının haksız işgalinin ispatı için davacı kurum tarafından yapılan tespit raporu delil olarak gösterilmiştir. Davacının tek taraflı olarak düzenlediği tespit raporu, davalı tarafından kabul edilmedikçe aleyhine delil niteliği taşımaz. Davacının, dava konusu yerde davalının haksız işgalini duraksamaya yer bırakmayacak şekilde kanıtlanması gerekir. Mahkemece bu hususta bir inceleme yapılmadan, lehe ve aleyhe deliller tartışılmadan, gerekçesiz hüküm kurulmuş olması doğru görülmemiştir.
 

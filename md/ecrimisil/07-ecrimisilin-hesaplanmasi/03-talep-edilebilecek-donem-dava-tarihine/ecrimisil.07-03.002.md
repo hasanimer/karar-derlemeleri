@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2012/4506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79571900)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup mahkemece, yapılan araştırma ve inceleme neticesinde, kayden davacıya ait taşınmazın davalı tarafından haklı bir nedeni olmaksızın kullanıldığı belirlenmek ve bu olgular mahkemece gözetilmek suretiyle elatmanın önlenmesine karar verilmiş olmasında kural olarak bir isabetsizlik bulunmamaktadır.
 
 …
@@ -31,6 +33,8 @@ Hal böyle olunca, dava tarihinden sonraki dönemleri kapsayan ecrimisil isteği
 
 ## Yargıtay 1. HD 2011/10158 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79211100)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, Mahkemece, çekişmeli taşınmazın mülkiyeti kayden davacıya ait olmakla beraber, tapu sicil kaydında davalı lehinde muhtesat şerhi bulunması sebebiyle muhtesatın asgari levazım bedelinin davalıya ödenmesi gerektiği, ancak, verilen önele rağmen davacı tarafından asgari levazım bedelinin depo edilmediği gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -38,6 +42,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişki
 Bu durumda, davalının, dava tarihine kadar taşınmazı davacının muvafakatıyla kullandığı ve dava açılmakla muvafakatin geri alındığı kabul edilmelidir. Öyleyse, taşınmazı haksız olarak kullanan kişinin taşınmaz malikine ödemekle yükümlü olduğu haksız işgal tazminatı niteliğindeki ecrimisilden davalının sorumlu tutulmasına olanak yoktur. O halde, Mahkemece, ecrimisil isteğinin reddine karar verilmiş olmasında bir isabetsizlik yoktur.
 
 ## Yargıtay 1. HD 2011/8328 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79068600)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -47,9 +53,13 @@ Bu durumda davalının, dava tarihine kadar taşınmazı davacı tarafın muvafa
 
 ## Yargıtay 14. HD 2011/7473 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762791100)
+
 Diğer taraftan ecrimisilin davalının taşınmazlara elatma tarihinden dava tarihine kadar olan dönem için gerek elektrik direğinin bulunduğu alan ve gerekse hattın geçtiği alan toplamı üzerinden hesaplanması gerekir,Dosya içindeki belgelerden davalının hattı 18.10.2007 tarihinde kurduğu anlaşıldığından, fiilen elattığı bu tarihten dava tarihine kadar geçen dönem için ecrimisil hesaplanması gerekir iken üç yıl üzerinden hesaplanması da doğru değildir. Bunun için işgaliye bedelinin yeniden uzman bilirkişiye hesaplatılması gerekir, …
 
 ## Yargıtay 1. HD 2009/1012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78269400)
 
 Dava, 1 nolu parseldeki 15 nolu bağımsız bölüme elatmanın önlenmesi ve beş yıllık 8000 lira ecrimisil isteğine ilişkindir.
 
@@ -59,6 +69,8 @@ Hal böyle olunca, öncelikle davalılara dava dilekçesinin tebliğ edildiği a
 
 ## Yargıtay 1. HD 2008/8754 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78167200)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -67,9 +79,13 @@ Diğer taraftan; çekişme konusu 13 no'lu taşınmazda tarafların murisi M.M.Y
 
 ## Yargıtay 1. HD 2008/8142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78383600)
+
 Öte yandan, borcun davanın devamı sırasında ödendiği gözetildiğinde Borçlar Kanununun 81. maddesi hükmü karşısında dava tarihine kadar olan süreç bakımından davalıların taşınmazda fuzuli şagil olarak kabul edilmesine olanak yoktur.Bu itibarla haksız işgal tazminatı niteliğindeki ecrimisilden davalıların sorumlu tutulması da kabul edilemez.
 
 ## Yargıtay 1. HD 2008/6838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78197000)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, ecrimisil ve eski hale iade isteklerine ilişkindir.
 
@@ -79,6 +95,8 @@ Nevar ki, tazminatın (ecrimisil) dava tarihine kadar olan dönem için verilmes
 
 ## Yargıtay 1. HD 2007/3267 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78163400)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -86,6 +104,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişki
 O halde, davalının dava tarihine kadar olan süreç için taşınmazda fuzuli şagil olduğu söylenemez. Başka bir anlatımla kötü niyetli zilyedin mülkiyet hakkı sahibine ödemekle yükümlü olduğu haksız işgalden kaynaklanan ecrimisille davalının sorumlu tutulmasına olanak yoktur.Hal böyle olunca, ecrimisil isteğinin reddine karar verilmesi gerekirken, yanılgılı değerlendirme ve yazılı gerekçelerle aksine hüküm kurulmuş olması doğru değildir. Davalının, bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 27.3.2007 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2007/2070 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78021100)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 

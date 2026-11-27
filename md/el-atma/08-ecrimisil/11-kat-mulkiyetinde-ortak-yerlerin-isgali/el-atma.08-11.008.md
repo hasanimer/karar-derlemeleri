@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2008/4919 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77994800)
+
 Davacı, kayden maliki olduğu 3 parsel sayılı taşınmazına davalının haksız olarak kullanmak suretiyle müdahale ettiğini ileri sürerek, elatmanın önlenmesi ve ecrimisile karar verilmesini istemiştir.
 
 Davalı, taşınmazda kiracı olarak bulunduğunu, iyiniyetli olduğunu belirtip, davanın reddini savunmuştur.
@@ -41,6 +43,8 @@ Hal böyle olunca, davacının ecrimisil isteği yönünden bir araştırma yap�
 
 ## Yargıtay 18. HD 2007/11149 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879647700)
+
 634 Sayılı Kat Mülkiyeti Yasasının Ek 1. maddesi görev konusunu ... olarak düzenlemiş, bu yasanın uygulanmasından ... her türlü anlaşmazlığın Sulh Hukuk Mahkemelerinde çözümleneceğini kurala bağlamıştır. Ecrimisil davasının Kat Mülkiyeti Yasasının uygulanmasından kaynaklanmadığı anılan yasa maddesi hükmünün bu istem yönünden uygulama olanağı bulunmadığı, uyuşmazlığın değerine bakılarak genel hükümlere göre çözümlenmesi gerektiği, …
 
 …
@@ -49,11 +53,15 @@ Yukarıda açıklanan hususun Dairemizin bozma kararına 1 nolu bent olarak ayne
 
 ## Yargıtay 18. HD 2007/8293 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878410700)
+
 HUMK.nun 237. maddesi gereğince kesin hükümden söz edilebilmesi için her iki davanın taraflarının, dava konusunun ve dava sebebinin aynı olması gerekir. Somut olayda yukarıda açıklandığı üzere daha önce açılan davada ortak yere davalı tarafın projeye aykırı olarak yaptığı değişikliklerin projesine uygun eski hale getirilmesi ve ecrimisil istenilmiş iken görülen bu davada kira sözleşmesinin sona erdiği ileri sürülerek davalı tarafın kira sözleşmesi kapsamında kalan ortak yerden tahliyesi isteminde bulunulmuştur. Bu durumda dava sebepleri değişik olduğundan kesin hükümden söz edilemez. Öyleyse mahkemece eldeki dava yönünden işin esasına girilip gerekli araştırma ve inceleme yapılarak oluşacak sonuç doğrultusunda hüküm kurulması gerekirken yanılgılı değerlendirme ile davanın kesin hüküm nedeniyle reddine karar verilmiş olması doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/7213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860269900)
 
 Davacı vekili, davada; müvekkillerinin mirasbırakanı ile davalı kooperatif arasında Beyoğlu .... Noterliği’nce doğrudan düzenlenen 06.08.1996 tarih ve 18728 yevmiye numaralı “Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi” yapıldığını; sözleşme gereğince verilmesi gereken bağımsız bölümlerin verilmediğini ileri sürerek sözleşme konusu (72) numaralı parsele davalının elatmasının önlenmesine ve 18.03.2004 ilâ 15.06.2005 tarihleri arasındaki süre için (6.000,00) YTL ecrimisilin tahsilini istemiştir.
 
@@ -71,6 +79,8 @@ aykırılığın devamı anlamına geleceğinden kamu düzenine ilişkin ve re�
 
 ## Yargıtay 14. HD 2007/630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849699300)
+
 Davacı kendisine ait mesken olarak kullandığı 5 numaralı bağımsız bölüm ile davalı ...'ya ait olup onun tarafından da mesken olarak kullanılan 4 numaralı bağımsız bölümlerin ortak eklentisi olan E 1 numaralı özel deponun eşit paylarla adlarına yazılı olmasına rağmen, davaya konu özel depodan kendisinin 43 m2 gelen yarıdan az bir bölümünü kullanmasına rağmen, davalının deponun yarı paydan daha fazla olan 79 m2 lik bölümü kullandığını bildirerek, kayıtta yazılı oranda yer kullanması gereken 61 m2 lik depo payı için eksik kullandığı ve davalı işgalinde olduğunu belirttiği 18 m2 lik yerden davalı ... ...'ın el çektirilmesine ve dava tarihinden geriye doğru 5 yıllık ecrimisil tutarı olan 3600 YTL. ecrimisil tazminatının da tahsiline karar verilmesini istemiş, davalı davanın reddini savunmuş, Mahkemece her iki istemin kabulü üzerine, hüküm davalı ... vekili tarafından temyiz edilmiştir.
 
 Davaya konu yer tarafların bağımsız bölümlerinin ortak eklentisi sayılan ve tapuda E 1 numarası ile gösterilen 122 m2 lik depodur. Deponun yer aldığı tapu kayıtlarına göre taraflara ait bağımsız bölümlerin bulunduğu binada 1983 yılından beri kat mülkiyeti kurulu bulunmaktadır. 1983 tarihinden davanın açıldığı tarihe kadar davacı ... ile davalı ... zemin miktarları netleşmemiş depo alanından yerler kullandıkları ve dava tarihine kadar bir çekişmeye düşmedikleri açıktır. Depoda müşterek mülkiyet esası üzere hak sahibi olan taraflar bir araya gelerek depo kullanılması konusunda yazılı biçimde bir düzenleme yapmadıkları sürece, süre gelen hal üzere kullanıma muvafakatları var sayılır. Nitekim somut olayda da ... tarafından davalı ...'ya deponun yarıdan fazla gelen bir bölümünü kullanmasına ses çıkarmadığı davacı vekilinin dosyaya sunduğu 14.6.2005 günlü (havale tarihli) dilekçesi ile de anlaşılmaktadır. Bu dilekçede "müvekkilin bir dönem için davalının kendisinden fazla yer kullanmasına muafakat etmiştir" denilmek suretiyle bu olgunun kabul edildiği görülmektedir.
@@ -81,6 +91,8 @@ Davalı tarafın depo yerinden yarı payı aşan 18 m2 lik bir yeri fazladan kul
 SONUÇ: Yukarıda 1 numaralı bentte açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 18. HD 2006/5264 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883623600)
 
 634 Sayılı Kat Mülkiyeti Yasasının Ek l.maddesi görev konusunu özel olarak düzenlemiş ve bu yasanın uygulanmasından doğan her türlü anlaşmazlığın Sulh Hukuk Mahkemelerinde çözümleneceğini kurula bağlamıştır. Ecrimisil davasının, Kat Mülkiyeti Yasasının uygulanmasından kaynaklanmadığı ve böylece anılan yasa maddesi hükmünün ecrimisil istemi yönünden uygulama olanağı bulunmadığı gözetilerek uyuşmazlığın değerine bakılarak genel hükümlere göre çözümlenmesi gerektiği, davada istenilen ecrimisil tutarı itibariyle görevli mahkemenin Asliye Hukuk Mahkemesi olduğu gözönünde bulundurularak haksız işgal tazminatı istemine ilişkin davanın ortak yerlere müdahalenin önlenmesi davasından tefrik edilip Asliye Hukuk Mahkemesinde bakılmak üzere mahkemenin görevsizliğine karar verilmesi gerekirken, bu istem yönünden de işin esasına girilip hüküm kurulması doğru görülmemiştir.
 
@@ -110,6 +122,8 @@ Davalının istinaf başvuru talebinin ESASTAN REDDİNE …
 
 ## İstanbul BAM 2. HD 2025/800 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133050800)
+
 Türkiye yerleşik kişiler arasında konusu yurt içinde yer alan gayrimenkuller olan, konut ve çatılı iş yeri dahil gayrimenkul satış sözleşmesi, Türkiye’de yerleşik kişiler arasında Taşıt satış sözleşmesi, Türkiye’de yerleşik ve Türkiye ile vatandaşlık bağı bulunan kişiler arasında konusu yurt içinde yer alan gayrimenkuller olan, konut ve çatılı iş yeri dahil gayrimenkul kira sözleşmesi, Türkiye’de yerleşik kişiler arasında Taşıt kiralama sözleşmesi, Türkiye’de yerleşik ve Türkiye ile vatandaşlık bağı bulunan kişiler arasında yurt içinde ifa edilecek iş sözleşmesi, Türkiye’de yerleşik ve Türkiye ile vatandaşlık bağı bulunan kişiler arasında Yurt içinde ifa edilecek ve yurt içinde başlayıp yurt içinde sonlanacak danışmanlık, aracılık ve taşımacılık dahil hizmet sözleşmesi ile sözleşme bedeli ve bu sözleşmelerden kaynaklanan diğer ödeme yükümlülükleri döviz cinsinden veya dövize endeksli olarak kararlaştırılamayan sözleşmeler kapsamında düzenlenecek kıymetli evraklar olarak sayılmaktadır.
 Buna göre yabancı para ile kararlaştırılamayacak hususlar tahdidi olarak sayılmış olup taraflar arasında tahdidi olarak sayılan sözleşme türlerinden hiçbirisinin akdedilmediği, dolayısı ile somut olayda Türk Parası kıymetini Koruma Hakkında 32 sayılı kararda değişiklik yapılmasına dair kararın uygulanmasının mümkün olmadığı, Her ne kadar takibe ve davaya konu senetlerin teminat senedi olduğu ileri sürülmüş ise de, senet metninde teminat senedi olduğuna dair bir kayıt görünmediği, yine bu konuda ayrı bir sözleşmede bulunmadığı, teminat senedi olduğuna ilişkin iddianın ancak yazılı delil ile ispat edilebileceği ve ispat yükünün iddia eden davacıya ait olduğu ve bu konuda dosyaya yazılı bir delilin sunulmadığı, 20.09.2019 tarihli protokolde senetlerin ecrimisil davasından feragat karşılığı olarak verildiği ve senetlerin eksiksiz ödenmesi karşılığında ...'un geçmişe dönük olarak ve bundan sora ileriye dönük olarak intifa hakkına karşılık bir bedel talep etmeyeceğinin kararlaştırıldığı, nitekim İstanbul 16.
 
@@ -118,6 +132,8 @@ Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi
 Maddenin gerekçesinde; bu yeni düzenlemenin, öğreti ve uygulamada sözleşmeye bağlılık (ahde vefa) ilkesinin istisnalarından biri olarak kabul edilen, "işlem temelinin çökmesi"ne ilişkin olduğu, imkânsızlık kavramından farklı olan aşırı ifa güçlüğüne dayanan uyarlama isteminin temelinin, Türk Medenî Kanununun 2 nci maddesinde öngörülen dürüstlük kuralları olduğu, ancak sözleşmenin değişen koşullara uyarlanması ya da dönme hakkının kullanılmasının, dört koşulun birlikte gerçekleşmesine bağlı olduğu belirtilmiştir.Madde gerekçesinde de belirtildiği üzere aşırı ifa güçlüğü nedeniyle sözleşmenin uyarlanmasının istenebilmesi için gerekli dört koşul olarak;
 
 ## Antalya BAM 13. HD 2025/642 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161604900)
 
 Davacı vekili dava dilekçesinde özetle; ...ait... bulunan... numaralı iş yerlerinin kira sözleşmesi ile müvekkiline tahsis edildiği, kiraya verenle yaşanan sorunlardan sebep bir dönem taşınmazın tahliye edildiği, olayın yargıya intikal ettiği ve muhakeme sonrasında .... tarihi itibariyle iş yerine geri dönüldüğü, yeniden taşınmaza gelindiğinde davacının kullandığı taşınmaza komşu iş yerlerinde bulunan davalıların kullandıkları taşınmazlarda izinsiz ve ruhsata aykırı kaçak yapı inşa ettiği ve yine kaçak elektrik kullandığı, müşterek kullanım alanlarını işgal ettikleri, bu yapıların davacının kiraladığı taşınmaza doğrudan ve dolaylı olarak zarar verdiği, müşteri potansiyelini olumsuz etkilediği, yine davalıların müşterek alana tecavüzü nedeniyle ortak alanlardan davacının yararlanamadığı, davalıların müvekkilini zarara uğratmak amacıyla kasıtlı hareket ettiği, kaçak inşa edilen yapıların düzeltilmesi ve izinsiz yapılaşmaya ilişkin hukuka aykırılığın giderilmesinin istendiği, ancak bu güne değin netice alınamadığı, davalıların hukuka aykırı iş ve eylemlerinden dolayı maddi ve manevi zarara uğrandığını beyanla ve fazlaya dair hakkı saklı tutulması kaydıyla 83.300,00 TL maddi ve
 30.000,00 TL manevi tazminatın 23/11/2018 olay tarihinden işleyecek yasal faiziyle davalılardan tahsiline karar verilmesini talep etmiştir.
@@ -140,6 +156,8 @@ Antalya 3. Asliye Ticaret Mahkemesi'nin... esas ve...Karar sayılı, 27/01/2021 
 
 ## İstanbul BAM 35. HD 2020/1309 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592141600)
+
 …
 
 :Yasal dayanak:Türkiye Cumhuriyeti Anayasası 142. maddesi,Hukuk Muhakemeleri Kanunu'nun 1,2,4. maddeleri,634 sayılı kanunun Ek 1.maddesi,Türk Borçlar Kanunu 299, 313, 314, 315. maddeleri, Yargılama konusu olayda:
@@ -150,6 +168,8 @@ Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk 
 H Ü K Ü M:Yukarıda açıklanan nedenlerle, Davacının istinaf başvurusunun kabulüne, KARARIN KALDIRILMASINA …
 
 ## İstanbul BAM 2. HD 2020/1199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/601475200)
 
 İlk Derece Mahkemesi Kararı: İstanbul Anadolu 9. Asliye Ticaret Mahkemesi'nin 2018/142 esas ve 2019/1227 karar sayılı 12/12/2019 tarihli kararı ile; davacının meni müdahale davasının kabulüne, ecrimisil davasının reddine karar verilmiştir.
 
@@ -171,6 +191,8 @@ Böyle bir eylemin varlığının kabulü için ise, eylem sahibinin mülkiyet k
 
 ## İstanbul BAM 45. HD 2020/51 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602877500)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece dosya üzerinden yapılan inceleme neticesinde; "TTK'nın 4.maddesinde yazılı davalar mutlak ticari davalardır. TTK'nın 5.maddesinde yazılı davalar ise genel hukuk davalarıdır.
 
 …
@@ -183,6 +205,8 @@ Dava açılırken, harcın eksik alınmış olması halinde mahkemece davaya dev
 HÜKÜM: Yukarıda açıklanan nedenlerle: 1-Davacı vekilinin istinaf başvurusunun KABULÜNE, 2-İstanbul Anadolu 6. Asliye Ticaret Mahkemesi'nin 02/07/2019 tarih, 2019/396 Esas 2019/615 Karar sayılı kararının HMK 353/1.a.3 maddesi gereği KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2019/211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478288200)
 
 21.07.2008 tarihli teslim tesellüm belgesi ile 5,7 ve 8 nolu bağımsız bölümlerin teslim edildiği, sözleşmeye aykırı olarak asıl proje 9 daireli iken tadilat projesi ile 10 bağımsız bölümlü proje düzenlendiği, arsa payı oranı, inşaat alanı ve rayiç değer göz önüne alınarak yapılan bilirkişi hesaplamalarında sözleşmedeki paylaşım oranına göre davalı adına tapuya kayıtlı 1 nolu taşınmazın davacı şirket adına kaydının yapılması gerektiği, davacı tarafından çatı daireleri için yapılan imalat, dublekse çevrilmesi için ödenen proje ruhsat masrafları, dava konusu taşınmazın devredilmemiş olması nedeni ile uğranılan kâr kaybı ve otopark masrafları için belediyeye ödenen ve davalı payına düşen %30'luk kısım olarak 15.629,80 TL talep edilmiş ise de, taraflar arasındaki sözleşme ve ekindeki kroki ile yerinde inşa edilen binanın farklı olduğu, davalının binanın sözleşmeye aykırı imali konusunda bir talebi bulunmadığından sözleşmeye aykırılık nedeni ile yapılan imalat değişikliğine ilişkin yapılan giderlerin davalıdan talep edilmesinin hakkaniyetli olmadığı, sözleşme gereğince binanın 15 ayda bitirileceğinin, her türlü Bağ-Kur, SSK, yapı denetim, belediye ve resmi kurum vergi ve borçlarının
 yüklenici şirkete ait olacağının düzenlendiği, tadilatın davacı tarafın karar ve eylemiyle gerçekleştiğinden, bu nedenle imalat ve proje bedeli ile otopark nedeni ile ödediği ecrimisil bedelinin ve kazanç kaybına ilişkin taleplerinin davalıdan istenemeyeceği gerekçeleriyle, davanın kısmen kabulü ile, davacının otopark bedeli için açmış olduğu talebinin son kattdaki dairelerin dublekse çevrilmesi nedeni açtığı proje ve ruhsat bedeline ilişkin talebin, dubleks katın maliyet masrafına ilişkin talebin ve kazanç kaybına ilişkin taleplerinin ayrı ayrı reddine, davacının tapu iptali ve tescile yönelik davasının kabulü ile, İstanbul ... 1. Bölge .... bulunan tapunun ... Ada ... parselde kayıtlı gayrimenkulün 260/3260 arsa payına isabet eden bodrum kattdaki 1 nolu bağımsız bölümün davalı adına olan kaydının iptali ile davacı adına tapuya kayıt ve tesciline, İİK'nın 28. maddesi gereğince hükmün bir nüshasının ilgili tapu sicil müdürlüğüne gönderilmesine karar verilmiştir.

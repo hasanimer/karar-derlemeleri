@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2013/15002 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79592700)
+
 Dava, el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -33,6 +35,8 @@ Hal böyle olunca dava konusu taşınmazların bir kısmının göl niteliğinde
 Davalının bu yönlere değinen temyiz itirazı yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2013/11589 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/265457100)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -46,6 +50,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 1. HD 2013/9428 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79883300)
+
 Hemen belirtmek gerekir ki; çekişmeye konu tarla, bağ ve bağ evi yönünden ecrimisil isteğinin reddine dair verilen mahkeme kararı Yargıtay 3. Hukuk Dairesinin yukarıda anılan ilamı ile onanarak kesinleşmiş bulunduğuna göre hüküm altına alınan ecrimisil hesabında bu bölümlerin dikkate alınmamış olmasında bir isabetsizlik bulunmadığı gibi, besihane vasıflı taşınmaz yönünden hükmüne uyulan bozma ilamı doğrultusunda işlem yapılarak ecrimisilin hüküm altına alınmış olmasında da kural olarak bir isabetsizlik yoktur.
 
 Ancak, ecrimisile konu besihanelerin yeraldığı 185 parsel sayılı taşınmazın, tarafların miras bırakanları H. C.adına kayıtlı olduğu ve her bir davacının miras payı 3/20 olduğu halde, bu miktar üzerinden her davacı yararına hesaplanacak ecrimisile hükmedilecek yerde yanılgılı değerlendirme ile her davacı yararına 1/20 pay üzerinden eksik ecrimisile karar verilmiş olması doğru değildir.
@@ -53,6 +59,8 @@ Ancak, ecrimisile konu besihanelerin yeraldığı 185 parsel sayılı taşınmaz
 Davacılar vekilinin belirtilen nedenlerle temyiz itirazları yerindedir. Kabulüyle, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 3. HD 2013/1140 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243906400)
 
 Davacı vekili dilekçesinde; davacının hissedar olduğu taşınmazın davalı tarafından haksız işgali nedeniyle 01.06.2002 - ........2006 tarihleri için 27.000 TL ecrimisilin faiziyle birlikte davalıdan tahsilini talep etmiştir.
 
@@ -70,6 +78,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2012/25809 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486590200)
+
 Davalı ... vekili; idarece herhangi bir şekilde kamulaştırmasız el atılmadığı, güzergahta kamulaştırma işlemlerinin devam ettiğini, davanın reddinin gerektiğini belirtmiştir.
 
 Mahkemece, el atılan 2.455,26 m2 lik kısmının 30.06.2011-30.06.2006 tarihleri arasındaki toplam ecrimisil değerinin 2.316,70 TL olduğu anlaşılmakla bu miktar için davanın kabulüne karar verilmiş, hüküm davalı vekili tarafından temyiz edilmiştir.Ecrimisil, kötüniyetli şagilin ödemekle sorumlu olduğu tazminat olup, en azı kira geliri, en çoğu ise tam gelir yoksunluğudur.
@@ -78,11 +88,15 @@ Tam gelir yoksunluğuna göre ecrimisil belirlenirken, İl Tarım Müdürlüğü
 
 ## Yargıtay 3. HD 2012/24728 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488007900)
+
 Ayrıca; sözleşmenin 4 nolu maddesinin 4. paragrafında taksitlerin ödenmemesi yada tutarların süresinde ödenmemesi halinde bankanın sözleşmeyi tek taraflı olarak feshedebileceği, fesih halinde alıcının bir ay içinde taşınmazı tahliye ile yükümlü olduğu düzenlenmiştir.Hal böyleyken davacı bankanın tek taraflı fesih beyanının geçerli olduğu gözetilerek sözleşmenin 6. maddesinde belirlenen ecrimisile hak kazandığı değerlendirilmek suretiyle mahkemece sonucu dairesinde bir karar verilmesi gerekirken gerekçesiz şekilde davanın reddi yönünde hüküm tesisi bozmayı gerektirmiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2012/24649 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488667200)
 
 TMK’md.993-995 ve 08.03.1950 gün, 22/4 sayılı Y.İ.B. Kararında da kabul edildiği gibi ecrimisil; haksız fiil benzeri olup, üstün bir hakka dayanmadan başkasının taşınmazını işgal edip böylece "haksız kazanç elde eden" şahsın iade etmekle yükümlü olduğu bir tazminat türüdür. Kötü niyetli kimsenin sorumluluğu ise, taşınmazı haksız olarak elinde tutmuş olmasından böylece "haksız kazanç elde etmesinden doğan" davacı zararları ve buna ilave olarak, elde ettiği ya da elde etmeyi ihmal eylediği semerelerden kaynaklanan tazminatla sınırlıdır.
 
@@ -90,6 +104,8 @@ Bu tür davalarda hakim, gerçek ecrimisil miktarını tayin ve tesbit edebilmek
 Bu şekilde soyut belirlemeler ile ecrimisil hesaplayan rapor hüküm kurmaya yeterli görülmemiştir.Bu itibarla yukarıda açıklanan esaslar göz önünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün 6100 Sayılı HMK.un geçici 3.maddesinde düzenlenen "Bölge adliye mahkemelerinin, 26/09/2004 tarihli ve 5235 sayılı Adli Yargı ilk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanunun geçici 2.maddesi uyarınca Resmi Gazete'de ilan edilecek göreve başlama tarihine kadar, 1086 sayılı Kanunun temyize ilişkin yürürlükteki hükümlerinin uygulanmasına devam olunur." hükmü gereğince HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/22843 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489813900)
 
 Davacı vekili dilekçesinde; müvekkili ile davalının kardeş olduklarını, murisleri tapu sahibi annesi (...'in) 09.07.2005 tarihinde vefat ettiğini, annelerini vefatından beri annesinin tarlalarını, zeytinliğini, fıstıklığını, tek başına davalının ekip biçtiğini ürünlerini kaldırdığını, müvekkilinin hissesinin karşılığını vermediği ileri sürülerek 2005, 2006, 2007 yıllarına ilişkin olarak 200.000 TL ecrimisilleri davalıdan tahsili talep ve dava edilmiştir.Davalı vekili cevabında, davacı tarafından daha önce 2006 yılında ...
 
@@ -99,6 +115,8 @@ Davacı vekili dilekçesinde; müvekkili ile davalının kardeş olduklarını, 
 
 ## Yargıtay 3. HD 2012/21630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525613100)
+
 …
 
 ...Büyükşehir Belediye Başkanlığının 01/3/2012 tarihli yazısı ile dava konusu yerin ... meydanına" dönüştürülmesine 07/06/2005 tarihli encümen kararı ile kamulaştırılmasına karar verildiği belirtilmesine rağmen, dava konusu taşınmazın henüz kamulaştırılmadığı ve işgal edildiği sabittir.Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle delillerin takdirinde bir isabetsizlik görülmemesine göre, davalı vekilinin temyiz itirazları yerinde değildir.Ancak, hükme esas alınan bilirkişi raporunda ecrimisil bedeli hesaplanırken, emsal olarak 50 m² kapalı, 100 m² üstü kapalı yanları açık çay bahçesinin kira bedeli esas alınmış ve m²'ye göre kira parası hesaplandıktan sonra dava konusu taşınmazın ecrimisil bedeli belirlenmiştir.Ecrimisil, haksız işgal tazminatı olup, en azı kira geliri, en çoğu ise tam gelir yoksunluğudur.Ecrimisil bedelinin hesaplanmasında kural olarak işgal edilen taşınmazın mevcut hali ile kiraya verilmesi halinde getirebileceği kira parası gözönünde bulundurulmalıdır.Bu durumda dava konusu taşınmazın üzerinde yapılaşma olmadığına göre mevcut hali ile yani arsa olarak kiraya verilmesi halinde belirlenecek ecrimisil rakamının esas
@@ -106,10 +124,14 @@ alınması gerekirken, daha fazla kira getiren ve üzerinde yapı bulunan çay b
 
 ## Yargıtay 3. HD 2012/14013 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542394400)
+
 4.6.1958 gün ve 15/6 sayılı Yargıtay İçtihadı Birleştirme Kararı ile ecrimisil, tazminat olarak nitelendirilmiştir. Bu kararın gerekçesinin V inci bendinde “işgal tazminatı davalarının hususi bir şekli olan ecrimisil davalarının beş yılda zamanaşımına uğrayacağı esasını benimsemiş bulunan içtihadı birleştirme kararının henüz baki” olduğu açıklanmış ve ecrimisil davalarının Türk Kanunu Medenisinin 908. maddesine (TMK m.995) dayanan bir tazminat davası olduğu belirtilmiştir.O halde, 29.12.2009 tarihinde açılan bu davada ancak 29.12.2004 tarihine kadar ecrimisil istenebileceği gözetilmeden, 2004 yılı için de ecrimisile hükmedilmesi ve davalının zamanaşımı def’i nazara alınmadan sonuca gidilmesi doğru görülmemiştir.Ayrıca, bilirkişi raporunun denetlenmesi açısından rapora esas alınan 5 yıllık veriler dosyaya konulmamıştır. Dava ecrimisil istemine ilişkin olup, ürün esasına göre ecrimisil miktarı belirlenmiştir. Bu belirleme yapılırken de taşınmazda 1.sınıf kapama susuz bağ yetiştiriciliği yapıldığı tespitinden hareketle, bağın 11-50 yaş grubunda olması esas alınarak hesaplama yapılmıştır. Ancak, davacıların ...
 Asliye Hukuk Mahkemesi tarafından yapılan delil tespitinde, dava konusu taşınmaz üzerinde 10-12 yaşlarında kapama bağ olduğu tespit edilmiştir. Hükme esas alınan bilirkişi raporunda İlçe Tarım Müdürlüğü veri listelerinde 11-50 yaş aralığı için gösterilen 1000 kg verim esas alınmış ise de; bağın dekara verim miktarının yaşı ile doğru orantılı olduğu gözetildiğinde dava konusu yıllarda 10-12 yaş aralığında olan bağdan 1000 kg verim alınması olanaksızdır.Bu durumda ecrimisil hesabı yapılırken resmi veriler ve bağın yaşının esas alınmamış olması doğru değildir. Bunun yanında masraf hesaplanırken de resmi verilerden ayrılmanın somut gerekçesi gösterilmeden çok düşük tutulması uygun görülmemiştir.Mahkemece, tüm dönemlere ilişkin resmi veriler dosyaya konularak, yukarıda belirtilen bu hususunda değerlendirilmesi suretiyle yeniden ek rapor alınması ve sonucuna göre bir karar verilmesi gerekmektedir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/12714 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560280400)
 
 Davacı vekili dilekçesinde; davacının 1/3 paydaş olduğu taşınmazların davalı tarafından benzin istasyonu yapılmak suretiyle işgal edildiği ileri sürülerek geçmiş beş yıl için 250 975,00 TL ecrimisilin tahsili istenilmiştir.Davalı vekili savunmasında; kira parası ödedikleri nedeniyle davanın reddini şayet kabulü gerekmekte ise taşınmazın üzerindeki tesislerin kendileri tarafından oluşturulduğunun gözetilmesini talep etmiştir.Mahkemece; 56 parsel üzerinde intifa hakkı tesisi nedeniyle reddine ve yine 4961 parsel için bilirkişi raporu esas alınarak belirlenen 2003 dönemi 862,01; 2004 dönemi 928,38; 2005 dönemi 1018,43 TL; 2006 dönemi 1103,98 TL; 2007 dönemi için ise 1215,48 TL ecrimisilin davalıdan tahsiline karar verilmiş, hüküm, taraf vekillerince süresinde temyiz edilmiştir.
 
@@ -122,6 +144,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 5. HD 2012/6784 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534242400)
+
 Dava, kamulaştırmasız el atılarak enerji nakil hattı geçirilen taşınmazın, irtifak hakkı karşılığının tahsili ve ecrimisil istemine ilişkindir.
 
 Arazi niteliğindeki taşınmaza net gelirine göre, üzerinde bulunan yapıya resmi birim fiyatları nazara alınarak ve yıpranma payı düşülmek suretiyle değer biçilmesinde, taşınmazın niteliği, tamamının yüzölçümü, geometrik durumu, enerji nakil hattı güzergahı dikkate alınıp zeminde ve binada değer düşüklüğü oranı belirtilerek irtifak hakkı karşılığının tesbit edilmesinde ve kamulaştırmasız el atma bedeline hükmedilmesinde, ecrimisil isteminin reddedilmesine karar verilmesinde bir isabetsizlik görülmemiştir.
@@ -129,6 +153,8 @@ Arazi niteliğindeki taşınmaza net gelirine göre, üzerinde bulunan yapıya r
 Davacı vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 14. HD 2012/5713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/695330700)
 
 Davacı, 985 parsel sayılı taşınmazda intifa hakkı sahibi olduğunu, davalı bayisi ...'ün bayilik sözleşmesine aykırı davranarak kendilerinin onayı olmadan diğer davalı ... Petrol Ürünleri İnş. Mak.
 
@@ -150,12 +176,16 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı ...'ün di
 
 ## Yargıtay 3. HD 2012/4530 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613723900)
+
 Ecrimisil, kötü niyetli şagilin ödemekle sorumlu bulunduğu tazminattır. Bu nedenle ecrimisil davaları haksız fiil benzeri davalar olup, ecrimisil miktarının en çoğu tam kar mahrumiyeti en azı ise asgari kira bedelidir. Yargıtayın yerleşmiş uygulamaları doğrultusunda önceki dönem için belirlenen ecrimisil miktarına Üretici Fiyat Endeksinin (ÜFE) tamamı yansıtılmak suretiyle belirlenecek miktardan az olmamak koşuluyla bulunacak ecrimisilin hüküm altına alınması gerekir. Davalı kötüniyetli şagil durumunda bulunduğundan kesinleşen döneme ilişkin ecrimisil miktarı dikkate alınmaksızın taşınmazın keşif tarihi itibariyle normal getirebileceği kira bedelinin, kesinleşen döneme ÜFE uygulanmak suretiyle hesaplanan ecrimisil miktarından yüksek olması halinde, düşük olan miktar esas alınarak ecrimisil hesabı yapılmaması gerekmektedir.
 
 Davaya konu taşınmazın keşif tarihi itibariyle normal olarak getireceği aylık kira parasının bilirkişi tarafından 2.551,00 TL olarak tespit edilmiş olması karşısında, bu davadan önce davacı tarafından 25.11.2003 – 30.06.2006 dönemi ecrimisil alacağının tahsili için ... 1.Asliye Hukuk Mahkemesinde açılan ecrimisile ilişkin davada alınan bilirkişi raporunda 2006 yılı için 444 TL aylık ecrimisil üzerinden hesaplama yapılmış olması nedeniyle mahkemece bu miktar esas alınıp 444 TL 'ye endekslerin tamamının yansıtılması suretiyle ecrimisil bedeli tespit edilmiş ve endeks uygulanmak suretiyle hesaplanan miktar üzerinden hüküm kurulmuş ise de, belirlenen ve hüküm altına alınan bu miktarın emsal ve rayice uygun olmadığı anlaşılmaktadır. O halde mahkemece; önceki dönemlere ilişkin olarak hüküm altına alınan ecrimisil tutarları da dikkate alınarak bu miktarlardan da az olmamak kaydı ile 2006 yılı için emsal ve rayice uygun ecrimisil tutarını yeniden belirlemek, sonra gelen dönemler için ise yeniden endeks uygulanmak suretiyle toplam ecrimisil miktarını saptamak ve hüküm altına almak gerekir.
 Yanılgılı değerlendirme ve eksik inceleme sonucu yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/4407 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79554700)
 
 Davacılar; asıl davada, ortak miras bırakanın 295 ada 3 parsel sayılı taşınmazdaki bağımsız bölümlerini davalılara satış yoluyla temlik ettiğini, ancak işlemlerin manevi baskı, tehdit ve zorlama ile kendilerinden mal kaçırma amaçlı ve muvazaalı olarak gerçekleştirildiğini ileri sürerek, tapu iptali ve miras payları oranında tescil ile ecrimisil istemişler; 15.04.2004 tarihli dilekçeyle iptal ve tescil olmazsa taşınmazların bedelinden paylarına düşen kısmın tahsiliyle ecrimisil talep etmişler; birleşen davada, tazminat ve ecrimisil isteklerinde bulunmuşlardır.
 
@@ -175,14 +205,20 @@ Davalı S.M. dışındaki tarafların temyiz itirazları yerindedir. Kabulü ile
 
 ## Yargıtay 3. HD 2012/4243 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615015300)
+
 Yargılama sırasında, dava konusu ecrimisil tutarının tespiti amacı ile 2 ayrı bilirkişi raporu alınmış, mahkemece, bu iki raporda belirtilen ecrimisil tutarlarının birbirine yakın olduğu gerekçesi ile, iki rapordaki miktarların ortalaması alınmak suretiyle 10.344 TL ecrimisilin davalıdan tahsiline karar verilmiştir.Mahkemece, yukarıdaki ilke ve esaslar gözetilerek, 3.bilirkişi heyetinden rapor alınıp, önceki iki rapor arasındaki çelişki giderilip hasıl olacak sonuca uygun bir karar verilmesi gerekirken, yanılgılı değerlendirme ile, iki rapor ortalaması üzerinden ecrimisil hesabı yapılıp, sonucuna göre karar verilmesi bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/3041 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/603171200)
 
 Bilirkişi kurulu tarafından düzenlenen 21.11.2011 tarihli raporda; dava konusu taşınmazın halihazırda ekilip biçilmediği, tarımsal yapısının bozulduğu ve üretime uygun olmadığı, suyun getirdiği kum ve çakıl ile mil gibi materyaller ile kaplı olduğu bu nedenle daha önceki vasfı hakkında fikir yürütmenin mümkün olmadığı ancak taşınmazın yer aldığı ... havzasında genel olarak işlemeli tarım uygulandığı ve tarla olarak değerlendirildiği sulu tarım arazisi olduğu, mahalli bilirkişi beyanları ile belirlenen “şekerpancarı, buğday, arpa karpuz” ekildiği varsayımı ile resmi verilerden faydalanılarak talep edilen dönem ecrimisil bedellerinin saptandığı anlaşılmaktadır.Davalı vekili tarafından, rapora itiraz dilekçesinde; dava konusu yere ilişkin olarak Tarım Bakanlığınca verilen Doğrudan Gelir Desteğinin dava konusu yerin çayır niteliğinde olduğu halde ve maddi imkansızlık nedeniyle fiili tasarruf imkanı bulunmamasına rağmen ekildiği varsayımı ile haksız yere kamu kurumlarından tahsil edildiği; yine eski hale getirme bedeline hükmedilen yer için ayrıca fahiş miktarlarda ecrimisil isteminin yerinde olmadığı belirtilerek davanın reddine karar verilmesi gerektiği ileri sürülmüştür.Ancak,
 mahkemece, itirazlar dikkate alınmadığı gibi bahar aylarındaki yağışların ve eriyen kar sularının etkisi ile su basması sonucu taşırmaza gelen milin üretime etkisi tartışılmamıştır. Yine, eski hale getirme bedeline ilişkin dava dosyasında 502 000 m² nin tarıma uygun olmadığının belirtilmiş olmasına rağmen bu davada zarara uğrayan kısım araştırılmaksızın ve somut veriler keşif tutanağına geçirilmeksizin tapu kaydının tamamı olan 659 300 m² üzerinden ecrimisil hesabının yapılması doğru görülmemiş olup mahkemece bu çelişkili durum giderildikten sonra bir karar verilmek üzere hükmün bozulması gerekmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/1700 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621177000)
 
 Ecrimisile konu edilen taşınmazlarda tarafların iştirak halinde malik oldukları anlaşılmaktadır. Paydaşların kural olarak, taşınmazı kullanan malikten ecrimisil talep edebilmesi için, diğer maliklerin taşınmazdan yararlanma isteklerini karşı tarafa iletmiş olmaları gerekir. Yararlanma isteminin iletilmesi belli bir şekil şartına bağlı değildir. Tanık dahil her türlü delille ispatlanabilir.
 Bu kuralın bir takım ayrıcalıkları vardır ki; bunlar ecrimisil istenen taşınmazın bağ-bahçe gibi doğal ürün veren ya da kiraya verilerek hukuksal semere elde edilen yerlerden olması, paylı taşınmazı işgal eden paydaşın bu taşınmazın tamamında hak iddia ve diğerinin paydaşlığını inkar etmesi, paydaşlar arasında yapılan kullanım anlaşması sonucu her paydaşın yararlanacağı ortak taşınmaz veya bölümlerinin belli bulunması, davacı paydaş tarafından davalı paydaş aleyhine bu taşınmaza ilişkin elatmanın önlenmesi, ortaklığın giderilmesi, ecrimisil ve benzer dava açılması halleridir.Somut olayda davalı, cevap dilekçesinde davacılara tapudaki devir işleminden önce kullanım bedeli karşılığını ödediğini bildirmiş ve ödemede bulunduğu konusunda yemin teklifinde bulunmuştur.Davacılar ise, dava konusu edilen ecrimisil bedelini almadıklarına dair yemin etmişlerdir. Hal böyle olunca davalı, davacılara dava konusu edilen taşınmazların kullanım bedelini ödediğini bildirmiş olmakla, davacıların dava konusu taşınmazlardan yararlanma isteklerini davalıya bildirmiş olduklarının kabulü gerekir. Öyle ise;
@@ -191,6 +227,8 @@ Mahkemece her dönem için talep edilen ecrimisil bedelinin davacılara açıkla
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2011/17291 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964693800)
 
 Davacı vekili, davada ve birleşen davada; ... İlçesi ... köyünde bulunan 57 ve 58 nolu taşınmazların müvekkilleri adına kayıtlı olduğunu, söz konusu taşınmazların ... Sulama göleti nedeniyle sular altında kaldığını, müvekkillerinin gelir kaybına uğradığını bu nedenle fazlaya ilişkin hakları saklı kalmak kaydıyla el atma tarihinden itibaren ecrimisil bedeli olarak 8.000 TL'nin yasal faiziyle birlikte davacılara miras payları oranında ödenmesine karar verilmesini talep ve dava etmiş, 17.6.2010 tarihli dilekçesi ile her bir davacı için istediği miktarı açıklamıştır.
 
@@ -206,6 +244,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 5. HD 2011/16809 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037264700)
+
 Dava, kamulaştırmasız el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -218,6 +258,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2011/13507 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024426200)
+
 Dava, kamulaştırmasız el atmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
 …
@@ -229,6 +271,8 @@ Her ne kadar mahkemece dava konusu taşınmazın niteliğinin tarla olarak kabul
 Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U....nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2011/6012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17150800)
 
 Davalı ve dahili davalılar, davanın reddini savunmuşlardır.
 

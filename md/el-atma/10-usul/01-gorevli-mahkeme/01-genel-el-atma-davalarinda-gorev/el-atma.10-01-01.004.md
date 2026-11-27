@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2008/4142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879893200)
+
 Mahkemece davalı ... hakkında açılan davanın husumet yönünden reddine, birleştirilen davada davalı şirketin davacılar ... ve ...'in 14, 16, 17, 18, 19 ve 20 nolu bağımsız bölümlerine el atmasının önlenmesine ve bu bağımsız bölümlerin boş olarak davacılara teslimine, birleştirilen ve apartman yönetimi tarafından açılan davanın bilirkişi raporu ve ekindeki krokide gösterilen ortak yerlere davalı şirketin el atmasının önlenmesine karar verilmiştir.
 
 …
@@ -34,6 +36,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmak- sızın yazıl�
 
 ## Yargıtay 18. HD 2008/67 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874365900)
+
 Dava, üzerinde kat mülkiyeti kurulmuş bulunan ve tarafların kat maliki oldukları anataşınmazın ortak yerlerine haksız el atmanın önlenmesi ile ortak bahçede bulunan yapının kaldırılması istemine ilişkindir.
 
 …
@@ -44,11 +48,15 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2007/10728 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879908400)
+
 Kat Mülkiyeti Yasasının Ek 1.maddesi hükmüne göre bu yasadan ... her türlü anlaşmazlığın –değerine bakılmaksızın- Sulh Hukuk Mahkemesinde çözümlenmesi gerekir. Kat Mülkiyeti Yasasının 17. maddesinin üçüncü fıkrası gözönünde bulundurularak mahkemece davaya bakılıp işin esası hakkında karar verilmesi gerekirken, yerinde olmayan gerekçeye dayanılarak Asliye Hukuk Mahkemesinin görevli olduğu belirtilerek görevsizlik kararı verilmesi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2007/9318 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879238000)
 
 Dava, tek parsel üzerinde bulunan kat mülkiyetli anataşınmazda davalılar tarafından ortak alana baz istasyonu kurulması nedeniyle müdahalenin önlenmesi istemine ilişkin olup, bu haliyle uyuşmazlığın kat mülkiyeti hükümleri çerçevesinde çözümlenmesi gerekir.
 
@@ -58,6 +66,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2007/2884 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877307000)
+
 Dava, kat mülkiyeti kurulmuş olan taşınmazda ortak yerlerden olan çatı arası ve terasa davalının müdahalesinin önlenmesi istemine ilişkin olup, bu haliyle uyuşmazlığın kat mülkiyeti hükümleri çerçevesinde çözümlenmesi gerekir.
 
 Kat Mülkiyeti Yasasının Ek 1. maddesi bu Yasadan kaynaklanan her türlü anlaşmazlığın - değerine bakılmaksızın- sulh mahkemesince çözümleneceğini öngörmektedir. Bu durumda mahkemece, yasanın göreve ilişkin özel ve emredici hükmü karşısında davaya Sulh Hukuk Mahkemesince bakılmak gerekirken Asliye Hukuk Mahkemesinin görevli olduğu sonucuna varılıp görevsizlik kararı verilmesi doğru görülmemiştir.
@@ -66,9 +76,13 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2006/11132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885365900)
+
 Kat Mülkiyeti Yasası'nın ek 1. maddesi uyarınca bu Yasanın uygulanmasından doğacak her türlü uyuşmazlığa Sulh Hukuk Mahkemesinde bakılır ve adli ara vermede de görülür. HUMK.nun 176. maddesinin 10. bendi kapsamında bulunan bu davalara ilişkin kararların tebliğinde ve sürelerin hesabında anılan Yasanın 177.
 
 ## Yargıtay 18. HD 2006/3077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880257400)
 
 Davacılar vekili dava dilekçesinde, kat mülkiyetli anataşınmazın ortak yerine davacılar tarafından konulan eşyaların davalı kat maliki belediye tarafından kaldırılmak suretiyle yapılan müdahalenin önlenmesini, eşya konulan kısımların kendilerine teslimini istemiş, mahkemece davanın kabulüne karar verilmiştir.
 
@@ -77,6 +91,8 @@ Kat Mülkiyeti Yasasının ek 1. maddesi hükmüne göre bu yasanın uygulanmas�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2006/2813 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881825300)
 
 Dava kat mülkiyetli anataşınmazın üstüne yapılan ilave kat nedeniyle elatmanın önlenmesi istemine ilişkindir.
 
@@ -88,6 +104,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2006/2240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881135500)
+
 Dava, Kat Mülkiyeti Yasasına aykırılık teşkil eden eylemlerden dolayı yapılan elatmaların önlenmesi, kal ve eski hale getirme istemine ilişkindir.
 
 Kat Mülkiyeti Yasası hükümlerinin uygulanması gereken bu konuda anılan Yasanın Ek 1. maddesinin buyurucu hükmüne göre Sulh Hukuk Mahkemesi görevli olup, özel yasa hükmüne dayanan görev konusunda HUMK.nun 7. maddesinin son fıkrası hükmü de uygulanamayacağından, davaya Sulh Hukuk Mahkemesinde bakılmak üzere görevsizlik kararı verilmesi gerekirken, Asliye Hukuk Mahkemesinde görev konusu gözetilmeden, davacının istemi doğrultusunda karar verilmiş olması doğru görülmemiştir.
@@ -95,6 +113,8 @@ Kat Mülkiyeti Yasası hükümlerinin uygulanması gereken bu konuda anılan Yas
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Adana BAM 16. HD 2025/1495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176731100)
 
 İLK DERECE MAHKEMESİ KARARI: ... Asliye Ticaret Mahkemesi'nin 16/10/2024 tarih ve 2024/1087 Esas 2024/1111 Kararı ile; Dava dilekçesinin görev yönünden reddi ile, mahkememizin görevsizliğine karar verildiği anlaşılmıştır.
 
@@ -112,6 +132,8 @@ Göreve ilişkin hususların öncelikli değerlendirilmesinden akabinde ,taşın
 
 ## İstanbul BAM 17. HD 2025/590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140611300)
+
 Sigortalının, gerçekleşen zarardan dolayı sorumlulara karşı dava hakkı varsa bu hak, tazmin ettiği bedel kadar, sigortacıya intikal eder.” hükmüne yer verilmiştir.6100 Sayılı HMK'nun “Sulh hukuk mahkemelerinin görevi” başlığı altındaki 4. maddesinde de “(1) Sulh hukuk mahkemeleri, dava konusunun değer veya tutarına bakılmaksızın; a) Kiralanan taşınmazların, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaları, b) Taşınır ve taşınmaz mal veya hakkın paylaştırılmasına ve ortaklığın giderilmesine ilişkin davaları, c) Taşınır ve taşınmaz mallarda, sadece zilyetliğin korunmasına yönelik olan davaları, ç) Bu Kanun ile diğer kanunların, sulh hukuk mahkemesi veya sulh hukuk hakimini görevlendirdiği davaları, görürler.” hükmüne yer verilmiştir. Görev kamu düzenine ilişkin olup re'sen dikkate alınmalıdır. (Bkz Yargıtay 17. Hukuk Dairesinin ESAS NO: 2017/983 KARAR NO:
 2019/9857 sayılı kararı) 634 sayılı Kanunun 35/b maddesinde ise "Anagayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için gereken tedbirlerin alınması" hükmüne, 16. maddesinde “Kat malikleri anagayrimenkulün bütün ortak yerlerine, arsa payları oranında, ortak mülkiyet hükümlerine göre malik olurlar.” hükmüne, ayrıca 19/3. maddesinde de "Her kat maliki anagayrimenkule ve diğer bağımsız bölümlere, kusuru ile verdiği zarardan dolayı diğer kat maliklerine karşı sorumludur." hükmüne yer verilmiş; diğer yandan, aynı Kanunun Ek 1. maddesi ile de “Bu Kanunun uygulanmasından doğacak her türlü anlaşmazlık sulh mahkemelerinde çözümlenir.” düzenlemesine yer verilmiştir. Dosya kapsamında tapu müdürlüğünce gönderilen ... Ana Yapısı Yönetim planı kapsamında birbirine komşu iki parsel üzerinde kurulan tek bir ana yapı olarak inşa edilmiş ... adıyla maruf ana yapının yönetim planı mahkemeye gönderilmiştir. Somut olayda, davalı ... Site Yönetiminin binanın site yönetimi olduğu ve diğer davalının da site inşaatı yapan firma olduğundan bahisle zarardan sorumlu olduğu iddiasına dayanmaktadır.
 
@@ -123,6 +145,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davalılar vekillerin
 
 ## İzmir BAM 6. HD 2023/2094 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970634200)
+
 Dava, el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 Salihli 3. Asliye Hukuk Mahkemesince, davacı ile davalının tacir olduğunu,söz konusu işgal alanlarının davalı şirketin ticari faaliyeti kapsamında olduğunu, bu haliyle tacir olan tarafların ticari işletmeleriyle ilgili olan bu davanın 6102 sayılı TTK'nın 4/1. maddesi hükmünce nisbi ticari dava olduğu ve bu davaya bakmaya Asliye Ticaret Mahkemesi'nin görevli olduğunu belirterek Manisa Asliye Ticaret Mahkemesine görevsizlik kararı verilmiştir.
@@ -130,6 +154,8 @@ Salihli 3. Asliye Hukuk Mahkemesince, davacı ile davalının tacir olduğunu,s�
 Dosyanın gönderildiği Manisa Asliye Ticaret Mahkemesince, her ne kadar taraflar tacir olsalar dahi, uyuşmazlığın tarafların ticari işletmeleriyle ilgisinin bulunmadığı, davanın niteliği itibariyle mutlak ve nispi ticari dava olarak nitelendirilemeyeceği ve TTK hükümlerinin veya özel kanun hükümlerinin uygulanmasını gerektirir ticari bir uyuşmazlıktan söz edilemeyeceğini, uyuşmazlığın çözümünün genel mahkemelerin görev alanında kaldığını, aksi yöndeki uygulamanın Asliye Ticaret Mahkemelerinin kuruluş amacına ve niteliğine aykırı düşeceğini, bu nedenlerle TMK'nın 683.maddesi ve devamı maddelerinden kaynaklanan haksız el atmanın önlenmesi ve ecrimisil isteğinin genel hükümlere göre Salihli 3. Asliye Hukuk Mahkemesinin görevli olduğunu belirterek karşı görevsizlik kararı verilmiştir.
 
 ## Bursa BAM 5. HD 2023/219 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879539900)
 
 Davacılar vekili, müvekkillerinin Bursa İli, Nilüfer İlçesi, Görükle- Kurtuluş Mahallesi, 5765 ada, 4 parselde kayıtlı taşınmazın M1 Blok 1 ve 2 nolu taşınmazın malikleri olduğunu, ilgili taşınmazın tasfiye halindeki S.S. ...
 
@@ -153,12 +179,16 @@ Dosya kapsamı uyarınca davacıların kooperatif üyesi olduğu, davalı kooper
 
 ## İstanbul BAM 37. HD 2022/2860 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/828788800)
+
 K A R A R Dava, elatmanın önlenmesine ilişkindir. İstanbul 11. Asliye Hukuk Mahkemesince, "...Göreve ilişkin kurallar kamu düzenine yönelik olduğundan yargılamanın her safhasında resen gözetilmelidir. (6100 SY madde 1). Öte yandan Ticaret Mahkemeleri ile Asliye Hukuk Mahkemeleri arasındaki ilişki eski düzenlemelerin aksine iş bölümü değil görev ilişkisidir. (6102 SY madde 5/3). Ticaret Mahkemelerinin hangi davalara bakacağı sınırlı şekilde belirlenmiş ve sayılmıştır. (6100 SY madde 4). Buna göre ticari davalar, mutlak ticari davalar ve nispi ticari davalar şeklinde ikiye ayrılmaktadır. Nispi ticari davalar her iki tarafı tacir olan ve uyuşmazlığın tarafların ticari işletmelerinden kaynaklandığı davalardır. Mutlak ticari davalar ise anılan yasa maddesinde birden fazla bent halinde zikredilmiştir. Nispi ticari davadan sözedilebilmesi için ihtilafın sözleşmeden kaynaklanması şart olmayıp haksız fiilden veya sebepsiz zenginleşmeden kaynaklanması da mümkündür. Yeter ki haksız fiil-sebepsiz zenginleşme iki tarafında ticari işletmesiyle ilgili olsun.(Sabih Arkan Ticari İşletme Hukuku 17. Baskı sayfa 105, 4. HD 2016/422 esas -3278 karar).
 Öte yandan tüzel kişi tacirlerin adi sahası bulunmamaktadır.(6102 SY Madde 19/1) Bir diğer söyleyişle her türlü işlemleri ve eylemleri ticari niteliktedir. Yargıtay 17. Hukuk Dairesinin 2016/15112 esas -12031 nolu ilamında şu satırlara yer verilmiştir. " Somut dava incelendiğinde ; Sigortalı ile davalının tacir olduğu,davanın niteliği itibari ile her iki tarafın ticari işletmesini ilgilendiren haksız fiil olduğu anlaşıldığından T.T.K. 4/1 maddesi gereği dava nispi ticari dava niteliğinde olup, 5/1 maddesi gereği Asliye Ticaret Mahkemesi tarafından bakılıp sonuçlandırılması gerekmektedir. " Eldeki dava kısmen sözleşmeden kısmende haksız fiilden kaynaklanmaktadır. Her iki durum içinde görev mahkememize ait olmadığından ..." gerekçesiyle görevsizlik kararı verilmiştir. İstanbul 21. Asliye Ticaret Mahkemesi ise, "...Görevle ilgili düzenlemeler kamu düzenine ilişkin olup, taraflar ileri sürmese dahi yargılamanın her aşamasında re'sen gözetilir. Taraflar da yargılama bitinceye kadar görev itirazında bulunabilirler. Görev itirazı yapılmamış olsa bile re'sen mahkeme, ilk önce görevli olup olmadığını inceleyip karara bağlamalıdır. 6100 Sayılı Kanunun 2.
 Maddesinde bulunan "Dava konusunun değer ve miktarına bakılmaksızın malvarlığı haklarına ilişkin davalarla, şahıs varlığına ilişkin davalarda görevli mahkeme, aksine bir düzenleme bulunmadıkça asliye hukuk mahkemesidir. Bu Kanunda ve diğer kanunlarda aksine düzenleme bulunmadıkça, asliye hukuk mahkemesi diğer dava ve işler bakımından da görevlidir" düzenlemesi ile Asliye hukuk mahkemeleri genel görevli mahkeme olarak belirlenmiştir. Hal böyle olunca, uyuşmazlığın çözümünde genel yetkili mahkeme olan Asliye Hukuk Mahkemesinin görevli olduğu değerlendirilip HMK’nın 114/1-e ve 115/2. maddeleri uyarınca davanın usulden reddine ..." gerekçesiyle görevsizlik yönünde hüküm kurmuştur.6102 sayılı Türk Ticaret Kanununun 4/1-a maddesinde, her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ve çekişmesiz yargı işleri ile tarafların tacir olup olmadıklarına bakılmaksızın, bu kanunda öngörülen hususlardan doğan hukuk davalarının ticari dava sayılacağı açıkça düzenlenmiştir.
 Somut uyuşmazlıkta davacı, davalının kendisine ait taşınmaz çıkmadığını, haksız şekilde kullandığını bu nedenle el atmanın önlenmesi ile ecrimisil talep ettiği anlaşılmakla, taraflar arasındaki ticari ilişki nedeni ile imzalan protokol gereğince taşınmazın davacıya devredildiği anlaşılmakla, davacı ve davalı şirketler arasındaki dava TTK'nın 4.maddesi uyarınca, her iki tarafın ticari işletmesiyle ilgili hususlardan doğan dava olması nedeniyle ticari davadır. Bu kapsamda, tacirin haksız fiili ve elatmasının önlenmesi de ticari nitelikte bir davadır. Taraflar arasındaki uyuşmazlık her ne kadar taşınmaz hukukundan doğmuş olsa da tarafların ticari şirket olduğu ve uyuşmazlığın ticari işletmelerine ilişkin bulunduğu anlaşıldığına göre, ihtilafın 6102 sayılı Türk Ticaret Kanununun 3 ve 4. maddelerine göre İstanbul 21.Asliye Ticaret Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## İstanbul BAM 2. HD 2021/602 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644967200)
 
 Dava, mülkiyet hakkına dayalı elatmanın önlenmesi ve eski hale getirme istemine ilişkindir.
 
@@ -170,6 +200,8 @@ Dava, mülkiyet hakkına dayalı elatmanın önlenmesi ve eski hale getirme iste
 HÜKÜM: Yukarıda açıklanan nedenlerle: 1-İstinaf başvurusunun esasa ilişkin sebepler incelenmeksizin KABULÜ ile; İstanbul Anadolu 3. Asliye Ticaret Mahkemesi'nin 31/01/2019 tarih, 2015/763 esas, 2019/102 karar sayılı kararının HMK'nın 353/1.a.3 maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 37. HD 2020/825 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/582125600)
 
 K A R A R Esas dava, haksız işgal nedeniyle ecrimisil ve el atmanın önlenmesi, birleşen dava ise, ecrimisil talebine konu taşınmaz nedeniyle sebepsiz zenginleşmenin gerçekleştiği iddiasıyla açılan tazminat davasıdır. İstanbul 13. Asliye Hukuk Mahkemesince, "... Uyuşmazlığın, kredi sözleşmelerinden doğan borçlarının tahsil ve tasfiye edilmesi amacıyla davalı ve davacı banka arasında akdedilen 29.04.2015 tarihli protokolden kaynaklandığı, davacı ve birleşen dosya davalısı banka olup Türk Ticaret Kanunu hükümlerine tabi olduğundan dava ve birleşen davada görevli mahkeme Asliye Ticaret Mahkemesi..." olduğu gerekçesiyle görevsizlik kararı verilmiştir. İstanbul 1.
 Asliye Ticaret Mahkemesince, "... esas davada, ecrimisil tazminatının dayanağının TMK 683.maddesi ve devamı maddeleri olduğu, birleşen davanın da TBK'da düzenlenen sebepsiz zenginleşme hükümlerine dayalı olarak açıldığı, esas ve birleşen davanın konusu olan sebepsiz zenginleşme ve ecrimisil tazminatının TTK'da düzenlenmediği, buna göre esas ve birleşen davaların mutlak ticari dava olarak kabul edilemeyeceği, yukarıda açıklandığı üzere nisbi ticari dava olarak da kabul edilmesinin mümkün olmadığı, zira bir davanın nisbi ticari dava olarak kabul edilebilmesi için tarafların tacir olması ve ihtilafın ticari işletmeleriyle ilgili olması gerektiği, bu iki koşulun aynı anda gerçekleşmesinin zorunlu olduğu, huzurdaki bu davalarda bu koşulların gerçekleşmediği, nitekim davacı tacir olsa da , davalının tacir olduğuna ilişkin herhangi bir delil bulunmadığı gibi bir an için her iki tarafın tacir olduğu kabul edildiğinde dahi uyuşmazlığın her iki tarafın ticari işletmeleriyle ilgisinin bulunmadığı, sadece davacı banka bakımından ticari işletmesiyle ilgili olduğunun kabulü gerektiği, esas davada davalı-birleşen davada davacı yönünden, bu koşulun oluştuğundan söz edilemeyeceği, ecrimisil

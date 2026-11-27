@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 11. HD 2022/1506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/818593100)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına göre, davacının taşınmazın fiili hakimiyeti kendisinden alındıktan sonraki dönem için kira kaybı bedeli talep ettiği görülmüşse de bu hususta talepte bulunabilmesi için kooperatifin temerrüde düşürülmesi gerektiği, davacı tarafından çekilen ihtarnamenin kooperatife 09.05.2011 tarihinde tebliğ edildiği, ihtarda 7 günlük süre verildiği, davalı kooperatifin bu süre sonunda temerrüte düştüğü görülmekle bu süre için yani 2011 yılı için 7 ay 15 gün için kira talep edebileceği, buna göre yapılan hesaplamada davacının davalıdan 20.201,82-TL ecrimisil talep edebileceği, davacının ortak olarak kooperatif üyesi olmasına rağmen davacıya teslim edilebilecek bir dairenin bulunmaması nedeniyle davacının tazminat talep edebileceği belirtilerek; yapılan hesaplama doğrultusunda davanın kısmen kabulüne, 140.963,78-TL taşınmaz bedeli ile 20.201,82-TL ecrimisil tazminatının tahsiline, fazlaya ilişkin talebin reddine karar verilmiştir.
 
 …
@@ -37,6 +39,8 @@ Taraf vekillerinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1
 
 ## İstanbul BAM 16. HD 2020/1643 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596752800)
+
 İLK DERECE MAHKEMESİNİN KARARI: İlk derece mahkemesince yapılan yargılama sonucunda; ".... asıl davanın kısmen kabülüne, davacının kar yoksunluğu ve sözleşmenin 18. maddesine dayalı ceza koşuluna ilişkin tazminat isteminin reddine, sözleşmenin 12/2 maddesine dayalı istem yönünden davanın kabülü ile 199.000 USD'nin 10.10.2009 temerrüd tarihinden itibaren 3095 sayılı yasanın 4/a maddesi gereğince yürütülecek faiziyle birlikte davacı yararına davalıdan tahsiline, davalının haksız işgaline dayalı istem yönünden, davanın kabülü ile, 169.000 tl'nin 10.10.2009 temerrüd tarihinden itibaren yürütülecek avans faiziyle birlikte davacı yararına davalıdan tahsiline, birleşen davanın reddine..." karar verilmiştir.
 
 …
@@ -51,6 +55,8 @@ Mahkemece bilirkişi kök ve ek raporuna göre cezai şartın davalının ekonom
 HÜKÜM: Gerekçesi ayrıntılı kararda açıklandığı üzere 1-Davacı ve davalı vekilinin istinaf isteminin kısmen kabulüne, birleşen dava yönünden davacı vekilinin isteminin bu aşamada incelenmesine yer olmadığına, 2-İlk derece mahkemesinin kararının 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 12. HD 2020/618 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/581435700)
 
 Buna göre 20.000:3= 6.666,66- TL miktarda her bir kalem için dava değeri bulunduğu kabul edilmiştir.Davacı tarafça dava ıslah edilerek 20.000-TL kısmi davası 182.960,42-TL haksız rekabet nedeniyle uğranılan zarar ,132.000-TL (ecrimisil) araçların bedelsiz kullanımından kaynaklanan zarar ,25.332-TL de araçların zararına satılmasından kaynaklanan zarar olmak üzere ıslah edilmiştir.İlk derece mahkemesince 182.960,42-TL zarar kaleminin içinde 132.000-TL ecrimisil bedeli de bulunduğunu kabul ile bu kısma yönelik talebin ayrıca tahsiline karar verilmemiş ise de hükmedilen uğranılan zarar içerisinde ecrimisil bedeli de olduğu kabul edilmiştir. Hüküm bu yönüyle de kesinleşmiştir. Buna göre kısmi dava da iki kalem isteğin zamanaşımına uğramadığı anlaşılmakla 6.666,66x2=13.333,33TL nin kabulü gerekmektedir.Hükmüne uyulan Yargıtay bozma ilamı gereği ;6762 sayılı TTK nun 335/son maddesinde yazılı rekabet yasağının ihlalinden kaynaklanan zararlara TTK 335/son maddesi uyarınca haksız rekabet fiillerinin öğrenildiği tarihten itibaren 3 ay fiillerin vukuundan itibaren 1 yıllık zamanaşımı süresinin uygulanması gerekmektedir.
 Kısmi davanın açılması halinde ; dava açılmayan kısım için zamanaşımı işlemeye devam etmektedir. Asıl davanın açıldığı tarih 25.1.2010 olup ,ıslah tarihi ise 22.2.2016 tarihidir.Kısmi davanın açıldığı tarihten itibaren ıslah tarihine kadar TTK nun 335/son gereği 1 yıllık zamanaşımı süresi geçmiştir.Buna göre;rekabet yasağından kaynaklı talebin ıslah edilen kısma yönelik talebin zamanaşımı nedeniyle reddi gerekmektedir. 25.530-TL tutarlı araçların zararına satışına ilişkin kısım bakımından ise davacı zararın şirket yerine kendisine ödenmesini talep etmiş bulunduğundan zararın kendisine ödenmesi istemli dava açamayacağından bu kısma yönelik talebin aktif husumet yokluğundan reddine karar verilmiştir.Birleşen dava da ise, dava tarihinin maddi hata neticesinde 2010 yılı iken 2011 yılı olduğu gerekçesiyle davanın zamanaşımı nedeniyle reddine karar verilmiştir. Dava TTK 335/son gereği 1 yıllık zamanaşımı süresi içerisinde açılmıştır.Davalı ...'in, 09/12/2009 tarihinde kurduğu ....

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2006/8048 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/889982400)
+
 Davacı vekili dava dilekçesinde davalının bağımsız bölümünde kullanım yararı sağlamak için ön cephede ve pencere altında yer alan parapet duvarlarda 45 cm yüksekliğinde ve 15 cm genişliğinde bir tıraşlama yapmak suretiyle 40 cm kalınlığındaki duvarları 25 cm.ye düşürdüğünü, ön cephe duvarlarının demir takviyelerini projeye aykırı olarak söküp tahrip ettiğini ileri sürerek davalının bağımsız bölümünde yapmış bulunduğu usulsüz işlerin eski hale getirilmesini istemiş, mahkemece davalının yaptığı tıraşlama ve inceltme işlemlerinin cephe görünümünü koruduğu, duvarların taşıyıcı özelliği olmadığı ve yapılan işlerin anayapının statiğini bozmadığı gerekçesi ile davanın reddine karar verilmiştir.
 
 …
@@ -32,9 +34,13 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2006/7139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881283300)
+
 Ortak yerlere elatmanın önlenmesi ve eski haline getirilmesi bağlamında hükmedilen işin yapılmasından tüm davalıların sorumlu tutulmaları ve eski hale getirme giderleri için belirlenen miktarın avans niteliğinde olduğunun kararda belirtilmesi gerektiğinin düşünülmemiş olması doğru değil ise de, bu yanılgıların giderilmesi yeniden yargılamayı gerektirmediğinden, hüküm fıkrasının üçüncü satırında yer alan "davalının" sözcüğü yerine "davalıların", dördüncü satırda yer alan "davalıya" sözcüğü yerine "davalılara" sözcükleri yazılmak ve altıncı satırda yer alan "300.000.000 TL" rakamının önüne gerçekleşecek tüm giderlerin davalılara ait olması koşuluyla avans olarak" sözcükleri eklenmek suretiyle hükmün düzeltilmesine ve düzeltilmiş bu şekli ile ONANMASINA, 2.10.2006 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 18. HD 2006/5948 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884794400)
 
 Mahkemece Yargıtay bozma ilamına uyularak yapılan yargılama sırasında davaya dahil edilen davalı ... hakkında Ayancık Sulh Hukuk Mahkemesince verilen 14.11.2001 gün ve 2001/19-219 sayılı kararda; davalının çatıda bulunan yakıt depolarını iptal edip her dairenin merdiven başına ve giriş kapılarının yanına indirmek, kalorifer tesisat borularını kesmek suretiyle yaptığı müdahalenin men'ine, bunların eski hale getirilmesine hükmedildiği, bu kararın dairemizce incelenerek onandığı, mahkemenin de bozma sonunda bu davada kurduğu hükümde, davanın kısmen kabulüne yakıt tankı yönünden davacı ile dahili davalı ... arasındaki dava kastedilerek kesin hüküm bulunduğu gerekçesiyle davacının bu yöndeki talebinin reddine karar verilmiştir.
 
@@ -44,6 +50,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2006/5946 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884771200)
+
 Dava kat mülkiyetli anataşınmazın ortak alanı olan bahçeye onaylı plan ve projeye aykırı olarak yapılan kömürlüğe diğer bir kat maliki tarafından gerçekleştirilen elatmanın önlenmesi istemine ilişkindir.
 
 634 sayılı Kat Mülkiyeti Yasasının 16. maddesine göre kat malikleri anataşınmazın bütün ortak yerlerine arsa payları oranında ortak mülkiyet hükümlerine göre malik olurlar. Kat malikleri ortak yerlerde kullanma hakkına sahiptirler. Bu hakkın genel kömürlük, garaj, teras, çamaşırhane ve kurutma alanları gibi ölçüsü, aksine sözleşme olmadıkça her kat malikine ait arsa payıyla oranlıdır. Yargıtay uygulamalarına göre; ortak alanlardan yararlanma ve kullanma hakkı onaylı mimari projeye aykırı olarak tesis yapma sonucunu doğurmaz ve hiç bir kat malikine böyle bir hak bahşetmez. Kullanma ve faydalanma hakkı ortak alanların olduğu gibi kullanılmasına ilişkindir. Somut olayda ortak alana projeye aykırı olarak inşa edilmiş kömürlüğe salt el atmanın önlenmesi istenmiştir. Kömürlüğün yıkılmasına dair herhangi bir talepte bulunulmadığına göre davacının yapmış olduğu bu kömürlüğe vaki el atmanın önlenmesine karar verilmesinde bir isabetsizlik yoktur.
@@ -51,6 +59,8 @@ Dava kat mülkiyetli anataşınmazın ortak alanı olan bahçeye onaylı plan ve
 Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 18. HD 2006/5029 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879475100)
 
 Davacı vekili dava dilekçesinde, davalıların B3 Blok 76 nolu bağımsız bölümün balkonunu mimari projeye, yönetim planı hükümlerine ve 27.11.2004 günlü kat malikleri kurulu kararına aykırı olarak kapattıklarını ileri sürerek sözü edilen balkonun projesine uygun eski hale getirilmesini istemiştir.
 
@@ -61,6 +71,8 @@ Yerinde yapılan inceleme sonucu düzenlenen bilirkişi raporunda davalıların 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2006/4682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883356800)
 
 Davacı vekili dava dilekçesinde davalıların birlikte paydaş oldukları 19 nolu bağımsız bölümün pencerelerini onaylı mimari projeye aykırı olarak genişlettiklerini, ortak koridoru bu bağımsız bölüme kattıklarını ve arka cephe balkonunu kapattıklarını ileri sürerek sözü edilen projeye aykırılıkların eski hale getirilmesini istemiş, mahkemece yerinde yapılan keşif sonucu düzenlenen bilirkişi kurulu raporunda; dava konusu edilen 19 nolu bağımsız bölümün ön ve arka cephelerindeki tüm pencerelerin onaylı mimari projeye uygun olduğu ortak koridora elatılmadığı ve dava konusu bağımsız bölüm lehine yer kazanmanın ve dolayısıyla koridorun bağımsız bölümüne katmanın söz konusu olmadığı ancak, arka cephe balkonunun parapet (pencere altı duvar) üstünün kısmen duvar ile ve kısmen de pencere ile kapatılmış ve balkon ile salon arasındaki döşemeden tavana kadar olan cam bölmenin kaldırılarak balkonun iç mekana dahil edilmiş bulunduğu açıkça saptanmış, mahkemece yukarıdaki bilirkişi raporu ile 24.11.1978 günlü kat malikleri kurulu kararına dayanılarak davanın reddine karar verilmiştir.
 
@@ -73,10 +85,14 @@ Yukarıda açıklanan nedenlerle davacının yerinde görülen karar düzeltme i
 
 ## Yargıtay 18. HD 2006/4600 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882921500)
+
 İcra ve İflas Yasasının 30.maddesinde bir işin yapılmasına (yerine getirilmesine) ilişkin ilamların ne şekilde infaz edileceği açıkca hükme bağlanmış olup; somut olayda Mahkemece, davalının bağımsız bölümden arka bahçeye projeye aykırı olarak açılan kapısının kapatılmasına, havalandırma tesisatının kaldırılmasına bunun için davalıya 5 günlük süre verilmesiyle yetinilmesi gerekirken kararda hüküm altına alınan hususların süresinde yerine getirilmemesi durumunda bunun davalı tarafça yerine getirilmesine ve icraen infaz için 200 YTL'nin davalıdan avans olarak alınmasına da hükmedilmiş olması böylece bu işlerin yapılması için -Kat Mülkiyeti Yasasının 23. maddesi hükmünün gerektirdiği durumlar dışında- mülkiyet hakkının saygınlığı gözetilmeden davacının davalının bağımsız bölümüne girmesine yol açar nitelikte hüküm kurulmuş olması doğru değil ise de, bu hususun düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden, mahkeme kararın hüküm fıkrasının 2. paragrafının 2. satırındaki "verilmesine" sözcüğünden sonra gelen "süresinde eski hale getirme işleminin gerçekleştirilmemesi halinde davacı tarafça yerine getirilmesine icraen infaz için 200,00 YTL'nin davalıdan avans olarak
 alınmasına fazlaca masraf yapıldığı takdirde ayrıca davalıdan tahsiline" sözcüklerinin çıkartılmasına, hükmün düzeltilmiş bu şekliyle ONANMASINA, 1.6.2006 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 18. HD 2006/3833 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881150300)
 
 Davacı vekilleri dava dilekçesinde, davalılar ... ile ... 'un anataşınmazın üstüne projeye aykırı olarak bağımsız bölüm ilave ettiklerini ve 3, 4, 6 nolu bağımsız bölümlerin önündeki kaldırımı işgal ederek bağımsız bölümlerine kattıklarını ileri sürerek projeye aykırı olarak ilave edilen katların ve 3, 4, 6 nolu bağımsız bölümlerin önündeki kaldırımın üzerindeki darabalı kısmın kaldırılıp eski hale getirilmesini istemişlerdir.
 
@@ -94,6 +110,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2006/2984 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16500600)
+
 Davacılar vekili dava dilekçesinde, davalı kat malikinin ana taşınmazda kat irtifakı kurulurken tapuya verilen onaylı mimari projeye aykırı olarak bağımsız bölümünde ve ortak yerlerde değişiklikler yaptığını ileri sürerek bu değişikliklerin projeye uygun hale getirilmesini istemiştir.
 
 …
@@ -103,6 +121,8 @@ Davacılar vekili dava dilekçesinde, davalı kat malikinin ana taşınmazda kat
 Bu itibarla yukarıda açıklanan esaslar göz ön"n'je tutulmaks:zın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince (BOZULMASINA)
 
 ## Yargıtay 18. HD 2006/2441 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881194900)
 
 Davacı vekili dava dilekçesinde, davalı ...'nın anataşınmazın mimari projesinde yer almamasına karşın anayapının altına (zemin altına) bir bodrum kat yaptığını ve kiraya verdiğini, anayapının üstündeki dubleks dairesini bölerek ayrı ayrı kiraya verdiğini, çatının yarısının diğer kat maliklerince kullanılmasını engellediğini, ayrıca anayapının çevresine duvar ördüğünü ileri sürerek davalının belirtilen bu projeye aykırılıkları eski hale getirmesine ve haksız elatmasının önlenmesine karar verilmesini istemiştir.
 

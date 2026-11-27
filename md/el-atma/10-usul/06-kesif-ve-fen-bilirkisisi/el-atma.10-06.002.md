@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/4657 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144249100)
+
 Davacı vekili dava dilekçesinde özetle; Bursa ili, ..., ... Mahallesi 6587 ada 49 ve 50 parsel sayılı taşınmazlarda davacının hissedar olduğunu, taşınmazlara kamulaştırma yapılmaksızın el atıldığını ve taşınmazların imar planında kamuya tahsisli olduğunu belirterek belirlenecek tazminat bedelinin davalı idarelerden tahsilini talep etmiştir.
 
 …
@@ -41,6 +43,8 @@ Davalı idareler vekillerinin temyiz isteminin kısmen kabulü ile temyiz olunan
 
 ## Yargıtay 5. HD 2025/649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134284400)
+
 Davacı vekili dava dilekçesinde özetle; Diyarbakır ili, Silvan ilçesi, ...Mahallesi 179 ada 1 parsel sayılı taşınmaza kamulaştırma yapılmaksızın fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -58,6 +62,8 @@ Bu kararın infaz edilip edilmediği, ... adına tescilin gerçekleşip gerçekl
 
 ## Yargıtay 5. HD 2025/281 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132270800)
+
 Davacılar vekili dava dilekçesinde özetle;... ili, ... ilçesi, ... Mahallesi 208 ada 3 parsel (eski 822 parsel) sayılı taşınmaza kamulaştırma yapılmaksızın yol yapılmak suretiyle fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -73,6 +79,8 @@ Dava konusu... ili, ... ilçesi, ... Mahallesi 822 parsel sayılı taşınmazın
 Davalı idare vekilinin temyiz itirazlarının kısmen kabulü ile temyiz olunan Bölge Adliye Mahkemesinin kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2025/196 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117427600)
 
 İlk Derece Mahkemesi kararının, davalı vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince, istinaf başvurusunun esastan reddine karar verilmiştir.
 
@@ -95,6 +103,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 5. HD 2024/10102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122589400)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın konusuz kalması nedeniyle karar verilmesine yer olmadığına karar verilmiştir.
 
 …
@@ -116,6 +126,8 @@ Davacılar vekilinin temyiz itirazlarının kabulü ile Mahkeme kararının hük
 
 ## Yargıtay 8. HD 2024/6437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111378900)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleşen davaların kısmen kabul kısmen reddine karar verilmiştir.
 
 …
@@ -129,6 +141,8 @@ Yine, Mahkemece, gerekçede, mahalli bilirkişi ...'ın mirasçılardan... ile �
 SONUÇ: Yukarıda 1, 2, 3. bentlerde açıklanan nedenlerle 106 ada 9, 101 ada 15, 101 ada 17 parsel sayılı taşınmazlara ilişkin olarak, temyiz dilekçelerinin reddine, 4, 5, 6, 7 ve 8. bentlerde açıklanan nedenlerle 102 ada 12, 159 ada 19, 106 ada 23 parsel, 116 ada 12 parsel, 129 ada 10 ve 11,159 ada 20 parsel sayılı taşınmazlara yönelik hükmün 6100 sayılı Kanun'un Geçici 3 üncü maddesi yollaması ile 1086 sayılı Kanun'un 428 inci maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2024/4259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063452000)
 
 İlk Derece Mahkemesince, bozma ilamına uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -148,6 +162,8 @@ Davacı ... İdaresi vekilinin ve davalı vekilinin temyiz itirazlarının kabul
 
 ## Yargıtay 8. HD 2024/2688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046663700)
+
 Davacı ... Köyü Tüzel Kişiliği 22.11.2004 havale tarihli dava dilekçesi ile, sınırlarını belirttiği taşınmazın kadimden beri kendi köylülerince mera olarak kullanıldığını, ancak kendilerine ait olan bu yeri davalı Köy Tüzel Kişiliğinin bölgenin ağaçlandırılması amacıyla sürdüğü iddiasıyla elatmanın önlenmesi ve mera niteliği ile Hazine adına köy yararına özel siciline tescili istemiyle dava açmıştır. Yargılamanın devamı sırasında taşınmazın bir bölümü ...ilçesi ... köyü kadastro çalışma alanı içerisinde 111 ada 1 parsel sayısı ve orman niteliği ile tespit edilmiş, bir bölümü ise Gölova ilçesi ... köyü kadastro çalışma alanı içerisinde 106 ada 1 parsel sayısı ve orman niteliği ile tespit edilmiş olduğundan husumet orman yönetimine yaygınlaştırılmıştır.
 
 İlk Derece Mahkemesince, davanın kabulüne ve dava konusu ...ilçesi ... köyü 111 ada 1 parsel sayılı taşınmazın tapu kaydının iptali ile mera niteliğiyle tapuya kayıt ve tesciline, davalılar tarafından ağaçlandırma amacıyla yapılan elatmanın önlenmesine dair verilen karar Yargıtay (Kapatılan) 20.
@@ -162,6 +178,8 @@ Ne var ki, Kadastro Mahkemesince, davanın aktarılmasından önce Asliye Hukuk 
 S O N U Ç : Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/2439 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040155600)
 
 Davacılar vekili dava dilekçesinde; 1967 yılında davalı köyde bulunan dava konusu sudan yararlanmak için müvekkillerinin de aralarında bulunduğu köylerin sulama birliği kurduğunu, o tarihten bu yana müvekkillerinin dava konusu suyu kullandıklarını, ancak son yıllarda davalı köyün muhtarının dava konusu suya kepçeyle müdahale ederek müvekkillerinin suyu kullanmalarına engel olduklarını, müvekkillerinin hayvanları ve bahçeleri için bu suya ihtiyaçlarının olduğunu belirterek, davalının suya müdahalesinin önlenmesine ve dava konusu suda müvekkilleri lehine intifa hakkı kurulmasına karar verilmesini talep etmiştir.
 
@@ -185,6 +203,8 @@ rejim kurmaya elverişli, bilimsel, yeterli ve denetime uygun rapor alınmalı v
 
 ## Yargıtay 5. HD 2024/2195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1065814400)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -204,6 +224,8 @@ Dairemizce yapılan inceleme sonucunda; hükme esas alınan bilirkişi raporunda
 Taraf vekillerinin temyiz itirazları yerinde olduğundan temyiz olunan Mahkeme kararının sair hususlar incelenmeksizin BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/1177 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016416300)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; birleştirilen davanın tazminat davası olarak kabulüne, daha önce kesinleşen karar yönünden yeniden karar verilmesine yer olmadığına karar verilmiştir.
 
@@ -229,6 +251,8 @@ Açıklanan sebeplerle davacı-birleştirilen davada davalılar ... ve ... vekil
 
 ## Yargıtay 5. HD 2024/119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016262700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -250,6 +274,8 @@ Bu nedenle; mahallinde keşif yapılmak suretiyle, kamulaştırma krokisi ile fi
 Davalı idare vekilinin temyiz itirazlarının kabulü ile temyiz olunan kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/13198 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988356000)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... hakkında açılan davanın husumet ehliyeti yokluğundan reddine, davalı ... aleyhine açılan davanın kabulüne karar verilmiştir.
 

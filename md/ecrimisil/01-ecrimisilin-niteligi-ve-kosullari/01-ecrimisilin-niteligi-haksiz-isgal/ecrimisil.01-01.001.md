@@ -29,6 +29,8 @@ Ecrimisil davasında ispat, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) 19
 
 ## Yargıtay HGK 2021/1084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709860700)
+
 Dava, icra takibine itirazın iptali istemine ilişkin olup uyuşmazlığın çözümü için öncelikle itirazın iptali davasının hukuki niteliğinin açıklanması gerekmektedir.
 
 …
@@ -37,12 +39,16 @@ Görüleceği üzere takip talebine konu edilen kira alacağı ile davaya konu e
 
 ## Yargıtay HGK 2021/802 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685279400)
+
 Ecrimisile gelince; gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere, hak sahibinin kötü niyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarihli ve 1945/22 E, 1950/4 K. sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı ve birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Yine bahsi geçen İçtihadı Birleştirme Kararında; başkasının gayrimenkulünü haksız olarak zaptedip kullanmış olan kötüniyetli kimsenin o gayrimenkulü elinde tutmuş olmasından doğan zararları ve elde ettiği veya elde etmeyi ihmal eylediği semereleri tazminle mükellef olduğu, bir zarara uğramamış malik veya zilyede ecrimisil adı veya başka bir ad altında herhangi bir tazminat vermekle mükellef olmadığı sonucuna varılmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira bedeli, en fazlası mahrum kalınan gelir kaybı karşılığı zarardır.
 Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde oluşan ve kullanmadan kaynaklanan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda (olumsuz zarar) ecrimisilin kapsamını belirler.
 
 Nitekim TMK'nın 995. maddesinin 1. fıkrasında, iyi niyetli olmayan zilyedin geri vermekle yükümlü olduğu şeyi haksız alıkoymuş olması yüzünden hak sahibine verdiği zararlar ve elde ettiği veya elde etmeyi ihmal eylediği ürünler karşılığında tazminat ödemek zorunda olduğu hüküm altına alınmıştır. Haksız işgal, haksız eylem niteliğinde olup, bu durumda ecrimisilin tahsili için genel mahkemelerde genel hükümlere göre dava açılabileceğinde kuşku bulunmamaktadır.
 
 ## Yargıtay HGK 2021/502 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686560000)
 
 Dava, haksız alıkonulan konteynerler nedeniyle uğranılan zararın tazmini istemine ilişkindir.
 
@@ -54,6 +60,8 @@ Dava, haksız alıkonulan konteynerler nedeniyle uğranılan zararın tazmini is
 
 ## Yargıtay HGK 2019/752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520428400)
+
 Dava, ecrimisil istemlerine ilişkindir.
 
 …
@@ -61,6 +69,8 @@ Dava, ecrimisil istemlerine ilişkindir.
 Az yukarda belirtildiği üzere haksız işgal tazminatı (ecrimisil) haksız eylem niteliğinde olup genel hükümler uyarınca (TMK. m. 995) genel mahkemelerde görülmesi gereken bir dava türüdür. Kat Mülkiyeti Kanununda haksız işgal tazminatına yönelik herhangi bir düzenleme bulunmadığından uyuşmazlığa Kat Mülkiyeti Kanununun uygulanacağı dolayısıyla da sulh hukuk mahkemelerince bakılacağından söz etmek mümkün değildir.
 
 ## Yargıtay HGK 2019/325 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510853300)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil, olmadığı takdirde tazminat ve ecrimisil isteğine ilişkindir.
 
@@ -70,14 +80,20 @@ O hâlde, miras bırakanın ölümü ile terekesinin mirasçılarına intikal ed
 
 ## Yargıtay HGK 2013/285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/85682300)
+
 Diğer taraftan , birleşen dava ile Kamil Ö.. tarafından M.. Turizm Seyahat Ticaret A.Ş. aleyhine açılan ecrimisil davasının, davalının haksız işgalci olduğu görülüp, kesinleşen dava ile belirlendiğine göre, haksız işgal tazminatı niteliğindeki ecrimisile karar verilmesi kural olarak doğrudur.
 
 ## Yargıtay HGK 2006/816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77193500)
 
 Türk Medeni Kanunu hükümleri gereğince paydaşlardan birinin (veya buna bağlı olarak onun bağımsız bölümünü kullananın) ortak mülkiyete bağlı olan bir yeri kendi kullanımına özgülemesi durumunda diğer paydaşlarca ecrimisil (haksız işgal tazminatı) istenebilmesi için öncelikle o paydaş bu ortak yeri münhasıran kullanmaktan yöntemince men edilmiş olmalıdır. Başka bir anlatımla, diğer paydaşlar bu yerden kendilerinin de yararlanmak istediklerini şagil paydaşa yöntemince ihtar etmiş olmalarına karşın kullanımın sürdürülmüş olması gerekir.
 Somut olayda ortak mülkiyet hükümlerine tabi olan dava konusu bahçenin belli bir bölümünü kullanarak müdahalede bulunan davalının diğer paydaşlarca İzmir 1.Noterliğinin 18.06.2004 gün ve 9048 yevmiye sayılı ihtarnamesinin muhataba 01.07.2004 tarihinde bizzat tebliği ile uyarıldığı, bu uyarıda kendisine tebliğden itibaren 3 gün içinde bahçeye müdahalesinin önlenmesi istendiğine göre ecrimisilin sözü edilen uyarının tebliğini izleyen 3 günden sonraki günden başlayarak dava gününe kadarki süre için hesaplanıp buna hükmedilmesi gerekirken, 2003 yılına ilişkin bir yıllık haksız işgal tazminatı (ecrimisil) bedeline hükmedilmiş olması,doğru görülmemiştir...) gerekçesiyle bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda; mahkemece önceki kararda direnilmiştir.
 
 ## Yargıtay HGK 2005/135 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76641900)
 
 Hazinenin ecrimisil alacağı bir kamu alacağı ise de, bu alacak kamu ilişkisinden (hukukundan) değil haksız eylemden kaynaklanan haksız işgal tazminatıdır. Nitekim, 6183 sayılı Kanunun 1.maddesinde kanun koyucu aynı düşünceyi benimsemek suretiyle “Devlet, vilayet hususi idareleri ve belediyelerin akitten, haksız fiil ve haksız iktisaptan doğan alacaklarının bu kanun kapsamında olmadığını ” açıkça belirtmiştir.
 
@@ -96,9 +112,13 @@ Bilindiği üzere; ecrimisil, kötüniyetli zilyedin geri vermekle yükümlü ol
 
 ## Yargıtay 5. HD 2025/11381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176144600)
+
 Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan inceleme sonucunda, ecrimisil davası yönünden; ecrimisil istemi malvarlığı haklarına ilişkin olduğundan, davanın bu niteliğine göre davaya bakma görevi asliye hukuk mahkemesine ait olduğundan, mahkemece, ecrimisil talebi yönünden dosyanın tefrik edilerek görevsizlik kararı ile asliye hukuk mahkemesine gönderilmesi yerine, işin esasına girilerek bu konuda karar verilmesi, eski hale getirme davası yönünden; mahkemece, mahallinde keşif yapılıp, mimari proje, yönetim planı ve tapu kaydı uygulanarak, tarafların talep ve delillerinin tespit edildikten sonra gerekçeli bilirkişi raporu alınıp, projeye aykırılıklar tek tek tespit edilip, sonucunun değerlendirilerek hüküm kurulması gerekirken, eksik ve yetersiz inceleme ile hüküm kurulması, …
 
 ## Yargıtay 7. HD 2024/931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043337600)
 
 Ecrimisil diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarihli ve 22/4 sayılı İnançları Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı olarak birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarıyla haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerektiği vurgulanmıştır.
 
@@ -106,21 +126,31 @@ Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zar
 
 ## Yargıtay 5. HD 2023/9571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988796400)
+
 Dairemizce yapılan inceleme sonucu; ecrimisile yönelik talep bakımından; arsa niteliğindeki taşınmazın bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne şekilde kiraladıklarının taraflardan delilleri sorulmak suretiyle tespit edilmesi, varsa emsal kira sözleşmesi temin ettirilerek ecrimisil bedelinin hesaplanması gerekirken, bu yönteme uygun olmayan, soyut bir şekilde ecrimisil hesabı yapan rapor esas alınarak hüküm kurulması hatalı olduğu gibi, mahkemece verilen hüküm Dairemiz bozma kararı ile ortadan kalktığı halde, kamulaştırmasız el atma bedeli yönünden daha önce karar verildiğinden bahisle yeniden karar verilmesine yer olmadığına dair hüküm kurulması doğru olmadığından kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2023/7952 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950430200)
 
 Yukarı bentte anlatılan yargı safahatı gözetildiğinde eldeki davaların açıldığı tarihler itibarıyla davalı idarenin haksız işgalinden bahsedilemeyeceğinden asıl davanın dava tarihi olan 18.09.2012 tarihinden geriye dönük 5 yıl için ecrimisil şartları oluşmadığından ve birleştirilen dava açısından da kamulaştırmasız el atma olgusu ve ecrimisil şartları söz konusu olmadığından temyizen incelenen mahkeme kararının bozmaya uygun olduğu, kararda ve kararın gerekçesinde hukuk kurallarının somut olaya uygulanmasında bir isabetsizlik bulunmadığı anlaşılmış olup temyiz dilekçesinde ileri sürülen nedenler kararın bozulmasını gerektirecek nitelikte görülmemiştir.
 
 ## Yargıtay 7. HD 2023/5517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002733000)
+
 Gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere; ecrimisil (diğer bir deyişle işgal tazminatı), hak sahibinin haksız zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih 22/4 sayılı İnançları Birleştirme Kararında “...fuzuli işgalin kiraya benzetilemeyeceği, haksız bir eylem sayılması gerektiği.... bir zarar meydana gelirse bunun tazmin ettirileceği, ...Medeni Kanunun (eski) 908. maddesi anlamında zilyedin faydalanmasından ... bir istem olduğu...” vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen ... bir zarar giderim biçimi olması nedeniyle, en azı kira geliri, en çoğu ise tam gelir yoksunluğu karşılığı zarardır. Bir nesneye (taşınmaza) haksız olarak kötüniyetle, kendi çıkarına zilyet olan kimse, onu hak sahibine geri vermekle yükümlüdür.
 
 ## Yargıtay 7. HD 2023/3558 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929550200)
+
 Kabule göre de, dava konusu taşınmaz üzerine yapılan binanın dava dışı dernek tarafından yeniden imar ve ihya edilerek yapıldığı hususunda bir ihtilaf bulunmamaktadır. Bu durumda ecrimisil hesabının taşınmazın arsa vasfı niteliği dikkate alınarak hesaplanması gerekirken üzerindeki binanın getireceği kira bedeli dikkate alınarak hesaplanması hatalıdır..." gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 3. HD 2022/6009 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794883500)
 
 Dava, davalı kiracının kiralanan binada kiralama kapsamında kalmayan kısmının haksız olarak üçüncü kişilere kullandırılması karşılığında elde edilen kazancın ecrimisil olarak tahsili talebine ilişkindir.
 
@@ -131,12 +161,16 @@ Bu teras katın kullanımı başlı başına haksız kullanım olarak kabul edil
 
 ## Yargıtay 7. HD 2022/2262 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784443900)
+
 5.7.Yukarıda açıklanan ilkeler ışığında somut uyuşmazlık incelendiğinde, mahkemece davanın kısmen kabulü ile belirlenen ecrimisilin tahsiline dair hüküm kurulmuş ise de yapılan araştırma yeterli değildir. Ecrimisil, hak sahibi olmayan kötü niyetli zilyedin, ödemesi gereken kötü niyet tazminatı olduğuna göre, davalının, davacıya ecrimisil ödemeye mahkum edilebilmesi için haksız işgalinin duraksamaya yer bırakmayacak şekilde kanıtlanması gerekir. Mahkemece, hangi deliller esas alınmak suretiyle davalının haksız işgalinin sabit görüldüğü gerekçeli kararda açıklanmamıştır. Davacı tarafından sunulan dava dilekçesinde, davalının haksız işgalinin ispatı için davacı kurum tarafından yapılan tespit raporu delil olarak gösterilmiştir. Davacının tek taraflı olarak düzenlediği tespit raporu, davalı tarafından kabul edilmedikçe aleyhine delil niteliği taşımaz. Davacının, dava konusu yerde davalının haksız işgalini duraksamaya yer bırakmayacak şekilde kanıtlanması gerekir. Mahkemece bu hususta bir inceleme yapılmadan, lehe ve aleyhe deliller tartışılmadan, gerekçesiz hüküm kurulmuş olması doğru görülmemiştir.
 
 5.8.Kabule göre de, dava konusu taşınmazın tapu kaydının beyanlar hanesinde davalının mirasbırakanı Ayşe İsmet Özmek’e ait ev bulunduğuna dair muhdesat bilgisi bulunmaktadır. Muhdesat aidiyetine ilişkin bilginin tapu kaydının beyanlar hanesinde gösterilmiş olması ve dava tarihine kadar da iptal edilmemiş olması nedeniyle muhdesatın kullanımı haklı sebebe dayalı olup bu kullanımdan dolayı ecrimisile hükmedilemez. Ancak muhdesatın işgal ettiği zemine ilişkin alan kullanılmakta ise, sadece bu yönüyle ecrimisil hesaplattırılması gerekmektedir. 11.12.2013 tarihli bilirkişi raporunda, dairenin getireceği ecrimisil miktarı ile mahkemece hükme esas alınan 05.12.2019 havale tarihli ek bilirkişi raporunda arsanın getireceği ecrimisil miktarı birebir aynı değerde tespit edilmiştir. Bu haliyle bilirkişi raporları arasında çelişki bulunmaktadır. Ayrıca her iki raporda da somut veriye, emsal karşılaştırmasına yer verilmemiştir. Çelişki giderilmeden, işgale konu alanın yüzölçümü belirlenmeden ve somut veriye dayanan bilirkişi raporu temin edilmeden karar verilmiş olması doğru görülmemiştir.
 Açıklanan ilkeler gözetilmeksizin karar verilmiş olması nedeni ile kararın bozulmasına ve bozma nedenine göre sair temyiz itirazlarının incelenmesine şimdilik yer olmadığına karar vermek gerekmiştir.
 
 ## Yargıtay 8. HD 2021/4594 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683241400)
 
 Dava, paydaşlar arası ecrimisil istemine ilişkindir.
 
@@ -148,9 +182,13 @@ Kabule göre de, hemen belirtilmelidir ki ecrimisil hesabı uzmanlık gerektiren
 
 ## Yargıtay 8. HD 2021/4540 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665578700)
+
 Her ne kadar İlk Derece Mahkemesi tarafından İdare Mahkemesi tarafından verilen karar gerekçe gösterilerek red kararı verilmişse de tek başına İdare Mahkemesi kararının varlığı, davanın reddini gerektirmez. Mahkemece; usulüne uygun olarak keşif yapılarak ve mahallinde taraf tanıkları da dinlenerek; alınacak bilirkişi raporu ile dava konusu edilen ve icra takibine dayanak olan 30.01.2012 tarihli, 3/26 sayılı ödeme emrinde belirtilen 28.10.2011-06.11.2011 tarihleri ve 21.02.2012 tarihli, 3/27 sayılı ödeme emrinde belirtilen 07.11.2011-26.11.2011 tarihleri arasında davalının haksız işgalinin bulunup bulunmadığı araştırılarak, haksız işgalde bulunulan dönem varsa ecrimisil bedelinin hesaplanmasının istenmesi ve sonucu göre hüküm verilmesi gerekirken yazılı şekilde red kararı verilmesi doğru bulunmamıştır.
 
 ## Yargıtay 8. HD 2021/4411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/681051900)
 
 Dava; el atmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 
@@ -159,6 +197,8 @@ Dava; el atmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 Gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, hak sahibinin, hak sahibi olmayan kötüniyetli zilyetten isteyebileceği bir tazminattır. Hal böyle olunca; somut olayda, davacı vekilinin dava dilekçesinde belirttiği üzere; davacının, davalının dava konusu yeri kullanmasına izin verdiği sabit olduğuna göre, davalının bu rızanın geri alınmasına kadar kullanımının haksız işgal oluşturmayacağı, bu nedenle Mahkemece davacının yeri edindiği 30.03.2011 tarihinden itibaren belirlenen ecrimisile hükmedilmesinin doğru olmadığı açıktır. Bu doğrultuda Mahkemece yapılması gereken; tanıkların dinlenerek, tüm delillerle birlikte davacının, davalının dava konusu yeri kullanmasına gösterdiği rızanın ne zaman geri alındığının tespit edilmesi, davalının kullanımının bu tarihten itibaren haksız işgal oluşturacağı gözetilerek, rızanın geri alındığı tarihten dava tarihine kadar ecrimisil belirlenerek karar verilmesidir. Bu hususun gözardı edilerek yazılı şekilde ecrimisile hükmedilmesi isabetli değildir.
 
 ## Yargıtay 8. HD 2020/7746 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634374000)
 
 Dava, elatmanın önlenmesi, eski hale getirme ve ecrimisil isteklerine ilişkindir.
 
@@ -170,6 +210,8 @@ Bu durumda, Yargıtay ve Dairenin kökleşmiş içtihat ve ilkelerine göre, iş
 
 ## Yargıtay 8. HD 2019/11072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560010900)
+
 Dava; ecrimisil istemine ilişkindir.
 
 …
@@ -178,9 +220,13 @@ Ecrimisil hak sahibi olmayan zilyedin, zilyet olmayan hak sahibine ödediği kö
 
 ## Yargıtay 8. HD 2019/5654 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519118100)
+
 Hemen belirtilmelidir ki, ecrimisil hesabı uzmanlık gerektiren bir husus olup, taşınmazın niteliğine uygun bilirkişi marifetiyle keşif ve inceleme yapılarak ve taleple bağlı kalınarak haksız işgal tazminatı miktarı belirlenmelidir. Alınan bilirkişi raporu, somut bilgi ve belgeye dayanmalı, tarafların ve hakimin denetimine açık, değerlendirmenin gerekçelerinin bilimsel verilere ve HMK'nin 266 vd. maddelerine uygun olmalıdır. Eğer, özellikle arsa ve binalarda kira esasına göre talep varsa, taraflardan emsal kira sözleşmeleri istenmeli, gerekirse benzer nitelikli yerlerin işgal tarihindeki kira bedelleri araştırılıp, varsa emsal kira sözleşmeleri de getirtilmeli, dava konusu taşınmaz ile emsalin somut karşılaştırması yapılmalı, üstün veya eksik tarafları belirlenmelidir.
 
 ## Yargıtay 8. HD 2019/4965 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646664600)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -190,11 +236,15 @@ Ayrıca, ecrimisil hesabı uzmanlık gerektiren bir husus olup, taşınmazın ni
 
 ## Yargıtay 8. HD 2019/2680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501423700)
+
 Dava; tapulu taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Bilindiği gibi, 4721 sayılı TMK’nin 683. maddesi uyarınca bir şeye malik olan kimse, hukuk düzeninin sınırları içinde, o şey üzerinde dilediği gibi kullanma, yararlanma ve tasarrufta bulunma yetkisine sahiptir. Malik, malını haksız olarak elinde bulunduran kimseye karşı istihkak davası açabileceği gibi, her türlü'haksız el atmanın önlenmesinide dava edebilir. Ayrıca, gerek öğretide, gerekse Yargıtayın yerleşik içtihatlarında ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan kötü niyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih ve 2/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır.
 
 ## Yargıtay 20. HD 2019/1041 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483942200)
 
 O halde; sağlıklı bir sonuca varılabilmesi için dava konusu taşınmazın bulunduğu bölgede yetkili idarî merciler tarafından 4753 ve 5618 sayılı kanunlar uyarınca yayla tahsisi yapılıp yapılmadığı Özel İdare Müdürlüğünden; 4342 sayılı Kanun uyarınca mera (yayla) tahsisi yapılıp yapılmadığı ise mülkî amirlikten ayrı ayrı sorulup saptanmalı, sözü edilen kanunlar uyarınca bölgede mera tahsisi yapılmış ise mera tahsis haritası ve eki belgelerin tümü eksiksiz getirtilmeli; ... 2.
 Asliye Hukuk Mahkemesinin 2006/157 E. - 2006/249 K. sayılı dava dosyası, yukarıda bahsedilen ecrimisil tutanaklarının yanı sıra var ise davanın açıldığı tarihten önce ya da sonra ... yetkilileri tarafından hazırlanan idari tahkikat ve haksız işgal (ecrimisil) tutanakları getirildikten sonra yöreyi iyi bilen elverdiğince yaşlı, yansız, dava konusu taşınmazın bulunduğu köye komşu köyler halkından seçilecek yerel bilirkişi, taraf tanıkları ve belirlenen idari tahkikat ve haksız işgal (ecrimisil) tutanaklarında ismi yazılı kişiler ile bir fen memuru ve uzman bir ziraatçi bilirkişinin tümü hazır olduğu halde, dava konusu taşınmaz başında yeniden keşif yapılmalı, bölgede mera tahsisi yapılmış ise mera tahsis haritasının ölçeği ile kadastro paftasının ölçeği eşitlendikten sonra yerel bilirkişi yardımı, fen memuru bilirkişisi eliyle yerine her iki harita çakıştırılmak suretiyle uygulanmalı, uygulamada haritalarda tarif edilen belli poligon ve röper noktalar ile arz üzerindeki doğal ya da yapay sınır yerlerinden yararlanılmalı, bu yolla dava konusu taşınmazın mera tahsis haritasının kapsamında kalıp kalmadığı duraksamaya meydan vermeyecek şekilde belirlenmeli, taşınmazın bulunduğu bölgede
@@ -204,6 +254,8 @@ Asliye Hukuk Mahkemesinin 2006/157 E. - 2006/249 K. sayılı dava dosyası zemin
 
 ## Yargıtay 8. HD 2019/620 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481515900)
+
 Dava; tapulu taşınmaza elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -212,9 +264,13 @@ Diğer yandan da taşınmaz üzerinde bulunan hangi ağaçların kim tarafından
 
 ## Yargıtay 8. HD 2018/19803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466220500)
+
 Bilindiği üzere, ecrimisil, hukuken haklı ve geçerli bir nedene dayanmaksızın taşınmazı kullanan kişinin taşınmaz malikine ödemesi gerekli olan, en azı kira, en çoğu mahrum kalınan gelir kaybı olan haksız işgal tazminatıdır. Haksız fiil alacağı niteliğindeki ecrimisilin varlığı ve miktarı alınan bilirkişi raporu ve yapılan yargılama neticesinde saptanmıştır .
 
 ## Yargıtay 8. HD 2018/19494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492629800)
 
 Dava; elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -223,5 +279,7 @@ Dava; elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 Bilindiği üzere ve kural olarak, taraflar arasındaki evlilik birliği kesinleşen ilamla sona erdiğine göre; taşınmaz kaydı üzerinde olmayan kişi o yerde oturmaya devam ederse haksız işgalci olacağı kuşkusuzdur. Davalının katkı alacağının bulunması kendisini haksız işgalci olmaktan kurtarmaz. Ancak taşınmazda rızaya dayalı oturulduğu ispatlanırsa, rızanın geri alındığı tarih ihtarnamenin tebliği edildiği ya da davanın açıldığı gündür. O tarihten itibaren işgalciden ecrimisil ya da haksız işgal tazminatı alınacağı kuşkusuzdur. Bu bahisle mahkemece, alanında uzman bilirkişilerce dava konusu taşınmazda keşif yapılarak, Daire ve Yargıtay uygulamaları gözetilmek suretiyle hesaplanacak ecrimisile hükmedilmesi gerekirken, yazılı şekilde ecrimisil talebinin reddi yönünde hüküm kurulması doğru görülmemiştir .
 
 ## Yargıtay 3. HD 2018/11483 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463418500)
 
 Somut olayda; ihale ile kiraya verilen taşınmaza ait davaya konu 28.10.2004 başlangıç tarihli ve 10 yıl süreli olarak düzenlenen sözleşme 28.10.2014 tarihi itibarı ile sona ermiştir. Her ne kadar Mahkemece sözleşme bitiminden 3 ay öncesinden sözleşmenin sona ereceğine ilişkin her hangi bir ihtar çekilmediği ve talepte bulunulmadığı gerekçesiyle söz konusu süreli sözleşmenin süresiz sözleşmeye döndüğü kabul edilerek 28/10/2014 tarihinden itibaren kira sözleşmesinin 1 yıl uzadığının tespitine karar verilmiş ise de; sözleşmede kira süresinin uzatıldığına ilişkin bir hüküm bulunmadığından 2886 sayılı kanunun 75. maddesi gereğince mülki amirlikçe kira süresinin sona ermesinden önce tahliye edileceği ihtar edilmemiş bile olsa sözleşme yenilenmiş sayılmaz bu durumda kiracının bu tarihten itibaren 2886 sayılı Yasa’nın 75. maddesi uyarınca haksız işgalci durumunda bulunduğunun ve davacının dava açıldığı tarihte haksız işgalci olduğunun kabulü gerekir. Mahkemece, yukarıda açıklanan nedenlerle asıl davanın reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.

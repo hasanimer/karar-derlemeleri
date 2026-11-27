@@ -20,10 +20,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2016/797 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232790300)
+
 Paydaşlığın giderilmesi ve paydaşlıktan çıkarma davaları amacı ve sonucu itibariyle farklılık göstermekte ise de uyuşmazlığın çözümü için izlenecek yol ve yapılacak araştırma, inceleme açısından benzerlikler taşımaktadır. Gerçekten konunun düzenlendiği TMK. nun 696.maddesinde (MK 626/a) açıklanan yönteme göre paydaşlıktan çıkarma davasında da paydaşlığın giderilmesi davasında olduğu gibi öncelikle paydaşlıktan çıkarılması istenen paydaşın payını karşılayacak kısmın maldan ayırmaya olanak bulunup bulunmadığının yani payın aynen ayrılmasının mümkün olup olmadığının araştırılması gerekir. Bu hususun tesbiti için izlenen yol malın aynen bölüşülmesi (aynen taksim) suretiyle paylı mülkiyetin sona ermesi davasındaki yolun aynısıdır. Paydaşın payının aynen ayrılmasına olanak bulunmadığının anlaşılması halinde bu payı isteyen paydaş da bulunmazsa hakim, davalıya payını devretmesi için bir süre belirler ve bu süre içinde devredilmeyen payın açık artırmayla satışına karar verir. Paydaşlıktan çıkarma davalarında da paydaşlığın giderilmesi davasında olduğu gibi paya ait satış kararı cebri icra yoluyla paraya çevirmeye ilişkin hükümler uyarınca yerine getirilir.
 Bu benzerlikler nedeniyle yasa koyucu eski ...nun 626.maddesine 14.11.1990 tarih 3678 Sayılı Kanunla eklenen 626/a maddesinde yapılan bu yeni düzenlemede bu dava türü için görevli mahkeme hakkında özel bir düzenleme yapılmasına gerek görmemiştir. Tüm bu nedenlerle 14.11.1990 tarih 3678 Sayılı Kanunla eklenen eski ...nun 626/a maddesinin yürürlüğe girdiği tarihten bugüne kadar Dairemizin yerleşen devamlılık gösteren içtihatlarında yasa koyucunun görev hususunda düzenleme yapmaması ve yasa düzenlemesi dikkate alınarak bu tür davalara bakma görevinin Sulh Hukuk Mahkemesine ait olduğu kabul edilmiştir. Açıklanan bu olgular karşısında görevli mahkemenin paydaşlığın giderilmesi davalarında olduğu gibi Sulh Hukuk Mahkemesi olduğunun kabulü ile davanın esasının incelenmesi gerekirken aksi görüşle görevsizlik kararı verilmesi isabetsiz olmuştur.
 
 ## Yargıtay 14. HD 2020/7937 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623563100)
 
 Dava, elbirliği mülkiyetinin paylı mülkiyete çevrilmesi isteğine ilişkindir.
 
@@ -33,11 +37,15 @@ Davacı taraf dava konusu 555 parsel sayılı taşınmazda davalılar murisine a
 
 ## Yargıtay 20. HD 2020/690 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592978800)
+
 …
 
 ... 2. Sulh Hukuk Mahkemesince, davacı tarafın amacının borçlunun babasından kalan malları borca karşılık olmak üzere kendi üzerine tescilini istediği açık olup yoruma ihtiyaç olmadığı kanısına varılmıştır. Bu mümkün olmadığı takdirde illaki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi gerekiyor ise davacı tarafa bu konuda mehil verilerek ön mesele olarak bu konunun çözümü sağlandıktan sonra davanın ret veya kabul olarak karara çıkması mümkün iken davanın yanlış yorumlandığı kanısına varıldığından; 01.10.2011 tarihinde yürürlüğe giren 6100 sayılı HMK' nın 1. ve 4. maddeleri gereğince hangi dava ve işlerin sulh hukuk mahkemelerinde bakılacağı belirtilmiş olup, tapu iptali ve tescil davasının burada sayılmadığı, kaldı ki asliye hukuk mahkemelerinin görevinin asıl, sulh hukuk mahkemelerinin görevinin ise istisnai olduğu, kanunun açık bir biçimde sulh hukuk mahkemesini görevlendirmediği tüm davaların asliye hukuk mahkemesinde görülmesi gerektiği gerekçesiyle görevsizlik yönünde hüküm kurmuştur.
 
 ## Yargıtay 14. HD 2017/3204 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/361528400)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -49,6 +57,8 @@ Somut olayda; Mahkemece, dava konusu taşınmazın 2008 yılında evlilik birli�
 
 ## Yargıtay 14. HD 2017/184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/322903300)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -57,9 +67,13 @@ Dava tarihi itibariyle yürürlükte bulunan 1086 sayılı HUMK.nun Değişik 8/
 
 ## Yargıtay 1. HD 2015/395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119070700)
+
 Her ne kadar Nüfus Müdürlüğü tarafından yapılan araştırma sonucunda çekişmeli taşınmazda paydaş olan S..E..'ın nüfus kaydının olmadığı ve zabıta araştırmasında ise taşınmazın bulunduğu yerde tanınmadığı saptanmış ise de taşınmaz hakkında açılan ortaklığın giderilmesi davasının yapılan yargılaması sonucunda paydaş Siropi'nin paylarının 3. kişilere satış yoluyla devredildiği öteyandan TMK'nin 588. maddesi kapsamında gazetede verilen ilan sonucunda A..E..'ın duruşmaya katılımı sağlandığı, kadastro tespit tutanağının edinme sebebine göre (Karabet oğlu) Siropi ve Avidis'in kardeş oldukları açıktır.
 
 ## Yargıtay 14. HD 2013/11700 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657545500)
 
 Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil de üçüncü şahsa ait olduğunun anlaşılması halinde bu kimseyi muhdesat sahibi olarak davaya dahil etme ve ona satış bedelinden pay vermek mümkün değildir.
 
@@ -69,9 +83,13 @@ Somut olayda; dosya kapsamından ve 13.08.2012 tarihli fen bilirkişi raporundan
 
 ## Yargıtay 14. HD 2013/4875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/689383000)
+
 Paydaşlığın satış suretiyle giderilmesine ilişkin davalarda taşınmaz üzerinde bulunan bina, ağaç gibi bütünleyici parçaların ( muhtesat ) kime ait olduğu konusunda uyuşmazlık olup da bunlar üzerinde bazı paydaşların hak iddia etmeleri halinde, eğer bunların değeri Sulh Hukuk Mahkemesinin görevine giriyorsa olayın bir hadise olarak Sulh Hukuk Mahkemesinde çözümlenmesi, aksi halde paydaşa görevli mahkemede dava açmak üzere 6100 sayılı HMK’nın 165. Maddesi hükmü uyarınca süre verilmeli, bu süre içerisinde dava açılırsa sonucunun beklenmesi, açılmaz ise o konuda uyuşmazlık yokmuş gibi davaya devam edilmesi gerekir.
 
 ## Yargıtay 17. HD 2012/12657 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/789684400)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -83,6 +101,8 @@ Somut olayda uyuşmazlık, ortak muris Yorgi Simota'nın 10.10.1958 tarihinde ve
 
 ## Yargıtay 17. HD 2011/11599 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/801106100)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -93,9 +113,13 @@ Dosya kapsamından, sulh hukuk mahkemesindeki ortaklığın giderilmesi davasın
 
 ## Yargıtay 6. HD 2011/9475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058961500)
+
 Taşınmazlara ilişkin ortaklığın giderilmesi davaları kural olarak HUMK. nun 13. Maddesi gereğince taşınmazın bulunduğu yer mahkemesinde açılması zorunludur. Ne var ki taşınmazın birden fazla olması halinde aynı maddenin son fıkrasında bunlardan birinin bulunduğu yer mahkemesinde açılması öngörülmüştür. Esasen davanın açıldığı Şişli 4. Sulh Hukuk Mahkemesi HUMK. nun 13. maddesinin son fıkrası gereğince dava konusu taşınmazlara ilişkin ortaklığın giderilmesi davasına bakmakta yetkilidir. Adalar Sulh Hukuk Mahkemesi de taşınmazların bulunduğu yer mahkemesi olması ciheti ile yetkilidir. Bu durumda ikinci mahkemenin yetkisizlik kararı vermesi usul ekonomisi yönünden yerinde görülmemiştir. Mahkemece işin esası hakkında bir karar vermesi gerekirken yetkisizlik kararı vermesi doğru değildir.
 
 ## Yargıtay 17. HD 2011/1641 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/788549700)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 

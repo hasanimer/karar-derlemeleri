@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2010/3523 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540828800)
+
 Davacı ..., 12.05.2009 ile 20.05.2009 havale tarihli dilekçeleri ve 14.07.2009 tarihli yargılama oturumunda tutanağa geçen beyanı ile teknik bilirkişi Muzaffer Yiğitoğlu’nun rapor ve krokisine göre babasına ait ancak imar paftasına göre yol ve park alanında kalan gecekonduya davalı tarafından girilmesinin engellendiğini belirterek yapılan müdahalenin önlenmesine ve 2004 yılından itibaren işgal ettiği yerin ücretinin tarafına ödenmesini ve yerin teslimine karar verilmesini istemiştir. Dava dilekçesinde yerin değeri 250 YTL olarak gösterilmiş, 24.04.2008 tarihli yargılama oturumunda ise dava konusu gecekondunun değerinin yaklaşık 15.000 YTL olduğu açıklanmıştır. Ecrimisil bedeli konusunda herhangi bir rakam bildirilmemiştir.
 
 …
@@ -30,6 +32,8 @@ Davacı ..., 12.05.2009 ile 20.05.2009 havale tarihli dilekçeleri ve 14.07.2009
 Davalı ...’ın temyiz itirazları bu bakımdan yerinde olduğundan kabulüyle yerel mahkeme hükmünün yalnızca ecrimisil açısından açıklanan nedenlerle ve HUMK.nun 428.maddesi uyarınca BOZULMASINA ve 15 …
 
 ## Yargıtay 3. HD 2010/2858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965891000)
 
 Davalı Kooperatif, davacı arsa paydaşlarının ecrimisil talebinin zamanaşımına uğradığını, davacıların kat karşılığı inşaat sözleşmesi yaptığı yükleniciler tarafından inşaatın yapımının davalı kooperatife devredildiği ve arsa üzerindeki yapının davalı kooperatif tarafından yapıldığı hususunun tartışmasız olduğundan; bu yapının imalat bedeli ödenmeden (ki, hapis hakkı olduğundan) ecrimisil talep edilemeyeceğini savunarak, davanın reddini istemiştir. Davalı ... ise; kendisinin kooperatif başkanı olup, talep edilen ecrimisilden sorumlu tutulamayacağını savunarak, davanın reddini istemiştir.
 
@@ -45,6 +49,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 5. HD 2010/1964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1027479500)
+
 Dava, kamulaştırmasız el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -57,6 +63,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 14. HD 2010/1887 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633404200)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
 …
@@ -67,6 +75,8 @@ Ne var ki; açıklanan bu yanlışlıkların giderilmesi yeniden yargılama yap�
 SONUÇ: Yukarıda (1) bentte yazılı nedenlerle davalı-karşı davacı vekilinin tüm temyiz itirazlarının, davacı-karşı davalının sair temyiz itirazlarının REDDİNE, (2) bentte yazılı nedenlerle hüküm fıkrasının 6. bendinin ikinci satırındaki “780.00 TL” yazısının çıkartılarak yerine “25.954.00 TL” yazısının yazılmasına, hükmün 3. bendinin birinci satırındaki “1000.00 YTL” yazısından önce gelmek üzere” fazlaya dair hakları saklı tutularak” yazısının eklenmesine, hükmün DÜZELTİLMİŞ bu hali ile ONANMASINA …
 
 ## Yargıtay 3. HD 2010/500 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84010000)
 
 Davalı belediye vekili; öncelikle husumet yönünden reddini, müvekkili belediye tarafından pazar alanı olarak kullanılmadığını, şuyulandırma sonrası davacının hissesinin 22 parsele taşındığını, 2003-2005 yılları arasında parselin kısıtlı olmadığını, istenen ecrimisil miktarının fahiş olduğunu belirterek davanın esastan reddine karar verilmesini istemiştir.
 
@@ -80,6 +90,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 14. HD 2009/14629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850726500)
+
 Davalılar davanın reddini savunmuşlardır.
 
 Mahkemece davanın reddine karar verilmiştir.
@@ -92,6 +104,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazları
 
 ## Yargıtay 1. HD 2009/13820 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78810600)
+
 Davacı, 16.7.2007 tarihinde satın alarak kayden maliki olduğu 1189 ada 25 parsel sayılı taşınmazda mevcut bir dairesini davalının işgal ettiğini ve bu nedenle taşınmazına inşaat yapıp daire ve işyeri satarak kâr elde edemediğini ve maddi zarar gördüğünü ileri sürüp, asıl davasında maddi tazminat, birleşen davasında ise elatmanın önlenmesi ve ecrimisil isteklerinde bulunmuştur.
 
 Davalı, çekişmeli taşınmazdaki binayı ve oturduğu daireyi boşandığı eşi olan A..ile birlikte inşaa ettiklerini, ancak eski eşinin boşandıktan sonra arsa vasfıyla tapuda kayıtlı olan bu taşınmazı kendisinden mal kaçırmak ve muhtemel tazminatı ödememek için davacı firmaya sattığını, davacının kira alacağına ilişkin yapmış olduğu icra takibine, talebinin fahiş olması nedeniyle itiraz ettiğini, iddiaların yerinde olmadığını belirtip, davanın reddini savunmuştur.
@@ -103,6 +117,8 @@ Mahkemece, davalının çekişmeli taşınmaza elatmasının önlenmesine, davac
 Hal böyle olunca, uzman bilirkişi tarafından belirlenen ecrimisile hükmedilmesi gerekirken, yanılgılı değerlendirmeyle ecrimisil isteminin tümden reddine karar verilmiş olması doğru değildir. Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan nedenden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 24.12.2009 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2008/8688 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78164200)
 
 Davacılar,kayden maliki bulundukları 151 parsel sayılı taşınmazın bir kısmını komşu parsel maliki davalıların bina yapmak,bahçe duvarı içine alarak bahçe olarak kullanmak,taş yığmak suretiyle işgal ettiklerini,kendi taşınmazının sınırlarını belirlemek üzere yapılan tel örgüleri söküp attıklarını,bu nedenle davalıların hakaret ve tehditlerine maruz kaldıklarını ileri sürüp elatmanın önlenmesi,yıkım,ecrimisil ve manevi tazminat istemişlerdir.
 
@@ -119,6 +135,8 @@ Ne var ki, bozma ilamında; mahkemece belirlenecek ecrimisile hükmedilmesi gere
 Davacıların temyiz itirazları yerindedir.Kabulüyle hükmün H.U.M.K.'nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2008/7756 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78325400)
 
 Davacı, kayden maliki bulunduğu 118 ada 5 parsel sayılı taşınmazı moloz, hurda malzeme dökmek ve tenis kortu vs. yapmak suretiyle davalıların haksız işgal ettiğini ileri sürüp, elatmanın önlenmesine, yapıların yıkımına ve 30.000.000.000.-TL. ecrimisilin tahsiline karar verilmesini istemiştir.
 
@@ -138,6 +156,8 @@ Hal böyle olunca; yerinde yeniden üç uzman bilirkişi ile keşif yapılması,
 
 ## Yargıtay 14. HD 2007/4948 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849243500)
+
 Davalı iyi niyetli olduğunu açılan davanın reddini savunmuştur.
 
 Mahkemece davacının tahsis suretiyle yararlandığı 2989 parsel sayılı taşınmaz üzerinde bilirkişi krokisinde kırmızı ve yeşil renklerle gösterilen yerlere davalının elatmasının önlenmesine ve bu yerler üzerindeki taşınır mal niteliğindeki yapıların kal’ine 1056,00 YTL ecrimisil ve 845. YTL munzam zararın davalıdan tahsiline karar verilmiştir.
@@ -151,6 +171,8 @@ Diğer taraftan; munzam zarar veya faizi aşan zarar borçlar Kanunun 105. madde
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalının temyiz itirazlarının REDDİNE, 2. bent uyarınca temyiz olunan hükmün BOZULMASINA …
 
 ## İstanbul BAM 43. HD 2025/1399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182905500)
 
 Davalı vekili cevap dilekçesinde özetle; davalı vekili cevap dilekçesinde ve özetle; taraflar arasında 07.12.2007 tarihinde bayilik sözleşmesi bağıtlandığını, 28.12.2007 tarihinden itibaren 15 yıl süre ile iNTİFA hakkı tesis edildiğini, davacı taleplerinin BK.
 
@@ -175,6 +197,8 @@ Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESA
 
 ## İstanbul BAM 15. HD 2025/830 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159968200)
+
 Asliye Ticaret Mahkemesi'nin 2011/50 Esasını aldığı, iş mahkeme dosyasının da mahkememize devredilerek mahkememizin (İst.14.ATM) 2014/295 Esasını üzerinden yargılamanın devam ettiği, (İstanbul 3.ATM 1993/1311 > bozmayla İstanbul 3.ATM 2007/84 > bozmayla İstanbul 3.ATM 2008/408 > devirle 20.ATM 2011/50 > devirle 14.ATM 2014/295) 2.Bozma;
 Yargıtay Hukuk Genel Kurulu'nun 2008/15-16 Esas 2008/138 Karar sayılı kararının bozma gerekçesinde "...Sonuç itibariyle taraflar arasındaki 27.12.1990 tarihli sözleşme taraflarca serbest irade ile akdedilmiş ve işlerlik kazanma, hüküm ifade etme ve nihayetinde geçerlilik koşuları da yine yanlarca kararlaştırılmış; bu koşuların yerine getirilmemesinin sonuçları da çok açık biçimde ortaya konulduğu , sözleşmenin imzalanmasına rağmen işlerlik kazanmasını koşula bağlayan bu açık kararlaştırmada davalıya ait yükümlülükler gösterilmiş ve yerine getirilmemiş olmakla sözleşmenin işlerlik kazanıp, devam etmesine olanak kalmadığı , böylece, davalının kiracılık sıfatının sona ermiş olmasına ve dolayısıyla da taşınmazı elinde bulundurmasına olanak veren bir hukuki sebep de bulunmamasına göre, davalının haksız işgalinin karşılığı tazminatı ödemekle yükümlü olduğunun kabulü gerektiği , öyle ise mahkemece yapılacak iş; ecrimisil tazminatının en azının kira geliri, en çoğunun da tam kar yoksunluğu olduğu dikkate alınıp, taşınmazın bulunduğu bölge, kullanma biçimi göz önünde bulundurularak konusunda uzman bilirkişi kurulundan alınacak rapor doğrultusunda hüküm kurmaktan ibaret olması gerektiği ..."
 şeklinde karar verildiği, Bozma üzerine , bozma ilamına uyulmasına karar verilerek yargılamaya devamla esas hakkında hüküm tesis edildiği, Bozma sonrası alınan bilirkişi raporları; İstanbul 3.ATM 2008/408 Esas sayılı dosyası üzerinden alınan Mimar, Gayrimenkul Değerleme Uzmanı, SMMM, İTÜ İnşaat Fakültesi Öğretim Üyesi, Konu Uzmanı ve Harita Mühendisinden oluşan 6 kişilik bilirkişi heyetinin 20/10/2009 tarihli 11 sayfadan ibaret raporunda özetle; her dönem için hesaplanan ecrimisil ve dönemler içinde ödenmiş olan kira tutarları listelenerek her dönem için ve toplam kalan ödenmesi gereken kira tutarlarının tabloda listelendiğini;
@@ -184,6 +208,8 @@ Yargıtay Hukuk Genel Kurulu'nun 2008/15-16 Esas 2008/138 Karar sayılı kararı
 , itirazlarının dikkate alınmadan karar verildiğini , müvekkil banka lehine hükmün düzeltilmesi gerektiğini , asıl davada , birleşen 8. Asliye Ticaret Mahkemesinin davasında ve birleşen 2. Asliye Ticaret Mahkemesinin 2006/336 Esas sayılı dosyasında lehe kısımların saklı kalarak , banka lehine düzeltilmesini talep ettiklerini belirterek yerel mahkeme kararının kaldırılmasını talep etmiştir. Birleşen 9. Asliye Ticaret Mahkemesinin 2007/406 Karar sayılı dosyasında Davacı vekili istinafında , ecrimisil hesabının bilirkişi raporunda düşük hesaplandığını , kademeli faiz işletilmesi gerekirken , dava tarihinden itibaren faiz işletildiğini , 4.932.373,,03 TL. Üzerinden gerçek kişi davalıların sorumlu tutulması gerektiğini , davalılar lehine hükmedilen vekalet ücretini kısmen ret sebebiyle verildiğini , davanın açıldığı tarihte alacak miktarını belirlemelerinin mümkün olmadığını , hükmedilen tazminatı davalılardan tahsil edip edemeyeceklerinin belli olmadığını , böyle bir vekalet ücreti ödemelerinin müvekkilinin zararına olduğunu , yasaya aykırı olduğunu , birleşen 2007/406 Esas sayılı dosyaya dair kararın kaldırılmasına karar verilmesini talep etmiştir. Davalılar ... vekili istinafında …
 
 ## İstanbul BAM 2. HD 2025/544 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126682800)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ:Mahkemece; "1-Davacı tarafından davalı aleyhine açılan elatmanın önlenmesine ilişkin davanın KABULÜ ile, İstanbul İli, Tuzla İlçesi, ... Mah. ... ada, ... parsel maliki davalının davacıya ait İstanbul İli, Tuzla İlçesi, ...
 
@@ -199,6 +225,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle:1-Davalı vekilinin istinaf başvurusun
 
 ## İstanbul BAM 53. HD 2023/904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/954534600)
+
 Dava, KKİS gereğince yapılan binanın bazı kısımlarının kamuya ait yeşil alana taşar şekilde yapılması nedeniyle ilgili belediyesince uygulanan ecrimisilin yükleniciden tahsili istemine ilişkin olup, davacı kat maliki davalılar yüklenicidir.
 
 …
@@ -210,6 +238,8 @@ Buna göre, mahkemece, davacının taleplerinin haksız fiilden kaynaklı rucüe
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusunun KABULÜNE, 2-İstanbul 18. Asliye Ticaret Mahkemesi'nin 13/03/2023 tarih, 2022/303 Esas, 2023/174 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 45. HD 2022/795 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786131100)
 
 Davalı ... cevap dilekçesinde özetle; Küçükçekmece Mahkemelerinin yetkili olduğunu, dava konusu dubleks dairenin Kooperatif kayıtlarında görüldüğü üzere ...'a ait olup davacı ile bir ilgisi olmadığını, dairenin mal sahibi ....’ın bilgisi dahilinde 2005 yılından bu yana tarafından kullanılmakta olduğunu, Kooperatifin 01/08/2008 tarihli genel kurulunda dairelerin üyelere dağılımı yapılmış olup buna ilişkin karar örneğinin ilişikte sunulduğunu, davacı ...'a C 1 blok 1 no'lu daire isabet ettiğini, davacının dava konusu ettiği C 1 Blok 12 no'lu dubleks dairenin ise ...'a ait olduğunu ayrıca davacı tarafından ecrimisil talep edilebilmesi için gereken intifadan men koşulunun gerçekleşmediğini belirterek, öncelikle yetki yönünden, aksi halde haksız ve hukuki mesnetten yoksun açılan davanın esastan reddine karar verilmesini talep etmiştir.Davalı Kooperatif Yönetimi cevap dilekçesinde özetle;
 Kooperatifin adresi ve dava konusu taşınmazların Başakşehir’de olması itibarıyla davada Küçükçekmece Mahkemelerinin yetkili olduğunu, Kooperatifin 01/08/2008 tarihli genel kurulunda dairelerin üyelere dağılımı yapılmış olup, bu dağılım çerçevesinde davacı ...'a C 1 blok 1 no'lu dairenin isabet ettiğini, C 1 Blok (11-12) no'lu dairenin ... adına kayıtlı olduğunu ve halen (11) kapı numarası ile görülen ... adına olan dairenin oğlu ... tarafından kullanıldığını, C1 blok (12) no'lu dubleks dairenin ise üye dağılım listesinde (13-14) olarak görülmekte olup bu dubleks dairenin ... adına kayıtlı olduğunu, ..., Kooperatifimizin kayıtlı üyesi olup 2007 yılı Genel Kurul toplantımızın yapıldığı 24.06.2008 tarihinde, ...'ın katılmadığı toplantıda yer belirleme ve numaralandırma yetkisi Yönetim Kuruluna verilmesi yönünde karar alınmıştır.

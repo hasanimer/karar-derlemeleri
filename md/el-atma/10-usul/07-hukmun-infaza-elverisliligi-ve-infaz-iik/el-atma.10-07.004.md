@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2012/190 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78949200)
+
 Davacı, maliki olduğu 441 parsel sayılı taşınmazın 221.70 m2’lik bölümünü sınır komşusu 436 parsel maliki davalıların duvarla çevirmek ve taşkın yapılaşmak suretiyle işgal ettiklerini ileri sürerek elatmanın önlenmesi ve yıkıma karar verilmesini istemiştir.
 
 Davalılar, 436 sayılı parseli kadastral sınırlar içinde kullandıklarını belirterek davanın reddini savunmuşlardır.
@@ -41,11 +43,15 @@ Davalıların bu yöne değinen temyiz itirazları yerindedir. Kabulüyle, hükm
 
 ## Yargıtay 1. HD 2011/8355 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918279000)
+
 Dava; çaplı taşımaza elatmanın önlenmesi ve yıkım isteklerine ilişkin olup, “davacının mülkiyet hakkına hukuksal anlamda tecavüz bulunduğunun ve muaraza yaratıldığının kabulü ile Fen bilirkişisinin krokili raporunda B ve C harfleriyle gösterilen ve esasen davacıya ait 749 parsel kapsamında kalan bu bölümlere elatmanın önlenmesine, diğer taraftan davalı yanın kayden malik olduğu 748 parsel sayılı taşınmaz üzerinde bulunan yapıların, davalının mülkiyet sınırları içinde yer aldığı, 749 parsele taşkın olmadığı ancak çekme mesafesine uyulmamasının 3194 sayılı Yasanın 32 ve 42. maddeleri kapsamında idari yaptırımı gerektirdiği” saptanarak kararın bozulmuş olmasında bir isabetsizlik yoktur. Davalının bu yönlere değinen karar düzeltme istekleri yerinde değildir. Reddine.
 
 Ancak, bozma ilamının son paragrafında “(B) ve (C) harfleriyle gösterilen alana elatmanın önlenmesine karar verilmesi” gerekirken ilamın içeriği ile ters düşecek şekilde “A ve B ile gösterilen” bölümlere elatmanın önlemesine ilişkin karar verilmesi doğru değildir.
 
 ## Yargıtay 14. HD 2011/8183 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762643100)
 
 Davacı paydaşı bulunduğu 19 parsel sayılı taşınmaza; üzerindeki ağaçları aşılamak, zeminini çapalamak gibi eylemlerle davalının elattığını ileri sürerek elatmanın önlenmesini talep etmiştir.
 
@@ -61,6 +67,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 14. HD 2011/8095 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762672800)
+
 Davacılar, maliki bulundukları 3276 parsel sayılı taşınmaza davalının tecavüz ettiğini belirterek el atmasının önlenmesini ve ecrimisil istemişlerdir.
 
 Mahkemece elatmanın önlenmesine ve ecrimisil talebinin kısmen kabulüne karar verilmiştir.
@@ -74,6 +82,8 @@ Hukuk Usulü Muhakemeleri Kanununun 388 ve 389.maddeleri gereğince hüküm fık
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin diğer temyiz itirazlarının reddine, (2) ve (3) numaralı bentler uyarınca kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 5. HD 2011/5077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033977100)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -89,6 +99,8 @@ Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan ne
 
 ## Yargıtay 5. HD 2011/4524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1027122500)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davalı ... hakkındaki davanın husumetten reddine, davalı ... aleyhine açılan davanın kabulüne karar verilmiş, hüküm davalılardan ... vekilince temyiz edilmiştir.
@@ -102,6 +114,8 @@ Taşınmazın kaldırım olarak el atılan ve Fen Bilirkişisi ...'ün 23.11.200
 Davalı ... vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2011/3460 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/530192600)
 
 Davacı ... vekili, vekil edenine ait ev ve tarım arazisi niteliğindeki tapusuz taşınmazına göre, daha üst kotta köy yolu ve davalı gerçek kişilere ait taşınmazların bulunduğunu, önceden yağmur suyunun arklarla kontrol altına alınarak tarım arazilerine zarar vermeden düşük kottaki taşınmazlara akıtıldığını, ancak davalılar tarafından arkların ağızlarının kapatılması sonucu yağmur sularının davacıya ait taşınmaza zarar verdiğini ileri sürerek davalıların haksız elatmalarının önlenmesine karar verilmesini istemiştir.
 
@@ -117,6 +131,8 @@ Halbuki; dosya arasında bulunan ziraat mühendisi Orhan Bülbül tarafından d�
 Yukarıda açıklanan gerekçelerle, davacı vekilinin yerinde görülen temyiz itirazlarının kabulüyle usul ve kanuna aykırı bulunan hükmün davalı köy tüzel kişiliğine ilişkin bölümünün HUMK.nun 428.maddesi uyarınca BOZULMASINA ve 135 …
 
 ## Yargıtay 5. HD 2010/10011 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029205800)
 
 Dava, kamulaştırmasız el atmanın önlenmesi ve eski hale getirme, bunun mümkün olmaması halinde el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -134,6 +150,8 @@ Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan
 
 ## Yargıtay 20. HD 2010/6312 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/820987100)
+
 Davacı Hazine, 181 parsel sayılı taşınmazın 4.295 m2 yüzölçümlü kesiminin kesinleşen orman tahdidi içinde bulunduğu , 7.620m2 yüzölçümlü bölümünün ise tahdit içinde iken Hazine adına orman rejimi dışına çıkarıldığı iddiasıyla temyize konu davayı açmıştır. Mahkemece, Yargıtay denetiminden geçerek kesinleşen ... 3.
 
 …
@@ -143,6 +161,8 @@ Asliye Hukuk Mahkemesinin 27.12.2007 gün 2007/219-448 sayılı ilamıyla 181 pa
 onanması uygun görülmüştür. Bu sebeple, hüküm fıkrasında yer alan 4.bendin tamamen hüküm fıkrasından çıkarılarak bunun yerine “Davalılardan ... ve ... kendilerini vekil ile temsil ettirmiş ise de lehlerine hüküm kurulmadığından vekalet ücreti takdirine yer olmadığına “cümlesinin yazılması suretiyle düzeltilmesine, ve hükmün H.Y.U.Y.’nın 438/7.
 
 ## Yargıtay 5. HD 2010/5028 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028245600)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -156,6 +176,8 @@ Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 14. HD 2010/449 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622249300)
+
 Dava, elatmanın önlenmesi istemine ilişkindir.
 
 …
@@ -166,11 +188,15 @@ SONUÇ: Yukarıda açıklanan nedenle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 18. HD 2009/12181 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881770600)
+
 Mahkeme kararının hüküm fıkrasında davanın kabulü ile davaya konu bağımsız bölümün eski haline getirilmesine denilmekle yetinilip sözü edilen taşınmazda davalı yanın müdahalede bulunduğu ve önlenmesine karar verilip projesine uygun eski haline dönüştürülmesi gereken işlerin neler olduğu ve ne şekilde eski hale getirileceği açıkça gösterilmemiştir. HUMK.nun 388. maddesinin son fıkrası ve 389. maddesi hükümleri uyarınca mahkeme kararının hüküm fıkrası kısmında taraflara yüklenen borç ve tanınan hakların kuşku ve duraksamaya yer vermeyecek biçimde açıkça gösterilmesi gerekir. Mahkemece, anataşınmazın yerinde yaptırılan inceleme sonucu bilirkişi tarafından düzenlenen rapora dayanılarak hüküm kurulduğuna göre bu hükme dayanak oluşturan raporda davalı yanca el atılıp projeye aykırı değişiklikler yapıldığı belirtilen kısımların hüküm fıkrasında açıkça gösterilmesi gerekirken infazda duraksamaya yer verecek ve anılan yasa maddesi hükümlerine uygun düşmeyecek biçimde hüküm kurulmuş olması doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/8933 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847301200)
 
 Davacı, maliki bulunduğu 136 ada 20 parsel sayılı taşınmaza, komşu 136 ada 19 ve 21 parsel sayılı taşınmazların malikleri olan davalıların elatmalarının önlenmesini istemiştir.
 
@@ -189,6 +215,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2009/8889 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892689500)
+
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye, uzman bilirkişi kurulu raporuna ve mahkemece uyulan bozma kararı gereğince işlem yapılarak Hazinenin davasının kısmen kabulüne, bilirkişiler tarafından hazırlanan 11/08/2008 tarihli krokili raporda (A) harfiyle işaretli kırmızı ... 1439.80 m2'lik bölümün orman niteliğiyle Hazine adına tapuya kayıt ve tesciline, bu bölüme yönelik davalıların elatmalarının önlenmesine karar verilmesinde bir isabetsizlik bulunmamaktadır. Ancak, Hazine adına tescile karar verilen (A) harfli bölümle ilgili tapu kaydının iptaline, bu bölümün 1071 sayılı parselden ifraz edilerek orman niteliğiyle Hazine adına tesciline, orman tahdit sınırları dışında kalan (B) bölümünün ise tapu kayıt malikleri üzerinde bırakılmasına karar verilmesi gerekirken, 1071 sayılı parselin tamamının tapu kaydının iptaline ve orman sınırları dışında kalan bölümle ilgili mükerrer sicil oluşacak şekilde davalılar adına yeniden tapuya tescile karar verilmesi ve taşınmazda değişikliği gösteren tasdikli krokinin ilama eklenmemesi doğru değilse de, bu husus hükmün bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden hükmün düzeltilerek onanması uygun görülmüştür.
 Bu nedenle; hüküm fıkrasının 1 numaralı bendindeki "tapu kaydının iptali ile;" başlayan cümlesinden itibaren tamamen hüküm yerinden çıkartılarak …
 
@@ -196,10 +224,14 @@ bunların yerine; Orman Yüksek Mühendisi ...... ve arkadaşları tarafından d
 
 ## Yargıtay 20. HD 2009/3325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/895747600)
+
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye uzman bilirkişi kurulu raporuna ve mahkemece uyulan bozma kararı gereğince işlem yapılarak Hazinenin davasının kısmen kabulüne karar verilmesinde bir isabetsizlik bulunmamaktadır. Ancak; çekişmeli taşınmazın Hazine adına tesciline karar verilen (A)=13003.41 m2 bölümüyle ilgili tapu kaydının iptaline, bu bölümün 325 sayılı parselden ifraz edilerek 2/B madde uygulaması ile Hazine adına orman sınırları dışına çıkartılan yerlerden olduğu da belirtilmek suretiyle tarla niteliği ile Hazine adına tapuya tesciline, orman sınırları dışında kalan (B) bölümünün ise tapu kayıt maliki üzerinde bırakılmasına karar verilmesi gerekirken, 325 parselin tamamının tapu kaydının iptaline ve orman sınırları dışında kalan bölümle ilgili mükerrer sicil oluşacak şekilde davalı adına yeniden tapuya tescile karar verilmesi ve taşınmazda değişikliği gösteren tasdikli krokinin ilama eklenmemesi doğru değil ise de, bu husus hükmün bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden, hükmün düzeltilerek onanması uygun görülmüştür. Bu nedenle, hüküm fıkrasının 1. bendi hükümden çıkartılarak bunun yerine "Şile İlçesi ...
 Köyü, Ağılbayırı mevkiindeki 325 parsel sayılı taşınmazın bilirkişilerinin 27.04.2008 tarihli krokili raporlarında (10 nolu krokide) (A) harfi ile işaretli kırmızı renk ile ... 13003.41 m2 bölümünün tapu kaydının iptali ile bu bölümün ifraz edilerek 6831 Sayılı Yasanın 2/B maddesi uyarınca Hazine adına orman sınırları dışına çıkartılan yerlerden olduğuna dair kütüğün beyanlar hanesinde şerh verilmek suretiyle Hazine adına tapuya kayıt ve tesciline, bu bölüme yönelik davalının elatmasının önlenmesine, aynı rapor ve krokide (B) harfi ile gösterilen 796.59 m2 bölümünün önceden olduğu gibi tapu kayıt maliki davalı üzerinde bırakılmasına, taşınmazda değişikliği gösteren mahkemece tasdikli krokilerin ilama eklenmesine" cümlelerinin yazılması suretiyle düzeltilmesine ve hükmün H.Y.U.Y.'nın 438/7.
 
 ## Yargıtay 20. HD 2009/1181 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891248400)
 
 Davacı ... Yönetimi, davalı adına tapuda kayıtlı 1981 parsel sayılı taşınmazın 25.06.2004 yılında yapılıp kesinleşen orman kadastro çalışmalarında kısmen orman tahdit sınırları içerisinde kaldığını belirterek tapu kaydının iptali ile dava konusu parselin orman tahdit haritasında orman sınırları içinde kalan kısmının orman niteliğiyle Hazine adına tapuya kayıt ve tesciline davalıların elatmalarının önlenmesine karar verilmesini istemiştir. Mahkemece davanın kısmen kabulü ile Kütahya İli, Gediz İlçesi, Gümele Beldesi, Çetlimikarası mevki, 1981 nolu parselde kayıtlı taşınmazın tapu kaydının iptali ile ... bilirkisi ...
 
@@ -208,6 +240,8 @@ Davacı ... Yönetimi, davalı adına tapuda kayıtlı 1981 parsel sayılı taş
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye göre çekişmeli taşınmazın uzman bilirkişi tarafından kesinleşmiş tahdit haritasına dayalı olarak yöntemine uygun biçimde yapılan uygulama ve araştırmada kısmen orman tahdidi içinde, kısmen de orman tahdidi dışında kalan yerlerden olduğu belirlenerek davanın kısmen kabulü yolunda kurulan hükümde bir isabetsizlik bulunmamaktadır. Ancak, ... bilirkişi raporunda (A) harfi ile gösterilen ve kesinleşmiş orman tahdit sınırları içerisinde kalan 1630 m2 yüzölçümündeki bölümle ilgili olarak davalıların elatmalarının önlenmesine karar verilmesi gerekirken, hüküm fıkrasının 2. bendinde "Davacının müdahalenin men-i talebinin reddine denilmiş olması doğru değil ise de bu husus hükmün bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden hükmün düzeltilerek onanması uygun görülmüştür. Bu sebeple hüküm fıkrasının 2. bendinde yer alan cümlenin kaldırılarak, bunun yerine "davalıların (A) harfiyle gösterilen 1630 m2 yüzölçümündeki bölüme yönelik elatmalarının önlenmesine" cümlesinin yazılması suretiyle düzeltilmesine ve hükmün H.Y.U.Y.’nın 438/7.
 
 ## Yargıtay 14. HD 2009/647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852519000)
 
 Davalı, davacının maliki olduğu 1267 parsele elatmasının olmadığını, açılan davanın reddini savunmuştur.
 
@@ -222,6 +256,8 @@ Bilirkişinin 04.07.2008 tarihli krokili raporunda davalının taşkın kullanma
 SONUÇ: Yukarıda (1). bentte açıklanan nedenlerle davalının temyiz itirazlarının reddine, hükmün (2). bent uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2008/11164 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78366900)
 
 Davacı, 2349 parsel sayılı taşınmazın maliki olduğunu, davalı E.’nin de komşu 2348 nolu parselin maliki olup davalının komşuluk hukukuna aykırı olarak inşa ettiği duvarın kendisine ait evin 2. katında bulunan odaların pencereleri ile balkonunu kapattığını, ışığına,havasına ve manzarasına engel olduğunu, ayrıca inşa edilen merdivenin de tecavüzlü olduğunu ileri sürerek, el atmanın önlenmesi,yıkım ile maddi ve manevi tazminat isteminde bulunmuştur.
 
@@ -239,6 +275,8 @@ Değinilen ilke ve yasa hükümleri gözardı edilerek kısa kararda hüküm fı
 
 ## Yargıtay 14. HD 2008/2661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845144000)
+
 Davacı, mülkiyetinde olan 9 parsel numaralı taşınmazına bitişik 8 parselin paydaşlarından davalı ...'un kendisine ait taşınmazını kullanırken davacı parselinden bir miktar yeri de çevirerek bahçesi haline getirdiğini ileri sürerek, yapılan elatmanın önlenmesine karar verilmesini istemiş, davalı davanın reddini savunmuştur.
 
 …
@@ -248,6 +286,8 @@ Taraflara ait taşınmazlar çapa bağlı olup, davalı tarafça 9 parsel numara
 SONUÇ : Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2008/1530 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847145000)
 
 Mahkemece, istemin kabulüne karar verilmiştir.
 
@@ -261,6 +301,8 @@ SONUÇ : Yukarıda açıklanan nedenlerle davalı ...'nın temyiz itirazlarını
 
 ## Yargıtay 12. HD 2007/4012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16078000)
+
 Bu durumda, ilamın hüküm fıkrasında tahsiline karar verilen alacak kamulaştırması elatma nedeniyle tazminat alacağı olduğundan, bu alacak için 3095 sayılı Yasa'daki yasal faiz oranlarının uygulanması gerekmektedir. Anayasa'nın 4709 sayılı Kanun'un 18. maddesi ile değişik 46/son maddesinde kamulaştırma bedelleri ile mahkemece kesin hükme bağlanan artırım bedellerine hasren son fıkraya göre kamu alacakları için öngörülen en yüksek faiz oranının uygulanacağı belirlendiğinden, tazminat niteliğinde olan kamulaştırması elatmadan dolayı alacaklar anılan madde kapsamı dışında kalmaktadır.
 
 …
@@ -269,6 +311,8 @@ Sonuç: Borçlu vekilinin temyiz itirazlarının kabulü ile mahkeme kararının
 
 ## Yargıtay 14. HD 2007/3411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849678100)
+
 Davacı, ... Tapu Sicilinde ... Köyü 458 parsel numarası ile adına kayıtlı taşınmazın doğu komşusu olan davalı ... tarafından, onun kullanımında bulunan taşınmazda öteden beri var olan yeraltı ve yağmur sularını istikametine doğru tahliye eden kanalın kapatılması ile biriken sulardan oluşan sızmalardan kendi taşınmazında bulunan evinin zarar gördüğünü bildirerek, davalıca kanala yapılan el atmanın önlenmesini istemiş, davalı savunmasında; davacı parseline yapılan binanın arazinin doğal yapısından kaynaklanan sızıntılardan zarar görmeyecek bir bölümüne yapılması mümkünken, bu özenin gösterilmemesi sonucu binanın sızıntıdan zarar görecek bir yere yapılmasında davalıya düşen bir kusur bulunmadığını ileri sürerek davanın reddini savunmuş, mahkemece davanın kabulüne karar verilmesi üzerine hüküm davalı vekili tarafından temyiz edilmiştir.
 
 Dava komşuluk hukukundan kaynaklanan haksız davranışın giderilmesi istemiyle açılmıştır. Teknik bilirkişi ... ... tarafından düzenlenen rapora göre taraflara ait taşınmazların bulunduğu bölgede yer üstü ve yeraltı artık sularının batıdan doğuya doğru aktığı ve ... tarafından kullanılan 462 parselin güney bölümünü teşkil eden yerdeki akışı sağlayan kanalın kapatılmasıyla davacıya ve çevredeki diğer bitişik parsellere su birikmesi nedeniyle zararlar verildiği belirlenmiştir. Bu olgu mahkemece de hüküm gerekçesinde doğru biçimde tanımlanmış ise de; hüküm bölümünde infaza elverişli bir karar verilmediği ortadadır. Sadece "Kanala yapılmış müdahalenin men'ine" denilmek suretiyle hüküm kurulmuş olup, infaza elverişli kroki düzenlenmediğinden hükmün eki sayılan bir rapora da atıf yapılmamıştır. Mahkemece öteden beri var olan su tahliye kanalının krokiye ölçekli biçimde işletilmesi, kapatılan kanal bölümünün yerinin işaret ettirilmesi ve bundan sonra bu kroki kararın eki sayılmak suretiyle bir hüküm kurulması gerekir. HUMK.388 maddesine uygun biçimde kurulmadığı anlaşılan hükmün bozulması gerekmiştir.
@@ -276,6 +320,8 @@ Dava komşuluk hukukundan kaynaklanan haksız davranışın giderilmesi istemiyl
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2007/3080 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851255200)
 
 Davacı, 5798 parsel sayılı taşınmazına, komşu 5799 parsel sayılı taşınmaz maliki davalının duvar yapmak suretiyle elatmasının önlenmesini ve duvarın kal'ini istemiştir.
 

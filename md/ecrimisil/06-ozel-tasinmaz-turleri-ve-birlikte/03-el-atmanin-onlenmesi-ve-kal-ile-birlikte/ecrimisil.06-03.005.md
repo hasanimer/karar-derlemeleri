@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2016/3855 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/213139400)
+
 Davanın kısmen kabulüne ilişkin olarak verilen karar, Dairece; “kayda üstünlük tanımak suretiyle fiilen elattıkları belirlenen ve kayıtla ilgisi olmayan davalılar yönünden elatmanın önlenmesi davasının kabulüne, bir kısım davalılar yönünden de koşulları oluşmadığı gerekçesiyle elatmanın önlenmesi isteğinin reddine ve ecrimisil isteği yönünden talep müracaata bırakıldığından karar verilmesine yer olmadığı yönünde hüküm kurulmuş olmasında kural olarak bir isabetsizlik bulunmamaktadır. Tarafların bu yönlere değinen temyiz itirazları yerinde değildir. Reddine. Ancak, davalı ... yönünden davanın HUMK.nun 409.
 (...nin 150.) maddesi gereğince açılmamış sayılmasına karar verilmesi gerekirken bu yönde hüküm kurulmamış olması doğru olmadığı gibi, davalı ... annesi ...'nin çekişmeli taşınmazda paydaş olduğunu bildirdiği ve annesine teban taşınmazı kullandığını savunduğuna göre bu hususun açıklığa kavuşturulması, davacının annesinin taşınmazda paydaş olduğu belirlenir ise, bu davalı yönünden davada çekişmenin Türk Medeni Kanununun 688. maddesi ve devam eden düzenlemeleri gereğince paylı mülkiyet hükümlerinin uygulanması suretiyle giderileceği gözetilerek değerlendirme yapılması ve sonucuna göre bir karar verilmesi gerekirken bu yönde araştırma yapılmadan hüküm kurulmuş olması isabetsizdir. Diğer taraftan, kabule göre de, elatmanın önlenmesi yönünden aleyhine hüküm kurulan davalılar yönünden her birinin elattığı taşınmazın değeri üzerinden ayrı ayrı harç alınması ve bu değerler üzerinden de yargılama aşamasındaki harç durumu gözetilerek aleyhlerine ayrı ayrı avukatlık ücreti takdiri gerekirken, bu hususlar göz ardı edilerek hüküm kurulmuş olması da doğru değildir” gerekçesiyle bozulması üzerine bozma ilamına uyularak mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
@@ -29,11 +31,15 @@ Hemen belirtmek gerekir ki, mahkemece, hükmüne uyulan bozma ilamı doğrultusu
 
 ## Yargıtay 1. HD 2016/3607 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211254400)
+
 Davanın reddine ve yıkım talebi konusunda karar verilmesine yer olmadığına ilişkin olarak verilen karar, Dairece; ecrimisil isteğinin reddine karar verilmiş olmasında bir isabetsizlik bulunmadığı, ancak ayni hak niteliğinde olan mülkiyet hakkına üstünlük tanımak suretiyle davalıların haksız müdahalesinin önlenmesine karar verilmesi gerektiği gerekçesiyle bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama sonunda davanın kabulüne karar verilmiştir.
 
 Hükmüne uyulan bozma ilamı doğrultusunda elatmanın önlenmesi talebinin kabulüne karar verilmiş olmasında bir isabetsizlik yoktur. Davalıların bu yöne değinen temyiz itirazları yerinde değildir, Reddine.
 
 ## Yargıtay 1. HD 2016/2469 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203845500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -43,9 +49,13 @@ Hâl böyle olunca, yargılama devam ederken davalının ölmesi nedeniyle elatm
 
 ## Yargıtay 1. HD 2016/2331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214582600)
+
 Birleştirilen davada davacılar-(karşı davalılar), 367 parsel sayılı taşınmazı kiracı sıfatı ile 40 seneyi aşkın bir zamandır kullandıklarını, yaklaşık 40 yıl önce çekişmeli taşınmaz üzerine paydaşların örtülü muvafakatleri ile 5 adet ev ve hayvan barınağı yapıldığını, paydaşların ... Asliye Hukuk Mahkemesi'nin 2013/92 esas sayılı dosyasında aleyhlerine el atmanın önlenmesi, yıkım ve ecrimisil istekli dava açtıklarını, ancak tecavüzlü yapı değerinin tecavüzlü alan değerinden açıkça fazla olduğunu, bu nedenle Türk Medeni Kanunun 724. maddesi uyarınca uygun bir tazminat karşılığında tecavüzlü alanın tapu kaydının iptali ile adlarına tescilini, olmazsa aynı Kanunun 723/1. maddesi uyarınca şimdilik yıkılacak yapı bedeli olan 30.000,00 TL'nin davalılardan alınmasına karar verilmesini istemiştir.
 
 ## Yargıtay 1. HD 2016/2140 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214301200)
 
 Dava, imar parseline elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -55,6 +65,8 @@ Hâl böyle olunca; öncelikle taşkın kısmın yıkılması halinde binanın g
 
 ## Yargıtay 1. HD 2016/1151 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204030100)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, hükmüne uyulan bozma ilamı sonrasında mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -62,6 +74,8 @@ Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişk
 Hâl böyle olunca; çekişme konusu 522 ada 490 parsel sayılı taşınmazda davacının payına vaki elatmanın önlenmesine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu üzere çekişmeli 13 nolu dairenin ½ payına elatmanın önlenmesine karar verilmesi doğru olmadığı gibi, istek doğrultusunda davacının payına isabet eden usulüne uygun belirlenecek ecrimisilin hüküm altına alınmamış olması da isabetsizdir.
 
 ## Yargıtay 1. HD 2016/162 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202902500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -73,6 +87,8 @@ Kabule göre de, eldeki davanın elatmanın önlenmesi ve ecrimisil isteklerinde
 
 ## Yargıtay 1. HD 2015/15173 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390774400)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -80,6 +96,8 @@ Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 Bilindiği üzere ecrimisil kötüniyetli zilyedin malike ödemekle yükümlü olduğu bir nevi haksız işgal tazminatıdır.Eldeki davada, çekişmeli taşınmazın 1/2 payı davacının babası ..., 1/2 payı davacının halası ... adına kayıtlı iken muris ...'ın 05.03.2007 tarihte satış vaadi sözleşmesiyle 1/2 payını davalıya sattığı bu durumda halanın payı bakımından davalının kullanımının haksız olmadığı, davacının babasının da payını davalıya haricen sattığı, davacının babasının 2006 tarihinde ölmesi üzerine davacının mirasçı sıfatıyla davalının kullanmasına sesini çıkarmayarak zımni olarak muvafakat ettiği, muvafakatini dava açmak suretiyle geri aldığı, dolayısıyla davalının kötü niyetli olmadığı sonucuna varılmaktadır.Bu durumda ecrimisil isteğinin reddedilmesi doğrudur.Ne var ki taşınmazın yargılama aşamasında boşaltıldığı bildirildiğine göre, elatmanın önlenmesi bakımından konusuz kalan dava hakkında karar verilmesine yer olmadığına ve elatmanın önlenmesi isteği bakımından yargılama giderlerinden davalının sorumlu tutulmasına, ecrimisil isteği bakımından da davacı ...'nün sorumlu tutulmasına karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 1. HD 2015/15072 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/159596100)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -89,6 +107,8 @@ Hâl böyle olunca, imar uygulaması ile oluşan hukuki ve geometrik duruma gör
 
 ## Yargıtay 1. HD 2015/15012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/199830000)
+
 Dava, paydaşlar arasında elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -97,16 +117,22 @@ Hâl böyle olunca; yukarıda açıklanan ilkeler somut olgularla birlikte değe
 
 ## Yargıtay 1. HD 2015/14460 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389671700)
+
 Hemen belirtilmelidir ki; iddianın içeriği ve ileri sürülüş biçiminden, davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu; böyle bir davada, 6100 sayılı Hukuk Muhakemeleri Kanunu 120. (1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 413.) ve 492 sayılı Harçlar Kanunu'nun 16. maddeleri uyarınca dava değerinin ve buna göre alınacak harcın, elatılan yerin değeri ile istenilen ecrimisil miktarının toplamından ibaret olacağı kuşkusuzdur (4.3.1953 tarihli ve 10/2 sayılı İBK).Dosya içeriği ve toplanan delillerden, davanın, hükmedilmesi istenen ecrimisil miktarı üzerinden harç ödenmek suretiyle açıldığı, el atmanın önlenmesi yönünden harç yatırılmadığı gibi, yargılama sırasında da bu yönden harç ikmali yapılmadığı anlaşılmaktadır.
 
 Elatmanın önlenmesi isteği yönünden davacı harç yatırmadığından ve usulüne uygun açılmış bir dava bulunmadığından, ayrıca yargılama sırasında davalı tarafça dava değerine itiraz edilmediğinden davalının temyiz itirazları yerinden değildir. Reddine.Davacının temyiz itirazlarına gelince; dava dilekçesinde istenilen ecrimisil yönünden harç yatırılıp, elatmanın önlenmesi yönünden harç yatırılmadığından ve usulüne uygun bir dava bulunmadığından elatmanın önlenmesi bakımından davalı lehine vekalet ücretine hükmedilmesi doğru değildir.Davacı vekilinin temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 14.12.2015 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2015/13266 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/123427400)
+
 Davanın kısmen kabulüne ilişkin olarak verilen karar, Dairece; “...39 sayılı parsel bakımından elatmanın önlenmesi isteminin kabulüne, 22 sayılı parsel ile ilgili davanın reddine karar verilmiş olmasında bir isabetsizlik yoktur. Ancak 21 sayılı parsel taraflar ve dava dışı kişiler adına kayıtlı olup, davalının kullanımındadır. Bu itibarla, tüm paydaşları kapsayan fiili kullanma biçimi oluştuğundan söz etme imkanı yoktur. Öte yandan, 21 sayılı parselle birlikte 39 sayılı parseli uzun yıllardır davalı kullandığı halde davacı veya diğer paydaşlar tarafından taşınmazın kullanılmaması yönünde bir ihtarname keşide edilmemiş, bir başka ifadeyle taşınmazların davalı tarafından kullanılmasına muvafakat edilmiş, dava açılmakla muvafakat geri alınmıştır. Ecrimisil, malikin kötü niyetli zilyetten isteyebileceği bir bedeldir. Somut olayda, taşınmazı muvafakate dayalı olarak kullanan davalının kötü niyetli olduğunu dolayısıyla, ecrimisil ödemekle yükümlü bulunduğunu söyleyebilme olanağı yoktur.
 Hal böyle olunca, 21 sayılı parsel bakımından davacının payı oranında elatmanın önlenmesi isteminin kabulüne, ecrimisil isteğinin reddine karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir. Kabule göre de, 39 sayılı parselde davacı paydaş olduğu halde payı oranında değil de taşınmazın tümü için belirlenen ecrimisilin hüküm altına alınması isabetsizdir...” gerekçesiyle bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama sonunda, davanın kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2015/12936 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/123321600)
 
 Dava, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -116,6 +142,8 @@ Hâl böyle olunca, dava konusu taşınmaz ile komşu 986 parsel sayılı taşı
 soruşturma ile yetinilerek sonuca gidilmiş olması doğru değildir.
 
 ## Yargıtay 1. HD 2015/10829 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140068800)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi,yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -127,6 +155,8 @@ Ne var ki; dava konusu taşınmaz tarla niteliğinde olup, tecavüzlü bölümde
 
 ## Yargıtay 1. HD 2015/9491 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142647400)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım, eski hale iade ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -137,10 +167,14 @@ Hükmüne uyulan bozma ilamı uyarınca araştırma ve inceleme yapılarak yazı
 
 ## Yargıtay 1. HD 2015/8853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140497100)
+
 Davanın kısmen kabulüne ilişkin verilen kararın temyizi üzerine duruşmalı yapılan incelemede Dairece; “..davalının baz istasyonu kurmak suretiyle çekişmeli taşınmazı işgal ettiği açıktır. Buna göre, fuzuli mülkiyet sahibine taşınmazı kullanmasından dolayı ödemekle yükümlü olduğu haksız işgal tazminatı niteliğindeki ecrimisilden davalının sorumlu tutulmasında gayri yasal bir durum bulunmadığı gibi, bilimsel verilere göre belirlenen ecrimisilin hüküm altına alınması da doğrudur. Öyle ise, davalının tüm, davacının öteki temyiz itirazları yerinde değildir. Reddine.
 Ancak, ecrimisil isteğinin yanında yıkım isteği de bulunduğu halde mahkemece, baz istasyonunun faaliyetinin limit değerlerin altında olduğu gerekçesiyle bu istek reddedilmişse de, yukarıda değinilen ilkeler karşısında davalının baz istasyonu tesis etmek suretiyle taşınmazı kullanmasının hukuken haklı ve geçerli bir sebebi bulunmadığından mülkiyet sahibi davacı yönünden de bir hüküm ifade etmeyeceğinden bu isteğin de kabul edilmesi gerekirken reddi doğru değildir" gerekçesiyle bozulmuş olup, bozmaya uyularak yapılan yargılamada Mahkemece elatmanın önlenmesi talebinin kabulü ile baz istasyonunun kaldırılmasına, manevi tazminat talebinin feragat nedeniyle reddine, maddi tazminat talebinin kısmen kabulüne karar verilmiştir.
 
 ## Yargıtay 1. HD 2015/8688 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141361700)
 
 Dava; çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -150,6 +184,8 @@ Elatmanın önlenmesi ve ecrimisil talebine ilişkin karar kesinleşmiş olduğu
 
 ## Yargıtay 1. HD 2015/8686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141401800)
+
 Dava, elatmanın önlenmesi, binanın projeye uygun hale getirilmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -157,6 +193,8 @@ Dava, elatmanın önlenmesi, binanın projeye uygun hale getirilmesi ve ecrimisi
 Hemen belirtmek gerekir ki; hükmüne uyulan bozma ilamı doğrultusunda işlem yapılarak, çekişmeye konu bodrum katta paya vaki elatmanın önlenmesine, taşınmazın projesine uygun hale getirilmesine karar verilmiş olmasında bir isabetsizlik bulunmadığı gibi, davalının ecrimisilden sorumlu tutulmuş olmasında da kural olarak bir isabetsizlik yoktur. Davalı vekilinin bu yönlere ilişkin temyiz itirazları yerinde değildir. Reddine.
 
 ## Yargıtay 1. HD 2015/6935 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139377000)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -166,6 +204,8 @@ Hemen belirtmek gerekir ki; elatmanın önlenmesi isteğinin konusuz kaldığın
 
 ## Yargıtay 1. HD 2015/6845 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139012500)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisilisteklerine ilişkindir.
 
 …
@@ -173,6 +213,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisilisteklerine
 Davanın kısmen kabulüne ilişkin olarak verilen karar, Dairece, ecrimisile karar verilmiş olmasında kural olarak bir isabetsizlik bulunmadığı, ancak davada yıkım isteği de olduğuna göre, taşınmazdaki çekişmeli bölümü davalı ile birlikte muz bahçesi haline getiren Ahmet 'in de davada yer almasının sağlanmasından sonra, yıkım konusunda karar verilmesi, ayrıca elatmanın önlenmesi isteğinin de reddine karar verilmiş olmasının doğru olmadığı gerekçeleriyle bozulmuş, mahkemece bozma ilamına uyulduktan sonra yapılan yargılama sonucunda yıkım isteği tefrik edilerek Alanya 3. Asliye Hukuk Mahkemesinin 2012/591 Esas sayılı dosyası ile birleştirilmesine, elatmanın önlenmesi isteminin kabulüne, ecrimisil bakımından verilen karar kesinleştiğinden ayrıca hüküm verilmesine yer olmadığını karar verilmiştir.
 
 ## Yargıtay 1. HD 2015/5930 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140302600)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -182,13 +224,19 @@ Hemen belirtilmelidir ki, gerek 492 sayılı Harçlar Kanunu'nun 16. maddesi, ge
 
 ## Yargıtay 1. HD 2015/5840 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/135962100)
+
 Asıl dava, elatmanın önlenmesi, yıkım ve ecrimisil; birleştirilen dava ecrimisil istemlerine ilişkindir.Mahkemece hükmüne uyulan bozma ilamlarında gösterildiği şekilde asıl davada baz istasyonunun yıkımı suretiyle elatmanın önlenmesine, taleple bağlı kalınarak 10.000,00-TL ecrimisilin davalıdan tahsiline karar verilmesine ve baz istasyonunun değeri belirlenirken sökülerek götürülebilecek ekipmanların değerinin dikkate alınmamış olmasında bir isabetsizlik yoktur.
 
 ## Yargıtay 1. HD 2015/5390 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/132426800)
+
 Hükmüne uyulan bozma kararında gösterildiği şekilde işlem yapılarak karar verildiğine ve özellikle mahkemece 2010/399 Esas ve 2011/179 sayılı Karar ile elatmanın önlenmesi ve ecrimisile karar verildiği, Dairece verilen 16.05.2012 gün ve 2012/4924 Esas ve 2012/5710 sayılı karar ile bu hususlara ilişkin temyiz itirazlarının reddedildiği, böylece elatmanın önlenmesi ve ecrimisil yönünden verilen kararın kesinleştiği anlaşıldığına göre; davacının temyiz itirazı yerinde değildir.
 
 ## Yargıtay 1. HD 2015/4157 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139664200)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -198,6 +246,8 @@ Hemen belirtmek gerekir ki; mahkemece hükmüne uyulan bozma kararında gösteri
 
 ## Yargıtay 1. HD 2015/3672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/131855600)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi , yıkım ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -205,6 +255,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi , yıkım ve ecrimisil istekleri
 Bilindiği üzere, ecrimisil kötü niyetli zilyetin, malike ödemekle yükümlü olduğu bir nevi haksız işgal tazminatıdır. Öte yandan, mülkiyete dayalı elatmanın önlenmesi ve yıkım istekli davalarda dava açılmakla muvafakatın geri alınacağı, dolayısıyla her zaman elatmanın önlenmesi ve yıkım istenebileceği kuşkusuzdur.
 
 ## Yargıtay 1. HD 2015/3522 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119529800)
 
 Dava, paydaşlar arasında imar parseline elatmanın önlenmesi, yıkım ve ecrimisil, karşı dava ise temliken tescil isteğine ilişkindir.
 
@@ -215,10 +267,14 @@ O halde, yukarıda değinilen hususlar dikkate alınmaksızın mahkemece yazıl�
 
 ## Yargıtay 1. HD 2015/2661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/128882700)
+
 Asıl ve birleşen davanın reddine ilişkin olarak verilen karar Dairece; “......davacı A.. Ç..'in 05.10.1991 tarihli harici gayrimenkul satış senedi ile taşınmazı satın aldığı ........... çekişme konusu imar parseli ve 181 nolu kadastral parsel kayıtları ile ilgisinin sağlanamadığı, bu kişinin 181 nolu kadastral parselde mülkiyetten kaynaklanan hakkı bulunmadığına göre, davalı A..
 Ç..'in 3194 sayılı Yasanın 18. maddesi ile 2981/3290 sayılı Yasanın 10/c maddesinde öngörülen kaim bedelden istifade edemeyeceğinin tartışmasız olduğu, bu durumda TMK'nın 683. maddesinin davalı -birleşen dosya davacılarına tanıdığı mülkiyet hakkına değer verilmek suretiyle elatma, yıkım ve ecrimisil istekleri bakımından bir karar verilmesi gerekirken birleşen davanın reddine karar verilmiş olmasının doğru olmadığı” gereğine değinilerek bozulmuş, mahkemece bozmaya uyularak yapılan yargılama sonucunda asıl dava bakımından tapu iptal ve tescil isteminin reddine, birleşen dava bakımından ise elatmanın önlenmesi, yıkım istemlerinin kabulüne, ecrimisil istemi yönünden ise dava dilekçesinde miktar bildirilmediği, yargılama sırasında ise ıslah edilip artırım talebinde bulunmadığnıdan ecrimisil isteği bakımından karar verilmesine yer olmadığına karar verilmiştir.
 
 ## Yargıtay 1. HD 2015/1751 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/102410900)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım, taşkın binanın komşuluk sınırına çekilmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -228,6 +284,8 @@ Hemen belirtmek gerekir ki; komşu 17 parsel sayılı taşınmaz üzerindeki bin
 
 ## Yargıtay 1. HD 2015/1077 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119873800)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -236,6 +294,8 @@ Hemen belirtilmelidir ki; dava tarihinden sonra çekişme konusu baz istasyonunu
 
 ## Yargıtay 1. HD 2015/461 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138631800)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -243,6 +303,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkind
 Hemen belirtmek gerekir ki, yargılama sırasında çekişme konusu taşınmazın tahliye edilmesi sebebi ile konusuz kalan elatmanın önlenmesi isteği bakımından karar verilmesine yerolmadığına karar verilmiş olmasında bir isabetsizlik bulunmadığı gibi, çekişme konusu taşınmazda işgalci olduğu belirlenen davalının ecrimisille sorumlu tutulmuş olmasında da kural olarak bir isabetsizlik yoktur. Ne var ki; ....... Vakfı adına açılan tevdi mahalli hesabında yargılama sırasında mevcut olduğu belirlenen 5.250,00.-TL miktarındaki tutar, davacı kuruma ödenmediği ve ödenmesi yönünde mahkemece de herhangi bir karar verilmediği halde, teknik bilirkişilerce belirlenen 15.460,40.-TL ecrimisil tutarı üzerinden, hesapta bulunan anılan tutarın indirilmek suretiyle eksik ecrimisilin hüküm altına alınmış olması doğru değildir.
 
 ## Yargıtay 1. HD 2014/19434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329469100)
 
 Davada elatmanın önlenmesi isteği bakımından karar verilmesine yer olmadığına, ecrimisil isteğinin kabulüne ilişkin olarak verilen karar, Yargıtay 3. Hukuk Dairesi tarafından;
 
@@ -253,6 +315,8 @@ Mahkemece, dava konusu parsel ve yukarıda bahsi geçen geçit hakkı kurulduğu
 
 ## Yargıtay 1. HD 2014/18511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84525500)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -261,9 +325,13 @@ Hal böyle olunca, öncelikle elatmanın önlenmesi talebi yönünden harç eksi
 
 ## Yargıtay 1. HD 2014/17227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84820000)
+
 Bilindiği üzere, elatma bir haksız eylem olup, elatmanın önlenmesi davaları da haksız eylemi gerçekleştiren kişi ya da kişiler aleyhine açılır. Ecrimisil ise, kötüniyetli zilyedin hak sahibine ödemek zorunda kaldığı bir tür haksız fiil tazminatı niteliğindedir (TMK. md. 995).
 
 ## Yargıtay 1. HD 2014/15061 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84742600)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -275,6 +343,8 @@ Hal böyle olunca; ........... sayılı parseller bakımından dava tarihinden s
 
 ## Yargıtay 1. HD 2014/14839 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84724400)
+
 Dava, elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -283,9 +353,13 @@ Hal böyle olunca 16.02.2010 havale tarihli bilirkişi raporunda "A" harfi ile g
 
 ## Yargıtay 1. HD 2014/14820 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/290852100)
+
 Ne var ki, eldeki asıl ve birleştirilen davada sadece ecrimisil isteğinde bulunulmuş ayrıca elatmanın önlenmesi isteğinde bulunulmamış, bilahare yargılama sırasında ıslah yoluyla asıl davada elatmanın önlenmesi de istenilmiştir. Oysa anılan hususun ayrı bir dava konusunu teşkil edeceği, yargılama sırasında ıslah dilekçesi ile dava konusu edilmeyen bir şeyin davaya dahil edilmesinin mümkün olmadığı tartışmasızdır.
 
 ## Yargıtay 14. HD 2014/14238 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105692800)
 
 Dava, elatmanın önlenmesi, kal ve ecrimisil isteklerine ilişkindir.
 
@@ -294,6 +368,8 @@ Dava, elatmanın önlenmesi, kal ve ecrimisil isteklerine ilişkindir.
 Bu durumda mahkemece, yukarıda açıklanan ilkeler doğrultusunda mahkemece, öncelikle davacıya HMK'nın 125. maddesi uyarınca seçim hakkının hatırlatılması davacının davasını şimdi olduğu gibi elatmanın önlenmesi, kal ve ecrimisil istemi olarak devam ettirmesi halinde yeni malikin usulüne uygun olarak davaya dahil edilerek davanın görülmesi gerekirken, davanın esasının karara bağlanması doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
 
 ## Yargıtay 1. HD 2014/13905 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/287764800)
 
 Dava; çaplı taşınmaza elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 

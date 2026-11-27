@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2021/3342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/713845100)
+
 Maddi olayları ileri sürmek taraflara, hukuki nitelendirme yapmak ve uygulanacak kanun maddelerini belirlemek hakime aittir (6100 sayılı HMK 33. m). İddianın ileri sürülüş şekli, davaya dayanak olarak gösterilen 13.05.1992 tarihli (rızai taksime dayalı) resmi senet ve 15.05.1992 tarihli taahhütname içeriğinde yer alan açıklamalara göre dava, miras payının devri sözleşmesine dayalı TMK'nın 677. maddesi uyarınca açılan pay iptali ve tescil isteğine ilişkindir. Terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda mirasçılar arasında yapılan sözleşmelerin geçerliliği yazılı şekle bağlıdır (TMK.m.677/1). Mirasçılar arasındaki devirler için söz konusu olan bu yazılı şeklin adi yazılı olarak yapılması yeterlidir. Az yukarıda bahsedilen tapu kaydından da anlaşıldığı üzere, 15.05.1992 tarihli "Taahhütname" başlıklı sözleşmenin düzenlendiği esnada dava konusu taşınmaz iştirak halinde mülkiyet hükümlerine tabi olup, dava konusu taşınmazlarda, kayıt malikinin mirasçıları olduğu anlaşılan taraflar arasında yapılan ve miras payının devrine ilişkin bulunan dayanak sözleşme TMK’nın 677. maddesi hükmü uyarınca kural olarak geçerli ve sonuç doğuran bir sözleşmedir.
 
 ## Yargıtay 14. HD 2021/3264 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660360000)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -38,6 +42,8 @@ Somut olaya gelince; 3083 sayılı Yasanın 13. maddesi kapsamındaki uygulama a
 
 ## Yargıtay 12. HD 2021/2377 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/640128900)
+
 Ortaklığın giderilmesi kararına dayalı olarak yapılan satışlara ilişkin ihalenin feshi davalarında, alıcı ile birlikte hissedarların tamamının hasım olarak gösterilmesi gerekir.
 
 Somut olayda, ortaklığın giderilmesi suretiyle yapılan satış sonrası açılan ihalenin feshi davasında, 80 ada 3 parsel hissedarı olan Firaz Gündoğdu’nun ihalenin feshi davasında taraf olarak gösterilmesi gerekirken davada yer almadığı, davalı hissedar ...‘ya yargılama aşamasında çıkartılan tebligatların bila tebliğ iade edilmesi üzerine Tebligat Kanunu’na göre adres araştırması yapılıp yeniden tebligat çıkartılmadığı, hissedarlardan ...’ın 19/12/2016 tarihinde vefat ettiği ve ... 1.
@@ -46,13 +52,19 @@ ilişkin sürecin beklenilmesi, yine hissedar ...’nın 04.07.2019 tarihinde ve
 
 ## Yargıtay 7. HD 2021/2217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715367100)
+
 Türk Medeni Kanununun 652. maddesinde yer alan tereke mallarından birinin mirasçılardan birine miras hakkına mahsuben özgülenmesi, paylaştırma niteliğinde olup, özgüleme kararı, o mal üzerindeki mirasçıların “elbirliği” şeklindeki ortaklığının izalesi sonucunu hasıl eder. Bu nedenle, Türk Medeni Kanununun 652. maddesine dayanan isteklerde görevli mahkeme, paylaşma isteklerindeki görev kurallarına göre belirlenmelidir. Her mirasçı, terekedeki belirli malların aynen, olanak yoksa satış yoluyla paylaştırılmasını sulh mahkemesinden isteyebilir. (TMK md. 642) Taşınır ve taşınmaz mal veya hakkın paylaştırılmasına ve ortaklığın giderilmesine ait davalarda sulh hukuk mahkemesi görevlidir. (HMK md. 4/1-b) Göreve ilişkin kurallar kamu düzeninden olup, davanın her safhasında ileri sürülebileceği gibi, mahkeme de davanın her aşamasında kendiliğinden görevli olup olmadığına karar verir. (HMK md.1)
 
 ## Yargıtay 7. HD 2021/2036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715339700)
+
 Maddi olayları ileri sürmek taraflara, hukuki nitelendirme yapmak ve uygulanacak kanun maddelerini belirlemek hakime aittir (6100 sayılı Hukuk Muhakemeleri Kanunu madde 33). İddianın ileri sürülüş şekli, davaya dayanak olarak sunulan protolün içeriğinde yer alan açıklamalara ve protokolün düzenleme tarihi itibarı ile ölmüş olan ortak muris Bayram Kocabaş terekesi elbirliği mülkiyeti hükümlerine tabi olduğuna göre, anılan taşınmazlar yönünden dava, miras payının devri sözleşmesine dayalı Türk Medeni Kanunu'nun 677. maddesi uyarınca açılan pay iptali ve tescil istemine ilişkindir. Terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda mirasçılar arasında yapılan sözleşmelerin geçerliliği yazılı şekle bağlıdır (Türk Medeni Kanunu madde 677/1). Mirasçılar arasındaki devirler için söz konusu olan bu yazılı şeklin adi yazılı olarak yapılması yeterlidir. Mahkemece, taraf delilleri usule uygun olarak toplandıktan sonra oluşan sonuca göre karar verilmesi gerekirken, hukuki nitelendirme yanlış yapılmak suretiyle yazılı gerekçeyle anılan taşınmazlar hakkında red kararı verilmesi doğru değildir. Bu nedenle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 14. HD 2021/508 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645015300)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -66,9 +78,13 @@ Somut olaya gelince; yukarıda da ifade edildiği üzere ortaklığın giderilme
 
 ## Yargıtay 14. HD 2020/8177 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623743600)
+
 Yukarıda açıklandığı üzere, davacının (alacaklının) ...’nın tasfiye edilecek terekesine alacağını yazdırması ve buradan tahsili cihetine gidilmesi gerekir. İcra ve İflas Kanununun 121. maddesi gereğince yetki alarak dava konusu taşınmaz yönünden ortaklığın giderilmesi davası açmasında hukuki yararı kalmadığından davanın reddine karar verilmesi gerekir.
 
 ## Yargıtay 14. HD 2020/5645 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621034200)
 
 Eşlerden birinin ölümü halinde tereke malları arasında sayılan aile konutu hakkında; sağ kalan eş kendisine miras hakkına mahsuben aile konutunda mülkiyet hakkı tanınmasını isteyebilir. Davacının, 4721 sayılı Türk Medeni Kanununun 652/1 maddesi uyarınca muris ile birlikte yaşadığı, başka bir deyişle hükmen aile konutu olarak tespit edilen taşınmazda miras payına mahsuben mülkiyet hakkı bulunmaktadır.
 
@@ -76,9 +92,13 @@ Yukarıda açıklanan ilkeler ışığında mahkemece murisin terekesine ait tü
 
 ## Yargıtay 8. HD 2020/2242 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/586558900)
+
 TMK'nin 676. maddesinde düzenlenen paylaşma sözleşmesine göre “Mirasçılar arasında payların oluşturulması ve fiilen alınması veya aralarında yapılacak paylaşma sözleşmesi mirasçıları bağlar paylaşma sözleşmesi ile mirasçılar, tereke mallarının tamamı veya bir kısmı üzerindeki elbirliği mülkiyetinin miras payları oranında paylı mülkiyete dönüştürülmesini de kabul edilebilir. Paylaşma sözleşmesinin geçerliliği yazılı şekilde yapılmasına bağlıdır.
 
 ## Yargıtay 14. HD 2019/7076 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564643700)
 
 Dava, alacaklı tarafından açılan elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindir.
 
@@ -88,6 +108,8 @@ Kabule göre de, davalılara TMK'nin 644. maddesi gereğince meşruhatlı daveti
 
 ## Yargıtay 14. HD 2019/6957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563885300)
+
 Dava, bankada bulunan para üzerindeki elbirliği mülkiyetinin paylı mülkiyete çevrilmesi isteğine ilişkindir.
 
 …
@@ -96,9 +118,13 @@ HMK'nın 4. maddesinin (b) bendinde taşınır ve taşınmaz mal veya hakkın pa
 
 ## Yargıtay 8. HD 2019/6759 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520544600)
+
 İddianın ileri sürülüş şekli, davaya dayanak olarak sunulan sözleşmenin içeriğinde yer alan açıklamalara göre, dava; miras payının devri sözleşmesine dayalı TMK'nin 677/1. maddesi uyarınca açılan pay iptali ve tescil davasıdır. TMK'nin 706, 6098 sayılı TBK'nin 237 ve Tapu Kanunu'nun 26. maddeleri hükümlerine göre, tapulu taşınmazların satış ve devri tapu sicil memuru önünde yapılacak resmi sözleşme ile geçerli olur. Elbirliği mülkiyetine tabi taşınmazlarda miras payının devri konusunda mirasçılar arasında yapılan sözleşmeler yazılı olmak koşulu ile geçerlidir. (TMK mad. 677) Resmi şekil şartı öngörülmemiştir. Terekeye dahil taşınmazlar, paylaşılması ya da elbirliği mülkiyetinin paylı mülkiyete çevrilmesi ile miras malı olmaktan çıkar. Bu aşamadan sonra paydaşlar arasındaki ilişki miras ilişkisi olmayıp mal ortaklığına dönüştürüldüğünden paylı mülkiyet esaslarına göre malik olan kişiler arasındaki paylaşım ve pay devrinin genel kurala göre tapu sicil memuru önünde resmi şekilde yapılması zorunludur.
 
 ## Yargıtay 14. HD 2019/6087 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542898200)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -110,11 +136,15 @@ Somut olayda; davalı ..., temyiz dilekçesiyle mirasçılar arasında Kadınhan
 
 ## Yargıtay 20. HD 2019/4632 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/518991000)
+
 …
 
 ... 1. Sulh Hukuk Mahkemesince ise, 6100 sayılı HMK' nın 11. maddesi uyarınca mahkemelerinin davaya bakmakta yetkili olmadığı ve murisin ölmeden önceki yer mahkemesi olan ... Sulh Hukuk Mahkemelerinin yetkili olduğuna karar verilmiş ise de davanın miras bırakanın taşınır taşınmaz mal ayrımı yapılmaksızın terekesiyle ilgili olarak açılmadığı, yalnızca belli taşınmazlar üzerindeki ortaklığın giderilmesinin istenildiği, dava dilekçesinde de terekede bulunan malların tamamının paylaşımının istendiğine dair bir ifade olmadığı, dolayısıyla "Taşınmaz üzerindeki aynî hakka ilişkin veya aynî hak sahipliğinde değişikliğe yol açabilecek davalar ile taşınmazın zilyetliğine yahut alıkoyma hakkına ilişkin davalarda, taşınmazın bulunduğu yer mahkemesi kesin yetkilidir", "Bu davalar, birden fazla taşınmaza ilişkin ise, taşınmazlardan birinin bulunduğu yerde, diğerleri hakkında da dava açılabilir” hükümleri de uyarınca ... Sulh Hukuk Mahkemesinin de yetkili olduğu, davanın ilk açıldığı yer olan ... Sulh Hukuk Mahkemesinde görülmesi gerektiği gerekçesi ile yetkisizlik yönünde hüküm kurulmuştur.
 
 ## Yargıtay 8. HD 2019/1790 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645456300)
 
 Dava, muhdesat tespiti isteğine ilişkindir.
 
@@ -123,6 +153,8 @@ Dava, muhdesat tespiti isteğine ilişkindir.
 Hal böyle olunca, davada davacı olarak yer almayan muris... mirasçıların yöntemine uygun bir biçimde muvafakatleri (olurları) alınmak suretiyle davaya katılmalarının sağlanması veya TMK'nun 640. maddesi uyarınca miras ortaklığına bir temsilci atanarak onun huzuru ile yargılamaya devam edilmesi, dava koşulu yerine getirildikten sonra, davacı tarafın talebinin muhdesatın muris... tarafından meydana getirildiği yönünde olduğu da gözönünde bulundurulmak suretiyle uyuşmazlığın esasının incelenmesi gerekirken, bu hususlar gözetilmeksizin kabul kararı verilmesi doğru görülmemiştir.
 
 ## Yargıtay 14. HD 2019/718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488922000)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -135,9 +167,13 @@ Yukarıda açıklanan ilkeler doğrultusunda somut olaya gelince; dosya kapsamı
 
 ## Yargıtay 2. HD 2018/14147 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/474920000)
+
 Eldeki davada, dava konusu taşınmazın aile konutu olduğu yapılan yargılama ve toplanan delillerden anlaşılmaktadır. Mirasçı konumundaki sağ kalan davacı eş, yargılama sırasında elbirliği (TMK m. 640/2, 701) halinde paydaş (malik) konumunda olduğundan ve elbirliği hali devam ettiği sürece kendisinin rızası olmadan tapuda devir işlemi yapılamayacağından (TMK m.702/2), artık TMK'nun 194/3 maddesi gereğince tapu kaydına aile konutu şerhi verilmesine de gerek kalmamıştır. Bu durumda davanın reddi sonucu itibariyle doğru olmakla birlikte, dava konusu taşınmazın her ne kadar aile konutu olsa da eşinin vefatı ile aile konutu olma özelliğini yitirdiği gerekçesiyle davanın reddi doğru olmamıştır. Ancak bu husus yeniden yargılama yapılmasını gerektirmediğinden, hükmün gerekçesinin açıklanan şekilde düzeltilerek onanmasına karar vermek gerekmiştir (HUMK m. 438/son).
 
 ## Yargıtay 14. HD 2017/9646 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385348200)
 
 Dava, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi istemine ilişkindir.
 
@@ -151,6 +187,8 @@ Mirasçılara gönderilecek davetiyede "belirlenen süre içinde elbirliği mül
 
 ## Yargıtay 14. HD 2017/6842 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/377860400)
+
 Dava, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi isteğine ilişkindir.
 
 …
@@ -159,6 +197,8 @@ TMK’nın 644. maddesi gereğince bir mirasçı, terekeye dahil malların tamam
 297/2 “Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir.” hükmünü içermektedir.Somut olayda, hükmün sonuç kısmında gerekçeye ilişkin hususların tekrar edilmiş olması ve pay oranlarının açık bir şekilde gösterilmemiş olması doğru görülmediğinden hükmün bozulmasına karar vermek gerekmiştir.SONUÇ:
 
 ## Yargıtay 14. HD 2017/2637 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360460600)
 
 Dava, ortaklığın giderilmesi ve terekenin tespiti talebine ilişkindir.
 
@@ -172,11 +212,15 @@ Somut olayda, ortaklığın giderilmesi ve terekenin tespiti talebi aynı davada
 
 ## Yargıtay 8. HD 2016/16324 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/272945300)
+
 Dava, ortaklığın giderilmesi davasına konu taşınmazlar üzerinde bulunan muhdesatların davacı tarafından meydana getirildiğinin tespiti istemine ilişkindir.
 
 Dava konusu muhdesatların üzerinde bulunduğu 424 ve 405 parsel sayılı taşınmazlar davacı ile davalılar adına tapuda elbirliği mülkiyet şeklinde kayıtlıdır. Dava mirasçılar arasında görülmektedir. Muhdesat tespiti davalarında davanın konusu (müddeabih) davalıların miras paylarına isabet eden muhdesat değeridir (zemin bedeli hariç). Buna göre, yargılama sonucunda davalıların paylarına isabet eden muhdesat değeri üzerinden nispi vekalet ücretine hükmedilerek, davacı yararına takdir edilen vekalet ücretinden her bir davalının payları oranında sorumlu tutulmaları gerekirken, maktu vekalet ücretine hükmedilmesi ve bu miktarın da payları dikkate alınmaksızın müştereken ve müteselsilen davalılardan alınmasına karar verilmesi doğru olmamıştır. Ne var ki, bu husus yeniden yargılamayı gerektirmediğinden bozma sebebi yapılmamış, hükmün vekalet ücretine ilişkin kısmının HUMK'un 438/... (HMK 370) maddesi uyarınca düzeltilerek onanması gerekmiştir.
 
 ## Yargıtay 20. HD 2016/5924 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/236263400)
 
 Dava, mirasın paylaştırılması istemine ilişkindir.
 
@@ -187,6 +231,8 @@ Dava, mirasın paylaştırılması istemine ilişkindir.
 Somut olayda davacı, murisinin banka hesabında bulunan paranın murisin vefatından önce diğer mirasçı tarafından çekildiğini, bu paranın terekeye dahil olduğunu ve denkleştirmeye tabi olduğunu belirterek bu paranın miras payları oranında paylaştırılmasını talep etmiş olup, uyuşmazlığın ... Sulh Hukuk Mahkemesince görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 14. HD 2016/5209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228288600)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 

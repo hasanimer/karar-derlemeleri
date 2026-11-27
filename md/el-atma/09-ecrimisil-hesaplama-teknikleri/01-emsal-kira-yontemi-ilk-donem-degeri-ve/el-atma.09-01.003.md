@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2023/6012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/922706700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların kısmen kabulüne karar verilmiştir.
 
 …
@@ -44,6 +46,8 @@ b) Gerekçeli karar başlığında davalı olarak yer alan ''..., ..., ..., ...,
 
 ## Yargıtay 5. HD 2023/5030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911129700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... İl Milli Eğitim Müdürlüğü yönünden husumet yokluğu nedeniyle davanın reddine, davalı ... yönünden davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -65,6 +69,8 @@ Davalı ... vekilinin temyiz itirazlarının reddine, davacılar vekilinin temyi
 
 ## Yargıtay 5. HD 2023/4205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905170100)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda, asıl ve birleştirilen davaların kabulüne karar verilmiştir.
 
 …
@@ -84,6 +90,8 @@ Dava konusu taşınmazın 27.08.2008 ile 31.12.2008 dönemi için mevcut hâliyl
 Davalı idare vekilinin temyiz itirazları yerinde görülmediğinden usul ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2023/2907 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898060100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -108,6 +116,8 @@ Davalı idare vekilinin temyiz itirazlarının kısmen kabulü ile temyiz olunan
 
 ## Yargıtay 5. HD 2023/2645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896455600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kamulaştırmasız el atma tazminatı yönünden kısmen kabulüne, ecrimisil talebi yönünden reddine karar verilmiştir.
 
 …
@@ -128,6 +138,8 @@ Davacı vekilinin temyiz itirazlarının kısmen kabulü ile, temyiz olunan kara
 
 ## Yargıtay 3. HD 2023/2587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993787600)
+
 Davacı vekili; davacının davalı şirkete 02.09.2002 tarihli sözleşmesiyle ... İli ... İlçesi ...
 
 …
@@ -143,6 +155,8 @@ Dairemizce verilen 19.04.2017 tarihli ve 2017/1795 E., 2017/5659 K. sayılı ila
 Temyiz olunan Mahkeme kararının 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun (1086 sayılı Kanun) 439 uncu maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/1354 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898965900)
 
 Davacı vekili; vekil edeninin 1/4 paydaşı olduğu dava konusu 73 ada 15 parsel sayılı taşınmazın 200 m2’lik kısmının davalı tarafça kira sözleşmesi uyarınca, 240 m2’lik kısmının ise sözleşme dışı olarak kullanıldığını belirterek, sözleşme dışı kullanılan 240 m2 kısım için 01.01.2011-30.09.2013 tarihleri arası için 196.800,00 TL ecrimisilin kademeli faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -163,6 +177,8 @@ Yargıtay 8. Hukuk Dairesince: “...Mahkemece ilk defa belirlenen kira bedelini
 Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile temyiz olunan kararda belirtilen gerekçelere göre davacı vekilinin yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/1211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884280100)
 
 Davacı vekili; davalı tarafından kamulaştırmasız elatılan 284 ada 1 parsel sayılı taşınmaza ilişkin olarak ... Asliye Hukuk Mahkemesinin 2012/360 Esas, 2015/473 Karar sayılı dosyasında dava açıldığını, mahkemece mahallinde yapılan keşifte elatmanın tespit edildiğini, yargılama devam ederken belediyenin elatmaya son verdiğini, anılan mahkemenin 02.07.2015 tarihli kararıyla elatmanın vuku bulduğunun belirtildiğini, elatma sona erdiğinden davanın reddine karar verildiğini, belediyenin el attığı döneme ilişkin ecrimisil isteme haklarının bulunduğunu ileri sürerek fazlaya ilişkin hakları saklı kalmak kaydıyla son 5 yıla ilişkin 20.000,00 TL ecrimisilin dava tarihinden itibaren işleyecek yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiştir. 18.04.2016 tarihinde bilirkişi raporuna göre davasını 24.612,00 TL üzerinden ıslah etmiştir.
 
@@ -194,6 +210,8 @@ gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 7. HD 2023/162 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880069000)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -214,6 +232,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 5. HD 2022/14330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829667100)
+
 Davacılar vekili dava dilekçesinde; Burdur İli, Merkez İlçesi, Özgür Mahallesi, 631 ada 709 parsel sayılı taşınmazın tamamının imar planında ağaçlandırılacak alana (mevcut Asri Mezarlık sahası) isabet ettiğini, alınan kamulaştırma kararı sonucunda idare ile yapılan görüşmenin anlaşmazlık ile sonuçlandığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin ve ecrimisilin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -229,6 +249,8 @@ Arsa niteliğindeki Burdur İli, Merkez İlçesi, Özgür Mahallesi, 631 ada 709
 Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile temyiz olunan kararda belirtilen gerekçelere göre; davalı idare vekilinin yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2022/14325 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829666300)
 
 Davacı vekili dava dilekçesinde; Burdur İli, Merkez İlçesi, Bahçelievler Mahallesi 34 ada 162 parsel sayılı taşınmaza el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin ve ecrimisilin davalı idareden tahsilini talep etmiştir.
 
@@ -246,6 +268,8 @@ Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uy
 
 ## Yargıtay 5. HD 2022/3558 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/742063400)
+
 Dava, imar uygulaması sırasında bedele dönüştürülen davacı payına takdir edilen karşılığın arttırılması ve ecrimisil istemine ilişkindir.
 
 …
@@ -255,6 +279,8 @@ Dosyada bulunan kanıt ve belgelere, kararın dayandığı gerekçelere göre; a
 Davalı idare vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun olan hükmün HMK'nın 370. maddesi gereğince ONANMASINA …
 
 ## Yargıtay 5. HD 2022/3290 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/741245800)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ile ecrimisil istemine ilişkindir.
 
@@ -271,6 +297,8 @@ Yukarıda açıklandığı şekilde; değerlendirme gününden önceki kira söz
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan Eskişehir 3. Asliye Hukuk Mahkemesi’nin 2018/1001 E. - 2020/2 K. sayılı hükmünün HMK’nın 371. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2022/1383 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761748100)
 
 Davacı, maliki olduğu 465 parsel sayılı taşınmazın ifrazının yapılması için 2002 yılında dava dışı öğretim görevlisi ......’dan yardım istediğini, ancak adı geçene herhangi bir vekaletname vermediğini, dava dışı ...... tarafından davalı Belediyeye başvuru yapıldığını ve 09/05/2002 tarihli 636 sayılı Belediye Encümen kararı ile 465 parsel sayılı taşınmazın 7 kısma ifrazının yapılmasına, ifraz sonucu oluşan ve haritada 1 ve 2 ile gösterilen yerlerin arsa olarak maliki adına tescil edilmesine, 3,4,5, A, B harf ve rakamlı yerlerin ise yol ve park vasfıyla 1.000’er TL bedellerle Belediye adına tescil ve terkin edilmesine karar verildiğini, bu işlemin bilgisi dışında yapıldığını, Encümen kararında dava dışı... vekil olarak belirtilmiş ise de, Belediye nezdinde söz konusu işlemleri yapabilmesi için geçerli bir vekaletnamesi olmayan dava dışı...’ın talebinin kabul edilmesi ve bu talep doğrultusunda işlem yapılmasının hukuka aykırı olduğunu, yurt dışında ikamet ettiği için bu işlemlerden sonradan haberdar olduğunu, bir an için geçerli bir vekaletnamenin varlığı kabul edilse dahi, vekalet sözleşmesine aykırı hareket edildiğini, zira vekilin özel yetkili kılınmadıkça taşınmazı devredemeyeceği
 gibi hak ile de sınırlandıramayacağını, yetkisiz kişi tarafından ifraz işlemi yaptırıldığını, Belediyenin yaptığı ifraz işleminin usul ve yasaya aykırı olduğunu, yasal DOP sınırının gözetilmediğini, ifraza konu edilen taşınmazın büyük bir çoğunluğunun Belediye adına tescil edildiğini, ayrıca taşınmazın ifrazı için öncelikle bir imar düzenlemesi yapılması gerekirken herhangi bir imar düzenlemesi de yapılmadan ifraza geçildiğini, 3,4,5,A,B harf ve rakamlı yerlerin 1.000’er TL bedellerle davalı Belediye adına tescil edilmesine karar verildiği halde bu bedelin de ödenmediğini, anılan harf ve rakamlı yerleri davalı Belediyenin haksız şekilde işgal ettiğini, bu yerlerden kira geliri elde edemediğini ileri sürerek, dava konusu 465 parsel sayılı taşınmazda davalı Belediye adına kayıtlı 3, 4, 5, A, B harf ve rakamlı yerlerin tapu kayıtlarının iptali ile adına tesciline, olmazsa dava tarihi itibarıyla rayiç değerleri tespit edilerek faiziyle birlikte fazlaya ilişkin haklar saklı kalmak kaydıyla şimdilik 1.000 TL’nin davalıdan tahsiline, dava konusu taşınmazların geriye dönük beş yıllık kira bedeli olarak şimdilik 1.000 TL ecrimisilin faiziyle birlikte davalıdan tahsiline karar verilmesini
@@ -289,6 +317,8 @@ Hal böyle olunca; dava konusu taşınmazın, İmar Kanunu’nun 16. maddesine g
 Yukarıda açıklanan nedenlerle davacı vekilinin değinilen yönden yerinde bulunan temyiz itirazının kabulü ile 6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 373/1. maddesi uyarınca, Kayseri Bölge Adliye Mahkemesi 1. Hukuk Dairesi kararının ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 5. HD 2021/12376 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700518100)
 
 Dava, kamulaştırmasız el atılan taşınmazlar bedelinin tahsili ve ecrimisil istemine ilişkindir.
 

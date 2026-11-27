@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/30 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131577300)
+
 Önalım hakkının kullanılmasıyla bu hakkı kullanan paydaş ile alıcı arasında kapsam ve şartları satıcı ile davalı arasında yapılan sözleşmenin aynı olan bir satım ilişkisi kurulmuş olur. Kural olarak önalım bedeli tapuda gösterilen satış bedeli ile davalı tarafından ödenen harç ve masrafların toplamından ibaret olup bu bedelin dava açılırken hazır edilmesi ve mahkemece makul süre içinde mahkeme veznesine depo edilmesiyle birlikte vadeli bir hesapta değerlendirilmesi gereklidir.
 
 ## Yargıtay HGK 2023/727 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/939936100)
 
 Yasal önalım hakkı, TMK'nın "Taşınmaz mülkiyetinin içeriği ve kısıtlamaları" başlıklı ikinci ayrımında, “II. Devir Hakkının Kısıtlamaları 1.Yasal Önalım Hakkı” alt başlıkları altında “a. Önalım Hakkı Sahibi” başlıklı 732; “b. Kullanma yasağı, feragat ve hak düşürücü süre” başlıklı 733 ve “c. Kullanılması” başlıklı 734 üncü maddelerinde düzenlenmiştir.
 
@@ -30,13 +34,19 @@ Türk Medeni Kanunu'nun 732 nci maddesi; “Paylı mülkiyette bir paydaşın ta
 
 ## Yargıtay HGK 2020/261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602233600)
+
 Önalım hakkı, paylı mülkiyet hükümlerine tabi taşınmazlarda payın üçüncü şahsa satılması hâlinde, diğer paydaşlara o payı öncelikle satın alma yetkisini veren bir haktır. Bu hak paylı mülkiyet ilişkisi kurulduğu anda doğar ve payın üçüncü kişiye satılması ile de kullanılabilir hâle gelir. Böylece, taşınmaza yabancı kişilerin paydaş olarak girmelerinin ve taşınmazın daha küçük parçalara bölünmesinin engellenmesi amaçlanmıştır. 4721 sayılı Türk Medeni Kanunu (TMK)’nın 732. maddesinde ön alım hakkının tanımına yer verilmemiş ancak hangi durumda kullanılacağı düzenlenmiştir. Gerçekten de, söz konusu maddede, “Paylı mülkiyette bir paydaşın taşınmaz üzerindeki payını tamamen veya kısmen üçüncü kişiye satması hâlinde, diğer paydaşlar ön alım hakkını kullanabilirler.” ifadesi yer almaktadır.
 
 ## Yargıtay HGK 2013/427 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/45611100)
+
 4721 Sayılı Türk Medeni Kanunu'nun 732.maddesi uyarınca, önalım hakkı, paylı mülkiyet hükümlerine tabi taşınmazlarda payın üçüncü şahsa satılması halinde, diğer paydaşa o payı öncelikle satın alma hakkını verir. Bu hak paylı mülkiyet ilişkisi kurulduğu anda doğar ve o payın üçüncü kişiye satılması ile kullanılabilir hale gelir. Paydaşın paydaşa satış yapması halinde ise önalım hakkı kullanılamaz. Ayrıca satış dışındaki işlemlerde de önalım hakkı doğmaz.Ne var ki, satış dışındaki pay edinimlerinde muvazaa iddiası ileri sürülebilir. İşlemin tarafı olmayan paydaşlar bu iddiayı her türlü delille kanıtlayabilirler.
 
 ## Yargıtay HGK 2013/198 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/52031900)
 
 Hukuk Genel Kurulu'ndaki görüşmeler sırasında bir kısım üyelerce; HUMK 445/7. maddesi gereğince, bu konuda yeni bir dava açılmadan yerel mahkemece her iki hüküm de iptal edilerek paydaşların eşit şufa hakkı bulunduğunu gözetmek suretiyle davacı ve davalı paydaş yararına hesaplanacak hisseler oranında tescil kararı verilmesi gerektiği ileri sürülmüşse de bu görüş Hukuk Genel Kurulu'nun çoğunluğunca yerinde görülmemiştir.
 
@@ -46,15 +56,21 @@ Asıl karara yönelik temyiz itirazlarının incelenmesine gelince; önalım dav
 
 ## Yargıtay 7. HD 2023/267 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884275600)
+
 Önalım davasının davalısı önalım hakkına ilişkin taşınmazdaki payı satın almadan önce o taşınmazda paydaş ise bu paydaş hakkında önalım hakkı kullanılamaz. Zira TMK'nın 732 nci maddesiyle bir paydaşın payının üçüncü şahsa satması halinde önalım hakkının varlığı kabul edilmiştir. Paydaş üçüncü kişi sayılamayacağından paydaşın paydaş aleyhine önalım hakkını kullanması söz konusu olamaz. Dava hakkına ilişkin bu hususun davanın her aşamasında kendiliğinden göz önünde bulundurulması gerekir.
 
 ## Yargıtay 3. HD 2021/9278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/701713400)
 
 Bu çerçevede yapılan incelemede; dava dışı İsmet’in taşınmazdaki 1/3 payını 06/10/2005 tarihinde davalıya satması üzerine diğer malikler tarafından açılan önalım davasının kabulüne, davalı adına olan 1/3 hissenin iptali ile ½ oranında diğer hissedarlar olan davacılar adına tescilinden sonra, davalının önalım davasına yönelik yargılamanın iadesi talebinin kabulü ile 1/3 hissenin yeniden 16/04/2012 tarihinde davalı adına tescil edilmiş olduğu; eş söyleyişle geçerli sebebin ortadan kalktığı anlaşılmakla mahkemece, asıl ve birleşen davada davacıların, taşınmaz için yaptıkları zorunlu ve yararlı giderleri talep edebilecekleri nazara alınarak sonucuna uygun şekilde karar verilmesi gerekmektedir. Bu durumda, az yukarıda mahkemenin gerekçesinde değinilen hususun, tarafların baştan itibaren taşınmazda paydaş olmaları durumunda uygulama alanı bulacağı gözetilmeksizin, yazılı şekilde davanın reddine karar verilmesi doğru değildir.
 
 O halde mahkemece; yukarıda açıklanan yasal hükümler çerçevesinde değerlendirme yapılarak işin esası incelenmeli, tarafların iddia ve savunmaları üzerinde durulmalı, bundan sonra davalının sebepsiz zenginleştiğinin tespiti halinde davalının taşınmazda paylı mülkiyet sahibi olduğu ve hissesi oranında sorumlu olduğu gözetilerek, sonucuna göre bir karar verilmesi gerekirken, davanın reddine karar verilmesi doğru olmamış bozmayı gerektirmiştir.
 
 ## Yargıtay 5. HD 2021/1058 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634322100)
 
 Bozyazı (Kapatılan) Sulh Hukuk Mahkemesince, birleştirilen dosyada 510-11,503-1,498-10 ada parsel sayılı taşınmazlarda kullanılmak istenilen önalım hakkına ilişkin hak oluşturucu sürenin dolması nedeni ile davanın reddine ,2009/316 esas sayılı dosyada 510-11,503-1,498-10 ada parsel sayılı taşınmazlarda davalının satış tarihi itibari ile paydaş olması nedeni ile davanın reddine, birleştirilen dosyada 3354 parsel sayılı taşınmaza ilişkin talebin vazgeçme nedeni ile reddine karar verilmiş, hükmün davacı tarafından temyiz edilmesi üzerine Yargıtay 6.Hukuk Dairesi 27/05/2014 tarih, 2014/5612 esas, 2014/6855 karar sayılı ilamıyla
 
@@ -66,6 +82,8 @@ Bozyazı (Kapatılan) Sulh Hukuk Mahkemesince, birleştirilen dosyada 510-11,503
 
 ## Yargıtay 1. HD 2020/6888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/624080900)
+
 Mahkemece; asıl davada, yargılama sırasında ibraz edilen temlik sözleşmeleri de nazara alınarak bedel isteği yönünden davacılar ..., ...ve temlik alan ... yönünden davanın kabulüne, müdahale talep edenlerin müdahale koşullarının oluşmadığı gerekçesiyle isteklerinin reddine karar verilmiş; anılan karar Dairece, “...Somut olayda, elbirliği (iştirak) halinde mülkiyet söz konusu olup, dava dışı ortaklar bulunmaktadır. Hal böyle olunca, davaya katılmayan ortakların olurlarının alınması yada miras şirketine TMK'nin 640. m. uyarınca atanacak temsilci aracılığı ile davanın sürdürülmesi gerekirken, davanın görülebilirlik koşulu gözardı edilerek yazılı olduğu üzere davanın esası hakkında hüküm kurulması doğru değildir. Öte yandan kabule göre de; eldeki dava ile birleştirilmesine karar verilen ... 7.
 Asliye Hukuk Mahkemesinin 2008/194 Esas, 2008/252 Karar sayılı dosyası hakkında olumlu ya da olumsuz bir karar verilmediği gibi 6100 sayılı HMK’nun 304 ve devamı maddeleri hükümlerine aykırı olarak ve hükmün değiştirilmesi sonucunu doğuracak şekilde tashih yapılması da doğru olmadığı gibi, eldeki davanın niteliği ve ibraz edilmiş olan Temlik Sözleşmesi başlıklı belgelerin içeriği gözetildiğinde lehdarına eldeki davayı takip yetkisi vermeyeceği gözetilmeksizin yazılı şekilde karar verilmiş olması da isabetli değildir.” gerekçesiyle bozulmuş; Mahkemece bozma ilamına uyularak yapılan yargılama sonucunda, asıl ve birleştirilen davada ibraz edilen temlik sözleşmeleri de nazara alınarak davacılar ile temlik alanlar yönünden bedel isteklerinin kısmen kabulüne, asıl davada müdahillik talebinin reddine, birleştirilen ... 7. Asliye Hukuk Mahkemesinin 2008/194 Esas sayılı dosyasında karar verilmesine yer olmadığına karar verilmiştir. Dosya içeriği ve toplanan delillerden; çekişme konusu 1166 ada 24 parsel sayılı taşınmazın 2/4 payının 03.02.1949 tarihinde kadastro ile “..., ... oğlu” adına tespit ve tescil edildiği, bu payın 29.12.1988 tarihinde hükmen ...
 
@@ -75,21 +93,31 @@ temlik edildiğine ilişkin temliknamelerin sunulduğu, ortaklığın giderilmes
 
 ## Yargıtay 14. HD 2020/2714 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578991300)
+
 Yasa koyucu tarafından önalım hakkının ne şekilde ve hangi sürede kullanılması gerektiği konusunda düzenlemeler yapıldığı gibi önalım hakkına dayanılarak dava açılamayacak haller de tek tek gösterilmiştir. Davacı önalım hakkından feragat etmemiş ve yasal olarak tanınan önalım hakkını kullanmış olup ortaklığın giderilmesi davasının bulunması, önalım hakkına dayalı tapu iptal ve tescil davasına engel olmadığından, mahkemece davanın esası incelenerek bir karar verilmesi gerekirken dürüstlük ilkesine aykırı davranıldığı gerekçesiyle davanın reddine karar verilmesi doğru görülmemiş, hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2018/9364 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466011900)
 
 Elbirliği mülkiyetine konu taşınmaz payına dayanılarak 4721 sayılı Türk Medeni Kanununun 732, 733, 734. maddeleri uyarınca açılacak olan önalım davası, o payın ortaklarından biri ya da birkaçı tarafından açılamaz. Önalım hakkının kullanılmasında, davacının dayandığı pay elbirliği mülkiyetine konu ise tüm ortakların birlikte dava açması veya birinin açtığı davaya diğerlerinin muvafakat etmesi gerekir. Çünkü bu gibi hallerde 11.10.1982 tarihli ve 3/2 sayılı Yargıtay İçtihadı Birleştirme Kararı uyarınca davanın tereke adına açıldığının kabulü gerekir.
 
 ## Yargıtay 12. HD 2018/2496 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411418700)
+
 TMK'nun 733/1. maddesine göre; cebri artırmayla satışlarda ön alım hakkı kullanılamaz. Somut olayda, önalım davası ortaklığın giderilmesine ilişkin kararın kesinleşmesinden sonra açılmış olup, anılan davada henüz tapuda iptal ve tescile ilişkin herhangi bir hüküm verilmediğinden ve dolayısıyla önalım hakkı cebri icrayı engellemeyeceğinden, mahkemece satış işlemlerinin durdurulmasına karar verilmesi yerinde değildir. Bu durumda, şikayetçi, önalım davası sonucu adına oluşacak tapu kaydına dayalı olarak ihtilaflı payla ilgili taleplerini genel mahkemede açacağı davada ileri sürebileceğinden, mahkemece istemin reddine karar verilmesi gerekirken, kabulü isabetsizdir.
 
 ## Yargıtay 14. HD 2017/5121 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350335100)
+
 Önalım davalarında fiili taksime değer verilmesi için taksimin yazılı olarak yapılması ya da taşınmazın çok sayıda paydaşının bulunması halinde tüm paydaşları tarafından fiilen kullanılan bölümlerin olması gerekmez. Davacının kullandığı ve davalıya pay satan kişilerin kullandığı ayrı ayrı bölümler var ise satıcı zamanında kullanıma karşı çıkmayan, o yerde hak iddia etmeyen davacının tapuda pay satışı nedeni ile önalım hakkını kullanması Türk Medeni Kanununun 2. maddesinde yer alan dürüstlük kuralı ile bağdaşmayacağı kabul edilmektedir.
 
 ## Yargıtay 14. HD 2016/10044 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/274842700)
 
 4721 sayılı Türk Medeni Kanununun 732. maddesinde "Paylı mülkiyette bir paydaşın taşınmaz üzerindeki payını tamamen veya kısmen üçüncü kişiye satması halinde, diğer paydaşlar önalım hakkını kullanabilirler."
 
@@ -98,9 +126,13 @@ Kısacası, yasal önalım hakkının kullanılması için gerekli sürenin baş
 
 ## Yargıtay 14. HD 2014/10703 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105682900)
+
 Yüklenici konumundaki davalı ile dava konusu taşınmazın paylı maliklerinin tamamı arasında yukarıda açıklandığı şekilde resmi şekilde düzenlenmiş bir arsa payı karşılığı inşaat sözleşmesi mevcut olmadığı anlaşılmaktadır. Dava konusu 3 parsel sayılı taşınmaz bu şekilde tüm paydaşların katıldığı resmi şekilde düzenlenmiş bir arsa payı karşılığı inşaat sözleşmesine konu edilmediğinden ifa kabiliyeti bulunmamaktadır. Dolayısıyla önalıma konu payın arsa payı karşılığı inşaat sözleşmesi düzenlendiği gerekçesiyle davalıya devredildiği yani gerçek bir satışın söz konusu olmadığından bahsedilemez. Davaya konu olaydaki devir de gerçek bir satış olduğundan davacıya önalım bedelini depo etmesi için süre tanınarak sonucuna göre bir karar verilmesi gerekirken yazılı gerekçeyle davanın reddi doğru görülmemiş, bu nedenle hükmün bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2014/9142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105570500)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -110,11 +142,15 @@ Diğer yandan taşınmazın getirtilen son tapu kaydına göre Adalar Sulh Hukuk
 
 ## Yargıtay 14. HD 2014/8471 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105584100)
+
 TMK’nın 733/3. maddesinde yapılan satışın alıcı veya satıcı tarafından diğer paydaşlara noter aracılığıyla bildirilmesi yükümlülüğü getirildiğinden yasal önalım hakkının kullanılması için gerekli sürenin başlaması konusunda geçerli olan kural; “öğrenme” olgusu değil noter aracılığıyla bildirimdir. Madde metninde “bildirilir” şeklinde kullanılan ifade kesinlik taşıdığı gibi, sürenin “bildirimden” başlayacağı da devamı fıkrada açıkça ve kesin olarak ifade edilmiştir. Bu açık düzenleme karşısında süre mutlaka bildirimden itibaren başlayacaktır. Önalım hakkı sahibinin satışı kesin olarak başka bir şekilde öğrenmiş olması sürenin işlemesine yol açmaz. Bu hüküm emredici nitelikte olup Hukuk Genel Kurulu’nun 21.09.2005 gün ve 2005/6-358 Esas, 2005/470 Karar sayılı kararı da bu doğrultudadır.
 
 Hal böyle olunca; Kanunun verdiği bir hakkın kullanılması nedeniyle yani davacının önalım hakkını kullanmasında kötüniyetli olduğu söylenemeyeceği gibi TMK’nın 733/3. maddesi uyarınca 06.10.2011, 21.11.2011, 21.12.2011 ve 11.05.2012 tarihlerinde yapılan pay satışları ile ilgili davalı tarafından davacıya yapılmış bir bildirimde bulunmadığından davanın 2 yıllık hak düşürücü süre içersinde açıldığı gözetilmeksizin yazılı gerekçe ile istemin reddi doğru görülmemiş, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/10991 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055822600)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
@@ -124,6 +160,8 @@ Dava konusu edilen ve satışına karar verilen 4750 ada 3 parsel sayılı taş�
 
 ## Yargıtay 6. HD 2012/9574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054133300)
+
 Dava, bir adet taşınmazda paydaşlığın giderilmesine ilişkindir.
 
 …
@@ -132,9 +170,13 @@ Dava, bir adet taşınmazda paydaşlığın giderilmesine ilişkindir.
 
 ## Yargıtay 6. HD 2012/4407 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570472700)
+
 Önalım hakkının kullanılması ile bu hakkı kullanan paydaş ile alıcı arasında kapsam ve şartları satıcı ile davalı arasında yapılan sözleşmenin aynı olan bir satım ilişkisi kurulmuş olur. Önalım hakkını kullanan paydaş bu payı satın almak isterken tapuda gösterilen satış bedeli ile davalı tarafından ödenen harç ve masraflar toplamından ibaret önalım bedelini depo etmesi gerekir. Ancak davacı tapuda yapılan satış sözleşmesinin tarafı olmadığından bedelde muvazaa iddiasında bulunabilir ve bu iddiasını her türlü delille kanıtlayabilir.
 
 ## Yargıtay 6. HD 2012/2389 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054323800)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesine ilişkindir.
 
@@ -144,6 +186,8 @@ Dava konusu edilen ve satışına karar verilen dava konusu taşınmazda bulunan
 
 ## Yargıtay 6. HD 2012/1810 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/576459100)
+
 Dava, iki adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -152,17 +196,23 @@ Dava konusu edilen ve satışına karar verilen ... ada ... parsel Zemin kat ...
 
 ## Yargıtay 6. HD 2011/3478 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058825200)
+
 Paylı mülkiyet halindeki taşınmazın paydaşı payını karı-kocaya evlada veyahut akrabaya temlik ederse şeklen satış olarak gösterilen bu akdin gerçekte satış olmayıp miras hakkına bağlı veya hibe gibi maksada yönelik işlem olduğu iddia ve ispat edilirse önalım hakkının ileri sürülemeyeceği 27.3.1957 gün ve 12 / 2 sayılı İçtihadı Birleştirme Kararı’nda açıkça belirtilmiştir. Bu yöndeki savunmanın tanık dahil her türlü delille kanıtlanması mümkündür. Anılan İçtihadı Birleştirme Kararı sözleşmede taraf olan kişinin işlemde muvazaa savunmasında bulunamayacağı kuralının bir istinasıdır …
 
 Olayımıza gelince: dava konusu edilen 10 No’lu parseldeki 37944 / 57576 pay taşınmazın paydaşlarından ... tarafından 18.10.2004 tarihinde 38.500 TL bedelle davalıya satılmış, davacılar da 20.7.2006 tarihinde süresinde açtıkları işbu dava ile önalım hakkının tanınmasını istemişlerdir. Dosyada bulunan nüfus kayıtlarına göre satıcı paydaş davalının teyzesidir. Davalı her ne kadar söz konusu payın tapuda satış gösterilse de, teyzesi tarafından kendisine aslında babasına ait olan payı bağışladığını savunmuş ise de tapuda yapılan işlemin tarafı olan davalı, yapmış olduğu sözleşme ile bağlı olduğundan temlikin muvazaalı olduğu iddiasında bulunarak kendi muvazaasına dayanamayacağı gibi, evli ve iki çocuklu teyzesi olan satıcı ile arasında doğrudan miras bağı da bulunmadığından olayda 27.3.1957 gün ve 12 /2 sayılı Yargıtay İçtihadı Birleştirme Kararı’nın uygulanma olanağı yoktur. Bu durumda tapuda satış olarak yapılan temlike karşı taşınmazın paydaşı olan davacıların önalım hakkını kullanmasında bir usulsüzlük bulunmamaktadır. Mahkemece işin esası hakkında bir karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/1871 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056212500)
+
 Önalım hakkı, paylı mülkiyet hükümlerine tabi taşınmazlarda payın üçüncü şahsa satılması hainde, diğer paydaşlara o payı öncelikle satın alma hakkını veren bir haktır. Bu hak, paylı mülkiyet ilişkisi kurulduğu anda vücut bulur ve payın üçüncü şahsa satılması ile de kullanılabilir hale gelir. Medeni Kanun’un 734 / 1 maddesi gereğince önalım hakkı alıcıya karşı dava açılarak kullanılır.
 
 Önalım hakkını kullanan paydaş bu payı satın almak isterken tapuda gösterilen satış bedeli ile davalı tarafından ödenen harç ve masraflar toplamından ibaret önalım bedelini depo etmesi gerekir. Ancak, davacı tapuda yapılan satış sözleşmesinin tarafı olmadığından bedelde muvazaa iddiasında bulunabilir ve bu iddiasını her türlü delille kanıtlayabilir.
 
 ## Yargıtay 6. HD 2011/1194 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055622200)
 
 Önalım hakkına konu payın dava sırasında bir başka kişiye veya satışı yapan paydaşa satılması halinde davacının HUMK.nun 186.maddesi hükmü uyarınca seçimlik hakkı olduğundan dilerse davayı yeni satın alan şahsa yöneltir, dilerse davasını tazminata dönüştürerek davalı hakkındaki davasını devam ettirir. Bu nedenle davacıya seçimlik hakkını kullanması için önel verilmelidir. Önalım hakkına ilişkin payın satış yapan önceki paydaşa dönmesi davacının ilk satışla doğan önalım hakkını kullanmasına engel değildir.
 
@@ -171,6 +221,8 @@ Bu nedenle yukarıda açıklandığı üzere davacıya HUMK.nun 186. maddesi ger
 
 ## Yargıtay 6. HD 2011/454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055312000)
+
 Dava bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -178,6 +230,8 @@ Dava bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 Dava konusu edilen ve satışına karar verilen 8606 ada 4 parselden davacının 19.12.2008 tarihinde pay satın alarak paydaş olduğu ve bu pay için davalının 5.1.2009 tarihinde Pendik Asliye Hukuk Mahkemesine 2009/2 esas sayılı önalım davası açtığı ve ortaklığın giderilmesine ilişkin iş bu davanın da önalım davasından sonra 30.3.2009 tarihinde açıldığı anlaşılmaktadır.Önalım davasının kabulü halinde davacının payı kalmayacağından önalım davasının sonucunun beklenilerek varılacak sonuca göre bir karar verilmesi gerekirken bu husus göz ardı edilerek yazılı şekilde hüküm kurulması hatalı olduğundan hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/10885 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063174100)
 
 Dava önalım hakkı nedeniyle tapu iptal ve tescil istemi, olmazsa davalıların mülkiyet haklarını kötüye kullanmak suretiyle dava konusu hisseleri satın almış olmaları nedeniyle davalılar adına olan tapu kayıtlarının satışta gösterilen bedel karşılığında iptali ile hisseleri oranında davacılar adına tescili istemine ilişkindir.
 
@@ -190,11 +244,15 @@ Ayrıca davalı ... tarafından söz konusu satış işlemi ile herhangi bir ilg
 
 ## Yargıtay 6. HD 2010/6514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644290900)
+
 Paylı mülkiyet halindeki taşınmazın paydaşı payını karı-kocaya, evlada veyahut akrabaya temlik ederse şeklen satış olarak gösterilen bu akdin gerçekte satış olmayıp miras hakkına bağlı veya hibe gibi maksada yönelik işlem olduğu iddia ve ispat edilirse önalım hakkının ileri sürülemeyeceği 27.03.1957 gün ve 12 / 2 sayılı İçtihadı Birleştirme Kararı’nda açıkça belirtilmiştir. Bu yöndeki savunmanın tanık dahil her türlü delille kanıtlanması mümkündür. Anılan İçtihadı Birleştirme Kararı sözleşmede taraf olan kişinin işlemde muvazaa savunmasında bulunamayacağı kuralının bir istinasıdır.
 
 Olayımıza gelince ; dava konusu edilen ... ... ada ... parsel No’lu arsa vasıflı taşınmazın 4 / 5 payı taşınmazın paydaşlarından ..., ..., ... ve ... tarafından davalıya 27.12.2004 tarihinde toplam 4.000 TL bedelle satılmış, davacı da yapılan satış noter aracılığı ile bildirilmediğinden 22.12.2005 tarihinde süresi içinde açtığı işbu dava ile önalım hakkının tanınmasını istemiştir. Davalı ise dava konusu edilen payın tapuda satış gösterilmesine rağmen babası ... tarafından kendisine bağışlandığını, önalım hakkının kullanılamayacağını savunmaktadır.Dosyada bulunan nüfus kayıtlarından satıcılardan ... ile davalı arasında baba-oğul ilişkisi bulunduğu anlaşılmaktadır. Diğer satıcı paydaşlar da davalının amcaları ve halasıdır. 27.03.1957 tarih ve 12 / 2 sayılı İçtihadı Birleştirme kararına göre paylı mülkiyette paydaş, payını, karı veya kocaya, çocuklarına ya da akrabaya temlik ederse görünüşte satış sözleşmesi yapılsa bile gerçekte miras hukuku ile ilgili amaçların ya da bağışlama gibi düşüncelerin hakim olduğu durumlarda önalım hakkı kullanılamayacaktır. Davaya konu edilen temlik, uyuşmazlığın anılan İçtihadı Birleştirme Kararı çerçevesinde değerlendirilmesini gerektirmektedir.
 Davalının savunması doğrultusunda yerinde yapılan keşif sonucu alınan bilirkişi raporunda tapuda 4.000 TL gösterilen satış bedelinin gerçekte 53.592 TL olduğu belirlendiği gibi dinlenen davalı tanıkları da payını devreden ...’in söz konusu payı karşılığında herhangi bir bedel almadığını, payını aslında oğlu olan davalıya bağışladığını, baba-oğulun aynı yerde oturup davalının babası tarafından desteklendiğini açıklıkla beyan etmişlerdir. Tapuda pay değerinin gerçek değerinin çok altında gösterilmesi ve tanık beyanları karşısında taşınmazın paydaşı ...’in payını davalıya satmadığı, miras hukukundan kaynaklanan amaçlarla bağışladığı anlaşılmaktadır. Önalım hakkı ancak gerçek satışlarda kullanılabileceğinden babasının 1/ 5 payını bağış yoluyla edinen ve bu şekilde taşınmazda paydaş haline gelen davalının aynı gün, aynı satış senedi ile amcaları ve halasından satın aldığı paylara yönelik olarak da önalım hakkının kullanılması söz konusu olamayacağından mahkemece davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2008/4927 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851232600)
 
 Davacı da, intifa hakkının ortaklığın giderilmesi davasını engellemek için diğer paydaşları zararlandırmak amacaylı danışıklı konulduğu iddiasıyla terkin istemektedir. Paylı mülkiyete konu olan taşınmazlarda paydaşların ortaklığın giderilmesini isteme olanakları bulunduğu gibi(TMK.m.698 ve devamı), paydaşlardan birinin payını üçüncü kişiye satması halinde de önalım hakkını kullanarak satılan payın adlarına tescilini isteme olanakları (TMK.m.732) bulunmaktadır. Uygulamada sıkça görüldüğü gibi paydaş gerek ortaklığın giderilmesi davasının açılmasını önlemek veya açılan davada payı daha düşük bedelle almak için ya da önalım hakkının kullanılmasını engellemek amacıyla payı üzerinde intifa hakkı tesis ettirmektedir. Bu şekilde tesis edilen intifa hakları Türk Medeni Kanununun 2. maddesi gereğince hakkın kötüye kullanılması kapsamında değerlendirilmekte ve terkin edilmektedir.

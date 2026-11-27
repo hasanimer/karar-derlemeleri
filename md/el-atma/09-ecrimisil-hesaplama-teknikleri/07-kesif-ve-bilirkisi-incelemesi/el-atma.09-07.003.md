@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2023/6012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/922706700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların kısmen kabulüne karar verilmiştir.
 
 …
@@ -44,6 +46,8 @@ b) Gerekçeli karar başlığında davalı olarak yer alan ''..., ..., ..., ...,
 
 ## Yargıtay 5. HD 2023/5030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911129700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... İl Milli Eğitim Müdürlüğü yönünden husumet yokluğu nedeniyle davanın reddine, davalı ... yönünden davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -65,6 +69,8 @@ Davalı ... vekilinin temyiz itirazlarının reddine, davacılar vekilinin temyi
 
 ## Yargıtay 7. HD 2023/4961 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980817000)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne, kısmen reddine karar verilmiştir.
 
 …
@@ -84,6 +90,8 @@ Hal böyle olunca, dava konusu taşınmazın hangi bölümünün hangi davalıla
 Davacı vekili ile davalılar vekilinin tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/3634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/954196900)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -114,6 +122,8 @@ Açıklanan sebeplerle taraf vekillerinin yerinde görülmeyen tüm temyiz itira
 
 ## Yargıtay 5. HD 2023/2907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898060100)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -137,6 +147,8 @@ Davalı idare vekilinin temyiz itirazlarının kısmen kabulü ile temyiz olunan
 
 ## Yargıtay 3. HD 2023/2587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993787600)
+
 Davacı vekili; davacının davalı şirkete 02.09.2002 tarihli sözleşmesiyle ... İli ... İlçesi ...
 
 …
@@ -152,6 +164,8 @@ Dairemizce verilen 19.04.2017 tarihli ve 2017/1795 E., 2017/5659 K. sayılı ila
 Temyiz olunan Mahkeme kararının 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun (1086 sayılı Kanun) 439 uncu maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/2210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950907800)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, kısmen reddine, karşı davanın reddine karar verilmiştir.
 
@@ -174,6 +188,8 @@ Temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/873 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897440600)
+
 Davacı vekili; dava konusu 21 ada 7 parsel sayılı taşınmaz üzerindeki 10 No.lu binanın babaları İlyas'a ait iken vefatı ile taraflara kaldığını, binada babalarına ait 3 adet mesken mevcut iken davalıların bu binayı kullandıklarını ve müvekkiline kullandırmadıklarını belirterek, dava konusu taşınmaza elatmanın önlenmesi ile geriye dönük 5 yıllık kira bedelinin davalılardan müşterek ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -192,6 +208,8 @@ Somut olayda, mahkemece fen ve inşaat bilirkişileri ile birlikte 27.09.2019 ta
 Bölge Adliye Mahkemesinin 08.09.2022 tarihli ek kararının kaldırılarak İlk Derece Mahkemesi hükmünün BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/548 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896700900)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -213,6 +231,8 @@ Yukarıda açıklanan nedenlerle, davalı tarafın temyiz itirazlarının kabul�
 
 ## Yargıtay 7. HD 2023/171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933421600)
+
 Davacı vekili; müvekkilinin dava konusu taşınmazı davalılardan haricen satın aldığını, taraflar arasında Yeşilhisar Asliye Hukuk Mahkemesinin 2011/109 Esas, 2013/9 Karar sayılı dosyasından görülen harici satın alamaya dayalı tapu iptal ve tescil istemli davada tapu iptali ve tescil isteminin reddedilerek Yargıtay onama ilamı sonrasında 27.02.2014 tarihinde kesinleşen karara göre harici satış işleminin geçersiz olup tarafların harici satış nedeniyle vermiş oldukları bedelleri geri isteyebileceklerini, bu kapsamda Kayseri ili, Yeşilhisar ilçesinde bulunan 76 ada 569 parsel sayılı taşınmazı haricen 3.742 USD (Dolar) karşılığı 3.000,00 TL’sini peşin olarak elden ödemek kaydıyla satın aldığını ancak davalıların taşınmazın devrini vermedikleri gibi aldıkları bedeli de iade etmediklerini, ayrıca sözleşmede davalı ...’in kayıt maliki kardeşlerini ikna edemeyip dava konusu taşınmazın devrini veremediği takdirde 5.000 USD (Dolar) cezai şartı vereceğini kabul ve taahhüt ettiğini ileri sürerek; fazlaya ilişkin hakları saklı kalmak kaydıyla TBK'nin 77. maddesi ve devamındaki sebepsiz zenginleşme hükümleri uyarınca; davalılara ödediği harici satış bedelinin şimdilik 3.000,00 TL'nin ve satış
 işlemin gerçekleşmemesi nedeniyle 5.000 USD (Dolar) cezai şartın dava tarihinden itibaren işleyecek yasal faiziyle davalılardan tahsiline karar verilmesini talep etmiş; yargılama sırasında 12/07/2017 tarihinde ıslah suretiyle bilirkişi tarafından belirlenen 51.824,34 TL bedelin dava tarihinden işleyecek yasal faiziyle birlikte tahsilini istediğini beyan etmiştir.
 
@@ -227,6 +247,8 @@ Sayılı tapu iptal ve tescil istemli dosyanın kesinleştiği, 27/02/2014 tarih
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/162 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880069000)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -248,6 +270,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 8. HD 2021/4910 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684174600)
+
 Davacı vekili, davalı ... ile birlikte kayden paydaş oldukları 2135 ada 11 sayılı parseldeki çekişme konusu 3 adet dairenin anılan davalı tarafından kiraya verilmek suretiyle gelir elde edildiği halde payına karşılık hiçbir bedel ödenmediğini ileri sürerek, 2004 yılından itibaren hesaplanacak ecrimisil bedelinin 2004 yılından itibaren işleyecek yasal faizi ile tahsiline karar verilmesini talep etmiştir.
 
 Davalı vekili, dava konusu dairelerin vergilerini ödediğini, faydalı ve zorunlu masraflar yaptığını, ayrıca dava konusu dairelerin zaman zaman da boş kaldığını belirterek, savunma yolu ile takas ve mahsup talebinde bulunmuştur.
@@ -267,6 +291,8 @@ Ayrıca davalı takas - mahsup savunmasında bulunmuş ise de faydalı ve zorunl
 SONUÇ: Yukarıda açıklanan nedenlerle taraf vekillerinin temyiz itirazlarının yerinde olduğundan kabulü ile hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/4734 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684037400)
 
 Davacı vekili, elbirliği halinde malik oldukları çekişme konusu 293 ada 45 parsel sayılı taşınmazın davalı tarafından kiraya verilmek suretiyle kullanıldığını ileri sürerek, payına karşılık dava tarihi olan 06.05.2013 tarihinden geriye doğru beş yıl için 7.500 TL ecrimisile karar verilmesini istemiştir.
 

@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2010/8414 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769213700)
+
 Ancak burada taşınmazda paydaş olan davacılar ile bu davacıların payları üzerinde intifa hakkı sahibi olan davacılar arasında görülen ve eldeki davadan tefrik edilen davaya da kısaca değinmek gerekir. O davada davacılar Türk Medeni Kanununun 700. maddesi uyarınca ortaklığın giderilmesini istemişlerdir. Anılan maddeye göre intifa hakkı tesisinden sonra diğer paydaşlardan biri intifa hakkının kurulduğunun kendisine tebliğinden itibaren 3 ay içerisinde paylaşma isteğinde bulunduğu takdirde satış yoluyla paylaşmada intifa hakkı buna ilişkin paya düşecek bedel üzerinden devam eder. Davacılar kendi aralarındaki ilişkinin 700.maddeye göre tasfiyesini talep ederken davalılar yönünden de danışıklı işlem ve hakkın kötüye kullanılması iddialarında bulunmuşlardır. Hemen belirtmek gerekir ki, paydaş davacılar davalı ...'un davalı ... lehine intifa hakkı tesis ettirdiğini tebliğ ettirdikten hemen sonra kendi payları üzerine de intifa hakkı tesis ederek intifa hakkı sahipleri ile birlikte eldeki davaları açmışlardır. Bu arada paydaş ... da diğer paydaşların tesis ettirdikleri intifa hakkı nedeniyle Türk Medeni Kanununun 700. maddesindeki hakkını kullanmıştır.
 
 Taraflar arasındaki ilişki bu şekilde açıklandıktan sonra yeniden somut olaya döndüğümüzde; tarafların taşınmaz üzerindeki ortaklığın giderilmesi konusunda iradelerinin birleştiği açıktır. Davalı ...'un borcunu ödemek amacıyla diğer davalı lehine intifa hakkı tesis ettirdiği, diğer bir anlatımla ifa yerine edim şeklinde borcunu ödediği hususunun aksi kanıtlanamamıştır. Paydaşların tamamının payları üzerinde intifa hakkı mevcut olup davalıların mevcut delil durumuna göre diğer paydaşları ve intifa hakkı sahiplerini ortaklığın giderilmesi davasında külfete sokma iradesi ile hareket ettiklerine dair yeterli kanıtta mevcut değildir. Bir başka anlatımla, davalıların Türk Medeni Kanununun 2. maddesinde tanımlanan hakkın kötüye kullanılması hükmüne aykırı hareket ettikleri kanıtlanamamıştır.
 
 ## Yargıtay 14. HD 2010/5324 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768847300)
 
 Somut olayda; dava konusu taşınmazda ihale ile satıştan önce paydaş olan .. A.Ş. 21.06.2001 tarihli resmi senetle dava konusu taşınmazla birlikte 12 parça taşınmazında payları üzerine 5 ve 10 gibi küçük hisselerle davalı lehine intifa hakkı tesis ettirmiştir. Bunlardan bir kısmı terkin edilmiştir. Dava konusu intifa hakkı halen kayıtta bulunmaktadır. Davacılar taşınmazı intifa hakkı ile yükümlü olarak satın almışlardır. Şimdi bu intifa hakkının taşınmaza ağır külfet yüklediğini ileri sürmektedirler. Dava dilekçesinde intifa hakkının diğer paydaşların zararına konulduğunu ve bu hususun hakkın kötüye kullanılması anlamına geldiğini belirterek ve ayrıca taşınmaza yüklediği külfetin hakkın sağlayacağı yarardan daha fazla olduğu iddiasıyla doğrudan Türk Medeni Kanununun 785.maddesi uyarınca terkin talep etmişlerdir.
 
@@ -35,6 +39,8 @@ Davaya konu olayda, paydaşlığın giderilmesi davasında davacılar da taraft�
 Tüm bu yönler gözardı edilerek davacıların dayandığı vakıaların yanlış nitelendirilmesi sonucu davanın reddine karar verilmesi doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2009/5413 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16865900)
 
 …
 

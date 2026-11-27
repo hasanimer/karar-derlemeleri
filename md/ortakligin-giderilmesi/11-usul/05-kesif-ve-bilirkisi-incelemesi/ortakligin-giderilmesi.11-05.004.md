@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2013/3105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411038000)
+
 Paydaşlığın (ortaklığın) satış yoluyla giderilmesi halinde dava konusu taşınmaz üzerinde bina, ağaç vs gibi bütünleyici parça (muhdesat) varsa bunların arzla birlikte satılması gerekir. Ancak muhdesatın bir kısım paydaşlara (ortaklara) ait olduğu konusunda tapuda şerh varsa veya bu hususta bütün paydaşlar (ortaklar) ittifak ediyorlarsa ve muhdesat arzın değerinde bir artış meydana getiriyorsa bu artışın belirlenmesi için dava tarihi itibariyle arzın ve muhdesatın değerleri ayrı ayrı tespit edilir. Belirlenen bu değerler toplanarak taşınmazın tüm değeri bulunur. Bulunan bu değerin ne kadarının arza ne kadarının muhdesata isabet ettiği oran kurulmak suretiyle belirlenir. Satış sonunda elde edilecek bedelin bölüştürülmesinde bu oranlar esas alınarak yapılır. Muhdesata isabet eden kısım muhdesat sahibi paydaşa, geri kalan bedel ise payları oranında paydaşlara (ortaklara) dağıtılır.
 
 Olayımıza gelince; Davaya konu 322 parselde bulunan samanlık, su deposu, ve ağaçların ortaklardan ...’ya ait olduğuna dair Milas Asliye Hukuk Mahkemesi’ nin 1998/355 E, 2000/975 K. Sayılı kesinleşmiş ilamı bulunmaktadır. Mahkeme bu ilamı dikkate alarak bu parsel için satış bedelinin %73 ünün muhdesat sahibi ...’ya verilmesine karar verilmiştir. Ancak kesinleşmiş bu ilamda belirtilen ağaçlar ile Mahkemece yapılan keşif sonucu dosyaya sunulan ziraat bilirkişi raporundaki ağaçlar farklılık arzetmektedir. Çelişkinin giderilmesi maksadıyla gerekirse yeniden mahallinde keşif yapılarak kesinleşmiş mahkeme ilamındaki ağaçlarla karşılaştırma yapılarak alınacak rapora göre davalıya ait muhdesat yönünden karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/1130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243652900)
 
 Dava, bir adet taşınmazdaki ortaklığın giderilmesi istemine ilişkindir.
 
@@ -38,6 +42,8 @@ Olayımıza gelince;ortaklığın giderilmesi talep edilen taşınmazın 41.808 
 
 ## Yargıtay 6. HD 2013/968 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243000800)
+
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -45,6 +51,8 @@ Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 Kararın dayanağını oluşturan taksim sözleşmesi TMK 676/son maddesinde belirtilen usulle oluşturulmuş geçerli bir taksim sözleşmesi değildir. Bu nedenle Mahkemece işin esasına girilerek yapılacak keşif ile aynen taksim suretiyle ortaklığın giderilmesinin mümkün olup olmadığının araştırılması, taksimin mümkün olmaması halinde satış talebinin de olduğu gözetilip satış suretiyle ortaklığın giderilmesine karar verilmesi gerekirken, yazılı gerekçe ile taksim sözleşmesine değer verilerek davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/551 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241904700)
 
 Dava, bir adet taşınmazdaki paydaşlığın aynen taksim edilerek giderilmesi istemine ilişkindir.
 
@@ -56,17 +64,23 @@ Olayımıza gelince; dava konusu 892 parsel sayılı taşınmaz taraflar arasın
 
 ## Yargıtay 3. HD 2012/25700 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487084000)
+
 Ecrimisile konu edilen taşınmazlarda; taraflar paydaştır. Paydaşlar, kural olarak, intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçeklemesi de; ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanma isteğini davalı paydaşa bildirmiş olmasına bağlıdır.İntifadan men koşulunun gerçekleştiği iddiası, niteliğinde yemin dahil her türlü delille ispatlanabilir.
 Bu koşul dava şartı niteliğinde olduğundan, gerçekleşip gerçekleşmediğinin mahkemece re’sen araştırılarak saptanması gerekir.Ancak; ecrimisil istenilen taşınmazın (bağ-bahçe gibi) doğal ürün veren ya da kiraya verilerek hukuksal semere elde edilen yerlerden olması, paylı taşınmazı işgal eden paydaşın diğerlerinin paydaşlığını inkar etmesi, fiili taksim olması, davacı paydaş tarafından davalı paydaş aleyhine müdahalenin önlenmesi, ortaklığın giderilmesi davası açılması halinde intifadan men şartının aranmasına gerek yoktur.Mahkemece, yukarıdaki ilkeler ışığında araştırma ve inceleme yapılarak, davalı tarafından kullanıldığı iddia edilen yere ilişkin intifadan men şartının gerçekleşip gerçekleşmediği saptanmak suretiyle hüküm kurulması gerekirken, açıklanan gerekçe ile yazılı şekilde hüküm kurulması doğru görülmemiştir.Bundan ayrı olarak, davada ecrimisil miktarını tayin ve tespitte mahkemece dayanak yapılan bilirkişi raporu, Yargıtay’ın yerleşmiş uygulamalarına göre hüküm kurulmasına yeterli değildir.Ecrimisil davaları, haksız fiil benzeri davalar olup, ecrimisil miktarının en çoğu tam kar mahrumiyeti en azı ise asgari kira bedelidir.Somut olayda bilirkişi raporu; emsal
 değerlendirmesi yapılmadan hesaplamanın hangi yıllar için neye göre, hangi bedeller belirlendiği açıklanmadan sadece taşınmazlardan sözedilip bedel belirtilmek suretiyle tanzim edilmiştir.İlke olarak, kira geliri üzerinden ecrimisil belirlenmesinde, taşınmazın dava konusu ilk dönemde mevcut haliyle serbest koşullarda getirebileceği kira parası (emsal kira sözleşmeleri ile karşılaştırılarak, taşınmazın büyüklüğü ve çevre özellikleri de nazara alınarak) rayice göre belirlenir, sonraki dönemlerde ise ilk dönem için belirlenen miktar ÜFE artış oranının tamamı yansıtılarak belirlenecek miktardan az olmamak üzere bulunacak miktarın ecrimisilin hüküm altına alınması gerekir.Mahkemece, belirtilen hususlar dikkate alınmadan tanzim edilen yetersiz bilirkişi raporu esas alınıp, hüküm kurulması da doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2012/16982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054823000)
+
 Onay makamından olumsuz cevap gelmesi halinde paydaşlığın (ortaklığın) satış suretiyle giderilmesine karar verilmesi gerekir.
 
 Olayımıza gelince; dava konusu taşınmaz 30.320 m2 büyüklüğünde fındık bahçesi vasfıyla tapuya kayıtlıdır. Mahkemece taşınmaz üzerinde keşif yapılarak tarafların aynen taksim talepleri doğrultusunda teknik bilirkişiye 07/05/2012 tarihli rapor ve taksim krokisi düzenlettirilmiştir.İlçe idare kuruluna keşif tutanağında oluşturulan ara karar ile müzekkere yazıldığı halde müzekkere cevabı beklenilmeden, hükme esas alınan ifraz projesi onay makamına sunulup onay alınmadan karar verilmesi doğru değildir. O halde mahkemece yapılacak iş yukarıdaki esaslar dairesinde düzenlenen projenin onay makamına sunulması ve sonucuna göre bir karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru olmadığından hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/12596 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054749100)
 
 Dava, bir adet taşınmazın paydaşlığının giderilmesi istemine ilişkindir.
 
@@ -78,6 +92,8 @@ Olayımıza gelince; mahallinde yapılan keşif sonunda düzenlenen 14.07.2011 g
 
 ## Yargıtay 6. HD 2012/10152 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054452000)
+
 Dava, 1 adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -87,6 +103,8 @@ Onay makamından olumsuz cevap gelmesi halinde paydaşlığın (ortaklığın) s
 Olayımızda; davaya konu 73 ada 2 parsel sayılı taşınmaz tapuda ... Fabrikası ve müştemilatı olarak kayıtlı olup 10420 m² büyüklüğündedir. 4.5.2009 tarihli Fen Bilirkişi raporunda üzerinde narenciye paketleme fabrikası olarak kullanılan bina ve kantar olan taşınmazın davacı ve davalıya ait paylara göre aynen ikiye bölünmek suretiyle taksiminin mümkün olduğu belirtilmiş ve buna ilişkin taksim projesi ... Belediyesince uygun görülerek taşınmazın taksim projesinde belirtildiği gibi 2 kısma ifrazının mümkün olduğu belirtilmiş ve mahkemece buna uygun olarak aynen taksime karar verilmiş ise de, düzenlenen ifraz krokisine göre fabrika binasının her iki bölünen parça üzerinde yer aldığı anlaşılmaktadır. Mevcut fabrika binasının bu şekilde, ifraz projesine göre bülünüp bölünemeyeceği konusunda uzman bilirkişiden görüş alınmamış olup mahkemece eksik inceleme ve araştırma ile karar verilmiştir. O halde sözkonusu fabrika binasının da bilirkişi tarafından hazırlanan taksim projesi kapsamında bölünüp bölünmeyeceğine ilişkin gerekli araştırma yapılarak, sonucuna göre karar verilmesi gerekirken yazılı şekilde hüküm tesisi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2012/9930 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054349200)
 
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
@@ -98,6 +116,8 @@ Buna göre, mahallinde yeniden uzman bilirkişi refakati ile keşif yapılarak, 
 
 ## Yargıtay 6. HD 2012/9564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054132600)
+
 Dava, bir adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -108,6 +128,8 @@ Olayımıza gelince; mahkemece yapılan keşif sonunda düzenlenen bilirkişi ra
 
 ## Yargıtay 6. HD 2012/8603 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053821200)
+
 Dava, dört parça taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
 …
@@ -117,6 +139,8 @@ Onay makamından olumsuz cevap gelmesi halinde paydaşlığın (ortaklığın) s
 Olayımıza gelince; dava konusu taşınmaz başında yapılan keşif sonrasında alınan bilirkişi raporundan taşınmazın imar planı içinde kaldığı yola terki yapıldıktan sonra taksim edilebileceği bildirilmiştir. Taşınmazın taksim edilip edilemeyeceği belediye encümenine sorulmuş gelen cevabi yazıda ifraz projesi hazırlandıktan sonra ve yola terki gösterildikten sonra taksim edilebileceği belirtilmiştir. Bu durumda teknik bilirkişiye ifraz projesi düzenlettirerek bu projeye göre taşınmazın taksim edilip edilemeyeceğini, onay makamı olan ... Belediyesine gönderilerek projeye göre taksimin mümkün olup olmadığının sorulması, taksimin mümkün olduğunun anlaşılması halinde tarafların yola terke muvafakatlarının bulunup bulunmadığı konusundaki beyanlarının alınması ve sonucuna göre bir karar verilmesi gerekirken, bunlardan zuhul olunarak eksik inceleme ile yazılı şekilde karar verilmesi hatalı olduğundan hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/6807 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558591800)
 
 Dava, bir adet taşınmaz üzerindeki ortaklığın giderilmesine ilişkindir.
 
@@ -130,6 +154,8 @@ Mahkemece satış bedelinin paylaştırılmasına yönelik olarak yukarıda aç�
 
 ## Yargıtay 6. HD 2012/5997 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563915800)
+
 Dava, bir adet taşınmaz üzerindeki ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -140,9 +166,13 @@ Olayımıza gelince; Davaya konu taşınmaz üzerinde davacı ve davalılar taş
 
 ## Yargıtay 6. HD 2012/5022 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569975000)
+
 Ayrıca dava konusu taşınmazlardan ... ve ... parsel sayılı taşınmazlar 1/3 'er payla davacı ve davalılar adına kayıtlıdır. Mahkemece taşınmazlar başında yapılan keşif neticesinde düzenlenen bilirkişi raporunda, ... parsel nolu taşınmazın iki veya beş, ... parsel nolu taşınmazın ise iki parçaya aynen taksiminin mümkün olduğu bildirilmiş ve taksimle ilgili kroki düzenlenmiş ise de, yasal onay makamından görüş sorulmamıştır. Yukarıda açıklanan esaslar doğrultusunda, bilirkişi tarafından düzenlenen ifraz projesine göre taşınmazların aynen taksiminin mümkün olup olmadığı il idare kurulundan sorularak sonucuna göre karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde satış yönünden hüküm kurulması da isabetsizdir.
 
 ## Yargıtay 6. HD 2012/3321 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569480800)
 
 Dava, 4 adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -155,6 +185,8 @@ Mahkemece davaya konu taşınmazların paydaşları arasındaki elbirliği mülk
 
 ## Yargıtay 6. HD 2012/2008 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053469000)
+
 Dava, yedi adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -165,6 +197,8 @@ Olayımıza gelince; dava konusu 408 parsel sayılı taşınmaz üzerinde buluna
 
 ## Yargıtay 7. HD 2012/1964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100242500)
+
 Dava taşınmazlar üzerinde bulunan muhdesatların aidiyetinin tespiti istemine ilişkindir.
 
 …
@@ -172,6 +206,8 @@ Dava taşınmazlar üzerinde bulunan muhdesatların aidiyetinin tespiti istemine
 Hal böyle olunca; az yukarıda açıklanan hukuki olgunun belirlenmesi açısından, konusunda uzman bir fen bilirkişi beraberinde ve taraf tanıkları hazır edilmek suretiyle 24 parsel sayılı taşınmaz üzerinde yeniden keşif yapılmalı, keşifte öncelikle hangi muhdesatın dava edildiği belirlenmeli, daha sonra davaya konu edilen muhdesat ile tapu kaydında görünen muhdesatların aynı olup olmadığı, aynı değil iseler tapu kaydında belirtilen muhdesatların ne olduğu, dava konusu muhdesatın hangi tarihte, kim tarafından, ne şekilde meydana getirildiği duraksamasız belirlenmeli, bunun sonucunda davada hak düşürücü sürenin gerçekleşip gerçekleşmediği araştırılmalı, muhdesatın oturulabilir hale getirilmesi için yapılan harcamaların yeni bir muhdesat meydana getirme niteliğinde olmayıp, iyileştirme gideri (faydalı masraf) niteliğindeki alacağı, bu gibi giderlerin ancak koşullarının varlığı halinde sebepsiz zenginleşme davasına konu edilebileceği düşünülmeli, daha sonra toplanan ve toplanacak tüm deliller bir arada değerlendirilerek sonucuna uygun ve infaza elverişli bir karar verilmelidir.
 
 ## Yargıtay 7. HD 2012/1963 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100241900)
 
 Dava taşınmaz üzerinde bulunan muhdesatların aidiyetinin ve değerlerinin tespiti istemine ilişkindir.
 
@@ -182,11 +218,15 @@ Bunun yanında davalının ortaklığın giderilmesine ilişkin davada davaya ce
 
 ## Yargıtay 3. HD 2012/1700 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621177000)
+
 Ecrimisile konu edilen taşınmazlarda tarafların iştirak halinde malik oldukları anlaşılmaktadır. Paydaşların kural olarak, taşınmazı kullanan malikten ecrimisil talep edebilmesi için, diğer maliklerin taşınmazdan yararlanma isteklerini karşı tarafa iletmiş olmaları gerekir. Yararlanma isteminin iletilmesi belli bir şekil şartına bağlı değildir. Tanık dahil her türlü delille ispatlanabilir.
 Bu kuralın bir takım ayrıcalıkları vardır ki; bunlar ecrimisil istenen taşınmazın bağ-bahçe gibi doğal ürün veren ya da kiraya verilerek hukuksal semere elde edilen yerlerden olması, paylı taşınmazı işgal eden paydaşın bu taşınmazın tamamında hak iddia ve diğerinin paydaşlığını inkar etmesi, paydaşlar arasında yapılan kullanım anlaşması sonucu her paydaşın yararlanacağı ortak taşınmaz veya bölümlerinin belli bulunması, davacı paydaş tarafından davalı paydaş aleyhine bu taşınmaza ilişkin elatmanın önlenmesi, ortaklığın giderilmesi, ecrimisil ve benzer dava açılması halleridir.Somut olayda davalı, cevap dilekçesinde davacılara tapudaki devir işleminden önce kullanım bedeli karşılığını ödediğini bildirmiş ve ödemede bulunduğu konusunda yemin teklifinde bulunmuştur.Davacılar ise, dava konusu edilen ecrimisil bedelini almadıklarına dair yemin etmişlerdir. Hal böyle olunca davalı, davacılara dava konusu edilen taşınmazların kullanım bedelini ödediğini bildirmiş olmakla, davacıların dava konusu taşınmazlardan yararlanma isteklerini davalıya bildirmiş olduklarının kabulü gerekir. Öyle ise;
 Mahkemece her dönem için talep edilen ecrimisil bedelinin davacılara açıklattırılarak, konusunda uzman bilirkişi ya da bilirkişi kurulundan Yargıtay denetimine uygun alınacak rapor doğrultusunda karar verilmesi gerekirken, delillerin değerlendirilmesinde yanılgıya düşülerek yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup, bozma nedenidir.
 
 ## Yargıtay 6. HD 2012/1003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053534900)
 
 Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil de üçüncü şahsa ait olduğunun anlaşılması halinde bu kimseyi muhdesat sahibi olarak davaya dahil etme ve ona satış bedelinden pay vermek mümkün değildir.
 
@@ -194,6 +234,8 @@ Olayımıza gelince; Mahallinde yapılan keşif sonucunda alınan fen bilirkişi
 Mahkemece taşınmaz üzerinde bulunan muhdesatlar konusunda “değer oranlaması dikkate alınarak satış bedelinin hak sahiplerine ödenerek ortaklığın satış sureti ile giderilmesine” biçiminde hüküm kurulmuştur. Bu şekilde kurulan hüküm infazda karışıklığa neden olacağından yukarıda açıklanan ilkeler doğrultusunda davalıların muhdesat değerine yönelik itirazı da değerlendirilerek gerekirse ek rapor alındıktan sonra yukarıda açıklanan ilkeler doğrultusunda arz ile muhtesatların değerleri arasında oran kurulup satış sonunda elde edilecek bedelinde bu oranlar göz önünde tutularak paydaşlara dağıtılmasına karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2012/495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053383800)
 
 Dava, bir adet taşınmazın ortaklığının giderilmesi istemine ilişkindir.
 
@@ -206,6 +248,8 @@ Mahkemece, yapıların (muhdesatın) ve arsanın değeri yönünden denetime elv
 
 ## Yargıtay 6. HD 2012/65 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687799200)
+
 Dava, dört adet tarla vasfındaki taşınmazda ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -213,6 +257,8 @@ Dava, dört adet tarla vasfındaki taşınmazda ortaklığın giderilmesi istemi
 Ortaklığın giderilmesi davasında, keşif yapılmasının gerekliliği, sadece aynen taksim imkanının değerlendirilmesine yönelik olmayıp, taşınmazın fiili durumunun tapu kaydına uygunluğunun ve taşınmaz üzerindeki muhtesatların varlığının tespitine de yöneliktir. Taşınmazın fiili durumunun tapu kaydına uygun olmaması halinde, buna ilişkin mesele halledilmeden satış kararı dahi verilemeyeceğine göre, mahallinde bilirkişi refakatiyle keşif yapılmaksızın, eksik araştırma ile ortaklığın satış suretiyle giderilmesine karar verilmesi hatalı olduğu gibi, ortaklığın satış suretiyle giderilmesine karar verilmiş olmasına rağmen, kararda satış usulünün belirtilmemiş olması da doğru değildir.
 
 ## Yargıtay 6. HD 2011/15204 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060682000)
 
 Dava, bir adet taşınmazdaki paydaşlığın giderilmesi istemine ilişkindir.
 
@@ -224,6 +270,8 @@ Olayımıza gelince, dava konusu taşınmazın paylı ve elbirliği mülkiyetine
 
 ## Yargıtay 6. HD 2011/13771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059518700)
+
 Dava, 12 adet taşınmaz üzerindeki ortaklığın giderilmesi istemine ilişkindir.
 
 …
@@ -233,6 +281,8 @@ Bütünleyici parçanın (muhdesat) arzın paydaşlarına (ortaklarına) değil 
 Olayımıza gelince; Mahkemece yerinde yapılan keşif sonucunda davaya konu 206 ada 2, 3 ve 4 parsel sayılı taşınmazlar üzerinde bulunan ve bilirkişi tarafından tespit edilen muhdesat adedi, bedeli ve bu bedelin taşınmazın toplam bedeline oranı hususunda 26/10/2009 tarihli bilirkişi raporu ile 13/05/2010 tarihli bilirkişi raporu arasında büyük farklılıklar bulunduğu anlaşılmakla bu farklılığın hangi nedenden kaynaklandığı üzerinde durularak gerekirse mahallinde teknik uzmanlığı olan bilirkişilerle tekrar keşif yapılarak çelişkinin giderilmesi gerektiği halde raporlar arasındaki çelişki giderilmeksizin karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2011/12212 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059079600)
 
 Dava, beş adet taşınmazda paydaşlığın giderilmesine ilişkindir.
 

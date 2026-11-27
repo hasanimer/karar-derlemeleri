@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2023/3297 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915822100)
+
 Davacı vekili, müvekkilinin Tokat ili, .... ilçesi, .... Köyü 147 ada 3 parsel sayılı taşınmaz ile .... Köyü, 147 ada 1 parsel sayılı taşınmazı cebri icra yoluyla satın almış olmasına rağmen davalı tarafından tarla vasfındaki taşınmazların kullanılmaya ve işgal edilmeye devam edildiğini belirterek el atmanın önlenmesini, fazlaya ilişkin haklarının saklı kalmak kaydıyla taşınmazların haksız kullanımından dolayı 5.000,00 TL ecrimisilin davalıdan tahsilini talep etmiştir.
 
 …
@@ -40,6 +42,8 @@ Hal böyle olunca, Bölge Adliye Mahkemesince usulüne uygun muhtıraya rağmen 
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/2658 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915857600)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -69,6 +73,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 7. HD 2023/2551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915804800)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın ecrimisil istemi yönünden kabulüne, el atmanın istemi yönünden karar verilmesine yer olmadığına, yıkım istemi yönünden husumetten reddine karar verilmiştir.
 
 …
@@ -91,6 +97,8 @@ bile bulunmadığı halde) davalı olarak işin esası hakkında karar verilmesi
 (2) nolu paragrafta açıklanan nedenlerle, dahili davalılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/2473 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910851700)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
@@ -121,6 +129,8 @@ Açıklanan sebeplerle davacı vekilinin yerinde görülmeyen tüm temyiz itiraz
 
 ## Yargıtay 1. HD 2023/2395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917960000)
+
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonucunda; asıl davanın kabulüne, birleştirilen davanın reddine karar verilmiştir.
 
 …
@@ -139,6 +149,8 @@ Hal böyle olunca, asıl dava yönünden TBK.'nın 97. maddesi hükmü uyarınca
 Asıl davada davalı- birleştirilen davada davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/2210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950907800)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, kısmen reddine, karşı davanın reddine karar verilmiştir.
 
@@ -161,6 +173,8 @@ Temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/1953 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/926067200)
+
 Davacılar vekili, dava konusu taşınmazda üç bina bulunduğunu, B blok zemin katta ortak kullanım alanı olan kısmın daire şekline dönüştürülüp davalı tarafından işgal edildiğini belirterek, elatmanın önlenmesi, ecrimisil ve eski hale getirilmesini talep etmiştir.
 
 …
@@ -180,6 +194,8 @@ Bölge Adliye Mahkemesi yukarıda esas ve karar sayısı belirtilen kararı ile 
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/1068 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897728000)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın asıl dava ve birleştirilen 2010/382 Esas, 2010/544 Karar sayılı dosyası bakımından; müdahalenin men'i talebi yönünden davanın geri alınmış olması nedeniyle açılmamış sayılmasına, ecrimisil talebi bakımından açılan davanın reddine; birleştirilen 2013/159 Esas, 2014/831 Karar sayılı dosyası bakımından, davacılardan ..., ... ile ... tarafından açılan davanın HMK'nın 150 nci maddesi gereğince açılmamış sayılmasına, davacı ... tarafından açılan davanın kabulü ile dava konusu 215 ada 3 parsel (eski 177) sayılı taşınmaz üzerinde bulunan 1 zemin ve 1 normal kattan oluşan betonarme binaya davalıların, davacının eve girmesini engellemek şeklinde gerçekleşen müdahalelerinin, davacının (tapu kaydı ile muris Mustafa Fehmi Usta'nın veraset ilâmındaki hissesi) payı oranında men'ine, aynı taşınmazda kapama çay bahçesi olan 6.600,00 m²'lik kısma davalıların müdahale ederek davacının çay toplamasına engel olmak şeklinde gerçekleşen müdahalelerinin, davacının (tapu kaydı ile muris Mustafa Fehmi Usta'nın veraset ilâmındaki hissesi) payı oranında men'ine dair karar verilmiştir.
 
@@ -203,6 +219,8 @@ Asıl ve birleştirilen dava davalısı- birleştirilen dava davacısı Zaide ve
 
 ## Yargıtay 7. HD 2023/873 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897440600)
+
 Davacı vekili; dava konusu 21 ada 7 parsel sayılı taşınmaz üzerindeki 10 No.lu binanın babaları İlyas'a ait iken vefatı ile taraflara kaldığını, binada babalarına ait 3 adet mesken mevcut iken davalıların bu binayı kullandıklarını ve müvekkiline kullandırmadıklarını belirterek, dava konusu taşınmaza elatmanın önlenmesi ile geriye dönük 5 yıllık kira bedelinin davalılardan müşterek ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -221,6 +239,8 @@ Somut olayda, mahkemece fen ve inşaat bilirkişileri ile birlikte 27.09.2019 ta
 Bölge Adliye Mahkemesinin 08.09.2022 tarihli ek kararının kaldırılarak İlk Derece Mahkemesi hükmünün BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896654800)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın davalı ... yönünden kabulüne, karşı davanın ise reddine karar verilmiştir.
 
@@ -252,6 +272,8 @@ Davalı-karşı davacı vekilinin yerinde görülmeyen tüm temyiz itirazların�
 
 ## Yargıtay 7. HD 2022/7278 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858290500)
+
 Dava, el atmanın önlenmesi, kal ve ecrimisil istemlerine ilişkindir.
 
 …
@@ -263,6 +285,8 @@ El atmanın önlenmesi ve ecrimisil istekli davalarda dava değeri el atılan ye
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin sair temyiz itirazlarının REDDİNE, (2) numaralı bent uyarınca davalı vekilinin, (3) numaralı bent uyarınca davacılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2022/7096 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847152700)
 
 Davalılar vekili cevap ve karşı dava dilekçesinde, davacıların komşuları olan 166 parsel sayılı taşınmazdan 172 parsel sayılı taşınmaza kadar olan taşınmazlar için Körfez Caddesi ile bağlantılarını kuran 173 parsel sayılı taşınmazın yol olarak tapuya tescil edildiğini ve kullanımlarına verildiğini, davacılara ait taşınmazın eski malikleri tarafından açılan geçit ... tesisine ilişkin davanın 173 parsel sayılı taşınmazın yol olarak kullanması nedeniyle reddedildiğini; ayrıca davacıların müvekkillerine ait 68 ada 178 parsel sayılı taşınmazın bir kısmını çakıl taşı dökmek, elektrik aydınlatması sağlamak ve merdiven inşa etmek suretiyle yol olarak kullandıklarını ve müvekkillerinden izin alınmadan taşınmazlarından doğalgaz borusu geçirdiklerini; davacıların doğalgaz alabilecekleri daha elverişli güzergahlar olduğunu, davacıların özellikle 173 parsel sayılı taşınmazın Körfez Caddesi ile birleştiği yerdeki hattan doğalgaz alabileceklerini, bu güzergahtan davacıların konutuna giden su ve kanalizasyon borularının da bulunduğunu beyan ederek asıl davanın reddine ve davacıların müvekkillerine ait taşınmaza müdahalelerinin önlenmesine, fazlaya ilişkin hakları saklı kalmak üzere 25.10.2004
 tarihinden itibaren yasal faiziyle birlikte şimdilik 500,00 TL kullanma bedelinin, 500,00 TL de eski hale getirme bedelinin tazminine karar verilmesini talep etmiştir.
@@ -282,6 +306,8 @@ Gerekçe bölümünde yer alan (3) numaralı bentte açıklanan nedenlerle asıl
 
 ## Yargıtay 7. HD 2022/6701 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846858500)
+
 Dava, mülkiyet hakkına dayalı el atmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 
 …
@@ -296,6 +322,8 @@ Temyiz olunan, İstanbul Bölge Adliye Mahkemesi 1. Hukuk Dairesinin 17.07.2020 
 
 ## Yargıtay 7. HD 2022/3172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/767602700)
+
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -305,6 +333,8 @@ O halde taraflar arasında murislerinin de katılımıyla bir taksim yapıldığ
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacılar vekilinin tüm, davalılar vekilinin sair temyiz itirazlarının REDDİNE, (2) numaralı bentte açıklanan nedenlerle davalılar vekilinin diğer temyiz itirazlarının kabulüyle HMK’nin 371. maddesi gereğince Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2022/1857 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760605100)
 
 Dava, paydaşlar arası elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 

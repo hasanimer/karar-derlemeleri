@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2020/6331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610289400)
+
 Davalılar, dava konusu taşınmazın 40 yıl önce 3 kardeş hissedar arasında fiilen taksim edildiğini ve 40-50 yıldır bu şekilde kullanıldığını, herkesin bu taksime uygun olarak yerini kullandığını ve kendi yerinde ev yaptığını, tecavüzlü evin gerçekte babaları ...'a ait olduğunu, yapılacak keşifte belirleneceği üzere babalarına ait 143 ada 34 parselden 388 m2 yer davacıların babası ...'e verildiğini, buna karşılık 143 ada 33 parselin babalarına kaldığını, 40 yıldır da bu şekilde kullanıldığını belirterek davanın reddini istemişlerdir.
 
 Mahkemece yapılan yargılama sonunda, dava konusu 143 ada 31 parsel sayılı taşınmazı davalılarca çinko ile sararak davacıların geçiş hakkını kısıtladıkları, davacılara ait 143 ada 33 parsel sayılı taşınmazı izin almadan kullandıkları ve haksız müdahalede bulundukları, 1 parsel sayılı taşınmazın bir kısmını kendi taşınmazlarına katmak suretiyle kullandıkları gerekçesiyle davalıların davaya konu 143 ada 1, 143 ada 33 ve 143 ada 31 nolu parsellere vaki müdahalelerin men'i ile 143 ada 31 nolu parsel üzerindeki çinkoların kaldırılması ve 143 ada 1 nolu parsel için 368,09 TL, 143 ada 31 parsel için 4.606,57 TL ve 143 ada 33 nolu parsel için 7.772,20 TL ecrimisil bedellerinin dava tarihinden itibaren yasal faizleri ile birlikte davalılardan alınarak hisseleri oranında davacılara verilmesine dair karar verilmiş, hüküm davalılar tarafından temyiz edilmiştir.
@@ -40,9 +42,13 @@ SONUÇ:Yukarıda (1) nolu bentte açıklanan nedenlerle davalıların sair temyi
 
 ## Yargıtay 8. HD 2020/1546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588296500)
+
 844 ada 377 parsel sayılı taşınmaz dava konusu iken hüküm fıkrasında 844 ada 370 parsel sayılı taşınmaza vaki elatmanın önlenmesine karar verilmiş olması doğru değil ise de bu hususun mahallinde düzeltilebilecek maddi hata niteliğinde olduğunun anlaşılmasına, dosya içerisindeki bilgi ve belgelere, Mahkeme kararının gerekçesinde dayanılan delillerin tartışılıp değerlendirilmesinde usul ve yasaya aykırı bir yön bulunmamasına göre, davalı vekilinin temyiz itirazlarının reddi ile Mahkeme kararının yukarıda açıklanan gerekçe doğrultusunda ONANMASINA, HUMK'un 440/III-1, 2, 3 ve 4. bentleri gereğince ilama karşı karar düzeltme yolu kapalı bulunduğuna, …
 
 ## Yargıtay 5. HD 2019/14186 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571704100)
 
 Dosyada bulunan kanıt ve belgelere, kararın dayandığı gerekçelere göre; arazi niteliğindeki ... ili, ... ilçesi, ... mahallesi, 841, 842 ve 843 parsel sayılı taşınmazlara gelir metoduna göre değer biçilmesine mülkiyet ve irtifak hakkı karşılığının tahsiline, el atmanın önlenmesi ve ecrimisil talebinin reddine ilişkin ilk derece mahkemesinden verilen karara karşı yapılan istinaf başvurusunun 6100 sayılı HMK'nun 353/1-b-1 maddesi uyarınca esastan reddine,gerekçeli kararın hüküm fıkrasının faize ilişkin bendinin HMK'nun 353/1-b-2 maddesi uyarınca düzeltilerek yeniden esas hakkında karar verilmesinde bir isabetsizlik görülmemiştir. Ancak;28.04.2018 tarihinde Resmi Gazete'de yayımlanarak yürürlüğe giren 7139 sayılı Yasanın 6.maddesi gereğince davalı idare harçtan muaf olup, aleyhine harca hükmedilmemesi gerektiğinden, ... Bölge Adliye Mahkemesi 5. Hukuk Dairesince yeniden kurulan hükümde harca ilişkin 4.bendin hüküm fıkrasının çıkarılmasına, yerine (Davalı ... harçtan muaf olduğundan bu kurumdan harç alınmasına yer olmadığına, davacının yatırdığı harcın talep halinde iadesine,) cümlesinin yazılmasına, …
 
@@ -51,6 +57,8 @@ Dosyada bulunan kanıt ve belgelere, kararın dayandığı gerekçelere göre; a
 3-... Bölge Adliye Mahkemesi 5. Hukuk Dairesince yeniden kurulan hükümde istinaf yargılaması için alınan harca ilişkin 9. bendin hüküm fıkrasından çıkarılmasına, yerine (Davalı ... harçtan muaf olduğundan bu kurumdan harç alınmasına yer olmadığına, idarenin yatırdığı harç varsa talep halinde iadesine,) cümlesinin yazılmasına,Hükmün böylece HMK'nun 370/2. maddesi uyarınca DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 8. HD 2019/11649 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571480400)
 
 Davacı vekili, davacının maliki olduğu 109 ada 11 parsele davalı 109 ada 1 parsel maliki tarafından duvar örmek ve duvarla çevirdiği alana baraka ve ocak inşa etmek, ağaç dikmek suretiyle müdahale edildiğini, duvarın yapıldığı tarihten beri taşınmazın davacı tarafından kullanılamadığını, bu nedenle davalıların müdahalesinin men’i ile bu kısma yapılan muhdesatların kal’ini, boş olarak teslimini, fazlaya ilişkin haklar saklı kalmak kaydı ile şimdilik 100 TL ecrimisilin yasal faizi ile davalılardan tahsilini talep etmiştir.
 
@@ -73,6 +81,8 @@ SONUÇ: Yukarıda 2. ve 3. bentlerde açıklanan nedenlerle davalı asiller ... 
 
 ## Yargıtay 8. HD 2019/8988 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/649050700)
+
 Davacılar, kayden paydaşı oldukları 40 ada 11 parsel sayılı taşınmaza, sınır komşusu 52 parsel maliki davalının taşkın inşaat yaptığını haricen yaptırdıkları ölçüm sonucu öğrendiklerini, 13.01.2010 tarihli ihtarname ile 62,6 m2'lik tecavüzün giderilmesi istenildiği halde inşaata devam edildiğini ileri sürerek, yıkım yoluyla elatmanın önlenmesine, yıkım mümkün değilse taşkın olan kısmın bedeli karşılığında iptal ve tesciline karar verilmesini istemişlerdir.
 
 Davalı, iddiaların yersiz olduğunu, belediyeden alınan ruhsata dayalı olarak inşaatın yapıldığını, taşkın yapılaşma tespit edilecek olursa yıkımının fahiş zarar doğuracağını, tecavüzlü kısmın bedeli karşılığında iptal ve tescil isteğini belirterek, davanın reddini savunmuştur.
@@ -90,6 +100,8 @@ Dava; çaplı taşınmaza elatmanın önlenmesi, yıkım, olmadığı takdirde e
 “18.12.2014 tanzim ve 21/05/2015 havale tarihli bilirkişi kurulunun ek raporunun ve krokisinin kararın eki sayılmasına“ tümcesinin eklenmesine, hükmün düzeltilmiş bu şekliyle 1086 sayılı HUMK'un 438/7 maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 20. HD 2019/1030 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493287000)
 
 Davacı vekili 20/01/2011 günlü dilekçesinde özetle; ... ili, ... ilçesi, ... mahallesi, 6182 ada, ... parsel üzerindeki ... Sitesinde 46 numaralı bağımsız bölüm kullanıcısı ve maliki olan davalı şirketin, kendisine ait bağımsız bölümlee sığınak arasındaki ortak duvarı yıkarak sığınağı işgal ettiğini, bu kullanımın 634 sayılı Kanunun 18 ve 19. maddelerine aykırı olduğunu beyan ederek; müdahalenin önlenmesine, masrafları davalıya ait olmak üzere projeye aykırılığın ortadan kaldırılmasına, yargılama giderleri ile vekalet ücretinin de davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -110,6 +122,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davalı ... Gen. Güv. Kamera Sistemle
 
 ## Yargıtay 20. HD 2019/460 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478621300)
+
 Davacı vekili; müvekkilinin ... ili, ... ilçesi, ... Devlet Ormanı mevkiinde, 1190 parselde bulunan taşınmaz üzerinde inşa edilen 175 nolu taşınmazı üzerinde intifa hakkı sahibi olduğunu, taşınmazın ... Müdürlüğü adına kayıtlı olup 49 yıl süre ile ...
 
 …
@@ -123,6 +137,8 @@ Dava, Kat Mülkiyeti Kanunu uyarınca projeye aykırı yapıldığı bildirilen 
 SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan, kabulü ile hükmün HUMK'nın 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/18313 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473526900)
 
 Mahkemece, asıl dava yönünden; davacının...... A.Ş. hakkındaki ecrimisil taleplerinden feragat edildiğinden bu nedenle reddine,......
 
@@ -140,6 +156,8 @@ SONUÇ: Açıklanan nedenlerle, asıl dosyada davalı şirket vekili ile birleş
 
 ## Yargıtay 20. HD 2018/5221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432388300)
+
 Dava; kat malikleri kurulu kararının iptali, projeye aykırılığın eski hale getirilmesi, müdahalenin önlenmesi, hakim müdahalesi ve tespit istemine ilişkindir.
 
 ...-Mahkemece davanın kabulü, müdahalenin önlenmesi ve projeye aykırılıkların eski hale getirilmesi yönünde hüküm kurulmuş ise de, verilen hüküm infaza elverişli değildir. Mahkemece kararın "gerekçe" kısmında "su deposunun bakım işinin apartman yönetimine ve genel kurula ait olduğu, bu konudaki taleplerin yerinde görülmediği" ifade edilmesine rağmen, "hüküm" fıkrasında "gerekçe" ile uyumsuzluk ve çelişki yaratacak şekilde "su deposunun ve başka amaçla kullanılmasının kaldırılarak eski hale getirilmesine," karar verildiği anlaşılmaktadır. 6100 sayılı Hukuk Muhakemeleri Kanununun 297/.... maddesi;
@@ -151,6 +169,8 @@ Dava; kat malikleri kurulu kararının iptali, projeye aykırılığın eski hal
 SONUÇ: Yukarıda açıklanan nedenlerle; davalılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 5. HD 2017/11711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/394518700)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -164,6 +184,8 @@ Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan
 
 ## Yargıtay 20. HD 2017/10616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387656800)
+
 Mahkemece; eski hale getirme davasının kabulüne, bilirkişi raporuna ekli krokide gösterilen bölümlere davalılar tarafından yapılmış olan müdahalenin önlenmesine, dava konusu taşınmazın projesine uygun eski hale getirilmesine, kararın kesinleşmesini müteakip davalılara 30 gün süre verilmesine karar verilmiş olup hüküm davalılar vekilleri tarafından ayrı ayrı temyiz edilmiştir.Dava konusu uyuşmazlık projeye aykırılığın eski hale getirilmesi ve müdahalenin men'i istemine ilişkindir.
 
 …
@@ -176,6 +198,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davalılar vekillerinin temyiz itirazl
 
 ## Yargıtay 20. HD 2017/9258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378599300)
+
 Dava, müdahalenin meni ve ortak kullanım alanından tahliyesi istemine ilişkindir.
 
 …
@@ -183,6 +207,8 @@ Dava, müdahalenin meni ve ortak kullanım alanından tahliyesi istemine ilişki
 Gerekçeli kararın hüküm fıkrasının ikinci bendinin sonuna “diğer araçların park etmesini engelleyici eylemlerden kaçınmasına”, cümlesinden sonra gelmek üzere "müdahalenin menine" cümlesi yazılmak suretiyle ve mahkemece, yapılmasına hükmedilen işlemlerin yerine getirilmesi için davalı tarafa Kat Mülkiyeti Kanununun 33. maddesi hükmü uyarınca uygun süre verilmemesi doğru değil ise de bu eksikliğin de giderilmesi yeniden yargılamayı gerektirmediğinden, hüküm fıkrasının ikinci bendinin sonuna yazılacak “müdahalenin menine” cümlesinden sonra gelmek üzere “tüm bu işler için davalıya 30 gün süre verilmesine” ifadesi yazılmak suretiyle ve hükmün 6100 sayılı Kanunun geçici 3. maddesi atfıyla HUMK’nın 438/7.
 
 ## Yargıtay 20. HD 2017/5754 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/354028100)
 
 Mahkemece davanın eski hale getirme yönünden konusuz kaldığından karar verilmesine yer olmadığına, davacının uğramış olduğu zararı karşılamak üzere 120,00.-TL tazminatın davalıdan tahsili ile davacı tarafa verilmesine karar verilmiş hükmü davacı taraf temyiz etmiştir.
 
@@ -197,6 +223,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davacının temyiz itirazlarının kab
 
 ## Yargıtay 20. HD 2017/3492 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359459100)
+
 Davacı dava dilekçesinde; dairelerin tamamının tapuda mesken olarak kayıtlı olduğunu, tapuda mesken olarak kayıtlı olmasına rağmen zemin katta bulunan 1 ve 6 no'lu meskenler ... ve ... isimleriyle iş yeri olarak kullanılmakta olduğunu, ... ve ...nin bulunduğu meskenlerin dükkan olarak kullanılabilmesi için oybirliği ile alınan kararın bulunmadığını belirterek, iş yeri olarak kullanılan 1 ve 6 numaralı meskenlerin eski hale getirilmesine ve tahliyesine istemiş, mahkemece davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -206,6 +234,8 @@ Buna göre; mahkemece dosya içerisinde bulunan "muvafakatname” başlıklı be
 SONUÇ; Yukarıda açıklanan nedenlerle; davalılar ... vekili, ..., ... ve ...'ın temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2017/3134 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/330162600)
 
 Mahkemece, ... 10.
 
@@ -219,6 +249,8 @@ Hukuk Dairesinin 03/05/2016 günlü 2015/13155 - 2016/7191 sayılı onama karar�
 SONUÇ: Davalı vekilinin karar düzeltme isteğinin kabulü ile 18.Hukuk Dairesinin 03/05/2016 gün ve 2015/13155 - 2016/7191 E.K sayılı ONAMA KARARININ KALDIRILMASINA yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2015/18905 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/130548800)
 
 Davacı Hazine temsilcisi, dava ve ıslah dilekçelerinde, davalı Belediye Başkanlığı tarafından 170 ada 62 parsel ile 164 ada 26 parsel sayılı taşınmazların üzerine dükkanlar inşa edildiğini,taşınmazların dere yatağı üzerinde bulunan kısımlarının tapularının iptali ile Hazine adına tesciline, bahse konu dükkanların kal'ine ve fazlaya ilişkin hakları saklı kalmak kaydıyla 10.000.000.000 TL ecrimisilin tahsiline karar verilmesini istemiştir.
 
@@ -238,9 +270,13 @@ SONUÇ: Yukarıda 2. bentte açıklanan nedenlerle davalı Belediye Başkanlığ
 
 ## Yargıtay 18. HD 2015/16116 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/190341300)
+
 Dava kabul edildiğine göre, hüküm fıkrasında eski hale getirtilmesine karar verilen projeye aykırılıkların neler olduğunun bilirkişi raporuna atıfla gösterilmesi gerekirken, infazda karışıklık ve duraksamaya neden olacak şekilde sadece davalı tarafından yapılan ortak alanlara el atmanın önlenmesi ile mimari projeye aykırı yapıların yıkılarak mimari projesine uygun eski hale getirilmesine karar verilmesi doğru değil ise de, bu yanılgının düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden, hüküm fıkrasının 1. numaralı bendinin sonuna gelmek üzere "24.04.2014 tarihli rapor ve 03.09.2014 tarihli ek bilirkişi raporunun kararın eki sayılmasına” ibaresinin eklenmesi suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438.
 
 ## Yargıtay 1. HD 2015/15221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390703100)
 
 Davalılar, davacının dava konusu taşınmazlardan doğrudan gelir desteği aldığını, davacının kullanımına engel olmadıklarını belirterek davanın reddini savunmuşlardır.Davanın kısmen kabulüne ilişkin karar Dairece “... paydaşlar arasındaki elatmanın önlenilmesi davalarında öncelikle tüm paydaşları bağlayan harici bir taksim sözleşmesi ve özel bir parselasyon planı olup olmadığı veya fiili kullanma biçiminin oluşup oluşmadığı üzerinde özenle durulmalı, varsa çekişmeli yerin kimin kullanımına terk edildiği saptanılmalı, harici veya fiili taksim yoksa uyuşmazlık yukarıda değinildiği gibi, M.K.nun müşterek mülkiyet hükümlerine göre çözümlenmelidir....” gerekçesi ile bozulmuş, mahkemece bozma kararına uyularak yapılan yargılama sonunda tarafların murislerinden kalan tüm taşınmazlarda taksim yaptıkları, davacıya bir kısım taşınmazların bırakıldığı ve davacının dava konusu taşınmazlardaki kullanımının davalılar tarafından engellenmediği gerekçesiyle davanın reddine karar verilmiştir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2020/1542 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588111400)
+
 Davacı, 137 ada 3 parsel sayılı taşınmaz üzerindeki müdahalesinin önlenmesine ve davalının haksız kullanıma başladığı yıldan bugüne kadarki zarar ziyanının karşılanması ile davalının davacının arazisi üzerine yaptığı evin kaldırılmasına karar verilmesini talep etmiştir.
 
 Mahkemece verilen kararda, HMK'nin 119/1 (ğ) maddesi uyarınca davacı vekiline talep sonucu özellikle dava değeri yönünden açıklamak üzere kesin mehil verildiği, ancak talep sonucu açıklanmadığı gerekcesiyle HMK'nin 119/2 maddesi gereği davanın açılmamış sayılmasına karar verilmiştir. Hüküm, davacı tarafından temyiz edilmiştir.
@@ -35,9 +37,13 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının yeri
 
 ## Yargıtay 20. HD 2016/6585 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210073100)
+
 Gölbaşı (Ankara) Sulh Hukuk Mahkemesince ise davanın elatmanın önlenmesi davası olduğu, davacının kira sözleşmesine dayanmadığı, varsayılan kira sözleşmesinin de sahte olduğunu öne sürmesi karşısında HMK'nın 4. maddesinde Sulh Hukuk Mahkemelerinin görevli olduğu sayılan davalar arasında bulunmadığı HMK'nın 2. maddesinde sayılan davalar arasında bulunduğu gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 6. HD 2016/2149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210024300)
 
 Dava, kiracılık sıfatının tespiti ile elatmanın önlenmesi istemlerine ilişkindir.
 
@@ -55,6 +61,8 @@ SONUÇ; Yukarıda (1) nolu bentte açıklanan nedenle ihbar olunan ...’nın te
 
 ## Yargıtay 1. HD 2015/12460 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/122669900)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davacı, kayden maliki olduğu ... ada ... parseldeki .. nolu bağımsız bölümün boşandığı eşi olan davalı tarafından haksız şekilde kullanıldığını ileri sürerek, elatmanın önlenmesine ve 23.09.2012 ile 12.04.2013 tarihleri arasındaki dönem için ecrimisile karar verilmesini istemiştir.
@@ -68,6 +76,8 @@ Hâl böyle olunca; yapılan ihtara rağmen müteakip celseye kadar harç yatır
 Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/13905 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/287764800)
 
 Davacı, kayden maliki bulunduğu dava konusu 29216 ada, 3 parsel sayılı taşınmazı, akaryakıt istasyonu olarak kullanılmak üzere dava dışı ...
 
@@ -95,6 +105,8 @@ Hâl böyle olunca, davada 4721 sayılı Türk Medeni Kanunu'nun 683. ve devamı
 
 ## Yargıtay 8. HD 2014/12569 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98771500)
+
 Davalı B.. B.. vekili öncelikle davacıların parsel sayılı taşınmazın maliki olmadığından dava ehliyetlerinin bulunmadığını, davanın B..
 
 …
@@ -107,6 +119,8 @@ Ayrıca 4721 sayılı TMK'nun 974 ve devamı maddelerinde zilyetliğin korunmas�
 Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazlarının kabulüyle Usul ve Yasa hükümlerine aykırı bulunan Yerel Mahkeme hükmünün 6100 sayılı HMK'nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 428.maddesi uyarınca görev nedeniyle BOZULMASINA …
 
 ## Yargıtay 6. HD 2014/5670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97268900)
 
 Dava, kiracı tarafından açılan zilyetliğe dayalı elatmanın önlenmesi istemine ilişkindir.
 
@@ -124,6 +138,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 
 
 ## Yargıtay 6. HD 2014/3355 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97318900)
+
 Dava, taraflar arasındaki kira sözleşmesinin devam ettiğinden bahisle kiracılık sıfatının tespiti ve müdahalenin men'i istemine ilişkindir.
 
 …
@@ -136,6 +152,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 
 
 ## Yargıtay 6. HD 2013/9290 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550916900)
+
 Davacı şirket 15.01.2013 tarihinde açmış olduğu işbu dava ile, dava konusu edilen taşınmazın kiralanmasını takiben kiralananı akaryakıt istasyonu haline getirdikten sonra davalı şirket ile bayilik sözleşmesi yapıldığını, bayinin ise sözleşmeyi feshettiğini bildirmesine karşın, fuzuli şagil olarak kiralananı kullanmayı sürdürdüğünü, diğer davalı kiraya verenin ise 07.01.2013 tarihli ihtarnamesi ile Rekabet Kurulu kararları gereği kira sözleşmesi geçersiz hale geldiğinden tapu kaydındaki kira şerhinin kaldırılmasını istediğini belirterek, davalı bayinin haksız el atmasının önlenmesini, kiralananın tahliyesi ile üzerinde kurulu istasyonun tüm eklentileriyle birlikte teslimini ve dava tarihi itibariyle kira sözleşmesinin devam ettiğine dair taraflar arasındaki çekişmenin giderilmesini istemiştir.
 
 6100 Sayılı HMK'nun 4 / 1-a maddesi hükmü gereğince, kiralanan taşınmazların İcra ve İflas Kanunu'na göre ilamsız icra yolu ile tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar ile, bu davalara karşı açılan davalar sulh hukuk mahkemesinin görevine girmektedir. Davacı işbu davada her ne kadar, bayilik sözleşmesinin feshedilmesi nedeniyle kiralananda fuzuli şagil haline geldiğini iddia ettiği davalı şirketin el atmasının önlenmesi ile kiralananın tahliye ve teslimi talep etmiş ise de, taraflar arasındaki hukuki ilişkinin temelinde kira sözleşmesi bulunmaktadır. Bunun dışında davacı, kiraya veren malik davalı ile de, kira sözleşmesinin geçerliliği konusundaki çekişmenin giderilmesini talep etmektedir. Her iki istemin kaynağı da kira sözleşmesi olup, uyuşmazlığın kira sözleşmesi hükümleri çerçevesinde çözülmesi gerektiğinden, davaya bakma görevi de yukarıda anılan yasal düzenleme gereği sulh hukuk mahkemesine aittir.
@@ -144,6 +162,8 @@ Bu durumda mahkemece işin esasının incelenerek sonucuna göre bir karar veril
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 428.maddesi uyarınca hükmün BOZULMASINA …
 
 ## İstanbul BAM 35. HD 2022/692 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/735181800)
 
 …
 

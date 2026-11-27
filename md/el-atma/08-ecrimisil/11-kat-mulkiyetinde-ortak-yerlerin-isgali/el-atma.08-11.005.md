@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2016/5084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/229172500)
+
 Davacı vekili dava dilekçesinde, davalının apartmanın yapımı aşamasında apartman ortak alanı olan damda güneş enerjileri için ayrılan yere 6 adet bağımsız bölüm yaptığını, bu kısımlarla beraber, sığınağı "oto yıkamacı" olarak kiraya verdiğini ileri sürerek davalının ortak alana el atmasının önlenmesi, eski hale hale getirilmesi ile haksız el atma nedeniyle 1.000 TL ecrimisil bedelinin davalıdan tahsilini istemiş; mahkemece ortak alana müdahalenin önlenmesi talebi yönünden davanın kabulüne karar verilmiş; ecrimisil istemi yönünden olumlu veya olumsuz bir hüküm kurulmamıştır.
 
 …
@@ -33,6 +35,8 @@ Davacı vekili dava dilekçesinde, davalının apartmanın yapımı aşamasında
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/3534 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211961400)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -51,6 +55,8 @@ Davacı vekilinin, bu yöne değinen temyiz itirazı yerindedir. Kabulü ile yer
 
 ## Yargıtay 1. HD 2016/2551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203366500)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -63,6 +69,8 @@ Davacının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulüyle
 
 ## Yargıtay 1. HD 2016/2239 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214220500)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -72,6 +80,8 @@ Dava, ecrimisil isteğine ilişkindir.
 Davacının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü ile hükmün (6100 Sayılı HMK’nun geçici 3.maddesi yollamasıyla) 1086 Sayılı HUMK’nun 428.maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/2213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214557300)
 
 Davacılar, mirasbırakan babaları ...'dan intikal eden 6161 ada 41 parsel sayılı taşınmazdaki binanın 2. katı ile çatı katını davalı mirasçı kullandığı halde paylarına karşılık herhangi bir bedel ödemediğini, mirasçı oldukları halde taşınmazdan yararlanamadıklarını, keşide ettikleri ihtarname ile intifadan men olgusunun gerçekleştiğini ileri sürerek, ecrimisile karar verilmesini istemişler, karşı davanın da reddini savunmuşlardır.
 
@@ -87,6 +97,8 @@ Anılan bu hususlar karar düzeltme isteği üzerine, yeniden yapılan inceleme 
 
 ## Yargıtay 1. HD 2015/13678 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143490400)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -97,6 +109,8 @@ Davalının temyiz itirazı açıklanan nedenlerle yerindedir. Kabulü ile hükm
 
 ## Yargıtay 18. HD 2015/12575 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/190632700)
+
 Davacı vekili dava dilekçesinde, dava konusu sitede mevcut bulunan spor tesisleri ve idare binası nedeniyle ... Belediye Başkanlığı tarafından tarh edilen ecrimisilin davalının sahibi olduğu bağımsız bölüme düşen payının tahsili için yürütülen icra takibine işlemiş faize ve fer'ilerine yönelik davalının itirazının iptali ile %40 icra inkar tazminatına hükmedilmesini istemiş; mahkemece, ecrimisil ödenen alanın kat mülkiyeti kurulu taşınmaz tapu kaydı kapsamında bulunmadığı ve ecrimsilin de ortak gider olarak nitelendirilemeyeceği gerekçesiyle görevsizlik kararı verilmiştir.
 
 Dosya içerisindeki bilgi ve belgelerin incelenmesinde, sitenin parsel sınırları dışında kalan belediyeye ait alana otopark, tenis kortu, basket sahası, futbol sahası, çocuk oyun alanı ve yönetim binası yapmak suretiyle kullanıldığı ve bu nedenle belediye tarafından ecrimisil tahakkuk ettirildiği ve 30.05.2010 tarihli kat malikleri genel kurulunda yıllık ecrimisil ücretinin yıl içerisinde bir defada alınmasına karar verilmiş olduğu anlaşılmıştır. Davalı sözü edilen kat malikleri kurulu kararının iptali yönünde herhangi bir dava açmamış olduğundan kat malikleri kurulunun bu yöndeki kararı iptal edilinceye kadar geçerli kararlardandır. Buna göre kat mülkiyeti kurulu bulunan taşınmazlarda kat malikleri kurulunca belirlenen bedelin tahsili için yürütülen icra takibine itirazın iptali davası Kat Mülkiyeti Kanunu'ndan kaynaklanmakta olup Kat Mülkiyeti Yasasının Ek-1. maddesi hükmüne göre, bu yasadan doğan her türlü anlaşmazlığın değerine bakılmaksızın sulh hukuk mahkemesinde çözümlenmesi gerekir.
@@ -105,6 +119,8 @@ Yasanın bu buyurucu hükmü gözönünde bulundurularak davaya mahkemece bakıl
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/11405 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/401553500)
 
 Dava, anataşınmazda kat maliki olmayan müteahhidin ortak alanlara müdahalede bulunup kiraya verilmesi nedeniyle el atmanın önlenmesi, projeye uygun eski hale getirilmesi ve ecrimisil istemine ilişkindir.
 
@@ -118,6 +134,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 20. HD 2015/10464 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/397491400)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -125,6 +143,8 @@ Dava, ecrimisil istemine ilişkindir.
 Ecrimisil davasının Kat Mülkiyeti Kanununun uygulanmasından kaynaklanmadığı, anılan KMK'nın 1. maddesinin bu istem yönünden uygulama olanağı bulunmadığından, davanın genel hükümlere göre sonuçlandırılması gerekir. O halde, davanın açıldığı tarihte yürürlükte bulunan 1086 sayılı HUMK'ya göre, görevli mahkeme dava değerine göre belirlenecektir. Dava dilekçesinde dava değeri 10.500.-TL olarak belirtildiğinden, dava değerine göre uyuşmazlığın asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 1. HD 2015/9629 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138630000)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -138,6 +158,8 @@ Davalı ...'in temyiz itirazları anılan nedenle yerindedir. Kabulüyle, hükm�
 
 ## Yargıtay 1. HD 2015/9562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/122431400)
+
 Davacılar, ortak mirasbırakan babaları M..Z..K.. adına kayıtlı Sarıyerde bulunan ..... ada 41 parsel sayılı taşınmazdaki binanın 2. katı ile çatı katının davalı kardeşleri tarafından kullanıldığı halde yasal miras paylarına karşılık herhangi bir bedel ödemediğini, mirasçı olmalarına rağmen taşınmazdan yararlanamadıklarını, keşide ettikleri ihtarname ile itifadan men olgusunun gerçekleştiğini ileri sürerek, ecrimisile karar verilmesini istemişlerdir.
 
 …
@@ -148,6 +170,8 @@ Tarafların temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nede
 
 ## Yargıtay 20. HD 2015/8875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/164691500)
+
 634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesinde, bu Kanunun uygulanmasından doğacak “her türlü anlaşmazlığın” sulh hukuk mahkemesinde çözümleneceği hükme bağlanmıştır. Bu düzenleme emredici olduğu gibi, genel usul hükümlerine istisna teşkil eden özel bir kanun hükmüdür. Ecrimisil talebi yönünden davanın kabulüne karar verilebilmesi için, davalının eyleminin, Kat Mülkiyeti Kanununa göre ortak alanı haksız işgal sayılıp sayılmadığının değerlendirilmesi gerekmektedir. Bu yönüyle dava, kaynağı itibariyle, elatmanın önlenmesi davasından farklı bir hukuki niteliğe sahip değildir.
 
 …
@@ -156,6 +180,8 @@ Somut olayda davacılar, taşınmaz üzerinde kat mülkiyeti kurulduğunu ve dav
 
 ## Yargıtay 20. HD 2015/8696 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/397040400)
+
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -163,6 +189,8 @@ Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesinde, bu Kanunun uygulanmasından doğacak “her türlü anlaşmazlığın” sulh hukuk mahkemesinde çözümleneceği hükme bağlanmıştır. Bu düzenleme emredici olduğu gibi, genel usul hükümlerine istisna teşkil eden özel bir yasa hükmüdür. Somut olayda, davacının iddiası karşısında mahkemenin, hem elatmanın önlenmesi, hem de ecrimisil istemi yönünden davalının eyleminin, Kat Mülkiyeti Kanununa göre ortak alan sayılan taşınmaz bölümlerini haksız işgal sayılıp sayılamayacağını değerlendirilmesi gerekmektedir. Bu haliyle dava, her iki istem yönünden de, Kat Mülkiyeti Kanunundan kaynaklanmakta olup 634 sayılı Kanunun Ek-1. maddesi gereğince dava, sulh hukuk mahkemesince incelenip sonuçlandırılmalıdır.
 
 ## Yargıtay 1. HD 2015/7877 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141756800)
 
 Dava; bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup mahkemece hüküme uyulan bozma ilamı uyarnınca elatmanın önlenmesi bakımından karar verilmesine yer olmadığına,ecrimisil isteğinin ise reddine karar verilmiş, hüküm davacı tarafından temyiz edilmiştir.
 
@@ -176,6 +204,8 @@ Davacının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü il
 
 ## Yargıtay 20. HD 2015/6342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/196532000)
+
 Dava, ecrimisil istemine ilişkindir.
 
 …
@@ -184,11 +214,15 @@ Somut olayda davacı, aynı taşınmazda davalı ile malik oldukları binanın d
 
 ## Yargıtay 18. HD 2015/5950 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/189389400)
+
 Ecrimisil davaları malvarlığına ilişkin olup Kat Mülkiyeti Kanunu hükümlerinden kaynaklanmamaktadır. 01.11.2011 tarihinde yürürlüğe giren HMK'nın 2.maddesine göre malvarlığına ilişkin davalarda miktara bakılmaksızın asliye hukuk mahkemeleri görevlidir. Bu durumda genel hükümler çerçevesinde bakılarak değerlendirme yapılması için, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 4. maddesi gereğince dosyanın tefriki ile görevsizlik kararı verilerek asliye hukuk mahkemesine gönderilmesi gerektiğinin düşünülmemesi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/3925 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120882900)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -202,6 +236,8 @@ Davalıların bu yöne ilişkin temyiz itirazlarının kabulü ile hükmün yuka
 
 ## Yargıtay 1. HD 2015/3523 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119935000)
+
 Dava, paydaşlar arasında ecrimisil isteğine ilişkindir.
 
 …
@@ -213,6 +249,8 @@ Hemen belirtmek gerekir ki; taraflar adına paylı şekilde kayıtlı olan çeki
 Davalı vekilinin bu yöne değinen temyiz itirazı yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/2997 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/131838700)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -226,6 +264,8 @@ Davalı vekilinin bu yöne değinen temyiz itirazı yerindedir. Kabulü ile hük
 
 ## Yargıtay 18. HD 2015/1214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/185378300)
+
 Davacı vekili dava dilekçesinde, davalının yönetim planına aykırı olarak sitenin ortak yerlerine müdahale ile eklentiler yaptığını ileri sürerek bu haksız müdahalenin önlenmesini, ortak yere yapılan sabit direğin ve bacanın kaldırılarak eski hale getirilmesini, yönetimce sökülen bazı eklentilerin sökme maliyeti olan 500 TL'nin ve izinsiz kullanılan ortak yerlerle ilgili şimdilik 1.000 TL'lik ecrimisilin yasal faizi ile birlikte davalıdan tahsilini istemiş, mahkemece davanın reddine karar verilmiştir.
 
 …
@@ -236,6 +276,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 1. HD 2015/479 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119022500)
+
 Dava, ecrimisil isteğine ilişkin olup, mahkemece, davanın reddine karar verilmiştir.
 
 …
@@ -245,6 +287,8 @@ Hal böyle olunca; yukarıda açıklanan ilke ve olgular doğrultusunda dava kon
 Davacının bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/20065 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/335054200)
 
 Dava, ecrimisil istemine ilişkindir.
 
@@ -259,6 +303,8 @@ Hemen belirtilmelidir ki, 393 ada 21 parselde bulunan dava konusu 1 ve 6 nolu ba
 Davacı ve davalı ...'ın temyiz itirazları yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/18824 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84366600)
 
 Dava, kat mülkiyeti kurulu bağımsız bölüme elatmanın önlenmesi, ecrimisil, taşınmazın eski hâle getirilmesi, olmazsa eski hâle getirme bedelinin tahsili isteklerine ilişkindir.
 
@@ -276,6 +322,8 @@ Davalının, temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan ned
 
 ## Yargıtay 1. HD 2014/17010 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84758500)
+
 Bununla birlikte, Türk Medeni Kanunu'nun 6. ve Hukuk Muhakemeleri Kanunu'nun 190. maddeleri gereğince davacının, dava konusu 3 nolu bağımsız bölümün davalılar tarafından kiraya verilmek suretiyle kullanıldığını da kanıtlaması gerektiği ve dava tarihi itibariyle taşınmazın boş olduğu da keşfen saptandığı halde bu konuda hükme yeterli bir araştırma yapılmamış, ecrimisil talep edilen dönemde taşınmazın kullanılıp kullanılmadığı şayet kullanılmışsa ne şekilde kullanıldığı tam olarak saptanmamıştır.
 
 …
@@ -283,6 +331,8 @@ Bununla birlikte, Türk Medeni Kanunu'nun 6. ve Hukuk Muhakemeleri Kanunu'nun 19
 Davalı tarafın bu yöne değinen temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/15699 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84361200)
 
 Dava, kat mülkiyeti kurulu apartmanın ortak yerine elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -296,6 +346,8 @@ Davacının, temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan ned
 
 ## Yargıtay 1. HD 2014/14548 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84509100)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -308,6 +360,8 @@ Davalı vekilinin bu hususlara değinen temyiz itirazları yerindedir. Kabulü i
 
 ## Yargıtay 1. HD 2014/14156 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84367800)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -319,6 +373,8 @@ Hemen belirtilmelidir ki; ecrimisil isteğine konu 1 parsel sayılı taşınmazd
 Davalı vekilinin bu yöne değinen temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/14154 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84366300)
 
 Dava, ecrimisil isteğine ilişkindir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 10. D. 2016/13628 E., 2020/2305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/624913200)
+
 Öte yandan 634 sayılı Kanun'un sistematiğine bakıldığında öncelikle Ek 1. maddesinde, bu Kanunun uygulanmasından doğacak her türlü anlaşmazlığın sulh mahkemelerinde çözümleneceği hususu hüküm altına alındıktan sonra, Ek 2. maddesindeki düzenlemenin yapıldığı, bu durumda Ek 1. madde ile getirilen "Bu Kanunun uygulanmasından doğacak her türlü anlaşmazlığın sulh mahkemelerinde çözümleneceği'' hükmünün bu maddeden önce üst sıralarda düzenlenen hükümlerden kaynaklanan uyuşmazlıklarda uygulanabileceği açık olup, sistematik olarak daha sonra düzenlenmiş olan Ek 2. maddeden kaynaklı uyuşmazlıklarda Ek 1. madde hükmüne atıf yapılması ve Ek 2'deki hüküm ile ilgili olarak doğabilecek uyuşmazlıkların da sulh hukuk mahkemesinde çözümlenebileceği şeklindeki temyize konu kararın gerekçesi Kanunun sistematiği ile de bağdaşmamaktadır.
 
 Bu itibarla; apartman sakinlerinin müşterek kullanma alanı olan depoyu izinsiz kullanan davacının, söz konusu taşınmazdan 634 sayılı Kat Mülkiyeti Kanunu'nun Ek-2. maddesi kapsamında tahliye edilmesine ilişkin olarak tesis edilen dava konusu işlemin iptali istemiyle açılan davanın görüm ve çözümünün idari yargının görevinde bulunduğu açık olduğundan, uyuşmazlığın esasına girilerek bir karar verilmesi gerekmekte iken davanın görev yönünden reddi yolunda verilen temyize konu İdare Mahkemesi kararında hukuki isabet bulunmamaktadır.
@@ -48,6 +50,8 @@ Davalı vekili cevap dilekçesinde özetle; davanın sonucunu etkileyecek olmas�
 
 ## Yargıtay 5. HD 2025/7992 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198797300)
+
 Davalılar vekili cevap dilekçesinde özetle; davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -65,6 +69,8 @@ Dosya kapsamından 3 79... parselde kat mülkiyetinin kurulu olduğu, toplam 32 
 İlk Derece Mahkemesinin kararının sair hususlar incelenmeksizin BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/5591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154414600)
 
 Davacı vekili dava dilekçesinde; Muğla ili, ... ilçesi, ... Köyü 1227 ada 14 parselde bulunan ana gayrimenkulde 14 nolu bağımsız bölümün maliki olduğunu, davalıların ise 13 ve 15 nolu bağımsız bölümlerin malikleri olduklarını, davalıların 15 nolu bağımsız bölümde balkonu büyütmek suretiyle bağımsız bölümünün kapalı alanını büyüttüğünü ve pergole inşa ettiğini, bağımsız bölümünün etrafını taşla çevreleyip korkuluk yaparak ortak alana müdahalede bulunduğunu, 13 nolu bağımsız bölümde ise ortak alan olan bahçeye istinat duvarı örmek suretiyle kendisine özel bahçe inşa ettiğini beyanla, davalıların 634 sayılı Kat Mülkiyeti Kanunu'na (634 sayılı Kanun) ve ana gayrimenkulün mimari projesine aykırı hareket ettiğini belirterek yapılan müdahalelerin önlenmesine ve eski hale getirilmesine karar verilmesini talep etmiştir.
 
@@ -84,6 +90,8 @@ Davacı ...'in kendi adına asaleten ... adına vekâleten temyiz itirazlarını
 
 ## Yargıtay 8. HD 2025/630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145633900)
+
 İlk Derece Mahkemesince yargılama sırasında dava konusu yerde orman kadastro çalışmalarının tamamlanarak 30.12.2009 ile 28.01.2010 tarihleri arasında askı ilanının yapıldığının bildirildiği gerekçesiyle, dosyanın mülkiyete ve tapunun iptaline ilişkin talep yönünden tefriki ile resen Kadastro Mahkemesine devrine, men'i müdahale talebine ilişkin kısmın ise ayrı bir esasa kayıt edilmesine karar verilmiştir. Kararın davacı ... İdaresi tarafından temyiz edilmesi üzerine Yargıtay (Kapatılan) 20.
 Hukuk Dairesinin 25.04.2011 tarihli ve 2011/5737 Esas, 2011/5003 Karar sayılı ilamı ile çekişmeli taşınmazın bulunduğu yerde 3402 sayılı Kadastro Kanunu'nun (3402 sayılı Kanun) 4 üncü maddesi hükmüne göre orman kadastrosu yapıldığı, çekişmeli parselin orman alanı içinde bırakıldığı, kural olarak bir taşınmaz hakkında tespit gününden önce genel mahkemede görülmekte olan davaya konu taşınmaz hakkında kadastro tutanağının düzenlendiği günde genel mahkemenin görevinin kendiliğinden sona ereceği, 3402 sayılı Kanun'un 5 ve 27 nci maddeleri gereğince kadastro tespitinden önce genel mahkemelere açılan dosya konusu taşınmazların geometrik ve hukuki durumlarını belirlemek görevinin kadastro mahkemesine ait olduğu, bu nedenle mahkemenin görevsizliğine ve dosyanın kül halinde Kadastro Mahkemesine gönderilmesine karar verilmesi gerekirken elatmanın önlenmesine ilişkin dava kısmının Asliye Hukuk Mahkemesinin görev alanına girdiğinden bahisle Mahkemenin yeni bir esasına kayıt edilmesine karar verilmesinin usul ve kanuna aykırı bulunduğu belirtilerek, hükmün bozulmasına karar verilmiştir.
 İlk Derece Mahkemesince bozma kararı sonrasında, daha önce tefrikine karar verilen meni müdahale talebine ilişkin dosya ile eldeki dosyanın birleştirilmesine karar verilerek, Eynesil Asliye Hukuk Mahkemesinin 2010/77 Esas, 2012/18 Karar sayılı kararıyla; davaya konu 101 ada 1 parsel sayılı taşınmaz hakkında kadastro tutanağı düzenlendiğinden bahisle Mahkemenin görevsizliğine karar verilmiş, kararın kesinleşmesi üzerine dosya Eynesil Adliyesinin kapatılması nedeniyle Görele Kadastro Mahkemesinin 2012/60 Esasına kaydedilmiş ve bu dosya da Görele Kadastro Mahkemesinin 2012/30 Esas sayılı dosyası ile birleştirilmiştir.
@@ -93,6 +101,8 @@ Hukuk Dairesinin 25.04.2011 tarihli ve 2011/5737 Esas, 2011/5003 Karar sayılı 
 Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 5. HD 2024/10521 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122064000)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -114,6 +124,8 @@ Kamu düzenine ilişkin olarak yapılan değerlendirme sonucunda temyiz olunan M
 
 ## Yargıtay 5. HD 2023/7772 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/945310600)
+
 Davacı vekili dava dilekçesinde özetle; davalının kat maliki olduğunu, sitenin ortak alanlarından olan depoları eşyalarını bırakmak suretiyle kullandığını, bu durumun sona erdirmesi için ihtarname keşide edildiğini, buna rağmen eşyalarını almadığını, davalının ortak alana yaptığı müdahalenin önlenmesine karar verilmesini talep etmiştir.
 
 …
@@ -125,6 +137,8 @@ Tüm bu nedenlerle toplu yapı koşullarını sağlamayan birden fazla parsel ü
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2021/14184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/711372100)
 
 Mahkemece davanın kabulü ile, ... İli, ...
 
@@ -138,6 +152,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2021/5055 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686084600)
+
 Mahkemece asıl ve birleştirilen davanın reddine karar verilmiş, davacılar vekili istinaf başvurusundan bulunmuştur. İstanbul Bölge Adliye Mahkemesi 36.
 
 …
@@ -149,6 +165,8 @@ Mahkemece asıl ve birleştirilen davanın reddine karar verilmiş, davacılar v
 Davacılar vekilinin temyiz itirazlarının kabulü ile İstanbul Bölge Adliye Mahkemesi 36. Hukuk Dairesinin 17/11/2020 tarih ve 2018/1321 E- 2020/1852 K. sayılı kararının KALDIRILMASINA …
 
 ## Yargıtay 8. HD 2021/87 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642075500)
 
 Mahkemece, davanın reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
 
@@ -166,6 +184,8 @@ SONUÇ: Temyiz edilen hükmün yukarıda açıklanan nedenlerle 6100 sayılı HM
 
 ## Yargıtay 5. HD 2020/9153 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652460400)
+
 Mahkemece “1-a)Her ne kadar davacı-karşı davalının (...), davalı-karşı davacıya (İsmail ...) meni müdahale, eski hale getirme, çatının tadilatını talep etmiş ise de; ... 1.
 
 …
@@ -177,6 +197,8 @@ Ayrıca her iki dava açısından talep edilen ecrimisil ve manevi tazminat tale
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/8373 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636374600)
 
 Davacı vekili, müvekkilinin dava dışı ...
 
@@ -193,6 +215,8 @@ Bilindiği üzere, bir uyuşmazlığın çözümünde hangi mahkemenin görevli 
 SONUÇ: Davacı vekilinin temyiz itirazı açıklanan nedenden ötürü yerinde olduğundan kabulüyle usul ve kanuna aykırı bulunan hükmün, (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/5343 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610196300)
 
 Davacı vekili, ... İli, ... İlçesi 2034 ada 2 parselde kayıtlı ...
 
@@ -214,6 +238,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; usul ve kanuna aykırı bulunan hükm�
 
 ## Yargıtay 8. HD 2020/3670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/595665500)
+
 Davacı vekili dava dilekçesinde, dava konusu 1879 parsel sayılı taşınmaz üzerinde bulunan 24 m2 alanlı dükkan niteliğindeki taşınmazda vekil edeni ile davalılardan ...’un 1/2’şer orada paylı malik olduklarını, davalılardan ...’un dükkan niteliğindeki taşınmazı 20 yıldır diğer davalı ...’a kiraya verip kira bedelinin tamamını kendisinin aldığını, yapılan kira sözleşmelerinde müvekkilinin taraf olmadığını, bu nedenle davalılardan ...’un taşınmazda fuzuli işgalci olduğunu açıklayarak davalılardan ...’un taşınmazdan tahliyesini ve 20 yıllık kira bedeli tutarı olarak 10.800,00 TL’nin davalılardan müştereken ve müteselsilen tahsilini talep etmiştir.
 
 …
@@ -227,6 +253,8 @@ Yukarıda ayrıntılı biçimde yapılan açıklamalar çervesinde somut olay de
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazları yerinde görüldüğünden kabulü ile usul ve kanuna aykırı bulunan hükmün 6100 Sayılı HMK’nin Geçici 3. maddesi yollamasıyla HUMK’un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/3669 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596007400)
 
 Davacılar vekili, vekil edenlerinin tapuda hissedar oldukları dava konusu 281 parsel sayılı taşınmazda müvekkillerine ait hisselerin davalılar tarafından haksız bir biçimde işgal edilerek kullanıldığını, davalılara taşınmazdaki bu haksız işgal suretiyle kullanıma son vermeleri hususunda Antalya 7. Noterliği’nden 29.01.2014 tarihli ve 2742 yevmiye numaralı ihtarnamenin gönderilmesine rağmen davalıların haksız işgallerini ve kullanımlarını sürdürdüklerini açıklayarak davalıların, anılan taşınmazda vekil edenlerine ait paylara vaki haksız el atmalarının önlenmesini ve fazlaya ilişkin haklar saklı kalmak üzere davalıların 2012 yılından beri müvekkillerinin paylarını haksız biçimde kullanmaları nedeniyle 2012 yılından başlayarak her bir dönem sonundan itibaren işleyecek faiziyle birlikte 5.000,00 TL. ecrimisil bedelinin davalılardan tahsilini talep etmiştir.
 
@@ -243,6 +271,8 @@ SONUÇ: Yukarıda belirtilen nedenlerle davacılar vekilinin temyiz itirazları 
 
 ## Yargıtay 20. HD 2020/590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573866700)
+
 Mahkemece yapılan yargılama sonucunda; mahkemenin 2014/432 - 1380 E.K. sayılı kararı ile davanın reddine karar verilmiş, kararın temyizi üzerine Yargıtay 18. Hukuk Dairesinin 09/05/2016 tarih ve 2016/2090 - 7492 E.K. sayılı kararı ile "Dava konusu sitenin birden fazla …
 
 …
@@ -254,6 +284,8 @@ Yapılmasına İlişkin 5711 sayılı Kanunun 22. maddesi ile Kat Mülkiyeti Kan
 Dosyadaki yazılara, kararın bozmaya uygun olmasına ve gereği yerine getirilerek, yazılı olduğu şekilde mahkemenin görevsizliğine karar verilmesinde bir isabetsizlik bulunmamasına göre, yerinde görülmeyen bütün temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 8. HD 2019/9444 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648859600)
 
 Davacılar vekili; müvekkillerinin maliki olduğu taşınmazın ortak kullanım alanı olan terasında davalıya ait baz istasyonu bulunduğunu, baz istasyonunun kurulumu için bütün kat maliklerinin muvafakatı gerekirken, davalının yalnızca eski maliklerden ... ile yıllık 1000 dolar karşılığında sözleşme yaptığını, kendilerine herhangi bir ödeme yapılmadığını, davalıya 13.11.2012 tarihinde bu hususta ihtar gönderdiklerini ancak sonuçsuz kaldığını belirterek toplam 39.203 TL ecrimisil bedelinin yasal faizi ile birlikte davalıdan tahsilini talep etmiştir.
 
@@ -271,6 +303,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin karar düzeltme taleb
 
 ## Yargıtay 20. HD 2019/6233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/544107300)
+
 Dava müdahalenin önlenmesi ve eski hale getirme ve ecrimisil istemine ilişkindir.
 
 Dosyaya getirtilen tapu kaydından, dava konusu anayapının tek parsel üzerinde bulunup kat irtifakı kurulduğu anlaşılmaktadır. 634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesinde, bu Kanunun uygulanmasından doğacak her türlü anlaşmazlığın sulh hukuk mahkemesinde çözümleneceği hükme bağlanmıştır. Ecrimisil davasının Kat Mülkiyeti Kanununun uygulanmasından kaynaklanmadığı, anılan Kanun maddesinin bu istem yönünden uygulama imkanı bulunmadığı, uyuşmazlığın değeri dikkate alınarak genel hükümlere göre sonuçlandırılması gerektiğinden mahkemece kat mülkiyetinden kaynaklanmayan ecrimisil istemi konusunda davanın tefrik edilip görevsizlik kararı verilerek dosyasının görevli ve yetkili asliye hukuk mahkemesine gönderilmesi yerine davanın esası hakkında hüküm kurulmuş olması, …
@@ -280,6 +314,8 @@ Dosyaya getirtilen tapu kaydından, dava konusu anayapının tek parsel üzerind
 SONUÇ: Yukarıda açıklanan nedenlerle; davalı ... vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2019/3494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513285600)
 
 Davacılar vekili; müvekkillerinden ...'.....1 parselde kain, 16 numaralı, ...'in ise 15 numaralı bağımsız bölümün maliki olduklarını, kat irtifaklarının kurulmasından ve anataşınmazın davalı kooperatif tarafından siteye dönüştürülmesinden sonra, davacılara arsa payına tekabül edecek şekilde teslim edilen bağımsız bölüm bahçelerindeki alana perde beton yapılıp ve yol oluşturulmak suretiyle yönetim tarafından müdahale ettiğini, planda olmayan bir yolun fiili durum yaratılarak yol yapılmak suretiyle oldu bittiye getirildiğini, davacıların bahçesinden geçirilmek istenen yol ve perde betonun vaziyet planında yer almadığını, davacılar tarafından verilmiş bir muvafakatın da olmadığını beyan ederek; davalının 15 ve 16 numaralı bağımsız bölümlerin kullanım alanlarına ve bahçe kısmına yönelik müdahalesinin men'i ile müdahaleye esas üretimlerin kal'ine karar verilmesini talep etmiştir.
 
@@ -295,6 +331,8 @@ SONUÇ: Yukarıda birinci, ikinci ve üçüncü bentlerde açıklanan nedenlerle
 
 ## Yargıtay 20. HD 2019/3021 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512907000)
+
 Mahkemece mahkemenin görevsizliği nedeni ile dava dilekçesinin reddine karar verilmiş, hüküm davalı vekili tarafından temyiz edilmiştir.
 
 Dava müdahalenin men'i istemine ilişkindir.
@@ -302,6 +340,8 @@ Dava müdahalenin men'i istemine ilişkindir.
 634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesinde, bu Kanunun uygulanmasından doğacak her türlü anlaşmazlığın sulh hukuk mahkemesinde çözümleneceği hükme bağlanmıştır. Davanın tek parsel üzerinde kurulu, kat mülkiyetli anataşınmazda kat mülkiyeti kanunundan kaynaklı müdahalenin men'i ve hakimin müdahalesi isteminin olduğunun anlaşılması ve uyuşmazlığın sulh hukuk mahkemesinde çözümü gerektiğine yönelik görevsizlik kararı verilmesi usul ve kanuna uygun olduğundan yerel mahkeme kararının ONANMASINA, aşağıda yazılı onama harcının davalıya yükletilmesine 02/05/2019 günü oy birliğiyle karar verildi.
 
 ## Yargıtay 20. HD 2019/1639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492569100)
 
 Mahkemece açılan davanın kabulü ile ... 1.
 
@@ -316,6 +356,8 @@ Hukukî uyuşmazlıklarda asliye hukuk mahkemelerinin görevi asıl, sulh hukuk 
 SONUÇ: Yukarıda açıklanan nedenlerle; davalı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2019/321 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478495300)
 
 Dava, kat mülkiyetine tabi taşınmazda ortak yere elatmadan kaynaklanan ecrimisil istemine ilişkindir.
 

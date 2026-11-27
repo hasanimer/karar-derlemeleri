@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2017/8045 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385874400)
+
 Davacılar vekili, dava dilekçesinde sınırlarını bildirdiği, ... ilçesi, ... mahallesinde bulunan yaklaşık 81.000 m2 yüzölçümündeki taşınmazın tapuda kayıtlı olmadığını, kazandırıcı zamanaşımı zilyetliği yoluyla taşınmaz edinme koşullarının müvekkilleri yararına oluştuğunu iddia ederek, Medenî Kanunun 713. maddesi hükmüne göre müvekkilleri adına tescilini istemiştir. Davalı Hazine ise taşınmazın Hazine adına tesciline karar verilmesini talep etmiştir.
 
 …
@@ -39,6 +41,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; dahili davalı ... ve davalı Hazine v
 
 ## Yargıtay 1. HD 2017/3181 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/349444900)
+
 Dava paydaşlar arası ecrimisil isteğine ilişkindir.
 
 …
@@ -48,6 +52,8 @@ Hal böyle olunca, uzman bilirkişi heyeti ile birlikte yeniden keşif yapılara
 Davalı vekilinin bu yöne ilişkin temyiz itirazları yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2016/11228 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208079200)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -65,6 +71,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan, hükmün, açık
 
 ## Yargıtay 5. HD 2016/10518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208007100)
+
 Dava, kamulaştırmasız el atılan taşınmazlar bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -76,6 +84,8 @@ Ecrimisilin dava tarihinden geriye doğru en fazla beş yıllık süre için tal
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan, hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2016/7197 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/176725000)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -89,6 +99,8 @@ Davalı idare vekilinin temyiz itirazları doğrultusunda hükmün açıklanan n
 
 ## Yargıtay 5. HD 2016/5670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/168089800)
+
 Hükme esasa alınan bilirkişi kurulu raporu ile dosyada bulunan tüm kanıt ve belgelerden, dava konusu edilen 1681 parselin toplam 70.872 metrekarelik kısmına yol yapılarak fiilen el atıldığı 4.177 metrekarelik kısmının ise eski yol ile yeni yol arasında kalması nedeniyle kullanılamaz hale geldiği, bu kısımların 18.477 metrekarelik bölümünün sulu tarım arazisi, 56.572 metrekarelik kısımının ise kuru tarım arazisi niteliğinde olduğu anlaşılmış olup, mahkemece fiilen el atılan ve el atma haricinde olmasına rağmen tarım arazisi olarak kullanılma imkanı ortadan kalkan bu alanlara göre tazminat ve ecrimisil hesabı yapılması gerekirken, hükme esas alınan 04.05.2012 tarihli bilirkişi kurulu ek raporunda taşınmazın bu alanlar haricinde (krokide gösterilmeyen) 25.120 metrekarelik sulu, 58618 metrekarelik kuru tarım arazisi vasfındaki bölümlerine de 2008 yılında yapılan duble yol yapımı nedeniyle fiilen el atıldığından bahisle toplam 154.610 metrekarelik kısımına yol yapılıp, 4.177 metrekarelik kısımının da işe yaramaz hale geldiğini kabul ederek hesaplama yapan rapor uyarınca fazlaya hükmedildiği, …
 
 Hükme esas alınan bilirkişi kurulu raporunda ecrimisil hesabı yapılırken, dava tarihinden geriye doğru beş yıllık süre için her yılın net geliri esas alınarak hesaplama yapılması gerekirken, 2007 yılı için hesaplanan net gelirin beşle çarpılması suretiyle hesaplama yapılmak suretiyle ecrimisil bedelinin hatalı olarak tespit edildiği, …
@@ -98,6 +110,8 @@ Hükme esas alınan bilirkişi kurulu raporunda ecrimisil hesabı yapılırken, 
 Bu kez yapılan incelemede anlaşılmakla, davalı idare vekilinin karar düzeltme talebinin kabulüne, maddi yanılgıya dayalı Yargıtay kararlarının taraflar lehine usuli kazanılmış hak oluşturmayacağı da gözetilerek Dairemizin 06.10.2015 tarih ve 2015/11778- 16304 sayılı onama ilamının kaldırılmasına …
 
 ## Yargıtay 18. HD 2016/3989 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/248194000)
 
 Arsa niteliğindeki bir taşınmaz için ecrimisil bedeli hesaplanırken taşınmazın bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne şekilde kiralandıklarının taraflardan delilleri sorulmak suretiyle tespit edilip, emsal kira sözleşmeleri ibraz ettirilerek emsal karşılaştırması yapılmak suretiyle bedel tespit edilmesi gerekir. Hükme esas alınan bilirkişi raporunda ecrimisil yönünden herhangi bir emsal incelemesi yapılmadan taşınmazın zemin yapısının taşlı ve kıraç olması nedeniyle tarım arazisi olarak kullanılmaya elverişli olmadığı kanaatıyla taşınmazın emlak vergisine esas m² değerinin tarımsal olmayan amaçlarla yapılan kiralamalarda %2 tutarındaki bedel üzerinden pazarlık usulü ile kiralanabileceği belirtilerek buna göre yapılan hesaplama üzerinden ecrimisil tespit edilmesi geçerli değildir.
 Bu durumda, dava konusu taşınmazın niteliği belirlenerek, arazi ise net gelirine göre, arsa ise dava konusu taşınmazın bulunduğu mevkideki diğer arsaların kiraya verilip verilmedikleri, veriliyor ise ne şekilde ve nasıl kiralandıkları taraflardan delilleri sorulmak, varsa taraflardan emsal kira sözleşmeleri ibrazı istenerek taşınmazla benzer nitelikte kiraya verilebilecek uygun bir emsal esas alınmak suretiyle değerlendirme yapılması için bilirkişi kurulundan ek rapor alınıp sonucuna göre karar verilmesi gerekirken eksik inceleme ile hüküm kurulması, …
@@ -110,6 +124,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2016/790 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/227585600)
+
 Dava konusu taşınmaz arazi niteliğinde olduğundan, ecrimisil talep edilen her dönem için o yörede ekimi yapılabilecek mutad ürünler esas alınıp, gıda tarım ve hayvancılık ilçe müdürlüğünden ayrıntılı veriler getirtilip her yıl için ayrı ayrı bulunacak net gelire göre ecrimisilin hesaplanması gerekirken, talep edilen dönemler için veri listeleri getirtilmeden hesap yapan bilirkişi raporuna göre karar verilmesi, …
 
 …
@@ -118,6 +134,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/14969 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/195973500)
+
 Dava konusu taşınmaz arazi niteliğinde olduğundan, ecimisil talep edilen her dönem için o yörede ekimi yapılabilecek mutad ürünler esas alınıp, ilçe tarım müdürlüğünden ayrıntılı veriler getirtilip her yıl için ayrı ayrı bulunacak net gelire göre ecrimisil hesabı gerekirken, dosyaya her hangi bir veri listesi getirtilmeden ve sadece 2012 yılı için ecrimisil hesaplaması ile geriye doğru endeks uygulamak suretiyle hesap yapan bilirkişi raporuna göre karar verilmesi, …
 
 …
@@ -125,6 +143,8 @@ Dava konusu taşınmaz arazi niteliğinde olduğundan, ecimisil talep edilen her
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2015/10796 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142314200)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -140,6 +160,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 18. HD 2015/10555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402330600)
+
 Dava konusu taşınmaza fiilen el atılması sonucu bu taşınmazı kullanamayan malikler taşınmazın niteliğine göre mahrum kaldıkları ürün gelir kaybı veya kira bedelini ecrimisil olarak el atan idareden isteyebilirler. Taşınmaza fiilen el atan idarenin iyiniyetli veya kötüniyetli olması sonucu değiştirmez. Buna göre taşınmazın niteliği belirlenip arazi ise gelir metodu esas alınarak yıllık net geliri üzerinden ecrimisil bedeli belirlenmesi ve o yıl sonundan itibaren bedele yasal faize hükmedilmesi gerekirken, mahkemece yörede, dekara ecrimisil bedelinin 120 TL olduğu belirtilerek ecrimisil belirlenmiş olması, …
 
 …
@@ -147,6 +169,8 @@ Dava konusu taşınmaza fiilen el atılması sonucu bu taşınmazı kullanamayan
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/7206 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140358100)
 
 Dava, ecrimisil ve tazminat isteklerine ilişkindir.
 
@@ -160,6 +184,8 @@ Davacılar vekili ile davalılar takipçisinin bu yönlere değinen temyiz itira
 
 ## Yargıtay 1. HD 2015/7205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139734800)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi,eski hale getirme,eski hale getirme bedelinin tahsili ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -172,6 +198,8 @@ Davalı Yusuf vekilinin bu yöne değinen temyiz itirazı yerindedir.Kabulü ile
 
 ## Yargıtay 18. HD 2015/5309 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/187315100)
+
 Dava konusu taşınmaz arazi niteliğinde olduğuna göre ecimisil talep edilen her dönem için o yörede ekimi yapılabilecek mutad ürünler esas alınarak bulunacak net gelire göre her yıl için ayrı ayrı 5 yıllık ecrimisil hesabı gerekirken sadece 2008 yılı için ecrimisil hesaplaması yapan bilirkişi raporuna göre karar verilmesi, …
 
 …
@@ -179,6 +207,8 @@ Dava konusu taşınmaz arazi niteliğinde olduğuna göre ecimisil talep edilen 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/2667 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/130159100)
 
 Dava; ecrimisil isteğine ilişkindir.
 
@@ -190,6 +220,8 @@ Davacı ve davalıların, temyiz itirazları yerindedir. Kabulüyle, hükmün a�
 
 ## Yargıtay 5. HD 2015/1492 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/144299300)
+
 Mahkemece davanın kabulüne karar verilmiş, hüküm, davalı idare vekilince temyiz edilmiştir.
 
 Arazi niteliğindeki taşınmazların olduğu gibi kullanılması halinde getireceği net gelirine göre zemine; resmi birim fiyatları esas alınıp, yıpranma payı da düşülerek yapıya değer biçilmesinde ve taşınmazların niteliği, tamamının yüzölçümü, geometrik durumu ve enerji nakil hattı güzergahı dikkate alınarak, irtifak hakkı karşılığının ve ecrimisil bedelinin tespit edilmesinde bir isabetsizlik görülmemiştir.
@@ -197,6 +229,8 @@ Arazi niteliğindeki taşınmazların olduğu gibi kullanılması halinde getire
 Davalı idare vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2014/23930 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96796200)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -210,6 +244,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 1. HD 2014/18440 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84364000)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 Mahkemece, taşınmazın 2981 Sayılı Yasanın 2/a sırasında sayılan belediye ve mücavir alan sınırları içerisindeki gecekondu niteliğinde bulunduğu, aynı Yasanın 18/d bendi gereğince ecrimisil tahakkuk ettirilemeyeceği gerekçesi ile davanın reddine ilişkin olarak verilen karar Yargıtay 3. Hukuk Dairesince "... dava konusu taşınmazın 2981 sayılı kanunun kapsamında bulunup bulunmadığının saptanması ve ortaya çıkacak sonuç doğrultusunda bir hüküm kurulması gerekirken eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm kurulmasının doğru olmadığı gerekçesiyle bozulmuş, mahkemece bozma ilamına uyularak yapılan araştırma ve inceleme sonunda teknik bilirkişinin raporuna atfen 565 ada 65 ve 67 parsel sayılı taşınmazların 2981 sayılı Kanun uygulaması sonucu oluşmuş parseller olmadığı gibi davacıya yapılan bir tahsisin de bulunmadığı gerekçesi ile davanın kısmen kabulüne karar verilmiştir.
@@ -222,6 +258,8 @@ yapının tamamının da anılan imar parseli içersinde kaldığı, dava konusu
 Davalı asilin temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/18041 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/292138700)
 
 Davacı, kayden maliki olduğu 868 parsel sayılı taşınmazı zeytin ürününü toplamak suretiyle davalıların 2002 yılından beri haksız işgal ettiklerini ileri sürerek elatmanın önlenmesine ve son 5 yıl için toplanan zeytin ve yağ bedelinin tespit edilerek faizi ile tahsili isteğiyle eldeki davayı açmış, 20.625,00 TL değer üzerinden dava dilekçesini harçlandırmış, ancak, davalıların hangi parsel maliki bulunduklarına ve delillerinin ne olduğuna dava dilekçesinde yer vermemiştir.
 
@@ -238,6 +276,8 @@ Davacının bu yönlere ilişkin temyiz itirazları yerindedir. Kabulü ile hük
 
 ## Yargıtay 1. HD 2014/17437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84649400)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -252,6 +292,8 @@ Taraf vekillerinin bu yönlere değinen temyiz itirazları yerindedir.Kabulüyle
 
 ## Yargıtay 1. HD 2014/15803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84398600)
+
 Dava, ecrimisil isteğine ilişkin olup, mahkemece hükmüne uyulan bozma ilamı uyarınca soruşturma yapılarak yazılı şekilde karar verilmiş olmasında bir isabetsizlik yoktur.
 
 …
@@ -261,6 +303,8 @@ Ancak; 6100 sayılı HMK.nun 326. (1086 sayılı HUMK. nun 417/1.) maddesi hükm
 Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/13962 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84323400)
 
 Dava, çaplı taşınmazda paydaşlar arasında ecrimisil ve tazminat isteğine ilişkindir.
 
@@ -274,6 +318,8 @@ Davalılar vekilinin bu yönlere değinen temyiz itirazları yerindedir.Kabulüy
 
 ## Yargıtay 5. HD 2014/13332 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96318600)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 …
@@ -286,6 +332,8 @@ Davalı idare vekilinin temyiz itirazları doğrultusunda hükmün açıklanan n
 
 ## Yargıtay 18. HD 2014/13052 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106894600)
+
 Davacı dava dilekçesinde; davalıların taşınmazına haksız el atması nedeniyle şimdilik 7.500 TL’nin müştereken ve müteselsilen dava tarihinden itibaren yasal faiziyle tahsilini ve müdahalenin önlenmesine karar verilmesini istemiş, mahkemece davanın kısmen kabulüne dair verilen karar 5. Hukuk Dairesi’nin 2011/14421 Esas-2012/945 Karar sayılı ilamı ile bozulması üzerine mahkemece bozmaya uyularak S... Elektrik Üretim ve Tic.
 
 …
@@ -295,6 +343,8 @@ Arazi niteliğindeki taşınmazlarda ecrimisil bedelinin hesaplanmasında dava t
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/1401 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84540300)
 
 Dava, ecrimisil isteğine ilişkindir.
 
@@ -308,6 +358,8 @@ Davalı vekilinin bu yönlere değinen temyiz itirazları yerindedir. Kabulü il
 
 ## Yargıtay 1. HD 2014/858 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84212000)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -319,6 +371,8 @@ Toplanan delillerden ve tüm dosya içeriğinden, davacının paydaşı olduğu 
 Davacının temyiz itirazları açıklanan nedenden ötürü yerindedir. Kabulüyle, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2013/17532 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798160700)
 
 Arazi niteliğindeki taşınmazlarda ecrimisil bedelinin hesaplanmasında dava tarihinden geriye doğru taşınmaza ekilebilecek net ürün gelirinin esas alınması gerekir. Birden çok ürün yetiştirilebilen yörelerde gerçek değere ulaşılabilmesi için tek ürünle yetinilmeyerek çevrede ekilmesi mutad olan ürünler dikkate alınır. Buna göre dava konusu taşınmazın bulunduğu yörede sulu şartlarda ekilmesi mutad olup münavebeye alınacak ürünlerin neler olduğu gıda, tarım ve hayvancılık ilçe müdürlüğünden sorulup, buna göre değerlendirme yapılması gerekirken tek ürün domates üzerinden değerlendirme yapılmış olması, …
 

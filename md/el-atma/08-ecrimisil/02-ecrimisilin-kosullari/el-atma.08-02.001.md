@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/802 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685279400)
+
 Davacı vekili dava dilekçesinde; müvekkiline ait 107 ada 27 nolu parselin bitişiğindeki 33 nolu parselde ... Cafe adlı işletmenin bulunduğunu, işletmeyi işleten davalı firmanın müvekkiline ait taşınmazın 590 m2'lik kısmının bir bölümüne asfalt dökmek, bir bölümünü düzlemek suretiyle otoparka çevirerek işgal ettiğini ve 2011 Kasım ayından bu yana 3 yıldır otopark olarak kullandığını ileri sürerek davalının müvekkiline ait 27 parsel sayılı taşınmaza müdahalesinin önlenmesine, Kasım 2011 tarihinden itibaren haksız olarak işgal eden davalıdan şimdilik 21.000TL ecrimisilin kira esasına göre her dönem sonu tahakkuk tarihi itibariyle kademeli yasal faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -34,6 +36,8 @@ Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde olu
 Nitekim TMK'nın 995. maddesinin 1. fıkrasında, iyi niyetli olmayan zilyedin geri vermekle yükümlü olduğu şeyi haksız alıkoymuş olması yüzünden hak sahibine verdiği zararlar ve elde ettiği veya elde etmeyi ihmal eylediği ürünler karşılığında tazminat ödemek zorunda olduğu hüküm altına alınmıştır. Haksız işgal, haksız eylem niteliğinde olup, bu durumda ecrimisilin tahsili için genel mahkemelerde genel hükümlere göre dava açılabileceğinde kuşku bulunmamaktadır.
 
 ## Yargıtay 7. HD 2023/3516 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/930565300)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın reddine, karşı davanın kısmen kabulüne karar verilmiştir.
 
@@ -55,6 +59,8 @@ Temyiz olunan İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/10377 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558631700)
+
 Davacılar vekili, dava konusu 6 parsel sayılı taşınmazın ... Asliye Hukuk Mahkemesinin 3.10.1990 tarihli ve 1990/169 Esas, 1990/258 Karar sayılı ilamı ile vekil edenlerinden ... adına tescil edildiğini ve 5.3.1991 tarihli ve 1 sıra numaralı tapunun oluştuğunu, ancak kadastro çalışmaları sırasında bu tapunun uygulanmadığını, taşınmazın kargir karakol binası ve arsası vasfı ile Hazine adına tespit edildiğini, vekil edenlerinden ... tarafından tespite yapılan itiraz üzerine ... Kadastro Mahkemesinin 2011/31 Esas ve 2011/97 Karar sayılı ilamı ile tespitin iptali ile taşınmazın vekil edenlerinden ... adına tesciline karar verildiğini, ...’ün daha sonra taşınmazı oğlu Sabahattin Akyüz’e sattığını, İçişleri Bakanlığı tarafından taşınmaza karakol binası yapılmak suretiyle müdahalede bulunulduğunu açıklayarak, davalı aleyhine ecrimisile hükmedilmesini talep etmiştir.
 
 Davalı Hazine vekili davanın reddini savunmuştur.
@@ -69,9 +75,13 @@ SONUÇ: Davacılar vekilinin karar düzeltme talebinin, 6100 sayılı HMK'nin Ge
 
 ## Yargıtay 8. HD 2016/5523 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/171981300)
+
 Mahkeme tarafından yapılan nitelendirmeden de anlaşıldığı üzere taraflar arasındaki uyuşmazlık, kesinleşen mahkeme kararı sonrası tapuda davacının maliki olduğu 1/3 paya davalının haksız elatmasından kaynaklanan mülkiyet hakkına dayalı ecrimisil isteğine ilişkin bulunduğuna göre, Yargıtay Kanunu'nun 14. maddesi uyarınca Yargıtay Başkanlar Kurulu'nun 16.01.2016 tarih, 2016/1 sayılı Kararı ile hazırlanıp, 26.02.2016 tarihli ve 29636 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Yargıtay Büyük Genel Kurulu'nun 12.02.2016 gün 2016/1 sayılı Hukuk Daireleri'ne ilişkin iş bölümü uyarınca, hükme yöneltilen temyiz itirazlarının incelenmesi Yargıtay (1.) Hukuk Dairesi'nin görevine girmektedir. 11 Nisan 2015 tarihi itibariyle Resmi Gazete'de yayımlanarak yürürlüğe giren 6644 sayılı Kanun'un 2. maddesi ile değişik 2797 sayılı Kanun'un 60. maddesinin 1. ve 3. fıkraları uyarınca dosyanın görevli Daireyi belirlemek üzere HUKUK İŞBÖLÜMÜ İNCELEME KURULUNA GÖNDERİLMESİNE, 25.03.2016 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2014/536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84137400)
 
 Öte yandan; paylı mülkiyete tabi taşınmazda tarafların paydaş olduğu, paydaşların ecrimisil isteğinde bulunabilmesi için intifadan men koşulunun gerçekleşmesi gerektiği nitekim davacı tarafından eldeki davadan önce elatmanın önlenmesi davası açıldığı, devamında ecrimisil isteği ile ihtarname keşide edildiği kaldı ki, çekişmeli bölümün kiraya verilerek hukuksal semere elde edilen yerlerden olup intifadan men koşulunun aranmayacağı da kuşkusuzdur.
 
@@ -80,6 +90,8 @@ Mahkeme tarafından yapılan nitelendirmeden de anlaşıldığı üzere taraflar
 Davacının temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/17251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79274900)
 
 Davacılar, çekişmeli taşınmaz üzerindeki evi miras bırakanlarının ölümünden beri kardeşleri olan davalının kullandığını, miras payını devretmesi sebebi ile taşınmazda herhangi bir hakkının kalmadığını ileri sürerek, elatmanın önlenmesi ve şimdilik dava tarihinden geriye doğru 5 yıllık olmak üzere toplam 6.000.-TL ecrimisile karar verilmesini istemişler, yargılama sırasında ecrimisil miktarı yönünden dava dilekçelerini ıslah ederek toplam 7.613,50.-TL ecrimisilin tahsilini talep etmişlerdir.
 
@@ -97,6 +109,8 @@ Davalının belirtilen nedenlerle temyiz itirazları yerindedir. Kabulü ile hü
 
 ## Yargıtay 1. HD 2013/17134 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255758000)
+
 Davacı, asıl davasında kayden maliki olduğu 5603 parsel sayılı taşınmazın, davalı tarafından alınan maden nedeniyle doğal ve fiziki yapısının bozulduğu, ekim ve dikime elverişliliğinin ortadan kalktığını ileri sürerek elatmanın önlenmesi, maden bedeli ve eski hale iade bedelinin davalıdan tahsilini istemiş, 06.01.2011 tarihli ıslah dilekçesi ile maden bedelinin tahsili yerine ecrimisile, eski hale iade bedeli yerine taşınmazın sürüm değeri olan 53.600 TL'nin davalıdan tahsili ile taşınmazın 4082 m² lik bölümünün ifrazı ve davalı adına tesciline, birleşen davasında ise taşınmazın sürüm bedelinin bakiyesi olan 19.185 TL'nin davalıdan tahsiline karar verilmesini istemiştir.
 
 Mahkemece, ecrimisil isteğin kabulüne, taşınmazın 4.082 m²'lik bölümünün sürüm değeri olan 53.066 TL'nin davalıdan tahsiline, bu bölümün davalı adına tesciline; birleşen davanın ise reddine karar verilmiştir.
@@ -111,6 +125,8 @@ Tarafların belirtilen yönlere değinen temyiz itirazları yerindedir. Kabulü 
 
 ## Yargıtay 3. HD 2013/5586 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255088400)
+
 Mahkemece, davanın kısmen kabulü ile 2006-2010 yıllarına ait dönem sonlarından itibaren başlayacak yasal faiziyle birlikte toplam ....781.61 TL ecrimisile karar verilmiş, hüküm davalı vekilince temyiz edilmiştir.
 
 Kural olarak, iştirak ya da müşterek mülkiyet durumunda, taşınmazı kullanan malikten ecrimisil talep edilebilmesi için, diğer maliklerin taşınmazdan yararlanma isteklerini karşı tarafa iletmiş olmaları gerekmektedir. Yararlanma isteminin iletilmesi, belli bir şekil şartına bağlı olmayıp, yemin dahil her türlü delil ile ispat edilebilir.
@@ -121,6 +137,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 1. HD 2013/3378 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79647700)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -130,6 +148,8 @@ O halde, taşkın binanın belirtilen niteliği ve olayın özelliğine göre y�
 Davacı vekili ile davalı vekilin temyiz itirazları belirtilen nedenlerle yerindedir. Kabulüyle, hükmün açıklanan nedenlere hasren (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/1994 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79452900)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -143,12 +163,16 @@ Davacının temyiz itirazları değinilen yön itibariyle yerindedir. Kabulü il
 
 ## Yargıtay 3. HD 2012/22781 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489518800)
+
 Mahkemece, davanın kısmen kabulüne karar verilmiştir.Ecrimisil davaları haksız fiil benzeri davalar olup, ecrimisil miktarı en çoğu tam gelir yoksulluğu en azı ise asgari kira bedelidir.
 
 Yargıtay'ın Yerleşmiş Uygulamaları doğrultusunda kira geliri üzerinden ecrimisilin belirlenmesinde, taşınmazın dava konusu ilk dönemde mevcut haliyle serbest koşullarda getirebileceği kira parası emsal kira sözleşmeleriyle karşılaştırılarak (taşınmazın büyüklüğü ve çevre özellikleri de nazara alınarak) rayice göre belirlenir. Sonraki dönemler için ecrimisil miktarı ise ilk dönem için belirlenen miktara ÜFE (TEFE) artış oranının tamamı yansıltılmak üzere belirlenecek miktardan az olamaz.Somut olayda davacılar davalı aleyhine dava konusu taşınmaza ilişkin olarak men'i müdahale ve ecrimisil (... 1.Asliye Hukuk Mahkemesine 2001/293 E. sayılı dosyası) talepli dava açtıklarını ve bu davanın halen derdest olduğunu beyan etmişlerdir.Öyle ise mahkemece, dava konusu taşınmaza ilişkin olarak açılan ... 1.
 Asliye Hukuk Mahkemesinin 2001/293 esas sayılı meni müdahale ve ecrimisil talepli dava dosyasının kesinleşmesi beklenerek, bu dosyadaki önceki dönem kesinleşen ecrimisil miktarına her yıl yeni dönem için TÜİK'in yayımladığı ÜFE artış oranının tamamının yansıtılmak suretiyle bulunacak miktardan az olmamak koşulu ile ecrimisil hesabı yapılarak karar verilmesi gerekirken, yanılgılı değerlendirme ile hüküm tesisi kurulması bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 14. HD 2011/2891 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760796400)
 
 Davalı, davacının taşınmazına elatmadığını, nizalı yeri satın aldığı şekilde kullandığını, davanın reddini savunmuştur.
 
@@ -164,6 +188,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 3. HD 2010/20692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970984300)
+
 Kural olarak; müşterek veya iştirak halindeki mülkiyet durumunda taşınmazı kullanım malikten ecrimisil talep edilebilmesi için diğer malik için taşınmazdan yararlanma isteğini karşı tarafa iletmiş olması gerekir. Yararlanma isteminin iletilmesi belli bir şertine bağlı değildir. Her türlü delil ile ispatlanabilir.
 
 …
@@ -171,6 +197,8 @@ Kural olarak; müşterek veya iştirak halindeki mülkiyet durumunda taşınmaz�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 1. HD 2008/4560 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77941000)
 
 Davacı, çekişmeli 161 ve 162 parsellerin önceki maliki dava dışı M. K. iken 161 parsel sayılı taşınmazı davalıların miras bırakanı Ş. D.'in satın aldığını, cahil olması nedeniyle tapu işlemleri sırasında davalı H.'in 161 parseli kendi miras bırakanı adına, 162 parselinde adına tescil edildiğini, hataya düşürüldüğünü ileri sürerek, taşınmazların tapusunun iptali ile 161 parselin adına, 162 parselin davalılar adına tescili isteğinde bulunmuştur.
 
@@ -199,6 +227,8 @@ Araç maliki davacının aracın iadesi istemi yanında ecrimisil isteği de bul
 Davacı vekilinin istinaf başvurusunun kabulüne; Bakırköy 8. Asliye Ticaret Mahkemesi'nin 30/01/2026 Tarih 2024/546 Esas - 2026/66 Karar sayılı kararın HMK 353(1)a-6 gereği KALDIRILMASINA;
 
 ## İstanbul BAM 2. HD 2020/1199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/601475200)
 
 İlk Derece Mahkemesi Kararı: İstanbul Anadolu 9. Asliye Ticaret Mahkemesi'nin 2018/142 esas ve 2019/1227 karar sayılı 12/12/2019 tarihli kararı ile; davacının meni müdahale davasının kabulüne, ecrimisil davasının reddine karar verilmiştir.
 

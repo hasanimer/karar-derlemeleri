@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2015/5011 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139160800)
+
 Dava, ecrimisil isteğine ilişkindir.
 
 …
@@ -29,6 +31,8 @@ Dava, ecrimisil isteğine ilişkindir.
 
 ## Yargıtay 1. HD 2015/989 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119931600)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -36,6 +40,8 @@ Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 Kabule göre de, davada elatmanın önlenmesi ve ecrimisil istekleri bakımından toplam dava değeri üzerinden nispi karar ve ilam harcı ile davacı yararına nisbi vekalet ücretine hükmedilmesi yerine, sadece hüküm altına alınan ecrimisil miktarı üzerinden harç ve avukatlık ücretine karar verilmesi de doğru değildir.
 
 ## Yargıtay 1. HD 2014/12429 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/89287400)
 
 Dava, paya vaki elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -47,6 +53,8 @@ Hal böyle olunca, öncelikle, usulü müktesep hak kuralı ve HMKnun 297/2. mad
 
 ## Yargıtay 1. HD 2014/5961 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84233100)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -54,6 +62,8 @@ Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkin
 Hal böyle olunca; davalı idare tarafından dava konusu taşınmaza el atıldığı 25.11.2010 tarihinden kamulaştırma bedelinin tespiti ve tescil istekli açılan dava tarihi tespit edilip o tarihe kadar olan dönem için ve davacılara ait yapının dava konusu taşınmazdaki kalan kısmı üzerinden belirlenecek ecrimisile hükmedilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru olmadığı gibi elatmanın önlenmesi isteği hakkında davaya kimin sebebiyet verdiği değerlendirilerek o tarafın vekalet ücretinden sorumlu tutulması gerekirken yazılı şekilde her iki taraf için vekalet ücretine karar verilmemesi ve ecrimisil bedeline her tahakkuk dönemi itibariyle kademeli yasal faize hükmedilmesi gerekirken her ayın sonu itibariyle faize hükmedilmesi de isabetsizdir.
 
 ## Yargıtay 1. HD 2014/4889 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84128200)
 
 Dava, elatmanın önlenmesi, yıkım ve ecrimisil isteklerine ilişkindir.
 
@@ -65,11 +75,15 @@ Kabule göre de; 4.3.1953 tarih 10/2 sayılı İçtihadı Birleştirme Kararı u
 
 ## Yargıtay 1. HD 2013/18437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79491800)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davanın kısmen kabulüne ilişkin olarak verilen kararın taraflarca temyiz edilmesi üzerine, Dairece; ''....bilirkişilerce belirlenen taşınmazın değeri üzerinden karar ve ilam harcına hükmedilmesi gerekirken sadece ecrimisil bedeli esas alınmak suretiyle karar ve ilam harcı alınması, eksik harcı tamamlanmadığı halde dava konusu taşınmazların değeri ve kabul edilen ecrimisil miktarının toplamı üzerinden davacı lehine vekalet ücretine hükmedilmek suretiyle neticeye gidilmiş olmasının....'' doğru olmadığı belirtilmek suretiyle hüküm bozulmuş, mahkemece bozma kararına uyulmak suretiyle, elatmanın önlenmesi ve ecrimisil taleplerine ilişkin bozma öncesi kurulan hükmün kesinleştiği gerekçesi ile davanın esası hakkında karar verilmesine yer olmadığına karar verilmiştir.
 
 ## Yargıtay 1. HD 2013/16585 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255571100)
 
 Dava elatmanın önlenmesi, yıkım, ecrimisil ve tazminat isteklerine ilişkindir.
 
@@ -78,6 +92,8 @@ Dava elatmanın önlenmesi, yıkım, ecrimisil ve tazminat isteklerine ilişkind
 Hal böyle olunca; harcı alınan değer üzerinden davacı lehine, reddedilen ecrimisil yönünden davalı lehine lehine avukatlık ücretine hükmedilmesi gerekirken, davacı lehine maktu avukatlık ücretine hükmedilmesi ve davalı lehine hiç avukatlık ücretine hükmedilmemesi doğru olmadığı gibi istek gözetilerek 375,00 TL tazminat için hüküm kurmakla yetinilmesi gerekirken, talep aşılarak ve Hukuk Muhakemeleri Kanunu'nun (HMK) 26. maddesi hükmü gözardı edilerek; 530,12 TL tazminata karar verilmiş olması da isabetsizdir.
 
 ## Yargıtay 1. HD 2013/13530 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79752900)
 
 Dava; çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -89,9 +105,13 @@ Hal böyle olunca; 155 ada, 2 parselde yer alan 24 nolu bölümün kapsadığı 
 
 ## Yargıtay 1. HD 2013/8458 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79729000)
+
 Hal böyle olunca, el atmanın önlenmesi davası yönünden davalı S..'ın paydaş olduğu gözetilerek yukarıda belirtilen ilkeler doğrultusunda paylı mülkiyet hükümlerinin göz önünde alınması ve sonucuna göre bir karar verilmesi, davalı G.yönünden konusuz kalan davada karar verilmesine yer olmadığına karar verilmesi ve dava açıldığı tarihte tarafların haklılık durumları dikkate alınarak yargılama giderlerine hükmedilmesi, ecrimisil davasında ise tapu iptal ve tescil davalarının kesinleştiği tarihten dava tarihine kadar ecrimisile hükmedilmesi gerekirken değinilen hususlar gözardı edilmek suretiyle yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir. Hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 27.5.2013 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2013/6595 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/247999100)
 
 Dava, eski hale getirme bedelinin tahsili ile ecrimisil isteğine ilişkindir.
 
@@ -100,6 +120,8 @@ Dava, eski hale getirme bedelinin tahsili ile ecrimisil isteğine ilişkindir.
 Ne var ki; anılan bu hususlar yeniden yargılamayı gerekli kılmadığından hükmün 3. maddesindeki; “ Davacı kendisini vekil ile temsil ettirdiğinden yürürlükte bulunan A.A.Ü.T. gereğince 1.200,00.-TL maktu vekalet ücretinin davacıdan alınarak hazineye gelir kaydına ” ibaresinin hüküm fıkrasından çıkartılarak yerine; “ Yargılama sırasında davacı kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 6. ve 12. madde hükümleri ile eski hale getirme bedeline ilişkin isteğin deliller toplanmadan önce konusuz kaldığı da gözetilerek 1.441,12.-TL nispi vekalet ücreti ile, kabul edilen toplam 7.514,08.-TL ecrimisil miktarı üzerinden hesaplanan 901,68.-TL nispi vekalet ücretinin davalıdan alınarak davacıya verilmesine ” ibaresinin yazılmasına, davacının bu yöne ilişkin temyiz itirazlarının kabulü ile 6100 sayılı H.M.K.'nın geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nın 436/2. (6100 sayılı HMK'nun 370/2. md.) maddesi uyarınca hükmün bu şekliyle DÜZELTİLEREK ONANMASINA, alınan peşin harcın temyiz edene geri verilmesine, 02.05.2013 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2013/4161 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79746900)
 
 Dava, bağımsız bölüme el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -111,6 +133,8 @@ Hal böyle olunca, taraflara sorulmak veya keşfen saptanmak suretiyle taşınma
 
 ## Yargıtay 1. HD 2013/2374 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255282000)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -121,19 +145,27 @@ Ancak; yargılama sırasında çekişme konusu taşınmazların keşfen belirlen
 
 ## Yargıtay 3. HD 2012/19377 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/529728300)
+
 Dava iki ayrı talepten oluşmaktadır. Dosyadaki belgelerden davacı tarafın yalnızca ortaklığın giderilmesi talebine ilişkin harç yatırdığı, ecrimisil talebine ilişkin harç yatırmadığı ve mahkemece harcı yatırılmamış ve dava değeri belirtilmemiş ecrimisil talebine ilişkin hüküm tesis edildiği anlaşılmaktadır.492 sayılı Harçlar Kanununun 27.vd. maddelerinde dava açılırken ödenmesi gereken harçlar ile eksik harç yatırılması halinde yapılması gereken işlemler açıklanmıştır. Kanunun “Harcı Ödenmeyen İşlemler” başlığını taşıyan 32. maddesinde, yargı işlemlerinden alınacak harçlar ödenmedikçe müteakip işlemler yapılamayacağı hükmü yer almaktadır. Mahkemece bu yasal düzenleme göz ardı edilerek hüküm kurulmuş olması doğru görülmemiş ve bozmayı gerektirmiştir. Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, bozma nedenine göre diğer temyiz itirazlarının şimdilik incelenmesine yer olmadığından hükmün HUMK.nun 428.
 
 ## Yargıtay 8. HD 2012/10951 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641030500)
+
 Her iki içtihadı birleştirmenin kapsamları birlikte değerlendirildiğinde, ... somut olayda haksız işgalci durumunda olmadığından ve iyi niyetli olduğundan kira alacağı niteliğinde ecrimisil ödemekle yükümlü değildir. Bu nedenle mahkemenin bu yöndeki görüşüne katılma olanağı bulunmamaktadır. Yukarıda açıklanan içtihadı birleştirme kararı uyarınca davacılar-davalıların istediği ecrimisil miktarı yönünden davanın reddine karar verilmesi gerekirken kabulüne karar verilmesi 1. sırada belirtilen içtihadı birleştirme kararına aykırı düşmektedir. Bundan ayrı, meni müdahale davasının değeri arsa paylarının toplamının değeri olmayıp satışa konu dairenin dava tarihindeki gerçek değeri davanın değerini oluşturmaktadır. Bu nedenle, arsa paylarının toplam değeri üzerinden hesaplanan yüksek miktardaki vekalet ücreti ve harca yönelik hüküm fıkrası usul ve kanuna aykırıdır. Dava tarihi itibariyle belirlenecek dairenin sürüm değeri esas alınarak vekalet ücreti ile nispi harcın hesaplanması gerekmektedir.
 
 ## Yargıtay 1. HD 2012/7422 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79415200)
 
 Hemen belirtilmelidir ki, iddianın içeriği ve ileri sürülüş biçiminden davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin gerektiği açıktır. Bu tür davalarda 492 sayılı Harçlar Kanununun 16. maddesi uyarınca dava değerinin ve buna göre alınacak harcın çekişme konusu taşınmazın ve üzerindeki muhdesatın değerinin toplamından ibaret olacağı kuşkusuzdur. (4.3.1953 tarih 10/2 sayılı İ.B.K.)
 
 Bilindiği üzere, 492 sayılı Harçlar Yasası, harcın alınmasını veya tamamlanmasını yanların takdirine bırakmayıp; anılan hususun mahkemece kendiliğinden (re'sen) gözetileceği düzenlenmiş ve buyurucu nitelikteki 30. ve 32. maddelerinde ise yargı işlemlerinden alınacak harçlar ödenmedikçe müteakip işlemlerin yapılamayacağı vurgulanmıştır.Hal böyle olunca, öncelikle elatmanın önlenmesi davası yönünden yukarıda özetlenen 492 sayılı Yasanın 30. ve 32. maddeleri uyarınca işlem yapılarak, taşınmazın keşfen belirlenen değeri üzerinden davacıdan harcın yatırılmasının istenmesi, aksi takdirde HUMK 409. (6100 sayılı Yasanın 150.) maddesi uyarınca dosyanın işlemden kaldırılması ve koşulların oluşması durumunda davanın açılmamış sayılmasına karar verilmesi; harcın yatırılması halinde ise, elatmanın önlenmesi yönünden yapılan uygulama doğrultusunda olumlu ya da olumsuz bir karar verilmesi ve buna bağlı olarak ecrimisilin tayin edilmesi gerekirken, anılan işlemler ve hususlar gözardı edilerek yazılı biçimde hüküm kurulması doğru değildir.
 
 ## Yargıtay 1. HD 2012/6185 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79182200)
 
 Dava, kat irtifakı kurulu taşınmazdaki mesken vasıflı bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -147,6 +179,8 @@ Bu durumda; davalının kullanımında olan çekişmeye konu mesken vasıflı ta
 
 ## Yargıtay 1. HD 2012/5339 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79130400)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -154,6 +188,8 @@ Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişk
 Hal böyle olunca, dava değerinin 20.000,00-TL olarak gösterildiği gözetilerek, kabul ve ret oranına göre yargılama giderinin taraflara paylaştırılması; diğer taraftan, kabul edilen bölüme ilişkin (11.250,00-TL) değer ile ecrimisil toplamı (97,00-TL) üzerinden harç ve vekalet ücretine hükmedilmesi gerekirken, yazılı biçim de davalıya fazla harç, masraf ve vekalet ücreti yükletilmesi doğru olmadığı gibi, istek olmadığı halde dava tarihinde yürürlükte bulunan 1086 sayılı yasanın 74. ve 6100 sayılı yasanın 26. madde hükmü gözardı edilerek yıkım kararı verilmiş olması da isabetsizdir.
 
 ## Yargıtay 1. HD 2012/4133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79495500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -165,6 +201,8 @@ Bilindiği üzere; 492 Sayılı Harçlar Yasası, harcın alınmasını veya tam
 
 ## Yargıtay 1. HD 2012/3855 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79437300)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -175,6 +213,8 @@ Hemen belirtilmelidir ki; iddianın içeriği ve ileri sürülüş biçiminden, 
 
 ## Yargıtay 1. HD 2012/2894 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79269800)
+
 Dava, paydaşlar arası elatmanın önlenmesi ecrimisil isteğine ilişkin olup mahkemece davacıların hükmen paydaş oldukları dava konusu bağımsız bölümün tamamının davalı paydaş tarafından kullanıldığı belirlenmek suretiyle davacıların paylarına yönelik elatmanın önlenmesine karar verilmiş olmasında kural olarak bir isabetsizlik bulunmamaktadır.
 
 …
@@ -182,6 +222,8 @@ Dava, paydaşlar arası elatmanın önlenmesi ecrimisil isteğine ilişkin olup 
 Ne var ki, davacının dava dilekçesiyle ecrimisilin hangi tarihler arası için istendiği açıkça belirtilmemiş ise de dava dilekçesinin ilk paragrafından, ecrimisil isteğinin, davacılar tarafından açılan tapu iptali ve tescil davasının kesinleştiği tarihten sonraki dönem için olduğu anlaşılmaktadır. Her ne kadar davacıların ecrimisil hakkı hüküm kesinleşmeden önceki dönemi de kapsayacak şekilde oluşmuş ise de taleple bağlı kalınarak hükmün kesinleşme tarihi olan 10.01.2007 ile dava tarihi olan 29.12.2008 tarihleri arası belirlenecek olan ecrimisile hükmedilmesi gerekirken talep aşılmak suretiyle fazla ecrimisil takdiri doğru değildir. Diğer taraftan, kabule görede, dava dilekçesinde gösterilen ve itiraza uğramayan taşınmaz değeri ile yargılama aşamasında harcı ikmal edilen ecrimisil değerinin toplamı üzerinden davacılar yararına avukatlık ücreti takdiri gerekirken, keşfen belirlenen ve yargılama aşamasında harcı tamamlatılmayan taşınmaz değeri üzerinden fazla avukatlık parasına hükmedilmiş olması da isabetli değildir.
 
 ## Yargıtay 1. HD 2011/12849 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79323500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -191,6 +233,8 @@ Hal böyle olunca; çekişme konusu her iki dairenin de davalı Ş.'in işgalind
 
 ## Yargıtay 1. HD 2011/12130 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79192100)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 …
@@ -199,11 +243,15 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkind
 
 ## Yargıtay 1. HD 2011/11464 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79048500)
+
 O halde 670 ve 722 parseldeki ağaçların dava tarihindeki değerinin miras payına isabet eden değeri üzerinden davalı G. lehine hapis hakkı tanınmak suretiyle elatmanın önlenmesine, ihtarnamenin tebliğinden itibaren işleyen 7. günün bitimi ile dava tarihi arası için haksız kullanım karşılığı, uzman bilirkişiler tarafından hazırlanan denetime elverişli bilirkişi raporu gözetilerek belirlenen ecrimisile, dava tarihinden itibaren işleyecek yasal faizi ile birlikte hükmedilmesinde temyiz edenin sıfatına göre kural olarak bir isabetsizlik yoktur.
 
 Öte yandan; davacı N. S.’nun ecrimisil isteği kısmen kabul edildiğine ve davalı yan da vekille temsil edildiğine göre, reddedilen ecrimisil talebi yönünden birleşen davanın davalıları yararına A.A.Ü.T.‘nin 12. maddesi uyarınca belirlenecek avukatlık parasına hükmedilmemesi doğru olmadığı gibi reddedilen iptal tescil davasında (2010/243 Esas) yapılan keşfin 470,00.-TL giderinin, davacı tarafından karşılandığı ve dava reddedilmekle yargılama giderlerinin de üzerinde bırakılmasına karar verildiği halde kabulle sonuçlanan elatmanın önlenmesi, ecrimisil ve yıkım istekli (2009/309 Esas )davada belirlenen yargılama giderlerinin tahsili ile yetinilmesi gerekirken 2010/243 Esas sayılı dava dosyasının keşif giderlerinin de yargılama giderlerine dâhil edilerek mükerrer tahsile yol açılmasının da isabetli olduğu söylenemez.
 
 ## Yargıtay 1. HD 2011/2671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78693400)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -213,6 +261,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişki
 
 ## Yargıtay 1. HD 2011/2296 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78605600)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece, kayden davacının maliki olduğu çaplı taşınmazlara, davalıların, haklı ve geçerli bir nedenleri olmaksızın el attıkları saptanarak, el atmanın önlenmesi isteğinin kabulüne karar verilmiş olmasında bir isabetsizlik yoktur.
 
 …
@@ -220,6 +270,8 @@ Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece, k
 Hemen belirtilmelidir ki, 492 sayılı Harçlar Yasasının 16.maddesi hükmü uyarınca, bu istekleri içeren davalarda, harca tabi değerin el atılan yerin keşfen belirlenen değeri ile ecrimisilin toplamından ibaret olacağı, buna görede harcın ikmal edilmesi, aksi takdirde, aynı Yasanın 30. ve 32. maddelerinde öngörülen düzenlemelerin uygulanması gerekeceği hususlarınında göz ardı eldilmesi isabetsizdir.
 
 ## Yargıtay 1. HD 2011/1928 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917623100)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -232,6 +284,8 @@ O halde, elatılan yerin değeri ile hüküm altına alınan ecrimisilin toplam 
 
 ## Yargıtay 1. HD 2011/434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78666600)
+
 Dava çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup,davacı çekişmeli 997 parsel sayılı taşınmazda, davalı ise,komşu 973 parselde dava dışı kişilerle birlikte paydaştır.
 
 …
@@ -242,11 +296,15 @@ Hal böyle olunca, davacıya istediği ecrimisil miktarının açıklattırılma
 
 ## Yargıtay 1. HD 2011/410 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78666400)
+
 Bu durumda davalıların, ihtarnamede belirtilen tarihe kadar taşınmazı davacının izni ile kullandıkları ve ihtar keşide edilmekle muvafakatin geri alındığı kabul edilmelidir. Öyleyse, davalıların ihtarnamenin tebliğinden itibaren verilen süre ile dava tarihi arasındaki dönem için ecrimisilden sorumlu tutulması zorunludur.
 
 Hal böyle olunca, ecrimisil isteğinin ihtarnamenin tebliğinden itibaren verilen 7 günlük sürenin dolduğu tarih ile dava tarihi arasındaki dönem için kabul edilmesi gerekirken, yazılı şekilde hüküm kurulması doğru olmadığı gibi dava dilekçesinde gösterilen ve itiraza uğramayan taşınmaz değeri ile harcı ikmal edilen ecrimisil miktarı üzerinden avukatlık parası tayin ve takdir edilmesi gerekirken, keşifte belirlenen ve harcı tamamlanmayan taşınmaz değeri ve harcı ikmal edilen ecrimisil miktarının toplamı üzerinden fazla avukatlık parasına hükmedilmesi de isabetsizdir.
 
 ## Yargıtay 1. HD 2010/6617 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78737600)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -258,9 +316,13 @@ Ne varki, dava değerinin, 492 Sayılı Harçlar Yasasının 16.maddesi ve 4.3.1
 
 ## Yargıtay 14. HD 2010/3920 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643789000)
+
 Harçlar Kanununun 16. maddesi "...Müdahalenin men'i, tescil ve tapu kayıt iptali gibi gayrimenkulün aynına taalluk eden davalarda gayrimenkulün değeri nazara alınır. Gayrimenkulün aynına taalluk eden davalarda ecrimisil ve tazminat gibi taleplerde de bulunulduğu takdirde harç, gayrimenkulün değeri ile talep olunan tazminat ve ecrimisil tutarı üzerinden alınır" hükmünü taşımaktadır. HUMK’nun 1.maddesinde de, mahkemelerin görevinin dava olunan şeyin dava tarihindeki değeri esas alınarak belirleneceği düzenlenmiştir.
 
 ## Yargıtay 14. HD 2010/1887 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633404200)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
@@ -271,6 +333,8 @@ Ne var ki; açıklanan bu yanlışlıkların giderilmesi yeniden yargılama yap�
 
 ## Yargıtay 1. HD 2010/1266 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78672300)
+
 Dava, kat mülkiyeti kurulu bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -278,6 +342,8 @@ Dava, kat mülkiyeti kurulu bağımsız bölüme elatmanın önlenmesi ve ecrimi
 Bilindiği üzere, 492 Sayılı Harçlar Yasası, harcın alınmasını veya tamamlattırılmasını tarafların isteklerine bırakmayıp, anılan hususun mahkemece kendiliğinden gözetileceğini düzenlemiş ve buyurucu nitelikteki 32. maddesinde yargı işlemlerinden alınacak harçlar ödenmedikçe müteakip işlemlerin yapılamayacağını öngörmüştür.Hal böyle olunca, öncelikle davada ileri sürülen istekler bakımından dava değerinin belirlenmesi ve bu değer üzerinden peşin harcın tamamlatılması; kararda da, hüküm altına alınan el atma değeri üzerinden harca ve kazanılmış haklar dikkate alınmak suretiyle davacı yararına vekalet ücretine, reddedilen ecrimisil değeri üzerinden de davalı yararına vekalet ücretine karar verilmesi gerekirken, yazılı biçimde hüküm kurulması isabetsizdir.
 
 ## Yargıtay 1. HD 2009/92 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78180100)
 
 Dava, çaplı taşınmazdaki bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -287,9 +353,13 @@ Bilindiği üzere; 492 Sayılı Harçlar Kanununun 16. maddesinde, "...müdahale
 
 ## Yargıtay 1. HD 2008/6278 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78139700)
+
 Bilindiği üzere; HUMK'nun 3.maddesi gereğince, dava konusu birden fazla ise dava değerinin bunların toplamı olacağı tartışmasızdır. Esasen, 492 Sayılı Harçlar Yasasının 16.maddesi hükmüde gayrimenkulün aynına taallük eden davalarda, ecrimisil... gibi taleplerde bulunduğu takdirde harcı elatılan yerin değeri ile istenilen ecrimisil tutarı üzerinden alınacağı şeklindeki düzenlenmesi ile dava değerinin ne olacağı açıkça belirtilmiştir.
 
 ## İstanbul BAM 2. HD 2019/778 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501601600)
 
 Gerekçe Ve Sonuç:HMK'nın 355. maddesi gereği, kamu düzenine aykırılık teşkil eden hususlar hariç tutularak, istinaf neden ve gerekçeleri ile sınırlı olmak üzere yapılan incelemede;Dava, Türk Medeni Kanunu'nun 683. maddesinden kaynaklanan mülkiyet hakkına dayalı çaplı taşınmaza elatmanın önlenmesi ve ecrimisil istemine ilişkindir. TMK'nın 683/1. maddesinde, mülkiyet hakkı sahibinin hak ve yetkileri düzenlenmiş olup, "Bir şeye malik olan kimse, hukuk düzeninin sınırları içinde, o şey üzerinde dilediği gibi kullanma, yararlanma ve tasarrufta bulunma yetkisine sahiptir." Aynı maddenin ikinci fıkrasında ise, mülkiyet hakkının malikine sağladığı dava çeşitlerinden ikisi düzenlenmiş olup, "Malik, malını haksız olarak elinde bulunduran kimseye karşı istihkak davası açabileceği gibi, her türlü haksız elatmanın önlenmesini de dava edebilir." Bu maddeye göre malik, aktif yetki kapsamında mülkiyet hakkına konu olan eşya üzerinde kanuni sınırları içinde dilediği gibi tasarrufta bulunma; hem de pasif yetki kapsamında mülkiyet hakkına konu olan eşyayı üçüncü kişilerce yapılacak saldırılara karşı koruma haklarına sahiptir.
 Müdahalenin men'ine ilişkin bu dava ayni bir dava olup, tecavüz devam ettiği sürece açılabilir. Davacı dava konusu şeyin maliki olduğunu ve mülkiyet hakkına davalı tarafından el atıldığını ispatla yükümlüdür. Davalı ise, davacının malik olmadığını ya da davacının mülkiyet hakkına el atmadığını, el atmanın sona erdiğini ispat edebilir. Öte yandan TMK'nın 995. maddesine göre kötüniyetli zilyet, geri vermekle yükümlü olduğu şeyi haksız olarak alıkoymuş olmasından doğan tazminatı karşılamak zorundadır. Davalı iyiniyetli ise, tazminatla yükümlü olmayacak, suiniyetli ise sorumlu kılınacaktır. Rızaya dayalı kullanımda kötü niyet söz konusu olamaz. Ayrıca, taşınmazı kullanan kişi, haklı bir sebebe dayandığına inanarak veya bir edim karşılığı ya da davacının rızası dahilinde kullandığından bahisle yararlanmayı sürdürüyorsa (harici satış, fiili taksim, kira sözleşmesi vs.), rızanın ortadan kalkması veya tarafların aldıklarını iade etmesine kadar taşınmazı elinde bulundurma haksız ve kötü niyetli kullanım olarak kabul edilemez.
