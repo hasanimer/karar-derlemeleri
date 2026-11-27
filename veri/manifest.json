@@ -208,13 +208,13 @@
     {
       "alan": "Aile ve miras hukuku",
       "baslik": "Boşanma Davalarına İlişkin Emsal Kararlar",
-      "bayt": 6143390,
+      "bayt": 6144615,
       "dosya": "kararlar/bosanma.jsonl.gz",
       "kayit": 27137,
       "kod": "bosanma",
       "md": "md/bosanma/",
       "sayfa": 7566,
-      "sha256": "540aa8dc68d818e4208baa938d912420e2aea340507e4c4b8ba2daf343a47c0e",
+      "sha256": "2cdb217f7ac2c5fd599a53a6a82f38f2251e2229e53a7697a62dfb6987f69906",
       "surum": null
     },
     {

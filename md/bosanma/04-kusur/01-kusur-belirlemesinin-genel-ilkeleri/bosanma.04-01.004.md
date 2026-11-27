@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2009/584 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77097500)
+
 A-Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, eşlerin evi birlikte seçeceklerini, birliğin giderlerine güçleri oranında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade ve eşit kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davalı yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay HGK 2009/209 K.
@@ -30,13 +32,19 @@ A-Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşan
 
 ## Yargıtay HGK 2007/275 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16590300)
+
 4721 sayılı Türk Medeni Kanununun 174.maddesine göre, mevcut veya beklenen menfaatleri boşanma yüzünden zedelenen kusursuz veya daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceği, boşanmaya sebep olan olaylar yüzünden kişilik hakkı saldırıya uğrayan tarafın, kusurlu olan diğer taraftan manevi tazminat olarak uygun miktarda bir para ödenmesini isteyebileceği öngörülmüştür.
 
 ## Yargıtay HGK 2005/705 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77045100)
+
 Bilindiği üzere Türk Kanunu Medenisinin 143.maddesine göre boşanma nedeniyle diğer eşten tazminat istenilebilmesi için, tazminat talep eden eşin kusursuz olması gerekir.Burada “kusursuz olma” deyimine verilecek anlam son derece önemlidir. Gerçekten kusursuz olmadan maksat acaba tazminat talebinde bulunacak eşin “mutlak kusursuzluğu” mudur? Başka bir söyleyişle “kusursuz eş” deyiminden, boşanmada en küçük bir kusuru bile bulunmayan eşi mi anlamak gerekir?
 
 ## Yargıtay HGK 2005/99 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76612400)
 
 Türk Medeni Kanunun 166.maddesi hükmünü tamamen kusurlu eşin de dava açabileceği ve yararına boşanma hükmü elde edebileceği biçiminde yorumlamamak ve değerlendirmemek gerekmektedir. Çünkü böyle bir düşünce kimsenin kendi eylemine ve tamamen kendi kusuruna dayanarak bir hak elde edemeyeceği yönündeki temel hukuk ilkesine aykırı düşer. Diğer taraftan gene böyle bir düşünce tek taraflı irade ile sistemimize aykırı bir boşanma olgusunu ortaya çıkarır. Boşanmayı elde etmek isteyen kişi karşı tarafın hiçbir eylem ve davranışı söz konusu olmadan, evlilik birliğini, devamı beklenmeyecek derecede temelinden sarsar, sonrada mademki birlik artık sarsılmış diyerekten boşanma doğrultusunda hüküm kurulmasını talep edebilir.
 

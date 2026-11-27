@@ -22,160 +22,236 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2020/5866 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617019800)
+
 Taraflar bölge adliye mahkemesinin esastan ret kararından sonra müştereken sundukları 11.09.2020 tarihli dilekçede anlaştıklarını bildirerek, dilekçe ekinde anlaşmalı boşanma protokolü ibraz etmişlerdir. Hal böyle iken, bölge adliye mahkemesi kararının kaldırılmasına ve ibraz edilen anlaşmalı boşanma protokolü uyarınca karar verilmek üzere dosyanın ilk derece mahkemesine gönderilmesine karar vermek gerekmiştir.
 
 ## Yargıtay 2. HD 2020/5488 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/616380800)
 
 Anlaşmalı boşanma Türk Medeni Kanunu’nun 166/3. maddesinde düzenlenmiş olup, evlililiğin en az 1 yıl sürmüş olması, tarafların boşanma ve boşanmanın ferileri olan velayet, nafaka (TMK 169-175) ve maddi ve manevi tazminat (TMK. 174/1-2) hususunda anlaşması ve bu anlaşmanın hakim tarafından kabul edilmesi zorunlu unsurlarını barındırır. Taraflar anlaşmalı boşanma mutabakatında boşanmanın feri unsurları yanında ihtiyari olarak, ziynet ve ev eşyalarının paylaşımı, aralarındaki mal rejiminin tasfiyesi gibi hususlarda anlaşabilecekleri gibi, mal rejiminin tasfiyesi kapsamında yahut bundan bağımsız olarak bir kısım gayrimenkulün yahut sicile kayıtlı olan menkullerin tescili, menkullerin teslimi, bir miktar paranın ödenmesi, hisse devri ve bunun gibi bir çok hususu anlaşma boşanma protokolüne derc edebilirler. Anlaşmalı boşanma hükmünün kesinleşmesi ile birlikte boşanmanın feri niteliğinde olup olmadığına bakılmaksızın taraflara boşanma protokolünde yüklenilen edimler artık boşanmanın ayrılmaz bir parçası haline gelir. Boşanma protokolünde taraflara yüklenen edimlerin sebebi de tarafların iradeleri gereği münhasıran boşanma hükmüne bağlıdır.
 Bu sebeple boşanma protokolünden kaynaklanan edimlerin yerine getirilmesi aşamasında ortaya çıkan uyuşmazlıklarda, boşanma protokolünde yazılı olan…
 
 ## Yargıtay 2. HD 2020/5431 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645140800)
+
 "Davacının davalı aleyhine 25/04/2012 tarihinde açtığı anlaşmalı boşanma davasında, tarafların boşanma ve diğer hususlarda anlaştıklarına ilişkin ibraz edilen protokol ve tarafların duruşmadaki beyanları doğrultusunda davanın kabulüne karar verildiği ve hükmün temyiz edilmeksizin kesinleştiği anlaşılmıştır. 4721 sayılı Türk Medenî Kanununun 166 ncı maddesinin üçüncü fıkrası hükmüne göre, en az bir yıl sürmüş evliliklerde eşlerin birlikte başvurması ya da bir eşin diğerinin davasını kabul etmesi halinde evlilik birliği temelinden sarsılmış sayılır. Bu halde dahi boşanma kararı verilebilmesi için, hâkimin bizzat tarafları dinleyerek iradelerinin serbestçe açıklandığına kanaat getirmesi ve boşanmanın malî sonuçları ile çocukların durumu hususunda taraflarca kabul edilecek düzenlemeyi uygun bulması gerekmektedir.Hâkim, tarafların ve çocukların menfaatlerini göz önünde tutarak bu anlaşmada gerekli gördüğü değişiklikleri yapabilir. Bu değişikliklerin taraflarca da kabulü hâlinde boşanmaya hükmolunur. 6098 sayılı Türk Borçlar Kanununun 26 ncı maddesine göre taraflar, kural olarak bir sözleşmenin içeriğini, kanunda öngörülen sınırlar içinde özgürce belirleyebilirler.
 Aynı Kanunun 27 nci maddesine göre ise, kanunun emredici hükümlerine, ahlaka, kamu düzenine, kişilik haklarına aykırı veya konusu imkansız olan sözleşmeler kesin olarak hükümsüzdür. Sözleşmenin içerdiği hükümlerden bir kısmının hükümsüz olması diğerlerinin geçerliliğini etkilemez. Ancak, bu hükümler olmaksızın sözleşmenin yapılmayacağı, açıkça anlaşılırsa, sözleşmenin tamamı hükümsüz olur. Borçlar Kanununda yer alan, sözleşme özgürlüğüne getirilen genel nitelikteki bu sınırlamalar, boşanma anlaşmaları için de evleviyetle geçerlidir. Çünkü, 6098 sayılı Türk Borçlar Kanununun 646 ncı maddesine göre, Borçlar Kanunu Türk Medenî Kanununun Beşinci Kitabı olup, onun tamamlayacısıdır. O halde hakim, kanunun emredici hükümlerine, ahlaka, kamu düzenine, kişilik haklarına aykırı ve konusu imkansız olan hükümler taşıyan bir boşanma protokolünü esas alarak boşanma kararı veremez ve böyle bir protokolü tasdik edemez. Ayrıca müşterek çocukların menfaatinin gerektirdiği durumlarda protokolde gerekli değişikliklerin yapılmasını taraflardan isteyebilecektir. Somut olayda, taraflarca düzenlenen protokolde müşterek…
 
 ## Yargıtay 2. HD 2020/1743 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578999800)
+
 Feragat edilen dava münhasıran TMK'nın 166/3. maddesine dayalı olarak açılmışsa, anlaşmalı boşanma davasından feragat, dava tarihinden önceki olayların affedildiği sonucunu doğurmaz. O halde, taraflardan biri feragatle sonuçlanan anlaşmalı boşanma davasının dava tarihinden önceki vakıalara dayanarak herhangi bir boşanma sebebine dayalı olarak boşanma davası açabilir. Açılan davada anlaşmalı boşanma davasının dava tarihinden önceki vakıaların da kusur belirlemesinde dikkate alınması gerekir.
 
 ## Yargıtay 2. HD 2019/6468 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/533797400)
 
 Olayları açıklamak taraflara, hukuki nitelendirme hakime aittir. Dava taraflarca düzenlenen protokolde yazılı olan, ancak kesinleşen anlaşmalı boşanma hükmünde yer almayan bir talebin yerine getirilmesine ilişkindir. 4787 sayılı Aile Mahkemelerinin Kuruluş Görev ve Yargılama Usullerine Dair Kanun’un, 5133 sayılı Kanunda değişik 4/1. maddesi uyarınca, 4721 sayılı Türk Medeni Kanunu’nun üçüncü kısmı hariç olmak üzere, ikinci kitabından kaynaklanan davalara aile mahkemelerinde bakılır. Görev kamu düzenine ilişkindir. Mahkemece yargılamanın her aşamasında dikkate alınması zorunludur. Davacı kadının isteği Türk Medeni Kanunu’nun ikinci kitabından kaynaklanmadığı ve genel hükümlere göre Asliye Hukuk Mahkemelerinin görevli olduğu anlaşılmakla, görevsizlik kararı verilmesi gerekirken, davanın hukuki nitelendirilmesinde hataya düşülerek yazılı şekilde hüküm tesisi usul ve yasaya aykırı bulunmuştur.
 
 ## Yargıtay 2. HD 2019/2956 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504052900)
+
 Türk Medeni Kanununu'nun 181/2. maddesine göre, boşanma davası devam ederken, ölen eşin mirasçılarından birisinin davaya devam etmesi ve diğer eşin kusurunun ispatlanması halinde, sağ eş, ölen eşin yasal mirasçısı olamaz ve boşanmadan önce yapılmış olan ölüme bağlı tasarruflarla kendisine sağlanan hakları, aksi tasarruftan anlaşılmadıkça kaybeder. Ölen eşin mirasçılarının, Türk Medeni Kanunu'nun 181/2. maddesinde düzenlenen haklarını kullanabilmeleri için en önemli koşul, murisin sağlığında açılmış, ve ölümünden sonra da devam eden bir boşanma davasının bulunmasıdır. Türk Medeni Kanunu'nun 181/2. maddesine göre ölen eşin mirasçılarının hak ve yetkileri, murislerinin sağlığında davacı veya davalı sıfatıyla kendilerine tanınan hak ve yetkilerle sınırlıdır. Dava, anlaşmalı boşanma davası ( TMK m. 166/3) olarak açılmış olup, çekişmeli boşanma davası bulunmamaktadır. Türk Medeni Kanunu'nun 181. maddesi ile mirasçılara tanınan davayı devam ettirme hakkı için, devam ettirilen davada sağ kalan eşin kusurunun ispatlanması zorunluluktur. Bu ise ancak "Sağ kalan eşin kusurunun ispatlanma olanağı bulunan" davalarda gerçekleştirilebilir.
 
 ## Yargıtay 2. HD 2018/14580 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467752700)
 
 Yapılan yargılama ve toplanan delillerden; davacı erkeğin açtığı davada mahkemece Türk Medeni Kanunu'nun 166/3. maddesi uyarınca tarafların anlaşmalı olarak boşanmalarına karar verildiği, taraflarca düzenlenen ve mahkemece onaylanan 20.04.2015 tarihli anlaşmalı boşanma protokolünün 3. maddesinde davacı erkeğin çocuklar için 1.000,00 TL nafaka ödemesinin kararlaştırıldığı, 03.07.2015 tarihli duruşmada da davacı erkeğin protokolü aynen kabul ettiğini beyan ettiği; mahkemece "müşterek çocuklar için aylık 1.000,00 TL tedbir ve iştirak nafakanın davalıdan alınarak davacıya verilmesine" şeklinde hüküm kurulmasının maddi hata niteliğinde olduğu anlaşılmış olup, mahkemece tavzih talebinin kabulüne karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmemiş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/13958 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466147400)
+
 Boşanma veya ayrılığın fer'î sonuçlarına ilişkin anlaşmalar, hâkim tarafından onaylanmadıkça geçerli olmaz (TMK m. 184/5). Davacı-karşı davalının, davalı-karşı davacı adına kayıtlı 6932/7 parsel sayılı 9 numaralı konut niteliğindeki taşınmazın tapu kaydına ortak çocuğun ergin olacağı tarihe kadar 3. kişilere satışının engellenmesi bakımından şerh konulması davası bakımından düzenlenen ek protokolün boşanma davası sırasında hakim tarafından onaylanmadığı ve hükme esas alınmadığı nazara alındığında, taraflar arasında yapılan bu ek protokol, genel hükümlere tabi bir sözleşme niteliğinde olup uyuşmazlık aile hukukundan kaynaklanmamaktadır. Görev kamu düzenindendir ve mahkemece yargılamanın her aşamasında re'sen gözetilir (HMK m. 1). Gerçekleşen bu durum karşısında mahkemece temyize konu bu uyuşmazlık hakkında uyuşmazlığın genel yetkili mahkemelerin görev alanı kapsamında kaldığı gözetilerek görevsizlik kararı verilmesi gerekirken, yazılı şekilde işin esasına girilerek hüküm kurulması doğru görülmemiş, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2018/12450 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/460681000)
 
 Türk Medeni Kanunu'nun 166/3 maddesi “Evlilik en az bir yıl sürmüş ise, eşlerin birlikte başvurması ya da bir eşin diğerinin davasını kabul etmesi halinde, evlilik birliği temelinden sarsılmış sayılır. Bu halde boşanma kararı verilebilmesi için, hakimin tarafları bizzat dinleyerek iradelerinin serbestçe açıklandığına kanaat getirmesi ve boşanmanın mali sonuçları ile çocukların durumu hususunda taraflarca kabul edilecek düzenlemeyi uygun bulması şarttır. Hakim, tarafların ve çocukların menfaatlerini göz önünde tutarak bu anlaşmada gerekli gördüğü değişiklikleri yapabilir. Bu değişikliklerin taraflarca da kabulü halinde boşanmaya hükmolunur. Bu halde tarafların ikrarlarının hakimi bağlamayacağı hükmü uygulanmaz" demekle; Türk Medeni Kanunu'nun 166/3 maddesi uyarınca boşanma kararı verildiği hallerde hakimin re'sen hareket edemeyeceğini düzenlemiştir. Dosyaya sunulan 22.09.2016 havale tarihli anlaşma protokolünde ortak çocuk için iştirak nafakasına yönelik hüküm bulunmamaktadır. Mahkemece protokolde değişiklik yapılarak çocuk için davalı tarafından iştirak nafakası ödenmesine karar verildiği anlaşılmaktadır.
 Hakim tarafların ve çocuğun menfaatini göz önünde tutarak anlaşmada gerekli gördüğü değişiklikleri yapabilirse de, yapılan değişiklik hakkında tarafların beyanları alınmadan yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2018/12237 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463641400)
+
 TEFE-TÜFE oranında artış Türk Lirası ile hükme bağlanan borç alacak ilişkilerindeki yıllık artış hesaplamalarında esas alınabilir. Taraflarca hazırlan protokolde belirlenen ve mahkemece onaylanıp hükme bağlanan, ortak çocuklar ve davalı kadın lehine hükmedilen iştirak ve yoksulluk nafakalarının Euro cinsinden ödenmesine karar verildiği halde ayrıca her yıl TEFE-TÜFE yıllık değişim ortalaması oranında artış yapılmasına karar verilmesi doğru olmadığından, protokol hükmünün 3-1 ve 4-2 maddelerinde geçen ve boşanma ilamının hüküm fıkrasının 4. bendi ile onaylanan Euro cinsinden belirlenen nafakalara TEFE-TÜFE yıllık değişim ortalaması oranında artış uygulanmasına ilişkin hükmün kaldırılmasına karar verilmesi gerektiği halde, talebin reddine karar verilmesi doğru olmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/11236 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451380300)
 
 Taraflar, Türk Medeni Kanunu'nun 166/3. maddesi uyarınca boşanmışlar, hüküm davalı tarafından temyiz edilmiş, temyiz isteğinden sonra davalı kadın tarafından ... 2. Aile mahkemesinde derdest boşanma davası açılmıştır. Anlaşmalı boşanma yönünden oluşan karar kesinleşinceye kadar eşlerin bu yöndeki, diğer bir ifadeyle gerek boşanmanın mali sonuçları, gerekse çocukların durumu hususunda kabul edilen düzenlemeleri kapsayan irade beyanından dönmesini engelleyici yasal bir hüküm bulunmamaktadır. Bu halde anlaşmalı boşanma davasının "çekişmeli boşanma" (TMK m. 166/1-2) olarak görülmesi gerekir. Davalar arasında bağlantı bulunması durumunda ise, davaların birleştirilmesine karar verilir (HMK m. 166/1). Davaların aynı veya birbirine benzer sebeplerden doğması, ya da biri hakkında verilecek hükmün diğerini etkileyecek nitelikte bulunması durumunda bağlantı var sayılır (HMK m, 166/4). Boşanma davalarında tarafların kusurlarının belirlenmesi, boşanmanın eki niteliğinde bulunan maddi-manevi tazminat (TMK m.
 174/1-2), yoksulluk nafakası (TMK m. 175) gibi taleplerin sağlıklı değerlendirilerek doğru karar verilebilmesi, bu davaların birlikte görülmesi ve delillerin birlikle değerlendirilmesiyle mümkündür.
 
 ## Yargıtay 2. HD 2018/8012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427562400)
+
 Yapılan yargılama ve toplanan delillerden; davacı kadının açtığı davada mahkemece Türk Medeni Kanununun 166/3. maddesi uyarınca tarafların anlaşmalı olarak boşanmalarına karar verildiği, taraflarca düzenlenen 29.03.2011 tarihli anlaşmalı boşanma protokolünün 3. maddesinde davalı erkeğin davacı kadın yararına 200TL nafaka ödemesinin kararlaştırıldığı, 04.04.2011 tarihli duruşmada da davalı erkeğin protokolü aynen kabul ettiğini beyan ettiği, mahkemece verilen boşanma kararından sonra da uzunca bir süre davalı erkeğin davacı kadına yoksulluk nafakası ödemeye devam ettiği anlaşılmaktadır. Ne var ki; mahkemece "davalı için aylık 200TL nafakanın davacıdan alınarak davalıya verilmesine" şeklinde hüküm kurulmasının maddi hata niteliğinde olduğu anlaşılmakta olup, mahkemece tavzih talebinin kabulüne karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmemiş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/7624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427823900)
 
 Toplanan delillerden; mahkemenin de kabulünde olduğu üzere erkeğin eşinin rahatsızlığıyla ilgilenmemesi olayından sonra evlilik birliğinin devam ettiği ve böylece kadının erkeği affettiği en azından hoşgörüyle karşılamış sayılması gerektiği anlaşılmaktadır. Davalı erkek cevap dilekçesinde eşinin ortak konutu terk ettiğini ileri sürmüşse de; terk (TMK m.164) hukuksal nedenine dayalı bir davası bulunmadığından; Türk Medeni Kanunu'nun 166/1. Maddesine dayalı olarak açılan bu davada bu olaya dayalı olarak kadına kusur yüklenemez. Tarafların sonrasında ise herhangi bir kusurlu davranışı kanıtlanamamış olup, her iki eş de kusursuzdur. Anlaşmalı boşanma (TMK m.166/3) dışında davalının kabulü boşanmayı sağlayıcı değildir. O halde davalının boşanmayı kabulü sonuç doğurmaz. Durum böyleyken mahkemece davanın reddine karar verilmesi gerekirken; yetersiz gerekçeyle boşanma kararı verilmesi doğru değilse de; boşanma hükmü temyiz edilmediğinden bu husus bozma nedeni yapılmamış; yanlışlık eleştirilmekle yetinilmiştir.
 
 ## Yargıtay 2. HD 2018/6552 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422241500)
+
 Türk Medeni Kanununun 166/1-2 maddesi uyarınca; boşanma kararı verilebilmesi için evlilik birliğinin, ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir, Mahkemenin de kabulünde olduğu üzere, Türk Medeni Kanununun 166/1. maddesinde yer alan temelinden sarsılma durumunu kabule elverişli davalı erkeğin kusurlu bir davranışı ispatlanamamıştır Boşanma davalarında anlaşmalı boşanma (TMK.md. 166/3) koşulları gerçekleşmedikçe, davalının davayı kabulü hukuki sonuç doğurmaz (TMK.md. 184/3). Bu durumda açıklanan nedenle isteğin reddi gerekirken, yasa hükümlerinin yorumunda yanılgıya düşülerek boşanmaya karar verilmesi usul ve kanuna aykırıdır. Ancak bu yön temyiz edilmediğinden, bozma nedeni yapılmamış yanlışlığa değinilmekle yetinilmiştir.
 
 ## Yargıtay 2. HD 2018/1051 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402249000)
 
 Davacı kadın Türk Medeni Kanununun 166/3. maddesi uyarınca anlaşmalı boşanma talebinde bulunmuş, dilekçeler teatisi aşaması tamamlanmadan ön inceleme duruşma günü verilmiş, davacı kadın tarafından ön inceleme duruşmasında nafaka isteminde bulunulmuş ancak davalı erkek tarafından bu istem açıkça kabul edilmemiştir. Anlaşmalı boşanma yönünde karar kesinleşinceye kadar eşlerin bu yöndeki diğer bir ifadeyle gerek boşanmanın mali sonuçları, gerekse çocukların durumu hususunda kabul edilen düzenlemeleri kapsayan irade beyanından dönmesini engelleyici yasal bir hüküm bulunmamaktadır. Bu halde anlaşmalı boşanma davasının "çekişmeli boşanma" (TMK m. 166/1-2) olarak görülmesi, mahkemece taraflara iddia ve savunmalarının dayanağı bütün vakıaların sıra numarası altında açık özetlerini içeren beyan ile iddia ve savunmanın dayanağı olarak ileri sürülen her bir vakıanın ispatını sağlayacak delillerini sunmak ve dilekçelerin karşılıklı verilmesini sağlamak üzere süre verilip ön inceleme yapılarak tahkikata geçildikten sonra usulüne uygun şekilde gösterilen deliller toplanarak gerçekleşecek sonuca göre karar verilmesi gerekmektedir.
 Ne var ki hüküm sadece yoksulluk nafakası yönünden temyiz edilmiş durumdadır. Bu durumda, davacı kadının nafaka talebinin, süresinde olduğunun kabul edilmesi gerekir. O halde mahkemece davacı kadının yoksulluk nafakası konusunda olumlu ya da olumsuz bir karar verilmesi gerekirken, yoksulluk nafakası talebi konusunda karar verilmesine yer olmadığına şeklinde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2017/14728 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385004600)
+
 Sözleşme yapıldığında karşılıklı edimler arasında mevcut olan denge sonradan şartların olağanüstü değişmesiyle taraflardan biri aleyhine katlanamayacak derecede bozulmuşsa, taraflar; artık o akitle bağlı tutulmazlar, değişen bu koşullar karşısında Türk Medeni Kanununun 2. maddesinden yararlanarak sözleşmenin yeniden düzenlenmesini mahkemeden isteyebilirler. Mahkemece yaptırılan tarafların sosyal ve ekonomik durum araştırmalarında; davacı-davalı kadının yaklaşık 1.000,00 TL emekli maaş gelirinin ve .../... adresinde bir adet konut niteliğinde taşınmazının bulunduğu, buna karşılık davalı-davacı erkeğin ise yaklaşık aylık 1.250,00 TL emekli maaş gelirinin olduğu tespit edilmiştir.
 Somut olayda tarafların anlaşmalı olarak boşanmalarına ilişkin kararın 27.04.1999 tarihinde kesinleştiği gözetilerek tarafların açtıkları davaların tarihine kadar geçen süre de dikkate alındığında, tarafların anlaşmalı boşanma protokolünü düzenledikleri tarihteki ve açtıkları dava tarihlerindeki sosyal ve ekonomik durumlarının emekli maaş bilgileri ilgili kurumdan istenerek araştırılması, boşanma protokolünde anne ile birlikte yaşayacağı belirtilen ortak çocuğun halen anne ile birlikte yaşayıp yaşamadığının tespit edilmesi, tarafların olağan yaşam gereksinimlerinin ve davacı-davalı kadına ait olduğu belirtilen taşınmazın edinilme tarihinin detaylı olarak belirlenmesi ile yukarıda açıklanan ilkeler doğrulusunda Türk Borçlar Kanunu'nun 138. maddesinde düzenlenen aşırı ifa güçlüğüne dayanan uyarlama istemi yönünden davalı-davacının talebinin değerlendirilmesi ve gerçekleşecek sonucu uyarınca Türk Medeni Kanununun 4. maddesinde düzenlenen hakkaniyet ilkesi de gözetilerek bir karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2017/14553 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385997600)
 
 Tarafların 09.10.2006 tarihinde kesinleşen ilamla Türk Medeni Kanununun 166/3 maddesi uyarınca boşandıkları, taraflar arasında görülen anlaşmalı boşanma davasında imzalanan ve hakim tarafından kararın eki sayılmasına karar verilen protokol ile davacı adına kayıtlı olan kooperatif hissesinin kadına ait olduğu, bu hissenin aylık ödemelerinin, hisseye ilişkin borçlar ödenip tamamlandıktan sonra gerekli devir ve tapu işlemleri için yapılacak masrafların da davalı erkek tarafından ödeneceği, mobilya masrafı olan 6500 TL ve üçüncü şahsa olan borcun da erkek tarafından ödeneceğinin kararlaştırıldığı anlaşılmaktadır. Davacı bu ödemelerin kendisi tarafından yapıldığını, anlaşmalı boşanma ve protokol uyarınca davalıdan tahsil edilmesi için icra takibi yaptığını, davalının takibe itiraz etmesi nedeniyle takibin durduğunu belirterek, itirazın iptaline ve takibin devamına karar verilmesini talep ve dava etmiştir. Bu halde dava, anlaşmalı boşanma protokolünden kaynaklanan alacağa ilişkin yapılan takibe itirazın iptaline ilişkindir. İtirazın iptali davasına bakmakla aile mahkemesi görevlidir (4787 s. K. m.4/1).
 Göreve ilişkin kurallar kamu düzeninden olup, taraflarca ileri sürülmese bile hakim tarafından davanın her aşamasında re'sen gözetilir. Bu açıklamaya göre görevsizlik kararı verilmesi gerekirken, işin esasının incelenmesi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2017/13506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/383017500)
+
 Davacı kadın Türk Medeni Kanununun 166/3. maddesine dayalı olarak anlaşmalı boşanma talebiyle dava açmıştır. Davacı kadın tarafından verilen dava dilekçesi anlaşmalı boşanma esaslarına göre düzenlenmiştir. Anlaşmalı boşanma koşulları gerçekleşmediğine göre mahkemece taraflara iddia ve savunmalarının dayanağı bütün vakıaların sıra numarası altında açık özetlerini içeren beyan ile iddia ve savunmanın dayanağı olarak ileri sürülen her bir vakıanın ispatını sağlayacak delillerini sunmak ve dilekçelerin karşılıklı verilmesini sağlamak üzere süre verilip ön inceleme yapılarak tahkikata geçildikten sonra usulüne uygun şekilde gösterilen deliller toplanarak gerçekleşecek sonucu uyarınca karar verilmesi gerekirken açıklanan bu hususlara riayet edilmeksizin yazılı şekilde davanın reddine karar verilmesi doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2017/11884 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/380087900)
 
 Yapılan yargılama ve toplanan delillerden tarafların 18.02.2014 tarihinde kesinleşen kararla anlaşmalı olarak boşandıkları, boşanma hükmüne de geçen boşanma protokolüne göre davalı adına kayıtlı dava konusu taşınmazın Haziran 2014 tarihinden sonra tarafların rızası veya yapılacak kıymet taktiri sonucu çıkacak bedelle satılmasına ve taşınmazın satılması halinde elde edilecek gelirin paylaşılmasına karar verildiği, eldeki davanın ise 15.12.2014 tarihinde açıldığı anlaşılmaktadır. Taraflar arasında yapılan anlaşmada dava konusu taşınmazın 2014 Haziran sonrasında satılacağı kararlaştırılmış olup taşınmazın 2014 yılı Haziran ayından sonra hangi sürede satılacağına ilişkin bir tarih belirtilmediği gibi taşınmazın bedeline ilişkin bir düzenlemede mevcut değildir. Bu sebeple davalı kadının protokolün gereklerini yerine getirmediğinden söz edebilmek için protokolde belirlenen tarihten itibaren makul bir sürenin geçmesi gereklidir. Hayatın olağan akşına göre protokolde belirlenen 2014 yılı Haziran ayı sonrası ile davanın açıldığı tarih arasında geçen süre dikkate alındığında dava konusu iki katlı binanın satışı konusunda makul sürenin geçtiğinden söz edilemez.
 
 ## Yargıtay 2. HD 2017/9546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/366068700)
+
 Davayı, sağ eş olan kadın taraflarca imzalanan anlaşma protokolüne göre açmıştır. Ölen eş tarafından açılmış bir çekişmeli boşanma davası bulunmamaktadır. Türk Medeni Kanunun 181. maddesi ile mirasçılara tanınan davayı devam ettirme hakkı için, devam ettirilen davada sağ kalan eşin kusurunun ispatlanması zorunluluktur. Bu ise ancak "sağ kalan eşin kusurunun ispatlanma olanağı bulunan" davalarda gerçekleştirilebilir. Anlaşmalı boşanma davasında, mirasçılar sağ kalan eşin herhangi bir kusurunu kanıtlayamayacaktır. Bu tür boşanma davalarında sağ kalan eşin kusurunu ölen eş bile tartışmaz ve dahi tartışmaya açmazken ölenin mirasçılarının bunu gerçekleştirmesi kabul edilemez. O halde mahkemece ölüm sebebiyle "boşanma davası konusuz kaldığından karar verilmesine yer olmadığına" karar verilmesi ile yetinilmesi gerekirken, sağ eşin kusurlu olduğunun tespitine de karar verilmesi doğru görülmemiş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2017/8603 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/365090400)
 
 Davacı erkek tarafından açılan ilk dava Türk Medeni Kanununun 166/3 maddesine dayalı olarak açılmıştır. İş bu dava ise Türk Medeni Kanununun 166/1 maddesine dayalı olarak açılmış ve davacı erkek tarafından açılan bu davada yeni vakıalara dayanılmıştır. Davacı erkek bu davada önceki davadaki olaylar dışında aldatma vakıasına dayanmıştır. Derdest bir davadan söz edilebilmesi için davaların taraflarının, konusunun ve dava sebebinin aynı olması gerekir. Bu sebeple derdest davadan söz edilemez. Mahkemece koşulları bulunmadığı halde Hukuk Muhakemeleri Kanununun 114/1-ı ve 115. maddesi uyarınca davanın derdestlikten reddi doğru olmayıp, usul ve yasaya aykırıdır. O halde, işin esasının incelenmesi ve sonucu uyarınca karar verilmesi gerekirken, yazılı şekilde davanın derdestlikten reddi doğru bulunmamış, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2017/3524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/322489500)
+
 Karşılıklı olarak açılan boşanma davalarının kabulüne karar verilerek, tarafların Türk Medeni Kanununun 166/3. maddesi uyarınca boşanmalarına hükmedilmiştir. Anlaşmalı boşanma yönünde oluşan karar kesinleşinceye kadar eşlerin bu yöndeki diğer bir ifadeyle gerek boşanmanın mali sonuçları, gerekse çocukların durumu hususunda kabul edilen düzenlemeleri kapsayan irade beyanından dönmesini engelleyici yasal bir hüküm bulunmamaktadır. Türk Medeni Kanununun 166/3. maddesi gereğince boşanmalarına karar verilse dahi tarafların anlaşmalı boşanma hükmünü gerçekleşen anlaşmaya rağmen temyiz etmesi davadan açıkça feragat etmedikçe anlaşmalı boşanma yönündeki iradesinden rücu niteliğinde olup, bu halde anlaşmalı boşanma davasının "çekişmeli boşanma" (TMK m. 166/1-2) olarak görülmesi gerekir.
 
 ## Yargıtay 2. HD 2017/2016 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/318334300)
 
 Anlaşmalı boşanma yönünde oluşan karar kesinleşinceye kadar eşlerin bu yöndeki diğer bir ifadeyle gerek boşanmanın mali sonuçları, gerekse çocukların durumu hususunda kabul edilen düzenlemeleri kapsayan irade beyanından dönmesini engelleyici yasal bir hüküm bulunmamaktadır. Bu halde anlaşmalı boşanma davasının "çekişmeli boşanma" (TMK m.166/1-2) olarak görülmesi gerekir. Şu hale göre, tarafların anlaşmalı boşanma davası açılırken delil bildirme haklarından feragat etmeleri, münhasıran anlaşmalı boşanma talebine ilişkin olarak değerlendirilmesi gerekir.
 
 ## Yargıtay 2. HD 2017/239 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/294772300)
+
 Taraflar 23.03.2015 tarihinde kesinleşen karar ile anlaşmalı olarak boşanmışlar ve velayet davalı anneye verilmiştir. Bu dava ise, 18.11.2015 tarihinde açılmıştır. Anlaşmalı boşanma davasından sonra davalı annenin velayet görevini kötüye kullandığı veya ihmal ettiği kanıtlanamadığı gibi annenin kişisel ilişkiye engel olduğu iddiası da kanıtlanamamıştır. Ortak çocuk anne bakım ve şefkatine muhtaç yaşta olup, annesinin yanında kalmasına engel teşkil edecek bedeni, fikri ve ahlaki gelişimini olumsuz etkileyecek herhangi durumun da tespit edilmemesi dikkate alındığında, velayetin değiştirilmesini gerektirir koşulların oluşmadığı anlaşılmaktadır. O halde, mahkemece velayetin değiştirilmesi davasının reddi gerekirken, yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2016/14437 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/327375000)
 
 Türk Medeni Kanununun 166/3. maddesindeki anlaşmalı boşanmaya ilişkin düzenlemeye göre; "Evlilik en az bir yıl sürmüş ise, eşlerin birlikte başvurması ya da bir eşin diğerinin davasını kabul etmesi halinde, evlilik birliği temelinden sarsılmış sayılır. Bu halde, boşanma kararı verilebilmesi için, hakimin tarafları bizzat dinleyerek iradelerinin serbestçe açıklandığına kanaat getirmesi ve boşanmanın mali sonuçları ile çocukların durumu hususunda taraflarca kabul edilecek düzenlemeyi uygun bulması şarttır. Hakim, tarafların ve çocukların menfaatlerini göz önünde tutarak bu anlaşmada gerekli gördüğü değişiklikleri yapabilir. Bu değişikliklerin taraflarca da kabulü halinde boşanmaya hükmolunur. Bu halde tarafların ikrarlarının hakimi bağlamayacağı hükmü uygulanmaz."…
 
 ## Yargıtay 2. HD 2016/13138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/270637800)
+
 Taraflar 27.06.2016 tarihli anlaşmalı boşanma protokolünü mahkemeye ibraz ederek bu protokol uyarınca karar verilmesini istemişler, duruşmada protokolün 5. maddesindeki düzenlemeyi değiştirerek, 2012 yılında... kredi kullanılarak davacı adına alınan, ortak kullanılan evin, müşeterek çocuklar adına eşit hisseyle devredileceği, ancak davacının bahsi geçen evde ömür boyu oturmaya devam edeceğini kabul ettiklerini beyan etmişlerdir. Hakim bu düzenlemeye müdahale etmediği halde gerekçeli kararın hüküm fıkrasında davacının çocuklarına devredeceği evde ömür boyu oturmaya devam edeceği konusunda bir karar verilmemesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2016/12688 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/229997000)
 
 Erkeğin açtığı davada mahkemece Türk Medeni Kanununun 166/3. maddesi uyarınca verilen anlaşmalı boşanma kararı taraflarca temyiz hakkından feragat edilerek kesinleşmiş, boşanma protokolüne uygun olarak velayeti anneye bırakılan müşterek çocuk ile baba arasında düzenlenen kişisel ilişki davalı kadının talebi üzerine mahkemenin 23.05.2016 tarihli tavzih kararıyla değiştirilmiştir.
 
 ## Yargıtay 2. HD 2016/12382 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/220071600)
+
 Taraflar arsında görülen anlaşmalı boşanma davasında, velayeti anlaşma uyarınca anneye bırakılan ortak çocuk ile baba arasındaki kişisel ilişki konusunda herhangi bir düzenleme yapılmayarak, konu hakimin takdirine bırakılmıştır. Bu durumda mahkemece yapılacak iş, kişisel ilişki konusunda taraflara bir öneride bulunmak, öneri kabul edildiği takdirde buna göre karar vermek, kabul edilmediği ve taraflarca anlaşmaya varılarak bir düzenleme de yapılmadığı takdirde, dava Türk Medeni Kanununun 166/1. maddesi uyarınca çekişmeli boşanma olarak sürdürülüp sonucu uyarınca karar vermekten ibarettir. Yasal koşullar oluşmadan, Türk Medeni Kanununun 166/3.maddesi uyarınca anlaşmalı boşanmaya karar verilmesi usul ve yasaya aykırı olup, hükmün bu sebeple bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 3. HD 2016/8682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/219671900)
 
 Müşterek çocuğun özel okul masraflarına ilişkin davacı tarafından diğer giderler hariç okul masrafı 30.000,00 TL, davalı tarafından kayıt yapılan okulun masrafı ise 17.800,00 TL olarak ileri sürülmektedir. Anlaşmalı boşanma protokolünde; müşterek çocuğun özel okul masrafların davalı baba tarafından karşılanmasına yönelik anlaşma bulunduğuna göre; nafaka miktarının tayini açısından bu hükmün dikkate alınarak özel okul masraflarının araştırılması gerekmektedir.
 
 ## Yargıtay 3. HD 2016/5141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/206387700)
+
 Taraflar TMK. nun 166/3 maddesi çerçevesinde “anlaşmalı olarak” boşanmışlardır. Aralarında yaptıkları protokol, hukuki niteliği itibariyle Medeni Kanun hükümlerinden kaynaklanmakta ise de; genel sözleşme hükümlerine tabidir. Böylece kanunun, emredici nitelikte kamu düzeni ve genel ahlâka aykırı saymadığı hususlarda taraflar serbest iradeleriyle sözleşme yapabileceklerdir (BK. md. 19). Nitekim somut olayda da yoksulluk nafakası tarafların özgür iradeleri ile protokole bağlanmış, boşanma davasında bu anlaşma mahkemece, tarafların sosyal ve ekonomik durumlarına ve de hukuki statüye uygun bulunmuş (TMK. md.184/5), verilen karar temyiz edilmeyerek kesinleşmiştir.
 
 ## Yargıtay 2. HD 2015/21632 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/400634600)
 
 6100 sayılı Hukuk Muhakemeleri Kanununun 297. maddesinin (2). fıkrasında: hükmün sonuç kısmında gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gerektiği, hükme bağlanmıştır. Dava, Türk Medeni Kanununun 166/3. maddesine dayalı anlaşmalı boşanmaya ilişkindir. 29.05.2015 havale tarihli “anlaşmalı boşanma protokolünde” davacı tarafından davalıya yapılacak yardımcı kadın maaşı, aylık kira payı, mal ve servet paylaşımı, ticari ilişkiler, araç vs. dair hükümler mevcuttur. Hüküm fıkrasında ise sadece “taraflar arasındaki yazılı anlaşmanın uygun bulunmasına ve boşanmanın sonuçları konusunda düzenleme olarak onaylanmasına” denilmekle yetinilmiştir. O halde mahkemece yapılacak iş, protokole uygun infazda şüphe ve tereddüte yer vermeyecek şekilde ayrı ayrı hüküm vermekten ibarettir. Bu yön gözetilmeden yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2015/20933 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205269100)
+
 Nafaka iradı, tarafların yaptıkları sözleşmeye dayansa bile şartları oluştuğu takdirde artırılabilir veya azaltılabilir. Aksi düşünce "güven" ilkesine aykırı düşer. Zira davalının sözleşme (protokol) ile elde ettiği "statü"ye beslediği güven, davacı (borçlunun) sosyal ve ekonomik durumunun bu özel statüyü koruyacak seviyeden daha aşağı düşmediği (kötüleşmediği) veya hakkaniyet bunu gerektirmediği sürece sarsılıp boşa çıkarılamaz.
 
 ## Yargıtay 2. HD 2015/19913 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405174000)
 
 Bu şartlara uygun kabul, tarafları da hakimi de bağlar. Böyle bir durumda artık anlaşmalı boşanmaya vücut veren “irade beyanından” dönülemez. Kanun ve usul hükümlerine uygun olarak tarafların boşanma ve fer'ilerinde irade birliğine dayanan bir boşanma kararı, karara esas alınan irade beyanındaki (hata, hile ve ikrah gibi) sakatlık hallerinin varlığı, bu hususta ciddi delillerin gösterilmesi durumunda veya protokol şartlarında kanunun emredici hükümlerine, ahlaka, kamu düzenine ve kişilik haklarına aykırılık taşıması halinde ya da protokol şartlarına aykırı hüküm verilmesi durumunda bozulabilir.
 
 ## Yargıtay 3. HD 2015/19030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143662600)
+
 Nafaka miktarının anlaşmalı boşanma protokolü ile belirlenmiş olması, nafaka alacaklısının çalıştığı işin niteliği ve aldığı ücret, dava tarihindeki şartlara göre nafaka alacaklısının zorunlu ihtiyaçları, ülkedeki ekonomik yapı birlikte değerlendirildiğinde; nafaka miktarında yapılan indirimin fazla olduğu ve TMK'nın 4.maddesinde vurgulanan hakkaniyet ilkesine uygun olmadığı açıktır.
 
 ## Yargıtay 2. HD 2015/6770 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/392433100)
 
 Türk Medeni Kanununun 166/3. maddesi gereğince boşanma kararı verilebilmesi için, davalının davayı “kabul” etmiş olması tek başına yeterli değildir. Bunun yanında hakimin tarafları bizzat dinleyerek iradelerinin serbestçe açıklandığına kanaat getirmesi ve boşanmanın mali sonuçları ile çocukların durumu hususunda taraflarca kabul edilecek düzenlemeyi uygun bulması da şarttır. Hakim, tarafların ve çocukların menfaatini göz önünde tutarak bu anlaşmada gerekli gördüğü değişiklikleri yapabilir. Bu değişikliklerin taraflarca da kabulü halinde boşanmaya hükmolunur. Bu halde, tarafların ikrarlarının hakimi bağlamayacağı hükmü uygulanmaz. Davalı davayı “kabul” etmekle birlikte, taraflar arasında boşanmanın mali sonuçları ve çocukların durumu hususunda bir anlaşma mevcut değildir. Türk Medeni Kanununun 166/3. maddesi gereğince boşanma kararı verilebilmesinin şartları davada gerçekleşmemiştir. Bu durumda, tarafların gösterdikleri ve mahkemece de toplanmış olan delillerin, Türk Medeni Kanununun 166/1-2. maddesi çerçevesinde değerlendirilerek hasıl olacak sonucuna göre hüküm kurulması gerekir.
 Bu husus nazara alınmadan “anlaşmalı boşanma şartları oluştuğundan” söz edilerek yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Yargıtay 3. HD 2015/5889 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141890900)
+
 Tüm bu bilgiler ışığında somut olay irdelendiğinde; tarafların, 30.12.2010 tarihinde kesinleşen kararla anlaşmalı olarak boşandıkları, taraflarca imzalanan protokolün 4.maddesinde davacının, davalıya aylık 500,00 TL yoksulluk nafakası ödemeyi kabul ettiği, anılan protokolün boşanmanın eki niteliğinde kabul edilerek mahkemece, davalı kadın lehine aylık 500,00 TL yoksulluk nafakasına hükmedildiği, boşanmadan sonra tarafların ekonomik ve sosyal durumda olağanüstü bir değişiklik olmadığı anlaşılmaktadır.
 
 ## Yargıtay 3. HD 2015/469 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141172800)
+
 Nafaka, anlaşmalı boşanma protokolü ile belirlense bile, sonraki zamanlarda nafaka borçlusunun sosyal ve ekonomik durumunda elinde olmayan nedenlerle ve iradesi dışında öncekine nispeten önemli ölçüde değişiklik olması ve bu değişiklik neticesinde nafaka borçlusu yönünden mevcut nafaka ve nafaka ile ilgili yükümlülüklerin yerine getirilmesinin çekilemez bir hal alması durumunda nafaka, şartlara göre uyarlanabilir, miktarında indirim yapılabilir. Dolayısıyla, sözleşme yapıldığında karşılıklı edimler arasında mevcut olan denge, sonradan şartların olağanüstü değişmesiyle tarafların biri aleyhine katlanamayacak derecede bozulmuşsa, taraflar artık o akitle bağlı tutulmazlar. Taraflar, TMK'nın 2. maddesinden yararlanarak değişen koşullar karşısında sözleşmenin yeniden düzenlenmesini isteyebilirler.
 
 ## Yargıtay 2. HD 2015/269 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471906500)
 
 Tarafların irade beyanları esas alınarak boşanmalarına karar verilebilmesi için, diğer şartların yanında boşanmanın mali sonuçları ile çocukların durumu hususunda tam olarak anlaşmış olmaları, hakimin de taraflarca kabul edilen düzenlemeyi uygun bulması şarttır. Tazminat haklarının saklı tutulması, bu husustaki ihtilafın devam ettiğini ve bu ihtilafın çözümünün ileriye bırakıldığını gösterir. Başka bir ifade ile “tazminat hakları saklı tutulmak” suretiyle anlaşmalı boşanma kararı verilemez. Bu husus nazara alınmadan “tazminat haklarının saklı tutulması” suretiyle Türk Medeni Kanununun 166/3 maddesi gereğince boşanma kararı verilmesi doğru bulunmamıştır. Taraflar boşanmanın mali sonuçları üzerinde anlaşamadıklarına göre, gösterdikleri deliller toplanarak davanın Türk Medeni Kanununun 166/1-2 madddesi çerçevesinde değerlendirilip, hasıl olacak neticesine göre karar verilmesi gerekirken, bu yön nazara alınmadan hüküm tesisi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.

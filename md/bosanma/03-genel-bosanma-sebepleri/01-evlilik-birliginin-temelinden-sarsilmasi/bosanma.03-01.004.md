@@ -22,145 +22,211 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2021/10060 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/725156300)
+
 Tarafların karşılıklı boşanma davalarına ilişkin yargılama devam ederken, davacı-karşı davalı erkek tarafından ... 2. Aile Mahkemesi'nin 2021/456 Esas sayılı dosyası ile Türk Medeni Kanunu’nun 166/1 maddesine dayalı olarak boşanma davası açılmış ve davasının eldeki dava ile birleştirilmesini talep edilmiştir. Aynı yargı çevresinde yer alan aynı düzey ve sıfattaki hukuk mahkemelerinde açılmış davalar aralarında bağlantı bulunması durumunda, davanın her aşamasında, talep üzerine veya kendiliğinden ilk davanın açıldığı mahkemede birleştirilebilir. Birleştirme kararı, ikinci davanın açıldığı mahkemece verilir ve bu karar, diğer mahkemeyi bağlar (HMK m. 166/1). Davaların aynı veya birbirine benzer sebeplerden doğması, ya da biri hakkında verilecek hükmün diğerini etkileyecek nitelikte bulunması durumunda bağlantı var sayılır (HMK m. 166/4). Evlilik birliği sona erinceye kadar, herhangi bir sebeple açılmış boşanma davalarında taraflara yüklenmiş tüm kusurlar, birlikte değerlendirilip, tarafların kusur oranlarının bir kez belirlenmesi ve belirlenen bu orana göre maddi-manevi tazminatlar ile yoksulluk nafakası konularında her bir taraf yönünden bir kez hüküm kurulması gerekir.
 Tarafların kusurları bölünerek, her bir dava için ayrı kusur belirlemesi yapılıp, fer'i konularda da her bir dava için ayrı hüküm kurmak, Türk Medeni Kanunu'ndaki düzenlemelere (TMK m. 4, 174/1-2, 175) aykırı düşer. Boşanma Hukukunun temel ilkelerinden birinin tarafların kusur belirlemesine ilişkin olduğu, Türk Medeni Kanunu'nun 166/1 maddesine dayanan işbu karşılıklı boşanma davasında, ilk derece mahkemesinin kararı davacı-karşı davalı erkek tarafından kadının boşanma davasının kabulü yönünden kanun yolu başvurularına konu edilmekle; boşanma davalarında tarafların kusurlarının belirlenmesi, boşanmanın eki niteliğinde bulanan tazminatlar, yoksulluk nafakası gibi taleplerin sağlıklı değerlendirilerek doğru karar verilebilmesi bu davaların birlikte görülmesi ve delillerin birlikte değerlendirilmesiyle mümkündür. Bu nedenle, davalar arasında bağlantı bulunduğuna göre eldeki karşılıklı boşanma davası ile erkek tarafından açılmış olan davanın birleştirilerek delillerin birlikte değerlendirilip davaların esası hakkında hüküm kurulması gerektiğinden hükmün bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 2. HD 2021/9026 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723409100)
+
 Adli Tıp Kurumu 4. İhtisas Kurulu’nun mezkur raporunu müteakip davacı tarafından 29/12/2020 tarihinde dava ıslah edilerek tarafların Türk Medeni Kanunu’nun 166. maddesi uyarınca boşanmasına karar verilmesi talep edilmiş ve Mahkemece davalı kadının eylemleri nedeni ile evlilik birliğinin temelinden sarsıldığının kabulü ile tarafların Türk Medeni Kanunu’nun 166/1. maddesi uyarınca boşanmalarına karar verilmiş ise de, Adli Tıp Kurumu 4. İhtisas Kurulu’nun 30/11/2020 tarihli raporu uyarınca hali hazır durumu ile menfaatlerini müdrik ve telkinlere mukavim, kendi hür iradesi istikametinde serbest olarak eylem ve işlemlere girişebileceği tıbbi kanaatine varılan ve bu duruma göre fiili ehliyetine haiz olduğu bildirilen davalı kadın hakkında vesayet makamına ihbarda bulunup, kısıtlılık halinin devam edip etmeyeceği hususunda kadının hukuki durumu vesayet makamında açıklığa kavuşturulduktan sonra eldeki dava yönünden hüküm kurulması gerekirken, yanılgılı değerlendirme sonucu kısıtlılığı devam eden davalı kadın hakkında Türk Medeni Kanunu’nun 166/1. maddesi uyarınca boşanma hükmü kurulması usul ve kanuna aykırı olup hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2021/8687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723293000)
+
 Yapılan yargılama ve toplanan delillerden, davalı kadının Kahramanmaraş'ta bulunan müşterek konutu terk ederek Ankara'ya gittiği, tarafların o tarihten beri fiilen ayrı yaşadıkları sabit ise de davacı erkeğin terk (TMK m.164) hukuksal nedenine dayalı olarak açılmış bir davası bulunmadığından bu vakıa davalı kadına kusur olarak yüklenemez. Türk Medeni Kanununun 166/1-2. maddesi uyarınca boşanma kararı verilebilmesi için; evlilik birliğinin, ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsılmış olduğunun ve sonuçta davalının az da olsa kusurlu bir davranışının usulünce kanıtlanması gerekir. Hüküm davacı erkek tarafından istinaf ve temyiz de edilmediğinden davalı kadına başka bir kusur atfı da mümkün değildir. O halde, ispatlanamayan davanın reddine karar verilmesi gerekirken yazılı şekilde kabulü doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2021/6902 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696448900)
 
 Tarafların karşılıklı boşanma davalarına ilişkin yargılama devam ederken, davalı-karşı davacı kadın tarafından İstanbul 5. Anadolu Aile Mahkemesi'nin 2021/314 Esas sayılı dosyası ile Türk Medeni Kanunu’nun 161. maddesine dayalı olarak boşanma davası açılmış ve davasının eldeki dava ile birleştirilmesini talep edilmiştir. Aynı yargı çevresinde yer alan aynı düzey ve sıfattaki hukuk mahkemelerinde açılmış davalar aralarında bağlantı bulunması durumunda, davanın her aşamasında, talep üzerine veya kendiliğinden ilk davanın açıldığı mahkemede birleştirilebilir. Birleştirme kararı, ikinci davanın açıldığı mahkemece verilir ve bu karar, diğer mahkemeyi bağlar (HMK m. 166/1). Davaların aynı veya birbirine benzer sebeplerden doğması, ya da biri hakkında verilecek hükmün diğerini etkileyecek nitelikte bulunması durumunda bağlantı var sayılır (HMK m. 166/4). Evlilik birliği sona erinceye kadar, herhangi bir sebeple açılmış boşanma davalarında taraflara yüklenmiş tüm kusurlar, birlikte değerlendirilip, tarafların kusur oranlarının bir kez belirlenmesi ve belirlenen bu orana göre maddi-manevi tazminatlar ile yoksulluk nafakası konularında her bir taraf yönünden bir kez hüküm kurulması gerekir.
 Tarafların kusurları bölünerek, her bir dava için ayrı kusur belirlemesi yapılıp, fer'i konularda da her bir dava için ayrı hüküm kurmak, Türk Medeni Kanunu'ndaki düzenlemelere (TMK m. 4, 174/1-2, 175) aykırı düşer. Boşanma Hukukunun temel ilkelerinden birinin tarafların kusur belirlemesine ilişkin olduğu, Türk Medeni Kanunu'nun 166/1 maddesine dayanan işbu karşılıklı boşanma davasında, ilk derece mahkemesinin kararı davalı-karşı davacı kadın tarafından erkeğin boşanma davasının kabulü yönünden kanun yolu başvurularına konu edilmekle; boşanma davalarında tarafların kusurlarının belirlenmesi, boşanmanın eki niteliğinde bulanan tazminatlar, yoksulluk nafakası ve velayet gibi taleplerin sağlıklı değerlendirilerek doğru karar verilebilmesi bu davaların birlikte görülmesi ve delillerin birlikte değerlendirilmesiyle mümkündür. Bu nedenle, davalar arasında bağlantı bulunduğuna göre eldeki karşılıklı boşanma davası ile kadın tarafından açılmış olan davanın birleştirilerek delillerin birlikte değerlendirilip davaların esası hakkında hüküm kurulması gerektiğinden hükmün bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 2. HD 2021/6759 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/701034900)
+
 4721 sayılı Türk Medeni Kanunu'nun 166 ncı maddesinin üçüncü fıkrasında; evlilik en az bir yıl sürmüş ise, eşlerin birlikte başvurması ya da bir eşin diğerinin davasını kabul etmesi hâlinde, evlilik birliğinin temelinden sarsılmış sayılacağı, bu halde boşanma kararı verilebilmesi için, hakimin tarafları bizzat dinleyerek iradelerinin serbestçe açıklandığına kanaat getirmesinin şart olduğu düzenlenmiştir.
 
 ## Yargıtay 2. HD 2021/6718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/701686500)
 
 Türk Medeni Kanunu'nun 166/1-2. maddesi uyarınca boşanma kararı verilebilmesi için evlilik birliğinin ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir. Somut olayda davalı-karşı davacı erkeğin, eşine sürekli şiddet uyguladığı ve sadakatsiz olduğu boşanmaya sebep olan olaylarda erkeğin tam kusurlu olduğu, davalı-davacı kadının ise kusurlu bir davranışının ispatlanamadığı anlaşılmaktadır. Bu durumda bölge adliye mahkemesince davalı-karşı davacı erkeğin istinaf taleplerinin reddine karar verilmesi gerekirken, davasının kabulüne karar verilmesi usul ve kanuna aykırı ise de, kadının kabul edilen boşanma davası temyizin kapsamı dışında bırakılmak suretiyle boşanma hükmü kesinleştiğinden, erkeğin boşanma talebinin konusuz hale geldiği de görülmektedir. Bu durumda erkeğin boşanma davasının esası hakkında bir karar verilemeyecektir. Ancak, davanın konusuz kalması sebebiyle esası hakkında bir karar verilmesine gerek bulunmayan hallerde hakim, davanın açıldığı tarihteki, tarafların haklılık durumuna göre yargılama giderlerini takdir ve tayin eder (HMK m. 331/1).
 Açıklanan sebeple; bu husus gözetilerek bir karar verilmek üzere bölge adliye mahkemesi kararının bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 2. HD 2021/5080 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671934600)
+
 Türk Medeni Kanunu'nun 166/1-2 maddesi uyarınca; boşanma kararı verilebilmesi için evlilik birliğinin, ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir. Kadına kusur olarak yüklenilen hakaret vakıası ilişkin tanık beyanı soyut nitelikte olup, erkeğin bu iddiasını kanıtlamaya elverişli başkaca bir delil de bulunmadığı gibi kadına kusur olarak yüklenilen kocasını odaya almayarak birlikte yaşamaktan kaçınma vakıasından sonra tarafların birlikte yaşamaya devam ettikleri sabit olup bu vakıanın da davacı erkek tarafından affedildiği, en azından hoşgörü ile karşılandığı nazara alındığında, bu vakıanın da davalı kadına kusur olarak yüklenilemeyeceği açıktır. Mahkemece kabul edilen ve erkek tarafından istinaf edilmeyerek kesinleşen eylemlere göre ise; evlilik birliğinin temelinden sarsılmasında erkeğin tamamen kusurlu olduğunun kabulü gerekir.
 O halde mahkemece kabul edilen ve istinaf edilmeyerek kesinleşen davacı erkeğin kusurlu davranışlarına göre, boşanmaya sebep olan olaylarda erkeğin tam kusurlu olduğunun kabulü ile davanın reddine karar verilmesi gerektiği halde davacı erkeğin ağır, davalı kadının az kusurlu kabul edilerek davanın kabulüne karar verilmesi doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2021/4436 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683044700)
+
 Tüm dosya kapsamından davalı erkeğin kadının ailesi ile görüşmesini istemediği, evin anahtarını alarak evden kovduğu anlaşılmaktadır. O halde erkeğin kusurlu davranışlarına göre boşanmaya sebebiyet veren olaylarda erkek tamamen kusurludur. Evlilik birliğinin devamı eşlerden beklenmeyecek derecede temelinden sarsıldığı kuşkusuzdur. Dosyaya yansıyan olaylar bir bütün olarak değerlendirildiğinde, taraflar arasında ortak hayatı temelinden sarsacak derecede ve birliğin devamına imkân vermeyecek nitelikte bir geçimsizlik mevcut ve sabit olup, TMK'nın 166/1 maddesinde yer alan boşanma koşullarının oluştuğu dikkate alınarak davacı kadının davasının kabulü gerekirken reddi doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2021/3870 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680642200)
+
 Taraflar, dava ve karşı davada "Evlilik birliğinin temelinden sarsılması (TMK madde 166/1)" hukuki sebebine dayanmışlardır. İşbu karşılıklı boşanma davasında, her iki davanın temel dayanak olayı "taraflar arasındaki cinsel ilişkinin gerçekleştirilememiş olması"dır. Her iki taraf da karşılıklı davalarında bu vakıaya dayanmışlar ve bu konuda kusurun karşı tarafta olduğunu iddia etmişlerdir. Dosya kapsamındaki bilgi, belge ve tanık ifadelerinden taraflar arasında yaşanan olayların ve bölge adliye mahkemesince taraflara kusur olarak yüklenen diğer davranışların temel sebebinin aralarındaki cinsel ilişkinin sağlanamamış olması olduğu anlaşılmaktadır.
 
 ## Yargıtay 2. HD 2021/2404 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661349100)
 
 Tarafların karşılıklı açtıkları TMK’nun 166/1 maddesinde düzenlenen evlilik birliğinin sarsılması hukuki sebebine dayalı boşanma davalarına ilişkin yapılan yargılaması sonucunda her iki boşanma davasının kabulü ile tarafların boşanmalarına, tedbir, yoksulluk nafakasına, kadın yararına manevi tazminata, kadının dilekçeler aşamasından sonra talep ettiği maddi tazminat hakkında karar verilmesine yer olmadığına, boşanmanın ferisi niteliğinde olmayan maddi tazminat talebi hakkında ise tefrikine karar verilmiş, ilk derece mahkemesince verilen bu hüküm davacı-davalı kadın tarafından; kusur belirlemesi, nafaka ve manevi tazminatın miktarı ile tefrik edilen maddi tazminat talebine yönelik, davalı-davacı erkek tarafından ise kusur belirlemesi, nafakalar ve manevi tazminata yönelik istinaf edilmiştir.
 İstinaf talebinde bulunan davacı-davalı kadın tarafından verilen istinaf dilekçesinde kusur belirlemesinin de istinaf edildiği, ne var ki davacı-davalının bu talebinin bölge adliye mahkemesince istinaf incelemesi dışında bırakılarak incelenmediği; kusur belirlemesinin erkek lehine düzeltilmesine, kadının manevi tazminat talebinin reddine, kadının tüm, erkeğin diger istinaf taleplerinin esastan reddine karar verildiği anlaşılmaktadır.
 
 ## Yargıtay 2. HD 2021/934 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637397500)
+
 Türk Medeni Kanununun 166/1-2 maddesi uyarınca boşanma kararı verilebilmesi için evlilik birliğinin ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir. Somut olayda mahkemece erkeğe yüklenilen ve temyiz edilmeyerek kesinleşen kusurlu davranışlara göre, erkeğin tamamen kusurlu olduğu, yukarıda ikinci bentte açıklandığı üzere davacı- davalı kadının kusurlu bir davranışının ispatlanamadığı anlaşılmaktadır. O halde, mahkemece davalı- davacı erkeğin davasının reddi gerekirken, kabulüne karar verilmesi usul ve kanuna aykırı ise de, kadının kabul edilen boşanma davası temyizin kapsamı dışında bırakılmak suretiyle boşanma hükmü…
 
 ## Yargıtay 2. HD 2021/915 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637696500)
 
 Türk Medeni Kanunu'nun 166/1-2. maddesi uyarınca boşanma kararı verilebilmesi için evlilik birliğinin ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir. Somut olayda davalı- karşı davacı kadının boşanmaya neden olacak kusurlu bir davranışı yoktur. Boşanmaya sebep olan olaylarda davacı -karşı davalı erkeğin tamamen kusurlu olduğu, davalı- karşı davacı kadının ise kusurlu bir davranışının ispatlanamadığı anlaşılmaktadır. Zira dinlenen davacı-karşı davalı erkeğin tanıklarının sözleri, erkekten duyduklarına yönelik olup soyut ve genel niteliktedir. Şu halde, mahkemece davacı- karşı davalı erkeğin davasının reddi gerekirken, kabulüne karar verilmesi usul ve kanuna aykırı ise de, kadının kabul edilen boşanma davası temyizin kapsamı dışında bırakılmak suretiyle boşanma hükmü kesinleştiğinden, erkeğin boşanma talebinin konusuz hale geldiği de görülmektedir. Bu durumda erkeğin boşanma davasının esası hakkında bir karar verilemeyecektir.
 Ancak, davanın konusuz kalması sebebiyle esası hakkında bir karar verilmesine gerek bulunmayan hallerde hakim, davanın açıldığı tarihteki tarafların haklılık durumuna göre yargılama giderlerini takdir ve tayin eder (HMK m. 331/1). O halde bu husus gözetilerek davacı-karşı davalı erkeğin boşanma talebi hakkında, konusuz kaldığından karar verilmesine yer olmadığına şeklinde hüküm tesisi ile yargılama giderleri ve vekalet ücreti konularında, davadaki haklılık durumuna göre (HMK m. 331/1) karar verilmek üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2021/650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641795700)
+
 Toplanan deliller ve tüm dosya kapsamından, davacı erkeğin davasının Türk Medeni Kanununun 166/son maddesine dayandığı ve taraflarca karşılıklı olarak açılan ve her iki dava yönünden de retle sonuçlanan dayanak karşılıklı boşanma davasından sonra tarafların bir araya gelmedikleri sabittir. Fiili ayrılık döneminde her iki tarafa kusur olarak yüklenebilecek bir olayın varlığı da ispatlanamamıştır. Her ne kadar bölge adliye mahkemesince fiili ayrılık dönemi içerisinde davacı erkeğin, davalı kadın ve müşterek çocukların oturduğu ve eşi ile yarı yarıya hissedar olduğu taşınmazını ortaklığın giderilmesi davasına konu etmesi, davalı kadın ve çocukları müşterek konuttan çıkarmaya yönelik kötü niyetli bir hareket olarak değerlendirilerek erkeğe kusur olarak yüklenmiş ise de kanuni yollardan hakkını araması erkek aleyhine kusur olarak değerlendirilemez. O halde, somut olayda evlilik birliğinin temelinden sarsılmasına sebebiyet veren olaylarda bir tarafın kusurunun diğerine oranla daha ağır olmadığı, ilk derece mahkemesinin de kabulünde olduğu üzere dayanak karşılıklı boşanma davasını açarak boşanma sebebi yaratan tarafların eşit derecede kusurlu olduklarının kabulü gerekir.
 Bu husus gözetilmeden yanılgılı değerlendirme sonucu davacı erkeğin tam kusurlu olduğunun kabulü doğru olmamış, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/5488 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/616380800)
 
 Anlaşmalı boşanma Türk Medeni Kanunu’nun 166/3. maddesinde düzenlenmiş olup, evlililiğin en az 1 yıl sürmüş olması, tarafların boşanma ve boşanmanın ferileri olan velayet, nafaka (TMK 169-175) ve maddi ve manevi tazminat (TMK. 174/1-2) hususunda anlaşması ve bu anlaşmanın hakim tarafından kabul edilmesi zorunlu unsurlarını barındırır. Taraflar anlaşmalı boşanma mutabakatında boşanmanın feri unsurları yanında ihtiyari olarak, ziynet ve ev eşyalarının paylaşımı, aralarındaki mal rejiminin tasfiyesi gibi hususlarda anlaşabilecekleri gibi, mal rejiminin tasfiyesi kapsamında yahut bundan bağımsız olarak bir kısım gayrimenkulün yahut sicile kayıtlı olan menkullerin tescili, menkullerin teslimi, bir miktar paranın ödenmesi, hisse devri ve bunun gibi bir çok hususu anlaşma boşanma protokolüne derc edebilirler. Anlaşmalı boşanma hükmünün kesinleşmesi ile birlikte boşanmanın feri niteliğinde olup olmadığına bakılmaksızın taraflara boşanma protokolünde yüklenilen edimler artık boşanmanın ayrılmaz bir parçası haline gelir. Boşanma protokolünde taraflara yüklenen edimlerin sebebi de tarafların iradeleri gereği münhasıran boşanma hükmüne bağlıdır.
 Bu sebeple boşanma protokolünden kaynaklanan edimlerin yerine getirilmesi aşamasında ortaya çıkan uyuşmazlıklarda, boşanma protokolünde yazılı olan…
 
 ## Yargıtay 2. HD 2020/5431 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645140800)
+
 "Davacının davalı aleyhine 25/04/2012 tarihinde açtığı anlaşmalı boşanma davasında, tarafların boşanma ve diğer hususlarda anlaştıklarına ilişkin ibraz edilen protokol ve tarafların duruşmadaki beyanları doğrultusunda davanın kabulüne karar verildiği ve hükmün temyiz edilmeksizin kesinleştiği anlaşılmıştır. 4721 sayılı Türk Medenî Kanununun 166 ncı maddesinin üçüncü fıkrası hükmüne göre, en az bir yıl sürmüş evliliklerde eşlerin birlikte başvurması ya da bir eşin diğerinin davasını kabul etmesi halinde evlilik birliği temelinden sarsılmış sayılır. Bu halde dahi boşanma kararı verilebilmesi için, hâkimin bizzat tarafları dinleyerek iradelerinin serbestçe açıklandığına kanaat getirmesi ve boşanmanın malî sonuçları ile çocukların durumu hususunda taraflarca kabul edilecek düzenlemeyi uygun bulması gerekmektedir.Hâkim, tarafların ve çocukların menfaatlerini göz önünde tutarak bu anlaşmada gerekli gördüğü değişiklikleri yapabilir. Bu değişikliklerin taraflarca da kabulü hâlinde boşanmaya hükmolunur. 6098 sayılı Türk Borçlar Kanununun 26 ncı maddesine göre taraflar, kural olarak bir sözleşmenin içeriğini, kanunda öngörülen sınırlar içinde özgürce belirleyebilirler.
 Aynı Kanunun 27 nci maddesine göre ise, kanunun emredici hükümlerine, ahlaka, kamu düzenine, kişilik haklarına aykırı veya konusu imkansız olan sözleşmeler kesin olarak hükümsüzdür. Sözleşmenin içerdiği hükümlerden bir kısmının hükümsüz olması diğerlerinin geçerliliğini etkilemez. Ancak, bu hükümler olmaksızın sözleşmenin yapılmayacağı, açıkça anlaşılırsa, sözleşmenin tamamı hükümsüz olur. Borçlar Kanununda yer alan, sözleşme özgürlüğüne getirilen genel nitelikteki bu sınırlamalar, boşanma anlaşmaları için de evleviyetle geçerlidir. Çünkü, 6098 sayılı Türk Borçlar Kanununun 646 ncı maddesine göre, Borçlar Kanunu Türk Medenî Kanununun Beşinci Kitabı olup, onun tamamlayacısıdır. O halde hakim, kanunun emredici hükümlerine, ahlaka, kamu düzenine, kişilik haklarına aykırı ve konusu imkansız olan hükümler taşıyan bir boşanma protokolünü esas alarak boşanma kararı veremez ve böyle bir protokolü tasdik edemez. Ayrıca müşterek çocukların menfaatinin gerektirdiği durumlarda protokolde gerekli değişikliklerin yapılmasını taraflardan isteyebilecektir. Somut olayda, taraflarca düzenlenen protokolde müşterek…
 
 ## Yargıtay 2. HD 2020/5188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615957700)
+
 Türk Medeni Kanununun 166/4. maddesine göre, boşanma sebeplerinden herhangi biriyle açılmış bulunan davanın reddine karar verilmesi ve bu kararın kesinleştiği tarihten başlayarak üç yıl geçmesi halinde, her ne sebeple olursa olsun ortak hayat yeniden kurulamamışsa evlilik birliği temelinden sarsılmış sayılır ve eşlerden birinin istemi üzerine boşanma kararı verilir. Ret kararının kesinleşmesinden başlayarak geçen üç yıl zarfında ortak hayatın yeniden kurulmuş olduğunun kabul edilebilmesi için, tarafların bu amaçla bir araya gelmiş ve birlikte yaşamış olmaları, evlilik birliğinin amacına uygun olarak tesis edilmiş olması, bu hususların delillerle ispatlanmış bulunması gerekir.
 
 ## Yargıtay 2. HD 2020/3999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605832000)
 
 Dava; erkek tarafından açılan Türk Medeni Kanunu'nun 166/1 maddesinde düzenlenen evlilik birliğinin temelinden sarsılması hukuki nedenine dayalı boşanma davası olup ilk derece mahkemesince yapılan yargılama sonucunda davanın kabulü ile tarafların boşanmalarına, ortak çocuğun velayetinin davalı anneye verilmesine, davacı baba ile ortak çocuk arasında kişisel ilişki tesisine, davacı erkeğin nafaka ve tazminat taleplerinin reddine, ortak çocuk yararına aylık 350,00 TL tedbir ve 350,00 TL iştirak nafakasına, davalı kadının yoksulluk nafakası talebinin reddine, davalı kadın yararına 13.500 TL maddi tazminat ve 7.500 TL manevi tazimanata karar verilmiş, ilk derece mahkemesince verilen bu karar davacı erkek tarafından kusur belirlemesi, tazminatlar, nafakalar ve velayet yönünden, davalı kadın tarafından tamamına yönelik olarak istinaf edilmiştir.
 
 ## Yargıtay 2. HD 2020/3675 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600163600)
+
 Tüm dosya kapsamından davalı erkeğin kadının ailesine ağza alınmayacak hakaret ettiği anlaşılmaktadır. O halde erkeğin kusurlu davranışlarına göre boşanmaya sebebiyet veren olaylarda erkek tamamen kusurludur. Evlilik birliğinin devamı eşlerden beklenmeyecek derecede temelinden sarsıldığı kuşkusuzdur. Dosyaya yansıyan olaylar bir bütün olarak değerlendirildiğinde, taraflar arasında ortak hayatı temelinden sarsacak derecede ve birliğin devamına imkân vermeyecek nitelikte bir geçimsizlik mevcut ve sabit olup, TMK'nın 166/1 maddesinde yer alan boşanma koşullarının oluştuğu dikkate alınarak davacı kadının davasının kabulü gerekirken reddi doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/3613 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/591490200)
 
 Bir davada olayları açıklamak taraflara, hukuki nitelendirme görevi hakime aittir. Davacı erkek tarafından açılan boşanma davası Türk Medeni Kanunu'nun 166/son maddesinde yer alan fiili ayrılığa dayanmaktadır. Delillerin bu çerçevede değerlendirilip, hasıl olacak sonucuna göre hüküm kurulması gerekirken, mahkemece erkeğin davasının Türk Medeni Kanunu'nun 166/1 maddesinde yer alan evlilik birliğinin sarsılması hukuki sebebine dayalı olduğunun kabul edilip, yazılı şekilde hüküm tesisi usul ve kanuna ayrıkırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/2477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/591505700)
+
 Türk Medeni Kanunu’nun 166/1-2 maddesi uyarınca boşanma kararı verilebilmesi için evlilik birliğinin, ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması davalının az da olsa kusurlu bulunması gerekir. Ergin olan çocukların babalarıyla görüşmeleri çocukların iradesine bağlıdır. Çocukların velayet altında olmayıp özgür iradeleriyle hareket ettikleri düşünüldüğünde bu çocukların babalarıyla görüştürülmediğine ilişkin vakıanın kadına kusur olarak yüklenmesi doğru olmamıştır. Aynı nedenle, evlenen çocukların düğün davetiyelerine erkeğin isminin yazılmaması da kadına kusur olarak yüklenemez. Davalı kadının, sadakat yükümlülüğüne aykırı davranan davacı erkeğin geçirdiği hastalık sonucu erkeği ziyaret etmemesi ise tepkisel bir davranış niteliğinde olup bu vakıa da kadına kusur olarak yüklenemez. Dosya kapsamına göre davalı kadına yüklenecek başka bir kusurlu davranış da bulunmamaktadır. Hal böyle olunca davanın reddi gerekirken delillerin takdirinde hataya düşülerek boşanmaya karar verilmesi usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/1743 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578999800)
 
 Feragat edilen dava münhasıran TMK'nın 166/3. maddesine dayalı olarak açılmışsa, anlaşmalı boşanma davasından feragat, dava tarihinden önceki olayların affedildiği sonucunu doğurmaz. O halde, taraflardan biri feragatle sonuçlanan anlaşmalı boşanma davasının dava tarihinden önceki vakıalara dayanarak herhangi bir boşanma sebebine dayalı olarak boşanma davası açabilir. Açılan davada anlaşmalı boşanma davasının dava tarihinden önceki vakıaların da kusur belirlemesinde dikkate alınması gerekir.
 
 ## Yargıtay 2. HD 2020/1734 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579181600)
+
 Taraflar, TMK’nın 166/1. maddesine dayalı olarak boşanma davaları açmışlar, yapılan yargılama sonucunda; kadının davasının kabulüne, erkeğin davasının reddine, kadın yararına tedbir yoksulluk nafakası ile 20.000 TL maddi tazminat ile 20.000 TL maddi tazminata hükmedilmiş, yapılan yanlışlık farkedilerek 06.02.2018 tarihli tashih kararı ile bu yanlışlık HMK'nın 304. maddesi uyarınca "Davacı-karşı davalının manevi tazminat talebinin" şeklinde, hüküm kısmının 3 numaralı kararın 3. satırında sehven "20.000,00 TL maddi tazminatın" kısımının yanlış yazılmış olduğu anlaşılmış olup bu yanlışlık HMK'nın 304. maddesi uyarınca "20.000,00TL manevi tazminatın" şeklinde, hüküm kısmının 4 numaralı kararın l. satırında sehven "Davacı-karşı davalının manevi tazminat talebinin kısmının yanlış yazılmış olduğu anlaşılmış olup bu yanlışlık HMK'nın 304. maddesi uyarınca "Davacı-karşı davalının maddi tazminat talebinin" şeklinde düzeltilmiş, bu karar karşı davalı -karşı davacı erkek tarafından her iki dava ile tashih kararı yönünden istinaf edilmiştir.
 
 ## Yargıtay 2. HD 2020/1538 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579174300)
 
 Türk Medeni Kanunu'nun 166/1-2. maddesi uyarınca boşanma kararı verilebilmesi için evlilik birliğinin ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir. Somut olayda mahkemece davalı-karşı davacı kadına yüklenen hakaret vakıasının ne zaman söylendiği ve içeriğinin belli olmadığı, bu hali ile davalı-karşı davacı kadına hakaret vakıasının kusur olarak yüklenemeyeceği, boşanmaya sebep olan olaylarda davacı-karşı davalı erkeğin tamamen kusurlu olduğu, davalı-karşı davacı kadının ise kusurlu bir davranışının ispatlanamadığı anlaşılmaktadır. Zira dinlenen davacı-karşı davalı erkeğin tanıklarının sözleri, maddi hadiselere dayanmayıp, soyut ve genel niteliktedir. Şu halde, mahkemece davacı-karşı davalı erkeğin davasının reddi gerekirken, kabulüne karar verilmesi usul ve kanuna aykırı ise de kadının kabul edilen boşanma davası temyizin kapsamı dışında bırakılmak suretiyle boşanma hükmü kesinleştiğinden, erkeğin boşanma talebinin konusuz hale geldiği de görülmektedir. Bu durumda erkeğin boşanma davasının esası hakkında bir karar verilemeyecektir.
 Ancak, davanın konusuz kalması sebebiyle esası hakkında bir karar verilmesine gerek bulunmayan hallerde hakim, davanın açıldığı tarihteki tarafların haklılık durumuna göre yargılama giderlerini takdir ve tayin eder (HMK m. 331/1). O halde bu husus gözetilerek davacı-karşı davalı erkeğin boşanma talebi hakkında, konusuz kaldığından karar verilmesine yer olmadığına şeklinde hüküm tesisi ile yargılama giderleri ve vekalet ücreti konularında, davadaki haklılık durumuna göre (HMK m. 331/1) karar verilmek üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2020/847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578406300)
+
 Türk Medeni Kanunu'nun 166/4. maddesine göre, boşanma sebeplerinden herhangi biriyle açılmış bulunan davanın reddine karar verilmesi ve bu kararın kesinleştiği tarihten başlayarak üç yıl geçmesi halinde, her ne sebeple olursa olsun ortak hayat yeniden kurulamamışsa evlilik birliği temelinden sarsılmış sayılır ve eşlerden birinin istemi üzerine boşanma kararı verilir. Ret kararının kesinleşmesinden başlayarak geçen üç yıl zarfında ortak hayatın yeniden kurulmuş olduğunun kabul edilebilmesi için, tarafların bu amaçla bir araya gelmiş ve birlikte yaşamış olmaları, evlilik birliğinin amacına uygun olarak tesis edilmiş olması, bu hususların delilerle ispatlanmış bulunması gerekir.
 
 ## Yargıtay 2. HD 2020/588 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578409300)
 
 Tarafların karşılıklı açtıkları TMK’nun 166/1 maddesinde düzenlenen evlilik birliğinin sarsılması hukuki sebebine dayalı boşanma davaları ve kadının birleşen TMK’nun 197. maddesinde düzenlenen bağımsız tedbir nafakasına ilişkin davasının yapılan yargılaması sonucunda her iki boşanma davasının kabulü ile tarafların boşanmalarına, velayetin anneye verilmesine, tedbir, yoksulluk ve iştirak nafakasına, kadın yararına maddi ve manevi tazminata, erkeğin manevi tazminat talebinin reddine, kadının birleşen nafaka davasında ise karar verilmesine yer olmadığına karar verilmiş, ilk derece mahkemesince verilen bu hüküm davacı-davalı erkek tarafından; kadının kabul edilen boşanma davası, kadının birleşen nafaka davası, kusur belirlemesi, erkeğin manevi tazminat talebinin reddi, kadın yararına hükmedilen maddi ve manevi tazminat, kadın ve çocuk yararına hükmedilen tedbir nafakaları ile iştirak nafakası ve yoksulluk nafakası yönünden istinaf edilmiştir.
 İstinaf talebinde bulunan davacı-davalı erkek tarafından verilen istinaf dilekçesinde çocuk yararına hükmedilen tedbir ve iştirak nafakasının da istinaf edildiği, ne var ki davacı-davalının bu talebinin bölge adliye mahkemesince istinaf incelemesi dışında bırakılarak incelenmediği; erkeğin, kadının birleşen nafaka davası dışında kalan istinaf taleplerinin esastan reddine karar verildiği anlaşılmaktadır.
 
 ## Yargıtay 2. HD 2019/10856 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/545638700)
+
 Davacı-karşı davalı kadın, evlilik birliğinin sarsılması (TMK m. 166/1) hukuki sebebine dayalı olarak boşanma talebinde bulunmuş, davalı-karşı davacı erkek karşı davasıyla zina hukuki sebebine dayalı boşanma istemiş ve daha sonra birleşen davasıyla TMK’nun 166/1. maddesi uyarınca ayrı bir dava daha ikame etmiş, mahkemece davacı-karşı davalı kadının davasının reddine, davalı-karşı davacı erkeğin ise TMK 161. maddesine dayalı boşanma talebinin ve TMK’nun 166/1. maddesine dayalı birleşen davasının kabulüyle tarafların boşanmalarına karar vermiştir.
 
 ## Yargıtay 2. HD 2019/10802 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/548033300)
+
 Aynı yer mahkemesinde açılmış davalar, aralarında bağlantı bulunması durumunda, davanın her aşamasında, talep üzerine veya kendiliğinden ilk davanın açıldığı mahkemede birleştirilebilir (HMK m. 166/1). Davaların aynı veya birbirine benzer sebeplerden doğması, ya da biri hakkında verilecek hükmün diğerini etkileyecek nitelikte bulunması durumunda bağlantı var sayılır (HMK m. 166/4). Boşanma davalarında tarafların kusurlarının belirlenmesi, boşanmanın eki niteliğinde bulunan maddi-manevi tazminat (TMK m. 174/1-2), yoksulluk nafakası (TMK m. 175) gibi taleplerin sağlıklı değerlendirilerek doğru karar verilebilmesi, bu davaların birlikte görülmesi ve delillerin birlikle değerlendirilmesiyle mümkündür.
 
 ## Yargıtay 2. HD 2019/10263 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549848000)
 
 Türk Medeni Kanunu'nun 166/1-2. maddesi uyarınca boşanma kararı verilebilmesi için evlilik birliğinin ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir. Somut olayda davalı-karşı davacı erkek ve ailesinin kadının ailesini arayıp, davacı-karşı davalı kadını götürmelerini istedikleri ve davalı-karşı davacı erkeğin bağımsız konut temin etmediği, boşanmaya sebep olan olaylarda davalı-karşı davacı erkeğin tamamen kusurlu olduğu, davacı-karşı davalı kadının ise kusurlu bir davranışının ispatlanamadığı anlaşılmaktadır. Zira dinlenen davalı-karşı davacı erkeğin tanıklarının sözleri, maddi hadiselere dayanmayıp, soyut ve genel niteliktedir. Şu halde, mahkemece davalı-karşı davacı erkeğin davasının reddi gerekirken, kabulüne karar verilmesi usul ve yasaya aykırı ise de, kadının kabul edilen boşanma davası temyizin kapsamı dışında bırakılmak suretiyle boşanma hükmü kesinleştiğinden, erkeğin boşanma talebinin konusuz hale geldiği de görülmektedir. Bu durumda erkeğin boşanma davasının esası hakkında bir karar verilemeyecektir.
 Ancak, davanın konusuz kalması sebebiyle esası hakkında bir karar verilmesine gerek bulunmayan hallerde hakim, davanın açıldığı tarihteki, tarafların haklılık durumuna göre yargılama giderlerini takdir ve tayin eder (HMK m. 331/1). O halde bu husus gözetilerek davalı-karşı davacı erkeğin boşanma talebi hakkında, konusuz kaldığından karar verilmesine yer olmadığına şeklinde hüküm tesisi ile yargılama giderleri ve vekalet ücreti konularında, davadaki haklılık durumuna göre (HMK m. 331/1) karar verilmek üzere hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2019/10128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543671900)
+
 Dosyadaki yazılara ve mahkemece uyulan bozma kararı gereğince hüküm verilmiş olmasına ve özellikle davacı-davalı erkeğin davasının Türk Medeni Kanunu'nun 166/son, davalı-davacı kadının davasının 166/1. maddesi uyarınca kabulü ile tarafların boşanmalarına karar verilmesine karşın kısa kararda ve gerekçeli kararın hüküm kısmında Türk Medeni Kanunu'nun 166/3. maddesinin yazılmasının mahallinde düzeltilebilir maddi hata niteliğinde olduğunun anlaşılmasına göre, davalı-davacı kadının aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2019/10088 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539943100)
 
 Yapılan soruşturma ve toplanan delillerden; tarafların TMK 166/3. maddesi uyarıca 14.12.2009 tarihinde boşandıkları, davaya konu taşınmazın 31.08.2010 tarihinde 3. kişiye satıldığı, davacı kadının 06.01.2010 tarihinde davalı erkeğin hesabına ‘Konut kredisi yarı ödemesi’ açıklaması ile 1.380 TL gönderdiği, bunun dışında dosyaya ödeme yaptığına ilişkin delil sunamadığı, kaldı ki dava dilekçesinde boşanmanın kesinleşmesinden taşınmazın satılıncaya kadar geçen süre içindeki kredi borcunun yarı bedelini ödediğine ilişkin de bir beyanda bulunmadığı, eşi ile boşanma kararından sonra 6 ay daha birlikte yaşadıklarını, davalı erkeğin konut kredisinin ödemelerini yaptığını, kendisinin de ortak çocuğun bakıcı parası ve evin giderlerini karşıladığını, taşınmazın 1/2'sinin de kendisine devredilmediğini, davalının kötü niyetli olduğunu beyan ettiği anlaşılmaktadır. Davacı kadın, takibe konu borcu ödediğini gösterdiği delillerle kanıtlayamamıştır. Bu nedenle davasının reddi gerekir. Ancak, davacı kadın dava dilekçesinde açıkça yemin deliline de dayanmıştır.
 İspat yükü kendisine düşen ve davasını diğer delillerle kanıtlayamayan davacı kadına talebi konusunda diğer tarafa yemin teklif etme hakkı hatırlatılıp, Hukuk Muhakemeleri Kanunu'nun 225 ve devamı maddelerindeki yeminle ilgili usul işlemleri yerine getirilip, gerçekleşecek sonucuna göre karar verilmesi gerekirken, davanın kabulüne karar verilmesi isabetsiz olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/9757 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539947600)
+
 Yapılan yargılama ve toplanan delillerden davalı kadının akıl hastası olduğu ve kısıtlandığı anlaşılmaktadır. Akıl hastalığı hukuki sebebine dayalı bir dava bulunmamaktadır. (TMK m. 165). Akıl hastası olan kadının hareketleri iradi olmadığından, kendisine kusur yüklenemez. Bu sebeple Türk Medeni Kanununun 166/1. maddesine dayalı "Evlilik birliğinin temelinden sarsılması" hukuki sebebine dayanarak açılan davada, erkeğin vefatı sonrasında kadının kusurlu olduğunun tespitine yönelik karar verilmesi doğru görülmemiş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/9720 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539928000)
+
 Türk Medeni Kanunu'nun 166/1-2. maddesi uyarınca; boşanma kararı verilebilmesi için evlilik birliğinin, ortak hayatı sürdürmeleri eşlerden beklenemeyecek derecede temelinden sarsıldığının sabit olması gerekir. İlk derece mahkemesince gerekçeye esas alınan tanık Merve'nin anlatımları duyduklarını aktarmaktan ibaret olduğu; diğer tanık Dilara'nın ise evde yalnızken davalı kadının kendisine saldırdığı yönünde mahkemedeki beyanı ile karakolda alınan beyanının çelişkili olduğu, bu haliyle davalı kadının boşanmaya sebebiyet verecek derecede herhangi bir kusurlu davranışının ispatlanamadığı gibi, davalı kadının tanıklarından Hatice ve Büşra'nın beyanlarından davadan sonra birlikteliğin devam ettiği de anlaşılmaktadır. Davacı erkek ise temyize gelmediğinden kusuru kesinleşmiş olup, erkek tam kusurludur. Açıklanan sebeplerle, davacı erkeğin boşanma davasının reddi gerekirken, kabulü doğru görülmemiş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/8730 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/533795600)
 
 Boşanma (TMK 166/son) ve nafaka artırımı davasının birleştirilerek yapılan yargılaması sonunda mahkemece verilen ilk karar, taraflarca temyiz edilmesi üzerine Dairemizin 28.03.2013 tarihli bozma ilamı ile, davacı-davalı erkeğin Türk Medeni Kanunu’nun 166/son maddesine dayalı olarak açtığı boşanma davasının kabulüne karar verilmesi gerektiğinden bahisle davacı-davalı erkek yararına ve davalı-davacı kadının nafakaya ilişkin olarak gelecek yıllar için artış talebi hakkında olumlu ya da olumsuz bir…

@@ -23,78 +23,114 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2019/5962 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534238800)
+
 Mahkemece davalı erkeğin sadakat yükümlüğünü ihlal ettiği ve tam kusurlu olduğu kabul edilerek tarafların boşanmalarına hükmedilmiştir. Türk Medeni Kanunu'nun 166/1. maddesi gereğince boşanma kararı verilebilmesi için evlilik birliğinin ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir. Erkeğe yüklenen eşini aldattığı vakıasına yönelik tanık beyanları kadından duyuma ilişkin olup, kanıtlanmadığı gibi tanık beyanına göre kadının aktardığı bu vakıadan sonra tarafların evlilik birliğini devma ettirip bir süre birlikte yaşadıkları anlaşılmaktadır. Bu durum, önceki yaşanan olaylardan dolayı eşlerin birbirlerini affettiklerini veya en azından hoşgörüyle karşıladıklarını gösterir. Bu itibarla davanın reddi gerekirken delillerin takdirinde hataya düşülerek yetersiz gerekçe ile boşanmaya karar verilmesi usul ve kanuna aykırıdır. Ancak bu yön temyiz edilmediğinden bozma nedeni yapılmamış, yanlışlığa değinilmekle yetinilmiştir.
 
 ## Yargıtay 2. HD 2019/5748 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526544200)
 
 Türk Medeni Kanunu'nun 166/1-2. maddesi uyarınca boşanma kararı verilebilmesi için evlilik birliğinin, ortak hayatı sürdürmeleri eşlerden beklenmeyecek derecede temelinden sarsıldığının sabit olması gerekir. Yapılan yargılama ve toplanan delillere göre; mahkemece davalı-karşı davacı kadına kusur olarak yüklenen güven sarsıcı davranış vakıası ispatlanamadığından bu vakıa kadına kusur olarak yüklenemez. Bu duruma göre boşanmaya sebebiyet veren olaylarda davacı-karşı davalı erkek tam kusurlu olup, erkeğin boşanma davasının reddi gerekirken, yanılgılı kusur belirlemesinin sonucu olarak boşanmaya karar verilmesi usul ve kanuna aykırıdır. Ancak bu yön temyiz edilmediğinden bozma nedeni yapılmamış, yanlışlığa değinilmekle yetinilmiştir.
 
 ## Yargıtay 2. HD 2019/5531 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/530796400)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle erkeğin davranışlarının sadakatsizlik boyutuna ulaşmayan güven sarsıcı davranış niteliğinde olduğunun, ancak yine de boşanmaya sebebiyet veren olaylarda davalı-karşı davacı erkeğin ağır kusurlu bulunduğunun anlaşılmasına göre, yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı harcın temyiz edene yükletilmesine, peşin alınan harcın mahsubuna ve 176.60 TL. temyiz başvuru harcı peşin alındığından başkaca harç alınmasına yer olmadığına,…
 
 ## Yargıtay 2. HD 2019/5238 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524026100)
 
 İlk derece mahkemesi hükmü sadece davalı kadın tarafından istinaf edildiğinden, ilk derece mahkemesince erkeğe yüklenen kusurlar kadın yönünden usuli kazanılmış hak teşkil etmiştir. Bu durumda, davacı erkeğin eşini beğenmediği, onu küçümsediği ve güven sarsıcı davranışlarının olduğu sabit iken bölge adliye mahkemesince erkeğin sadece güven sarsıcı davranışlarının olduğu yönünde kusur belirlemesi yerinde görülmemiştir. Yine; kadının erkeğin işyerine giderek mesajlaştığı kadını darp etmesi vakıasının, boşanma davasının açıldığı tarihten sonra gerçekleşmesi nedeniyle, bölge adliye mahkemesince kadına kusur olarak yüklenmemesi yerinde olmakla birlikte; istinafa sadece kadın geldiği halde, kadına birlik görevlerini yerine getirmediği ve çocuklarla ilgilenmediği kusurlarının eklenmesi uygun görülmemiştir. Bu durumda, boşanmaya sebebiyet veren ve gerçekleşen vakıalarda eşini beğenmeyen, onu küçümseyen ve güven sarsıcı davranışları bulunan erkek eşine “aptal, salak, geri zekalı” şeklinde hakaret eden kadına göre ağır kusurludur.
 Gerçekleşen bu durum karşısında, boşanmaya sebep olan olaylar yüzünden kişilik hakları zarar gören, mevcut ve beklenen menfaatleri zedelenen az kusurlu davalı kadın yararına Türk Medeni Kanunu'nun 174. maddesi gereğince uygun miktarda maddi ve manevi tazminata hükmedilmesi gerekirken, bu taleplerinin reddi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2019/5148 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525026000)
+
 Tüm dosya kapsamı ve toplanan delillerden; davalı-davacı erkeğin sadakat yükümlülüğünü ihlal ettiği, eve geç saatlerde gelmeyi alışkanlık haline getirdiği ve eşine ilgisiz davrandığı, davacı-davalı kadının da güven sarsıcı davranışta bulunduğu anlaşılmaktadır. Gerçekleşen bu durum karşısında boşanmaya sebebiyet veren olaylarda, davalı-davacı erkeğin davacı-davalı kadına nazaran daha fazla kusurlu olduğunun kabulü gerekir. Öyleyse, ilk derece mahkemesince tarafların eşit kusurlu olduğunun kabulü ve bu hatalı kusur belirlemesine bağlı olarak da davacı-davalı kadının maddi ve manevi (TMK m.174/1-2) tazminat taleplerinin reddine karar verilmesi usule ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/5002 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519979900)
 
 Tarafların karşılıklı açtıkları boşanma davaları sonucunda mahkemece her iki davanın kabulü ile tarafların boşanmalarına, velayetler babaya, davalı-karşı davacı kadın yararına yoksulluk nafakasına, maddi ve manevi tazminata hükmedilmiş, verilen bu kararın davacı-karşı davalı erkek tarafından temyiz edilmesi üzerine, Dairemizin 26.03.2018 tarih 2016/14692 esas 2018/3904 karar sayılı ilamı ile mahkemece kabul edilen ve gerçekleşen kusur durumuna göre tarafların eşit kusurlu oldukları bu nedenle davalı-karşı davacı kadının maddi ve manevi tazminat taleplerinin reddi gerektiği gerekçesi ile hükmün bozulmasına, diğer yönlerden ise hükmün onanmasına karar verilmiştir. Davalı-karşı davacı kadın, Dairemizin bozma ilamına karşı, süresinde karar düzeltme talebinde bulunmuştur. Dosyanın yeniden yapılan incelemesinde; davacı-karşı davalı erkeğin başka bir kadınla beraber yaşayarak sadakatsiz davrandığı, davalı-karşı davacı kadına ilk derece mahkemesince yüklenen ve davalı-karşı davacı kadın tarafından temyiz edilmeyerek kesinleşen şiddet vakıasının ise bir seferlik bir tartışmada ütü fırlatmak suretiyle olduğu, devam eden veya sürekli bir şiddet olmadığı anlaşılmaktadır.
 Bu durumda boşanmaya sebep olan olaylarda, ilk derece mahkemesinin de kararında kabul ettiği üzere davacı-karşı davalı erkek, davalı-karşı davacı kadına göre daha ağır kusurludur. 0 halde yapılan yargılama ve toplanan delillerle mahkemece davalı-karşı davacı kadın lehine 20.000 TL maddi, 20.000 TL manevi tazminata hükmedilmesinde bir isabetsizlik bulunmamaktadır. Ne var ki bu husus ilk inceleme sırasında gözden kaçırılarak hükmün bozulmasına karar verildiğinden, davalı-karşı davacı kadının karar düzeltme isteminin kabulüyle, Dairemizin 26.03.2018 tarih 2016/14692 esas 2018/3904 karar sayılı bozma ilamının kusur belirlemesi ve tazminatlar yönünden kaldırılmasına, hükmün yukarıda açıklanan sebeple kusur belirlemesi ve tazminatlar yönünden de onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 2. HD 2019/4570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524475800)
+
 İlk derece mahkemesince davalı-karşı davacı erkeğe "huzursuzluk çıkardığı, evin giderlerine katılmadığı, kadınla ve ortak çocukla ilgilenmediği, kadının kazancını kendi isteği gibi harcadığı, sürekli borçlandığı, sadakat yükümlülüğüne aykırı davrandığı, internette cinsel içerikli sitelerde takıldığı vakıaları kusur olarak yüklenmiş, bu karara karşı davacı-karşı davalı kadın tarafından sadece tazminatların miktarı ve vekalet ücreti yönünden istinaf isteğinde bulunulmuştur.
 Davalı-karşı davacı erkek ağır kusurlu olmakla birlikte davacı-karşı davalı kadın tarafından kusur belirlemesi yönünden istinaf isteğinde bulunulmadığına göre davalı-karşı davacı erkeğin aleyhine olacak şekilde ilk derece mahkemesi tarafından davalı erkeğe kusur olarak yüklenmeyen vakıaların ilgili bölge adliye mahkemesince davalı-karşı davacı erkeğe kusur olarak yüklenilmesi ve yine davacı-karşı davalı kadının da eşini aşağıladığı, boşanmaya yol açan olaylarda az da olsa kusurlu olduğu halde ilgili bölge adliye mahkemesince kadına kusur yüklenilmemesi doğru değil ise de, bu durum yeniden yargılamayı gerektirmediğinden bölge adliye mahkemesi kararının gerekçesinin açıklanan şekilde düzeltilerek onanmasına karar vermek gerekmiştir (HMK m. 370/2).
 
 ## Yargıtay 2. HD 2019/4339 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523897300)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle; ilk derece mahkemesi tarafından verilen boşanma hükmünün taraflarca istinaf edilmemesi halinde tarafların boşanmaya sebep olan olaylarda ilk derece mahkemesi tarafından belirlenen kusur durumlarının kesinleştiğine ve yeniden incelenemeyeceğine ilişkin gerekçe doğru değil ise de; kusur belirlemesi ve boşanmanın fer'ileri yönünden istinaf edilen ilk derece mahkemesi hükmünün bölge adliye mahkemesince tarafların kusur durumlarına ilişkin gerekçe yönünden de incelenerek buna ilişkin ayrı bir gerekçenin yazıldığının ve erkeğe kusur olarak yüklenen sadakatsizlik vakıasının güven sarsıcı davranış niteliğinde olduğunun, tarafların ilk derece mahkemesi ile bölge adliye mahkemesi tarafından belirlenen ve gerçekleşen kusurlu davranışlarına göre yine de davacı-karşı davalı erkeğin boşanmaya sebep olan olaylarda ağır kusurlu olduğunun anlaşılmasına göre, yerinde bulunmayan temyiz itirazlarının reddi ile usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine, peşin alınan harcın mahsubuna ve 176.60 TL. temyiz başvuru harcı peşin alındığından başkaca harç
 alınmasına yer olmadığına, dosyanın ilk derece mahkemesine, karardan bir örneğin ilgili bölge adliye mahkemesi hukuk dairesine gönderilmesine oybirliğiyle karar verildi. 09.04.2019 (Salı)…
 
 ## Yargıtay 2. HD 2019/4315 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520966900)
+
 İlk derece mahkemesi, davacı-karşı davalı erkeğin dışarıda alkol alarak eve geç geldiği, davalı-karşı davacı kadının eşine fiziksel şiddet uyguladığı, kadının ağır kusurlu olduğu gerekçesiyle, kadının boşanma davasının reddine, erkeğin davasının kabulüyle tarafların boşanmalarına, ortak çocuğun velayetinin babaya bırakılmasına, kadının yoksulluk nafakası ile maddi ve manevi tazminat talebinin reddine karar vermiş, davalı-karşı davacı kadın tarafından her iki boşanma davası yönünden istinaf kanun yoluna başvurulması üzerine, istinaf incelemesini yapan bölge adliye mahkemesince; “İlk derece mahkemesinin erkeğe yüklediği kusurlara ek olarak erkeğin başka kadınlarla görüşmek suretiyle güven sarsıcı davranışta bulunduğu, kadına kusur olarak yüklenen fiziksel şiddet vakıasının ispatlanamadığı ve erkeğin tam kusurlu olduğu gerekçesiyle ilk derece mahkemesi kararının tümüyle kaldırılmasına, yeniden hüküm oluşturularak, erkeğin davasının reddine, kadının davasının kabulüyle tarafların boşanmalarına, kadın lehine 500,00 TL tedbir 250,00 TL yoksulluk nafakasına, 15.000,00 maddi ve 15.000,00 manevi tazminata karar verilmiştir.
 Ancak bölge adliye mahkemesince davacı-karşı davalı erkeğe yüklenen "Güven sarsıcı davranış” vakıasının mevcut delil durumuna göre ispatlanamadığı anlaşılmaktadır. Davacı-karşı davalı erkeğe yüklenen diğer kusurlu davranışlar ise kadının kişilik haklarına saldırı teşkil edecek nitelikte değildir. Türk Medeni Kanunu'nun 174/2. maddesinde düzenlenen manevi tazminatın koşulları kadın lehine oluşmamıştır. Bu husus gözetilmeden kadın yararına manevi tazminata hükmedilmesi doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/4285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504757900)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle mahkemece davacı erkek tarafından sunulan ses kaydı kusur belirlemesinde dikkate alınmış ise de, ses kaydının hukuka aykırı olarak elde edilmesi sebebiyle hükme esas alınamayacağının ve bu nedenle güven sarsıcı davranış vakıasının kadına kusur olarak yüklenemeyeceğinin, ancak diğer delillerin değerlendirilmesi neticesinde mahkemece kabul edilen ve gerçekleşen kusurlu davranışlara göre de boşanmaya sebep olan olaylarda davalı kadının tam kusurlu olduğunun anlaşılmasına göre, yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün onanmasına, karar vermek gerekmiştir.
 
 ## Yargıtay 2. HD 2019/4147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504430900)
 
 Dosyadaki yazılara, bozmaya uygun işlem ve araştırma yapılmış olmasına, delillerin takdirinde bir yanlışlık bulunmamasına ve özellikle mahkemece davalı erkeğe kusur olarak yüklenen "Sadakat yükümlülüğünü ihlal" vakıasına davacı kadın tarafından usulüne uygun şekilde dayanılmadığının, usulüne uygun şekilde dayanılmayan bu vakıanın erkeğe kusur olarak yüklenemeyeceğinin, mahkemece davalı erkeğe kusur olarak yüklenen "Fiziksel şiddet" ve "Ortak konuttan kovma" vakıalarının ispat edilemediğinin, ispat edilemeyen vakıanın erkeğe kusur olarak yüklenemeyeceğinin yine de boşanmaya sebebiyet veren olaylarda davalı erkeğin tamamen kusurlu olduğunun anlaşılmasına göre, yerinde görülmeyen bütün temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı harcın temyiz edene yükletilmesine, peşin alınan harcın mahsubuna ve 176.60 TL. temyiz başvuru harcı peşin alındığından başkaca harç alınmasına yer olmadığına, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi.08.04.2019(Pzt.)…
 
 ## Yargıtay 2. HD 2019/3978 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519933900)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle, davalı kadına yüklenen sadakat yükümlülüğüne aykırı davranış fiilinin ispatında kullanılan ve dedektif tarafından çekilen fotoğrafların hukuka aykırı delil niteliğinde olması sebebiyle kusur belirlemesinde esas alınamayacağı, ancak yapılan yargılama ve toplanan diğer delillerden davalıya ait telefon görüşme dökümlerine göre davalı kadının güven sarsıcı davranışlarda bulunduğunun, ayrıca davacı erkeğin de dedektif tutmak suretiyle kusurlu olduğunun, boşanmaya sebebiyet veren olaylarda davalı kadının yine de ağır kusurlu bulunduğunun anlaşılmasına göre, yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı harcın temyiz edene yükletilmesine, peşin alınan harcın mahsubuna ve 176.60 TL. temyiz başvuru harcı peşin alındığından başkaca harç alınmasına yer olmadığına, dosyanın ilk derece mahkemesine, karardan bir örneğinin ilgili bölge adliye mahkemesi hukuk dairesine gönderilmesine oybirliğiyle karar verildi. 03.04.2019 (Çrş.)…
 
 ## Yargıtay 2. HD 2019/3673 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503214600)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle davacı-karşı davalı kadına ilk derece mahkemesince yüklenen sadakatsizlik vakıasının istinaf edilmeyerek kesinleştiğinin; yine istinaf talebinde bulunan davalı-karşı davacı erkeğin aleyhine olacak şekilde ilk derece mahkemesi tarafından erkeğe kusur olarak yüklenmeyen evini ihmal ettiği vakıasının kusur olarak yüklenemeyeceğinin boşanmaya sebebiyet veren vakılarda yine de tarafların eşit kusurlu olduklarının anlaşılmasına göre, yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün ONANMASINA,…
 
 ## Yargıtay 2. HD 2019/3629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504342100)
+
 Tüm dosya kapsamından, ilk derece mahkemesince verilen hüküm yönünden yalnızca davalı kadın tarafından istinafa başvurulmuş, böylelikle davacı erkeğin kabul edilen boşanma davasında (TMK m. 166/1) verilen hüküm ile erkeğe yüklenen kusurlar kesinleşmiştir. O halde, ilk derece mahkemesi hükmüne itirazı bulunmayan davacı erkeğin lehine olacak şekilde kadının erkeğe yüklenen kusurlara vakıa olarak dayanılmadığı gerekçesiyle davalı kadının tam kusurlu kabul edilmesi doğru olmamıştır. Gerçekleşen bu durum karşında, ilk derece mahkemesince davacı erkeğe kusur olarak yüklenen ve istinafa başvurulmayarak kesinleşen, erkeğin kadına hakaret edip "senden soğudum, boşanmak istiyorum" dediği ve müşterek çocuklarla ilgilenmeyip, sadakat yükümlülüğüne aykırı davrandığı, kadının da eşine, hakaret ve beddua içeren sözler sarf ettiği, böylece evlilik birliğinin son bulmasında davacı erkeğin ağır, davalı kadının ise az kusurlu olduğunun kabulü gerektiği halde kadının yazılı şekilde tam kusurlu olduğunun kabulü doğru bulunmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/3611 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/495202600)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle yapılan yargılama ve toplanan delillerden davacı-karşı davalı erkeğe kusur olarak yüklenen güven sarsıcı davranış vakıasının ispatlanamadığının, yine de boşanmaya sebebiyet veren olaylarda davacı-karşı davalı erkeğin, davalı-karşı davacı kadına nazaran daha ağır kusurlu olduğunun anlaşılmasına göre, yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı harcın temyiz edene yükletilmesine, peşin alınan harcın mahsubuna ve 154.30 TL. temyiz başvuru harcı peşin alındığından başkaca harç alınmasına yer olmadığına, dosyanın ilk derece mahkemesine, karardan bir örneğinin ilgili bölge adliye mahkemesi hukuk dairesine gönderilmesine oybirliğiyle karar verildi. 28.03.2019 (Prş.)…
 
 ## Yargıtay 2. HD 2019/3594 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/502155800)
+
 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 374. ve devamı maddelerinde yargılamanın yenilenmesi sebepleri tahdidi olarak sayılmış olup, kesinleşmiş olan hükümlere karşı başvurulan istisnai ve olağanüstü bir kanun yoludur. Mahkemece, yapılan yargılama ve toplanan deliller neticesinde taraflar eşit kusurlu bulunarak boşanmalarına karar verilmiştir. Davacı erkeğin; kadının sadakatsiz olması sebebiyle ağır kusurlu olduğundan bahisle yargılamanın yenilenmesi talebi kanunda ve uygulamada kabul edildiği şekilde yargılamanın yenilenmesini gerektiren durumlar arasında bulunmamaktadır. Buna göre yargılamanın yenilenmesi şartları oluşmamış olup davanın reddine karar verilmesi gerekirken kabulüne karar verilmesi usul ve kanuna aykırı bulunmuş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/3459 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/499306700)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle davalı-karşı davacı kadının tanık beyanları bir kül halinde değerlendirildiğinde mahkemece erkeğe yüklenen kusurlu davranışlardan fiziksel şiddet vakıasından sonra tarafların evliliklerini devam ettirdikleri, birlikte yaşamaya devam ettikleri, kadının bu olayı affettiği en azından hoşgörüyle karşıladığı, affedilen ya da hoşgörüyle karşılanan bu vakıanın erkeğe kusur olarak yüklenemeyeceği ve ayrıca davacı-karşı davalı erkeğe kusur olarak isnat olunan bir diğer vakıa olan üç ay boyunca başka bir kadını eve getirerek davalı-karşı davacıyı bu kadınla yaşamaya zorladığına dair vakıaya da davalı-karşı davacı kadın tarafından dilekçelerin karşılıklı verilmesi aşamasında usulünce dayanılmadığı, davalı-karşı davacı kadın tarafından usulünce ileri sürülmeyen bu vakıanında davacı-karşı davalı erkeğe kusur olarak yüklenemeyeceği ne var ki mahkemece kabul edilen ve gerçekleşen diğer kusurlu davranışlara göre de boşanmaya sebebiyet veren olaylarda davacı-karşı davalı erkeğin tam kusurlu olduğu anlaşılmakla, davacı-karşı davalı erkeğin aşağıdaki bentlerin kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2019/2996 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/495193100)
 
 İlk derece mahkemesince; davalı-davacı erkeğin eşini sosyal açıdan kısıtladığı, komşularıyla görüşmesine sınırlama getirdiği, evin ısınmasını engellediği, doğal gaz yaktırmadığı, eşini ve çocuğunu bu şekilde yaşamaya zorladığı, eşinin şahsi ihtiyaçlarını karşılamadığı, eşine hakaret ettiği ve fiziksel şiddet uyguladığı gerekçesiyle boşanmaya sebep olan olaylarda davalı-davacı erkeğin tam kusurlu olduğu kabul edilerek, tarafların boşanmalarına, davacı-davalı kadın yararına 11.000,00 TL maddi, 9.000,00 TL manevi tazminata (TMK m. 174/1 -2) tazminatlara kesinleşme tarihinden itibaren yasal faiz uygulanmasına karar verilmiş, davalı-davacı erkeğin istinaf kanun yoluna başvurması üzerine, ... Bölge Adliye Mahkemesi 2.
 Hukuk Dairesi 2017/401 esas - 2017/479 karar sayılı kararla; dosya kapsamındaki delillerden davalı-davacı erkeğin eşine ve kızma ekonomik şiddet uyguladığının, yüksek fatura geldiğinden bahisle evin yeterince ısınmasını engellediğinin, eşine ve çocuğuna yeterli ekonomik destekte bulunmadığının anlaşıldığını, ancak ilk derece mahkemesi tarafından erkeğe kusur olarak yüklenen diğer vakıaların ise bunlara ilişkin tanık beyanlarının görgüye dayalı olmaması sebebiyle erkeğe kusur olarak yüklenemeyeceğini, boşanmaya sebep olan olaylarda davalı-davacı erkeğin tam kusurlu olduğunu, erkeğin kabul edilen kusurlu davranışlarının kadının kişilik haklarına saldırı niteliğinde olmadığını belirterek, davalı-davacı erkeğin kusur belirlemesi ve kadın yararına hükmolunan manevi tazminat yönünden istinaf talebinin kabulüne, erkeğin sair istinaf taleplerinin reddine ve kadının manevi tazminat talebinin reddine karar vermiştir. Davalı-davacı erkeğin bölge adliye mahkemesince kabul edilen ve gerçekleşen "Yüksek fatura geldiğinden bahisle evin ısınmasını önlemek suretiyle eşine ve kızına ekonomik şiddet uygulaması" şeklindeki kusurlu davranışı kadının kişilik haklarına saldırı teşkil eder niteliktedir.
@@ -102,70 +138,104 @@ Kadın yararına TMK m. 174/2 koşulları oluştuğundan ilk derece mahkemesince
 
 ## Yargıtay 2. HD 2019/2710 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504067700)
+
 Tüm dosya kapsamına göre, mahkemenin de kabulünde olduğu üzere davacı erkek sadakatsiz olup, davalı kadının bu nedenle kişilik haklarının saldırıya uğradığı sabittir. Türk Medeni Kanunu’nun 174/2. maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen davalı kadının ağır ya da eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK m. 4, TBK m. 50, 51) dikkate alınarak davalı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2019/2251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496524800)
 
 Tüm dosya kapsamından; ... 31. Asliye Ceza Mahkemesinin 2015/453 esas ye 2015/622 sayılı dosya kapsamı ve gerekçeli kararının içeriği dikkate alındığında; kadının gece vakti başka bir erkekle sadakatsizlik boyutuna ulaşan güven sarsıcı nitelikte cinsel içerikli mesajlaştığını görmesi üzerine haksız tahrik altında erkeğin eşine basit fiziksel şiddet uyguladığı ve hakaret ettiği, hakaret yönünden yapılan ceza yargılamasında ise erkeğin haksız fiile tepki nedeniyle işlediği gerekçesiyle ceza vermekten vazgeçilmesine karar verildiği bu haliyle davalı kadının, davacı erkeğe nazaran boşanmaya sebebiyet veren olaylarda daha ziyade kusurlu olduğu anlaşılmaktadır.
 Gerçekleşen bu durum karşısında ilk derece mahkemesince davalı kadının ağır kusurlu olduğuna dair tespit ile davacı erkek yararına manevi tazminata hükmedilmesi ve davalı kadının yoksulluk nafakası talebinin reddine karar verilmesi isabetliyken, ilgili bölge adliye mahkemesi hukuk dairesince tarafların eşit kusurlu olduğunun kabulüyle davacı erkek yararına hükmolunan manevi tazminatın kaldırılarak reddedilmesi, davalı kadının da reddine karar verilen yoksulluk nafakasının ret hükmünün kaldırılarak, kadın yararına yazılı olduğu şekilde yoksulluk nafakasına hükmolunması usule ve kanuna aykırı bulunmuş ve kararın açıklanan sebeplerle bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2019/2226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493028700)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle davacı erkeğin, ilk derece mahkemesince kabul edilen ve istinaf edilmeyerek kesinleşen sadakatsizlik kusurunun yanında ayrıca son olayda davalı eşine fiziksel şiddet uyguladığının, yine de boşanmaya sebebiyet veren olaylarda davacı erkeğin, davalı kadına nazaran daha ağır kusurlu olduğunun anlaşılmasına göre, davalı kadının aşağıdaki bent kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2019/1911 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/495221400)
+
 İlk derece mahkemesince, boşanmaya sebep olan olaylarda, davacı erkeğin eski eşi ile bir araya gelmek suretiyle sadakat yükümlülüğüne aykırı davrandığı, buna karşılık davalı kadının davacının ilk eşinden olma çocuklarını evden kovduğu ve çocuklara hakaret ettiği gerekçesiyle tarafların boşanmalarına karar verilmiştir. Karar davacı erkek tarafından istinaf edilmeyip davacı erkeğe yüklenen kusur kesinleşmiştir. Yapılan yargılama ve toplanan delillere göre, boşanmaya neden olan olaylarda davalı kadının kusur durumunun davacı erkeğe nispeten daha az olduğunun kabulü gerekir. Hal böyleyken, ilk derece mahkemesi ve bölge adliye mahkemesince tarafların eşit kusurlu olduğunun kabulü doğru değil ise de; verilen boşanma kararı sonucu itibariyle doğru olduğundan, hükmün kusur belirlemesine ilişkin gerekçesinin değiştirilmek suretiyle onanmasına (HMK m. 370/2) karar vermek gerekmiştir.
 
 ## Yargıtay 2. HD 2019/1840 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/502892300)
 
 İlk derece mahkemesince yapılan yargılama sonucunda; davanın kabulü ile tarafların eşit kusurlu oldukları gerekçesiyle davacı erkeğin manevi, davalı kadının ise maddi ve manevi tazminat taleplerinin reddine karar verilmiş, karar davacı erkek tarafından kusur belirlemesi, manevi tazminat talebinin reddi ile ortak çocuklar yararına hükmedilen nafakaların miktarı yönünden istinaf edilmiştir. İstinaf üzerine bölge adliye mahkemesince “Davalı kadının aynı birimde birlikte çalıştığı erkek ile hafta sonları da dahil iş ilişkisi çerçevesinde değerlendirilemeyecek düzeyde telefon görüşmelerinin olduğu, davalının belirttiği muhafazakar yaşam tarzıyla bu durumun bağdaşmadığı, davacının da davalıya sinkaflı küfür ettiği, davalının sadakate aykırı davranışı nedeniyle davacıya göre daha fazla kusurlu kabul edilmesi gerektiği, bu eylemlerin davacının kişilik haklarına saldırı niteliğinde olduğu” gerekçesiyle davacı erkek lehine manevi tazminata hükmedilmiş ise de; toplanan delillerden davalı kadının eyleminin güven sarsıcı davranış boyutunda kaldığı anlaşılmaktadır. Bu durumda boşanmaya sebep olan olaylarda taraflar eşit kusurludur. Eşit kusurlu eş yararına tazminat verilemez. (TMK m.
 174/2) Açıklanan sebeple davacı erkeğin manevi tazminat talebinin reddi gerekirken yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/1603 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503917200)
+
 İstinaf incelemesini yapan bölge adliye mahkemesince dosya üzerinden yapılan inceleme sonucunda; davalı-karşı davacı erkeğin istinaf taleplerinin kısmen kabulüyle, davacı-karşı davalı kadının eşine karşı güven sarsıcı davranışlarda bulunduğu ve boşanmaya sebebiyet veren olaylarda ağır kusurlu olduğu, gerekçenin kusur belirlemesi yönünden düzeltilmesine, kadının yoksulluk nafakası talebinin reddine ve erkek yararına 5.000,00 TL maddi, 5.000,00 TL manevi tazminata karar verilmiştir. Bölge adliye mahkemesince istinaf talebinin kabulüne karar verildiğine göre kabul edilen konuya ilişkin hükmün eda hükmü oluşturacak şekilde, ifa edilecek edimleri belirleyerek, istinaf talebi kabul edilen yönlerden yeniden esas hakkında karar verilmesi gerekirken ... Bölge Adliye Mahkemesinin 2017/70 esas, 2017/267 karar sayılı kararının birinci bendinin ikinci ve üçüncü paragraflarında eda hükmü oluşturulmadan (6100 Sayılı HMK m. 353/l-b-2) "Düzeltilmesine" şeklinde karar verilmesi doğru değil ise de; bu husus yeniden yargılama yapılmasını gerektirmediğinden, hükmün bu yönden düzeltilerek onanmasına karar vermek gerekmiştir (HMK madde 370/2).
 
 ## Yargıtay 2. HD 2019/1578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489192600)
 
 Mahkemece, tarafların boşanmaya sebep olan olaylarda eşit kusurlu oldukları kabul edilerek boşanmalarına karar verilmiş ise de; yapılan yargılama ve toplanan delillerden, mahkemece erkeğe yüklenen kusurlu davranışlar yanında erkeğin eşine ayrıca hakaret ettiği ve abisinin kadına fiziksel şiddetine sessiz kaldığı anlaşılmaktadır. Davacı kadına yüklenen güven sarsıcı davranışta bulunma vakıasına yönelik tanık beyanları soyut olduğu gibi, bu vakıa dosyadaki diğer delillerle de ispatlanamamıştır. Velayete dair alınan uzman raporunda yer alan ifadeler dikkate alınarak taraflara kusur yüklenemeyeceği için kadına yüklenen "bazı zamanlarda eve gelmeme" vakıası da ispatlanamamıştır. Açıklanan sebeplerle mahkemece de kabul edildiği üzere birlik görevlerini ihmal eden kadına nazaran, erkek boşanmaya sebep olan olaylarda ağır kusurludur. Bu husus gözetilmeden tarafların eşit kusurlu olduklarının kabulü doğru olmamış bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/1547 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519875300)
+
 Mahkemece; boşanmaya sebebiyet veren vakıalarda eşit kusurlu kabul edilerek tarafların karşılıklı boşanma davalarının kabulü ile boşanmalarına karar verilmiş ise de; yapılan yargılama ve toplanan delillerden mahkemece davacı-karşı davalı kadına yüklenen sadakat yükümlülüğünü ihlal eyleminin bu boyuta ulaşmayan güven sarsıcı davranış niteliğinde olduğu anlaşılmaktadır. Mahkemece kabul edilen ve gerçekleşen kusurlu davranışlarına göre boşanmaya sebebiyet veren olaylarda davalı-karşı davacı erkeğin ağır kusurlu olduğunun kabulü gerekir. Bu husus gözetilmeden tarafların eşit kusurlu olarak kabulü doğru olmadığı gibi, bu hatalı kusur belirlemesine göre erkeğin kusurlu davranışları aynı zamanda davacı-karşı davalı kadının kişilik haklarına saldırı teşkil eder nitelikte olduğu ve kadının birleşen davaya verdiği cevap ile de maddi tazminat talebinde bulunduğu ve bu talebin süresinde olduğu hususu gözetilmeden, kusurun ağırlığı tarafların ekonomik ve sosyal durumları ile hakkaniyet kuralları gözetilerek kadın yararına TMK 174/1-2 maddesi uyarınca maddi ve manevi tazminata hükmedilmesi gerekirken yazılı şekilde karar verilmesi bozmayı…
 
 ## Yargıtay 2. HD 2019/1329 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/497190300)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle davalı-davacı kadının birden fazla kez sadakat yükümlülüğünü ihlal eylemine karşılık davacı-davalı erkeğinde eşine fiziksel şiddet uyguladığı ve hakaret ettiği, ancak şu hale göre de, boşanmaya sebebiyet veren olaylar dikkate alındığında mahkemece davalı-davacı kadının ağır kusurlu bulunmasında bir isabetsizlik olmadığının anlaşılmasına göre, tarafların aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2019/1018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488682000)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle mahkemece davacı erkeğe yüklenen sadakat yükümlülüğünü ihlal vakıasının güven sarsıcı davranış boyutunda kaldığının, yine de boşanmaya sebebiyet veren olaylarda davacı erkeğin, davalı kadına nazaran daha ağır kusurlu olduğunun anlaşılmasına göre, davacı erkeğin aşağıdaki bendin kapsamı dışında kalan sair temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2019/1005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484418500)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle davalı erkeğe kusur olarak yüklenen "Aşağılayıcı söylemlerde bulunma" vakıasına davacı kadın tarafından dilekçelerin karşılıklı verilmesi aşamasında usulüne uygun şekilde dayanılmadığından erkeğe kusur olarak yüklenemez ise de, Bölge Adliye Mahkemesince kabul edilen ve gerçekleşen "Sadakatsizlik" vakıası nedeniyle boşanmaya sebebiyet veren olaylarda davacı erkeğin yine de tamamen kusurlu olduğunun anlaşılmasına göre tarafların yerinde bulunmayan temyiz itirazlarının reddiyle, usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edenlere yükletilmesine, peşin alınan harcın mahsubuna ve 154.30'ar TL. temyiz başvuru harcı peşin alındığından başkaca harç alınmasına yer olmadığına, dosyanın ilk derece mahkemesine, karardan bir örneğinin ilgili bölge adliye mahkemesi hukuk dairesine gönderilmesine oybirliğiyle karar verildi. 13.02.2019 (Çrş.)…
 
 ## Yargıtay 2. HD 2019/781 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496111100)
+
 Davacı erkek tarafından açılan 05.04.2013 tarihli asıl davada anlaşmalı boşanma davası ıslah edilerek zina ( TMK m. 161) ve evlilik birliğinin sarsılması hukuki sebebine dayalı boşanma ( TMK m. 166/1) talep edilmiş, erkek tarafından 14.11.2013 tarihinde açılan birleşen dava ile zina ( TMK m. 161) olmadığı taktirde evlilik birliğinin sarsılması hukuki sebebine dayalı boşanma ( TMK m. 166/1) talep edilmiştir. Yapılan yargılama ve toplanan delillerden mahkemece kadına kusur olarak yüklenen güven sarsıcı davranışın asıl dava tarihinden sonra gerçekleştiği, asıl davada kadının atfi kabil kusurunun bulunmadığı anlaşılmaktadır. Bu halde erkeğin 05.04.2013 tarihinde açtığı asıl davasının reddine karar verilmesi gerekirken yazılı şekilde kabulü doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/643 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486318200)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle davacı erkeğe yüklenen "sadakat yükümlülüğünü ihlal" vakıasının "güven sarsıcı davranış" boyutunda kaldığının, yine de boşanmaya sebebiyet veren olaylarda davacı erkeğin, davalı kadına nazaran daha ağır kusurlu olduğunun anlaşılmasına göre, yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine, peşin alınan harcın mahsubuna ve 154.30 TL. temyiz başvuru harcı peşin alındığından başkaca harç alınmasına yer olmadığına, dosyanın ilk derece mahkemesine, karardan bir örneğinin ilgili bölge adliye mahkemesi hukuk dairesine gönderilmesine oybirliğiyle karar verildi. 06.02.2019 (Çrş.)…
 
 ## Yargıtay 2. HD 2019/555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484246400)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle; mahkemece davacı erkek tarafından TMK 166/son maddesine dayalı olarak açılan boşanma davasında davacı erkeğin aile birliğini terk ettiği, birlik görevlerini yapmadığı ve başka bir kadınla ilişki kurduğu, bu nedenle tam kusurlu olduğu kabul edilerek tarafların boşanmalarına karar verilmiş ise de; davalı kadının Hukuk Muhakemeleri Kanunu'nun 127, 128, 129. maddeleri gereğince davaya süresinde cevap vermediğinin, bu sebeple erkek için kusur oluşturabilecek yeni bir vakıayı ileri süremeyeceğinin, bu durumda erkeğe başka bir kadınla ilişki kurduğuna yönelik vakıanın kusur olarak yüklenemeyeceğinin ancak dosya kapsamından TMK 166/son. maddesine dayalı boşanma davasına konu reddedilerek kesinleşen boşanma davasında kanıtlanan ve mahkemece de bu dava için kusur kabul edilen diğer vakıalardan dolayı davacı erkeğin yine de tam kusur olduğunun anlaşılmasına göre davacının aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2019/539 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484095500)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle kadının güven sarsıcı niteliğindeki davranışlarından sonra evliliğin devam ettiği, bu kusurun erkek tarafından affedildiği, en azından hoşgörü ile karşılandığı bu sebeple güven sarsıcı davranış kusurunun davalı-davacı kadına yüklenemiyeceği ancak tarafların gerçekleşen ve mahkemece de kabul edilen diğer kusurlu davranışlarına göre, boşanmaya sebep olan olaylarda davalı-karşı davacı kadının erkeğe göre yine de ağır kusurlu olduğunun anlaşılmasına göre davalı-karşı davacı kadının aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2019/286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483889000)
+
 Tüm dosya kapsamı ve toplanan delillerden; mahkemece taraflara yüklenen kusurlu davranışlar yanında, ayrıca davalı-karşı davacı erkeğin, güven sarsıcı davranışlarda bulunduğu ve ekonomik şiddet uyguladığı anlaşılmaktadır. Gerçekleşen bu durum karşısında, boşanmaya neden olan olaylarda davalı-karşı davacı erkeğin, davacı-karşı davalı kadına nazaran daha ağır kusurlu olduğunun kabulü gerekir. Öyleyse, mahkemece tarafların eşit kusurlu kabul edilmesi ve bu hatalı kusur belirlemesine bağlı olarak davacı-karşı davalı kadının maddi ve manevi tazminat (TMK m. 174/1-2) taleplerinin reddine karar verilmesi isabetsiz olmuş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2019/152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/485829000)
 
 Dosyadaki yazılara, mahkemece bozma kararı gereğince hüküm verilmiş olmasına ve bozmanın kapsamı dışında kalarak kesinleşmiş olan yönlere ait temyiz itirazlarının incelenmesinin artık mümkün bulunmamasına ve özellikle; bozma kararında davacı kadına kusur olarak yüklenemeyeceği belirtilmesine rağmen bozma sonrası karar gerekçesinde yer alan “cep telefonu ile güven sarsıcı davranışta bulunma ve sosyal medya hesabında ilişki durumunu boş olarak gösterme” vakıalarının davacı kadına kusur olarak yüklenemeyeceğinin yine de tarafların eşit kusurlu olduklarının anlaşılmasına göre, tarafların yersiz görülen temyiz isteklerinin reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edenlere yükletilmesine, peşin alınan harcın mahsubuna ve 176.60'ar TL. temyiz başvuru harcı peşin alındığından başkaca harç alınmasına yer olmadığına, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 15.01.2019 (Salı)…

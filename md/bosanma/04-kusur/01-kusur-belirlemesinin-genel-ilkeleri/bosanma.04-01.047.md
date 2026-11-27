@@ -21,56 +21,82 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 11. HD 2026/621 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204227100)
+
 2918 sayılı Karayolları Trafik Kanunu'nun 91/1. 85/1. ve 85/son maddeleri ile Karayolları Zorunlu Mali Sorumluluk Sigortası Genel Şartlarına göre trafik kazası nedeni ile oluşan davacının maddi zararından davalı sigorta şirketi ile işleten sıfatına haiz araç maliki ve sürücünün, sigortalı araç sürücüsünün kusuru oranında sorumlu olduğu amirdir.(Yargıtay Hukuk Genel Kurulu'nun 15.6.2011 tarih ve 2011/17-142 E. - 2011/411 K., 17.Hukuk Dairesi'nin 20/05/2013 tarih ve 2012/8984 E. - 2013/7276 K.) 2918 sayılı Karayolları Trafik Kanun’unun 92. maddesinin (f) bendi ile Zorunlu Mali Mesuliyet Sigortası Genel Şartlarının gereği manevi tazminat poliçe kapsamı dışında olduğundan davalı sigorta şirketinin manevi tazminat talebi yönünden her hangi bir sorumluluğu söz konusu değildir. Buna karşın, 2918 sayılı Karayolları Trafik Kanunu'nun 85 ve 90. maddeleri kapsamında davacıların manevi zararından işleten sıfatına haiz araç maliki ile araç sürücüsü, sürücünün kusuru oranında sorumludur.
 
 ## Denizli BAM 4. HD 2026/419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199747600)
+
 Manevi tazminat zenginleşme aracı olmamakla beraber, bu yöndeki talep hakkındaki hüküm kurulurken olay sebebiyle duyulan acı ve elemin kısmen de olsa giderilmesi amaçlanmalı ve bu sebeple tarafların sosyal ve ekonomik durumları ile birlikte olayın meydana geliş şekli ve tarafların kusur durumu da gözönünda tutularak, hak ve nasafet kuralları çerçevesinde bir sonuca varılmalıdır. Zira, M.K'nun 4. maddesinde, kanunun takdir hakkı verdiği hallerde hakimin hak ve nesafete göre hükmedileceği öngörülmüştür. Buna göre, davacının yaralanması nedeniyle yaşadığı acı ve elem, kazadaki kusur durumları, tarafların ekonomik sosyal durumu, paranın alım gücü, olayın meydana geliş şekli göz önüne alındığında, hak ve nasafet kuralları çerçevesinde takdir edilen manevi tazminatın TMK'nın 4. maddesi uyarınca az olduğu anlaşılmıştır.
 
 ## Ankara BAM 21. HD 2026/138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195228700)
 
 Bu bağlamda somut olay irdelendiğinde, davacı ile davalı ...'ün davalı ...'in davacıyı başka bir bir kadınla aldatması nedeniyle davalı ...'ün kusuru ile boşandıkları, davacı ve davalı arasında işletmenin devamı hususunda anlaşmazlıklar bulunduğu, yine davalı ...'ün davacıyı iş yerinden kovup bir daha iş yerine sokmadığı hususlarının tanık beyanları ile sabit olduğu, yine şirket müdürü olan davalı ...'ün mali müşavir bilirkişi ... tarafından tanzim edilen raporda da belirtildiği üzere, mamulleri maliyetinin altında satmasının yönetimsel bir zafiyet olarak yorumlanabileceğinin belirlendiği, bu haliyle davalı ...'in şirketi kötü yönettiği, yine davacının boşanma davasına bağlı olarak davacının alacağını azaltmak amacıyla davalının şirketi zarara soktuğu iddiası karşısında tarafların boşanma ilamlarının da kesinleştiği dikkate alındığında, bu aşamadan sonra davalı ile ortaklık yürütemeyeceği kanaatine varan ve güven ilişkileri zedelenen davacıdan davalı ile ortaklığa devam etmesinin ve tarafların birlikte davalı şirketi devam ettirmelerinin beklenemeyeceği, ancak şirketin aktif mamelekenin ve çalışanlarının mevcut olup, %51 pay sahibi olan davalının da şirketi devam ettirme iradesi
 olduğu, davacının da 25/02/2020 tarihli celsede fesih koşulları olmaması halinde davacının çıkma payı ödenmesi şartıyla ortaklıktan çıkma talebinde bulunduğu anlaşılmakla, mahkemece şirketin feshi yerine alternatif çözüm yöntemi olarak davacının ortaklıktan çıkmasına karar verilmesi isabetlidir.
 
 ## Konya BAM 3. HD 2026/108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192995200)
+
 6098 sayılı TBK'nın 52. Maddesine göre; Zarar gören, zararı doğuran fiile razı olmuş veya zararın doğmasında ya da artmasında etkili olmuş yahut tazminat yükümlüsünün durumunu ağırlaştırmış ise hâkim, tazminatı indirebilir veya tamamen kaldırabilir. Zarara hafif kusuruyla sebep olan tazminat yükümlüsü, tazminatı ödediğinde yoksulluğa düşecek olur ve hakkaniyet de gerektirirse hâkim, tazminatı indirebilir. Anılan yasal düzenlemede de belirtildiği üzere zarar görenin zararın oluşmasında ya da zararın artmasında bir ihmali varsa bu hususun tazminatın belirlenmesinde dikkate alınması gerekir. Bir başka deyişle zararın oluşumunda zarar görenin de müterafik kusurunun bulunması halinde tazminattan indirim yapılması gerekmektedir. Müterafik kusurun dikkate alınması için bu yönde yapılan bir savunmaya gerek olmayıp Mahkemece müterafik kusurun resen dikkate alınması gerekmektedir. Nitekim bu husus Yargıtay 17. Hukuk Dairesi'nin 2016/3135 E 2018/11955 K sayılı ilamında da vurgulanmıştır. Ayrıca müterafik kusur indirimi nedeniyle kısmen reddedilen tutar üzerinden davacı aleyhine vekalet ücretine hükmedilmeyeceği noktasında da duraksama bulunmamaktadır.
 
 ## Konya BAM 3. HD 2025/1365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157763500)
 
 Manevi tazminatın tutarını belirleme görevi hâkimin takdirine bırakılmış ise de hâkim; Medeni Kanununun 4. maddesinde yer alan hakkaniyet ilkesi gözeterek, hukuk ve adalete uygun hak ve nesafet kurallarına göre uygun miktarda tazminat takdir etmesi gerekmektedir. Miktarın belirlenmesinde her olaya göre değişebilecek özel hal ve şartların değerlendirilmesi gerekir. Hakim manevi tazminata hükmederken; tarafların kusur durumu, kusur derecesi, ekonomik ve sosyal durumları, zarar ile olay arasındaki illiyet bağı, ölüm halinde kaza ile ölüm arasında illiyet bağının bulunması, olayın tarihi, olayın ağırlığı, olay tarihindeki paranın satın alma gücü, davacı sayısı gibi hususlar dikkate alınarak davacılar için zenginleşme, davalılar için yoksulluğa neden olmayacak şekilde belirlenmelidir.
 
 ## Ankara BAM 31. HD 2025/206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126672000)
+
 Ne var ki; bu konuda tüm kusurun davalı iş sahibine yüklenmesi dosyamızda toplanan delillere uygun düşmeyecektir. Nitekim mahkememizce de benimsenen 21/12/2021 ve 20/06/2022 tarihli bilirkişi heyeti ek raporlarında da ortaya konulduğu üzere; dosyaya kazandırılan dava konusu kablo kanalı imalat kalemlerini de içerir hak ediş çarşaf sayfaları da dikkate alındığında davacı yüklenici şirketlerin davalı iş sahibinin yukarıda değinilen uyarı yazısına aykırı olarak kablo kanalı imalatlarına devam ettiği sabit olduğuna göre; davacı yüklenici şirketlerin de sözleşme haricinde yapılan ve proje dışında iş artışı kalemi olarak kabulü gereken tuvenan kablo kanalı imalatlarının yapımında davalı iş sahibi ile birlikte kusurlu olduğu kanaatine varılmıştır. Bu nedenle davacı ve davalıların dava konusu imalatlar yönünden ayrı ayrı %50 oranında kusurlu olduğu kabul edilmiştir.
 
 ## İzmir BAM 11. HD 2023/724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892909900)
 
 5510 sayılı Kanun'un 21. maddesinin 4. Fıkrasına göre iş kazası, meslek hastalığı ve hastalık, üçüncü bir kişinin kusuru nedeniyle meydana gelmişse, sigortalıya ve hak sahiplerine yapılan veya ileride yapılması gereken ödemeler ile bağlanan gelirin başladığı tarihteki ilk peşin sermaye değerinin yarısı, zarara sebep olan üçüncü kişilere ve şayet kusuru varsa bunları çalıştıranlara rücu edilecektir. Bu nedenle davacılara meydana gelen trafik kazası nedeni ile SGK Başkanlığı tarafından bir gelir bağlanıp bağlanmadığı, bağlandı ise kurumun söz konusu bağlanan gelir için rücu hakkı bulunup bulunmadığının da araştırılması gerekmektedir.
 
 ## Ankara BAM 35. HD 2023/468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884337400)
+
 Kabule göre de, birleşen Kayseri 2. Asliye Ticaret Mahkemesi'nin 2018/505 Esas sayılı dosyası ile davacı ... tarafından ikame edilen dava ile eldeki dava birleştirilmeden evvel asıl dava dosyası olan Kayseri 2. Asliye Ticaret Mahkemesi'nin 2016/600 Esas sayılı dosyası üzerinden mahkemece alınan kusur raporunun,birleştirme işlemi sonrasında birleşen dosya davacısı davacı ... vekiline tebliğ edilmediği anlaşılmıştır.Kusur raporunun taraflara tebliğ edilmesi usuli bir zorunluluk olup,bilirkişi raporu kendisine tebliğ edilmeyen tarafa rapora itiraz hakkının tanınmamış olması savunma hakkının kısıtlanması sonucunu doğurur. Açıklanan nedenle hükme esas alınan kusur raporunun davacı ... vekiline tebliği ile yasal itiraz süreleri beklenerek bu tarafa savunma hakkı tanınması gerekirken davacı ...’ın savunma hakkının kısıtlanması yerinde görülmemiştir.
 
 ## Konya BAM 3. HD 2023/383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870283300)
+
 Zararın meydana gelmesinde veya artmasında zarar görenin de kusurunun bulunması halinde söz konusu olan müterafik kusur Borçlar Kanunu'nun 44. maddesinde (6098 sayılı TBK md. 52) düzenlenmiştir. Zarar görenin kusurunun zararın meydana gelmesinde başlıca etken olması halinde zarar verenin sorumluluğunun kalkması söz konusu olabileceği gibi belirlenen kusura göre zarar ve ziyandan indirim yapılmasını da gerektirebilir.
 
 ## Antalya BAM 4. HD 2022/1455 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813114300)
 
 Ceza dava dosyası kapsamı itibariyle, ölen 2016 doğumlu ...'nın yanında halası .... olduğu halde yaya geçidinden yolun karşısına geçmek için yol kenarında beklerken .... isimli kişinin sürücüsü olduğu aracın sağ şeritte durarak yayalara yol verdiği ve geçmeleri için el işareti yaptığı, bu aracın arkasından gelen servis aracının da durduğu, bunun üzerine yayaların yaya geçidinden yoluna karşına geçmek için yol kaplamasına indiği, ...'nın ilk duran aracın önüne geldiğinde halasının elini bırakarak karşı tarafa doğru koşmaya başladığı, o sırada sol şeritte otomobiliyle seyir halinde bulunan dava dışı .... ın geldiği seyir hızıyla yaya geçidine girmesi nedeni ile sol şerit üzerinde ...'ya çarptığı, ...'nın çarpmanın etkisi ile tedavi altına alındığı hastanede yaşamını yitirdiği, trafik kazasının meydana geldiği yaya geçinde trafik ışığı bulunmadığı, ancak yaya geçidinden 9 metre önce yaya geçidi trafik levhasının bulunduğu, dava dışı sürücünün 2918 Sayılı Karayolları Trafik Kanunu'nun 74/1 maddesi gereğince trafik ışığı ile kontrol edilmeyen yaya geçidine yaklaşırken yavaşlamak, yaya geçinden geçen veya geçmek üzere olan yayalara ilk geçiş hakkını vermek zorunda olduğu, oysa dava dışı
 sürücünün yaya geçidi trafik levhasına rağmen hızını azaltmadığı, mevcut hızıyla yaya geçidine girdiği, yaya geçidi önünde sağ şeritte duran ve görüşünü engelleyen iki aracın yayalara yol verdiğini öngörmesi ve her an kendi bulunduğu şeride hızla yürüyen yayaların geçebileceğini düşünmesi gerekirken, bu ihtimalleri de göz ardı ettiği, dava dışı sürücünün geldiği hızla yaya geçidine girdiği için ...'nın yürüyerek geçmesi halinde de trafik kazasının engellenemeyeceği, yaya geçidine yürüyerek girip, yaya geçidinin ortasından itibaren koşar adımla karşıya geçen yayaya koştuğu için kusur izafe edilmesinin mümkün olmadığı, tüm kusurun yaya geçinde sağ şeritte duran araçların varlığına rağmen tedbirsizlik ve dikkatsizliği sonucu yaya geçidine mevcut hızıyla giren sürücüde olduğu, nizami şekilde yaya geçidini kullanan çocuğun maruz kaldığı trafik kazasında anne ve babanın bakım ve gözetim görevlerini ihmal ettiğinden söz edilemeyeceği dikkate alındığında, ilk derece mahkemesince sigortalı araç sürücünün trafik kazasının meydana gelmesinde tam kusurlu olduğuna yönelik tespitinde dosya kapsamına aykırı bir yön görülmemiştir.
 
 ## İzmir BAM 20. HD 2022/183 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726400400)
+
 2-) 2918 sayılı Karayolları Trafik Kanunu’nun 91/1. Maddesinde, “İşletenlerin, bu kanunun 85/1 maddesine göre olan sorumluluklarının karşılanmasını sağlamak üzere mali sorumluluk sigortası yaptırmaları zorunludur”; 85/1 maddesinde, “Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün unvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen biletle işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen sorumlu olurlar.”;
 85/son maddesinde ise, “işleten ve araç işleticisi teşebbüsün sahibi, aracın sürücüsünün veya aracın kullanılmasına katılan yardımcı kişilerin kusurundan kendi kusuru gibi sorumludur.” hükümlerine yer verilmiş, Karayolları Zorunlu Mali Sorumluluk Sigortası Genel Şartlarının A-1. maddesinde de, “Sigortacı bu poliçede tanımlanan motorlu aracın işletilmesi sırasında bir kimsenin ölümüne veya yaralanmasına veya bir şeyin zarara uğramasına sebebiyet vermesinden dolayı 2918 sayılı Karayolları Trafik Kanunu’na göre işletene düşen hukuki sorumluluğu, zorunlu sigorta limitlerine kadar temin eder” şeklinde ifade edilmiştir.
 
 ## Ankara BAM 26. HD 2021/2470 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/713739300)
+
 Asıl ve birleşen davalar desteklerin sürücüsü ve işleteni olduğu aracın ZMSS şirketi ile birlikte karşı aracın sürücüsü, işleteni, trafik ve İMSS şirketi (manevi tazminat yönünden) aleyhinde açılmış olup, dosya kapsamına göre davalı ... ... A.Ş. tarafından asıl dosya davacısına eşi ve oğlunun ölümü nedeniyle davadan önce ve yargılama sırasında tazminat ödemeleri yapıldığı anlaşılmıştır. Davadan önce yapılan ödemenin yeterli olup olmadığı yönünden ödeme tarihindeki verilere göre tazminat hesabı yapılması, yetersiz olduğunun anlaşılması halinde hükme esas alınan rapor tarihi itibari ile bilinen dönemin sonlandırılarak, bu kez rapor tarihindeki verilere göre tazminat hesaplanması ve ödeme tarihinden hükme esas alınan rapor tarihine kadar ödenen tazminat güncellenerek toplam tazminattan mahsup edilerek davacının hak ettiği tazminatın tespiti gerekir. Yargılamam sırasında ödenen tazminat güncelleme yapılmadan tazminattan mahsup edilir.
 Somut olayda ödemeleri karşı aracın trafik sigortası şirketi yaptığına göre, (iç ilişki ve mirasçılara rücu kapsamında önem arz ettiğinden) sigortalısının kusuruna isabet eden tazminattan, davadan önceki ödemelerin güncellenmiş değerinin, yargılama sırasındaki ödemenin güncellenmemiş miktarının indirilmesi, daha sonra davacı tarafın tazminatları müştereken ve müteselsilen talep ettiği gözetilerek sürücü desteğin kusuruna isabet eden tazminatta tespit edilip, karşı aracın ve destek yönetimindeki aracın kusurları toplamına (%100 kusur) isabet eden tazminat toplamına göre sorumluluk kararı verilmesi gerekir. Yine dosya kapsamında asıl dosya davacısının bir kısım davalılar yönünden davasından feragat ettiği, bir kısmı yönünden ödemeler nedeniyle davadan vazgeçtiği görülmüştür. Bu halde taraflar lehine oluşan usulü kazanılmış hakların da dikkate alınması gerekmektedir. Hükme esas alınan aktüer bilirkişi raporları yukarıda açıklanan hususlarda denetime ve hükme elverişli değildir.
 
 ## İstanbul BAM 9. HD 2018/596 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/418256900)
 
 Ancak olay tarihinde, davacının yolcu olarak bindiği ... plakalı motosiklet sürücüsü ... alkollüdür. Davacının desteği müteveffa .... tarafından bu husus bilinmektedir. Davacının desteği müteveffa bunu bilerek motosiklete binmiş ve herhangi bir kask takma vs. gibi önleyici tedbir de almamıştır. Davacının desteği müteveffanın bu davranışları, TBK'nun 52.maddesindeki müterafik kusuru teşkil etmektedir. Ayrıca davacının desteği müteveffa ..., gezmek amacıyla arkadaşının kullandığı motosiklete binmiştir. Bu husus da hatır taşıması kapsamına girmektedir. Dolayısıyla, İtiraz Hakem Heyeti'nce karar altına alınan destekten yoksun kalma tazminatından müterafik kusur ve hatır taşıması indirimi yapılması gerekmektedir. Bir başka deyişle, davalı vekilinin müterafik kusur ve hatır taşıması indirimi yapılması iddiaları yerindedir.
