@@ -24,16 +24,24 @@ Mecelle'den aktarılmak suretiyle günümüz hukukunda da kullanılan ecrimisil 
 
 ## Yargıtay HGK 2019/984 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554346500)
+
 Kamulaştırmasız el koyma nedeniyle ister el atmanın önlenmesi davası isterse yer bedeli veya tazminat ya da ecrimisil davası açılmış olsun, davacının iddiasının araştırılması bilirkişi incelemesine bağlıdır (Arcak, A. / Doğrusöz, E.: Kamulaştırmasız Elkoyma, Ankara 1992, s. 55).
 
 ## Yargıtay HGK 2019/911 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538775500)
 
 Bilindiği üzere;kamulaştırma kararı almadan veya kamulaştırma işlemlerini tamamlamadan taşınmaza el koymuş bulunan idare, haksız işgalci konumundadır. Davalı idarenin kamulaştırma bedelinin tespiti, tapu iptali ve tescil/sicilden terkin istekli davayı açtığı tarihe kadar taşınmaza elatması haksız fiil niteliğindedir. Kamulaştırma bedelinin tespiti davalarında, dava tarihine göre belirlenen taşınmaz bedelinin tahsiline ve bu tarih itibariyle faize hükmedildiğinden taşınmazın malik/malikleri, anılan davanın açıldığı tarihten geriye doğru ecrimisil isteyebileceklerdir. Başka deyişle kamulaştırmasız elatma sebebiyle ecrimisil, davalı idare tarafından kamulaştırma bedelinin tespiti davasının açıldığı tarihe kadar istenebilir. Kamulaştırma davası sonunda mahkemece kamulaştırma bedelinin ödenmesine karar verildiği tarih dikkate alınmaz.
 
 ## Yargıtay 5. HD 2014/31744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/340030700)
+
 Mahallinde yapılan keşif sonucu, taşınmazın dava tarihindeki değerinin biçilmesinde ve alınan rapor uyarınca bedelinin tahsiline ve ecrimisile karar verilmesinde bir isabetsizlik görülmemiştir. Ancak;…
 
 ## Yargıtay 5. HD 2014/29470 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/122440200)
 
 Mahallinde yapılan keşif sonucu alınan rapor uyarınca taşınmazın dava tarihindeki değerinin biçilmesi ve taşınmaz bedeli ile ecrimisilin davalı idareden tahsiline karar verilmesi doğru olduğu gibi, el atılan taşınmaz, yol durumuna dönüştürüldüğünden, 4721 sayılı T.M.K’nun 999.maddesi uyarınca tapudan terkinine karar verilmesinde bir isabetsizlik görülmemiştir.

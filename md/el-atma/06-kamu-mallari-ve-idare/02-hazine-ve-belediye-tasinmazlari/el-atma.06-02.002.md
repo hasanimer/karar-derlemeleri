@@ -96,6 +96,8 @@ tarihli ve 32025 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren 742
 
 ## Yargıtay 5. HD 2025/13662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193674000)
+
 Davacı vekili dava dilekçesinde özetle; dava konusu Düzce ili, ..., köyü 2 90... (yeni 1 05... ve 24) parsel sayılı taşınmazlara davalı idare tarafından yol yapılmak suretiyle el atıldığını belirterek kamulaştırmasız el atılan taşınmazlar bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -111,6 +113,8 @@ Yargıtay Hukuk Genel Kurulu tarafından yapılan inceleme sonunda ... Belediye 
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/11828 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178625900)
 
 Davacı vekili dava dilekçesinde özetle; Antalya ili, ..., ... 30025 ada 3 parsel (eski .... Mahallesi 26074 ada 1 parsel) sayılı taşınmazda davacının kendi adına kayıtlı payının bulunduğunu, 1998 yılında yapılan imar çalışmalarında taşınmazın park alanı olarak planlandığını, 31.10.2022 tarihinde yapılan imar revizyon çalışması ile taşınmazın lise alanı olarak planlandığını, kamulaştırma işlemi yapılmadığını ileri sürerek şimdilik 50.000,00 TL kamulaştırmasız el atma tazminatının faiziyle birlikte davalı idareden tahsilini talep etmiştir.
 
@@ -129,6 +133,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 5. HD 2025/10777 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174395800)
+
 Davacı idare vekili dava dilekçesinde özetle; davaya konu İstanbul ili, Fatih ilçesi, ... Mahallesi 1850 ada 44 parsel sayılı taşınmazın imar planında yolda kalıp uzun yıllardır da fiilen yol olarak kullanıldığını, 1954 yılından beri dava konusu taşınmazdan geçen ... caddesi mevcut olup 221 sayılı Kanun uyarınca dava konusu taşınmazın tapu kaydının iptali ile müvekkili idare adına tescilini talep etmiştir.
 
 …
@@ -144,6 +150,8 @@ Dava konusu taşınmazın 1957 yılında yapılan yol genişletme çalışmalar�
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/9711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173655700)
 
 Davacılar vekili dava dilekçesinde özetle; müvekkillerinin murisinin ... ili, ... ilçesi, ... Mahallesi 4420 ada 4 ve 5 parsel sayılı taşınmazların maliki olduğunu, bu taşınmaza davalı idarenin kamulaştırma yapmaksızın fiilen el attığını belirtmiş ve davalı tarafından kamulaştırmasız el konulan hissenin iptaliyle, davalı idareye tescilini ve şimdilik 10.000,00 TL kamulaştırmasız el atma bedelinin tapu ve veraset ilâmındaki payları oranında davacılara ödenmesini istemiş, bilahare de istemini Dışişleri Bakanlığı yönünden 225.000,00 TL, ... yönünden ise 231.725,00 TL'ye çıkartmıştır.
 
@@ -162,6 +170,8 @@ Yıl Çarşısı'nın bulunduğu alanın ağaçlıklı ... alan olarak kullanıl
 Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/7176 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181261200)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -184,6 +194,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 5. HD 2025/6331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154483900)
+
 Davacılar vekili dava dilekçesinde özetle; müvekkillerine ait Bursa ili, ..., ... Mahallesi 4936 ada 1 parsel sayılı taşınmaza kamulaştırmasız olarak el atıldığını, taşınmazın imar planında lise alanında olduğunu belirterek bedelinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -199,6 +211,8 @@ Dava konusu taşınmazda kısmen Osmangazi Belediye Başkanlığının sorumlu o
 Davacılar ve davalı ... vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/4999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151118800)
 
 Davacılar vekili asıl ve birleştirilen davanın dava dilekçelerinde özetle; dava konusu Ankara ili, ... ilçesi, ... Mahallesi, 44749 ada 1 parsel sayılı taşınmaza kamulaştırmasız el atıldığından taşınmazın bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
@@ -216,6 +230,8 @@ fiilen el atılmamış olsa dahi makul süre içinde imar planına uygun herhang
 Davalı idare vekilinin temyiz itirazları yerinde görülmediğinden usul ve kanuna uygun olan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 8. HD 2025/3924 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172930500)
 
 İlk Derece Mahkemesince verilen hükme karşı istinaf harcı ve istinaf gider avansının yatırılmadığı gerekçesiyle davalılar ... ve arkadaşları vekilinin istinaf talebinin reddine karar verildiği anlaşılmıştır. Yeni sistemde temyiz edilen karar İlk Derece Mahkemesinin kararı değil, Bölge Adliye Mahkemesinin kararıdır.
 
@@ -236,6 +252,8 @@ Hazine lehine verilen pay yönünden esasa yönelik incelemede ise; tapu kaydın
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2025/2663 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1149170200)
 
 Davacı ... İdaresi vekili dava dilekçesinde özetle; Kocaeli ili, ... ilçesi, Yarımca beldesi sınırları içinde özel orman statüsünde bulunan I-II-III-IV-V nolu (3478-3479-3480-3481-3482) parseller üzerinde bulunan Yarımca mahallesi 117 ada 1 parsel sayılı taşınmazın özel orman olarak sınırlandırma işleminin iptaline ve tapusunun Devlet ormanı vasfı ile Hazine adına tapuya kayıt ve tesciline, vaki müdahalenin önlenmesine karar verilmesini talep etmiştir.
 

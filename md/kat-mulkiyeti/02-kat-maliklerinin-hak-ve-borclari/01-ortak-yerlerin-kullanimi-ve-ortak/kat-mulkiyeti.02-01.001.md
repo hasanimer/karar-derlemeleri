@@ -21,13 +21,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2014/392 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84019200)
+
 Dosya içerisindeki bilgi ve belgelerin, özellikle bilirkişi raporlarının incelenmesinden kat malikleri kurulu kararları doğrultusunda anataşınmazın ortak yerlerinde onarım yapılması ve bunun için yapılacak harcamalar nedeni ile toplanacak aidatlar belirlenmiş ve bu doğrultuda da gerekli bakım ve onarımın gerçekleştirilmiş olduğu anlaşılmaktadır. Kat Mülkiyeti Yasasının 19.maddesi gereğince kat malikleri anagayrimenkulün bakımına ve mimari durumu ile güzelliğini ve sağlamlığını titizlikle korumaya mecbur olup aynı Yasanın 20.maddesi gereğince kat malikleri anataşınmazın onarım giderlerine aralarında başka türlü anlaşma olmadıkça arsa payı oranında katılmakla yükümlüdür. Buna göre anataşınmazın ortak yerlerinde yapılması zorunlu olup projesine uygun olarak yapılmış olan onarım giderinden davalının yukarıda açıklanan yasa maddeleri gereğince sorumlu olacağı gözardı edilerek yerinde olmayan gerekçelerle davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay HGK 2013/1642 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77391400)
+
 634 sayılı Kat Mülkiyeti Yasasının 19.maddesi hükmüne göre kat malikleri anataşınmazın mimari durumunu titizlikle korumakla yükümlü oldukları gibi, kat maliklerinden biri diğer tüm kat maliklerinin beşte dördünün yazılı rızası olmadıkça ortak yerlerde inşaat, onarım, tesis ve değişiklikler yaptıramaz. Dosya içindeki belgelerden ve özellikle yerinde yapılan inceleme sonucu düzenlenen bilirkişi raporu içeriğinden; davalıya ait zemin kat A-13 Blok 1 nolu bağımsız bölümünün iki cepheden açık olan balkonunun yerden korkuluk yüksekliğince iç kısımdan sabit cam ile çerçeve yapıldığı, korkuluk üstünden itibaren sabit ray üzerinde kayarak açılır kapanır biçimde monte edilen bir sistemle cam yapılarak kapatıldığı anlaşılmaktadır. Saptanan bu durum karşısında davalının bağımsız bölümünün balkonunun, projeye aykırı olarak kapatıldığı kanıtlandığından mahkemece dava konusu edilen balkonun eski hale getirilmesine karar verilmesi gerekirken, yerinde olmayan yazılı gerekçeyle davanın reddi doğru görülmemiştir.
 
 ## Yargıtay HGK 2013/1033 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77564200)
 
 634 sayılı Kat Mülkiyeti Yasasının 20. maddesine göre; kat maliklerinden her biri aralarında başka türlü anlaşma olmadıkça anagayrimenkulün bütün ortak yerlerin bakım, koruma, güçlendirme ve onarım giderleri ile ortak tesislerin işletme giderlerine ve giderler için toplanacak avansa kendi arsa payı oranında katılmakla yükümlüdür. Buna göre somut olayda dava konusu olan depoya davacı tarafından kalorifer yaptırılıp uzun süredir bu şekilde kullanıldıktan sonra davacının tek taraflı olarak kalorifer peteklerini kaldırıp yakıt
 
@@ -35,17 +41,25 @@ giderinden sorumlu olmayacağının tespiti istemiş olması iyiniyet kuralları
 
 ## Yargıtay HGK 2013/209 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/52031300)
+
 Bilindiği üzere 634 Sayılı Kat Mülkiyeti Kanunu'nun 42.maddesi uyarınca; kat malikleri, anagayrimenkulün ortak yerlerinde kendi başlarında bir değişiklik yapamazlar; ortak yerlerin düzgün veya bunları kullanmanın daha rahat ve kolay bir hale konulmasına veya bu yerlerden elde edilecek faydanın çoğaltılmasına yarıyacak bütün yenilik ve ilaveler, kat maliklerinin sayı ve arsa payı çoğunluğu ile verecekleri karar üzerine yapılır.
 
 ## Yargıtay HGK 2012/29 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/63584000)
 
 634 sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrası hükmünde kat maliklerinden birinin ana taşınmazın ortak yerlerinde kat maliklerinin beşte dördünün yazılı rızası olmadıkça inşaat, onarım, tesis ve değişiklikler yapamayacağı öngörülmüştür. Dosya içindeki bilgi ve belgelerden dava konusu edilen otoparkın davalı adına tapuda kayıtlı olup bağımsız bölüm niteliği taşıdığı anlaşılmakla davalı yanın bu otoparkı projesinde olduğu biçimde kullanma ve yararlanma hakkı vardır. Ancak yerinde yaptırılan bilirkişi incelemeleri sonucunda düzenlenen raporda da açıkça belirtildiği üzere anataşınmazın yapımı sırasında mimari projeye aykırı olarak her iki bodrum katın bina çekme mesafesi alanında, kuzey ve batı cephelerinde birer aks büyütülerek yapıldığı ve bu alanların davalı tarafça kullanıldığı sabit olmakla, sonradan kazanılan bu alanların anataşınmazın ortak alanı olarak kabul edilerek davalı tarafın belirtilen bu kısma el atmasının önlenmesine karar verilmesi gerekirken davanın tümden reddi doğru görülmemiştir...")…
 
 ## Yargıtay HGK 2010/386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17003100)
+
 Kat Mülkiyeti Yasasının 19. maddesi hükmüne göre tüm kat malikleri anataşınmazın mimari durumunu projesine uygun olarak korumak zorunda olup, projeye aykırı her türlü inşaat ve tadilatın mutlaka bu tadilata ait projenin onaylandığı tarihteki tüm kat maliklerinin onayını alması zorunludur. Dosya içerisindeki bilgi ve belgelerden anataşınmazın kat irtifakının kurulmasına esas teşkil eden 18.01.1982 onay tarihli projesi dışında 15.06.1992 ve 13.03.2005 onay tarihli tadilat projelerinin bulunduğu anlaşılmaktadır. Mahkemece anılan tarihlerdeki tapu kayıtları getirtilip bu tarihteki tüm kat irtifakı hakkı sahipleri saptandıktan ve bu maliklerce yukarıda belirtilen tadilat projelerine onay verilip verilmediği belgelendikten sonra istem hakkında karar verilmesi gerekirken bu konuda hiç bir araştırma yapılmadan salt onaylı tadilat projesinin varlığı kabul edilerek davanın reddine karar verilmiş olması doğru görülmemiştir…
 
 ## Yargıtay HGK 2010/296 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16992100)
 
 634 Sayılı Kat Mülkiyeti Yasasının 19.maddesinin ikinci fıkrasına göre kat maliklerinden biri, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak
 
@@ -65,6 +79,8 @@ Yönetim planındaki özgüleme hükmünün sadece kullanım hakkı vereceği, a
 
 ## Yargıtay 5. HD 2026/5454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207710100)
+
 Dairemizce yapılan inceleme sonucunda, davacının müdahale olduğunu iddia ettiği çatı kısmının davalının bağımsız bölümünün eklentisi olduğu anlaşılmakla, kullanım hakkının davalı da olduğunun tartışmasız olduğu, ancak bu kullanım hakkı davalıya ana yapının projesine aykırı imalat yapma hakkı vermeyeceği, o halde projeye aykırı merdiven kulesinin eski hale getirilmesi isteminin yerinde olduğu, ancak davalının uyuşmazlık konusu olan bu alana şezlong, şemsiye vesair koymak sureti ile yapıldığı iddia edilen müdahale açısından davalının bu alandaki mülkiyet hakkı gözetilerek gerekirse davacılara verilen rahatsızlığın ne şekilde giderileceği yönünde araştırma yapılarak oluşacak sonuca göre karar verilmesi gerekirken eksik inceleme ve araştırma sonucu davanın kabulüne karar verilmesinin doğru görülmediği gerekçesiyle Bölge Adliye Mahkemesi kararı kaldırılarak İlk Derece Mahkemesi kararının bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2026/3077 K.
@@ -78,19 +94,27 @@ Dosya kapsamında davacı site yönetimini temsil eden yöneticinin kat maliki o
 
 ## Yargıtay 5. HD 2025/18134 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206654900)
+
 Yargıtay (Kapatılan) 20.
 Hukuk Dairesince yapılan inceleme sonucunda, somut olayda; güneş enerjisi sisteminin Yargıtay uygulamalarına uygun bir şekilde kurulup kurulmadığının tam olarak saptanmadığı anlaşılmakla bu durumda mahkemece uzman bilirkişilerle yeniden yapılacak keşifte mevcut güneş enerji sisteminin binanın statik yapısına ve diğer kat maliklerine zarar verip vermediği etraflıca araştırılarak düzenlenecek rapor ve oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken, eksik düzenlenen bilirkişi raporlarına itibar edilerek hüküm kurulmuş olmasının doğru görülmediği, ayrıca uydu anteninin kaldırılıp kaldırılmadığı tespit edilerek oluşacak duruma göre karar verilmesi gerektiği, mahkemece anataşınmaza ait onaylı mimari proje getirtilerek yerinde uygulanmak suretiyle dava konusu taleplerin mimari projeye uygunluğu araştırılmalı, taleplerin mimari projede olmadığının tespit edilmesi halinde karar defterleri getirtilerek dava konusu uyuşmazlıklar hakkında kat malikleri kurul kararı alınıp alınmadığı detaylı araştırılarak, kat malikleri kurulunda alınmış kararların tespiti halinde 634 sayılı Kanun'un ilgili hükümleri dikkate alınarak gereken çoğunluğun sağlanıp sağlanmadığı da tespit edilerek
 ayrıca anataşınmaza ait yürürlükteki yönetim planı da tespit edilerek ilgili hükümler de dikkate alınarak konusunda uzman bilirkişiden hükme ve denetime elverişli rapor aldırılmak suretiyle hüküm kurulması gerektiği, mahkemece, asıl ve karşı davada yapılmasına hükmedilen işlemlerin yerine getirilmesi için taraflara 634 sayılı Kanun'un 33 üncü maddesi hükmü uyarınca uygun ve belli bir süre verilmesi gerektiğinin düşünülmemesi ve 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 297/2 nci madde ve bendine göre; hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gerektiği, Kanunun bu hükmüne aykırı olarak asıl ve birleşen dosyalar açısından tarafların, plan ve projeye aykırı olarak gerçekleştirdiği imalatların nelerden ibaret olduğu ve bunların ne şekilde eski hale getirileceğinin hüküm fıkrasında açıkça belirtilmeden hüküm kurulmasının doğru görülmediği gerekçeleriyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 4. HD 2025/12380 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190779400)
+
 KMK'nin 19 uncu maddesi kat maliklerinin kullanım hakkını sınırlayan ve diğer maliklere karşı sorumluluk yükleyen temel maddelerden biridir. KMK'nın 19 uncu maddesi kusur sorumluluğu niteliğindedir. Yani kat maliki kusurlu bir davranışıyla zarar verirse sorumlu olur. Ancak bazı durumlarda kusursuz sorumluluk ilkesinin uygulanması sonucu doğar ve kat maliki diğer kat malikine karşı kusursuz sorumluluk ilkesi çerçevesinde verdiği zarardan sorumludur. Anılan madde her ne kadar kusur sorumluluğu şeklinde düzenlenmiş ise de buradaki sorumluluk gerçek bir kusur sorumluluğu olmayıp kusursuz sorumluluk ilkesine benzeyen bir fiili sorumluluk niteliğindedir. Yargıtayın yerleşik içtihatlarına göre bağımsız bölümden çıkan zararlar nedeniyle kat maliki ortaya çıkan zarardan "kaynak daire" olarak sorumludur. Zira KMK'nın 19 uncu maddesinin amacı diğer bağımsız bölümlerin korunması, her kat malikinin kendi bağımsız bölümünü kontrol yükümlülüğü ve komşuların zararını karşılamaya yönelik özel bir rejim oluşturmaktadır. Elbetteki kat malikinin de diğer bağımsız bölümün zararını karşıladığı oranda haksız fiil failine rücu imkanı bulunmaktadır.
 
 ## Yargıtay 5. HD 2025/11381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176144600)
+
 2004 sayılı İcra İflas Kanunu'nun 30 uncu maddesinde bir işin yapılmasına veya yapılmamasına dair ilamların infazı düzenlenmiş olup, mahkemece yapılacak işe hükmedilmesi ve hükmedilen işin yapılması için 634 sayılı Kat Mülkiyeti Kanunun( 634 sayılı Kanun) 33 üncü maddesi gereğince uygun bir süre verilmesi ile yetinilmesi gerekirken, “davalı tarafından verilen sürede eski hale getirilmediği takdirde davacı tarafından eski hale getirilmesi için fazlaya ilişkin hakları saklı tutularak taleple bağlı kalınarak 9.600 TL masrafın davalı ...'den alınarak davacıya ödenmesine” karar verilmesinin doğru görülmediği gerekçesi ile kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/8558 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190514700)
 
 Davalının projeye aykırı imalatlar yönünden yapı kayıt belgesi alınmış olmasına yönelik itirazlarının incelenmesinde; Yargıtay 15.
 Hukuk Dairesinin konuya ilişkin 18.01.2021 tarihli ve 2020/766 Esas, 2021/65 Karar sayılı içtihadında da belirtildiği üzere, yapı kayıt belgesi imara aykırı yapının kullanılmasına ilişkin olup, imara uygun hale getirmediği, geçici 16 ncı maddenin 10 uncu bendinde belirtildiği üzere, yapı kayıt belgesi, yapının yeniden yapılmasına veya kentsel dönüşümüne kadar geçerli olduğu, düzenlemenin amacının da yapının yeniden yapılmasına kadar kullanımına idare tarafından imkân sağlanmasından ibaret olduğu, yapı kayıt belgesinin yapılan işlemlerin projesine ve imara aykırılığını ortadan kaldırmayacağı, bu belgenin yapının imara uygun hale getirilmesine kadar sahibine yapıyı bu haliyle kullanma konusunda geçici bir yetki sağladığı, 3194 sayılı İmar Kanunu'nun geçici 16 ncı maddesiyle yapı kayıt belgesi alınmasının projeye aykırı yapılan değişiklikleri yasal hale getirmeyeceği ayrıca yapı kayıt belgesi tarafının kendisini bağlayan sözleşme hükmündeki yönetim planına uygun davranma edimini ortadan kaldırmayacağı, açıklanan nedenlerle davalının yapı kayıt belgesine dayanarak yaptığı itirazların doğru olmadığı tespit edilmiştir.
@@ -98,15 +122,21 @@ Dosya içerisindeki bilgi ve belgelerin incelenmesinden; davanın yönetimi tems
 
 ## Yargıtay 5. HD 2025/8192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189871000)
+
 Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan inceleme sonucunda, 634 sayılı Kat Mülkiyeti Kanunu'nun 18 inci maddesine göre kat malikleri, gerek bağımsız bölümlerini gerek eklentileri ve ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirini rahatsız etmemek, birbirinin haklarını çiğnememek ve yönetim planı hükümlerine uymakla
 
 karşılıklı olarak yükümlüdürler. Öte yandan aynı Kanun'un 19 uncu maddesinin ikinci fıkrasında da kat maliklerinden birinin ana gayrimenkulün ortak yerlerinde inşaat, onarım ve tesis yapması diğer kat maliklerinin rızasının bulunması koşuluna bağlanmış, kendi bağımsız bölümlerinde ise ana yapıya zarar vermemek kaydı ile diğer kat maliklerinin rızasına gerek olmadan onarım, tesis ve değişiklik yapması mümkün kılınmıştır. Somut olayda, Mahkemece alınan uzman bilirkişi raporunda ana taşınmazda projeye aykırılıklar olduğu tespit edilmiş, Mahkemece bu aykırılıkların davalılarca yapıldığının ispatlanamadığından bahisle davanın reddine karar verilmiştir. Mahkemece ana taşınmaza ait geçerli mimari projenin ilgili belediyesinden istenilerek yerinde uygulanması, projeye aykırılıkların hangi bağımsız bölümlerde meydana geldiğinin tespit edilmesi ve maliklerinin davaya dahil edilmesi, taraf teşkilinin sağlandıktan sonra deliller toplanarak oluşacak sonuca göre bir karar verilmesi gerekirken aksi düşünce ile yazılı olduğu şekilde davanın reddine karar verilmesi doğru görülmediği gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/7127 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198225500)
+
 Yargıtay (Kapatılan) 18. Hukuk Dairesince yapılan inceleme sonucu, dosya içindeki bilgi ve belgeler ile özellikle bilirkişi raporunun incelenmesinden davaya konu 6-9- 10... -28 numaralı bağımsız bölümlerde tadilat yapılarak balkonun mutfağa eklendiği ve pvc ile kaplatıldığı, yaklaşık 6-7 m² balkon alanının mutfağa dahil edildiği, geri kalan balkon kısmına yine bu eklenen kısımdan kapı açıldığı, yapılan tadilatların projeye ayırı olduğu anlaşıldığından 634 sayılı Kat Mülkiyeti Kanunu'nun (634 sayılı Kanun) 19 uncu maddesinin birinci ve ikinci fıkralarına göre, projeye aykırı olarak ortak alanda yapılan tadilatlar yönünden müdahalenin önlenmesi ile projeye aykırılıkların giderilerek eski hale getirilmesine karar verilmesi gerekirken Mahkemece sözü edilen tadilatların kat maliklerinden 24'ünün yazılı muvafakatı bulunduğu gerekçesiyle davanın reddi doğru görülmeyerek kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/6062 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154991000)
 
 Aynı Kanun'un 16 ıncı maddesinde de kat malikleri ana taşınmazın bütün ortak yerlerine arsa payları oranında ortak mülkiyet hükümlerine göre malik olurlar ve ortak yerlerde kullanma hakkına sahiptirler, ayrıca aynı Kanun'un 18 inci maddesinin birinci fıkrasında da kat malikleri, gerek bağımsız bölümlerini gerek eklentileri ve ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirini rahatsız etmemek, birbirinin haklarını çiğnememekle karşılıklı olarak yükümlü oldukları öngörülmüştür.634 sayılı Kanun hükümlerine göre, onaylı mimari projeye aykırılıkların giderilmesi ve eski hale getirme istemleri yönünden dikkat edilmesi gereken en önemli husus, tapu siciline esas alınan onaylı mimari projenin mahalline uygulanmasıdır. Zira; bir yapının onaylı mimari projesi doğrudan kamu düzenini ilgilendirir, bu nedenledir ki; kat maliklerinin projeye uygun hareket etmek yönündeki yükümlülükleri kamu düzenindendir ve mahkeme tarafından da resen dikkate alınmalıdır.
 Dava konusu sitenin Kocaeli ili, ..., ... köyü, 103 ada 28 parsel üzerinde kurulu bulunduğu, sitede 20 adet tribleks mesken bulunduğu, davacının 13 numaralı meskenin, davalının ise 12 numaralı meskenin maliki olduğu, davaya konu 12 numaralı bağımsız bölümün balkonunun mimari projeye aykırı olarak katlanır cam balkon
@@ -115,33 +145,49 @@ yapıldığı, mimari projeye aykırılığın eski hale getirilmesi gerektiği,
 
 ## Yargıtay 5. HD 2025/5593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154421400)
+
 Dairemizce yapılan temyiz incelemesi sonucunda; alınan bilirkişi raporunun hükme esas alınmak için yeterli olmadığı, ana gayrimenkulün kat mülkiyetli olduğu gözetilerek, ana gayrimenkule ait geçerli ve yürürlükteki mimari proje, vaziyet planı ve ilgili ekleri getirtilerek tapu sicili, yönetim planı ve tüm bu belgeler üzerinden araştırma yapılarak müdahale olduğu iddia edilen alanın tespiti, hukuki değerlendirmesi ve davalıların hukuka aykırı müdahalesi olup olmadığının değerlendirilmesi gerektiği, dosyadaki uzman bilirkişi raporunun mimari proje üzerinden ölçüm ve değerlendirme yapmadığı, aykırılıklar ve eski hale getirme işlemleri bakımından hiçbir tespitte bulunmadığı, davanın kısmen kabulüne dair hüküm kurulurken kararda hangi imalatların projeye aykırı olduğu ne şekilde eski hale getirileceği belirtilmeyerek infazda tereddüt yaratıldığı, ayrıca 634 sayılı Kanun'dan kaynaklanan ve konusu doğrudan para alacağı olmayan davaların niteliği gereği harç yönünden maktu tarifelere tabi olduğu gözetilmeden nispi harca hükmedilmesinin bozmayı gerektirdiği gerekçesiyle Bölge Adliye Mahkemesinin kararının bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/5588 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154407400)
 
 Ana taşınmazın ortak yerlerine yapılan müdahalenin önlenmesi ve onaylı mimari projeye aykırılıkların eski hale getirilmesine ilişkin davalar mülkiyet hakkına dayanılarak açılır. Dosya kapsamında yapılan incelemede; davalı tarafça davacının maliki olduğu bağımsız bölümü dava dışı 3. kişiye sattığının iddia edildiği, UYAP üzerinde yapılan incelemede davacının 28.12.2022 tarihinde maliki olduğu 4 nolu bağımsız bölümün tapu kaydının pasife düştüğü anlaşılmaktadır. Bu nedenle mahkemece güncel tapu kaydı getirtilerek, davacının bağımsız bölümünün yargılama sırasında devredildiği tespit edilir ise 6100 sayılı Kanun'un 125 inci maddesi gereğince işlem yapılması ve sonucuna göre bir karar verilmesi gerektiğinin gözetilmemesi bozmayı gerektirmiştir.
 
 ## Yargıtay 5. HD 2025/5083 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152511400)
+
 Ana taşınmazın ortak yerlerine yapılan müdahalenin önlenmesi ve onaylı mimari projeye aykırılıkların eski hale getirilmesine ilişkin davalar mülkiyet hakkına dayanılarak açılır. 634 sayılı Kat Mülkiyeti Kanunu'nun 35 inci maddesi, yöneticinin görev ve yetkilerini belirlemiş olup, bunların arasında mülkiyet hakkı ile sıkı sıkıya bağlantısı olan müdahalenin önlenmesi ve projeye aykırılıkların eski hale getirilmesi davası açma yetki ve görevi bulunmamaktadır. Buna karşın, kat mülkiyeti hukukunun özelliği itibarıyla uygulamada kat maliki olmayan yönetici, kat malikleri kurulu tarafından yetkilendirilmesi halinde böyle bir davayı açabilir.
 
 ## Yargıtay 5. HD 2025/3982 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143591300)
 
 Kat mülkiyetli ana gayrimenkulün mimari projesine aykırı olacak şekilde, ana gayrimenkulün ortak yerlerinde bağımsız bölüm inşa eden yüklenicinin, tapuya kayıtlı bulunmayan bu bağımsız bölümleri başkasına devretmiş olması onu sorumluluktan ve eski hale getirme davasına muhatap olmaktan kurtarmayacaktır. Kat maliki olmayan, salt bu yerleri kullanmakta olan kişilerin ise ortak yerlerin projesine uygun eski hale getirilmesinden sorumlu tutulamayacağı gözetilip, bu kişilerin ortak yerlere müdahalelerinin önlenmesi ve tahliyesine karar verilmesiyle yetinilmesi gerekmektedir.
 
 ## Yargıtay 5. HD 2025/3981 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143587800)
+
 Buna karşın, 634 sayılı Kanun'un 19 uncu maddesinin ikinci fıkrasında, kat maliklerinden birinin, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça ana gayrimenkulün ortak yerlerinde inşaat, onarım ve tesisler, değişik renkte dış badana ve boya yaptıramayacağı hükme bağlanmış olup, onaylı mimari projeye aykırı olacak şekilde bağımsız bölüm kapılarının kapatılıp yeni kapı açılmasına dair imalat ve değişikliklerin projeye uygun eski hale getirilmesine karar verilmesi yerindedir.
 
 ## Yargıtay 5. HD 2025/3799 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143149800)
 
 Ana taşınmazın ortak yerlerine yapılan müdahalenin önlenmesi ve onaylı mimari projeye aykırılıkların eski hale getirilmesine ilişkin davalar mülkiyet hakkına dayanılarak açılır. 634 sayılı Kanun'un 35 inci maddesi, yöneticinin görev ve yetkilerini belirlemiş olup, bunların arasında mülkiyet hakkı ile sıkı sıkıya bağlantısı olan müdahalenin önlenmesi ve projeye aykırılıkların eski hâle getirilmesi davası açma yetki ve görevi bulunmamaktadır. Ancak, kat mülkiyeti hukukunun özelliği itibarıyla uygulamada kat maliki olmayan yönetici, kat malikleri kurulu tarafından yetkilendirilmesi hâlinde böyle bir davayı açabilir.
 
 ## Yargıtay 5. HD 2025/3779 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143138900)
+
 Sitesi Yönetimi adına avukata vekâlet veren Hayri Yılmaz, İlhami Kiki’nin aynı zamanda kat maliki olduğundan dava açılması için özel yetkilendirmeye ihtiyaç bulunmadığı, yönetim planında da ayrıksı bir düzenleme bulunmadığı anlaşılmakla, davanın kabulü ile 3 nolu blok içindeki ortak yere vaki haksız müdahalenin men’i ile projeye aykırılığın giderilerek ortak yerin eski hale iadesi yönünde verilen İlk Derece Mahkemesi kararında isabetsizlik görülmediği, ilk derece mahkemesince delillerin takdirinde usul ve kanuna aykırılık görülmediğinden; davalı vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/1095 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122932800)
 
 Bu bakımdan, somut olayda da Mahkemece öncelikle davaya konu taşınmaz üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin
 
@@ -150,9 +196,13 @@ bağımsız bölüm özgülendikten sonra arta kalan bağımsız bölümün pay 
 
 ## Yargıtay 6. HD 2025/515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139497600)
+
 Bununla birlikte: İlk Derece Mahkemesince hüküm fıkrasında, "Dava konusu İstanbul ili, ...ilçesi,...köyü,...Mevkii, 244DTIVb pafta, 1317 ada, 15 parselde zemin katta sağda bulunan tapuda 15/100 arsa paylı 3 numaralı depolı dükkan olarak (11/40 m²) alanlı kayıtlı taşınmazın 2 numaralı meskene katılması suretiyle davalıların müdahalesinin önlenmesine, eski hale getirilmesine" yazılmak suretiyle infazda tereddüt edilecek şekilde hüküm kurulduğundan, hükmün 1 nolu bendinin 2. paragrafının tamamının hükümden çıkarılarak yerine; "Dava konusu İstanbul ili, ...ilçesi,...köyü,...Mevkii, 244DTIVb Pafta, 1317 ada, 15 parselde bulunan binanın zemin katında sağ tarafta bulunan 15/100 arsa paylı 3 numaralı depolu dükkanın, 2 no'lu bağımsız bölüme katılan kısmına davalının müdahalesinin önlenmesine, 3 no'lu bağımsız bölümün projesindeki gibi eski hale getirilmesine," şeklinde yazılmak suretiyle karar verilmesi gerekir.
 
 ## Yargıtay 6. HD 2025/284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129897100)
 
 Tüm bu hususlar nazara alındığında, davacı yüklenici şirket tarafından tasdik ettirilen kat irtifakına esas mimari projenin, sözleşmede öngörülen projeye aykırı olduğu anlaşılmaktadır. Her ne kadar, Bölge Adliye Mahkemesi gerekçesinde, davacı yüklenici şirketin 21.11.2017 tarihli cevabi ihtarnamesi ile davalının 4. kat 8 nolu dairenin kendisine verilmesine ilişkin talebini kabul ettiği, buna rağmen tapudaki şerhi kaldırmamasının kötüniyetli olduğu, söz konusu ihtarnamenin kendisine tebliği ile temerrüde düştüğü kabul edilmiş ise de davalı arsa sahibi 01.11.2017 tarih ve 15714 yevmiye nolu ihtarnamesinde sadece 4. kat 8 nolu bağımsız bölümün kendisine verilmesini değil bağımsız bölüm listesinin sözleşmeye de uygun düzenlenmesini istemiştir. Kat irtifakı listesinin dayanağı
 
@@ -160,19 +210,27 @@ olan mimari proje açıklandığı üzere sözleşmeye aykırı olduğundan, dav
 
 ## Yargıtay 5. HD 2024/6978 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1069024600)
+
 Ana taşınmazın ortak yerlerine yapılan müdahalenin önlenmesi ve onaylı mimari projeye aykırılıkların eski hale getirilmesine ilişkin davalar mülkiyet hakkına dayanılarak açılır. 634 sayılı Kanun'un 35 inci maddesi, yöneticinin görev ve yetkilerini belirlemiş olup, bunların arasında mülkiyet hakkı ile sıkı sıkıya bağlantısı olan müdahalenin önlenmesi ve projeye aykırılıkların eski hale getirilmesi davası açma yetki ve görevi bulunmamaktadır. Ancak, kat mülkiyeti hukukunun özelliği itibarıyla uygulamada kat maliki olmayan yönetici, kat malikleri kurulu tarafından yetkilendirilmesi halinde böyle bir davayı açabilir. Eldeki davada yönetici kat maliki olmadığı gibi yetkilendirmede mevcut olmadığından davanın aktif husumet ehliyeti yokluğundan reddine karar verilmesi yerindedir.
 
 ## Yargıtay 5. HD 2024/5070 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057767500)
 
 Dairece yapılan temyiz incelemesi sonucunda; 634 sayılı Kanun'un 19 uncu maddesinin ikinci fıkrasına göre kat maliki kendi bağımsız bölümünde ana yapıya zarar verecek nitelikte onarım, tesis ve değişiklik yapamaz. Tavan, taban veya duvar ile bağlantılı bulunan bağımsız bölümlerin bağlantılı yerlerinde bu bölüm maliklerinin ortak rızası ile ana yapıya zarar vermeyecek şekilde onarım, tesis ve değişiklik yapabileceği;
 18 inci maddesinde ise kat maliklerinin gerek bağımsız bölümlerini gerek eklenti ve ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirlerini rahatsız etmemek, haklarını çiğnememek ve yönetim planı hükümlerine uymakla karşılıklı olarak yükümlü oldukları hükme bağlanmıştır.Bu nedenle davacının eski hale getirme talepleri açısından, bağımsız bölüm içerisinde 634 sayılı Kanun'un 19 uncu maddesi çerçevesi içinde yapabileceği tadilatlar ayrılarak bunlar haricindeki projeye aykırı imalatların eski hale getirilmesi için yapılması gerekenlerin denetlemeye ve infaza elverişli olacak şekilde krokiye bağlanması, müdahale edilen bölümlerin hiçbir kuşku ve duraksamaya meydan verilmeden belirlenmesi ve sonucuna göre müdahalenin önlenmesine ve projeye uygun eski hale getirilmesine karar verilmesi gerekirken, davalının müdahale ettiği iddia edilen bölümlerin nerelerde olduğu tek tek açıklanmadan ve krokisi de düzenlettirilmeden infazda tereddüt yaratacak biçimde eksik inceleme ve yetersiz araştırmaya dayanan rapora göre hüküm kurulması doğru doğru görülmediğinden hükmün bozulmasına karar vermiştir.
 
 ## Yargıtay 5. HD 2024/5060 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057723700)
+
 Ana taşınmazın ortak yerlerine yapılan müdahalenin önlenmesi ve onaylı mimari projeye aykırılıkların eski hale getirilmesine ilişkin davalar mülkiyet hakkına dayanılarak açılır. 634 sayılı Kanun'un 35 inci maddesi, yöneticinin görev ve yetkilerini belirlemiş olup, bunların arasında mülkiyet hakkı ile sıkı sıkıya bağlantısı olan müdahalenin önlenmesi ve projeye
 
 aykırılıkların eski hale getirilmesi davası açma yetki ve görevi bulunmamaktadır. Kat mülkiyeti hukukunun özelliği itibarıyla uygulamada kat maliki olmayan yönetici, ancak kat malikleri kurulu tarafından yetkilendirilmesi halinde böyle bir davayı açabilir.
 
 ## Yargıtay 6. HD 2024/3727 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112020400)
 
 Kararın davalı yüklenici kooperatif tarafından temyiz edilmesi sonucunda Yargıtay (Kapatılan) 23. Hukuk Dairesi’nin 2015/4445 Esas, 2015/6188 Karar, 01.10.2015 tarihli kararı ile özetle; A ve B bloklarda bulunan inşaatlarda projeye aykırılık bulunup bulunmadığı, ayrıca komşu parsellere tecavüz olup olmadığı hususlarında ayrıntılı ve denetime elverişli rapor alınması, bilirkişi incelemesi sonucunda yüklenici tarafından yapılan inşaatta imar mevzuatına ve projeye aykırı, kaçak imalat bulunduğunun belirlenmesi halinde bağımsız bölümlerle ilgili tescil talebinde bulunulamayacağından, söz konusu aykırılığın projeye ve imar mevzuatına uygun hale getirilmesi mümkün değil ise davanın reddine; aykırılık bulunmaması veya aykırılığın projeye ve imar mevzuatına uygun hale getirilmesinin mümkün olması halinde ise, sözleşmedeki oran dahilinde ve sebepsiz zenginleşmeye neden olmayacak şekilde, gerektiğinde ivaz karşılığında tescile karar verilmesi gerektiği gerekçesiyle hüküm bozulmuştur.

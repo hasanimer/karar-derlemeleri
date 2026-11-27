@@ -22,14 +22,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2018/5457 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433965100)
+
 Davalının müdahalenin men'i ve eski hale getirme talebinin kabulüne ilişkin temyiz itirazlarının incelenmesinde; dava dosyasında alınan uzman bilirkişi raporunda uyuşmazlık konusu yer için ruhsat ve projeye aykırılık olmadığı yönünde görüş bildirilmiş ancak projesinde bu alanın ne şekilde gösterildiği açıkça izah edilmemiştir. Anataşınmazın projesine aykırılık oluşturup oluşturmadığı hususu hiçbir kuşkuya yer bırakmayacak şekilde aydınlatılmalı, mimari projesine aykırı olması durumunda taraflarca sunulan kat malikleri kurulu kararları değerlendirilerek diğer kat maliklerinin muvaffakatinin olup olmadığı saptanmalıdır. Ayrıca kabule göre de verilen kararda hangi imalatların projeye aykırı olduğu ne şekilde eski hale getirileceğinin belirtilmediği anlaşılmaktadır.
 HMK'nın 297. maddesine göre mahkemece verilen kararın hüküm sonucu kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, istek sonuçlarından herbiri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların mümkünse sıra numarası altında birer birer, açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi ve verilen karar ile iki tarafın leh ve aleyhine hükmedilen görev ve hakların gayet açık ve anlaşılır biçimde yazılması gerekmektedir. Mahkemece yerinde keşif yapılmak sureti ile uzman bilirkişilerden rapor alınarak davalıların maliki olduğu bağımsız bölümlerdeki anataşınmaza ait mimari projeye aykırılıklar tespit edilmeli hüküm kısmında projeye aykırılıkların ve müdahalelerin neler olduğunun ve ne şekilde eski hale getirileceğinin infazda tereddüt yaratmayacak şekilde açıkça belirtilmelidir. Yine, mahkemece yapılmasına hükmedilen işlemlerin yerine getirilmesi için davalı tarafa Kat Mülkiyeti Kanununun 33. maddesi hükmü uyarınca uygun süre verilmemesi de doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/5238 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432223400)
+
 634 sayılı Kat Mülkiyeti Kanunun 42. maddesinde “Kat malikleri, anagayrimenkulün ortak yerlerinde kendi başlarında bir değişiklik yapamazlar; ortak yerlerin düzgün veya bunları kullanmanın daha rahat ve kolay bir hale konulmasına veya bu yerlerden elde edilecek faydanın çoğaltılmasına yarıyacak bütün yenilik ve ilaveler, kat maliklerinin sayı ve arsa payı çoğunluğu ile verecekleri karar üzerine yapılır.
 
 ## Yargıtay 20. HD 2018/5221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432388300)
 
 ...-Mahkemece davanın kabulü, müdahalenin önlenmesi ve projeye aykırılıkların eski hale getirilmesi yönünde hüküm kurulmuş ise de, verilen hüküm infaza elverişli değildir. Mahkemece kararın "gerekçe" kısmında "su deposunun bakım işinin apartman yönetimine ve genel kurula ait olduğu, bu konudaki taleplerin yerinde görülmediği" ifade edilmesine rağmen, "hüküm" fıkrasında "gerekçe" ile uyumsuzluk ve çelişki yaratacak şekilde "su deposunun ve başka amaçla kullanılmasının kaldırılarak eski hale getirilmesine," karar
 
@@ -38,25 +44,37 @@ verildiği anlaşılmaktadır. 6100 sayılı Hukuk Muhakemeleri Kanununun 297/..
 
 ## Yargıtay 20. HD 2018/5070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432069900)
+
 Davanın niteliği ortak yerlere müdahalenin men’i ve mimari projeye aykırılıkların eski hale getirilmesine yöneliktir. Bu hususta Kat Mülkiyeti Kanununa göre müdahale devam ettiği sürece kat maliklerinin her zaman dava açmada hukuki yararı vardır. Buna göre mahkemece işin…
 
 ## Yargıtay 20. HD 2018/5017 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430375800)
 
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye göre; ... sitesi B ... ortak kullanım alanlarının projesi üzerinden tespit edilerek, projeye aykırı şekilde ortak alana yapılan müdahalenin, masa-sandalye ve tentenin kaldırılması suretiyle men'i ve eski haline getirilmesi yönünde hüküm kurulmuş olduğuna göre, diğer temyiz itirazları yerinde değildir; ancak mahkemece, ortak alana yapılan müdahalenin önlenmesine yönelik kurulan hükmün gereğinin, yerine getirilmesi için 634 sayılı Kat Mülkiyeti Kanununun 33. maddesi gereğince uygun bir süre verilmesi gerektiğinin düşünülmemesi doğru değil ise de bu yanılgının giderilmesi yeniden yargılama yapılmasını gerektirmediğinden hüküm fıkrasının .... bendinde "müdahalenin menine ve eski haline getirilmesine" ibaresinden sonra gelmek üzere, "Davalıya karar gereğinin yerine getirilmesi için 15 gün süre verilmesine" cümlesinin eklenmesi suretiyle düzeltilmesine ve hükmün 6100 sayılı Kanunun geçici 3. maddesi atfıyla HUMK’nın 438/7.
 
 ## Yargıtay 20. HD 2018/4821 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430841200)
+
 Aynı şekilde, öğretide ve Yargıtayın devamlılık gösteren uygulamalarında, taşınmaz hakkında projeye aykırılıkların devam etmesi durumunda başka kat maliklerinin de bunların eski hale getirilmesini istemekte güncel hukukî yararı bulunduğu kabul edilmektedir.
 
 ## Yargıtay 20. HD 2018/4446 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430700900)
 
 İncelenen dosya kapsamına ve toplanan delillere göre; ana taşınmazın ortak yerlerinin onaylı mimari projesinde tarif edilen şekli ile kullanması hakkının verilmesi, davalılara, projeye aykırı duvar örülmesi ve diğer işlerin yapılması suretiyle ortak yerlere el atma hakkını vermemektedir. Mahkemece dava konusu taşınmazdaki projeye aykırılıklar bilirkişi raporu ile belirlenip, mimari projesinde ortak alan olarak gösterilen sığınağın başka amaçla kullanılamayacağı, başka amaca tahsis edilemeyeceği belirlenip ortak alan olduğu anlaşılan yere davalılar tarafından yapılan müdahale tespit edilerek müdahalenin önlenmesine ve tayin edilen…
 
 ## Yargıtay 20. HD 2018/4438 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430654600)
+
 ...- Mahkemece davanın kabulü, müdahalenin önlenmesi ve projeye aykırılıkların eski hale getirilmesi yönünde hüküm kurulmuş ise de, verilen hüküm infaza elverişli değildir. HMK'nın 297/2. maddesi; "Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir." hükmünü amir olup, hüküm fıkrasının tarafların taleplerini karşılayacak şekilde açık ve maddeler halinde, infazda tereddüt yaratmayacak şekilde oluşturulması gerekirken, anılan kanun hükmüne aykırı olacak, infazda tereddüt yaratacak şekilde, genel ifadeler kullanılarak, tam olarak ana taşınmazın neresine, ne şekilde bir müdahalede bulunulduğu ve bu müdahalenin ne suretle giderilebileceği somut olarak belirtilmeksizin, bilirkişi raporuna atıf yapmakla yetinilmesi, bu sebeple hüküm fıkrasının açık, şeffaf, uygulanabilir ve gerekçe ile uyumlu olma, talepleri tek tek karşılama ilkesine aykırı olması;…
 
 ## Yargıtay 20. HD 2018/4062 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451101900)
 
 Bu bakımdan somut olayda da mahkemece öncelikle davaya konu taşınmaz üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje mevcut değil ise veya onaylı projeye aykırılıkların saptanması halinde ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara ya da projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması halinde, öncelikle aykırılıkların giderilmesi, eksiklerin tamamlatılması daha sonra yapının fiili durumunu yansıtan projenin hazırlattırılıp, ilgili İmar Müdürlüğünün onayının ve buna bağlı olarak oturma izin belgesinin alınması, ayrıca Kat Mülkiyeti Kanununun 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve
 
@@ -64,9 +82,13 @@ eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülen
 
 ## Yargıtay 20. HD 2018/3956 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427390800)
+
 Dava konusu taşınmazda, terasa tek çıkışın davalının bağımsız bölümünden olması nedeniyle buranın kullanım hakkının davalıya ait olduğu kabulünde bir isabetsizlik yok ise de kullanım hakkının davalıda olması davalıya terasta projeye aykırı tesis ve değişiklikler yapma hakkını vermez. Davalıya Kat Mülkiyeti Kanununun 19. maddesine göre bu tesisleri yapmak üzere kat maliklerinin beşte dördünün verdiği bir muvafakat de bulunmadığına göre terastaki projeye aykırılıkların projeye uygun hale getirilmesine karar verilmesi gerekirken yazılı gerekçeyle bu yöndeki istemin reddine karar verilmesi doğru görülmemiştir."denilerek kararın bozulmasına hükmetmiştir.
 
 ## Yargıtay 20. HD 2018/3904 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427068800)
 
 634 sayılı Kat Mülkiyeti Kanununun 19 maddesinin 2. fıkrası;
 "Kat maliklerinden biri, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anagayrimenkulün ortak yerlerinde inşaat, onarım ve tesisler, değişik renkte dış badana veya boya yaptıramaz." hükmünü amir olup, incelenen dosya kapsamına ve yapılan araştırmaya göre anılan kanun hükmü uyarınca, davaya konu balkonun mutfakla birleştirilmesi ve PVC ile kapatılması şeklindeki imalat için, 4/5 orandaki kat malikinin davalıya muvafakat vermediği anlaşılmakla, mahkemece davalıya ait meskendeki balkonun mutfakla birleştirilmesi ve PVC ile kapatılması şeklindeki müdahalenin men'i, mimari projeye aykırı yapılan değişikliklerin eski haline getirilmesi yönünde hüküm kurulmuş olduğuna göre, sair temyiz itirazları yerinde değildir; ancak mahkemece, müdahalenin önlenmesine ve eski hale getirmeye yönelik kurulan hükmün gereğinin yerine getirilmesi için 634 sayılı Kat Mülkiyeti Kanununun 33. maddesi gereğince davalıya uygun bir süre verilmesi gerektiğinin düşünülmemesi doğru değil ise de, bu yanılgının giderilmesi yeniden yargılama yapılmasını gerektirmediğinden hüküm fıkrasının 1. bendinde "eski haline getirilmesine" ibaresinden sonra gelmek üzere, "Davalıya karar gereğinin yerine getirmesi
@@ -74,15 +96,21 @@ için 15 gün süre verilmesine" cümlesinin eklenmesi suretiyle hükmün 6100 s
 
 ## Yargıtay 20. HD 2018/3847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427447100)
+
 Bu bakımdan mahkemece öncelikle yapının ayrı ayrı ve müstakil olarak kullanılmaya elverişli bağımsız bölümler içerip içermediğinin, içeriyorsa bunların sayısının saptanması, her bir paydaşa en az bir bağımsız bölüm düşmesi halinde davaya konu taşınmaz üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje mevcut değil ise veya onaylı projeye aykırılıkların saptanması halinde ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara ya da projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması halinde, öncelikle aykırılıkların giderilmesi, eksiklerin tamamlatılması daha sonra yapının fiili durumunu yansıtan projenin hazırlattırılıp, ilgili imar müdürlüğünün onayının ve buna bağlı olarak oturma izin belgesinin alınması, ayrıca Kat Mülkiyeti Kanununun 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen tarafa yetki ve yeterli süre verilmesi, bu hususlar
 eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapı veya yapılarda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp varsa fiili taksime göre, taksim yoksa çekilecek kur'a ile önce her bir paydaşa birer bağımsız bölüm özgülendikten sonra arta kalan bağımsız bölümün pay oranları da gözetilmek suretiyle yine kur'a ile…
 
 ## Yargıtay 20. HD 2018/3666 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426479500)
+
 Mahkemece davanın kabulü, müdahalenin önlenmesi ve projeye aykırılıkların eski hale getirilmesi yönünde hüküm kurulmuş ise de, verilen hüküm infaza elverişli değildir. HMK'nın 297/2. maddesi; "Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir." hükmünü amir olup, hüküm fıkrasının tarafların taleplerini karşılayacak şekilde açık ve maddeler halinde, infazda tereddüt yaratmayacak şekilde oluşturulması gerekirken, anılan kanun hükmüne aykırı olacak şekilde, dava konusu taşınmazın tam olarak hangi bölümlerine, ne şekilde bir müdahalede bulunulduğu ve bu müdahalenin ne suretle giderilebileceği somut olarak belirtilmeksizin, bilirkişi raporuna atıf yapmakla yetinilmiş olması, özellikle hüküm fıkrasının 1 nolu bendinde;
 "kapıcı dairesine yapılan müdahalenin men'ine, 3 no.lu bağımsız bölüm ile kapıcı dairesinin mimari projeye uygun eski hale getirilmesine", 2 nolu bendinde "E-1 ve E-2 de ki projeye aykırı olarak açılan pencerelerin kapatılması suretiyle mimari projeye uygun eski hale getirilmesine," ve 3 nolu bendinde "E-3'ün mimari projeye uygun olarak eski hale getirilmesine" şeklindeki genel ve soyut, infazda tereddüt yaratabilecek tarzdaki ifadelerle hüküm kurulması, hüküm fıkrasının açık, şeffaf, uygulanabilir ve gerekçe ile uyumlu olma, talepleri tek tek karşılama ilkesine aykırı olması nedeniyle bozmayı gerektirmiştir.
 
 ## Yargıtay 20. HD 2018/3483 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426300900)
 
 Bu bakımdan mahkemece öncelikle yapının ayrı ayrı ve müstakil olarak kullanılmaya elverişli bağımsız bölümler içerip içermediğinin, içeriyorsa bunların sayısının saptanması, her bir paydaşa en az bir bağımsız bölüm düşmesi halinde davaya konu taşınmaz üzerindeki
 
@@ -90,14 +118,20 @@ yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna iliş
 
 ## Yargıtay 20. HD 2018/3386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426039300)
+
 634 sayılı Kat Mülkiyeti Kanununun Ek-1. maddesinde, bu Kanunun uygulanmasından doğacak her türlü anlaşmazlığın sulh hukuk mahkemesinde çözümleneceği hükme bağlanmış olup ecrimisil davası Kat Mülkiyeti Kanununun uygulanmasından kaynaklanmadığından; anılan Kanun maddesinin bu istem yönünden uygulama imkanı bulunmamaktadır. 6100 sayılı Hukuk Muhakemeleri Kanununun 2. maddesine göre, dava konusunun değer ve miktarına bakılmaksızın malvarlığı haklarına ilişkin davalarla şahıs varlığına ilişkin davalarda görevli mahkeme, aksine bir düzenleme bulunmadıkça asliye hukuk mahkemesidir.
 Ecrimisil istemi de malvarlığı haklarına ilişkin olup, davanın bu niteliğine göre davaya bakma görevi asliye hukuk mahkemesine ait olduğundan, mahkemece, tek parsel üzerinde kurulu ana taşınmazdaki projeye aykırılığın giderilmesi ve eski hale getirme istemi yönünden dosyanın tefrik edilmesi, yeni esasa kaydedilerek sadece bu istemler yönünden görevsizlik kararı verilmesi; diğer taraftan mahkemece ecrimisil istemi yönünden işin esasına girilerek bu konuda bir karar verilmesi gerekirken, davadaki tüm talepler yönünden, sulh hukuk mahkemesinin görevli olduğu gerekçesiyle görevsizlik kararı verilerek, davanın bütünüyle sulh hukuk mahkemesine gönderilmesi yerinde değildir.
 
 ## Yargıtay 20. HD 2018/3378 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426027800)
+
 Dosya kapsamı ve mahkemece uyulan bozma kararı gereğince; projeye aykırı şekilde yapılan yangın merdiveninin iptal edilerek eski hale getirilmesi yönünde hüküm kurulmuş olduğuna göre, sair temyiz itirazları yerinde değildir, ancak mahkemece, ortak alana yapılan müdahalenin önlenmesine yönelik kurulan hükmün gereğinin, yerine getirilmesi için 634 sayılı Kat Mülkiyeti Kanununun 33. maddesi gereğince uygun bir süre verilmesi gerektiğinin düşünülmemesi doğru değil ise de, bu yanılgının giderilmesi yeniden yargılama yapılmasını gerektirmediğinden hüküm fıkrasının 1. bendinde "taşınmazın projeye uygun eski hale getirilmesine," ibaresinden sonra gelmek üzere, "Davalıya karar gereğinin yerine getirilmesi için 30 gün süre verilmesine" cümlesinin eklenmesi suretiyle ve hükmün 6100 sayılı Kanunun geçici 3. maddesi atfıyla HUMK’nın 438/7.
 
 ## Yargıtay 20. HD 2018/3343 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/425558600)
 
 Kat Mülkiyeti Kanunu 19. maddesine göre kat maliklerinden biri bütün kat maliklerinin beşte dördünün rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım, tesis ve değişiklik yaptıramaz, onaylı mimari projede yer almayan çatının davacı tarafından yaptırılıp bedelinin davalılardan tahsilinin istemesinin anılan madde hükmüne aykırı olduğu göz önünde bulundurularak davanın reddine karar verildiği anlaşıldığından yerinde görülmeyen temyiz itirazının reddi ile usule ve kanuna uygun olan hükmün
 
@@ -105,17 +139,25 @@ ONANMASINA, aşağıda yazılı onama harcının davacıya yükletilmesine 02/05
 
 ## Yargıtay 20. HD 2018/3339 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/425566500)
+
 Yukarıda açıklanan nedenlerle, öncelikle davacının aktif husumet ehliyeti bulunup bulunmadığının arastırılarak; taşınmaza ait tadilat projesinin bulunup bulunmadığı, projeye aykırılıkların neler olduğu, mimari projedeki ana binanın dış duvarları ya da ortak alanlarına yönelik değişikliklerin neler oldukları, bağımsız bölümün iç mekanında yapılan tadilatların ne tür değişikliklerle mimari projeye aykırılık teşkil ettiği, aykırılıkların verdiği rahatsızlıkların ne gibi önlemlerle giderilebileceği ve yine davalının kendi bağımsız bölümünde gerçekleştirdiği onarım, tesis ve değişikliğin ortak tesisata zarar verip vermediği hususunda mimari proje mahalinde uygulanmak suretiyle fotoğraflarla destekli ve krokiye yansıtılmış şekli ile mukayese…
 
 ## Yargıtay 20. HD 2018/3085 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422989500)
 
 Kat Mülkiyeti Kanununun .... maddesi gereğince kat malikleri anataşınmazın bütün ortak yerlerinde ortak mülkiyet hükümlerine göre paydaştırlar. Kanunun öngördüğü ortak mülkiyet kuralları doğrultusunda bir paydaş intifadan men edilmedikçe, diğer paydaşlara ecrimisil ödemekle yükümlü tutulamaz. İntifadan men edilme halinin varlığının kabulü için, ortak yeri işgal edip tekeline alan paydaşa, diğer paydaşların kendi paylarından yararlanma isteklerini bildirmiş olmaları gerekir. Paydaşlar arasında ecrimisil isteme hakkı ancak böyle bir bildirimden sonraki dönem için doğar ve buna karşın şagil ortak yerdeki haksız işgale son vermiş ise hakkında istenecek ecrimisilin başlangıcı bu bildirim (uyarı) tarihine göre belirlenir.
 
 ## Yargıtay 20. HD 2018/2897 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421981600)
+
 HMK'nın 297/2. maddesi; "Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir." hükmünü amir olup, hüküm fıkrasının tarafların taleplerini karşılayacak şekilde açık ve maddeler halinde infazda tereddüt yaratmayacak şekilde oluşturulması gerekirken, anılan kanun hükmüne aykırı olacak şekilde, dava konusu anataşınmazın hangi bölümünde ne şekilde imalatlar yapıldığı, bu imalatların projeye aykırılık olup olmadıkları, projeye aykırı olmaları halinde bu aykırılıkların nasıl, ne şekilde giderilebileceği tespit edilmeksizin bilirkişi raporuna atıf yapılması ile yetinilerek hüküm kurulması,…
 
 ## Yargıtay 20. HD 2018/2865 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423970900)
 
 Taraf vekillerinin kararın düzeltilmesi istemleri üzerine bu kez yapılan incelemede, mahkemenin 2013/701 Esas sayılı dosyası ile, davacıların davalı aleyhinde, kat maliklerinden herhangi bir yetki ve onay verilmemesine rağmen, ... Belediyesinin
 
@@ -124,13 +166,19 @@ Hukuk Dairesinin 02/04/2015 tarih ve 2014/17202 E. - 2015/4934 K. sayılı karar
 
 ## Yargıtay 20. HD 2018/2398 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419217200)
+
 Bu bakımdan, mahkemece öncelikle yapının ayrı ayrı ve müstakil olarak kullanılmaya elverişli bağımsız bölümler içerip içermediğinin, içeriyorsa bunların sayısının saptanması, her bir paydaşa en az bir bağımsız bölüm düşmesi halinde davaya konu taşınmaz üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje mevcut değil ise veya onaylı projeye aykırılıkların saptanması halinde ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara ya da projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması halinde, öncelikle aykırılıkların giderilmesi, eksiklerin tamamlatılması daha sonra yapının fiilî durumunu…
 
 ## Yargıtay 20. HD 2018/1921 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/418127600)
+
 1 ve 2 nolu bentlerde sözü edilen kısımların eski hale getirilmesi çin davalıya 45 gün 634 sayılı Kat Mülkiyeti Kanununun 33. maddesi uyarınca süre tanınmasına ve tespit edilen süre içerisinde kararın yerine getirilmemesi halinde KMK'nın 33/son maddesi uyarınca hakkında idari para cezasının uygulanacağının ihtaratına,…
 
 ## Yargıtay 20. HD 2018/1607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410248400)
 
 Mahkemece; bozma öncesi gerekçeli kararda; davanın kabulüne, davalı ...'in ... ili, ... ilçesi, ... sokak, 274 ada 1 parselde kayıtlı ana taşınmaz üzerinde bulunan apartmandaki kapıcı dairesinden tahliyesine, davalı ...'in ... ili, ... ilçesi, ... mahallesi, ...sokak, 274 ada, 1 parsel de kayıtlı ana taşınmaz üzerinde bulunan apartmanın kapıcı dairesindeki ve apartman bahçesindeki müdahalesinin önlenmesine karar verildikten sonra, hükmün davalı vekili tarafından temyizi üzerine, verilen karar temyiz incelemesi için Yargıtay 18. Hukuk Dairesine gönderilmiş, Yargıtay 18. Hukuk Dairesinin 2015/9042 Esas - 2015/10052 Karar sayılı ilamı ile "... tadilat projesine muvafakat eden davacılar ..., ..., ... ve ...'in projeye uygun
 
@@ -139,10 +187,14 @@ Mahkemece dava konusu taşınmazın tadilat projesi ile niteliği değiştirilmi
 
 ## Yargıtay 20. HD 2018/1413 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411931300)
+
 Dosyadaki bilgi ve belgelerden 27/02/2006 yılında alınan kat malikleri kurulu kararının incelemesinde; 1 ve 2 numaralı bağımsız bölümlerin teşhir ve satış mağazası olarak kullanılabilmesi için 2005 tarihli sözleşmenin onaylanmış olduğunun belirtildiği, davalı kiracılar ile yapılan 2005 tarihli sözleşmede ise “ binanın dış cephesinde yapılacak değişiklikler için kiracıların cephe tadilat projeleri hazırlatarak kat maliklerinin onayına sunulacağı arsa payı çoğunluğu ile onaylanırsa tatbikata geçirileceği” hususunda anlaşma yapıldığı anlaşılmaktadır. Kat Mülkiyeti Kanununun 19. maddesi gereğince kat malikleri anagayrimenkulün bakımına ve mimari durumu ile güzelliğini ve sağlamlığını titizlikle korumaya mecburdur. Yine, anataşınmaza ait yönetim planının 6. maddesinde kat maliklerinin anayapıya zarar verecek tesis ve onarım yapamayacağı belirtilmiştir.
 Tüm bu hususlar birlikte değerlendirildiğinde 2006 yılında kat maliklerince verilen muvaffakatın sadece tapuda mesken olarak tescilli bağımsız bölümlerin ticarethane olarak kullanımına izin mahiyetinde olup, tadilatlar için ayrıca onay verileceğinin belirtildiği gözönüne alındığında davacının projeye aykırılık, binanın anayapısına zarar veren tadilatlar ile ilgili talepleri yönünden 2005 tarihli sözleşmede bahsi geçen tadilat projelerinin hazırlanıp hazırlanmadığı, bu projeler yönünden kat maliklerinin onaylarının alınıp alınmadığı araştırılarak anataşınmaza ait geçerli mimari proje ilgili belediyesinden istenmek sureti ile yerinde uygulanmalı ve varsa projeye aykırılıkların eski hale getirilmesine karar verilmesi gerekmektedir. Eksik araştırma ve inceleme neticesinde 27/02/2006 tarihli kat malikleri kurulunda alınan izin gereği tadilatların yapıldığından bahisle yazılı olduğu şekilde davanın reddine karar verilmesi bu nedenlerle doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/1404 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/412467500)
 
 634 sayılı Kat Mülkiyeti Kanununun 18. maddesine göre kat malikleri, gerek bağımsız bölümlerini gerek eklentileri ve ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirini rahatsız etmemek, birbirinin haklarını çiğnememek ve yönetim planı hükümlerine uymakla karşılıklı olarak yükümlüdürler. Öte yandan aynı Kanunun 19. maddesinin ikinci fıkrasında da kat maliklerinden birinin anagayrimenkulün ortak
 
@@ -150,28 +202,42 @@ yerlerinde inşaat, onarım ve tesis yapması diğer kat maliklerinin rızasın�
 
 ## Yargıtay 20. HD 2018/627 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410420700)
+
 6100 sayılı Hukuk Muhakemeleri Kanununun 297. maddesinin 2. (1086 sayılı HUMK 388. ve 389. maddeleri) fıkrası "hükmün sonuç kısmında gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir" hükmünü içermekte olup, taşınmaza ait tapu kayıtları ve yönetim planı celp edilip; proje yerinde uygulanarak ve krokiye de bağlanmak suretiyle davalının anataşınmazın ortak yerlerine müdahalesinin olup olmadığı ve eski hale getirilmesine karar verilen hususların neler olduğu ile bunların ne şekilde eski hale getirileceği anılan yasa kuralı uyarınca kararın hüküm sonucu kısmında birer birer şüphe ve tereddüt uyandırmayacak şekilde açıkça yazılması gerekirken, eksik incelemeye dayalı olarak talepleri tek tek karşılar nitelikte olumlu ya da olumsuz karar verilmemiş olması,…
 
 ## Yargıtay 20. HD 2018/566 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409178100)
 
 Kat Mülkiyeti Kanunu 19/2 maddesinde” kat maliklerinden biri, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anagayrimenkulün ortak yerlerinde inşaat, onarım ve tesisler, değişik renkte dış badana veya boyama yaptıramaz” hükmü düzenlenmiş olmakla somut olayda dava tarihinden sonra tüm kat maliklerinin 4/5'inin onayı ile alınmış kat malikleri kurul kararı olup olmadığının araştırılması,…
 
 ## Yargıtay 20. HD 2018/221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404712800)
+
 Kat Mülkiyeti Kanunu 20. maddesine göre kat maliklerinden her biri ana taşınmazın ortak yerlerinin bakım, koruma ve onarım ile genel yönetim giderlerine, ortak tesislerin işletme giderlerine ve giderler için toplanacak avansa aralarında başka türlü anlaşma olmadıkça kendi arsa payları oranında katılmakla yükümlüdür. Buna göre, genel giderlerden asıl sorumlu kat malikleri olup, anılan madde hükmü gereğince ortak giderleri ve saptanacak avansları kat maliklerinden her biri ödemekle yükümlüdür. Kat maliki bağımsız bölüme düşen genel gider borcu ödeninceye kadar bu sorumluluktan kurtulamaz.
 
 ## Yargıtay 20. HD 2018/210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405501000)
 
 HMK'nın 297. maddesine göre; mahkemece verilen kararın hüküm sonucu kısmında, istek sonuçlarından her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların mümkünse sıra numarası altında birer birer, açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi ve verilen karar ile iki tarafın leh ve aleyhine hükmedilen görev ve hakların gayet açık ve anlaşılır biçimde yazılması gerekmektedir. Yasal düzenlemeler ışığında, mahkemece, projeye aykırı olduğu tespit edilen imalat ve tadilatların krokiye bağlanarak eski hale getirilmesi gereken alan ve işlemlerin açıkça tespit edilip bu hususlar açıkça gösterilmek ve dava konusu taşınmazın kimliği de yazılmak suretiyle hüküm kurulması gerekirken, ana taşınmazın ortak yerlerine yapılan müdahalenin ve mimari projesine aykırı yapılan imalatların konusunda ehil olan bilirkişi kurulundan rapor alınmak suretiyle tek tek tespit edilerek, infazda tereddüte yol açmayacak şekilde, dava dilekçesinde talep edilen her bir istem hakkında hüküm tesisi gerekirken, bu kurallara uyulmadan yazılı olduğu şekilde kurulan hükmün BOZULMASINA temyiz harcının istek halinde iadesine 17/01/2018 günü oy birliği ile karar verildi.
 
 ## Yargıtay 20. HD 2017/10616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387656800)
+
 HMK'nın 297/2. maddesi, "Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir." hükmünü içermekte olup, yerel mahkemece dava konusu yapılan herbir bağımsız bölüm ile ilgili ayrı ayrı hüküm kurulması gerekir iken, hüküm fıkrasının 1 nolu bendinde "...bilirkişi raporunun ekli krokisinde gösterilen bölümlere davalılar tarafından yapılmış olan müdahalenin önlenmesine, dava konusu taşınmazın projesine uygun eski hale getirmek üzere kararın kesinleşmesini müteakip kendilerine takdiren 30 gün süre verilmesine," şeklindeki ifade ile taraflara yüklenen borçlar ve tanınan haklar somut olarak belirlenmeksizin, her bir davalının eski hale getirmeye ilişkin olarak nasıl bir infaz gerçekleştireceği hüküm fıkrasında belirtilmeksizin, infazda tereddüt yaratacak şekilde, genel ve soyut ifadelerle HMK'nın 297/2. maddesine aykırı olarak karar verilmiş olması,…
 
 ## Yargıtay 20. HD 2017/10294 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389370000)
+
 İncelenen dosya kapsamına ve kararın dayandığı gerekçeye göre bu kısımlara yönelik davanın reddine karar verilmesinde bir isabetsizlik bulunmamaktadır. Ancak, kabul yönünde hüküm kurulan projeye aykırılıkların eski hale getirilmesi için 634 sayılı Kat Mülkiyeti Kanununun 33. maddesi gereğince uygun bir süre verilmesi gerektiğinin düşünülmemesi doğru değil ise de bu husus hükmün bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden hükmün düzeltilerek onanması uygun görülmüştür. Bu sebeple; hüküm fıkrasının (B) bendine “davalıya karar gereğinin yerine getirilmesi için 30 gün süre verilmesine” ibaresinin eklenmesine ve hükmün 6100 sayılı Kanunun geçici 3. maddesi atfıyla HUMK'nın 438/7. maddesine göre düzeltilmiş bu şekliyle onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 20. HD 2017/10246 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389410800)
 
 SONUÇ: Hukuk Muhakemeleri Kanunu 297/2. maddesinde, “Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir” düzenlemesi mevcuttur. Yasal düzenlemeler ışığında, mahkemece, projeye aykırı olduğu tespit edilen imalat ve tadilatların krokiye bağlanarak eski hale getirilmesi gereken alan ve işlemlerin açıkça tespit edilip bu hususlar açıkça gösterilmek suretiyle hüküm kurulması gerekirken, "Davalının müdahalesinin men'ine, davalı tarafından mimari projeye aykırı olarak yapılan fazlalığın yıkılarak eski hale getirilmesine" denilerek hüküm kurulması ayrıca aykırılıkların giderilmesi için 634 sayılı Kat Mülkiyeti Kanununun 33.

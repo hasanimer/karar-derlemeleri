@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2015/1434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115752600)
+
 Mahkemece, bozma kararına uyularak yapılan yargılama sonunda;asıl dava bakımından elatmanın önlenmesi isteğinin kabulüne, yıkım isteğinin ise fahiş zarar doğuracağı, asgari levazım bedelinin de davacı (karşı davalı) tarafından mahkeme veznesine depo edilmediği gerekçesiyle reddine, keza karşı davanın da reddine karar verilmiştir.
 
 …
@@ -42,6 +44,8 @@ SONUÇ:Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının
 
 ## Yargıtay 7. HD 2025/5317 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195863300)
+
 Davacı ... kayden maliki olduğu 370 parsel sayılı taşınmaza davalıların ev-ahır-samanlık yapmak ve ağaç dikmek suretiyle el attıklarını ileri sürerek, el atmanın önlenmesi ve kâ'l talebinde bulunmuştur.
 
 …
@@ -61,6 +65,8 @@ Asıl dava davacısı mirasçıları vekilinin temyiz itirazlarının kabulü il
 
 ## Yargıtay 7. HD 2025/4861 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191920600)
+
 Bilindiği üzere; taşkın yapılarda kayıt malikinin sorumlu olacağı açıktır. Bu bağlamda taşkın yapının bulunduğu 5364 parsel sayılı taşınmaz maliki davalıya husumet yöneltilmesi doğru olduğu gibi, yıkımı istenen yapının 5363 parsel sayılı taşınmazda haklı ve geçerli bir neden olmaksızın taşkın olarak inşa edildiği gözetildiğinde davalı 5364 parsel malikinin bu yapıdan dolayı sorumluluğu olup, aleyhinde açılan el atmanın önlenmesi isteğinin kabulü ile taşkın kısmın da yıkımına karar verilmesi gerekirken, yanılgılı değerlendirmeyle birleştirilen davanın reddine karar verilmesi doğru görülmemiş, hükmün bozulması gerekmiştir.
 
 …
@@ -68,6 +74,8 @@ Bilindiği üzere; taşkın yapılarda kayıt malikinin sorumlu olacağı açık
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2025/3093 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1164839700)
 
 Davacı vekili; ... ada ... parselde kayıtlı taşınmazı 19.02.2010 tarihinde müvekkilinin satın aldığını, taşınmazda inşaata başlamak için gerekli işlemlere başladığında komşu 9 parsel sayılı taşınmazda bulunan dükkanın 3,90 m²'lik müdahalesinin bulunduğunu, ön cephesinde ise 60 cm kaymanın bulunduğunun anlaşıldığını, satış esnasında konu ile ilgili hiçbir bilgisi olmayan müvekkilinin müdahale ve kayma konusunda 9 parsel sayılı taşınmazın maliki ile görüşmüş ise de sulh teşebbüslerinin başarısız kaldığını, kayma ve müdahale nedeniyle de müvekkilinin inşaata başlayamadığını ve zarara uğradığını ileri sürerek; haksız el atmanın önlenmesini ya da kâl suretiyle giderilmesini, mümkün olmadığı taktirde bedelinin davacıya ödenmesini talep etmiştir.
 
@@ -88,6 +96,8 @@ Yargıtay 1. Hukuk Dairesince; "aralarında üç harita mühendisi bilirkişinin
 Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı ... vekilinin temyiz itirazlarının reddine, (2) No.lu bentte açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hüküm sonucunun 2. ve 8. fıkralarının hükümden çıkarılmasına, hükmün 1086 sayılı HUMK’un 438/7 hükmü gereğince DEĞİŞTİRİLMİŞ ve DÜZELTİLMİŞ bu şekliyle ONANMASINA …
 
 ## Yargıtay 7. HD 2024/3771 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100744400)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin makili olduğu 2122 ada 49 parsel sayılı taşınmazdaki evde davalının oturduğunu, davacının bu duruma rızasının bulunmadığını, ... 6. Noterliğinin 17.05.2022 tarih ve 8606 yevmiye numaralı ihtarnamesi ile evin tahliyesinin ihtar edildiğini, davalının ihtarnameyi dikkate almadığını iddia ederek, davalının dava konusu taşınmaza el atmasının önlenmesine karar verilmesini talep etmiş, bila tarihli dilekçesi ile dava konusu taşınmazın 24.07.2022 tarihinde davalı tarafından tahliye edilerek, müvekkiline teslim edildiğini, davanın konusuz kaldığını, davacı lehine yargılama gideri ve vekalet ücreti takdir edilmesini talep etmiştir.
 
@@ -111,6 +121,8 @@ Somut olayda, davalının el atmasının önlenmesine karar verilmesi talep edil
 
 ## Yargıtay 7. HD 2024/2924 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053731900)
+
 Davacı vekili; müvekkilinin taşınmazına komşu parselde bulunan inşaatın taşkın olduğunu belirterek el atmanın önlenmesi ve kal talep etmiştir.
 
 …
@@ -126,6 +138,8 @@ Mahkemenin yukarıda tarih ve sayısı belirtilen kararı ile bozma ilamı doğr
 Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/1333 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1032802600)
 
 Davacılar vekili dava dilekçesinde özetle; vekil edenlerine ait dava konusu 206 ada 13 parsel sayılı taşınmaza komşu 206 ada 14 parsel sahibi davalı tarafından yapı yapmak suretiyle müdahale ettiğini belirterek el atmanın önlenmesine ve taşkın yapıların kâl'ine karar verilmesini talep etmiştir.
 
@@ -146,6 +160,8 @@ binanın tümü yıkılacaksa tümünün değeri, aksi hâlde taşkın kısmın 
 
 ## Yargıtay 7. HD 2023/2434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910556300)
+
 Türk Medeni Kanunu'nun 724 üncü maddesine dayalı haksız yapılanma sebebiyle temliken tescil isteklerinin müstakil bir davaya konu olması gerektiği halde, Türk Medeni Kanunu'nun 725 inci maddesinden kaynaklanan taşkın yapı müstakilen temliken tescil davasına konu edilebileceği gibi taşkın inşaatı yapan kişiye karşı açılan elatmanın önlenmesi davasında savunma yoluyla da talepte bulunulması olanaklıdır. Eldeki dosyada, davalılar vekili savunma yoluyla temliken tescile ilişkin talebini bildirmiş olmasına karşın, mahkemece bu istek üzerinde durulmamış, koşulların oluşup oluşmadığının belirlenmesi için araştırma ve inceleme yapılmamış ve taleple ilgili olumlu veya olumsuz bir değerlendirme yapılmamış olması yerinde değildir.
 
 …
@@ -153,6 +169,8 @@ Türk Medeni Kanunu'nun 724 üncü maddesine dayalı haksız yapılanma sebebiyl
 Yukarıda açıklanan nedenlerle, asıl ve birleştirilen davada davalılar ... ve ... ile dahili davalılardan ... ve ... vekili ile asıl ve birleştirilen dava dahili davalılardan ... vekilinin asıl davaya yönelik temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/499 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884146400)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
@@ -182,9 +200,13 @@ Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us�
 
 ## Yargıtay 1. HD 2022/5142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/779981800)
+
 2797 sayılı Yargıtay Kanunu'nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; dava konusu uyuşmazlığın niteliği ve temyizin kapsamı, asıl davada TMK 724. Maddeye dayalı tapu iptali ve tescil, birleştirilen davada elatmanın önlenmesi, yıkım ve ecrimisil istemine ilişkin olup, temyize konu kararın Yargıtay (Kapatılan) 14. Hukuk Dairesinin bozma ilamına uyularak verildiği anlaşılmıştır.
 
 ## Yargıtay 8. HD 2021/5160 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684138700)
 
 Davacı vekili, dava konusu 91, 92, 94, 254 ve 256 parsellerin 05.10.1999 tarihinde vefat eden davacının babası ... ...’dan miras kaldığını, taşınmazlardan biri üzerine davalı tarafından ev yapıldığını, 91 parsel sayılı taşınmazının batı tarafına doğru davalının taşınmazı olan 255 parsel sayılı taşınmazın sınırlarının genişletildiğini , burada bulunan ağaçların kesildiğini, taşınmaz sınırındaki patika yolun davacının taşınmazına kaydırıldığını, 92 parsel sayılı taşınmazda ise güneyinden olmak üzere davalının taşınmazının sınırları içerisine girecek şekilde müdahale edildiğini, 94 parsele hem doğu hem batı tarafından ev yapmak ağaç dikmek suretiyle müdahale olduğunu, 254 parsele taşınmazın kuzey tarafından ağaçlar kesilmek ve yakılmak suretiyle müdahale edildiğini, davalının kendi 255 parsel sayılı taşınmazının sınırları kepçe kullanılmak suretiyle 256 ve 91 parsel sayılı taşınmazlara müdahale edilerek genişletildiğini, bu taşınmaz sınırındaki su havuzunun ve su yolunun yıkılarak ve yönü değiştirilerek müdahale edildiğini ve 256 parseldeki ağaçların da kesilerek taşınmazın kullanıldığını, uyarıların sonuç vermediğini, bu nedenle davalının taşınmazlara müdahalesinin men’i,
 taşınmazların eski hale getirilmesini, fazlaya ilişkin haklar saklı kalmak kaydıyla şimdilik 5 yıllık 200 TL ecrimisilin davalıdan tahsili talep etmiştir.
@@ -201,6 +223,8 @@ Mahkemece 10.04.2014 tarihli keşif sonrası alınan 29.04.2014 havale tarihli f
 SONUÇ: Yukarıda 2. bentte açıklanan nedenlerle davacı vekilinin temyiz itirazları yerinde olduğundan kabulü ile hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollaması ile HUMK'un 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/6703 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621931400)
 
 Davacı vekili, dava konusu 864 parsel sayılı taşınmazın vekil edenine ait olduğunu, davalının taşkın bina yapmak ve çit çekmek suretiyle taşınmaza müdahale ettiğini belirterek elatmasının önlenmesi ile inşa edilen bina, kuruluk ve çitin yıkımına karar verilmesini istemiştir.
 
@@ -220,6 +244,8 @@ TL dava açma gideri, 9,60 TL posta gideri, 80,00 TL 8 adet tebligat gideri, 1.2
 
 ## Yargıtay 8. HD 2020/5933 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609645100)
+
 Davacılar, dava konusu 644 parsel sayılı taşınmazın 1/2 hisseli olarak adlarına kayıtlı olduğunu, davalının 639 parsel sayılı taşınmazın maliki olduğunu, davalının taşınmazlarına tel örgü çekmek, sulama kanalı koymak, basit bir araba garajı yapmak suretiyle tecavüz ettiğini ileri sürerek müdahalenin men'ine karar verilmesini istemişlerdir.
 
 Davalı vekili, davacıların davasının reddini talep ederek tecavüzlü olduğu iddia edilen alanın müvekkili adına temliken tesciline karar verilmesini istemiştir.
@@ -238,6 +264,8 @@ SONUÇ: Anılan bu husus, davalı vekilinin karar düzeltme isteği sonucunda ye
 
 ## Yargıtay 14. HD 2019/1828 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492571600)
+
 Mahkemece, asıl davanın kabulüne, karşı davanın reddine karar verilmiş, davalının temyizi üzerine Dairemizin 14.03.2018 tarihli ve 2015/10069 Esas, 2018/1914 Karar sayılı ilamıyla mahkemece verilen karar onanmıştır.
 
 …
@@ -249,6 +277,8 @@ Her ne kadar mahkemece, asıl davanın kabulü ile davalının elatmanın önlen
 SONUÇ: Yukarıda açıklanan nedenlerle davalının karar düzeltme isteğinin kabulü ile Dairemizin 14.03.2018 tarihli ve 2015/10069 Esas, 2018/1914 Karar sayılı onama ilamının KALDIRILMASINA …
 
 ## Yargıtay 8. HD 2019/1587 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490887800)
 
 Davacı vekili; dava konusu 265 ada 1 parsel sayılı taşınmazın maliki olan davacıların murisi ... ...'nin 03.01.1998 tarihinde vefat ettiğini, bu durumdan faydalanan davalının taşınmaz üzerine ev yaparak muhtelif ağaçlar diktiğini, 1998 yılından bu yana davalının haksız kullanımının sürdüğünü belirterek, davalının el atmasının önlenmesini, taşınmaz üzerindeki yapı ve ağaçların kal'ini ve 22.500,00 TL ecrimisil bedelinin yasal faiziyle birlikte davalıdan tahsilini talep etmiştir.
 
@@ -267,6 +297,8 @@ Davalının kal kararına yönelik temyiz isteğine gelince; Türk Medeni Kanunu
 SONUÇ: Açıklanan nedenlerle, davalının yukarıda belirtilen temyiz itirazları yerinde olduğundan kabulü ile Yerel Mahkeme hükmünün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/11136 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419916900)
 
 Davacılar vekili, vekil edenlerinin davaya konu edilen 2058 parsel (yeni 18 parsel) sayılı taşınmazın malikleri olduğunu, davalının, bu taşınmazda hissedar olmadığı halde ev yapmak suretiyle taşınmaza müdahalede bulunduğunu açıklayarak, davalının 2058 parsel sayılı taşınmaza yapmış olduğu müdahalenin men'ine ve binanın kal'ine karar verilmesini istemiştir.
 

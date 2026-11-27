@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2007/3034 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878584100)
+
 Kat Mülkiyeti Yasasının 20. maddesinin ikinci fıkrası hükmüne göre ortak gider veya avans payını ödemeyen kat maliki hakkında diğer kat maliklerinden (bağımsız bölüm sahiplerinden) herbiri veya yönetici yönetim planına, Kat Mülkiyeti Yasasına ve genel hükümlere göre dava açabilir icra takibi yapabilir. Somut olayda -yukarıda değinildiği üzere- davacı ...'nun ortak giderin dayanağını oluşturan Umut İşhanı A Blokta kat irtifak hakkı sahibi (bağımsız bölüm maliki) ve aynı zamanda bu işhanının yöneticisi olduğu gözetildiğinde anayapının güçlendirilmesi ve onarımı için yapılan ortak giderlerden payına düşeni ödemeyen bağımsız bölüm malikleri hakkında dava açma hak ve ehliyetinin bulunduğunda kuşku yoktur.
 Sözü edilen güçlendirme ve onarım için harcanan toplam paranın davalının payına düşen miktardan davacı tarafın doğrudan kendi cebinden ödediği kısmın davacılara, yönetimin kasasından ödenen kısmın ise işhanı yöneticiliğine ödenmesine hükmedilmesi gerekirken, anılan yasa hükmü gözardı edilerek salt davacı tarafın yaptığı harcamaların tahsiline, yönetim tarafından yapılan ve bundan davalının payına düşen kısmın reddine karar verilmiş olması; ayrıca davacı taraf asıl alacak için davalının temerrüde düştüğü tarihten itibaren faiz istemiş olmasına karşın hüküm altına alınan alacak için saptanacak olan temerrüd tarihinden değil dava tarihinden itibaren faize hükmedilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/2904 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877314100)
 
 634 sayılı Kat Mülkiyeti Yasasının 20. maddesine göre kat maliklerinden her biri anataşınmazın ortak gider ve aidat borçlarından payına düşeni mevzuata uygun biçimde ödemekle yükümlüdür. Dosya içindeki bilgi ve belgelerden; kat mülkiyeti rejimine tabi anataşınmazda davacının 06.02.2005 günlü kat malikleri kurulu kararı uyarınca seçilmiş yönetici, davalının ise bağımsız bölüm maliki oldukları anlaşılmaktadır. Dosya içinde 2005 yılına ait işletme projesi bulunmakta ise de, mahkemece yaptırılan bilirkişi incelemesi sonucu düzenlenen raporda; dosyada sözü edilen ödemelerin kaynağına ilişkin bir belge
 
@@ -33,46 +37,68 @@ bulunmadığı, site yönetiminin bu konuda davalıya gerekli bilgileri sunmadı
 
 ## Yargıtay 18. HD 2007/1543 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879307500)
+
 634 sayılı Kat Mülkiyeti Yasasının 20. maddesine göre kat maliklerinden her biri aralarında başka türlü anlaşma olmadıkça anataşınmazın ortak tesislerinin giderlerine ve bu giderler için toplanacak avansa kendi arsa payları oranında katılmakla yükümlüdürler. Dosyadaki bilgi ve belgelerden; davalının dava konusu ana taşınmaza ait ortak gider ve aidat borçlarını yakıt gideri de dahil olmak üzere düzenli bir şekilde ödemediği ve bu nedenle yönetim tarafından hakkında icra takipleri de yapıldığı anlaşılmaktadır.
 Mahkemece dava konusu ana taşınmazda bağımsız bölüm maliki olan diğer kişilerin de ana taşınmazın gelir-giderleri konusunda bilgilerine başvurulduktan sonra davalı hakkında yürütülen icra takiplerine ilişkin dosyalar ile gelir ve giderlerin kaydedildiği defterler, kayıtlar ve ayrıca davacı vekilinin 29.5.2006 günlü dilekçesi ekinde mahkemeye sunduğu, dosya içerisinde bulunan apartman makbuzları hep birlikte bilirkişiye incelettirilerek anataşınmazda yapılan masrafların kesin miktarının tespit ettirilmesi ve bu masraftan davalı payına düşen miktarın saptanması gerektiği halde eksik incelemeye ve yetersiz araştırmaya dayanan bilirkişi raporuna göre yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/962 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879202600)
+
 634 Sayılı Kat Mülkiyeti Yasasının 22. maddesine göre, kat malikinin 20. madde uyarınca payına düşecek gider ve avans borcundan, gecikme tazminatından bağımsız bölümlerin birinden kira akdine veya başka bir sebebe dayanarak devamlı şekilde faydalananlar kat maliki ile birlikte böyle bir borçtan dolayı, müştereken ve müteselsilen sorumludurlar. Ancak, kiracının sorumluluğu ödemekle yükümlü olduğu kira miktarı ile sınırlı olup ödeme kira borcundan düşülür.
 
 ## Yargıtay 18. HD 2007/682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879306100)
 
 Kat Mülkiyeti Yasasının 20. maddesinin ikinci fıkrası hükmüne göre ortak giderden payına düşeni ödemeyen bağımsız bölüm malikinin ödemede geciktiği günler için ödemekle yükümlü olduğu aylık %10 oranındaki gecikme tazminatının başlangıç gününün açıkça saptanmış olması gerekir.
 
 ## Yargıtay 18. HD 2006/10445 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882893700)
+
 634 sayılı Kat Mülkiyeti Yasasının 22. maddesinin birinci fıkrasına göre kat malikinin 20. madde uyarınca payına düşecek gider ve avans borcundan, gecikme tazminatından bağımsız bölümlerin birinde kira akdine, oturma (sükna) hakkına veya başka sebebe dayanarak devamlı bir şekilde faydalananlar da müştereken ve müteselsilen sorumludur.
 
 ## Yargıtay 18. HD 2006/9944 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885810500)
 
 1-634 Sayılı Kat Mülkiyeti Yasasının 20. maddesine göre gider ve avans payını ödemeyen kat malikinin ödemede geciktiği günler için aylık %10 hesabıyla gecikme tazminatı ödemekle yükümlüdür. Dava konusu anataşınmazın kat malikleri kurulunca bu gecikme tazminatı oranının %12'ye çıkartıldığı fakat davalının bu kararda imzası bulunmadığı anlaşılmaktadır. Gecikme tazminatı oranını artıran kararda imzası bulunmayan davalıyı sözkonusu kararın bağlaması mümkün değildir. Mahkemece gecikme tazminatının %10 oranı üzerinden hesaplanıp davalıdan tahsiline karar verilmesi gerekirken davacı tarafından takip talebinde istenen %12 oranı esas alınarak hesaplanan gecikme tazminatına hükmedilmesi,…
 
 ## Yargıtay 19. HD 2006/9192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891084700)
+
 Kat Mülkiyeti Kanununun 20.maddesine göre kat maliklerinden her biri aralarında başka türlü sözleşme olmadıkça taşınmazın giderlerine katılmakla yükümlüdürler. Aynı Kanunun 22/son maddesinde kat maliklerinin gider borcunu ödemeyen kat maliki ve diğer sorumlulardan olan alacağının öncelikli olduğu belirtilmiştir.Hükmünde öngörülen öncelik KMK'nun 22/2.maddesinde öngörülen kanuni ipoteğin tescilini istemekten ayrı bir hak olup ipotek tescil edilmemiş olsa bile ortak gider alacağının önceliği bulunmaktadır. Davacı hükmü temyiz etmediğinden garameten paylaşmaya ilişkin gerekçe bozma nedeni yapılmamıştır.Yukarıda açıklanan nedenlerle davalı alacaklının temyiz itirazları yerinde olmadığından hükmün onanması gerekmiştir.
 
 ## Yargıtay 18. HD 2006/7437 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886867500)
 
 Kat mülkiyeti Yasasının ortak giderlerin teminatına ilişkin 22. maddesi hükmüne göre kiracıların sorumluluğu, ana taşınmazda bu sıfatla oturduğu sürece geçerlidir. Asıl sorumluluk sözü edilen Yasanın 20. maddesinde belirtildiği üzere kat malikinindir. Yasasının 22. maddesinde kiracının yada başka bir hakka dayanarak bağımsız bölümde devamlı surette oturanın müteselsil sorumluluğu, oturduğu sürece söz konusu olup, bağımsız bölümü tahliye ettikten sonra yapılan icra takibi ile kiracının sorumlu tutulmasına yasal olanak bulunmamaktadır. İstenen alacağın davalı kiracının bağımsız bölümde oturduğu süreye ilişkin olması Kat Mülkiyeti Yasasının uygulanması bakımından sonuca etkili olmayıp, kira sözleşmesine göre sorumluluk ise, bağımsız bölüm maliki ile kiracı arasındaki hukuki ilişkiye göre belirleneceğinden bu davada dikkate alınmaz. Çünkü kiracı, Kat Mülkiyeti Yasasının hükümlerine göre yasal müteselsil sorumlu olarak ödemek zorunda kalacağı meblağı, bağımsız bölümü tahliye etmiş olduğundan, 22 maddede öngörüldüğü üzere kira borcundan düşemeyecektir.
 
 ## Yargıtay 18. HD 2006/5351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883345300)
+
 Borçlu mütemerrit olmadıkça, geçmiş günler için gecikme tazminatından sorumlu tutulamaz. Borcun ödeneceği ..., yönetim planında açıkça gösterilmiş ise o günün dolmasıyla borçlu mütemerrit olur. Yönetim planında böyle bir hüküm yer almamakla birlikte borcun dayanağını oluşturan işletme projesinde veya kat malikleri kurulu kararında ödeme günü belirtilmiş ve bu nitelikteki belgeler borçluya tebliğ edilmiş ise o günden itibaren; bunlar da yoksa, hakkında icra takibi yapılmışsa ödeme emrinin, doğrudan alacak davası açılmışsa dava dilekçesinin tebliği ile mütemerrit duruma düşer. Belirtilen biçimde ortak gider borcunun tediyesinden temerrüt eden borçlu, geçmiş günler için gecikme tazminatını ancak temerrüte düştüğü günden başlayarak ödemek zorundadır.
 
 ## Yargıtay 18. HD 2006/3322 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880232600)
 
 Dosya içindeki bilgi ve belgelerden; dava konusu anataşınmazda kat irtifakı kurulmuş olduğu, davalının onbeş ayrı bağımsız bölümde malik bulunduğu anlaşılmaktadır. Bilindiği gibi HUMK.'nun 87.maddesinin son cümlesindeki "müddei ıslah sureti ile müddeabihi tezyit edemez." hükmü Anayasa Mahkemesinin 27.07.1999 gün ve 1999/1 esas 33 sayılı karar ile iptal edilmiştir. Bu iptal kararının yürürlüğe girdiği tarihten sonra müddeabihin miktarının ıslahla arttırılması kural olarak mümkündür. Ancak bunun gerçekleşebilmesi için davacının dava dilekçesinde açıkça fazlaya ilişkin hakkını saklı tutması gerekir. Somut olayda davacı ortak gider ve aidat alacağının miktarını hesaplamış ve bunun mahkeme tarafından kendisine ödenmesine karar verilmesini istemiş olmasına karşın fazlaya ilişkin hakkını saklı tutmamıştır. Bu durum karşısında mahkemece dava dilekçesindeki istem gibi 8.848.147.402 TL. (8848 YTL.'ye) hükmedilmesi gerekirken ıslahla arttırılan miktarı da kapsayacak şekilde 15.814.587.780 TL.'nin davalıdan alınıp davacıya verilmesi yolunda hüküm kurulması,…
 
 ## Yargıtay 18. HD 2006/2764 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880867800)
+
 Davaya konu aidat alacakları, doğalgaz kazan dairesi tadilatı, merkezi TV. kurulması ve doğalgaz güvence payına ilişkin olan Kat Malikleri Kurulu kararları ve davacı yönetimin yönetici seçildiklerine ilişkin Kat Malikleri Kurulu kararlarının bulunduğu karar defteri ile aidatların toplanmasına ilişkin toplantılara davalı katılmamışsa bu kararların tebliğ edildiğine ilişkin tebliğ belgelerinin yönetimden temin edilerek dosya içerisine konulmasından sonra temyiz incelemesi yapılmak üzere iadesi için dosyanın mahkemesine GERİ ÇEVRİLMESİNE, 04.04.2006 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 18. HD 2006/2566 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879837300)
 
 634 Sayılı Kat Mülkiyeti Yasasının 20. maddesine göre kat maliklerinden her biri, aralarında başka türlü anlaşma olmadıkça anataşınmazın bütün ortak yerlerin bakım, koruma ve onarım giderleri ile ortak tesislerin işletme giderlerine ve diğer giderler ile ilgili avansa kendi arsa payı oranında katılmakla yükümlüdür. Gider veya avans payını ödemeyen kat maliki hakkında diğer kat maliklerinden her biri bu kanuna göre dava açabilir, icra takibi yapabilir. Ortak giderlerin teminatını düzenleyen aynı Yasanın 22. maddesinin birinci
 
@@ -80,25 +106,37 @@ fıkrasına göre de kat malikinin 20. madde uyarınca payına düşecek gider v
 
 ## Yargıtay 18. HD 2006/1917 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16198400)
+
 Dosyadaki bilgi ve belgelere ve özellikle Dairenin geri çevirme kararı üzerine dosyaya getirtilen tapu kayıtları içeriğine göre dava konusu edilen ortak gider alacağının dayanağını oluşturan anataşınmazda kat mülkiyetinin kurulmuş olduğu davacının bu taşınmazda yönetici ve davalının da bağımsız bölüm maliki olduğu anlaşılmaktadır. Kat Mülkiyeti Yasasının 20. maddesi hükmü gereğince kat maliklerinden herbirinin payına düşen ortak gideri ödemekle yükümlü bulunduğu ödememesi durumunda yöneticinin o kişi hakkında icra takibi yapabileceği ve dava açabileceği öngörülmüştür. Somut olayda taraflar arasındaki uyuşmazlık yasanın bu maddesinden kaynaklanmaktadır.
 
 ## Yargıtay 18. HD 2006/1772 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879161200)
 
 Yargıtay uygulamalarında Kat Mülkiyeti Yasasının 20.maddesinde öngörülen gecikme tazminatının uygulanabilmesi için borçlu malikin, bu konuda alınan kat malikleri kurulu kararına bizzat katılması, katılmamışsa kararın yada yöntemince düzenlenmiş işletme projesinin kendisine tebliğ edilmesi veya başka bir surette borçtan haberdar olması gerekir. Takipten veya davadan önce borcu öğrenmemiş olması halinde ise icra ödeme emrinin veya dava dilekçesinin kendisine tebliğ edildiği tarihten itibaren gecikme tazminatından sorumlu tutulabileceği kabul edilmektedir.
 
 ## Yargıtay 18. HD 2006/1203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884315700)
+
 Kat Mülkiyeti Yasasının 34.maddesi hükmüne dayalı olarak mahkemece atanan yöneticiye ödenecek ücretin belirlenmesiyle yetinilmesi gerektiği düşünülmeden, esas olarak kat malikleri kurulunun yetkisinde olup bu kurulca belirlenmemiş olan durumlarda yönetici tarafından hazırlanacak olan işletme projesinde tespit edilmesi gereken genel gider payı avanslarının (aidat) bu konuda herhangi bir talep de bulunmadığı dikkate alınmadan mahkemece tespit edilmiş olması,…
 
 ## Yargıtay 18. HD 2006/778 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883647200)
 
 Kat Mülkiyeti Yasasının 22. maddesi hükmüne göre, bağımsız bölüm maliki yanında anataşınmazda kira aktine veya sükna hakkına dayanarak devamlı bir şekilde faydalananlar ortak giderlerden müteselsilen sorumlu ise de takibin yapıldığı tarihte anataşınmazı tahliye etmiş olan kişi hakkında bu hüküm geçmiş ortak giderlere ait olsa da uygulanmaz. Çünkü sözü edilen maddenin 1. fıkrasının son cümlesi hükmüne göre, bu şekilde sorumlu tutulan kiracının sorumluluğu ancak kira miktarı ile sınırlı olduğu gibi, bu davada dikkate alınmayacak olan bağımsız bölüm maliki ile kiracı arasındaki sözleşmeye tabi olmak üzere kira borcundan da düşülebilecektir.
 
 ## Yargıtay 18. HD 2005/3657 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16158400)
+
 O halde davalının, taahhütname uyarınca 01.10.2002 gününe kadar dava konusu bağımsız bölüme ait ortak gider ve aidat borçlarının tümünü ödemeyi üstlendiğine göre mahkemece anılan tarihe kadar (01.10.2002 gününe kadar) ki borç miktarının uzman bir bilirkişiye hesaplattırılarak alınacak rapor doğrultusunda bir karar verilmesi gerekirken, kabulü mümkün olmayan bazı gerekçelerle davanın reddi yönünde hüküm kurulması,…
 
 ## Yargıtay 18. HD 2003/1832 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16356800)
 
 Somut olayda kat maliklerinden bir kısmı, yönetim planının 13. maddesinde yer alan ve ana taşınmazdaki on altı bağımsız bölümden salt dükkan niteliğindeki iki bağımsız bölümün belirli ortak gider ücretlerine katılmamaları sonucunu doğuran (f) fıkrasının kaldırılması ile yerine "dükkan maliklerinin apartman girişi ve merdiven otomat lambası elektrik giderleri ve merdiven temizlik giderleri dışındaki diğer ortak giderlere daire malikleri gibi katılırlar" şeklinde değiştirilmesini istemişlerdir. Değişikliğe konu edilen bu fıkranın mevcut halinin yasanın emredici kurallarına aykırı bulunmadığı, başka bir anlatımla dükkan maliklerinin bir kısım ortak giderlerden sorumlu tutulmamalarını yasanın emredici hükümlerine aykırılık oluşturmadığı gözetilmeden, mahkemece davanın kabulü ile söz konusu değişikliğin yapılmasına karar verilmesi doğru görülmemiştir.
 
@@ -111,11 +149,15 @@ Buna göre Kooperatif istifayı kabulden kaçınır ise, üye tarafından noter 
 
 ## İstanbul BAM 43. HD 2026/194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201559000)
+
 Mah.1642 ada 1 parsel üzerinde yapılacak C blok 11 numaralı bağımsız bölümün 265.000,00 TL bedelle satışının yapılması ve sözleşmedeki şartlar ile davacıya devredilmesi hususunda anlaştıkları, sözleşmenin 8. maddesinde, bağımsız bölümün 30.09.2018 tarihinde, satıcı tarafından alıcıya teslim edilmemesi halinde satıcı geciken her ay için zararına karşılık olarak alıcıya 1.000,00 TL ödemeyi kabul ettiği düzenlenmiştir.Her ne kadar davalı söz konusu sözleşmenin davacı tarafından düzenlendiği, imza ve kaşenin kendilerine ait olmadığını, tarihleri kabul etmediklerini beyan etmiş, sözleşmenin aslı da temin edilemediğinden Mahkemece imza incelemesi yapılamamış olsa da, sözleşme konusu taşınmazın davalı tarafından 13.12.2018 tarihinde 185.000,00 TL bedelle davacıya devredildiği, davacı tarafından sunulan ödeme dekontlarında, 06.11.2017 tarihinde 65.000,00 TL, 27.03.2018 tarihinde 80.000,00 TL, 06.04.2018 tarihinde 40.000,00 TL, 1642 ada 1 parsel üzerinde yapılacak C blok 11 numaralı daire ödemesi açıklaması ile EFT gönderdiği, 20.06.2018 tarihli Tahsilat Makbuzu ile 80.000,00 TL olmak üzere sözleşmede belirtilen satış bedeli olan 265.000,00 TL ödeme yaptığı, davalının da davacıya 15.01.2020
 tarihinde gecikmeden dolayı Adalı Konakları Kira Bedeli açıklaması ile 5.000,00 TL ödeme yapılmış olması karşısında artık taraflar arasında dava konusu taşınmazın satışı hususunda anlaşma bulunduğu sabit olup, alıcı davacının tüm borçlarını eda ederek satış bedelini tapu devir tarihi olan 13.12.2018 tarihinden önce davalıya ödediği ve satıcının da bağımsız bölümü teslim ettiği, satıcının tapuda mülkiyetini 13.12.2018 devretmiş olmasına göre, bundan sonra arsa payı karşılığı inşaat sözleşmesine konu taşınmazın haricen satışında, satıcı yüklenicinin şekle aykırılığı ileri sürmesi TMK’nın ikinci maddesi gereğince, hakkın kötüye kullanılması olarak değerlendirilmelidir.Gecikme tazminatı (götürü tazminat-kira tazminatı) kural olarak sözleşmede kararlaştırılan teslim tarihinden (teslim edilmesi gereken tarihten) eserin eksiksiz ve ayıpsız olarak sözleşmeye uygun biçimde fiilen teslim edildiği tarihe kadar ya da iş sahibinin bağımsız bölümü fiilen kullanmaya başladığı veya üçüncü kişiye oturulabilir şekilde kiraya verdiği ya da teslim edilmesi gereken tarihten sonra sattığı tarihe kadar istenebilir.Gecikme tazminatı, alacaklının borcun geç ifa edilmesinden uğradığı zararı karşılamayı
 amaçlar ve alacaklının borcun gecikmeden ifa edilmesindeki çıkarını sağlamaya yöneliktir.Temerrüde düşen borçlu, borcun geç ifasından dolayı alacaklının uğradığı zararı gidermekle yükümlüdür.
 
 ## İstanbul BAM 17. HD 2025/1468 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183695900)
 
 Maddesine aykırı uygulamaları sebebiyle genel kurul kararlarıyla ödedikleri aidatı geri isteyemeyecekler ise de, kooperatifin site yönetim planında belirtildiği şekilde ana yapıda çarşı, işhanı, ara blok dışında kalan yerlerde, ana taşınmaz genel kurulu olan kooperatif genel kurulunun 2/3 çoğunluk kararı ile aksi yönde yani ticari iş ve faaliyet gösterebileceğine dair genel kurul kararı alınmadığından, genel kurul kararı olmadan kooperatif yönetim kurulunun ana sözleşme ve site yönetim planına aykırı davranarak davacının kendi bağımsız bölüm değerine göre diğer bağımsız bölümlerde oluşan değer artışından kendisine isabet eden pay tutarında tazminini talep edebileceği, davalı
 
@@ -124,9 +166,13 @@ bağımsız bölüm nolu dükkanların değer kaybetmesi ve ana yapı, çarşı 
 
 ## İstanbul BAM 45. HD 2025/458 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1136977600)
+
 ... VE ... NOLU DÜKKANLARLA İLGİLİ YAPILAN KİRA SÖZLEŞMESİ HÜKÜMLERİ: Davalı ...'in davalı kooperatifteki ... ve ... nolu işyerleri için ... San. Tic. A.Ş. ile yaptığı sözleşmede elektrik, su paraları, emlak vergisi hariç her türlü vergi, tadilat ve onarım bedelleri, YÖNETİM GİDERLERİ'nin kiracıya ait olduğu kararlaştırılmaktadır. Yönetim giderlerinden kasıt davalı kooperatife ödenmesi gereken AİDATLAR olduğu anlaşılmaktadır. Dolayısıyla davalı kooperatife aidatları kiracılar ödemekte oldukları için davalı kooperatife ortakların aidat altında ikinci bir aidat ödemedikleri anlaşılmaktadır. Davalı kooperatife 2018 yılından önce kiracı sıfatını taşıyan ... Ltd. Şti firmasının aidatları ödediği, 2018 yılında ise dükkanlar kirada olmadıkları için davalı ortak ... tarafından aidatların ödendiği 2019 yılının başından sonra ise ... A.Ş. firması tarafından aidatların ödendiği anlaşılmaktadır. Yapılan bu aidat ödemelerinin kat mülkiyeti mevzuatı dahilinde olduğu anlaşılmaktadır.
 
 ## Kayseri BAM 6. HD 2024/2126 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1079028900)
 
 Tekmil dosya mündericatı birlikte değerlendirildiğinde; "...Kayseri Bölge Adliye Mahkemesi 6. Hukuk Dairesinin kaldırma ilamı doğrultusunda aldırılan 28/02/2024 tarihli bilirkişi ek raporundan özetle; davalıya teslimi yapılan dairenin ... Mahallesi ... ada ... parsel ...Blok...Kat ... numaralı bağımsız bölüm olduğu, 12/12/2012 tarihinde tapu devrinin davalıya yapıldığının anlaşıldığı, davalı kooperatifin kuruluşundan 2022 yılına kadar üyelerin yapmış olduğu ödemeleri (141.252,50-TL) ortağın hesabına kaydettiği, ancak tahakkuk eden tutarlar 2022 yılına kadar kaydetmediği, 2022 yılında davalı hesabına 334.220,00-TL topluca tahakkuk (aidat+ara ödeme) yaptığı, ayrıca 2023 yılında 60.000,00-TL üye aidatı tahakkuku yaptığı, toplam tahakkuk tutarı 394.220,00-TL olarak kayıtlara işlendiği, bu durumda davanın ticari defterlerinde davalıdan 394.220-141.252,20=252.967,50-TL alacak oluştuğunu hesaplandığı, dava dilekçesi ekindeki hesap ekstreleri incelendiğinde Temmuz/ 2012 döneminde dava dışı ... hesabından davacı hesabına
 
@@ -134,6 +180,8 @@ Tekmil dosya mündericatı birlikte değerlendirildiğinde; "...Kayseri Bölge A
 Hukuk Dairesi'nin güncel kararlarında tapu devri sonrası aidat tutarının hesaplanmasının talep edildiği, davalıya devri yapılan daire için hazırlanan maliyet raporunda üst yazı bulunmadığı, ancak kooperatif yönetimince ... ada ...parsel üzerine yapılan B ve C Blokların maliyetine ilişkin 23/12/2011 tarihinde yönetim kurulu kararı alındığının görüldüğü, bu durumda maliyet raporunun tarihinin 23/12/2011 olarak kabul etmek gerektiği, bu tarihten davacının talep ettiği, Mayıs/2022 dönemine kadar kooperatif genel kurul kararlarına göre hesaplanan aidat tutarı 140.450,00-TL olduğu, davalının söz konusu dönemde herhangi bir ödemesi görünmediği konusunda görüş bildirilmiştir. Bilirkişi ek raporunda davalının ödemesi gereken aidat tutarının 140.450 TL olarak hesaplandığı,davacının talebinin ise 40.158,00 TL olduğu anlaşıldığından davanın kabulüne dair aşağıdaki karar verilmiştir. Davanın KABULÜ ile, 9.000,00 TL aidat alacağının dava tarihi olan 01/06/2022 tarihinden, 31.158,00-TL aidat alacağının ıslah tarihi olan 16/05/2023 tarihinden itibaren işleyecek yıllık %18 / aylık %1,5 faiz ile birlikte davalıdan alınarak davacıya verilmesine,…
 
 ## Kayseri BAM 6. HD 2024/1803 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068845100)
 
 Ancak tescil tarihinden itibaren 6 ay içerisinde usulüne uygun şekilde anasözleşme değişikliği yapılarak kooperatifin amacının değiştirilmesi halinde dağılmaya ilişkin hüküm uygulanmaz. (Ek cümle:
 3/6/2010-5983/2 md.) Amacına ulaşılarak dağılma sürecine girmiş olan kooperatiflerden çıkan veya çıkarılan ortağın konutu veya işyeri çıkma veya çıkarılma sebebiyle geri alınamaz; ancak, bu eski ortaklar daha sonra oluşabilecek tasfiye masraflarına katılırlar." hükmüne yer verildiğini, dolayısıyla yapımı devam eden inşaatların finansmanı için gerekli bulunan kesin maliyet bedelinin hesaplanarak, taşınmazını devralan yahut henüz devralmayı bekleyen kooperatif üyelerinden tahsili istemi yerinde olduğu gibi, kesin maliyetin veya buna benzer inşaat finansmanı için zorunlu giderlerin aidat alacaklarına eşitlik ilkesi de gözetilerek yansıtılmasında bir sakınca bulunmadığını, emsal Yargıtay kararında da belirtildiği gibi; taşınmazın, davalı kooperatif üyesine devredilmesi, genel giderlere ve inşaat finansmanı için zorunlu bulunan giderlere katılım borcunu ortadan kaldırmadığını, davaya konu edilen aidat alacağının davacı kooperatifin 2003 ila 2022 hesap yıllarına ait olağan genel kurul toplantılarında alınan aidat istemlerine ilişkin genel kurul kararlarına dayalı olup, esasen alınan kararlar ve kararların geçerliliğinin tartışma konusu olmayıp bahse konu aidat alacağının belirlendiğini,
@@ -145,11 +193,15 @@ Kayseri Bam 6.
 
 ## İstanbul BAM 12. HD 2024/1261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066568900)
+
 7.b.3 maddesine göre, bağımsız bölümün teslim süresi sonunda da teslim edilmemesi halinde satıcının alıcıya her daire için aylık 2.000-TL kira bedeli ödeyeceği, bu bedelin ödenmesinin alıcının sözleşmedeki ödeme koşullarına uyması şartına bağlı olduğu, satıcı tarafından taahhüt edilen teslim tarihinin 30.04.2015 olduğu hususlarının hüküm altına alındığı görülmektedir. Davalı tarafça davacının ıslah dilekçesine karşı yasal süresinde zamanaşımı defi ileri sürülmüştür. Dava konusu alacak satış sözleşmesinden kaynaklanan geç teslim iddiasına dayalı olup, müspet zarar niteliğindeki kira bedeli alacağı TBK'nın 146. maddesi kapsamında 10 yıllık zamanaşımı süresine tabidir. Bu nedenle somut olayda ıslah tarihi itibariyle zamanaşımı süresi dolmamıştır. Yine uyuşmazlık konusu alacak TBK'nın 118. maddesinde düzenlenen gecikme tazminatı niteliğinde olup, ifa ile birlikte talep edilebileceği gibi, ifa temerrütten sonra yerine getirilmiş ve bir çekince (ihtirazi kayıt) ileri sürülmemiş olsa bile ifadan sonra talep ve dava edilebilir.
 Bu nedenle somut olayda ihtirazi kayıt ileri sürmeden sözleşme konusu daireleri teslim alan davacının gecikme tazminatı niteliğindeki kira bedeli alacağını talep etmesi mümkündür. Bu nedenle davalı vekilinin bu hususlarda ileri sürdüğü istinaf nedeni yerinde görülmemiştir. Sözleşme konusu bağımsız bölümler davalıya 06.01.2016 tarihinde teslim edilmiş olup, bu tarihten itibaren davacı
 
 tarafından fiilen kullanıldığı, ancak dairelerin iskanının dava tarihi itibariyle henüz alınmamış olduğu sabittir. Ümraniye Belediyesinin 09.11.2016 tarihli yazısı ile 31.12.2015 tarihi itibariyle %90 seviye tespit tutanağı düzenlendiği bildirilmiş olup, iş bitirme tutanağına göre de yapının 31.03.2017 tarihi itibariyle %100 seviyesinde olduğu tespit edilmiştir. Sözleşmenin 3. maddesi ile davalı daireleri 30.04.2015 tarihine kadar kullanılabilir vaziyette teslim etmeyi taahhüt etmiş olup, dairelerin teslimi ise 06.01.2016 tarihinde gerçekleştirilmiş olmakla, davalı teslimde 8 ay 5 günlük süre ile gecikmiştir. Bu süreye tekabül eden kira kaybı bedeli ise 49.000-TL'dir.
 
 ## İstanbul BAM 16. HD 2024/1164 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043539800)
 
 35 hükmüne göre 2019 yılı itibariyle devre mülk alıcılarından aidat toplama görevinin dava dışı İşletmeciye ait olduğu, Dava konusu Protokol hükmüyle Yüklenici Şirketin yeni belirleyeceği aidatları alıcıların yüksek bulması ve aidat toplanmasında sorun yaşanması halinin teminat altına alınmasının amaçlandığı,Olağanüstü Kat Malikleri Kurulu toplantısında yeni belirlenen aidat miktarlarına karşı herhangi bir itiraz olmadığı, Protokol kapsamında Yüklenici tarafından belirlenen aidatları yüksek bulan bir devre mülk alıcısının varlığından söz edilemeyeceği,Alıcıların, 2019 yılı için Yüklenicinin belirlediği aidatları Yüksek bulması hali gerçekleşmediğinden bu hükmün uygulamasının mümkün olmadığı,Protokol'ün II/B-2. maddesinde yer alan teminat hükmünün hukuki niteliğinin tespiti gerektiği, sözleşmenin lafzında geçen “garanti etmiştir” ifadesinin doğrudan işbu Sözleşmenin garanti sözleşmesi olduğunu göstermeyeceği,Protokolün tüm maddeleri ve teminat hükmünün özellikleri incelendiğinde;…

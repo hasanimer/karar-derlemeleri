@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2024/262 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/997492800)
+
 Her ne kadar davaya konu taşınmaz üzerinde ihtiyati tedbir ya da davalı olduğuna ilişkin herhangi bir şerh bulunmaması nedeniyle davaya konu taşınmazın üçüncü kişilere devri yasal olarak mümkün ise de; davalı ... ilk davada hakkında tapu iptali ve tescil kararı verilen ...'ın oğlu olup, iyi niyet iddiası dinlenemeyeceğinden,Yargıtay denetiminden geçerek kesinleşmiş mahkeme ilamı doğrultusunda davalının tapu iptal ve tescil koşullarının oluşmadığına ilişkin iddiası bakımından yeniden araştırma yapılmasının mümkün olmadığı" gerekçesiyle "Davanın Kabulü ile; ... ili, Merkez ilçe, ... Mahallesi, 269 ada 48 parsel 4 numaralı bağımsız bölümün Tapu Kaydının İptali ile; davacı adına Tapuya Kayıt ve Tesciline," karar verilmiştir.
 
 ## Yargıtay 5. HD 2023/12907 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/996100400)
 
 Dairemizce yapılan inceleme sonucunda, 2942 ... Kanun'un 37 nci maddesine göre bu kanundan ... davalar basit yargılama usulü ile görülür. Adli ara vermede de bakılır. 6100 ... Hukuk Muhakemeleri Kanunu'nun (6100 ... Kanun) 103 üncü maddesine göre süresinde olmayan davalı vekilinin temyiz dilekçesinin reddine karar verildikten sonra davacı idare vekilinin temyizi yönünden yapılan incelemede; hükme esas alınan bilirkişi raporunda emsal olarak incelenen taşınmazın dükkan satışı olduğu belirtilmiştir. O halde dükkanın satış tarihindeki Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yapı Yaklaşık Birim Maliyetleri Hakkındaki Tebliğe göre sınıfı tespit edilip, satış bedelinden düşüldükten sonra, emsalin zemin m² bedeli bulunup sonrasında dava konusu taşınmazla karşılaştırma yapılması gerekir. Hükme esas alınan bilirkişi raporunda bu husus dikkate alınmadan değerlendirme yapıldığından, bu rapora göre hüküm kurulması mümkün değildir. 634 ...
 Kat Mülkiyeti Kanunu’nun 46 ncı maddesinin son fıkrası “ana gayrimenkulün arsası ile birlikte kamulaştırılması halinde her bağımsız bölümün kamulaştırma bedeli bağlantılı bulunduğu arsa payı ile eklentileri de göz önünde tutularak ayrı ayrı takdir olunacağı” hükmünü koymuştur. Böyle olunca ana yapının arsasına 1. bentte belirtilen esaslara göre, üzerindeki yapılara aynı maddenin "h" bendi gereğince değerlendirme tarihindeki resmi birim fiyatları ve yapı maliyet hesapları gösterilip yıpranma payı düşülmek suretiyle ve ayrıca "i" bendi hükmü uyarınca bedelin tespitinde etkili olacak diğer objektif ölçüler de dikkate alınarak kamulaştırma karşılığının yasal biçimde belirlenmesi gerekir. Buna göre yukarıda açıklanan ilkeler doğrultusunda arsa değeri ve tüm yapının (ortak yerleri içerir biçimde) değeri hesaplandıktan sonra arsa payına düşen miktarına göre bağımsız bölümün karşılığı tespit edilir.
@@ -31,10 +35,14 @@ Kat Mülkiyeti Kanunu’nun 46 ncı maddesinin son fıkrası “ana gayrimenkul�
 
 ## Yargıtay 4. HD 2023/4140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984839300)
+
 Dairenin 05.05.2015 tarihli ve 2015/3930 E. 2015/5572 K. sayılı ilamıyla; "...Davacı yüklenici şirket haksız ihtiyati tedbir nedeniyle munzam zarar isteyemez ise de, kat karşılığı inşaat sözleşmesindeki paylaşım gereği kendisine düşen bağımsız bölümlerin düşük bedelle satılması nedeniyle zararını isteyebilecektir. Bu nedenle davacı yüklenici şirkete ait bağımsız bölümlerin tamamının 3. kişilere satış tarihleri ve satış bedellerine ilişkin resmi senet örneklerinin Tapu Sicil Müdürlüğünden istenmeli, uzman bilirkişilere davacıya ait bağımsız bölümlerin projesi, yapı kalitesi ve konumları değerlendirilerek emsal nitelikteki bağımsız bölümlerin satış bedellerinden düşük olup olmadıkları tespit ettirilmeli, önceki satılan bağımsız bölümlerin satış bedellerinin ihtiyati tedbir kararının kaldırılmasından sonra satışı yapılan bağımsız bölümlerin satış bedellerinden daha düşük olması halinde bu miktar davacının zararı olarak kabul edilmelidir.
 Yapılacak inceleme sonucu davacının zararı tespit edilirse, davalının muris muvazaası nedeniyle ihtiyati tedbir istemiyle açtığı tapu iptali ve tescil davasının kabul edilmiş olması, kat karşılığı inşaat sözleşmesinde inşaat süresinin sözleşme tarihinden itibaren 52 ay, yükleniciye ait bağımsız bölümlere ilişkin tapu devrinin gerçekleştirilecek inşaat seviyesine göre kademeli devrinin kararlaştırılmış oluşu ve davacının sözleşme yaptığı muvazaalı işlemi yapan akidi arsa sahibinin de müterafik kusuru olduğu gözetilerek BK.m.43 (TBK.m.51) gereğince uygun bir miktarda hakkaniyet indirimi yapılması gerektiği" gerekçesiyle hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 14. HD 2019/8776 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612487300)
 
 Bu durumda mahkemece, dava konusu 309 ada 43 parsel sayılı taşınmazda kayıtlı bağımsız bölümlerin tapu kaydına ihtiyati tedbir şerhi işlenerek aleniyet kazandıktan sonra mevcut şerhe rağmen başkaca kısıtlamalar işlenmişse bunlara değer tanınmayacağından, tapunun aleniyet prensibi gereği ihtiyati tedbir şerhinden sonra konulan haciz şerhlerinin terkinine karar verilmesi, ihtiyati tedbir şerhinden önce konulan haciz şerhleri yönünden ise Türk Medeni Kanunu 3. ve 1023. maddeleri gereği haciz lehtarlarının iyi niyetli olduğu kabul edilerek davanın reddine karar verilmesi gerekir.
 
@@ -44,10 +52,14 @@ Bu durumda mahkemece, dava konusu 309 ada 43 parsel sayılı taşınmazda kayıt
 
 ## İstanbul BAM 43. HD 2026/514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205490500)
+
 Şirket yöneticilerinin kötü yönetimi nedeniyle zarara uğratılması iddiaları şirketin doğrudan zararı niteliğinde olduğundan şirket ortaklarının veya alacaklıların, ancak yöneticilerin ödeyeceği tazminatın şirkete verilmesi yönünde istemde bulunmaları mümkündür.Limited şirket müdürünün azli istemi bakımından, 6102 sayılı TTK'nın 630. maddesinde; genel kurulun, müdürü veya müdürleri görevden alabileceği, yönetim hakkını ve temsil yetkisini sınırlayabileceği, her ortağın, haklı sebeplerin varlığında, yöneticilerin yönetim hakkının ve temsil yetkilerinin kaldırılmasını veya sınırlandırılmasını mahkemeden isteyebileceği, yöneticinin, özen ve bağlılık yükümü ile diğer kanunlardan ve şirket sözleşmesinden doğan yükümlülüklerini ağır bir şekilde ihlal etmesi veya şirketin iyi yönetimi için gerekli yeteneği kaybetmesinin haklı sebep olarak kabul olunacağı hüküm altına alınmıştır. TTK 625. ve 626.maddelerine göre, müdürler görevlerini tüm özeni göstererek yerine getirmek ve şirketin menfaatlerini dürüstlük kuralı çerçevesinde gözetmekle yükümlüdürler.
 Müdürler, kanunların ve şirket sözleşmesinin genel kurula görev ve yetki vermediği bütün konularda görevli ve yetkilidirler.İlk derece mahkemesince 08.12.2014 tarihli ara karar ile davacı ve davalıların ortağı oldukları dava dışı ... adına tapuda adına kayıtlı taşınmazların 3. Kişilere devrinin önlenmesi bakımından ihtiyati tedbir konulması talebinin kabulüne ve dava dışı şirkete şirket temsilcilerinin işlemlerini denetlemek üzere denetim kayyımı atanmasına karar verilmiş olup, ... adına kayıtlı İstanbul İli Tuzla İlçesi ... Mahallesi 7719 Parsel sayalı taşınmaz üzerinde bulunan 1 nolu bağımsız bölümün dava tarihinden sonra ihtiyati tedbir kararından önce 02.12.2014 tarihinde satışının gerçekleşmiş olduğu anlaşılmıştır. Davacı tarafça anılan taşınmaza yönelik zarar iddiasında bulunulmuş ise de her dava açıldığı tarihteki koşullara göre değerlendirilecek olup, dava tarihinden sonra gerçekleşen vakıaların hükme esas alınması mümkün değildir. Bu durumda ayrı bir davanın konusunu oluşturan bu iddia yönünden mahkemece bu talebin incelemeye alınmamış olmasında isabetsizlik yoktur.
 
 ## İstanbul BAM 45. HD 2026/428 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199677600)
 
 Asliye Ticaret Mahkemesinin 2021/1120 E., sayılı dosyasının 19/01/2026 tarihli ara kararında açıkça 19372 sayılı Parselde yer alan ''... nolu bağımsız bölüm'' üzerine tedbir konulmasına karar verilmiş olup, Avcılar Tapu Müdürlüğü tarafından böyle bir bağımsız bölüm olmadığı gerekçesiyle takdiren 19372 sayılı parsel üzerinde yer alan tüm paylara şerh konulmuş olması hukuka aykırı ve hatalı olduğunu belirterek verilen ihtiyati tedbir kararının istinaf incelemesi neticesinde kaldırılmasını, 19372 parselde yer alan paylarının tümüne konulan tedbirinin kaldırılmaması halinde yalnızca davacı yanın arsa payının üzerine tedbir konulmasını ve bu hususların gereğinin yerine getirilmesi için Avcılar Tapu Müdürlüğüne müzekkere yazılmasını talep etmiştir.Dava; kooperatif üyeliğinden kaynaklanan tapu iptal tescil istemine ilişkin olup uyuşmazlık; davaya konu taşınmazın üçüncü kişilere devir ve temlikinin önlemesine yönelik verilen ihtiyati tedbir şartlarının oluşup oluşmadığı noktasındadır.6100 Sayılı HMK'nın "İstinaf yoluna başvurulabilen kararlar" başlıklı 341'inci maddesine göre, "İlk derece mahkemelerinden verilen nihai kararlar ile ihtiyati tedbir, ihtiyati haciz taleplerinin reddi ve bu
 taleplerin kabulü halinde, itiraz üzerine verilecek kararlara karşı istinaf yoluna başvurulabilir.” Söz konusu maddenin gerekçesinde de değinildiği üzere, ihtiyati tedbir ve ihtiyati hacze ilişkin geçici hukukî koruma taleplerinin kabulü hâlinde itiraz imkânı bulunduğundan, önce bu yola (itiraz) başvurulması gerekli olup, ancak itiraz üzerine verilecek kararlara karşı istinaf kanun yoluna başvurulması
@@ -56,10 +68,14 @@ mümkündür. Nitekim HMK'nın 389 ve devamı maddelerinde de ihtiyati tedbir ko
 
 ## Sakarya BAM 5. HD 2026/377 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197573000)
+
 Uygulamada da davalıya ait bütün bağımsız bölümlerin üzerine ihtiyati tedbir tesisi sonucunu doğuran ihtiyati tedbir kararı da taleple tedbirde orantılılık ve ölçülülük ilkesine aykırı karar verilemeyeceği ilkesine aykırı olup bu şekilde ihtiyati tedbir kararı verilmesi ve uygulanması usul ve yasaya aykırıdır. Bu sebeplerle, bu aşamada ihtiyati tedbir talebinin reddi gerekmiştir. Bununla birlikte, yargılama aşamasında davanın durum ve koşulları değerlendirilerek her zaman ihtiyati tedbir kararı verilebilir. Mahkemece, inşaatı sözleşme ve ekleri ile tasdikli proje, inşaat ruhsatın ve ruhsat işlem dosyasının dosyaya kazandırılarak mahallinde keşif ve uzman bilirkişi incelemesi yapılmak suretiyle diğer deliller ve tüm dosya kapsamı doğrultusunda arsa sahipleri ve yüklenici arasındaki sözleşmeye göre sözleşmedeki paylaşım gözetilerek davacıya isabet eden A8, A10, A11, A7, A2, A3, A4, B9, B10, B11, B6, B1, B2, B3 bağımsız bölümlerin arsa payları ortaya konulduktan sonra davacının ihtiyati tedbir talebinin değerlendirilmesi ve ihtiyati tedbir istemi hakkında karar verilmesi gerekirken yazılı şekilde karar tesisi isabetli bulunmamıştır.
 İlk Derece mahkemesince, tedbirde orantılılık ve ölçülülük ilkesine aykırı şekilde ihtiyati tedbir kararı verilmesi yerinde değildir.
 
 ## İstanbul BAM 45. HD 2026/137 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191221800)
 
 1163 sayılı Kooperatifler Kanunu'nun 99/2. maddesi uyarınca dava basit yargılama usulüne tabi olup,6100 sayılı HMK'nın 317/2.maddesinde; "Cevap süresi, dava dilekçesinin davalıya tebliğinden itibaren iki haftadır. Ancak mahkeme durum ve koşullara göre cevap dilekçesinin bu süre içinde hazırlanmasının çok zor yahut imkânsız olduğu durumlarda, yine bu süre zarfında mahkemeye başvuran davalıya, bir defaya mahsus ve iki haftayı geçmemek üzere ek bir süre verebilir. Ek cevap süresi talebi hakkında verilen karar taraflara derhâl bildirilir." hükmünü içermekte olup, mahkemece verilen ek cevap süresi içinde yapılan tüm itirazlar ve ileri sürülen def'iler esasa cevap süresi içinde yapılmış sayılır.HMK'nın 319.maddesinde; "İddianın genişletilmesi veya değiştirilmesi yasağı dava açılmasıyla; savunmanın genişletilmesi veya değiştirilmesi yasağı cevap dilekçesinin mahkemeye verilmesiyle başlar.", 320.maddesinde; "Mahkeme, mümkün olan hâllerde tarafları duruşmaya davet etmeden dosya üzerinden karar verir.
 Daha önce karar verilemeyen hâllerde mahkeme, ilk duruşmada dava şartları ve ilk itirazlarla hak düşürücü süre ve zamanaşımı hakkında tarafları dinler; daha sonra tarafların iddia ve savunmaları çerçevesinde, anlaştıkları ve anlaşamadıkları hususları tek tek tespit eder..." düzenlemesine yer verilmiştir. Yapılan açıklamalar çerçevesinde, davalı tarafça yasal süre içerisinde zamanaşımı itirazı ileri sürülmediği tespit edilmekle bu yönde bir değerlendirme yapılmamıştır.Somut olayda; davacılar, murisi ...'nın dava dışı kooperatifin üyesi olduğunu, üyeliğinden kaynaklı 6 nolu bağımsız bölüm ile ortak alandaki bodrum katta bulunan
@@ -68,23 +84,33 @@ dükkanın 1/24 payın murise ait olduğunu, davalıya yapılan hisse devrin sad
 
 ## Kayseri BAM 6. HD 2025/1461 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1164853000)
+
 Somut uyuşmazlık, yapılan genel açıklamalar ve bahse konu yasa maddeleri ile bir bütün halinde değerlendirildiğinde, eldeki davadaki talepler arasında Kayseri,... İlçesi, ... Mahallesi, ...Mevkii, ... ada, ... parselde kayıtlı ana taşınmazda mevcut tapuda davalı şirket müdürü ...adına kayıtlı ... Blok ... bağımsız bölüm nolu taşınmaz ile davalı şirket yetkili vekili davalı... adına kayıtlı ... Blok ... bağımsız bölüm nolu taşınmazların tapu kaydının iptali ile şirket adına tescilinin talep edildiği ayrıca davacılar vekilinin davaya konu taşınmazlar üzerine üçüncü kişilere devrini önler nitelikte ihtiyati tedbir konulmasını talep ettiği, taşınmazların bizatihi uyuşmazlık konusu olduğu, uyuşmazlık konusu olan mal ve haklar üzerine ihtiyati tedbir konulmasının HMK 389. vd. maddesine göre mümkün olduğu, dosya arasına sunulan belgelerden ihtiyati tedbir için yasaca aranan yaklaşık ispat koşulunun bulunduğu anlaşılmakla; davalılar vekilinin ihtiyati tedbirin şartları oluşmadığına ilişkin itirazları haklı bulunmamıştır.
 
 ## İstanbul BAM 3. HD 2025/1212 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139201600)
 
 Asliye Ticaret Mahkemesi’nin 2023/367 E sayılı dosyasında verilen ihtiyati tedbir kararına itirazın kabulüne ve tedbirin kaldırılmasını, idari yargı görevli olduğundan öncelikle açılan davanın dava şartı yokluğu nedeniyle ve resen nazara alınacak sebeplerle reddine bilahare yapılacak inceleme neticesinde esastan reddini ve davacı vekilinin dava konusu tüm taleplerinin reddine verilen tedbir kararının kaldırılmasına karar verilmesini talep etmiştir. Mahkeme,"Her ne kadar bilirkişi raporunda yapıda 2. normal katta açık terasın kapatılarak 4. bağımsız bölüm ile birleştirilmesi suretiyle mimari projeye aykırılık olduğu belirtilmiş ise de; davacının abonelik tesisi talep ettiği 1,2,3 nolu bağımsız bölümler yönünden bir aykırılık mevcut olmadığından işbu bilirkişi raporu dosya içeriğine toplanan delillere uygun ve karar vermeye elverişli bulunduğundan, mahkemece verilen kararda dikkate alınmış, davacının talep ettiği Beyoğlu, ... Mahallesi ... Caddesi No:... adresinde yer alan ... Ada ... Parselinde kayıtlı ... katında yer alan 1 nolu bağımsız bölüm, giriş katında bulunan 2 nolu bağımsız bölüm ve 1.
 Normal katında bulunan 3 nolu bağımsız bölüm yönünden davalı tarafından ayrı ayrı su aboneliğinin tesisine karar verilmiş, ancak 4 nolu bağımsız bölüm yönünden talep bulunmadığından bu hususta herhangi bir karar verilmemiş ve iş bu kararın kesinleşmesi ile daha önce İstanbul 19. Asliye Ticaret Mahkemesinin 2023/183 D.iş sayılı kararının kendiliğinden son ereceği " gerekçesi ile; "1-)Davanın KABULÜ ile; Beyoğlu, ... Mahallesi ... Caddesi No:... adresinde yer alan ... Ada ... Parselinde kayıtlı ... katında yer alan 1 nolu bağımsız bölüm, giriş katında bulunan 2 nolu bağımsız bölüm ve 1. Normal katında bulunan 3 nolu bağımsız bölüm yönünden davalı tarafından ayrı ayrı su aboneliğinin tesisine"karar vermiştir.
 
 ## İstanbul BAM 15. HD 2025/582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151954800)
+
 Davacı yan yüklenici, davalı ise arsa malikidir.Taraflar arasında 09/05/2016 tarihli kat karşılığı inşaat sözleşmesi akdedilmiştir. İhtiyati tedbirin şartları 6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 389/1. maddesinde genel olarak düzenlenmiştir. Bu yasa hükmüne göre, mevcut durumda meydana gelebilecek değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. İhtiyati tedbirde asıl olan, ihtiyati tedbire esas bir hakkın varlığı ve bir ihtiyati tedbir sebebinin bulunmasıdır. Geçici hukuki koruma kararlarından olan ihtiyati tedbir kararı verirken hakim, asıl uyuşmazlığı çözecek içerikte bir karar vermemelidir. Bununla birlikte, ihtiyati tedbire karar verilirken tarafların çıkar dengesini ve ihtiyati tedbirin amacını hakimin gözetmesi gerekli ve zorunludur. HMK'nın 389. Maddesinde ihtiyati tedbirin ancak "dava konusu" üzerine konulabileceği belirtilmiştir. Taraflar arasında arsa payı karşılığı inşaat sözleşmesi bulunmaktadır.
 Bu tür sözleşmelerde yükleniciye devredilen bağımsız bölümler avans niteliğinde olduğundan, yüklenici ancak sözleşmeyle üstlendiği edimlerini yerine getirdiği oranda bu bağımsız bölümler üzerinde hak sahibi olmaktadır. Yüklenicinin eksik ve ayıplı imalatları, gecikme tazminatı borcu ve diğer borç ve yükümlülükleri yönünden arsa sahibi tarafından avans olarak verilen bağımsız bölümlerin bu borç ve yükümlülüklere isabet eden kısımlarının yüklenici tarafından hak kazanıldığından bahsedilemez.
 
 ## Adana BAM 6. HD 2025/468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129359300)
+
 Somut olayda; ihtiyati tedbir kararından sonra davanın süresinde açıldığının kabulünün gerektiği, taraflar arasındaki satım konusu bağımsız bölümün depremden zarar gördüğü, yapı müteahhidinin ... (... İnşaat...Ltd.Şti) olduğu, taraflar arasında mevcut sözleşmede dava konusu bonolara atıfta bulunulduğu gözetilerek, sadece sözleşme ve bono tarafı olan davalı ... yönünden açılacak icra takibinin önlenmesi amacıyla ihtiyati tedbir kararı verilmesi yönündeki ara kararda isabetsizlik yoktur.
 
 ## İstanbul BAM 44. HD 2025/230 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117978300)
 
 İle davacı arasında akdedilen Finansal Kiralama Sözleşmesi uyarınca asansör ve sair bir kısım ekipmanların sökülerek alınacağının bildirildiğini öğrendiğini, Davalının müvekkilin maliki bulunduğu bağımsız bölümünün yer aldığı projede kullanılan ihtiyati tedbir kararına konu malların işletme finansmanının bir unsuru olarak değerlendirilmesinin mümkün olmadığı ve davalıya hali hazırda hakedişlerle bedeli ödenen ve projenin ayrılmaz bir parçası haline gelen bu malların finansal kiralama sözleşmesinin konusunu teşkil edemeyeceğini , bahse konu mallar işletme yahut yatırım finansmanına hizmet eden makine ve ekipmanlar olmayıp, sözleşme konusu imalatlara dahil eden malzemeler olduğunu, Bir binanın inşası sırasında kullanılmak suretiyle o binanın bütünleyici parçası haline gelecek nitelikte malların asli niteliği bozulmadan iadesinin mümkün olmadığı hallerde anılan malların finansal kiralama sözleşmesinin konusunu oluşturamayacağını, bahse konu sözleşmenin finansal kiralama sözleşmesi olarak nitelendirilmesinin ve bu kapsamda davacı kiralayanın 6361 sayılı Kanunun m.31/f.3 hükmünden yararlanması mümkün olmadığını, ihtiyati tedbir kararına konu malların "asli niteliği" haiz olmayan
 bütünleyici parçalar
@@ -93,11 +119,15 @@ olmaları sebebiyle, el konulmalarının mümkün olmadığını, Davacı finans
 
 ## İstanbul BAM 15. HD 2025/76 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1116079400)
+
 Kişilerdeki hak ve alacakları ile menkul ve gayrimenkulleri hakkında öncelikle teminatsız ihtiyati haciz / ihtiyati tedbir kararı verilmesine, ..., ..., ..., ...'e müzekkere yazılarak davalıların hakları üzerine ihtiyati tedbir ve ihtiyati haciz konulmasına karar verilmesini talep etmiştir. Yerel mahkeme 02.07.2024 tarihli ara kararında, davalı ... İnşaat. Limited Şirketi ile davalı ... İnşaat Limited Şirketi arasında organik bağ bulunduğu, davalı ... İnş. Ltd. Şti.'nin diğer davalı ... İnşaat Limited Şirketi ile birlikte talep edilen tüm alacak ve tazminatlardan sorumlu olduğu iddiası ile; davacı ile davalı ... İnşaat Limited Şirketi arasındaki 03.09.2019 tarihli "Alt Yüklenici Sözleşmesi" kapsamında İstanbul ili, Arnavutköy Bölgesi, ...
 Pafta, ... ada, ... parselde yapılan sözleşme sebebiyle davacının hak sahibi olduğunu iddia ettiği taşınmazların tapu kayıtlarının iptali ile davacı adına tescili, bu talep kabul görmediği takdirde taşınmazların güncel anahtar teslim bedellerinin tahsili talebi, davacı adına tescile karar verilmesi halinde tapu devri geciktiğinden dolayı meydana gelen menfi ve müspet zararların tazmini; sözleşme sebebiyle ve sözleşme dışı yapılan işlerden kaynaklanan alacağın ve davacıya ait davalının uhdesinde kalan malzeme ve ekipmanların bedelinin davalıdan tahsilini talep ettiği, İİK’nun 258/2 maddesi gereğince tarafları dinleme gereği duyulmaksızın evrak üzerinde karar verilmesi cihetine gidildiği, Arnavutköy Tapu Müdürlüğüne yazılan müzekkereye cevap verildiği, davaya konu taşınmazda davalı ...
 Limited Şirketi adına taşınmaz kaydına rastlanmadığı, ... ada ... parsel sayılı taşınmazda bulunan muhtelif bağımsız bölümler üzerinde şirket lehine kat karşılığı inşaat sözleşmesi şerhi tesis edildiğinin bildirildiği, Somut olayda ihtiyati haciz şartlarının gerçekleşmediği kanaatine varıldığı, davanın niteliği gereği taleplerin yargılamayı gerektirdiği gerekçesiyle, ihtiyati haciz talebinin reddine karar verildiği, Celp edilen tapu kayıtlarının tetkikinden İstanbul ... Mah. ... Ada/Parsel, ... Cilt/Sayfa no, 8.995,01 m2 yüzölçüm, .../ -(Bağımsız Bölüm No:...) olan taşınmazın malikinin davalı ...
 
 ## İstanbul BAM 15. HD 2025/46 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113701200)
 
 Taraflar arasında 09/05/2016 tarihli kat karşılığı inşaat sözleşmesi akdedilmiştir. İhtiyati tedbirin şartları 6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 389/1. maddesinde genel olarak düzenlenmiştir. Bu yasa hükmüne göre, mevcut durumda meydana gelebilecek değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı
 
@@ -105,10 +135,14 @@ verilebilir. İhtiyati tedbirde asıl olan, ihtiyati tedbire esas bir hakkın va
 
 ## İstanbul BAM 7. HD 2024/2909 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104614200)
+
 Diğer taraftan, ihtiyati tedbir talebinin kabul edilebilmesi bakımından HMK'nun 390/3. maddesinde ihtiyati tedbir isteyenin haklılığı konusunda tam kanaat değil, kuvvetle muhtemel yaklaşık bir kanaatin yeterli olacağı öngörülmüş olup, Yasanın hükümet gerekçesinde de belirtildiği üzere yaklaşık ispat durumunda "...hakim o iddianın ağırlıklı ihtimal olarak doğru olduğunu kabul etmekle birlikte zayıf bir ihtimalde olsa aksinin mümkün olduğu ihtimalini göz ardı edemez... bu sebepledir ki haksız olma ihtimali de dikkate alınarak talepte bulunandan teminat alınması..." hükme bağlanmıştır.HMK 392. madde uyarınca ihtiyati tedbir isteyen haksız çıktığı takdirde karşı tarafın ve üçüncü kişilerin uğrayacakları olası zararları karşılayacak bir teminat göstermek zorundadır. Ancak talebin resmi belgeye veya başkaca bir kesin delile dayanması veya durum ve koşulların gerektirdiği hallerde hakim teminat alınmamasına da karar verebilir. İhtiyati tedbir kararının kapsamı belirlenirken iki tarafın hak ve yarar dengesinin gözetilmesi gerekir. Elbette cebri icra ile ilgili olarak temel yasa niteliğindeki İİK menfi tesbit davalarında icranın durdurulmasını özel koşullara bağlamıştır.
 Genel nitelikte yasaklama ile alacaklıların takip haklarının engellenmesinin hak ve yarar dengesini bozacağı ortadadır.Eldeki davada, İstanbul İli, Kadıköy İlçesi, ... Mah., ... ada, ... parsel, ...Kat, ... nolu bağımsız bölüm sayılı taşınmazın davacıya satışına ilişkin davacı ile davalı ... A.Ş arasında, Kartal ... Noterliğinin 30.01.2018 tarih ve ... yevmiye nolu Düzenleme Şeklinde Taşınmaz Satış Vaadi Sözleşmesi akdedildiği, dava konusu bağımsız bölümün 15/12/2017 tarihli kat irtifakı edinme sebebine göre 4/5 payının ...A.Ş adına kayıtlı olduğu, her iki hisse üzerinde davalı ...’ın alacaklı olduğu, 09/11/2023 tesis tarihli ve davalı ... Bankasının alacaklı olduğu 10/11/2023 tesis tarihli iki adet haciz şerhi ile davalı ... Bankası lehine konulan 17/11/2014 tesis tarihli ipotek şerhinin bulunduğu sabittir.
 
 ## İstanbul BAM 17. HD 2024/1233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083365900)
 
 : Talep, ihtiyati tedbir yolu ile hacizli taşınmazın cebri icra yolu ile satışını da kapsayacak şekilde taşınmazların üçüncü şahıslara devir, satış ve temlikinin önlenmesi ile icra-i işlemlere konu edilmemesi için tedbir talebine ilişkindir. İhtiyati tedbir, 6100 sayılı Hukuk Muhakemeleri Kanununun onuncu kısım birinci bölümünde geçici hukuki korumalar üst
 
@@ -117,12 +151,18 @@ Dava; davacıların bağımsız bölüm arsa paylarının tapudaki kaydının ip
 
 ## İzmir BAM 14. HD 2024/1092 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058417300)
+
 Bu durumda mahkemece yapılması gereken iş: Öncelikle davacı tarafa tapu iptal ve tescilini istediği bağımsız bölümlerin (İli, İlçesi, Mahallesi, ada ve parsel numaraları, bağımsız bölüm numaraları olmak üzere) açık tapu bilgilerini açıklattırarak, bu bağımsız bölümlerin tapu kayıtlarının getirtilmesi, üzerinde 02/02/2024 tarihli ara kararı gereğince ihtiyati tedbir olan taşınmazların belirlenmesi, bunlardan dava konusu olan ve olmayanlar tespit edildikten sonra davalı tarafın "ihtiyati tedbirin kaldırılması" isteğinin yeniden değerlendirilmesi olmalıdır.
 
 ## Antalya BAM 7. HD 2024/332 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012505900)
+
 3.3. Mahkemece en fazla dava konusu yapılan 10 adet bağımsız bölümün yükleniciye düşecek bağımsız bölümlerden olduğunu tespit edilmesi halinde bu bağımsız bölümlere isabet edecek arsa payı oranında, kat irtifakı kurulmasını engellemeyecek şekilde ihtiyati tedbir kararı verilebilir. Mahkemenin bunu aşar şekilde ve tüm taşınmaz üzerine ihtiyati tedbir konumasına karar verilip bu konudaki itirazı reddetmesi usul ve yasaya uygun düşmemektedir. Dolayısıyla mahkemenin kat karşılığı inşaat sözleşmesi gereği dava konusu yapılan 10 adet bağımsız bölümün yükleniciye düşüp düşmeyeceğini incelemesi, yükleniciye düşecek bağımsız bölümlerden olması halinde projeye göre bu bağımsız bölümlere isabet edecek yaklaşık arsa payının ne miktar olacağı belirlenip, ancak bu pay oranı ile sınırlı ihtiyati tedbir kararı verilip itirazın bu şekilde sonuçlandırması gerekirken bu hususlar değerlendirilmeden yazılı gerekçe ile itirazın reddi usul ve yasaya uygun düşmemektedir.
 
 ## Antalya BAM 7. HD 2024/331 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012505600)
 
 3.3. Mahkemece en fazla dava konusu yapılan 10 adet bağımsız bölümün yükleniciye düşecek bağımsız bölümlerden olduğunu tespit edilmesi halinde bu bağımsız bölümlere isabet edecek arsa payı oranında, kat irtifakı kurulmasını engellemeyecek şekilde ihtiyati tedbir kararı verilebilir. Mahkemenin bunu aşar şekilde ve tüm taşınmaz üzerine ihtiyati tedbir konulmasına karar verilip bu konudaki itirazı reddetmesi usul ve yasaya uygun düşmemektedir. Dolayısıyla mahkemenin kat karşılığı inşaat sözleşmesi gereği dava konusu yapılan 10 adet bağımsız bölümün yükleniciye düşüp düşmeyeceğini incelemesi, yükleniciye düşecek bağımsız bölümlerden olması halinde projeye göre bu bağımsız bölümlere isabet edecek yaklaşık arsa payının ne miktar olacağı belirlenip, ancak bu pay oranı ile sınırlı ihtiyati tedbir kararı verilip itirazın bu şekilde sonuçlandırması gerekirken, bu hususlar değerlendirilmeden yazılı gerekçe ile itirazın reddine karar verilmesi usul ve yasaya uygun düşmemektedir.

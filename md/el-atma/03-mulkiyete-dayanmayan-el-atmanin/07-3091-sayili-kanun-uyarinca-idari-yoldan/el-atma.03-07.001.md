@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 8. D. 2021/6224 E., 2025/6421 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186335100)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; uyuşmazlıkta 30/11/2004 tarihli intibak projesi ... tarih ve ... sayılı Olur ile uygun bulunarak S...
 
 …
@@ -34,6 +36,8 @@ Taşınmaz Mal Zilyetliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanun'u
 
 ## Danıştay 10. D. 2025/4051 E., 2025/4706 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190796600)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararıyla; dava konusu işlemin iptaline karar verilmiştir.
 
 …
@@ -46,6 +50,8 @@ Dava konusu işlemin iptaline ilişkin ... İdare Mahkemesi kararına yönelik o
 
 ## Danıştay 10. D. 2021/7722 E., 2025/2208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189950600)
+
 Her ne kadar 3091 sayılı Kanun'da yer alan "görevlendirilecek memur" ifadesinden, Anayasanın 128. maddesi ile 657 sayılı Devlet Memurları Kanunu kapsamında "memurlar ve diğer kamu görevlileri"nin kastedildiği düşünülebilir ise de; kelime anlamı itibarıyla "memur" kelimesinin bir işte fiilen görevlendirilen kimse anlamına geldiği, nitekim Taşınmaz Mal Zilyedliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanunun Uygulama Şekli ve Esaslarına Dair Yönetmeliğin 22. ve 23. maddelerinde soruşturma memuruna yardım edecek teknik yardımcının "memur" olarak değil, "eleman" olarak nitelendirildiği, bu bakımdan 3091 sayılı Kanun uyarınca "görevlendirilecek memur" ibaresinden, 3091 sayılı Kanun uyarınca fiilen görevlendirilen kimsenin anlaşılması gerektiği, kaldı ki 5368 sayılı Kanun'un amacı ve aktarılan hükümleri uyarınca lisanslı mühendislerin de geniş anlamda "kamu hizmeti görevlisi" olduğu, yine 5368 sayılı Kanun'un 1. maddesinin 2. fıkrasında, serbest harita ve kadastro mühendislik ve müşavirlik faaliyetini yürütmeye devam etseler dahi kamu kurum ve kuruluşlarının diğer kanunlar ve ilgili mevzuata göre lisanslı mühendisler ve lisanslı bürolar üzerindeki hak, görev ve yetkilerinin devam
 edeceğinin açıkça belirtildiği anlaşıldığından; lisanslı mühendislerin 3091 sayılı Kanun kapsamında soruşturma memuruna teknik yönden yardımcı olmak üzere görevlendirilebilecek memurlar (elemanlar) arasında yer aldığı sonucuna varılmaktadır.
 
@@ -55,11 +61,15 @@ Bu itibarla, dava konusu 25/09/2021 tarih ve 31609 sayılı Resmi Gazete'de yay�
 
 ## Danıştay 10. D. 2022/3918 E., 2025/2204 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169754700)
+
 Yönetmeliğin 22. maddesinin 1. fıkrasının; 3091 sayılı Kanun'un, Tapu ve Kadastro Genel Müdürlüğünün faaliyet alanı olan kadastro teknik hizmetleri kapsamındaki yer gösterme ya da aplikasyon krokisinin düzenlenmesini gerektirecek ya da bu görevi Tapu ve Kadastro Genel Müdürlüğüne tevdi eden herhangi bir düzenleme içermediği, bu nedenle Yönetmelik düzenlemesinin uygulanabilirliğinin bulunmadığı yönündeki hukuka aykırılık iddiası bakımından;
 3091 sayılı Yasa'nın "Soruşturma" başlıklı 5. maddesinde soruşturmayı yapan kişilere gerektiğinde teknik eleman ve yardımcı verileceği yolundaki hüküm yanında bu Yasa'nın uygulanması amacıyla yürürlüğe konulan "Taşınmaz Mal Zilyetliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanununun Uygulama Şekli ve Esaslarına Dair Yönetmelik"in 22 ve 29. maddelerinde yer verilen; soruşturma yapmak üzere görevlendirilen kişilere taşınmazın ölçülmesi, sınırlarının belirlenmesi, krokisinin çizilmesi ve tapu uygulaması gibi hususlarda yardımcı olmak üzere eleman verilebileceği; soruşturma sırasında soruşturma memuru veya görevlendirilmiş ise teknik eleman tarafından taşınmaz malın mevkii, yönleri, sınırları ve tecavüz veya müdahale edilen kısmın çizilerek basit kroki üzerinde gösterileceği yönündeki düzenlemelerden kaynaklı olarak her ne kadar basit kroki ibaresi kullanılmış ise de çoğu zaman öncelikle taşınmazın paftasından zemine aplikasyonunun gerekmesi nedeniyle ihtiyaç duyulan teknik elemanların çoğu kez kadastro müdürlüklerinden talep edildiği açık olup, bu taleplerin yeterli ve etkili bir şekilde karşılanması amacıyla tesis edilen dava konusu Yönetmelik hükmünde hukuka ve mevzuata aykırılık
 bulunmadığı sonucuna varılmıştır.
 
 ## Danıştay 13. D. 2022/1693 E., 2022/4977 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940628400)
 
 İlk Derece Mahkemesi kararının özeti: Kahramanmaraş İdare Mahkemesi'nce verilen kararda; davacının söz konusu taşınmaza tecavüzde bulunduğu ileri sürülerek 3091 sayılı Kanun kapsamında yapılan şikâyet başvurusu üzerine Pazarcık Kaymakamlığı'nın …
 
@@ -105,6 +115,8 @@ sayılı temyize konu kararında, 2577 sayılı İdari Yargılama Usulü Kanunu'
 
 ## Danıştay 10. D. 2021/6874 E., 2021/6574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729912900)
+
 İlk Derece Mahkemesi kararının özeti: …İdare Mahkemesince; 2886 sayılı Kanun'un 75. maddesi uyarınca tahliye işleminin taşınmazın bulunduğu yer mülki idare amiri olan Tarsus Kaymakamlığı'nca tesis edilmesi gerekirken Tarsus İlçe Milli Emlak Müdürlüğü'nce tesis edilen dava konusu tahliye işleminde yetki unsuru yönünden hukuka uyarlık bulunmadığı gerekçesiyle dava konusu işlemin iptaline karar verilmiştir.
 
 …
@@ -117,6 +129,8 @@ Taşınmaz Mal Zilyetliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanunun
 
 ## Danıştay 8. D. 2017/659 E., 2021/5063 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/721874600)
+
 Aynı Kanun'un 19. maddesinin 3. fıkrasında, "Muhtarlar ve belediye başkanları, mera, yaylak ve kışlaklara tecavüz olduğu takdirde durumu derhal Bakanlık il veya ilçe müdürlüğüne, il ve ilçe müdürlükleri de valilik veya kaymakamlığa bildirmekle yükümlüdürler. Bu makamlarca 3091 sayılı Taşınmaz Mal Zilyedliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanun veya 2886 sayılı Devlet İhale Kanununun 75 inci maddesi uyarınca gerekli işlemler yapılır." düzenlemesi; 27. maddesinin 2. fıkrasında ise, "Yasaklanmış yerlerde hayvanlarını otlatmaya devam edenlerle mera, yaylak ve kışlak arazisini sürmek sureti ile tahrip edenler ve izinsiz inşaat yapanlar hakkında, valilik tarafından 3091 sayılı Taşınmaz Mal Zilyedliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanun ile Türk Ceza Kanununun 513 üncü ve devamı maddelerine göre gerekli kanuni işlem yapılır." düzenlemesi bulunmaktadır.
 
 …
@@ -125,6 +139,8 @@ Açıklanan nedenlerle; … İdare Mahkemesinin kararının temyize konu iptale 
 
 ## Danıştay 8. D. 2017/565 E., 2021/1604 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668582100)
+
 Mera Kanunu'nun 19. maddesinde, meraların korunması amacıyla bir düzenlemeye yer verilerek, meralara tecavüz olduğu takdirde 3091 sayılı Kanun ve 2886 sayılı Kanun uyarınca gerekli işlemlerin yapılacağı belirtilmiş ise de, tahsis amacı değişikliğinden kaynaklı faaliyetler nedeniyle amaç değişikliği yapılmayan alanlarda oluşabilecek tecavüz ve zararlara karşı alınacak tedbir ve uygulanacak yaptırımlara dair ayrıca bir düzenlemeye yer verilmemiştir. Başka bir ifadeyle, Kanunda meraların genel olarak ne şekilde korunacağı düzenlenmiş, tahsis amacı değişikliğinden kaynaklanan durumlarda meraların korunmasına ilişkin özel ve farklı bir husus düzenlenmemiştir.
 
 …
@@ -132,6 +148,8 @@ Mera Kanunu'nun 19. maddesinde, meraların korunması amacıyla bir düzenlemeye
 Açıklanan nedenlerle; … İdare Mahkemesinin temyize konu kararının bozulmasına …
 
 ## Danıştay 10. D. 2020/6106 E., 2020/5594 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660720600)
 
 …
 
@@ -151,11 +169,15 @@ sayılı kararının iptali istemiyle açılan dava, 2577 sayılı Kanun'un 46. 
 
 ## Danıştay 10. D. 2001/2460 E., 2001/3068 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/18259400)
+
 2577 sayılı İdari Yargılama Usulü Kanununun 8.6.2000 tarih ve 4577 sayılı Yasanın 7. maddesiyle değiştirilen 45/1-c maddesinde, İdare mahkemelerinin 3091 sayılı Taşınmaz Mal Zilyetliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanunun uygulanmasından kaynaklanan uyuşmazlıklarla ilgili olarak verdikleri nihai kararlara, başka kanunlarda aksine hüküm bulunsa dahi, mahkemelerin bulunduğu yargı çevresindeki bölge idare mahkemelerine itiraz edilebileceği, geçici 4. maddesinde ise, bu Kanunun 45. maddesinin (1) numaralı fıkrasında yazılı uyuşmazlıklarla ilgili olarak verilen nihai kararlardan, değişikliğin yürürlüğe girdiği tarihten önce verilen kararlar ile Danıştayın bozma kararı üzerine kararı bozulan mahkemece verilen kararların Danıştayda temyiz edilebileceği hükümlerine yer verilmiştir.
 
 Aktarılan düzenlemelerin incelenmesinden; yasa koyucunun; 3091 sayılı Taşınmaz Mal Zilyetliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanun'un uygulanmasından kaynaklanan uyuşmazlıklara ilişkin olarak, 8.6.2000 tarihinden sonra verilen idare mahkemesi kararlarının, Danıştayın bozma kararları üzerine verilenler hariç, itirazen bölge idare mahkemelerinde incelenmesini amaçladığı anlaşılmaktadır.
 
 ## Danıştay 10. D. 1998/3551 E., 2000/6431 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17901900)
 
 Düşüncesi : 3091 sayılı Yasanın Uygulanmasına İlişkin Yönetmeliğin 34.maddesinde "mahkemeye yapılan taşınmaz malla ilgili başvuru Medeni Kanuna göre müdahalenin men'i veya tecavüzün ref'i talebi dışında ise bu durum idarenin soruşturma yapmasına ve karar vermesine engel değildir." Hükmü yer almakta olup, dava konusu olaya ilişkin olarak sulh ceza mahkemesinde açılan davanın mütecavizlerin cezalandırılmasına yönelik olup, müdahalenin men'ine veya tecavüzün ref'ine ilişkin olmaması nedeniyle 3091 sayılı Yasaya göre soruşturma yapılmasına engel teşkil etmeyeceği açık olduğundan dava konusu işlemin iptaline karar verilmesi gerekirken davanın reddine karar veren idare mahkemesi kararında hukuki isabet bulunmadığından temyize konu kararın bozulması gerektiği düşünülmüştür.
 
@@ -164,6 +186,8 @@ Düşüncesi : 3091 sayılı Yasanın Uygulanmasına İlişkin Yönetmeliğin 34
 Açıklanan nedenlerle; 2577 sayılı Yasanın 49.maddesine uygun bulunan davacı temyiz talebinin kabulü ile … İdare Mahkemesinin … tarih ve E:…, K:… sayılı kararının bozulmasına …
 
 ## Danıştay 10. D. 1997/5359 E., 2000/1459 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17754800)
 
 Düşüncesi : 6570 sayılı Yasanın 12.maddesinin son fıkrasında,bu Yasa kapsamındaki taşınmazların işgali halinde fuzuli şagiller hakkında 3091 sayılı Yasa (eski 5917) hükümlerinin uygulanmasının da istenebileceği öngörülmüştür.Dolayısıyla 6570 sayılı Yasa kapsamındaki taşınmaz mallarla ilgili 3091 sayılı Yasa uygulamasında fiili zilyetliğin değil,fuzuli işgalin olup olmadığının saptanması gerekmektedir.
 
@@ -174,6 +198,8 @@ Düşüncesi : 6570 sayılı Yasanın 12.maddesinin son fıkrasında,bu Yasa kap
 Açıklanan nedenlerle, 2577 sayılı Yasanın 49.maddesine uygun bulunan temyiz isteminin kabulüne, ...İdare Mahkemesinin … tarih ve E:…, K:… sayılı kararının iptale ilişkin bölümünün bozulmasına …
 
 ## Danıştay 10. D. 1997/2393 E., 2000/935 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17754900)
 
 Davacılar, anılan mahkeme kararının yerinde olmadığı iddiasıyla temyizen incelenerek bozulmasını istemektedir.
 
@@ -188,6 +214,8 @@ Açıklanan nedenlerle, 2577 sayılı Yasanın 49.maddesi uyarınca davacıları
 
 ## Danıştay 10. D. 1996/8952 E., 1998/6885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17448300)
+
 Mahkeme kararında da belirtildiği gibi, 3091 sayılı Yasayla taşınmaz mallara yapılan tecavüz veya müdahalelerin, idari makamlar tarafından önlenmesi suretiyle tasarrufa ilişkin güvenliğin ve kamu düzeninin sağlanması amaçlanmıştır. İdari makamlar tarafından taşınmaz mal üzerindeki hakimiyet ve tasarruf esas alınarak zilyedliğin korunmasına yönelik kararlar önlem niteliğinde olduğundan, bu makamlar tarafından verilecek kararlar da bu yasada gösterilen esaslar ve idareye tanınan yetkilerle sınırlıdır.
 
 Davada müdahalede bulunulduğu öne sürülen taşınmaz 6570 sayılı Yasa kapsamında bir "damlı yapı" olduğundan konunun taşınmazın niteliğinin ve davacı ile şikayetçi arasındaki hukuki ilişkinin dikkate alınarak incelenmesi gerekmektedir. "Damlı Yapılarla" ilgili 3091 sayılı Yasa uygulaması, 6570 sayılı Yasa'nın 12.maddesindeki yollama hükmü nedeniyle farklı özellik taşımaktadır. Belediye örgütü olan yerlerle, iskele, liman ve istasyonlardaki gayrimenkullerin(musakkaf olmayanlar hariç) kiralanmaları konusunu düzenleyen 6570 sayılı Yasa'nın 12.maddesinde, bu yasa kapsamındaki taşınmaz mallara yönelik fuzuli işgallerin idari yolla önlenmesi öngürülmüştür. Dolayısıyla anılan Yasa kapsamındaki taşınmaz mallarla ilgili 3091 sayılı Yasa uygulamasında fiili zilyedliğin değil, fuzuli işgal hali olup olmadığının saptanması gerekmektedir. Fuzuli işgalin varlığından sözedilebilmesi için de "damlı yapının" hiçbir hukuki nedene dayanmadan, sahibinin izni dışında eylemli durum yaratılarak işgali gerekmektedir.
@@ -199,6 +227,8 @@ Açıklanan nedenlerle, 2577 sayılı Yasa'nın 49.maddesi uyarınca davacının
 
 ## Danıştay 10. D. 1996/9139 E., 1998/6406 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17447600)
+
 Anılan Yasa'nın 4. maddesinin ikinci fıkrasında, devletin hüküm ve tasarrufu altında bulunan yerlerle menfaati umuma ait taşınmaz mallara yönelik tecavüz ve müdahellerde, başvuruda süre kaydı aranmadan bu müdahelenin önlenmesinin istenebileceğinin öngörülmüş olmasıyla, kamunun ortak yararlanmasına sunulan taşınmaz mallara yönelik tecavüz ve müdahelelerin fiili zilyetlik esasına dahi bakılmaksızın önleneceği sonucu çıkmaktadır.
 
 Taşınmaz Mal Zilyetliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanun'un Uygulama Şekli ve Esaslarına Dair Yönetmeliğin 12. maddesinde, 3091 sayılı Kanun uygulamasında taşınmaz mala yapılmış tecavüz ve müdahale sayılacak haller düzenlenmiş olup; (e) fıkrasında da; sulama veya içme sularından, su kuyularından, sarnıçlarından, su yollarından, su borularından ve arklarından yararlanmayı engellemek fiiline yer verilmiştir.
@@ -208,6 +238,8 @@ Taşınmaz Mal Zilyetliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanun'u
 Açıklanan nedenlerle, 2577 sayılı Yasa'nın 49. maddesine uygun bulunan temyiz isteminin kabulüne, … İdare Mahkemesi'nin … tarih ve E:…, K:… sayılı kararının bozulmasına …
 
 ## Danıştay 10. D. 1997/11 E., 1997/2317 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17557400)
 
 Devlete ait ve Devletin hüküm ve tasarrufundaki taşınmazların da aralarında bulunduğu taşınmazlara yönelik tecavüz ve müdahaleler önlenerek tasarrufa ilişkin güvenliği ve kamu düzenini sağlamayı amaçlayan 3091 sayılı Taşınmaz Mal Zilyetliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanun uyarınca, mülki idare amirleri tarafından verilen tecavüz veya müdahalenin önlenmesi ya da tecavüz veya müdahalenin var olmadığı yolundaki kararlar; Yasanın 7.maddesi uyarınca kesin olup, idarece geri alınması, kaldırılması, değiştirilmesi veya maddi hatalar dışında düzeltilmesi mümkün değildir.
 
@@ -219,6 +251,8 @@ Açıklanan nedenlerle, davacının temyiz isteminin reddine, ... İdare Mahkeme
 
 ## Danıştay 10. D. 1995/1929 E., 1997/517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17304200)
+
 Dava, davacının müdahalenin önlenmesi yolundaki başvurusu üzerine karar verme aşamasında Adli Yargı yerinde meni müdahale davası açıldığından bahisle 3091 sayılı Yasanın Uygulama Yönetmeliğinin 34.maddesi uyarınca karar verilemeyeceği yolundaki davalı idarenin 14.4.1994 tarih ve 375 sayılı işleminin iptali istemiyle açılmıştır.
 
 Edirne İdare Mahkemesi, mülki idare amirine yapılan başvurudan sonra adliye mahkemesinde uyuşmazlıkla ilgili bir dava açılmasının 3091 sayılı Yasanın 14.maddesi hükmü ve anılan Yasanın Uygulama Şekli ve Esasları Hakkında Yönetmeliğin 34.maddesi hükmüne göre müdahalenin meni hakkında karar verilmesine engel oluşturmadığı, olayda, davacının 31.3.1994 tarihinde davalı idareye müdahalenin önlenmesi için başvuruda bulunduğu, 4.4.1994 tarihinde mahallinde soruşturma yapıldığı, mütecavizin ise 5.4.1994 tarihinde adliye mahkemesinde men'i müdahale davası açtığının anlaşıldığı, mütecaviz tarafından şikayetten sonra adli yargıda açılan davanın 3091 sayılı Yasa uygulamasını etkilemeyeceği, dolayısıyla davacının istemi hakkında esastan karar vermeyen davalı idare işleminde hukuki isabet bulunmadığı gerekçesiyle dava konusu işlemin iptaline karar vermiştir.
@@ -228,6 +262,8 @@ Edirne İdare Mahkemesi, mülki idare amirine yapılan başvurudan sonra adliye 
 Temyizen incelenen ve yukarıda özetlenen gerekçelere dayalı olarak verilen … İdare Mahkemesinin … Tarih E:…, K:… sayılı kararı, usul ve hukuka uygun olup, bozma nedeni bulunmadığı anlaşıldığından, temyiz isteminin reddine ve anılan kararın onanmasına …
 
 ## Danıştay 10. D. 1995/1411 E., 1995/3063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17637200)
 
 3091 sayılı Taşınmaz Mal Zilyetliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanunla; taşınmaz mallara yönelik tecavüz veya müdahalelerin, uyuşmazlığın adli yargı yerine intikaline kadarki süre içinde, idari makamlar tarafından önlenerek; tasarrufa ilişkin güvenliğin ve kamu düzeninin sağlanması amaçlanmaktadır. Yasada "taşınmaz mal" tanımı yapılmamış olmakla birlikte, bu deyimin tüm yapı ve binaları da kapsayacağı açıktır.
 
@@ -239,6 +275,8 @@ Açıklanan nedenlerle, davacının temyiz isteminin kabulüne, … İdare Mahke
 
 ## Danıştay 10. D. 1991/3902 E., 1993/1986 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17776100)
+
 3091 sayılı yasanın 1.maddesinde gerçek veya tüzelkişilerin zilyed bulunlduğu taşınmaz mallarla, kamu idareleri kamu kurumları veya kuruluşları ile devlete ait veya devletin hüküm ve tasarrufu altında bulunan taşınmazlarla, menfaati umuma ait taşınmazlara yapılan tecavüzlerin idari makamlarlca önleneceği hükme bağlanmış olup, aynı yasanın 4.maddesiylede kamunun kullanımına açık taşınmaz mallara yönelik tecavüz ve müdahalelerin fiili zilyetlik esasına bırakılmaksızın önlenmesi gerektiği düzenlenmiştir.
 
 …
@@ -246,6 +284,8 @@ Açıklanan nedenlerle, davacının temyiz isteminin kabulüne, … İdare Mahke
 Açıklanan nedenlerle, 2577 sayılı yasanın 49.maddesine uygun bulunan davalı temyiz isteminin kabulü ile … İdare Mahkemesinin … tarih ve … sayılı kararının bozulmasına karar verildi.
 
 ## Danıştay 10. D. 1991/3334 E., 1993/1488 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17756300)
 
 Davacı, tapu iptal davasında mütecavizin taraf olmadığını ihtiyati tedbir kararının taşınmazın satışını önlemek amacıyla verildiğini iddia ederek, anılan mahkeme kararının temyizen incelenip bozulmasını istemektedir.
 
@@ -263,6 +303,8 @@ Açıklanan nedenlerle, 2577 sayılı Yasanın 49.maddesine uygun bulunan temyiz
 
 ## Danıştay 10. D. 1988/2196 E., 1989/499 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/18052700)
+
 3091 sayılı Kanunun 1.maddesinde, "Bu Kanun; gerçek veya tüzel kişilerin zilyed bulunduğu taşınmaz mallara ... yapılan tecavüz veya müdahalelerin, idari makamlar tarafından önlenmesi suretiyle tasarrufa ilişkin güvenliği ve kamu düzenini sağlar" hükmüne yer verilmiş, söz konusu kanun, taşınmaz mal mülkiyeti yönünden haklılığının saptanmasını öngörmemiştir.
 
 …
@@ -271,6 +313,8 @@ Açıklanan nedenlerle, davalı idarenin 2577 sayılı Kanunun 49.maddesine uygu
 
 ## Danıştay 10. D. 1988/1663 E., 1989/340 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/18052800)
+
 ÜÇ YILLIĞINA KİRALANAN TAŞINMAZ MALIN DEVİR PARASI ALINARAK BAŞKALARINA DEVREDİLDİĞİ, ŞİKAYETİ ÜZERİNE, DAVALI İDARECE 6570 SAYILI KANUN HÜKMÜNDEN HAREKETLE, DAVA KONUSU OLAYA 3091 SAYILI KANUNUN UYGULANMASINDA VE DAVACILARIN UYUŞMAZLIK KONUSU TAŞINMAZ MALDAN MEN'İNE İLİŞKİN İŞLEMDE MEVZUATA AYKIRILIK BULUNMADIĞI HK. \< …
 
 …
@@ -278,6 +322,8 @@ Açıklanan nedenlerle, davalı idarenin 2577 sayılı Kanunun 49.maddesine uygu
 Açıklanan nedenlerle davalı idarenin 2577 sayılı Kanunun 49.maddesine uygun bulunan temyiz isteminin kabulü ile idare mahkemesi kararının bozulmasına …
 
 ## Yargıtay HGK 2020/180 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602255800)
 
 Dava, inançlı işlem ve muvazaa hukuksal nedenlerine dayalı olarak açılan tapu iptali ve tescil, mümkün olmadığı hâlde tazminat istemine ilişkindir.
 

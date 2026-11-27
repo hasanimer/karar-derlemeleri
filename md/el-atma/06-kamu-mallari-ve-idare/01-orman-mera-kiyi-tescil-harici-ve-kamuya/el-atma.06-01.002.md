@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2025/4854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171052500)
+
 Davacı ... İdaresi, ... ilçesi ... ... Mahalesinde bulunan 320 ada 21 parsel sayılı 49.781 m² yüzölçümündeki taşınmazın orman sınırları içinde kaldığını ileri sürerek, tapu kaydının iptali ile Hazine adına orman vasfıyla tesciline, taşınmaza davalılarca yapılan müdahalenin men'ine karar verilmesi istemiyle dava açmış; yargılama sırasında müdahil Hazine, taşınmazın tapu kaydının iptali ile orman olarak adına tescili istemiyle davaya katılmış; müdahil ..., kayıt maliklerinden ..., ... ve ...’in hisselerini gayrimenkul satış vaadi sözleşmesi ile satın aldığını açıklayarak, müdahillik talebinin kabulü ile davanın reddine, müdahil ... ise, ...’dan haklarının 1/2'sini temlik aldığını açıklayarak, müdahillik talebinin kabulü ile davanın reddine karar verilmesini talep etmiştir.
 
 İlk Derece Mahkemesince, taşınmazın 31.101 m²'sinin tahdit içinde kaldığı gerekçesiyle verilen, bu kısmın tapu kaydının iptaline, taşınmazın yüzölçümünün 18.680 m²'lik olarak tashihine, davalıların taşınmazdan tahliyesine ilişkin hükmün, davacı ... İdaresi vekili, asli müdahil Hazine vekili ve bir kısım davalıların temyizi üzerine, Yargıtay (Kapatılan) 14.
@@ -36,6 +38,8 @@ Bozma ilamı doğrultusunda yapılan yargılama neticesinde İlk Derece Mahkemes
 Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 7. HD 2025/4686 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184970500)
 
 Davacı vekili dava dilekçesinde; Amasya ili, .... ilçesi, .... Köyü, 1 37... parsel sayılı mera parselinde 15.08.2018 tarihinde ....
 
@@ -54,6 +58,8 @@ Kabule göre de; Mahkemece bilirkişi raporunda gösterilen yerlerdeki su borula
 Davalı vekilinin temyiz itirazlarının kabulü ile temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2025/3234 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1165542500)
 
 Davacı vekili dava dilekçesinde özetle; .... ilçesi, .... Köyü, ... ada ... sayılı mera parseline davalıların tecavüzde bulunduklarını, meraların Devletin hüküm ve tasarrufu altında olduğunu, davalıların bu taşınmaz üzerine bina inşa ettiklerini belirterek dava konusu taşınmaza davalıların yaptıkları haksız müdahalenin men'ine ve yapılan inşaatın kâl'ine, bozulan meranın eski hâle getirme bedelinin davalılardan tahsiline karar verilmesini talep etmiştir.
 
@@ -77,6 +83,8 @@ Mera, yayla, kışlak niteliğindeki taşınmazlar kamunun yararlanmasına tahsi
 
 ## Yargıtay 8. HD 2025/2663 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1149170200)
+
 Davacı ... İdaresi vekili dava dilekçesinde özetle; Kocaeli ili, ... ilçesi, Yarımca beldesi sınırları içinde özel orman statüsünde bulunan I-II-III-IV-V nolu (3478-3479-3480-3481-3482) parseller üzerinde bulunan Yarımca mahallesi 117 ada 1 parsel sayılı taşınmazın özel orman olarak sınırlandırma işleminin iptaline ve tapusunun Devlet ormanı vasfı ile Hazine adına tapuya kayıt ve tesciline, vaki müdahalenin önlenmesine karar verilmesini talep etmiştir.
 
 Davalı Hazine vekili cevap dilekçesinde, davanın reddini savunmuştur.
@@ -94,6 +102,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 8. HD 2025/2443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141366100)
+
 Davacı ... İdaresi vekili dava dilekçesinde; ... ili ... ilçesi ... köyü Uçuk mevki eski 529 yeni 109 ada 5 parsel sayılı taşınmazın tapuda davalılar murisi adına kayıtlı olduğunu, taşınmazın kısmen orman tahdit sınırları içinde kaldığını ileri sürerek, tapu kaydının iptali ile taşınmazın orman olan kısmının orman vasfı ile Hazine adına tesciline ve davalıların orman olan kısma elatmalarının önlenmesine karar verilmesini talep ve dava etmiştir.
 
 …
@@ -106,6 +116,8 @@ Hükmüne uyulan bozma ilamında açık bir şekilde taşınmazın tahdit içind
 Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 5. HD 2025/1473 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134019800)
 
 Davalı idare vekili cevap dilekçesinde özetle; taşınmaz üzerinden geçen enerji nakil hatları ile ilgili olarak imar uygulaması öncesindeki kadastro parsellerinde, 1974 yılında usulüne uygun şekilde irtifak kamulaştırması yapıldığını; ancak dava konusu taşınmazın bulunduğu alan öncesinde tescil harici olduğu için kamulaştırma yapılmadığını ve bedel ödenmediğini, öte yandan imar uygulaması sonucu oluşan dava konusu taşınmaz üzerindeki irtifak haklarının tapuya tescil edildiğini, bundan dolayı davanın reddine karar verilmesi gerektiğini savunmuştur.
 
@@ -125,6 +137,8 @@ c) Ayrı bir bent olarak "davacı tarafça yatırılan 59,30 TL başvuru harcın
 
 ## Yargıtay 8. HD 2025/630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145633900)
+
 İlk Derece Mahkemesince yargılama sırasında dava konusu yerde orman kadastro çalışmalarının tamamlanarak 30.12.2009 ile 28.01.2010 tarihleri arasında askı ilanının yapıldığının bildirildiği gerekçesiyle, dosyanın mülkiyete ve tapunun iptaline ilişkin talep yönünden tefriki ile resen Kadastro Mahkemesine devrine, men'i müdahale talebine ilişkin kısmın ise ayrı bir esasa kayıt edilmesine karar verilmiştir. Kararın davacı ... İdaresi tarafından temyiz edilmesi üzerine Yargıtay (Kapatılan) 20.
 Hukuk Dairesinin 25.04.2011 tarihli ve 2011/5737 Esas, 2011/5003 Karar sayılı ilamı ile çekişmeli taşınmazın bulunduğu yerde 3402 sayılı Kadastro Kanunu'nun (3402 sayılı Kanun) 4 üncü maddesi hükmüne göre orman kadastrosu yapıldığı, çekişmeli parselin orman alanı içinde bırakıldığı, kural olarak bir taşınmaz hakkında tespit gününden önce genel mahkemede görülmekte olan davaya konu taşınmaz hakkında kadastro tutanağının düzenlendiği günde genel mahkemenin görevinin kendiliğinden sona ereceği, 3402 sayılı Kanun'un 5 ve 27 nci maddeleri gereğince kadastro tespitinden önce genel mahkemelere açılan dosya konusu taşınmazların geometrik ve hukuki durumlarını belirlemek görevinin kadastro mahkemesine ait olduğu, bu nedenle mahkemenin görevsizliğine ve dosyanın kül halinde Kadastro Mahkemesine gönderilmesine karar verilmesi gerekirken elatmanın önlenmesine ilişkin dava kısmının Asliye Hukuk Mahkemesinin görev alanına girdiğinden bahisle Mahkemenin yeni bir esasına kayıt edilmesine karar verilmesinin usul ve kanuna aykırı bulunduğu belirtilerek, hükmün bozulmasına karar verilmiştir.
 İlk Derece Mahkemesince bozma kararı sonrasında, daha önce tefrikine karar verilen meni müdahale talebine ilişkin dosya ile eldeki dosyanın birleştirilmesine karar verilerek, Eynesil Asliye Hukuk Mahkemesinin 2010/77 Esas, 2012/18 Karar sayılı kararıyla; davaya konu 101 ada 1 parsel sayılı taşınmaz hakkında kadastro tutanağı düzenlendiğinden bahisle Mahkemenin görevsizliğine karar verilmiş, kararın kesinleşmesi üzerine dosya Eynesil Adliyesinin kapatılması nedeniyle Görele Kadastro Mahkemesinin 2012/60 Esasına kaydedilmiş ve bu dosya da Görele Kadastro Mahkemesinin 2012/30 Esas sayılı dosyası ile birleştirilmiştir.
@@ -134,6 +148,8 @@ Hukuk Dairesinin 25.04.2011 tarihli ve 2011/5737 Esas, 2011/5003 Karar sayılı 
 Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 8. HD 2025/357 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117588300)
 
 Davacı ... vekili dava dilekçesinde; irsen intikal ve kazandırıcı zamanaşımı zilyetliğine dayanarak, çekişmeli 139 ada 2 ve 4 parsel sayılı taşınmazların kadastro tespitlerinin iptali ve müvekkilinin murisi ...'nın mirasçıları adına tescilini istemiştir.
 
@@ -153,6 +169,8 @@ kalan dava konusu 141 ada 2 parsel sayılı taşınmazın ise tespit gibi mera v
 Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 8. HD 2025/196 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117427600)
 
 İlk Derece Mahkemesi kararının, davalı vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince, istinaf başvurusunun esastan reddine karar verilmiştir.
 
@@ -175,6 +193,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 5. HD 2024/10006 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122260500)
+
 Davacı vekili dava dilekçesinde; dava konusu İstanbul ili, ..., Mahallesi, 937 ada 1 parsel sayılı taşınmazın müvekkili ... adına kayıtlı olduğunu, müvekkilinin arsasından encümen kararlarıyla fiili olarak tretuvar ve yol geçirildiğini, geri kalan kısımlarının da imar yoluna alınarak kullanılmaz hale geldiğini, taşınmazın şu an trafiğe açık yol olarak kullanıldığını, netice olarak hiçbir bedel ödemeden müvekkilinin gayrimenkulüne el konulduğundan, kamulaştırmasız el atılan taşınmaz bedelinin davalı taraftan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -192,6 +212,8 @@ Davalı ... vekilinin temyiz itirazlarının kısmen kabulü ile Bölge Adliye M
 
 ## Yargıtay 8. HD 2024/7911 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110795400)
+
 İlk Derece Mahkemesi kararının, davacı vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince, istinaf başvurusunun esastan reddine karar verilmiştir.
 
 …
@@ -206,6 +228,8 @@ Sancaktepe ilçesi Yenidoğan mahallesi 1778 parsel sayılı 14.000,00 m2 mesaha
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/5635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059766000)
 
 Davacı vekili dava dilekçesinde özetle;...ili, ...Mahallesi 112219 ada 1 parsel ve 112217 ada 2 parsel sayılı taşınmazlar üzerinde enerji nakil hattı bulunduğunu, dava konusu taşınmazların kamulaştırıldığına ilişkin herhangi bir tebligatın bugüne kadar yapılmadığını, mülkiyet hakkından mahrum bırakılan müvekkilinin mağdur edildiğini, bu nedenle taşınmazların bedelinin davalı taraftan tahsiline karar verilmesini talep etmiştir.
 
@@ -224,6 +248,8 @@ Hukuk Dairesinin 2022/8107 Esas, 14151 Karar sayılı kararı ile onanarak kesin
 Ayrı bir bent olarak "davacı tarafça yatırılan 80,70 TL başvuru harcının ve 9268,81 TL ıslah harcının davalıdan alınarak davacıya verilmesine" yazılması suretiyle kararın DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 7. HD 2024/4524 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089187700)
 
 Davacı vekili dava dilekçesinde; ... 3. Asliye Hukuk Mahkemesinin 2012/355 Esas, 2014/426 Karar sayılı dosyasında verilen karar ile ...
 

@@ -20,8 +20,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196614200)
+
 Anayasa Mahkemesinin bireysel başvuru kapsamında kural olarak muvazaa veya yetkisiz temsil gibi borçlar hukukuna ilişkin olay ve olguları değerlendirme görevi bulunmamaktadır. Bu aşamada belirtmek gerekir ki delillerin değerlendirilmesi ve hukuk kurallarının yorumlanması yetkisi kural olarak -keyfî olmadığı veya açık ve bariz bir takdir hatası içermediği sürece- derece mahkemelerine aittir.
 
 ## Yargıtay 1. HD 2009/1852 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78316500)
 
 Bilindiği üzere, taşınmazı temellük edenin vasinin temsil yetkisini kötüye kullandığını biliyor veya bilmesi gerekiyorsa tarafların sözleşme ile bağlı sayılmaması Medeni Kanunun 2. maddesinde yazılı dürüstlük kuralının doğal bir sonucu olarak kabul edilmelidir. Söz konusu yasa maddesi buyurucu nitelik taşıdığından hakim tarafından kendiliğinden (re’sen) göz önünde tutulmasında zorunluluk olup, aksi düşünce kötü niyeti teşvik etmek en azından göz yummak olur.Oysa, bütün çağdaş hukuk sistemlerinde kötü niyet korunmamış daima mahkum edilmiştir.Nitekim uygulama ve bilimsel görüşler bu yönde gelişmiş ve kararlılık kazanmıştır.

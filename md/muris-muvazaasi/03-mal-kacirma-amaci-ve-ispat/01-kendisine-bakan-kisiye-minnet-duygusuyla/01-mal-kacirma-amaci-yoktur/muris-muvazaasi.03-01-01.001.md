@@ -21,13 +21,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/954210100)
+
 Mirasbırakanın, uzun yıllar boyunca kendisine ve eşine sağladığı bakım ve desteğin yarattığı minnet duygusu yanında ileride de kendisine bakacağı düşüncesi ve güveniyle hareket ettiği anlaşılmaktadır. Hukuk Genel Kurulunun 28.04.2009 tarihli ve 2009/1-130 Esas, 2009/150 Karar sayılı kararı ile 16.06.2010 tarihli ve 2010/1-295 Esas, 2010/333 Karar sayılı kararında da **bu nitelikte hizmetin semen olarak değerlendirilmesi gerektiği** hususu benimsenmiştir.
 
 ## Yargıtay 1. HD 2024/1786 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1051376500)
+
 … bedelsizliğin tek başına muvazaanın varlığını göstermeyeceği hususları birlikte değerlendirildiğinde mirasbırakanın taşınmazını **bakım karşılığı minnet duygusu ile davalılara temlik ettiği, temlikte mirastan mal kaçırma amacının bulunmadığı** sonucuna varılmaktadır.
 
 ## Yargıtay 1. HD 2023/277 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898784300)
 
 … dava konusu temlike konu taşınmaz dışında mirasbırakan adına kayıtlı çok sayıda taşınmaz bulunduğu gözetildiğinde mirasbırakanın temlikteki amacının davacıdan mal kaçırma olmadığı, **davalıya olan minnet duygusu ile taşınmazın devredildiği** anlaşılmaktadır.
 

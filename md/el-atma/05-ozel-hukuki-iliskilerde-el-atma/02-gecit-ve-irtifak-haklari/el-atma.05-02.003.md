@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 11. HD 2020/2721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/606432100)
+
 Davacı vekili, müvekkili şirket aleyhine kamulaştırmasız el atma sebebiyle açılan davada Silivri Asliye Hukuk Mahkemesi’nin 2006/50 E. - 2006/988 K. sayılı kararı ile davacının davasının kısmen kabulüne karar verildiğini, anılan davanın davacısı Sebahat Keskin tarafından müvekkili şirket aleyhine başlatılan icra takibi sonucunda 3.931,50 TL ödeme yapıldığını, mahkeme kararına konu olayın dağıtım sisteminin işletilmesi ile ilgili olup, müvekkili ile davalı arasında imzalanan 24/07/2006 tarihli İşletme Hakkı Devir Sözleşmesinin 7.4 ve 7.6 maddeleri gereğince sorumluluğun davalıya ait olduğunu ileri sürerek, mahkeme kararına istinaden dava dışı şahsa icra takibi sonucu ödenen 3.931,50 TL'nin 10/05/2007 ödeme tarihinden itibaren uygulanacak avans faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 Davalı vekili, rücu davalarındaki zamanaşımı süresinin 2 yıl olduğunu, ödeme yapıldığı tarih dikkate alındığında bu sürenin geçtiğinden dolayı alacağın zamanaşımına uğradığını, özelleştirme modeli gereği bilanço çalışmaları yapılarak şirket tarafından devre esas mizan düzenlendiğinden ve beyan edilen mizan kayıtları esas alınarak “devre esas bilanço” düzenlendiğinden bu suretle geçmişe yönelik borç ve alacak işlemlerinin kesinleştiğini, bu sebeple müvekkilinden talepte bulunulmasının ihale şartnamesi ve hisse satış sözleşmesine aykırı olduğunu, ayrıca davacının İşletme Hakkı Devir Sözleşmesinin 18.6 maddesi gereğince de müvekkilinden herhangi bir talepte bulunamayacağını, davacı tarafından Silivri Asliye Hukuk Mahkemesi'nde açılan davadan müvekkiline haber verilmediğinden faiz ve icra giderleri talebinin taraflar arasında imzalanan İHDS’ye aykırı olduğunu, davanın kabul edilmesi halinde dahi müvekkilinin sadece mahkemece hükmedilen bedel kadar olduğunu savunarak, davanın reddine karar verilmesini talep etmiştir.
@@ -35,6 +37,8 @@ Mahkeme tarafından Dairemiz bozma kararına uyularak getirtilen tapu kaydının
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/4926 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646642800)
 
 Davacı Hazine vekili, Hazineye ait 3610 parsel üzerine davalı tarafından yapı ve tesisler yapılarak işgal edildiğini, 4706 sayılı Yasa'nın 19.07.2003 tarihli Resmi Gazetede yayımlanarak yürürlüğe giren 4916 sayılı Yasa'nın 5. maddesi gereği Hazine taşınmazı üzerindeki yapı ve tesislerin yapım tarihlerinin tespiti ile 19.07.2003 tarihinden sonra yapılanların Hazine adına tespiti ile tapuya şerh konulması ve davalının müdahalesinin men’i ile bu kapsamda kalmayan yapı ve tesisler yönünden davalının müdahalesinin men’ine üzerindeki yapı ve tesislerin kal’ine karar verilmesini talep etmiştir.
 
@@ -52,6 +56,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin ve davalı asilin te
 
 ## Yargıtay 5. HD 2019/4747 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486888700)
+
 Dava, kamulaştırmasız el atmanın önlenmesi ve kal, olmadığı takdirde kamulaştırmasız el atma bedelinin tahsili istemine ilişkindir.
 
 Mahkemece davanın kabulüne karar verilmiş; hüküm, davalı idare vekilince temyiz edilmiştir.
@@ -66,6 +72,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2018/12119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/431656800)
+
 Arsa niteliğindeki taşınmaza emsal incelemesi yapılarak değer biçilmesinde bir isabetsizlik görülmemiştir. Ancak;Kamulaştırmasız el atma nedenine dayalı tazminat davalarında 2942 sayılı Kamulaştırma Kanununun değer biçmeye ilişkin hükümleri kıyasen uygulanır. 2942 sayılı Kamulaştırma Kanununun 11/ son maddesi uyarnınca irtifak hakkı karşılıkları, bu hak nedeniyle taşınmazın tamamında meydana gelecek olan değer kaybıdır. Bu tibarla, dava konusu taşınmazdan geçen enerji nakil hatları ve güzergahları, açıkça tespit edildikten sonra, taşınmazın irtifak hakkı kurulmasından önceki değerinin tespit edilmesi ve bundan sonra, enerji nakil hattı nedeniyle taşınmazın tamamında meydana gelecek değer düşüklüğü oranının belirlenmesi ve bu oranla taşınmazın tüm değerinin çarpılması sonucu, irtifak hakkı karşılığının hesaplanması gerekir. Buna göre, aynı taşınmaza ilişkin açılan ... 16.Asliye Hukuk Mahkemesinin 2016/69 Esas - 2016/516 Karar sayılı dosyasında dava konusu taşınmazdan geçen ...'a ait hattın 13.136 m², ...'a ait hattın ise 5.686 m² olarak kabulü ile dava konusu taşınmazın geometrik durumu, yüzölçümü ve enerji nakil hattının güzergahı …
 
 …
@@ -73,6 +81,8 @@ Arsa niteliğindeki taşınmaza emsal incelemesi yapılarak değer biçilmesinde
 Doğru görülmemiştir.Davalı idareler vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 11. HD 2018/6296 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451903000)
 
 Davacı vekili, ...'ın özelleştirme kapsamına alınması ve 20 ayrı dağıtım şirketine ayrılması kapsamında müvekkili ile davalı arasında 24.07.2006 tarihinde "İşletme Hakkı Devir Sözleşmesi" akdedildiğini, anılan sözleşmenin 7.1, 7.2, 7.3, 7.4, 7.5 ve 7.6 maddelerinde dağıtım faaliyetinin yürütülmesi amacıyla gerçekleştirilen iş ve işlemlerden kaynaklanan sorumluluğun dönemsel olarak paylaştırıldığını, davalının sözleşme öncesi gerçekleştirdiği işlemler nedeniyle kamulaştırmasız el atmadan kaynaklanan tazminat istemine ilişkin ... 3. Asliye Hukuk Mahkemesi'nin 2005/395 E.- 2006/59 K. sayılı kararına istinaden müvekkilinin icra dosyasına 14.394,29 TL ve 196,16 TL olmak üzere toplam 14.590,45 TL ödediğini ileri sürerek, bu meblağların ödeme tarihinden itibaren işleyecek avans faiziyle davalıdan rücuen tahsilini talep ve dava etmiştir.
 
@@ -86,10 +96,14 @@ Yargıtay ilamında benimsenen gerektirici sebeplere, Yargıtay 5. Hukuk Dairesi
 
 ## Yargıtay 16. HD 2018/2871 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422480500)
+
 Geçit hakkı tesisine ilişkin hükme yönelik temyiz itirazlarına gelince; davacı ..., kullanmakta olduğu patika yol ve su arkına davalının haksız el atmasının önlenmesi istemiyle dava açmıştır. Davacının, dava dilekçesinde geçit hakkı tesis edilmesi yönünde bir talebi yoktur. Davacı, yargılama sırasında (05.07.2012 tarihli celsede) geçit hakkı talebinin de olduğunu beyan etmiş; mahkemece, davacının bu beyanı gözetilerek 21.04.2017 havale tarihli raporda davalıya ait 332 ada 58 parsel sayılı taşınmazda “DURUM-1” ile gösterilen güzergahtan davacıya ait 332 ada 57 parsel lehine geçit hakkı tesisine karar verilmiş; el atmanın önlenmesi talebi hakkında ise karar verilmemiştir. 6100 sayılı HMK’nın 26. maddesinde; hakimin tarafların talebi ile bağlı olduğu, talepten fazlasına veya başka bir şeye karar vermeyeceği belirtilmiştir.
 Somut olayda, yeni bir davaya konu edilebilecek geçit hakkı tesisine yönelik olarak yöntemine uygun bir ıslah işlemi de bulunmadığına göre davacının el atmanın önlenmesi talebi yönünden hüküm tesisi gerekirken davacının duruşmadaki talebi üzerine mahkemece geçit irtifakı tesisine, başka bir ifade ile talepten farklı bir şeye hükmedilmiş olması isabetsiz olup, davalı ...’ın temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, 25.04.2018 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 5. HD 2017/29890 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/393091700)
 
 Dava ve birleştirilen dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -105,6 +119,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2017/11197 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329591900)
+
 Dava, kamulaştırmasız el atmanın önlenmesi, eski hale iade ve kal istemine ilişkindir.
 
 Mahkemece ... ile ... Elektrik A.Ş. hakkında açılan davanın husumetten reddine, ..., ..., ... ve ...
@@ -118,6 +134,8 @@ Bu itibarla; arsa vasfındaki taşınmaza emsal karşılaştırması yapılarak 
 Davalılar ..., ..., ... ve ... Enerji A.Ş. vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2017/6701 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378042200)
 
 Dava, suya vaki elatmanın önlenmesi, kal ve maddi tazminat isteklerine ilişkindir.
 
@@ -140,6 +158,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı ...'ın temyiz itirazlarının
 
 ## Yargıtay 20. HD 2017/4745 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/361022800)
+
 …
 
 ... 5. Asliye Hukuk Mahkemesinin 2008/140 Esas sayılı dosyası ile verilmiş ve kesinleşmiş mahkeme kararı bulunduğundan kesin hüküm nedeniyle davanın reddi gerektiğini, mülkiyet hakkının ihlal edilmesi nedeniyle davanın reddi gerektiğini savunmuşlar, mahkemece davacılardan 6 parsel maliki Yüksel Perihan Demiriz davasından feragat ettiğinden bu davacı yönünden açılan davanın feragat nedeniyle reddine, davacı 40 parsel yöneticisi tarafından açılan dava nedeniyle yapılan incelemede; dava konusu 40 ve 6 parsel sayılı taşınmazların birbirleri lehine ve aleyhine konulmuş irtifak haklan bulunduğu, mülkiyet hakkına ilişkin bulunan irtifak hakkının kullanımını engelleyici her iki parsel yönetimleri tarafından alınacak kararların tüm malikleri katılımı ve onayı halinde geçerli kat malikleri kurulu karan haline gelebileceği bunun dışında sayısal çoğunlukla alınan kararların mülkiyet hakkı kapsamında hiçbir geçerliliğinin bulunmadığı, mahkemece yapılan keşif ve dava konusu taşınmazla ilgili ... 5. Asliye Hukuk Mahkemesinin (.... Asliye Hukuk Mahkemesi) 2008/140 E. - 2009/160 K. sayılı kararının incelenmesi sonucu;
@@ -151,6 +171,8 @@ hakkının kullanımını engellenmediği gibi, aynı konuda bir kısım kat mal
 Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, yerinde görülmeyen temyiz itirazlarının reddi ile usûle ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2016/16965 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/262447700)
 
 Dava, kamulaştırmasız el atılarak üzerine pilon dikilip enerji nakil hattı geçirilen taşınmazın, pilon yeri bedeli ile irtifak hakkı karşılığının tahsili istemine ilişkindir.
 
@@ -168,6 +190,8 @@ Mahkeme kararının yukarıda açıklanan nedenlerle taraf vekillerinin temyiz i
 
 ## Yargıtay 20. HD 2016/11143 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/284823300)
+
 Mahkemece, davanın kabulü ile ... köyü 949 (yenileme ile 116 ada 47 parsel) parsel sayılı taşınmazın, 03/04/2013 havale tarihli orman ve fen bilirkişi raporlarında (A) harfi ile gösterilen 3887,31 m2 ve (B2) ile gösterilen 2600,84 m2 yüzölçümündeki kısımlarının tapu kaydının iptali ile orman vasfı ile Hazine adına tesciline, müdahalenin men'i ve kal' taleplerinin reddine, kararın kesinleşmesine müteakip tapu kaydı üzerinde bulunan tüm şerhlerin kaldırılması için müzekkere yazılmasına, ... hakkında açılan davanın husumet nedeni ile reddine, Ziraat Bankası yönünden davanın konusu kalmadığından karar verilmesine yer olmadığına karar verilmiş, hüküm davacı Orman Yönetimi ve dava kendisine ihbar olunan ... tarafından temyiz edilmiştir.
 
 …
@@ -176,6 +200,8 @@ Yönetmeliğin 45-49. maddeleri gereğince orman niteliğiyle Hazine adına tesc
 Bu sebeple, hükmün harca ilişkin 7. bendinin tamamen hükümden çıkarılarak yerine "7) Dava açılırken alınan peşin harç ve başvurma harcı toplamı olan 178,20.-TL harcın istek halinde Orman Yönetimine iadesine,” cümlesinin yazılması suretiyle düzeltilmesine ve hükmün 6100 sayılı Kanunun geçici 3. maddesi atfıyla HUMK’nın 438/7.
 
 ## Yargıtay 14. HD 2016/10938 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/331839100)
 
 Dava, irtifak hakkının kapsam ve niteliğinin ışıklık, aydınlanma ve geçit hakkı olarak belirlenmesi ile davalının taşınmazında devam eden inşaatın plan ve projesinin uyarlanması ve elatmanın önlenmesi isteklerine ilişkindir.
 
@@ -200,6 +226,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 14. HD 2016/3423 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/222536000)
+
 Davacı vekili, davacının ... Sulh Hukuk Mahkemesinin 2010/97 Esas, 2011/100 Karar sayılı kararı ile davalı aleyhine geçit hakkı davası açtığını, bu davada davacının parseli lehine geçit hakkı kurulduğunu ancak hüküm kurulurken geçit hakkı verilen yer üzerindeki ağaçların değeri dikkate alınmadığını, hükmün bu şekilde kesinleştiğini, geçit hakkı kurulan yerde davalıya ait ağaçların varlığı devam ettiğini bu nedenle mahkemenin geçit hakkı kararının icra marifeti ile infaz edilemediğini geçit hakkı kurulan güzergahta bulunan ağaçların varlığı nedeniyle davacı açısından yolun kullanımına engel olduğunu bu nedenle geçit hakkı üzerindeki ağaçları söküp almayan davalının müdahalesinin men'ine ve ağaçların kal'ine, bu kabul edilmezse muhdesatın aidiyeti hükümleri gereğince ağaçların aidiyetinin kime ait olduğunun tespitine karar verilmesini istemiştir.
 
 Davalı, davanın reddini savunmuştur.
@@ -213,6 +241,8 @@ Hüküm kesinleştikten sonra, geçit hakkı tesis edilen 24 parsel sayılı ta�
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/18900 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/194673100)
 
 Tarafların temyizi üzerine kararı bozulan mahkemece bozma ilamına uyulduğuna göre, salt bozmada değinilen hususların eksiksiz yerine getirilmesi gerekir. Dairenin 04.03.2014 gün 2013/16443 E.-2014/3854 K. sayılı bozma ilamında, dava konusu taşınmazda DSİ kanalet hattının bulunduğu, kanalet geçirilmesi ile davalı ... lehine irtifak hakkı kurulmuş sayılacağından, idarenin taşınmaza müdahalesinin önlenmesi istenmeyip, sadece mecra hakkı karşılığı bedelin tazminat olarak talep edilebileceği belirtildiği halde mahkemece yerinde yaptırılan inceleme sonucu alınan bilirkişi kurulu rapor ve ek raporunda kanaletin geçtiği 178,79 m²'lik kısmın dışında kalan, yerinde yol olarak kullanılan ve davalılarca el atıldığı kanıtlanamadığından bozma öncesi verilen kısmi ret kararı kesinleşen 2491,42 m²'lik alanın da irtifak değeri olarak bir bedel belirlenip mahkemece bu rapora itibarla bozma kapsamı dışına çıkılarak hüküm kurulması, …
 

@@ -58,20 +58,30 @@ Mahkemece davaya konu belgenin inançlı işlemi ispata yarar belge niteliğinde
 
 ## Yargıtay 4. HD 2024/3024 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105553100)
+
 İnanç sözleşmesi, inananla inanılan arasında yapılan, onların hak ve borçlarını belirleyen, inanan tarafından devredilen hakkın, inanılan tarafından inanana geri verme şartlarını içeren bir sözleşmedir. Bu sözleşme, taraflarının hak ve borçlarını kapsayan bağımsız bir akit olup, alacak ve mülkiyetin naklinin hukuki sebebini teşkil eder. 05.02.1947 tarihli 20/6 sayılı İnançları Birleştirme kararı uyarınca, inançlı işleme dayalı iddianın, şekle bağlı olmayan yazılı delille kanıtlanması gerekmektedir.
 
 ## Yargıtay 17. HD 2020/7240 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673041200)
 
 İnanç sözleşmesi, inananla inanılan arasında yapılan, onların hak ve borçlarını belirleyen, inanan tarafından devredilen hakkın, inanılan tarafından inana geri verme şartlarını içeren bir sözleşmedir. Bu sözleşme, taraflarının hak ve borçlarını kapsayan bağımsız bir akit olup, alacak ve mülkiyetin naklinin hukuki sebebini teşkil eder. 05.02.1947 tarihli 20/6 sayılı İnançları Birleştirme kararı uyarınca, inançlı işleme dayalı iddianın, şekle bağlı olmayan yazılı delille kanıtlanması gerekmektedir.
 
 ## Yargıtay 1. HD 2019/3078 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515229200)
+
 Bilindiği üzere; inanç sözleşmesi, inananla inanılan arasında yapılan, onların hak ve borçlarını belirleyen, inançlı muamelenin sona erme sebeplerini ve devredilen hakkın, inanılan tarafından inanana geri verme (iade) şartlarını içeren borçlandırıcı bir muameledir. Bu sözleşme, taraflarının hak ve borçlarını kapsayan bağımsız bir akit olup, alacak ve mülkiyetin naklinin hukuki sebebini teşkil eder. Taraflar böyle bir sözleşme ve buna bağlı işlemle genellikle, teminat teşkil etmek ve iade edilmek üzere, mal varlığına dahil bir şey veya hakkı, aynı amacı güden olağan hukuki muamelelerden daha güçlü bir hukuki durum yaratarak, inanılana inançlı olarak kazandırmak için başvururlar.
 
 ## Yargıtay 8. HD 2014/18280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/304887900)
+
 İnançlı işlemler, kişinin kendisini gizlemek amacıyla, teminat amacıyla veya alacaklıdan mal kaçırmak amacıyla da yapılabilecek işlemlerdir. Taraflar böyle bir sözleşme ve buna bağlı işlemle genellikle, teminat teşkil etmek veya idare olunmak üzere, mal varlığına dahil bir şey veya hakkı, aynı amacı güden olağan hukuki muamelelerden daha güçlü bir hukuki durum yaratarak, inanılana inançlı olarak kazandırmak için başvururlar.
 
 ## Ankara BAM 21. HD 2026/435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204342300)
 
 Öte yandan, burada tartışılması gereken bir diğer husus, taraflar arasında inanç sözleşmesi bulunup bulunmadığıdır. İnanç sözleşmesi inanan tarafından mülkiyetinde bulunan bir malın veya hakkın güven duyduğu ve inandığı başka bir kişiye devredip, belirli bir sürenin sonunda veya bir amacın gerçekleşmesinden sonra devrettiği mal veya hakkı geri almayı taahhüt ettiği, inanılan kişinin de devraldığı mal veya hakkı kendisine inanana geri devretmeyi taahhüt ettiği güvene dayalı bir sözleşmedir. Bunun sonucu olarak mal veya hakkın mülkiyeti geçici olarak devredildiği inanılana geçmesidir. Somut olayda ise, inanç sözleşmesinde yer alan payın belirli bir sürenin sonunda veya bir amacın gerçekleşmesinden sonra tekrar davalı ... tarafından davacılara devredileceğine ilişkin inanç unsuru eksiktir. Bu durumda, taraflar arasında inanç sözleşmesinin varlığı ileri sürülemeyecektir.

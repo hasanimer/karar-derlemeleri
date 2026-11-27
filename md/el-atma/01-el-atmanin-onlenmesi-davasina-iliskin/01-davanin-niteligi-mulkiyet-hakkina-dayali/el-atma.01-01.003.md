@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2018/888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/407636900)
+
 Davacı vekili davacının ... Köyü 2344 parsel sayılı taşınmazda hissedar olduğunu, davalıların bu taşınmaza bitişik 2341 parsel sayılı taşınmazda kil çıkardıklarının, kil çıkarma işleminin zemin kazılarak ve oyularak yapıldığını, bu işlem yapılırken davacının taşınmazına tecavüz edildiğini ve kil çıkartma işlemi nedeniyle bitişik taşınmaz oyuldukça zemininin aşağıya düştüğünü, yüksekliğin oldukça fazla olduğunu oyulma nedeniyle davacı taşınmazının zarar gördüğünü ağaç köklerinin açıkta kaldığını, heyelan ve su nedeniyle kayma tehlikesi ile karşı karşıya bulunduğunu ileri sürerek, taşınmaza yapılan her türlü elatmanın önlenmesini ve 2000 TL tazminatın tahsilini istemiştir.
 
 Davalılar vekili; davalı ...'ın şirketin yetkilisi olduğunu, davalı şirket ile diğer davalı ... arasında 19.09.2009 tarihinde yapılan sözleşme ile 2341 parsel sayılı taşınmazda kil ve maden işletmesi yapıldığını bu nedenle ... aleyhine dava açılmasının mümkün olmadığını davacının 2344 parselde iştirak halinde maliklerden birisi olması nedeniyle aktif dava ehliyetinin bulunmadığını tespit dosyasında müdahalenin durdurulması yönünden karar verildiğini ileri sürmekte ise de, davalı şirketin maden işletme ruhsatına göre bu yerde 2341 parselin malikleri ile yapmış olduğu maden çıkarma konusundaki 19.09.2009 tarihli sözleşmeye göre kil ve maden çıkardığını, 2344 parsele bir müdahalesinin bulunmadığını davalıya 3213 sayılı maden kanununun 46.maddesine göre intifa hakkı konusunda sözleşme yapması için 22.01.2010 tarihinde ihtarname keşide edildiği halde sözleşme yapmaya yanaşmadığını ve sürekli sorun çıkardığını Cumhuriyet Savcılığına şikayette bulunduğunu, aynı konuda ... .
@@ -42,6 +44,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 1. HD 2017/6927 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385653900)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi isteğine ilişkindir.
 
 Davacılar, paydaşı oldukları 109 ada 1 ve 113 ada 2 parsel sayılı taşınmazlardan 109 ada 1 parsel sayılı taşınmazın davalılar ...,, 113 ada 2 parsel sayılı taşınmazın da davalı ... tarafından kullandığını ileri sürerek davalıların müdahalesinin önlenmesine karar verilmesini istemişlerdir.
@@ -60,6 +64,8 @@ Bir kısım davalıların temyiz itirazı açıklanan nedenden ötürü yerinded
 
 ## Yargıtay 1. HD 2017/6033 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385016300)
+
 Dava elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davacı, maliki olduğu ... ada ... parsel sayılı taşınmazı üzerinde kurulu üç katlı binanın dış cephesine davalı tarafından 1993 yılında başka binalara telefon hattı çekmek için telefon kablosu döşendiğini, telefon kablolarının binanın görünümünü olumsuz etkilediğini ve çevreye görüntü kirliliği oluşturduğunu, ayrıca kabloların binaya monte edilebilmesi için binanın birçok yerden delindiğini ve maddi zarara uğradığını ileri sürerek davalıya ait telefon kablolarının dava konusu taşınmaz üzerinden alınarak müdahalenin sona erdirilmesine ve haksız kullanım nedeniyle 15.000 TL ecrimisil bedelinin davalıdan tahsiline karar verilmesini istemiştir.
@@ -75,6 +81,8 @@ Hal böyle olunca; davacının Türk Medeni Kanununun 683.maddesinden kaynaklana
 Davacının temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/3627 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350015400)
 
 Davacı, maliki olduğu 246 ada 110 parsel sayılı taşınmazda yer alan 23 no.lu bağımsız bölüme davalının eşya koymak suretiyle müdahale ettiğini, ihtara rağmen işgalini sürdürdürüp ecrimisil de ödemediğini ileri sürerek, haksız el atmasının önlenmesine ve 10.500 TL ecrimisilin davalıdan tahsiline karar verilmesini istemiştir.
 
@@ -92,6 +100,8 @@ Hemen belirtilmelidir ki el atma ve olgusu haksız eylem niteliğinde olup, bir 
 
 ## Yargıtay 5. HD 2016/10423 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208042400)
+
 Dava, taşınmaza kamulaştırmasız el atılması nedeniyle maddi tazminat istemine ilişkindir.
 
 Mahkemece davanın yargı yolu nedeniyle reddine karar verilmiş; hüküm, taraf vekillerince temyiz edilmiştir.
@@ -105,6 +115,8 @@ Mahkemece davanın yargı yolu nedeniyle reddine karar verilmiş; hüküm, taraf
 Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/9751 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/271535300)
 
 Dava, elatmanın önlenmesi, eski hale getirme ve tazminat isteklerine ilişkindir.
 
@@ -128,9 +140,13 @@ Davalı vekilinin temyiz itirazı açıklanan nedenlerden ötürü yerindedir. K
 
 ## Yargıtay 8. HD 2016/9324 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/213484400)
+
 Mahkeme tarafından yapılan nitelendirmeden de anlaşıldığı üzere taraflar arasındaki uyuşmazlık, mülkiyet hakkına dayalı elatmanın önlenmesi, ecrimisil isteğine ilşikin bulunduğuna göre, Yargıtay Kanunu'nun 14. maddesi uyarınca Yargıtay Başkanlar Kurulu'nun 16.01.2016 tarih, 2016/1 sayılı Kararı ile hazırlanıp, 26.02.2016 tarihli ve 29636 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Yargıtay Büyük Genel Kurulu'nun 12.02.2016 gün 2016/1 sayılı Hukuk Daireleri'ne ilişkin iş bölümü uyarınca, hükme yöneltilen temyiz itirazlarının incelenmesi Yargıtay (1.) Hukuk Dairesi'nin görevine girmektedir. 11 Nisan 2015 tarihi itibariyle Resmi Gazete'de yayımlanarak yürürlüğe giren 6644 sayılı Kanun'un 2. maddesi ile değişik 2797 sayılı Kanun'un 60. maddesinin 1. ve 3. fıkraları uyarınca dosyanın görevli Daireyi belirlemek üzere HUKUK İŞBÖLÜMÜ İNCELEME KURULUNA GÖNDERİLMESİNE, 27/05/2016 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2016/8283 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209595700)
 
 Davalı Kooperatif cevabında, amacın gerçekleştirdiğini konutları bitirip üyelerine dağıtımını yaptığını, ferdi mülkiyete geçilmiş olduğunu, kıyının bitişiğindeki konutlarla mülkiyet bağının kalmadığını, el atıldığı iddia edilen alanı ve muhtesatları ferdi mülkiyet sahiplerinin site olarak kullandıklarını hatta konutların içinde olduğu site yönetiminin davacı idareye ecrimisil ödemesi yaptığını savunarak; hakkındaki davanın reddini istemiştir.
 
@@ -141,6 +157,8 @@ TMK’nun 683. maddesi uyarınca taşınmaza maliki tarafından açılan elatman
 Bu durumda; toplanan delillerden; idarenin el atmayı tespit ettiği tarihten önce davalı kooperatif amacını gerçekleştirip, ferdi mülkiyete geçtiğine ve elatılan taşınmaz ferdi mülkiyet sahiplerinin oluşturduğu site tarafından kullanıldığına, hatta bu site yönetimi davaya konu taşınmaz nedeniyle davacı idareye ecrimisil ödediğine göre; davanın artık sitedeki ferdi mülkiyet sahiplerine veya usul ekonomisi gereği site yönetimine karşı açılması gerekir. Davalı kooperatifi davada taraf sıfatı yoktur. Bu nedenle HMK. 114/1-d ve 115/2 maddeleri uyarınca davanın usulden reddine karar verilmek üzere; temyiz edilen hükmün bozulması gerektiğini düşünüyor. Sayın çoğunluğun onama kararına katılmıyoruz. 05.05.2016 …
 
 ## Yargıtay 1. HD 2016/3737 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/212400800)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -160,6 +178,8 @@ Davalıların temyiz itirazları değinilen yönler itibariyle yerindedir. Kabul
 
 ## Yargıtay 1. HD 2016/3118 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210608600)
+
 Dava, mülkiyet hakkına dayalı el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davacı şirket, davalı Şirketin taşınmazının bir bölümünü haksız olarak kullandığını ileri sürerek eldeki davayı açmıştır.
@@ -173,6 +193,8 @@ Yukarıda değinilen hususlar çerçevesinde somut olaya bakıldığında; eldek
 Davalının temyiz itirazı açıklanan nedenle yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2016/3061 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210746800)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, eski hale getirme tazminatı, ecrimisil isteklerine ilişkindir.
 
@@ -192,9 +214,13 @@ Davacıların temyiz itirazı açıklanan nedenlerden ötürü yerindedir. Kabul
 
 ## Yargıtay 8. HD 2016/2851 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/163090600)
+
 Mahkeme tarafından yapılan nitelendirmeden de anlaşıldığı üzere taraflar arasınaki uyuşmazlık, davacı adına tapuda kayıtlı ... ada, ... ve ... parsellere davalının müdahalesi sebebiyle mülkiyet hakkına dayalı olarak açılan elatmanın önlenmesi ve ecrimisil isteğine ilişkin bulunduğuna göre, Yargıtay Kanunu 14. maddesi uyarınca Yargıtay Birinci Başkanlık Kurulu'nun 19.01.2015 tarih 2015/8 sayılı Kararı ile hazırlanıp, 22.01.2015 tarihli ve 29244 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Hukuk Daireleri'ne ilişkin iş bölümü uyarınca, hükme yöneltilen temyiz itirazlarının incelenmesi Yargıtay (1.) Hukuk Dairesi'nin görevine girmektedir. 11 Nisan 2015 tarihi itibariyle Resmi Gazete'de yayımlanarak yürürlüğe giren 6644 Sayılı Kanun'un 2. maddesi ile değişik 2797 Sayılı Kanun'un 60. maddesinin 1. ve 3. fıkraları uyarınca dosyanın görevli daireyi belirlemek üzere HUKUK İŞBÖLÜMÜ İNCELEME KURULU'NA GÖNDERİLMESİNE, 19.02.2016 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2016/2470 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203760200)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -216,6 +242,8 @@ Somut olaya gelince; taraflara arasında kat karşılığı inşaat sözleşmesi
 
 ## Yargıtay 8. HD 2016/1723 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/156723900)
+
 Davacı, ... (...) Mahallesi, ... Sokakta ... ada,... parsel sayılı taşınmazı müvekkilinin eşinin 1978 yılında satın aldığını, daha sonra üzerindeki evi muhtarlık senedi ile kendisine devrettiğini, davalının evin yanındaki bahçesine tecavüz edip ağaçlarına zarar verdiğini, giriş için verilen yere ilaveler yaparak bahçeye taşmalar yaptığını ileri sürerek, müdahalesinin men'ine karar verilmesini istemiştir.
 
 …
@@ -231,6 +259,8 @@ Uyuşmazlık konusu 114 m2'lik bahçe ve 45,91 m2’lik depo niteliğindeki yap�
 O halde davacının talebine ilişkin incelemenin TMK'nun 981 ve devamı maddeleri uyarınca Sulh Hukuk Mahkemesi'nde usulüne uygun yapılarak sonucuna göre karar verilmesi için ‘dava dilekçesinin görev yönünden reddi’ yerine, yazılı şekilde davanın esastan reddine karar verilmesi isabetsiz olup …
 
 ## Yargıtay 1. HD 2015/10685 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139796300)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve yıkım isteklerine ilişkindir.
 
@@ -250,6 +280,8 @@ Davacının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü il
 
 ## Yargıtay 20. HD 2015/8509 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/133075400)
+
 Davacılar 24.12.2012 tarihli dilekçe ile; 69 ada 7 sayılı parselde bağımsız bölüm maliki olduklarını, komşu parselde bulunan binada lokanta işleten davalının, 69 ada 7 sayılı parseldeki apartmanın duvarına izinsiz olarak saç boru monte ettiğini, bu işlemden zarar gördüklerini ileri sürerek, elatmanın önlenmesi, saç borunun kaldırılması ve tazminat istemleriyle asliye hukuk mahkemesinde dava açmışlardır.
 
 …
@@ -257,6 +289,8 @@ Davacılar 24.12.2012 tarihli dilekçe ile; 69 ada 7 sayılı parselde bağıms�
 634 sayılı Kat Mülkiyeti Kanununun Ek-1. maddesi görev konusunu özel olarak düzenlemiş, bu Kanunun uygulanmasından doğan her türlü anlaşmazlığın sulh hukuk mahkemelerinde çözümleneceğini kurala bağlamıştır. Somut olayda; davalı çekişmeli ana binada bağımsız bölüm maliki olmayıp, komşu parseldeki binada ticari faaliyette bulunduğu gibi, davacılarda TMK'nın 683. ve devamı maddelerinde düzenlenen mülkiyet hakkına dayalı olarak el atmanın önlenmesi, eski hale getirme ve tazminat isteğinde bulunmuşlardır. Bu istemler Kat Mülkiyeti Kanunundan kaynaklanmadığından anılan Kanunun uygulama olanağı bulunmamaktadır. Malvarlığı haklarına ilişkin olan davaya, dava tarihinde yürürlükte bulunan 6100 sayılı HMK'nın 2. maddesi uyarınca uyuşmazlığın asliye hukuk mahkemesinde görülüp, sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 1. HD 2015/6937 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139036000)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi isteğine ilişkindir.
 
@@ -273,6 +307,8 @@ Bilindiği ve Türk Medeni Kanunu'nun 683. maddesinde düzenlendiği üzere; ela
 Dahili davalılar (davalı mirasçıları) vekilinin temyiz itirazları yerindedir. Kabulüyle hükmün belirtilen nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/3218 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119955100)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -292,6 +328,8 @@ Davalının temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nede
 
 ## Yargıtay 1. HD 2015/2227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/128888300)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve yıkım isteklerine ilişkindir.
 
 Davacı, kayden malik olduğu 103 ada 50 Parsel sayılı taşınmaza 47 ve 48 parsel sayılı taşınmaz maliklerinin yakını olan davalının, beton döküp duvar yapmak ve taşınmazın yola olan cephesini kapatmak suretiyle müdahale ettiğini ileri sürerek elatmanın önlenmesi ile duvarın yıkımına karar verilmesini istemiştir.
@@ -307,6 +345,8 @@ Bilindiği üzere, elatma haksız eylem niteliğinde olup, elatmanın önlenmesi
 Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/2143 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120109600)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, ecrimisil ve eski hale iade isteklerine ilişkindir.
 

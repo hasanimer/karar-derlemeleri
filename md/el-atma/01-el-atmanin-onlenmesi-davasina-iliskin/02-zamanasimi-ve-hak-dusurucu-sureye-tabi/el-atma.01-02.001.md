@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2019/973 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570922400)
+
 Davalılar ... ve arkadaşları vekili, davacının malik sıfatıyla zilyet olmadığını belirterek davanın reddine karar verilmesini savunmuştur.
 
 Mahkemece, Anayasa Mahkemesinin iptal kararından sonra TMK’nun 713/2. maddesinde "ölüm" nedenine dayanılarak tescil davasının açılamayacağı, diğer yandan tapu kütüğünden malikinin kim olduğunun anlaşıldığı gerekçeleriyle açılan davanın reddine karar verilmiştir.
@@ -39,6 +41,8 @@ Bundan ayrı, TMK’nın 992. maddesi gereğince, taşınmaz üzerindeki mülkiy
 
 ## Yargıtay HGK 2012/443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/52606600)
+
 Mahkemece, davanın kabulüne karar verilmiş, hüküm davalı idare vekilince temyiz edilmiştir.
 
 …
@@ -51,6 +55,8 @@ SONUÇ: Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararını
 
 ## Yargıtay HGK 2007/72 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16236400)
+
 Kazandırıcı zamanaşımı zilyetliği ile bir taşınmazın mülk edinilmesinin en önemli koşullarından biri de, "malik sıfatı ile - malik niteliğiyle" zilyetliğin dava-sız (çekişmesiz - nizasız) olarak sürüp devam etmesidir. O halde kanun koyucu hangi durumları niza-çekişme olarak nitelendirmek istemiştir? Kanunlarda bu yönde bir açıklık bulunmamaktadır. Ancak TMK'nın 713/1. fıkrasında "davasızlıktan" söz edilmektedir. Gerek yargısal alanda ve gerekse öğretide (doktrinde) üstün tutulan görüşe göre, ancak "dava" halinde nizanın (çekişmenin) varlığı kabul edilmektedir. Yani çekişme ancak dava ile oluşmaktadır. Şu hale göre zamanaşımını kesen bir davadan söz edebilmek için taşınmazın zilyedine karşı gerçek malik tarafından HUMK'nın öngördüğü bir istihkak ya da elatmanın önlenmesi veya başka bir davanın açılması ve bu davanın da başarı ile sonuçlanması gerekir.
 
 Öte yandan, 3091 sayılı Kanuna göre idari makamların verdiği men kararları, Noter'den çekilen ihtarnameler, Hazine adına, taşınmazı tasarruf edenlere gönderilen ecrimisil ihbarnameleri ile davalı tarafın ileri sürdüğü mülkiyet ya da davanın reddi yönündeki defilerin çekişme (dava) sayılamayacağı aynı çevrelerce ağırlıklı olarak kabul edilmektedir. (HGK'nın 29.11.1969 tarih ve 1967/7-656 E., 1969/82 K.; 12.05.1973 tarih ve 1969/8-808 E., 1973/403 sayılı kararlan ile, Onyedinci Hukuk Dairesinin 23.11.1992 gün ve 1992/2498 E., 10615 K.; Onaltıncı Hukuk Dairesinin 17.09.1990 gün ve 1989/16076 E., 1990/11850 K.; Yedinci Hukuk Dairesinin 04.06.1986 gün ve 11300/5985 K., aynı Dairenin 20.12.1990 gün ve 12149/15575 K.; A.N. Ozanalp, Tapulama Kanunu Şerhi, 1976 Bası, sayfa 393 ve devamı, Oğuzman/Seliçi, Eşya Hukuku, 1978 Bası, sayfa 411 ve devamı). Bunun dışında TMK'nın 713. maddesinin Hükümet gerekçesinde: "...İsviçre Medeni Kanunu'nun şerh ve tevsii eden bütün hukuk bilginlerinin birleştikleri gibi, zilyede karşı bir istihkak veya müdahalenin önlenmesi davası açılmış olmasının niza (çekişme) sayılacağı" açıklanmıştır (Eraslan Özkaya, Gerekçeli-Kacşı-laştırmalı TMK, 2002 baskı, sayfa 619).
@@ -61,6 +67,8 @@ Kaldı ki, hak sahibi davalıların daha önce açılan tescil davası reddedilm
 Sonuç: Davacı vekilinin temyiz itirazlarının reddi ile yerel mahkemenin direnme kararının yukarıda açıklanan gerekçelerle (ONANMASINA)
 
 ## Yargıtay HGK 2006/97 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76662400)
 
 Dava, kamulaştırma bedelinin artırılması istemine ilişkindir.
 
@@ -83,6 +91,8 @@ Açıklanan maddi olgu ve davanın bu aşamaları itibariyle uyuşmazlık; maddi
 SONUÇ: Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukarıda ve Özel Daire bozma kararında gösterilen nedenlerden dolayı H.U.M.K.nun 429. Maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2005/352 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16421600)
 
 Mahkemece davanın kabulüne karar verilmiş, hüküm davalı idare vekilince temyiz edilmiştir.
 
@@ -134,6 +144,8 @@ Temyizen incelenen Bölge Adliye Mahkemesi kararının bozmaya uygun olduğu, ka
 
 ## Yargıtay 5. HD 2025/15510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197767100)
+
 Davalı idare vekili cevap dilekçesinde özetle; 13.01.1961 tarihli 221 sayılı Kanun gereği kamulaştırılan ve kanunun yürürlüğe girmesi ile yasal olarak kamuya tahsis tarihi itibari ile kamulaştırılmış sayılan, kamulaştırılmış sayılmakla tescilden önce kanunun yürürlüğe girdiği 1961 tarihinde mülkiyeti müvekkil idareye geçen dava konusu taşınmazın bir kısmının 221 sayılı Kanun'un 1 ve 7 nci maddesi gereğince Üsküdar 2.
 
 …
@@ -145,6 +157,8 @@ Dairemizce yapılan inceleme sonucunda; dava konusu taşınmazın tamamına 09.1
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Mahkeme kararının ONANMASINA …
 
 ## Yargıtay 5. HD 2025/10373 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171285700)
 
 Davacılar vekili dava dilekçesinde özetle; dava konusu İstanbul ili, ..., ... Mahallesi 798 ada 36 parsel (eski 798 ada 15 parsel) sayılı taşınmazın müvekkillerinin murisi ... adına kayıtlı iken usulüne uygun bir kamulaştırma yapılmaksızın hukuka aykırı olarak tapu kaydının iptal edildiğini, kendilerine herhangi tebligat yapılmadığı gibi, herhangi bir bedel de ödenmediğini, tescil davasında taraf teşkili sağlanmaksızın karar verildiğini belirterek kamulaştırmasız el atılan taşınmazların bedelinin davalı idareden tahsilini talep etmiştir.
 
@@ -163,6 +177,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle u
 
 ## Yargıtay 5. HD 2025/10186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163198100)
+
 Davalı ... vekili cevap dilekçesinde özetle; davanın reddine karar verilmesini istemiştir.
 
 …
@@ -178,6 +194,8 @@ Asliye Hukuk Mahkemesinin 2004/385 Esas, 2006/209 Karar sayılı dosyasında aç
 Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/9866 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173677300)
 
 Davacı vekili dava dilekçesinde özetle; ... ili, ..., ... köyü 342 parsel sayılı taşınmaza kamulaştırma yapılmaksızın fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmazın bedelinin davalı idareden tahsilini talep etmiştir.
 
@@ -196,6 +214,8 @@ gerekirken, yazılı şekilde davanın kabulüne karar verilmesi nedeniyle karar
 
 ## Yargıtay 5. HD 2025/2221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1165129900)
+
 Davacılar vekili dava dilekçesinde özetle; dava konusu ... (................) Mahallesi 1001 ada 25 parsel sayılı taşınmaza davalı idarece usulüne uygun kamulaştırma yapılmaksızın fiilen el atıldığından bahisle kamulaştırmasız el atmaya dayalı taşınmaz bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -212,6 +232,8 @@ Noterliğince ...yevmiye numaralı noter tebligatının bir kısım davacılar .
 
 ## Yargıtay 8. HD 2024/6853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111213900)
+
 Davacılar vekili; kamulaştırmasız el atma davalarında zamanaşımı ya da hak düşürücü süre olmadığını, taşınmazın geçmişte ve hali hazırda orman olmadığını, Hazine tarafından müvekkillerinin tapulu taşınmazlarına el konulmuş olması ve taşınmazların büyük hisseli paydaşı olmalarının yanında 20 yılı aşkın süredir nizasız ve çekişmesiz malik sıfatıyla tasarruf etmeleri nedeniyle tümü üzerinde halen mülkiyet haklarının bulunduğu iddiasıyla kararı istinaf etmiştir.
 
 …
@@ -224,6 +246,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 5. HD 2024/6134 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062102900)
+
 Davalı idare vekili cevap dilekçesinde özetle; kamu hizmeti gereği olarak...Çevreyolu yapımı nedeniyle Beyoğlu ilçesi, ...
 
 …
@@ -235,6 +259,8 @@ Ebülhayir Ahmet Efendi Vakfının 1970 yılında mazbut vakıf olması nedeniyl
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2023/7117 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/946343800)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -255,6 +281,8 @@ Davaya konu taşınmaz 221 sayılı Kanun gereğince hükmen idare adına tescil
 Bu nedenle 28.07.2023 tarihli ve 32262 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 04.05.2023 tarihli ve 2019/93 Esas, 2023/87 Karar sayılı kararı ile 2942 sayılı Kanun’a eklenen ek madde 3’ün birinci fıkrasının ikinci cümlesindeki; “…dava tarihi itibarıyla…” ibaresinin iptal edildiği gözetilerek davaya konu taşınmazın idare adına tescil edildiği tarih, değerlendirme tarihi olarak esas alınmak ve o tarihteki nitelikleri gözetilmek suretiyle tespit edilecek bedelin Türkiye İstatistik Kurumu tarafından açıklanan Yurt İçi Üretici Fiyat Endeksi tablosundaki değişim oranları esas alınmak suretiyle “karar tarihi” itibarıyla güncellenmesi sonucu ortaya çıkan bedelin hak sahibine ödenmesi gerektiği düşüncesi ile kararın bozulması kanaatinde olduğumdan sayın çoğunluğun el atma tazminatını dava tarihi itibarıyla belirleyen kararın onanmasına ilişkin görüşüne katılamıyorum. 12.09.2023 …
 
 ## Yargıtay 5. HD 2018/18044 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/450546000)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 

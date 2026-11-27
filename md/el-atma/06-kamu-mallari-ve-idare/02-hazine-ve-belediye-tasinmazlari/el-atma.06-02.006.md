@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2014/4455 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106606400)
+
 Davacı dava ve birleşen dava dilekçesinde, imar planında kamu hizmetine okul alanı ve yol olarak ayrılan dava konusu taşınmazın, bir kısmının park olarak kullanıldığını ileri sürerek kamulaştırmasız el atma nedeniyle şimdilik 10.000 TL’nin davalılardan tahsilini istemiş; mahkemece asıl dosya ile birleşen dosya yönünden mahkemenin görevsizliği nedeniyle dava dilekçesinin reddine karar verilmiş; karar davacı vekili tarafından temyiz edilmiş; mahkemece adli tatilde temyiz süresi işlediği gerekçesiyle temyiz talebinin reddine karar verilmiş; mahkemece verilen ek karar davacı vekilince temyiz edilmiştir.
 
 …
@@ -31,6 +33,8 @@ Mahallinde yapılan keşif sonucu düzenlenen bilirkişi raporunda dava konusu t
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/3458 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84090000)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve yıkım isteklerine ilişkin olup, mahkemece elatmanın önlenmesi isteğinin kabulüne karar verilmiş, hüküm davalı tarafından temyiz edilmiştir.
 
@@ -48,6 +52,8 @@ Davalının temyiz itirazları değinilen yön itibariyle yerindedir. Kabulüyle
 
 ## Yargıtay 20. HD 2014/2376 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/375555800)
+
 Davacı Orman Yönetimi, 04.07.2013 tarihli dilekçesiyle tapuda davalı adına kayıtlı bulunan ... 107 ada 4, 5, 9, 10, 11 ve 12 parsel sayılı taşınmazların, yörede 24/07/2007 - 25/01/2008 tarihleri arasında ilân edilerek kesinleşen orman kadastro sınırları içinde kaldığını ileri sürerek, davalı adına olan tapu kayıtlarının iptali ile orman niteliğiyle Hazine adına tescilini ve elatmanın önlenmesi istemiyle dava açmıştır.
 
 Mahkemece, davanın kısmen kabulüne; dava konusu taşınmazların tapu kayıtlarının iptali ile orman vasfıyla Hazine adına tesciline, elatmanın önlenmesi isteminin reddine karar verilmiş, hüküm davacı Orman Yönetimi tarafından elatmanın önlenmesi istemine; davalı Hazine tarafından esasa yönelik temyiz edilmiştir.
@@ -59,6 +65,8 @@ Dava, kesinleşen orman kadastro sınırları içinde kalan taşınmazın, tapu 
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye, uzman orman bilirkişi tarafından kesinleşmiş orman kadastro haritasına dayalı olarak yöntemine uygun biçimde yapılan uygulama ve araştırmada çekişmeli taşınmazın tamamının kesinleşen orman sınırları içinde kalan yerlerden olduğu anlaşıldığına, davanın açıldığı tarihte dava konusu taşınmaz Hazine adına tapuda kayıtlı olup, haksız bir tasarruf ve elatmadan söz edilemeyeceğine göre, taşınmazın orman niteliği ile Hazine adına tesciline ve elatmanın önlenmesine ilişkin talebin reddine karar verilmesinde isabetsizlik bulunmadığına göre, yerinde görülmeyen tüm temyiz itirazlarının reddi ile usûl ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının Orman Yönetimine yükletilmesine, Hazineden harç alınmasına yer olmadığına 25.02.2014 günü oy birliği ile karar verildi.
 
 ## Yargıtay 20. HD 2014/491 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107356500)
 
 Davacı G.. T.. ve arkadaşları 20.08.2001 tarihli dilekçeleriyle, Kahramanmaraş M.. M... bulunan sınırlarını bildirdikleri 140 ve 150 dönüm yüzölçümündeki iki parça taşınmazın, 40 yıldan bu yana malik sıfatıyla kendilerinin zilyetliğinde olduğu, yararlarına zilyetlikle edinme koşullarının oluştuğu, adlarına tapuya tescili iddiasıyla dava açmışlardır.
 
@@ -78,6 +86,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacılar, katılan ve Hazinenin temy
 
 ## Yargıtay 18. HD 2013/17117 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/796909100)
+
 3-11.10.2011 gün ve 662 sayılı Kanun Hükmünde Kararname ile 6200 sayılı ...'nün Teşkilat ve Görevleri Hakkında Kanun'a eklenen geçici 9. maddenin 3. paragrafında ise DSİ'nin mülkiyetinde iken 5018 sayılı Kanunun geçici 12. maddesi gereğince Hazineye devredilen ve DSİ faaliyetleri için Hazine adına kamulaştırılan taşınmazlardan bu maddenin yayımı tarihi itibarıyla satışı yapılmamış, başka kurum ve kuruluşlara tahsis edilmemiş ve devredilmemiş olanların mülkiyetinin, bu maddenin yayımı tarihinden itibaren altı ay içinde DSİ adına re'sen tescil edileceği tescil işlemi nedeniyle hiç bir bedel ve harç alınmayacağı hükmünü içerdiğinden, kamulaştırmasız el atılan taşınmazın davalı ... adına tesciline karar verilmesi gerekirken Hazine adına tesciline hükmedilmesi, …
 
 …
@@ -85,6 +95,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacılar, katılan ve Hazinenin temy
 Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2013/14905 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795109300)
 
 Bu nedenle; davalı ... Belediyesi tarafından davacının mülkiyet hakkına getirilen kısıtlamanın, dava konusu taşınmazın, genel ve düzenleyici bir işlem olan imar planıyla kamu hizmetine özgülenmesinden ve bu planda öngörülen kamulaştırma işlemlerinin zamanında yapılmamasından kaynaklandığının kabulü ile idari işlem ve eylemden doğan zarara ilişkin davanın Uyuşmazlık Mahkemesi kararı da dikkate alınarak 2577 sayılı İdari Yargılama Usulü Kanunu hükümleri uyarınca idari yargı yerinde çözümlenmesi gerektiğinden 6100 sayılı Hukuk Muhakemeleri Kanununun 114/1-b ve 115/2. maddeleri uyarınca davanın usulden reddine karar verilmesi gerekirken, yazılı şekilde hüküm kurulması, …
 
@@ -95,6 +107,8 @@ Fen bilirkişi raporundan, dava konusu taşınmazın 5,39 m² lik kısmına Çuk
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 20. HD 2013/10282 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/611987200)
 
 Davacılar vekili, ...Köyü, 1033 parselin (4150 m²) tarafların ortak murisi ...’dan kaldığını, onun sağlığında davalıların taşınmaza restoran, kafeterya yapmak suretiyle diğer mirasçıların yararlanmasına engel olduklarını iddia ederek elatmanın önlenmesi ve kal istemişlerdir. Müdahil Hazine ise, taşınmazın 6831 sayılı Kanunun 2/B madde kapsamında kalan yerlerden olduğu iddiasıyla tapu kaydının iptalini istemiştir.
 
@@ -113,6 +127,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davacı ... ve arkadaşları vekili il
 
 ## Yargıtay 1. HD 2013/8148 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/249989700)
+
 Davacılar; miras bırakanları olan babaları .... 'ın paylı maliki olduğu 13198 ada 1 parsel ve bu parselin geldisi olan 12731 ada 1 parsel sayılı taşınmazda .... Belediyesine ait park ve ....'e ait çiçek seraları, evler ve müştemilatlarının bulunduğunu, taşınmazı kullanmalarının hukuken mümkün olmadığını ileri sürerek dava tarihinden geriye doğru 5 yılık süre için ecrimisil isteğinde bulunmuşlardır.
 
 …
@@ -128,6 +144,8 @@ Mahkemece, .... Belediyesinin fiili el atmasının bulunmadığı, taşınmazın
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye , mahkemece davanın reddi yolunda kurulan hükümde bir isabetsizlik bulunmamaktadır. Ancak;Muratpaşa Belediye Başkanlığının çekişmeli taşınmaza fiili el atmasının bulunmadığı anlaşıldığından anılan belediye aleyhine açılan davanın reddine karar verilmesi gerekirken hüküm yerinde ... aleyhine açılan davanın husumete ilişkin dava şartı yokluğundan reddine karar verilmesi doğru değil ise de, bu husus hükmün bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden, hükmün “1 numaralı bölümünün” tamamen çıkarılarak yerine “...
 
 ## Yargıtay 14. HD 2013/7119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523842300)
 
 Dava, mera olarak sınırlandırılan 519 parsel sayılı taşınmaza müdahalenin önlenmesi, üzerinde bulunan bina ve zeytin ağaçlarının kal'i, ayrıca eski hale getirme bedelinin tahsili isteğine ilişkindir.
 
@@ -145,6 +163,8 @@ SONUÇ: Yukarıda (1) numaralı bent uyarınca davalı vekilinin diğer temyiz i
 
 ## Yargıtay 20. HD 2013/2209 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813047900)
+
 Hükmüne uyulan bozma kararında özetle; "Asliye Hukuk Mahkemesinde açılan elatmanın önlenmesi davasına konu olan taşınmazların hangi parseller olduğu, tesbit tutanağı düzenlenip düzenlenmediğinin belirlenmesi, malik haneleri açık ise tüm tutanaklar getirtilerek davaya birlikte bakılması, kabule göre de, taşınmazların davalının babası adına tapuda kayıtlı olduğuna, davalının babası muris ...’nın 1941 yılında öldüğüne ve terekesi iştirak halinde mülkiyet hükümlerine göre paydaşlara geçeceğine göre, paydaşlardan ...’nin yaptığı satışın geçersiz olduğu halde ... payının davacı adına tescile karar verilmesinin isabetsiz olduğu” gereğine değinilmiştir.
 Mahkemece, bozma kararına uyulduktan sonra müdahil Orman Yönetiminin davasının reddine, davacı ...’in kök muris ...’dan, ...’ye, kalan 1/4 hisseyi ölünceye kadar bakma akti ile kendisine kaldığını iddia ettiği parsellere yönelik elatmanın önlenmesinin reddine (25.08.1951 tarih 264 yevmiye no senet geçersiz kabul edildiğinden) 484 nolu parselin ... mirasçıları adına tesciline, 828, 829, 830, 847 ve 848 nolu parsellerin evvelce bütün iken 9 hisseye ayrıldığı, 3 hissesinin Aralık 1950 tarih 49 nolu tapu ile ...’e, 3 hissesinin Ağustos 1926 tarih 8 nolu tapu ile ...’e, 3 hissesinin Mayıs 1962 tarih 55 nolu tapu ile ...’a kayıtlı olup, ... ve ...’in hisselerine itiraz edilmediği, Ali oğlu ...’dan gelen 3/9 hissesinin dava edildiği anlaşıldığından tesbit tutanağının iptali ile 3/9 ...’dan gelen payın ... mirasçıları adına tesciline 1144, 1145, 1146, 1147 ve 1148 nolu parsellerin yukarıda bahsedilen tapu kaydı kapsamındaki yerlerden miktar fazlası olarak ayrıldığı, orman ve mera olmadığı, tarla niteliğinde olduğu anlaşıldığından Hazine adına tesciline şeklinde hüküm kurulmuş; Hazine ve Orman Yönetimi ile davcılardan ... tarafından hükmün temyiz edilmesi üzerine, Yargıtay 20.
 Hukuk Dairesinin 27/12/2005 gün ve 2005/12570 - 16493 sayılı kararı ile 484 sayılı parsel yönünden onanmış, diğer parseller yönünden bozulmuştur.
@@ -154,6 +174,8 @@ Hukuk Dairesinin 27/12/2005 gün ve 2005/12570 - 16493 sayılı kararı ile 484 
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince, uzman orman bilirkişi kurulu tarafından eski tarihli hava fotoğrafları ve memleket haritasına dayalı olarak yöntemine uygun biçimde yapılan inceleme ve araştırma sonucunda çekişmeli taşınmazların orman sayılan yerlerden olduğu anlaşıldığına ve yazılı biçimde hüküm kurulmasında bir isabetsizlik bulunmadığına göre, yerinde görülmeyen temyiz itirazlarının reddi ile usûl ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2012/13354 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/624164100)
 
 Davacılar ..., ..., ... ve ... vekili Avukat ... vasıtasıyla verdikleri dava dilekçesinde, davalı sıfatıyla ... aleyhine açtıkları davada, ... Köyü ... mevkiinde bulunan 1937 yılı 60 hesap numaralı vergi kaydı kapsamındaki 59754,5 m2 yüzölçümündeki, aynı yerdeki 71 hesap numaralı vergi kaydı kapsamındaki 82737 m2 yüzölçümündeki taşınmazın ortak muris ...'a intikal ettiği ve payları eşit olduğu halde, davalının kendi paylarına da el attığından söz ederek, miras paylarına el atmasının önlenmesini istemiştir. Davacı ...
 
@@ -166,6 +188,8 @@ Davacılar ..., ..., ... ve ... vekili Avukat ... vasıtasıyla verdikleri dava 
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak hüküm kurulmuş olduğuna göre, yerinde görülmeyen temyiz itirazlarının reddiyle, usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2012/5777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541998600)
 
 Dava, kamulaştırmasız el atmanın önlenmesi ve kal istemine ilişkindir.
 
@@ -180,6 +204,8 @@ Belirtilen nedenle; el atmanın taşınmazın imar planındaki konumundan kaynak
 Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 13. HD 2012/1545 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/624454600)
 
 Davacı vekili, müvekkili tarafından davalıların hissedar oldukları, tapuda .......
 
@@ -198,6 +224,8 @@ SONUÇ: Birinci bentte açıklanan nedenlerle davacının sair karar düzeltme i
 
 ## Yargıtay 5. HD 2011/16453 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1036630800)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiş, hüküm davalı idare ... vekilince temyiz edilmiştir.
@@ -212,6 +240,8 @@ Davalılardan ... vekilinin temyiz itirazları yerinde olduğundan hükmün aç�
 
 ## Yargıtay 20. HD 2011/12744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/822507700)
+
 Mahkemece davanın kabulüne, ... İlçesi ... köyünde yer alan, 26.01.2007 tarihli bilirkişi krokisinde (A) harfi ile gösterilen Doğusu: Orman, Batısı ve Güneyi: tescil harici taşınmaz, Kuzeyi: Taşocakları ile çevrili 13283.93 m2 yüzölçümündeki taşınmazın orman niteliği ile Hazine adına tesciline, davalının el atmasının önlenmesine karar verilmiş, bu karar davalı gerçek kişi vekili tarafından temyiz edilmiştir.
 
 …
@@ -219,6 +249,8 @@ Mahkemece davanın kabulüne, ... İlçesi ... köyünde yer alan, 26.01.2007 ta
 Açıklanan nedenlerle, davanın kabulü ile taşınmazın orman niteliğinde Hazine adına tescili yolunda hüküm kurulmasında isabetsizlik bulunmamaktadır. Ancak, Orman Yönetiminin davacı sıfatının bulunmadığı, Hazinenin açtığı tescil ve ormana el atmanın önlenmesi istemli davada yasal hasım durumunda olduğu gözönünde bulundurulmadan, davası kabul edilen Hazine yanında davalı ... Yönetimi lehine de vekalet ücretine hükmedilmesi doğru değil ise de bu yanılgının giderilmesi, hükmün bozulmasını ve yargılamanın tekrarını gerektirmediğinden hükmün düzeltilerek onanması gerekmiştir. Bu nedenle; hükmün 7. paragrafının hükümden çıkarılarak düzeltilmesine ve hükmün 6100 sayılı Yasanın değişik 3. maddesi göndermesiyle H.Y.U.Y.'nın 438/7.
 
 ## Yargıtay 20. HD 2011/10329 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/818592200)
 
 Orman Yönetimi tarafından 12.03.2003 tarihinde Hazine aleyhine ... Beldesi 2522 sayılı parselin 2600 m2 bölümünün öncesinin ve halen eylemli orman olduğunun tesbiti istemiyle ...
 Asliye Hukuk Mahkemesinde Hakem sıfatıyla açtığı davanın reddine ilişkin 09.03.2005 gün ve 2003/85-82 sayılı kararı, mahkemenin 23.06.2005 gün ve 2003/85-82 sayılı kararı ile Orman Yönetiminin itirazı red edilerek kesinleşmişse de, 3533 sayılı Yasanın değişik 4. maddesi gereğince Hakem tarafından taşınmazın aynına ilişkin karar verilemeyeceğinden, kesinleşen bu hakem kararı somut olay için kesin hüküm oluşturmayacağı, 18.11.2003 tarihinde yürürlüğe giren 4999 sayılı Yasa ile değişik 6831 sayılı Yasanın 11/5. maddesi gereğince, 20.06.1973 tarihli ve 1744 sayılı Yasayla değişik 2 nci maddesi, 23.09.1983 tarihli ve 2896 sayılı, 05.06.1986 tarihli ve 3302 sayılı Yasalarla değişik 2 nci maddesinin birinci fıkrasının (B) bendi uygulamaları ile orman sınırları dışına çıkarılan, ancak fiilen orman olduğu Orman Genel Müdürlüğünce tespit edilen yerlerin, talep üzerine Maliye Bakanlığınca Orman Genel Müdürlüğüne tahsis edileceği, Tahsisi yapılan bu yerlerin Hazine adına tapuya orman vasfıyla tescil edileceği hükmü gereğince, bu yerin orman olarak kullanılmak üzere tahsisinin istenmesi halinde, Hazine tarafından orman olarak kullanılmak üzere Orman Yönetimine tahsisinin zorunlu olduğu, yapılan
@@ -230,11 +262,15 @@ Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak 
 
 ## Yargıtay 20. HD 2011/9700 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/819448100)
+
 Bozma kararı gereği, yapılan araştırma inceleme ve keşif sonucu düzenlenen uzman bilirkişi raporuyla çekişmeli parselin öncesi ve eylemli durumu itibariyle orman sayılan yerlerden olduğu, yörede seri usulle 1967 yılında yapılıp kesinleşen orman tahditi dışındaysa da, 4999 sayılı Yasa ile değişik 6831 sayılı Yasanın 7 ve devamı maddeleri gereğince, orman olarak sınırlandırılabilecek yerlerden olduğu belirlenerek gerçek kişilerin davalarının reddine Orman Yönetiminin isteminin kabulü ile davacı gerçek kişilerin elatmalarının önlenmesine karar verilmesinde isabetsizlik yoktur.
 Ancak, yörede 1967 yılında yapılıp kesinleşen orman tahditinde orman sınırları içinde kalan yerlerin 1393 parsel sayısı ve orman niteliğiyle tapuya kayıt edildiği, oysa çekişmeli taşınamazın orman sınırları dışında olması nedeniyle orman niteliğiyle tapuda kayıtlı olamayacağı gözetilmeden ve kararın gerekçesinde de Orman Yönetimi orman niteliği ile Hazine adına tescil isteminin kabulü gerektiği açıklandığı halde, Orman Yönetiminin tapuya tescil isteminin hukuki yarar yokluğundan reddine karar verilmesi doğru değilse de, bu husus hükmün bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden hükmün düzeltilerek onanması uygun görülmüştür. Bu sebeple, hüküm fıkrasında 2-a) numaralı bentte yer alan “Müdahil davacı ... İdaresinin taşınmazın orman vasfı ile Hazine adına tescil talebinin hukuki yarar yokluğundan reddine” cümlesinin hükümden tamamen çıkartılarak bunun yerine; “Orman Yönetiminin tescil isteminin kabulüyle, Harita Mühendisi bilirkişi ... Orman Mühendisi Bilirkişi ...
 Eşeve orman Yüksek Mühendisi Bilirikşiler ... ve ... tarafından düzenlenen 10.01.2010 tarihinde düzenelen 12.01.2010 havale tarihli müşterek bilirkişi krokisinde (a) işaretli 528,29 m2, (b) işaretli 870,08 m2 ve (c) işaretli 83,31 m2 bölümlerin devlet ormanı niteliğiyle Hazine adına tapuya tesciline” cümlesinin yazılması suretiyle düzeltilmesine ve hükmün 6100 sayılı Yasanın geçici 3. maddesi göndermesiyle H.Y.U.Y.’nın 438/7.
 
 ## Yargıtay 1. HD 2011/8347 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79081100)
 
 Davacı Hazine, davalı şirketin 8030 m²'lik devletin hüküm ve tasarrufu altındaki yeri 14.1.1991 tarihli Ocak İşletme İzin Belgesiyle taş ocağı olarak kullanmaya başladığını, 22.2.1994 tarihli Mıcır Ocağı İşletme İzin Belgesi ile kullanma izninin devam ettiğini ve İl Özel İdaresince yapılan sözleşmenin 22.2.1999 tarihinde sona erdiğini, davalı şirketin Enerji ve Tabii Kaynaklar Bakanlığından aynı yer için 29.12.1995 tarihli 10 yıl süreli mermer işletme ruhsatı aldığını, ancak taşınmaza haksız elatarak taş ocağı olarak kullanmaya devam ettiğini ileri sürüp, elatmanın önlenmesi, eski hale iade, yıkım ve 22.2.1999 tarihinden itibaren 26.5.2004 tarihine kadar toplam 716.028.90.-TL'lık tazminat istemiştir.
 

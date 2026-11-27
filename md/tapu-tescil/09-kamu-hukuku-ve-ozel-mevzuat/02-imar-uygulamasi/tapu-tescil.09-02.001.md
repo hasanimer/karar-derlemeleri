@@ -24,8 +24,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2009/323 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76841700)
+
 Öte yandan, somut olayda mahkemenin kabulünün aksine, imar uygulamasından kaynaklanan bir uyuşmazlık da söz konusu değildir. 3194 sayılı imar kanununun 1. maddesine göre imar; “yerleşme yerleri ile bu yerlerdeki yapılaşmaların; plan, fen, sağlık ve çevre şartlarına uygun teşekkülünü sağlamak amacıyla yapılacağı” açıklanmakla; imarın, toplu yerleşim alanlarının belirlenmesi, modern binaların yükselmesi, ana ve ara yollarının açılması, şehrin sağlık, kültür, sanat ve eğlence alanları ile insanların nefes alabilecekleri park ve bahçelerin düzenlenmesi, trafik sorunlarının çözümlenmesi, kamu hizmetlerinin toplu bir halde ve düzenli şekilde görülebilmesi, dolayısıyla şehir ve kasabaların her yönüyle güzelleşmesi ve çağdaş bir hale getirilmesi amacıyla yapılacağı vurgulanmıştır.
 
 ## Yargıtay 20. HD 2018/6525 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466529400)
 
 Kural olarak; mülkiyetin belirlenmesine ilişkin tescil, tapu iptali ve tescil davalarına bakma görevi adli yargı yerine aittir. İmar uygulaması sonucu arazilerin şuyulandırılarak tescil işlemi idari niteliktedir. Aynı ada içinde imar uygulaması sonucu oluşturulan bir çok parsel bulunmaktadır. Bu nedenle bu adaya ait imar uygulamasının iptali davada taraf olmayan tüm parsel sahiplerinin haklarını etkileyeceği gibi, imar bakımından da kargaşa yaratacaktır. Bundan ayrı imar uygulamasına ilişkin işlemin kesinleştiği tarihten itibaren idari yargı yerinde dava açma süresi de geçmiştir. Önce imar uygulamasının iptali, daha sonra mülkiyete ilgili davanın açılması öngörüldüğü takdirde hak arama yolu kapanmış olacaktır. Tüm bu nedenlerden ötürü imar uygulamasından önce var olduğu iddia edilen mülkiyete ilişkin uyuşmazlıklar imar 2016/10207-2018/6525…

@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/624 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919368200)
+
 … miras bırakanın terk ettiği resmî eşi ve çocukları davacı mirasçılardan mal kaçırmak amacıyla dava konusu taşınmazı bedelini almadan birlikte yaşadığı davalıya temlik ettiği, **tapuda gösterilen satışın gerçek bir satış olmayıp, bağış amacıyla yapıldığı** sonucuna varılmıştır.
 
 ## Yargıtay 1. HD 2023/2324 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924532600)
 
 Paylaştırmadan söz edebilmek için mirasbırakan tarafından sağlığında hak dengesini gözeten kabul edilebilir ölçüde ve tüm mirasçıları kapsar biçimde bir devrin yapılması gerekir. Bu durumda **mirasçı olmayan kişiye yapılan devir yönünden paylaştırma olgusundan söz edilemeyeceğinden**…
 

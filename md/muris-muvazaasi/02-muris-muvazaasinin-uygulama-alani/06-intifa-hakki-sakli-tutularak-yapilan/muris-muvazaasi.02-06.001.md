@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2024/1002 K. (intifa hakkı saklı tutularak çıplak mülkiyetin ikinci eşe satışı)
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045967100)
+
 … tüm dosya kapsamı itibariyle mirasbırakanın çekişme konusu taşınmaz dışında başkaca taşınmazının bulunmadığı, ancak Bölge Adliye Mahkemesin kararının gerekçe kısmında maddi hataya dayalı olarak mirasbırakan adına kayıtlı pek çok taşınmazın bulunduğu hususunun yazıldığı, davacıların temlik işleminin mirastan mal kaçırma amaçlı olduğunu TMK'nın 6 ncı ve HMK'nın 190 ıncı maddeleri gereğince **ispatlayamadıkları** gözetildiğinde…
 
 ## Yargıtay 1. HD 2024/1250 K. (intifa hakkı saklı tutularak devir)

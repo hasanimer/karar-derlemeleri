@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2022/695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/732056200)
+
 Mahkemece verilen 26/09/2015 tarihli, davanın kısmen kabulüne dair kararın taraflarca temyiz edilmesi üzerine Yargıtay 20. Hukuk Dairesi'nin 2017/1966 Esas, 2017/5838 Karar sayılı ilamı ile anataşınmaza ait yönetim planı hükümlerinin değerlendirilmemesi ve hükmün infaza elverişli olmaması sebebiyle bozulmasına karar verilmiştir.
 
 …
@@ -35,6 +37,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 5. HD 2021/7568 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/691116900)
+
 Mahkemece davacının davasının davalı ... Güvenlik Şirketi bakımından konusuz kalması nedeniyle bu davalı yönünden kısmen reddine, davanın davalı ... yönünden kısmen kabulü ile, Erzurum İli, ...
 
 …
@@ -45,6 +49,8 @@ Kabule göre ise; hüküm fıkrasında “yapılan el atmanın önlenmesine, dav
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 5. HD 2021/5055 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686084600)
 
 Mahkemece asıl ve birleştirilen davanın reddine karar verilmiş, davacılar vekili istinaf başvurusundan bulunmuştur. İstanbul Bölge Adliye Mahkemesi 36.
 
@@ -61,6 +67,8 @@ Somut olayda, yönetim planındaki dava konusu düzenleme yalnızca bu konuda ka
 Davacılar vekilinin temyiz itirazlarının kabulü ile İstanbul Bölge Adliye Mahkemesi 36. Hukuk Dairesinin 17/11/2020 tarih ve 2018/1321 E- 2020/1852 K. sayılı kararının KALDIRILMASINA …
 
 ## Yargıtay 8. HD 2021/3737 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664650100)
 
 Davacılar vekili, 267 ada 3 parsel sayılı taşınmaz üzerinde bulunan ve zemin kattaki dükkan bölümünde yer alan sığınağın haksız işgali nedeniyle fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 8.000,00 TL ecrimisilin davalılardan müştereken ve müteselsilen tahsiline, aynı ada ve parselde yer alan bodrum katta yer alan kömürlük ve su deposu bölümünde yer alan sığınağın haksız işgali nedeniyle fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 5.000,00 TL ecrimisilin davalı ... Tük. Mal.
 
@@ -83,6 +91,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin yazılı temyiz it
 
 ## Yargıtay 8. HD 2021/3480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668992900)
+
 Somut olayda; yönetim planına göre davacı blokların tapudaki arsa payları toplamı (748+748) 1.496 m2 olup 7 bloklu sitenin toplam alanın ise 4.858,50 m2 olduğu, dolayısı hesaplama yapılırken, davacı bloklar ile davalı 3 nolu blokun payları yerine, dava konusu edilen kapıcı dairesinin yönetim planına uygun olarak 7 bloka ait olduğu kabulü üzerinden hesaplama yapılması gerekirken, sanki dava konusu edilen kapıcı dairesinin sadece davacı iki blok ile davalı bloka ait olduğu varsayımı üzerinden fazla ecrimisile hükmedilmesi doğru olmadığı gibi mesken olarak kullanılan ve davalı ... tarafından kiraya verilerek gelir elde edilen kapıcı dairesi için ecrimisil talebinde bulunduğuna göre, az yukarıda belirtilen ilke ve esaslar çerçevesinde taşınmazın mesken vasfı ile ecrimisil başlangıç tarihi olan 11.12.2008 tarihi itibari ile rayiç kira bedelinin tespit edilmesi gerekirken, yerleşik Yargıtay uygulamalarına aykırı olarak tanık beyanları ve temizlik hizmeti karşılığı olarak dava tarihindeki ecrimisil bedeli esas alınarak önceki yılların ecrimisil bedelinin belirlenmiş olması, bu defa ki inceleme sonucu doğru görülmeyerek hükmün bozulması gerektiğinden onama kararının kaldırılarak hükmün
 bozulmasına karar vermek gerekmiştir.
 
@@ -91,6 +101,8 @@ Bu durumda Mahkemece, dava konusu edilen kapıcı dairesinin kat irtifakına esa
 SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin karar düzeltme itirazlarının kabulü ile Dairemizin 24.09.2020 tarihli ve 2018/4818 Esas, 2020/5358 Karar sayılı onama ilamının KALDIRILMASINA …
 
 ## Yargıtay 5. HD 2021/2146 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/640725400)
 
 Davacı vekili, davalının mimari projeye aykırı olarak ortak alana havuz ve araba garajı yaptırmak suretiyle el attığını ileri sürerek el atmanın önlenmesi ile havuz ve garajın kaldırılarak eski hale getirilmesini istemiştir.
 
@@ -106,12 +118,16 @@ Davalı vekilinin temyiz itirazlarının kabulü ile hükmün HUMK 428. maddesi 
 
 ## Yargıtay 15. HD 2021/1627 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/656185700)
+
 Yapı kooperatifinin ana amacı ortakların akçalı yükümlülüklerini yerine getirmeleri karşılığında anasözleşmeye uygun, konut ya da işyeri teslim etmektir. Davacı için çeşitli nedenlerle konut ya da işyeri tahsisi imkânsızlığı ortaya çıktığında ortağın uygun bir tazminat isteme hakkı bulunmaktadır. Normal ödemesini yapıp konut sahibi olan üyelerle eşit miktarda ödemesi bulunduğu tespit edilen, diğer anlatımla eksik ödemesi bulunmadığı belirlenen, ancak kendisine konut tahsis ve teslimi yapılamayan ortağın, ödemesi eksik olmayan diğer üyelere verilen emsal bir konutun dava tarihi itibariyle rayiç değerini talep edebileceğinin, hiç ödemesi yok ise konut karşılığı tazminat talep hakkı olup, bu isteminin reddi gerektiğinin kabulü gerekir. Eksik ödemesi olan bir üyenin ise, konut karşılığı tazminat talep hakkı olup, alacağının hesaplanma şekli Dairemizin yerleşik uygulamalarında formüle edilmiştir.Davaya konu olayda; mahkemece davacının talep edebileceği tazminat miktarının 126.018,87 TL olarak hesaplandığı belirtilmiştir. Yine dosyadaki mevcut bilirkişi raporunda taşınmazın dava tarihi itibariyle rayiç değeri 80.000,00 TL olarak hesaplandığı anlaşılmaktadır.
 Somut olayda Dairemizin yerleşik uygulamalarında tazminat hesaplama ilkesi olarak kabul edilen formül uyarınca davacının talep edebileceği tazminat miktarı bilirkişi raporuyla 126.018,87 TL hesaplanmış ise de; dairenin değeri nazara alındığında formülün doğru sonucu vermediği anlaşılmaktadır. Bu hesaplamanın kabulü halinde tam ödemede bulunan ortağın elde ettiği bağımsız bölüm 80.000,00 TL iken eksik ödeme yapan ortak bundan daha fazla menfaat elde edcektir ki bu hakkaniyete uygun düşmez. Bu durumda tam ödeme yapan ortağın ödemelerinin güncel değeri, taşınmazın rayiç değerinden fazla olduğuna göre eksik ödemesi olan ortağın ödemesinin tam ödeme yapan ortağın ödemesine oranlanıp bulunan oranın kooperatiften elde edilen taşınmazın rayiç değeriyle çarpılarak eksik ödeme yapan ortağın alabileceği tazminat miktarı belirlenmeli ve eksik ödeme yapan davacının alacağı bedel belirlenip sonuca gidilmelidir. Bu hususlarda yeterli inceleme yapılmadan yazılı şekilde karar verilmesi doğru görülmemiş, kararın bu nedenle bozulması gerekmiştir.
 
 Bozma sebebine göre davacı ... mirasçıları vekilinin ve davalı kooperatif vekilinin diğer temyiz itirazlarının bu aşamada incelenmesine yer olmadığına karar verilmiştir.SONUÇ: Yukarıda (1) ve (2) numaralı bentte açıklanan nedenlerle davacı ... mirasçıları vekilinin ve davalı kooperatif vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2021/1301 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704653500)
 
 Davacılar vekili; davacıların 6173 ada, 5 parsel sayılı taşınmazda kurulu ... Sitesi A Blok, B Blok ve C Blok'ta malik olduklarını, uyuşmazlık konusu yerin belirtilen tapu kaydında bulunan Ömer Bayram Sitesi C Blok apartmanın zemin katta bulunan (bahçesi dahil kafe olarak kullanılan) yer ile B Blok apartmanın zemin katında bulunan ve dershane olarak kullanılan yerin kullanımına ilişkin olduğunu, sitenin B - C Blok apartmanlarının zemin katlarının tamamının mülkiyetinin 3 bloklu siteye ait olduğunu, dava konusu yerlerin tamamını hukuka ve mimari projeye aykırı bir şekilde davalı tarafından kiraya verilmek suretiyle uzun süreden beri kullanıldığını, davalı ...'ın hukuka aykırı bir şekilde B ve C Blok apartmanlarının zemin katlarının tamamını mülkiyeti kendisine ait olmamasına rağmen kiraya verdiğini ileri sürerek ecrimisile yönelik karar verilmesini talep etmiştir.
 
@@ -127,6 +143,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazını
 
 ## Yargıtay 5. HD 2020/10390 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/659698600)
+
 Mahkemece, müdahalenin önlenmesi istemi yönünden davanın reddine, ecrimisil istemi yönünden açılan davanın bu dosyadan tefriki ile mahkemenin görevsizliğine karar verilmiş, davacı vekili tarafından istinaf başvurusunda bulunulmuştur. İstinaf mahkemesince, başvurunun esastan reddine karar verilmiş, hüküm, davacı vekili tarafından temyiz edilmiştir.
 
 …
@@ -140,6 +158,8 @@ Mahkemece, müdahalenin önlenmesi istemi yönünden davanın reddine, ecrimisil
 Davacılar vekilinin temyiz itirazlarının kabulü ile ... Bölge Adliye Mahkemesi 6. Hukuk Dairesinin 27.12.2019 tarih ve 2018/744 E. -2019/2497 K. sayılı kararının KALDIRILMASINA …
 
 ## Yargıtay 5. HD 2020/10385 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657827200)
 
 Davacılar vekili, 02/09/2013 tarihli kat malikleri kurulu kararlarının iptaline, ortak alana yapılan müdahalenin önlenmesine ve eski hale getirilmesine karar verilmesini istemiş, mahkemece davanın reddine karar verilmiştir. Hükmün, davacılar vekili tarafından temyizi üzerine, Yargıtay (kapatılan) 20. Hukuk Dairesinin 30/11/2018 gün ve 2018/5888 E- 2018/7766 K. sayılı ilamı ile bozulmuştur.
 
@@ -158,6 +178,8 @@ Açıklanan nedenlerle, davalı vekilinin temyiz itirazlarının kabulü ile hü
 
 ## Yargıtay 8. HD 2020/6319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638438300)
+
 Davacı vekili, vekil edeninin yöneticiliğini sürdürdüğü ... İş Merkezi'nin 102 nolu bağımsız bölümünde davalının faaliyette bulunduğunu, davalının yönetimin ve kat maliklerinin bilgisi ve rızası dışında bina dışına ışıklı reklam tabelası koyduğunu açıklayarak, elatmanın önlenmesi ile geriye dönük 18 aylık dönem için 3.003,48 TL ecrimisile hükmedilmesini istemiş, davalı vekili davanın reddini savunmuştur.
 
 …
@@ -173,6 +195,8 @@ Dava konusu taşınmazın tapu kaydının incelenmesinden, taşınmazın kat mü
 SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabulüne, usul ve yasaya aykırı olan hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 20. HD 2020/2492 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594626400)
 
 Mahkemece 2012/765 Esas -2012/810 Karar sayılı ve 17/10/2012 tarihli kararı ile "..İstanbul, .... 396 pafta, 1885 ada ve 26 parsel sayılı yerdeki (Zeytinburnu Nuripaşa mah.
 
@@ -191,6 +215,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 20. HD 2020/1424 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592122300)
+
 Mahkemece davanın kısmen kabulüne, 15.471,54.-TL ecrimisil bedelinin 10.07.2011 tarihinden itibaren kademeli yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsili ile davacılara hisselerine göre verilmesine, fazla istemin reddine, karşı davanın reddine karar verilmiş, hüküm davacılar vekili ve bir kısım davalılar vekili tarafından temyiz edilmiş, …
 
 …
@@ -203,6 +229,8 @@ Dosyadaki yazılara, kararın bozmaya uygun olmasına ve delillerin takdirinde b
 
 ## Yargıtay 20. HD 2020/773 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592794600)
+
 Mahkemece; dava konusu yerin 1 nolu bağımsız bölümün altında kaldığı ve yan binada yer alan davalı mağaza işletmecisince kiralandığı, belediyeden aldırılan projede böyle bir eklentiden bahsedilmediği, dava konusu yerin 634 sayılı Kat Mülkiyeti Kanununun 4. maddesinde belirtilen ortak kullanım alanlarından olduğu ve kat maliklerinden biri tarafından kiraya verilmesinin mümkün olmadığı gerekçesiyle; davacının davasının kabulüyle, ... ilçesi, ... mahallesi, 458 ada 227 parsel sayılı taşınmaz üzerinde bulunan Gürol apartmanının zemin kattaki sığınağa yapmış olduğu elatmanın önlenmesine, ecrimisil yönünden sulh hukuk mahkemesinin görevi kapsamında olmadığı anlaşıldığından mahkemenin görevsizliğine karar verilmiş, davalı vekili tarafından temyiz edilmesi üzerine Yargıtay 20.
 
 …
@@ -214,6 +242,8 @@ Dosya içindeki bilgi ve belgelerle, tapu kaydı ve yönetim planının incelenm
 nedenlerle davalı ... vekilinin temyiz itirazlarının kabulü ile ... Sulh Hukuk Mahkemesinin 17/04/2019 tarih 2018/477 E. -2019/264 K. sayılı kararının BOZULMASINA karar düzeltme harcının istek halinde iadesine 17/02/2020 günü oy çokluğu ile karar verildi.
 
 ## Yargıtay 20. HD 2019/3545 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513231100)
 
 Mahkemece 13/02/2014 tarih ve 2012/545 Esas 2017/71 Karar sayılı davanın kısmen kabulüne karar verilmiş, davacı tarafın hükmü temyiz etmesi üzerine Yargıtay 18. Hukuk Dairesinin 28/05/2015 tarih ve 2015/6648 E., 8886 K. sayılı ilamı ile "...Davacıların projeye aykırılığın eski hale getirme yönünden; bilirkişi raporunun 4. sayfasındaki 4. numaralı maddede kaçak olarak yapılan 3. normal katın üzerinde, proje kapsamında mevcut olan 18 m² alanlı çekme kat bulundugu açıklanmış, ancak bu çekme katın porjesinde hangi kata bağlı olduğu ve projeye uygun hale getirilmesi sırasında bununla ilgili ne gibi işlemler yapılacağı açıklanmamıştır.
 

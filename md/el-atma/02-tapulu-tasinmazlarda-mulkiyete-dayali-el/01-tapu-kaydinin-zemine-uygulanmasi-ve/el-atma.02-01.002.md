@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2019/1313 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/509700400)
+
 Mahkemece yapılan yargılama sonucunda davacı ...
 
 …
@@ -36,6 +38,8 @@ onaylanarak dosyaya eklenmeli; kesinleşmiş ... kadastrosu bulunmadığından, 
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak hüküm kurulmuş olduğuna göre, yerinde görülmeyen temyiz itirazlarının reddiyle, usûl ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 14. HD 2019/230 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478022300)
 
 Dava, komşuluk hukukuna dayalı elatmanın önlenmesi, kal istemlerine ilişkindir.
 
@@ -59,6 +63,8 @@ SONUÇ:Yukarıda yazılı nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/2606 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423536100)
+
 Davacı ..., .../.../ 2007 havale tarihli dilekçesi ile ... köyünde babası... ve dedesi... adına vergi kaydı bulunan, dilekçesinde sınırlarını bildirdiği on bir parça taşınmaza davalı ... tarafından el atıldığı iddiasıyla, davalının elatmasının önlenmesi ve taşınmazların babası... ve dedesi... mirasçıları adına tapuya tescili istemi ile sulh hukuk mahkemesinde dava açmıştır.
 
 …
@@ -81,6 +87,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı ..., müdahil ... ile birleşe
 
 ## Yargıtay 16. HD 2018/2199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429212200)
+
 Çekişmeli 866 ada 19, 20, 28, 29, 30 ve 31 parsel sayılı taşınmazlar hakkında aktarılan davanın davalısı ...'ın temyiz itirazlarına gelince: Çekişmeli taşınmazlar, toprak komisyonu çalışmalarında uygulanan tapu kayıtları, hibe ve 3402 sayılı Yasa'nın 46/1. maddesi koşullarını sağlayan zilyetlikten bahisle... Asliye Hukuk Mahkemesinde dava konusu olmaları sebebiyle malik haneleri açık olarak tespit edilmiştir. Tespit tarihinden önce İbrahim Bozkaya ve ... tarafından ....Asliye Hukuk Mahkemesinde davalı ... aleyhine tapu kaydına dayalı olarak açılan men'i müdahale davası sırasında davalı ..., çekişmeli taşınmazları 10.09.1952 tarih ve 9 sıra numaralı tapu kayıt maliki ... mirasçılarından haricen satın aldığını ayrıca 31.07.1968 tarih ve 17 sıra numaralı tapu kaydının da taşınmazları kapsadığını savunmuştur. Kadastro tespitinin yapılmasıyla dava Kadastro Mahkemesine aktarılmış olup, eldeki davada 3402 sayılı Yasa'nın 30/2 maddesi gereğince resen araştırma ilkesi geçerlidir.
 Mahkemece davalı ...'ın dayandığı tapu kaydının taşınmazları kapsamadığı, taşınmazlarda zilyetliğinin bulunmadığı, ...'den haricen satın aldığı taşınmazın komşu taşınmaz olduğu gerekçesiyle yazılı karar verilmiştir. Davalı ...'ın dayandığı 31.07.1968 tarih ve 17 sıra numaralı değişebilir sınırlı tapu kaydının (aynı taşınmaza revizyon gören diğer tapu kayıtlarıyla birlikte) komşu Tozharman Köyü 260 parsel sayılı taşınmaza miktarından fazla revizyon gördüğü toplanan delillerden anlaşılmakla esasen Mahkemenin bahsi geçen tapu kaydının taşınmazı kapsamadığına dair gerekçesinde bir isabetsizlik bulunmamaktadır.
 Ne var ki Mahkemece, Toprak Komisyonu çalışmalarına ilişkin belgelerin getirtilmemesi, taşınmazların tevzideki durumlarının araştırılmaması, tevzi haritaları getirtilmemiş; tarafların dayandıkları diğer tapu kayıtları tescil ilamıyla oluştuğu ve tescil krokileri bulunduğu halde gerek tevzi haritası gerekse tescil krokileri kadastro paftası ile çakıştırılarak kapsamları tayin edilmemiş; davalı ...'ın ... mirasçılarından haricen satın aldığını iddia ederek dayandığı 10.9.1952 tarih ve 9 sıra numaralı tapu kaydı usulünce uygulanarak kapsamı belirlenmemiş olduğundan yapılan araştırma, inceleme ve uygulama hüküm için yeterli bulunmamaktadır.
@@ -94,6 +102,8 @@ ve hibe edenleri adlarına olup da tevzi sırasında uygulanan tapu kayıtların
 
 ## Yargıtay 20. HD 2015/8609 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/133079400)
+
 Çekişmeli 1063 parsel sayılı taşınmazın yer aldığı ... köyünde ilk orman tahdidi 1949 yılında yapılıp, 05.02.1950 tarihinde ilân edilerek kesinleşmiştir. Maki tefrik komisyonunca 23-25/08/1951 tarihinde maki tefrik işlemi yapılmıştır. Yörede 1958 yılında yapılan tapulamada 1063 parsel sayılı taşınmaz vergi kaydı ve zilyetliğe dayanılarak tarla niteliğinde 21440 m² yüzölçümüyle ..., ... ve ... adlarına tespit edilmiş; tespite ... ile ... itiraz etmiş olup, tapulama komisyonunca yetkisizlik kararıyla mahkemeye aktarılmış; tespitten sonra ancak askı ilânından önce ... tarafından ... aleyhine asliye hukuk mahkemesinde açılan men'i müdahale davası da görevsizlikle tapulama mahkemesine aktarılmış; tapulama mahkemesince davalar birleştirildikten sonra, 26.11.1980 gün ve 1960/4 Esas - 1980/148 sayılı kararıyla "Tapulama Kanunun 28. maddesi gereğince 1063 parsel sayılı taşınmazın hukukî durumunun tespiti için tapulama komisyonuna gönderilmesine" karar verilmiş; tapulama komisyonu, 15.05.1984/113 sayılı kararıyla "...'nin itirazının reddine, ...
 Bakanlığının mütalaasına göre orman sayılan yer olduğundan tespitinin iptaline, 1063 parselin orman olarak tapulama dışı bırakılmasına" karar vermiştir.
 Bu arada, yörede 1975 yılında işe başlayan 6 nolu Orman Kadastro Komisyonu, 18.06.1975 tarih ve 2 numaralı tutanakla "İnebeyli köyüne ait orman tahdidi ile ilgili kayıtlar incelendiğinde, 3116 sayılı Kanuna göre tahdidin 1949 yılında yapılıp, 05/02/1950 tarihinde ilân edilerek kesinleştiği, bilahare 03/04/1950 tarihinde yürürlüğe giren 5653 sayılı Kanuna göre çıkarılan Maki Tefrik Yönetmeliği hükümlerine göre kurulan Tefrik Komisyonunca, 23-25/08/1951 tarihinde yapılan uygulama ile orman dışına çıkarılan ve maki tefrik haritasında 13 nolu poligon numarası ile belirlenen 9443 hektarlık sahanın tamamının, makilik saha olarak ayrılıp, 22/02/1952 tarihinde tasdik edilmek suretiyle kesinleştiği, maki tefrik haritası ve arazide yapılan incelemede, ... köyü mülki sınırları içerisinde maki tefrik haritasındaki maki sınırının ... köyü ... yolunu takip ettiği ve güneybatıya doğru ... deresi ile ... deresinin kavşak noktasına indiği bu hattın kuzeyinde kalan kısmın makiye tefrik edildiği, güneyinde kalan kısmın ise, 1949 yılında tahdidi yapılan ancak makiye tefrik edilmeyen saha olduğu açıklandıktan sonra, makiye tefrik edilmeyen sahada 1949 yılı tahdidinin aplikasyonu ile 1744 sayılı
@@ -104,6 +114,8 @@ Kanunun 2. madde uygulaması, makiye tefrik edilen sahada ise 1949 yılı tahdid
 SONUÇ: Yukarıda açıklanan nedenlerle; davacı ...'nin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2015/682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396652600)
 
 Mahkemece, davacı ...'ın 215 ada 95 ve 234 ada 54 parsellere ilişkin davasının feragat nedeniyle reddine, ... Yönetiminin davasının kabulüne, 27, 101, 117, 102, 108 ve 95 sayılı parsellerin ... niteliği ile Hazine adına, gerçek kişilerin davasının reddine, 102 ada 3, 4, 12, 13 ve 14 numaralı parsellerin tespit gibi mera olarak sınırlandırılarak özel siciline yazılmasına, 234 ada 34 sayılı parselin tespit gibi tesciline karar verilmiş, hüküm davacılar ...ve ... tarafından mera niteliğiyle sınırlandırılmasına karar verilen 102 ada 3, 4, 12, 13 ve 14 parseller yönünden temyiz edilmekle, Yargıtay 20.
 
@@ -118,6 +130,8 @@ Kanununa muhalefet davalarına ilişkin ilâm örnekleri ile dayanağı krokiler
 İkinci bentde açıklanan nedenlerle; davacı gerçek kişilerin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2014/6830 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105971300)
 
 Dava, kadim su arkına yapılan müdahalenin önlenmesi isteğine ilişkindir.
 
@@ -135,6 +149,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabu
 
 ## Yargıtay 5. HD 2013/17032 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/268669500)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiş; hüküm, davalı idareler vekillerince temyiz edilmiştir.
@@ -148,6 +164,8 @@ Bu durumda; mahallinde yeniden keşif yapılarak özel parselasyon haritası da 
 Mahkeme kararının açıklanan nedenle davalı idareler vekillerinin temyiz itirazları doğrultusunda BOZULMASINA …
 
 ## Yargıtay 5. HD 2013/7580 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/267088000)
 
 Dava, kamulaştırmasız el atılan taşınmazlar bedelinin tahsili istemine ilişkindir.
 
@@ -163,6 +181,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 20. HD 2013/5985 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/814788200)
+
 Kadastro sırasında ...Köyü 738, 739, 741, 742 ve 744 parsel sayılı sırasıyla 187 m2, 194 m2, 257 m2, 592 m2 ve 230 m2 yüzölçümündeki taşınmazlar, Mart 1978 tarih 219 sıra nolu tapu kayıtları ile gittileri uygulanarak çekişmeli taşınmazlar hakkında asliye hukuk mahkemesinde 1976/648 Esas sayılı dava bulunduğundan söz edilerek malik hanesi mahkemece doldurulmak üzere açık olarak tespit edilmişlerdir. Davacı kurum; 08.09.1976 tarihinde, dava dilekçesinde sınırlarını belirttiği taşınmazların adına tapuya tescili, ...’un elatmasının önlenmesi ve yıkım istemiyle asliye hukuk mahkemesinde 1976/648 esas sayılı davayı açmıştır. Orman Yönetimi de çekişmeli taşınmazların orman sayılan yerlerden olduğu iddiası ile davaya katılmıştır. Asliye hukuk mahkemesince, çekişmeli taşınmazlar hakkında kadastro tespit tutanağı düzenlendiği gerekçesi ile 3402 sayılı Kanunun 27. maddesi uyarınca davanın kadastro mahkemesine aktarılmasına karar verilmiştir.
 Kadastro Mahkemesince, aktarılan dava dosyası ile çekişmeli taşınmazların tutanak asılları birleştirildikten sonra Hazine, çekişmeli taşınmazların özel mülkiyete konu olamayacak yerlerden olduğu, orman niteliği ile Hazine adına tapuya tescili istemiyle davaya katılmıştır. Mahkemece, dava konusu taşınmazların kadastro sırasında uygulanan tapu kayıtlarının kapsamında kalmadıkları, kişiler yararına kazandırıcı zamanaşımı zilyetliği yoluyla taşınmaz edinme koşullarının oluştuğu gerekçesi ile davanın reddine, 741 parselin ..., 744 parselin ..., 739 parselin ..., 742 parselin ..., 738 parselin ... adlarına tapuya tescillerine karar verilmiştir. Hükmün katılanlar Hazine ve Orman Yönetimi tarafından temyizi üzerine Yargıtay 20. Hukuk Dairesi tarafından bozulmuştur.
 
@@ -171,6 +191,8 @@ Kadastro Mahkemesince, aktarılan dava dosyası ile çekişmeli taşınmazların
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak hüküm kurulmuş olduğuna göre, yerinde görülmeyen temyiz itirazlarının reddiyle, usûl ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2013/5876 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/814693700)
 
 Davacı vekili, 04/01/1963 tarihli dava dilekçesinde davalıya ait ...Köyü Temmuz 1956 tarih 279 numaralı tapu kaydı kapsamının "... Vakıf Ormanı" olarak 4785 sayılı Kanuna göre Devletleştirilen yerlerden olduğunu bildirerek, tapu kaydının iptaline ve elatmanın önlenmesine karar verilmesini istemiştir. Mahkemece, davanın kabulü ile 4851 m2 yüzölçümündeki taşınmaza ilişkin tapu kaydının iptaline ve elatmanın önlenmesine karar verilmiş, hüküm davalı mirasçısı ... tarafından temyiz edilmiştir.
 
@@ -183,6 +205,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davalı mirasçısı ...'ın temyiz it
 
 ## Yargıtay 5. HD 2012/23668 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022562700)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davanın reddine karar verilmiş; hüküm, davacı idare vekilince temyiz edilmiştir.
@@ -194,6 +218,8 @@ Fen bilirkişisi Ayhan Yıldız tarafından düzenlenen 23.01.2012 günlü ek ra
 Davacı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U....nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 20. HD 2012/8712 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/817713100)
 
 Dava dilekçelerindeki açıklamaya ve dosya kapsamına göre, dava; kadastro tesbitine ve orman kadastrosuna itiraza ilişkindir.
 

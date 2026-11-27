@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/37 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897448700)
+
 … miras bırakanın özel bir bakım ve ihtimama ihtiyacının olduğuna dair dosya arasında bir delil bulunmadığı, **murisin tek taşınmazını devretmesi için makul ve haklı bir nedeninin bulunmadığı**, davalı tarafça savunmada ileri sürülen hususların ancak ahlaki bir görevin ifası kapsamında değerlendirilebileceği, muris tarafından davalıya satış suretiyle devredilen taşınmaz nedeniyle bir bedel ödenmediğinin sabit olduğu, her ne kadar murisin dava dışı birkaç mirasçısı tarafından devir işleminden haberdar oldukları ve temlike muvafakat ettiklerine dair dilekçeler sunulmuş ise de; temlikin mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğu hususunun davacı tarafça ispatlandığı hususu şüphesizdir.
 
 ## Yargıtay HGK 2023/615 K. (direnme kararının bozulması)

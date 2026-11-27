@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/531 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864020300)
+
 Somut olayda, kadastro tespitinin 30.04.2009 tarihinde yapıldığı, miras bırakanın ise tespitten önce 05.06.2005 tarihinde öldüğü anlaşıldığına göre, **davanın 10 yıllık hak düşürücü süreye tâbi olacağı** ve kadastro tutanaklarının kesinleştiği 13.08.2009 tarihi ile davanın açıldığı 16.07.2021 tarihi arasında 10 yıllık hak düşürücü sürenin geçtiği açıktır.
 
 ## Yargıtay 1. HD 2023/2618 K.

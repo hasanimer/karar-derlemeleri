@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2024/4653 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056326200)
+
 Davacı vekili dava dilekçesinde özetle; ... Mahallesi 112219 ada 1 parsel ve 112203 ada 3 parsel sayılı taşınmazlar üzerinde enerji nakil hattı bulunduğunu, dava konusu taşınmazların kamulaştırıldığına ilişkin herhangi bir tebligatın bugüne kadar yapılmadığını, mülkiyet hakkından mahrum bırakılan müvekkilinin mağdur edildiğini, bu nedenle taşınmazların bedelinin davacı taraftan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -41,6 +43,8 @@ Kamu düzenine ilişkin yapılan değerlendirme sonunda; Bölge Adliye Mahkemesi
 
 ## Yargıtay 5. HD 2024/4150 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053292700)
+
 Davacı vekili dava dilekçesinde özetle; Aydın ili, ... ilçesi, Karaçay Mahallesi 1471 ada 27 parsel sayılı taşınmaza kamulaştırma işlemi olmaksızın ve müvekkilinin rızası dışında bir kısmına park yapmak bir kısmına da yol yapmak suretiyle idarece fiilen el atıldığını, bunun karşılığında müvekkiline herhangi bir ödeme yapılmadığını, müvekkilinin ... Belediye Başkanlığına söz konusu taşınmaz üzerindeki tecavüzlerin kaldırılması amacıyla defalarca başvurduğunu; ancak herhangi bir sonuç alamadığını, davalı idarenin dava konusu taşınmaz üzerinde devam etmekte olan tecavüzünün önlenerek taşınmazın teslimine, fazlaya ilişkin hakları saklı kalmak kaydı ile geriye dönük 5 yıllık şimdilik 60.000 TL'nin yasal faizi ile birlikte davalıdan tahsiline, yargılama giderleri ve vekâlet ücretinin davalı tarafa yükletilmesine karar verilmesini talep etmiştir.
 
 …
@@ -58,6 +62,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyl
 
 ## Yargıtay 7. HD 2024/3511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053817500)
+
 Davalı vekili cevap dilekçesinde özetle; dava konusu hafriyatın dökümü için hissedarlardan ... ile anlaştıklarını, bu anlaşma çerçevesinde hafriyat döktüklerini, davacının söz konusu anlaşmadan haberinin olmadığı iddialarının haksız ve yersiz olduğunu bu nedenle davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -70,6 +76,8 @@ tarafından yapılan sözleşmeye hukuki değer izafe edilemeyeceği, hal böyle
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/2247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1036158700)
 
 Davacı vekili dava dilekçesinde; Bafra ilçesi, ... Mahallesi 118 ada 1 parsel sayılı taşınmazda davacının 16.78518 m² hisse sahibi olduğunu, diğer hissedarların söz konusu parselde kendi aralarında fiili bir taksim yaptıklarını, yapılan bu fiili taksimin yaklaşık 20 yıldan fazla devam ettiğini, ÇKS sisteminden de anlaşılacağı üzere davacının 10 dönümlük kısma yonca ektiğini, dava konusu taşınmazı davalıların babaları ...'ın 28.11.2019 tarihinde Nesim Seven isimli kişiden aldığını, 2.279 m² yerleri bulunmasına rağmen 10 dönüm yeri işgal ettiklerini belirterek dava konusu Samsun ili, Bafra ilçesi, ... Mahallesi 118 ada 1 parsel numaralı taşınmazda davalıların babasına ait 2.279 m² yerleri bulunmasına rağmen davalıların 10 dönümlük kısma yaptığı haksız el atmanın önlenmesine karar verilmesini talep etmiştir.
 
@@ -89,6 +97,8 @@ O halde, paydaşlar arasındaki elatmanın önlenilmesi davalarında öncelikle 
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/1076 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043506400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın reddine, birleştirilen ilk davanın kabulüne, birleştirilen ikinci davanın reddine karar verilmiştir.
 
@@ -111,6 +121,8 @@ Yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan 
 
 ## Yargıtay 5. HD 2024/856 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1036921800)
+
 Davacılar vekili dava ve birleştirilen dava dilekçelerinde özetle; İstanbul ili, Kadıköy ilçesi, ... (...) Mahallesi 746 ada 1 parsel sayılı taşınmazda davacıların hissedar olduğunu, taşınmaza davalı idare tarafından kamulaştırma yapılmaksızın el atıldığını belirterek belirlenecek tazminat bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -127,6 +139,8 @@ düzenleme ortaklık payı olarak ayrılan kısımda olup olmadıkları tespit e
 İlk Derece Mahkemesinin kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1030826200)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne-kısmen reddine karar verilmiştir.
 
@@ -148,6 +162,8 @@ Söz konusu açıklamayı somut uyuşmazlığımız bakımından değerlendirdi�
 
 ## Yargıtay 5. HD 2023/12127 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999899000)
+
 Davalı DSİ Genel Müdürlüğü vekili cevap dilekçesinde özetle; dava konusu taşınmazlardan 1835, 2792, 3294 ve 3293 parsellerin Büyükçekmece Barajı inşaatı nedeniyle idarece kamulaştırıldığını, uzlaşmanın dava şartı olduğunu, uzlaşma için idareye başvuru yapılmadan dava açıldığından davanın reddi gerektiğini, dava konusu 1835 parsel ... taşınmazın tamamının kamulaştırıldığını, tapu malikleri ve davacıların murisi ... ...'nın babası ... ...'ya Beşiktaş 3.
 
 …
@@ -161,6 +177,8 @@ Arsa niteliğindeki dava konusu ... ...'nın hissedarı bulunduğu İstanbul ili
 Davacılar ve İski Genel Müdürlüğü vekillerinin temyiz itirazları yerinde görülmediğinden usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2023/11945 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021330600)
 
 Davacı idare vekili dava dilekçesinde özetle;Mersin ili, Tarsus ilçesi, ... köyü, Tahta Mevkii sınırları dahilinde bulunan 493, 982 ve 983 parseller ile Mersin ili, Tarsus ilçesi, Kayadibi köyü, Çatalgeçit Mevkii 146 ada 1 parsel, ... köyü, 137 ada 6 parseldeki taşınmazların davalı idare tarafından 1973 yılında Berdan Barajı Göl sahası için fiilen el konulduğunu belirterek kamulaştırmasız el atılan taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 
@@ -182,6 +200,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 5. HD 2023/10423 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998447400)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; dava konusuz kaldığından karar verilmesine yer olmadığına karar verilmiştir.
 
 …
@@ -202,6 +222,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 5. HD 2023/10199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994143300)
+
 Davacı vekili dava dilekçesinde; dava konusu ... ili, ... ilçesi, ... Mahallesi, 27794 ada 6 parsel sayılı taşınmaza davalı idarece fiilen el atıldığından bahisle kamulaştırmasız el atmaya dayalı taşınmaz bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -219,6 +241,8 @@ yeniden esas hakkında hüküm kurulmuştur.
 Davalı idare vekilinin temyiz itirazlarının kısmen kabulü ile temyiz olunan Bölge Adliye Mahkemesi kararının (4) numaralı bendinin hükümden çıkarılmasına yerine ''Alınması gerekli 1.024,65 TL harçtan peşin alınan 256,17 TL ve 54,40 TL başvurma harcının mahsubu ile bakiye 714,08 TL'nin davalıdan alınarak hazineye irat kaydına, davacının yatırmış olduğu 54,40 TL başvurma harcı, 256,17 TL peşin harç toplamı 310,57 TL harcın davalıdan alınarak davacıya verilmesine,'' cümlesinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2023/9491 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988465300)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kabulüne, birleştirilen davanın ise konusuz kalması nedeniyle karar verilmesine yer olmadığına karar verilmiştir.
 

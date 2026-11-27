@@ -21,17 +21,25 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769983100)
+
 24\. 634 sayılı Kat Mülkiyeti Kanunu’nun (KMK) 27. maddesi uyarınca kat malikleri kurulunun tüzel kişiliği ve taraf ehliyeti yoktur. Kat mülkiyeti ile ilgili davalar kural olarak kat malikleri tarafından veya kat maliklerine karşı açılır. Aynı Kanun’un 32. maddesinde ana gayrimenkulün kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek kararlara göre yönetileceği, 34. maddesinde ise kat maliklerinin, ana gayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye (yönetici) veya üç kişilik bir kurula (yönetim kurulu) verebilecekleri belirtilmiştir. Bu maddeye göre seçilen yöneticinin görevleri ise 634 sayılı KMK’nın 35. maddesinde ayrı ayrı sayılmış ve maddenin (a) bendinde "kat malikleri kurulunca verilen kararların yerine getirilmesi" yöneticinin görevleri arasında gösterilmiştir. Kanun koyucu tüzel kişiliği bulunmayan bu kurula 634 sayılı Kanun’un 35. maddesi ile; bu kanundan doğan yetki ve görevleri kapsamındaki bazı iş ve işlemlerde kat maliklerini temsilen hukukî ilişki kurma ve dava takip yetkisi vermiştir.
 
 ## Yargıtay HGK 2021/746 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686519800)
 
 KMK’nın 35. maddesinin (i) bendine göre; kat mülkiyetine ilişkin borç ve yükümlülüklerini yerine getirmeyen kat maliklerine karşı icra takibi yapılması ve dava açılması görevinin yerine getirilmesi için ayrıca bir kat malikleri kurulu kararı alınmasına gerek yoktur. Bu bentte sözü edilen ve yöneticinin kat malikleri kurulu kararı alınmasına gerek olmaksızın icra takibi yapmasını ve dava açmasını olanaklı kılan borç ve yükümlülükler, ortak giderler ve bunlarla ilgili avanslar gibi salt parasal borç ve yükümlülüklerdir. Ortak yerlere tecavüz, projeye aykırı değişiklikler gibi kat maliklerinin mülkiyet hakkını doğrudan ilgilendiren hususlarda yöneticinin icra takibi yapma veya dava açma hakkı yoktur (Pulak, s. 577; Germeç, M.E; Kat Mülkiyeti Hukuku, ... 2020, s. 967).
 
 ## Yargıtay HGK 2018/1364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/457008300)
+
 Bu maddeye göre seçilen yöneticinin görevleri ise 634 sayılı KMK’nın 35. maddesinde ayrı ayrı sayılmış ve maddenin (a) bendinde "kat malikleri kurulunca verilen kararların yerine getirilmesi" yöneticinin görevleri arasında gösterilmiştir. Sözü edilen Kanunun 38. maddesinde de yöneticinin, kat maliklerine karşı aynen bir vekil gibi sorumlu bulunduğu düzenlenmiştir.
 
 ## Yargıtay HGK 2017/604 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/332557100)
 
 Kat Mülkiyeti Kanununun 32. maddesinde ise anagayrimenkulün kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek kararlara göre yönetileceği, 34. maddesinde de kat maliklerinin, anagayrimenkulün yönetimini kendi
 
@@ -44,6 +52,8 @@ Bu maddeye göre seçilen yöneticinin görevleri ise Kanun'un 35. maddesinde ay
 
 ## Yargıtay 6. HD 2025/2582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187965700)
+
 1\. 634 sayılı Kat Mülkiyeti Yasası'nın 35. maddesinde yöneticinin görevleri sayılmış ve aynı Yasanın 38. maddesinde ise, yöneticinin kat maliklerine karşı aynen bir vekil gibi sorumlu bulunduğu belirtilmiştir. Apartman yönetiminin tüzel kişiliği yok ise de; yönetici yasadan ve yönetim plânından kaynaklanan yetkisine dayanarak üçüncü kişilerle borç ve alacak ilişkisi doğuracak sözleşmeler yapabilir. Taşınmaz malın yönetiminin gerektirdiği giderleri yapmak ve buna yönelik sözleşme imzalamak 634 sayılı Yasa'nın 35. maddesi hükmü kapsamındaki yönetici görevlerindendir. Apartman yönetimi ile kat malikleri arasındaki ilişkide temsil ve vekalet hükümleri uygulanacak ise de, bu maddi hukuk anlamındadır. Yani yönetim ile kat malikleri arasındaki iç ilişkide temsil ve vekalete ilişkin maddi hukuk kuralları uygulanacaktır. Usul hukuku anlamında ise doğrudan temsil ve vekalet hükümlerine gidilemeyecek dava ve taraf ehliyeti bakımından muhatabın kim olduğuna bakılacaktır.
 Usul hukuku anlamında yönetim görevine giren konularda apartman yönetiminin dava ve taraf ehliyeti var ise artık usul hukuku anlamında muhatap da apartman yönetimi olup, kat maliklerinin temsil ve vekalet hükümleri uygulanır diye aleyhlerine ayrı davalar açılabileceğinden söz edilemeyecektir. Yönetimin görevine giren konularda kat maliklerine de dava ve taraf olma ehliyeti tanınırsa bir dava ile çözülecek konuda her kat maliki için ayrı dava açılabileceği sonucu ortaya çıkar ki bu usul ekonomisi ilkesine de
 
@@ -51,27 +61,39 @@ uygun düşmeyecektir. Temsil ve vekalet ilişkisi bulunan hallerde usul hukuku 
 
 ## Yargıtay 6. HD 2025/2186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160195700)
+
 634 sayılı Kat Mülkiyeti Kanunu'nun 34. maddesi gereğince sekiz ve daha fazla bölümü olan ana taşınmaza yönetici atanması zorunludur. Aynı Yasa'nın 38. maddesinde yöneticinin kat maliklerine karşı aynen bir vekil gibi sorumlu bulunduğu düzenlenmiştir. Yine sözü edilen Yasa'nın 35. maddesinde ise yöneticinin görevleri sayılmıştır. Yönetici, yasadan ve yönetim planından kaynaklanan yetkisine dayanarak üçüncü kişilerle borç ve alacak ilişkisi doğuracak sözleşmeler yapabilir. Bu tür sözleşmeler, kat maliklerinin adına ve hesabına hukuksal sonuç doğurur. Bu durumda, sözleşmeyi kat malikleri adına yapan site yöneticisinin sözleşme borçlusuna karşı dava veya takip yöneltmesi ya da aynı şekilde yöneticiye karşı dava veya takip yöneltilmesi olanaklıdır. Yöneticinin kat malikleri adına sözleşme yapmadığı durumlarda ise (örneğin arsa sahiplerinin yüklenici ile yaptıkları kat karşılığı inşaat sözleşmesinde), binadaki eksik ve ayıpların giderimi ile ilgili olarak kat maliklerince yetki verilse dahi bu yetki KMK.'nın 35. maddesindeki görevleri kapsamında olmayacağı için yöneticinin aktif ya da pasif taraf sıfatı kural olarak olmayacaktır.
 
 ## Yargıtay 3. HD 2024/4106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134870500)
 
 1\. 634 sayılı Kanun'un 2 nci maddesinin (b) bendinde, bu kanuna göre ana gayrimenkulün bağımsız bölümleri dışında kalıp, korunma ve ortaklaşa kullanma veya faydalanmaya yarayan yerler "ortak yerler"; kat maliklerinin ortak malik sıfatıyla paydaşı bulundukları bu yerler üzerindeki faydalanma hakları da "kullanma hakkı" olarak tanımlanmıştır. Bu tanıma paralel olarak kat mülkiyeti ya da kat irtifakı kurulu olan ana gayrimenkulün ortak yerleri üzerinde kat maliklerinin hakları Kanun'un 16 ncı maddesinin birinci fıkrasında düzenlenmiş ve kat maliklerinin ana gayrimenkulün bütün ortak yerlerine arsa payları oranında ve ortak mülkiyet hükümlerine göre malik oldukları hüküm altına alınmıştır. Kanun'un 32 nci maddesinde ise ana gayrimenkulün kat malikleri kurulu tarafından sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek kararlara göre yönetileceği, 34 üncü maddesinde de kat maliklerinin, ana gayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye (yönetici) veya üç kişilik bir kurula (yönetim kurulu) verebilecekleri belirtilmiştir.
 Bu maddeye göre seçilen yöneticinin görevleri ise Kanun'un 35 inci maddesinde ayrı ayrı sayılmış ve maddenin (a) bendinde "kat malikleri kurulunca verilen kararların yerine getirilmesi" de yöneticinin görevleri arasında gösterilmiştir. Kanun'un 38 inci maddesinde de yöneticinin, kat maliklerine karşı aynen bir vekil gibi sorumlu bulunduğu düzenlenmiştir.
 
 ## Yargıtay 3. HD 2024/3214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107492700)
+
 3\. 634 sayılı Kat Mülkiyeti Kanunu'nun 2 inci maddesinin (b) bendinde, bu Kanuna göre anagayrimenkulun bağımsız bölümleri dışında kalıp, korunma ve ortaklaşa kullanma veya faydalanmaya yarayan yerler "ortak yerler"; kat maliklerinin ortak malik sıfatıyla paydaşı bulundukları bu yerler üzerindeki faydalanma hakları da "kullanma hakkı" olarak tanımlanmıştır. Bu tanıma paralel olarak kat mülkiyeti kurulu olan anagayrimenkulün ortak yerleri üzerinde kat maliklerinin hakları Kanun'un 16 ncı maddesinin birinci fıkrasında düzenlenmiş ve kat maliklerinin anagayrimenkulün bütün ortak yerlerine, arsa payları oranında, ortak mülkiyet hükümlerine göre malik oldukları hüküm altına alınmıştır. Kat Mülkiyeti Kanunu'nun 32 inci maddesinde ise; anagayrimenkulün kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek kararlara göre yönetileceği, 34 üncü maddesinde de kat maliklerinin, anagayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye (yönetici) veya üç kişilik bir kurula (yönetim kurulu) verebilecekleri belirtilmiştir.
 Bu maddeye göre seçilen yöneticinin görevleri ise Kanunun 35 inci maddesinde ayrı ayrı sayılmış ve maddenin (a) bendinde "kat malikleri kurulunca verilen kararların yerine getirilmesi" de yöneticinin görevleri arasında gösterilmiştir. Sözü edilen Kanun'un 38 inci maddesinde de yöneticinin, kat maliklerine karşı aynen bir vekil gibi sorumlu bulunduğu düzenlenmiştir.
 
 ## Yargıtay 5. HD 2024/1224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021370300)
+
 Dairece yapılan temyiz incelemesi neticesinde 634 sayılı Kanun'un 35 nci maddesinin (d) bendi uyarınca ana taşınmazın korunması, onarımı ve bakımının yöneticinin görevleri arasında olduğu, yöneticinin bu işi kat maliklerinden toplayacağı avansla yapacağı dikkate alınarak bilirkişinin saptayacağı güçlendirme maliyetinin ana taşınmaz kat maliklerinden (davacı taraf da dahil) avans niteliğinde olarak Kanun'un 20/b maddesi uyarınca arsa payları da dikkate alınarak toplanması, masrafların daha fazla olması halinde kalan kısmın da kat maliklerinden alınması suretiyle onarımı yapması için varsa öncelikle yöneticiye yetki ve uygun bir süre verilmesi, yöneticinin bulunmaması veya yöneticinin yerine getirmemesi halinde davacı tarafın bu konuda yetkilendirilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmediğinden hükmün bozulmasına karar vermiştir.
 
 ## Yargıtay 5. HD 2023/8798 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975223900)
+
 3\. 634 sayılı Kanun'un 35 inci maddesi, yöneticinin görev ve yetkilerini belirlemiş olup, bunların arasında mülkiyet hakkı ile sıkı sıkıya bağlantısı olan müdahalenin önlenmesi ve projeye aykırılıkların eski hale getirilmesi davası açma yetki ve görevi bulunmamaktadır. Ancak kat mülkiyeti hukukunun özelliği itibarıyla uygulamada kat maliki olmayan yönetici, kat malikleri kurulu tarafından yetkilendirilmesi halinde böyle bir davayı açabilir. Somut olayda kat maliki olmayan yönetici, kat malikleri adına mülkiyet hakkına dayanan istemini ancak kat malikleri kurulundan yetki alması halinde dava konusu edebilir.
 
 ## Yargıtay 3. HD 2023/3879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1014741400)
 
 634 sayılı Kat Mülkiyeti Kanunu'nun 2 nci maddesinin (b) bendinde, bu kanuna göre anagayrimenkulun bağımsız bölümleri dışında kalıp, korunma ve ortaklaşa kullanma veya faydalanmaya yarayan yerler "ortak yerler"; kat maliklerinin ortak malik sıfatıyla paydaşı
 
@@ -79,13 +101,19 @@ bulundukları bu yerler üzerindeki faydalanma hakları da "kullanma hakkı" ola
 
 ## Yargıtay 5. HD 2023/2897 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897939400)
+
 Ana taşınmazın korunması, onarımı ve bakımının, 634 sayılı Kanun'un 35 inci maddesinin (d) bendi uyarınca yöneticinin görevleri arasında olduğu, yöneticinin bu işi kat maliklerinden toplayacağı avansla yapacağı dikkate alınarak, mahkemece teras onarım giderinin bilirkişiye tespit ettirilerek bunun kat maliklerinden avans olarak, 634 sayılı Kanun'un 20/b maddesi uyarınca arsa payları oranında toplanması, yapım masraflarının daha fazla olması durumunda kalanın da kat maliklerinden alınmak suretiyle gerekli onarımın yapılması hususunda öncelikle yöneticiyi görevlendirmesi, yöneticinin bulunmaması halinde davacının yetkili kılınması gerekirken sadece davalının bakım yükümlülüğünden sorumlu olacak şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2023/2374 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963955900)
+
 2\. 634 sayılı Kanun'un 32 nci maddesinde ise anagayrimenkulün kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek kararlara göre yönetileceği, aynı Kanun'un 34 üncü maddesinde de kat maliklerinin, anagayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye (yönetici) veya üç kişilik bir kurula (yönetim kurulu) verebilecekleri belirtilmiştir. Bu maddeye göre seçilen yöneticinin görevleri ise aynı Kanun'un 35 ... maddesinde ayrı ayrı sayılmış ve maddenin (a) bendinde "kat malikleri kurulunca verilen kararların yerine getirilmesi" de yöneticinin görevleri arasında gösterilmiştir. Sözü edilen Kanun'un 38 ... maddesinde de yöneticinin, kat maliklerine karşı aynen bir vekil gibi sorumlu bulunduğu düzenlenmiştir.
 
 ## Yargıtay 3. HD 2023/2176 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979016400)
 
 3.634 sayılı Kat Mülkiyeti Kanunu'nun 2 ... maddesinin (b) bendinde, bu Kanuna göre anagayrimenkulun bağımsız bölümleri dışında kalıp, korunma ve ortaklaşa kullanma veya faydalanmaya yarayan yerler "ortak yerler"; kat maliklerinin ortak malik sıfatıyla paydaşı bulundukları bu yerler üzerindeki faydalanma hakları da "kullanma hakkı" olarak tanımlanmıştır. Bu tanıma paralel olarak kat mülkiyeti kurulu olan anagayrimenkulün ortak
 
@@ -93,10 +121,14 @@ yerleri üzerinde kat maliklerinin hakları Kanun'un 16 ncı maddesinin birinci 
 
 ## Yargıtay 3. HD 2022/9329 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854486500)
+
 634 sayılı Kat Mülkiyeti Kanunu'nun 2. maddesinin (b) bendinde, bu kanuna göre ana gayrimenkulun bağımsız bölümleri dışında kalıp, korunma ve ortaklaşa kullanma veya faydalanmaya yarayan yerler “ortak yerler”; kat maliklerinin ortak malik sıfatıyla paydaşı bulundukları bu yerler üzerindeki faydalanma hakları da “kullanma hakkı” olarak tanımlanmıştır. Bu tanıma paralel olarak kat mülkiyeti kurulu olan ana gayrimenkulün ortak yerleri üzerinde kat maliklerinin hakları Kanun'un 16. maddesinin birinci fıkrasında düzenlenmiş ve kat maliklerinin ana gayrimenkulün bütün ortak yerlerine, arsa payları oranında, ortak mülkiyet hükümlerine göre malik oldukları hüküm altına alınmıştır. Kat Mülkiyeti Kanunu'nun 32. maddesinde ise; ana gayrimenkulün kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek kararlara göre yönetileceği, 34. maddesinde de kat maliklerinin, ana gayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye (yönetici) veya üç kişilik bir kurula (yönetim kurulu) verebilecekleri belirtilmiştir.
 Bu maddeye göre seçilen yöneticinin görevleri ise Kanunun 35. maddesinde ayrı ayrı sayılmış ve maddenin (a) bendinde “kat malikleri kurulunca verilen kararların yerine getirilmesi” de yöneticinin görevleri arasında gösterilmiştir. Sözü edilen Kanun'un 38. maddesinde de yöneticinin, kat maliklerine karşı aynen bir vekil gibi sorumlu bulunduğu düzenlenmiştir.
 
 ## Yargıtay 3. HD 2022/6412 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871497800)
 
 634 sayılı Kat Mülkiyeti Kanunu'nun 2. maddesinin (b) bendinde, bu kanuna göre ana gayrimenkulün bağımsız bölümleri dışında kalıp, korunma ve ortaklaşa kullanma veya faydalanmaya yarayan yerler "ortak yerler"; kat maliklerinin ortak malik sıfatıyla paydaşı bulundukları bu yerler üzerindeki faydalanma hakları da "kullanma hakkı" olarak tanımlanmıştır. Bu tanıma paralel olarak kat mülkiyeti kurulu olan ana gayrimenkulün ortak yerleri üzerinde kat maliklerinin hakları Kanun'un 16. maddesinin birinci fıkrasında düzenlenmiş ve kat maliklerinin ana gayrimenkulün bütün ortak yerlerine, arsa payları oranında, ortak mülkiyet hükümlerine göre malik oldukları hüküm altına alınmıştır. Kat Mülkiyeti Kanunu'nun 32. maddesinde ise; ana gayrimenkulün kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek kararlara göre yönetileceği, 34. maddesinde de kat maliklerinin, ana gayrimenkulün yönetimini kendi
 
@@ -104,13 +136,19 @@ aralarından veya dışarıdan seçecekleri bir kimseye (yönetici) veya üç ki
 
 ## Yargıtay 6. HD 2022/1983 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/754824300)
+
 3- 634 sayılı Kat Mülkiyeti Kanunu’nun (KMK) 32. maddesinde ana gayrimenkulün kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek kararlara göre yönetileceği, 34. maddesinde ise kat maliklerinin, ana gayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye (yönetici) veya üç kişilik bir kurula (yönetim kurulu) verebilecekleri belirtilmiştir. Bu maddeye göre seçilen yöneticinin görevleri ise 634 sayılı KMK’nın 35. maddesinde ayrı ayrı sayılmış ve maddenin (a) bendinde "kat malikleri kurulunca verilen kararların yerine getirilmesi" yöneticinin görevleri arasında gösterilmiştir. Sözü edilen Kanunun 38. maddesinde de yöneticinin, kat maliklerine karşı aynen bir vekil gibi sorumlu bulunduğu düzenlenmiştir.
 
 ## Yargıtay 3. HD 2022/1701 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/757850700)
+
 Kat Mülkiyeti Kanununun 32. maddesinde ise ana gayrimenkulün kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek kararlara göre yönetileceği, 34. maddesinde de kat maliklerinin, ana gayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye (yönetici) veya üç kişilik bir kurula (yönetim kurulu) verebilecekleri belirtilmiştir. Bu maddeye göre seçilen yöneticinin görevleri ise Kanunun 35. maddesinde ayrı ayrı sayılmış ve maddenin (a) bendinde" kat malikleri kurulunca verilen kararların yerine getirilmesi" de yöneticinin görevleri arasında gösterilmiştir. Sözü edilen Kanunun 38. maddesinde de yöneticinin, kat maliklerine karşı aynen bir vekil gibi sorumlu bulunduğu düzenlenmiştir.
 
 ## Yargıtay 5. HD 2021/8594 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686597600)
 
 Kat malikleri kurulunca 2014 yılında yapılan toplantıda ortak gider borcunu ödemeyen davacı hakkında tahsil işlemleri yönünden dava, takip ve vekil tayini için karar alındığı, bu toplantıya davacını katılmadığı, toplantının toplantı çağrı şartına uyulmaması nedeniyle iptaline karar verildiği, 01.09.2015 tarihli toplantıya davacının vekili ile katıldığı, toplantıda davaya devam edilmesi kararının 4/5 nitelikli çoğunluk ile alındığı (kararda davanın ne davası olduğunun belirtilmediği), karara davacının vekilinin muhalefet ettiği, kat mülkiyetine ilişkin borç ve yükümlerini yerine getirmiyen kat maliklerine karşı dava ve icra takibi yapılması ve kanuni ipotek hakkının kat mülkiyeti kütüğüne tescil ettirilmesinin 634 sayılı KMK.nun 35.maddesi gereğince yöneticinin görevleri arasında olduğu ve bu hususta karar alınmasına gerek bulunmadığı, ayrıca örneğin ortak alana müdahalenin önlenmesi ve eski hale getirilmesi gibi başkaca davalar yönünden yöneticiye yetki verilmesi kararlarına, kat malikleri kurulunun katılanların salt çoğunluğu ile karar verebileceği anlaşılmakla, dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, davanın
 
@@ -118,45 +156,67 @@ reddine karar verilmesinde bir isabetsizlik bulunmadığından yerinde görülme
 
 ## Yargıtay 15. HD 2021/2625 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671274400)
+
 634 sayılı Kat Mülkiyeti Kanunu'nun 35 nci maddesinde yöneticinin görevleri sayılmış ve aynı Kanunun 38 nci maddesinde ise, yöneticinin kat maliklerine karşı aynen bir vekil gibi sorumlu bulunduğu belirtilmiştir. Apartman yönetiminin tüzel kişiliği yok ise de; yönetici Kanundan ve yönetim plânından kaynaklanan yetkisine dayanarak üçüncü kişilerle borç ve alacak ilişkisi doğuracak sözleşmeler yapabilir. Kat maliklerinin vekili olduğundan bu tür sözleşmeler onların adına ve hesabına hukuki sonuç doğurur. Taşınmaz malın yönetiminin gerektirdiği giderleri yapmak ve buna yönelik sözleşme imzalamak 634 sayılı Kanun'un 35 nci maddesi hükmü kapsamındaki yönetici görevlerindendir. Ayrıca yönetimde devamlılık esas olduğundan apartman yönetininin değişmiş olması halinde yönetimin sözleşme ilişkisi nedeniyle sorumluluğu sona ermiş somut olayda da asansörün bakım ve onarımı ile ilgili sözleşmeleri sözlü ya da yazılı olarak kat maliklerini temsilen yönetici ya da yönetim kurulu yapabilir.
 
 ## Yargıtay 15. HD 2021/635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651768100)
 
 634 sayılı Kat Mülkiyeti Kanununa göre seçilen yöneticinin görev süresi dolsa da yeni yönetici seçilinceye kadar görevi devam edecektir. Bu durumda mahkemece, 05.02.2012 tarihinden itibaren kat malikleri kurulu toplantısı yapılıp yapılmadığı araştırılıp, yapılmamış ise yöneticinin görevi devam ettiğinden sözleşmenin davalı ... yönünden geçerli olduğu kabulü ile tarafların delilleri toplanıp sonucuna göre bir karar verilmesi gerekirken eksik incelemeye dayalı olarak yazılı şekilde hüküm kurulması doğru olmamıştır.SONUÇ:…
 
 ## Yargıtay 17. HD 2020/4341 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592144700)
+
 Kabule göre, 634 sayılı Kat Mülkiyeti Kanunu’nun 34. maddesinin 1. fıkrasında “Kat malikleri, ana gayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye veya üç kişilik bir kurula verebilirler; bu kimseye (Yönetici), Kurula da (Yönetim Kurulu) denir.” hükmü yer almakta, aynı Kanunun 35.maddesinde de yöneticinin görevleri sayılmaktadır. Yine aynı Kanunun 38. maddesinde yöneticinin sorumluluğuna ilişkin genel kural “Yönetici, kat maliklerine karşı aynen bir vekil gibi sorumludur.” şeklinde ortaya konularak 39. maddesinde ise yöneticinin hesap verme yükümlülüğü düzenlenmekte; 40. maddenin 1. fıkrasında ise Yöneticinin Hakları “Yönetici kaide olarak vekilin haklarına sahiptir.” şeklinde ifade edilmektedir. Bu hükümler göstermektedir ki, ana gayrimenkulün yönetimi için atanan yönetici veya Yönetim Kurulu vekil statüsündedir. Dolayısıyla gerek iç ilişkide, gerek dış ilişkide vekil gibi sorumlu ve vekilin haklarına sahiptir. (HGK 08.11.2006 gün 2006/12-682 E. 2006/682 K)…
 
 ## Yargıtay 17. HD 2019/8541 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550236600)
 
 634 sayılı Kat Mülkiyeti Kanunu’nun 34. maddesinin 1. fıkrasında “Kat malikleri, ana gayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye veya üç kişilik bir kurula verebilirler; bu kimseye (Yönetici), Kurula da (Yönetim Kurulu) denir.” hükmü yer almakta, aynı Kanunun 35.maddesinde de yöneticinin görevleri sayılmaktadır. Yine aynı Kanunun 38. maddesinde yöneticinin sorumluluğuna ilişkin genel kural “Yönetici, kat maliklerine karşı aynen bir vekil gibi sorumludur.” şeklinde ortaya konularak 39. maddesinde ise yöneticinin hesap verme yükümlülüğü düzenlenmekte; 40. maddenin 1. fıkrasında ise Yöneticinin Hakları “Yönetici kaide olarak vekilin haklarına sahiptir.” şeklinde ifade edilmektedir. Bu hükümler göstermektedir ki, ana gayrimenkulün yönetimi için atanan yönetici veya Yönetim Kurulu vekil statüsündedir. Dolayısıyla gerek iç ilişkide, gerek dış ilişkide vekil gibi sorumlu ve vekilin haklarına sahiptir. (HGK 08.11.2006 gün 2006/12-682 E. 2006/682 K)…
 
 ## Yargıtay 3. HD 2019/6319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519398200)
+
 634 sayılı KMK'nın 38. maddesinde yöneticinin sorumluluğuna ilişkin genel kural, " Yönetici, kat maliklerine karşı aynen vekil gibi sorumludur. " şeklinde ortaya konularak ; 39. maddesinde ise yöneticinin hesap verme yükümlülüğü düzenlenmekte ; 40. Maddenin 1. fıkrasında ise yöneticinin hakları , " Yönetici kaide olarak vekilin haklarına sahiptir." şeklinde ifade edilmektedir.
 
 ## Yargıtay 14. HD 2019/3942 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/518018500)
 
 Öte yandan, 634 Sayılı Kat Mülkiyeti Kanununun 35. maddesi hükmüne göre, ana gayrimenkulün gayesine uygun olarak kullanılması, korunması, bakım ve onarımı için gereken tedbirleri almak yöneticinin görevleri arasındadır. Ana gayrimenkulü tehlikeye sokacak davranışlara karşı haksız elatmanın önlenmesi yönetici tarafından haksız elatana karşı açılacak davada talep edilebilir. Burada önemli olan, davalının haksız bir elatmasının var olup olmadığının tespit edilmesidir, kuşkusuz bunu ispat yükü de davacı yöneticiye düşer.
 
 ## Yargıtay 20. HD 2019/2958 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/506173900)
+
 Anataşınmazın korunması, onarımı ve bakımının, bu bağlamda yapının eski haline getirilmesinin Kat Mülkiyeti Kanununun 35. maddesinin (d) bendi uyarınca yöneticinin görevleri arasında olduğu ve yöneticinin bu işi kat maliklerinden toplayacağı avansla yapacağı dikkate alınarak; mahkemece anataşınmazın onaylı mimari projesinde mevcut asansörlerin çalıştırılması için bilirkişi tarafından saptanan yapılması gereken işlemlerin hüküm fıkrasında tek tek belirtilerek, bu işlemlerin maliyetinin davacılar da dahil tüm kat maliklerinden Kanunun 20/B maddesi uyarınca arsa payları oranında avans olarak toplanması, yapım masraflarının fazla olması durumunda ise kalan kısmın da kat maliklerinden alınmak suretiyle yapılacak onarımlar için öncelikle yöneticinin görevlendirilmesi, yöneticinin bu görevleri yerine getirmemesi halinde de davacıların yetkili kılınması gerektiğinin düşünülmemesi,…
 
 ## Yargıtay 15. HD 2019/686 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479668300)
 
 Öte yandan apartman yönetiminin tüzel kişiliği olmadığından taraf sıfatı bulunmamakla birlikte 634 sayılı Kat Mülkiyeti Kanunu'nun 35. maddesinde belirtilen yöneticinin görevleri kapsamında ve bununla sınırlı olan sözleşme yapma yetkisi ve buna ilişkin uyuşmazlıklarda taraf sıfatı ile ehliyetinin bulunduğu kabul edilmektedir (Yargıtay 15. Hukuk Dairesi'nin 27.03.2009 gün 2008/1563 Esas, 2009/1782 ; 28.02.2012 gün 2010/7597 Esas 2012/1183 Karar; 10.05.2010 gün 2009/1180 Esas 2010/2748 Karar sayılı ilamları). Apartman yöneticisinin kat karşılığı inşaat yapım sözleşmesine dayanarak dava açması mümkün değildir.
 
 ## Yargıtay 20. HD 2019/524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481263300)
+
 634 sayılı KMK’nın 35. maddesine göre anagayrimenkulün bakımı, korunması için kat malikleri yararına olan hususlarda gerekli tedbirlerin onlar adına alınması, yöneticinin görevi arasındadır. 634 sayılı KMK'ın 38. maddesi hükmüne göre yönetici, kat maliklerine karşı aynen bir vekil gibi sorumludur. Yönetici yönetim görevlerini kat malikleri adına dikkat ve özen göstererek yapması gerekip kendi kusur ve ihmaliyle oluşan zararlarda da şahsen sorumludur. Aynı Kanunun 39. maddesinde kat maliklerine hesap vermekle yükümlü olduğu hükmü düzenlenmiştir.
 
 ## Yargıtay 8. HD 2018/17791 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/511508800)
+
 Bilindiği üzere, 634 sayılı Kat Mülkiyeti Kanunu’nun 35. maddesinde, yöneticinin görevlerinin yönetim planında belirtileceği, yönetim planında aksine hüküm olmadıkça maddede sayılan işlerin yönetici tarafından yerine getirileceği açıklanmıştır. Anılan maddenin (b) bendinde “Anagayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için gereken tedbirlerin alınması”, (g) bendinde ise, “Anagayrimenkulü ilgilendiren bir sürenin geçmesinden veya bir hakkın kaybına meydana vermeyecek gerekli tedbirlerin alınması”, (h) bendinde “Anagayrimenkulün korunması ve bakımı için kat maliklerinin yararına olan hususlarda gerekli tedbirlerin, onlar adına alınması” yöneticinin görevleri arasında sayılmış; yasanın 38. maddesinde ise yöneticinin, kat maliklerine karşı aynen vekil gibi sorumlu olduğu düzenlenmiştir.
 
 ## Yargıtay 20. HD 2018/7720 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470873100)
 
 634 sayılı Kat Mülkiyeti Kanununun yöneticinin görevlerini gösteren 35. maddesinin (d) bendine göre yönetici anataşınmazın genel yönetim işlerini görmekle yükümlüdür. Aynı Kanunun 38. maddesine göre de yönetici, kat maliklerine karşı aynen bir vekil gibi sorumludur. Bu saptamalar yapıldıktan sonra somut olaya gelince; siteye ait elektrik, su ve doğalgaz borçlarını yatırmak yöneticinin görevleri arasındadır. Buna karşın davalı yöneticinin, yöneticilik yaptığı dönem içerisinde yatırması gereken bu borcunu yatırmaması nedeniyle sorumlu tutulabilmesi, her şeyden önce apartmanın ortak kasasında para bulunmasına, diğer bir anlatımla kat maliklerinin bu giderleri karşılaması için gerekli olan
 
@@ -164,18 +224,26 @@ aidatları süresinde ödemelerine, davalının da bu borcu ödeyecek paraya sah
 
 ## Yargıtay 20. HD 2018/7304 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465372100)
+
 Kat Mülkiyeti Kanununun 38. maddesinde yöneticinin sorumluluğu "Yönetici, kat maliklerine karşı aynen bir vekil gibi sorumludur." şeklinde düzenlenmiştir. Aynı maddede yönetime karşı açılan davaların bildirim şekli düzenlenmediğinden, davaya konu edilen ve davacı tarafça yönetime karşı açılan davalar yönünden tarafların delilleri sorularak gerektiğinde tanık deliline başvurulmak suretiyle dava tarihi itibariyle yönetimin bildirim görevini yerine getirip getirmediği denetlenmeli ve oluşacak sonuca göre karar verilmesi gerekmektedir.
 
 ## Yargıtay 20. HD 2018/7244 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465297200)
 
 Yöneticinin görev ve yetkilerini belirleyen 634 sayılı Kat Mülkiyeti Kanununun 35. maddesine göre, yöneticinin mülkiyet hakkının kullanılmasına bağlı olan ortak yere elatmanın önlenmesi davasını açma yetki ve görevi bulunmamaktadır. Bu nitelikteki bir davayı yöneticinin açabilmesi için anataşınmazda kat maliki olması ya da bu konuda kendisine kat malikleri kurulunca özel yetki verilmesi gerekir. Dosya içerisindeki bilgi ve belgelerin incelenmesinde; davanın yönetimi temsilen... tarafından açıldığı ancak kat malikleri kurulunca bu davanın açılabilmesi için yetki verilmediği anlaşılmıştır. Dosyada mevcut tapu kaydının incelenmesinde davacılardan ...’in kat maliki olmadığı, diğer davalı ...’ın K5 blok zemin kat 2 nolu bağımsız bölümün ½ maliki olduğu ve malik sıfatıyla davaya devam etmek istediği, kalan ½ paya ise eşi ...’ın malik olduğu ve 03.06.2016 tarihli dilekçesi ile dava ile ilgili olarak davacı ...’a muvafakat verdiği tespit edilmiştir.
 Anataşınmazda kat maliki olup aktif dava ehliyeti bulunan davacının davaya devam etmesinde hukuka aykırılık bulunmadığından ayrıca davalıların projeye aykırı olarak ortak alana müdahale ettikleri sabit olduğundan mahkemece yazılı şekilde karar verilmesinde isabetsizlik bulunmayıp dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının davalı ...'ya yükletimesine 12/11/2018 günü oy birliğiyle karar verildi.
 
 ## Yargıtay 20. HD 2018/7155 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465627800)
+
 2-634 sayılı Kat Mülkiyeti Kanununun 35. maddesinde, yöneticinin görevleri arasında anagayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için gereken tedbirlerin alınması düzenlendiğinden, Kanundaki bu düzenleme ile anagayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için gereken tedbirlerin alınmaması nedeniyle zarara uğrayan tarafa kat maliklerini temsilen yöneticiye de husumet yöneltme hakkının tanındığının düşünülmemiş olması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/6955 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466511500)
 
 634 sayılı Kat Mülkiyet Kanununun 35. maddesi "Yöneticinin görevleri"nden olarak; 1. fıkrasının "b" bendinde, "Anagayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için gereken tedbirlerin alınması"nı ve "h" bendinde "Anagayrimenkulün korunması ve bakımı için kat maliklerinin yararına olan hususlarda gerekli tedbirlerin, onlar adına alınmasını" düzenlemiş olmakla; kat maliklerince 09.12.2015 tarihli toplantıda alınan kararlarla, yapımını üstlendiği inşaattaki ayıplı ve eksik işlerin giderilmesini teminen yüklenici hakkında dava açılması için yöneticiye yetki verildikten sonra, ilgili davayı avukatla takip için 2017/2161 - 2018/6955 de yetki ve izin verildiği toplantı tutanağının incelenmesinden açıkça anlaşılmakla; bu aşamada ana taşınmazda kat mülkiyetine geçildiği, yönetim planına uygun olarak yönetici de tayin edildiği dikkate alınarak, yöneticiye, genel hükümlere göre üçüncü şahıs olan müteahhidin eksik ve ayıplı yaptığı işler nedeniyle uğranılan zararların tazmini istemiyle dava açma konusunda izin, yetki ve muvafakat verildiği dikkate alınarak, yerel makemece bu yönü ile davaya devam edilip davanın esasına girilerek deliller toplandıktan sonra bir
 karar verilmesi gerekirken, eksik ve yetersiz inceleme ile davacı yönetimi temsilen yöneticinin aktif husumet ehliyetinin bulunmadığı gerekçesiyle; davanın aktif husumetten usülden reddine karar verilmiş olması doğru görülmemiştir.

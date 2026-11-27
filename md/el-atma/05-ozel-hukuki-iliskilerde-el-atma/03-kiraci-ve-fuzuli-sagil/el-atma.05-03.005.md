@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2009/12514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846407900)
+
 Davacı, 01.10.1988 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi ile davacının maliki olduğu 609 sayılı parselin A harfi ile gösterilen 300 m2 kısmının davalı tarafından kendisine satıldığını, 250 m2’ye karşılık gelen bedeli ödediğini, ancak davalının tapuda ferağ işlemini yapmadığını, 609 sayılı parselin 300m2’sinin tapu kaydının iptali ile adına tescilini, olmadığı takdirde Türk Medeni Kanununun 724. maddesi uyarınca aynı yerin kaydının iptali ile adına tescilini, mümkün bulunmaması halinde ödediği satış bedelinden şimdilik 1 milyar liranın bina bedeli olarak da şimdilik 6 milyar liranın davalıdan tahsiline karar verilmesini istemiştir.
 
 Davalı, taraflar arasında taşınmaz satış sözleşmesi değil, kira ilişkisi bulunduğunu, davacının kira bedelini ödemede temerrüde düştüğünü, 16.07.1992 tarihinde tahliye için ihtarname gönderdiğini ve hakkında icra takibi yaptığını, davanın reddine, karşı davada ise davacının 609 sayılı parsele kısmen oluşan elatmasının kal suretiyle giderilmesine karar verilmesini savunmuş ve dava etmiştir.
@@ -44,6 +46,8 @@ SONUÇ: Tarafların temyiz itirazlarının kabulü ile temyiz olunan kararın yu
 
 ## Yargıtay 1. HD 2009/5666 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78500000)
+
 Davacı, mülkiyeti davalıya ait olan 76 ada 53 parseldeki 4 nolu bağımsız bölümü 11.07.2005 tarihinde satın aldığı halde davalının taşınmazı boşaltmadığını, kendisine teslim etmediğini ileri sürüp, elatmanın önlenmesi ve ecrimisil istemiştir.
 
 Davalı, dava konusu taşınmazın satışı sırasında 5 yıl süreyle bedelsiz olarak oturma ve tekrar kendisine devredilme konusunda davacı ile aralarında anlaşma bulunduğunu, bu anlaşma nedeniyle davacının bugüne kadar kira bedeli veya tahliye talep etmediğini bildirip, davanın reddini savunmuştur.
@@ -62,11 +66,15 @@ Davalının temyiz itirazları yerindedir. Kabulüyle hükmün bu yöne hasren H
 
 ## Yargıtay 15. HD 2009/2964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854599800)
+
 Davacı arsa sahibi, yüklenici ile yükleniciden taşınmazı kiracı sıfatı ile alan Utku aleyhine elatmanın önlenmesi ve ecrimisil isteminde bulunmuştur. Davalı ... kiracı olarak taşınmazda bulunduğunu bildirmiş kiracı sıfatıyla savunma yapmıştır. Mülkiyete yönelik iddiası yoktur. Dava feragat nedeniyle red olduğundan dava değerinin ecrimisil değeri olan 900,00 TL esas alınarak vekâlet ücretinin hesaplanması gerekir. Nisbi olarak belirlenecek miktar maktu ücretten az olamayacağından davalı ... yararına maktu vekâlet ücretine karar verilmesi gerekirken yanlış değerlendirme ile fazla miktarda nisbi vekâlet ücretine karar verilmesi doğru olmamış, mahkeme kararının bu nedenle bozulması gerekmiştir. Ancak bu husus yeniden yargılama yapılmasını gerektirmediğinden, HUMK’nın 438/VII. maddesi uyarınca hükmün düzeltilerek onanması uygun görülmüştür.
 
 SONUÇ:Yukarıda açıklanan nedenlerle davacının temyiz isteminin kabulüne mahkeme kararının hüküm kısmındaki (2.) madde 4. kelimesi olan “12,454 TL”’nin hükümden çıkarılmasına yerine “575,00 TL” rakamının yazılmasına, hükmün değiştirilen bu şekli ile DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 1. HD 2008/4321 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77921600)
 
 Davacı Hazine kayden maliki olduğu 1573 parsel sayılı taşınmaza davalı tarafından otopark olarak kullanılmak suretiyle müdahale edildiğini ileri sürüp; elatmanın önlenmesi ile taşınmaz üzerindeki muhtesatın yıkımı isteğinde bulunmuştur.
 
@@ -84,6 +92,8 @@ Hal böyle olunca; yukarıda değinilen kira sözleşmesinin Borçlar Kanununun 
 
 ## Yargıtay 1. HD 2008/3083 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78299600)
+
 Davalı, çekişme konusu taşınmazı kiracı sıfatıyla kullandığını, kira bedelini düzenli olarak davacıya ödediğini belirterek, davanın reddini savunmuştur.
 
 Mahkemece, davalının taşınmazı kiracı sıfatıyla kullandığı gerekçesiyle, davanın reddine karar verilmiştir.
@@ -97,6 +107,8 @@ Ecrimisil isteği yönünden temyiz itirazına gelince; davacının elatmanın �
 Davacının bu yöne ilişkin temyiz itirazlarının kabulü ile HUMK.'nun 428.maddesi gereğince hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2007/4046 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78184800)
 
 Davacı, kayden belediyeye ait ..ada ... parsel sayılı taşınmaz ile kamu malı sahanın davalı idare tarafından işgal edildiğini iler sürerek, elatmanın önlenmesi ve ecrimisil isteğinde bulunmuştur.
 
@@ -113,6 +125,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkind
 O halde, davalının taşınmazı kira sözleşmesi gereğince kullandığının kabulüne olanak yoktur. Hal böyle olunca, elatmanın önlenmesi isteği yönünden tarafların iddia ve savunmaları doğrultusunda delillerin toplanması, işin esasına girilerek bir karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu üzere karar verilmiş olması doğru değildir. Davacının temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 12.4.2007 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2007/1750 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77968200)
 
 Davacı, kayden maliki olduğu .parsel sayılı taşınmazdaki .nolu bağımsız bölümün, davalı tarafından haklı bir neden olmaksızın kullanıldığını ileri sürerek, elatmanın önlenmesi isteğinde bulunmuştur.
 
@@ -131,6 +145,8 @@ Hemen belirtilmelidir ki, taraflar arasında usulüne uygun düzenlenen geçerli
 Bu durumda, işin esasına girilerek tarafların iddia ve savunmaları doğrultusunda gerekli inceleme ve araştırmanın yapılması, mahkemenin kabulünde olduğu gibi taşınmazın davanın devamı sırasında terk edildiğinin anlaşılması halinde davanın konusuz kaldığı gözetilerek, karar verilmesine yer olmadığına dair hüküm kurulması aksi takdirde soruşturmanın tamamlanması ve varılacak sonuç çerçevesinde bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı olduğu üzere karar verilmesi doğru değildir. Davacının temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2007/1547 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854145500)
 
 Davacı, ...., İli ....,İlçesi ....,Köyü Sıra No:2 de dava dışı hazine adına kayıtlı bulunan taşınmazda yine dava dışı ... ile ½ oranında intifa hakkı bulunduğunu, intifa hakkının irtifak hakkına dönüşümü sırasında irtifak hakkının ortak ve eşit yazılması gerekirken sadece dava dışı ...A.Ş lehine tescil edildiğini hatanın giderilmesi için açılan davanın lehine sonuçlandığını, mahkeme kararının da 21.11.2002 tarihinde kesinleştiğini, ne var ki yargılamanın devamı sırasında 1/2 oranında irtifak hakkı bulunan ...A.Ş nin bu hakkını danışıklı olarak ...Ltd. Şti’ne devrettiğini onun hakkında aynı iddialarla açılan dava sonucu verilen karar gereği taşınmaz üzerindeki 1/2oranında irtifak hakkının tapuda adına 28.03.2005 tarihinde tescil edildiğini dava konusu taşınmazın bulunduğu otelin 15.09.2001 başlangıç tarihli kira sözleşmesiyle ...Ltd.
 
@@ -153,6 +169,8 @@ Yapılan yargılamaya, toplanan delillere ve tüm dosya içeriğine göre davac�
 
 ## Yargıtay 14. HD 2007/821 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849241000)
+
 Davacılar 1630 parselin maliki olduğunu davalıya kiraya verilen taşınmaz kira süresi bittiği halde tahliye edilmediğini, 1630 parsele haksız müdahale eden davalının müdahalesinin men’ini, birleştirilen dava dosyalarında ise 2000-2001, 2002 ve 2003 yılları kira alacaklarının tahsilini talep etmişler, …
 
 Davalı, aslında dava konusu taşımazın kendisi tarafından haricen satın alındığını, yargılama aşamasında da taşınmazın kiralandığını kira parasını maliklerden ...’nin eşi Orhan ile 1 milyar lira olarak kararlaştırıldıklarını, bu miktarında kendisine ödendiğini davanın reddini savunmuştur.
@@ -174,6 +192,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/10067 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854327500)
+
 Davalı davanın reddini savunmuş, mahkemece davalının dava konusu dükkâna elatmasının önlenmesini 800.000.000 TL işgal tazminatının davalıdan alınarak davacıya verilmesine fazla istemin reddine karar verilmiş, hükmü davalı vekili temyiz etmiştir.
 
 İncelenen dosya kapsamından ve özellikle aynı yer icra müdürlüğünün 2002/535 sayılı takip dosyası ile tarafların iddia ve savunmalarından davalının dava konusu taşınmazı kiracı sıfatı ile elinde bulundurduğu kira başlangıç tarihinin 01.02.2001 olduğu aksi taraflarca iddia ve savunulmadığından; kiranın gayrimuayyen süreli hale geldiği, tarafların kira bedeli konusunda da anlaşamadıkları görülmektedir. Taraflarca kira parası yazılı bir sözleşme ile kararlaştırılmadığından mahkemenin bu bedeli bilirkişiye hesaplatarak kira parasını ödediğini kanıtlaması zorunlu kiracı davalıdan tahsiline karar vermesinde bir yanılgı yoktur. Ancak;
@@ -184,12 +204,16 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/4182 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855262500)
+
 Uyuşmazlık konusu yer dava dışı kilise vakfı tarafından davacılar miras bırakanı ... ve davalı ...’e 15.8.1981 başlangıç tarihli sözleşmesi ile belli bir kira bedeli karşılığı kullanılmak üzere terk edilmiştir. Anılan sözleşme adi kiraya ilişkin bulunduğundan sorunun çözümünde adi kirayı düzenleyen Borçlar Kanununun 248 ve devamı maddelerinden yararlanılması zorunludur. Gerçekten, yasanın 260 maddesindeki kiracının temerrüdü, 261 maddesindeki kiracının iflası nedenleri ileri sürülerek fesih istenmedikçe 263. maddedeki düzenleme gereğince adi kira ilişkisi gayri muayyen bir müddet için yenilenmiş sayılır. Her ne kadar davacıların miras bırakanı, kiracı ... 1988 yılında ölmüş ise de gerek mirasçıları gerekse kiralayan yasanın öngördüğü mehillere uyarak fesih ihbarında bulunmadığından kiracının ölümü de sözleşmenin kendiliğinden feshi sonucunu meydana getirmez. Başka bir anlatımla, davacıların murisi ... ve davalı ...’in kiracı sıfatı ile kiralayan Rum Ortadoks Kilise Vakfı ile imzaladıkları 15.8.1981 başlangıç tarihli kira sözleşmesi geçerlidir.
 Kilise tarafından daha sonra 1.1.1992 ve 1.1.2002 başlangıç tarihli sözleşmeler ile çekişmeli taşınmazın davalı ...’e onun tarafından da alt kiracı ...’e kiralanmış olması yarışan şahsi haklardan önceki tarihli olanın geçerli sayılacağı kuralı uyarınca davacıların kiracılık hakkını etkilemez. Bu durumda mahkemece 15.8.1981 tarihli sözleşme ile kiralanandan davacıların miras bırakanı ... ile davalı ...'in ve müştereken yararlandığı gözetilerek, davacıların 1/2 payına vaki davalı ... ve diğer davalının elatmasının önlenmesine ve koşulları yerinde bulunursa hesaplattırılacak ecrimisil tahsiline karar verilmesi yerine davanın yazılı bazı gerekçelerle reddine karar verilmesi doğru olmamış bozmayı gerektirmiştir.
 
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## İstanbul BAM 17. HD 2024/212 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002367800)
 
 Dava, kooperatif genel kurulunda alınan kararın iptali istemine ilişkindir.
 
@@ -204,6 +228,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere, 1-Davacılar vekilinin is
 
 ## İstanbul BAM 12. HD 2022/1876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843971600)
+
 …
 
 : Dava; davacı akaryakıt dağıtım şirketi tarafından üçüncü şahıs taşınmaz malikinden kiraladığı,tapu kaydına konulan kira şerhi ile kiraladığı taşınmazda bulunan istasyondan ,bayilik sözleşmesinin eki protokol ile işletilmek üzere alt kira sözleşmesi akdettiği bayii tarafından bayilik sözleşmesinin feshi sonrası ; davalının kullanımında olan istasyondan, davalının baylik sözleşmesini feshi sonucunda sözleşme ilişkisi kalmadığı nedeniyle haksız müdahalesinin önlemesine ilişkindir. Dava, 26.04.2018 tarihinde açılmış olup 15.03.2018 tarihinde yürürlüğe giren 7101 sayılı yasa m.61 ile değişik TTK m.4 gereğince basit yargılama usulüne tabidir. Eldeki dava ilk derece mahkemesince her ne kadar müdahalenin önlenmesi olarak nitelendirilmiş ise de kiralananın tahliyesi olarak değerlendirilerek Harçlar Kanunu m.17 gereği taşınmazın 1 yıllık kira bedeli toplamı olan 244.200-TL üzerinden harç ikmali ile basit yargılama usulüne göre yargılama yapılarak sonuçlandırılmıştır.
@@ -217,6 +243,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusunu
 
 ## İstanbul BAM 2. HD 2022/237 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728069600)
+
 Dava, elatmanın önlenmesi, tahliye ve ecrimisil istemine ilişkindir.
 
 …
@@ -225,6 +253,8 @@ Bu durumda dava açılmakla muvafakatin geri alındığı ve BK’nın 304. madd
 Noterliğinin 13/03/2012 tarihli ve ... yevmiye nolu ihtarnamesi ile davalıdan geçici kullanıma verilen yeri tahliye etmesini istediği, ihtarnamenin muhataba 15/03/2012 tarihinde tebliğ edildiği, ihtarnamede 15 günlük süre ön görüldüğü, bu haliyle davacının TBK 379 ve 383. Maddeleri uyarınca geçici kullanımı sonlandırdığı, davalının taşınmazı 06/11/2018 tarihinde tahliye ettiği, bilirkişi raporunun denetime ve hüküm kurmaya elverişli olduğu, davalının ihtarname tebliği tarihinden sonraki kullanımının akdi veya kanuni dayanağının bulunmadığı, davalının meni müdahale yönünden istinafının olmadığı, mahkemenin kabul ve ret oranına göre yaptığı yargılama gideri ve vekalet ücreti hesaplamasının hukuk kurallarına uygun olduğu anlaşılmıştır.
 
 ## İstanbul BAM 13. HD 2021/533 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653050900)
 
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ:İlk Derece Mahkemesi 01/12/2020 tarih 2020/479 Esas - 2020/764 Karar sayılı kararında;" davacı vekili tarafından davalı aleyhine açılan davalının işletmiş olduğu akaryakıt servis istasyonunun davalı tarafından işletmesinin durdurularak tesisin müvekkil şirkette teslimine dair davanın yargılaması esnasında davacı vekili 06/12/2018 tarihli yazılı beyanında müvekkil şirket ile dava dışı .....
 
@@ -236,6 +266,8 @@ Dosyada bulunan tüm belge ve bilgilerden, davacının kiracı olduğu taşınma
 HÜKÜM : Yukarıda açıklanan nedenlerle; 1-Davalının istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 16. HD 2018/160 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/394531700)
 
 Davalı vekili, taraflar arasındaki alt kira sözleşmesi uyarınca ve Yargıtay 6.Hukuk Dairesi kararı doğrultusunda davanın Sulh Hukuk Mahkemesinde görülmesi gerektiğini, davacının iddialarının doğru olmadığını, müvekkilinin kira bedellerini ödemeye devam ettiğini bildirerek davanın reddini istemiştir.
 

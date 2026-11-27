@@ -22,19 +22,27 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2018/1600 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411650900)
+
 Dosyada toplanan belge ve bilgilere, özellikle inşaat bilirkişisince hazırlanan ortak rapora göre; dava konusu ... ili, Merkez ilçesi, ... mahallesi, 2747 ada, 24 parsel sayılı ana taşınmaz üzerinde hali hazırda toplam 3 adet bağımsız bölüm ve 2 malik bulunduğuna göre, anataşınmaz üzerinde kat mülkiyeti kurularak ortaklığın giderilmesinin mümkün olup olmadığı hususunda araştırma yapılması, davacı vekiline ve davalı vekiline kat mülkiyetine geçiş için gerekli işlemleri tamamlamak üzere birlikte uygun süre verilmesi gerekirken, sadece davalıya kesin süre vererek ve verilen süre içerisinde gerekli işlemlerin tamamlanamadığı gerekçesiyle, anlatılan hususlar dikkate alınmaksızın eksik ve yetersiz inceleme ile "ortaklığın satış suretiyle" giderilmesi yönünde hüküm kurulması usul ve yasaya aykırıdır. Bu cümleden olmak üzere;
 Kat Mülkiyeti Kanunu hükümlerine uygun olarak, üzerinde kat mülkiyeti kurmaya elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, yapının mimari projesine uygun biçimde tamamlanmış veya projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin bulunması, bağımsız bölümlerinin başlı başına kullanmaya elverişli (M.1) ve yapının tamamının kargir olması (M.50/2) ve her paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı) tamamlattırılması gerekmektedir. Bu koşulların gerçekleşmesi durumunda anılan Kanunun 10. maddesinin son fıkrası hükmünce taşınmazda kat mülkiyetine geçilebilecek ve açılan davada ortaklığın bu yolda giderilmesine karar verilebilecektir.
 
 ## Yargıtay 20. HD 2018/599 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411066900)
 
 2981 sayılı Kanunun 16. maddesine 3290 sayılı Kanun ile eklenen ek fıkra hükmüne göre daha önce kat irtifakı kurulmuş yapılarda bu kanundan yararlanılarak bağımsız bir bölüm kazanılmışsa 634 sayılı Kat Mülkiyeti Kanununun 44. maddesi gereğince kat maliklerinin oybirliği sağlanamıyorsa sözkonusu bağımsız bölüme ilişkin yapı ruhsatı ve kullanma izin belgesi alınmış ve bu fıkra hükmünde öngörülen diğer işlemler yerine getirilmişse öteki kat maliklerinin muvafakatı (rızası) aranmayacaktır. Kat Mülkiyeti Kanununun 44. maddesine yollama yapan bu fıkra hükmünden de anlaşılacağı üzere başlı başına kullanılmaya elverişli yeni bir bağımsız bölümün kazanılmış bulunması ve taşınmazın kat irtifaklı olması gerekir.
 Somut olayda dava konusu edilen değişikliğin gerçekleştirildiği tarihte anataşınmaz kat mülkiyetli olduğundan 2981 sayılı Kanunun 16. maddesine 3290 sayılı Kanun ile eklenen ek fıkra hükmünün uygulanmasının sözkonusu olamayacağı gibi bilirkişi raporunda belirtildiği üzere tapuya bağımsız bölüm olarak cins tahsisleri yapılması istenilen eklentilerin bağımsız bölüm olarak kullanılmaya elverişli olmadığı ve tamamlanmadığı gözetildiğinde bunun Kat Mülkiyeti Kanununun 44. maddesinde öngörülen bağımsız bir bölüm olarak kabulüne olanak yoktur. Tüm bu nedenlerle dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, mahkemece 2981 sayılı İmar Kanununun 16. maddesindeki koşulların oluşmadığı belirtilerek davanın reddine karar verilmesinde bir isabetsizlik bulunmadığına göre, yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine 05/02/2018 günü oy birliği ile karar verildi.
 
 ## Yargıtay 20. HD 2018/597 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410500900)
+
 Dosyadaki bilgi ve belgelerin incelemesinden anataşınmazın kat mülkiyetine 20/11/2017 tarihinde geçmiş olduğu anlaşılmaktadır. O halde mahkemece 634 sayılı Kat Mülkiyeti Kanununun 17. maddesinin son fıkrası gereğince kat irtifakı kurulmuş gayrimenkullerde, yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa kat mülkiyeti hükümleri uygulanır. Hükmü gereğince anataşınmazda kat mülkiyeti kurulmadan önce kat irtifakının tesis edilip edilmediği, yapının tamamlanıp tamamlanmadığı ve üçte iki kullanımın bulunup bulunmadığı araştırılarak, Kat Mülkiyeti Kanununun 17. maddesindeki şartların varlığının saptanması halinde davacının müdahalenin meni talebi açısından görevsizlik kararı verilmesi aksi halde işin esasına girilerek bir karar verilmesi gerekirken eksik inceleme ve araştırma neticesinde yazılı olduğu şekilde davanın görev nedeni ile usulden reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/198 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410317900)
 
 2- 634 sayılı Kat Mülkiyeti Kanununun 3. maddesinde; kat irtifakına konu olan ana yapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, kat mülkiyetine geçildiği tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kat irtifakının veya kat mülkiyetinin kurulacağı; arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibinin arsa payının düzenlenmesi için mahkemeye başvurabileceği hükme bağlanmıştır. Arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin
 
@@ -43,10 +51,14 @@ Dava konusu taşınmazda 1966 yılında kat irtifakı kurulduğu dikkate alınd�
 
 ## Yargıtay 8. HD 2017/12513 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378846600)
+
 Bilindiği üzere, tapuda kayıtlı bulunan bir taşınmazın haricen satışı Türk Medeni Kanunu'nun 706, Borçlar Kanunu'nun 213 (Türk Borçlar Kanunu'nun 237) ve Tapu Kanunu'nun 26. maddesi hükümleri karşısında geçersizdir. Böyle bir satış haricen satın ve devralan kişiye herhangi bir hak bahşetmez. Yanlar arasında düzenlenen 10/03/2006 tarihli sözleşme, taşınmaz satış sözleşmesi olup, tapu devrini de öngördüğünden, resmi şekilde düzenlenmemesi nedeniyle geçersizdir. Ancak şeklen geçersiz sözleşmelerin de inşaatın ikmal edilmesi veya bu sözleşmeye güvenerek öncesinde veya sonrasında tapuda pay devri yapılması suretiyle geçerli hale gelmesi mümkündür. Gerçekten, tarafların inşaatın yapılması veya tapuda pay devri yapılması suretiyle edimlerini yerine getirmesi halinde 30.09.1988 tarih ve 1987/2 E.-1988/2 K. sayılı YİBK gereğince, şekil eksikliğinin ileri sürülmesinin iyiniyet kurallarına aykırı olacağı hükme bağlanmıştır. Ne var ki, yukarıda da belirtildiği gibi sözleşmede kat mülkiyetine geçildikten sonra devir yapılacağı belirtilmiştir.
 Dava konusu taşınmazda ise dosya kapsamı itibariyle kat mülkiyetine geçilmediği sabittir.O halde; davalı tarafından sözleşmenin yerine getirilebilme şartları henüz gerçekleşmemiştir. Bu sebeple, açılan davanın reddine karar verilmesi gerekirken, yazılı şekilde kabulüne karar verilmesi bozmayı gerektirmiştir.
 
 ## Yargıtay 20. HD 2017/10184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389095600)
 
 Kat Mülkiyeti Kanununun 10. maddesinin son fıkrası hükmüne göre kat mülkiyetine konu olmaya elverişli bir taşınmaz üzerindeki ortaklığın giderilmesi davasında, ortak maliklerden birinin yargılamanın (temyiz aşaması dahil) herhangi bir aşamasında paylaşmanın kat mülkiyeti kurulması (taksim) yoluyla yapılmasını istemesi durumunda, hakim, 12. maddedeki belgeleri de tamamlattırıp taşınmaz mülkiyetinin kat mülkiyetine çevrilmesinin (bağımsız bölümlerin ortaklara ayrı ayrı özgülenmesinin) mümkün olup olmadığı
 
@@ -54,24 +66,34 @@ hususunda araştırma yapmalıdır. Temyiz aşamasında ilk defa davalılar tara
 
 ## Yargıtay 20. HD 2017/9771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385562600)
+
 634 sayılı Kat Mülkiyeti Kanununun 3. maddesi hükmüne göre; "kat mülkiyeti, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulur. Arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibi, arsa payının düzenlenmesi için mahkemeye başvurabilir." Kanun gereğince; arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasıdır. Bu hususa dayalı istemlerde mahkeme tüm kanıtları değerlendirerek bağımsız bölümün değeri ile bölüme özgülenen arsa payını karşılaştırıp denklik sağlamaya çalışmalıdır. Söz konusu işlem yapılırken de bağımsız bölümlerin cinsi, bulunduğu kat, alanı, ısınma sistemi, aydınlanması, mimari kullanımı ve konumu, cephesi ve manzarası gibi hususlar değerlendirme için esas alınır.
 Değerlendirmeye esas alınacak tarihten sonraki imar durumu ile cins ve manzara değişiklikleri, bakım ve onarım çalışmaları nedenleriyle meydana gelen değer artış ve eksilmeleri dikkate alınmaz.
 
 ## Yargıtay 20. HD 2017/9055 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/382578300)
 
 634 sayılı Kat Mülkiyeti Kanununun 3. maddesinde, kat mülkiyeti, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulacağı, arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat malikinin veya kat irtifakı sahibinin arsa payının düzenlenmesi için mahkemeye başvurabileceği hükme bağlandığından; arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasına bağlıdır. Bu hususa dayalı istemlerde mahkeme bütün delilleri değerlendirerek bağımsız bölümün bedeli ile özgülenen arsa payını karşılaştırıp denklik sağlamaya çalışmalıdır. Söz konusu işlem yapılırken de bağımsız bölümlerin cinsi, bulunduğu kat, alanı, ısınma sistemi, aydınlanması, mimari kullanımı ve konumu, cephesi ve manzarası gibi hususlar esas alınır.
 Değerlendirmeye esas alınacak tarihten sonraki imar durumu ile cins ve manzara değişiklikleri, bakım ve onarım çalışmaları nedenleriyle meydana gelen değer artış ve eksilmeleri dikkate alınmaz.
 
 ## Yargıtay 20. HD 2017/8843 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385053700)
+
 Dosyada toplanan belge ve bilgilere, özellikle bilirkişi raporlarına göre; dava konusu ... ili, ... İlçesi, ... mahallesi, 59 ada, 8 parseldeki taşınmaz üzerinde halihazırda zemin kat + 2 normal kat + çatı katı olmak üzere dört (4) katlı yapı bulunduğu, paydaş ve bağımsız bölümlerin sayısı itibariyle her paydaşa en az bir bağımsız bölüm düştüğü, taşınmaz üzerindeki yapının Kat MülkiyetiKanununun 50/2. maddesine uygun nitelikleri taşıdığı anlaşılmaktadır.Kat Mülkiyeti Kanunu hükümlerine uygun olarak, üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, yapının mimari projesine uygun biçimde tamamlanmış veya projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin bulunması, bağımsız bölümlerinin başlı başına kullanmaya elverişli (M.1) ve yapının tamamının kargir olması (M.50/2) ve her paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı) tamamlattırılması gerekmektedir.
 Bu koşulların gerçekleşmesi durumunda anılan Kanunun 10. maddesinin son fıkrası hükmünce taşınmazda kat mülkiyetine geçilebilecek ve açılan davada ortaklığın bu yolda giderilmesine karar verilebilecektir.
 
 ## Yargıtay 20. HD 2017/8832 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/380737600)
+
 Kat Mülkiyeti Yasası hükümlerine uygun olarak, üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, yapının mimari projesine uygun biçimde tamamlanmış veya projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin bulunması, bağımsız bölümlerinin başlı başına kullanmaya elverişli (M.1) ve yapının tamamının kargir olması (M.50/2) ve her paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı) tamamlattırılması gerekmektedir. Bu koşulların gerçekleşmesi durumunda anılan Kanunun 10. maddesinin son fıkrası hükmünce taşınmazda kat mülkiyetine geçilebilecek ve açılan davada ortaklığın bu yolda giderilmesine karar verilebilecektir.
 
 ## Yargıtay 20. HD 2017/8821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378835800)
 
 Kat Mülkiyeti Kanununun 10. maddesinin son fıkrasına göre; kat mülkiyetine konu olmaya elverişli bir taşınmaz üzerindeki ortaklığın giderilmesi davasında, ortak maliklerden birinin yargılamanın herhangi bir aşamasında paylaşmanın kat mülkiyeti kurulması yoluyla yapılmasını istemesi durumunda, hâkim, 12. maddedeki belgeleri de tamamlattırıp taşınmaz mülkiyetinin kat mülkiyetine çevrilmesine ve paylar denkleştirilmek suretiyle bağımsız bölümlerin ortaklara ayrı ayrı özgülenmesine karar vermelidir Kat Mülkiyeti Kanunu hükümlerine uygun olarak, üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için,yapının mimari projesine uygun biçimde tamamlanmış veya projesi olmamakla birlikte fiilî durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin bulunması, bağımsız bölümlerinin başlı başına kullanmaya elverişli (M.1) ve yapının tamamının kargir olması (M.50/2) ve her paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı) tamamlattırılması gerekmektedir.
 Bu koşulların gerçekleşmesi durumunda anılan Kanunun 10. maddesinin son fıkrası hükmünce
@@ -80,14 +102,20 @@ taşınmazda kat mülkiyetine geçilebilecek ve açılan davada ortaklığın bu
 
 ## Yargıtay 20. HD 2017/8776 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378420800)
+
 Aynı tarihteki kat irtifakı kurulan binalarda özellikle komşu binalarda zeminde bulunan bağımsız bölümlere (dükkanlara) yüksek, bürolara meskenlere düşük arsa payı verildiği ancak dava konusu binada tersi durumun olduğu iddia edilmekle ... şehir merkezinde bulunan ve kat irtifakının kurulduğu tarih itibariyle de ... 'nın merkezinde yer alan ve bilinen bir cadde de bulunan ana taşınmazın zemin katındaki dükkanların değersiz olduğu değerlendirilemez. Dosyadaki fotoğraflarda da anlaşıldığı üzere taşınmazın merkezi yerde olduğu görülmektedir.
 Mahkemece davadaki talepleri duraksamaya yer vermeyecek biçimde maddeler halinde açık ve ayrıntılı olarak gerekçelendirilerek hüküm kurulması gerekirken dosyadaki raporlar arasındaki çelişkilerin giderilerek özellikle kat irtifakı kurulduğu tarih itibariyle taşınmazın bulunduğu mevkide hükme esas alınan bilirkişi raporundaki tesbitlerin (bölgede kömür ardiyeleri, bisiklet kiralama alanları, büz imalathanelerinin olup olmadığı ticari alanda geri kalan bir yer olup yapılaşmanın olup olmadığı konularında) doğruluğu noktasında deliller toplanmalı, o tarih itibariyle komşu parsellerdeki dükkan ve mesken niteliğindeki bağımsız bölümlerin arsa paylarının düzenlenmesindeki esas alınan unsurlar dikkate alınarak Kat Mülkiyeti Kanununun 3. maddesinde belirtilen şartlara uygun iki rapor arasındaki çelişkilerin giderilerek sonucuna göre hüküm kurulması gerekirken ikinci bilirkişi raporuna itibar edilerek davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2017/8667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/372602300)
+
 634 sayılı Kat Mülkiyeti Kanununun 3. maddesinde; kat mülkiyeti veya kat irtifakının, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulacağı, arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibinin arsa payının düzenlenmesi için mahkemeye başvurabileceği hükme bağlanmıştır. Arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasıdır. Bu hususa dayalı istemlerde mahkeme tüm kanıtları değerlendirerek bağımsız bölümün değeri ile…
 
 ## Yargıtay 20. HD 2017/8292 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/373508900)
 
 634 sayılı Kat Mülkiyeti Kanunun 3. maddesi hükmüne göre; "kat mülkiyeti, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulur. Arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibi, arsa payının düzenlenmesi için mahkemeye başvurabilir." Kanun gereğince; arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı,
 
@@ -95,30 +123,44 @@ arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirle
 
 ## Yargıtay 20. HD 2017/8290 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388927700)
+
 Bilindiği üzere 634 sayılı Kanunun 17. maddesi uyarınca kat irtifakı kurulmuş ve bağımsız bölümlerin 2/3’ü fiilen kullanılmaya başlamışsa kat mülkiyetine geçilmemişse dahi Kat Mülkiyeti Kanunu hükümleri uygulanacak ve uyuşmazlık sulh hukuk mahkemesinde görülüp sonuçlandırılacaktır. Yine site birden fazla parsel üzerine kurulu ancak uyuşmazlık tek parsele ilişkin ise KMK’nın 17. maddesindeki koşulların varlığı halinde Kat Mülkiyeti Kanunu hükümleri uygulanacak ve uyuşmazlık Sulh Hukuk Mahkemesinde görülüp sonuçlandırılacaktır.
 
 ## Yargıtay 20. HD 2017/8238 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/372278900)
+
 634 sayılı Kat Mülkiyeti Kanununun 5711 sayılı Kanunla değişik 3. maddesinde; "Kat mülkiyeti ve kat irtifakı bu mülkiyete konu olan anayapının bağımsız bölümlerden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulur. Arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibi arsa payının yeniden düzenlenmesi için mahkemeye başvurabilir." hükmü öngörülmüştür.
 
 ## Yargıtay 20. HD 2017/8005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385757300)
 
 634 sayılı Kat Mülkiyeti Kanununun 3. maddesi hükmüne göre; "kat mülkiyeti, bu mülkiyete konu olan ana yapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihte, doğrudan doğruya kat mülkiyetine geçilme halinde ise bu tarihteki değeri ile orantılı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulur.Arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibi, arsa payının düzenlenmesi için mahkemeye başvurabilir." Yasa gereğince; arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle orantısız olarak belirlenmiş olmasıdır. Bu hususa dayalı istemlerde mahkeme tüm kanıtları değerlendirerek bağımsız bölümün değeri ile bölüme özgülenen arsa payını karşılaştırıp denklik sağlamaya çalışmalıdır. Söz konusu işlem yapılırken de bağımsız bölümlerin cinsi, bulunduğu kat, alanı, ısınma sistemi, aydınlanması, mimari kullanımı ve konumu, cephesi ve manzarası gibi hususlar değerlendirme için esas alınır.
 Değerlendirmeye esas alınacak tarihten sonraki imar durumu ile cins ve manzara değişiklikleri, bakım ve onarım çalışmaları nedenleriyle meydana gelen değer artış ve eksilmeleri dikkate alınmaz.
 
 ## Yargıtay 20. HD 2017/7496 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/369519500)
+
 634 sayılı Kat Mülkiyeti Kanununun 3. maddesinde; kat mülkiyeti veya kat irtifakının, bu mülkiyete konu olan ana yapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulacağı, arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibinin arsa payının düzenlenmesi için mahkemeye başvurabileceği hükme bağlanmıştır. Arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasıdır. Bu hususa dayalı istemlerde mahkeme tüm kanıtları değerlendirerek bağımsız bölümün değeri ile bölüme özgülenen arsa payını karşılaştırıp denklik sağlamaya çalışmalıdır. Söz konusu işlem yapılırken de, bağımsız bölümlerin cinsi, bulunduğu kat, alanı, ısınma sistemi, aydınlanması, mimari kullanımı ve konumu, cephesi ve manzarası gibi hususlar…
 
 ## Yargıtay 20. HD 2017/7272 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370236900)
 
 634 sayılı Kat Mülkiyeti Kanununun 17. maddesinin son fıkrası gereğince kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa kat mülkiyetine geçilmemiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır.
 
 ## Yargıtay 20. HD 2017/7215 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370026200)
+
 634 sayılı Kat Mülkiyeti Kanununun 17/3. maddesine göre “Kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa, kat mülkiyetine geçilmemiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır.” dendiğine göre dosyadaki bilgiler ve kat malikleri kurulu karar defterinde dava konusu binaların tamamlanmadığı bilgisi verildiğine göre söz konusu uyuşmazlıkta genel hükümler dairesinde davaya bakılması gerektiği açık olup bu durumda halen inşaat olduğu anlaşılan taşınmaz hakkındaki ihtilaflara bakma görevi asliye hukuk mahkemelerindedir.
 
 ## Yargıtay 20. HD 2017/6759 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/367230700)
 
 Hükmüne uyulan bozma kararında özetle; "Davalı taşınmaz üzerinde kat irtifakı kurularak 35 parça bağımsız bölüm oluşturulduğu, Kat Mülkiyeti Kanunu hükümleri gereğince, kat irtifakı kurulan taşınmazlardaki ortak bölümlerin müşterek mülkiyet hükümlerine tabi olduğu, bu nedenle, taşınmazdaki bazı bağımsız bölümlerin tahdit dışına çıkartılmış olmasının davacıların taleplerini tam olarak karşılamadığı gibi, aynı taşınmazın hisseli olarak hem kişiler adına, hem de orman olarak Hazine adına kayıtlı olması sonucunu doğuracağından kararın bu hali ile infaza elverişli olmadığı gibi tapu sicil tekniğine de uyun olmadığı, müşterek mülkiyete tabi taşınmazlar için müşterek menfaatlerin korunmasına
 
@@ -126,30 +168,44 @@ yönelik davaların müşterek maliklerden biri tarafından açılabileceği, da
 
 ## Yargıtay 20. HD 2017/6559 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/367862700)
+
 634 sayılı Kat Mülkiyeti Kanununun 3. maddesinde; kat mülkiyeti veya kat irtifakının, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulacağı, arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibinin arsa payının düzenlenmesi için mahkemeye başvurabileceği hükme bağlanmıştır. Arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasıdır. Bu hususa dayalı istemlerde mahkeme tüm kanıtları değerlendirerek bağımsız bölümün değeri ile bölüme özgülenen arsa payını karşılaştırıp denklik sağlamaya çalışmalıdır. Söz konusu işlem yapılırken de, bağımsız bölümlerin cinsi, bulunduğu kat, alanı, ısınma sistemi, aydınlanması, mimari kullanımı ve konumu, cephesi ve manzarası gibi hususlar değerlendirme için esas alınır;…
 
 ## Yargıtay 20. HD 2017/6220 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/357373900)
+
 Kat Mülkiyeti Kanununun 17. maddesinin üçüncü fıkrasında "kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi kullanılmaya başlanmışsa kat mülkiyetine geçilmemiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır." hükmüne yer verilmiştir.
 
 ## Yargıtay 20. HD 2017/5427 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351198900)
 
 Dosyada toplanan bilgi ve belgelerden dava konusu anataşınmazda kat irtifakının kurulduğu anlaşılmaktadır. Kat Mülkiyeti Kanununun 17. maddesi 3. fıkrası hükmüne göre anataşınmazın yönetiminde uyuşmazlığın çözümünde kat mülkiyeti hükümlerinin uygulanabilmesi için kat irtifaklı arsa üzerindeki yapının fiilen tamamlanmış ve bağımsız bölümlerinin üçte ikisinin fiilen kullanılmaya başlanmış olması gereklidir. Davacı vekili dava dilekçesinde ve aşamlarda verdiği dilekçelerinde yapının tamamlanmadığını ve fiilen üçte ikisinin kullanılmadığını iddia etmiştir.
 Bu durumda, mahkemece tarafların kat irtifak hakkı sahibi bulunduğu anataşınmazdaki yapının tamamlanmış ve bağımsız bölümlerin en az üçte ikisinin fiilen kullanılmakta olup olmadığının saptanması, yapının tamamlanmış olduğu ve bağımsız bölümlerin üçte ikisinin fiilen kullanıldığının belirlenmesi durumunda uyuşmazlığın Kat Mülkiyeti Kanunu hükümleri çerçevesinde çözümleneceği, aksi takdirde davaya genel hükümler çerçevesinde bakılmak üzere 6100 sayılı Kanunun 2. maddesi gereğince asliye hukuk mahkemesinde bakılmak üzere görevsizlik kararı verileceği hususları gözardı edilerek yetersiz araştırma ve eksik inceleme ile Kat Mülkiyeti Kanunu hükümleri uyarınca yetkisizlik kararı verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2017/4983 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350052300)
+
 634 sayılı Kat Mülkiyeti Kanununun 17/son maddesinde “Kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa, kat mülkiyetine geçilmemiş olsa dahi ana gayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır.”…
 
 ## Yargıtay 20. HD 2017/4905 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/349363000)
 
 Hükmüne uyulan bozma kararında; “...dava konusu 105 ada 17 parsel sayılı ana taşınmazda kat irtifakının kurularak bağımsız bölümler oluşturulduğu ve davacı dışında başkaca malikler bulunduğu anlaşılmaktadır. Kat Mülkiyeti Kanunu hükümleri gereğince, kat irtifakı kurulan taşınmazlarda bağımsız bölümler kat irtifakı maliklerine ait olup, ortak alanlarda ise bütün kat irtifakı maliklerinin payları bulunmaktadır. Başka bir anlatımla; taşınmazlardaki ortak bölümler müşterek mülkiyet hükümlerine tâbidir. Bu tür davalarda yargılama sonucu verilecek karar kat maliklerinin hukukunu da yakından ilgilendirdiğinden mahkemece usûl ekonomisi de gözetilerek ana taşınmazdaki tüm kat malikleri davaya dahil edilip, taraf teşkili sağlandıktan sonra işin esasına girilerek ana taşınmazların tamamı hakkında karar verilmesi gerekirken, eksik taraf teşkili ile hüküm kurulması isabetsiz olup bozmayı gerektirmiştir...” denilmiştir.
 
 ## Yargıtay 20. HD 2017/4901 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/349345400)
+
 Hükmüne uyulan bozma kararında özetle; “...dava konusu 105 ada 17 parsel sayılı ana taşınmazda kat irtifakının kurularak bağımsız bölümler oluşturulduğu ve davacı dışında başkaca malikler bulunduğu anlaşılmaktadır. Kat Mülkiyeti Kanunu hükümleri gereğince, kat irtifakı kurulan taşınmazlarda bağımsız bölümler kat irtifakı maliklerine ait olup, ortak alanlarda ise bütün kat irtifakı maliklerinin payları bulunmaktadır. Başka bir anlatımla; taşınmazlardaki ortak bölümler müşterek mülkiyet hükümlerine tâbidir. Bu tür davalarda yargılama sonucu verilecek karar kat maliklerinin hukukunu da yakından ilgilendirdiğinden mahkemece usûl ekonomisi de gözetilerek ana taşınmazdaki tüm kat malikleri davaya dahil edilip, taraf teşkili sağlandıktan sonra işin esasına girilerek ana taşınmazların tamamı hakkında karar verilmesi gerekirken, eksik taraf teşkili ile hüküm kurulması isabetsiz olup bozmayı gerektirmiştir.” denilmiştir.
 
 ## Yargıtay 20. HD 2017/4390 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/335603400)
 
 Bu bakımdan somut olayda mahkemece öncelikle taşınmaz üzerindeki yapının Kat Mülkiyeti Kanununun 50/2. maddesi hükmüne uygun nitelikte olduğu saptanması durumunda davaya konu taşınmaz üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje mevcut değil ise veya onaylı projeye aykırılıkların saptanması halinde ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı
 
@@ -158,9 +214,13 @@ veya imara ya da projeye aykırılıklar giderildiği takdirde onay verilebilece
 
 ## Yargıtay 20. HD 2017/4202 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/335010900)
+
 Kat Mülkiyeti Kanununun hükümlerine uygun olarak, üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, üzerindeki yapının mimari projesine uygun biçimde tamamlanmış ya da projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin olması, bağımsız bölümlerinin başlı başına kullanmaya elverişli bulunması (M.1), yapının tümünün kargir olması (M.50/2) ve her bir paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı) tamamlattırılması gerekmektedir. Bu koşulların gerçekleşmesi durumunda anılan Kanunun 10. maddesinin beşinci fıkrası hükmünce taşınmazda kat mülkiyetine geçilebilecek ve açılan davada ortaklığın bu yolda giderilmesine karar verilebilecektir.
 
 ## Yargıtay 20. HD 2017/3514 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359449300)
 
 01.12.2014 tarih ve 2014/ 8773- 10030 sayılı ilamı ile “Dava konusu ana taşınmazda kat irtifakının kurularak 36 adet bağımsız bölüm oluşturulduğu ve davacılar dışında başkaca malikler bulunduğu, Kat Mülkiyeti Kanunu hükümleri gereğince, kat irtifakı kurulan taşınmazlarda bağımsız bölümler kat irtifakı maliklerine ait olup ortak alanlarda ise bütün kat irtifakı maliklerinin payları bulunduğu, bu nedenle, taşınmazdaki bazı bağımsız bölümlerin tahdit dışına çıkartılmış olmasının davacıların taleplerini tam olarak karşılamadığı gibi, esasen verilen kararın infaz kabiliyetinin de bulunmadığı, zira, aynı taşınmazın hisseli olarak hem kişiler adına, hem de ... olarak ... adına kayıtlı olması sonucunu doğuracağından kararın bu hali ile infaza elverişli olmadığı gibi tapu sicil tekniğine de uygun olmadığı, mahkemece usul ekonomisi de gözetilerek ana taşınmazdaki tüm kat malikleri davaya dahil edilip, taraf teşkili sağlandıktan sonra işin esasına girilerek ana taşınmazın tamamı hakkında karar verilmesi” gereğine değinilerek hükmün bozulmasına karar verildiği, bozma ilamına uyulması sonrasında mahkemece, eldeki dosya davacıları ... ve ...'ın davaya dahil edildiği ve mahkemenin 15.12.2016 gün
 ve 2015/4-
@@ -169,8 +229,12 @@ ve 2015/4-
 
 ## Yargıtay 20. HD 2017/2506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/331806800)
+
 ... 3. Asliye Hukuk Mahkemesi, uyuşmazlıkta davacı, davalı ile aralarında kat karşılığı inşaat sözleşmesi imzalandığını, kendisinin yükümlülüklerini yerine getirmesine rağmen davalıların taşınmaz üzerinde kat mülkiyeti kurulması ve iskan ruhsatı alınması için gerekli işlemleri yapmaya yanaşmadığını ileri sürerek davacı yükleniciye taşınmaz üzerinde kat irtifakı kurulması, iskan ruhsatının alınması ve kat mülkiyetine geçiş için tüm işlemleri, yapmak üzere izin ve yetki verilmesini istemiştir. Taraflar arasındaki uyuşmazlık Tüketicinin Korunması Hakkındaki Kanun kapsamında kaldığı gerekçesiyle görevsizlik karar vermiştir.
 
 ## Yargıtay 18. HD 2016/13099 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/395857000)
 
 634 Sayılı Kat Mülkiyeti Yasası'nın 17. maddesinin ilk fıkrası gereğince kat irtifakı sahiplerinin, ortak arsa üzerinde yapılacak yapının, sözleşmede yazılı süre içinde başlaması ve tamamlanması için kendilerine düşen borçların yerine getirilmesini, karşılıklı olarak isteme ve dava etme hakkına sahiptirler. Davalı 05.10.1993 tarihinde kat irtifakı kurulu halde 3 numaralı bağımsız bölümü satın aldığından Kat Mülkiyeti Yasasının 17. maddesinde belirtilen kat irtifakı kurulmasına dair sözleşmenin tarafı olmadığı anlaşılmaktadır. Bu nedenle uyuşmazlıkta kat mülkiyeti hükümlerinin değil, genel hükümlerin uygulanması gerekmektedir. Buna göre görev hususu da genel hükümler uyarınca belirlenmelidir.

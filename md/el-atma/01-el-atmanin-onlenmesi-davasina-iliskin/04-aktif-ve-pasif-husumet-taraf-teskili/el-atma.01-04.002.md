@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2023/6328 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1005964200)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne, kısmen reddine karar verilmiştir.
 
 …
@@ -36,6 +38,8 @@ Kanun'un 30/2. maddesi gereğince tarafların gösterecekleri deliller ile mahke
 SONUÇ; Yukarıda açıklanan sebeplerle; temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 7. HD 2023/4713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990233300)
 
 İlk Derece Mahkemesi kararının davacı vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince istinaf talebinin kabulü ile İlk Derece Mahkemesi kararı kaldırılarak esas hakkında yeniden hüküm kurulmasına karar verilmiştir.
 
@@ -59,6 +63,8 @@ parsel ... taşınmazlar hakkında açılan davanın pasif husumet yokluğu nede
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 ... Kanun’un 370 inci maddesinin birinci fıkrası ve 373 üncü maddesinin beşinci fıkraları uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/2658 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915857600)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -88,6 +94,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 7. HD 2023/2551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915804800)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın ecrimisil istemi yönünden kabulüne, el atmanın istemi yönünden karar verilmesine yer olmadığına, yıkım istemi yönünden husumetten reddine karar verilmiştir.
 
 …
@@ -110,6 +118,8 @@ bile bulunmadığı halde) davalı olarak işin esası hakkında karar verilmesi
 (2) nolu paragrafta açıklanan nedenlerle, dahili davalılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/2476 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914622500)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların kısmen kabul, kısmen reddine karar verilmiştir.
 
@@ -136,6 +146,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 5. HD 2022/13053 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/816555900)
+
 Davacılar vekili dava dilekçesinde; ... İli, ... İlçesi, ...
 
 …
@@ -152,6 +164,8 @@ Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uy
 
 ## Yargıtay 3. HD 2021/9136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706502700)
+
 Davacı, ... malikleri adına ... Toplu Yapı Yönetim Kurulu ile 10/04/2013 tarihli ... Sitesinde sosyal tesisin işletmesine yönelik 3 yıllık kira sözleşmesi imzalandığını, kiraya verenlerin kiraya vermeye ehliyetli olduğunu, davalıların hiçbir sorun olmadığı halde kiralananın anahtarlarının değiştirdiklerini, davalıların yönetim kurulunu yok sayarak yasaya aykırı şekilde kendilerince bir yönetim oluşturduklarını, kira sözleşmesini yok saydıklarını, kira sözleşmesi ile kullanma hakkına sahip olduğu kiralanandan faydalanamadığını ileri sürerek, kiracılığının tespiti ile davalılar tarafından yapılan el atmanın önlenmesini talep etmiştir.
 
 Davalılar ... ve ..., davacının taşınmazda zilyet olmadığını, kira sözleşmesini imzalayanların kat maliklerini temsil yetkisinin bulunmadığını savunarak davanın reddini istemiş, diğer davalılar davaya cevap vermemiştir.
@@ -165,6 +179,8 @@ Davaya dayanak yapılan 01/05/2013 başlangıç tarihli ve beş yıl süreli kir
 SONUÇ: Yukarıda açıklanan nedenlerle, temyiz olunan kararın 6100 sayılı HMK'nın geçici madde 3 atfıyla HUMK'nın 428. maddesi uyarınca davacı yararına BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/7944 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634612600)
 
 Davacı vekili; müvekkilinin ..., ... ... mah., 178 ada 30 parsel sayılı taşınmazın maliki olduğunu, davalının da 29 parsel sayılı taşınmazın maliki olduğunu, 29 nolu parsel üzerindeki binanın davacıya ait 30 nolu parsele tecavüzünün olduğunu, davalıya müdahalesini sonlandırması talebinin sözlü olarak iletildiğini ancak davalının müdahalesini sonlandırmadığını, bu nedenle 30 parsel sayılı taşınmaza davalı tarafından yapılan müdahalenin men'ine, taşkın yapının yıkılmasına, fazlaya ilişkin hakları saklı kalmak kaydı ile şimdilik 1 TL ecrimisil bedelinin faizi ile davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -182,6 +198,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazları ye
 
 ## Yargıtay 16. HD 2019/3280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/527444800)
+
 Kadastro tespitinden önceki tarihte Asliye Hukuk Mahkemesinde davacı ... tarafından taşınmazın yayla olduğu iddiası ile ... ve diğerleri aleyhine açılan elatmanın önlenmesi davası ile ... tarafından Hazine ve Köy Tüzel Kişiliğine karşı açılan tescil davası yargılama devam ederken çekişmeli taşınmazlar hakkında tutanak düzenlenmesi sebebiyle görevsizlik kararı verilerek Kadastro Mahkemesine aktarılmıştır. Ne var ki, hüküm tarihinden önce yürürlüğe giren 6360 sayılı Yasa'nın 1. maddesi uyarınca Büyükşehir Belediyelerinin sınırları, tüm ilin mülki sınırları haline gelmiş olup, Büyükşehir Belediyesi sınırları içerisindeki belde ve köylerin tüzel kişilikleri kaldırılarak bağlı bulundukları ilçe belediyesine katılmıştır. Somut olayda, 6360 sayılı Yasa'nın Geçici 1/13. maddesi uyarınca tüzel kişiliği kaldırılan davalı ...’nin bağlı bulunduğu Feke İlçe Belediye Başkanlığı ile TMK'nın 713/3. maddesi gereğince ilgili kamu tüzel kişiliği olması sebebiyle Adana Büyükşehir Belediye Başkanlığı’nın davaya dahil edilerek taraf teşkilinin sağlanması gerekirken taraf teşkili sağlanmadan işin esasına girilerek hüküm kurulması isabetsizdir.
 Taraf teşkili dava şartlarından olduğundan yargılamanın her aşamasında mahkemece re'sen dikkate alınması gerekmekte olup, bu şart sağlanmadan davanın esasına girilemez.
 
@@ -190,6 +208,8 @@ Taraf teşkili dava şartlarından olduğundan yargılamanın her aşamasında m
 ekonomik amaca uygun olarak tarım arazisi niteliğiyle kullanılıp kullanılmadıkları ve kullanımların hangi tarihten itibaren ne şekilde olduğu, varsa imar-ihyalarının tamamlanıp tamamlanmadığı, tamamlanmışsa hangi tarihte tamamlandığı, taşınmazların kullanımlarına ara verilip verilmediği hususlarında ayrıntılı rapor düzenlettirilmeli, fen bilirkişisinden keşfi takibe imkan verir rapor alınmalı bundan sonra da iddia ve savunma çerçevesinde toplanan tüm deliller birlikte değerlendirilerek sonucuna göre karar verilmelidir. Mahkemece taraf teşkili sağlanmaksızın ve eksik incelemeye dayalı olarak yazılı şekilde karar verilmiş olması isabetsiz olduğu gibi; kabule göre de, 3402 sayılı Kadastro Kanunu'nun 1. maddesi uyarınca kadastro hakiminin infazı kabil, infaz sırasında tereddüt oluşturmayacak şekilde ve çekişmeli taşınmazların tamamı hakkında sicil oluşturmaya elverişli bir karar vermek zorunda olduğu üzerinde durulmaksızın tescil hükmü kurulurken çekişmeli 126 ada 15, 16, 17 ve 25 parsel sayılı taşınmazların yüzölçüm haneleri tek tek belirlenmeden karar verilmiş olması da isabetsiz olup, temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2019/119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477637800)
 
 Dava, komşuluk hukukundan kaynaklanan elatmanın önlenmesi ve kal talebine ilişkindir.
 
@@ -208,6 +228,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabu
 
 ## Yargıtay 1. HD 2017/7384 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388155900)
+
 Davalı ..., davaya konu 5960 parsel sayılı taşınmazı diğer davalı ...'e geri almak şartıyla sattığını,davacıları tanımadığını, ayrıca davaya konu taşınmazın kendisi ve ailesinin müşterek konutları olduğunu, eşi ... tarafından aleyhine boşanma davası açıldığını müşterek konutta eşinin de eşyalarının bulunduğunu belirterek davanın reddini savunmuş, diğer davalı ..., dava konusu taşınmazı bedelini peşin ödeyerek satın aldığını,taşınmazın devrinin geri almak amacı ile yapıldığı iddiasının doğru olmadığını, bu davanın kendisine yöneltilmemesi gerektiğini belirterek davanın husumet yönünden reddini savunmuş, davalı ... ise müdahil olmak isteği ile birlikte davanın reddini savunmuştur.
 
 …
@@ -219,6 +241,8 @@ Bilindiği üzere gerek 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu, gerekse 
 Davalı karşı davacı ...’in bu yöne değinen temyiz itirazları yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2017/1199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/318952100)
 
 Dava, komşuluk hukukundan kaynaklanan elatmanın önlenmesi ve kal istemine ilişkindir.
 
@@ -235,6 +259,8 @@ Yukarıdaki ilkeler ışığında: somut olaya gelince; davayı açan ... davaya
 SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/1106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/320225700)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım, eski hale getirme ve tazminat isteklerine ilişkindir.
 
@@ -256,6 +282,8 @@ Davacı vekilinin temyiz itirazları değinilen yön itibariyle yerindedir. Kabu
 
 ## Yargıtay 14. HD 2017/171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/294678500)
+
 Davacı, karşı davalı vekili 12.04.2011 tarihli dilekçe ile 114 ada 1 parsel sayılı (394 m2 ev, ahır ve arsa cinsli) taşınmazın maliki olduğunu, 18.06.1987 tarihli imar uygulaması sonrasında iki katlı binasının bir bölümünün davalı 114 ada 14 parsel sayılı (498 m2 ev ve arsa cinsli) taşınmazın içinde kaldığını (davalının bu taşınmazı 27.08.1999 tarihinde satış suretiyle edindiğini), 114 ada 14 parsel sayılı taşınmazda binasının işgal ettiği alanın tapusunun kısmen iptali ile temliken tescilini ya da binanın kendisine ait olduğunun tapu kaydının muhdesat hanesine işlenerek paylı olarak tapuya kayıt ve tescilini istemiştir.
 
 Davalı vekili imar uygulaması ile oluşan taşkınlık nedeniyle temliken tescil istenemeyeceği, ayrıca davacının ilave yapısının 1974 yılında yapılmış olup kısmen yıkımının mümkün olduğu, ayrıca kaim bedel değil maliyet bedeli üzerinden depo kararı verilmesi gerektiğini beyanla davanın reddini, birleştirilen 2011/21 Esas sayılı dosyada davalı vekili 26.01.2011 tarihli dilekçesi ile 114 ada 14 parseldeki taşınmazına yapılan müdahalenin men'ine, tecavüzlü yapıların yıkımına ve ecrimisile karar verilmesini istemiştir.
@@ -269,6 +297,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı ve birleştirilen dosyanın dav
 
 ## Yargıtay 1. HD 2016/5187 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207496000)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davanın kabulüne ilişkin olarak verilen karar Dairece; “ ... elatmanın önlenmesi ve yıkım istekli davalar haksız fiil niteliğinde olup, haksız fiili ika eden kişiye karşı açılması gerektiğinden, yapılacak araştırma ile dava konusu binanın kendisine husumet yöneltilen davalı ... tarafından yapılmadığının saptanması halinde yıkım isteğinin husumetten reddinin gerekeceği asıldır. Ancak, 01.10.2011 tarihinde yürürlüğe giren 6100 sayılı HMK.'nun 124.maddesi ile bazı durum ve şartların varlığı ve gerçekleşmesi halinde taraf değişikliğine dair getirilen yeni yasal düzenlemelerinde gözetilip değerlendirilerek neticeye gidilmesi icabetmektedir.
@@ -279,6 +309,8 @@ Hal böyle olunca; yıkılması istenilen bina sahibi ...'in davada yer almasın
 Davalılar ... vekilinin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2015/13207 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146871500)
 
 Mahkemece davanın,2942 sayılı kanunun 12. maddesi koşulları oluşmadığından reddine karar verilmiş; hüküm davacı vekili tarafından temyiz edilmiştir.
 

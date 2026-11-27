@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2024/2020 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024774600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, birleştirilen davanın ise reddine karar verilmiştir.
 
 …
@@ -42,6 +44,8 @@ bedeli ile ilgili yeniden hüküm kurulmaması gerekçeleri ile kararın bozulma
 Bir kısım davacılar ve davalı idare vekillerinin görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2024/1058 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039039600)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -64,6 +68,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 5. HD 2023/12173 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985899300)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... yönünden davanın husumet yokluğu nedeniyle reddine, davalı TEDAŞ yönünden ise davanın kabulüne karar verilmiştir.
 
 …
@@ -79,6 +85,8 @@ Dairemizce yapılan inceleme sonucunda; arsa niteliğindeki dava konusu taşınm
 Davacılar ve davalı TEDAŞ vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Mahkeme kararının ONANMASINA …
 
 ## Yargıtay 5. HD 2023/12129 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993533500)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davanın TEDAŞ Genel Müdürlüğü yönünden kabulüne, TEİAŞ Genel Müdürlüğü yönünden esastan reddine, ... Elektrik Dağıtım A.Ş. yönünden ise husumet yokluğundan reddine karar verilmiştir.
 
@@ -99,6 +107,8 @@ Dairemizce yapılan inceleme sonucunda; hükme esas alınan bilirkişi raporunda
 TEDAŞ Genel Müdürlüğü vekilinin temyiz itirazlarının kısmen kabulü ile Mahkeme kararının, hüküm fıkrasının asıl davaya ilişkin (1) numaralı bendinde yer alan "dava tarihinden" ibaresinin çıkartılarak yerine "dava tarihi olan 12.06.2012 tarihinden", birleştirilen davaya ilişkin (2) numaralı bendinde yer alan "dava tarihinden" ibaresinin çıkartılarak yerine "dava tarihi olan 25.02.2013 tarihinden" ibaresinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2023/6012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/922706700)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların kısmen kabulüne karar verilmiştir.
 
@@ -122,6 +132,8 @@ b) Gerekçeli karar başlığında davalı olarak yer alan ''..., ..., ..., ...,
 
 ## Yargıtay 7. HD 2023/2176 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910946000)
+
 Davacı vekili dava dilekçesinde; müvekkilinin dava konusu 70 ada 12 ve 13 parsel sayılı taşınmazların maliki olduğunu, davalılarca ... fabrikasının bulunduğu 70 ada 14 parsel sayılı taşınmaz kullanılırken davacıya ait parsellere de tecavüz edildiğini ileri sürerek davalıların elatmalarının önlenmesini ve sabit kantarın sökülerek kaldırılmasını istemiştir.
 
 …
@@ -140,6 +152,8 @@ Germencik Asliye Hukuk Mahkemesinin 19.02.2020 tarih ve 2018/217 Esas, 2020/95 K
 
 ## Yargıtay 7. HD 2022/7944 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858960000)
+
 Dava, el atmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 
 Davacı vekili, müvekkilinin dava konusu 13 no’lu bağımsız bölümün maliki olduğunu, davalının taşınmaza tecavüzde bulunduğunu ileri sürerek el atmanın önlenmesi ve ecrimisil talebinde bulunmuştur.
@@ -157,6 +171,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle HMK 373/1. maddesi gereğince temyiz ol
 
 ## Yargıtay 3. HD 2021/9136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706502700)
+
 Davacı, ... malikleri adına ... Toplu Yapı Yönetim Kurulu ile 10/04/2013 tarihli ... Sitesinde sosyal tesisin işletmesine yönelik 3 yıllık kira sözleşmesi imzalandığını, kiraya verenlerin kiraya vermeye ehliyetli olduğunu, davalıların hiçbir sorun olmadığı halde kiralananın anahtarlarının değiştirdiklerini, davalıların yönetim kurulunu yok sayarak yasaya aykırı şekilde kendilerince bir yönetim oluşturduklarını, kira sözleşmesini yok saydıklarını, kira sözleşmesi ile kullanma hakkına sahip olduğu kiralanandan faydalanamadığını ileri sürerek, kiracılığının tespiti ile davalılar tarafından yapılan el atmanın önlenmesini talep etmiştir.
 
 Davalılar ... ve ..., davacının taşınmazda zilyet olmadığını, kira sözleşmesini imzalayanların kat maliklerini temsil yetkisinin bulunmadığını savunarak davanın reddini istemiş, diğer davalılar davaya cevap vermemiştir.
@@ -170,6 +186,8 @@ Davaya dayanak yapılan 01/05/2013 başlangıç tarihli ve beş yıl süreli kir
 SONUÇ: Yukarıda açıklanan nedenlerle, temyiz olunan kararın 6100 sayılı HMK'nın geçici madde 3 atfıyla HUMK'nın 428. maddesi uyarınca davacı yararına BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/2791 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680900000)
 
 Davalılar vekili, davacılardan önceki malik ile vekil edenleri arasında 29.04.2009 tarihinden itibaren geçerli olmak üzere 15 yıllık kira sözleşmesinin yapıldığını, tahliyeye kadar kullanımının haksız kullanım olmadığını bu nedenle dava konusu taşınmazda vekil edenlerinin davaya konu dönemde kiracı olarak bulunduğunu açıklayarak, davanın reddini savunmuştur.
 
@@ -187,6 +205,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazları
 
 ## Yargıtay 8. HD 2020/7255 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/619000400)
+
 Davalı, taraflar arasında sözlü bir kira sözleşmesinin olduğunu, davacının kira sözleşmesine ilişkin faturalar düzenleyip kendisine tebliğ ettiğini, faturaların ticari defterlere kaydedildiğini, davacının ecrimisil isteminde bulunamayacağını belirterek, davanın reddini istemiştir.
 
 Mahkemece yapılan yargılama sonunda, davanın kısmen kabulüne, dava konusu taşınmaza davalının elatmasının önlenmesine, hesaplanan 14.220,07 TL ecrimisilin davalıdan alınarak davacıya verilmesine dair karar verilmiş hüküm davalı vekili tarafından temyiz edilmiştir.
@@ -203,6 +223,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazları ye
 
 ## Yargıtay 8. HD 2020/3853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596061900)
+
 Bu durumda, birleşen dava davalılarından ..., ..., ..., ..., ...’in çekişme konusu taşınmazda kayıttan ve mülkiyetten kaynaklanan bir hakkının olmadığı ve pay ve paydaş çoğunluğunu sağlamayan, başka bir ifadeyle, geçerli bir kira sözleşmesi olmaksızın nizalı yeri kullandığı dosya kapsamı ile sabit olup ecrimisil yönünden sorumlu tutulmaları gerektiği gibi (bu kiracıların) diğer pay maliki Haşim’e tabaen kullanımları söz konusu olduğundan haklarında elatmanın önlenmesi yönünden red kararı verilmesi de doğru değildir.
 
 Hal böyle olunca, yukarıda izah edilen ilkelerde gözetilerek birleşen dava davalılarından ..., ..., ..., ..., ...’in de hesaplanmış ve/veya hesaplanacak ecrimisil alacağından sorumlu tutulması ve elatmanın önlenesi yönünden de kabul kararı verilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu üzere hüküm tesisi isabetsizdir.
@@ -212,6 +234,8 @@ Hal böyle olunca, yukarıda izah edilen ilkelerde gözetilerek birleşen dava d
 SONUÇ: Açıklanan nedenlerle, asıl ve birleşen dava davacı vekilinin yukarıda belirtilen temyiz itirazları yukarıda 2. bentte belirtilen nedenlerle yerinde olduğundan kabulü ile Yerel Mahkeme hükmünün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 3. HD 2018/10891 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452388500)
 
 Davacı; davaya konu taşınmazda kiracı olduğunu, taşınmazı köy tüzel kişiliğinden 01.03.2010 sözleşme ile kiraladığını, köy tüzel kişiliği sona erince davalı ... ile 31.03.2014 tarihli sözleşme yaptıklarını, arazinin malikinin dava dışı hazineye ait olduğunu öğrendiğini, hazinenin ecrimisil talep ettiğini ve hazineye ecrimisil ödediğini, davalının haksız yere kira bedellerini tahsil etmiş olduğunu, belediyenin taşınmazdan tahliyelerini de talep ettiğini ileri sürerek, tahliye işlemlerinin durdurulması, belediye ile yapılan 31.03.2014 tarihli sözleşmenin iptaline ve 9.190 TL kira bedelinin iadesine karar verilmesini istemiştir.
 
@@ -230,6 +254,8 @@ SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şek
 
 ## Yargıtay 3. HD 2018/5589 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426221400)
+
 Davacı, davalının 2011 yılının başından beri, kendisine ait taşınmazı kullandığını, davalının taşınmazını terk etmediği için yıllardır kira geliri almadığını ve maddi olarak zarar gördüğünü, kira alacağına ilişkin ... 1.İcra Müdürlüğünün 2013/4985 Esas sayılı dosya ile icra takibine geçildiğini, davalının takibe kiracı olmadığını, aralarında kira sözleşmesinin söz konusu olmadığını beyan ederek itiraz ettiğini, taşınmazda hiçbir hakkı olmamasına rağmen zorla oturduğunu ve kendisini ekonomik zarara uğrattığını belirterek davalının hukuka aykırı olarak işgal ettiği taşınmazdaki müdahalesinin sona erdirilmesine, 7.500 TL ecrimisil alacağına hükmedilmesine karar verilmesini talep etmiştir.Davalı, davacının, hiçbir kira vb. talebi olmaksızın rızası ve muvafakati ile taşınmazda oturduğunu beyanla davanın reddini istemiştir.
 
 …
@@ -238,6 +264,8 @@ Davacı, davalının 2011 yılının başından beri, kendisine ait taşınmazı
 Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince davacı yararına BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK'nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince karar düzeltme yolu kapalı olmak üzere, 22.05.2018 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 14. HD 2018/1125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410647200)
 
 Davacı, davalının havaalanındaki giden yolcu salonundaki cafe- bar mahallini dava dışı kurumdan 01.01.2014 başlangıç günlü kira sözleşmesi ile bir yıl süreyle kiraladığını, davalıya taşınmazı kiralayan dava dışı kurum ile davacı arasında imtiyaz sözleşmesi düzenlendiğinden kira sözleşmesinin 13/g maddesi gereği taşınmazın tahliyesinin gerektiğini, taşınmazın ihtara rağmen tahliye edilmediğini ileri sürerek, elatmanın önlenmesi ile taşınmazın boş olarak teslimini istemiştir.
 
@@ -254,6 +282,8 @@ Dava, imtiyaz sözleşmesine dayalı meni müdahale istemine ilişkindir.
 Mahkemece verilen karar incelendiğinde de; bir görevsizlik kararı olmadığı, tahliye davası açılması gerekirken, meni müdahale davası açılmış olması nedeniyle yasal şartları oluşmayan davanın reddine karar verildiği görülmektedir. Nitekim, 28.12.2016 tarihli ilamımızda da; taraflar arasındaki davanın "davalı ... ile DHMİ arasında 02.01.2014 tarihli kira sözleşmesi imzalanmıştır. Gerek kira sözleşmesi ve gerekse 22.07.2014 tarihli imtiyaz sözleşmesi hükümlerinin birlikte değerlendirilmesi sonucu taraflar arasındaki uyuşmazlığın mahkeme gerekçesinde de belirtildiği üzere 6098 sayılı TBK'nun ilgili maddeleri gereğince açılacak bir tahliye davası ile sonuçlandırılması gerekeceği" nitelendirilmesinin yapıldığı anlaşılmaktadır.
 
 ## Yargıtay 1. HD 2017/2608 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358173300)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 

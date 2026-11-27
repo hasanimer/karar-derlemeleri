@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2020/10 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602086000)
+
 16\. 3402 sayılı Kadastro Kanunu'nun 25. maddesi hükmü uyarınca kadastro sonrası nedene dayalı olarak açılan davalarda Kadastro Mahkemesi görevli olmayıp genel mahkemeler görevlidir. Görev hususu kamu düzenine ilişkin olup, yargılamanın her aşamasında re’sen gözetilmesi gereken hususlardandır. Hâl böyle olunca; Özel Daire bozma kararında da belirtildiği üzere, Mahkemece adı geçen müdahil davacının talebi yönünden Kadastro Mahkemesinin görevsizliğine, talep halinde dosyanın görevli ve yetkili mahkemeye gönderilmesine karar verilmesi gerekirken yazılı gerekçeyle karar verilmesine yer olmadığına karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 1. HD 2026/5956 K.
@@ -29,8 +31,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2020/1672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599022800)
+
 Orman İdaresinin davasının yalnızca mülkiyet iddiasına dayalı olması halinde; 3402 sayılı Kanunun kadastro mahkemesinin genel olarak görevini düzenleyen 25. maddesi; zaman bakımından görev ve yetkisini düzenleyen 26. maddesi uyarınca, mülkiyete yönelik davaya bakmaya kadastro mahkemesi'nin görevli olmaması ve davanın genel mahkemede görülmesi gerektiğinden, dava dilekçesinin görevsizlik nedeniyle reddine, tutanakların tapu kütüğüne aynen aktarılmasına karar verilmelidir.
 
 ## Yargıtay 16. HD 2019/8979 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567762700)
 
 Hal böyle olunca, kesinleşen tespit tutanağına karşı açılan eldeki davada Kadastro Mahkemesi görevli olmayıp, genel mahkemeler görevlidir. Mahkemelerin görevleriyle ilgili kurallar kamu düzenine ilişkin dava şartlarından olduğundan, mahkemelerce re'sen gözetilmesi gerekir. Bu durum karşısında mahkemece, 6100 sayılı HMK'nın m.114/1-c ve 115/2. maddesi uyarınca mahkemenin görevsizliğine, talep halinde dosyanın yetkili ve görevli Asliye Hukuk Mahkemesine gönderilmesine karar verilmesi gerekirken, işin esası hakkında karar verilmesi isabetsiz olup, temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulüyle hükmün BOZULMASINA, peşin yatırılan temyiz karar harcının talep halinde temyiz edene iadesine, yasal koşullar gerçekleştiğinde kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere,…

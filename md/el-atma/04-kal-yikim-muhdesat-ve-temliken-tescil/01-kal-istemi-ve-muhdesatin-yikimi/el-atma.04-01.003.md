@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2022/9340 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786250700)
+
 Dava, kamulaştırmasız el atmanın önlenmesi ve kal, bu mümkün olmadığı takdirde kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, uyulan bozma kararı gereğince inceleme ve işlem yapılarak kamulaştırmasız el atılan taşınmaz bedelinin tahsiline karar verilmiş; hüküm, taraf vekillerince temyiz edilmiştir.
@@ -35,6 +37,8 @@ Bozma öncesi verilen müdahalenin meni ve binanın kal’ine dair kararda; dava
 Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle HUMK’un 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 7. HD 2022/7914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/869845400)
 
 Davacı Hazine vekili Bayraktepe Köyü A 104 ve 46 sayılı mera parsellerine davalılar tarafından elatıldığının teknik ekipçe belirlendiğini ileri sürerek, meraya elatmanın önlenmesini, muhdesatın kal'ini ve mera parselinin eski hale getirilmesi için gerekli olan toplam 42.191,29 TL’nin işgalin başladığı tarihten itibaren işleyecek yasal faizi ile birlikte davalılardan tahsiline karar verilmesini istemiştir.
 
@@ -56,6 +60,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı Hazine vekilinin temyiz itirazl
 
 ## Yargıtay 7. HD 2022/6946 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838172700)
+
 Davacı Hazine vekili; Gaziantep ili, Nizip ilçesi, ... Mahallesi, 108 ada 360 no'lu mera parselinin 19.490,86 m²'lik kısmının davalı tarafından ağaç dikilmek suretiyle kullanıldığını, meraya el atmanın önlenmesi, ağaçların kal'ine ve 8.952,00 TL eski hale getirme bedelinin davalıdan tahsilini talep etmiştir.
 
 …
@@ -73,6 +79,8 @@ Diğer yandan, HMK 297/2. maddesinde "hükmün sonuç kısmında, gerekçeye ait
 Yukarıda açıklanan 1. bentte yazılı nedenlerle davalının temyiz itirazlarının reddine; 2. bentte açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hüküm fıkrasının; 1. bendinde yer alan "kal yapılmadığı takdirde 8952 TL tazminatın davalıdan alınarak davacıya verilmesine" sözcüklerinin çıkartılmasına, hükmün DEĞİŞTİRİLMİŞ ve DÜZELTİLMİŞ bu şekliyle ONANMASINA …
 
 ## Yargıtay 7. HD 2022/5888 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837942500)
 
 Dava elatmanın önlenmesi, kal ve eski hale getirilmesi istemlerine ilişkindir.
 
@@ -92,6 +100,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; HMK 373/1. maddesi gereğince temyiz o
 
 ## Yargıtay 7. HD 2022/5861 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829275100)
+
 Davacı, ... Köyü 1090 parsel sayılı taşınmazın maliki olduğunu, komşu 1089 parsel maliki olan davalının 1090 parsel sayılı taşınmaza tecavüzlü duvar yaptığını ileri sürerek, elatmanın önlenmesine ve duvarın kal'ine karar verilmesini istemiştir.
 
 Davalı, bilerek yapılmış bir müdahale bulunmadığını beyanla davanın reddini savunmuştur.
@@ -110,6 +120,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabu
 
 ## Yargıtay 7. HD 2022/5532 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850900500)
+
 Dava, çaplı taşınmaza doğrudan tecavüz ve komşuluk hukukuna aykırılık nedeniyle elatmanın önlenmesi ve yıkım isteklerine ilişkindir.
 
 Davacı, davalının komşu parsellerde yaptırdığı otel inşaatının ruhsatsız, kaçak ve komşuluk hukukuna aykırı olduğu gibi kendisine ait 19 no'lu parsele de tecavüzlü olduğunu, 1 ve 20 parsellerdeki binaların kaçak olarak birleştirilip, güçlendirme yapılarak statik risk oluşturduğunu, davalının inşaatı nedeniyle hava akımının kesildiğini ve güneş görmediğini, 155 ada 1 ve 20 parselde yapılan kaçak güçlendirme, birleştirme, yapılaşma faaliyetleri nedeniyle verilen idari yıkım kararlarının uygulanması gerektiğini ileri sürerek eldeki davayı açmıştır.
@@ -127,6 +139,8 @@ Mülkiyet hakkına dayalı elatmanın önlenmesi yönünden alınan bilirkişi r
 SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2022/5524 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834962500)
 
 Davacı vekili dava dilekçesinde, müvekkilinin maliki olduğu dava konusu ... ada 69 parsel sayılı taşınmaza, davalılar tarafından gecekondu inşaa edilmek suretiyle müvekkilinin mülkiyet hakkının ihlal edildiğini belirterek, davalıların dava konusu taşınmaza el atmasının önlenmesine ve bu taşınmaz üzerine müvekkilinin rıza ve muvafakati olmadan inşaa edilen gecekondunun yıkımına karar verilmesini talep etmiştir.
 
@@ -149,6 +163,8 @@ Temyiz olunan, Kayseri Bölge Adliye Mahkemesi 1. Hukuk Dairesinin 11.04.2022 ta
 
 ## Yargıtay 6. HD 2022/5352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850553400)
+
 Yerel mahkemece verilen ilk hükmün taraflarca temyizi üzerine, (kapatılan) Yargıtay 23. Hukuk Dairesi 2015/6071 Esas, 2018/5546 Karar sayılı ve 28.11.2018 tarihli kararı ile birleşen dava bakımından dilekçeler aşaması ve ön inceleme duruşması usulü uygulanmadan tahkikat aşamasına geçilmesi nedeni ile yerel mahkeme kararı usul yönünden bozulmuş, diğer temyiz itirazlarının incelenmesine şimdilik yer olmadığına karar verilmiştir.
 
 …
@@ -162,6 +178,8 @@ SONUÇ: Yukarıda 1. ve 2. bentte açıklanan nedenlerle karar düzeltme istemin
 …
 
 ## Yargıtay 7. HD 2022/2340 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/751416300)
 
 Dava, elatmanın önlenmesi ve eski hale getirme bedelinin tahsili istemine ilişkindir.
 
@@ -181,6 +199,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalılar ... ve 
 
 ## Yargıtay 1. HD 2022/1950 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/823010000)
+
 Davacı Hazine, dava konusu 1067 parsel sayılı taşınmazın kıyı kenar çizgisi ve denizin uzantısı olan kumsal sahanın içerisinde kaldığını, Devletin hüküm ve tasarrufu altında olan yerler kapsamında olduğunu ve özel mülkiyete konu olamayacağını, davalılar adına kayıtlı olan dava konusu taşınmazın halen davalıların kullanımında olduğunu ileri sürerek, davalılar adına olan tapu kaydının iptali ile davacı Hazine adına tescili, taşınmaza ilişkin müdahalenin men'i ve kal kararı verilmesini istemiştir.
 
 …
@@ -196,6 +216,8 @@ Davalılar, ...; dava konusu taşınmazın 1950 yılından beri özel mülkiyete
 Kararın (V/3.3.4.) nolu bendinde açıklanan nedenlerle; davacının değinilen yön itibariyle yerinde görülen temyiz itirazlarının kabulü ile, 6100 sayılı Hukuk Muhakemeleri Kanununun 371/1-a maddesi uyarınca Adana Bölge Adliye Mahkemesi 1. Hukuk Dairesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2022/1818 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748814900)
 
 Dava, mecra irtifakı hakkına dayalı elatmanın önlenmesi ve yıkım istemine ilişkindir.
 
@@ -216,6 +238,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2022/1589 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760603400)
+
 Dava, komşuluk hukukundan kaynaklanan el atmanın önlenmesi, eski hale getirme ve tazminat istemine ilişkindir.
 
 Davacılar vekili, davacılardan ...'un 118 ada 128 parselin, ...'in ise aynı yer ... ada 127 parselin maliki bulunduğunu, komşu 118 ada 133 parselin ise davalılara ait olduğunu, taşınmazlar arasında kadimden beri bölgenin yağmur sularının aktığı dere olarak kullanılan alan olduğunu, derenin bir kısmının davacılara ait taşınmazlar içerisinde, bir kısmının ise davalılara ait taşınmazın sınırları içerisinde kaldığını, davalılar tarafından maliki oldukları 118 ada 133 parsel sayılı taşınmaz üzerine sera inşaatına başlandığını ancak kadimden beri dere olarak kullanılan bölümün de üstünü doldurarak seranın içerisine dahil ettiklerini, seranın duvarını komşu parselin en uç noktasına kadar yaklaştırdıklarını, davalıların bu eylemi ile su tahliye yapısının bozulacağını, bundan sonra bütün yağmur sularının davacılara ait taşınmazlara akacağını, bu nedenle komşuluk hukukuna aykırı olarak yapılan müdahalenin men'ine, taşınmazın kadim dere olan kısmının davalılar tarafından eski haline getirilmesine, mümkün olmazsa eski hale getirme bedelinin davacıya ödenmesine ve davalılar tarafından kadim dere üzerine yapılan inşaatin kal'ine karar verilmesini talep etmiştir.
@@ -232,6 +256,8 @@ SONUÇ: Yukarıda yazılı nedenlerle temyiz itirazlarının kabulüyle hükmün
 
 ## Yargıtay 8. HD 2021/5226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684312200)
+
 Davalı, dava dışı yüklenici ile 14.11.1997 tarihinde Noterde satış vaadi sözleşmesi tanzim ettiklerini, bu sözleşme uyarınca yüklenicinin kat karşılığı inşaat sözleşmesi uyarınca kendisine düşen bağımsız bölümlerden ikinci bodrum katta girişe göre sağ tarafta bulunan 90 m2 lik daireyi kaba inşaat olarak satmayı, binanın bitimi ile adına tapu kaydı oluştuğunda da kendisine devretmeyi vaad ettiğini, satım bedelini peşin olarak yükleniciye verdiğini, dava konusu daireyi aynı gün kaba inşaat olarak teslim aldığını, oturulabilir duruma getirmek için masraf yaptığını, davacının yüklenici tarafından kendisine teslim edilen aynı binada ikinci katta yer alan dairede oturduğunu, diğer iki daireyi de üçüncü kişilere satıp hisse devri yaptığını, bu durumun arsa tapusuna dayalı mülkiyet hakkının kötüye kullanılması olduğunu açıklayarak asıl ve birleşen davanın reddine karar verilmesini savunmuştur.
 
 Mahkemece verilen davanın elatmanın önlenmesi ve yıkım talebinin kabulüne ve ecrimisil talibinin reddine dair kararın taraf vekillerince temyiz edilmesi üzerine Dairemizin 26.02.2020 gün ve 2018/4780 Esas, 2020/1869 Karar sayılı ilamı ile bozulmasına karar verilmişti. Taraf vekilleri tarafından süresinde kararın düzeltilmesi istenilmiştir.
@@ -247,6 +273,8 @@ kısmının çıkarılmasına, açıklanan yönler gözetilerek Yerel Mahkeme h�
 SONUÇ : Yukarıda (2) no’lu bentte yazılı nedenlerle taraf vekillerinin karar düzeltme istekleri yerinde görüldüğünden, kabulüyle, Dairemizin 26.02.2020 tarihli ve 2018/4780 Esas , 2020/1869 Karar sayılı bozma kararının ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 8. HD 2021/4387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/681047600)
 
 Davalılar ayrı ayrı sunmuş oldukları cevap dilekçeleri ile davanın reddini savunmuştur.
 
@@ -266,6 +294,8 @@ SONUÇ : Taraf vekillerinin temyiz itirazlarının (2,4,5, ve 6) nolu bentlerde 
 
 ## Yargıtay 7. HD 2021/4267 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740423200)
+
 Dava, asıl davada ecrimisil ve müdahalenin men'i - birleşen davada ecrimisil ve hasar onarım tazminatı istemine ilişkindir.
 
 Davacı, maliki olduğu 646 ada, 1 parsel sayılı taşınmaz üzerinde kurulu üç katlı binanın dış cephesine 1993 yılında davalı tarafından başka binalara telefon hattı çekmek için telefon kablosu döşendiğini, telefon kablolarının binanın görünümünü olumsuz etkileyip görsel kirlilik oluşturduğunu, kabloların binaya montesi için binanın birçok yerden delindiğini ve demirler nedeniyle caddeye cepheli duvara reklam alamayıp cephe kiralaması yapamadığından maddi zarara da uğradığını ileri sürerek davalıya ait telefon kablolarının dava konusu taşınmaz üzerinden alınarak müdahalenin sona erdirilmesine ve haksız kullanım nedeniyle 16.08.2013 tarihinden geriye doğru beş yıl için 15.000 TL ecrimisil bedelinin davalıdan tahsiline karar verilmesini istemiştir.
@@ -284,6 +314,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 8. HD 2021/3651 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664135100)
+
 Davacı vekili dava dilekçesinde, davalılardan ..., ... ve ...’a ait 69 ada 60 parsel sayılı taşınmaz üzerindeki binanın; davalılardan Vakıflar Bankası A.O. adına kayıtlı olan 60 ada 40 parsel sayılı taşınmaz üzerindeki bahçe duvarı ve bahçenin; davalılardan ...’a ait 69 ada 56 parsel sayılı taşınmaz üzerindeki binanın, kısmen müvekkiline ait 69 ada 57 parsel sayılı taşınmaza tecavüzlü olduğunu belirterek, elatmaların önlenmesini ve tecavüzlü yapıların kal’ini talep etmiştir.
 
 …
@@ -295,6 +327,8 @@ Bu durumda kal'i talep edilen binanın son durumuna ilişkin ilgili kurumlardan 
 SONUÇ: Yukarıda (2) numaralı bentte açıklanan nedenlerle davalı ... vekilinin karar düzeltme talebinin kabulü ile Dairemizin 10.09.2020 tarihli ve 2019/2040 Esas, 2020/5064 Karar sayılı bozma ilamının kısmen kaldırılmasına …
 
 ## Yargıtay 8. HD 2021/2627 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680907500)
 
 Mahkemece, asıl davanın kısmen kabulü ile fen bilirkişi raporlarında A harfi ile gösterilen 105 m2’lik alana yapılan bina nedeniyle müdahalenin önlenmesine, kal talebinin ise reddine, birleşen davada, davalı Suphi'ye karşı açılan davanın kısmen kabulüyle fen bilirkişi raporunda gösterilen 125 m2’lik alana yapılan bina nedeniyle müdahalenin önlenmesine, yıkım talebinin ise reddine, açılan davanın konusuz kaldığı gerekçesiyle davalılar Hasan ve Mehmet yönünden de karar verilmesine yer olmadığına karar verilmiştir. Hükme karşı asıl ve birleşen davada davacılar vekili tarafından istinaf talebinde bulunulmuş, Gaziantep Bölge Adliye Mahkemesi 1.
 

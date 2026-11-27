@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/341 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773620300)
+
 Davacı vekili dava dilekçesinde; müvekkil köyün kadim merası olan dava konusu 216 ve 217 parsel sayılı taşınmazların kadastro çalışması sırasında mera niteliğinde davalı ... tapulama sınırları içinde bırakıldığını, davalı köyün bu durumu fırsat bilerek meradan yararlanma haklarını engellediğini, çekişmeli taşınmazların müvekkil köye bağlı ... (...) mezrası sınırları içinde kaldığının 1951 yılında tanzim edilen köy sınır kroki ve tutanaklarından açıkça anlaşıldığını, kadimden beri taşınmazlardan mera olarak müvekkil köyün yararlandığını ileri sürerek dava konusu 216 ve 217 parsel sayılı mera niteliğindeki taşınmazlara davalı tarafın yaptığı el atmanın önlenmesine, anılan taşınmazların müvekkil köye ait mera olduğunun tespitine ve intifa hakkının verilmesine karar verilmesini talep etmiştir.
 
 …
@@ -38,6 +40,8 @@ Somut olayda, dava konusu taşınmazların kadastro işlemi ile davalı köy tü
 Davacı vekilinin temyiz itirazlarının reddi ile direnme kararının ONANMASINA …
 
 ## Yargıtay HGK 2005/403 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76812100)
 
 Açıklanan ilkelerin ışığında somut olaya baktığımızda; Yerel mahkemece, 05.05.2004 tarihli oturumda dava konusu taşınmazın orman niteliği ile Hazine adına kayıtlı olduğu, böyle bir yere ilişkin tescil kararı verilemeyeceği ve daha önce kesinleşen elatmanın önlenmesi ve tescile ilişkin kararların orman yönetimini bağlamayacağına ilişkin bozma kararına uyulmuştur.Bozma kararına uyulmakla davalı yararına usuli kazanılmış hak doğmuştur.Dosya içeriğine, hukuksal niteleme ve değerlendirmelere göre gerek bozma kararının,gerekse uyma kararının maddi yanılgıya dayalı olduğu da söylenemez.Gerçekten iradi şekilde Özel Dairenin bozma kararına uyan mahkemenin, artık bozma ilamının doğrultusunda işlem yapmak yükümlülüğü bulunmaktadır. Mahkemenin uyma kararından dönerek başka bir yönde karar vermesi olanaklı değildir.Somut olayda Özel daire kesin bir bozma yaparak davanın reddi gerektiğini belirtmiştir.Bu bozmaya uyan mahkemenin de artık bu yönde hüküm kurması gerekir.
 Hal böyle olunca daha sonra kurulan direnme hükmü usulüne uygun olmadığından maddi yanılgıya dayalı olan Hukuk Genel Kurulu bozmasının ve bu bozmaya karşı başvurulan karar düzeltme isteminin bir geçerliliği bulunmamakta olup, yok hükmündedir. Bu husus usul hükümleri cümlesinden olup, kamu düzenine ilişkin olduğundan, karar düzeltme isteyenin sıfatına bakılmaksızın incelenmesi gerekir.
@@ -162,6 +166,8 @@ Asıl ve birleştirilen davada davalı idare vekilinin yerinde görülmeyen tüm
 
 ## Yargıtay 5. HD 2025/11758 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178350300)
+
 Davacı vekili dava dilekçesinde özetle; dava konusu .... ili, ..., Mahallesi 112 parsel sayılı taşınmazın kıyı kenar çizgisi içinde kaldığından uğramış olduğu zarar ile ecrimisil bedelinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalı Hazineden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -178,6 +184,8 @@ oluşu, davalı idarece yapılan işlemin ise tapu kaydına şerh koymaktan ibar
 Davalı ... vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesi birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/10828 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174546800)
 
 Davacı vekili asıl ve birleştirilen dava dilekçesinde özetle; Bursa ili, Mustafakemalpaşa ilçesi, ... Mahallesi 1539 ve 1546 sayılı taşınmazlara fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 
@@ -197,6 +205,8 @@ Davalı idare vekilinin temyiz itirazlarının kısmen kabulü ile Bölge Adliye
 
 ## Yargıtay 8. HD 2025/6766 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192483900)
+
 İlk Derece Mahkemesince yapılan yargılama sonunda; davanın kabulüne; ... ili ... ilçesi ... Mahallesi 7 14... parsel sayılı taşınmazın 25.05.2018 tarihli ek bilirkişi heyeti raporunda (3/A) harfi ile gösterilen 181.26 m²lik kısmının davalı ... adına arsa vasfı ile olan tapu kaydının iptali ile, orman vasfıyla Hazine adına tapuya tesciline, bu alana yapılan müdahalenin önlenmesine, ayrıca tapusu iptal edilen bu alan üzerindeki tüm şerhlerin terkinine, kalan kısmın mevcut kaydının aynen devamına karar verilmiş; hükmün davalı ... vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince;
 "davalı ... tarafından 15.10.1987 tarihinde 2981/3290 sayılı Kanuna göre yapılan imar uygulaması, daha sonra 26.06.1990 tarihinde yapılan ifraz uygulaması ile bunun sonrasında da dava konusu parselin de içinde kaldığı 1 84... , 15... parsellere ilişkin olarak yapılan imar uygulaması ve ifraz işleminin hukuki dayanaktan yoksun ve yoklukla malûl olduğu, dosyadaki krokilere göre 1 84... parselden ifrazen oluşan davaya konu 7 14... parsel orman tahdit sınırı ve 2/B uygulama alanı sınırları dışında kalıyor ise de, eski 1 84... parselin sınırları içerisinde kaldığı, 1 84... parselin orman vasfıyla Hazine adına olan tespit ve tescilinin 10.09.1940 tarihinde kesinleşmesi, buna dair kadastro tespitinin iptali için 03.05.1947 tarihli ve 3 nolu tapu kaydına (Arabacı Bostanı) dayalı olarak açılan davanın da Beykoz 1.
 Asliye Hukuk Mahkemesinin 1961/1057 Esas, 1968/48 Karar sayılı ilamıyla reddedilmiş ve kesinleşmiş olması, parsel sınırlarının 1958 yılında yapılan arazi kadastrosu ile belirlenerek kesinleşmiş olması karşısında, aksine bir mahkeme kararı ile iptal olmadığı sürece 184 ada, 7 parselin tamamının Hazine adına orman vasfıyla kayıtlı bir taşınmaz olarak kabul edilmesi gerektiği, bu durum iptal edilmeden davalı ... Belediyesince bu parselin LXIII ve XV 2/B poligon alanlarının kenarında kalan Orman Mühendislerinin raporunun ekindeki krokide mavi boyalı olarak gösterilen alanı da kapsayan şekilde bir imar uygulaması ve ifraz yapmak suretiyle davaya konu parsele ilişkin tapu kaydının oluşturulmasının mümkün bulunmadığı, söz konusu imar ve ifraz işlemleri ile sadece maviye boyalı alanla yetinilmediği, 2/B alanlarını da kapsayacak şekilde uygulama yapıldığı, bu alanlarda kalan kısımlarla ilgili davaların yukarıda belirtilen Kadastro Mahkemesi dosyalarında görülerek karara bağlandıkları, ... Belediye Başkanlığının da o dosyalarda taraf olduğu, davalı ...
@@ -208,6 +218,8 @@ davanın kabulüne, ... Mahallesi 7 14... parsel sayılı taşınmazın 25.05.20
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370/1. maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 1. HD 2025/5875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191029100)
 
 Davacı ... vekili dava dilekçesinde; kadastro sırasında taşlık olarak tescil harici bırakılan dava konusu 29.000 metrekare yüz ölçümlü tapusuz taşınmazın kayınpederi ... tarafından imar-ihya edilerek 50 yıldır tarım arazisi olarak kullanıldığını, 1991 yılında ölmesi üzerine mirasçılar arası taksim ile eşi ve davacıya düştüğünü, davacının da kadastro çalışmalarından beri 30 yıldır tarım arazisi olarak kullandığını ileri sürerek dava konusu tapusuz taşınmazın davacı adına tescilini talep etmiş, dava sırasında kayınpederi ... mirasçıları davaya yazılı muvafakatlerini sunmuş, dava sırasında davacı ...'nün ölümü üzerine tüm mirasçıları vekâlet sunmak suretiyle davayı takip etmiş, dava dilekçesinde davalı gösterilen ... köyünün tüzel kişiliğinin kaldırılarak idari yönden kendisine bağlandığı Melikgazi Belediyesi davaya dahil edilmiş, taşınmazın karayoluna komşu olması sebebiyle ... davaya dahil edilmiş, dava dilekçesinde davalı gösterilen ...
 

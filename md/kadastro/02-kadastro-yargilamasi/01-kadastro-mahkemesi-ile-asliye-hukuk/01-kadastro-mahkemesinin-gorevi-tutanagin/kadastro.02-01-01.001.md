@@ -26,21 +26,31 @@ Bu nedenle düzenleme tertibi tamamen başka olan 2613 ve 5521 sayılı Kanunlar
 
 ## Yargıtay HGK 2022/1885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870287500)
+
 3402 sayılı Yasanın 26 ve devamı maddelerinde kadastro mahkemesinin yargılama usulü düzenlenmiştir. İstisnalar dışında, kadastro mahkemesi de, genel mahkemelerde olduğu gibi, tarafların iddiaları ve savunmaları ile bağlı olup, aynı yere ilişkin olsa bile, farklı dosyalarda sunulan delillere dayanılarak, hüküm kurulamaz. Başka deyişle, istisnalar dışında, kadastro mahkemesinde de, delillerin taraflarca sunulması ve dosyasının taraflarca oluşturulması ilkesi geçerlidir. Tarafların ileri sürdüğü iddia ve savunmalar ile dayanılan deliller, kesin ya da takdiri delil olmasına göre mahkemece tek tek değerlendirilmelidir. Taraflarca yargılama sırasında sunulmayan delillere, temyiz aşaması ya da karar düzeltme aşamasında dayanılamaz.
 
 ## Yargıtay HGK 2022/1718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/869712200)
 
 3402 sayılı Kanunun 26. ve devamı maddelerinde kadastro mahkemesinin yargılama usûlü düzenlenmiştir. İstisnalar dışında, kadastro mahkemesi de, genel mahkemelerde olduğu gibi, tarafların iddiaları ve savunmaları ile bağlı olup, aynı yere ilişkin olsa bile, farklı dosyalarda sunulan delillere dayanılarak, hüküm kurulamaz. Başka deyişle, istisnalar dışında, kadastro mahkemesinde de, delillerin taraflarca sunulması ve dosyasının taraflarca oluşturulması ilkesi geçerlidir. Tarafların ileri sürdüğü iddia ve savunmalar ile dayanılan deliller, kesin ya da takdiri delil olmasına göre mahkemece tek tek değerlendirilmelidir.
 
 ## Yargıtay HGK 2019/16 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482092700)
+
 3402 sayılı Kadastro Kanunu’nun 11. maddesine göre kadastro müdürü tarafından, kadastro ekibinin çalışma alanındaki işini bitirdikten sonra askı cetvellerini düzenleyip müdüriyette ve muhtarın çalışma yerinde 30 gün süre ile ilan ettirileceği ve itirazı olanların ilan süresi içinde Kadastro Mahkemesine dava açabilecekleri, aynı Kanunun 12. maddesine göre ise 30 günlük ilan süresi geçtikten sonra dava açılmayan kadastro tutanaklarına ait sınırlandırma ve tespitlerin kesinleşeceği hükümleri yer almakta olup, Kadastro Mahkemesinin görevli olduğu hâller Kadastro Kanunu’nun 25. ve 26. maddelerinde düzenlenmiş, 26. maddenin (B) bendine göre 11. maddede belirtilen askı ilanı içinde açılan davalarda Kadastro Mahkemesinin görevli olduğu açıklanmıştır.
 
 ## Yargıtay HGK 2014/307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84081000)
+
 Kadastro Mahkemesinin genel olarak görevi, 3402 sayılı Yasanın 25. maddesinde, zaman bakımından görev ve yetkisi ise aynı Yasanın 27. maddesinde düzenlenmiştir. 3402 sayılı Yasanın 22/2-a gereğince yapılan tesbitte taşınmazın mülkiyeti, çapı ve yüzölçümü tartışma konusu edilemez, bu işlemde uygulama kabiliyeti bulunmayan ve harita tekniğine uymayan haritalar yerine, ülke koordinat sistemine uygun sayısal haritaları düzenlenerek, bu tesbitin kesinleşmesi halinde tapu malikleri adına tapuya tescil edilir.
 
 ## Yargıtay HGK 2012/1368 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77664900)
 
 Kadastro Mahkemesinin genel olarak görevi, 3402 sayılı Yasanın 25.maddesinde, zaman bakımından görev ve yetkisi ise aynı Yasanın 27. maddesinde düzenlenmiştir. 3402 sayılı Yasanın 22/2-a gereğince yapılan tesbitte taşınmazın mülkiyeti, çapı ve yüzölçümü tartışma konusu edilemez, bu işlemde uygulama kabiliyeti bulunmayan ve harita tekniğine uymayan haritalar yerine, ülke koordinat sistemine uygun sayısal haritaları düzenlenerek, bu tesbitin kesinleşmesi halinde tapu malikleri adına tapuya tescil edilir.
 
@@ -50,9 +60,13 @@ Kadastro mahkemeleri, askı ilanı üzerine (tespit kesinleşmiş olsun olmasın
 
 ## Yargıtay HGK 2005/488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76869100)
+
 Nitekim, Kadastro Mahkemesinin görev alanını düzenleyen 3402 sayılı Kadastro Kanunu’nun 25.maddesinde “kadastro tutanağının düzenlenmesi gününden ve tutanak sonradan tamamlanmış ve düzeltilmiş ise, o günden sonra doğan haklara dair isteklerin” Kadastro Mahkemesinin görevi dışında kaldığı belirtilmiştir.
 
 ## Yargıtay HGK 2005/303 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76733900)
 
 F-GEREKÇE: Bilindiği üzere kadastrosuna başlanılan her kadastro bölgesinde (ilçede) bir kadastro mahkemesi kurulur. (3402 sayılı Kanun m.2.) Kadastro mahkemeleri genel mahkemelere ait olup da, Kadastro Kanununun uygulanması ile ilgili dava ve işlere bakar (3402 sayılı Kanun m.6.). Kadastro Mahkemesinin bakabileceği işler Kadastro Kanununun 25. maddesinde sıralanmış, zaman bakımından görevi ise aynı Kanunun 26.maddesinde açıklanmıştır. Buna göre; Kadastro mahkemesinin görevi bir taşınmaz mal hakkında kadastro tutanağının düzenlendiği günde başlar.
 
@@ -70,28 +84,42 @@ Bilindiği üzere; 3402 sayılı Kadastro Kanunu'nun 25... . maddeleri gereğinc
 
 ## Yargıtay 5. HD 2022/6719 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/754560200)
+
 3402 sayılı Kadastro Kanunu’nun 26. maddesine göre kadastro mahkemesinin görevi taşınmazla ilgili tutanağın tanzimi ile başlar. Hakkında tutanak tanzim edilmeyen taşınmazlarla ilgili uyuşmazlıkların Kadastro Mahkemesinde çözümlenmesi mümkün değildir. Hakkında tutanak tanzim edilmeyen taşınmazlarla ilgili uyuşmazlıkların genel hukuk mahkemelerinde çözümlenmesi gerekir.
 
 ## Yargıtay 20. HD 2020/1874 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599136100)
 
 Temyize konu davanın devamı sırasında yapılan bir 2/B uygulaması söz konusu olup, dava 2/B madde uygulmasına itiraz davasına dönüşmüştür. 6831 sayılı Orman Kanununun değişik 11. madde hükmü gereğince uyuşmazlığın çözümünde kadastro mahkemesi görevlidir. Bilindiği üzere görev, kamu düzenine ilişkin olduğu gibi 6100 sayılı HMK'nın 114/1-c ve 115. maddeleri gereğince de dava şartlarından olup mahkemece, davanın her aşamasında istek olmaksızın kendiliğinden gözetilmelidir.
 
 ## Yargıtay 20. HD 2019/927 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481648500)
+
 Kadastro mahkemesinin görevi; kadastro tutanağının tanzimi tarihinden tutanağın kesinleşmesine kadar geçecek zaman içindeki itiraz ve davalar için söz konusudur. Başka bir anlatımla; 3402 sayılı Kadastro Kanununun 26. maddesinin .... fıkrasına göre, kadastro mahkemesinin yetkisi, kadastro tutanağının düzenlendiği günde başlar. Hakkında tutanak düzenlenmeyen veya düzenlenmiş olup, kesinleşen taşınmazlarla ilgili iddiaların (davaların) genel mahkemede görülmesi gerekir. Tutanak kesinleştikten sonra kadastro mahkemesinin görevi sona erer. Görev, kamu düzenine ilişkin olup, istek olmasa bile yargılamanın her aşamasında mahkemece re'sen gözetilmesi zorunludur.
 
 ## Yargıtay 20. HD 2017/627 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/302640000)
 
 Kadastro mahkemesinin görev ve yetkileri Kadastro Kanununun 25 ve 26. maddesinde düzenlenmiş olup, 26. madde gereğince kadastro mahkemesi, 10. maddeye göre kadastro komisyonu tarafından gönderilen tutanaklara ait davaları, 11. maddede belirtilen askı ilanı içinde açılan davaları, mahalli hukuk mahkemelerinden 27. madde uyarınca kadastro mahkemesine devredilen dava ve dosyaları, kadastro mahkemelerine dava açıldıktan sonra, tesbitten önceki haklara dayanarak, asli müdahil olarak katılanların iddialarına dair uyuşmazlıkları inceler ve karara bağlar. Yine Orman Kanununun 11/1 maddesi gereğince, altı aylık askı ilan süresi içinde açılacak davalara bakmaya kadastro mahkemesi görevlidir.
 
 ## Yargıtay 17. HD 2014/19385 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/374136700)
+
 Dosya kapsamından, dava konusu edilen ... İli, ... İlçesi, ... Köyü, 247 ada 1 parsel, 248 ada 1 parsel, 249 ada 1 parsel, 250 ada 1 parsel, 251 ada 1 ve 2 parsel, 252 ada 1,2,3,4,5,6 ve 7 parsel ile 253 ada 2 parsel sayılı taşınmazlara ilişkin askı ilanının 10.08.2012-11.09.2012 tarihleri arasında yapılmış olduğu ve davanın askı ilanı süresi içinde 04.09.2012 tarihinde açıldığı anlaşılmıştır. Bu durumda 3402 sayılı Kadastro Kanunu 26/B maddesi uyarınca; çekişmeli taşınmazların kadastro tespit tutanakları henüz kesinleşmemiş olduğundan ve nizalı taşınmazların kadastro tespit tutanaklarının sehven kesinleştirilerek tapu kaydının oluşturulması gerçek durumu ortadan kaldırmayacağından, uyuşmazlığın Kadastro Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 7. HD 2013/23280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118003200)
+
 Davacı ... ve arkadaşlarının temyiz itirazlarının incelenmesinde; 3402 Sayılı Kadastro Kanunu'nun 26. maddesi hükmünde Kadastro Mahkemelerinin görevinin taşınmaz hakkında kadastro tutanağının düzenlendiği günde başlayacağı açıklanmıştır. Kadastro Mahkemeleri kural olarak tespit tutanağı düzenlenip askı ilanına çıkartıldıktan sonra, askı ilan süresi içinde ve tespitten önceki hukuksal nedenlere dayalı olarak açılan davalara bakmakla görevlidir. Tutanağı düzenlenmeyen taşınmazlara ilişkin davalarla, tutanaklar kesinleştikten sonra açılan davalara ve tespitten sonraki hukuksal nedenlere dayalı olarak açılan davalara bakmak Kadastro Mahkemelerinin görevi dışında kalıp, genel mahkemelerin görevine girmektedir. Görev kamu düzenine ilişkin olup taraflarca öne sürülmese bile mahkemelerce kendiliğinden dikkate alınması gerekir.
 
 ## Yargıtay 7. HD 2013/9330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1099915300)
 
 3402 sayılı Kadastro Kanunu'nun 26. maddesi hükmünde Kadastro Mahkemelerinin görevinin taşınmaz hakkında kadastro tutanağının düzenlendiği günde başlayacağı açıklanmıştır. Kadastro Mahkemeleri kural olarak tespit tutanağı düzenlenip askı ilanına çıkartıldıktan sonra, askı ilan süresi içinde ve tespitten önceki hukuksal nedenlere dayalı olarak açılan davalara bakmakla görevlidir. Tutanağı düzenlenmeyen taşınmazlara ilişkin davalarla, tutanaklar kesinleştikten sonra açılan davalara ve tespitten sonraki hukuksal nedenlere dayalı olarak açılan davalara bakmak Kadastro Mahkemelerinin görevi dışında kalıp, genel mahkemelerin görevine girmektedir. Görev kamu düzenine ilişkin olup taraflarca öne sürülmese bile mahkemelerce kendiliğinden dikkate alınması gerekir.

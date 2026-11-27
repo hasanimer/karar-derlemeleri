@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/274 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897131500)
+
 … her ne kadar terekeye temsilci atanmışsa da mirasçıların tamamının davada yer aldığı, terekeye temsilcisi atanmasının gerekli olmadığı, tereke temsilcisinin lüzumsuz atanması halinde ise davacıların davayı takip yetkisinin devam ettiği, kanun yolu (temyiz) sınırının belirlenmesinde, **dava terekeye iade istekli olduğundan dava konusu taşınmazın tamamının değerinin esas alınması gerektiği**…
 
 ## Yargıtay 1. HD 2023/71 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897441000)
 
 Mahkemece doğru sicil oluşturma ilkesi uyarınca dava konusu 382 ada 8 parsel sayılı taşınmazdaki bağımsız bölümler yönünden, **davacının miras payı oranında iptal ve tescile, kalan payların ise davalılar üzerinde bırakılmasına karar verilmesi** ve bağımsız bölüm numaralarının belirtilmesi gerekirken…
 

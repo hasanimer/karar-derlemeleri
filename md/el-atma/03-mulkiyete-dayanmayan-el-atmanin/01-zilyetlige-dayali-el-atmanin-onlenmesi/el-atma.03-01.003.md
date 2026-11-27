@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 17. HD 2014/19601 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379943100)
+
 Dava, davacının komşusu olan davalının komşuluk hukukuna aykırı müdahalesinin önlenmesi istemine ilişkindir.
 
 …
@@ -29,6 +31,8 @@ Dava, davacının komşusu olan davalının komşuluk hukukuna aykırı müdahal
 6100 sayılı HMK'nın 4/c maddesinde sulh hukuk mahkemelerinin “.....Taşınır ve taşınmaz mallarda, sadece zilyetliğin korunmasına yönelik olan davaları....” görmekle görevli olduğu belirtilmiştir. Diğer yandan 4721 sayılı TMK.nin 737. maddesinde ise ”Herkes, taşınmaz mülkiyetinden doğan yetkileri kullanırken ve özellikle işletme faaliyetini sürdürürken, komşularını olumsuz şekilde etkileyecek taşkınlıktan kaçınmakla yükümlüdür.” hükmüne yer verilmiştir.
 
 ## Yargıtay 17. HD 2014/18081 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370172700)
 
 Dava, müdahalenin önlenmesi istemine ilişkindir.
 
@@ -38,6 +42,8 @@ Somut olayda; dava konusu taşınmazda davacının ve dava dışı Hazine’nin 
 
 ## Yargıtay 17. HD 2014/17728 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/373034100)
+
 Dava, müdahalenin önlenmesi istemine ilişkindir.
 
 …
@@ -46,12 +52,16 @@ TMK'nun 982 ve 983. maddelerinde düzenlenen zilyetliğe dayalı davalar ile zil
 
 ## Yargıtay 16. HD 2014/16318 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106321300)
+
 Dairemizin geri çevirme kararı üzerine dosyaya getirtilmesi istenilen ancak temyiz incelemesinden dönmemesi nedeniyle gönderilemeyen Antalya Sulh Hukuk Mahkemesi’nin 2005/1084-2011/1087 sayılı dosyası UYAP uygulamaları üzerinden incelendiğinde; S. G. mirasçıları olan derdest dosyamızın davacıları tarafından 2/B taşınmazlarına yönelik amcaları Yahya Güç ve mirasçıları aleyhine zilyetliğin korunması ve zilyetliğe yapılan müdahalenin önlenmesi istemiyle dava açıldığı, mahkemece davanın kabulü ile davalıların müdahalelerinin önlenmesine karar verildiği, kararın temyiz incelemesi için Dairemize gönderildiği, Dairemizce de 26.06.2014 tarih, 2014/11117 Esas, 2014/9265 Karar sayılı ve “yargılama sırasında çekişmeli taşınmazlar hakkında kadastro tespit tutanağı düzenlendiğinden davanın Kadastro Mahkemesine aktarılması” gereğine değinen bozma ilamına konu edildiği anlaşılmaktadır.
 3402 sayılı Kadastro Kanunu'nun, 15.01.2009 tarih ve 5841 sayılı Yasa ile değişik Ek-4. maddesi, 6831 sayılı Orman Kanunu'nun 20.6.1973 tarihli ve 1744 sayılı Kanun'la değişik 2. maddesi ile 23.9.1983 tarihli ve 2896 sayılı, 5.6.1986 tarihli ve 3302 sayılı Kanunlarla değişik 2. maddesinin (B) bendine göre orman kadastro komisyonlarınca Hazine adına orman sınırları dışına çıkarılan yerlerin, fiili kullanım durumları dikkate alınmak ve varsa üzerindeki muhdesatın kime veya kimlere ait olduğu, kim veya kimler tarafından ne zamandan beri kullanıldığı hususlarının, kadastro tutanağının beyanlar hanesinde gösterilmek ve Hazine adına tescil edilmek suretiyle kadastrosunun yapılacağı hükmünü içermektedir. "kullanım kadastrosu" olarak isimlendirilen bu çalışmanın amacı, 2/B sahalarını, fiili kullanım durumlarını dikkate alarak parsellere ayırmak ve bu taşınmazları 2/B alanı olarak Hazine adına tescil ederken, taşınmazlar üzerinde fiili kullanımı bulunanları ve muhdesatları tespit ederek tapunun beyanlar hanesinde göstermektir.
 Kullanım kadastrosu sırasında hakkında kullanım kadastrosu tutanağı tanzim edilen taşınmazlar hakkında tutanağın beyanlar hanesinde yer alan ya da alması gereken kullanıcı ve muhdesat şerhlerine ilişkin olarak askı ilan süresi içinde Kadastro Mahkemesinde, askı ilanından sonra ise genel mahkemelerde kullanım kadastrosuna itiraz davası açılmasının mümkün bulunduğu hususu tartışmasızdır. Zilyetliğin korunması davası ile hedeflenen amaçla kullanım kadastrosu ile hedeflenen amaç ortak olup her ikisi de taşınmaz üzerindeki zilyetliğin hukuki sonuç doğuracak şekilde tespitine yöneliktir. Somut olaya gelince; temyize konu 363 ada 1 parsel sayılı taşınmaz Sulh Hukuk Mahkemesinde dava konusu olan P.105 (CV) nolu 2/B parseli kapsamında kalmaktadır. Sulh Hukuk Mahkemesinde görülen dava tarihi ve davanın niteliği nazara alındığında Kadastro Mahkemesine aktarılması gereken bir davanın bulunduğu kuşkusuzdur. Öte yandan 363 ada 1 parsel sayılı taşınmazın tutanağın beyanlar hanesinin doldurularak M.. G..’ün kullanımında olduğu şerhi verilmesi sonuca etkili değildir. Hal böyle olunca;
 Sulh Hukuk Mahkemesindeki davanın Kadastro Mahkemesine aktarılması sağlanmalı, dava konusu taşınmazın tutanak aslı ile dava dosyası birleştirilerek gerekli askı ilanları yaptırılmalı, Sulh Hukuk Mahkemesinden aktarılan davanın taraflarının tümünün davaya katılımı sağlanmalı, aktarılan davanın kapsamındaki taşınmazlar hakkındaki diğer davalar da birleştirilmeli, tarafların iddia ve savunmalarıyla ilgili olarak bildirdikleri ve bildirecekleri tüm deliller toplanmalı, çekişmeli taşınmazın başında yöntemince keşif yapılmalı ve tüm deliller birlikte değerlendirilerek sonucuna göre hüküm kurulmalıdır.
 
 ## Yargıtay 8. HD 2014/12569 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98771500)
 
 Davalı B.. B.. vekili öncelikle davacıların parsel sayılı taşınmazın maliki olmadığından dava ehliyetlerinin bulunmadığını, davanın B..
 
@@ -66,9 +76,13 @@ Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazlarının kab
 
 ## Yargıtay 16. HD 2014/9280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359723700)
+
 Mahkeme kararındaki nitelendirmeye göre dava; zilyetliğin korunması ile zilyetliğe dayalı elatmanm önlenmesi isteklerine ilişkindir. O halde; davanın açıklanan bu niteliğine göre; 2797 sayılı Yargıtay Kanunu'nun 14. maddesi ve Yargıtay Büyük Genel Kurulu'nun 24.01.2014 tarih ve 1 sayılı kararı uyarınca temyiz inceleme görevi Yargıtay 8. Hukuk Dairesine ait bulunmaktadır.
 
 ## Yargıtay 16. HD 2014/9265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105959700)
 
 Çekişmeli taşınmazlar hakkında davalıların müdahalelerinin önlenmesine karar verilmiş ise de; yapılan araştırma, inceleme ve uygulama karar için yeterli bulunmamaktadır. S.. G.. mirasçıları olan derdest dosyamızın davacıları tarafından 2/B bloğu kapsamında kalan taşınmazlara yönelik amcaları Y.. G.. ve mirasçıları aleyhine zilyetliğin korunması ve zilyetliğe yapılan müdahalenin önlenmesi istemiyle dava açılmıştır. Daha sonra çekişmeli taşınmazların bulunduğu yerde 3402 sayılı Yasa'nın Ek-4. maddesi uyarınca daha önce Hazine adına orman sınırları dışarısına çıkartılan taşınmazlar hakkında çalışma yapıldığı temyiz incelemesi için 16. Hukuk Dairesine gönderilen 2013/13698, 13699, 13701, 13702 ve 14382 Esas sayılı dosyalardan anlaşılmaktadır. Nitekim mahkemece hakkında değerlendirme yapılmamışsa da Kadastro Müdürlüğünce Ek-4 madde uyarınca ..ada ..parsel sayılı taşınmazlara ait kullanım kadastrosu çalışmaları sonucu oluşturulan tutanak asılları Sulh Hukuk Mahkemesinde davalı olduğu gerekçesiyle tutanakların beyan haneleri davalı olduğundan boş bırakılarak Kadastro Mahkemesine gönderilmiştir.
 Davacılar tarafından aynı gerekçelerle açılan 2013/13698, 13699, 13701, 13702 ve 14382 Esas sayılı dosyalarda da 217/6, ..ada .. .. ada ...ada ..ada ..parsel sayılı taşınmazlara ait tutanakların beyan haneleri davalı bırakılarak Kadastro Mahkemesine gönderilmiştir. 3402 sayılı Kadastro Kanunu'nun, 15.01.2009 tarih ve 5841 yılı Kanunla değişik 2. maddesi ile 23.9.1983 tarihli ve 2896 sayılı, 05.06.1986 tarihli ve 3302 sayılı Kanunlarla değişik 2. maddesinin (B) bendine göre orman kadastro komisyonlarınca Hazine adına orman sınırları dışına çıkarılan yerlerin, fiili kullanım durumları dikkate alınmak ve varsa üzerindeki muhdesatın kime veya kimlere ait olduğu, kim veya kimler tarafından ne zamandan beri kullanıldığı hususlarının, kadastro tutanağının beyanlar hanesinde gösterilmek ve Hazine adına tescil edilmek suretiyle kadastrosunun yapılacağı hükmünü içermektedir.
@@ -76,6 +90,8 @@ Davacılar tarafından aynı gerekçelerle açılan 2013/13698, 13699, 13701, 13
 Hal böyle olunca, Sulh Hukuk Mahkemesince görevsizlik kararı verilerek davanın Kadastro Mahkemesine aktarılması gerekirken işin esasına girilerek yazılı şekilde karar verilmesi isabetsiz olup, davalılar vekilinin temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, peşin yatırılan temyiz karar harcının talep halinde temyiz edenlere iadesine, 26.06.2014 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2014/7650 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84294000)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi isteğine ilişkindir.
 
@@ -93,6 +109,8 @@ Davacıların bu yönlere değinen temyiz itirazları yerindedir. Kabulüyle hü
 
 ## Yargıtay 8. HD 2014/6941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/304271500)
+
 Davacı taşınmazı 1993 yılında eski işgalcisinden satın aldığını, üzerine tek katlı ev yaptırıp geriye kalanını ağaçlandırdığını; kendisinin Almanya'da yaşayıp, yazları geldiğinde burada kaldığını, belediye ve elektrik kurumundan kendi adına abonelik oluşturup elektrik ve su bağlattığını, belediye hizmetlerinden yararlandığını, son üç yıl hasta olması nedeniyle Türkiye’ye gelemediğini, en son geldiğinde ise, taşınmazının davalı tarafından haksız ve kötüniyetli olarak işgal edilmiş olduğunu gördüğünü, hatta kendisinin yaptığı hukuki bir işlem olmamasına rağmen davalının hileli yollarla kendisinin üzerinde olan elektrik ve su aboneliğinin rızası varmış gibi devrettirdiğini belirterek; davalının taşınmaza vaki elatmasının önlenmesine karar verilmesini istemiştir.
 
 Davalı aşamalarda yinelediği cevap ve savunmasında, davaya konu taşınmazı üzerindeki harap nitelikteki evle birlikte 50.000 TL bedel karşılığı adi senetle satın aldığını, bedelini ödediğini, abonman kayıtlarını üzerine devrettirdiğini, evi yenileyip eklemeler yaptırdığını ve 2007 yılından itibaren kullanmaya başladığını ileri sürmüştür.
@@ -103,6 +121,8 @@ Başkasının mülkiyetindeki taşınmazlarda herhangi bir hakkı bulunmayan iş
 
 ## Yargıtay 17. HD 2014/5545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406078700)
+
 Dava, hazineye ait taşınmaz üzerinde bulunan kuyuya davalının haksız elatmasının önlenmesi ve kal istemine ilişkindir.
 
 …
@@ -110,6 +130,8 @@ Dava, hazineye ait taşınmaz üzerinde bulunan kuyuya davalının haksız elatm
 Bu durumda, davacının bu muhdesatlar üzerinde mülkiyet veya başka ayni yada şahsi hak iddiasında bulunmayıp, zilyetlik hakkına dayandığı anlaşılmakla, davacı tarafın davasının zilyetliğin korunması davası niteliğinde olup, 6100 sayılı HMK.'nun 4/1-c maddesi gereğince, zilyetliğin …
 
 ## Yargıtay 17. HD 2014/4962 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405679700)
 
 Dava, dava konusu taşınmazın beyanlar hanesinin düzeltilmesi istemine ilişkindir.
 
@@ -121,6 +143,8 @@ Somut olayda, uyuşmazlık konusu taşınmazın 3402 sayılı yasanın EK-4.madd
 
 ## Yargıtay 17. HD 2014/2275 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526287900)
+
 Dava, müdahalenin önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -128,6 +152,8 @@ Dava, müdahalenin önlenmesi ve ecrimisil istemine ilişkindir.
 Somut olayda; dava konusu taşınmazın hazine adına tapuya kayıtlı olduğu, davacının taşınmaz üzerinde gecekondu inşa ettiği, davalının gecekonduya haksız olarak müdahale ettiği iddiasıyla müdahalenin önlenmesi ve ecrimisil talep edilmiştir. Taşınmazın Hazine adına kayıtlı olduğu, tarafların kayıttan kaynaklanan bir haklarının bulunmadığı, TMK'nın 981. ve devamı maddelerinde düzenlenen 'zilyetliğin korunması davası' niteliğinde olduğu, HMK'nın 4/c maddesi uyarınca davaya bakma görevinin Sulh Hukuk Mahkemesine ait olduğu anlaşıldığından uyuşmazlığın İstanbul Anadolu 13. Sulh Hukuk Mahkemesinde görülerek sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 8. HD 2014/2167 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/305057000)
 
 Davalı ..., davaya konu dairenin eski eşi olan davacıya ait olduğunu, kendisinin eşinden habersiz olarak daireyi diğer davalı tarafa kiraya verdiğini, daireyi boşaltacağını, ancak ecrimisil miktarının fahiş olduğunu savunmuştur. Diğer davalı ... ise,...'in kiracı olarak daireyi kullanmaya devam ettiğini, üstün kişisel hakkı bulunduğunu, davanın reddi gerektiğini savunmuş; buna ilişkin adi yazılı kira sözleşmesi sunmuştur.
 
@@ -139,6 +165,8 @@ Davacının taşınmaz üzerinde mülkiyet hakkı bulunmadığından, mülkiyet 
 Bu sebeple, 17.04.2009 tarihli ihtarname tebliğ tarihinin araştırılarak, ihtarname davalı ...'ye tebliğ edilmemiş ise, ecrimisil talebinin reddi; davanın açılmasından önce tebliğ edilmiş ise, tebliğ tarihi ile dava tarihi arasıyla sınırlı olarak davalı ... aleyhine ecrimisile hükmedilmesi gerekirken, bu inceleme yapılmadan davalı ...'nün kötü niyetli kabul edilmesi ve talep …
 
 ## Yargıtay 8. HD 2014/2092 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98506900)
 
 Davacı dava dilekçesinde, 6831 sayılı Yasanın 2/B maddesi uyarınca Hazine lehine orman sınırları dışına çıkarılan 800 ada parsel sayılı taşınmaz üzerindeki iki katlı taşınmazın zilliyet maliki olduğunu, parselin tapu kaydında iki katlı kargir bina ve bahçenin kullanımının kendisine ait olduğunun şerh edildiğini, davalıların 800 ada parsel sayılı bitişik taşınmazda komşuları olduklarını, taşınmazlar arasındaki sınırı taş duvar örerek ayırdığını, ancak davalıların sınır ihtilafı bulunduğundan bahisle duvarı yıkarak müdahalede bulunduklarını, davalılar tarafından verilen zararın Ümraniye 1.Asliye Hukuk Mahkemesi'nin 2004/107 Değ.
 
@@ -158,6 +186,8 @@ Davalıların temyiz itirazları yukarıda açıklanan nedenlerle yerinde olduğ
 
 ## Yargıtay 8. HD 2014/905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98513600)
+
 Davacı vekilleri dava dilekçelerinde, davacının H. Mezarlığı'nda 107 parsel içerisinde 50 m2 alanlı bir yeri aile kabristanı olarak ekte fotokopisini sunduğu 11.04.1986 tarihli senetle Elazığ Belediyesi'nden satın aldığını, aile fertlerinin mezarlığının bu yer içerisinde bulunduğunu, ancak, davalı Şirketin bu yerin bir kısmı üzerine baz istasyonu kurduğunu ve elektrik direğini diktiğini, iş makinesini çalıştırıp mezarları tahrip ettiğini açıklayarak 107 sayılı parsel içerisinde bulunan 50 m2'lik kabristan yerine davalı Şirket tarafından baz istasyonu direği ve elektrik direği dikmek suretiyle yapılan müdahalenin önlenmesine, söz konusu direklerin yıktırılmasına, kabristanda yapılan tahribatın giderilerek eski haline getirilmesine karar verilmesini istemiştir.
 
 Davalı Şirket vekili, dava konusu yapılan 107 sayılı parsel içerisinde herhangi bir baz istasyonu bulunmadığını, şirkete ait baz istasyonunun 407 ve 408 sayılı parseller içerisinde bulunduğunu, bu parsellerin Milli Emlak Müdürlüğü'ne ait bulunduğunu açıklayarak davanın reddine karar verilmesini savunmuştur.
@@ -171,6 +201,8 @@ Saptanan bu durum karşısında, davacı 11.04.1986 tarihli senede dayandığın
 Davalı vekilinin temyiz itirazları bu nedenlerle yerinde olduğundan kabulüyle hükmün 6100 sayılı HMK'nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2013/18100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433901900)
 
 Davacı vekili, vekil edenine ait taşınmazın güney sınırının eski ... yolu olarak bilinen 27 nolu yerin 366 m2'lik bölümünü haricen satın ve devraldığını, bu yeri tel örgü ile çevirdiğini, davalının ise tel örgüye müdahale ederek kaldırdığını, bu alanı kendi arsasına dahil ettiğini açıklayarak vekil edenine ait yerinin zeminde tespit edilerek davalının o kısma müdahalesinin önlenilmesine karar verilmesini istemiştir.
 
@@ -186,6 +218,8 @@ Açıklanan nedenlerle davacı vekilinin temyiz itirazlarının reddi ile sonucu
 
 ## Yargıtay 17. HD 2013/16687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787346800)
+
 Dava, kadastro tespiti orman alanı dışına çıkarılarak, hazine adına tescil edilen taşınmazda davalıların değil, davacının zilyet olduğunun tespiti istemine ilişkindir.
 
 …
@@ -195,6 +229,8 @@ Somut olayda, uyuşmazlık konusu taşınmazın 6831 Sayıl|ı Kanunun 2/B madde
 Bu durumda, uyuşmazlığın TMK.nun 981 ve devamlı maddelerinde düzenlenen zilyetliğin korunması hükümlerinle göre çözüme kavuşturulması gerektiğinden, HMK.'nun 4/1 c (HUMK.'nun 8/II-3 maddesi uyarınca, Sulh Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 14. HD 2013/14155 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657177900)
 
 Dava, irtifak hakkının terkini isteğine ilişkindir.
 
@@ -212,6 +248,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 17. HD 2013/12571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784704500)
+
 Dava, elatmanın önlenmesi istemine ilişkindir.
 
 …
@@ -222,9 +260,13 @@ Somut olayda davacı, TOKİ tarafından yapılan gecekondu dönüşüm projesi k
 
 ## Yargıtay 17. HD 2013/11115 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794729900)
+
 Sulh Hukuk Mahkemesi ise, davanın TMK'nin 981 ve devamı maddeleri uyarınca taşınmaz üzerindeki zilyetlikten başka bir hakkı bulunmayan zilyedin açmış olduğu sırf zilyetliğin korunmasına yönelik bir dava olmadığı, TMK'nin 683. maddesinde düzenlenen hakka dayanan bir dava niteliğinde olduğu, 6831 sayılı Yasa'nın 2/B maddesi kapsamında bulunan taşınmazların kullanıcılarına satılması için yasal düzenleme yapıldığını, davacının da bu Yasal düzenleme gereğince satın almak istediği taşınmazda yapılan kadastro tespitinin doğru olmadığını ileri sürdüğü gerekçesiyle görevsizlik yönünde hüküm vermiştir.
 
 ## Yargıtay 8. HD 2013/8910 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435187800)
 
 Davacı ... dava dilekçesinde; ... Mahallesi, 1504 sokak, 31 numarada ... adresinde bulunan ve 20 yıldan beri zilyet ve tasarrufunda bulunan taşınmaz üzerinde kendisi ile davalının konutlarının bulunduğunu, her iki konut arasında bulunan duvarın davalı tarafından yıktırıldığını, kendisine ait konutun çatısının diğerini konutuyla birleştirerek taşınmazına müdahale ettiğini, ayrıca davalı kendi konutuna ait elektrik tellerini de oturduğu evin üzerinden geçirdiğini ve bu şekilde taşınmazına müdahalede bulunduğunu açıklayarak yapılan müdahalenin önlenmesine, binasına bitişik yapılan kısmın yıktırılmasına karar verilmesini istemiştir.
 
@@ -243,6 +285,8 @@ TMK’nun 981 ve devamı maddelerinde yer alan zilyetliğin korunması davası m
 Davacının temyiz itirazları bu nedenlerle yerinde olduğundan kabulüyle hükmün 6100 sayılı HMK. nun geçici 3. maddesinin yollamasıyla 1086 sayılı HUMK. nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 17. HD 2013/8567 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602500600)
 
 Dava, Tapu İptali ve Tescil ile Zilyetliğin Korunması istemine ilişkin olup, yargılama sırasında Asliye Hukuk Mahkemesince Tapu İptali ve Tescil istemine ilişkin dava bu davadan tefrik edilerek, iş bu davaya Zilyetliğin Korunması istemine ilişkin olarak devam edilmiştir.
 

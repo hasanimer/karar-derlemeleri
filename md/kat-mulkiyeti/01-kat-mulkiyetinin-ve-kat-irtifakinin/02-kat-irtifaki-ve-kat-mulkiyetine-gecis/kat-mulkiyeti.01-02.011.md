@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2013/4099 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797657900)
+
 Dairenin bozma ilamında, dava konusu taşınmazın üzerinde bodrum, zemin, üç normal kat ve çekme kattan ibaret betonarme yapı mevcut olup, müstakil kullanılmaya elverişli on bölüm bulunduğu, paydaş ve bağımsız bölümlerin sayısı itibariyle her bir paydaşa en az bir bağımsız bölüm düştüğü, taşınmaz üzerindeki yapının Kat Mülkiyeti Yasasının 50/2. maddesi hükmüne uygun nitelikte olduğu belirtilerek, mahkemece Kat Mülkiyeti Yasasının 12. maddesinde sayılan işlemlerin ve belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp varsa fiili taksime göre, taksim yoksa çekilecek kura ile önce her bir paydaşa birer bağımsız bölüm özgülendikten sonra gerekiyorsa değer farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi, yönetim planı gibi belgeleri paydaşların (tanınan süreye rağmen) imzalamaktan
 kaçınması halinde bunların imzalanmış sayılması suretiyle tahkikatın ikmal edilmesinden sonra kat mülkiyetine geçiş yoluyla ortaklığın giderilmesine; belirtilen koşulların oluşmaması halinde ancak, satışa karar verilmesi gereğine değinilmiştir. Mahkemece bozma ilamına uyulduğuna göre, bozma ilamında değinilen tüm hususlar dikkate alınarak, aynen taksim talep eden tarafa Kat Mülkiyeti Yasasının 12. maddesi gereğince tamamlanması gereken her bir belge ve yapılması gereken
 
@@ -29,23 +31,33 @@ her bir işlemi açıkça gösterir şekilde, bir aydan az olmamak üzere makul 
 
 ## Yargıtay 23. HD 2013/3371 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489348500)
+
 Taraf teşkili tamamlandıktan ve onayı sorulmayan paydaş arsa maliklerinin sözleşmeye onayı olduğunun belirlenmesi halinde ise; taraflar arasındaki ........2000 tarihli sözleşmenin .... maddesinde, kat irtifakına geçilmesinin yükleniciye ait olduğunun kabul edildiği gözetilmelidir. Ancak, 634 sayılı Kat Mülkiyeti Kanunu'nun .... maddesinde kat irtifakının kurulması ve tapu siciline tescil edilmesi için arsanın bütün paydaşlarının buna ilişkin istemle birlikte Tapu Müdürlüğüne müracaatları gerektiği düzenlenmiştir. Bu madde hükmüne göre, diğer eksiklikler tamamlansa bile arsa sahiplerinin muvafakati olmadan, yüklenicinin kat irtifakı tesis ettirmesi mümkün değildir.
 Mahkemece taraf teşkili ve diğer paydaşların onayı ile ilgili usuli eksiklik tamamlandıktan sonra, yüklenici tarafından iskân ruhsatının alınmış olduğu ve inşaatı kat irtifakı kurulmaya elverişli hale getirildiği gözüönünde bulundurularak, uyuzmazlığın esası ile ilgili inceleme ve değerlendirme yapılması gerekirken; yükleniciye, sadece kendisinin tamamlayabileceği hususlarla ilgili süre verilebileceği hususu gözardı edilerek, yasal düzenlemeye ve arsa sahiplerinin tamamının muvafakatlerinin olmadığının anlaşılmasına rağmen, yükleniciye kat irtifakı kurulması işlemlerini yerine getirmesi için kesin süre verilerek, davanın reddi doğru olmamıştır.
 
 ## Yargıtay 18. HD 2013/3181 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794751300)
 
 Tadilat projesinin geçerli olabilmesi için salt belediyece onaylanması yeterli olmayıp anataşınmazdaki tüm bağımsız bölüm maliklerinin, bu bağlamda kat irtifak hakkı sahiplerinin tümünün katılım ve rızalarının bulunması gerekir. Kat irtifak hakkı sahiplerinden birinin ya da bir başkasının, diğer kat irtifak hakkı sahiplerinin muvafakati dışında kendi başına yaptırdığı ve onaylattırdığı tadilat projesinin geçerliliği ve öteki kat irtifakı sahiplerini bağlayıcılığı düşünülemez. Başka bir anlatımla tüm kat irtifakı sahiplerinin muvafakati olmadıkça, tadilat projesinin belediyece onaylanmış bulunması hukuki bir sonuç doğurmaz. Somut olayda anataşınmaz üzerinde bazı değişiklerin yapılmasına izin veren 19.11.1999 tarih 21795 tashihat numaralı projesinin o tarihteki tüm kat irtifak hakkı sahiplerince değil yalnızca davalı tarafça yaptırılıp belediyeye onaylattırılmış olması karşısında bu projenin diğer malikleri bağlayıcı bir yanı olmayacaktır.
 Mahkemece yapılacak iş, yukarıda açıklanan ilkeler doğrultusunda anataşınmazın kat irtifakı kurulmasına esas olan projenin getirtilerek anataşınmazda bu projeye aykırı olarak varsa yapılan değişikliklerin tek tek tespit edilerek infaz ve uygulama açısından da çelişki oluşturmayacak şekilde bir krokiye bağlanması amacıyla bilirkişi kurulundan ek rapor alınarak oluşacak sonuca göre bir karar verilmesi gerekirken, yazılı gerekçeyle davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2013/2442 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795157000)
+
 Kat Mülkiyeti Yasası'na göre; üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, bu yapının mimari projesine uygun biçimde tamamlanmış ya da projesi olmamakla birlikte fiili durumuna uygun olarak çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin olması, bağımsız bölümlerinin başlı başına kullanmaya elverişli (M.1) ve yapının tamamının kargir olması (M.50/2), her paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı) tamamlattırılması gerekmektedir. Bu koşulların gerçekleşmesi durumunda anılan Yasanın 10. maddesinin son fıkrası hükmünce taşınmazda kat mülkiyetine geçilebilecek ve açılan davada ortaklığın bu yolda giderilmesine karar verilebilecektir.
 
 ## Yargıtay 14. HD 2013/2236 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644126100)
+
 O halde mahkemece yerinde keşif yapılarak yukarıda açıklanan Yargıtay İçtihadı Birleştirme Kararı doğrultusunda 6 parsel sayılı taşınmazdaki binada kat irtifakı kurulacakmış gibi her bir bağımsız bölüme düşen arsa paylarının bilirkişiye hesaplatılması, bundan sonra davacıya sözleşme ile satışı vaat edilen bağımsız bölüm için saptanacak arsa payı yönünden de ...’ye satılan pay hariç davacı adına tescile karar verilmesi gerekir.
 
 ## Yargıtay 18. HD 2013/1611 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795537400)
 
 Dairenin bozma ilamında, dava konusu taşınmazın üzerinde beş katlı betonarme yapı mevcut olup, müstakil kullanılmaya elverişli dört bölüm bulunduğu, paydaş ve bağımsız bölümlerin sayısı itibariyle her bir paydaşa en az bir bağımsız bölüm düştüğü, taşınmaz üzerindeki yapının Kat Mülkiyeti Yasasının 50/2. maddesi hükmüne uygun nitelikte olduğu belirtilerek, mahkemece Kat Mülkiyeti Yasasının 12. maddesinde sayılan işlemlerin ve belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp varsa fiili taksime göre, taksim yoksa çekilecek kura ile önce her bir paydaşa birer bağımsız bölüm özgülendikten sonra gerekiyorsa değer farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi, yönetim planı gibi belgeleri paydaşların (tanınan süreye rağmen) imzalamaktan kaçınması halinde bunların imzalanmış
 sayılması suretiyle tahkikatın ikmal edilmesinden sonra kat mülkiyetine geçiş yoluyla ortaklığın giderilmesine; belirtilen koşulların oluşmaması halinde ancak, satışa karar verilmesi gereğine değinilmiştir. Mahkemece bozma ilamına uyulduğuna göre, bozma ilamında değinilen tüm hususlar dikkate alınarak, aynen taksim talep eden tarafa Kat Mülkiyeti Yasasının 12. maddesi gereğince tamamlanması gereken her bir belge ve yapılması gereken her bir işlemi açıkça gösterir şekilde, bir aydan az olmamak üzere makul süreler ve yetki vermek suretiyle kat mülkiyetine geçiş yoluyla ortaklığın giderilmesi koşullarının oluşturulmasına imkan sağlanması, mümkün olmadığı takdirde satışa karar verilmesi gerekirken bu hususlar yerine getirilmeden, özellikle davalı tarafa gerekli açıklamaları içeren yeterli süre verilmeden,
@@ -54,33 +66,47 @@ yetersiz araştırma ve eksik inceleme ile ortaklığın satış yoluyla gideril
 
 ## Yargıtay 18. HD 2013/1406 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794587900)
+
 Bu bakımdan somut olayda da mahkemece öncelikle davaya konu taşınmaz üzerindeki yapının kaçak olan çatı katlarının kaldırılmasının yapının statiğine (sağlamlığına) olumsuz etki edip etmeyeceği hususunda bilirkişiden ek rapor alınması, onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje mevcut değilse, ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle veya kaçak katlar yıkıldığında imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara yada projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması halinde, öncelikle aykırılıkların giderilmesi daha sonra yapının fiili durumunu yansıtan projenin hazırlattırılıp, ilgili imar müdürlüğünün onayının ve buna bağlı olarak yapı kullanma izin belgesinin alınması, ayrıca Kat Mülkiyeti Yasasının 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki
 yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp varsa fiili taksime göre, taksim yoksa çekilecek kura ile önce her bir paydaşa birer bağımsız bölüm özgülendikten sonra gerekiyorsa değer farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi, yönetim planı gibi belgeleri paydaşların (tanınan süreye rağmen) imzalamaktan kaçınması halinde bunların imzalanmış sayılması suretiyle tahkikatın ikmal edilmesinden sonra kat mülkiyetine geçiş yoluyla ortaklığın giderilmesine; belirtilen koşulların oluşmaması halinde ancak, satışa karar verilmesi gerekir.
 
 ## Yargıtay 18. HD 2013/221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254389000)
 
 Dosyada toplanan bilgi ve belgelerden dava konusu anataşınmazda kat irtifakının kurulmuş bulunduğu anlaşılmaktadır. Kat Mülkiyeti Yasasının .... maddesi .... fıkrası hükmüne göre anataşınmazın yönetiminde, ortak giderlerin yönetici ya da kat irtifak sahiplerinden birinin borçlu kat irtifak hakkı sahibinden istemesi durumunda uyuşmazlığın çözümünde kat mülkiyeti hükümlerinin uygulanabilmesi için kat irtifaklı arsa üzerindeki yapının fiilen tamamlanmış ve bağımsız bölümlerinin .../...’ü fiilen kullanılmaya başlanmış olması gereklidir.
 Buna göre mahkemece öncelikle yerinde keşif yapılarak davalının kat irtifak hakkı sahibi bulunduğu anataşınmazdaki yapının tamamlanmış ve bağımsız bölümlerin en az üçte ikisinin fiilen kullanılmakta olup olmadığının saptanması, yapının tamamlanmış olduğu ve bağımsız bölümlerin üçte ikisinin fiilen kullanıldığının belirlenmesi durumunda uyuşmazlığın Kat Mülkiyeti Yasası hükümleri çerçevesinde çözümleneceği, aksi takdirde davaya genel hükümler çerçevesinde bakılmak üzere 6100 Sayılı Yasanın .... maddesi gereğince asliye hukuk mahkemesinde bakılmak üzere görevsizlik kararı verileceği hususları gözardı edilerek yetersiz araştırma ve eksik inceleme ile Kat Mülkiyeti Yasası hükümleri uyarınca davaya bakılıp hüküm kurulmuş olması doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2012/16944 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054958500)
+
 Olayımıza gelince; dava konusu edilen 7845 ada 32 parsel nolu arsa vasıflı taşınmaz üzerinde kat irtifakı kurulmuş olup , Bodrum kat 1,3,4,5,7 nolu bağımsız bölümler ve bod-zem kat 6 nolu bağımsız bölüm ile 3. kat 24 nolu bağımsız bölüm taraflar arasında paylı olarak tapuda kayıtlıdır. Ortaklığın giderilmesi davalarının amacı taraflar arasındaki birlikte mülkiyete son vermektir. Dava konusu taşınmazların aynen taksimi kat mülkiyeti yasası gereğince mümkün olmadığına göre ortaklığın satış yolu ile giderilmesine karar vermek gerekir ; dava konusu taşınmazların onaylı mimari projesine aykırı olması ortaklığın satış yolu ile giderilmesine engel değildir.Bu durumda, mahkemece dava konusu bağımsız bölümler üzerindeki ortaklığın satış yolu ile giderilmesine karar vermek gerekirken yazılı gerekçe ile davanın reddi doğru değildir.
 
 ## Yargıtay 6. HD 2012/14356 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056247400)
+
 Olayımıza gelince; davada dayanılan ve hükme esas alınan 02/01/2004 başlangıç tarihli ve bir yıl süreli kira sözleşmesi, kiracı davalı şirket ile dava dışı kiralayan...arasında hurda deposu olarak kullanılmak üzere imzalanmıştır. Kiralananın 248 ada 35 parsel sayılı taşınmaz olduğu dosya içeriği ile sabittir. Dosyada mevcut tapu kayıtlarına göre dava konusu 248 ada 35 parsel sayılı taşınmaz üzerinde kat irtifakı kurulmuş olup, projeye göre 71 bağımsız bölümden oluşmaktadır. Kiralayan tapu maliki değildir. Davacı taşınmazın kat irtifaklı 17, 33, 52 ve 71 no'lu bağımsız bölümlerini Nigogos Atiniz'den satın almıştır. Davacı dışında çok sayıda kat irtifaklı bağımsız bölüm maliki bulunmaktadır. Bu durumda, dava konusu 248 ada 35 parsel sayılı taşınmazın, tapu kayıtlarına göre kat irtifakı kurulu 71 bağımsız bölümden oluştuğu, malik sıfatıyla dava açan davacının satın aldığı arsa payları gözetildiğinde pay ve paydaş çoğunluğunu sağlamadan bu davayı açtığı anlaşılmıştır.
 
 ## Yargıtay 14. HD 2012/13179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/758369400)
 
 Yukarıda belirtilen ilkeler ve yapılan açıklamaların ışığında somut olaya gelince; dosya içerisindeki bilgi ve belgelerden davalıların murisi arsa sahibi ... ile davalı yüklenici ... arasında 05.01.1993 tarihli arsa payı karşılığı inşaat sözleşmesi ile 196 ada 7 parsel sayılı taşınmaz üzerine bina yapım işi kararlaştırılmıştır. Daha sonra arsa sahibi ile yüklenici arasında 30.06.1994 tarihli “fesihname” başlıklı bir sözleşme düzenlenmiştir.Bu sözleşme ile taraflar hukuken birbirlerini ibra ettiklerini, yükleniciden bağımsız bölümleri temlik alanların ise hem kendilerine satılan bağımsız bölümleri hem de arsa sahibine düşen bağımsız bölümleri tamamlayarak kat mülkiyetine geçiş sağladıklarında tapuların kendilerine devredileceği kararlaştırılmıştır. Bu durumda 30.06.1994 tarihli sözleşme her ne kadar “fesihname” başlığı ile düzenlenmiş ise de daha önce arsa sahibi ile yüklenici arasında düzenlenen 05.01.1993 tarihli arsa payı karşılığı inşaat sözleşmesinin tadili niteliğindedir.
 Mahkemece, 30.06.1994 tarihili “fesihname” başlıklı sözleşme hükümleri doğrultusunda binadaki eksiklerin tamamlanması, kat mülkiyetine geçişin sağlanması ve genel iskanın alınması için davacılara yetki ve süre verilmeli, davacılar tarafından bu edimler yerine getirildiği takdirde davanın kabulüne karar verilmelidir.
 
 ## Yargıtay 18. HD 2012/12691 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800113000)
+
 Bu bakımdan somut olayda da mahkemece öncelikle davaya konu taşınmazın kargir nitelikte olup olmadığı belirlenerek, üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması; proje mevcut değil ise ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara ya da projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması halinde öncelikle aykırılıkların giderilmesi daha sonra da yapının fiili durumunu yansıtan projenin hazırlattırılıp ilgili imar müdürlüğünün onayının ve buna bağlı olarak oturma izin belgesinin alınması; ayrıca Kat Mülkiyeti Yasasının 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi; bu hususlar eksiksiz yerine getirildiği takdirde de dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre
 özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp varsa fiili taksime yoksa çekilecek kura ile önce her paydaşa birer bağımsız bölüm özgülendikten sonra arta kalan bağımsız bölümlerin pay oranları da gözetilmek suretiyle yine kura ile paydaşlara özgülenerek gerekiyorsa bedel farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi ve yönetim planı gibi belgelerin paydaşların (tanınan süreye rağmen) imzalamaktan kaçınması halinde bunların imzalanmış sayılması suretiyle tahkikatın tamamlanmasından sonra kat mülkiyetine geçiş, belirtilen koşulların oluşmaması halinde ise satış yoluyla ortaklığın giderilmesine karar verilmesi gerekir.
 
 ## Yargıtay 18. HD 2012/12167 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802237900)
 
 Bu koşulların gerçekleşmesi durumunda anılan Yasanın 10. maddesinin son fıkrası hükmünce taşınmazda kat mülkiyetine geçilebilecek ve açılan davada ortaklığın bu yolda giderilmesine karar verilebilecektir.Yargıtay’ın yerleşmiş uygulamalarında, tamamlanmış yapının fiili durumu ile onaylı projesi arasında aykırılıkların bulunması ya da yapının imara uygun ancak projesiz inşa edilmiş olması gibi kat mülkiyeti kurulmasına engel oluşturan eksikliklerin mevcut olduğu durumlarda hemen kat mülkiyeti kurulamayacağı sonucuna varılmayarak, bu eksikliklerin giderilip yasal koşullara uygun hale getirilmesi mümkün ise bunun isteyen tarafa tamamlattırılması yoluna gidilmesi gerektiği kabul edilmektedir.Bu bakımdan somut olayda da mahkemece öncelikle davaya konu taşınmaz üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje mevcut değilse, ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara ya da projeye aykırılıklar giderildiği takdirde onay
 verilebileceğinin saptanması durumunda, öncelikle aykırılıkların giderilmesi daha sonra yapının fiili durumunu yansıtan projenin hazırlattırılıp, ilgili imar müdürlüğünün onayının ve buna bağlı olarak oturma izin belgesinin alınması, ayrıca Kat Mülkiyeti Yasasının 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp varsa fiili taksime göre, yoksa çekilecek kura ile önce her bir paydaşa birer bağımsız bölüm özgülendikten sonra arta kalan bağımsız bölümlerin
@@ -89,26 +115,38 @@ pay oranları da gözetilmek suretiyle yine kura ile paydaşlara özgülenerek, 
 
 ## Yargıtay 18. HD 2012/11823 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798926300)
+
 Kat Mülkiyeti Yasası hükümlerine uygun olarak, üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, üzerindeki yapının mimari projesine uygun biçimde tamamlanmış ya da projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin olması, bağımsız bölümlerinin başlı başına kullanmaya elverişli bulunması (M.1), yapının tamamının kargir niteliğini taşıması (M.50/2) ve her paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı)…
 
 ## Yargıtay 18. HD 2012/11659 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800126800)
 
 Bu bakımdan somut olayda da mahkemece öncelikle davaya konu taşınmaz üzerindeki yapının onaylı projesinin ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması; proje mevcut değil ise ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara ya da projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması halinde öncelikle aykırılıkların giderilmesi daha sonra da yapının fiili durumunu yansıtan projenin hazırlattırılıp ilgili imar müdürlüğünün onayının ve buna bağlı olarak oturma izin belgesinin alınması; ayrıca Kat Mülkiyeti Yasasının 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi; bu hususlar eksiksiz yerine getirildiği takdirde de dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi
 aracılığıyla saptanıp varsa fiili taksime yoksa çekilecek kura ile önce her paydaşa birer bağımsız bölüm özgülendikten sonra arta kalan bağımsız bölümlerin pay oranları da gözetilmek suretiyle yine kura ile paydaşlara özgülenerek gerekiyorsa bedel farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi ve yönetim planı gibi belgelerin paydaşların (tanınan süreye rağmen) imzalamaktan kaçınması halinde bunların imzalanmış sayılması suretiyle tahkikatın tamamlanmasından sonra kat mülkiyetine geçiş, belirtilen koşulların oluşmaması halinde ise satış yoluyla ortaklığın giderilmesine karar verilmesi gerekir.
 
 ## Yargıtay 14. HD 2012/8454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/756335800)
+
 Yapılan bu açıklamalara göre 18.03.1999 tarihli sözleşme taliki şarta bağlandığından ve henüz taşınmazın ifraz işlemi yapılıp davalıların murisi veya onun mirasçıları adına müstakil tapu kaydı oluşmadığından ve kat irtifakı kurulmadığından bu aşamada ifasının istenemeyeceğinin düşünülmesi, davalıların kötü niyetleriyle şartın tahakkukuna sebebiyet verip vermediklerinin araştırılması, taşınmazda ifrazın ve kat irtifakının kurulmasının mümkün olup olmadığının değerlendirilmesi ve istemin bütün bunların sonucuna göre karara bağlanması; şart gerçekleşmemişse davanın reddine karar verilmesi gerekirken eksik inceleme ve araştırma ile yazılı şekilde hüküm kurulması doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 ## Yargıtay 18. HD 2012/7275 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797694100)
 
 Dosyada toplanan bilgi ve belgeler ile özellikle yerinde yaptırılan inceleme sonucu düzenlenen bilirkişi raporlarına göre; tarafların bağımsız bölümlerinin yer aldığı anataşınmazda kat irtifakının kurulduğu, kat irtifakına esas alınan onaylı mimari projede anayapının üstünde çatının bulunmadığı, teras yalıtımının olmaması nedeniyle su sızdırdığı ve davacıların bağımsız bölümünde hasara yol açtığı, hasarın giderilmesi amacıyla davacılar tarafından çatı yaptırıldığı, dava konusu yerin ortak yer olduğu anlaşılmaktadır. 634 sayılı Kat Mülkiyeti Yasası'nın 5711 sayılı Yasa ile değişik 19. maddesinin ikinci fıkrası uyarınca kat maliklerinden biri, tüm kat maliklerinin 4/5'inin yazılı rızası olmadıkça anataşınmazın ortak yerlerine inşaat, onarım, tesis ve değişiklikler yaptıramaz. Sözü edilen Yasanın 19. maddesine aykırı şekilde yapılan ve projesinde yer almayan çatının yapım giderlerinden davalılar sorumlu tutulamaz. Saptanan bu durum karşısında, davacının bağımsız bölümünde oluşan hasarın giderilmesi amacıyla dava konusu…
 
 ## Yargıtay 18. HD 2012/7023 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797058800)
+
 Kat Mülkiyeti Yasası hükümlerine uygun olarak, üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, üzerindeki yapının mimari projesine uygun biçimde tamamlanmış ya da projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin olması, bağımsız bölümlerinin başlı başına kullanmaya elverişli bulunması (M.1), yapının tümünün kargir olması (M.50/2) ve her bir paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı) tamamlattırılması gerekmektedir. Bu koşulların gerçekleşmesi durumunda anılan Yasanın 10.maddesinin son fıkrası hükmünce taşınmazda kat mülkiyetine…
 
 ## Yargıtay 18. HD 2012/4826 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/801634000)
 
 Bu bakımdan somut olayda mahkemece öncelikle davaya konu taşınmaz üzerindeki yapının dosyada mevcut projesinin onaylı olup olmadığının, sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje onaylı değilse, ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık
 
@@ -117,10 +155,14 @@ süreye rağmen) imzalamaktan kaçınması halinde bunların imzalanmış sayıl
 
 ## Yargıtay 15. HD 2012/3892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765450200)
+
 Yanlar arasındaki sözleşmenin 9. maddesinde yasal işlemlerin yürütülebilmesi için arsa sahipleri tarafından yüklenici kooperatif'e vekaletname verileceği kararlaştırılmış, ferağın hangi tarihte ve aşamada yapılacağına dair bir düzenlemeye ise yer verilmemiştir. Bu durumda davalı arsa sahiplerinin ferağ borcu, tapuda kat irtifakının kurulması ve inşaatın anahtar teslimi tamamlanıp davalı arsa sahiplerine ait bağımsız bölümlerin teslim edilmesiyle muaccel hale gelir. Dosya kapsamından inşaatın plan projesine uygun olarak tamamlanıp davalı arsa sahiplerine ait bölümlerin fiilen teslim edildiği, ancak tapuda kat irtifakının kurulmadığı, ... kullanma izin belgesinin de alınmadığı anlaşılmaktadır. Dosya kapsamına göre kat irtifakının kurulamaması ve ... kullanma izin belgesinin alınamaması, davalı arsa sahiplerinin vekâlet verilmesine ilişkin sözleşme hükmünü ihlal ederek yeterli yetkileri içerir vekaletname vermemelerinden kaynaklanmaktadır. Davacı kooperatif, vekaletname verilmesi ya da tapu devri yapılması konularında 17.09.2004, 12.10.2006, 06.09.2007 ve 29.05.2008 tarihli ihtarlarla davalı arsa sahiplerini temerrüde düşürmüştür.
 Tapuda kat irtifakının kurulamaması ve Belediye'den ... kullanma izin belgesinin alınamaması davalı arsa sahiplerinin kusur ve temerrütlerinden kaynaklandığından davacı kooperatif sözleşme gereği payına düşen bağımsız bölümlere isabet eden arsa paylarının iptal ve tescilini istemekte haklıdır.
 
 ## Yargıtay 18. HD 2012/3774 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798006600)
 
 3-........ Pınarhisar Sanayi Sitesi Kooperatifi'nin üzerinde bulunduğu 133 ada 187 parselde kat mülkiyeti veya kat irtifakı kurulup kurulmadığının, kurulmuş ise tarihi ve yönetim planının ve davalının bağımsız bölümünü de içerir şekilde tüm bağımsız bölümleri ve maliklerini gösteren tapu kayıtlarının tapu müdürlüğünden getirtilerek; kat irtifakı kurulu olup da tamamı kooperatif adına kayıtlı ise kura çekilmek suretiyle ferdileşmeye geçilip geçilmediğinin, geçilmiş ise ferdileştirme tutanaklarının, kat irtifakı kurulmuş ise yapının
 
@@ -128,25 +170,37 @@ fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisinin fiilen kullanı
 
 ## Yargıtay 18. HD 2012/3097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798397800)
+
 Bu bakımdan somut olayda da mahkemece öncelikle davaya konu taşınmaz üzerindeki yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara ya da projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması halinde, öncelikle aykırılıkların giderilmesi daha sonra yapının fiili durumunu yansıtan projenin hazırlattırılıp, ilgili imar müdürlüğünün onayının ve buna bağlı olarak oturma izin belgesinin alınması, ayrıca Kat Mülkiyeti Yasasının 12. maddesinde sayılan belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davacı tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp kat mülkiyetine geçiş yoluyla ortaklığın giderilmesine; belirtilen koşulların oluşmaması halinde satışa karar verilmesi gerekir.
 
 ## Yargıtay 18. HD 2012/3060 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797901400)
 
 Kat Mülkiyeti Yasası hükümlerine uygun olarak, üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, üzerindeki yapının mimari projesine uygun biçimde tamamlanmış ya da projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin olması, bağımsız bölümlerinin başlı başına kullanmaya elverişli bulunması (M.1), yapının tümünün kargir olması (M.50/2) ve her bir paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12. maddede yazılı belgelerin (belediyeden onaylı proje, yapı kullanma belgesi ve yönetim planı) tamamlattırılması gerekmektedir. Bu koşulların gerçekleşmesi durumunda anılan Yasanın 10. maddesi hükmünce taşınmazda kat mülkiyetine geçilebilecek ve açılan…
 
 ## Yargıtay 18. HD 2012/2868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797728300)
+
 Kat Mülkiyeti Yasası hükümlerine uygun olarak, üzerinde kat mülkiyetine elverişli yapı bulunan ortak taşınmazda kat mülkiyetine geçilebilmesi için, üzerindeki yapının mimari projesine uygun biçimde tamamlanmış ya da projesi olmamakla birlikte fiili durumuna göre çizdirilmiş imara ve fenne uygunluğu ilgili makamca onaylanmış projesinin olması, bağımsız bölümlerinin başlı başına kullanmaya elverişli bulunması (M.1), yapının tümünün kargir olması (M.50/2) ve her bir paydaşa en az bir bağımsız bölüm düşmesi, ayrıca 12.maddede yazılı…
 
 ## Yargıtay 18. HD 2012/2526 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797178900)
 
 Kat Mülkiyeti Yasası'nın 14. maddesine göre kat irtifakının kurulması için o arsanın malikinin veya bütün paydaşlarının buna ait istem ile birlikte 12. maddenin (a) bendine uygun olarak düzenlenen projeyi (maddede sözü edilen diğer belgelerle birlikte) tapu idaresine vermeleri lazımdır. Yapının tamamlanmasından sonra kat irtifakının kat mülkiyetine çevrilmesi, kat irtifakının tesciline ait resmi senede ve 12.maddede yazılı belgelere dayalı olarak, o gayrimenkulün maliki veya bütün paydaşlarının birlikte tapu idaresinden istemde bulunması suretiyle yapılır. Kat irtifakının kurulması sırasında tapuya tescil edilmiş olan mimari projeden farklı bir projeye göre kat mülkiyetine geçilebilmesi mümkün değildir.
 
 ## Yargıtay 14. HD 2012/1568 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/689775000)
+
 Ne var ki; dosya kapsamından, kat irtifakı kurulmak suretiyle 25 numaralı bağımsız bölüm olan çekişme konusu işyerinin tapusu davanın açıldığı 28.12.2005 tarihinden sonra arsa sahibi tarafından dava dışı ...’a devredilmiştir. Başka bir deyişle, davalıların hiç birisi dava konusu işyerinin tapuda maliki bulunmamaktadır. Hukukumuzda kişilerin satın aldığı şeylerin ileride kendilerinden alınabileceği endişesi taşımamaları, toplum düzeninin sağlanması düşüncesiyle satın alan kişinin iyiniyetinin korunması ilkesi kabul edilmiştir. İyiniyetten maksat, hakkın doğumuna engel olacak bir hususun hak iktisap edilirken kusursuz olarak bilinmemesidir. Belirtilen bu ilke, TMK m.1023’te aynen “tapu kütüğündeki sicile iyiniyetle dayanarak mülkiyet…
 
 ## Yargıtay 18. HD 2012/1495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798593800)
 
 Bu bakımdan öncelikle çekme katın başlı başına kullanılmaya elverişli bir bağımsız bölüm olup olmadığı araştırılarak bağımsız bölüm niteliğinde ise dört bağımsız bölüm ve dört de paydaş bulunduğundan mahkemece davaya konu taşınmaz üzerindeki yapının onaylı ve sonradan değişiklik yapılmış ise buna ilişkin tadilat projesinin olup olmadığının taraflara ve ilgili belediyeye sorulup etraflıca araştırılması, proje mevcut değilse, ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara ya da projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması halinde, öncelikle aykırılıkların giderilmesi daha sonra yapının fiili durumunu yansıtan projenin hazırlattırılıp, ilgili imar müdürlüğünün onayının ve buna bağlı olarak oturma izin belgesinin alınması, ayrıca Kat Mülkiyeti Yasası'nın 12. maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün
 (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp varsa fiili taksime göre, taksim yoksa çekilecek kura ile önce her paydaşa birer bağımsız bölüm özgülendikten sonra arta kalan bağımsız bölümlerin pay oranları da gözetilmek suretiyle yine kura ile paydaşlara özgülenerek, gerekiyorsa bedel farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi ve yönetim planı gibi belgeleri paydaşların (tanınan süreye rağmen) imzalamaktan kaçınması halinde bunların imzalanmış sayılması suretiyle tahkikatın ikmal edilmesinden sonra kat
@@ -154,5 +208,7 @@ Bu bakımdan öncelikle çekme katın başlı başına kullanılmaya elverişli 
 mülkiyetine geçiş yoluyla ortaklığın giderilmesine; belirtilen koşulların oluşmaması halinde ise satışa karar verilmesi gerekir.
 
 ## Yargıtay 1. HD 2012/875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78906000)
 
 Hemen belirtilmelidir ki, taşınmaz paylı mülkiyet üzere olup, kat mülkiyeti ve kat irtifakı kurulmayan birçok bölümleri muhtevi bir yapıdan ibarettir. Mahkemece TMK'nun paylı mülkiyet hükümlerini öngören 688 ve devamı maddeleri gereğince taşınmazda davacı tarafın kullanabileceği boş yerlerin olması sebebiyle davacı taraf yönünden intifadan men olgusu gerçekleşmediği gözetilerek dava tarihine göre boş olan yerler bakımından ve davalı şirketin bizatihi kullandığı yerler bakımından ecrimisil isteğinin reddine karar verilmiş olmasında bir isabetsizlik yoktur. Bu yöne değinen davacının temyiz itirazları yerinde değildir. Reddine.

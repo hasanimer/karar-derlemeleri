@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/1738 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860284800)
+
 Yine kamulaştırılan bir taşınmazın niteliğinin belirlenmesinde değerlendirme tarihi (Kamulaştırma Kanunu m.11), değerlendirmede ise idarece belgelerin mahkemeye verildiği (davanın açıldığı) günün (Kamulaştırma Kanunu m.15/son) esas alınması gerekmektedir.
 
 ## Yargıtay HGK 2014/180 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84086000)
 
 Bu nedenle; dava konusu taşınmazın arsa mı veya arazi niteliğinde mi olduğu belirlendikten sonra, Kamulaştırma Kanununun 15. maddesi uyarınca oluşturulacak bilirkişi heyetiyle birlikte mahallinde keşif yapılarak, Enerji Bakanlığınca baraj inşası için yapılan kamulaştırma sonunda, kamulaştırma sahasına mücavir alanda kaldığı iddia edilen taşınmazın, çevrenin sosyal, ekonomik veya yerleşme düzeninin bozulması nedeniyle ekonomik olarak yararlanılmasında herhangi bir kısıtlama olup olmadığı belirlenerek, kısıtlanma var ise; taşınmazın kıymetinde meydana gelecek değer azalış oranı tespit edilip, bu hususta alınacak rapor doğrultusunda hüküm kurulması gerekirken, yazılı gerekçelerle davanın husumetten reddine karar verilmesi,…
 
@@ -32,12 +36,18 @@ Bu durumda; taraflara, dava konusu taşınmaza yakın bölgelerden ve yakın zam
 
 ## Yargıtay 5. HD 2014/28444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96791600)
+
 Hükme esas alınan bilirkişi kurulu raporunda dava konusu taşınmaz ile emsallerin eksik ve üstün yönleri kıyaslanırken emsal taşınmazların dava konusu taşınmaza göre ana ulaşım yollarına, alışveriş merkezlerine, sosyal hizmet binalarına daha yakın olduğu, bu nedenle dava konusu taşınmazın emsallerden daha değersiz olduğu kabul edilerek, dava konusu taşınmazın ve emsallerin bu yerlere olan mesafeleri açıkça belirtilip krokide gösterilmesi sağlanmadan, dava konusu taşınmazın, değerlendirme tarihi itibariyle, emsal taşınmazların ise satış tarihi itibariyle imar ya da kadastro parselleri olup olmadığı ilgili Belediye Başkanlığı ve Tapu Sicil Müdürlüğünden sorulup, dava konusu taşınmaz ile emsal taşınmazların resen belirlenen vergi değerleri ve emsal taşınmazların satış akit tablosu getirtilip, dava konusu taşınmazın değerlendirmeye esas alınacak emsallere göre ayrı ayrı üstün ve eksik yönleri ve oranları açıklanmak suretiyle yapılacak karşılaştırma sonucu değeri belirlenmeden, taşınmaza soyut ifadelerle değer biçildiğinden bilirkişi kurulu raporu hüküm kurmaya elverişli değildir.
 
 ## Yargıtay 5. HD 2014/21724 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96782700)
+
 Hükme esas alınan bilirkişi kurulu raporunda, dava konusu taşınmaz ile somut emsal olarak alınan taşınmazların Arsa Metrekare Rayiç Bedeli Takdir Komisyonu tarafından belirlenen emlak vergisine esas olan m2 değerlerinin karşılaştırılmasında; taşınmaza vergi değerlerine ters düşecek şekilde değer biçildiğinden rapor inandırıcı değildir.
 
 ## Yargıtay 5. HD 2014/21283 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96739300)
 
 Hükme esas alınan bilirkişi kurulu raporunda dava konusu taşınmaz ile somut emsal olarak alınan taşınmazların Arsa Metrekare Rayiç Bedeli Takdir Komisyonu tarafından belirlenen emlak vergisine esas olan m2 değerlerinin karşılaştırılmasında; emsal alınan ...ada ...parselin dava konusu taşınmazla aynı değerde, emsal.... ada ... parselin ise dava konusu taşınmazdan 1,57 kat daha değerli olduğu anlaşılmasına rağmen, bilirkişi kurulunca emsal olarak alınan ...ada... parsel sayıılı taşınmazın dava konusu taşınmazdan 5,1 kat.ada ..parselin ise 5,9 kat daha değerli olduğu kabul edilerek emsallerin vergi değerlerine göre yüksek oranda değerli olduğu kabul edilerek bedel belirlendiğinden rapor inandırıcı değildir.

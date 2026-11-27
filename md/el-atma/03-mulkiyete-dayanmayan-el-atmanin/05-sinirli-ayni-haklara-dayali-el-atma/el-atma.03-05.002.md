@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2014/1459 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105439300)
+
 Mahkemece asıl davanın reddine, birleştirilen davanın kabulüne karar verilmiş olup, hükmü asıl davanın davacısı (birleştirilen davanın davalısı) H.. S.. vekili temyiz etmiştir.
 
 …
@@ -41,6 +43,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı (davalı) H.. S.. vekilinin tem
 
 ## Yargıtay 14. HD 2013/15196 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563982800)
+
 Davacı, 1928 ve 1929 parsel sayılı taşınmazlarda intifa hakkı sahibi olduğunu, intifa hakkını davalı ile yapılan akaryakıt bayiliği aracılığı ile kullandığını, ancak bayilik ilişkisinin sözleşmeye aykırılık nedeniyle sona erdirildiği halde davalının taşınmazı kullanmaya devam ettiğini ileri sürerek intifa hakkına konu taşınmaza elatmanın önlenmesi, 15.000,00 TL ecrimisil ve ariyetlerin teslimini istemiştir.
 
 Davalı, davanın reddini savunmuştur.
@@ -58,6 +62,8 @@ Mahkemece bozma ilamına uyulduktan sonra, elatmanın önlenmesi talebi davalın
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davacının sair temyiz itirazlarının reddine, 2. bentte açıklanan nedenlerle davacının temyiz itirazlarının kabulü ile kararın BOZULMASINA …
 
 ## Yargıtay 14. HD 2012/8412 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/756306400)
 
 Davacı, 3198 parsel sayılı taşınmazda 15 yıl süre ile intifa hakkı sahibi olduğunu, davalı şirket ile yaptığı bayilik sözleşmesine göre intifa hakkına konu taşınmazın davalı tarafından kullanıldığını ancak bayilik sözleşmesinin 30.04.2007 tarihinde feshedilmesine rağmen davalının taşınmazı kullanmaya devam ettiğini ileri sürerek intifa hakkına konu taşınmaza elatmanın önlenmesi, teslim edilen menkullerin değerinin tahsili ve ecrimisil isteğinde bulunmuştur.
 
@@ -79,6 +85,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2012/7034 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543558300)
+
 Davacı, intifa hakkı sahibi oldukları 1928 ve 1929 parsel sayılı taşınmazlardaki bu haklarını davalı bayileri aracılığı ile kullandıklarını, ancak sözleşmeye aykırılık nedeniyle bayilik ilişkisinin sona erdirilmesine rağmen davalının taşınmaza elatmasının devam ettiğini ileri sürerek intifa hakkına konu taşınmaza elatmanın önlenmesi ve 15.000 lira ecrimisil talep etmiştir.
 
 Davalı, davanın reddini savunmuştur.
@@ -92,6 +100,8 @@ Somut olayda da; davacı dava konusu taşınmazlarda intifa hakkı sahibidir. T�
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2012/2183 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/689881800)
 
 Davacı şirket, çekişme konusu taşınmaz üzerinde yararlarına intifa hakkı bulunduğu halde davalının muaraza çıkardığını ileri sürerek oluşan muarazanın giderilmesi, elatmanın önlenmesi ve kal istemiştir.
 
@@ -113,6 +123,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı ... Tic. v
 
 ## Yargıtay 14. HD 2011/13634 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/566013600)
+
 Davacı intifa hakkı sahibi olduğu taşınmazda bu hakkını bayisi Tem ... Petrol Hizmetleri Tic. Paz.
 
 …
@@ -133,6 +145,8 @@ SONUÇ:Yukarıda yazılı nedenlerle temyiz olunan hükmün BOZULMASINA 825.00 T
 
 ## Yargıtay 1. HD 2011/12911 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79327500)
+
 Davacı, kayden malik olduğu 271 ada, 5 parsel sayılı taşınmazda lehine intifa hakkı tesis edilen dava dışı...Ltd. Şti. ile davalı şirket arasında 20 yıl süreli kira akdi yapılmış ise de intifa hakkı sahibi şirketin iflası nedeniyle davalının da üzerindeki haklarının ortadan kalktığını ve davalının haksız şagil durumunda bulunduğunu ileri sürerek elatmanın önlenmesine karar verilmesini istemiş, birleşen davada ise; kira sözleşmesinin tarafı olmayan Belediyeden hak talebinde bulunulamayacağını, bedel fahiş olduğu gibi hapis hakkı talebinin de yerinde olmadığını bildirmiştir.
 
 Davalı, davacı Belediyenin %95 ortağı olduğu dava dışı ...Ltd. Şti. ile birlikte hareket ettiğini, anılan şirket ile aralarında düzenlenen kira akdi uyarınca taşınmazda yaptığı yatırımların muhdesat bedelleri ödenmeden kullanımdan men edilemeyeceğini belirterek davanın reddini savunmuş, birleşen davada ise sözleşmeye dayalı olarak çekişmeli taşınmaz üzerine iyiniyetle “akaryakıt satış istasyonu tesisleri” kurduğunu, tesissler üzerindeki hakları ödeninceye dek lehine hapis hakkı tanınmasına ve yapmış olduğu muhdesatlar karşılığı olarak tazminat ödenmesini istemiştir.
@@ -148,6 +162,8 @@ Davalı- birleşen davacının bu yönlere değinen temyiz itirazları yerindedi
 
 ## Yargıtay 20. HD 2010/14104 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833191500)
+
 Davacılar .. ve ... vekili Avukat ....vasıtasıyla verdikleri dava dilekçesinde davalı sıfatıyla ... . aleyline açtıkları davada, Asi ... Köyü Üçkuyular mevkiinde bulunan 1937 yılı 60 hesap numaralı vergi kaydı kapsamındaki 59754,5 m2 yüzölçümündeki, aynı yerdeki 71 hesap numaralı vergi kaydı kapsamındaki 82737 m2 yüzölçümündeki taşınmazın ortak muris İbrahi Akkurtan intikal ettiği ve payları eşit olduğu halde, davalının kendi paylarına da el attığından söz ederek, miras paylarına el atmasının önlenmesini istemiştir. Davacı Durmuş Akkurt 09.11.2001 günlü dilekçesiyle davalılar.....aleyhine açtığı davada, Yukarı ...
 
 …
@@ -159,6 +175,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davalı gerçek kişilerin temyiz itir
 
 ## Yargıtay 18. HD 2010/9237 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803747000)
+
 Davacı dilekçesinde, davalının projede açık olan balkonu sabit tesis niteliğinde kapattığını ileri sürerek bu müdahalesinin menini ve projesine uygun eski hale getirilmesini istemiş mahkemece, davalının malik olmadığı ve pasif dava ehliyeti bulunmadığı gerekçesi ile davanın reddine karar verilmiştir.
 
 634 Sayılı Kat Mülkiyeti Kanununun 18. maddesinin ikinci fıkrasında 634 sayılı Kanunda kat maliklerinin borçlarına dair olan hükümlerin bağmsız bölümlerdeki kiracılara ve oturma (sükna) hakkı sahiplerine veya bu bölümlerden herhangi bir suretle devamlı olarak faydalananlara da uygulanacağı ve bu borçları yerine getirmeyenlerin kat malikeriyle birlikte müteselsil olarak sorumlu olacaklarını hükme bağladığına göre, davalının malik olmasa da malik eşi olup, davaya konu bağımsız bölümde malikle birlikte oturduğu ve bağımsız bölümden devamlı surette faydalandığı dikkate alındığında, kendisine karşı men'i müdahale ve eski hale getirme davası açılabileceğinden, davalının pasif dava ehliyeti olmadığı gerekçesi ile davanın reddi doğru görülmemiştir.
@@ -168,6 +186,8 @@ Davacı dilekçesinde, davalının projede açık olan balkonu sabit tesis nitel
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/8012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769074300)
 
 Dava, intifa hakkına konu taşınmaza elatmanın önlenmesi isteğine ilişkindir.
 
@@ -180,6 +200,8 @@ Bilindiği gibi intifa hakkına elatmanın önlenmesi ve kal istemi ile açılan
 SONUÇ: Yukarıda yazılı nedenlerle davalının temyiz itirazının kabulü ile yerel mahkeme kararının hüküm fıkrasından 5.bendinin çıkartılarak, yerine "Davalı ...Ş., davada kendisini vekille temsil ettirdiğinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre 2400 TL vekalet ücretinin davacıdan alınarak davalı ...Ş.'ye verilmesine" cümlesinin 5.bent olarak hüküm fıkrasına eklenmesine, kararın bu şekilde DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 1. HD 2010/1539 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17068300)
 
 Davalılar, taşınmazın mühürlenmesinde kusurlarının olmadığını belirtip, davanın reddini savunmuşlardır.
 
@@ -201,6 +223,8 @@ O halde, davalıların sair temyiz itirazları yerinde değil ise de, değinilen
 
 ## Yargıtay 14. HD 2009/11576 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848410800)
+
 Davacı, 35 ada 136 - 137 ve 142 parseller üzerinde bulunan ... Sitesi G Blok 3 Nolu dairede intifa hakkı sahibi olduğunu, davalının taşınmazın tapu kaydındaki intifa hakkını açtığı dava ile yanlış adrese tebligat yaptırmak suretiyle terkin ettirdiğini, yanlış adrese tebligat hususunun saptanması üzerine kararın temyizen bozulduğunu ve davanın derdest bulunduğunu, taşınmaz üzerindeki intifa hakkının halen devam etmesine rağmen davalının taşınmazın kullanımını engellediğini ileri sürerek elatmanın önlenmesi ve ecrimisil isteminde bulunmuştur.
 
 Davalı, davanın reddini savunmuş, karşı davasında da davacının ikametgah belgesinin sahte olduğunun tespiti ile mülkiyet hakkı sahibi olduğu taşınmazı satamamasından kaynaklanan kazanç kaybını tazminat olarak istemiştir.
@@ -213,9 +237,13 @@ Karar düzeltme dilekçesinde diğer karar düzeltme nedenleri yanında Yargıta
 
 ## Yargıtay 14. HD 2009/10977 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847639800)
+
 İntifa hakkına elatmanın önlenmesi davasında davanın kabulüne dair verilen hüküm davalı tarafından süresinde temyiz edilmiş, ancak temyiz giderlerinin eksik yatırılması nedeniyle HUMK.nun 434/son maddesi gereğince yatırılması gereken giderlerin dökümü de yapılarak davetiyenin tebliğinden itibaren 10 gün içerisinde giderlerin yatırılması hususunda davalı vekiline tebligat çıkartılmış ve verilen sürenin kesin olduğu da tebligatta ayrıca açıklanmıştır. Davalı vekili tebligatı 23.09.2008, tarihinde almış, giderleri ise 08.10.2008 tarihinde yatırmıştır.
 
 ## Yargıtay 14. HD 2009/9409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844258000)
 
 Dava, intifa hakkına dayalı yersiz elatmanın kaldırılması ve ecrimisil tahsili istemlerine ilişkindir.
 
@@ -230,6 +258,8 @@ Yapılan bütün bu saptamalara göre mahkemece mevcut olsa bile rıza ile kulla
 SONUÇ: Yukarıda açıklanan nedenlerle davacının karar düzeltme istemini kabulü ile onamaya ilişkin Dairemizin 21.01.2009 tarih 2008/15144 esas 2009/351 karar sayılı ilamının KALDIRILMASINA ve hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/7348 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845480900)
 
 Davacı, Türkiye Elektrik İletişim A.Ş. Genel Müdürlüğüne bağlı 154 KW'lık Otansansit-... Enerji Nakil Hattının geçtiği güzergahta 27-28 no'lu direkleri arasında davalılar tarafından yapılan binanın Elektrik Kuvvetli Akım Tesisleri Yönetmeliğine göre tehlike arz ettiğini belirterek Türk Medeni Kanununun 727.maddesi uyarınca irtifak hakkına elatmanın önlenmesini ve davaya konu binanın can ve mal emniyeti için tehlike oluşturduğunu belirterek ihlale konu kısımlarının yıkılması isteğinde bulunmuştur.
 
@@ -246,6 +276,8 @@ Hemen belirtmek gerekir ki, binanın ruhsata bağlı olarak yapılması can ve m
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2008/12449 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78653900)
 
 Davacı, kayden maliki olduğu dava konusu 4211 parsel sayılı taşınmazına komşu parselde bulunan davalı şirketin çit çekerek müdahale ettiğini ileri sürüp elatmanın önlenmesi,yıkım ve ecrimisil isteklerinde bulunmuştur.
 
@@ -265,6 +297,8 @@ Hal böyle olunca, davalının bu yöne değinen temyiz itirazları yerindedir.K
 
 ## Yargıtay 14. HD 2008/12097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850899700)
+
 Davacı, dava dışı gerçek kişiler adına kayıtlı olup 26.05.1993 tarihli intifa sözleşmesi ile intifa hakkı kurulan 758 ada 31 ve 38 parsellerdeki akaryakıt istasyonunun işletmesinin 20.05.1993 tarihinde yapılan bayilik sözleşmesi gereğince davalıya bırakıldığını, ancak davalının sözleşme hükümlerine aykırı davranması sebebiyle ... 9.Asliye Ticaret Mahkemesinin 2000/1382 E 2003/1714 K sayılı ilamı ile bayilik sözleşmesinin 16.06.1998 tarihinden geçerli olmak üzere feshine karar verildiğini, davalının bu tarihten sonraki kullanımının haksız olduğunu belirterek davalının müdahalesinin önlenerek fesih tarihinden başlamak üzere dava tarihine kadar geçen süre için toplam 105.550 YTL ecrimisilin ticari faizi ile birlikte tahsili isteğinde bulunmuştur.
 
 Davalı, sözleşmeden kaynaklanan borcu bulunmadığını, davacının intifa hakkının kaldırılması istemiyle açılan dava sonucunun beklenilmesi gerektiğini belirterek davanın reddini savunmuştur.
@@ -282,6 +316,8 @@ Belirtilen nedenle mahkemece, üzerinde intifa hakkı kurulan 758 ada 31 ve 38 p
 SONUÇ: Yukarıda 1.bentte yazılı nedenlerle davacının temyiz itirazlarının reddine, 2.bentte yazılı nedenle davalının temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2008/6377 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846436900)
 
 Davacı, intifa hakkı sahibi olduğu taşınmazı kullanımının çıplak mülkiyet sahibi davalının engellediğini ileri sürerek, elatmanın önlenmesi isteğinde bulunmuştur.
 

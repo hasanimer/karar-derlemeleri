@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/54 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/895404300)
+
 … muris muvazaasına dayalı davaların, mirasbırakanın ardılı olarak değil, miras hakkının çiğnenmesinden ötürü zarara uğrayan kişi tarafından kendi miras hakkına dayalı olarak açıldığından, bu tür davalarda dava hakkının mirasbırakanın ölümü ile doğduğu, **mirasbırakan hayatta iken anılan davanın açılmasına yasal olanak bulunmadığından, davanın usulden reddine karar verilmesi gerekirken**…

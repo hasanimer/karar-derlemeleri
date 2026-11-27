@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/197 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913812200)
+
 … muris muvazaası hukuksal nedenine dayalı davalarda **herhangi bir zamanaşımı öngörülmediği ve bu tür davalarda hak her zaman ileri sürülebileceği** için davacının iyi niyetli olmadığının gerekçeye yazılması doğru değil…

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2007/4728 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850988300)
+
 Dava; 380 parsel sayılı taşınmaza su getiren arkın, davalı tarafından kapatılarak su gelişinin engellenmesi yoluyla yapılan müdahalesinin men’ine ilişkindir.
 
 Davalı, 79 parsel sayılı taşınmazının içinden geçen su arkının davalı tarafça kullanılmasını istemediğinden, mülkiyet hakkına dayanarak taşınmazı içerisinden geçen kısmı kapattığını belirterek davanın reddini savunmuştur.
@@ -37,6 +39,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabu
 
 ## Yargıtay 14. HD 2007/2730 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849720700)
+
 Mahkemece bilirkişi krokisinde A harfi ile gösterilen ... boyalı yere davalı elatmasının önlenmesine bilirkişinin 1.395.00 YTL olarak hesapladığı ağaçlar bedelinin mülkiyet hakkı sahibi davacıdan tahsili suretiyle ağaçların kal’ine karar verilmiştir.
 
 …
@@ -51,6 +55,8 @@ SONUÇ: Yukarıda 1 bentte açıklanan nedenlerle davalı tüm davacının diğe
 
 ## Yargıtay 14. HD 2007/923 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849895300)
+
 Mahkemece, kayıt maliki davacının elatmanın önlenmesi isteminin kabulüne, bilirkişi tarafından düzenlenen krokide ... ile boyalı kadastro sırasında tapulama dışı bırakılan taşınmazdan davalı ve davacı yararına geçit tesisine karar verilmiş, hükmü davalı Hazine ve davalı-davacı ... temyiz etmiştir.
 
 Türk Medeni Kanununun 683.maddesi hükmünce mülkiyet hakkı sahibi malına haksız olarak elatan kimseye karşı her türlü haksız elatmanın önlenmesini isteyebilir. Bu yüzden 192 parsel maliki tarafından mülkiyet hakkına dayalı olarak açılan elatmanın önlenmesi davasının kabulünde bir yanılgı yoktur. Geçit hakkı isteminde bulunan davalı ve davacının açıklanan nedenle diğer temyiz itirazları yerinde değildir. Ancak;
@@ -63,6 +69,8 @@ SONUÇ: Yukarıda 1.bentte bozulan nedenlerle temyiz eden ..., 2.bent uyarınca 
 
 ## Yargıtay 14. HD 2007/610 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849677300)
+
 Mahkemece kayıt maliki tarafından açılan elatmanın önlenmesi davasının kabulüne, birleştirilen temliken tescil davasının ise, yasanın aradığı koşullar bulunmadığından reddine karar verilmiş, hükmü avukatlık ücreti noktasından davacı reddolunan temliken tescil istemi nedeniyle birleştirilen davanın davacısı temyiz etmiştir.
 
 Gerçekten; Türk Medeni Kanununun 683. maddesi hükmünce bir şeye malik olan kimse o şeye haksız olarak elatılmakta ise, mülkiyet hakkına dayanarak haksız elatmanın önlenmesini isteyebilir. Malik tarafından açılan böyle bir davaya karşı mülkiyet hakkı bulunmayan ancak, başkasına ait zemin üzerine yapı yapan kişi koşulların oluşması halinde, mülkiyet hakkı sahibinin açtığı davaya karşı koyabileceği gibi yapı sebebiyle üzerinde bulunduğu taşınmazın Türk Medeni Kanunun 724. maddesine dayanarak adına tescilini talep edebilir.
@@ -72,6 +80,8 @@ Gerçekten; Türk Medeni Kanununun 683. maddesi hükmünce bir şeye malik olan 
 Az yukarıda sözü edildiği üzere, davalı ve birleştirilen davanın davacısı 4 parsel kayıt malikinin davacı ... olduğunu bildiği halde taşınmaz üzerine bina yaptığından iyiniyetli kabul edilemez. Davacının bütün temyiz itirazlarının reddi ile usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2006/12595 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78067500)
 
 Davacı, kayden maliki olduğu ..ve .parsel sayılı taşınmazlarına, davalıların ekip biçmek suretiyle müdahalede bulundukları ileri sürüp, elatmanın önlenmesi ve ecrimisil talebinde bulunmuştur.
 
@@ -89,6 +99,8 @@ O halde, davacının Türk Medeni Kanununun 683.maddesinden kaynaklanan mülkiye
 
 ## Yargıtay 14. HD 2006/10405 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854950500)
+
 Dava, çaplı taşınmaza oluşan elatmanın yıkım suretiyle giderilmesi istemine ilişkindir.
 
 Mahkemece, davalının davacıya ait 9 parsele elatmasının önlenmesine, ancak yıkım fahiş zarar meydana getireceğinden davacıya ait 9 parseldeki ekmekliğin arsa bedeli 74.85 YTL. davalı tarafından ödendiğinde bu kısım mülkiyetinin davalı tarafa aidiyetine karar verilmiş, hükmü davacı temyiz etmiştir.
@@ -100,6 +112,8 @@ Türk Medeni Kanunun 683.maddesi uyarınca mülkiyet hakkı bulunan malik hukuk 
 SONUÇ: Yukarıda açıklanan nedenlerle, davacının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/7449 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854892700)
 
 Dava, mülkiyet hakkına ve komşuluk hukukuna dayanılarak açılmış, elatmanın önlenmesi istemine ilişkindir.
 
@@ -114,6 +128,8 @@ Diğer taraftan, bir taşınmaz kamuya ait bir taşınmaza sınır ise ve bu yer
 SONUÇ: Yukarıda açıklanan nedenle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/5427 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854323700)
 
 Dava, meni müdahale ve kal isteğine ilişkindir.
 
@@ -131,6 +147,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle hükmün davacı yararına BOZULMASINA 
 
 ## Yargıtay 14. HD 2006/4513 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855960700)
+
 Mahkemece eylemin idari bir tutumdan kaynaklandığı nedeniyle davanın yargı yeri bakımından reddine karar verilmiş, hükmü davacılar temyiz etmiştir.
 
 Türk Medeni Kanununun 683.maddesi uyarınca bir şeye malik olan kimse, hukuk düzeninin sınırları içerisinde o şeyi dilediği gibi kullanma, yararlanma ve tasarruf etme hakkına sahiptir. Diğer yandan malik her türlü haksız eletmanın önlenmesini de dava edebilir. Davacıların ileri sürdüğü istekleri bu madde kapsamında değerlendirmek gerekir. Davada mülkiyet hakkına elatmanın önlenmesi istendiğinden, elatma idari bir işlemden kaynaklanmakta olsa dahi davanın adli yargı yerinde görülmesi gerekir. Açıklanan nedenle hüküm bozulmalıdır.
@@ -138,6 +156,8 @@ Türk Medeni Kanununun 683.maddesi uyarınca bir şeye malik olan kimse, hukuk d
 SONUÇ: Yukarıda açıklanan nedenle temyiz olunan kararın BOZULMASINA …
 
 ## İstanbul BAM 9. HD 2026/81 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188829400)
 
 Mahkemece 12/11/2025 tarihli ara karar ile"... uyuşmazlık niteliği itibariyle bilirkişi incelemeli yargılamayı gerektiğinden ihtiyati tedbir talebinin reddine" karar verilmiştir.
 
@@ -171,6 +191,8 @@ Somut olayda; haksız elatmanın önlenmesi, 4721 sayılı TMK'nın 683. ve 995.
 
 ## Denizli BAM 1. HD 2025/299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126607100)
+
 Davacı şirket vekili dava dilekçesinde özetle; davacının,....,... İlçesi, ....
 
 …
@@ -187,6 +209,8 @@ Tüm dosya kapsamına göre; Davacı tarafça, davalının kira sözleşmesi kon
 
 ## Adana BAM 1. HD 2024/1115 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038169400)
+
 Davacı vekili ilk derece mahkemesine verdiği dava dilekçesinde özetle; davaya konu ... ili, ... ilçesi, ... Mahallesi'nde kain ... parselde bulunan taşınmazın mülkiyetini, davalı ... Otel Devremülk Turizm İnşaat Gıda Sanayi ve Ticaret Limited Şirketi ile yapılan protokol uyarınca kazandıklarını, taşınmazın devrinin yapıldığını, buna rağmen davalı ...'nin fuzuli işgalci olarak ihtarlara rağmen taşınmazı haksız olarak teslimden kaçındığını belirtilerek davalı ...
 
 …
@@ -198,6 +222,8 @@ Davalı ... Turizm Otelcilik Ltd.
 Yargıtay kararlarında da belirtildiği şekilde; elatmanın önlenmesi davası, mülkiyet hakkına dayanan ve kaynağını TMK’nın 683. maddesinden alan bir dava türüdür. Müdahalenin men’i davasında amaç, mülkiyet hakkına olan saldırının veya müdahalenin ortadan kaldırılmasıdır. Böylelikle malına haksız olarak müdahalede bulunulan malik, içinde bulunduğu durumdan kurtulmuş olur. Bahsi geçen müdahale maddi olabileceği gibi farklı şekillerde de ortaya çıkabilmektedir.
 
 ## İzmir BAM 1. HD 2024/797 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1035100300)
 
 Davalı vekili cevap dilekçesinde özetle;
 TMK’nın 995. maddesine göre haksız işgalde bulunan kimsenin kötü niyetli olması ve söz konusu taşınmaz üzerinde ecrimisile konu tasarrufta bulunma hak ve yetkisine sahip olmaması gerektiğini, davalıların dava konusu yeri davacı tarafça dosyaya sunulan protokollerin tanıdığı haklar doğrultusunda kullandığını, dava konusu taşınmaza daha öncesinde uzun süre ile sahip olan ve protokoller gereğince iş anlaşmaları kapsamında kullanan davalılar açısından kötü niyet şartının gerçekleşmediğini, 05/12/2011 tarihli protokolün 5/b maddesi gereğince davalıların bu taşınmazları yapılan anlaşmaya dayalı haklar doğrultusunda kullandıklarını, 05/02/2009 tarihli protokolde planlanan şirket bölünmesinin planlanan tarihten çok sonra 2013 tarihinde gerçekleştiğini, dolayısıyla 2012 tarihinde tahliye tarihine ilişkin hükmün kendiliğinden geçersiz olduğunu ve taraflar arasındaki anlaşmaya göre ertelendiğini, davalıların protokol gereği edimlerini yerine getirdiklerini, davalılara çekilen ihtarnamenin 15/12/2015 tarihli olduğunu, davanın 13/09/2017 tarihinde açıldığını, dava için bu kadar süre beklenmesinin nedeninin davacının davalılara taşınmazı kullanmaya ilişkin verdiği zımni muvafakat olduğunu,
@@ -218,6 +244,8 @@ Hemen belirtmek gerekir ki, TMK'nun 683 maddesinde düzenlendiği üzere; "Bir �
 İzmir 4. Asliye Ticaret Mahkemesi 09/04/2021 tarih 2018/1050 Esas 2021/360 Karar sayılı kararının HMK'nın 353/1-a-6 maddesi uyarınca KALDIRILMASINA …
 
 ## İzmir BAM 6. HD 2021/1399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668032400)
 
 Dava, elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 

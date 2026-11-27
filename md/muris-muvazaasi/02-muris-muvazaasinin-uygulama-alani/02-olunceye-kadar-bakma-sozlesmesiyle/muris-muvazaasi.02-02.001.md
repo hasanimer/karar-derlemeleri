@@ -20,12 +20,18 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/1210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983269400)
+
 Yukarıda anılan tüm hususlar birlikte değerlendirildiğinde, eldeki davada ispat yükü kendisinde olan davacı tarafın **miras bırakanın çekişmeli temlik ile mirastan mal kaçırma amacıyla hareket ettiği ve işlemin muvazaalı olduğunu kanıtladığından** bahisle davanın kısmen kabulüne dair verilen direnme kararı yerinde bulunmuştur.
 
 ## Yargıtay HGK 2023/259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903249700)
+
 Bir başka ifadeyle, temliki işlemin ivaz karşılığı ve ivazında bakım borcu olduğu, **bakım borcunun da davalı tarafından yerine getirildiği, davalıya yapılan temlikin muvazaalı olmadığı**, sözleşmenin iyi niyet ve dürüstlük kuralına aykırı olacak şekilde yapıldığının kabul edilemeyeceği ve temlikin mirasçıdan mal kaçırma amacıyla yapılmadığı sabit olup…
 
 ## Yargıtay HGK 2023/168 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883578900)
 
 Tüm bu olgular karşısında, murisin taşınmazını sadece bir görünüş yaratmak için değil de samimi olarak bakım temini için ölünceye kadar bakma sözleşmesiyle devrettiği, diğer mirasçılarından mal kaçırma amacını taşımadığı, bakım borçlusu olan davalının da babasına bakarak karşı edimini ifa ettiği anlaşılmakta olup, **gerçek bakım karşılığı yapılan sözleşmenin muris muvazaası nedeniyle geçersiz olduğundan söz edilemez**.

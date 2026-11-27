@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2012/3082 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/603856400)
+
 Davacı vekili dava dilekçesinde; mevki ve sınırlarını bildirdiği 43.000 m2'lik bir parça taşınmazın 60-70 seneden beri vekil edeninin zilyetliğinde olmasına rağmen yapılan kadastro çalışmalarında tespit harici bırakıldığını açıklayarak vekil edeni adına tapuya kayıt ve tesciline karar verilmesini istemiştir.
 
 Davalı Hazine vekili, dava konusu taşınmazın taşlık, kayalık vasfa sahip, Devletin hüküm ve tasarrufu altındaki yerlerden olduğunu açıklayarak davanın reddini savunmuştur. Davalı ... vekili ise, davanın hukuki dayanağı bulunmadığını açıklayarak davanın reddine karar verilmesini talep etmiştir.

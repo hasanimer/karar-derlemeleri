@@ -26,9 +26,13 @@ Kanununun 18. maddesine dayanarak muvazaa nedeniyle tapu kaydının iptalini ist
 
 ## Yargıtay HGK 2026/16 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199690300)
+
 Tenkisin sözlük anlamı indirme, azaltma ve eksiltmedir. Bu husus indirim-indirme başlığı altında "yasaya ya da hakkaniyete uygun olmayan işlem, yükümlülük ve borçların yasal ya da makul çizgiye indirilmesi demektir" şeklinde tanımlanmıştır (Türk Hukuk Lugatı, Ankara 2021 Baskı, Cilt-I, s. 574). Kanun koyucu, yasal mirasçıların bir kısmına, mirasbırakanın iradesiyle ortadan kaldırılamayan ve dokunulamayan bir miras hakkı tanımıştır. Tanınan bu hakka saklı pay, bu hakkın tanındığı kimselere de saklı paylı mirasçı denilmektedir. Saklı payın temel amacı, mirasbırakanla yakın hısımlık içerisindeki mirasçıların korunmasıdır.
 
 ## Yargıtay HGK 2010/684 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77177900)
 
 Diğer taraftan, Doktrinde saklı paylarının değerini alamayan mirasçıların miras bırakanlarının, mirastan tasarruf edebileceği kısmı aşan yani saklı paylarına yaptığı tecavüzü ortadan kaldırmak ve geri alınmasını sağlamak için açtıkları davalar ise tenkis(İndirim) davaları olarak adlandırılmaktadır(4721 Sayılı TMK madde 569). Miras bırakanın, saklı paya tecavüzünün bulunup bulunmadığının tespiti davanın tespit kısmıdır. Bu işlem tespit edildikten sonra da ne miktar payın tecavüze uğradığı ve bu kısmın mirasçıya iadesi hususu da davanın eda kısmıdır. Tenkis davasında; miras bırakanın, mirasçının saklı payına tecavüz ederek vasiyetle veya ölüme bağlı diğer bir tasarrufla başka bir mirasçıya veya üçüncü kişiye bağışta bulunmuş olması, davanın açılması koşuludur. Miras Hukukundaki tenkis davaları, özünde geçerli olan işlemler için açılabilir.
 
@@ -38,8 +42,12 @@ TMK'nın 565. maddesinde miras bırakanın hangi sağlar arası kazandırmaları
 
 ## Yargıtay 3. HD 2013/18195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/262394100)
+
 Mutlak olarak tenkise tabi tasarruflarda (ölüme bağlı tasarruflar veya Medeni Kanunun 565. maddesinin ..., ... ve ... bentlerinde gösterilenler) veya saklı payın ihlal kastının varlığı kesin olarak anlaşılan diğerlerinde özellikle muayyen mal hakkında tenkis uygulanırken Medeni Kanunun 570. maddesindeki sıralamaya dikkat etmek davalı mahfuz hisseli mirasçılardan ise aynı kanunun 561. maddesinde yer alan mahfuz hisseden fazla olarak alınanla sorumluluk ilkesini gözetmek, dava konusu olup olmadığına bakılmayarak önce ölüme bağlı tasarruflarla davacının saklı payını tamamlamak, sonra sağlararası tasarrufları dikkate almak gerekir. Bu işlem sırasında dava edilmeyen kişi veya tasarrufların tenkisi gerekeceği sonucu çıkarsa davacının onlardaki hakkını dava etmemesinin davalıyı etkilemeyeceği ve birden çok kişiye yapılan teberru tenkise tabi olursa 563. maddede yer alan, alınanla mütenasip sorumluluk kuralı gözetilmelidir.
 
 ## Yargıtay 16. HD 2011/1578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781045500)
 
 Mutlak olarak tenkise tabi tasarruflarda (ölüme bağlı tasarruflar veya Türk Medeni Kanunu’nun 565. maddesinin 1, 2 ve 3. Fıkrasında gösterilenler) veya saklı payı ihlal kastının varlığı kesin olarak anlaşılan diğerlerinde özellikle muayyen mal hakkında tenkis uygulanırken Türk Medeni Kanunu’nun 570. maddesindeki sıralamaya dikkat etmek, davalı saklı paylı mirasçılardan ise aynı Kanun'un 561. maddesinde yer alan saklı paydan fazla olarak alınanla sorumluluk ilkesini gözetmek, dava konusu olup olmadığına bakılmayarak önce ölüme bağlı tasarruflarla davacının saklı payını tamamlamak, sonra sağlararası tasarrufları, en sonda da kamu yararına yapılan kazandırmaları dikkate almak gerekir. Bu işlem sırasında dava edilmeyen kişi veya tasarrufların tenkisi gerekeceği sonucu çıkarsa davacının onlardaki hakkını dava etmemesinin davalıyı etkilemeyeceği ve birden çok kişiye yapılan teberru tenkise tabi olursa 563. maddede yer alan alınanla orantılı sorumluluk kuralı gözetilmelidir.

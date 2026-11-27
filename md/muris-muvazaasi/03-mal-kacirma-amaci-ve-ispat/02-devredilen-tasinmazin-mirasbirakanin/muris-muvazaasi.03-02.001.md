@@ -20,8 +20,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2024/97 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012708200)
+
 … devredilen taşınmazların toplam değerlerinin, **geride kalan taşınmazının değerine olan oranı gözetildiğinde makul sınırın aşıldığı**, tüm bu olgular karşısında miras bırakanın temliklerdeki irade ve amacının mirasçılarından mal kaçırmak olduğunun davacı tarafça ispat edildiği sonucuna varılmıştır.
 
 ## Yargıtay HGK 2023/623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919433200)
 
 Bu durumda mahkemece, yukarıda bahsi geçen taşınmazların 04.08.2008 tarihi olan temlik tarihindeki değerleri keşfen saptanıp, **çekişmeye konu edilen taşınmazın tüm malvarlığı içindeki oranı belirlenerek, temlikin makul sınırlar içinde kalıp kalmadığı** ve mirasbırakanın temlikteki gerçek amacının saptanmalı, muvazaanın bulunup bulunmadığı yukarıda açıklanan ilkeler doğrultusunda değerlendirilmeli ve sonucuna göre karar verilmelidir.

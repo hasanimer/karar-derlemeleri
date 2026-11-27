@@ -37,6 +37,8 @@ Davalı idare vekilinin temyiz itirazlarının kabulü ile direnme kararının �
 
 ## Yargıtay HGK 2024/530 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1103199500)
+
 Davacı vekili;
 İstanbul ili, Sancaktepe ilçesi, 886 ada, 3 parsel sayılı taşınmazda bulunan ve mülkiyeti dava dışı Maliye Hazinesine ait 264,66 m²'lik arsa üzerindeki binanın müvekkiline ait olduğunu, bu binada bulunan üç numaralı daireyi müvekkilinin kardeşi olan davalıya ekonomik durumu düzelene kadar oturması için tahsis edildiğini, davalının bu dairede uzunca bir süre kira vermeden oturduğunu, ancak taşınmazın bulunduğu arsanın Maliye Hazinesi tarafından üzerinde yapısı bulunan hak sahiplerine satışı kararlaştırılmış olup, görevliler tespite geldiğinde davalının sanki hak sahibi kendisiymiş gibi tutanak düzenlettiğini, belirtilen arsayı müvekkilinin 03.05.1987 tarihinde bu yerin zilyedi olan dava dışı ...'den harici satış sözleşmesiyle satın aldığını ve üzerine iki katlı, üç bağımsız bölümden oluşan binayı inşa ettiğini, davalıya gönderilen 21.06.2016 tarihli ve 00582 yevmiye numaralı ihtarname ile taşınmazı tahliye etmesi ve ecrimisil ödemesinin ihtar edildiğini, ihtarnamenin davalıya 22.06.2016 tarihinde tebliğ edildiğini, davalının ise taşınmazı tahliye etmediğini ve ecrimisil ödemediğini ileri sürerek mülkiyeti dava dışı Maliye Hazinesine ait 264,66 m²'lik arsa üzerindeki iki katlı
 binanın müvekkiline ait olduğunun tespitine, davalıdan şimdilik 500,00 TL ecrimisil tahsiline ve dava konusu taşınmaza müdahalesinin önlenmesi ile taşınmazdan tahliyesine karar verilmesini talep etmiştir.
@@ -50,6 +52,8 @@ Davalı vekili usulüne uygun tebligata rağmen süresinde davaya cevap vermemi�
 4721 sayılı Türk Medeni Kanununun (TMK) 683. maddesinde; malikin hukuk düzeninin sınırları içerisinde o şey üzerinde dilediği gibi kullanma, tasarrufta bulunma, yararlanma yetkilerine sahip olduğu, malını haksız olarak elinde bulunduran kişiye karşı her türlü elatmanın önlenmesi davası açabileceği öngörülmüştür.
 
 ## Yargıtay HGK 2023/1233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990385000)
 
 4\.
 
@@ -71,6 +75,8 @@ Davalılar vekilinin temyiz itirazlarının kabulü ile direnme kararının 6100
 
 ## Yargıtay HGK 2019/1236 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579468100)
+
 Mahkemece, davanın ıslah edilmiş şekli ile kısmen kabulüne 7.5.2002 – 7.5.2007 tarihleri arasında tahakkuk etmiş olan 24345,16 TL. ecrimisil bedelinin kademeli olarak yasal faizi ile birlikte davalıdan tahsiline karar verilmiş, karar taraflarca temyiz edilmiştir.Davacının tüm, davalının sair temyiz itirazları yerinde değildir.
 
 …
@@ -89,6 +95,8 @@ Ecrimisil ise, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildi�
 
 ## Yargıtay HGK 2016/1039 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/274483000)
+
 Mahkemece, elatmanın önlenmesi isteğinin reddine, ecrimisil isteğinin ise taşınmazda üçüncü kişi lehine intifa hakkının tesis edildiği tarih olan 20.01.2011 tarihi ile sınırlı olarak kısmen kabulüne karar verilmiştir.
 
 …
@@ -101,6 +109,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararını
 
 ## Yargıtay HGK 2011/539 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77233100)
+
 Mahkemece, davacının paylı malik olduğu 110 sayılı parselin bilirkişi krokisinde (A) harfi ile gösterilen bölümüne davalının elatmasının önlenmesine, ıslah yoluyla talep edilen 1.895,90 TL ecrimisilin davalıdan tahsiline, davacının fazla isteğinin reddine karar verilmiştir.
 
 …
@@ -108,6 +118,8 @@ Mahkemece, davacının paylı malik olduğu 110 sayılı parselin bilirkişi kro
 Yapılan uygulama sonucuna göre, davalının paylı malik olduğu 110 sayılı parselirı (A) harfi ile gösterilen bölümüne ağaç dikerek elattığı sabittir. Davacı, Türk Medeni Kanununun 683.maddesine dayanarak haksız elatmanın önlenmesini mahkemeden talep edebilir. Diğer taraftan, 08.03.1950 tarihli ve 1945/22-1950/4 sayılı Yargıtay İçtihadı Birleştirme Kararında vurgulandığı üzere, başkasının gayrimenkulünü haksız olarak zaptederek kullanan kötüniyetli kimsenin, o taşınmazı haksız olarak elinde tutmuş olmasından doğan zararlar ve elde edilen veya elde edilmesi ihmal edilen semerelerin tahsili de davalıdan istenebilir.
 
 ## Yargıtay HGK 2010/251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76853800)
 
 Davacı, maliki bulunduğu taşınmazı oğlu ile aralarında boşanma davası görülen davalı gelininin haksız kullandığını ileri sürerek eldeki davayı açmış, davalı ise taşınmazı "aile konutu" olarak kullandığını savunmuştur.
 
@@ -122,6 +134,8 @@ Yukarıda açıklanan olgular birlikte değerlendirildiğinde; TMK.nun 683. madd
 Görüldüğü gibi Özel Dairece, TMK.nun 683.maddesinden hareketle hükmün bozulmasına karar verildiği halde …
 
 ## Yargıtay HGK 2008/246 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76685800)
 
 Mahkemece davanın bedel istemi yönünden kabulüne, ecrimisil istemi yönünden reddine karar verilmiş, hüküm davacılar vekilince temyiz edilmiştir.
 
@@ -143,6 +157,8 @@ Yukarıda (2) numaralı bentte ve Özel Daire bozma kararında gösterilen neden
 
 ## Yargıtay 5. HD 2025/15435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197211500)
+
 Davacı vekili dava dilekçesinde özetle; müvekkilinin Kocaeli ili, ... ilçesi, ... Mevkiinde kâin 40... parsel sayılı (yenileme ile 5 32... parsel) taşınmazın maliki olduğunu, müvekkilinin malik ve mutasarrıfı olduğu taşınmazın ... Başkanlığının kararı ile Üniversite Alanı, Yüksek Eğitim Tesisleri ve Kampüs Alanı olarak belirlendiğini, dava konusu taşınmazın da bulunduğu bölgenin 11.06.2011 tarihli ve 27961 sayılı mükerrer RG'de yayımlanan 2011/1813 karar sayılı Bakanlar Kurulu Kararı uyarınca 4691 sayılı ...
 
 …
@@ -159,6 +175,8 @@ Yönetici A.Ş. tarafından husumet itirazında bulunulmuşsa da dava konusu ta�
 Davalı ... Yönetici A.Ş. vekilinin temyiz itirazları yerinde olduğundan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/15434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196533300)
 
 Davacı vekili dava dilekçesinde özetle; müvekillinin Kocaeli ili, ... ilçesi, ...
 
@@ -177,6 +195,8 @@ Geliştirme Bölgesi A.Ş olduğu anlaşılmakla, davalının husumet itirazın�
 
 ## Yargıtay 5. HD 2025/13584 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187033800)
+
 Davacı vekili dava dilekçesinde özetle; Ankara ili, ... ilçesi, ... Mahallesi 436 08... parsel(imar uygulaması sonucu 436 08... parsel) sayılı taşınmazın imar planında spor tesisleri alanı olduğunu, davalı idarece fiilî el atma olgusu gerçekleşecek şekilde kamulaştırmasız el atıldığından, taşınmazın bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -193,6 +213,8 @@ Dava konusu taşınmazda paydaş olan diğer maliklere açılan davalarda el atm
 
 ## Yargıtay 5. HD 2025/10880 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174609800)
+
 1\.
 
 …
@@ -208,6 +230,8 @@ Davacılar vekili dava dilekçesinde özetle; davacıların hissedarı olduklar�
 Taraf vekillerinin temyiz itirazlarının kabulü ile Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2025/6754 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194550300)
 
 Davacı ... İdaresi vekili dava dilekçesinde; dava konusu ... ili ... ilçesi ... Mahallesinde bulunan 316 parsel sayılı taşınmazın kesinleşen orman kadastrosunda kısmen orman sınırları içinde kaldığını ileri sürerek, taşınmazın orman olan kısmının tapu kaydının iptali ile orman niteliğiyle Hazine adına tesciline, davalıların müdahalesinin önlenmesine karar verilmesini talep etmiştir.
 
@@ -229,6 +253,8 @@ Davalılar vekilinin yukarıda (2) ve (3) numaralı bentlerde açıklanan nedenl
 
 ## Yargıtay 7. HD 2025/5616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196952400)
+
 Davacı vekili dava dilekçesinde; dava konusu 1 18... parsel sayılı taşınmazdaki 6 numaralı bağımsız bölümün yarısının müvekkiline, diğer yarısının ise dava dışı kız kardeşi ... ...'a ait olduğunu, davalının ... ...’un kızı olduğunu, müvekkilinin izni olmadan davalının erkek arkadaşı olan diğer davalı ile birlikte yaşamaya başladığını ve kullanımlarına karşılık müvekkiline herhangi bir ödemenin yapılmadığını ileri sürerek el atmanın önlenmesi ile fazlaya ilişkin talep ve dava hakkı saklı kalmak kaydıyla şimdilik 10.000,00 TL ecrimisil bedelinin davalılardan müştereken ve müteselsilen tahsili ile haksız müdahale tarihi olan 19.05.2020 tarihinden itibaren işleyecek yasal faizi ile birlikte tahsilini talep etmiştir.
 
 …
@@ -245,6 +271,8 @@ Dava konusu taşınmazda davacı ile dava dışı ... ...'un elbirliği ile mali
 
 ## Yargıtay 8. HD 2025/4942 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171215400)
+
 Mahkemece, yukarıda belirtilen ve Orman İdaresi ile ... arasında görülen Kocaeli Tapulama Mahkemesinin 1980/134 Esas-1983/556 Karar sayılı kesinleşen kararına dair dosya getirtilerek uygulanmamış, imar uygulaması sonucu oluşan çekişmeli yer ile ilgili olarak imar paftası ile kesin hükme konu olan yerin konumu belirlenmeden yetersiz ve denetlenemeyen bilirkişi raporuna göre hüküm kurulmuştur. Eksik araştırma ve yetersiz bilirkişi raporuna dayanılarak hüküm kurulamaz.
 
 …
@@ -256,6 +284,8 @@ Türk Medeni Kanunu'nun 683. maddesi uyarınca mülkiyet hakkı bulunan malik hu
 Davalı ... vekilinin temyiz itirazlarının yukarıda (2) no.lu bentte açıklanan nedenlerle kabulü ile İlk Derece Mahkemesi kararının, hüküm fıkrasının 2 numaralı bendinin hüküm fıkrasından çıkartılarak yerine “davacının el atmanın önlenmesi talebinin reddine” cümlesinin yazılmasına yine hükme 6. bent olarak “davalı taraf kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesi'ne göre belirlenen 17.900 TL vekalet ücretinin davacıdan alınarak davalılara verilmesine” cümlesinin eklenmesine, hükmün bu şekilde DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 7. HD 2025/3190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1165117400)
 
 Davacı vekili dava dilekçesinde özetle; davacıların ... parsel hissedarı olduklarını, davalının ise ... parsel malikinin mirasçısı olduğunu, davalının davacının taşınmazına 7983,02 m2 haksız müdahalesi olduğunun tespit edildiğini, ihtar da çekildiği hâlde sonuç alınmadığını, davalının müdahalesinin men’ini, taşınmazdan tahliyesini, fazlaya ilişkin haklar saklı kalmak kaydıyla her bir davacı için 2.500,00'er TL'den toplam 10.000,00 TL ecrimisilin yasal faizi ile davalıdan tahsilini talep etmiştir.
 
@@ -279,9 +309,13 @@ Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 1. HD 2025/1708 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132626800)
+
 2797 sayılı Yargıtay Kanunu’nun 40. ve Yargıtay İç Yönetmeliği’nin 18. maddeleri uyarınca yapılan ön incelemede; asıl dava konusu uyuşmazlığın niteliğinin el atmanın önlenmesi, yıkım ve ecrimisil istemine; karşı dava konusu uyuşmazlığın niteliği ve temyizin kapsamının tapuya kayıtlı taşınmazda haricen satın alma ve (mülga 743 sayılı Türk Kanunu Medenisi'nin 639/2. maddesi) 4721 sayılı Türk Medeni Kanunu'nun 713/2. maddesindeki (Anayasa Mahkemesinin 17.03.2011 tarihli ve 2009/58 Esas, 2011/52 Karar sayılı kararıyla iptaline karar verilen) ölüm ve zilyetlik nedenine dayalı tapu iptali ve tescil isteğine ilişkin olduğu anlaşılmıştır.
 
 ## Yargıtay 5. HD 2024/5602 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059684800)
 
 Davacı vekili dava dilekçesinde özetle; dava konusu ... Mahallesi 713 parsel sayılı taşınmaza yol yapılmak suretiyle el atıldığını, fazlaya ilişkin hakları saklı kalmak kaydıyla 250.000 TL tazminat bedelinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalı idareden tahsiline karar verilmesini talep etmiştir.
 
@@ -298,6 +332,8 @@ Arsa niteliğindeki Bursa ili, Mudanya ilçesi, Göynüklü Mahallesi 713 parsel
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 8. HD 2024/4413 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063657200)
 
 Davacı ... İdaresi vekili dava dilekçesinde özetle; İstanbul ili, Beykoz ilçesi, ... Mahallesi 714 ada 6 parsel sayılı taşınmazın 184 ada 7 numarasıyla tapuda kayıtlı orman parselinden ifraz ile imar sonucu oluşturulduğunu, bu yerin aynı zamanda 1940 yılında yapılan orman tahdidinde kesinleşen orman sınırları içinde olmasına rağmen 1981 yılında 1744 sayılı Kanun uyarınca gerçekleştirilen çalışmada aplikasyonun hatalı yapılması sonucu tahdit haritasında orman sınırları dışında gösterildiğini, hatalı aplikasyon sonucu orman tahdidi dışında bırakıldığından çeşitli imar, ıslah ve ifraz uygulamaları ile oluşan tapu kaydının yolsuz olduğunu ileri sürerek, taşınmazın dilekçe ekindeki krokide gösterilen kısmının tapu kaydının iptali ile orman vasfıyla Hazine adına tesciline, davalının müdahalesinin menine, tapu kaydı üzerindeki şerhlerin terkinine karar verilmesini talep ve dava etmiştir.
 

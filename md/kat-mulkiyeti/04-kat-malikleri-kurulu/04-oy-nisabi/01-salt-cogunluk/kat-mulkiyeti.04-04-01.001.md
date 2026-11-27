@@ -21,20 +21,28 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2019/1616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492608900)
+
 Aynı Kanunun 30. maddesinde; kat malikleri kurulu, kat maliklerinin sayı ve arsa payı bakımından yarısından fazlasıyla toplanır ve oy çokluğuyla karar verir. Yeter sayının sağlanamaması nedeniyle ilk toplantının yapılamaması halinde, ikinci toplantı, en geç onbeş gün sonra yapılır. Bu toplantıda karar yeter sayısı, katılanların salt çoğunluğudur.
 
 ## Yargıtay 18. HD 2016/4865 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/230269100)
 
 Dosyadaki bilgi ve belgeler ile bilirkişi raporunun incelenmesinden; davacı ve davalıların bağımsız bölüm maliki diğer davalı şirketin ise kiracı olduğu, anataşınmazın tapu kaydına göre zemin/giriş katında mağaza niteliğinde 8, 9, 16, 17, 18, 19 ve 20 numaralı bağımsız bölümlerin, 10, 11, 12, 13, 14 ve 15 numaralı özel depo nitelikli bağımsız bölümlerin bulunduğu, mağazalar ile özel depo nitelikli bağımsız bölümlerin aralarındaki duvarların ve kapı ile cephe doğramalarının kaldırılmak suretiyle anataşıyıcı sisteme herhangi bir zarar vermeden birleştirilerek bir bağımsız bölüm halinde kullanıldığı, bodrum kat merdiven bitimine kapı konulduğu, diğer bodrum katına iniş merdiveninin kapatıldığı ve üzerine reyon yapıldığı, ortak alana ve koridorlara stant ve reyonlar konulduğu, pasaj girişine barkot sisteminin ve binanın girişine ise ... yazılı tabelanın yerleştirildiği, anataşınmazın yönetim planının “bağımsız bölüm malikleri anagayrimenkulün mimari estetiğine dayanıklılık ve metanetine zarar verebilecek her hangi bir harekette veya tadilatta bulunamaz ortak kısımlardan olan bölme ve duvarlarda pencere ve kapı açamazlar” şeklindeki 7.maddesinin anataşınmazın kat maliklerince 05.01.2007
 tarihli genel kurul toplantısında “.... ortak kısımlardan bölme ve duvarlarda pencere ve kapı açabilmek için kat maliklerinin 4/5 vereceği kararla mümkün olabilir” şeklinde kat maliklerinin 4/5 çoğunluğu ile değiştirildiği, bu kararın iptali isteminin mahkemece reddedildiği ve kararın kesinleştiği, 11.01.2008 tarihli genel kurul toplantısında “... bağımsız bölümlerin birleştirilmesi, açık hale getirilmesi, ...yönetim planının 12.maddesi uyarınca özel depo ve depo olarak kayıtlı bulunan bağımsız bölümlerin mağaza olarak kullanılmasına 4/5 oy çokluğu ile karar verildiği, ...pasajın girişindeki bağımsız bölümler ile eklentileri arasında gerekse bodrum kattaki bağımsız bölümler arasında ara duvarlar ve koridora bakan kısımların yani ortak alanların kaldırılmasına, 4/5 oy çokluğu ile karar verildiği, bu kararın pasaj katında bulunan bağımsız bölümler içinde geçerli olduğuna” şeklinde 4/5 çoğunluğu ile karar alındığı ve iptali için açılmış bir dava bulunmadığı, davacının toplantıya katılmadığı anlaşılmaktadır.
 
 ## Yargıtay 18. HD 2012/14235 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803549400)
+
 Dosya içindeki bilgi ve belgelerin incelenmesinden; iptali istenen kat malikleri kurulu toplantısında asansör zeminin kaplanması, müzik yayını yapılması, çapa makinesi alınması, otomatik kapılar için bakım sözleşmesi yapılması ve ASKİ şebeke suyuna abone olunması
 
 ile arıtma sistemi kurulması hakkında alınan kararların Kat Mülkiyeti Kanunu gereğince nitelikli çoğunluk gerektirmeyen kararlar olup, yönetim planının 21 ve 24. maddelerine uygun olarak oluşturulan temsilciler kurulu tarafından katılanların oy çokluğu ile alındığı anlaşıldığından; bu kararlar yönünden usul ve yasaya aykırı bir husus bulunmadığı gözetilerek davanın reddine karar verilmesi gerekirken, yerinde olmayan gerekçe ile 02.08.2009 tarihli toplantıda alınan 3 numaralı “asansör zeminlerinin kaplanması ve müzik yayını yapılması” na ilişkin kararın iptaline karar verilmesi doğru görülmemiştir.
 
 ## İstanbul BAM 14. HD 2022/1207 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813441000)
 
 İcra Müdürlüğünün ...
 Esas sayılı dosyasında takip başlatıldığı, davacı şirket tarafından işbu davanın açılmış olduğu, dosya içerisine ibraz edilen Kadıköy Belediye Başkanlığı Yapı Kontrol Müdürlüğünün 14.04.2015 tarihli davalı ...' hitaben verilen cevabı yazısında ... parsel sayılı yere ait dilekçenin incelendiği, planlı alanlar tip İmar Yönetmeliğinin 63.maddesinde basit tamir ve tadiller ile korkuluk, pergole ve benzerlerinin yazımı ile bölme duvarı, bahçe duvarı, duvar kaplamaları, bacasaçak ve benzeri elemanların tamirlerinin ruhsata tabi olmadığının belirtildiği, ilgili yönetmelik kapsamında kalmak kaydı ile konu yerde cepheleri açık ... niteliğinde ilave oluşturulabileceği ancak ortak alanların kullanımı ile ilgili herhangi bir anlaşmazlık oluşması halinde konunun kat mülkiyeti kanunu kapsamında adli makamlarca değerlendirilebileceği hususunun belirtildiği, 04.01.2014 tarihli olağan kat malikleri toplantısına ait karar defterinde dükkanların işleri icabı ön bahçeyi kullandıkları, arzu ederlerse belediye ye müracaatıyla ve onayıyla kapatabileceklerine dair oy çokluğuyla karar alındığı, Kadıköy Belediye Başkanlığı Yapı Kontrol Müdürlüğünün 14.04.2015 tarihli davacı şirkete hitaben cevabı

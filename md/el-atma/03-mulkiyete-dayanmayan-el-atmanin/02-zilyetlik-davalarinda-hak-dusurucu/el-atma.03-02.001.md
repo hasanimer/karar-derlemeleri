@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2010/544 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76984100)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece el atma tarihinden itibaren 20 yıllık hak düşürücü sürenin dolmuş olduğu belirtilerek davanın reddine karar verilmiş, hüküm davacı vekilince temyiz edilmiştir.
@@ -32,6 +34,8 @@ Dava konusu 09.01.1992 tarihli 4 ve 5 nolu, sırası ile 4700 metrekare ile 1060
 S O N U Ç: Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukarıda açıklanan nedenlerden dolayı HUMK nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2025/2328 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141105700)
 
 Dava; Orman Kadastrosuna itiraz ve tescil talebine ilişkindir.
 
@@ -47,6 +51,8 @@ Bölge Adliye Mahkemesince;" 6831 sayılı Orman Kanununun 11. maddesi "Orman ka
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/131 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999748700)
 
 Davacı vekili; vekil edenleri ile davalı gerçek kişilerin ... mirasçıları olduklarını, murisin zilyetliğinde bulunan Hazine adına kayıtlı taşınmazların (3290 sayılı Yasayla değişik 2981 sayılı Yasa gereğince) davalı Belediyeye devredilerek imar uygulamasına gidildiğini, 1536 parselde miras bırakanlarının zilyetliğinde bulunan kısımların 220 ada 7, 8 ve 221 ada 5 parsel sayılı taşınmazlar hâline geldiğini, murisin sağlığında 220 ada 8 parselin zilyetliğini davalı ... ve dava dışı ...'a 1/2 oranında hisseli olmak üzere, 221 ada 5 parselin zilyetliğini davalı ... ile dava dışı kızı ...'e ve ...'a devrettiğini, adı geçen mirasçıların 2981 sayılı Yasa çerçevesinde haklarına kavuştuğunu, murisin 220 ada 7 parsel sayılı taşınmazda ise zilyetliğini 03.04.2008 tarihli satış senetleriyle 1/2'şer payla vekil edenlerine devirleri sonucu bu tarihten beri zilyetliğin davacı tarafta olduğunu, dava dışı mirasçıların taşınmazın davacılar adına tesciline muvafakatları bulunduğunu açıklayarak hâlen davalı ... adına kayıtlı 220 ada 7 parsel sayılı taşınmaz üzerinde zilyetliğin (davacılar tarafından sürdürülmesi nedeniyle) davacıların elinde bulunduğunun tespitine, davalı mirasçılarla uyuşmazlığın
 önlenmesine karar verilmesini istemiştir.
@@ -64,6 +70,8 @@ Davalılar, davanın reddini savunmuşlardır.
 Davalı gerçek kişiler vekillerinin yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 1. HD 2023/7508 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025581100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -88,6 +96,8 @@ Diğer taraftan; 3402 sayılı Kadastro Kanunu'nun 14 üncü maddesinde senetsiz
 Davalı Hazine temsilcisinin temyiz itirazlarının kabulü ile temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2023/4303 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/941471400)
 
 İlk Derece Mahkemesince bozma ilamına uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -115,6 +125,8 @@ Temyiz olunan İlk Derece Mahkemesi kararının 6100 sayılı Kanun'un Geçici 3
 
 ## Yargıtay 8. HD 2020/3100 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646976500)
+
 Davacı vekili, Davacının... adresindeki ev ve arazinin zilyetliğini ...'den devraldığını, vergilerini ödediğini, dava konusu taşınmazın 2004 yılında sahte zilyetlik devir senedi ile ... isimli kişiye devredildiğini, davacının bundan haberdar olması üzerine ...'nın yeniden zilyetliği davacıya devrettiğini, bu süreçte ... Cumhuriyet Başsavcılığı tarafından yapılan soruşturma neticesinde ... 2.
 
 …
@@ -135,6 +147,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 20. HD 2019/2534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/506093600)
+
 Davacılar vekili, 23.09.2011 tarihli dava dilekçesi ile ... merkez, ... köyü 51, 52 ve 58 nolu parsellerin doğusunda kalan 15 dönüm yüzölçümündeki taşınmazın müvekkilleri tarafından satın alındığını, her ne kadar 51, 52 ve 58 nolu parseller ... köyü tapulama sahasında kalmakta ise de bitişiğindeki 15 dönümlük bölümün ... köyü sınırları dahilinde tapulama harici bırakıldığını, dava konusu 15 dönümlük kısmın kadimden beri tarım arazisi olup, önceleri ... oğlu ...'ın iken satışı ile ... ... ve oğullarının mülkiyetine geçtiğini, onların da bu yeri...adlı şahsa sattıklarını, ...'un bu yeri müvekkillerine sattığını, müvekkillerinin bu suretle devir ve teslim aldıkları yerin zilyetliğini malik sıfatı ile nizasız ve fasılasız sürdürdüklerini, bilinen önceki maliklerle ondan sonrakilerin devam eden zilyetliğinin herhangi bir itiraza ve kesintiye maruz kalmadığını iddia ederek malik sıfatı ile nizasız ve fasılasız olarak devam ettirilen bu yerin 2/8 payının ..., 2/8 payının ..., 2/8 payının ..., 1/8 payının ..., 1/8 oranının ... adına tesciline karar verilmesini talep ve dava etmiştir.
 
 Mahkemece, davanın kabulü ile fen bilirkişisi ...tarafından düzenlenen 04/04/2013 tarihli krokide (A) harfi ile turuncu renkle gösterilen 13.854,08 m2 alanındaki taşınmazın; 2/8 payının ..., 2/8 payının ..., 2/8 payının ..., 1/8 payının ..., 1/8 payının ... adına kayıt ve tesciline karar verilmiş, hüküm davalı Hazine vekili tarafından temyizi üzerine Yargıtay 20. Hukuk Dairesinin 09/06/2014 tarih ve 2014/3907 E. - 6170 K. sayılı kararı ile bozulmuştur.
@@ -151,6 +165,8 @@ Hükme esas alınan ... bilirkişi raporunda, ... köyü ... kadastro haritası 
 
 ## Yargıtay 20. HD 2017/7419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/369119900)
+
 Davacılar 20.06.2003 havale tarihli dava dilekçesi ile vilayet komisyon kararına dayanarak yörede 1991 tarihinde yapılan ve 23.06.1993 tarihinde ilân edilen orman kadastrosu sırasında murislerinden intikal eden ve tapuyla sahip oldukları Hekimadasının orman sınırı içine alınması işleminin yanlış olduğunu, bu yere ait sınırlamanın iptalini istemiştir.
 
 Mahkemece, mahkemenin görevsizliğine, karar kesinleştiğinde ve talep halinde görevli ve yetkili ... Kadastro Mahkemesine gönderilmesine karar verilmiş, hükmün davacılar vekili, Hazine vekili ve Orman Yönetimi vekili tarafından temyiz edilmesi üzerine Yargıtay 20.
@@ -161,14 +177,20 @@ Mahkemece, mahkemenin görevsizliğine, karar kesinleştiğinde ve talep halinde
 
 ## Yargıtay 8. HD 2015/18612 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/130102100)
+
 O halde, Hazine adına kayıtlı taşınmazda davacı yararına 2/B- zilyetlik beyanı bulunduğuna göre; taşınmazın zilyedinin davacı olduğunun kabulü gerekir. Davalı davacının bu görünümünün (karinenin) aksini gösterdiği delillerle kanıtlayamamıştır. Ne var ki, davacı davalıya 06.06.2011 tarihinde tebliğ ettirdiği ihtarname ile taşınmazın kendisine teslimini ihtar etmiş, zilyetliğin korunmasına ilişkin davasını ise, 11.09.2012 tarihinde açmıştır. Davacı TMK'nun 984. maddesindeki (2) aylık ve (1) yıllık hak düşürücü sürenin geçmesinden sonra açmıştır. Davanın hak düşürücü sürenin geçirilmesi sebebiyle reddi gerekirken, mahkemece zilyetliğin kanıtlanamadığı gerekçesiyle dava reddedilmiştir. Bu gerekçe hatalıdır. Ancak hüküm sonucu itibariyle doğrudur. Bu nedenle temyiz edilen hükmün gerekçesinin açıklanan şekilde değiştirilip, düzeltilerek onanması gerektiğini (HUMK m. 438/son) düşünüyor; Değerli çoğunluğun onama kararının sadece gerekçesine katılmıyorum. 19.10.2015 …
 
 ## Yargıtay 16. HD 2015/10842 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141907400)
 
 Mahkemece dava konusu taşınmazın kadastro tespitinin kesinleştiği tarih ile dava tarihi arasında 3402 sayılı Kadastro Kanunu'nun 12/3 maddesinde öngörülen hak düşürücü sürenin geçtiği kabul edilmek suretiyle hüküm kurulmuş ise de Mahkemece yapılan araştırma inceleme ve değerlendirmede isabet bulunmamaktadır. Dava dilekçesinde belirtilen maddi olaylara göre hukuki nitelendirmeyi yapmak hakimin görevidir. Dava dilekçesinde davacı vakıf çok eskiden beri dava tarihine kadarki zilyetliğe dayanmıştır. Dava konusu taşınmaz Rum Ortodoks Taifesi adına tescil edilmiş ise de malikin kim olduğu belli değildir. Her ne kadar tespitten önceki zilyetliğe dayalı iddia hak düşürücü süreye uğramış ise de davacı vakıf tarafından kadastro tespitinden sonraki kazandırıcı zamanaşımı zilyetliğine de dayanılmış olmakla Mahkemece davanın kadastro sonrası nedene dayalı tapu iptal ve tescil davası olarak nitelendirilerek Vakıflar Kanunu'nun 12. maddesi de nazara alınarak M.K'nın 713/2 maddesindeki şartların davacı vakıf yararına gerçekleşip gerçekleşmediği araştırılmamış ve değerlendirme dışı bırakılmıştır.
 Hal böyle olunca davacı vakfın M.K'nın 713/2 maddesi çerçevesinde delilleri toplanarak ve toplanan deliller değerlendirilerek sonucuna göre bir karar verilmesi gerekirken sadece tespit öncesi dönem dikkate alınmak suretiyle davanın hak düşürücü süreden reddine karar verilmesi isabetsiz olup temyiz itirazları bu nedenlerle yerinde bulunduğundan kabulü ile hükmün BOZULMASINA, peşin yatırılan temyiz karar harcının talep halinde temyiz eden davacıya iadesine, 29.09.2015 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 20. HD 2014/2992 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107421900)
 
 Davacı A.. B.., 25/02/2013 günlü dilekçesinde.... Köyü, 228 ada 1 sayılı parsel içinde kalan 600 m² yüzölçümündeki bölümün uzul yıllar zilyetliğinde olduğu iddiasıyla, bu bölüme yönelik tapu kaydının iptali ve adına tesciline karar verilmesini istemiş, mahkemece, çekişmeli parselin 3402 saylı Kanunun 4. maddesine göre tesbiti yapılıp orman niteliğiyle 2007 yılında kesinleştiği davanın zilyetliğe dayalı olarak açılması nedeniyle hak düşürücü süreden reddine karar verilmiş, hüküm, davacı A..
 
@@ -186,6 +208,8 @@ Orman kadastro komisyonlarınca düzenlenen tutanak ve haritaların kesinleşti�
 SONUÇ: Yukarıda açıklanan nedenlerle; davacının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2014/2092 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98506900)
 
 Davacı dava dilekçesinde, 6831 sayılı Yasanın 2/B maddesi uyarınca Hazine lehine orman sınırları dışına çıkarılan 800 ada parsel sayılı taşınmaz üzerindeki iki katlı taşınmazın zilliyet maliki olduğunu, parselin tapu kaydında iki katlı kargir bina ve bahçenin kullanımının kendisine ait olduğunun şerh edildiğini, davalıların 800 ada parsel sayılı bitişik taşınmazda komşuları olduklarını, taşınmazlar arasındaki sınırı taş duvar örerek ayırdığını, ancak davalıların sınır ihtilafı bulunduğundan bahisle duvarı yıkarak müdahalede bulunduklarını, davalılar tarafından verilen zararın Ümraniye 1.Asliye Hukuk Mahkemesi'nin 2004/107 Değ.
 
@@ -205,6 +229,8 @@ Davalıların temyiz itirazları yukarıda açıklanan nedenlerle yerinde olduğ
 
 ## Yargıtay 20. HD 2013/3029 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482764400)
+
 Davacı dava dilekçesiyle; 08.04.1985 tarihinde babası tarafından satın alınan ve zilyetliğinde bulunan taşınmazının bölgede yapılan kadastro çalışmaları sırasında Yoncalıbayır Köyü 122 ada 1 nolu orman parseli içerisinde bırakıldığını iddia ederek, tapusunun iptali ile adına tescili istemiyle dava açmıştır. Yapılan keşif sırasında, dava konusu edilen taşınmazın Aşağıdemirci Köyü 122 ada 1 nolu orman parseli içerisinde kaldığı anlaşılmıştır. Mahkemece; çekişmeli taşınmazın orman içi açıklık niteliğinde bulunduğu, zilyetlikle kazanılamayacağı gerekçesiyle davanın reddine karar verilmiş, hüküm davacı tarafından temyiz edilmiştir.
 
 Dava, orman kadastrosu sonucu Hazine adına tesbit ve tescil edilen orman parselinin zilyetliğe dayalı olarak tapu kaydının iptali ve tesciline ilişkindir.
@@ -214,6 +240,8 @@ Dava, orman kadastrosu sonucu Hazine adına tesbit ve tescil edilen orman parsel
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye ve çekişmeli .... Köyü 122 ada 1 nolu parselin orman niteliğiyle Hazine adına tesbit ve tesciline karar verildiği, orman niteliği kazanan taşınmazın tapusunun iptali isteminin aynı zamanda orman tahdidinin iptalini gerektirdiği, böyle bir davanın ise 6831 sayılı Orman Kanununda belirtilen hak düşürücü sürelerde istenebileceği, 6831 sayılı Kanunun 11/1. maddesi gereği tapulu taşınmazlarda tapu sahiplerinin 10 yıllık hak düşürücü süre içinde dava açabileceklerinin düzenlendiği bu süre dolmamış olmakla birlikte davacının bir tapu kaydına değilde zilyetliğe dayalı olarak orman tahdidinin iptalini istediği belirlenmekle, davacının zilyetliğe dayanarak açtığı davasının reddine karar verilmesinde bir isabetsizlik bulunmadığına göre, yerinde görülmeyen temyiz itirazlarının reddi ile usûl ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine 21.03.2013 günü oy birliği ile karar verildi.
 
 ## Yargıtay 8. HD 2012/12838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988787500)
 
 Davalı dava konusu bölümü işlemediğini, davanın reddini savunmuştur.
 
@@ -229,6 +257,8 @@ Davalının temyiz itirazları açıklanan nedenle yerinde olduğundan kabulüyl
 
 ## Yargıtay 20. HD 2012/4509 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599252600)
+
 Davacı ..., 11/06/2009 tarihli dava dilekçesinde ... köyü 101 ada 1 parsel sayılı taşınmazın, orman niteliği ile Hazine adına tespit edilmiş olduğunu ve tutanağın kesinleştiğini, oysa; kadastro sırasında 101 ada 12 parselin 1/2 paylı olarak kendisi ile kardeşi ... adına tespit edildiğini, bu parselin bitişiğinde ve orman parseli içinde kalan 3, 4 ve 5 dekar kadar taşınmazlarının 30 - 40 senedir tarım arazisi olarak zilyetlik ve tasarruflarında bulunduğu iddiasıyla dava açmıştır. Mahkemece, davanın kabulüne ve dava konusu parselin fen bilirkişi krokisinde (A) harfi ile gösterilen 4013 m2'lik bölümünün Hazine adına olan tapu kaydının iptali ile davacı ... adına tapuya tesciline karar verilmiş, hüküm davalılar Hazine ve Orman Yönetimi tarafından temyiz edilmiştir.
 
 …
@@ -243,6 +273,8 @@ açma olanağı yoktur. Bu nedenle, davacı gerçek kişinin 101 ada 1 sayılı 
 SONUÇ: Yukarıda açıklanan nedenlerle; davalılar Hazine ve Orman Yönetiminin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2012/2338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525435800)
 
 Davacı ... vekili dava dilekçesinde, 6831 sayılı Yasanın 2/B maddesi gereğince Hazine adına orman sınırı dışına çıkarılan 1816 ada 29 parsel sayılı taşınmazın, zeytinlik vasfı ile davacının işgalinde iken, davalı şirketin Orman ve Çevre Bakanlığı ile yapmış olduğu sözleşme gereğince 2009 yılında taşınmaza müdahale ederek taşınmaz üzerinde bulunan 5 adet zeytin ağacını söktüğünü açıklayarak, davalının taşınmaza yönelik müdahalesinin önlenmesini ve zeytin ağaçları bedeli ile ecrimisil bedelinin davalıdan alınarak davacıya verilmesini talep etmiştir.
 

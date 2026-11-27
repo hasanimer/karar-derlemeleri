@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2014/1209 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105407000)
+
 Dava, komşuluk hukukundan kaynaklanan elatmanın önlenmesi ve kal istemine ilişkindir.
 
 Davacılar, maliki oldukları boş arsa vasfındaki .. ve.. parsel sayılı taşınmazlarına bitişik tescil harici imar planında park alanı olarak gösterilen taşınmazda davalının imar mevzuatına aykırı olarak yüksek taş duvar inşa ettiğini, duvarın her an çökme riski bulunduğunu, davacılara ait arsaların manzarasını kapattığını ileri sürerek davalının elatmasının önlenmesini, duvarın kal'ini ve davacılardan T.. B..'e ait ..parsel sayılı taşınmaza atılan molozun kaldırılarak eski hale getirilmesini istemişlerdir.
@@ -39,6 +41,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/13740 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79419600)
+
 Dava, çaplı taşınmaza hem doğrudan tecavüz, hem de dolaylı, bir başka ifadeyle imara ve komşuluk hukukuna aykırılık nedeniyle elatmanın önlenmesi ve yıkım isteklerine ilişkindir.
 
 Mahkemece, davanın kısmen kabulüne karar verilmiştir.
@@ -55,6 +59,8 @@ Tarafların, temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan ned
 
 ## Yargıtay 14. HD 2013/2145 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643904500)
+
 Davalı ... İletişim Hizmetleri A.Ş. vekili, henüz baz istasyonunun kurulu olmadığını , bu nedenle zarar oluşmadığını ve davanın esası hakkında tedbir kararı verilemeyeceğini belirterek davanın reddini savunmuştur.
 
 Mahkemece, dava konusuz kaldığından karar verilmesine yer olmadığına şeklinde hüküm kurulmuştur.
@@ -69,6 +75,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2013/852 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642381600)
+
 Mahkemece; davacılar ve asli müdahillerin asıl ve birleştirilen davalarda maddi tazminat istemlerinin reddine, manevi tazminat istemlerinin kısmen kabulü ile her bir davacı ... asli müdahillere 5.000’er TL manevi tazminatın dava tarihlerinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen alınarak davacılara verilmesine karar verilmiştir.
 
 …
@@ -80,6 +88,8 @@ Türk Medeni Kanununun gerek komşuluk ilişkilerini düzenleyen 737. maddesinde
 SONUÇ: Yukarıda (1) numaralı bentte yazılı nedenlerle davacılar ve asli müdahiller vekilinin tüm temyiz itirazlarının reddine, (2) numaralı bent uyarınca davalı idare vekili ile davalı şirket vekilinin temyiz itirazının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/15545 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79636500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve komşuluk hukukuna aykırılığın giderilmesi isteklerine ilişkindir.
 
@@ -96,6 +106,8 @@ Hal böyle olunca; çekişme konusu taşınmaza davalının fiili tecavüzü bul
 Davacı vekilinin temyiz itirazları belirtilen sebeplerle yerindedir. Kabulüyle, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/8075 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79538000)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve komşuluk hukukuna aykırılığın giderilmesi isteklerine ilişkindir.
 
@@ -115,6 +127,8 @@ Davalının temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nede
 
 ## Yargıtay 14. HD 2011/7728 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760608900)
+
 Davacı, 2269 ada 28 sayılı parselin maliki olduğunu, taşınmazın yola cephesi bulunduğunu, davalının 28 sayılı parselin bir bölümünde kiracı iken tahliye edildiğini, ancak tahliyeden sonra 28 sayılı parselin yol bölümüne tezgah açarak çiçek sattığını, dolayısıyla taşınmazının yolla bağlantısının kesildiğini, tahliye edilen kısmı üçüncü bir kişiye kiraya veremediğini, ortaya çıkan muarazanın giderilmesini ve tazminat olarak 12.000,00 TL’nin davalıdan tahsiline karar verilmesini talep etmiştir.
 
 Davalı, üzerinde çekişme çıkartılan yerde davacının mülkiyet hakkı bulunmadığını, işgal ettiği bölümün karayollarının yol boşluğu olduğunu, burada kendisi gibi başkalarının da tezgahlarının bulunduğunu, esasen davacı taşınmazının yola cepheli olduğunu, davacının zararına bir eylemi bulunmadığını, davanın reddini savunmuştur.
@@ -131,6 +145,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 8. HD 2011/6803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/575428500)
+
 Davalılar ayrı ayrı davanın reddini savunmuşlardır.
 
 Mahkemece, davanın kısmen kabulüne, buna göre; davalının fırınından çıkan kurum, is, koku ve atık su yönünden müdahalesinin önlenmesine, davacının gürültü yönündeki talebi ve fırının kal'i isteğinin reddine, davalılar ...ve ... adına açılan davanın pasif husumet yokluğu nedeniyle reddine karar verilmiştir.
@@ -140,6 +156,8 @@ Mahkemece, davanın kısmen kabulüne, buna göre; davalının fırınından ç�
 Toplanan deliller, tüm dosya kapsamından; davacının bahçesinin, evinin ve ahırının bulunduğu yerin tapusuz olduğu tartışmasızdır. Eldeki dava TMK.nun 737 ve devamı maddelerine dayalı olarak açılmış komşuluk hukukundan kaynaklanan men ve kal isteğine ilişkindir. Kural olarak bu tür isteklerde davalı tarafın davacıya verdiği ve vermekte olduğu zararların giderilmesi için alınacak önlemlerin uzman bilirkişi raporlarıyla belirlenmesi ve hükümde raporlara atıfta bulunularak karar verilmesi zorunludur. Her ne kadar, mahkemece, belirtilen ve saptanan olumsuzlukların giderilmesi için müdahalenin önlenmesine karar verilmiş ise de, kararın infazına esas alınacak bilirkişi raporuna atıfta bulunulmamıştır. Fakat TMK.nun 713/7.fıkrası uyarınca dosyada mevcut 24.02.2010 tarihli bilirkişiler raporunun karara esas teşkil ettiği sonucuna ulaşılmaktadır.
 
 ## Yargıtay 14. HD 2011/5177 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762315000)
 
 Davacı-davalı, inşa ettiği duvarın davalıya ait 1214 numaralı parsel içerisinde kaldığını belirterek bu kısmın adına tescilini istemiştir.
 
@@ -155,6 +173,8 @@ SONUÇ: Davacı-davalının temyiz itirazlarının yukarıda (1).bentte yazılı
 
 ## Yargıtay 1. HD 2010/10184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/921338200)
+
 Davacılar, paydaşı oldukları 2196 parsel sayılı taşınmaza komşu 2195 parsel maliki davalının komşuluk hukukuna aykırı biçimde ek bina yaptığını, bu nedenle güvenliklerinin ve mahremiyetlerinin ihlal edildiğini ileri sürerek, elatmanın önlenmesi ve yıkım isteminde bulunmuşlardır.
 
 Davalı, komşuluk hukukuna aykırı bir durum bulunmadığını belirterek davanın reddini savunmuştur.
@@ -166,6 +186,8 @@ Davanın kabulüne ilişkin olarak verilen karar Dairece “....davacıların ta
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davacıların temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2010/9611 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78475000)
 
 Davacı,kayden maliki olduğu 12 parsel sayılı taşınmazına komşu 8 parsel maliki davalının iki parsel arasında bulunan boşluğa bakacak şekilde pencere açtığını, üst kata yaptığı balkon ve demirlerin taşınmazına tecavüzlü olduğunu, iki parsel arasındaki boşluğa çöp attığını ileri sürerek elatmanın önlenmesi isteğinde bulunmuştur.
 
@@ -189,6 +211,8 @@ Davalının, bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmü
 
 ## Yargıtay 1. HD 2010/2670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78931300)
+
 Davalı, ruhsat ve projeye aykırılığın idari nitelikte olduğunu, komşuluk hukukuna aykırı bir durum bulunmadığını bildirip, davanın reddini savunmuş, karşı dava ile davacılara ait binalarında proje ve ruhsata aykırı olduğunu, ruhsatların iptali ile elektrik ve suların kesilmesi gerektiğini ileri sürerek, elatmanın önlenmesi ve idareye ihbar isteğinde bulunmuştur.
 
 Mahkemece, davalının imar ve projeye aykırı olarak bina yaptığı gerekçesiyle, asıl davanın kabulüne, karşılık davadaki isteklerin idari nitelikte bulunduğu gerekçesiyle, reddine karar verilmiştir.
@@ -207,6 +231,8 @@ Davalı-karşı davacının, temyiz itirazları yerindedir. Kabulüyle hükmün 
 
 ## Yargıtay 14. HD 2010/2622 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633748300)
+
 Davacı, 9sayılı parsel üzerinde bulunan binada oturmakta olduğunu davalı ve sonradan davaya dahil edilenlerin 8 sayılı parselin malikleri olduğunu, bunlar tarafından yapılan garaj sebebiyle pencerelerinin kapandığını, güneş ışığının engellendiğini ileri sürerek yıkım isteğinde bulunmuştur.
 
 Davalı, orta yerde bir garaj bulunmadığını, bahçeye duvar çekildiğini davacı malik olmadığından dava açamayacağını, davanın reddini savunmuştur.
@@ -223,6 +249,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/7524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844135600)
+
 Anılan kanunun taşınmaz mülkiyet hakkının kısıtlamalarını düzenleyen “komşu hakkı” bölümünde “kullanım biçimi” başlığı altında yer alan 737. maddesi; “Herkes, taşınmaz mülkiyetinden doğan yetkilerini kullanırken ve özellikle işletme faaliyetini sürdürürken, komşularını olumsuz şekilde etkileyecek taşkınlıktan kaçınmakla yükümlüdür. Özellikle; taşınmazın durumuna, niteliğine ve yerel adete göre komşular arasında hoş görülebilecek dereceyi aşan duman, buğu, kurum, toz, koku çıkartarak, gürültü ve sarsıntı yaparak rahatsızlık vermek yasaktır. Yerel adete uygun ve kaçınılmaz taşkınlıklardan doğan denkleştirmeye ilişkin haklar saklıdır” hükmü ile de malike, mülkün kullanılmasında komşuya zarar verecek taşkınlıklardan sakınma ödevi yükleyerek, yasal kısıtlamalardan birisini düzenlemiştir.Taşkınlıktan amaç ise, komşuluğun olağan hoşgörü sınırlarını aşan ve komşunun kendisi ve ailesi ile taşınmazı zararına aşırı derecede etkili olabilecek ... ve eylemlerdir. Bu eylemlerin saptanmasında, taşınmazın bulunduğu yerin kullanma amacının, niteliğinin, konuya ilişkin düzenlemelerin ve yasal boşluk bulunması halinde mahalli örf ve adetlerin göz önünde tutulması gereklidir.
 Bu tür uyuşmazlıkların çözümünde hakim, gerek zararı saptama, gerekse zararı giderici önlemleri bulma yönünden her somut olayın özelliğini gözetmek, tarafların yarar zarar dengelerini değerlendirmek durumundadır.Komşuluk hukukunun öngördüğü sınırları aşan kullanım halinin saptanması halinde ise, mahkemece kurulacak hükümde zararlı davranışın giderim şeklinin ve taraf yükümlülüklerinin açıkça gösterilmesi zorunludur.Bu ilkeler ışığında somut olaya gelince;Davacı vekili, 122 ada 1 parsel A blok 1 nolu bağımsız bölüm maliki olan davalının, 1 nolu bağımsız bölümüne arkadan çıkma yaparak müvekkilinin girişini kısmen kapadığını, ön balkonunu odaya çevirdiğini, evindeki kiriş ve kolonların bazılarını keserek binanın statiğini bozduğunu belirterek davalının proje dışı yaptığı inşaat ve tamiratların kal’ini ve dairenin eski hale getirilmesini istemiştir.
 Mahkemece, dava konusu bağımsız bölümün bulunduğu sitenin plan ve projesi bulunmadığından, projeye aykırılıktan söz edilemeyeceği gerekçesi ile davanın reddine karar verilmiştir.Hükme esas alınan 18.07.2008 tarihli bilirkişiler tarafından hazırlanan raporda; taşınmazın projesi temin edilemediğinden projeye kıyasla tespitinin yapılamadığı, davalının 1 nolu dairenin girişini kapatarak tuvaletini genişlettiği, genişleme sonucu davacıya ait 2 nolu dairenin girişinin kısıtlandığı, 1 nolu dairenin balkonunun kapatılarak yeni girişinin balkondan yapıldığı, mutfak kirişinin olağan uzunluğundan 1.10 m lik bölümünün olmadığı bildirilmiştir. Ancak bilirkişi raporlarında; davalı tarafın evine yapmış olduğu eklentilerin komşuları olumsuz etkileyecek taşkın kullanma sayılıp sayılamayacağı, komşuluğun olağan hoşgörü sınırlarını aşan, komşunun kendisi ve ailesi ile taşınmazı zararına aşırı derecede etkili olabilecek ... ve eylemler olup olmadığı, aşırı kullanmayla zarar arasında illiyetin mevcut olup olmadığı, zarar var ise bu zararın ne şekilde giderilebileceği hususları üzerinde durulmamıştır.
@@ -230,6 +258,8 @@ Mahkemece, dava konusu bağımsız bölümün bulunduğu sitenin plan ve projesi
 Mahkemece yapılması gereken ...; yeniden uzman bilirkişi marifetiyle yukarıda değinilen ilkeler doğrultusunda yeniden keşif yapmak, keşif neticesi tanzim olunan oluşa uygun uzman bilirkişi raporuna göre karar vermeolmalıdır. Değinilen bütün bu yönler bir yana bırakılarak, somut olaya uymayan bilirkişi raporlarına dayalı olarak bazı gerekçelerle davanın reddine karar verilmiş olması doğru olmamış …
 
 ## Yargıtay 1. HD 2009/1222 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78218700)
 
 Davacı, davalı S.tarafından 22 parsel sayılı taşınmaza inşa edilen binanın 3194 Sayılı Yasaya aykırı olduğunu, bu hali ile binanın çıtısındaki karların davacılara ait 5 parsel sayılı taşınmazdaki binaya düştüğünü, ayrıca binanın davacılara ait binanın önünü kapattığını, davacıların bundan zarar gördüğünü ileri sürerek elatmanın önlenmesine karar verilmesini istemiştir.
 
@@ -249,6 +279,8 @@ Davacıların temyiz itirazları yerindedir. Kabulüyle hükmün HUMK.’nun 428
 
 ## Yargıtay 14. HD 2008/5855 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845849800)
+
 Mahkemece, bilirkişinin izdüşüm tecavüzü olarak saptadığı 0.25 cm. genişliğindeki saçak payının kesilerek oluşan haksız elatmanın önlenmesine, dam duvarı üzerine 0.20 metre yükseklikte kalkan duvarı örülerek oluk içerisine alınmak suretiyle ... kullanımın kaldırılmasına karar verilmiştir.
 
 …
@@ -260,6 +292,8 @@ Davadaki istemin dayanağı Türk Medeni Kanunu’nun 683 ve 737. maddeleridir. 
 SONUÇ: Yukarıda açıklanan nedenle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/7449 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854892700)
 
 Dava, mülkiyet hakkına ve komşuluk hukukuna dayanılarak açılmış, elatmanın önlenmesi istemine ilişkindir.
 
@@ -275,6 +309,8 @@ SONUÇ: Yukarıda açıklanan nedenle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/3133 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852914500)
+
 Mahkemece meni müdahale davasının kabulüne kal ile temliken tescil istemlerinin reddine karar verilmiş, hükmü taraflar temyiz etmiştir.
 
 …
@@ -289,6 +325,8 @@ Ancak; davada paydaşlar arasında elatmanın önlenmesi istemi dışında ikinc
 Bu hükümle, Türk Medeni Kanununun 683.maddesiyle taşınmaz malikinin kullanma, yararlanma ve tasarrufta bulunma yetkisine yasal sınırlama getirilmiş, az önce sözü edilen 737. maddenin II.fıkrası komşu taşınmaz malikinin yerel adete göre komşular arasında hoş görülebilecek dereceyi aşan aşırı kullanmasını yasaklamıştır.Bu durumda, mahkemece; yerinde yeniden keşif yapılarak davalı ...'ın paylı mülkiyet rejimine tabi ve paydaşı olduğu taşınmazda tasarruf yetkisini aşırı kullanıp kullanmadığı belirlenmeli, sonradan yaptırdığı merdiven ile komşusu olan davacılara yerel adete göre kendilerine ve taşınmazlarına zarar verip vermediğini açığa kavuşturulmalı imar mevzuatına aykırılıktan dolayı işlem yapılmışsa evrakları idare merciden getirtilmeli ve bundan da yararlanılmalı taşkın kullanmanın varlığı saptanırsa ve bu kullanımın merdivenin yıkımı suretiyle giderilebileceği anlaşılırsa buna hüküm kurulmalıdır. Bu yönler üzerinde durulmadan davanın yazılı şekilde kabulü doğru olmamış, kararın bozulması gerekmiştir.SONUÇ.
 
 ## İstanbul BAM 45. HD 2025/101 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113229900)
 
 Tandoğan Haluk, a.g.e., s.22); "hakkaniyet sorumluluğu-nezaret ve ihtimam gösterme yükümünden doğan sorumluluk-tehlike sorumluğu" şeklinde üçlü ayırım yapanlar da vardır (Tekinay /Akman /Burcuoğlu/ Altop, Tekinay Borçlar Hukuku, Genel Hükümler, B.7, İstanbul 1993, s:498). Kusursuz sorumluluk, genellikle olumsuz bir biçimde sorumlu kişinin kusurunu gerektirmeyen bir sorumluluk olarak tanımlanır..." Kusursuz sorumlulukta illiyet bağının kesilebilmesi için zarar görenin ağır kusurunun olması, üçüncü bir kişinin illiyet bağını kesebilecek nitelikte ağır kusurunun olması veya zararlandırıcı sonucun meydana gelmesinde öngörülmeyen bir halin bulunması şartlarından birini gerçekleşmesi gerekmektedir. 4271 sayılı Türk Medeni Kanunu'nun 683.maddesinde yer alan; "Bir şeye malik olan kimse, hukuk düzeninin sınırları içinde, o şey üzerinde dilediği gibi kullanma, yararlanma ve tasarrufta bulunma yetkisine sahiptir. Malik, malını haksız olarak elinde bulunduran kimseye karşı istihkak davası açabileceği gibi, her türlü haksız elatmanın önlenmesini de dava edebilir" hükmü ile mülkiyet hakkının kanunla toplum yararına kısıtlanabileceği temel ilke olarak kabul edilmiştir.
 Maddenin ikinci fıkrasında, mülkiyet hakkının nasıl korunacağı hükme bağlanmış, Kanun'un 730 ve 737. maddeleriyle de taşınmaz malikinin başkalarına zarar vermesinin önlenmesi hedeflenmiştir. Yapma, kaçınma, katlanma olarak özetlenebilecek bu sınırlamaların önemli bir bölümü TMK'nın "komşu hakkı" başlığı altında, 737 ile 750. maddelerinde düzenlenmiş, 751 ile 761. maddelerinde de yine malikin yapması ve katlanması gereken hususlar belirtilmiştir. TMK'nın 738. maddesiyle, 737. maddeye benzer daha özel bir düzenleme getirilmiştir. Söz konusu madde hükmüne göre "Malik, kazı ve yapı yaparken komşu taşınmazlara, onların topraklarını sarsmak veya tehlikeye düşürmek ya da üzerlerindeki tesisleri etkilemek suretiyle zarar vermekten kaçınmak zorundadır.

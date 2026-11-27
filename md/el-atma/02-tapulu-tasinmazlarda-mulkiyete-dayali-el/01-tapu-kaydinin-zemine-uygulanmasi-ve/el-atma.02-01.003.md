@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2012/7030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/818472700)
+
 Davacı ... dava dilekçesiyle; ... köyü 126 ada 1 nolu mera parseli içerisinde babası ... ... adına tapuda kayıtlı yaklaşık 4.000 m²'lik taşınmazlarının kaldığını, yine kendi adına tesbit edilen 128 ada 15 parselin eksik ölçüldüğünü, eksikliğin 128 ada 29 nolu mera parselinden kaynaklandığını iddia ederek, bu bölümlerin iptali ile murisi ... ... adına tescilini istemiştir. Birleşen dosya davacısı ...; adına tespit edilen 128 ada 12 sayılı parsele yanlışlıkla kadastro sırasında 128 ada 8 nolu parselin tapusunun uygulandığı, bu nedenle yüzölçümünün eksik ölçüldüğü, eksikliğin 128 ada 29 nolu mera parselinden kaynaklandığı, ayrıca; 126 ada 1 nolu mera parseli içerisinde tapulu ve zilyetliklerinde bulunan yaklaşık 9800 m²'lik taşınmazın kaldığı iddiasıyla birleşen davayı açmıştır.
 
 …
@@ -36,6 +38,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; birleşen dosya davacılarının temyi
 
 ## Yargıtay 16. HD 2012/3516 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521936100)
+
 Mahkemece dava konusu 105 ada 10 sayılı parselin kök muris Bekir ...'e ait olduğu üzerindeki evin yıkılarak harap hale geldiği ve küçük bir yer olduğu gerekçesi ile kadastro tespiti sırasında zilyet olan (sahiplik eden) tespit maliki mirasçısı ... adına tesciline karar verilmiş ise de; varılan sonuç, dosya kapsamına uygun bulunmamaktadır.
 
 …
@@ -47,6 +51,8 @@ Keşifte tarafların dayandığı 08.02.1964 tarih ve 17 sıra numaralı tapu ka
 kullanım durumları da değerlendirilmeli; zilyet bulunan şahısların zilyetliğinin tapu kaydındaki pay maliklerinden ... ... adına değil kendi adlarına malik sıfatıyla sürdürüldüğünün anlaşılması halinde bu şahısların dava açıp açmadıkları da nazara alınarak 07.02.1946 tarih 17 sıra numaralı tapu kaydının 3402 sayılı Kadastro Kanunu'nun 13/B-c maddesi gereğince hukuki değerini yitirip yitirmediği araştırılıp değerlendirilmeli; bundan sonra tüm deliller birlikte değerlendirilerek sonucuna göre karar verilmelidir.
 
 ## Yargıtay 1. HD 2012/2592 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79230600)
 
 Davacı, .. parsel sayılı taşınmaz maliki olduğunu, komşu .. parsel maliki olan davalıların taşınmazının önüne 86 adet fidan dikerek evinin önünü kapattıkları gibi taşınmazını da haksız şekilde işgal ettiklerini, bu hususların Büyükçekmece 2. Asliye Hukuk Mahkemesi'nin 2009/378 Değişik İş sayılı dosyasından alınan bilirkişi raporları ile de sabit olduğunu ileri sürerek, elatmanın önlenmesine ve dikilen fidanların sökülmesine karar verilmesini istemiştir.
 
@@ -68,6 +74,8 @@ Davalılar Ü.., H..ve H..'in temyiz itirazları açıklanan nedenlerden ötür�
 
 ## Yargıtay 5. HD 2010/11326 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028315300)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece davalı ... hakkındaki davanın husumetten reddine, davalı ... ve dahili davalı ... yönünden ise davanın kabulüne karar verilmiş, hüküm davalı ... ve dahili davalı ... vekillerince temyiz edilmiştir.
@@ -82,6 +90,8 @@ Davalı ... ve dahili davalı ... vekillerinin temyiz itirazları yerinde olduğ
 
 ## Yargıtay 20. HD 2010/9317 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/823783700)
+
 Mahkemece çekişmeli taşınmazın kesinleşen orman kadastro sınırları dışında kaldığı, tapu kaydının çekişmeli yeri kapsayıp, miktar fazlası olan bölümlerde ise zilyetlik koşullarının oluştuğu kabul edilerek hüküm kurulmuşsa da yapılan inceleme ve araştırma hüküm kurmaya …
 
 …
@@ -94,6 +104,8 @@ Bu nedenle mahkemece serbest orman yüksek mühendisleri arasından seçilecek b
 SONUÇ: Yukarıda açıklanan nedenlerle; Hazinenin temyiz itirazlarının kabulü ile hükmün BOZULMASINA 30/06/2010 günü oybirliği ile karar verildi.
 
 ## Yargıtay 16. HD 2010/7058 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784052800)
 
 Mahkemece; çekişmeli taşınmazların yapılan keşiflerle zilyetlerinin belirlendiği, uygulanan tapu kayıtlarındaki "yol" ve "dere" sınırları dışındaki sınırların tespit edilemediği, dayanak tapu kayıtları uysa bile tapu maliklerinin noter senetleriyle çekişmeli taşınmazları katılanlara sattıkları kabul edilerek yazılı şekilde karar verilmişse de, mahkemece yapılan araştırma, inceleme ve uygulama karar vermeye yeterli bulunmamaktadır. Yargılama sırasında davacılar ... ile ... ve ... tarafından ...
 
@@ -108,6 +120,8 @@ Davacı ...'nin çekişmeli taşınmazlar üzerinde kayden hakkının kalıp kal
 
 ## Yargıtay 20. HD 2010/4755 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/818872600)
+
 Davacı ... Yönetimi, 05.11.2004 tarihli dilekçesiyle, tapuda davalıların murisi adına kayıtlı olan ... Beldesi 4412 sayılı parselin yörede 1744 Sayılı Yasa ile değişik 6831 Sayılı Yasa hükümlerine göre yapılan orman kadastrosu sınırları içinde bırakıldığı halde, yörede 1990 yılında 43 numaralı orman kadastro komisyonunca yapılan aplikasyon ve Orman kadastrosu sırasında yeni orman sınırları berilenmişse de, 43 numaralı orman kadastrosu komisyonunca yapılan bu çalışmanın yasal olmadığı, çekişmeli taşınmaz orman kadastrosu sınırları içinde olduğu halde, davalılar murisi adına kadastro tesbitinin kesinleşmesi suretiyle yolsuz olarak oluşan tapu kaydının iptalini ve orman niteliğiyle tapuya tescilini, davalıların elatmasının önlenmesini istemiştir.
 
 …
@@ -121,6 +135,8 @@ içinde bırakılmış, 1982 yılında yapılan arazi kadastrosunda ise taşınm
 934 - İsviçre 976) maddesi gereğince sicilin hiç bir süreye bağlı kalmadan her zaman iptal edileceği, somut olayda 3402 Sayılı Yasanın 12/3. maddesi hükümlerinin uygulanma olanağının da bulunmadığı, baştan beri yolsuz tescil niteliğinde oluşturulan sicil kaydının, davalıya hiç bir zaman mülkiyet ... kazandırmayacağı ve başlangıcından itibaren yolsuz ve geçersiz olan tapu kaydının iptaline ilişkin mahkeme kararının yenilik doğuran (inşai) mülkiyet hakkını sona erdiren bir hüküm olmayıp, mevcut durumu saptayıp hukuksallaştıran, açıklayıcı (ihzari), başka bir anlatımla; sicilin oluştuğu tarihten itibaren mülkiyet hakkının doğmadığını, sicilin yolsuz ve geçersiz olduğunu belirleyen bir hüküm olduğu, bu tür kayıtlarda T.M.Y.'nın 1023. (E.M.Y.931 - İsviçre M.Y.974) maddesindeki "iyi niyetle edinme" kuralının da uygulanamayacağı, davalıların elatması bulunmadığı, kaldı ki tapu kaydı iptal edilene kadar murisleri adına tapuda kayıtlı taşınmaza haksız olarak el attıklarından söz edilemeyeceği gözetilerek bu istemin reddine ve tapu kaydının iptaline karar verilmesinde bir isabetsizlik bulunmadığına göre, davacı ...
 
 ## Yargıtay 14. HD 2009/5791 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842471100)
 
 Davacı, maliki olduğu 3281 parsel sayılı taşınmazının 410 metrekarelik kısmını tel örgü ile çevirmek, dam ve ahır yapmak suretiyle davalı tarafından haksız olarak kullandığının ... 1.Sulh Hukuk Mahkemesi’nin 2007/131-131 D.... sayılı dosyası ile belirlendiğini ileri sürerek elatmanın önlenmesini, bina ve tel örgünün kal’ini istemiştir.
 
@@ -144,6 +160,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin ve davalı vekilinin 
 
 ## Yargıtay 20. HD 2008/9638 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/895948300)
+
 Mahkemece taşınmazın yukarıda sözü edilen ... bilirkişi ve ... bilirkişisi ... ...’nin raporunda (A) ve (B) harfleri ile gösterilen bölümlerinin kesinleşen ... kadastro sınırları içinde; geriye kalan ve (C) harfi ile gösterilen 13017m2 yüzölçümlü bölümünün ... kadastro sınırları dışında kaldığı kabul edilerek hüküm kurulmuşsa da yörede yapıldığı bildirilen ... kadastrosuna ait işe başlama, çalışma, işi bitirme ve sonuçlarının askı ilan tutanakları ile taşınmazın bulunduğu yeri ... tahdit sınır noktalarıyla birlikte gösterir onaylı ... tahdit harita örneği dosyaya getirtilmediğinden bilirkişi raporu denetlenemediği gibi tahdidin kesinleşip kesinleşmediği dahi anlaşılamamaktadır.
 
 …
@@ -157,6 +175,8 @@ saptanmalıdır. Taşınmazın ... sayılmayan yerlerden olduğunun belirlenmesi
 Yukarıda 2. bentte açıklanan nedenlerle ... Yönetimi ve Hazinenin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2008/8528 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846687600)
 
 Dava, davacılar kendilerine murislerinden kalan 130 ada 6 parsel sayılı taşınmaza davalıya ait 130 ada 31 parsel sayılı taşınmazın yaptırdıkları tespite göre, tecavüzlü olduğunu, kendi taşınmazlarının tapu kaydında yazılı miktardan az olduğunu belirterek davalının vaki müdahalesinin önlenmesi ve taşınmazlarındaki eksikliğin giderilmesi istemine ilişkindir.
 

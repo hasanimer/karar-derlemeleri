@@ -20,30 +20,44 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152345000)
+
 Terekeye ait haklar üzerinde tasarruf söz konusu ise ortakların oybirliği ile karar vermeleri maddenin açık hükmü gereği olduğundan tasarruf işlemi niteliğindeki tapu iptali ve tescil davasının tüm mirasçılar tarafından birlikte açılması veya terekeye temsilci atanması ve bu yolla davanın yürütülmesi gerekir. Bir mirasçı tüm mirasçılar adına tek başına dava açabilirse de, böyle bir davayı yalnız başına yürütemez. Bu durumda davanın hemen reddedilmeyip, diğer mirasçıların davaya katılımlarının veya muvafakatlerinin sağlanması ya da terekeye temsilci atanması için davacıya uygun süre verilmesi gerekmektedir.
 
 ## Yargıtay HGK 2022/795 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794385000)
+
 Türk Medeni Kanunu’nun 702/2. maddesinde sözü edilen terekeye ait haklar üzerinde tasarruf söz konusu ise ortakların oy birliği ile karar vermeleri, maddenin açık hükmü gereği olduğundan, tasarruf işlemi niteliğindeki tapu iptali ve tescil davasının tüm mirasçılar tarafından birlikte açılması veya terekeye temsilci atanması ve bu yolla davanın yürütülmesi gerekir. Bir mirasçı tüm mirasçılar adına tek başına dava açabilirse de, böyle bir davayı yalnız başına yürütemez. Bu durumda davanın hemen reddedilmeyip, diğer mirasçıların davaya katılımlarının veya muvafakatlerinin sağlanması ya da terekeye temsilci atanması için davacıya uygun süre verilmesi gerekmektedir.
 
 ## Yargıtay HGK 2022/577 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784833000)
 
 Gerek Yargıtay içtihatlarında gerekse doktrinde önalım hakkını kullanan davacının dayandığı pay el birliği mülkiyetine tabi ise kural olarak önalım davasının da mirasçılar tarafından birlikte açılması gerektiği, ancak tek mirasçının açtığı davanın hemen reddine karar verilmesinin doğru olmadığı, bu durumda diğer mirasçıların davaya katılmaları ya da açılmış davaya muvafakat vermeleri için gerekli imkânın tanınması; davaya muvafakatin de dava açan ortak dışındaki mirasçıların duruşmaya gelip bu konuda beyanda bulunmaları ya da imzaları noterce onaylanmış muvafakat belgesi sunmaları ya da dava vekil aracılığıyla açılıp takip ediliyorsa aynı avukata vekâletname vermeleri suretiyle sağlanabileceği, aksi hâlde davacıya görevli mahkemede TMK’nın 640. maddesi uyarınca terekeye temsilci atanması yönünde görev verilmesi, terekeye temsilci atandığı takdirde davanın tereke temsilcisi huzuruyla görülmesi gerektiği, davanın kabulü hâlinde de önalım hakkına konu payın davayı açan ortak adına değil tereke adına tescilinin gerekeceği, ancak davayı açan ortak dışında kalan tüm mirasçıların şufalı payın davayı açan ortak adına tesciline muvafakat edebilecekleri vurgulanmaktadır.
 Nitekim Mustafa Reşit Karahasan’ın Türk Eşya Hukuku kitabında da yukarıdaki şekilde hareket edilmesi gereği “...Çünkü, önalım hakkının belirli bir sürede kullanma zorunluluğu olduğu için, burada ivedilik durumu söz konusudur” şeklinde açıklamıştır (1991, sh. 139).
 
 ## Yargıtay HGK 2021/262 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685739100)
+
 TMK'nın 702/4. maddesinde “...ortaklardan her biri, topluluğa giren hakların korunmasını sağlayabilir. Bu korumadan bütün ortaklar yararlanır...” hükmü öngörülmüştür. Benzer şekilde TMK'nın 640. maddesinde de vurgulanan korumadan anlaşılması gerekenin ne olduğu da önem arz etmektedir. 4721 sayılı TMK'nın yürürlüğe girmesinden önce elbirliği ile (iştirak hâlinde) mülkiyet 743 sayılı Türk Kanunu Medenisi’nin 581. maddesinde düzenlenmişti. Ancak uygulamada karşılaşılan bazı güçlüklerin giderilmesi için yeni düzenlemede TMK'nın 640. maddesine “Mirasçılardan her biri, terekedeki hakların korunmasını isteyebilir. Sağlanan korumadan mirasçıların hepsi yararlanır” hükmünü içeren dördüncü fıkra eklenmiştir. Maddenin gerekçesinde de belirtildiği gibi, mirasta terekenin tâbi olduğu elbirliği mülkiyetine yöneltilen en güçlü eleştiri, birlikte hareket etme zorunda olmaları nedeniyle mirasçıların bireysel olarak terekedeki hakların korunması amacıyla hareket edememeleriydi. Maddeye eklenen dördüncü fıkra, bu eksikliği giderme amacına yönelik olarak getirilmiştir.
 
 ## Yargıtay HGK 2016/958 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/247571300)
 
 Terekeye ait haklar üzerinde tasarruf söz konusu ise ortakların oybirliği ile karar vermeleri TMK'nun 702/2. maddesinin açık hükmü gereği olduğundan, tasarruf işlemi niteliğindeki tapu iptali ve tescil davasının tüm mirasçılar tarafından birlikte açılması veya terekeye temsilci atanması ve bu yolla davanın yürütülmesi gerekir. Ancak, bir mirasçı tüm mirasçılar adına tek başına dava açabilirse de, böyle bir davayı yalnız başına yürütemez. Bu durumda davanın hemen reddedilmeyip, diğer mirasçıların davaya katılımlarının veya muvafakatlerinin sağlanması ya da terekeye temsilci atanması için davacıya uygun süre verilmesi gerekmektedir.
 
 ## Yargıtay HGK 2013/391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/86656700)
+
 4721 sayılı Türk Medeni Kanunu yürürlüğe girmeden önce elbirliği ile mülkiyet 743 sayılı Türk Kanunu Medenisi’nin 581.maddesinde düzenlenmişti. Ancak uygulamada karşılaşılan bazı güçlüklerin giderilmesi için 4721 sayıl Türk Medeni Kanununun 640.maddesine dördüncü fıkra eklenmiştir. Maddenin gerekçesinde de belirtildiği gibi, mirasta terekenin tabi olduğu elbirliği mülkiyetine yöneltilen en güçlü eleştiri, birlikte hareket etme zorunda olmaları nedeniyle mirasçıların bireysel olarak terekedeki hakların korunması amacıyla hareket edememeleriydi. Maddeye eklenen dördüncü fıkra, bu eksikliği giderme amacına yönelik olarak getirilmiştir.
 
 ## Yargıtay HGK 2010/80 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76703500)
 
 4721 sayılı Türk Medeni Kanunu yürürlüğe girmeden önce elbirliği ile (iştirak halinde) mülkiyet 743 sayılı Türk Kanunu Medenisi’nin 581. maddesinde düzenlenmişti. Ancak uygulamada karşılaşılan bazı güçlüklerin giderilmesi için yeni düzenlemede Medeni Kanunun 640. maddesine “Mirasçılardan her biri, terekedeki hakların korunmasını isteyebilir. Sağlanan korumadan mirasçıların hepsi yararlanır” hükmünü içeren dördüncü fıkra eklenmiştir. Maddenin gerekçesinde de belirtildiği gibi, mirasta terekenin tabi olduğu elbirliği mülkiyetine yöneltilen en güçlü eleştiri, birlikte hareket etme zorunda olmaları nedeniyle mirasçıların bireysel olarak terekedeki hakların korunması amacıyla hareket edememeleriydi. Maddeye eklenen dördüncü fıkra, bu eksikliği giderme amacına yönelik olarak getirilmiştir.
 
@@ -53,32 +67,46 @@ Terekeye ait haklar üzerinde tasarruf söz konusu ise ortakların oybirliği il
 
 ## Yargıtay 3. HD 2025/1033 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152839500)
+
 Elbirliği mülkiyeti gereği miras yoluyla terekeye dahil olan varlıklar ile ilgili mirasçıların bir kısmı tarafından dava açılması halinde, mirasçılar kendi açtıkları bu davayı yalnız başına yürütemeyeceğinden davanın bütün mirasçılar ile birlikte yürütülmesi gerekir. Bu durumda mahkemece, açılan işbu davanın görülebilmesi için diğer mirasçıların davaya katılmalarının veya muvafakatlarının sağlanması veya 4721 sayılı Kanun'un 640. maddesinin üçüncü fıkrası gereğince terekeye temsilci tayin ettirmesi için davacılara uygun bir süre verilmesi gerekir.
 
 ## Yargıtay 8. HD 2023/5023 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979997100)
 
 Kural alarak; el birliği mülkiyeti hükümlerine tabi bulunan bir terekede, terekeye ilişkin tüm tasarruf işlemlerinin, 4721 ... Kanun'un 640 ıncı ve 702 nci maddeleri gereği, tüm mirasçılar tarafından birlikte yapılması zorunludur. Dava da, bir tasarrufi işlem niteliğinde olduğundan, tüm mirasçıların davayı birlikte açması zorunludur. Her ne kadar, bir mirasçı acele hallerde miras şirketinin menfaatini korumak için bütün mirasçılar adına tek başına dava açabilecekse bile, davacı mirasçı, kendi açtığı böyle bir davayı tek başına yürütemez. Bu gibi hallerde, diğer mirasçıların da davaya katılımlarının sağlanması, muvafakatlerinin alınması veya terekeye temsilci tayin ettirilmesi suretiyle dava yürütülmesi gerekir. Öte yandan bir mirasçının, terekeye ait bir mal, hak veya alacaktan yalnızca kendi payına düşen kısım için dava açması halinde ise, el birliği mülkiyeti hükümlerine tabi payı üzerinde dahi, tek başına tasarrufta bulunmak yetkisi bulunmadığından davanın reddi gerekir.
 Nitekim böyle bir dava, diğer mirasçıların paylarını kapsamadığı gibi; onlar adına da açılmadığından, açılmış bu davaya sonradan diğer mirasçıların katılmasına (icazet vermesine) veya onlar adına atanacak bir tereke temsilcisinin, bir mirasçının yalnızca kendi payına yönelik açtığı davaya katılmak suretiyle davayı sürdürmesine olanak yoktur.
 
 ## Yargıtay 6. HD 2023/2755 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/971760000)
+
 Mirasbırakanın ölüm tarihi itibariyle terekesi elbirliği mülkiyetine tabidir. Bilindiği üzere; elbirliği (iştirak) halinde mülkiyet, yasa veya yasada belirtilen sözleşmeler uyarınca aralarında ortaklık bağı bulunan kişilerin, bu ortaklık nedeniyle bir mala veya hakka birlikte malik olma durumudur. 4721 sayılı Türk Medeni Kanununun (TMK) 701 ila 703 maddelerinde düzenlenen bu tür mülkiyetin (ortaklığın) tüzel kişiliği olmadığı gibi eşya üzerinde ortaklardan her birinin doğrudan doğruya bir hakkı da yoktur. Mülkiyet bir bütün olarak ortaklardan tümüne aittir. Başka bir anlatımla ortaklık tasfiye oluncaya kadar ortaklardan birinin ayrı mal veya hak sahipliği bulunmayıp, hak sahibi ortaklıktır. Bir ya da bir kısım mirasçının, terekeye ait bir mal, hak veya alacaktan tereke adına hareket etmeksizin yalnız kendi payına düşen kısım için dava açması halinde mirasçıların iştirak halindeki payları üzerinde tasarrufta bulunmak yetkisi bulunmadığından davanın reddi gerekir.
 Böyle bir dava, diğer mirasçıların da paylarını kapsamadığından ve aynı zamanda onlar adına da açılmadığından, davaya diğer mirasçıların katılmasına (icazet vermesine) ve tereke temsilcisinin de, bir mirasçının yalnız kendi payı için açtığı davaya icazet verip davayı devam ettirmesine olanak yoktur.
 
 ## Yargıtay 14. HD 2020/169 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/575766100)
+
 Satış vaadi sözleşmesine dayalı tapu iptali ve tescil davalarında, davacının dayandığı pay elbirliği mülkiyetine konu ise tüm ortakların birlikte dava açması veya birinin açtığı davaya diğerlerinin muvafakat etmesi gerekir. Çünkü bu gibi hallerde 11.10.1982 tarihli ve 3/2 sayılı Yargıtay İçtihadı Birleştirme Kararı uyarınca davanın tereke adına açıldığının kabulü gerekir. Davaya muvafakat, duruşmaya gelip bu konuda beyanda bulunmakla veya imzası noterce onaylı muvafakat belgesi ibraz edilmesi suretiyle yahut davacı adına davayı takip eden avukata vekalet verilmesi ile sağlanabilir. Bu yolda ortakların tümünün muvafakati sağlanamazsa Türk Medeni Kanununun 640. maddesi hükmü uyarınca murisin terekesine görevli mahkemede temsilci atanması için davacıya süre verilir. Temsilci davacı dışında biri olursa davacının sıfatı sona ereceğinden davayı temsilci takip eder. Dava hakkına ilişkin olan bu hususun hakim tarafından kendiliğinden öncelikle nazara alınması gerekir.
 
 ## Yargıtay 14. HD 2019/1253 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486343200)
 
 TMK'nin 701. maddesine göre; "kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolasıyla mallara birlikte malik olanların mülkiyeti elbirliği mülkiyetidir." Elbirliği mülkiyetinde mirasçıların tereke malları üzerinde belli pay veya payları olmayıp hakları taşınmazın tamamı üzerine yayılmış olup, terekenin tamamını kapsar. Elbirliği halinde mülkiyetin bu özelliği itibariyle ortaklar arasında zorunlu dava arkadaşlığı bulunmaktadır. Aynı kanunun 702. maddesinde topluluk devam ettiği sürece tasarrufi işlemlerde tüm ortakların oybirliğiyle karar vermeleri gerektiği belirtilmiştir. Tapu malikinin vefat etmiş olduğu durumlarda açılarak tapu iptali ve tescil davasının elbirliği halinde malik olan tüm mirasçılara yöneltilmesi gerekir.
 
 ## Yargıtay 16. HD 2014/12082 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106159300)
+
 4721 sayılı Türk Medeni Kanunu'nun 640. maddesi uyarınca, mirasçılar arasında elbirliği mülkiyet hükümleri geçerli olup ortaklar arasında zorunlu dava arkadaşlığı vardır. Bu nedenle, miras yoluyla gelen hakka dayanılarak genel mahkemelerde açılacak davalarda, tüm mirasçıların birlikte dava açmaları veya diğer mirasçıların muvafakatlerini almaları ya da miras şirketine temsilci tayin ettirmeleri gereklidir. Ancak, bu kural bir mirasçının terekeye tabi bir taşınmaz için üçüncü kişiye karşı açacağı davalarda geçerli olup, elbirliği mülkiyet hükümlerine tabi taşınmazlarda mirasçıların birbirleri aleyhine tek başına miras payının iptaline ilişkin dava açmaları durumunda oybirliği aranmaz. (HGK'nın 23.10.1996 tarih 1996/522 Esas, 1996/713 Karar). Bu ilke TMK'nın 701 ve 702. maddelerindeki kuralın istisnasını oluşturmaktadır. Somut olayda; davacılar, çekişmeli taşınmazların murisleri Necati Arslan'dan kaldığını, mirasçılar arasında taksim olmadığını ileri sürerek miras paylarının adlarına tescili istemiyle diğer bir mirasçı olan davalılar aleyhine dava açmışlardır.
 Yukarıda açıklandığı üzere mirasçılar arasında miras payına yönelik olarak açılan davalarda mirasçılar arasında zorunlu dava arkadaşlığı aranmaz. Hal böyle olunca; mahkemece, davanın esasına ilişkin araştırma ve inceleme yapılarak sonucuna göre karar verilmesi gerekirken, bu yön gözetilmeksizin TMK'nın 702/2. maddesi gereği terekeye ait mal için tüm mirasçıların birlikte dava açmaları gerektiği gerekçesi ile davanın reddine karar verilmesi isabetsiz olup, temyiz itirazları açıklanan nedenlerle yerinde bulunduğundan kabulüyle hükmün BOZULMASINA, peşin yatırılan temyiz karar harcının talep halinde temyiz edenlere iadesine, 30.10.2014 gününde…
 
 ## Yargıtay 16. HD 2013/1509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522756900)
 
 Elbirliği halinde mülkiyet hükümlerine tabi bulunan bir terekede, terekeye ilişkin tüm tasarruf işlemlerinin, 4721 sayılı Türk Medeni Kanunu'nun 640 ve 702. maddeleri uyarınca, tüm mirasçılar tarafından birlikte yapılması zorunlu olup, tasarrufi işlem niteliğindeki davanın da tüm mirasçılar tarafından birlikte açılması gerekir. Bir mirasçının, özellikle acele hallerde miras şirketinin menfaatini korumak için, bütün mirasçılar adına, yalnız başına dava açması mümkün ise de, bu şekilde açılan bir dava tüm mirasçıların katılımı sağlanmadan yürütemez. Bu halde, diğer mirasçıların da davaya katılımalarının sağlanması, muvafakatlerinin alınması veya terekeye temsilci tayin ettirilmesi gerekir. Öte yandan, bir ya da bir kısım mirasçının, terekeye ait bir mal, hak veya alacaktan yalnız kendi payına düşen kısım için dava açması halinde, mirasçıların iştirak halindeki payları üzerinde tasarrufta bulunmak yetkisi bulunmadığından davanın reddi gerekir.
 Böyle bir dava, diğer mirasçıların da paylarını kapsamadığından ve aynı zamanda onlar adına da açılmadığından, davaya diğer mirasçıların katılmasına (icazet vermesine) ve tereke temsilcisinin de, bir mirasçının yalnız kendi payı için açtığı davaya icazet vererek davayı devam ettirmesine olanak yoktur.

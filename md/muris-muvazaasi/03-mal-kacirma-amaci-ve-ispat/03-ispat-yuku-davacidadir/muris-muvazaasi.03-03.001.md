@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/540 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919367000)
+
 Öte yandan, muvazaa iddiasına dayalı davalarda mirasbırakanın kastının açık bir şekilde saptanması gerekmektedir. Bu kapsamda, 6100 sayılı Hukuk Muhakemeleri Kanununun (HMK) 190. maddesi ile TMK'nin 6. maddesi uyarınca herkes iddiasını ispatla mükelleftir. Bir başka ifade ile **temlikin mirasçılardan mal kaçırma amaçlı olduğunu ispat külfeti davacı tarafa aittir**.

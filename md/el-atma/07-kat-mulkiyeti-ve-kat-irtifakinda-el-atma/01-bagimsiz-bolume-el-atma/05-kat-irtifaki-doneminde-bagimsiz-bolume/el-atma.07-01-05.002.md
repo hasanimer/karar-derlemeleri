@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2014/16930 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107182700)
+
 Davacı vekili dava dilekçesinde, davalı tarafın anataşınmazda projeye aykırı olarak yaptığı değişikliklerin ve işyerine çevrilen meskenin eski hale getirilmesini istemiş, mahkemece davanın kabulüne karar verilmiştir.
 
 …
@@ -32,6 +34,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 15. HD 2014/3252 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105790800)
+
 Dairemizin yerleşik içtihatlarında gösterildiği üzere, kat mülkiyeti veya kat irtifakının kurulmadığı ancak fiili olarak bağımsız bölümlerin oluştuğu taşınmazlarda, tapu iptali ve tescil isteminde bulunulması halinde, bilirkişilerden rapor alınarak, kat irtifakı kurulmasına esas teşkil edecek şekilde bağımsız bölümlerin arsa payları ve bu bağımsız bölümlerle irtifak paylarının bağlantısı belirlenmeli, böylelikle tarafların hak ettiği arsa paylarının bağımsız bölümlerle irtibatları da gösterilmek suretiyle infazı kabil olacak şekilde arsa payları üzerinden tescil kararı verilmesi gerekir. Oysaki, yukarıda gösterildiği üzere, mahkemece kat irtifakı kurulmadığı halde bağımsız bölüm numaraları gösterilmek suretiyle tescil ve teslime karar verildiğinden, karar infaza elverişli nitelikte bir karar olmamış ve bu yönden bozulması gerekmiştir.
 
 …
@@ -39,6 +43,8 @@ Dairemizin yerleşik içtihatlarında gösterildiği üzere, kat mülkiyeti veya
 SONUÇ:Yukarıda açıklanan nedenlerle davalı R.. K.. vekilinin karar düzeltme talebinin kabulüne, Dairemizin 22.05.2013 Tarih, 2013/200 Esas ve 2013/3283 Karar sayılı onama ilamının kaldırılmasına …
 
 ## Yargıtay 18. HD 2014/2614 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106613400)
 
 Davacı vekili dava dilekçesinde, müvekkilinin dava konusu anataşınmazda 14 ve 15 numaralı bağımsız bölümlerin maliki olduğunu, davalıların proje taditalı yapmadan ve diğer kat maliklerinin iznini almadan bodrum katlarda yer alan sığınakları yıkıp merdiven boşlukları ile birlikte kendi dükkanlarına kattıklarını ileri sürerek, davalıların yaptıkları müdahalenin önlenmesi ve eski hale getirilmesini istemiş, mahkemece davanın kısmen kabulüne karar verilmiştir.
 
@@ -53,11 +59,15 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 1. HD 2014/1096 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/95912700)
+
 O halde, davalı tarafından açılan davanın eldeki bu dava bakımından bekletici sorun kabul edilerek neticesinin beklenmesi, anılan davanın reddi halinde 24.09.2009 tarihinde tesis edilen kat irtifakına itibar edilmesi ve paylı mülkiyete tabi taşınmazların kiraya verilmesinin TMK'nın 691. maddesi ve 06.05.1955 tarih 12/18 sayılı İçtihadı Birleştirme kararı uyarınca pay ve paydaş çoğunluğunun sağlanmasına bağlı olduğu, somut olayda, çekişmeli bağımsız bölümlerin davalı tarafından kiraya verildiği, pay ve paydaş çoğunluğu sağlanmadığından geçerli bir kira ilişkisinin kurulmadığı gözetilerek, 2 nolu dükkan yönünden kat irtifakının kurulduğu 24.9.2009 tarihinden, 5-17-18 nolu meskenler yönünden ise davalı tarafından üçüncü kişilere kiraya verildiği 1.5.2010 tarihinden dava tarihine kadar olan dönem için belirlenecek miktardan, davacının payı oranında ecrimisile hükmedilmesi , aksi halde ise toplanan delillerin o dava sonucunda verilecek karar ile birlikte değerlendirilerek oluşacak sonuca göre bir karar verilmesi gerekirken, yazılı olduğu üzere karar verilmiş olması doğru değildir.
 
 Anılan bu husus davalı vekilinin karar düzeltme isteği sonucu yeniden yapılan inceleme neticesinde anlaşıldığından, karar düzeltme isteğinin HUMK'nin 440. maddesi gereğince kabulüyle, Dairenin 30.04.2013 tarihli, 2013/2969 Esas, 2013/ 6439 Karar sayılı bozma kararının ortadan kaldırılmasına …
 
 ## Yargıtay 1. HD 2013/16200 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254730500)
 
 Davacılar; kat irtifakı kurulu 941 ada 164 parselde bulunan 500 araçlık otoparkta davalı şirket ve dava dışı kişilerle paylı mülkiyet üzere malik olduklarını, otoparkın arsa karşılığı yüklenicisi de olan davalı ile 01.05.2001 tarihinde yaptıkları kira sözleşmesinin 30.04.2006 tarihi itibariyle sona erdiği halde 01.05.2006 tarihinden asıl ve birleşen dosyaların dava tarihlerine kadar olan sürede otoparkın tamamını davalının kullandığını, kendilerinin kullanmalarına engel olunduğu gibi elde edilen gelirden de pay vermediğini ileri sürerek fazlaya ilişkin haklarını saklı tutmak suretiyle ... için 17.820 TL, ... için 9900 TL, ... ve ... için 10.000'er TL ecrimisil isteğinde bulunmuşlardır. Daha sonra 06.05.2010 tarihli ıslah dilekçesi ile ecrimisil isteklerini sırasıyla 27.227, - 15.126,30 - 19.855,50 – 19.855,50 .-TL olarak artırmışlardır.
 
@@ -73,6 +83,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 18. HD 2013/8326 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798246600)
+
 Davacı vekili dava dilekçesinde, davalının apartmanın ortak yerlerinden olan bahçe zeminine beton dökmek suretiyle balkonunu genişlettiğini, genişletilen balkonun üzerini de sabit çatı ile kapatarak ortak alana tecavüz ettiğini, dava konusu dairenin apatman içinden olan giriş kapısının kapatılarak balkondan giriş açılmak suretiyle onaylı projeyeye aykırı yapılaşma gerçekleştirildiğini ileri sürerek, davalının ortak alana müdahalesinin önlenmesine, mimari projeye uygunluğun sağlanmasını ve aykırılıkların kâl'ine karar verilmesini istemiş, mahkemece dava konusu bağımsız bölümün sonradan kapatılan giriş kapısının açılarak eski hale getirilmesine, davacının diğer taleplerinin reddine karar verilmiştir.
 
 …
@@ -84,9 +96,13 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 23. HD 2013/7737 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525900800)
+
 Yargıtay ilamında belirtilen gerektirici sebeplere ve özellikle noter onaylı kat irtifak listesinde arsa sahibi mirasçısı davacı ...’e verilen 23 numaralı bağımsız bölümün arsa payına dayalı olup, davalı kooperatifçe temyiz aşamasında sunulan dava dışı...’nın kooperatif üyesi olduğunun tespitine ilişkin ilamın, hisse devir sözleşmesine dayanmasına ve anılan ilam yargılama sırasında sunulsa dahi sonuca etkili olmayacağının tabii bulunmasına göre, asıl ve birleşen davalarda davalı kooperatif vekilinin HUMK'nın 440. maddesinde sayılan hallerden hiçbirisine uymayan karar düzeltme itirazlarının reddi gerekmiştir.
 
 ## Yargıtay 1. HD 2012/14477 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79518000)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteğine ilişkin olup,Mahkemece, iddianın kanıtlanamadığı gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -95,6 +111,8 @@ Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteğine ilişkin
 Hal böyle olunca, uzman bilirkişiler aracılığıyla yerinde yeniden keşif yapılması, taşınmazın kat irtifakına esas mimari projesinin zemine uygulanması, davacının kayden maliki olduğu çekişmeli 6 nolu bağımsız bölümün yerinin belirlenmesi ve taraf tanıklarının keşif mahallinde dinlenerek çekişmeli 6 nolu bağımsız bölümün davalının kullanımında olup olmadığının açıklığa kavuşturulması, tespit yapılan bağımsız bölüm ile eldeki davada keşfi yapılan bağımsız bölümün aynı yer olup olmadığının kuşkuya yer vermeyecek şekilde saptanması,varılacak sonuç çerçevesinde bir karar verilmesi gerekirken eksik soruşturmaya dayalı olarak yazılı olduğu üzere karar verilmiş olması doğru değildir. Davacı vekilinin temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA,alınan peşin harcın temyiz edene geri verilmesine, 5.12.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 18. HD 2012/7275 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797694100)
 
 Davacılar vekili dava dilekçesinde, anayapının üzerinde çatı bulunmaması nedeniyle sızan sulardan üst kattaki bağımsız bölümün zarar gördüğünü, bu nedenle davacıların zorunlu olarak çatı yaptırdığını ileri sürerek, çatı yapım giderinden davalıların arsa paylarına göre hisselerine düşen miktarın tahsilini istemiş, mahkemece bu istemin kabulüne; davalı- karşı davacılar vekili ise cevap ve karşı dava dilekçesinde, davanın reddi ile onaylı mimari projeye aykırı yapılan çatının kal'ine, bu mümkün olmaz ise daha ucuz bir yöntem ile çatı izolasyonu yapım bedelinin tespitini istemiş, mahkemece bu istemin reddine karar verilmiştir.
 
@@ -106,6 +124,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 8. HD 2011/2973 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/45345800)
+
 Dava konusu 879 parselde kayıtlı 60/71560 arsa paylı C 3 blok, A/8 kat 652 numaralı bağımsız bölüm kat mülkiyeti kurulmak suretiyle 27.08.1998 tarihinde Fevziye adına tescil edilmiştir. Öncesinde kat irtifaklı olarak S.S. B …
 
 Konut Yapı Kooperatifi ve hissedarları adına kayıtlı iken 634 sayılı Kanun gereğince kat mülkiyetinin oluşturulduğu belirlenmiştir. Bilindiği üzere ve kural olarak, taraflar arasındaki evlilik birliği kesinleşen ilamla sona erdiğine göre; taşınmaz kaydı üzerinde olmayan kişi o yerde oturmaya devam ederse haksız işgalci olacağı kuşkusuzdur. Rızanın geri alındığı tarih ise ihtarnamenin tebliğ edildiği ya da davanın açıldığı gündür. O tarihten itibaren işgalciden ecrimisil ya da haksız işgal tazminatı alınacağı kuşkusuzdur. Mahkemece bu konuda yanılgıya düşülmüş ise de, asıl dava temyize gelmediğinden bu husus bozma nedeni yapılmamıştır.
@@ -115,6 +135,8 @@ Konut Yapı Kooperatifi ve hissedarları adına kayıtlı iken 634 sayılı Kanu
 Yukarıda açıklanan nedenlerle yerinde görülen davalı-birleşen davanın davacısı Osman vekilinin temyiz itirazlarının kabulü ile asıl davada avukatlık ücretine ilişkin, birleşen davanın ise esasına yönelik bölümleri yönünden hükmün HUMK’nın 428. maddesi uyarınca (BOZULMASINA) ve 817 …
 
 ## Yargıtay 1. HD 2011/2670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78691400)
 
 Davacı, kat irtifakı kurulu 6 bağımsız bölüm numaralı dubleks meskenin kendisine, 5, 12 ve 13 bağımsız bölüm numaralı dubleks meskenlerin ise davalı adına kayıtlı olduğunu, davalının yasal mevzuata ve yönetim planına aykırı olarak sözkonusu bağımsız bölümlerini tasdikli projeye aykırı olarak büyük inşa ederek ve eklentiler yaparak ortak yerlere elattığı gibi, binalarının dış görüntüsünü bozacak şekilde imalatlar yaptığını ileri sürerek, elatmanın önlenmesi ve yıkım isteğinde bulunmuştur.
 
@@ -135,6 +157,8 @@ Bilindiği üzere; kat irtifakı ve kat irtifak sahibi 634 Sayılı Yasanın 2/C
 Davacı vekilinin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerle HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/3890 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79384800)
 
 Davacı, 163 ada 21 parsel sayılı taşınmazdaki 14 nolu bağımsız bölümü 23.02.2006 tarihinde satın aldığını, ancak daireyi görmek için gittiğinde 13 adet bağımsız bölümün olup, 1,2 ve 3 nolu bağımsız bölümlerin bodrum katta olması gerekirken, bodrum katın otopark amaçlı ve boş olduğunu, oysa projede 15 adet adet bağımsız bölümün mevcut olduğunu, kendisine ait bağımsız bölümün 12 ve 13 nolu dairelerin maliki olan davalılar tarafından işgal edildiğini ileri sürerek, el atmanın önlenmesi ve ecrimisil istemiş, yargılama sırasında ıslah ile 12 nolu bağımsız bölümün tamamının, 13 nolu bağımsız bölümün ise 1/3 payının tapu kaydının iptali ile adına tesciline ve ecrimisile karar verilmesi isteminde bulunmuştur.
 
@@ -158,11 +182,15 @@ Tarafların, temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan ned
 
 ## Yargıtay 18. HD 2005/5287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16458500)
+
 Dava, kat mülkiyetti anataşınmazın ortak yerlerinden olan sığınağa ve arka bahçeye davalıların el atmasının önlenmesi ile dava konusu edilen bu ortak yerlerin projesine uygun eski hale getirilmesi istemine ilişkindir.
 
 Kat Mülkiyeti Yasasının 19. maddesi hükmüne göre kat maliklerinden biri, diğer tüm kat maliklerinin rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım, tesis ve değişiklikler yaptıramaz. Davalı tarafın dayandığı değişiklik projesinin geçerli olabilmesi için tüm kat maliklerinin buna muvafakat etmiş olmaları ve projenin belediyenin onayını taşıması gerekir. Somut olayda değişiklik projesine tüm kat maliklerinin muvafakatları olmadığı gibi yapılan değişikliklere de rızalarının bulunmadığı dosya kapsamından anlaşılmaktadır. Öte yandan 2981 sayılı Yasanın 16. maddesine 3290 sayılı Yasayla eklenen son fıkra hükmünün uygulanabilmesi için anataşınmazda daha önce kat irtifakının kurulmuş olması ve kat irtifaklı yapıda bu Yasadan yararlanılarak bağımsız bölüm kazanılmış olması gerekir. Somut olayda anatışın-mazda kat mülkiyetine 03.09.1968 tarihinde geçildiği ve ortada yeni bir bağımsız bölüm ilavesinin de sözkonusu olmadığı, doğrudan doğruya ortak yer olarak özgülenmiş bulunan bahçeye ve sığınağa el atmanın dava konusu edildiği dikkate alındığında yukarıda değinilen İmar Affı Yasası hükümlerinin burada uygulanma olanağı yoktur.
 
 ## Denizli BAM 4. HD 2025/1277 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161880700)
 
 Davalı vekili cevap dilekçesinde özetle: Müvekkilinin kooferatifin ortağı olarak 11 nolu bağımsız bölümünü kullanma hakkına sahip olduğunu, müvekkilinin kendisine tahsis olunan 11 nolu bağımsız bölümün cephesinin güney - batı yönünde olması nedeniyle yaz aylarında güneşten korunmak için kendisine tahsis eline 11 nolu bağımsız bölümün bahçe bölümünde davacı kooperatif ortakları tarafından onaylanan "Site İşletme Ve Kullanımı Ana Yönergesi" uyarınca, yönergede belirlenen kriterlere uygun ve diğer ortakları rahatsız etmeyecek şekilde düzenleme yaptığını, davacı tarafından sunulan ...
 
@@ -179,6 +207,8 @@ yükümlülüğü altında olacağı da gözetilerek, oluşacak sonuca göre kar
 Ayrıca kabule göre de, bilirkişi raporunda kal ve eski hale getirme bedeli olarak belirlenen 7.200,00 TL bedele ilişkin harcın davacı tarafa tamamlattırılmadan davanın esası hakkında karar verilmesi isabetsiz olmuştur.
 
 ## İstanbul BAM 45. HD 2023/257 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/869453400)
 
 İLK DERECE MAHKEMESİ KARARI İstanbul Anadolu 7. Asliye Ticaret Mahkemesi'nin 10/05/2018 tarihli 2015/521 E.
 

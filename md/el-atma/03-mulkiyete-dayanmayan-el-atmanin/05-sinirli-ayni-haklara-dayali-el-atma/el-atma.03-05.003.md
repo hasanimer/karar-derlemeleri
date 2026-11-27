@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2007/6399 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858364700)
+
 Mahkemece, 1265 parselin kira sözleşmesi dışında kalan iki dönümlük kısmına davalının yersiz elatmasının önlenmesine, ecrimisil talebinin reddine karar verilmiştir.
 
 …
@@ -32,6 +34,8 @@ Mahkemece, 1265 parselin kira sözleşmesi dışında kalan iki dönümlük kıs
 SONUÇ; Yukarıda 1.bentte açıklanan nedenlerle davalının bütün, davacının diğer temyiz itirazlarının reddine, hükmün 2.bent uyarınca davacı yararına BOZULMASINA …
 
 ## İstanbul BAM 7. HD 2023/1502 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/907814400)
 
 Dava, üst ve geçit hakkı tesisi istemine ilişkindir.
 
@@ -50,6 +54,8 @@ HÜKÜM:Gerekçesi yukarıda izah edildiği üzere: 1-İstanbul Anadolu 6. Asliy
 
 ## İstanbul BAM 12. HD 2023/394 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877814600)
+
 …
 
 : Dava; dava dışı şirkete ait taşınmaz üzerinde intifa hakkı bulunan davacı akaryakıt dağıtım şirketi tarafından, bayilik ve kira sözleşmesi kapsamında akaryakıt istasyonu olarak işletilmek üzere davalı bayiye kiralanan taşınmaza, bayilik sözleşmesinin davalı bayi tarafından feshi sonucunda sözleşme ilişkisinin ortadan kalkması nedeniyle, davalı bayinin haksız müdahalesinin önlenmesi istemine ilişkindir. Somut olayda; taraflar arasında 01.03.2016 tarihinde 5 yıl süreli bayilik sözleşmesi ile aynı tarihli çerçeve protokol akdedildiği, aynı zamanda davacının intifa hakkı sahibi bulunduğu İstanbul ili Sancaktepe ilçesi ... Mahallesinde bulunan ... ada ... parsel sayılı taşınmaza ilişkin olarak 23.12.2015 tarihli kira sözleşmesi imzalandığı, bayilik sözleşmesinin davalı tarafça 04.04.2018 tarihli ihtarname ile feshedildiği, taraflarca kira sözleşmesinin mutabakat dahilinde sona erdirilmesine ilişkin fesih protokolü imzalandığı anlaşılmaktadır.
@@ -64,6 +70,8 @@ Taşınmazın mülkiyetinin ihtilaf konusu olmadığı gibi davacı şirket de t
 HÜKÜM: Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusunun kabulüne; İstanbul Anadolu 9. Asliye Ticaret Mahkemesi'nin 17/07/2019 Tarih 2018/472 Esas - 2019/761 Karar sayılı kararın HMK.'nın 353(1)b-2 gereği KALDIRILMASINA; "Davanın kabulü ile davalının İstanbul ili Sancaktepe İlçesi ... Mahallesi ... Mevkii ... ada ... parselde kayıtlı taşınmaza (akaryakıt istasyonuna) vaki haksız müdahalesinin meni ile taşınmazın boş olarak davacıya teslimine …
 
 ## Antalya BAM 5. HD 2021/1323 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690720400)
 
 Davalılar vekili cevap dilekçesi sunmadığı anlaşılmıştır.
 
@@ -88,6 +96,8 @@ istasyonun dava dışı ... Tarafından işletilmesi nedeni ve davalıların bu 
 Bir kısım davalılar vekilinin istinaf başvurusunun HMK' nın 353/1-b-1.maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 43. HD 2021/1193 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/701588400)
 
 A.Ş. lehine 5 yıl süreliğine intifa hakkı tesis edildiği, taraflar arasındaki 18/09/2010 tarihli bayiilik sözleşmesinde, "iş bu sözleşmenin her ne sebep ve suretle olursa olsun sona ermesi halinde bayiinin söz konusu yerlerle ilgili işletmeciliğinin de sona ereceği, bayiinin sözleşmenin feshini müteakiben herhangi bir mahkeme kararı gerekmeksizin istasyon ve tesisleri derhal tahliye ederek şirkete teslim edeceğini kabul ve taahhüt ettiği, tahliyenin gecikmesi halinde bayii her geçen gün için şirkete uğrayacağı zarar ve ziyanı ödeyeceği"şeklinde düzenleme olduğu ve yine bayiilik sözleşmesinin eki niteliğindeki 18/09/2010 tarihli “Asgari Mal Alım Taahhütnamesi ve Cezai Şart” başlıklı taahhütnamenin 3’üncü paragrafında ise;
 "... bayiilik sözleşmesinin her ne sebep ve suretle olursa olsun sona ermesi halinde işletmeciliği sona ereceğinden, istasyon ve tesisleri derhal tahliye ederek şirkete teslim edeceği, bu yükümlülüğü yerine getirmeyerek fuzuli işgale devam ettiği takdirde, sözleşmenin fesih tarihinden itibaren tahliye tarihine kadar geçen her gün için ödeme tarihindeki TCMB döviz efektif satıskurru üzerinden 200 USD karşılığı TL cezai şartı hiçbir itirazda bulunmaksızın herhangi bir mahkeme kararı veya ihtara gerek kalmaksızın derhal ve defaten şirkete ödeyeceğini kabul ve taahhüt ettiği” hükmüne yer verildiği görülmüştür. Az yukarıda belirtilen cezai şart, sözleşmenin feshedilmek suretiyle ya da başka bir surette sona ermesi halinde davalı bayii nezdinde doğacak olan akaryakıt istasyonunu davacıya teslim etme (iade etme) borcunun davalı/bayi tarafından yerine getirilmemesinin (bu borcun ihlal edilmesinin) müeyyidesi, yani ifaya ekli cezai şart olarak kararlaştırılmıştır. O nedenle, sözleşmenin davalı tarafından haklı ya da haksız olarak feshedilmiş olmasının cezai şart borcuna bir etkisi yoktur.

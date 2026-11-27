@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2010/14310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805695000)
+
 634 sayılı Kat Mülkiyeti Yasasının 38. maddesine göre; kat malikleri kurulu kararlarının iptaline ilişkin davalar, kat maliklerini temsilen yöneticiye husumet yöneltilmesi suretiyle açılabilir. Mahkemece davanın yönetici aleyhine açılmış olduğu hususu dikkate alınarak işin esasına girilip toplanacak deliller doğrultusunda karar verilmesi gerekirken yazılı gerekçeyle davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2010/11111 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804110100)
 
 634 sayılı Kat Mülkiyeti Yasasının 38.maddesinin ikinci fıkrasına göre kat malikleri kurulu kararlarının iptaline ilişkin davalar kat maliklerini temsilen yöneticiye husumet yöneltilmesi suretiyle açılabilir. Davacı dava dilekçesinde husumeti yönetime yönelttiğine göre buradaki yönetimden maksat yöneticidir. Yasanın tanıdığı bu olanağı farklı bir biçimde yorum yaparak daraltmak veya ortadan kaldırmak mümkün değildir. Mahkemece bu husus dikkate
 
@@ -32,21 +36,31 @@ alınarak işin esasına girilip tüm deliller toplandıktan sonra oluşacak son
 
 ## Yargıtay 18. HD 2010/10875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803441300)
+
 634 sayılı Kat Mülkiyeti Yasasının 38.maddesinin ikinci fıkrasına göre kat malikleri kurulu kararlarının iptaline ilişkin davalar kat maliklerini temsilen yöneticiye husumet yöneltilmesi suretiyle açılabilir. Yasanın bu hükmündeki yönetici sözcüğünden amaç sitenin yasal yöneticisi ve aynı Yasanın 34.maddesinin birinci fıkrasında gösterilen yönetim kurulu olduğuna dair hiçbir kuşku ve duraksama mevcut değildir. Mahkemece yönetim hasım gösterilerek pasif husumet ehliyeti bulunan davalıya karşı açılan bu davada işin esasına girilerek ve yargılama sırasında davalı gösterilen yöneticinin istifa etmesi nedeni ile yeni seçilen yönetici de davalı sıfatı ile davaya dahil edilerek tüm deliller toplanıp oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken, hukuki olmayan gerekçelerle husumet yokluğu nedeniyle davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2010/9565 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804607200)
 
 634 sayılı Kat Mülkiyeti Yasasının 38. maddesine 14.11.2007 gün ve 5711 sayılı Yasayla eklenen fıkrada açıkça gösterildiği üzere kat malikleri kurulu kararlarının iptaline ilişkin davalar, kat maliklerini temsilen yöneticiye husumet yöneltilmesi suretiyle açılabilir. Mahkemece davanın yönetici aleyhine açılmış olduğu hususu dikkate alınarak işin esasına girilip toplanacak deliller doğrultusunda karar verilmesi gerekirken yazılı gerekçeyle davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2010/5224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803350600)
+
 Kat mülkiyetli bir anagayrimenkulde yönetim kurullarının kararlarının iptaline ilişkin uyuşmazlıkların Kat Mülkiyeti Yasası hükümlerinin uygulanmasıyla çözümlenmesi gerekmekte olup, sözü edilen yasanın Ek 1.maddesi hükmüne göre bu tür uyuşmazlıklar, dava değerine bakılmaksızın, Sulh Hukuk Mahkemelerinin görevine dahildir.
 
 ## Yargıtay 18. HD 2010/5058 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802797000)
+
 Yargıtay’ın yerleşmiş uygulamalarına göre kat malikleri kurulu kararlarının iptali davalarında husumetin karara olumlu oyları ile katılan tüm bağımsız bölüm maliklerine yöneltilmesi gerekir. Mahkemece karara vekili ... aracılığında olumlu oyu ile katılan kat maliki.....'un davaya dahili ile taraf teşkili sağlandıktan sonra oluşacak sonuca göre hüküm kurulması gerekirken, esas hakkında hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2010/838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803964400)
 
 634 sayılı Kat Mülkiyeti Yasasının 38.maddesine göre kat malikleri kurulu kararlarının iptaline ilişkin davalar kat maliklerini temsilen yöneticiye husumet yöneltilmesi suretiyle
 
@@ -54,17 +68,25 @@ açılabilir. Yasanın bu hükmü dikkate alınarak ve usul ekonomisi de gözeti
 
 ## Yargıtay 18. HD 2009/11545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876808900)
+
 634 sayılı Kat Mülkiyeti Yasasının 33. maddesine göre kat malikleri kurulunca alınan kararların iptali davalarında bu kararların oluşmasına olumlu oylarıyla katkıda bulunan tüm kat maliklerinin davaya dahil edilmesi ve husumetin bu kişilere yöneltilmesi gerekmektedir. Dosya içindeki bilgi ve belgelerden iptali istenen 25.09.2004 günlü kat malikleri kurulu kararlarını imzalayan ... ile toplantıya katılmayan ancak vekille temsil edildikleri düşünülen ..., ... ve ...’nun davada taraf olarak gösterildikleri anlaşılmaktadır. Mahkemece, kat malikleri kurulu kararını imzalayan ve kat maliki olmayan kişilerin hangi bağımsız bölüm maliklerini temsilen bu toplantıya katıldıkları hususu ile kat maliklerini temsilen usulüne uygun vekaletnameleri bulunup bulunmadığı konusu araştırılarak bu kişilerin de davaya dahil edilmesinden, (tapu kaydının incelenmesinden yargılama sırasında 9 numaralı bağımsız bölümün el değiştirdiği de gözetilerek) ve taraf teşkili sağlandıktan sonra işin esası hakkında tüm deliller toplanıp oluşacak sonuç doğrultusunda karar verilmesi gerekirken eksik inceleme ve yetersiz araştırma sonucu hatalı gerekçe ile davanın reddine karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2009/10927 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873784900)
 
 634 sayılı Kat Mülkiyeti Yasasının 38. maddesine göre kat malikleri kurulu kararlarının iptaline ilişkin davalar kat maliklerini temsilen yöneticiye karşı açılabilir. Yasanın bu hükmü dikkate alındığında işin esasına girilerek bütün deliller toplandıktan sonra oluşacak sonuç doğrultusunda asıl ve birleşen dava hakkında hüküm kurulması gerekirken pasif husumet ehliyeti yokluğu nedeniyle davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2009/9520 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873676500)
+
 Kat malikleri kurulu kararının iptali davası kat maliklerine karşı açılmış ise iptali istenen toplantıya katılıp olumlu oy veren tüm kat maliklerinin davada taraf olarak gösterilmesi gerekir. Somut olayda iptali istenilen toplantıda alınan kararları imzalayan A Blok 32 nolu bağımsız bölümün maliklerinden ..., B Blok 17 nolu bağımsız bölüm malikleri .... ve ... ile D Blok 18 nolu bağımsız bölüm maliki ... davaya dahil edilmemiştir.
 
 ## Yargıtay 18. HD 2009/5440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873717900)
 
 634 sayılı Kat Mülkiyeti Yasasının 32. maddesine göre anataşınmazın kat malikleri kurulunca alınan kararların iptali davalarında husumetin, bu kararların oluşmasına olumlu oylarıyla katkıda bulunan kat maliklerine yöneltilmesi Yargıtay uygulamalarında kabul edilmektedir. Ayrıca 634 sayılı Yasanın 5711 sayılı Yasa ile değişik 38. maddesinin ikinci fıkrasına göre kat malikleri kurulu kararlarının iptaline ilişkin davaların kat maliklerini
 
@@ -72,50 +94,74 @@ temsilen yöneticiye husumet yöneltilmesi şeklinde açılabileceği öngörül
 
 ## Yargıtay 18. HD 2009/4663 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873048500)
+
 634 sayılı Kat Mülkiyeti Yasasının 32. maddesine göre kat malikleri kurulunca alınan kararlarının iptali davalarında bu kararların oluşmasına olumlu oylarıyla katkıda bulunan tüm kat maliklerinin davaya dahil edilmesi ve husumetin bu kişilere yöneltilmesi gerekmektedir. Dosya içindeki bilgi ve belgelerden iptali istenen 15.05.2000 ve 26.06.2004 günlü kat malikleri kurulu kararlarını imzalayan bir kısım kişilerin davada taraf gösterilmelerine rağmen bunların temsil ettiği kat maliklerinin davaya dahil edilmedikleri anlaşılmaktadır. Mahkemece, kat malikleri kurulu kararını imzalayan ve kat maliki olmayan kişilerin hangi bağımsız bölüm maliklerini temsilen bu toplantıya katıldıkları hususu ile kat maliklerini temsilen usulüne uygun vekaletnameleri bulunup bulunmadığı konusu araştırılarak bu kişilerin de davaya dahil edilmesinden ve taraf teşkili sağlandıktan sonra işin esası hakkında tüm deliller toplanıp oluşacak sonuç doğrultusunda karar verilmesi gerekirken eksik inceleme ve yetersiz araştırma sonucu davanın reddine karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2009/1653 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873527700)
 
 Yargıtay’ın yerleşmiş uygulamalarına göre kat malikleri kurulu kararlarının iptali davalarında husumetin, karara olumlu oyları ile katılan tüm bağımsız bölüm maliklerine yöneltilmesi gerekir. Mahkemece davalı kat malikleri ...,...,...,...,...,... dışında kalan ve karara olumlu oyları ile katılan diğer kat malikleri tespit edilip varsa vekaleten katılanların vekaletlerini gösteren belgeler istendikten sonra vekalet veren kat maliklerinin davaya dahili ile taraf teşkili sağlanması, oluşacak sonuca göre karar verilmesi gerektiğinin düşünülmemesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/5986 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878925300)
+
 Davada 18.11.2006 günlü kat malikleri kurulu kararının iptali istenildiğine göre Yargıtay'ın yerleşmiş uygulamaları çerçevesinde bu karara olumlu oyları ile katılan tüm kat maliklerinin davaya dahil edilmesi gerekir. Somut olayda Yönetici ... 12 nolu bağımsız bölüm maliki ... adına onu temsilen toplantıya katılıp olumlu oy kullandığı anlaşılmakla ... da yöntemince davaya dahil edilip taraf teşkili sağlanmadan kat malikleri kurulu kararının iptaline hükmedilmesi, bu bağlamda yönetici ... kat maliki olduğu dikkate alınmadan aleyhine karar verilmiş olması,…
 
 ## Yargıtay 18. HD 2008/4979 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879281400)
 
 Yargıtay’ın yerleşmiş uygulamalarına göre kat malikleri kurulu kararlarının iptali davalarında husumetin karara olumlu oyları ile katılan tüm bağımsız bölüm maliklerine yöneltilmesi gerekir. Mahkemece davalılar dışında kalan ve 08.01.2006 günlü genel kurul toplantısında alınan karara (doğrudan veya vekili aracılığıyla) olumlu oy kullanmış olan kat malikleri tespit edilip, bunların davaya katılmalarının sağlanması ile taraf teşkilinden sonra toplanan kanıtlara göre oluşacak sonuç doğrultusunda karar verilmesi gerekirken, esas hakkında hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/2689 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875057400)
+
 634 Sayılı Kat Mülkiyeti Yasasının Ek 1. maddesi hükmü uyarınca bu Yasadan ... anlaşmazlıkların -değerine bakılmaksızın- Sulh Hukuk Mahkemesinde çözümleneceği, bu bağlamda kat malikleri kurulu kararlarının iptali istemli davaların anataşınmazın bulunduğu yer Sulh Hukuk Mahkemesinde görüleceğine ilişkin anılan Yasanın 33. maddesi hükmü karşısında Asliye Hukuk Mahkemesince görevsizlik kararı verilmesinde bir isabetsizlik bulunmadığından yerinde görülmeyen temyiz itirazlarının reddi ile mahkemenin usul ve yasaya uygun olan görevsizlik kararının ONANMASINA, aşağıda yazılı bakiye onama harcının temyiz edene yükletilmesine, 10.3.2008 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 18. HD 2008/1545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881549900)
+
 Kat malikleri kurulu kararlarının iptali davalarında husumetin, iptali istenen karara olumlu oyla katılmış olan kat maliklerine yöneltilmesi gerekmektedir. Kat malikleri toplantıda kendilerine vekil ile temsil ettirmiş olmaları halinde de husumetin vekile değil bizzat kat malikine yöneltilmesi gerekir.
 
 ## Yargıtay 14. HD 2007/14400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853746200)
 
 Burada öncelikle Borçlar Kanununun temsil ve vekalet ilişkisini düzenleyen hükümleri üzerinde durulması gerekecektir. Gerçekten, vekalet aktinin tarifine ilişkin Borçlar Kanununun 386.maddesi uyarınca vekalet, bir akittir ki onunla vekil kendisine tahmil olunan işin idaresi veya takabbül eylediği hizmetin ifası borcunu yüklenir. Yasanın 389.maddesi uyarınca da vekil, müvekkilinin sarih olan talimatına muhalefet edemez. Vekilin vekalet görevinin müvekkilinin talimatı doğrultusunda yerine getirmesi asıldır. Arsa sahibi olan davalı tarafından verilen 13.8.2001 tarihli vekaletnamede vekile verilen görev 205 ada 12 parselde kayıtlı taşınmazın 634 Sayılı Kat Mülkiyeti Kanununa göre kat irtifakının kurulmasına yöneliktir. Vekilin başvurusu üzerine idari mercilerce de vekaletnamede sarih olan yetki neyse ona göre işlem yapılması gerekir. Vekaletnamedeki açık yetki 205 ada 12 parselin kat irtifakının kurulmasına ilişkin iken, 11 parselin kat irtifakının kurulmuş olması vekaletnamede verilen yetki sınırları aşılarak yapılmış olan ve vekilin gerçek iradesini yansıtmayan yok hükmündeki işlemlerdir. Yok hükmünde olan bu gibi işlemler sonradan icazet verilerek de sıhhat kazanmaz.
 Böyle olunca, 12 parsel üzerindeki binanın kurulmuş olan kat irtifakına bakılmaksızın yüklenici ile arsa maliki arasındaki 9.5.2000 günlü sözleşme ve gerçek iradelerine uygun olarak düzeltilmesi gerekir.
 
 ## Yargıtay 18. HD 2007/10715 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882912800)
+
 Kat malikleri kurulu kararının iptaline yönelik davaların bu karara olumlu oyları ile katılan bütün kat maliklerinin hasım gösterilmesi suretiyle açılması gerekir. Davaya konu kararın alındığı toplantıya kat malikini temsilen katılan ve kararlara imza koyan kişilerin temsil yetkisi, bu toplantıya katılmak ve alınan kararlar hakkında oy kullanmakla sınırlı olup bu kararların iptali davalarında husumet bunlara düşmez. Davada kat maliklerinin bizzat veya avukatları marifetiyle temsil edilmeleri gerekir.
 
 ## Yargıtay 18. HD 2007/10094 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883801600)
 
 Asıl ve karşılık davalarla ilgili olarak; Asıl davanın davacılarından olup, karşı davanın davalıları arasında bulunan ... dosyada mevcut tapu kaydına göre kat maliki değildir. Kat maliki olmayan bir kişinin anayapıyla ilgili olarak açılan tadilat projesine onay verilmiş sayılması davasında aktif, kat malikleri kurulu kararının iptali istemli davada pasif husumet ehliyeti bulunmamaktadır. Mahkemece, ...’ın hangi sıfatla bu davalarda taraf olduğu hususu üzerinde durulması ve özellikle kat malikleri kurulu kararının iptali davasında pasif husumetin, iptali istenen karara olumlu oylarıyla katılanlara yöneltilmesi gerektiği dikkate alınarak, ...’ın davaya konu kararda hangi kat malikinin temsilcisi olduğunun saptanması ve o kat malikinin de davaya katılımı ve bu suretle taraf teşkili sağlandıktan sonra deliller toplanıp değerlendirilerek sonucuna göre bir karar verilmesi gerektiğinin dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/4638 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882495900)
+
 Kat malikleri kurulu kararının iptali davasında husumetin toplantıya katılıp olumlu oy veren kat maliklerine yöneltilmesi gerekir. Önce, kat maliki aleyhine açılmayan bir davada dahili dava yoluyla dahi taraf teşkili sağlanamaz. Bu açıklamalar ışığında somut olaya bakıldığında; davada davalı olarak gösterilen yöneticiler ...ve ...'in dosya içerisinde bulunan anataşınmaza ait tapu kaydına göre kat maliki olmadıkları anlaşıldığından davanın pasif husumet ehliyeti yokluğu nedeniyle reddi gerekirken, iptali istenen toplantıya katılıp olumlu oy veren kat maliklerinin davaya dahili suretiyle işin esası hakkında hüküm tesisi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/2133 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877305900)
+
 Kural olarak, kat malikleri kurulu kararlarının iptali ancak kat malikleri tarafından dava edilebilir. İstisnai hallerde, intifa hakkı sahipleri bu hakka konu olan bağımsız bölümü yasa, yönetim planı ve sözleşme hükümleri uyarınca kullanmalarına ve ondan yararlanmalarına engel olan veya bunu kısıtlayan kurul kararlarının iptalini isteyebilirler.
 
 ## Yargıtay 18. HD 2006/10443 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882900900)
 
 Yargıtay’ın yerleşmiş uygulamalarına göre kat malikleri kurulu kararının iptaline ilişkin davanın bu karara olumlu oylarıyla katılmış olan kat maliklerine yönetilmesi gerekir.
 
@@ -123,21 +169,31 @@ Davalının anataşınmazda kat maliki olduğu ve karara olumlu oyu ile katıld�
 
 ## Yargıtay 18. HD 2006/10136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882682900)
+
 Kat Mülkiyeti Yasasının 33.maddesi uyarınca kat malikleri kurulu kararlarının iptali istemiyle açılan davada husumet, davaya konu karara olumlu oylarıyla katılmış olan tüm kat maliklerine yöneltilmesi gerekir. Yönetimin, bu bağlamda yöneticinin tüzel kişiliği olmadığından böyle bir davada yönetim hasım gösterilemez. Bu nedenle davanın husumet yönünden reddine karar verilmesi gerekirken işin esasına girilerek kat malikleri kurulu kararının iptali yolunda hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2006/6649 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881854100)
 
 Yargıtay’ın yerleşmiş uygulamalarına göre kat malikleri kurulu kararlarının iptali davalarında husumetin, karara olumlu oyları ile katılan tüm bağımsız bölüm maliklerine yöneltilmesi gerekir. Mahkemece davalı kat malikleri dışında kalan ve karara olumlu oyları ile katılan kat malikleri tespit edilip bunların davaya dahili ile taraf teşkili sağlandıktan sonra oluşacak sonuca göre hüküm kurulması gerekirken, esas hakkında hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2006/5058 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879486800)
+
 Kat malikleri kurulu kararlarının iptali davalarında iptali istenen toplantıya katılıp olumlu oy veren tüm kat maliklerinin davaya dahil edilmesi gerekir. Dosyadaki bilgi ve belgelerden, özellikle anataşınmaza ait tapu kaydı ile iptali istenen 21.11.2004 günlü kat malikleri kurulu kararına ait karar tutanağından 2 numaralı bağımsız bölüm maliki Salih Tanju Karahan, 3 numaralı bağımsız bölüm maliki ..., 4 numaralı bağımsız bölüm maliki ..., 6 numaralı bağımsız bölüm maliki ..., 7 numaralı bağımsız bölüm maliki ..., 8 numaralı bağımsız bölüm maliki ... ile 9 numaralı bağımsız bölüm maliki ...'un da toplantıya katılıp olumlu oy verdiği anlaşılmaktadır.
 
 ## Yargıtay 18. HD 2006/3730 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881086100)
+
 Kat malikleri kurulu kararlarının iptali istemini içeren davalarda iptali istenen karara olumlu oyları ile katılmış olan tüm kat maliklerinin hasım olarak gösterilmesi gerekir. Bu bağlamda iptali istenen 15.4.2002 ve 7.10.2002 günlü kat malikleri kurulu kararına vekili vasıtasıyla olumlu oyu ile katılan malik ... davada taraf olarak gösterilmemiştir. Bu kişinin de davaya dahil edilerek taraf teşkili sağlandıktan sonra işin esasına girilip tüm deliller toplanıp oluşacak sonuç doğrultusunda bir karar verilmesi gerektiğinin düşünülmemesi,…
 
 ## İstanbul BAM 37. HD 2025/1964 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157265600)
 
 K A R A R Dava,22 Mart 2022 tarihli Kooperatif Olağan Genel Kurulunda toplu yapı ile ilgili kararların iptali, yönetim planının kat mülkiyeti kanununa aykırı maddelerin iptali, toplu yapı yönetim planının 35. Maddesinin iptali ve mahkemece tedbiren yönetici atanması talebine ilişkindir.Küçükçekmee 2. Sulh Hukuk Mahkemesince"...Somut olayda, dava konusu sitenin birden fazla taşınmaz üzerinde kurulu olduğu, siteyi oluşturan diğer parseller ile ilgili her hangi bir irtibat şerhinin bulunmadığı, dava konusu ... ada ... parsel sayılı taşınmazın diğer parseller ile irtibatının bulunduğu ve kat mülkiyetine geçtiğine ilişkin KMK'nın 66.ve 67. maddelerine uygun irtibat şerhinin tapu kaydında bulunmadığı ve sadece toplu yapı yönetimi oluşturmanın kat mülkiyeti kanununun uygulanması için yeterli olmadığı anlaşıldığından uyuşmazlığın genel hükümlere göre Asliye Hukuk Mahkemesinde çözümlenmesi gerektiği kanaati ile mahkememizin görevsizliğine, Küçükçekmece Nöbetçi Asliye Hukuk Mahkemesinin görevli olduğu..." gerekçesiyle görevsizlik kararı verilmiştir. Küçükçekmece 10.
 Asliye Hukuk Mahkemesi"...6102 sayılı Türk Ticaret Kanununda kooperatifler ayrıca ayrıntılı olarak düzenlenmemiş olmasına rağmen kooperatiflerin ticaret şirketi olduğu açıkça düzenlenmiş ve 124. Madde gerekçesinde de açıkça kooperatifin ticaret şirketi olduğu vurgulanmıştır.Davacı, öncelikle davalı kooperatifin 22 Mart 2022 tarihli Kooperatif Olağan Genel Kurulunda toplu yapı ile ilgili kararların ve yönetim planının kat mülkiyeti kanununa aykırı maddelerin iptali, toplu yapı yönetim planının 35. Maddesinin iptali ve mahkemece tedbiren yönetici atanması talebinde bulunduğu, davalı kooperatiye karşı açılan davanın niteliği ve tarafların sıfatı itibariyle davada Asliye Ticaret Mahkemelerinin görevli olacağı .." gerekçesiyle görevsizlik kararı verilmiştir. Bakırköy 4.
@@ -146,11 +202,15 @@ Asliye Ticaret Mahkemesince"...Dava, 22 Mart 2022 tarihli Kooperatif Olağan Gen
 
 ## İstanbul BAM 3. HD 2025/1831 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158899900)
+
 T.C. kimlik nolu ...'a devredilecektir. ... edimlerini ifa etmemesi halinde iş bu sözleşme yok hükmünde sayılacaktır. ... bu halde her türlü hukuki haklarını kullanmakta serbest olacaktır." şeklinde düzenleme yapılmış olduğu görülmektedir. Davacının sözkonusu protokol hükümlerine göre,açıkça talep edebileceği tazminat-kira vs alacaklarının nitelendirildiği veya rakamsal olarak açıklandığı bir düzenleme bulunmadığı ,süresinde teslim halinde "davacının geç teslim nedeniyle hiçbir nam altında doğrudan veya dolaylı zarar ile maddi veyahut manevi tazminat ve mahrum kalınan karı, kira bedeli ve sair " talep haklarından feragat ettiği şeklinde düzenleme bulunmaktadır. Taraf şirketler arasında 01.03.2019 tarihinde yapılan protokol ile davacı şirkete katkı payı ve kar payı alacağı olarak Beylikdüzü, ...
 Mah. ... ada ... parselde kayıtlı KKİS 'ne konu ... blok 10 nolu bağımsız bölüm, ... blok 2.3.4 nolu bağımsız bölümlerin 30.06.2019 tarihine kadar , ... blok 7 nolu bağımsız bölüm ve ... blok 12 ve 4 nolu bağımsız bölümlerin ise 30.04.2019 tarihine kadar anahtar teslim tamamlanmasının kararlaştırıldığı, Beylikdüzü Tapu Müdürlüğünden celp olunan tapu kayıtlarından görüleceği üzere 01.03.2019 tarihli protokolün 2.4 md gereğince ve davacının talebi doğrultusunda ... blok 10 nolu , ... blok 12 nolu , ... blok 4 nolu , ... blok 7 nolu, ... blokta bulunan 2,3, ve 4 nolu bağımsız bölümlerin 01.03.2019 tarihinde ... yevmiye nolu satış işlemi ile dava dışı ...'a devredildiği görülmüştür. tarafın talepleri ,davalı ile imzaladığı Protokol sebebiyle ve süresinde teslim yapılmamasından kaynaklı alacak talebine ilişkin ise de ,davacı ,hissesine isabet eden dairelerin kendi adına ...'a devrinin yapılmasını protokolde beyan ve kabul etmiş olup,bu kişiye protokol tarihinde devir yapılmış olduğu, mülkiyeti 3. kişiye geçen taşınmazlar yönünden diğer adi ortaktan tazminat talep etme konusunda aktif husumet ehliyetinin bulunmadığı ,bu sebeple davacı istinafının yerinde olmadığı ,mahkemece verilen
 kararda usul ve hukuka aykırılık bulunmadığı sonucuna varılmakla,istinaf talebinin reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 45. HD 2025/187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127244500)
 
 Kooperatifler Kanunu m. 27 ve Ana sözleşme m. 14 uyarınca gönderilen borcun belirtilen sürede ödenmesi gerektiği, aksi halde sözleşmenin feshi ile kooperatifle ilişiğinin kesilebileceğine ilişkin ihtarı içeren 10 gün süreli ilk ihtarnamede ve bir ay süreli ikinci ihtarnamede ödenmesi gereken borç miktarının 5.096,00-TL olarak belirtildiği,İhtarların davacıya usulüne uygun olarak tebliğ edildiği, ihtar içeriğinde belirtilen sürede ödeme yapılmadığı,İhtarnamelerde kanunun öngördüğü usul ve esaslara aykırılık tespit edilemediği...'" şeklinde kanaat bildirilmiştir.Davacının davalı kooperatifin 11.07.2010 tarih 268 sayılı yönetim kurulu kararı ile ortak olduğu, 11.07.2010 tarihli ortaklık senedine göre 40.300,00 TL bedelli sabit fiyat ödemesi karşılığında ... Blok No:... 1+1 giriş bağımsız bölümün davacıya tahsis edildiği, davalı kooperatifin 10.11.2015 tarihli ... nolu ve 12.11.2015 tarihli 758 nolu yönetim kurulu kararları uyarınca davacı için parasal yükümlülüklerini yerine getirmediğinden ihraca/sözleşmenin feshine yönelik ihtarnamelerin gönderilmesi için karar alındığı, Eyüp ...
 Noterliği'nin 13.11.2015 tarihli ... yevmiye numaralı 1. ihtarname ile 10 gün içinde 31.10.2015 tarihi itibariyle ödemesi gereken 5.096,00 TL borcunu ödemesi ile ödeme yapılmaması halinde sözleşmenin feshi ve kooperatif ortaklığından çıkarılacağının ihtar edildiği, ihtarnamenin 18.11.2015 tarihinde tebliğ edildiği, ardından Eyüp ... Noterliği'nin 19.02.2016 tarihli ... yevmiye numaralı 2. ihtarnamesi ile davacıya bir ay içinde (30 gün) 31.10.2015 tarihi itibariyle ödemesi gereken 5.096,00 TL borcunu ödemesi ile ödeme yapılmaması halinde sözleşmenin feshi ve kooperatif ortaklığından çıkarılacağının ihtar edildiği, ihtarnamenin 29.02.2016 tarihinde
@@ -161,6 +221,8 @@ Davacı vekilince Gaziosmanpaşa İcra Müdürlüğü'nün ... esas sayılı dos
 
 ## Kayseri BAM 6. HD 2024/962 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021570000)
+
 Maddelerinde yapılan değişikliğin yok hükmünde olduğuna karar vermesi nedeni ile davalı kooperatifçe alınan YK kararı doğrultusunda maliyet hesaplarına ilişkin hukuki işlemlerden rücu edilmesine ve genel kurulca kararlaştırılan aidatların üyelerden tahsiline yönelik işlem yapılmasına karar vermiş olduğunu, ilgili madde kanun yapım tekniğine aykırı olup, özel hukuk alanında değiştirilen kanunların geçmişe etkili olmayacağı yönündeki evrensel hukuk kuralına muhalefet etmekle birlikte üniter devlet yapımıza aykırı fedaratif bir devletmiş gibi bir coğrafyaya -Kayseri iline- özgü yapılması nedeni ile açıkça Anayasamıza aykırı olduğunu, Kanun koyucu iş bu madde ile yapılan değişik ile dairelerini alamayan ve istifa ederek çıkma payı alacağını tahsil etmeyi bekleyen bir çok kooperatif mağdurunu mağduriyetini çözümsüz hale getirmiş olduğunu, uygulamada kooperatifçe yapılan inşaatlar kat irtifak tapusunu geçtikten sonra üyelere tapu devri yapılmakta inşaatın bitip bitmediğine bakılmadığını, Kat irtifak tapusunun devredilmesi için inşaata başlanması dahi yeterli olduğunu, aynı miktarda ödeme yapan iki üyenin biri dairesini teslim almışken diğer üyenin inşaatına henüz başlamamış dahi
 olabileceğini ve bu durumda dairesini teslim alamayan üye diğer üyelerin ödeme yapmaması nedeni ile onların eksik ödediği kadar kendisinin ödemesi gerekecek olduğunu, ne yazık ki kanun koyucu kooperatif pratiğini hiçe sayarak bir değişikliğe gitmiş ve bir kısım kooperatifleri çözümü imkansız mağduriyetlere gebe
 
@@ -168,10 +230,14 @@ bıraktığını, ilgili maddenin son fıkrasında ise mahkemelerce verilen kesi
 
 ## İstanbul BAM 17. HD 2023/1028 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950455600)
+
 Genel kurul kararlarının iptali 1163 sayılı Kooperatifler Kanunun 53.maddesinde düzenlenmiştir. Genel kurul kararı iptal edilmedikçe taraflar yönünden bağlayıcı olacaktır. Bu kapsamda davalıların murisi ...'ın kooperatif ortağı olduğu sürece kooperatif tüzel kişiliği sona erene kadar kooperatifin yönetim giderleri dahil imalat veya imalatlardan kaynaklanan borç, faiz ve ferilerden sorumlu olduğu anlaşılmıştır. Bununla birlikte Mahkemece hükme esas alınan bilirkişi raporunda, takibe konu alacaklardan 634 sayılı Kanun gereği kat maliklerinin yapması gereken genel giderler kapsamında yapılan/ yapılacak harcamalara ilişkin miktarlar düşülmesi ve düşülmemesi halinde alternatif değerlendirme yapılarak iki farklı hesaplama yapıldığı ve Mahkemece 634 sayılı Kanun gereği kat maliklerinin yapması gereken genel giderler kapsamında yapılan/ yapılacak harcamalara ilişkin miktarlar düşülerek yapılan hesaplamaya itibar edilerek 8.000,00-TL asıl alacak, 1.725,10-TL gecikme faizi olmak üzere toplam 9.725,10-TL üzerinden takibin devamına karar verildiği, bu haliyle mükerrer tahsilat durumunun söz konusu olamayacağı anlaşılmıştır.
 HMK 200 vd gereğince dava değeri ve çıkma isteğinin yazılı olarak yapılmasının çıkmanın ispat vasıtası olduğu anlaşılmakla, bu hususlarda tanık dinlenmesi de mümkün değildir.
 
 ## Kayseri BAM 6. HD 2022/1374 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774893200)
 
 HUKUKİ NİTELENDİRME, DELİLLERİN VE İSTİNAF SEBEPLERİNİN DEĞERLENDİRİLMESİ:Dairemizce HMK'nın 355. maddesi uyarınca istinaf nedenleriyle ve resen kamu düzeniyle sınırlı olarak istinaf incelemesi yapılmıştır.Dava, tapu iptal tescil olmadığı takdirde kooperatif genel kurulu kararı uyarınca oluşturulan komisyon tarafından yapılan kesin maliyet hesabı doğrultusunda alacak istemine ilişkindir.Her ne kadar mahkemece davanın alacak talebi yönünden kabulüne karar verilmişse de, Yargıtay 6. Hukuk Dairesi'nin 20/01/2022 tarih ve 2021/6310 E - 2022/185 K sayılı ilamında belirtildiği üzere;Yapı kooperatiflerinin amacı ortaklarının konut ihtiyaçlarının karşılamaktır. Bu amaçla bir araya gelen ortaklar emeklerini ve birikimlerini birleştirerek amaçlarını gerçekleştirirler. Kooperatifler Kanunu 23.maddesine göre "kooperatif ortakları bu yasanın kabul ettiği ilkeler ışığında hak ve yükümlülüklerde eşittirler. Kooperatif ana sözleşmesi kooperatif ortaklarının birbiri ve ortaklarla kooperatif tüzel kişiliği arasında özel hukuk sözleşmesindir. Ana sözleşmeye Kooperatifler Kanunu'na aykırı olmamak koşulu ile sözleşme serbestisi çerçevesinde istenilen hükümler konulabilir. Somut olayda;
 Kooperatif Ana Sözleşmesinin kesin maliyete ilişkin 61.maddesi ve kur'a çekimine ilişkin 62.maddesinde değişiklik yapılarak kooperatifin etap etap yapılacağı, inşaat sona erdikçe,

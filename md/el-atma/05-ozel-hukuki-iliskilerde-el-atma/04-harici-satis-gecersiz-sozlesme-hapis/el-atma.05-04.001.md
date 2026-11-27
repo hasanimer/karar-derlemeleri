@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2009/220 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76772300)
+
 Mahkemece, asıl davanın reddine, karşı davadaki isteklerden tapu iptal ve tescil isteğinin kabulüne karar verilmiştir.
 
 …
@@ -36,6 +38,8 @@ Hal böyle olunca, öncelikle Borçlar Kanununun 81. maddesi hükmü uyarınca h
 SONUÇ:Davacı-karşı davalı vekilinin temyiz itirazlarının kabulü ile,direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı H.U.M.K.nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/2675 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040825000)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -58,6 +62,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 8. HD 2021/12920 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/725266500)
+
 Davalı vekili; vekil edeninin çekişme konusu taşınmazı dava dışı müteahhitten satın aldığını bildirerek, davanın reddini savunmmuştur.
 
 Mahkemece davanın kabulüne karar verilmiş; davalı vekilinin temyiz başvurusu üzerine Dairemizin 09.12.2020 tarihli ve 2018/7355 Esas, 2020/8080 Karar sayılı ilamı ile "kat karşılığı inşaat sözleşmesine göre yükleniciye düşen dava konusu taşınmazı kat karşılığı inşaat sözleşmesine güvenerek yükleniciden satın aldığı anlaşıldığına göre, dava konusu taşınmazdaki kullanımının haksız sayılması mümkün değildir. Açıklanan nedenlerle davanın reddine karar verilmesi gerekir" gerekçesi ile bozulmasına karar verilmiş, bozma ilamına karşı davacı vekili tarafından süresinde karar düzeltme yoluna başvurulmuştur.
@@ -73,6 +79,8 @@ Hal böyle olunca; kat karşılığı inşaat sözleşmesi ve kesinleşen mahkem
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin karar düzeltme itirazlarının kabulü ile Dairemize ait 09.12.2020 tarihli ve 2018/7355 Esas, 2020/8080 Karar sayılı bozma ilamının kaldırılmasına …
 
 ## Yargıtay 8. HD 2021/4689 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683358600)
 
 Davalılar vekili; yetki, görev, derdestlik ve zamanaşımı itirazlarında bulunarak davacının davalıların taşınmazda hak sahibi olmadığı yönündeki iddialarının doğru olmadığını, davalıların satın almak suretiyle kayden paydaş olduklarını, dava konusu evleri kendi payları üzerine yaptıklarını, müvekkillerinin taşınmazı işgal etmediklerini, davalı ... de ayrıca verdiği dilekçesinde ve duruşmada; evini yaptığı yeri kardeşi ... ...'dan 1984 yılında aldığını, kardeşinin de yeri ... ...'dan aldığını, ev yapmak amacıyla gidip ...'in oğlu...'ten yeri göstermesini istediğini, kendisinin de şu anda evinin bulunduğu yeri gösterdiğini, yere evin temelini 1984 yılında attığını, temelin sekiz sene kadar atılı kaldığını, 1992 yılında evi yaptığını, 24 senedir bu evde oturduğunu, kimsenin yerine müdahale etmediğini, dava konusu taşınmaz üzerinde hisseli tapusunun olduğunu, davacının dava konusu yerin kendisine tahsis edildiğini bütün ortakların muvafakati ile ispatlanması gerektiğini, davada böyle bir durum söz konusu olmadığını belirterek davanın reddini savunmuşlardır.
 
@@ -105,6 +113,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı ... mirasçıları vekilinin t
 
 ## Yargıtay 8. HD 2021/4604 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683246900)
+
 Davacı vekili, dava konusu 1 parsel sayılı taşınmazın vekil edeninin murisi ... ...’a ait olduğunu, davalılardan ...’ün 1, 3 ve 13 parsel sayılı taşınmazlar üzerine ev yaptığını, yapılan evin 60 m2’lik kısmının vekil edeninin parseline taştığını, davalılardan ...’ın ise taşınmaz üzerine garaj ve samanlık yaptığını açıklayarak, davalıların müdahalesinin önlenmesine ve yapıların kal’ine karar verilmesini istemiştir.
 
 …
@@ -123,6 +133,8 @@ SONUÇ: Yukarıda 2. bentte açıklanan nedenlerle davalılar vekilinin karar d�
 
 ## Yargıtay 3. HD 2020/7993 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637470100)
+
 Davacılar; ablalarının eski eşi, aynı zamanda teyzelerinin oğlu olan davalıya ait taşınmazı 1996 yılında şifahi olarak yapılan anlaşma ile 50.000 Alman Markı ödeyerek satın aldıklarını, taşınmazdaki binanın birinci katını davacı ...'ın, ikinci katını ise davacı ...'un kullandığını, evin eksik kalan kısımlarını kendi imkanları ile yaptırdıklarını, davalıya güvendikleri için tapuda adlarına tescil işlemini gerçekleştirmediklerini, ancak davalının kendilerine karşı Bucak 1.
 
 …
@@ -138,6 +150,8 @@ Bu açıklamalar ışığında yapılan incelemede; uyulan bozma kararı gereği
 SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davacı tarafın tüm, davalı tarafın ise sair temyiz itirazlarının reddine, ikinci bentte açıklanan nedenlerle hükmün HUMK’nın 428. maddesi gereğince davalı taraf yararına BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/7363 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/626031300)
 
 Davacı vekili, vekil edenine ait 629 ada 29 parsele, davalılar tarafından müdahalede bulunulduğunu belirterek, davalıların müdahalesinin önlenmesini ve davalılara ait yapıların kâl’ine karar verilmesini talep etmiştir.
 
@@ -156,6 +170,8 @@ O halde; Mahkemece, dava konusu taşınmazda yapılan 22/a çalışması öncesi
 SONUÇ: Davalı ... vekilinin elatmanın önlenmesine yönelik temyiz itirazlarının yukarıda (1) nolu bentte yazılı nedenlerle reddine, kâl’e yönelik temyiz itirazlarının ise (2) nolu bentte yazılı nedenlerle kabulüyle hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/6794 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642118200)
 
 Davalı vekili süresinde verdiği cevap dilekçesi ile, davalının dava konusu taşınmazı harici satım sözleşmesi ile davacıların murisinden 27.000 TL'ye satın aldığını ve 19.870 TL'sini ödediğini, kalanını ödemek istediğini, ancak davacıların kabul etmediğini açıklayarak, denkleştirici adalet gereği hesap edilecek bedel üzerinden davalı lehine hapis hakkı tanınmasını istemiştir.
 
@@ -181,11 +197,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin yazılı temyiz itira
 
 ## Yargıtay 8. HD 2020/2604 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588408500)
+
 Yüklenici şirket ile arsa sahipleri arasındaki kat karşılığı inşaat sözleşmesine dayalı olarak yüklenici ile davalıların yapmış oldukları harici satışların sonucunda, davalılara anılan dairelerin teslim edildiği, davalıların çekişmeli daireleri kullanmaya başladıkları tarihte iyiniyetli olduğu, ne var ki, bu iyiniyetli kullanımların, yukarıda sözü edilen ve davacılar tarafından açılan dava sonucu verilen inşaat sözleşmesinin feshine ilişkin kararın 19.04.2012 tarihinde kesinleşmesi ile son bulduğu açıktır. Eldeki davanın 25.01.2010 tarihinde açıldığı ve haksız işgal tazminatı talep tarihlerinin 14.01.2008-14.01.2010 olduğu dikkate alındığında ecrimisil talebinin reddine karar verilmesinde bir isabetsizlik bulunmamaktadır. Fakat, dava konusu taşınmazın davacılar adına kayıtlı bulunması sebebiyle davalıların iyiniyetinden bahsedilemez ve davalıların dava konusu taşınmazları kullanımının engellendiğinin kabulü gerekir. Hal böyle olunca; elatmanın önlenmesine karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması doğru değildir.
 
 SONUÇ: Davacılar vekilinin sair temyiz itirazlarının (1.) bentte açıklanan nedenlerle reddine; elatmanın ilişkin temyiz itirazlarının yukarıda (2.) bentte açıklanan nedenle yerinde olduğundan kabulüyle, usul ve yasaya uygun bulunmayan hükmün 6100 sayılı HMK'nın Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/5622 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519113800)
 
 Davacı vekili, müvekkilinin hissedar olduğu 11266 ada 13 parsel sayılı taşınmaza davalının bina yapmak suretiyle müdahalede bulunduğunu belirterek, müdahalenin men'i ile yapılan binanın kâl'i ve fazlaya dair hakları saklı kalmak üzere toplam 175,00 TL ecrimisil bedelinin her yıl sonundan itibaren işleyecek yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiş ve ıslahla talep miktarını arttırmıştır. Davacı vekili cevaba cevap dilekçesi ile, davalı tarafından dosyaya sunulan satış sözleşmesini kabul etmediklerini, sözleşme üzerinde bulunan imzanın vekil edenine ait olmadığını belirtmiştir.
 
@@ -204,6 +224,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının yukarıda yazılı nedenlerle k
 
 ## Yargıtay 14. HD 2018/6229 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/446629100)
+
 Dava, harici satım sözleşmesine dayalı elatmanın önlenmesi ve ecrimisil talebine ilişkindir.
 
 …
@@ -219,6 +241,8 @@ Taşınmazın orman vasfı ve Maliye Hazinesi adına kayıtlı oluşu göz önü
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2017/9223 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402948900)
 
 Davacı-birleştirilen dosya davalısı; kayden maliki olduğu 219 parsel sayılı taşınmaza davalının uzun yıllardan beri müdahale ettiğini ve kullanımını engellediğini ileri sürerek; davalının müdahalesinin önlenmesini talep etmiş, birleşen davanın reddini savunmuştur.
 
@@ -236,6 +260,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı-birleştirilen dava davalısı
 
 ## Yargıtay 1. HD 2017/7112 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390826200)
+
 Mahkemece, asıl davada davanın kısmen kabulü ile davacının arsa bedeli için ödediği 8.960,00 TL’nin dava tarihi olan 25.05.2011 tarihinden itibaren yasal faizi ile birlikte davalıdan alınıp davacıya ödenmesine, davacının dairenin enkaz bedeli isteminin reddine, birleştirilen davada el atmanın önlenmesi isteminin kabulü ile birleştirilen dava davalısının 3935 ada 5 parsel sayılı taşınmazdaki binanın 2. normal katına el atmasının önlenmesine taşınmazdan tahliyesine, ecrimisil isteminin reddine karar verilmiştir.
 
 …
@@ -248,6 +274,8 @@ Davacı, birleştirilen dava davalısının temyiz itirazları açıklanan neden
 
 ## Yargıtay 1. HD 2017/5481 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/376044800)
+
 Mahkemece, el atmanın önlenmesi isteğinin kabulüne, ecrimisil isteğinin reddine karar verilmiştir.
 
 …
@@ -257,6 +285,8 @@ Mahkemece, el atmanın önlenmesi isteğinin kabulüne, ecrimisil isteğinin red
 Davalı vekilinin temyiz itirazları değinilen yönler itibariyle yerindedir. Kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/4163 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/371823800)
 
 Dava çaplı taşınmaza elatmanın önlenmesi ve yıkım isteklerine ilişkindir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2007/15904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855648300)
+
 Davacı dava konusu taşınmazda 1 numaralı daireyi yükleniciden haricen satın aldığını ve fiilen oturduğunu, binanın zemin katında davalıya ait ekmek fırınının reklam tabelasının balkonunu kapattığını çatı katına kadar uzanan baca tertibatının projeye aykırı olduğunu davalının elatmasının önlenmesini ve eski hale getirilmesini talep etmiştir.
 
 Davalı kendisine ait reklam tabelasının kurallara uygun asıldığının, doğalgaz mevzuatına uygun olarak binanın dış cephesinden zorunlu baca düzenlemesi yapıldığını, belirterek davanın reddini istemiştir.
@@ -34,6 +36,8 @@ Mülkiyet hakkının aşırı taşkın sorumsuz kullanılmasından menfi yönde 
 SONUÇ:Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile BOZULMASINA …
 
 ## Yargıtay 1. HD 2007/2775 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78116100)
 
 Davacı, kayden ..parsel sayılı taşınmazın maliki bulunduğunu, komşu .. parsel sayılı taşınmaza davalıların açtığı müdahalenin meni davası sonucu, elatmasının önlenmesine karar verildiğini, oysa karara dayanak tesbit ve bilirkişi raporunun hatalı olduğunu ileri sürerek, taşınmaz sınırlarının saptanarak çekişmenin ve elatmanın önlenmesi isteğinde bulunmuştur.
 
@@ -55,6 +59,8 @@ Davacının temyiz itirazları yerindedir.Kabulü ile hüküm açıklanan nedenl
 
 ## Yargıtay 14. HD 2006/9683 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852377900)
+
 Mahkemece davalıların 6593 parsele bina inşa ederek elatmalarının kal suretiyle önlenmesine yapı sahiplerinin temliken tescil istemlerinin reddine karar verilmiş, hükmü karşı davacı ve davalılar temyiz etmiştir.
 
 Davacı kooperatif ifrazlar sonucu 6593 parsel sayısını alan taşınmaz üzerine dava dışı arsa sahipleriyle arsa payı devri karşılığı inşaat yapmak üzere 16.03.1993 günlü sözleşmenin yapıldığını, ancak arsa üzerinde davalılara ait yapılar bulunduğunu ileri sürerek elatmalarının önlenmesini ve davalılara ait yapıların yıkımını istemiştir.
@@ -69,11 +75,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2006/8048 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/900918900)
+
 Çekişmeli taşınmaz orman köyü sınırı içinde olmayıp, Alemdağ Belediyesi sınırları içinde olduğundan H.G.K.'nun ve ilgili Hukuk Dairelerinin ilke kararında açıklandığı gibi 2924 Sayılı Yasanın 4127 Sayılı Yasa ile değişik hükümleri belde sınırı içindeki taşınmazlarda uygulanamayacağı, bu nedenle davalı yararına tapu kaydının beyanlar hanesindeki şerhin dayanağı bulunmadığından iptaline karar verilmesinde isabetsizlik bulunmadığı gibi, 4706 Sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesine ilişkin yasanın 3. maddesi ile getirilen "6831 Sayılı Orman Yasasının değişik 2. ve 2/B maddesi gereğince Hazine adına orman sınırları dışına çıkartılan yerlerde 2924 Sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkındaki Yasa hükümlerinin uygulanamaz.
 Bu yerler rayiç bedeli üzerinden öncelikle kullanıcısı orman köylüsüne, belediye ve mücavir alan sınırları içerisinde ise kullanıcılarına doğrudan satılabileceği gibi, belediyelere ve Arsa Ofisi Genel Müdürlüğüne devredilir" hükümleri Anayasa Mahkemesinin 04.10.2002 gün ve 2001/382-21 sayılı kararı ile iptal edildiği, 4706 Sayılı Yasanın 3. maddesinde 6831 Sayılı Yasanın değişik 2. ve 2/B maddesi hükümleri uyarınca orman rejimi dışına çıkartılan yerlerde 2924 Sayılı Yasanın satışla ilgili hükümlerinin uygulanmayacağı belirtilerek 2924 Sayılı Yasanın ilgili hükümleri zimmen yürürlükten kaldırıldığı, ilgili hükümleri yürürlükten kaldıran 4706 Sayılı Yasanın 3. maddesi Anayasa Mahkemesince iptal edildiğine göre Yargıtay Hukuk Genel Kurulunun 10.12.1997 tarih 1997/19-665/1018 sayılı kararında da belirtildiği gibi "Bir yasa veya yasa hükmünde kararnamenin Anayasa Mahkemesince iptali karşısında, önceki yasa veya yasa hükmündeki kararnamenin yürürlükten kaldırıldığı veya değiştirildiği yasanın hükümleri uygulanabilir hale gelmez ve kendiğinden yürürlüğe girmez, bu konuda hukuki boşluk meydana gelir".
 Anayasa Mahkemesinin iptal gerekçeleri ve hukuki boşluk nedeniyle 2924 Sayılı Yasanın satışa ilişkin hükümlerinin uygulanma olanağının kalmadığı, bu nedenle, çekişmeli taşınmazın tapu kaydı üzerinde yasaya aykırı olarak konulmuş olan şerhin sahibine ancak kişisel hak sağlayacağı,kişisel hakla Hazinenin ayni hakkının çatışması halinde; ayni hakka üstünlük tanınması gerekeceğine göre tapu kaydındaki şerhin iptali ile davalının elatmasının önlenmesine ve parsel üstündeki binanın yıkımına karar verilmesinde bir isabetsizlik bulunmadığından, yerinde görülmeyen temyiz itirazlarının reddi ile usul ve yasaya uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edenlere yükletilmesine 08/06/2006 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 14. HD 2006/1230 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850954700)
 
 Dava tapu kaydına dayanılarak açılmış elatmanın önlenmesi istemine ilişkindir.
 
@@ -86,6 +96,8 @@ Türk Medeni Kanununun 683 maddesi hükmünce bir şeye malik olan kimse o şeyi
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz edilen kararın BOZULMASINA …
 
 ## Ankara BAM 22. HD 2025/866 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160982200)
 
 Davalı ... Otomotiv Enerji Akaryakıt Loj.
 

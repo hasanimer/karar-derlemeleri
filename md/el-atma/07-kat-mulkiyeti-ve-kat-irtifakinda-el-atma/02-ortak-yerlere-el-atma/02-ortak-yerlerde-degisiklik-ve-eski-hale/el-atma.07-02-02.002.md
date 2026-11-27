@@ -23,12 +23,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2019/5918 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540058400)
+
 2- 634 sayılı Kat Mülkiyeti Kanununun 19. maddesine göre, anataşınmazda bir kısım değişiklikler kat maliklerinin 4/5 rızası ile yapılabilecek ise de bu değişikliklerin, öncelikle mimari projede oybirliği gerektirecek şekilde esaslı değişiklik yapmaması, kat maliklerinin mülkiyet hakkını ihlal etmemesi, yapılacak değişikliklerin diğer kat maliklerinin bağımsız bölüm ve eklentisinden istifadelerini engellememesi, bağımsız bölüm içerisinde yapılan değişikliklerin ise anayapının statiğine zarar vermemesi gerekir. Sırf bağımsız bölüm içerisinde kalan (su, elektrik, ısınma gibi ortak tesisler ile kolon, kiriş, tavan v.b. ortak yerlere müdahale niteliği taşımayan) ve yapının statiğine zarar vermeyen değişiklikler için muvafakat alınmasına gerek yoktur. Kanunun 19. maddesindeki düzenleme 31. maddesindeki düzenlemeden farklı olup 19. maddesindeki yazılı rıza, herhangi bir şekle bağlı olmayıp kat malikleri kurulu kararı biçiminde olması gerekmez, sadece yazılmak ve bağımsız bölüm malikleri tarafından imzalanmak suretiyle de verilebilir.
 Bu maddedeki rızanın kat malikleri kurulu kararı şeklinde alınması buna kat malikleri kurulu kararı niteliğini vermeyip salt muvafakat edildiğine dair yazılı bir irade beyanı olarak kabul edilmesini gerektirir. 19. maddedeki rızanın mevcut olup olmadığının saptanması bakımından her bir malikin birden ziyade bağımsız bölümü bulunsa dahi tek bir oya sahip olacağı ve anataşınmazda bir bağımsız bölüme malik bulunan birden çok paydaşın bulunması halinde de bunlardan vekalet verecekleri birinin o bağımsız bölümü yalnız başına temsil edeceği kabul edilmektedir. Yapılan değişikliklerin ve yasanın 19. maddesine uygun 4/5 muvafakatın bulunup bulunmadığının açıklanan hususlar dikkate alınarak incelenip, oluşacak sonuca göre bir karar verilmesi gerekirken, yapılan değişikliklere 4/5 muvafakatın bulunmadığı gerekçesiyle davanın kabulüne karar verilmesi doğru görülmemiştir.
 
 SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazlarının kabulü ... Bölge Adliye Mahkemesi 17. Hukuk Dairesinin 14/02/2019 tarih ve 2018/167 E. - 2019/190 K. sayılı kararının KALDIRILMASINA …
 
 ## Yargıtay 20. HD 2019/3502 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513178400)
 
 1-634 sayılı Kat Mülkiyeti Kanunun 33. maddesi uyarınca mahkememizin bozulan kararı ve 27.10.2014 tarihli ..... tarafından düzenlenen bilirkişi raporunda belirtilen ...........ana binasının önündeki 75 m2'lik ortak alandaki ve apartman dış cephesindeki ortak kullanıma haiz duvarlara konulan klima üniteleri ve parçalarının kaldırılması, ayırca sığınağa açılan kapı boşluğu kapatılarak ve projeye uygun hale getirilmesi, işletmeye ait erzakların ve demirbaş eşyaların bu bölgeden alınarak davalıların müdahalesinin son verilmesi için davalılara kararın tebliğ tarihinden itibaren bir ay süre verilmesine, aksi takdirde para cezasına mahsup edilebileceklerinin ihtarına, tebligatın mahkeme kararının tebliği ile karar kesinleşmeden sürenin başlamasına, …
 
@@ -38,6 +42,8 @@ Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak 
 
 ## Yargıtay 20. HD 2019/2740 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/505798800)
+
 Mahkemece, davalının ... Apartmanının yönetim ofisine yapmış olduğu müdahalenin önlenmesine ve ecrimisil talebinin ise kısmen kabulüne karar verilmiştir.
 
 …
@@ -45,6 +51,8 @@ Mahkemece, davalının ... Apartmanının yönetim ofisine yapmış olduğu müd
 Ancak; mahkemece, yapılmasına hükmedilen işlemlerin yerine getirilmesi için davalı tarafa Kat Mülkiyeti Kanununun 33. maddesi hükmü uyarınca uygun süre verilmesi gerektiğinin düşünülmemesi doğru değil ise de bu husunun giderilmesi yeniden yargılamayı gerektirmediğinden, gerekçeli kararın hüküm fıkrasının 1. bendinin sonuna “kararın kesinleşmesinden itibaren karar gereğinin yerine getirilmesi için 20 gün süre verilmesine” cümlesinin yazılması suretiyle düzeltilmesine ve hükmün 6100 sayılı Kanunun geçici 3. maddesi atfıyla HUMK’nın 438/7.
 
 ## Yargıtay 20. HD 2019/1209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481859900)
 
 Mahkemece davanın reddine karar verilmiş, karar davacı tarafından temyizi üzerine Yargıtay 18.
 
@@ -57,6 +65,8 @@ Mahkemece davanın reddine karar verilmiş, karar davacı tarafından temyizi ü
 Dosyadaki yazılara, kararın bozmaya uygun olmasına ve delillerin takdirinde bir isabetsizlik bulunmamasına göre, yerinde görülmeyen bütün temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2019/783 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482831900)
 
 Davacı dava dilekçesinde özetle; davalının davacının alt katında oturduğunu ve 634 sayılı Kanuna aykırı olarak balkon ve pencerelerine demir parmaklık yaptırdığını, ... Belediyesi tarafından gönderilen 18/07/2007 tarih 3625 sayılı yazılı uyarıya rağmen davalının gerekli düzeltmeleri yapmadığını, ortak kullanım alanına klima motoru koyduğunu beyan ederek; davalının ortak kullanım alanına haksız müdahalesinin önlenmesini, balkon ve pencerelere yapılan demir parmaklıkların 634 sayılı Kanuna uygun hale getirilmesini, klima motorunun kaldırılarak eski haline getirilmesini talep etmiştir.
 
@@ -73,6 +83,8 @@ Dosya kapsamı ve mahkemece uyulan bozma kararı gereğince; projeye aykırı ş
 
 ## Yargıtay 20. HD 2019/15 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478776300)
+
 Dava, müdahalenin men'i ve eski hale getirme istemine ilişkindir.
 
 634 sayılı Kat Mülkiyeti Kanununun 19. maddesinin birinci fıkrasına göre, kat malikleri anataşınmazın bakımı ve mimari durumu ile güzelliğini ve sağlamlığını titizlikle korumaya mecburdurlar. Aynı maddenin 2. fıkrasına göre; kat maliklerinden biri, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım, tesis ve değişiklik yaptıramaz.
@@ -83,6 +95,8 @@ Dava, müdahalenin men'i ve eski hale getirme istemine ilişkindir.
 SONUÇ: Yukarıda açıklanan nedenlerle; davalı ..., davalı-karşı davacı ... vekili, davalılar ... ve M.... vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/3904 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427068800)
 
 Davacı vekili dava dilekçesinde; davalının, dava konusu sitede kat maliki olduğunu, mutfak balkonunu PVC ile kapatıp mutfağı ile birleştirerek kendisine haksız kapalı alan oluşturduğunu, bu durumun 634 sayılı Kat Mülkiyeti Kanununa ve site yönetim planına aykırı olduğunu beyan ederek davalının, projeye ve kat mülkiyetine aykırı müdahalesinin men'i ve projeye aykırı olarak yaptığı tüm ilavelerin kal'ine, eski hale getirilmesine karar verilmesini talep etmiştir.
 
@@ -98,6 +112,8 @@ için 15 gün süre verilmesine" cümlesinin eklenmesi suretiyle hükmün 6100 s
 
 ## Yargıtay 20. HD 2018/3664 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426493600)
+
 Davacı vekili dava dilekçesinde özetle; müvekkilinin ...Sitesi B Blokta bulunan dairenin sahibi olduğunu, site yönetimince karar alınanrak B bloka asansör yapımına başlandığını müvekkiline toplantı konusunun usulüne uygun tebliğ edilmediğini ve kararı sonradan öğrendiğini, 634 sayılı Kat Mülkiyeti Kanununun 19 ve 42. maddeleri uyarınca kat maliklerinin 4/5'inin çoğunluğu olmaksızın taşınmazdaki ortak yerlerde inşaat, onarım tesis ve değişiklik yapılamayacağını, asansörün yapımının imara ve projeye uygun olması ve sitenin bağlı bulunduğu belediyeden onaylı izin alınması gerektiğini beyan ederek; izinsiz yapılan asansörün eski haline getirilmesine, müdahalenin önlenmesine, usulsüz olarak inşasına başlanan asansör yapımının durdurulmasına karar verilmesini talep etmiştir.
 
 Mahkemece; 634 sayılı Kat Mülkiyeti Kanununun 19/2. maddesine göre ana gayrimenkulun ortak yerlerinde inşaat, onarım ve tesisler yapılmasının bütün kat maliklerinin 4/5 'inin yazılı rızasını gerektirdiği, dava konusu yerde yapılan asansörün tüm kat maliklerinin lehine yapılmış bir tesis olmayıp anahtar takılmak suretiyle bir kısım kat maliklerine fayda sağladığı gerekçesiyle; davanın kabulüne, Yalova ili, Merkez ilçesi, Süleymanbey mahallesi, 46 ada, 9 parselde kayıtlı taşınmazda Tuncalp ... B Blokta ortak alana yapılan asansörün kal'ine karar verilmiş, hüküm davalılar ... ve ... tarafından temyiz edilmiştir.
@@ -112,6 +128,8 @@ SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şek
 
 ## Yargıtay 20. HD 2018/2023 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419218500)
+
 Mahkemece davanın kabulü ile, davaya konu apartmanın ortak alanında bulunan davalıya ait jeneratör, klima motorları ve diğer malzemelerin kaldırılmasına, bunları çevreleyen tel örgünün sökülmesine, davalının dava konusu ortak alana vaki el atmanın önlenmesine karar verilmiş hüküm, davalı tarafından temyiz edilmiştir.
 
 Dava konusu uyuşmazlık el atmanın önlenmesi ve eski hale getirme istemine ilişkindir.
@@ -122,6 +140,8 @@ Ancak; karar gereğinin yerine getirilmesi için davalıya 634 sayılı Kat Mül
 
 ## Yargıtay 20. HD 2018/1921 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/418127600)
+
 1 ve 2 nolu bentlerde sözü edilen kısımların eski hale getirilmesi çin davalıya 45 gün 634 sayılı Kat Mülkiyeti Kanununun 33. maddesi uyarınca süre tanınmasına ve tespit edilen süre içerisinde kararın yerine getirilmemesi halinde KMK'nın 33/son maddesi uyarınca hakkında idari para cezasının uygulanacağının ihtaratına, …
 
 …
@@ -129,6 +149,8 @@ Ancak; karar gereğinin yerine getirilmesi için davalıya 634 sayılı Kat Mül
 Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, mimari projeye aykırılıklar tespit edilip mahkemece tespit edilen aykırılıkların eski hale getirilmesine karar verildiği anlaşılmış olup yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2018/1130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/412314900)
 
 Mahkemece davacının, davalı ... hakkında açtığı tahliye davasının vazgeçme nedeniyle reddine, davacının, davalı ... hakkında açtığı, İstanbul ili, ... İlçesi, ... köyü, 411 ada, 2 parsel,...blok, zemin kat, f giriş 2 nolu bağımsız bölüm numaralı taşınmazın mesken olarak eski hale getirilmesi davasının kabulü ile taşınmazın iş yeri olarak kullanımına son verilerek mesken olarak eski haline iadesine, davacının, davalı ... hakkında açtığı, aynı taşınmazın önündeki camekanın eski haline getirilmesine ilişkin davasının konusuz kaldığı anlaşıldığından karar verilmesine yer olmadığına karar verilmiş, hüküm davalı ... tarafından temyiz edilmiştir.
 
@@ -139,6 +161,8 @@ Dava müdahalenin meni ve eski hale getirme istemine ilişkindir.
 Ancak; Mahkemece, davalı tarafa Kat Mülkiyeti Kanununun 33. maddesi hükmü uyarınca uygun süre verilmemesi doğru değil ise de bu eksikliğin giderilmesi yeniden yargılamayı gerektirmediğinden, hüküm fıkrasının ikinci parağrafının sonunda bulunan “...taşınmazın işyeri olarak kullanılmasına son verilerek mesken olarak eski haline iadesine” cümlesinden sonra gelmek üzere “bu iş için davalıya 15 gün süre verilmesine” ibaresinin yazılması suretiyle düzeltilmesine ve hükmün 6100 sayılı Kanunun geçici 3. maddesi atfıyla HUMK’nın 438/7.
 
 ## Yargıtay 20. HD 2018/210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405501000)
 
 Davacı vekili dilekçesinde özetle, davalıların 1 ve 2 nolu dükkanları birleştirerek tek dükkan haline getirdiklerini, dükkanların ...adı altında davalı şirkete kiralandığını, kiracı şirketin üst katların mesken olduğunu umursamadan ve yasal saat sınırı tanımadan 7 gün 24 saat faaliyette bulunduğunu, tüm apartman sakinlerine yaşamı zehir ettiğini, uyarı ve ihtarlarının netice vermediğini, kapalı otoparka davalı şirket tarafından proje dışı konulan jeneratörün kaldırılmasına, kapalı otoparkın depo olarak kullanılmasına son verilmesine, apartman ön yüzünün kenarlara konulan çiçek saksıları ve diğer engellerin kaldırılmasına, apartmanın görüntüsünü bozan bez çadırların, tüplü ısıtıcıların kaldırılmasına, apartmanın ön yüzünün orjinal rengine boyanmasına, otoparkın dükkanlara gelen müşteriler tarafından kullanılmasının önlenmesine, apartman ön yüzüne konulan ve 24 saat gürültü ile çalışan cihazın kaldırılmasına,proje dışı açılan deliklerin projede belirtilen hale getirilmesine, davalı şirketin, yasal çalışma saatleri dışında çalışmasının engellenmesine karar verilmesini talep etmiştir.
 
@@ -153,6 +177,8 @@ HMK'nın 297. maddesine göre; mahkemece verilen kararın hüküm sonucu kısmı
 
 ## Yargıtay 20. HD 2017/9379 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379866200)
+
 Mahkemece, anataşınmazın mimari projesine aykırı inşaat ve tesisler yapılmasına ilişkin kat malikleri kurulu kararı olmadığı anlaşıldığından, davacı-karşı davalı ve davalı-karşı davacının davasının kabulü ile eski hale getirilmesine ve K.M.K'nın 33/3. maddesi gereği yargılama aşamasında verilen ihtarata rağmen aykırılıklar giderilmediğinden taraflar hakkında idari para cezasına karar verilmiş, hüküm davalı ... vekili tarafından temyiz edilmiştir.
 
 Dava, mimari projeye aykırılıkların eski hale getirilmesi istemidir.
@@ -163,6 +189,8 @@ Karar gereğinin yerine getirilmesi için 634 sayılı Kat Mülkiyeti Kanununun 
 
 ## Yargıtay 20. HD 2017/8295 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/376754600)
+
 HMK'nun 297. maddesine göre mahkemece verilen kararın hüküm sonucu kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, istek sonuçlarından herbiri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların mümkünse sıra numarası altında birer birer, açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi ve verilen karar ile iki tarafın leh ve aleyhine hükmedilen görev ve hakların gayet açık ve anlaşılır biçimde yazılması gerekmektedir. Somut olayda, uygulamada duraksama ve kargaşaya yol açmayacak biçimde hangi tarihli bilirkişi raporuna göre hüküm kurulduğu belirtilerek, ayrı ayrı projeye aykırılıkların somut şekilde kim tarafından yapıldığı belirlenerek, infazda tereddüt yaratmayacak şekilde eski hale getirilmesine karar verilmemesi, …
 
 3- 634 sayılı Kat Mülkiyet Kanununun 19/1 maddesine göre, kat malikleri anayapının mimari durumunu ve sağlamlığını titizlikle korumakla yükümlüdürler. Yerleşik yargı kararlarına göre; anayapının ilk inşası sırasında projesine uygun olarak yapılmamış olan bölümlerinin projeye uygun hale getirilmesinden davacı da dahil tüm kat malikleri sorumlu olup; mahkemece, projesine aykırı yapılan kısmın projeye uygun olarak yapılması için gerekli masrafların bilirkişiye hesap ettirilerek belirlenmesi, bunun avans niteliğinde kabul edilerek kat maliklerinin arsa payları oranında sorumlu tutularak davacıya projeye uygun olarak yapması için yetki verilmesi, masrafların daha fazla olması halinde yine kat maliklerinden arsa payları oranında alınmasına karar verilmesi gerektiğinin düşünülmemiş olması doğru görülmemiştir.
@@ -170,6 +198,8 @@ HMK'nun 297. maddesine göre mahkemece verilen kararın hüküm sonucu kısmınd
 SONUÇ: Yukarıda açıklanan nedenlerle davalı ... vekili, davalı ... vekili ve davacılar ... ve arkadaşları vekilinin temyiz itirazlarının kabulüyle hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2017/7770 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370314800)
 
 Mahkemece davanın kabulüne davalı ... Sitesinin yapmış olduğu, 08/01/2012 tarihli yönetim kurulu kararının iptaline, bilirkişi raporunda gösterilen 230 m2'lik alana yapılan tecavüzün men'i ile bu alanın ortak alana dahil edilmesine karar verilmiş, hüküm davacı ve davalı vekili tarafından temyiz edilmiştir.
 
@@ -181,6 +211,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 20. HD 2017/7370 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388897400)
+
 Davacı site yönetimi dilekçesinde özetle, ... ili, ... ilçesi, ... konakları sitesinde, 3 nolu dairenin balkon kısmına davalının, kat maliklerinin rızası olmaksızın, onaylı projeye aykırı olarak, katlanabilir cam balkon sistemi kullanmak suretiyle kapalı alan haline getirdiğini, binanın dış duvarına da klima aparatları ve soğutma sistemine ait hava fanını monte ettiğini belirterek, müdahalenin meni ve eski hale getirme karar verilmesini talep etmiştir.
 
 Mahkemece, davalının, A1 blok zemin kat 3 nolu bağımsız bölümünün balkonunun üst kısmını örtü malzemesi ile ön kısmını katlanabilir cam sistemi ile kapatmak sureti ile taşınmaza vaki müdahalesinin menine, salon ve oda dış duvarlarına monte edilen 2 adet klima aparatı nedeniyle açtığı davanın reddine karar verilmiş, hükmün 1.maddesi davacı tarafından, 2. maddesi de davalı tarafından temyiz edilmiştir.
@@ -191,11 +223,15 @@ Kat Mülkiyeti Kanununun 19. maddesinde “Kat malikleri, ana gayrimenkulün bak
 
 ## Yargıtay 20. HD 2017/7198 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/369925700)
+
 Dava 634 sayılı Kanunun kaynaklı el atmanın önlenmesi ve eski hale getirilmesi davasıdır.
 
 634 sayılı Kat Mülkiyeti Kanununun 19. maddesinin ikinci fıkrasına göre kat maliklerinden biri bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde onarım, tesis ve değişiklik yaptıramaz. Dosyadaki bilgi ve belgeler ile fotoğrafların incelenmesinden; dava konusu edilen bağımsız bölümlerin hareketli cam balkon sistemiyle (tamamı açılıp kapatılan raylı panel cam) kapalı hale getirildiği, bu tür bir sistemin kurulmasının ancak anayapıya sabitleştirilmek suretiyle mümkün bulunduğu ve kullanıcısı tarafından günü birlik sökülüp takılabilen basit bir sistem olmadığı anlaşılmakta olup, böylece balkonların sabit bir sistemle kapatıldıkları görülmektedir. Mahkemece; yukarıda açıklanan hususlar ve anataşınmaz kat malikleri kurulunun beşde dört çoğunlukla almış oldukları bir kararın da bulunmadığı dikkate alınarak, toplanan delillere göre davanın kabulüyle kapatılan balkonların onaylı mimari projeye uygun olarak eski hale getirilmesine karar verilmesinde usul ve kanuna aykırı bir yön bulunmamaktadır.
 
 ## Yargıtay 18. HD 2016/10781 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/248626100)
 
 Davacı vekili dava dilekçesinde, ortak alana müdahalenin önlenmesini ve eski hale getirilmesini istemiştir. Mahkemece, davalı ... yönünden davanın husumetten reddine, davalı ... yönünden kabulüne karar verilmiş, hüküm davalı ... tarafından temyiz edilmiştir.
 
@@ -204,6 +240,8 @@ Davacı vekili dava dilekçesinde, ortak alana müdahalenin önlenmesini ve eski
 Karar gereğinin yerine getirilmesi için 634 Sayılı Kat Mülkiyeti Yasasının 33.maddesi gereğince uygun bir süre verilmesi gerektiğinin düşünülmemesi doğru değil ise de, bu yanılgının giderilmesi yeniden yargılama yapılmasını gerektirmediğinden hükmün 2. fıkrasının 2. bendindeki “eski hale getirilmesine” ibaresinden sonra gelmek üzere “davalıya karar gereğinin yerine getirilmesi için 3 gün süre verilmesine" ibaresi yazılmak suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438.
 
 ## Yargıtay 18. HD 2016/7653 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228064500)
 
 Davacı vekili dava dilekçesinde, davalının mimari projeye aykırı olarak merdiven altını kapattığını, balkon ölçülerini değiştirdiğini, terasları büyüttüğünü, ön ve arka cephelere üstü kiremit kaplı pergoleler yaptığını, zemin katı büyüterek meskenin kapalı alanı emsaline göre büyüttüğünden mimari projeye aykırılıkların eski hale getirilmesini istemiş; mahkemece bilirkişi raporunda onaylı mimari projeye aykırı olduğu tespit edilen yatak odasının 4,36 m², zemin kat arka cephesinin 20,14 m², ve zemin kat girişi hayat alanının 6,64 m² lik kısmının eski hale getirilmesine karar vermiştir.
 

@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2022/17244 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846634400)
+
 Mahkemece davanın kabulüne karar verilmiş, hükmün davalı tarafça istinaf edilmesi üzerine İstanbul Bölge Adliye Mahkemesi 36. Hukuk Dairesinin 2019/3594 Esas, 2022/674 Karar sayılı kararı ile davalı tarafın istinaf başvurusunun esastan reddine karar verilmiştir.
 
 …
@@ -34,6 +36,8 @@ Anagayrımenkule ait tapu kayıt bilgilerinden dava konusu edilen bağımsız b�
 Açıklanan nedenlerle davalılar vekilinin temyiz itirazları yerinde olduğundan İstanbul 9. Sulh Hukuk Mahkemesinin 2016/797 Esas, 2019/407 Karar sayılı hükmünün HMK'nın 371. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 5. HD 2021/15639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715405900)
 
 Davacı vekili, davalıların kapıcı dairesi ve apartman bahçesine müdahalesinin önlenmesi ve eski hale getirilmesini istemiştir.
 
@@ -47,6 +51,8 @@ Hükmün böylece HMK'nın 370/2. maddesi uyarınca DÜZELTİLEREK ONANMASINA �
 
 ## Yargıtay 5. HD 2021/9361 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687776700)
+
 Mahkemece ortak alana konulan direklerin (tedbiren kaldırılan) kaldırılmasına, ortak havuza erişimi engelleyen bir husus tespit edilemediğinden bu konudaki talepleri ile maddi tazminat taleplerinin reddine karar verilmiştir. Taraf vekilleri, istinaf başvurusunda bulunmuş,...Bölge Adliye Mahkemesi 35.
 
 …
@@ -56,6 +62,8 @@ Dava konusu kat mülkiyeti kurulu 108 parselde kat maliki taraflar arasındaki o
 Temyiz itirazlarının açıklanan nedenlerle kabulü ile...Bölge Adliye Mahkemesi 35. Hukuk Dairesinin 20/10/2020 tarih ve 2018/904 E. - 2020/1555 K. sayılı kararının müdahalenin önlenmesi ve eski hale getirilmesi davası yönünden KALDIRILMASINA …
 
 ## Yargıtay 5. HD 2021/7591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/692370600)
 
 Mahkemece davanın kabulüne Adana ili, ... ilçesi, ... mahallesi 505 ada 34 parselde kain 64001 sokak no:2 adresinde bulunan taşınmazın 9. kat 16 nolu bağımsız bölüm maliki olan davalı tarafından mimari projeye aykırı olarak yaptığı müdahalenin meni'ne, bilirkişi raporuna ekli krokide A harfi ile gösterilen binanın teras katında yapılan ahşap çatı ve cam duvarlarının projeye aykırı olması nedeniyle mimari projeye uygun hale getirilmesine, krokide B harfi ile gösterilen yere toplamda 27,5 m2 alanlı yer olan apartmanın ortak yerlerinden olan asansör dairesi ile giriş enerjisi yerleşim yerine müdahalenin kaldırılarak projeye uygun hale getirilmesine, krokide C harfi ile gösterilen alanda 3,90 m -8,40 m alanda mimari projede olması gereken çatının eski haline getirilmesine, davalı tarafından eski hale getirilmesi için kararın kesinleşmesinden itiraben 45 gün kesin süre verilmesine, eski hale getirilmediği takdirde eski hale getirilmesi için davacı tarafa yetki verilmesine yapılacak masraflar için 10.242,00 TL'nin davalıdan alınarak davacıya verilmesi, karar verilmiş, hükmün davalı tarafça istinaf edilmesi üzerine Adana Bölge Adliye Mahkemesi 5.
 
@@ -69,6 +77,8 @@ Temyiz edilen Adana Bölge Adliye Mahkemesi 5. Hukuk Dairesi kararının yukarı
 
 ## Yargıtay 5. HD 2021/5853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686159100)
+
 Mahkemece davanın tazminat talebi bakımından reddine, projeye aykırılıklar bakımından davanın kabulüne; Muğla İli, Marmaris İlçesi, ... Mahallesi, ...
 
 …
@@ -78,6 +88,8 @@ Mahkemece davanın tazminat talebi bakımından reddine, projeye aykırılıklar
 Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere ve HMK 355. maddesindeki kamu düzenine aykırılık halleri resen gözetilmek üzere istinaf incelemesinin, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılacağı kuralına uygun biçimde inceleme yapılıp karar verilmiş ve verilen kararda bir isabetsizlik görülmemiş olmasına göre yerinde olmayan bütün temyiz itirazlarının reddi ile usul ve yasaya uygun hükmün HMK 370/1. maddesi gereğince ONANMASINA …
 
 ## Yargıtay 5. HD 2021/3109 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680834700)
 
 Davacı vekili, apartmanın ön bahçesinin kiraya verilmesine ilişkin imza listesinin yok hükmünde olduğunun ve kira sözleşmesinin bağlayıcılığı olmadığının tespitine, apartmanın ortak yerlerine yapılan tadilatların kaldırılmasına ve apartman ortak kullanım alanının eski hale getirilmesine karar verilmesini talep etmiştir.
 
@@ -94,6 +106,8 @@ Kat Mülkiyeti Kanunun düzenlemesine göre, ortak gider ve avans borcundan ve g
 Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 8. HD 2021/2493 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666191100)
 
 Davacı vekili, müvekkiline ait 2, 17, 18 bağımsız bölüm numaralı taşınmazlara davalıların hiç bir hakları bulunmadığı halde elattıklarını, hak iddia ederek kullanmaya başladıklarını öne sürerek elatmanın önlenmesine karar verilmesini talep etmiştir.
 
@@ -118,6 +132,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin yazılı temyiz it
 
 ## Yargıtay 20. HD 2020/2533 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594628100)
+
 Davacı vekili, dava ve birleştirilen dava dilekçelerinde, ortak yerlere davalıların haksız müdahalesinin önlenmesine ve ortak yerin eski hale getirilmesine karar verilmesini istemiş; mahkemece davacının bu davayı açmasının dürüstlük kuralı ile bağdaşmayacağı gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -127,6 +143,8 @@ Kat malikleri toplantılarında belirlenmeyen özel amaca tahsisli 85 m²'lik or
 SONUÇ: Yukarıda açıklanan nedenlerle; davacı ve bir kısım davalılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2020/2492 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594626400)
 
 Mahkemece 2012/765 Esas -2012/810 Karar sayılı ve 17/10/2012 tarihli kararı ile "..İstanbul, .... 396 pafta, 1885 ada ve 26 parsel sayılı yerdeki (Zeytinburnu Nuripaşa mah.
 
@@ -145,6 +163,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 14. HD 2020/2427 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589024300)
+
 Dava, Kat Mülkiyeti Kanunundan kaynaklanan elatmanın önlenmesi ve yıkım, ikinci kademede geçit hakkı tesisi istemine ilişkindir.
 
 Davacılar, üzerinde kat mülkiyeti kurulu olan 2033 ada 11 sayılı parselde kayıtlı 2 numaralı meskenin maliki ve intifa hakkı sahibi olduklarını, davalının ise 1 numaralı meskenin maliki olup tarafların ortak kullandığı bahçenin ortasına duvar örmesi sebebiyle kendi evlerine girmek için evin arka balkonunu kullanmak zorunda kaldıklarını, dolayısıyla davalının evlerine girişine engel olduğunu ileri sürerek elatmanın önlenmesini ve duvarın yıkılmasını, olmadığı taktirde taşınmaz üzerinde geçit hakkı kurulmasını talep etmişlerdir.
@@ -161,6 +181,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2020/2299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598930000)
+
 Davacı, davalılardan ...'nın 18493 ada 1 parsel sayılı taşınmazdaki 23 nolu dükkan nitelikli bağımsız bölümün maliki, diğer davalı ...'in de kiracı olduğunu, iş yerinin ön cephesine bakan pencerenin kaldırılarak kapıya dönüştürüldüğünü, bu durumun mimari projeye aykırı olduğunu, ortak alan olan bina ön cephesine masa ve sandalyeler konulduğunu ve bu alanın fiilen dükkana katıldığını, bu hususta davalılara ihtarname keşide edildiğini ileri sürerek, ortak alana elatmanın önlenmesine, masa ve sandalyelerin kaldırılmasına kapıya dönüştürülmüş olan pencerenin eski hale getirilmesine karar verilmesini istemiştir.
 
 …
@@ -174,6 +196,8 @@ tarihli inşaat mühendisi bilirkişi raporunun kararın eki sayılmasına” ka
 kurulmasında bir isabetsizlik bulunmadığından, yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2020/1845 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594658000)
 
 Mahkemece yapılan yargılama sonucu 03/06/2014 tarih 2012/1582 E.- 2014/735 K. sayılı karar ile "Davanın kısmen kabulü ile bilirkişilerin 06.01.2014 tarihli raporlarında belirttikleri dava konusu şikayetlerin giderilmesine yönelik olarak çatı üzerinde bulunan bacanın sağlam bir kaideye oturtulması ve ayrıca bacanın yangın çıkma tehlikesine karşı bacanın yalıtımı yapılması şeklinde aykırılığın giderilmesine ve bu maksatla davalıya takdiren bu işler için 30 gün süre verilmesine," karar verilmiş, davacı vekilinin hükmü temyiz etmesi üzerine, Yargıtay 18.
 
@@ -189,6 +213,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 20. HD 2020/927 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592603400)
+
 Mahkemece asıl davanın kabulüne, birleşen davanın reddine karar verilmiş, karar ... ve ... (...) vekili tarafından temyiz edilmesi üzerine Yargıtay 18.
 
 …
@@ -198,6 +224,8 @@ Bozma ilamına uyulduktan sonra yapılan yargılama sonucu mahkemece birleşen d
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak hüküm kurulmuş olduğuna göre, yerinde görülmeyen temyiz itirazlarının reddiyle, usûl ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2020/669 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592996000)
 
 Dava; Kat Mülkiyeti Kanunu uyarınca projeye aykırılığın giderilmesi, eski hale getirilme ve maddi- manevi tazminat istemine ilişkin olup; maddi tazminata ilişkin istemler Kat Mülkiyeti Kanunu kapsamında, manevi tazminata ilişkin istemler ise genel hükümler çerçevesinde incelenmelidir.
 
@@ -210,6 +238,8 @@ Eski hale getirme istemi yönünden; dosyadaki yazılara, kararın dayandığı 
 (3) numaralı bentde açıklanan nedenlerle davalı vekilinin yerinde görülmeyen temyiz itirazlarının reddiyle usul ve kanuna uygun hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2019/7034 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551216600)
 
 Mahkemece davanın 17/10/2012 tarihli bilirkişi raporunda 3. maddede belirtilen ön ve arka cephedeki teraslar ile 4. maddede belirtilen bir nolu bağımsız bölüm bitişiğindeki depo yönünden kabulüne, eski hale getirmek için 05/05/2015 tarihli ek bilirkişi raporunun esas alınmasına bunun için davalıya 30 gün süre verilmesine, davanın 17/10/2012 tarihli bilirkişi raporunun 5.maddesinde belirtilen güneş enerjisi tesisatı yönünden reddine, karar verilmiş, hüküm davacı vekili ve davalı vekili tarafından temyiz edilmesi üzerine Yargıtay 20.
 
@@ -225,6 +255,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davalı vekilinin temyiz itirazların�
 
 ## Yargıtay 20. HD 2019/6055 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560718000)
+
 Dava, elatmanın önlenmesi, kal, eski hale getirme ve ecrimisil istemine ilişkindir.
 
 …
@@ -234,6 +266,8 @@ Kabule göre de; 6100 sayılı Hukuk Muhakemeleri Kanununun 297/2. (1086 sayıl�
 SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2019/5525 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540041500)
 
 Davacı vekili,...... tarihli olağanüstü kat malikleri kurulu kararı ile akabinde yapıldığı iddia edilen 15/03/2014 tarihli olağan genel kurul toplantısının hukuka aykırı olduğu ve alınan kararların da geçersiz olduğunu, apartmanda iki tane malik olduğunu, birinin davalı diğerinin de ... olduğunu, bu toplantıda kat mülkiyetine aykırı olarak kararlar alındığını, alınan bu kararların iptaline karar verilmesini talep ve dava etmiştir. Davacı vekili birleşen davada ise, yönetime kayyum atanmasını, zararlarının tazminini ve projeye aykırı imalatların eski hale getirilmesini istemiştir. Mahkemece davanın kabulüne karar verilmiştir.
 
@@ -246,6 +280,8 @@ Davacı vekili,...... tarihli olağanüstü kat malikleri kurulu kararı ile aka
 SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının kabulü ile hükmün birleşen dava eski hale getirme istemi yönünden BOZULMASINA …
 
 ## Yargıtay 20. HD 2019/4068 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520795400)
 
 Mahkemece 04.02.2015 tarihli kararla davanın aktif husumet yokluğundan reddine karar verilmiş, kararın davacı tarafça temyiz edilmesi üzerine Yargıtay 18. Hukuk Dairesinin 02.05.2016 tarih 2015/10598 Esas - 2016/7117 Karar sayılı ilamı ile; davacının anataşınmazda 58 numaralı bağımsız bölümün ¾ hissesinin maliki olduğu anlaşıldığından Kat Mülkiyeti Kanunun 33. maddesine göre mahkemece tarafların gösterecek tüm delilleri toplanarak bilirkişi incelemesi yaptırılıp oluşacak sonuca göre bir karar verilmesi gerektiği gerekçesi ile bozulmasına karar verilmiştir.
 
@@ -265,6 +301,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; taraf vekillerinin temyiz itirazların
 
 ## Yargıtay 20. HD 2019/3844 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514199400)
+
 Dava projeye aykırılıkların eski hale getirilmesi istemine ilişkindir.
 
 …
@@ -274,6 +312,8 @@ Kabule göre de mahkemece, projeye aykırılıkların eski hale getirilmesi işl
 SONUÇ: Yukarıda açıklanan nedenlerle; temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2019/3531 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510606100)
 
 Mahkemece Yargıtay bozma ilamına uyulmasına karar verilerek yapılan yargılama neticesinde; dava konusu bağımsız bölümde yapılan tadilatlara ilişkin tadilat projesi düzenlenmiş olması nedeniyle mimari projeye aykırılığın söz konusu olmadığı bu nedenle projeye aykırı olmayan tadilatlar gereğince kat maliklerinin onayına gerek olmadığı gerekçesiyle davanın reddine karar verilmiş, hüküm davacılar vekili tarafından temyiz edilmiştir.
 

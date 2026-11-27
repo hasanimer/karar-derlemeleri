@@ -58,6 +58,8 @@ b) (2) numaralı bendinin (d) alt bendinde yer alan “davalı ...” ibaresi ç
 
 ## Yargıtay 5. HD 2026/4656 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209165000)
+
 Davacı vekili dava dilekçesinde özetle; davaya konu Bursa ili, ..., ... Mahallesi 11 95... (yeni 79 61... ) parsel sayılı taşınmaza yol yapılmak suretiyle fiilen el atıldığını ileri sürerek kamulaştırmasız el atılan taşınmaz bedelinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalı idarelerden tahsilini talep etmiştir.
 
 …
@@ -73,6 +75,8 @@ Buna karşın, dava konusu eski 11 95... parsel sayılı taşınmazın diğer pa
 Davacı vekili, davalı ... Belediyesi vekili ile Davalı ... vekilinin temyiz itirazlarının kısmen kabulü ile Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2026/3916 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205457100)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin Ankara ili, ... ilçesi, ... Mahallesi, 159 28... parsel sayılı taşınmazda hisse sahibi olduğunu, taşınmazın 1/1000 ölçekli Uygulama İmar Planında orta okul yeri olarak planlandığını taşınmaza kamulaştırmasız el atıldığını belirterek, taşınmazın bedelinin dava tarihinden itibaren kamu alacaklarına uygulanan en yüksek faiziyle birlikte davalı idareden tahsiline karar verilmesini talep etmiştir.
 

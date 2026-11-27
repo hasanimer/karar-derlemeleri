@@ -22,17 +22,25 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2016/9455 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/231257400)
+
 Açıklanan yasal düzenlemelere göre, kat mülkiyetine ilişkin borç ve yükümlerini yerine getirmeyen kat maliklerine karşı dava ve icra takibi yapılması davacı yöneticiliğin bizzat kanundan kaynaklanan görevi iken, mahkemece davacı site yöneticiliğin tüzel kişiliğinin bulunmadığı gerekçesi ile, site ortak gider alacağının tahsiline yönelik takibe itirazın iptali davasının reddine karar verilmesi usul ve kanuna aykırıdır.
 
 ## Yargıtay 18. HD 2016/5312 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/230183000)
 
 Dava konusu icra takibi, 2012-2013 yılları bakiye ortak gider alacağının tahsili amacıyla yapılmıştır. Her kat maliki, taşınmaza malik olduğu dönemin ortak giderlerinden sorumludur. Somut olayda davacıya, 2012 ve 2013 dönemlerine ait alacak miktarları ayrı ayrı açıklattırılmalı, davalıya ait bağımsız bölümlerin tapu kayıtları tedavülleriyle getirtilip malik olunan dönem belirlenmelidir. Taraf delilleri ibraz ettirilip yönetime ait işletme defterinin getirtilmesi sonrasında uzman bilirkişiden denetime olanaklı rapor alınmak suretiyle aykırılıkların tespiti ve tüm delillerin birlikte değerlendirilmesiyle hasıl olacak sonuca göre karar verilmesi gerekirken, noksan tahkikatla ve davacının davasının taraf sıfatı yokluğu nedeniyle usulden reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2016/1488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/231406100)
+
 Asliye Hukuk Mahkemesince, dava konusu bağımsız bölümün bulunduğu parselde kat irtifakının kurulduğu ve yönetim planının oluşturulduğu, davaya konu bağımsız bölümün bulunduğu taşınmazın da tek parsel üzerinde bulunduğu, KMK Ek madde 1'e göre KMK'nın uygulanmasından doğan her türlü uyuşmazlıkların sulh hukuk mahkemesince çözümleneceğinin düzenlendiği, davaya konu uyuşmazlığın da kat mülkiyeti kurulu taşınmazdaki bağımsız bölüm aidatlarının ödenmesi ile başlatılan icra takibinin davalı kat malikinin itirazı üzerine açılmış itirazın iptali davası olduğu gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 12. HD 2015/29931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403469500)
 
 Alacaklı tarafından borçlu aleyhine genel haciz yoluyla ilamsız takip başlatıldığı, örnek 7 ödeme emrinin borçluya tebliği üzerine borçlunun yasal sürede borca itiraz ettiği ve icra dairesi tarafından borçlunun borca itirazı sonucu takibin durdurulduğu, alacaklının itirazın kaldırılması istemiyle icra mahkemesine başvurduğu ve mahkemece aidat alacağının İİK.nun 68/1. maddesindeki belgelerden olmadığı gerekçesiyle itirazın kaldırılmasının reddine hükmedildiği anlaşılmaktadır.İİK.nun 68/1. maddesi gereğince; talebine itiraz edilen alacaklının takibi, imzası ikrar veya noterlikçe tasdik edilen borç ikrarını içeren bir senede yahut resmi dairelerin veya yetkili makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz veya belgeye müstenit ise, alacaklı itirazın kaldırılmasını isteyebilir.634 Sayılı Kat Mülkiyeti Kanunu' nun 37. maddesinde; "Kat malikleri kurulunca kabul edilmiş işletme projesi yoksa, yönetici gecikmeksizin bir işletme projesi yapar. Bu
 
@@ -40,6 +48,8 @@ projede özellikle: a) Ana gayrimenkulun bir yıllık yönetiminde tahmini olara
 Kat malikleri kurulunca kabul edilen işletme projesinde, kat maliklerinden toplanacak genel giderlerin belirlendiği ve belirlenen bu miktara kat maliklerinin 634 sayılı KMK.'nun 20. maddesindeki esaslara göre katılacağı belirtilmiştir. 634 sayılı KMK.'nun 20. maddesinde, kat maliklerinden her birinin, aralarında başka türlü bir anlaşma olmadıkça genel giderlere katılma biçimi belirlenmiştir.
 
 ## Yargıtay 12. HD 2015/26821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402732100)
 
 Alacaklı tarafından borçlu aleyhine genel haciz yoluyla ilamsız takip başlatıldığı, örnek 7 ödeme emrinin borçluya tebliği üzerine borçlunun yasal sürede borca itirazı sonucu takibin durdurulduğu, alacaklının itirazın kaldırılması istemiyle icra mahkemesine başvurduğu ve mahkemesince itirazın kaldırılmasına, alacaklı yararına tazminata hükmedildiği görülmektedir. İİK.nun 68/1. maddesi gereğince; talebine itiraz edilen alacaklının takibi, imzası ikrar veya noterlikçe tasdik edilen borç ikrarını içeren bir senede yahut resmi dairelerin veya yetkili makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz veya belgeye müstenit ise, alacaklı itirazın kaldırılmasını isteyebilir.634 Sayılı Kat Mülkiyeti Kanunu'nun 37. maddesinde; "Kat malikleri kurulunca kabul edilmiş işletme projesi yoksa, yönetici gecikmeksizin bir işletme projesi yapar.
 Bu projede özellikle: a) Ana gayrimenkulün bir yıllık yönetiminde tahmini olarak gelir ve gider tutarları; b) Tüm giderlerden her kat malikine, bu Kanunun 20. maddesindeki esaslara göre düşecek tahmini miktar; c) Tahmini giderlerle diğer muhtemel giderleri karşılamak üzere her kat malikinin 20. maddedeki esaslara göre vermesi gereken avans tutarı; gösterilir. Bu proje, kat maliklerine veya bağımsız bölümden fiilen yararlananlara, imzaları karşılığında veya taahhütlü mektupla bildirilir. Bildirimden başlayarak yedi gün içinde projeye itiraz edilirse, durum kat malikleri kurulunda incelenir ve proje hakkında karar verilir, gerekirse yeni bir proje hazırlanır. Kesinleşen işletme projeleri veya kat malikleri kurulunun işletme giderleri ile ilgili kararları, İcra ve İflas Kanunu'nun 68. maddesinin 1. fıkrasında belirtilen belgelerden sayılır" hükmü yer almaktadır. Anılan madde hükmüne göre, kat malikleri kurulu kararları ve kesinleşmiş işletme projeleri, İİK'nun 68/1. maddesinde yazılı belgelerden olup, geçersizliği genel mahkemelerde açılacak bir dava ile kanıtlanmadığı sürece ilamsız takibe konu edilebilir.Somut olayda; alacaklı ...
@@ -49,14 +59,20 @@ kurulunun işletme giderleri ile ilgili kararına dayanmadığı, alacaklı koop
 
 ## Yargıtay 17. HD 2014/11662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/374835900)
+
 ... ... Sulh Hukuk Mahkemesi ise, uyuşmazlığın genel hükümlere göre davalının ikametgahı mahkemesinde çözümleneceği gerekçesi ile yetkisizlik kararı vermiştir. Dava, üzerinde kat irtifakı kurulu bulunan dava konusu taşınmazda bağımsız bölüm maliki olan davalının payına düşen aidat borcunun tahsiline ilişkin yürütülen icra takibine yapılan itirazın iptali istemine ilişkin olup, taraflar arasındaki uyuşmazlık Kat Mülkiyeti Yasası hükümlerinden kaynaklanmaktadır.
 
 ## Yargıtay 18. HD 2014/1613 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106454200)
 
 634 Sayılı Kat Mülkiyeti Yasasının 17. maddesinin son fıkrası gereğince kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa kat mülkiyeti hükümleri uygulanır. Dosya içindeki bilgi ve belgelerin ve özellikle bilirkişi raporunun incelenmesinden, dava konusu taşınmazda 2000 yılında kat irtifakının kurulduğu, bağımsız bölümlerin halen inşaat halinde olup kullanıma hazır olmadığı anlaşılmaktadır. Bilirkişi raporuna göre defterlerde davalı adına borç kaydının bulunmadığı bildirilmiş ise de, tapu kaydına göre davalının bağımsız bölümünü 2006 yılında satın almış olduğu, icra dosyasına göre de icra takibine konu borcun 15.02.2007 ila 15.12.2007 dönemine ait olduğu anlaşılmakla bu alacak konusu dönemde davalının bağımsız bölümün maliki olduğu anlaşılmaktadır. Her ne kadar davacı kooperatif olarak görünüyorsa da dosya kapsamı itibarı ile site yönetimini sürdürdüğünden, davalı, kooperatife üye olmasa dahi kat maliki olarak aidat borcunu ödemekten sorumludur.
 Bu nedenle icra takibine esas dönemde bağımsız bölüm maliklerinin ödemesi gereken gider belirlenerek varsa davalının ödemeleri de tespit edilen gider payından düşülerek, davalının gerçek borcu belirlenmelidir. Açıklanan hususlar dikkate alınarak tarafların buna ilişkin kanıtları toplanıp bilirkişiden ek rapor alınarak sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 17. HD 2013/14014 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785514100)
 
 Kat Mülkiyeti Kanununun Ek 1. maddesi hükmü uyarınca bir uyuşmazlığın dava değerine bakılmaksızın Sulh Hukuk Mahkemesinde görülebilmesi için uyuşmazlığın kat mülkiyetinden kaynaklanması gerekmektedir.Somut olayda, davacı,davalı tarafından
 
@@ -64,17 +80,25 @@ Kat Mülkiyeti Kanununun Ek 1. maddesi hükmü uyarınca bir uyuşmazlığın da
 
 ## Yargıtay 18. HD 2013/7348 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795493900)
+
 Davada; üzerinde kat mülkiyeti kurulu anataşınmazda ortak gider alacağının tahsili için yürütülen icra takibine yapılan haksız itirazın iptali istenilmiştir. Dairenin geri çevirme kararı üzerine dosyaya getirtilen tapu kaydından, anataşınmazın Beşiktaş İlçesi Ortaköy Mahallesi 1679 ada 20 parsel sayılı taşınmazdaki 33 blokta olduğu anlaşılmaktadır. Bu duruma göre yanlar arasındaki uyuşmazlık Kat Mülkiyeti Yasası hükümlerinden kaynaklanmaktadır.
 
 ## Yargıtay 19. HD 2013/1385 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/253589300)
 
 Uyuşmazlık Kat Mülkiyeti Kanunu'nun 20. ve devamı maddelerinde düzenlenen ortak giderlere ilişkin icra takibi nedeniyle borçlu bulunulmadığının tespitine ilişkindir.Aynı Kanun'un Ek 1.maddesine göre ise bu Kanun'dan doğan her türlü uyuşmazlığın Sulh Hukuk Mahkemesi'nce çözümleneceği hüküm altına alınmış olmasına göre mahkemece görev hususu düşünülmeksizin ve tartışılmaksızın işin esasına girilerek karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2013/791 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/250712100)
+
 634 sayılı Kat Mülkiyeti Yasasının .... maddesi gereğince "gider veya avans payını ödemeyen kat maliki hakkında, diğer kat maliklerinden herbiri veya yönetici tarafından, yönetim planına, bu kanuna ve genel hükümlere göre dava açılabilir, icra takibi yapılabilir." Bundan ayrı, aynı yasanın 35. maddesinin (i) bendi gereğince de yönetici, kat mülkiyetine ilişkin borç ve yükümlülüklerini yerine getirmeyen kat maliklerine karşı dava ve icra takibi yapabilir. Kat Mülkiyeti Yasasının 38. maddesi nedeniyle yönetici, kat maliklerine karşı aynen bir vekil gibi sorumludur. Buna göre; yönetici vekil, kat malikleri asıl olup yönetici tarafından açılmış itirazın iptali davası sırasında yönetici tarafından takip edilmeyen davayı kat malikleri bizzat takip etme hakkına sahip olup, yenileme dilekçesi üzerine davaya bakılarak tarafların tüm delilleri toplanıp sonucuna göre karar verilmesi gerekirken yenileme dilekçesi veren davacıların yönetici olmadıkları gerekçesiyle davanın açılmamış sayılmasına karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2012/6265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797431100)
 
 Kat Mülkiyeti Yasası'nın 20. maddesinin ikinci fıkrası hükmüne göre ortak giderden payına düşeni ödemeyen bağımsız bölüm malikinin ödemede geciktiği günler için ödemekle yükümlü bulunduğu gecikme tazminatının başlangıç gününün açıkça saptanmış olması gerekir. Dava konusu ortak giderin dayanağını oluşturan kat malikleri kurulu kararına davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın kendisine tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu da yoksa hakkında açılan icra
 
@@ -82,13 +106,19 @@ takibi nedeniyle ödeme emrinin tebliğ edildiği tarih esas alınmalıdır. Mah
 
 ## Yargıtay 18. HD 2010/15522 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804176900)
+
 Kat Mülkiyeti Yasasının 20.maddesinin ikinci fıkrası hükmüne göre ortak giderden payına düşeni ödemeyen bağımsız bölüm malikinin ödemede geciktiği günler için ödemekle yükümlü bulunduğu aylık yüzde on (28.11.2007 tarihinden itibaren yüzde beş) gecikme tazminatının başlangıç gününün açıkça saptanmış olması gerekir. Dava konusu ortak giderin dayanağını oluşturan kat malikleri kurulu kararına davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın kendisine tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu husus belirlenemiyorsa hakkında açılan icra takibi nedeniyle ödeme emrinin tebliğ edildiği tarih esas alınmalıdır. Mahkemece, yukarıdaki esaslar dikkate alınarak davalının ortak gider borcunu öğrendiği günün açıkça belirlenmesi, icra takibinden önce öğrenmediği saptandığında gecikme tazminatının ödeme emrinin tebliğinden itibaren başlatılması gerekirken, bu konuda yeterli inceleme ve araştırma yapılmadan borcun ait olduğu aydan itibaren gecikme tazminatının hesaplanıp buna göre hüküm kurulması,…
 
 ## Yargıtay 18. HD 2010/13160 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805854200)
+
 Dosyada toplanan bilgi ve belgelerden özellikle dairenin geri çevirme kararı üzerine dosyaya getirtilen tapu kayıtları içeriğinden, ortak gider (aidat) borcunun dayanağını oluşturan anataşınmazda kat mülkiyetinin kurulmuş olduğu ve kat mülkiyetli taşınmazın Burhaniye’de bulunduğu anlaşılmaktadır. Kat Mülkiyeti Yasası'nın 33. maddesine göre borç ve yükümlerini yerine getirmeyenler hakkındaki icra takibinin anataşınmazın bulunduğu yer icra dairesine yapılması ve bu takibe yapılan itirazın iptali davasının da aynı yer Sulh Hukuk Mahkemesine açılması gerekir. Somut olayda ortak gider alacağının tahsili ile ilgili icra takibinin anataşınmazın bulunduğu yerin (Burhaniye) İcra Dairesine yapıldığı, bu takibe itirazın iptali davasının da aynı yerdeki Sulh Hukuk Mahkemesine açılmış olduğu gözetilerek davaya bakılıp, toplanacak kanıtlarla oluşacak sonuç doğrultusunda hüküm kurulması gerekirken yerinde görülmeyen gerekçe ile Burhaniye İcra Müdürlüğü'nün yetkisizliği yolunda karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2010/11558 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802066600)
 
 Dosya içerisindeki bilgi ve belgelerin incelenmesinde, ... Sitesi yönetimi adına vekalet veren yöneticilerin davalının ödemediği aidat giderleri için icra takibi yaptıkları, itiraz üzerine takibin durduğu, yine 28.06.2007 tarihinde kat malikleri kurulunca site yöneticiliğine seçilen yöneticiler tarafından avukata verilen vekaletle itirazın iptali davası açıldığı anlaşılmaktadır. Kat Mülkiyeti Yasasının 35. maddesi (d) bendinde ortak gider aidatlarının toplanması yöneticinin görevleri arasında olup aynı maddenin (i) bendinde de kat mülkiyetine ilişkin borç ve yükümlülüklerini yerine getirmeyen kat maliklerine karşı dava
 
@@ -96,13 +126,19 @@ ve icra takibi yapılması da yöneticinin görevleri arasında bulunmaktadır. 
 
 ## Yargıtay 18. HD 2010/11557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802063200)
+
 Dosya içerisindeki bilgi ve belgelerin incelenmesinde ... Sitesi yönetimi adına vekalet veren yöneticilerin davalının ödemediği aidat giderleri için icra takibi yaptıkları, itiraz üzerine takibin durduğu, yine 28.06.2007 tarihinde kat malikleri kurulunca site yöneticiliğine seçilen davacılar tarafından avukata verilen vekaletle itirazın iptali davası açıldığı anlaşılmaktadır. Kat Mülkiyeti Yasasının 35. maddesi (d) bendinde ortak gider aidatlarının toplanması yöneticinin görevleri arasında olup aynı maddenin (i) bendinde de kat mülkiyetine ilişkin borç ve yükümlülüklerini yerine getirmeyen kat maliklerine karşı dava ve icra takibi yapılması da yöneticinin görevleri arasında bulunmaktadır. Avukat’a bu davayı açmak üzere vekaleti veren ... ile ...'un yönetici oldukları sabit olup dava dilekçesinde davacılarının ... olarak gösterilmesinin, bu davanın davacılarının ... ile ... olmadıkları anlamına gelmeyeceğinden ve dava dilekçesinde yapılan bu maddi yazım hatasının mahallinde her zaman düzeltilmesi mümkün bulunduğundan davanın husumet yönünden reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2010/11483 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802407900)
+
 634 Sayılı Kat Mülkiyeti Yasası’nın 35.maddesinde; ortak giderleri ödemeyen kat maliki hakkında icra takibinde bulunmak yada bu konuda dava açmak yöneticinin görevleri arasında sayılmıştır. Anataşınmazda bağımsız bölüm maliki olmayan ve fakat, 1.4.2007 günlü kat malikleri kurulu toplantısında yönetici seçilen davacı ... yapmış olduğu icra takibinde yönetici olduğunu belirtmemişse de bu husus yönetici sıfatıyla itirazın iptali davası açmasına engel değildir.
 
 ## Yargıtay 12. HD 2010/3950 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/65364100)
 
 634 sayılı Yasanın 35. maddesinde yöneticinin görevleri ayrı ayrı gösterilmistir. Bu görevler anagayrimenkulun yönetimi ile ilgili olup, yonetimin gerektirdigi ortak giderlerı yapmak yetkisini de içermektedir. Yönetici yasadan aldığı temsil yetkisine dayanarak çeşitli sözleşmeler kurulabilir. İşte bu sözleşmeden doğan uyuşmazlıklarda yönetici dava açabileceği gibi, yöneticiye karşı da dava açılabilir. Şu hususta belirtilmelidir ki yönetici vekaletname ile tayin edilen bir vekil gibi değildir. Yasal bir temsilci olup yetkisini yasadan almaktadır. Bu sıfatla yaptığı sözleşmeden dolayı kendisine husumet yöneltilebilir. Öte yandan kat malikinin veya kat malikleri kurulunun ayrı bir tüzel kişiliğinin bulunmaması, yöneticinin özel kanundan doğan temsil yetkisini ortadan kaldırmaz. Sonuç olarak denilebilir ki, yöneticinin temsil yetkisine giren işlerden dolayı ücüncu kişilerle yaptığı sozleşmelerden dogan uyusmazlıklarda, aktıf ve pasif dava(icra takibi) ehliyeti bulunmaktadır. Aksinin benimsenmesi durumunda ise, bu kez üçüncü kişilerin yönetici ile sözleşme yapmaktan kaçınacakları ve bundan kat maliklerinin zarar görecekleri kuşkusuzdur.
 Somut olayda takip dayanağı çekin alacaklı ile yönetim arasında düzenlenen
@@ -111,29 +147,43 @@ sözleşmeden kaynaklanan edimin yerine getirilmesi(ödeme) amacıyla verildiği
 
 ## Yargıtay 17. HD 2009/4462 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879498800)
+
 Asliye Ticaret Mahkemesince; kiracı sıfatı ile alışveriş merkezinde faaliyet gösteren davalının ortak gider alacağını ödememiş olması nedeniyle davacı tarafından başlatılan icra takibine yaptığı itirazın iptaline ilişkin uyuşmazlığın çözümü kat mülkiyeti kanunu kapsamında kaldığından ve bu kanun kapsamında kalan davalara sulh hukuk mahkemesinde bakılacağı gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 18. HD 2009/1151 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874272900)
 
 Dosyada toplanan bilgi ve belgelerden özellikle dairenin geri çevirme kararı üzerine dosyaya getirtilen tapu kayıtları içeriğinden ortak gider (aidat) borcunun dayanağını oluşturan anataşınmazda kat mülkiyetinin kurulmuş olduğu ve kat mülkiyetli taşınmazın Kocaeli (...)'nde bulunduğu anlaşılmaktadır. Kat Mülkiyeti Yasasının 33. maddesine göre borç ve yükümlerini yerine getirmeyenler hakkındaki icra takibinin anataşınmazın bulunduğu yer icra dairesine yapılması ve bu takibe yapılan itirazın iptali davasının da aynı yer Sulh Hukuk Mahkemesine açılması gerekir. Somut olayda ortak gider alacağının tahsili ile ilgili icra takibinin anataşınmazın bulunduğu yerin (Kocaeli) İcra Dairesine yapıldığı, bu takibe itirazın iptali davasının da aynı yerdeki Sulh Hukuk Mahkemesine açılmış olduğu gözetilerek davaya bakılıp, toplanacak kanıtlarla oluşacak sonuç doğrultusunda hüküm kurulması gerekirken yerinde görülmeyen gerekçe ile Kocaeli İcra Müdürlüğünün yetkisizliği yolunda karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/11868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16734900)
+
 634 Sayılı Kat Mülkiyeti Yasasının 20. maddesine göre gider ve avans payının tamamını ödemeyen kat maliki ödemede geciktiği günler için aylık %10 (5711 Sayılı Yasanın yürürlüğe girdiği 28.11.2007 gününden itibaren %5) hesabıyla gecikme tazminatı ödemekle yükümlüdür. Dosya içinde bulunan ve davacı aleyhine yürütülen icra takibine ilişkin dosyadaki takip talebi içeriğinden davalı tarafın gecikme tazminatı da istediği anlaşıldığına göre davacının uzun yıllardan beri bağımsız bölüm maliki olduğu anataşınmazdaki ortak gider ve aidat borçlarını tam olarak yatırmamak suretiyle icra takibine maruz kaldığı ve anataşınmazdaki bağımsız bölüm ile ilgili gerekli avans ve aidatları ödemekle yükümlü olduğunu bildiği halde bu duruma duyarsız kaldığı anlaşıldığından yargılama sırasında mahkemece yapılan inceleme sonucu bilirkişi H.Tarık Erol tarafından düzenlenen 28.01.2008 günlü raporda belirtildiği gibi gecikme tazminatıyla sorumlu tutulması gerekmektedir. Mahkemece tüm bu hususlar dikkate alınarak bilirkişi raporu doğrultusunda hüküm kurulması gerekirken yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/6367 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/890497100)
 
 634 Sayılı Kat Mülkiyeti Yasasının 35. maddesinin (i) bendine göre kat mülkiyetine ilişkin borç ve yükümlülüklerini yerine getirmeyen kat maliklerine karşı yönetici her zaman dava açabilir ve icra takibi yapabilir. Yasa ile verilmiş yetkiye dayanarak yönetici kesinleşmiş ortak gider ve aidat borçlarını ödemeyenlere karşı bu alacakları tahsil etmek için dava açmak ve icra takibi yapmak yetkisine haiz olduğuna göre fazla ödemede bulunduklarını iddia eden kat maliklerinin de kendisine karşı menfi tespit veya istirdat davası açmak haklarının olduğu kabul edilmelidir. Mahkemece bu husus gözetilerek ortak gider alacağının ait olduğu yıllara ilişkin kesin hesabın bilirkişice belirlenmesi ve davacının herhangi bir şekilde ödemesi bulunup-bulunmadığı ve bunun mahsubu gerekip-gerekmediği incelenip araştırılmasından sonra oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken yazılı şekilde hüküm kurulmuş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/5979 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878921700)
+
 Ayrıca icra takibine ve bu davaya konu edilen ortak gider borcuyla ilgili olarak davalının daha önce temerrüde düşürülmediği gözetilerek gecikme tazminatının başlangıç tarihinin ödeme emrinin davalıya tebliği tarihi olarak alınması gerekirken takip tarihinden itibaren gecikme tazminatına hükmedilmesi, bu bağlamda 634 Sayılı Kat Mülkiyeti Yasasının 20. maddesinin ikinci fıkrasında 5711 Sayılı Yasayla yapılan değişiklikle gecikme tazminatı oranının %5 olarak değiştirildiği gözetilerek bu değişikliğin yürürlüğe girdiği dikkate alınarak anataşınmazın yönetim planında başka bir oran belirtilmemiş ise 28.11.2007 tarihinden itibaren gecikme tazminatının aylık %5 üzerinden yürütülmesi gerektiğinin düşünülmemesi,…
 
 ## Yargıtay 18. HD 2007/8140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878539100)
+
 Kat Mülkiyeti Yasasının 20. maddesi hükmüne göre ortak giderlerden kat maliki (bağımsız bölüm sahibi) yükümlüdür. Anılan yasanın 22. maddesi hükmü uyarınca da kat malikinin 20. madde uyarınca payına düşen ortak gider ve avans borcundan ve gecikme tazminatından onun bağımsız bölümünde kira sözleşmesine (oturma hakkına) veya başka bir nedene dayanarak sürekli bir biçimde yararlananlarda müştereken ve müteselsilen sorumludurlar. Yukarıda açıklandığı üzere somut olayda ortak gider alacağının tahsili için bağımsız bölümlerin maliki ile birlikte o bölümlerden yararlanan kişi hakkında takip yapılmış, her ikisinin takibe itirazları üzerine eldeki bu icra takibine itirazın iptali davası açılmış olup, yargılama sonunda dava kabul edilmiş bulunduğuna göre, davacı tarafça istenilen icra inkar tazminatından her iki davalının müştereken ve müteselsilen sorumlu tutulmaları gerektiği düşünülmeden, salt bağımsız bölümlerden yararlanan hakkkında icra tazminatına hükmedilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/4018 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883281500)
 
 634 Sayılı Kat Mülkiyeti Yasasının 35/i madde ve bendine göre, kat mülkiyetine ilişkin borç ve yükümlerini yerine getirmeyen kat maliklerine karşı dava ve icra takibi yapılması yöneticinin görevleri arasında sayılmıştır. Davacı yöneticinin anılan madde hükmüne göre icra takibinde bulunması veya borçlular aleyhine ortak gider ve aidat alacaklarının tahsili yönünde dava açması için kat maliki olmasına gerek yoktur. Ayrıca, dosya içerisindeki bilgi
 
@@ -141,9 +191,13 @@ ve belgelerden davacı yöneticinin kat malikleri kurulunun 25.9.2004 günlü ka
 
 ## Yargıtay 18. HD 2006/1917 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16198400)
+
 ……ün anataşınmazın ortak giderlerden payına düşen 122.000.000 TL. ortak gideri ödemediğinden bu paranın faizi ile birlikte tahsili için hakkında icra takibi yapıldığını, borçlunun bu borca itiraz ettiğini ileri sürerek itirazın iptali ile takibe konu alacağın faizi ile birlikte tahsili ile % 40 icra inkar tazminatını davalıdan alınmasına karar verilmesini istemiştir.
 
 ## Yargıtay 18. HD 2006/1152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884312600)
 
 634 sayılı Kat Mülkiyeti Yasasının 20.maddesinin ikinci fıkrasında gider veya avans payı ödenmeyen kat maliklerine karşı diğer kat maliklerinden her biri veya yönetici tarafından dava açılabileceği, icra takibi yapılabileceği belirtilmiş, yöneticinin görevlerini düzenleyen aynı yasanın 35.maddesi (i) bendinde de kat mülkiyetine ilişkin borç ve yükümlerini yerine getirmeyen kat maliklerine karşı yöneticinin dava açabileceği ve icra takibi yapabileceği öngörülmüştür.
 
@@ -153,6 +207,8 @@ Küçükçekmece 2. Sulh Mahkemesi'nin 2017/327 E. Sayılı dosyası incelendiğ
 
 ## İstanbul BAM 37. HD 2025/1449 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1146636500)
+
 K A R A R:Tekirdağ 2. Sulh Hukuk Mahkemesince, "...icra takibine konu alacağın asıl ve büyük bir kısmını oluşturan protokole dayalı 30.600,00-TL'lik kısmının ve aidat alacaklarının kooperatif ile üyesi arasından kaynaklı olup olmadığının tartışma görevi
 
 Asliye Ticaret Mahkemesi'ne ait olduğu..." gerekçesiyle görevsizlik kararı verilmiştir. Tekirdağ Asliye Ticaret Mahkemesi ise, "...Kat Mülkiyeti Kanunundan kaynaklanan ortak gider alacağına ilişkin davalarda sulh hukuk mahkemesi görevli olmakla birlikte iş bu dosyada davalı olarak site yönetimin gösterildiği..." gerekçesiyle görevsizlik yönünde karar vermiştir.Dava, davalı ... yönetimi tarafından davacı taraf aleyhine yapılan icra takibinden kaynaklı menfi tespit istemine ilişkindir.Davalı tarafından, icra takibine konu edilen alacağın, ödenmeyen aidat alacağı ile A ve D bloklar yönünden site yönetimince kararlaştırılan eksik işler bedeli olduğu açıklanmıştır.Dava tarafın, 10.01.2024 tarihli uyap kayıt tarihli beyan dilekçesinde bahsettiği 28.04.2021 tarihli Ortak Giderlerin Karşılanması Protokolünün birinci maddesinde, işbu protokolün kooperatiften dönüşen ... ve ... blokları kat malikleri ile ... Site yönetimi arasında yapıldığı yazılıdır.Takbisten incelenen dava konusu sitenin kurulu bulunduğu ... parselde ferdileşme suretiyle bağımsız bölümler oluşmuş ve kat irtifakına geçilmiştir.
@@ -160,9 +216,13 @@ Davacı, sitede bulunan ... blok ... nolu bağımsız bölümün, ferdileşme yo
 
 ## Samsun BAM 5. HD 2023/116 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858109400)
+
 634 sayılı Kat Mülkiyeti Kanunu'nun Ek 1. maddesindeki, "Bu Kanunun uygulanmasından doğacak her türlü anlaşmazlık sulh mahkemelerinde çözümlenir." hükmü uyarınca Kat Mülkiyeti Kanunu'ndan kaynaklanan ortak gider alacağı nedeni ile başlatılan icra takibine yönelik itirazın iptali istemli davada görevli mahkeme sulh hukuk mahkemeleridir.
 
 ## İstanbul BAM 17. HD 2022/1634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849825500)
 
 Nolu dükkanlara ait aidat ve gecikme zammı alacağına ilişkin olduğu, asıl alacağın %48 oranında faizi ile talep edildiği, davalı tarafından ödeme emrine karşı süresi içerisinde itiraz edilmesi ile takibin durdurulmasına karar verildiği, davanın yasal bir yıllık süre içerisinde açıldığı anlaşılmıştır.Uyuşmazlık, icra takibine konu alacağın davalıdan talep edilip edilemeyeceği, talep edilebilecekse miktarı noktasında toplanmaktadır.08/10.2018 tarihli bilirkişi heyeti raporunda; davalının, 1163 sayılı kanun ve ana sözleşme, site işletme kooperatifi ana sözleşmesi, site yönetim planı madde "f" çerçevesinde, davacı koaoperatif bünyesinde ..., ... ve ... no'lu bağımsız bölüm/taşınmaz sosyal tesis dükkânların maliki bulunduğunu, tarafların, davalının kooperatif üyesi olmadığına dair uyuşmazlıklarının bulunmadığını, davalının, kooperatifin bünyesindeki bağımsız bölümleri satın alırken
 

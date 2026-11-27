@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 10. D. 1996/8952 E., 1998/6885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17448300)
+
 …
 
 ...
@@ -31,6 +33,8 @@ konusu işlemde de hukuka aykırılık görülmediği gerekçesiyle davanın red
 Açıklanan nedenlerle, 2577 sayılı Yasa'nın 49.maddesi uyarınca davacının temyiz isteminin kabulüne, ... İdare Mahkemesi'nin … tarih ve E:…, K:… sayılı kararının bozulmasına …
 
 ## Yargıtay 7. HD 2026/479 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208627100)
 
 Davacı; kayden maliki olduğu ... ili, ... ilçesi, ... Mahallesinde yer alan 254 30... parsel sayılı taşınmazdaki 3 No.lu bağımsız bölümü ikamet olarak davalının haksız kullandığını, Ankara 10.
 
@@ -48,6 +52,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 2. HD 2025/5992 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156344100)
+
 Mahkemece, ... tarafından açılan asıl dava yönünden muvazaa iddiasının ispatlanamadığı gerekçesiyle reddine, ....nun birleşen dava yönünden ise kadının haksız işgalci olduğunun tespiti ile davanın kabulü ile el atmanın önlenmesine ve ... yararına ecrimisile karar verilmiştir. Kararın, ... tarafından temyizi üzerine Dairemizin 18.05.2023 tarihli kararı ile; ... tarafından açılan el atmanın önlenmesi ve ecrimisil istemine ilişkin davanın, kadın tarafından muvazaa iddiası ile açılan asıl davadan terfik edilip ayrı bir esasa kaydedilmesi ve kadın tarafından Ankara 21.
 
 …
@@ -62,6 +68,8 @@ Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/4865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108330700)
+
 Davacı vekili dava dilekçesinde; davacının maliki olduğu taşınmazı dava dışı oğlunun kullanımına tahsis ettiğini, oğlu ile davalının boşanmasına rağmen davalının evden çıkmayı kabul etmediğini ileri sürerek davalının taşınmaza el atmasının önlenmesi ile 16/06/2021 tarihinden itibaren fazlaya ilişkin hakları saklı kalmak kaydı ile 1.000,00 TL ecrimisilin yasal faizi ile davalıdan alınarak davacıya verilmesine karar verilmesini talep etmiştir.
 
 …
@@ -73,6 +81,8 @@ Davalı vekili cevap dilekçesinde; davalı ve eşinin evlilikleri devam ederken
 Vurgulamak gerekir ki davacı el atmanın önlenmesi davasını ikame ettiği tarihte boşanma davası henüz devam etmektedir. Öte yandan davacı söz konusu davayı ikame etmeden önce davalının eşi olan Alperen adına kayıtlı ve evlilik birliği içerisinde edinilen taşınmazı boşaltarak davalıya oturması teklifinde bulunmadan bu davayı açmıştır. Davalının eşi Alperen adına kayıtlı dairede oturması halinde boşanma davası kesin olarak sonuçlanmadan davalının söz konusu daireden tahliye ettirilemeyeceği açıktır. Bu durumda davacının söz konusu imkânı davalıya teklif etmeden iş bu davayı açması dürüstlük kuralıyla bağdaşmamaktadır. 4721 sayılı Türk Medeni Kanunu'nun 2. maddesiyle güvence altına alınan kural uyarınca hakkın kötüye kullanılmasının hukuk düzenince korunması mümkün olmayıp bu koşullar altında davacının davasını açtığı tarihte haklı olduğu söylenemez.
 
 ## Yargıtay 7. HD 2023/6084 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108788100)
 
 Davacı vekili dava dilekçesinde; müvekkilinin Rize ili, Merkez ilçesi, ... Mahallesi, 243 ada 9 parselde kayıtlı, 10 No.lu bağımsız bölümün maliki olduğunu, davalının ise kardeşi ... 'ın eski eşi olup boşandıklarını, davacının taşınmazı satın aldığı 11.07.2016 tarihinden itibaren davalının burada haksız işgalci olarak kaldığını, aralarında yazılı bir kira sözleşmesinin olmadığını, davalının taşınmaza haksız müdahalesinin men-i'ne ve müvekkilinin uğramış olduğu zararların tazmini için 11.07.2016 tarihinden itibaren ecrimisil alacağının tahsiline karar verilmesini talep etmiştir.
 
@@ -92,6 +102,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370'inc
 
 ## Yargıtay 8. HD 2021/1155 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643716100)
+
 Davalı vekili, davanın reddini savunmuştur.
 
 Mahkemece, davanın kabulüyle, 7 nolu bağımsız bölüme davalı tarafından yapılan elatmanın önlenmesine, 02.03.2010 tarihinden dava tarihine kadar olan döneme tekabül eden 22.331,00 TL ecrimisilin davalıdan tahsiline karar verilmiştir. Hüküm, davalı vekili tarafından temyiz edilmiştir.
@@ -104,11 +116,15 @@ SONUÇ: Davalı vekilinin temyiz itirazları yukarıda gösterilen sebeplerle ye
 
 ## Yargıtay 2. HD 2018/13194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469480900)
+
 Asıl dava Türk Medeni Kanunu'nun 194. maddesinde düzenlenen aile konutu nedeni ile tapu iptali ve tescil talebine, karşı dava ise müdahalenin meni talebine ilişkindir. Dava konusu taşınmazın davalılardan davacının eşi ... tarafından dava dışı ....'e satıldığı, .... tarafından da diğer davalı ...'a satıldığı; davanın dava konusu taşınmazı davalı eş ...'den devralan....'e yöneltilmediği anlaşılmaktadır. Dava bu kişinin hukuki durumunu etkileyeceğinden, davaya dahil edilmesi, gösterdiği takdirde delilleri toplanarak sonucu uyarınca bir karar verilmesi gerekirken, eksik hasımla yargılamaya devam edilip, yazılı şekilde hüküm kurulması doğru olmamıştır.
 
 SCÖNUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA …
 
 ## Yargıtay 1. HD 2018/636 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405823900)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteğine ilişkin olup davanın kabulüne ilişkin olarak verilen karar davalı tarafından adli yardım istekli olarak temyiz edilmiştir.
 
@@ -122,6 +138,8 @@ Davalının bu yöne değinen temyiz itirazı açıklanan nedenden ötürü yeri
 
 ## Yargıtay 2. HD 2017/7138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353031700)
+
 Davacı kadın aleyhine, aile konutundan dolayı kayınpederi tarafından dava açıldığı, davanın erkek eşe ihbar edildiği, yapılan yargılama sonucunda davanın kısmen kabulüyle; "Müdahalenin menine ve taşınmazın tahliyesine, ecrimisil yönünden davanın reddine" karar verildiği, davacı kadının bu davadan dolayı mahkemece hükmedilen yargılama giderini ödemek zorunda kaldığı ileri sürülmüştür. Taraftarın evlilik birliği devam etmektedir. Aile konutu ile ilgili yapılan giderler birlik giderlerinden olup, davalı erekek eşin bu giderlere payı oranında katılması gerekir.
 
 O halde, mahkemece, davacı kadının aile konutu için aleyhine açılan davadan dolayı yaptığı tüm ödemelerin usulünce hesaplanıp, bu ödemelere davalı erkeğin katılması gereken paym belirlenerek, belirlenecek bu pay üzerinden davanın kabulüne karar verilmesi gerekirken yazılı şekilde davanın reddine karar verilmesi bozmayı gerektirmiştir.
@@ -129,6 +147,8 @@ O halde, mahkemece, davacı kadının aile konutu için aleyhine açılan davada
 SONUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/1846 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/356765700)
 
 Dava, kat irtifakı kurulu bağımsız bölüme el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -148,6 +168,8 @@ Davacının temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulü il
 
 ## Yargıtay 1. HD 2016/5022 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207200600)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davacı, 10239 ada 3 parsel sayılı taşınmazın kayıt maliki olduğunu, davalı ile boşanmalarına ilişkin Üsküdar 2. Aile Mahkemesi'nin 2009/284 Esas, 2011/557 Karar sayılı kararının 26/04/2012 tarihinde kesinleştiğini, yapılan ihtara rağmen davalının dava konusu taşınmazda oturmaya devam ettiğini ileri sürüp, elatmanın önlenmesi ve ecrimisil istemiştir.
@@ -166,6 +188,8 @@ Davacının, temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan ne
 
 ## Yargıtay 2. HD 2015/12665 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396875100)
+
 Davacı, davalıyla “anlaşarak” boşandıklarını, boşanma kararıyla müşterek çocukların velayetlerinin kendisine bırakıldığını, tarafların birbirlerinden nafaka ve tazminat talep etmediklerini, aralarında düzenledikleri, hakim tarafından da tasdik edilen boşanma anlaşmasına göre;
 “davalının, mülkiyetinde bulunan davacının kuaför olarak işletmekte olduğu, ... mahallesindeki tapuda 69 ada (18) parselde kayıtlı kargir apartman niteliğindeki taşınmazın zemin katındaki (1) nolu bağımsız bölümü, davacının kira ödemeksizin ve üçüncü kişilere kiraya verilmemek koşuluyla işletmeye süresiz olarak devam edeceğini kabul ve taahhüt ettiğini” boşanma anlaşmasında yer alan bu kaydın mahkemece de boşanma kararına aynen geçirildiğini, kararın 4.6.2012 tarihinde kesinleştiğini, varılan anlaşma uyarınca, davalıya ait “bağımsız bölüm” niteliğindeki bu taşınmazı home ofis olarak düzenlediğini, hem kuaför olarak işlettiğini hem de velayetine bırakılan çocuklarıyla birlikte ikamet yeri olarak kullandığını, boşanma ilamındaki hükme dayanarak intifa hakkını tapuya şerh verdirmek istediğinde, boşanma kararında tapu bilgileri yer almadığı için tapu müdürlüğünün bu talebini yerine getiremediğini, boşanma dosyasında da taşınmazın tapu kaydı bulunmadığı için boşanma kararı veren mahkemenin de “kararın açıklanması” talebini reddettiğini, davalıdan tapuya intifa hakkı yönünde ferağ vermesini istediğinde davalının bundan kaçındığını ileri sürerek, davalıya ait taşınmazın tapu kaydına,
 lehine intifa hakkının tescil edilmesine karar verilmesini istemiştir.
@@ -183,6 +207,8 @@ SONUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/4884 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138995200)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Mahkemece, elatmanın önlenmesi isteği yönünden karar verilmesine yer olmadığına, ecrimisil isteğinin kısmen kabule karar verilmiştir.
@@ -195,6 +221,8 @@ Davacı vekilinin temyiz itirazı açıklanan nedenlerle yerindedir. Kabulü ile
 
 ## Yargıtay 1. HD 2015/1692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119676900)
+
 Mahkemece, davalıların davaya konu bağımsız bölüme el atmalarının önlenmesine ve kısmen ecrimisile karar verilmiş; hüküm davalılar vekili tarafından temyiz edilmiştir.
 
 Gerçekten de, çekişmeli bağımsız bölümün davacı adına kayıtlı olduğu ve boşanma kararının kesinleşmesiyle kayıt üzerindeki “aile konutu” şerhinin hukuki varlığını yitirdiği, şerhin yolsuz hale geldiği, böylece davalıların taşınmazda oturmalarını haklı kılacak hukuki sebebin ortadan kalktığı gözetilerek davacının el atmanın önlenmesi isteğinin kabulüne karar verilmesinde bir isabetsizlik yoktur. Davalıların bu yöne değinen temyiz itirazları yerinde değildir. Reddiyle, hükmün onanmasına.
@@ -205,11 +233,15 @@ Davalılar vekilinin temyiz itirazları açıklanan nedenlerden ötürü yerinde
 
 ## Yargıtay 2. HD 2013/11089 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/256082300)
+
 Taraflar arasındaki davanın yapılan muhakemesi sonunda mahalli mahkemece verilen, yukarıda tarih ve numarası gösterilen hüküm, davacı-davalı tarafından duruşmalı olarak temyiz edilmiş ise de; 6100 sayılı Hukuk Muhkameleri Kanununa 31.3.2011 tarihli 6217 sayılı Kanunun 30. maddesiyle ilave edilen Geçici 3. madde hükmü uyarınca, uygulanması gereken 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 438. maddesinde; aile konutu şerhinin terkini, müdahalenin meni ve aile konutunun tahsisine ilişkin verilen kararların Yargıtay’da duruşmalı inceleneceğine ilişkin hüküm bulunmadığından duruşma isteğinin reddine, evrak üzerinde inceleme yapılmasına karar verildi. Evrak okunup, gereği görüşülüp düşünüldü:
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle delillerin takdirinde bir yanlışlık görülmemesine göre, yerinde bulunmayan temyiz isteğinin reddiyle usul ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2012/13880 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79467900)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -227,6 +259,8 @@ Hal böyle olunca, ecrimisil isteğinin reddine karar verilmesi gerekirken aksi 
 
 ## Yargıtay 2. HD 2012/1468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482944900)
+
 Dava konusu taşınmazın, davacı ve eşi davalı ...'ın aile konutu olduğu tartışmasızdır. Konut üzerinde hak sahibi olan koca bu taşınmazını 07.04.2006 tarihinde diğer davalı ...'ya satış suretiyle devretmiştir. Davacı, taşınmazın kendisinin rızası alınmadan devredildiğini ileri sürerek devre ilişkin tasarrufun iptalini istemiştir. Taşınmazı devralan davalılardan Musa, bu yeri kendisine devreden davacının eşi Hasan'a karşı 21.08.2006 tarihinde kayıttan kaynaklanan mülkiyet hakkına dayanarak "men'i müdahale ve ecrimisil" davası, devreden Hasanda devralana karşı "hile" sebebiyle tapu iptali ve tescil davası açmış, Hasan'ın açtığı davanın reddine, devralan davalı ...'nın açtığı davanın kabulüne, davalının müdahalesinin men'i ile ecrimisile karar verilmiş, bu karar Yargıtay denetiminden geçerek 12.03.2009 tarihinde kesinleşmiştir. Temyize konu dava ise bundan sonra 20.05.2009 tarihinde açılmıştır. Davacının taşınmazda oturması, "evlilik ilişkisine" dayanmakta ve kocasına tebaendir. Diğer bir deyişle kocası ile davacı arasında konutun kullanımı bakımından dolaylı ve dolaysız zilyetlik ilişkisi (TMK.md. 975) mevcuttur. Davacının zilyetliği kocası nedeniyledir.
 Yukarıda belirtilen davacının eşi ile devralan diğer davalı arasında görülen men'i müdale davası sonucunda verilen hüküm, davalı ...'nın taşınmazdaki mülkiyet hakkının geçerli olarak oluştuğunun, davacı ile evli olan davalı ...'ın taşınmazı kullanmalarının geçerli bir hukuki sebebe dayanmadığının, diğer bir ifade ile davalı ...'ın taşınmazı haksız olarak elinde bulundurduğunu kabul için kesin delil mahiyetindedir. Davacının, sözü edilen bu ilamın "tarafı" olmaması, davacı kocasına tebaen bu taşınmazda oturduğuna göre, ilamın bu vasfını ortadan kaldırmaz. Hal böyle olunca kullanımı haklı bir nedene dayanmayan taşınmaz "aile konutu" olsa bile, Türk Medeni Kanununun 194/1. maddesi gereğince rızası gereken eşe, artık devre ilişkin tasarrufun iptalini isteme hakkı vermez. Böyle bir durumda davacının "rızam yok tasarrufu iptal edin" şeklindeki iddiası, Türk Medeni Kanununun 2. maddesindeki dürüstlük ilkesine aykırıdır. Bir hakkın açıkça kötüye kullanımını ise hukuk korumaz. Aksinin kabulü mülkiyet hakkı esas alınarak verilmiş bulunan ve kesin hüküm halini almış olan men'i müdahale kararını sonuçsuz bırakır.
 Öyleyse davanın reddi gerekirken yazılı şekilde hüküm kurulması doğru olmayıp, bozmayı gerektirmiştir.
@@ -235,13 +269,19 @@ SONUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA …
 
 ## Yargıtay 2. HD 2011/18614 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/906000400)
+
 Aile konutuyla ilgili davacı eşin açık rızası alınmadan yapılan kira sözleşmesinin feshi doğrudur. Bu hususta değerli çoğunlukla aramızda bir görüş ayrılığı bulunmamaktadır. Ancak, elatmanın önlenmesini ancak taşınmazın maliki isteyebilir (TMK.md.683/2). Davacı taşınmazın maliki değildir. Taşınmaz üzerinde davacının ayni bir hakkı bulunmamaktadır. Tapu kütüğünde konulmuş olan “aile konutu” olduğuna ilişkin şerh, hak sahibinin temlik hakkını yasaklar ve o taşınmaz üzerinde sonradan kazanılan hakların sahiplerine karşı bildirici etkiye sahiptir. Davacıya ayni bir hak sağlamaz. Bu nedenle, elatmanın önlenmesine karar verilemeyeceği düşüncesiyle değerli çoğunluk görüşüne bu bakımdan katılmıyorum.
 
 ## Yargıtay 17. HD 2010/9081 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/799903600)
+
 Somut olayda tarafların 2004 yılında boşandıkları anlaşılmaktadır. Dava konusu taşınmazın davacı adına tapuda kayıtlı olduğu ve talebin sadece el atmanın önlenmesine yönelik olduğu, mal rejiminin tasfiyesine yönelik başka bir isteğin söz konusu olmadığı anlaşılmaktadır. Dava konusu taşınmazın evlilik süresince aile konutu olarak kullanıldığı anlaşılmakta ise de, taraflar arasındaki boşanma kararının kesinleşmiş bulunması nedeniyle olayda Türk Medeni Kanununun 194. maddesinin de uygulanma imkanının bulunmadığı anlaşıldığından uyuşmazlığın Asliye Hukuk Mahkemesinde görülüp, sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 1. HD 2008/10248 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853197000)
 
 Davacı kayden maliki bulunduğu 1052 ada 24 parsel sayılı taşınmazı boşandığı eski eşi olan davalının kullanmaya devam ettiğini ileri sürüp elatmanın önlenmesini istemiştir.
 
@@ -255,6 +295,8 @@ Dosya içeriğine, toplanan delillere hükmün dayandığı yasal ve hukuksal ge
 
 ## Yargıtay 1. HD 2008/3449 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78352100)
+
 Davalı, taşınmazın aile konutu olduğunu belirtip, davanın reddini savunmuş, karşı davasında ise; taşınmazın evlilik birliği içinde edinildiğini ileri sürerek iptal tescil isteğinde bulunmuştur.
 
 Mahkemece, aile mahkemesinin görevli olduğu gerekçesi ile görev yönünden davanın reddine karar verilmiştir.
@@ -266,6 +308,8 @@ Boşanma davasının kesinleşmesi ile birlikte tarafların müşterek ikamet et
 Hal böyle olunca, işin esasına girilerek davacının iddiaları doğrultusunda inceleme, araştırma ve uygulama yapılması ve sonucuna göre bir karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı olduğu üzere hüküm kurulması doğru değildir. Davacının temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerle HUMK.’nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2008/2073 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78133900)
 
 Davalı, dava konusu dairenin boşanma öncesi aile konutu olarak kullanıldığını, boşanma sırasında tarafların yaptıkları anlaşma gereğince nafaka ve tazminat istememesi karşılığında çocuklarıyla beraber dava konusu dairede ikametine devam ettiğini, dava tarihine kadar davacının tahliye ve ecrimisil talebinde bulunmadığını, iyiniyetli zilyet olduğunu; davacının çekişmeli taşınmazın ½ payının intifa hakkının sahibi olmadığından husumet itirazında bulunduğunu, ayrıca daireye yapmış olduğu yararlı ve zorunlu masrafların ödenmesini istediğini belirterek davanın reddini savunmuştur.
 
@@ -281,6 +325,8 @@ Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkin
 
 ## Yargıtay 13. HD 2007/7088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842377400)
+
 Davacı, davalı ile 1968 yılında evlenip 1996 yılında boşandıklarını, evlilik birliğinin devamı sırasında müşterek katkıları ile satın aldıkları taşınmazın davalı adına tapuya tescil edildiğini iddia ederek katkı payından dolayı fazlaya ilişkin hakları saklı kalmak kaydı ile 5.100,00 YTL nın yasal faizi ile davalıdan alınmasını istemiştir.
 
 Davalı zamanaşımı itirazında bulunarak davanın reddini dilemiştir.
@@ -293,6 +339,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın davacı yararın
 
 ## Yargıtay 1. HD 2007/2820 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78117200)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 Mahkemece, davanın kısmen kabulüne karar verilmiştir.
@@ -302,6 +350,8 @@ Mahkemece, davanın kısmen kabulüne karar verilmiştir.
 Hal böyle olunca;A..yönünden elatmanın önlenmesi isteğinin kabulüne, davalı Ş..ye davacının ihtarname çekerek taşınmazı terk etmesini istediğine göre, boşanmanın kesinleştiği 22.6.2004 tarihinden dava tarihine kadar belirlenecek ecrimisilin karar altına alınması gerekirken bu hususun da gözardı edilerek yazılı olduğu üzere ve yasal olmayan gerekçelerle hüküm kurulmuş olması doğru değildir.Davacının bu yönlere değinen temyiz itirazları yerindedir.Kabulü ile hükmün açıklanan nedenlere hasren HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 19.3.2007 tarihinde oybirliğiyle karar verildi.
 
 ## İstanbul BAM 14. HD 2020/24 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571906400)
 
 Aksi takdirde, boşanma davasının ıslah suretiyle alacak davasına dönüştürülmesine; bir taşınmaz hakkında açılan tapu iptal davasının şirket ortaklığından çıkarma davasına dönüştürülmesine; taşınmazdan meni müdahale davasına şirket ortaklığından çıkma talebinin de eklenmesine sebebiyet verilir ki bu durumun yaratacağı hukuki sakıncalar ilk bakışta bile rahatsızlık yaratmaktadır. Yani, ıslah suretiyle usul işlemlerinde yapılabilecek değişikliklerin bir sınırı olmalıdır ve bu sınır çizilirken ıslahın amacından ve usul hukukunun temel ilkelerinden hareket etmek gerekir.Usul hukukumuzda iddianın ve savunmanın değiştirilmesi ve genişletilmesi yasağı vardır (HMK m.141). Teksif ilkesinin bir sonucu olarak taraflar, usul işlemlerini belirli usul kesitleri içinde yapmak zorunda olup bu şekilde yapılan usul işlemlerini, karşı tarafın açık rızası olmadan, artık değiştiremezler. Islah kurumu, bu yasağın istisnalarından biridir (Prof. Dr. Ejder Yılmaz, Hukuk Muhakemeleri Kanunu Şerhi, 2. Basım, Ankara 2013, s.998 vd.).
 Yani, ıslah kurumu, davanın açılmasıyla, yani usul işleminin yapılmasıyla ortaya çıkan usulî sonucun yaratacağı sakıncaların bir defaya mahsus olmak üzere giderilmesi amacıyla getirilmiştir. Yüce 11. HD'nin 201/3337 E-2012/ 7155 K sayılı, 07.05.2012 tarihli kararında da belirtildiği üzere; ıslahın amacı, yargılama sürecinde, şekil ve süreye aykırılık sebebiyle ortaya çıkabilecek maddi hak kayıplarını önlemektir. Yani, ıslah kurumuyla tarafların usul hatalarından kaynaklanan hak kayıplarının önüne geçilmek istenmiştir. O halde, ıslah ile yapılabilecek işlemlerin sınırının belirlenmesinde, ıslahın bu amacının ve niteliğinin gözetilmesi gerekir. Bu durumda, ıslah, ancak yapılmış bir usul işleminin düzeltilmesi için yapılır. Hiç yapılmamış bir usul işleminin ıslah yoluylayapılması mümkün olmamalıdır. Tamamen ayrı bir davanın konusu olan ve dava dilekçesindeki talepten tamamen farklı bir talebin ıslah yoluyla davaya dahil edilmesi mümkün olmamalıdır.Bunu bir örnekle açıklarsak: (A) ile (B) arasında bir birinden ayrı üç sözleşme, örneğin ödünç sözleşmesi, alım satım sözleşmesi ve eser sözleşmesi bulunsun.

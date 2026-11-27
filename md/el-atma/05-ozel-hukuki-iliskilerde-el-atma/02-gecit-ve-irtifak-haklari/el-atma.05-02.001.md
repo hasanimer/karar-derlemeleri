@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2010/268 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76858800)
+
 Mahkemece davanın kabulüyle dava konusu edilen ortak yerlere davalının el atmasının önlenmesine karar verilmiştir.
 
 …
@@ -158,6 +160,8 @@ Davalı idare vekilinin yerinde bulunmayan tüm temyiz itirazlarının reddi ile
 
 ## Yargıtay 5. HD 2025/9611 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172934300)
+
 Davacılar vekili dava dilekçesinde özetle; dava konusu ... ili, ... ilçesi, ... Mahallesi 234 ada 275 (eski 166 ada 5) parsel sayılı taşınmazın mahkeme kararı gereği davalı adınaz tescil edildiğini, kamulaştırma işlemlerinin usulüne uygun yapılmadığından, taşınmaza kamulaştırmasız el atılmış olduğundan tazminat bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -174,6 +178,8 @@ Dava açılması hâlinde, fiilen el konulan taşınmazın veya üzerinde tesis 
 İlk Derece Mahkemesinin kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/8716 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199707000)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda davanın kabulüne karar verilmiştir.
 
@@ -194,6 +200,8 @@ Dairemizce yapılan inceleme sonucunda; dava konusu taşınmaz üzerinden geçen
 Davalı ... vekilinin temyiz itirazı yerinde görülmediğinden usul ve kanuna uygun olan Mahkeme kararının ONANMASINA …
 
 ## Yargıtay 5. HD 2025/8685 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199697700)
 
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -216,6 +224,8 @@ d)Ayrı bir bendi olarak “Hükme esas alınan fen bilirkişi raporunda dava ko
 …
 
 ## Yargıtay 5. HD 2025/7050 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177458500)
 
 Davacılar vekili dava dilekçesinde özetle; müvekkillerinin Ankara ili, ..., ... Mahallesinde kain 63804 ada 15 parsel sayılı 31.576,36 m² yüzölçümündeki arsada hissedar olduklarını, dava konusu taşınmazın davalı idare tarafından "Kentsel Rekreasyon Alanı" olarak belirlendiğini ve taşınmaza fiilen kamulaştırmasız el atıldığını belirterek fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 100.000,00 TL kamulaştırmasız el atma tazminat alacağının faizi ile birlikte davalı idareden tahsiline karar verilmesini talep etmiştir.
 

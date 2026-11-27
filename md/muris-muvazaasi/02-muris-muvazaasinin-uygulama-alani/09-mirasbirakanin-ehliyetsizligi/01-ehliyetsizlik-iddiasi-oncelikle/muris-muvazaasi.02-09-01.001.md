@@ -25,4 +25,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/6322 K. (önceki bozma kararının özeti)
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981745800)
+
 … **hukuki ehliyetsizliğin kamu düzeni ile ilgili olduğu gözetilerek ve önemine binaen öncelikle incelenmesi**, Adli Tıp Kurumu’ndan mirasbırakanın ehliyetli olup olmadığı yönünde rapor alınması, ehliyetsiz çıkması halinde davanın kabulüne karar verilmesi…

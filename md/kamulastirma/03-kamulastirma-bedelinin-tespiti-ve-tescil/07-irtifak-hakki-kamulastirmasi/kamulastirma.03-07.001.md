@@ -24,20 +24,30 @@ Kamulaştırma yoluyla irtifak hakkı tesisinde, bu kamulaştırma sebebiyle ta�
 
 ## Yargıtay HGK 2020/206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602259100)
+
 30.06.2010 tarihli Resmî Gazete'de yayımlanarak yürürlüğe giren 5999 sayılı Kanun'un 1. maddesi ile 2942 sayılı Kamulaştırma Kanunu'na eklenen geçici 6. maddesinin 1. fıkrasında; kamulaştırma işlemleri tamamlanmamış veya kamulaştırması hiç yapılmamış olmasına rağmen 09.10.1956 tarihi ile 04.11.1983 tarihi arasında fiilen kamu hizmetine ayrılan veya kamu yararına ilişkin bir ihtiyaca tahsis edilerek üzerinde tesis yapılan taşınmazlara veya kaynaklara kısmen veya tamamen veyahut irtifak hakkı tesis etmek suretiyle malikin rızası olmaksızın fiili olarak el konulması sebebiyle açtıkları davalar sonunda tazminat almaya hak kazanmış olanlar hakkında bu madde hükümlerinin uygulanacağı, son fıkrasında ise bu madde uyarınca ödenecek olan tazminatın tahsili sebebiyle idarelerin mal, hak ve alacaklarının haczedilemeyeceği düzenlenmiştir.
 
 ## Yargıtay HGK 2016/629 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/233303600)
 
 İrtifak hakkının sona ermesi kural olarak, irtifak hakkı sahibinin yapacağı yazılı terkin talebi üzerine veya yüklü ve yararlanan taşınmazın yok olması, yüklü taşınmazın kamulaştırılması, sürenin sona ermesi veya mahkeme kararı ile mümkündür. ( Eşya Hukuku Prof. Dr. M. Kemal Oğuzman, Prof. Dr. Özer Seliçi, Prof. Dr. Saibe Oktay Özdemir- 2006 Baskı sayfa: 603 ve devamı)…
 
 ## Yargıtay HGK 2015/2632 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329594000)
+
 Kısaca; irtifak bedelinin tespiti için, üzerinde irtifak tesis edilen taşınmazın niteliğine göre 2942 sayılı Kamulaştırma Kanunu’nun değer takdiri esaslarını düzenleyen 11. maddesi gereğince tamamının bir bütün olarak değeri tespit edildikten sonra, aynı maddenin son fıkrası uyarınca irtifak kurulması nedeniyle taşınmaz malda meydana gelecek değer düşüklüğünün gerekçeleri ve buna göre oran ve tutarının belirtilmesi; bu şekilde yapılacak inceleme sonunda belirlenen iki değer arasındaki farkın bulunması gerekir.
 
 ## Yargıtay 5. HD 2014/31797 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/339991600)
+
 Davaya konu teşkil eden arazi niteliğindeki taşınmaza gelir metoduna göre değer biçilmesinde ve pilon yeri bedeli ile irtifak hakkı karşılığının tahsiline karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Yargıtay 5. HD 2014/27725 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96896100)
 
 2942 sayılı Kamulaştırma Kanununun 11/son maddesi uyarınca irtifak hakkı karşılıkları bu hak nedeniyle taşınmazın tamamında meydana gelecek değer kaybıdır. Bu itibarla dava konusu 1743 parsel numaralı taşınmazın irtifak hakkı kurulmasından önceki tüm değerinin tesbit edilmesi ve bundan sonra enerji nakil hattı nedeniyle taşınmazın tamamında meydana gelecek değer düşüklüğü oranının belirlenmesi ve bu oranla taşınmazın tüm değerinin çarpılması sonucu irtifak hakkı karşılığının hesaplanması gerekir. Bilirkişi kurullarınca böyle bir inceleme ve işlem yapılmadan mülkiyet kamulaştırması yapılıyormuş gibi, irtifak alanının zemin bedelini hesaplayan bilirkişi kurulu raporuna göre hüküm kurulması,…

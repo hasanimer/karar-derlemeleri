@@ -58,6 +58,8 @@ Paylı mülkiyete tabi bağımsız bölümde paya vaki el atmanın önlenmesine 
 
 ## Yargıtay 7. HD 2025/4190 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185210700)
+
 Davacı vekili dava dilekçesinde; müvekkilinin 8 77... parsel E Blok 4 No.lu bağımsız bölümün maliki olduğunu, davalının bu taşınmazda 01.08.2020 tarihinden itibaren bedel ödemeden ikamet ettiğini, davalıya ... . Noterliği ... yevmiye No.lu 21.06.2021 tarihli ihtarname gönderildiğini, ancak davalının işgaline devam ettiğini, dava konusu taşınmazın kooperatif olarak yapıldığını, arsa tapusu bulunduğunu, hem kooperatif üyelerinin hem de arsa maliklerinin ayrı ayrı kendi aralarında yaptıkları çekiliş ile herkesin kendi dairesinin belirlendiğini ve kullanılmaya başlandığını, çekiliş sonucunda toprak sahibi ...'e 2 adet daire kaldığını, bunlardan birinin A Blokta diğerinin de E Blokta olduğunu, müvekkilinin E Bloktaki daireyi ...
 
 …
@@ -73,6 +75,8 @@ O hâlde Mahkemece yukarıda açıklanan ilkeler doğrultusunda araştırma yap�
 Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2025/808 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133294900)
 
 Davacı dava dilekçesinde; davalının dava konusu taşınmazı satarken 4 ay içinde boşaltacağını beyan ettiğini, ancak satıştan sonra evi boşaltmadığını, kullanımı karşılığında herhangi bir ödeme yapmadığını ileri sürerek, el atmanın önlenmesini ve ecrimisil ödenmesini talep etmiştir.
 
@@ -90,6 +94,8 @@ Davacı tarafından yapılan toplam 538,50 TL yargılama giderinin davalıdan al
 
 ## Yargıtay 7. HD 2024/5423 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108159200)
+
 Aynı binada oturan bağımsız bölüm maliklerinin ortak alanlar üzerinde ayrı ayrı kullanım hakları bulunduğundan, ikinci ve üçüncü katlar arasına ilave edilen kilitli kapının ortak alanların kullanımına engel olacağı, bu nedenle davalı ...'in müdahalesi haksız olup el atmanın önlenmesi ve kapının kaldırılarak eski hale getirilmesi gerektiği, …
 
 …
@@ -97,6 +103,8 @@ Aynı binada oturan bağımsız bölüm maliklerinin ortak alanlar üzerinde ayr
 Asıl davada davacı- birleştirilen davada davalı vekili ile asıl davada davalı- birleştirilen davada davacı vekilinin yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2024/674 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015244800)
 
 Davacı vekili, davalı ile olan evliliklerinin 27/10/2014 tarihinde kesinleşen ilam ile sona erdiğini, 2720 ada 1 parsel, 4. kat, 17 No.lu bağımsız bölümün davacı adına kayıtlı olduğunu, işbu taşınmaz için davalının açmış olduğu katılma alacağı davasının red ile sonuçlandığını, davalıya gönderdiği ihtarnamenin neticesiz kaldığını ileri sürerek el atmanın önlenmesi ile şimdilik 500,00 TL ecrimisil bedelinin boşanma kararının kesinleşme tarihi olan 27/10/2014 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsilini talep ve dava etmiştir.
 
@@ -113,6 +121,8 @@ Bölge Adliye Mahkemesi yukarıda tarih ve sayısı belirtilen kararı ile "...2
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/301 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1006573300)
 
 Davacı vekili dava dilekçesinde; müvekkilinin dava konusu bodrum kat 1 No.lu bağımsız bölüm ile zemin kat 2 No.lu bağımsız bölümün maliki olduğunu, davalının müvekkilinin izni rızası ve bilgisi olmadan sahte bir kira kontratı düzenleyerek vergi kaydı yaptırdığını ve aynı şekilde müvekkilinin bilgisi olmaksızın iş yeri açtığını ileri sürerek dükkanın fuzuli işgal sebebi ile tahliyesine karar verilmesini talep etmiştir.
 
@@ -132,6 +142,8 @@ Davacı vekilinin Bölge Adliye Mahkemesi kararına yönelik temyiz itirazının
 
 ## Yargıtay 5. HD 2023/12947 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/996043200)
+
 Davacı vekili dava dilekçesinde özetle; müvekkilinin Isparta ili, ..., Hızırbey Mahallesi, 4328 ada 21 parselde tapuya kayıtlı arsa üzerinde bulunan Esenpark Sitesi Yönetim Kurulu Başkanı olduğunu, müvekkili işbu davanın açılmasına ilişkin özel olarak yetkilendirildiğini, bu hususun sundukları belgeden görüleceğini, söz konusu sitede bulunan A Blok 1 no.lu bağımsız bölümün market olarak kullanıldığını, market sahibi olan davalı tarafından dört cephesi açık blokun iki cephesine betonerme çekme kat yapılarak ve camekanla kapatıldığını, bu itibarla Kat Malikleri Kurulundan izin alınmadan gerçekleşen bu durum sonucu ortak alan olarak kullanılması gereken alanın davalı tarafça işgal edildiğini, işbu işgalin 634 ... Kat Mülkiyeti Kanunu'nun (634 ...
 
 …
@@ -147,6 +159,8 @@ Dosyanın incelenmesinde, ana taşınmaza ait gelen tapu bilgilerinden dava konu
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/4859 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980394100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabul, kısmen reddine karar verilmiştir.
 
@@ -177,6 +191,8 @@ Davalılar vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 7. HD 2022/6987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884793000)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davacı vekili, dava konusu 1277 ada 83 parsel sayılı taşınmaz üzerinde bulunan binadaki 5 numaralı bağımsız bölümü, 26.07.2011 tarihinde davalıdan satın aldığını, ancak o tarihten bu yana davalının dava konusu daireyi hiçbir hukuki gerekçeye dayanmadan işgal ettiğini belirterek davalının haksız müdahalesinin önlenmesine ve fazlaya ilişkin ... saklı kalmak kaydıyla 6.000,00 TL ecrimisil bedelinin davalıdan tahsiline karar verilmesini istemiş, 09.09.2015 tarihli dilekçesi ile bilirkişi raporu uyarınca 13.387,71 TL üzerinden bedel artırımı yapmıştır.
@@ -193,6 +209,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 5. HD 2022/3532 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/780567700)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 İlk derece mahkemesince davanın kabulüne ilişkin olarak verilen karara karşı, davalı idare vekili tarafından yapılan istinaf başvurusunun İstanbul Bölge Adliye Mahkemesi 39. Hukuk Dairesi'nce kısmen kabulü ile 6100 sayılı HMK'nın 353/1-b-2 maddesi uyarınca düzeltilerek yeniden esas hakkında karar verilmiş olup; hüküm, taraf vekillerince temyiz edilmiştir.
@@ -204,6 +222,8 @@ Dosyada bulunan kanıt ve belgelere, kararın dayandığı gerekçelere göre; a
 Hükmün böylece HMK'nın 370/2. maddesi uyarınca DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 7. HD 2022/1857 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760605100)
 
 Dava, paydaşlar arası elatmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
@@ -221,6 +241,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle hüküm sonucunun 8.bendi hüküm fıkr
 
 ## Yargıtay 5. HD 2021/5055 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686084600)
+
 Mahkemece asıl ve birleştirilen davanın reddine karar verilmiş, davacılar vekili istinaf başvurusundan bulunmuştur. İstanbul Bölge Adliye Mahkemesi 36.
 
 …
@@ -232,6 +254,8 @@ Somut olayda, yönetim planındaki dava konusu düzenleme yalnızca bu konuda ka
 Davacılar vekilinin temyiz itirazlarının kabulü ile İstanbul Bölge Adliye Mahkemesi 36. Hukuk Dairesinin 17/11/2020 tarih ve 2018/1321 E- 2020/1852 K. sayılı kararının KALDIRILMASINA …
 
 ## Yargıtay 8. HD 2020/6932 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/625978600)
 
 Davacı, 542 parsel sayılı taşınmazda kendisinin 8 nolu bağımsız bölümü, davalının ise 5 nolu bağımsız bölümü kullandığını, ancak kapı numaralarında hata yapıldığını, fiili durumun çelişkili olduğunu, davalının kullanımında olan dairenin tapu kaydına esas olan mimari proje ve vaziyet planına göre kendisine ait olduğunu ileri sürerek elatmanın önlenmesine karar verilmesini istemiştir.
 
@@ -253,6 +277,8 @@ SONUÇ: Yukarıda (1) numaralı bentte yazılı nedenlerle davalı vekilinin di�
 
 ## Yargıtay 8. HD 2020/3211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648116200)
+
 Davalı davaya cevap vermediği gibi duruşmalara da katılmamıştır.
 
 Mahkemece, yapılan keşif esnasında konutun anahtarının teslim edildiği gerekçesi ile konusuz kalan elatmanın önlenmesi hakkında karar verilmesine yer olmadığına, davalının hasta olduğu, konutu kullanmada kötüniyeti olmadığı gerekçesi ile ecrimisil isteminin ise reddine karar verilmiştir.
@@ -270,6 +296,8 @@ Dava konusu bağımsız bölümde davacının rızasıyla davalı ile davacını
 SONUÇ: Temyiz edilen hükmün yukarıda açıklanan nedenlerle 6100 sayılı HMK'nin Geçici 3. maddesi ve 1086 sayılı HUMK'un 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/2276 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588840400)
 
 Davacı vekili, davacıya ait 70 ada 4 parselde tapuya kayıtlı konut yapı kooperatifinin B blok bodrum kat 1 numaralı bağımsız dairenin davalılar tarafından kömürlük inşaa edilmek suretiyle kullanıldığını açıklayarak, taşınmazın davacı tarafından satın alındığı tarih olan 18.07.2005 tarihinden itibaren 4 yıllık ecrimisilin davalılardan tahsiline, davalıların elatmasının önlenmesine ve yapılan kömürlüklerin kal’ine karar verilmesini talep etmiştir.
 

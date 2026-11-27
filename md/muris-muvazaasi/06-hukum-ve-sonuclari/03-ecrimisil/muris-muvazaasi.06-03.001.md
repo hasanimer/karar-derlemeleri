@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2024/355 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055743200)
+
 O hâlde 972 parsel sayılı taşınmaz yönünden tapu iptali ve tescil isteğinin kabulüne, **ecrimisil isteği yönünden ise yukarıda açıklanan İçtihadı birleştirme kararları** ve bozma kararında belirtilen ilkeler doğrultusunda araştırma ve inceleme yapılarak sonucuna göre karar verilmesi gerekirken hatalı gerekçe ve eksik inceleme ile davanın tümden reddine karar verilmiş olması hatalıdır.

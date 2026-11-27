@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2020/1953 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599018500)
+
 Dava, kadastro tespitine itiraza ilişkindir.
 
 …
@@ -40,6 +42,8 @@ Yukarıda iki numaralı bentte açıklanan nedenlerle davacı Hazine vekili, ...
 
 ## Yargıtay 20. HD 2020/1269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592876200)
+
 Davacı ... Yönetimi, ... husumet yönelterek açtığı davada ... İnşaat A.Ş. başkanı olan davalı ... tarafından ... özel ormanının Devlet ormanı ile sınırını teşkil eden Kara Kaldırım sırt yolunun 2752 m2'lik kısmının taş duvar ve tel örgü çekerek ... özel ormanı sınırları içine alındığını, taş duvarın 94 m2'lik alanı kapladığını ve tamamen Devlet ormanı sınırları içinde bulunduğunu, ayrıca; davalı tarafından yapılan 4673 m2'lik otopark ve park alanı olarak kullanılan ve tel örgü ile çevrilen yerin de tamamen Devlet ormanı sınırları içinde kaldığını, aynı şekilde Kara Kaldırım sırt yolunun bir kısmının güzergahının değiştirilerek Devlet ormanının 444 m2'lik kısmının işgal edildiğini, bu şekilde ...
 
 …
@@ -56,6 +60,8 @@ O halde mahkemece öncelikle davacı ... Yönetimince ... Orman Bölge Müdürl�
 
 ## Yargıtay 16. HD 2019/8750 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569489600)
+
 Davacıların murisi ..., davalılardan ... aleyhine ... Asliye Hukuk Mahkemesinde 2005/212 Esas sayılı dava dosyasıyla senet iptali ve elatmanın önlenmesi davası açmıştır. Dava devam ederken dava konusu taşınmazlar hakkında tutanak düzenlenmiş olması nedeniyle Kadastro Mahkemesine aktarılarak tutanakların malik haneleri boş bırakılmıştır. Mahkemece yapılan yargılama sırasında mahallinde keşif yapılmış ve çekişmeli taşınmazların davacıların murisi ...’ın eşi ...’ın babası aynı zamanda davalıların da murisi olan kök muris ...’e ait olduğu, ... mirasçıları arasında usulüne uygun olarak miras taksimi yapılmadığı kabul edilerek, çekişmeli taşınmazların ...’e ait ... 2. Sulh Hukuk Mahkemesi’nin 2013/880 Esas, 2013/869 Karar sayılı veraset ilamındaki payları oranında mirasçıları adına tesciline karar verilmek suretiyle davaya konu taşınmazlara ait kadastro tutanaklarının malik hanesi doldurulmuştur.
 3402 sayılı Kadastro Kanunu'nun 30/2. maddesi uyarınca kadastro hakimi, davanın tarafları yönünden iddia ve savunma çerçevesinde hüküm kurarken taraflar ile bağlı kalmaksızın gerçek hak sahibinin tespit edilmesi için re'sen lüzum gördüğü diğer delilleri toplayarak, hak sahibi olduklarını saptadığı takdirde dava dışı 3. şahıslar hakkında da tescil kararı vermekle yükümlüdür. Somut olayda da malik hanesi açık olan çekişmeli taşınmazların malik hanelerinin de belirtilen madde hükmü gereğince doldurulması zorunludur. Öncelikle belirtmek gerekir ki; ... Asliye Hukuk Mahkemesi'nin 2005/212 Esas sayılı dosyasında davacı ..., muris eşi ... tarafından düzenlendiği iddia edilen ve çekişmeli taşınmazların davalılardan ...’e satışını konu alan 29.02.1996 tarihli senedin iptalini ve davalı tarafından çekişmeli taşınmazlara yapılan müdahalenin önlenmesini talep etmiş, mahkemece söz konusu senedin hukuken geçerli olmadığı kabul edilerek iptaline, elatmanın önlenmesi talebi yönünden ise; taşınmazların fiilen davacının tasarrufunda bulunduğu kabul edilerek bu talep yönünden davanın reddine karar verilmiş, karar Yargıtay 13.
 Hukuk Dairesi’nin 2011/4898 Esas, 2011/11304 Karar sayılı ilamı ile onanarak kadastro tespitinden sonra 13.09.2011 tarihinde kesinleşmiştir. Bu bağlamda ... Asliye Hukuk Mahkemesi’nde görülen senet iptali ve elatmanın önlenmesi davası senet iptali hususunda davanın tarafları yönünden bağlayıcı niteliktedir. Ancak kesinleşen hükümde çekişmeli taşınmazların öncesinin kime ait olduğu hususu tarafları bağlayıcı nitelikte tespit edilmediğinden, bu hususta yukarıda açıklandığı gibi 3402 sayılı Yasa'nın 30. maddesi gereğince re’sen araştırma yapılarak gerçek hak sahibinin belirlenmesi gerekmektedir. İddianın ileri sürülüş şekline ve dosya kapsamına göre taraflar arasındaki uyuşmazlık; çekişmeli taşınmazların öncesinin senet iptali davasının davacısı ...’a mı, eşi ...’ın kök murisi ...’e mi ait olduğu noktasında toplanmakta olup, bu kapsamda yapılan inceleme ve araştırma hüküm vermeye yeterli değildir. Ayrıca bitişiğinde orman parseli bulunan dava konusu taşınmazlara ilişkin orman araştırması yapılmaması da usul ve yasaya uygun düşmemektedir. Bu şekilde eksik araştırma ve inceleme ile karar verilemez.
@@ -66,6 +72,8 @@ Hukuk Dairesi’nin 2011/4898 Esas, 2011/11304 Karar sayılı ilamı ile onanara
 Mahkemece bu hususlar gözetilmeksizin, eksik incelemeyle yazılı olduğu şekilde hüküm kurulması isabetsiz olup, temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulüyle hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2019/8186 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/606755600)
 
 Davalı, davacıya bir zarar vermediğini belirterek davanın reddini savunmuştur.
 
@@ -79,6 +87,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazının ka
 
 ## Yargıtay 20. HD 2019/7551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/562026900)
+
 Davacı ... Yönetimi vekili,... parsel sayılı taşınmazın kesinleşen orman tahdit alanında kaldığı iddiasıyla tapusunun iptali ile orman niteliğiyle Hazine adına tescili ve taşınmaza elatmanın önlenmesi istemiyle dava açmıştır.
 
 Mahkemece davanın kısmen kabulü ile dava konusu .....parsel sayılı taşınmazın tahdit içerisinde kaldığı gerekçesiyle tapusunun iptali ile orman vasfıyla Hazine adına tesciline, davacının elatmanın önlenmesi talebinin, dava tarihinde taşınmazın davalılar adına tapuda kayıtlı olup davalılar tarafından kullanımının yasaya uygun olduğu gerekçesiyle, reddine karar verilmiş, hüküm davacı vekili tarafından elatmanın önlenmesi yönünden, davalı Kayyım vekili tarafından esasa yönelik olarak temyiz edilmiştir.
@@ -90,6 +100,8 @@ Dava, kesinleşen orman tahdidi nedeniyle tapu iptal ve tescil istemine ilişkin
 İncelenen dosya kapsamına kararın dayandığı gerekçeye, uzman orman bilirkişi tarafından kesinleşmiş orman tahdit haritasına dayalı olarak yöntemine uygun biçimde yapılan uygulama ve araştırmada çekişmeli taşınmazın orman tahdidi içinde kaldığı belirlenerek tapu iptal ve tescil talebinin kabulüne, müdahalenin önlenmesi talebinin reddine karar verilmesinde bir isabetsizlik bulunmadığına göre, yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan hükmün ONANMASINA, 19.01.2011 tarihinde yürürlüğe giren 6099 sayılı Kanunun 16. maddesi ile 3402 sayılı Kanuna eklenen 36/A maddesi gereğince davalılardan ve 7139 sayılı Kanununun 33. maddesi uyarınca Orman Yönetiminden harç alınmasına yer olmadığına 17/12/2019 günü oy birliği ile karar verildi.
 
 ## Yargıtay 16. HD 2019/6330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/548408800)
 
 Mahkemece, çekişmeli taşınmazın mera vasfında olduğu kabul edilerek yazılı şekilde karar verilmiş ise de, yapılan inceleme, araştırma ve uygulama hüküm vermeye yeterli değildir. Şöyle ki, davacı taraf, çekişmeli taşınmaz bölümünün babası ... ’den kaldığını iddia edip adına tescil istemiyle dava açtığı halde mahkemece, murisin başkaca mirasçısının bulunup bulunmadığı araştırılmamış, çekişmeli taşınmazın davacıya ne şekilde (bağış, satış, taksim vs.) intikal ettiği, bir başka ifadeyle davacının aktif dava ehliyetinin bulunup bulunmadığı üzerinde durulmamıştır.
 
@@ -103,6 +115,8 @@ beyan ve raporlar dikkate alınmalı, müdahalenin men-i dosyasındaki harita ve
 desteklenmiş, önceki ziraat bilirkişi raporlarını irdeleyen somut verilere dayalı rapor alınmalı; jeodezi ve fotogrametri mühendisi bilirkişiye yukarıda belirtilen hava ve uydu fotoğrafları ile memleket haritaları üzerinde inceleme yaptırılarak, çekişmeli taşınmaz bölümünün fotoğrafların çekildiği tarihlerdeki niteliği, sınırları, kullanım şekli, mera alanları ile arasında ayırt edici unsurlar bulunup bulunmadığı hususlarında ayrıntılı rapor alınmalı; fen bilirkişisine keşfi takibe ve denetlemeye imkan verir rapor ve kroki düzenlettirilmeli, çekişmeli taşınmaz bölümünün yakın plan renkli fotoğrafları çektirilerek taşınmazın konumu ve sınırları fotoğraflar üzerinde gösterilmeli ve bu şekilde çekişmeli taşınmaz bölümünün kadim mera olup olmadığı ve davacı taraf yararına zilyetlikle kazanım koşullarının gerçekleşip gerçekleşmediği duraksamasız şekilde belirlenmeli, bundan sonra da toplanmış ve toplanacak tüm deliller birlikte değerlendirilerek sonucuna göre bir karar verilmelidir. Mahkemece bu hususlar göz ardı edilerek eksik incelemeyle yazılı şekilde karar verilmesi isabetsiz olup, davacının temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/5310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647061800)
 
 Davacı Hazine vekili asıl ve birleşen davada, 1473 parsel sayılı taşınmazın kıyı kenar çizgisi içerisinde kaldığını, kıyıların 3621 Sayılı Yasa'nın 5. maddesine göre Devletin hüküm ve tasarrufu altında olduğunu belirterek, 1473 parsel sayılı taşınmazın tapusunun iptaline, taşınmaza yapılan müdahalenin men'ine ve üzerindeki yapıların kal'ine karar verilmesini istemiştir.
 
@@ -120,6 +134,8 @@ SONUÇ: Asıl ve birleşen dosyada davacı Hazine vekilinin temyiz itirazların�
 
 ## Yargıtay 20. HD 2019/5085 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537404500)
+
 Davacı ... Yönetimi, dava konusu taşınmazın tamamının kesinleşmiş orman kadastrosu sınırları içinde olduğunu ileri sürerek tapusunun iptali ile orman vasfıyla Hazine adına tescilini ve davalıların müdahalelerinin önlenmesini istemiştir.
 
 Mahkemece davanın kısmen kabulüne, müdahalenin önlenmesi talebinin reddine, tapu iptal ve tescil talebinin kabulü ile dava konusu taşınmazın tapusunun iptali ile davacı adına tesciline karar verilmiş, hüküm davacı ... Yönetimi ve davalı ... tarafından temyiz edilmiştir.
@@ -134,6 +150,8 @@ Bu sebeple, hükmün 1 numaralı bendinde yazılı olan “Davacının tapu ipta
 
 ## Yargıtay 20. HD 2019/4886 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537375100)
+
 Davacı ... Yönetimi, 14.02.2013 tarihli dilekçesi ile .....375 parsel sayılı, 522 m2 yüzölçümlü taşınmazın kesinleşen orman sınırı içinde kaldığı, öncesi ve eylemli durumu itibarıyla da orman olduğu iddiasıyla, davalı adına olan tapu kaydının iptali, orman niteliğiyle Hazine adına tescili, el atmanın önlenmesi istemiyle dava açmıştır.
 
 Mahkemece, davanın kısmen kabulüne, 375 parsel sayılı taşınmazın tapu kaydının iptali ile orman vasfı ile Hazine adına tapuya kayıt ve tesciline, el atmanın önlenmesi isteminin reddine karar verilmiş, hüküm davalı kayyımı tarafından temyiz edilmiştir.
@@ -147,6 +165,8 @@ Bu sebeple; davalı kayyımı Hazinenin vekalet ücretine ilişkin temyiz itiraz
 
 ## Yargıtay 20. HD 2019/4587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521046500)
+
 Davacı ... Yönetimi, 438 parsel sayılı taşınmazın bir bölümünün kesinleşen orman tahdit sınırları içerisinde kaldığını iddia ederek, bu bölüm yönünden tapu kaydının iptaline, orman niteliği ile Hazine adına tapuya tesciline ve tapu kaydı üzerinde bulunan irtifak hakları, şerh ve kısıtlamaların kaldırılmasına, bu bölüm yönünden elatmanın önlenmesine ve muhdesatın kal'ine karar verilmesini istemiştir.
 
 Mahkemece yapılan yargılama sonunda, 28/03/2013 tarih ve 2012/659 E - 2013/217 Karar ile; davanın kısmen kabul ve kısmen reddine, çekişmeli 438 parsel sayılı taşınmazın 28/01/2013 havale tarihli uzman bilirkişiler raporunda (B) harfi ile gösterilen 1.697,65 m² yüzölçümündeki bölümünün davalı gerçek kişiler adına olan tapu kaydının iptali ile orman vasfıyla Hazine adına tapuya kayıt ve tesciline karar verilmiş; hüküm, davacı ... Yönetimi vekili ile davalı ..... ve ihbar olunan ...... vekilleri tarafından temyiz edilmekle Dairenin 20/01/2016 tarih ve 2015/12293 E - 2016/676 K. sayılı kararı ile bozulmuştur.
@@ -159,12 +179,16 @@ Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak 
 
 ## Yargıtay 16. HD 2019/4203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524434400)
+
 2- 1305 parsel sayılı taşınmaza yönelik temyiz itirazlarının incelenmesine gelince; Mahkemece; zilyetlikle iktisap koşullarının müdahil davacı lehine gerçekleştiği gerekçe gösterilmek suretiyle yazılı şekilde karar verilmiş ise de; yapılan araştırma, inceleme ve uygulama hüküm vermeye yeterli bulunmamaktadır. Çekişmeli taşınmazın malik hanesi, toprak tevzi çalışmaları sonucu oluşturulan Hazine adına kayıtlı Nisan 1972 tarih ve 542 sıra numaralı tapu kaydının kapsamında olduğu da belirtilmek suretiyle eldeki men-i müdahale davası nedeniyle açık bırakılmıştır. Sözü edilen tapu kaydı “1758” sayılı tevzi parseline ait olup; belirtmelik tutanaklarının incelenmesinden, 1758 sayılı tevzi parselinin 1757 parsel sayılı taşınmaz ile bütün olarak kullanılmakta iken, asli müdahil ...’nın bayii durumunda bulunan davacı ... adına kayıtlı “mera” sınırlı vergi kaydının miktarı kadar kısmın “1757” parsel olarak ... adına ayrıldığı; vergi kayıt miktar fazlasının ise “1758” parsel olarak ayrılıp bu kısımda Hazine adına tapu oluşturulduğu anlaşılmaktadır.
 Mahkemece; tevzi paftası ile kadastro paftası çakıştırılmak suretiyle 1305 parsel sayılı taşınmazın tevzinin 1758 parseline isabet ettiği belirlenmiş ise de; dava konusu taşınmaz hakkında “mera” sınırlı vergi kaydının miktar fazlası olduğu gerekçesi ile Hazine adına tapu oluşturulduğu halde yöntemince mera araştırması yapılmamış, bu kapsamda özellikle çekişmeli taşınmaza batı yönden komşu parsellerin tespit tutanakları ile dayanağı belgeler getirtilip komşu taşınmazlarda mera bulunup bulunmadığı araştırılmamış, komşu köyler halkından mahalli bilirkişi dinlenmek suretiyle taşınmazın öncesinin mera olup olmadığı ortaya konulmamıştır. Eksik araştırma ve inceleme ile karar verilemez.
 Hal böyle olunca; doğru sonuca varılabilmesi için öncelikle, çekişmeli taşınmaza komşu (taşınmazın batısında bulunan ve Kaldırım Köyü sınırları içinde bulunan taşınmazlara ait parsellerin ada parsel numaraları da belirlenmek suretiyle) taşınmazların kadastro tutanaklarının onaylı örnekleri ve varsa dayanakları ile kadastro sonucu oluşan tapu kayıtları getirtilip dosya ikmal edilmeli, bundan sonra mahallinde, yaşlı, tarafsız, yöreyi iyi bilen, komşu köylerde ve aynı köyde ikamet eden şahıslar arasından seçilecek 3’er kişilik yerel bilirkişi kurulu, aynı yönteme göre tespit edilecek taraf tanıkları, sağ olmaları durumunda belirtmelik bilirkişileri huzuruyla yeniden keşif yapılmalı, keşif sırasında dinlenilecek yerel bilirkişi ve taraf tanıklarından taşınmazın geçmişte ne durumda bulunduğu, kime ait olduğu, kimden nasıl intikal ettiği, kim tarafından ne zamandan beri ne suretle kullanıldığı etraflıca sorulup maddi olaylara dayalı olarak açıklattırılmalı; taşınmazlar üzerindeki zilyetliğin hangi tarihte başladığı hususu tereddüte yer bırakmayacak şekilde belirlenmeli, taşınmazın öncesinin mera, yaylak veya kışlak olup olmadığı, komşu da mera parseli bulunması halinde mera parselinden
 ne suretle ayrıldığı hususları sorulup saptanmalı, bilirkişi ve tanık sözleri komşu parsel tutanak ve dayanakları ile denetlenmeli, yargılama sırasında dinlenen bilirkişi ve tanık beyanları arasındaki çelişki yüzleştirme yapılmak suretiyle giderilmeye çalışılmalı, ziraat bilirkişisinden önceki keşif sonucu dosyaya ibraz edilen ziraat bilirkişi raporundaki bulgular da değerlendirilerek taşınmazların niteliği, toprak yapısı, komşu parsellere göre arz ettiği özellikler ve taşınmazlar ile komşu durumda mera parseli bulunması halinde aralarında doğal ya da yapay ayırıcı unsur bulunup bulunmadığı, meranın devamı niteliğinde olup olmadığı hususlarında bilimsel verilere dayalı ayrıntılı ve gerekçeli rapor alınmalı, taşınmazı tüm yönleriyle gösterecek fotoğrafları çektirilmeli, fotoğraflar üzerinde çekişmeli taşınmaz işaretlenmeli, fen bilirkişisinden ise keşfi izlemeye ve bilirkişi sözlerini denetlemeye elverişli harita düzenlettirilmeli, bundan sonra müdahil davacı lehine Hazine tapusunun oluştuğu tarihe kadar 3402 sayılı Yasa'nın 14 ve 46/1. maddesinde belirtilen şartların oluşup oluşmadığı belirlenerek sonucuna göre bir karar verilmelidir.
 
 ## Yargıtay 16. HD 2019/3642 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524013800)
 
 3402 sayılı Kadastro Kanunu'nun 5. maddesi uyarınca, kadastro sırasında, genel mahkemelerde mülkiyete ilişkin davaya konu olan taşınmazlar, malik hanesi açık olarak tespit edildikten sonra tutanak ve ekleri Kadastro Mahkemesine gönderilir. Haklarında tespit gününden önce genel mahkemede mülkiyete ilişkin dava bulunan taşınmazların kadastro tespitleri sırasında malik hanelerinin doldurulması, hukukça değer taşımamaktadır. Bu tür taşınmazlar hakkında genel mahkemelerin görevi, 3402 sayılı Yasa'nın 27. maddesi uyarınca, taşınmaz mal hakkında kadastro tutanağı tanzim edildiği tarihte sona erer ve dava Kadastro Mahkemesine aktarılır. Kadastro Mahkemelerince, aktarılan davalarda re'sen araştırma ilkeleri çerçevesinde yargılama yapılarak, gerçek hak sahibi yararına tescile ilişkin karar verilmesi zorunludur. Somut olayda, davacılar tarafından dava konusu taşınmaz hakkında tespit tarihinden önce genel mahkemede, müdahalenin men'i davası açılmıştır.
 Bu durum karşısında, dava konusu taşınmaz hakkında genel mahkemede tespit tarihinden önce açılmış mülkiyete ilişkin bir dava bulunduğundan, kadastro sırasında tutanağın malik hanesinin Abdurrahman Yüksel adına doldurulması hukukça değer taşımamaktadır. Kadastro Mahkemesince, aktarılan davanın tamamı hakkında yöntemince inceleme ve araştırma yapılarak sonucunda gerçek hak sahibi adına tescil kararı verilmesi gerekirken, davalıların vaki kabulü üzerine gerekli araştırma ve inceleme yapılmadan davanın kabulüne karar verilerek, hem davacılar hem de davalılar adına tescil kararı verilmesi ve yine dava konusu taşınmazın bitişiğinde orman bulunduğu halde, yöntemince orman araştırılması yapılmaması doğru değildir. Hal böyle olunca, doğru sonuca ulaşılabilmesi için mahkemece, kadastro tutanağının malik hanesinin hukuken yok hükmünde bulunduğu göz önünde tutulmak suretiyle, çekişmeli parselin gerçek hak sahibinin kim olduğu hususunda ve orman hususunda yöntemine uygun inceleme ve araştırma yapılarak sonucuna göre tescil kararı verilmelidir.

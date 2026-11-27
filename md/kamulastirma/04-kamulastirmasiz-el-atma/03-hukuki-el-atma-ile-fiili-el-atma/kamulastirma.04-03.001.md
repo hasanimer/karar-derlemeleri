@@ -33,28 +33,42 @@ Arsa niteliğindeki taşınmaza emsal karşılaştırması yapılarak değer bi�
 
 ## Yargıtay 5. HD 2025/281 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132270800)
+
 7421 sayılı Kanun ile 2942 sayılı Kanun’a eklenen Ek Madde 4'ün üçüncü fıkrası; “Bu Kanun kapsamında açılan davalarda verilen bedel ve tazminat kararlarına ilişkin mahkeme ve icra harçları, davalı idare tarafından ödenmek üzere maktu olarak belirlenir.” şeklinde düzenlenmiştir. Eldeki dava 04.11.1983 tarihinden sonraki el atma olup 2942 sayılı Kanun’da düzenlenmediği, kaynağını Yargıtay İçtihadı Birleştirme Büyük Genel Kurulunun 16.05.1956 tarihli ve 1956/1 Esas, 1956/6 Karar ile 16.05.1956 tarihli ve 1954/1 Esas, 1956/7 Karar sayılı kararlarından aldığı ve proje bütünlüğü bağlamında bedeline hükmedilen kısımlar açısından ise 2942 sayılı Kanun'un Ek 1 inci maddesinin uygulanması söz konusu olmadığından, Ek Madde 4 gereği değerlendirme yapılmayacağı nazara alındığında nispî harç ve nîspî vekâlet ücretine hükmedilmesi yerindedir.
 
 ## Yargıtay 5. HD 2014/24399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/302566100)
 
 Bu durumda, dava konusu taşınmazın öncesinde 27793 ada 5 parsel iken imar planına uygun olarak el atılması nedeniyle fiilen imar uygulamasına başlanıldığından, bundan sonra parselle ilgili yeniden yapılan imar çalışmaları sonucu (somut olayda olduğu gibi) başka parseller oluşsa dahi, bu parseller kamuya özgülenmiş olma durumundan çıkarılmadığı sürece, proje bütünlüğü açısından fiili el atmanın gerçekleştiğinin kabul edilmesi gerekir.
 
 ## Yargıtay 18. HD 2014/13798 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106737900)
+
 Bundan ayrı fiilen el atılan kısım ve el atan idare tespit edildikten sonra imar planında el atılan kısmın dışındaki bölüm de aynı idarenin hizmet alanı içerisinde kalıyorsa, proje bütünlüğü gözönünde tutulup bu kısımlar da hukuki el atma kapsamında olmayacağından bedeline hükmetmek gerekmektedir.
 
 ## Yargıtay 18. HD 2014/1511 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106450500)
 
 HMK'un 114. maddesinde öngörülen dava şartları arasında yer alan mahkemenin görev hususunun değerlendirilebilmesi açısından öncelikle el atma olgusunun niteliğinin saptanması gerekir. Bu nedenle mahkemece fiilen el atılan 5.16 m²'lik kaldırımın imar planında yol olarak öngörülen bölümün kısmen inşaatına başlanması durumunda olup olmadığı, asfalt bölümün devamının yapılmaya devam edilip edilmediği, yol olarak planlanan kısmın proje bütünlüğü içinde kısmen gerçekleştirilme halinin oluşup oluşmadığının açıkça belirlenmesi gereklidir. İmar planında öngörülen yolun plana uygun olarak fiilen gerçekleştirilmeye başlanıldığının tespiti halinde fiili el atma niteliği kabul edilerek taşınmazın plandaki tamamı hakkında bir karar verilmesi gerekir. Aksi takdirde hukuki el atma mahiyetinde bulunduğunun kabulü halinde ise sadece fiilen el atılan kısım hakkında karar verilerek diğer kısmı hakkında mahkemenin yazılı gerekçesi gibi idari yargı yerinde görülmek üzere görev yönünden dilekçenin reddi gerekecektir.
 
 ## Yargıtay 18. HD 2013/16286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798436900)
+
 Bu nedenle; öncelikle mahkemenin görevli olup olmadığının anlaşılması yönünden dava konusu taşınmaza herhangi bir fiili el atma olup olmadığı yerinde tespit edilerek somut olayda fiili el atma mı hukuki el atma mı olduğu şüpheye yer bırakmayacak şekilde belirlenmesi gerekir. Mahkemenin kabulünde olduğu gibi hukuki el atma var ise davacının mülkiyet hakkına getirilen kısıtlamanın, dava konusu taşınmazın, genel ve düzenleyici bir işlem olan imar planıyla kamu hizmetine özgülenmesinden ve bu planda öngörülen kamulaştırma işlemlerinin zamanında yapılmamasından kaynaklandığının kabulü ile idari işlem ve eylemden doğan zarara ilişkin davanın 2577 sayılı İdari Yargılama Usulü Kanunu hükümleri uyarınca idari yargı yerinde çözümlenmesi gerektiğinden, 6100 sayılı Hukuk Muhakemeleri Kanununun 114/1-b ve 115/2. maddeleri uyarınca davanın usulden reddi yerine eksik araştırma ve incelemeyle yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Danıştay İDDK 2023/159 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913394600)
+
 Öte yandan, hukuki el atma nedeniyle açılan tam yargı davaları, adli yargıdaki fiili el atma nedeniyle açılan davalardan farklı olarak, 3194 ve 2942 sayılı Kanunlar kapsamında açılan davalar olduğundan, hükmedilecek faizin; dava açma tarihi itibarıyla talep edilen miktar için, dava tarihinden geçerli olmak üzere, ıslah edilen kısım için ıslah tarihi itibarıyla hesaplanması gerektiği,…
 
 ## Danıştay İDDK 2022/1671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802473800)
 
 Kamulaştırmasız el atma (hukuki el atma) terimi, genel olarak, imar planlarında kamu hizmetinde kullanılmak üzere ayrılan özel mülkiyete konu taşınmazların, imar planları doğrultusunda imar programlarının uygulanması için mevzuatta öngörülen süre içerisinde, kamu hizmetini ifa edecek idare tarafından kamulaştırılmamasından kaynaklanan ve mülkiyet hakkının kısıtlanması sonucunu doğuran olguyu ifade etmektedir. Ancak bazı durumlarda hukuki el atmanın, idarenin imar planı dışındaki düzenleyici işlemlerinden de kaynaklanması mümkündür.

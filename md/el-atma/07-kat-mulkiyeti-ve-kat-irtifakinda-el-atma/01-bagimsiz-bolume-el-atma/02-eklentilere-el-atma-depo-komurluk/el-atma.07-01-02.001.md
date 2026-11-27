@@ -22,15 +22,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 10. D. 2022/3912 E., 2025/2212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190655700)
+
 Her ne kadar, 7317 sayılı Kanun ile 5 yıllık tecrübe şartının 10 yıla çıkarılması, başvuru aşamasında ya da lisans öğrenimi görmekte olan harita ve kadastro mühendislerinin haklı beklentilerini zedelemiş ise de; bir beklentinin hukuken korunabilmesi için, bireyin kendisine güvenerek hareket ettiği, lehine olan bir kanunda öngörülemez bir değişiklik yapılması ve bu öngörülemez değişikliğin herkes yönünden objektif olarak beklenebilecek bir beklentiyi sonuçsuz bırakması şartlarının birlikte gerçekleşmesi tek başına yeterli olmayıp bu beklentinin ihlalini gerektiren bir kamu yararının da bulunmaması gerekmektedir. Bu yönüyle anayasa yargısında kişi yararıyla kamu yararının karşı karşıya geldiği durumlarda önemli bir kamu yararının bulunmaması kaydıyla haklı beklentinin korunması kabul edilebilir. Aksi takdirde kanun koyucunun kamu yararını gerçekleştirmek üzere değişen koşullara göre yeni politikalar belirlemesi imkânı önemli ölçüde zedelenebilir. (AYM, E.2016/195, K.2017/158, 16/11/2017, § 70)
 
 Anayasa Mahkemesinin yukarıda aktarılan kararlarından da anlaşılacağı üzere; önceki kanundan doğan hakların, sonraki kanuna taşınmaması veya daha ağır koşulların sağlanması kaydıyla devamının öngörülmesi halinde, haklı beklenti ilkesinin ihlal edildiğinden ve mülga kanundan doğan haklı beklentilerin korunması zorunluluğundan bahsedilebilmesi için, yeni kanunun, kişinin yararından (mülga kanunla tanınan hakkından) daha üstün bir kamu yararının tesisini öngörmemiş olması gerekir. Daha açık bir anlatımla, yeni kanunun, kişinin yararı ile kıyaslandığında üstün bir kamu yararını amaçlaması halinde, haklı beklentinin korunması gerekliliğinden söz edilmesi mümkün değildir.
 
 ## Danıştay 10. D. 2022/3918 E., 2025/2204 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169754700)
+
 Bir beklentinin hukuken koruma görebilmesinin ön koşullarından biri beklentinin haklı (meşru) beklenti seviyesine ulaşmasıdır. Haklı beklenti, bireyin kendisine güvenerek hareket ettiği lehine olan bir kanunda, ya da idarenin istikrar kazanmış bir uygulamasında öngörülemez bir değişiklik yapılması ve bu öngörülemez değişikliğin herkes yönünden objektif olarak beklenebilecek bir beklentiyi sonuçsuz bırakması şartlarının birlikte gerçekleşmesi durumunda gündeme gelmektedir. Ancak kazanılmış haklardan farklı olarak bir beklentinin hukuken korunabilmesi için anılan koşulların gerçekleşmesi yeterli olmayıp bu beklentinin korunmasına engel teşkil eden bir kamu yararının da bulunmaması gerekmektedir.
 
 ## Danıştay 10. D. 2020/1941 E., 2024/6371 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193507200)
 
 Röperli kroki: 5912 sayılı Kanun ile değişik 634 sayılı Kat Mülkiyeti Kanununun yürürlüğe girdiği tarihten sonra verilmiş olan yapı kullanma izin belgesi dayanağında talep edilecek cins değişikliği ve kat irtifakından kat mülkiyetine resen geçiş işlemlerinde, yapı kullanma izin belgesi eki niteliğinde düzenlenmesi gereken, parsel/parseller içerisinde bulunan cins değişikliğine konu her türlü yapı, eklenti ve sabit tesislerin B.Ö.H.H.B.Ü. Yönetmeliğine göre yapılan ölçüler sonucunda elde edilen değerlerine göre parsel içi yerleşim durumlarını, (26/12/2019 tarihli ve E.4922678 sayılı Olur ile değişik ifade) projesine göre bağımsız bölümlerini, bina ve eklenti köşelerinden parsel sınırlarına yapılan röperlerinin gösterildiği yapı kullanma izin belgesini düzenleyen idaresince onaylı koordinatlı krokiyi (Ek-23/Örnek-30), …
 
@@ -39,6 +45,8 @@ Röperli kroki: 5912 sayılı Kanun ile değişik 634 sayılı Kat Mülkiyeti Ka
 2577 sayılı Kanunun 2. maddesinde, iptal davalarının, idari işlemler hakkında yetki, şekil, sebep, konu, maksat yönlerinden biri ile hukuka aykırı olduklarından dolayı iptalleri için menfaatleri ihlal edilenler tarafından açılabilecekleri; 14. maddesinin 3. fıkrasının (c) bendinde, dava dilekçelerinin ehliyet yönünden inceleneceği; 15. maddesinin 1. fıkrasının (b) bendinde de, dava dilekçesinin ehliyet yönünden kanuna aykırı bulunması halinde davanın reddine karar verileceği hükme bağlanmıştır.
 
 ## Yargıtay HGK 2025/693 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200912600)
 
 Davacı vekili dava dilekçesinde; müvekkilinin 634 sayılı Kat Mülkiyeti Kanunu’na (634 sayılı Kanun) göre yetkilendirilen site yönetimi olduğunu, davalının siteye ait ortak kullanım alanını haksız işgal ettiğini, işgalin Kadıköy 5. Sulh Hukuk Mahkemesinin 2011/129 D.İş dosyasında keşfen saptandığını, sözlü ve yazılı uyarılara rağmen işgalin devam ettiğini, davalının siteye ait ortak alanda ticari faaliyet yürüttüğünü ileri sürerek el atmanın önlenmesini ve şimdilik 10.000,00 TL ecrimisilin işgal tarihinden itibaren işleyecek yasal faiziyle birlikte tahsilini istemiştir.
 
@@ -58,6 +66,8 @@ Kat malikleri ortak yerlerde kullanma hakkına sahiptirler; bu hakkın genel kö
 
 ## Yargıtay HGK 2023/1135 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976365900)
+
 Davacı vekili dava dilekçesinde, müvekkilinin 1975 yılında ... İli, ...
 
 …
@@ -71,6 +81,8 @@ Burada hemen belirtmek gerekir ki 4721 sayılı Türk Medeni Kanun'u (TMK) taş�
 Nitekim Anayasa Mahkemesi, 2981 sayılı Kanun’un 10 uncu maddesindeki şartların yerine getirilmemesi nedeniyle tapu tahsis belgesine konu taşınmazın belge sahibi adına tescil edilememesi, başvurucunun, meşru beklenti kapsamında dahi bir hak veya alacağının olmadığı, başvurucuyu, taşınmazın mülkiyetini elde etme konusunda meşru bir beklentiye sevkedecek bir kanun hükmü veya yerleşik yargısal bir içtihat da bulunmadığından, başvurucunun, Anayasa'nın 35 inci maddesinde düzenlenen mülkiyet hakkına ilişkin korumadan yararlandırılmasının mümkün olmadığını kabul etmiştir (Anayasa Mahkemesi, ... ..., B. No: 2013/6670).
 
 ## Yargıtay HGK 2022/81 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/755812900)
 
 4\.
 
@@ -92,6 +104,8 @@ B bendinde (§24-31) gösterilen gerekçelerle (2) numaralı uyuşmazlık yönü
 
 ## Yargıtay 5. HD 2025/7381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181425300)
+
 Davacılar vekili dava dilekçelerinde; müvekkillerinin maliki oldukları ... köyü, 2 65... parselde kayıtlı A blokta ortak alana, mimari proje ve yönetim planına aykırı olarak müdahale edildiğini, müvekkillerine ait ortak alanlara (kömürlüklere ve merdiven boşluğuna) davalılar tarafından daire yapıldığını, bu dairelerde oturmakta olan kiracı bulunduğunu, davalı müteahhit ...'ın müvekkillerinin eklentisi olmasına rağmen kömürlükleri iki adet daireye çevirdiğini, bu çevirdiği dairelerden bodrum kat daire 2'yi diğer davalı ...'a sattığını, yine kömürlüklerin altında göstermelik şekilde 3.bodrum kat yapıldığını, bu katın binanın statiğini etkilediğini, bu katın iptal edilerek doldurulmasını ve duvar örülmesi ile eski hale getirilmesini talep ettiklerini belirterek ortak alan ve eklentilerine müdahale edip daireye çeviren davalı ... ile bodrum 2. kata hukuka aykırı şekilde yapılan daireye ... adlı kiracıyı bulundurmak suretiyle bu daireye müdahale eden kat maliki ...'ın yaptığı müdahalenin önlenmesine karar verilmesine, proje ve eklerine, imar kanununa, yönetim planına aykırı şekilde yapılan yerlerin eski hale getirilmesine karar verilmesini talep etmişlerdir.
 
 …
@@ -109,6 +123,8 @@ Bu sebeple; davalıya ait 2 numaralı bağımsız bölümün eklentisi olan köm
 Davacılar ... vd. ve davalı ... vekillerinin temyiz itirazlarının reddi ile usul ve kanuna uygun olan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/1722 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135420100)
 
 Davacı ... vekili dava dilekçesinde özetle; Balıkesir ili, ..., 1837 ada 2 parsel sayılı taşınmaz üzerinde bulunan sitenin numaralı bağımsız bölüm maliki olan davalının, kat maliklerinin onayı olmadan ve yönetim planındaki düzenlemeye aykırı olacak şekilde pek çok sayıda hayvan beslediğini, kötü koku ve gürültüye sebebiyet verdiğini, ön ve arka balkonları kapattığını, yine balkonun yarısına kadar mimari görünümü etkiler şekilde ahşap kafes yaptırdığını, yönetim planının 17 nci maddesinde, site sakinlerinin münhasıran kendi bağımsız bölümlerinde ve ortak yerlerde kedi, köpek ve tavuk vb. hayvanları barındırıp besleyemeyeceği; 18 inci maddesinde ise, bağımsız bölümlerde yapının orjinal mimari görünümünü etkileyecek ve bilhassa dış cephe üzerinde herhangi bir değişiklik ve ilaveler yapamayacağının düzenlendiğini, davalının haksız müdahalesinin önlenmesi amacıyla noterden ihtar çekildiğini, ancak bugüne kadar sonuç alınamadığını ileri sürerek müdahalenin önlenmesi ve kapatılan balkonların ve yapıların kaldırılarak eski hale getirilmesini, davalının site içerisinde ya da kendi bağımsız bölümünde hayvan barındırma ve beslemesinin önlenmesini talep ve dava etmiştir.
 
@@ -130,6 +146,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul
 
 ## Yargıtay 5. HD 2024/6202 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062417500)
+
 Dosya içeriğine göre Bölge Adliye Mahkemesince kararın kesin nitelikte olduğundan bahisle temyiz dilekçesinin reddine karar verilmiş ise de 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 362 nci maddesinin birinci fıkrasının (b) bendi; ''kira ilişkisinden doğan ve miktar veya değeri itibarıyla temyiz edilebilen alacak davaları hariç olmak üzere 4 üncü maddede gösterilen davalar ile (23.06.1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda sulh hukuk mahkemesinin görevine girdiği belirtilen davalarla ilgili kararların'' temyiz edilemeyen kararlar olduğunu belirtmekle, davacıların talebinin ortak alan ve tapuda eklentileri olan kömürlüklere ilişkin müdahalenin önlenmesi ve eski hâle getirme olduğu gözetildiğinde, bu taleplerin niteliği itibarıyla mülkiyet hakkına ve taşınmazın aynına ilişkin olduğunun kabulü ile temyizinin olanaklı bulunduğu kabul edilmelidir.
 
 …
@@ -137,6 +155,8 @@ Dosya içeriğine göre Bölge Adliye Mahkemesince kararın kesin nitelikte oldu
 Davalılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/5247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174028600)
 
 Davacı vekili dava dilekçesinde özetle, davalı tarafından dava dışı ... ...., ... aleyhine icra takibi yapıldığını, takip borçlusu olan dava dışı ....'a ait olduğu zannıyla 360 da 47 parsel sayılı taşınmaz üzerinde bulunan gecekonduya taşınır haczi uygulanarak satışa çıkarıldığını, alacaklının işbu enkazı satın aldıktan sonra davacıya tahliye emri gönderdiğini, tahliye emrinin iptali için dava ikame edildiğini, davacının toplamda 650.000,00 TL'yi ....'a nakden ödeyerek gecekondunun 2/3'üne isabet eden giriş ve üst katı satın aldığını belirterek davanın kabulü ile dava konusu yerin enkazının malik sıfatıyla zilyetliğinin müvekkiline ait olduğunun tespiti ile davalının her türlü müdahaleden men edilmesini, bu talebinin kabul edilmemesi halinde ise enkaz bedelini depo ettikten sonra zilyetliğinin korunmasını ve tespitini talep etmiştir.
 
@@ -160,6 +180,8 @@ Davacı tarafın temyiz taleplerinin kabulüyle, davanın reddine yönelik Bölg
 
 ## Yargıtay 3. HD 2024/1402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061112400)
+
 Davacılar vekili; müvekkilinin, davalıya ait taşınmaz üzerine, davacıların mirasbıraklarının oluru ile o tarihte davalıya ait olmayan taşınmaz üzerine bir bina inşa ettiklerini, daha sonra davalı adına tescil edilen bu taşınmaz için davalı tarafından davacılar aleyhine el atmanın önlenmesi davası açıldığını ve davanın aleyhlerine sonuçlandığını, ancak bu zamana kadar davalının bina değerini kendilerine ödemediğini, taşınmazı satın alma tekliflerini de kabul etmediğini belirterek, binanın ve etrafındaki bahçe düzenlemesinin şu an değerinin 400.000,00 TL'nin üzerinde olduğunu, davalının bina kıymeti kadar sebepsiz zenginleştiğini ileri sürerek, davalıdan, fazlaya ilişkin hak saklı kalmak kaydı ile şimdilik 400.000,00 TL alacağın tapu tescil tarihi olan 2013 yılından itibaren işleyecek ticari faizi ile birlikte tahsiline karar verilmesini istemiştir.
 
 …
@@ -175,6 +197,8 @@ Bu durumda, malzeme sökülüp alınmadığına göre hükmedilecek miktarın bu
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2023/9203 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987877000)
 
 Davacı vekili dava dilekçesinde özetle; davalının ortak alan olan dış cephede pencere ve balkonlarına file takmak sureti ile müdahalede bulunduğunu, yapının eski hale getirilmesine karar verilmesini talep etmiştir.
 
@@ -192,6 +216,8 @@ Davacı vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun olan kar
 
 ## Yargıtay 5. HD 2023/1221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874329200)
+
 Davacı vekili dava dilekçesinde; maliki olduğu bağımsız bölüm eklentisi 1 No.lu garajı uzun yıllar ihtilafsız kullandığını; ancak 2 No.lu bağımsız bölüm malikinin buna müdahale ettiğini, garaj numaralandırması hususunda belediyedeki mimarî proje ile tapu kayıtlarının çeliştiğini belirterek tapudaki eklenti kayıtlarının düzeltilmesini ve davalının müdahalesinin önlenmesini talep etmiştir.
 
 …
@@ -207,6 +233,8 @@ Davalılar ... vd. vekili cevap dilekçesinde; davanın kendilerinin açmış ol
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/874 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897266000)
 
 Davacılar vekili dava dilekçesinde;
 Ekim 2007 tarihinde davacılara ait ana yapının kat mülkiyetine geçiş işlemini müteakip 3 adet bağımsız bölümün zemin katını Tahsin, birinci katını Sadık ve ikinci katını Abdullah'a sattığını, satış öncesinde ana yapının inşaat projesine aykırılığı nedeniyle bağımsız bölüm olarak tescili mümkün olmayan ancak, mesken olarak kullanılan bodrum katın satış dışı bırakıldığını, satış öncesinde noterlikçe düzenlenen "beyan ve taahhüt" başlıklı bir belgeyle satıcı ve alıcının bu konuda uyuşan iradelerinin yazılı hâle getirildiğini, taşınmazın davalı ...'ın oğlu Hakan tarafından mesken olarak kullanıldığını, Hakan'ın taşınmazdan tahliyesine yönelik yapılan işlemlerin sonuçsuz kaldığını, bu yerin sözleşme ile satış dışı tutulması nedeniyle satın aldıkları konutlar için daha az bedel ödediklerini, daha az bir bedel ile bağımsız bölümlerde malik olduklarını, bu nedenle haksız olarak zenginleştiklerini, 19/1 ada 190 parselde bulunan bodrum katın rayiç bedelinin ve 15.09.2008 gününden bu yana mahrum kalınan kira gelirlerinin tespitine, tespit edilen yekûn alacağın sözleşmeye aykırılık hükümlerince temerrüt faiziyle davacılara ödenmesine karar verilmesini talep etmiştir.
@@ -228,6 +256,8 @@ Eklentiler kat mülkiyeti kütüğünün "beyanlar" hanesine kaydedilir ve bunla
 
 ## Yargıtay 5. HD 2021/8598 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686601700)
+
 Mahkemece, asıl davanın kabulü ile 106-107-108 parsellerin yararlanmalarının engellenmesine yönelik müdahalenin önlenmesine, 105 parselde bulunun havuzdan 106-107-108 parsellerinde yararlanma hakkının bulunduğunun tespiti ile muarazanın bu suretle giderilmesine, birleşen davaların reddine karar verilmiş, karar, asıl dava davacılar vekili ile davalı-birleştirilen dava davacılar vekili tarafından temyiz edilmiştir.
 
 Mahkemenin gerekçeli kararında, birleştirilen davaların 105 parsel üzerinde bulunan blok malikleri olan davalıların ortak yerler ile eklentilerine vaki müdahalelerinin önlenmesini talep ettiği belirtilmesine rağmen, birleştirilen dava dosyası davacılarının 105 parsel bir kısım malikleri ve yönetimi olduğu, gerekçe olarak “1547 ada 105 parsel malikleri davacılarında bu havuzdan yararlanabilecekleri, dolayısıyla buna engel olan 2850 ada 108 parsel ile 1547 ada 106 ve 107 parsel sayılı taşınmaz maliklerinden olan davalıların havuzdan yararlanmaya engel olma haklarının bulunmadığı” açıklamasına karşın asıl ve birleştirilen davaların taraf ve taleplerinin karıştırıldığı, hüküm kısmında “asıl davanın kabulü ile 106-107-108 parsellerin yararlanmalarının engellenmesine yönelik müdahalenin önlenmesine, 105 parselde bulunun havuzdan 106-107-108 parsellerinde yararlanma hakkının bulunduğunun tespiti ile muarazanın bu suretle giderilmesine, birleşen davaların reddine” karar verildiği anlaşılmakla, gerekçe ile hüküm arasında çelişki oluşturulmak suretiyle, infaza da elverişli olmayacak şekilde HMK'nun 297. maddesine aykırı hüküm kurulması doğru görülmemiştir.
@@ -235,6 +265,8 @@ Mahkemenin gerekçeli kararında, birleştirilen davaların 105 parsel üzerinde
 Taraf vekillerinin temyiz itirazlarının kabulü ile hükmün HUMK'nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2021/478 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660118900)
 
 Mahkemece DAVANIN KISMEN KABULÜ ile, Dava konusu ... ada ... parselde kain B blok 1 ve 6 nolu bağımsız bölüm eklentilerinin perde betonlarına müdahale edilmediği dosya kapsamında anlaşılmakla davacı tarafın bu yöndeki davasının reddine, Dava konusu taşınmaz eklentilerinin arka balkon izdüşümlerinin alanını tuğla duvar ve doğramalarla kapatılarak oluşturulan 15.75' er m2 lik kapalı alanın KMK ve mimari projesine aykırı olduğu anlaşılmakla kal' i ile mimari projesine uygun eski hale getirilmesine, Dava konusu taşınmaz eklentilerinin kiraya verilmesi ve konut olarak kullanılmasının önlenmesi yönündeki davanın reddine, Davalı tarafa belirtilen hususlar için 30 günlük süre verilmesine, karar verilmiş, hüküm davacılar vekili ve davalı ... vekili tarafından temyiz edilmiştir.
 
@@ -245,6 +277,8 @@ Ayrıca kabule göre de, HMK'nun 297. maddesine göre mahkemece verilen kararın
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/87 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642075500)
 
 Mahkemece, davanın reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
 

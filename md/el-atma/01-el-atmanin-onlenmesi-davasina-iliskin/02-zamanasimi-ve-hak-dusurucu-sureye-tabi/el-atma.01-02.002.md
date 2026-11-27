@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2016/10716 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/249103900)
+
 Anayasanın 13. maddesine göre temel hak ve özgürlüklere yönelik sınırlamalar, demokratik toplum düzeninin ve laik cumhuriyetin gereklerine ve ölçülülük ilkesine aykırı olamayacağı gibi, hak ve özgürlüklerin özlerine de dokunamaz. Dava konusu kural 9.10.1956 ile 4.11.1983 tarihleri arasında meydana gelen kamulaştırmasız el atmalar nedeniyle açılacak davalar için malikin başvurusu üzerine idare ile malik arasında uzlaşma sağlanamazsa, uzlaşmazlık tutanağının tanzim edildiği ya da altı aylık süre uzlaşmaya davet olmaksızın sona ermişse bu tarihten itibaren üç aylık hak düşürücü süre öngörmektedir.
 
 Hak arama özgürlüğü demokratik hukuk devletinin vazgeçilmez unsurlarından biri olup tüm bireyler açısından mümkün olan en geniş şekilde güvence altına alınmalıdır. Diğer taraftan hukuki işlem ve kuralların sürekli dava tehdidi altında bulunması hukuk devletinin unsurları olan hukuki istikrar ve hukuki güvenlik ilkeleriyle bağdaşmaz. Bu nedenle hak arama özgürlüğü ile hukuki istikrar ve hukuki güvenlik gerekleri arasında makul bir denge gözetilmelidir. Dava konusu kuralla getirilen süre sınırlamasının amacının geçmişte meydana gelen hukuka aykırılıklarla ilgili uyuşmazlıkların tasfiye edilmesi olduğu anlaşılmaktadır. Bu yönüyle kural geçici bir nitelik taşımaktadır. Getirilen süre sınırlamasının amacının kamulaştırmasız el atma yoluyla kamu hizmetine tahsis edilmiş olan taşınmazlara ilişkin ihtilafların belli bir süre içinde çözümlenerek mülkiyet durumunun açıklığa kavuşturulmasını sağlamak olduğu açıktır. Kamu hizmetine tahsis edilen taşınmazların her an dava tehdidi altında bulunması kamu hizmetlerinin aksamasına neden olacağından açılacak davalar için bir süre sınırı getirilmesinde kamu yaran bulunmaktadır.
@@ -31,6 +33,8 @@ Hak arama özgürlüğü demokratik hukuk devletinin vazgeçilmez unsurlarından
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2016/7767 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/182410100)
 
 Dava kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -46,6 +50,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2016/780 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143910400)
+
 Dava, kamulaştırmasız el atılarak enerji nakil hattı taşınmazın irtifak hakkı karşılığının tahsili istemine ilişkindir.
 
 Mahkemece davanın reddine, davalı idare adına irtifak tesisine karar verilmiş; hüküm, davacı vekiline temyiz edilmiştir.
@@ -58,6 +64,8 @@ Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan ne
 
 ## Yargıtay 5. HD 2015/21489 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118348600)
+
 Dava konusu taşınmazın mülkiyet ihtilafının 1988 yılında çözülerek, taşınmazın aynı yıl davacılar ve murisleri adına tapuya tescil edildiği ve 3402 sayılı Yasanın 12/3.maddesinde belirtilen 10 yıllık hak düşürücü süre içerisinde, davalı tarafından tescil davası açılmadığı anlaşılmış olup, davacıların kamulaştırmasız el atmaya dayalı tazminat davası açma imkanı bulunduğu gözetilerek, mahkemece davanın kabulüne dair verilen kararın onanması gerekirken, bozulduğu bu kez yapılan incelemede anlaşıldığından;
 
 …
@@ -65,6 +73,8 @@ Dava konusu taşınmazın mülkiyet ihtilafının 1988 yılında çözülerek, t
 Davalı vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2015/20665 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112548500)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -80,6 +90,8 @@ Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan
 
 ## Yargıtay 18. HD 2015/10803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405837100)
+
 Dava kamulaştırmasız el atma nedeni ile tazminat istemine ilişkindir.
 
 …
@@ -92,10 +104,14 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 5. HD 2015/5572 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/116209100)
+
 Dairemizin 22.09.2014 gün ve 2014/13891-2014/21638 sayılı düzelterek onama kararında her ne kadar “2942 sayılı Kamulaştırma Kanununun Geçici 6. maddesinde değişiklik yapan ve 11.06.2013 tarihinde yürürlüğe giren 6487 sayılı Yasanın 21. maddesi ile "kamulaştırmasız el atmadan kaynaklanan tazminat davalarında mahkeme ve icra harçları ile her türlü vekalet ücretleri bedel tespit davalarında öngörülen şekilde maktu olarak belirlenir. ... açılan ve kesinleşmeyen davalarda da uygulanır." hükmünün getirilmiş olduğu gözetildiğinde, vekalet ücretinin maktu olarak hüküm altına alınması gerektiğinden;” bahisle davalı idare lehine maktu vekalet ücretine hükmedilmesi yönünde düzeltme yapılmış ise de; davanın hak düşürücü süre geçtiğinden reddedildiği, hak düşürücü sürenin ise davanın görülme ön şartı olduğu dikkate alındığında hüküm tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 7. maddesi uyarınca davalı idare lehine hükmedilen vekalet ücretinin maktu vekalet ücretini geçemeyeceği gerekçesi ile kararın düzeltilmesi gerektiği bu kez yapılan incelemede anlaşıldığından, davalı idare vekilinin karar düzeltme isteminin kabulüne, Dairemizin 22.09.2014 gün ve 2014/13891-2014/21638
 sayılı kararının dördüncü paragrafının çıkartılmasına, yerine (Davanın hak düşürücü süre geçtiğinden reddedildiği, hak düşürücü sürenin ise davanın görülme ön şartı olduğu dikkate alındığında hüküm tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 7. maddesi uyarınca davalı idare lehine hükmedilen vekalet ücretinin maktu vekalet ücretini geçemeyeceği anlaşıldığından,) ibaresinin yazılmasına, bu düzeltmenin Dairemizdeki karar aslına da İŞLENMESİNE, peşin alınan karar düzeltme harcının istenildiğinde iadesine, 23.03.2015 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2014/10645 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98711300)
 
 İİK'nun 39/1 maddesinde ilama dayananan takibin son işlem üzerinden on yıl geçmekle zamanaşımına uğrayacağı düzenlemesine yer verilmiştir. Ancak, taşınmazın mülkiyetine ve taşınmaz üzerindeki ayni haklara ilişkin ilamlar, şahsın ve aile hukukuna ilişkin ilamlar ile ayni hakka dayalı olarak alınan taşınmaza müdahalenin önlenmesi ilamları zamanaşımına uğramaz. (11.02.1959 tarih 10/12 sayılı İBK).
 
@@ -105,11 +121,15 @@ SONUÇ: Borçlu vekilinin temyiz itirazının kabulü ile Mahkeme kararının yu
 
 ## Yargıtay 16. HD 2014/7217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/362614400)
+
 Kadastro sonucu... Köyü çalışma alanında bulunan 261 parsel sayılı 23.700,00 metrekare yüzölçümündeki taşınmaz tapu kaydı nedeniyle davacı-karşı davalı ... adına tespit ve tescil edilmiştir. Davacı-karşı davalı ... kendisine ait çekişmeli 261 parsel sayılı taşınmazın bir bölümüne davalı-karşı davacıların haksız el atmasının önlenmesi ve ecrimisil istemiyle, davalı-karşı davacılar ... ve müşterekleri ise kazandırıcı zamanaşımı zilyetliğine dayanarak çekişmeli 261 parsel sayılı taşınmazın bir bölümünün tapusunun iptali ve tescil istemiyle dava açmışlardır. Mahkemece yapılan yargılama sonunda davacı-karşı davalı ...'ın el atmanın önlenmesi isteminin kabulü ile davalı-karşı davacıların çekişmeli taşınmaza haksız elatmalarının önlenmesine, ecrimisil isteminin reddine, davalı-karşı davacılar ... ve müştereklerinin tapu iptal ve tescil davasının çekişmeli taşınmazın kadastro tutanağının kesinleşiği tarih ile dava tarihi arasında 3402 sayılı Kadastro Kanunu'nun 12/3. maddesinde dava açmak için öngörülen 10 yıllık hak düşürücü sürenin geçtiği gerekçesiyle reddine karar verilmiş; hüküm, davalı-karşı davacılar ... ve müşterekleri vekili tarafından temyiz edilmiştir.
 
 Dosya içeriğine, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere, delillerin takdirinde bir isabetsizlik bulunmamasına göre yerinde olmayan temyiz itirazlarının reddiyle usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2013/22718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/287109600)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -125,6 +145,8 @@ Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan
 
 ## Yargıtay 5. HD 2013/19427 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526593100)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedellerinin tahsili istemine ilişkindir.
 
 Mahkemece, 259, 456, 1092, 1093, 753 parseller yönünden davanın reddine, diğer parseller yönünden davanın kabulüne karar verilmiş, hüküm davalı idareler vekillerince temyiz edilmiştir.
@@ -134,6 +156,8 @@ Mahkemece, 259, 456, 1092, 1093, 753 parseller yönünden davanın reddine, diğ
 Adı geçen davacıya davalı idarece yapılan tebliğden itibaren 2942 sayılı Kamulaştırma Kanununun 14. maddesinde yazılı 30 günlük hak düşürücü süre içinde bedel arttırım davası da açılmamış olduğundan kamulaştırma işlemi kesinleşmiş olup, kamulaştırmasız el atmadan bahsedilemeyeceği gözetilerek 1914 ve 2800 parsellere ilişkin davanın reddi yerine, kabulüne karar verilmesi, …
 
 ## Yargıtay 5. HD 2013/8678 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/268822700)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -149,6 +173,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2012/12468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573811000)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiş; hüküm, davalı idare vekilince temyiz edilmiştir.
@@ -162,6 +188,8 @@ Bu durumda kamulaştırma tebligatı usulüne uygun ve yasal olarak yapılmış 
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan, hükmün açıklanan nedenlerle H.U....nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2011/18723 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026853300)
 
 Dava kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -177,11 +205,15 @@ Davacılardan ... vd. ile davalı idare vekillerinin temyiz itirazları yerinde 
 
 ## Yargıtay 20. HD 2010/11171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/821794700)
+
 Açıklanan nedenlerle; dava konusu taşınmazın krokide (A) harfi ile gösterilen bölümünün davalıların dayandığı tapu kaydının miktarı ile geçerli kapsamı içinde kalmadığı gibi kazandırıcı zamanaşımı zilyetliği yoluyla kazanma süresi de dolmadığından bu bölüm hakkında da davanın kabulü ile elatmanın önlenmesine karar verilmesi gerekirken davanın reddine karar verilmesi usul ve yasaya aykırıdır.
 
 SONUÇ: Yukarıda açıklanan nedenlerle; davacı Hazinenin temyiz itirazlarının kabulü ile hükmün BOZULMASINA 27/09/2010 günü oybirliği ile karar verildi.
 
 ## Yargıtay 14. HD 2010/6504 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768819800)
 
 Davacılar ....ve .... 156 ada 4 ve 6 parsel sayılı taşınmazların davalıların murisi ....'a ait iken ...'a sattığını, 27.12.1957 tarihli senetle de taşınmazın bu kez mirasbırakanları tarafından satın alındığını, üzerine bina yapıldığını ileri sürerek temliken tescil isteğinde bulunmuşlardır.
 
@@ -196,6 +228,8 @@ Kadastro parsellerinin sonradan imar uygulamasına alınması ve yeni parsellere
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2007/13039 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905153800)
 
 Davacı vekili, 07.11.2005 günlü dava dilekçesi ile müvekkilinin kök murisi ... ... adına Mayıs 1305 tarih 56 sayılı tapuda kayıtlı bulunan taşınmazın, 3116 Sayılı Yasa hükümlerine göre yapılan orman kadastrosunun kesinleşmesi sonucu orman niteliği ile Haziran 1947 tarih 41 numarada Hazine adına tescil edildiğini, o tarihte tapu maliklerine herhangi bir bedel ödemediğini, bu yerin arazi kadastrosu sırasında 184 ada 7 sayılı parsel olarak 887.491 m2 yüzölçümüyle yine orman niteliği ile Hazine adına tespit ve tescil edildiğini, daha sonra bu parselin bir bölümünün 1744 Sayılı Yasa ile değişik 2. madde uygulaması sonucu orman dışına çıkarıldığını, bir bölümünün ifraz sonucu ...
 
@@ -212,6 +246,8 @@ Kaldı ki; 13.07.1945 tarihinde yürürlüğe giren 4785 Sayılı Yasanın 1. ma
 Ayrıca, taşınmaza kamulaştırmasız elatıldığı düşünülse dahi 13.01.1961 tarihinde yürürlüğe giren 221 Sayılı Yasanın 4. maddesinde kamulaştırmasız elatılan taşınmazın malikinin bedelini dava ... bu yasanın yürürlüğe girdiği tarihten itibaren iki sene sonra düşeceği belirtildiği ve bu hak düşürücü süre de geçtiğinden davacı ... vekilinin yerinde görülmeyen temyiz itirazlarının reddi ile usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2007/2659 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78084200)
 
 Davacı Hazine, davalıya ait .parsel sayılı taşınmazın kıyı kenar çizgisi dahilinde kaldığını ileri sürerek, bu kısmın tapusunun iptali ile kıyı kenar çizgisi içersinde kalan kısma davalının elatmasının önlenmesi ile muhtesatların yıkımı isteklerinde bulunmuştur.
 

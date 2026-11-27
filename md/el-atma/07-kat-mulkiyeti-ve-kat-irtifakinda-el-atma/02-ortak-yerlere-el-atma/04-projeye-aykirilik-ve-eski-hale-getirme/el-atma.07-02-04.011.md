@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2010/15459 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803654300)
+
 Davacı vekili dava ve birleşen dava dilekçesinde, davalı tarafça davalıya ait dükkanın 1. ve 2. bodrumunda bulunan kuranglezlerin kapatıldığını, dükkanın zemin kat giriş kapısının yerinin ve ön cephesinin projeye aykırı olarak değiştirildiğini, binanın sığınağına inişi sağlayan giriş kapısının kapatılarak kullanım dışı bırakıldığını, dükkana ait 2. bodrum kattaki duvarın delinip sığınağa geçişi sağlayan kapı yapılarak binanın ortak sığınağına ait merdiveni kendi kullanımına açtığını, dükkan arka cephesini projeye aykırı olarak genişlettiğini, dükkanın 1. ve 2. bodrum katlarında projeye aykırı olarak atık suların apartman gider sistemine bağlandığını ileri sürerek projeye aykırı tüm değişikliklerin kaldırılarak projesindeki eski haline getirilmesini istemiş, mahkemece davanın pasif husumet yokluğundan reddine, birleşen davanın ise kabulüne karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
 
 …
@@ -37,6 +39,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2010/13807 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/807358700)
+
 Davacı dava dilekçesinde; davalıların bağımsız bölümlerinin salon, mutfak ve ön cephelerindeki duvarları kaldırıp bu yerlerde ve dış duvarda onaylı mimari projeye aykırı şekilde tesis ve değişiklikler yaptıklarını, anayapının dış duvarına klima yerleştirdiklerini ileri sürerek söz konusu tesis ve değişikliklerin eski hale getirilmesini istemiş, mahkemece davalıların onaylı mimari projeye aykırılık teşkil eden bir müdahalesinin bulunmadığı, klimanın mimari projede yerinin olmadığı, çevreye zarar vermeyecek şekilde binaya takıldığı gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -46,6 +50,8 @@ Davacı dava dilekçesinde; davalıların bağımsız bölümlerinin salon, mutf
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2010/13396 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/806699700)
 
 Davacı, dava dilekçesinde anataşınmazın eski hale getirilmesine ve zararlarının ödetilmesine karar verilmesini istemiş, mahkemece davanın kısmen kabulüne karar verilmiş, hüküm davacı tarafından temyiz edilmiş, mahkemece temyiz isteminin reddine ilişkin verilen ek karar davacı tarafından temyiz edilmiştir.
 
@@ -57,14 +63,20 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2010/13074 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805699300)
+
 İcra ve İflas Yasasının 30.maddesinde bir işin yapılmasına (yerine getirilmesine) ilişkin ilamların ne şekilde infaz edileceği açıkça hükme bağlanmış olup; somut olayda mahkemece yapılmasına hükmedilen işlerin Kat Mülkiyeti Yasasının 33. maddesine göre verilecek uygun bir süre içinde davalı tarafından yerine getirilmesine hükmedilmesiyle yetinilmesi gerekirken, projesine aykırı sundurma çatının yıkılıp eski hale getirilmesi için verilen sürenin yetersiz olması ve tahmini olarak belirlenmiş olan eski hale getirme giderinin miktarı da belirtilmek suretiyle infaz aşamasında yapılacak işleri de kapsar biçimde hüküm kurulmuş olması doğru değil ise de bu yanılgıların giderilmesi yeniden yargılamayı gerektirmediğinden hüküm fıkrasının 4. satırında yer alan "500 TL bedelle ve 2 gün süre içinde yıkılmak kaydıyla davalının ortak alanın bu bölümüne müdahalesinin belirtilen şekilde önlenmesine" sözcüklerinin metinden çıkartılmasına ve yerine "yıkılarak projesine uygun eski hale getirilmesine, davalının ortak yere müdahalesinin önlenmesine, bunun için davalıya 10 gün süre verilmesine" sözcükleri yazılarak hükmün düzeltilmesine ve düzeltilmiş bu şekli ile ONANMASINA, aşağıda yazılı bakiye onama
 harcının temyiz edene yükletilmesine, 14.10.2010 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 18. HD 2010/12405 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802558500)
+
 634 Sayılı Yasanın 33.maddesi gereğince eski hale getirilmesine karar verilen işler için davalılara uygun bir süre verilmesi gerektiğinin düşünülmemesi doğru değilse de bu yanılgıların giderilmesi yeniden yargılama yapılmasını gerektirmediğinden hüküm fıkrasının iki nolu bendinden sonra gelmek üzere "eski hale getirilecek işler için birleşen dosyanın davalıları ...
 
 ## Yargıtay 1. HD 2010/12380 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78763600)
 
 Davacı, kayden maliki olduğu 227 parsel sayılı taşınmazdaki 2 nolu bağımsız bölümün asma katını haklı ve geçerli bir nedene dayanmaksızın davalıların kullandığını ileri sürerek, elatmanın önlenmesi, eski hale getirme ve ecrimisil isteğinde bulunmuştur.
 
@@ -88,6 +100,8 @@ Davacının, temyiz itirazlarının kabulüyle, hükmün açıklanan nedenlerden
 
 ## Yargıtay 18. HD 2010/12315 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802048500)
+
 Dava, anataşınmazda 5 ve 6 numaralı bağımsız bölümler arasında bulunan boşluğun içerisindeki çatıya çıkma kapağının yerinde yapılmayarak davalı bağımsız bölümünün içine alındığı, böylece davacıların çatıya çıkışının engellendiğinden davalının müdahalesinin önlenmesi ve kal istemine ilişkindir.
 
 Mahkemece, terasa çıkışların önlenmesi şeklindeki müdahalenin önlenmesine, projede terasa çıkış için ayrı bir merdiven öngörülmediğinden kal isteminin reddine, terasa çıkışın zorunlu olduğu hallerde davalının belirleyeceği gün ve saatlerde davacıların terasa çıkışlarının sağlanmasına karar verilmiştir.
@@ -102,6 +116,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 20. HD 2010/11718 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/823396700)
+
 Orman Genel Müdürlüğü Teşkilat Yasasının 2. Maddesi ile Orman Yönetimine verilen görevleri yerine getirmek amacıyla özel ormanın sınırlarının ve üzerindeki orman varlığının fiilen ve hukuken korunmasını, geliştirilmesini sağlamaya yönelik kararların alınması ve bu kararların uygulanmasını sağlamak için, özel ormanlarda, yasaya aykırı ve amaca uygun olmayan kullanım ve tasarruf söz konusu olduğunda, Orman Yönetiminin bunları önlemek, eylemin niteliğine göre idari yada adli yargı organlarına baş vurmak suretiyle görevini yapması zorunludur. Bu nedenle, 6831 Sayılı Yasanın 52. Maddesi gereğince özel orman alanlarında yapılaşmaya yönelik olarak verilen ön ve kesin izinden sonra, gerek izin sahasında, gerekse izin sahası dışında Orman Yönetiminin taşınmaz ve yapılar üzerinde bir yetkisinin kalmayacağı, bu yetkinin imar yasası ve ilgili mevzuat çerçevesinde ilgili belediyelere ait olacağı yönündeki mahkeme kararının gerekçesinin yasal dayanağı bulunmamaktadır.
 Yapılaşmanın verilen ön ve kesin izine, imar mevzuatına, ilgili yasa ve yönetmelik hükümlerine göre yürütülüp yürütülmediğini, ihtiyaca ve amaca en uygun yasal çözümlerin üretilip üretilmediğini, ormanların korunması için gerekli tedbirlerin yasal ve ihtiyaca uygun olarak alınıp alınmadığını denetlemek, alternatif çözüm önerileri sunmak, bu konulara uyulmaması halinde, Anayasa ve yasaların kendisine verdiği denetim ve gözetim görevlerini yerine getirmek için, ilgili idari yada adli mahkemelere başvurması Orman Yönetiminin asli görevidir. Tapu kaydının cins hanesinin yolsuz işlemle terkin edildiğinin tespit edilip eski hale getirilmesi, ön ve kesin izin sahalarına yada bu sahalarda imar planlamasına uyulmayarak, ormana elatılması halinde bu yerlerle ilgili elatmanın önlenmesi ve binaların yıktırılıp eski hale getirilmesi ve izin sahası içinde ve dışındaki özel orman alanlarında kurulan kat mülkiyetinin yok hükmünde olduğunun tespiti ile iptal ettirmesi gibi konularda, olayın niteliğine göre genel adliye, yada idare mahkemelerinde, Orman Genel Müdürlüğünün dava açma konusunda aktif dava ehliyeti vardır.
 
@@ -110,6 +126,8 @@ Yapılaşmanın verilen ön ve kesin izine, imar mevzuatına, ilgili yasa ve yö
 Yukarıda açıklanan nedenlerle; Orman Yönetiminin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 18. HD 2010/9959 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802348300)
 
 Davacı vekili dava dilekçesinde; davalının, 3 nolu bağımsız bölümünün balkonunu kapattığını ileri sürerek sözü edilen balkonun projesine uygun eski hale getirilmesini de istemiştir.
 
@@ -123,6 +141,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2010/9892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802151500)
+
 Davacı dava dilekçesinde; kat maliki olduğu ana taşınmazda davalıların sıfatları olmadan yöneticilik yapan kişiler oldukları; davalıların kat maliklerinin onay ve iznini almadan anayapının bodrum katlarındaki kapalı otoparklara müdahale ederek burada depo yaptırmak, sabit makina tesisatı ve cihazları (jeneratör, soğutucu, klima ve benzeri) kurdurmak, işyerlerinin artık eşyalarını koyduğu depo şeklinde kullanılmak suretiyle işgal ettiklerini; otoparka, blok giriş kapılarına ve servis yoluna ulaşım sağlayan blok binaların zemindeki giriş/çıkış açıklıklarına demirden ve tahtadan barikatlar ve engeller koymak suretiyle müdahale ettiklerini; yine kat maliklerinin izni olmaksızın binanın asansör kabinlerinin içine muhtelif ebatlarda reklam amaçlı ışıklı-ışıksız panolar, bilbort ve ayaklı tabelalar yaptırdıklarını ve mesken olarak kullanılan bina giriş holüne ve asansör kabinlerine açık-gizli görüntü alma ve kaydetme cihazları koydurduklarını belirterek bu eylemlerinin yönetim planı ve yasa hükümlerine aykırı olması nedeniyle ortak yerlere el atmanın önlenmesi ile eski hale getirilmesine; el atma ile otoparka yapılan; depolar, kurulan makine cihazları, otopark girişlerine yapılan demir ve
 tahtadan engeller ile ortak bahçe ve asansör kabinleri içinden görüntü sağlayan cihazlar, kameralar ve imar dışı ve yetkisiz yapılmış diğer tesislerin yıkılarak amaca aykırı kullanımın men'ine, el atma ile yetkisiz harcanan paraların davalılardan geri alınmasına karar verilmesini istemiş; davalılar cevap dilekçelerinde, daha önce aynı konularda kendisi ve diğer yönetim kurulu üyeleri aleyhinde dava açılıp karara bağlandığını ve kararın infaz edildiğini, iddia edilen yerlerde şahsına ait bir müdahalenin olmadığını, diğer konularda ise otopark ve asansör kabin içi uygulamalarının 03.07.2007 ve 28.08.2007 günlü site yönetim kurulu kararları ile kat maliklerinin yararı doğrultusunda yapıldığını, şahsına yönelik bir davanın açılmasının mümkün olmadığını, asılsız bu davanın esastan ve husumet yönünden reddinin gerektiğini belirtmiş; mahkemece davalıların yönetim kurulu başkan ve üyesi olup, kendilerinden başka 3 kişinin daha yönetimde bulunduğu ve davanın yönetime açılması gerekirken sadece davalılara açıldığı anlaşıldığından husumet yönünden davanın reddine karar verilmiştir.
 
@@ -135,13 +155,19 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2010/9598 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804713100)
+
 İcra ve İflas Yasasının 30. maddesinde bir işin yapılmasına (yerine getirilmesine) ilişkin ilamların ne şekilde infaz edileceği açıkça hükme bağlanmış olup; somut olayda mahkemece davalıya verilen süre içinde ortak yere el atmanın önlenmesi ile projeye aykırılığın eski hale getirilmesine hükmedilmesiyle yetinilmesi gerekirken, kararda "aksi takdirde davacıya karar gereğini yerine getirmek üzere yetki verilmesine" denilmek suretiyle infaz aşamasında yapılacak işleri de kapsar biçimde hüküm kurulmuş olması doğru değil ise de bu hususun düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden, mahkeme kararının hüküm fıkrasının 3.
 
 ## Yargıtay 18. HD 2010/9330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803864400)
+
 Karar gereğinin yerine getirilmesi için davalıya 634 Sayılı Kat Mülkiyeti Yasasının 33.maddesi gereğince uygun bir süre verilmesi gerektiğinin düşünülmemesi ve infazda tereddüt yaratacak biçimde “eski hale getirme süresinin ½ gün olup, masrafın davalı tarafça karşılanmasına” denilerek hüküm kurulması doğru değil ise de bu yanılgının giderilmesi yeniden yargılama yapılmasını gerektirmediğinden hüküm fıkrasının birinci bendinin sekizinci satırındaki “eski hale getirme süresinin ½ gün olup, masrafın davalı tarafça karşılanmasına” ibaresinin metinden çıkarılmasına yerine "davalıya karar gereğini yerine getirmesi için 10 gün süre verilmesine" tümcesi yazılmak suretiyle kararın düzeltilmesine ve düzeltilmiş bu şekli ile ONANMASINA, 21.06.2010 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 18. HD 2010/8793 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803290400)
 
 Bozma öncesi yaptırılan bilirkişi incelemesi sonunda tespit edilen mimari projeye aykırılıklardan, krokide B harfi ile gösterilen ve zemin katta apartman bahçesi niteliğindeki yere yapılan, fiilen de kapıcı dairesi olarak kullanılan 30 m² alanlı bölümün, yüklenici tarafından binanın inşası sırasında yapıldığı ve davalıların buraya fiilen müdahalelerinin bulunmadığı anlaşılmakla, tüm kat malikleri adına yapılan ve hepsini ilgilendiren bu projeye aykırılığın eski hale getirilmesi yükümlülüğü sadece davalılara yüklenemeyeceğinden, tüm kat malikleri davaya dahil edilmek üzere davacıya süre verilmesi gerektiğinden söz edilerek mahkeme kararı bozulmuş, bozma kararına uyularak yapılan yargılama sırasında anataşınmazın A Blok kat maliklerinden ... ile ... ... ve B Blok kat maliklerinin davaya dahil edilmedikleri anlaşılmıştır. Bu durumda anagayrimenkulün ortak yerlerinde binanın ilk inşası sırasında yapılmış bulunan projeye aykırılıkların eski hale getirilmesinden tüm kat malikleri sorumlu olduğuna göre, mahkemece tüm kat maliklerinin davaya dahil edilmesi gerekirken, taraf teşkili sağlanmadan işin esasına girilerek hüküm kurulmuş olması doğru görülmemiştir.
 
@@ -149,15 +175,21 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2010/8538 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803044600)
+
 634 sayılı Kat Mülkiyeti Yasasının 19.maddesine göre kat malikleri anataşınmazın mimari durumunu titizlikle korumaya mecburdurlar. Öte yandan Yargıtay'ın kararlılık kazanmış uygulamaları uyarınca her dava açıldığı tarihteki koşullarına göre görülüp sonuçlandırılır. Davalıların ister kat maliki olsun ister kiracı veya o bağımsız bölümlerden, ortak alanlarda meydana getirilen tesislerden devamlı suretle yararlanan kimseler olsun anataşınmazın onaylı mimari projesine aykırı olarak yapmış oldukları onarım, tesis ve değişiklikleri eski hale getirme mecburiyeti bulunduğundan her zaman pasif husumet ehliyetleri vardır. Mahkemece bu durum dikkate alınarak işin esasına girilip tüm deliller toplanıp davalıların müdahalelerinin men'ine, onaylı mimari projede aykırılıklar tek tek belirlenip krokiye bağlanarak eski hale getirilmesine karar verilmesi gerekirken, yazılı gerekçeyle davanın reddi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2010/7647 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803955700)
+
 İcra ve İflas Yasasının 30. maddesinde bir işin yapılmasına (yerine getirilmesine) ilişkin ilamların ne şekilde infaz edileceği açıkça hükme bağlanmış olup; somut olayda mahkemece, dava konusu taşınmazda ortak alanlara diğer maliklerin kullanmasını engelleyecek şekilde müdahalesinin önlenerek taşınmazı eski hale getirmesi için davalıya süre verilmekle yetinilmesi gerekirken, kararın 4. fıkrasında ayrıca "Bilirkişi raporunda belirtilen ek imalatların, kömürlüklerin ve demir kapının sökülerek eski hale getirilmemesi halinde bu işlerin bedeli olan 2.350,00TL’nin davalıdan alınarak davacıya verilmesine "de karar verilmek suretiyle infaz aşamasında yapılacak işleri de kapsar biçimde hüküm kurulmuş ve bedelinin davacıya ödenmesine karar verilmiş olması doğru değil ise de, bu yanılgının giderilmesi yeniden yargılamayı gerektirmediğinden hükmün 4 numaralı fıkrasının hükümden çıkarılmasına, devam eden fıkraların ise 4. ve 5.
 
 ## Yargıtay 18. HD 2010/7193 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804263700)
 
 Davanın salt dava konusu bağımsız bölümün dubleksine çatı arasından eklenen bölümler, ilave merdiven ve kapı ile ilgili olduğu dikkate alınarak, eski hale getirilmesi gereken kısımların nereler olduğu ve ne surette eski hale getirileceği hususunda bilirkişiden açık, net ve krokiye bağlı rapor alınması ve buna dayalı olarak hüküm fıkrasında eski hale getirilecek yerlerin hiçbir duraksamaya meydan verilmeden birer birer belirtilmesi gerekirken, infazda tereddüt yaratacak ve dava dışı olan kısımların da projeye uygun eski hale getirilmesine yol açacak şekilde karar verilmesi, …
 
@@ -169,6 +201,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2010/6833 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804655800)
+
 İcra ve İflas Yasasının 30. maddesinde bir işin yapılması (yerine getirilmesine) ilişkin ilamların ne şekilde infaz edileceği açıkça hükme bağlanmış olup; somut olayda mahkemece hükümle birlikte dava konusu edilen ortak yerlere davalının müdahalesinin önlenmesi ile kendisine tanınan süre içinde değişikliklerin projesine uygun (eski) hale getirmesine hükmedilmesiyle yetinilmesi gerekirken; ara kararı ile eski hale getirme için süre verilip bu sürede aykırılıkların eski hale getirilmediğinden bahisle projeye aykırılıkların masrafı davalıdan alınıp davacı tarafından eski hale getirilmesine karar verilerek infaz aşamasında yapılacak işleri de kapsar biçimde hüküm kurulmuş olması, …
 
 …
@@ -176,6 +210,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2010/6755 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/801921200)
 
 İcra ve İflas Yasasının 30.maddesinde bir işin yapılmasına (yerine getirilmesine) ilişkin ilamların ne şekilde infaz edileceği açıkça hükme bağlanmış olup somut olayda davalıların ortak alana yaptıkları el atmanın önlenmesi ve eski hale getirilmesi ve bunun için davalıya 3 gün süre verilmesi ile yetinilmesi gerekirken eski hale getirme tutarının tespit edilmesi ve davalı tarafça projeye aykırılık ve ortak alana yapılan el atma giderilmezse davacı tarafından yerine getirilmesine ve eski hale getirme tutarının davalı taraftan alınıp davacıya verilmesine karar verilmesi doğru değil ise de, bu yanılgıların giderilmesi yeniden yargılamayı gerektirmediğinden, hüküm fıkrasının 2 nolu bendinde yer alan "Eski hale getirme tutarının 600 TL. olarak tespitine" ve 3 nolu bendinde yer alan "davalı tarafça bu süre içerisinde projeye aykırılığın giderilmediği, bahçeye vaki müdahalenin giderilmediğinin anlaşılması halinde davacı tarafından yerine getirilmesine, 600 TL.
 

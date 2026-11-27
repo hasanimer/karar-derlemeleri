@@ -28,24 +28,36 @@ Kamulaştırma bedeline, Anayasa’nın 46/son maddesi gereğince dava tarihinde
 
 ## Yargıtay 5. HD 2014/31552 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97038400)
+
 2942 sayılı Kamulaştırma Kanununun 10. maddesine 6459 sayılı Yasa'nın 6. maddesi ile eklenen hüküm uyarınca, dava dört ay içerisinde sonuçlandırılamadığından, Anayasa Mahkemesi’nin 19.12.2013 tarih ve 2013/817 başvuru numaralı 1. bölüm kararı da göz önüne alınarak, dava tarihinden sonra açılan acele el koyma dosyasında bloke edilen bedele 07/08/2012 tarihinden, acele el koyma bedelinin bloke edildiği tarihe kadar bakiye bedele de 07/08/2012 tarihinden ilk karar tarihine kadar yasal faiz yürütülmesi gerekirken bu usule uyulmadan faize hükmedilmesi,…
 
 ## Yargıtay 5. HD 2014/31548 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97037500)
 
 2942 sayılı Kamulaştırma Kanununun 10. maddesine 6459 sayılı Yasanın 6. maddesi ile eklenen hüküm uyarınca, dava dört ay içerisinde sonuçlandırılamadığından, Anayasa Mahkemesi’nin 19.12.2013 tarih ve 2013/817 başvuru numaralı 1. Bölüm kararı da göz önüne alınarak, dava tarihinden sonra açılan acele el koyma dosyasında bloke edilen bedele 10/08/2012 tarihinden, acele el koyma bedelinin bloke edildiği tarihe kadar, bakiye bedele ise 10/08/2012 tarihinden ilk karar tarihe kadar yasal faiz yürütülmesi gerekirken bu usule uyulmadan faize hükmedilmesi,…
 
 ## Yargıtay 5. HD 2014/29298 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96823300)
+
 2942 sayılı Kamulaştırma Kanununun 10. maddesine, 6459 sayılı Yasanın 6. maddesi ile eklenen hüküm uyarınca, dava dört ay içinde sonuçlandırılamadığından, Anayasa Mahkemesi’nin 19.12.2013 tarih ve 2013/817 başvuru numaralı 1. Bölüm kararı da göz önüne alınarak, acele kamulaştırma dosyasında bloke edilen miktar düşüldükten sonra fark bedele, bu sürenin bitimi tarihinden karar tarihine kadar geçen süre için yasal faiz yürütülmesi gerektiğinden,…
 
 ## Yargıtay 18. HD 2014/18994 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798628500)
 
 Yasa koyucu da, bu hak ihlalini dikkate alarak, 6459 sayılı Kanunun 6. maddesiyle 2942 sayılı Kanunun 10. maddesine eklenen fıkrada (yürürlük tarihi 30.04.2013) kamulaştırma bedelinin tescili için açılan davanın dört ay içinde sonuçlandırılmaması halinde, tespit edilen bedele bu sürenin bitiminden itibaren faiz uygulanmasına ilişkin düzenleme getirmiştir.
 
 ## Yargıtay 18. HD 2014/18815 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107226600)
+
 Her ne kadar getirilen bu faiz hükmü maddi hukuka ilişkin olup, aynı Yasanın 29. maddesi gereğince yayımı tarihinden sonra açılacak davalara uygulanması gerekir ise de; 30.04.2013 tarihinden sonra açılacak davalar için yapılan bu düzenleme ile Anayasa Mahkemesinin makul süreyi aşan yargılamanın hak ihlali oluşturduğuna ilişkin kararı birlikte değerlendirildiğinde, 30.04.2013 tarihinden önce açılmış ve henüz kesinleşmemiş kamulaştırma bedelinin tespiti ile tescil davalarında öngörülen dört aylık yargılama süresinin makul süre kabul edilerek hakkaniyet gereğince taşınmaz malikinin zararının giderilmesi amacıyla dava tarihinden itibaren dört aylık sürenin bittiği 29.05.2013 tarihinden karar tarihi olan 14.03.2014 tarihine kadar (acele el koyma dosyasında dava açılmadan önce ödenen kısmın mahsubu ile mahkemece artırılan kısma) tespit edilen kamulaştırma bedeline faiz uygulanması gerekirken acele el koyma dosyasında ödenen kısmın mahsubu yapılmadan ve uygulanacak faizin başlangıç ve bitiş tarihleri de hatalı alınarak hüküm kurulmuş olduğundan da hükmün bozulması gerekmiştir.
 
 ## Yargıtay 5. HD 2014/11311 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/297755000)
 
 Kamulaştırma bedelinin tespiti için açılan dava dört ay içinde sonuçlandırılamadığından Anayasa Mahkemesi’nin 19.12.2013 tarih ve 2013/817 başvuru numaralı 1. bölüm kararı da göz önüne alınarak, acele el koyma dosyasında tespit edilen miktarın belirlenen kamulaştırma bedelinden mahsubundan sonra kalan kamulaştırma bedeline 28.11.2007 tarihinden, karar tarihine kadar geçen süre için yasal faiz yürütülmesi gerektiğinden,…

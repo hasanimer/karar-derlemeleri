@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/844 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868301000)
+
 … ayrıca ehliyetsizlik iddiasıyla miras payı oranında tapu iptal ve tescil talepli **davanın tereke adına açılmamış olması nedeniyle dinlenilmesine yasal olanak bulunmadığı**…
 
 ## Yargıtay 1. HD 2023/687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908595600)
 
 Terekeye karşı yapılan mülkiyetten kaynaklanan haksız fiil niteliğindeki muris muvazaası ve elatmanın önlenmesi gibi davalar dışında **ehliyetsizlik, hile, vekâlet görevinin kötüye kullanılması vs. gibi davalarda terekeyi temsil eden tüm mirasçıların bir arada hareket etmek suretiyle davayı birlikte açmaları**, ayrıca, mirasçılardan birisinin terekeye iade şeklinde dava açması halinde de tüm mirasçıların muvafakatlarının sağlanması…
 

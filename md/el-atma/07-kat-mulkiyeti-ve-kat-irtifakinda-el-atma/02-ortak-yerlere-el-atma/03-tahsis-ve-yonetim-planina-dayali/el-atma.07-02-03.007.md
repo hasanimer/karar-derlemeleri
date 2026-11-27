@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2009/8037 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78422200)
+
 Davacılar, maliki bulundukları 25 sayılı parseldeki kat irtifaklı 2 nolu bağımsız bölümün eklentisi olan depoya davalının müdahale ettiğini ileri sürerek, elatmanın önlenmesi ve yıkım istemişlerdir.
 
 Davalı, davanın reddini savunmuştur.
@@ -40,6 +42,8 @@ Davacıların temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabulüy
 
 ## Yargıtay 18. HD 2009/3475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876761900)
+
 Anataşınmazın yönetim planının 26. maddesinde 37 numaralı asma katlı dükkanın altında bulunan bodrum kattaki boş alanın tamamının kullanım hakkı kat irtifaklı tapusunda adları yazılı bulunan kat maliklerine ait olup burayı salt dükkan sahiplerinin kullanma haklarının bulunduğu belirtilmiş; davalı, dava konusu edilen ortak yerlere el atmasının yönetim planının bu maddesine uygun olduğunu savunmuş ise de, anılan yönetim planı maddesi hükmü salt bodrum kattaki boş alanın kullanılması hakkını dükkan maliki kat irtifak hakkı sahiplerine tanımıştır. Bu hüküm dava konusu edilen bodrum kattaki ortak garajı kapsamadığı gibi, kapsamış olsa bile olduğu gibi ve amacına uygun kullanılması gerekir. Oysa bilirkişi raporları içeriğinden davalının ortak garajı yararlanmakta olduğu dükkanın deposu olarak kullandığı ve buraya eşya koyduğu, ayrıca zemin kattaki kapıcı gözetleme yerini de tüm kat maliklerinin beşte dördüğünün yazılı rızası olmaksızın kullanmakta olduğu saptanmış bulunmaktadır. Bu durumda mahkemece, dava konusu edilen ortak garaj ve kapıcı gözetleme yeri hakkında oluşturulan kararda bir isabetsizlik yoktur.
 Ancak, davalının sözü edilen ortak yerlere haksız el atmasının önlenmesi ve eski hale getirilmesi için Kat Mülkiyeti Yasasının 33. maddesi hükmü uyarınca davalıya belli ve uygun süre verilmemiş olması doğru değildir.
 
@@ -49,11 +53,15 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2008/13053 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876662000)
+
 Yukarıda özetlendiği üzere davanın temelini yönetim planının sözü edilen maddesinin iptali oluşturmaktadır. Kat Mülkiyeti Yasasının 28. maddesi hükmüne göre tüm kat maliklerinin ve onların ardıllarını bağlayan bir sözleşme niteliğinde bulunan yönetim planının iptali istemli bir davanın anataşınmazdaki tüm kat maliklerine yöneltilmesi gerekir. Somut olayda davanın davacı kat maliki tarafından ana taşınmazdaki diğer tüm kat maliklerine yöneltilmesi gerekirken salt 1 nolu bağımsız bölüm maliki ile onun kiracısına karşı açılmış olması doğru değildir. Saptanan bu durum karşısında davaya diğer kat maliklerinin de yöntemince katılmaları ile taraf teşkili sağlanmadan davaya bakılıp işin esası hakkında hüküm kurulmuş olması usul ve yasaya aykırıdır.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2008/3695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874577100)
 
 Davacılar vekili dava dilekçesinde; dava konusu ana taşınmazın 1 numaralı bağımsız bölümün maliki olan davalı ...'in kat maliklerinin iznini almaksızın ortak yerlerden yaklaşık 20 m2'lik alanı dairesine kattığını, davalılardan 4 nolu bağımsız bölümün sahibi olan Mahir Kalmaz'ın aynı şekilde kat maliklerinden izin almaksızın ortak alanda 2 adet müştemilat yaparak toplam 104 m2'lik alanı işgal ettiğini ayrıca daire nitelikli taşınmazlarını işyeri ve benzeri amaçlarla kullandıklarını ileri sürerek projeye ve yönetim planına aykırı bulunan bu tesis ve değişikliklerle kullanma şeklininin eski hale getirilmesini, fazlaya ilişkin hak saklı kalmak şartıyla, davalılardan ...'den 1380 YTL. diğer davalı Mahir Kalmaz'dan 3420 YTL. işgal tazminatının alınmasını ve davalılara ait dairelerin arsa paylarında inşaat projesine aykırı olarak sonradan yapılan ilavelerin iptalini istemiş, mahkemece arsa payı ilavelerinin iptali ile düzeltme yapılmasına ilişkin istemin reddine, ecrimisil ve diğer hususlara ilişkin davanın kısmen kabulüne karar verilmiştir.
 
@@ -69,6 +77,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2006/5029 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879475100)
+
 Davacı vekili dava dilekçesinde, davalıların B3 Blok 76 nolu bağımsız bölümün balkonunu mimari projeye, yönetim planı hükümlerine ve 27.11.2004 günlü kat malikleri kurulu kararına aykırı olarak kapattıklarını ileri sürerek sözü edilen balkonun projesine uygun eski hale getirilmesini istemiştir.
 
 Kat Mülkiyeti Yasasının 19. maddesi hükmüne göre kat malikleri anataşınmazın mimari durumunu titizlikle korumakla yükümlü oldukları gibi, kat maliklerinden biri diğer tüm kat maliklerinin rızası olmadıkça ortak yerlerde inşaat, onarım, tesis ve değişiklikler yaptıramaz. Yargıtay'ın yerleşmiş uygulamalarına göre bir bağımsız bölümün balkonlarının dış duvar ve cepheleri Yasanın 4. maddesi hükmü uyarınca ortak yer olarak tanımlanmaktadır. Anataşınmazdaki tüm kat maliklerini bağlayan sözleşme niteliğindeki yönetim planının 22. maddesinde yapının dış estetiğinin değiştirilemeyeceği hükme bağlanmıştır. Dosyaya konulan 27.11.2004 günlü kat malikleri kurulu kararının son paragrafında ise balkonların cam ile kapatılmaması, balkonlarını kapatan ve yönetim planına aykırı davrananlar hakkında gerekli yasal işlemlerin yapılması hususunda yönetime yetki verilmesi kararlaş- tırılmıştır.
@@ -78,6 +88,8 @@ Yerinde yapılan inceleme sonucu düzenlenen bilirkişi raporunda davalıların 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2006/2286 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881162400)
 
 Davacılar vekili dava dilekçesinde; mimari projesinde 1 bodrum 1 zemin 4 normal ve teras katlı bir otopark ve 6 daireden ibaret olan anataşınmazın sobalı bir bina olmasına karşın bodrum katta bulunan ve projede kömürlük olarak gösterilen E.
 
@@ -95,6 +107,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 14. HD 2006/894 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853669400)
+
 Davacılar 26.10.2004 tarihli dava dilekçesi ile davalılar ile müşterek malik oldukları 115 ada 5 parsel sayılı taşınmaza davalıların muvafakatı ile iyi niyetle bina yaptıklarını ileri sürerek Medeni Kanunun 724 maddesi uyarınca temliken tescil, mümkün olmadığı taktirde binanın kendileri tarafından yapıldığının tespiti ile bu hususun tapu kaydına şerh verilmesini istemişler; davalılar ise 27.12.2004 tarihli karşı dava dilekçesi ile elatmanın önlenmesi ve ecrimisil istemişlerdir.
 
 Mahkemece temliken tescil isteminin reddine, taşınmaz üzerindeki binanın davacılar tarafından yapıldığının tespiti ile bu hususun tapu kaydına şerh edilmesine, karşı davanın on günlük yasal sürede açılmadığı gerekçesi ile reddine karar verilmiş; hüküm taraf vekilleri tarafından temyiz edilmiştir.
@@ -110,6 +124,8 @@ SONUÇ: Yukarıda (1) bentte yazılı nedenlerle davacı-karşı davalıların t
 
 ## Yargıtay 18. HD 2005/639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16439900)
+
 Davacılar vekili dava dilekçesinde; anataşınmazda çekme kat niteliğindeki 19 No.lu bağımsız bölümün malikleri olan davalıların su ve ısı yalıtımını sağlamak amacıyla terasın belli bir bölümüne el atıp burayı bağımsız bölümlerinin içerisine kattıklarını ileri sürerek, davalıların sözü edilen ortak yere el atmalarının önlenmesi ile onaylı mimari projeye aykırı olarak bağımsız bölümlerinin içerisine aldıkları terasın projeye uygun hale getirilmesine karar verilmesini istemiştir.
 
 Davalılar vekili davaya yanıt dilekçesinde, müvekkillerinin ortak terasa haksız el atmalarının söz konusu olmadığını, terastaki değişikliğin kat malikleri kurulunca alınan 17.11.1996 gün ve 1996/3 sayılı karara dayandığını, bu cümleden olarak anılan kararda ısı ve su yalıtımı için zemin kattan başlayarak çatıya kadar uzanan bacaların bina (davalıların 19 No.lu bağımsız bölümü) içerisine alınmasına izin verildiğini, terasta el atılan kısmın salt bacaların bina içerisine alındığı alanla sınırlı kaldığını, ayrıca kat malikleri kurulu kararına olumlu oy kullanan davacılardan Mehmet, Turan, Fatma ve İsmail'in bu davayı açmakta iyiniyetli bulunmadıklarını, öte yandan yönetim planının 31. maddesinde ileride İmar Yasasında yapılacak değişiklikle çatı katın tam kata dönüştürülmesine izin verildiğinde diğer bağımsız bölüm maliklerinin buna şimdiden muvafakat edeceklerinin öngörüldüğünü savunmuş; yargılama sırasında da yukarıdaki sözlerini yinelemekle birlikte, bilirkişi raporunda projeye aykırı yapıldığı belirtilen üç adet bacanın müvekkillerince değil, daha önceden anayapının inşası sırasında yapılmış olduğunu öne sürerek davanın reddine karar verilmesi isteminde bulunmuştur.
@@ -124,6 +140,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2002/9319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16295800)
+
 Mahkemece, dava konusu eklentinin Kat Mülkiyeti Yasasının 4. maddesinin (c) bendi uyarınca genel dam terası niteliğinde olması nedeniyle ortak yer olduğu ve .buranın tapuda 6 nolu davalıya ait bağımsız bölümün eklentisi bulunduğuna dair kaydın bir hüküm ifade etmeyeceği gerekçesiyle ortak yer olan terasta yapılan tüm tesis ve ilavelerin yıkılıp eski hale getirilmesi yolunda hüküm kurulmuştur.
 
 Kat Mülkiyeti Kanununun 2. maddesi (a) bendi hükmünde tanımlandığı üzere bir bağımsız bölümün dışında, doğrudan doğruya o bölüme özgülenmek üzere -onaylı projesinde de eklenti olduğu belirtilmek kaydıyla- eklenti ihdası mümkün olup bu yerin teras niteliğinde olması eklenti olarak bağımsız bölümlerden herhangi birine özgülenmesine engel teşkil etmez.
@@ -133,6 +151,8 @@ Kat Mülkiyeti Kanununun 2. maddesi (a) bendi hükmünde tanımlandığı üzere
 Bu bakımdan davalının projesine göre açık teras niteliğinde bulunan ve eklenti olduğu işaret edilen yeri bu haliyle kullanması gerekirken anayapının dış görünümünü ve güzelliğini bozacak şekilde ve projeye aykırı olarak inşa ettiği tesis ve ilavelerin yıkılıp eski hale getirilmesine karar verilmiş olması sonucu itibariyle doğru bulunduğundan mahkeme kararının gerekçesi değiştirilmek suretiyle ve yukarıda yazılı gerekçelerle (ONANMASINA)
 
 ## Konya BAM 6. HD 2024/1455 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064949600)
 
 Davalı ... davaya cevap vermemiş, davalı vekili yargılama aşamasındaki beyanları ile özetle davanın reddine karar verilmesini talep etmiştir.
 
@@ -151,6 +171,8 @@ Mahkemece davacı adına davacının eşi tarafından imzalandığı ileri sür�
 
 ## Antalya BAM 11. HD 2022/1921 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851638900)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: Mahkemece, "... daire tahsisine dayalı olarak, davalı kooperatiften müdahalenin men-i ve haksız işgal tazminatı (ecri misil) talep ettiği ancak bu istemlerin davaya konu olan dairede bizzat oturan kişiye yöneltilmesi gerektiği, ancak bu kişiye yöneltildiği takdirde bu kişi yanında kooperatifin de yer alabileceği, bu istemlerin sadece kooperatife yöneltilmesinin mümkün olmadığı, Yargıtay içtihatlarında da bu istemlerin dinlenebilmesi için fuzuli şagil olduğu iddia edilen kişilerle birlikte kooperatife yöneltilmesi gerektiğinin belirtilmesi karşısında haksız işgalci olduğu iddia edilen kişinin taraf olmadığı davada müdahalesini meni ve ve ecrimisile karar verilemeyeceğinden bu taleplerinin reddine karar verilmiştir.
 
 …
@@ -166,6 +188,8 @@ Dava, Tapu iptal ve tescil, taşınmazın tahsisi, müdahalenin meni, ecrimisil,
 3-6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğince ANTALYA 3. ASLİYE TİCARET MAHKEMESİnin 08/09/2020 tarih ve ... Esas ... Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 45. HD 2022/795 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786131100)
 
 Davalı ... cevap dilekçesinde özetle; Küçükçekmece Mahkemelerinin yetkili olduğunu, dava konusu dubleks dairenin Kooperatif kayıtlarında görüldüğü üzere ...'a ait olup davacı ile bir ilgisi olmadığını, dairenin mal sahibi ....’ın bilgisi dahilinde 2005 yılından bu yana tarafından kullanılmakta olduğunu, Kooperatifin 01/08/2008 tarihli genel kurulunda dairelerin üyelere dağılımı yapılmış olup buna ilişkin karar örneğinin ilişikte sunulduğunu, davacı ...'a C 1 blok 1 no'lu daire isabet ettiğini, davacının dava konusu ettiği C 1 Blok 12 no'lu dubleks dairenin ise ...'a ait olduğunu ayrıca davacı tarafından ecrimisil talep edilebilmesi için gereken intifadan men koşulunun gerçekleşmediğini belirterek, öncelikle yetki yönünden, aksi halde haksız ve hukuki mesnetten yoksun açılan davanın esastan reddine karar verilmesini talep etmiştir.Davalı Kooperatif Yönetimi cevap dilekçesinde özetle;
 Kooperatifin adresi ve dava konusu taşınmazların Başakşehir’de olması itibarıyla davada Küçükçekmece Mahkemelerinin yetkili olduğunu, Kooperatifin 01/08/2008 tarihli genel kurulunda dairelerin üyelere dağılımı yapılmış olup, bu dağılım çerçevesinde davacı ...'a C 1 blok 1 no'lu dairenin isabet ettiğini, C 1 Blok (11-12) no'lu dairenin ... adına kayıtlı olduğunu ve halen (11) kapı numarası ile görülen ... adına olan dairenin oğlu ... tarafından kullanıldığını, C1 blok (12) no'lu dubleks dairenin ise üye dağılım listesinde (13-14) olarak görülmekte olup bu dubleks dairenin ... adına kayıtlı olduğunu, ..., Kooperatifimizin kayıtlı üyesi olup 2007 yılı Genel Kurul toplantımızın yapıldığı 24.06.2008 tarihinde, ...'ın katılmadığı toplantıda yer belirleme ve numaralandırma yetkisi Yönetim Kuruluna verilmesi yönünde karar alınmıştır.

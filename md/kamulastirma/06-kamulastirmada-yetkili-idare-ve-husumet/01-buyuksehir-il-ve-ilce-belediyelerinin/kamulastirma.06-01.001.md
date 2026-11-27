@@ -20,13 +20,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/370 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897573400)
+
 Yukarıda yapılan açıklamalar ışığında somut olay değerlendirildiğinde, 5216 sayılı Kanun'un büyükşehir ve ilçe belediyelerinin görev ve sorumluluklarına ilişkin 7 nci maddesi uyarınca mabedlerin yapım, bakım ve onarım görevi; hem büyükşehir belediyelerine hem de ilçe belediyelerine verilmiştir. Dolayısıyla Kanunun 7/n bendinde mabetlerin büyükşehir belediyelerinin sorumluluğunda olduğu açıkça belirtilmiş olduğu cihetle, eldeki davada büyükşehir belediye başkanlığının pasif husumet ehliyetinin bulunduğu sonucuna varılmıştır.
 
 ## Yargıtay HGK 2014/290 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84194100)
+
 Taşınmaz 1/1000 ölçekli İmar Planı kapsamında “Spor Alanı” olarak ayrıldığından, 5216 sayılı Büyükşehir Belediyesi Kanunu gereğince husumetin Büyükşehir Belediye Başkanlığına yöneltilmesi gerekir.
 
 ## Yargıtay HGK 2014/289 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84194700)
 
 Taşınmaz 1/1000 ölçekli İmar Planı kapsamında “Kreş Alanı” olarak ayrıldığı, herhangi bir kurumun tahsis talebinin de bulunmadığı gözetilerek; 5216 sayılı Büyükşehir Belediyesi Kanununun 7.maddesi ve İl Özel İdare Kanununun 6. maddesi gereğince; husumetin Büyükşehir Belediye Başkanlığına yöneltilmesi gerekir.
 
@@ -38,24 +44,36 @@ Bu durumda 1/1000 ölçekli Uygulama İmar Planında "Spor Alanı" olarak özgü
 
 ## Yargıtay 5. HD 2025/11857 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178750500)
+
 5216 sayılı Büyükşehir Belediyesi Kanunu'nun 7 nci maddesinin birinci fıkrasının (m) bendi gereğince büyükşehirlerin bütünlüğüne hizmet eden sosyal donatılar, bölge parkları vs. yapmak, yaptırmak, işletmek veya işlettirmek gibi hususların büyükşehir belediyelerinin görevleri arasında sayılması nedeniyle tespit edilen tazminatın davalı ... Başkanlığından tahsiline karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Yargıtay 5. HD 2025/8982 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171675300)
 
 5216 sayılı Büyükşehir Belediyesi Kanunu'nun 7 nci maddesinin birinci fıkrasının (d) bendi gereğince kültür tesislerinin yapım, bakım ve onarımının İlçe Belediyelerinin görevleri arasında sayılması nedeniyle tespit edilen tazminatın davalı idareden tahsiline karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Yargıtay 8. HD 2020/4109 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598320700)
+
 5216 sayılı Büyükşehir Belediyesi Kanunu'nun 7. maddesinde, büyükşehir belediyelerinin görev, yetki ve sorumlulukları belirlenmiş, 7/1-g maddesinde ise, büyükşehir belediyesinin yetki alanındaki mahalleleri ilçe merkezine bağlayan yollar, meydan, bulvar, cadde ve ana yolları yapmak, yaptırmak, bakım ve onarımından büyükşehir belediyeleri sorumlu olduğu belirtilmiştir.
 
 ## Yargıtay 5. HD 2014/28486 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96794800)
 
 6360 sayılı yasa uyarınca 30.03.2014 tarihi itibari ile Şanlıurfa Büyükşehir Belediyesi ile, ilçe Belediyeleri kurulup, faaliyete geçmiş olduğundan taşınmazlardan geçen yolun hangi Belediyenin sorumluluğunda olduğu belirlendikten sonra ilgili idarenin davaya katılımı sağlanıp, sonucuna göre karar verilmesi gerektiğinin düşünülmemesi,…
 
 ## Yargıtay 18. HD 2014/12806 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106856700)
+
 Ayrıca her ne kadar dava konusu taşınmaza ilköğretim okulu yapılmak suretiyle el atılmasından dolayı dava tarihi itibariyle sorumluluk 222 sayılı İlköğretim ve Eğitim Kanunu gereğince İ.. İ..ne ait olsa da On Üç İlde Büyükşehir Belediyesi Ve Yirmi Altı İlçe Kurulması İle Bazı Kanun Ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair 6360 sayılı Kanunun 1. maddesinin 2. ve 5. fıkraları gereğince davalı İ.. İ..nin tüzel kişiliği kaldırılmış olup, yine aynı Yasanın Geçici 1. maddesinin 1. fıkrası gereğince oluşturulacak Konya Valiliği Devir, Tasfiye ve Paylaştırma Komisyonundan dava konusu taşınmazı devir ve teslim alacak idarenin araştırılarak tespit edilmesi ve muhatap idarenin davaya dahil edilerek husumetin bu idareye yöneltilmesi gerekir.
 
 ## Yargıtay 5. HD 2013/8025 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/281930700)
 
 5216 sayılı Büyükşehir Belediyesi Kanununun, Büyükşehir ve İlçe Belediyelerinin Görev ve Sorumlulukları kenar başlığını taşıyan 7. maddesinin Büyükşehir Belediyesinin görev, yetki ve sorumluluklarına ilişkin kısmının (m) bendinde "Büyükşehirin bütünlüğüne hizmet eden sosyal donatılar yapmak," (n) bendinde ise "gerektiğinde mabetler ile sağlık, eğitim ve kültür hizmetleri için bina ve tesisler yapmak" görevinin Büyükşehir Belediyesine ait olduğu, aynı maddenin ilçe ve ilk kademe belediyelerinin görev ve yetkilerine ilişkin bölümünün (d) bendinde ise; "sağlık, eğitim, kültür tesis ve binalarının yapım, bakım ve onarımının" ilçe belediyelerinin görevi dahilinde olduğu belirtilmiştir. Bu durumda; yüzölçüm ve konum itibariyle bölgesel nitelik taşımayan sosyo kültürel tesis alanı ile ilgili olarak açılan davada Çankaya Belediye Başkanlığının sorumlu olduğu gözetilerek hakkında açılan davanın kabulüne, ... aleyhinde açılan davanın ise husumet nedeniyle reddine karar verilmesi gerekirken, yazılı şekilde hüküm kurulması,…

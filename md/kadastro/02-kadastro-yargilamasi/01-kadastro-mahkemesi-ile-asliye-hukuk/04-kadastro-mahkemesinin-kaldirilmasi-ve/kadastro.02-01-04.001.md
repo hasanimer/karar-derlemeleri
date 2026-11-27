@@ -21,4 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2006/665 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77083000)
+
 Öte yandan 3402 sayılı Kadastro Kanunun 33.maddesinde; “Kadastro işlemlerinin bir bölgede tamamlanması veya iş hacmi itibarıyla kadastro mahkemesinin devamına ihtiyaç kalmadığının anlaşılması nedeniyle kadastro mahkemesi kapatılarak dosyanın asliye hukuk mahkemesine devredilmesi durumunda bu mahkemede davaya 3402 sayılı Kadastro Kanununda yazılı usul ve esasa göre, kaldığı noktadan devam olunacağı” açıklanmıştır. Buradan da anlaşılacağı üzere; kadastro tespit işlemi gerek 4.maddeye, gerekse takip eden diğer maddelere göre yapılsın her halükarda uygulanacak olan kanun 3402 sayılı Kadastro Kanunun olmaktadır. 3402 sayılı Kanunda tespit edilen taşınmazın niteliğine göre farklı hak düşürücü sürelerin uygulanmasını öngören açık bir hüküm yada bu konuda 6831 sayılı Orman Kanuna bir atıf mevcut değildir.

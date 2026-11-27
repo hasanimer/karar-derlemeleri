@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2021/2645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651824400)
+
 Davacı/karşı davalı vekili, vekil edeninin 52 ada 7 parsel sayılı taşınmaz üzerinde bulunan binadaki 9 numaralı dairenin maliki olduğunu, vekil edeni ile dava dışı ... arasında yapılan 01.02.2000 tarihli gayrimenkul satış vaadi sözleşmesinden doğan ihtilaflar nedeni ile davalı ...’in dava konusu dairede diğer davalı Nurten ile yaşamaya başladığını, haksız işgalin 10 yıldır devam ettiğini belirterek, davalıların dava konusu yere yaptığı müdahalenin men’i ile şimdilik 40.000,00 TL ecrimisil bedelinin davalılardan tahsiline karar verilmesini istemiş, 04.06.2018 havale tarihli dilekçesi ile bilirkişi raporu uyarınca, 60.912,00 TL üzerinden bedel artırımında bulunmuş, karşı davanın ise reddini savunmuştur.
 
 Davalılar/karşı davacılar vekili, dava konusu taşınmaz hakkında, arsa sahibi dava dışı... ile davacı müteahhit ... arasında, Bakırköy 10.
@@ -43,6 +45,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar/karşı davacılar vekilinin
 
 ## Yargıtay 1. HD 2020/5181 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648836700)
+
 Vekil vekalet görevini kötüye kullansa dahi bu husus vekil ile vekalet eden arasında bir iç sorun olarak kalır, vekil ile sözleşme yapan kişinin kazandığı haklara etkili olamaz.Ne var ki, üçüncü kişi vekil ile çıkar ve işbirliği içerisinde ise veya kötü niyetli olup vekilin vekalet görevini kötüye kullandığını biliyor veya bilmesi gerekiyorsa vekil edenin sözleşme ile bağlı sayılmaması, TMK'nin 2. maddesinde yazılı dürüstlük kuralının doğal bir sonucu olarak kabul edilmelidir. Söz konusu yasa maddesi buyurucu nitelik taşıdığından hakim tarafından kendiliğinden (resen) göz önünde tutulması zorunludur. Aksine düşünce kötü niyeti teşvik etmek en azından ona göz yummak olur. Oysa bütün çağdaş hukuk sistemlerinde kötü niyet korunmamış daima mahkum edilmiştir.
 Nitekim uygulama ve bilimsel görüşler bu yönde gelişmiş ve kararlılık kazanmıştır.Somut olaya gelince; davaya konu taşınmazın muris ... adına tahsis belgesi düzenlendikten sonra murisin 1980 yılında öldüğü, 26.06.1983 tarihinde 2981 sayılı yasa gereğince ... adına belediyeye müracaatta bulunulduğu, bundan sonra ... mirasçıları adına tapu kaydının oluştuğu, 1992 yılında davacılar tarafından kardeşleri olan ...’e vekaletlerin verildiği, bu vekaletlerin genel vekalet olduğu, özellikle İstanbuldaki taşınmazları konu edindiği, vekil tarafından müdahalenin meni davası açılması veya bu amaçla vekil tutulması hususunda bir yetkinin bulunmadığı, bu vekalete istinaden taşınmazın vekilin eşi olan davalı ... adına tescil edildiği, bundan sonra 1993 yılında yüklenici ile Gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi düzenlendiği kayden sabittir.Dinlenen davacı tanıkları, davacıların eşi ve çocuğudur. Hatta davacı ...’in eşi olan Şahizer beyanında, vekalet verdikten iki ay sonra taşınmaz üzerine inşaat yapılmaya başlandığından haberdar olduklarını belirtmiştir.
 
@@ -50,6 +54,8 @@ Dinlenen davalı tanıkları taşınmazın davalı ...ün eşi ... ve kardeşler
 Baskı Sayfa 1250)" bu çerçevede vekalet kullanılarak taşınmazın ...adına tescil edildiği, bu nedenle vekalet görevinin kötüye kullanılmasından da bahsedilemeyeceği kanaat ve sonucuna varılmakla kararın bu gerekçelerle bozulması gerektiği düşüncesiyle sayın çoğunluğun onama görüşüne katılmıyoruz.
 
 ## Yargıtay 14. HD 2020/2952 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579108000)
 
 Davalı arsa sahibi S.S. ... Konut Yapı Kooperatifi, taşınmazların halen tapuda arsa cinsi ile tapuda kayıtlı olduğu yüklenicinin edimini yerine getirmediğini beyanla görev ve esas yönünden davanın reddini savunmuştur.
 
@@ -66,6 +72,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenle davacı ve birleştir
 
 ## Yargıtay 15. HD 2020/2691 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647977400)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmakta olup, el atmanın önlenmesi, tapu kaydındaki kat karşılığı inşaat sözleşmesinin şerhinin terkini, ecrimisil ve maddi tazminat alacaklarının tahisili istemlerine ilişkindir.
 
 İlk derece mahkemesince davanın kısmen kabulü ile davalının fesih edilen sözleşme konusu taşınmazlara el atmasının önlenmesine, konusuz kaldığından feshin terkini talebi ile ilgili karar verilmesine yer olmadığına, maddi tazminat talebinin kısmen kabulüne, ecrimisil isteminin reddine dair verilen karara karşı taraf vekillerinin istinafa başvurması üzerine, İzmir Bölge Adliye Mahkemesi 1.
@@ -80,6 +88,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle tarafların temyiz itirazlarının kabu
 
 ## Yargıtay 8. HD 2020/1869 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592459000)
+
 Davalı, dava dışı yüklenici ile 14.11.1997 tarihinde Noterde satış vaadi sözleşmesi tanzim ettiklerini, bu sözleşme uyarınca yüklenicinin kat karşılığı inşaat sözleşmesi uyarınca kendisine düşen bağımsız bölümlerden ikinci bodrum katta girişe göre sağ tarafta bulunan 90 m2 lik daireyi kaba inşaat olarak satmayı,binanın bitimi ile adına tapu kaydı oluştuğunda da kendisine devretmeyi vaad ettiğini, satım bedelini peşin olarak yükleniciye verdiğini, dava konusu daireyi aynı gün kaba inşaat olarak teslim aldığını, oturulabilir duruma getirmek için masraf yaptığını, davacının yüklenici tarafından kendisine teslim edilen aynı binada ikinci katta yer alan dairede oturduğunu, diğer iki daireyi de üçüncü kişilere satıp hisse devri yaptığını, bu durumun arsa tapusuna dayalı mülkiyet hakkının kötüye kullanılması olduğunu açıklayarak asıl ve birleşen davanın reddine karar verilmesini savunmuştur.
 
 Mahkemece, davalının kullanmakta olduğu daireyi yükleniciden Noterde düzenlenen gayrimenkul satış vaadi sözleşmesiyle satın aldığını savunmuş ise de, yüklenici ile davacı arasında yapılan kat karşılığı inşaat sözleşmesinin geriye yönelik olarak feshine karar verildiği, bu durumda davalının satın alma savunmasına değer verilemeyeceği, dava konusu taşınmazdaki binanın onaylı mimari projesinin bulunmadığı, yapı ruhsatının olmadığı, kaçak yapı niteliğinde olduğu ve hukuken korunacak nitelikte olmadığı gerekçesi ile 3236 ada 8 parsel sayılı taşınmaz üzerinde yer alan binanın ikinci bodrum katındaki bağımsız bölüme davalının el atmasının önlenmesine ve bağımsız bölümün yıkımına, ecrimisil isteği yönünden ise davalının taşınmazı noter satış vaadi sözleşmesine dayalı olarak kullanması nedeniyle iyi niyetli olarak kabul edilmesinin gerektiği, davadan önce davacı tarafından davalıya herhangi bir ihtarname çekilmediği, davalı tarafından taşınmazın uzun süredir kullandığı gerekçesi ile haksız işgal tazminatı isteği yönünden davanın reddine karar verilmesi üzerine; hüküm, davacı vekili ve davalı vekili tarafından temyiz edilmiştir.
@@ -91,6 +101,8 @@ Hal böyle olunca Mahkemece, davacının davalı ile birlikte yüklenici tarafı
 SONUÇ: Yukarıda, (1) nolu bentte açıklanan nedenlerle davacı vekilinin tüm, davalı vekilinin asıl davaya yönelik temyiz itirazlarının REDDİNE, (2) nolu bentte açıklanan nedenlerle davalı vekilinin birleşen davaya yönelik temyiz itirazlarının kabulü ile, usul ve yasaya uygun bulunmayan hükmün 6100 sayılı HMK'nin Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 14. HD 2019/7742 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554281700)
 
 Dava, elatmanın önlenmesi istemine ilişkindir.
 
@@ -108,6 +120,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekili ve dahili davalı ... ve
 
 ## Yargıtay 8. HD 2019/2922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645698900)
+
 Mahkemece, asıl dosyada, müdahalenin meni davasının kabulü ile davalıların davaya konu 3353 ada 3 parsel sayılı taşınmaz üzerindeki 90/3150 arsa paylı C Blok Zemin kat 23 nolu bağımsız bölümün, bilirkişiler ... 01/03/2017 tarihli raporlarında belirtilen Kuzeydoğu köşesinde kalan 78.14 m2'lik kısmına müdahalelerinin menine, asıl dosya yönünden davalı ... aleyhine açılan ecrimisil davasının kabulü ile 10.000,00 TL ecrimisilin asıl dava tarihi olan 28/03/2011 tarihinden itibaren işleyecek yasal faizi ile birlikte davalı ...
 
 …
@@ -122,6 +136,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalılar vekilinin temyiz itirazlar�
 
 ## Yargıtay 20. HD 2019/320 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481628200)
+
 Dava tazminat ve taşınmazlara vaki müdahalenin men'i ile tapu kaydındaki şerhin terkini konusunda ihtiyati tedbir verilmesi istemine ilişkindir.
 
 …
@@ -131,6 +147,8 @@ Hal böyle iken, kesin yetki söz konusu olmayıp, taraflar arasında yapılan y
 
 ## Yargıtay 15. HD 2019/192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478480900)
+
 Mahkemenin ilk kararı ve bozma ilamında da vurgulandığı üzere yüklenici tarafından arsa sahiplerine ait taşınmaz üzerine yapılan yapılar imar mevzuatına aykırı olarak inşa edildikleri ve kaçak yapı niteliğindedir. Bu nedenle yıkılmaları gerekmekte olup ekonomik değerleri bulunmamaktadır. Nitekim bu sebeplerle yüklenicinin yapıların imalât bedelini talep ettiği karşı dava reddedilmiştir. Bu durumda el atmanın önlenmesi davasında dava değeri olarak sadece arsanın çıplak değerinin dikkate alınması, ekonomik değeri bulunmayan kaçak yapıların imalât bedellerinin değerlendirmeye alınmaması gerekirken hatalı değerlendirme sonucu bilirkişinin belirlediği kaçak yapı bedellerinin de dava değerine dahil edilmesi, buna göre davalının harç, vekâlet ücreti ve yargılama gideri ödemeye mahkum edilmesi doğru olmayıp kararın bu sebeple bozulması gerekmektedir. Ancak yapılan bu yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden 6100 sayılı HMK'nın geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nın 438/VII. maddesi uyarınca düzeltilerek onanması uygun bulunmuştur.
 
 …
@@ -138,6 +156,8 @@ Mahkemenin ilk kararı ve bozma ilamında da vurgulandığı üzere yüklenici t
 davalı arsa sahiplerine iadesine” cümlesinin yazılmasına; “H” bendinin karardan çıkarılarak yerine “H) Toplam dava değerinin (56.800,00 TL + 43.132,00 TL) 99.932,00 TL olduğu gözetilerek bozma öncesinde yapılan 2.296,00 TL ve bozma sonrasında yapılan 103,00 TL yargılama giderinin toplamı olan 2.399,00 TL yargılama giderinin davanın kabul ve red oranına oranına göre hesaplanan 1.363,56 TL’lik kısmının davalı-karşı davacı ...'den alınarak davacı-karşı davalı arsa sahiplerine verilmesine, kalan yargılama giderlerinin davacı-karşı davalılar üzerinde bırakılmasına,” cümlesinin yazılmasına; “J” bendindeki “20.302,00 TL” ifadesinin karardan çıkarılarak “6.598,00 TL” ifadesinin yazılmasına; kararın değiştirilmiş bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 15. HD 2018/4298 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461484100)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmış olup, elatmanın önlenmesi, fesihte haklı olunduğunun tesbiti, tapuya konulmuş olan kat karşılığı inşaat sözleşmesinin terkini ile fesih nedeniyle davacının maruz kaldığı zararların tesbit edilerek davalıdan tahsili istemine ilişkindir.
 
@@ -151,6 +171,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacıların temyiz itirazlarırnın k
 
 ## Yargıtay 15. HD 2018/2204 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/425651500)
+
 Yargıtay 23. Hukuk Dairesi'nin bozma ilâmında belirtildiği ve Dairemizce de benimsendiği gibi henüz imar izni verilmeyen taşınmazla ilgili yapılan arsa payı karşılığı inşaat yapım sözleşmesi imkânsızlık nedeniyle baştan beri geçersiz olacağı, imar izni mevcut olsa dahi Türk Medeni Kanunu'nun 692. maddesi hükmünce arsa payı karşılığı inşaat yapımı işi fevkalade önemli işlerden olup pay ve paydaşların tamamı tarafından imzalanmış ya da sözleşmeye katılmış olmadıkça geçersiz olacağından, bu sözleşmeye dayalı olarak taşınmazı kullanan kişilerin taşınmazı elde tutmalarının hukuki dayanağı kalmayacağı ve haksız işgalci konumuna düşeceğinden arsa sahibi ecrimisil ve gecikme tazminatı talep edemez ise de el atmanın önlemesini talep edebilir.
 
 …
@@ -159,11 +181,15 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının diğer karar düz
 
 ## Yargıtay 15. HD 2017/3872 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/376283900)
+
 Bu durumda mahkemece yapılacak iş, resen gözetilmesi gereken şartnamenin 7. maddesinin 8. fıkrası uyarınca tüm sorumluluk yüklenici şirkete ait olduğundan iş sahibi olan davacı DSİ tarafından yüklenicinin kusuru nedeniyle, mahkeme kararıyla kamulaştırmasız el atma nedeniyle zorunlu olarak tescil kararı verilip, bedel ödenildiğinden, birlikte ifa kuralı gereğince davacı tarafın ödemiş olduğu bedelin davalıdan tahsili ile DSİ adına olan 782 parsele ait tapu kaydının iptâli ve yüklenici şirket adına tesciline karar verilmesinden ibarettir.
 
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/16416 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727364800)
 
 Davacı, kayden maliki olduğu 53 ada 29 parsel sayılı taşınmazdaki binanın 10 adet dairesini davalıların haksız kullandıklarını ileri sürerek elatmanın önlenmesine, çekişmenin giderilmesine ve 10.000,00 YTL ecrimisilin faizi ile tahsiline karar verilmesin istemiştir.
 
@@ -177,6 +203,8 @@ Arsa maliki olan davacı ile davalılar arasında herhangi bir hukuki ilişki ve
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davacı, davalılar ve dahili davalıların temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 23. HD 2014/7607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119179800)
 
 Davacı vekili, müvekkili ile davalılar arasında arsa payı karşılığı inşaat yapım sözleşmesi düzenlendiğini, müvekkilinin sözleşme gereğince eseri tamamladığını, iskân iznini aldığını, ancak davalıların müvekkiline verilmesi gereken daireyi vermediklerini ileri sürerek, 9 nolu dükkan vasfındaki taşınmazın tapu kaydının iptali ile müvekkili adına tescilini talep ve dava etmiştir.
 

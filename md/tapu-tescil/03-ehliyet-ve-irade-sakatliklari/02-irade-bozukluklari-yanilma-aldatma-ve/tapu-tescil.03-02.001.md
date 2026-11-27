@@ -24,12 +24,18 @@ Bilindiği üzere; hile (aldatma), genel olarak bir kimseyi irade beyanında bul
 
 ## Yargıtay 7. HD 2025/337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131828800)
+
 Aldatma genel olarak bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı koruma yahut devamını sağlamak şeklinde tanımlanır. Hatada yanılma, aldatmada ise yanıltma söz konusudur. 6098 sayılı Kanunun 36. maddesinin birinci fıkrasında açıklandığı üzere taraflardan biri diğer tarafın kasıtlı aldatmasıyla sözleşme yapmaya yöneltilmişse yanılma (hata) esaslı olmasa bile aldatılan taraf için sözleşme bağlayıcı sayılamaz. Değinilen koşulların varlığı hâlinde aldatılan taraf hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir.
 
 ## Yargıtay 14. HD 2006/9417 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16231800)
+
 Davacılar, anlatılan biçimi ile "Hata" hukuki nedenine dayandıklarından, öncelikle esaslı hata kavramı, niteliği ve sonuçları üzerinde durulması gereklidir. Borçlar Hukuku'nun esaslı hatanın ne olduğunu bildiren genel nitelikte iki hükmü mevcuttur. Bu hükümlerden birincisi Borçlar Kanunu'nun 23. maddesinde sözleşmenin yapıldığı an gözönüne alınarak düzenlenmiş; ikincisi de Borçlar Kanunu'nun 25/1. maddesinde iptal beyanının yapıldığı an gözönüne alınarak düzenlenmiştir. Akdin yapıldığı an gözönüne alınarak esaslı hatadan söz edebilmek için, objektif ve sübjektif bakımdan hata esaslı olmalıdır. Objektif unsur, iş hayatındaki dürüstlük kuralları, Borçlar Yasası'nın 24/4. maddesindeki deyimi ile "ticari doğruluk" ilkesi uyarınca, söz konusu belli bir durum sözleşmenin iptalini haklı gösterecek bir önemde olmalıdır. Sübjektif unsur ise, yanılan hata ettiğini bilmiş olsaydı sözleşmeyi yapmayacak olması, başka bir deyişle sözleşmenin yapılması ile hata arasında bir nedensellik bağı bulunmasıdır.
 
 ## Ankara BAM 21. HD 2026/361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204619600)
 
 "Korkutma" TBK'nın 37 ve 38. maddelerinde düzenlenmiş olup irade bozukluklarından olan korkutmanın koşulları ise TBK 38. maddesinde "Korkutulan, içinde bulunduğu durum bakımından kendisinin veya yakınlarından birinin kişilik haklarına ya da malvarlığına yönelik ağır ve yakın bir zarar tehlikesinin doğduğuna inanmakta haklı ise, korkutma gerçekleşmiş sayılır. Bir hakkın veya kanundan doğan bir yetkinin kullanılacağı korkutmasıyla sözleşme yapıldığında, bu hakkı veya yetkiyi kullanacağını açıklayanın, diğer tarafın zor durumda kalmasından aşırı bir menfaat sağlamış olması hâlinde, korkutmanın varlığı kabul edilir." şeklinde düzenlenmiştir.

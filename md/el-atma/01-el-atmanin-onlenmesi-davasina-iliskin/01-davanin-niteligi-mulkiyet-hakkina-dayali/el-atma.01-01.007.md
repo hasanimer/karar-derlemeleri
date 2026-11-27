@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2009/6229 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77854100)
+
 Davacı, kayden paydaş olduğu 947 parsel sayılı taşınmazı davalıların haklı ve geçerli bir nedene dayanmaksızın tasarruf ettiklerini ileri sürerek elatmanın önlenmesi, yıkım ve ecrimisil isteğinde bulunmuştur.
 
 Davalı E.davanın reddini savunmuştur.
@@ -42,6 +44,8 @@ Davacının temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nede
 
 ## Yargıtay 1. HD 2009/4527 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78439100)
+
 Davacı, kayden malik olduğu 2469 parsel sayılı taşınmazı Hazineden satın aldığını, grafik paftanın ülke koordinat sistemine dönüştürülmesi sırasında taşınmazın çapı ile zeminde farklılıklar olduğunu, mülkiyete dayalı haklarını kullanamadığını, zararlandırıldığını ileri sürerek, elatmanın önlenmesi ve tazminat isteğinde bulunmuştur.
 
 Davalılar, ayrı ayrı davanın reddini savunmuşlardır.
@@ -59,6 +63,8 @@ Hal böyle olunca, keşfen saptanan olgular ve Türk Medeni Kanununun 683.maddes
 Davacı ve davalı Hazinenin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/4394 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78432800)
 
 Davacı, davalılardan M. ile kayden paydaş oldukları 65 ada 60 parsel 3. kat 7 bağımsız bölüm numaralı meskenin, davalılar tarafından işgal edildiğini ve kullanımının engellendiğini ileri sürerek, elatmanın önlenmesi ve ecrimisil isteğinde bulunmuştur.
 
@@ -78,6 +84,8 @@ Tarafların bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hük
 
 ## Yargıtay 14. HD 2009/3052 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845154900)
+
 Dava, 258 ve 259 parseller üzerinde idari men kararı alarak oluşan elatmanın önlenmesi istemlerine ilişkindir.
 
 Davalılar, davanın reddini savunmuştur.
@@ -91,6 +99,8 @@ Türk Medeni Kanununun 683.maddesi hükmünce malik hukuk düzeninin sınırlar�
 SONUÇ: Yukarıda (1). bentte açılanan nedenlerle davacının davalı ...’e yönelik temyiz itirazlarının REDDİNE, hükmün (2). bent uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/2420 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78406900)
 
 Davacı, maliki olduğu 131 parseline davalının müdahale ettiğini ileri sürerek elatmanın önlenmesini ve taşkın binanın yıkımını istemiştir.
 
@@ -112,6 +122,8 @@ Hal böyle olunca, taşkın kısmın yıkımının ana yapıyı etkileyip etkile
 
 ## Yargıtay 14. HD 2009/1121 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841792400)
+
 Mahkemece, asıl davanın reddine, karşı davanın kabulü ile bilirkişinin 15.11.2007 tarihli krokisinde A ve B harfleriyle gösterilen yerler ile pilon yeri olarak işaretlenen yer için davacının 77 ve 89 parselleri üzerinden enerji nakil hattı irtifakı tesisine karar verilmiştir.
 
 …
@@ -123,6 +135,8 @@ Burada öncelikle üzerinde durulması gereken husus, mülkiyet hakkı sahibinin
 SONUÇ: Yukarıda yazılı nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/1117 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841791300)
 
 Dava, mülkiyet hakkına dayalı elatmanın önlenmesi ve kal isteğine ilişkindir.
 
@@ -140,9 +154,13 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 14. HD 2008/10839 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848767800)
+
 Bir davada olayları anlatmak tarafların, hukuki nitelemeyi yapmak ise mahkemenin görevidir (HUMK. 76.m.). İddia ve savunmaya göre, taraflar arasında 6570 sayılı Kanundan kaynaklanan kira ilişkisi bulunmamaktadır. Hal böyle olunca da, dava Türk Medeni Kanunu’nun 683. maddesinden kaynaklanan mülkiyet hakkına dayalı elatmanın önlenmesi niteliğindedir. Bu durumda, dava yukarıda anılan HUMK. 440/III-2 maddede sayılan istisnalar kapsamında değildir. Karar düzeltme istemi incelenemez.
 
 ## Yargıtay 14. HD 2008/10526 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847602100)
 
 Davalı, davanın reddini savunmuştur.
 
@@ -155,6 +173,8 @@ Görülüyor ki, davadaki ilk istemin dayanağı Türk Medeni Kanununun 683.madd
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2008/9234 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849095100)
 
 Davalı, davanın reddini savunmuştur.
 
@@ -169,6 +189,8 @@ Mahkemece, bilirkişilerin 20.03.2007 tarihli krokisinde A, B ve C harfleriyle g
 SONUÇ: Yukarıda açıklanan nedenle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2008/7909 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78351300)
 
 Davacılar, kayden paydaşı oldukları, 211 ve 212 parsel sayılı taşınmazlarına davalının yaklaşık 10 yıldır kullanmak suretiyle müdahale ettiğini ileri sürüp, elatmanın önlenmesi ve ecrimisil isteğinde bulunmuşlardır.
 
@@ -186,6 +208,8 @@ Hal böyle olunca, davacıların Türk Medeni Kanununun 683.maddesinden kaynakla
 
 ## Yargıtay 14. HD 2008/7845 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847853800)
+
 Mahkemece, asıl davanın reddine, karşı davanın kısmen kabulü ile 92 parsel sayılı taşınmazdan 482/4680 payın karşı davacı adına tesciline karar verilmiştir.
 
 …
@@ -197,6 +221,8 @@ Türk Medeni Kanununun 683.maddesi hükmünce; bir şeye malik olan kimse o şey
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 1. HD 2008/7528 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78286500)
 
 Davacı, paydaşı bulunduğu 240 parsel sayılı taşınmazdaki değirmeni davalı C.'ün haksız olarak diğer davalıya kiraya vermek suretiyle müdahale ettiğini ileri sürerek, elatmanın önlenmesi ve ecrimisil isteğinde bulunmuştur.
 
@@ -218,6 +244,8 @@ Davalının temyiz itirazları yerindedir.Kabulü ile hükmün açıklanan neden
 
 ## Yargıtay 14. HD 2008/5679 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845428000)
+
 Davacı, murisi babası adına tapuda kayıtlı taşınmazı kullanmasına davalının engel olduğunu, hakkında 3091 sayılı Yasa gereğince, davalının taşınmazına giden patika yolu ve tarlasını kazmak suretiyle vaki tecavüzün önlenmesine karar verildiğini, davalının tecavüzünün men'ini ve verilen men kararının reddini istemiştir.
 
 Mahkemece, 3091 sayılı Yasa uyarınca verilen men kararının infazından iki gün sonra açılan davanın Kaymakamlıkça verilen kararın iptaline yönelik olduğu davanın idari yargının görevi kapsamında bulunduğu gerekçesiyle görev yönünden davanın reddine karar verilmiştir.
@@ -229,6 +257,8 @@ Türk Medeni Kanunu'nun 683. maddesi uyarınca bir şeye malik olan kimse, hukuk
 SONUÇ : Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2008/4695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850075400)
 
 Davalı, taşkınlığın imar uygulamasından kaynaklandığını açılan davanın reddini, taşkın yapı kısmının Türk Medeni Kanununun 725. maddesi gereğince adına temliken tescilini istemiştir.
 
@@ -243,6 +273,8 @@ Türk Medeni Kanununun 683. maddesi uyarınca malik malını haksız olarak elin
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz itirazlarının reddine, hükmün 2. bent gereğince davalı 3. bent uyarınca da davacı yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2008/4596 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77945800)
 
 Davacılar, kayden maliki oldukları çekişme konusu taşınmazla ilgili olarak kesinleşmiş mahkeme ilamı ile projeye aykırılığın giderilmesine ve ecrimisile karar verildiğini ancak, tahliyeye ilişkin hüküm kurulmadığını ileri sürerek davalıların taşınmaza elatmasının önlenmesi isteğinde bulunmuşlardır.
 
@@ -265,6 +297,8 @@ Hal böyle olunca, yukarıda açıklanan ilkeler çerçevesinde işlem yapılmas
 
 ## Yargıtay 14. HD 2008/3821 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848649000)
+
 Mahkemece, mülkiyet hakkına dayalı dava kısmen kabul edilerek davacının çap kaydı kapsamında kalan krokide A harfi ile gösterilen 42 m2 taşınmaz lehine davalıların elatmasının önlenmesine, fazla istemin reddine, krokide yeşil ile boyanarak B harfi ile gösterilen yere ilişkin karşı davanın kabulü ile bu bölümün ifrazen 1473 parsele ilave edilerek davalılar adına tesciline karar verilmiştir.
 
 …
@@ -276,6 +310,8 @@ Türk Medeni Kanununun 683.maddesi hükmünce; bir şeye malik olan kimse, o şe
 Yapılan keşif sonucu, krokide ... ile işaretlenen yerin davacının çap kaydı kapsamında kaldığı saptandığına, çapa bağlı bu bölüm üzerinde davalı birleşen davanın davacılarının iyi niyetlerinden söz edilemeyeceğine, yeşil ile taralı balkon çıkması olduğu anlaşılan yerdeki balkonların yıkılması halinde fahiş zarar meydana geleceğine, bu hali ile “durum ve koşullar” haklı kıldığından bu bölüme ilişkin birleşen davanın kabulünde bir yanılgı bulunmadığına göre, tarafların bütün temyiz itirazlarının reddi ile usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 14. HD 2008/1509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847265500)
 
 Davacı, 401 parsel sayılı taşınmazın maliki olduğunu, davalılar adına tapuda kayıtlı 402 parsel üzerine taşkın olarak mesken inşa ettiğini, aynı parsele depo yaptığını iyiniyetli olduğunu, 402 parsel üzerindeki aşılı delice, zeytin mandalina, ceviz ve incir ağacı diktiğini, bu şekilde bağ ve bahçe meydana getirdiğini, 402 parseldeki taşkın mesken ve depo birimlerinin Türk Medeni Kanununun 725, ve 724. maddeleri uyarınca, temliken tesciline, olmadığı takdirde malzeme bedelinin tahsiline yine 402 parsele yayılan ağaçlardan ötürü de tazminat ödetilmesine karar verilmesini istemiştir.
 
@@ -295,6 +331,8 @@ SONUÇ : Yukarıda 1. bentteki açıklamalara göre davacı ... karşı davalın
 
 ## Yargıtay 14. HD 2008/1056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847157100)
+
 Dava, mülkiyet hakkına dayalı elatmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 
 Davalı, önceki malik ile kardeşi olan Olgun arasında kira ilişkisi bulunduğunu, kardeşinin birlikte işlettikleri işyerini terk ettiğini, işletme faaliyetinin kendisi tarafından sürdürüldüğünü açılan davanın reddini savunmuştur.
@@ -308,6 +346,8 @@ Türk Medeni Kanununun 683.maddesi hükmünce, eşyaya malik olan kimse o şey �
 SONUÇ: Yukarıda açıklanan nedenlerle davacının temyiz itizarlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2008/323 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844684500)
 
 Davacı, 469 ada 3 parsel sayılı taşınmazındaki bitkilerine ve binasına, davalılara ait 469 ada 4 parsel sayılı taşınmazda ortak sınıra çok yakın dikilen 13 adet ağacın gölgeleme yaparak ve kökleri ile zarar verdiklerini belirterek taşınmazına el atmanın önlenmesini ve ağaçların kal’ini talep etmiştir.
 
@@ -323,6 +363,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz edenin sıfatına göre davalıl
 
 ## Yargıtay 14. HD 2007/16351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855952300)
+
 Davacı 325 ada 1 parselde kayıtlı taşınmazın 11 m2 lik kısmının kıyı kenar çizgisine tecavüzlü olduğunu belirterek elatmanın önlenmesi ve üzerindeki yapının kal'ini istemiştir.
 
 Mahkemece davanın kabulüne karar verilmiş, hükmü davalılar temyize getirmiştir.
@@ -337,6 +379,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2007/15236 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853875600)
+
 Dava, çaplı taşınmaza elatmanın yıkım suretiyle önlenmesi istemine ilişkindir.
 
 …
@@ -349,11 +393,15 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2007/12643 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857863000)
+
 Mahkemece elatmanın önlenmesi isteminin kabulüne, kal ve birleştirilen davadaki taleplerin ise reddine karar verilmiştir.
 
 Hükmü taraflar temyiz etmiş, yerel mahkeme kararı Dairemizce; "Türk Medeni Kanununun 683.maddesi hükmünce eşyaya malik olan kimse malını haksız olarak elinde bulunduran kimseye karşı haksız elatmanın önlenmesini dava edebileceğinden, 374 parselin mülkiyet ... sahibi davacının, çap kapsamında kaldığı saptanan birleştirilen davanın konusu taşınmaz bölümüne yönelik davalının haksız elatmasının önlenmesine dair isteminin kabulüne karar verilmesinde yasaya aykırılık yoktur.
 
 ## Yargıtay 1. HD 2007/10942 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78086400)
 
 Davacı, kayden maliki bulunduğu 1425 parsel sayılı taşınmazdaki 5 nolu bağımsız bölüm eklentisi A/2 ile gösterilen kömürlüğe davalıların haksız olarak mesken olarak kullanmak suretiyle müdahalede bulunduklarını ileri sürüp, elatmanın önlenmesine karar verilmesini istemiştir.
 
@@ -371,6 +419,8 @@ Dava, elatmanın önlenmesi isteğine ilişkindir.
 
 ## Yargıtay 1. HD 2007/10836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78082800)
+
 Davacı, maliki olduğu 20 parsel sayılı taşınmazdaki binanın dükkan kısmının davalılarca işgal edildiğini ileri sürerek elatmanın önlenmesi ve ecrimisil istemiştir.
 
 Davalı K...taşınmazı kiraladığını belirterek davanın reddini savunmuş, davalı K...ise taşınmazı kardeşi K..'in kullandığını, kendisinin bir ilgisi bulunmadığını bildirmiştir.
@@ -386,6 +436,8 @@ Dava, çaplı taşınmaza el atmanın önlenmesi ve ecrimisil isteklerine ilişk
 Hal böyle olunca, davacının Türk Medeni Kanunun 683. maddesinden kaynaklanan mülkiyet hakkına değer verilerek el atmanın önlenmesine ve belirlenecek ecrimisile; bunun yanında, davalının taşınmazda zorunlu giderler yaptığının saptanması halinde de bu giderlere hükmedilmesi gerekirken, davanın reddedilmesi isabetsizdir. Davacının temyiz itirazı yerindedir. Kabulüyle, hükmün açıklanan nedenden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 14.11.2007 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2007/6899 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78365600)
 
 Davacılar, kayden paydaşı bulundukları .. ada ... parsel sayılı taşınmaza davalıların taşkın yapılaşmak suretiyle müdahale ettiklerini, sözlü uyarılarına hakaret ve sövme ile karşılık veren davalıların kişilik haklarına saldırdıklarını ileri sürüp elatmanın önlenmesine, yapıların yıkımına,6.400.000.000.TL ecrimisilin ve 4.000.000.000.TL manevi tazminatın tahsiline karar verilmesini istemişlerdir.
 
@@ -406,6 +458,8 @@ Gerçekten de, elatma olgusu haksız bir fiil (eylem) niteliğini taşımakta ol
 Hal böyle olunca, belirlenecek ecrimisile ve mutlak olarak (kaim bedel ödenmeksizin) elatmanın önlenmesi ve yıkım isteklerinin kabulüne karar verilmesi gerekirken, yanılgılı ve yasal olmayan gerekçelerle yazılı olduğu üzere hüküm tesisi isabetsizdir. Davacıların bu yöne ilişkin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerle HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2007/5819 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857332400)
 
 Türk Medeni Kanununun 683. maddesi hükmünce bir şeye malik olan kimse o eşya üzerinde kullanma, yararlanma ve tasarrufta bulunma yetkisine de sahiptir. Diğer taraftan, malik malını haksız olarak elinde bulunduran kullanma, yararlanma ve tasarrufta bulunma yetkisini kısıtlayan herkese karşı her türlü haksız elatmanın önlenmesini isteyebilir. Yasadaki «haksız elatma» tabirinden maksat eşyaya üzerinde eylemli veya sözlü olarak muaraza çıkarılmasıdır.
 

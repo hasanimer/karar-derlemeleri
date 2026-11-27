@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2016/3655 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232296400)
+
 Davacı vekili dava dilekçesinde, tazminat istemiştir. Mahkemece davanın kısmen kabulüne karar verilmiş, hüküm taraf vekillerince temyiz edilmiştir.
 
 …
@@ -33,9 +35,13 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2016/2339 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243702900)
+
 İcra ve İflas Kanununun 30. maddesinde, bir işin yapılmasına ilişkin mahkeme kararlarının ne şekilde yerine getirileceği açıkça belirtildiğinden, mahkemece davalı tarafça eski hale getirilmesi ve uygun bir süreye hükmedilmesi ile yetinilmesi gerekirken, hüküm fıkrasının 6 numaralı bendinde "Kat Mülkiyeti Kanununun 5711 sayılı Yasa ile değişik 33/3.maddesi uyarınca tespit edilen süre içerisinde kararın yerine getirilmemesi halinde 250,00 TL den 2.000.00 TL ya kadar idari para cezası ile cezalandırılacağının ihtarına" karar verilmesi doğru değil ise de, bu yanılgının giderilmesi yeniden yargılamayı gerektirmediğinden, mahkemenin gerekçeli kararının hüküm fıkrasının 6 numaralı bendinin tamamen metinden çıkarılarak yerine "kararın davalı tarafından yerine getirilmediği takdirde icra kanalı ile infazına" ibaresinin yazılmak suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438.
 
 ## Yargıtay 18. HD 2016/2306 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/244695300)
 
 Davacı vekili dava dilekçesinde, davalının ortak alanlara müdahale ile imar ve projeye aykırı imalatlar ile kapalı alanlar oluşturduğunu, kapalı veranda ve pergoleli balkon yaptığını, binasını zeminde ortak yerlere müdahaleli kullandığını ileri sürerek müdahalenin önlenmesini, projeye aykırılıkların giderilmesini istemiş, mahkemece davanın kabulü ile davalıya ait 12 nolu bağımsız bölümde bilirkişi raporunda belirtilen tabanda 11,14 m² ve üst katta 11.14 m² olmak üzere toplam 22,28 m² lik alan ile binanın önünde açık balkon alanıyla birleştirilen 21,70 m² lik alanın ve birinci katta üzerine beton kolon ve döşeme yapılarak oluşturulan 7,84 m² lik balkonun yıkılmak suretiyle projeye uygun eski hale getirilmesine karar verilmiştir.
 
@@ -53,9 +59,13 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/18139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/132881900)
+
 Kat mülkiyetinden kaynaklanan müdahalenin önlenmesi ve eski hale getirilmesi istemli davaların niteliği gereği maktu harca hükmedilmesi gerekirken nispi harca hükmedilmesi doğru değil ise de, bu eksikliğin giderilmesi yeniden yargılamayı gerektirmediğinden, gerekçeli kararın hüküm kısmının 5 numaralı bendinin hükümden çıkartılarak yerine “Harçlar yasası gereğince alınması gereken 25,20 TL karar ve ilam harcından peşin yatırılan 24,30 TL harcın indirilmesi ile geriye kalan 0,90 TL'nin davalı N.. Ç..' den alınarak hazineye gelir kaydedilmesine,” ibaresinin eklenmesi suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438.
 
 ## Yargıtay 18. HD 2015/17856 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/196288600)
 
 Davacı dava dilekçesinde, ortak kullanım alanına, bahçe ve merdiven boşluğuna davacının yaptırdığı duvar ve araba garajının kal'i ile müdahalenin önlenmesini talep etmiş; mahkemece, davanın kabulüne karar verilmiştir.
 
@@ -65,13 +75,19 @@ Davalıya mimari projeye aykırı müdahalenin önlenmesi ve aykırılıkları e
 
 ## Yargıtay 18. HD 2015/16116 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/190341300)
+
 Dava kabul edildiğine göre, hüküm fıkrasında eski hale getirtilmesine karar verilen projeye aykırılıkların neler olduğunun bilirkişi raporuna atıfla gösterilmesi gerekirken, infazda karışıklık ve duraksamaya neden olacak şekilde sadece davalı tarafından yapılan ortak alanlara el atmanın önlenmesi ile mimari projeye aykırı yapıların yıkılarak mimari projesine uygun eski hale getirilmesine karar verilmesi doğru değil ise de, bu yanılgının düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden, hüküm fıkrasının 1. numaralı bendinin sonuna gelmek üzere "24.04.2014 tarihli rapor ve 03.09.2014 tarihli ek bilirkişi raporunun kararın eki sayılmasına” ibaresinin eklenmesi suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438.
 
 ## Yargıtay 18. HD 2015/15364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/189477300)
+
 Mahkemece projeye aykırılıkların yerine getirilmesi için Kat Mülkiyeti Kanunu'nun 33. maddesi gereğince uygun bir süre verilmesi gerektiğinin düşünülmemesi doğru değil ise de, bu hususun düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden gerekçeli kararın 3. paragrafının sonuna "projeye aykırılıkların eski hale getirilmesi için davalı tarafa 30 gün süre verilmesine" ibaresinin yazılması suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438.
 
 ## Yargıtay 18. HD 2015/14351 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/194186100)
 
 Davacı dava dilekçesinde, mimari projeye aykırılıkların eski hale getirilmesini istemiştir. Mahkemece davanın reddine karar verilmiş, hüküm davacı tarafından temyiz edilmiştir.
 
@@ -86,6 +102,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/14166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/193634000)
+
 Davacılar vekili, müvekkili ...'ın ... ili ... İlçesi ... Köyü 716 parsel üzerindeki 8 nolu bağımsız bölümün maliki, davalının ise 7 nolu bağımsız bölüm maliki olduğunu, 7 ve 8 nolu bağımsız bölümlerin bitişik ikiz bina olup tarafların komşu olduklarını, davalının projeye aykırı izinsiz imalat yaptığını, müvekkiline ait bacayı yıktığını, içeriden geçen boruları kendi bağımsız bölümü içerisine aldığını, dış cephedeki boya niteliğinin kaybettirildiğini, zemindeki kayrak mermer ve kanalizasyonların zarar gördüğünü, projeye aykırı tüm bölümlerin tespiti ile yıkılmasına karar verilmesini talep etmiştir.
 
 …
@@ -98,6 +116,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/7888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/188996200)
+
 Davacı vekili dava dilekçesinde, davacının rızası alınmaksızın davalı tarafın kendi bağımsız bölümünü tadilat projesi doğrultusunda ifraz ettirdiğini ileri sürerek tapu kayıtlarının ve kapatılan balkonların eski hale getirilmesini ve bu imalatların kâl'ini istemiş, mahkemece davanın kabulü ile yapılan bağımsız bölüm ifraz işleminin geçersizliğinin tespitine, ortak yerde projeye aykırı yapılan dış merdivenin, deponun ve kapatılan balkonların eski hale getirilerek müdahalenin önlenmesine karar verilmiştir.
 
 …
@@ -108,6 +128,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/4271 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402196900)
+
 Davacı vekili dava dilekçesinde, mimari projeye aykırılıkların eski hale getirilmesi ile tazminat istemiştir. Mahkemece davanın kısmen kabul kısmen reddine karar verilmiş, hüküm davacı ve davalılar vekilleri tarafından temyiz edilmiştir.
 
 …
@@ -117,6 +139,8 @@ Açıklanan yasal düzenlemeler karşısında, İcra ve İflas Kanununun 30. mad
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/2426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/188095200)
 
 Davacı vekili dava dilekçesinde, davacının dava konusu anataşınmazda 1 numaralı işyeri nitelikli bağımsız bölümün, davalının ise 5 numaralı mesken nitelikli bağımsız bölümün maliki olduklarını, binanın tamamının projeye aykırı olarak büyük yapıldığını, yaptırılan tespite göre dava konusu 5 numaralı dairenin proje kullanım alanı 62,90 m² olması gerekirken yerinde yapılan ölçüme göre net 113,38 m² ve tasdikli projesine göre 51 m² daha büyük inşa edildiğinin belirlendiğini ileri sürerek, davalı bağımsız bölümünün binanın ortak yerlerine yapılan müdahlesinin önlenmesi istenilmiş, mahkemece davanın kabulü ile müdahalenin men'ine, yapılan imalatların kaldırılarak projeye uygun hale getirilmesine karar verilmiştir.
 
@@ -132,6 +156,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/1715 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/186825600)
+
 Davacı vekili dava dilekçesinde, davalının onaylı mimari projeye aykırı şekilde iki balkonunu kapatıp oda olarak kullandığını ileri sürerek müdahalenin önlenmesini, yapılan değişikliklerin projeye uygun eski hale getirilmesini istemiş; mahkemece, davalı tarafından yapılan değişikliklerin 20 sene önce yapıldığı ve bu süre içinde herhangi bir davaya konu edilmediği, davalının davacıyı şikayet edip hakkında mala zarar vermekten dava açılınca bu davayı açtığı anlaşıldığından, TMK'nın 2.maddesi kapsamında hakkın kötüye kullanılmasının hukuk düzeni tarafından korunmayacağı gerekçeleriyle davanın reddine karar verilmiştir.
 
 …
@@ -141,6 +167,8 @@ Davacı vekili dava dilekçesinde, davalının onaylı mimari projeye aykırı �
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/749 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/186835000)
 
 Davacı vekili dava dilekçesinde, davalı ile aynı sitede dubleks mesken nitelikli bağımsız bölüm maliki olduklarını, davalının yerleşim planı, mimari proje ve Kat Mülkiyeti Yasası'na aykırı olarak bağımsız bölümünde eklentiler yaptığını, ortak alan bahçede imalatlar yaparak kameriye ve eklentiler, şelale, demir kapı ve duvarlar, beton ve kayrak yürüyüş yolu, depo, kendine ait garaj girişi vs. oluşturduğunu, böylece ortak yerlere müdahale ettiğini ileri sürerek yapılan müdahalelerin engellenmesi ile projeye aykırı imalatların sökülerek eski hale getirilmesini istemiş, mahkemece kat maliklerinin 4/5 çoğunluğunu sağlayan muvafakat işlemi geçerli olsa dahi yapılan imalatların Kat Mülkiyeti Kanunu'nun 19.maddesi kapsamında değerlendirilemeyeceği, davalının site içinde kendi kullanımına münhasır alan oluşturmasının davacının arsa payı oranında ortak alandan faydalanmasını engellediği, yapılan imalatların mimari proje ve vaziyet planı değişikliğine yol açan imalatlar olup bu değişikliklerin yapılmasının kat maliklerinin oybirliğiyle karar almalarına bağlı olduğu gerekçesiyle davanın kısmen kabulüne karar verilmiştir.
 
@@ -156,6 +184,8 @@ Kat Mülkiyeti Yasası'ndan kaynaklanan müdahalenin önlenmesi ve eski hale get
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/748 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/187525100)
 
 Davacı vekili dava dilekçesinde, davalıların çekme kat olan bağımsız bölümünde projeye aykırı olarak (çatı katı salonun bir bölümüne banyo yapımı, terasta yalıtıma zarar verilmesi, mermer zemin eğiminin dışa verilmemesi, kalorifer borularının yönünün değiştirilmesi vd.) bir kısım ilave ve tadilatlar yaptıklarından dolayı davacının dairesinde su sızıntısı meydana geldiğini, dairenin oturulamayacak hale gelmesi nedeniyle 10.12.2000 tarihinde ... 2.
 
@@ -173,9 +203,13 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/666 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/187353900)
+
 Ortak alanlara müdahalenin önlenmesi, mimari projeye aykırılıkların giderilerek eski hale getirilmesi istemli davanın 14.03.2008 tarihinde açıldığı, mahkemece 27.09.2011 tarihinde verilen kabul kararı Dairemiz tarafından 14.01.2013 tarihinde reklam panosu yönünden araştırmaya yönelik olarak bozulduğu, mahkemece bozmaya uyularak bilirkişiden ek rapor alındığı, raporda reklam panosunun ilgili bağımsız bölümün sınırlarını aşmadığının belirtildiği, dosyadaki tüm bilgi ve belgelerin birlikte değerlendirilmesi sonucunda reklam panosu yönünden davanın esastan reddi gerekirken mahkemenin yerinde olmayan gerekçe ile davanın usulden reddi doğru değil ise de ret hükmü sonucu itibariyle doğru olduğundan gerekçesi değiştirilmek suretiyle hükmün ONANMASINA, aşağıda yazılı bakiye onama harcının temyiz edene yükletilmesine, 19.01.2015 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 18. HD 2015/319 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/186327500)
 
 Davacı dava dilekçesinde, tapuda mesken olarak kayıtlı bulunan dava konusu taşınmazın fiilen dükkan olarak kullanıldığını, mimari projeye aykırı şekilde zemin katta bulunan 1 numaralı bağımsız bölümün zeminden üst kattaki balkona kadar camekanla kapatılmak suretiyle ortak alana el atıldığını ve taşınmazın iç duvar ve kolonlarının kaldırılarak genişletildiğini ileri sürüp el atmanın önlenmesini ve mimari projesine uygun eski hale getirmesini talep etmiş; mahkemece, davanın kısmen kabulüne karar verilmiştir.
 
@@ -187,11 +221,15 @@ davanın kısmen kabul edildiği belirtilip davalı yararına vekalet ücretine 
 
 ## Yargıtay 18. HD 2015/207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/186078000)
+
 İcra ve İflas Kanunu'nun 30. maddesinde bir işin yapılmasına (yerine getirilmesine) ilişkin ilamların ne şekilde infaz edileceği açıkça hükme bağlanmış olup; mahkemece projeye aykırılıkların davalı tarafça eski hale getirilmesine ve bunun için uygun bir süre verilmesine karar verilmesi ile yetinilmesi gerekirken, infazda tereddüt yaratacak şekilde "bilirkişi raporunda belirtilen binanın normal katlardaki balkonlara yapılacak olan müdahale ve tadilatın her bağımsız bölüm başına 4000.00 TL ve çatı arasına yapılan müdahale ve tadilatın bedelinin toplam 25.000,00 TL olduğuna" şeklinde karar verilmesi, …
 
 Doğru değil ise de, bu hususların düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden gerekçeli kararın başlık kısmında yer alan "10-..." ibaresinin yerine "10-..." ibaresi yazılmak ve gerekçeli kararın hüküm fıkrasının (4) numaralı bendinin hükümden çıkartılarak sonra gelen 5, 6, 7, 8, 9 ve 10 olan bent numaralarının sırasıyla 4, 5, 6, 7, 8 ve 9 olarak düzeltilmek suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438. maddesi uyarınca hükmün düzeltilmesine ve düzeltilmiş bu şekli ile ONANMASINA …
 
 ## Yargıtay 18. HD 2014/16930 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107182700)
 
 Davacı vekili dava dilekçesinde, davalı tarafın anataşınmazda projeye aykırı olarak yaptığı değişikliklerin ve işyerine çevrilen meskenin eski hale getirilmesini istemiş, mahkemece davanın kabulüne karar verilmiştir.
 
@@ -202,6 +240,8 @@ Davacı vekili dava dilekçesinde, davalı tarafın anataşınmazda projeye ayk�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2014/16929 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106937500)
 
 Davacı vekili dava dilekçesinde, davalı tarafın bahçeye duvar yapmak suretiyle anataşınmazın onaylı mimari projesine aykırı yaptığı değişikliklerin eski hale getirilmesini istemiş, mahkemece yapılan yargılama sonucunda yönetiminin aldığı karar ve imar yönetmeliğine göre sitenin genel yapısının etkilenmediği gerekçesiyle davanın reddine karar verilmiştir.
 

@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/3075 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933691800)
+
 TBK'nın 19. maddesi hükmünde düzenlenen **genel muvazaa ilkelerine göre dava konusu araç yönünden** tüm dosya içeriğinin birlikte değerlendirilmesi ve sonucuna göre bir karar verilmesi gerekirken yazılı şekilde karar verilmesi isabetsiz olup bozmayı gerektirmektedir.

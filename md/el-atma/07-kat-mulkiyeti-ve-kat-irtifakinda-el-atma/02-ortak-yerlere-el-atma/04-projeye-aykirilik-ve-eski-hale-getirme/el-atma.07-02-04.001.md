@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/5 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744292500)
+
 Davacı vekili dava dilekçesinde; Kayseri ili Melikgazi ilçesi Köşk Mahallesi 3 parsel üzerinde bulunan binada kat maliki olduğunu, binanın toplantı salonunun amaç dışı kullanılarak sigara içildiğini, okey oynandığını, maç izlendiğini ayrıca ısınma ve sıcak su sisteminin ortak olup 5627 sayılı Kanuna göre ısı ölçer ve ekipmanlarının yapılması zorunlu olduğu hâlde yapılmadığını, kendisi gibi kat maliki olan gerçek kişi davalıların ise ortak yerlerden olan balkonların duvarlarını yıkarak mutfağa kattıklarını ileri sürerek toplantı odasının amaç dışı kullanılmaması, ısı pay ölçer veya kalorimetre sistemi kurularak ısı paylaşımının yapılması ve balkonların eski hâle getirilmesine karar verilmesini talep etmiştir.
 
 …
@@ -33,6 +35,8 @@ Davacı vekili dava dilekçesinde; Kayseri ili Melikgazi ilçesi Köşk Mahalles
 Kat Mülkiyeti Kanunu’nun 19. maddesinin 14.11.2007 tarihli ve 5711 sayılı Kanunla değişik 2. fıkrası, anataşınmazdaki esaslı proje değişikliğini gerektirmeyen basit tamirat ve tadilatlar için öngörülmüştür. Yargıtay uygulamalarında ise onaylı projede yapılacak esaslı tadilatlar için ise kat maliklerinin oy birliği aranmaktadır. Zira kanun koyucunun beşte dört değişikliğindeki amacının kamu düzeni ile doğrudan ilgili olan mimari projeye aykırılık oluşturacak iş ve işlemler için kat maliklerinin çoğunluğunun rızasının alınmasının yeterli olduğu söylenemez.
 
 ## Yargıtay HGK 2010/296 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16992100)
 
 634 Sayılı Kat Mülkiyeti Yasasının 19.maddesinin ikinci fıkrasına göre kat maliklerinden biri, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım ve tesis yaptıramaz. Yargılama sırasında yerinde yapılan keşif sonucu düzenlenen bilirkişi raporunda davalıların anataşınmazın ortak yeri olan bahçe duvarını onaylı mimari projeye aykırı olarak yükselttikleri, duvarın üzerine demir parmaklık yerleştirdikleri belirtilmiştir. Bu durum ve yukarıda değinilen yasa hükmü dikkate alınarak mahkemece projeye aykırı olarak yapılan imalat, tesis ve değişikliklerin yıkılmasına, projeye uygun eski hale getirilmesine karar verilmesi gerekirken, binaların yapı kullanma iznine sahip oldukları, bina kodları arasındaki farkın projeye aykırılık olarak değerlendirilemeyeceği gibi hukuki olmayan gerekçelerle davanın reddi yolunda hüküm kurulması doğru görülmemiştir.
 
@@ -93,6 +97,8 @@ inceleme ve yetersiz araştırma ile yazılı şekilde karar verilmesi doğru g�
 
 ## Yargıtay 5. HD 2026/5454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207710100)
+
 İlk Derece Mahkemesince bozmaya uyularak yapılan yargılama sonunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -147,6 +153,8 @@ Davalılar vekillerinin temyiz itirazlarının kabulü ile temyiz olunan İlk De
 
 ## Yargıtay 5. HD 2025/18134 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206654900)
+
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonunda 2011/211 Esas sayılı dosya yönünden açılan davanın kabulüne, 2011/1087 Esas sayılı dosya yönünden açılan davanın kabulüne; 2011/1088 Esas sayılı dosya yönünden; açılan davanın kabulüne; kalorifer petekleri hakkında açılan davadan vazgeçildiğinden karar verilmesine yer olmadığına, 2011/1089 Esas sayılı dosya yönünden açılan davanın kabulü ile davalının projeye aykırı olarak odaya kattığı odadan ayrılmak suretiyle aydınlık boşluğun projeye uygun eski hale getirilmesine, kalorifer petekleri hakkında açılan davadan vazgeçildiğinden karar verilmesine yer olmadığına karar verilmiştir.
 
 …
@@ -164,6 +172,8 @@ ayrıca anataşınmaza ait yürürlükteki yönetim planı da tespit edilerek il
 Davalı ... ile davalılar ... ve ...vekilinin temyiz itirazlarının kabulü ile temyiz olunan Mahkemece kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/11381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176144600)
 
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonunda davanın davalılardan ... ..ve Ltd.Şti. aleyhine açılan davanın husumet yönünden reddine dair verilen kararın Yargıtay 5. Hukuk Dairesinin 2021/13502 Esas, 2022/353 Karar sayılı ilamı ile kesinleştiğinden bu hususta yeniden karar verilmesine yer olmadığına, davalılardan.... ve ... aleyhine açılan davanın pasif husumet nedeniyle reddine, davalılardan ... ve ... mirasçıları ..., ..., ..., ... ve ...'a karşı açılan müdahalenin meni ve eski hale getirme davasının kabulüne, sökülen ağaç ve bitkilerin değerine yönelik açılan davanın açılmamış sayılmasına karar verilmiştir.
 
@@ -187,6 +197,8 @@ Davacı vekili ve davalı ... mirasçıları vekilinin yerinde görülmeyen tüm
 
 ## Yargıtay 5. HD 2025/8558 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190514700)
+
 Davacı vekili dava dilekçesinde özetle;davalılardan ...'ın İstanbul ili, .... ilçesi, ... köyü, 1232 parsel sayılı taşınmazda bulunan ...sitesi 181 nolu bağımsız bölüm maliki olduğunu, davalının imar projesine aykırı olarak haksız ve hukuka aykırı olarak 634 sayılı Kat Mülkiyeti Kanunu'na (634 sayılı Kanun) aykırı bir biçimde dairenin balkonlarını kapattığını, bahisle yapılan müdahalenin eski hale getirmesine karar verilmesini talep etmiştir.
 
 …
@@ -206,6 +218,8 @@ Davalılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle u
 
 ## Yargıtay 5. HD 2025/8192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189871000)
+
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonuncuda; davanın kabulüne karar verilmiştir.
 
 …
@@ -219,9 +233,13 @@ Davalı şirket vekili ile bir kısım davalılar vekilinin yerinde görülmeyen
 
 ## Yargıtay 5. HD 2025/7337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198308700)
+
 Bu nedenle toplu yapı yönetim kurulu başkanı olarak ... ve yönetim kurulu üyesi olarak ...'nun müdahalenin önlenmesi ve eski hale getirilmesi davası açmak üzere toplu yapı yönetimi adına hareket etmek üzere kat malikleri kurulunun yetkilerinin devredildiği toplu yapı temsilciler kurulunca yetkilendirildiğini gösterir toplantı tutanaklarının içinde bulunduğu karar defteri ve ilgili belgelerin taraflardan sorularak alınacak yazı cevaplarının dosya arasına alınması ve bu kişilere ait varsa bağımsız bölüm tapu kayıtlarının dosya arasına alınması gerekir.
 
 ## Yargıtay 5. HD 2025/7127 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198225500)
 
 Mahkemece bozma kararına direnilmesi üzerine karar davacı vekili tarafından temyiz edilmesi üzerine Mahkemece verilen direnme kararının yerinde olmadığı anlaşıldığından, dosyanın Yargıtay Hukuk Genel Kuruluna gönderilmesine karar verilmiştir. Yargıtay Hukuk Genel Kurulunca yapılan inceleme sonucunda; direnme kararının değişik gerekçe ile bozulmasına karar verilmiştir.
 
@@ -242,6 +260,8 @@ Yargıtay (Kapatılan) 18. Hukuk Dairesince yapılan inceleme sonucu, dosya içi
 Bir kısım davalılar vekillerinin temyiz itirazlarının kısmen kabulü ile Mahkeme kararının hüküm fıkrasına ayrı bir bent olarak ''Davalılar ..., ..., ... Sitesi Yönetim Kurulu Başkanlığı vd. ile ... kendisini vekille temsil ettirdiğinden hüküm tarihi itibarıyla yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereği 18.000,00 TL vekâlet ücretinin davacıdan alınarak adı geçen davalılara verilmesine,'' cümlesinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2025/6440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154808300)
 
 Davacı dava dilekçesinde özetle; ... ilçesi, ... Sitesinde kat maliki olduğunu, sitenin 61 bağımsız bölümden oluştuğunu, davalı site yönetimine 29.06.2020 tarihli ve 09599 sayılı ihtarname ile Trabzon ....
 

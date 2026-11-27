@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2025/2443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141366100)
+
 Davacı ... İdaresi vekili dava dilekçesinde; ... ili ... ilçesi ... köyü Uçuk mevki eski 529 yeni 109 ada 5 parsel sayılı taşınmazın tapuda davalılar murisi adına kayıtlı olduğunu, taşınmazın kısmen orman tahdit sınırları içinde kaldığını ileri sürerek, tapu kaydının iptali ile taşınmazın orman olan kısmının orman vasfı ile Hazine adına tesciline ve davalıların orman olan kısma elatmalarının önlenmesine karar verilmesini talep ve dava etmiştir.
 
 …
@@ -34,6 +36,8 @@ Hükmüne uyulan bozma ilamında açık bir şekilde taşınmazın tahdit içind
 Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 8. HD 2025/1065 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127590900)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
@@ -49,6 +53,8 @@ yerlerden olduğu gerekçeleri ile davanın reddine, Adıyaman ili Gölbaşı il
 Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 5. HD 2025/1045 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139888100)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; dava konusuz kaldığından karar verilmesine yer olmadığına karar verilmiştir.
 
@@ -72,6 +78,8 @@ Davacı vekilinin temyiz itirazının kabulü ile İlk Derece Mahkeme kararını
 
 ## Yargıtay 8. HD 2025/357 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117588300)
+
 Davacı ... vekili dava dilekçesinde; irsen intikal ve kazandırıcı zamanaşımı zilyetliğine dayanarak, çekişmeli 139 ada 2 ve 4 parsel sayılı taşınmazların kadastro tespitlerinin iptali ve müvekkilinin murisi ...'nın mirasçıları adına tescilini istemiştir.
 
 …
@@ -91,6 +99,8 @@ Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 5. HD 2025/294 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132243800)
+
 Davacılar vekili dava dilekçesinde özetle; Antalya ili, Manavgat ilçesi, Side Mahallesi 433 ada 4 parsel sayılı taşınmazdaki hisselerine kamulaştırma yapılmaksızın el atıldığını belirterek kamulaştırmasız el atılan taşınmazın bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -106,6 +116,8 @@ Kamu düzenine ilişkin olup resen gözetilmesi gereken hususların tetkikinde i
 Kamu düzenine ilişkin hususların resen tetkiki sonucunda; Bölge Adliye Mahkemesi kararının (4) numaralı bendinin hükümden çıkartılması, yerine ''4-Alınması gerekli 49.755,01TL karar ve ilam harcından davacı tarafça yatırılan 12.440,57TL harcın mahsubu ile 37.314,44TL'nin davalıdan alınarak Hazineye gelir kaydına,'' cümlesinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2024/9942 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122188700)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen 2012/560 Esas sayılı davalar ile ilgili olarak, 8516 ada 3 parsel sayılı taşınmaz yönünden karar verilmesine yer olmadığına, 8515 ada 1 parsel sayılı taşınmaz yönünden davalı ... yönünden davanın kabulüne, davalı ... yönünden davanın reddine, birleştirilen 2023/158 Esas ve 2023/161 Esas sayılı davalar ile ilgili olarak, 8515 ada 1 parsel sayılı taşınmaz yönünden davalı ... aleyhine açılan davanın kabulüne, davalı ... aleyhine açılan davanın reddine karar verilmiştir.
 
@@ -124,6 +136,8 @@ Asıl ve birleştirilen 2012/560 Esas sayılı dosyanın davacıları ... vd. ve
 
 ## Yargıtay 8. HD 2024/7911 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110795400)
+
 İlk Derece Mahkemesi kararının, davacı vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince, istinaf başvurusunun esastan reddine karar verilmiştir.
 
 …
@@ -139,9 +153,13 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 5. HD 2024/3314 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039258100)
+
 Yapılan inceleme sonucunda; şayet dava konusu taşınmaza 04.11.1983 tarihinden önce el atıldığının anlaşılması halinde ise 2942 sayılı Kamulaştırma Kanunu'nun geçici 6 ncı maddesinin birinci fıkrası ile "09.10.1956 tarihi ile 04.11.1983 tarihi arasında" fiilen kamulaştırmasız el atılan taşınmazlara ilişkin açılacak davalarda taşınmazın el atma tarihindeki nitelikleri esas alınarak dava tarihindeki değerinin tespit edilmesi gerektiğine dair hükmü uyarınca taşınmazın el atma tarihindeki niteliğinin ne olduğunun tespiti için ilgili Belediye Başkanlığına yazı yazılarak, dava konusu taşınmazın el atma tarihi itibarıyla imar planı içerisinde olup olmadığı, imar planı içerisinde ise tarihi, ölçeği ve türü (1/1000, 1/5000, 1/25000, uygulama, nazım...) araştırılarak 1/1000 ölçekli imar planı içerisinde olmadığının tespiti durumunda belediye veya mücavir alan sınırları dahilinde bulunup bulunmadığı, belediye hizmetlerinden yararlanıp yararlanmadığı ve etrafının meskun olup olmadığı, diğer ölçekli plan dahilinde ise plandaki konumu, plan kapsamında alınma amacı, yerleşim yerine uzaklığı, şehrin gelişme istikametinde olup olmadığı, hususlarına ilişkin yazı cevabının getirtilmesi gerekir.
 
 ## Yargıtay 5. HD 2023/12111 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990958500)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -164,6 +182,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 5. HD 2023/11419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1004201000)
+
 1\.
 
 …
@@ -184,6 +204,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle u
 
 ## Yargıtay 5. HD 2023/10616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1003958900)
+
 Davacılar vekili dava dilekçesinde; Kocaeli ili, Gebze ilçesi, ... köyü 113 ada 7 ve 8 parsel ile 114 ada 31 parsel sayılı taşınmazların kamulaştırma yapılmaksızın fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmazlar bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -201,6 +223,8 @@ Anayasa Mahkemesinin 2018/32734 başvuru numaralı ve 04.10.2022 tarihli kararı
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/10087 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/991370500)
 
 Davacı vekili dava dilekçesinde özetle; davacının ... Mahallesi ...
 

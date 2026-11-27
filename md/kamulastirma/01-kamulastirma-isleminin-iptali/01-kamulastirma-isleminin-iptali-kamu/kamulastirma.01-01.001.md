@@ -51,8 +51,12 @@ Bu koşullardan ikisi Milli Müdafaa Mükellefiyeti Kanununun uygulanmasında yu
 
 ## Danıştay İDDK 2025/3128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203681600)
+
 2942 sayılı Kamulaştırma Kanunu'nun 3. maddesinin 1. fıkrasında; idarelerin kanunlarla yapmak yükümlülüğünde bulundukları kamu hizmetlerinin veya teşebbüslerinin yürütülmesi için gerekli olan taşınmaz malları, kaynakları ve irtifak haklarını, bedellerini ödemek suretiyle kamulaştırabileceği düzenlenmiş; 5. maddesi ile kamulaştırma yapılabilmesi kamu yararı kararı alınması şartına bağlanmış; 5. maddede düzenlenen mercilerce verilen kamu yararı kararlarının onay mercilerinin düzenlendiği 6. maddesinin son fıkrasında da, onaylı imar planına veya ilgili bakanlıklarca onaylı özel plan ve projesine göre yapılacak hizmetler için kamu yararı kararı alınmasına gerek olmaksızın, yetkili icra organınca kamulaştırma işlemine başlanıldığını gösteren bir kararın alınması yeterli görülmüştür.
 
 ## Danıştay 13. Daire 2018/4029 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579429400)
 
 Bu itibarla, davacının mülkiyetinde iken 24/10/1988 tarih ve 1988/96 sayılı kamu yararı kararına istinaden kamulaştırılarak 24/11/1989 tarihinde sicilden terkin edilen ve satışı amacıyla ihaleye çıkarılmakla kamulaştırma amacına ve kamu yararına yönelik herhangi bir ihtiyaca tahsisi lüzumu kalmadığı anlaşılan taşınmazın; bedeli mukabilinde geri alma hakkını kullanmasını teminen mal sahibi olan davacıya 7201 sayılı Tebligat Kanunu hükümlerine göre duyuru yapılması gerekirken, bu usul işletilmeksizin taşınmazın satışına ilişkin olarak 2886 sayılı Kanun'un 45. maddesi uyarınca açık teklif usulü ile 09/03/2010 tarihinde yapılan satış ihalesinde hukuka uygunluk, davanın reddi yolundaki İdare Mahkemesi kararında hukukî isabet bulunmamaktadır.

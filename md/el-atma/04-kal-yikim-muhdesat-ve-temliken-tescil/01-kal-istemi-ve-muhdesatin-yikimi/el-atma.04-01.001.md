@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2015/1434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115752600)
+
 Mahkemece, bozma kararına uyularak yapılan yargılama sonunda;asıl dava bakımından elatmanın önlenmesi isteğinin kabulüne, yıkım isteğinin ise fahiş zarar doğuracağı, asgari levazım bedelinin de davacı (karşı davalı) tarafından mahkeme veznesine depo edilmediği gerekçesiyle reddine, keza karşı davanın da reddine karar verilmiştir.
 
 …
@@ -40,6 +42,8 @@ Davalı-karşı davacı;davanın reddini savunmuş, çekişme konusu taşınmazl
 SONUÇ:Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının, Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2011/587 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77267700)
 
 Davalı C. E., davanın reddini savunmuştur.
 
@@ -129,6 +133,8 @@ Buna göre, dava açma tarihi üzerinden uzun yıllar geçmiş olması nedeniyle
 
 ## Yargıtay 5. HD 2025/14481 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186295200)
+
 Davacı vekili dava dilekçesinde özetle; Mardin ili, ... köyü 1 02... parsel sayılı 800 m²lik bağ vasfındaki taşınmaz müvekkiline ait iken 26.07.1995 tarihinde tamamına davalı idareler tarafından su kuyuları yapılarak el atıldığını belirterek kamulaştırmasız el atma bedelinin davalı idarelerden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -147,6 +153,8 @@ Belediyesinin 20.10.1995 tarihli ve 995 sayılı encümen kararı ile ...'a ait 
 İlk Derece Mahkemesi kararının hüküm fıkrasına ayrı bir bent eklenmek suretiyle ''Kendisini vekille temsil eden davalı ... yararına 10.700,00 TL maktu vekâlet ücretinin davacı taraftan alınarak adı geçen davalıya verilmesine, davalı ... yararına 10.700,00 TL maktu vekâlet ücretinin davacı taraftan alınarak adı geçen davalıya verilmesine'' cümlesinin yazılmak suretiyle hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2025/8886 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171105600)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -168,6 +176,8 @@ Davalı idare vekilinin temyiz itirazlarının kısmen kabulü ile temyiz olunan
 
 ## Yargıtay 5. HD 2025/8485 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199614100)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; müdahelenin meni ve kal talebinin kabulüne, ecrimisil talebinin ise kısmen kabulüne karar verilmiştir.
 
 …
@@ -183,6 +193,8 @@ Dairemizce yapılan temyiz incelemesi sonucunda; el atmanın önlenmesi, kal tal
 Taraf vekillerinin temyiz itirazları yerinde olduğundan temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 1. HD 2025/3655 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180942800)
 
 Davacı Hazine vekili; .. ili, ... ilçesi, ... köyünde bulunan dava konusu 92 parsel sayılı taşınmazın 32... 'sinin kıyı-kenar çizgisi içinde kaldığını, parsel üzerinde bulunan iki katlı yığma otel binasının 22, 00... 'lik kısmının kıyı-kenar çizgisi içinde kalan 32... 'lik alan içerisinde bulunduğunu, yine bu parselin önüne isabet eden Devletin hüküm ve tasarrufu altındaki kıyının 159, 31... 'lik kısmının beton döşeme yapılmak suretiyle işgal edildiğini ileri sürerek dava konusu 92 parsel sayılı taşınmazın kıyı-kenar çizgisi içinde kalan 32... 'sinin tapu kaydının iptali ile taşınmaz üzerinde bulunan iki katlı yığma otelin 22, 00... 'lik kısmının kal'ine, 92 parselin önüne isabet eden Devletin hüküm ve tasarrufu altındaki kıyının 159, 31... 'lik kısmına yapılan müdahalenin önlenmesine ve beton döşemenin kal'ine karar verilmesini istemiştir.
 
@@ -210,6 +222,8 @@ Taraf vekillerinin değinilen yönlerden yerinde bulunan temyiz itirazlarının 
 
 ## Yargıtay 7. HD 2025/3174 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1165084400)
+
 Davacı vekili dava dilekçesinde; davacıya ait dava konusu Edirne ili, ... ilçesi, .... Köyünde kain, ... ada ... parsel, ... ada ... parsel ve ... ada ... parsel sayılı taşınmazlara davalının tır park ettirdiğini, beton dökerek taşınmazlardaki toprak yapısının bozulmasına sebebiyet verdiğini, davalıyı şifahen uyarmalarına rağmen haksız el atmasını sürdürdüğünü belirterek dava konusu taşınmazlara davalının el atmasının önlenmesine, taşınmazların eski hâle getirilmesine, şimdilik 1.500,00 TL ecrimisil bedelinin davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -228,6 +242,8 @@ Diğer yandan, ... ada ... parselde davacının miras taksim sözleşmesi ile ma
 
 ## Yargıtay 7. HD 2025/2524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168633100)
+
 Davacı vekili dava dilekçesinde; 5154 ada 4 ve 5 parsel sayılı taşınmazların müvekkiline ait olduğunu, davalıya ait 5153 ada 3 parsel sayılı taşınmazın müvekkiline ait taşınmazlara tecavüzlü olduğunu, davalının sözlü olarak uyarılmasına rağmen işgalin devam ettiğini ileri sürerek el atmanın önlenmesini, taşkın duvarın yıkılmasını, ağaçların sökülmesini, müvekkilinin artan masraflar sebebiyle inşaat yaptıramadığından oluşan zararları sonucu ecrimisil alacağına yönelik şimdilik toplam 1.000,00 TL'nin her dönem sonu itibarıyla tahakkuk edecek yasal faizi ile birlikte davalıdan tahsilini talep etmiştir.
 
 …
@@ -243,6 +259,8 @@ Somut olayda; Mahkemece mülkiyet hakkına üstünlük tanınmak suretiyle el at
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2025/196 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117427600)
 
 İlk Derece Mahkemesi kararının, davalı vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince, istinaf başvurusunun esastan reddine karar verilmiştir.
 
@@ -265,6 +283,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 5. HD 2024/9316 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120842700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... Genel Müdürlüğü yönünden el atmanın önlenmesi ve kal davasının kabulüne, ecrimisil davasının esastan reddine, diğer davalı idareler yönünden pasif husumet yokluğu nedeniyle davanın reddine karar verilmiştir.
 
 …
@@ -285,6 +305,8 @@ Davacı ve davalı ... Genel Müdürlüğü vekillerinin yerinde görülmeyen t�
 
 ## Yargıtay 6. HD 2024/5076 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123265600)
+
 İlk Derece Mahkemesi kararına karşı davacı vekilince istinaf yoluna başvurulması üzerine, Bölge Adliye Mahkemesince başvurunun esastan reddine karar verilmiştir.
 
 …
@@ -296,6 +318,8 @@ Davacı ve davalı ... Genel Müdürlüğü vekillerinin yerinde görülmeyen t�
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2024/4259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063452000)
 
 İlk Derece Mahkemesince, bozma ilamına uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -314,6 +338,8 @@ davacı ... İdaresinin dava dilekçesinde talep ettiği müdahalenin men'i tale
 Davacı ... İdaresi vekilinin ve davalı vekilinin temyiz itirazlarının kabulü ile temyiz olunan İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/3905 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1099786300)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl dava yönünden davanın kabulüne, birleştirilmiş dava yönünden karar kesinleşmiş olması nedeniyle yeniden karar verilmesine yer olmadığına karar verilmiştir.
 

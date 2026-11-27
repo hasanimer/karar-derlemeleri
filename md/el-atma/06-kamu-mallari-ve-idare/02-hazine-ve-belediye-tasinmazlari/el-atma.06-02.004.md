@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2023/8716 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974791900)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda, davanın kabulüne karar verilmiştir.
 
 …
@@ -41,6 +43,8 @@ Davalı idare cevap dilekçesinde özetle; davacıya ait taşınmazların proje 
 Davacı vekilinin temyiz itirazının kısmen kabulü ile temyiz olunan Ankara 9 Asliye Hukuk Mahkemesinin 2910/23esas,2020/564 Karar sayılı kararının (2) nolu bendinin 3. paragrafında yazılı '' 70164 ada 8,3061 ada 3 parsel'' ibaresinin hükümden çıkarılmasına,yerine sırasıyla ''70164 ada 23 70270 ada 1 ve 70257 ada 2 parsellerde'' ibaresinin yazılması suretiyle hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2023/8382 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960725900)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -63,6 +67,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 7. HD 2023/5038 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980848000)
+
 Davacı vekili; Konya ili, Ereğli ilçesi, Merkez ... Mahallesi 201 ve 202 No.lu mera parsellerine ayçiçek ekmek suretiyle davalıların tecavüzde bulunduğunu, vasıfları bozulan meranın eski hâle getirme bedeli olarak şimdilik 8.193,10 TL'nin tahsili ile davalıların müdahalelerinin men'ine karar verilmesini talep etmiştir.
 
 …
@@ -78,6 +84,8 @@ Kural olarak, meraların kuru mülkiyeti Hazineye, yararlanma ... köy ve beledi
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 ... Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/4566 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969008000)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; el atmanın önlenmesi talebinin kabulüne, kal talebinin reddine karar verilmiştir.
 
@@ -101,6 +109,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 8. HD 2023/2548 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918343600)
+
 1\. 1998 yılında yapılan kadastro sırasında Bornova İlçesi, Yaka Köyü çalışma alanında bulunan 133 ada 55 parsel sayılı 10.233,13 metrekare yüzölçümündeki taşınmaz, kadastro tutanağının beyanlar hanesine 6831 sayılı Orman Kanunu'nun (6831 sayılı Kanun ) 2/B maddesi uyarınca orman sınırları dışına çıkarıldığı şerhi verilerek ve edinme nedeni sütununda ... ve Yaşar Çolakoğlu’nun zilyetliğinde olduğu açıklanarak zeytinlik vasfı ile Hazine adına tespit edilmiş, sonradan malik hanesi çizilerek davalı hale getirilmiştir. Zilyet olarak belirlenenler aleyhine açılan elatmanın önlenmesi davası, davaya konu parsel hakkında tutanak düzenlenmiş olması nedeniyle Kadastro Mahkemesine aktarılmış, İzmir Kadastro Mahkemesinin 2003/16 Esas sayılı dosyasında yapılan yargılama sonunda çekişmeli taşınmazın zeytinlik vasfı ile Hazine adına tesciline karar verilmiş, karar 06.02.2006 tarihinde kesinleşmiştir.
 
 …
@@ -108,6 +118,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2023/1646 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881476400)
 
 Davacı vekili dava dilekçesinde; Manisa ili, ... ilçesi, ... Mahallesi 822 parsel sayılı taşınmaza kamulaştırma yapılmaksızın yol yapılmak suretiyle fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 
@@ -126,6 +138,8 @@ Taraf vekillerinin temyiz itirazlarının kısmen kabulü ile temyiz olunan Böl
 
 ## Yargıtay 8. HD 2023/868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924693500)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne, kısmen reddine karar verilmiştir.
 
 …
@@ -137,6 +151,8 @@ Ek 4 üncü maddesi kapsamında yapılan çalışmalar sonucu 397 parselin içer
 Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 5. HD 2022/16062 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841248600)
 
 Davacı vekili dava dilekçesinde; dava konusu Eskişehir İli, Odunpazarı İlçesi, Osmangazi Mahallesi, 13186 ada 24 parsel sayılı taşınmazın davalı idareler tarafından kamulaştırma yapılmadığı halde fiilen bir kısmının yol, yeşil alan ve otopark olarak kullanıldığını bu nedenle taşınmazın bedelinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalı idarelerden tahsiline karar verilmesini talep etmiştir.
 
@@ -154,6 +170,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 i
 
 ## Yargıtay 1. HD 2022/1673 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798871700)
+
 Davacı vekili dava dilekçesinde özetle, Muğla ili, Seydikemer ilçesi, Alaçat köyünde bulunan müvekkiline ait 34 yıllık ev ve ağaçların bulunduğu 1.500m² yüzölçümlü tarla vasfındaki taşınmazın tapuya kayıtlı olmadığını, bu yerin kadimden beri müvekkilinin babası ... ... ait olduğunu ve taşınmazın 1980 yılında müvekkiline satıldığını, müvekkil aleyhine Fethiye 3. Asliye Hukuk Mahkemesinin 2010/377 Esas sayılı dosyasında açılan meni müdahale ve kal davasının reddedildiğini, müvekkilinin 34 yıldan beri buraya zilyet olduğunu, bu nedenlerle davanın kabulü ile kadastro harici müvekkiline ait 34 yıllık ev ve ağaçların bulunduğu 1.500m² yüzölçümlü tarla vasfındaki taşınmazın müvekkil adına tapuya tesciline karar verilmesini talep etmiştir.
 
 …
@@ -170,6 +188,8 @@ Asliye Hukuk Mahkemesi'nin 2014/131 Esas, 2014/286 Karar sayılı dosyası ... i
 Davacı vekilinin değinilen yönlerle yerinde görülen temyiz itirazlarının kabulü ile hükmün (6100 sayılı Yasa'nın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2020/8745 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631762700)
 
 Davacı Hazine vekili, davalıların 611 sayılı mera parselinin 13000 m² sürmek suretiyle elattıklarını belirterek 5.681,00TL eski hale getirme bedeli ile ot bedelinin tespiti ve faizi ile tahsilini istemiştir.
 
@@ -189,6 +209,8 @@ SONUÇ: Yukarıda yazılı nedenlerle usul ve yasaya aykırı hükmün BOZULMASI
 
 ## Yargıtay 5. HD 2020/2995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594114900)
+
 Dava ve birleştirilen davalar kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece uyulan bozma ilamı gereğince inceleme ve işlem yapılarak hüküm kurulmuş, karar taraf vekillerince temyiz edilmiştir.
@@ -202,6 +224,8 @@ Bu itibarla 26.04.2019 havale tarihli fen bilirkişi raporu ve eki krokilerden, 
 Asıl dosya davacıları ile davalı idare vekilinin temyiz itirazlarının kabulü ile hükmün açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 5. HD 2020/1754 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/581193200)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -217,6 +241,8 @@ Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan
 
 ## Yargıtay 5. HD 2019/11549 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514419000)
+
 Dava, kamulaştırmasız el atılan taşınmaz ve gecekondu bedelinin tahsili ile zarara dayalı manevi tazminat istemine ilişkindir.
 
 İlk derece mahkemesince davanın kabulüne ilişkin olarak verilen karara karşı, davacı vekili tarafından yapılan istinaf başvurusunun ... Bölge Adliye Mahkemesi 14.
@@ -230,6 +256,8 @@ Dosya içindeki bilgi ve belgelerden; davacının henüz, kentsel dönüşüm ka
 Davacı vekilinin temyiz itirazları yerinde görüldüğünden ... 27. Asliye Hukuk Mahkemesinin 2014/549 E. - 2016/390 K. sayılı hükmünün açıklanan nedenle HMK’nun 371.maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 5. HD 2019/9089 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503363000)
 
 Dava ve birleştirilen dava; kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -245,6 +273,8 @@ Davalı ... vekilinin temyiz itirazları yerinde olduğundan hükmün açıklana
 
 ## Yargıtay 12. HD 2019/6806 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500814600)
+
 Alacaklı tarafından başlatılan ilama dayalı takipte, borçlu Belediyenin, takibe dayanak ilamın kamulaştırmasız el atma alacağına ilişkin olduğunu ileri sürerek tüm hacizlerin kaldırılması istemi ile icra mahkemesine başvurduğu, mahkemece, 6111 sayılı Kanunun geçici 2. maddesi ve 2942 sayılı Kanunun geçici 6. maddesi uyarınca şikayetin kabulüne karar verildiği görülmektedir.
 
 …
@@ -252,6 +282,8 @@ Alacaklı tarafından başlatılan ilama dayalı takipte, borçlu Belediyenin, t
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366. ve HUMK’nun 428. maddeleri uyarınca BOZULMASINA …
 
 ## Yargıtay 16. HD 2019/3280 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/527444800)
 
 Kadastro tespitinden önceki tarihte Asliye Hukuk Mahkemesinde davacı ... tarafından taşınmazın yayla olduğu iddiası ile ... ve diğerleri aleyhine açılan elatmanın önlenmesi davası ile ... tarafından Hazine ve Köy Tüzel Kişiliğine karşı açılan tescil davası yargılama devam ederken çekişmeli taşınmazlar hakkında tutanak düzenlenmesi sebebiyle görevsizlik kararı verilerek Kadastro Mahkemesine aktarılmıştır. Ne var ki, hüküm tarihinden önce yürürlüğe giren 6360 sayılı Yasa'nın 1. maddesi uyarınca Büyükşehir Belediyelerinin sınırları, tüm ilin mülki sınırları haline gelmiş olup, Büyükşehir Belediyesi sınırları içerisindeki belde ve köylerin tüzel kişilikleri kaldırılarak bağlı bulundukları ilçe belediyesine katılmıştır. Somut olayda, 6360 sayılı Yasa'nın Geçici 1/13. maddesi uyarınca tüzel kişiliği kaldırılan davalı ...’nin bağlı bulunduğu Feke İlçe Belediye Başkanlığı ile TMK'nın 713/3. maddesi gereğince ilgili kamu tüzel kişiliği olması sebebiyle Adana Büyükşehir Belediye Başkanlığı’nın davaya dahil edilerek taraf teşkilinin sağlanması gerekirken taraf teşkili sağlanmadan işin esasına girilerek hüküm kurulması isabetsizdir.
 Taraf teşkili dava şartlarından olduğundan yargılamanın her aşamasında mahkemece re'sen dikkate alınması gerekmekte olup, bu şart sağlanmadan davanın esasına girilemez.
@@ -261,6 +293,8 @@ Taraf teşkili dava şartlarından olduğundan yargılamanın her aşamasında m
 ekonomik amaca uygun olarak tarım arazisi niteliğiyle kullanılıp kullanılmadıkları ve kullanımların hangi tarihten itibaren ne şekilde olduğu, varsa imar-ihyalarının tamamlanıp tamamlanmadığı, tamamlanmışsa hangi tarihte tamamlandığı, taşınmazların kullanımlarına ara verilip verilmediği hususlarında ayrıntılı rapor düzenlettirilmeli, fen bilirkişisinden keşfi takibe imkan verir rapor alınmalı bundan sonra da iddia ve savunma çerçevesinde toplanan tüm deliller birlikte değerlendirilerek sonucuna göre karar verilmelidir. Mahkemece taraf teşkili sağlanmaksızın ve eksik incelemeye dayalı olarak yazılı şekilde karar verilmiş olması isabetsiz olduğu gibi; kabule göre de, 3402 sayılı Kadastro Kanunu'nun 1. maddesi uyarınca kadastro hakiminin infazı kabil, infaz sırasında tereddüt oluşturmayacak şekilde ve çekişmeli taşınmazların tamamı hakkında sicil oluşturmaya elverişli bir karar vermek zorunda olduğu üzerinde durulmaksızın tescil hükmü kurulurken çekişmeli 126 ada 15, 16, 17 ve 25 parsel sayılı taşınmazların yüzölçüm haneleri tek tek belirlenmeden karar verilmiş olması da isabetsiz olup, temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 5. HD 2018/23815 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/474363200)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -276,11 +310,15 @@ Davalı ... vekilinin temyiz itirazları yerinde olduğundan hükmün açıklana
 
 ## Yargıtay 5. HD 2018/12630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430844600)
+
 …
 
 ... 2. Asliye Hukuk Mahkemesi'nin 2013/175 - 2014/6 sayılı dosyasında taşınmazın yol ve park haline getirilen kısmının bedeli verildiği halde, tamamının tapusunun iptali ile davalı ... Belediye Başkanlığı adına tescil edildiği, bu tescil hükmünün Dairemizce 2015/5405 - 2015/10936 sayılı kararla düzeltilerek onandığı gözetilmeden, taşınmazın tamamının tapusunun ... Belediye Başkalığı'na geçtiği anlaşılmıştır.Bu durumda; ... Belediye Başkanlığı da davaya dahil edilerek, tapu kaydında gerekli düzeltimler sağlandıktan sonra, davacıya ait kalan bölümde; kesinleşen her üç dosyadaki fen bilirkişi rapor ve krokileri de zemine uygulanmak suretiyle el atılan alan bulunup bulunmadığı araştırılarak sonucuna göre karar verilmesi gerekirken, yazılı şekilde eksik inceleme ile davanın reddine karar verilmesi,Doğru görülmemiştir.Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428.
 
 ## Yargıtay 3. HD 2018/10891 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452388500)
 
 Davacı; davaya konu taşınmazda kiracı olduğunu, taşınmazı köy tüzel kişiliğinden 01.03.2010 sözleşme ile kiraladığını, köy tüzel kişiliği sona erince davalı ... ile 31.03.2014 tarihli sözleşme yaptıklarını, arazinin malikinin dava dışı hazineye ait olduğunu öğrendiğini, hazinenin ecrimisil talep ettiğini ve hazineye ecrimisil ödediğini, davalının haksız yere kira bedellerini tahsil etmiş olduğunu, belediyenin taşınmazdan tahliyelerini de talep ettiğini ileri sürerek, tahliye işlemlerinin durdurulması, belediye ile yapılan 31.03.2014 tarihli sözleşmenin iptaline ve 9.190 TL kira bedelinin iadesine karar verilmesini istemiştir.
 
@@ -296,6 +334,8 @@ Mahkemece serbest irade ile imzalanan bu sözleşmenin iptali talebinin reddine 
 SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 12. HD 2018/7758 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/449459700)
 
 Şikayetçi alacaklılar tarafından borçlu ... Büyükşehir Belediyesi Başkanlığı hakkında kamulaştırmasız el atma nedeniyle tazminata ilişkin ilama dayalı yapılan takipte; icra harçları ve icra vekalet ücretinin nisbi hesaplanmasının yasaya aykırı olduğu ileri sürülerek borçlu belediyenin şikayette bulunması üzerine, ... ... 16. İcra Hukuk Mahkemesinin 2014/24 E.- 76 K. sayılı dosyasında, şikayetin kabulü ile icra tahsil harcının ve icra vekalet ücretinin maktu hesaplanması gerektiğinden, nisbi hesaplanan kapak hesabı gereğince taraflarına fazla ödendiği ileri sürülen 16.959,08 TL nin iadesi için çıkarılan 16.10.2015 tarihli muhtıranın iptalinin istendiği, mahkemece, şikayetin kabulüne karar verildiği anlaşılmıştır.
 

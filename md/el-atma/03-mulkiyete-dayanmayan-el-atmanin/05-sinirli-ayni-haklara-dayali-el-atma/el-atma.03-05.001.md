@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2016/1039 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/274483000)
+
 Mahkemece, elatmanın önlenmesi isteğinin reddine, ecrimisil isteğinin ise taşınmazda üçüncü kişi lehine intifa hakkının tesis edildiği tarih olan 20.01.2011 tarihi ile sınırlı olarak kısmen kabulüne karar verilmiştir.
 
 …
@@ -53,6 +55,8 @@ Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/12703 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188608500)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, birleştirilen davada ise karar verilmesine yer olmadığına karar verilmiştir.
 
 …
@@ -73,6 +77,8 @@ Belediyesi Başkanlığını davaya dâhil etmesi için davacı vekiline süre v
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2025/3710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142976000)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davanın kabulüne karar verilmiştir.
 
@@ -95,6 +101,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usu
 
 ## Yargıtay 5. HD 2025/2881 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133892700)
+
 Davacı vekili dava dilekçesinde özetle; Mersin ili, ..., ... köyü 432 parsel sayılı taşınmazın Seyhan Nehri yatağında kalması neticesinde davalı idare tarafından kamulaştırma yapılmaksızın fiilen el atıldığını ileri sürerek kamulaştırmasız el atılan taşınmazın bedelinin ve ecrimisilin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -111,6 +119,8 @@ gerekirken davacı idare adına tesciline hükmedilmesinin, dava tarihinin 12.01
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/4753 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096067400)
 
 Davacı vekili; müvekkilinin maliki olduğu dava konusu taşınmaza davalının müdahalede bulunduğunu ileri sürerek; el atmanın önlenmesine, taşınmazın müvekkiline teslimine ve fazlaya ilişkin hakları saklı kalmak kaydıyla 30.000,00 TL ecrimisilin davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -132,6 +142,8 @@ Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us�
 
 ## Yargıtay 7. HD 2023/5375 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986394900)
+
 Davacı vekili; tarafların kardeş olup dava konusu taşınmazlarda davacının paydaş olduğunu, annesinin intifa hakkı sahibi olarak göründüğünü, annesinin müvekkili ile aynı adreste ikamet ettiğini, kardeşi olan davalının dava konusu taşınmazlara haksız şekilde el atıp tasarruf ettiğini, "Yay Meydanı ... Sokak No:12/1 ... ..." adresinde bulunan taşınmazın davalı tarafından kiraya verilerek gelir elde edildiğini, davalının müvekkilden herhangi bir muvafakat almadığını, elde edilen gelirlerden müvekkiline ödeme yapılmadığını belirterek fazlaya ilişkin hakları saklı kalmak kaydı ile davalı tarafın dava konusu taşınmazlara haksız el atmasının önlenmesine ve şimdiye kadar sağlamış olduğu faydalar için geriye dönük 5 yıllık 5.000,00 TL ecrimisilin yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -147,6 +159,8 @@ Dava konusu 10511 ada 6 parsel sayılı taşınmazda davacı 15/149 payda ... m�
 Davacı vekilinin 6 parsel sayılı taşınmaz hakkında elatmanın önlenmesi talebine ilişkin temyiz itirazlarının kabulüne, sair temyiz itirazlarının reddine, temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/4451 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968205200)
 
 Davacı vekili dava dilekçesinde özetle; davacı kuruluşa ait 380 kv'lik Gökçekaya - İstanbul Enerji İletim Hattının 2258 - 2259 No.lu pilonları arasında Sakarya ili, ... ilçesi, ... Mevkii 716 ada ve 7 No.lu parselde inşa edilen inşaat dolayısı ile hattın emniyet mesafesine ve irtifak hakkına tecavüz edildiğini, Elektrik Kuvvetli Akım Tesisleri Yönetmeliğinin ilgili hükümleri uyarınca, bina ile hat arasında korunması gereken emniyet mesafelerinin ihlal edilerek can ve mal güvenliği ile işletme emniyetinin tehlikeye düşürüldüğünü, söz konusu hatta ilişkin irtifak hakkının, kuruluş tarafından tesis edilerek tapuya tescil edildiğini, kurum lehine tesis edilen irtifak ... nedeni ile hatta yapılan müdahalenin önlenmesinin gerektiğini, aksi takdirde binanın yangın çıkarmasının söz konusu olduğunu, gerekli işlemlerin yapılması ve müdahalenin önlenmesi için kuruluş tarafından Sakarya 4.
 
@@ -164,6 +178,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 ... Kanun'un 370 inci mad
 
 ## Yargıtay 5. HD 2022/12787 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/816454100)
+
 Mahkemece uyulan bozma kararı gereğince inceleme ve işlem yapılarak hüküm kurulmuş; karar, bir kısım davacılar ile davalı ... vekillerince temyiz edilmiştir.
 
 …
@@ -177,6 +193,8 @@ Dava konusu taşınmazda el atılan ve bedeline hükmedilen 205,75 metrekarelik 
 Bir kısım davacılar ile davalı ... vekillerinin temyiz itirazları yerinde görüldüğünden hükmün açıklanan nedenlerle HUMK'un 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/2307 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680899200)
 
 Davalı vekili cevap dilekçesinde; davacının maliki olduğunu iddia ettiği 43 ada 12 parsel arsa üzerinde ise Diyanet İşleri Başkanlığına Bağlı Kur’an kursu bulunduğunu, bu durumda davacının arsanın işgali ile ilgili talebini Diyanet İşleri Başkanlığına yöneltmesi gerektiğini, davalının dava konusu lojmanda ikamet ettiğini, cami ve müştemilatında tasarruf yetkisinin yalnızca diyanet işleri başkanlığına ait olduğunu belirterek, davacının taraf sıfatı bulunmadığı için öncelikle davanın usul bakımından reddine, davalı olarak dava konusu taşınmazda Diyanet İşleri Başkanlığının tasarruf yetkisi olması sebebiyle davaya dahil edilmesi gerektiğini belirterek davanın reddini savunmuştur.
 
@@ -196,6 +214,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazları ye
 
 ## Yargıtay 14. HD 2018/3324 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421991800)
+
 Dava, intifa hakkına elatmanın önlenmesi isteğine ilişkindir.
 
 Mahkemece davanın kabulüne karar verilmiştir.
@@ -207,6 +227,8 @@ Dava konusu taşınmaz üzerindeki intifa hakkı sona erdirilmediği sürece hak
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 14. HD 2017/6701 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378042200)
 
 Dava, suya vaki elatmanın önlenmesi, kal ve maddi tazminat isteklerine ilişkindir.
 
@@ -228,6 +250,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı ...'ın temyiz itirazlarının
 
 ## Yargıtay 1. HD 2017/2770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359003700)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davacı; 10/160 oranında paydaşı olduğu 295 ada 1 parsel sayılı taşınmaza davalı şirketin mermer çıkarmak suretiyle müdahalede bulunduğunu, daha önce aynı konuda açılan davanın açılmamış sayılmasına karar verildiğini ileri sürerek, davalının haksız el atmasının önlenmesi ve dava tarihinden geriye doğru 57.836-TL ecrimisilin davalıdan tahsiline karar verilmesini istemiştir.
@@ -248,6 +272,8 @@ Davalı vekilinin, bu yöne değinen temyiz itirazları yerindedir. Kabulü ile 
 
 ## Yargıtay 14. HD 2015/6836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136995600)
+
 Dava, intifa hakkına konu taşınmaza elatmanın önlenmesi ve taşınmazın teslimi isteğine ilişkindir.
 
 Davalı, davanın reddini savunmuştur.
@@ -263,6 +289,8 @@ Eldeki davada da taraflar arasında dava konusu 252 ada 75 ( yeni 104) parsel sa
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, (2) numaralı bent uyarınca hüküm sonucunun dördüncü bendinde yer alan "10.000,50" rakamının hükümden çıkarılarak yerine "1.200,00" rakamının eklenmesi suretiyle düzeltilmesine, hükmün DÜZELTİLMİŞ ve değiştirilmiş bu şekli ile ONANMASINA …
 
 ## Yargıtay 14. HD 2015/1076 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/179993300)
 
 Dava, intifa hakkına elatmanın önlenmesi isteğine ilişkindir.
 
@@ -280,6 +308,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 6. HD 2014/13301 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97410200)
+
 Davada dayanılan ve hükme esas alınan 25.05.2007 düzenleme ve 01.03.2012 bitim tarihli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Mülkiyeti davalı belediyeye ait dava ve sözleşme konusu parsel No'lu taşınmazların intifa hakkının belediye tarafından 05.11.1993 tarihinde davalı şirkete devredilmesinden sonra, davalı şirket ve davalı belediye arasında aynı taşınmazlara ilişkin 01.08.1994 başlangıç tarihli ve bir yıl süreli kira sözleşmesi akdedilerek tapu siciline şerh edilmiştir. Davalı şirket de, gerek intifa hakkına, gerek taşınmazlardaki kiracılık sıfatına dayanarak ilki 12.08.2003, diğeri 25.5.2007 tarihli kira sözleşmeleri ile taşınmazı davacı şirkete kiralamış, kira sözleşmesi de yine tapu siciline şerh edilmiştir. Ne var ki süreç içinde davalı belediyeye ait kamu mallarının kırkdokuz yıllığına ihalesiz kiralanması nedeniyle, bu konuda yapılan müfettiş incelemesini takiben, taşınmazların davalı şirkete kiralanmasına ilişkin belediye meclis kararı iptal edilerek, davalı belediye tarafından davalı şirket hakkında tahliye davası açılmış, söz konusu davada verilen tahliye kararı kesinleşerek davalı belediye tarafından icraya konulmuştur.
 Bu arada işbu davanın 13.02.2012 tarihinde açılmasından önce, davalı şirket lehine tapu siciline konulan intifa hakkı ve kira şerhi 28.07.2011 tarihinde terkin edilmiş, kiralanan da yargılama sırasında 09.11.2012 tarihinde icra kanalı ile tahliye edilmiştir. Davacı açmış olduğu işbu dava ile kesinleşen tahliye kararı nedeniyle kiralanan iş yerine tebliğ edilen tahliye muhtırası üzerine kiralanan taşınmazlardaki kiracılık sıfatının tespitini, bu konudaki müdahalenin önlenmesini ve muarazanın giderilmesini talep etmiştir. Davacı şirket ile taşınmazların maliki davalı belediye arasında doğrudan bir hukuki ilişki bulunmamaktadır. Taşınmazlara ilişkin kira sözleşmelerini intifa hakkı sahibi ve kiracılık sıfatı bulunan davalı şirket ile yapmıştır.
 Sözleşmelerin yapıldığı tarih itibariyle davalı şirketin yasal ve sözleşmesel haklarına dayanarak bu şekilde taşınmazdan yararlanma ve kiraya verme hak ve yetkisi bulunmakla birlikte, davalı belediyenin sözleşme konusu taşınmazlara ilişkin idari yönden bürokratik usule aykırı tasarrufları süreç içinde giderilerek, bu konuda alınan belediye meclis kararı iptal edilmiş, kesinleşen dava sonucu davalı şirketin taşınmazlardan tahliyesine karar verilmiş ve intifa ve kira şerhleri de tapu sicilinden terkin edilmiştir. Başka bir anlatımla, davalı şirketin taşınmazlara ilişkin tasarruf hakları ortadan kalkarak, tamamen davalı belediyeye geçmiştir. Davacı ise taşınmazları o dönemde intifa hakkı sahibi olan ve kiracılık sıfatı bulunan davalı şirket ile akdettiği kira sözleşmeleri gereğince kiracı ( alt kiracı ) sıfatı ile kullanmıştır. Ancak yukarıda açıklandığı üzere, tahliye davası sonucu davalı şirketin kiracılık sıfatı sona erdiği gibi, intifa hakkının terkini ile de taşınmaza ilişkin tasarrufta bulunma hakkı da ortadan kalkmıştır. Diğer bir deyişle, davacı şirketin davalı şirketle akdettiği kira sözleşmeleri dayanaksız kalmıştır.
@@ -289,6 +319,8 @@ Bu nedenle mahkemenin davanın reddine karar vermesi gerekirken, yazılı gerek�
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 428.maddesi uyarınca hükmün BOZULMASINA ve bozma sebebine göre davacı vekilinin temyiz itirazlarının şimdilik incelenmesine yer olmadığına …
 
 ## Yargıtay 14. HD 2014/8108 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105556000)
 
 Davacı; .. parsel sayılı taşınmazda 15.04.2008 tarihinden başlamak üzere 15 yıl süre ile ..parsel sayılı taşınmazda ise 19.09.2008 tarihinden başlamak üzere 20 yıl süre ile intifa hakkı sahibi olduğunu, intifa hakkını davalı ile yapılan 15.06.2008 tarihli bayilik sözleşmesi uyarınca kullandıklarını, bayilik sözleşmesinin feshedilmesine rağmen akaryakıt istasyonunun kendilerine teslim edilmediğini ileri sürerek intifa hakkına elatmanın önlenmesini ve akaryakıt istasyonunun kendilerine teslimini istemiştir.
 

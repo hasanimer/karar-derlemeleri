@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/91 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646424400)
+
 Davacı vekili 30.10.2007 havale tarihli asıl dava dilekçesinde; müvekkilinin Üsküdar ilçesi, .....Sokakta kain 98 ada 13 parsel sayılı taşınmazın maliki olduğunu, komşu 98 ada 38 parselde malik olan davalıların hiçbir akdi ve kanuni sebebe dayanmaksızın müvekkiline ait taşınmaza (krokide A ile işaretli) bina yapmak suretiyle müdahale ettiklerini ileri sürerek, davalıların müdahalelerinin meni ile taşınmazdan tahliyelerine, haksız işgal nedeniyle fazlaya ilişkin hakları saklı kalmak kaydı ile 01.07.2002-31.01.2007 tarihleri arasında birikmiş 4.781.00TL tazminatın işgalin başlangıcından itibaren kademeli faizi ile davalılardan müştereken ve müteselsilen tahsiline karar verilmesini istemiştir.
 
 …
@@ -136,6 +138,8 @@ Asıl ve birleştirilen davada davalı idare vekilinin yerinde görülmeyen tüm
 
 ## Yargıtay 5. HD 2025/15435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197211500)
+
 Davacı vekili dava dilekçesinde özetle; müvekkilinin Kocaeli ili, ... ilçesi, ... Mevkiinde kâin 40... parsel sayılı (yenileme ile 5 32... parsel) taşınmazın maliki olduğunu, müvekkilinin malik ve mutasarrıfı olduğu taşınmazın ... Başkanlığının kararı ile Üniversite Alanı, Yüksek Eğitim Tesisleri ve Kampüs Alanı olarak belirlendiğini, dava konusu taşınmazın da bulunduğu bölgenin 11.06.2011 tarihli ve 27961 sayılı mükerrer RG'de yayımlanan 2011/1813 karar sayılı Bakanlar Kurulu Kararı uyarınca 4691 sayılı ...
 
 …
@@ -153,6 +157,8 @@ Davalı ... Yönetici A.Ş. vekilinin temyiz itirazları yerinde olduğundan Bö
 
 ## Yargıtay 5. HD 2025/15434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196533300)
+
 Davacı vekili dava dilekçesinde özetle; müvekillinin Kocaeli ili, ... ilçesi, ...
 
 …
@@ -169,6 +175,8 @@ Geliştirme Bölgesi A.Ş olduğu anlaşılmakla, davalının husumet itirazın�
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/2084 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150632400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın davalı ... Genel Müdürlüğü yönünden pasif husumet yokluğu nedeniyle reddine, davalı ... yönünden davalı sıfatı kalmadığındanhakkında hüküm kurulmasına yerolmadığına, davalı ... yönünden dava konusuz kaldığından karar verilmesine yerolmadığına dair hüküm kurulmuştur.
 
@@ -190,6 +198,8 @@ Davalı ... Genel Müdürlüğü vekilinin yerinde görülmeyen tüm temyiz itir
 
 ## Yargıtay 5. HD 2024/9749 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121653400)
+
 Davacılar vekili dava dilekçesinde özetle; İstanbul ili, Küçükçekmece ilçesi, Küçükçekmece Mahallesi 8538 parsel (yeni ... 1423 ada 53 parsel) ve 9016 parsel sayılı taşınmazlara davalı idareler tarafından kamulaştırma işlemi yapılmadan fiilen el atıldığını, davacıların hissesine düşen kısım bakımından kamulaştırmasız el atma nedeniyle tazminat bedelinin tespit edilerek davalı idarelerden tahsilini talep etmiş olup 9016 parsel sayılı taşınmaz yönünden dava tefrik edilmiştir.
 
 …
@@ -205,6 +215,8 @@ Başkanlığının yetki ve sorumluluk alanında bulunduğundan husumetin doğru
 Davalı ... vekilinin davacı ... lehine hükmedilen tazminat bedeli yönünden yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/4980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056436600)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; kamulaştırmasız el atma tazminatı yönünden davalı ... Başkanlığına karşı açılan davanın husumet yokluğundan reddine, davalı ...
 
@@ -226,6 +238,8 @@ Ancak; dosyada bulunan kanıt ve belgelere göre dava konusu taşınmazın yarg�
 Davacılar ve davalı ... vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 11. HD 2024/3687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043793600)
 
 1\.
 

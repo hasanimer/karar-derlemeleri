@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2013/436 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254207300)
+
 Davacı, kayden malik olduğu 189 ada 20 parsel sayılı taşınmazın bir kısmına davalılarca inşaat yapmak suretiyle müdahale edildiğini ileri sürerek elatmanın önlenmesi ve ecrimisil isteğinde bulunmuş, yargılama sırasında ecrimisil talebinden feragat ettiğini bildirmiştir.
 
 Davalılar, dava konusu taşınmazı 1985 yılında dava dışı ...'dan satış vaadi sözleşmesi ile satın aldıklarını, davacının da 1986 yılında bitişik taşınmazı aynı kişiden satın alarak sınırlarını belirlediklerini ve uzun yıllar mevcut haliyle kullandıklarını belirterek davanın reddini savunmuşlar, temliken tescile karar verilmesini istemişlerdir.
@@ -40,6 +42,8 @@ Ancak, dava dilekçesinde gösterilen (15.000,00 TL) dava değeri üzerinden dav
 
 ## Yargıtay 1. HD 2012/14333 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79510100)
+
 Dava, çaplı taşınmaza el atmanın önlenmesi ve yıkım, birleşen dava temliken tescil isteğine ilişkin olup, Mahkemece el atmanın önlenmesi isteğinin kabulüne, yıkım ve temliken tescil isteklerinin reddine karar verilmiştir.
 
 Gerçekten de çapa değer verilmek suretiyle el atmanın önlenmesi isteğinin kabulüne, TMK'nun 724 maddesinde öngörülen koşulların birleşen davacılar yönünden gerçekleşmediği saptanmak suretiyle, birleşen davanın reddine karar verilmiş olması doğrudur. Bu yönlere değinen tarafların tüm temyiz itirazları yerinde değildir.
@@ -50,11 +54,15 @@ Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün
 
 ## Yargıtay 1. HD 2012/14312 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79509900)
+
 Öte yandan, Dairenin elatmanın önlenmesi isteği bakımından harç alınmadığına değinen bozma kararında da usul ve yasaya aykırı bir yön bulunmamaktadır. O halde, henüz yöntemine uygun biçimde açılmış bir elatmanın önlenmesi davasının varlığından söz edilemeyeceğinden, Dairenin elatmanın önlenmesi ve ecrimisil açısından davanın kabulüne karar verilmesine yönelik bozma gerekçesi bu yönü ile doğru değildir.
 
 Hal böyle olunca, temliken tescil davacılarının (6100 sayılı HMK. nun geçici 3. maddesi yollaması ile) 1086 sayılı HUMK. nun 440. maddesi uyarınca karar düzeltme isteklerinin açıklanan nedenle kabulü ile Dairenin 10.07.2012 gün ve 2012/3874E - 8601 K. sayılı bozma kararının 4. paragrafında yer alan elatmanın önlenmesi ve ecrimisil isteğinin kabulüne değinen bölümün bozma kapsamından çıkarılmasına, diğer yönleriyle bozma kararının korunmasına,karar düzeltme dilekçesinde yazılı diğer hususların HUMK nun 440. maddesinde yazılı hallerden hiç birine uymaması nedeniyle isteklerin reddine, yerel mahkemenin 30.03.2011 gün ve 2008/148 E - 2011/140 K. sayılı kararının bu şekilde ve Daire bozma kararında belirtildiği gibi sadece harç alınmaması bakımından (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA, 03.12.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 14. HD 2012/13976 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/245465900)
 
 Davacı, komşu taşınmaz maliki tarafından bina yapılmak suretiyle taşınmazına yapılan haksız elatmanın önlenmesini, komşuluk hukukuna aykırı olarak açılan pencerelerin kapatılmasını, yığma toprak ve perde betonlarının kaldırılmasını talep etmiştir.
 
@@ -70,6 +78,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/8601 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79286000)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil, birleşen davalar temliken tescil isteklerine ilişkin olup,asıl davanın kısmen kabulüne ,birleşen davaların reddine karar verilmiştir.
 
 …
@@ -82,9 +92,13 @@ Hal böyle olunca; tarafların bu yönlere ilişkin temyiz itirazları yerindedi
 
 ## Yargıtay 1. HD 2012/6237 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/942658700)
+
 Mahkeme kararındaki nitelendirmeye göre dava, muhtesatın tespiti; birleşen davalar, temliken tescil, elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece davanın ve birleşen davanın elatmanın önlenmesi davasının kısmen kabulüne, temliken tescil ile ecrimisil taleplerinin reddine karar verildiği hükmün davalı birleşen dosya davacıları tarafından temliken tescil isteğine, davacılar birleşen dosya davalıları tarafından ise ecrimisil isteğine ilişkin olarak temyiz edildiği anlaşılmaktadır.Öncelikle temliken tescile yönelik temyiz itirazlarının karara bağlanması gerekmektedir.
 
 ## Yargıtay 1. HD 2012/3543 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915223500)
 
 Davacılar, kayden paydaşı oldukları 54 parsel sayılı taşınmaza, davalının haklı ve geçerli bir nedeni olmaksızın taşkın yapılanmak, odun koymak, ağaç dikmek, yol olarak kulanmak suretiyle müdahale ettiğini ileri sürerek, elatmanın önlenmesi ve yıkım isteğinde bulunmuştur.
 
@@ -99,6 +113,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi ve yıkım isteğine ilişkin ol
 Her nekadar, taşkın yapılanmada ... Medeni Kanunu'nun 725. maddesine dayanılarak savunma yoluyla temliken tescil isteğinde bulunulabilirse de somut olayda, davalının, kadastral parsele taşkın olacak şekilde yapılandığı, inşaata başlamadan önce iyiniyetli olduğunu gösterir bir delil veya resmi aplikasyonunun bulunmadığı gözetildiğinde, yazılı olduğu üzere elatmanın önlenmesine ve yıkıma karar verilmiş olmasında bir isabetsizlik bulunmadığına göre, davalının temyiz itirazı yerinde değildir.
 
 ## Yargıtay 14. HD 2012/930 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661680200)
 
 Davalı, savunma olarak Türk Medeni Kanununun 725.maddesi uyarınca davacıların maliki olduğu 4 sayılı parsele taşkın yapılan yapı bölümlerinin adına tescilini istemiştir.
 
@@ -116,6 +132,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/15850 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663413900)
+
 Davalı, davanın reddini savunmuş, birleşen davasında ise Türk Medeni Kanununun 724.maddesine dayanarak temliken tescil ve tazminat istemlerinde bulunmuştur.
 
 Mahkemece, asıl davanın kabulü ile 13 parsel sayılı taşınmaza davalının elatmasının önlenmesine, ecrimisil isteminin kısmen kabulüne, birleşen tapu iptali ve tescil isteminin reddine, birleşen davanın davalıları ... ve ... aleyhinde açılan tazminat davasının reddine, ... hakkındaki tazminata yönelik davanın ise tefrikine karar verilmiştir.
@@ -129,6 +147,8 @@ Kanununun 722, 723. ve 724. maddelerinde özel olarak düzenlemiştir. Uyuşmazl
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 1. HD 2011/13063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79341200)
 
 Davacı, kayden malik olduğu 964 parsel sayılı taşınmaza sınır komşusu 251 parsel maliki davalının taşkın yapılaşmak ve ağaç dikmek suretiyle müdahale ettiğini ileri sürerek elatmanın önlenmesi ve yıkıma, birleşen davanın ise reddine karar verilmesini istemiştir.
 
@@ -150,6 +170,8 @@ Davacı- birleşen davalının ( asıl davanın davacısının) bu yöne değine
 
 ## Yargıtay 1. HD 2011/12223 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79196000)
+
 Davacı, maliki olduğu 1916 ada 8 parsel sayılı taşınmaza komşu 7 parsel sayılı taşınmaza inşaat yapımı sırasında davalının taşınmazına tecavüz ettiğini ileri sürerek elatmanın önlenmesini ve yıkım istemiştir.
 
 Davalı, davanın reddini savunmuş ve taşkın bölümün temliken tesciline karar verilmesini istemiştir.
@@ -168,11 +190,15 @@ Davacının temyiz itirazları yerindedir.Kabulü ile hükmün açıklanan neden
 
 ## Yargıtay 14. HD 2011/8239 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760279900)
+
 Türk Medeni Kanununun 725. Maddesine dayalı taşkın yapıdan ötürü tescil davalarının kabulünde aranan en önemli koşullardan birisi taşkın yapı ile taşınmazın bütünleşmesi, başka bir ifade ile taşan kısmın taşınmazın ayrılmaz parçası haline gelmesidir. Bilirkişi raporundan davacı taşınmazına 61,25m2 tecavüzlü olan bahçe duvarının basit eklenti niteliğinde yapı olduğu anlaşılmaktadır. Bu tür yapıların arzla birleştiği, onun ayrılmaz parçası haline geldiği düşünülemeyeceğinden yapı sahibinin Yasanın 725.maddesine dayanarak açtığı mahkemece birleştirilen temliken tescil davasının reddine asıl dava olan elatmanın önlenmesi ve kal davasının ise kabulüne karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiş, bu sebeple kararın bozulması gerekmiştir.
 
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/3326 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759869100)
 
 Mahkemece asıl davanın reddine, birleşen davanın kısmen kabulü ile çaplı taşınmaza davalıların elatmalarının önlenmesine karar verilmiş, vazgeçme sebebiyle kal istemi reddedilmiştir.
 
@@ -188,6 +214,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/2938 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759755500)
+
 Davacı, davalının bitişik olan evlerinin çatısında ortak kullanılan çatı duvarını yükselterek zarar verdiğini ,eski hale getirilmesini istemiştir.
 
 …
@@ -199,6 +227,8 @@ Yargılama devam ederken davacı tarafından dava konusu yer ile ilgili olarak d
 SONUÇ: Yukarıda yazılı nedenlerle davacı-karşı davalı ... vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/2742 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760984300)
 
 Davalı, davacıların iyiniyetli olmadığını, açılan davanın reddini savunmuş, birleşen davasında ise çaplı taşınmaza yapı yapılarak oluşan haksız elatmanın kaldırılmasına, yapıların kal’ine, davacılardan ecrimisil tahsiline karar verilmesini talep etmiştir.
 
@@ -217,6 +247,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/2103 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761278100)
+
 Davacı, davalıya ait taşınmaza iyi niyetle yaptığı balkon ve merdivenin bedelinin zemin değerinden fazla olduğunu 35,09 m2 kısmının adına tescilini istemiştir.
 
 Davalı davanın reddini savunmuş, …
@@ -232,6 +264,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabu
 
 ## Yargıtay 14. HD 2011/1714 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763813100)
+
 Davalı, çekişme konusu 153 ada 6 sayılı parselin dava dışı köy tüzel kişiliği tarafından davacının murisine tahsil edildiğini, ondan haricen satın aldığını ve üzerine kendi malzemesiyle bina inşa ettiğini, açılan davanın reddini, savunma yoluyla da Türk Medeni Kanununun 724.maddesi uyarınca taşınmazın adına tesciline karar verilmesini istemiştir.
 
 Mahkemece, asıl davanın reddine, koşulları gerçekleştiğinden 153 ada 6 parsel sayılı taşınmazın tapu kaydının iptali ile davalı adına tesciline karar verilmiştir.
@@ -245,6 +279,8 @@ Somut olaya gelince; gerçekten bir dava açılmış olmadan savunma yoluyla dav
 SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle davalının. diğer temyiz itirazlarının reddine, hükmün 2.bentte yazılı nedenlerle davalı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/13610 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770040600)
 
 Dava, elatmanın önlenmesi ve kal, birleşen dava tapu iptali ve tescil istemine ilişkindir.
 
@@ -260,6 +296,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/11121 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/921371000)
+
 Davacı, kayden maliki olduğu 5 parsel sayılı taşınmaza komşu 6 parsel maliki davalıya ait yapının taşkın olduğunu ileri sürerek, elatmanın önlenmesi ve yıkım ile 1.000.00.-TL yıkım bedelinin yasal faizi ile davalıdan tahsilini istemiştir.
 
 Davalı,davanın reddini savunmuştur.
@@ -273,6 +311,8 @@ Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal g
 Ancak, bir taraftan yıkım suretiyle elatmanın önlenmesine karar verildiği halde, infazı ilgilendiren ve infaz aşamasında ortaya çıkacak yıkım masraflarınında karar altına alınmış olması doğru değil ise de; anılan yanlışlığın giderilmesi yeniden yargılamayı gerektirmediğinden, 2. fıkranın hükümden çıkartılmasına ve kararın bu haliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 1. HD 2010/10454 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78611100)
 
 Davacılar, maliki oldukları 21 ada 2 ve 5 sayılı kadastral parsellerin yenileme çalışmaları sonucu 141 ada 16 ve 12; davalı köy tüzel kişiliğine ait eski 1 nolu parselin 15, diğer davalıların paydaş bulundukları eski 16 nolu parselin 14 parsel sayılı taşınmazlar olarak tescil edildiklerini,ancak gerek genel kadastro sırasında gerekse yenileme çalışmalarında fiili sınırların dikkate alınmadığını, kadastral paftada ne şekilde ve nezaman çizildiği belli olmayan kurşun kalem ile belirlenmiş sınıra itibar edilerek yenileme paftalarının düzenlendiğini, hatalı ve usulsüz ölçümler sonucu yolsuz tesciller yapıldığını ileri sürerek, tapu iptali ve tescil isteğinde bulunmuşlardır.
 
@@ -292,6 +332,8 @@ Davacıların temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan n
 
 ## Yargıtay 1. HD 2010/1433 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78700000)
+
 Davalı, davanın reddini savunup, savunma yolu ile temliken tescil istemiştir.
 
 Mahkemece, davacı iddiası sabit görülerek davacının davasının kabulüne, davalının temliken tescil isteğinin usulüne uygun açılmış bir dava bulunmadığı gerekçesiyle reddine karar verilmiştir.
@@ -310,6 +352,8 @@ Davalının, temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan ned
 
 ## Yargıtay 1. HD 2009/13640 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78761400)
+
 Davacı, paydaşı olduğu 104 parsel sayılı taşınmaza komşu 105 parsel sayılı taşınmaz bağımsız bölüm malikleri olan davalıların taşkın yapılaştığını, ileri sürerek elatmanın önlenmesine ve taşkın yapının yıkımına , haksız kullanım nedeniyle geriye dönük 5 yıllık ecrimisil bedelinden fazlaya ilişkin hakları saklı kalmak kaydıyla 1.000 TL’nin davalılardan tahsiline karar verilmesini istemiştir.
 
 Davalılar, iyiniyetli 3. kişi konumunda olduklarını, yapının tecavüzlü olduğunu bilemeyeceklerini, çekişmeli yapının niteliği ve hali hazırdaki fiili durumu itibariyle herhangi bir gelir getirmesinin sözkonusu olmadığını, ihtarname çekilmediğinden ecrimisil istenemeyeceğini, taşkın yapı olduğunun saptanması halinde TMK’nu 725. maddesine uygun işlem yapılması gerektiğini belirterek davanın reddini savunmuşlardır.
@@ -325,6 +369,8 @@ Dosya içeriği ve toplanan delillere ve kadastral yöntemlere uygun biçimde ya
 Davalıların bu yöne değinen temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerden ötürü HUMK’nu 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/4744 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849137400)
 
 Davacılar vekili tarafından, davalı aleyhine 27.3.2006 gününde verilen dilekçe ile müdahalenin meni, kal, davalı savunma olarak temliken tescil istenmesi üzerine yapılan muhakeme sonunda; meni müdahale ve kal talebinin kabulüne, davalının savunma olarak ileri sürdüğü temliken tescil talebinin reddine dair verilen 31.10.2006 günlü hükmün Yargıtayca, duruşmalı olarak incelenmesi davalı vekili tarafından istenilmekle, tayin olunan 14.4.2009 günü için yapılan tebligat üzerine temyiz eden davalı ... vekili Av.... geldi. Karşı taraftan gelen olmadı. Açık duruşmaya başlandı.
 

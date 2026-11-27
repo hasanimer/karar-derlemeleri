@@ -24,9 +24,13 @@ Türk Medeni Kanunu’nun 193. maddesi dikkate alındığında kural olarak eşl
 
 ## Yargıtay HGK 2014/890 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84073400)
+
 Türk Medeni Kanununda aile konutu konusunda farklı maddelerde düzenleme bulunmakta ise de temel düzenleme m. 194’de yer almıştır. Düzenlemeye göre; eşlerden biri, diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemeyecek, aile konutunu devredemeyecek veya aile konutu üzerindeki hakları sınırlayamayacaktır. Bilindiği gibi, Türk Medeni Kanunu temel felsefesi içinde kural olarak eşlerin birbirleri ve üçüncü kişilerle her türlü hukuki işlemi yapmaları serbestîsi kabul edilmişken(TMK m. 193), aile konutu ile bu kurala istisna getirilmiş, aile konutu üzerindeki tasarruflar diğer eşin rızasına bağlı kılınarak bu konuda sınırlamalar kabul edilmiştir(HGK. 28.09.2011 gün ve 2011/2-447 E, 2011/556 K). Düzenleme uyarınca malik olmayan eş tapu kaydına aile konutu şerhi konulmasını isteme hakkına sahiptir (TMK m. 194/3).
 
 ## Yargıtay HGK 2006/624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16204800)
 
 Anılan maddenin gerekçesinde ise "Bu madde ile İsviçre Medenî Kanununun 169. maddesine uygun olarak eşlerin hukukî işlemlerinde 193. maddeyle kabul edilen genel kuralın bir istisnasına yer verilmiştir. Madde eşlerin aile konutlarıyla ilgili hukukî işlemlerde eşlerin serbestliği ilkesine istisria getirmiş ve böylece aile konutu ile ilgili bazı hukukî işlemlerin diğer eşin rızasına bağlı olduğu kabul edilmiştir. Aile konutu eşlerin bütün yaşam faaliyetlerini gerçekleştirdiği, yaşantısına buna göre yön verdiği, acı ve tatlı günleri içinde yaşadığı, anılarla dolu bir alandır. Bu nedenle bu denli önemli toi^…
 
@@ -40,12 +44,18 @@ Anılan maddenin gerekçesinde ise "Bu madde ile İsviçre Medenî Kanununun 169
 
 ## Yargıtay 1. HD 2022/1688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782163900)
+
 Türk Medeni Kanunu'nun 193. maddesi hükmü ile eşlerin birbirleri ve üçüncü kişilerle olan hukuki işlemlerinde özgürlük alanı tanınmış olmakla birlikte, Türk Medeni Kanunu'nun 194. madde hükmü ile eşlerin aile konutu ile ilgili bazı hukuksal işlemlerinin diğer eşin rızasına bağlı olduğu kuralı getirilerek eşlerin hukuki işlem özgürlüğü, "Aile birliğinin korunması" amacıyla sınırlandırılmıştır. Buna göre, eşlerden biri diğer eşin "Açık rızası bulunmadıkça" aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez ve aile konutu üzerindeki hakları sınırlayamaz.
 
 ## Yargıtay 21. HD 2017/1328 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/330179300)
+
 Türk Medeni Kanununun 193. maddesi ile eşlerin birbirleri ve üçüncü kişilerler olan hukuki işlemlerinde özgürlük alanı tanınmış olmakla birlikte Türk Medeni Kanununun 194. madde hükmü ile eşlerin aile konutu ile ilgili bazı hukuksal işlemlerinin diğer eşin rızasına bağlı olduğu kuralı getirilerek eşlerin hukuki işlem özgürlüğü, "Aile birliğinin" korunması amacıyla sınırlandırılmıştır. Buna göre, eşlerden biri diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez ve aile konutu üzerindeki hakları sınırlayamaz.
 
 ## Yargıtay 4. HD 2013/20673 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/267528000)
 
 4721 sayılı Türk Medeni Kanunu'nun 194. maddesinde düzenlenen "aile konutu şerhi" konusundaki talep yönünden Aile Mahkemesi görevlidir. Muvazaa iddiasına dayalı diğer taleplerin ise genel hükümlere göre çözülmesi gerekmektedir. Şu durumda, dava konusu taşınmazın tapu kaydına aile konutu şerhi verilmesine ilişkin talebin dosyadan tefriki suretiyle; diğer talepler yönünden görevsizlik kararı verilmesi gerekirken, dosyanın tamamı yönünden görevsizlik kararı verilmesi doğru değildir. Kararın bu nedenle bozulması gerekir.

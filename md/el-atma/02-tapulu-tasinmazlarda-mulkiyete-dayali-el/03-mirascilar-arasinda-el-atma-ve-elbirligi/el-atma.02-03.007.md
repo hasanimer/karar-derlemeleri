@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 16. HD 2014/1652 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/363414800)
+
 2- 105 ad...8 parsel sayılı taşınmazlara ilişkin temyiz itirazlarına gelince; Dava konusu taşınmazların malik haneleri açık olarak tespit edilmiştir. Kadastro Kanunu'nun 30. maddesi gereği taşınmazlar üzerinde gerçek hak sahibinin mahkemece re'sen belirlenmesi zorunludur. Ne var ki, çekişmeli taşınmazlara komşu taşınmazların kadastro tutanakları ve varsa dayanak belgeleri getirtilerek taşınmaz yönünü ne olarak okudukları belirlenmemiş,....
 8 parsel sayılı taşınmazların sınırında orman olmasına rağmen bu bölümlerde orman araştırması yapılması gerektiği göz önünde bulundurulmamış olması nedeniyle yapılan araştırma ve inceleme hüküm vermeye yeterli olmadığı gibi, çekişmeli taşınmazların ...'dan kaldığı ve murisin terekesinin paylaşılmadığı kabul edilmek sureti ile hüküm kurulduğu halde ...'ın annesi ...'nin, mirasçı sıfatı bulunmayıp, terekeye göre 3. kişi durumunda olan kızı...'ya yaptığı pay devrinin geçerlilik arzetmeyeceği düşünülmeden ve yine ... eşi Şule'nin 3. kişi durumunda olması nedeni ile Durkadın tarafından adı geçene yapılan pay devrinin de geçerli olmayacağı kararda vurgulanmasına rağmen hükümde kendisine pay verilmesi isabetsiz olduğu gibi, davacı ... payına müdahale olup olmadığı yönünden araştırma yapılmamış olması ve dosyada bulunan men'i müdahaleye ilişkin ilamın tartışılmaması da isabetsiz, ayrıca malik hanesi açık bırakılmak sureti ile tespit edilen ve temyize konu dosya kapsamında mahallinde keşif yapılan 139 ada 4 parsel sayılı taşınmaz hakkında Mahkemece hüküm kurulmaması da isabetsizdir. Bu şekilde eksik araştırma ve ineleme ile hüküm kurulamaz.
 Mahkemece öncelikle, çekişmeli taşınmazlara komşu taşınmazların kadastro tutanakları ve varsa dayanak belgeleri getirtilmeli bundan sonra çekişmeli taşınmazları ve çevreyi iyi bilen yaşlı, yansız mahalli bilirkişiler seçilmeli, taraf tanıkları, mahalli bilirkişiler, tespit bilirkişileri ve uzman fen bilirkişisi, 3 kişilik ziraatçi bilirkişi kurulu ve orman bilirkişisinden oluşan bilirkişi kurulu ile taşınmazlar başında yeniden keşif yapılmalı, çekişmeli taşınmazların evveliyatı, kullanım durumu, kimden kime ne şekilde intikal ettiği somut olaylara dayandırılarak açıklattırılmalı, tanık ve bilirkişi beyanları komşu parsel tutanakları ile denetlenmeli, mahalli bilirkişilerin beyanları ile tespit bilirkişilerinin beyanları arasında çelişki meydana gelmesi halinde çelişkiler giderilmeye …
@@ -29,6 +31,8 @@ Mahkemece öncelikle, çekişmeli taşınmazlara komşu taşınmazların kadastr
 çalışılmalı, uzman fen bilirkişisinden keşfi ve uygulamayı gösterir harita ve rapor alınmalı, çekişmeli taşınmazların ne zamandan beri kim tarafından ne şekilde kullanıldığı, kimden kime ne şekilde intikal ettiği, taşınmazların vasfı kesin olarak belirlenmeli, tüm taraf delilleri toplanmalı ve değerlendirilmeli ve hasıl olacak sonuca göre bir karar verilmelidir. Belirtilen yönler göz ardı edilerek eksik araştırma, inceleme ve uygulamaya dayalı olarak yazılı olduğu şekilde karar verilmesi isabetsiz olup, temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 5. HD 2013/8401 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/268806600)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -44,6 +48,8 @@ Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan
 
 ## Yargıtay 1. HD 2013/4029 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79713500)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Mahkemece, elatmanın önlenmesi talebi yönünden bir kısım paydaşların kullandıkları yer olduğunun tanık beyanlarından anlaşıldığı, ecrimisil talebi bakımından ise iştirak halinde paylarda tasarrufun mümkün olmadığı ve ecrimisil talep edilemeyeceği gerekçesiyle davanın reddine karar verilmiştir.
@@ -58,6 +64,8 @@ Davacıların temyiz itirazının kabulü ile, hükmün açıklanan nedenlerle (
 
 ## Yargıtay 20. HD 2013/2209 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813047900)
+
 Hükmüne uyulan bozma kararında özetle; "Asliye Hukuk Mahkemesinde açılan elatmanın önlenmesi davasına konu olan taşınmazların hangi parseller olduğu, tesbit tutanağı düzenlenip düzenlenmediğinin belirlenmesi, malik haneleri açık ise tüm tutanaklar getirtilerek davaya birlikte bakılması, kabule göre de, taşınmazların davalının babası adına tapuda kayıtlı olduğuna, davalının babası muris ...’nın 1941 yılında öldüğüne ve terekesi iştirak halinde mülkiyet hükümlerine göre paydaşlara geçeceğine göre, paydaşlardan ...’nin yaptığı satışın geçersiz olduğu halde ... payının davacı adına tescile karar verilmesinin isabetsiz olduğu” gereğine değinilmiştir.
 Mahkemece, bozma kararına uyulduktan sonra müdahil Orman Yönetiminin davasının reddine, davacı ...’in kök muris ...’dan, ...’ye, kalan 1/4 hisseyi ölünceye kadar bakma akti ile kendisine kaldığını iddia ettiği parsellere yönelik elatmanın önlenmesinin reddine (25.08.1951 tarih 264 yevmiye no senet geçersiz kabul edildiğinden) 484 nolu parselin ... mirasçıları adına tesciline, 828, 829, 830, 847 ve 848 nolu parsellerin evvelce bütün iken 9 hisseye ayrıldığı, 3 hissesinin Aralık 1950 tarih 49 nolu tapu ile ...’e, 3 hissesinin Ağustos 1926 tarih 8 nolu tapu ile ...’e, 3 hissesinin Mayıs 1962 tarih 55 nolu tapu ile ...’a kayıtlı olup, ... ve ...’in hisselerine itiraz edilmediği, Ali oğlu ...’dan gelen 3/9 hissesinin dava edildiği anlaşıldığından tesbit tutanağının iptali ile 3/9 ...’dan gelen payın ... mirasçıları adına tesciline 1144, 1145, 1146, 1147 ve 1148 nolu parsellerin yukarıda bahsedilen tapu kaydı kapsamındaki yerlerden miktar fazlası olarak ayrıldığı, orman ve mera olmadığı, tarla niteliğinde olduğu anlaşıldığından Hazine adına tesciline şeklinde hüküm kurulmuş; Hazine ve Orman Yönetimi ile davcılardan ... tarafından hükmün temyiz edilmesi üzerine, Yargıtay 20.
 Hukuk Dairesinin 27/12/2005 gün ve 2005/12570 - 16493 sayılı kararı ile 484 sayılı parsel yönünden onanmış, diğer parseller yönünden bozulmuştur.
@@ -67,6 +75,8 @@ Hukuk Dairesinin 27/12/2005 gün ve 2005/12570 - 16493 sayılı kararı ile 484 
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince, uzman orman bilirkişi kurulu tarafından eski tarihli hava fotoğrafları ve memleket haritasına dayalı olarak yöntemine uygun biçimde yapılan inceleme ve araştırma sonucunda çekişmeli taşınmazların orman sayılan yerlerden olduğu anlaşıldığına ve yazılı biçimde hüküm kurulmasında bir isabetsizlik bulunmadığına göre, yerinde görülmeyen temyiz itirazlarının reddi ile usûl ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 14. HD 2013/1528 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643481300)
 
 Dava, kira sözleşmesine dayalı elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -85,12 +95,16 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 3. HD 2012/23208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492198900)
+
 Dosyadaki belgelerden; davaya konu taşınmazın 2 katlı bina olduğu, zemin katta bulunan 2 dükkânın davalı ... tarafından kiraya verildiği, üst katta bulunan dairenin birisinde davalı ...'in, birisinde davalı ...'nin, birisinde davalı ...'in oğlu ...'ın oturduğu, taşınmazın önceden ortak muris ... adına kayıtlı olduğu, murisin taraflardan başka mirasçısının olmadığı, 16.03.2011 tarihinden itibaren ... (35,48 m²), ... (35,48 m²) ve ... (118,25 m²)'nin elbirliği ile taşınmazın malikleri olduğu, 16.03.2011 tarihinde davalı ...'nin miras payını davalı ...'e resmi senet ile sattığı anlaşılmaktadır. Ecrimisile konu edilen taşınmazda taraflar paydaştır. Paydaşlar kural olarak intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler.
 Ancak bu kuralın bir takım istisnaları vardır ki; bunlar, ecrimisil istenen taşınmazın (bağ, bahçe, işyeri gibi) doğal ürün veren ya da kiraya verilerek hukuksal semere elde edilen yerlerden olması, paylı taşınmazı işgal eden paydaşın bu yerin tamamında hak iddiası ve diğerlerinin paydaşlığını inkar etmesi, paydaşlar arasında yapılan kullanım anlaşması sonucu her paydaşın yararlanacağı ortak taşınmaz veya bölümlerinin belirli bulunması, davacı tarafından diğer paydaşlar aleyhine daha önce bu taşınmaza ilişkin elatmanın önlenmesi, ortaklığın giderilmesi, ecrimisil ve benzeri davalar açılmış bulunması halleridir. Bu ayrık durumlarda intifadan men koşulu aranmaz. Sözü edilen davaların açılmış olması durumunda ise; o dava dilekçesinin davalı paydaşlara tebliğ edildiği tarihten sonrası için intifadan men koşulu gerçekleşmiş sayılır.Somut olayda dava konusu yerler;
 2 adet dükkân (kira geliri getiren) ve 3 adet konut (kira geliri getirmeyen) olup; kira geliri getiren dükkânlar yönünden intifadan men koşulunun aranması mümkün değildir; kira geliri getirmeyen davalılar ve davalının oğlu tarafından bizzat kullanılan konutlar yönünden ise intifadan men koşulunun aranması; bunun için de tarafların arasındaki ortaklığın giderilmesi davasının incelenmesi gerekmektedir.Mahkemece kurulan hükmün HMK 297/2.maddesine uymadığı; hangi davalının hangi davacıya ne kadar ecrimisil ödeyeceğine karar verildiğinin anlaşılamadığı, ecrimisil ödemesine karar verilmiş olan davalının kim olduğunun belli olmadığı, diğer davalı hakkında verilen bir kararın bulunmadığı, mahkemece hükme dayanak alınan bilirkişi raporunda her bir davacı için 21.727 TL ecrimisil hesaplandığı halde, dayanak ve gerekçesi belirtilmeden 21.727 TL ecrimisilin iki davacıya ödenmesine karar verildiği; hükmün açık olmadığı, şüphe ve tereddüt uyandırdığı anlaşılmıştır.Mahkemece dava konusu dükkân ve dairelerin durumları ayrı ayrı değerlendirilerek kiraya verilen dükkânlar yönünden intifadan men koşulu aranmaksızın, kiraya verilmeyen daireler yönünden intifadan men koşulunun gerçekleştiği dönemlerin
 saptanması, tüm deliller değerlendirilerek konusunda uzman bilirkişilerden Yargıtay denetemine elverişli bilirkişi raporu alınması, ortaya çıkacak sonuca uygun bir karar verilmesi ve HMK'nun 297/2.maddesine uygun hüküm kurulması gerekmektedir.Eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup, bozmayı gerektirmiştir. Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/15723 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242998000)
 
 Davacı, kayden 13 ada, 16 ile 26 ve 113 ada, 27 parsel sayılı taşınmazların maliki olduğunu, davalının haklı bir nedene dayanmaksızın 1985 yılından beri taşınmazları kullandığını ileri sürerek elatmanın önlenmesi ve ecrimisil isteklerinde bulunmuştur. Davalının yargılama sırasında ölmesi üzerine davacı davayı mirasçılardan Hıdır ile Nurettin aleyhinde devam ettirmiş, diğer mirasçılar hakkındaki davasından ise feragat etmiştir.
 
@@ -104,11 +118,15 @@ Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal g
 
 ## Yargıtay 3. HD 2012/14156 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534515200)
+
 Ecrimisile konu taşınmazlarda taraflar elbirliği halinde malik olup, mahkemece yapılan keşif ile taşınmazların tamamının tarla vasfında olduğu belirlenmiştir.Kural olarak bir taşınmazın paydaşları veya ortakları, intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi de; ecrimisil istenen süreden önce davacı ortağın davaya konu taşınmazlardan ya da gelirinden yararlanma isteğini davalı ortağa bildirilmiş olmasına bağlıdır. Ancak, bu kuralın bir takım istisnaları vardır. Mesela, tabii ( meyve veren ağaçlar) ya da hukuki ( kiraya verilerek kira geliri elde edilmesi ) semere getiren taşınmazlar için bu şartın gerçekleşmiş olması lüzumu olmadığı gibi, Yargıtay'ın yerleşmiş uygulamasına göre, taşınmazı kullanan malikin diğer maliklerin hakkını inkâr etmiş olması halinde de intifadan men şartı aranmaz.
 Ayrıca, yararlanma dileğinin açıklanması koşulu ile davacının açtığı izale-i şüyu davasının dilekçesinin tebliğ tarihi, keza icra emrinin tebliğ tarihi, murisin mirasçılardan mal kaçırdığından söz edilerek dava konusu taşınmazların tapularının iptali için açılan tapu iptal davasına ilişkin dilekçenin tebliğ tarihi, daha önce aynı yer için açılan ve intifadan men koşulunun gerçekleşmediğinden ötürü ret edilen ecrimisil davasına dair davalı tarafa tebliğ edilen önceki dava dilekçesi ile taraflar arasındaki sonuçlanmış önceki tarihli elatmanın önlenmesi veya ecrimisil davaları intifadan men koşulunun oluşması için yeterli sayılmışlardır. Somut olayda; davacı tarafça, intifadan men koşulunun gerçekleştiğinin ispatı için tanık deliline dayanılmış ise de, dinlenilen tanıkların beyanları ile davalının intifadan men edildiği hususu kanıtlanamamıştır.Şu durumda mahkemece; intifadan men koşulunun gerçekleşip gerçekleşmediği hususunda davacı taraftan başkaca delili olup olmadığının sorulması ve ortaya çıkacak sonuca göre karar verilmesi gerekirken, tarla vasfındaki taşınmazların tabi semere getirdiği kabul edilerek intifadan men koşulu aranmaması doğru görülmemiştir.
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 1. HD 2012/8225 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79562900)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -124,6 +142,8 @@ Davacıların temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan n
 
 ## Yargıtay 1. HD 2012/7319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79432800)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 Mahkemece, davanın kısmen kabulüne karar verilmiştir.
@@ -137,6 +157,8 @@ Ne var ki yukarıda değinildiği üzere murislerinin elattığı bölümle oran
 Hal böyle olunca, davalı R. ve Ö.mirasçılarının temyiz itirazının kabulü ile, hükmün açıklanan nedenlerden ötürü(6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2012/3408 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670846100)
 
 Davacı ..., 10 parsel sayılı taşınmazına 9 parsel sayılı taşınmaz malikleri davalıların taşkın inşaat yaparak elattıklarını ileri sürerek, elatmanın önlenmesini ve binanın taşkın kısımlarının yıkılmasını istemiştir.
 
@@ -152,11 +174,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalılar vekilinin temyiz itirazlar�
 
 ## Yargıtay 7. HD 2012/923 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106747400)
+
 İddia ve savunmaya duruşma tutanaklarına yansıyan bilgi ve belgelere, bu yolla saptanan dava niteliğine dosya kapsamında toplanıp değerlendirilen delillere, delillerin takdir, tahlil ve tartışımına ilişkin hükümde gösterilen gerekçelere göre davacı-davalı ... ... mirasçıları ... ve paydaşları yararına 3402 Sayılı Yasanın 13/B-c maddesi hükmündeki koşulların oluşmadığı mahkemece yapılan keşif, uygulama ve toplanıp değerlendirilen delillerle belirlenmiş olduğundan ...'in sair temyiz itirazları yerinde değildir.
 
 Ne var ki, dava konusu 443 parsel sayılı taşınmaz üzerindeki narenciye ağaçlarının davacı-davalı ... ...'e ait olduğu tapu kütüğünün beyanlar hanesinde gösterildiğine göre davacı ... ve arkadaşlarının el atmanın önlemesi davasının reddine karar verilmesi gerekirken, davacı-davalı ... ...'in dava konusu 443 parsel sayılı taşınmaz üzerindeki muhtesatı kullanma haklarından mahrum edecek şekilde karar verilmesi isabetsiz, davacı-davalı ... ... mirasçısı ...'in temyiz itirazları bu nedenle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA, peşin alınan harcın istek halinde davacı-davalı ... ... mirasçısı ...'e iadesine, 20.02.2012 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 8. HD 2012/272 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521626400)
 
 Davacı dava dilekçesinde; dava konusu 120 ada 6 sayılı parselin büyük dedesi ...’a ait iken ölümü ile mirasçılarına intikal ettiğini, mirasçıları olan çocukları ... ile ...in bu yerleri uzun süre birlikte kullandıkları bunların ölümü ile de taşınmazın mirasçılarına geçtiğini hiçbir şekilde paylaşımın yapılmadığını kadastro çalışmaları sırasında sanki paylaşım yapılmış gibi yalnızca davalı ... adına tespit ve tescil edildiğini açıklayarak anılan parselin tapu kaydının iptali ile ... ve ... mirasçıları adına tapuya kayıt ve tesciline karar verilmesini istemiştir.
 
@@ -176,6 +202,8 @@ Davalı ...’ın temyiz itirazları bu bakımdan yerinde olduğundan kabulü il
 
 ## Yargıtay 7. HD 2011/8400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110908200)
+
 Dava; taşınmaz üzerinde bulunan muhtesatın mülkiyetinin tespiti istemine ilişkindir.
 
 Mahkemece; davalı ... ile miras bırakan ... ... arasında görülen müdahalenin men'i ve ecrimisil davası sonunda davalının bir kısım muhtesatları yaptığının mahkemece belirlendiği bu nedenle davalının hapis hakkını kazandığı, önceki günlü bu kararın davanın tarafları ve külli haleflerini bağlayacağı, davacının davasını kanıtlayamadığı gerekçesiyle davanın reddine karar verilmiş ise de, varılan sonuç ve gösterilen gerekçe davanın niteliğine ve yasal düzenlemelere uygun düşmemiştir.
@@ -191,12 +219,16 @@ kabul edilmesi, 4721 sayılı Türk Medeni Kanununun 684. maddesi hükmünde, bi
 
 ## Yargıtay 16. HD 2011/7194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784741300)
+
 Kadastro sırasında 106 ada 18 parsel sayılı 3045.73 metrekare yüzölçümündeki taşınmaz, kazandırıcı zamanaşamı zilyetliği nedeniyle ... Köyü Tüzel Kişiliğine ait olmakla birlikte Asliye Hukuk Mahkemesinde dava konusu olduğundan söz edilerek malik hanesi açık bırakılmak suretiyle tespit edilmiştir. Davacı ... vekili tarafından davalılar ... ve müşterekleri aleyhine Sulh Hukuk Mahkemesinde açılan elatmanın önlenmesi davası davaya konu olan parsel hakkında tutanak düzenlenmiş olması nedeniyle Kadastro Mahkemesine aktarılmıştır. Kadastro sırasında 106 ada 19 parsel sayılı 663.01 m2 yüzölçümündeki taşınmaz kazandırıcı zamanaşımı zilyetliği nedeniyle ... oğlu ... adına tespit edilmiştir. Davacı ..., yasal süresi içinde satın alma, irsen intikal ve kazandırıcı zamanaşımı zilyetliğine dayanarak 106 ada 19 parsel sayılı taşınmazın ... ... mirasçıları adına tescili istemiyle dava açmıştır.
 Kadastro Mahkemesinde dava dosyaları birleştirilerek yapılan yargılama sonunda devreden dava yönünden ... tarafından açılan davanın ve men'i müdahale talebinin reddi ile 106 ada 18 parsel sayılı taşınmazın ... ... oğlu 1337 doğumlu ... mirasçıları adına verasette iştirak şeklinde tesciline; ... tarafından açılan davanın reddi ile 106 ada 19 parsel sayılı taşınmazın tespit gibi tesciline karar verilmiş; hüküm, ... vekili, ... ... mirasçıları vekili ve ... tarafından temyiz edilmiştir.
 
 Dosya içeriğine, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere, delillerin takdirinde bir isabetsizlik bulunmamasına göre yerinde olmayan temyiz itirazlarının reddiyle usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 16. HD 2011/1773 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/799612500)
 
 Kadastro sırasında ...,...,... ve 582 parsel sayılı ...,..., 2782, 31750 ve 21625 metrekare yüzölçümündeki taşınmazlardan, 575 ve 577 sayılı parseller satın alma, irsen intikal, vergi kaydı ve kazandırıcı zamanaşımı zilyetliğine, 582 sayılı parsel ise satın alma, irsen intikal ve kazandırıcı zamanaşımı zilyetliğine dayanılarak, miras payları oranında ... mirasçıları ... İçen ve paydaşları adına, 576, 579, 580 ve 581 sayılı parseller kıraç ve taşlık arazi olup, Devletin hüküm ve tasarrufu altındaki yerlerden olması nedeniyle Hazine adına, 578 sayılı parsel ise, hibe ve kazandırıcı zamanaşımı zilyetliği nedeniyle ... adına tespit edilmiştir. ... ve diğerlerinin itirazları nedeniyle Kadastro Komisyonunca, taşınmazların Asliye Hukuk Mahkemesinde davalı oldukları belirtilerek yetkisizlik kararı ile tutanaklar ve ekleri Tapulama Mahkemesine devredilmiştir. Davacı ... Kişiliğini temsilen Köy Muhtarı A... 'un, tespit tarihinden önce ... mirasçıları ..., ..., ... ve ... İçen aleyhine Asliye Hukuk Mahkemesine açtığı müdahalenin men'i davası hakkında 1981/491-1984/338 sayılı ve 30.11.1984 tarihli karar ile davanın H.U....nun 409/5. maddesi gereğince açılmamış sayılmasına karar verilmiştir.
 Mahkemece Kadastro Komisyonunca yetkisizlik kararı ile devredilen davalara ilişkin dava dosyaları birleştirilerek sözü edilen Asliye Hukuk Mahkemesi dosyası getirtilip, dosyaya konulmak suretiyle yapılan yargılama sonunda davaların reddine; çekişme konusu 575, 576, 577, 578, 579, 580, 581 ve 582 sayılı parsellerin Hazine adına tesciline; 575 sayılı parsel üzerinde bulunan elma ağaçlarının ... İçen'in mirasçıları olan davalılara ait olduğu hususunun tapunun beyanlar hanesinde gösterilmesine karar verilmiş; hüküm davalı ... İçen mirasçıları ..., ..., ...,...,... İçen tarafından temyiz edilmiştir.

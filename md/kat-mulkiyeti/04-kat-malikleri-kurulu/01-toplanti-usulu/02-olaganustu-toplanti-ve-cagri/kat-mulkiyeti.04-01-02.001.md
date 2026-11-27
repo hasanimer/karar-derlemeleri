@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2016/194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232518100)
+
 Dosyadaki yazılara, kararın dayandığı kanıtlarla yasal gerektirici nedenlere, yönetim planının 17. maddesine göre olağan genel kurul toplantılarının her yılın Ocak ayında yapılacağı öngörüldüğünden 31.10.2006 ve 08.02.2007 tarihli toplantıların olağanüstü toplantı olup çağrı usulüne uyulmadığından iptaline karar verilmiş olmasında ve özellikle kanıtların takdirinde bir isabetsizlik görülmemesine göre sair temyiz itirazları yerinde değildir.
 
 ## Yargıtay HGK 2012/644 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77368700)
 
 Ancak;Dosya içindeki bilgi ve belgelerin incelenmesinde; iptali istenen 29.06.2008 tarihli toplantının olağanüstü toplantı olduğu ve davacıya Kat Mülkiyeti Yasası'nın 29/2. maddesine uygun şekilde 15 gün önceden tebligat yapıldığı, davacının bu toplantıya katılmadığı, bu toplantı için kat malikleri kurulunu olağanüstü toplantıya çağıran yöneticinin 08.06.2008 tarihli toplantıda yönetici seçildiği ve toplantı çağrısı yaptığı tarihte anataşınmazın yöneticisi olduğu anlaşılmaktadır.
 
@@ -34,16 +38,22 @@ Temyizen incelenen karar, tarafların karşılıklı iddia ve savunmalarına, da
 
 ## Yargıtay 5. HD 2025/10202 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167050500)
+
 Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan inceleme sonucunda; dava dilekçesinde davacının taleplerinin birden fazla olmasına rağmen, taleplerden her biri hakkında taraflara yüklenen borçların ve tanınan hakların, sıra numarası altında açıkça belirtilmediği, taleplerden her biri hakkında olumlu ya da olumsuz bir karar verilmediği, her bir talebi karşılayacak şekilde hüküm kurulmadığı, özellikle yönetim planı değişikliği yönünde alınacak kararların oy birliğiyle alınması gerektiği, dava dilekçesinde genel kurul kararlarının iptali de talep edilmekle, hangi kararlar için hangi nisaplarla karar alındığı hususunda detaylı inceleme yapılmadığı, bu nedenle hazirun listelerinin, çağrı davetiyelerinin, toplantı gündeminin, bu toplantıda kullanılan oylara ve vekaletnamelere ait listelerin site yönetiminden temin edilerek dosya içerisine alınmasından sonra, aralarında kat mülkiyeti hukuku alanında uzman mali müşavir bilirkişinin de olduğu bilirkişi kurulundan tarafların ve Yargıtayın denetimine elverişli rapor aldırılması, davacının kat malikleri kurulu toplantılarına katılıp katılmadığı tespit edilip 634 sayılı Kat Mülkiyeti
 
 Kanunu'nun (634 sayılı Kanun) 33 üncü maddesi uyarınca öngörülen süreler içerisinde davanın açılıp açılmadığının, her bir toplantı için ayrı ayrı değerlendirilmesi, 634 sayılı Kanun'un 29/2. maddesi uyarınca olağanüstü toplantılar için öngörülen usullere uyulup uyulmadığının tespit edilmesi ve oluşacak sonuca göre bir karar verilmesi gerekirken; eksik ve yetersiz inceleme neticesinde hüküm tesisinin doğru görülmediği gerekçesiyle İlk Derece Mahkemesi kararının bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/7760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188093500)
+
 Gider ve avans payının tamamını ödemeyen kat maliki ödemede geciktiği günler için aylık yüzde beş hesabıyla gecikme tazminatı ödemekle yükümlüdür." hükmü gözetilerek yasal oranın üzerinde gecikme tazminatı oranı belirlenmesi Kanunun emredici hükmüne aykırı olduğundan geçersiz olduğu, zira aidat borçlarını süresinde ödemeyen kat malikinin ödemede geciktiği günler için aylık %5 oranında gecikme tazminatı ödemekle yükümlü kılınması asıl olup, tüm kat maliklerince oy birliği ile alınmış bir karar olmadıkça kat malikinin yasal oranın üstünde gecikme tazminatından sorumlu tutulmasının mümkün olmadığı, diğer kararlar yönünden yapılan toplantılarda alınan kararlar yok hükmünde olmayıp davanın süresinde açılmadığının kabulü gerektiği; ancak gecikme tazminatının %10 olarak alınmasına ilişkin karar oybirliği ile alınmadığından geçersiz ve yok hükmünde olduğu, bu karara karşı açılan davanın süresinde kabul edilmesi ve yasal gecikme tazminatı oranının yükseltilmesine ilişkin kararın geçersiz olması nedeniyle bu kararın iptali gerektiğinden davanın kısmen kabulü ve kısmen reddi gerekirken yanılgılı değerlendirme ile davanın kabulüne karar verilmesinin doğru görülmediği gerekçesiyle İlk Derece
 Mahkemesi kararı kaldırılarak yeniden esas hakkında hüküm kurulmak suretiyle davanın kısmen kabul kısmen reddine, Kat Malikleri Kurulunun 10.02.2021 tarihli olağanüstü toplantısının 13 üncü maddesinde yer alan; "Ocak 2021 tarihinden bu güne ödemeyi geciktirenler ve bundan sonraki gecikmeler için aylık aidattan her ay için yüzde on(%10) temerrütle gecikme zammı alınmasına" ilişkin alınan karar yok hükmünde olduğundan iptaline, Kat Malikleri Kurulunun 10.02.2021 tarihli olağanüstü toplantısında alınan diğer kararlar yönünden davanın bir aylık hak düşürücü süre içerisinde açılmadığı gözetilerek fazlaya ilişkin talebin reddine karar verilmiştir.
 
 ## Yargıtay 5. HD 2024/5880 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060354900)
 
 Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan temyiz incelemesi neticesinde talep sonucundan daha azına karar verebilir. Talep olmadığı hâlde, kanuna aykırı olarak, toplantıda alınan bütün kararların iptaline karar verilmesi, Ayrıca, dava konusu toplantının olağanüstü toplantı olduğu ve 634 sayılı Kat Mülkiyeti Kanunu'nun (634 sayılı Kanun) 29 unu maddesinin ikinci fıkrasına göre davacıya davet/çağrı yapılmadığı anlaşılmakta ise de bu husus 634 sayılı Kanun'un 33 üncü maddesine göre yok veya butlan sebebi olmayıp, iptal edilene kadar geçerlidir. Toplantıya davet şartından toplantının veya bütün kararlarının iptaline karar verilebilmesi için davanın 1 ve 6 aylık hak düşürücü süreler içerisinde açılması gerekir. Mahkemece kararda belirtilen, Yargıtay (Kapatılan) 18. Hukuk Dairesinin 2015/15030 Esas sayılı ilamının incelenmesinde, dava hak düşürücü süre içerisinde açılmış olup, somut olay ile uyuşmamaktadır. O halde, davacıya olağanüstü toplantı daveti yapılmadığı gerekçesi ile hak düşürücü süre geçtikten sonra açılan davada, toplantı
 
@@ -54,19 +64,27 @@ Hukuk Dairesinin 2015/10364 Esas, 2015/9881 Esas sayılı kararlarında, ana yap
 
 ## Yargıtay 5. HD 2021/1946 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/640410200)
+
 Mahkemece 17/03/2016 tarihli karar ile davanın reddine karar verilmiş, davacı tarafça temyiz talebinde bulunulması üzerine YARGITAY ... Hukuk Dairesi. 2339 E, 2018/7963 K ile “ incelenen dosya kapsamına ve ana taşınmaza ait yönetim planının 19. maddesine göre; iptali istenen toplantıların olağanüstü toplantılar oldukları anlaşılmakla; mahkemece olağanüstü toplantılar için öngörülen süreye, şekil şartlarına ve diğer usullere uyulup uyulmadığı konusunda inceleme yapılması ve oluşacak sonuca göre bir karar verilmesi gerekirken, yazılı olduğu şekilde eksik ve yetersiz inceleme ile hüküm kurulması bozma nedenidir. 6100 sayılı Hukuk Muhakemeleri Kanununun 297/2. maddesi; "Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında
 
 verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir." hükmünü amirdir. Dava dilekçesi incelendiğinde davacının taleplerinin birden fazla olduğu, olup, buna göre hüküm fıkrasının tarafların taleplerini karşılayacak, infazda tereddüt yaratmayacak şekilde, açık ve maddeler halinde oluşturulması gerekirken, anılan kanun hükmüne aykırı olacak şekilde, taleplerden her biri hakkında taraflara yüklenen borç ve tanınan hakların, sıra numarası altında açıkça belirtilmemesi, hüküm oluşturulurken taleplerden her biri hakkında olumlu ya da olumsuz bir hüküm kurulmaması, bozmayı gerektirdiğinden” hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2021/1910 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663385900)
+
 İptali istenen 14/01/2016 tarihli toplantının olağanüstü kat malikleri toplantısı olduğu, davacıların toplantıya katıldığı tespit edilmekle 634 sayılı KMK'nın 29. maddesine göre, önemli bir sebebin çıkması halinde, yönetici veya denetçinin veya kat maliklerinin 1/3'nin istemi üzerine ve toplantı için istenilen tarihten en az 15 gün önce bütün kat maliklerine imzalattırılacak bir çağrı ya da taahhütlü mektupla, toplantı sebebi de bildirilmek şartıyla kat malikleri kurulu her zaman toplanabilir.” hükmünün düzenlendiği ve bu düzenleme karşısında olağanüstü toplantılarda gündem dışı konuların ele anılıp görüşülemeyeceği anlaşılmakla, mahkemece davaya konu toplantıdaki gündem dışı alınan kararların neler olduğu tespit edilerek bu kararların iptaline karar verilmesi gerekirken eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 5. HD 2021/1245 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663312500)
+
 Yönetim planına göre toplantının olağanüstü toplantı olduğu, Davacı ...’a toplantı çağrısının yapılmadığı ve toplantıya katılmadığı, bu yönü ile toplantının KMK.nın 29/2 maddesine aykırı olduğu, ayrıca toplantıda oy kullanan ..., ..., ... ve ...’in anagayrimenkulde malik olmadığı ve hangi bağımsız bölüm maliki adına oy kullandığının da tespit edilemediği; ... Derneğinin 3 bağımsız bölümü var iken 6 bağımsız bölüm yerine oy kullandığı, bir kısım bağımsız bölümlerin arsa paylarının farklı olduğu, bu hali itibariyle toplantı ve karar nisaplarının da hesaplanamadığı anlaşılmakla, davacı ... yönünden davanın kabulüne karar verilmesi gerekirken, reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2020/796 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573943900)
 
 Mahkemece davanın kabulüne dair verilen kararın davalı tarafça temyiz edilmesi üzerine Yargıtay 20. Hukuk Dairesinin 2017/3532 E.- 2018/5201 K. sayılı ilamı ile; “634 sayılı Kat Mülkiyeti Kanununun 29. maddesinin 1. fıkrasında, kat malikleri kurulunun yılda bir defadan az olmamak üzere yönetim planında gösterilen zamanlarda eğer böyle bir zaman gösterilmemişse her takvim yılının ilk ayı içinde toplanacağı; 2. fıkrasında ise önemli bir sebebin çıkması halinde yöneticinin veya denetçinin veya kat maliklerinden üçte birinin istemi üzerine ve toplantı için istenilen tarihten en az 15 gün önce bütün kat maliklerine imzalattırılacak bir çağrı veya taahhütlü mektupla, toplantı sebebi de bildirilmek şartıyla kat malikleri kurulunun her zaman toplanabileceğinin, 33. maddesinde ise kat malikleri kurulunca verilen kararlar aleyhine, kurul toplantısına katılan ancak 32. madde hükmü
 
@@ -74,10 +92,14 @@ gereğince aykırı oy kullanan her kat maliki karar tarihinden başlayarak bir 
 
 ## Yargıtay 13. HD 2019/7473 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514741500)
+
 Somut olayda davacı, davalı 2 ... Sitesi G Blok Yöneticiliğini temsilen ... ile aralarında 01.04.2012 tarihinde Avukatlık Ücret Sözleşmesi düzenlendiğini ve daha sonra site yönetimi tarafından haksız olarak azledildiğini ileri sürerek vekalet ücretinin tahsili amacıyla başlattığı takibe yapılan kısmi itirazın iptaline karar verilmesini talep etmiş,mahkemece bilirkişi raporu doğrultusunda davanın kısmen kabulüne karar verilmiştir. Dosya incelendiğinde;dosya arasında bulunan ... 4.Sulh Hukuk Mahkemesinin 2012/275 Esas sayılı dosyası ile kat malikleri kurulunun olağanüstü toplantısının ve alınan kararların iptali istemi ile dava açıldığı yapılan yargılama sonucunda davanın kabulüne karar verildiği, ikinci kısım G blok kat maliklerince 10/6/2012 tarihinde yapılan genel kurul toplantısının KMK hükümlerine uygun olmadığından iptaline, toplantıda yapılan seçimin ve alınan karların iptaline 05/12/2013 tarihinde karar verildiği ve verilen kararın 23/06/2014 tarihinde kesinleştiği, 2013 yılında yeni yönetim için seçim yapıldığı ve Tekin Özmenin yeniden seçilmediği anlaşılmaktadır. ... 4.Sulh Hukuk Mahkemesinin 2012/275 Esas sayılı davası ile davalı 2 ...
 Sitesi G Blok Yöneticiliğini temsil eden ...’nin temsil yetkisi ortadan kalkmış olup yeni yönetim tarafından da 2 ... Sitesi G Blok Yöneticiliği adına davayı takip eden avukata vekaletname verilmediği anlaşılmaktadır. Davalı tarafından sunulan ve dosya arasında bulunan kararlardan 2013 yılında site yönetimini yönetici olarak ... isimli şahsın temsil ettiği anlaşılmaktadır. Dava 27/12/2013 tarihinde açılmış olup davanın açıldığı tarihte davalı 2 ... Sitesi G Blok Yöneticiliğini ...’nin temsil yetkisi olmadığından onun tarafından verilen vekaletname de hükümsüzdür. Hal böyle olunca, mahkemece, davalı 2 ... Sitesi G Blok Yöneticiliğine usulüne uygun olarak dava dilekçesi, bilirkişi raporu tebliğ edilmeli, taraf teşkili sağlandıktan sonra işin esası hakkında tarafların iddia ve savunmaları değerlendirilerek bir karar verilmesi gerekir. Taraf teşkili tam olarak sağlanmadan yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2019/5847 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543353600)
 
 İptali istenen 21/05/2015 tarihli toplantının olağanüstü kat malikleri toplantısı olduğu, davacının toplantıya katılmadığı tespit edilmekle 634 sayılı KMK'nın 29. maddesine göre, önemli bir sebebin çıkması halinde, yönetici veya denetçinin veya kat maliklerinin 1/3'nin istemi üzerine ve toplantı için istenilen tarihten en az 15 gün önce bütün kat maliklerine imzalattırılacak bir çağrı ya da taahhütlü mektupla, toplantı sebebi de bildirilmek şartıyla kat malikleri kurulu her zaman toplanabilir.” hükmünün düzenlendiği ve bu düzenleme
 
@@ -85,10 +107,14 @@ karşısında olağanüstü toplantılarda gündem dışı konuların ele anıl�
 
 ## Yargıtay 20. HD 2019/5525 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540041500)
+
 Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, asıl dava yönünden davacı asilin 29.02.2015 tarihli duruşmadaki imzalı beyanında, yetki belgesini 2014 yılının ikinci ayındaki ilk toplantı için verdiğini kabul ettiği, toplantıya vekilinin katıldığı ve alınan kararlara muhalefette bulunmadığı, 634 sayılı KMK 33. maddesine göre toplantıya katılıp muhalefette bulunmayan malikin, alınan kararlara karşı dava hakkının olmadığı, bu nedenle 08.02.2014 tarihli toplantının iptali isteminin davacının dava hakkı olmadığından reddi yerine davanın süresinde açılmadığı gerekçesi ile reddi doğru değil ise de toplantının iptali isteminin reddi, sonucu itibariyle doğru olduğundan bozma konusu yapılmamıştır. 15.03.2014 tarihli toplantının olağanüstü toplantı olduğu, KMK 29. maddesine göre yasaya uygun davet/toplantıya çağrı şartlarının yerine getirilmediği, bir önceki toplantıda alınan kararla bir sonraki toplantının belirlenmesinin yasanın emredici hükmünün yerine getirilmesini ortadan kaldırmayacağı, bu nedenle de 15.03.2014 tarihli toplantının iptaline karar verilmesinde bir isabetsizlik bulunmamaktadır.
 Birleşen dava yönünden, anataşınmazda yönetici bulunduğuna göre kayyum atanması isteminin reddine ve harçlandırılarak açılmış bir dava bulunmadığından zararın tazmini isteminin reddine karar verilmesinde de bir isabetsizlik bulunmamaktadır.
 
 ## Yargıtay 20. HD 2019/3799 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513894300)
 
 1-6100 sayılı Hukuk Muhakemeleri Kanununun 297/2. maddesi; "Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir." hükmünü amir olup buna göre hükmün, tarafların taleplerini karşılayacak şekilde kurulması gerekir. Dava dilekçesi incelendiğinde, davacının taleplerinin birden fazla olduğu anlaşılmakla; mahkemece kurulan hükümde, yukarıda anılan kanun hükmüne aykırı olacak şekilde taleplerden her biri hakkında taraflara yüklenen borçların ve tanınan hakların, sıra numarası altında açıkça belirtilmemesi, taleplerden her biri hakkında olumlu ya da olumsuz bir karar verilmemesi, her bir talebi karşılayan hüküm kurulmaması, hüküm fıkrasının talepleri tek tek karşılama ilkesine aykırı olması nedeniyle bozmayı gerektirmiştir.
 Özellikle yönetim planı değişikliği yönünde alınacak kararların oy birliğiyle alınması gerektiğinden ve dava dilekçesinde genel kurul kararlarının iptali de talep edilmekle hangi kararlar için hangi nisaplarla karar alındığı hususunda detaylı inceleme yapılmak üzere; hazirun listelerinin, çağrı davetiyelerinin; toplantı gündeminin, bu toplantıda kullanılan oylara ve vekaletnamelere ait listelerin site yönetiminden, temin edilerek dosya içerisine konulmasından sonra, aralarında kat mülkiyeti hukuku alanında uzman mali müşavir bilirkişinin de olduğu bilirkişi kurulundan tarafların ve Yargıtayın denetimine elverişli rapor aldırılması, davacının kat malikleri kurulu toplantılarına katılıp katılmadığı tespit edildikten sonra aynı Kanunun 33. maddesi uyarınca öngörülen süreler içerisinde davanın açılıp açılmadığının her bir toplantı için ayrı ayrı
@@ -97,27 +123,39 @@ değerlendirilmesi, 634 sayılı Kanunun 29/2. maddesi uyarınca olağanüstü t
 
 ## Yargıtay 20. HD 2019/3144 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513017700)
+
 Davacının toplantıya katılmadığı beyanı karşısında, toplantıya katıldığına ilişkin dosya içerisinde kesin bir delil bulunmamaktadır. Kat Mülkiyeti Kanununun 29. maddesinin ikinci fıkrasına göre, olağanüstü toplantı için en az onbeş gün önce bütün kat maliklerine çağrı yapılması kuralı emredici nitelikte olup, kanunun emredici bu hükmüne uyulmadan yapılan toplantı ve alınan kararların, diğer hususların incelenmesine gerek olmadan salt bu nedenle iptaline karar verilmesi gerekir. Ayrıca, Kanunun 31. maddesine göre, bağımsız bölümün bir kısım hissedarların vekalet olmaksızın kullandığı oyun bağımsız bölüm hissedarlarının tamamını temsil etmediği gibi, vekaletsiz oy kullanılması da davacının temsil ve oy hakkını ortadan kaldırmadığı açıktır. Davacının iptali istenen olağanüstü kat malikleri kurulu toplantısına usulünce çağrılmadığı ve kararların tebliğ edilmediği sabit olduğundan, davanın 33. maddeye göre altı aylık süre içerisinde açıldığı gözetilerek kabulüne karar verilmesi gerekirken, yazılı şekilde reddine karar verilmesi doğru görülmediği..." gerekçeleri ile kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 20. HD 2019/2743 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503587600)
+
 Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, anataşınmazın yönetim planı gereğince olağanüstü toplantıya, 634 sayılı Kat Mülkiyeti Kanununun 29. maddesine uygun davet/çağrı yapılmadığı ve davacının da toplantıya katılmadığı anlaşılmakla, mahkemece davanın kabulüne karar verilmesinde bir isabetsizlik bulunmadığından sair temyiz itirazları yerinde değildir.
 
 ## Yargıtay 20. HD 2019/1133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486202900)
 
 Hükmün davacılar vekili ile bir kısım davalılar vekilleri tarafından temyizi üzerine Dairemizce “dava konusu anataşınmazın yönetim planının site malikler kurulu başlıklı 22. maddesine göre; kat malikleri kurulunun her yıl Nisan ayının son cumartesi günü toplanacağı belirlenmekle davaya konu olan kararların alındığı 08.05.2010 günlü toplantının niteliği itibariyle olağanüstü toplantı olduğu, 634 sayılı Kat Mülkiyeti Kanununun 29/2. maddesinde “Önemli bir sebebin çıkması halinde, yöneticinin veya denetçinin veya kat maliklerinden üçte birinin istemi üzerine ve toplantı için istenilen tarihten en az onbeş gün önce bütün kat maliklerine imzalattırılacak bir çağrı veya bir taahhütlü mektupla, toplantı sebebi de bildirilmek şartiyle, kat malikleri kurulu her zaman toplanabilir” hükmünün düzenlendiği ve bu düzenleme karşısında olağanüstü toplantılarda gündem dışı konuların ele anılıp görüşülemeyeceği anlaşılmakla, mahkemece davaya konu toplantıdaki gündem dışı alınan kararların tümünün iptali gerekirken yazılı şekildeki gerekçe ile yönetim planının 22/c ve 23 nolu maddelerinin iptaline karar verilmiş olması doğru görülmemiştir” gerekçesiyle hükmün bozulmasına karar verilmiştir.
 Davacılar vekili, kararın düzeltilmesi isteminde bulunmuştur.
 
 ## Yargıtay 20. HD 2019/1048 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481198700)
+
 Dosya içerisindeki bilgi ve belgelerin incelenmesinde; özellikle ... sitesi olağan üstü toplantı divan tutanağından, ... sitesi olağanüstü kongre ara verme tutanağından ve 22.09.2013 tarihli tutanaktan ayrıca gündemin de yer aldığı toplantıya çağrı mektubundan, kongre maddelerinin tamamlanmamış olmasından ve her iki toplantı açısından da bütünlüğün bozulmamasından ve sürecin bağlantılı şekilde devam etmesinden 21.09.2013 tarihli toplantının gece geç saatlere kadar devam etmesi ve müzakerede meydana gelen olaylar sonucu davacı tarafın ve bazı kat maliklerinin toplantıyı terk etmesi nedeniyle toplantının bir sonraki gün olan 22.09.2013 saat 17.00‘a ertelendiği ve sonuç olarak 22.09.2013 tarihli toplantının ikinci toplantı niteliğinde olmayıp ilk toplantının devamı niteliğinde olduğu sonucuna varılmıştır.
 
 ## Yargıtay 20. HD 2019/462 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479311800)
 
 Kat Mülkiyeti Kanununun 29. maddesinin .... fıkrası; "Kat malikleri kurulu, yılda bir defadan az olmamak üzere yönetim planında gösterilen zamanlarda, eğer böyle bir zaman gösterilmemişse, her takvim yılının ilk ayı içinde toplanır." hükmünü, 2. fıkrası ise; "Önemli bir sebebin çıkması halinde, yöneticinin veya denetçinin veya kat maliklerinden üçte birinin istemi üzerine ve toplantı için istenilen tarihten en az onbeş gün önce bütün kat maliklerine imzalattırılacak bir çağrı veya bir taahhütlü mektupla, toplantı sebebi de bildirilmek şartıyla, kat malikleri kurulu her zaman toplanabilir." hükmünü amir olup, anataşınmaza ait yönetim planının 21. maddesinde kat malikleri kurulu toplantısının ne zaman yapılacağı belirtilmediğinden, 02/10/2015 tarihinde yapılan toplantının olağanüstü kat malikleri kurulu toplantısı olduğu anlaşılmaktadır.
 Toplantı için çağrı metninin davacılara 21.09.2015 tarihinde tebliğ edildiği, ilgili yasa metnindeki 15 günlük süre şartının yerine getirilmediği, iptali istenen toplantının olağanüstü kat malikleri toplantısı olması sebebiyle sıkı şekil kurallarına tabi olduğu anlaşılmakla; olağanüstü toplantılar için öngörülen süreye, şekil şartlarına ve diğer usullere uyulup uyulmadığı konusunda inceleme yapılması ve oluşacak sonuca göre bir karar verilmesi gerekirken, yazılı olduğu şekilde eksik ve yetersiz inceleme ile hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 20. HD 2019/427 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479317700)
 
 634 Sayılı Kat Mülkiyeti Kanununun 29. maddesinin .... fıkrasında, kat malikleri kurulunun yılda bir defadan az olmamak üzere yönetim planında gösterilen zamanlarda eğer böyle bir zaman gösterilmemişse her takvim yılının ilk ayı içinde toplanacağı; 2. fıkrasında ise önemli bir sebebin çıkması halinde yöneticinin veya denetçinin veya kat maliklerinden üçte birinin istemi üzerine ve toplantı için istenilen tarihten en az 15 gün önce bütün kat maliklerine imzalattırılacak bir çağrı veya taahhütlü mektupla, toplantı sebebi de bildirilmek şartıyla kat malikleri kurulunun her zaman toplanabileceği hükme bağlandığı, anataşınmaza ait yönetim planında toplantı zamanının her yıl Ocak ve Ekim aylarının ilk on günü olarak belirlendiğinden iptali istenen 18/01/2015 tarihli toplantının olağanüstü toplantı olduğu konusunda bir şüphe olmayıp davacılara usulüne uygun toplantı çağrı belgesi tebliğ edilmediğinden, mahkemece 634 sayılı Kat Mülkiyeti Kanununun 29. maddesi hükümlerine
 
@@ -125,41 +163,61 @@ uygun bir çağrı bulunmadan yapılan toplantının iptaline karar verilmesi ge
 
 ## Yargıtay 20. HD 2018/8108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466073300)
+
 Mahkemenin 2010/2596 Esas sayılı dosyasına konu olan 07/11/2010 tarihli olağanüstü kat malikleri kurulu toplantısına ilişkin olarak yönetim ve denetim kurulu seçimlerinin yapılarak aidat miktarlarının belirlendiği, toplantıya 34 kat malikinin katıldığı ve yönetim kurulunun 32 oyla, denetim kurulunun ise 34 oyla seçildiği ancak KMK'nın 29. maddesi gereğince olağan üstü toplantı çağrılarının yapılmasında yasal şartların eksiksiz olarak yerine getirilmesi zorunlu olup, çağrının yasal şartlara uygun olarak yapıldığının ancak yazılı belge ile kanıtlanabilmesinin mümkün olduğu, davacı tarafından kendisine toplantı daveti ve çağrısının yapılmadığı iddia edilmiş olup, söz konusu toplantının yapılmasına ilişkin olarak Kat Mülkiyeti Kanununun 29. maddesinde hüküm altına alınan toplantı için istenilen tarihten en az 15 gün önce bütün kat maliklerine toplantı sebebi de bildirilmek şartıyla bir çağrı veya bir taahhütlü mektupla, toplantı çağrısının yapıldığına ilişkin herhangi bir belgenin dosyaya sunulamaması sebebiyle kanunun ön gördüğü zorunlu şartlar yerine getirilmeden yapılan olağanüstü toplantıda alınan kararların iptaline karar verilmesi gerektiği,…
 
 ## Yargıtay 20. HD 2018/7963 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466423500)
 
 Kat Mülkiyeti Kanununun 29. maddesinin 2. fıkrası; "Önemli bir sebebin çıkması halinde, yöneticinin veya denetçinin veya kat maliklerinden üçte birinin istemi üzerine ve toplantı için istenilen tarihten en az onbeş gün önce bütün kat maliklerine imzalattırılacak bir çağrı veya bir taahhütlü mektupla, toplantı sebebi de bildirilmek şartıyla, kat malikleri kurulu her zaman toplanabilir." hükmünü amir olup, incelenen dosya kapsamına ve ana taşınmaza ait yönetim planının 19. maddesine göre; iptali istenen toplantıların olağanüstü toplantılar oldukları anlaşılmakla; mahkemece olağanüstü toplantılar için öngörülen süreye, şekil şartlarına ve diğer usullere uyulup uyulmadığı konusunda inceleme yapılması ve oluşacak sonuca göre bir karar verilmesi gerekirken, yazılı olduğu şekilde eksik ve yetersiz inceleme ile hüküm kurulması bozma nedenidir.
 
 ## Yargıtay 20. HD 2018/7303 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462329900)
+
 634 sayılı KMK'nın 29. madde hükmüne göre olağanüstü toplantılarda gündem dışı konuların ele anılıp görüşülemeyeceği anlaşılmakla, mahkemece davaya konu toplantıda ek teklif ile görüşülen gündem dışı alınan kararların neler olduğu tespit edilmeli, davacının 13/5/2014 tarihli celsedeki beyanı da açıklatılarak iptalini istediği kararlar netleştirilmeli ve olağanüstü kat malikleri toplantılarında gündem dışı konunun görüşülemeyeceği de göz önünde bulundurularak oluşacak sonuca göre karar verilmesi gerekmektedir.
 
 ## Yargıtay 20. HD 2018/6957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452267500)
+
 İncelenen dosya kapsamına ve ana taşınmaza ait yönetim planının 21. maddesine göre; iptali istenen toplantı olağanüstü toplantıdır. Kat Mülkiyeti Kanunu'nun 29. maddesinin 2. fıkrası; "Önemli bir sebebin çıkması halinde, yöneticinin veya denetçinin veya kat maliklerinden üçte birinin istemi üzerine ve toplantı için istenilen tarihten en az onbeş gün önce bütün kat maliklerine imzalattırılacak bir çağrı veya bir taahhütlü mektupla, toplantı sebebi de bildirilmek şartıyla, kat malikleri kurulu her zaman toplanabilir." hükmünü amir olup, mahkemece olağanüstü toplantılarda uyulması gereken çağrı usullerine uyulmadığı tespit edilerek, süresinde açılan davanın kabulü ile toplantının iptaline karar verilmesinde bir isabetsizlik bulunmadığına göre, yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edenlere yükletilmesine 31/10/2018 gününde oy birliği ile karar verildi.
 
 ## Yargıtay 20. HD 2018/6934 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464903900)
 
 Davacı tarafından dava dilekçesi ile 09/03/2014 tarihli toplantının iptali talep edilmekle, mahkemece dava konusu anataşınmaza ilişkin tapu kayıtları, yönetim planı, iptali istenen 09/03/2014 günlü kat malikleri kurul kararının içinde bulunduğu karar defteri ile bu kararların alındığı tarihteki bu toplantılara çağrı için kat malikleri adına çıkarılan çağrı belgelerinin, hazirun listelerinin ve gündemin, kat malikleri kurulu toplantısında vekil ile temsil edilen kat maliklerinin vekaletnamelerinin, çağrı davetiyelerinin davacılara tebliğine ilişkin tüm bilgi ve belgelerin ilgili yönetimden celbedilerek 634 sayılı Kat Mülkiyeti Kanunun ilgili hükümleri gereğince anılan toplantının olağan yada olağanüstü toplantı olup olmadığı belirlenerek sonucuna göre yasada öngörülen usullere uygun olarak yapılıp yapılmadığı belirlenmeli, alınan kararların bağımsız bölüm maliki ve arsa payı bakımından yeterlilik sayıları incelenmeli, toplantıya katılıp muhalefet şerhi bulunmayan bağımsız bölüm malikleri bakımından dava açma haklarının olmadığı hususu göz önünde bulundurulmalı, KMK’nın 33. maddesinde belirtilen 1 ve 6 aylık süreler içerisinde dava açılıp açılmadığı hususu incelenmeli, alınan
 kararların mahiyeti itibariyle butlanla ya da yoklukla malul olup olmadığı hususu değerlendirilmeli, anataşınmazın birden fazla parsel üzerinde kurulu olması sebebiyle parsel yada toplu site yönetimi olup olmadığı belirlenmeli, bu konuda uzman bilirkişilerden rapor alındıktan sonra oluşacak sonuca göre gerekçeli ve talepleri tek tek karşılar nitelikte hüküm kurulması gerekirken, yetersiz araştırma ve eksik inceleme ile karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/6060 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/444152900)
+
 İptali istenen 11.04.2015 tarihli toplantının olağanüstü kat malikleri toplantısı olduğu, davacının toplantıya katılmadığı tespit edilmekle 634 sayılı KMK'nın 29. maddesine göre, önemli bir sebebin çıkması halinde, yönetici veya denetçinin veya kat maliklerinin 1/3'nin istemi üzerine ve toplantı için istenilen tarihten en az 15 gün önce bütün kat maliklerine imzalattırılacak bir çağrı ya da taahhütlü mektupla, toplantı sebebi de bildirilmek şartıyla kat malikleri kurulu her zaman toplanabilir.” hükmünün düzenlendiği ve bu düzenleme karşısında olağanüstü toplantılarda gündem dışı konuların ele anılıp görüşülemeyeceği anlaşılmakla, mahkemece davaya konu toplantıdaki gündem dışı alınan kararların neler olduğu tespit edilerek bu kararların iptaline karar verilmesi gerekirken yazılı şekilde karar verilmesi,…
 
 ## Yargıtay 20. HD 2018/5201 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432304000)
 
 Anataşınmaza ait yönetim planında toplantı zamanı her yılın temmuz ayının ilk on günü olarak belirlendiğinden iptali istenen ....06.2014 tarihli toplantının olağanüstü toplantı olduğu konusunda bir şüphe olmayıp davacılara usulüne uygun toplantı çağrı belgesi tebliğ edilmemiş olsa bile toplantıya katılmış olmaları karşısında ... kat malikine çağrı yapılmaksızın toplantı yapıldığı, dolayısıyla olağanüstü toplantı usulüne uyulmadığı gerekçesi ile davanın kabulü doğru görülmemiştir. Mahkemece tarafların tüm delilleri toplanıp oluşacak sonuç doğrultusunda bir karar verilmesi gerekir.
 
 ## Yargıtay 20. HD 2018/5162 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/431744300)
+
 İptali istenen toplantının olağanüstü toplantı mahiyetinde olduğu, 634 sayılı Kat Mülkiyeti Kanunu uyarınca çağrı usûllerine uyulup, yasal çoğunluk ile kararların alındığı, iptalini gerektirir bir hususun bulunmadığı, alınan kararların yok hükmünde veya mutlak butlanla batıl da olmadığı belirlenerek, yazılı olduğu şekilde davanın reddine karar verilmesinde bir isabetsizlik bulunmadığına göre, yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edenlere yükletilmesine 02/07/2018 günü oy birliği ile karar verildi.
 
 ## Yargıtay 20. HD 2018/5076 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432116500)
+
 634 sayılı Kat Mülkiyeti Kanununun 33. maddesi "Kat malikleri kurulunca verilen kararlar aleyhine, kurul toplantısına katılan ancak 32. madde hükmü gereğince aykırı oy kullanan her kat maliki karar tarihinden başlayarak bir ay içinde, toplantıya katılmayan her kat maliki kararı öğrenmesinden başlayarak bir ay içinde ve her halde karar tarihinden başlayarak altı ay içinde anagayrimenkulün bulunduğu yerdeki sulh mahkemesine iptal davası açabilir; kat malikleri kurulu kararlarının yok veya mutlak butlanla hükümsüz sayıldığı durumlarda süre koşulu aranmaz" hükmü düzenlenmiştir. Somut olayda, iptali istenen ....03.2013 tarihli toplantının olağanüstü toplantı olduğu, davacının toplantıya katıldığı ve şerh koyduğu, ilgili toplantıda alınan kararlar incelendiğinde ise yok veya mutlak butlanla hükümsüz sayılan nitelikte kararlar alınmadığı, 04/.../2013 tarihinde dava açıldığı yukarıda açıklanan KMK'nın 33. maddesindeki sürelerin geçirildiği anlaşılmakla, mahkemece davanın süreden reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/4382 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430643100)
 
 Dosya arasında bulunan bilgi ve belgelerin incelenmesinde iptali istenen kat malikleri toplantısının olağanüstü toplantı olduğu, davacının olağanüstü toplantıya katılmadığı, mahkemece 634 sayılı Kat Mülkiyeti Kanununun .... maddesi uyarınca toplantının yeri ve zamanının 15 gün önceden kat maliklerine taahütlü mektup veya imza karşılığı tebliğ edilip edilmediğinin araştırılmadığı anlaşılmaktadır.

@@ -34,6 +34,8 @@ Davacılar vekilinin temyiz itirazlarının kabulü ile direnme kararının Öze
 
 ## Yargıtay HGK 2025/671 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186928400)
+
 Davacı vekili dava dilekçesinde, müvekkilinin bilgi ve imzası haricinde diğer kat malikleri ..., ..., ... ve ... ile 06.06.2005 tarihinde aktedilen kira sözleşmesine dayanarak dava konusu İstanbul ili Bahçelievler ilçesi ...
 
 …
@@ -49,6 +51,8 @@ Dolayısıyla 634 sayılı Kanun'un 4. maddesinin 1. fıkrasında ortak yerlerin
 Yukarıda yapılan açıklamalar ışığında somut olay incelendiğinde, ortak yerlerden olan anayapının dış duvarlarının kiralanması gibi önemli yönetim işleri konusunda kat malikleri tarafından oybirliği ile karar vermeleri gerektiğinden, kat maliklerinden bir kısmı ile imzalanan kira sözleşmesinin davacı kat malikine karşı ileri sürülemeyeceği, başka bir anlatımla davalı şirketin, davacı kat malikine karşı ileri sürebileceği sözleşmesel ilişkinin mevcut olmadığı, ayrıca anayapının ortak alanlarının kiralanmasına ilişkin kat malikleri kurulu kararı bulunmadığı, baz istasyonu kurulmasından elde edilen kira gelirlerinin kiralayan kat maliklerinin banka hesaplarına ödeneceğinin kararlaştırıldığı anlaşılmakla davacı kat maliki açısından davalı şirketin tasarrufunun fuzuli işgal mahiyetinde olduğu sonucuna varılmıştır.
 
 ## Yargıtay HGK 2023/1233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990385000)
 
 4\.
 
@@ -69,6 +73,8 @@ Davalılar vekilinin temyiz itirazlarının kabulü ile direnme kararının 6100
 …
 
 ## Yargıtay HGK 2023/3 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919427600)
 
 Davacılar vekili dava dilekçesinde; Konya ili Selçuklu ilçesi Yazır mahallesi 16179 ada 1 parselde bulunan Çınar 2 Sitesi 24 No.lu apartmanın bodrum katına arsa maliki ve kat maliklerinden izin alınmaksızın trafo konulduğunu, davalının usulsüz olarak müdahalede bulunduğunu ileri sürerek müdahalenin men’i ile trafonun kaldırılmasına karar verilmesini talep etmiştir.
 
@@ -92,6 +98,8 @@ B bendinde (§26-35) gösterilen gerekçelerle (2) numaralı uyuşmazlık yönü
 
 ## Yargıtay HGK 2022/771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792139900)
+
 Davacı vekili dava dilekçesinde; davalıların çekme kat olan bağımsız bölümünde projeye aykırı olarak (çatı katı salonun bir bölümüne banyo yapımı, terasta yalıtıma zarar verilmesi, mermer zemin eğiminin dışa verilmemesi, kalorifer borularının yönünün değiştirilmesi vd.) bir kısım ilave ve tadilatlar yaptıklarından dolayı müvekkilinin dairesinde su sızıntısı meydana geldiğini, dairenin oturulamayacak hâle gelmesi nedeniyle 10.12.2000 tarihinde İstanbul 2.
 
 …
@@ -107,6 +115,8 @@ Dava, haksız eylem nedeniyle uğranılan zararın tazmini istemine ilişkindir.
 İstanbul ili Beşiktaş ilçesi Bebek Mahallesi 140 ada 8 parsel sayılı ana taşınmazın, mesken niteliğindeki 1. Blok 9 nolu bağımsız bölümün tamamının Nadire Tuncer adına kayıtlı olduğu, (Kapatılan) Fatih 2. Sulh Hukuk Mahkemesinin 2003/64 E. sayılı veraset ilamına göre Nadire Tuncer'in 16.12.2002 tarihinde ölümü ile geriye mirasçı olarak davacı ...'in kaldığı, başkaca mirasçı bulunmadığı, 11 nolu bağımsız bölümün ise 1/2 hissesinin ..., 1/2 hissesinin ise Fatma ... adına kayıtlı olduğu görülmüştür.
 
 ## Yargıtay HGK 2022/5 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744292500)
 
 Davacı vekili dava dilekçesinde; Kayseri ili Melikgazi ilçesi Köşk Mahallesi 3 parsel üzerinde bulunan binada kat maliki olduğunu, binanın toplantı salonunun amaç dışı kullanılarak sigara içildiğini, okey oynandığını, maç izlendiğini ayrıca ısınma ve sıcak su sisteminin ortak olup 5627 sayılı Kanuna göre ısı ölçer ve ekipmanlarının yapılması zorunlu olduğu hâlde yapılmadığını, kendisi gibi kat maliki olan gerçek kişi davalıların ise ortak yerlerden olan balkonların duvarlarını yıkarak mutfağa kattıklarını ileri sürerek toplantı odasının amaç dışı kullanılmaması, ısı pay ölçer veya kalorimetre sistemi kurularak ısı paylaşımının yapılması ve balkonların eski hâle getirilmesine karar verilmesini talep etmiştir.
 
@@ -124,6 +134,8 @@ Kat malikleri ortak yerlerde kullanma hakkına sahiptirler; bu hakkın genel kö
 
 ## Yargıtay HGK 2021/1010 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707369100)
+
 5\.
 
 …
@@ -139,6 +151,8 @@ Kat Mülkiyeti Kanunu hazırlanırken, bağımsız bölümler üzerindeki mülki
 Toplu yapıya geçişe ilişkin 05.02.2012 tarihli kat malikleri kurulu kararının iptali ve tapudan terkini için açılan davada, Büyükçekmece 1. Asliye Hukuk Mahkemesince 24.06.2012 tarihli karar ile davanın reddine karar verilmiş …
 
 ## Yargıtay HGK 2019/752 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520428400)
 
 Mahkemece, davanın kabulüne karar verilmiştir.
 
@@ -162,6 +176,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının
 
 ## Yargıtay HGK 2019/285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501827200)
+
 Dava, yöneticilik işleminin yok hükmünde olduğunun tespiti, haksız sataşmanın önlenmesi ve eski hâle getirme istemine ilişkindir.
 
 Davacı vekili; müvekkilinin eski bakan olduğunu ve koruma polisinin bulunduğunu, yönetim tarafından herhangi bir karar alınmaksızın toplu yapı kapsamında bulunan Çankaya Park Evleri Sitesi B Blok girişinde bina içinde görevli özel güvenlik görevlisinin bina dışına çıkartıldığını ve görevliye ait özel güvenlik kabininin davacının korunması işini üstlenen polisin görev yaptığı güvenlik kulübesi bitişiğine ve koruma polisinin bina giriş ve çıkışını görmesini engelleyecek bir biçimde yerleştirildiğini, yer değişikliği sırasında herhangi bir duyurunun yapılmadığını, yöneticinin görev, yetki ve sorumluluğunun Kat Mülkiyeti Kanunu’nda ve yönetim planında belirtildiğini, dolayısıyla yöneticinin bireysel olarak bir işlem ve uygulama yapma görevinin ya da yetkisinin bulunmadığını ileri sürerek yöneticilik işlem ve uygulamasının yok hükmünde olduğunun tespitine, haksız sataşmanın önlenmesine ve eski hâle getirmeye karar verilmesini talep etmiştir.
@@ -179,6 +195,8 @@ Bu itibarla, yerel mahkeme direnme kararında yer alan “Davacı kat maliki olu
 SONUÇ: Davacı vekili ve davalı vekili ile ferî müdahiller Çankaya Park Evleri Sitesi C ve D Blok Yönetimleri vekili (davalı vekili ile feri müdahil vekilleri ortak vekil) ile ferî müdahil Çankaya Park Evleri Sitesi A Blok Yönetimi vekilinin temyiz itirazlarının ayrı ayrı kabulü ile yerel mahkeme direnme kararının yukarıda açıklanan değişik gerekçe ve nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2017/604 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/332557100)
 
 Davacı vekili 24.09.2010 tarihli dilekçe ile; müvekkilinin 6651 ada 25 parsel sayılı taşınmazda bağımsız bölüm maliki ve apartman yöneticisi olduğunu, davalılardan ... ve ... tarafından 21 numaralı bağımsız bölümün ortak alanla birlikte Kiler Mağazacılık A.Ş'ne kiraya verildiğini, anılan şirket tarafından ortak alanında kullanıldığı ve apartman aidatlarının ödenmediğini ileri sürerek toplam 3.500.-TL ecrimisil ve 1.000.-TL aidat isteğinde bulunmuştur..
 
@@ -203,6 +221,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının
 
 ## Yargıtay HGK 2015/2925 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329987700)
+
 Dava, kamulaştırmasız elatma istemine ilişkindir.
 
 …
@@ -225,6 +245,8 @@ SONUÇ: Davalı ... vekilinin temyiz itirazlarının kabulü ile, direnme karar�
 
 ## Yargıtay HGK 2013/209 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/52031300)
+
 Mahkemece davalının ferdi ısınma sistemine geçmesinin merkezi ısınma sistemine zarar vermediği, merkezi sisteme herhangi bir müdahalesinin söz konusu olmadığından söz edilerek davanın reddine karar verilmiştir.
 
 …
@@ -241,6 +263,8 @@ S O N U Ç : Asıl davacı vekilinin temyiz itirazlarının kabulü ile, direnme
 
 ## Yargıtay HGK 2012/96 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/61988400)
+
 Dava, kat irtifakı kurulmuş taşınmazdaki ortak yere elatmanın önlenmesi isteğine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiştir.
@@ -255,6 +279,8 @@ Mahkemece, davanın kabulüne karar verilmiştir.
 
 ## Yargıtay HGK 2012/29 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/63584000)
+
 634 sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrası hükmünde kat maliklerinden birinin ana taşınmazın ortak yerlerinde kat maliklerinin beşte dördünün yazılı rızası olmadıkça inşaat, onarım, tesis ve değişiklikler yapamayacağı öngörülmüştür. Dosya içindeki bilgi ve belgelerden dava konusu edilen otoparkın davalı adına tapuda kayıtlı olup bağımsız bölüm niteliği taşıdığı anlaşılmakla davalı yanın bu otoparkı projesinde olduğu biçimde kullanma ve yararlanma hakkı vardır. Ancak yerinde yaptırılan bilirkişi incelemeleri sonucunda düzenlenen raporda da açıkça belirtildiği üzere anataşınmazın yapımı sırasında mimari projeye aykırı olarak her iki bodrum katın bina çekme mesafesi alanında, kuzey ve batı cephelerinde birer aks büyütülerek yapıldığı ve bu alanların davalı tarafça kullanıldığı sabit olmakla, sonradan kazanılan bu alanların anataşınmazın ortak alanı olarak kabul edilerek davalı tarafın belirtilen bu kısma el atmasının önlenmesine karar verilmesi gerekirken davanın tümden reddi doğru görülmemiştir...")
 
 …
@@ -262,6 +288,8 @@ Mahkemece, davanın kabulüne karar verilmiştir.
 S O N U Ç : Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında ve yukarıda gösterilen nedenlerden dolayı 6217 sayılı Kanunun 30.maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2011/733 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17161500)
 
 Mahkemece, davanın kabulüyle ortak yerlerden olan 2.bodruma, çatıya ve apartman havalandırma boşluğuna vaki müdahalenin men'ine, 2.bodrumun girişine konulan beton setin kal'ine ve 2.bodruma merdiven yapılması ile birlikte müdahale edilen ortak yerlerin projesine uygun hale getirilmesine karar verilmiştir.
 
@@ -277,6 +305,8 @@ düzenlenmiştir.
 
 ## Yargıtay HGK 2010/296 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16992100)
+
 634 Sayılı Kat Mülkiyeti Yasasının 19.maddesinin ikinci fıkrasına göre kat maliklerinden biri, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım ve tesis yaptıramaz. Yargılama sırasında yerinde yapılan keşif sonucu düzenlenen bilirkişi raporunda davalıların anataşınmazın ortak yeri olan bahçe duvarını onaylı mimari projeye aykırı olarak yükselttikleri, duvarın üzerine demir parmaklık yerleştirdikleri belirtilmiştir. Bu durum ve yukarıda değinilen yasa hükmü dikkate alınarak mahkemece projeye aykırı olarak yapılan imalat, tesis ve değişikliklerin yıkılmasına, projeye uygun eski hale getirilmesine karar verilmesi gerekirken, binaların yapı kullanma iznine sahip oldukları, bina kodları arasındaki farkın projeye aykırılık olarak değerlendirilemeyeceği gibi hukuki olmayan gerekçelerle davanın reddi yolunda hüküm kurulması doğru görülmemiştir.
 
 …
@@ -284,6 +314,8 @@ düzenlenmiştir.
 S O N U Ç : Davacılar vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı HUMK.nun 429.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2008/614 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76953700)
 
 Mahkemece, davanın reddine karar verilmiştir.
 
@@ -302,6 +334,8 @@ Davacı, çekişme konusu 41838 ada 5 parseldeki arsanın 293/489 payının,dava
 S O N U Ç : Davacı vekilinin temyiz itirazlarının reddi ile, direnme kararının yukarıda açıklanan nedenlerle ONANMASINA …
 
 ## Yargıtay HGK 2006/816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77193500)
 
 Dava, ortak bahçeye haksız müdahalenin önlenmesi ve ecrimisil istemine ilişkindir.
 

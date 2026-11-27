@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2025/1422 K. (mirastan feragat eden mirasçının davası)
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143331800)
+
 18.08.1997 tarih 8751 yevmiye nolu **mirastan feragat sözleşmesi ile davacının**, murisleri ... ve ...’dan intikal edecek tüm taşınmaz ve taşınırlardaki miras payından diğer mirasçılar lehine 20 milyar ETL bedelle feragat ettiği, anılan bedelin peşinen alındığının sözleşmede belirtildiği anlaşılmıştır.
 
 ## Yargıtay 1. HD 2024/5913 K. (ivazlı mirastan feragat sözleşmesi)

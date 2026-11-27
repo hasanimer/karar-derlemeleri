@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2024/3902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059762300)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın davalı ... yönünden pasif husumet yokluğu nedeniyle reddine, davalı ... yönünden kabulüne karar verilmiştir.
 
 …
@@ -43,6 +45,8 @@ Aynı bendin üçüncü paragrafının hükümden çıkartılması, yerine, ''Al
 
 ## Yargıtay 5. HD 2024/3687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045557300)
+
 Davacılar vekili asıl ve birleştirilen dava dilekçelerinde özetle; İstanbul ili, Bağcılar ilçesi, Mahmutbey köyü 1949 parsel sayılı taşınmaza fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin tahsilini talep etmiştir.
 
 …
@@ -61,6 +65,8 @@ Davacılar ve davalı ... vekillerinin tüm temyiz itirazlarının reddiyle usul
 
 ## Yargıtay 5. HD 2024/3085 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028763600)
+
 Davacı vekili dava dilekçesinde özetle; Malatya ili, Battalgazi ilçesi, ... köyü 274 ada 6 parsel sayılı taşınmaz üzerinde bulunan muhdesata kamulaştırmasız el atıldığını belirterek kamulaştırmasız el atılan muhdesatların bedelini talep etmiştir.
 
 …
@@ -77,6 +83,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyl
 
 ## Yargıtay 5. HD 2024/2051 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039341700)
+
 Davalı idare vekili cevap dilekçesinde özetle; dava konusu taşınmaz üzerinde bulunan A ve B bloklarının kamulaştırılması için ...
 
 …
@@ -89,6 +97,8 @@ bu hali ile kamulaştırılan kısım dışında bağımsız bölümleri bulunan
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/1753 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028712200)
 
 Davacı vekili asıl ve birleştirilen dosyaların dava dilekçelerinde özetle, müvekkillerinin hissedarı bulunduğu Ankara ili, Yenimahalle ilçesi, ... İmar Mahallesi 63493 ada 2 parselde kayıtlı taşınmaza sayılı taşınmazın fiili el atma olgusu gerçekleşecek şekilde kamulaştırmasız el atıldığından bahisle taşınmazın bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
@@ -105,6 +115,8 @@ Kaldı ki eldeki davada dava konusu taşınmaz 1/1000 ölçekli uygulama imar pl
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/114 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016184900)
 
 Davacılar vekili asıl ve birleştirilen dava dilekçelerinde özetle; Ankara ili, Altındağ ilçesi, ... Mahallesi 602 ada 13 parsel sayılı taşınmaza yol geçirilmek suretiyle fiilen el atıldığından ecrimisil ile kamulaştırmasız el atmaya dayanan tazminat bedellerinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
@@ -125,6 +137,8 @@ Kamu düzenine ilişkin olarak yapılan değerlendirme sonucunda, harca ilişkin
 
 ## Yargıtay 5. HD 2023/11945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021330600)
+
 Davacı idare vekili dava dilekçesinde özetle;Mersin ili, Tarsus ilçesi, ... köyü, Tahta Mevkii sınırları dahilinde bulunan 493, 982 ve 983 parseller ile Mersin ili, Tarsus ilçesi, Kayadibi köyü, Çatalgeçit Mevkii 146 ada 1 parsel, ... köyü, 137 ada 6 parseldeki taşınmazların davalı idare tarafından 1973 yılında Berdan Barajı Göl sahası için fiilen el konulduğunu belirterek kamulaştırmasız el atılan taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -144,6 +158,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 5. HD 2023/6232 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914760700)
+
 Davalı ... vekili cevap dilekçesinde özetle; dava konusu taşınmazın Ankara-Pozantı otoyolu kamulaştırması kapsamında olduğunu, Tarım Reformu Genel Müdürlüğü ile yapılan anlaşmaya göre üzerindeki müştemilatlar yönünden davacıya pazarlığa davet yazısı gönderildiğini, 13.11.2018 tarihinde pazarlık görüşmesinin gerçekleştirileceğini, davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -160,6 +176,8 @@ yeniden esas hakkında hüküm kurulmuştur.
 Davacı ve davalı ... vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 12. HD 2023/2398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924736100)
 
 Davalı alacaklı verilen cevap dilekçesinde; davanın reddine karar verilmesi talep edilmiştir.
 
@@ -183,6 +201,8 @@ Temyiz olunun Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 12. HD 2023/172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873390000)
+
 İlk derece mahkemesince yapılan yargılama sonunda; alacaklının 06.11.2020 tarihinde ilama konu alacakların tahsili için idareye başvurduğu, takibe konu edilen kararın 10.06.2021 tarihinde kesinleştiği, takibin kesinleşmeden sonra 29.06.2021 tarihinde takip başlatıldığı, idareye başvuru şartının gerçekleştiği gerekçesi ile davanın reddine karar verilmiştir.
 
 …
@@ -194,6 +214,8 @@ Bölge Adliye Mahkemesince yapılan inceleme sonucunda; 2942 sayılı Kamulaşt�
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2022/18735 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847309900)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -209,6 +231,8 @@ Davalı idare vekilinin temyiz itirazları yerinde görüldüğünden usul ve ya
 
 ## Yargıtay 5. HD 2022/15229 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833322400)
+
 İlk derece mahkemesince asıl davanın kabulüne, birleştirilen davanın konusuz kalması nedeniyle karar verilmesine yer olmadığına, birleştirilen diğer davanın ise husumet nedeniyle reddine ilişkin olarak verilen karara karşı yapılan istinaf başvurusunun Ankara Bölge Adliye Mahkemesi 14. Hukuk Dairesince kabulü ile HMK’nın 353/1-b-1 maddesi gereğince ilk derece mahkemesi kararı kaldırılarak asıl davanın kabulüne, birleştirilen davanın reddine, diğer birleştirilen davanın ise husumet nedeniyle reddine karar verilmiş, hüküm davalı-karşı davacı vekilince temyiz edilmiştir.
 
 Dosyanın incelenmesinden, dava konusu taşınmazın 11.06.1984 tarih ve 103 sayılı kamu yararı kararı ile Karayolları Genel Müdürlüğünce kamulaştırıldığı, kamulaştırma evrakının o zamanki malik ...’a 31.03.1986 tarihinde bizzat tebliğ edildiği, taşınmazın muhtelif tarihlerde el değiştirmesinden sonra en son davacı tarafından 07.11.2018 tarihinde, 05.07.1985 tarihli ‘Karayolları Genel Müdürlüğü'nce kamulaştırılmıştır’ şerhi ile satın alındığı, Ankara Büyükşehir Belediye Başkanlığınca Karayolları Genel Müdürlüğü ile aralarında yapılan protokol gereğince ve Kamulaştırma Kanunu'nun 17. maddesine dayanılarak tapu iptali ve tescil istemiyle eldeki asıl davanın, tapu kayıt maliki tarafından ... aleyhine hukuki el atma nedeniyle tazminat istemiyle birleştirilen Gölbaşı 2. Asliye Hukuk Mahkemesinin 2019/87 Esas sayılı davasının, yine Ankara Büyükşehir Belediye Başkanlığınca önceki malik ... tarafından aleyhine yine tapu iptali ve tescil istemiyle Gölbaşı 1.
@@ -217,6 +241,8 @@ Asliye Hukuk Mahkemesinin 2016/603 Esas sayılı davasının açıldığı anla�
 Davalı-birleştirilen kamulaştırmasız el atılan taşınmaz bedelinin tahsili davasının davacısı tarafından yapılan temyiz itirazları yerinde olmadığından usul ve yasaya uygun olan Ankara Bölge Adliye Mahkemesi 14. Hukuk Dairesinin 2021/135 Esas ve 2022/198 Karar sayılı kararının ONANMASINA …
 
 ## Yargıtay 5. HD 2022/13862 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829496500)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -227,6 +253,8 @@ Dosyada bulunan kanıt ve belgelere, kararın dayandığı gerekçelere göre; a
 Davalı idare vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun olan hükmün HMK'nın 370. maddesi gereğince ONANMASINA …
 
 ## Yargıtay 5. HD 2022/10494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785789300)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -242,6 +270,8 @@ Hükmün yukarıda açıklanan gerekçelerle davacılar vekilinin temyiz istemin
 
 ## Yargıtay 3. HD 2022/3843 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774906400)
+
 Davalı; davanın yetkisiz mahkemede açıldığını, temlik sözleşmesinin geçersiz olduğunun davacıya ihtar edildiği halde haksız kazanç elde etme amacıyla hareket ettiğini, temlik sözleşmesinin açıkça kanuna aykırı olduğunu, sözleşme gereğince vaktinde ödeme yapılmadığını, bundan ayrı sözleşmenin Kamulaştırma Kanunu'nun 31.maddesinin (f) bendi uyarınca da konusu suç teşkil ettiğinden geçersiz olduğunu, davalı tarafı yargılamada temsil eden Av. ...... ile davacının da birlikte hareket ederek temliknamenin düzenlenmesini sağladıklarını, davacının delilleri arasında yer alan ihtarnamenin dahi davacı ve Av. ... ... tarafından birlikte gönderildiğini savunarak, davanın reddini dilemiştir.
 
 İlk derece mahkemesince; taraflar arasındaki temlik sözleşmesinin geçerli olduğu ve hukuki sonuç doğuracağı, aksinin kabulünün ahde vefa ilkesine ve dürüstlük kurallarına aykırı olduğu, davacı açısından temerrüt koşullarının da oluşmadığı gerekçesiyle; davanın kabulü ile İstanbul İli Eyüp İlçesi ...
@@ -255,6 +285,8 @@ Hal böyle olunca ilk derece mahkemesince; davanın, kamulaştırmasız el atmad
 SONUÇ: Yukarıda açıklanan nedenlerle 6100 sayılı HMK'nın 373/1 maddesi uyarınca temyiz olunan bölge adliye mahkemesi kararının KALDIRILMASINA …
 
 ## Yargıtay 5. HD 2021/13202 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706245400)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 

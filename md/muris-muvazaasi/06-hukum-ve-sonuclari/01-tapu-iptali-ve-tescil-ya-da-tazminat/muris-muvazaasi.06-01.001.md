@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2025/2643 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154574600)
+
 … dava konusu taşınmazların davalı ... tarafından dava tarihinden önce üçüncü kişilere devredildiği, bu nedenle de davacılar tarafından davalı ...’den tazminat talebinde bulunulduğu anlaşılmaktadır. Bu durumda **infazda şüphe oluşturacak şekilde hüküm kurulduğu açıktır**. Hâl böyle olunca, Bölge Adliye Mahkemesince, HMK’nın 297/2. maddesi gereğince dava konusu hakkında infaza elverişli şekilde yeniden hüküm kurulması gerekirken, hükmü tamamen değiştirecek şekilde tavzih kararı verilmesi isabetsizdir.
 
 ## Yargıtay HGK 2024/493 K. (tapu iptali ile tescil ve tazminat)

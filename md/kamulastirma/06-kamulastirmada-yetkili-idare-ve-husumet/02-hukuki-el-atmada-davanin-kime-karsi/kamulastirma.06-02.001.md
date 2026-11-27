@@ -33,8 +33,12 @@ Belediyesinden tahsiline karar verilmesi hatalı olup bozmayı gerektirir.
 
 ## Yargıtay 5. HD 2025/10707 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172797100)
+
 222 sayılı İlköğretim Kanunu'nun 63/2 ve 65/2 maddeleri uyarınca şehir merkezi ve kasaba okulları için arazi satın alma ve kamulaştırma yapmak ve bina inşa etmek İl Özel İdaresi Müdürlüklerine ait olduğu hususu ile kanun maddesinin ilgili hükümleri gözetilerek dava konusu taşınmaz hakkında idareler arası herhangi bir devir protokolü olup olmadığı araştırılmadan mahkemece 6100 sayılı Kanun'un 124 üncü maddesi uyarınca davalı tarafta (Muş İl Özel İdaresi yerine ...) iradi değişiklik kararı verilerek davalı ... İdaresi yönünden karar verilmesine yer olmadığına, davalı ... yönünden davanın kabulüne karar verilmesi hatalı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 5. HD 2013/5750 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/282077900)
 
 Dava konusu taşınmazların, imar planında kısmen ortaokul alanında kaldıkları anlaşılmakla, 222 sayılı Yasa uyarınca ilköğretim okulları için arazi satın alma ve kamulaştırma görevinin İl Özel İdaresine ait olduğu gözetilerek; taşınmazların 1989 yılından beri 1/1000 ölçekli imar planında ortaokul alanı, konut alanı park ve yol olarak ayrıldıkları, yol olan kısımlarına asfaltlama yapılarak kısmen el atıldığı, ancak ortaokul alanında kalan bölümüne fiilen el atılmamışsa da; Yargıtay Hukuk Genel Kurulunun benzer konudaki 15.12.2010 tarih ve 2010/5-662/651 sayılı kararı gözetilerek imar planında okul alanı olarak ayrılan taşınmazlara fiilen el atılmamış olsa dahi, 3194 sayılı İmar Kanununun 10. maddesinin amir hükmü uyarınca 1/1000 ölçekli planın kesinleştiği tarihten itibaren 5 yıl içerisinde davalı ... İdaresince kamulaştırma görevinin yerine getirilmemesi ve malikin mülkiyet hakkının süresi belirsiz şekilde kısıtlanması nedeniyle taşınmaz bedelinin ödenmesine karar verilmesi doğrudur.

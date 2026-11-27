@@ -32,8 +32,12 @@ Dava konusu taşınmazlar, 1974 yılındaki kadastro çalışmaları sırasında
 
 ## Yargıtay 1. HD 2024/6954 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108293900)
+
 Bununla birlikte; bilindiği üzere, kamu düzeninden olan doğru sicil oluşturma ilkesi gereğince hakimin infazı kabil karar verme yükümlülüğü vardır. HMK'nın 297/2. maddesine göre, mahkemelerce kurulan hükümler infaz sırasında tereddüt ve şüphe yaratmayacak nitelikte olmalıdır. Öte yandan, TMK'nın 28. maddesi uyarınca ölümle şahsiyet son bulmakla; Bölge Adliye Mahkemesince, tapu kaydının iptali ile yargılama sırasında ölen davacı ...'in dosyada yer alan veraset ilamına göre mirasçıları adına tesciline karar verilmesi gerekirken, ölü kişi adına tescil kararı verilmiş olması isabetsizdir.
 
 ## Yargıtay 8. HD 2024/6579 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132163400)
 
 Dosya kapsamında yapılan incelemede; dava konusu taşınmazın ... Asliye Hukuk Mahkemesi'nin 18.07.1970 gün ve 1969/120 E., 1970/152 K. Sayılı kesinleşmiş kararına istinaden hükmen tescil yoluyla oluştuğu ve 2237 parsel numarası ile ... adına tapuya tescil edildiği, 3402 sayılı Kadastro Kanunu'nun (3402 sayılı Kanun) 22/a maddesi uyarınca yapılan uygulama kadastrosu sonucunda taşınmazın 113 ada 1 parsel numarası ile 6486,41 m2 yüzölçümü ile tespit edildiği, tapu maliki ...'in 02.10.2009 tarihinde öldüğü, davacı ... İdaresinin 27.08.2018 tarihinde ölü tapu malikini taraf gösterek eldeki davayı açtığı, davalının ölü olduğunun tespit edilmesi üzerine davacı vekili tarafından mirasçılarının davaya dahil edildiği ve İlk Derece Mahkemesince işin esası hakkında karar verildiği anlaşılmıştır.

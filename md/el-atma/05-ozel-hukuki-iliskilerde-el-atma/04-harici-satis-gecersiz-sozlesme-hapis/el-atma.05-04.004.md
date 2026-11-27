@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2010/4835 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919198700)
+
 Davacı, paydaşı olduğu 196 ada 15 ve 16 parsel sayılı taşınmazlara, davalının kullanmak suretiyle müdahale ettiğini ileri sürerek elatmanın önlenmesine karar verilmesini istemiştir.
 
 Davalı, dava konusu yeri, davacıdan haricen satın aldığını belirterek davanın reddini savunmuş, hapis hakkı tanınması ve cezai şartın ödenmesi talebinde bulunmuştur.
@@ -38,10 +40,14 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 16. HD 2010/3851 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783791300)
+
 Çekişmeli 101 ada 27 parsel sayılı taşınmazın tespitte uygulanan Mart 1335 tarih 130 nolu tapu kaydı kapsamında kaldığı mahallinde yapılan keşif ve uygulama ile belirlendiği gibi dinlenen bilirkişi ve tanık sözlerine göre, çekişmeli taşınmazın İşlemecioğlu ... oğulları ... ve ...'nin müştereken mülkiyetlerinde iken ... ile ... mirasçıları arasında yapılan harici paylaşma sonucu ... oğlu ...'a kaldığı ve ... tarafından 21.05.1979 günlü harici satış senedi ile davalı ...'na satılıp teslim edildiği de tarafların da kabulündedir. Uyuşmazlık, ...'ın 31.03.1988 tarihinde açtığı dava ile harici satışın bozulup bozulmadığı ve 3402 sayılı Kadastro Kanunu'nun 13/B-b maddesindeki koşulların davalı ... yararına gerçekleşip gerçekleşmediği noktasındadır. ... tarafından 31.03.1988 tarihinde, 21.05.1979 tarihli harici satışın üzerinden 10 yıllık süre geçmeden, ...'na karşı, taşınmazın aynına yönelik men'i müdahale davası açılmış olması nedeniyle, harici satışın bozulduğunun ve aynı hak kazanımı yönünden hukuki sonuç doğuramayacağının kabulü zorunludur.
 Harici taksim ve tapunun tedavül görmemiş olması çekişmeli taşınmazın tapulu olma vasfını 13/B-c koşulları zilyet yararına gerçekleşmediği sürece ortadan kaldırmaz. Hal böyle olunca, çekişmeli 101 ada 27 parsel sayılı taşınmazın davacı ... mirasçıları adına tesciline karar verilmesi gerekirken yazılı şekilde karar verilmesinde isabet bulunmayıp, temyiz itirazları bu nedenlerle yerinde bulunduğundan, kabulü ile çekişmeli 101 ada 27 parsel sayılı taşınmazla ilgili hükmün BOZULMASINA, 27.05.2010 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 1. HD 2010/3423 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79004100)
 
 Davalı, davacının çekişme konusu taşınmazları 17.07.2005 tarihli satış senedi ile oğlu M.'ya sattığını, satış bedelinin kısmen ödendiğini ve bu harici satıştan sonra oğlu M.'nın taşınmazları ekip biçtiğini, daha önceden 50 seneyi aşkın bir süre anılan taşınmazları ortak olarak kullandığını, oğlu satın aldıktan sonra da ona tarla işlerinde yardımcı olduğunu belirtip, davanın husumet nedeniyle reddini savunmuştur.
 
@@ -60,6 +66,8 @@ Hal böyle olunca, elatmanın önlenmesi ve ecrimisile hükmedilmesi gerekirken 
 Davacının temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/1338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78673100)
 
 Mahkemece, davalının, dava konusu taşınmazda, faydalanmasını haklı kılacak ölçüde mülkiyet ya da kiracı sıfatı gibi davacıyla aralarında bir ilişki olduğunu ispatlayamadığı ve davacının davasında haklı olduğu gerekçesiyle, davanın kısmen kabulüne karar verilmiştir.
 
@@ -81,6 +89,8 @@ Davalının; temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan ne
 
 ## Yargıtay 1. HD 2009/11802 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78466000)
+
 Davacı, miras yoluyla intikal eden ve rızai taksimde kendisine isabet eden dava konusu 157 ada, 113 parsel sayılı taşınmazın kayden maliki olduğunu, rızai taksimden önce mirasçılarla birlikte inşa ettikleri yapıyı davalı ile eşit paylaştıklarını, daha sonra enkaz bedelinin yarısını ödemesi karşılığında enkazın kaldırılacağı konusunda anlaştıklarını ancak davalının işgaline devam ettiğini ileri sürerek inşaatın kaldırılmak elatmanın önlenmesine karar verilmesini istemiştir.Davalı, çekişmeli yapının murisin ölümünden sonra rızai taksimden önce yapıldığını, paylaşımda yapının bulunduğu parselin davacıya düştüğünü ancak yapının ½ payını davacıdan bedeli karşılığında arzı ile birlikte satın aldığını belirterek davanın reddini savunmuştur.Mahkemece; dava konusu binanın değerinin zemin değerinden fazla olduğu, yıkımın fahiş zarar doğuracağı, yapı sahibinin iyiniyetli olduğu, kendisine ait yapı payını davalıya satarak onun hakkını benimsediği, tazminat olarak yapı değerini ödemeği kabul etmediği, davalı yemin etmekle davacının davasını kanıtlayamadığı gerekçesiyle davanın reddine karar verilmiştir.Karar, davacı tarafından süresinde temyiz edilmiş olmakla;
 Tetkik Hâkimi raporu okundu, düşüncesi alındı.
 
@@ -101,6 +111,8 @@ Davacının temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan neden
 
 ## Yargıtay 1. HD 2009/2789 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78201600)
+
 Davacı, kayden maliki bulunduğu 2373 parselde bulunan 2 nolu daireyi davalıdan aldığı 1500 YTL borç karşılığı davalıya tahsis ettiğini, borcu faizi ile iade etmeyi teklif ettiği halde davalının taşınmazdaki işgalini sürdürdüğünü ileri sürerek elatmanın önlenmesi isteğinde bulunmuştur.
 
 Davalı, dava konusu taşınmazı davalıdan haricen satın aldığını, davacının tapuyu vermediğini kendisini oyaladığını belirterek davanın reddindi savunmuştur.
@@ -119,6 +131,8 @@ Hemen belirtilmelidir ki, bu durumda, harici satış sözleşmesinin lehtarına 
 
 ## Yargıtay 1. HD 2008/11645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78453000)
+
 Davacı, maliki olduğu 17 parseldeki 3 numaralı meskenini davalının işgal ettiğini ileri sürerek elatmanın önlenmesi ve ecrimisil istemiştir.
 
 Davalı, taşınmazı satın almak için anlaştığını ve davacıya kapora verdiğini belirterek davanın reddini savunmuştur.
@@ -136,6 +150,8 @@ Bilindiği üzere, tapulu taşınmazların mülkiyetinin naklinin Türk Medeni K
 Hal böyle olunca, davacıya ödenen 5 milyar lira üzerinden davalı yararına hapis hakkı tanınmak suretiyle davalının elatmasının önlenmesine karar verilmesi, ecrimisil isteğinin ise reddedilmesi gerekirken, yanılgılı değerlendirme ile yazılı olduğu üzere hüküm kurulması isabetsizdir.Davalının temyiz itirazı açıklanan nedenden ötürü yerindedir.Kabulüyle hükmün HUMK.'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 12.11.2008 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2008/6129 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78122800)
 
 Davacı, kayden maliki olduğu 35 parsel sayılı taşınmazdaki dairelerden birine başta gösterdiği rıza üzerine davalının ailesiyle birlikte oturduğunu, sonradan muvafakatini geri aldığını bildirdiği halde davalının çekişmeli taşınmazı boşaltmadığını ileri sürerek, tahliyesi suretiyle elatmanın önlenmesini, birleşen davanın ise reddini istemiştir.
 
@@ -158,6 +174,8 @@ Ne varki, harici satış, satın alan lehinde kişisel hak doğurur. Anılan bu 
 Davalının, bu yöne değinen teyiz itirazı yerindedir. Kabulüyle hükmün HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2007/9363 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77926900)
 
 Davacılar, kayden maliki oldukları 6 sayılı parseldeki 13 numaralı bağımsız bölümü davalının işgal ettiğini ileri sürerek, elatmanın önlenmesi ve ecrimisil istemişlerdir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2011/5498 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764141300)
+
 Mahkemece, asıl davanın reddine, davacı ve karşı davalının bina yaparak elattığı sabit olduğundan elatmasının önlenmesine, kal isteminin reddine 647 sayılı parseldeki binanın davacı ve davalı tarafından yapıldığının tespitine karar verilmiştir.
 
 …
@@ -33,6 +35,8 @@ Bilindiği üzere Türk Medeni Kanununun 683.maddesi uyarınca bir şeye malik o
 SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle davacı ve karşı davalının bütün temyiz itirazlarının reddine, hükmün 2.bent uyarınca davalı ve karşı davacı yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2011/4253 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78939700)
 
 Davacı, kayden maliki bulunduğu 75 parsel sayılı taşınmazın değerini etkileyecek biçimde davalı şirketin deniz dolgusu ve bir çok yapı ve düzenleme yaptığını, taşınmaza davalı şirketin 3 yıldan bu yana elattığını ileri sürüp, elatmanın önlenmesi, yıkım, eski hale getirme ve ecrimisil istemiştir.
 
@@ -52,6 +56,8 @@ Davalının, temyiz itirazları yerindedir. Kabulüyle, hükmün HUMK.'nun 428.m
 
 ## Yargıtay 14. HD 2011/4097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760771900)
+
 Dava, çaplı taşınmaza elatmanın kal suretiyle önlenmesi istemine ilişkindir.
 
 Davalılar davanın reddini savunmuş, birleşen davalarında ise Türk Medeni Kanununun 725. maddesine dayanarak temliken tescil yada taşırılan arazi üzerinde irtifak hakkı tesisini talep etmiştir.
@@ -65,6 +71,8 @@ Türk Medeni Kanununun 683. maddesi uyarınca taşınmaz maliki eşyayı diledi�
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 8. HD 2011/2345 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564956100)
 
 Davacı vekili, ortak miras bırakan ...’dan kalan taşınmazların rızai taksimle paylaşıldığını, miras hakkı olarak toplam 129 dönüm taşınmazın anneleri ...’nin vefatı ile davalılar tarafından kullanıldığını, davalıların 2009/780 Esasına kayıtlı elatmanın önlenmesi ve ecrimisil davası açarak, 240 ve 242 parsellerdeki hisselerinin verilmediğini iddia ettiklerini, 241 parsel sayılı taşınmazda ise 45 dönümlük yeri sürmek suretiyle vekil edeninin zilyetliğine el koyduklarını, taşınmazdan el çekmeleri için idareye yapılan başvuru konusunda dava bulunduğundan bahisle işlemsiz bırakıldığını, anılan davanın feragatle sonuçlandığını ileri sürerek, davalıların el koydukları tahminen 45 dönümlük kısma yönelik vekil edeninin zilyetliğin korunmasına, bu yerden davalıların el çektirilmesine karar verilmesini istemiştir.
 
@@ -82,6 +90,8 @@ Davacı vekilinin temyiz itirazları bu bakımlardan yerinde olduğundan kabulü
 
 ## Yargıtay 5. HD 2011/1408 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573260600)
+
 Dava, kamulaştırmasız el atılarak enerji nakil hattı geçirilen taşınmazın, irtifak hakkı karşılığının tahsili istemine ilişkindir.
 
 Mahkemece uyulan bozma kararı uyarınca inceleme yapılarak hüküm kurulmuş, hüküm davalı idare vekilince temyiz edilmiştir.
@@ -96,6 +106,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 14. HD 2011/1060 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759107300)
+
 Mahkemece, davalıların aktif bir elatmaları olmadığından meni müdahele istemi hakkında karar verilmesine yer olmadığına, 24,00 TL ecrimisilin davalılardan tahsiline karar verilmiştir.
 
 …
@@ -107,6 +119,8 @@ Türk Medeni Kanununun 683.maddesi uyarınca, malikin eşya üzerinde yasaların
 SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle davacının diğer temyiz itirazlarının reddine, hükmün 2.bentte yazılı nedenlerle davacı yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2011/670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78693800)
 
 Davacı- karşı davalı, dava konusu 990 ada, 58 parsel sayılı taşınmazı 2007 yılında satış yoluyla iktisap ettiğini, davalının haklı ve geçerli bir neden olmaksızın taşınmazda yer alan evde ikamet etmeye devam ettiğini, fuzuli şagil olduğunu ileri sürerek elatmanın önlenmesi, karşı davanın ise reddi isteğinde bulunmuştur.
 
@@ -128,6 +142,8 @@ Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün
 
 ## Yargıtay 1. HD 2011/191 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78647100)
+
 Davacı, paydaşı olduğu çekişme konusu taşınmazlara davalıların haklı ve geçerli neden olmaksızın müdahale ederek kullandıklarını ileri sürerek, elatmanın önlenmesi ve toplam 19.301,24 TL ecrimisilin tahsilini istemiş, yargılama sırasında 53 ada 17 nolu parsel yönünden açılan dava tefrik edilerek eldeki davaya konu edilmiştir.
 
 …
@@ -144,6 +160,8 @@ Davacının, temyiz itirazı yerindedir. Kabulüyle hükmün açıklanan nedenle
 
 ## Yargıtay 14. HD 2010/13844 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769990300)
+
 Dava, mülkiyet hakkına dayalı elatmanın önlenmesi ve ecrimisil tahsili istemlerine ilişkindir.
 
 Davalı, savunmada bulunmamıştır.
@@ -158,6 +176,8 @@ Mahkemece, bu yönler gözetilerek davalının elatmanın önlenmesine karar ver
 
 ## Yargıtay 14. HD 2010/13557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770022300)
+
 Davacı, 104 ada 66 parsel sayılı taşınmazın maliki olduğunu, davalı şirketin bu yere santral koyduğunu ve burayı kullanmasına engel olduğunu, haksız elatmanın kal suretiyle önlenmesini ve 3 yıllık ecrimisil tutarı 2.700,00 TL’nin davalıdan tahsiline karar verilmesini istemiştir.
 
 Davalı, taşınmazı dava dışı köyün göstermesi üzerine kullandıklarını, kaldı ki Aralık 2009 ayında santrali kaldırdıklarını, davanın reddini savunmuştur.
@@ -171,6 +191,8 @@ Davalı, taşınmazı dava dışı köyün göstermesi üzerine kullandıkların
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/13130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78513800)
 
 Davacı, dava konusu 3909 ada 2 parsel sayılı taşınmazda paydaş bulunduğunu ancak davalıların taşınmaza ev, bahçe yapmak suretiyle müdahalede bulunmaları sebebiyle taşınmazdan istifade edemediğini ileri sürerek elatmanın önlenmesi, alacak ve muhtesatların yıkımı isteklerinde bulunmuştur.
 
@@ -192,6 +214,8 @@ Davalı F.’un, temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan 
 
 ## Yargıtay 2. HD 2010/12220 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81738600)
+
 Davacı M. 19.6.2007 tarihinde aile mahkemesinde açtığı dava ile; 3/4 payın kocası tarafından kayınvalidesi H.'e devrinin muvazaalı olduğunu, rızası alınmadan gerçekleştirildiğini ileri sürdüğüne göre, davacının bu payla ilgili iptal ve tescil isteği Türk Medeni Kanununun 194/1. maddesine dayanmaktadır. Yapılan soruşturma ve ve toplanan delillerden taşınmazın davacı Medine ile davalı H.'nün aile konutu olarak kullanıldığı, intikalden sonra taşınmazda pay çoğunluğunun davalı H.'de olduğu, davalı H.'nün konutu beş altı yıl önce terkederek annesiyle birlikte başka bir yere gittiği ve taşınmazda halen davacı M. ile çocuklarının oturduğu, taşınmazın eşlerin aile konutu olarak kullanılma vasfının devam ettiği anlaşılmaktadır.
 
 …
@@ -204,6 +228,8 @@ SONUÇ: Temyiz edilen hükmün yukarıda (2.) bentte gösterilen sebeple BOZULMA
 
 ## Yargıtay 14. HD 2010/12042 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770008000)
+
 Davalılar, çekişmeli 3 numaralı bağımsız bölümün önceki maliki olduklarını bu yeri teminat amaçlı olarak dava dışı ...’a devrettiklerini ...’un da tapuyla malik oldukları bu yeri davacıya sattığını, açılan davanın reddini savunmuştur.
 
 …
@@ -213,6 +239,8 @@ Türk Medeni Kanununun 683. maddesi uyarınca taşınmaz malikinin o taşınmazd
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/10464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655161300)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi istemine ilişkindir.
 
@@ -227,6 +255,8 @@ Türk Medeni Kanununun 683. maddesi uyarınca bir şeye malik olan kimse o şeyi
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/10091 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78536000)
 
 Davacı,kayden maliki olduğu 973 ada 210 parseldeki 8 nolu bağımsız bölüme davalıların haksız olarak müdahele ettiklerini ileri sürerek elatmanın önlenmesi ve ecrimisil isteklerinde bulunmuştur.
 
@@ -248,6 +278,8 @@ Davalıların, temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan ne
 
 ## Yargıtay 1. HD 2010/9435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78447800)
+
 Davacı, işine son verildiği halde davalının maliki oldukları lojmanda haklı ve geçerli bir nedene dayanmaksızın oturmaya devam ettiğini ileri sürerek elatmanın önlenmesi ve ecrimisil isteğinde bulunmuştur.
 
 …
@@ -264,6 +296,8 @@ Davacının temyiz itirazları yerindedir.Kabulüyle hükmün açıklanan nedenl
 
 ## Yargıtay 14. HD 2010/7564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768824900)
+
 Mahkemece kanıtlanmayan davanın reddine karar verilmiştir.
 
 …
@@ -275,6 +309,8 @@ Türk Medeni Kanununun 683. maddesi hükmüne göre bir şeye malik olan kimse o
 SONUÇ: Yukarıda açıklanan nedenlerle davacı temyiz itirazının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/5710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78629300)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -292,6 +328,8 @@ Hal böyle olunca; 1940 tarih, 2/77 sayılı İçtihadı Birleştirme kararı da
 
 ## Yargıtay 1. HD 2010/3963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79386700)
+
 Davacılar, maliki oldukları binanın duvarına davalılar tarafından reklam levhaları asılmak suretiyle müdahale edildiğini ileri sürerek elatmanın önlenmesi, levhaların kaldırılması ve ecrimisil isteğinde bulunmuşlardır.
 
 Davalılar, davanın reddini savunmuşlardır.
@@ -308,6 +346,8 @@ Hal böyle olunca, Türk Medeni Kanunun 683. maddesinden kaynaklanan davacılara
 
 ## Yargıtay 7. HD 2010/3855 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794737700)
+
 Mülkiyet hakkına dayalı olarak açılan elatmanın önlenmesi davaları taşınmazların aynına ilişkin davalardandır. Hal böyle olunca kadastro mahkemesinde görülen davalarda mahkemece öncelikle elatmanın önlenmesi davası sonucunda verilmiş bir hüküm varsa bu hükmün dava konusu taşınmazı kapsayıp kapsamadığının belirlenmesi, taşınmazın kesin hüküm kapsamında kaldığının belirlenmesi halinde uyuşmazlığın kesin hükme değer verilerek çözümlenmesi gerekir.
 
 …
@@ -315,6 +355,8 @@ Mülkiyet hakkına dayalı olarak açılan elatmanın önlenmesi davaları taş�
 Mahkemece bu olgular göz ardı edilerek yazılı şekilde hüküm kurulması isabetsiz, davacı ...'ın temyiz itirazları bu nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/3709 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919175000)
 
 Davacılar, kayden paydaşı oldukları 2415 ada 140 parsel sayılı taşınmazı tahta perde ile çevirmek suretiyle davalının haksız kullandığını ileri sürüp, elatmanın önlenmesine ve tahta perdenin yıkımına karar verilmesini istemişlerdir.
 
@@ -336,6 +378,8 @@ Davacıların, temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan n
 
 ## Yargıtay 1. HD 2010/2026 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78788300)
+
 Davalı, iddiaların yersiz olduğunu, kullandığı taşınmazların davacılara ait olmadığını bildirip, davanın reddini savunmuştur.
 
 Mahkemece, iddiaların kanıtlanamadığı gerekçesiyle, davanın reddine karar verilmiştir.
@@ -354,6 +398,8 @@ Davacıların, temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan ne
 
 ## Yargıtay 1. HD 2010/1489 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78699400)
+
 Davalı, davanın reddini savunmuştur.
 
 Mahkemece, dava konusu taşınmaz üzerindeki binanın kaçak yapı niteliğinde bulunması nedeniyle davanın reddine karar verilmiştir.
@@ -370,6 +416,8 @@ Hal böyle olunca, davanın kabulüne karar verilmesi gerekirken aksine düşün
 
 ## Yargıtay 14. HD 2009/12606 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850795900)
+
 Davacı, davalının dere yatağına çeşme yapmak ve paylı malik olduğu 301 ve 306 sayılı parsellerden bu çeşmeye su getirmek, için boru geçirmek suretiyle yaptığı yersiz el atmanın önlenmesine, çeşmenin ve boruların kal'ine karar verilmesini istemiştir.
 
 Davalı, davanın reddini savunmuştur.
@@ -385,6 +433,8 @@ Mahkemece zarar unsuru gerçekleşmediği ve komşuluk hukuku gereğince davacı
 SONUÇ: Yukarıda yazılı nedenlerle, davacının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/12219 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78567300)
 
 Davacı, kayden paydaş olduğu 653 parsel sayılı taşınmazı davalıların haklı ve geçerli bir nedene dayanmaksızın sürüp, ekmek suretiyle işgal ettiğini ileri sürerek, elatmanın önlenmesi, kal ve ecrimisil isteğinde bulunmuştur.
 
@@ -408,6 +458,8 @@ Davacının, temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan ned
 
 ## Yargıtay 14. HD 2009/8419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842734400)
+
 Davacı, mülkiyeti kendisine ait 185 Ada 11 parsel sayılı taşınmaza davalının yaptığı müdahalenin menini istemiştir.
 
 Davalı davanın reddini savunmuş, mahkemece davanın kabulüne karar verilmiştir.
@@ -419,6 +471,8 @@ Eldeki davada amaçlanan sonuç, mülkiyet hakkının korunmasıdır. Türk Mede
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/8265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78491200)
 
 Davacı, kayden paydaş olduğu 22 ayrı taşınmazdaki paylarını davalıların tasarruf ettiğini, payından az yer kullandığını ileri sürerek, elatmanın önlenmesi ve ecrimisil isteğinde bulunmuştur.
 
@@ -437,6 +491,8 @@ Hal böyle olunca; davacının paydaşı olduğu, tasarruf edebileceği bir yer 
 Davacının, temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/6644 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78022900)
 
 Davacı, vakıf mülkiyetinde bulunan. parsel sayılı taşınmazdaki camiinin minaresine davalı şirketin baz istasyonu kurmak suretiyle müdahale ettiğini ileri sürerek, elatmanın önlenmesi ve baz istasyonunun kaldırılması isteğinde bulunmuştur.
 

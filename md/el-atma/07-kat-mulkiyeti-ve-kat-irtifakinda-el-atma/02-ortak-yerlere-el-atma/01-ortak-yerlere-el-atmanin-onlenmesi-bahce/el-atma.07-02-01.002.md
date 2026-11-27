@@ -202,6 +202,8 @@ Taraf vekillerinin temyiz itirazları yerinde olduğundan temyiz olunan Bölge A
 
 ## Yargıtay 5. HD 2026/3616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203975400)
+
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonunda davanın kabulüne karar verilmiştir.
 
 …
@@ -258,6 +260,8 @@ Dairemizce yapılan inceleme sonucunda, yönetim planının 33... üncü maddele
 Davalılar vekillerinin temyiz itirazlarının kabulü ile temyiz olunan İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/18133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206652900)
 
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonunda davanın kısmen kabulüne karar verilmiştir.
 

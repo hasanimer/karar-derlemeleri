@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2024/853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044537600)
+
 … rasbırakan tarafından **hibe suretiyle devredilen taşınmazlar yönünden muris muvazaasına ilişkin 01.04.1974 tarih ½ sayılı İçtihadı Birleştirme Kararının uygulama yeri bulunmadığı**…
 
 ## Yargıtay 1. HD 2023/997 K. (hibe yoluyla devredilen taşınmazlar yönünden İBK uygulanmaz)

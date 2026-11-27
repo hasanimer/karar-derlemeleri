@@ -21,12 +21,18 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2011/9469 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78828700)
+
 Diğer taraftan, çekişme konusu taşınmazın sicil kaydının oluşumu Kadastro Yasasından kaynaklanmamakta, ihdasen meydana getirilen bir sicil olması nedeniyle 3402 sayılı Yasanın 12/3. maddesinin uygulanma yeri de yoktur.
 
 ## Yargıtay 1. HD 2010/2614 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78926000)
+
 Ancak, 2044 sayılı diğer tevhit parselinin kadastral parsel olmadığı, kadastrodan sonra ihdasen kayda bağlandığı anlaşıldığından, anılan parsel bakımından 10 yıllık hak düşürücü sürenin uygulanma olanağı bulunmadığı açıktır.
 
 ## Yargıtay 20. HD 2009/7737 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894285900)
 
 Çekişmeli taşınmaz genel kadastroda orman niteliğiyle tapulama dışı bırakılıp ihdasen tapuya kayıt edilen parselden 2981 Sayıl Yasa hükümlerine göre ifraz edildiğinden 3402 Sayılı Yasanın 12/3. maddesindeki 10 yıllık hak düşürücü sürenin somut olayda uygulanamayacağı,…

@@ -22,14 +22,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2019/89 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481249800)
+
 Ayrıca kabule göre de; Yargıtayın kararlılık kazanmış uygulamaları nazara alınarak dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider ve aidat alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu aidatların belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye incelettirilerek davalının davaya konu ortak gider ve aidat borçlarının bulunup bulunmadığının ve borcu var ise ödeyip ödemediğinin tespit ettirilmesi, belge ve kayıt bulunmadığı takdirde tarafların tüm delilleri toplanıp oluşacak sonuç doğrultusunda bir karar verilmesi gerekmektedir.
 Kat Mülkiyeti Kanununun 20. maddesinin ikinci fıkrası hükmüne göre ortak giderden payına düşeni ödemeyen bağımsız bölüm malikinin ödemede geciktiği günler için ödemekle yükümlü bulunduğu gecikme tazminatının başlangıç gününün açıkça saptanmış olması gerekir. Dava konusu ortak giderin dayanağını oluşturan kat malikleri kurulu kararına davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın kendisine tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu da yoksa hakkında açılan icra takibi nedeniyle ödeme emrinin tebliğ edildiği tarih esas alınmalıdır. Mahkemece ilgili tüm belgelerin celbi ve taraf delilileri toplanmak suretiyle yukarıda belirtilen esaslar çerçevesinde incelenerek oluşacak sonuca karar verilmesi gerekirken eksik inceleme ve yetersiz bilirkişi raporuna dayanılarak hüküm kurulması ve davalının ortak gider borcunu öğrendiği günün açıkça belirlenmesi, icra takibinden önce öğrenmediği saptandığında gecikme tazminatının ödeme emrinin tebliğinden itibaren başlatılması gerekirken, bu konuda yeterli inceleme ve araştırma yapılmadan gecikme tazminatına hükmedilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2018/15776 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451667000)
+
 Dosya içerisindeki bilgi ve belgelerden; davalı borçlu vekilinin takip esnasında 31.08.2015 tarihli dilekçe ile davalı 3. kişi ... AVM Toplu Yapı Temsilciler Kurulu ile kat malikleri olan mağaza sahipleri lehine istihkak iddiasında bulunduğu, kat maliklerinin isimlerine dilekçe içeriğinde yer verilmemekle birlikte, dilekçe ekindeki listede tek tek gösterildikleri, alacaklı vekili tarafından düzenlenen dava dilekçesinde ise, HMK’nın 119/1-b maddesine aykırı olarak davalı 3. kişinin “... AVM Toplu Konut Yapı Temsilcileri ve Kat Malikleri Olan Mülk Sahipleri” olarak gösterildiği, Mahkemece dava dilekçesinin tebliğine ilişkin tebligat parçası üzerine bu ibarenin aynen yazılarak tebligatın toplu yapı yönetimine tebliğ edildiği anlaşılmıştır.
 
 ## Yargıtay 20. HD 2018/8325 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470253600)
 
 Mahkemece; davanın kısmen kabulüne karar verilmiş, kurulan hüküm alınan bilirkişi raporuna dayandırılmış ise de, bilirkişi raporu hüküm kurmaya elverişli, yeterli tespitler içermemektedir. Kat Mülkiyeti Kanununun 20. maddesinin ikinci fıkrası hükmüne göre, ortak giderden payına düşeni ödemeyen bağımsız bölüm malikinin ödemede geciktiği günler için ödemekle yükümlü bulunduğu gecikme tazminatının başlangıç gününün açıkça saptanmış olması gerekir. Dava konusu ortak giderin, dayanağını oluşturan düzenleme; işletme projesi ise işletme projesinin davalıya tebliğ edildiği tarih, kat malikleri kurulu kararı ise bu kurula davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın kendisine tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu da yoksa hakkında açılan icra takibi varsa ödeme emrinin tebliğ edildiği tarih esas alınmalıdır.
 O halde; öncelikle aidat borcunun doğduğu dönemlere ilişkin alınan kat malikleri kurulu kararlarına ait belgeler (toplantı tutanakları, hazirun cetveli, gündem, vs.) dosyaya celbedilerek, bu kararların iptal edilip edilmediği, davalılara tebliğ edilip edilmediği tespit edildikten sonra tebliğ tarihinden itibaren gecikme tazminatı uygulanabilecek olup, temerrüt tarihi duraksamaya yer vermeyecek şekilde tespit edilmelidir. Öte yandan, taraflar arasında imzalanan ve dosya kapsamında bulunan, "İstanbul Halkalı 2. Etap Konutları Gelir Paylaşma Esasına Göre İnşaat ve Satışı İşine Ait Sözleşme" hükümlerinin de bütünü ile taraflar arasındaki ihtilafta dikkate alınması ve bu sözleşme hükümlerine göre asıl alacak tutarının, diğer alacak kalemlerinin ve faiz miktarlarının hesaplanması, davalıların aidatların ve ortak gider borçlarının faizlerinden bunları öğrendikleri tarih itibari ile sorumlu olacakları, ana taşınmazın yönetim planının gecikme faizine yönelik hükümlerinin tarafları bağlayacağı dikkate alınarak oluşacak sonuca göre bir hüküm kurulması gerekirken anılan hususların dikkate alınmamış olması doğru görülmemiştir.
@@ -37,17 +43,25 @@ Buna göre; tarafların tüm delilleri, banka kayıtları, ödeme belgeleri celb
 
 ## Yargıtay 20. HD 2018/8241 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471504200)
+
 Yargıtay'ın kararlılık kazanmış uygulamaları nazara alınarak öncelikle takibe konu aidatların hangi dönemlere ilişkin olduğu davacı tarafa açıklattırılarak; dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider ve aidat alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu aidatların belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye incelettirilerek davalının davaya konu ortak gider ve aidat borçlarının bulunup bulunmadığının ve borcu var ise ödeyip ödemediğinin tespit ettirilmesi, belge ve kayıt bulunmadığı takdirde tarafların tüm delilleri toplanıp oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken eksik inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/8211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470940300)
 
 Kat Mülkiyeti Kanununun 20. maddesinin ikinci fıkrası hükmüne göre ortak giderden payına düşeni ödemeyen bağımsız bölüm malikinin ödemede geciktiği günler için ödemekle yükümlü bulunduğu gecikme tazminatının başlangıç gününün açıkça saptanmış olması gerekir. Dava konusu ortak giderin dayanağını oluşturan işletme projesi ise işletme projesinin davalıya tebliğ edildiği tarih, kat malikleri kurulu kararına dayalı ise davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın kendisine tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu da yoksa hakkında açılan icra takibi nedeniyle ödeme emrinin tebliğ edildiği tarih esas alınmalıdır. Mahkemece, yukarıdaki esaslar dikkate alınarak davalının ortak…
 
 ## Yargıtay 20. HD 2018/7794 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466458500)
+
 Somut uyuşmazlıkta icra takibine konu alacağın dayanağının kat malikleri kurul kararı olduğu anlaşılmakla yukarıda bahsedilen KMK’nın 20. maddesinin 2. fıkrasına göre, ortak giderden payına düşeni ödemeyen davalının geciktiği günler için ödemekle yükümlü bulunduğu gecikme tazminatının başlangıcının açıkça tespiti gerekir; buna göre dava konusu ortak giderin dayanağını oluşturan kat malikleri kurulu kararına davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın kendisine tebliğ edildiği veya başka bir biçimde borcunu öğrendiği tarih, nihayet hakkında açılan icra takibi nedeniyle ödeme emrinin tebliğ edildiği tarih başlangıca esas alınmalıdır. Mahkemece, yukarıdaki esaslar gözetilerek davalının aidat borcunu öğrendiği günün açıkça belirlenmesi, icra takibinden önce öğrenmediğinin tespiti halinde öğrenme tarihinden, bu durumun tespit edilememesi halinde ise gecikme tazminatının ödeme emrinin tebliğinden itibaren başlatılması gerekirken; mahkemece, bu konuda yeterli inceleme ve araştırma yapılmadan hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/7768 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470236000)
 
 Mahkemece; davanın kısmen kabulüne karar verilmiş, kurulan hüküm alınan bilirkişi raporuna dayandırılmış ise de, bilirkişi raporu hüküm kurmaya elverişli, yeterli tespitler içermemektedir. Kat Mülkiyeti Kanununun 20. maddesinin ikinci fıkrası hükmüne göre,
 
@@ -56,10 +70,14 @@ Tarafların tüm delilleri, banka kayıtları, ödeme belgeleri celbedilerek, da
 
 ## Yargıtay 20. HD 2018/7763 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470273700)
+
 Kat Mülkiyeti Kanununun 20. maddesinin ikinci fıkrası hükmüne göre, ortak giderden payına düşeni ödemeyen bağımsız bölüm malikinin ödemede geciktiği günler için ödemekle yükümlü bulunduğu %5 oranındaki gecikme tazminatının başlangıç gününün açıkça saptanmış olması gerekir. Dava konusu ortak giderin, dayanağını oluşturan düzenleme; işletme projesi ise işletme projesinin davalıya tebliğ edildiği tarih, kat malikleri kurulu kararı ise bu kurula davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın kendisine tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu da yoksa hakkında açılan icra takibi nedeniyle ödeme emrinin tebliğ edildiği tarih esas alınmalıdır.
 O halde; öncelikle aidat borcunun doğduğu dönemlere ilişkin alınan kat malikleri kurulu kararlarına ait belgeler (toplantı tutanakları, hazirun cetveli, gündem, vs.) dosyaya celbedilerek, bu kararların iptal edilip edilmediği, davalıya tebliğ edilip edilmediği tespit edildikten sonra tebliğ tarihinden itibaren gecikme tazminatı uygulanabilecek olup, temerrüt tarihi duraksamaya yer vermeyecek şekilde tespit edilmeksizin takip tarihinden öncesine gecikme tazminatı işletilmesi doğru görülmemiştir. Tarafların tüm delilleri, banka kayıtları, ödeme belgeleri celbedilerek, davalının ödemesi gereken bir meblağ bulunup bulunmadığı tam olarak tespit edilip, alınacak uzman mali müşavir bilirkişi raporu doğrultusunda, 634 sayılı Kat Mülkiyeti Kanunu hükümleri de birlikte değerlendirildikten sonra oluşacak sonuca göre karar verilmesi gerekirken, eksik ve yetersiz incelemeyle karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/7578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470286300)
 
 Yargıtay'ın kararlılık kazanmış uygulamaları nazara alınarak dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu ortak gider alacağının belirlendiği kat malikleri kurulu
 
@@ -67,38 +85,54 @@ toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kar
 
 ## Yargıtay 20. HD 2018/7576 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470274700)
+
 Yargıtay'ın kararlılık kazanmış uygulamaları nazara alınarak dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu ortak gider alacağının belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye incelettirilerek davalının davaya konu ortak gider ve aidat borçlarının bulunup bulunmadığının ve borcu var ise ödeyip ödemediğinin tespit ettirilmesi, belge ve kayıt bulunmadığı takdirde tarafların tüm delillerinin toplanması ve gecikme tazminatının başlangıcının tesbitinde, davalının belirtilen toplantılara katılması halinde toplantı tarihi, katılmadıysa toplantı tutanaklarının ya da işletme projesinin davalıya tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu husus da belirlenemiyorsa icra takibi nedeniyle ödeme emrinin
 borçluya tebliğ edildiği tarihin esas alınması gerektiği düşünülerek, fergat edilen borç kalemi de değerlendirilerek oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken eksik inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/7573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470254800)
 
 Yargıtay’ın kararlılık kazanmış uygulamaları nazara alınarak öncelikle dava kousu taşınmazın tüm bağımsız bölümlerini gösterir tapu kaydı ve yönetim planı ile dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu ortak gider alacağının belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye incelettirilerek davalının davaya konu ortak gider ve aidat borçlarının bulunup bulunmadığının ve borcu var ise ödeyip ödemediğinin tespit ettirilmesi, belge ve kayıt bulunmadığı takdirde tarafların tüm delillerinin toplanması ve gecikme tazminatının başlangıcının tesbitinde, davalının belirtilen toplantılara katılması halinde toplantı tarihi, katılmadıysa toplantı tutanaklarının ya da işletme projesinin davalıya tebliğ edildiği ya da başka bir
 biçimde borcunu öğrendiği tarih, bu husus da belirlenemiyorsa icra takibi nedeniyle ödeme emrinin borçluya tebliğ edildiği tarihin esas alınması gerektiği düşünülerek oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken eksik inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/7240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465224500)
+
 Kat Mülkiyeti Kanununun 20. maddesinin 2. fıkrasına göre, ortak giderden payına düşeni ödemeyen bağımsız bölüm malikinin geciktiği günler için ödemekle yükümlü bulunduğu gecikme tazminatının başlangıcının açıkça tespiti gerekir; buna göre dava konusu ortak giderin dayanağını oluşturan kat malikleri kurulu kararına davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın veya işletme projesinin kendisine tebliğ edildiği veya başka bir biçimde borcunu öğrendiği tarih, nihayet hakkında açılan icra takibi nedeniyle ödeme emrinin tebliğ edildiği tarih başlangıca esas alınmalıdır.
 
 ## Yargıtay 20. HD 2018/7184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469957700)
 
 Mahkemece; davanın kısmen kabulüne karar verilmiş, kurulan hüküm alınan bilirkişi raporuna dayandırılmış ise de; bilirkişi raporu hüküm kurmaya elverişli değildir. Öncelikle; ana taşınmazın kooperatif olarak yönetildiği dönemdeki kooperatif üyelik listesinin celbi ile davalının kooperatif üyeliğinin bulunup bulunmadığının, eğer davalının kooperatife üyeliği olmuş ise üyeliğinin başladığı tarihin, kooperatife üyeliği olmamış ise davalının aidatlara konu edilen bağımsız bölümü edindiği tarihin tam olarak tespit edilerek buna göre takiple bağlı olarak sorumlu olacağının dikkate alınması ve bu tarihte Kat Mülkiyeti Kanununun 20. maddesinin ikinci fıkrası hükmüne göre, ortak giderden payına düşeni ödemeyen bağımsız bölüm maliki davalının ödemede geciktiği günler için ödemekle yükümlü bulunduğu gecikme tazminatının başlangıç gününün açıkça saptanmış olması gerekir.
 Buna göre; dava konusu ortak giderin dayanağını oluşturan düzenleme; işletme projesi ise işletme projesinin davalıya tebliğ edildiği tarih, kat malikleri kurulu kararı ise bu kurula davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın kendisine tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu da yoksa hakkında açılan icra takibi nedeniyle ödeme emrinin tebliğ edildiği tarih esas alınmalıdır. O halde; öncelikle aidat borcunun doğduğu dönemlere ilişkin alınan kat malikleri kurulu kararlarına ait belgeler (toplantı tutanakları, hazirun cetveli, gündem, vs.) dosyaya celbedilerek, bu kararların iptal edilip edilmediği, davalıya tebliğ edilip edilmediği tespit edilmesi, tebliğ tarihinden itibaren gecikme tazminatı uygulanması gerekirken, temerrüt tarihi duraksamaya yer vermeyecek şekilde tespit edilmeksizin takip tarihinden öncesine gecikme tazminatı işletilmesi doğru görülmemiştir. Tarafların tüm delilleri, banka kayıtları,…
 
 ## Yargıtay 20. HD 2018/7180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465057100)
+
 07.2013 tarihli kat malikleri kurulunda alınan kararlarının içinde yer aldığı karar defterinin veya onaylı örneğinin, hazirun listelerinin, çağrı davetiyelerinin, toplantı gündeminin, bu toplantıda kullanılan oylara ve vekaletnamelere ait listelerin, alınan kararın davacıya tebliğ edilme tarihini gösterir tebellüğ listesinin site yönetiminden,…
 
 ## Yargıtay 20. HD 2018/7177 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469884200)
 
 Mahkemece; davanın kısmen kabulüne karar verilmiş, kurulan hüküm alınan bilirkişi raporuna dayandırılmış ise de bilirkişi raporu hüküm kurmaya elverişli, yeterli tespitler içermemektedir. Kat Mülkiyeti Kanununun 20. maddesinin ikinci fıkrası hükmüne göre, ortak giderden payına düşeni ödemeyen bağımsız bölüm malikinin ödemede geciktiği günler için ödemekle yükümlü bulunduğu gecikme tazminatının başlangıç gününün açıkça saptanmış olması gerekir. Dava konusu ortak giderin, dayanağını oluşturan düzenleme; işletme projesi ise işletme projesinin davalıya tebliğ edildiği tarih, kat malikleri kurulu kararı ise bu kurula davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın kendisine tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu da yoksa hakkında açılan icra takibi nedeniyle ödeme emrinin tebliğ edildiği tarih esas alınmalıdır.
 O halde; öncelikle aidat borcunun doğduğu dönemlere ilişkin alınan kat malikleri kurulu kararlarına ait belgeler (toplantı tutanakları, hazirun cetveli, gündem, vs.) dosyaya celbedilerek, bu kararların iptal edilip edilmediği, davalıya tebliğ edilip edilmediği tespit edildikten sonra tebliğ tarihinden itibaren gecikme tazminatı uygulanabilecek olup, temerrüt tarihi duraksamaya yer vermeyecek şekilde tespit edilmeksizin takip tarihinden öncesine gecikme tazminatı işletilmesi doğru görülmemiştir. Tarafların tüm delilleri, banka kayıtları, ödeme belgeleri celbedilerek, davalının ödemesi gereken bir meblağ bulunup bulunmadığı tam olarak tespit edilip, alınacak uzman mali müşavir bilirkişi raporu doğrultusunda, 634 sayılı Kat Mülkiyeti Kanunu hükümleri de birlikte değerlendirildikten sonra oluşacak sonuca göre karar verilmesi gerekirken, eksik ve yetersiz incelemeyle karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/7091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/460975000)
+
 Yargıtayın kararlılık kazanmış uygulamaları nazara alınarak dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu ortak gider alacağının belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye incelettirilerek davalının davaya konu ortak gider ve aidat borçlarının bulunup bulunmadığının ve borcu var ise ödeyip ödemediğinin tespit ettirilmesi, belge ve kayıt bulunmadığı takdirde tarafların tüm delillerinin toplanması ve gecikme tazminatının başlangıcının tesbitinde, davalının belirtilen toplantılara katılması halinde toplantı tarihi, katılmadıysa toplantı tutanaklarının ya da işletme projesinin davalıya tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu husus da belirlenemiyorsa icra takibi nedeniyle ödeme emrinin
 borçluya tebliğ edildiği tarihin esas alınması gerektiği düşünülerek oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken eksik inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/6954 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465030100)
 
 Mahkemece; davanın kısmen kabulüne karar verilmiş ise de; kurulan hüküm alınan bilirkişi raporuna dayandırılmış ancak bilirkişi raporu hüküm kurmaya elverişli değildir. Kat Mülkiyeti Kanunu'nun 20. maddesinin ikinci fıkrası hükmüne göre, ortak giderden payına
 
@@ -107,9 +141,13 @@ Tarafların tüm delilleri, banka kayıtları, ödeme belgeleri, tahsilat makbuz
 
 ## Yargıtay 20. HD 2018/6938 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462030200)
+
 Yargıtay'ın kararlılık kazanmış uygulamaları nazara alınarak dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider ve aidat alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu aidatların belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi, anataşınmaza ait banka hesapları, reddiyat ve tahsilat makbuzları ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye incelettirilerek davalının davaya konu ortak gider ve aidat borçlarının bulunup bulunmadığının ve borcu var ise ödeyip ödemediğinin tespit ettirilmesi, belge ve kayıt bulunmadığı takdirde tarafların tüm delilleri toplanıp oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken eksik inceleme ile hüküm kurulması, doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/6936 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462011600)
 
 Mahkemece davacının dava dilekçesinde talep ettiği aidat borcunun hangi dönemlere ilişkin olduğu açıklattırılıp, Yargıtayın kararlılık kazanmış uygulamaları nazara alınarak dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider ve aidat alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu aidatların belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi, anataşınmaza ait banka hesapları, reddiyat ve tahsilat makbuzları ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye incelettirilerek davalının davaya konu ortak gider ve aidat borçlarının bulunup
 
@@ -117,26 +155,38 @@ bulunmadığının ve borcu var ise ödeyip ödemediğinin tespit ettirilmesi, b
 
 ## Yargıtay 20. HD 2018/6879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/450485800)
+
 Yargıtayın kararlılık kazanmış uygulamaları nazara alınarak dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider ve aidat alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu aidatların belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye incelettirilerek davalının davaya konu ortak gider ve aidat borçlarının bulunup bulunmadığının ve borcu var ise ödeyip ödemediğinin tespit ettirilmesi, belge ve kayıt bulunmadığı takdirde tarafların tüm delilleri toplanıp oluşacak sonuç doğrultusunda bir karar verilmesi gerekmektedir.
 
 ## Yargıtay 20. HD 2018/6875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452243000)
 
 Dava konusu taşınmazın tapu kaydı celp edilmemiş; davalıya borcun doğumuna sebep olan genel kurul kararının tebliğ edilip edilmediği incelenmemiştir.
 Mahkemece dava konusu siteye ait tüm bağımsız bölümleri gösteren tapu kaydı ve yönetim planı celp edilmelidir; sonrasında Yargıtayın kararlılık kazanmış uygulamaları nazara alınarak takibe konu aidatların hangi dönemlere ilişkin olduğu davacı tarafa açıklattırılarak; dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider ve aidat alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu aidatların belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye incelettirilerek davalının davaya konu ortak gider ve aidat borçlarının bulunup bulunmadığının ve borcu var ise ödeyip ödemediğinin tespit ettirilmesi, belge ve kayıt bulunmadığı takdirde tarafların tüm delilleri toplanıp oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken eksik inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/6868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/450478400)
+
 Takibe konu edilen borca ait olmak üzere yönetimde bulunan ortak gider ve aidat alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu aidatların belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi ile bu dosya arasına konulması,…
 
 ## Yargıtay 20. HD 2018/6719 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/449742400)
 
 Takibe konu edilen borca ait olmak üzere yönetimde bulunan ortak gider ve aidat alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu aidatların belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi,…
 
 ## Yargıtay 20. HD 2018/6640 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/445747300)
+
 Dosya kapsamında ana taşınmazın yönetim planı ve işletme projesi bulunmamakla; ilgili tapu müdürlüğünden ana taşınmazın yönetim planının ve davacı yönetimden varsa işletme projelerinin celbedilmesinden sonra, aidat ve genel giderlere ilişkin kat malikleri kurulu kararları (-hazirun listeleri, çağrı davetiyeleri, kararların kat maliklerine ve özellikle davalılara tebliğ edilme tarihini gösterir tebellüğ listesi, toplantı gündemi, bu toplantıda kullanılan oylara ve vekaletnamelere ait listeler-) ana taşınmazın yönetim planı hükümleri ve varsa işletme projesi de birlikte incelenerek, tarafların aidat yükümlülüklerinin ne zaman başladığının, kat malikleri kurulu kararlarının davalılara tebliğ edilip edilmediğinin, davalıların ödemekle yükümlü olduğu giderlere ilişkin miktarların tespiti için, kat mülkiyeti hukukundan ve mali hesaplardan anlayan bilirkişilerden tarafların ve Yargıtayın denetimine açık rapor alınması, ondan sonra oluşacak duruma göre bir karar verilmesi gerekirken, yukarıda anılan kanuni gereklilikler dikkate alınmaksızın, eksik ve yetersiz inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/6444 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454022000)
 
 Dosya içerisindeki bilgi ve belgelerin incelenmesinden;
 11/04/2016 tarihli bilirkişi raporunda takipteki istenilen tutarların tam olarak denetlenemediği, ortak gider avans borçları ile ilişkili olmadığı anataşınmazın ortak yerlerinin bakım korunması kapsamında olduğu, bahse konu giderlerin denetime elverişli belge sunulmadığı, mahkemece tutarın benimsenmesi halinde takip tarihinden itibaren aylık %5 gecikme tazminatı yürütülebileceği belirtilmiş olup, bu hali ile hüküm kurmaya elverişli bilirkişi raporu olmadığından mahkemece Yargıtayın kararlılık kazanmış uygulamaları nazara alınarak dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider ve aidat alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu aidatların belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi, anataşınmaza ait banka hesapları, reddiyat ve tahsilat makbuzları ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye
@@ -146,13 +196,19 @@ sonuç doğrultusunda bir karar verilmesi gerekirken eksik inceleme ile hüküm 
 
 ## Yargıtay 20. HD 2018/6337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/445078400)
+
 Dosya kapsamında anataşınmazın yönetim planı ve işletme projesi bulunmamakla; ilgili tapu müdürlüğünden ana taşınmazın yönetim planının ve davacı yönetimden varsa işletme projelerinin celbedilmesinden sonra, aidat ve genel giderlere ilişkin kat malikleri kurulu kararları (-hazirun listeleri, çağrı davetiyeleri, kararların kat maliklerine ve özellikle davalılara tebliğ edilme tarihini gösterir tebellüğ listesi, toplantı gündemi, bu toplantıda kullanılan oylara ve vekaletnamelere ait listeler-) anataşınmazın yönetim planı hükümleri ve varsa işletme projesi de birlikte incelenerek, tarafların aidat yükümlülüklerinin ne zaman başladığının, kat malikleri kurulu kararlarının davalılara tebliğ edilip edilmediğinin, davalıların ödemekle yükümlü olduğu giderlere ilişkin miktarların tespiti için, kat mülkiyeti hukukundan ve mali hesaplardan anlayan bilirkişilerden tarafların ve Yargıtayın denetimine açık rapor alınması, ondan sonra oluşacak duruma göre bir karar verilmesi gerekirken, yukarıda anılan kanuni gereklilikler dikkate alınmaksızın, eksik ve yetersiz inceleme ile hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/6201 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/443857000)
+
 Yargıtayın kararlılık kazanmış uygulamaları nazara alınarak mahkemece aidat yükümlüsü olan şirketin de davaya dahil edilerek taraf teşkili sağlandıktan sonra, dava konusu edilen döneme ait olmak üzere yönetimde bulunan ortak gider ve aidat alacağına ilişkin karar ve işletme defterleri, fatura ve makbuzları; davaya konu aidatların belirlendiği kat malikleri kurulu toplantılarına davalının katılıp katılmadığı, katılmamış ise bu kararların davalıya tebliğ edilip edilmediği, edilmiş ise buna ilişkin belgelerin varsa bu dönemlere ilişkin işletme projesinin aslı veya onaylı örneği ile işletme projesinin varsa davalıya tebliğine ilişkin belgelerin davacı yönetimden celbi ve diğer kayıt ve belgeler getirtilip tüm hesapların uzman bilirkişiye incelettirilerek davalının davaya konu ortak gider ve aidat borçlarının bulunup bulunmadığının ve borcu var ise ödeyip ödemediğinin tespit ettirilmesi, belge ve kayıt bulunmadığı takdirde tarafların tüm delilleri toplanıp oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken eksik inceleme ile karar verilmiş olması nedeni ile mahkemenin değerlendirmesi yerinde değildir.
 
 ## Yargıtay 20. HD 2018/6177 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/453942100)
 
 Dosya kapsamında anataşınmazın yönetim planı ve işletme projesi bulunmamakla; ilgili tapu müdürlüğünden anataşınmazın yönetim planının ve davacı yönetimden varsa işletme projelerinin celbedilmesinden sonra, aidat ve genel giderlere ilişkin kat malikleri kurulu kararları (-hazirun listeleri, çağrı davetiyeleri, kararların kat maliklerine ve özellikle davalılara tebliğ edilme tarihini gösterir tebellüğ listesi, toplantı gündemi, bu toplantıda kullanılan oylara ve vekaletnamelere ait listeler-) anataşınmazın yönetim planı hükümleri ve varsa işletme projesi 2017/3415 - 2018/6177 de birlikte incelenerek, tarafların aidat yükümlülüklerinin ne zaman başladığının, kat malikleri kurulu kararlarının davalılara tebliğ edilip edilmediğinin, davalıların ödemekle yükümlü olduğu giderlere ilişkin miktarların
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2007/4900 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77895600)
+
 Davacılar, kayden maliki oldukları . parsel sayılı taşınmaza davalının taşkın gecekondu yapmak suretiyle müdahale ettiğini ileri sürerek, elatmanın önlenmesi, yıkım ve ecrimisil isteğinde bulunmuştur.
 
 Davalı, tecavüzlü durumun imar uygulaması ile oluştuğunu, bina bedelinin ödenmesi gerektiğini bildirip, davanın reddini savunmuştur.
@@ -38,6 +40,8 @@ Kabulüyle hükmün açıklanan nedenlerden ötürü HUMK.'nun 428.maddesi gere�
 
 ## Yargıtay 14. HD 2007/3538 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850405500)
+
 Davalı, haksız elatma olmadığını, tecavüzü varsa iyiniyetli olduğunu ileri sürerek davanın reddini istemiştir.
 
 Mahkemece, çekişmeli duvarın davacı parseli içinde kaldığı ve davalının 18.61 m2'lik kısma tecavüz ettiğinden bu kısma ilişkin elatmanın önlenmesine, duvarın yıkım masrafı davalı tarafından karşılanarak kal'ine karar verilmiş, hükmü davalı ... temyiz etmiştir.
@@ -49,6 +53,8 @@ HUMK.nun 74.maddesi uyarınca; hakim talepten fazlasına hüküm veremez. Davac�
 SONUÇ : Yukarıda açıklanan nedenlerle davalının temyiz itirazının kabulüyle hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2007/3268 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78162900)
 
 Davacılar, kayden maliki bulundukları ..parsel sayılı taşınmazı komşu parsel maliki davalının ev ve sera yapmak ve fiilen kullanmak suretiyle işgal ettiğini ileri sürüp elatmanın önlenmesi ve yıkım istemişlerdir.
 
@@ -68,6 +74,8 @@ Ne varki, elatmanın haksızlığı belirlenip önlenmesine karar verildiğine g
 
 ## Yargıtay 14. HD 2007/3207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851599300)
+
 Davada elatmanın önlenmesi isteği dışında yayla yerindeki muhdesatın yıkımı da istenmiştir. Genel olarak kadastro mahkemelerinin görevlerini düzenleyen 3402 sayılı Kanunun 25. maddesi son fıkrası uyarınca kadastro mahkemeleri muhdesatın yıkılıp kaldırılması ve benzeri nitelikte olan ve mahkemeden yenilik doğurucu hüküm alınmasını gerektiren davaları inceleyemez. Muhdesatın yıkımı kadastro mahkemelerinin görevi dışında iken mahkemenin bu ayırımı gözden kaçırarak tüm istek bakımından görevsizlik kararı vermesi doğru olmamıştır.
 
 …
@@ -75,6 +83,8 @@ Davada elatmanın önlenmesi isteği dışında yayla yerindeki muhdesatın yık
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 1. HD 2007/1485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77935600)
 
 Davacı, kayden maliki olduğu ..parsel sayılı taşınmazına komşu .. parselde bulunan davalıya ait cam seranın tecavüzlü olduğunu, davalının çekme mesafelerine uymayarak serasını inşa ettiğini ileri sürerek elatmanın önlenmesi, yıkım ve ecrimisil isteklerinde bulunmuştur.
 
@@ -93,6 +103,8 @@ Aksinin kabulü iptal edilmemiş, geçerli bir çap kaydına rağmen çap maliki
 Somut olayda, ilk dava cam sera ve eklentilerinin taşkın olduğundan sözedilerek açılmış, yapılan ölçüm ile bir taşkınlığın saptanamadığı gerekçesiyle davanın reddine ilişkin olarak verilen karar derecattan geçerek kesinleşmiştir.
 
 ## Yargıtay 1. HD 2007/865 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77898900)
 
 Davacı, kayden miras bırakan adına kayıtlı bulunan taşınmazın kullanımı konusunda mirasçı davalı ile 23.09.1990 tarihinde anlaşma yaptıklarını,davalının anlaşmaya aykırı hareket ederek evlerinin arasında bulunan yolu ve boşluğu kullanmasına engel olduğunu,odun yığmak suretiyle yolu kapattığını ileri sürüp elatmanın önlenmesine, yapıların yıkımına ve odunların kaldırılmasına karar verilmesini istemiştir.
 
@@ -113,6 +125,8 @@ Hal böyle olunca, hükmün l0.4.l992 gün, l992/7 Esas, l992/4 sayılı Yargıt
 
 ## Yargıtay 14. HD 2007/535 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849634400)
+
 Dava, mülkiyet hakkına dayalı elatmanın önlenmesi ve ecrimisil tahsili, birleştirilen dava ise, taşınmaz mal satış vaadi sözleşmesine dayalı tapu kayıt iptali ve tescil, ikinci kademedeki istek ise, tazminat istemlerine ilişkindir.
 
 …
@@ -124,6 +138,8 @@ Az yukarıda sözü edildiği üzere, davalı ve davacı ... ...’ın taşınma
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenle BOZULMASINA …
 
 ## Yargıtay 20. HD 2006/16804 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903016000)
 
 Davacı, dava dilekçesinde sınırlarını bildirdiği Yenipınar Köyü girişinde olup, davalıların işgalinde bulunan taşınmazın ... 3. Asliye Hukuk Mahkemesinin 1999/518 E. - 2001/770 K. sayılı ilamı ile orman niteliğinde olduğunun belirlendiği, taşınmazın tapulama sırasında orman sahası olarak tapulama harici bırakılan alanda bulunduğu, taşınmazın orman niteliği ile Hazine adına tescili ile davalıların müdahalesinin men'ini ve üzerindeki binaların kal'ini istemiştir.
 
@@ -137,12 +153,16 @@ Yukarıda ikinci bentte açıklanan nedenlerle; davacı Hazinenin temyiz itirazl
 
 ## Yargıtay 12. HD 2006/15021 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/75402300)
+
 Takibe konu yapılan Sarıyer 1.Asliye Hukuk Mahkemesinin 94/2 E. - 96/576 K. sayılı ilamında şikayetçi B.Ş.'in taşınmazda işgal ettiği 8.50 m².lik kısımdan müdahalesinin menine muktesatın kal'ine karar verildiği bu kararın bilahare karşı tarafça Sarıyer İcra Müdürlüğünün 1997/1541 E. sayılı dosyasından takibe konulduğu, 03.12.1997 tarihinde tecavüzlü kısımda bulunan muktesatın icra müdürlüğünce sökülerek ilamın infazının yerine getirildiği görülmüştür. Bu kez, alacaklı F. K. tarafından aynı ilama dayalı olarak Sarıyer İcra Müdürlüğünün 2005/716 E. sayılı dosyasından yeni bir takip başlatılarak şikayetçi B. Ş.'in müdahalesinin önlenmesi takip konusu yapılmıştır. Mahkemece bilirkişi incelemesinde, 03.12.1997 tarihinde yapılan icra müdürlüğü infaz işleminin aksine şikayetçinin yeni bir müdahalesinin olduğu, bu kez toplam 10.30. m².lik kısımda işgalinin olduğu saptanmıştır. Görüldüğü gibi Sarıyer 1.Asliye Hukuk Mahkemesinin ilamı 1997 yılında infaz edildikten sonra 2005 yılında karşı tarafın (şikayetçinin) yeni bir müdahalesinin olduğu görülmektedir.
 Bu durumda, alacaklı tarafça yeni müdahale ile ilgili usulüne uygun olarak mahkemeden müdahalenin menine ilişkin yeni bir ilam alınmadan eski ilama dayanılarak şikayetçinin bu yerden infazen çıkarılması ve yapılanında, kal'i istenemez. Bu sebeplerle Mahkemece şikayetçinin talebi kabul edilerek şikayetin kabulüne karar vermek gerekirken reddi yönünde hüküm tesisi isabetsizdir.
 
 SONUÇ :Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK.366. ve HUMK.428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 14. HD 2006/13332 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857529100)
 
 Davacı, taşınmazına bitişik davalının imara ve projeye aykırı olarak aralarında bulunan boşluğa bina yaptığını el atmanın önlenmesi ile binanın kal’ini istemiştir.
 
@@ -155,6 +175,8 @@ El atmanın önlenmesi ile birlikte kal’de istenmesi durumunda dava değeri, d
 SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2006/11576 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77955100)
 
 Davacılar, kayden paydaşı oldukları .parsel sayılı taşınmaza davalının gecekondu tarzında bina inşa etmek suretiyle müdahale ettiğini ileri sürüp; elatmanın önlenmesi ve yıkım isteğinde bulunmuşlar, bilahere binada E.. Ç... ın oturduğunu öğrendiklerini belirterek, adı geçenin davaya katılması ile elatmasının önlenmesi ve binanın yıkımını istemişler, 6.11.2000 tarihli dilekçeleriyle de, dava konusu taşınmazın diğer paydaşlarının davaya dahil edilmelerini talep etmişler, son aşamada da bina bedelini depo ettiklerinden elatmanın önlenmesi ile binanın adlarına tesciline karar verilmesi gerektiğini beyan etmişlerdir.
 
@@ -172,6 +194,8 @@ Hal böyle olunca; elatmanın önlenmesine muhdesat bedelinin davalıya ödenmes
 
 ## Yargıtay 14. HD 2006/9683 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852377900)
+
 Mahkemece davalıların 6593 parsele bina inşa ederek elatmalarının kal suretiyle önlenmesine yapı sahiplerinin temliken tescil istemlerinin reddine karar verilmiş, hükmü karşı davacı ve davalılar temyiz etmiştir.
 
 Davacı kooperatif ifrazlar sonucu 6593 parsel sayısını alan taşınmaz üzerine dava dışı arsa sahipleriyle arsa payı devri karşılığı inşaat yapmak üzere 16.03.1993 günlü sözleşmenin yapıldığını, ancak arsa üzerinde davalılara ait yapılar bulunduğunu ileri sürerek elatmalarının önlenmesini ve davalılara ait yapıların yıkımını istemiştir.
@@ -186,11 +210,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/6909 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856062800)
+
 Eldeki dava harcı ödenmek suretiyle ve önceki davanın davalısı hasım gösterilerek kal istemiyle açılmıştır. Başka bir anlatımla mahkemenin önüne getirilen istek kal istemli yeni bir davadır. HUMK.nun 76. maddesince resen Türk Kanunlarına göre karar verme yetkisi bulunan hakimin usul ekonomisi gereği davayı kal talepli yeni bir dava olarak niteleyerek mahkemenin ayrı bir esasına kaydetmek suretiyle taraf delillerini de toplayarak esastan halli gerekirken yazılı bazı gerekçelerle dava reddolunduğundan karar bozulmalıdır.
 
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/6438 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854164900)
 
 Dava, Medeni Kanunun 729 maddesi uyarınca temliken tescil, istemine ilişkindir.
 
@@ -204,6 +232,8 @@ Bu gibi durumlarda zararın artmasına arazi sahibi de tutum ve davranışı ile
 SONUÇ: Yukarıda açıklanan nedenlerle; davacının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/5621 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854361600)
 
 Dava, yaylaya kalıcı nitelikte yapı yapılarak vaki elatmanın önlenmesi istemine ilişkindir.
 
@@ -219,9 +249,13 @@ men’ine her iki bölümün kal'ine teknik bilirkişinin 03.08.1999 günlü kro
 
 ## Yargıtay 16. HD 2006/5294 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/866036200)
+
 Dosya içeriğine, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere, delilerin takdirinde bir isabetsizlik bulunmamasına, taraflar arasındaki ortak sınır bilirkişi ve tanık sözleri ile belirlendiğine göre davalıların diğer temyiz itirazları yerinde değildir. Ancak, davacı tarafından Sulh Hukuk Mahkemesinde açılıp görevsizlik sebebiyle Kadastro Mahkemesine aktarılan davadaki kal isteği ile ilgili olarak Kadastro Mahkemesinde hüküm kurulması yasaya aykırıdır. Komşuluk hakkına aykırı olarak yapılan saçağın yıktırılması istemini içeren dava yenilik doğrucu hüküm olmayı gerektirdiğinden bu tür davalara 3402 sayılı Kadastro Kanunu’nun 25/son maddesi gereğince Kadastro Mahkemesinde bakılamaz. Davacının kal isteği ile ilgili olarak dosya tefrik edilerek (kal talebi hakkında yargılama yapılıp hüküm kurulması için) mahkemenin görevsizliğine, dosyanın görevli hukuk mahkemesine gönderilmesine karar verilmesi gerekir.
 
 ## Yargıtay 14. HD 2006/4434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851636900)
 
 Meni müdahale ve kal davaları, H.U.M.K.nun 1.maddesi uyarınca mahkemenin görevinin dava olunan şeyin değerine göre belirlendiği davalardandır. Bu tür davaların değeri dava edilen taşınmazın değeri ile kal konusu nesnenin değerinin toplamından ibarettir. Bu itibarla, meni müdahale ve kal davalarında mahkemenin görevi, davalı taşınmazın zemin değeri ile kal konusu nesnenin değerinin toplamına göre belirlenir.
 
@@ -233,9 +267,13 @@ SONUÇ: Davalı ...'ın temyiz itirazlarının bu nedenle kabulü ile hükmün B
 
 ## Yargıtay 18. HD 2006/2862 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881196600)
+
 Yargıtay uygulamalarında bağımsız bölümlerde ve bağlantılı kısımlarda işlem yapılmasını gerektiren durumlarda –Kat Mülkiyeti Yasasının 23.maddesi hükmünün gerektirdiği zorunlu haller dışında- mülkiyet hakkının saygınlığı da gözetilerek –davacı istemde bulunmuş olsa bile- eski hale getirme yükümlülüğünün davacıya yüklenmesi ve onun bu yolda yetkilendirilmiş olması doğru değil ise de, bu hususun düzeltilmesi yeniden yargılamayı gerektirmediğinden mahkemenin gerekçeli kararının birinci paragrafındaki "bu süre içerisinde davalılar kal etmezlerse ücreti bilahare davalılardan alınmak üzere davacı tarafından kal'ine" sözcüklerinin çıkartılmasına, hükmün düzeltilmiş bu şekliyle ONANMASINA, aşağıda yazılı bakiye onama harcının temyiz edene yükletilmesine, 10.04.2006 gününde oybirliğiyle karar verildi.
 
 ## İstanbul BAM 2. HD 2025/544 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126682800)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ:Mahkemece; "1-Davacı tarafından davalı aleyhine açılan elatmanın önlenmesine ilişkin davanın KABULÜ ile, İstanbul İli, Tuzla İlçesi, ... Mah. ... ada, ... parsel maliki davalının davacıya ait İstanbul İli, Tuzla İlçesi, ...
 
@@ -253,6 +291,8 @@ Tespitten kaçınma halinde, dava dilekçesi muameleye konmaz (16/3. md.). Noksa
 HÜKÜM:Yukarıda açıklanan nedenlerle:1-Davalı vekilinin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin KABULÜ ile; İSTANBUL ANADOLU 9. ASLİYE TİCARET MAHKEMESİ'nin 2020/556 esas sayılı dosyasında verilen 28/03/2023 tarih ve 2023/264 karar sayılı ilamının HMK'nın 353/1.a.4. maddesi gereği KALDIRILMASINA …
 
 ## İstanbul BAM 4. HD 2020/1358 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617454700)
 
 …
 

@@ -21,49 +21,73 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2008/9720 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16721800)
+
 634 sayılı Kat Mülkiyeti Yasası'nın 41. maddesinin üçüncü fıkrasına göre, kat malikleri denetim işini kendi aralarında sayı ve arsa payı çoğunluğuyla seçecekleri bir denetçi veya denetim kuruluna verebilir. Yasanın bu açık hükmünden de anlaşılacağı gibi bir anataşınmazda denetici olabilmek için mutlaka kat maliki olmak gerekir. Ayrıca kat malikleri arasında çıkacak sorunların halli için öncelikle kat malikleri kuruluna, gerektiğinde mahkemeye başvurmak gerekir. Yasa koyucu tarafından kat maliklerine tanınmış olan ve 634 sayılı Kat Mülkiyeti Yasası'nın çeşitli maddelerinde düzenlenmiş bulunan bu haklardan kat maliklerini mahrum edecek şekilde onların aleyhine kat malikleri kurulu kararı oluşturulamaz. Mahkemece bu hususlar dikkate alınarak 05.03.2006 günlü kat malikleri kurulu kararının denetici seçimine ilişkin 5. maddesi ile yukarıda değinilen sözcüklerin yer aldığı 6/d maddesinin iptaline karar verilmesi gerekirken yazılı gerekçeyle davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/4447 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875331500)
 
 Anataşınmazın kat malikleri kurulunca yukarıda belirtilen tarihte alınan kararda kat maliki olmadığı anlaşılan ... denetçi olarak seçilmiştir. Kat Mülkiyeti Yasasının 41. maddesinin üçüncü fıkrasına göre kat maliklerinin kendi aralarında bir kişiyi sayı ve arsa payı çoğunluğu ile denetici olarak seçebilecekleri öngörüldüğünden kat maliki olmayan kimselerin denetçi olarak seçilmeleri mümkün değildir. Mahkemece bu husus gözetilerek 27.3.2004 günlü kararın denetici seçimi ile ilgili olan bölümünün açıklanan gerekçe ile iptaline karar verilmesi gerekirken bu konudaki istemin de reddi yolunda hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/288 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874722600)
+
 Kat Mülkiyeti Yasasının 33. maddesinin 3. fıkrası uyarınca, anataşınmazın kullanılmasından veya yönetiminden dolayı kat malikleri arasında ya da kat malikleri ile yönetici veya denetçiler arasında yahut denetçilerle yönetici arasında çıkan anlaşmazlıkların çözüm yeri öncelikle kat malikleri kuruludur. Buna göre apartman yönetimi ile havuzun kullanımı konusunda uyuşmazlığa düşen davacının kat malikleri kuruluna başvurmadan dava açma ... yoktur.
 
 ## Yargıtay 18. HD 2007/10527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879592200)
 
 634 Sayılı Kat Mülkiyeti Yasasının 32. maddesinin üçüncü fıkrasına göre anataşınmazın kullanılmasından veya yönetiminden dolayı kat malikleri arasında veya bunlarla yönetici ve denetçiler arasında, denetçilerle yöneticiler arasında çıkan anlaşmazlıklar kat malikleri kurulunca çözülür ve karara bağlanır. Davacının her ne kadar kat maliki olmadığı tapu kaydından anlaşılmakta ise de anataşınmazın bağımsız bölümünde oturan ve devamlı bir surette buradan faydalanan kişi olduğu dava konusu edilen hususu kat malikleri kurulunun önüne getirmeye yetkili bulunduğunun kabul edilmesi gerekir.
 
 ## Yargıtay 18. HD 2007/6741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883357200)
+
 Kat Mülkiyeti Yasasının 32/2. maddesi uyarınca kat malikleri kurulunun aldığı kararlara tüm kat malikleri, bunların külli ve cüz'i halefleri ile yönetici ve denetçiler uymakla yükümlü olup, bu kararlar iptal edilinceye kadar geçerlidir. Somut olayda dosya içerisinde yer alan karar defterinde 28.6.2000, 4.2.2001, 12.5.2001 ve 20.5.2001 günlü kararlarda, kat maliklerince depremde hasar gören binanın onarımı ve güçlendirilmesi için müteahhit firmalar ile anlaşma konusunda yöneticinin yetkilendirildiği, bunun üzerine onarım işinin verildiği inşaat firması ile yapılan sözleşmeler gereği 69.970.000.000 TL.lık ve 10.986.000.000 TL.lık onarım bedellerinin her kat malikinden tahsiline ilişkin ödeme planları yapıldığı ve bu toplantılardan ilk üçünde bizzat davalının da bulunup kararlara olumlu oyu ile…
 
 ## Yargıtay 18. HD 2007/4610 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880396800)
 
 Kat Mülkiyeti Yasasının 32.maddesinin üçüncü fıkrası “Anagayrimenkulün kullanılmasından veya yönetiminden dolayı kat malikleri arasında veya bunlarla yönetici ve denetçiler arasında veya denetçilerle yöneticiler arasında çıkan anlaşmazlıklar, kat malikleri kurulunca çözülür ve karara bağlanır.” hükmünü içermekte olup, kat maliklerinin yakıt giderlerinin paylaşımı sisteminin değiştirilmesi gibi anagayrimenkulün yönetim tarzıyla ilgili bir istek ve şikayetleri olduğunda bunun öncelikle kat malikleri kuruluna götürülmesi ve bu kuruldan bir karar alınması gerekir. Ancak bu karara razı olunmaması halinde 33.maddeye göre dava yoluna gidilmesi mümkün ve gereklidir.
 
 ## Yargıtay 18. HD 2007/1074 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878908000)
+
 Kat Mülkiyeti Yasasının 32. maddesinin 3. fıkrasına göre; anataşınmazın kullanılmasından veya yönetiminden dolayı kat malikleri arasında ya da bunlarla yönetici ve denetçiler arasında yahut denetçilerle yöneticiler arasında çıkan anlaşmazlıklar kat malikleri kurulunca çözülür ve karara bağlanır. Yasa koyucunun amacı, bu Yasa kapsamına giren uyuşmazlıkların kısa sürede çözümlenmesini sağlamaktır. Somut olayda olduğu gibi kullanımdan veya yönetimden kaynaklanmayan ve anataşınmazın ortak yerlerine yapılan el atmaların önlenmesi istemini içeren bu tür davaların açılması için önceden kat malikleri kuruluna başvurulmasına ve anlaşmazlığın kat malikleri kurulunda çözüme kavuşturulmasına gerek yoktur. Mahkemece, işin esasına girilerek tüm deliller toplanıp oluşacak sonuç doğrultusunda bir karar vermek gerekirken 634 sayılı Yasanın 32. maddesi gereğince anlaşmazlık konusunda öncelikle kat malikleri kuruluna başvurulması gereğine değinilip davacının kat malikleri kuruluna başvurmadığı gerekçesi ile davanın reddi yönünde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2006/13671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/909912400)
 
 Her ne kadar 634 Sayılı Yasanın 41. maddesine göre denetçinin kat malikleri arasından seçilmesi gerekli ise de, bu şekilde yapılmamış olması denetçinin sorumluluğunu ortadan kaldırmayacağından, Apartmanda kat mülkiyetinin kurulu olduğu, davanın ise yönetim ile denetçi arasında olduğu anlaşılmakla 634 Sayılı Yasanın ek 1. maddesi uyarınca uyuşmazlığın Sulh Hukuk Mahkemesinde görülmesi gerekir.
 
 ## Yargıtay 18. HD 2006/2463 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879904100)
+
 Kat Mülkiyeti Yasasının 42.maddesine göre, kat malikleri anataşınmazın ortak yerlerinde kendi başlarına bir değişiklik yapamazlar. Ortak yerlerin düzgün veya bunları kullanmanın daha rahat ve kolay bir hale konulmasına veya bu yerlerden elde edilecek faydanın çoğaltılmasına yarayacak bütün yenilik ve ilaveler, kat maliklerinin sayı ve arsa payı çoğunluğu ile verecekleri karar üzerine yapılacağı, aynı yasanın 32.maddesinin üçüncü fıkrası uyarınca anataşınmazın kullanılmasından veya yönetiminden dolayı kat malikleri arasında veya bunlarla yönetici ve denetçiler arasında veya denetçiler ile yöneticiler arasında çıkan anlaşmazlıklar, kat malikleri kurulunca çözüleceği ve karara bağlanacağı öngörülmektedir.
 
 ## Yargıtay 18. HD 2006/2142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880276400)
 
 Kat Mülkiyeti Yasasının 32. maddesinin 3. fıkrasına göre; anataşınmazın kullanılmasından veya yönetiminden dolayı kat malikleri arasında veya bunlarla yönetici ve denetçiler arasında veya denetçilerle yöneticiler arasında çıkan anlaşmazlıklar kat malikleri kurulunca çözülür ve karara bağlanır. Yasa koyucunun amacı, bu yasa kapsamına giren uyuşmazlıkların bir an önce çözümlenmesini sağlamaktır. Somut olayda olduğu gibi kullanımdan veya yönetimden kaynaklanmayan ve anataşınmazın ortak yerlerine yapılan el atmaların önlenmesini amaçlayan bu tür davalarda önceden kat malikleri kuruluna başvurmaya ve anlaşmazlığın kat malikleri kurulunda çözüme kavuşturulmasını istemeye gerek yoktur. Mahkemece, işin esasına girilerek tüm deliller toplanıp oluşacak sonuç doğrultusunda bir karar vermek gerekirken 634 sayılı yasanın 33. maddesi gereğince anlaşmazlık konusunda öncelikle kat malikleri kuruluna başvurulması lüzumuna değinilip davacının kat malikleri kuruluna başvurmadığı gerekçesi ile davanın reddi yönünde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2006/1185 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884123200)
+
 Dosya içindeki bilgi ve belgelerden; bağımsız bölüm maliki olmayan davacının, kat mülkiyetli anataşınmaza 3.12.1995 günlü kat malikleri kurulu kararı ile yönetici olarak atandığı, o günden itibaren dava tarihine kadar bu görevini sürdürmektedir. Anataşınmaza ait yönetim planının 19. maddesinde; yöneticiye ücret verilip verilmeyeceğini kat malikleri kurulunun karara bağlayacağı, Sulh Mahkmesinin ücretli yönetici tayin edebileceği ve yönetici ücretinin, kat maliklerince arsa payları oranında ödeneceğinin öngörülmüştür. 634 Sayılı Kat Mülkiyeti Yasasının 32. maddesinin üçüncü fıkrasına göre; anataşınmazın kullanılmasından veya yönetilmesinden dolayı kat malikleri arasında veya bunlarla yönetici ve denetçiler arasında veya denetçiler ile yöneticiler arasında çıkan anlaşmazlıklar kat malikleri kurulunca çözülüp karara bağlanır.
 
 ## Yargıtay 18. HD 2005/4913 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16215800)
 
 Dosya içindeki bilgi ve belgelerin incelenmesinden dava konusu ana-taşınmazın 12 bağımsız bölümden oluştuğu, davacıların aynı anataşınmazda kat maliki bulundukları, anataşınmaza ait yönetim planının 19. maddesi uyarınca kat malikleri kurulunun her yılın Ocak ayında toplanacağı, kat malikleri kurulunun lüzumu halinde yönetici, denetici veya kat maliklerinden en az 1/3'ünün yazılı çağrısı üzerine olağanüstü toplanabileceği, her ikî davacının da anataşınmazda deneticilik görevlerinin bulunmadığı anlaşılmaktadır. 634 sayılı Kat Mülkiyeti Yasası'nın 33. maddesinde kat malikleri kurulunca verilen karara razı olmayan kat malikinin borç ve yükümlülüklerin yerine getirilmemesi yüzünden zarar görmesi halinde hakimin müdahalesini isteyebileceği öngörülmüştür. Ayrıca aynı Yasa'nın 39/2. maddesi, kat maliklerinin yarısının istemesi halinde, bunların arsa payları ne olursa olsun yönetim planında yazılı zamanlar dışında da tutulan hesapların gösterilmesini yöneticiden isteyebileceklerini hüküm altına almıştır.
 Somut olayda davacıların anataşınmazda bulunan 12 kat malikinden sadece ikisi olarak kat maliklerinin 1/3'ünü sağlayamadıklarından böyle bir istemde bulunmaları yasaya ve yönetim planına uygun
@@ -72,25 +96,35 @@ değildir. Davacıların diğer taleplerinin de öncelikle kat malikleri kurulun
 
 ## İstanbul BAM 45. HD 2026/212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194520900)
+
 Maddesi ; “ Ana yapıda çarşı, işhanı, ara blok dışında kalan bütün bağımsız bölümlerde ana taşınmaz genel kurulunca aksine bir karar alınmadığı sürece münhasıran, tekstil ürünleri ticareti yapılacaktır. (Ekonomideki değişiklikler ve günün icapları gerektirdiği takdirde ana taşınmaz kat malikleri kurulunun 2/3 ekseriyeti ile karar alınması hafinde diğer ticari işlerde yapılabilir.) "7. Maddesi ; " Bu yönetim planı tek malik sıfatıyla kooperatif genel kurulunun (24.06.2000) tarihinde yönetim kuruluna verdiği yetkiye dayanılarak ve genel kurulun kararı doğrultusunda kooperatif tüzel kişiliğinin temsilen yönetim kurulunca düzenlenmiştir. Bu yönetim planı, bağımsız bölüm sahiplerini ve onların külli ve cüzi haleflerini, kiracılarını ve onlar adına zilyet olan ve tasarruf edenleri de bağlar." 11/8. Maddesi “ Bağımsız bölüm malikleri bağımsız bölümlerini yönetim planına uygun olarak, bağlı kat malikleri listesinde gösterilen iştigal amaçları dışında kullanamayacağı gibi, bağımsız bölümlerinin dışını da kesinlikle kullanamazlar." Geçici 4. Maddesi ;
 "Bu yönetim planında yer alan, her türlü organlara verilen yetkilerin tamamını ferdi mülkiyete geçilinceye kadar kooperatif genel kurulu, yönetim ve denetim kurulu son safhaya kadar kullanırlar."Geçici 5. Maddesi ; " Kooperatif genel kurulu, ana taşınmaz genel kurulunu, kooperatif yönetim kurulu, ana taşınmaz yönetim kurulu ve bölüm (blok) malikleri denetim kurulu görevlerini ifa eder. Ferdi Mülkiyete geçilme işlemleri tümüyle tamamlana kadar, iş bu yönetim planında gerekli değişikliği, ...
 
 ## Denizli BAM 4. HD 2025/2076 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185958100)
 
 Dosyanın incelenmesinde; iptale konu genel kurulun 9. Maddesinin yönetim kurulunun ibrasına; 10. Maddesinin denetim kurulunun ibrasına; 12. Maddesinin site yönetimi konusunda kooperatifi oluşturan adaların kat malikleri kurulları tarafından bir talepte bulunulursa bunun kabul edilmesi ve yönetim fonksiyonunun mevcut yönetim kurulu tarafından yerine getirilmesi konusunun görüşülmesine; 14. Maddesinin, bilgileri yazılı kat karşılığı inşaat sözleşmelerini yapmaya, tadil etmeye, yüklenici firmalara hakedişleri doğrultusunda bağımsız bölümlerin temlik edilmesine, yeniden dilediği şartlarda kat karşılığı inşaat sözleşmesi düzenlemesine ilişkin yönetim kurulunun tam yetki ile görevlendirilmesine; 15.
 Maddesinin, kooperatife ait taşınmazların kiraya verilmesi için yönetim kuruluna tam yetki verilmesine; 20. maddesinin, 2024 yılı Eylül ayında yapılan olağanüstü genel kurulda alınan kararların onaylanmasına; 21. maddesinin, Kooperatif organlarının çalışmasını olumsuz yönde etkilemekte ısrar eden ve/veya hakkı kötüye kullandığı anlaşılan ortaklar hakkında somut, net bilgi ve belgelere dayanarak dava açılabilmesi için yönetim kuruluna yetki verilmesine; 22. maddesinin, kooperatif çalışanı ...ın geçirmiş olduğu iş kazası sonucu sigorta şirketi “istihap haddinin aşması” gerekçesi ile ödediği tazminatı kooperatife rücu etmesi nedeni ile ödenmek zorunda kalınan bedel nedeni ile dava açılıp açılmamasına karar verilmesi ve bu konuda yönetim kurulunun yetkilendirilmesine ilişkin olduğu anlaşılmıştır.
 
 ## İstanbul BAM 7. HD 2025/1559 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154846400)
+
 Gayrimenkul değerlendirme uzmanı, bağımsız denetçi ve Ticaret Hukuku Öğretim Görevlisi bilirkişiden oluşan heyet raporlarında, taşınmazı krokilerinde göstererek, fotoğraflamışlar, taraf beyanlarını, tapu kaydını, emsal değerlendirmesini, sözleşmeyi, ödeme belgelerini, ihtarnameleri, davacının ticari defterlerini, davalının ticari defterlerini, taşınmazın özelliklerini ve yerinde yaptıkları tespitleri belirterek, davacının 114.287,84 TL borcunun olduğunu, vade farkı ile bunun 198.941,99 TL olduğunu, taşınmazın dava tarihi itibarıyla değerinin 4.250.000,00 TL olduğunu bildirmiştir. Davacı bilirkişi raporuna göre harç tamamlama işlemi yapmıştır. Somut olayda; davacının davalı ile Beşiktaş ... Noterliğinin 05/01/2018 tarihli ve ... yevmiye nolu düzenleme şeklinde taşınmaz satış vaadi sözleşmesi yaptığı, dava konusu bağımsız bölümün davalı adına kayıtlı olduğu, davacının davalı şirketten aldığı 23/03/2021 tarihli hesap ekstresinde 05/03/2021 tarihli 48.010,00 TL' lik taksitin 29.742,16 TL olarak ödendiği, davacının ayrı ayrı 48.010,00 TL' lik iki taksitinin daha olduğu, bunların toplamının 114.287,84 TL olduğu, davalının davacıya gönderdiği Kadıköy ...
 Noterliğinin 01/04/2021 tarihli ... yevmiye nolu ihtarnamesi ile kalan 182.875,00 TL borcun ödenmemesi nedeniyle sözleşmeyi feshettiğini bildirdiği, bu ihtarnamede daha önce gönderilen Kadıköy ...
 
 ## İstanbul BAM 17. HD 2025/1468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183695900)
+
 Maddesi; " Bu yönetim planı tek malik sıfatıyla kooperatif genel kurulunun (24.06.2000) tarihinde yönetim kuruluna verdiği yetkiye dayanılarak ve genel kurulun kararı doğrultusunda kooperatif tüzel kişiliğinin temsilen yönetim kurulunca düzenlenmiştir. Bu yönetim planı, bağımsız bölüm sahiplerini ve onların külli ve cüzi haleflerini, kiracılarını ve onlar adına zilyet olan ve tasarruf edenleri de bağlar." 11. Maddesinin 8. fıkrasında “Bağımsız bölüm malikleri bağımsız bölümlerini yönetim planına uygun olarak, bağlı kat malikleri listesinde gösterilen iştigal amaçları dışında kullanamayacağı gibi, bağımsız bölümlerinin dışını da kesinlikle kullanamazlar." Geçici 4. Maddesi; "Bu yönetim planında yer alan, her türlü organlara verilen yetkilerin tamamını ferdi mülkiyete geçilinceye kadar kooperatif genel kurulu, yönetim ve denetim kurulu son safhaya kadar kullanırlar."Geçici 5. Maddesi; " Kooperatif genel kurulu, ana taşınmaz genel kurulunu, kooperatif yönetim kurulu, ana taşınmaz yönetim kurulu ve bölüm (blok) malikleri denetim kurulu görevlerini ifa eder. Ferdi Mülkiyete geçilme işlemleri tümüyle tamamlana kadar, iş bu yönetim planında gerekli değişikliği, S.S.... ...
 İmalat ve Satıcıları Toplu İş yeri Yapı Kooperatifi Yönetim kurulu yapar. “ şeklinde düzenlenmiştir. 21.05.2018 tarihli bilirkişi heyet raporunda özetle; davacının, davalı kooperatifin ana sözleşme, site yönetim planı ve 23.
 
 ## İstanbul BAM 45. HD 2025/789 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161166500)
 
 Şubesinden taahhütlü mektup olarak gönderildiği, ortaklar listesinde kayıtlı 184 ortaktan 50 ortağın asaleten, 34 ortağın vekaleten olmak üzere toplam 84 ortağın genel kurul toplantısında hazır bulunduğu ve toplantı nisabının sağlandığı, Bakanlık temsilcisinin katılımı ile toplantıya başlandığı anlaşılmıştır.Genel kurulda alınan kararlar incelendiğinde;1. Gündem maddesinin açılış, başkanlık divanının teşkili, saygı duruşuna dar olduğunu, 2.Gündem maddesiyle divan heyetine oybirliği ile genel kurul tutanaklarını imzalama yetkisi oy birliği ile verildiği, 3. Gündem maddesiyle ilgili karar alınmadığı, 4.
 
@@ -99,15 +133,21 @@ Gündem maddesinin kooperatif avukatının mevcut davalarla ilgili genel kurula 
 
 ## İstanbul BAM 45. HD 2025/664 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160416600)
+
 Yukarıda belirtilen gündem maddeleri yönelik herhangi bir itiraz bulamadığı ancak gündemin '' dilek ve temenniler'' başlıklı 13. Maddesinin görüşülmesi sırasında davacının gündemin 3.,4., ve 5. Maddelerinde alınan kararlara muhalefet ettiği, yine gündemin 7. Maddesinde yönetim kurulu ve denetim kurulu ibra etmediği alınan karara muhalefet ettiği , 8. Maddede yönetim ve denetimi kurulu üyeleri seçiminin kanuna ve tüzüğe aykırı bir şekilde yapıldığı , kendisinin de bağımsız aday olma dilekçesi verdiği ancak sandıklarda isminin bulunmadığı bu nedenle muhalefet ettiği, 11. Maddede tapusu kooperatif üzerine kayıtlı olan yerlerin kat malikleri kurulunda yönetimin temsil etmesinde kabul etmediği ve bu oylamada toplantı ve karar nisabının yeterli sayıda olmadığını ileri sürmüştür.Bilirkişi heyeti tarafından düzenlenen kök raporda özetle;''...Gündemin 8. maddesinde yönetim kurulu ile denetim kurulunun seçimi yapılmıştır. Genel kurulda blok liste veya çarşaf liste ile yönetim kurulu seçimi genel kurulun oyuna sunulmuş ve 26 red oyuna karşı 761 oyla blok liste ile yönetim kurulu seçiminin yapılmasına karar verilmiştir. Yapılan seçimde A blok liste 473 oyla yönetim kuruluna seçilmiştir.
 Bu tür liste ile yapılan seçimin Kanuna veya esas sözleşmeye aykırılığı yoktur. Ayrıca, davacıların iptal davası açmaları için 8. maddenin oylamasında muhalif oy vermeleri ve muhalefetlerim zapta geçirtmeleri gerekir.Bu yönde bir kayda rastlanmamıştır.Bu sebeble davacıların iptal davası açma hakları bulunmamaktadır.Gündemin 13. maddesinde dilek, ve temenniler bölümünde davacılardan ... ile ... gündemin 3, 4, 5 ve 7, maddelerine muhalif olduklarını, ... ise tüm maddelere muhalif olduğunu bildirmiştir. Dilek ve temenniler maddesinde muhalefet bildirmek geçerli değildir. Bu madde genellikle konulmakta ve gündemi belirlememektedir. Bu maddede sadece görüşler açıklanabilir, olumlu veya olumsuz fikirler ileri sürülebilir. Burada herhangi bir karar ve oylama yapılmaz. Dilek ve temenniler maddesinde yapılan bu muhalefet hukuken geçerli değildir.b)Gündemin 11. maddesinde yönetim kuruluna bazı yetkiler verilmiştir.
 
 ## İstanbul BAM 45. HD 2024/284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1007330700)
+
 Bu belirleme sırasında işyerlerinin gerek tip ve gruplar gerekse diğer özellikleri itibari ile ortakların isteklerine göre dağıtılması esası da kararlaştırılabilir. Kooperatifçe işyeri inşaatlarının devamı sırasında veya tamamlanmasından sonra değişik yer ve zamanlarda yeniden arsa alınması ve ortak kaydedilmesi şeklinde faaliyette bulunulamaz.” Yönetim Planın Genel Hükümlerinin düzenlendiği 6. Maddesi ; “ Ana yapıda çarşı, işhanı, ara blok dışında kalan bütün bağımsız bölümlerde ana taşınmaz genel kurulunca aksine bir karar alınmadığı sürece münhasıran, tekstil ürünleri ticareti yapılacaktır. ( Ekonomideki değişiklikler ve günün icapları gerektirdiği takdirde ana taşınmaz kat malikleri kurulunun 2/3 ekseriyeti ile karar alınması hafinde diğer ticari işlerde yapılabilir.) " 7. Maddesi ; " Bu yönetim planı tek malik sıfatıyla kooperatif genel kurulunun (24.06.2000) tarihinde yönetim kuruluna verdiği yetkiye dayanılarak ve genel kurulun kararı doğrultusunda kooperatif tüzel kişiliğinin temsilen yönetim kurulunca düzenlenmiştir.
 Bu yönetim planı, bağımsız bölüm sahiplerini ve onların külli ve cüzi haleflerini, kiracılarını ve onlar adına zilyet olan ve tasarruf edenleri de bağlar." 11/8. Maddesi “ Bağımsız bölüm malikleri bağımsız bölümlerini yönetim planına uygun olarak, bağlı kat malikleri listesinde gösterilen iştigal amaçları dışında kullanamayacağı gibi, bağımsız bölümlerinin dışını da kesinlikle kullanamazlar." Geçici 4. Maddesi ; "Bu yönetim planında yer alan, her türlü organlara verilen yetkilerin tamamını ferdi mülkiyete geçilinceye kadar kooperatif genel kurulu, yönetim ve denetim kurulu son safhaya kadar kullanırlar." Geçici 5. Maddesi ; " Kooperatif genel kurulu, ana taşınmaz genel kurulunu, kooperatif yönetim kurulu, ana taşınmaz yönetim kurulu ve bölüm (blok) malikleri denetim kurulu görevlerini ifa eder. Ferdi Mülkiyete geçilme işlemleri tümüyle tamamlana kadar, iş bu yönetim planında gerekli değişikliği, ... Toplu İş yeri Yapı Kooperatifi Yönetim kurulu yapar. “ şeklinde düzenlenmiş olduğu görülmüştür.
 
 ## İzmir BAM 20. HD 2023/480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881150500)
 
 Dosya kapsamındaki kayıt ve belgelerin incelenmesinden, iptali istenen 4. Maddede 2015 yılına ait faaliyet ve hesapların ibrasının görüşüldüğü, söz konusu maddede yönetim kurulunun 1' e karşı 34, denetim kurulunun 1 e karşı 35 oyla ibra edildiği, Kooperatifler Yasasının 45 ve Ana Sözleşmenin 33. Maddesinde belirtilen karar nisabının sağlandığı, iptali istenen 5. Maddede tapuların ortaklar üzerine alınabilmesi için arsa sahipleri ile tüm konularda anlaşma yapmak üzere 2014 olağan ve 2015 yılında yapılan olağanüstü genel kurullarda alınan karar ve verilen yetkiler doğrultusunda yapılan protokolün genel kurulca onaylanması maddesinin görüşüldüğü ve kooperatif yönetimi ile arsa sahipleri arasında imzalanmış olan protokolü uygulamak üzere yönetim kuruluna yetki verilmesinin 2' ye karşı 36 oyla kabul edildiği, Kooperatifler Yasasının 45 ve Ana Sözleşmenin 33. Maddesinde belirtilen karar nisabının sağlandığı, iptali istenen 6. Maddede arsa sahipleri ile yapılan anlaşma uyarınca arsa sahiplerinden ... İli, ...
 İlçesi ... ada ... parselde bulunan kooperatif adına alınacak dairelerin azami satın alma değerlerinin belirlenmesi, satın alınan dairelerin üzerine arsa sahipleri lehine ödenemeyen borç kadar ipotek verilmesi, daire başı ipotek bedeli ile süresinin belirlenmesi şeklinde belirlenen gündem gereğince ... İli ... İlçesi ... ada ... parselde kayıtlı bulunan arsada kurulacak kat irtifakına göre oluşan tüm bağımsız
@@ -116,10 +156,14 @@ bölümlerin her birinin arsa sahipleri üzerinden bir bağımsız bölümün az
 
 ## İstanbul BAM 45. HD 2022/496 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761247300)
+
 Gıdaya rahatlıkla verebileceği açıklanmıştır. Mahkemece bilirkişiler Doç. Dr. ... ve SMM Bağımsız Denetçi ...'den alınan 12/04/2021 tarihli ek raporunda; Kök raporda borçlu ... şirketinin rehinli alacaklı ... T.A.Ş. ile anlaşmaya varamaması halinde mali durumunu düzeltmesine olanak bulunmadığı ifade edilmekle, gelinen noktada ... T.A.Ş. ile protokol imzalanmasının olumlu değerlendirildiği, söz konusu protokol hükümleri genel hatları itibariyle incelendiğinde, protokol ile bankanın 42 bağımsız bölümün üzerinde bulunan ipoteklerin kaldırılmasına muvafakat göstereceğini taahhüt ettiği, yine protokole göre ipoteklerden arındırılan bu 42 taşınmaz borçlu şirket tarafından satılarak, satıştan elde edilecek tutarın bankanın denetimi altında inşaat projesindeki eksik işlerin tamamlanmasında kullanılacağı, protokolün 9. maddesinde ipoteklerin fekki şartlarının düzenlendiği ve bu şartların gerçekleşmesi halinde, borçlu ...'dan taşınmaz satın alıp taşınmazların üzerinde ... T.A.Ş. lehine ipotek bulunan tüketicilerin tapuları üzerinde bulunan bu takyidattan kurtulmuş olacakları, 16. maddesinde protokolün Mahkemece onaylanması halinde geçerli olacağının düzenlendiği, rehinli alacaklı ...
 T.A.Ş. ile anlaşmaya varılamaması yani söz konusu protokolün yürürlüğe girmemesi halinde borçlu ... şirketinin mali durumunu düzeltmesinde hiç imkan bulunmadığından yaklaşık 2 yıl 4 aydır borçlu ... şirketinin faaliyetlerine nezaret eden Komiser Heyetinin olumlu görüşü de nazara alınarak ... T.A.Ş. ile imzalanmış 17/03/2021 tarihli protokole onay verilebileceğinin düşünüldüğü, mahkemece ... T.A.Ş. ile imzalanan protokole onay verilmesi ve dolayısıyla protokolün yürürlüğe girmesi halinde borçlu ...'ın konkordatoyu başarıya ulaştırabileceğinin kabul edileceği, borçlu ... Gıda'nın konkordatoyu başarıya ulaştırabilmesi, borçlu ...'ın konkordatoyu başarıya ulaştırabilmesine bağlı olup bu durumda protokole onay verilmesi halinde borçlu ...
 
 ## İstanbul BAM 17. HD 2021/805 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667336700)
 
 Sİ VE HUKUKİ NİTELENDİRME: Dava, 22.11.2015 tarihli genel kurul toplantısında alınan kararların iptaline ilişkindir. 1163 sayılı Kooperatifler Kanunu'nun 53. maddesiyle; toplantıda hazır bulunup da kararlara aykırı kalarak keyfiyeti tutanağa geçirten veya oyunu kullanmasına haksız olarak müsaade edilmeyen yahut toplantıya çağrının usulü dairesinde yapılmadığını veyahut gündemin gereği gibi ilan veya tebliğ edilmediğini yahut da Genel Kurul toplantısına katılmaya yetkili olmayan kimselerin karara katılmış bulunduklarını iddia eden pay sahiplerinin kanuna, anasözleşme hükümlerine ve iyi niyet esaslarına aykırı olduğu iddiası ile Genel Kurul kararları aleyhine, toplantıyı kovalayan günden başlamak üzere bir ay içinde, kooperatif merkezinin bulunduğu yerdeki mahkemeye başvurmak suretiyle kararın bozulması için dava açabilirler. Davacının yasanın aradığı şartları yerine getirerek huzurdaki davayı yasal hak düşürücü süre içinde açtığı anlaşılmaktadır. 22.11.2015 tarihli genel Kurul toplantısına 78 üyeden 41 üyenin (3 ortak vekaleten) katıldığı, 3.
 Gündem maddesinde " kooperatifle ilgili imar izni, kat irtifakı, arsa tevhidinin yapılması, belediye ruhsat işlerinin ve belediyeden arsa satın alma işlemlerinin görüşülmesi, yürütülmesi ve ve belediyeden arsa alımı için ödeme planını görüşülerek karara
@@ -129,6 +173,8 @@ bağlanmasının kabulü görüşmesine geçildi. Arsa alımı için ve her üye
 İşletme hesabıyla bilanço ve gerektiğinde gelir gider farkının bölüşülmesi hakkında karar almak, 4. Yönetim ve denetçiler kurullarını ibra etmek, 5. Kanun veya anasözleşme ile Genel Kurula tanınmış olan konular hakkında karar vermek. 6. (Ek: 6/10/1988 - 3476/9 md.) Gayrimenkul alımında ve satımında takip edilecek usul ile alınacak gayrimenkulün niteliğini, yerine ve azami fiyatını, satılacak gayrimenkulün asgari fiyatını belirlemek.
 
 ## İstanbul BAM 17. HD 2018/1118 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410778400)
 
 Asliye Hukuk Mahkemesinin 2014/79 Esas sayılı dosyasında olay mahallinde 06.10.2016 tarihli keşfen bilirkişi incelemesi yaptırılmıştır.Keşif sonucu düzenlenen, mimar, yapı ve proje denetçisi bilirkişi raporunda, keşif esnasında, dava konusu su baskınına ilişkin herhangi bir tahribat görülmediğinden teknik inceleme yapmanın mümkün olmadığı, sigorta şirketine ait ekspertiz raporu ve fotoğrafların incelendiği, keşif esnasında tespit edilen metrajlar dikkate alındığında ekspertiz raporunun doğru olduğu kanaatine varıldığı, İstanbul İli, ...kapı nolu sigortalı zemin+asma katlı işyerinde meydana gelen hasar ve ziyanın sigorta şirketi tespit tarihi itibarı ile, mahalli serbest piyasa uygulama imalat ve işçilik bedelleri dikkate alınarak tamirat ve tadilat bedeli olarak 3.750,00 TL nin uygun olduğuna kanaat edildiği....nolu bağımsız bölüm malikinin ... .nolu işyerinin ise ... adına kayıtlı olduğu, dava konusu ... nolu bağımsız bölümün asma katlı bağımsız bölüm olduğu,ana taşınmazın zemin katında bulunduğu, hasar gören sigortalı 14-16 nolu asma katlı bağımsız bölümün ise 24
 

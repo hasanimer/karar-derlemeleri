@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2019/6984 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/547475700)
+
 Dava, komşuluk hukukundan kaynaklanan elatmanın önlenmesi, kal ve eski hale getirme isteğine ilişkindir.
 
 …
@@ -38,6 +40,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 8. HD 2018/16801 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/453208600)
+
 Davacı vekili, davaya konu edilen 183 parsel sayılı taşınmazın, üzerindeki idare binası ve fabrikası ile birlikte vekil edeni tarafından 08.04.2014 tarihinde satın alındığını, satın aldıktan sonra davalıların zilyet ettiklerini gördüğünü ve ihtarname keşide ettiğini, buna rağmen davalıların taşınmazı tahliye etmediklerini açıklayarak, davalıların el atmasının önlenmesine karar verilmesini istemiştir.
 
 …
@@ -51,6 +55,8 @@ Dosya arasında bulunan bilirkişi raporlarına göre, davaya konu makine ve te�
 SONUÇ: Davacı vekilinin temyiz itirazları yukarıda açıklanan nedenle yerinde olduğundan kabulüyle, usul ve yasaya uygun bulunmayan hükmün 6100 sayılı HMK'nin Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK'nin 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/5812 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/446006000)
 
 Davacı vekili dava dilekçesinde özetle; müvekkillerinin yöneticisi oldukları ...... sitesinde bağımsız bölüm sahibi olduklarını, davalıların bu bağımsız bölümlerinde mimari projesine aykırı ilaveler ve değişiklikler yapmak sureti ile sitenin mimari görünüşünü bozduklarını, sitedeki evlerin bahçe duvarlarından farklı bahçe duvarları yaptıklarını, bu ilave ve değişikliklerin 634 sayılı Kanunun 18/1, 19/1 ve 2 maddelerine aykırı olduğunu beyan ederek; davalıların bağımsız bölümlerini mimari projesine ve bahçe duvarlarını diğer bağımsız bölümlerin bahçe duvarlarına uygun hale getirmesine karar verilmesini talep etmiştir.
 
@@ -67,6 +73,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 20. HD 2018/5149 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432464900)
+
 Dava müdahalenin önlenmesi ve hakimin müdahalesi istemine ilişkindir.
 
 …
@@ -78,6 +86,8 @@ Dava müdahalenin önlenmesi ve hakimin müdahalesi istemine ilişkindir.
 SONUÇ: Yukarıda açıklanan nedenlerle taraf vekillerinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2018/317 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404080000)
 
 Davacılar, çekişme konusu 11 parsel sayılı taşınmazdaki bağımsız bölümleri davalı bankadan satın aldıklarını ancak bankanın arşivdeki dosyalarını boşaltmadığını ileri sürerek, davalının taşınmaza el atmasının önlenmesine ve ecrimisil bedeli olarak 3.600,00 TL'nin faizi ile birlikte tahsilini istemiştir.
 
@@ -99,6 +109,8 @@ Tarafların bu yönlere değinen temyiz itirazları yerinde değildir. Reddiyle 
 
 ## Yargıtay 20. HD 2017/6562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/367571900)
+
 Mahkemece HMK'nın 115/2. maddesi gereğince davanın usulden reddine karar verilmiş hüküm davacı ... tarafından temyiz edilmiştir.
 
 Dava konusu uyuşmazlık ortak alana müdahalenin önlenmesi ve projeye aykırılıkların eski hale getirilmesi istemine ilişkindir.
@@ -110,6 +122,8 @@ Dava konusu uyuşmazlık ortak alana müdahalenin önlenmesi ve projeye aykırı
 SONUÇ: Yukarıda açıklanan nedenlerle; davacının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2017/4519 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359927100)
 
 Davacılar, davalı ...'ın maliki olduğu 3. kat 4 nolu bağımsız bölümün ana gayrımenkulün onaylı mimari projesinde ve yönetim planında normal kat olarak yer almasına rağmen tapu siciline dubleks mesken olarak tescil edildiğini, çatıda bulunan piyes katın davalının bağımsız bölümü ile bağlantısının olmadığını ve mimari projede yer almadığını, bu nedenle davalının maliki olduğu bağımsız bölümün tapu sicilinde görünen dubleks mesken niteliğinin mesken olarak tahsisi ile arsa paylarının yeniden tahsisini, piyes katın kal'i ile çatının projeye uygun olarak inşa edilmesine karar verilmesini talep etmişlerdir.
 
@@ -123,6 +137,8 @@ Söz konusu işlem yapılırken de, bağımsız bölümlerin cinsi, bulunduğu k
 SONUÇ: Yukarıda açıklanan nedenlerle; davalı-karşı davacı ... vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2016/8101 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204890100)
 
 Davacı vekili, tapuda ... adına kayıtlı bulunan ... parsel sayılı taşınmazlar üzerinde bulunan çiftliğin davacıya ait olduğunu, çiftlikte bulunan kargir bina, ahır, işçi evleri, kamelya ve ağaçların davacıya ait olduğunu açıklayarak bu hususların tespitine ve tapunun beyanlar hanesine şerhine karar verilmesini istemiştir.
 
@@ -139,6 +155,8 @@ yerine ''...davacı ... tarafından meydana getirildiğinin ... '' ibarelerinin 
 
 ## Yargıtay 18. HD 2016/1512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243128300)
+
 Davacı vekili dava dilekçesi ile davalı ...'e ait bağımsız bölümde kiracı olan diğer davalı..nin projeye aykırı olarak dükkanda tadilat ve değişiklikler ile bodrum kata iniş merdiveni yapıldığını, anataşınmazın depo olan bölümünün ve depo önündeki koridorun arka bahçeye çıkışının tamamen iptal edildiğini ve bodrum kata duvar çekildiğini, bodrum katta 4.20+8.00 mt'lik alanın işgal edildiğini, arka bahçenin 4.20+3.50 mt'lik bölümünün kapatılarak büro şeklinde kullanıldığını, zemin kat dükkandan bodrum kata ara plak döşeme kaldırılarak merdiven yapılmak suretiyle bağlantı kurulduğunu böylece ortak yerlere tecavüz edildiğini ileri sürerek taşınmazı kullanan davalıların el atmalarının önlenmesine, projeye aykırılıkların eski hale getirilmesine, davalıların ortak alanlara tecavüzü nedeni ile 20000 TL ecrimisilin de davalılardan tahsiline karar verilmesini istemiş; mahkemece, ortak yere el atılmasının önlenmesine dair talebin kabulüne ve ecrimisil yönünden davanın ise reddine karar verilmiştir.
 
 …
@@ -150,6 +168,8 @@ Davaya konu anataşınmaza ait tapu kaydı incelendiğinde, davalıya ait 1 numa
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 3. HD 2015/13710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145359400)
 
 Davacı vekili dava dilekçesinde; müvekkili davacının, hazineye ait Nevşehir İli, Avanos İlçesi, ....
 
@@ -171,9 +191,13 @@ SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şek
 
 ## Yargıtay 8. HD 2015/8403 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/152713500)
+
 H.U.M.K'nun 443/4 (HMK'nun 367/2) maddesi gereğince gayrimenkul ile ilgili ayni haklara ilişkin kararlar kesinleşmedikçe icra edilemez. Bu nedenle aynı ilamda yazılı eklentilerin de infazının istenebilmesi için ilamın kesinleşmesi zorunludur. Buna karşılık, gayrimenkulün aynına ilişkin olmayan (gayrimenkul üzerindeki kişisel "şahsi" haklara ilişkin olan) ilamların icraya konulabilmesi için bunların kesinleşmesine gerek yoktur. (Prof.Dr.Baki Kuru.İcra İflas Hukuku, 3.cilt sayfa 2212)
 
 ## Yargıtay 8. HD 2015/7316 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228427300)
 
 Davacı ... Hazinesinin açtığı dava ile, davalı ... tapuya kayıtlı ........ Körfezi kenarındaki bir parça taşınmazın bir bölümünün 3621 sayılı Kıyı Kanunu kapsamında kalan Devletin hüküm ve tasarrufu altında olan yerlerden kamu malı niteliğinde olduğu ve kişilerin mülkiyetinde kalamayacağını ileri sürerek; bu bölümün davalı ... mevcut tapu kaydının iptaliyle kıyı olarak tapu sicilinden terkinine, bu bölüme yönelik el atmanın önlenmesi ve üzerindeki yapıların yıkımna karar verilmesi istenilmiştir.
 
@@ -186,6 +210,8 @@ Kişiler, tapu siciline geçirilmiş ve bu şekilde uzun bir zamandır tasarrufu
 
 ## Yargıtay 18. HD 2015/4080 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/401935700)
+
 Davacı- karşı davalılar dava dilekçelerinde davalı-karşı davacıların mimari plan ve projeye aykırı olarak ortak alanları kullandıkları ve kendilerine kullandırmadıklarını projeye aykırı bu eylem ve müdahalelerinin önlenmesi ve projeye uygun eski hale getirilmesini istemiş, mahkemece, davanın kabulüne ve davalı-karşı davacıların müdahalelerinin önlenmesine ve projeye uygun eski hale getirilmesine karar verilmiştir.
 
 …
@@ -195,6 +221,8 @@ Kat Mülkiyeti Yasası'nın (2) maddesinde bir bağımsız bölümün dışında
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2014/11949 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106780600)
 
 Dava, tadilat projesi ile anataşınmazın asıl giriş kapısına ilaveten davacının yatak odasına paralel şekilde açılan ek kapı dolayısıyla müdahalenin önlenmesi ile eski hale getirme istemine ilişkin olup, mahkemece davanın reddine karar verilmiştir.
 
@@ -207,6 +235,8 @@ Kat Mülkiyeti Yasasının 18. maddesine göre; kat malikleri, gerek bağımsız
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2014/9194 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105587300)
 
 Dava, komşuluk hukukuna aykırılığın giderilmesi isteğine ilişkindir.
 
@@ -224,6 +254,8 @@ SONUÇ: Yukarıda yazılı nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 3. HD 2014/4696 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88260900)
+
 Davacılar vekili dilekçesinde; davalının, maliki bulunduğu davaya konu daireyi müvekkillerinin murisi F.. P..'a verdiğini, onun ölümünden sonra ise murisin eşi ve oğlu olan müvekkillerinin dairede oturmaya devam ettiklerini, ancak müvekkillerini daireden çıkarmak isteyen davalının aleyhlerine el atmanın önlenmesi ve ecrimisil istemli dava açtığını öne sürerek, müvekkilleri tarafından dava konusu daire için yapılan faydalı ve zorunlu giderlerin tespiti ile bedelinin davalı taraftan tahsilini talep etmiştir.
 
 Davalı vekili cevap dilekçesinde; davacıların,müvekkili tarafından dairenin boşaltılması için gönderilen ihtarnameden sonra bir takım giderler yaptırdıklarını savunarak, davanın reddini dilemiştir.
@@ -240,6 +272,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 1. HD 2014/4570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84163700)
+
 Mahkemece; davanın kısmen kabulü ile kadastro teknisyeninin 30/11/2011 tarihli, krokili raporunda (A) harfi ile gösterilen 601.91 m²'lik bölümüne elatmanın önlenmesine ve muhdesatın yıkımına, 2.475,00- TL. ecrimisilin yasal faizi ile tahsiline karar verilmiş, hüküm davalı tarafından temyiz edilmiştir.
 
 …
@@ -254,11 +288,15 @@ Davalının bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hük
 
 ## Yargıtay 18. HD 2014/3477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106768900)
+
 634 Sayılı Kat Mülkiyeti Yasasının 16. maddesine göre; kat malikleri anataşınmazın bütün ortak yerlerine, arsa payları oranında, ortak mülkiyet hükümlerine göre maliktirler. Kat maliklerinin ortak yerlerdeki kullanma haklarının ölçüsü, aksine sözleşme olmadıkça her kat malikine ait arsa payı ile oranlıdır. Kat malikinin bağımsız bölümünü kira sözleşmesine dayalı olarak devamlı şekilde kullanan kiracılar da ortak yerlerden yararlanma hakkına sahiptirler. Bu kişiler, o bağımsız bölüm malikinin ardılı (halefi) olarak onun hakkı oranında ortak yerleri kullanabilirler. Bu haktan yararlanmalarına öteki kat malikleri engel olamazlar. Somut olayda, 13 adet bağımsız bölümden oluşan apartmanda 6 otoluk park yeri bulunduğu belirlenmiştir. Bu durumdan da anlaşılacağı gibi her kat malikine yetecek sayıda otopark yeri mevcut değildir. Anataşınmazda otoparklardan yararlanmayı engelleyen otopark bariyer kumandasının davacıya verilerek müdahalenin men'i ve her kat malikinin arsa payları oranında otoparktan yararlanmalarına karar verilmesi gerekirken, devamlı özgülenmeyi de kapsayacak biçimde bir araçlık otopark yerinin kullanılması şeklinde hüküm kurulması doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2013/14831 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795409100)
 
 Davacılar vekili dava dilekçesinde; davalıların maliki olduğu zemin kattaki dükkanların ara duvarlarını yıkarak tek dükkan haline getirdiklerini, ortak yerlerden olan arka bahçe ile bu katı ayıran duvarı yıktıklarını, bodrum kattaki ortak alanları kısmen işgal ederek mutfak, tuvalet vs. yaptıklarını, bodrumla zemin arasındaki tavanın bir kısmını kaldırıp ayrı bir merdivenle bodruma ikinci bir bağlantı sağladıklarını ve anataşınmazın ön cephesinde de kısmi değişiklikler yaparak Caffe Nero Gıda Ürünleri A.Ş. ne kiraladıklarını belirterek zemin kattaki dükkanların ara duvarlarını, zemin kat ile arka cephedeki bahçe (teras) arasında bulunması gereken duvarın projesine uygun şekilde yapılmasını, arka cephede yer alan ortak bahçede (teras) yapılan her türlü eklentinin ve davalıların bağımsız bölümünden bodrum kata açılan ikinci merdivenin, bodrum katta davalıların yaptırdığı kendilerine ait bölüm dışına taşan mutfak, tuvalet ve benzeri inşaatın, anataşınmazın ön ve arka cephesi ile bodrum ve zemin katında yapılan değişikliklerin yıkılmak suretiyle projesine uygun eski hale getirilmesini ve davalı kiracının tahliyesini istemiş, mahkemece davanın reddine karar verilmiştir.
 
@@ -271,6 +309,8 @@ Anataşınmazın yönetim planının 5. maddesinde, "bahçe ve terasın kullanı
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/719 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79272400)
 
 Dava, kat irtifakı kurulu ana binada ortak yere elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 

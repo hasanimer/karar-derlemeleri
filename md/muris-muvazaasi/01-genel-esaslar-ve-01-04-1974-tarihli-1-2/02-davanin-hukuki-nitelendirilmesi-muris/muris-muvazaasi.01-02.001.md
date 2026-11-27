@@ -20,8 +20,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960949200)
+
 Muris muvazaası hukuksal nedenine dayalı istek yönünden yukarıda değinilen ilkeler ve Yargıtay İçtihadı Birleştirme Hukuk Genel Kurulunun 01.04.1974 tarihli ve 1974/1 Esas 1974/2 Karar sayılı kararı çerçevesinde araştırma ve inceleme yapılması, taraf delillerinin toplanıp değerlendirilmesi, varılacak sonuç çerçevesinde bir karar verilmesi gerekirken, **aynı dava içerisinde her iki hukuki sebebe dayanılmasının mahiyeti itibari ile mümkün olmadığı gerekçesiyle yazılı şekilde karar verilmesi doğru değildir**.
 
 ## Yargıtay HGK 2023/795 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963018700)
 
 Dava dilekçesinin içeriği, iddianın ileri sürülüş biçimi, davacı tarafça verilen 27.06.2016 tarihli dilekçe ve ön inceleme tutanağında tespit edilen hususlar göz önüne alındığında **davanın hukuki niteliğinin muris muvazaası hukuksal nedenine dayandırıldığı** anlaşılmaktadır. Bu durumda, davanın muris muvazaası hukuksal nedenine dayalı miras payı oranında iptal tescil niteliğinde bulunduğu gözetilerek Yargıtay İçtihadı Birleştirme Hukuk Genel Kurulunun 01.04.1974 tarihli ve 1974/1 Esas 1974/2 Karar sayılı kararında belirtilen ilkeler doğrultusunda değerlendirme yaparak sonucuna göre karar verilmelidir.

@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2024/6059 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120332300)
+
 Dava, yasal ön alım hakkına dayalı tapu iptal ve tescil işlemine ilişkindir.
 
 …
@@ -33,6 +35,8 @@ Tüm bu açıklamalar nedeniyle davacı idarenin; kamulaştırma işlemlerini ya
 
 ## Yargıtay 7. HD 2024/4865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108330700)
+
 Davacı vekili dava dilekçesinde; davacının maliki olduğu taşınmazı dava dışı oğlunun kullanımına tahsis ettiğini, oğlu ile davalının boşanmasına rağmen davalının evden çıkmayı kabul etmediğini ileri sürerek davalının taşınmaza el atmasının önlenmesi ile 16/06/2021 tarihinden itibaren fazlaya ilişkin hakları saklı kalmak kaydı ile 1.000,00 TL ecrimisilin yasal faizi ile davalıdan alınarak davacıya verilmesine karar verilmesini talep etmiştir.
 
 …
@@ -44,6 +48,8 @@ Davalı vekili cevap dilekçesinde; davalı ve eşinin evlilikleri devam ederken
 Vurgulamak gerekir ki davacı el atmanın önlenmesi davasını ikame ettiği tarihte boşanma davası henüz devam etmektedir. Öte yandan davacı söz konusu davayı ikame etmeden önce davalının eşi olan Alperen adına kayıtlı ve evlilik birliği içerisinde edinilen taşınmazı boşaltarak davalıya oturması teklifinde bulunmadan bu davayı açmıştır. Davalının eşi Alperen adına kayıtlı dairede oturması halinde boşanma davası kesin olarak sonuçlanmadan davalının söz konusu daireden tahliye ettirilemeyeceği açıktır. Bu durumda davacının söz konusu imkânı davalıya teklif etmeden iş bu davayı açması dürüstlük kuralıyla bağdaşmamaktadır. 4721 sayılı Türk Medeni Kanunu'nun 2. maddesiyle güvence altına alınan kural uyarınca hakkın kötüye kullanılmasının hukuk düzenince korunması mümkün olmayıp bu koşullar altında davacının davasını açtığı tarihte haklı olduğu söylenemez.
 
 ## Yargıtay 1. HD 2016/9355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/270637200)
 
 Dava, tapu iptali tescil, tenkis ve tazminat isteğine ilişkindir.
 
@@ -57,6 +63,8 @@ Daire kararı ile, terekeye karşı yapılan mülkiyetten kaynaklanan haksız fi
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verildiğinden Davalıların temyiz itirazının reddi ile yerel mahkemenin 12.03.2014 tarih ve 2013/237 Esas, 2014/137 Karar sayılı hükmünün ONANMASINA …
 
 ## Yargıtay 23. HD 2014/7607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119179800)
 
 Davacı vekili, müvekkili ile davalılar arasında arsa payı karşılığı inşaat yapım sözleşmesi düzenlendiğini, müvekkilinin sözleşme gereğince eseri tamamladığını, iskân iznini aldığını, ancak davalıların müvekkiline verilmesi gereken daireyi vermediklerini ileri sürerek, 9 nolu dükkan vasfındaki taşınmazın tapu kaydının iptali ile müvekkili adına tescilini talep ve dava etmiştir.
 
@@ -78,6 +86,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı S.. C.. v
 
 ## Yargıtay 8. HD 2013/9613 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437487200)
+
 Davacılar vekili dava dilekçesinde; ... 2001 yılında ... satın aldığı 588 parsel sayılı taşınmazı davacıların 30.03.2006 tarihinde ... satın aldığını, kadastro paftasının uygulanmasında taşınmazın fiilen ... Deresi içinde kaldığının saptandığını, davacıların ise zeminde ...
 
 …
@@ -96,6 +106,8 @@ Davalı Hazine vekilinin temyiz itirazları bu bakımdan yerinde olduğundan kab
 
 ## Yargıtay 5. HD 2013/9419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/282719400)
+
 Mahkemece, davanın pasif husumet yokluğu nedeniyle reddine karar verilmiş; hüküm, davacı vekilince temyiz edilmiştir.
 
 HMK'nun 124. maddesinin 3. ve 4. bendlerinde yazılı olduğu şekilde, davacı tarafça hukuki el atmadan hangi idarenin sorumlu olacağının bilinmemesi, davalı tarafın yanlış gösterilmesi dürüstlük kuralına aykırı olmayıp, kabul edilebilir bir yanılgıya dayanmakta olup, karşı tarafın rızası olmaksızın hakim tarafından taraf değişikliği kabul edilmelidir.
@@ -105,6 +117,8 @@ HMK'nun 124. maddesinin 3. ve 4. bendlerinde yazılı olduğu şekilde, davacı 
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U....nun 428. maddesi gereğince BOZULMASINA …
 
 ## İstanbul BAM 44. HD 2020/437 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/618698700)
 
 Dava 5846 sayılı FSEK'na dayalı tecavüzün tespiti ve maddi tazminat istemine ilişkindir.
 

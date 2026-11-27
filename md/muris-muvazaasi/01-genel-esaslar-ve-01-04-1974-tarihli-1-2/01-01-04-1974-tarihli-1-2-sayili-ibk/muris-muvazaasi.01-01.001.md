@@ -24,4 +24,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/4283 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/954857100)
+
 … görünürdeki sözleşme tarafların gerçek iradesine uymadığından, **gizli bağış sözleşmesi de şekil koşullarından yoksun bulunduğundan** saklı pay sahibi olsun veya olmasın miras hakkı çiğnenen tüm mirasçıların dava açarak resmi sözleşmenin muvazaa nedeniyle geçersizliğinin tespitini ve buna dayanılarak oluşturulan tapu kaydının iptalini…

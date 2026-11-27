@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/6062 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154991000)
+
 Davacı vekili dava dilekçesinde özetle; Kocaeli ili, ..., .. Mahallesi 103 ada 28 parsel sayılı taşınmazdaki 13 numaralı bağımsız bölümün maliki olduğunu, davalının ise 12 numaralı bağımsız bölüm maliki olduğunu, kat maliklerinin beşte dördünün yazılı iznini almadan, 634 sayılı Kat Mülkiyeti Kanunu'na (634 sayılı Kanun) mimari projeye ve komşuluk hukukuna aykırı olarak balkonun dış cephesinin camla kapatılması şeklindeki aykırılığın eski hale getirilmesini talep etmiştir.
 
 …
@@ -40,6 +42,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul
 
 ## Yargıtay 5. HD 2025/5591 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154414600)
+
 Davacı vekili dava dilekçesinde; Muğla ili, ... ilçesi, ... Köyü 1227 ada 14 parselde bulunan ana gayrimenkulde 14 nolu bağımsız bölümün maliki olduğunu, davalıların ise 13 ve 15 nolu bağımsız bölümlerin malikleri olduklarını, davalıların 15 nolu bağımsız bölümde balkonu büyütmek suretiyle bağımsız bölümünün kapalı alanını büyüttüğünü ve pergole inşa ettiğini, bağımsız bölümünün etrafını taşla çevreleyip korkuluk yaparak ortak alana müdahalede bulunduğunu, 13 nolu bağımsız bölümde ise ortak alan olan bahçeye istinat duvarı örmek suretiyle kendisine özel bahçe inşa ettiğini beyanla, davalıların 634 sayılı Kat Mülkiyeti Kanunu'na (634 sayılı Kanun) ve ana gayrimenkulün mimari projesine aykırı hareket ettiğini belirterek yapılan müdahalelerin önlenmesine ve eski hale getirilmesine karar verilmesini talep etmiştir.
 
 …
@@ -55,6 +59,8 @@ Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan inceleme sonucunda; tapu ka
 Davacı ...'in kendi adına asaleten ... adına vekâleten temyiz itirazlarının kabulü ile temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/3982 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143591300)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -78,6 +84,8 @@ Taraf vekillerinin temyiz itirazlarının kısmen kabulü ile temyiz olunan İlk
 
 ## Yargıtay 5. HD 2025/3981 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143587800)
+
 Davacı vekili dava dilekçesinde özetle; İstanbul ili, Kartal ilçesi, ...
 
 …
@@ -94,6 +102,8 @@ Asıl davada davalılar- karşı davada davacılar ... vd. vekili ile karşı da
 
 ## Yargıtay 6. HD 2025/515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139497600)
+
 Davacı vekili dava dilekçesinde; müvekkilinin hissedar olduğu taşınmazda davalı yüklenici ile arsa payı karşılığı inşaat sözleşmesi akdedilerek inşaatın tamamlandığını, sözleşme ve tasdikli projeye göre zemin katta müvekkiline ait dükkanın inşa edilmediğini, 2 no'lu daireye katılmak suretiyle inşa edildiğini ve bu nedenle davalı ...'e ait 2 no'lu dairenin müvekkiline ait zemin kat 3 no'lu dükkana tecavüzlü olduğunu, belirtilen nedenlerle müvekkiline ait dükkana vaki tecavüzün önlenmesi ile yapının projeye uygun hale getirilmesine ve ecrimisil alacağının tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -105,6 +115,8 @@ Davalı ...
 Bununla birlikte: İlk Derece Mahkemesince hüküm fıkrasında, "Dava konusu İstanbul ili, ...ilçesi,...köyü,...Mevkii, 244DTIVb pafta, 1317 ada, 15 parselde zemin katta sağda bulunan tapuda 15/100 arsa paylı 3 numaralı depolı dükkan olarak (11/40 m²) alanlı kayıtlı taşınmazın 2 numaralı meskene katılması suretiyle davalıların müdahalesinin önlenmesine, eski hale getirilmesine" yazılmak suretiyle infazda tereddüt edilecek şekilde hüküm kurulduğundan, hükmün 1 nolu bendinin 2. paragrafının tamamının hükümden çıkarılarak yerine; "Dava konusu İstanbul ili, ...ilçesi,...köyü,...Mevkii, 244DTIVb Pafta, 1317 ada, 15 parselde bulunan binanın zemin katında sağ tarafta bulunan 15/100 arsa paylı 3 numaralı depolu dükkanın, 2 no'lu bağımsız bölüme katılan kısmına davalının müdahalesinin önlenmesine, 3 no'lu bağımsız bölümün projesindeki gibi eski hale getirilmesine," şeklinde yazılmak suretiyle karar verilmesi gerekir.
 
 ## Yargıtay 5. HD 2024/5880 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060354900)
 
 1\.
 
@@ -133,6 +145,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usu
 
 ## Yargıtay 5. HD 2024/5070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057767500)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -154,6 +168,8 @@ Davalı vekilinin temyiz itirazının kısmen kabulü ile İlk Derece Mahkemesi 
 
 ## Yargıtay 5. HD 2024/3379 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039297500)
+
 Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan temyiz incelemesi sonucunda; İlk Derece Mahkemesince verilen ilk kararda asıl ve birleştirilen davalar yönünden ayrı ayrı hüküm kurulmamış, sonrasında Bölge Adliye Mahkemesince de "Kararın Düzeltilerek Esas Hakkında Hüküm Kurulması" kararı üzerine birleştirilen dava yönünden ayrıca hüküm kurulmamış olması kanun hükmüne aykırıdır. Zira asıl ve birleştirilen davaların tahkikat aşaması ortak olmakla birlikte, bu davalar esasen bağımsızlıklarını korurlar, asıl ve birleştirilen davaların her biri hakkında anılan madde hükmüne uygun olarak ayrı ayrı ve infazda tereddüt uyandırmayacak şekilde hüküm kurulması gerekirken, yazılı şekilde hüküm tesisi doğru görülmemiştir. Öte yandan; 634 sayılı Kat Mülkiyeti Kanunu'nun (634 sayılı Kanun) 33 üncü maddesi gereğince, İlk Derece Mahkemesince eski hale getirme yönünde hüküm kurulduktan sonra, davalıya, aykırı eylemlerine son vermesi yönündeki uyarıyla birlikte, makul süre takdir edilmiştir.
 Davalılara eski hale getirilmesi için kararın kesinleşmesinden itibaren 2 aylık kesin mehil verilmesine, davalılar tarafından yerine getirilmediği takdirde davacıya bu hususta yetki verilmesine ve bilirkişi raporunda belirtilen 2.000,00 TL eski hale getirme bedelinin bu davalılardan tahsiline şeklindeki doğru belirleme ile hüküm kurulmasına rağmen, Bölge Adliye Mahkemesince "kararının hüküm bölümünün, 3. fıkrasında eski hale (mesken) getirilmesine cümlesinden sonra gelen 4 satırdan oluşan 4. fıkraya kadar devam eden kısmın hükümden çıkartılmak suretiyle düzeltilmesine" şeklinde aksi yönde hüküm kurulması doğru görülmediğinden hükmün bozulmasına karar vermiştir.
 
@@ -162,6 +178,8 @@ Davalılara eski hale getirilmesi için kararın kesinleşmesinden itibaren 2 ay
 Asıl davanın davalısı ... Otelcilik Ltd. Şti. vekili ile birleştirilen davanın davalısı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2024/3100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029706100)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -183,6 +201,8 @@ Davalılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 5. HD 2023/12404 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999967300)
+
 Davalı ... vekili cevap dilekçesinde özetle; davalı hakkında davacı tarafından haksız ve hukuka aykırı olarak dava açıldığını, açılan davanın yerinde olmayıp, kanunun aradığı şartları da taşımamakla beraber hukuki menfaatten de yoksun olduğunu, davacı ... ve diğer maliklerin 02.03.2017 tarihli Düzce Belediyesi Başkanlığına gönderdikleri dilekçede dava konusu yapının kullanılması noktasında anlaştıklarını ve müvekkili tarafından kullanılmasına muvafakat verdiklerini beyan ettiklerini ve Düzce Belediyesi tarafından yıkım kararının kaldırılmasını talep ettiklerini, söz konusu dilekçe ile davacı yanın dava konusu yapının kullanılmasına muvafakati olduğunun aşikar olmakla birlikte dava açma hususunun hukuki yaradan yoksun olduğununun, davanın husumet ehliyetinin muvafakat nedeniyle ortadan kalkması sonucu usulden reddinin gerektiğini, Yargıtay (Kapatılan) 20.
 
 …
@@ -199,6 +219,8 @@ Mahkemece projeye aykırılıkların ve müdahalelerin neler olduğunun ve ne ş
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/12396 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999941500)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda davanın kabulüne karar verilmiştir.
 
@@ -221,6 +243,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 5. HD 2023/9205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987880000)
+
 Davalı ...
 
 …
@@ -232,6 +256,8 @@ Dairece yapılan temyiz incelemesi neticesinde; somut olayda, muvafakatnamede ta
 Davacılar ve davalı ... Market Tic. A.Ş vekillerinin yerinde olmayan tüm temyiz itirazlarının reddiyle usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2023/8416 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/972326700)
 
 Davacı dava dilekçesinde özetle; davalının kat maliki olup aynı zamanda binayı yapan müteahit olduğunu, bina asansörünü 1. kattan başlatması gerekirken 3. kattan başlatığını ileri sürerek kat maliklerinin mağduriyetinin giderilerek bina asansörünün 1. kata indirilmesine karar verilmesini talep etmiştir.
 
@@ -248,6 +274,8 @@ Dava konusu anagayrımenkulün mimari ve tadilat projesinde ise asansörün baş
 Davacının yerinde görülmeyen tüm temyiz itirazlarının reddiyle usûl ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2023/5899 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914033000)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -266,6 +294,8 @@ Davalılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 5. HD 2023/1627 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881457800)
+
 Davacı vekili dava dilekçesinde; davalı yöneticinin site içi yürüyüş yolu ve site giriş kapısına olan haksız müdahalesinin meni ile ortak alanların vaziyet planı ve mimari projeye uygun eski hale getirilmesine karar verilmesini istemiştir.
 
 …
@@ -282,6 +312,8 @@ Müdahalenin önlenmesi ve eski hale getirme davaları mülkiyet hakkına istina
 
 ## Yargıtay 5. HD 2022/18853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851450900)
+
 Mahkemece davanın kabulüne karar verilmiş, hükmün bir kısım davalı tarafça istinaf edilmesi üzerine İstanbul Bölge Adliye Mahkemesi 36. Hukuk Dairesinin 2019/3334 Esas, 2022/589 Karar sayılı ilamı ile davalı tarafın istinaf başvurusunun esastan reddine karar verilmiş; hüküm bir kısım davalılar vekili tarafından temyiz edilmiştir.
 
 …
@@ -293,6 +325,8 @@ Ayrıca kabule göre de, davacı kat malikince 3 ayrı bağımsız bölüm malik
 Açıklanan nedenle davalılar vekilinin temyiz itirazları yerinde olduğundan Büyükçekmece 3. Sulh Hukuk Mahkemesinin 2015/1210 Esas, 2018/251 Karar sayılı hükmünün HMK'nın 371. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 5. HD 2022/18356 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847056400)
 
 Mahkemece davanın kabulüne dair verilen 23.11.2015 tarihli kararın davacı ve davalı ... vekili tarafından temyiz edilmesi üzerine Yargıtay (Kapatılan) 20. Hukuk Dairesinin 13.11.2017 tarihli ve 2017/4734 Esas, 2017/9263 Karar sayılı ilâmı ile hükmün eksik inceleme ve araştırma ile verildiği gerekçesiyle bozulmasına karar verilmiştir.
 

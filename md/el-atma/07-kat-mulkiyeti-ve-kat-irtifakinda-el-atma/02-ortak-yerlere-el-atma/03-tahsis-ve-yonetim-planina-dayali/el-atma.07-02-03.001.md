@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/786 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792152800)
+
 Davacı vekili dava dilekçesinde; müvekkilinin İstanbul ili Kadıköy ilçesi Caferağa Mahallesi 1019 ada 18 parsel sayılı taşınmazda bulunan binanın 1 nolu bağımsız bölümünün maliki olduğunu, davalıların bu dairenin tam ortasına asansör boşluğu kurarak müvekkilinin daireyi satın aldığı tarihten bugüne kadar kullanmasını engellediklerini belirterek projeye aykırı olarak yapılan müdahalenin önlenmesine, davacıya ait dairenin projesine uygun hâle getirilmesine, fazlaya ilişkin hakları saklı kalmak kaydı ile şimdilik 8.000TL ecrimisil bedelinin en yüksek banka mevduat faizi ile birlikte davalılardan tahsiline karar verilmesini talep etmiş, 11.02.2013 havale tarihli ıslah dilekçesi ile talebini 23.188,11TL'ye artırmıştır.
 
 …
@@ -42,6 +44,8 @@ Asıl ve birleşen dosya davalıları vekilinin temyiz itirazlarının kabulü i
 
 ## Yargıtay HGK 2021/1010 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707369100)
+
 5\.
 
 …
@@ -53,6 +57,8 @@ Dosya içerisinde mevcut 05.02.2012 tarihli Büyükçekmece Alkent 2000 Çamlıc
 Toplu yapıya geçişe ilişkin 05.02.2012 tarihli kat malikleri kurulu kararının iptali ve tapudan terkini için açılan davada, Büyükçekmece 1. Asliye Hukuk Mahkemesince 24.06.2012 tarihli karar ile davanın reddine karar verilmiş …
 
 ## Yargıtay HGK 2019/285 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501827200)
 
 Dava, yöneticilik işleminin yok hükmünde olduğunun tespiti, haksız sataşmanın önlenmesi ve eski hâle getirme istemine ilişkindir.
 
@@ -71,6 +77,8 @@ Bu itibarla, yerel mahkeme direnme kararında yer alan “Davacı kat maliki olu
 SONUÇ: Davacı vekili ve davalı vekili ile ferî müdahiller Çankaya Park Evleri Sitesi C ve D Blok Yönetimleri vekili (davalı vekili ile feri müdahil vekilleri ortak vekil) ile ferî müdahil Çankaya Park Evleri Sitesi A Blok Yönetimi vekilinin temyiz itirazlarının ayrı ayrı kabulü ile yerel mahkeme direnme kararının yukarıda açıklanan değişik gerekçe ve nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2013/1591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77617200)
 
 Davalı vekili, davanın reddini istemiştir.
 
@@ -95,6 +103,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel 
 
 ## Yargıtay HGK 2011/748 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17156400)
+
 Türk Medeni Kanunu hükümleri gereğince ortak mülkiyete bağlı olan bir yeri paydaşlardan birisinin kendi kullanımına özgülemesi durumunda diğer paydaşların ecrimisil (haksız işgal tazminatı) isteyebilmesi için öncelikle o paydaş bu ortak yeri münhasıran kullanmaktan yöntemince men edilmiş olmalıdır. Başka bir deyişle diğer paydaşlar bu yerden kendilerinin de yararlanmak istediklerini şagil paydaşa yöntemince ihtar etmiş olmalarına karşın kullanımın sürdürülmüş olması gerekir.
 
 Somut olayda ortak mülkiyet hükümlerine tabi olan dava konusu yerleri kullanarak müdahalede bulunan davalının diğer paydaşlarca önceden uyarıldığı yolunda bir kanıt ortaya konulup kanıtlanmadığı, sığınak özel amaca tahsisli ortak yer olmakla niteliği gereği ekonomik bir yarar sağlamayacağı gözetilmeden davacı yanın ecrimisil (haksız işgal tazminatı) isteminin reddine karar verilmesi gerekirken, yerinde olmayan gerekçelerle ecrimisile hükmedilmesi, …
@@ -118,6 +128,8 @@ Bu durumda mahkemece ana taşınmaza ait mimari proje ilgili belediye ve tapu m�
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2026/5274 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205437000)
 
 Davacı vekili dava dilekçesinde özetle; davacı ... Yapı Yönetiminin yönetiminde olan siteye ait ve 634 sayılı Kat Mülkiyeti Kanunu'na (634 sayılı Kanun) göre ortak kullanım alanı içinde olan otopark alanı ve yürüyüş yolunun davalı tarafından ortak kullanım amacı dışında kullanıldığını, davalının otopark alanını depo olarak kullandığını ve soğuucu klimalarını otopark alanında bulundurduğunu, sitenin diğer yürüyüş yoluna da gıda malzemeleri gibi malzemeler koyarak ortak alanları işgal ettiğini, davalının ortak kullanım alanı olan otopark ve yürüyüş yolundaki haksız el atmanın önlenmesini, ortak kullanım alanlarının eski hale getirilmesine karar verilmesini talep etmiştir.
 
@@ -148,6 +160,8 @@ alanlardaki kullanım payını aşıp aşmadığı araştırılmalı, varsa proj
 Taraf vekillerinin temyiz itirazları yerinde olduğundan temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2026/3616 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203975400)
 
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonunda davanın kabulüne karar verilmiştir.
 
@@ -190,6 +204,8 @@ Davalılar vekillerinin temyiz itirazlarının kabulü ile temyiz olunan İlk De
 
 ## Yargıtay 5. HD 2025/17514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203023700)
+
 Davacı vekili dava dilekçesinde özetle; davalının bağımsız bölümünün içerisinde son katta, salon önündeki terasta, bodrum katında 170 m² ruhsatlı binada mimari projeye aykırı yatay taşmalar yaparak binayı büyüttüğünü, ilave yapılan yerlerin sitenin ortak alanı olduğunu, bu ilaveler yapılırken müvekkilinin muvafakatinin alınmadığını, proje üzerinde değişiklik yapılmasının kat maliklerinin muvafakatını gerektirdiğini, davalının kaçak olarak yapılan bodrum katı kiraya verdiğini, alınan kiranın site yönetiminin kasasına ait olduğunu belirterek elatmanın önlenmesine ve eski hale getirilmesine karar verilmesini talep etmiştir.
 
 …
@@ -205,6 +221,8 @@ Ana taşınmazlara ait yönetim planlarındaki özgüleme hükümlerinin sadece 
 İlk Derece Mahkemesi kararının; (1) numaralı bendinde yer alan "aksi halde icra kanalı ile kararın yerine getirilmesine," ibaresinin hükümden çıkartılmak sureti ile hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2025/10732 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174191800)
 
 Mahkemece bozmaya uyularak yapılan yargılama sonucunda konusuz kalan dava hakkında karar verilmesine yer olmadığına karar verilmiştir.
 
@@ -222,6 +240,8 @@ Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul
 
 ## Yargıtay 5. HD 2025/6579 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155506900)
+
 Davalı vekili cevap dilekçesinde özetle; müvekkilinin taşınmazı ile davacı tarafın taşınmazının yan yana olduğunu, site yönetim yerleşim planlarında görüleceği üzere taşınmazların bağımsız bölüm olarak geçtiğini, davacı tarafın belirttiği ve müvekkilin taşınmazı ile davacının taşınmazını ayıran tel örgünün iddia edildiği gibi ortak alan sınırlarında olmadığını, telin müvekkilinin maliki olduğu taşınmaz sınırları içerisinde olduğunu, ortak alanlarda bir değişiklik veya tadilat olmayıp müvekkilinin kendi taşınmazı üzerinde değişiklik yaptığını, müvekkilinin taşınmazları ayırmak için çektiği telin diğer bölümlerde site yönetimi tarafından örülen duvar ve üzerine çekilen telle aynı yükseklikte olduğunu, davacı tarafın diğer bir talebinin ise müvekkilinin beslediği köpeğinin uzaklaştırılması olduğunu, müvekkilinin evinin bir apartman dairesi olmayıp müstakil bir villa olduğunu, etrafının da çevrili olduğunu, gerekli tüm önlemler alındığından davacının beslenen köpekten rahatsız olmasının imkansız olduğunu, müvekkilin ve davacının taşınmazının olduğu sitenin yönetim planında, bağımsız bölümlerde evcil veya süs hayvanlarının beslenmesinin yasaklandığına dair bir madde bulunmadığını
 belirterek haksız ve hukuki dayanaktan yoksun davanın tümüyle reddine karar verilmesini istemiştir.
 
@@ -234,6 +254,8 @@ belirterek haksız ve hukuki dayanaktan yoksun davanın tümüyle reddine karar 
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/5591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154414600)
 
 Davacı vekili dava dilekçesinde; Muğla ili, ... ilçesi, ... Köyü 1227 ada 14 parselde bulunan ana gayrimenkulde 14 nolu bağımsız bölümün maliki olduğunu, davalıların ise 13 ve 15 nolu bağımsız bölümlerin malikleri olduklarını, davalıların 15 nolu bağımsız bölümde balkonu büyütmek suretiyle bağımsız bölümünün kapalı alanını büyüttüğünü ve pergole inşa ettiğini, bağımsız bölümünün etrafını taşla çevreleyip korkuluk yaparak ortak alana müdahalede bulunduğunu, 13 nolu bağımsız bölümde ise ortak alan olan bahçeye istinat duvarı örmek suretiyle kendisine özel bahçe inşa ettiğini beyanla, davalıların 634 sayılı Kat Mülkiyeti Kanunu'na (634 sayılı Kanun) ve ana gayrimenkulün mimari projesine aykırı hareket ettiğini belirterek yapılan müdahalelerin önlenmesine ve eski hale getirilmesine karar verilmesini talep etmiştir.
 
@@ -250,6 +272,8 @@ Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan inceleme sonucunda; tapu ka
 Davacı ...'in kendi adına asaleten ... adına vekâleten temyiz itirazlarının kabulü ile temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/4640 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144050300)
 
 Davalı ... vekili cevap dilekçesinde özetle; davanın reddi gerektiğini, dava konusu taşınmazın, bağımsız müstakil bir bölüm olup kurulan site yönetimi tarafından açık olan yol kapatılarak oluşturulduğunu, Milli Eğitim Bakanlığı Özel Eğitim Kurumları Standartlar Yönetmeliği gereği özel eğitim kurumları açılırken kat malikleri iznine ihtiyaç duyulduğunu, fakat 06.01.2017 tarihinde davalı tarafından yapılan başvuru ve incelemelerde yapının müstakil olduğu belirtildiği için Milli Eğitim Bakanlığı tarafından böyle bir izne ihtiyaç duyulmadığını, ayrıca Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yapı Kayıt Belgesinde söz konusu taşınmazın “karma” (konut+ticari) olarak görüldüğünü dolayısıyla davacı kötü niyetli olarak huzurdaki bu davayı açtığını, ayrıca diğer davalı ile aralarında akdedilen kira sözleşmesinden önce site içerisinde birden fazla işyerlerinin olduğunu ve kat maliklerinin bu konuda açıkça rıza ve muvafakati olduğu davalı tarafına bildirilerek kira kontratı yapıldığını, 4721 sayılı Türk Medeni Kanunu'nun (4721 sayılı Kanun) 2 nci maddesine göre herkesin haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kuralına uymak zorunda olduğunu, bu nedenle davacı
 tarafın davalı hakkında açmış olduğu dava ile tamamen kötü niyetli olduğunu belirterek davanın reddini talep etmiştir.

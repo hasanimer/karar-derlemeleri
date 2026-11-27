@@ -29,14 +29,20 @@ Yüklenici, tüm edimlerini ifa ettiği takdirde ve sözleşmenin de ifa ile son
 
 ## Yargıtay HGK 2023/1072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976335200)
+
 Kat karşılığı inşaat sözleşmeleri karşılıklı edimler içerdiğinden, yüklenicinin peşinen kendisine devredilen tapuya hak kazanabilmesi için sözleşmede açık bir hüküm bulunmadıkça kendi edimini yüklendiği özen borcu uyarınca kanuna, sözleşme hükümlerine fen ve sanat kurallarına uygun olarak ifa etmiş olması gerekmektedir. Bir başka anlatımla yüklenici edimini tam olarak yerine getirdiğinde, kendi adına düşen bağımsız bölümlerin tescilini isteyebilecektir. Yükleniciden pay satın alan üçüncü kişiler de yüklenicinin halefi olduklarından ancak, yüklenici edimi tam olarak yerine getirip tapuyu almaya hak kazandığı takdirde hak sahibi olacaklardır. Nitekim yüklenici edimini yerine getirmediği takdirde arsa sahibine sözleşmenin feshi ile devredilen tapunun iptalini isteme hakkı doğmaktadır. Zira ani edimli türden olan eser sözleşmeleri kural olarak geriye etkili olarak sonuç doğurmaktadır.
 Yargıtay İçtihadı Birleştirme Genel Kurulunun 25.01.1984 tarihli ve 1983/3 Esas, 1984/1 Karar sayılı kararında da kat karşılığı inşaat sözleşmelerinde yüklenicinin kendi kusuruyla işi muayyen bir zamanda bitirmeyerek temerrüde düşmesi hâlinde, uyuşmazlığın kural olarak BK’nın 106-108 inci maddeleri gereğince çözümlenmesi gerektiği, ancak olayın niteliği ve özelliği haklı gösteriyorsa TMK’nın 2 nci maddesi uyarınca sözleşmenin feshinin ileriye etkili sonuç doğuracağına karar verileceği belirtilmiştir.
 
 ## Yargıtay HGK 2023/839 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/954158700)
+
 Başka bir şekilde ifade etmek gerekir ise; kural olarak inşaat sözleşmesinden kaynaklanan şahsi hakka dayalı davalarda tescile karar verilebilmesi için yüklenicinin eseri sözleşme koşullarına uygun bitirip bitirmediği dolayısıyla tescile hak kazanıp kazanmadığının saptanması önem arz etmektedir. Burada yüklenicinin temel borcu, sözleşme gereği fenne ve amacına uygun bir bina meydana getirerek arsa sahibine teslim etmektir. Zira yüklenici bu nitelikleri haiz bir bina meydana getirmiş ve arsa sahibine teslim etmiş ise, sözleşmenin karşı edimi olan arsa payının -bağımsız bölümün- devrini ondan isteyebilir. Bu hak doğrudan yüklenici tarafından talep edilebileceği gibi, yüklenicinin kişisel hakkını devralan üçüncü kişi de yüklenicinin halefi olarak tescil isteminde bulunabilir. Ancak, yüklenicinin açtığı davalarda olduğu gibi halefi olan üçüncü kişilerin açacağı tescil davalarında da tescile hak kazanabilmesi için yapının arsa sahibinin reddedemeyeceği seviyeye getirilmesi, ayıp ve eksiklikler varsa bunların yüklenicinin halefi olan üçüncü kişi tarafından tamamlanması veya bedelinin arsa sahibine ödenmek üzere depo ettirilmesi gerekir.
 
 ## Yargıtay HGK 2023/434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/909132700)
 
 Kat karşılığı inşaat sözleşmesine göre inşaat yapan yüklenicinin, yaptığı işin karşılığı olan arsa payını, TBK’nın 479 uncu maddesi hükmü doğrultusunda, kural olarak arsa sahibine verilmesi gereken dairelerin teslimi anında talep hakkı doğar. Ancak taraflar yasa hükmünün aksine, arsa payının devrine ilişkin özel koşullar kararlaştırabilir. Örneğin, üzerinde inşaat yapılacak arsanın yükleniciye verilmesi öngörülen payının peşinen devri kabul edilebileceği gibi, yükleniciye isabet edecek bağımsız bölümlerin kat irtifaklı arsa paylarının, inşaatın belirli aşamalarında devri de kararlaştırılabilir. İnşaatın tamamlanmasından önce yükleniciye pay devri yapılması, inşaat yapımı sırasında yükleniciye gerekli olan sermayenin sağlanarak işin bir an önce bitirilmesi amacını gütmektedir. Peşinen tapuda yapılan bu pay devri bir nevi avans niteliğindedir.
 
@@ -46,14 +52,20 @@ Dairemizin, “arsa payı karşılığı inşaat sözleşmesinin geriye etkili f
 
 ## Yargıtay 23. HD 2019/3869 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/536022400)
+
 Arsa payı karşılığı inşaat sözleşmelerinde arsa sahibi açısından güdülen amaç, arsasını değerlendirmektir. Bu nedenle arsa sahibinin arsa payı karşılığı inşaat sözleşmesi imzalarken güttüğü saikin 6502 sayılı Yasa'da tanımlanan tüketicinin saikinden farklı olduğu gözden kaçırılmamalıdır. Arsa payı karşılığı inşaat sözleşmelerine konu işin üst düzey teknolojiyi gerektirmesi, sözleşme kapsamında taşınmaz satış vaadi ve inşaat sözleşmelerinin de bulunduğu nazara alındığında 6502 sayılı Kanun'da kanun koyucunun salt kullanma ve tüketme amacına yönelik mutfak, dolap yaptırmak, araç tamiri yapmak gibi dar kapsamlı eser sözleşmelerini kastettiği, arsa payı karşılığı inşaat sözleşmelerinin ise bu kapsamda olmadığının kabulü gerekir.
 
 ## Yargıtay 13. HD 2018/10082 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473624200)
 
 Temlikin, temlik edenle (müteahhit şirket ) borçlu (arsa sahibi) arasında bazı ilişkilerin doğmasına neden olduğu çok açıktır. Zira temlik alan evvelki alacaklının yerine geçmiş borçludan (arsa sahibinden) ifayı istemek, gerektiğinde de borçluyu ifaya zorlamak onun hakkı olmuştur. Arsa sahibi ile aralarında arsa payı karşılığı inşaat sözleşmesi bulunan yükleniciden sözleşmede ona bırakılması kararlaştırılan bağımsız bölümü temlik alan üçüncü kişinin (eldeki davada davacı alıcıların), arsa sahibini (borçluyu) ifaya zorlayabilmesi için öncelikle temlik işlemini ve işlemin sıhhatini kanıtlaması gerekir. Fakat temlik işlemi kanıtlanmış olunsa da yukarıda açıklandığı üzere ifa talebinin muhatabı olan arsa sahibi ifaya derhal uymak zorunda değildir. Gerçekten Borçlar Kanununun 167. maddesi hükmüne göre “Borçlu, temlike vakıf olduğu zaman; temlik edene karşı haiz olduğu defileri, temellük edene karşı dahi dermeyan edebilir.” Buna göre temliki öğrenen borçlu temlik olmasaydı önceki alacaklıya karşı ne tür defiler ileri sürebilecekse, aynı defileri yeni alacaklıya (temlik alan alıcılara) karşı da ileri sürebilir hale gelir.
 Temlikin konusu, yüklenicinin arsa payı karşılığı arsa sahibi ile yaptığı sözleşme uyarınca hak kazandığı gerçek alacak ne ise o olacağından, temlik eden yüklenicinin arsa sahibinden hak kazanmadığını üçüncü kişiye temlik etmesi arsa sahibi bakımından önemsizdir. Diğer taraftan yüklenici, arsa sahibine karşı öncelikli edimini tamamen veya kısmen yerine getirmeden kazanacağı şahsi hakkı üçüncü kişiye temlik etmişse, üçüncü kişi (alıcılar) Borçlar Kanununun 81. maddesinden yararlanma hakkı bulunan arsa sahibini ifaya zorlayamaz.
 
 ## Yargıtay 15. HD 2005/1234 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16414500)
 
 Tapu iptali istemine gelince; yükleniciden pay satın alan kişilerin adına oluşturulan tapu kayıtlarının iptali istemi reddedilmiş ise de, arsa payı karşılığındaki eser sözleşmeleri nedeniyle yüklenicinin tapuya hak kazanabilmesi, inşaatın sözleşme, imar mevzuatı ve projelerine uygun biçimde yapılıp arsa sahibine teslim edilmesi şartına bağlıdır. Yükleniciden bağımsız bölüm satın alanların da yüklenicinin edimini yerine getirip tapuya hak kazanması halinde hak sahibi olacakları ortadadır. İnşaat aşamasında arsa sahibince yükleniciye pay devredilmesi, inşaat yapımı sırasında yükleniciye sermaye sağlanması ve işin bir an önce bitirilmesi amacına matuf olup bu devirlerin avans niteliğinde geçici bir intikal olarak kabulü zorunludur.
 Bu nedenle dava konusu olayda İnşaatın seviyesi, akdin ileriye etkili feshini haklı kılacak derecede olmadığı gibi esasen mahkemece akdin geriye etkili şekilde feshine karar verilip bu husus kesinleştiğinden yükleniciye ait yerleri satın alan davalılar hakkındaki tapu iptal ve tescil isteminin kabul edilmesi, dava aşamasında bir kısım tapuların intikal görmesi nedeniyle yeni maliklerin davaya katılması veya bedel talebi HUMK. 186. madde gereğince değerlendirilip dava sonuçlandırılmalıdır.

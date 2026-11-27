@@ -28,36 +28,54 @@ Kamulaştırma Kanunu'nun 10. maddesi; "Kamulaştırmanın satın alma usulü il
 
 ## Yargıtay HGK 2025/568 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179633500)
+
 4650 sayılı Yasayla değişik 2942 sayılı Kamulaştırma Kanunu'nun 10.maddesi uyarınca açılan bedel tespit ve tescil davasında aynı Kanunun 15/son maddesine göre dava konusu taşınmaza dava tarihi olan 2017 yılına ilişkin İlçe Tarım ve Orman Müdürlüğü verileri esas alınarak göre değer biçilmesi gerekirken, bu husus gözetilmeden, 2016 yılı resmi verisine göre belirlenen kamulaştırma bedeline ÜFE oranı uygulanmak suretiyle endeksleme yapan bilirkişi raporu doğrultusunda hüküm kurulması, doğru görülmediğinden,…
 
 ## Yargıtay HGK 2024/309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055705200)
 
 4650 sayılı Yasayla değişik 2942 sayılı Kamulaştırma Kanununun 10.maddesi uyarınca açılan bedel tespit ve tescil davasında aynı Kanunun 15/son maddesine göre değerlendirmenin dava tarihi esas alınarak yapılması gerekir.
 
 ## Yargıtay HGK 2022/1154 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/825463200)
+
 Bilindiği üzere 2942 sayılı Kamulaştırma Kanunu’nun “Tapuda kayıtlı olmayan taşınmaz malların idare adına tescili ve zilyedin hakları”na ilişkin hükümler içeren 19. maddesi, 24.04.2001 tarihli ve 4650 sayılı Kanunun 11. maddesi ile değiştirilmiş; tapuda kayıtlı olmayan taşınmaz malların kamulaştırılmalarında, kamu malı olan ve kamulaştırma konusu olamayacak yerlerin kamulaştırılmasının önlenmesi amacıyla, bu tür taşınmaz malların 3402 sayılı Kadastro Kanunu’nun 16. maddesinde sayılan yerlerden olup olmadığının ilgili yerlerden sorularak tespit edilmesi külfeti idarelere yükletilmiş; kamu malı olmadıkları belirlendikten sonra, bedel tespiti ve tescil istemiyle mahkemeye başvurulması ve taşınmaz malın idare adına tesciline karar verilebileceği belirtilmiştir.
 
 ## Yargıtay HGK 2016/204 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232446400)
 
 Hemen belirtmek gerekir ki; Kamulaştırma Kanunu'nun 10 maddesinde, kamulaştırmanın satın alma usulü ile yapılamaması halinde idareye kamulaştırma bedelinin tespiti ve kamulaştırılan taşınmazın idare adına tescili için dava açması, mahkemeye de kamulaştırmayı sonuçlandırarak bedelin tespiti ve taşınmazın idare adına tesciline karar verilmesi ödev ve sorumluluğu yüklenmiştir. Anılan maddenin 8. fıkrası ise, “...Tarafların anlaştığı veya tarafların anlaşamaması halinde hakim tarafından kamulaştırma bedeli olarak tespit edilen miktarın, peşin ve nakit olarak veya kamulaştırma bu Kanunun 3 üncü maddesinin ikinci fıkrasına göre yapılmış ise, ilk taksitin yine peşin ve nakit olarak hak sahibi adına, hak sahibi tespit edilememiş ise ileride ortaya çıkacak hak sahibine verilmek üzere 10 uncu maddeye göre mahkemece yapılacak davetiye ve ilanda belirtilen bankaya yatırılması ve yatırıldığına dair makbuzun ibraz edilmesi için idareye onbeş gün süre verilir. Gereken hallerde bu süre bir defaya mahsus olmak üzere mahkemece uzatılabilir...” şeklinde olup, tespit edilen bedelin ödeme şekli ve süresine ilişkin düzenlemeye yer verilmiştir.
 
 ## Yargıtay HGK 2015/2435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329247500)
+
 Hemen belirtmek gerekir ki; Kamulaştırma Kanununun 10 maddesinde, kamulaştırmanın satın alma usulü ile yapılamaması halinde idareye kamulaştırma bedelinin tespiti ve kamulaştırılan taşınmazın idare adına tescili için dava açması, mahkemeye de kamulaştırmayı sonuçlandırarak bedelin tespiti ve taşınmazın idare adına tesciline karar verilmesi ödev ve sorumluluğu yüklenmiştir. Anılan maddenin 8. fıkrasın ise, “...Tarafların anlaştığı veya tarafların anlaşamaması halinde hakim tarafından kamulaştırma bedeli olarak tespit edilen miktarın, peşin ve nakit olarak veya kamulaştırma bu Kanunun 3 üncü maddesinin ikinci fıkrasına göre yapılmış ise, ilk taksitin yine peşin ve nakit olarak hak sahibi adına, hak sahibi tespit edilememiş ise ileride ortaya çıkacak hak sahibine verilmek üzere 10 uncu maddeye göre mahkemece yapılacak davetiye ve ilanda belirtilen bankaya yatırılması ve yatırıldığına dair makbuzun ibraz edilmesi için idareye onbeş gün süre verilir. Gereken hallerde bu süre bir defaya mahsus olmak üzere mahkemece uzatılabilir...” şeklinde olup, tespit edilen bedelin ödeme şekli ve süresine ilişkin düzenleme yer verilmiştir.
 
 ## Yargıtay HGK 2015/1063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112991300)
 
 4650 sayılı Kanunla değişik 2942 sayılı Kamulaştırma Kanununun 10.maddesine dayanan kamulaştırma bedelinin tespiti davalarında, aynı Yasanın 25/son maddesi uyarınca mülkiyet idareye tescille geçeceğinden, ağaçların değerinden enkaz bedelinin indirilmeyeceğinin düşünülmemesi,…
 
 ## Yargıtay HGK 2007/952 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76869600)
+
 Şu açıklamalardan anlaşıldığı üzere; idarelerin, tapuda kayıtlı olan taşınmaz mallar hakkında yapacağı kamulaştırma işlemlerinde pazarlıkla satın alma usulünü uygulamaları yasal bir zorunluluk olup; idarece öncelikle, Kamulaştırma Kanunun 7 inci maddesi uyarınca taşınmaz mal sahibinin, onun ölümü halinde mirasçılarının adreslerinin tapu, vergi ve nüfus kayıtları üzerinden veya ayrıca haricen yaptıracağı araştırma ile tespit ettirilmesi, bu aşamadan sonra 8 inci madde gereğince anlaşma yolu denenerek, malikin veya mirasçılarının 7 nci madde uyarınca tespit edilen adresine resmi taahhütlü bir yazı ile uzlaşma davetiyesinin gönderilmesi ve tebligatın, Tebligat Kanununa göre mal sahibine bizzat ya da onun adına kabule yetkili kimselere yapılması; mal sahibi bu davete icabet etmez veya gelip de tahmini bedelde anlaşma sağlanamaz ise, ancak bu takdirde 10. maddeye göre bedel tespiti ve tescil istemiyle mahkemeye dava açılması gerekir.
 
 ## Yargıtay HGK 2006/265 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76749300)
+
 Bilindiği üzere, 04.11.1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun “Tapuda kayıtlı olmayan taşınmaz malların idare adına tescili ve zilyedin haklarına” ilişkin hükümler içeren 19. maddesi, 24.04.2001 gün ve 4650 sayılı Kanunun 11. maddesi ile değiştirilmiş; tapuda kayıtlı olmayan taşınmaz malların kamulaştırılmalarında, kamu malı olan ve kamulaştırma konusu olamayacak yerlerin kamulaştırılmasının önlenmesi amacıyla, bu tür taşınmaz malların 3402 sayılı Kadastro Kanunu’nun 16 ncı maddesinde sayılan yerlerden olup olmadığının ilgili yerlerden sorularak tespit edilmesi külfeti idarelere yükletilmiş; kamu malı olmadıkları belirlendikten sonra, bedel tespiti ve tescil istemiyle Mahkemeye başvurulması ve taşınmaz malın idare adına tesciline karar verilebileceği belirtilmiştir.
 
 ## Yargıtay 5. HD 2014/29096 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96820400)
 
 Tespit edilen kamulaştırma bedeline göre, Kamulaştırma Kanununun 10/8. maddesi gereğince fark bedelin de davacı idare tarafından bankaya bloke edilmesi için davacıya süre verilip, sonucuna göre karar verilmesi gerektiği düşünülmeden yazılı şekilde hüküm kurulması,…

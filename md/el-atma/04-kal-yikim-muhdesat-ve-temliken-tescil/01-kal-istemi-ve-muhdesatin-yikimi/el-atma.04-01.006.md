@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2019/6259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/495559100)
+
 Dava, müdahalenin meni, kal, eski hale getirme, zararın tazmini ve ecrimisil istemine ilişkindir.
 
 Mahkemece kal talebinin reddine, müdahalenin meni, eski hale getirme ve ecrimisil taleplerinin kabulüne karar verilmiş; hüküm, davalı idare tarafından temyiz edilmiştir.
@@ -33,6 +35,8 @@ Taşınmaza kamulaştırmasız el atılması halinde, müdahalenin önlenmesi ta
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2019/5314 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537972500)
 
 Dava, elatmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
@@ -56,6 +60,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 8. HD 2019/5310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647061800)
+
 Davacı Hazine vekili asıl ve birleşen davada, 1473 parsel sayılı taşınmazın kıyı kenar çizgisi içerisinde kaldığını, kıyıların 3621 Sayılı Yasa'nın 5. maddesine göre Devletin hüküm ve tasarrufu altında olduğunu belirterek, 1473 parsel sayılı taşınmazın tapusunun iptaline, taşınmaza yapılan müdahalenin men'ine ve üzerindeki yapıların kal'ine karar verilmesini istemiştir.
 
 …
@@ -72,6 +78,8 @@ SONUÇ: Asıl ve birleşen dosyada davacı Hazine vekilinin temyiz itirazların�
 
 ## Yargıtay 14. HD 2019/4831 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/517979400)
+
 Dava, imar planında yeşil alan (park) olarak ayrılan taşınmazda davalı belediyenin lokanta ve kafeterya inşa ettirerek davalı şirkete kiralanması nedeniyle davalılar arasında imzalanan kira sözleşmesinin geçersizliğinin tespiti, haksız müdahalenin men'i ve yeşil alan kullanım kararına aykırı olarak inşa edilen yapının kal'i istemine ilişkindir.
 
 Davalı ... vekili davanın reddini savunmuş, diğer davalı davaya cevap vermemiştir.
@@ -85,6 +93,8 @@ Elatmanın önlenmesi ve kal istemli davalarda dava konusu şeyin değerinin ela
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı ... vekilinin diğer temyiz itirazlarının reddine, 2. bent uyarınca temyiz itirazlarının kabulüyle hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/4649 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645700200)
 
 Davacı vekili, vekil edeninin 952 parsel sayılı taşınmazın hissedarlarından olduğunu, davalıların söz konusu taşınmazı kendilerine aitmiş gibi kullandıklarını ve taşınmazın ön kısmına demirden bahçe giriş-çıkış kapısı yaptıklarını, müvekkilinin tüm sözlü ve yazılı uyarılarına rağmen haksız işgallerine son vermediklerini belirterek, davalıların dava konusu taşınmaza elatmalarının önlenmesine, taşınmaz üzerinde yaptıkları demir kapı, bahçe duvarı, ve buna benzer tüm yapıların kal'ine ve fazlaya dair haklarını saklı tutarak dava tarihinden geriye dönük 5 yıllık ecrimisil bedeli olarak şimdilik 1.000,00 TL'nin davalılardan tahsiline karar verilmesini talep etmiştir.
 
@@ -106,6 +116,8 @@ SONUÇ: Davalı ... vekili ve davalı ...'in temyiz itirazlarının yukarıda (1
 
 ## Yargıtay 14. HD 2019/4370 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519600700)
+
 Dava, komşuluk hukukuna dayalı el atmanın önlenmesi ve kal istemine ilişkindir.
 
 …
@@ -125,6 +137,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 20. HD 2019/3017 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512907800)
+
 Mahkemece 11/11/2014 tarih 2013/1073 Esas 2014/1071 Karar sayılı kararı ile davanın reddine karar verilmiş, hükmün davacı tarafça temyiz edilmesi üzerine Yargıtay 18. Hukuk Dairesinin 18/04/2016 tarih 2015/8129 Esas 2016/6069 Karar sayılı ilamı ile “ bilirkişi kurulu tarafından anataşınmaza ait mimari proje yerinde uygulanarak projeye aykırı olan her bir husus ayrı ayrı belirlenip krokiye de bağlanmak suretiyle tespit edilip bunların projeye uygun eski hale getirilmesine karar verilmesi gerekirken, bilirkişi kurulunun yapılan proje dışı bir kısım imalatların projeye aykırı sayılmayacağı yolundaki raporu esas alınarak hüküm kurulması, …
 
 …
@@ -141,6 +155,8 @@ SONUÇ; Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 16. HD 2019/1643 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/505925300)
+
 Davacı ..., kazandırıcı zamanaşımı zilyetliğine dayanarak ... Köyü çalışma alanında bulunan ve kadastro sırasında yol olarak tescil harici bırakılan çekişmeli taşınmaz bölümünün adına tapuya tescili istemiyle Hazine ve ...Köyü Tüzel Kişiliği aleyhine dava açmıştır. Davacı ... ise, yol vasfında olan çekişmeli taşınmaz bölümüne tel örgü çekmek, ağaç dikmek ve toprak yığmak suretiyle el attığını ileri sürdüğü ... aleyhine el atmanın önlenmesi ve kal istemiyle dava açmıştır.
 
 …
@@ -154,6 +170,8 @@ Diğer taraftan, bir taşınmazın niteliği ile kullanım şekli ve süresini e
 niteliği, toprak yapısı, bitki örtüsü, komşu parsellerle arasında doğal ya da yapay ayırıcı bir unsur bulunup bulunmadığı veya bunların devamı niteliğinde olup olmadığı, taşınmaz bölümü üzerinde bulunan ağaçların adet, yaş ve cinsleri hususlarında bilimsel verilere dayalı gerekçeli rapor alınmalı, fen bilirkişisine keşfi takibe ve denetlemeye imkan verir kroki düzenlettirilmeli, mahkemenin zemine ilişkin gözlemi aynen tutanağa geçirilmeli, çekişmeli taşınmaz bölümünün yakın plan panoramik fotoğrafları çektirilerek sınırları fotoğraflar üzerinde kabaca işaretlenmeli, bundan sonra da toplanmış ve toplanacak tüm deliller birlikte değerlendirilerek sonucuna göre bir karar verilmelidir. Mahkemece bu hususlar göz ardı edilerek ve eksik incelemeyle yazılı şekilde karar verilmesi isabetsiz olduğu gibi; kabule göre de, asıl dava tapusuz taşınmazın tescili isteğine ilişkin olmasına rağmen TMK’nın 713/4 ve 5. fıkraları gereğince keşif sonucu elde edilen bilirkişi rapor ve krokisine göre gerekli yerel ve gazete ilanları yapılmaksızın karar verilmiş olması da isabetsiz olup, davalı Hazine vekilinin temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2019/1278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645420800)
 
 Davacı Hazine vekili, etrafı 245, 249, 250, 471 parsellerle çevrili tescil harici 9788 m2'lik taşınmazın ... adına tescili ile taşınmaza davalılar ... Finansal Kiralama A.Ş. ve TEDAŞ tarafından yapılan müdahalenin men’ini, taşınmaz üzerinde bulunan zeytin ağaçları, dikenli tel örgü ve direklerin ve... tarafından dikilen ve dikilmesine müsaade edilen eektrik direklerinin Kal’ini talep etmiştir.
 
@@ -175,6 +193,8 @@ SONUÇ: Yukarıda 2. bentte açıklanan nedenlerle davalı ...Ş. vekilinin temy
 
 ## Yargıtay 8. HD 2019/934 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489995100)
+
 Davacı vekili, davacının dava konusu 573 parselde davalılardan ... ile birlikte pay maliki olunduğunu, taşınmazın fiili olarak ortadan bölünerek paylaşıldığını, davalı ... ve diğer davalı eşi ...’ın 5 yıldır paylaşımı aşarak sera yaptıklarını bu nedenle paya yapılan müdahalenin men’i ile kal’ini ve geriye dönük 5 yıllık ecrimisilin müdahale tarihinden itibaren işleyecek yasal faizi ile davalılardan tahsilini talep etmiştir.
 
 …
@@ -194,6 +214,8 @@ SONUÇ: Yukarıda 2. bentte açıklanan nedenlerle davalılar vekilinin temyiz i
 
 ## Yargıtay 8. HD 2019/382 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477643800)
+
 Davacılar, paydaşı oldukları 220 ada 7 parsel sayılı taşınmaza komşu parsel maliki davalı tarafından tel örgü çekmek suretiyle müdahale edildiğini ileri sürerek elatmasının önlenmesine ve yıkıma karar verilmesini istemişlerdir.
 
 Davalı, müdahalesinin olmadığını belirterek davanın reddini savunmuştur.
@@ -209,6 +231,8 @@ Ne var ki; Mahkemece, hüküm kısmının birinci parağrafının son kısmında
 SONUÇ: Yukarıda (1) numaralı bentte yazılı nedenlerle davalı vekilinin temyiz itirazları yerinde görülmediğinden REDDİNE, temyiz olunan kararın 1. parağrafının son kısmında bulunan "iki taşınmaz arasında yapılan çitlerin KAL'İNE" cümlesinin madde metninden çıkarılarak yerine " fen bilirkişisinin 25.11.2014 havale tarihli raporuna ek krokide (A) harfi ile gösterilen ve 220 ada 7 parsel sayılı taşınmazın içinde kalan çitlerin yıkılmasına "cümlesinin yazılmasına, davalı vekilinin temyizi üzerine resen yapılan inceleme sonucunda, 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 438/7. maddesi uyarınca hükmün bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 8. HD 2019/73 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477596500)
 
 Davacı-karşı davalı vekili; müvekkilinin maliki bulunduğu 521 ada 24 parsel sayılı taşınmaza davalı...'ın müdahalede bulunduğunu, 24 parsel üzerinde küçük çaplı bir tuvalet inşa ettiğini ve mülkiyet iddiasıyla kilit vurarak ...'nın kullanımına engel olduğu iddialarıyla, müdahalenin menini ve tuvaletin kal'ini talep etmiştir.
 
@@ -228,6 +252,8 @@ SONUÇ: Açıklanan nedenlerle, taraf vekillerinin temyiz itirazları yukarıda 
 
 ## Yargıtay 8. HD 2018/19090 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465012700)
+
 Davacı-karşı davalı vekili, vekil edeninin kayden maliki olduğu 60 ada 1-2-3-4-5-6-7-8-9-10-11 parsel sayılı taşınmazlar ile 79 ada 11-12-13 parsel sayılı taşınmazların davalı tarafından işgal edildiğini ileri sürerek davalının müdahalesinin men’ine, yapılan konut ve diğer yapıların kaline, fazlaya ilişkin haklar saklı kalmak kaydı ile son 5 yıla ait olmak üzere 14 parsel için toplam 79.800 TL ecrimisilin her yıl için o yılın vade başlangıç tarihin 1 Ocak’tan başlayarak hesaplanacak yasal faizi ile tahsiline karar verilmesini istemiştir.
 
 …
@@ -240,6 +266,8 @@ Konut Yapı Kooperatifinin açtığı dava hakkında olumlu ya da olumsuz bir ka
 SONUÇ: Yukarıda 1. ve 2-b bentlerinde açıklanan nedenlerle taraf vekillerinin temyiz itirazları yerinde olduğundan kabulü ile usul ve kanuna aykırı bulunan hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/17443 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471460000)
 
 Davacı vekili, müvekkilinin maliki olduğu 85 ada 148 parselde kayıtlı arsa vasıflı taşınmaza davalılara ait olan 65 ada 10 parselde kayıtlı taşınmazın 24 m2 miktarda tecavüzlü olduğunu, bu durumun ...... Asliye Hukuk Mahkemesi'nin 2010/173 Esas sayılı dosyası ile başka bir komşu parsel hakkında açmış oldukları tecavüzün önlenmesi davasındaki bilirkişi raporu ile ortaya çıktığını belirterek öncelikle haksız el atmanın önlenmesini ve yapılan tecavüzün kal'ini, kal hukuken mümkün olmaz ise terditli olarak tecavüz edilen bölümün değeri olarak 36.000,00 TL'nin dava tarihinden itibaren işleyecek faizi ile birlikte mahkeme veznesine depo edilmesi halinde tecavüzlü bölümün davacının arsasından ifraz edilerek davalılar adına tescilini, 3.000,00 TL ecrimisil bedelinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
 
@@ -257,6 +285,8 @@ SONUÇ: Temyiz olunan kararın yukarıda (2) nolu bentte gösterilen nedenlerle 
 
 ## Yargıtay 8. HD 2018/17323 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488900100)
+
 Davacılar ... ve ... vekili, 534 ada 23 parsel sayılı taşınmazın davacı ...'ye, 534 ada 25 parselin 1/2 hisseli olarak davacılar ...... ve ...'ye ve 534 ada 24 parselin de davalılardan ...'e ait olduğunu, dava konusu 534 ada 26 parselin ise 23, 24 ve 25 nolu parsellerin müşterek methali olduğunu, davalıların müşterek methaldeki havuzun önüne ilave oluk ve ayrıca fırın yaptıklarını, ceviz ağacı diktiklerini, kendilerine ait taşınmazdaki......ların dallarının müşterek methale müdahalede bulunduğunu, araçlarını park halinde bırakarak geçişe engel olduklarını belirterek müşterek methaldeki havuzun önüne yaptıkları oluk, fırın ile taşınmazları hududundaki taşkın ...... dallarının ve ceviz ağacının kaline, araç park etmek suretiyle oluşan elatmanın önlenmesine karar verilmesini talep etmiştir.
 
 Davalılar cevap dilekçelerinde; dava konusu yerdeki fırının 1966 yılında davalı ...’in babası ve dava dışı ... tarafından yapıldığını belirterek, davanın reddini savunmuşlardır.
@@ -272,6 +302,8 @@ Hal böyle olunca; yıkımına karar verilen fırının 3,74 m2 ve dava konusu t
 SONUÇ: Yukarıda açıklanan nedenlerle davalıların temyiz itirazları yerinde olduğundan kabulü ile usul ve kanuna aykırı bulunan hükmün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/15968 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461619700)
 
 Davacı vekili, davaya konu ... İli, ... İlçesi, ......
 

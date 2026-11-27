@@ -24,6 +24,8 @@ Ancak, Mahkemece üçüncü kişilere devredilen 203 parsel yönünden hükmedil
 
 ## Yargıtay 1. HD 2023/963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/906813100)
+
 … dava konusu 268 ada 41 parsel sayılı taşınmazın **dava tarihinde rayiç bedelinin davacıların miras payına isabet eden kısmının tespiti** ile (III) no.lu paragrafta belirtilen keşfen belirlenen değeri 32.550TL’nin davacıların miras payına (10/16) isabet eden 20.343,75 TL'yi aşmamak kaydıyla tazminata hükmedilmesi gerekirken, yazılı şekilde karar verilmesi isabetli değildir.
 
 ## Yargıtay 1. HD 2024/4653 K. (değerin ve faizin devir tarihine göre belirlendiği somut olay)

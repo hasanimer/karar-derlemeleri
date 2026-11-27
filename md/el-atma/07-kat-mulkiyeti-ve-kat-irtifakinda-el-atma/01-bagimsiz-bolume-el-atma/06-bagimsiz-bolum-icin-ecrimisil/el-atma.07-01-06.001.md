@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2010/692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77182800)
+
 Davalı cevap vermemiş, ancak vekili; 1987 tarihinde davacı lehine bahçe olarak kayıtlı taşınmaz üzerine intifa hakkı kurulmuş ise de, arsaya yüklenici tarafından kat karşılığı inşaat sözleşmesi ile inşaat yapıldığını, intifa hakkının ise bazı bölümler üzerine nakledildiğini, davalıya ait bağımsız bölüm üzerinde intifa hakkı şerhi bulunmadığını, beyanla davanın reddini dilemiştir.
 
 Mahkemece, davanın kabulüne karar verilmiş, hüküm davalı vekili tarafından temyiz edilmiştir.
@@ -39,6 +41,8 @@ Yukarıda da değinildiği gibi, intifa hakkının kurulabilmesi ve herkese kar�
 S O N U Ç: Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukarıda ve Özel Daire bozma kararında gösterilen nedenlerden dolayı H.U.M.K.nun 429.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2006/816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77193500)
 
 Türk Medeni Kanunu hükümleri gereğince paydaşlardan birinin (veya buna bağlı olarak onun bağımsız bölümünü kullananın) ortak mülkiyete bağlı olan bir yeri kendi kullanımına özgülemesi durumunda diğer paydaşlarca ecrimisil (haksız işgal tazminatı) istenebilmesi için öncelikle o paydaş bu ortak yeri münhasıran kullanmaktan yöntemince men edilmiş olmalıdır. Başka bir anlatımla, diğer paydaşlar bu yerden kendilerinin de yararlanmak istediklerini şagil paydaşa yöntemince ihtar etmiş olmalarına karşın kullanımın sürdürülmüş olması gerekir.
 Somut olayda ortak mülkiyet hükümlerine tabi olan dava konusu bahçenin belli bir bölümünü kullanarak müdahalede bulunan davalının diğer paydaşlarca İzmir 1.Noterliğinin 18.06.2004 gün ve 9048 yevmiye sayılı ihtarnamesinin muhataba 01.07.2004 tarihinde bizzat tebliği ile uyarıldığı, bu uyarıda kendisine tebliğden itibaren 3 gün içinde bahçeye müdahalesinin önlenmesi istendiğine göre ecrimisilin sözü edilen uyarının tebliğini izleyen 3 günden sonraki günden başlayarak dava gününe kadarki süre için hesaplanıp buna hükmedilmesi gerekirken, 2003 yılına ilişkin bir yıllık haksız işgal tazminatı (ecrimisil) bedeline hükmedilmiş olması,doğru görülmemiştir...) gerekçesiyle bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda; mahkemece önceki kararda direnilmiştir.
@@ -61,6 +65,8 @@ Temyiz olunan mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2025/1751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140779600)
+
 Diğer temyiz itirazlarına gelince; iddianın içeriği ve ileri sürülüş biçiminden davanın taşınmaz malın aynına ilişkin olduğu ve konusunu oluşturan hakkın para ile değerlendirilmesinin mümkün bulunduğu açıktır. Bu tür davalarda, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 120. maddesi ve 492 sayılı Harçlar Kanunu'nun 16. maddesi uyarınca dava değerinin el atılan yerin değeri ile talep edilen ecrimisil değerinin toplamından (4.3.1953 tarih 10/2 sayılı İçtihadı Birleştirme Kararı) ibaret olacağı ve belirlenen bu değer üzerinden 492 sayılı Kanun'un 26, 27, 28, 30 ve 32. maddelerinde öngörüldüğü şekilde işlemlerin yerine getirilerek gerekli olan harcın alınacağı tartışmasızdır.
 
 Dava konusu 133 ada 4 No.lu parsel 5 No.lu bağımsız bölüme ilişkin müdahalenin men'i ve ecrimisil istemiyle davalılara karşı ayrı ayrı dava açılmışsa da aralarında hukuki ve fiili irtibat bulunması nedeniyle birleştirilerek karar verildiği, müdahalenin men'i istemine konu yerin tek bir bağımsız bölüme ilişkin olduğu, davaların bu yeri birlikte kullandıkları belirtilerek davanın kabul edildiği, ecrimisil isteminde ise davaların açılış tarihlerine göre dönemsel hesaplama yapılıp karar verildiği hâlde müdahalenin men'i yönünden tüm davalıların harç ve giderlerden müştereken ve müteselsilen sorumlu oldukları, ecrimisil talebi yönünden ise aleyhlerine hükmedilen miktar üzerinden harç ve yargılama giderlerinden sorumlu olacakları gözetilmeden mükerrer olacak şekilde aynı dava konusu yer üzerinden ayrı ayrı harç ve yargılama giderlerine hükmedilmiş olması doğru görülmemiştir.
@@ -70,6 +76,8 @@ Dava konusu 133 ada 4 No.lu parsel 5 No.lu bağımsız bölüme ilişkin müdaha
 Davalı ...'in temyiz itirazlarının kabulüyle temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/4568 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089210800)
 
 Davacı vekili; muristen intikal eden 2660 ada 17 parsel sayılı taşınmaz üzerinde bulunan 1, 2 ve 12 No.lu bağımsız bölümler ile 3 adet garajın davalı tarafından haksız şekilde tasarruf edildiğini, ihtarnameye rağmen müdahalenin sonlandırılmadığını ileri sürerek; el atmanın önlenmesine, (ihtarnamede verilen sürenin son günü olan) 14.06.2015 tarihinden başlayacak şekilde ecrimisil ve işletmeden kaynaklı kâr payına karar verilmesini istemiştir.
 
@@ -93,6 +101,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us�
 
 ## Yargıtay 5. HD 2024/4217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053371900)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın takip edilmemesi nedeniyle açılmamış sayılmasına, birleştirilen davanın kabulüne karar verilmiştir.
 
 …
@@ -111,6 +121,8 @@ tazminat miktarının 20.000 TL olduğu ve davacılar tarafından ıslah yapılm
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2024/3492 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053760600)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -132,6 +144,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 7. HD 2024/2428 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1041012800)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -143,6 +157,8 @@ Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birle
 Asıl ve birleştirilen davada davalı vekilinin yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/6409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109661400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davalı ... yönünden davanın reddine, davalı ... yönünden el atmanın önlenmesi talebinin kabulüne, ecrimisil talebinin kısmen kabulüne karar verilmiştir.
 
@@ -171,6 +187,8 @@ Harçlar Kanunu'nun 16 ncı maddesi uyarınca dava değerinin ve buna göre alı
 
 ## Yargıtay 7. HD 2023/2197 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910606700)
+
 Davacı vekili dava dilekçesinde; Konya ili, ..... ilçesi, 450 ada 14 ve 5 parselde kayıtlı 10/A-B No.lu dükkan vasıflı taşınmazların tasfiye halinde .... Gıda Anonim Şirketi (Ankara) adına kayıtlı olduğunu, taşınmazların ....
 
 …
@@ -187,6 +205,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/464 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896493300)
+
 Taşınmazın fiilen davalının tasarrufunda olduğu hususu dosya kapsamı ile sabit olduğu gibi davalınında kabulündedir. Davacının dava konusu taşınmazdaki mülkiyet hakkı yanında davalının taşınmazda korunmaya değer üstün bir hakkı bulunmamaktadır. Bu itibarla davalının dava konusu taşınmazdaki işgali haksız işgal niteliğindedir. Mahkemenin gerekçeli kararında elatmanın önlenmesi talebinin kabulüne ilişkin gerekçeye yer verilmemekle birlikte elatmanın önlenmesine dair kararı sonucu itibariyle yerindedir... Dava konusu taşınmaz konut niteliğinde bağımsız bölüm olup, taşınmazın değerinin tespiti ile getireceği ecrimisil miktarının hesabı inşaat mühendisi bilirkişinin uzmanlık alanında yer almaktadır. Bu itibarla eldeki davada taşınmazın değeri ile ecrimisil miktarının tespiti hususunda aynı bilirkişiden rapor alınmasında usule aykırılık bulunmamakta olup, davalı vekilinin elamanın önlenmesi ve ecrimisil konularında ayrı ayrı uzman bilirkişilerden rapor alınması gerektiği yönündeki istinaf sebebi yerinde değildir..." gerekçesiyle davalı vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 …
@@ -194,6 +214,8 @@ Taşınmazın fiilen davalının tasarrufunda olduğu hususu dosya kapsamı ile 
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/12920 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/725266500)
 
 Davalı vekili; vekil edeninin çekişme konusu taşınmazı dava dışı müteahhitten satın aldığını bildirerek, davanın reddini savunmmuştur.
 
@@ -210,6 +232,8 @@ Hal böyle olunca; kat karşılığı inşaat sözleşmesi ve kesinleşen mahkem
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin karar düzeltme itirazlarının kabulü ile Dairemize ait 09.12.2020 tarihli ve 2018/7355 Esas, 2020/8080 Karar sayılı bozma ilamının kaldırılmasına …
 
 ## Yargıtay 8. HD 2021/2691 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651809100)
 
 Davacı vekili, tapuda kayden tarafların murisi adına kayıtlı bağımsız bölümlerin davalılar tarafından kiraya verilmek suretiyle kullanıldığını,müvekkilinin taşınmazlardan ve kira gelirinden faydalanamadığını belirterek 01.10.2010 tarihinden itibaren fazlaya ilişkin haklan saklı kalmak üzere şimdilik 5.000,00 TL ecrimisile karar verilmesini talep etmiş , 30.06.2017 havale tarihli dilekçe ile talebini 55.666,00 TL'ye arttırmıştır.
 
@@ -230,6 +254,8 @@ SONUÇ: Yukarıda (2) nolu bentte açıklanan nedenlerle davalılar vekilinin te
 
 ## Yargıtay 8. HD 2021/1701 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657644000)
+
 Davacılar, 47 parsel sayılı taşınmazın malikleri iken dava dışı müteahhit ... ile 21.08.2000 tarihli gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi yaptıklarını, ancak adı geçen müteahhidin sözleşme şartlarını ihlal ettiğini ve Kandıra Asliye Hukuk Mahkemesinin 2005/137 Esas, 2006/351 Karar sayılı dosyasında sözleşmenin feshine karar verildiğini, davalı ...'ın müteahhit ... ile 47 parselde bulunan dava konusu A2 blok 5 ve 6 nolu bağımsız bölümler yönünden satış vaadi sözleşmesi yapmış olduğunu ve davalının anılan bağımsız bölümleri kullandığını, ancak kat karşılığı inşaat sözleşmesinin feshine karar verilmiş olması ile davalının taşınmazda hakkının kalmadığını ileri sürerek, elatmanın önlenmesine ve fazlaya ilişkin hakları saklı kalmak üzere 1.000 TL ecrimisile karar verilmesini talep etmişlerdir.
 
 Davalı, usulüne uygun tebligata rağmen davaya cevap vermemiştir.
@@ -248,6 +274,8 @@ SONUÇ: Davalının temyiz itirazları yukarıda açıklanan nedenlerle yerinde 
 
 ## Yargıtay 8. HD 2020/5590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609861400)
+
 Dava, elbirliği mülkiyet halinde tapuda kayıtlı taşınmazdan dolayı paydaşlar arasındaki haksız kullanım nedeni ile ecrimisil istemine ilişkindir.
 
 Gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere; ecrimsil, diğer bir deyişle haksız işgal tazminatı, hak sahibinin, hak sahibi olmayan kötüniyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarihli 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır.
@@ -255,6 +283,8 @@ Gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere; ecri
 Davacının iddiasına ve dosya kapsamındaki tapu kaydına göre, dava konusu mesken nitelikli bağımsız bölüm tarafların ortak murisinden kaldığından taraflar elbirliği mülkiyeti suretiyle paydaştır. Elbirliği ve paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan her zaman payına vaki el atmanın önlenmesini ve/veya ecrimisil isteyebilir. Kural olarak, men edilmedikçe paydaşlar birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi de, ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanmak isteğinin davalı paydaşa bildirilmiş olmasına bağlıdır. Ancak, bu kuralın yerleşik yargısal uygulamalarla ortaya çıkmış bir takım istisnaları vardır. Paylı taşınmazı işgal eden paydaşın bu yerin tamamında hak iddiası ve diğerlerinin paydaşlığını inkar etmesi durumunda intifadan men'e gerek yoktur.
 
 ## Yargıtay 8. HD 2020/3211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648116200)
 
 Davalı davaya cevap vermediği gibi duruşmalara da katılmamıştır.
 

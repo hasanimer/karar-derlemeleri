@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2024/4259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063452000)
+
 İlk Derece Mahkemesince, bozma ilamına uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -39,6 +41,8 @@ davacı ... İdaresinin dava dilekçesinde talep ettiği müdahalenin men'i tale
 Davacı ... İdaresi vekilinin ve davalı vekilinin temyiz itirazlarının kabulü ile temyiz olunan İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2024/3552 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057919800)
 
 İlk Derece Mahkemesince bozma ilamına uyularak yeniden yapılan yargılama sonucunda, davanın reddine karar verilmiştir.
 
@@ -62,6 +66,8 @@ SONUÇ: Yukarıda açıklanan sebeplerle; İlk Derece Mahkemesi kararının ONAN
 
 ## Yargıtay 7. HD 2024/2319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037510500)
+
 Davacı vekili dava dilekçesinde; Turhal, ... Köyü'nde yaklaşık 100-150 yıllık kadim kullanım hakkına sahip ve köyün ortak kullanımına ait çeşme suyunun davalı tarafından kesilerek şahsına ait ... Köyü, 120 ada içerisinde bulunan tarlasına çeşme yapmak suretiyle kullanılmak istendiğini belirterek davalının köyün ortak kullanımına ait çeşme suyuna müdahalesinin men'ine ve eski haline getirilmesine ve masrafların davalı üzerinde bırakılmasına karar verilmesini talep etmiştir.
 
 …
@@ -78,6 +84,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 8. HD 2024/2091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029319800)
+
 2/B maddesi uyarınca yapılan çalışmalarda orman sınırları dışına çıkartılan P.CXI, P.CXII, P.CXIII numaralı blok parsellerinin iptal edildiği, dava konusu taşınmazların P.CVI 2/B blok parseli içerisinde yer aldığı ve Kemer Kadastro Mahkemesinin 1994/1085 Esas 2002/16 Karar sayılı kararı ile ilgisinin bulunmadığı, fiili durumu, toprak ve bitki örtüsü itibariyle taşınmazın 2/B şartlarını taşıdığı, taşınmazların orman sayılmayan yerlerden olduğu açıklanarak davanın reddine, davacının tapu iptali ve tescil talebinin reddine dair karar verildiğinden ve davalılar kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre hesaplanan 2.725,00-TL maktu vekalet ücretinin davacı taraftan alınarak davalılara verilmesine, davacının men'i müdahale ve kal talebinin reddine dair karar verildiğinden ve davalılar kendilerini vekil ile temsil ettirdiklerinden ret edilen miktar üzerinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre hesaplanan 2.725,00-TL maktu vekalet ücretinin davacı taraftan alınarak davalılara verilmesine …
 
 …
@@ -85,6 +93,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 Yukarıda (2) numaralı bentte açıklanan sebeplerle; davacı ... İdaresi vekilinin vekalet ücretine yönelik karar düzeltme isteminin kabulü ile Dairenin 30.05.2023 tarihli ve 2021/12542 Esas, 2023/3343 Karar sayılı ilamı ile İlk Derece Mahkemesi kararının onanmasına dair ilamın ortadan kaldırılmasına …
 
 ## Yargıtay 5. HD 2024/1984 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024274900)
 
 Davalı idare vekili cevap dilekçesinde özetle; öncelikle zamanaşımı def'inde bulundukları davanın haksız olduğunu, kamulaştırmasız el atmanın söz konusu olmadığını, dava konusu taşınmaza bir müdahalenin bulunmadığını belirterek davanın reddini savunmuştur.
 
@@ -99,6 +109,8 @@ Dava, taşınmazın bir kısmının dere yatağı haline gelmesi nedeniyle tazmi
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan Bölge Adliye Mahkemesi karının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/908 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038354900)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların reddine karar verilmiştir.
 
@@ -116,6 +128,8 @@ Asıl ve birleştirilen davalarda davacılar ve fer'i müdahil vekillerinin temy
 
 ## Yargıtay 8. HD 2024/120 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017180100)
+
 Davacı ... İdaresi vekili; dava konusu 109 ada 1 parselin bulunduğu yerde 6831 ...
 
 …
@@ -131,6 +145,8 @@ Kadastro Kanunu'nun (3402 ... Kanun) 36/A maddesine aykırı olarak harç, yarg�
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 ... Kanun'un 370 inci maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2023/9845 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990532100)
 
 Davalı idare vekili cevap dilekçesinde özetle; dava konusu taşınmazın Turgutreis 1/1000 ölçekli Uygulama İmar Planı içerisinde park ile rekreasyon alanı ile kıyı kenar çizgisi içerisinde kaldığını, taşınmazın yapılaşmaya müsait olmadığını, tüm bu hususların taşınmazın değerini azalttığını, davacının kamulaştırma karar tarihinden itibaren faiz talebinin yerinde olmadığını ileri sürerek açılan davanın reddine karar verilmesini talep etmiştir.
 
@@ -149,6 +165,8 @@ hesaplama yapılarak taşınmazın m² birim değeri 959,40 TL belirlenmiş, dav
 Taraf vekillerinin temyiz itirazları yerinde olduğundan, temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/9304 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988141900)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davalarının kabulüne karar verilmiştir.
 
@@ -172,6 +190,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan mahkeme kararın�
 
 ## Yargıtay 5. HD 2023/7528 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/943502600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -189,6 +209,8 @@ Davacılar, davalılardan Tarım Orman Bakanlığı ile Çevre, Şehircilik ve �
 
 ## Yargıtay 8. HD 2023/6328 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1005964200)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne, kısmen reddine karar verilmiştir.
 
 …
@@ -203,6 +225,8 @@ Kanun'un 30/2. maddesi gereğince tarafların gösterecekleri deliller ile mahke
 SONUÇ; Yukarıda açıklanan sebeplerle; temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 8. HD 2023/6090 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/991966600)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -226,6 +250,8 @@ Asliye Hukuk Mahkemesinin 11.04.1949 tarihli ve 189-27 ... kararının Hazine ve
 Temyiz olunan İlk Derece Mahkemesi kararının 6100 ... Kanun'un Geçici 3 üncü maddesi yollaması ile 1086 ... Kanun'un 428 inci maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2023/5879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970363300)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 

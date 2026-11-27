@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2011/5692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/568930400)
+
 Davacılar vekili, vekil edenlerinin miras bırakanları ...’dan intikalen zilyetliklerinde olan Hazine adına kayıtlı 108 ada 70 parselin bir bölümüne davalıların sera yapmak suretiyle elattıklarını, tapu kaydının beyanlar hanesinde vekil edenleri adına zilyetlik şerhi de bulunduğunu açıklayarak, elatmanın önlenilmesi ile yıkım kararı verilmesini istemiştir.
 
 Davalılar vekili, nizalı taşınmaz bölümünün vekil edenlerinin zilyetliğinde olduğunu, davanın süresinde açılmadığını belirterek reddine karar verilmesini savunmuştur.
@@ -35,6 +37,8 @@ Kaldı ki, TMK.nun 984. maddesi hükmüne göre gasp ve saldırıdan dolayı dav
 Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazlarının kabulüyle usul ve yasaya uygun bulunmayan hükmün 6100 sayılı HMK.nun Geçici 3. maddesi yollamasıyla HUMK.nun 428.maddesi gereğince BOZULMASINA ve 17 …
 
 ## Yargıtay 8. HD 2011/914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/552639300)
 
 Davacı vekili dava dilekçesinde; 01.04.2008 tarihli “Tapusuz Taşınmaz Satış Sözleşmesiyle” mevki ve sınırlarını açıkladığı taşınmazı 1978 doğumlu Bekir Alparslan’dan satın aldığını, 85.000 TL verdiğini, satın aldığı arsa üzerinde aynı zamanda iki katlı evin bulunduğunu, 01.04.2008 tarihinden beri kullanmaya başladığını, ancak davalılar ... ve ...’in ev ve arsanın vekil edeni tarafından kullanmasına engel olduklarını, arsaya inşaat yapmak istediklerini açıklayarak vekil edenine ait ve haricen satın alınan taşınmaza ve üzerindeki iki katlı eve davalılar tarafından yapılan müdahalenin önlenmesine karar verilmesini istemiştir.
 
@@ -57,6 +61,8 @@ Davacı vekilinin temyiz itirazları bu bakımdan yerinde olduğundan kabulüyle
 
 ## Yargıtay 20. HD 2006/12794 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/904550100)
+
 Davacı, dava dilekçesinde sınırlarını bildirdiği taşınmazda zilyet olduğunu belirterek taşınmazın Hazine adına tapuda kayıtlı olması halinde tapu kaydının iptali ile adına tescilini, tapuda kayıtlı olmaması halinde Medeni Yasanın 713. maddesi hükmüne göre adına tescilini istemiştir.
 
 …
@@ -67,6 +73,8 @@ Toplanan deliller, tüm dosya kapsamı ve uzman bilirkişi raporlarından çeki�
 SONUÇ: Yukarıda açıklanan nedenlerle; Hazine ve Orman Yönetiminin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2006/8216 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/902815400)
 
 Davacı ..., ... Köyü 101 ada 43, 49, 50, 54, 82, 84 ,90 ,217,309 ve 106 ada 1, 109 ada 35,110 ada 8, 111 ada 23, 127 ada 37 sayılı parsellerin 1991 yılında yapılan arazi kadastrosunda kişilerin zilyetliğinde olduğu beyanlar hanesine şerh verilerek, orman niteliği ile Hazine adına tespit ve tapuda tescil edilmiş ise de, bu parsellerin ... arazisi olup, 30 yılı aşkın süredir zilyetliğinde bulunduğunu yörede 2000 yılında ve 14.05.2001 – 14.11.2001 tarihleri arasında ilan edilen aplikasyon ve 2/B madde uygulaması sırasında, öncesi orman olmayan taşınmazın orman kadastro komisyonu tarafından orman sayılarak orman sınırı içine alınıp sonra da 2/B uygulaması ile Hazine adına orman sınırı dışına çıkarıldığını, işlemin iptali ile taşınmazların tamamının orman alanı dışına çıkarılmasını ve adına tescilini istemiştir.
 
@@ -81,6 +89,8 @@ hüküm kurulması usul ve yasaya aykırıdır.
 SONUÇ: Yukarıda açıklanan nedenlerle; Hazine ve Orman Yönetiminin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/7066 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856625600)
 
 Davalı, davacının dava konusu yerde sokağa çıkış hakkı bulunmadığını öteden beri satın aldığı kişi ve şimdiden kendisinin kullanımında olduğunu davanın reddini savunmuştur.
 

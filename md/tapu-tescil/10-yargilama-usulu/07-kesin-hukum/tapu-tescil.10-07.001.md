@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay İBK 19.01.2007 tarihli, 2005/1 E., 2007/1 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16193800)
+
 Kural olarak kesin hükümle sonuçlanan bir uyuşmazlığın bir daha yargı mercileri önüne getirilmesi olanaksızdır. Ancak Yargıtay tescil davasının kendine özgü ve özel kuralları olan bir dava olması nedeniyle davanın reddinden sonra tescil için öngörülen koşullarının tümünün birlikte yeniden oluşması halinde dava açılabileceğini ilke olarak kabul etmektedir.
 
 ## Yargıtay HGK 2026/373 K.
@@ -36,5 +38,7 @@ Hükmün kesinleştiği de 6100 sayılı Kanun'un 302/4. maddesi gereği ilamın
 Hukuk düzeninde istikrar sağlama amacı taşıyan kesin hüküm, hükme karşı yasa yollarının tükenmesi (şekli anlamda kesin hüküm) ve taraflar arasındaki hukuki ilişkinin bir daha dava konusu yapılmaması (maddi anlamda kesin hüküm) şeklinde hukuk yargılama sistemimizde yer almaktadır. Şekli anlamda kesinleşmeyi zorunlu kılan, taraflar arasındaki hukuki ilişkinin yeniden dava konusu yapılamaması amacını güden maddi anlamda kesin hüküm HMK’nın 303. maddesinde düzenlenmiştir.
 
 ## Sakarya BAM 7. HD 2026/669 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204129900)
 
 Maddi anlamda kesin hükmün koşulları HMK'nın 303. maddesinde düzenlenmiştir. HMK'nın 303/1. maddesine göre bir davaya ait şeklî anlamda kesinleşmiş olan hükmün, diğer bir davada maddi anlamda kesin hüküm oluşturabilmesi için her iki davanın taraflarının, dava sebeplerinin ve ilk davanın hüküm fıkrası ile ikinci davaya ait talep sonucunun aynı olması gerekir.

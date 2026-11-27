@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2023/5903 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987406900)
+
 Davacı vekili dava dilekçesinde, müvekkili ile davalılardan ... arasında dava konusu taşınmaza ilişkin zilyetlik devir sözleşmesi yapıldığını, davalının taşınmazın birinci kat ve zemin katlarını müvekkiline devrettiğini, devirden bu yana taşınmazın zemin ve birinci katını müvekkilinin kullandığını, taşınmazın tapuya tescili için tarafların ortak beyanlarına ihtiyaç duyulmasına rağmen müvekkili ile davalı arasında arsa paylarına ilişin mutabakata varılamadığını, davalı ...'nun taşınmazın ölçüleri ve paylar konusunda yalan beyanda bulunarak kötü niyetli bir tavır sergilediğini, taşınmazın tapuya tescili için davalı tarafından müvekilline iadeli taahhütlü posta yolu ile ihtarname gönderildiğini, ancak gönderilen ihtarnamede belirtilen payların gerçeği yansıtmadığı gibi hakkaniyete aykırı olduğunu, ihtarname ile taşınmazın 353,8 m2'sinin ...'na, 150 m2'sinin müvekkiline ait olmak üzere toplamda 503,8 m2, 5 katlı ve çatı aralığı olan bina olarak tanımlandığını ve tescilin bu doğrultuda yapılmasının talep edildiğini, taşınmazın zemin kat ile birinci, ikinci ve üçüncü katlara ek olarak çatı aralığına sahip bir bina olduğunu, davalının talep ettiği şekilde tescil yapılmasının hakkaniyete
 aykırı olacağını, tescilin binanın yapısı ile zilyetlik sözleşmesinde devredilen kısma oranlanarak yapılması gerektiğini, ayrıca çatı aralığının ortak alan olduğunu, arsa paylarının tespiti yapılırken bu hususun göz önünde bulundurulması gerektiğini, ancak davalı ...'nun çatı aralığını kiraya verdiğini belirterek, müvekkilinin 2003 yılından bu yana fiilen kullanmakta olduğu bağımsız bölümlerin zilyedi olduğunun ve zilyedi olduğu bağımsız bölümlerin haksız el atma öncesindeki hali ve arsa paylarının tespitini, belirlenen arsa payı üzerinden tapuya tescilini, haksız el atmanın tespiti halinde el atmanın önlenmesini, davalı ...'nun el atmadan dolayı elde ettiği gelirin faizi ile birlikte tahsilini talep etmiştir.
 
@@ -36,6 +38,8 @@ Dava konusu Hazine'ye ait arsa niteliğindeki 16 parsel sayılı taşınmaz üze
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 3. HD 2023/1721 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966807500)
 
 Davacı vekili; müvekkiline ait ... plaka sayılı Mercedes-Benz marka 2006 ML280CDI model Jip niteliğinde olan aracın davalılar ve dava dışı ... tarafından dolandırılmak sureti ile ödenmesi gereken bedel ödenmeden davalı ... üzerine 11.08.2014 tarihinde tescil yapıldığını, dava dışı ... ve davalı ...'un kendilerini galerici olarak tanıtıp müvekkiline ait dava konusu aracı 42.000 Euro bedelle satış konusunda anlaştıklarını, fakat noterde parayı nakit değil, hesaba EFT yolu ile göndereceklerini söyleyip müvekkilin hesabına 42.000 Euro yerine sadece 42 Euro EFT yapıp müvekkiline dekontu gösterip acele noterde imza attırıp kendisini dolandırdıklarını, akabinde müvekkilinin aracını yine aynı gün 11.08.2014 tarihinde kötü niyetli olan davalı ... ve dava dışı ...'yle birlikte hareket eden diğer davalı ... üzerine tescil yolu ile hiçbir bedel ödemeden geçirdiklerini, aynı gün içinde 3 saat gibi çok kısa bir süre içerisinde bu aracın gerçek satışının imkansız olup hayatın olağan akışına aykırılık teşkil ettiğini ileri sürerek .. plakalı aracın 11.08.2014 tarihindeki her iki satışın ve tescillerin iptali ile eski haliyle müvekkili adına tesciline karar verilmesini istemiştir.
 
@@ -57,6 +61,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 4. HD 2020/40 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592687800)
+
 Dava, zilyetliğe dayanan maddi tazminat istemine ilişkindir.
 
 …
@@ -72,6 +78,8 @@ Davalı vekili; dava konusu taşınmazın, Babaeski Kadastro Mahkemesi’nin 200
 SONUÇ: Temyiz olunan kararın yukarıda gösterilen nedenlerle davalı yararına BOZULMASINA ve peşin alınan harcın istek halinde geri verilmesine 14/01/2020 gününde oy birliğiyle karar verildi.
 
 ## Yargıtay 14. HD 2012/10438 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/757236500)
 
 Dava, kira sözleşmesine dayalı elatmanın önlenmesi isteğine ilişkindir.
 
@@ -91,6 +99,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz isteminin kabulü ile hükmün B
 
 ## Yargıtay 17. HD 2011/12710 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802178800)
+
 Dava, müdahalenin men'i ve muarazanın giderilmesi istemine ilişkindir.
 
 …
@@ -98,6 +108,8 @@ Dava, müdahalenin men'i ve muarazanın giderilmesi istemine ilişkindir.
 Türk Medeni Kanunu 981,982 ve 983. maddeleri, mal üzerinde zilyetlikten başka hiçbir hakkı bulunmayan kişilerin zilyetliğinin korunması için konulmuş hükümleri ihtiva etmektedir. Bu maddelerde düzenlenen davalar ile, zilyet; zilyetliğinin bir hakka dayandığını ispat külfetine katlanmadan yalnızca zilyetliğini öne sürerek, sulh mahkemelerinde dava açar ve bu mahkemelerde uygulanan basit yargılama usulünün sağladığı kolaylıklardan yararlanır.
 
 ## Yargıtay 14. HD 2006/7348 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855809200)
 
 Gerçekten Türk Medeni Kanunun 983.maddesi hükmünce zilyetliği saldırıya uğrayan dava açarak, saldırının sona erdirilmesini, sebebinin önlenmesini ve varsa ortadaki zararının giderilmesini isteyebilir. Bu iddia ile açılan davaları görmekle görevli mahkeme de HUMK.nun 8.maddesi hükmünce Sulh Hukuk Mahkemesidir.
 

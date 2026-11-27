@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/584 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897135700)
+
 … pay oranında açılan muris muvazaası hukuki nedenine dayalı davalarda davacılar arasında zorunlu dava arkadaşlığı bulunmayıp ihtiyari dava arkadaşlığı bulunduğundan **her bir mirasçı tek başına bu davayı açabilir**.
 
 ## Yargıtay HGK 2026/143 K. (mirasçının diğer mirasçıların açtığı davaya asli müdahalesi)

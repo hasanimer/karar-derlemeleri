@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2025/127 K. (dosyanın 11. HD'ye gönderilmesi)
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1124482800)
+
 … şirkete ait hisse devri sözleşmesi ile temlik işleminin 01.04.1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararı uyarınca **muris muvazaasına konu olamayacağı**…
 
 ## İstanbul BAM 43. HD 2025/1437 K. (şirket hisse devrinin iptali ile miras payı oranında tescil)

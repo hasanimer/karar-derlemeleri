@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2014/6970 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105965100)
+
 Dava, komşuluk hukukundan kaynaklanan elatmanın önlenmesi ve kal istemine ilişkindir.
 
 Davacı, davalının müvekkiline komşu villada ikamet ettiğini, projeye aykırı ve kasıtlı olarak bahçe duvarındaki çitin üzerine ikinci bir parmaklık yaptırarak kendi bahçesinin gün ışığı almasını engellediğini iddia ederek bu imalatın kal’i suretiyle elatmanın önlenmesini istemiştir.
@@ -40,6 +42,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarının
 
 ## Yargıtay 1. HD 2014/4695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84090400)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil ile elatmanın önlenmesi isteğine ilişkindir.
 
 Mahkemece, tapu iptali ve tescil isteğinin kabulüne, elatmanın önlenmesi isteğinin ise davacı adına tesciline karar verilen çekişmeli taşınmazlarda davacının hükmün kesinleşmesi ile hak sahibi olacağı, dolayısıyla elatmanın önlenmesi isteğinin henüz doğmamış bir hakka ilişkin olduğu gerekçesi ile reddine karar verilmiş, hüküm davalılar tarafından temyiz edilmiştir.
@@ -53,6 +57,8 @@ Ne var ki; davaya konu 29 ada 99 parsel sayılı taşınmaz üzerinde kat irtifa
 Davalıların temyiz itirazları yukarıda değinilen yönler itibariyle doğrudur. Kabulü ile hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/3271 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84086100)
 
 Dava, çaplı taşınmazlardaki bağımsız bölümlere elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -68,6 +74,8 @@ Tarafların bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile, hü
 
 ## Yargıtay 1. HD 2013/17736 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79360900)
+
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Mahkemece, yargılama sırasında taşınmaz tahliye edildiğinden elatmanın önlenmesi isteği yönünden karar verilmesine yer olmadığına, davalının aralarındaki birliktelik nedeniyle taşınmazı davacıya devrettiği, devirden sonra da kullanmaya devam ettiği, davacının taşınmazın tahliyesi yönünde herhangi bir ihtarda bulunmadığı, kullanımın davacının iradesine uygun olarak gerçekleştiği gerekçesiyle ecrimisil isteğinin reddine karar verilmiştir.
@@ -79,6 +87,8 @@ Toplanan deliller ve tüm dosya içeriğine göre, kayden davacıya ait 179 ada 
 Davacının bu yöne değinen temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/10800 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79799800)
 
 Dava, bağımsız bölüme elatmanın önlenmesi isteğine ilişkindir.
 
@@ -94,6 +104,8 @@ Davacının temyiz itirazları değinilen yön itibariyle yerindedir. Kabulüyle
 
 ## Yargıtay 1. HD 2013/4806 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79555700)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup, Yerel Mahkemece, hükmüne uyulan bozma ilamı uyarınca ecrimisil isteği yönünden davanın reddine karar verilmiş olmasında bir isabetsizlik yoktur.
 
 …
@@ -104,6 +116,8 @@ Davacı vekilinin, el atmanın önlenmesi isteğine ilişkin olarak temyiz itira
 
 ## Yargıtay 1. HD 2013/1337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/245957400)
+
 Dava, bağımsız bölümlere elatmanın önlenmesi ve ecrimisil isteğine ilişkin olup mahkemece, elatmanın önlenmesi isteğinin kabulüne, ecrimisil isteğinin reddine karar verilmiştir.
 
 Gerçekten de, kayden davacıya ait 16 ve 17 no'lu bağımsız bölümlerin teknik bilirkişi rapor ve krokisinde gösterilen bölümlerine davalının haklı ve geçerli bir nedeni bulunmaksızın elattığı saptanarak davacının elatmasının önlenmesi isteğinin kabulüne karar verilmiş olmasında bir isabetsizlik bulunmamaktadır. O halde, davalının temyiz itirazları yerinde değildir, reddine.
@@ -113,6 +127,8 @@ Gerçekten de, kayden davacıya ait 16 ve 17 no'lu bağımsız bölümlerin tekn
 Davacının, temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/14039 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79479700)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -128,6 +144,8 @@ Davacı vekilinin temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabu
 
 ## Yargıtay 1. HD 2012/11542 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916124300)
+
 Davacı, kayden maliki olduğu 4 ada 9 parsel sayılı taşınmazdaki 3 nolu bağımsız bölümün bir kısmını davalının mimari projeye aykırı olarak kendine ait 4 nolu bağımsız bölüm içine almak suretiyle işgal ettiğini ileri sürerek, elatmanın önlenmesine, işgal edilen yerdeki duvarların yıkımına, duvarların projedeki sınırına çekilmesine ve 1.200,00.-TL ecrimisilin tahsiline karar verilmesini istemiştir.
 
 Davalı, dava konusu 4 nolu bağımsız bölümü mevcut haliyle satın aldığını, davacı yerine müdahalesinin olmadığını belirtip davanın reddini savunmuştur.
@@ -141,6 +159,8 @@ Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal g
 Davalının temyiz itirazları yerinde değildir. Reddiyle usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2012/7250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79436400)
 
 Dava, kat mülkiyeti kurulu bağımsız bölüme el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -156,6 +176,8 @@ Davacının temyiz itirazı yerindedir. Kabulüyle, hükmün açıklanan nedende
 
 ## Yargıtay 1. HD 2012/5977 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79164600)
+
 Mahkemece, asıl davanın kabulüne, birleşen davanın reddine karar verilmiştir.
 
 Dosya içeriğinden ve toplanan delillerden; özellikle, davanın tarafları ile birlikte dava dışı kişiler adına kayıtlı elbirliği halinde mülkiyete konu 2 ve 14 nolu bağımsız bölümlerin davalı tarafından üçüncü kişilere kiraya verilmek suretiyle kullanıldığı belirlenmek suretiyle asıl davada pay oranında elatmanın önlenmesi ve ecrimisile, birleşen davada ise ecrimisil koşullarının oluşmadığı gerekçesi ile reddine karar verilmesinde kural olarak bir isabetsizlik yoktur. Davalının bu yöne değinen temyiz itirazları yerinde değildir. Reddine.
@@ -165,6 +187,8 @@ Dosya içeriğinden ve toplanan delillerden; özellikle, davanın tarafları ile
 Davalının bu yöne ilişkin temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/5792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/941972100)
 
 Davacı, satın aldığı 6 parsel sayılı taşınmazdaki mesken vasıflı 11 numaralı bağımsız bölüme ihtara rağmen kullanmak suretiyle davalının müdahale ettiğini ileri sürerek, elatmanın önlenmesi ve ecrimisile karar verilmesini istemiştir.
 
@@ -179,6 +203,8 @@ Kayden davacı adına kayıtlı 11 numaralı bağımsız bölüme davalının ha
 Ne var ki, davada vekille temsil edilen davacı yararına keşfen belirlenen ve fakat yargılama aşamasında harcı ikmal edilmeyen değer üzerinden fazla vekalet ücretinin hüküm altına alınması doğru değil ise de, bu husus yeniden yargılama yapılmasını gerektirmediğinden, hükmün 6. Bendindeki " 11.091 TL" ibaresinin hüküm metninden çıkartılmasına, yerine " 1.100 TL" ibaresinin eklenmesine, hükmün bu şekliyle 1086 sayılı HUMY'nın 438/7. (6100 sayılı HMY'nın 370/2) ve 6100 sayılı HMK'nın geçici 3/2. maddesi yollaması ile DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 1. HD 2011/10048 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79198800)
 
 Davacılar, kayden paydaş oldukları 3 parsel sayılı taşınmazdaki dükkan vasıflı 20-21-22-23-24-27-28 ve 29 nolu bağımsız bölümleri davalıların haksız tasarruf ettiklerini 6 ayrı dükkanın davalı .... Ltd. Şirketine kiraya verilmesinin de hukuken geçerli olmadığını ileri sürerek, davalı şirket için elatmanın önlenmesi ve ecrimisil davalı Bayram yönünden ecrimisil isteğinde bulunmuşlardır.
 
@@ -200,6 +226,8 @@ Davalıların, temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan ne
 
 ## Yargıtay 14. HD 2011/7008 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770057500)
+
 Davacı, davalılar arasında 7795 ada 3 sayılı parsel üzerinde bina yapılmak üzere 07.03.1997 tarihli arsa payı karşılığı inşaat sözleşmesi bulunduğunu, sözleşme uyarınca yapıdaki 8 numaralı bağımsız bölümün yükleniciye bırakıldığını, yüklenicinin 02.06.1997 tarihli taşınmaz satış vaadi sözleşmesiyle kazanacağı kişisel hakkını kendisine temlik ettiğini belirterek binadaki 8 numaralı bağımsız bölümün adına tescilini, olmazsa bağımsız bölüm bedelinin tahsiline karar verilmesini istemiş, 06.08.2010 tarihinde davasını ıslah ederek çekişme konusu bağımsız bölümün binadaki 9 numaralı bağımsız bölüm olduğunu ileri sürmüştür.
 
 …
@@ -220,6 +248,8 @@ SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle davacı/davalı ... yararına 
 
 ## Yargıtay 18. HD 2011/6550 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/799803900)
+
 Dava konusu anabinanın ortak yeri olan bahçesine beton dökülerek davalılarca kullanılması, binanın cephe duvarlarının ve 2 ile 3 nolu bağımsız bölümlerin ara duvarlarının yıkılması gibi eylemleri kiracı davalı şirket ile bağımsız bölüm maliki davalının birlikte gerçekleştirdiği anlaşıldığından, davalı şirket yönünden de elatmanın önlenmesi ve projeye uygun eski hale getirme isteminin kabulü gerekirken, adı geçen şirket açısından yerinde olmayan gerekçe ile husumet yönünden davanın reddine karar verilmiş olması, …
 
 …
@@ -227,6 +257,8 @@ Dava konusu anabinanın ortak yeri olan bahçesine beton dökülerek davalılarc
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/5509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763986500)
 
 Davacı, 668 ada 1 sayılı parsel üzerindeki 55 numaralı villanın 07.07.2006 tarihli sözleşmeyle davalılara satıldığını, ne var ki 09.03.2007 tarihinde sözleşmenin feshedildiğini, 17.03.2009 tarihli ihtarla davalıların 55 numaralı villayı tahliye etmelerinin istendiğini, boşaltılmadığını, günlüğü 70,-Euro olmak üzere 29 gün için 4.336,00 TL ecrimisil alacakları doğduğunu, davalıların taşınmazdan tahliyesini, ecrimisil alacaklarının tahsiline karar verilmesini istemiştir.
 
@@ -244,6 +276,8 @@ SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle davacının diğer temyiz itir
 
 ## Yargıtay 18. HD 2010/16044 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804487100)
+
 Davacı vekili dava dilekçesinde; davalılardan ... ile ...'un anataşınmazın çatı katında bulunan dokuz adet deponun müşterek maliki olduklarını, depolara ortak yer terası da katmak suretiyle birleştirip projeye aykırı olarak terasa kapı açtıklarını ve konut olarak kullandıklarını, yine çatı katında yer alan 10 ve 11 nolu depoların maliki olan davalı . ...'nin ...'a ait 12 nolu depoyu ve ortak yer terası da birleştirmek suretiyle bu yeri konut olarak kullandıklarını ileri sürerek ortak yere yapılan müdahalelerin önlenmesini, projeye aykırılıkların giderilerek eski hale getirilmesini, depoların konut olarak kullanımının önlenmesini istemiş, mahkemece depoların konut olarak kullanımının önlenmesine ilişkin talebin reddine, bir kısım projeye aykırılıkların eski hale getirilmesine karar verilmiştir.
 
 …
@@ -258,6 +292,8 @@ Depoların ve dükkanın mesken olarak kullanılmasında Kat Mülkiyeti Yasası'
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/4489 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79449200)
 
 Davacı, kayden maliki olduğu 14 parsel sayılı taşınmazdaki 4 nolu bağımsız bölümü, davalının keşide ettiği ihtarnamelere rağmen haklı ve geçerli bir neden bulunmaksızın kullandığını ileri sürerek elatmanın önlenmesine ve ecrimisile karar verilmesini istemiş, yargılama sırasında ecrimisil talebini ıslah etmiştir.
 
@@ -278,6 +314,8 @@ Kayden davacıya ait bağımsız bölüme, davalının haklı ve geçerli bir ne
 Davalının, bu yöne değinen temyiz itirazı yerindedir. Kabulü ile hükmün açıklanan nedene hasren HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/882 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78582900)
 
 Davalılar, davanın reddini savunmuşlardır.
 
@@ -301,6 +339,8 @@ Davacının, bu yöne değinen temyiz itirazları yerindedir. Kabulüyle, hükm�
 
 ## Yargıtay 1. HD 2009/2856 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78209100)
+
 Davacılar, kayden paydaşı oldukları 6548 ada 1 parsel sayılı taşınmaz üzerindeki yapıda yer alan ve kendilerine ait olan 6,7,8 ve 9 nolu dükkanlarına, davalıların haksız olarak işgal etmek suretiyle müdahalede bulunduklarını ileri sürüp; elatmanın önlenmesi ve ecrimisil istemişler; bilahare ecrimisil miktarını artırarak davalarını ıslah etmişlerdir.
 
 Davalı Ş.dava konusu taşınmaz hakkında açılan taksim davasının sonucunun beklenmesini istemiş; diğer davalılar çekişme konusu dükkanları davalı Ş..den kiraladıklarını ve anılan dükkanlarında davacılara ait olmadığını, husumet itirazlarının olduğunu belirterek, davanın reddini savunmuşlardır.
@@ -323,6 +363,8 @@ Davalı şirket ile davalı T. Ç..'ın bu yönlere değinen temyiz itirazları 
 
 ## Yargıtay 1. HD 2008/11971 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78554800)
+
 Davacı, kayden maliki bulunduğu 113 parsel sayılı taşınmazdaki 7 nolu bağımsız bölümü davalının haksız kullandığını ileri sürüp, elatmanın önlenmesine ve 17.303.320.000.-YTL ecrimisilin tahsiline karar verilmesini istemiştir.
 
 Davalı, dava konusu taşınmazı kiracı sıfatıyla kullandığını belirtip davanın reddini savunmuştur.
@@ -342,6 +384,8 @@ Dosya içeriğinden ve toplanan delillerden;kayden davacı M.’ye ait çekişme
 ettirmek suretiyle Vakıflar Bankası Konya şubesine davacı M.adına açılan hesaba toplam 4.330.00.-YTL kira bedeli adı altında para yatırdığı, bu miktardan 3.250.00.-YTL.nin 16.12.2003 tarihinde davacı vekilince anılan hesaptan çekildiği,bakiye olarak 1.080.00YTL.nin kaldığı dosya kapsamı ile sabittir. Mahkemece, ilk davanın açıldığı tarih olan 08.08.2003 tarihinden önceki dönem için ecrimisil olarak 6.779.88.-YTL belirlendiğine göre bu dönem bakımından hüküm altına alınması gerekli olan ecrimisilin bankaya yatırılan 4.330.00.-YTL.nin mahsubu ile kalan miktar olacağı dikkate alınmadan nasıl belirlendiği anlaşılamayan 2.219.34.-YTL. ecrimisilin hüküm altına alınmış olması doğru değildir. Ayrıca; ilk davanın açılmasından sonraki dönem için 20.06.2006 tarihinde açılan ve birleşen 2006/253 esas sayılı dosyada, bilirkişi tarafından usulüne uygun olarak 9.716.00.-YTL ecrimisil miktarı belirlenmiş olup bu miktarın hüküm altına alınması gerekirken yanılgılı değerlendirme ile bu dava içinde 90.60.-YTL ecrimisile karar verilmiş olması da doğru değildir. Davacının bu yöne ilişkin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerle HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2008/8754 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78167200)
 
 Davacılar, kayden paydaşı bulundukları 3579 ada 6 parsel sayılı taşınmazı diğer paydaş davalının tek başına kullandığını ileri sürüp paya vaki çekişmenin giderilmesine ve 12.339,00.-YTL ecrimisilin tahsiline karar verilmesini istemişlerdir.
 
@@ -364,6 +408,8 @@ Diğer taraftan; çekişme konusu 13 no'lu taşınmazda tarafların murisi M.M.Y
 O halde; davalının temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenlerle HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/7213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860269900)
 
 Davacı vekili, davada; müvekkillerinin mirasbırakanı ile davalı kooperatif arasında Beyoğlu .... Noterliği’nce doğrudan düzenlenen 06.08.1996 tarih ve 18728 yevmiye numaralı “Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi” yapıldığını; sözleşme gereğince verilmesi gereken bağımsız bölümlerin verilmediğini ileri sürerek sözleşme konusu (72) numaralı parsele davalının elatmasının önlenmesine ve 18.03.2004 ilâ 15.06.2005 tarihleri arasındaki süre için (6.000,00) YTL ecrimisilin tahsilini istemiştir.
 

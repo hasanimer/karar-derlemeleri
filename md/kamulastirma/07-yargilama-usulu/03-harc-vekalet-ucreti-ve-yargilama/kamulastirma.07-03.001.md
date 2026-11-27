@@ -32,8 +32,12 @@ Bu itibarla, dürüstlük kuralına aykırı davranan davacının, bu davranış
 
 ## Yargıtay 5. HD 2014/31292 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96951100)
+
 Devlet Su İşleri Genel Müdürlüğü, 02.11.2011 tarihinde yürürlüğe giren 662 sayılı K.H.K.'nın 58. maddesi uyarınca genel bütçeli idareler arasından çıkartılarak özel bütçeli idareler arasına alınması nedeniyle, 492 sayılı Harçlar Kanununun 13/j maddesi hükmünden kaynaklanan yargı harçlarından muafiyeti kaldırıldığından, karar ilam harcının davalı idareden tahsili gerekirken, yazılı şekilde hüküm kurulması,…
 
 ## Yargıtay 5. HD 2013/3257 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522215200)
 
 Resmi kuruluşların yargı harcından bağışık tutulabilmesi için genel bütçeye dahil idareler arasında yer alması veya özel kanunlarında yargı harcından muaf olduğunun açıkça belirtilmesi gerekir. Diğer harçlardan bağışık tutulma, yargı harcını kapsamaz.

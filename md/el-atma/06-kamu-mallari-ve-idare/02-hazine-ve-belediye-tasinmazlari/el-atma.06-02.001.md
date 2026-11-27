@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2017/963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/348652400)
+
 Davalı TOKİ, diğer davalı şirket ile aralarında davaya konu taşınmaza komşu parselde anahtar teslimi inşaat yapılması için eser sözleşmesi imzaladıklarını, inşaat nedeniyle doğacak tüm sorumluluğun davalı şirkete ait olduğunu, davaya konu taşınmaza hafriyat dökümü ile ilgili diğer davalı ile Köy Muhtarlığı arasında yapılan anlaşmadan dolayı kendisine sorumluluk yüklenemeyeceğini ileri sürerek öncelikle husumet olmadığı takdirde esastan davanın reddini dilemiştir.
 
 …
@@ -189,6 +191,8 @@ Maddesinin (4) numaralı fıkrası gereğince iptallerine, iptal hükümlerinin 
 Davalı ... vekilinin temyiz itirazlarının kısmen kabulü ile temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2026/4536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209170700)
 
 Davacılar vekili dava dilekçesinde özetle; Ankara ili, ..., ... Mahallesi 1017 64... (eski 1006 78... ) parsel sayılı taşınmazın imar planında mesire alanı olarak ayrıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin davalı idarelerden tahsilini talep etmiştir.
 

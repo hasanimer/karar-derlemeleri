@@ -41,6 +41,8 @@ Paydaşlar, TMK'nın 689/1. maddesine göre kendi aralarında oybirliğiyle anla
 
 ## Yargıtay HGK 2025/84 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152337800)
+
 Davacı-karşı davalı; İstanbul ili, Üsküdar ilçesi, Çengelköy Mahallesinde bulunan dava konusu ... ada 49 parsel sayılı taşınmazın zilyetliklerinde olan kısmının babaları ...'den çocukları olarak kendilerine intikal ettiğini, bu yerin 1941 yılından beri zilyetliklerinde olduğunu, davalının kadastro geçtiği sırada bu yeri kendi üzerine yazdırdığını ileri sürerek, zilyetliklerinde olan 515 m2 yerin tapusunun iptali ile ... mirasçıları olarak adlarına tapuya tesciline karar verilmesini talep etmiştir.
 
 …
@@ -48,6 +50,8 @@ Davacı-karşı davalı; İstanbul ili, Üsküdar ilçesi, Çengelköy Mahallesi
 Türk Medeni Kanununun 693/son maddesi hükmü uyarınca paydaşlardan her biri bölünemeyen ortak menfaatlerin korumasını diğer paydaşları temsilen sağlayabilir. Diğer bir deyişle bir veya birkaç paydaşın el atmanın önlenmesi davalarında diğer paydaşları temsile yetkili bulunduğu açık ise de yıkım davaları için aynı şeyi söylemek mümkün değildir. Şayet taşınmaz üzerinde yıkımı fahiş zarar doğurucu ve kalıcı nitelikte bir yapılaşma mevcut ise o takdirde taşınmazın tüm paydaşlarının davada yer almaları gerekir. Bir diğer deyişle; yıkım istekli davalarda, yıkılması istenen ve mütemmim cüz'i niteliği taşıyan binanın, ana nüvesinin yer aldığı taşınmaz maliklerinin tümünün davada yer alması gerekir.
 
 ## Yargıtay HGK 2023/1233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990385000)
 
 4\.
 
@@ -69,6 +73,8 @@ Davalılar vekilinin temyiz itirazlarının kabulü ile direnme kararının 6100
 
 ## Yargıtay HGK 2022/1445 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848345800)
+
 Davacılar vekili dava dilekçesinde; müvekkillerinin ... ili ... ilçesi, ... Mahallesi 4470 ada 3 parselde kayıtlı taşınmazda hissedar olduklarını, kayıtları belirtilen taşınmazın davalı belediyece 3194 sayılı Kanun’un 18. maddesi uygulaması sonucu oluşan bir parsel olduğunu, müvekkilleri ve murislerinin söz konusu taşınmazda hissedar yapılmadan önce 2981 sayılı Kanun uygulaması yapılarak müvekkillerine ait taşınmaz hisselerinden yol payı kesilerek ferdi tapular verildiğini, 2981 sayılı Kanun uygulaması sonucunda müvekkillerine davalı belediyece tahsis ve tescil edilen ferdi tapulu taşınmazlarla ilgili davalı belediyece bu kez 3194 sayılı Kanun’un 18. maddesi uygulaması yapıldığını, önceki oluşan taşınmazların kaydının kapatılarak ...
 
 …
@@ -84,6 +90,8 @@ Yukarıda yapılan açıklamalar ve mevzuat hükümleri doğrultusunda somut ola
 Davacılar vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerle 6100 sayılı Hukuk Muhakemeleri Kanunu'nun Geçici 3. maddesine göre uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2018/1386 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/457314400)
 
 Mahkemece, davanın kabulüne karar verilmiştir.
 

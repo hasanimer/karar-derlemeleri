@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/5104 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152539700)
+
 Davacılar vekili dava dilekçesinde özetle; İstanbul ili, ... ilçesi, ... Mahallesi 759 ada 1 parsel sayılı taşınmaz üzerinde bulunan binanın zemin kat (22) numaralı bağımsız bölüm maliki olan davalının, zemin kat yangın çıkış koridorunda bulunan ortak alan niteliğindeki alana duvar örmek suretiyle müdahalede bulunduğunu, hali hazırda buraya bir kısım dolap, sandalye vb. eşyalar koyduğunu ileri sürerek ortak alana vaki müdahalenin önlenmesi ile mevcut durumun eski hale getirilmesini talep ve dava etmiştir.
 
 …
@@ -38,6 +40,8 @@ Dosyadaki bilgi ve belgelerden; dava konusu kat mülkiyetli ana gayrimenkulün (
 Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/4554 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1146891000)
 
 Mahkemece uyulan bozma kararı uyarınca yapılan yargılama sonucunda davanın kabulüne karar verilmiştir.
 
@@ -59,6 +63,8 @@ Davalı vekilinin temyiz itirazları yerinde görülmediğinden usul ve kanuna u
 
 ## Yargıtay 7. HD 2025/4371 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181642700)
+
 Davacı vekili dava dilekçesinde;
 Küçükçekmece ilçesi 96... parsel sayılı taşınmaz üzerinde bulunan müvekkili adına kayıtlı 1 No.lu dairenin satışı konusunda davalı ... ile haricen anlaştıklarını, 30.10.2013 tarihli bu sözleşmeden hemen sonra davalının evin içini boyatmak istediğini, müvekkilinin satış konusunda vekil kıldığı dava dışı ... tarafından anahtarın davalıya badana boya yapılması amacıyla verildiğini, satış bedelinin devir sırasında 10.01.2014 tarihinde ödeneceğinin kararlaştırıldığını ancak davalının bedel ödemediği gibi davet edilmesine karşın tapuda devre de yanaşmadığını, edimini ifa etmesi için gönderilen ihtardan sonuç alınamaması üzerine müvekkilinin sözleşmeyi feshetmek zorunda kaldığını, sözleşmenin feshedilmiş bulunmasına ve 17.07.2014 tarihinde davalıya haksız işgaline son vermesinin ihtar edilmiş olmasına rağmen davalıların müvekkiline ait taşınmazı işgale devam ettiklerini ileri sürerek müvekkiline ait taşınmaza vaki müdahalenin önlenmesine ve fazlaya ilişkin haklar saklı kalmak kaydıyla 3.000,00 TL haksız işgal tazminatının dava tarihinden itibaren yasal faizi ile birlikte davalılardan tahsiline karar verilmesini talep etmiş, ıslahla talep sonucunu 7.327,00 TL’ye yükseltmiştir.
 
@@ -79,6 +85,8 @@ Mahkemece ilâm başlığında tarih ve sayısı belirtilen kararıyla davanın 
 Yukarıda V.B.2. numaralı bentte açıklanan nedenler ile, Mahkeme hükmünün 1. bendinin dördüncü satırında yer alan "1 No.lu bağımsız bölüm niteliğindeki meskene" ibaresinin hüküm fıkrasından çıkarılmasına, yerine "1 numaralı daireye" sözcüklerinin yazılmasına, hükmün DEĞİŞTİRİLMİŞ ve DÜZELTİLMİŞ bu şekliyle ONANMASINA …
 
 ## Yargıtay 5. HD 2025/3982 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143591300)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -104,6 +112,8 @@ Taraf vekillerinin temyiz itirazlarının kısmen kabulü ile temyiz olunan İlk
 
 ## Yargıtay 5. HD 2025/3981 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143587800)
+
 Davacı vekili dava dilekçesinde özetle; İstanbul ili, Kartal ilçesi, ...
 
 …
@@ -122,6 +132,8 @@ Asıl davada davalılar- karşı davada davacılar ... vd. vekili ile karşı da
 
 ## Yargıtay 5. HD 2025/3779 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143138900)
+
 Davacı vekili dava dilekçesinde özetle; davalının 2015 yılı içerisinde dava konusu sitenin 3. Blok altında bulunan işyerini satın alarak lokantacılık faaliyetine başladığını, bu faaliyetleri nedeniyle işyerinde ateş yaktığını, ateş nedeniyle ortaya çıkan duman, yağ kokusunun tahliye edildiği boruların apartman içerisinde ortak alandan geçerek baca yoluyla dışarı atıldığını, ancak bu şekilde bacanın temizliği ve güvenliğinin sağlanamadığını, ana gayrimenkulün üstüne kat ilavesi veya mevcut çekme kat yerine tam kat yapılması hususunda kat malikleri kurulunun oy birliğiyle karar almasını, tehlike oluşturan ve yaşamı olumsuz olarak etkileyen bağımsız bölüm üzerindeki bacaların tedbiren durdurulmasını ve daha sonra kaldırılmasını, oluşacak hasarın davalı tarafandan eski haline getirilmek suretiyle düzelttirilmesine karar verilmesini talep etmiştir.
 
 …
@@ -138,6 +150,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul
 
 ## Yargıtay 5. HD 2025/3635 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142652200)
+
 Davacı vekili dava dilekçesinde; müvekkilinin davalı ... Sitesinde ikamet ettiğini, davalı yönetimin 634 sayılı Kat Mülkiyeti Kanunu'na (634 sayılı Kanun) aykırı olarak yeterli karar sayısı oluşmadan, sitenin bahçesine müdahale edecek şekilde Yapı Kredi Bankası ile kira sözleşmesi imzalayarak ortak alana bankamatik konulmasına izin verdiğini, söz konusu işlemin iptali ile siteye ait bahçenin eski hale getirilmesine karar verilmesini talep etmiştir.
 
 …
@@ -153,6 +167,8 @@ Davalı .... vekili cevap dilekçesinde; müvekkili bankanın taraf sıfatının
 Davalı ...ve davalı .... vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun olan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/2065 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150602700)
 
 Davacı dava dilekçesinde özetle; İstanbul ili, ..., 325 ada 11 parsel sayılı taşınmaz üzerinde bulunan zemin + 4 katlı bağımsız bölümden oluşan anagayrimenkulün (4) numaralı bağımsız bölüm maliki olduğunu, kat malikleri kurulu kararı alınmaksızın birkaç bağımsız bölüm maliki ile davalı şirket arasında düzenlenen kira sözleşmesine dayanılarak binanın çatı katına davalı şirket tarafından baz istasyonu kurulduğunu, kira bedelinin de kiraya veren bağımsız bölüm malikleri arasında paylaşıldığını öğrendiğini, söz konusu kira sözleşmesinin herhangi bir kat malikleri kurulu kararına dayanmadığı için geçersiz olduğunu ileri sürerek ortak alana kurulan baz istasyonunun sökülerek çatı katının eski hale getirilmesini talep ve dava etmiştir.
 
@@ -174,6 +190,8 @@ Tarafların iddia, savunma ve dayandıkları belgelere, uyuşmazlığın hukukî
 
 ## Yargıtay 5. HD 2025/1722 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135420100)
+
 Davacı ... vekili dava dilekçesinde özetle; Balıkesir ili, ..., 1837 ada 2 parsel sayılı taşınmaz üzerinde bulunan sitenin numaralı bağımsız bölüm maliki olan davalının, kat maliklerinin onayı olmadan ve yönetim planındaki düzenlemeye aykırı olacak şekilde pek çok sayıda hayvan beslediğini, kötü koku ve gürültüye sebebiyet verdiğini, ön ve arka balkonları kapattığını, yine balkonun yarısına kadar mimari görünümü etkiler şekilde ahşap kafes yaptırdığını, yönetim planının 17 nci maddesinde, site sakinlerinin münhasıran kendi bağımsız bölümlerinde ve ortak yerlerde kedi, köpek ve tavuk vb. hayvanları barındırıp besleyemeyeceği; 18 inci maddesinde ise, bağımsız bölümlerde yapının orjinal mimari görünümünü etkileyecek ve bilhassa dış cephe üzerinde herhangi bir değişiklik ve ilaveler yapamayacağının düzenlendiğini, davalının haksız müdahalesinin önlenmesi amacıyla noterden ihtar çekildiğini, ancak bugüne kadar sonuç alınamadığını ileri sürerek müdahalenin önlenmesi ve kapatılan balkonların ve yapıların kaldırılarak eski hale getirilmesini, davalının site içerisinde ya da kendi bağımsız bölümünde hayvan barındırma ve beslemesinin önlenmesini talep ve dava etmiştir.
 
 …
@@ -192,6 +210,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul
 
 ## Yargıtay 5. HD 2025/1336 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1128226000)
+
 Davacı vekili dava dilekçesinde özetle; Balıkesir ili, Sındırgı ilçesi, ......... Mahallesi 695 ada 57 parsel sayılı taşınmaz üzerinde bulunan 3 katlı apartman niteliğindeki anagayrimenkulün (1) ve (3) numaralı bağımsız bölüm maliki olan davacının rızası dışında, (2) numaralı bağımsız bölüm maliki davalılar tarafından anagayrimenkulün ortak alanı olan bahçesine inşa edilen yapının mesken olarak kullanılmaya başlanıldığını, defalarca söz konusu yapının yıkılarak eski hale getirilmesi istenilmesine rağmen sonuç alınamadığını ileri sürerek ortak alana yapılan müdahalenin tespitini, ilgili yapının yıkılarak eski hale getirilmesini, dava tarihinden geriye dönük 5 yıllık ecrimisil bedelinin davalılardan tahsilini talep ve dava etmiştir.
 
 …
@@ -207,6 +227,8 @@ Dosyadaki bilgi ve belgelerden; dava konusu kat mülkiyetli anagayrimenkulün (2
 Davalı ... vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/1335 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1128295900)
 
 Davacılar vekili dava dilekçesinde özetle;
 İstanbul ili, ..., ......Mahallesi 2988 ada 95 parsel sayılı taşınmaz üzerinde bulunan zemin + 3 katlı binadaki 3. kat (10) numaralı bağımsız bölüm maliki olan davalının, diğer kat maliklerinin yazılı onayını almaksızın mimari projeye aykırı olarak ortak alana müdahalede bulunmak suretiyle dubleks bölümün (çatı katı alan) alanını 57,15 m²den 165,77 m²'ye büyütüp kapalı alan haline getirdiğini, kat maliklerinin bu durum karşısında delil tespiti için mahkemeye başvurduklarını, tespit raporunda belirtilen ilave ve eklentilerin bugüne kadar yıkılmadığını, çatı katının projeye uygun hale getirilmediğini, davalının ortak alana vaki müdahalesi devam ettiği gibi kaçak yapı için yapı kayıt belgesi aldığının da öğrenildiğini, bunun üzerine kat malikleri kurulunun dava açılmasına karar verdiğini, davalının ve (9) numaralı kat malikinin karara muhalif kaldığını, davacının kat maliki olup aynı zamanda yönetici olduğunu, 634 sayılı Kat Mülkiyeti Kanunu'nun (634 sayılı Kanun) 16 ncı maddesi uyarınca, kat maliklerinin anagayrimenkulün bütün ortak yerlerine, arsa payları oranında, ortak mülkiyet hükümlerine göre malik olduğunu, ortak alanın, tüm kat maliklerinin kullanımına tahsis edilmiş alan
@@ -225,6 +247,8 @@ Dosyadaki bilgi ve belgelerden; dava konusu kat mülkiyetli anagayrimenkulün (1
 Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/1096 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122934500)
 
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonuncuda; davanın müdahalenin önlenmesi talebi yönünden kabulüne, ecrimisil talebi yönünden tefrik kararı verildiğinden hüküm kurulmasına yer olmadığına karar verilmiştir.
 
@@ -245,6 +269,8 @@ Dairemizce yapılan inceleme sonucunda, dosyadaki bilgi ve belgelerin incelenmes
 Davalı site yönetimi vekilinin temyiz itirazlarının kabulü ile temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2024/5880 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060354900)
 
 1\.
 
@@ -272,6 +298,8 @@ Hukuk Dairesinin 2015/10364 Esas, 2015/9881 Esas sayılı kararlarında, ana yap
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2024/5070 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057767500)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 

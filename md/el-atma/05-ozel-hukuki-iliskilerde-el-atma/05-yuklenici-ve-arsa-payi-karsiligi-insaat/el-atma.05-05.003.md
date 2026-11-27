@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2014/6015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119616800)
+
 Davacılar vekili, asıl davada davacıların murisi ile davalı yüklenici arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, diğer davalının da arsa sahibinin mirasçısı olduğunu, ancak davalının kaçak inşaat yaptığını, yıkım kararı bulunduğunu, ileri sürerek, sözleşmenin feshine, binanın kali ve haksız işgal nedeniyle ecrimisilin tahsilini; birleşen davada, davalıların binayı kiraya vererek ve haksız yere kullandıklarını ileri sürerek, müdahalelerinin men'i ve ecrimisil tazminatının tahsilini talep ve dava etmiştir.
 
 Davalılar vekili, inşaat bittiği halde, davacıların tapu devri yapmadığını, sözleşmeye dayalı olarak binayı kullandıklarını savunarak, davanın reddini istemiştir.
@@ -38,6 +40,8 @@ Açıklanan sebeplerle kararın bozulması gerekmiştir. SONUÇ: Yukarıda (1) n
 
 ## Yargıtay 1. HD 2013/14518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254621200)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi isteğine ilişkindir.
 
 Mahkemece; davanın kabulüne karar verilmiş, hüküm davalılar tarafından temyiz edilmiştir.
@@ -53,6 +57,8 @@ Gerçekten de; davacı kat mülkiyeti ve kat irtifakı kurulu olmayan 2972 ada, 
 Davalıların bu yönlere değinen temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/3975 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490975700)
 
 Davacı vekili, taraflar arasında imzalanan ....02.2004 ve ........2004 tarihli daire ve dükkan karşılığı ... sözleşmeleri gereği, dükkan ve dairenin toplam değeri olan 68.000,00 TL'den ....000,00 TL'sinin nakden ödenmesi, kalan ....000,00 TL'lik kısım için ise davacı kooperatife kapı ve doğrama işi yapılmasının kararlaştırıldığını, ancak üyelik edimlerini yerine getirmediği için üyelikten ihraç edilen ve sözleşmesi feshedilen davacının daire ve dükkanı tahliye etmediğini ileri sürerek, B Blok ... nolu dükkan ile B Blok ... numaralı daireye vaki elatmanın önlenmesini ve tahliyesine karar verilmesini talep ve dava etmiştir.
 
@@ -77,6 +83,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 1. HD 2013/3147 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79624200)
+
 Dava, tazminat, birleşen dava el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Mahkemece, davaların kabulüne karar verilmiştir.
@@ -90,6 +98,8 @@ Birleşen davanın davalıları N. ve A. R.'nın temyiz itirazlarına gelince; a
 Davalıların bu yönlere ilişkin temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollamasıyla ) HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/6529 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79328300)
 
 Davacı, kayden maliki olduğu dubleks dairede davalının haklı bir nedene dayanmaksızın bir kısmında oturduğu, bir kısmını da bölerek kiraya verdiğini ileri sürerek, davalının elatmasının önlenmesine ve 21.000.00.-TL ecrimisilin tahsiline karar verilmesini istemiştir.
 
@@ -113,6 +123,8 @@ Davacı tarafın temyiz itirazı yerindedir. Kabulüyle, hükmün açıklanan ne
 
 ## Yargıtay 1. HD 2011/12854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79319900)
+
 Davacı, kayden malik olduğu 6 parsel sayılı taşınmaz üzerine imara uygun ruhsatlı inşaat yapılması için davalı İ. Ş.ile noterde 27.05.1996 tarihinde Kat Karşılığı İnşaat Sözleşmesi yaptığını, aynı şekilde komşu 7 ve 8 nolu parsel malikleri ile de dava dışı H. Ş.'in benzer sözleşmeler yaptığını, bilgisi ve rızası olmadığı halde her üç parseli kapsar şekilde taşınmazlar üzerine imara aykırı ve ruhsatsız tek bina inşa edildiğini, yüklenici ile yaptıkları sözleşmenin Şişli 5.
 
 …
@@ -133,6 +145,8 @@ Tarafların temyiz itirazları belirtilen sebeplerle yerindedir. Kabulüyle, hü
 
 ## Yargıtay 1. HD 2011/1225 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917562400)
+
 Davacı, davalı ile düzenlenen Beyoğlu 20.Noterliğinin 09.08.1999 tarihli satış vaadi sözleşmesi gereğince 4724 ada 2 parseldeki A1 nolu dükkanın ve bu dükkana isabet eden arsa payının satışı hususunda anlaştıklarını, satış bedelini ödemesine rağmen davalının edimini yerine getirmediğini ileri sürerek, tapu iptal ve tescil isteminde bulunmuştur.
 
 Davalı, dava dışı yüklenici ile tapu tahsis belgesi olan arsa üzerinde inşaat yapılması için sözleşme düzenlendiğini, çekişme konusu bölümün yükleniciye düştüğünü, ancak yüklenicinin binayı ruhsatsız ve kaçak olarak inşa ettiği gibi yarım bıraktığını, edimini yerine getirmeyen yüklenicinin tapuya da hak kazanmadığını belirterek davanın reddini savunmuş, karşı davasında da dükkanın yükleniciye verilmesi gereken dükkan olduğunun tespiti ile el atmanın önlenmesini istemiştir.
@@ -146,6 +160,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 15. HD 2010/1992 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774369200)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca inşaat yapılan taşınmazın ortak alanlarındaki projeye aykırılıkların giderilerek eski hale getirilmesi ve müdahalenin men'i istemlerine ilişkindir.
 
 …
@@ -157,12 +173,16 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükm
 
 ## Yargıtay 15. HD 2009/5480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856183900)
+
 Kat karşılığı inşaat yapılmasına karar verilen 766 ada 5 parsel (yeni 1115 ada) sayılı taşınmazın sözleşme tarihinde karşı davacı ... ... ile karşı davada taraf olarak yer almayan Asiye ... arasında müşterek mülkiyet şeklinde tapuya kayıtlı olduğu anlaşılmaktadır. Sözleşme ve ek sözleşmeyi arsa sahibi davalı sadece ... imzalamış olup, Asiye ile yüklenici şirket ve ... arasında yapılmış bir sözleşme bulunmamaktadır. Bu sebeple TMK’nın 692. maddesine göre tüm arsa sahiplerince yapılmamış bulunan kat karşılığı inşaat sözleşmesi geçersizdir. Geçersiz olan sözleşmenin feshi istenemez ancak fesih isteminin içerisinde geçersizliğinin tespiti talebinin varlığı da kabul edilmelidir. Davalı karşı davacı ...’in karşı davadaki istemi ifaya yönelik olup fesih tapu iptâl tescil ve men’i müdahale istemli 04.05.2007 tarihli duruşmadaki beyanı imzasız olduğundan arsa sahibi ... ya da vekiline tutanağa geçen beyanlarının kendileri tarafından yapılıp yapılmadığının açıklattırılması, kendi beyanları olduğunu kabul etmeleri durumunda imzaları alınarak ve bu taleplerinin davanın tamamen ıslahı niteliğinde olduğu gözetilerek ve karşı davada paylarının iptâli talep edilen ...
 Başer mirasçıları, ... ... ve ... ... karşı davada taraf olmadığı ve davada taraf olmayan şahısların tapu paylarının iptâline de karar verilemeyeceğinden adı geçen şahıslar ve mirasçılar hakkında karşı davacıya eldeki dava ile birleştirilmek üzere dava açması için süre verilmesi, açıldığında birleştirilerek taraf teşkili de tamamlandıktan sonra davanın sonuçlandırılması gerekirken eksik inceleme ve yanlış değerlendirilme sonucu davada taraf olmayan şahısların tapu kayıtlarının da iptâline karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ: Yukarıda (1.) bendde açıklanan nedenlerle asıl dosya davalısı ... ...'in temyiz dilekçesinin reddine, (2.) bent uyarınca ... ... ve ...ın temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/3307 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854782300)
 
 Mahkemece, 19 parsel sayılı taşınmaz üzerinde bulunan (3.) bodrum katını...Atölyesi olarak kullanma şeklinde oluşan davalı ...’nın müdahalenin men’i ile yerin davacıya teslimine; ecrimisil isteminin reddine ve ayrıca davalılar ... aleyhinde açılan davaların derdestlik nedeniyle reddine karar verilmiş ve verilen karar davalı ... vekilince temyiz edilmiştir.
 
@@ -178,6 +198,8 @@ SONUÇ:Yukarıda (1.) bendde belirtilen nedenlerle davalı ... vekilinin sair te
 
 ## Yargıtay 15. HD 2008/7673 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858442500)
+
 Kırıkkale İli,... Mahallesi, 250 ada 2 ve 3 numaralı parseller ile 122 ada 221 parsel numaralı taşınmazlar üzerine kat karşılığı inşaat yapımı konusunda 19.02.1999 ve 05.03.1999 tarihlerinde resmi şekle uygun sözleşmeler yapılmıştır. Davacı 19.02.1999 günlü sözleşmedeki arsa sahiplerinden birisi olup kendisine verilmesi gereken bağımsız bölümlerden birinin verilmediğini iddia ederek B blok 4. kat 11 veya 5. kat 14 nolu dairelerden birinin adına tesbit ve müdahalenin men edilmesini istemiştir. İstemin bu niteliği gereği tüm tarafların sözleşmelerin içeriğine göre kendilerine kalan bağımsız bölümleri alıp almadıkları, aldılarsa geriye hangi bölümün kaldığının tesbit edilmesi ve davacı isteminin de buna göre değerlendirilmesi gerekmektedir. Keza dava konusu istemlerden birisi de müdahalenin men’i olmakla, davacı isteğinde haklı çıktığı takdirde belirlenecek bölümü tasarrufu altında tutan kişinin haklarının etkileneceği de ortadadır.
 
 …
@@ -185,6 +207,8 @@ Kırıkkale İli,... Mahallesi, 250 ada 2 ve 3 numaralı parseller ile 122 ada 2
 SONUÇ:Yukarıda (1.) bendde açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, (2.) bent uyarınca hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/7399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857630600)
 
 Kat karşılığı inşaat sözleşmesi uyarınca inşaatı tamamlanarak iskan edilen binanın mahallinde yapılan incelemesinde, ruhsata ve imar mevzuatına aykırı yapıldığı, mevcut durumuyla imara uygun hale getirilmesinin olanaksız olduğu alınan bilirkişi raporlarında belirtilmiş ise de mevcut haliyle veya tadilat projesiyle yasaya uygun olup olamayacağı belediyesinden sorulup araştırılmış değildir. Yine açılan her iki davada kâl istemi bulunmadığı halde ayrıca kâl kararı verilmesi de HUMK’nın 74. maddesine aykırı olmuştur.
 
@@ -194,6 +218,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle hükmün temyiz eden davalılar ... ve .
 
 ## Yargıtay 15. HD 2008/3524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858876900)
+
 Dairemizin 16.03.2005 günlü bozma ilâmında, dava konusu parsel üzerindeki yapının kaçak olduğundan sözedilmiş, yasal hale getirilmemesi durumunda ancak yıkımının istenebileceği belirtilmiştir. Dosya içerisine getirtilen belediye işlem dosyası içindeki Zeytinburnu Belediye Başkanlığı’nın 06.05.1997 tarih ve 1996/1277-2 sayılı kararından binanın ruhsata bağlanabilecek nitelikte olduğu anlaşılmaktadır. Bu durumda öncelikle davalı yüklenici ...’a yapıyı yasal hale getirip ruhsata bağlatması için süre tanınması, yüklenicinin gereğini yapmaması durumunda ise davacı arsa sahiplerine aynı nitelikte süre verilmesi, bina yasal hale getirilip ruhsata bağlandığı takdirde, oluşan bağımsız bölümlerin arsa payları bilirkişilere hesaplattırılarak davacıların müdahalenin önlenmesi istemleri hakkında karar verilmesi gerekir.
 
 …
@@ -202,6 +228,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı ...’in sair temyiz i
 
 ## Yargıtay 15. HD 2008/2986 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857559100)
+
 Diğer yandan, feshine karar verilen arsa payı karşılığı inşaat sözleşmesi, dava dışı ... ile ... arasında yapılmış olduğu halde “...”ın arsa sahibi sıfatıyla sözleşmeyi imzaladığının ve ayrıca davalının adının “... ” yerine “...” olarak hüküm fıkrasında yazılmış olmasıyla; davacı ... adına tapuya kayıtlı taşınmaza davalının elatmasının önlenmesine karar verilmesi gerekirken; taşınmaz üzerinde bulunan dairelere yapılan müdahalenin önlenmesine karar verilmesi de doğru değildir. Kararın bu sebeplerle de bozulması gerekir ise de; mahkemece düşülen bu hatanın düzeltilmesi yeniden yargılamayı gerektirmediğinden HUMK’nın 438/VII. maddesi uyarınca kararın düzeltilerek onanması gerekmiştir.
 
 …
@@ -209,6 +237,8 @@ Diğer yandan, feshine karar verilen arsa payı karşılığı inşaat sözleşm
 davacı isminin “...” olarak ve ayrıca kararın hüküm fıkrasının “Davanın kabulü ile tapu kaydının ilk maliki ... ile müteahhit ... arasında akdedilen Bakırköy 17. Noterliği’nin 01.06.1996 tarihli 13793 yevmiye nolu satış vaadi ve kat karşılığı inşaat sözleşmesinin geriye yönelik olarak feshine davaya konu ... parsel sayılı taşınmaz üzerinde bulunan binadaki dairelere yapılan müdahalenin önlenmesine, boş olarak davacıya teslimine, taşınmaz üzerinde bulunan kaçak yapının kal’ine” içerikli (1.) bendinin hüküm fıkrasından çıkarılmasına ve yerine “Davanın kabulüne ve dava dışı ... ile davalı ... arasında yapılan ve Bakırköy 17. Noterliği’nce doğrudan düzenlenen 10.06.1996 tarihli ve 13793 yevmiye numaralı Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesinin geriye etkili olarak feshine; ...,... ’de bulunan ve 24.06.2005 tarih, cilt no:38, sayfa no:3738 ve 3756 parsel sayılı olarak davacı ... adına tapuya tescilli taşınmaza davalının müdahalesinin önlenmesine; bu taşınmaz üzerindeki feshine karar verilen sözleşme gereğince davalı tarafından yapılan kaçak inşaatın kal’ine” cümlesinin (1.) bent hükmü olarak yazılmasına ve kararın değiştirilmiş bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 1. HD 2006/13294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78162000)
 
 Davacılar, müştereken maliki oldukları ...ada ..parsel sayılı taşınmazın davalıların ..no’lu parseli ile birleştirilerek üzerine bina inşa edilmesi için dava dışı yüklenicilerle sözleşme düzenlediklerini, ancak yüklenicinin inşaatı yarım bırakması nedeniyle açtıkları sözleşmenin feshi ve tapu iptal-tescil davasının kabulüne karar verilerek yeniden adlarına tescili sağladıklarını, davalıların her iki parsel üzerindeki binayı halihazır durumu ile kullandıklarını, kendilerinin taşınmazdan faydalanmalarını engellediklerini ileri sürüp elatmanın önlenmesi, yıkım ve ecrimisil istemişlerdir.
 
@@ -225,6 +255,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi, yıkım ve ecrimisil isteklerin
 Bu durumda, her iki parsel, inşaat öncesi tevhid edilmediğine göre, müstakil olma nideliğini korumaktadır. Kat karşılığı inşaat sözleşmesi feshedilmiş olduğundan taraflar arasındaki çekişmenin parsellerin mevcut mülkiyet durumuna göre çözümlenmesi gerekeceği tartışmasızdır. Hal böyle olunca, elatmanın önlenmesi isteğinin kabulüne, binanın davacıların parseli üzerinde kalan kısmının masrafı davacılar uhdesinde bırakılmak kaydı ile yıkımına ve ecrimisil isteği de değerlendirilmek suretiyle bir karar verilmesi gerekirken yanılgılı düşünceler ile yazılı olduğu üzere hüküm kurulmuş olması doğru değildir. Davacıların temyiz itirazları yerindedir. Kabulüyle hükmün HUMK'nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 28.12.2006 tarihinde oybirliğiyle karar verildi.
 
 ## İstanbul BAM 53. HD 2024/846 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1051473500)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Asıl dava, bakiye iş bedeli alacağının tahsili; karşı dava ise eksik ve ayıplı işler bedelinin ödenmesi, fazla ödenen avansın iadesi ve davacı/karşı davalı yüklenici nam ve hesabına yapılan ödemelerin tahsili; birleşen dava ise, inşaat sahasından iş sahibinin el atmasının önlenmesi talebine ilişkindir. Dairemizce 2021/2782 Esas 2021/2476 Karar sayılı 28.12.2021 tarihli karar ile "...Taraflar arasında imzalanan 10/07/2009 tarihli sözleşme ile davacı yüklenici şirket davalıya ait taşınmazı üzerinde nakit bedel karşılığında konut yapım işini üstlenmiştir. Davacı yüklenici asıl davada, sözleşmeye konu işi %95-98 oranında tamamladığını iddia ederek bakiye bedel talebinde bulunmuş, birleşen davada ise, davalı iş sahibinin işin yürütülmesine engel olduğunu belirterek müdahalesinin men'ini istemiş; davalı iş sahipleri ise cevabında, işin eksik ve ayıplı ifa edildiğini fazla ödeme yaptıklarını savunarak asıl ve birleşen davanın reddini istemiş, karşı davada ise, eksik ve ayıplı işler bedeli ile fazla ödemelerinin ve yüklenici nam ve hesabına 3.kişilere yapılan ödemelerin tahsilini istemiştir.
 Mahkemece hükmene uyulan Dairemiz'in kaldırma kararına uygun olarak alınan bilirkişi ek raporunda belirtilen yol ve yönteme göre yapılan hesaplar esas alınarak istinafa konu karar ile asıl ve birleşen davanın reddine, karşı davanın kısmen kabulüne hükmedilmiştir. Dava dayanağı sözleşmesinin davalı iş sahiplerince tek taraflı olarak feshedilmiş olduğu konusunda uyuşmazlık bulunmamaktadır. Kural olarak nakit bedel karşılığı düzenlenen eser sözleşmelerinin feshi geriye etkili sonuç doğuracak şeklide sona erse de somut olayda davalı iş sahibi sözleşmeyi ileriye dönük feshettiklerini ileri sürmüş, davacı yüklenici ise buna karşı çıkmadığı gibi, asıl ve birleşen davadaki talepleriyle ifaya yönelik istemde bulunmuş olmakla sözleşmenin taraf iradelerinin birleşmesiyle ileriye etkili feshedilmiş olduğunun kabulü gerekir. Bu durumda, tarafların sözleşmenin ifasına yönelik talepte bulunmalarında yasal bir engel yoktur.

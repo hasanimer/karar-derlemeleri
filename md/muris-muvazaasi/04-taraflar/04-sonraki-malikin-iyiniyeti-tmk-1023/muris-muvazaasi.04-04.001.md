@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/2252 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924208300)
+
 … temlikin muvazaalı olduğu kanaatine varılır ise son kayıt maliki olan davalı ...'nin ediniminin iyiniyetli olup olmadığının, **4721 sayılı TMK'nın 1023. maddesinin koruyuculuğundan yararlanıp yararlanamayacağının tespiti** ile sonucuna göre bir karar verilmesi gerekirken…
 
 ## Yargıtay 1. HD 2023/2250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924205300)
 
 Öte yandan, davalı ...'in akrabası olan diğer davalı Nihal'in, **temlikin muvazaalı olduğunu bilen veya bilmesi gereken kişi konumunda olduğu**, TMK'nın 1023. maddesinin koruyuculuğundan yararlanamayacağı tartışmasızdır.
 

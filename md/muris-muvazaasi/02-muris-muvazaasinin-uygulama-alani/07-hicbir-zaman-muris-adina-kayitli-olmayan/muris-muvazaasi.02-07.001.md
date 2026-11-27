@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2026/1869 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201967200)
+
 … özellikle davaya konu taşınmazların **hiçbir zaman muris adına kayıtlı olmaması nedeniyle 01.04.1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararının uygulanma olanağı bulunmadığının**…
 
 ## Yargıtay 1. HD 2026/1632 K.

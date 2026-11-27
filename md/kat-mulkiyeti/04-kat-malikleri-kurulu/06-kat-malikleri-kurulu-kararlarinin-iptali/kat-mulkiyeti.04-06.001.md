@@ -25,9 +25,13 @@ Dolayısıyla anılan madde hükmüne göre, kat malikleri kurulu kararının ip
 
 ## Yargıtay HGK 2024/506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104171800)
+
 Yapı kayıt belgesi TMK'nın 683 üncü maddesinin bir malike tanıdığı tüm hakları sağladığı için, bu hakları “yok hükmünde” saymak, öncelikle 3194 sayılı İmar Kanunu’nun geçici 16 ncı maddesine aykırı olacağı gibi kullanılan ve kullanılmaya devam edilecek olan ve anılan Kanun'un ekonomik değer atfettiği yapının “ekonomik değerinin olmadığı” kabul edilerek sözleşme feshedilmek suretiyle tüm yapının arsa sahiplerine terk edilmesi ve yükleniciye yaptığı işin karşılığının verilmemesi de hakkaniyete uygun düşmeyecektir. Ayrıca tapuya güvenerek ve iyiniyetli olarak hisse veya bağımsız bölüm satın alan üçüncü kişi davalıların da tapularının iptal edilerek arsa sahipleri adına tescil edilmesi TMK'nın 1023 üncü maddesine aykırı olacaktır.
 
 ## Yargıtay HGK 2008/531 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16814700)
 
 Tapu Sicil Müdürlüğüme verilen A... Sitesi Yönetim Planının 1. maddesinde; sitenin "Yönetim Planına" göre idare edileceği, 2. maddesinde; Yönetim Planında hüküm bulunmayan hallerde Kat Mülkiyeti Kanunu, Medeni Kanun ve ilgili diğer kanunların uygulanacağı, 3. maddesinde; Yönetim Planının A... Sitesi kapsamındaki bütün kat maliklerini, kat irtifakı sahiplerini, onların mirasçılarını ve bağımsız bölümü veya kat irtifakının bağlı bulunduğu arsa payını satış, bağış ve sair bir yolla iktisap edecek şahısları kendiliğinden bağlayacağı, bu şahısların yönetim planının bütün hükümlerine aynen uymak zorunda oldukları, 6/E maddesinde; Toplu Yapı Kat Malikleri Kurulu'nun kararlarının, A...
 Toplu Yapısı kapsamında bulunan bütün bağımsız bölüm (kat) maliklerini, irtifak hakkı sahiplerini ve bağımsız bölümleri herhangi bir şekilde onlardan devralacak olanları bağlayacağı, 7/c-b-e maddesinde; kat mülkiyetine ilişkin borç ve yükümlülüklerini yerine getirmeyen kat maliklerine ve görevinin kapsamına giren işler nedeniyle üçüncü şahıslara karşı kat maliklerini temsilen dava açacağı, icra takibinde bulunacağı, kat malikleri kurulu kararlarının iptaline ilişkin olarak veya görevinin kapsamındaki işler nedeniyle kat malikleri veya üçüncü şahıslar tarafından açılan davalarda diğer kat maliklerini temsil edeceği, bu konudaki yargılama giderlerinin ve avukatlık ücretinin ortak giderlerden karşılanacağı, 8/c-b-e maddesinde; kat mülkiyetine ilişkin yükümlülüklerini yerine getirmeyen kat maliklerine ve yapmaya yetkili olduğu işler nedeniyle üçüncü şahıslara karşı kat maliklerini temsilen dava açacağı, toplu yapı kat malikleri kurulu kararlarının iptaline ilişkin olarak veya yapmaya yetkili olduğu işler nedeniyle kat malikleri veya üçüncü şahıslar tarafından açılan davalarda diğer kat maliklerini temsil edeceği, bu dava ve takiplere ilişkin olarak
@@ -36,9 +40,13 @@ görevlendirilen avukatlara verilecek ücretler ve yargılama giderlerinden kar�
 
 ## Yargıtay HGK 2006/473 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76919400)
+
 Yargıtay'ın yerleşmiş uygulamalarına göre kat malikleri kurulu kararlarının iptali davalarında husumetin karara olumlu oyları ile katılan tüm bağımsız bölüm maliklerine yöneltilmesi gerekir. Mahkemece, davalı kat malikleri dışında kalan ve iptali istenilen karara olumlu oyları ile katılan kat maliklerinin saptanıp bunların da yöntemince davaya dahil edilmeleri gerekirken, taraf teşkili sağlanmadan esas hakkında hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay HGK 2005/130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76637200)
 
 Oysa Yargıtay’ın kararlılık kazanmış uygulamalarında Kat Mülkiyeti Yasasının özel ve mutlak nisap öngördüğü hususlara ilişkin kararlar dışındaki, aidatların belirlenmesi gibi mutad yönetim işlerine ilişkin kat malikleri kurulu kararlarının iptal edilmedikçe Yasanın 32.maddesinin ikinci fıkrasının buyurucu hükmü gereği olarak bütün kat maliklerini bağlayacağı kabul edilmektedir. Adi çoğunlukla alınabilen kararların , yönetim planı hükümleriyle çelişkili olması durumunda bunun iptalini, karara olumlu oylarıyla katılmayan maliklerden herbirisinin mahkemeden istemesi mümkündür. Nitekim somut olayda davaya dayanak yapılan kat malikleri kurulu kararlarının iptali istemiyle bir dava da açılmış olup, kararın yasaya ve yönetim planına uygunluğu o davada değerlendirilip tespit edilecektir.Müstakil bir davaya konu edilmiş hususun eldeki davada ayrıca irdelenmesi olası değildir.
 İptal istemiyle açılan davanın sonucuna göre bir hak doğarsa bunun geri istenebileceği de kuşkusuzdur.Öte yandan, Kat Mülkiyeti Yasasının 37.maddesine göre işletme projesinin kat malikleri kurulu kararıyla belirlenmiş olması halinde yöneticinin ayrıca bir işletme projesi hazırlamasına gerek olmayıp bu husustaki kat malikleri kurulu kararının doğrudan uygulanmaya konulması yeterlidir.
@@ -52,10 +60,14 @@ amacıyla başlatılan icra takibine itirazın iptali davasında mahkemece dava 
 
 ## Yargıtay 5. HD 2025/7760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188093500)
+
 Gider ve avans payının tamamını ödemeyen kat maliki ödemede geciktiği günler için aylık yüzde beş hesabıyla gecikme tazminatı ödemekle yükümlüdür." hükmü gözetilerek yasal oranın üzerinde gecikme tazminatı oranı belirlenmesi Kanunun emredici hükmüne aykırı olduğundan geçersiz olduğu, zira aidat borçlarını süresinde ödemeyen kat malikinin ödemede geciktiği günler için aylık %5 oranında gecikme tazminatı ödemekle yükümlü kılınması asıl olup, tüm kat maliklerince oy birliği ile alınmış bir karar olmadıkça kat malikinin yasal oranın üstünde gecikme tazminatından sorumlu tutulmasının mümkün olmadığı, diğer kararlar yönünden yapılan toplantılarda alınan kararlar yok hükmünde olmayıp davanın süresinde açılmadığının kabulü gerektiği; ancak gecikme tazminatının %10 olarak alınmasına ilişkin karar oybirliği ile alınmadığından geçersiz ve yok hükmünde olduğu, bu karara karşı açılan davanın süresinde kabul edilmesi ve yasal gecikme tazminatı oranının yükseltilmesine ilişkin kararın geçersiz olması nedeniyle bu kararın iptali gerektiğinden davanın kısmen kabulü ve kısmen reddi gerekirken yanılgılı değerlendirme ile davanın kabulüne karar verilmesinin doğru görülmediği gerekçesiyle İlk Derece
 Mahkemesi kararı kaldırılarak yeniden esas hakkında hüküm kurulmak suretiyle davanın kısmen kabul kısmen reddine, Kat Malikleri Kurulunun 10.02.2021 tarihli olağanüstü toplantısının 13 üncü maddesinde yer alan; "Ocak 2021 tarihinden bu güne ödemeyi geciktirenler ve bundan sonraki gecikmeler için aylık aidattan her ay için yüzde on(%10) temerrütle gecikme zammı alınmasına" ilişkin alınan karar yok hükmünde olduğundan iptaline, Kat Malikleri Kurulunun 10.02.2021 tarihli olağanüstü toplantısında alınan diğer kararlar yönünden davanın bir aylık hak düşürücü süre içerisinde açılmadığı gözetilerek fazlaya ilişkin talebin reddine karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/5434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153128300)
 
 Mahallesi 221 ada 14 parsel sayılı bahçeli kargir dubleks ev vasıflı taşınmazın maliki olduğu, davacının da imzası bulunan 19.07.2008 tarihli üst yönetim planı ile ... ilçesi, ...
 Mahallesi 220 ada 1 ilâ 28 parseller ile 221 ada 1 ilâ 28 parsellerin birlikte yönetileceğinin kararlaştırıldığı, anılan parseller üzerinde kurulu bulunan davalı sitede toplu yapı yönetimine geçilmediği, tapuda kayıtlı yönetim planının olmadığı, davacı tarafça eldeki davanın, davalı site yönetiminin 634 sayılı Kanun hükümlerine uygun olarak oluşturulmuş bir toplu yapı yönetimi olmadığı, bu nedenle genel kurul toplantısı yapması ve davacıdan aidat talep etmesinin yasal olarak mümkün olmadığı iddiaları ile açıldığı, eda davası açma imkanı var iken tespit davası açılamayacağı, somut olayda davacı tarafça eda nitelikli, genel kurul kararlarının iptali, meni müdahale ve sair talepler ile dava açma imkanları var iken, bu yönde dava açmayıp, dava dilekçesinde talep konusu yapılan hususların tespiti istemi ile dava açılmasında davacının güncel hukuki yararının bulunmadığı, eda davası açılabilecek hâllerde tespit davası açılmasında davacının hukuki yararının bulunmadığı gerekçesiyle davanın dava şartı yokluğu nedeniyle usulden reddine karar vermek gerekirken, kararda yazılı gerekçeler ile davanın esastan reddine karar verilmesinde isabet görülmediği, dosya
@@ -65,10 +77,14 @@ Hukuk Dairesinin 2022/354 Esas, 2022/4579 Karar sayılı ilâmı ile onanarak ke
 
 ## Yargıtay 5. HD 2025/3295 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134840200)
+
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararıyla kat mülkiyeti kurulu, 31.08.2006 tarihli yönetim planı ile yönetilen 13450 ada 2 parsel sayılı A, B ve C bloktan oluşan, 1/48 eşit paya sahip 48 adet bağımsız bölümü bulunan taşınmaz üzerindeki sitede, B blok (6) numaralı bağımsız bölümün dava tarihinde davacı adına kayıtlı olduğu, ana taşınmaza ilişkin tapuda tescilli yönetim planının 21 inci maddesine göre, olağan toplantının her yıl Ocak ve Ekim aylarının ilk on günü içinde yapılması gerektiği, iptali talep edilen 14.07.2019 tarihli toplantının 2. toplantı niteliğinde olduğu, toplantıya davacının katıldığı ve tüm kararlara muhalif olduğuna dair muhalefet şerhi düştüğü, iptali talep edilen toplantıya vekillere verilen bazı vekâletnamelerin geçersizliği nedeniyle 22 bağımsız bölüm malikinin katıldığı, 634 sayılı Kanun'un 30 uncu maddesi gereği 2. olağanüstü toplantıda toplantı yeter sayısının katılanlar ve karar yeter sayısının da katılanların salt çoğunluğu olduğu, ancak Kanun'da nitelikli çoğunlukla alınması gereken kararlar yönünden alınan kararlarda karar yeter sayısının sağlanması gerektiği, iptali talep edilen toplantıya davacının katıldığı, davanın
 süresinde açıldığı, davacının toplantıya katılması nedeniyle toplantıya çağrının usulüne uygun yapılmadığına dair iddialarına itibar edilemeyeceğinden İlk Derece Mahkemesince bu gerekçe ile toplantıda alınan kararların tamamının iptaline karar verilmesinin doğru olmadığı, toplantı ve karar yeter sayısı aranmayan 2. toplantıda alınan kararlardan yönetici ve denetçi seçimine ilişkin kararların 634 sayılı Kanun'un 34 üncü ve 41 inci maddeleri gereğince hem arsa payı, hem de sayı çoğunluğu sağlanarak alınması gerektiği, Mahkemece iptali talep olunan 14.07.2019 tarihli olağanüstü 2. toplantıda yönetici ve denetçi seçimine ilişkin kararların iptaline karar verilmesi ile yetinilmesi gerekirken tamamının iptalinin yerinde olmadığı gerekçesiyle davalı vekilinin istinaf başvurusunun kabulü ile davanın kısmen kabulüne, yönetici ve denetçi seçimine ilişkin kararların iptaline, toplantıda alınan diğer kararların site için faydalı işler niteliğinde olduğu ve nitelikli çoğunluk gerektirmediğinden bu kararlar yönünden davanın reddine karar verilmiştir.
 
 ## Yargıtay 5. HD 2024/5880 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060354900)
 
 Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan temyiz incelemesi neticesinde talep sonucundan daha azına karar verebilir. Talep olmadığı hâlde, kanuna aykırı olarak, toplantıda alınan bütün kararların iptaline karar verilmesi, Ayrıca, dava konusu toplantının olağanüstü toplantı olduğu ve 634 sayılı Kat Mülkiyeti Kanunu'nun (634 sayılı Kanun) 29 unu maddesinin ikinci fıkrasına göre davacıya davet/çağrı yapılmadığı anlaşılmakta ise de bu husus 634 sayılı Kanun'un 33 üncü maddesine göre yok veya butlan sebebi olmayıp, iptal edilene kadar geçerlidir. Toplantıya davet şartından toplantının veya bütün kararlarının iptaline karar verilebilmesi için davanın 1 ve 6 aylık hak düşürücü süreler içerisinde açılması gerekir. Mahkemece kararda belirtilen, Yargıtay (Kapatılan) 18. Hukuk Dairesinin 2015/15030 Esas sayılı ilamının incelenmesinde, dava hak düşürücü süre içerisinde açılmış olup, somut olay ile uyuşmamaktadır.
 O halde, davacıya olağanüstü toplantı daveti yapılmadığı gerekçesi ile hak düşürücü süre geçtikten sonra açılan davada, toplantı kararlarının iptaline karar verilmesi, Toplantıda alınan “çatıya itfaiye merdiveni ile pencere açılması…” kararının, kanunun aradığı karar nisabı ile alınmaması halinde 634 sayılı Kanun'un 33 uncu maddesine göre butlanla hükümsüz olacağından dava için bir süre bulunmamaktadır.
@@ -80,21 +96,31 @@ oluşturacak şekilde hüküm kurulması doğru görülmediğinden hükmün bozu
 
 ## Yargıtay 5. HD 2023/8417 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/973351300)
+
 Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan inceleme sonucunda, somut olayda mantolama yapılmasına ilişkin ilgili kat malikleri kurul kararlarının iptal edildiği tespit edilmişse de eksik işler olsa da ana taşınmaza mantolama yapıldığına göre tarafların delillerinin toplanarak yukarıda açıklanan ilgili maddeler de gözönünde bulundurularak oluşacak sonuca göre karar verilmesi gerekirken yazılı şekilde karar verilmesi, ilgili parsellere ait ayrı yönetim planları dosya içerisinde mevcut olmakla ayrıca dava konusu ana taşınmaza ait geçerli tek bir yönetim planının olup olmadığı araştırılarak, tespit edilmesi halinde dosya içerisine alınması gerekmektedir. Tespit edilmemesi halinde ise mevcut yönetim planları çerçevesinde uyuşmazlığın değerlendirilmesi gereğine değinilerek kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 6. HD 2023/2210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919317900)
 
 (Ek fıkra: 14.11.2007 – 5711/19 md.) Kat malikleri kurulu, ada temsilciler kurulu veya toplu yapı temsilciler kurulu kararlarının iptaline ilişkin davalar, kat maliklerini temsilen yöneticiye, toplu yapılarda ise ada temsilciler kurulu veya toplu yapı temsilciler kurulunca seçilen yöneticiye husumet yöneltilmesi suretiyle açılabilir. Yönetici, açılan davayı bütün kat maliklerine ve ada veya toplu yapı temsilciler kuruluna duyurur. Kurul kararının iptali halinde bu konudaki yargılama giderleri ortak giderlerden karşılanır.’’…
 
 ## Yargıtay 6. HD 2022/1551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/745567600)
+
 (Ek fıkra: 14.11.2007 - 5711/19 md.) Kat malikleri kurulu, ada temsilciler kurulu veya toplu yapı temsilciler kurulu kararlarının iptaline ilişkin davalar, kat maliklerini temsilen yöneticiye, toplu yapılarda ise ada temsilciler kurulu veya toplu yapı temsilciler kurulunca seçilen yöneticiye husumet yöneltilmesi suretiyle açılabilir. Yönetici, açılan davayı bütün kat maliklerine ve ada veya toplu yapı temsilciler kuruluna duyurur. Kurul kararının iptali halinde bu konudaki yargılama giderleri ortak giderlerden karşılanır.’’…
 
 ## Yargıtay 5. HD 2021/1254 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663360000)
+
 6100 sayılı HMK nın 362/1-b maddesi gereğince, 23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar temyize tabidir. Bu durumda mahkemece, toplantı ve kararların iptali istemleri hakkında verilen kararların temyizi yönünden, alınan kararlardan taşınmazın aynına ilişkin karar bulunup bulunmadığı incelemek suretiyle karar verilmelidir. Davada 2017/4 nolu toplantıda alınan kararlarının iptali istendiğine göre, toplantıda alınan 13. ve 14. kararlar taşınmazın aynı ile ilgili olup dava temyize tabidir. Açıklanan nedenle, mahkemenin temyiz dilekçesinin reddine ilişkin kararının kaldırılmasına karar verilerek dosyanın incelenmesinde:…
 
 ## Yargıtay 20. HD 2019/6598 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560831100)
 
 Kat Mülkiyeti Kanununun 20. maddesinin ikinci fıkrası hükmüne göre, ortak giderden payına düşeni ödemeyen bağımsız bölüm malikinin, ödemede geciktiği günler için ödemekle yükümlü bulunduğu gecikme tazminatının başlangıç gününün açıkça saptanmış ve yönetim planında gecikme faizinin oranına ilişkin ayrıca bir düzenleme bulunup bulunmadığının belirlenmiş olması gerekir. Dava konusu ortak giderin, dayanağını oluşturan düzenleme; işletme projesi ise işletme projesinin davalıya tebliğ edildiği tarih, kat malikleri kurulu kararı ise söz konusu kurul kararının iptal edilip edilmediği, halen geçerli olup olmadığı, bu kurula davalı katılmışsa karar tarihi, kararın alındığı toplantıya katılmamışsa bu kararın kendisine tebliğ edildiği ya da başka bir biçimde borcunu öğrendiği tarih, bu da yoksa hakkında açılan icratakibi nedeniyle ödeme emrinin tebliğ edildiği tarih esas alınmalıdır.
 O halde; öncelikle aidat borcunun doğduğu dönemlere ilişkin alınan kat malikleri kurulu kararlarına ait belgelerin (toplantı çağrı davetiyeleri, toplantı çağrısına ilişkin tebligatlar, toplantı tutanakları, toplantıda alınan kararların kat maliklerine tebliğine ilişkin tebliğ mazbataları, hazirun cetveli, gündem... vs.) bütün olarak bilirkişiye tevdi edilerek, bu kararların iptal edilip edilmediği, iptal edilmediyse kararların davalıya tebliğ edilip edilmediği tespit edildikten sonra, temerrüt tarihinin duraksamaya yer vermeyecek şekilde tespit edilmesi, davalının aidat borcunu öğrendiği günün açıkça belirlenmesi, temerrüt var ise bu tarihten itibaren gecikme faizine hükmedilebileceği, icra takibinden önce öğrenmediği saptandığında gecikme tazminatının ödeme emrinin tebliğinden itibaren başlatılması gerekirken, bu konuda yeterli inceleme ve araştırma yapılmadan karar verilmesi doğru görülmemiştir.
@@ -102,9 +128,13 @@ Mahkemece; tarafların tüm delilleri, banka kayıtları, ödeme belgeleri celbe
 
 ## Yargıtay 20. HD 2019/5102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537709400)
+
 KMK’nın 33. maddesinde belirtilen 1 ve 6 aylık süreler içerisinde dava açılıp açılmadığı hususu incelenmeli, alınan kararların mahiyeti itibariyle butlanla yada yoklukla malul olup olmadığı hususu değerlendirilip, bu konuda uzman bilirkişilerden hükme ve denetime elverişli rapor alındıktan sonra oluşacak sonuca göre iptali istenen toplantıda alınan kararlar ve talepler açısından kabul veya ret nedenleri ile gerekçeli ve talepleri tek tek karşılar nitelikte hüküm kurulması gerekirken, yetersiz araştırma ve eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2019/3558 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513746400)
 
 Dosyada bulunan bilgi ve belgelere göre, dava konusu sitede 96 bağımsız bölüm bulunduğu, iptali istenen kat malikleri kurulu toplantısının ikinci toplantı olup toplantıya 11 asil ve 24 vekaleten olmak üzere toplam 35 bağımsız bölüm malikinin katıldığı anlaşılmıştır. Kat
 
@@ -112,14 +142,20 @@ Mülkiyeti Kanununun yönetici ve denetçi atanmasıyla ilgili 34 ve 41. maddele
 
 ## Yargıtay 20. HD 2019/1242 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481833500)
+
 Kural olarak, kat malikleri kurul kararlarının iptali ancak kat malikleri tarafından dava edilebilir. İstisnai hallerde, dava açmakta hukuki yararı bulunan kimseler kat maliki olmasalar bile ilgili hükümden yararlanmaktadır. Kat malikleri kurul kararlarına karşı dava açmak için kararın özel bir çıkarla ilgili olması, hak ve yararlarını doğrudan zedelemesi gerekir.
 
 ## Yargıtay 20. HD 2019/43 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478248500)
 
 634 sayılı Kat Mülkiyet Kanununun 5711 sayılı Kanunla değişik 33. maddesinin birinci fıkrası gereğince kat malikleri kurulunca verilen kararlar aleyhine oy kullanan kat maliki karar tarihinden başlayarak bir ay içinde, toplantıya katılmayan kat maliki ise kararı öğrenmesinden başlayarak bir ay içinde ve her halde altı ay içinde anataşınmazın bulunduğu yerdeki sulh mahkemesine iptal davası açabilir; kat malikleri kurulu kararlarının yok veya mutlak butlanla hükümsüz sayıldığı durumlarda süre koşulu aranmaz” hükmünü içermektedir. Dosya içerisinde bulunan bilgi ve belgelerden; özellikle iptale konu 06/08/2011 tarihli kat malikleri kurul toplantısına , davacının katıldığı ve toplantıda alınan kararların ilk tutulan tutanak ile sonradan yazılan bilgisayar çıktısı arasında fark olması sebebiyle yok hükmünde olduğunun tespitini istediği anlaşılmaktadır.
 Öncelikle davacının alınan kararların neler olduğu ve ne şekilde değiştirildiği hususunda açıklayıcı bir beyanı olmadığından öncelikle alınan kararlardan her birinin ayrı ayrı mutlak butlan yahut yoklukla malul olup olmadıkları değerlendirilmesi, böyle bir kararın bulunmaması halinde ise davanın süresinde açılıp açılmadığı hakkında bir karar verilmesi gerekirken eksik araştırma ve inceleme sonucu yazılı olduğu şekilde alınan kararların yok hükmünde olduğunun tespitine şeklinde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/7990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466875300)
 
 Kural olarak, kat malikleri kurulu kararlarının iptali ancak kat malikleri tarafından dava edilebilir. İstisnai hallerde, taşınmazı kullananlar da bağımsız bölümü yasa, yönetim planı ve sözleşme hükümleri uyarınca kullanmalarına ve ondan yararlanmalarına engel olan veya bunu kısıtlayan kurul kararlarının iptalini isteyebilirler. Dosyada bulunan tapu kayıtlarına göre davacılardan ... kat maliki değildir. Bu nedenle davacı ...’in aktif husumet ehliyetinin
 
@@ -127,33 +163,47 @@ var olup olmadığının tespiti için bu davacının kullandığı herhangi bir
 
 ## Yargıtay 20. HD 2018/6102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/444466800)
+
 Dosyada ki bilgi ve belgelerin incelemesinden; davacının, eski yöneticilere ve apartmanın bakım ve onarım işleri için anlaşılan firmaya karşı kat malikleri adına maddi tazminat kaynaklı alacak talebinde bulunduğu anlaşılmaktadır. Mahkemece davacının yönetici seçildiği 12/02/2012 tarihli toplantının yok hükmünde olduğu ve davacının aktif taraf ehliyetine sahip olmadığı gerekçesi ile davanın reddine karar verilmiş ise de bu karar yanlıştır. Şöyle ki; Anataşınmazda yönetimin sürekliliği esas olup yönetici ve denetici seçimine ilişkin kararlar iptal edilinceye kadar geçerli olduğundan yok hükmünde sayılamazlar. Kat malikleri kurulu kararının iptalinin istenebilmesi için Kat Mülkiyeti Kanununun 33. maddesi uyarınca kararın öğrenilmesinden başlayarak bir ay her halde karar tarihinden başlayarak altı ay içerisinde iptal davası açılması gerekir. Somut olayda davacının yönetici seçildiği toplantının iptali için dava açıldığını gösteren bir belge mevcut olmadığı gibi, davacının dava tarihinde yönetici sıfatının bulunduğu ve aktif taraf ehliyetine sahip olduğu anlaşılmaktadır.
 Tüm bu nedenlerle işin esasına girilmesi gerekirken davacının aktif taraf ehliyetinin bulunmadığından bahisle davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/5655 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433491900)
+
 634 sayılı Kat Mülkiyet Kanununun 5711 sayılı Kanunla değişik 33. maddesinin birinci fıkrası gereğince kat malikleri kurulunca verilen kararlar aleyhine oy kullanan kat maliki karar tarihinden başlayarak bir ay içinde, toplantıya katılmayan kat maliki ise kararı öğrenmesinden başlayarak bir ay içinde ve her halde altı ay içinde anataşınmazın bulunduğu yerdeki sulh mahkemesine iptal davası açabilir; kat malikleri kurulu kararlarının yok veya mutlak butlanla hükümsüz sayıldığı durumlarda süre koşulu aranmaz” hükmünü içermektedir. Dosya içerisinde bulunan bilgi ve belgelerden; özellikle iptale konu 11.05.2014 tarihli kat malikleri kurul kararı, hazirun cetvelinden davacının iptale konu 11.05.2014 tarihli toplantıya katıldıkları ve iptale konu toplantıda alınan kararlar incelendiğinde yok hükmünde olmasını veya mutlak butlanla hükümsüz sayılmasını gerektiren bir neden de bulunmadığından, 11.05.2014 tarihli toplantı yönünden 1 aylık süre içerisinde açılmadığı gözetilerek süre yönünden reddine karar verilmesi gerekirken yönetici ve denetçi seçimine ilişkin kararların iptali şeklinde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/3846 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427447000)
+
 Kat malikleri kurulu kararının iptalinin istenebilmesi için Kat Mülkiyeti Kanununun 33. maddesi uyarınca kararın öğrenilmesinden başlayarak bir ay her halde karar tarihinden başlayarak altı ay içerisinde iptal davası açılması gerekir. Somut olayda davacı taraf iptali istenen kararın kendisine tebliğ edilmediğini davalı taraf ile davacının 29/01/2014 tarihi itibariyle yeni aidat miktarını yatırdığından karardan haberdar olduğunu beyan etmiştir. Dosya içindeki bilgi ve belgelerden yönetim planının bulunmadığı anlaşılmaktadır.
 
 ## Yargıtay 20. HD 2018/3482 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426270700)
 
 Dosya da ki bilgi ve belgelerin incelemesinden; davacının, eski yöneticinin anataşınmaza ait belge ve defterleri teslim etmediğinden bahisle hakimin müdahalesi talebinde bulunduğu anlaşılmaktadır. Mahkemece davacının yönetici seçildiği 18/04/2015 tarihli toplantının yok hükmünde olduğu ve davacının aktif taraf ehliyetine sahip olmadığı gerekçesi ile davanın reddine karar verilmiş ise de bu karar yanlıştır. Şöyle ki; Anataşınmazda yönetimin sürekliliği esas olup yönetici ve denetici seçimine ilişkin kararlar iptal edilinceye kadar geçerli olduğundan yok hükmünde sayılamazlar. Kat malikleri kurulu kararının iptalinin istenebilmesi için Kat Mülkiyeti Kanununun 33. maddesi uyarınca kararın öğrenilmesinden başlayarak bir ay her halde karar tarihinden başlayarak altı ay içerisinde iptal davası açılması gerekir. Somut olayda davacının yönetici seçildiği toplantının iptali için dava açıldığını gösteren bir belge mevcut olmadığı gibi, Dairemizin 2017/4199 Esas - 2017/9318 Karar sayılı 13/11/2017 tarihli geri çevirme ilamı ile istenilen karar defterinden de davacının dava tarihinde yönetici sıfatının bulunduğu ve aktif taraf ehliyetine sahip olduğu anlaşılmaktadır.
 Tüm bu nedenlerle işin esasına girilmesi gerekirken davacının aktif taraf ehliyetinin bulunmadığından bahisle davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/3441 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426191700)
+
 Birleşen dava dosyasında davacı ... 05.01.2016 tarihli kat malikleri kurul kararının iptalini istemiş olmasına rağmen mahkemece 19.01.2014 tarihli genel kurul kararının iptalinin istendiği kabul olunarak bu karara katılıp muhalefet şerhi vermediği gerekçesiyle davanın reddine karar verilmiş olması yerinde olmadığı gibi iptali istenen 05.01.2016 tarihli genel kurul kararının eldeki ana dosyanın talebi ile bağlantılı olduğu anlaşılmakla mahkemece davacının talebi doğrultusunda 05.01.2016 tarihli kat malikleri kurul kararına ilişkin tüm kayıt ve belgelerin getirtilip bu konuda karar verilmesi ve oluşacak sonuca göre de diğer taleplerin irdelenmesi gerektiğinden eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2017/10686 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388619300)
 
 İdare Mahkemesine açılan dava ile ilgili olarak yapılan masrafların yönetim hesabına iadesine, Tebligat Kanunu'na aykırı olarak alınan kararların iptaline, 15/01/2012 tarihli kat malikleri kurulunca alınan kararın iptaline, yöneticinin hakim tarafından belirlenmesine, yaptırılan asansöre ilişkin tüm belgelerin getirtilmesine, asansör bedelinin tespit edilerek 8 numaralı bağımsız bölüm malikinin masrafa katkısının tespitine karar verilmesi istemiyle dava açmıştır.22.05.2012 tarihli oturumda ise; mimari projede tahrifat olup olmadığının tespiti ve eski hale getirilmesi, mimari projeye aykırı demir kapının kaldırılması, 25.12.2009 tarihli toplantının tarafına tebliğ edilmesi, yakıt parası olarak fazladan alınan paranın tespit edilip tarafına iadesi, 2009 yılı Kasım ve Aralık ayları için ferdi ısınma sistemine geçiş için fazladan alınan 498 TL’nin tarafına iadesi, yönetici tarafından idare mahkemesinde açılan dava sebebiyle ödenen yargılama giderlerinden payına düşen miktarın tarafına iadesi, asansörün yapımı için 8 nolu bağımsız bölüm maliki tarafından ne kadar ödeme yapıldığının ve asansörün hangi firmaya yaptırıldığının tespiti, 15.01.2012 tarihli genel kurul kararının
 
 iptali, yöneticinin mahkemece belirlenmesi istemlerinde bulunmuştur. Daha sonraki oturumlarda ise dava dilekçesini tekrar ettiğini belirtmiştir. Mahkemece; tapu müdürlüğünden ve Belediye İmar Müdürlüğünden gelen mimari proje ve tadilat projesinin incelemesi sonucunda projelerde herhangi bir tahrifatın bulunmadığı, projeye aykırılık tespit edilemediğinden bu konuda eski hale getirme hususunda davacının taleplerinin yerinde olmadığı, mahallinde yapılan keşifte bodrum katına iniş merdiveni başına demir kapı konduğu, bu demir kapının projesinde yer almayıp güvenlik amacı ile konulduğu, güvenlik amacı ile konulmuş olsa da söz konusu demir kapının projesinde olmaması nedeniyle projeye aykırılık teşkil ettiği, demir kapının kaldırılması gerektiği, öte yandan incelenen ... 4.
 
 ## Yargıtay 20. HD 2017/10546 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388075300)
 
 Dava 31.05.2013 tarihli kat malikleri kurul kararının iptali istemidir.Davacının talebi 31.05.2013 tarihli kat malikleri kurul kararlarının iptali istemini ilişkin olup dava site yönetimine karşı açılmıştır.
 Mahkemece her ne kadar değişik gerekçelerle davanın reddine karar verilmişse de, dosya kapsamında iptali istenen kat malikleri kurul kararının 31.05.2014 tarihli olduğu, 08.11.1985 tarihli Yönetim Planının 20. maddesine göre “olağan toplantıların her yıl Ocak ve Haziran aylarında yapılacağının belirtildiği bu haliyle iptali istenen toplantının niteliği itibariyle olağan olmayıp, olağanüstü toplantı mahiyetinde olduğu, 634 sayılı Kanunun 29. maddesine göre olağanüstü toplantı için gerekli koşulların oluşup oluşmadığı belirlenip, buna göre karar verilmesi gerektiği gözardı edildiği gibi, davacının dilekçesinde kat malikleri kurul kararının iptalini istediği ayrıca 634 sayılı Kanunun 24. maddesine göre mesken olan yerin işyeri olarak kullanılmasını istemediği hususları da davacıya açıklattırılıp, toplanan delillere göre karar verilmesi gerekirken yazılı olduğu şekilde hüküm tesisi isabetsiz temyiz itirazları yerinde görüldüğünden hükmün BOZULMASINA, temyiz harcının istek halinde iadesine 13/12/2017 günü oy birliği ile karar verildi.

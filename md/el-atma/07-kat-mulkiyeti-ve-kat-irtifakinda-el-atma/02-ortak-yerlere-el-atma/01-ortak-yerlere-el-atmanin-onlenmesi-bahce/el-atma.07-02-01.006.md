@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 11. HD 2022/8216 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849867300)
+
 Davacı vekili; taraflar arasında 406 sayılı kanuna dayalı olarak protokoller imzalandığını, müvekkili şirketin tesislerine davalı tarafından izinsiz olarak yeni alt yapı döşeme çalışmaları yapılmasının yasaya aykırı olduğunu, davalının eylemleri nedeniyle müvekkilinin şebekelerinin zarar gördüğünü, 406 sayılı Kanunda açıkça ortak yerleşim alanları ve kablo TV alt yapı tesislerinin ne şekilde paylaşılacağı ve bu alt yapının bakım ve işletmesinin ne şekilde yürütüleceğinin düzenlendiğini, müvekkiline ait yer altı veya direkli güzergah düzenlemelerinde Kablo TV şebekesi ve eklentilerinin davalı tarafından taşınacağını, ortak F/O kabloların müvekkili tarafından taşınarak buna ilişkin masrafların kapasite oranında taraflarca paylaştırılacağını, davalının ortak altyapı tesislerine müdahalesi mümkün olmadığı gibi 31/12/2005 tarihinden sonra mevcut kablo TV şebekesine ilave yapılabilmesinin ancak müvekkilinin diğer işletmecilere sağladığı şartlar dahilinde mümkün olabileceğini, herhangi bir ücret ödenmeksizin fiber optik kablo deplase ve bakım çalışması adı altında kapasite artırımına gidilmesi ya da ilave şebeke tesisi, tüm kurulum ve işletme giderinin müvekkili şirketçe karşılanan alt
 yapının ücretsiz kullanılmasının piyasada faaliyet gösteren diğer işletmeciler aleyhine haksız rekabet yaratacağını ileri sürerek davalının haksız müdahalelerin tespiti ile men'ine, 31/12/2005 tarihinde sonra yapılan değişikliklerin eski haline getirilmesine karar verilmesini talep etmiş, yargılama aşamasında taraflar arasındaki protokol kapsamında diğer işletmecilere müvekkiline ait alt yapıların kullandırılması hususunda öngörülen düzenlemelere göre müvekkiline ait alt yapıda bulunan davalıya ait tesislerin imal edildiği tarihten itibaren müvekkiline 3.987.619,82 TL yer altı güzergahlarını kullanım ücreti ödemesi gerektiğini belirterek şimdilik 3.987.619,82 TL kullanım bedelinin uygulanacak ticari faiziyle birlikte davalıdan tahsiline karar verilmesi yönünde davasını ıslah etmiştir.
 
@@ -41,6 +43,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacı-karşı d
 
 ## Yargıtay 7. HD 2022/8111 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857075000)
+
 Dava, el atmanın önlenmesi, yıkım ve ecrimisil istemine ilişkindir.
 
 Davacılar vekili, müvekkili şirketin davaya konu 11074 parsel sayılı taşınmazda hissedar olduğunu, yapılan aplikasyon ve sınır tespiti çalışması sonucunda 7913 parselin duvar ve müştemilatının müvekkilin parseline tecavüz ettiğinin ortaya çıktığını belirterek; müvekkilinin 11074 parselde malik olduğu 02.08.2013 tarihinden itibaren dava tarihine kadar dönemsel faizleriyle birlikte şimdilik 1.000,00 TL ecrimisil ile el atmanın önlenmesini ve tecavüzlü kısımların yıkılmasını talep etmiştir.
@@ -56,6 +60,8 @@ O halde mahkemece davalının savunması yönünde el atmanın önlenmesi ve kal
 SONUÇ: Yukarıda açıklanan nedenle temyiz itirazlarının kabulü ile HMK 373/1. maddesi gereğince temyiz olunan Bölge Adliye Mahkemesi kararının kaldırılmasına …
 
 ## Yargıtay 5. HD 2022/4753 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761894900)
 
 Davacı vekili, davalının projeye aykırı olarak 200 m2 ilave yaptığını beyanla projeye aykırılıkların eski hale getirilmesini istemiştir.
 
@@ -73,6 +79,8 @@ Davalı vekilinin temyiz itirazlarının kabulü ile şimdilik diğer yönleri i
 
 ## Yargıtay 5. HD 2022/2918 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740349500)
+
 Davacılar vekili, davalıların taşınmazın ortak alanına müdahale ederek kapalı alan oluşturup işyerlerine kattıklarını beyanla, müdahalenin önlenmesi ve projeye aykırılıkların kal’ini istemiştir.
 
 Mahkemece davanın kabulüne karar verilmiş, davalı vekilinin istinaf başvurusu üzerine, Gaziantep Bölge Adliye Mahkemesi 4. Hukuk Dairesi'nce istinaf başvurusunun kabulü ile mahkeme kararının kaldırılmasına ve davanın reddine karar verilmiş, davacılar vekili kararı temyiz etmiştir.
@@ -89,6 +97,8 @@ Davacılar vekilinin temyiz itirazlarının kabulü ile Gaziantep Bölge Adliye 
 
 ## Yargıtay 5. HD 2022/2301 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736031600)
+
 Davacı vekili, Kat Mülkiyeti Kanunu'nun 42. maddesine aykırı olarak oyçokluğu ile alınan kararla merkezi sistemden ferdi sisteme geçildiğini beyanla, projeye aykırılığın giderilerek merkezi sisteme geçilmesine ve dış cephe tadilatının alınan genel kurul kararına göre yaptırılmasına karar verilmesini istemiştir.
 
 Mahkemece davanın kısmen kabulü ile merkezi ısıtma sisteminin geçilmesine ilişkin talebin reddine, ortak alan olan teras dış cephe tadilatının yönetimce kararın kesinleşmesine itibaren 30 gün içinde yaptırılmasına, giderlerin arsa payı oranlarına göre maliklerden karşılanmasına, süresinde yapılmaması halinde İKK'nın 30. maddesinde infazda değerlendirilmesine karar verilmiş, kararın temyizi üzerine Yargıtay (kapatılan) 18. Hukuk Dairesi'nin 28.05.2015 gün ve 2014/20046 E.- 2015/8871 K. sayılı ilamı ile hükmün merkezi ısıtma sisteminin geçilmesi istemi yönünden bozulmasına karar verilmiştir.
@@ -101,6 +111,8 @@ yazılmasına, …
 Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2022/2165 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736518900)
 
 Davacı vekili dava dilekçesinde; davalının onaylı mimari proje gereği sadece projede B02 olarak adlandırılan Oda ile B07 olarak adlandırılan Merdiven yazılı bölümlerin maliki iken ve hukuken buraları kullanmaya ehil iken sadece buraların kullanımı ile yetinmemiş bu kattaki ortak alan içerisinde yer alan bölümlere de haksız ve hukuka aykırı olarak el atmış bulunduğunu, müvekkilinin malik olduğu taşınmaza bağlı olarak kullanım hakkı bulunan ortak alandan yararlanabilmesinin mümkün olmadığını, zira davalının haksız surette ve geçerli bir neden olmaksızın kayden müvekkilinin de hak sahibi olduğu alanı tek başına işgal ettiğini, beyan ederek, ortak alanlara yapılan müdahalenin önlenmesine, onaylı mimari projeye aykırılık oluşturan değişikliklerin projesine uygun eski hale getirilmesine karar verilmesini istemiştir.
 
@@ -119,6 +131,8 @@ Yukarıda açıklanan nedenlerle ; temyiz olunan Bölge Adliye Mahkemesi kararı
 
 ## Yargıtay 5. HD 2022/1730 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733015400)
+
 Davacı vekili, ortak alanların kat maliklerinin oybirliği olmadan kiraya verildiğini beyanla, sözleşmenin iptalini, el atmanın önlenmesini ve eski hale getirilmesini istemiştir.
 
 Mahkemece davanın kısmen kabulü ile davalı site yönetiminin ortak alanların kiraya verilmesine dair kararın iptaline, davacının el atmanın önlenmesi ve ortak kullanım alanlarının eski hale dönüştürülmesi talebinin reddine karar verilmiş, davalılar vekilleri kararı temyiz etmiştir.
@@ -134,6 +148,8 @@ Mahkemece eksik bilgi ve belgeler dosya içerisine alınmak suretiyle davacını
 Davalılar vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle HUMK'un 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/1433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/746273800)
 
 Davacı vekili dava dilekçesinde özetle, ... ili ... ilçesi ...
 
@@ -153,6 +169,8 @@ Yukarıda açıklanan tüm bu nedenlerden dolayı, yerel mahkemece, davanın esa
 
 ## Yargıtay 5. HD 2022/695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/732056200)
+
 Mahkemece verilen 26/09/2015 tarihli, davanın kısmen kabulüne dair kararın taraflarca temyiz edilmesi üzerine Yargıtay 20. Hukuk Dairesi'nin 2017/1966 Esas, 2017/5838 Karar sayılı ilamı ile anataşınmaza ait yönetim planı hükümlerinin değerlendirilmemesi ve hükmün infaza elverişli olmaması sebebiyle bozulmasına karar verilmiştir.
 
 …
@@ -164,6 +182,8 @@ Ayrıca kabule göre de; eski hale getirme talepleri yönünden bilirkişi rapor
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/3737 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664650100)
 
 Davacılar vekili, 267 ada 3 parsel sayılı taşınmaz üzerinde bulunan ve zemin kattaki dükkan bölümünde yer alan sığınağın haksız işgali nedeniyle fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 8.000,00 TL ecrimisilin davalılardan müştereken ve müteselsilen tahsiline, aynı ada ve parselde yer alan bodrum katta yer alan kömürlük ve su deposu bölümünde yer alan sığınağın haksız işgali nedeniyle fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 5.000,00 TL ecrimisilin davalı ... Tük. Mal.
 
@@ -186,6 +206,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin yazılı temyiz it
 
 ## Yargıtay 5. HD 2021/3109 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680834700)
+
 Davacı vekili, apartmanın ön bahçesinin kiraya verilmesine ilişkin imza listesinin yok hükmünde olduğunun ve kira sözleşmesinin bağlayıcılığı olmadığının tespitine, apartmanın ortak yerlerine yapılan tadilatların kaldırılmasına ve apartman ortak kullanım alanının eski hale getirilmesine karar verilmesini talep etmiştir.
 
 Mahkemece davanın kabulüne karar verilmiş, davacı vekili istinaf başvurusunda bulunmuştur. Ankara Bölge Adliye Mahkemesi 17.
@@ -201,6 +223,8 @@ Kat Mülkiyeti Kanunun düzenlemesine göre, ortak gider ve avans borcundan ve g
 Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 8. HD 2021/2990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668716500)
 
 Davacı vekili, dava konusu 5286 parsel taşınmazdaki 10 nolu bağımsız bölümün davacıya ait olduğunu, davalıların davacının bağımsız bölümünün 1 odasının duvarını yıkarak kendi bağımsız bölümlerine kattıklarını, davalıların tecavüzü nedeniyle ... 2. Shm de 2010/380 Esas sayılı dosya ile tespit de yapıldığından bahisle davalıların müdahalelerinin men’ini talep etmiştir.
 
@@ -220,6 +244,8 @@ Hukuk Dairesinin 28.05.2015 tarihli ve 2014/20095 Esas ve 2015/8867 Karar sayıl
 SONUÇ: Yukarıda açıklanan nedenlerle davacı ...’ın karar düzeltme talebinin, 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla uygulanacak olan 1086 sayılı HUMK'un 442/3. maddesi gereğince kabulüne; Dairemizin 27.02.2020 tarihli ve 2018/4679 Esas ve 2020/1935 Karar sayılı bozma ilamının kaldırılmasına …
 
 ## Yargıtay 8. HD 2021/2493 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666191100)
 
 Davacı vekili, müvekkiline ait 2, 17, 18 bağımsız bölüm numaralı taşınmazlara davalıların hiç bir hakları bulunmadığı halde elattıklarını, hak iddia ederek kullanmaya başladıklarını öne sürerek elatmanın önlenmesine karar verilmesini talep etmiştir.
 
@@ -242,6 +268,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin yazılı temyiz it
 
 ## Yargıtay 14. HD 2021/1341 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/658082600)
+
 Dava, baz istasyonunun kaldırılması istemine ilişkindir.
 
 Davacı vekili, müvekkilinin 16/09/2009 tarihinde .... ili, ..... ilçesi, ... Mah., 60 ada, 2 parselde bulunan 2 No'lu bağımsız bölümü dava dışı ...'den satın aldığını, ... ile davalı arasında imzalanan 05.03.1998 tarihli 5 yıllık kira sözleşmesine istinaden ortak kullanım alanı olan çatıda GSM baz istasyonu kurulduğunu, davacının buna muvafakatinin bulunmadığını, 634 sayılı Kat Mülkiyeti Kanununa aykırı olarak ortak alanın kiralandığını iddia ederek baz istasyonunun kaldırılması suretiyle haksız elatmanın önlenmesine karar verilmesini talep etmiştir.
@@ -259,6 +287,8 @@ Mahkemece, dava konusu taşınmazdaki bütün kat malikleri ile davalı arasınd
 SONUÇ: Yukarıda açıklanan nedenlerle; davalı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/96 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634253100)
 
 Davalılar vekili; davanın reddini savunmuştur.
 

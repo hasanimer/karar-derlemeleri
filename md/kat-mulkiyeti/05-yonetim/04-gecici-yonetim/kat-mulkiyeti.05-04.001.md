@@ -20,31 +20,45 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2024/8011 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060124700)
+
 Somut olayda, ana gayrimenkule ait yönetim planı uyarınca atanan geçici yönetim ile davalı şirket arasında profesyonel site yönetimi hususunda hizmet alım sözleşmesi yapıldığı anlaşılmakla, davalı şirketin site yöneticisi vasfı bulunmadığından taraflar arasındaki uyuşmazlığın 634 sayılı Kanun hükümleri uyarınca değil genel hükümler uyarınca Asliye Hukuk Mahkemesinde görülmesi gerektiği dikkate alınarak görev nedeniyle davanın usulden reddine karar verilmesi gerekirken aksi düşünce ile yazılı olduğu şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 5. HD 2021/10968 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/692390100)
+
 1- 03.05.2015 tarihli toplantı tutanağına göre, ... ve ... ... ’un site yöneticisi seçildiği ve site yönetiminin seçilen yeni yönetime devri ile geçici yönetimin görevinin sona erdiği, davanın ise site geçici yönetimi tarafından açıldığı, site geçici yöneticileri ... ... ve ...’nun ise sitede kat maliki olup olmadıklarının tespit edilemediği, seçilen yeni yönetimin davaya muvafakatına veya davayı takip edip etmediklerine ilişkin dosya kapsamında bir bilgi ve belgenin bulunmadığı anlaşılmakla, mahkemece davacının aktif husumet ehliyeti yönünden bir inceleme yapılmadan hüküm kurulması,…
 
 ## Yargıtay 20. HD 2019/253 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479304000)
 
 Dosya içerisindeki bilgi ve belgelerin incelenmesinde; anataşınmaza ait tapuda kayıtlı ...05.2008 tarihli Yönetim Planında Ortak Garajlardaki Özel Kullanım Alanları başlıklı 5-A maddesinde; “Blokların ve bloklardaki bağımsız bölümlerin m2'leri ve arsa payları dikkate alınarak her bir bağımsız bölüme özel otopark kullanım alanları tahsis edilecektir. Toplu Yapı Geçici Yönetim Kurulu veya Toplu Yapı Temsilciler Kurulu tarafından her bir bağımsız bölüme tahsis edilecek özel otopark kullanım alanlarını gösterir Otopark ve Depo Tahsis Listesi ile bulunduğu yerin krokisi ile birlikte belirlenecektir. Her bir bağımsız bölüm için düzenlenecek Otopark ve Depo Tahsis Listesinde belirtileceği şekilde tahsis edilen özel kullanım alanlarının kullanma hakkı münhasıran o bağımsız bölüme ait olacaktır. Her bir bağımsız bölüme ayrılacak özel otopark kullanım alanları kendi parselindeki garaj alanlarından tahsis edilecektir. Toplu Yapı Geçici Yönetim Kurulu veya Toplu Yapı Temsilciler Kurulunun belirleyeceği Otopark ve Depo Tahsis Listesi tam bağımsız bölüm malikleri için de kesin ve bağlayıcı olacaktır.” hükmü yer almaktadır.
 Dosya içerisinde mevcut bilirkişi raporunda; dava konusu anataşınmaza ait onaylı mimari projede dava konusu .... ... kat ... ve 2 nolu park alanlarının, bir otopark alanı veya bisiklet park alanı olarak değil, ok ile belirtilmiş araç ulaşım yolu olarak planlanmış olduğu tespit edilmiştir. Mahkemece site genel kurulu toplantısında otopark konusuna dair daimi liste oluşturulması için yönetim kuruluna yetki verilip verilmediği araştırılmalı ve taraflara ait tüm deliller toplanarak oluşacak sonuç doğrultusunda karar verilmesi gerekirken mahkemece infazda tereddüte yol açacak şekilde yazılı gerekçelerle karar verilmesi uygun görülmemiştir.
 
 ## Yargıtay 20. HD 2018/6937 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462026900)
+
 Mahkemece davacının ortak alanda teknik hizmeti üstlenmiş ise de; dava konusu ortak aidat alacağına ilişkin olarak yasal anlamda dava ve takip yapma hakkı bulunmadığı, dolayısıyla da dava ehliyeti bulunmadığından usulden reddine karar verilmişse de dosya içerisindeki bilgi ve belgelerin incelenmesinden anataşınmaza ait yönetim planının geçici yönetim başlıklı 60. maddesinde “Kat mülkiyeti kurularak, Kat Mülkiyeti Kanunu uyarınca, ilk kat malikleri kurulu toplantısı yapılıp, yönetim kurulu oluşuncaya kadar, bu organların görevlerini üstlenmek, yetkilerini kullanmak, yasal kurulların oluşması için gerekli girişim ve çağrılarda bulunmak üzere bir geçici yönetim organı tesis edilmiştir. Geçici yönetim görevi,... ve ....
 Yönetim Kurulu tarafından görülür...3 (üç) yıl boyunca .... veya görevlendireceği yönetim şirketi görevlerine devam ederler..” hükmünün düzenlendiği, bu çerçevede mahkemece davanın açıldığı tarihte anataşınmazın yöneticisinin tespiti hususunda anataşınmaza ait karar defterleri celbedilerek özellikle bahsi geçen geçici yönetim planı hükümleri de dikkate alınarak oluşacak sonuca göre hüküm kurulması gerekirken, anılan nedenlerle davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 17. HD 2013/15830 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787016700)
+
 Sulh Hukuk Mahkemesi'nce, geçici yönetici olan kooperatifin ferdi mülkiyete geçilmesiyle işletme kooperatifine dönüştürülebileceği, 1163 sayılı Yasanın 634 sayılı Kanuna göre özel hükümler içerdiği ve uyuşmazlığın çözümünde ticaret mahkemelerinin görevli olduğu gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 3. HD 2010/20751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/971749200)
+
 O halde, öncelikle tapu kaydının ve varsa yönetim planın ve kooperatif kura tutanağının celbi ile kat irtifakı ve kat mülkiyetinin kuruluş tarihi ile bağımsız bölümlerin özgülenme tarihi ve yukarıda belirlenen ilkeler uyarınca uygulanacak yasal hükümler belirlenmeli, kat irtifakı veya kat mülkiyeti o tarihte kurulmamış olsa bile, 10.10.2004 tarihli toplantıda 50 üyeden 33 üyenin katılımı ile kaloriferlerin yakılması ve yakıt giderlerini belirleyerek toplamak üzere davacıların geçici yönetime seçimi ve bu toplantıda icra takibi yetkisi verilmesine dair alınan karar özel sözleşme niteliğinde tüm malikleri bağlayacağından, davalının da alınan karar uyarınca yakıt giderini ödemesi için yapılan tebligat ile borçtan sorumluluğu başlamış olmakla, genel hükümlere göre sorumlu tutulması gerekirken, eksik inceleme ve yanılgılı gerekçe ile davanın reddi doğru görülmemiştir.
 
 ## İstanbul BAM 16. HD 2024/1164 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043539800)
 
 A.Ş. tarafından onaylanan 09/10/2018 tarihli İşletme Devir Sözleşmesi incelendiğinde;13. maddesinde; "Cumhurbaşkanlığının 12 Eylül 2018 tarih 85 sayılı kararıyla daha önce döviz cinsinden veya dövize endeksli olarak akdedilmiş sözleşmelerdeki bedellerin otuz gün içinde Türk parası olarak yeniden belirlenmesi hüküm altına alındığından ve aynı karara göre "devre mülk alıcılarının ödeyecekleri aidatları Yüklenicinin İşletmeciyle dövize endeksli bir sözleşme yapma imkanı kalmadığından, yüklenici Yönetim Planının kendisine tanıdığı/verdiği Geçici Yönetim sıfatı ve görevini de dikkate alarak,a) Geçici Dönemdeki
 

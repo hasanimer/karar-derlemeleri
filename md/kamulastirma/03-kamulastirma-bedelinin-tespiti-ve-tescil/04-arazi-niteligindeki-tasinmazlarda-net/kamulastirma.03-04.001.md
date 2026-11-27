@@ -24,6 +24,8 @@ Davanın niteliğine göre tazminat miktarı belirlenirken öncelikli konu, taş
 
 ## Yargıtay HGK 2026/226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206874800)
+
 Dairemiz yerleşik uygulamasına göre; özel ve dikkate alınması gereken haklı bir neden bulunmadıkça tarım arazilerinin olduğu gibi kullanılması halinde getireceği net gelir üzerinden bilimsel yöntemle yapılacak değerlendirmede münavebeye alınacak ürünler için 2941 sayılı Kanun'un 15 inci maddesinin son fıkrasındaki düzenleme uyarınca, kamulaştırma belgelerinin mahkemeye verildiği gün itibarıyla dekar başına elde edilecek ortalama verime, üretim giderine ve toptan satış fiyatına ilişkin olarak ciddi istatistiki bilgilere dayalı olduğu bilinen o yerdeki Tarım ve Orman İlçe Müdürlüğü verilerinin esas alınması gerekmektedir.
 
 ## Yargıtay HGK 2026/184 K.
@@ -32,29 +34,43 @@ Bu maddeye göre tarım arazisi niteliğindeki taşınmazın mevkii ve şartlar�
 
 ## Yargıtay HGK 2025/165 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141212200)
+
 Davanın niteliğine göre tazminat miktarı belirlenirken, öncelikli konu, gayrimenkulün niteliğinin ve değerinin hesaplanması olup, arazi niteliğindeki taşınmazlarda, başka deyişle tarım alanlarında net gelir esas alınarak, arsa niteliğindeki taşınmazlar için ise emsal karşılaştırması yapılarak değer belirlenmelidir. Dava tapu iptali ve tescil istemiyle birlikte açıldığına göre değerlendirme tarihinin dava tarihi olarak alınmasında ve dava tarihi itibariyle de 1/1000 ölçekli uygulama imar planında konut alanında kaldığı anlaşılan taşınmazın arsa olarak kabulünde bir isabetsizlik yoktur. Ancak arsa niteliğindeki taşınmazın değerinin emsal kıyaslama yöntemiyle yapılmamış olması, keşif sırasında inşaat bilirkişisi dinlenilmemiş olması da doğru değildir. Eksik araştırma inceleme ve yetersiz bilirkişi raporlarına dayanılarak hüküm kurulamaz.
 
 ## Yargıtay HGK 2021/1715 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744315900)
 
 Taşınmaz malın tarım arazisi niteliğinde kabulü ile olduğu gibi, kullanılması halinde getireceği net geliri üzerinden bilimsel yolla değerinin tesbit edilmesi; üzerinde bulunan yapıya da resmi birim fiyatları esas alınıp, yıpranma payı düşülerek ve ağaçlara ise maktuen değer biçilmesi yöntem bakımından doğrudur. Ancak;…
 
 ## Yargıtay HGK 2020/891 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638603400)
+
 Taşınmaz malın tarım arazisi niteliğinde kabulü ile olduğu gibi kullanılması hâlinde getireceği net geliri üzerinden bilimsel yolla değerinin tesbit edilmesinde; üzerinde bulunan ve taşınmaz mala bahçe niteliği vermeyen ağaçlara maktuen değer biçilmesinde isabetsizlik görülmemiştir.
 
 ## Yargıtay HGK 2019/1335 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579521200)
 
 Taşınmazın tarım arazisi niteliğinde kabulü ile olduğu gibi kullanılması halinde getireceği net geliri üzerinden bilimsel yolla değerinin tespit edilmesinde yöntem itibari ile bir isabetsizlik görülmemiştir. Ancak;…
 
 ## Yargıtay HGK 2019/954 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554344400)
+
 Taşınmazın tarım arazisi niteliğinde kabulü doğru olup, yasa gereği bu taşınmaza kamulaştırma tarihindeki mevki ve şartlarına göre olduğu gibi kullanılması halinde getireceği net geliri esas tutularak değerlendirilir. Kamulaştırma Yasası'nın 11. maddesinin (i) bendine göre de, bedelin tespitinde etkisi olacak diğer objektif ölçüler de dikkate alınır. Doğaldır ki bu objektif ölçülerin neler oldukları taşınmazın niteliği dikkate alınarak ve değerlendirme esasları gözönünde bulundurulmak suretiyle belirlenir.
 
 ## Yargıtay HGK 2016/805 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232840500)
+
 Taşınmazın tarım arazisi niteliğinin kabulü doğru olup, yasa gereği bu taşınmaza kamulaştırma tarihindeki mevki ve şartlarına göre olduğu gibi kullanılması halinde getireceği net geliri esas tutularak değerlendirileceği, Kamulaştırma Yasası'nın 11. maddesinin (i) bendine göre de bedelin tespitinde etkisi olacak diğer objektif ölçüler de dikkate alınacağından bu objektif ölçülerin neler oldukları taşınmazın niteliği dikkate alınarak ve değerlendirme esasları gözönünde bulundurulmak suretiyle belirlenir.
 
 ## Yargıtay HGK 2014/1092 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255343600)
 
 “...Kamulaştırma Yasasının 11.maddesi hükmüne göre, bedel tespit davalarında öncelikle kamulaştırılan taşınmazın değerlendirme tarihindeki vasfının (arsa veya arazi) belirlenmesi, arsa vasfında ise değerlendirme tarihinden önce özel amacı olmayan emsal satışlara göre satış değeri, taşınmaz arazi vasfında ise değerlendirme tarihindeki mevki ve şartlarına göre olduğu gibi kullanılması halinde getireceği net geliri esas alınmak suretiyle değerinin belirlenmesi gerekir. Geri çevirme kararı üzerine dosyaya getirtilen Çanakkale Belediye Başkanlığı yazılarına göre dava konusu taşınmazların dava tarihi itibariyle 1/1000 ölçekli uygulama imar planının bulunmadığı, etrafında meskûn alan olmadığı, 1/5000 ölçekli nazım imar planında olup kullanma biçimi itibariyle askeri güvenlik bölgesi içinde kaldığından iskâna yönelik yapı yapılamayacağı, yerleşim merkezine 2500 metre mesafede bulunduğu ve tüm belediye hizmetlerinden faydalanmadığı anlaşılmaktadır.
 
@@ -68,16 +84,24 @@ Sulu tarım arazisi niteliğindeki dava konusu taşınmaza 2942 sayılı Kanun�
 
 ## Yargıtay 5. HD 2014/31709 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/340062100)
+
 Arazi niteliğindeki taşınmaza net geliri esas alınarak değer biçilmesinde, taşınmazın niteliği, tamamının yüzölçümü, geometrik durumu ve enerji nakil hattı güzergahı dikkate alınarak değer düşüklüğü oranı belirtilmek suretiyle irtifak hakkı karşılığının tespit edilmesinde ve tespit edilen bedelin bloke ettirilerek hükmün kesinleşmesi beklenmeden davalı tarafa ödenmesine karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Yargıtay 5. HD 2014/28391 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/122075000)
 
 Taşınmazın çeltik tarlası niteliğinde kabulü ile olduğu gibi kullanılması halinde getireceği net geliri üzerinden bilimsel yolla değerinin tespit edilmesinde, tespit edilen bedelin bloke ettirilerek hükmün kesinleşmesi beklenmeden davalı tarafa ödenmesine ve kamulaştırılan taşınmaz baraj gölü içinde kaldığından, 3402 sayılı Kadastro Kanununun 16/C maddesi uyarınca tapudan terkinine karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Yargıtay 18. HD 2014/19000 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107246400)
+
 2942 sayılı Yasanın 4650 sayılı Yasa ile değişik 11.maddesinin 1.fıkrasının (f) bendi uyarınca bilirkişi kurulu, arazi niteliğindeki taşınmaz malın kamulaştırma tarihindeki mevki ve şartlarına göre ve olduğu gibi kullanılması halinde getireceği net gelirini esas tutarak düzenleyeceği raporda, bedelin tespitinde etkili olacak bütün nitelik ve unsurları ve her unsurun ayrı ayrı değerini belirtmek suretiyle ve ilgililerin de beyanını dikkate alarak gerekçeli bir değerlendirme raporuna dayalı olarak taşınmaz malın değerini tespit etmelidir. Yargıtay’ın yerleşmiş uygulamalarında ise özel ve dikkate alınması gereken haklı bir neden bulunmadıkça tarım arazilerinin olduğu gibi kullanılması halinde getireceği net gelir üzerinden bilimsel yöntemle yapılacak değerlendirmede münavebeye alınacak ürünler için dekar başına elde edilecek ortalama verim, üretim gideri ve toptan satış fiyatına ilişkin olarak ciddi istatistiki bilgilere dayalı olduğu bilinen o yerdeki gıda, tarım ve hayvancılık müdürlüğü verilerinin esas alınması aranmaktadır.
 
 ## Yargıtay 18. HD 2014/18836 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107227400)
 
 2942 Sayılı Yasanın 4650 Sayılı Yasa ile değişik 11.maddesinin 1.fıkrasının (f) bendi uyarınca bilirkişi kurulu, arazi niteliğindeki taşınmaz malın değerlendirme tarihindeki mevki ve şartlarına göre ve olduğu gibi kullanılması halinde getireceği net gelirini esas tutarak düzenleyeceği raporda, bedelin tespitinde etkili olacak bütün nitelik ve unsurları ve her unsurun ayrı ayrı değerini belirtmek suretiyle ve ilgililerin de beyanını dikkate alarak gerekçeli bir değerlendirme raporuna dayalı olarak taşınmaz malın değerini tespit etmelidir.

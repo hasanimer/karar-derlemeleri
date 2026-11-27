@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2023/30 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854407100)
+
 … dava dilekçesinde muris muvazaası nedeniyle tapu iptal ve tescil talebinde bulunulan taşınmazların Ankara ve Isparta illerinde bulunduğu, davanın Isparta 3. Asliye Hukuk Mahkemesinde açıldığı anlaşıldığından **6100 sayılı Kanun'un 12 nci maddesinin 3 üncü fıkrası gereğince** uyuşmazlığın Isparta 3. Asliye Hukuk Mahkemesince çözümlenmesi gerekmektedir.

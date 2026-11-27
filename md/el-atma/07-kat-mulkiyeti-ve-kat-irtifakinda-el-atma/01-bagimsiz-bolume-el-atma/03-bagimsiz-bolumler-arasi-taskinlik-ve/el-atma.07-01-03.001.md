@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2019/752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520428400)
+
 Mahkemece, davanın kabulüne karar verilmiştir.
 
 …
@@ -42,6 +44,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının
 
 ## Yargıtay HGK 2015/42 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/92364900)
+
 Dava, 634 sayılı Kat Mülkiyeti Kanunu’na dayalı el atmanın önlenmesi ve eski hale getirme istemine ilişkindir.
 
 Davacı, davalıya ait dairenin balkon ve pencerelerine yapılan demir parmaklıkların, Belediyece yapılan uyarıya rağmen 634 sayılı Kat Mülkiyeti Kanunu’na uygun hale getirilmediği gibi, davalı tarafından klima motorunun da apartmanın ortak alanına konulduğunu ve kaldırılması gerektiğini ileri sürerek, davalının ortak yere haksız müdahalesinin önlenmesini; balkon ve pencerelere yapılan demir parmaklıkların 634 sayılı Yasa’ya uygun hale getirilmesini; davalıya ait klima motorunun ortak yerden kaldırılmasına karar verilerek eski hale getirilmesini istemiştir …
@@ -59,6 +63,8 @@ Mahkemece, davalı tarafından ibraz edilen yazılı belge ile klima motorunun a
 S O N U Ç : Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6217 sayılı Kanunun 30.maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/11381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176144600)
 
 Mahkemece bozma kararına uyularak yeniden yapılan yargılama sonunda davanın davalılardan ... ..ve Ltd.Şti. aleyhine açılan davanın husumet yönünden reddine dair verilen kararın Yargıtay 5. Hukuk Dairesinin 2021/13502 Esas, 2022/353 Karar sayılı ilamı ile kesinleştiğinden bu hususta yeniden karar verilmesine yer olmadığına, davalılardan.... ve ... aleyhine açılan davanın pasif husumet nedeniyle reddine, davalılardan ... ve ... mirasçıları ..., ..., ..., ... ve ...'a karşı açılan müdahalenin meni ve eski hale getirme davasının kabulüne, sökülen ağaç ve bitkilerin değerine yönelik açılan davanın açılmamış sayılmasına karar verilmiştir.
 
@@ -82,6 +88,8 @@ Davacı vekili ve davalı ... mirasçıları vekilinin yerinde görülmeyen tüm
 
 ## Yargıtay 5. HD 2025/7648 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198636900)
+
 Davacı vekili dava dilekçesinde özetle; Gaziantep ili, ..., Mahallesi 1 82... parsel sayılı taşınmazda bulunan apartmanın bulunan 9 nolu “mesken” niteliğindeki bağımsız bölümün duvarlarının davalıya ait bulunan 7 nolu “dükkan” niteliğindeki bağımsız bölüm ile bitişik olduğunu, davalının aradaki duvarı yıkarak 9 nolu mesken niteliğindeki bağımsız bölümü 7 nolu dükkana kattığını, taşınmazda bulunan 9 nolu bağımsız bölüm, tapuda “mesken” niteliğinde olmasına rağmen ve kat maliklerinin rızası bulunmadığı hâlde, davalı tarafından dükkana çevrilmesi için inşaat çalışmalarına başlandığını, dava konusu mesken niteliğindeki bağımsız bölümün dükkana çevrilmesi için yapılan inşaat işlerinin tedbiren durdurulmasını, projeye aykırı yapılan tadilat ve eklentileri ile ortak yerlere el atmanın önlenmesini ve dükkanın meskene dönüştürülerek yapılan tüm işlerin eski hale getirilmesini, hüküm tarihinde dava konusu bağımsız bölümde kiracı bulunması halinde tahliyesini talep etmiştir.
 
 …
@@ -97,6 +105,8 @@ Bu sebeple; davalıya ait 7 ve 9 Nolu numaralı bağımsız bölümün birleşti
 Davacı vekilinin temyiz itirazlarının kabulü ile temyiz olunan, Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/3637 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142723300)
 
 Davacı vekili dava dilekçesinde özetle; Muğla ili, ... ilçesi, ... Mahallesi 120 ada 1 parselde bulunan 7 nolu bağımsız bölümün maliki olduğunu, davalıların ise aynı ada parselde kain 11 nolu bağımsız bölümün maliki olduklarını, davalıların 7 nolu bağımsız bölümün ekli aplikasyon krokisinde belirtilen kısmına ihata duvarı çekmek suretiyle tecavüzde bulunduğunu, şifahi uyarılara rağmen kaldırılmadığını, belirterek, davalıların yaptıkları müdahalenin menine, duvarın kaline ve eski hale getirilmesine karar verilmesini talep etmiştir.
 
@@ -118,6 +128,8 @@ gerektiğinin düşünülmemesi bozmayı gerektirmiştir.
 
 ## Yargıtay 5. HD 2025/1722 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135420100)
+
 Davacı ... vekili dava dilekçesinde özetle; Balıkesir ili, ..., 1837 ada 2 parsel sayılı taşınmaz üzerinde bulunan sitenin numaralı bağımsız bölüm maliki olan davalının, kat maliklerinin onayı olmadan ve yönetim planındaki düzenlemeye aykırı olacak şekilde pek çok sayıda hayvan beslediğini, kötü koku ve gürültüye sebebiyet verdiğini, ön ve arka balkonları kapattığını, yine balkonun yarısına kadar mimari görünümü etkiler şekilde ahşap kafes yaptırdığını, yönetim planının 17 nci maddesinde, site sakinlerinin münhasıran kendi bağımsız bölümlerinde ve ortak yerlerde kedi, köpek ve tavuk vb. hayvanları barındırıp besleyemeyeceği; 18 inci maddesinde ise, bağımsız bölümlerde yapının orjinal mimari görünümünü etkileyecek ve bilhassa dış cephe üzerinde herhangi bir değişiklik ve ilaveler yapamayacağının düzenlendiğini, davalının haksız müdahalesinin önlenmesi amacıyla noterden ihtar çekildiğini, ancak bugüne kadar sonuç alınamadığını ileri sürerek müdahalenin önlenmesi ve kapatılan balkonların ve yapıların kaldırılarak eski hale getirilmesini, davalının site içerisinde ya da kendi bağımsız bölümünde hayvan barındırma ve beslemesinin önlenmesini talep ve dava etmiştir.
 
 …
@@ -133,6 +145,8 @@ Davalı vekili cevap dilekçesinde özetle; davacının kat maliki olmadığın�
 Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/5298 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1115249300)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -151,6 +165,8 @@ inceleme ile yetinilerek sonuca gidildiği...'' gerekçesiyle karar düzeltme ta
 
 ## Yargıtay 5. HD 2022/17620 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846824700)
+
 Mahkemece davanın kabulüne karar verilmiş, hükmün davalı tarafça istinaf edilmesi üzerine İstanbul Bölge Adliye Mahkemesi 36. Hukuk Dairesinin 2019/1736 Esas, 2021/1804 Karar sayılı ilamı ile davalı tarafın istinaf başvurusunun esastan reddine karar verilmiş olup, karar davalı vekili tarafından temyiz edilmiştir.
 
 …
@@ -162,6 +178,8 @@ Kabule göre de, davalının maliki olduğu bağımsız bölümlerin birleştiri
 Açıklanan nedenlerle davalılar vekilinin temyiz itirazları yerinde olduğundan İstanbul 8. Sulh Hukuk Mahkemesinin 2017/346 Esas, 2018/998 Karar sayılı hükmünün HMK'nın 371 inci maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 5. HD 2022/14722 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829750600)
 
 Mahkemece bozmaya uyularak yapılan yargılama neticesinde davanın kabulüne karar verilmiştir. Mahkemece 28.01.2021 tarihli ek karar ile hükmün tamamlanmasına karar verilmiş olup, ek karar da davalı vekili tarafından temyiz edilmiştir.
 
@@ -175,6 +193,8 @@ Bu itibarla, yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı
 
 ## Yargıtay 20. HD 2017/10307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389333700)
+
 Mahkemece, davanın kabulü ile yönetim planına aykırı olarak davalı tarafından yapılan bilirkişi raporu ve ekli krokisinde (A) harfi ile kırmızıya boyalı alanlarda gösterilen tabelanın kal edilerek dış cephenin eski hale getirilmesine, davalıya bu iş için 4 gün süre verilmesine karar verilmiş, hüküm davalı ...vekili tarafından temyiz edilmiştir.Dava, ortak alana yapılan müdahalenin önlenmesi ve eski hale getirme istemine ilişkindir.
 
 Kat Mülkiyeti Kanununun 19. maddesine göre; kat malikleri, anagayrimenkulün bakımına ve mimarı durumu ile güzelliğini ve sağlamlığını titizlikle korumaya mecburdurlar. Kat maliklerinden biri, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anagayrimenkulün ortak yerlerinde inşaat, onarım ve tesisler, değişik renkte dış badana veya boya yaptıramaz. Davaya konu anataşınmazın yönetim planının 38/i maddesinde yer alan “Dükkânlar tabelalarını ancak kendilerine tahsis edilen alanlara koyabileceklerdir.” düzenlemesi gereğince dükkanlara tabela konusunda izin verilmiştir. Yargıtay uygulamalarında yönetim planı ve kat malikleri kurulu kararıyla konulmuş bir yasaklama bulunmaması halinde işyerini tanıtma ve reklam amacıyla bina cephesine binanın dış görünümünü ve estetiğini bozacak şekilde abartılı boyutlarda olmamak, ait olduğu bağımsız bölümün dış cephe sınırlarını aşmamak, diğer bağımsız bölüm maliklerini rahatsız etmemek kaydıyla tabela ve reklam panosu asılabileceği kabul edilmektedir.
@@ -183,6 +203,8 @@ Buna göre, mahkemece, davalı şirketin yaptırdığı tabelaların yönetim pl
 SONUÇ. Yukarıda açıklanan nedenlerle; davalı ...vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2017/3124 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360566900)
 
 Davacı vekili dava dilekçesinde, davalı kat maliklerinin 1, 2, 3, 4 ve 5 nolu bağımsız bölümlerin tapuda mesken olarak kayıtlı olmasına rağmen iş yeri olarak kullanıldığı, mimari projeye aykırı olarak ana taşınmazın bağımsız bölümleri ile depoların ara duvarlarını kaldırıp, ortak alanlarda dahil olacak şekilde mağaza olarak diğer davalı şirkete kiraya verdiklerini, davalılar tarafından yapılan müdahalenin önlenmesini ve eski hale getirilmesini, kiracı şirketin tahliyesini istemiş, mahkemece ... kata yapılan müdahalenin önlenmesine, 1, 2, 3, 4 ve 5 nolu bağımsız bölümlerin yönetim planına uygun eski hale iadesine, tahliye talebinin reddine karar verilmiştir.
 
@@ -200,6 +222,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalıların temyiz itirazlarının ka
 
 ## Yargıtay 18. HD 2016/4865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/230269100)
+
 Davacı vekili dava dilekçesinde, ortak alana müdahalenin önlenmesini ve eski hale getirilmesini istemiştir. Mahkemece davanın kısmen kabulüne karar verilmiş, hüküm davacı vekili ile bir kısım davalılar vekili tarafından temyiz edilmiştir.
 
 …
@@ -213,6 +237,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/14351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/194186100)
+
 Davacı dava dilekçesinde, mimari projeye aykırılıkların eski hale getirilmesini istemiştir. Mahkemece davanın reddine karar verilmiş, hüküm davacı tarafından temyiz edilmiştir.
 
 …
@@ -223,6 +249,8 @@ diğer imalatlarda ise Kat Mülkiyeti Kanunu'nun 19. maddesinin 2. fıkrasına g
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/9711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403671700)
 
 Davacılar vekili dava dilekçesinde, davalının maliki olduğu tapuda dükkan ve yönetim binası olarak kayıtlı bulunan bağımsız bölümlerin mesken olarak kullanımına son verilmesine, mimari projeye aykırılıkların eski hale getirilmesine ve ortak alana müdahalenin önlenmesine karar verilmesini istemiş; mahkemece, davalı adına kayıtlı bağımsız bölümlerin bulunduğu binanın tamamının mülkiyetinin davalıya ait olduğu gerekçesiyle, eski hale getirme ve mesken olarak kullanımına son verilmesi taleplerinin reddine, ortak alana müdahalenin önlenmesi talebinin kabulüne karar verilmiştir.
 
@@ -238,6 +266,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2014/18038 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/796537100)
+
 Davacı vekili dava dilekçesinde, davalının bağımsız bölümünde yer alan balkonunu muhtelif malzemeler kullanmak suretiyle camekanla kapatılmış olduğunu, kat maliklerinin kullanmış oldukları klimaların ve çanak uydu antenlerinin kendilerine ait bağımsız bölümden ortak mahal niteliğindeki dış cephelere taştığını, davalı tarafından yapılan tadilat ve tecavüzlerin Kat Mülkiyet Kanunu'na aykırı olduğunu ileri sürerek, davalının ortak yere haksız müdahalesinin önlenmesi ve yapılan eklentilerin kaldırılması, davalıya ait bağımsız bölümde başka aykırılıkların tespiti ile bu aykırılıklarında giderilerek eski hale getirilmesi istenilmiş, mahkemce davanın reddine karar verilmiştir.
 
 …
@@ -248,11 +278,15 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2014/10872 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107074000)
+
 634 Sayılı Kat Mülkiyeti Yasası'nın 19. maddesinin ikinci fıkrasına göre kat maliklerinden biri bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde onarım, tesis ve değişiklik yaptıramaz. Dosyadaki bilgi ve belgeler ile özellikle bilirkişi kurulu raporunun incelenmesinden; dava konusu edilen bağımsız bölümlerin balkonlarının projesine aykırı biçimde kapalı hale getirildiği anlaşılmaktadır. Bu tadilata kat maliklerinin beşte dördünün muvafakat verdiğine ilişkin belge ve bilgi ileri sürülmediğine göre, kapatılan davalı bağımsız bölümünün balkonunun onaylı mimari projesine uygun olarak eski hale getirilmesine karar verilmesi gerekirken, yerinde bulunmayan gerekçe ile yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2013/17550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/799729400)
 
 Dosya içindeki bilgi ve belgelerden; davalı/karşı davacının kat maliki olduğu anataşınmazın yönetim planında, bağımsız bölümlerde, komşuluk hukuku ve hüsnüniyet kaidelerine aykırı olmamak, bahçede veya site dahilinde veya bağımsız bölümlerde diğer bağımsız bölüm maliklerini rahatsız etmemek koşulu ile köpek vs. hayvan beslenmesini engelleyen bir hüküm bulunmadığı; davanın yasal dayanağını oluşturan Kat Mülkiyeti Yasasının 18. maddesi hükmüne göre de kat maliklerinin, gerek bağımsız bölümlerini gerek eklenti ve ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirlerini rahatsız etmemek, birbirinin haklarını çiğnememek ve yönetim planı hükümlerine uymakla karşılıklı olarak yükümlü olduklarının hükme bağlandığı, karşı davada aynı Yasasının 18. maddesi gereğince köpeğin bağımsız bölümden uzaklaştırılmasının talep edildiği, yönetim planında da hayvan beslemeyi yasaklayıcı bir hüküm bulunmadığı dikkate alındığında, mahkemece köpeğin diğer bağımsız bölüm maliklerine rahatsızlık verdiğine ilişkin varsa taraf delilleri toplanıp ve bu konuda gerektiğinde bilirkişi incelemesi de yaptırılarak oluşacak sonuç doğrultusunda bir karar verilmemesi, …
 

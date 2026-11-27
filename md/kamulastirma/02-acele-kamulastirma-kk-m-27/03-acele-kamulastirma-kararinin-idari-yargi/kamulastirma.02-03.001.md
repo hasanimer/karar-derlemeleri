@@ -25,4 +25,6 @@ Burada acele kamulaştırma işleminin kurucu unsuru olan kamu yararının bulun
 
 ## Danıştay 6. Daire 2025/1941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152325300)
+
 2577 sayılı İdari Yargılama Usulü Kanununun "Dava Açma Süresi" başlıklı 7. maddesinde dava açma süresinin özel kanunlarında ayrı süre gösterilmeyen hallerde Danıştay da ve idare mahkemelerinde altmış gün olduğu; idari uyuşmazlıklarda dava açma süresinin yazılı bildirimin yapıldığı tarihi izleyen günden itibaren başlayacağı hükmüne yer verilmiş, aynı Kanunun "İvedi yargılama usulü" başlıklı 20/A maddesinin birinci fıkrasının (b) bendinde, acele kamulaştırma işlemlerinden doğan uyuşmazlıklarda ivedi yargılama usulünün uygulanacağı; 2. fıkrasının (a) bendinde, ivedi yargılama usulünde dava açma süresinin otuz gün olduğu düzenlenmiştir.

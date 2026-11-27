@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/4835 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1149441400)
+
 Davacı vekili dava dilekçesinde özetle; Van ili, ..., ... Mahallesi 4555 ada 1 parsel sayılı taşınmazın tapu kaydına davalı kurum tarafından 2942 sayılı Kanun'un 31/b maddesi uyarınca şerh konulduğunu, bu şerhin davacının mülkiyet hakkını kullanmasını kısıtladığını belirterek dava konusu taşınmaz üzerine davalı kurum tarafından konulan şerhin kaldırılmasını talep etmiştir.
 
 …
@@ -40,6 +42,8 @@ Genel Müdürlüğüne karşı aynı mahiyette üç ayrı dava daha açtığı, 
 Davacı vekilinin yerinde bulunmayan tüm temyiz itirazlarının reddi ile usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/3710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142976000)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davanın kabulüne karar verilmiştir.
 
@@ -61,6 +65,8 @@ Dairemizce yapılan inceleme sonucunda; yapılan incelemede; dava konusu 548 ada
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2025/2604 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133590100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kabulüne, birleştirilen davanın ise kısmen kabulüne karar verilmiştir.
 
@@ -84,6 +90,8 @@ Taraf vekillerinin temyiz itirazları yerinde olduğundan temyiz olunan Mahkeme 
 
 ## Yargıtay 5. HD 2024/3837 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058615500)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -106,6 +114,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 5. HD 2024/2395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057107300)
+
 Davacı vekili dava dilekçesinde özetle; müvekkiline ait Giresun ili, ... ilçesi, ... Mahallesi ... ada ..., ..., ..., ..., ... ve ... sayılı taşınmazların üzerinden enerji nakil hattı geçirildiğinden bahisle kamulaştırmasız el atma nedeniyle irtifak hakkı bedelinin davalıdan tahsilini talep etmiştir.
 
 …
@@ -123,6 +133,8 @@ hükmedilmesi suretiyle karar verilmesi yerinde bulunmuş; ancak Vergi Usul Kanu
 Kamu düzeni gereğince resen yapılan incelemede Bölge Adliye Mahkemesi kararının hüküm fıkrasının (A) ile gösterilen bendinin harçla ilgili 29 ve 30 uncu paragrafında yer alan "Alınması gerekli 179,90 TL maktu karar harcının davacı tarafça peşin olarak yatırılan 44,40 TL peşin harç ile 8.388,00 TL ıslah harcı toplamından mahsubuyla bakiye 8.252,50 TL'nin kararın kesinleştiğinde talebi halinde davacı tarafa iadesine. davalı tarafından 24.03.2021 tarihli 3169 sıra sayılı makbuz ile yatırılan. 25.123,44 TL bakiye karar harcının istek halinde davalıya iadesine, "ibaresinin hükümden çıkartılması, yerine "Alınması gereken 33.555,84 TL harçtan peşin alınan 44,40 TL harç ile 8.388,00 TL ıslah harcının mahsubu ile eksik bulunan 25.123,44 TL harcın davalıdan alınarak (tahsilde mükererlik yaratılmadan) Hazineye gelir kaydına, davacı tarafından peşin yatırılan 44,40 TL harç ile 8.388,00 TL ıslah harcı toplamı olan 8.432,40 TL'nin davalı idareden alınarak davacıya verilmesine" cümlesinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2024/238 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022199800)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -145,6 +157,8 @@ Davalı TEDAŞ Genel Müdürlüğü vekilinin yerinde görülmeyen tüm temyiz i
 
 ## Yargıtay 5. HD 2023/10633 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1004055400)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -162,6 +176,8 @@ geçersiz olduğu ve 04.11.1983 tarihli ve 2942 sayılı Kamulaştırma Kanunu'n
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 5. HD 2023/7995 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950419900)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -185,6 +201,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi i
 
 ## Yargıtay 7. HD 2023/5654 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002777000)
+
 Davacılar vekili, müvekkillerinin 191 ada 5 parselde paydaş olduklarını, davalı ... Başkanlığının kamulaştırma işlemi yapmaksızın taşınmaza parke döşemek suretiyle yol haline getirdiğini, davalılardan Başkent Elektrik Dağıtım A.Ş.'nin ise yine kamulaştırma işlemi yapmaksızın taşınmazın bir kısmına trafo yapmak suretiyle müdahalede bulunduğunu belirterek el atmanın önlenmesini, davalı ...Ş.'nin yaptığı trafonun ve davalı ... Başkanlığının yaptığı parkelerin kâl'ine ve dava tarihinden geriye dönük olarak 5 yıllık ecrimisil bedeli olan 7.500,00 TL'nin yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsilini talep etmiştir.
 
 …
@@ -202,6 +220,8 @@ Davalı ...Ş. vekili cevap dilekçesinde özetle; müvekkilinin sadece işletme
 Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2022/8169 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/869862200)
 
 Dava ve birleştirilen dava, irtifak hakkına dayalı el atmanın önlenmesi ve kal isteğine ilişkindir.
 
@@ -223,6 +243,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davacı-birleştirilen davada davacı 
 
 ## Yargıtay 5. HD 2021/12767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707042800)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 İlk derece mahkemesince davanın kabulüne ilişkin olarak verilen karara karşı, davalı idare tarafından yapılan istinaf başvurusunun Ankara Bölge Adliye Mahkemesi 14 . Hukuk Dairesince HMK'nın 353/1-b-2 maddesi uyarınca hükmün düzeltilmesi suretiyle yeniden karar verilmiş olup; hüküm, davalı idare vekilince temyiz edilmiştir.
@@ -237,6 +259,8 @@ karşılığının davalı TEİAŞ’tan tahsiline karar verilmesi, …
 Davalı TEİAŞ vekilinin temyiz itirazları yerinde olduğundan hükmün yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2020/8667 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/624195900)
 
 Dava, irtifak hakkına dayalı elatmanın önlenmesi ve yıkım talebine ilişkindir.
 
@@ -255,6 +279,8 @@ Bilindiği üzere irtifak hakkı, eşyayı kullanma ya da ondan yararlanma veya 
 SONUÇ: Yukarıda açıklanan nedenle bir kısım davalılar vekilinin temyiz itirazının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 5. HD 2020/3820 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578134500)
 
 Dava, kamulaştırmasız el atılarak üzerine pilon dikilip enerji nakil hattı geçirilen taşınmazın, pilon yeri bedeli ile irtifak hakkı karşılığının tahsili ve ecrimisil istemine ilişkindir.
 

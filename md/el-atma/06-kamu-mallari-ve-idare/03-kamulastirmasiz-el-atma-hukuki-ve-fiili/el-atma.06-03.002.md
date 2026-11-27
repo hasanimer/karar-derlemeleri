@@ -125,6 +125,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usu
 
 ## Yargıtay 5. HD 2026/5261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205455200)
+
 Davacı vekili dava dilekçesinde özetle; dava konusu Antalya ili, ... ilçesi, ... Mahallesi 1 90... parsel sayılı taşınmazın imar planında "trafo alanı" olarak ayrılarak hukuken ve trafo yapısı inşa edilerek fiilen el atıldığını, taşınmazın davalılardan ... tarafından fiilen kullanıldığını belirterek kamulaştırmasız el atmaya dayalı taşınmaz bedelinin davalı ... Genel Müdürlüğünden, ecrimisilin davalı ...
 
 …
@@ -235,6 +237,8 @@ Somut olayda; takibe dayanak kesinleşmemiş ilamda, kamulaştırmasız el atman
 Çorum İcra Hukuk Mahkemesinin 06.08.20 25... /250 E.-2025/477 K. sayılı kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2026/3958 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206428500)
 
 Davacılar vekili asıl ve birleştirilen dava dilekçelerinde özetle; Ankara ili, ..., ... Mahallesi 609 72... parsel sayılı taşınmazda hissedar olduklarını, dava konusu taşınmazın 1/1000 ölçekli Uygulama İmar Planında, "ticari rekreasyon alanı" olarak ayrıldığını ve taşınmaza davalı idarelerce el atıldığından taşınmaz bedelinin davalı idarelerden tahsilini talep etmiştir.
 

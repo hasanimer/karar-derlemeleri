@@ -20,17 +20,25 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/835 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200860000)
+
 Kooperatif ortakları bakımından geçerli olan ve öğretide açık kapı ilkesi olarak kabul edilen ilke uyarınca, ortaklık şartlarını taşıyan ve kooperatife ortak olmak isteyen gerçek ve tüzel kişiler kooperatife girmekte serbest olduğu gibi kooperatiften çıkarken de serbesttir. Açık kapı ilkesi kooperatiflere özgün bir nitelik katar ve onu diğer ticaret şirketlerinden ayırır. Ancak bu kural mutlak olarak serbestlik anlamına da gelmemektedir. Zira açık kapı ilkesinin bir uzantısı olup onu tamamlar nitelikte olan kooperatifin korunması ilkesi gereğince ortağın kooperatiften çıkışı kooperatife zarar vermemelidir. Kooperatifin korunması ve varlığını sürdürebilmesi için ana sözleşme ile birtakım koruyucu ve sınırlandırıcı hükümler getirilebilir, ancak ana sözleşmeye konulan sınırlandırıcı hükümler hiçbir şekilde ortağın kooperatiften çıkmasını önleyemez ve kooperatiften ayrılmayı da haksız olarak güçleştiremez.
 
 ## Yargıtay HGK 2025/10 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123682000)
 
 Kooperatif ortakları bakımından geçerli olan ve öğretide açık kapı ilkesi olarak kabul edilen ilke uyarınca ortaklık şartlarını taşıyan ve kooperatife ortak olmak isteyen gerçek ve tüzel kişiler kooperatife girmekte serbest olduğu gibi kooperatiften çıkarken de serbesttir. Açık kapı ilkesi kooperatiflere özgün bir nitelik katar ve onu diğer ticaret şirketlerinden ayırır. Ancak bu kural mutlak olarak serbestlik anlamına da gelmemektedir. Zira açık kapı ilkesinin bir uzantısı olup onu tamamlar nitelikte olan kooperatifin korunması ilkesi gereğince ortağın kooperatiften çıkışı kooperatife zarar vermemelidir. Kooperatifin korunması ve varlığını sürdürebilmesi için ana sözleşme ile birtakım koruyucu ve sınırlandırıcı hükümler getirilebilir, ancak ana sözleşmeye konulan sınırlandırıcı hükümler hiçbir şekilde ortağın kooperatiften çıkmasını önleyemez ve kooperatiften ayrılmayı da haksız olarak güçleştiremez.
 
 ## Yargıtay HGK 2023/1045 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976255100)
+
 Kooperatif ortakları bakımından geçerli olan ve öğretide "açık kapı ilkesi" olarak kabul edilen ilke uyarınca ortaklık şartlarını taşıyan ve kooperatife ortak olmak isteyen gerçek ve tüzel kişiler kooperatife girmekte serbest olduğu gibi kooperatiften çıkarken de serbesttir. Açık kapı ilkesi kooperatiflere özgün bir nitelik katar ve onu diğer ticaret şirketlerinden ayırır, ancak bu kural mutlak olarak serbestlik anlamına da gelmemektedir. Zira açık kapı ilkesinin bir uzantısı olup onu tamamlar nitelikte olan "kooperatifin korunması ilkesi" gereğince ortağın kooperatiften çıkışı kooperatife zarar vermemelidir. Kooperatifin korunması ve varlığını sürdürebilmesi için ana sözleşme ile birtakım koruyucu ve sınırlandırıcı hükümler getirilebilir, ancak ana sözleşmeye konulan sınırlandırıcı hükümler hiçbir şekilde ortağın kooperatiften çıkmasını önleyemez ve kooperatiften ayrılmayı da haksız olarak güçleştiremez.
 
 ## Yargıtay HGK 2018/1149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427688000)
 
 Hemen belirtmek gerekir ki 1163 sayılı Kooperatifler Kanunu’nun 19’uncu maddesinin birinci fıkrasında, “Kooperatife giren her şahıstan en az bir ortaklık payı alınması gerekir. Ana sözleşme, en yüksek had tespit ederek bir ortak tarafından bu had dâhilinde birden fazla pay alınmasına cevaz verebilir.” düzenlemesini içermektedir. Bu madde hükmüne göre kooperatife giren her şahsın en az bir ortaklık payına sahip olması gerekir. Dolayısıyla da bir pay ve bu paya bağlı haklar için kooperatife yalnızca bir ortak alınabilir.
 
@@ -40,5 +48,7 @@ Hemen belirtmek gerekir ki 1163 sayılı Kooperatifler Kanunu’nun 19’uncu ma
 Kooperatifin amacına ulaşması ise “kooperatifin anasözleşmede gösterilen işlerin tamamlanması ve ferdi mülkiyete geçilip konutların ve/veya işyerlerinin ortaklar adına tescil edilmesi” şeklinde ifade edilmiştir. ( Yargıtay 6. HD, 2024/548E, 2024/2691 K sy ilamı)…
 
 ## İstanbul BAM 45. HD 2025/689 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150635100)
 
 Kooperatif ortağının tapu iptali ve tescil talebinde bulunabilmesi için davaya konu edilen taşınmaza yönelik, kooperatife karşı tüm edimlerini yerine getirdiğini, hiçbir ediminin kalmadığını, diğer üyelerle eşit durumda olduğunu kanıtlanması gerekmektedir. Kooperatif ana sözleşmesinin 14.maddesinde "ortaklıktan çıkarma" başlığı altında, hangi hallerde ortaklıktan çıkartma kararı verilebileceği düzenlenmiştir. Bu hallerden biri de "4.Tapuda kendi adlarına tescilinden önce konutlarında yaptıkları tahribat veya tadilatı yazılı ihtara rağmen düzeltmeyenler" olarak belirtilmiş ve yönetim kurulunun kararı ile bu kişilerin ortaklıktan çıkartılacakları düzenlenmiştir. Ana sözleşmenin 64/2.maddesinde; "Yapı kullanma izninin alınmasını müteakip en çok bir yıl içinde ortakların Kat Mülkiyeti Kanununa göre ferdi münasebet işlerinin sonuçlandırılması şarttır.", Ana sözleşmenin 66.maddesinde; "Ortaklar teslim aldıkları konutlarda Kat Mülkiyeti Kanunu hükümlerine uygun olmak ve yapının hüviyetini bozmamak şartı ile değişiklik yapabilirler" hükümlerine yer verilmiştir.

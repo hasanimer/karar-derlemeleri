@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2021/12767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707042800)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 İlk derece mahkemesince davanın kabulüne ilişkin olarak verilen karara karşı, davalı idare tarafından yapılan istinaf başvurusunun Ankara Bölge Adliye Mahkemesi 14 . Hukuk Dairesince HMK'nın 353/1-b-2 maddesi uyarınca hükmün düzeltilmesi suretiyle yeniden karar verilmiş olup; hüküm, davalı idare vekilince temyiz edilmiştir.
@@ -37,6 +39,8 @@ Davalı TEİAŞ vekilinin temyiz itirazları yerinde olduğundan hükmün yukar�
 
 ## Yargıtay 12. HD 2021/10623 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/721022900)
+
 Örnek 4-5 takipte borçlunun icra mahkemesine başvurusunda; davanın kamulaştırmasız el atmadan kaynaklı tazminat niteliğinde olduğunu, 2942 Sayılı Kamulaştırma Kanunu'nun Geçici 14.maddesinde “Kamulaştırma işlemleri tamamlanmamış veya kamulaştırması hiç yapılmamış olmasına rağmen 4/11/1983 tarihinden bu maddenin yürürlüğe girdiği tarihe kadar fiilen kamu hizmetine ayrılan veya kamu yararına ilişkin bir ihtiyaca tahsis edilerek üzerinde tesis yapılan taşınmazlara veya kaynaklara kısmen veya tamamen veyahut irtifak hakkı tesis etmek suretiyle malikin rızası olmaksızın fiilî el konulması veya hukuki el atılması sebebiyle mülkiyet hakkından doğan taleplere dair bedel ve tazminata ilişkin davalarda verilen mahkeme kararları kesinleşmedikçe icraya konulamaz.
 Bu maddenin yürürlüğe girdiği tarihten önce, kesinleşmemiş mahkeme kararlarına dayanılarak başlatılan icra takipleri kesinleşmiş mahkeme kararı ibraz edilinceye kadar durdurulur.” şeklinde düzenleme yapıldığını, anılan madde uyarınca icra takibinin kesinleşmiş mahkeme kararı ibraz edilinceye kadar durdurulması gerektiğini, kamulaştırmasız el atma nedeniyle tazminata hükmedilen hallerde ödenecek olan bedelin tahsili sebebiyle idarelerin mal, hak ve alacaklarının haczedilemeyeceğini, icra emrinde faiz başlangıç tarihleri belirtilmediğini bildirerek icra emrinin iptalini talep etmiştir.
 
@@ -47,6 +51,8 @@ Bu maddenin yürürlüğe girdiği tarihten önce, kesinleşmemiş mahkeme karar
 SONUÇ: Alacaklının temyiz itirazlarının kısmen kabulü ile yukarıda yazılı nedenlerle 5311 sayılı Kanun ile değişik İİK'nin 364/2. maddesinin göndermesiyle uygulanması gereken 6100 sayılı HMK'nun 373/1. maddesi uyarınca, ... Bölge Adliye Mahkemesi 8. Hukuk Dairesinin 31/03/2021 tarih ve 2020/1657 E. - 2021/940 K. sayılı kararının KALDIRILMASINA …
 
 ## Yargıtay 5. HD 2021/8104 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685291700)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -63,6 +69,8 @@ Davacılar ile davalı ... Belediye Başkanlığı vekillerinin temyiz itirazı 
 
 ## Yargıtay 5. HD 2021/7616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/692663400)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 İlk derece mahkemesince davanın yargı yolu nedeni ile usulden reddine ilişkin olarak verilen kararına karşı, davacı vekili tarafından yapılan istinaf başvurusunun Ankara Bölge Adliye Mahkemesi 14. Hukuk Dairesince kabulü ile 6100 sayılı HMK'nun 353/1-b-3 maddesi uyarınca ilk derece mahkemesi kararı kaldırılmak suretiyle, davalı ...hakkındaki davanın husumet yokluğundan reddine, davalı ...aleyhine açılan davanın ise kabulü ile yeniden esas hakkında karar verilmiş olup; hüküm, davalı ...vekilince temyiz edilmiştir.
@@ -72,6 +80,8 @@ Dosyada bulunan kanıt ve belgelere, kararın dayandığı gerekçelere göre; d
 Davalı ...vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun olan hükmün HMK'nun 370. maddesi gereğince ONANMASINA …
 
 ## Yargıtay 5. HD 2021/6455 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/689948400)
 
 Dava, davalı idarece kamulaştırılmasına karar verilen, taraflarca anlaşmazlık tutanağı imzalanan bedeli yönünden taşınmazın ve zemin üstündeki yapının bedelinin tespiti istemine ilişkindir.
 
@@ -87,6 +97,8 @@ Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan n
 
 ## Yargıtay 12. HD 2021/3515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666001800)
+
 Kamulaştırmasız el atma davaları uygulamada sıklıkla karşılaşılan davalardan olmakla birlikte, yasa ile düzenlenmiş değildir. Bu konuya ilişkin tek yasal düzenleme olan 2942 sayılı Kamulaştırma Kanunu'nun 38. maddesi de 10.04.2003 tarih ve 2002/112 Esas 2003/33 Karar sayılı Anayasa Mahkemesi kararı ile iptal edilmiştir. Uygulamada kamulaştırmasız el atma davaları; İBK, HGK ve Hukuk Dairelerinin içtihatlarıyla yön bulmaktadır. Konunun Dairemizi ilgilendiren yönü ise, bu nevi davalarda hükmedilen tazminatların zamanında ödenmemesi halinde uygulanacak faizin ne tür ve oranda olması gerektiği noktasındadır. Zira Kamulaştırma Yasası gecikme faizini öngörmemektedir. Bu cümleden olmak üzere, HGK. kararları ve Dairemizin istikrar bulmuş içtihatlarında; "Kamulaştırma bedelinin arttırılması ilamlarında uygulanan T.C.
 Anayasası'nın 4709 sayılı Yasa'nın 18. maddesi ile değişik 46/son maddesinde yer alan kamulaştırma bedelleri ile mahkemece kesin hükme bağlanan arttırma bedellerine, son fıkraya göre kamu alacakları için öngörülen en yüksek faiz oranının uygulanacağı" hükmünden farklı olarak, kamulaştırmasız elatmanın hukuksal niteliği itibariyle bir haksız eylem olduğu, haksız eylemden doğan borçların, tazmini nitelikte olmaları nedeniyle uygulanacak faizin 3095 sayılı Yasa'da belirlenen yasal faiz olduğu belirtilerek, uygulama bugüne kadar yasal faizin uygulanması şeklinde sürdürüle gelmiştir. Ancak, Anayasa'nın 35. maddesi ile koruma altına alınmış olan mülkiyet hakkının, hak sahibinin rızasına bakılmaksızın kamulaştırmasız elatma nedeniyle ihlali halinde, toplumun genel menfaatleri ile bireyin temel haklarının korunması arasında adil bir denge gözetilmesi gerektiği düşüncesinden hareketle, mülkün gerçek değeriyle orantılı makul bir tazminat ödenmediği sürece, bir mülkten mahrum bırakılmanın genelde aşırı bir ihlal teşkil edeceği, yasal faiz oranında gecikme faizi ödenmesinin yeterli olmadığı görüşü gerek öğretide gerekse uygulamada ağırlık kazanmaya başlamıştır.
 Bu bağlamda mülkiyete saygı hakkının ihlalinin, mahkemelerin, kamulaştırmasız elatmaya maruz kalan kişiler lehine hükmettikleri tazminat tutarının tayininde, yargılama süresi ile enflasyon arasındaki etkileşim sonucu ortaya çıkan değer kaybını dikkate almalarına imkan sağlayan yasal bir düzenlemenin olmayışından da kaynaklandığı, bu nedenle adil tatmin taleplerinin karşılanması gerektiği hususu benimsenmeye başlanmıştır.
@@ -98,6 +110,8 @@ Tüm bu açıklamalar ışığında idare, kendisine Anayasa tarafından tanına
 SONUÇ : Alacaklının temyiz itirazlarının kısmen kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366. ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 5. HD 2020/10969 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/629412400)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
@@ -112,6 +126,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olmadığından usul ve yasay
 
 ## Yargıtay 5. HD 2020/9885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657838000)
+
 İlk derece mahkemesince dava konusu taşınmaza fiilen el atılmadığından davanın yargı yolu bakımından usulden reddine ilişkin olarak verilen karara karşı, davacılar vekili tarafından yapılan istinaf başvurusunun ... Bölge Adliye Mahkemesi 5.
 
 …
@@ -123,6 +139,8 @@ Bu itibarla; 15.04.2016 tarihinde açılan davada yerel mahkemece fiili el atman
 Davacılar vekilinin temyiz itirazları yerinde olduğundan ... 2. Asliye Hukuk Mahkemesinin 2016/220 E.- 2016/600 K. sayılı hükmünün HMK’nın 371. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/7826 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623952700)
 
 Davalı vekili; davacı tarafın aleyhlerinde kamulaştırmasız elatma davası açtığını bildirerek davanın reddini savunmuştur.
 
@@ -137,6 +155,8 @@ SONUÇ: Davalı vekilinin temyiz itirazlarının kabulüyle hükmün 6100 sayıl
 
 ## Yargıtay 5. HD 2019/15546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541658800)
+
 Mahkemece uyulan bozma kararı gereğince inceleme ve işlem yapılarak hüküm kurulmuş; karar, davalı idare ile davacılardan ... vd. vekillerince temyiz edilmiştir.
 
 …
@@ -148,6 +168,8 @@ Bozma ilamı öncesinde yapılan yargılamada, dava konusu taşınmazın imar pl
 Davalı idare ile davacılardan ... vd. vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2019/15512 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/556175400)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -163,6 +185,8 @@ Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan ne
 
 ## Yargıtay 5. HD 2019/15395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539803300)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 İlk derece mahkemesince kamulaştırmasız el atma nedeniyle tazminat ve ecrimisil talebinin kabulüne ilişkin olarak verilen karara karşı,taraf vekillerince yapılan istinaf başvuru talebinin ... Bölge Adliye Mahkemesi 5.
@@ -175,6 +199,8 @@ Taraf vekillerinin temyiz itirazları yerinde olmadığından usul ve yasaya uyg
 
 ## Yargıtay 5. HD 2019/10500 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510053600)
+
 Dava, kamulaştırmasız el atmanın önlenmesi, eski hale iade, bunlar mümkün olmadığı takdirde uğranılan zararın giderimi istemine ilişkindir.
 
 …
@@ -186,6 +212,8 @@ Kamulaştırmasız el atmaya dayanan davalarda görev, dava tarihinde yürürlü
 Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenle HUMK 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2019/3325 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484426000)
 
 Mahkemece uyulan bozma kararı gereğince inceleme ve işlem yapılarak hüküm kurulmuş; karar, davacılar vekilince temyiz edilmiştir.
 
@@ -205,6 +233,8 @@ Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan
 
 ## Yargıtay 5. HD 2019/1540 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/480850200)
+
 Dava, kamulaştırmasız el atma nedeniyle ecrimisil istemine ilişkindir.
 
 Mahkemece davanın reddine karar verilmiş; hüküm, davacılar vekilince temyiz edilmiştir.
@@ -218,6 +248,8 @@ Yukarıda bahsi geçen kamulaştırmasız el atma davası öncesi dava konusu ta
 Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K'nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 5. HD 2018/14119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433116900)
 
 Dava, kamulaştırmasız el koymadan kaynaklanan alacağa ilişkin ilamsız icra takibine vaki itirazın iptali istemidir.
 
@@ -233,9 +265,13 @@ Davalı ... vekilinin temyiz itirazları yerinde olduğundan hükmün açıklana
 
 ## Yargıtay 5. HD 2018/5972 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411446100)
+
 Dava konusu taşınmazlara fiili el atma olup olmadığı araştırılarak, fiili el atma mevcut ise dava konusu taşınmazların yüzölçümüne, geometrik ve imar durumuna göre müstakil yapılaşmanın ve kullanmanın mümkün olup olmadığı olacak ise ne oranda kısıtlama olacağı Belediye İmar Müdürlüğünden sorularak sonucuna göre daha önce kamulaştırılan taşınmazdan arta kalan kısım olan dava konusu taşınmazlarda değer kaybı oranının belirlenmesi gerektiği düşünülmeden eksik inceleme ile yazılı şekilde karar verilmesi Doğru görülmemiştir.Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428.
 
 ## Yargıtay 5. HD 2018/2259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411648500)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -248,6 +284,8 @@ Mahkemece, davanın reddine karar verilmiş; hüküm, davacı vekilince temyiz e
 Davacı vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2018/1255 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/416874600)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkin ilişkindir.
 
@@ -263,6 +301,8 @@ Mahkeme kararının açıklanan nedenlerle davacılar vekilinin ve davalı ... v
 
 ## Yargıtay 5. HD 2017/23205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378474700)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili ve ecrimisil istemine ilişkindir.
 
 Mahkemece, davanın reddine karar verilmiş; hüküm, davacı vekilince temyiz edilmiştir.
@@ -272,6 +312,8 @@ Mahallinde yapılan keşif sonucu düzenlenen fen bilirkişi raporlarına göre,
 Davacı vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2017/12264 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/333153400)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -284,6 +326,8 @@ Mahkemece, davanın ... yönünden husumetten reddine, ... yönünden kabulüne 
 Davalı ... vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2017/5894 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/300775100)
 
 Dava, kamulaştırmasız el atma nedeni ile tazminat ve ecrimisil istemine dayalı ilamsız icra takibine yönelik itirazın iptali, takibin devamı ve %40 oranında icra inkar tazminatına hükmedilmesi istemine ilişkindir.
 
@@ -299,6 +343,8 @@ Taraf vekillerinin temyiz itirazları yerinde olmadığından usul ve yasaya uyg
 
 ## Yargıtay 5. HD 2016/10164 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/198403400)
+
 Dava kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davaya bakma görevi idari yargı merciine ait olduğundan dava dilekçesinin görev yönünden reddine karar verilmiş; hüküm davacılar vekilince temyiz edilmiştir.
@@ -313,6 +359,8 @@ Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan
 
 ## Yargıtay 18. HD 2016/9397 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/234955400)
+
 Bir taşınmazda kamulaştırmasız el atma olgusunun varlığının kabul edilmesi için usulüne uygun kamulaştırma işlemi yapılmadan, kamulaştırma yetkisine sahip kamu idaresi tarafından bir kamu hizmeti sunulması amacıyla taşınmaza kalıcı ve sürekli olarak fiilen el atılması gerekir. Taşınmazda kendiliğinden oluşan toprak yolun kamulaştırmasız el atma niteliği taşımadığı ortadadır. Taşınmazın fiilen el atıldığı belirtilen kısımları bu ilkeler yönünden yeniden incelenerek fiilen el atma olgusu ayrıntılı araştırılıp, başta belirtilen ilke doğrultusunda taşınmaza hangi idare tarafından, ne zaman, ne şekilde el atıldığı, imar planında yol, park ve yeşil alan olarak belirlenen kısımların hangi idarenin sorumluluk alanında kaldığı tespit …
 
 …
@@ -321,11 +369,15 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/17943 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/190598600)
+
 Dava konusu taşınmazın 352 m² lik kısmına yol ve kaldırım olarak el atılması nedeniyle kamulaştırmasız el atma davası açıldığı, 18.04.2013 tarihli fen bilirkişi raporunda dava konusu taşınmazın imar uygulaması sonucu 780 m² lik kısmının 3300 ada 1 parsele gittiği, 352 m² sinin kamulaştırma alanı olarak ayrıldığı, 259,16 m² sinin ise DOP olarak kesildiği, 22.04.2013 tarihli bilirkişi raporunda da kamulaştırılacak alan olarak gösterilen 352 m² lik kısmın ana arterde bulunup, yol ve kaldırım olarak kullanılmakta olduğu belirtildiğine göre, dava konusu taşınmaza fiilen el atılıp atılmadığı, fiilen el atılan kısmın kamulaştırılan alanda kalıp kalmadığı, hakim gözlemi de tutanağa geçirilmek suretiyle mahallinde tespit edilip, sonucuna göre karar verilmesi gerekirken bilirkişi raporuyla çelişki oluşturacak şekilde dava konusu taşınmaza hukuki el atma olduğu kabul edilip idari yargının görevli olduğu gerekçesiyle usulden reddine karar verilmesi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2015/14014 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147705000)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -340,6 +392,8 @@ Kamulaştırmasız el atma talebinde bulunabilmek için idarenin taşınmaza fii
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/13769 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/191750600)
 
 Bir taşınmazda kamulaştırmasız el atma olgusunun varlığının kabul edilebilmesi için usulüne uygun kamulaştırma işlemi yapılmadan, kamulaştırma yetkisine sahip kamu idaresi tarafından bir kamu hizmeti sunulması amacıyla taşınmaza kalıcı ve sürekli olarak fiilen el atılması gerekir. Dava konusu taşınmaza bir kamu hizmeti sunulması amacıyla davalı idare tarafından fiilen el atılmadığı, taşınmazın imar planında mezarlık alanı olarak belirlenmediği, büyükşehir belediyesi tarafından bir süre taşınmazın temizlik bakımının yapıldığı belirtilse de bu hususun mezarlık olarak el atma niteliğinde kabul edilemeyeceği, bilakis davalı idare tarafından mezarlık olarak kullanılmaması için taşınmaza defin işleminin yasaklandığı hususları dikkate alındığında fiilen el atma olgusu bulunmadığından davanın reddine karar verilmesi gerekirken kabulü yönünde hüküm kurulması doğru görülmemiştir.
 

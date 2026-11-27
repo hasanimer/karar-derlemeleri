@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/3637 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142723300)
+
 Davacı vekili dava dilekçesinde özetle; Muğla ili, ... ilçesi, ... Mahallesi 120 ada 1 parselde bulunan 7 nolu bağımsız bölümün maliki olduğunu, davalıların ise aynı ada parselde kain 11 nolu bağımsız bölümün maliki olduklarını, davalıların 7 nolu bağımsız bölümün ekli aplikasyon krokisinde belirtilen kısmına ihata duvarı çekmek suretiyle tecavüzde bulunduğunu, şifahi uyarılara rağmen kaldırılmadığını, belirterek, davalıların yaptıkları müdahalenin menine, duvarın kaline ve eski hale getirilmesine karar verilmesini talep etmiştir.
 
 …
@@ -43,6 +45,8 @@ gerektiğinin düşünülmemesi bozmayı gerektirmiştir.
 
 ## Yargıtay 5. HD 2025/1722 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135420100)
+
 Davacı ... vekili dava dilekçesinde özetle; Balıkesir ili, ..., 1837 ada 2 parsel sayılı taşınmaz üzerinde bulunan sitenin numaralı bağımsız bölüm maliki olan davalının, kat maliklerinin onayı olmadan ve yönetim planındaki düzenlemeye aykırı olacak şekilde pek çok sayıda hayvan beslediğini, kötü koku ve gürültüye sebebiyet verdiğini, ön ve arka balkonları kapattığını, yine balkonun yarısına kadar mimari görünümü etkiler şekilde ahşap kafes yaptırdığını, yönetim planının 17 nci maddesinde, site sakinlerinin münhasıran kendi bağımsız bölümlerinde ve ortak yerlerde kedi, köpek ve tavuk vb. hayvanları barındırıp besleyemeyeceği; 18 inci maddesinde ise, bağımsız bölümlerde yapının orjinal mimari görünümünü etkileyecek ve bilhassa dış cephe üzerinde herhangi bir değişiklik ve ilaveler yapamayacağının düzenlendiğini, davalının haksız müdahalesinin önlenmesi amacıyla noterden ihtar çekildiğini, ancak bugüne kadar sonuç alınamadığını ileri sürerek müdahalenin önlenmesi ve kapatılan balkonların ve yapıların kaldırılarak eski hale getirilmesini, davalının site içerisinde ya da kendi bağımsız bölümünde hayvan barındırma ve beslemesinin önlenmesini talep ve dava etmiştir.
 
 …
@@ -60,6 +64,8 @@ Davalı vekili cevap dilekçesinde özetle; davacının kat maliki olmadığın�
 Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/5880 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060354900)
 
 1\.
 
@@ -88,6 +94,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usu
 
 ## Yargıtay 5. HD 2024/5536 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058763600)
+
 Davalı vekili cevap dilekçesinde özetle; davayı kabul etmediğini, bahçe kullanım sınırlarının... İnşaat tarafından belirlendiğini ve ilgili kat maliklerine kullanım hakkı verildiğini, bu alanın kullanımının herhangi bir kurala aykırılık teşkil etmediğini, pergola sisteminin Narlife konut projesi bahçe ve teras pergola sistemi yapı elemenları yapım şartnamesine uygun yapıldığını, davanın reddi gerektiğini savunmuştur.
 
 …
@@ -103,6 +111,8 @@ O halde mahkemece ana gayrimenkule ait mimari proje, tapu kaydı ve yönetim pla
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2024/5530 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058749600)
 
 Davacılar vekili dava dilekçesinde özetle; müvekkillerinin davaya konu Dap Yapı A.Ş.’nin İstanbul ili, Maltepe ilçesi, Altayçeşme Mahallesi 27 pafta 413 ada 32 parsel üzerine kurulu olan Dap Burgu Tango Projelerinden daire satın aldığını, taşınmazda bağımsız bölüm maliki olduklarını, bu satın alma nedeniyle davalılarla adaletsiz arsa payı dağıtılması, hakkaniyete aykırı yönetim planı hazırlanması, aşırı yüksek aidat, ruhsat ve projelerine aykırı kalıcı değişiklikler ve ortak alana yapılan müdahaleler nedeniyle sorunlar yaşadıklarını, bu nedenlerle İstanbul Anadolu 19. Sulh Hukuk Mahkemesinin 2015/106 Esas sayılı tespit davası açıldığını ve yaşanan sorunların giderilmesi ve ortak alanlara müdahalenin sonlandırılması için davalılara Kadıköy 32.
 
@@ -122,6 +132,8 @@ Kabule göre de Mahkemece; yönetim planınca bağımsız bölüm malikine tanı
 
 ## Yargıtay 5. HD 2024/4081 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053142200)
+
 Davacı dava dilekçesinde özetle; ana taşınmaz üzerinde bulunan B Blok 1 numaralı bağımsız bölümün maliki olduğunu, davalı site yönetiminin Kat Malikleri Kurulunu oluşturan 60 kat malikinin onayını almadan tarafına ait dairenin ön tarafında çocuk parkı inşaatına başladığını, beton döküldüğünü, Yönetim Planının Genel Hükümler kısmının 38 inci maddesinde açıkça oy birliği gerektiği belirtildiği gibi, sitenin mimari projesinde ve vaziyet planında da böyle bir yapı görünmediğini, mevcut imar projesinde, vaziyet planında ve peyzaj projesinde de olmayan bu durumun kendisi ile birlikte diğer kat maliklerinin hakkına bir tecavüz olduğundan dolayı davalı tarafın yapmış olduğu tecavüzün önlenmesine, durumun eski hale getirilmesine, yapılan imalatın kal'ine, yargılama giderlerinin ve vekâlet ücretinin davalıya yükletilmesine karar verilmesini talep etmiştir.
 
 …
@@ -137,6 +149,8 @@ Davalı vekili cevap dilekçesinde özetle; davalı müvekkilin yapım işi içi
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/13283 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1000161000)
 
 Mahkemece bozmaya uyularak yapılan yargılama sonucun da davanın kabulüne karar verilmiştir.
 
@@ -158,6 +172,8 @@ Davalı TT Mobil İletişim A.Ş vekilinin yerinde görülmeyen tüm temyiz itir
 
 ## Yargıtay 5. HD 2023/12776 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994648600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
 …
@@ -178,6 +194,8 @@ Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 5. HD 2023/9709 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990379000)
+
 Davalı vekili cevap dilekçesinde özetle; davanın kötü niyetli olarak açıldığını, davalının balkon demirliklerinde yaptığı uygulamanın çevreye bir zararı olmadığını, hali hazırda dava konusu olan hususu, apartmanda büyük çoğunluk balkonlarında değişiklik yaptığı için vekil edenin yapmış olduğu uygulamanın bütünlüğü bozmadığını, bunca değişiklik yapan kat malikleri varken sadece vekil edene böyle bir husumet yöneltildiğini, davacı tarafın tamamen kötü niyetli davrandığını, davacı tarafın bu tutumunun 4721 sayılı Türk Medeni Kanun'un 2 nci maddesinde ki dürüstlük kuralına aykırı olduğunu, kanunda da açıkça belirtildiği üzere, bir hakkın açıkça kötüye kullanılmasının hukuk düzenince korunmadığını belirterek davanın reddi gerektiğini savunmuştur.
 
 …
@@ -189,6 +207,8 @@ Dairece yapılan temyiz incelemesi neticesinde ana taşınmaza ait yönetim plan
 Davacı vekilinin yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2023/9203 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987877000)
 
 Davacı vekili dava dilekçesinde özetle; davalının ortak alan olan dış cephede pencere ve balkonlarına file takmak sureti ile müdahalede bulunduğunu, yapının eski hale getirilmesine karar verilmesini talep etmiştir.
 
@@ -206,6 +226,8 @@ Davacı vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun olan kar
 
 ## Yargıtay 5. HD 2022/14722 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829750600)
+
 Mahkemece bozmaya uyularak yapılan yargılama neticesinde davanın kabulüne karar verilmiştir. Mahkemece 28.01.2021 tarihli ek karar ile hükmün tamamlanmasına karar verilmiş olup, ek karar da davalı vekili tarafından temyiz edilmiştir.
 
 …
@@ -217,6 +239,8 @@ Mahkemece bozmaya uyularak yapılan yargılama neticesinde davanın kabulüne ka
 Bu itibarla, yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile 28.01.2021 tarihli ek kararın BOZULMASINA …
 
 ## Yargıtay 1. HD 2022/8537 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892249200)
 
 Davacı dava dilekçesinde, dava konusu taşınmazda davalı ile ortak malik olduklarını, taşınmazdaki ortaklığın satış suretiyle giderilmesine karar verildiğini, dava konusu taşınmazda davalıya ait yapının yürürlükte bulunan imar planı uyarınca günü birlik alana tekabül ettiğini ve sahil şeridi içerisinde yer aldığını, bu yerde yapı yapılmasının mümkün olmadığını, 3621 sayılı Kanun’un 8 inci maddesine aykırılık olduğunu ve ilgili Yönetmelik uyarınca da müktesep hakkı olmadığını ileri sürerek davalının müdahalesinin meni ve yapının kaline karar verilmesini istemiştir.
 
@@ -241,6 +265,8 @@ Bu madde hükümleri, 18.11.1983 tarihli ve 2960 sayılı Boğaziçi Kanununda t
 Açıklanan nedenlerle, davacı vekilinin yerinde görülen temyiz itirazlarının kabulüyle 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 371 inci maddesi uyarınca Bölge Adliye Mahkemesi kararının KALDIRILMASINA …
 
 ## Yargıtay 5. HD 2022/2165 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736518900)
 
 Davacı vekili dava dilekçesinde; davalının onaylı mimari proje gereği sadece projede B02 olarak adlandırılan Oda ile B07 olarak adlandırılan Merdiven yazılı bölümlerin maliki iken ve hukuken buraları kullanmaya ehil iken sadece buraların kullanımı ile yetinmemiş bu kattaki ortak alan içerisinde yer alan bölümlere de haksız ve hukuka aykırı olarak el atmış bulunduğunu, müvekkilinin malik olduğu taşınmaza bağlı olarak kullanım hakkı bulunan ortak alandan yararlanabilmesinin mümkün olmadığını, zira davalının haksız surette ve geçerli bir neden olmaksızın kayden müvekkilinin de hak sahibi olduğu alanı tek başına işgal ettiğini, beyan ederek, ortak alanlara yapılan müdahalenin önlenmesine, onaylı mimari projeye aykırılık oluşturan değişikliklerin projesine uygun eski hale getirilmesine karar verilmesini istemiştir.
 

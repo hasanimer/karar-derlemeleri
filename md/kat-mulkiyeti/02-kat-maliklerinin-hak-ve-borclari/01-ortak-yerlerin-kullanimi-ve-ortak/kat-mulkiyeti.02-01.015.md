@@ -22,16 +22,22 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2008/12867 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876129800)
+
 Davalının 5 no'lu bağımsız bölümünün balkonunu tavana kadar PVC doğrama ve camekan ile kapattığı bilirkişi raporu ile saptanmış olup, bu değişikliğin 634 Sayılı Kat Mülkiyeti Yasasının 19. maddesinin 5711 Sayılı Yasa ile değişik ikinci fıkrasına aykırılık oluşturduğu
 
 anlaşılmaktadır. Davacının bu dava açılmadan önce imar mevzuatına aykırı değişikliklerin projeye uygun duruma getirilmesi için ilgili belediye başkanlığına verdiği 17.08.2004 günlü dilekçesinin arkasına daha sonra 26.08.2004 tarihinde düşülen "... ... enerjisi dışındaki şikayetimizi geri alıyoruz" şeklindeki şerhin salt belediyenin imar mevzuatı açısından yapacağı işlemleri kapsadığı, eldeki bu dava açısından mahkemeye sunulmuş bir vazgeçme (feragat) bulunmadığı dolayısıyla daha sonra açılmış bulunan bu davaya konu edilen kapatılan balkonun eski hale getirilmesi isteminden feragat ettiği anlamına gelmiyeceği gibi başka bir kuruma verilen dilekçedeki söz konusu şerhin Kat Mülkiyeti Yasasının 19. maddesinin değişik ikinci fıkrasında öngörülen yazılı muvafakat niteliği de taşımadığı gözetilmeden mahkemece bunun bir muvafakat olarak kabulü ile kapatılan balkonun eski hale getirilmesi istemli davanın da kabulü yerine reddine karar verilmiş olması doğru görülmüştür.
 
 ## Yargıtay 18. HD 2008/12778 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875785100)
+
 634 Sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrasına göre kat maliklerinden biri bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anagayrimenkulün ortak yerlerinde inşaat, onarım, tesis ve değişiklik yaptıramaz. Aynı Yasanın 16. maddesinde de kat malikleri anataşınmazın bütün ortak yerlerine arsa payları oranında ortak mülkiyet hükümlerine göre malik olurlar ve ortak yerlerde kullanma hakkına sahiptirler. Ayrıca aynı yasanın 18. maddesinin birinci fıkrasında da kat malikleri, gerek bağımsız bölümlerini gerek eklentileri ve ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirini rahatsız etmemek, birbirinin haklarını çiğnememekle karşılıklı olarak yükümlü oldukları öngörülmüştür.
 Yasanın bu hükümleri dikkate alınarak yerinde uzman bilirkişi aracılığıyla keşif yapılıp davacının her bir iddiası ile ilgili olarak proje ve vaziyet planına aykırılıkların ölçekli krokiye de bağlanmak suretiyle saptanması ve bunların projesine uygun eski hale getirilmesine karar verilmesi ve ayrıca ortak alandaki (bahçedeki) kuyunun kullanım şekli ile ilgili olarak taraflar arasındaki muarazanın giderilmesi yönünde karar verilmesi gerekirken eksik inceleme ve yetersiz araştırmaya dayanılarak bilirkişi raporuna itibarla hüküm kurulmuş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/12619 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16795500)
 
 5711 sayılı Yasa'yla değişik 634 sayılı Kat Mülkiyeti Yasası'nm 19. maddesinin ikinci fıkrasına göre, kat maliklerinden biri bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım, tesis ve değişiklik yaptıramaz. Yasanın bu hükmünün karşıt yorumundan kat maliklerinin beşte dördünün katılımıyla bu tür tesis ve değişikliklerin yaptırılabileceği açıkça anlaşılmaktadır. Bununla birlikte, 634 sayılı Kat Mülkiyeti Yasası'nm 18. maddesine göre de; kat malikleri, gerek bağımsız bölümlerin, gerek eklentileri ve ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirini rahatsız etmemek, birbirinin haklarını çiğnememek ve yönetim planı hükümlerine uymakla karşılıklı olarak yükümlüdürler. Mahkemece yasanın sözü edilen hükümleri dikkate alınarak olay yerinde uzman bilirkişi marifetiyle keşif yapılıp, davacının iddia ettiği gibi davalıların yapmış oldukları tesis ve değişiklik sonucu davacıya ait bağımsız bölüme is, kurum ve duman gibi zarar verici maddelerin sızıp sızmadığı araştırılıp, bunların ne şekilde giderilebileceği belirlenerek bu önlemlere hükmedilmesi, alınacak tüm
 
@@ -39,50 +45,74 @@ Yasanın bu hükümleri dikkate alınarak yerinde uzman bilirkişi aracılığı
 
 ## Yargıtay 18. HD 2008/12161 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877475300)
+
 Davalının anayapının ortak çatısının tüm bağımsız bölüm maliklerinin beşte dördünün yazılı rızası olmaksızın onaylı mimari projede yer almayan ve salt kendi kullanımına özgü su deposu yaptığı, ayrıca bu davalının davacının işyeri niteliğindeki bağımsız bölümünün önündeki ortak yer olan boşluk alanın belli bir kısmına seramik döşeyerek müdahalede bulunduğu dosya kapsamından anlaşılmaktadır. Saptanan bu durum karşısında davalının sözü edilen bu eylemlerinin 634 sayılı Kat Mülkiyeti Yasasının 19. maddesinin 5711 sayılı Yasayla değişik ikinci fıkrası hükmüne aykırılık oluşturduğu gözetilerek ortak çatıya yaptırdığı su deposunun kaldırılarak çatının eski hale getirilmesine ve yine davacının bağımsız bölümünün önündeki ortak yer olan boşlukta yaptığı değişikliğin eski hale getirilmesine hükmedilmesi ve yargılama giderlerinin davalıya yüklenmesi gerekirken bu yöndeki istemlerinin reddine karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/11985 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876974900)
 
 634 sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrasına göre kat maliklerinden biri anataşınmazın tüm kat maliklerinin beşte dördünün yazılı rızası olmadıkça ana taşınmazın ortak yerlerinde inşaat onarım ve tesis yapması yasaklanmıştır. Yasanın bu hükmü uyarınca normal koşullarda kat maliklerinin ortak yer niteliğinde olan balkon ve pencerelerin dış cephesine, projesine aykırı tesis yapması mümkün değil ise de, Yargıtay'ın kararlık kazanmış uygulamalarında özellikle bodrum ve zemin katlarda bulunan bağımsız bölümlerin balkonlarındaki kapılarla diğer tüm pencerelerin dış yüzüne yatay bağlantısı ve bombesi olmayan düz ve dikey demir parmaklık takılmasına güvenlik açısından zorunluluk bulunduğunda izin verilmektedir.
 
 ## Yargıtay 18. HD 2008/11983 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16735000)
+
 634 sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrasına göre kat maliklerinden biri tüm kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde onarım, tesis ve değişiklik yaptıramaz. Yasanın bu buyurucu hükmü dikkate alınarak anataşınmazın bahçesinin otoparka dönüştürülmesine ilişkin alınan kararda beşte dört çoğunluk bulunmamakta ise de anılan kararda davacı M.. Y..'ün de imzası mevcut olduğundan böyle bir dava açmakla Türk Medeni Yasasının 2. maddesinde öngörülen dürüstlük kuralına uyulmadığından davanın reddine karar verilmesi gerekirken kabulü doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/11071 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16694700)
 
 634 sayılı Yasa'nın 5711 sayılı Yasa ile değişik 19. maddesinin ikinci fıkrasına göre; kat maliklerinden biri bütün kat maliklerinin beşte dördünün yazılı izni olmadıkça anataşınmazın ortak yerlerinde onarım, tesis ve değişiklik yaptıramaz. Ana kural bu olmakla birlikte, bilhassa son yıllarda şehirlerdeki hava kirliliğinin önlenmesi bakımından ısınma ve aydınlatmada kullanılan katı yakıtların yanında gaz yakıtlara da yer verilmekte ve özellikle doğalgazın kullanılması yerel ve merkezi yönetimlerce özendirilip teşvik edilmektedir. Doğalgazın tüm yakıtlar içinde çevreye en az zarar veren bir yakıt olduğu bilinmektedir.
 
 ## Yargıtay 18. HD 2008/10854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876843000)
+
 Dava konusu edilen projeye aykırılıkların kat malikleri kurulunun 04.11.2004 ve 03.01.2005 günlü kararlarına dayanılarak gerçekleştirildiği ve bu kararlara davacı kat maliklerinden ., ...., ., ., . ve .’ın olumlu oy kullandıkları anlaşılmakla, bunların böyle bir davayı açmalarının 4721 sayılı Türk Medeni Kanunun 2. maddesinde öngörülen dürüstlük kuralı ile bağdaşmadığı gözetilerek adı geçenler yönünden davanın bu nedenle reddi gerekirken onların yönünden de davanın kabulüne karar verilmiş olması,…
 
 ## Yargıtay 18. HD 2008/10777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881230600)
 
 634 sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrasına göre bütün kat maliklerinin beşte dördünün rızası olmadıkça anataşınmazın ortak yerlerinde onarım, tesis ve değişiklik yaptıramaz.
 Yasanın bu buyurucu hükmü dikkate alınarak mahkemece davalılardan yukarıda belirtilenlerin gerçekleştirmiş oldukları balkon kapatma ve dış duvara klima yerleştirme ile bina önüne saçtan güneşlik ve sundurma yapma eylemleri nedeniyle açılan davanın kabulüne, tadilat, tesis ve değişikliklerin onaylı mimari projesine uygun eski hale getirilmesine karar verilmesi, diğer değişikliklerin ise projeye aykırılık teşkil edip etmediğinin Yasanın 19. maddesinin ikinci fıkrasında her bağımsız bölüm malikinin kendi bağımsız bölümünde anayapıya zarar vermeyecek nitelikteki tesis ve değişiklikleri yapma hakkı kapsamına girip girmeyeceği bağımsız bölüm dış kapılarının cins, renk görünüm ve ölçülerinin mimari projeye uygun bulunup bulunmadığı, dış görünümlerinin binanın içinde diğerlerine nazaran göze hoş gelmeyecek şekilde bir farklılık veya genel estetiği bozacak nitelikte olup olmadığı konularında bilirkişiden ek rapor alınıp oluşacak sonuca göre hüküm kurulması gerektiğinin düşünülmemesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/10494 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881176600)
+
 634 Sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrasına göre, kat maliklerinden biri bütün kat maliklerinin beşte dördünün rızası olmadıkça anataşınmazın ortak yerlerinde onarım, tesis ve değişiklik yaptıramaz. Dava konusu anataşınmazda yapılan keşif sonucu düzenlenen 03.01.2008 ve 28.03.2008 tarihli bilirkişi rapor ve ekraporlarında klimanın anataşınmazın ortak alanı olan havalandırma boşluğuna yerleştirildiği açıkça tespit edilmiş olduğundan klimanın sözü edilen yerden kaldırılmasına karar verilmesi gerekirken yazılı gerekçeyle davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/10355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876231300)
 
 Kat Mülkiyeti Yasası hükümlerine göre kat maliki olmayan yöneticinin kat malikleri kurulundan yetki almadıkça ortak yerlere müdahalenin önlenmesi ve mimari projeye aykırılığın giderilmesi davası açma yetkisi bulunmamaktadır. Ancak dosyada mevcut tapu kaytılarına göre, davacı .'ın aynı zamanda ana yapıda 10 nolu bağımsız bölümün maliki olduğu anlaşıldığından bu sıfatı itibarıyla davacının aktif husumet ehliyetinin kabulü ile işin esasına girilmesi gerekirken yazılı gerekçeyle davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/10352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876243000)
+
 Yine Krokide (F) harfli gösterilen kuyu (artezyen) yönünden ise; davalının Kat Mülkiyeti Yasasının 19. maddesine aykırı olarak ortak yere kuyu açtığı ve müdahalede bulunduğu sabit olduğundan, bu yere davalının müdahalesinin önlenmesine karar verilmesi gerekirken, üzerinin tamamen kare mozaik ile kaplandığı ve zeminde kuyunun belli olmadığı ayrıca kuyunun tüm kat maliklerine fayda sağladığı gibi yerinde olmayan gerekçelerle bu yönden davanın reddine karar verilmesi,…
 
 ## Yargıtay 18. HD 2008/8914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878009500)
 
 634 sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrasına göre kat maliklerinden biri bütün kat maliklerinin beşte dördünün rızası olmadıkça anataşınmazın ortak yerlerinde onarım, tesis ve değişiklik yaptıramaz. Dosya içindeki bilgi ve belgelerden ve özellikle bilirkişi raporu içeriğinden; davalının anataşınmazın ortak yerlerinde projeye aykırı olarak tesis ve değişiklikler yaptığı anlaşılmaktadır. Mahkemece yapılan bu değişikliklerin onaylı mimari projeye uygun olup olmadığı araştırılıp bu konuda uzman bilirkişiden her bir değişikliği gösteren kroki de düzenlenmek suretiyle rapor alınıp, bu konudaki tüm deliller toplandıktan sonra oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken, bilirkişinin hukuka aykırı görüşlerine itibarla davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/8410 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878828400)
+
 634 Sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrasına göre kat maliklerinden biri bütün kat maliklerinin beşte dördünün rızası olmadıkça anataşınmazın ortak yerlerinde onarım, tesis ve değişiklik yaptıramaz. Yasanın bu buyurucu hükmü dikkate alınarak dava konusu anataşınmazın bahçesinde yaptırılmış olan ve projeye aykırı bulunan garajın yıkılmasına karar verilmesi gerekirken davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/7594 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876302500)
 
 Bu yönden yapılacak incelemede sözü edilen projeye tüm kat maliklerinin muvafakatının bulunduğunun belirlenmesi durumunda ancak bu proje geçerli olacak ve dava konusu değişikliklerin bu projeye aykırılık oluşturup oluşturmadığı buna göre değerlendirilecektir. Tüm kat maliklerinin muvafakatının bulunmadığının tespiti halinde ise röleve projesi geçersiz olacağından bu kez 22.7.1977 onay tarihli orijinal mimari projeye itibar edilerek
 
@@ -90,10 +120,14 @@ dava konusu değişikliklerin buna aykırı olup olmadığının tespiti gerekec
 
 ## Yargıtay 18. HD 2008/7197 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875397600)
+
 634 sayılı Kat Mülkiyeti Yasasının 28.11.2007 tarihinde yürürlüğe giren 5711 sayılı Yasayla değişik 19. maddesinin ikinci fıkrası hükmünde kat maliklerinden birinin ana taşınmazın ortak yerlerinde kat maliklerinin beşte dördünün yazılı rızası olmadıkça inşaat, onarım, tesis ve değişiklikler yapamayacağı öngörülmüştür. Dosyada bulunan ve tüm kat maliklerinin katılımı ile düzenlenen 07.01.2004 tarihli ‘Muvafakatname’ başlıklı belgede, sözü edilen tarihte 5 ve 6 nolu bağımsız bölümlerin maliki olan ...’nin anayapıda bazı değişiklikler yaptığı kabul edilmiş, yapılan değişikliklerden kat maliklerinin yararına olanlar karşılığında bazı yerlerin kullanımı adı geçene bırakılmış ve kat malikleri kurulunun 01.05.2004 tarihli toplantısında da anayapıdaki bazı onarımları ...’nin yapması karşılığında otoparkın kendisine verilmesine ve depoların aynı şekilde kalmasına karar verilmiştir.
 Muvafakatname başlıklı belgeye ve kat malikleri kurulu kararına 4 nolu bağımsız bölüm maliki ... yerine imza atan ...’nin kat maliki tarafından vekil atanmamış olabileceği düşünülse dahi yukarıda sözü edilen yasa maddesinde öngörüldüğü üzere muvafakatnamenin ve kararın anataşınmazdaki kat maliklerinin beşte dördünün olumlu oylarıyla alındığı, saptanan bu durum karşısında muvafakatname ve kurul kararında verilen onay kapsamında kalan değişiklikler hususunda yasanın öngördüğü koşulun gerçekleştiği anlaşılmaktadır.
 
 ## Yargıtay 18. HD 2008/6840 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876063700)
 
 Bu bakımdan somut olayda da mahkemece öncelikle davaya konu taşınmaz üzerindeki yapının onaylı projesi dosyaya getirtilmeli ve projeye aykırı olduğu belirlenen hususlara ilişkin tadilat projesinin olup olmadığı taraflardan ve ilgili belediyeden sorulup etraflıca araştırılmalı, düzenlendiği takdirde tadilat projesinin onaylanıp onaylanamayacağı hususu ilgili belediyeden sorulmalı, tadilat projesinin onaylanamayacağının saptanması halinde öncelikle aykırılıkların giderilmesi, tadilat projesi de bulunmadığı taktirde ana binanın yapıldığı şekle göre projelendirilmesinin mümkün olup olmadığı araştırılarak mümkün olması halinde rölöve projesi yaptırılıp bunun, Belediyenin ilgili birimlerince onaylanması sağlanıp ve ayrıca Kat Mülkiyeti Yasasının 12 nci maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen davalı tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre
 
@@ -101,37 +135,53 @@ Bu bakımdan somut olayda da mahkemece öncelikle davaya konu taşınmaz üzerin
 
 ## Yargıtay 18. HD 2008/6513 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875472500)
+
 634 Sayılı Kat Mülkiyeti Yasasının 28.11.2007 tarihinde yürürlüğe giren 5711 Sayılı Yasayla değişik 19. maddesinin ikinci fıkrası hükmünde kat maliklerinden birinin ana taşınmazın ortak yerlerinde kat maliklerinin beşte dördünün yazılı rızası olmadıkça inşaat, onarım, tesis ve değişiklikler yapamayacağı öngörülmüştür. Kat malikleri kurulunun 24.11.1978 ve 14.6.1990 tarihli kararlarında davalının maliki bulunduğu dava konusu 7 nolu bağımsız bölümünün ön balkonlarının kapatılmasına karar verildiği ve yukarıda sözü edilen yasa maddesinde öngörüldüğü üzere bu kararın anataşınmazdaki kat maliklerinin beşte dördünün olumlu oylarıyla alındığı, saptanan bu durum karşısında davalının sözü edilen balkonunu kapatması konusunda Yasanın öngördüğü koşulun gerçekleştiği anlaşıldığından, yerinde görülen karar düzeltme isteminin bu nedenle kabulüyle, dairemizin 21.2.2008 gün, 2007/11343-2008/1923 sayılı bozma kararının kaldırılmasına, mahkeme kararının yukarıda değinilen gerekçeyle ONANMASINA, aşağıda yazılı fazla alınan temyiz peşin harcının istek halinde temyiz edene iadesine, 02.06.2008 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 18. HD 2008/5692 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885749300)
 
 Bu bakımdan somut olayda da mahkemece öncelikle davaya konu taşınmaz üzerindeki yapının onaylı projesi olup olmadığı, projeye aykırılıkların bulunup bulunmadığı, ilgili belediyeden alınacak ön bilgiye göre yapının mevcut haliyle imar mevzuatına ve bulunduğu yerin imar durumu ile fenne aykırılık oluşturmadığı veya imara ya da projeye aykırılıklar giderildiği takdirde onay verilebileceğinin saptanması halinde, öncelikle aykırılıkların giderilmesi, eksiklerin tamamlatılması daha sonra yapının fiili durumunu yansıtan projenin hazırlattırılıp, ilgili İmar Müdürlüğünün onayının ve buna bağlı olarak kullanma izin belgesinin alınması, ayrıca Kat Mülkiyeti Yasasının 12 nci maddesinde sayılan diğer belgelerin tamamlattırılması için kat mülkiyetine geçiş suretiyle ortaklığın giderilmesini isteyen tarafa yetki ve yeterli süre verilmesi, bu hususlar eksiksiz yerine getirildiği takdirde de; dava konusu taşınmaz üzerindeki yapıda her bir bağımsız bölümün (konumu, yüzölçümü, kullanım amacı ve eklentileri yerinde incelenip irdelenerek) değeri ve bu değere göre özgülenecek arsa payı uzman bilirkişi aracılığıyla saptanıp taraflar arasındaki anlaşma durumu gözetilerek her bir paydaşa düşen bağımsız
 bölümler ve gerekiyorsa bedel farkı nedeni ile ödenecek ivaz da belirlenmek suretiyle payların denkleştirilmesi, fotoğraf, malikleri gösteren liste ve yönetim planı gibi belgeleri paydaşların (tanınan süreye rağmen) imzalamaktan kaçınması halinde bunların imzalanmış sayılması suretiyle tahkikatın ikmal edilmesinden sonra kat mülkiyetine geçiş yoluyla ortaklığın giderilmesine karar verilmesi gerekir.
 
 ## Yargıtay 18. HD 2008/5618 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885373400)
+
 İcra İflas Yasasının 30. naddesinde bir işin yapılmasına (yerine getirilmesine) ilişkin ilamların ne şekilde infaz edileceği açıkça hükme bağlanmış olup; somut olayda mahkemece dava konusu edilen ortak yerlere davalıların müdahalelerinin önlenmesi ile kendilerine tanınan 20 günlük süre içerisinde bu yeri projesine uygun eski hale getirmelerine hükmedilmesi ile yetinilmesi gerekirken "süresi içerisinde eski hale getirme tamamlanmadığı takdirde dava tarihindeki yerine getirme bedeli olan 750 YTL.nin dava tarihi itibariyle faizi ile birlikte davalı taraftan alınarak davacı tarafa verilmesine" karar vermek suretiyle infaz aşamasında yapılacak işleri de kapsar biçimde hüküm kurulması,…
 
 ## Yargıtay 18. HD 2008/5454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878315800)
+
 HUMK.nun 388. maddesinin son fıkrası hükmü uyarınca mahkeme kararının hüküm sonucu kısmında istek sonuçlarından her biri hakkında verilen hükümle taraflara yüklenen borç ve tanınan hakların şüphe ve tereddüt uyanıdrmayacak biçimde açıkça gösterilmesi gereklidir. Mahkemece bozma ilamı uyarınca hüküm kurulurken davacının bağımsız bölümünde oluşan ve bilirkişi tarafından saptanan 2.400,00 YTL hasar bedelinin davalılardan alınıp davacıya ödenmesine; ortak yerlerin onarımı için saptanan 4.000 YTL tutarındaki ortak giderin de avanas olarak (davacı da dahil) tüm kat maliklerinden arsa payları oranında yönetime ödenmesine hükmedilmesi gerekirken, hüküm fıkrasının 2 nolu bendinde doğrudan davacıya ödenmesi gereken bağımsız bölüm içindeki zarar giderinin ortak yerlerin onarım giderlerine eklenmesi suretiyle hüküm kurulması,…
 
 ## Yargıtay 18. HD 2008/4465 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879967300)
 
 Ancak; ...'ın açtığı davanın davalıları olan kat maliklerinden her birinin bağımsız bölümlerinin sağ ve sol yan cephelerindeki balkonları kapatarak mutfak ve odalara kattıkları, ön cephe balkonlarını da projeye aykırı olarak kapatmış oldukları anlaşılmaktadır. Birinci bilirkişi kurulu raporunda davalıların bağımsız bölümlerinin sağ ve sol cephedeki balkonları onaylı mimari projede açıkça gösterilmiş olmasına karşın bu balkonların kapatılarak mutfak ve odalara katıldığı belirtilmiş iken; üçüncü bilirkişi kurulu raporunda sözü edilen bağmsız bölümlerin sağ ve sol cephesindeki dava konusu edilen balkonların mimari projede gösterilmediği belirtilmiştir.
 Buna göre mahkemece öncelikle birinci bilirkişi ile üçüncü bilirkişi kurulundan ek raporlar alınarak davalıların bağımsız bölümlerinin sağ ve sol yan cephelerindeki balkonların anataşınmazın onaylı mimari projesinde gösterilmiş olup olmadığının saptanması, iki rapor arasındaki bu konuya ilişkin çelişkinin giderilmesinden sonra; davalıların bağımsız bölümlerinin yan cephelerindeki davaya konu balkonların mimari projede açıkça gösterilmiş olduğunun belirlenmesi durumunda, kapatılmış olan bu balkonların ve ayrıca dava konusu edilen ve bilirkişi raporlarında projeye aykırı olarak kapatıldığı tespit edilen ön cephe balkonların projesine uygun hale getirilmesine karar verilmesi gerekirken, yukarıda açıklanan hususlar gözetilmeden davacının davasının reddine hükmedilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/4025 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879651500)
+
 Kat Mülkiyeti Yasasının 19. maddesinin birinci fıkrası hükmüne göre kat malikleri anataşınmazın mimari durumunu ve sağlamlığını titizlikle korumaya zorunlu olup, anılan maddenin ikinci fıkrası hükmüne göre de tüm kat maliklerinin (5711 sayılı Yasayla yapılan değişiklikle de beşte dördünün yazılı) rızası olmadıkça anataşınmazın ortak yerlerinde inşaat onarım, tesis ve değişiklikler yaptırılamaz. Somut olayda dava konusu edilen ortak garajın etrafının kapatılması konusunda kat malikleri kurulunca bir karar alınmışsa da bu kararda yasanın aradığı nitelikli çoğunluk bulunmamaktadır. Bilirkişi raporunda sözü edilen değişikliğin projeye aykırı olmakla birlikte, depreme karşı yapının emniyetine olumlu yönde etkili olacağı, bu nedenle projeye aykırı yapılan duvarların yıktırılmasına gerek bulunmadığı görüşüne yer verilmiş ise de, böyle bir durumun varlığı halinde yapının güçlendirilmesi, depreme dayanıklılığının sağlanması konusunda tekniğine ve yöntemine uygun bir güçlendirme projesi hazırlattırılıp buna göre yapının güçlendirilmesi gerekir.
 Yoksa onaylı mimari projeye aykırı olarak ortak garajın çevresine yapılan duvarın deprem açısından yararlı olduğu düşüncesiyle bu duvarın yıktırılmasına gerek bulunmadığı görüşüne dayanılarak davanın reddine karar verilemez.
 
 ## Yargıtay 18. HD 2008/3451 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876154800)
+
 Yerinde yapılan inceleme sonucu bilirkişi tarafından düzenlenen raporda davalı yanın ortak yere duvar örerek el attığı, bu duvarın bilirkişi raporuna ekli ... bilirkişisi tarafından çizilen krokide ... renkli çizgiyle gösterildiği anlaşılmaktadır. Kat Mülkiyeti Yasasının 19. maddesinin birinci fıkrası hükmüne göre kat malikleri anataşınmazın mimari durumunu titizlikle korumaya zorunlu oldukları gibi, ikinci fıkra uyarınca da kat maliklerinden biri (davanın açıldığı tarih itibarıyla) tüm kat maliklerinin (5711 sayılı Yasa ile yapılan değişikliğe göre de kat maliklerinin beşte dördünün) rızası olmadıkça ortak yerlerde inşaat, onarım, tesis ve değişiklikler yaptıramaz. Somut olayda dava konusu edilen duvar anataşınmazdaki kat maliklerinin rızası ile yapılmadığı gibi bu konuda kat malikleri kurulunca yöntemince alınmış bir karar da bulunmamaktadır. Davalı tarafın dayandığı karar kat malikleri kurulunun değil yönetim kurulunun kararıdır.
 Saptanan bu durum karşısında mahkemece, bilirkişi raporunda ve bu rapora ekli krokide ... renkli çizgiyle gösterilen duvarın projeye aykırı olduğu ve yapımı konusunda kat maliklerinin tümünün rızasının bulunmadığı da gözetilerek bu yöndeki istemin kabulüne karar verilmesi gerekirken, yerinde olmayan gerekçeyle davanın reddine hükmedilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/2664 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874083300)
 
 Dava konusu bağımsız bölümün işyeri olarak kullanıldığı anlaşılmakla mahkemece oluşturulacak nihai kararda davanın kabulüne ve işyeri olarak kullanılan mesken nitelikli 3 nolu bağımsız bölümün eski hale getirilmesine, bunun için davalı yana Kat Mülkiyeti Yasasının 33. maddesi hükmü uyarınca uygun belli bir süre verilmesine ve bu bağımsız bölümü kullanan ...'ün tanınan süre içinde meskene dönüştürmemesi durumunda tahliyesine, davacı yararına 450 YTL maktu avukatlık ücreti ödenmesine ve 161,60 YTL yargılama giderinin davalıdan alınıp davacıya verilmesine karar verilmesi gerekirken yargılama sırasında ara kararı ile eski hale getirme için süre verilmiş olması ve nihai kararda doğrudan tahliyeye karar verilmesi, davacı yararına 500 YTL maktu avukatlık ücreti tayin
 
@@ -139,45 +189,67 @@ edilmesi ve 168,55 YTL yargılama giderinin davalıdan alınıp davacıya ödenm
 
 ## Yargıtay 18. HD 2008/2128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877696100)
+
 İptali istenilen ve anayapının dış cephelerinde gerçekleştirildiği ileri sürülen projeye aykırı değişikliklerin dayanağını oluşturan 28.5.2005 günlü kat malikleri kurulu toplantısı ve bu toplantıda alınan kararların iptali istenildiğine göre Yargıtay'ın yerleşmiş uygulamaları da gözönünde bulundurularak böyle bir davanın iptali istenen karara olumlu oylarıyla katılmış bulunan tüm kat maliklerine yöneltilmesi gerekir. Öyle ise öncelikle mahkemece kat malikleri kurulunun 28.5.2005 günlü olup yapının dış cephesinde değişiklikler yapılmasını öngören karara olumlu oylarıyla katılan ancak davada taraf olmayan diğer kat maliklerinin de davalılar yanında yöntemince davaya dahil edilmelerinden ve taraf teşkili sağlanmasından sonra toplanan ve toplanacak olan kanıtlar doğrultusunda oluşacak sonuca göre hüküm kurulması gerekir.
 
 ## Yargıtay 18. HD 2008/63 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874339900)
 
 Kat Mülkiyeti Yasasının 19. maddesinin birinci fıkrası hükmü uyarınca kat malikleri anataşınmazın mimari durumunu ve sağlamlığını titizlikle korumakla yükümlüdürler. Yargıtay uygulamalarına göre yapının inşaatı sırasında gerçekleştirilmiş projeye aykırılıkların da projeye uygun hale getirilmesi binanın statiğine bir zarar vermesi ya da davacının da bağımsız bölümünün bundan zarar görecek bir duruma düşmesi halleri dışında projeye uygun hale getirilmesinin istenebileceği ilke olarak benimsenmiştir. Projeye aykırı olarak yapılan tesisat ve tadilatın projeye uygun hale getirilebilmesi için bu tesisat ve tadilatı yapan kişilere karşı dava açılır. Binanın ilk inşası sırasında yüklenici tarafından ortak yerlerde yapılan ve ortak kullanımda bulunan projeye aykırılıkların eski hale getirilmesinden ise tüm kat malikleri sorumludur.
 
 ## Yargıtay 18. HD 2007/8293 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878410700)
+
 HUMK.nun 237. maddesi gereğince kesin hükümden söz edilebilmesi için her iki davanın taraflarının, dava konusunun ve dava sebebinin aynı olması gerekir. Somut olayda yukarıda açıklandığı üzere daha önce açılan davada ortak yere davalı tarafın projeye aykırı olarak yaptığı değişikliklerin projesine uygun eski hale getirilmesi ve ecrimisil istenilmiş iken görülen bu davada kira sözleşmesinin sona erdiği ileri sürülerek davalı tarafın kira sözleşmesi kapsamında kalan ortak yerden tahliyesi isteminde bulunulmuştur. Bu durumda dava sebepleri değişik olduğundan kesin hükümden söz edilemez. Öyleyse mahkemece eldeki dava yönünden işin esasına girilip gerekli araştırma ve inceleme yapılarak oluşacak sonuç doğrultusunda hüküm kurulması gerekirken yanılgılı değerlendirme ile davanın kesin hüküm nedeniyle reddine karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/7387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878236200)
 
 Kat Mülkiyeti Yasasının 16. maddesi gereğince kat malikleri anataşınmazın bütün ortak yerlerinde ortak mülkiyet hükümlerine göre paydaştırlar. Yasanın öngördüğü ortak mülkiyet kuralları doğrultusunda bir paydaş intifadan men edilmedikçe, diğer paydaşlara ecrimisil ödemekle yükümlü tutulamaz. İntifadan men edilme halinin varlığının kabulü için, ortak yeri işgal edip tekeline alan paydaşa, diğer paydaşların kendi paylarından yararlanma isteklerini bildirmiş olmaları gerekir. Paydaşlar arasında ecri misil isteme ... ancak böyle bir bildirimden sonraki dönem için doğar ve buna karşın şagil ortak yerdeki haksız işgale son vermiş ise hakkında istenecek ecrimisilin başlangıcı bu bildirim (uyarı) tarihine göre belirlenir.
 
 ## Yargıtay 18. HD 2007/4875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882791600)
+
 Dairenin geri çevirme kararı üzerine Tapu Sicil Müdürlüğünden gelen yazı ekindeki tapu kayıtları incelendiğinde davaya konu edilen ve iptali istenen kararı veren kişilerin temsilci oldukları ileri sürülen anataşınmazın 46496 ada 2 parsel sayılı olduğu ve bu taşınmaz üzerinde kat mülkiyetinin kurulmuş bulunduğu, iptali istenilen temsilciler kurulu kararının anılan parseldeki bazı kat maliklerinin bağımsız bölümlerinde projeye aykırı olarak yapılan değişikliklerin eski hale getirilmesi konusunda açılan ve görülmekte olan davalardan feragat edilmesine ilişkin bulunduğu anlaşılmaktadır.
 
 ## Yargıtay 18. HD 2007/4744 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16145300)
 
 634 sayılı Kat Mülkiyeti Yasası'nın 19. maddesinin birinci fıkrasında kat maliklerinin anataşmmazın mimari durumu ile sağlamlığını titizlikle korumak mecburiyetinde oldukları belirtildikten sonra ikinci fıkrada da kat maliklerinden biri tüm kat maliklerinin rızası olmadıkça anataşmmazın ortak yerlerinde onarım, tesis ve değişiklik yaptıramayacağı öngörülmüştür. Ana kural bu olmakla birlikte, davacının kendisi tarafından yapılmayan ve projesine aykırı olarak inşa edilmiş bulunan oturtma ahşap çatıdan sızan yağmur sularının bağımsız bölümüne zarar verdiği tartışma konusu değildir.
 Anataşmmazın onaylı mimari projesine aykırılık teşkil eden bu çatının kaldırılmasına ve projesine uygun hale getirilmesine ilişkin olarak anataşınmazdaki kat malikleri tarafından açılmış bir dava da bulunmadığına göre, çatının bu şekilde muhafaza edilmesini zımnen de olsa kabul etmiş bulunan kat maliklerinin projeye aykırı inşa edilmiş bu tesisten (çatıdan) sızan sular sebebiyle zarar gören davacının, bu zararının önlenmesini istemek ve somut olayda olduğu gibi gerekli tamiratları yaptırıp, bedelini, arsa payları oranında diğer maliklerden talep etmek hak ve yetkisine sahip olması adalet ve hakkaniyet ilkelerine uygun düşeceğinden mahkemece, bilirkişi ek raporunda belirlenen ve davacı tarafından yapıldığı anlaşılan çatı onarım bedelinin arsa payları oranında davalılardan tahsiline karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/3557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879493000)
+
 Kat Mülkiyeti Yasasının "anataşınmazın genel giderlerine katılma" başlıklı 20. maddesi hükmüne göre kat maliklerinden herbiri aralarında başka türlü anlaşma olmadıkça anayapının tüm ortak yer ve tesislerin yapım, bakım ve onarım giderlerine ve giderler için toplanacak avansa kendi arsa payı oranında katılmakla yükümlüdür. Dosyaya konulan anataşınmazın yönetim planında ya da kat malikleri kurulunca oybirliği ile alınmış herhangi bir kararda dava konusu edilen asansörün yapımı için gerekli giderlerin ödenmesinde yasanın anılan maddesi hükmünden farklı bir ölçüt kararlaştırılmamış bulunduğu anlaşılmaktadır. Saptanan bu durum karşısında mahkemece her bir blok için ayrı ayrı projesine uygun olarak yapımına karar verilen asansör tesisatlarının gerekli giderlerinin o bloklarda bağımsız bölüm maliki olanlardan arsa payları oranında tahsiline karar verilmesi gerekirken infazda zorluk çıkartacak ve duraksamaya yol açaçak biçimde yazılı olduğu gibi hüküm kurulması,…
 
 ## Yargıtay 18. HD 2007/2947 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878560700)
 
 Dosyada mevcut 26.2.2006 günlü bilirkişi İnşaat Yüksek Mühendisi...tarafından düzenlenen raporda dava konusu edilen 2 numaralı bağımsız bölümün önündeki köşe balkonda güney ve doğu cephelerde 2,65'er m. genişliğinde, tavana aliminyum konstrüksiyon sistemi ile monte edilmiş ve çevrilen bir boru tertibatı ile açılıp kapatılan yeşil ve krem renkli bir tentenin bulunduğunun görüldüğü açıklanmış ve bu düzeneğin onaylı mimari projesinde bulunmadığı saptanmıştır. 634 Sayılı Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrası uyarınca kat maliklerinden biri bütün kat maliklerinin rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım ve tesis yaptıramaz. Yasanın bu açık hükmü gözetilerek mahkemece projeye aykırılıkların eski hale getirilmesine ve davalıya ait 2 numaralı bağımsız bölümün balkonunda sabitleştirilmiş bulunan bu sistemin kaldırılmasına karar verilmesi gerekirken davalının eyleminin Kat Mülkiyeti Yasasının 19. maddesinin ikinci fıkrasına aykırılık teşkil etmediği ve sitenin genel görünümü ile estetiği bozmadığı gerekçesi ile mahkemece davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/2849 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877713500)
+
 Dosya içerisindeki tapu kaydı içeriğinden, tarafların (davacı ile davalının) kat mülkiyetli anataşınmazda kat maliki oldukları anlaşılmaktadır. 634 Sayılı Kat Mülkiyeti Yasasının 19.maddesi hükmüne göre kat malikleri, anataşınmazın mimari durumu ile güzelliğini ve sağlamlığını titizlikle korumaya yükümlü oldukları gibi; kat maliklerinden biri, bütün kat maliklerinin rızası olmadıkça, anataşınmazın ortak yerlerinde inşaat, onarım, tesis ve değişiklikler yaptıramaz. Yasanın bu buyurucu kuralına aykırı eylem ve davranışta bulunan kat malikine karşı öteki kat maliklerinden her birinin dava açma ve vaki değişikliklerin eski hale getirilmesini isteme hakları vardır. Yargıtay’ın yerleşmiş uygulamalarına göre, ortak yerlerde aynı ya da benzer nitelikte değişiklikler yapılmış olması, dava konusu edilen aykırılığın eski hale getirilmesinin istenmesine engel oluşturmaz ve bu amaçla dava açmış olması kötü niyetli davranış olarak yorumlanamaz.
 
 ## Yargıtay 18. HD 2007/80 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877561300)
+
 Kat Mülkiyeti Yasasının 4. maddesine göre bağımsız bölümleri ayıran ortak duvarların herhalde ortak yer sayılacağı gözetilmeden davalının anataşınmazın ortak yeri olan dış duvarı yıkmak suretiyle başka parselde bulunan bağımsız bölümünü birbirine bağlamasının aynı yasanın 19. maddesinin ikinci fıkrasına ve dolayısıyla onaylı mimari projeye aykırı olduğu düşünülmeden bu konudaki projeye uygun eski hale getirme isteminin reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2006/10071 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882684500)
 
 Kat Mülkiyeti Yasasının 19. maddesinde, kat maliklerinin anataşınmazın mimari durumunu korumakla yükümlü oldukları öngörülmektedir. Aynı maddenin ikinci fıkrasına göre, kat maliklerinden biri, bütün kat maliklerin rızası olmadıkça ortak yerlerde inşaat, onarım, tesisler ve değişiklik yapamazlar. Bağımsız bölümlerin balkonları, dış görünümleri yönüyle anataşınmazın ortak yerlerinden olup, bu maddede öngörülen koşullara göre ancak onarım ve değişiklikler yapılabilir.

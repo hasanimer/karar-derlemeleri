@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2023/5665 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917509000)
+
 Davacılar vekili dava dilekçesinde özetle; dava konusu ... ili, ... ilçesi, ... Mahallesi 597 parsel hakkında açılan kadastro tespitine itiraz davasının Bergama Kadastro Mahkemesinin 2013/7 Esas, 2015/25 Karar sayılı ve 01.07.2015 tarihli kararı ile sonuçlandığını ve kararın kesinleştiğini, 597 parselin dava devam ederken 27.09.1979 tarihli istimlak planı ile ...
 
 …
@@ -39,6 +41,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyl
 
 ## Yargıtay 5. HD 2023/4907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914065700)
+
 Davacılar vekili dava dilekçesinde; dava konusu ... ili, ... ilçesi, ... Mahallesi, 44558 ada 1 parsel sayılı taşınmazın kesinleşen imar planında “Ağaçlandırılacak Alan” olarak belirlendiğini ve davalı idareler tarafından ağaç dikilmek ve enerji nakil hattı geçirilmek suretiyle taşınmaza fiilen el atıldığından bahisle kamulaştırmasız el atılan taşınmazın bedelinin yasal faizi ile birlikte davalı idarelerden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -54,6 +58,8 @@ Valiliği Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünün 13
 Davalı ... vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 8. HD 2023/3743 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981827700)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -75,6 +81,8 @@ Yargıtay (Kapatılan) 20. Hukuk Dairesinin 13.02.2018 tarihli ve 2016/6942 Esas
 Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 8. HD 2023/3077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981221400)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
@@ -99,6 +107,8 @@ Temyiz olunan İlk Derece Mahkemesi kararının 6100 ... Kanun'un Geçici 3 ünc
 
 ## Yargıtay 8. HD 2023/2548 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918343600)
+
 1\. 1998 yılında yapılan kadastro sırasında Bornova İlçesi, Yaka Köyü çalışma alanında bulunan 133 ada 55 parsel sayılı 10.233,13 metrekare yüzölçümündeki taşınmaz, kadastro tutanağının beyanlar hanesine 6831 sayılı Orman Kanunu'nun (6831 sayılı Kanun ) 2/B maddesi uyarınca orman sınırları dışına çıkarıldığı şerhi verilerek ve edinme nedeni sütununda ... ve Yaşar Çolakoğlu’nun zilyetliğinde olduğu açıklanarak zeytinlik vasfı ile Hazine adına tespit edilmiş, sonradan malik hanesi çizilerek davalı hale getirilmiştir. Zilyet olarak belirlenenler aleyhine açılan elatmanın önlenmesi davası, davaya konu parsel hakkında tutanak düzenlenmiş olması nedeniyle Kadastro Mahkemesine aktarılmış, İzmir Kadastro Mahkemesinin 2003/16 Esas sayılı dosyasında yapılan yargılama sonunda çekişmeli taşınmazın zeytinlik vasfı ile Hazine adına tesciline karar verilmiş, karar 06.02.2006 tarihinde kesinleşmiştir.
 
 …
@@ -106,6 +116,8 @@ Temyiz olunan İlk Derece Mahkemesi kararının 6100 ... Kanun'un Geçici 3 ünc
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 8. HD 2023/1734 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929856100)
 
 Davacı ve karşı davalı ... İdaresi vekili dava dilekçesinde; ...
 
@@ -118,6 +130,8 @@ Davacı ve karşı davalı ... İdaresi vekili dava dilekçesinde; ...
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2022/16008 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841242300)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -133,6 +147,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan Marmaraereğlisi 
 
 ## Yargıtay 5. HD 2022/15464 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837771500)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 İlk derece mahkemesince davalılardan Hazine yönünden husumet yokluğu nedeniyle davanın reddine, ... yönünden davanın kabulüne ilişkin olarak verilen karara karşı, davalı ... vekili tarafından yapılan istinaf başvurusunun Ankara Bölge Adliye Mahkemesi 14. Hukuk Dairesince esastan reddine karar verilmiş olup; hüküm, davalı ... vekilince temyiz edilmiştir.
@@ -146,6 +162,8 @@ Davalı ... vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya 
 
 ## Yargıtay 8. HD 2022/6763 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/818142800)
+
 Mahkemenin verdiği önceki karar Yargıtay tarafından bozulmuş olup, bozma ilamında özetle "davacı/karşı davalı gerçek kişinin esasa iliştin temyiz itirazları bakımından: Mahkemece davanın reddine, karşı davanın kabulü ile taşınmazın orman niteliğiyle Hazine adına tesciline karar verilmesinde isabetsizlik bulunmadığı vurgulanmış; davalı/karşı davacı ... İdaresi ile davacı/karşı-davalının yargılama giderleri ve vekalet ücretine yönelik temyiz itirazları Bakımından: Orman İdaresinin karşı dava açarken yatırdığı 109,70.-TL harçtan sözedilmemesi ve biri gerçek kişi, diğeri Orman İdaresi tarafından açılmış iki ayrı dava bulunduğu halde kişinin reddedilen tapu kaydında bulunan orman şerhinin silinmesi davası nedeniyle Orman İdaresi lehine, Orman İdaresinin reddedilen men’i müdahale talebi nedeniyle davacı gerçek kişi lehine vekalet ücreti takdir edilmesi" gereğine değinilmiştir.
 
 …
@@ -153,6 +171,8 @@ Mahkemenin verdiği önceki karar Yargıtay tarafından bozulmuş olup, bozma il
 Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına ve uyulan bozma ilamında açıklandığı üzere işlem yapılıp sonucu dairesinde hüküm tesis edildiğine göre yerinde olmayan temyiz itirazlarının reddi ile usul, kanun ve bozma gereklerine uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 7. HD 2022/3671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783001600)
 
 Dava, meraya elatmanın önlenmesi isteğine ilişkindir.
 
@@ -170,6 +190,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2022/3487 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753040300)
+
 Mahkemece verilen, davanın kabulü ile 114 ada 8 parselin özel orman olarak sınırlandırma işleminin ve tapu kaydının iptali ile devlet ormanı vasfıyla Hazine adına tapuya tesciline, elatmanın önlenmesine ilişkin önceki hüküm, davalı ... ve ihbar olunan ... vekilince temyiz edilmesi üzerine, ... (Kapatılan) 20. Hukuk Dairesinin 30.5.2017 tarih ve 2015/17116 Esas, 2017/4771 Karar sayılı ilamıyla; “Körfez Belediye Başkanlığının harcını vererek 3402 sayılı Kanun'un 26/D maddesi uyarınca davaya katılımının bulunmadığı, bu nedenle hükmü temyiz edemeyeceği, dava konusu taşınmazın, özel orman koşullarını taşımadığı belirlenerek yazılı şekilde tapu kaydının ve özel orman olarak sınırlandırma işleminin iptaline karar verilmesinde isabetsizlik bulunmadığı, davanın açıldığı tarihte dava konusu taşınmaz davalı adına tapuda kayıtlı olup, davalının haksız bir tasarruf ve elatmasından söz edilemeyeceği açıklanarak, el atmanın önlenmesine karar verilmesinin isabetsizliğine" değinilerek bozulmuştur.
 
 …
@@ -178,12 +200,16 @@ Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına, Ma
 
 ## Yargıtay 8. HD 2022/3357 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/751226400)
+
 Kullanım kadastrosu sırasında Pelitli Köyü çalışma alanında bulunan 112 ada 4 parsel sayılı 12.017,48 metrekare yüzölçümündeki taşınmaz, beyanlar hanesine 6831 sayılı Yasa'nın 2/B maddesi uyarınca Hazine adına orman sınırları dışına çıkarıldığı ve davalı olduğu gerekçesiyle kullanıcısının mahkemece tayin edilmesi gerektiği belirtilerek Hazine adına tespit edilmiştir. Tespitten önce davacı ... tarafından davalı ... aleyhine Sulh Hukuk Mahkemesinde müdahalenin men'i ve zilyetliğin korunması istemiyle açılan dava, davaya konu olan parsel hakkında tutanak düzenlenmiş olması nedeniyle kullanıcısının belirlenmesi için Kadastro Mahkemesine aktarılmış, yargılama sırasında ... çekişmeli taşınmazın kendi kullanımında olduğunu öne sürerek adına zilyetlik şerhi verilmesi istemiyle davaya katılmıştır. Kadastro Mahkemesinde çekişmeli parsel tutanağı ile dava dosyası birleştirilerek yapılan yargılama sırasında ... ... mirasçıları ... ve arkadaşları dahil edilmiştir.
 Mahkemece yapılan yargılama sonunda davacı ...'in davasının reddine, çekişmeli 112 ada 4 parsel sayılı taşınmazın beyanlar hanesine " iş bu taşınmaz ... kızı ... ve Ünal oğlu ... 'ın kullanımındadır, taşınmazın tamamı 6831 sayılı Kanun'un 2/B maddesi gereği Hazine adına orman sınırı dışına çıkarıldığı" şerhi verilerek Hazine adına tapuya tesciline karar verilmiş; hükmün davacı ... vekili tarafından istinaf edilmesi üzerine ... Bölge Adliye Mahkemesi 6. Hukuk Dairesi tarafından istinaf başvurusu 6100 sayılı HMK'nin 353/(1)-b.1 maddesi gereğince esastan reddedilmiş davacı vekili tarafından temyiz isteminde bulunulmuştur.
 
 Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, yapılan yargılama ve uyuşmazlık bakımından uygulanması gereken hukuk kuralları ile temyiz olunan Bölge Adliye Mahkemesi kararında yazılı gerekçelere, hukuki ilişkinin nitelendirmesine göre temyiz itirazları yerinde görülmediğinden, temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı HMK'nin 370. maddesi uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2022/2169 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733927000)
 
 Dava, kamulaştırmasız el atma nedeniyle tazminat, tapu iptali ve tescil istemine ilişkindir.
 
@@ -199,6 +225,8 @@ Davalı idare vekilinin temyiz isteminin kabulü ile bozmanın niteliğine göre
 
 ## Yargıtay 8. HD 2022/1890 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/742690200)
+
 Mahkemenin verdiği karar ... tarafından bozulmuş olup, bozma ilamında özetle; '' ..Davada taraf olmayan ve aleyhinde hüküm de kurulmayan davanın ihbar olunduğu ... Belediyesinin temyiz hakkı bulunmadığından, bu kurum vekilince verilen temyiz dilekçesinin reddine, davalı ... Vergi Dairesinin 3810 ada 10, ... ... A.Ş.nin ise 3 ve 4 sayılı parsel üzerindeki şerhin kaldırılması, ..., ... ve arkadaşlarının 3810 ada 10 parselin (A) harfiyle işaretli, ...’in 3810 ada 3 sayılı parselin tamamı ve 4 sayılı parselin (A) harfiyle işaretli, ...’in 3810 ada 6 sayılı parselin (A) harfiyle işaretli bölümün orman niteliğiyle tesciline ilişkin hükme yönelik temyiz itirazları yönünden; incelenen dosya kapsamına, kararın dayandığı gerekçeye, uzman orman bilirkişi kurulu tarafından kesinleşmiş orman tahdit haritasına dayalı olarak yöntemine uygun biçimde yapılan uygulama ve araştırmada çekişmeli taşınmazların temyize konu bölümlerinin orman tahdidi içinde kalan yerlerden olduğu anlaşıldığına ve ormanlarda şerh bulunmayacağı ve ...
 İdaresi ile Orman Yönetimi arasında pilon yeri konusunda her zaman irtifak hakkı kurulabileceği dikkate alınarak hüküm kurulmuş olduğuna göre yerinde görülmeyen temyiz itirazların reddi ile hükmün onanmasına karar verildiği belirtilerek, davalı ..., ... ve arkadaşlarının 3810 ada 10 sayılı parselin (A) harfiyle işaretli, ...’in 3810 ada 3 sayılı parselin tamamı ve 4 sayılı parselin (A) harfiyle işaretli, ...’in 3810 ada 6 sayılı parselin (A) harfiyle işaretli bölümüne müdahalenin önlenmesine ilişkin hükme yönelik temyiz itirazları yönünden; davanın açıldığı tarihte dava konusu taşınmazların davalı gerçek kişiler adına tapuda kayıtlı olduğu, davalı gerçek kişilerin, dava tarihinden önce taşınmaz üzerinde tapu kaydına dayanarak tasarruf ettiğinden, davalının dava konusu taşınmaza haksız bir elatmasından söz edilemeyeceği, bu itibarla, Orman Yönetiminin müdahalenin önlenmesine ilişkin talebinin reddine karar verilmesi, davalı ...’in ve ... ...
 A.Ş.’nin 3810 ada 5 sayılı parsele yönelik temyiz itirazlarına gelince; mahkemece çekişmeli taşınmazın kısmen orman tahdidi içinde kaldığı yönündeki kabulünde bir isabetsizlik bulunmadığı, ancak, hükme dayanak yapılan 21.02.2014 havale tarihli teknik bilirkişi raporunda 5 sayılı parselin ormanda kalan (A) harfiyle işaretli bölümünün 414.29 m² yüzölçümünde olduğu bildirilmiş olmasına rağmen, hüküm kısmında (A) harfiyle işaretli bölümünün yüzölçümü 106,93 m² olarak yazıldığı, bu haliyle (A) harfiyle işaretli bölümün haritadaki alanı ile hükümde gösterilen alanının farklı olup infaza elverişli hüküm kurulması, kabule göre de, 5 sayılı parselin tapu kaydı üzerindeki kamulaştırma şerhinin Karayolları Genel Müdürlüğü lehine olması ve davalı ... ... A.Ş veya TEK tarafından konulan bir şerh bulunmaması nedeniyle birleştirilen 2007/226 Esas sayılı dosyada ... ... A.Ş. aleyhine açılan davanın husumet yönünden reddine karar verilmesi...” gereğine değinilmiştir.
@@ -209,6 +237,8 @@ Dosya muhtevasına, dava evrakı ile yargılama tutanakları münderecatına ve 
 
 ## Yargıtay 8. HD 2022/376 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739314500)
+
 Mahkemece, ... 1.
 
 …
@@ -217,6 +247,8 @@ Bu durumda, dosyaya yansıyan belge ve beyanlardan, çekişme konusu taşınmaz�
 verilecek kararı etkilemeyeceğine, mülkiyet hakkının kullanımını da engelleyemeyeceğine göre; davalı ... dahili davalının haksız işgalinin sabit olduğu sonucu ile davacının mülkiyet hakkına üstünlük tanınarak, davanın kabulüne karar vermek gerektiği, Dairenin bozma ilamının usul ve yasaya uygun kabul edilerek, davacı vekilinin direnme kararının yerinde olmadığı, bu sebeple davacı vekilinin temyiz isteği ile ilgili incelemesinin yapılabilmesi için dosyanın 6763 sayılı Kanun’un 43. maddesi ile değişik 6100 sayılı HMK'nin 373. maddesinin 5. fıkrası uyarınca Hukuk Genel Kuruluna gönderilmesine karar verilmesi gerektiği kanaatinde olduğumdan sayın çoğunluğun onama kararına katılmıyorum. 20.01.2022 …
 
 ## Yargıtay 14. HD 2020/8777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631736800)
 
 Davacı vekili, Aras Mahallesi 368 ada 341 parsel sayılı mera vasfındaki taşınmaza davalı Şirketin maden arama çalışması amacıyla haksız olarak elattığı ve taşınmaz üzerine trafo koyarak direkler diktiğini, trafo ve direkler nedeniyle merada hayvanların yararlanamadığı alanların oluştuğunu belirterek, elatmanın önlenmesini, taşınmazdaki trafo ve direklerin kal'ini 500,00 TL ot bedelinin yasal faizi birlikte davalıdan tahsilini istemiştir.
 
@@ -240,6 +272,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazların�
 
 ## Yargıtay 14. HD 2020/8745 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631762700)
+
 Davacı Hazine vekili, davalıların 611 sayılı mera parselinin 13000 m² sürmek suretiyle elattıklarını belirterek 5.681,00TL eski hale getirme bedeli ile ot bedelinin tespiti ve faizi ile tahsilini istemiştir.
 
 Davalılar, davanın reddini savunmuştur.
@@ -257,6 +291,8 @@ Kural olarak, meraların kuru mülkiyeti Hazinenin, yararlanma hakkı köy veya 
 SONUÇ: Yukarıda yazılı nedenlerle usul ve yasaya aykırı hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2020/8102 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634793800)
 
 Davacı Hazine vekili; asıl ve birleşen dosyada 371 ada 405 parsel sayılı taşınmazın 3.600 m2'lik kısmının kıyı kenar çizgisi içerisinde kaldığını, kıyı kenar çizgisi içerisinde kalan yerlerin özel mülkiyete konu olamayacağını açıklayarak dava konusu taşınmazın 3600 m2'lik kısmının iptaline, taşınmaz üzerindeki yapıların kal-i ile davalı tarafın müdahalesinin men-ine karar verilmesini talep etmiş, 04.04.2003 tarihli ıslah dilekçesi ile de, bilirkişi raporuna göre dava konusu taşınmazın 4266,687 m2'lik kısmının kıyı kenar çizgisi içerisinde kaldığı tespit edildiğinden bu kısmın tapu kaydının iptalini istemiştir.
 

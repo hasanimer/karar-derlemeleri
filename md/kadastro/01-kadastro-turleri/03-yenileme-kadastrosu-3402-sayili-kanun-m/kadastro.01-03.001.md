@@ -20,37 +20,55 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/550 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175445700)
+
 2\. 3402 sayılı Kadastro Kanunu'nun 22/2-a ve bu madde uyarınca 29.11.2006 tarihli Resmî Gazete'de yayımlanarak yürürlüğe giren Kadastro Haritalarının Yeniden Düzenlenmesi ve Tapu Sicilindeki Gerekli Düzeltmelerin Yapılmasında Uygulanacak Usul ve Esaslara İlişkin Yönetmelik (25.10.2018 tarihli ve 30576 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren Kadastro Haritalarının Yeniden Düzenlenmesi Ve Tapu Sicilinde Gerekli Düzeltmelerin Yapılmasında Uyulacak Usul Ve Esaslara İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik ile yönetmeliğin adı "Kadastro Güncelleme Yönetmeliği” olarak değiştirilmiştir) hükümlerine göre yapılan uygulama kadastrosunun amacı; tapulama, kadastro veya değişiklik işlemlerine ilişkin; sınırlandırma, ölçü, çizim ve hesaplamalardan kaynaklanan hataları gidermek; uygulama niteliğini kaybeden, teknik nedenlerle yetersiz kalan, eksikliği görülen veya zemindeki sınırları gerçeğe uygun göstermediği tespit edilen kadastro haritalarını yeniden üretip ve tapu sicilinde gerekli düzeltmelerin yapılmasını sağlamaktır.
 
 ## Yargıtay HGK 2025/34 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145618700)
 
 Hemen belirtmek gerekir ki, 3402 sayılı Kanun'un 22/a maddesi kapsamında yapılan uygulamalarda taşınmazın mülkiyeti tartışma konusu edilemez, uygulama kadastrosunun amacı mülkiyet ihtilaflarını canlandırmak ve çözmek değil; yukarıda değinildiği gibi tesis kadastrosu sırasında yapılan teknik hataları belirleyerek gidermektir. Bu husus 2859 sayılı Kanun'un “Yenilemenin esasları” başlıklı 4/1. maddesinde, "Yenileme yalnız teknik çalışmaları kapsar. Tapu siciline geçmiş veya geçmemiş mülkiyet ve mülkiyete ilişkin haklar inceleme konusu yapılamaz" şeklinde ifade edilmiştir. Daha önce belirlenen ve kesinleşen mülkiyet hakkı yeniden inceleme konusu yapılmadığından, 3402 sayılı Kadastro Kanunu'nun 22/b maddesinde 2859 sayılı Kanun uyarınca yapılan kadastro işleminin ikinci kadastro sayılmayacağı belirtilmiştir.
 
 ## Yargıtay HGK 2022/1373 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847936200)
+
 13\. 3402 sayılı Kadastro Kanunu'nun 22/a ve bu madde uyarınca 29.11.2006 tarihli Resmî Gazete'de yayımlanarak yürürlüğe giren Kadastro Haritalarının Yeniden Düzenlenmesi ve Tapu Sicilindeki Gerekli Düzeltmelerin Yapılmasında Uygulanacak Usul ve Esaslara İlişkin Yönetmelik (28.10.2018 tarihli ve 30576 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren Kadastro Haritalarının Yeniden Düzenlenmesi Ve Tapu Sicilinde Gerekli Düzeltmelerin Yapılmasında Uyulacak Usul Ve Esaslara İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik ile yönetmeliğin adı "Kadastro Güncelleme Yönetmeliği” olarak değiştirilmiştir) hükümlerine göre yapılan uygulama kadastrosunun amacı; tapulama, kadastro veya değişiklik işlemlerine ilişkin; sınırlandırma, ölçü, çizim ve hesaplamalardan kaynaklanan hataları gidermek; uygulama niteliğini kaybeden, teknik nedenlerle yetersiz kalan, eksikliği görülen veya zemindeki sınırları gerçeğe uygun göstermediği tespit edilen kadastro haritalarını yeniden üretip ve tapu sicilinde gerekli düzeltmelerin yapılmasını sağlamaktır.
 
 ## Yargıtay HGK 2017/544 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/331720800)
 
 22.02.2005 tarih 5304 sayılı Yasa ile getirilen 3402 sayılı Kadastro Kanunu'nun 22/a maddesi ve bu madde uyarınca 29.11.2006 tarihli Resmi Gazetede yayımlanarak yürürlüğe giren Kadastro Haritalarının Yeniden Düzenlenmesi ve Tapu Sicilindeki Gerekli Düzeltmelerin Yapılmasında Uygulanacak Usul ve Esaslara İlişkin Yönetmelik hükümlerine göre yapılan uygulama kadastrosunun amacı; tapulama, kadastro veya değişiklik işlemlerine ilişkin; sınırlandırma, ölçü, çizim ve hesaplamalardan kaynaklanan hataları gidermek; uygulama niteliğini kaybeden, teknik nedenlerle yetersiz kalan, eksikliği görülen veya zemindeki sınırları gerçeğe uygun göstermediği tespit edilen kadastro haritalarını yeniden üretip ve tapu sicilinde gerekli düzeltmelerin yapılmasını sağlamaktır.
 
 ## Yargıtay HGK 2013/143 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77235400)
+
 Dava, sadece 3402 sayılı yasanın 22/2-a maddesi uyarınca yapılan yenileme işlemine itiraza ilişkin ise, Özel Daire bozma ilamında değinildiği gibi, yapılan araştırma hüküm kurmaya yeterli değildir.Yerel Mahkemece, çekişmeli parselin yenilemeden önceki tutanak ve haritaları ile yenilemeden sonraki çapı, haritası ve tutanağı getirtilerek, harita ve jeodezi uzmanı bilirkişi vasıtasıyla keşif ve inceleme yapılarak, yapılan çalışmanın 3402 sayılı Yasanın 22/2-a maddesiyle, 26.11.2006 gün ve 26361 sayılı Resmi Gazete'de yayımlanan Kadastro Haritalarının Yeniden Düzenlenmesi ve Tapu Sicilinde Düzeltmelerin Yapılmasında Uyulacak Usul ve Esaslara İlişkin Yönetmelik hükümlerine uygun yapılıp yapılmadığı saptanmalı, bu konuda bilirkişiden bilimsel verileri içeren rapor alınmalı, yapılan çalışmaların yasa ve yönetmelik hükümlerine aykırı olduğu belirlenirse, bu aykırılıkları giderecek şekilde hüküm kurulmalı, çalışmanın yasa ve yönetmelik hükümlerine uygun yapıldığı saptanırsa, Orman Yönetiminin bu yöne temas eden davasının reddine karar verilmelidir.
 
 ## Yargıtay HGK 2010/356 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16993000)
 
 21 Mart 1995 tarihli Tapulama ve Kadastro Paftalarının Yenileme Yönetmeliğinin 11.maddesine göre yenilemeye tabi olacak taşınmazların beyanlar sütununa yenilemeye tabi olduğu yazılır. Yenileme işlemleri yapıldıktan sonra askı ilanı süresinde kadastro yenilemeye tabi olduğu yazılır. Yenileme işlemleri yapıldıktan sonra askı ilanı süresinde kadastro mahkemesine dava açıldığında da beyanlar sütununa yenileme sebebiyle davalı olduğu belirtilir.
 
 ## Yargıtay HGK 2008/278 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76705200)
+
 Önemle vurgulanmalıdır ki; 2859 sayılı Kanun uyarınca yapılan uygulamada, bu şekilde mülkiyete ilişkin bir tasarrufta bulunulduğu takdirde, buna itiraz ve dava usulü aynı Kanunun 5. maddesinde düzenlenmiş; anılan maddede, “Yenileme tespitlerine yapılacak itirazlar ve komisyon kararlarına karşı açılacak davalar 2613 sayılı Kadastro ve Tapu Tahriri Kanunu ile 766 sayılı Tapulama Kanununun ilgili hükümlerine göre sonuçlandırılır” hükmüne yer verilmek suretiyle, yargılama usulüne ilişkin olarak 2613 ve 766 sayılı Kanunlara atıf yapılmıştır.
 
 ## Yargıtay HGK 2007/111 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16597200)
+
 Öte yandan yasanın 6. maddesine göre çıkarılan yenilemenin yapılış biçimi ve uygulanacak teknik yöntemleri gösteren yönetmeliğin 23. maddesinde parsel sınırları veya köşe noktalarında tapulama veya kadastro sırasında varolan ifraz ve parselasyon sonucu doğmuş olan parsellerin yenilemede, durumunu koruyan sabit zemin işaretleri tespit edilerek, anılan sınırların yenilemede esas alınacağı 24. maddesinde yapılan ölçülerde herhangi bir hata bulunmaması halinde bu sınırlara aynen itibar edileceği 28. maddesinde ise sınırları zeminde belirlenen parsellerle parseller topluluğunun yüzölçümlerinin köşe koordinatlarına göre hesaplanacağı vurgulanmaktadır.
 
 ## Yargıtay HGK 2007/26 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16022700)
 
 Öte yandan yasanın 6. maddesine göre çıkarılan yenilemenin yapılış biçimi ve uygulanacak teknik yöntemleri gösteren yönetmeliğin 23. maddesinde parsel sınırları veya köşe noktalarında tapulama veya kadastro sırasında varolan ifraz ve parselasyon sonucu doğmuş olan parsellerin yenilemede, durumunu koruyan sabit zemin işaretleri tespit edilerek, anılan sınırların yenilemede esas alınacağı 24. maddesinde yapılan ölçülerde herhangi bir hata bulunmaması halinde bu sınırlara aynen itibar edileceği 28. maddesinde ise sınırları zeminde belirlenen parsellerle parseller topluluğunun yüzölçümlerinin köşe koordinatlarına göre hesaplanacağı vurgulanmaktadır.
 
@@ -64,25 +82,37 @@ Kadastro sonucunda; Sivas ili, Merkez ilçesi, ... köyü çalışma alanında b
 
 ## Yargıtay 5. HD 2024/2181 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1065741300)
+
 Uygulama kadastrosunun amacı, tapulama, kadastro veya değişiklik işlemlerine ilişkin; sınırlandırma, ölçü, çizim ve hesaplamalardan kaynaklanan hataları gidermek üzere uygulama niteliğini kaybeden, teknik nedenlerle yetersiz kalan, eksikliği görülen veya zemindeki sınırları gerçeğe uygun göstermediği tespit edilen kadastro haritalarının tekrar düzenlenmesi ve tapu sicilinde gerekli düzenlemelerin sağlanmasıdır. Uygulama kadastrosuna ilişkin davalarda, uygulama kadastrosunun, yöntemine uygun olarak yapılıp yapılmadığının denetlenmesine ilişkin itirazlar gündeme getirilebilir. Bu nedenlerle uygulama kadastrosu sırasında mülkiyete ilişkin uyuşmazlıklar gündeme getirilemez ve buna ilişkin itirazlar değerlendirmeye alınamaz. Dosya kapsamından; davacıların, mülkiyete ilişkin olarak dava açtığı davanın, tapu iptali ve tescil niteliğinde olduğu anlaşılmaktadır. Bu durumda uyuşmazlığın genel hükümlere göre Kars 2. Asliye Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 16. HD 2021/559 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655289700)
 
 Somut olayda; davacı ... İdaresi, uygulama kadastrosu askı ilan süresi içerisinde davalıların murisi adına tapuda kayıtlı bulunan 150 ada 1 parsel sayılı taşınmazın ölçümünde ve niteliğinde hata yapıldığını ve ayrıca taşınmazın orman sayılan yerlerden olduğunu ileri sürerek tespitin iptali ve taşınmazın orman vasfıyla Hazine adına tescili istemi ile dava açmıştır. Mahkemece, davanın, uygulama kadastrosuna itiraza ilişkin olduğu ve davaya bakma görevinin Kadastro Mahkemesine ait olduğu gerekçesi ile davanın usulden reddine karar verilmiştir. Dava dilekçesi içeriğine göre, davacının iddiasının mülkiyete mi yoksa uygulama kadastrosu sırasında ortaya çıkan nedenlere mi dayandığı noktasında belirsizlik bulunmaktadır. Ne var ki, davacı tarafa talebinin uygulama kadastrosuna mı yoksa mülkiyete yönelik mi olduğu açıklattırılmadığı gibi, taşınmaz başında keşif yapılmamış, davacının davasının uygulama kadastrosuna mı yoksa mülkiyete mi yönelik olduğu kesin olarak belirlenmemiştir. Bu şekilde eksik araştırma ve inceleme ile hüküm kurulamaz.
 
 ## Yargıtay 20. HD 2020/1852 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599138900)
+
 Davanın, hem uygulama kadastrosuna itiraza hem de mülkiyet iddiasına ilişkin bulunduğunun anlaşılması halinde; uygulama kadastrosu tespitine itiraza ilişkin dava hakkında kadastro mahkemesince işin esasına girilerek karar verilmeli; mülkiyete ilişkin talep yönünden dava tefrik edilerek kadastro mahkemesinin görevsizliğine ve dosyanın görevli mahkemeye gönderilmesine karar verilmelidir. Diğer taraftan, görevsizlik kararı verilmesi gereken hallerde, görevli mahkemece, davacı ... Yönetimi tarafından, uygulama kadastrosundan önce genel mahkemede açılıp sonuçlanan tapu iptal ve tescil davası bulunduğu da gözönünde tutulmalıdır.'' gereğine değinilmiştir.
 
 ## Yargıtay 20. HD 2020/1764 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598843600)
 
 Teknik açıdan yetersiz kalan, uygulama niteliğini kaybeden, eksikliği görülen veya zemindeki sınırları gerçeğe uygun göstermediği anlaşılan kadastro paftalarının yenilenmesi ve uygulanabilir hale getirilmesi amacıyla ilk önce 23/6/1983 tarihli ve 2859 sayılı Kanun çıkarılmıştır. Bu kanun uyarınca yapılan yenileme faaliyetleri sırasında düzenlenen kadastro tutanağına "Yenileme Tutanağı" ismi verildiğinden, yürütülen bu faaliyet uygulamada "Yenileme kadastrosu" olarak adlandırılmıştır. Bu kanun ihtiyaca cevap vermeyince, 22/2/2005 tarihli ve 5304 sayılı Kanunla 3402 sayılı Kadastro Kanununun 22. maddesinde değişiklik yapılarak yenileme çalışmaları, 22. maddenin 2/a fıkrası kapsamına alınmış; bu hükmün uygulamasına esas teşkil etmek üzere hazırlanan "Kadastro Haritalarının Yeniden Düzenlenmesi ve Tapu Sicilindeki Gerekli Düzeltmelerin Yapılmasında Uygulanacak Usûl ve Esaslara İlişkin Yönetmelik" de, 29.11.2006 tarihinde Resmî Gazetede yayımlanarak yürürlüğe girmiştir.
 22/2-a maddesi uygulaması sırasında düzenlenen kadastro tutanağı "Uygulama Tutanağı" olarak isimlendirildiğinden, esasen yenileme kadastrosu ile önemli bir farklılık içermeyen bu çalışma, Yargıtay kararlarında "Uygulama kadastrosu" olarak adlandırılmıştır.
 
 ## Yargıtay 20. HD 2020/1672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599022800)
+
 Dava, sadece 3402 sayılı Kanunun 22/2-a maddesi uyarınca yapılan yenileme işlemine itiraza ilişkin ise, çekişmeli parselin yenilemeden önceki tutanak ve haritaları ile yenilemeden sonraki çapı, haritası ve tutanağı getirtilerek, harita ve jeodezi uzmanı bilirkişi vasıtasıyla keşif ve inceleme yapılarak, yapılan çalışmanın 3402 sayılı Kanunun 22/2-a maddesiyle, 26.11.2006 gün ve 26361 sayılı Resmî Gazetede yayımlanan Kadastro Haritalarının Yeniden Düzenlenmesi ve Tapu Sicilinde Düzeltmelerin Yapılmasında Uyulacak Usûl ve Esaslara İlişkin Yönetmelik hükümlerine uygun yapılıp yapılmadığı saptanmalı, bu konuda bilirkişiden bilimsel verileri içeren rapor alınmalı, yapılan çalışmaların kanun ve yönetmelik hükümlerine aykırı olduğu belirlenirse, bu aykırılıkları giderecek şekilde hüküm kurulmalı, kanun ve yönetmelik hükümlerine uygun yapıldığı saptanırsa, Orman Yönetiminin bu yöne temas eden davasının reddine karar verilmelidir.
 
 ## Yargıtay 17. HD 2014/17309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/372134900)
 
 2859 sayılı Yasanın 1. Maddesinde, “teknik nedenlerle yetersiz kalan , uygulama niteliğini kaybeden veya eksikliği görülen ve enaz bir mevki veya ada biriminde zemindeki sınırları gerçeğe uygun gösterilmediği tespit edilen tapulama ve kadastro paftaları, bu kanun hükümlerine göre Tapu ve Kadastro Müdürlüğünün teklifi ve ilgili bakanın onayı ile yenilenir.Buna göre tapu sicilinde gerekli düzeltmeler yapılır” şeklinde düzenlenmiştir. Aynı yasanın 4. Maddesinde ise “pafta yenileme işlemlerinin yalnız teknik çalışmaları kapsayacağı,tapu sicilinne geçmiş yada geçmemiş mülkiyete ilşkin hakların inceleme konusu yapılamayacağı“ hükmüne yer verilmiştir.

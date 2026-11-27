@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/5703 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154769000)
+
 Davalı idare vekili cevap dilekçesinde özetle; davacının dava konusu taşınmazın mülkiyetini 2942 sayılı Kamulaştırma Kanunu'nun (2942 sayılı Kanun) 8 ve 10 uncu maddelerine göre kaybetmediğini, davacı tarafından belediye aleyhine kamulaştırmasız el atma davası açıldığını ve Ankara 2.Asliye Hukuk Mahkemesinin 2012/62 Esas nolu dosyasında verilen 09.10.2012 tarihli kararda dava konusu 60070 ada 1 parseldeki malik ...'a ait 201 m² hissenin idareleri adına tesciline karar verildiğini, davacı tarafından karara karşı kanun yoluna başvurulmadığını, anılan mahkeme kararına istinaden mahkemece hükmedilen bedelin davacı tarafa ödendiğini, bu sebeple davacının 2942 sayılı Kanun'un 23 üncü maddesine istinaden geri alma hakkının bulunmadığını, mahkemece idareleri adına tesciline hükmedilen taşınmazın tasarruf yetkisinin idarelerine ait olduğunu, kamulaştırmasız el atma davası kesinleşmediği için idare adına tescil işleminin yapılamadığını ve tapuda davacı adına görünmeye devam ettiğini, 60070 ada 1 parseldeki davacı hisselerinin 63455 ada 1 ile 63451 ada 1 parsele taşındığını, tüm bu sebeplerle davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -38,6 +40,8 @@ edilerek temyiz edilmediği ve kesinleştiği, mahkemece hükmedilen taşınmaz 
 Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/3792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142941100)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin paydaş olduğu Antalya ili, ..., ... Mahallesi 9416 ada 5 parsel sayılı taşınmazın geldisi olan Varsak Mahallesi 1830 ada 1 parsel sayılı taşınmazın imar planında okul alanı olarak ayrıldığını, imar planındaki kısıtlılığın 1993 yılından bu yana devam ettiğini, dava konusu taşınmazın bir kısmının da fiilen yol ve sokak olarak kullanıldığını, ayrılma amacına uygun olarak kamulaştırma işlemi yapılmayarak müvekkilinin mülkiyet hakkının süresiz ve belirsiz bir şekilde kısıtlandığını ileri sürerek kamulaştırmasız el atılan taşınmaz bedelinin davalı idarelerden tahsilini talep etmiştir.
 
@@ -57,6 +61,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 5. HD 2025/2036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150487900)
+
 Davacılar vekili dava dilekçesinde özetle; müvekkillerinin Ankara ili, Altındağ ilçesi, ... Mahallesi 21250 ada 1 parsel sayılı taşınmaza davalı idarece fiili el atma olgusu gerçekleşecek şekilde kamulaştırmasız el atıldığından bahisle taşınmazın bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -73,6 +79,8 @@ bedelin eldeki davada da kabulü ile hüküm kurulmuş ise de davaya konu taşı
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/518 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132571700)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; tazminat isteminin dahili davalı ... yönünden kısmen kabulüne, davalı ... yönünden reddine, ecrimisil isteminin reddine karar verilmiştir.
 
@@ -94,6 +102,8 @@ Kamu düzeni gereğince yapılan inceleme sonucunda; İlk Derece Mahkeme kararı
 
 ## Yargıtay 5. HD 2025/295 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132276700)
+
 Davacı vekili dava dilekçesinde özetle;... ili, ...,...Mahallesi, 10634 ada, 3 parsel sayılı taşınmazda davacının hissesi bulunduğunu, taşınmazın imar planında sağlık alanı olarak belirlendiğini ve kamulaştırma işlemini yapmayan davalı idarenin kamulaştırmasız hukuki el atması ile müvekkilinin mülkiyet hakkından doğan yetkilerinin kısıtlandığını, parselin bir kısmına davalı idarece......29 Nolu Aile Sağlığı Merkezi yapılmak suretiyle fiilen el atıldığını, bu kısma ilişkin... 2. Asliye Hukuk Mahkemesinin 2016/399 Esas sayılı dosyasında karar verildiğini ve istinaf incelemesinde, bu dosyada müvekkilinin adına olan 21,51 m²lik kısmının fiili el atma nedeniyle tapusunun iptal edildiğini, müvekkilinin bu dosyada karar verilen kısım haricinde kalan 225,12 m²lik hissesinin bedelinin el atma tarihinden itibaren işleyecek faiziyle davacı tarafa ödenmesine karar verilmesini istemiştir.
 
 …
@@ -109,6 +119,8 @@ Her ne kadar İlk Derece Mahkemesince eldeki dosya hukuki el atma kapsamında de
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2025/292 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132275600)
 
 Davacı vekili dava dilekçesinde özetle; dava konusu ... ili, ...ilçesi,... Mahallesi 65160 ada 1 parsel sayılı taşınmaza davalı idare tarafından kamulaştırma yapılmaksızın el atıldığını, taşınmaz bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
@@ -127,6 +139,8 @@ düzenleme usul hükümlerine ilişkin olduğundan derhal uygulanması gerektiğ
 
 ## Yargıtay 5. HD 2024/10182 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122633400)
+
 Davacı vekili dava dilekçesinde özetle; Antalya ili, ..., ... Mahallesi 8402 ada 2 parsel sayılı taşınmazda davacının kendi adına kayıtlı payının bulunduğunu, taşınmazın bulunduğu yerdeki imar planının 01.04.1997 tarihinde yapıldığını, imar planında arsanın ilkokul alanı olarak planlandığını, davalı tarafından geçerli bir kamulaştırma uygulaması yapılmaksızın ve kamulaştırma bedeli ödenmeksizin taşınmaza fiilen el atılarak ilkokul yapıldığını beyanla şimdilik 10.000,00 TL kamulaştırmasız el atma tazminatının ve 100,00 TL ecrimisil bedelinin faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -142,6 +156,8 @@ Asliye Hukuk Mahkemesince hüküm altına alınan ecrimisil miktarı dikkate al�
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/10102 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122589400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın konusuz kalması nedeniyle karar verilmesine yer olmadığına karar verilmiştir.
 
@@ -163,6 +179,8 @@ Davacılar vekilinin temyiz itirazlarının kabulü ile Mahkeme kararının hük
 
 ## Yargıtay 5. HD 2024/9906 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121707600)
+
 Davacı vekili dava dilekçesinde özetle; müvekkilinin maliki olduğu Kocaeli ili, Darıca ilçesi, Darıca Ş. Mahallesi 1240 ada 5 parsel sayılı taşınmaza davalı idare tarafından halk plajı yapılmak suretiyle fiilen el atıldığını, kamulaştırma yapılmaksızın el atılan taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -179,6 +197,8 @@ Mahallesi 1887 ada 3 parsel sayılı taşınmaza 2018 yılı için belirlenen 3.
 Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/8853 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120005700)
 
 Davacı vekili dava dilekçesinde özetle; dava konusu Ankara ili, ..., Mutlu Mahallesi, 36934 ada 8 parsel sayılı taşınmaza davalı idarece fiili el atma olgusu gerçekleşecek şekilde kamulaştırmasız el atıldığından bahisle taşınmazın bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
@@ -197,6 +217,8 @@ Davalı idare vekilinin temyiz itirazlarının kısmen kabulü ile Bölge Adliye
 
 ## Yargıtay 5. HD 2024/8029 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064354300)
+
 Davacı vekili dava dilekçesinde özetle; dava konusu Ankara ili, ..., ... Mahallesi 46173 ada 1 parsel sayılı taşınmazın imar planında sosyal ve kültürel tesis alanı olarak planlandığını, fiili el atma olgusunun gerçekleştiğini belirterek davacı payı karşılığının dava tarihinden itibaren işleyecek faizi ile birlikte davalı idarelerden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -212,6 +234,8 @@ Eldeki davada dava konusu taşınmaz hâlihazırda yürürlükte bulunan 2013 on
 Davalı ... vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/7776 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1075290800)
 
 Davacı vekili dava dilekçesinde özetle; dava konusu Ankara ili, ..., ..., 47181 ada 1 parsel sayılı taşınmazın imar planında sosyal kültürel tesis alanında kaldığını, davalı idarece kamulaştırmasız el atıldığından bahisle taşınmazın bedelinin davalı idareden tahsiline karar verilmesini talep etmiştir.
 
@@ -231,6 +255,8 @@ olarak belirlenir.” düzenlemesi yapılmış olup 09.11.1956 ile 04.11.1983 ta
 Kamu düzeni uyarınca Bölge Adliye Mahkemesi kararının hüküm fıkrasının; (A) bendinin (3) numaralı alt bendi hükümden tümüyle çıkartılarak, yerine “Karar tarihi itibarıyla alınması gereken 40.412,20 TL karar ve ilam harcının mükerrer ödemeye sebebiyet vermeyecek şekilde davalı idareden alınarak Hazineye irat kaydına, davacı tarafça ödenen 170,78 TL peşin harç ve 9.933,00 TL ıslah harcı olmak üzere toplam 10.103,78 TL harcın karar kesinleştiğinde davacıya iadesine,” cümlesinin yazılması, suretiyle hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2024/6641 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066925400)
 
 Davacılar vekili dava dilekçesinde özetle; ... Mahallesi 143 ada 118 parsel sayılı taşınmazın 1986 yılından beri onaylı imar planında ... eğitim (ilköğretim) alanı olarak ayrıldığını, müvekkillerinin taşınmazdan yararlanmasının mümkün olmadığını, mülkiyet haklarının ihlal edildiğini belirterek, öncelikle el atmanın önlenmesi, şerhin terkini ve ecrimisile mümkün olmadığı takdirde kamulaştırmasız el atılan taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 

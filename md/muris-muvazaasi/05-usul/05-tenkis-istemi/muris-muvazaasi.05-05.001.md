@@ -24,6 +24,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2023/81 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896464400)
+
 … karşı edimin minnet duygusuyla belirlenmiş olduğu; bu durumda, **temlikin ivaz karşılığı olup karşılıksız kazandırmadan da söz edilemeyeceği için tenkis hükümlerinin somut olay açısından uygulanma imkanının bulunmadığı**…
 
 ## Yargıtay HGK 2023/390 K.

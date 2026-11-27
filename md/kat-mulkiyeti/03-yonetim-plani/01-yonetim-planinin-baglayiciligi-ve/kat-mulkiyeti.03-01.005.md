@@ -21,38 +21,56 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2008/11280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847164100)
+
 634 Sayılı Kat Mülkiyeti Kanununun 35.maddesi hükmüne göre, esas olarak yönetim planında belirtilen görevleri yapacak yönetici, yönetim planında aksine hüküm bulunmamak koşuluyla bu maddede sıralanan görevleri de yerine getirmek zorundadır. Yöneticinin görevlerini düzenleyen ve genel yönetim işlerinin görülmesine dair yasanın 35.maddesinde yöneticinin kat malikleri tarafından yetki verilmiş olsa da, ana yapının aynını ilgilendiren mülkiyet hakkına dayalı elatmanın önlenmesi ve kal isteği ile dava açabileceğine dair bir hüküm yoktur. Kat mülkiyetine geçilen taşınmazda kat maliklerinin her biri ayrı ayrı malik olduklarından dava ancak kat malikleri tarafından doğrudan açılabilir. Mahkemece, apartman yönetiminin kat maliklerinin mülkiyet hakkı ile ilgili bir davayı açma yetkisi ve görevi olmadığı gözetilerek davanın "aktif dava ehliyeti yokluğu” nedeniyle reddi gerekirken, çekişmenin esasının incelenerek yazılı olduğu şekilde hüküm tesisi doğru olmamış, kararın bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 18. HD 2008/3679 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874088000)
+
 Anataşınmaza ilişkin yönetim planının 29. maddesinin (p) bendinde "kat maliki eğer bekarsa kendi dairesinde oturabilir. Onun haricinde hiç kimse dairesini bekarlara veremez" hükmü yer almaktadır. Yönetim planına konulmuş bulunan bu hüküm kişinin bağımsız bölümünü kullanma hakkını sınırlar ve dolayısıyla mülkiyet hakkının özünü zedeler nitelikte ise de bu maddenin iptal edilmediği ve halen yürürlükte bulunduğu anlaşılmaktadır.
 
 ## Yargıtay 14. HD 2008/3053 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848614700)
 
 634 sayılı Kat Mülkiyeti Kanunun 35. maddesi hükmüne göre esas olarak yönetim planında belirtilen görevleri yapacak yönetici, yönetim planında aksine hüküm bulunmamak koşuluyla bu maddede sıralanan görevleri de yerine getirmek zorundadır. Yöneticinin görevlerini düzenleyen ve genel yönetim işlerinin görülmesine dair Yasanın 35. maddesinde yöneticinin kat malikleri tarafından yetki verilmiş olsa da mecra irtifakı kurulması isteği ile dava açabileceğine dair bir hüküm yoktur. Esasen mecra irtifak hakkının Türk Medeni Kanununun 748/3 maddesince tapu kütüğüne tescil edilmeden doğmuş kabul edilmesi olanaklı değildir. Başka bir anlatımla, mecra irtifakı kurulmasına ilişkin istem mülkiyet hakkı ile sıkı sıkıya bağlı bulunan haklar arasındadır. Kat mülkiyetine geçilen taşınmazda malik, kat maliklerinin her biri olduğundan dava ancak kat malikleri tarafından doğrudan açılabilir.
 Mahkemece apartman yönetiminin mecra irtifakı kurulmasına ilişkin dava açma yetkisi ve görevi olmadığı gözetilerek davanın aktif dava ehliyeti yokluğu nedeniyle reddi gerekirken, değişik bazı gerekçelerle reddedilmiş olması doğru değil ise de, hüküm sonuçta davanın reddine ilişkin bulunduğundan, HUMK.nun 438/son maddesi uyarınca mahkeme karar gerekçesinin yukarıda yazılı olduğu şekilde DEĞİŞTİRİLEREK DÜZELTİLMESİNE ve hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine, 11.03.2008 gününde oybirliği ile karar verildi.
 
 ## Yargıtay 18. HD 2008/2667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876817000)
+
 Kat Mülkiyeti Yasasının 28. maddesi hükmüne göre; tüm kat maliklerini bağlayan bir sözleşme hükmünde olan yönetim planının yönetim tarzıyla anagayrimenkulün özellikle ortak yerlerin kullanma maksat ve şeklini belirleyen hükümleri, düzenlendiği tarihteki maliklerin iradesini yansıtmakta olup bunların, aynı maddenin üçüncü fıkrası uyarınca yasada oybirliğinin açıkça şart kılındığı haller dışında bütün kat maliklerinin 4/5'inin oyu ile değiştirilmesi mümkündür.
 
 ## Yargıtay 18. HD 2007/11046 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882840100)
 
 Kat Mülkiyeti Yasasının 33. maddesinin ikinci fıkrasında, hakim ilgilileri dinledikten sonra bu kanuna ve yönetim planına ve bunlarda bir hüküm yoksa genel hükümlere ve hakkaniyet kaidelerine göre derhal kararını vereceği ve bunun tespit edeceği kısa bir süre içinde yerine getirilmesi gereğinin ilgiliye tefhim ve tebliğ edileceği belirtilmiştir. Buna göre mahkemenin vereceği kararın nihai karar niteliğinde olması gerekir. Somut olayda mahkemece ara karar ile davalıya 60 ... süre verilerek bağımsız bölümün eski hale getirilmesi aksi takdirde tahliyesine karar verileceği ihtar olunmuştur ki bu karar yukarıda anılan yasa maddesine aykırıdır.
 
 ## Yargıtay 18. HD 2007/4199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880393000)
+
 634 Sayılı Kat Mülkiyeti Yasasının 24. maddesinin birinci fıkrasında anagayrimenkulün kütükte mesken, iş veya ticaret yeri olarak gösterilen bağımsız bir bölümünde hastahane, dispanser, klinik, poliklinik, ecza laboratuarı gibi müesseselerin kurulamayacağı belirtildikten sonra dispanser, klinik, poliklinik niteliğinde olmayan muayenehanelerin bu hükmün dışında bulunduğu açıklanmıştır. Ancak davaya konu anataşınmazın yönetim planının (7/d) maddesinde kat mülkiyeti kütüğünde mesken, iş veya ticaret yeri olarak gösterilen bağımsız bölümlerinde hiçbir şekilde hastahane, dispanser, klinik, poliklinik, ecza laboratuarı gibi müesseseler ile muyanehane kurulamayacağı hüküm altına alınmıştır. Aynı Yasanın 28. maddesi hükmüne göre yönetim planı bütün kat maliklerini bağlayan bir sözleşme hükmündedir. Davalıların, tapuda mesken olan dava konusu bağımsız bölümü ortopedi muayenehanesi olarak kiraya verip kullanmaları yasanın ve yönetim planının yukarıda değinilen hükümlerine aykırı olduğu dikkate alınarak davanın kabulü yerine reddi yolunda hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 12. HD 2006/23655 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/64639200)
 
 634 sayılı Kat Mülkiyeti Kanunu'nun 37. maddesine göre, kat malikleri kurulunun işletme giderleri ile ilgili kararları ve kesinleşen işletme projeleri İİK'nun 68.maddesinin 1.fıkrasında belirtilen belgelerden sayılır. Ancak, 634 sayılı Kanunda öngörülen kat mülkiyeti ancak tek parsel üzerindeki yapı ve yapılarda kurulabileceğinden yönetim planı tek parseldeki kat malikleri arasında yapılmış ise uyuşmazlığın Kat Mülkiyeti Kanunu hükümlerine göre, birçok parsel üzerindeki sitedeki yapıların malikleri arasında yönetim planı düzenlenmiş ise uyuşmazlığın genel hükümlere göre çözümlenmesi gerekir.
 
 ## Yargıtay 18. HD 2006/9409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/888415500)
+
 Kat Mülkiyeti Yasasının 28. maddesinin birinci fıkrasına göre yönetim planı bütün kat maliklerini bağlayan bir sözleşme hükmündedir. Dosya içindeki bilgi ve belgelerden, özellikle dava konusu siteye ait yönetim planının 20. maddesinde kat maliklerinin "kendi bağımsız bölümü ile ortak yerlerde kedi, köpek, tavuk gibi hayvanları besleyemeyecekleri" açıkça belirtilmiştir. Bu duruma göre mahkemece toplanan deliller doğrultusunda ispatlanan davanın kabulü yolunda hüküm kurulması gerekirken, usul ve yasaya aykırı olarak davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2006/5893 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884693800)
 
 Öte yandan yönetim planının 12. maddesinin a, b ve c bendlerinde kat maliklerinin ortak giderlere ne şekilde katılacağı açıkça belirtilmiş olup yönetim planının bu madde hükmü yöntemince değiştirilmiş olmadıkça ortak giderlere katılma yöntemi ve ölçütünün buna göre belirlenmesi gerekir. Yönetim planının değiştirilebilmesi için de Kat Mülkiyeti Yasası'nın 28.md. hükmüne göre ana taşınmazdaki tüm kat maliklerinin beşte dördünün oyu şarttır. Somut olayda iptali istenilen ve 24.1.2004 günlü toplantıda alınan 4 nolu kararda bağımsız
 
@@ -60,14 +78,20 @@ bölüm maliklerinden ortak gider aidat ve avans paylarının yönetim planında
 
 ## Yargıtay 18. HD 2006/2541 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879817600)
+
 Dava konusu edilen yerin Kat Mülkiyeti Yasasının 4. maddesinde öngörülen ortak yerden olduğunda kuşku ve çekişme yoktur. Yargıtay'ın yerleşmiş uygulamalarına göre de kat malikleri yönetim planı ile ortak yerlerin kullanım tarzını, özgülenme biçimini hüküm altına alabilirler. Yönetim planında böyle bir düzenleme varsa bunun değiştirilmesi ancak tüm kat maliklerinin beşte dördünün oyu ile olanaklıdır. Kat Mülkiyeti Yasasının 28. maddesi hükmü uyarınca anataşınmazın (bu bağlamda ortak yerlerin) yönetim tarzını, kullanma maksat ve şeklini ve yönetimle ilgili diğer hususları düzenleyen yönetim planı bütün kat maliklerini bağlayan bir sözleşme hükmündedir. Somut olayda yönetim planının 8. maddesi ile anataşınmazda kat maliklerinin kendilerine ayrılan yerler dışındaki ortak yerlere (bu bağlamda ortak yer niteliğindeki açık otoparak olarak ayrılan alana) araç park edilemeyeceği açıkça hükme bağlandığına göre bu hüküm yöntemince ortadan kalkmış olmadıkça anataşınmazdaki tüm kat maliklerini bağlar.
 25 bağımsız bölümlü anataşınmazda Kat Malikleri Kurulunun 16.11.2003 tarihli toplantıda 10 bağımsız bölüm malikinin olumlu oylarıyla alınan karar yönetim planı hükmünü değiştirecek yeter sayıda bulunmadığından buna itibar edilemez. O halde tüm kat maliklerini bağlayan sözleşme niteliğindeki yönetim planının 8. maddesi hükmünün geçerliliğini koruduğu ve buna göre de dava konusu edilen ortak yere araç park edilmesinin yasaklandığı gözönünde tutularak davanın kabulüne karar verilmesi gerekirken, yerinde olmayan gerekçeyle reddi yolunda hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2006/2426 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881173000)
+
 Kat Mülkiyeti Yasasının 28. maddesi hükmü uyarınca yönetim planı, bütün kat maliklerini bağlayan bir sözleşme niteliğinde olup, sonradan eklendiği ileri sürülüp iptali istenilen tümcelerin içeriği de dikkate alındığında anataşınmazdaki tüm kat maliklerinin hukukunu yakından ilgilendirdiği gözetilerek davada anataşınmazdaki tüm kat maliklerinin taraf olması gerekir. Bu durumda kat maliklerinden ...., ...’in de yöntemince davaya dahil edilip taraf teşkili sağlanmadan işin esası hakkında hüküm kurulmuş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2006/2286 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881162400)
 
 1-634 Sayılı Kat Mülkiyeti Yasasının 19. maddesinin birinci fıkrasına göre kat malikleri anataşınmazın mimari durumunu titizlikle koruma mecburiyetindedirler. Aynı Yasanının 28. maddesine göre de yönetim planı bütün kat maliklerini bağlayan bir sözleşme hükmündedir. Bu açıklamalardan da anlaşılacağı üzere kat irtifakı kurulurken 2 numaralı bağımız bölüme eklenti olarak tahsis edilen ve tapu siciline de bu şekilde geçirilen kayıt ile yönetim planı hükmü, bu anataşınmazdan sonradan bağımsız bölüm satın aldığı anlaşılan davacıları da
 
@@ -75,13 +99,19 @@ bağlayacağı muhakkaktır. Davalının 2 numaralı bağımsız bölüme eklent
 
 ## Yargıtay 18. HD 2006/819 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883845600)
+
 Kat Mülkiyeti Yasasının 28.maddesi hükmüne göre anataşınmazın yönetim tarzı ile kullanım maksat ve şeklini düzenleyen yönetim planı bütün kat maliklerini bağlayan bir sözleşme hükmünde olup (yasanın özel nisap aradığı haller hariç) bütün kat maliklerinin 4/5 oyu ile değiştirilmedikçe kat maliklerinin yönetim planı hükümlerine uymaları zorunludur.
 
 ## Yargıtay 18. HD 2006/234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882161000)
+
 Kat Mülkiyeti Yasasının 28.maddesi hükmüne göre anataşınmazın yönetim tarzı ile kullanım maksat ve şeklini düzenleyen yönetim planı bütün kat maliklerini bağlayan bir sözleşme hükmünde olup (yasanın özel nisap aradığı haller hariç) bütün kat maliklerinin 4/5 oyu ile değiştirilmedikçe kat maliklerinin yönetim planı hükümlerine uymaları zorunludur. Tapuda mesken nitelikli bağımsız bölümün anılan yasanın 24.maddesine dayanılarak kat maliklerinden izin alınmadan diş hekimliği muayenehanesi olarak kullanılabilmesi için bu hususta yönetim planında yasaklayıcı bir hükmün bulunmaması gerekir.
 
 ## Yargıtay 18. HD 2005/3027 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16164700)
 
 Kat Mülkiyeti Yasasının 18. maddesi hükmü uyarınca kat malikleri, gerek bağımsız bölümlerini, gerekse eklentileri ve ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirini rahatsız etmemek, birbirinin haklarını çiğnememek ve yönetim planı hükümlerine uymakla, karşılıklı olarak yükümlüdürler. 8u maddede yükümlülüğün karşılıklı olduğu açıkça belirtilmiştir. Bundan amaç, tüm kat malikleri bakımından karşılıklılıktır. Bir yapının çatısı altındaki bağımsız bölümlerde oturanlar arasında dirlik-düzen ve barış ancak yasanın öngördüğü kurallara karşılıklı olarak uymakla sağlanabilecektir. Madde metninden de anlaşılacağı üzere buradaki yükümlülük hakkın kullanılması ile ilgilidir. Buna göre kat maliklerinden herbiri, bağımsız bölüm ve eklentileri ile ortak yerlerde yasanın kendisine tanıdığı hak ve yetkileri kullanırken diğer bağımsız bölümlerde oturanları rahatsız etmeyecek, zarar veren eylem ve davranışlardan özenle kaçınacak, onların haklarını çiğnemeyecek ve yönetim planı hükümlerine uyacak; buna karşılık diğer kat malikleri de o kat malikinin sözü edilen yerlerdeki yasal kullanma hakkını kısıtlayıcı ya da zorlaştırıcı eylem ve davranışlardan özenle kaçınacaktır.
 İşte tüm bunlar, kat maliklerinin karşılıklı olarak objektif iyiniyet (dürüstlük) kurallarına uymalarıy-la mümkün olabilecek ve bu konudaki değerlendirmelerde 4721 sayılı Türk Medeni Kanununun 2. maddesi hükmü göz önünde bulundurulacaktır. Örneğin -somut olayda olduğu gibi bağımsız bir bölümde bir onarım sözkonu-su olduğunda, diğer kat malikleri o bağımsız bölümün malikine gereken kolaylığı göstermeli, gerekli işlerin yapılması sırasında çıkacak ses ve gürültüye objektif iyiniyet kuralları çerçevesinde katlanmalı; ancak o kat maliki de sözü edilen onarım işini yaparken diğer kat maliklerine (ve onlann bağımsız bölümlerinde oturanlara) rahatsızlık vermemeye özen göstermeli, varsa gereken önlemleri almalıdır. Bu konuda 4721 sayılı Türk Medeni Kanununun "komşuluk hakkını kullanma
@@ -90,18 +120,26 @@ biçimi"ne ilişkin 737. maddesi hükmü de gözden uzak tutulmamalıdır. Buna 
 
 ## Yargıtay 18. HD 2005/639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16439900)
+
 Öte yandan; anataşınmaza ilişkin yönetim planının 31. maddesinde, "İleride İmar Yasasında yapılacak değişiklikle çatı katının tam kata dönüştürülmesine izin verildiği takdirde, diğer bağımsız bölüm maliklerinin buna şimdiden muvafakat edecekleri" hükme bağlanmış ise de, Kat Mülkiyeti Yasasının 19. maddesindeki tüm kat maliklerinin rızasını ya da 44. madde uyarınca oybirliğiyle karar alınmasını gerekli kılan koşulları bertaraf eden nitelikteki bu yönetim planında yer alan hüküm geçersiz olup, kat maliklerini bağlamaz. Anılan Yasanın 28. maddesine göre anataşınmazın yönetim tarzını, kullanma maksat ve biçimini, yönetici ve denetçilerin alacakları ücreti ve yönetimle ilgili diğer hususları düzenleyen yönetim planına konulan bir hükümle anataşınmazın onaylı mimari projesine aykırı olarak inşaat, tesis ve değişiklik yapmak ve özel temellük hakkı tanımak olanaklı bulunmadığı cihetle, çekme kat maliki davalıların terasta gerçekleştirmiş oldukları inşaat ve değişikliklerin değinilen yönetim planı hükmüne dayandığı yolundaki savunmalarına da itibar edilemez.
 
 ## İstanbul BAM 17. HD 2025/1468 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183695900)
 
 Yönetim planında tüm bağımsız bölümlerde depo olarak kullanılamaz denmesine rağmen bir çok blokta bağımsız bölümlerin depo olarak da kullanıldığının görüldüğünü, parselin ortasında yer alan Çarşı Blokta doluluğun yüksek seviyelerde olduğu, ara blokta beklenen değer artışının olmamasının nedenlerinin; projenin kendini gerçekleştirememesi nedeni ile doluluğun düşük olması, tekstilcilerin buraya taşınmamış olması, ara bloğun parselin ana yola uzak olması tekstil dışı faaliyet gösterenlerin tercih etmemesine neden olması kanaatine varıldığı, 21.05.2018 tarihli raporda diğer bloklarda tekstil dışı faaliyet yapılması nedeni ile değer kaybı olduğundan bahsedilmediği, iki rapor arasında bu yönden çelişki bulunmadığı, proje genelinde talebin olmamasının da tekstil dışı faaliyetin artmasına bir etken olduğu, değer artışındaki kaybın birden fazla olduğu, yönetim planındaki kuralın uygulanmasının bu kayıptaki payının % 5 kadar olabileceği kanaatine varıldığı, 21.05.2018 tarihli rapordaki değerlerin dava tarihindeki değerleri yansıttığı fakat değer artışındaki kaybın birden fazla olmasının gözden kaçırılması nedeni ile aynı sonuca ulaşılamadığı, davalı kooperatifin yönetim kurulunun,
 kooperatifi, yönetim planına ve ana sözleşmeye uygun yönetmemesi, yönetim planında belirtilen iş yerlerinin belirtilen alanlar dışında faaliyet göstermesi, davacının bu iki dükkanı alırken yönetim planına ve kooperatif ana sözleşmesine güvenerek alması, kooperatiflerin en temel ilkelerinden biri olan Kooperatifler Kanunu 23. Maddesinde belirtilen eşitlik ilkesine güvenerek (kooperatif ana sözleşmesinin ve yönetim planının herkese uygulanacağı ve belirtilen yerlerde belirtilen işlerin yapılacağı) alması nedeniyle davacının zarara uğradığı, değer kaybındaki yönetim planındaki kuralın uygulanmasının payı olduğu kanaatine varılması durumunda değer kaybı miktarının 13.500,00 TL olduğu hesap edildiği belirtilmiştir.
 
 ## Ankara BAM 21. HD 2025/453 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150767800)
+
 Sözleşmenin ''Ayrılmaz Parça'' başlıklı 6. maddesinde; ''01/06/2018 tarihli düzenleyen "Hissedarlar Sözleşmesi” 01/09/2018 tarihli “... AVM Ana Kira sözleşmesi”, “Yönetim planı”, “Şirket esas sözleşmesi”, “Katılım Sözleşmesi”, Devre esas tapu kaydı, işbu sözleşmenin ayrılmaz parçasıdır.'' hükmünün yer aldığı görülmüştür.
 
 ## İstanbul BAM 45. HD 2024/780 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044160500)
 
 Yönetim planında hüküm bulunmayan hallerde, anagayrimenkulün yönetiminden doğacak anlaşmazlıklar bu kanuna ve genel hükümlere göre karara bağlanır.", 34.maddesinde "Kat malikleri, ana gayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye veya üç kişilik bir kurula verebilirler; bu kimseye (Yönetici), kurula da (Yönetim kurulu) denir..." hükümleri yer almaktadır.634 sayılı Kanun'un 35.maddesinde;
 "Yöneticinin görevleri, yönetim planında belirtilir; yönetim planında aksine hüküm olmadıkça, yönetici aşağıdaki işleri görür:a) Kat malikleri kurulunca verilen kararların yerine getirilmesi;b) Ana gayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için gereken tedbirlerin alınması;c) Ana gayrimenkulün sigorta ettirilmesi;d) Ana gayrimenkulün genel yönetim işleriyle korunma, onarım, temizlik gibi bakım işleri ve asansör ve kalorifer, sıcak ve soğuk hava işletmesi ve sigorta için yönetim planında gösterilen zamanda, eğer böyle bir zaman gösterilmemişse, her takvim yılının ilk ayı içinde, kat maliklerinden avans olarak münasip miktarda paranın toplanması ve bu avansın harcanıp bitmesi halinde, geri kalan işler için tekrar avans toplanması;e) Ana gayrimenkulün yönetimiyle ilgili diğer bütün ödemelerin kabulü, yönetim dolayısıyla doğan borçların ödenmesi ve kat malikleri tarafından ayrıca yetkili kılınmışsa, bağımsız bölümlere ait kiraların toplanması;f) Ana gayrimenkulün tümünü ilgilendiren tebligatın kabulü;g) Ana gayrimenkulü ilgilendiren bir sürenin geçmesinden veya bir hakkın kaybına meydan vermeyecek gerekli tedbirlerin alınması;h) Ana gayrimenkulün
@@ -110,10 +148,14 @@ korunması ve bakımı için kat maliklerinin yararına olan hususlarda gerekli 
 
 ## İstanbul BAM 45. HD 2023/417 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883482700)
+
 634 sayılı Kat Mülkiyeti Kanunu'nun 27. maddesinde; "Anagayrimenkul, kat malikleri kurulunca yönetilir ve yönetim tarzı, kanunların emredici hükümleri saklı kalmak şartiyle, bu kurul tarafından kararlaştırılır. ", 28.maddesinde "Yönetim planı yönetim tarzını, kullanma maksat ve şeklini yönetici ve denetçilerin alacakları ücreti ve yönetime ait diğer hususları düzenler. Yönetim planı, bütün kat maliklerini bağlıyan bir sözleşme hükmündedir. Yönetim planında hüküm bulunmayan hallerde, anagayrimenkulün yönetiminden doğacak anlaşmazlıklar bu kanuna ve genel hükümlere göre karara bağlanır." hükümleri yer almaktadır. Yine aynı Kanun'un 34.maddesinde yönetici atanması, 35, 36 ve 37.maddelerinde ise yöneticinin görevleri düzenlenmiş, aynı Kanun'un Ek 1. maddesinde ise kat mülkiyetinden kaynaklanan her türlü uyuşmazlığın değerine bakılmaksızın Sulh Hukuk Mahkemesi'nde çözümleneceği ifade edilmiştir. Mahkemece dosya kapsamına taşınmaza ait tapu kayıtları ve yönetim planı getirtilmemiş, taşınmazın 634 sayılı Kat Mülkiyeti Kanunu hükümlerine tabi olup olmadığı tespit edilmemiştir.
 Bu durumda mahkemece davaya konu anataşınmaza tapu kaydının dosya arasına alınması, anataşınmazın üzerinde kurulu olduğu tüm parsel ya da parsellerde kat mülkiyeti veya kat irtifakı kurulup kurulmadığı, birden fazla parselde kurulu ise 634 sayılı Kat Mülkiyeti Kanunu hükümlerine göre toplu yapı yönetimine geçilip geçilmediği, geçilmiş ise tarihi, Kat Mülkiyeti Kanununun 66. ve 67. maddeleri gereğince toplu yapıyı oluşturan imar parselleri ve ortak yerlerin tapuda birbirleriyle bağlantıları sağlanmak suretiyle irtibatlandırılıp irtibatlandırılmadığı sorularak buna ilişkin kayıtların, toplu yapı yönetim planı örneğinin, toplu yapı kurulmamış ise ilgili ada ve parsellere ait tapu kayıtları ile taşınmaza ait yürürlükteki yönetim planları örneklerinin tapu müdürlüğünden getirtilerek dosya kapsamına alınması ve tüm kayıtlar birlikte incelenerek görev hususunun öncelikle re'sen incelenesi gerekmektedir.
 
 ## İstanbul BAM 3. HD 2019/1490 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540759300)
 
 İcra Müdürlüğü'nün ... esas sayılı dosyasında 259.567,80-TL asıl alacak, 14.103,18-TL faiz olmak üzere toplam 273.670,98-TL miktar üzerinden itirazın iptali ile takibin asıl alacak 259.567,80-TL'ye takip tarihinden itibaren yıllık %11,75 oranını aşmamak kaydı ile avans faizi yürütülmek sureti ile devamına,fazlaya ilişkin talebin reddine,hükmolunan miktar üzerinden hesaplanan 54.734,20-TL %20 icra inkâr tazminatının tahsilde tekerrür olmamak kaydı ile davalılardan alınarak davacıya iadesine " karar verilmiştir.Sözkonusu kararı davalılar vekili istinaf etmiş olup, mahkeme kararının aksine, taşınmaz üzerinde 17/07/2007 tarih ve 9549 yevmiye numaralı işlem ile kat irtifakı tesis edildiği, yönetim planının taraflarca imzalandığı ve yönetim planı hükümleri uyarınca, 30/07/2007 tarihinde toplu yapı yönetiminin oluşturulduğu, yönetim planının tapuya tescil edildiği ,bu hususun mahkemece araştırılmadığı, mahkemenin sadece sözleşmenin uygulanması gerektiğinden bahisle, aidat ve demirbaş giderlerinin davalının ödeme sorumluluğunda bulunduğu yönünde karar verdiği,sözleşmenin hangi hükmüne dayalı olarak bu sorumluluğun belirlendiğinin açık ve denetime elverişli olarak karar gerekçesinde
 yazılmadığı, mahkeme tarafından, icra takibi ile talep edilen bedelin, bakım ve muhafaza giderleri olup olmadığı veya genel yönetim gideri olup olmadığı yönünde herhangi bir araştırma veya inceleme yapılmadığı, oysa bu her iki gider kaleminin farklı hükümlere tabi olacağı, takibe konu aidat ve demirbaş bedellerinin ödenmesinin, 634 sayılı Kat Mülkiyeti Kanunu hükümleri uyarınca, davacı/davacının halefi 3. şahıslara ait olduğu, taraflar arasındaki sözleşmenin hiçbir maddesinde, davalıya isabet eden kat irtifaklı/tapulu bağımsız bölümlere ait aidat

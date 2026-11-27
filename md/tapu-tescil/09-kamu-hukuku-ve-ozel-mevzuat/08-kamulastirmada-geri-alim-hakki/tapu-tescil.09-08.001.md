@@ -20,17 +20,25 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1344 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726560600)
+
 Kamulaştırma Kanunu’nun 23. maddesinin son fıkrasında (§ 21) hangi hâllerde malikin geri alma hakkını kullanamayacağı düzenlenmiş olup, mülga 1593 sayılı Erişme Kontrollü Karayolları Kanunu’nun 6. maddesinde erişme kontrollü karayolunun yapımı, gelişmesi ve çevresinin korunması ve düzenlenmesi için gereken genişlikte arazi şeridinin kamulaştırılacağı, bu maksatla yapılan kamulaştırmalarda 6830 sayılı İstimlak Kanunun 23. maddesinin uygulanmayacağı hüküm altına alınmıştır. 2942 sayılı Kamulaştırma Kanunu’nun “İstimlak Kanununa yapılan atıflar” başlıklı 41. maddesinde “Diğer kanunlarda İstimlak Kanununa veya belli maddelerine yapılan atıflar bu Kanuna veya bu Kanunun aynı konuları düzenleyen madde veya maddelerine yapılmış sayılır.” hükmü ile mülga 1593 sayılı Erişme Kontrollü Karayolları Kanunu’nun 6. maddesi gözönüne alındığında, 2942 sayılı Kamulaştırma Kanunu’nun 23. maddesinin eldeki davada uygulanma imkanı bulunmamaktadır.
 
 ## Yargıtay HGK 2021/1343 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724685000)
 
 Kaldı ki; 6495 sayılı Yasanın 26. maddesi ile Kamulaştırma Kanununun 22. maddesinin 1. fıkrasına eklenen “Kamulaştırmayı yapan idare, kamulaştırma amacına uygun tesis yapıp en az 5 yıl kullandıktan sonra ihtiyacın ortadan kalkması nedeniyle kamulaştırma amacında kullanılamayan taşınmazlar önceki mal sahibi veya mirasçılarına iade edilmez.” cümlesi göz önüne alındığında halen idare tasarrufunda olan ve kamulaştırma amacı dışında herhangi bir işlem yapılmayan taşınmaz için Kamulaştırma Kanununun 22. maddesinin uygulanması mümkün olmadığı gibi, Kamulaştırma Kanununun 23. maddesinin de uygulanma olanağı yoktur. Şöyle ki;…
 
 ## Yargıtay HGK 2013/1429 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77551800)
+
 2942 Sayılı Kamulaştırma Kanununun 23.maddesi uyarınca, kamulaştırılan taşınmazın iadesine karar verilmesi için, kamulaştırmayı yapan idarenin kamulaştırma bedelinin kesinleşmesinden itibaren beş yıl içerisinde kamulaştırma amacına uygun hiçbir işlem veya tesisat yapmamış olması ve taşınmazı olduğu gibi bırakması ve geri alım davasının da 5 yıllık süre dolduktan sonra takip eden 1 yıl içinde açılması gerekir.
 
 ## Yargıtay 5. HD 2026/4080 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207155300)
 
 3\. 2942 sayılı Kanun'un 23 üncü maddesi uyarınca; kamulaştırılan taşınmazın geri alınabilmesi için kamulaştırma bedelinin kesinleşme tarihinden itibaren 5 yıl içinde kamulaştırmayı yapan idarece kamulaştırma ve devir amacına uygun hiçbir işlem ve tesisat yapılmamış olması ve kamu amacına yönelik hiçbir ihtiyaca tahsis edilmeyerek taşınmaz malın olduğu gibi bırakılması gerekir. Geri alma hakkının doğmasından itibaren 1 yıl içinde kullanılmayan hak düşer. Aynı amacın gerçekleşmesi için birden fazla taşınmaz birlikte kamulaştırıldığı takdirde bu taşınmazların durumunun bir bütün oluşturduğu kabul edilerek geri alma hakkının doğumu taşınmazların tümüne göre belirlenir.
 

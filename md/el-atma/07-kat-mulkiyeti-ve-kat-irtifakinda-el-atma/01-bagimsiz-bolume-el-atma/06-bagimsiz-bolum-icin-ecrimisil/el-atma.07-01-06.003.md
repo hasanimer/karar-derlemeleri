@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2015/8790 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140677000)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davacılar, elbirliği halinde malik oldukları 296 ada 25 parsel sayılı taşınmazdaki 9 ve 10 numaralı bağımsız bölümlerin tamamının mirasbırakanları Eyüp ve Zühre'nin ölümünden itibaren davalılar tarafından kullanıldığını ileri sürerek elatmanın önlenmesi ve ecrimisile karar verilmesini istemişlerdir.
@@ -39,6 +41,8 @@ Davacılar vekilinin temyiz itirazı açıklanan nedenden ötürü yerindedir. K
 
 ## Yargıtay 1. HD 2015/3074 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120600100)
+
 Davacılar, davalı ve dışı kişilerle birlikte paydaş oldukları .... ada... ve ... ada ... ada ... parsel sayılı taşınmazların davalı tarafından kullanıldığı gibi kullanımlarına da engel olunduğunu ileri sürerek, payları oranında el atmanın önlenmesi ve ecrimisile karar verilmesini istemişlerdir.
 
 Davalı, davanın reddini savunmuştur.
@@ -52,6 +56,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 17. HD 2014/13716 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/394511700)
+
 Dava, davacı site yönetimi tarafından ödenen ecrimisil bedelinin davalıdan tahsili istemine ilişkindir.
 
 …
@@ -59,6 +65,8 @@ Dava, davacı site yönetimi tarafından ödenen ecrimisil bedelinin davalıdan 
 Somut uyuşmazlıkta, davacı sitenin bulunduğu taşınmazın bir kısmının hazineye ait olması nedeniyle hazineye ecrimisil ödendiği, davalı bağımsız bölüm malikinin kendi payına düşen ecrimisil bedelini ödemediği iddiasıyla davacı tarafından ödenen bedelin davalıdan tahsili talep edilmiştir. Ecrimisil davasının Kat Mülkiyeti Yasası'nın uygulanmasından kaynaklanmadığı, anılan yasa maddesi hükmünün bu istem yönünden uygulama olanağı bulunmadığı, davanın genel hükümlere göre sonuçlandırılması gerektiğinden uyuşmazlığın Asliye Hukuk Mahkemesinde görülüp, sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 1. HD 2014/6804 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84418900)
 
 Dava, kat mülkiyeti kurulu taşınmazda 2 ve 3 numaralı bağımsız bölümlere ve ortak alanlara elatmanın önlenmesi, 1 numaralı bağımsız bölümün projeye aykırı olarak otopark şeklinde kullanılmasının önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -75,6 +83,8 @@ Bu durumda, davacının mülkiyet hakkına değer verilerek 2 ve 3 numaralı ba�
 Davacının bu yöne ilişkin temyiz itirazı yerindedir. Kabulü ile, hükmün açıklanan nedene hasren (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/6247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/117931900)
 
 Mahkemece, iddia, savunma benimsenen bilirkişi raporu ve tüm dosya kapsamına göre, asıl davada davalı-karşı davada davacı H..
 
@@ -94,6 +104,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl davada dava
 
 ## Yargıtay 8. HD 2014/4420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/305268300)
+
 Davacı-karşı davalı ... vekili, dava dilekçesi ile ....02.2010 tarihli dilekçesinde dava konusu 25337 ada ... parsel üzerindeki ... nolu bağımsız bölümde vekil edeni ve kardeşi ...’un ortak olduğunu, davalının uzun yıllar bedel ödemeksizin taşınmazı kullandığını, yapılan tüm uyarılara rağmen taşınmazı tahliye etmediğini açıklayarak davalının haksız müdahalesinin önlenmesine ve fazlaya ilişkin haklar saklı kalmak üzere ....500 TL haksız işgal tazminatının alacağın doğduğu tarihten geçerli yasal faiziyle birlikte davalıdan alınmasına karar verilmesini istemiştir.
 
 Davalı-karşı davacı ... vekili, tarafların kardeş olduğunu, dava konusu ... nolu bağımsız bölümün 1979 yılında inşaat halindeyken vekil edenine satıldığını, yine taşınmazda paydaş olan kardeşleri ...’un payının satışı konusunda anlaştıklarını, ancak tapuda devir yapılmasına yanaşılmadığını, ... nolu bağımsız bölümün müvekkiline ait olduğunu ileri sürerek asıl davanın reddine karar verilemesini savunmuş, harcını yatırmak suretiyle açtığı karşı davanın kabulü ile ... nolu bağımsız bölümün tapu kaydının iptaliyle vekil edeni adına tapuya tesciline karar verilmesini istemiştir.
@@ -108,6 +120,8 @@ O halde; mahkemece, ... nolu bağımsız bölüm yönünden davacının .../... 
 Davalı-karşı davacı ... vekilinin karar düzeltme isteği bu bakımdan yerinde bulunduğundan kabulüyle Dairenin maddi yanılgıya dayalı ........2013 tarih ve 2012/12584 Esas, 2013/14792 Karar sayılı onama ilamının müdahalenin önlenmesi ve ecrimisile ilişkin bölümünün KALDIRILMASINA …
 
 ## Yargıtay 23. HD 2014/3743 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113974200)
 
 Mahkemece, iddia, savunma ve dosya kapsamına göre; yüklenici tarafından yapılan yapının kaçak olması, yasal hale getirilme olanağının bulunmaması nedeniyle karşı davanın reddine, asıl davanın kısmen kabulü ile davalılar R.. B.. ile İ..
 
@@ -124,6 +138,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan asıl ve karşı davadaki dav
 
 ## Yargıtay 1. HD 2013/16398 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79689700)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Mahkemece,elatmanın önlenmesi isteğinin kabulüne;ecrimisil isteğinin kısmen kabulüne karar verilmiştir.
@@ -138,6 +154,8 @@ Davalının bu yönlere değinen temyiz itirazlarının kabulü ile, hükmün a�
 
 ## Yargıtay 1. HD 2013/14550 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79636000)
+
 Hemen belirtmek gerekir ki, ecrimisil isteği ile davalı A.S. bakımından Dairenin onama kararında bir isabetsizlik bulunmadığı gibi, birleşen dava yönünden verilen bozma kararında da bir isabetsizlik yoktur. Ne var ki; çekişmeye konu 1 nolu bağımsız bölümün tapuda davacılar ile davalı A.'in miras bırakanı olan A.S.adına kayıtlı olduğu, murisin 24.11.2002 tarihinde öldüğü, geride mirasçı olarak davacılar, davalı A.ile dava dışı çocukları N. B.H. S.ile torunları İ. S. İ. S.ve İ.S.'ın kaldıkları, miras bırakan A. S.'ın sağlığında dava konusu yeri 01.02.2001 düzenleme ve başlangıç tarihli, 5 yıllık yazılı kira sözleşmesi ile davalı M. G.'e kiraya verdiği anlaşılmaktadır.
 
 …
@@ -145,6 +163,8 @@ Hemen belirtmek gerekir ki, ecrimisil isteği ile davalı A.S. bakımından Dair
 Davalı M.G.in karar düzeltme isteği bu sebeple yerindedir. Kabulüyle, Dairemizin 20.02.2013 tarihli, 2013/331 Esas, 2013/2274 sayılı kararının onanan bölümünün bu yönlerden ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 1. HD 2013/12536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79525700)
 
 Dava, el atmanın önlenmesi, ecrimisil ve yıkım isteklerine ilişkindir.
 
@@ -162,6 +182,8 @@ Hal böyle olunca davalının müdahalesinin başladığı tarih tespit edilerek
 
 ## Yargıtay 5. HD 2013/1951 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/267191600)
+
 Mahkemece uyulan bozma kararı gereğince inceleme ve işlem yapılarak hüküm kurulmuş; karar, davacı ve davalı ... Genel Müdürlüğü vekillerince temyiz edilmiştir.
 
 …
@@ -176,6 +198,8 @@ Davacı ve davalı ... ... Genel Müdürlüğü vekillerinin temyiz itirazları 
 
 ## Yargıtay 1. HD 2013/1182 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/246096800)
+
 Davacı, kayden paydaş olduğu 252 parsel sayılı taşınmaza davalının haklı ve geçerli bir neden olmaksızın ev ve ahır yapıp kullanmak suretiyle müdahalede bulunduğunu, davalı aleyhine aynı yere ilişkin verilen elatmanın önlenmesi ve yıkım kararının infaz ettirilmediğini, noterden çekilen ihtarnameye rağmen sonuç alamadığını ileri sürerek elatmanın önlenmesi, yıkım ve ecrimisile karar verilmesini istemiştir.
 
 Davalı, dava konusu taşınmazın 500 metrekarelik bölümünü davacıdan haricen satın almasına rağmen tapu kaydının kendisine devredilmediğini, 1988 tarihinde davacının kazandığı davada verilen kararı infaz ettirmediğini, iyiniyetli olduğunu ileri sürerek davanın reddini savunmuştur.
@@ -188,6 +212,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 3. HD 2012/19757 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526215600)
+
 Davada; vasiyetnameye konu taşınmaza; davalının vaki müdahalenin men'i ile, haksız kullanımı nedeniyle ecrimisil talep edilmiştir.Miras bırakanın, 07.02.2002 tarihli vasiyetnamesinde; “...ben öldükten sonra, (2/268) arsa paylı (4) bağımsız bölüm numaralı dükkanımın tamamının oğlum ...'un çocukları olan torunlarım ..., ... ve ... ...'a eşit hisseler nisbetinde kalmasını, vasiyet ediyorum” denilmektedir.Kural olarak, muris, ölüme bağlı tasarruf ile mirasçı atayabilir veya muayyen mal vasiyetinde bulunabilir (TMK.md; 516-517-519)TMK'nun 599/3 maddesi uyarınca atanmış mirasçılar, mirası, miras bırakanın ölümü ile kazanırlar. Bu kişiler Sulh Hukuk Mahkemesi tarafından kendilerine mirasçılık belgesi verilmesi ile vasiyetname konusu hakkın kendi adlarına geçirilmesini sağlayabilirler (Tapu Tüzüğü m.21).
 
 Ancak, TMK'nun 517.maddesi uyarınca; muayyen mal vasiyetinde ise; lehine mal vasiyet edilen, miras bırakanın ölümü ile ayni bir hak kazanmış olmaz. Şahsi bir hak kazanır. Başka bir anlatımla, vasiyet edilen mal, lehine mal vasiyet edilene doğrudan intikal etmez. Bu durumda, lehine mal vasiyet edilen, şahsi hakka dayanarak, vasiyetnamede lehine vasiyet edilen malın adına tescili için vasiyetnamenin tenfizi davası açması gerekir.Somut olayda, sözü edilen vasiyetname ile muayyen mal vasiyetinde bulunulmuştur. Davacılar, öncelikle dava konusu taşınmazın adlarına tescilini (açacakları vasiyetnamenin yerine getirilmesi (tenfizi) davası ile) sağlamalılar, bundan sonra (taşınmazın mülkiyeti adlarına geçtikten sonra) davalının, taşınmazı; halâ kullanmaya devam ettiğinden bahisle iş bu men'i müdahale ve ecrimisil talepli davayı açmaları gerekir.
@@ -195,6 +221,8 @@ Ancak, TMK'nun 517.maddesi uyarınca; muayyen mal vasiyetinde ise; lehine mal va
 O halde, mahkemece; yukarıda açıklanan yasal düzenlemeler nedeniyle, davacıların; henüz mülkiyeti uyuşmazlık konusu olan taşınmazla ilgili, (vasiyetnamenin tenfizi davası açılıp bir karar alınmadan) men'i müdahale ve ecrimisil davası açmalarının usul ve yasaya aykırı olduğu gözetilmeden; yanılgılı değerlendirme ile yazılı şekilde davanın kabulüne dair hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2012/16779 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/530009600)
 
 Davalı, dava konusu taşınmazda davacının rızası ile oturduğunu belirterek davanın reddini savunmuştur.
 
@@ -205,6 +233,8 @@ Ayrıca, yararlanma dileğinin açıklanması koşulu ile davacının açtığı
 Her ne kadar mahkemece, davacı tarafından davalıya gönderilen ihtarnamenin tebliğ tarihi, intifadan men 'in başlangıcı olarak kabul edilerek bu tarihten itibaren hesap edilen ecrimisile hükmedilmiş ise de, davacı tarafından 2007 yılında açılan ortaklığın giderilmesine ilişkin dava dilekçesinin tebliğ tarihinde yukarıda açıklanan ilkeler ve esaslar doğrultusunda intifadan men olgusunun gerçekleştiği gözetilerek buna göre ecrimisil hesap edilip sonucuna göre karar verilmesi gerekirken, yanılgılı değerlendirme sonucu yazılı şekilde hüküm kurulmuş olması doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz olup bu nedenlerle yerinde olan temyiz itirazlarının kabulü ile hükmün HUMK. nun 428.
 
 ## Yargıtay 1. HD 2012/14941 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242138800)
 
 Davacılar, kayden maliki bulundukları 11 parsel sayılı taşınmazdaki 19 nolu bağımsız bölümü, davalının, haklı ve geçerli bir nedeni olmaksızın kullandığını ileri sürerek, elatmanın önlenmesi ve ecrimisil isteğinde bulunmuşlardır.
 
@@ -219,6 +249,8 @@ Dava ve karşı dava elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olu
 Ancak, davada vekille temsil edilen taraf yönünden vekalet ücretinin yargılama sonucu haksız çıkan yana yükletilmek suretiyle ve haklı çıkan tarafa muzaf olarak hüküm kurulması gerekirken, asıl dava bakımından avukatlık parasının davacı vekilinden (karşı davalı vekilinden ) alınması biçiminde karar verilmiş olması doğru değil ise de, anılan bu yanlışlığın yargılamanın yeniden yapılmasını gerektirmediği anlaşıldığından, hüküm fıkrasının (3-b) nolu bendinde geçen "...davacı karşı davalı vekilinden " ibaresinin hüküm fıkrasından çıkartılmasına, yerine, " ...davacı karşı davalıdan " ibaresinin yazılmasına, davalı karşı davacı ... vekilinin bu yöne ilişkin temyiz itirazının kabulü ile 6100 sayılı HMK.'nun geçici 3.maddesi yollamasıyla 1086 sayılı HMK.'nun 436/2.(6100 sayılı HMK.370/2.md) maddesi gereğince hükmün bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 17. HD 2012/13698 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794697700)
 
 Dava, elatmanın önlenmesi ve ecrimisilin tahsili istemine ilişkindir.
 

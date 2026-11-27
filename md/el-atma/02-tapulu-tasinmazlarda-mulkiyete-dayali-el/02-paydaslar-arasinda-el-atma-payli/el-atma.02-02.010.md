@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2013/10695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79793800)
+
 Davacı, 275 ada 8 parsel sayılı taşınmazın maliki olduğunu, imar uygulaması neticesinde davalıya ait ev ve ağaçların taşınmazı içinde kaldığını, davalının taşınmazı duvarla çevirip kullanmasına engel olduğunu, davalının 3194 S.K.’nun 18. maddesinden kaynaklanan bir hakkı bulunmadığını ileri sürerek elatmanın önlenmesine ve yıkıma karar verilmesini istemiştir.
 
 Davalı, elatmanın önlenmesi ve yıkım taleplerinin kabulü için yapının rayiç bedelinin davacı tarafça depo edilmesi gerektiğini belirterek, rayiç bedelin mahkeme veznesine depo edilmesine, aksi takdirde davanın reddine karar verilmesini savunmuştur.
@@ -33,6 +35,8 @@ Davanın kabulüne ilişkin olarak verilen karar, Dairece" ...kısa kararda ve g
 Davacı vekilinin, temyiz itirazları açıklanan nedenlerden ötürü yerindedir. Kabulüyle; hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2013/9952 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/283718600)
 
 Dava, kamulaştırmasız el atmanın önlenmesi, kal ve eski hale getirme istemine ilişkindir.
 
@@ -49,6 +53,8 @@ Buna göre, paydaş olmayan bir idare taşınmaza el koyarsa her bir paydaş di�
 Davalılardan ... vekili ile davacının temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U....nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/9135 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79724800)
 
 Dava, paydaşlar arasında el atmanın önlenmesi ve yıkım isteklerine ilişkindir.
 
@@ -68,6 +74,8 @@ Davacıların temyiz itirazları belirtilen yönler itibariyle yerindedir. Kabul
 
 ## Yargıtay 1. HD 2013/7704 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79723100)
+
 Mahkemece,asıl davanın kısmen kabulüne;karşı dava yönünden ise usulünce açılmış bir dava olmadığı gerekçesiyle ,karar verilmesine yer olmadığına karar verilmiştir.
 
 Toplanan deliller ve tüm dosya içeriği ile; kayden davacının paydaşı bulunduğu 186 ada 35 sayılı parselin imar uygulaması sonucu oluştuğu, davalının binasını imardan sonra yaptığı, 3194 sayılı Yasa'nın 18. maddesinin uygulanma yeri bulunmadığı gözetilerek; asıl dava bakımından el atmanın önlenmesi ve yıkım isteklerinin kabul edilmiş olmasında bir isabetsizlik yoktur.Davalının öteki temyiz itirazları yerinde değildir.Reddine.
@@ -77,6 +85,8 @@ Toplanan deliller ve tüm dosya içeriği ile; kayden davacının paydaşı bulu
 Davalı (karşı davacının) temyiz itirazları değinilen yönden yerindedir. Kabulüyle, hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 3. HD 2013/7328 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257096400)
 
 Davacı vekili dava dilekçesinde; tarafların kardeş olduğunu, babalarından miras kalan taşınmazların, traktör ve diğer eşyaların paylaşımı konusunda anlaşamadıklarını, ortaklığın giderilmesi davası açıldığını, davalıların taşınmazları ekip, traktör ve diğer eşyaları kullandıklarını, herhangi bir bedel ödemediklerini belirterek parsel numarasını belirttikleri taşınmazların, traktörün yanı sıra römork, pulluk, kazayağı, tırmık, tohum makinesi ve mibzerin kullanımından kaynaklanan (fazlaya ilişkin hakları saklı olmak üzere) 10.000 TL ecrimisilin faizi ile birlikte davalılardan tahsiline karar verilmesini talep etmiştir.
 
@@ -93,6 +103,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 20. HD 2013/5218 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/533382700)
+
 Davacı ... Yönetimi 06.02.2009 günlü dilekçeyle, davalılar ..., ..., ... ve ... aleyhine, Beyciler Köyü 357 parsel sayılı 13000 m2 yüzölçümündeki taşınmazın kesinleşen orman kadastrosu sınırları içinde kaldığı, özel mülkiyete konu olamayacak yerlerden olduğunu iddiasıyla davalıların elatmasının önlenmesi ve bu taşınmaz üzerinde bulunan 4 adet beton temelin yıkılması istemi ile dava açmış, davalı ...
 
 …
@@ -100,6 +112,8 @@ Davacı ... Yönetimi 06.02.2009 günlü dilekçeyle, davalılar ..., ..., ... v
 Dairemiz kararı bu konulara cevap teşkil edecek nitelikte olduğu gibi, çekişmeli ...Köyü 357 sayılı parselin tapuda davalı gerçek kişiler adına kayıtlı olduğu, davalıların tapuya dayanarak çekişmeli parselde mülkiyet hakkının gereği olarak tasarruf yetkisine sahip oldukları, bu nedenle parselin tamamına yönelik açılan atmanın önlenmesi ve kal davalarında davalı sıfatının tüm paydaşlara ait olduğu zorunlu dava arkadaşlığı nedeniyle paydaşlardan birinin tek başına davayı kabul yetkisi bulunmadığı, bu nedenle paydaşlardan ...'ın kabulünün tek başına, dava ile ulaşılmak istenen hukuki sonucu doğurmayacağı açıktır. Her ne kadar …
 
 ## Yargıtay 1. HD 2013/4804 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79554500)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -112,6 +126,8 @@ Hal böyle olunca, tarafların çekişme konusu taşınmazda irsen paydaş olduk
 Davacılar vekilinin temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3. maddesi yollaması ile) 1086 sayılı HUMK'nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/4328 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79757100)
 
 Dava, paydaşlar arasındaki el atmanın önlenmesi ve eski hale getirme isteklerine ilişkindir.
 
@@ -128,6 +144,8 @@ Davacıların temyiz itirazının kabulü ile hükmün açıklanan nedenden öt�
 
 ## Yargıtay 1. HD 2013/4144 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79740200)
+
 Dava, elatmanın önlenmesi, eski hale getirme ve tazminat isteklerine ilişkindir.
 
 …
@@ -140,6 +158,8 @@ Davalı tarafın temyiz itirazı açıklanan nedenden ötürü yerindedir. Kabul
 
 ## Yargıtay 3. HD 2013/2452 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257922900)
+
 Dava; ecrimisil talebine ilişkindir.
 
 Ecrimisile konu taşınmazlarda taraflar paydaştır. Paydaşlar kural olarak intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçekleşmesi; ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazlardan ya da bu taşınmazların gelirinden yararlanma isteğini davalı paydaşa bildirilmiş olmasına bağlıdır. Ancak bu kuralın birtakım istisnaları vardır. Davacı paydaş tarafından daha önce diğer paydaşlar aleyhine dava konusu taşınmazlara ilişkin, el atmanın önlenmesi, ortaklığın giderilmesi, ecrimisil ve benzeri davalar açılmış olması halinde intifadan men koşulunun aranmasına gerek yoktur. Zira; sözü edilen davaların açılmış olması durumunda; o dava dilekçesinin davalı paydaşa tebliğ edildiği tarihten sonrası için intifadan men koşulu gerçekleşmiş sayılır.
@@ -150,6 +170,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 20. HD 2013/2209 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813047900)
+
 Hükmüne uyulan bozma kararında özetle; "Asliye Hukuk Mahkemesinde açılan elatmanın önlenmesi davasına konu olan taşınmazların hangi parseller olduğu, tesbit tutanağı düzenlenip düzenlenmediğinin belirlenmesi, malik haneleri açık ise tüm tutanaklar getirtilerek davaya birlikte bakılması, kabule göre de, taşınmazların davalının babası adına tapuda kayıtlı olduğuna, davalının babası muris ...’nın 1941 yılında öldüğüne ve terekesi iştirak halinde mülkiyet hükümlerine göre paydaşlara geçeceğine göre, paydaşlardan ...’nin yaptığı satışın geçersiz olduğu halde ... payının davacı adına tescile karar verilmesinin isabetsiz olduğu” gereğine değinilmiştir.
 Mahkemece, bozma kararına uyulduktan sonra müdahil Orman Yönetiminin davasının reddine, davacı ...’in kök muris ...’dan, ...’ye, kalan 1/4 hisseyi ölünceye kadar bakma akti ile kendisine kaldığını iddia ettiği parsellere yönelik elatmanın önlenmesinin reddine (25.08.1951 tarih 264 yevmiye no senet geçersiz kabul edildiğinden) 484 nolu parselin ... mirasçıları adına tesciline, 828, 829, 830, 847 ve 848 nolu parsellerin evvelce bütün iken 9 hisseye ayrıldığı, 3 hissesinin Aralık 1950 tarih 49 nolu tapu ile ...’e, 3 hissesinin Ağustos 1926 tarih 8 nolu tapu ile ...’e, 3 hissesinin Mayıs 1962 tarih 55 nolu tapu ile ...’a kayıtlı olup, ... ve ...’in hisselerine itiraz edilmediği, Ali oğlu ...’dan gelen 3/9 hissesinin dava edildiği anlaşıldığından tesbit tutanağının iptali ile 3/9 ...’dan gelen payın ... mirasçıları adına tesciline 1144, 1145, 1146, 1147 ve 1148 nolu parsellerin yukarıda bahsedilen tapu kaydı kapsamındaki yerlerden miktar fazlası olarak ayrıldığı, orman ve mera olmadığı, tarla niteliğinde olduğu anlaşıldığından Hazine adına tesciline şeklinde hüküm kurulmuş; Hazine ve Orman Yönetimi ile davcılardan ... tarafından hükmün temyiz edilmesi üzerine, Yargıtay 20.
 Hukuk Dairesinin 27/12/2005 gün ve 2005/12570 - 16493 sayılı kararı ile 484 sayılı parsel yönünden onanmış, diğer parseller yönünden bozulmuştur.
@@ -159,6 +181,8 @@ Hukuk Dairesinin 27/12/2005 gün ve 2005/12570 - 16493 sayılı kararı ile 484 
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince, uzman orman bilirkişi kurulu tarafından eski tarihli hava fotoğrafları ve memleket haritasına dayalı olarak yöntemine uygun biçimde yapılan inceleme ve araştırma sonucunda çekişmeli taşınmazların orman sayılan yerlerden olduğu anlaşıldığına ve yazılı biçimde hüküm kurulmasında bir isabetsizlik bulunmadığına göre, yerinde görülmeyen temyiz itirazlarının reddi ile usûl ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2013/2178 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/256158400)
 
 Davacılar, kayden paydaşı oldukları 4, 9, 10, 11, 17, 25, 30, 32, 53 ve 94 parsel sayılı taşınmazların tamamının davalı paydaş tarafından kullanıldığını, kendilerinin tasarrufuna davalının haksız bir şekilde engel olduğunu ileri sürerek, elatmanın önlenmesi isteğinde bulunmuşlardır.
 
@@ -176,6 +200,8 @@ Ne var ki, adı geçen parsellerde davalı da paydaş olduğundan davacıların 
 
 ## Yargıtay 1. HD 2013/1359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79336100)
+
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiştir.
@@ -192,6 +218,8 @@ Davalı tarafın açıklanan nedenden ötürü temyiz itirazları yerindedir. Ka
 
 ## Yargıtay 3. HD 2012/25700 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487084000)
+
 Davalı yargılamaya katılmamış, cevap dilekçesi vermemiştir.Mahkemece; davacının hissesine düşen ecrimisil alacağının davacıya ödendiğinin ispat yükünün davalıya ait olduğu, davalının bu ispatı yerine getiremediği, davacının davasını ispat ettiği gerekçe gösterilerek, bilirkişi raporu doğrultusunda davanın kabulüne karar verilmiştir.Hükmü, davalı vekili temyiz etmektedir.
 
 Ecrimisile konu edilen taşınmazlarda; taraflar paydaştır. Paydaşlar, kural olarak, intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler. İntifadan men koşulunun gerçeklemesi de; ecrimisil istenen süreden önce davacı paydaşın davaya konu taşınmazdan ya da gelirinden yararlanma isteğini davalı paydaşa bildirmiş olmasına bağlıdır.İntifadan men koşulunun gerçekleştiği iddiası, niteliğinde yemin dahil her türlü delille ispatlanabilir.
@@ -201,6 +229,8 @@ değerlendirmesi yapılmadan hesaplamanın hangi yıllar için neye göre, hangi
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2012/25495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484889500)
 
 Davacı vekili dilekçesi ile; müvekkilinin babasının vefatı ile dava konusu taşınmazların taraflara ve diğer mirasçılarına intikal ettiğini, davacının taşınmazlarda 1/4 hisssesinin bulunduğunu; davalının, 01.03.2008 tarihinden beri, davacıyı taşınmazlara yaklaştırmadığını, tek başına taşınmazlardan yararlandığını iddia ederek; müvekkilinin hissesine düşen 3 yıllık ecrimisil bedeli olarak, fazlaya ilişkin hak saklı kalmak üzere, şimdilik 15000 TL'nin faiziyle tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -213,11 +243,15 @@ Davalı, taşınmazların bir kısmını boş bırakarak, bu kısımdan davacın
 
 ## Yargıtay 3. HD 2012/24384 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/491019200)
+
 Ecrimisile konu taşınmazda taraflar paydaştır. Paydaşlar (Kurul olarak) intifadan men edilmedikçe birbirlerinden ecrimisil isteyemezler. Ne var ki, bu kuralın bir takım istisnaları da vardır. Ecrimisil istenen taşınmazın (Bağ, bahçe gibi) doğal ürün veren yerlerden olması veya (kiraya verilerek gelir elde edilen) hukuksal semere elde edilen bir yer olması durumunda ya da paylı taşınmazı işgal eden paydaşın bu yerin tamamında hak iddia ve diğerlerinin paydaşlığını inkar etmesi durumunda intifadan men olgusu aranmaz. Bunlardan başka, taraflar arasında, dava konusu taşınmazla ilgili el atmanın önlenmesi, ortaklığın giderilmesi ve redle sonuçlanan ecrimisil davalarının bulunması ve benzeri davaların bulunması durumunda da intifadan men şartının gerçekleştiğinin kabulü gerekir.
 
 Somut olayda, taraflar arasında taşınmazla ilgili izale-i şuyu davasının 10.09.2008 tarihinde açıldığı anlaşılmaktadır. Bu durumda, bu tarihten itibaren intifadan menle ilgili ihtara gerek bulunmamaktadır. Mahkemece, açıklanan hususta yanılgılı değerlendirme ile yazılı şekilde, davanın tümden reddine ilişkin hüküm kurulmuş olması doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 3. HD 2012/23513 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496903800)
 
 Mahkemece; davanın kısmen kabulüne karar verilmiş, hüküm davalı tarafından süresi içinde temyiz edilmiştir.Ecrimisile konu edilen taşınmazda taraflar paydaştır.
 
@@ -225,6 +259,8 @@ Paydaşlar kural olarak, intifadan men edilmedikçe birbirlerinden ecrimisil ist
 Dava konusu olayda yukarıda açıklanan doğrultuda, davalının dava tarihinden önce intifadan men edilip edilmediği hususunda taraf delilleri tümüyle toplanıp değerlendirilmeden eksik incelemeye dayalı hüküm kurulmuş olması doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/21579 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526043500)
 
 Dosyada yer alan bilgi ve belgelerden davacı adına kayıtlı 8638 Ada 1 Parsel sayılı taşınmazın öncesinin Hazine adına kayıtlı 587 Ada, 3 ve 4 Parsel olduğu, davaya konu edilen binanın Hazine adına kayıtlı 587 Ada, 3 Parselin içinde bulunduğu, bölgede yapılan imar uygulaması sonucu Hazine adına kayıtlı 587 Ada, 3 ve 4 Parsel sayılı taşınmazların bulunduğu yerde oluşturulan davaya konu 8638 Ada, 1 Parselin davacıya başka bir taşınmazdaki payına dayanılarak tahsis edildiği, sabit olan elatmanın imar uygulaması sonucu oluştuğu, binanın davacının taşınmazının zemininde kapladığı alanın 244 m² olduğu anlaşılmaktadır.3194 sayılı İmar Yasasının18.maddesi gereğince şuyulandırma öncesinde mevcut bulunan yapılar hakkında muhdesat bedeli ödenmeksizin men, kal ve ecrimisil istenemeyeceği tartışmasızdır. Ancak davacının, davalının davaya konu kapalı ahır olarak kullanılan yapı dışında parselin geri kalan kısımlarını da açık alan ve açık ahır olarak kullandığı, taşınmazın tamamına el attığı iddiasını ortaya attığı ve buna ilişkin fotoğrafları dosyaya sunduğu görülmektedir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 17. HD 2014/4050 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/365980900)
+
 Dava, taşınmaza el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 
 …
@@ -29,6 +31,8 @@ Dava, taşınmaza el atmanın önlenmesi ve ecrimisil istemine ilişkindir.
 Somut olayda, davacı ile davalı arasında aktedilmiş bir kira sözleşmesi bulunmamaktadır.Davalı taşınmazın eski maliki ile yaptığı 22.07.2010 tarihli kira sözleşmesi gereğince taşınmazda kiracı konumundadır. Taşınmazı eski malikinden 17.03.2011 tarihinde satın alan davacı, davalının taşınmaza el atmasının önlenmesini ve taşınmazı dilediği gibi kullanamadığı iddiasıyla bir miktar ecrimisil talep etmektedir. Herne kadar eski malik ile davalı arasında yapılan kira sözleşmesinde....mahkemelerinin yetkili olduğu kararlaştırılmış ise de dava tarihi itibariyle geçerli olan 6100 sayılı HMK'nın 12. maddesinin 1. fıkrasında "Taşınmaz üzerindeki ayni hakka ilişkin veya ayni hak sahipliğinde değişikliğe yol açabilecek davalar ile taşınmazın zilyetliğine yahut alıkoyma hakkına ilişkin davalarda, taşınmazın bulunduğu yer mahkemesi kesin yetkilidir", hükmüne yer verilmiştir. Bu düzenleme karşısında, uyuşmazlığın kesin yetkili taşınmazın bulunduğu ... Sulh Hukuk Mahkemsinde görülüp sonuçlandırılması gerekir.
 
 ## Yargıtay 1. HD 2014/61 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84048000)
 
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
@@ -39,6 +43,8 @@ Hal böyle olunca; davacının mülkiyet hakkına değer verilerek elatmanın ö
 Davacının, temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/15962 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254022300)
 
 Dava; çaplı taşınmaza elatmanın önlenmesi, karşı dava ise yapı bedeli, kira, kâr kaybından kaynaklanan zararın tazmini isteğine ilişkin olup mahkemece; asıl davada elatmanın önlenmesine ve karşı davada yapı bedeli bakımından taleple sınırlı olmak üzere davanın kabulüne, kira bedeli ve kâr mahrumiyeti bakımından ise davanın reddine karar verilmiş, hüküm taraflarca temyiz edilmiştir.
 
@@ -54,6 +60,8 @@ Tarafların bu yönlere değinen temyiz itirazları yerindedir. Kabulüyle hükm
 
 ## Yargıtay 1. HD 2013/13994 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79478400)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi ve ecrimisil isteklerine ilişkin olup, mahkemece, elatmanın önlenmesine yönelik davanın konusuz kalması nedeniyle karar verilmesine yer olmadığına, ecrisimil isteğinin ise reddine karar verilmiştir.
 
 …
@@ -66,6 +74,8 @@ Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zar
 Sonuç olarak değinilen bu husus karar düzeltme istemi üzerine bu kez yapılan inceleme ile anlaşıldığından, davacının bu yöne ilişkin karar düzeltme isteğinin HUMK’nun 440. maddesi gereğince kabulüne, dairenin 28.10.2010 tarih, 2010/8191 Esas, 2011/11169 Karar sayılı kararının Ortadan Kaldırılmasına, yerel mahkemenin 17.03.2009 tarih, 2007/259 Esas, 2009/93 Karar sayılı kararının açıklanan nedenle, (6100 sayılı Hukuk Muhakemeleri Kanununun geçici 3. maddesi aracılığıyla) 1086 sayılı HUMK.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 6. HD 2013/6402 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404750800)
 
 Dava, haksız fesih nedeniyle ugradığı menfi zarar ve kiralananda kalan malzeme bedelininin tahsili istemine ilişkindir.
 
@@ -82,6 +92,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 
 
 ## Yargıtay 14. HD 2013/3047 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645987600)
+
 Davacı vekili, davalı ... Belediyesi aleyhine açmış olduğu davada ... ili, ... ilçesi, ... Mahallesindeki, imarın 25337, 25337, 25331 ve 25332 adaları arasında bulunan çekişmeli yerin imar planında yeşil alan (park) olarak ayrıldığını, buna rağmen davalı Belediyenin bu taşınmaz üzerine kullanım amacına aykırı olarak 800 m2’lik kesime üç katlı kafeterya ve lokanta olarak işletilmek üzere betonarme ve karkas yapı inşa ettiğini belirterek müdahalenin men’ine ve yapıların kal’ine karar verilmesini talep etmiştir.
 
 Davalı vekili davanın idari yargı yerinde çözümlenmesi gerektiği nedeniyle görev yönünden, davacının aktif dava ehliyeti olmadığını ayrıca yapılan işlemlerde mevzuata herhangi bir aykırılık bulunmadığını savunarak esastan da davanın reddine karar verilmesini istemiştir.
@@ -97,6 +109,8 @@ Ayrıca birleştirilen 2012/33E., 2012/35E., 2012/36E. ve 2012/43E. sayılı dos
 SONUÇ: Yukarıda yazılı nedenlerle birleşen dosyaların davacıları vekili ve davalı ... Belediyesi vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/13479 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79407200)
 
 Dava, elatmanın önlenmesi ve alacak isteğine ilişkindir.
 
@@ -116,6 +130,8 @@ Davalının, bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmü
 
 ## Yargıtay 14. HD 2012/11000 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/758929100)
+
 Davacı, 4492 ada 6 parsel sayılı taşınmazın maliki olduğunu, davalı ...’ün ise aynı ada 11 ve 12 parsel sayılı taşınmazların maliki olduğunu, davalının boş olan 11 parsel sayılı taşınmazını ...ye GSM baz istasyonu kurulması için kiraya verdiğini, baz istasyonun sağlığa zarar verdiğini, taşınmazının değerini düşürdüğünü ve görüntü kirliliğine yol açtığını ileri sürerek kaldırılmasını istemiştir.
 
 Davalı ..., taşınmazını kiraya verdiğinden husumetin kendisine düşmeyeceğini, ayrıca baz istasyonunun yönetmelikte belirlenen değerlere uygun şekilde kurulup işletilmekte olduğunu savunarak davanın reddini istemiştir.
@@ -129,6 +145,8 @@ Dava konusu baz istasyonunun davalının, ... Telekomünikasyon A.Ş. ile yaptı
 SONUÇ: Yukarıda yazılı nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2012/7034 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543558300)
 
 Davacı, intifa hakkı sahibi oldukları 1928 ve 1929 parsel sayılı taşınmazlardaki bu haklarını davalı bayileri aracılığı ile kullandıklarını, ancak sözleşmeye aykırılık nedeniyle bayilik ilişkisinin sona erdirilmesine rağmen davalının taşınmaza elatmasının devam ettiğini ileri sürerek intifa hakkına konu taşınmaza elatmanın önlenmesi ve 15.000 lira ecrimisil talep etmiştir.
 
@@ -144,9 +162,13 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/4800 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/923208700)
+
 Mahkeme kararındaki nitelendirmeye göre davacı, tarafından çekişmeli taşınmazın vekil aracılığı ile vekalet görevi kötüye kullanılarak diğer davalıya kiraya verildiği, kira sözleşmesinin Borçlar Kanunu 19.ve 20.maddeleri gereğince feshi gerektiği ileri sürülerek fuzuli işgal nedeniyle davalının taşınmazdan tahliyesi suretiyle elatmanın önlenmesi ve ecrimisil isteklerinde bulunulduğu, vekil eliyle gerçekleştirilen temliki tasarruflara yönelik olarak vekaletin hile ile alındığı ve kötüye kullanıldığı iddiası ile açılan tapu iptali ve tescil davaları (BK.386. vd.maddelerinden kaynaklanan davalar) sonucu verilen hüküm ve kararlar Dairemizin görev alanına girdiği, eldeki davada vekalet görevinin kötüye kullanılması suretiyle her hangi bir temlikte bulunulmadığı, diğer taraftan elatmanın önlenmesi isteği yönünden de uyuşmazlığın sözü edilen kira sözleşmesinin geçerli olup olmadığı noktasında toplandığı anlaşılmaktadır.
 
 ## Yargıtay 1. HD 2011/9251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78712000)
 
 Davacı, Atatürk Orman Çiftliği adına kayıtlı 676 parselde kayıtlı taşınmazın 78 m2'lik kısmına davalıların elatarak işgal ettiklerini ileri sürerek, elatmanın önlenmesi ve ecrimisile karar verilmesini istemiş, yargılama sırasında ecrimisil isteği yönünden dava dilekçesini ıslah etmiştir.
 
@@ -167,6 +189,8 @@ Davalı şirket vekilinin temyiz itirazları belirtilen sebeplerle yerindedir. K
 
 ## Yargıtay 1. HD 2011/7269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918399900)
+
 Davacı, ... adına kayıtlı 9370 ada 1 parsel sayılı taşınmaza, davalının haklı ve geçerli bir nedene dayanmaksızın bina yapmak ve ağaç dikmek suretiyle haksız müdahale ettiğini ileri sürerek, elatmanın önlenmesi, yıkım ve ecrimisile karar verilmesini istemiştir.
 
 Davalı, 4916 Sayılı Yasa uyarınca müracaatı bulunduğunu belirterek davanın reddini savunmuştur.
@@ -183,6 +207,8 @@ Hal böyle olunca, taraflar arasındaki çekişmenin halen geçerliliğini koruy
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davalının temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2011/1216 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78780500)
 
 Davacı, 24.9.2007 tarihinde satın alarak kayden maliki olduğu 8979 ada 11 parsel zemin kat 8 bağımsız bölüm nolu depolu dükkana davalının kullanmak suretiyle müdahale ettiğini ileri sürüp, elatmanın önlenmesi ve ecrimisil isteklerinde bulunmuştur.
 
@@ -204,6 +230,8 @@ Davalının, bu yönlere ilişkin temyiz itirazları yerindedir. Kabulü ile, h�
 
 ## Yargıtay 1. HD 2011/284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78653500)
+
 Davacı, kayden malik olduğu 4 parsel sayılı taşınmazın 12 m2'lik bölümünün davalıya kiraya verildiğini, davalının kiralanan yer haricindeki bir kısım yere muhtesatlar yapmak ve tel örgü ile çevirmek suretiyle müdahale ettiğini ileri sürerek, elatmanın önlenmesi ve yıkım isteğinde bulunmuştur.
 
 Davalı, davanın reddini savunmuştur.
@@ -224,12 +252,16 @@ Davacının temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan neden
 
 ## Yargıtay 3. HD 2010/21793 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978695400)
+
 Nitekim bozma ilamında "işgale konu bilirkişiler raporunda, A-B-C ile belirlenen yerlerin (davalı tarafa ait otel restoranla birlikte) kiralamadan önce var olup olmadığı dolayısıyla önceden işgalli haliyle şirkete kiralanıp kiralanmadığı yada kira sözleşmesinden sonra dava dışı kiracı şirket tarafından işgalin oluşturulup oluşturulmadığı araştırılmamıştır" denilmesine ve davalılar vekilinin yazılı beyanları, taraf tanıklarının anlatımları ve ayrıca önceki dönemlerde kesinleşen (aynı yere ilişkin) men'i müdahale-ecrimisil kararları ile 3.şahıslarla (şirketlerle) yapılan kira sözleşmelerine göre, davalıların pay sahibi olduğu otel-restoran olarak işletilen tapuda "Bahçeli Ahşap Hane" niteliğindeki taşınmazın tüm malikleri tarafından çok uzun süredir kiracı değiştirerek ve kiraya verilerek kallanıldığı, tapulu taşınmaz önündeki ecrimisile konu yerlerin kiracılar tarafından işgal edilegeldiği, bu işgalli hali ile yeni kiralamalar yapıldığı, en son (işgalden arındırılmadan) dava dışı ... Turizm San. Ve Tic.Ltd.Şirketine kiraya verildiği böylece kiraya veren tüm taşınmaz maliklerinin ecrimisilden müteselsilen sorumlu olduğu gözetilmemiştir.
 Ayrıca fiilen işgalci konumundaki dava dışı şirketlerin ecrimisille yükümlü olmalarının davalıların sorumluluğunu da ortadan kaldırmadığı değerlendirilmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 1. HD 2010/10377 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78606400)
 
 Davacı, kayden paydaşı olduğu 4 nolu bağımsız bölümü davalının haksız kullandığını ileri sürüp elatmanın önlenmesine ve 1.200,00.-YTL ecrimisilin tahsiline karar verilmesini istemiştir.
 
@@ -249,11 +281,15 @@ Davalının, temyiz itirazları yerindedir. Kabulü ile hükmün açılanan nede
 
 ## Yargıtay 17. HD 2010/7780 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/793187700)
+
 Kadastro Mahkemesi de; kadastro tespitine itiraz ile meni müdahale davasını bu davadan tefrik ederek, meni müdahale istemi ile ilgili olarak 3402 Sayılı Kadastro Kanununun 25. maddesi uyarınca bu tür davalara genel mahkemelerde bakılması gerektiği gerekçesiyle görevsizlik yönünde hüküm kurmuştur …
 
 Kadastro Mahkemesince satışın kira sözleşmesi içerikli olduğu gerekçesi ile,Kadastro Kanununun 25. maddesine dayanılarak görevsizlik kararı verilmiş ise de, kadastro tutanağı düzenlenen taşınmazların aynına ilişkin olarak taşınmazlar hakkındaki satışların geçersiz olduğu iddiası ile açılan meni müdahale davası olup, anılan Yasanın 25 ve 27. maddeleri uyarınca Kadastro Mahkemesinde bakılması gerekir.
 
 ## Yargıtay 1. HD 2010/5344 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78547100)
 
 Davacı, kayden maliki olduğu 197 ada 3 parsel zemin kat 1 bağımsız bölüm nolu dükkanına davalının kırtasiye olarak işletmek suretiyle müdahale ettiğini ileri sürüp elatmanın önlenmesi ve ecrimisil isteklerinde bulunmuştur.
 
@@ -272,6 +308,8 @@ Somut olay bu açıdan değerlendirildiğinde, elatmanın önlenmesi ve ecrimisi
 Davacının temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan nedenlerden ötürü HUMK.nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/3635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643515000)
 
 Davacı dava dışı Gençlik ve Spor Vakfı ile yapılan 30.07.2004 ve 15.4.2005 tarihli kira sözleşmelerine dayanarak davalının kiralanan alanı haksız işgal ettiğini müdahalesinin menini, haksız işgal nedeni ile şimdilik 2000 TL tazminatın davalıdan tahsiline karar verilmesini istemiştir.
 

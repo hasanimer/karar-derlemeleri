@@ -20,12 +20,18 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2017/13652 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/383339600)
+
 4721 sayılı Türk Medeni Kanununun “olağan zamanaşımı” başlıklı 712. maddesinde "Geçerli bir hukukî sebep olmaksızın tapu kütüğüne malik olarak yazılan kişi, taşınmaz üzerindeki zilyetliğini davasız ve aralıksız olarak on yıl süreyle ve iyiniyetle sürdürürse, onun bu yolla kazanmış olduğu mülkiyet hakkına itiraz edilemez" hükmü düzenlenmiştir.
 
 ## Yargıtay 1. HD 2013/12538 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79529900)
+
 4721 sayılı Türk Medeni Kanununun olağan zamanaşımı başlıklı 712. maddesinde "Geçerli bir hukukî sebep olmaksızın tapu kütüğüne malik olarak yazılan kişi, taşınmaz üzerindeki zilyetliğini davasız ve aralıksız olarak on yıl süreyle ve iyiniyetle sürdürürse, onun bu yolla kazanmış olduğu mülkiyet hakkına itiraz edilemez" hükmü dercedilmiştir. Bu madde uyarınca bir taşınmazın olağan zamanaşımı ile kazanılması için kişinin iyiniyetli olması gerekir. Oysa eldeki davada davalı H... G... , önceki malik S... Ç...'in kardeşi olduğundan durumu bilen ya da bilmesi gereken kişi konumunda olup iyiniyetli sayılması mümkün değildir.
 
 ## Antalya BAM 11. HD 2025/734 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176709200)
 
 Olağan zamanaşımı ile hak elde edilmesi yönünden; 4721 sayılı Türk Medeni Kanunun 712. maddesi gereğince; geçerli bir hukukî sebep olmaksızın tapu kütüğüne malik olarak yazılan kişi, taşınmaz üzerindeki zilyetliğini davasız ve aralıksız olarak on yıl süreyle ve iyiniyetle sürdürürse, onun bu yolla kazanmış olduğu mülkiyet hakkına itiraz edilemeyecek olması, davalı aleyhine açılan davalar ile davasız zilyetlik şartları oluşmadığından üst hakkının bu yolla kazanılamayacağı sonucuna varılmıştır.

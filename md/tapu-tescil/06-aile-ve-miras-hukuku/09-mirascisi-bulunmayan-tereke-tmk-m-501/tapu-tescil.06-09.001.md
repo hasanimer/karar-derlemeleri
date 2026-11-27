@@ -20,12 +20,18 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2025/184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1124490600)
+
 Bilindiği üzere; mutasarrıf iken malik olan kişilerin mirasçı bırakmadan ölmeleri üzerine taşınmazları 4721 sayılı Türk Medeni Kanunu'nun (TMK) 501. (eski Medeni Kanun'un 448.) maddesi uyarınca son mirasçı sıfatıyla Hazineye kalır. Ancak yasa koyucu, öncesi vakıf olan taşınmazların vakfına (aslına) dönmesini daha uygun görmüş, bazı ayrıcalıklar dışında Hazineye intikal yolunu kapatmak istemiştir. İşte bu nedenle 22.09.1983 tarihli 2888 sayılı Yasa'nın 2. maddesiyle 2762 sayılı Yasa'nın 29. maddesini değiştirip ayrıca ikinci bir fıkra ekleyerek TMK'nın 501. maddesindeki Hazinenin mirasçı olacağı yönündeki genel hükmünden ayrılmış, "mülkiyeti mutasarrıfa geçmiş olan taşınmazlarda maliklerin bu Yasa'nın yürürlük tarihine kadar ölmeleri üzerine son mirasçı sıfatıyla Hazineye intikal edip de tapu kaydına bağlanmış bulunanlar ayrık bırakılarak işlenmemiş olan taşınmazların mahlulen vakfına rücu edeceği" kuralını getirmiştir. Yukarıda belirtilen Yasa hükümleri birlikte değerlendirildiğinde, 2888 sayılı Yasa'nın yürürlük tarihi olan 24.09.1983 tarihinden sonra aslı vakıf olan taşınmazların Hazineye geçmesine yasal olanağın kalmadığı sonucuna ulaşılmaktadır.
 
 ## Yargıtay 1. HD 2024/941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053734300)
+
 Bilindiği üzere; mutasarrıf iken malik olan kişilerin mirasçı bırakmadan ölmeleri üzerine taşınmazları 4721 sayılı Türk Medeni Kanunu'nun (TMK) 501 inci (eski Medeni Kanun'un 448 inci) maddesi uyarınca son mirasçı sıfatıyla Hazineye kalır. Ancak, yasa koyucu öncesi vakıf olan taşınmazların vakfına (aslına) dönmesini daha uygun görmüş, bazı ayrıcalıklar dışında Hazine'ye intikal yolunu kapatmak istemiştir. İşte bu nedenle 22.09.1983 tarihli 2888 sayılı Yasa'nın 2 nci maddesiyle 2762 sayılı Yasa'nın 29 uncu maddesini değiştirip ayrıca ikinci bir fıkra ekleyerek TMK'nın 501 inci maddesindeki Hazine'nin mirasçı olacağı yönündeki genel hükmünden ayrılmış, "mülkiyeti mutasarrıfa geçmiş olan taşınmazlarda maliklerin bu yasanın yürürlük tarihine kadar ölmeleri üzerine son mirasçı sıfatıyla Hazine'ye intikal edip de bu husus tapu kaydına bağlanmış bulunanlar ayrık bırakılarak işlenmemiş olan taşınmazların mahlulen vakfına rücu edeceği" kuralını getirmiştir. Yukarıda belirtilen Yasa hükümleri birlikte değerlendirildiğinde, 2888 sayılı Yasa'nın yürürlük tarihi olan 24.09.1983 tarihinden sonra aslı vakıf olan taşınmazların Hazine'ye geçmesine yasal olanağın kalmadığı sonucuna ulaşılmaktadır.
 
 ## Yargıtay 7. HD 2022/2243 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784442100)
 
 Ayrıca, 4721 sayılı Türk Medeni Kanununun 501. maddesine göre, mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer. Aynı Kanunun 588. maddesi gereğince; sağ olup olmadığı bilinmeyen bir kimsenin malvarlığının veya ona düşen miras payının on yıl resmen yönetilirse ya da malvarlığı böyle yönetilenin yüz yaşını dolduracağı süre geçerse, Hazinenin istemi üzerine o kimsenin gaipliğine karar verileceği ve gaiplik kararı verilebilmesi için gerekli ilân süresinde hiçbir hak sahibi ortaya çıkmazsa, aksine hüküm bulunmadıkça, gaibin mirasının Devlete geçeceği düzenlenmiş olup, Devletin bu şekilde hak sahibi olması Kadastro Kanunu 18. madde kapsamında kanunlar uyarınca Devlete kalan taşınmaz mal kapsamındadır.

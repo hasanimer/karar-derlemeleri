@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2024/412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1077208100)
+
 Davacı vekili dava dilekçesinde; müvekkili adına kayıtlı 9181 ada 6 sayılı parselde ruhsatlı, imara ve kat mülkiyetine uygun vaziyette inşaat yapılması için müvekkili ile davalı yüklenici ...'in 27.05.1996 tarihli arsa payı karşılığı inşaat sözleşmesi düzenlediğini, aynı şekilde komşu 7 ve 8 sayılı parsel malikleri ... ve ... ile de davalı ... ve dava dışı ... arasında arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, ancak yüklenicilerin her üç parseli de kapsar şekilde taşınmazlar üzerinde sözleşmeye ve belediye imar planına aykırı biçimde ruhsatsız ve kaçak olarak bina inşa ettiklerini, müvekkilinin inşaatın kaçak yapıldığını öğrenince belediyeye başvurduğunu, belediye tarafından inşaatın mühürlendiğini, para cezası ve yıkım kararı verildiğini, ancak yıkım kararının uygulanmadığını, bunun üzerine müvekkilinin yüklenici aleyhine Şişli 5.
 
 …
@@ -33,6 +35,8 @@ Asliye Hukuk Mahkemesinin 29.02.2000 tarihli ve 1998/334 Esas, 2000/190 Karar sa
 Asıl davada davalılar ..., . birleşen İstanbul 18. Asliye Hukuk Mahkemesinin 2016/348 Esas sayılı dosyasında davalılar ..., ..., ölü davalı ... mirasçılarından ..., asıl davada ölü davalı ... mirasçıları dâhili davalılar ..., ..., ..., ... vekili, birleşen İstanbul 18. Asliye Hukuk Mahkemesinin 2016/348 Esas sayılı dosyasında davalı ... vekili, asıl davada davalı ... vekili, asıl davada ölü davalı ... mirasçısı dâhili davalı ...'in temyiz itirazlarının reddi ile direnme kararının ONANMASINA …
 
 ## Yargıtay HGK 2013/421 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/45610500)
 
 Dava, elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -108,6 +112,8 @@ Yukarıda (2) numaralı bentte açıklanan nedenlerle, bir kısım davalılar ve
 
 ## Yargıtay 7. HD 2024/3143 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053752900)
+
 Davacı vekili; müvekkillerinin murisinin paydaşı olduğu dükkanın davalı tarafından işgal edildiğini belirterek elatmanın önlenmesi ve ecrimisil talep etmiştir.
 
 …
@@ -124,6 +130,8 @@ getirmediğinden yaptığı satış işlemlerinin geçerli olmadığı bu nedenl
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/1347 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1032880400)
 
 Davacı vekili; davacı ... ile müteahhit dava dışı ... arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşme doğrultusunda 4 adet taşınmazı davacı üzerine tapuda devredildiğini, davacının üzerine kayıtlı dairelerin müteahhit ... tarafından davacının bilgisi ve rızası olmadan 3 üncü kişilere satıldığını, satış bedellerinin ise yine ... tarafından alındığını, ...'ın dava konusu taşınmazların toprak sahibinin Almanya'da olduğu ve Türkiye'ye döndüğünde kendilerine dairelerin tapularının verileceğini vaadettiğini, davaya konu taşınmazlardan 11 numaralı dairenin davalı tarafından işgal edilmekte olduğunu, davacı tarafından müteahhit ...'a yalnızca inşaatın tapu işlemlerinde kullanılmak üzere yetki verildiğini ancak dava konusu taşınmazın satılması ya da kiraya verilmesi konusunda hiçbir yetkilendirdirme yapılmadığını ileri sürerek müdahalenin men’ine ve taşınmazın tahliyesine, şimdilik 1.000,00 TL ecrimisilin haksız işgal tarihinden itibaren geçerli olmak üzere işleyecek yasal faizi ile davalıdan tahsili ile davacıya ödenmesine karar verilmesini istemiştir.
 
@@ -142,6 +150,8 @@ verilmiş olmasının dosya kapsamına uygun olmadığından kararın kaldırıl
 davalı vekilinin yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2024/914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059093900)
 
 Mahkemece, ilk bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın reddine, karşı davanın kısmen kabulüne karar verilmişse de yapılan temyiz ve karar düzeltme incelemesi neticesinde, Yargıtay (Kapatılan) 15. Hukuk Dairesi'nce Mahkeme kararının bozulmasına karar verilmiştir.
 
@@ -162,6 +172,8 @@ Asıl davada davacı arsa sahibinin dava konusu bağımsız bölümün kayıt ma
 Bozmaya uyularak yargılama sonunda mahkemece; asıl davanın reddine …
 
 ## Yargıtay 7. HD 2023/4864 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980498600)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; el atmanın önlenmesi talebinin kabulüne, ecrimisil talebinin reddine karar verilmiştir.
 
@@ -187,6 +199,8 @@ Açıklanan sebeplerle taraf vekillerinin yerinde görülmeyen tüm temyiz itira
 
 ## Yargıtay 6. HD 2023/2309 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936219100)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -203,6 +217,8 @@ Yukarıda 1. bentte açıklanan nedenlerle temyiz eden asıl ve birleşen davada
 
 ## Yargıtay 6. HD 2022/5266 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848750400)
+
 Davalı vekili, cevap dilekçesinde özetle; nam’a ifa davasının derdest olduğunu, ayrıca davaya ilişkin kesin hüküm bulunduğunu belirterek davanın reddini istemiştir.
 
 İlk derece mahkemesince, davacıların nama ifa yönündeki taleplerinin Ankara 15.
@@ -216,6 +232,8 @@ Nama ifa; eseri sözleşmede belirlenen sürede eksiksiz ve kusursuz olarak tesl
 SONUÇ: Yukarıda açıklanan nedenlerle, Ankara Bölge Adliye Mahkemesi 31. Hukuk Dairesinin istinaf başvurusunun esastan reddine dair kararı kaldırılarak …
 
 ## Yargıtay 6. HD 2022/1108 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740737400)
 
 Dava, davacı arsa sahipleri tarafından açılan arsa payı karşılığı inşaat sözleşmesinin feshine ve yapılan inşaatın yıkılmasına, davalı tarafa ait tapu kayıtlarının iptali ile kira tazminatı talebine ilişkindir.
 
@@ -237,6 +255,8 @@ Bu amaçla, Şişli Belediye Başkanlığından, dosya kapsamına sunulan tadila
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacılar vekilinin tüm temyiz itirazlarının reddine, 2. bent kapsamında ... vekilinin temyiz itirazlarının kabulüne, 3. bent kapsamı ile temyiz eden davalılar ..., ..., ..., ... İnş Turizm Taş. Gıda Ot. San. Tic. Ltd. Şti., ..., ..., ...’in temyiz itirazlarının kabulü ile hükmün temyiz eden davalılar lehine BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/12920 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/725266500)
 
 Davalı vekili; vekil edeninin çekişme konusu taşınmazı dava dışı müteahhitten satın aldığını bildirerek, davanın reddini savunmmuştur.
 

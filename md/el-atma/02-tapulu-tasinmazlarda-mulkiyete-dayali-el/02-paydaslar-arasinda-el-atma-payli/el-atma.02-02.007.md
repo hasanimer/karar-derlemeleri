@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2019/5314 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537972500)
+
 Dava, elatmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
 Davacı vekili, davalı 2351 parsel sayılı taşınmazda ... Petrolcülük A.Ş. lehine 08.04.2015 tarihli 15 yıl süreli intifa hakkı bulunduğunu, ... Petrolcülük A.Ş. ile diğer davalı ...
@@ -44,6 +46,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 5. HD 2019/4540 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514660900)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 …
@@ -63,6 +67,8 @@ Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan
 
 ## Yargıtay 8. HD 2019/4143 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503871100)
+
 Davacı-karşı davalı ... vekili, davacının 15/16 hisse ile malik olduğu 498 ada 62 parsel sayılı taşınmazın toplam 466,69 m2 bölümüne davalıların tecavüzü olduğunu, davalıların bağımsız villalarından oluşan Köşkevler Sitesinin davacıya ait taşınmazı işgal ettiğini, davalılara 15/04/2011 tarihinde el atmanın önlenmesi için ihtarname gönderildiğini belirterek, davalıların davacıya ait taşınmaza el atmasının önlenmesini ve müdahaleli kısmın kal'ini talep etmiş, davacı-karşı davalının aynı taşınmaza ilişkin .... aleyhine aynı taleple açtığı dava İstanbul 6. Asliye Hukuk Mahkemesi 2012/271 Esas sayısına kaydedilerek mahkemenin temyize konu dosyası ile birleştirilmiştir.
 
 Davalı-karşı davacılar ..., ..., ADM Gayrimenkul Tic. Ltd.
@@ -79,6 +85,8 @@ SONUÇ: Açıklanan nedenlerle, davacı-karşı davalı ... vekilinin ve davalı
 
 ## Yargıtay 5. HD 2019/2389 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484828300)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece davanın kabülüne karar verilmiş, hüküm davalı idare vekilince temyiz edilmiştir.
@@ -93,6 +101,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olmadığından usul ve yasay
 
 ## Yargıtay 15. HD 2019/1843 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/582255100)
+
 Dosyadaki tapu kaydı ve kat karşılığı inşaat sözleşmesine göre dava konusu taşınmazın tamamı davacı adına kayıtlı iken 17.10.2002 gün, 9759 yevmiye nolu işlemle 2/8 payını davalı ...’a tapudan devrettiği ve bu davalının taşınmazda pay sahibi olduğu anlaşılmaktadır. Yapılan keşif, alınan bilirkişi raporu ve ilgili belediye yazılan yazılara verilen cevaplara göre dava konusu taşınmaz üzerinde yapılan inşaat ruhsatsız ve imara aykırı olup yasal hale getirilmesi de mümkün değildir. Bu haliyle sözleşmedeki paylaşım oranına göre imara aykırı ve kaçak olup olup yasal hale getirilmesi mümkün bulunmayan bağımsız bölüm yada bölümlerin paydaşlardan birisine aidiyetine karar verilerek diğer paydaşın elatmasının önlenmesine karar verilmesi mümkün değildir. Davacının cevaba cevap dilekçesi ve bu dilekçeye ekli ihtarnamesinden davalılar ve dava dışı ...’a tapuda pay devri yapanın davacı olduğu anlaşılmaktadır.
 
 Bu halde mahkemece davacı ve davalı ...’ın dava konusu taşınmazda paylı mülkiyet şeklinde malik oldukları, üzerinde yapılan inşaatın imara aykırı, kaçak ve yasa dışı olup yasal hale getirilmesinin mümkün olmadığı, fiilen mevcut bağımsız bölümlerden birisine elatmanın önlenmesine karar verilmesinin, imara aykırı ve kaçak yapıya yasallık tanınması anlamına gelebileceğinden, davanın paydaşlar arasında elatmanın önlenmesi niteliğinde olduğu kabul edilip gerekirse davacının intifadan men edilip edilmediği de belirlendikten sonra davanın sonuçlandırılması gerekirken Bölge Adliye Mahkemesi’nce yanlış değerlendirme sonucu ecrimisil kararı kaldırılmakla birlikte men’i müdahaleye karar verilmesi doğru olmamış, hükmün bu nedenle bozulması gerekmiştir.
@@ -100,6 +110,8 @@ Bu halde mahkemece davacı ve davalı ...’ın dava konusu taşınmazda paylı 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının tüm, davalı ...’ın sair temyiz itirazlarının reddine, 2. bent uyarınca temyiz itirazlarının kabulüyle hükmün davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/18079 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473514400)
 
 Davacılar vekili, dava konusu 699, 1473, 1602 ve 1613 parsel sayılı taşınmazların davacılar ve davalılara murislerinden kaldığını, taşınmazları davalıların kullandığını, davacılara herhangi bir pay verilmediğini, sadece davalılardan ...... tarafından davacı ...’e kendi kullandığı ...... için 2012 yılında 5.000 TL ödeme yapıldığını belirterek 699 parsel için 18.12.2008 tarihi ile dava tarihi arasında, diğer taşınmazlar için ise taşınmazlardan kullanma isteğinin bildirildiği 31.05.2009 tarihi ile dava tarihi arasında işleyen, (fazlaya ilişkin hakları saklı kalmak kaydıyla) davacı ...’nın miras payına düşen 1.000,00 TL, davacı ...’in miras payına düşen 1.000,00 TL ecrimisil bedelinin davalı ...’a ödenen 5.000,00 TL gözetilerek davalıların taşınmazlardaki kullanım alanlarına göre tahsiline karar verilmesini talep etmiştir.
 
@@ -120,6 +132,8 @@ SONUÇ: Taraf vekillerinin temyiz itirazlarının yukarıda (2) nolu bentte yaz�
 
 ## Yargıtay 8. HD 2018/17790 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471435200)
+
 Davacı, paydaşı olduğu 606 ...... sayılı taşınmazına sınırlarını belli etmek amacıyla çaktırdığı kazıkların davalı tarafından söküldüğünü ileri sürerek elatmasının önlenmesine karar verilmesini istemiştir.
 
 Davalı, taşınmaza müdahalesinin olmadığını belirterek davanın reddini savunmuştur.
@@ -135,6 +149,8 @@ Dava, çaplı taşınmaza elatmanın önlenmesi isteğine ilişkindir.
 SONUÇ: Temyiz olunan kararın 1. paragrafında bulunan "Davanın kabulü ile; ... ili ...... 606 nolu ......e davalı tarafından yapılan elatmanın önlenmesi" şeklindeki ibarenin metinden çıkarılarak yerine "Davanın kabulü ile; ... ili ...... 139 ada 10 ...... sayılı taşınmazda fen bilirkişisinin 16.02.2015 günlü raporuna ek krokide sarı renkle boyalı 30m² alana davalının elatmasının önlenmesine" ibaresinin eklenmesine, davalı tarafın temyizi üzerine resen yapılan inceleme sonucunda 6100 sayılı HMK'nin geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 438/7. maddesi uyarınca hükmün bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 8. HD 2018/11454 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/420919800)
 
 Davacı, dava konusu 143 ada, 44 parsel sayılı taşınmazda davalı ile paydaş olduklarını, paylı mülkiyete tabi taşınmazda kullandığı yer bulunmadığını, davalının kullanımına engel olduğunu, diğer paydaşların da olurunu almadan inşaat yaptığını ileri sürerek, paya vaki elatmanın önlenmesine ve muvafakatleri olmadan yapılan inşaatın yıkımına karar verilmesini istemiştir.
 
@@ -158,6 +174,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 14. HD 2018/7860 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472717600)
+
 Dava, komşuluk hukukundan kaynaklanan elatmanın önlenmesi, kal ve tazminat istemine ilişkindir.
 
 Davacı vekili, müvekkiline ait 124 ada 6 parsel sayılı taşınmaz ile davalılara ait 13 ve 5 parsel sayılı taşınmazlar arasında kadimden beri bulunmakta olan derenin davalılar tarafından tahrip edildiğini, davalıların akan suyun yönünü dere yatağına taş doldurmak suretiyle değiştirdiklerini, bu nedenle müvekkiline ait taşınmazın zarar gördüğünü ileri sürerek davalıların müdahalesinin önlenmesini ve müvekkiline ait taşınmazda oluşan zararın davalılardan tazminini talep etmiş; 08.05.2015 tarihli dilekçesi ile de tazminat miktarını 1.345,79TL olarak ıslah ettiklerini bildirmiştir.
@@ -176,10 +194,14 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalıların temyiz itirazlarının ka
 
 ## Yargıtay 16. HD 2018/5909 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467913000)
+
 Dava; 3402 sayılı ... Kanunu‘nun 22/a maddesi gereğince yapılan uygulama kadastrosuna itiraza ilişkindir. Bu tür davalarda, tüm paydaşların birlikte dava açmaları yahut da biri veya birkaçı tarafından açılan davaya diğer paydaşların katılımının sağlanması gerekir. Somut olayda; davacı ..., uygulama kadastrosu sırasında 149 ada 18 parsel sayılı taşınmazın yüzölçümünün eksildiği iddiasıyla dava açmıştır. Ne var ki, 149 ada 18 parsel sayılı taşınmazda davacı ... dışında, ...ve ... ...‘in de müştereken malik oldukları anlaşılmaktadır. Mahkemece, davacı tarafa ait 149 ada 18 parsel sayılı taşınmazın davacı dışındaki diğer paydaşlarının yöntemince davaya katılımları sağlanmadan eksik taraf teşkili ile işin esasına girilerek hüküm kurulması isabetsizdir.
 Ayrıca, mahkemece kısa kararda, 3402 sayılı Yasa’nın 22/A maddesi gereğince yapılan çalışmalara itiraza yönelen davanın davalılar ..., ...ve ... yönünden kabulüne ve yine elatmaya yönelen davanın kabulüne karar verilmiş, hüküm sonucu kısa kararda açıklanmayıp gerekçeli kararın hüküm kısmında bilirkişiler ... ...ve ... ... tarafından düzenlenen 10.07.2014 tarihli rapor ekindeki krokide (A) harfi ile gösterilen 56,30 metrekarelik kısmın tapusunun iptali ile 149 ada 18 parsel sayılı taşınmaza ilaveten tesciline, güncelleme çalışmalarının bu şekilde düzeltilmesine, davalılardan ...’nin (A) harfi ile gösterilen 56,30 metrekarelik kısma vaki elatmasının önlenmesine karar verilmiştir. 6100 sayılı HMK’nın 294/3. maddesinde açıkça; “hükmün tefhimi, her halde hüküm sonucunun duruşma tutanağına geçirilerek okunması suretiyle olur.” ifadesine yer verilmiştir. Mahkemece bu husus gözetilmeksizin HMK’nın 294/3. maddesine aykırı olacak şekilde kısa kararda hüküm sonucunun tamamen gösterilmemiş olması da isabetsiz olup, davalı ... ve ...
 
 ## Yargıtay 1. HD 2018/3148 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411032600)
 
 Dava, paydaşlar arasında elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -194,6 +216,8 @@ Davanın kabulüne ilişkin olarak verilen karar Dairece; “... dava, imar uygu
 Davalı Belediyenin yerinde bulunan temyiz itirazlarının kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/1932 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/357651900)
 
 Dava, paydaşlar arasında bağımsız bölüme elatmanın önlenmesi isteğine ilişkindir.
 
@@ -211,6 +235,8 @@ Bilindiği üzere müşterek mülkiyette hakkını kullanamayan paydaş, buna iz
 
 ## Yargıtay 1. HD 2017/1476 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/356151700)
+
 Dava, çaplı taşınmaza elatmanın önlenmesi istemine ilişkindir.
 
 Davacılar, vefat eden ağabeylerinin eşi olan davalı tarafından kayden maliki oldukları dava konusu 214 ada 1 parsel sayılı taşınmaza haksız olarak müdahale edildiğini ileri sürerek elatmanın önlenmesi isteğinde bulunmuşlardır.
@@ -227,6 +253,8 @@ Temyiz eden davacı ...'in temyiz itirazı açıklanan nedenden ötürü yerinde
 
 ## Yargıtay 20. HD 2016/10511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/280657200)
+
 Dava, elatmanın önlenmesi istemine ilişkindir.
 
 …
@@ -236,6 +264,8 @@ Dosya kapsamından dava konusu 1441 parsel sayılı taşınmazın tapulama ile 1
 Bu durumda uyuşmazlığın TMK’nın 688. maddesi uyarınca ve devamı maddeleri uyarınca paylı mülkiyet hükümlerine göre genel mahkemelerce görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 1. HD 2016/10181 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/327430300)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi, yıkım ve eski hale getirme bedelinin tahsili isteklerine ilişkindir.
 
@@ -257,9 +287,13 @@ Davacı vekilinin temyiz itirazı yerindedir. Kabulü ile, hükmün (6100 sayıl
 
 ## Yargıtay 8. HD 2016/7015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/180669000)
+
 Mahkeme tarafından yapılan nitelendirmeden de anlaşıldığı üzere taraflar arasındaki uyuşmazlık, davacının hissedarı olduğu ... parselde hissedarlar arasında görülen haksız elatma nedeniyle mülkiyet hakkına dayanılarak açılan ecrimisil isteğine ilişkin bulunduğuna göre, Yargıtay Kanunu'nun 14. maddesi uyarınca Yargıtay Başkanlar Kurulu'nun 16.01.2016 tarih, 2016/1 sayılı Kararı ile hazırlanıp, 26.02.2016 tarihli ve 29636 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Yargıtay Büyük Genel Kurulu'nun 12.02.2016 gün 2016/1 sayılı Hukuk Daireleri'ne ilişkin iş bölümü uyarınca, hükme yöneltilen temyiz itirazlarının incelenmesi Yargıtay (1.) Hukuk Dairesi'nin görevine girmektedir. 11 Nisan 2015 tarihi itibariyle Resmi Gazete'de yayımlanarak yürürlüğe giren 6644 sayılı Kanun'un 2. maddesi ile değişik 2797 sayılı Kanun'un 60. maddesinin 1. ve 3. fıkraları uyarınca dosyanın görevli Daireyi belirlemek üzere HUKUK İŞBÖLÜMÜ İNCELEME KURULUNA GÖNDERİLMESİNE, 15.04.2016 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 1. HD 2016/6941 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/219433100)
 
 Dava, paydaşlar arasında elatmanın önlenmesi isteğine ilişkindir.
 
@@ -274,6 +308,8 @@ Davanın kabulüne ilişkin olarak verilen karar, Dairece; “...paydaşlar aras
 Davacı vekilinin temyiz itirazı yerindedir. Kabulü ile, hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2016/6064 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228360700)
 
 Davacı tarafından mahkememize verilen dava dilekçesinde, ... İli ... İlçesi ...
 

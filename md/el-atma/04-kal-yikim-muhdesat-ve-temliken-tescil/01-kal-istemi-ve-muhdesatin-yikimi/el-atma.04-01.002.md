@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2024/2299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045574800)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; tapu iptal ve tescil talepleri yönünden karar verilmesine yer olmadığına, men'i müdahale ve kal taleplerinin kabulüne karar verilmiştir.
 
 …
@@ -41,6 +43,8 @@ Davalı vekili cevap dilekçesinde; ...
 İlk Derece Mahkemesi kararının 6100 sayılı Kanun'un Geçici 3 üncü maddesi yollaması ile 1086 sayılı Kanun'un 428 inci maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/1564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029815500)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın ve birleştirilen davanın ayrı ayrı kısmen kabulüne, kısmen reddine karar verilmiştir.
 
@@ -65,6 +69,8 @@ Yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan 
 
 ## Yargıtay 6. HD 2024/711 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1030826200)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne-kısmen reddine karar verilmiştir.
 
 …
@@ -85,6 +91,8 @@ Söz konusu açıklamayı somut uyuşmazlığımız bakımından değerlendirdi�
 
 ## Yargıtay 7. HD 2024/132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999754700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davanın kısmen kabul, kısmen reddine karar verilmiştir.
 
 …
@@ -104,6 +112,8 @@ Yargıtay 1.Hukuk Dairesince: "...davalının kayden davacıya ait çaplı taş�
 Açıklanan sebeplerle davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/4713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990233300)
 
 İlk Derece Mahkemesi kararının davacı vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince istinaf talebinin kabulü ile İlk Derece Mahkemesi kararı kaldırılarak esas hakkında yeniden hüküm kurulmasına karar verilmiştir.
 
@@ -127,6 +137,8 @@ parsel ... taşınmazlar hakkında açılan davanın pasif husumet yokluğu nede
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 ... Kanun’un 370 inci maddesinin birinci fıkrası ve 373 üncü maddesinin beşinci fıkraları uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/4211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979135900)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın aktif husumet yokluğundan reddine karar verilmiştir.
 
@@ -152,6 +164,8 @@ Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 1. HD 2023/3897 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917632200)
+
 Davacı vekili dava dilekçesinde; ... ilçesi ... köyünde davalıya ait 1362 parsel sayılı taşınmazın kıyı kenar çizgisi içerisinde kaldığını ve 3621 sayılı Kanun'un 5. maddesine göre; kıyıların Devletin hüküm ve tasarrufu altında olup herkesin eşit ve serbest olarak yararlanmasına açık kıyı sahil şeridinden yararlanmadan öncelikle kamu yararı gözetildiğini, 6. maddesine göre; kıyı herkesin eşitlik ve serbestlikle yararlanmasına açık buralarda hiçbir yapının yapılamayacağı duvar, çit, parmaklık, tel örgü, hendek, kazı vb engelleri yapılamayacağını belirttiğinden özel mülkiyete konu olamayacağını, 3621 sayılı Kanun'un 10/2. maddesine göre tespit sonucunda kıyıda kalan özel mülkiyete konu arazilerle ilgili tapu iptali işlemlerinin Defterdarlıkça yürütüldüğünü, bu nedenle davalıya ait, ..., ... köyü, 1362 parsel numaralı 400 m2 yüz ölçümlü arsa vasfındaki taşınmazın 3621 sayılı Kanun'un 5 ve 6. maddesi kapsamında kaldığını ileri sürerek tapusunun iptaline, davalının müdahalesinin men'ine ve binanın kal'ine karar verilmesini talep etmiştir.
 
 …
@@ -167,6 +181,8 @@ Davada taleplerinin 1362 parsel sayılı taşınmazın tapusunun iptali, meni m�
 ... 1. Asliye Hukuk Mahkemesi kararının 6100 sayılı Yasa'nın geçici 3.maddesi yollaması ile 1086 sayılı HUMK'un 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/3358 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911225700)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -196,6 +212,8 @@ Davalı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/3270 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929545700)
+
 Davacı vekili dava dilekçesinde; davacının 1662 ada 13 parselde kayıtlı taşınmazın maliki olduğunu, davalıların da müvekkilinin parseline bitişik, 14 parselde kayıtlı taşınmazın maliki olduğunu, davalıların taşınmazında bulunan binanın, davacının taşınmazına taşkın olduğunu, dava konusu yapının davacıya ait gayrimenkule müdahalesinin men’ine, taşınmazın tecavüz eden kısmının yıkılmasına, yıkım masraflarının davalılara yükletilmesine, davacının satın aldığı tarihten dava tarihine kadar geçen süre için şimdilik 500,00 TL ecrimisilin faiziyle davalılardan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -207,6 +225,8 @@ Somut olaya gelince; davalı taşınmazın, davacının taşınmazına toplam 7.
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/2658 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915857600)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
@@ -236,6 +256,8 @@ Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile us
 
 ## Yargıtay 7. HD 2023/1521 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898938400)
+
 Davacı vekili dava dilekçesinde; müvekkilinin dava konusu 8 No.lu bağımsız bölümü 8/800 arsa payı ile birlikte 30.01.2008 tarihinde satın aldığını, projede salon olarak görünen yerin davalı tarafça aynı katta bulunan işyerine birleştirilmiş olduğunu sonradan öğrendiğini belirterek; projeye aykırı değişiklik yapmak suretiyle gerçekleşen elatmanın önlenmesini, taşınmazın mimari projeye uygun eski hale getirilmesini ve arsa payı maliki olduğu tarihten itibaren hak ettiği ecrimisilin tahsilini talep etmiştir.
 
 …
@@ -254,6 +276,8 @@ Yukarıda (3.1., 3.2., 3.3.,) No.lu bentlerde açıklanan nedenlerle, davalı-ka
 
 ## Yargıtay 5. HD 2023/942 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875298500)
+
 Davacılar vekili dava dilekçesinde; dava konusu Muğla ili, ... ilçesi, ...
 
 …
@@ -271,6 +295,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan Bölge Adliye Mah
 
 ## Yargıtay 8. HD 2023/868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924693500)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne, kısmen reddine karar verilmiştir.
 
 …
@@ -282,6 +308,8 @@ Ek 4 üncü maddesi kapsamında yapılan çalışmalar sonucu 397 parselin içer
 Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 1. HD 2023/483 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897435400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabul kısmen reddine karar verilmiştir.
 
@@ -303,6 +331,8 @@ hüküm kısmında tapusunun iptaline karar verilen “C, D, E” kısmının to
 fıkrasının (1) numaralı bendinin 4. paragrafında yer alan “Davaya konu Çanakkale ili, Bayramiç ilçesi, ... Mahallesi, 168 ada 60 parsel sayılı 167,10 m2 yüz ölçümlü taşınmazın fen bilirkişisi ... ... tarafından hazırlanıp sunulan 17/02/2020 havale tarihli ek fen bilirkişisi raporunda "A" harfi ile gösterilen 1,37 m2'lik kısmın, davalılar adına tapudaki hisseleri oranında TAPUYA TESCİLİNE “ cümlesinin hüküm yerinden tamamen çıkartılmasına, hüküm fıkrasının (1) numaralı bendinin son paragrafında yer alan “Davacı tarafın yıkım masraflarının davalılardan alınmasına ilişkin talebinin reddine, kal masraflarının davacı üzerinde bırakılmasına” cümlesinin hüküm yerinden çıkartılarak , yerine “İnfaz aşamasında davacı tarafından yapılacak kal masrafının davalılardan alınmasına” ibaresinin yazılması; hüküm fıkrasının (4) numaralı bendinde yer alan “Davacı lehine vekalet ücreti takdirine yer olmadığına,” cümlesinin hüküm yerinden çıkartılarak yerine “Davacı Hazine lehine, kal talebi üzerinden karar tarihinde yürürlükte bulunan AAÜT uyarınca 3.400,00 TL vekalet ücretinin davalılardan alınarak davacıya verilmesine,” cümlesinin yazılmasına, mahkeme hükmünün bu şekilde DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 7. HD 2023/110 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885810700)
 
 Davacı vekili, müvekkilinin miras bırakanı olan, annesi ... adına kayıtlı ve 1988 yılından bu yana tapu tahsis belgeli olan arsa üzerinde, 21/01/1980 tarihinde inşa olunmuş binada mevcut gayrimenkulün 3/4 hissesinin miras olarak kaldığını, ...'in 1985 tarihinde vefat ettiğini, gayrimenkulde bulunan dairelerin o tarihten bu yana yaklaşık 24 yıldır, l/4 oranında paydaş olan, ...'in eşi davalı ... tarafından ayrı ayrı kiralanarak kullanıldığını ileri sürerek elatmanın önlenmesine, fazlaya ilişkin hakları saklı kalmak kaydıyla ve geriye dönük 10 yıla ilişkin olmak üzere şimdilik 10.000,00 TL ecrimisilin her yıl tahakkuk eden ve kademeli olarak işletilecek yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 

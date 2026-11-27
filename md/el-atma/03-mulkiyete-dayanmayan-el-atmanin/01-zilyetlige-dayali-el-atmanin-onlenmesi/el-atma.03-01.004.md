@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2013/8450 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434229500)
+
 Davacı ... vekili, dava dilekçesinde mülkiyeti Hazine’ye ait olup 2981 Sayılı Kanun gereğince tapu tahsis belgesi verilmesi için 04.12.1986 tarih ve 549 sayı ile ... Belediyesine başvurulduğunu vekil edenin babası ...’nın zilyetliğinde iken satış suretiyle vekil edenine devredildiğini, taşınmaz üzerinde bulunan evde vekil edeninin kiracısının oturduğunu, davalı ...’nın vekil edeninin zilyetliğinde bulunan parsele tecavüz ederek dere yatağına kaçak ev yapmış olduğunu ve eve girişi engelleyecek şekilde demir kapı ve set ile kapattığını, halen davalının zilyetliğe müdahalesinin devam ettiğini açıklayarak davalının 78 ada 5 sayılı gayrı menkule kısmen izinsiz ve kaçak yapı yapmak ve eve geçişi engellemek suretiyle yaptığı müdahalenin önlenmesine, girişi kapatan her türlü yapının kal’ine karar verilmesini istemiştir.
 
 Davalı ..., 29.07.2011 tarihli cevap dilekçesinde dava konusu 78 ada 5 sayılı parselin Hazine adına tapuda kayıtlı bulunduğunu, Hazineye ait arazi üzerinde davacının herhangi bir mülkiyet hakkının söz konusu olamayacağını, babalarının 1986 yılında vefat ettiğini, tapu tahsis belgesinin verilmediğini, davacının eve giriş çıkışı için imar yolu bulunduğunu, önceden var olan ve halen devam eden aralarındaki husumet nedeniyle bu davayı açtığını açıklayarak davanın reddine karar verilmesini savunmuştur.
@@ -34,12 +36,16 @@ Davacı vekilinin temyiz itirazları bu nedenlerle yerinde olduğundan kabulüyl
 
 ## Yargıtay 16. HD 2013/8334 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551212700)
+
 Davacılar vekili, dava konusu 199 ada 12, 15 ve 42 parsel sayılı 18912,97, 2557,07, 8166,46 metrekare yüzölçümündeki taşınmazların davacı ... ve ...'in babası ...'ın zilyetliğinde iken ölümünden sonra yapılan taksimde adı geçen davacılar ile Kerim mirasçılarından dava dışı ...'a düştüğünü ve onların da 20.02.2010 tarihli zilyetlik devir sözleşmesi ile davacı ...'e devrettiklerini ileri sürerek, dava konusu taşınmazların beyanlar hanesindeki davalılar adına olan şerhin iptali ile çekişmeli taşınmazların kullanıcısı olarak davacı ... adına şerh edilmesi istemiyle dava açmıştır. Mahkemece yapılan yargılama sonunda davanın görev yönünden reddine, dosyanın görevli ve yetkili Antalya Sulh Hukuk Mahkemesine gönderilmesine karar verilmiş; hüküm, davacılar vekili tarafından temyiz edilmiştir.
 
 Mahkemece davanın zilyetliğin tespitine ilişkin olduğu ve bu davalarda Sulh Hukuk mahkemesinin görevli olduğu gerekçesi ile davanın görev yönünden reddine ve dosyanın görevli ve yetkili Antalya Sulh Hukuk mahkemesine gönderilmesine karar verilmiş ise de verilen karar yasaya uygun bulunmamaktadır. 01.10.2011 tarihinde yürülüğe giren ve davanın açıldığı 22.10.2012 tarihte yürülükte bulunan 6100 sayılı HMK'nın 2. madddesinde "Dava konusunun değer ve miktarına bakılmaksızın mal varlığı haklarına ilişkin davalarla, şahıs varlığına ilişkin davalarda görevli mahkeme, aksine bir düzenleme bulunmadıkça asliye hukuk mahkemesidir."şeklinde düzenleme yapılmış; aynı Yasanın 4. maddesinde ise Sulh Hukuk Mahkemesinin görevli olduğu davalar tek tek sayılmış, 4. maddesinin (C) fıkrasında Sulh Hukuk Mahkemesinin; dava konusunun değer veya tutarına bakılmaksızın; taşınır ve taşınmaz mallarda, zilyetliğin tespitine ilişkin davaları değil, sadece zilyetliğin korunmasına yönelik olan davalara bakmakla görevli olduğu düzenlenmiştir. Anılan yasa maddelerine göre dava, zilyetliğin korunmasına ilişkin bir dava olmayıp, tapu kaydının beyanlar hanesindeki şerhin değiştirilmesi istemine ilişkindir.
 Bu nedenle, davaya bakmaya görevli mahkeme Asliye Hukuk Mahkemesidir.
 
 ## Yargıtay 8. HD 2013/6660 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434146500)
 
 Davacı vekili, davalının tapuda vekil edeni adına kayıtlı bulunan dava konusu 503 sayılı parsel ile, tapulama çalışmaları sırasında tespit harici bırakılan ve vekil edeni tarafından imar-ihya edilerek kayısı bahçesi haline getirilen ve vekil edeninin zilyetliğinde bulunan 503 ve 504 sayılı parseller arasındaki bir parça tapusuz taşınmaza el attığını açıklayarak, uyuşmazlık konusu taşınmazlarda davalının müdahalesinin önlenmesi ve vekil edeninin zilyetliğinin korunmasına karar verilmesini istemiştir.
 
@@ -57,6 +63,8 @@ Davacı vekilinin yerinde görülen temyiz itirazlarının kabulü ile 503 parse
 
 ## Yargıtay 1. HD 2013/3680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79656400)
+
 Dava, 140 parsel sayılı taşınmaz yönünden mülkiyete dayalı, 91 ile 191 parsel sayılı taşınmazlar yönünden ise zilyetliğe dayalı elatmanın önlenmesi ve yıkım isteğine ilişkindir.
 
 Mahkemece, 140 parsel yönünden davanın kabulüne, 91 ile 191 parseller yönünden ise davanın reddine karar verilmiştir.
@@ -71,6 +79,8 @@ Tarafların, temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan ne
 
 ## Yargıtay 8. HD 2013/1205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410185600)
+
 Davacı vekili, dava dilekçesinde mevki ve sınırlarını bildirdiği 21.000 m2'lik taşınmazın vekil edeni tarafından 11.12.2005 tarihli ''gayrimenkul satış senedi'' ile satın alındığını, vekil edenin satın alma tarihinden beri zilyet olduğunu, ancak, davalının herhangi bir hakkı olmadan taşınmaza müdahale ettiğini açıklayarak, vekil edeninin zilyetliğinin tespitine, taraflar arasındaki muarazanın giderilmesi yoluyla haksız müdahalenin önlenmesine karar verilmesini istemiştir.
 
 Mahkemece, evrak üzerinde yapılan inceleme ve tensiple birlikte yargılama görevi, davacının talebi zilyetliğe ilişkin olduğundan 6100 sayılı HMK'nun 4/1-c maddesine göre Sulh Hukuk Mahkemesine ait bulunduğundan davanın reddine karar verilmiştir. Hüküm davalı vekilleri tarafından temyiz edilmiştir.
@@ -82,6 +92,8 @@ Dava dilekçesi ve eki niteliğindeki harici satış sözleşmesi incelendiğind
 Davalı vekilinin temyiz itirazları bu nedenlerle yerindedir. Kabulü ile hükmün 6100 sayılı ...nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2012/12838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988787500)
 
 Davalı dava konusu bölümü işlemediğini, davanın reddini savunmuştur.
 
@@ -97,6 +109,8 @@ Davalının temyiz itirazları açıklanan nedenle yerinde olduğundan kabulüyl
 
 ## Yargıtay 17. HD 2012/12656 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/789683000)
+
 Dava, el atmanın önlenmesi istemine ilişkindir.
 
 …
@@ -104,6 +118,8 @@ Dava, el atmanın önlenmesi istemine ilişkindir.
 1086 Saylı HUMK.'nun 8/II-3 maddesinde, taşınır ve taşınmaz mallarda yalnız zilyetliğin korunması ile ilgili davaların, dava konusu olan şeyin değerine bakılmaksızın Sulh Hukuk Mahkemesinde görüleceği hükmüne yer verilmiştir. Davacı, davalı taraf ile kira sözleşmesi akdettiği, ancak bir takım düzenleme neticesinde idare tarafından fuzuli şagil gibi gösterilerek, hakkında 3091 S.Y. uyarınca men kararı aldırıldığını, ancak idari yargı yoluyla bu kararın hükümsüz kaldığını belirterek, yeniden men kararı alınması ihtimali bulunduğundan zilyetliğinin korunarak müdahalenin önlenmesini talep etmiştir. Burada davacı, zilyetliğini mevcut kira ilişkisine dayandırmış ise de, kiracılık hususunda herhangi bir talebi bulunmadığı gibi, zilyetliğinin korunması dışında bir istemi de yoktur. O halde yalnızca taşınmaz zilyetliğinin korunmasına ilişkin uyuşmazlığın Sulh Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 8. HD 2012/11887 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988624000)
 
 Davacılar vekili, dava dilekçesinde adresini açıkladıkları taşınmazın zilyetliğini 14.07.1995 tarihli arsa satış sözleşmesi ile davalıların babası ... Birinci’den devraldıklarını, davalıların bugüne kadar bir müdahelesi olmadığı halde, davacıların ağaç dikmelerine dava konusu yerin kendilerine ait olduğunu iddia ederek engel olduklarından davalıların zilyetliklerine yaptıkları müdahalenin önlenmesini talep etmişlerdir.
 
@@ -121,11 +137,15 @@ Yukarıda açıklanan nedenle davacılar vekili ile davalılar vekilinin temyiz 
 
 ## Yargıtay 17. HD 2012/11625 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797056600)
+
 Dava, tapusuz taşınmaza yapılan müdahalenin önlenmesi istemine ilişkindir.
 
 Çınar Asliye Hukuk Mahkemesi, davalı taşınmazın tapusuz taşınmaz olduğu, davacının talebinin dava konusu taşınmaz üzerindeki fiili hakimiyetine yöneltilen ihlalin mahkeme kararı ile ortadan kaldırılması talebini taşıyan zilyetliğin korunması mahiyetindeki zilyetlik davası olduğu ve HUMK 'nun 8/3 maddesi hükmüne göre taşınmaz malın zilyetliğinin korunması ile ilgili davanın Sulh Hukuk mahkemesinde görüleceği gerekçesiyle görevsizlik kararı vermiştir.
 
 ## Yargıtay 8. HD 2012/9693 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/640414800)
 
 Davacı ... vekili dava dilekçesinde, Kumrular Caddesi 6/D numaralı işyeri niteliğindeki taşınmazın davacı tarafından 10.12.2009 tarihinde Tataroğlu int. Tat firmasından kiralandığını, üzerinde davacı tarafından işletilen ticari işletme bulunan taşınmaza Tataroğlu İnt. Tat ortağı ve aynı zamanda davacının kayınbiraderi olan ...'nun müdahalede bulunarak davacının işyerine girmesini engellediği gibi, aynı işyerinin gayri resmi olarak davalı ... tarafından işletilmesi için sözleşme yaptığını açıklayarak her iki davalının taşınmaza yönelik haksız müdahalesinin önlenmesine ve taşınmazın davacıya teslimine karar verilmesini istemiştir.
 
@@ -142,6 +162,8 @@ Davalılar vekillerinin temyiz itirazları bu bakımdan yerinde görüldüğünd
 
 ## Yargıtay 8. HD 2012/9480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636992100)
+
 Davacı vekili, müvekkilinin dava konusu taşınmazı dava dilekçesinin ekinde bulunan Milas Noterliğince düzenlenen 26.10.1976 tarih ve 13385 yevmiye numaralı zilyetlik devir sözleşmesi ile 20.09.2002 ve 15.09.2009 tarihli adi yazılı sözleşmeler uyarınca satın aldığı halde, davalıların nizalı taşınmaza müdahalede bulunduklarını açıklayarak, davalıların uyuşmazlık konusu taşınmaza elatmalarının önlenmesine ve 1.000 TL ecrimisil bedelinin davalılardan tahsiline karar verilmesini istemiştir.
 
 Davalılar, dava konusu taşınmazı birlikte kullandıklarını açıklayarak davanın reddine karar verilmesini savunmuşlardır.
@@ -157,6 +179,8 @@ Yukarıda açıklanan nedenlerle davalıların temyiz itirazları yerinde görü
 
 ## Yargıtay 8. HD 2012/7435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634287400)
+
 Davacı vekili dava dilekçesinde; Karataş Yaylasındaki yayla evinin davacıya ait olduğunu, davalının bu evde davacının rızası olmadan işgal ederek, oturduğunu, sözlü uyarıya rağmen evi boşaltmaması üzerine davalıya Zara Noterliğinin 12.07.2010 tarih 001843 yevmiye nolu ihtarnamesi ile ihtarname çekildiğini, ihtarnamenin 27.07.2010 tarihinde tebliğ edildiğini, verilen 30 günlük süre içerisinde taşınmazı boşaltmadığını açıklayarak, davalının fuzulü ve haksız olarak işgal ettiği davacıya ait yayla evinden tahliyesine karar verilmesini istemiştir.
 
 Davalı, dava konusu evin davacıya ait olduğunu, kendisine Devletin yardımı ile ev yapıldığını, o ev yapılana kadar davacı ile evde oturmak için anlaştıklarını, davacının evine sahiplenmediğini bildirmiş ve davanın reddine karar verilmesini savunmuştur.
@@ -168,6 +192,8 @@ Kadastro Mahkemesinin bakacağı dava ve işler 3402 sayılı Kadastro Kanununun
 Yukarıda açıklanan nedenlerle davacı vekilinin yerinde görülen temyiz itirazlarının kabulüyle hükmün 6100 sayılı HMK.nun Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK.nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2012/3549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/603325700)
 
 Davacı ..., dava dilekçesinde, 2496 sayılı parselin 2/B uygulaması ile orman sınırları dışına çıkartılan yerlerden olduğunu, 2/B uygulamasının yapılmasını beklerken, rahatsızlığı nedeni ile 2 yıl süre ile yaylaya çıkmadığını, bu yıl gittiğinde 2496 sayılı parseldeki evin yerine bir inşaat yapıldığını, davalı tarafından hiçbir hakkı bulunmadığı halde ev yapmak suretiyle müdahalede bulunduğunu açıklayarak davalı tarafından yapılan müdahalenin önlenmesine, üzerindeki yapının yıktırılmasına karar verilmesini istemiştir.
 
@@ -183,10 +209,14 @@ Davalı vekilinin temyiz itirazları bu nedenlerle yerinde olduğundan kabulüyl
 
 ## Yargıtay 8. HD 2012/3481 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/603847200)
+
 26.4.2010 tarihli teknik bilirkişi raporunda A-10.800 m2 ve B-470 m2 miktarı ile gösterilen dava konusu taşınmaz bölümlerini de kapsayan taşınmaz 27.10.2008 tarihli kira sözleşmesine göre Karataş Tabaklar Köyü Tabaklar Gölü su ürünü istihsal yeri olarak tarif edilerek davacıya kiraya verilmiştir. Aynı şekilde dava konusu yerle ilgili davalının da 01.01.2008-31.12.2008 tarihleri arasında ecrimisil tahakkuk ettirilen dönem için 03.02.2008 tarihli ecrimisil ödeme belgesi mevcuttur. Her iki tarafta dava konusu taşınmaz üzerinde zilyetlikleri olduğunu ileri sürmektedirler. Toplanan deliller ve mahallinde keşifte dinlenen tanık beyanlarına göre taşınmazın halen ve dava tarihinden geriye doğru 8 yıldır davalının zilyetliğinde bulunduğu anlaşılmaktadır. Zilyetliğin korunması davaları Türk Medeni Kanununun 984. ve devamı maddelerine göre zilyedin fiili ve faili öğrenmesinden başlayarak iki ay ve her halde fiilin üzerinden bir yıl geçmekle düşer.
 Mahkemece tanık beyanları karşısında davacının davalının zilyetliğini öğrendiği tarihten itibaren TMK.nun 984. maddesi uyarınca 2 ay ve 1 yıllık hak düşürücü sürelerin geçtiği dikkate alınarak davanın bu nedenle reddine karar verilmesi gerekirken davanın aktif husumet yokluğu nedeniyle reddine karar verilmesi doğru değilse de, karar redde ilişkin olup hüküm sonucu itibariyle doğru olduğundan davacı vekilinin tüm temyiz itirazlarının reddi ile usul ve kanun hükümlerine uygun bulunan yerel mahkeme kararının ONANMASINA ve aşağıda dökümü yazılı 17,15 TL peşin harcın onama harcına mahsubu ile kalan 4,00 TL'nin temyiz eden davacıdan alınmasına 30.04.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2012/3159 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/604287500)
 
 Davacı vekili, vekil edeninin dava konusu 110 ada 19 parsel sayılı taşınmazda dava dışı Hazinenin maliki bulunduğu 48/192 paya karşılık olarak 1984 yılından itibaren ecrimisil bedeli ödediğini ve anılan payı zilyetliğinde bulundurduğunu, öncesinde şehir dışında yaşaması nedeniyle dava konusu yeri nizalı taşınmaza çap komşusu dava dışı aynı ada 20 parsel sayılı taşınmazda pay sahibi olan davalının kullanmasına izin verdiğini, sonrasında davalıdan nizalı yeri terk etmesini istediği halde davalının haksız kullanımını sürdürdüğünü açıklayarak, davalının dava konusu yere elatmasının önlenmesine karar verilmesini istemiştir.
 
@@ -204,6 +234,8 @@ Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazları yerinde ol
 
 ## Yargıtay 8. HD 2012/2338 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525435800)
+
 Davacı ... vekili dava dilekçesinde, 6831 sayılı Yasanın 2/B maddesi gereğince Hazine adına orman sınırı dışına çıkarılan 1816 ada 29 parsel sayılı taşınmazın, zeytinlik vasfı ile davacının işgalinde iken, davalı şirketin Orman ve Çevre Bakanlığı ile yapmış olduğu sözleşme gereğince 2009 yılında taşınmaza müdahale ederek taşınmaz üzerinde bulunan 5 adet zeytin ağacını söktüğünü açıklayarak, davalının taşınmaza yönelik müdahalesinin önlenmesini ve zeytin ağaçları bedeli ile ecrimisil bedelinin davalıdan alınarak davacıya verilmesini talep etmiştir.
 
 Davalı şirket vekili 21.01.2011 tarihli dilekçesinde; davalı ile Orman ve Çevre Bakanlığı arasında yapılan 49 yıl süreli sözleşme gereğince, taşınmazın yetkililerce sahada gösterilerek teslim edildiğini, davalı şirketin sözleşme gereğince kendisine tahsis edilen araziye badem ektiğini bildirmiş ve davanın reddine karar verilmesini savunmuştur.
@@ -218,6 +250,8 @@ Somut olayda davacı davalının fiilini 2009 yılı Eylül ayında öğrenmiş 
 Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazları yerinde görüldüğünden kabulüyle yerel mahkeme hükmünün 6100 sayılı ...nun Geçici 3. maddesi yollaması ile halen yürürlükte bulunan 1086 sayılı HUMK.nun 428. maddesi uyarınca tazminat ve ecrimisil yönünden BOZULMASINA ve aşağıda dökümü yazılı 18 …
 
 ## Yargıtay 8. HD 2012/1559 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525165100)
 
 Davacı ..., ..., ... ve ... vekili, dava konusu 3983 parselin içerisinde bulunan 500 m2'lik taşınmaz bölümünün zilyetliğinin 30-40 yıl evvel tarafların ortak miras bırakanları ... tarafından üçüncü şahıstan devralındığını, ölümü üzerine mirasçıları olan davacılar ve davalıya kaldığını, bir kısım davacıların ve davalının kendilerine düşen arsa payına gecekondu yapmak suretiyle kullandıklarını, ancak davalının tamamı üzerinde hak iddia etmek suretiyle davacıların zilyetliklerini engellediğini ileri sürerek zilyetliklerinin korunmasına karar verilmesini istemiştir.
 

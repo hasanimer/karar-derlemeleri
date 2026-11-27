@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2022/4408 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837227300)
+
 Asıl davada davacı kooperatif ile davalı arsa sahibin de aralarında bulunduğu arsa sahipleri ile Ankara 5. Noterliğinin 19.08.2010 tarih ve 9710 yevmiye numaralı arsa payı karşılığı inşaat sözleşmesi imzalandığı, bu sözleşme uyarınca dava konusu 2 nolu bağımsız bölümün davacı yüklenici kooperatife verileceği hususu taraflar arasında ihtilafsızdır. İhtilaflı olan husus, söz konusu bağımsız bölümün davalı arsa sahibine yapılan satışının geçerli olup olmadığı noktasında toplanmaktadır. Taraflar arasında imzalanan 23.11.2010 tarihli adi yazılı protokolde, davalı arsa sahibinin, kooperatife düşen 2 nolu bağımsız bölümü 180.000,00 TL bedelle satın aldığı ve satış bedelini nakden ödendiği, söz konusu bağımsız bölümün tapu devrinin kat irtifakı kurulurken yapılacağı düzenlenmiştir.
 Mahkemece, söz konusu bağımsız bölümün satışı noktasında kooperatif genel kurulu tarafından yönetim kuruluna yetki verilmediği gerekçesiyle asıl davanın kabulüne karar verilmiş ise de; dava dosyasına sunulan 21.07.2010 tarih ve 1 nolu Ortaklar Kurulu kararı ile yönetim kuruluna kooperatif adına düşen dairelerden dilediklerini sözleşme veya kat irtifakı kurularak kat irtifakı tapusu ile 150.000,00 TL’den aşağı olmamak üzere satması yönünde yetki verildiği, bu ortaklar kurulu kararından sonra 06.08.2010 tarihli genel kurul kararı ile de ...’nun yönetim kurulu üyeliğine seçildiği ve bu kişi tarafından imzalanan protokol ile de dava konusu bağımsız bölümün davalıya satışına karar verildiği anlaşıldığından, genel kurul tarafından yönetim kuruluna verilen yetkiye dayanılarak satış sözleşmesinin yapıldığının mahkemece kabulü gerekmektedir. Bu protokole dayanılarak 19.10.2012 tarihli kat irtifakı ile dava konusu taşınmaz davalı adına tescil edilmiştir. Ayrıca mahkemece, asıl davada
 
@@ -30,27 +32,39 @@ Mahkemece ayrıca, davacı kooperatifin 2010 yılına ait ticari defterlerinin d
 
 ## Yargıtay 5. HD 2022/1424 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733690800)
+
 Davacının maddi tazminat istemi yönünden ise; 634 sayılı Kat Mülkiyeti Kanununun uygulanabilmesi için dava konusu taşınmazın tek parsel üzerinde kurulmuş bulunması ve üzerinde kat mülkiyeti tesis edilmiş olması, tek parsel üzerinde kurulmuş olmakla birlikte, henüz kat mülkiyeti tesis edilmemiş bulunan ve ancak; kat irtifakı tesis edilmiş bulunan anataşınmazlarda inşaatın fiilen tamamlanmış olması ve en az 2/3'ünün fiilen kullanılmaya başlanmış olması gerekir. Bu durumda, iki şartın aynı anda oluşması gerekir. Yani, kat irtifaklı anataşınmazın inşaatının tamamen bitirilmiş olması ve aynı zamanda en az 2/3'ünde fiilen iskan edilmiş olması gerekir.
 
 ## Yargıtay 1. HD 2022/467 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761183600)
 
 Bu durumda yapılması gereken iş, öncelikle kat irtifakının kurulmasının mümkün olup olmadığı belirlendikten sonra mümkün ise taraflara usulünce süre verilerek kat irtifakı kurulmalı, davalının satın aldığı 6 nolu bağımsız bölüme isabet eden arsa payı dışındaki paylardan davacıdan intikal eden kısım iptal edilerek davacı adına tescil edilmelidir. Yine kat irtifakı kurulması mümkün değilse bu durumda da yine bilirkişi vasıtasıyla kat irtifakı kurulsaydı davalının dairesine isabet eden pay belirlendikten sonra artan pay iptal edilerek davacıya iade edilmelidir.
 
 ## Yargıtay 5. HD 2021/13386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706215800)
+
 634 sayılı Kat Mülkiyeti Kanunu'nun 17/3. maddesine göre, kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa, kat mülkiyetine geçilmemiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır.
 
 ## Yargıtay 5. HD 2021/13199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706148500)
 
 634 sayılı Kat Mülkiyeti Kanunu'nun 3.maddesinde; kat mülkiyeti veya kat irtifakının, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulacağı, arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibinin arsa payının düzenlenmesi için mahkemeye başvurabileceği hükme bağlanmıştır. Arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasıdır. Bu hususa dayalı istemlerde mahkeme tüm kanıtları değerlendirerek bağımsız bölümün değeri ile bölüme özgülenen arsa payını karşılaştırıp denklik sağlamaya çalışmalıdır.
 Söz konusu işlem yapılırken de, bağımsız bölümlerin cinsi, bulunduğu kat, alanı, ısınma sistemi, aydınlanması, mimari kullanımı ve konumu, cephesi ve manzarası gibi hususlar değerlendirme için esas alınır; değerlendirmeye esas alınacak tarihten sonraki imar durumu ile cins ve manzara değişiklikleri, bakım ve onarım çalışmaları sebebiyle meydana gelen değer artış ve eksilmeleri dikkate alınmaz.
 
 ## Yargıtay 5. HD 2021/12545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700611600)
+
 634 sayılı Kat Mülkiyeti Kanunu'nun 3. maddesi hükmüne göre; "kat mülkiyeti, veya kat irtifakı, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulur. Arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibi, arsa payının düzenlenmesi için mahkemeye başvurabilir." kanun gereğince; arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasıdır. Bu hususa dayalı istemlerde mahkeme tüm kanıtları değerlendirerek bağımsız bölümün değeri ile bölüme özgülenen arsa payını karşılaştırıp denklik sağlamaya çalışmalıdır. Söz konusu işlem yapılırken de bağımsız bölümlerin cinsi, bulunduğu kat, alanı, ısınma sistemi, aydınlanması, mimari kullanımı ve konumu, cephesi ve manzarası gibi hususlar değerlendirme için esas alınır.
 Değerlendirmeye esas alınacak (kat irtifakının kurulduğu) tarihten sonraki imar durumu ile cins ve manzara değişiklikleri, bakım ve onarım çalışmaları nedenleriyle meydana gelen değer artış ve eksilmeleri dikkate alınmaz. Mahkemece, farklı bilirkişi heyetinden açıklanan hususlarda gerekli inceleme ve değerlendirme içeren denetime elverişli bilirkişi raporu alınmak suretiyle oluşacak sonuca göre karar verilmesi gerekirken, herhangi bir somut ve haklı nedenler ortaya konulmadan soyut ve genel ifadeler ile hazırlanan rapor hükme esas alınarak davanın kabulüne karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 5. HD 2021/11649 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696782100)
 
 Bu durumda tazminat istemine konu bağımsız bölümün bulunduğu 46264 ada 1 parsel sayılı taşınmazda 30.06.2003 tarihinde kat irtifakı kurulduğundan, 46264 ada 1 parsel sayılı
 
@@ -59,10 +73,14 @@ taşınmazın zemin (arsa) değerinin emsal incelemesi ve karşılaştırması y
 
 ## Yargıtay 5. HD 2021/11646 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696773200)
+
 Bu durumda tazminat istemine konu bağımsız bölümün bulunduğu 46264 ada 1 parsel sayılı taşınmazda 30.06.2003 tarihinde kat irtifakı kurulduğundan, 46264 ada 1 parsel sayılı taşınmazın zemin (arsa) değerinin emsal incelemesi ve karşılaştırması yöntemiyle, üzerindeki yapılmış ve yapılacak yapıların ise değerlendirme tarihindeki Çevre ve Şehircilik Bakanlığı’nca yayımlanan resmi birim fiyatları ve yapı maliyetleri hesaplarını gösteren listelere göre 30.06.2003 tarihli kat irtifakının kurulması sırasında esas alınan mimari projede belirtilen özellikleri dikkate alınarak yapıların bedeli belirlenip, arsa bedeli ile yapı değerleri toplanıp tazminat istemine konu bağımsız bölümün tapu kaydında yazılı olan arsa payına oranlanmasıyla o bağımsız bölümün değerlendirme tarihindeki değerinin belirlenmesi gerektiğinden taraflara 46264 ada 1 parsel sayılı taşınmaz ile aynı bölgeden, bulunamaması halinde yakın bölgelerden ve değerlendirme tarihinden önce ve yakın tarihli satışı yapılan benzer nitelikli ve yüzölçümlü satışları bildirmeleri için olanak tanınması, gerekli görülürse re'sen emsal getirtme yoluna gidilmesi, 46264 ada 1 parsel sayılı taşınmaza ilişkin kat irtifakının kurulduğu 30.06.2003
 tarihinde esas alınan mimari projenin Belediye Başkanlığından getirtilmesi, yukarıda açıklanan şekilde tazminat istemine konu bağımsız bölümün anılan mimari projedeki özellikleri, bedelin tespitinde etkili olacak diğer objektif ölçüler ve bağımsız bölümün inşa edilmemiş oluşu da gözetilerek davacının değerlendirme tarihi itibariyle gerçek zararının tespit ettirilip sonucuna göre karar verilmesi gerekirken yazılı şekilde hüküm kurulması,…
 
 ## Yargıtay 5. HD 2021/11645 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696787700)
 
 Tazminat istemine konu bağımsız bölümün bulunduğu 46264 ada 1 parsel sayılı taşınmazda 30.06.2003 tarihinde kat irtifakı kurulduğundan, 46264 ada 1 parsel sayılı taşınmazın zemin (arsa) değerinin emsal incelemesi ve karşılaştırması yöntemiyle, üzerindeki yapılmış ve
 
@@ -71,10 +89,14 @@ da gözetilerek davacının değerlendirme tarihi itibariyle gerçek zararının
 
 ## Yargıtay 5. HD 2021/11644 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696755400)
+
 Kısmen tazminat istemine konu bağımsız bölümün bulunduğu 46264 ada 1 parsel sayılı taşınmazda 30.06.2003 tarihinde kat irtifakı kurulduğundan, 46264 ada 1 parsel sayılı taşınmazın zemin (arsa) değerinin emsal incelemesi ve karşılaştırması yöntemiyle, üzerindeki yapılmış ve yapılacak yapıların ise değerlendirme tarihindeki Çevre ve Şehircilik Bakanlığı’nca yayımlanan resmi birim fiyatları ve yapı maliyetleri hesaplarını gösteren listelere göre 30.06.2003 tarihli kat irtifakının kurulması sırasında esas alınan mimari projede belirtilen özellikleri dikkate alınarak yapıların bedeli belirlenip, arsa bedeli ile yapı değerleri toplanıp tazminat istemine konu bağımsız bölümün tapu kaydında yazılı olan arsa payına oranlanmasıyla o bağımsız bölümün değerlendirme tarihindeki değerinin belirlenmesi gerektiğinden taraflara 46264 ada 1 parsel sayılı taşınmaz ile aynı bölgeden, bulunamaması halinde yakın bölgelerden ve değerlendirme tarihinden önce ve yakın tarihli satışı yapılan benzer nitelikli ve yüzölçümlü satışları bildirmeleri için olanak tanınması, gerekli görülürse re'sen emsal getirtme yoluna gidilmesi, 46264 ada 1 parsel sayılı taşınmaza ilişkin kat irtifakının kurulduğu 30.06.2003
 tarihinde esas alınan mimari projenin Belediye Başkanlığından getirtilmesi, yukarıda açıklanan şekilde tazminat istemine konu bağımsız bölümün anılan mimari projedeki özellikleri, bedelin tespitinde etkili olacak diğer objektif ölçüler ve bağımsız bölümün inşa edilmemiş oluşu da gözetilerek davacının değerlendirme tarihi itibariyle gerçek zararının tespit ettirilip sonucuna göre karar verilmesi gerektiğinin gözetilmemesi,…
 
 ## Yargıtay 5. HD 2021/11643 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696790400)
 
 Tazminat istemine konu bağımsız bölümün bulunduğu 46264 ada 1 parsel sayılı taşınmazda 30.06.2003 tarihinde kat irtifakı kurulduğundan, 46264 ada 1 parsel sayılı taşınmazın zemin (arsa) değerinin emsal incelemesi ve karşılaştırması yöntemiyle, üzerindeki yapılmış ve yapılacak yapıların ise değerlendirme tarihindeki Çevre ve Şehircilik Bakanlığı’nca yayımlanan resmi birim fiyatları ve yapı maliyetleri hesaplarını gösteren listelere göre
 
@@ -83,10 +105,14 @@ karar verilmesi gerekirken,…
 
 ## Yargıtay 5. HD 2021/11641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696788700)
+
 Bu durumda, tazminat istemine konu bağımsız bölümün bulunduğu 46264 ada 1 parsel sayılı taşınmazda 30.06.2003 tarihinde kat irtifakı kurulduğundan, 46264 ada 1 parsel sayılı taşınmazın zemin (arsa) değerinin emsal incelemesi ve karşılaştırması yöntemiyle, üzerindeki yapılmış ve yapılacak yapıların ise değerlendirme tarihindeki Çevre ve Şehircilik Bakanlığı’nca yayımlanan resmi birim fiyatları ve yapı maliyetleri hesaplarını gösteren listelere göre 30.06.2003 tarihli kat irtifakının kurulması sırasında esas alınan mimari projede belirtilen özellikleri dikkate alınarak yapıların bedeli belirlenip, arsa bedeli ile yapı değerleri toplanıp tazminat istemine konu bağımsız bölümün tapu kaydında yazılı olan arsa payına oranlanmasıyla o bağımsız bölümün değerlendirme tarihindeki değerinin belirlenmesi gerektiğinden taraflara 46264 ada 1 parsel sayılı taşınmaz ile aynı bölgeden, bulunamaması halinde yakın bölgelerden ve değerlendirme tarihinden önce ve yakın tarihli satışı yapılan benzer nitelikli ve yüzölçümlü satışları bildirmeleri için olanak tanınması, gerekli görülürse re'sen emsal getirtme yoluna gidilmesi, 46264 ada 1 parsel sayılı taşınmaza ilişkin kat irtifakının kurulduğu
 30.06.2003 tarihinde esas alınan mimari projenin Belediye Başkanlığından getirtilmesi, yukarıda açıklanan şekilde tazminat istemine konu bağımsız bölümün anılan mimari projedeki özellikleri, bedelin tespitinde etkili olacak diğer objektif ölçüler ve bağımsız bölümün inşa edilmemiş oluşu da gözetilerek davacının değerlendirme tarihi itibariyle gerçek zararının tespit ettirilip sonucuna göre karar verilmesi gerektiğinin gözetilmemesi,…
 
 ## Yargıtay 5. HD 2021/11575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696813200)
 
 Bu nedenle mahkemece, öncelikle Belediye Başkanlığına ve Tapu Sicil Müdürlüğüne ayrı ayrı yazı yazılarak anataşınmazda kat irtifakının kuruluş tarihi belirlendikten sonra bu kuruluşa esas alınan anataşınmazın projesinin (onay tarihi ve sayısı açıkça belirtilerek) ve varsa bu projeden sonra yapılan onaylı tadilat projeleri de getirtildikten sonra dosyada bulunan projelerle birlikte yeniden bilirkişi incelemesi yaptırılarak; anayapının (özellikle davalının bağımsız bölümünün) kat irtifakının kuruluşuna esas onaylı projesine uygun olup olmadığı, uygun değil ise fiili durumuna uygun değişiklik projesinin bulunup, bulunmadığı
 
@@ -94,24 +120,34 @@ ve bu projenin onay tarihindeki tüm kat irtifakı hakkı sahiplerinin muvafakat
 
 ## Yargıtay 5. HD 2021/9143 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687038700)
+
 Dosyadaki tapu kaydının incelenmesinden; kat mülkiyeti kurulu anataşınmazın ... ili, ...ilçesinde bulunduğu anlaşılmakla, mahkemece uyuşmazlık konusu bedelin kooperatif aidatı değil, site ortak gider bedeli olduğu sonucuna varılmış ve bu konuda özel yetki kuralı bulunmadığından genel yetki kuralı uyarınca davalı borçlunun yerleşim yeri icra dairelerinin yetkili olduğu kanaatiyle davanın icra dairesinin yetkisizliği nedeniyle reddine karar verilmiştir. Oysa ki; Kat Mülkiyeti Kanununun 33. maddesi uyarınca, bu Kanunun uygulanmasından kaynaklanan davalarda, üzerinde kat mülkiyeti veya kat irtifakı kurulu anataşınmazın bulunduğu yer mahkemesi yetkilidir. Bu maddeye göre, görülen dava taşınmazın aynına ilişkin bir dava olmasa da, üzerinde kat mülkiyeti veya kat irtifakı kurulu ana taşınmazın bulunduğu yer mahkemesi yetkili olacaktır. Açıklanan özel hüküm kamu düzeni ile ilgili bulunduğundan emredici niteliktedir. Anılan yetki, Yargıtay uygulamalarıyla da kesin yetki olarak kabul edilmektedir.
 Bilindiği üzere, kesin yetki, kamu düzeni ile ilgili olduğu gibi 6100 sayılı Hukuk Muhakemeleri Kanununun 114/1-ç maddesi uyarınca dava şartı olup, yargılamanın her aşamasında istek olmaksızın gözetilir. Belirtilen yetkinin kesin yetki niteliğinde olmasına göre; dava konusu ana taşınmazın "Sapanca" ilçesi sınırlarında olduğu, dolayısı ile ...Mahkemeleri ve icra dairelerinin yetkili olduğu anlaşılmakla, işin esasına girilerek karar verilmesi gerekirken aksi düşünce ile yazılı olduğu şekilde davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 5. HD 2021/8618 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686619700)
 
 634 sayılı Kat Mülkiyeti Yasasının 3.maddesi hükmüne göre; "kat mülkiyeti, veya kat irtifakı, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulur. Arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibi, arsa payının düzenlenmesi için mahkemeye başvurabilir." Yasa gereğince; arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasıdır. Bu hususa dayalı istemlerde mahkeme tüm kanıtları değerlendirerek bağımsız bölümün değeri ile bölüme özgülenen arsa payını karşılaştırıp denklik sağlamaya çalışmalıdır. Söz konusu işlem yapılırken de bağımsız bölümlerin cinsi, bulunduğu kat, alanı, ısınma sistemi, aydınlanması, mimari kullanımı ve konumu, cephesi ve manzarası gibi hususlar değerlendirme için esas alınır.
 Değerlendirmeye esas alınacak tarihten sonraki imar durumu ile cins ve manzara değişiklikleri, bakım ve onarım çalışmaları nedenleriyle meydana gelen değer artış ve eksilmeleri dikkate alınmaz.
 
 ## Yargıtay 2. HD 2021/6412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/701677400)
+
 İpotek tesis tarihinde taşınmaz tapuda arsa vasfıyla kayıtlı olduğu, taşınmaz üzerinde bilirkişi raporunda da belirtildiği üzere 2 katlı betonarme ev bulunduğu, taşınmazda kat mülkiyetine geçilmediği, 2. Katında (zemin üstü 1. kat) daire olan bağımsız bölümün tarafların aile konutu olduğu, uyuşmazlık konusunun, aile konutu olarak kullanılan bağımsız bölüm üzerine konulan ipoteğin kaldırılması ile sınırlı olduğu ve bu bölüm ile sınırlı olmak üzere ipoteğin kaldırılmasına karar verildiği, davanın kısmen kabulü niteliğinde karar verilmediği, arsa vasıflı olan taşınmazın diğer bölümleri yönünden ipoteğin geçerliliğini koruduğu anlaşılmaktadır. Hal böyleyken, mahkemece davanın kısmen kabul edildiği gerekçesiyle davalı banka yararına nispi vekalet ücreti takdiri usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 5. HD 2021/4648 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683090000)
 
 Tazminat istemine konu bağımsız bölümün bulunduğu 46264 ada 1 parsel sayılı taşınmazda 30.06.2003 tarihinde kat irtifakı kurulduğundan, 46264 ada 1 parsel sayılı taşınmazın zemin (arsa) değerinin emsal incelemesi ve karşılaştırması yöntemiyle, üzerindeki yapılmış ve yapılacak yapıların ise değerlendirme tarihindeki Çevre ve Şehircilik Bakanlığı’nca yayımlanan resmi birim fiyatları ve yapı maliyetleri hesaplarını gösteren listelere göre 30.06.2003 tarihli kat irtifakının kurulması sırasında esas alınan mimari projede belirtilen özellikleri dikkate alınarak yapıların bedeli belirlenip, arsa bedeli ile yapı değerleri toplanıp tazminat istemine konu bağımsız bölümün tapu kaydında yazılı olan arsa payına oranlanmasıyla o bağımsız bölümün değerlendirme tarihindeki değerinin belirlenmesi gerektiğinden taraflara 46264 ada 1 parsel sayılı taşınmaz ile aynı bölgeden, bulunamaması halinde yakın bölgelerden ve değerlendirme tarihinden önce ve yakın tarihli satışı yapılan benzer nitelikli ve yüzölçümlü satışları bildirmeleri için olanak tanınması, gerekli görülürse re'sen emsal getirtme yoluna gidilmesi, 46264 ada 1 parsel sayılı taşınmaza ilişkin kat irtifakının kurulduğu 30.06.2003 tarihinde
 esas alınan mimari projenin Belediye Başkanlığından getirtilmesi, az yukarı açıklanan şekilde tazminat istemine konu bağımsız bölümün anılan mimari projedeki özellikleri, bedelin tespitinde etkili olacak diğer objektif…
 
 ## Yargıtay 8. HD 2021/2990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668716500)
 
 Ne var ki dosya kapsamı incelendiğinde; dava ilk olarak 26.11.2010 tarihinde ... 1. Asliye Hukuk Mahkemesi'nde açılmış olup mahkemece 10.09.2013 tarihinde davanın 634 sayılı Kat Mülkiyeti Kanunu hükümlerine tabi olduğundan Sulh Hukuk Mahkemesinin görevli olduğu gerekçesiyle görevsizlik kararı verilmiştir. Karar temyiz edilmemekle 18.11.2013 tarihinde kesinleşmiş ve süresinde davacı tarafından talep edilmesi üzerine ... 2. Sulh Hukuk Mahkemesinde 2013/1045 Esasını almıştır. Bu defa Sulh Hukuk Mahkemesince 07.02.2014 tarihinde uyuşmazlık konusu yapının sözleşmedeki ve projedeki şartlara uygun yapılmadığı, bu bina ile ilgili yapı kullanma izin belgesinin alınmadığı ve binanın ruhsatsız olduğu dolayısıyla 634 sayılı Kat Mülkiyeti Kanunu hükümlerinin uygulanamayacağı gerekçesiyle Asliye Hukuk Mahkemesinin görevli olduğundan bahisle görevsizlik kararı verilmiştir. Davacı tarafından dosyanın görevli Asliye Hukuk Mahkemesine gönderilmesi istenilmişse de davalılar vekili tarafından hükmün temyizi üzerine Yargıtay 18. Hukuk Dairesinin 28.05.2015 tarihli ve 2014/20095 Esas ve 2015/8867 Karar sayılı ilamı ile dava konusu ana
 
@@ -119,29 +155,43 @@ taşınmazda kat irtifakı kurulmuş olup Kat Mülkiyeti Kanunu’nun 17. maddes
 
 ## Yargıtay 5. HD 2021/1948 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663365900)
+
 Dosyada ki bilgi ve belgelerin incelenmesinde Mahkemece Yargıtay 20. Hukuk Dairesi bozma ilamına uyularak yapılan araştırma da kat irtifakı kurulu anataşınmazda ,mahalli bilirkişi ve polis tutanaklarında yapının % 95 seviyesinde bitirildiğinin belirtildiği yine alınan uzman bilirkişi raporunda yapının iskan belgesi olduğundan anataşınmazın tamamlanmış kabul edilmesi gerektiğini mütaala ettiği görülmektedir. Kat Mülkiyeti Kanunu 17. maddesi son . fıkra hükmü “(Ek: 13/4/1983 - 2814/7 md.) Kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamam-lanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa, kat mülkiyetine geçil-memiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır. “demektedir. Mahalli bilirkişi beyanları ve polis tutanağından yapının tamamiyle bitmediği ayrıca bilirkişi raporunun aksine dosya içerisinde bulunan yapı kullanma izin belgesinin kısmi iskan belgesi olup toplam 38 bağımsız bölüm olan binada sadece 18 bağımsız bölüm için düzenlendiği anlaşıldığından uyuşmazlıkta Kat Mülkiyeti Kanunu hükümlerinin değil, genel hükümlerin uygulanması gerekmektedir. Buna göre görev hususu da genel hükümler uyarınca belirlenmelidir.
 
 ## Yargıtay 17. HD 2021/86 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657124100)
 
 634 sayılı Kat Mülkiyeti Kanunu'nun 19. maddesinde, her kat malikinin anagayrimenkule ve diğer bağımsız bölümlere, kusuru ile verdiği zarardan dolayı sorumlu olduğu hüküm altına alınmıştır. Aynı Kanun'un Ek 1. maddesinde, "kat mülkiyetinden kaynaklanan her türlü uyuşmazlığın değerine bakılmaksızın Sulh Hukuk Mahkemesi'nde çözümleneceği" düzenlemesine ve 17/3. maddesinde ise "kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa, kat mülkiyetine geçilmemiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır" düzenlemesine yer verilmiştir. Dosya kapsamında, rizikonun gerçekleştiği 27.05.2009 tarihi için Kat Mülkiyeti Kanununun 17/3 hükmü uyarınca mahkemenin görevli olup olmadığı konusunda yapılmış bir inceleme, keşif üzerine bu kapsamda alınmış bilirkişi raporu olmadığından mahkemenin görevli olup olmadığı noktasında bir değerlendirme yapılması mümkün değildir.
 
 ## Yargıtay 5. HD 2020/11070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622729300)
+
 634 sayılı Kat Mülkiyeti Yasasının 3.maddesinde, kat mülkiyeti, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulacağı, arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat malikinin veya kat irtifakı sahibinin arsa payının düzenlenmesi için mahkemeye başvurabileceği hükme bağlandığından; arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasına bağlıdır. Bu hususa dayalı istemlerde mahkeme bütün delilleri değerlendirerek bağımsız bölümün bedeli ile özgülenen arsa payını karşılaştırıp denklik sağlamaya çalışmalıdır. Söz konusu işlem yapılırken de, bağımsız bölümlerin cinsi, bulunduğu kat, alanı, ısınma sistemi,…
 
 ## Yargıtay 5. HD 2020/10472 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657510100)
 
 Kat Mülkiyeti Kanununun 33. maddesi uyarınca, bu Kanunun uygulanmasından kaynaklanan davalarda, kat mülkiyeti veya kat irtifakı kurulu ana taşınmazın bulunduğu yer mahkemesi yetkilidir. Anılan yetki, Yargıtay uygulamalarıyla kesin yetki olarak kabul edilmektedir.
 
 ## Yargıtay 5. HD 2020/10383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/659351600)
+
 634 sayılı Kat Mülkiyeti Kanununun 17/3. maddesine göre, “Kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa, kat mülkiyetine geçilmemiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır.”…
 
 ## Yargıtay 5. HD 2020/9848 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657208300)
+
 Kat mülkiyeti veya kat irtifakı kurulu anataşınmazda bağımsız bölüm ilavesi için, 634 sayılı Kat Mülkiyeti Kanununun 44.maddesinde aranan şartların yerine getirilmesi gerekir. Mahkemece, bağımsız bölüm ilavesi için proje tadilatına, kat maliklerinin yerine geçilerek karar verilemeyeceği anlaşılmakla; dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, verilen kararda bir isabetsizlik bulunmadığından yerinde görülmeyen temyiz itirazlarının reddi ile usul ve yasaya uygun olan hükmün ONANMASINA, peşin alınan temyiz ve temyize başvurma harçlarının Hazineye irad kaydedilmesine, 11/11/2020 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 17. HD 2020/5764 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609882700)
 
 Açıklanan tüm bu hukuki ve maddi vakıalar karşısında mahkemece; davalılara husumet yöneltilmesine neden olan bağımsız bölüm ile davacıya sigortalı konutun kullanımındaki taşınmazda davaya konu hasar tarihi itibariyle kat mülkiyetine geçilmediği anlaşılmakla,
 
@@ -149,13 +199,19 @@ KMK'nun 17/3. maddesi gereği, hasar tarihi itibariyle anataşınmazın üçte i
 
 ## Yargıtay 17. HD 2020/4670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596519800)
+
 634 sayılı Kat Mülkiyeti Kanunu'nun 19. maddesinde, her kat malikinin anagayrimenkule ve diğer bağımsız bölümlere, kusuru ile verdiği zarardan dolayı diğer kat maliklerine karşı sorumlu olduğu hüküm altına alınmıştır. Aynı Kanun'un Ek 1. maddesinde ise, kat mülkiyetinden kaynaklanan her türlü uyuşmazlığın değerine bakılmaksızın Sulh Hukuk Mahkemesi'nde çözümleneceği 17/3. maddesinde ise "kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa, kat mülkiyetine geçilmemiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır" düzenlemesine yer verilmiştir…
 
 ## Yargıtay 17. HD 2020/3757 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/590572700)
+
 Açıklanan tüm bu hukuki ve maddi vakıalar karşısında mahkemece; davalının yönetimindeki binada davaya konu hasar tarihi itibariyle kat mülkiyetine geçilmediği anlaşılmakla, KMK'nun 17/3. maddesi gereği, hasar tarihi itibariyle anataşınmazın üçte ikisinin fiilen kullanılıp kullanılmadığının araştırılması ve üçte ikilik kullanımın olması halinde, uyuşmazlığa yine kat mülkiyeti hükümlerinin uygulanacağının dikkate alınması gerekmesi nedeniyle uyuşmazlığın çözüm yerinin Sulh Hukuk Mahkemesi olabileceğinin mahkemenin davada görevli olup olmadığının hükümde tartışılması; mahkemenin görevli olduğu sonucuna varılması halinde işin esası hakkında hüküm tesisi; aksi halde ise, HMK'nun 114/1-c maddesine göre, görevsizlik nedeniyle HMK'nun 115/2. maddesi gereğince dava şartı yokluğundan davanın usulden reddine karar verilmesi gerekirken, yazılı olduğu biçimde hüküm tesisi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2020/3011 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598188500)
 
 634 sayılı Kat Mülkiyeti Kanununun 3. maddesi hükmüne göre; "kat mülkiyeti, veya kat irtifakı, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulur. Arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibi, arsa payının düzenlenmesi için mahkemeye başvurabilir." kanun gereğince; arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasıdır. Bu hususa dayalı istemlerde mahkeme tüm kanıtları
 

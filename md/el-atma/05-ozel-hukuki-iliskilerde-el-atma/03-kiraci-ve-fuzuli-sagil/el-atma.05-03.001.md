@@ -37,6 +37,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel D
 
 ## Yargıtay HGK 2025/497 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171874000)
+
 Taşınmazların tahliye ve teslimine ilişkin ilâmların icrası ise İİK'nın 24 ve 26. maddelerine göre gerçekleşir. Taşınmazlar açısından ilâmlı icra takibi taşınmazın kullanılmasına mâni olunan hâllerde bu engelin kaldırılmasına hizmet eder. Taşınmazların tahliye ve teslimine ilişkin İİK'nın 24. maddesi sadece mutlak ayni hakka dayanan talepler üzerine verilen mahkeme kararları açısından söz konusu olmaz. Örneğin kira sözleşmesine dayalı tahliye taleplerinde de bu hükümler uygulanır. Müdahalenin men'i talebini kabul eden mahkeme kararının yerine getirilmesi için de İİK'nın 24 ve 26. maddelerine göre ilâmlı takip yoluna başvurulması gerekir. Müdahalenin önlenmesine ilişkin ilâm tahliyeyi ve teslimi de kapsar (Baki Kuru, İcra ve İflas Hukuku, Ankara, 2013, s.963; Murat Atalı, İbrahim Ermenek, Ersin Erdoğan, İcra ve İflas Hukuku, Ankara, 2022, s.446).
 
 …
@@ -44,6 +46,8 @@ Taşınmazların tahliye ve teslimine ilişkin ilâmların icrası ise İİK'nı
 İcra İflas Kanunu Yönetmeliğinin 23. maddesinde; Taşınır teslimine veya taşınmaz tahliye ve teslimine ilişkin icra emri, (Örnek No 2) 25. maddesinde; Bir işin yapılmasına veya yapılmamasına, bir irtifak hakkının veya gemi üzerindeki intifa hakkının kaldırılmasına veya yükletilmesine ilişkin ilâmların yerine getirilmesinde icra emri …
 
 ## Yargıtay HGK 2009/29 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16784100)
 
 Davalı, davanın reddini savunmuştur.
 
@@ -136,6 +140,8 @@ Davacılar ve davalı ... Genel Müdürlüğü vekillerinin yerinde görülmeyen
 
 ## Yargıtay 5. HD 2025/963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139593300)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -158,6 +164,8 @@ Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyl
 
 ## Yargıtay 5. HD 2025/536 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133491700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, birleştirilen 2016/434 Esas sayılı davanın kabulüne, birleştirilen 2019/1 Esas sayılı davanın reddine karar verilmiştir.
 
 …
@@ -176,6 +184,8 @@ Mahkemece, yukarıda belirtilen şekilde inceleme ve araştırma yapılarak haz�
 Taraf vekillerinin temyiz itirazlarının kısmen kabulü ile Mahkeme kararının hüküm fıkrasının (A) bendinin (6) numaralı alt bendinin tamamen çıkartılması (9) numaralı alt bendinde yer alan “kabul red oranı dikkate alınarak 4.708,79-TL lik kısmanın davalıdan alınarak davacılara verilmesine, bakiye yargılama giderinin ise davacılar üzerinde bırakılmasına,” ibaresinin çıkartılması, yerine “davalı idareden alınarak davacılara verilmesine” ibaresinin yazılması, devamla hüküm fıkrasına ayrı bir bent olarak “Taşınmazın tapu kaydında yer alan takyidatların hüküm altına alınan bedellere yansıtılmasına” cümlesinin eklenmesi suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2024/9668 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121632700)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davanın kabulüne karar verilmiştir.
 
@@ -198,6 +208,8 @@ Kamu düzenine ilişkin olarak yapılan inceleme sonunda; Mahkeme kararının h�
 
 ## Yargıtay 7. HD 2024/5654 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108344700)
+
 Davacı vekili dava dilekçesinde; müvekkilinin dava konusu bağımsız bölümü 13.04.2018 tarihinde satın aldığını, davalıya Bakırköy 28. Noterliğince 18.11.2020 tarihinde gönderilen ihtarname ile söz konusu taşınmazı tahliye etmesinin istendiğini, Büyükçekmece 3. İcra Müdürlüğünün 2019/26907 Esas numaralı dosyası ile davalı hakkında başlatılan adi kira ve hasılat kiralarına ait takipte davalının borçlu ve kiracı olmadığı yönünde itirazda bulunarak taşınmazı hiçbir haklı sebebe dayanmadan kullandığını, haksız işgalci olduğunu belirterek taşınmazdan tahliyesine, 88.408,00 TL ecrimisil bedelinin yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -213,6 +225,8 @@ Asliye Hukuk Mahkemesinin 2019/186 Esas sayılı dosyası ile tapu iptal ve tesc
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/3085 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040902700)
 
 Davacı vekili dilekçesinde özetle; müvekkilinin, Amasya ili, ... Köyü, 105 ada 29 parsel de kayıtlı arsa niteliğinde ve üzerinde mesken bulunan taşınmaza 10.08.2016 yılından bu yana malik olduğunu, davalının taşınmazın önceki maliki olduğunu ve hala malik gibi davranmaya devam ettiğini, kiracı sıfatı dahi olmadan dava konusu taşınmazı mesken olarak kullandığını, davalının, taşınmazı müvekkilinin sözlü uyarılarına rağmen kullanmaya devam etmesinden dolayı ecrimisil isteme zarureti hasıl olduğunu, müvekkilinin, davalıyı tapuyu aldığı tarihten bu yana uyardığını, taşınmazı boşaltmasını istediğini, ancak davalının taşınmazı işgal etmeye devam ettiğini, davalıya 15.09.2021 tarihli Amasya .... Noterliğinin 05640 yevmiye numaralı ihtarnamesi ile taşınmazı 30 gün içerisinde tahliye etmesi ve ecrimisil ödemesi gerektiğini bildiren ihtarname gönderdiklerini, buna karşılık davalı tarafça Amasya ....
 
@@ -231,6 +245,8 @@ Mevkinde bulunan 105 ada 29 parsel sayılı taşınmazda fuzuli şagil olduğunu
 Davalı vekilinin yerinde bulunmayan temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/2826 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053369800)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davada davacılardan ...’nin ecrimisil isteğinin kısmen kabul-kısmen reddine, 14 parsel sayılı taşınmazda davacı ...’nin (22663/24022) hissesine yönelik davalının müdahalesinin men’ine ve taşınmazdan tahliyesine; davacılardan ... yönünden; 12 parselde kayıtlı taşınmaz için krokisinde A harfi ile gösterilen, 13 parselde B harfi ile gösterilen, 16 parselde C harfi ile gösterilen yerlere davalının müdahalesinin men’ine ve taşınmazdan tahliyesine, davacılardan ... yönünden; 14 parselde kayıtlı taşınmaz için (563/24022) davacı hissesine yönelik davalının müdahalesinin men’ine ve taşınmazdan tahliyesine, karşı dava yönünden; davanın kabulüyle 1.510.000,00 TL’nin karşı dava tarihinden itibaren işleyecek yasal faizi ile birlikte karşı davalı ...
 

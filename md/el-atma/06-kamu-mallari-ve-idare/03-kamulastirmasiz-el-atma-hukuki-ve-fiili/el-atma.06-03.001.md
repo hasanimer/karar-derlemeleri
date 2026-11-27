@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/1 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744276400)
+
 Davacılar vekili dava dilekçesinde; müvekkillerinin maliki oldukları Kocaeli ili Başiskele ilçesi Kullar köyünde kain 5598 parsel sayılı 1281 m² yüzölçümlü taşınmazın 35,64 m²'lik kısmına tecavüzlü bulunan trafo binasının çekilen noter ihtarnamelerine rağmen hâlen kaldırılmadığını, tüm bu nedenlerle davalının davaya konu taşınmaza vaki el atmasının önlenmesine, taşınmaz üzerindeki tesislerin kal'ine, fazlaya ilişkin hakları saklı kalmak kaydıyla 2000TL ecrimisile karar verilmesini talep etmiştir.
 
 …
@@ -32,6 +34,8 @@ Davalı SEDAŞ Genel Müdürlüğü vekili; ilk itirazlarının değerlendiriler
 Bu bağlamda kamulaştırmasız el atma kavramı hukuk sistemimize ilk olarak 16.05.1956 tarihli ve 1956/1 E. 1956/6 K. sayılı Yargıtay İçtihadı Birleştirme Kararı ile girmiş, bu içtihadı birleştirme kararından sonra 13.01.1961 tarihinde yürürlüğe giren 221 sayılı Kanun ile 6830 sayılı İstimlak Kanunu’nun yürürlük tarihi olan 09.10.1956 tarihinden önce idareler tarafından fiilen kamu hizmetine tahsis edilmiş bulunan taşınmazların kamulaştırılmış sayılacağı hükme bağlandığından, sadece 09.10.1956 tarihinden sonra fiilen el atılan taşınmazlar yönünden kamulaştırmasız el atmanın söz konusu olacağı kabul edilmiştir. 30.06.2010 tarihinde yürürlüğe giren 5999 sayılı Kanun ile 2942 sayılı Kamulaştırma Kanunu’na eklenen Geçici 6. madde ile ilk defa kamulaştırmasız el atma konusuna ilişkin yasal düzenleme yapılmış, daha sonra Geçici 6. madde 11.06.2013 tarihinde yürürlüğe giren 6487 sayılı Kanun ile değiştirilmiştir. Geçici 6. madde ile temel olarak 09.10.1956 ile 04.11.1983 tarihleri arasında kamulaştırmasız el atılan taşınmaz maliklerinin herhangi bir hak düşürücü süre olmaksızın bu madde hükümleri çevçevesinde dava açabilecekleri düzenlenmiştir.
 
 ## Yargıtay HGK 2021/1703 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737189200)
 
 4\.
 
@@ -49,6 +53,8 @@ C bendinde (§55-56) gösterilen gerekçelerle (3) numaralı uyuşmazlık yönü
 
 ## Yargıtay HGK 2015/1479 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115272200)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davaya bakmanın idari yargının görevi dahilinde olduğu kabul edilerek, dava dilekçesinin görev yönünden reddine karar verilmiş; hüküm, davacılar vekilince temyiz edilmiştir.
@@ -65,6 +71,8 @@ Bu kısıtlamalar dışında idarenin kişilerin taşınmazına eylemli olarak e
 S O N U Ç : Davacılar vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2005/17 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76557100)
 
 Mahkemece davanın kabulüne karar verilmiş, hüküm davalı idare vekilince temyiz edilmiştir.
 

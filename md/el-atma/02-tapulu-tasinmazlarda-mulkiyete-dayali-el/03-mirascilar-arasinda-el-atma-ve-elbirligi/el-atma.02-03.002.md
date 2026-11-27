@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2025/2208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163312700)
+
 Davacılar vekili; davalıların dava konusu taşınmazlarda fuzuli şagil olduklarını ileri sürerek; fazlaya ilişkin hakları saklı kalmak kaydıyla dava tarihinden geriye doğru 29.07.2016 - 29.07.2021 tarihleri arasındaki 5 yıllık döneme ilişkin ecrimisilin, dönemsel olarak işletilecek yasal faizi ile birlikte davalılardan tahsiline ve 202 ada 3 parsel sayılı taşınmaza yönelik el atmanın önlenmesine karar verilmesini istemiştir.
 
 …
@@ -37,6 +39,8 @@ Görülmekte olan davanın davalılar ... ve ... aleyhine açıldığı, bilahar
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 8. HD 2025/357 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117588300)
 
 Davacı ... vekili dava dilekçesinde; irsen intikal ve kazandırıcı zamanaşımı zilyetliğine dayanarak, çekişmeli 139 ada 2 ve 4 parsel sayılı taşınmazların kadastro tespitlerinin iptali ve müvekkilinin murisi ...'nın mirasçıları adına tescilini istemiştir.
 
@@ -57,6 +61,8 @@ Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 8. HD 2024/3762 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059898200)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda, davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -72,6 +78,8 @@ SONUÇ: Yukarıda açıklanan sebeplerle; temyiz olunan İlk Derece Mahkemesi ka
 
 ## Yargıtay 8. HD 2024/3678 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1065102500)
+
 Davacılar vekili; dava konusu taşınmazların müvekkillerinin murisine ait tapulu taşınmazlar olduğu iddiası ile mirasçılar adına tespit ve tescil isteminde bulunmuştur.
 
 İlk Derece Mahkemesince taşınmazların davacı ve diğer mirasçılar tarafından davalı murislerine satıldığı, satış bedelinin ödendiği, 1982 tarihinde davacı tarafça meni müdahale davası açıldığı ancak 1989 tarihinde açılmamış sayılmasına karar verildiği, zilyetliğin davalılarca Kadastro Müdürlüğüne sunulan 12.10.2009 tarihli itiraz dilekçe tarihine kadar itirazsız sürdürüldüğü, satış vaadi sözleşmesinde mirasçılardan Necla 'in imzası yok ise de bunun sözleşmeyi geçersiz kılmayacağı gerekçesi ile davanın reddine, taşınmazların tespit gibi tesciline karar verilmiş, davacılar vekilinin istinaf istemi Bölge Adliye Mahkemesince; mahkeme gerekçesi yanı sıra 3402 sayılı Kanun'un 13/B-c maddesi dikkate alındığında davacı tarafın dayandığı Siirt ili Eruh ilçesi ...
@@ -82,6 +90,8 @@ Köyü 9.05.1945 tarihli ve 41, 42, 43, 44, 45, 46, 47, 48 nolu tapu kayıtları
 -219 ada 3 parsel numaralı taşımazın tespit gibi tarla vasfı ile davalı davalı ... ve ... adına; ibarelerinin eklenmesine; hükmün düzetilmiş bu şekli ile ONANMASINA …
 
 ## Yargıtay 7. HD 2024/2682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040974800)
 
 İlk Derece Mahkemesi kararının davalı vekili tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince istinaf talebinin kabulü ile İlk Derece Mahkemesi kararının kaldırılarak esas hakkında yeniden hüküm kurulması suretiyle davanın kısmen kabulüne, kısmen reddine karar verilmiştir.
 
@@ -104,6 +114,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370'inc
 
 ## Yargıtay 1. HD 2024/2042 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064339700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda, asıl davada el atmanın önlenmesi ve karşı davada tapu iptali ve tescil davası yönünden verilen karar kesinleştiğinden yeniden karar verilmesine yer olmadığına, asıl davada ecrimisil isteğinin reddine karar verilmiştir.
 
 …
@@ -116,6 +128,8 @@ Asıl davada davalı-karşı davada davacı mirasçılarının temyiz itirazlar�
 Asıl davada davacı / karşı davada davalı vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 8. HD 2024/1865 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053370400)
 
 Davalı Hazine ve ..., davanın reddine karar verilmesini savunmuşlardır.
 
@@ -135,6 +149,8 @@ Muvafakat duruşmaya gelip bu konuda beyanda bulunmakla veya imzası noterce ona
 Yargıtay (Kapatılan) 20. Hukuk Dairesinin 24.05.2010 tarihli ve 2010/3930 Esas, 2010/6880 Karar sayılı karar düzeltme ile 17.11.2009 tarihli ve 2009/12814 Esas, 2009/16973 Karar sayılı onama ilamlarının kaldırılmasına …
 
 ## Yargıtay 7. HD 2024/855 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015101400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın konusuz kalması nedeniyle karar verilmesine yer olmadığına, karar verilmiştir.
 
@@ -158,6 +174,8 @@ Davacı tarafın Mahkeme kararına yönelik temyiz itirazının kabulü ile Mahk
 
 ## Yargıtay 5. HD 2024/489 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025082200)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -174,6 +192,8 @@ Dairemizce yapılan inceleme sonucunda; her ne kadar, 6487 sayılı Kanun ile 29
 sonucuna göre karar verilmesi gerekirken yazılı gerekçeyle davanın reddine karar verilmesi hatalı olduğundan kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2023/8711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974175700)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davanın kısmen kabulüne karar verilmiştir.
 
@@ -195,6 +215,8 @@ Asıl ve birleştirilen davaların davacıları vekilinin temyiz itirazları yer
 
 ## Yargıtay 5. HD 2023/6510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/923776400)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların kabulüne karar verilmiştir.
 
 …
@@ -214,6 +236,8 @@ Dairemizce yapılan inceleme sonucu; dava konusu Adana ili, Seyhan ilçesi, Kurt
 Davalı idare vekilinin temyiz itirazlarının kabulü ile, temyiz olunan Mahkemenin kararının sair hususlar incelenmeksizin BOZULMASINA …
 
 ## Yargıtay 8. HD 2023/6201 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986528800)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davacılar ... ... mirasçıları, ..., ..., ..., ..., ... ve arkadaşları ile asli müdahil ...'nın davasının reddine, asli müdahil ... ve arkadaşları, ...'ın davasının kısmen kabulüne, davacılar ... Köyü Tüzel Kişiliği ve ...'ın davasının kabulüne karar verilmiştir.
 

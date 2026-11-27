@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2015/6576 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/191071000)
+
 Davacı vekili dava dilekçesinde, dava konusu taşınmaza yol olarak davalı idare tarafından kamulaştırma işlemi yapılmadan el atıldığını belirterek, kamulaştırmasız el atma nedeniyle taşınmaz ve ecrimisil bedellerinin tahsilini istemiş; mahkemece, davanın idari yargı yerinde görülmesi gerektiğinden davanın usulden reddine karar verilmiştir.
 
 …
@@ -30,6 +32,8 @@ Buna göre, mahkemece davaya konu yere fiilen el atılıp atılmadığı, el at�
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 20. HD 2015/5138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/193946100)
 
 Davacı ... vekili tarafından ...... Asliye Hukuk Mahkemesi aracılığı ile kapatılan ..... Asliye Hukuk Mahkemesinde davacı ve kardeşlerine babalarından kalan ve tapuda kaydı bulunmayan taşınmazlara yönelik olarak açılan men'i müdahale davasının yargılaması devam ederken, dava konusu taşınmazların kadastro tespiti yapılarak 140 ada 13 parsel, 140 ada 16 parsel ve 193 ada 15 parsel numarası ile kadastro tutanakları düzenlenmiş ve taşınmazların davalı olması sebebiyle 3402 sayılı Kanunun 5. maddesi uyarınca tutanak asılları malik haneleri boş bırakılarak kapatılan ......
 
@@ -48,6 +52,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, ..... Yönetiminin temyiz itirazların
 
 ## Yargıtay 1. HD 2015/3522 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119529800)
+
 Dava, paydaşlar arasında imar parseline elatmanın önlenmesi, yıkım ve ecrimisil, karşı dava ise temliken tescil isteğine ilişkindir.
 
 Davacı, 707 ada 2 parsel sayılı taşınmazda davalı ile birlikte paydaş oldukları hâlde taşınmaz üzerindeki binanın davalı tarafından kiraya verilmek suretiyle kullanıldığını, kendisinin taşınmazdan yararlanamadığı gibi kira gelirinden de payına düşen kısmın ödenmediğini ileri sürerek, paya yönelik elatmanın önlenmesi, yıkım ve ecrimisil isteklerinde bulunmuştur.
@@ -62,6 +68,8 @@ O halde, yukarıda değinilen hususlar dikkate alınmaksızın mahkemece yazıl�
 Davalı vekilinin temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2014/6987 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105965800)
 
 Dava ve birleştirilen dava, çaplı taşınmaza elatmanın önlenmesi isteğine ilişkindir.
 
@@ -83,6 +91,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalılar vekilerinin temyiz
 
 ## Yargıtay 14. HD 2014/2245 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105524000)
+
 Davacı, dava konusu.. parsel sayılı taşınmazdaki kazarak çıkardığı suyu borularla.. parsel sayılı taşınmazına götürerek ağaçlarını suladığını, davalının suyun bulunduğu yerin 20 metre yakınına sondaj kuyusu açması nedeniyle suyun kuruduğunu belirterek davalının suya elatmasının kal suretiyle giderilmesini istemiştir.
 
 Davalı, Cebirli köyünde 65 hanenin bulunduğunu, köydeki suyun yetersiz olması nedeni ile sondaj kuyusunun açıldığını ileri sürerek davanın reddini savunmuştur.
@@ -99,6 +109,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 1. HD 2014/1465 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84563100)
+
 Dava, çaplı taşınmazlara elatmanın önlenmesi isteğine ilişkindir.
 
 Mahkemece, 445 parsel sayılı taşınmaz yönünden davanın reddine, 446 parsel sayılı taşınmaz bakımından ise davanın kabulüne karar verilmiş, hüküm taraflarca temyiz edilmiştir.
@@ -112,6 +124,8 @@ O halde, paydaşlar arasındaki elatmanın önlenilmesi davalarında öncelikle 
 Tarafların temyiz itirazı açıklanan yönler itibariyle yerindedir. Kabulü ile, hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/8119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79765200)
 
 Dava, el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -129,6 +143,8 @@ Hal böyle olunca; öncelikle davacının taraf sıfatına ilişkin tereddütler
 
 ## Yargıtay 5. HD 2013/6488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/266816900)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davanın pasif husumet yokluğu nedeniyle reddine karar verilmiş; hüküm, davacı vekilince temyiz edilmiştir.
@@ -142,6 +158,8 @@ Mahkemece, davanın pasif husumet yokluğu nedeniyle reddine karar verilmiş; h�
 Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U....nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2013/2944 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500521100)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -157,6 +175,8 @@ Davalılardan ... AŞ. vekilinin temyiz itirazları yerinde olduğundan hükmün
 
 ## Yargıtay 14. HD 2012/12952 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/758096300)
+
 Mahkemece, temliken tescil isteminin reddine, müdahalenin önlenmesi ve kal istemlerinin kabulüne karar verilmiştir.
 
 …
@@ -170,6 +190,8 @@ SONUÇ: Davalının karar düzeltme isteminin kabulü ile onamaya ilişkin Daire
 …
 
 ## Yargıtay 1. HD 2012/6985 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79364300)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi, eski hale iade, eski hale iade olmaz ise buna ilişkin bedelin tespitiyle tahsili istemine ilişkindir.
 
@@ -189,6 +211,8 @@ Davacı tarafın temyiz itirazları bu yönü ile doğrudur. Kabulü ile hükmü
 
 ## Yargıtay 5. HD 2012/1480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516240100)
+
 Dava, kamulaştırmasız el atılan taşınmazlar ve ecrimisil bedelinin tahsili istemine ilişkindir.
 
 Mahkemece davanın husumet yokluğu nedeniyle reddine karar verilmiş, hüküm davacı vekilince temyiz edilmiştir.
@@ -203,6 +227,8 @@ Davacı vekilinin temyiz itirazları yerinde olmadığından usul ve yasaya uygu
 
 ## Yargıtay 5. HD 2011/14816 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029935500)
+
 Dava, kamulaştırmasız el atılan taşınmaza yönelik müdahalenin önlenmesi ve tazminat istemine ilişkindir.
 
 Mahkemece, davalı ... yönünden davanın husumetten reddine, diğer davalı ...-... İnşaat Sanayi Ticaret AŞ ortaklığı yönünden kısmen kabulüne karar verilmiş, hüküm davalı şirket vekilince temyiz edilmiştir.
@@ -216,6 +242,8 @@ Dava konusu taşınmaza "Görele-Çanakçı yol genişletme" projesi kapsamında
 Davalı ...-... İnşaat Sanayi Ticaret AŞ Ortaklığı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U....nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/13892 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569962500)
 
 Davacı, 545 parsel sayılı taşınmazda intifa hakkı sahibi olduğunu, bayisi ... Petrol Tic. San.
 
@@ -235,11 +263,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabu
 
 ## Yargıtay 20. HD 2011/6188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/816029900)
+
 Mahkemece davanın kabulü yolunda hüküm kurulmuşu ise de; açılan dava 6831 Sayılı Yasanın 11. maddesi gereğince açılan tapu iptal ve tescil ile tapu kütüğünün beyanlar hanesindeki kullanım şerhinin silinmesi ve el atmanın önlenmesi davasıdır. Bu davalarda husumet, tapu maliki ile birlikte beyanlar hanesindeki kullanımı bulunduğu belirtilen kişilere yöneltilmelidir. Yargılama sırasında dava konusu 606 sayılı parselin tapu kütüğü kapatılarak 801, 802 ve 803 parsel olarak ifraz edildiğinin anlaşılması nedeniyle davalılar hazine ve ...'un yanında ifrazdan sonra oluşan 802 ve 803 sayılı parsellerde yararına kullanım şerhi bulunan kişilere de husumetin yöneltilmesi gerekmektedir. Açıklanan nedenle husumetin yaygınlaştırılması gerekirken bu yön gözden kaçırılarak uyuşmazlığın esastan çözümü yoluna gidilmesi usul ve yasaya aykırıdır.
 
 SONUÇ: Yukarıda açıklanan nedenlerle; davalılardan ... temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 5. HD 2011/5230 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1035091000)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -250,6 +282,8 @@ Yapılan incelemede; dava konusu taşınmazın 20.01.1987 onay tarihli 1/1000 ö
 Davacı vekilinin temyiz itirazları yerinde olmadığından hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2010/12469 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78767600)
 
 Davacı, paydaşı olduğu 1 parsel sayılı taşınmazın üst katının kendisine ait olduğunu, komşu 9170 parsel sayılı taşınmazın paydaşlarından davalının taşkın yapı nedeniyle müdahale ettiğini, bu nedenle çatı yapamadığını ileri sürerek, davalının taşınmazın çatı katına yapmış olduğu inşaatın yıktırılarak haksız müdahalesinin men’ine karar verilmesini istemiştir.
 
@@ -267,6 +301,8 @@ Davalı Ş..'in temyiz itirazları yerindedir. Kabulüyle, hükmün HUMK’nun 4
 
 ## Yargıtay 5. HD 2010/1487 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026383400)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece davanın kabulüne karar verilmiş, hüküm taraf vekillerince temyiz edilmiştir.
@@ -281,6 +317,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 18. HD 2009/8072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874161600)
+
 Dava, kat mülkiyetli anataşınmazın ortak yerlerine davalının elatmasının önlenmesi ile projeye aykırılıkların eski hale getirilmesi istemine ilişkin olup, davayı anataşınmazda kat maliki olmayan yönetici açmıştır.
 
 Kat Mülkiyeti Yasasının 35. maddesi yöneticinin görev ve yetkilerini belirlemiş olup, bunların arasında mülkiyet hakkının kullanılmasına bağlı olan ortak yere elatmanın önlenmesi davasını açma yetkisi ve görevi bulunmamaktadır. Bu nitelikteki bir davayı yöneticinin açabilmesi için anataşınmazda kat maliki olması ya da bu konuda kendisine kat malikleri kurulunca özel yetki verilmesi gerekir.
@@ -290,6 +328,8 @@ Geri çevirme kararı üzerine yönetime eldeki davayı açması konusunda yetki
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/4787 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78471900)
 
 Davacı, paydaşı olduğu 568 parsel sayılı taşınmazda bulunan binanın 1. katındaki daireye davalıların haksız olarak müdahale ettiklerini ileri sürerek, elatmanın önlenmesine ve ecrimisile karar verilmesini istemiştir.
 
@@ -309,6 +349,8 @@ Davalı N.’ın temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan
 
 ## Yargıtay 14. HD 2006/14551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853892000)
+
 Davacı idare davalıların aktif ... yatağına beton santrali atıklarını akıtarak oluşan elatmanın önlenmesini ve atıkların giderilme bedeli 3500 YTL’nin davalılardan tahsilini istemiştir.
 
 …
@@ -322,6 +364,8 @@ Yine bu bilirkişi raporlarından elatmanın 123 ada 9 parsel üzerindeki ... Be
 SONUÇ:Yukarıda yazılı nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2006/10549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855243600)
 
 4 parsel sayılı taşınmaz davacıya aittir. 5 parsel sayılı taşınmaz malikinin ise davalı değil, ... Örnek olduğu görülmektedir. Gerçekten, mahkemece yıkımı hüküm altına alınan duvarın davalı tarafından davacıya ait çap kapsamına el atılarak yapıldığı kanıtlanırsa duvar arza tabi olmayan basit nitelikteki yapı olduğundan davalının haksız elatmasının tapu maliki olup olmadığına bakılmaksızın giderilmesi gerekir. Duvarın davalı tarafından yapılmadığının anlaşılması halinde ise davanın 5 parselin kayıt maliki olan ... Örnek’e yöneltilmelidir. Çünkü, bu durumda çapa bağlı bir taşınmaz malikinin mülkiyet hudutlarını aşarak başka bir çapa bağlı taşınmaz malikine ait taşınmaza müdahalesi söz konusu olacaktır. O yüzden mahkemece yıkımı hüküm altına alınan duvarın davalı tarafından yapılıp yapılmadığı konusundaki taraf delilleri toplanmalı, duvar davalı tarafından yapılmışsa dava şimdiki gibi kabul edilmeli, aksi halde davadaki husumet 5 parsel sayılı taşınmazın kayıt malikine düşeceğinden husumet noktasından red olunmalıdır.
 

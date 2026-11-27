@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/104 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894712700)
+
 … muvazaalı eylemi kayıt maliki olan davalı ... ile el ve işbirliği içerisinde gerçekleştiren kişiler olup, eylemin haksız fiil niteliğinde bulunduğu gözetilerek davalılar ..., ... ve ...'in **yargılama gideri ve harç gibi hükmün ferilerinden davalı ... ile müteselsilen sorumlu tutulmaları gerekirken**…

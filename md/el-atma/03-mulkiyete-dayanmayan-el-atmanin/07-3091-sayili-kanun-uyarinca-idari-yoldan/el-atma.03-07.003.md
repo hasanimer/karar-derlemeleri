@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2012/1842 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571618100)
+
 Davacı ... vekili, miras yoluyla intikal, devir ve kazanmayı sağlayan zilyetlik nedeniyle Hazine üzerindeki 2114 parselin yaklaşık 10 dönümlük bölümüne ait tapu kaydının iptali ile vekil edeni adına, davaya katılan ... vekili ise, tescil konusu taşınmazın vekil edeninin miras bırakanından kaldığını, miras hakkının bulunduğunu belirterek vekil edeniyle davacı adına tapuya tesciline karar verilmesini istemiştir.
 
 …
@@ -32,6 +34,8 @@ Hükmüne uyulan Yargıtay 8. Hukuk Dairesinin 04/05/2006 tarih 2006/2572-3091 s
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak hüküm kurulmuş olduğuna göre, yerinde görülmeyen temyiz itirazlarının reddiyle, usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2011/2875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78710500)
 
 Davacılar, kayden miras bırakana ait 2 parsel sayılı taşınmaza davalıların hafriyat dökmek ve buna izin vermek suretiyle müdahale ettiklerini ileri sürerek, elatmanın önlenmesi ve tazminata karar verilmesini istemişlerdir.
 
@@ -50,6 +54,8 @@ Hal böyle olunca; taşınmaz üzerinde bulunan hafriyat ile davalıların bir i
 Davacıların, temyiz itirazları yerindedir. Kabulü ile, hükmün açıklanan nedenlerden ötürü HUMK.'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2010/10192 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78560400)
 
 Davacılar, paydaşı oldukları 658 ada 39 parsel sayılı taşınmazdaki 3 nolu bağımsız bölümün F. G.varislerinden Ş. G. diğer paydaşların da muvafakatıyla 01.10.1986 tarihli kira sözleşmesi ile A.
 
@@ -73,6 +79,8 @@ Davalının, bu yöne ilişkin temyiz itirazları yerindedir. Kabulü ile hükm�
 
 ## Yargıtay 4. HD 2010/3440 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1009680400)
+
 Davacı kooperatif, kendisine ait parseller ile davalının kardeşleri ile birlikte paydaş olduğu taşınmazlar arasındaki imar yoluna, site içi yol, yeşil alan ve 2 metre yüksekliğinde tel çit çekmek suretiyle tecavüz etmiştir. ... Kaymakamlığı'nın 19.12.2005 günlü kararı ile 3091 sayılı Yasa gereğince yola el atmasının önlenmesine karar verilmiş ve 23.12.2005 günü de karar uygulanarak, ... Belediyesi mücavir alanına giren yer adı geçen belediye yetkililerine teslim edilmiştir. 3091 sayılı Yasa gereğince verilen elatmanın önlenmesi kararının yerine getirilmesi (infazı) ile bu tel örgü ve beton direklerin sökülüp yolun imar parseline uygun hale getirilmiş olması gerekir. Oysa davacının 10.10.2007 gününde yaptırdığı tespite göre yerine getirme işleminin eylemli olarak yapılmadığı anlaşılmaktadır.
 
 …
@@ -85,6 +93,8 @@ reddedilen tutar üzerinden Avukatlık Asgari Ücret Tarifesi uyarınca hesap ve
 
 ## Yargıtay 12. HD 2009/10477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/69316100)
+
 Karadeniz Ereğlisi Kaymakamlığı'nın 3091 Sayılı Kanunun 2.maddesi gereğince verilen 29.1.2004 tarih ve 2004/3 sayılı tecavüz ve müdahalenin meni kararı, ilamlı takibe konu yapılarak borçluya icra emri gönderilmiştir. Anılan yasa uyarınca verilen müdahalenin men'ine dair kararların infazı, idari makamlara aittir. Ancak, alacaklının yetkili mercii nezdinde yapılan ve belgelenen bu iş nedeniyle yaptığı masrafların, aynı kanunun 17/5-2 maddesine göre icra daireleri kanalı ile tahsili mümkündür.
 
 …
@@ -93,11 +103,15 @@ SONUÇ :Borçlu vekilinin temyiz itirazlarının kabulü ile mahkeme kararının
 
 ## Yargıtay 14. HD 2007/14707 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853278600)
+
 Bundan ayrı, davacı köy muhtarlığının kaymakamlığa yaptığı benzer şikayet üzerine idarece 3091 sayılı yasa hükümleri uyarınca yapılan inceleme sonucunda da; mera olduğu iddia edilen yere el atma tespit edilemediğinden davacı köy muhtarlığı isteminin reddine karar verilmiştir. Bu kararda 30.5.2005 tarihlidir. Dava 31.05.2006 tarihinde açıldığına göre, davanın açıldığı tarih itibariyle davacıların kendi taşınmazlarının çapı dışında fazladan bir yer kullanmadıkları anlaşıldığından davanın reddine karar verilecek yerde, yeterli kanıt bulunmadığı halde istemin kabulü doğru görülmemiş hükmün bozulması gerekmiştir.
 
 SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2006/13566 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16228100)
 
 Mahkemece, teknik bilirkişi krokisinde 7444 m2 yüzölçümündeki taşınmaz hakkındaki davanın kabulü ile davacılar ve dahili davalılar adlarına tapuya tesciline karar verilmiş, hüküm davalılar Hazine ve Orman Yönetimi tarafından temyiz edilmiştir.
 
@@ -110,6 +124,8 @@ Mahkemece, teknik bilirkişi krokisinde 7444 m2 yüzölçümündeki taşınmaz h
 SONUÇ: Yukarıda açıklanan nedenlerle; davalılar Hazine ve Orman Yönetiminin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## İstanbul BAM 3. HD 2023/916 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877793600)
 
 Asliye Ticaret Mahkemesi 2021/331 E., tanık, bilirkişi incelemesi, keşif, yemin ve diğer yasal delillerden ibarettir.Dava konusu uyuşmazlık değeri 50.000,00 TL olup senetle ispat sınırının üzerinde kal maktadır.Dava ve takip bono üzerinde hangi amaçla düzenlendiği, bedelinin malen veya nakden ahzolunduğu hususunda bir ibareye yer verilmediği gibi söz konusu bononun taşınmaz satış bedelinin ödenmesi yani "ifa" amacıyla düzenlendiğine ayrıca bononun anlaşmaya /hukuka aykırı şekilde doldu- rulduğuna dair taraflarca düzenlenmiş bir protokol, harici satış sözleşmesi vs de ibraz etmemiştir. Diğer yandan açığa imza atılması halinde de açığa imza atanın sonuç ve işlemlerine katlanması gerekeceği de yerleşik yargı kararlarında işaret edilmiştir. (Yargıtay 3. Hukuk Dairesi'nin 2021/3533 E.- 2021/6986 K. Nolu ilamı) Silivri 1.
 Asliye Hukuk Mahkemesi'nde açılan ve taraflar arasında görülen 2021/52 E. nolu tapu iptal ve tescil davasında davacı, taşınmazın 750.000,00 TL'ye devri hususunda anlaşmaya varıldığını, 400.000,00 TL'nin peşin 350.000,00 TL'nin tanıklar huzurunda taksitler halinde ödendiğini iddia etmiş, taşınmaz bedeline karşılık bono düzenlendiği yönünde bir iddia ve beyanda bulunma- mıştır. Davalı ise taşınmaz satışına dair bir anlaşmanın varlığını ve ödeme yapıldığı iddiasını tümden reddetmektedir.Kaymakamlığa ait dosya, 3091 sayılı yasa kapsamında taşınmaz mal zilyetliğine yapılan tecavüzün önlenmesi talebine ilişkin olup tetkikinde, davalı tarafın başvurusunun reddedildiği anlaşılmakta ise de, dosya içeriğinde dava konusu bono ile ilgili bir bilgiye yer verilmemiştir.İhtiyati haciz kararına ilişkin değişik iş dosyası, bu kararın talimat yoluyla infazına dair icra müdürlüğü dosyası içeriğinde de davacının iddiasını ispata yarar bir beyan vs delil yoktur.Söz konusu bono bedelinin ödendiğine dair bir savunma ileri sürülmemiş, buna dair dekont vs ödeme belgesi de sunulmamıştır.Gelinen bu aşamada davacı iddialarını yazılı delil ile ispat edememiştir.

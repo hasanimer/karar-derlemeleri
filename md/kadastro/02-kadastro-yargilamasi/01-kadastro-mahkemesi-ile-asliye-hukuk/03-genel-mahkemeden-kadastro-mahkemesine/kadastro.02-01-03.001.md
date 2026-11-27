@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2008/243 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76684300)
+
 Somut olayda, davanın açıldığı tarihte mahkeme görevli olup, daha sonra kadastro çalışmalarının başlaması ve taşınmaz hakkında tatanak düzenlenmesi nedeniyle, mahkemece 3402 sayılı Kadastro Kanununun 27.maddesi uyarınca, yasa gereği görevsizlik kararı verilmiştir.Bu durumda, yasadan kaynaklanan bir gönderme nedeniyle, davalı yararına vekâlet ücretine hükmedilemeyeceğine yönelik direnme kararı usul ve yasaya uygun olup, yerindedir.Onanması gerekir.
 
 ## Yargıtay HGK 2006/623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77062100)
 
 Bundan sonra genel mahkemelerin, kadastro tutanağı düzenlenmiş bulunan davalara bakması olanaklı değildir. Genel mahkemeler tarafların isteğine bağlı olmadan, dosyayı bir görevsizlik (devir ve tevdi) kararı ile kadastro mahkemesine aktarır. Hemen belirtilmelidir ki, mahalli mahkemelerce doğrudan doğruya verilen aktarma kararı, teknik anlamda bir görevsizlik kararı değil, sadece bir devir kararıdır. Bu nedenle, bu devir kararı hakkında Hukuk Usulü Muhakemeleri Kanunu’nun 193. maddesi hükmü uygulanmaz ve bundan dolayı davacı yargılama giderlerine ve vekalet ücretine mahkum edilemez (İhsan Özmen-Halim Çorbalı, 3402 sayılı Kadastro Kanunu Şerhi, Genişletilmiş 2. Baskı, Ankara-1991 s:1071).
 
@@ -37,8 +41,12 @@ Bilindiği üzere; 3402 sayılı Kadastro Kanunu'nun 27. maddesinde; mahalli huk
 
 ## Yargıtay 17. HD 2014/19802 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379860300)
+
 Öte yandan yerleşik ... içtihatlarına göre Kadastro Mahkemeleri, genel mahkemeden aktarılan el atmanın önlenmesi talebi ile ilgili uyuşmazlığa bakmak ve bu talep ile ilgili karar vermek zorundadır. Ancak, Kadastro Mahkemeleri, yenilik doğurucu hüküm kurmayı gerektiren kal istemi hakkında karar veremezler. Hal böyle olunca Kadastro mahkemesinin, kal talebi yönünden davayı tefrik etmesi gerekmektedir. Sonuç olarak, kal talebi yönünden tefrik kararı verilmesi gereği göz önünde bulundurulmak suretiyle, çekişmeli taşınmazın kadastro tespit tutanağı henüz kesinleşmemiş olduğundan ve nizalı taşınmazın kadastro tespit tutanağının sehven kesinleştirilerek tapu kaydının oluşturulması gerçek durumu ortadan kaldırmayacağından, uyuşmazlığın ... Kadastro Mahkemesi'nde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 14. HD 2013/7826 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525950900)
 
 2- 3402 sayılı Kadastro Kanununun 27. maddesine göre mahalli hukuk mahkemelerinde görülmekte olan davalarda, dava konusu taşınmaza ilişkin kadastro tutanağı düzenlendiği tarihte genel mahkemenin görevi sona erdiğinden davaya ait dosyanın kadastro mahkemesine re’sen devredilmesi gerekir. Somut olayda, mahkemece anılan yasa maddesi uyarınca görevsizlik kararı ile dosyanın kadastro mahkemesine gönderilmesine karar verildiği halde re’sen gönderilmeyerek ek karar ile davanın açılmamış sayılmasına karar verilmesi doğru görülmediğinden 23.02.2011tarihli ek kararın kaldırılmasına karar verilerek hükmün incelemesine geçilmiştir.

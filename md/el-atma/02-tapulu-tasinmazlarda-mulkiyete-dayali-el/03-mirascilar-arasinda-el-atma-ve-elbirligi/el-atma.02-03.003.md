@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2023/5303 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914748700)
+
 Davacı vekili dava dilekçesinde; ... ili, ... ilçesi, ... Mahallesi 142 ada 26 parsel sayılı taşınmaza kamulaştırmasız el atılarak üzerine pilon dikilip enerji nakil hattı geçirildiği belirtilerek pilon yeri bedeli ile irtifak hakkı karşılığının tahsilini talep etmiştir.
 
 …
@@ -38,6 +40,8 @@ Mahallesinde bulunan 142 ada 26 parsel sayılı taşınmazın kadastro tespit ç
 Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/4566 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969008000)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; el atmanın önlenmesi talebinin kabulüne, kal talebinin reddine karar verilmiştir.
 
@@ -60,6 +64,8 @@ ait olup olmadığının araştırılması, kök tapu kaydının beyanlar hanesi
 Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/4205 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979282400)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; el atmanın önlenmesi talebi konusuz kaldığından karar verilmesine yer olmadığına ecrimisil talebinin kabulüne karar verilmiştir.
 
@@ -90,6 +96,8 @@ Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usu
 
 ## Yargıtay 7. HD 2023/2551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915804800)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın ecrimisil istemi yönünden kabulüne, el atmanın istemi yönünden karar verilmesine yer olmadığına, yıkım istemi yönünden husumetten reddine karar verilmiştir.
 
 …
@@ -113,6 +121,8 @@ bile bulunmadığı halde) davalı olarak işin esası hakkında karar verilmesi
 
 ## Yargıtay 7. HD 2023/943 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897366900)
+
 Davacılar vekili; ... Mahallesi, 103 ada 6, 102 ada 56, 59 ve 71 parseller ile Güneşli Mahallesi 108 ada, 135 parsel sayılı taşınmazların tarafların ortak murisinin mülkiyetinde olduğu, davacıların da hisseleri bulunduğu halde taşınmazların tamamının davalılarca kullanıldığını, taşınmaz üzerindeki fındık ürününü her sene davalıların topladıklarını, davacıların paylarına düşen kısmı kullanmalarına davalılarca müsaade edilmediğini beyan ederek; davalıların taşınmazlara yönelik vaki müdahalelerinin men'ine ve belirsiz alacak davası olarak dava tarihinden geriye doğru 5 yıl için hesaplanacak ecrimisil bedellerinin yasal faiziyle davalılardan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -129,6 +139,8 @@ eksik harç yönünden ise "Harçlar Kanuna göre alınması gerekli 27.240,35 T
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/306 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896464700)
 
 Davacı vekili dava dilekçesinde; davacıların muris ...'ın mirasçıları olduklarını, muris Kerime'nin Lüleburgaz 3. Noterliğinin 24.06.2016 tarih 4868 yevmiye sayılı vasiyetnamesi ile tüm malvarlığının 2/3'ünü TSK Mehmetçik Vakfına, 1/3'ünü T. Kızılay Derneğine bıraktığını, muris Kerime'nin İstanbul Cerrahpaşa Hastanesi Ruh ve Sinir Hastalıkları bölümünde 1984-1985 yıllarında şizofreni tedavisi gördüğünü, İstanbul Haseki Hastanesi Ruh ve Sinir Hastalıkları bölümünden alınan 28.05.2014 tarih 2990 sayılı raporda murisin 'akli melekelerinin yerinde olmadığının' yazılı olduğunu, murisin terekesinde iki adet taşınmazının bulunduğunu belirterek, vasiyetnamenin TMK'nın 502 nci maddesi gereğince ehliyetsizlik nedeniyle geçersiz olduğundan iptalini, kabul edilmediği takdirde tasarrufların aynen veya nakten tenkisini talep etmiştir.
 
@@ -148,6 +160,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933421600)
+
 Davacı vekili; müvekkilinin dava konusu taşınmazı davalılardan haricen satın aldığını, taraflar arasında Yeşilhisar Asliye Hukuk Mahkemesinin 2011/109 Esas, 2013/9 Karar sayılı dosyasından görülen harici satın alamaya dayalı tapu iptal ve tescil istemli davada tapu iptali ve tescil isteminin reddedilerek Yargıtay onama ilamı sonrasında 27.02.2014 tarihinde kesinleşen karara göre harici satış işleminin geçersiz olup tarafların harici satış nedeniyle vermiş oldukları bedelleri geri isteyebileceklerini, bu kapsamda Kayseri ili, Yeşilhisar ilçesinde bulunan 76 ada 569 parsel sayılı taşınmazı haricen 3.742 USD (Dolar) karşılığı 3.000,00 TL’sini peşin olarak elden ödemek kaydıyla satın aldığını ancak davalıların taşınmazın devrini vermedikleri gibi aldıkları bedeli de iade etmediklerini, ayrıca sözleşmede davalı ...’in kayıt maliki kardeşlerini ikna edemeyip dava konusu taşınmazın devrini veremediği takdirde 5.000 USD (Dolar) cezai şartı vereceğini kabul ve taahhüt ettiğini ileri sürerek; fazlaya ilişkin hakları saklı kalmak kaydıyla TBK'nin 77. maddesi ve devamındaki sebepsiz zenginleşme hükümleri uyarınca; davalılara ödediği harici satış bedelinin şimdilik 3.000,00 TL'nin ve satış
 işlemin gerçekleşmemesi nedeniyle 5.000 USD (Dolar) cezai şartın dava tarihinden itibaren işleyecek yasal faiziyle davalılardan tahsiline karar verilmesini talep etmiş; yargılama sırasında 12/07/2017 tarihinde ıslah suretiyle bilirkişi tarafından belirlenen 51.824,34 TL bedelin dava tarihinden işleyecek yasal faiziyle birlikte tahsilini istediğini beyan etmiştir.
 
@@ -162,6 +176,8 @@ Sayılı tapu iptal ve tescil istemli dosyanın kesinleştiği, 27/02/2014 tarih
 Taraf vekillerinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 1. HD 2022/3776 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/819726100)
 
 Davacılar ... ve arkadaşları çekişmeli 106 ada 28 ve 149 ada 2 parsel sayılı taşınmazların kök müşterek muris ...’tan intikal ettiği, ... terekesinin taksim edilmediği iddiasıyla, miras yoluyla gelen hakka dayalı olarak tapu iptali ve ... mirasçılarının tamamı adına miras payı oranında tescili, öte yandan 106 ada 28 parsel sayılı taşınmaz üzerinde davalı ...’ün vaki müdahalesinin meni ve eski hale getirme isteğiyle dava açmıştır.
 
@@ -180,6 +196,8 @@ Açıklanan nedenlerle; davacılar vekilinin temyiz itirazlarının reddiyle usu
 
 ## Yargıtay 7. HD 2022/567 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728485400)
+
 Davalılar, davanın reddini savunmuştur.
 
 …
@@ -194,6 +212,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı ... vekilinin temyiz itirazlar�
 
 ## Yargıtay 8. HD 2021/13192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787520700)
+
 Mahkemece, bozma ilamına uyularak yapılan yargılama sonunda, davacı ... ve arkadaşlarının Kadastro Müdürlüğüne yönelik davalarının husumet yokluğu nedeniyle reddine, davacı ... ile müdahiller ... ve arkadaşlarının davalarının feragat nedeniyle reddine, davacı ... ve aynı tapu kaydına dayanan dava arkadaşlarının davalarının esastan reddine, ... ve arkadaşlarının davasının kabulü ile çekişmeli 113 ada 6 parsel sayılı taşınmazın payları oranında adı geçenler adına tapuya tesciline karar verilmiş; hüküm, aynı temyiz dilekçesi ile davacı ... vekili (vekil kendi adına da asaleten temyiz etmiştir) ve davacılar ... vekili, davacı ... vekili, davacı ... ve arkadaşları vekili ve davalı Hazine vekili tarafından temyiz edilmiştir.
 
 …
@@ -205,6 +225,8 @@ Dava konusu taşınmazın kadastro tespitinin yapılmasından önce, davacı ...
 SONUÇ: Yukarıda açıklanan nedenlerle, davacı ... vekili (vekil kendi adına da asaleten temyiz etmiştir.) ve davacılar ... vekili, davacı ... vekili, davacı ... ve arkadaşları vekili ve davalı Hazine vekilinin temyiz itirazları yerinde olduğundan kabulü ile Yerel Mahkeme hükmünün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'un 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 1. HD 2021/5806 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/711174800)
 
 Dava, tapu iptali ve tescil isteğine ilişkindir.
 
@@ -228,6 +250,8 @@ Davacıların yerinde bulunan temyiz itirazının kabulü ile 6100 sayılı Huku
 
 ## Yargıtay 5. HD 2021/4254 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670735700)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiş; kararın kesinleşmesinden önce davacı vekili; davacılardan ...'ın 18/12/2014 tarihinde vefat ettiğini ... 'ın ... dışındaki bütün mirasçıları ve diğer davacı ... açısından davayı geri aldıklarını, davalı vekili 02.03.2020 havale tarihli dilekçesi ile; davanın geri alınması taleplerini kabul ettiklerini beyan etmiş, mahkemece 11.03.2020 tarihli ek karar ile dosya üzerinden, davacı ... ile davacı ...'ın ... Merkez Atatürk Mahallesi ...
@@ -240,12 +264,16 @@ Bir kısım davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün
 
 ## Yargıtay 5. HD 2021/2789 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642865200)
+
 Dosyada bulunan kanıt ve belgelere göre; dava konusu ... mahallesi 131 parsel sayılı taşınmazın 1955 yılında yapılan kadastro tespit çalışmaları sonucunda ... oğlu ... mirasçıları adına tescil edildiği, ... Organize Sanayi Bölgesi alanında kalan taşınmazın 12/04/1973 tarihinde kamulaştırılmasına karar verildiği, taşınmazın kıymet takdiri sonucu tespit edilen bedelinin Türkiye Ziraat Bankası ... Şubesine bloke edildiği, Arsa Ofisi Genel Müdürlüğü tarafından ... 2. Asliye Hukuk Mahkemesinin 1974/533E.-1975/23K. sayılı dosyası ile açılan tenkis-i bedel davasında eldeki dosya davacılarının murisi ...'nın vekil aracılığıyla davayı takip ederek kamulaştırma işleminden haberdar olduğu, tenkis-i bedel davasında davanın reddine dair verilen kararın kesinleştiği, Arsa Ofisi Genel Müdürlüğü tarafından ...2. Asliye Hukuk Mahkemesinin 1976/62E.-1976/266K. sayılı dosyası ile 6830 sayılı Kanunun 17. maddesi uyarınca tescil davası açıldığı, yapılan yargılama sonucunda kamulaştırma işlemi kesinleştiğinden taşınmazın tapu kaydının iptali ile Arsa Ofisi Genel Müdürlüğü adına tesciline karar verildiği, daha sonra taşınmazın ... Bölgesi Sanayi Odasına devredildiği, halen de ünvan tahsisi sebebiyle ...
 Organize Sanayi Bölge Müdürlüğü adına kayıtlı olduğu anlaşılmıştır.Dava konusu taşınmazdaki davacılar murisi payının 2942 sayılı Kamulaştırma Kanununun 17. maddesi uyarınca mülga Arsa Ofisi Genel Müdürlüğü adına tescil edildiği gerekçesiyle davanın reddine karar verilmiş ise de; 13.03.2015 gün ve 29294 sayılı Resmi Gazete'de yayınlanan Anayasa Mahkemesinin 13.11.2014 gün ve 2013/95-2014/176 sayılı kararı ile 6487 sayılı Kanunun 22. maddesi ile 2942 sayılı Kanun eklenen geçici 7.maddenin iptal edildiği anlaşılmakla bu maddenin uygulanması mümkün değildir.Bu nedenle; dava konusu taşınmaza ilişkin kesinleşmiş geçerli bir kamulaştırma işlemi bulunduğundan ve kamulaştırmasız el atmadan söz edilemeyeceğinden davanın reddine karar verilmesinde bir isabetsizlik görülmemiştir.Ancak;
 
 Resmi Gazete'de yayımlanarak yürürlüğe giren 7201 Kanunun 5. maddesi ile 2942 Sayılı Kamulaştırma Kanununa eklenen EK 2.maddesi uyarınca;29/04/1969 tarihli ve 1164 sayılı Arsa Üretimi ve Değerlendirilmesi Hakkında Kanun kapsamında 08/12/2004 tarihinden önce yapılmış olan kamulaştırma ve avans karşılığı kamulaştırma iş ve işlemlerine ilişkin davalar ... aleyhine açılır. Avans karşılığı kamulaştırmalarda rücu davalarını Bakanlık açar, takip eder ve sonuçlandırır. Bakanlık bu davalarda davalı ... davacı olabilir.Yine aynı Kanunun 7. maddesi İle 2942 sayılı Kamulaştırma Kanununa geçici 15. madde eklenmiş olup, bu maddeye göre "1164 sayılı Kanun kapsamında 08/12/2004 tarihinden önce yapılmış olan kamulaştırma ve avans karşılığı kamulaştırma iş ve işlemlerine ilişkin olarak TOKİ Başkanlığı leh ve aleyhine yargı merciİIerinde açılmış veya husumet yöneltilmiş davalar ile icra takipleri ek 2. madde hükmü uygulanarak sonuçlandırılır...” hükmü getirilmiştir.7201 sayılı Kanunun 5 ve 7 maddesi uyarınca ... yasal hasım olduğu halde TOKİ aleyhine hüküm kurulması, gerektiğinden Gerekçeli kararın karar başlığında davalı bölümüne (...) cümlesinin yazılmasına,Hükmün böylece DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 14. HD 2021/2390 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671972200)
 
 Dava, mülkiyet hakkına dayalı elatmanın önlenmesi ve kal isteğine ilişkindir.
 

@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/997 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/899412800)
+
 … suretiyle yapılan elden bağışlama sözleşmeleri hiçbir biçim koşuluna bağlı değildir. Bu nedenle de, gizlenerek yapılan bağışlama niteliğindeki tasarruf geçerlidir. Mirasbırakan tarafından **tapusuz taşınmazların zilyetliğinin devri suretiyle gerçekleştirirken geçerli işlemlere karşı 01.04.1974 tarih ve 1/2 sayılı İçtihadı Birleştirme Kararının uygulama yeri yoktur**.
 
 ## Yargıtay HGK 2024/423 K. (direnme; tapusuz taşınmaz olup olmadığı)

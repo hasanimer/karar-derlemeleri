@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2024/347 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055710600)
+
 İlk Derece Mahkemesince yeniden yapılan yargılama sonunda davalı ... yönünden davanın kabulüne, diğer davalı ... yönünden davanın reddine karar verilmiştir.
 
 …
@@ -44,6 +46,8 @@ Davalı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının yuk
 
 ## Yargıtay HGK 2017/1191 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/348352900)
+
 Mahkemece, davanın reddine dair verilen karar Dairece, el atmanın önlenmesi istemi bakımından harç yatırılmadığından bahisle bozulmuş, mahkemece bozma kararına uyulmak suretiyle dava konusu yerin 1289 tarih ve 23 sıra numaralı tapu kaydı kapsamında kalmadığı, milli park sınırları içerisinde kaldığı gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -63,6 +67,8 @@ Diğer yandan, tereke (miras ortaklığı) TMK'nın 701 ve devam eden maddeleri 
 Mahkemece, taşınmazın davacının dayandığı 1289 tarih 23 sıra nolu tapu kaydının kapsamı dışında kaldığı, Köprülü Kanyon Milli Parkı sınırları içinde bulunduğu, kazandırıcı zamanaşımı ile tapuya bağlanmasının mümkün olmadığı, davacının zilyedliğe değil tapu kaydına dayandığı gerekçesiyle davanın reddine karar verilmiş …
 
 ## Yargıtay HGK 2010/372 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16994600)
 
 Dava, tenkis isteğine ilişkindir.
 
@@ -84,6 +90,8 @@ S O N U Ç : Davalı vekilinin temyiz itirazlarının reddi ile, direnme kararı
 
 ## Yargıtay HGK 2006/560 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77006300)
+
 Mahkemece, yanlar arasındaki payların kullanımının engellenmesi dolayısı ile çıkan hukuki çekişmenin ihtarla giderilmesine, diğer isteklerin ise reddine karar verilmiştir.
 
 …
@@ -91,6 +99,8 @@ Mahkemece, yanlar arasındaki payların kullanımının engellenmesi dolayısı 
 Paylı mülkiyette taşınmazdan yararlanamıyan paydaş, engel olan öteki paydaş veya paydaşlardan payına vaki elatmanın önlenilmesini her zaman istiyebilir. Hatta elbirliği mülkiyeti de dahi paydaşlardan biri öteki paydaşların olurlarını almadan veya miras şirketine temsilci atanmadan tek başına ortak taşınmazdan yararlanmasına engel olan ortaklar aleyhine elatmanın önlenilmesi davası açabilir. Ancak, o paydaşın, payına karşılık çekişmesiz olarak kullandığı bir kısım yer varsa açacağı elatmanın önlenilmesi davasının dinlenme olanağı yoktur. Yerleşmiş Yargıtay İçtihatlarına ve aynı doğrultudaki bilimsel görüşlere göre payından az yer kullandığını ileri süren paydaşın sorununu elatmanın önlenilmesi davası ile değil, kesin sonuç getiren taksim veya şuyun satış yoluyla giderilmesi davası açmak suretiyle çözümlemesi gerekmektedir.
 
 ## Yargıtay HGK 2001/143 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16138100)
 
 Mahkemece bozmaya uyulduktan sonra yapılan araştırma, inceleme ve uygulama dahi hüküm kurmaya yeterli değildir. Dava ve hüküm tarihinde yürürlükte bulunan 3402 sayılı Kadastro Yasasının 27/3. maddesinde Asliye Mahkemesinden aktarılan ve henüz kesinleşmemiş olan davalara kaldıkları noktadan bu yasada öngörülen esas ve usul dairesinde devam olunacağı hükme bağlandığına göre, öncelikle Asliye Mahkemesinde davaya konu edilen yerin 103 ada 12 parsel olup olmadığının keşfen belirlenmesi gerekir. Mahkemece bu yönde herhangi bir belirleme yapılmamıştır. Diğer taraftan bozma ilamındaki kabulün aksine Haziran 1289 tarih 63 nolu tapu kaydı ile 1937 tarih 124 tahrir nolu vergi kaydının dava konusu taşınmazla dava dışı 11 ve 13 nolu parsellere aidiyeti keşfen saptanmadığı gibi, tarafların bu konuda açık bir kabulleri de bulunmamaktadır.
 Hükmüne uyulan bozma ilamında H ve CT dışındaki tesbit bilirkişileri ile İA'ın dinlenerek, taşınmazın tapu maliki M'ten İA tarafından mı satın alındığı, yoksa DA'a mı ait olduğu konusunda olaylara dayalı olarak bilgilerinin alınması özellikle tutanak bilirkişileri ile duruşmada dinlenen tanık sözleri arasındaki çelişkinin giderilmesi, bu arada taşınmazda kimin hangi tarihten beri zilyet olduğu ve zilyetliğin sürdürülüş biçiminin sorulması gereğine değinildiği halde HT, KA ve NK'nın dinlenilmeleriyle yetinilmiş, başkaca araştırma yapılmamış, adı geçenlerin ifadeleri arasındaki çelişkinin giderilmesine dahi çalışılmamıştır. Bozma ilamına uyulmakla lehine olan taraf yararına usulü kazanılmış hak, mahkemeye de bozma gereklerini tam anlamıyla yerine getirme yükümlülüğü doğar. Mahkemece bu yönler dikkate alınmaksızın yazılı olduğu üzere eksik incelemeye dayalı hüküm tesis edilmiş olması doğru değildir.
@@ -189,6 +199,8 @@ Davalı ... vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile
 
 ## Yargıtay 5. HD 2025/12464 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187032700)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkin asıl ve birleştirilen davaların kabulüne, asıl davadaki ecrimisil talebinin reddine, birleştirilen 2013/520 Esas sayılı davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -207,6 +219,8 @@ Davalı idare vekilinin temyiz itirazlarının kabulü ile Mahkeme kararının B
 
 ## Yargıtay 5. HD 2025/6609 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155589400)
+
 Davacılar vekili dava dilekçesinde özetle; dava konusu taşınmazın belediye imar planlarında park alanı olarak ayrıldığını, belediye tarafından kiraya verilmek sureti ile tasarrufta bulunulduğunu, bu durumdan dolayı davalı belediyenin davacıların taşınmazı fiilen kullanmalarına engel olduğunu, bu tasarrufun dava konusu taşınmaza kamulaştırmasız el koyduğunu, yıllardır taşınmazın kullanılamadığını ve taşınmazı kiralayarak kira geliri elde edilemediğini, davacıların 09.11.2020 tarihli ihtarname ile kamulaştırmasız fiili el koymadan kaynaklanan elde edilen gelirleri ecrimisil olarak talep ettiklerini belirterek davalı tarafından davacıların veraset ilamında belirtilen paylar dahilinde malik oldukları taşınmaza vaki kamulaştırmasız fiili atma sebebiyle fazlaya ilişkin hakları saklı kalarak 100.000,00 TL tazminatın, fazlaya ilişkin hakları saklı kalarak 20.000,00 TL ecrimisil olmak üzere toplam 120.000,00 TL'nin davalıdan tahsili ile miras payları oranında davacılara ödenmesini talep ve dava etmiştir.
 
 …
@@ -224,6 +238,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle u
 
 ## Yargıtay 5. HD 2025/3428 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142461600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleştirilen davaların kabulüne karar verilmiştir.
 
 …
@@ -237,6 +253,8 @@ Diğer taraftan birleştirilen İzmir 17. Asliye Hukuk Mahkemesinin 2019/87 Esas
 Taraf vekillerinin temyiz itirazlarının kabulü ile Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/2432 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134455000)
 
 Davacı vekili dava dilekçesi ile, özetle; müvekkilerinin murisi...ve ... 01.07.1894 doğumlu ... adına kayıtlı iken a-cilt 50 sayfa 60 sıra 11 ve 12.11.1956 tarihli b-cilt 8 sayfa 188 sıra 68 ve Kanunisani 1926 tarihli c-cilt 19 sayfa 140 sıra 05.09.
 

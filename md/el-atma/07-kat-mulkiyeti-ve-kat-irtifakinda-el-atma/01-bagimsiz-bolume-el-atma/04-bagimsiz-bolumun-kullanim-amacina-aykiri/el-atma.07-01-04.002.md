@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2017/7361 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388852200)
+
 Davacı dilekçesinde özetle; ...’ın dava konusu taşınmazda 10 numaralı bağımsız bölümün maliki olduğunu, bağımsız bölümü ... numaralı şubesine kiraya verdiğini, taşınmazın tapuda mesken olarak kayıtlı olması nedeniyle eski hale getirilmesine, sendika tabelasının kaldırılmasına, sendika şubesinin taşınmazdan tahliyesine karar verilmesini talep etmiştir.
 
 Mahkemece davanın kabulüne; Yönetim Planı 5/1 mad.- 634 sayılı Kanunun 24. maddesi uyarınca tapu kaydında mesken olarak kayıtlı 10 numaralı bağımsız bölümün sendika şubesi olarak kullanımının menni ile eski haline getirilmesine, davalılara taşınmazı mesken olarak kullanmaları için 30 günlük süre verilmesine, süresi içerisinde eski hale getirilmemesi halinde, İİK'nın 30.'uncu maddesinin infazda nazara alınmasına karar verilmiş, hüküm davacılar ... ve ... katılma yolu ile davalılar ... ve ... tarafından temyiz edilmiştir.
@@ -37,15 +39,21 @@ Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici neden
 
 ## Yargıtay 20. HD 2017/6746 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/367371300)
+
 Dosya içindeki bilgi ve belgelerden, dava konusu kat mülkiyetli 9 nolu bağımsız bölümün tapu kaydına göre mesken olduğu ve bu yerin 19 kişilik bir ekip tarafından mühendislik hizmeti verilen mimarlık bürosu olarak kullanıldığı anlaşılmaktadır. 634 sayılı Kat Mülkiyeti Kanununun 24. maddesinin ikinci fıkrasına göre; anataşınmazın kütükte mesken olarak gösterilen bağımsız bir bölümünün işyeri olarak kullanılması ancak kat malikleri kurulunun oybirliğiyle vereceği kararla mümkündür. Her ne kadar Yargıtay uygulamalarında tapuda mesken olarak kayıtlı bulunan bir yerin mimarlık bürosu olarak kullanılması, bir mimar ile yanında çalıştırabileceği tek bir kişi bulunması kaydıyla kabul edilmekte ise de somut olayda böyle bir durumun sözkonusu olmadığı, bir çok kimsenin burada çalışmak suretiyle bağımsız bölümün işyeri olarak kullanıldığı anlaşılmaktadır.
 
 ## Yargıtay 20. HD 2017/6738 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/367356300)
 
 Dosya içerisindeki bilgi ve belgelerin incelenmesinden davalı şirket tarafından kullanılan ofislerin iş yeri niteliğinde olduğu anlaşılmaktadır. Tapuda mesken olarak kayıtlı olan bağımsız bölümün şirket ofisi olarak iş yeri niteliğinde kullanılması tüm kat maliklerinin bu konuda gösterecekleri rızalarına bağlı olduğundan verilen kararda bir isabetsizlik bulunmadığı gibi dava konusu şirketin kullandığı yerin tapuda şirket temsilcisi olan adına kayıtlı olduğu da belirlenmekle davanın kabulüne karar verilmesinde bir isabetsizlik bulunmamaktadır.
 
 Bu nedenle dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, yerinde görülmeyen temyiz itirazlarının reddi ile usûl ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2017/5049 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350686200)
 
 Davacı vekili 23.03.2015 havale tarihli dava dilekçesinde özetle; ... ili, ... ilçesi, ... mahallesi 353 ada, 79 sayılı parselde kayıtlı dört bağımsız bölüm olmak üzere mesken olarak tapuya kayıtlı olduğunu, müvekkilinin 2 kattaki 3 nolu bağımsız bölüm maliki olduğunu, davalının 353 ada 79 sayılı parselde maliki bulunduğu zemindeki mesken niteliğindeki bağımsız bölümü eşi "..." ünvanıyla işyeri olarak kullanmakta olduğunu, bağımsız bölümün kat mülkiyeti kanununa aykırı olarak iş yeri olarak kullanılmasının önlemesi ve ortak alana yapılan müştemilatın ve deponun yıkılarak bahçenin eski hale getirilmesini, müdahalenin önlenmesi ile muarazanın giderilmesini, yargılama giderleri, vekalet ücretinin davalı üzerinde bırakılmasını talep etmiştir.
 
@@ -61,6 +69,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davalının temyiz itirazlarının kab
 
 ## Yargıtay 20. HD 2017/2818 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360626300)
+
 Davacı vekili dava dilekçesinde; zemin kattaki bağımsız bölümün davalılar tarafından cafe-bar olarak işletildiğini ve insan sağlığına zarar verecek kadar sabaha kadar yüksek sesle müzik yayını yapıldığını, ortak yerlere masa sandelye koyarak ve dükkan arka duvarının yıkılarak ortak alanın bağımsız bölüme katıldığını ileri sürerek gürültünün hakim müdahalesi ile önlenmesini, alınacak önlemlerle rahatsızlığın sona ermesinin mümkün olmaması halinde gürültüye neden olan faaliyete son verilmesini, ortak alanlara yapılan projeye aykırı müdahalenin eski hale getirilmesini istemiş, mahkemece, bilirkişi raporuna dayanarak ses seviyesinin makul seviyeye indirilmesinin mümkün olmadığı, faaliyetten men edilmesi talebi yönünden idari yargının görevli olduğu gerekçesiyle reddine, projeye aykırı yapılan müdahaleler yönünden ise; davalılardan ... hariç diğer davalılar yönünden kabülüne karar verilmiştir.
 
 Kat Mülkiyeti Kanununun 18. maddesi hükmüne göre, kat malikleri gerek bağımsız bölümlerini gerek eklentileri ve ortak yerleri kullanırken doğruluk kurallarına uymak, özellikle birbirlerini rahatsız etmemek ve birbirlerinin haklarını çiğnememekle karşılıklı olarak yükümlüdürler. Bu yükümlülük bağımsız bölümlerdeki kiracılara ve oturma (sükna) hakkı sahiplerine ya da bu bölümlerden herhangi bir nedenle sürekli olarak yararlananlara da uygulanır ve kat malikleri ile birlikte müteselsilen sorumlu olurlar. Somut olayda kat mülkiyetli anataşınmazda tapuda dükkan nitelikli 1, 2, 3 sayılı bağımsız bölümlerin ikisinin bar, birinin tantuni dükkanı olarak işletildiği anlaşılmaktadır.
@@ -70,6 +80,8 @@ Kat Mülkiyeti Kanununun 18. maddesi hükmüne göre, kat malikleri gerek bağı
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK'nın 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2016/2923 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/248002500)
 
 Davacı vekili dava dilekçesinde; 4837 ada 22 parseldeki .... numaralı bağımsız bölümün tapuda mesken olduğu halde davalı ...'e işyeri olarak kiraya verildiğini, burasının işyeri olarak kullanılmasına son verilip eski hale getirilmesini ve davalı ...'in tahliyesine karar verilmesini istemiş, mahkemece dava konusu bağımsız bölümün işyeri olarak kullanıldığının sabit olmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -83,6 +95,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 20. HD 2015/10995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/125173200)
+
 Dava, elatmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
 …
@@ -91,11 +105,15 @@ Erzurum 2. Asliye Hukuk Mahkemesince ise, Kat Mülkiyeti Kanununun 18/2. maddesi
 
 ## Yargıtay 18. HD 2015/10883 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403991200)
+
 Kat Mülkiyeti Yasasının 24. maddesinin ikinci fıkrası hükmü uyarınca tapuda mesken olarak gösterilen bağımsız bir bölümün işyeri olarak kullanılabilmesi için bu konuda anataşınmazdaki tüm kat maliklerinin oybirliğiyle karar vermeleri gerekir. Dosya kapsamında kat malikleri kurulunca oybirliğiyle alınmış bir karar bulunmadığına göre mesken nitelikli olup işyeri olarak kullanıldığı anlaşılan bu bağımsız bölümün Kat Mülkiyeti Yasasının 24. maddesinin ikinci fıkrası ve 33. maddesi hükümleri uyarınca meskene dönüştürülmesine hükmedilmesi gerekirken yerinde görülmeyen gerekçeyle davanın reddine karar verilmiş olması doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2014/4998 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106712400)
 
 Davacı vekili dava dilekçesinde; dava konusu 17,18,19 nolu dairelerin mesken olarak kullanılması gerekirken, dükkan olarak kiraya verildiğini, dairelerin duvarları yıkılarak tek bir alana dönüştürüldüğünü, bodrum katta bulunan kapıcı dairesinin yıkılıp davalılar tarafından kullanılır hale getirildiğini, merdiven boşluklarının yıkılarak ortadan kaldırıldığını, bahçe olarak kullanılması gereken alanların kapalı alan haline getirildiğini, 1.. nolu dairenin duvarı yıkılarak arka bahçe ile birleştirilip yeni bir alan oluşturulduğunu belirterek ortak alanlara müdahelenin meni ile dava konusu dairelerin mesken olarak ve el atılan kısımların projesine uygun eski hale getirilmesini istemiştir.
 
@@ -111,6 +129,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2014/4793 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106688800)
+
 Davacı vekili dava dilekçesinde, Kat Mülkiyeti Yasasının 24. maddesine aykırı davranarak anataşınmazdaki mesken nitelikli 1 nolu bağımsız bölümün kiracı davalı şirketler tarafından şampuan, ilaç ve kozmetik üretimi yapan kimya laboratuvarı olarak işyeri niteliğinde kullanıldığını beyanla, tapuya ve yönetim planına aykırılığın giderilmesini, bağımsız bölümün mesken olarak eski hale getirilmesini, aksi taktirde kiracı şirketlerin tahliyesini istemiş, mahkemece davalı M.. Medikal Ürünleri Paz. San. ve Tic.
 
 …
@@ -123,17 +143,23 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2014/2214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106557500)
+
 Dava konusu bağımsız bölümün tapu kaydında depo niteliğinde kayıtlı olduğu anlaşılmaktadır. Kat Mülkiyeti Yasası'nda her ne kadar mesken nitelikli bağımsız bölümlerin yasada öngörülen koşulların dışında işyeri olarak kullanılamayacağı açıklanmış ise de, işyeri nitelikli bağımsız bölümlerin mesken olarak kullanılmasına bir sınırlama getirilmemiş olup, aynı Yasanın 19. maddesinin 2. fıkrasında kat maliklerinden birinin, bütün kat maliklerinin 4/5'inin yazılı rızası olmadıkça anagayrımenkulün ortak yerlerinde inşaat, onarım ve tesisler yapamayacağından ve yine kendi bağımsız bölümünde de anayapıya zarar verecek nitelikte onarım, tesis ve değişikliğe gidemeyeceğinden mesken olarak kullanılan depolarda bu kullanımı sağlamak için inşa edilen wc, banyo ve mutfak kısımlarındaki tesisatların onaylı tesisat projesinde bulunup bulunmadığı, bunların tesisat projesine aykırı olup olmadıkları hususunda bilirkişi kurulundan ek rapor alınıp ortak tesisata müdahale oluşturulduğunun anlaşılması halinde sadece bu kısımlarında projeye uygun hale getirilmesine karar verilmesi gerekirken, istemin tümden kabulüne karar verilmesi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2012/10801 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798916600)
+
 Kat Mülkiyeti Yasasının 24. maddesinin 2. fıkrasında anagayrimenkulun, kütükte mesken olarak gösterilen bağımsız bir bölümünde sinama, tiyatro, kahvehane, gazino, pavyon, bar, kulüp, dans salonu ve emsali gibi eğlence ve toplantı yerleri ve fırın, lokanta, pastahane, süthane gibi gıda ve beslenme yerleri ve imalathane, boyahane, basımevi, dükkan, galeri ve çarşı gibi yerler ancak kat malikleri kurulunun oybirliği ile vereceği kararla açılabilir. Dava konusu 1 numaralı meskenin işyeri (eczane) olarak kullanılmasına izin veren kat maliklerinin oybirliğiyle alınmış bir karar dosyada bulunmamaktadır. Buna göre yukarıda bahsedilen yasa hükmü de dikkate alınarak meskenin eczane olarak kullanılan bölümü için işyeri (eczane) olarak kullanımın önlenmesine karar verilmesi gerekirken davanın tümden reddi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2012/5672 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800317000)
 
 Davacı vekili dava dilekçesinde, bitişik dubleks sahibi olan davalının evinde ve kendisine ait bahçesinde yaptığı değişikliklerin müvekkiline zarar verdiğini, davalının müdahalesinin men'i ve ilave yapıların yıkılarak eski hale getirilmesini istemiştir. Mahkemece davanın reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
 
@@ -148,6 +174,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2012/705 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798290400)
+
 Davacı vekili dava dilekçesinde, tapuda mesken olarak kayıtlı 3 nolu bağımsız bölümün diş hekimi muayenehanesi (işyeri) olarak kullanıldığını bunun yasaya ve yönetim planına aykırı olduğunu ileri sürerek dava konusu bağımsız bölümün işyeri olarak kullanılmasının önlenmesi, eski hale getirilmesi ve tahliyesini istemiştir. Mahkemece yönetim planındaki 08.03.2008 tarihli değişiklik ile getirilen yasaklayıcı hükmün davalıyı bağlamadığı gerekçesiyle davanın reddine karar verilmiş, karar davacı tarafından temyiz edilmiştir.
 
 …
@@ -157,6 +185,8 @@ Somut olayda ise dava konusu taşınmaza ilişkin 16.05.1991 tarihli yönetim pl
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2011/5549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107102200)
 
 Davacı vekili dava dilekçesinde, tapu kütüğünde davalılardan Asiye adına mesken olarak kayıtlı olan bağımsız bölümün diğer davalı şirket tarafından işyeri olarak kullanıldığını ileri sürerek bağımsız bölümün eski haline dönüştürülmesini istemiş, mahkemece davanın reddine karar verilmiştir.
 
@@ -170,6 +200,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2011/3295 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800853900)
+
 Davacı vekili dava dilekçesinde; kat maliki ve kiracı olan davalıların anataşınmazın tapuda mesken olarak kayıtlı bulunan (3) nolu bağımsız bölümü Avukatlık Bürosu olarak kullanılmasını temin ettiklerini, yönetim planının 12. maddesiyle Kat Mülkiyeti Kanunu'nun 24. maddesinin bu kullanım tarzına cevaz vermediğini ileri sürerek dava konusu bağımsız bölümün işyeri olarak kullanılmasının önlenmesini, bu yerin meskene dönüştürülmesini istemiş, mahkemece davanın kabulüne karar verilmiştir.
 
 Dosya içindeki bilgi ve belgelerden; davacının, dava konusu anataşınmazda kat maliki ve aynı zamanda yönetici, davalılardan ...'ın bağımsız bölümün maliki, diğer davalının ise bu yerde kiracı oldukları, dava konusu dairenin tapu kütüğüne mesken olarak yazıldığı, yönetim planının 12. maddesinde de bağımsız bölümlerin tapu sicilinde belirtilen nitelikleri dışında kullanılamayacağının belirtildiği anlaşılmaktadır.
@@ -182,6 +214,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2010/16431 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805346600)
+
 Davacı vekili dilekçesinde, davalı malik ...'nin tapuda mesken olarak kayıtlı bulunan 15 numaralı bağımsız bölümü diğer davalı ...'e işyeri olarak kiraya verdiğini, bu durumun 634 sayılı Kat Mülkiyeti Yasası'nın 24. maddesine aykırı olduğunu, davalılara bu konuda noterden ihtarname çekildiğini ancak bir sonuç alınamadığını ileri sürerek, davalı kiracının meskenden tahliyesini istemiş; mahkemece 634 sayılı Kat Mülkiyeti Yasası'nın 24 maddesine göre öncelikle bağımsız bölümün tapuda kayıtlı olduğu gibi mesken haline getirilmesi için davalılara mehil verilmesi gerektiği, davacının böyle bir talebi olmadan doğrudan tahliye davası açamayacağı gerekçesi ile davanın reddine karar verilmiştir.
 
 Oysa; çoğun içinde az da vardır kuralından hareketle tahliyenin aynı zamanda tapuda mesken olarak kayıtlı bağımsız bölümün işyeri olarak kullanılmasının önlenmesi için eski hale getirmeyi de kapsadığından, mahkemece tarafların göstereceği deliller toplanıp oluşacak sonuca göre bir karar verilmesi gerekirken, yerinde bulunmayan gerekçe ile davanın reddi doğru görülmemiştir.
@@ -189,6 +223,8 @@ Oysa; çoğun içinde az da vardır kuralından hareketle tahliyenin aynı zaman
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2010/9530 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804553400)
 
 Dava, tapuda mesken olarak kayıtlı bulunan 3 nolu bağımsız bölümün işyeri olarak kullanılması nedeniyle eski hale getirme ve tahliyeye ilişkin olup, mahkemece davanın kabulüne karar verilmiştir.
 
@@ -200,6 +236,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2010/4817 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/806533900)
+
 Yargıtay uygulamalarında mesken nitelikli bağımsız bölümlerin büro olarak kullanımları Kat Mülkiyeti Kanununun 24. maddesinin ikinci fıkrasındaki kat malikleri kurulu kararını gerektirmediğinden yönetim planında aksine bir hüküm bulunmadıkça meskenlerde büro açılabileceği kabul edilmiş ise de aynı kanunun 28.maddesi yönetim planının anagayrimenkulün yönetim tarzını, kullanma maksat ve şeklini, yönetici ve denetçilerin alacakları ücreti ve yönetime ait diğer hususları düzenleyeceğini ve yönetim planının tüm kat maliklerini bağlayan bir sözleşme olduğunu belirtmiş olmakla yönetim planında bağımsız bölümlerin kullanımı ile ilgili yasaklar getirilebilir.
 
 …
@@ -207,6 +245,8 @@ Yargıtay uygulamalarında mesken nitelikli bağımsız bölümlerin büro olara
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2009/10152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877787400)
 
 Davacılar vekili dava dilekçesinde; müvekkillerinin de bağımsız bölüm maliki oldukları dava konusu anataşınmazda davalılardan ... ile ...’un 1 nolu garaj ile 3 nolu mesken nitelikli taşınmazlarının arasındaki betonu kırmak suretiyle birleştirip tek hacim haline getirerek diğer davalı şirkete mobilya mağazası olarak kiraya verdiklerini, tapu kaydına göre mesken nitelikli bir taşınmaz malın işyeri olarak kullandırılmasının mimari projeye aykırılık teşkil ettiğini ileri sürerek, dava konusu taşınmazın işyeri olaraK kullanımına son verilerek yıkılan bölümün onarılmasını, her iki bağımsız bölümün projesine uygun eski hale getirilmesini, aksi taktirde davalı şirketin taşınmazdan tahliyesini istemiş, mahkemece davanın kısmen kabulüne karar verilmiştir.
 
@@ -221,6 +261,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2009/9805 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876255200)
+
 Kat irtifaklı anataşınmazın ortak yerinin mesken olarak kullanılmasına izin vermiş olan davacının sonradan bu izni geri alması ve verdiği izin ile ortak yeri kullanan kişiye karşı dava açması Türk Medeni Kanununun 2. maddesi hükmü karşısında iyiniyetli bir davranış olarak yorumlanıp korunamayacağından, bu yöne ilişkin istemin reddine karar verilmesi gerekirken, kapıcı dairesinin mesken olarak kullanılmasının önlenmesine karar verilmesi,
 
 …
@@ -231,9 +273,13 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2009/7903 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873768900)
+
 Ancak; Tapuda depo olarak kayıtlı bulunan 1 ve 2 nolu bağımsız bölümlerin projesinde bir değişiklik yapmamak kaydıyla mesken olarak kullanılması Kat Mülkiyeti Yasasının 24. maddesine aykırı olmadığı halde mahkemece mesken olarak kullanımın önlenmesine de karar verilmesi doğru değil ise de bu yanılgının giderilmesi yeniden yargılamayı gerektirmediğinden gerekçeli kararın hüküm fıkrasının 2 nolu bendindeki "bağımsız bölümünün maliki davalı ... oğlu ...'nun depo vasfındaki bağımsız bölümü mesken olarak kullanması biçimindeki EL ATMASININ ÖNLENMESİNE", 4 nolu bendindeki "bağımsız bölümünün maliki davalı ...
 
 ## Yargıtay 18. HD 2009/5402 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16805300)
 
 Davacı vekili dava dilekçesinde; davalıların, dava konusu anataşınmazın zemin kat (1) numaralı bağımsız bölümünün kiracısı ve maliki olduklarını, tapuda mesken olarak kayıtlı bulunan bu bölümü Kat Mülkiyeti Yasasının 24. maddesine aykırı şekilde veterinerlik muayenehanesi olarak kullandıklarını ve ayrıca bağımsız bölümün balkonundan imara aykırı olarak giriş kapısı açtıklarını ileri sürerek bağımsız bölümün eski hale getirilmesini, davalıların bu yerden tahliyesini istemiş, mahkemece davanın reddine karar verilmiştir.
 
@@ -247,6 +293,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2009/1364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16818900)
+
 Davacı vekili dava dilekçesinde, davalıların, anataşınmazın tapuda mesken olarak kayıtlı bulunan 1 nolu bağımsız bölümünü üç ayrı dükkan haline dönüştürmek suretiyle kullandıklarını ileri sürerek, sözü edilen bağımsız bölümde yapılan değişikliklerin onaylı mimari projesine uygun eski hale getirilmesini istemiş, mahkemece bilirkişi raporunda belirtilen projeye aykırı imalatların yıkılarak kaldırılmasına, ortak alanlara davalılarca yapılan müdahalelerin önlenmesine, dükkanların meskene dönüştürülmesi konusundaki istemin reddine karar verilmiştir.
 
 634 sayılı Kat Mülkiyeti Yasası'nın 24. maddesinin ikinci fıkrasına göre, anataşınmazın kütükte mesken olarak gösterilen bağımsız bir bölümünün dükkan (işyeri) haline getirilmesi, kat malikleri kurulunun oybirliğiyle verecekleri kararla mümkündür. Dosyadaki bilgi ve belgelerden, dava konusu …
@@ -257,12 +305,16 @@ Bu itibarla, yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı
 
 ## Yargıtay 18. HD 2008/7943 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875395900)
+
 Kat Mülkiyeti Yasasının 24. maddesi hükmüne göre anataşınmazın kütükte mesken olarak gösterilen bağımsız bölümlerinde işyeri açılabilmesi ancak kat malikleri kurulunun oybirliği ile vereceği kararla olanaklıdır. Yine aynı yasanın 19. maddesinin (5711 Sayılı Yasayla değişik) ikinci fıkrası hükmüne göre de kat maliklerinden biri tüm kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım, tesis ve değişiklikler yaptıramaz. Somut olayda dava konusu edilen bağımsız bölümlerin tapu kütüğünde mesken olarak kayıtlı bulundukları, dosya kapsamından bu bölümlerin işyeri niteliği taşıyan dershane olarak kullanıldıkları, böyle bir kullanım için tüm kat maliklerinin oybirliğini taşıyan herhangi bir karar bulunmadığı gibi yönetim planının 19. maddesinin (f) bendinde böyle bir kullanıma izin verilmediği anlaşılmaktadır. Davacının da mesken niteliğindeki bağımsız bölümünü işyeri olarak kullandırması onun davalı kat malikleri hakkında böyle bir davayı açma hakkını ortadan kaldırmaz ve kötüniyetli olarak nitelendirilemez.
 Açıklanan tüm bu nedenler gözönünde tutularak hüküm kurulması bu bağlamda davada ayrıca mimari projeye aykırı değişikliklerin de projesine uygun hale getirilmesi istenildiğine göre yerinde bilirkişi incelemesi yaptırılarak projeye aykırılıklar var ise bunların neler olduğunun saptanıp Kat Mülkiyeti Yasasının 19. maddesi hükmü çerçevesinde değerlendirilmesi ve oluşacak sonuç doğrultusunda hüküm kurulması gerekirken yerinde olmayan gerekçeyle eksik inceleme ve yetersiz araştırma sonucu davanın reddine karar verilmiş olması doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2008/5618 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885373400)
 
 634 Sayılı Kat Mülkiyeti Yasasının 24. maddesinin ikinci fıkrasına göre; anataşınmazın kütükte mesken olarak gösterilen bağımsız bölümünün somut olayda olduğu gibi işyeri olarak kullanılması kat malikleri kurulunun oybirliği ile vereceği kararla mümkündür. Mahkemece yukarıda değinilen yasa maddesi hükmü de dikkate alınarak dava konusu edilen meskenin işyerine dönüştürülmesi veya işyeri olarak kullanılması için anataşınmazın kat malikleri kurulunca oybirliğiyle alınmış bir karar bulunup bulunmadığı araştırılıp sonucuna göre bir karar verilmesi gerektiğinin düşünülmemiş olması, …
 

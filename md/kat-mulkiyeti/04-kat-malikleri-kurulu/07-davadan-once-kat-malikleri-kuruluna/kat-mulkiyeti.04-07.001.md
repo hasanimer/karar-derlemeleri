@@ -21,13 +21,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2019/285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501827200)
+
 Öncelikle belirtmek gerekir ki yerel mahkemenin ilk kararında ve direnme kararında, davacının kat maliki olduğu ve 634 sayılı Kanun’un 33’üncü maddesine göre men-i müdahale ve eski hâle getirme istemi ile dava açabileceği ifadesi bulunmaktadır. 33’üncü madde hâkimin müdahalesine ilişkin olup, kat malikleri kurulunca verilen kararlar aleyhine, kurul toplantısına katılan ancak 32’nci madde hükmü gereğince aykırı oy kullanan kat maliklerinin anagayrimenkulün bulunduğu yerdeki sulh mahkemesine iptal davası açabilecekleri ve kat maliklerinden birinin yahut onun katından kira akdine, oturma hakkına veya başka bir sebebe dayanarak devamlı surette faydalanan kimsenin, borç ve yükümlerini yerine getirmemesi yüzünden zarar gören kat maliki veya kat maliklerinin, anagayrimenkulün bulunduğu yerin sulh mahkemesine başvurarak hâkimin müdahalesini isteyebilecekleri hususuna yer vermektedir. Somut olayda alınan bir kat malikleri kurulu kararı olmadığına göre KMK’nın 33’üncü maddesinin uygulanma olanağı da bulunmamaktadır.
 
 ## Yargıtay HGK 2015/1320 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115872000)
+
 634 sayılı Kat Mülkiyeti Yasasının Ek 2. maddesi hükmüne göre; kat malikleri kurulunca veya bu kurulca yetki verilen yönetici tarafından sözleşmeleri herhangi bir nedenle feshedilen veya sona eren kapıcı, kaloriferci, bahçıvan veya bekçiler ile dışarıdan atanan yöneticilerin kendilerine bu görevleri dolayısıyla bir yer tahsis edilmiş ise, bu yerleri 15 gün içerisinde boşaltmak zorunda olup ilgililerin kanun ve sözleşmeden doğan hakları saklıdır. Dosya içindeki bilgi ve belgelerden; davalıların kendilerine daha önce tahsis edilmiş bulunan kapıcı dairesini boşaltmaları için 01.06.2011 günlü kat malikleri kurulunda karar alındığı ve bu kararın davalılara 05.07.2011 tarihli ihtarnameyle bildirildiği, buna rağmen davalıların dava konusu yeri boşaltmadıkları anlaşılmaktadır. Mahkemece bu husus dikkate alınarak; kanıtlanan davanın kabulüne ve dava konusu yerin davalılar tarafından boşaltılıp yönetime teslim edilmesine karar verilmesi gerekirken, yerinde bulunmayan gerekçeyle davanın reddi doğru görülmemiştir...)…
 
 ## Yargıtay 5. HD 2025/6440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154808300)
 
 12.08.2018 tarihli olağanüstü genel kurul kararı ile icra takibi yapma husunda yönetim kurulu başkanına yetki verildiği yönündeki istinaf talebinin, genel kurul kararı ile başkana yetki verilmesinin yönetim planında verilen yetkiyi bertaraf etmediği gözetilerek yerinde olmadığı anlaşılmakla davanın bu talep bakımından hukuki yarar yokluğundan reddine karar verilmesinde, D blok 4. bodrum kat altında projede yönetim odası olarak belirlenen alana keşif tarihinde ve dosya kapsamında projeye aykırılık ve dava dilekçesinde yer alan iddia kapsamında depo olarak kullanılmak suretiyle müdahale tespit edilmediğinden aksi yönde delil ibraz edilemediği anlaşılmakla depo olarak kullanılan alanın eski hale getirilmesine yönelik talep bakımından davanın reddine karar verilmesinde, katı yakıttan
 
@@ -37,21 +43,31 @@ doğru görülmediğinden başvurunun kısmen kabulü ile İlk Derece Mahkemesi 
 
 ## Yargıtay 5. HD 2021/3859 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665613600)
+
 ... 3. Asliye Hukuk Mahkemesince davanın kabulüne karar verilmiş, davalı tarafın hükmü istinaf etmesi üzerine ... Bölge Adliye Mahkemesi 2018/787 E, 2019/916 K ile istinaf başvurusunun kabulü ile ilk derece mahkemesi hükmünü kaldırarak davanın reddine karar vermiştir. Davacı tarafın hükmü temyiz etmesi üzerine ise Yargıtay (Kapatılan) 20. Hukuk Dairesi 2020/329 E, 2020/2294 K ile “Dosya içerisindeki bilgi ve belgeler ile davacının ihtarına karşı yönetim adına verilen cevabi yazıya göre, dava konusu duvarın yönetim tarafından yapıldığı anlaşılmaktadır. Dosya içerisindeki yönetim planının 8 ve 36. maddelerinde, ortak alanda yapılacak onarım, inşaat ve tesislerin kat maliklerinin oybirliği ile yapılacağı düzenlenmiş, yönetime ise bu hususta bir yetki verilmemiştir. Yönetimin, davacının başvurusu üzerine, kat malikleri kurulunda görüşülmek üzere kat maliklerini toplantıya çağırması gerekirken, bu hususta bir işlem yapmadığı gibi yetkisi ve görevi dışında fiili olarak dava konusu…
 
 ## Yargıtay 20. HD 2020/2294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598952900)
 
 Dosya içerisindeki bilgi ve belgeler ile davacının ihtarına karşı yönetim adına verilen cevabi yazıya göre, dava konusu duvarın yönetim tarafından yapıldığı anlaşılmaktadır. Dosya içerisindeki yönetim planının 8. ve 36. maddelerinde, ortak alanda yapılacak onarım, inşaat ve tesislerin kat maliklerinin oybirliği ile yapılacağı düzenlenmiş, yönetime ise bu hususta bir yetki verilmemiştir. Yönetimin, davacının başvurusu üzerine, kat malikleri kurulunda görüşülmek üzere kat maliklerini toplantıya çağırması gerekirken, bu hususta bir işlem yapmadığı gibi yetkisi ve görevi dışında fiili olarak dava konusu duvarı yaptığına göre, davacının duvarın kaldırılması yönündeki isteminin reddine ilişkin kararının, yönetimin görevini yerine getirmemesi ve fiilen duvarı yaptırmış olması nedenleriyle, iptaline karar verilmesinde bir isabetsizlik bulunmamaktadır.
 
 ## Yargıtay 20. HD 2020/1237 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592899500)
+
 Kabule göre ise, birleşen 2014/235 esas sayılı dosyada bağımsız bölüm ilavesi ile tescil talebi açısından Kat Mülkiyeti Kanununun 44. maddesine göre anagayrimenkulün üzerine kat ilavesi, mevcut çekme kat yerine tam kat yapılması, zemin veya bodrum katlarda veya arsanın boş kısımlarındaki 24. maddenin 2. fıkrasında yazılı yerlerin sonradan yapımı veya ilavesi için uygulanacak usul ayrıntılı bir şekilde düzenlenmiştir. Buna göre öncelikle kat malikleri kurulunun bu hususta oybirliği ile karar vermesi gerekirken, eldeki davada tüm kat maliklerinin oybirliği ile verdikleri bir karar bulunmamaktadır. Kanunun kat maliklerinin iradesine bıraktığı hususlarda mahkemece kat malikleri iradesi yerine geçilmek suretiyle karar verilemez. Birleşen dava dosyası açısından talebin diğer kat maliklerinin hukukunu da yakından ilgilendirdiği gözetilerek tüm kat malikleri davaya dahil edilmeli Kat Mülkiyeti Kanunu 44. maddedeki şartların oluşup oluşmadığı belirlenmeli , bağımsız bölümün tesciline karar verilmesi halinde ise bağımsız bölümün niteliğinden arsa payına kadar tüm özelliklerinin tespiti ile tesciline karar verilmelidir.
 
 ## Yargıtay 20. HD 2020/557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573314900)
+
 Hükmüne uyulan bozma ilamında özetle; “634 sayılı Kat Mülkiyeti Kanununun 19. maddesinin 1. fıkrasına göre kat maliklerinden herbiri anataşınmazın mimari durumunu titizlikle korumaya mecburdur. Aynı maddenin 2. fıkrasına göre de; kat maliklerinden biri, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım, tesis ve değişiklik yaptıramaz. Aynı Kanunun 33. maddesi gereğince kat maliklerinden birinin yahut onun katından kira akdine, oturma hakkına veya başka bir sebebe dayanarak devamlı surette faydalanan kimsenin, borç ve yükümlülüklerini yerine getirmemesi yüzünden zarar gören kat maliki veya kat malikleri, anagayrimenkulün bulunduğu yerin sulh mahkemesine başvurarak hâkimin müdahalesini isteyebilir.
 
 ## Yargıtay 20. HD 2020/371 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572088100)
 
 Dosya içerisindeki bilgi ve belgelerin incelenmesinde, anataşınmazın tapu kaydında 4 adet bağımsız bölüm bulunduğu anlaşılmaktadır. Kat Mülkiyeti Kanununun 44. maddesine göre ana gayrimenkulün üzerine kat ilavesi, mevcut çekme kat yerine tam kat yapılması, zemin veya bodrum katlarda veya arsanın boş kısımlarındaki 24. maddenin 2. fıkrasında yazılı yerlerin sonradan yapımı veya ilavesi için uygulanacak usul ayrıntılı bir şekilde
 
@@ -59,35 +75,51 @@ düzenlenmiştir. Buna göre öncelikle kat malikleri kurulunun bu hususta oybir
 
 ## Yargıtay 20. HD 2019/2957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504482500)
+
 Davaya konu site yönetim planı 2. madde hükmüne göre “yön planı taraflar arasında sözleşme niteliğindedir. Yön planında hüküm bulunmayan hallerde KMK, TMK ve ilgili kanun hükümleri uygulanrı” Buna göre KMK'nın 33. madde hükmünde “Kat malikleri kurulunca verilen kararlar aleyhine, kurul toplantısına katılan ancak 32. madde hükmü gereğince aykırı oy kullanan her kat maliki karar tarihinden başlayarak bir ay içinde, toplantıya katılmayan her kat maliki kararı öğrenmesinden başlayarak bir ay içinde ve her halde karar tarihinden başlayarak altı ay içinde anagayrimenkulün bulunduğu yerdeki sulh mahkemesine iptal davası açabilir; kat malikleri kurulu kararlarının yok veya mutlak butlanla hükümsüz sayıldığı durumlarda süre koşulu aranmaz. Kat maliklerinden birinin yahut onun katından kira akdine, oturma hakkına veya başka bir sebebe dayanarak devamlı surette faydalanan kimsenin, borç ve yükümlerini yerine getirmemesi yüzünden zarar gören kat maliki veya kat malikleri, anagayrimenkulün bulunduğu yerin sulh mahkemesine başvurarak hâkimin müdahalesini isteyebilir.” denilmektedir.
 Dosyadaki bilgi ve belgelerin incelenmesinden davacının iptaili talep edilen toplantıya katılıp katılmadığı ve davanın süresi içerisinde açılıp açılmadığı yönünde yeterli araştırma yapılmaksızın eksik inceleme sonucu davanın kabulüne karar verilmesi doğru görülmeyip bozmayı gerektirmiştir.
 
 ## Yargıtay 20. HD 2019/1133 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486202900)
+
 634 sayılı Kat Mülkiyeti Kanununun 27. maddesinde açıkça belirtildiği üzere, anagayrimenkul kanunların emredici hükümlerine aykırı yönetilemeyeceğine göre, yönetim planında kanunun emredici hükümlerine aykırı düzenlemeler yer alamaz. Emredici hükümlere aykırılık, yok veya mutlak butlanla hükümsüzlük hali olup, KMK’na göre her bir kat maliki, belirli bir süre ile bağlı olmaksızın yönetim planının kanunun emredici hükümlerine aykırı düzenlemelerinin iptalini isteyebilir. Bunun için ilgili maddelerin kat malikleri kurulunda görüşülmüş olması da gerekmez. Ayrıca, eda davası açılabilecek iken tespit davası açılamaz. 6100 sayılı HMK'nın 26. maddesine göre hâkim, tarafların talep sonuçlarıyla bağlıdır; ondan fazlasına veya başka bir şeye karar veremez. Mahkemece, iptali istenmeyen maddelerin resen yasaya aykırılığı araştırılarak iptaline karar verilemeyeceği gibi, 634 sayılı KMK'nın 27. ve 28. maddesine göre yönetim planının değiştirilmesi kat maliklerine ait bir yetki olup, kat maliklerinin yerine geçilerek yönetim planının değiştirilmesi mümkün değildir.
 
 ## Yargıtay 20. HD 2018/2718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422428600)
 
 Dosya içerisindeki bilgi ve belgelerin incelenmesinden davacının taleplerinin ve dava ettiği konuların yöneticinin sorumluluğu ve hesap vermesine ilişkin olduğu anlaşılmaktadır. Davacının yöneticinin işlemlerinden dolayı öncelikle kat malikleri kuruluna başvurup bu yönde karar aldırması, buna ilişkin alınmaması halinde ise kat malikleri kurulu kararının iptali için dava açması gerekir. Mahkemece bu aşamada dava konusu anagayrimenkule ait tüm bağımsız bölümleri içerir tapu kayıtları ve yönetim planı ilgili tapu müdürlüğünden getirtilerek davacının bağımsız bölüm maliki olup olmadığı saptanıp, yönetimden ise karar defteri getirtilerek davacının talep ettiği hususlarda alınan kat malikleri kurulu kararının olup olmadığı, varsa davacının bu toplantıda hazerun listesinde vekil ile temsil edilip edilmediği ve kararın yasaya uygunluğu yönünden incelenip ve sonucuna göre hüküm kurulması gerekirken yetersiz araştırma ve eksik inceleme ile karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/2667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424213400)
+
 Yapılan yargılama sonucunda davanın kabulüne dair verilen .../06/2014 tarihli karar, davalı vekilinin temyizi üzerine .... Hukuk Dairesinin 2014/19208 E. - 2015/7771 K. sayılı 07/05/2015 tarihli kararı ile bozulmuş, bozma kararında, iptali istenen kararın ... sitesi yönetim kurulunun 04.....2012 günlü kararı olduğu, Kat Mülkiyeti Kanununun 32/.... maddesi hükmüne göre anagayrimenkulün kullanımından veya yönetilmesinden dolayı kat malikleri arasında veya bunlardan yönetici ve denetçiler arasında çıkan uyuşmazlıkların kat malikleri kurulunda çözülmesi ve karara bağlanması gerektiği, uyuşmazlığa düşen tarafların kat malikleri kuruluna başvurmadan dava açamayacağı, (T) ve (V) blok temsilcisi tarafından site yönetim kurulu kararlarının iptaline ilişkin istemlerle ilgili olarak öncelikle kat malikleri kuruluna gidilmesi gerektiği gerekçesine yer verilmiş, mahkemesince bozma kararına uyularak 634 sayılı Kanunun 32. maddesinin .... fıkrası uyarınca kat malikleri kuruluna başvurulmadan dava açılmış olması nedeniyle yasal koşulları oluşmayan davanın reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
 
 ## Yargıtay 20. HD 2018/1344 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/412969200)
 
 634 sayılı Kat Mülkiyeti Kanununun 19. maddesinin 1. fıkrasına göre kat maliklerinden herbiri anataşınmazın mimari durumunu titizlikle korumaya mecburdur. Aynı maddenin 2. fıkrasına göre de; kat maliklerinden biri, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım, tesis ve değişiklik yaptıramaz. Aynı Kanunun 33. maddesi gereğince kat maliklerinden birinin yahut onun katından kira akdine, oturma hakkına veya başka bir sebebe dayanarak devamlı surette faydalanan kimsenin, borç ve yükümlülüklerini yerine getirmemesi yüzünden zarar gören kat maliki veya kat malikleri, anagayrimenkulün bulunduğu yerin sulh mahkemesine başvurarak hâkimin müdahalesini isteyebilir.
 
 ## Yargıtay 20. HD 2018/207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404747300)
+
 Kat Mülkiyeti Kanununun 33. maddesinin birinci fıkrasında kat malikleri kurulunca verilen karara razı olmayanların mahkemeye başvurarak hâkimin müdahalesini isteyebileceği hükme bağlanmış olup, yönetim kurulunca alınan kararların iptali için doğrudan mahkemeye başvurulacağı konusunda bir hükme yer verilmemiştir. Temsilciler kurulu kararlarına karşı niteliği gereği öncelikle kat malikleri kuruluna başvurularak iç denetim yolları tüketildikten sonra, bu kurulca gerekli değerlendirmenin yapılıp sonuçlandırılmasından sonra, genel kurul kararı hakkında mahkemeye başvurulması gerekirken, davacılar tarafından iç denetim yollarının tüketilmediği anlaşıldığından, davanın reddine karar verilmesi sonucu itibariyle doğru olup temyiz itirazlarının reddi ile usûl ve kanuna uygun olan hükmün ONANMASINA, 17/01/2018 günü oy birliği ile karar verildi.
 
 ## Yargıtay 20. HD 2017/10146 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388934700)
 
 Dava; riskli yapı tespitine yönelik numune alınmasına hâkimin müdahalesi istemidir.Dava konusu anataşınmazın tapuda arsa olarak davanın tarafları adına kayıtlı olduğu, davalıların kullanımındaki zemin kattan riski yapı tespiti için numune alınmasına izin vermedikleri anlaşılmaktadır. 634 sayılı Kat Mülkiyeti Kanunun uygulanması için anataşınmazda kat mülkiyetinin veya kat irtifakının kurulu olması gerekir. Anataşınmaz arsa vasfında olduğuna göre uyuşmazlığın genel hükümlere göre çözülmesi gerekir.
 4721 sayılı Türk Medenî Kanunun 688 maddesinde, paylı mülkiyette birden çok kimsenin, maddî olarak bölünmüş olmayan bir şeyin tamamına belli paylarla malik olduğu, paydaşlardan her birinin kendi payı bakımından malik hak ve yükümlülüklerine sahip olduğu, 689. maddesinde, paydaşlar, kendi aralarında oybirliğiyle anlaşarak yararlanma, kullanma ve yönetime ilişkin konularda kanun hükümlerinden farklı bir düzenleme yapabileceği, ancak, böyle bir anlaşmanın dahi, paydaşların paylı mülkiyet konusu eşyanın kullanılabilirliğinin ve değerinin korunması için zorunlu olan yönetim işlerini yapmak ve gerektiğinde mahkemeden buna ilişkin önlemlerin alınmasını istemek ve eşyayı bir zarar tehlikesinden veya zararın artmasından korumak için derhâl alınması gereken önlemleri bütün paydaşlar hesabına alma hak ve yetkilerini kaldırmayacağı ve sınırlandıramayacağı düzenlenmiştir. Davacının istemi, anataşınmazın riskli yapı mahiyetinde olup olmadığının tespiti amacına yönelik olduğuna göre, bu istemin yasanın 688. ve 689. maddesi kapsamında kaldığı ve hukukî yararının bulunduğu gözetilerek davanın kabulüne karar verilmesi gerekirken, yazılı şekilde davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2017/7770 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370314800)
 
 SONUÇ: Davacının istemi yönetim kurulu kararının iptaline ilişkindir. Kat Mülkiyeti Kanununun 33. maddesinin birinci fıkrasında kat malikleri kurulunca verilen karara razı olmayanların mahkemeye başvurarak hakimin müdahalesini isteyebileceği hükme bağlanmış olup, yönetim kurulunca alınan kararların iptali için doğrudan mahkemeye başvurulacağı konusunda bir hükme yer verilmemiştir. Aynı Kanunun 32. maddesi gereğince anataşınmazın kullanımından veya yönetiminden dolayı kat malikleri ile yöneticiler arasında çıkan anlaşmazlıklar öncelikle kat malikleri kurulunda görüşülerek karara bağlanır. Yönetim kurulu kararlarına karşı "niteliği gereği" öncelikle kat malikleri kuruluna başvurularak bu kurulca gerekli değerlendirmenin yapılıp sonuçlandırılmasından
 
@@ -95,13 +127,19 @@ sonra verilecek olan bu genel kurul kararı hakkında mahkemeye başvurabileceğ
 
 ## Yargıtay 20. HD 2017/5958 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353671000)
+
 Kat Mülkiyeti Kanununun 33. maddesinin birinci fıkrasında kat malikleri kurulunca verilen karara razı olmayanların mahkemeye başvurarak hakimin müdahalesini isteyebileceği hükme bağlanıp yönetim kurulunca alınan kararların iptali için doğrudan mahkemeye başvurulacağı konusunda bir hükme yer verilmediğinden, aynı Yasanın 32. maddesi gereğince de anataşınmazın kullanımından veya yönetiminden dolayı kat malikleri ile yöneticiler arasında çıkan anlaşmazlıkların öncelikle kat malikleri kurulunda görüşülerek karara bağlanacağı ve yönetim kurulu kararlarına karşı -niteliği gereği- öncelikle kat malikleri kuruluna başvurularak bu kurulca gerekli değerlendirmenin yapılıp sonuçlandırılmasından sonra verilecek olan genel kurul kararı hakkında mahkemeye başvurabileceğinden yerinde görülmeyen temyiz itirazlarının reddi ile usule ve yasaya uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine 29/06/2017 günü oy birliği ile karar verildi.
 
 ## Yargıtay 18. HD 2016/10116 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228546800)
+
 Davacı vekilinin istemi yönetim kurulu kararının iptaline ilişkindir. Kat Mülkiyeti Yasası'nın 33. maddesinin birinci fıkrasında kat malikleri kurulunca verilen karara razı olmayanların mahkemeye başvurarak hakimin müdahalesini isteyebileceği hükme bağlanmış olup, yönetim kurulunca alınan kararların iptali için doğrudan mahkemeye başvurulacağı konusunda bir hükme yer verilmemiştir. Aynı Yasanın 32. maddesi gereğince anataşınmazın kullanımından veya yönetiminden dolayı kat malikleri ile yöneticiler arasında çıkan anlaşmazlıklar öncelikle kat malikleri kurulunda görüşülerek karara bağlanır. Yönetim kurulu kararlarına karşı -niteliği gereği- öncelikle kat malikleri kuruluna başvurularak bu kurulca gerekli değerlendirmenin yapılıp sonuçlandırılmasından sonra verilecek olan bu genel kurul kararı hakkında mahkemeye başvurabileceği gerekçesiyle davanının reddine karar verilmesi gerekirken mahkemece davanın genel kurul kararının iptali istemine ilişkin olduğu değerlendirilerek yazılı gerekçeyle davanın kabulüne karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2016/8149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/227502500)
 
 Dairemizin 21.10.2013 tarihli....1 Karar sayılı bozma ilamında özetle; Kat Mülkiyeti Yasası'nın 33. maddesinin 1. fıkrası çerçevesinde, yönetim kurulunca alınan kararların iptali için doğrudan mahkemeye başvurulacağı konusunda bir düzenlemeye yer verilmediğinden, bu kurulun kararlarına karşı öncelikle kat malikleri kuruluna başvurularak bu kurulca gerekli değerlendirmenin yapılıp karara bağlanmasından sonra bu karar hakkında mahkemeye başvurabileceği gözetilmeden, doğrudan 19/4/2010 ve 4/9/2010 tarihli yönetim kurulu kararlarının iptaline (14.1.2013 tarihli mahkeme kararının 1. fıkrasının E ve F
 
@@ -109,18 +147,26 @@ bentleri hakkında) hükmedilmesinin doğru görülmediği belirtilerek, bu duru
 
 ## Yargıtay 18. HD 2015/11670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/188564200)
+
 C-Merkezi anten sistemine geçilmesi ile ilgili kat malikleri kurulunca alınmış herhangi bir kararın bulunmadığı, bu sistemin kurulması için öncelikle kat malikleri kurulundan karar alınması gerektiği dikkate alınmadan kat maliklerinin iradesi yerine geçmek suretiyle merkezi sistem anten tesisatının planlanması ve monte edilmesine karar verilmesi,…
 
 ## Yargıtay 18. HD 2015/10006 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405693000)
 
 Dosyadaki yazılara, kararın dayandığı kanıtlarla yasal gerektirici nedenlere, 07.01.2012 ve 04.02.2012 tarihli kat malikleri kurul toplantılarında alınan kararların iptali için kanunun öngördüğü altı aylık sürenin geçmesine ayrıca yönetici atanması talebinin öncelikle kat malikleri kurulunda görüşülmesi gerektiğine ve apartman hesabına bloke uygulanmasında yasal bir yarar bulunmadığına göre bu hususlardaki taleplerin mahkemece reddinde bir isabetsizlik bulunmamaktadır.
 
 ## Yargıtay 18. HD 2015/7771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/187976200)
+
 Dosya içerisinde mevcut 1310 ada 4 parselin yönetim planının 1.maddesine göre, yönetim planının ayrıca 3, 33, 34 ve 36 parseller ve bu parseller üzerindeki bloklardan oluşan ... Sitesini ve bloklar dışında kalan ortak yerlerini kapsadığı, 26. maddeye göre ise site yönetiminin her bloktan 1 kişi olarak seçilen blok yöneticilerinden oluştuğu belirlenmiştir. Aynı planın 37. maddesinde ise, bu planda yazılı olmayan hususlarda 634 Sayılı Kanun hükümlerinin uygulanacağı öngörülmüştür. İptali istenen karar, ... Sitesi yönetim kurulunun 04.12.2012 günlü kararı olup, Kat Mülkiyeti Yasasının 32/3. maddesi hükmüne göre anagayrimenkulün kullanımından veya yönetilmesinden dolayı kat malikleri arasında veya bunlardan yönetici ve denetçiler arasında çıkan uyuşmazlıkların kat malikleri kurulunda çözülmesi ve karara bağlanması gerekir. Bu davada olduğu gibi yönetim ile ilgili uyuşmazlığa düşen taraflardan biri bu suretle kat malikleri kuruluna başvurmadan dava açamaz.
 Davanın T ve V blok temsilcisi tarafından site yönetim kurulu kararlarının iptaline ilişkin istemlerle ilgili olarak öncelikle kat malikleri kuruluna gidilmesi gerektiği gözetilmeden davanın kabulüne karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2015/6152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/189900200)
 
 634 sayılı Kat Mülkiyeti Kanunu'nun 19. maddesinin 1. fıkrasına göre kat maliklerinden herbiri anataşınmazın mimari durumunu titizlikle korumaya mecburdur. Aynı maddenin 2. fıkrasına göre de; kat maliklerinden biri, bütün kat maliklerinin beşte dördünün yazılı rızası olmadıkça anataşınmazın ortak yerlerinde inşaat, onarım, tesis ve değişiklik yaptıramaz.
 
@@ -128,13 +174,19 @@ Aynı Yasanın 33. maddesi gereğince kat maliklerinden birinin yahut onun katı
 
 ## Yargıtay 18. HD 2015/4160 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/400204300)
+
 Davacı vekilinin istemi yönetim kurulu kararının iptaline ilişkindir. Kat Mülkiyeti Yasası'nın 33. maddesinin birinci fıkrasında kat malikleri kurulunca verilen karara razı olmayanların mahkemeye başvurarak hakimin müdahalesini isteyebileceği hükme bağlanmış olup, yönetim kurulunca alınan kararların iptali için doğrudan mahkemeye başvurulacağı konusunda bir hükme yer verilmemiştir. Aynı Yasanın 32. maddesi gereğince anataşınmazın kullanımından veya yönetiminden dolayı kat malikleri ile yöneticiler arasında çıkan anlaşmazlıklar öncelikle kat malikleri kurulunda görüşülerek karara bağlanır. Yönetim kurulu kararlarına karşı -niteliği gereği- öncelikle kat malikleri kuruluna başvurularak bu kurulca gerekli değerlendirmenin yapılıp sonuçlandırılmasından sonra verilecek olan bu genel kurul kararı hakkında mahkemeye başvurabileceği gerekçesiyle davanının reddine karar verilmesi gerekirken mahkemece davanın genel kurul kararının iptali istemine ilişkin olduğu değerlendirilerek yazılı gerekçeyle karar verilmesine yer olmadığına karar verilmesi ile davalı aleyhine vekalet ücreti ve yargılama giderlerine hükmedilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2014/12018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106786800)
+
 Somut olayda; 634 sayılı Kat Mülkiyeti Yasası'nın 37.maddesi gereğince, işletme projesine kat malikleri kurulunda incelenerek karar verilmesi gerektiği; aynı Yasanın 33. maddesinin 1. fıkrasında ise kat malikleri kurulunca verilen karara razı olmayan kat maliki veya kat maliklerinin mahkemeye başvurarak hakimin müdahalesini isteyebileceği hükme bağlanmış olup, yönetim kurulunca alınan kararların iptali için doğrudan mahkemeye başvurulacağı konusunda Yasada bir hükme yer verilmemiştir. Davalı K.. K..nda 09.10.2012 tarihli işletme projesi niteliğindeki yatırım bütçesinin kabulüne karar verildiği, yönetim kurulu kararlarına karşı niteliği gereği öncelikle kat malikleri kuruluna başvurulması ve bu kurulca gerekli değerlendirmenin yapılıp sonuçlandırılmasından sonra verilecek olan bu genel kurul kararına razı olmayan kat maliki veya maliklerinin mahkemeye başvurmaları gerekmektedir.
 
 ## Yargıtay 18. HD 2014/9938 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106785000)
 
 Dosya içerisindeki bilgi ve belgelerin incelenmesinde, anataşınmazın projesinde ve tapu kaydında 23 adet bağımsız bölüm bulunduğu anlaşılmaktadır. Kat Mülkiyeti Yasası'nın 44.maddesine göre ana gayrimenkulün üzerine kat ilavesi, mevcut çekme kat yerine tam kat yapılması, zemin veya bodrum katlarda veya arsanın boş kısımlarındaki 24.maddenin 2.fıkrasında yazılı yerlerin sonradan yapımı veya ilavesi için uygulanacak usul ayrıntılı bir şekilde düzenlenmiştir. Buna göre öncelikle kat malikleri kurulunun bu hususta oybirliği ile karar vermesi gerekirken, eldeki davada tüm kat maliklerinin oybirliği ile verdikleri bir
 
@@ -142,17 +194,25 @@ karar bulunmamaktadır. Yasanın kat maliklerinin iradesine bıraktığı hususl
 
 ## Yargıtay 18. HD 2014/6582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106807900)
+
 Dosya içindeki bilgi ve belgelerden, özellikle dava dilekçesinin incelenmesinden, davacının yönetici seçimine ilişkin her hangi bir kat malikleri kurulu kararının iptalini istemediği gibi anataşınmazda 634 sayılı Kat Mülkiyeti Kanunu'nun 34/6. maddesi gereğince, kat malikleri kurulunca anataşınmazın yönetiminde anlaşma sağlanamadığı veya toplantı yapılıp bir yönetici atanamadığı ileri sürülmediğine göre, davacı vekilinin dava dilekçesinde belirttiği hususların öncelikle kat malikleri kurulunda görüşülmesi gerektiği dikkate alınarak davanın reddine karar verilmesi gerekirken , bağımsız bölüm maliklerinin iradesi yerine geçecek şekilde davanın kabulüne karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2014/5182 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106584800)
 
 Kat Mülkiyeti Yasası'nın 33. maddesinin birinci fıkrasında kat malikleri kurulunca verilen karara razı olmayanların mahkemeye başvurarak hakimin müdahalesini isteyebileceği hükme bağlanmış olup, yönetim kurulunca alınan kararların iptali için doğrudan mahkemeye başvurulacağı konusunda bir hükme yer verilmemiştir. Yönetim kurulu kararlarına karşı niteliği gereği öncelikle kat malikleri kuruluna başvurularak bu kurulca gerekli değerlendirmenin yapılıp sonuçlandırılmasından sonra verilecek olan bu genel kurul kararı hakkında mahkemeye başvurabileceği gözetilmeden doğrudan 20.03.2012 günlü yönetim kurulu kararının kısmen iptaline hükmedilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2014/1904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/314163300)
+
 Kat mülkiyeti düzenine tabi bir taşınmazda kat malikleri kendilerine ait bağımsız bölümler üzerinde aynı Yasanın 15. maddesi gereğince Medeni Kanunun maliklere tanıdığı bütün hak ve yetkilere sahip olup mahkemece kat maliklerinin iradesi yerine geçecek biçimde karar alınamaz. Bu nedenle uyuşmazlık konusu talebin öncelikle kat malikleri kurulunda değer lendirilmesi gerektiğinden davanın bu nedenle reddi gerekirken yazılı olduğu biçimde reddedilmiş olmasında sonucu itibariyle bir isabetsizlik görülmemiştir.
 
 ## Yargıtay 18. HD 2014/509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/315774300)
 
 Bilirkişi raporunda davalının yönetici olduğu dönemde yönetici alacağı alması gerektiği, bir kısım giderlerden de muaf tutulduğu, bunların dışında da herhangi bir borcunun ispat edilemediği gerekçesiyle borcunun olmadığı belirtilmiş, mahkemece bu rapora dayanılarak hüküm kurulmuştur. İcra takip dosyasında takibe konu yapılan alacak davalının yönetici olduğu döneme ait aidat, bakım ve onarım giderleri olduğuna göre öncelikle belirtilen dönemin tüm karar defteri, işletme projeleri, harcama belgeleri getirtilip bakım ve onarım giderlerinden davalının sorumlu olacağı miktar öncelikle kat malikleri kurulu kararları,
 
@@ -160,17 +220,23 @@ yoksa yönetim planı, yönetim planında da belirtilmemişse Kat Mülkiyeti Yas
 
 ## Yargıtay 18. HD 2013/12968 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/796753000)
+
 634 sayılı Kat Mülkiyeti Yasasının 33. maddesi; "Kat maliklerinden birinin yahut onun katından kira akdine, oturma hakkına veya başka bir sebebe dayanarak devamlı surette faydalanan kimsenin, borç ve yükümlerini yerine getirmemesi yüzünden zarar gören kat maliki veya kat malikleri, anagayrimenkulün bulunduğu yerin sulh mahkemesine başvurarak hâkimin müdahalesini isteyebilir. Hakim, ilgilileri dinledikten sonra, bu kanuna ve yönetim planına ve bunlarda bir hüküm yoksa, genel hükümlere ve hakkaniyet kaidelerine göre derhal kararını verir ve bunun, tesbit edeceği kısa bir süre içinde yerine getirilmesi lüzumunu ilgiliye tefhim veya tebliğ eder.” hükmünü içerir. 6100 sayılı Hukuk Muhakemeleri Kanununun 27. maddesi uyarınca ise; davanın tarafları, müdahiller ve yargılamanın diğer ilgilileri, kendi hakları ile bağlantılı olarak hukuki dinlenilme hakkına sahiptirler. Bu hak; yargılama ile ilgili olarak bilgi sahibi olunmasını, açıklama ve ispat hakkını, mahkemenin, açıklamaları dikkate alarak değerlendirmesini ve kararların somut ve açık olarak gerekçelendirilmesini içerir.
 Hasımlı davalarda duruşma gününün öne alınabilmesi için tarafların birlikte müracaat etmeleri veya davalının duruşma gününün öne alınmasına muvafakat etmesi zorunludur. Davalı, muvafakat veya talep etmedikçe savunma hakkı kısıtlanarak hüküm verilemez. Dosyadaki bilgi ve belgelerden; davacıların 3180 ada 13 parselde yer alan kat irtifakı kurulu ...... Evler Sitesinde kat maliki olduğu,15.04.2012 tarihli kat malikleri kurulu toplantısında yönetim değişikliği olduğu, eski yöneticilerin yeni yönetime site ile ilgili defter, makbuz ve belgeleri vermemesi üzerine bunların yeni yönetime teslimi hususunda davacıların dava açarak hakimin müdahalesini istediği, mahkemece 04.07.2012 tarihli oturumda duruşma 12.09.2012 gününe ertelenmesine rağmen, 10.08.2012 günü re'sen duruşma açarak tarafların yokluğunda davanın kabulüne karar verildiği anlaşılmaktadır.
 Yukarıda açıklanan yasal düzenlemeler dikkate alındığında davalıların duruşma gününün öne alınması konusunda talep veya muvafakatının bulunmadığı gözetilerek duruşmanın ara kararı ile belirlenen günde yapılması, davalıların da savunması alınıp delilleri toplandıktan sonra bir hüküm verilmesi gerekirken yerinde olmayan gerekçe ile 12.09.2012 tarihli duruşma gününden re'sen vazgeçilerek daha önceki bir tarihte savunma hakkını kısıtlar şekilde tarafların yokluğunda davanın kabulüne karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 23. HD 2013/3817 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490893900)
+
 ... Büyük Genel Kurulu'nun ....01.2013 tarih ve 2013/... sayılı Kararı'nın dayanağı olan 2797 sayılı ... Yasası'nın ....maddesini değiştiren 6110 sayılı Yasa'nın ....maddesinde, daireler arası işbölümünün belirlenmesinde mahkeme kararındaki nitelendirmenin esas alınacağı öngörülmüştür. Mahkemenin nitelendirmesine göre, uyuşmazlık; 634 sayılı Kat Mülkiyeti
 
 Kanunu hükümlerine göre, kat malikleri kurulunda kararlaştırılan bedelin tahsili için başlatılan ... takibine vaki itirazın iptali istemine ilişkin olup, hükmün temyiz incelemesi Dairemizin görevi dışındadır.
 
 ## Yargıtay 18. HD 2012/12023 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802200600)
 
 Dosya içindeki bilgi ve belgelere göre, iptali istenilen, 22.01.2011 tarihli aidatlar ve yakıt giderlerinin kat maliklerinden eşit olarak aylık 200 TL alınmasına ilişkin karar işletme projesidir. Kat Mülkiyeti Yasası'nın 32. maddesinin üçüncü fıkrasında yönetim kurulunca alınan kararların öncelikle kat malikleri kurulunca görüşülüp karara bağlanacağı hükmüne yer verilmiştir. Kat Mülkiyeti Yasasının 37. maddesi gereğince de belirlenen bu aidat ve yakıt giderinin kat malikleri veya bağımsız bölümden fiilen yararlananlara imzaları karşılığında veya taahhütlü mektupla bildirilmesi, bu bildirimden itibaren 7 gün içinde işletme projesine itiraz edilirse durumun kat malikleri kurulunda incelenip karar verilmesi gerekir. Ancak bu karar üzerine Kat Mülkiyeti Kanununun 33. maddesine göre kat malikleri kurulu kararının iptali için dava açılabilir.
 Kat malikleri kuruluna başvurulmadan işletme projesine ilişkin yönetim kurulu kararının doğrudan dava konusu edilmiş olması ve 25.07.2006 tarihli kat malikleri kurulunda yönetim planına uygun olarak aidatların tüm maliklerden eşit olarak alınması kararı verildiği de gözardı edilerek bu tarihten önce ve bir kısım bağımsız bölümlerden daha az yakıt gideri alınması yolundaki kararlara göre aidatların ödenmesi kararı verilmesi usul ve yasaya aykırı olup davanın reddi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiştir.

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2010/11912 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/824008900)
+
 Hükmüne uyulan Yargıtay 20.Hukuk Dairesinin 24.06.2008 tarih ve 2008/6193-9078 sayılı bozma kararında; “Mahkemece verilen karar usul ve yasaya aykırıdır.Dairemizin geri çevirme kararı üzerine getirtilen ... Ereğli Kadastro Mahkemesinin 1988/122 -2001/102 esas sayılı dosyası incelendiğinde; TEK Müessesesinin 06.01.1977 tarihinde... mirasçıları aleyhine el atmanın önlenmesi davası açtığı, orman yönetiminin ecrimisil ve el atmanın önlenmesi istemiyle davaya katıldığı, ...
 Ereğlisi 1.Asliye Hukuk Mahkemesinin 26.12.1988 gün 1977/19-1988/553 sayılı kararı ile çekişme konusu taşınmazlar hakkında 58, 61, 704 ve 705 parsel numarası ile kadastro tespitlerinin yapıldığı gerekçesi ile davanın 3402 Sayılı Yasanın 27. maddesi uyarınca Kadastro Mahkemesine aktarıldığı ve 1988/122 esasa kayıt edildiği, Hazinenin, çekişmeli taşınmazların orman niteliği ile hazine adına tapuya tescili istemiyle davaya katıldığı, mahkemece, 58,61, 62,704 ve 705 parsellerin tamamının, 702 parselin ise (A) ile işaretlenen bölümünün orman niteliği ile hazine adına tapuya tesciline, (B) ile işaretlenen kesiminin... mirasçıları adlarına tapuya tesciline karar verildiği, hükmün Orman Yönetimi ve hazine tarafından 702 parsele ilişkin olarak temyiz edilmesi üzerine Dairece “702 parselin (B) ile işaretlenen bölümünün dayanak tapu kaydının miktar fazlası olduğu, tapunun oluşum tarihinden memleket haritasının düzenlendiği 1957 tarihine kadar orman dan açıldığı gerekçesi ile B ile işaretlenen bölümünde orman yapılması yönünde bozulduğu, yerel mahkemenin 2006/42 esasına kaydedildiği ve davanın derdest olduğu, ancak 704 parsele ilişkin hüküm temyiz edilmediğinden kesinleştiği anlaşılmaktadır.
 Somut uyuşmazlıkta fen bilirkişi tarafından düzenlenen krokili raporda (A) ile işaretlenen çekişmeli yerin kadastro çalışmaları sırasında kadastro dışı bırakılan 704 parsel sayılı taşınmaz içinde kaldığı belirlenmiştir. ... Ereğli Kadastro Mahkemesinin 1988/122 - 2001/102 esas sayılı kararı ile 704 parsel sayılı taşınmazın orman niteliği ile Hazine adına tapuya tesciline karar verilmiş olup hükmen orman olarak kesinleşmiştir. ... Ereğlisi Kadastro Mahkemesinin 1988/122 -2001/102 sayılı dosyasında davalı ... taraf değil ise de davanın devamı sırasında temyize konu dosyanın davalısı ...; 1993 yılında ... Ereğli Kadastro Mahkemesinin 1988/122 -2001/102 sayılı dosyasının taraflarından ...’dan satın almıştır. Dolayısıyla davalı ... akdi ardıl (halef) konumunda olup bilindiği üzere H.Y.U.Y’nın 237. maddesinde düzenlenen kesin hüküm davanın taraflarını, akdi ve ırsi ardıllarını (haleflerini ) bağlar. Kesin hüküm olumsuz dava şartlarından olup mahkemece istek olmaksızın resen gözetilmelidir. Kaldı ki; ... Ereğli …
@@ -30,6 +32,8 @@ Somut uyuşmazlıkta fen bilirkişi tarafından düzenlenen krokili raporda (A) 
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak hüküm kurulmuş olduğuna göre, yerinde görülmeyen temyiz itirazlarının reddiyle, usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 14. HD 2010/9804 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/654747400)
 
 Dava, mülkiyet hakkına dayalı elatmanın önlenmesi istemine ilişkindir.
 
@@ -45,6 +49,8 @@ Yapılan yargılamaya, toplanan delillere ve tüm dosya içeriğine göre davac�
 
 ## Yargıtay 7. HD 2010/6097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112513600)
+
 Kural olarak ortak miras bırakanın ölüm gününden sonra, mirasçıları arasında yöntemine uygun bir paylaşmanın varlığından söz edilebilmesi için ortak miras bırakanın ölüm gününden sonra tüm mirasçılarının, bir araya gelerek terekeyi kendi aralarında pay etmeleri, her bir mirasçının kendi payına düşeni aldıktan sonra terekedeki diğer miras haklarından vazgeçmesi koşuluna bağlıdır. Saptanan dava niteliği ile az yukarıda vurgulanan hukuksal olgular da dikkate alındığında, yerel mahkemece yapılan araştırma ve soruşturma hüküm vermeye yeterli değildir. Hükme dayanak yapılan keşifte dinlenen yerel bilirkişi ve tanık sözleri, olaylara dayanmayan soyut nitelikte gerekçesiz sözlerden ibarettir.
 O halde, sağlıklı bir sonuca varılabilmesi için öncelikle ortak miras bırakanın terekesine dahil dava dışı başka taşınmaz mallar bulunup, bulunmadığı araştırılmalı, varsa sözü edilen taşınmazların kadastro tespit tutanakları ve dayanakları belgeler, davalı iseler dava dosyaları ile davalının tutunduğu tapu kaydı ilk oluşumundan itibaren tedavülleri ile birlikte getirtilmeli, bundan başka ortak miras bırakanın terekesine dahil menkul mallar varsa menkul malların niteliği adedi ve değerleri belirlenmeli, daha sonra yöreyi iyi bilen, elverdiğince, yaşlı, yansız, yerel ve uzman bilirkişi tarafların aynı yöntemle gösterecekleri tanıklar ile tespit tutanağı bilirkişilerinin tümü hazır olduğu halde, taşınmaz başında yeniden keşif yapılmalı, yerel bilirkişi ve tanıklardan ortak miras bırakanın yerlerini bir kısım mirasçılara bağışlayıp bağışlamadığı ya da mirasçıların diğer mirasçılara paylarını temlik edip etmediği belirlenmeli, ölüm gününden sonra mirasçıları arasında az yukarıda açıklanan hukuksal olgulara göre yöntemine uygun bir paylaşma yapılıp, yapılmadığı, yapılmış ise dava konusu 189 ada 41 parsel sayılı taşınmazın hangi mirasçı ya da mirasçıların miras payına isabet ettiği
 yolunda yerel bilirkişi ve tanıklardan olaylara dayalı bilgi alınmalı, diğer mirasçı ya da mirasçıların miras payına karşılık kendilerine terekeden ne verildiği duraksamasız belirlenmeli, bu konularda da yerel bilirkişi ve tanıklardan ayrıntılı bilgi alınmalı, tespit tutanağı bilirkişilerinin anlatımları ile tutanak bilirkişilerinin beyanları çeliştiği takdirde tutanak bilirkişilerinin tümü taşınmaz başında ayrı ayrı dinlenerek çelişki giderilmeli, mirasçılar arasında aynı nitelikte kadastro mahkemesinde görülmekte olan dava ya da davalar varsa usulün 45 ve onu izleyen maddeleri hükmü uyarınca davalar arasında fiili ve hukuki irtibatın varlığı davalardan biri hakkında verilecek hükmün aynı nitelikteki diğer davanın sonucunu etkileyeceği gözönüne alınarak dava dosyalarının birleştirileceği düşünülmeli, sonuçlanan ve kesin hükme bağlanan davalar varsa deliller değerlendirilirken sözü edilen taşınmazlarla ilgili olarak yerel mahkemesinden verilen ve kesinleşen hükümler de gözönüne alınmalı, özellikle sözü edilen taşınmaz ya da taşınmazların tespit tutanakları içeriğinde paylaşma olgusuna yer verilip verilmediği yönü üzerinde durulmalı uyuşmazlığın niteliğine göre deliller
@@ -53,6 +59,8 @@ değerlendirilirken paylaşmada her bir mirasçıya eşit yüzölçümde ve eşi
 Mahkemece bu olgular gözardı edilerek yazılı şekilde hüküm kurulması isabetsiz, davalı ...'nın temyiz itirazları bu nedenlerle yerinde görüldüğünden kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/5813 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768669200)
 
 Davalı, 137 ada 57 parsel sayılı taşınmazı kendisinin, bu parsele komşu 137 ada 56 parsel sayılı taşınmazı davacının kullandığını belirterek açılan davanın reddini savunmuştur.
 
@@ -68,6 +76,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 14. HD 2010/4769 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769455900)
+
 Davacı, davalının, müşterek murisleri ... adına tapuda kayıtlı olan ... ada 22 sayılı parselde bulunan 6 no’lu dükkan ile bu dükkâna bitişik davalı adına kayıtlı olan 5 no’lu dükkanı ayıran duvarı yıkıp tek bir gayrimenkule çevirerek burayı başka kişilere kiralamak suretiyle kullandığını belirterek, elatmasının önlenmesini ve taşınmazları ayıran duvarın eski hale getirilmesine karar verilmesini talep etmiştir.
 
 Davalı, davanın reddini savunmuştur.
@@ -79,6 +89,8 @@ Uyuşmazlık konusu taşınmaz davacı ve davalının ortak murisi ... ’dan ka
 SONUÇ: Yukarıda açıklanan nedenlerle, davacının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2010/1963 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/528216300)
 
 Davacılar ... ve ... vekilleri, dava dilekçesinde dava konusu taşınmazın davacıların murisi ...’nın dava konusu taşınmazı davalıların murisi İsmail’den 20.04.1968 tarihinde senetle haricen satın aldığını, bu tarihten beri zilyet olduklarını, ...’nın diğer mirasçısı Zeliha’nın hissesini de davacı ...’nın satın aldığını, ... adına olan 177 parsel sayılı tapu kaydının iptali ile davacılar adına miras hisseleri oranında tapuya tescilini, davalılardan ...’nin “dam” yaparak taşınmaza vaki müdahalesinin önlenmesini ve ayrıca 1.500 TL ecrimisile hükmedilmesini istemişlerdir.
 
@@ -96,6 +108,8 @@ Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazlarının kab
 
 ## Yargıtay 14. HD 2009/9541 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844878800)
+
 Mahkemece, davalılardan .... aleyhine açılan davanın reddine, elbirliği maliki davalı ... hakkında açılan davanın kabulü ile 441 ada 65 parsel sayılı taşınmaz üzerinde 09.10.2008 havale tarihli kadastro bilirkişisinin raporunda (A, B, C) ile gösterilen kısımlardaki müdahalesinin önlenmesine, (A) ile gösterilen kısmın davacı ... Avcı’ya, (B) ile gösterilen kısmın davacı ...’e, (C) ile gösterilen kısmın ...’a teslimine karar verilmiştir.
 
 …
@@ -108,6 +122,8 @@ Somut olayda da, davacıların 441 ada 65 sayılı parselden yararlanamadıklar�
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/1895 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844859200)
 
 Dava, inanç ilişkisine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -126,6 +142,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle ...’ın bütün temyiz itira
 
 ## Yargıtay 14. HD 2009/1168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841891200)
+
 Davalı, davanın reddini savunmuştur.
 
 …
@@ -139,6 +157,8 @@ Somut olayda; davacı tarafından açılan dava hiç şüphesiz bütün ortaklar
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/121 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78179100)
 
 Davacı, çekişme konusu 2 parsel sayılı taşınmazda davalı ile birlikte malik olduğunu, taşınmazın tamamının davalı tarafından kullanıldığını ileri sürerek, elatmanın önlenmesi, taşınmazın yarısının kendisine teslimi, tescili ve ecrimisil isteğinde bulunmuştur.
 
@@ -158,6 +178,8 @@ Davalının, temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan ned
 
 ## Yargıtay 14. HD 2008/12763 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848682600)
+
 Davalı, mirasçılar arasında paylaşma olmadığını, taşınmazın dönüşümlü olarak kullanılması gerektiğini, açılan davanın reddini savunmuştur.
 
 Mahkemece, taksimin varlığı kabul edilerek taksimde davacıya bırakıldığı saptanan bilirkişi krokisinde yeşil renkle gösterilen 72 m2 yüzölçümündeki taşınmaz bölümüne davalının elatmasının önlenmesine karar verilmiştir.
@@ -171,6 +193,8 @@ Az yukarıda sözü edildiği üzere 1037 parsel sayılı taşınmaz, tapuda pay
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2008/6130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78123700)
 
 Davacı, kayden paydaşı olduğu 9 parsel sayılı taşınmaza, davalı komşu parsel maliklerinin merdiven ve duvar inşa etmek suretiyle haksız müdahale ettiklerini ileri sürerek el atmanın önlenmesi ve tecavüzlü yapının yıkılmasına karar verilmesini istemiştir.
 
@@ -194,6 +218,8 @@ Hemen belirtilmelidir ki, hüküm davanın taraflarına muzaf olmak üzere kurul
 
 ## Yargıtay 20. HD 2008/4332 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903926400)
+
 Davacı Hazine, 22.10.2004 tarihli dava dilekçesiyle ... Köyü (Mahallesi) 26082 ada 2 parsel sayılı taşınmazın, 1947 yılında yapılıp kesinleşen orman kadastro sınırları içerisindeyken, 1977 yılında kesinleşen 6831 Sayılı Yasanın 2/B madde uygulaması sonucu Hazine adına orman sınırları dışına çıkartıldığını, taşınmazın kesinleşen orman sınırları içinde olduğu göz önünde bulundurulmadan, davalı belediye adına tapu kaydı oluşturulduğunu, hukuki dayanaktan yoksun ve yolsuz tescil niteliğindeki davalılar adına olan bu tapu kaydının iptalini ve Hazine adına tescilini istemiştir. Mahkemece davanın KABULÜNE karar verilmiş, hüküm davalı gerçek kişi tarafından temyiz edilmiştir.
 
 …
@@ -211,6 +237,8 @@ Hukuk Dairesi Başkanın Hakem sıfatıyla verdiği 09.04.1973 gün ve 1947/40-4
 taşınmazların, Anayasanın 170. maddesinde belirtilen kamu hizmetinin yerine getirilmesi için 2924 Sayılı Yasa gereği Orman Bakanlığının emrine geçeceği, başka bir anlatımla, Orman Bakanlığına tahsis edilmiş sayılacağından 3402 Sayılı Yasanın 17. maddesi ve yine yasalar gereği Hazineye kalan yerler olması nedeniyle, aynı yasanın 18. maddesi hükmü karşısında, orman rejimi dışına çıkarma işlemi Hazine adına yapılacağından, 2896 ve 3302 sayılı yasa ile değişik 6831 sayılı yasanın 2/B maddesi gereğince Hazine adına orman sınırları dışına çıkarılan taşınmazların Kazandırıcı zamanaşımı yoluyla edinilmesine olanak bulunmadığı, H.G.K.’nın 21.02.1990 gün ve 1989/1-700-101 sayılı, 05.05.1999 gün ve 1999/1-302 -258 sayılı ve aynı gün 1999/1-304 -260 ve 30.06.1999 gün ve 1999/1-544-561 sayılı kararlarında kabul edildiği gibi, Hazinenin devletin hüküm ve tasarrufu altındaki yer iddiası ile açacağı iptal davaları 3402 Sayılı Yasanın 12/3 maddesindeki 10 yıllık hak düşürücü süreye tabi olmadığı hususları gözetilerek, Hazine davasının kabulüne karar verilmesinde isabetsizlik bulunmadığına göre, davalı gerçek kişinin tüm temyiz itirazlarının reddiyle usul ve yasaya uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2008/1702 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78097200)
 
 Davacı, dava konusu 23 ada 9 parsel sayılı taşınmazın miras bırakanları Me... ait olduğunu, miras bırakanın vasiyetnamesi ile dava konusu taşınmazda bulunan evi mirasçılarına vasiyet ettiğini, vasiyetnameye göre davalının oturduğu 3.katın kendisine vasiyet edildiğini ileri sürerek vasiyetname gereğince evin 3.katında oturma hakkının bulunduğunun tapuya şerh verilmesi ile davalının elatmasının önlenmesi isteğinde bulunmuştur.
 
@@ -232,6 +260,8 @@ Hal böyle olunca,davalının bu yönlere değinen temyiz itirazları yerindedir
 
 ## Yargıtay 20. HD 2007/5751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897668200)
+
 2- 79 parsel yönünden; mahkemece 79 parselin (B) bölümünün (2594.17 m2) orman niteliği ile Hazine adına tapuya tesciline ve elatmanın önlenmesine, (C) bölümünün (15808.15 m2) davalı mirasçıları adına zeytinlik niteliğiyle tesciline karar verilmiş, (A) bölümü hakkında hüküm kurulmamıştır. Hazine bu parsel hakkında başlangıçta dava açmamış ve Orman Yönetiminin açtığı davaya katılmamıştır. O halde, (B ve C) bölümleri hakkında verilen kararda isabetsizlik bulunmamaktadır. Ancak, (A) bölümü hakkında hüküm kurulmamış olması doğru edğilse de, bu yanılgının giderilmesi hükmün bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden hükmün düzeltilerek onanması uygun görülmüştür. Bu nedenle, 11.05.2006 tarihli hüküm fıkrasının 5. paragrafından sonra gelmek üzere "... Köyü 538 ada 79 parselin (A) işaretli (747.38 m2) yüzölçümlü bölümünün tespit gibi tesciline" sözleri yazılmak suretiyle düzeltilmesine ve H.Y.U.Y.'nın 438/7.
 
 …
@@ -241,6 +271,8 @@ Hal böyle olunca,davalının bu yönlere değinen temyiz itirazları yerindedir
 …
 
 ## Yargıtay 1. HD 2007/1460 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77938400)
 
 Davacı, kısıtlı M..Ç.ın maliki bulunduğu .parsel sayılı taşınmazı davalının haksız ve yersiz kullandığını ileri sürüp elatmanın önlenmesi ve kısıtlı adına tasarruf edilmek üzere vasisine teslimine, davalının haksız aldığı 2004 yılı devlet destekleme bedelinin yasal faizi ile davalıdan tahsiline karar verilmesini istemiştir.
 
@@ -256,12 +288,16 @@ Hal böyle olunca, davaya devam edilerek tarafların iddia ve savunmaları doğr
 
 ## Yargıtay 14. HD 2006/4182 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855262500)
+
 Uyuşmazlık konusu yer dava dışı kilise vakfı tarafından davacılar miras bırakanı ... ve davalı ...’e 15.8.1981 başlangıç tarihli sözleşmesi ile belli bir kira bedeli karşılığı kullanılmak üzere terk edilmiştir. Anılan sözleşme adi kiraya ilişkin bulunduğundan sorunun çözümünde adi kirayı düzenleyen Borçlar Kanununun 248 ve devamı maddelerinden yararlanılması zorunludur. Gerçekten, yasanın 260 maddesindeki kiracının temerrüdü, 261 maddesindeki kiracının iflası nedenleri ileri sürülerek fesih istenmedikçe 263. maddedeki düzenleme gereğince adi kira ilişkisi gayri muayyen bir müddet için yenilenmiş sayılır. Her ne kadar davacıların miras bırakanı, kiracı ... 1988 yılında ölmüş ise de gerek mirasçıları gerekse kiralayan yasanın öngördüğü mehillere uyarak fesih ihbarında bulunmadığından kiracının ölümü de sözleşmenin kendiliğinden feshi sonucunu meydana getirmez. Başka bir anlatımla, davacıların murisi ... ve davalı ...’in kiracı sıfatı ile kiralayan Rum Ortadoks Kilise Vakfı ile imzaladıkları 15.8.1981 başlangıç tarihli kira sözleşmesi geçerlidir.
 Kilise tarafından daha sonra 1.1.1992 ve 1.1.2002 başlangıç tarihli sözleşmeler ile çekişmeli taşınmazın davalı ...’e onun tarafından da alt kiracı ...’e kiralanmış olması yarışan şahsi haklardan önceki tarihli olanın geçerli sayılacağı kuralı uyarınca davacıların kiracılık hakkını etkilemez. Bu durumda mahkemece 15.8.1981 tarihli sözleşme ile kiralanandan davacıların miras bırakanı ... ile davalı ...'in ve müştereken yararlandığı gözetilerek, davacıların 1/2 payına vaki davalı ... ve diğer davalının elatmasının önlenmesine ve koşulları yerinde bulunursa hesaplattırılacak ecrimisil tahsiline karar verilmesi yerine davanın yazılı bazı gerekçelerle reddine karar verilmesi doğru olmamış bozmayı gerektirmiştir.
 
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 16. HD 2003/11207 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16408800)
 
 Mahkemece çekişmeli taşınmazın vergi kaydı kapsamında kalmadığı kabul edilmek suretiyle davanın kabulüne karar verilmiş ise de; değerlendirme dosya kapsamına uygun düşmemektedir. Taşınmazın tarım arazisi olduğu, kamu yararına tahsis edilen veya Devletin hüküm ve tasarrufu altında bulunan yerlerle bir ilgisinin bulunmadığı, davalı tarafın tespitten geriye doğru aralıksız, çekişmesiz ve malik sıfatıyla zilyetliğinin 20 yılı aşkın süreye ulaştığı, tespit tarihi itibariyle zilyetlikle mülk edinme şartlarının davalı yararına gerçekleştiği mahallinde yapılan keşif, uygulama, yerel bilirkişi anlatımı, komşu parsellere revizyon görüp çekişmeli parsel yönünü davalıların adıyla okuyan kayıtlarla belirlenmiştir. Taşınmazın tarım arazisi olduğu hususunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Uyuşmazlık davalıların dayanağını oluşturan ve kadastro tespiti sırasında 311, 314, 315 ve 316 sayılı parsellere revizyon gören 214 tahrir nolu vergi kaydı kapsamı dışında kalan bu taşınmazın zilyetlikle iktisabına engel bir hal bulunup bulunmadığı konusundadır. Kaydın doğu hududu Ahmet, batısı Hazan, güneyi yol, kuzeyi Çay ile çevrilidir.
 Hudutlar gayri sabit olsa dahi, bu taşınmazın mirasçı bırakmadan öldüğü söylenen Ahmet'in tarlasına el atmak suretiyle elde edildiği veya faal çaydan kazanıldığı iddia ve ispat edilmediği sürece kayıt miktar fazlasının zilyetlikle iktisabına engel bulunmamaktadır. Kaydın hududunda orman, mer'a ve harman yeri gibi taşınmazlar bulunmadığı gibi, taşınmazın bu tür yerlerden elde edildiği de iddia edilmemiştir. Taşınmazın salt kayıt kapsamı dışında kalması zilyetlikle iktisabına engel değildir. Hal böyle olunca; davalı adına zilyetliğe dayanılarak tespit edilen taşınmazlarla İlgili olarak Kadastro Kanunu'nun 14. maddesi gereğince Tapu sicil, Kadastro ve Hukuk Mahkemeleri Yazı İşleri Müdürlükleri nezdinde araştırma yapıp miktar yönünden bir engel bulunmadığı ve taşınmazın araştırma sonunda mirasçı bırakmadan öldüğü ve mallarının Hazineye kaldığı tespit edilecek Ahmet tarlasından veya faal çaydan elde edilmediği belirlendiği takdirde taşınmazın tamamının davalı adına zilyetliğe dayanılarak tespit edilmiş gayrimenkul varsa, bu miktar düşüldükten sonra kalan arazinin davalı adına tesciline karar verilmesi gerekir.

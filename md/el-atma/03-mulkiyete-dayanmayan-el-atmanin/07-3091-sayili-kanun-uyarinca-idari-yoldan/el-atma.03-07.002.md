@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2010/249 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76851000)
+
 Dava, Tarım ve Köy İşleri Baykanlığı tarafından açılan elatmanın önlenmesi, kal ve eski hale getirme istemine ilişkindir.
 
 …
@@ -38,6 +40,8 @@ SONUÇ: Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararını
 
 ## Yargıtay HGK 2007/72 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16236400)
+
 Kazandırıcı zamanaşımı zilyetliği ile bir taşınmazın mülk edinilmesinin en önemli koşullarından biri de, "malik sıfatı ile - malik niteliğiyle" zilyetliğin dava-sız (çekişmesiz - nizasız) olarak sürüp devam etmesidir. O halde kanun koyucu hangi durumları niza-çekişme olarak nitelendirmek istemiştir? Kanunlarda bu yönde bir açıklık bulunmamaktadır. Ancak TMK'nın 713/1. fıkrasında "davasızlıktan" söz edilmektedir. Gerek yargısal alanda ve gerekse öğretide (doktrinde) üstün tutulan görüşe göre, ancak "dava" halinde nizanın (çekişmenin) varlığı kabul edilmektedir. Yani çekişme ancak dava ile oluşmaktadır. Şu hale göre zamanaşımını kesen bir davadan söz edebilmek için taşınmazın zilyedine karşı gerçek malik tarafından HUMK'nın öngördüğü bir istihkak ya da elatmanın önlenmesi veya başka bir davanın açılması ve bu davanın da başarı ile sonuçlanması gerekir.
 
 Öte yandan, 3091 sayılı Kanuna göre idari makamların verdiği men kararları, Noter'den çekilen ihtarnameler, Hazine adına, taşınmazı tasarruf edenlere gönderilen ecrimisil ihbarnameleri ile davalı tarafın ileri sürdüğü mülkiyet ya da davanın reddi yönündeki defilerin çekişme (dava) sayılamayacağı aynı çevrelerce ağırlıklı olarak kabul edilmektedir. (HGK'nın 29.11.1969 tarih ve 1967/7-656 E., 1969/82 K.; 12.05.1973 tarih ve 1969/8-808 E., 1973/403 sayılı kararlan ile, Onyedinci Hukuk Dairesinin 23.11.1992 gün ve 1992/2498 E., 10615 K.; Onaltıncı Hukuk Dairesinin 17.09.1990 gün ve 1989/16076 E., 1990/11850 K.; Yedinci Hukuk Dairesinin 04.06.1986 gün ve 11300/5985 K., aynı Dairenin 20.12.1990 gün ve 12149/15575 K.; A.N. Ozanalp, Tapulama Kanunu Şerhi, 1976 Bası, sayfa 393 ve devamı, Oğuzman/Seliçi, Eşya Hukuku, 1978 Bası, sayfa 411 ve devamı). Bunun dışında TMK'nın 713. maddesinin Hükümet gerekçesinde: "...İsviçre Medeni Kanunu'nun şerh ve tevsii eden bütün hukuk bilginlerinin birleştikleri gibi, zilyede karşı bir istihkak veya müdahalenin önlenmesi davası açılmış olmasının niza (çekişme) sayılacağı" açıklanmıştır (Eraslan Özkaya, Gerekçeli-Kacşı-laştırmalı TMK, 2002 baskı, sayfa 619).
@@ -48,6 +52,8 @@ Kaldı ki, hak sahibi davalıların daha önce açılan tescil davası reddedilm
 Sonuç: Davacı vekilinin temyiz itirazlarının reddi ile yerel mahkemenin direnme kararının yukarıda açıklanan gerekçelerle (ONANMASINA)
 
 ## Yargıtay 8. HD 2025/7073 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196456700)
 
 İlk Derece Mahkemesince bozma ilamına uyularak yapılan yargılama sonunda; davanın reddine karar verilmiştir.
 
@@ -66,6 +72,8 @@ Kanun'un 22/2-a maddesi uyarınca uygulama kadastrosu çalışmasının yapıld�
 Temyiz olunan İlk Derece Mahkemesi kararının 6100 sayılı Hukuk Muhakemeleri Kanunu'nun geçici 3. maddesi yollaması ile 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun (1086 sayılı Kanun) 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/514 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896655800)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -86,6 +94,8 @@ Dava, mülkiyet hakkına dayalı elatmanın önlenmesi istemine ilişkin olup uy
 Bu nedenle dava konusu taşınmaz başında gerekirse tekrar keşif yapılarak var ise; müdahale edilen alanların her türlü tereddütten uzak olacak şekilde ölçekli ve koordinatlı krokide gösterilmesi, 3091 sayılı Kanun uyarınca Tillo Kaymakamlığınca yapılan işlemler de birlikte değerlendirilerek oluşacak sonucuna göre bir karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 8. HD 2018/15886 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477301300)
 
 Davacı, dava dilekçesine ek olarak sunduğu tapu kayıtlarındaki taşınmazları davalının ekip biçmek suretiyle kullandığını, bu faydalanmadan dolayı toprağın zarar gördüğünü ve gübreleme yapılması gerektiğini, davalının haksız işgalci olduğunu ileri sürerek eski hale getirilmesine, eski hale getirme bedelinin tazminine ve ecrimisile karar verilmesini istemiştir.
 
@@ -111,6 +121,8 @@ SONUÇ: Yukarıda (1) numaralı bentte yazılı nedenlerle davacı vekilinin tem
 
 ## Yargıtay 20. HD 2018/407 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406149300)
+
 Davacı vekili 09/02/2007 havale tarihli dilekçesi ile 294 ada 8 parsel sayılı taşınmazın mülkiyetinin intikal ve satın alma yoluyla davacıya geçtiğini ancak davacıya ait komşu taşınmazın yüzölçümü 2500 m² küçültülerek 294 ada 5 parsel sayılı taşınmazın yüzölçümünün fazla tespit edildiğini belirterek hatalı yapılan kadastro tespitlerinin iptali ile 294 ada 8 parsel sayılı taşınmazın tamamen, 294 ada 5 parsel sayılı taşınmazın ise 2500 m²'sinin davacı adına tespit ve tescilini talep etmiştir.
 
 …
@@ -132,6 +144,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davalı vekili ve birleştirilen dosya
 
 ## Yargıtay 16. HD 2017/6891 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/371104800)
+
 Yargıtay bozma ilamında özetle;
 "Mahkemece, dava konusu taşınmaz üzerinde davalı tarafın zilyet olduğu şeklindeki beyanlara değer verilerek hüküm kurulduğu, ancak bir kısım tanıkların taşınmazın 18.04.2013 tarihli bilirkişi raporunun eki olan krokide (A) harfi ile gösterilen bölümünün davacının zilyetliğinde olduğunu belirttikleri, yine dosya içinde bulunan 3091 sayılı Yasa kapsamında yapılan soruşturmaya ilişkin evrak örneklerinde gerek davacının (müşteki) gerekse davalı ...’nın (mütecaviz) sıfatı ile alınan ifadelerinde niza konusu taşınmazın ortak olarak kullanıldığı belirtildiği halde bu beyanlar üzerinde durulmadığı, sözü edilen soruşturmaya konu taşınmazın dava konusu taşınmaz olup olmadığının incelenmediği, zilyetliğe ilişkin beyanlar arasında mevcut olan çelişkilerin giderilmediği belirtilerek; yeniden keşif yapılması, keşifte yerel bilirkişi, tespit bilirkişileri ve taraf tanıklarından taşınmaz üzerinde zilyetliğin ne zamandan beri kim tarafından ve ne şekilde sürdürüldüğünün sorulup saptanması, taraflara 3091 sayılı Yasa kapsamındaki soruşturma evrakı içinde yer alan beyanları hakkında diyeceklerinin sorulması, fen bilirkişisine bu evraka ait krokisinin taşınmazın hangi bölümüne ait olduğuna ilişkin
 yeni bir kroki düzenlettirilmesi; gerektiğinde, hakimin davayı aydınlatma görevi bulunması nedeniyle soruşturma evrakında tanık olarak dinlenen kişilerin tanık olarak ifadelerine başvurulması, bundan sonra toplanan tüm deliller göz önünde bulundurularak sonucuna göre bir karar verilmesi" gereğine değinilmiştir. Mahkemece bozma ilamına uyularak yapılan yargılama sonunda davanın kısmen kabulüne, çekişmeli 130 ada 12 parsel sayılı taşınmazın tespitinin iptali ile fen bilirkişi raporunda (A) harfi ile gösterilen 1.418,73 metrekare yüzölçümündeki bölümünün davacı ..., (B) ve (C) harfleri ile gösterilen toplam 1.889,61 metrekare yüzölçümündeki bölümünün eşit payla Zeynep ve ... adına tapuya tesciline karar verilmiş; hüküm, davacı ... vekili ile davalılar Zeynep ve ... vekili tarafından temyiz edilmiştir.
@@ -139,6 +153,8 @@ yeni bir kroki düzenlettirilmesi; gerektiğinde, hakimin davayı aydınlatma g�
 Dosya içeriğine, mahkemece hükmüne uyulan bozma kararında açıklandığı gibi işlem yapılıp sonucuna göre hüküm verilmiş olmasına, delillerin takdirinde bir isabetsizlik bulunmamasına göre yerinde bulunmayan temyiz itirazlarının reddi ile usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2017/2558 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358653100)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi isteğine ilişkindir.
 
@@ -156,6 +172,8 @@ Davacının temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan neden
 
 ## Yargıtay 4. HD 2016/5555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/230192500)
+
 Dava, davacının 3091 sayılı Kanun uyarınca kaymakamlığın men kararı ve infazı nedeniyle uğranılan idari soruşturma giderlerinin tahsili istemine ilişkindir.
 
 …
@@ -170,6 +188,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenle BOZULMASINA ve peş
 
 ## Yargıtay 1. HD 2016/4477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/204310400)
+
 Öte yandan; davacının dava konusu yapı ile ilgili 02.04.2012 tarihinde 3091 sayılı kanun kapsamında Seyitgazi Kaymakamlığına yaptığı başvuruya ilişkin evrakları yargılama aşamasında dosyaya sunmadığı ve bu aşamada anılan belgeye dayanamayacağı da gözetilerek davacının ecrimisil isteminin reddine karar verilmiş olmasında da bir isabetsizlik bulunmadığından, davacının aşağıdaki bent kapsamı dışındaki karar düzeltme talepleri yerinde değildir. Reddine.
 
 …
@@ -179,6 +199,8 @@ Değinilen bu husus karar düzeltme istemi üzerine bu kez yapılan inceleme ile
 …
 
 ## Yargıtay 14. HD 2015/9438 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/129540600)
 
 Davacılar, kendi taşınmazları içinde bulunan kaynak suyuna davalı köy tüzel kişiliğinin haksız olarak elattığını ileri sürerek müdahalenin men'ini istemişlerdir.
 
@@ -193,6 +215,8 @@ Böylece davalı tarafın köy tüzel kişiliği adına idareye müracaatla 3091
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacıların tüm temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle davalı tarafın temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2015/3529 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/179979300)
 
 Davacılar, 18 parsel sayılı taşınmazdaki A9 Blok 10 ve A12 Blok 3 numaralı bağımsız bölüm numaralı taşınmazlarını dava dışı ...’e teminat göstererek karşılığında 770.000 $ borç almak amacıyla sözleşme yaptıklarını, sözleşme gereğince tapudan ...’e devrinden sonra taşınmazların sözleşme hükümlerine aykırı olarak davalı ...’e devredildiği gibi sözleşmede belirtilen bedelin de ödenmediğini, davacıların davalı ...’e yaptığı tapu devir işleminin sebepsiz kaldığını, davalı ...’in de kötüniyetli olup ... ile birlikte hareket ettiğini ileri sürerek taşınmazların tapu kayıtlarının iptali ile adlarına tescilini istemişlerdir.
 
@@ -212,11 +236,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı ... vekilinin temyiz itirazlar�
 
 ## Yargıtay 1. HD 2014/289 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84111100)
+
 O halde, 3091 sayılı Yasa uyarınca yapılan başvuru evrakları da değerlendirilerek davalılar Fahri ve Zeki'nin dava konusu taşınmaza döktükleri hafriyatın ve eski hale getirilme bedelinin tespit edilerek sonucuna göre hüküm kurulması gerekirken bu davalılar bakımından pasif husumetten (sıfat yokluğundan) davanın reddine karar verilmesi doğru değildir.
 
 Davacıların temyiz itirazları değinilen yön itibariyle yerindedir. Kabulüyle, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2013/11072 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79712600)
 
 Dava, çaplı taşınmaza el atmanın önlenmesi isteğine ilişkindir.
 
@@ -234,6 +262,8 @@ Davacının temyiz itirazı yerindedir. Kabulü ile, hükmün (6100 sayılı Yas
 
 ## Yargıtay 8. HD 2013/10486 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/439333700)
+
 Davacı ..., kök muris ...'e ait iken kadastro çalışmaları sonucunda ... mirasçıları adına tespit ve tapuya tescil edilen taşınmazın 1/7'sinin kendisine yakın muris...'den kaldığını,... ile diğer kayıt malikleri arasında yapılan taksim sonucu taşınmazın öncesinde...'nin ve ölümü ile de kendisinin zilyetliğinde bulunduğunu açıklayarak taşınmazın taksim sözleşmesi gereğince ve bunun mümkün olmaması halinde ölüm sebebine dayanarak davalılar üzerindeki tapu kaydının iptali ile adına tesciline karar verilmesini istemiştir.
 
 …
@@ -246,11 +276,15 @@ Yukarıda açıklanan nedenlerle bir kısım davalılar vekilinin temyiz itirazl
 
 ## Yargıtay 3. HD 2012/20964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520974300)
+
 Dosyadaki bilgi ve belgelerden; davalı köyün başvurusu üzerine, davalı kaymakamlığın 3091 sayılı Kanun hükümleri uyarınca aldığı 04.10.2006 tarihli kararla, davacıyı davaya konu su kaynağını kullanmaktan men ettiği, ayrıca davaya konu su hakkında ise bir tahsis ve tevzi kararının bulunmadığı anlaşılmaktadır.3091 sayılı Kanunun idari amirlere tanıdığı yetki, sadece zilyetliğin korunmasına ilişkin olup, bu konuda verilecek olan kararlar uyuşmazlığın adli yargı yerlerine intikalinden önce alınmış bir idari önlem niteliğindedirler.Nitekim istem üzerine, idari mercilerce tecavüz ve müdahalenin men'i ile taşınmazın zilyedine teslimi halinde üstün hakkı olduğunu iddia eden kişilerin, adli yargıdaki ilgili mahkemeye başvurabilecekleri 3091 sayılı Kanunun 7. maddesinde belirtilmektedir.
 
 Öte yandan, dava dilekçesinde belirtilen 11.07.2007 tarihli yazının ise; dava dışı ... Mal Müdürlüğü tarafından devletin hüküm ve tasarrufu altındaki yerden su alınması ile ilgili usul ve esasların bildirilmesi amacıyla davacıya gönderildiği ortadadır.Bundan ayrı, birleşen davanın davalısının gerçek kişi olması nedeniyle bu davaya idari yargı yerinde bakılamayacağı da açıktır.Şu durumda mahkemece; uyuşmazlığın niteliğine, davaya konu genel sular hakkında bir tahsis ve tevzi kararının bulunmayışına, birleşen davanın taraflarının gerçek kişi olmasına göre asıl ve birleşen davaların usulünce incelenmesi ve ortaya çıkacak sonuca göre bir karar verilmesi gerekirken, bu yön gözardı edilerek yanılgılı değerlendirme ile yargı yolu bakımından görevsizlik kararı verilmesi, usul ve yasaya aykırıdır.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK. nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/10712 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79046500)
 
 Dava, çaplı taşınmaza elatmanın önlenmesi ve yıkım isteğine ilişkindir.
 
@@ -263,6 +297,8 @@ O halde mahkemece, mahallinde uzman bilirkişiler marifetiyle keşif yapılarak 
 Davacının bu yönlere değinen temyiz itirazları yerindedir. Kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/2197 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79175700)
 
 Davacı, 393 parsel sayılı taşınmazına, komşu 914 parselde bulunan davalının evinin, ahırının ve samanlığının duvarının tecavüzlü olduğunu, kaymakamlığa yaptığı şikayet üzerine 24.03.2010 tarihinde fen bilirkişisinden alınan rapor doğrultusunda men kararı verildiğini, sonradan yapmış olduğu şikayet neticesinde 13.04.2010 tarihinde verilen kararda ise tecavüzün terkedildiği ve yeni bir işgalin bulunmadığı gerekçesi ile talebinin reddedildiğini, ancak ilk kararın infaz edilmemiş ve tecavüzün giderilmemiş olması sebebi ile anılan kararların çelişkili olduğunu, davalının tecavüzünün devam ettiğini ileri sürerek, elatmanın önlenmesine, taşkın muhdesatın yıkımına ve işgalin başlangıcından itibaren uygun bir ecrimisile karar verilmesini istemiştir.
 

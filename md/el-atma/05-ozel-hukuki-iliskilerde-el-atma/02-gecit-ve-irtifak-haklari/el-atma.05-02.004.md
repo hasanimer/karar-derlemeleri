@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2015/18172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/195469600)
+
 Davacı vekili dava dilekçesinde,davalı idare tarafından direk dikilmek ve irtifak geçirilmek suretiyle el atıldığını ileri sürerek el atmanın önlenmesi talep etmiş, mahkemece davanın kabulüne karar verilmiştir.
 
 …
@@ -31,6 +33,8 @@ Enerji nakil hattının davacının arazisi üzerinde ve açıktan geçirilmiş 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/15957 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/131456500)
 
 Dairemizin geri çevirme kararı üzerine davalı idarece dava konusu taşınmazın kamu yararı kararının el atma tarihi olarak kabul edilmesi gerektiği bildirilmiş, dava konusu taşınmaz ile ilgili olarak kamu yararı kararının 03.10.1973 tarihinde alındığı anlaşılmıştır.
 Buna göre söz konusu yolun dava konusu taşınmaz kesimindeki kısmının yapım tarihinin araştırılarak el atma tarihinin 09.10.1956 tarihi ile 04.11.1983 tarihi arası olduğunun anlaşılması halinde, 11.06.2013 tarihinde yürürlüğe giren 6487 sayılı Yasa ile değişik 2942 sayılı Kamulaştırma Kanununun Geçici 6. maddesinin 1. ve 2. fıkrasında düzenlenen "Kamulaştırma işlemleri tamamlanmamış veya kamulaştırması hiç yapılmamış olmasına rağmen 09/10/1956 tarihi ile 04/11/1983 tarihi arasında fiilen kamu hizmetine ayrılan veya kamu yararına ilişkin bir ihtiyaca tahsis edilerek üzerinde tesis yapılan taşınmazlara veya kaynaklara kısmen veya tamamen veyahut irtifak hakkı tesis etmek suretiyle malikin rızası olmaksızın fiili olarak el konulması halinde taşınmazın dava tarihindeki değeri taşınmazın el koyma tarihindeki nitelikleri esas alınmak ve bu Kanunun 11 inci ve 12 nci maddelerine göre hesaplanmak suretiyle tespit edilir." hükmü dikkate alınarak dava konusu taşınmazın el atma tarihinde 1/1000 ölçekli uygulama imar planı içinde bulunup bulunmadığının, bu tarih itibariyle kesinleşmiş imar planı içinde olmadığının anlaşılması halinde belediye veya mücavir alan sınırları içinde olmakla beraber
@@ -42,16 +46,22 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2015/11297 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405841800)
+
 4721 sayılı Medeni Kanunun 727. maddesinin son fıkrasına göre “İrtifak hakkı, mecra dışarıdan görülmüyorsa tapu kütüğüne tesciliyle, dışarıdan görülüyorsa noterce düzenlenecek sözleşmeye dayanılarak mecranın yapılmasıyla doğar." hükmü uyarınca mahkemece, telin dışarıdan geçirilmesi nedeniyle noter tarafından düzenlenen bir sözleşmenin veya belgenin bulunup bulunmadığı araştırılarak, böyle bir belgenin veya sözleşmenin bulunmadığının tespiti durumunda dava konusu taşınmaza idare tarafından yapılan el atmanın önlenmesine; belge veya sözleşmenin bulunduğunun anlaşılması durumunda ise kamulaştırmasız el atma davalarında da uygulanan Kamulaştırma Yasasının 10. maddesi de dikkate alınıp, davacının kamulaştırmasız el atma tazminatı istemesi halinde kamulaştırmasız el atma bedeline ve pilon yeri ile irtifak hakkının sorumlu idare adına tesciline karar verilmesi gerektiğinin düşünülmemesi doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2015/7518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/186880600)
+
 16.05.1956 tarihli ve 1956/1-6 sayılı İBK uyarınca; taşınmazına fiilen el atılan malik, ilgili idareye karşı müdahalenin önlenmesi davası açabileceği gibi dilerse bu fiili duruma razı olarak, mülkiyet hakkının idareye devrine karşılık taşınmaz bedelinin tahsilini de isteyebilir. Taşınmaz bedelinin dava edilmesi halinde zımnen mülkiyetin devri de kabul edilmiş sayılır. Mahkemece taşınmaza enerji nakil hattı geçirilmek ve pilon dikilmek suretiyle el atıldığı kabul edilip bedelinin tahsiline karar verildiğine göre pilon yerinin tescili ve irtifak hakkının tesisi için hüküm kurulmamış olması doğru değil ise de; bu hususların düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden, gerekçeli kararın hüküm fıkrasına ayrı bir bent olarak “ ... ili ... ilçesi ...
 Köyü 884 parsel sayılı taşınmazın 23.11.2010 tarihli teknik bilirkişi raporunda belirtilen 10,24 m² pilon yerinin davacı adına olan tapu kaydının iptali ile davalı ... adına tesciline, yine 884 parsel sayılı taşınmazın aynı raporda (A) harfiyle gösterilen 6057,54 m² lik kısmı üzerinde davalı ... lehine irtifak hakkı tesisine ve bu hakkın tapu kaydına tesciline” yazılmak suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438.
 
 ## Yargıtay 5. HD 2015/1278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145148600)
 
 Mahkemece uyulan bozma kararı gereğince inceleme ve işlem yapılarak hüküm kurulmuş karar taraf vekillerince temyiz edilmiştir.
 
@@ -64,6 +74,8 @@ Dava konusu taşınmadan geçirilen Enerji Nakil Hattı nedeniyle davacı ile TE
 Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/19434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329469100)
 
 Davacı, maliki olduğu 135 parsel sayılı taşınmaza, komşu parseldeki dükkanı kullanan davalının eşya koymak ve taşıtlarını park etmek suretiyle haksız müdahale ettiğini ileri sürerek, elatmanın önlenmesine ve ecrimisile karar verilmesini istemiştir.
 
@@ -82,6 +94,8 @@ Hükmüne uyulan bozma ilamında gösterildiği şekilde işlem yapılarak ve ö
 
 ## Yargıtay 18. HD 2014/15667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106831400)
+
 Dava konusu enerji nakil hattının davacının taşınmazının üzerinden ve açıktan geçirilmiş olması nedeniyle el atma gününde yürürlükte olan 4721 sayılı Medeni Kanunun 744. maddesi uyarınca idare lehine davacı taşınmazı üzerinde irtifak hakkı kurulmuş sayılır. Bu durumda kamu yararı kararı alınmamış olsa bile irtifak kurulmuş sayılacağından idarenin o taşınmazdan müdahalesinin önlenmesi istenmeyip sadece irtifak hakkı karşılığı ile pilon yeri bedeli istenebilir. Bu nedenle davacının açıklamalarına başvurularak, davacının irtifak hakkı bedeli ve pilon yeri bedelini talep etmesi halinde irtifak hakkı karşılığı ve pilon yeri bedeline hükmedilmesi, aksi halde asıl davanın reddine karar verilmesi gerekirken yazılı gerekçeyle asıl davada müdahalenin men'ine, kâl talebinin kabulüne karar verilmesi, …
 
 …
@@ -90,9 +104,13 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2014/9009 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/315864600)
+
 Dava konusu taşınmazda kamulaştırmasız el atılan ve bedeline hükmedilen kısımda idare lehine irtifak hakkı tesisi ve davalı idare adına tesciline de karar verilmesi gerektiğinin düşünülmemesi doğru değil ise de, bu hususun düzeltilmesi yeniden yargılamayı gerektirmediğinden, gerekçeli kararın 1 numaralı bendinin devamına ayrı bir paragraf olarak “Fen bilirkişisi ... tarafından düzenlenen 27.03.2013 tarihli rapor ve krokide gösterilen dava konusu ... ilçesi ... Köyü 257 parsel sayılı taşınmazın 2257,52 m²'lik kısmı için davalı idare lehine irtifak hakkı kurulmasına ve tapuya tesciline” cümlesi yazılmak suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438.
 
 ## Yargıtay 1. HD 2014/5066 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/282800000)
 
 Davacı, kayden paydaşı olduğu 296 sayılı parseldeki evinin bir bölümünün 3290 ve 2859 sayılı Yasa uygulamaları sonucunda davalılar adına tescil edilen 44 sayılı parsel sayılı taşınmazda kaldığını ileri sürerek, tapu iptali-tescil isteğinde bulunmuştur.
 
@@ -108,6 +126,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 18. HD 2014/3854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106427000)
+
 Dava, taşınmazın bir bölümünün Yeşilhöyük Köyü Tüzelkişiliğince yol olarak kullanılması, bir bölümünde ise DSİ Genel Müdürlüğü'nce açıktan kanalet geçirilmek suretiyle kamulaştırmasız el atıldığı ileri sürülerek davalıların el atmasının önlenmesi ile kâl ve ecrimisil istemine ilişkindir.
 
 Mahkemece; davanın, Yeşilhöyük Köyü Tüzelkişiliği yönünden reddine, DSİ Genel Müdürlüğü yönünden kabulüne karar verilmiş; hüküm, davacı vekili ve DSİ Genel Müdürlüğü vekili tarafından temyiz edilmiştir.
@@ -120,6 +140,8 @@ Davalının temyiz itirazları yerinde olduğundan hükmün açıklanan nedenler
 
 ## Yargıtay 18. HD 2013/13887 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/799312900)
+
 Yargıtay uygulamalarına göre kamulaştırmasız el atma nedeniyle irtifak hakkı tesisi şeklindeki kullanmalarda tazminatın tespiti yapılırken Kamulaştırma Kanununun 11. maddesinin 4. fıkrası esas alınmaktadır. Bu maddeye göre de irtifak hakkı tesis edilirken el atma nedeniyle taşınmaz mal ve kaynağın tamamında meydana gelecek kıymet düşüklüğüne hükmedilmesi gerekir. Somut olayda dava konusu taşınmazdan enerji nakil hattı geçirilmesi nedeniyle taşınmazın tamamında oluşan değer düşüklüğü hesaplandığı ve bu miktara hükmedilmesi gerekirken, hükme esas alınan bilirkişi kurulu raporunda uygulamada yeri bulunmayan “irtifak hakkı tesis bedeli yıllık gelir eksikliği tutarı” adı altında 6.959,56 - TL'nin de bedel ilave edilmesi suretiyle bulunan değere hükmedilmesi, …
 
 …
@@ -128,9 +150,13 @@ Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hü
 
 ## Yargıtay 1. HD 2013/13036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255759200)
+
 Mahkeme kararındaki nitelendirmeye göre dava; .elatmanın önlenmesi ve yıkım, karşı dava irtifak hakkı tesisine ilişkin olup, yargılama sonunda elatmanın önlenmesi ve yıkım isteğinin kabulüne, irtifak hakkı tesisine ilişkin karşı davanın reddine karar verilmiş olup, uyuşmazlıkta öncelikle irtifak hakkı tesisine ilişkin talebin değerlendirilmesi gerekmektedir..
 
 ## Yargıtay 5. HD 2013/9572 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/283372900)
 
 Dava, kamulaştırmasız el atmanın önlenmesi ve kal istemine ilişkindir.
 
@@ -143,6 +169,8 @@ Bu durumda; enerji nakil hattı ve direklerin davacının taşınmazından açı
 Davacının temyiz itirazları yerinde olmadığından usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 5. HD 2013/639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/240690300)
 
 Dava, kamulaştırmasız el atılarak açıktan geçirilen enerji nakil hattı nedeniyle davalının müdahalesinin men-i ve kal istemine ilişkindir.
 
@@ -158,6 +186,8 @@ Davalının temyiz itirazları yerinde olduğundan hükmün açıklanan nedenler
 
 ## Yargıtay 5. HD 2012/15905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021271500)
+
 Dava, müdahalesinin men-i ve kal istemine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiş; hüküm, davalı idare vekilince temyiz edilmiştir.
@@ -172,6 +202,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2012/13517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570552100)
+
 Dava, kamulaştırmasız el atılarak üzerine pilon dikilip enerji nakil hattı geçirilen taşınmaza vaki el atmanın önlenmesi, el atılan kısım bedelinin tahsili ile ecrimisil istemine ilişkindir.
 
 Mahkemece pilon yeri bedeli ile ecrimisil taleplerinin kısmen kabulüne karar verilmiş, hüküm taraf vekillerince temyiz edilmiştir.
@@ -183,6 +215,8 @@ Enerji nakil hattının davacının arazisi üzerinden ve açıktan geçirilmiş
 Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2012/7271 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/545510000)
 
 Mahkemece 17.10.2006 tarihli karar ile asıl davadaki mecra irtifakı tesisi isteminin kabulüne, karşı davanın ise elatmaya konu yerin mecra irtifakı kapsamında kaldığı gerekçesiyle reddine karar verilmiştir.
 
@@ -203,6 +237,8 @@ SONUÇ :Temyiz edilen kararın yukarıda açıklanan nedenle BOZULMASINA …
 
 ## Yargıtay 5. HD 2012/1031 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/511245600)
+
 Mahkemece davanın kabulüne karar verilmiş, hüküm davalı idare vekilince temyiz edilmiştir.
 
 ... nakil hattının davacının taşınmaz üzerinden ve açıktan geçirilmiş olması nedeniyle el atma gününde yürürlükte bulunan 743 sayılı TMK'nun 653/son maddesine göre; idare lehine dava konusu taşınmaz üzerinde irtifak hakkı kurulmuş sayılır. Bu durumda kamu yararı kararı alınmamış olsa bile, irtifak kurulmuş sayılacağından idarenin taşınmazdan el atmasının önlenmesi istenemeyip, sadece irtifak hakkı karşılığı istenebilir.
@@ -212,6 +248,8 @@ Mahkemece davanın kabulüne karar verilmiş, hüküm davalı idare vekilince te
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U....nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2011/15437 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538412700)
 
 Dava, kamulaştırmasız el atılarak açıktan geçirilen enerji nakil hattı, direk yeri ve yol nedeniyle taşınmaza yönelik el atmanın önlenmesi istemine ilişkindir.
 
@@ -229,6 +267,8 @@ Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıkla
 
 ## Yargıtay 5. HD 2011/13507 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024426200)
+
 Dava, kamulaştırmasız el atmanın önlenmesi, kal ve ecrimisil istemine ilişkindir.
 
 Mahkemece, ecrimisil yönünden ispatlanamayan davanın reddine, müdahalenin men'i ve kal davasının kabulüne karar verilmiş, hüküm taraf vekillerince temyiz edilmiştir.
@@ -241,6 +281,8 @@ Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan n
 
 ## Yargıtay 5. HD 2011/11667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024628200)
+
 Mahkemece, davalı ... EDAŞ dışındaki davalı şirketler aleyhine açılan davanın konusuz kalması ve ecrimisil talebi de atiye terk olduğundan karar verilmesine yer olmadığına, davalı ...
 
 …
@@ -252,6 +294,8 @@ Pilon yerini de içine almak suretiyle bir bütün oluşturulan, enerji nakil ha
 Davalı ... EDAŞ vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/8599 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765434100)
 
 Davacı, 2009 parsel sayılı taşınmazda irtifak hakkına taşkın ve Elektrik Kuvvetli Akım Yönetmeliğine aykırı bina yapıldığını ileri sürerek elatmanın önlenmesi ve kal kararı verilmesini talep etmiştir.
 
@@ -266,6 +310,8 @@ Kal kararının infazı için gerekli masraf üzerinde irtifak hakkı bulunan bi
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, (2) numaralı bent uyarınca hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/7883 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764295600)
 
 Davacı, 6 parsel sayılı taşınmazda intifa hakkı sahibi olduklarını, bu haklarını davalı ile düzenledikleri bayilik sözleşmesi uyarınca davacı aracılığı ile kullandıklarını, bayilik sözleşmesinin feshedilmesine rağmen davalının taşınmazı kullanmaya devam ettiğini ileri sürerek intifa hakkına konu taşınmaza elatmanın önlenmesi, taşınmaz üzerindeki tesislerin teslimi, ecrimisil ve tazminat isteminde bulunmuş, yargılama aşamasında davasına sadece elatmanın önlenmesi ve tesislerin teslimi yönünden devam edeceğini belirtmiştir.
 
@@ -284,6 +330,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalının diğer
 
 ## Yargıtay 5. HD 2011/7656 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022358700)
+
 Dava, kamulaştırmasız el atılarak üzerine pilon dikilip enerji nakil hattı geçirilen taşınmazın pilon yeri bedeli ile irtifak hakkı karşılığının tahsili istemine ilişkindir.
 
 Mahkemece davanın yirmi yıllık hak düşürücü sürenin dolduğundan bahisle reddine dair verilen karar, 30.06.2010 tarihinde yürürlüğe giren 5999 sayılı Yasa ile 2942 sayılı Kamulaştırma Kanununa eklenen geçici 6. maddesi uyarınca işlem yapılmak üzere Dairemizce bozulmuş, mahkemece bozmaya uyulmuş ise de; bu kez idarece Kamulaştırma Kanununun 17. maddesine dayanılarak açılan tescil davası sonucunda kamulaştırma işlemlerinin kesinleştiğinden bahisle davanın reddine karar verilmiş, hüküm davacı vekilince temyiz edilmiştir.
@@ -295,6 +343,8 @@ Yapılan incelemede, dava konusu taşınmaz üzerinden geçirilen enerji nakil h
 Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/5606 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761488200)
 
 Davacı, 2 parsel sayılı taşınmazda bulunan apartmanın yöneticisi ve aynı zamanda bağımsız bölüm maliki olduğunu, 1985 yılında davalılara ait 17 parsel sayılı taşınmaz yararına, 2 parsel sayılı taşınmazın bahçe seviyesinin bir metre altından pis su (kanalizasyon) geçirilmesi için mecra irtifakı tesis edildiğini, davalıların ayrı bir hattan pis su (kanalizasyon) hattını geçirmeleri gerektiği halde 2 parsel sayılı taşınmazın hattına bağlantı yaptıklarını, bunun da hattın tıkanmasına neden olduğunu ileri sürerek, davalılara ait taşınmazın pis su (kanalizasyon) hattının 2 parsel sayılı taşınmazın pis su hattından ayrılmak suretiyle elatmanın önlenmesini istemiştir.
 

@@ -21,34 +21,50 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/654 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794319900)
+
 (Değişik Fıkra RGT: 28.11.2007 RG No: 26714 Kanun No: 5711/18) Yöneticinin ad ve soyadı ile iş ve ev adresinin anagayrimenkulün kapısı yanına veya girişte görülecek bir yere çerçeve içinde asılması mecburidir. Bu yapılmazsa, yöneticiden veya yönetim kurulu üyelerinin her birine, ilgilinin başvurması üzerine aynı mahkemece, elli Türk Lirasından ikiyüzelli Türk Lirasına kadar idarî para cezası verilir.” şeklinde düzenleme içermektedir. Kat Mülkiyeti Kanunu’nun 34. maddesinde yönetim işlerinin kat maliklerinin atayacağı yönetici ya da yönetim kurulu eliyle yürütüleceği hükme bağlanmıştır. Buna göre anataşınmazın sekiz veya daha fazla bağımsız bölümü varsa yönetici atanması zorunludur. 6. fıkra ise yöneticinin atanabileceği durumları öngörmektedir. Kat malikleri anataşınmazın yönetiminde anlaşamazlarsa veya toplanıp da yönetici atayamazlarsa o taşınmazın bulunduğu sulh mahkemesince kat maliklerinden birinin başvurusu üzerine ve mümkünse diğerleri de dinlendikten sonra bir yönetici atanır (Germeç, Mahir Ersin; Kat Mülkiyeti Hukuku, Ankara 2020 s. 926).
 
 ## Yargıtay HGK 2021/1380 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726537100)
 
 Yapılan bu atıf nedeniyle KMK’nın 34-40. maddelerinde ele alınan yönetici kavramını açıklayan maddelere başvurulacaktır. Ana gayrimenkulün yönetimiyle ilgili bir kişi atanmışsa buna “yönetici”, üç kişi atanmışsa bunların seçildikleri kurula da “yönetim kurulu” denilmekte, kat malikleri adına hareket eden kişi olan yönetici kat maliklerinden biri olabileceği gibi bir üçüncü kişi de olabilmekte ve KMK’ya göre seçilip görevlerini ifa etmektedir.
 
 ## Yargıtay HGK 2021/383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685818300)
+
 Öte yandan, aynı Kanun’a 23.06.2009 tarihli ve 5912 sayılı Kanun’un 5. maddesi ile eklenen geçici 2. maddesinde ise; “Bu Kanunun yürürlük tarihinden önce kurulan toplu yapılara ait yönetim planlarının, bu Kanun hükümlerine uyarlanması amacıyla yapılacak ilk değişiklik için mevcut kat malikleri kurulunun salt çoğunluğu yeterlidir. Mevcut toplu yapı yönetimleri, değiştirilen yönetim planına göre yeni yöneticiler seçilinceye kadar geçici yönetim olarak görevini sürdürür. Toplu yapı yöneticisi seçimi, en geç yönetim planının değiştirilmesini takip eden üç ay içinde yapılır” denilmektedir.
 
 ## Yargıtay HGK 2016/194 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232518100)
 
 634 sayılı Kat Mülkiyeti Yasası'nın 34. maddesi hükmüne göre yönetici kat maliklerinin sayı ve arsa payı bakımından çoğunluğu tarafından atanır. Yine aynı Yasa'nın 41. maddesinin üçüncü fıkrasına göre kat malikleri denetim işini kendi aralarında sayı ve arsa payı çoğunluğuyla seçecekleri bir denetçi veya denetim kuruluna verebilir. Yasa'nın bu açık hükümlerinden de anlaşılacağı gibi anataşınmazda yönetici ve denetçi olabilmek için kat maliklerinin sayı ve arsa payı çoğunluğu tarafından atanmak ve ayrıca anataşınmazda denetçi olabilmek için mutlaka kat maliki olmak gerekir. Yasa koyucu tarafından kat maliklerine tanınmış olan ve 634 sayılı Kat Mülkiyeti Yasası'nda düzenlenmiş bulunan denetçi seçimine ilişkin haktan kat maliklerini mahrum edecek şekilde onların aleyhine kat malikleri kurulu kararı oluşturulamaz.
 Mahkemece yukarıda açıklanan hususlar dikkate alınarak 14.01.2006 günlü kat malikleri kurulu kararının 3. maddesinin denetçi seçimine ilişkin bölümünün ve 26.01.2005 tarihli kat malikleri kurulu kararının da yönetici, yönetici yardımcısı ve denetçi seçimine ilişkin 3. maddesinin iptaline karar verilmesi gerekirken, yazılı gerekçeyle 14.01.2006 ve 26.01.2005 günlü kat malikleri kurulu kararlarının da tamamen iptaline karar verilmesi,…
 
 ## Yargıtay HGK 2013/1569 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77590400)
+
 Bilindiği üzere, Kat Mülkiyeti Kanunu uyarınca ana taşınmazda bağımsız bölüm sayısı sekiz veya daha fazla ise yönetici atanması zorunludur. KMK’nun 30. maddesi ile; kat malikleri kurulunun, kat maliklerinin sayı ve arsa payı bakımından yarısından fazlasıyla toplanacağı ve oy çokluğuyla karar vereceği, 34. maddesinde ise; yöneticinin, kat maliklerinin, hem sayı hem arsa payı bakımından çoğunluğu tarafından atanacağı hükme bağlanmış olup, anılan hükümler emredici nitelikte ve kamu düzenine ilişkindir.
 
 ## Yargıtay HGK 2013/1538 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77537500)
 
 Öte yandan, aynı Kanun’a 5912 sayılı Kanun’un 5.maddesi ile eklenen geçici 2.maddesi ise; “Bu Kanunun yürürlük tarihinden önce kurulan toplu yapılara ait yönetim planlarının, bu Kanun hükümlerine uyarlanması amacıyla yapılacak ilk değişiklik için mevcut kat malikleri kurulunun salt çoğunluğu yeterlidir. Mevcut toplu yapı yönetimleri, değiştirilen yönetim planına göre yeni yöneticiler seçilinceye kadar geçici yönetim olarak görevini sürdürür. Toplu yapı yöneticisi seçimi, en geç yönetim planının değiştirilmesini takip eden üç ay içinde yapılır.” denilmektedir.
 
 ## Yargıtay HGK 2012/226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77192900)
+
 Kat Mülkiyeti Yasası’nın 34. maddesinin dördüncü fıkrasında ve 41. maddesinin üçüncü fıkrasında; yönetim ve denetim kurulunun tüm bağımsız bölüm maliklerinin sayı ve arsa payı çoğunluğu ile seçilebileceği belirtilmiştir. Somut olayda ise; iptali istenen 05.01.2009 günlü kat malikleri kurulu toplantısının 6.maddesinde ana taşınmaz için yönetim ve denetim kurulunun seçildiği, ancak; toplam 39 bağımsız bölümden oluşan ana taşınmazın sayı ve arsa payı çoğunluğu sağlanmadan bu seçimin yapıldığı anlaşılmıştır. Bu sebeple, iptali istenen 05.01.2009 günlü kat malikleri kurulu toplantısının yönetim ve denetim kurulu seçimine ilişkin 6.maddesinin de iptaline karar vermek gerekirken bu yöndeki istemin reddi yolunda hüküm kurulması,…
 
 ## Yargıtay 5. HD 2025/11680 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177594400)
 
 Yargıtay (Kapatılan) 20.
 Hukuk Dairecsince yapılan inceleme sonucunda, davacının ilgili toplantıdan haberdar olduğu ayrıca toplantıya davacının vekillerinin de katılmış olması sonucu artık Kat Mülkiyeti Kanunu'nun 29 uncu maddesinde öngörülen usulüne uygun olarak kat maliklerinin davet edilmediği gerekçesinin geçerli olmayacağı hususu mahkemece dikkate alınmadan, bunun yanında iptali istenen kat malikleri kurulu toplantısının olağan toplantı mı yoksa olağanüstü toplantı mı olduğu, toplantı yetersayısının sağlanıp sağlanmadığı, karar yeter sayısının tespiti bakımından toplantıda hangi kararların alındığı, bunların hangi çoğunlukla alınması gerektiği, hakim müdahalesi istemine konu diğer taleplerle ilgili de taraflara ait tüm deliller usûlüne uygun olarak toplanarak, konu ile ilgili uzman bilirkişiden rapor aldırılarak oluşacak sonuç doğrultusunda karar verilmesi gerekirken, mahkemece 18.01.2014 tarihli kat malikleri kurulu toplantısına Kat Mülkiyeti Kanunu'nun 29 uncu maddesinde öngörülen usûlüne uygun olarak kat maliklerinin davet edilmediği, söz konusu toplantıda yönetici ve denetçi seçiminin Kat Mülkiyeti Kanunu'nun 31, 30 ve 41 maddelerinde öngörülen kat maliklerinin sayı ve arsa payı çoğunluğu
@@ -56,10 +72,14 @@ tarafından gerçekleştirilmediği, şeklinde yerinde olmayan gerekçelerle ilg
 
 ## Yargıtay 5. HD 2025/3982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143591300)
+
 Dairemizce yapılan inceleme sonucunda; dosyadaki bilgi ve belgelerden, 2013 ve 2016 yılları kat malikleri kurulu toplantılarında uyuşmazlık konusu olan davacının ortak alan olarak iddia ettiği kısımlara ilişkin dava açılması ve yasal yollara başvurulması için kararlar alındığı, eski yönetici ...’in yönetici olduğu esnada Avukat ...’a vekâlet verdiği, sonrasında 02.04.2017 tarihinde yönetici olarak ...’un seçildiği, davanın ise eski yönetici tarafından verilen vekâlet ile 16.06.2017 tarihinde açıldığı, her ne kadar Mahkemece yeni yönetici seçildiğinden eski yöneticinin dava tarihi itibarıyla yönetici olarak dava açma sıfatının sona erdiği gerekçesiyle davanın aktif husumetten reddine karar verilmiş ise de verilen vekâletin İncipark Site Yöneticiliği adına verildiği, verildiği esnada ...’in yönetim görevinin devam ettiği, toplantı tutanaklarından dava açmak üzere yetkilendirildiğinin anlaşıldığı, vekilin görevinin yeni yöneticinin seçilmesi ile son bulmayacağı, yeni yönetimin vekili azlettiğine dair de dosyada herhangi bir evrak bulunmadığı gözetilerek işin esası hakkında karar verilmesi gerekirken, aksi düşünce ile davanın aktif dava ehliyeti yokluğundan reddine karar verilmesinin
 doğru görülmediği gerekçesiyle İlk Derece Mahkemesi kararının bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/3295 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134840200)
 
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararıyla kat mülkiyeti kurulu, 31.08.2006 tarihli yönetim planı ile yönetilen 13450 ada 2 parsel sayılı A, B ve C bloktan oluşan, 1/48 eşit paya sahip 48 adet bağımsız bölümü bulunan taşınmaz üzerindeki sitede, B blok (6) numaralı bağımsız bölümün dava tarihinde davacı adına kayıtlı olduğu, ana taşınmaza ilişkin tapuda tescilli yönetim planının 21 inci maddesine göre, olağan
 
@@ -68,50 +88,74 @@ gereğince hem arsa payı, hem de sayı çoğunluğu sağlanarak alınması gere
 
 ## Yargıtay 5. HD 2022/3218 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736542300)
+
 Şöyle ki; Yargıtay 20. Hukuk Dairesi'nin 2017/4110 E, 2017/9769 K sayılı ilamı ile davacı tarafça iptali istenilen toplantının sadece yönetici seçimine yönelik maddesinin Kat Mülkiyeti Kanunu'nun 34. maddesinde öngörülen “Yönetici, kat maliklerinin, hem sayı hem arsa payı bakımından çoğunluğu tarafından atanır.” hükmüne aykırı olduğu belirtilmekle, iptali istenilen toplantının sadece yönetici seçimine ilişkin maddesinin iptali ile diğer taleplerin reddine karar verilmesi gerektiği halde mahkemece eksik araştırma ve inceleme sonucu davanın tüm talepler yönünden kabulüne karar verilmesi…
 
 ## Yargıtay 6. HD 2022/1551 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/745567600)
 
 634 sayılı Kat Mülkiyeti Kanununun 34. maddesi gereğince kat malikleri, ana gayrimenkulün yönetimi için bir yönetici veya üç kişilik yönetim kurulu seçmek zorundadırlar. Kanunun 35. maddesinde ise yöneticinin görevleri sayılmış olup, bunlar arasında kat malikleri kurulunca verilen kararların yerine getirilmesi (a bendi), ana gayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için gereken tedbirlerin alınması (b bendi) ve ana gayrimenkulün korunması ve bakımı için kat maliklerinin yararına olan hususlarda gerekli tedbirlerin, onlar adına alınması (h bendi) sayılmıştır.
 
 ## Yargıtay 6. HD 2022/1433 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/746273800)
+
 634 sayılı Kat Mülkiyeti Kanunu'nun 34. maddesi gereğince kat malikleri, ana gayrimenkulün yönetimi için bir yönetici veya üç kişilik yönetim kurulu seçmek zorundadırlar. Kanunun 35. maddesinde ise yöneticinin görevleri sayılmış olup, bunlar arasında kat malikleri kurulunca verilen kararların yerine getirilmesi (a bendi), ana gayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için gereken tedbirlerin alınması (b bendi) ve ana gayrimenkulün korunması ve bakımı için kat maliklerinin yararına olan hususlarda gerekli tedbirlerin, onlar adına alınması (h bendi) sayılmıştır.
 
 ## Yargıtay 5. HD 2021/15129 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723001200)
 
 634 sayılı Kat Mülkiyeti Kanunu'nun 30. maddesine göre, “Kat malikleri kurulu, kat maliklerinin sayı ve arsa payı bakımından yarısından fazlasiyle toplanır ve oy çokluğuyla karar verir. Yeter sayının sağlanamaması nedeniyle ilk toplantının yapılamaması halinde, ikinci toplantı, en geç onbeş gün sonra yapılır. Bu toplantıda karar yeter sayısı, katılanların salt çoğunluğudur. Bu kanunda yeter sayı için ayrıca konulmuş olan hükümler saklıdır.” Kanunun 34. maddesinde yöneticinin, 41. maddesinde ise denetçinin, kat maliklerinin sayı ve arsa payı çoğunluğu ile seçileceği düzenlenmiştir.
 
 ## Yargıtay 5. HD 2020/9360 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/654507300)
+
 Güneş enerjisi sistemi, Kat Mülkiyeti Kanununun 42. maddesine göre, kat maliklerinin sayı ve arsa payı çoğunluğu ile verecekleri karar üzerine, bahçedeki su kuyusu ise, Kanunun 19 maddesine göre, bütün kat maliklerinin beşte dördünün yazılı rızası ile yaptırılabilir. Mahkemece kat maliklerinin yerine geçerek, güneş enerjisi sistemi ve su kuyusu yaptırılmasına veya izin verilmesine veya ivaz karşılığı bir paydaşa bırakılmasına karar verilemez.
 
 ## Yargıtay 20. HD 2020/2894 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598513800)
 
 42/1. maddesinde belirtilen faydalı giderler anayapının sayı ve arsa payı çoğunluğuyla verecekleri karar ile mümkündür. 5627 sayılı Enerji Verimliliği Kanununun mevcut binalar için zorunluluk getirmediği, yönetmeliğin ise sistem kurulmasına ilişkin değil, uygulamaya ilişkin olması karşısında; ısı pay ölçer sisteminin ve bu sistemden vazgeçilmesine ilişkin kararlar ancak Kat Mülkiyeti Kanununun 42. maddesine göre kat maliklerinin sayı ve arsa payı çoğunluğu ile alınabilecektir. Mahkemece ısı pay ölçer sisteminden vazgeçilmesine ilişkin kararın, Kat Mülkiyeti Kanununun 42. maddesine göre kat maliklerinin sayı ve arsa payı çoğunluğu ile alınıp alınmadığı araştırılarak oluşacak sonuca göre karar verilmesi gerekirken, 5627 sayılı Enerji Verimliliği Kanununda ısı pay ölçer sisteminin zorunlu hale getirildiği ve kaldırılmasının yasal olmadığı gerekçesiyle davanın kabulüne karar verilmesi doğru görülmediği" gereğine değinilerek hükmün bozulmasına karar verilmiştir.
 
 ## Yargıtay 20. HD 2020/2667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598632200)
+
 SONUÇ: Uyuşmazlıkta uygulanması gereken Kat Mülkiyeti Kanununun yönetici ve denetçi atanmasıyla ilgili 34 ve 41. maddelerinde, bu atamaların kat maliklerinin sayı ve arsa payı bakımından çoğunluğunun oyu ile yapılması gerektiği hükme bağlanmıştır. Emredici nitelikte olan bu hükümlerin uygulanması Kat Mülkiyeti Kanununun 30. maddesinin son fıkrası uyarınca toplantı yeter sayısına bakılmaksızın yapılan ikinci toplantıda da aranmaktadır. Başka bir söyleyişle, toplantı yeter sayısı aranmaksızın yapılacak olan kat malikleri kurulu toplantısında, katılanların çoğunluğunun oyları ile genel idari konularda karar alınabilir ise de, yönetici ve denetçi seçimiyle ilgili karar alınamayacağından; mahkemece iptali istenilen kararlar yönünden nitelikli çoğunluk gerektiren kararların tespiti ile yasanın aradığı nitelikli çoğunluğun sağlanıp sağlanmadığının araştırılması ve oluşacak sonuca göre karar verilmesi gerekir iken aksi düşünce ile yazılı olduğu şekilde hüküm tesisi bozmayı gerektirmiştir.
 
 ## Yargıtay 20. HD 2020/1887 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599135700)
 
 Dairemizin 23/10/2017 tarihli ve 2017/4875 E.- 2017/8123 K. sayılı ilamı ile, "1-Kat Mülkiyeti Kanunun 34. maddesinde kat malikleri anagayrimenkulün yönetiminde anlaşamaz veya toplanıp bir yönetici atayamaz ise o gayrimenkulün bulunduğu yerin sulh mahkemesince kat maliklerinden birinin müracaatı üzerine ve mümkünse diğerleri de dinlendikten sonra gayrimenkule bir yönetici atanacağı hükmü düzenlenmiş olmakla bu konuda kat maliklerinin sayı ve arsa payı çoğunluğu ile seçilmiş bir yönetim olmadığı sonucuna varan mahkemenin bu konuda inceleme ve araştırma yaparak bir karar vermesi gerekirken yazılı şekilde karar vermesi, 2- İptal edilen genel kurul kararı 11.01.2015 tarihli olup gerekçeli kararda yanlış olarak iptal edilen kararın tarihinin 11.11.2015 yazılması infazda tereddüde sebebiyet vermesi nedeniyle bozmayı gerektirmiştir" gerekçesiyle bozulmuştur.
 
 ## Yargıtay 20. HD 2019/3558 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513746400)
+
 Dosyada bulunan bilgi ve belgelere göre, dava konusu sitede 96 bağımsız bölüm bulunduğu, iptali istenen kat malikleri kurulu toplantısının ikinci toplantı olup toplantıya 11 asil ve 24 vekaleten olmak üzere toplam 35 bağımsız bölüm malikinin katıldığı anlaşılmıştır. Kat Mülkiyeti Kanununun yönetici ve denetçi atanmasıyla ilgili 34 ve 41. maddelerinde, bu atamaların kat maliklerinin sayı ve arsa payı bakımından çoğunluğunun oyu ile yapılması gerektiği hükme bağlanmış, emredici nitelikte olan bu hükümlerin uygulanması Kat Mülkiyeti Kanununun 30.maddesinin son fıkrası uyarınca toplantı yeter sayısına bakılmaksızın yapılan ikinci toplantıda da aranmaktadır. Başka bir söyleyişle, toplantı yeter sayısı aranmaksızın yapılacak olan kat malikleri kurulu toplantısında, katılanların çoğunluğunun oyları ile genel idari konularda karar alınabilir ise de yönetici ve denetçi seçimiyle ilgili karar alınamayacağından; mahkemece, Kanunun 34 ve 41. maddelerinde yazılı çoğunluk sağlanmadan alınan yönetici ve denetçi seçimiyle ilgili kararların iptaline karar verilmesi yerine, alınan kararların iptal edilmesini gerektirecek bir sebebin bulunmadığı gerekçesiyle açılan davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2019/2923 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503621200)
 
 Kat Mülkiyeti Kanununun 40. maddesinin son fıkrasında; kat malikleri kurulunun, yöneticinin ücreti ile ilgili olarak kat malikleri arasından atanmış yöneticinin normal yönetim giderlerine katılıp katılmayacağı, katılacaksa ne oranda katılacağını kararlaştıracağı, bu yolda bir karar alınmamış ise, yöneticinin yönetim süresince kendisine düşen normal yönetim giderlerinin yarısına katılmayacağı hükme bağlandığından; tüm kat maliklerinin anataşınmazın ortak giderlerinden sorumlu olup davalı yönetici için ücret kararlaştırılmamışsa normal yönetim giderlerinin yarısına katılmayacağı (anataşınmazda önemli onarım ve değişikliklere ilişkin giderler hariç) dikkate alınarak, yönetime ait tüm defter, ödeme makbuzu vs belgeler bilirkişiye verilerek gerekli inceleme yaptırılıp oluşacak sonuca göre bir karar verilmesi gerekirken, herhangi bir inceleme yapılmaksızın davanın kabulü doğru görülmemiştir” gerekçesiyle bozulmasına karar verilmiştir.
 
 ## Yargıtay 20. HD 2019/905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/480022400)
+
 Her ne kadar mahkemece bozma ilamına uyma kararı verilmişse de bozma gerekleri yerine getirilmemiştir. Şöyle ki; anayapının yönetimi ve anayapıya ilişkin hususlar bağımsız bölüm maliklerince kat malikleri kurulunda alacakları karar ile mümkündür. Merkezi ısınma sistemli ana yapılarda ve sistemlerde merkezi veya lokal ısı veya sıcaklık kontrol cihazları ile bu cihazlara bağlı olarak giderin paylaşılmasının yapılması hususu faydalı giderlerdendir. Kat Mülkiyeti Kanununun 42/.... maddesinde belirtilen faydalı giderler anayapının sayı ve arsa payı çoğunluğuyla verecekleri karar ile mümkündür. 5627 sayılı Enerji Verimliliği Kanununun mevcut binalar için zorunluluk getirmediği, yönetmeliğin ise sistem kurulmasına ilişkin değil, uygulamaya ilişkin olması karşısında; ısı pay ölçer sisteminin ve bu sistemden vazgeçilmesine ilişkin kararlar ancak Kat Mülkiyeti Kanununun 42. maddesine göre kat maliklerinin sayı ve arsa payı çoğunluğu ile alınabilecektir.
 Mahkemece ısı pay ölçer sisteminden vazgeçilmesine ilişkin kararın, Kat Mülkiyeti Kanununun 42. maddesine göre kat maliklerinin sayı ve arsa payı çoğunluğu ile alınıp alınmadığı araştırılarak oluşacak sonuca göre karar verilmesi gerekirken, eksik inceleme sonucu yazılı olduğu şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/8249 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471525000)
 
 Mahkemece;
 15/12/2014 tarihinde yapılan kat malikleri kurul toplantısına davacıların katıldıkları, toplantıya katılım sayısının 18 olduğu, Kat Mülkiyeti Kanununun yönetici ve denetçi atanmasına ilişkin 34 ve 41. maddeleri uyarınca pay ve paydaş çoğunluğunun sağlanması gerektiği, B1-B2 blokta yönetici - denetçi seçimi için, "en az 21 kat maliki ile 5001/10000 arsa payı" çoğunluğunun sağlanması gerektiği, 15/12/2014 tarihli toplantıda pay ve paydaş çoğunluğunun sağlanamaması nedeniyle yönetici ve denetçi seçimine ilişkin kararın anılan Kanunun 34 ve 41. maddelerine aykırılık teşkil ettiği, 15/12/2014 tarihli kat malikleri kurulu toplantısında yönetici ve denetçi seçimine ilişkin alınan kararın iptaline karar verilmesi gerektiği; diğer taraftan sözleşmeler kapsamında yapılan imalatlara ilişkin birim fiyatlarının uygun olduğu, proje harici yapıldığı belirlenen B2 bloktaki demir doğramadan mamul üzeri mermer kaplı merdiven için yapılan harcamanın kat maliklerinden tahsil edilmediği konusunda dosya kapsamına göre herhangi bir değerlendirme yapılamayacağının bilirkişilerce belirtildiği, davacıların bu iddiasının subüt bulmadığı, davacılardan ...'ün kat maliki olmadığı, Kat Mülkiyeti Kanununun 33.
@@ -121,14 +165,20 @@ bu davayı açamayacağı, davacı tarafından açılan davanın reddi gerektiğ
 
 ## Yargıtay 20. HD 2018/7854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466122200)
+
 Kat Mülkiyeti Kanununun 34. maddesinin 4. fıkrasında yöneticinin, kat maliklerinin hem sayı, hem arsa payı bakımından çoğunluğu tarafından atanacağı; anılan maddenin 6. fıkrasında ise kat malikleri anataşınmazın yönetiminde anlaşamaz veya toplanıp bir yönetici atayamazlarsa içlerinden birinin başvurusu üzerine ve mümkünse diğerleri de dinlendikten sonra mahkemece taşınmaza bir yönetici atanacağı hükümlerine yer verilmiştir.
 
 ## Yargıtay 20. HD 2018/7811 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466931200)
 
 Kat Mülkiyeti Kanununun 34. maddesi “Kat malikleri, anagayrimenkulün yönetimini kendi aralarından veya dışardan seçecekleri bir kimseye veya üç kişilik bir kurula verebilirler; bu kimseye (Yönetici), kurula da (Yönetim Kurulu) denir. Anagayrimenkulün sekiz veya daha fazla bağımsız bölümü varsa, yönetici atanması mecburidir. Anagayrimenkulün bütün bölümleri bir kişinin mülkiyetinde ise, malik kanunen yönetici durumundadır. Yönetici, kat maliklerinin, hem sayı hem arsa payı bakımından çoğunluğu tarafından atanır.Yönetici her yıl kat malikleri kurulunun kanuni yıllık toplantısında yeniden atanır; eski yönetici tekrar atanabilir. Kat malikleri anagayrimenkulün yönetiminde anlaşamaz veya toplanıp bir yönetici atayamazlarsa, o gayrimenkulün bulunduğu yerin sulh mahkemesince, kat maliklerinden birinin müracaatı üzerine ve mümkünse diğerleri de dinlendikten sonra, gayrimenkule bir yönetici atanır. Bu yönetici, aynen kat maliklerince atanan yöneticinin yetkilerine sahip ve kat maliklerine karşı sorumlu olur.” demektedir. Madde metninden açıkça anlaşılacağı üzere anataşınmaza yönetici atanmasını ancak anataşınmazda bulunan kat malikleri talep edebilir.
 Dosya arasına alınan taşınmazın tapu bilgilerinden davacının kat maliki olmadığı anlaşılmakla davanın reddine karar verilmesi gerekirken aksi düşünce ile yazılı olduğu şekilde kabulüne karar verilmesi bozmayı gerektirmiştir.
 
 ## Yargıtay 20. HD 2018/7474 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465685400)
 
 Kat Mülkiyeti Kanunu 34. maddesinde, kat malikleri anagayrimenkulün yönetiminde anlaşamaz veya toplanıp bir yönetici atayamazlarsa, o gayrimenkulün bulunduğu yerin sulh mahkemesince, kat maliklerinden birinin müracaatı üzerine ve mümkünse diğerleri de dinlendikten sonra, gayrimenkule bir yönetici atanır hükmü düzenlenmiştir. Dava konusu taşınmaza ilişkin genel kurullarda yöneticilerin seçildiği ve bu genel kurul kararlarının iptali için dava açılmadığı tespit edilmiştir. Davacı dilekçesinde; ... Belediyesinin 20/03/2014 tarihli zabıtname ile binaya çürük raporu verdiği ve bu zabıtnameye rağmen 07/12/2015 tarihli asansör tamiri için 6.498 TL'nin bildirimin geçersiz olduğu beyan edilmiş ise de ilgili taşınmazın mimari projeye aykırı kısımların yıkımına ilişkin olarak 22.05.2014 tarihli encümen kararının iptali istemli açılan davada ... 5. İdare Mahkemesinin 2015/547 Esas, 2015/965 Karar sayılı kararı ile encümen kararı sehven bina yöneticisi şirket adına karar alındığı ancak yeniden inceleme yapıldığında iskan belgesinin olmadığı,yeniden ruhsat alması nedeniyle müteahhit ve fenni mesul adına işlemlerin yürütülmesi gerekirken
 
@@ -136,11 +186,15 @@ apartman yönetim kurulu başkanlığı ve ... adına yürütüldüğünün fark
 
 ## Yargıtay 20. HD 2018/7337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465280100)
+
 Mahkemece tasdikli projede boş alan olarak görülen bölümde pay ve paydaş çoğunluğu ile alınacak kararla boş alanın otopark olarak kullanılabileceği belirtildiğinden ve olayımızda dava konusu alanın otopark olarak kullanılmasına ilişkin alınan kararda pay ve paydaş çoğunluğunun sağlandığı gerekçesiyle davanın reddine karar verilmiş, karar davacı vekili tarafından temyizi üzerine Yargıtay 18. Hukuk Dairesinin 05/07/2011 tarih ve 2011/4650 Esas 2011/8615 Karar sayılı ilamı ile "Anataşınmazın arsa boşluğu niteliğinde bulunan dava konusu yerin otopark olarak düzenlenerek zeminine karo-mozaik döşendiği, giriş çıkışına otomatik bariyer konulduğu bilirkişi raporu ile saptanmıştır.
 Kat Malikleri kurulunca bu yerin otoparka dönüştürülmesi için önceden alınmış bir karar yok ise de daha sonra kat malikleri kurulunun 06.06.2009 günlü toplantısında alınan kararın (2) nolu bendinde açıkça binanın deniz tarafına bakan ve bariyerle korunmuş fiilen otopark olarak kullanılan alanın otopark olarak kullanılmasına karar verildiği, bu kararın anataşınmazda toplam 10 bağımsız bölüm malikinin sayı ve arsa payı çoğunluğu ile alındığı, böylece kat mülkiyeti yasasının 42. maddesinde öngörülen kat maliklerinin sayı ve arsa payı çoğunluğunun sağlanmış bulunduğu anlaşılmaktadır. Kararın dava konusu otoparkın yapılmasından sonra alınmış olması sonucu değiştirmez ve kararı olumlu oylarıyla imzalayan kat maliklerinin söz konusu değişikliğe verdikleri onayı geçersiz kılmaz, ancak KMK'nın 18. maddesi gereğince arsa boşluğu iken otoparka dönüştürülen bu yerin kullanımının diğer kat maliklerini rahatsız etmemesi gerekir.
 Bu nedenle otoparkın kullanımından dolayı çıkan duman, koku ve gürültüden davacının kendisini ve yine bu durum nedeniyle davacının dükkanlarının ticari faaliyetinin olumsuz etkilenip etkilenmediği, şayet olumsuz etkileniyorsa bu olumsuz etkinin giderilmesi için ne gibi önlemler alınması gerektiği araştırılmadan eksik inceleme ile hüküm kurulması doğru görülmemiştir." denilmek suretiyle bozulmuştur.
 
 ## Yargıtay 20. HD 2018/6102 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/444466800)
 
 Dosyada ki bilgi ve belgelerin incelemesinden; davacının, eski yöneticilere ve apartmanın bakım ve onarım işleri için anlaşılan firmaya karşı kat malikleri adına maddi tazminat kaynaklı alacak talebinde bulunduğu anlaşılmaktadır. Mahkemece davacının yönetici seçildiği 12/02/2012 tarihli toplantının yok hükmünde olduğu ve davacının aktif taraf ehliyetine sahip olmadığı gerekçesi ile davanın reddine karar verilmiş ise de bu karar
 
@@ -148,13 +202,19 @@ yanlıştır. Şöyle ki; Anataşınmazda yönetimin sürekliliği esas olup yö
 
 ## Yargıtay 20. HD 2018/5846 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/445893000)
+
 Yönetici atanmasına ilişkin davada anagayrimenkuldeki diğer kat maliklerinin hasım gösterilmesi zorunlu değildir. KMK'nın 34. maddesinin 6. bendinde “mümkünse diğerleri de dinlendikten sonra" hükmü getirilmiş olup somut olayda davalı kat malikleri ilgili kişi olarak davet edildiklerine göre ve kat maliklerinin davalı olarak gösterilmesi yasal zorunluluk olmadığından mahkemece yazılı şekilde karar verilmesinde isabetsizlik bulunmayıp dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine 24/09/2018 günü oy birliği ile karar verildi.
 
 ## Yargıtay 20. HD 2018/5651 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433488700)
+
 634 Sayılı Kat Mülkiyeti Kanununun 34. maddesi hükmüne göre yönetici kat maliklerinin hem sayı hem arsa payı bakımından çoğunluğu tarafından atanır. Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, iptali istenilen 05/07/2015 tarihli genel kurulda yeterli çoğunluk sağlanmadan alındığı anlaşılan yönetim kurulu seçimine ilişkin 7.
 
 ## Yargıtay 20. HD 2018/5412 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433493200)
 
 Kat Mülkiyeti Kanununun Ek-1. maddesi hükmüne göre, bu yasadan doğan her türlü anlaşmazlığın değerine bakılmaksızın sulh hukuk mahkemesinde çözümlenmesi gerekir. Yasanın bu hükmü gözönünde bulundurularak davaya mahkemece bakılması yerine uygun bulunmayan gerekçe ile asliye hukuk mahkemesinde bakılmak üzere görevsizlik kararı verilmesi doğru görülmemiştir." denilerek hükmün bozulmasına karar verilmiş olup mahkemece; bozma ilamına uyulmasına karar verilerek yapılan yargılama neticesinde 172 parsele bağımsız bölüm malikleri tarafından yönetici atanamadığı anlaşılmakla davanın kabulüne, ..., ......, Demirciköy, 172 parsel sayılı anataşınmaz için yönetici olarak KMK'nın 34/6. maddesi gereğince ............ T.C. Kimlik numaralı Haydar Gülmez'in yönetici olarak atanmasına, yönetici için takdir edilen aylık 1.250,00.-TL + KDV ücretin arsa payları oranında bağımsız bölüm malikleri tarafından yöneticiye ödenmesine, kararın bir suretinin tüm malikler tarafından görülebilecek şekilde panoya asılmasına, ayrıca tüm bağımsız
 
@@ -162,21 +222,31 @@ bölüm maliklerine tebliğine karar verilmiş, hüküm davalı ... vekili ve bi
 
 ## Yargıtay 20. HD 2018/5078 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/431726900)
+
 Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, iptali istenen toplantının olağan kat malikleri kurul toplantısı olduğu anlaşılmış olup, KMK'nın 34. maddesinde yönetici, kat maliklerinin, hem sayı hem de arsa payı bakımından çoğunluğu tarafından atanır ve KMK'nın 41. maddesinde ise kat malikleri kurulu denetim işini, kendi aralarında sayı ve arsa payı çoğunluğu ile seçecekleri bir denetçiye veya üç kişilik bir denetim kuruluna verebilir hükümleri düzenlenmiş olmakla somut olayda yönetici ve denetçi atanmasının KMK'nın 34 ve 41. maddelerindeki aranan karar yeter sayısına ulaşmadığı gerekçesiyle 13/06/2015 tarihli olağan toplantının 6. maddesinde yönetici ve denetçi atanmasına ilişkin kararın iptaline karar verilmesinde isabetsizlik bulunmamaktadır.
 
 ## Yargıtay 20. HD 2018/3482 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426270700)
 
 Dosya da ki bilgi ve belgelerin incelemesinden; davacının, eski yöneticinin anataşınmaza ait belge ve defterleri teslim etmediğinden bahisle hakimin müdahalesi talebinde bulunduğu anlaşılmaktadır. Mahkemece davacının yönetici seçildiği 18/04/2015 tarihli toplantının yok hükmünde olduğu ve davacının aktif taraf ehliyetine sahip olmadığı gerekçesi ile davanın reddine karar verilmiş ise de bu karar yanlıştır. Şöyle ki; Anataşınmazda yönetimin sürekliliği esas olup yönetici ve denetici seçimine ilişkin kararlar iptal edilinceye kadar geçerli olduğundan yok hükmünde sayılamazlar. Kat malikleri kurulu kararının iptalinin istenebilmesi için Kat Mülkiyeti Kanununun 33. maddesi uyarınca kararın öğrenilmesinden başlayarak bir ay her halde karar tarihinden başlayarak altı ay içerisinde iptal davası açılması gerekir. Somut olayda davacının yönetici seçildiği toplantının iptali için dava açıldığını gösteren bir belge mevcut olmadığı gibi, Dairemizin 2017/4199 Esas - 2017/9318 Karar sayılı 13/11/2017 tarihli geri çevirme ilamı ile istenilen karar defterinden de davacının dava tarihinde yönetici sıfatının bulunduğu ve aktif taraf ehliyetine sahip olduğu anlaşılmaktadır.
 Tüm bu nedenlerle işin esasına girilmesi gerekirken davacının aktif taraf ehliyetinin bulunmadığından bahisle davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 20. HD 2018/2770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423004200)
+
 Kat Mülkiyeti Kanununun 34. maddesi “Kat malikleri anagayrimenkulün yönetiminde anlaşamaz veya toplanıp bir yönetici atayamazlarsa, o gayrimenkulün bulunduğu yerin sulh mahkemesince, kat maliklerinden birinin müracaatı üzerine ve mümkünse diğerleri de dinlendikten sonra, gayrimenkule bir yönetici atanır. Bu yönetici, aynen kat maliklerince atanan yöneticinin yetkilerine sahip ve kat maliklerine karşı sorumlu olur.” demektedir. Mahkemece anataşınmaza yönetici atanması ancak kat maliklerinin bu hususta anlaşamamaları durumunda söz konusu olacaktır.
 
 ## Yargıtay 20. HD 2018/1938 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/418102600)
+
 Kat Mülkiyeti Kanununun 34. maddesinin 2. fıkrası hükmü uyarınca sekizden az bağımsız bölüm bulunan anataşınmazda yönetici atanması zorunlu değil ise de kat maliklerinin istemesi durumunda böyle bir anataşınmaza yönetici atanmasına da yasal bir engel yoktur. Ancak mahkeme, davacıyı Kanunun gösterdiği şekle uygun olarak davet etmedikçe hükmünü veremez. O halde mahkemece, davacıya usûlüne uygun tensip zaptı ve duruşma günü tebliği yapılarak taraf teşkili sağlanıp karar verilmesi gerekir. Davacı usûlüne uygun tebliğe rağmen, davasını takip etmek istemez ise davalının davayı takip edip etmeyeceği yönünde beyanı alınarak davayı takip etmeyeceğini bildirmesi halinde HMK'nın 150. maddesi uyarınca davasının işlemden kaldırılmasına karar verilip, süresi içerisinde yenilemede yapılmadığı halde, davanın açılmamış sayılmasına karar vermek gerekirken, yazılı şekilde davanın kabulüne karar verilmesi doğru bulunmamış ve hükmün bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 20. HD 2018/1513 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/412337200)
 
 Dosya içerisindeki bilgi ve belgelerin incelenmesinden, iptali istenilen 05.02.2011 tarihli kat malikleri kurulu toplantısında olağanüstü işlere ilişkin karar alındığı gibi toplantı tutanağının 7. maddesinden de yönetici ve denetici seçiminin de yapıldığı, dava konusu anataşınmazın 28 bağımsız bölümden oluştuğu, toplantıya 11 bağımsız bölüm malikinin katıldığı, yönetici ve denetici seçiminde 634 sayılı Kanunun 34 ve 41. maddelerinde öngörülen sayı ve arsa payı çoğunluğunun bulunmadığı anlaşılmakla bu toplantıya ilişkin kararlardan yönetici ve denetici seçimine ilişkin 7. maddesinin iptal edilmesi gerekirken yazılı gerekçe ile reddine karar verilmiş olması doğru görülmemiştir.

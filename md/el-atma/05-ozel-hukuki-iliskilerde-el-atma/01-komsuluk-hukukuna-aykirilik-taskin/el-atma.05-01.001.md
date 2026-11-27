@@ -37,6 +37,8 @@ Bu nedenle; asıl davada davalı Şirketin temyiz itirazlarının kabulü ile, t
 
 ## Yargıtay 7. HD 2025/549 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158377100)
+
 Davacı vekili dava dilekçesinde: müvekkilinin Ordu ili, ... ilçesi, ...Mahallesi, 1403 ada 16 parselde bulunan taşınmazda hisse sahibi olduğunu, davalının müvekkilinin taşınmazına sınır komşusu olan aynı mevkiide kain, 1403 ada 12 parsel numaralı taşınmazın maliki olduğunu, davalı tarafından taşınmazların ortak sınırına örme taş duvar yapmak suretiyle müvekkilinin taşınmazına haksız bir şekilde el attığını, davalının yaptığı bu örme taşın bir kısmının müvekkilinin maliki olduğu taşınmazın içerisinde kaldığını, davalı ile aynı sınırın başladığı noktanın devamında davalının, müvekkilinin taşınmazının sınırına taş yığmak, örme taş yapmak suretiyle yağmur sularının yönünü değiştirdiğini, söz konusu bu yağmur sularının aynı mevkiide kain dava dışı 1403 ada 17 parselden gelen ve öteden beri davalının kendi arazisinde akıp gitmekte iken davalının haksız müdahalesi sonucunda bu suların müvekkilinin arazisinden akarak müvekkilinin maddi olarak zarara uğramasına neden olduğunu, yağmur sularının müvekkilinin fındık bahçesinde sel suları ve akıntılarla birlikte fındık kaybına neden olduğunu, arazinin çökmesine ve bahçe içerisinde kot farkı oluşmasına sebebiyet verdiğini ileri sürerek, davalı
 tarafından müvekkilinin taşınmazına yönelik örme taş yapmak suretiyle yapılan haksız el atmanın önlenmesini ve kendi kendine akmakta iken müvekkilinin taşınmazı içerisine başka bir örme taş yapmak suretiyle akış yönü değiştirilen su için men'i müdahale ve eski hale getirme kararı verilmesini istemiştir.
 
@@ -57,6 +59,8 @@ Kararın davacılar vekilince istinaf edilmesi üzerine Bölge Adliye Mahkemesin
 
 ## Yargıtay 7. HD 2023/402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884328300)
+
 İlk derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -76,6 +80,8 @@ Bilirkişi raporlarında, bir elatma bulunup bulunmadığı, bu elatmanın katla
 Mahkemece, Yargıtay 14. (Kapatılan) Hukuk Dairesinin bozma ilâmı doğrultusunda araştırma ve inceleme yapılarak verilmiş olan karar usul ve yasaya uygun bulunduğundan dahili davalılar vekilinin yerinde görülmeyen temyiz itirazlarının reddiyle hükmün ONANMASINA …
 
 ## Yargıtay 3. HD 2022/7694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834339300)
 
 Davacı; maliki olduğu 3 katlı binanın davalılardan Mehmet’e ait bitişik taşınmazdaki hafriyat çalışmaları esnasında gerekli tedbirlerin alınmaması nedeniyle zarar gördüğünü, müracaatı üzerine 31/03/2011 tarihli belediyece düzenlenen statik raporda bu hafriyat çalışması nedeniyle maliki bulunduğu 3 katlı yapının giriş merdiveni, giriş cephesi duvarlarında ve taşıyıcı olmayan iç duvarlarda kısmen çatlamalar gözlendiği, söz konusu yerin 3194 sayılı İmar Kanunu'nun 39 ve 40. maddelerine göre tehlike arz ettiği, güvenlik önlemi alınıncaya kadar can ve mal güvenliği açısından nüfus ve eşyanın tahliye edilmesinin ve gereken tedbirlerin alınması gerektiğinin belirtildiğini, dava dışı belediye tarafından bu tespitin davalılardan Mehmet ve İstanbul Sistem Yapı Denetim Limited Şirketine de tebliğ edildiğini, davalılarca gereken önlemler alınmadığından zararın daha da arttığını, 04/04/2011 tarihinde mahkeme aracılığı ile delil tespiti yaptırdığını, tespit dosyasında alınan rapor ile toplam 235.000 TL’lik zararının olduğunun belirlendiğini, savcılığa yaptığı şikayet neticesinde açılan ceza davasının derdest olduğunu, mühürlenmesi ve içinde oturulamayacak durumda olması nedeniyle binayı tahliye
 ettiğini ve neticeten de 2014 yılı sonunda hasarlı bu binayı yıktırdığını, davalılardan Mehmet'in taşınmaz maliki olarak, yapı yüklenicisinin TBK'nın 49. maddesine göre, yapı denetim firmasının yapı denetimi hakkındaki kanun uyarınca, davalı ...
@@ -102,6 +108,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle HMK'nın 371. maddesi uyarınca temyiz 
 
 ## Yargıtay 7. HD 2022/7392 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883076300)
+
 Dava, elatmanın önlenmesi ve yıkım, birleştirilen davada tapu iptali ve tescil, ikinci derecede tazminat istemine ilişkindir.
 
 Davacılar- birleştirilen davada davalılar vekili; Kırıkkale ili, Merkez ilçesi, 114 ada 37 parsel sayılı taşınmazın tapuda kök muris ... adına kayıtlı olduğunu, komşu 36 parsel sayılı taşınmazın ise davalıların murisleri ... adına kayıtlı olduğunu, davalıların uzun zamandır 36 parselin fiilen malikleri olduğunu, davalıların kendi parsellerinin dışına çıkarak 114 ada 37 parsele boydan boya kavak dikmek ve tuğladan yapıdan bir adet garaj, teneke yapıdan da yine 1 adet garaj ve kömürlük yapmak suretiyle tecavüz ettiklerini, bu hususu Kırıkkale Kadastro Müdürlüğünün 16.12.2013 tarihli aplikasyon ölçümü ile öğrendiklerini, davalıların dava konusu taşınmaza vaki tecavüzlerinin önlenmesine ve kâl'e karar verilmesini talep etmiştir.
@@ -124,6 +132,8 @@ SONUÇ: Yukarıda yazılı nedenlerle; temyiz itirazlarının kabulüyle hükmü
 
 ## Yargıtay 14. HD 2019/5912 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549109500)
+
 Dava, komşuluk hukukuna dayalı elatmanın önlenmesi ve kal isteğine ilişkindir.
 
 Davacı vekili, davalılara ait binanın kendi taşınmazının karşısında kaldığını ve davalılarca binaya ait çatının en az 1 metre yükselterek müvekkilinin görüş alanını kapattığını, belediyeye yapılan başvurunun sonuçsuz kalması üzerine iş bu davayı açmak zorunda kaldıklarını beyanla, davalı yapılarından kaynaklanan müdahalenin men’i ile yükseltilen çatının yıkılmasına karar verilmesini talep etmiştir.
@@ -144,6 +154,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalılar vekili temyiz itirazların�
 
 ## Yargıtay 14. HD 2019/5234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537959600)
+
 Dava, komşuluk hukukuna aykırılığın giderilmesine dayalı elatmanın önlenmesi, kal ve tazminat isteğine ilişkindir.
 
 Davalı vekili, davanın reddini savunmuştur.
@@ -159,6 +171,8 @@ SONUÇ: Açıklanan nedenlerle, davacılar vekilinin karar düzeltme istemlerini
 …
 
 ## Yargıtay 14. HD 2019/4949 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522882300)
 
 Dava, sağlığa zarar verdiği iddiasıyla davalı GSM şirketine ait baz istasyonunun kaldırılması isteğine ilişkindir.
 
@@ -177,6 +191,8 @@ Komşuluk hukukundan kaynaklanan hallerde elatmanın önlenmesi davası açılab
 SONUÇ: Yukarıda açıklanan sebeplerle davalı vekilinin temyiz itirazlarının kabulüyle hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2019/3951 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519388500)
 
 Davacı vekili, davacının 4014 parsel sayılı taşınmazın maliki olduğunu, davalının komşu taşınmaz üzerinde açık besi ahırı işlettiğini, mesken mahallelerde açık besi ahırı faaliyetinde bulunmanın yasal ve sağlık koşullarına uygun olmadığını, davacının taşınmazına bitişik şekilde 3 adet kaçak ve ruhsatsız yapı inşaa ettiğini, su kanalının üzerini kapatarak kullanılamaz hale getirdiğini davalıya ait 25 adet büyük baş hayvanın beslenmesi ve kontrolü için kullanılan mekanizma ve kilitlerin çıkardığı yüksek sesler nedeniyle davacı ve ailesinin rahatsız olduğunu, açık besi ahırının kötü koku nedeniyle sağlık yönünden önemli sorun yarattığını, davacının bahçesinde oturamadığını, yaz aylarında durumun daha da dayanılmaz bir hal aldığını, davalının TMK'nin 737. maddesine aykırı davrandığını belirterek, elatmanın önlenmesini, yapıların kal'ini, sağlık koşullarına aykırı durumların önlenmesi ve giderilmesini, gereken işlemlerin davalı tarafından yapılmasını, yapmadığı takdirde davacı tarafından yaptırılarak masrafının davalıdan alınmasını talep etmiştir.
 
@@ -198,6 +214,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin yerinde görülen te
 
 ## Yargıtay 14. HD 2019/593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479496200)
+
 Dava, komşuluk hukukuna dayalı elatmanın önlenmesi ve kal istemlerine ilişkindir.
 
 Davacılar, maliki oldukları binalarının önüne davalı ... Büyükşehir Belediyesinin Atatürk Bulvarı Sıhhiye köprülü U dönüşü kavşağı içinde bulunan mavi masa isimli yapının üzerine çelik konstrüksiyon inşa ettiğini, bundan zarar gördüklerini belirterek davalı belediyenin el atmasının önlenmesini ve adı geçen yapının kal’ini talep etmişlerdir.
@@ -213,6 +231,8 @@ O halde mahkemece öncelikle yapılması gereken şey, davalı tarafın elatmas�
 SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2018/5640 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/446370600)
 
 Dava, komşuluk hukukuna aykırılığın giderilmesi isteğine ilişkindir.
 
@@ -234,6 +254,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 1. HD 2016/11290 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/395923100)
+
 Davacı, 184 ada 4218 parsel sayılı taşınmazın maliki olduğunu, taşınmazın bulunduğu alanda davalılar tarafından inşa edilen otoyolun kenarlarına yapılan kanalların, tek bir kanala bağlandığından oldukça yüksek debiye sahip akıntı oluşturduğunu, bu akıntının taşınmazından geçen kısmının arazisinde derin çukurlara yol açarak iki parçaya böldüğünü, bazı ağaçların da zarar gördüğünü, taşınmazını kullanamadığını ileri sürerek çekişmenin giderilmesine, elatmanın önlenmesine, uğradığı zarar nedeniyle tazminata ve ecrimisile hükmedilmesini istemiştir.
 
 Davalılar davanın reddini savunmuşlardır.
@@ -249,6 +271,8 @@ Mülkiyet hakkına dayanılarak bir kişi aleyhine haksız fiil niteliğindeki e
 Davalılar vekilinin temyiz itirazları belirtilen nedenlerle yerindedir. Kabulüyle, hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2016/6072 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223597600)
 
 Dava, komşuluk hukukundan kaynaklanan tazminat isteğine ilişkindir.
 
@@ -268,9 +292,13 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 8. HD 2015/13325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/155241600)
+
 Ancak davacı ilk davada, davalının Hazine'den satın aldığı taşınmazın dere yatağı özelliğini ortadan kaldırmak, tarıma elverişli hale getirmek için toprak doldurduğunu, bu dolgu sonucu dere aktifleştiğinde kendilerine ait 590 ( daha önce 146) parsele taşkın yapacak taşınmazı kullanılamaz duruma getirdiğini ileri sürerek, davalının el atmasının önlenmesine de karar verilmesini istemiştir. Bu talep, TMK'nun 730/1. maddesindeki "taşınmaz malikinin sorumluluğu" kapsamında, "eski hale getirme ve tehlikenin giderilmesi" ile 737. maddesindeki "komşuluk hukukundan kaynaklanan kaçınma ödevi" hükümlerinin uygulanması talebini de içermektedir. Mahkemece bu talep yönünden bir inceleme yapılmamıştır.
 
 ## Yargıtay 1. HD 2014/14676 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84640000)
 
 Dava; çaplı taşınmaza elatmanın önlenmesi, eski hale getirme ve zararın tazmini isteklerine ilişkin olup mahkemece; pasif husumet yokluğundan davanın reddine karar verilmiş, hüküm davacı tarafından temyiz edilmiştir.
 
@@ -285,6 +313,8 @@ Hemen belirtilmelidir ki; 4721 sayılı Türk Medeni Kanunu'nun (TMK) 683. madde
 Davacı vekilinin temyiz itirazı açıklanan nedenlerden ötürü yerindedir. Kabulüyle, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2014/6431 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84352400)
 
 Dava, ecrimisil ve eski hale getirme bedelinin tahsili isteğine ilişkindir.
 

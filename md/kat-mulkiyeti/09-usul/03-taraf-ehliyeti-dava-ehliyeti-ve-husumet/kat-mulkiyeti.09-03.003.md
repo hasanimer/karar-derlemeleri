@@ -22,14 +22,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2010/12508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967512700)
+
 Ancak bu blokların oluşturduğu toplu yapının yönetimiyle ilgili uyuşmazlıklarda ise Kat Mülkiyeti Kanunu, Medeni Yasanın toplu mülkiyete ait hükümleri veya Kooperatifler Yasası hükümlerinin uygulanması mümkün değildir. Oysa ki toplu yapının kendini oluşturan blok apartmanlara ilişkin ortak yerler dışında bütün toplu yapı kapsamındaki bağımsız bölüm maliklerinin kullanımına terk edilmiş, kanalizasyon, ısıtma,aydınlatma, eğitim,spor, park ve bahçe gibi ortak tesis ve alanlarının bulunduğu da bilinmektedir. Bu ortak tesis ve alanlarının amacına uygun olarak bir disiplin dahilinde kullanılmaları, bakım ve onarımlarının yapılması, bakım ve onarımlar için gerekli giderlerin toplanıp harcanmaları Toplu Yapı Yönetimini sorunlu kılmaktadır. Ne var ki yürürlükte blunan yasalarımızda toplu yapı yönetiminin oluşumuna görev ve sorumlulukları kapsamındaki blok apartman yönetimiyle ilişkilerine görev sorumluluğu içerisinde davada taraf ehliyetine sahip bulunduğuna dair bir düzenlemeye yer verilmemiştir. O sebeple de açıklanan konularda ve özellikle davada taraf olabilme ehliyeti konusunda kanuni boşluğun varlığı kabul edilmelidir.
 Halen yürürlükte bulunan davada taraf ehliyetini varlığını tespit eden kanun kuralları esas alınarak davacı ve davalı yönetimleri tüzel kişiliklerinin bulunmadığı ve dolayısıyla davada taraf olabilme ehliyetlerine sahip olmadıklarının kabulü, somut olaydaki uyuşmazlığı veya benzer nitelikteki uyuşmazlıkları çözümsüzlüğe terk etme sonucunu doğurur. Şu durum karşısında Mahkemenin MK.nun 1.maddesinden kaynaklanan görevi gereği olarak, benzer kurum ve kuruluşlar için yasalarımızda öngörülen düzenlemelerden örnekleme yoluyla yararlanarak hak ve adelete, usul ve dava ekonomisine bütün toplu kanun bağımsız bölüm maliklerini bağlayıcı nitelikteki sözleşme, mevcut ise bu sözleşme hükümlerine uygun toplu yapı içerisinde sosyal barışı sağlayıcı bir çözüm bulması, bunun sonucuna uygun karar verilmesi gerektiğinde duraksamamalıdır.
 
 ## Yargıtay 18. HD 2010/10150 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802827800)
+
 Yargıtay uygulamalarında bu tür davalarda kat malikleri kurulunca kendisine yetki verilmeden yönetim adına dava açan yönetici, aynı zamanda kat maliki ise kat maliki sıfatıyla aktif dava ehliyetinin bulunduğu kabul edilmektedir. Dosya içerisinde bulunan tapu kaydının incelenmesinden, davacı yönetici ...’in anataşınmazda kat maliki olduğu anlaşılmaktadır. Davacı 03.11.2009 günlü dilekçesinde de anataşınmazda aynı zamanda kat maliki olduğunu bu nedenle davaya kat maliki sıfatıyla devam etmek istediğini belirtmiştir. Mahkemece bu durum dikkate alınarak işin esasına girilip tüm deliller toplanıp oluşacak sonuç doğrultusunda karar verilmesi gerekirken, yeni yönetimin davadan feragat etmesi gerekçe gösterilerek davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2010/9893 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802154100)
 
 Kat Mülkiyeti Kanununun 35.maddesinin (a) ve (h) bentlerinde kat malikleri kurulunca verilen kararların yerine getirilmesi ve anagayrimenkulün korunması ve bakımı için kat maliklerinin yararına olan hususlarda gerekli tedbirlerin onlar adına alınması yöneticinin görevleri arasında sayılmıştır. Dosya içerisindeki bilgi ve belgelerin incelenmesinden davaya konu alacağın kaynağının, tarafların beyanları doğrultusunda Kadıköy 4. Sulh Hukuk Mahkemesinin 05.04.2006 günlü ve 2005/476-2006/465 Karar sayılı dosyasında dava konusu edilen tüm kat maliklerinin iznine dayanmaksızın projeye aykırı olarak inşa edilmiş cep-depo şeklindeki yapıların mahkeme hükmü gereği yıktırılması sonucu, bu
 
@@ -37,31 +43,45 @@ depoların imalatları ve kullanılmaları karşılığı olarak ödenen kira be
 
 ## Yargıtay 18. HD 2010/9892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802151500)
+
 Kat Mülkiyeti Kanununun 35.maddesinin (a) ve (h) bentlerinde kat malikleri kurulunca verilen kararların yerine getirilmesi ve anagayrimenkulün korunması ve bakımı için kat maliklerinin yararına olan hususlarda gerekli tedbirlerin onlar adına alınması yöneticinin görevleri arasında sayılmıştır. Dosya içerisindeki bilgi ve belgelerin incelenmesinde projeye aykırı olduğu belirtilen ve eski hale getirilmesi istenen hususlarda kat malikleri kurulunca alınmış bir karar olmadığı gibi açıkça tek tek yapılacak değişikliklerle ilgili yöneticilere verilmiş bir yetki de bulunmamaktadır. Yönetimin anagayrimenkulün korunması ve bakımı için alacağı tedbirlerin ise projeye aykırı değişiklikleri içermemesi gerekir. Kat malikleri kurulunun 04.06.2005 günlü yöneticiye yetki veren kararı da Kat Mülkiyeti Kanununun 35.maddesinin (h) bendinin tekrarı niteliğinde olduğundan bu çerçevede yorumlanmalıdır. Yönetim kurulunun 03.07.2007 ve 28.08.2007 tarihlerinde toplanarak davaya konu bir kısmı projeye aykırı değişiklikler için karar aldıklarına ve bu değişiklikleri gerçekleştirdiklerine göre tüm yönetim kurulu üyeleri, herhangi bir kat malikleri kurulu kararına dayanmadıklarından şahsen sorumludurlar.
 Mahkemece tüm yönetim kurulu üyeleri davaya dahil edilip gerçekleştirdikleri dava konusu edilen projeye aykırı değişikliklerin neler olduğu tespit edilerek bunların eski hale getirilmesinden sorumlu tutulmaları gerekirken, davalıların husumet ehliyetleri olmadığı, husumetin yönetime yöneltilmesi gerektiği gerekçesiyle davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2010/7289 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803413100)
 
 634 Sayılı Yasanın 5711 sayılı Yasayla değişik 33. maddesinin birinci fıkrası gereğince Kat Malikleri Kurulunca verilen kararlar aleyhine oy kullanan kat malikinin karar tarihinden başlayarak bir ay içinde, toplantıya katılmayan her kat malikinin ise kararı öğrenmesinden başlayarak bir ay içinde ve her halde 6 ay içinde iptal davası açabileceği ve buradaki sürenin hak düşürücü olduğu düşünülmeden davacılardan ..., ... ile ...’nin bağımsız bölüm maliki olmadıkları bu nedenle davalarının aktif husumet yokluğu nedeniyle reddi, diğer davacılar yönünden ise hak düşürücü süre yönünden reddi gerekirken işin esasına girilerek değişik gerekçeyle davanın reddine karar verilmesi doğru değil ise de bu hususun düzeltilmesi yeniden yargılamayı gerektirmediğinden gerekçeli kararın birinci paragrafının metinden çıkarılmasına yerine “Davacılardan ..., ... ile ...’nin bağımsız bölüm maliki olmadıkları anlaşıldığından davalarının aktif husumet yokluğu nedeniyle reddine, diğer davacılar yönünden ise hak düşürücü süre yönünden reddine” cümlesi yazılmak suretiyle kararın düzeltilmesine ve düzeltilmiş bu şekli ile ONANMASINA, aşağıda yazılı bakiye onama harcının temyiz edene yükletilmesine, 10.05.2010
 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2010/4138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966168600)
+
 634 sayılı Kat Mülkiyeti Kanununun 27. maddesine göre; “Ana gayrmenkul, Kat malikleri kurulunca yönetilir ve yönetim tarzı, kanunların emredici hükümleri saklı kalmak suretiyle, bu kurul tarafından kararlaştırılır”. Aynı yasanın 34. maddesi ise; “Kat malikleri, ana gayrimenkulün yönetimini kendi aralarından veya dışardan seçecekleri bir kimseye veya üç kişilik bir kurula verebilirler; bu kimseye (yönetici), kurula da (yönetim kurulu) denir.” hükmünü amirdir. Sözü edilen yasanın 35. maddesinde yöneticinin görevleri ayrı ayrı gösterilmiştir. Bu görevler ana gayrimenkulun yönetimi ile ilgili olup, yönetimin gerektirdiği ortak gider yetkisini içerir. Yönetici Yasadan aldığı temsil yetkisine dayanarak çeşitli sözleşmeler kurabilir. İşte bu sözleşmeden ... uyuşmazlıklarda yönetici dava açabileceği gibi, yöneticiye karşı da dava açılabilir. Şu hususta belirtilmelidir ki, yönetici vekaletname ile tayin edilen bir vekil gibi değildir. Yasal bir temsilci olup, yetkisini yasadan almaktadır. Bu sıfatla yaptığı sözleşmeden dolayı temsil ettiği kurula husumet yöneltilebilir.
 
 ## Yargıtay 3. HD 2010/838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964151200)
 
 Bir ... dava etme ... o hakkın sahibine aittir. Bu nedenle davacıların dava konusu şeye ve taraf ehliyetine sahip olup olmadıkları dava şartı olarak kendiliğinden incelenir. Davada davalının13, 14, 15, 16, 17 ve 18 numaralı kömürlükleri işgal ettiği iddiası ile ecrimisil talep edilmiştir. Tapu kayıtları ve kat irtifakı sözleşmelerine göre bu kömürlükler bazı bağımsız bölümlere özgülenmiştir. O nedenle, bilirkişiden sorularak dava konusu kömürlüklerin ortak yerlerden mi olduğu, bağımsız bölümlere mi özgülendiği saptanarak davacıların husumet ehliyeti incelenmeden hüküm kurulması usul ve yasaya uygun değildir.
 
 ## Yargıtay 18. HD 2010/473 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802230700)
+
 Yukarıda açıklanan tüm nedenler gözönünde bulundurularak anataşınmazda kat maliki olmayan, kat malikleri kurulunca özel yetki verilmeyen ve tüzel kişiliği bulunmayan yönetim kurulunun başkanının bu davayı açmakta aktif husumet ehliyetinin olmadığı gözetilerek davanın aktif husumet ehliyetinin yokluğu sebebiyle reddine karar verilmesi gerekirken işin esası hakkında hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2009/9646 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875648700)
+
 Davanın yukarıda tanımlanan niteliği gözönünde tutulduğunda böyle bir davada husumetin anataşınmazda bağımsız bölüm maliki de olmayan yöneticiye yöneltilemeyeceği gözetilerek davanın pasif husumet ehliyeti yokluğu nedeniyle reddi gerekirken, işin esasına bakılarak hüküm kurulmuş olması doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2009/8072 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874161600)
 
 Geri çevirme kararı üzerine yönetime eldeki davayı açması konusunda yetki verildiğine ilişkin bir kat malikleri kurulu kararı dosyaya ibraz edilmemiştir. Her ne kadar 10.09.2005,
 
@@ -69,17 +89,25 @@ Geri çevirme kararı üzerine yönetime eldeki davayı açması konusunda yetki
 
 ## Yargıtay 1. HD 2009/6862 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78197400)
+
 Bilindiği gibi, davada gerçek ve tüzel kişiler yada bunların yasal temsilcileri taraf olma ehliyetine sahiptir. Site yönetiminin tüzel kişiliği ve bu nedenle taraf ehliyeti yoktur. Öte yandan yıkım istekli davalarda yıkılması istenilen ve mütemmim cüz niteliği taşıyan binanın yer aldığı bağımsız bölüm malikleri arasında mecburi dava arkadaşlığı söz konusu olduğundan tümünün davada yer almasında zorunluluk vardır. Aksi halde malikleri bakımından bölünme olanağı olmayan yıkım isteğinin yerine getirilmesine yasal olanak yoktur.Oysa, bağımsız bölüm maliklerinin tümüne yöneltilen bir husumet bulunmadığından, başka bir deyişle tüm bağımsız bölüm maliklerine davada yer verilmediğine göre, eldeki davanın dinlenilmesine olanak yoktur.
 
 ## Yargıtay 18. HD 2009/6158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873492800)
 
 Kat Mülkiyeti Yasasının 19. ve 24. maddelerine aykırılık iddiasıyla açılan davalarda husumetin davaya konu aykırılıkları gerçekleştiren kişiler yanında, kat maliklerine de - verilecek karar hukuki durumlarını etkileyeceğinden- yöneltilmesi gerekmektedir. Dosya içindeki tapu kayıt örneğinin incelenmesinden davaya konu 17 numaralı bağımsız bölümün malikinin ..., 1 ve 2 numaralı bağımsız bölümlerin malikinin ... olduğu ancak bu kişilerin taraf olarak davada yer almadıkları anlaşılmaktadır.
 
 ## Yargıtay 18. HD 2009/6152 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873622900)
+
 Kat malikleri kurulu kararlarının iptali istemiyle açılacak davalarda aktif husumet ehliyeti (davacı olma hakkı) kural olarak kat maliklerinindir. Ana yapıdaki bağımsız bölümlerden kira sözleşmesi veya bir başka hukuki nedene dayalı olarak devamlı surette yararlananların bu tür davalarda aktif dava ehliyetleri ancak ilgili kurul kararının doğrudan kendilerini ilgilendirmesi halinde bulunmaktadır.
 
 ## Yargıtay 18. HD 2009/5369 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873074600)
 
 Yargıtay uygulamalarına göre, kat malikleri kurulu kararlarının iptali davalarında husumetin, iptali istenen karara olumlu oylarıyla katılmış kat maliklerinin tümüne ve bizzat yöneltilmesi zorunludur. Ancak bu ilke, iptali istenen karara katılan kat maliklerinden bazılarına husumet yöneltilerek açılan davaların salt bu nedenle reddedilmemesini gerektirmez. Başka bir anlatımla karara katılmış olduğu halde kendilerine husumet yöneltilmemiş olan veya bizzat kendileri yerine vekillerine husumet yönetilmiş bulunan kat
 
@@ -87,17 +115,25 @@ maliklerinin de davaya dahil edilmesi için davacı tarafa önel verilerek taraf
 
 ## Yargıtay 18. HD 2009/4443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873391800)
+
 Açıklanan bu niteliğinden dolayı davada husumetin iptali istenilen kat malikleri kurulu kararına olumlu oyları ile katılmış olan kat maliklerinin bizzat kendilerine yöneltilmesi gerekmektedir. Bu bağlamda; husumetin 1 nolu bağımsız bölüm maliki ... isimli kat malikine de yöneltilmesi gerektiğinin düşünülmemesi doğru görülmemiştir.
 
 ## Yargıtay 15. HD 2009/1782 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857216300)
 
 Ayıplı ve eksik işlerin giderilmesi için dava açılmasını sağlamak amacıyla görevlendirilen yönetici ya da yönetim kuruluna kat maliklerinin temsil yetkisi vermiş sayılacaklarının kabulüne hukuksal olanak yoktur. Çünkü temsil olunan kimse, hukuksal işlemden doğan temsil yetkisini her zaman daraltabilir veya kaldırabilir (BK.m.34/I). Diğer yandan açılan bu dava apartman yönetim kuruluna 634 sayılı Yasayla verilen görev ve tanınan yetkiler dahilinde değildir. Bu yasal nedenlerle apartman yöneticilerinin bu davada aktif dava ehliyeti bulunmamaktadır.
 
 ## Yargıtay 18. HD 2008/10349 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876171200)
+
 Dava konusu kat malikleri kurulu toplantısına . nolu bağımsız bölüm maliki olarak olumlu oyu ile katıldığı anlaşılan davalı .'in pasif husumet ehliyetinin bulunduğunun kabulü gerekirken yerinde olmayan gerekçelerle bu davalı hakkında da pasif husumet ehliyeti yokluğu nedeni ile davanın reddedilmesi,Doğru görülmemiştir. Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA, temyiz peşin harcının istek halinde temyiz edene iadesine, 13.10.2008 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 15. HD 2008/7769 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858542500)
 
 Bu durumda öncelikle davacı arsa sahipleri ve apartman yönetimine talep ettikleri eksik ve kusurlu iş miktarları açıklattırılıp yöneticiliğin açtığı davanın aktif husumet yokluğundan reddi gerekir. Arsa sahiplerinin açtığı dava ile ilgili olarak, kendilerine ait bağımsız bölümler ile ortak alanlarda hisselerine düşen eksik ve kusurlu imalât bedellerinin tesbiti, davalı yüklenicinin fazla imalât yapıldığına ilişkin savunması mahsup itirazı niteliğinde olduğundan bunların davalı yükleniciye açıklattırılması, fazla imalât yapıldığı ve arsa sahiplerinin yararına olduğu bilirkişi incelemesiyle tesbit edilirse, ortak alanlarda yapılan fazla imalâtlar yükleniciye ait bağımsız bölümlerin de değerini artıracağından bu
 
@@ -105,14 +141,20 @@ kısımlardaki bağımsız bölümler hariç arsa sahiplerinin bağımsız böl�
 
 ## Yargıtay 15. HD 2008/5656 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858141000)
+
 Davada öncelikle çözümü gereken husus apartman yöneticisi olan davacının kat malikleri adına böyle bir davayı açıp açamayacağıdır. Davada husumet ehliyetinin bulunup bulunmadığı dava şartlarından olup mahkemece re’sen gözetilmesi gerektiğinden aktif dava ehliyeti üzerinde durulmalıdır. Apartmanın ortak istinat duvarının yıkılması nedeniyle uğranılan zarar tüm kat maliklerini ilgilendirdiğinden ve bu zarar apartmanın yönetim ve idaresiyle ilgili bulunmadığından arada bir sözleşme ilişkisi olmadığı sürece yöneticinin zararın giderilmesi için dava açamayacağı kabul edilmelidir. Yönetici ve davalılar arasında imzalanmış bir sözleşme olmadığından sözleşmeye dayalı olarak davacının dava açamayacağı kabul edilmelidir. Diğer yandan yöneticinin 634 sayılı Kat Mülkiyeti Kanunu gereğince kat malikleri adına dava açmak yetkisi de bulunmamaktadır. Dosyada kat maliklerinin bu dava ile ilgili haklarını yöneticiye temlik ettiklerine dair bir belgeye de rastlanmamıştır. Bu durumda davacı yönetici ancak kat maliki ise hissesi oranında dava açabilir.
 Bunun dışında dava açma yetkisi bulunmadığından mahkemece bu husus üzerinde durularak malik ile sözleşme ilişkisi olduğunu ispatladığı takdirde hissesi nisbetinde dava kabul edilmeli, aksi takdirde dava reddedilmelidir.
 
 ## Yargıtay 18. HD 2008/5060 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880082400)
+
 Davanın açıldığı 8.6.2006 tarihi itibariyle yürürlükte olan 634 Sayılı Kat Mülkiyeti Yasasının Ek-3. maddesinin (c) bendi hükmüne göre blok yapılarda bunlardan yalnız birine ilişkin sorunların çözümlenmesinde kat malikleri kurulu o blokta bulunan bağımsız bölüm maliklerinden oluşur. Somut olayda site yönetimi adına davayı açan kişi dava konusu ortak yerlerin bulunduğu C33 Blokta bağımsız bölüm maliki olmadığı gibi, bu bloktaki bağımsız bölüm maliklerinden oluşan kat malikleri kurulunca da böyle bir davayı açması konusunda site yönetimine ya da bu yönetim adına hareket eden ...'a açıkça bir yetki de verilmemiş olduğu, buna göre davada davacı yanın aktif husumet ehliyetinin bulunmadığı gözetilerek mahkemece davanın aktif husumet ehliyeti yokluğundan reddi gerekirken, işin esası hakkında hüküm kurulmuş olması doğru görülmemiştir.
 
 ## Yargıtay 15. HD 2007/7582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/861062000)
 
 Dava konusu taşınmaz üzerinde arsa payı karşılığı inşaat yapımı ve taşınmaz satış vaadine ilişkin 10.12.2001 tarihli sözleşme ile davalı yüklenici ...’in taraf olduğu 06.03.2002 tarihli devir sözleşmesinde apartman yöneticiliği taraf olmadığı ve uyuşmazlık 634 Sayılı Kat
 
@@ -120,13 +162,19 @@ Mülkiyeti Yasasına göre yöneticiye verilen görevden kaynaklanmadığından 
 
 ## Yargıtay 18. HD 2007/5113 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880650600)
+
 Mülkiyet hakkının kullanılmasına ilişkin olan bu tür uyuşmazlıklarda aktif husumet ehliyeti kat maliklerine ait olup, kat maliki olmayan yöneticinin böyle bir davayı açabilmesi ancak kat malikleri kurulunun kendisine bu hususta ayrıca ve açıkça yetki vermesiyle olanaklıdır. Dosya içinde mevcut olan 07.09.2005 tarihli kat malikleri kurulu toplantısındaki "... hukuki işlemlerin takibi ... Apartmanının genel ihtiyaçlarının karşılanması için kendilerine yetki verilmiştir." şeklindeki karar yöneticiler arasındaki iş bölümüyle ilgili olup davacı yöneticiye dava açma yetkisi verilmiş olduğu anlamında yorumlanamayacağından aktif husumet ehliyeti bulunmayan davacının açtığı davanın reddi yerine yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/3898 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16008600)
+
 Kat Mülkiyeti Yasasının 20. maddasine göre kat maliklerinden herbiri aralarında başka türlü anlaşma olmadıkça anataşınmazın ve buna ait ortak tesislerin işletme giderlerine, bu giderler için toplanacak avansa kendi arsa payları oranında katılmakla yükümlüdürler. Somut olayda davacının dava konusu anataşınmazın yöneticisi ile anlaşarak yukarıda değinildiği gibi anataşınmazın yakıtının karşılanması için yöneticiye kal-yak denilen yakıtı teslim etmiştir. Yargıtay uygulamalarında yöneticinin yasadan doğan kat maliklerini temsil yetkisine giren işlerden dolayı üçüncü kişilerle yaptığı sözleşmelerden kaynaklanan uyuşmazlıklarda yönetimin (yöneticinin) aktif ve pasif husumet ehliyetinin bulunduğu kabul edilmektedir. Davacı davalı apartman yöneticiliğine karşı husumet yöneltmekle doğrudan doğruya davalı apartmanın yöneticisini hasım olarak göstermiştir. O halde davalının pasif husumet ehliyetinin bulunduğu kabul edilerek işin esasına girilerek toplanan deliller doğrultusunda oluşacak kanaate göre bir karar verilmesi gerekirken yazılı şekilde davanın husumet yokluğu nedeniyle reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2007/306 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877666400)
 
 Davanın bu niteliği gereğince, husumetin iptali istenen karara olumlu oylarıyla katılan kat maliklerinin tümüne yöneltilmesi gerekirken, 8 nolu bağımsız bölümde paydaş olan Z.... ..., 10 nolu bağımsız bölümde ... olan Beya Levi, 14 nolu bağımsız bölümün paydaşları ... ve ..., 6 nolu bağımsız bölümün paydaşları... ve..., 16 nolu bağımsız bölümün maliki ... ... ile 7
 
@@ -134,11 +182,15 @@ nolu bağımsız bölümün yeni maliki ......'ye husumet yöneltilmeden yargıl
 
 ## Yargıtay 15. HD 2006/4435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860452000)
+
 Yanlar arasındaki sözleşme, iş sahibi sıfatıyla “...., Blok Kat Malikleri Onarım Heyeti” olarak davalılarca imzalanmıştır. Sözleşmenin 6. maddesi, “Hazırlanacak imalât ve ihracat hakedişlerine göre işverenin devletten alacağı %30, %40 ve %20’lerin yardımların alındığı tarihlerde bakiye kalanın inşaat süresinde kat maliklerinden alınmasına müçkip ödeme yapılacaktır” hükmünü içermektedir. Yargılama sırasında da davacı vekili, davayı tüm kat maliklerine yöneltmek için mahkemeden süre verilmesini istemiştir. Davalı vekili de 08.03.2006 tarihli cevap dilekçesinde yanlar arasındaki sözleşmenin kat malikleri adına ve kat malikleri kurulunun vermiş bulunduğu yetkiye dayanarak imzalanmış olduğunu bildirmiştir. Tarafların açıklamalarıyla sözleşme kapsamı birlikte incelendiğinde; davaya dayanak alınan sözleşmenin kat maliklerini temsilen davalılarca imzalanmış olduğu sonucuna varılmaktadır. Sözleşmelerin temsilen yapıldığının kabul edilebilmesi için iradeye bağlı olarak temsil olunan tarafından yetki verilmesi zorunludur. Sözleşmenin temsil olunanı bağlayıcı olabilmesi, temsil olunanın az yukarıda açıklanan şekilde temsilciye yetki yada sonradan onay (icazet) vermesine bağlıdır.
 Kat malikleri, paydaş ya da ortaklarca alınan ana taşınmazın onarımına yönelik kararlarla, kararlara katılanların ve katılmayanların, yüklenici ile “eser” sözleşmesi yapması için kararların uygulanmasını sağlamak amacıyla görevlendirilenlere “temsil yetkisi” vermiş sayılacaklarının kabulüne hukuksal olanak yoktur. Çünkü, temsil olunan kimse hukuksal işlemden doğan temsil yetkisini her zaman daraltabilir veya kaldırabilir (BK.md.34/1). Vekalet sözleşmesi gereğince temsil yetkisi verilmişse Borçlar Kanunu'nun 396/1. maddesi gereğince, vekillikten çıkarma her zaman olanaklıdır. Oysa, kararı alanlara yahut katılmayanlara bu yetkilerin tanınması ve onlar tarafından kullanılması durumunda kararların uygulanması da olanaksız hale gelir. Kaldı ki, Borçlar Yasası'nın 34/2. maddesi gereğince temsil edilenin bu “daraltma ve kaldırma” hakkında önceden vazgeçmesi dahi geçersizdir.
 Bu hukuksal nedenle davalılara kat maliklerini temsilen husumet yöneltilemez ise de; davalıların da kat maliklerinden oldukları sabit bulunduğuna göre, davacının ana taşınmaza yaptığı işlerden ötürü kat maliki sıfatıyla sorumluluğu bulunduğundan mahkemece uyuşmazlığın esasına girilerek ve davalıların sorumluluk derecesi ve tutarı belirlenerek varılacak sonuca göre bir karar verilmesi gerekmektedir.
 
 ## Yargıtay 18. HD 2006/1429 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884358500)
 
 Dosya içindeki bilgi ve belgelerden; davacı-karşı davalı ... ile davalı-karşı davacılar ... ve ...'nın dava konusu kat irtifaklı anataşınmazda sırasıyla 17, 6 ve 9 numaralı bağımsız bölüm maliki oldukları anlaşılmaktadır. Yargıtay uygulamalarına göre; kat malikleri kurulu toplantı ve kararlarının iptaline ilişkin davalarda husumetin, toplantıya katılıp olumlu oylarıyla kararın oluşmasına katkıda bulunan tüm kat maliklerine yöneltilmesi ve onların davaya dahil edilmesi gerekmektedir. Ayrıca Kat Mülkiyeti Yasasının 20. maddesinin ikinci fıkrasına göre gider veya avans payını ödemeyen kat maliki hakkında diğer kat maliklerinden her biri veya yönetici dava açabilir, icra takibi yapabilir. Mahkemece bu hususlar gözönünde bulundurularak asıl davada taraf teşkili sağlanmadan; birleştirilen
 
@@ -146,9 +198,13 @@ davada ise davacı yöneticinin, ortak yakıt giderinden payına düşeni ödeme
 
 ## Yargıtay 14. HD 2006/687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851025400)
+
 Davada ... hasım gösterilmiştir. 634 sayılı Kat Mülkiyeti Kanununun 35.maddesinde yönetimin görevleri belirlenmiş, genel olarak yönetim anagayrimenkulün genel yönetim işlerinin yürütülmesi ile görevlendirilmiştir. Başka bir anlatımla, yönetici yönetim planında aksine bir hüküm olmadıkça bu maddede belirtilen görevleri yerine getirmekle görevlidir. Anılan yasanın 38.maddesi gereğince kat maliklerine karşı tıpkı vekil gibi sorumlu olan yönetici 40.madde hükmüne göre kural olarak vekilin haklarına sahiptir. Bundan dolayı Borçlar Kanununun 388.maddesi hükmü gereği özel bir yetki almadan dava açamıyacağı gibi, hakkında da dava açılamaz. Hakkında açılabilecek davalar, 35.maddede sayılan görevleri sebebiyle bu görevleri yerine getirirken yapacağı iş ve işlemlerle sınırlıdır. Dolayısı ile somut olayda site yönetiminin aktif dava ehliyeti bulunmamaktadır. Eldeki davanın devletin hüküm ve tasarrufu altındaki yere doğrudan elatanlara yöneltilmesi gerekeceğinden site yönetimi aleyhine açılan dava husumet noktasından reddolunmalıdır.
 
 ## İstanbul BAM 43. HD 2026/514 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205490500)
 
 Şirket yöneticilerinin kötü yönetimi nedeniyle zarara uğratılması iddiaları şirketin doğrudan zararı niteliğinde olduğundan şirket ortaklarının veya alacaklıların, ancak yöneticilerin ödeyeceği tazminatın şirkete verilmesi yönünde istemde bulunmaları mümkündür.Limited şirket müdürünün azli istemi bakımından, 6102 sayılı TTK'nın 630. maddesinde; genel kurulun, müdürü veya müdürleri görevden alabileceği, yönetim hakkını ve temsil yetkisini sınırlayabileceği, her ortağın, haklı sebeplerin varlığında, yöneticilerin yönetim hakkının ve temsil yetkilerinin kaldırılmasını veya sınırlandırılmasını mahkemeden isteyebileceği, yöneticinin, özen ve bağlılık yükümü ile diğer kanunlardan ve şirket sözleşmesinden doğan yükümlülüklerini ağır bir şekilde ihlal etmesi veya şirketin iyi yönetimi için gerekli yeteneği kaybetmesinin haklı sebep olarak kabul olunacağı hüküm altına alınmıştır. TTK 625. ve 626.maddelerine göre, müdürler görevlerini tüm özeni göstererek yerine getirmek ve şirketin menfaatlerini dürüstlük kuralı çerçevesinde gözetmekle yükümlüdürler.
 Müdürler, kanunların ve şirket sözleşmesinin genel kurula görev ve yetki vermediği bütün konularda görevli ve yetkilidirler.İlk derece mahkemesince 08.12.2014 tarihli ara karar ile davacı ve davalıların ortağı oldukları dava dışı ... adına tapuda adına kayıtlı taşınmazların 3. Kişilere devrinin önlenmesi bakımından ihtiyati tedbir konulması talebinin kabulüne ve dava dışı şirkete şirket temsilcilerinin işlemlerini denetlemek üzere denetim kayyımı atanmasına karar verilmiş olup, ... adına kayıtlı İstanbul İli Tuzla İlçesi ... Mahallesi 7719 Parsel sayalı taşınmaz üzerinde bulunan 1 nolu bağımsız bölümün dava tarihinden sonra ihtiyati tedbir kararından önce 02.12.2014 tarihinde satışının gerçekleşmiş olduğu anlaşılmıştır. Davacı tarafça anılan taşınmaza yönelik zarar iddiasında bulunulmuş ise de her dava açıldığı tarihteki koşullara göre değerlendirilecek olup, dava tarihinden sonra gerçekleşen vakıaların
@@ -157,10 +213,14 @@ hükme esas alınması mümkün değildir. Bu durumda ayrı bir davanın konusun
 
 ## İstanbul BAM 7. HD 2025/2424 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173888400)
+
 2 / mahkeme, dava şartı noksanlığını tespit ederse davanın usulden reddine karar verir .Somu olayda; davacının davalı ... ile yaptığı 07/05/2013 tarihli protokole dayalı olarak dava açtığı, bu protokolde dava konusu 5 adet bağımsız bölüme ait kooperatif hissesinin davalıya emaneten verildiği ve davacının talebi doğrultusunda davacıya iade edileceğinin belirtildiği, bunun davalının cevap dilekçesinde doğrulandığı, davacının kooperatif üyesi olmadığı, dava konusu 5 adet bağımsız bölüme ilişkin kooperatif hisselerinin davacının kardeşi dava dışı ... tarafından davalı ...' e devredildiği ve halen 4 adet bağımsız bölüme ilişkin kooperatif hisselerinin davalı adına kayıtlı olduğu, aktif husumet ehliyetinin dava şartlarından olduğu ve yargılamanın her aşamasında mahkeme tarafından resen gözetilmesi gerektiği, buna göre davacının davalı ... ile yaptığı sözleşmeye dayalı olarak şahsi hakkına ilişkin dava açtığı, yapılan sözleşmenin davalı ... tarafından inkar edilmediği, davacının dayanağının kooperatif üyeliği olmadığı, sözleşme gereği davalıya ait kooperatif üyeliğinin iptali ile adına tescilini talep ettiği, bu haliyle davacının dava açmakta aktif husumet ehliyetinin olduğu, mahkemenin
 davanın esasına girerek davacının talebi hakkında HMK 297. Maddesi uyarınca olumlu veya olumsuz bir hüküm tesis etmesi gerektiği anlaşılmakla;Davacının istinaf talebi hakkında HMK 353/...-a-4. Maddesi uyarınca duruşma yapmaksızın kesin olmak üzere karar vermek gerektiği kanaatine varılarak aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 17. HD 2025/1662 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187485200)
 
 Dosya kapsamında dosya kapsamında taşınmazın tapu kaydı ve yönetim planına rastlanılmıştır.Somut olayda, davacı ... şirketinin davalıdan rücuen tazminat talebi, ortak atık su borusundan kaynaklı zarardan davalının gerekli bakım ve onarımı yapmadığı iddiasına dayandığından öncelikle taşınmazda kat mülkiyetine geçilip geçilmediği tespit edilmesi gerekir. Kat Mülkiyeti Kanunu 19/3 maddesi uyarınca bağımsız bölüm maliklerinin kusurları ile diğer bağımsız bölümlere verdikleri zarardan dolayı diğer maliklere karşı sorumlu oldukları düzenlenmiştir.Öte yandan Yargıtay 17.
 Hukuk Dairesinin 2013/10267 Esas, 2014/14365 Karar ve 27/10/2014 tarihli kararında belirtildiği üzere, 634 sayılı Kat Mülkiyeti Yasası'nın 35. maddesi hükmünde, ana gayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için kat maliklerinin yararına gereken tedbirlerin alınması yöneticinin görevleri arasında sayılmıştır.Yine aynı yasanın Ek-1 maddesi uyarınca Kat Mülkiyeti Kanunu'nun uygulanmasından kaynaklanan her türlü uyuşmazlığın Sulh Hukuk Mahkemesinde görüleceği kararlaştırılmıştır.Sonuç olarak yukarıda yapılan açıklamalar ışığında uyuşmazlığın ortak alandan kaynaklı zarar oluştuğu iddiası nedeniyle Kat Mülkiyeti Kanunundan kaynaklanıp kaynaklanmadığı ve Mahkemenin görevli olup olmadığının tartışılması gerekirken ilk derece mahkemesince yazılı olduğu şekilde davanın pasif husumetten reddine karar verilmesi isabetli olmamıştır. Kabule göre de, adi ortaklığın tüzelkilişiği bulunmayıp husumet ehliyetleri de olmadığından, davanın/icra takibinin tüm ortakların ayrı ayrı tespit edilerek onlara yöneltilmesi gerekir. Somut davada, davacı tarafından icra takibi ...ne karşı başlatılmış olup,
@@ -169,10 +229,14 @@ iş ortaklığını oluşturan her üç şirket tarafından tayin edilen vekilin
 
 ## Bursa BAM 14. HD 2025/1077 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156921600)
+
 Somut olayda, davacı tarafça dava konusu kat karşılığı inşaat sözleşmesinde taraf olan tüm arsa maliklerinin davanın niteliği gereği davada taraf olarak gösterilmemesi yerinde görülmemekle birlikte, inşaatın projesindeki eksiklik oranı ve yüklenici ile arsa malikleri arasındaki kat karşılığı inşaat sözleşmesinin geriye etkili feshine karar verilmesi ve söz konusu kararın kesinleşmesi dikkate alındığında davacının temlik hükümlerine göre arsa maliklerinden tapu tescil talep edemeyeceği açıktır. Dosya içerisinde mevcut tapu kaydına göre de dava konusu bağımsız bölümün davalı arsa maliki adına kayıtlı olmadığı, dava dışı ... adına kayıtlı olduğu da anlaşılmıştır.
 Bu durumda tapu iptali talep edilen bağımsız bölümün davalılar adına kayıtlı olmaması, dava dışı üçüncü kişi adına kayıtlı olması, davacı tarafça sözleşme kapsamında davalıya ödenen bedelin davalılardan iadesinin istenemeyecek olması nedeni ile davalılara husumet yöneltilemeyeceğinden; tapu iptal tescil isteminin reddine ve davacı tarafın bedel talebine ilişkin terditli talebinin davalı yüklenici yönünden kabulü ile davalı arsa maliki mirasçıları yönünden pasif husumet yokluğundan davanın reddine karar verilmesi gerektiğinden mahkemenin gerekçesi belirtilen nedenlerle yerinde görülmemiştir (Yargıtay 6.H.D.'nin 2021/3243 E.2022/505 K.,).
 
 ## İstanbul BAM 45. HD 2025/1061 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178982400)
 
 Yani İlk Derece Mahkemesince dosyada mevcut durum itibariyle yargılama sırasında taraf değişikliği yapılmadığı anlaşılmıştır. Ayrıca dosyada İlk Derece Mahkemesince usulüne uygun olarak davalı tarafta iradi değişliklik yapılmış olsa idi dahi davalı haline gelen ...ve ... Hizmetleri Sanayi ve Ticaret A.Ş. icra dosyasında borçlu olarak yer almaması ve icra dosyasında taraf değişikliğinin yargılamanın aksine HMK'nın 124. maddesi uyarınca yapılamayacak olması nedeniyle sıfat yokluğu nedeniyle davanın pasif husumet yokluğundan reddi dair karar verilmesi gerekmekteydi.Dosyada mevcut 26.03.2010 tarihli sözleşme başlıklı güvenlik hizmet alımına ilişkin sözleşmenin ...ve ... Hizmetleri Sanayi ve Ticaret A.Ş. ile ... Vadisi Site Yönetimi arasında imza altına alındığı anlaşılmıştır.Davacı ... ... Ticaret A.Ş.'ye ait ticaret sicil kayıtları incelendiğinde; 12.06.2012 tarihli 8088 sayılı ticaret sicil gazetesinde ilan edildiği üzere ... ... Ticaret Ltd. Şti.'nin tür değişikliği ile yeni ticaret ünvanının ... ... Ticaret A.Ş. olduğu anlaşılmıştır.Davalı olarak İlk Derece Mahkemesi karar başlığında gösterilen ...Ve ... Hizmetleri Ticaret Ltd.
 Şti.'ye ait 536174-0 sicil numaralı şirketin ticaret sicil kayıtları incelendiğinde; 17.09.2020 tarihli 10162 sayılı ticaret sicil gazetesinde ilan edildiği üzere ...ve ... Hizmetleri Ticaret Ltd. Şti.'nin yeni ticaret ünvanının ...Ve ... Hizmetleri Ticaret Ltd. Şti. olduğu anlaşılmıştır....ve ... Hizmetleri Sanayi ve Ticaret A.Ş.'ye ait ticaret sicil kayıtları incelendiğinde; ... sicil numaralı şirketin faaliyetinin devam ettiği herhangi bir tür değişikliği yapmadığı anlaşılmıştır.Davalı vekilince istinaf dilekçesinde aktif husumet yönünden itirazda bulunulup istinaf yoluna başvurulmuş ise de, davacı şirketinin tür değişikliği nedeniyle ticaret unvan değişikliğinin ticaret sicil kayıtları itibariyle sabit olması nedeniyle aktif husumetinin bulunduğu anlaşılmıştır.Davacı ve davalı

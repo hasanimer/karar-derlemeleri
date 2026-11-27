@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2018/15609 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451903100)
+
 Davacı vekili, vekil edeninin 1288 ve 1169 parsel sayılı taşınmazların maliki olduğunu, dava konusu taşınmazlardan davalı şirkete ait boru hatları geçirildiğini, geçen boru hatlarının taşınmazların ekonomik değerini önemli ölçüde azalttığını ve tasarrufa engel olduğunu, boru hatlarının döşenmesinden önce taşınmaz maliklerinden muvafakat almak ve tapuya irtifak hakkı tesisi ettirmenin yasal zorunluluk olduğunu belirterek, davalı şirket tarafından dava konusu taşınmazlara yapılan müdahalenin boru hatlarının ve eklentilerinin kâl'i sureti ile önlenmesine ve 20.000,00-TL ecrimisil bedelinin davalıdan tahsiline karar verilmesini istemiştir.
 
 …
@@ -41,6 +43,8 @@ Yukarıda değinilen hususlar çerçevesinde somut olaya bakıldığında; eldek
 SONUÇ: Açıklanan nedenlerle, taraf vekillerinin temyiz itirazları yerinde olduğundan kabulü ile Yerel Mahkeme hükmünün 6100 sayılı HMK'nin Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nin 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/14551 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430935800)
 
 Davacı vekili, davaya konu edilen alanda idareleri tarafından kamulaştırma işlemi yapıldığını, davalı tarafa ait 16 numaralı binanın duvarının kamulaştırma koridoru içerisinde kaldığını ve bu alanın davalı tarafından boşaltılmadığını açıklayarak, davalı tarafın tecavüzünün önlenmesine ve yapılan tecavüzün kaldırılmasına karar verilmesini istemiştir.
 
@@ -62,6 +66,8 @@ SONUÇ: Davalı vekilinin temyiz itirazları yukarıda (2) nolu bentte açıklan
 
 ## Yargıtay 8. HD 2018/14310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430272600)
+
 Mahkemece davalının, davacıya ait 203 parsel üzerine arı koyma yerleri bırakarak haksız bir şekilde müdahalede bulunduğu yine kadastro zemininde bulunmamakla birlikte fiilen kullanılan ve davacının arazisi üzerinde bulunan yolun davalı tarafından oturma yeri yapılmak suretiyle davacının geçişine engel olunduğu, davaya konu mereğin davalı tarafından yapılmayıp davacının annesi davalının ise babaannesi olan kişi tarafından bu şekilde kullanmalarının uygun görüldüğü ve uzun yıllardır da itiraza uğramadan kullanıldığı bu nedenle davacının mereğin kaldırılması yönündeki talebinin kabul görür bir gerekçesinin bulunmadığı belirtilerek, davanın arı koyma yerleri ile oturma yerlerinin kaldırılması ve buralara davalı tarafından yapılan müdahalenin önlenmesi yönündeki taleplerinin kabulü ile merekle ilgili tecavüzün önlenmesi ve kal’i yönündeki talebinin ise reddine karar verilmiş ve karar, davacı vekili tarafından temyiz edilmiştir.
 
 Dava paylı mülkiyete dayalı tapulu taşınmazda elatmanın önlenmesi ve kal istemine ilişkindir.
@@ -74,11 +80,15 @@ SONUÇ: Yukarıda 2 numaralı bentte açıklanan nedenlerle davacı vekilinin te
 
 ## Yargıtay 8. HD 2018/13636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/428836900)
+
 Elatmanın Önlenmesi, Yıkım ve Ecrimisil talepli davalarda vekalet ücreti hesaplanırken elatılan taşınmazın değeri, muhdesatın değeri ve hükmedilen ecrimisil miktarının toplamı üzerinden nispi vekalet ücretine hükmedilir. Eldeki davada 367 TL ecrimisile hükmedilmiştir, yine elatmanın önlenmesine karar verilmiştir ve dava açılırken davacı tarafından elatılan taşınmaz için 10.000 TL üzerinden harç yatırılmıştır ve yine muhdesat bedeli de 6.657 TL’dir . Mahkemece davacı lehine 17.024 TL üzerinden 2.042,88 TL nispi vekalet ücretine hükmedilmesi gerekirken yanılgılı değerlendirmeyle elatmanın önlenmesi ve ecrimisil talepleri için ayrı ayrı 1.500’er TL vekalet ücretine hükmedilmesi doğru değil ise de; hüküm sonucu itibarıyla doğru olduğundan ve bu husus yeniden yargılamayı gerektirmediğinden temyiz edilen hükmün HUMK'nun 438/son maddesi uyarınca düzeltilerek onanması gerekmiştir.
 
 SONUÇ: Yukarıda açıklanan nedenlerle 1086 sayılı HUMK'nun 438/son fıkrası gereğince hükmün asıl dava bakımından başlıklı kısmının 7 ve 8 no’lu bentlerinin “ Davacı kendisini bir vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan AAÜT’ne göre takdir ve tayin olunan 2.042,88 -TL nispi vekalet ücretinin davalı ...’den alınıp davacı ...‘a VERİLMESİNE...” şeklinde düzeltilerek ONANMASINA …
 
 ## Yargıtay 14. HD 2018/6717 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/446341200)
 
 Dava, elatmanın önlenmesi ve kal isteğine ilişkindir.
 
@@ -96,6 +106,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin 
 
 ## Yargıtay 8. HD 2017/9567 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353781200)
+
 Davacı Hazine vekili; dava konusu .... sınırları içerisinde Devletin hüküm ve tasarrufu altında bulunan yaklaşık 84.581,50 m2 miktarındaki taşınmaza, davalı şirket tarafından moloz dökmek, iki adet şantiye binası ve elek tesisi yapmak suretiyle müdahale edildiğini, dava konusu yer devletin hüküm ve tasarrufu altındaki yerlerden olup taşınmaz üzerinde davalı şirketin hukuken korunmaya değer hiçbir hakkı mevcut olmadığını, şirketin fuzuli şagil konumunda olduğunu belirterek davalı şirketin dava konusu yere müdahalesinin meni ile taşınmaz üzerinde bulunan muhdesatların kal'ine karar verilmesini istemiştir.
 
 Davalı; davacı hazinenin talebi olan molozların kaldırılması için şirketlerinin mali gücü olmadığını, davacı kurum tarafından nakliye giderinin ve taşınmaz üzerinde bulunan üç adet şantiye binasının bedelinin de karşılanması gerektiğini belirterek davanın reddini talep etmiştir.
@@ -107,6 +119,8 @@ Mahkemece; davanın kısmen kabul kısmen reddine karar verilmiş; hüküm, dava
 SONUÇ: Yukarıda açıklanan sebeplerle davalı vekilinin temyiz itirazlarının kabulüne, hükmün 6100 sayılı HMK'nun Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK'nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 14. HD 2017/9333 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402908000)
 
 Davacı Hazine vekili, 8004 parsel sayılı taşınmazın kendisine ait olduğunu ancak davalı tarafından kullanıldığını belirterek elatmanın kal suretiyle önlenmesini talep etmiştir.
 
@@ -126,6 +140,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 20. HD 2017/8186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370772200)
+
 Davacı ... Yönetimi, ... köyü, 649 parsel sayılı taşınmazın, yörede 1947 yılında yapılıp kesinleşen orman kadastro sınırları içinde kaldığını, davalılar adlarına olan tapu kaydının iptali ve orman niteliği ile Hazine adına tescilini, davalıların elatmanın önlenmesini ve taşınmaz üzerindeki yapıların kal'ini istemiş, mahkemece, dava devam ederken 2/B çalışmalarının başlaması nedeniyle, görevsizliğe ve istem halinde dosyanın görevli olan kadastro mahkemesine gönderilmesine karar verilmiş, davacı ... Yönetimi tarafından temyiz edilmesi üzerine hüküm, Dairemizin 2000/9008 E. - 10001 K. sayılı kararı ile bozulmuştur. Hükmüne uyulan bozma kararında özetle; ''...Mahkemece 2/B madde uygulamasına itiraz davası bu dava dosyasından ayrılarak yazılı olduğu biçimde görevsizlik kararı verilerek kadastro mahkemesine devir edilmesi, tapu iptali ve tescil, müdehalenin men'i ve kal davaları yönünden kadastro mahkemesindeki 2/B madde uygulamasına itiraz davasının sonucunun beklenmesi ve o dava hakkında verilecek kesin karar getirtilerek, buna göre eldeki davanın karara bağlanması gerekirken, davanın tümü yönünden görevsizliğe hükmedilmesi usûl ve kanuna aykırıdır'' gereğine değinilmiştir.
 
 Mahkemece, bozma kararına uyulduktan sonra 2/B'ye itiraz yönünden dava ayrılarak görevsizlikle dosya kadastro mahkemesine gönderilmiş, (Kadastro Mahkemesi sıfatıyla) ... 1. Asliye Hukuk Mahkemesinin 21/01/2009 tarih ve 2007/121 E. - 2009/10 K. sayılı derecattan geçerek kesinleşen, 649 sayılı parselin (H) harfi ile gösterilen 1363 m² yüzölçümündeki kesiminde yapılan 2/B uygulamasının iptaline ilişkin kararı dosya içine getirtildikten sonra, davanın kabulüne, ... köyü, ... mevkiinde bulunan 649 parsel sayılı taşınmazın fen bilirkişisi ... ...
@@ -136,6 +152,8 @@ Mahkemece, bozma kararına uyulduktan sonra 2/B'ye itiraz yönünden dava ayrıl
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak hüküm kurulmuş olduğuna göre, yerinde görülmeyen temyiz itirazlarının reddiyle, usûl ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2017/3611 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/349853100)
 
 Davacı; mirasbırakanlarından intikal eden 618, 330, 589, 590 parsel sayılı taşınmazların diğer paydaşlarla yaptıkları rızai taksim sonucu kendisine bırakıldığını, yaklaşık 40-45 yıldır zilyetliğinde bulunan taşınmazları yeğeni ve yeğeninin oğlu olan davalıların 2002 yılından beri kullandıkları halde bir ödeme yapmadıklarını, taşınmazları terk etmeleri ve kullanım bedeli ödemeleri isteğininde sonuçsuz kaldığını ileri sürerek davalıların el atmasının önlenmesine, narenciye ağaçlarının sökülerek eski hale getirilmesine ve 2002 yılından itibaren gelirinden mahrum kalması nedeniyle fazlaya ilişkin haklar saklı kalmak üzere 6.500-Tl ecrimisilin davalılardan müteselsilen tahsiline karar verilmesini istemiştir.
 
@@ -150,6 +168,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 18. HD 2016/10691 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/249277200)
+
 Kamulaştırmasız el koyma davalarında; el koymanın önlenmesi talebi yanında eski hale iade veya kâl istemi bulunması durumunda, el koyulan taşınmazların niteliği belirlenerek zemin değeri hesaplandıktan sonra bu değer eski hale getirme bedelinden veya kâl istenmesi halinde oluşacak zarardan az ise zemin bedelinin davacıya ödenmesine ve el koyulan bölümün tapusunun iptali ile niteliğine göre idare adına tescil veya terkinine karar verilmesi, zemin değerinin fazla çıkması halinde ise davalı idarenin taşınmaza el koymasının önlenmesine ve hesaplanan eski hale getirme bedelinin de davalı idareden tahsiline veya taşınmaz üzerindeki tesislerin kâl’ine karar verilmesi gerekir.
 
 Dosyadaki bilirkişi raporuna göre, taşınmazın zemin ve eski hale getirme bedelinin belirlenmemiş olduğu görülmektedir. Öncelikle, taşınmazın arsa ya da tarla niteliğinde olup olmadığı tespit edilerek, tarla olduğunun anlaşılması halinde gelir metodu esas alınarak, arsa olduğunun belirlenmesi halinde ise dava tarihinden önceki özel amacı olmayan emsal satışlara göre emsal karşılaştırması yapılmak suretiyle bedelinin hesaplanması gerekir. Mahkemece, dava konusu taşınmazın değeri ve eski hale getirme bedelinin yukarıda açıklanan esaslar dairesinde yapılacak araştırma ve inceleme sonucunda alınacak bilirkişi raporu ile belirlenmesi ve tüm deliller birlikte değerlendirilerek hasıl olacak sonuca göre bir karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde davanın kabulü, …
@@ -160,6 +180,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2016/10467 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/248621900)
+
 Davaya konu edilen davacıların hissedar olduğu 1859 ada 3 ve 1859 ada 4 parsel sayılı taşınmazlara kanalizasyon borusu döşenmek suretiyle kamulaştırmasız el konulduğu anlaşılmıştır. Yerleşik uygulama ve içtihatlara göre bir taşınmaza kamulaştırmasız el konulması halinde, müdahalenin önlenmesi talebi yanında kâl veya eski hale getirme talebi de varsa, taşınmazın niteliğine göre Kamulaştırma Kanununun değer biçmeye ilişkin hükümleri dikkate alınarak el konulan yerin zemin bedeli ile kâl ve eski hale getirme bedelleri ayrı ayrı tespit ettirilerek el konulan bölüm bedeli, kâl ile oluşacak zarardan veya eski hale getirme masraflarından fazla ise müdahalenin önlenmesi ve kâl kararı ile birlikte taşınmazın eski hale getirilmesine; şayet kâl ve eski hale getirme masrafları zemin bedelinden fazla ise el konulan taşınmazın zemin bedelinin davalı idareden tahsili ile el konulan bölümün davacı üzerindeki tapusunun iptali ile davalı idare adına tapuya kayıt ve tesciline karar verilmesi gerekir.
 
 Mahkemece yukarıda belirtilen ilkeler doğrultusunda araştırma ve inceleme yapılarak sonucuna göre hüküm kurulması gerekirken, kâl ve eski hale getirme masraflarını açık olarak tespit etmeyen, genel ifadelerle boru hattının yer …
@@ -169,6 +191,8 @@ Mahkemece yukarıda belirtilen ilkeler doğrultusunda araştırma ve inceleme ya
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2016/3873 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/227387200)
 
 Davacı vekili dava dilekçesinde 15.10.2011 günü yapılan taplantı için kendisine toplantı daveti yapılmadığını, toplantıda onarımına karar verilen oyun parkı, halı saha ve bekçi evinin yıkımı ile ilgili mahkeme kararı bulunduğunu, bu nedenle usül ve yasaya aykırı bu kararın tümüyle iptalini, olmadığı takdirde kararın 4 ve 10.maddelerinin iptalini istemiş, mahkemece davanın reddine karar verilmiştir.
 
@@ -183,11 +207,15 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 20. HD 2016/2349 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/164395700)
+
 İzmir Kadastro Mahkemesi tarafından ise, men'i müdahale davasını bu davadan tefrik ederek, yapılan yapıların ve ekilen ürünlerin kal’i istemi ile ilgili olarak, 3402 sayılı Kadastro Kanununun 25. maddesi uyarınca bu tür davalara genel mahkemelerde bakılması gerektiği gerekçesiyle görevsizlik yönünde hüküm kurulmuştur.
 
 Kal' davası yenilik doğurucu davalardan olmakla, 3402 sayılı Kadastro Kanununun 25/son maddesi uyarınca mahkemeden yenilik hüküm almayı gerektiren dava ile ilgili isteklerin incelenmesi kadastro mahkemesinin görevi dışında olup davaya bakma görevi genel mahkemelere aittir. Bu durumda uyuşmazlığın genel hükümlere göre Menderes 1. Asliye Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 15. HD 2016/1643 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/194988700)
 
 Dava, eser sözleşmesinden kaynaklanan menfi ve müspet zararın tazminine ilişkin olup, davalı davanın reddini savunmuş, mahkemece davanın kısmen kabulüne dair verilen karar, taraf vekillerince temyiz edilmiştir.
 
@@ -207,6 +235,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının tüm temyiz itira
 
 ## Yargıtay 20. HD 2015/12933 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/159776000)
+
 Davacı ...dava konusu ...köyü, 248 parsel sayılı taşınmazdan ifrazen oluşturulan 154 ada 1 sayılı parselin kısmen kesinleşmiş orman sınırları içinde kaldığı iddiasıyla tapu iptali, kal' ve müdahalenin men'i isteğinde bulunmuş, mahkemece davanın kabulüne ve dava konusu ...Köyü 154 ada 1 sayılı parselin fen bilirkişinin 14.12.2009 tarihli raporuna ekli krokide (A) harfi ile gösterilen 1248,87 m² ve (C) harfi ile gösterilen ve zeminde yol olarak kullanılan 512,56 m² yüzölçümündeki bölümlerin tapu kaydının iptali ile bu bölümlerin orman olarak ... adına tesciline ve davalıların bu bölümlere müdahalelerinin men'ine, krokide (A) harfi ile gösterilen yer üzerinde bulunan davalılardan A.. G..'e ait 99 m² yüzölçümündeki bir numaralı binanın tamamen, davalı H.. B..'a ait iki numaralı binanın 90.32 m² yüzölçümündeki bölümünün, davalı S..
 
 …
@@ -221,6 +251,8 @@ Bu itibarla, yukarıda açıklandığı gibi mahkemece müdahalenin önlenmesi v
 
 ## Yargıtay 20. HD 2015/12260 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/399644900)
+
 Dava, elatmanın önlenmesi ve kal istemine ilişkindir.
 
 …
@@ -228,6 +260,8 @@ Dava, elatmanın önlenmesi ve kal istemine ilişkindir.
 Her ne kadar, davacı taraf zilyetliğe dayalı olarak müdahalenin men'i ve kal' davası açmışsa da; taraflar arasındaki ihtilafın mülkiyet esaslı bir ihtilaf olduğu, sırf zilyetliğin korunması amaçlı olarak bu davanın açılmadığı, davanın mülkiyetin tespiti ve korunması istemini de içerdiği anlaşılmaktadır. Buna göre, nitelenen dava bakımından 6100 sayılı HMK'nın 2. maddesine göre mal varlığına dayalı bu davaya bakma görevi asliye hukuk mahkemesine aittir.
 
 ## Yargıtay 14. HD 2015/11973 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/183480200)
 
 Mahkemece, temliken tescil talebinin kabulüne, elatmanın önlenmesi ve kal isteğinin reddine karar verilmiştir.
 
@@ -239,6 +273,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle elatmanın önlenmesi ve kal isteyen da
 
 ## Yargıtay 14. HD 2015/11274 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/182794100)
+
 Mahkemece asıl davanın kabulü ile davalı ...'ın dava konusu 619, 607 ve 608 parsel sayılı taşınmazlara müdahalesinin men'ine ve kal talebinin reddine, birleştirilen davanın ve temliken tescil talebinin reddine karar verilmiştir.
 
 …
@@ -248,6 +284,8 @@ Bu itibarla mahkemece elatmanın önlenmesi ile birlikte kal kararı da verilmes
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle birleştirilen davada temliken tescil isteyen davacı ...'ın tüm, elatmanın önlenmesi ve kal isteyen asıl davanın davacısı..'in sair temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle davacı .. mirasçıları vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2015/7267 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/130572800)
 
 Mahkemece; çekişmeli taşınmazın fen bilirkişi ... tarafından düzenlenen 26.03.2013 tarihli krokili raporda (A1), (A2), (B1), (B2), (B3) ve (B4) ile işaretlenen sırasıyla 3.596,73 m2, 6.028,28 m2, 735,93 m2, 1.156,28 m2 ve 163,69 m2 yüzölçümlü kesimlerinin tapu kaydının iptal edilerek orman niteliği ile ... adına tapuya tesciline karar verilmiş; hüküm, davacı ... tarafından temyiz edilmiştir.
 
@@ -260,6 +298,8 @@ Somut olayda; çekişmeli taşınmazın üzerinde davalılara ait yıkımı gere
 SONUÇ: Yukarıda açıklanan nedenlerle davacı ...nin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2015/6866 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139561200)
 
 Asıl ve birleştirilen davaların kabulüne dair verilen karar, davalıların temyizi üzerine Dairece "... zilyetliğin devri sözleşmesine konu edilen çekişmeli taşınmazdaki yapıdır. Yukarıda anılan yasal düzenleme gözetilerek taşınmaz üzerindeki muhdesatın zeminden ayrı olarak satılmasının mümkün olmadığı, muhdesatın arza bağlı olarak ancak resmi akitle devredilebileceği, arzdan bağımsız olarak zilyetlik devir sözleşmesinin davacı bakımından bağlayıcılığının olmayacağı, tapulu taşınmazların satışının da ancak resmi şekilde yapılabileceği, bu tür sözleşmelerin adi yazılı şekilde her zaman düzenlenmesinin mümkün olduğu saptanmak ve bu olgular benimsenmek suretiyle zilyetlik devir sözleşmesinin iptaline ilişkin birleştirilen davanın kabulüne karar verilmiş olmasında bir isabetsizlik bulunmamaktadır. Davalıların bu yöne değinen temyiz itirazları yerinde değildir.
 Reddi ile usul ve yasaya uygun olan hükmün bu kısmının onanmasına; davalıların elatmanın önlenmesi isteğine ilişkin temyiz itirazlarına gelince; ... dosya kapsamı ile çekişmeli arzın ve arza bağlı yapının davacı şirket tarafından kullanılmasına davalıların engel olduğu, bir başka ifadeyle intifadan men olgusunun gerçekleştiği saptandığına göre mülkiyet hakkı gözetilmek suretiyle, davacının payı oranında elatmanın önlenmesine karar verilmesi gerekirken yanılgılı değerlendirme ile mutlak elatmanın önlenmesine karar verilmiş olması doğru değildir. Davalıların bu yöne hasren temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428. maddesi gereğince bozulmasına, alınan peşin harcın temyiz edene geri verilmesine, 28.12.2013 tarihinde yürürlüğe giren Avukatlık Ücret Tarifesinin 14. maddesi gereğince gelen temyiz eden davalılar vekilleri için ayrı ayrı 1.100.00.-'er TL. duruşma avukatlık parasının temyiz edilenden alınmasına" gerekçesiyle bozulmuş, taraf vekilleri, karar düzeltme talep etmişlerdir.

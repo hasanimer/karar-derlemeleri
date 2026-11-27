@@ -20,16 +20,24 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2014/29410 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/335105700)
+
 Bozma öncesi hükmedilen ilk bedelden acele el koyma dosyasında bloke edilen bedelin mahsubu ile fark bedele ....07.2013 tarihinden ilk karar tarihine kadar yasal faiz işletilmesine karar verilmesi gerekirken mahsup yapılmadan acele el koyma dosyasında bloke edilen kısma da faiz işletilmesi, doğru değilse de bu yanılgının giderilmesi yeniden yargılama yapılmasını gerektirmediğinden,…
 
 ## Yargıtay 5. HD 2014/22453 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/303876100)
 
 Acele el koyma dosyasında tespit edilen miktarın belirlenen kamulaştırma bedelinden mahsubundan sonra kalan fark kamulaştırma bedeline 9.06.2010 tarihinden, ilk karar tarihine kadar geçen süre için yasal faiz yürütülmesi gerektiğinden;…
 
 ## Yargıtay 18. HD 2014/14883 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/315786200)
+
 Kamulaştırma Kanununun 27. maddesi uyarınca açılan acele el koyma dosyasında yatırılan bedel ile tespit tescil dosyasında belirlenen kamulaştırma bedelinden mahsup edilerek kalan miktarın davalıya ödenmesine karar vermek gerektiğinin düşünülmemesi,…
 
 ## Yargıtay 18. HD 2014/13679 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107075400)
 
 Kamulaştırma Kanunu'nun 27. maddesi gereğince acele el koyma dosyasında tespit edilip idarece davalılar adına bankaya yatırılan bedel ile hükme esas alınan bilirkişi kurulu raporu ile saptanıp hüküm altına alınan bedel arasındaki farkın (idarece fazladan yatırılmış olan paranın) davalılar tarafından bankadan çekilmesine kadar varsa işlemiş olan mevduat faizi ile birlikte davacı idareye ödenmesine karar verilmesi gerekirken bu konuda karar verilmemesi,…

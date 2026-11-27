@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2023/620 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897439400)
+
 Öte yandan mirasbırakan **sağlığında hak dengesini gözeten kabul edilebilir ölçüde ve tüm mirasçıları kapsar biçimde bir paylaştırma yapmışsa mal kaçırmak kastından söz edilmeyeceğinden** olayda 01.04.1974 tarihli 1/2 sayılı Yargıtay İnançları Birleştirme Kararının uygulanamayacağı da kuşkusuzdur.
 
 ## Yargıtay HGK 2024/164 K. (direnme; paylaştırma olmadığı)

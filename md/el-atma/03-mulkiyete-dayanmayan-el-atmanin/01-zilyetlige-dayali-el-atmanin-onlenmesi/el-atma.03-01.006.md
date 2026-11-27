@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 16. HD 2010/4331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787410500)
+
 Mahkemece meni müdahale davasının Türk Medeni Kanunu'nun 984. maddesinde belirtilen sürede açılmadığı kabul edilmek suretiyle reddine karar verilmiş ise de; değerlendirme usul ve yasaya uygun bulunmamaktadır. Türk Medeni Kanunu'nun 984. maddesinde zilyetliğe dayalı olarak açılan davalara ilişkin süreler düzenlenmiştir. Davacılar ... ve ... davalı ... aleyhine Sulh Hukuk Mahkemesinde açtıkları ve görevsizlikle kadastro mahkemesine aktarılan davalarında, babalarından kendilerine intikal eden çekişmeli taşınmaza davalının müdahalesinin önlenmesini talep etmişlerdir. Hal böyle olunca davacılar zilyetliğe değil mülkiyet hakkına yani ayni hakka dayanarak dava açtıklarından müdahalenin önlenmesi talebi konusunda işin esasına girilerek hüküm kurulması gerekirken davanın süre yönünden reddine karar verilmesi isabetsizdir.
 
 …
@@ -29,9 +31,13 @@ belirlenmemiştir. Doğru sonuca ulaşılabilmesi için, mahallinde yeniden keş
 
 ## Yargıtay 8. HD 2010/2885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539675700)
+
 Davanın niteliği, Asliye Hukuk Mahkemesinden görevsizlikle gelen dosyada, Sulh Hukuk Mahkemesi tarafından da zilyetliğin korunmasına ilişkin değil kira sözleşmesinden kaynaklanan hakka dayalı dava olduğu nitelendirilerek görevsizlik kararı verildiği ve bu kararın temyizi üzerine Yargıtay 3. Hukuk Dairesinin 29.12.2008 tarih 2008/17830-22433 Esas ve Karar sayılı kararı ile onandığı anlaşılmakla davanın zilyetliğin korunmasına ilişkin olmadığı belirlendiğine, 8.11.2000 ve 3.5.2001 tarihli kira sözleşmelerine dayalı olarak açılan hakka dayalı elatmanın önlenmesi niteliğinde bulunduğuna göre; 2797 sayılı Yargıtay Kanununun 14. maddesi gereğince hükme yöneltilen temyiz itirazlarının incelenmesi Yargıtay 3. Hukuk Dairesine aittir. Ne var ki, Yargıtay (3.) Hukuk Dairesince görevsizlik kararı verilerek dosya Dairemize gönderilmiş olmakla, 4.2.2010 tarih 3 sayılı Yargıtay Başkanlar Kurulu kararının 1/d bendi gereğince, görevli Daire belirlenmek üzere dosyanın Yargıtay Birinci Başkanlığına GÖNDERİLMESİNE, 31.5.2010 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2010/1994 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/527318600)
 
 Davacı ...vekili, dava dilekçesinde mevkii ve sınırlarını açıkladığı bir parça tapusuz taşınmazın 1959 yılından beri vekil edeninin zilyet ve tasarrufunda bulunduğunu belirterek dava konusu yapılan yerin vekil edeni adına tapuya kayıt ve tesciline, davalı gerçek kişiler ... ve ...tarafından taşınmaza yapılan elatmanın önlenmesine, davalı ... ve ...’ın yaptığı hafriyat işlemi nedeniyle ürünlere verdiği zararın bedeli olan 10.000 TL maddi tazminat ile 3000 TL manevi tazminatın ... ve ...’ten müştereken ve müteselsilen tahsiline karar verilmesini istemiştir.
 
@@ -50,6 +56,8 @@ Yukarıda açıklanan nedenlerle davacı ...vekilinin temyiz itirazlarının kı
 
 ## Yargıtay 1. HD 2010/1073 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78613200)
+
 Diğer taraftan, zilyetliğin korunması istekli davalar bir nevi şeklen de olsa elatmanın önlenmesi davalarına benzemekte ise de, elatmanın önlenmesi davalarının hukuki dayanağı mülkiyet hakkının kapsamını belirleyen 4721 Sayılı Türk Medeni Kanununun 683/2.maddesi hükmü olup, zilyetliğin korunması isteğinden (981.madde ve devamı- 985.maddesi ve devamı) tamamen farklıdır. Ne varki, her ikisi neticede doğurdukları ve doğuracakları hakkın korunması ve teslimi yönünden benzerlikler arzetmektedir.
 
 Vurgulamak gerekir ki, tapuda kayıtlı olmayan taşınmazlar menkul mal hükmünde olup, taşınmaza vaziyet edenin zilyetliğine vaki tecavüz durumunda veya elinden alınması şeklinde fiil ve eylemlere karşı açılacak davalar özel yasalarda belirlenen haller dışında (örneğin; 3091 Sayılı Yasa hükümleri… gibi) elatmanın önlenmesi veya zilyetliğin korunması şeklinde uygulamada kendisini göstermektedir.
@@ -59,6 +67,8 @@ Vurgulamak gerekir ki, tapuda kayıtlı olmayan taşınmazlar menkul mal hükmü
 Anılan husus, karar düzeltme isteği üzerine bu defa yapılan inceleme sonucu anlaşıldığından karar düzeltme isteğinin kabulü ile yerel mahkeme kararının bozulmasına dair Dairenin 25.6.2009 tarih 4667 Esas ve 7457 sayılı bozma kararının gerekçesinin ortadan kaldırılmasına yerel mahkemenin 21.2.2008 tarih 2001/41 Esas – 2008/39 sayılı kararının yukarıda değinilen gerekçelerle HUMK.’nun 428.maddesi hükmü gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2010/740 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520658400)
 
 Davacı ... vekili, tapuda Hazine adına kayıtlı 41 ada 8 parsel üzerine vekil edeninin iki katlı bina yaptırdığını, önceleri oğlu ile gelini olan davalıların oturmalarına izin verdiğini ancak sonra bu iznini kaldırmasına rağmen davalıların oturmaya devam ettiklerini ileri sürerek haksız elatmalarının önlenmesine karar verilmesini istemiştir.
 
@@ -71,6 +81,8 @@ TMK.nun 981 ve devamı maddelerinde, zilyetliğin dava yoluyla korunması düzen
 Yukarıda açıklanan gerekçeler nedeniyle davacı vekilinin yerinde görülen temyiz itirazlarının kabulüyle usul ve yasaya aykırı bulunan yerel mahkeme hükmünün HUMK.nun 428. maddesi uyarınca BOZULMASINA ve 15 …
 
 ## Yargıtay 14. HD 2009/13190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846492700)
 
 Davacı, 11.08.1994 başlangıç tarihli ve 3 yıl süreli kira sözleşmesi ile davalılardan Hazine’nin kiracısı olduğunu, davalıların kira sözleşmesi ile kendisine tanınan hakları ihlal ettiğini, zilyetliğinin korunmasını istemiştir.
 
@@ -87,6 +99,8 @@ Davada 11.08.1994 başlangıç tarihli ve 3 yıllık kira sözleşmesine dayanı
 Yapılan yargılamaya, toplanan deliller ve tüm dosya içeriğine göre davacının bütün temyiz itirazlarının reddi ile usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2009/7457 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78309300)
 
 Davacı, miras bırakanın mal kaçırmak amacıyla 6 parça tapulu taşınmazı ölünceye kadar bakma akdiyle davalı torunlarına temlik ettiğini, bakım ihtiyacının bulunmadığını, 8 parça taşınmazı ise taksim doğrultusunda 30 yıldan beri nizasız ve fasılasız kullanmakta iken davalıların Nisan 2000’den itibaren anılan taşınmazları filin kullanımına da engel olduklarını ileri sürüp muvazaa nedeniyle tapu kayıtlarının iptali ile miras payı oranında adına tesciline, olmadığı taktirde tenkisine ve 8 parça taşınmaz yönünden zilyetliğe vaki elatmanın önlenmesi ile zilyetliğin iadesine karar verilmesini istemiştir.
 
@@ -108,11 +122,15 @@ Davacının bu yönlere ilişkin temyiz itirazları yerindedir. Kabulü ile hük
 
 ## Yargıtay 20. HD 2007/5393 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897269600)
+
 Dosya kapsamından, elatmanın önlenmesi talebinin dosyadan tefrik edilerek H.Y.U.Y.'nın 8/3. maddesi uyarınca zilyetliğin korunması davası kabul edilip görevsizlik kararı verilmiştir. Ne var ki; davacının bu yeri taraf olmayan belediyeden kiralaması nedeni ile bir hakka dayalı olarak bu davaya açtığı, dava konusu yerin lokanta- dükkan olduğu anlaşılmaktadır.
 
 H.Y.U.Y.'nın 8. maddesi gözönünde bulundurulduğunda, taraflar arasında kira sözleşmesi bulunmadığı gibi, davanın salt zilyetliğin korunmasına ilişkin olmadığı anlaşılmakla, dava tarihi ve değeri esas alındığında, uyuşmazlığın Asliye Hukuk Mahkemesinde görülüp sonuçlanması gerekir.
 
 ## Yargıtay 20. HD 2007/4628 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896704100)
 
 Dava, tapusuz taşınmaza elatmanın önlenmesi istemine ilişkindir.
 
@@ -122,6 +140,8 @@ Davanın satınalma ve bir hakka dayalı olarak açılmış olması nedeniyle H.
 
 ## Yargıtay 20. HD 2007/2744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897721000)
+
 Dava, taşınmaz üzerindeki evin davacıya ait olduğunun tespiti ve elatmanın önlenmesi istemine ilişkindir.
 
 …
@@ -129,6 +149,8 @@ Dava, taşınmaz üzerindeki evin davacıya ait olduğunun tespiti ve elatmanın
 Asliye hukuk mahkemesince her ne kadar davanın yalnızca zilyetliğin korunmasına yönelik olduğu kabul edilerek görevsizlik kararı verilmişse de, davanın yalnızca zilyetliğin korunmasına yönelik olmadığı anlaşılmakla, H.Y.U.Y.'nın 8/1. maddendeki değerinin esas alınması gerekir.
 
 ## Yargıtay 20. HD 2006/9307 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/906173000)
 
 Davacı, dilekçesinde mülkiyeti Hazineye ait olan 1195 parsel sayılı taşınmaza yaptığı binaya davalının elatmasının önlenmesi ve kullanım bedelini talep etmektedir.
 
@@ -142,6 +164,8 @@ Dava tarihi ve dava değeri esas alındığında, yalnızca zilyetliğin korunma
 
 ## Yargıtay 20. HD 2006/4474 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/902618900)
+
 Davacı, 16.02.1998 tarihli dilekçesi ile ortak mirasbırakandan kalan taşınmaza davalının elatmasının önlenmesi talebinde bulunmuştur.
 
 Dava, miras yoluyla kaldığı iddia edilen taşınmaza elatmanın önlenmesi istemine ilişkindir.
@@ -150,6 +174,8 @@ Her ne kadar, Asliye Hukuk Mahkemesince H.Y.U.Y.'nın 8/II-3. maddesi uyarınca 
 
 ## Yargıtay 20. HD 2006/3942 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/902995700)
+
 Dava, zilyetliğe dayalı elatmanın önlenmesine ilişkindir.
 
 …
@@ -157,6 +183,8 @@ Dava, zilyetliğe dayalı elatmanın önlenmesine ilişkindir.
 O halde, davacının kadastro tespitinden sonra ... hakka dayanarak dava açtığı, davanın zilyetliğe dayalı elatmanın önlenmesi niteliğinde olduğu, dava tarihi itibariyle değerinin 350.000.000.- TL. olduğu anlaşıldığından, H.Y.U.Y.'nın 8/I ve 8/II-3. maddeleri gereğince davanın Sulh Hukuk Mahkemesinde görülmesi gerekir.
 
 ## Yargıtay 13. HD 2004/6220 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16366100)
 
 Davacılar murislerinin 14.3.1963 yılında davalıların murisinden 1 adet arsa satın aldığını, aldığı arsayı kat karşılığı vermek suretiyle 1 adet daireye sahip olduğunu davalının murisinin hukuki ehliyeti olmadığından bahisle açtığı tapu iptal ve tescil davasını kazandığını, dairenin tapusunun iptal edilerek davalı adına tescil edildiğini belirterek murislerince arsanın alımı tarihinde ödedikleri toplam 16.050 TL satış bedelinin 6.248.000.000 TL olarak tahsiline karar verilmesini talep etmiştir.
 

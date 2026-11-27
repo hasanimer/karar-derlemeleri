@@ -44,6 +44,8 @@ Taraf vekillerinin temyiz itirazlarının kabulü ile mahkeme kararının BOZULM
 
 ## Yargıtay 8. HD 2025/3641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169547200)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabul kısmen reddine karar verilmiştir.
 
 …
@@ -66,6 +68,8 @@ Temyiz olunan İlk Derece Mahkemesi kararının ONANMASINA …
 
 ## Yargıtay 8. HD 2022/5680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/812781800)
+
 Mahkemece, bozma ilamına uyularak yapılan yargılama sonucunda 13.6.2019 tarihli kararla, taşınmazların tamamı 33.868.800 hisse kabul edilerek, çekişme konusu taşınmazların hükümde isimleri bildirilen ... ... oğlu ... ve ... ... oğlu ... mirasçıları adına hükümde gösterilen paylarla tesciline karar verildikten sonra, mahkemenin 18.7.2019 tarihli tavzih ek kararıyla bu kez, taşınmazların tamamı tamamı 2.838.528.000 hisse kabul edilerek yine hükümde isimleri bildirilen ... ve ... mirasçıları adına hükümde gösterilen paylarla tesciline karar verilmiş; hüküm müdahil davacılar ... ... ve 19 arkadaşı vekili, ... ... mirasçıları ... ve arkadaşları vekili ile davalı Hazine vekili tarafından temyiz edilmiştir.
 
 …
@@ -81,6 +85,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, müdahil davacılar ... ... ve 19 arka
 
 ## Yargıtay 16. HD 2021/4144 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686901100)
+
 Mahkemece bozma ilamına uyulduğu halde, bozma ilamının gerekleri tam olarak yerine getirilmemiştir. Bozma ilamına uyulmakla taraflar yararına usuli kazanılmış hak oluşacağından, bu hakkın zedelenmemesi için bozma ilamının gereklerinin tam ve eksiksiz olarak yerine getirilmesi gerekir.
 
 …
@@ -94,6 +100,8 @@ Sulh Hukuk Mahkemesi’nin 07.06.1940 tarih 55/124 Esas, Karar sayılı müdahal
 ettikleri, bu yoldaki kabulün ilgilileri bağladığı da dikkate alınmalı ve bundan sonra tüm deliller birlikte değerlendirilerek sonucuna göre karar verilmelidir. Mahkemece bu hususlar gözetilmeksizin, eksik araştırma ve incelemeyle yazılı olduğu şekilde hüküm kurulması isabetsiz olup, temyiz itirazları açıklanan nedenlerle yerinde görüldüğünden kabulüyle hükmün BOZULMASINA, peşin yatırılan temyiz karar harcının talep halinde temyiz eden davacı ... ve ... mirasçısı ...'a iadesine, yasal koşullar gerçekleştiğinde kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere, 28.04.2021 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 20. HD 2019/6709 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646048700)
 
 Davacı ... mirasçıları ... ve arkadaşları, 20.08.2001 tarihli dilekçeleriyle, ..., Mağaralı mahallesinde bulunan, sınırlarını bildirdikleri 140 ve 150 dönüm yüzölçümündeki iki parça taşınmazın, 40 yıldan bu yana malik sıfatıyla zilyetliklerinde olduğu, yararlarına zilyetlikle edinme koşullarının oluştuğu, adlarına tapuya tescili iddiasıyla dava açmışlardır. Davacılardan ... 04.03.2002 tarihinde ölmekle mirasçıları ..., ..., ... ve ... davacı sıfatıyla davaya katılmışlardır.
 
@@ -114,6 +122,8 @@ Dayanılan tapu kaydı bahsedilen şekilde uygulanarak tapu kaydı kapsamında k
 
 ## Yargıtay 20. HD 2019/5711 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539227400)
+
 Mahkemece yapılan yargılama sonucunda; çekişmeli 596 (3402 sayılı Kanunun 22/2-a maddesi uyarınca 104 ada 21 numarasını alan) sayılı parselin fen bilirkişi İsmail Kurtoğlu tarafından düzenlenen 13.04.2012 tarihli krokili raporda (A) ve (B2) ile işaretlenen sırasıyla 65,11 m² ve 148,53 m² yüzölçümlü kesimlerinin tapu kaydının iptal edilerek orman niteliğiyle Hazine adına tapuya tesciline karar verilmiş, hüküm davacı ... Yönetimi tarafından (B1) ile işaretlenen bölüm yönünden temyiz edilmesi üzerine, Yargıtay 20. Hukuk Dairesinin 02/06/2015 gün ve 2015/5674 E. - 5127 K. sayılı kararı ile "...tapu müdürlüğünden gönderilen belgelerden 596 parsel sayılı taşınmazın 2013 yılında 3402 sayılı Kanunun 22/2-a maddesi uyarınca yapılan uygulama kadastrosu sırasında 104 ada 21 parsel sayısını aldığı, 26.02.2014 tarihinde 104 ada 21 parsel sayısıyla 7.035,07 m² yüzölçümlü olarak koruluk ve tarla cinsi ile ... adına tescil edildiği anlaşılmaktadır. Bu durumda, infazda tereddüt oluşturacak şekilde sayfası kapatılan 596 sayılı parsel hakkında hüküm kurulması doğru değildir.
 5304 sayılı Kanunun 6. maddesi ile değişik 3402 sayılı Kanunun 22/1. maddesi uyarınca, evvelce kadastrosu ve tapulaması yapılmış yerlerde yeniden kadastro çalışması yapılamaz. Ancak, yetersiz kadastro paftalarının yenilenmesi, yüzölçümlerinin ve teknik hataların düzeltilmesi amacıyla aynı maddenin ikinci fıkrasının (a) bendi uyarınca, yeniden çalışma yapılabilir ve bu çalışma ikinci kadastro sayılmaz. "İkinci kez kadastro yapılamaz" hükmünün istisnası olarak düzenlenen 3402 sayılı Kanunun 22/2-a maddesi uyarınca; yapılan tesbitte, teknik sebeplerle yetersiz kalan, uygulama niteliğini kaybeden, eksikliği görülen veya zemindeki sınırları gerçeğe uygun şekilde göstermediği tesbit edilen paftalar yerine, ülke koordinat sistemine uygun sayısal haritaları düzenlenerek tapu kayıtlarının düzeltilmesi sağlanır. Ancak, mülkiyet ve mülkiyetle ilgili haklar ile parselasyon, arazi toplulaştırması, ıslah, imar, sulama alanlarında arsa ve arazi düzenlemesi ve köy yerleşim haritaları yenileme çalışması bu kapsam dışındadır.
 3402 sayılı Kanunun 22/2-a maddesi uyarınca yapılan yenileme kadastro çalışmaları, 5304 sayılı Kanun ile 3402 sayılı Kanuna eklenen Ek- 1/1. maddesi uyarınca, aynı Kanunun 11. maddesine göre ilân edilir ve ilân süresi içerisinde dava açılmayan taşınmaz malların kayıtlarında gerekli düzeltme yapılır.
@@ -125,6 +135,8 @@ sayılı parselin 21/04/2016 havale tarihli fen bilirkişi raporuna ekli krokide
 Dosya kapsamına ve mahkemece uyulan bozma kararı gereğince işlem yapılarak hüküm kurulmuş olduğuna göre, yerinde görülmeyen temyiz itirazlarının reddi ile, usul ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 16. HD 2019/3283 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508264200)
 
 Yargıtay bozma ilamında özetle; “Davacıların tapu ve vergi kayıtları ile zilyetliğe, müdahillerin ise davacıların dedelerinden yer satın aldıkları iddialarına dayandıkları, davacı tarafın dayandığı tapu kayıtlarından birinin 1288 tarih varak 117 numaralı 12 dönüm miktarlı tapu kaydı olup bu tapu kaydının sınırlarının 1339 tahrir numaralı ve 2 hektar miktarlı vergi kaydı ile aynı olduğu, sözü edilen vergi kaydının, miktarınca dava dışı 112 parsel sayılı taşınmaza revizyon görmüş olup vergi kaydı kuzeyde çekişmeli taşınmazlar yönünü “Tepe” olarak okumakla beraber dosya ekinde bulunan dava dosyaları içinde 1288 tarihli başka tapu kayıtları da mevcut olduğu halde davacılardan bu kayıtların tamamına dayanıp dayanmadıklarının sorulup saptanmadığı gibi; davacılardan ...'nın babası ...'in tarafı olduğu ... Asliye Hukuk Mahkemesi'nin 1953/90 Esas, 1953/214 Karar sayılı ilamında mahkemece 50.000 metrekare yüzölçümündeki taşınmaz bölümünün mera olmayıp ... tarlası olduğu kabul edilerek davacı ...
 Köyü Muhtarlığı'nın men'i müdahale talebinin reddine; kalan kısımlar yönünden istemin kabulüne dair verilen kararın sadece ... tarafından temyiz edilerek dayandığı tapu kaydının yöntemince uygulanması gereğine değinilerek bozulmasından sonra takip edilmeyen dava işlemden kaldırılarak davanın açılmamış sayılmasına karar verilmiş ise de;

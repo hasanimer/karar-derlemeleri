@@ -25,26 +25,38 @@ Ancak, 26.5.1935 tarih ve 78/6 sayılı Yargıtay İçtihatları Birleştirme Ka
 
 ## Yargıtay HGK 2023/1235 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985750600)
+
 Bilindiği üzere; mutasarrıf iken malik olan kişilerin mirasçı bırakmadan ölmeleri üzerine taşınmazları 4721 sayılı Türk Medeni Kanunu'nun (TMK) 501. (eski Medeni Kanun'un 448.maddesi) maddesi uyarınca son mirasçı sıfatıyla Hazineye kalır. Ancak, yasa koyucu öncesi vakıf olan taşınmazların vakfına (aslına)dönmesini daha uygun görmüş,bazı ayrıcalıklar dışında, Hazineye intikal yolunu kapatmak istemiştir. İşte bu nedenle 22.9.1983 tarihli 2888 sayılı Yasanın 2. maddesiyle 2762 sayılı Yasanın 29. maddesini değiştirip ayrıca ikinci bir fıkra ekliyerek TMK'nûn 501.maddesinin Hazinenin mirascı olacağı yönündeki genel hükmünden ayrılmış " mülkiyeti mutasarrıfa geçmiş olan taşınmazlarda maliklerin bu yasanın yürürlük tarihine kadar ölmeleri üzerine son mirasçı sıfatıyla Hazineye intikal edipte bu husus tapu kaydına bağlanmış bulunanlar ayrık bırakılarak işlenmemiş olan taşınmazların mahlulen vakfına rücu edeceği" kuralını getirmiştir. Yukarıda belirtilen yasa hükümleri birlikte değerlendirildiğinde, 2888 sayılı Yasanın yürürlük tarihi 24.9.1983 tarihinden sonra aslı vakıf olan taşınmazların Hazineye geçmesine yasal olanağın kalmadığı sonucuna ulaşılmaktadır.
 
 ## Yargıtay HGK 2022/1562 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870150100)
 
 Şu hâlde, 10 yıl boyunca malik sıfatıyla zilyet olma, Arazi Kanunnamesi’nin 20. maddesine göre hak kazanmanın temel şartıdır. 20. maddenin aradığı maddi vakıaların ve kanunî şartların Medeni Kanun’un yürürlük tarihi olan 04.10.1926 tarihine dek tamamlanmış olması gereklidir. Buna göre, mirî arazi niteliğindeki tapulu taşınmaz zilyedi tarafından malik sıfatıyla 04.10.1926 tarihinde yürürlüğe giren Medeni Kanun’dan geriye doğru yani en az 1916 yılından 1926 yılına kadar kullanılıyorsa ve anılan maddedeki diğer koşulların da gerçekleşmesi hâlinde zilyet lehine tescil kararı verilebilecektir. Bunun yanı sıra edinim koşullarının oluşup oluşmadığının, her parsel yönünden ayrı ayrı irdelenmesi, parsel bazında tapu kaydının hukukî kıymetini koruyup korumadığının değerlendirilmesi gerekir. Tapu kaydının dava konusu edilen bir taşınmaz yönünden Arazi Kanunnamesi’nde belirtilen hükümler gözetilerek hukukî kıymetini yitirmiş olması, o tapu kaydının tamamen hukukî kıymetini yitirdiği anlamına gelmeyip, sadece dava konusu edilen ilgili taşınmaz yönünden hukukî kıymetini kaybettiğini göstermektedir.
 Başka bir taşınmaz yönünden aynı tapu kaydı, Arazi Kanunnamesi’ndeki koşullar oluşmamışsa hukukî kıymetini koruyacaktır.
 
 ## Yargıtay HGK 2021/1709 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737151900)
+
 Mazbut vakıflar ile mülhak vakıflar, yönetimleri ve temsilleri bakımından farklı hukukî konumda bulunmakta ve farklı kurallara tabi tutulmaktadır. Kanun koyucu, yönetim ve temsil görevi Vakıflar Genel Müdürlüğüne verilen mazbut vakıflara ait taşınmazların korunması, vakfın amaç ve faaliyetlerinin yerine getirilebilmesi için gelir getirici şekilde değerlendirilmesine yönelik olarak mazbut vakıf taşınmazları hakkında özel düzenlemeler öngörmüştür. Mazbut vakıfların taşınmaz varlıklarını koruyucu nitelikteki söz konusu düzenlemeler, mazbut vakıfların vakfedenlerin fer'îlerinin mütevelliliğinde değil de bir kamu idaresinin yönetimi altında bulunması nedeniyle bu vakıfların kanun koyucu tarafından özel olarak korunması, bu suretle mazbut vakıfların yaşatılması ve vakıf amaçlarına ulaşılması amacını gütmektedir. Kanun koyucu, gerçek kişilerce yönetilmeyen mazbut vakıflara bir anlamda sahip çıkmakta özel bir koruma sağlamaktadır (Emine Görgülü, B. No: 2014/5871, 06.07.2017, § 43).
 
 ## Yargıtay HGK 2021/445 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686485600)
 
 Bilindiği üzere 22.09.1983 tarihli 2888 sayılı yasanın 2. maddesiyle değiştirilen 2762 sayılı yasanın 29. maddesinde, Medeni Kanunun 501. maddesindeki Hazinenin mirascı olacağı yönündeki genel hükmünden ayrılmak suretiyle "mülkiyeti mutasarrıfa geçmiş olan taşınmazlarda maliklerin bu yasanın yürürlük tarihine kadar ölmeleri üzerine son mirasçı sıfatıyla Hazineye intikal edipte bu husus tapu kaydına bağlanmış bulunanlar ayrık bırakılarak işlenmemiş olan taşınmazların mahlulen vakfına rücu edeceği" kuralı getirilmiştir. Bu nedenle, 2888 sayılı yasanın yürürlük tarihi 24.9.1983 tarihinden sonra aslı vakıf olan taşınmazların Hazineye geçmesine yasal olanağın kalmadığı sonucuna ulaşılmalıdır.
 
 ## Yargıtay HGK 2005/626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76989800)
+
 Nitekim 2762 sayılı Vakıflar Kanunu’nun 29’uncu maddesinin 1. fıkrasında, on yıl içinde taviz vermek yoluyla icareteyn veya mukataa kayıtları terkin edilmemiş olan gayrimenkullerin mülkiyetinin on yıl sonunda kendiliğinden mutasarrıflarına geçeceği ve vakfın hakkının da ivaza dönüşeceği belirtildikten sonra, 2. fıkrasında; ”Bu madde gereğince mülkiyeti mutasarrıflarına geçmiş olan gayri menkullerde maliklerin Hazineden başka varis bırakmadan ölümleri halinde, mülkiyet mahlulen vakfına rücu eder. Bu Kanunun yayımı tarihine kadar maliklerinin ölümleri üzerine son mirasçı sıfatıyla Hazineye intikal edip de bu husus tapu kaydına işlenmemiş bulunan gayrimenkullerde yukarıdaki fıkra hükmüne tabidir.” hükmü öngörülmüştür.
 
 ## Yargıtay HGK 2005/195 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76673500)
 
 Yine, Medeni Kanunun 764. maddesinde takyit edilen gayrimenkulün, maliki değiştiği takdirde, yeni malikin başka bir muameleye hacet kalmaksızın gayrimenkul mülkiyetinin mevzuuna dair şeylerle borçlu olacağı hükme bağlanmıştır. Bu hükmün doğal sonucu olarak kayıt ve belgelerden aslının vakıf taşınmaz mal olduğunun anlaşılması halinde vakıf şerhinin intikal (gitti) kayıtlarına sonradan işaret edilmiş bulunması veya dayanaksız olarak silinmesi yeni maliki bu mülkiyetten yani taviz bedeline ödemekten kurtaramaz. Yasadan doğan gayrimenkul mükellefiyeti karşısında sonraki malikin iyiniyet iddiasında bulunarak Medeni Kanunun 638. ve 931. maddelerinden yararlanmasına yasal olanak bulunmamaktadır. Zira, Medeni Kanunun 657. maddesinde de bu husus açıkça belirtilmiştir.
 
@@ -59,16 +71,24 @@ Yöneticiler vakfedilen malları yönetmekle yükümlü olup onlar tarafından v
 
 ## Yargıtay 3. HD 2025/1586 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163696200)
+
 Yargıtayın yerleşmiş uygulamasına göre; vakıf türünün belirlenmesi ve belirlenen vakıf türüne göre çekişmeli taşınmazda vakfın bir hakkının kalıp kalmadığı, taviz bedeli ödenip ödenmeyeceğinin hiç bir kuşkuya yer bırakmadan saptanması için, öncelikle tapu kaydına işlenen vakfın, mukataalı veya icareteynli vakıf olup olmadığının veya miri arazilerden mukataalı hayrata tahsis edilmeyenler ile aşar ve rüsumu vakfedilen taşınmazlardan bulunup bulunmadığının yöntemince araştırılması gerekir. Vakfiye kapsamındaki her taşınmazın coğrafi konumu ve hukuki durumu farklı olacağından, bu taşınmazların kadim köy, kasaba ya da şehir içindeki mülk topraklar içinde olup olmadığı keşif yapılmak sureti ile uzman bilirkişiler marifetiyle saptanmalıdır.
 
 ## Yargıtay 7. HD 2023/2487 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914667700)
 
 1\. 27.02.2008 tarihinde yürürlüğe giren 5737 sayılı Vakıflar Kanunu'nun 18 inci maddesi hükmü gereğince; miri arazilerden mukataalı hayrata tahsis edilmeyenler ile aşar ve rüsumu vakfedilen taşınmazlar dışındaki icareteyn ve mukataalı vakıf şerhi bulunan gerçek ve tüzel kişilerin mülkiyetinde veya tasarrufundaki taşınmazlar taviz bedeline tabidir. Yasanın 3. maddesinde yapılan tanıma göre de, mukataalı vakıf; zemini vakfa üzerindeki yapı ve ağaçlar tasarruf edene ait olan ve kirası yıllık olarak alınan vakıf taşınmazlarını, icareteynli vakıf ise; değerine yakın peşin ücret ve ayrıca yıllık kira alınmak suretiyle süresiz olarak kiralanan vakıf taşınmazlarını ifade eder. Hal böyle olunca somut uyuşmazlığın çözümü için, kayda işlenen vakfın mukataalı veya icareteynli vakıflardan olup olmadığının veya miri arazilerde mukataalı hayrata tahsis edilmeyen ile aşar ve rüsumu vakfedilen taşınmazlardan bulunup bulunmadığının yöntemince araştırılması gerekir.
 
 ## Yargıtay 16. HD 2020/6018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628973700)
+
 Dosya içeriğine, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere, delillerin takdirinde bir isabetsizlik bulunmamasına göre, davalı ...’ın sair temyiz itirazları yerinde değildir. Ancak, dava konusu 126 ada 1 parsel sayılı taşınmazın Vakıflar Kanunu’nun 13. maddesi gereğince vakıf adına tescil edilmesi gerekirken Vakıflar Genel Müdürlüğü adına tesciline karar verilmesi isabetsiz ise de, bu hususun düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden, hükmün 1. fıkrasının (a) bendinde “...,... İlçesi, ... Köyünde bulunan 126 ada 1 parsel sayılı taşınmazın davalılar murisi adına olan tapusunun iptali ile bu taşınmazın” ifadesinden sonra “adına tapuya tesciline” ifadesinden önce yer alan “Vakıflar Genel Müdürlüğü” ifadesinin cümleden çıkartılarak yerine “ ... Vakfı” ifadesinin yazılmasına, hükmün bu şekilde DÜZELTİLEREK ONANMASINA, yasal koşullar gerçekleştiğinde kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere, 17.12.2020 gününde…
 
 ## Yargıtay 14. HD 2019/162 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478133000)
 
 27.02.2008 tarihinde yürürlüğe giren 5737 sayılı Vakıflar Kanununun 18. maddesi hükmü gereğince; miri arazilerden mukataalı hayrata tahsis edilmeyenler ile aşar ve rüsumu vakfedilen taşınmazlar dışındaki icareteyn ve mukataalı vakıf şerhi bulunan gerçek ve tüzel kişilerin mülkiyetinde veya tasarrufundaki taşınmazlar taviz bedeline tabidir. Yasanın 3. maddesinde yapılan tanıma göre de, mukataalı vakıf; zemini vakfa üzerindeki yapı ve ağaçlar tasarruf edene ait olan ve kirası yıllık olarak alınan vakıf taşınmazlarını, icareteynli vakıf ise; değerine yakın peşin ücret ve ayrıca yıllık kira alınmak suretiyle süresiz olarak kiralanan vakıf taşınmazlarını ifade eder. Hal böyle olunca somut uyuşmazlığın çözümü için, kayda işlenen vakfın mukataalı veya icareteynli vakıflardan olup olmadığının veya miri arazilerde mukataalı hayrata tahsis edilmeyen ile aşar ve rüsumu vakfedilen taşınmazlardan bulunup bulunmadığının yöntemince araştırılması gerekir.
