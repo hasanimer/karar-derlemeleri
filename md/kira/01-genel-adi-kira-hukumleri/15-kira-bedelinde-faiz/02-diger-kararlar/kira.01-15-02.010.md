@@ -111,8 +111,6 @@ oranlarda temerrüt faizi uygulanacağı kabul edilmiştir.Davacının imzaladı
 
 ## Antalya BAM 16. HD 2025/1085 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181174800)
-
 HMK'nın 359/3 maddesi uyarınca; dosya kapsamındaki yazı, belge ve bilgilere, yasaya uygun gerektirici nedenlere, ilk derece mahkemesi kararının gerekçesinde dayanılan delillerle, delillerin tartışılması sonucu maddi olay ve hukuki değerlendirmede usul ve yasaya aykırı bir yön bulunmamasına, HMK'nın 355/1 maddesi gereği incelemenin istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılıp, re'sen gözetilmesi gereken, kamu düzenine herhangi bir aykırılığın da bulunmamasına, taraflar arasındaki saklama sözleşmesinin 4.1. maddesinde açıkça sözleşmenin haklı sebep gösterilmeden feshedilmesi halinde diğer aylara ilişkin bedelin muacceliyet kesbedeceğinin kararlaştırılmış olmasına, söz konusu hususun cezai şart niteliğinde olmasına, taraflar tacir olmakla söz konusu sözleşme hükmü ile tarafların bağlı olmasına, davalının cezai şartta indirim yapılması hususunda yasal dayanağının bulunmamasına, mahkeme gerekçesinde sözleşmenin kira sözleşmesi olarak nitelendirilmesi hatalı ise de, bu yanlışlığın sonuca etkili olmamasına, kararın usul ve esas yönünden hukuka uygun olduğunun anlaşılmasına göre; davalı vekilinin istinaf itirazları yerinde görülmediğinden HMK'nın 353/1-b-1 maddesi
 gereğince istinaf başvurusunun esastan reddine karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 

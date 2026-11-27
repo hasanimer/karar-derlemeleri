@@ -133,8 +133,6 @@ Maddenin gerekçesinde; bu yeni düzenlemenin, öğreti ve uygulamada sözleşme
 
 ## Antalya BAM 13. HD 2025/642 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161604900)
-
 Davacı vekili dava dilekçesinde özetle; ...ait... bulunan... numaralı iş yerlerinin kira sözleşmesi ile müvekkiline tahsis edildiği, kiraya verenle yaşanan sorunlardan sebep bir dönem taşınmazın tahliye edildiği, olayın yargıya intikal ettiği ve muhakeme sonrasında .... tarihi itibariyle iş yerine geri dönüldüğü, yeniden taşınmaza gelindiğinde davacının kullandığı taşınmaza komşu iş yerlerinde bulunan davalıların kullandıkları taşınmazlarda izinsiz ve ruhsata aykırı kaçak yapı inşa ettiği ve yine kaçak elektrik kullandığı, müşterek kullanım alanlarını işgal ettikleri, bu yapıların davacının kiraladığı taşınmaza doğrudan ve dolaylı olarak zarar verdiği, müşteri potansiyelini olumsuz etkilediği, yine davalıların müşterek alana tecavüzü nedeniyle ortak alanlardan davacının yararlanamadığı, davalıların müvekkilini zarara uğratmak amacıyla kasıtlı hareket ettiği, kaçak inşa edilen yapıların düzeltilmesi ve izinsiz yapılaşmaya ilişkin hukuka aykırılığın giderilmesinin istendiği, ancak bu güne değin netice alınamadığı, davalıların hukuka aykırı iş ve eylemlerinden dolayı maddi ve manevi zarara uğrandığını beyanla ve fazlaya dair hakkı saklı tutulması kaydıyla 83.300,00 TL maddi ve
 30.000,00 TL manevi tazminatın 23/11/2018 olay tarihinden işleyecek yasal faiziyle davalılardan tahsiline karar verilmesini talep etmiştir.
 

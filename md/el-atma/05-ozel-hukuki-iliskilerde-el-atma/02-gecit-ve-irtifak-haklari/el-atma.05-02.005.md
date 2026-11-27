@@ -377,8 +377,6 @@ SONUÇ: Yukarıda yazılı nedenlerle temyiz itirazlarının kabulü ile hükmü
 
 ## Denizli BAM 1. HD 2026/601 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205050100)
-
 Davalı vekili cevap dilekçesinde özetle; lehlerine tesis edilen geçit hakkının terkinine ilişkin taleplerin kesin hüküm sebebiyle dinlenilemeyeceğini, geçit hakkı tesisine dayanak olan ... Asliye Hukuk Mahkemesinin 28.12.2011 tarih, ...
 
 …

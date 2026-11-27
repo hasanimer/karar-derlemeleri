@@ -235,8 +235,6 @@ Değinilen ilke ve yasa hükümleri gözardı edilerek kısa kararda "davanınk�
 
 ## Ankara BAM 21. HD 2021/862 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666023800)
-
 Dava, işletme hakkı devir sözleşmesinden kaynaklanan rücuen alacak talebidir.
 
 …

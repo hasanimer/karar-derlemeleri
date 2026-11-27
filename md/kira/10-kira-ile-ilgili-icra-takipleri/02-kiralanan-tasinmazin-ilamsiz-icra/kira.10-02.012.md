@@ -130,8 +130,6 @@ HMK'nın 4/a maddesi gereğince "kiralanan taşınmazların İcra İflas Kanunun
 
 ## Konya BAM 7. HD 2026/354 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194747600)
-
 Kiralanan taşınmazların, 09/06/1932 tarihli ve 2004 sayılı İcra ve İflas kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaları demek suretiyle kira ilişkisinden doğan alacakların ve uyuşmazlıkların Sulh Hukuk Mahkemesinin vazifesi içinde bulunan davalara Sulh Hukuk mahkemesinde bakılacağı hususları düzenlenmiştir.
 
 ## Ankara BAM 32. HD 2026/275 K.
@@ -139,8 +137,6 @@ Kiralanan taşınmazların, 09/06/1932 tarihli ve 2004 sayılı İcra ve İflas 
 İİK'nun 269/2. maddesi gereğince, takip borçlusu "örnek 13" ödeme emri tebliği üzerine 7 gün içerisinde itiraz sebeplerini İİK'nun 62.madde hükümleri dahilinde icra dairesine bildirmeye mecburdur. Borçlu itirazında kira akdini ve varsa buna ait mukavelenamedeki imzasını açık ve kesin olarak reddetmezse, akdi kabul etmiş sayılır.
 
 ## Denizli BAM 4. HD 2026/247 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192122100)
 
 6100 sayılı HMK'nın 4/1. maddesi gereğince kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalarda "Sulh Hukuk Mahkemesi" görevlidir.
 
@@ -151,8 +147,6 @@ Kiralanan taşınmazların, 09/06/1932 tarihli ve 2004 sayılı İcra ve İflas 
 HMK'nın 4/a maddesi gereğince kiralanan taşınmazların İcra İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu olan davalar ile bu davalara karşı açılan davaların Sulh Hukuk Mahkemesinde görüleceği düzenlenmiştir. Taraflar arasındaki uyuşmazlığın kira sözleşmesinden kaynaklandığı, görevli mahkemenin Sulh Hukuk Mahkemesi olduğu anlaşılmış, davalı vekilinin istinaf başvurusunun reddi gerekmiştir. İlk derece mahkemesinin kararında esası etkileyen bir usul hatası bulunmadığı, vakıa tespitlerinin tam ve doğru olarak yapıldığı, maddi hukuk normlarının doğru olarak uygulandığı, delillerin değerlendirilmesinde de hatalı bir sonuca varılmadığı anlaşıldığından davalının istinaf başvurusunun HMK'nin 353/1-b-1 maddesi gereğince esastan reddine karar vermek gerekmiştir.
 
 ## Antalya BAM 11. HD 2025/1575 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190820600)
 
 6100 sayılı HMK'nın 4/I-a maddesinde kiralanan taşınmazların, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu'na göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalara, konuları ve
 
@@ -207,13 +201,9 @@ görev yönünden değişik gerekçe ile yerinde olduğu anlaşılmıştır. Dai
 
 ## Antalya BAM 16. HD 2025/1049 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177359500)
-
 01/10/2011 tarihinde yürürlüğe giren 6100 sayılı HMK'nın 4/1-a maddesine göre; “Kiralanan taşınmazların, 09/06/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu'na göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalarda” Sulh Hukuk Mahkemesi görevlidir.
 
 ## Gaziantep BAM 4. HD 2025/2184 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174089100)
 
 HMK 4/a maddesi gereğince "kiralanan taşınmazların İcra İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu olan davalar ile bu davalara karşı açılan davalar Sulh Hukuk Mahkemesinde" görüleceğinin düzenlendiği anlaşılmıştır.
 

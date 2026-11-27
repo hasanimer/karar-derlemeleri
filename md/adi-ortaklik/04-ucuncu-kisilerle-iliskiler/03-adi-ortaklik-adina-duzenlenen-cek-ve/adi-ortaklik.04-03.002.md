@@ -84,8 +84,6 @@ Yasal düzenlemeler ve Yargıtay kararları uyarınca adi ortaklığın tasfiyes
 
 ## Antalya BAM 16. HD 2025/1389 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184613000)
-
 Dava, çekte lehtar olarak yer alan davacının, çekte imzasının bulunmadığı ve ayrıca son hamil tarafından davalıya yapılmış ciro ve devir bulunmadığı bu nedenle davalının yetkili hamil olmadığını iddialarına dayalı menfi istemine ilişkindir.
 
 …

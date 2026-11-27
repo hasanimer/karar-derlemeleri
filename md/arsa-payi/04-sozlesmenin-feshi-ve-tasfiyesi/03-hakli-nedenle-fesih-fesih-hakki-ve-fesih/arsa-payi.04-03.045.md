@@ -67,8 +67,6 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacının istinaf b
 
 ## Ankara BAM 21. HD 2021/956 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671424700)
-
 İlk derece mahkemesince duruşma açılarak yapılan inceleme sonunda; mahkemece 25/03/2021 tarihinde davalıların müdürlük yetkilerinin kayyım denetimine bırakılmasına ve davalı gerçek kişilerin şirket müdürü sıfatıyla şirket adına gerçekleştireceği şirket aktifini azaltıcı tüm iş ve işlemlerin dava sonuçlanıncaya kadar kayyım onayına tabi tutulmasına karar verildiği, gelinen süreçte Mahkeme dosyasına sunulan yeni delil ve belge olmadığı, Mahkemece verilen kararın yerinde olduğu gerekçesiyle, davalı vekilinin tedbir kararına yönelik itirazının reddine karar verilmiştir.
 
 …
@@ -82,8 +80,6 @@ Bununla birlikte davacı ortak esasen davalı şirketten olan kar payı alacağ�
 Ankara 7. Asliye Ticaret Mahkemesi'nin 25/03/2021 tarihli ve ....Esas sayılı ihtiyati tedbir ara kararının KALDIRILMASINA.......3. kişilere devrini önleyecek şekilde İHTİYATİ TEDBİR KONULMASINA …
 
 ## Ankara BAM 27. HD 2021/704 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673163400)
 
 Kooperatifi adına kayıtlı olduğu,.... konutun yer aldığı, A bloğun imalatının % 45, B bloğun % 95, C bloğun % 70, D bloğun % 60, E bloğun imalatının gerçekleşme oranın %6 olarak takdir edildiği,.... nolu adalarda inşaat yapımına başlanmadığı parsellerin tümünün tapuda davalı kooperatif adına kayıtlı olduğu, davalı kooperatifin 08/11/2000 tarihinde davacı ile yaptığı sözleşmeyi feshettiği, sözleşmeyi Borçlar Kanunu'nun 369. maddesi ile fesh ettiğini bildirdiği, taraf iradelerinin birleşmesi nedeniyle sözleşmenin fesih sureti ile ortadan kalktığı, müteahhidin yaptığı bir takım hizmetler nedeni ile bedelinin tahsiline talep hakkı bulunduğunu, davalı yandan talep edebileceği toplam tazminat miktarının 2.778,000,00 TL olarak hesaplandığının bildirildiği, taraf vekillerinin itirazı üzerine bilirkişi kurulundan ek raporlar alındığı 11/10/2016 tarihli ek raporda, akdin davacı yanın kusurlu davranışı ile feshine sebebiyet verdiği, davalı arsa malikinden kar kaybı talebinde bulunmasının mümkün olmadığı, davalı kooperatifin sözleşmeyi BK 369.maddesine göre fesh ettikleri yönündeki beyanlarının bağlayıcı sonuç doğuracağı düşünüldüğünde davacı adına tesis edilen daireler dahil olarak feshin
 oluştuğu 2007 fiyatlarına göre 3.546.600,00 TL olacağı, davaya konu inşaatların davacı şirket tarafından değil dava dışı yüklenici kooperatiflerle taşeron şirketlerin akdettiği eser sözleşmeleri uyarınca gerçekleştirildiği, taşeron şirketlerin asıl iş (arsa) sahibi kooperatif ile akdi ilişkilerinin olmadığı bu nedenle davalı asıl iş sahibi kooperatife taşeron şirketlerce husumet yöneltilemeyeceği, mahkemenin aksi kanaatte olması durumunda davacının davalı arsa maliki kooperatiften yapım bedelini talep edebileceği düşünüldüğünde 2007 yılı fiyatları ile yapım bedeli tutarının 2.150.872,42 TL olacağının bildirildiği, 818 sayılı BK'nun 369. maddesi hükmünde "Yapılan şey; bitmezden evvel iş sahibi yapılmış olan kısmın bedelini vermek ve müteahhidin zarar ve ziyanı baligan mabelağ tazmin etmek şartıyla mukaveleyi fesh edebilir." düzenlemesine yer verildiği, 6098 sayılı TBK'nun 484.maddesinde de aynı düzenlemenin yer aldığı, tüm dosya kapsamı toplanan deliller alınan bilirkişi kök ve ek raporlarına göre, taraflar arasında ...

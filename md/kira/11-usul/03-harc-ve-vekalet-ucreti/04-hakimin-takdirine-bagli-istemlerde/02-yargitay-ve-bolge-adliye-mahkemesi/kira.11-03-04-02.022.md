@@ -35,8 +35,6 @@ bu halde Yerel Mahkeme, her ne kadar takdir hakkını kullanarak oldukça yükse
 
 ## Antalya BAM 13. HD 2025/339 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132982400)
-
 Davacılar ... ve ... ihtiyari dava arkadaşı olmaları nedeniyle her bir davacı lehine maddi tazminat yönünden ayrı ayrı vekalet ücreti takdir edilmesi gerekirken, tek vekalet ücretine karar verilmesi doğru görülmemiştir. Avukatlık Asgari Ücret Tarifesinin 13/3 maddesi uyarınca maddi tazminat istemli davanın kısmen reddi durumunda, karşı taraf vekili yararına bu Tarifenin üçüncü kısmına göre hükmedilecek ücret, davacı vekili lehine belirlenen ücreti geçemeyeceği gözetilerek davalılar lehine belirlenen vekalet ücretinin davacılar lehine belirlenen vekalet ücretinden fazla olarak karar verilmesi de doğru görülmemiştir. Ayrıca hatır taşıması indirimi ve müterafik kusur indirimi nedeniyle maddi tazminat talebinin reddedilen kısmı yönünden davalılar lehine vekalet ücreti hükmedilmemesi gerekir. Bu nedenle davacılar vekilinin vekalet ücretine yönelen istinaf itirazlarının kabulü gerekir.
 
 ## İstanbul BAM 13. HD 2025/457 K.
@@ -47,8 +45,6 @@ Cezai şart tutarından takdiri indirim sonucunda reddedilen tutar üzerinden da
 10.000 USD alınmayan mal karşılığı cezai şart alacağının davalının ekonomik yönden mahvına sebebiyet vereceğine kanaat getirildiğinden % 80 oranında indirim yapılarak 2.000 USD cezai şart alacağının ve 50.000 USD sözleşmenin fesih edilmesi nedeniyle cezai şart alacağının davalının ekonomik yönden mahvına sebebiyet vereceğine kanaat getirildiğinden % 80 oranında indirim yapılarak 10.000 USD cezai şart alacağı olmak üzere; toplam 12.000 USD nin, 3095 Sayılı Kanunun 4.md/a bendi uyarınca 12/01/2017 tarihinden fiili ödeme gününe kadar Devlet Bankalarının USD ile açılmış bulunan bir yıl vadeli mevduat hesabına ödediği en yüksek faizi ile birlikte davalıdan alınarak davacıya verilmesine,'' karar verilmiş ve karara karşı taraf vekilleri istinaf başvurusunda bulunulmuştur.
 
 ## Gaziantep BAM 3. HD 2025/343 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134187900)
 
 TBK'nın 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceğinden, müterafik kusur indiriminden dolayı reddedilen kısım için davalı lehine vekalet ücretine hükmedilmemesinde ve davacının açıkça bir feragat beyanı olmadığından bakıcı gideri ve geçici iş göremezlik tazminatına
 
@@ -62,8 +58,6 @@ Karar tarihindeki AAÜT gereğince davacı ... için hesaplanan 67.601,63 TL nis
 her birinden ayrı ayrı 17.900,00 TL maktu vekalet ücreti alınarak kendisini vekille temsil ettiren davalı ...'e verilmesine, e-Manevi tazminat yönünden diğer davacılar ..., ..., ..., ..., ... ve ... için 7.500,00 er TL vekalet ücreti takdirine, ...'ten alınıp bu davacılara verilmesine; bu davacılar yönünden reddedilen manevi tazminat talepleri yönünden de kendilerinden ayrı ayrı 7.500,00 er TL vekalet ücreti alınıp davalı ...'e verilmesine,…
 
 ## Konya BAM 3. HD 2025/199 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118559200)
 
 TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti taktir edilemeyeceğinin gözetilmesi isabetlidir. İtiraz bu yönden yersizdir.
 
@@ -96,8 +90,6 @@ vekalet ücreti takdir edilmemesi ( maddi tazminata ilişkin olarak yapılan do�
 hükmedilmesinde kural olarak bir yanılgı bulunmamakla birlikte; olaydan sonra kolluk kuvvetlerince düzenlenen kaza tespit tutanağında ...'in ölümüyle sonuçlanan trafik kazasına karışan ... plaka sayılı araç sürücüsünün kim olduğunun tespit edilemediği açıklanmış olup, bu nedenle İstanbul Cumhuriyet Başsavcılığınca başlatılan 2014/66552 sayılı soruşturma kapsamında hem ... hem de ... hakkında işlem başlatıldığı ve soruşturma sonucunda araç sürücüsünün ... olduğu kabul edilerek, bu kişi hakkında kamu davası açıldığı, iddianamenin 17/07/2014 tarihinde düzenlendiği, bu iddianame üzerine İstanbul 15.
 
 ## Gaziantep BAM 3. HD 2025/189 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1125694200)
 
 ..maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceği ve yargılama giderleri yönünden taraflar arasında paylaştırmaya gidilemeyeceği göz önüne alınması gerekirken mahkemece reddedilen miktar yönünden yargılama giderine ve vekalet ücretine hükmedilmesi hatalıdır.
 

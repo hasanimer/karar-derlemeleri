@@ -30,6 +30,4 @@ Türk Hukuk Lûgatında arsa payı karşılığı inşaat sözleşmesinin hukuki
 
 ## Ankara BAM 27. HD 2024/636 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046769300)
-
 Dava, kat karşılığı inşaat sözleşmesinin haklı olarak feshedildiğinin tespiti istemiyle açılmış, mahkemesince de davaya konu sözleşmenin 19.07.2017 itibariyle ileriye etkili feshedildiğinin tespitiyle davacı arsa sahibi kooperatifin fesihte haklı olduğunun tespitine hükmedilmiş ise de Yargıtay yerleşik içtihatlarında da kabul edildiği üzere arsa payı karşılığı inşaat yapım ve gayrimenkul satış vaadi sözleşmeleri bedel olarak arsa payı devri ve satış vaadini de içerdiğinden, karma nitelikli sözleşmelerdendir. Bu tür inşaat sözleşmeleri, tapuda pay devrini de içerdiğinden, yapılması özel şekil şartına tabi olduğu gibi, dönme suretiyle sona ermesi de, tek taraflı irade beyanının karşı tarafa ulaştırılmasıyla mümkün değildir.

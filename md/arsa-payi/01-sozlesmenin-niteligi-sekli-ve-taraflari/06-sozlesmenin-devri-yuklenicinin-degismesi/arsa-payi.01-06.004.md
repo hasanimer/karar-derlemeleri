@@ -253,8 +253,6 @@ TEKİRDAĞ ASLİYE TİCARET MAHKEMESİ'nin 05/04/2022 tarih, 2021/918 Esas, 2022
 
 ## Antalya BAM 1. HD 2026/860 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205600600)
-
 İLK DERECE MAHKEMESİ KARARI: İlk derece mahkemesince; Dava dilekçesinin göreve ilişkin dava şartı yokluğu nedeniyle usulden Reddine, mahkemenin Görevsizliğine, HMK'nın 20. maddesi gereğince karar kesinleştiğinde ve süresinde (başvurulması halinde dava dosyasının yetkili ve görevli Antalya Nöbetçi Asliye Hukuk Mahkemesine gönderilmesine, karar verilmiştir.
 
 …

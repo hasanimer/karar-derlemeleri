@@ -103,8 +103,6 @@ Maddesi ; “ Ana yapıda çarşı, işhanı, ara blok dışında kalan bütün 
 
 ## Denizli BAM 4. HD 2025/2076 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185958100)
-
 Dosyanın incelenmesinde; iptale konu genel kurulun 9. Maddesinin yönetim kurulunun ibrasına; 10. Maddesinin denetim kurulunun ibrasına; 12. Maddesinin site yönetimi konusunda kooperatifi oluşturan adaların kat malikleri kurulları tarafından bir talepte bulunulursa bunun kabul edilmesi ve yönetim fonksiyonunun mevcut yönetim kurulu tarafından yerine getirilmesi konusunun görüşülmesine; 14. Maddesinin, bilgileri yazılı kat karşılığı inşaat sözleşmelerini yapmaya, tadil etmeye, yüklenici firmalara hakedişleri doğrultusunda bağımsız bölümlerin temlik edilmesine, yeniden dilediği şartlarda kat karşılığı inşaat sözleşmesi düzenlemesine ilişkin yönetim kurulunun tam yetki ile görevlendirilmesine; 15.
 Maddesinin, kooperatife ait taşınmazların kiraya verilmesi için yönetim kuruluna tam yetki verilmesine; 20. maddesinin, 2024 yılı Eylül ayında yapılan olağanüstü genel kurulda alınan kararların onaylanmasına; 21. maddesinin, Kooperatif organlarının çalışmasını olumsuz yönde etkilemekte ısrar eden ve/veya hakkı kötüye kullandığı anlaşılan ortaklar hakkında somut, net bilgi ve belgelere dayanarak dava açılabilmesi için yönetim kuruluna yetki verilmesine; 22. maddesinin, kooperatif çalışanı ...ın geçirmiş olduğu iş kazası sonucu sigorta şirketi “istihap haddinin aşması” gerekçesi ile ödediği tazminatı kooperatife rücu etmesi nedeni ile ödenmek zorunda kalınan bedel nedeni ile dava açılıp açılmamasına karar verilmesi ve bu konuda yönetim kurulunun yetkilendirilmesine ilişkin olduğu anlaşılmıştır.
 

@@ -172,8 +172,6 @@ Sözlük anlamı “sayışma” olan mahsup; bir alacağı doğuran olayla ilgi
 
 ## Antalya BAM 16. HD 2024/548 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118028500)
-
 TBK'nın 101. Maddesine göre birden çok borcu bulunan borçlu, ödeme gününde bu borçlardan hangisini ödemek istediğini alacaklıya bildirebileceği, borçlu bildirimde bulunmazsa, yapılan ödeme, kendisi tarafından derhâl itiraz edilmiş olmadıkça, alacaklının makbuzda gösterdiği borç için yapılmış sayılacağı, TBK'nun 102. Maddesinde ise taraflar arasında birden fazla borç bulunması halinde kanunen geçerli bir açıklama yapılmadığı veya makbuzda bir açıklık bulunmadığı durumda ödemenin muaccel borç için yapılmış sayılacağı, birden çok borç muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış olduğunun kabul edileceği, takip yapılmamış ise ödeme, vadesi ilk önce gelmiş olan borç için yapılmış sayılacağı, birden çok borcun vadesi aynı zamanda gelmişse, mahsup orantılı olarak; borçlardan hiçbirinin vadesi gelmemişse ödeme, güvencesi en az olan borç için yapılmış sayılacağının kabul edileceği hüküm altına alınmıştır.
 
 ## Sakarya BAM 7. HD 2023/694 K.

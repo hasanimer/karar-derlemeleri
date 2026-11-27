@@ -57,8 +57,6 @@ Sigorta AŞ. lehine takdir edilen maddi tazminata avans faiz işletilmesine kara
 
 ## Konya BAM 3. HD 2022/1969 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813174500)
-
 Bu sebeple, mahkemenin takdiri indirimi nedeniyle davanın kısmen reddine karar verildiğine göre, taraflar için kısmen kabul ve reddedilen miktarlar üzerinden (hesaplanan tazminat miktarı ile ıslah edilen miktarlar karşılaştırılarak) yargılama giderine ve vekalet ücretine hükmedilmesi ve davacı tarafça yapılan ATK giderleri de yargılama giderine dahil edilmesi gerekirken, bu hususlar göz ardı edilerek hüküm kurulması hatalı olup davacının istinaf itirazı yerinde olup; davalı tarafın ise soyut nitelikteki yargılama giderlerine ilişkin itirazı isabetsizdir.
 
 ## Ankara BAM 26. HD 2022/1883 K.
@@ -84,13 +82,9 @@ Davacı ...'dan 9.200,00 TL vekalet ücretinin, Davacı ...'dan 9.200,00 TL veka
 
 ## Konya BAM 3. HD 2022/1817 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800189200)
-
 Ayrıca Birlikte kusur indirimine gidilmesi sebebiyle davalı yararına vekalet ücreti takdirine hükmedilmeyeceği,TBK 51,52 maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceğinin ve yargılama giderinin oranlanmadan tam kabul gibi değerlendirilerek hüküm kurulması gerektiğinin dikkate alınması doğrudur…
 
 ## Konya BAM 3. HD 2022/1791 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800292800)
 
 TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için maddi tazminat yönünden davalı yararına vekalet ücreti taktir edilemeyeceğinden vekalet ücreti taktir edilmemesi doğru olup itiraz yersizdir.
 
@@ -155,8 +149,6 @@ Kabule göre de Avukatlık Asgari Ücret Tarifesi'nin 10/1 maddesinde; Manevi ta
 
 ## Ankara BAM 26. HD 2022/1330 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/771440300)
-
 Bu durumda mahkemece hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı taraf yararına vekalet ücreti takdir edilemeyeceği ve yargılama giderleri yönünden taraflar arasında paylaştırmaya gidilemeyeceğinin göz önüne alınması gerekirken,davalı yararına hakkaniyet indiriminden dolayı reddedilen kısım için vekalet ücretine hükmedilmesi de doğru görülmemiştir.
 
 ## İstanbul BAM 8. HD 2022/657 K.
@@ -169,8 +161,6 @@ Hal böyle olunca da, somut olayda davacı anne ve baba yararına manevi tazmina
 verilmesi isabetli olmamış, bu sebeple davacılar vekilinin bu husustaki istinaf başvurusu yerinde bulunmuştur. (4)Hüküm tarihine göre uygulanması gereken Avukatlık Asgari Ücret Tarifesi'nin 10/4.maddesi "manevi tazminat davasının, maddi tazminat veya parayla değerlendirilmesi mümkün diğer taleplerle birlikte açılması durumunda; manevi tazminat açısından avukatlık ücreti ayrı bir kalem olarak hükmedilir" şeklindedir. Hal böyle olunca da somut olayda, maddi ve manevi tazminat istemleri kısmen reddedilen davacılar tarafından ödenmek üzere, istinaf eden davalılar yararına maddi ve manevi tazminat yönünden ayrı ayrı vekalet ücretine hükmedilmesi gerekirken, tek vekalet ücretine hükmedilmesi hatalıdır. Bu suretle davalılar vekilinin bu hususa temas eden istinaf başvurusu yerinde bulunmuştur.
 
 ## Ankara BAM 26. HD 2022/1088 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/771317700)
 
 Diğer yandan; yasal, hakkaniyet ve takdiri indirimler nedeni ile davanın kısmen kabul edilmesi halinde, indirimden dolayı reddedilen kısım yönünden davalı yararına vekalet ücreti takdir edilip edilmeyeceği önem arz etmektedir. Kısmen reddedilen miktar, Türk Borçlar Kanunu'nun 51 ve 52. maddesinden kaynaklanan bir indirim ise indirim miktarı yasadan kaynaklandığından bu indirim nedeni ile davalı yararına vekalet ücreti takdir edilemeyeceği Yargıtay 17. Hukuk Dairesi'nin ve 4. Hukuk Dairesi'nin yerleşik içtihatları ile benimsenmiştir. (Yargıtay 17. Hukuk Dairesinin 2019/4598 Esas - 2020/8076 Karar; 2018/4519 Esas - 2020/892 Karar; Yargıtay 4. Hukuk Dairesinin 2021/18148 Esas - 2021/9953 Karar Emsal kararları)…
 
@@ -197,13 +187,9 @@ O halde,İlk Derece Mahkemesince yukarıda açıklanan maddi ve hukuki olgular �
 
 ## Konya BAM 3. HD 2022/878 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/747963200)
-
 Mahkeme kararında, kısmen davanın kabul edilmesine, davacı lehine hükmedilen manevi tazminat için vekalet ücreti takdir edilmiş olmasına karşın reddedilen kısım yönünden davalılar lehine vekalet ücreti takdir edilmesi doğru olup yargılama giderleri ve vekalet ücretine yönelik itirazın yerinde olmadığı anlaşılmıştır.
 
 ## Konya BAM 3. HD 2022/726 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/741339200)
 
 Mahkeme kararında, kısmen davanın kabul edilmesine, davacı lehine hükmedilen manevi tazminat için vekalet ücreti takdir edilmiş olmasına karşın reddedilen kısım yönünden davalı lehine vekalet ücreti takdir edilmesi doğru olup yargılama giderleri ve vekalet ücretine yönelik itirazın yerinde olmadığı anlaşılmıştır.
 

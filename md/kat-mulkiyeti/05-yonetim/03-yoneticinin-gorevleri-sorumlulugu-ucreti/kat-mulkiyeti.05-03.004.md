@@ -285,6 +285,4 @@ Bununla birlikte kabule göre de; davacının aşamalarda KMK 35.maddesi gereği
 
 ## Denizli BAM 2. HD 2025/339 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113772900)
-
 634 sayılı Kat Mülkiyeti Kanunu'nun 34.maddesinin 1.fıkrasında "Kat malikleri, ana gayrimenkulün yönetimini kendi aralarından veya dışarıdan seçecekleri bir kimseye veya üç kişilik bir kurula verebilirler; bu kimseye (Yönetici), Kurula da (Yönetim Kurulu) denir." hükmü yer almaktadır. Kanunun 38. maddesinde yöneticinin sorumluluğuna ilişkin genel kural "Yönetici, kat maliklerine karşı aynen bir vekil gibi sorumludur." şeklinde ortaya konulmuş, 39.maddesinde yöneticinin hesap verme yükümlülüğü düzenlenmiş, 40.maddenin 1.fıkrasında ise yöneticinin hakları "Yönetici kaide olarak vekilin haklarına sahiptir." şeklinde ifade edilmiştir.

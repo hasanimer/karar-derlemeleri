@@ -103,8 +103,6 @@ Asliye Hukuk Mahkemesince 05.09.2019 tarihinde görevsizlik kararı verildiği, 
 
 ## Gaziantep BAM 4. HD 2025/1967 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167501100)
-
 Dava; adi ortaklığın tasfiyesi ve alacak istemine ilişkindir.
 
 …

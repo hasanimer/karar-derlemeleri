@@ -181,8 +181,6 @@ Dosya kapsamına göre taraflar arasındaki uyuşmazlık; ... ili ... ilçesi ..
 
 ## Konya BAM 6. HD 2023/712 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879995800)
-
 Dava, haksız işgal tazminatı (ecrimisil) istemine ilişkindir.
 
 …

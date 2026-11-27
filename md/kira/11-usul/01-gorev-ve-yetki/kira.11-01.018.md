@@ -22,8 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Denizli BAM 2. HD 2024/201 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095834800)
-
 Yargıtay 3. Hukuk Dairesi Başkanlığı'nın 26/04/2017 tarih 2017/2058 E.2017/6010 K.sayılı, Yargıtay 6. Hukuk Dairesi Başkanlığı'nın 10/12/2015 tarih 2015/1382 E.2015/10930 Kararı gözönüne alındığında davacının talebinin davalıya kiralama sözleşmesine teminat olarak verilen kambiyo senedinden kaynaklandığı, alacağın kaynağının kiralama olduğu, zira takibe konu senedin işbu kira sözleşmesine dayalı olarak teminat suretiyle verilip verilmediği meselesi göreve etki eden bir mesele olmayıp subüt ve esasa ilişkin olduğu, dolayısıyla davanın ... Sulh Hukuk Mahkemesince görülmesi gerektiğinden 6100 sayılı HMK’nın 21 ve 22. maddeleri gereğince ... Sulh Hukuk Mahkemesinin yargı yeri olarak belirlenmesine karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 45. HD 2024/1485 K.
@@ -85,8 +83,6 @@ Davalı taraf, yasal cevap verme süresinde cevap dilekçesi sunmamış olup 610
 
 ## Konya BAM 3. HD 2024/1563 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1065748200)
-
 Bu halde somut olayda davalı büyükşehir belediyesi ile dava arasında kira sözleşme ilişkisinin varlığının sabit olmasına göre,kira aktinin tarafı olmayan davalı selçuklu belediyesinden de munzam zararın tazmini talebinin olmasına göre, davada asıl çözümlenmesi gereken ve tartışılması gereken hususun kira sözleşmesine aykırılık kapsamında bulunmasına, Davacının dayandığı vakıaya göre uyuşmazlığın, aralarındaki 29.01.2013 tarihli kira sözlemesindeki düzenlemelere ve kira hukukuna göre çözülmesi gerektiği anlaşıldığından HMK m. 4/1.a, 114/1.c ve 115/2 uyarınca mahkemenin Sulh Hukuk Mahkemesine görevsizlik kararı vermesi gerekirken, davaya bakması isabetsiz olup, görev kamu düzenine ilişkin hususlardan olup re'sen gözetilmesi gerektiğinden dolayı, su sebeple davacının istinafının kabulü ile kararın kaldırılarak mahkemesine gönderilmesi gerekmiştir.
 
 ## İstanbul BAM 18. HD 2024/1665 K.
@@ -143,8 +139,6 @@ Kanuni sürenin sona erdiği 6.8.2018 tarihinde davalının halen 9.454,84 EURO 
 
 ## İzmir BAM 23. HD 2024/1418 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058905600)
-
 Somut olayda; davacı ile davalı arasında akdedilmiş bir kira sözleşmesi bulunmamaktadır. Davacı kendi adına ancak davalı hesabına yaptığını ileri sürdüğü kira sözleşmesinden kaynaklanan zararını, hesabına hareket ettiğini ileri sürdüğü davalıdan talep etmekte olup taraflar arasındaki ilişki kira ilişkisi olmadığından sulh hukuk mahkemesi görevli değildir. Taraflar arasındaki uyuşmazlık mutlak ticari dava niteliğinde de olmadığından mahkemece tarafların tacir sıfatı bulunup bulunmadığı araştırılarak sonucuna göre görevli mahkemenin
 
 belirlenmesi gerekirken yazılı gerekçe ile sulh hukuk mahkemesine görevsizlik kararı verilmesi doğru görülmemiştir.
@@ -156,8 +150,6 @@ belirlenmesi gerekirken yazılı gerekçe ile sulh hukuk mahkemesine görevsizli
 Somut olayda ; Dava konusu taşınmazın eski maliki olan dava dışı ... ile davalı arasında 01.07.2013 başlangıç tarihli, 5 yıl süreli, yazılı kira sözleşmesi bulunmaktadır. Davacı, kiralanan taşınmazı 23.07.2015 tarihinde satın alarak TBK.’nun 310. maddesi gereği sözleşmenin tarafı haline gelmiştir. İzmir 10. Sulh Hukuk Mahkemesi’nin 2022/3545 E. – 2023/2135 K. sayılı dosyasından davalı hakkında verilen tahliye kararının 27.11.2023 tarihinde kesinleştiği anlaşılmaktadır. Dava, kiralananın geç tahliyesi nedeni ile davacının uğradığını iddia ettiği zararın giderilmesi istemine ilişkindir. Borcun kaynağı ve temel ilişki kira sözleşmesinden kaynaklanmakta olduğundan 6100 sayılı HMK.nun 4/1-a maddesi gereğince Sulh hukuk mahkemeleri görevlidir. Bu nedenle mahkemece verilen görevsizlik kararı yerindedir.
 
 ## Antalya BAM 6. HD 2024/1524 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039861200)
 
 Buna göre eldeki davada davacının savını, yani taraflar arasında kira ilişkisi bulunduğu yönündeki iddiasını sulh hukuk mahkemesinde ispatlaması gerektiği ve görev kuralları kamu düzenine ilişkin olup, bu hususun yargılamanın her aşamasında re'sen gözetilmesi gerektiği açıktır…
 

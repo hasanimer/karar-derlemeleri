@@ -137,6 +137,4 @@ Dava, yukarıda belirtildiği üzere icra takibinden sonra açılan menfi tespit
 
 ## Ankara BAM 20. HD 2021/1134 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687961200)
-
 Bu açıklamalardan sonra davacının davadaki FSEK'in 15/3 maddesine dayalı eser sahipliğinin tespiti ve FSEK 66. maddesine dayalı ref talepleri incelendiğinde, yukarıda açıklandığı üzere dava konusu proje davacı şirketin aynı zamnada ortağı ve yetkili temsilcisi olduğu... ve bu kişinin oluşturduğu ekipte yer alan gerçek kişiler tarafından hazırlanmıştır. Buna göre davacı, çalıştıran ve tayin eden sıfatıyla FSEK'n 18/2 maddesi gereğince ancak dava konusu eserden doğan mali hakların sahibi olabilcektir. O halde, her ne kadar davacı tarafça eser sahipliğinin tespiti talep edilmişse de "çoğun içinde az da vadır" ilkesi gereğince davanın eser üzerindeki mali hak sahipliğinin tespiti olarak nitelendirilmesi (Yargıtay 11. Hukuk Dairesi' nin 2009/1428 Esas ve 2011/ 16454 Karar sayılı ilamı) ve buna göre davacı şirketin eserin mali haklarını kullanma yetkisine sahip olduğunun tespitine karar verilmesi gerekirken yazılı şekilde eser sahipliğinin tespitine karar verilmesi doğru görülmemiştir. Her ne kadar davalılarca bu yönde bir istinaf itirazında bulunulmamışsa da aktif dava ehliyetine ilişkin olan bu husus davalıların istinafı üzerine Dairemizce res'en incelenmiştir.

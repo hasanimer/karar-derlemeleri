@@ -109,8 +109,6 @@ Dosya kapsamı, mevcut delil durumu ve ileri sürülen istinaf sebepleri dikkate
 
 ## Bursa BAM 5. HD 2022/2085 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870314400)
-
 Bu açıklamalar ışığında, eldeki davada davalının rödevans sözleşmesine dayalı olarak ruhsat sahibi olduğu maden işletme sahasının taraflar arasında akdedilen sözleşme kapsamında adi ortaklık olarak işletilmesinin kararlaştırıldığı, davacının edimlerini yerine getirmesine karşın davalının edimlerini ifadan kaçındığı iddia edilerek adi ortaklığın fesih ve tasfiyesi ile alacağın ve uğranılan zararın tazmini istemli davada, iddia-savunma ve dosyanın bulunduğu aşama itibariyle yaklaşık ispat koşulu gerçekleşmediğinden ilk derece mahkemesince yazılı şekilde ihtiyati tedbir talebinin reddine karar verilmesinde isabetsizlik bulunmamaktadır.
 
 ## İstanbul BAM 3. HD 2021/1950 K.

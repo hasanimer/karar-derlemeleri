@@ -29,8 +29,6 @@ Karşılıklı edimleri içeren eser sözleşmelerinde yüklenicinin görevi ese
 
 ## Konya BAM 6. HD 2022/1827 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/830594200)
-
 Davalı arsa sahibi ... Kooperatifi, taşınmazların halen tapuda arsa cinsi ile tapuda kayıtlı olduğu yüklenicinin edimini yerine getirmediğini beyanla görev ve esas yönünden davanın reddini savunmuştur.
 
 …

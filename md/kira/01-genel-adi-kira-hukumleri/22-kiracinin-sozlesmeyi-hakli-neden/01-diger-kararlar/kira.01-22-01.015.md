@@ -66,8 +66,6 @@ Hukuk Dairelerinin araç satışından kaynaklı ayıp iddiası ile açılan dav
 
 ## Adana BAM 9. HD 2024/1257 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046190700)
-
 -6100 sayılı HMK'nın 330. maddesi gereğince ... İnş. Ltd. Şti. ve SS ... Konut Yapı Kooperatifi hakkındaki kira kaybı alacağı yönünden davanın açılmamış sayılmasına karar verilen kısmı yönünden AAÜT gereğince hesaplanan 10.000,00.TL vekalet ücretinin davacılardan alınarak bu davalılara ÖDENMESİNE,…
 
 ## İstanbul BAM 35. HD 2024/1361 K.
@@ -80,8 +78,6 @@ bedelleri dikkate alındığından 6 aylık dönem için davacının 9.000,00 TL
 Mahkemece gecikme tazminatı ve değer kaybı talebi yönünden davanın kabulüne, taşınır malların iadesi talebi yönünden karar verilmesine yer olmadığına karar verilmiştir.Davalının istinaf sebeplerinin incelenmesinde; ısıtıcıların teslimi için öngörülen teslim tarihinin kesin nitelikte olması sebebiyle ayrıca ihtara gerek olmaksızın davalının teslim borcunda temerrüte düştüğü, davalının temerrüt tarihine kadar olan gecikme tazminatı ile birlikte ürünlerin uygun koşullarda muhafaza edilmemesinden kaynaklanan zarardan da sorumlu olduğu anlaşıldığından davalının istinafının reddi gerekir.
 
 ## Antalya BAM 11. HD 2024/995 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045128300)
 
 Birleşen davada davacı üye ... peşin üyelik iddiasına dayalı olarak devraldığı konutun zamanında teslim edilmemesi nedeniyle kira kaybı alacağını talep etmektedir. Dairemizin 09/03/2021 tarihli kaldırma kararında belirtildiği üzere, taraflar arasındaki 03/03/2010 tarihli sözleşme uyarınca birleşen dosya davacısı ... davalı kooperatif yönetim kurulundan 70.000,00TL bedelle üyelik devraldığına göre, üyeliğe bağlı bağımsız bölümün tamamlanıp tamamlanmadığı, davacı üyenin davalı kooperatiften kira alacağı doğup doğmadığı hususu tespit edilerek oluşacak sonuç dairesinde bir karar verilmesi gerekirken eksik inceleme ile mahkemece aidat borcu devam eden davacı üyenin bu borcu yerine getirmeden dairenin teslimini talep etme hakkı bulunmadığı belirtilerek davanın reddine karar verilmesi doğru değildir.
 

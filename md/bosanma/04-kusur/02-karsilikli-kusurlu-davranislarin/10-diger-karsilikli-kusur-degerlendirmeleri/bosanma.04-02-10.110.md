@@ -402,8 +402,6 @@ Dosya kapsamındaki bilgi ve belgelerden; davalıların işleten, sürücü ve Z
 
 ## Denizli BAM 4. HD 2026/419 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199747600)
-
 Dosyadaki belgelere, mevcut delil durumuna, kararın dayandığı delillerle belirtilen gerekçelere, ceza dosyasında ve yargılama sırasında alınan kusur raporlarından meydana gelen trafik kazasında, geçiş üstünlüğüne aykırı davrandığı için kazaya sebebiyet veren davalı araç sürücüsünün tam kusurlu olduğunun sabit olmasına, davacının maluliyetine ilişkin İstanbul ATK 2. Üst Kurulu tarafından hazırlanan ve hükme esas alınan raporun, olay tarihi itibariyle yürürlükteki Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliği hükümlerine uygun düzenlenmekle usulüne uygun olduğuna, yaralanmanın gerçekleştiği yer göz önüne alınarak müterafik kusur indirimi yapılmamasına yönelik mahkeme kararında yanlışlık bulunmadığına göre, aşağıdaki bendin dışındaki sair istinaf itirazları yerinde değildir.
 
 ## İstanbul BAM 9. HD 2018/596 K.

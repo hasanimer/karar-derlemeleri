@@ -107,13 +107,9 @@ Diğer yandan, ayıp dışındaki eser sözleşmesinden doğan alacaklar için i
 
 ## Ankara BAM 31. HD 2022/485 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766290100)
-
 TBK'nın 154. maddesinde (818 sayılı BK. 133) zamanaşımını kesen durumlar açıklanmıştır. Düzenlemeye göre, borçlunun borcunu ikrar etmesi, faiz ödemesi, kısmi ifada bulunması, rehin vermesi veya kefil göstermesi, alacaklının dava veya defi yoluyla hakeme veya mahkemeye başvurması, icra takibinde bulunması ve iflas masasına başvurması hallerinde zamanaşımı kesilir. Zamanaşımının kesilmesiyle, yeni bir süre başlar. Aynı Kanun'un 156 ncı maddesi, zamanaşımının kesilmesi halinde yeni bir sürenin işlemeye başlayacağını, 157 nci maddesinde ise, zamanaşımı icra takibiyle kesilmiş ise, alacağın takibine ilişkin her işlemden sonra yeniden başlayacağı belirtilmiştir (Yargıtay 3. Hukuk Dairesi, 2021/8435 Esas, 2022/433 Karar).
 
 ## Konya BAM 5. HD 2021/207 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715350800)
 
 … gizli ayıplı imalâtın bedeli de gizli ayıbın ortaya çıktığının anlaşıldığı tarihteki rayiçlerle istenebilir. Şayet sözleşmede özel düzenlemeler varsa öncelikle sözleşme hükümlerinin uygulanması gerekir. Öte yandan ayıplı işlere ilişkin ihbar mükellefiyeti getiren kanun koyucu eksik işler yönünden iş sahibine böyle bir yükümlülük yüklememiştir. Bir başka deyişle, eksik işlerde ihbara gerek olmaksızın zamanaşımı süresi içerisinde eksik işler bedeli her zaman talep edilebilir. Dava konusu taraflar arasında düzenlenen 16/06/1997 tarihli sözleşmenin tarihi itibariyle geçerli bulunan BK’nın 126/4 maddesi uyarınca eser sözleşmesine dayalı taleplerin 5 yıllık zamanaşımına tabi olduğu, BK’nın 128, TBK 149. maddesine göre zamanaşımı süresi alacağın muaccel olmasıyla işlemeye başlayacaktır. BK 132, TBK 153, BK 133, TBK 154, BK 135, TBK 156, BK 136, TBK 157. maddelerinde zamanaşımının durması, kesilmesi sebepleri ile yeni sürenin başlaması ve süresi ile alacaklının fiili ile zamanaşımını kesen haller düzenlenmiştir.
 Kısmı davanın sadece dava edilen bölüm yönünden zamanaşımını keseceği, saklı tutulan fazlaya ilişkin haklar yönünden zamanaşımını kesici etkisi olmadığı, Zamanaşımı süresi alacağın muaccel olmasıyla işlemeye başlayacağı; Bu ilke ve kurallar ışığında somut olay değerlendirildiğinde; dava konusu alacağın varlığı ve miktarının bilirkişi raporu ile belirlenmiş olduğu iddia edilmiş ise de; .

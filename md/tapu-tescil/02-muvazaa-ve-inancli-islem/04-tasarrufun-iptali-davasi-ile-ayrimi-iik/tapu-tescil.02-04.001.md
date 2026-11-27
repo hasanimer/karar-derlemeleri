@@ -58,6 +58,4 @@ Yüzeysel bakıldığında iptal davaları ile muvazaa davaları arasında bir b
 
 ## Konya BAM 3. HD 2021/2055 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740241600)
-
 Yargıtay HGK'nun 10.02.2016 gün, 2014/17-2389 Esas ve 2016/129 Karar sayılı kararında "...tasarrufun iptali davasında ya da somut olayda olduğu gibi TBK’nın 19. maddesi gereğince ve İİK’nın kıyasen uygulanması istemli olarak açılan davalarda alacaklı ile borçlu taraflar arasındaki ticari nitelikteki alım satım ya da banka alacağını oluşturan ticari ya da genel kredi sözleşmeleri görevin belirlenmesinde dikkate alınamayacaktır. Ne tasarrufun iptali davası, ne de TBK m. 19 gereğince İİK’nin 283. maddesinin kıyasen uygulanması istemli muvazaa davası TTK’nın 4. maddesinde belirtilen mutlak ya da nispi ticari dava niteliğine haiz olduğundan 6100 sayılı HMK’nin 2. maddesi gereğince genel görevli Asliye Hukuk Mahkemesi’nin görev alanında kalmaktadır. " şeklinde karar verilerek görevli mahkemenin Asliye Hukuk Mahkemesi olduğu belirlenmiştir.

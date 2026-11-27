@@ -108,8 +108,6 @@ Somut olayda, davaya konu icra takibine dayanak .....tarihli, .....TL bedelli ve
 
 ## Denizli BAM 6. HD 2025/637 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183983300)
-
 Somut olayda; taraflar arasında kira sözleşmesi bulunmakta olup tedbire konu çeklerin kira sözleşmesine istinaden verildiğinin talep edence kabul edildiği de dikkate alınarak uyuşmazlık taraflar arasındaki kira sözleşmesinden kaynaklandığından HMK'nın 4. maddesi gereğince dava/talep Sulh Hukuk Mahkemesinde görülmelidir. Görev hususu kamu düzeninden olup, taraflarca ileri sürülmese dahi hakim tarafından kendiliğinden gözetilmesi gerekir. Görevsiz mahkemede ihtiyati tedbir kararı verilemez. Dolayısıyla talebin değişik iş dosyası üzerinden yapılmış olması nedeniyle niteliği gereği görevsizlik kararı verilerek dosya görevli Sulh hukuk mahkemesine gönderilemeyeceğinden ilk derece mahkemesince ihtiyati tedbir talebinin usulden reddine karar verilmesi yerindedir.
 
 ## İstanbul BAM 45. HD 2025/1284 K.
@@ -120,8 +118,6 @@ Aynı zamanda MÜŞTERİ'ye belirttiği bir internet adresinde internet kullanı
 Taraflar arasındaki sözleşmesinin hükümleri incelendiğinde, internet sunucularının salt kiralanması değil aynı zamanda davacıdan firewall ve yedekleme gibi hizmet alınması da amaçlanmaktadır, davalı bu hizmeti davacıdan almayı, davacı ise söz konusu hizmeti bizzat vermeyi taahhüt etmiştir. Bu durumda taraflar arasındaki sözleşmenin sadece kira değil hizmet sözleşmesini de içeren karma bir sözleşme olduğu tespit edilmiştir. 6102 sayılı Türk Ticaret Kanunu'nun 4/1. maddesinde, her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ve çekişmesiz yargı işleri ile tarafların tacir olup olmadıklarına bakılmaksızın 4/1-a bendinde Türk Ticaret Kanunu'nda düzenlenen hususlar ile diğer alt bendlerde belirtilen hususlardan doğan hukuk davaları ve çekişmesiz yargı işlerinin ticari dava ve ticari nitelikte çekişmesiz yargı işi sayılacağı ve TTK'nın 5/1. maddesi gereği ticari davalara bakmakla görevli mahkemenin Asliye Ticaret Mahkemeleri olduğu belirtilmiştir.
 
 ## Konya BAM 3. HD 2025/2373 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180390400)
 
 Dosya kapsamı, yukarıda aktarılan içtihatlar ve HMK'nın 4. maddesi nazara alındığında davalı kiracıların haksız eyleminden kaynaklı tazminat talebi bakımından sulh hukuk mahkemelerinin görevli olduğu anlaşılmış her ne kadar davalı sigorta şirketine yönelik dava bakımından mahkeme görevli ise de bir davada bir kısım davalılar hakkında genel görevli mahkeme bir kısmı hakkında ise özel görevli mahkeme görevli olduğunda ve ortada tek zarar ile taleplerden birisi hakkında verilecek kararın diğerini mutlak anlamda etkileyeceği durumlarda davanın özel görevli mahkemede görülmesi gerektiği anlaşıldığından
 

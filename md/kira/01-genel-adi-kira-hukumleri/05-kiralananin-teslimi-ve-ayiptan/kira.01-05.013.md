@@ -31,8 +31,6 @@ Rezidansta oluşan hasarlar için 70.800,00 TL, -Noter masrafı (1, 2 ve 5 numar
 
 ## Denizli BAM 4. HD 2025/18 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104446100)
-
 Davaya konu Bodrum 1. İcra Müdürlüğünün ........... E. takip sayılı dosyasının incelenmesinde; alacaklısının ... ve ... olduğu, Borçlusunun ... ve ... olduğu, 69.030,00 TL eksik/ayıplı imalat bedeli, 75.000,00 TL haziran ayına ilişkin mahrum kalınan kira bedeli, 25.000 TL eksik/ayıplı imalatlara ilişkin tazminat bedeli, 1.276,03…
 
 ## İstanbul BAM 17. HD 2024/1577 K.
@@ -61,8 +59,6 @@ ayıplı mal niteliğinde olduğunu, müvekkili bakımından üretilen ürünler
 Hakkında Birleşmiş Milletler Antlaşması’nın (CISG) 49. maddesi uyarınca sözleşmeden dönme hakkı bulunan müvekkilinin, iyi niyet göstergesi olarak eser sözleşmesine konu yangına dayanıklı olarak üretilmesi gereken konteynerlerin kalitesini artırmak için uğraşmışsa da davacının konteynerlerin kalitesini artırmamak için resmen direndiğini, müvekkilinin uğraşları sonuç vermeyince, halihazırda uğradığı 254.217,71 Euro zarar da göz önünde tutulacak olursa, TBK.
 
 ## Antalya BAM 15. HD 2024/290 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078185900)
 
 Ancak alıntılanan yasa maddelerinden açıkça anlaşıldığı üzere TBK'nun 69. maddesi bir kusursuz sorumluluk haline düzenlemişken TBK'nun 308. maddesindeki sorumluluk hali kuvvetlendirilmiş bir kusur sorumluluğudur. Yani kiralayan kusuru olmadığını ispat ettiğinde sorumluluktan kurtulabilecektir.
 

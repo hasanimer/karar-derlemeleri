@@ -4,61 +4,61 @@
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Borçlar Genel Hukukuna İlişkin Emsal Kararlar",
-      "bayt": 772604,
+      "bayt": 772592,
       "dosya": "kararlar/borclar-genel.jsonl.gz",
       "kayit": 3752,
       "kod": "borclar-genel",
       "md": "md/borclar-genel/",
       "sayfa": 1112,
-      "sha256": "a05128955725def9988cb864138c21786ecfd78d1cf3335064311e9600234fed",
+      "sha256": "9a49afdceddd2134d66e866fb24cd31fd1c981b39f03a35ff935ed3a52ca797a",
       "surum": null
     },
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Özel Hukukun Temel İlkelerine İlişkin Emsal Kararlar",
-      "bayt": 173201,
+      "bayt": 173200,
       "dosya": "kararlar/temel-ilkeler.jsonl.gz",
       "kayit": 469,
       "kod": "temel-ilkeler",
       "md": "md/temel-ilkeler/",
       "sayfa": 154,
-      "sha256": "9b55a5e92bc909665ff74932ace9a40fed0b00330c0b55ef27b752e22e41459f",
+      "sha256": "2c972bb18325a544ae2cf54250e7263337f3f684bb804fed4abeeebbbca2a609",
       "surum": null
     },
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Kira Hukuku Emsal Kararlar",
-      "bayt": 5725075,
+      "bayt": 5725021,
       "dosya": "kararlar/kira.jsonl.gz",
       "kayit": 14949,
       "kod": "kira",
       "md": "md/kira/",
       "sayfa": 5668,
-      "sha256": "9fe6fb2e607d921359026d5e10a1bb7b7a5c8acfb7beefea2c22e110cd62c39b",
+      "sha256": "bd3225200811b91afb92d78910fcc8f0e9bbb2f75b742114ff4c4cd6a4925e21",
       "surum": "V7"
     },
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Adi Ortaklığa İlişkin Emsal Kararlar",
-      "bayt": 1754854,
+      "bayt": 1754862,
       "dosya": "kararlar/adi-ortaklik.jsonl.gz",
       "kayit": 2421,
       "kod": "adi-ortaklik",
       "md": "md/adi-ortaklik/",
       "sayfa": 1490,
-      "sha256": "e3941234a62681f490934b0c2e7caac5635ef06902db47d24bee11b555f97b01",
+      "sha256": "4332301bcb623b4ebb62746f27903aeb59e8fc7f4f80d0e77101cce0e5cd76b7",
       "surum": null
     },
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Arsa Payı Karşılığı İnşaat Sözleşmesi ve Kentsel Dönüşüme İlişkin Emsal Kararlar",
-      "bayt": 6025420,
+      "bayt": 6025396,
       "dosya": "kararlar/arsa-payi.jsonl.gz",
       "kayit": 7955,
       "kod": "arsa-payi",
       "md": "md/arsa-payi/",
       "sayfa": 6051,
-      "sha256": "46f61f09f3a2a68627589f9b7c5ef8aa1e4fa832a5ae261f62796b90cd44cf03",
+      "sha256": "9583f4010cd09a41b681dc24a03d774f20dc971475cf1d03dd527e6925e80151",
       "surum": null
     },
     {
@@ -76,13 +76,13 @@
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Yükleniciden Bağımsız Bölüm Satın Alanlara İlişkin Emsal Kararlar",
-      "bayt": 68008,
+      "bayt": 68007,
       "dosya": "kararlar/yukleniciden-satin-alan.jsonl.gz",
       "kayit": 191,
       "kod": "yukleniciden-satin-alan",
       "md": "md/yukleniciden-satin-alan/",
       "sayfa": 75,
-      "sha256": "59dd87cdf996c48b33058fcecf74e225d7ee2e8503ee8f6d16fe07650c11f66d",
+      "sha256": "23435119676c58e70b4115c922c056281edb048d453acc0378da66fb0ebcd1f0",
       "surum": null
     },
     {
@@ -106,7 +106,7 @@
       "kod": "cisg",
       "md": "md/cisg/",
       "sayfa": 14,
-      "sha256": "71e96cca0c1a0676d584ec4f5668405b1628e86c7cebb4d3d37084bfdf0c7cdb",
+      "sha256": "823eaf81774bf99aea53c0db9df347f9d72693adc1f050b4743894a704a5506d",
       "surum": "V1"
     },
     {
@@ -118,7 +118,7 @@
       "kod": "tapu-tescil",
       "md": "md/tapu-tescil/",
       "sayfa": 175,
-      "sha256": "415967c6f3795370069907155ebb6b3fbdbc9ca66130130299d5200c982a18b2",
+      "sha256": "a0e088b7b11db917e0500da396abd534ecd4bd2bad75d0a400f3da941c4289ea",
       "surum": null
     },
     {
@@ -160,25 +160,25 @@
     {
       "alan": "Taşınmaz ve eşya hukuku",
       "baslik": "Kat Mülkiyeti Hukukuna İlişkin Emsal Kararlar",
-      "bayt": 1655041,
+      "bayt": 1655035,
       "dosya": "kararlar/kat-mulkiyeti.jsonl.gz",
       "kayit": 5711,
       "kod": "kat-mulkiyeti",
       "md": "md/kat-mulkiyeti/",
       "sayfa": 1813,
-      "sha256": "c9adda88e062ca358dbce90de1b83ce6b8289343c6d190aa01f15a9d3ebf3a05",
+      "sha256": "5745b53785a3b3e8fc07fa09908d19ac268b45345aed88dc3811034c1631bfa3",
       "surum": null
     },
     {
       "alan": "Taşınmaz ve eşya hukuku",
       "baslik": "El Atmanın Önlenmesine İlişkin Emsal Kararlar",
-      "bayt": 3669518,
+      "bayt": 3669520,
       "dosya": "kararlar/el-atma.jsonl.gz",
       "kayit": 6290,
       "kod": "el-atma",
       "md": "md/el-atma/",
       "sayfa": 4140,
-      "sha256": "c4dc6a22847d961678e1f19f116a433451ce5e6426d8302f3e9d66844e69993b",
+      "sha256": "07d2d6c3a79449e2244ca6301836f1544268359671033743a2f0880790cc23db",
       "surum": null
     },
     {
@@ -190,7 +190,7 @@
       "kod": "ecrimisil",
       "md": "md/ecrimisil/",
       "sayfa": 1433,
-      "sha256": "213815c8446b65954fbe58c26750c79dd6f50a6942788a46cc7fcd68ee144f90",
+      "sha256": "ca01401ba23798ed5f9d4abc55e36bfa89e000b713673eaa250df0ca743da0c6",
       "surum": null
     },
     {
@@ -208,13 +208,13 @@
     {
       "alan": "Aile ve miras hukuku",
       "baslik": "Boşanma Davalarına İlişkin Emsal Kararlar",
-      "bayt": 6146634,
+      "bayt": 6146633,
       "dosya": "kararlar/bosanma.jsonl.gz",
       "kayit": 27137,
       "kod": "bosanma",
       "md": "md/bosanma/",
       "sayfa": 7566,
-      "sha256": "41d972c7db7c7ba433cca93c31869a5a970c310e80d816401f7325fa190eba33",
+      "sha256": "fba29f8b823c713d43ce42b2c052d2403b0d4bf3f00bf598b1a7cd91813c065a",
       "surum": null
     },
     {

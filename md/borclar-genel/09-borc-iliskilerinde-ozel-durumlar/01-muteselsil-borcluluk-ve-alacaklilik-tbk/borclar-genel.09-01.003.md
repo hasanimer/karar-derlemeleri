@@ -103,13 +103,9 @@ Ancak müteselsil borçluların borçtan tamamen veya kısmen kurtulabilmeleri, 
 
 ## Konya BAM 5. HD 2025/1933 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187869500)
-
 6098 sayılı Türk Borçlar Kanunu 169. maddesinde ise müteselsil alacaklılığın borçlunun, alacaklılardan her birine borcun tamamını isteme hakkını tanıdığı veya kanunun belirlediği durumlarda doğacağı borçlu, alacaklılardan birine yaptığı ifayla, bütün alacaklılara karşı borcundan kurtulmuş olacağı alacaklılardan birinin icraya veya mahkemeye başvurmuş olduğu kendisine bildirilmedikçe, borçlunun onlardan dilediği birine ifada bulunabileceği aksi kararlaştırılmadıkça veya alacaklılar arasındaki hukuki ilişkinin niteliğinden anlaşılmadıkça, alacaklılardan her birinin edim üzerindeki hakları eşit olacağı kendisine düşen paydan fazlasını elde eden alacaklının, bu fazlalığı payını alamamış olan diğer alacaklılara ödemekle yükümlü olacağı düzenlenmiştir.
 
 ## Ankara BAM 35. HD 2025/444 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134511400)
 
 Alacaklının borçlulardan biriyle yaptığı ibra anlaşması, diğer borçluları da ibra edilen borçlunun borca katılma payı oranında borçtan kurtarır (TBK 166/3). Müteselsil borçlu, alacaklıyı tatmin ettiği oranda diğer müteselsil borçlulara karşı alacaklının halefi olur (TBK 168/1) ve alacaklının hakları ona geçer. Bununla birlikte, borçlu yalnızca kendi payına düşen kısmı ödemişse, diğer müteselsil borçluya rücu edemez (Yargıtay 17. HD 28/11/2019 tarih, 2019/3589 E. ve 2019/11257 K. sayılı kararı). TBK’nın 166. md. hükmüne göre, sorumlulardan birinin zararı ödemesi halinde, diğerleri bu oranda borçtan kurtulurlar. Ancak müteselsil borçluların borçtan tamamen veya kısmen kurtulabilmeleri, alacaklının bilfiil tatmin edilmiş olması halinde söz konusudur. Bunun aksinin kabul edilebilmesi için ya alacaklının teselsülden açıkça feragat etmiş olması yahut da böyle bir feragatin durumdan kesin olarak anlaşılması lazımdır (Yargıtay 17 HD 18.03.2019 tarih, 2016/4813 E.- 2019/3090 K.).
 

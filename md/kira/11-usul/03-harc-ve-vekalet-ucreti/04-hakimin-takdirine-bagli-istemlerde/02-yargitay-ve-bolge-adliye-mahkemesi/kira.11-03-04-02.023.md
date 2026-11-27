@@ -24,8 +24,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Gaziantep BAM 17. HD 2024/896 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066822500)
-
 3.3.TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekâlet ücreti takdir edilemeyeceği yerleşik uygulama ile sabittir. (....... karar). Dosyamıza konu olayda hakkaniyet indirimi ve takdiri indirim söz konusu olmayıp mahkeme tarafından delillerin takdiri sonucu manevi tazminat talebinin kısmen kabulüne karar verilmiş olup davalı lehine vekalet ücretine hükmedilmesinde bir isabetsizlik görülmemiştir.
 
 ## Ankara BAM 35. HD 2024/1046 K.
@@ -35,8 +33,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 Bununla birlikte, TBK’nın 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirim nedeniyle davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilmeyeceği gibi, bu gerekçe ile yargılama giderleri de kabul ve ret oranına göre belirlenemeyeceği gözetilerek hüküm kurulması gerekirken mahkemece bu husus nazara alınmadan hakkaniyet indirimine bağlı olarak reddedilen kısma ilişkin davalı lehine ret vekalet ücretine ve davacı aleyhine yargılama giderlerine hükmedilmesi yerinde görülmemiştir.
 
 ## Gaziantep BAM 17. HD 2024/878 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064691800)
 
 3.2. TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekâlet ücreti takdir edilemeyeceği yerleşik uygulama ile sabittir........... Dosyaya konu olayda ilk derece mahkemesinin gerekçeli kararında davacının müterafik kusurundan ayrı olarak davacının yolcu olarak bulunduğu motosiklet sürücüsünün kazanın meydana gelmesinde % .. oranında kusurlu bulunduğu, kazanın karşı tarafının % . kusurlu bulunduğu bu nedenle davanın kısmen kabulüne karar verildiği sabittir. Yani davacı müterafik kusurlu olmasaydı dahi davanın kısmen kabulüne karar verileceği anlaşılmaktadır. Bu durumda davacının yolcu olarak bulunduğu motosiklet sürücüsünün kazanın meydana gelmesindeki kusuru nazara alınarak reddedilen miktar üzerinden davalı lehine vekalet ücretine hükmedilmesinde hatalı bir yön bulunmamıştır.
 
@@ -81,20 +77,14 @@ tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 13/2 maddes
 
 ## Antalya BAM 4. HD 2024/982 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042587000)
-
 Dosya içerisindeki bilgi ve belgelere, usule ve yasaya uygun gerektirici nedenlere, özellikle kanıtların toplanması ve değerlendirilmesinde bir usulsüzlük görülmemesine, mahkemenin ilamda yazılı şekilde ortaya koyduğu takdirine, mahkemenin değerlendirmesi ve vardığı neticede istinaf nedenleri yönüyle usul ve yasaya aykırı bir yön bulunmamasına, olayın meydana geldiği tarih, yaralanmanın derecesi, kusur durumu (davacı % 65) ve tarafların ekonomik ve sosyal durumlarına göre mahkemece hükmedilen manevi tazminatın uygun olduğu, Karayolları Trafik yönetmeliğinin 150.
 Maddesi 1/a bendine göre üç tekerlekli yük motosikletleri hariç, elektrikli bisiklet, motorlu bisiklet ve motosikletlerde sürücülerin koruma başlığı ve koruma gözlüğü, yolcuların ise koruma başlığı takmalarının zorunlu olduğu, maddeye göre davacıdan müterafik kusur indirimi yapılmasının doğru olduğu ve bu oranın % 20 uygulanmasının Yargıtay kararlarına göre yerinde olduğu ayrıca sigorta şirketi hakkında açılan manevi tazminat davasının husumetten reddedildiği bu nedenle ret sebepleri ayrı olduğundan ayrı ayrı vekalet ücretine hükmedilmesinde bir usulsüzlük bulunmadığı ancak müterafik kusur indiriminin mahkemece yapıldığı bu nedenle bu indirilen kısım bakımından davalı yararına maddi tazminat bakımından vekalet ücreti takdiri doğru olmadığının anlaşılmasına göre davacının istinaf isteminin kabulüne, davalının reddine karar verilmesi için HMK'nın 353/1-b-2 madde ve bendi uyarınca yeniden hüküm tesisi gerekir.
 
 ## Gaziantep BAM 3. HD 2024/806 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046249500)
-
 ....... maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceği ve yargılama giderleri yönünden taraflar arasında paylaştırmaya gidilemeyeceği göz önüne alınması gerekirken mahkemece toplam reddedilen miktar yönünden yargılama giderine ve vekalet ücretine hükmedilmesi hatalı olmuştur.
 
 ## İstanbul BAM 9. HD 2024/995 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054542700)
 
 Davaya konu kaza 2015 yılında meydana geldiğini ve aradan geçen 8 yılı aşkın sürede paranın alım gücü ciddi şekilde düştüğünü, hali hazırda davacılar için tayin edilen manevi tazminat bedelleri oldukça düşük kaldığını, müvekkillerin murisinin kazada hiçbir kusuru olmadığıını, Mahkeme tarafından kısmen red edilmesi, reddedilen kısma ilişkin karşı vekalet ücreti ödenmesine karar verilmesi ve bu ücretin de ödenmesi ile ellerine hiçbir şey geçmeyecek olması, hukuka, vicdana, hakkaniyete ve Yargıtay Kararlarına aykırı olup manevi tazminat taleplerin tamamının hüküm altına alınmasına karar verilmesi gerektiğini, davacılar ihtiyari dava arkadaşlığı yaptığını, işbu sebeple de her davacı için vekalet ücreti hesaplaması ayrı ayrı hesaplandığını, davacılar lehine hükmedilen karşı vekalet ücreti kanuna aykırı ve hatalı hesaplandığını, gerekçeli karar hatalı yazıldığını, Yerel Mahkeme tarafından BAM kararı gereği dosyayı ek rapora gönderdiğini ve asgari ücret üzerinden yeni bir hesaplama yapıldığını, Yerel Mahkeme tarafından bu hesaba göre davanın kısmen kabulüne karar verildiğini, her ne kadar BAM kararında davacıların murisinin asgari ücret üzerinde bir ücret ile çalıştığını ispat edemediği
 tespit edilse de bu hatalı bir tespit olduğunu, dava dosyasından birçok sendikaya müzekkere yazılarak müvekkillerin murisinin alabileceği emsal ücret araştırıldığını, Türkiye Yol-İş Sendikası ile İnşaat İşçileri Sendikaları tarafından cevap verildiğini, dava dosyasının 22.11.2017 tarihli duruşmasında dinlenen 2 tanık da dava dilekçesinde beyan edilen ücret ile benzer şekilde beyanda bulunduklarını, Çiftlik Asliye Hukuk Mahkemesinin 2017/29 Talimat sayılı dosyasından tanık ... beyanında aşağıdaki şekilde beyanda bulunduğunu, söz konusu tanık muris ile aynı işyerinde çalıştığını, söz konusu tanık işyerinde elden ödeme yapıldığını beyan ettiğini, bordroların gerçek ücreti yansıtmadığını beyan ettiğini, davacıların murisinin ücreti hakkında emsal ücret araştırması ve 3 tanık beyanı mevcut iken BAM tarafından murisin asgari ücretin üzerinde ücret aldığının ispat edilemediği şeklindeki bozma gerekçesinin mesnetsiz olduğunu, Anayasa Mahkemesi'nin iptal kararları doğrultusunda mahkemece tespit edilen emsal ücretler üzerinden karar verilmesi gerektiğini, buna rağmen asgari ücret üzerinden yapılan hesaba göre karara bağlandığını ve kararın ortadan kaldırılması gerektiğini belirterek istinaf
@@ -175,8 +165,6 @@ Cezai şarttan takdiren indirim yapılmak suretiyle takdiri indirim yapıldığ�
 
 ## Ankara BAM 26. HD 2024/481 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017917000)
-
 Mahkemece karar gerekçesinde davalılar lehine reddedilen miktar üzerinden vekalet ücreti verilmemesi gerekçesi olarak belirtilen TBK'nın 51 ve 52. Maddelerinde belirtilen yasal düzenleme belirlenen tazminat miktarından hakim tarafından takdiri indirim yapılması haline ilişkin olup, mahkemece davalılar yargılamada vekil ile temsil edildiğinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince, reddedilen miktar yönünden davalılar lehine red vekalet ücretine hükmedilmesi gerekirken TBK’nın 51 ve 52 maddeleri uyarınca takdiren reddedilen maddi tazminat miktarı yönünden davalılar lehine vekalet ücretine hükmedilmemesi doğru görülmemiştir.
 
 ## İstanbul BAM 43. HD 2024/468 K.
@@ -187,13 +175,9 @@ Maddesinde yer alan "manevi tazminat davasının, maddi tazminat veya parayla de
 
 ## Gaziantep BAM 3. HD 2024/405 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021541700)
-
 Takdiri indirim nedeniyle davanın kısmen reddi durumunda davalı lehine vekalet ücretine hükmedilemeyeceğinden, birleşen dosyada kabul edilen geçici iş göremezlik tazminatı üzerinden % 20 hakkaniyet indirimi nedeniyle davalı lehine reddedilen tutar üzerinden vekalet ücreti takdir edilmesi hatalı olmuş, ancak bu yanılgı yeniden yargılama yapılmasını gerektirmediğinden düzelterek esas hakkında yeni bir karar vermek üzere mahkeme kararının HMK'nın 353/1-b,2. maddesi gereğince kaldırılmasına karar verilmesi gerekmiştir.
 
 ## Konya BAM 3. HD 2024/544 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1010698100)
 
 TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti taktir edilemeyeceğinin gözetilmesi isabetlidir. itiraz bu yönden yersizdir…
 

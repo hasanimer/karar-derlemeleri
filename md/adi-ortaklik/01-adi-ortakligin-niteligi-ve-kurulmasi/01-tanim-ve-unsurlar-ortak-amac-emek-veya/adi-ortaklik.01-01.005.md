@@ -70,8 +70,6 @@ Adi ortaklığın sona erme sebeplerini düzenleyen TBK'nın 639. maddesinin 7. 
 
 ## Antalya BAM 7. HD 2023/766 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915774400)
-
 3.3. 6098 Sayılı Türk Borçlar Kanunu'nun 620. maddesine göre, adi ortaklığın hükmü şahsiyeti bulunmadığından taraf ehliyeti de yoktur. Bir diğer anlatımla, adi ortaklığın tüzel kişiliği olmadığından aktif ve pasif dava ehliyeti bulunmamaktadır. Bu nedenledir ki, takibin bütün ortaklar tarafından yapılması zorunludur. Taraf ehliyeti kamu düzeninden olup mahkemece kendiliğinden dikkate alınmalıdır.
 
 ## İstanbul BAM 3. HD 2023/368 K.
@@ -144,8 +142,6 @@ Dava, hizmet sözleşmesinden kaynaklı alacağın tazmini talebine ilişkindir.
 Adi ortaklık; iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir(TBK md 620/1). Diğer bir anlatımla, adi ortaklık; birbirini tanıyan, birbirlerinin kabiliyet ve şahsiyetlerine güvenen, gerçek veya tüzel kişilerin, müşterek amacın gerçekleştirilmesini sağlayacak vasıtaları (katılım paylarını) ortaklığa getirme konusunda karşılıklı ve uygun irade beyanlarının birbirine ulaşmasıyla teşkil eden bir kişi topluluğudur. Diğer taraftan, adi ortaklığın tüzelkişiliği bulunmadığından; ortaklık mamelekine ilişkin alacaklar hakkında aktif taraf ehliyeti tüm ortaklara ait olduğu gibi, üçüncü kişiler tarafından adi ortaklığa yöneltilen davanın konusu ortakların el birliği ile tasarrufta bulunabilecekleri bir edimse, el birliği ile mülkiyet ilkesi nedeniyle davanın tüm ortaklara yöneltilmesi gerekir. B.K. nun 645. Maddesinde ortaklığın sona ermesinin, üçüncü kişilere yükümlülüğü değiştirmeyeceği belirtilmektedir. Bu haliyle ortaklığı oluşturan davalıların, uyuşmazlığa konu sözleşme ile yükümlük altına girdiği açıktır.
 
 ## Ankara BAM 31. HD 2022/297 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/742158300)
 
 Dava, eser sözleşmesinden kaynaklanan itirazın iptali istemine ilişkindir.
 

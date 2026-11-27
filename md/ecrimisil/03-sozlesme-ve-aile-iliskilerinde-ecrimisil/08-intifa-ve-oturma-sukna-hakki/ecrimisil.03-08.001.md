@@ -222,8 +222,6 @@ Yani intifa hakkına sahip bulunan kimse, hayatı ile sınırlı olarak başkala
 
 ## Antalya BAM 5. HD 2021/1323 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690720400)
-
 Dava Tazminat (Kamulaştırmasız El Koymadan Kaynaklanan) davasıdır.
 
 …

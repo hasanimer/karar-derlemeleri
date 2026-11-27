@@ -116,8 +116,6 @@ Asliye Hukuk Mahkemesi' nce 2019/164 Esas sayılı dosyasında 10/09/2019 tarih,
 
 ## Konya BAM 6. HD 2021/2094 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/738694000)
-
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: ilk derece mahkemesince dosya üzerinden yapılan inceleme neticesinde talebin yargılamayı gerektirdiği, borçluların kaçmaya hazırlık yaptıklarına ilişkin sunulan bilgi ve belgelerin yaklaşık ispatı sağlamadığı gerekçesiyle talebin reddine karar verildiği görülmüştür.
 
 …

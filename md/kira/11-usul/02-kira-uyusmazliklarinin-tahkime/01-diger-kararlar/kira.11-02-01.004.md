@@ -122,8 +122,6 @@ düzenlemesine yer verilmiştir. Harcın tamamlanmaması halinde esasa ilişkin 
 
 ## Konya BAM 7. HD 2025/1582 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185293000)
-
 6100 sayılı Hukuk Muhakemeleri Kanunu'nun sulh hukuk mahkemelerinin görevi başlıklı 4/(1-a) hükmü: “Sulh hukuk mahkemeleri, dava konusunun değer veya tutarına bakılmaksızın; kiralanan taşınmazların, 9.6.1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaları görürler” şeklindedir. Asıl ve birleşen davanın, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun yürürlük tarihinden sonra 05.03.2013 (asıl) ve 20.04.2013 (birleşen) tarihlerinde açılmış olmalarına ve yukarıda belirtilen yasa hükmüne göre kira ilişkisine dayalı uyuşmazlıklarda sulh hukuk mahkemesinin görevli olmasına göre mahkemece görevsizlik kararı verilmesi gerekirken işin esasına girilerek karar verilmesi doğru görülmemiştir. ' gerekçesiyle kararın bozulmasına, ” (Yargıtay 4. HD.nin ... E., ... K. sayılı ilamı)…
 
 ## İstanbul BAM 55. HD 2025/4853 K.

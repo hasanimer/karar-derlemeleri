@@ -32,8 +32,6 @@ Yukarıda açıklanan nedenlerle her ne kadar davada Asliye Ticaret Mahkemesi ta
 
 ## Gaziantep BAM 11. HD 2025/1470 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176742700)
-
 Bu nedenle mahkemenin davacının dava dilekçesinin B-4 maddesinde yazılı olan "Davalı (kiracı) elinde bulunan;(EK:1/A Davalı .. şirketinin .. tarih .. yevmiye numaralı . . Noterliğinden gönderilen ihtarname cevabı.
 Bu cevapla davaya konu menkul malların davalı elinde bulunduğunu ispatlar.) 1-6 Adet tavan kliması, 2-Klima ana motoru, 3-Demir trafo direği, 4-Trafo, Gaz hattı, 5-Kanal Açma Makinası, 6-Mikser Makinası, 7-Demir Boru, 8-Buhar Kazanı (Polsan) 9-Su deposu, 10- 2 adet giriş karşılama mobilya takımı, 11-Mutfak dolapları, mutfak için gerekli yemek masaları ve sandalyeleri, 12- Müdür odası (makam) tam takımı (makam koltuğu, misafir koltuğu, masa, sehpa, kitaplık, bilgisayar masası), 13- 3 adet muhasebe ofis mobilyaları( her bir odada 1 adet çalışma masası ve koltuğu ile 2 şer kişilik misafir koltuğu ve sehpası, her odada ayrı ayrı bilgisayar masası), 14- Blok Kesme Makinası, 15- Blok Makinası, 16- Şişirme Makinası, 17- Geri Dönüşüm Makinası, 18- Jeneratör, 19- 30 adet Hammade Silosu, 31- VRF Isıtma ve Soğutma Sistemleri Dış Ünitesi, 32- Bay bayan soyunma kabinleri, 33- Yemekhane tüm malzemeleri, 34- Arge Oda Çalışma Teçhizatları.) sağlam ve çalışır halde teslim edilen menkullerin çalışır durumda aynen teslimi, aynen teslimi mümkün değilse güncel fiyatlarının tespiti ile bedellerinin; şimdilik ..
 (Fazlaya ilişkin haklarımız saklı kalmak kaydıyla) belirsiz alacak davamızın kabulü ve ticari faiziyle birlikte ödenmesini," talebi yönünden 6100 sayılı HMK m. 167'ye göre tefrik kararı vererek sulh hukuk mahkemesine görevsizlik kararı vermesi; her iki davalı yönünden talep ettiği sigorta tazminatı talepleri yönünden ise davanın esasına girerek sonuçlandırması
@@ -83,8 +81,6 @@ Anayasanın 36. maddesi ile düzenlenen iddia ve savunma hakkının kullanılmas
 
 ## Antalya BAM 6. HD 2025/1599 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170982200)
-
 Somut olayda; taraflar arasındaki uyuşmazlık ve ihtiyati haciz talebi, kira ilişkisinden doğduğuna göre; davaya bakma görevi sulh hukuk mahkemesindedir. Mahkemece, Sulh Hukuk Mahkemesi görevli olduğundan ilk derece mahkemesince görevsizlik nedeniyle, HMK.'nun 114-(1)-c) ve 115-(2) maddeleri uyarınca; talebin usulden reddine karar verilmesi gerekirken, bu yön gözardı edilerek yazılı şekilde davanın esası hakkında hüküm kurulması usul ve yasaya aykırı olduğundan davacı vekilinin istinaf istemi yerinde görülmüştür.
 
 ## Sakarya BAM 14. HD 2025/93 K.
@@ -119,8 +115,6 @@ doğrultusunda kullanıldığının tespitinde yeterli araştırma ve inceleme y
 ...
 
 ## Denizli BAM 1. HD 2025/1298 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171693300)
 
 Davacı kurum tarafından iş yerinin 01/01/2022 ile 31/12/2022 tarihleri arası işgal tazminatı 540.000.TL olarak belirlenerek davalı tarafından yapılan ödemeler düşüldükten sonra 457.231,99.TL asıl alacak, 28.957,87.TL gecikme zammı ile birlikte toplam 486.189,86.TL üzerinden icra takibi yapılmış, yapılan keşif sonucu alınan bilirkişi raporunda emsal karşılaştırması yapılarak dava konusu taşınmazın bulunduğu mahallede aylık kira değeri (Nisan 2020) 25.000.TL olarak belirlenmiş, 01/01/2022 başlangıç, 31/12/2022 bitiş tarihli 12 ay için aylık 25.000.TL’den yıllık bedelin 300.000.TL olarak hesaplanmış, yapılan itirazlar üzerine herhangi bir hata olmadığını belirtir rapor düzenlenmiştir. Yerel mahkemece, davalının kira sözleşmesinin süresi bitmesine rağmen taşınmazı haksız olarak işgal ettiği, ecrimisil ödemesi gerektiği, ecrimisil ihtarnameleri ile davalının temerrüde düştüğü nazara alınarak, gecikme zammı mahkemece res’en hesaplanarak davanın 300.000.TL asıl alacak ve 18.999,89.TL gecikme zammı üzerinden devamına fazlaya ilişkin talebin reddine karar verilmiş ise de verilen kararın isabetli olduğu söylenemez.
 Şöyle ki, dava konusu taşınmazın 3 yıllık kira sözleşmesi ile 09/06/2016 tarihinde davalı şirkete teslim edildiği, haksız işgalin başladığı ilk dönem belirlendikten sonra ecrimisil hesabı yapılması gerektiği, yapılan araştırmada ... Hukuk Mahkemesinin ... Esas, ... Karar sayılı ilamı ile 3 yıllık sürenin 09/06/2019 tarihinde dolduğu, bu tarihten sonra davalı kiracının fuzuli şagil durumuna düştüğü gerekçesiyle tahliyesine karar verildiği, söz konusu karara karşı yapılan istinaf başvurusunun ....HD.nin .... Karar sayılı ilamı ile esastan reddine kesin olarak karar verildiği, yine .... Asliye Ticaret Mahkemesinin .... Esas, ... Karar sayılı dosyasında aynı taşınmazla ilgili 30/04/2020 ile 28/08/2020 tarihleri arasındaki ecrimisil alacağın tahsili için yapılan takibe itiraz üzerine açılan itirazın iptali davasında verilen görevsizlik kararı üzerine istinaf başvurusunu inceleyen ....HD.nin ....Esas, ....

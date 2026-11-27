@@ -148,8 +148,6 @@ Yargılama sırasında alınan ve bilirkişi ... tarafından düzenlenen raporda
 
 ## Konya BAM 6. HD 2023/2341 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990378000)
-
 Davalı banka tarafından ipoteğin fekki talebinin reddine gerekçe olarak dava dışı....'nun davalı bankaya olan kredi kartı borcunun devam etmesi gösterildiği, ipotek senedine göre dava konusu ipoteğin ise davacı şirketin, davalı bankaya karşı asaleten ve kefaleten borçlarından dolayı verildiği, ipoteğin devamının davacı şirketin davalıya karşı borçlu veya kefil olarak borcunun bulunup bulunmamasına bağlı olduğu, davacı şirketin kredi borcunun Aralık 2017 tarihinde sona erdiği, taşınmaz üzerindeki ipoteğin ise 19.03.2018 tarihinde kaldırıldığı, bu durumda taşınmaz üzerindeki ipoteğin geç kaldırıldığı hususu sabit ise de; ipotek konulan taşınmazın dava dışı ....'na ait olduğu, taşınmazın, davacı şirketin, 03.07.2015 tarihli genel kredi sözleşmesi kapsamında davalı bankadan kullandığı kredinin teminatı olarak verildiği, davacı şirket ile dava dışı... A.Ş. arasında yapılan 03.01.2018 tarihli araç kiralama sözleşmesinin 4.
 Maddesinde davacı tarafından verilecek teminatlar düzenlemiş ise de, davaya konu edilen ve dava dışı ....'na ait taşınmazın bu kapsamda teminat olarak gösterileceğine dair bir hüküm bulunmadığı, üzerinde ipotek bulunan taşınmazın malikinin davacı şirket olmadığı, dairemizce ilgili tapu müdürlüğünden celp edilen ipotek belgesi eki vekaletnamede, vekil eden ....'nun, ...'nu, kendisi adına ve vekil.... adına alınacak krediler ve doğacak borçları nedeniyle, kendisi adına kayıtlı taşınmazlar
 

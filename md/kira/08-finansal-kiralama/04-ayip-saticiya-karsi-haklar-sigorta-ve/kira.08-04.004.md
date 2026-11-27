@@ -88,8 +88,6 @@ ve hukuki işlemi, m) Tüketici örgütleri: Tüketicinin korunması amacıyla k
 
 ## Antalya BAM 16. HD 2024/376 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102290800)
-
 Somut olayda; kusur oranının kesin olarak tespiti zarar dağılımı yönünden önem taşımaktadır. Bu nedenle İş Mahkemesi dava dosyasında , ceza dava dosyasında alınan tüm bilirkişi kusur raporları da celp edilip, hep birlikte değerlendirilerek kusur oran ve aidiyetinin belirlenmesi ve aralarındaki çelişkinin giderilmesi yönünde başka bir bilirkişi heyetinden yeniden kusur raporu aldırılması, hasar bedelinin denetime olanak sağlayacak şekilde tespit edildikten sonra karar verilmesi gerekirken denetime açık olmayan bilirkişi heyet raporunun hükme esas alınması, iş makinesinin kaza tarihinde finansal kiralama sözleşmesi ile davacı uhdesinde bulunduğu iddia edilmekle, ilgili finansal kiralama sözleşmesinin de dosyaya celp edilmemesi, bu sözleşmenin davacının husumet ehliyetini etkileyip etkilemediğinin gerekçeli kararda tartışılmaması hatalı olmuş olup ilk derece mahkemesince belirtilen eksiklikler giderildikten sonra neticesine göre bir karar verilmesi gerekmektedir.
 
 ## İstanbul BAM 45. HD 2024/1485 K.
@@ -145,13 +143,9 @@ Kural olarak, kiracı kendisine finansal kiralama şirketi tarafından yetki ver
 
 ## Bursa BAM 5. HD 2024/1371 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151091300)
-
 Bu itibarla, talep eden satıcının ticari satıma konu ettiği makineler yönünden satışa izin verilebilmesi için alıcının temerrüde düşürülmesi gerekmektedir. Satışa konu makinelerin feshedilen finansal kiralama konusu fabrikada bulunduğu anlaşılmaktadır. Öte yandan, müflis (kiracı) şirket ile alıcı şirketin ortaklık yapısının benzeştiği, alıcı şirket ortaklarının müflis şirket ortağı ve kızı olduğu, müflis şirketle satıcı arasında feshedilen finansal kiralama sözleşmesinden kaynaklı borca yönelik davanın derdest olduğu anlaşılmaktadır. Hal böyle olunca, belirtilen olgular nedeniyle makinelerin bulunduğu yer bakımından teslime dair temerrüdün henüz gerçekleşmediğinin anlaşılması karşısında satışa izin koşulunun sağlanmadığı dolayısıyla mahkemece satışa izin talebinin reddine karar verilmesinde bir isabetsizlik bulunmadığı değerlendirilmiştir.
 
 ## Bursa BAM 5. HD 2024/1365 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151089500)
 
 Bu itibarla, talep eden satıcının ticari satıma konu ettiği makineler yönünden satışa izin verilebilmesi için alıcın temerrüte düşürülmesi gerekmektedir. Satışa konu makinelerin feshedilen finansal kiralama konusu fabrikada bulunduğu anlaşılmaktadır. Öte yandan,
 
@@ -159,13 +153,9 @@ müflis (kiracı) şirket ile alıcı şirketin ortaklık yapısının benzeşti
 
 ## Bursa BAM 5. HD 2024/1364 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151089100)
-
 Bu itibarla, talep eden satıcının ticari satıma konu ettiği makineler yönünden satışa izin verilebilmesi için alıcın temerrüte düşürülmesi gerekmektedir. Satışa konu makinelerin feshedilen finansal kiralama konusu fabrikada bulunduğu anlaşılmaktadır. Öte yandan, müflis (kiracı) şirket ile alıcı şirketin ortaklık yapısının benzeştiği, alıcı şirket ortaklarının müflis şirket ortağı ve kızı olduğu, müflis şirketle satıcı arasında feshedilen finansal kiralama sözleşmesinden kaynaklı borca yönelik davanın derdest olduğu anlaşılmaktadır. Hal böyle olunca, belirtilen olgular nedeniyle makinelerin bulunduğu yer bakımından teslime dair temerrüdün henüz gerçekleşmediğinin anlaşılması karşısında satışa izin koşulunun sağlanmadığı dolayısıyla mahkemece satışa izin talebinin reddine karar verilmesinde bir isabetsizlik bulunmadığı değerlendirilmiştir.
 
 ## Bursa BAM 5. HD 2024/1009 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148873800)
 
 Somut olayda; davacı, davalıdan leasing yolu ile satın alınan sebze kesme makinesinin üretimden kaynaklı ayıp içermesi sebebiyle TBK'nın 227 maddesi kapsamında düzenlenen sözleşmeden dönme suretiyle makinenin iadesi ve bedelin tahsiline karar verilmesini talep etmiş olup, davaya konu makinenin ayıplı olup olmadığı yargılama konusunu oluşturmaktadır. Davaya konu makine davacı yedinde bulunmaktadır. Hal böyle olunca, makinenin teslimi ile birlikte bedelin istenebilir hale geleceğinden muaccel bir alacak koşulunun gerçekleşmediği, öte yandan, davacı tarafından davalının İİK'nın 257/2 maddesi kapsamındaki koşullarının iddia ve ispat edilememesi karşısında mahkemece verilen kararın isabetli olduğu, davacı istinaf sebeplerinin yerinde olmadığı değerlendirilmiştir.
 

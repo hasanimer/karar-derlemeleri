@@ -282,6 +282,4 @@ Borcun kaynaklarından biri olarak öngörülen sebepsiz zenginleşme, mülga 81
 
 ## Antalya BAM 4. HD 2021/2293 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716712100)
-
 Sebepsiz zenginleşmenin şartları; borçlunun mal varlığından bir zenginleşmenin meydana gelmesi, bu zenginleşmenin bir başkasının emeğinden yahut mal varlığından kaynaklanması, illiyet bağı ve söz konusu zenginleşmenin haklı bir sebebe dayanmamasıdır. Özellikle TBK'nın 77/II madde ve bendinde vurgulandığı üzere, zenginleşmenin geçerli olmayan veya gerçekleşmemiş ya da sona ermiş bir sebebe dayanması halinde haksız olduğu meydandadır. Yine kurulmamış, eksik kurulmuş, geçersiz hukuki nedene dayalı yahut hukuki sebebi sona ermiş kazandırmaların da "sebepsiz zenginleşme" oldukları aşikardır.

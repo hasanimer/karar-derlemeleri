@@ -48,8 +48,6 @@ Ankara Batı Asliye Ticaret Mahkemesi'nin 05/10/2022 tarih 2022/678 Esas 2022/85
 
 ## Erzurum BAM 1. HD 2025/956 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152872200)
-
 Davacı Vekili İddia ve Beyanlarında Özetle; müvekkili arsa sahibi ile davalı yüklenici arasında 03.04.2017 tarihinde kat karşılığı inşaat ve gayrimenkul sözleşmesi akdedildiğini, bu sözleşmeye göre davalı yüklenicinin, müvekkiline ait ... ili, ... ilçesi, ...
 
 …
@@ -84,8 +82,6 @@ gerçekleştiği ve nasıl söndürüldüğüne dair bir belge bulunmadığı, H
 H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere;1-Davalı tarafın istinaf başvurusunun 6100 sayılı HMK'nın 353/1.b.1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Denizli BAM 4. HD 2025/723 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150453400)
 
 Davacı vekili dava dilekçesinde; davalı şirket yetkilisi davalı ...'ın şirket menfaati aleyhine işlemler yapması, şirkete ait daireleri çeşitli yollarla devir çabası içinde olması ve şirketi de gerçek olmayan şekilde borçlandırma ve şirket içini boşaltma ihtimali de bulunmakla Davalı ....'ın TTK 636/3 gereği şirketin feshini talep etme ve bu süreçte şirket malvarlığının zarar görmemesi için TTK 636/4 gereği şirkete tedbiren yönetim kayyımı atanmasına, mümkün olmaması halinde davalı ....'ın tapuda, noterliklerde şirket adına alım-satım, devir işlemi yapma yetkisinin tedbiren kısıtlanmasına ve bu işlerin hakimin iznine bağlanmasına, ....Siciline ....no ile kayıtlı ....Tic. Ltd.
 

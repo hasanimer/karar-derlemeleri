@@ -92,8 +92,6 @@ Vekalet ücretine ilişkin olarak ise, 6100 sayılı HMK'nın 326/2 maddesinde; 
 
 ## Konya BAM 3. HD 2026/108 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192995200)
-
 Bu durumda eldeki dosya açısından iptal hükmü derdest dosyada uygulanması zorunlu olup bu haliyle reddolan manevi tazminat miktarı açısından davalı lehine vekalet ücreti taktir edilmeycektir.Bu husus dikkate alınarak karar verilmelidir. Davacının istinafı bu açıdan yerindedir.
 
 ## Ankara BAM 35. HD 2026/161 K.
@@ -137,14 +135,10 @@ yönünde yeniden karar verilmesi gerektiği kanaat ve sonucuna varılarak aşa�
 
 ## Gaziantep BAM 3. HD 2025/1689 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191399000)
-
 Dairemizin...sayılı ilamında özetle; "... .. sayılı HMK'nın 266 ve devamı maddeleri gereğince çözümü özel veya teknik bilgiyi gerektiren hallerde bilirkişinin oy ve görüşünün alınmasına karar verileceği hükmüne yer verilmiştir. Trafik kazalarında kusur durumunun belirlenmesi uzmanlığı gerektiren konulardandır. Eldeki davada mahkemece kusur durumlarının belirlenmesi yönünden oransal bilirkişi incelemesi yaptırılmamış olup, dosyadaki kusur raporu hüküm kurmak için yeterli değildir. Bu durumda mahkemece ATK, .. veya .. Genel Müdürlüğü gibi kurumlardan seçilecek uzman bilirkişi kurulundan kaza tespit tutanağı, ceza dosyası ve önceki kusur raporlarını irdeleyen, tarafların olaydaki kusur oranlarını hiçbir duraksamaya yer vermeyecek şekilde ortaya koyan gerekçeli ve denetime açık rapor aldırılarak sonucuna göre karar verilmesi gerekirken eksik inceleme ile hüküm kurulması doğru görülmemiştir. Kaza tarihinde yürürlükte olan "Maluliyet Tespiti İşlemleri Yönetmeliği"'ne göre maluliyet raporu alınması gerekirken bu yönetmelik yerine “Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliği"'ne göre rapor düzenlenmesi hatalı olmuştur.
 TBK'nın 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, takdiri indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyecektir. Yasadan kaynaklanan takdiri indirim bulunmamasına rağmen, reddedilen kısım yönünden, davalı lehine vekalet ücretine hükmedilmemesi de isabetsiz olmuş, açıklanan nedenlerle davalı vekilinin istinaf itirazının kabulü ile HMK'nın 353/1-a,6 maddesi uyarınca mahkeme kararının kaldırılmasına..." karar verilmiştir.
 
 ## Antalya BAM 14. HD 2025/1224 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191174500)
 
 Diğer taraftan, Kanun koyucu, hatır için taşıma veya araç tesliminde, işletenin sorumluluğunu genel hükümlere tabi tutmuştur. Bu nedenle, her olayda hakim hatır işinin özelliğini göz önünde tutarak işleteni tamamen sorumluluktan kurtarabileceği gibi, bunu bir indirim sebebi sayarak kısmi bir tazminata da hükmedebilir.
 Bu nedenle KTK'nın 87/1 maddesinde düzenlenen hatır taşımacılığının hukuki niteliği bir def'i niteliğinde bulunmakla davalı sigorta şirketi tarafından ise süresi içerisinde hatır def'inde bulunulduğu, ilk derece mahkemesince davacının kazaya karışan araçta hatır için taşındığı kabul edilerek davacının ıslah ettiği dava değeri ve davalı sigorta şirketinin bakiye kalan limit miktarı üzerinden %20 oranında hatır taşıması indirimi yapıldığı ve bu kısım yönünden davanın kısmen kabulüne karar verildiği sabit olup, hatır taşımasına bağlı olarak ilk derece mahkemesince maddi tazminat miktarından yapılan indirim sonucu belirlenen tazminat tutarı hüküm altına alınırken TBK'nın 51. ve KTK 81. maddesi uyarınca yapılan hakkaniyet ve takdiri indirim kapsamında reddedilen kısım yönünden davalı yararına vekalet ücreti takdir edilmemesi ve yargılama giderlerinin davalı üzerinde bırakılması gerekirken hatır taşıması nedeniyle reddedilen kısım için ilk derece mahkemesince davalı yararına vekalet ücretine hükmedilerek yargılama giderlerinin kabul ve reddedilen dava değeri üzerinden oranlama yapılarak bir kısmının davacı üzerinde bırakılmış olması doğru görülmemiştir.

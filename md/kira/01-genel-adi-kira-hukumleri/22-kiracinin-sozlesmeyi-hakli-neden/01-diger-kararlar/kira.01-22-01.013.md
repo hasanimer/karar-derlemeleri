@@ -166,8 +166,6 @@ Hükme esas alınan bilirkişi raporunda, davacının emsal bir iş bulması iç
 
 ## İzmir BAM 4. HD 2025/2507 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184430400)
-
 Trafik kazalarında araç mahrumiyeti nedeniyle zarar belirlenirken aracın hasar durumuna göre onarımı için gereken makul sürenin belirlenmesi ve belirlenen bu süre üzerinden zarar hesabının yapılması gerekir. Bu hesaplama ise çözümü hukuk dışında özel ve teknik bilgiyi gerektiren bir husus olup mahkemece bilirkişi görüşüne başvurulmalıdır. Mahkemece alınan bilirkişi raporunda davacının aracının onarımı için gereken makul süre 20 gün olarak belirlenmiştir. Hâkim, bilirkişi raporunda yazılı olan özel veya teknik açıklamalardan bilirkişi raporunda varılan sonucun yanlış olduğunu takdir edebilecek derecede bilgi sahibi olduğu kanısına varabiliyorsa yeni bir bilirkişi incelemesi yaptırmadan, bilirkişi raporunun aksine de karar verebilir. Aracın geç onarıma verilmesi, servis yoğunluğu, parça temininde gecikme nedeniyle onarımda geçen süre, aracın kiralayana geç teslim edilmesi vb. hususlar davalıya yüklenemez. (Yargıtay 4. Hukuk Dairesi'nin 2020/1587, :2020/4597 esas karar sayılı ilamı )…
 
 ## İstanbul BAM 15. HD 2025/1374 K.

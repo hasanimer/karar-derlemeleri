@@ -22,8 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Denizli BAM 4. HD 2026/21 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187013600)
-
 Somut olayda; dosya kapsamında taraflar arasındaki adi ortaklık ilişkisine dair yazılı bir sözleşme ibraz edilmediği; davacının adi ortaklıktan kaynaklı alacağını icra yolu ile talebi ve itiraz üzerine itirazın iptali davası açmasının fesih iradesi olarak değerlendirildiği ve re'sen tasfiye memuru atanmasına karar verildiği, Yerel Mahkemenin bu yöndeki değerlendirmesinde isabetsizlik bulunmadığı; mahkemece tasfiye için tarafların mutabık olarak bir tasfiye memuru bildirmemeleri üzerine resen bir tasfiye memuru atandığı, tasfiye memuru tarafından 4 adet ara rapor, 1 adet de nihai rapor sunulduğu; fakat tasfiye memurunca yapılan işlerin ve sunulan nihai raporun uyuşmazlığı çözecek nitelikte olmadığı, tasfiye memurunca sunulan 23/09/2024 tarihli nihai raporda taraflar arasındaki alacak-borç durumlarının net olarak bilirkişilerce tespit edilememiş olması ve her iki dosya içeriğinin çok yoğun ve karmaşık olmasından dolayı adi ortaklığın tasfiye işlemlerinin sonuçlandırılamadığının belirtildiği anlaşılmaktadır.
 
 O halde, mahkemece öncelikle, 23/09/2024 tarihli tasfiye memuru raporunun sonuç kısmında belirtilen hususlarda çerçevenin çizilmesi için taraflar arasındaki adi ortaklığın sınırları ve şartlarına, taraflar arasındaki ortaklığa konu edilen ihale ve işlerin nelerden ibaret olduğuna ve hangi kurumlar ile yapıldığına, hangi işteki tahsilatın hangi ortak tarafından yapıldığına, ortakların yaptıkları işten elde edilen kazançtan hangi oranda pay alacağına, ortakların her bir işteki katkısının çeşidi ve miktarına ilişkin HMK 31. Maddesi anlamında taraflara, açıklama yapılması ve varsa delillerini sunmaları imkanı verilerek;
@@ -43,8 +41,6 @@ AŞ vekilinin, icra inkâr tazminatına ilişkin istinaf başvurusunun değerlen
 İstinaf incelemesi istinaf sebepleriyle sınırlı yapılmış olup asıl davada davalı vekilinin, açıkça bu hususu istinaf konusu etmediği dikkate alınarak ve icra inkâr tazminatı konusu kamu düzenine de ilişkin olmadığından, asıl davada icra inkâr tazminatı bakımından bir düzeltme yapılmamıştır.
 
 ## Denizli BAM 4. HD 2025/2069 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184180700)
 
 Bu durumda yerel mahkemece adi ortaklık ilişkisinin var olduğu kabul edilerek adi ortağın tek başına dava açamayacağı gerekçesi ile aktif husumet yokluğundan reddedilen iş bu davada, davacı ... ile dava dışı .... arasında adi ortaklık ilişkisinin bulunup bulunmadığı bir ön sorun olarak görülerek, ....Asliye Hukuk Mahkemesinin (Asliye Ticaret Mahkemesi Sıfatı İle) derdest olan .... Esas sayılı dava dosyası ile iş bu dosyanın aralarında fiili ve hukuki irtibat bulunması ve aynı sözleşmeden kaynaklanması nedeni ile birleştirilmesi ve iddia edilen adi ortaklık hususunun ve buna bağlı olarak davacının aktif husumet ehliyetinin bulunup bulunmadığı hususunun her iki dava dosyası incelenerek irdelenmesi gerekir iken, yazılı şekilde karar verilmesi isabetsiz olmuştur.
 

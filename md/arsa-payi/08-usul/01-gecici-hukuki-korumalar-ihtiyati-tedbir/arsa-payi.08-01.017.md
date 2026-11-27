@@ -102,8 +102,6 @@ Alacağının vadesi henüz gelmemişse (alacak müeccel ise), alacaklı kural o
 
 ## Konya BAM 5. HD 2022/521 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/750702500)
-
 İlk derece mahkemesinin 18.01.2022 tarihli ara kararında; "İhtiyati haczin kaldırılmasını isteyen taraf, vadesi gelmiş bir para borcunun bulunmadığını, 03/03/2016 tarihli devir ve ibra sözleşmesi doğrultusunda davacının, davalı kooperatiften hiç bir hak ve alacağının olmadığını bu nedenlerle ihtiyati haciz kararının kaldırılmasını talep etmiş olup, mahkememizce verilen ihtiyati haciz kararında bir isabetsizlik bulunmadığından ve ihtiyati hacze itiraz dayanağının İİK.'nın 265. maddesi kapsamı dahilinde olmadığı," gerekçesiyle davalı SS Ens-San (Endüstri Sanayii) Konya Küçük Sanayi Dükkanları Sitesi Yapı Kooperatif vekilinini ihtiyati hacze itirazının reddine karar verilmiştir.
 
 ## İstanbul BAM 15. HD 2022/419 K.

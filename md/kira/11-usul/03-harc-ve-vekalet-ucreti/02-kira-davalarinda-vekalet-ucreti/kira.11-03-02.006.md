@@ -46,8 +46,6 @@ Dava konusu rehne muhalefet eden şirket yetkilisinin HMK'nın 398. maddesi gere
 
 ## Antalya BAM 4. HD 2022/1722 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840302500)
-
 Davalı ... Şirketi lehine hükmedilen vekalet ücreti yönünden; anılan davalı şirket, kaza tarihinde aracın kayıt maliki olup, davacı yan buna dayanarak davayı ona da yöneltmiş, ancak davalı ... Şirketi tarafından sunulan cevap dilekçesi ve ekleriyle aracın uzun süreli olarak ihbar olunan şirkete kiraya verildiği anlaşılmıştır. Bu kira ilişkisini bilmesi davacıdan beklenemeyeceğinden, kayıt malikini işleten olarak kabul edip davasını ona yöneltmesi mazur görülerek aleyhine vekalet ücretine hükmedilmemesi gerekirken, yanılgılı şekilde vekalet ücreti takdiri hatalı olmuştur. Davacı vekilinin bu yöne ilişen itirazları da yerindedir.
 
 ## Kayseri BAM 6. HD 2022/1832 K.

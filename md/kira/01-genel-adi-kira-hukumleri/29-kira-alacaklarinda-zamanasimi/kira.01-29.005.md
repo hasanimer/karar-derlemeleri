@@ -92,8 +92,6 @@ Açıklanan tüm bu hukuki ve maddi vakıalar karşısında; hükme esas alınan
 
 ## Antalya BAM 11. HD 2022/1192 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813556500)
-
 Davacı 2015 yılında hasat edilen narların soğuk hava deposunda saklanması konusunda sözleşme yapmıştır. Sözleşme başlığında kira sözleşmesi yazılsa da içeriğine göre bu sözleşmenin vedia sözleşmesi olduğu anlaşılmıştır. Sözleşme saklama (vedia) sözleşmesi niteliğinde olmakla TBK'nın 146. maddesine göre 10 yıllık zamanaşımı süresine tabidir. (Y. 17. H.D 2018/5730 Esas 2018/12574 Karar sayılı ilamı). Dava zamanaşımı süresi içerisinde açıldığından davalının zamanaşımı itirazı yerinde değildir.
 
 ## Sakarya BAM 5. HD 2022/999 K.

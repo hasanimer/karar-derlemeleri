@@ -191,8 +191,6 @@ Somut olayda; haksız elatmanın önlenmesi, 4721 sayılı TMK'nın 683. ve 995.
 
 ## Denizli BAM 1. HD 2025/299 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126607100)
-
 Davacı şirket vekili dava dilekçesinde özetle; davacının,....,... İlçesi, ....
 
 …

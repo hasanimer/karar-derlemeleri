@@ -240,8 +240,6 @@ Türk Medeni Kanununun 166/4. maddesi gereğince boşanma kararı verilebilmesi 
 
 ## Konya BAM 6. HD 2026/39 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194790700)
-
 Esasında birden fazla davanın birleştirilebilmesi için kanun, davalar arasında bağlantı olmasından söz etmiştir. Diğer bir ifadeyle, davalar ister aynı yargı çevresinde ister ayrı yargı çevresinde olsun birleştirilebilmesi için aralarında bağlantı olması gerekir. Kanun aynı maddenin dördüncü fıkrasında ise bağlantı kavramından ne anlaşılması gerektiğini belirtmiştir. HMK m.166/4’e göre, davaların aynı veya birbirine benzer sebeplerden doğması ya da biri hakkında verilecek hükmün diğerini etkileyecek nitelikte olması durumunda bağlantı varsayılır.
 
 ## Ankara BAM 35. HD 2022/116 K.

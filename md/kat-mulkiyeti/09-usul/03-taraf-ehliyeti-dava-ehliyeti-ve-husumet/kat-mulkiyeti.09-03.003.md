@@ -229,8 +229,6 @@ iş ortaklığını oluşturan her üç şirket tarafından tayin edilen vekilin
 
 ## Bursa BAM 14. HD 2025/1077 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156921600)
-
 Somut olayda, davacı tarafça dava konusu kat karşılığı inşaat sözleşmesinde taraf olan tüm arsa maliklerinin davanın niteliği gereği davada taraf olarak gösterilmemesi yerinde görülmemekle birlikte, inşaatın projesindeki eksiklik oranı ve yüklenici ile arsa malikleri arasındaki kat karşılığı inşaat sözleşmesinin geriye etkili feshine karar verilmesi ve söz konusu kararın kesinleşmesi dikkate alındığında davacının temlik hükümlerine göre arsa maliklerinden tapu tescil talep edemeyeceği açıktır. Dosya içerisinde mevcut tapu kaydına göre de dava konusu bağımsız bölümün davalı arsa maliki adına kayıtlı olmadığı, dava dışı ... adına kayıtlı olduğu da anlaşılmıştır.
 Bu durumda tapu iptali talep edilen bağımsız bölümün davalılar adına kayıtlı olmaması, dava dışı üçüncü kişi adına kayıtlı olması, davacı tarafça sözleşme kapsamında davalıya ödenen bedelin davalılardan iadesinin istenemeyecek olması nedeni ile davalılara husumet yöneltilemeyeceğinden; tapu iptal tescil isteminin reddine ve davacı tarafın bedel talebine ilişkin terditli talebinin davalı yüklenici yönünden kabulü ile davalı arsa maliki mirasçıları yönünden pasif husumet yokluğundan davanın reddine karar verilmesi gerektiğinden mahkemenin gerekçesi belirtilen nedenlerle yerinde görülmemiştir (Yargıtay 6.H.D.'nin 2021/3243 E.2022/505 K.,).
 

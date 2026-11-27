@@ -317,6 +317,4 @@ Bu durumda 4721 sayılı Türk Medeni Kanununun 336. maddesi gereğince, velayet
 
 ## Ankara BAM 26. HD 2021/2173 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706610200)
-
 Diğer taraftan, 6100 sayılı Hukuk Muhakemeleri Kanununun 50. maddesinde, medenî haklardan yararlanma ehliyetine sahip olanın, davada taraf ehliyetine de sahip olduğu, 51. maddesinde, dava ehliyetinin, medenî hakları kullanma ehliyetine göre belirleneceği, medeni hakları kullanma ehliyetine sahip olmayanların davada yasal temsilcileri tarafından temsil edileceği, 114. maddesinde, tarafların dava ehliyetine sahip olmaları, dava koşulları arasında sayılmış, 115. maddesinde, mahkemenin, dava koşullarının var olup olmadığını, davanın her aşamasında kendiliğinden araştıracağı, dava koşulu eksikliğini belirleyen mahkemenin davanın usulden reddine karar vereceği, ancak, eksikliğin giderilmesi olanaklı ise bunun tamamlanması için kesin süre vereceği, bu süre içinde eksiklik giderilmemişse davayı usulden reddedeceği, 4721 sayılı TMK 335.maddesinde, ergin olmayan çocuk, ana ve babasının velayeti altında olacağı, yasal sebep olmadıkça velayet ana ve babadan alınamayacağı, "çocuğun temsil edilmesi " başlıklı 342. maddesi uyarınca da ana ve babanın, üçüncü kişilere karşı çocuklarının yasal temsilcisi olduğu bildirilmiştir.

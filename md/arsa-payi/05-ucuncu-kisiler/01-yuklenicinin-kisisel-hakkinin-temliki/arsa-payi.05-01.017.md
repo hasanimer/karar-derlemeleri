@@ -22,8 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Erzurum BAM 1. HD 2025/754 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1147284900)
-
 Davalı ...Eğitim ve Danışmanlık A.Ş vekili cevap dilekçesinde özetle; Davacının yüklenici olduğunu, diğer davalı... İnşaat ile aralarında akdedilen yüklenici sözleşmesine dayandığını, davacının müvekkilinden talep edebileceği hiçbir alacak kaleminin mevcut olmadığını, husumet itirazında bulunduklarını, dava dilekçesinde müvekkili ile...
 
 …
@@ -45,8 +43,6 @@ Ancak TBK’nun 188. maddesinde “Borçlu, devri öğrendiği sırada devredene
 Davacı vekilinin ve davalı ...'ın Erzurum Asliye Ticaret Mahkemesi'nin 2022/231 Esas - 2023/218 Karar sayılı kararına karşı yaptığı istinaf başvurusunun, HMK’nın 353-(1)/...-1 maddesi gereğince ESASTAN REDDİNE …
 
 ## Denizli BAM 4. HD 2025/79 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109997900)
 
 Somut olayda; davacı, dava dışı arsa sahibinden devraldığı alacağa ilişkin olarak, davalı yükleniciye karşı dava açmıştır. Kural olarak, sözleşmeden kaynaklanan bir talep ancak sözleşmenin taraflarınca karşılıklı ileri sürülebilir. Ancak, arsa payı karşılığı inşaat sözleşmesi ile yapılan binada üçüncü kişilerin bağımsız bölümleri arsa sahibinden veya yükleniciden ya da bu kişilerin sattığı kişilerden tapuda devralmaları mümkündür. Bu durumda dava konusu bağımsız bölümleri, arsa sahiplerinden satın alan kişilerin (sözleşme gereğince arsa sahibine düşen bağımsız bölümleri almış ise), eseri meydana getiren yükleniciden talepte bulunabilmeleri için arsa sahibinin sözleşmeden doğan haklarını temlik almaları gerekir. Bu şekilde temlik alanlar, arsa sahibinin halefi olarak aktif husumet ehliyetlerinin bulunması nedeniyle davada davacı olarak yer alabilirler. Davacı, bağımsız bölümü satın aldığı arsa sahiplerinin halefi konumunda olduğundan; davacının satın aldığı bağımsız bölümden kaynaklanan dava ve haklarının, arsa payı karşılığı inşaat sözleşmesi kapsamında incelenerek karara bağlanması gerekir.
 Eş söyleyişle, arsa sahibinden bağımsız bölüm satın alan davacının davalı yüklenici aleyhine açtığı davada görevli mahkeme, arsa sahibi ile yüklenici arasındaki davaların görüleceği mahkemedir. (Bknz: Yargıtay 3. Hukuk Dairesinin 10/04/2023 tarihli, 2023/1298 Esas 2023/1013 Karar sayılı Bölge Adliye Mahkemeleri Kararları Arasındaki uyuşmazlığın Giderilmesi İstemine Dair ilamı) Bu durumda somut dava dosyasında, arsa sahibinin ve yüklenicinin her ikisinin de kooperatif olduğu nazara alındığında, nispi ticari dava bulunduğundan, görevli mahkeme Asliye Ticaret Mahkemeleridir. Mahkemece işin esasına girilerek taraf delilleri toplanıp değerlendirildikten sonra oluşacak sonuca göre karar verilmesi gerekirken yanlış değerlendirme ile yazılı şekilde davanın görevsizlik nedeni ile usulden reddine karar verilmiş olması usul ve yasaya aykırıdır.

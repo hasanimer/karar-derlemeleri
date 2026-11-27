@@ -71,8 +71,6 @@ HÜKÜM: Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusun
 
 ## Antalya BAM 5. HD 2021/1323 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690720400)
-
 Davalılar vekili cevap dilekçesi sunmadığı anlaşılmıştır.
 
 İlk Derece Mahkemesi Kararının Özeti :Davacının müdahalenin meni ve ecrimisil taleplerine yönelik açtığı davanın pasif husumet yokluğu nedeniyle reddine karar verildiği anlaşılmıştır.

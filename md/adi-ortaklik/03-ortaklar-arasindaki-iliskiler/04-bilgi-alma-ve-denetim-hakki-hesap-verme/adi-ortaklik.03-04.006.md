@@ -32,8 +32,6 @@ Uyuşmazlık eser sözleşmesinden kaynaklanmakta ise de icra takip dosyası day
 
 ## Konya BAM 6. HD 2023/844 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882493100)
-
 Dava, faturaya dayalı ilamsız takibe vaki itirazın iptali talebine ilişkindir.
 
 …

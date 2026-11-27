@@ -66,8 +66,6 @@ Otomotive devrettiğini beyanla davanın reddine karar verilmesini talep etmişt
 
 ## Konya BAM 6. HD 2023/2347 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975012500)
-
 Dava; gayrimenkul satış vaadi sözleşmesinden kaynaklı geç teslim nedeniyle uğranılan zararın giderilmesi istemine ilişkindir.
 
 …
@@ -92,8 +90,6 @@ Yine diğer ortağın şirketi usulsüz olarak borçlandırdığı iddiası bak�
 Dosyaya sunulan ön sözleşme isimli belge 27.12.2019 tarihli olup sözleşmenin A maddesinde ... Ltd. Şirketindeki pay devri ve mallara ilişkin olduğu " H " maddesinde ... Ltd. Şirketindeki pay devrine ilişkin olduğu ilgili şirketlerdeki payların 15.01.2020 tarihinde devir edildiği anlaşılmaktadır.Mahkemece yanılgılı olarak işbu davanın/uyuşmazlığın adi ortaklığın tasfiyesinden kaynaklı olduğu kabul edilmiş ve buna göre de davada görevli mahkemenin genel mahkeme olan Asliye hukuk mahkemesi olduğuna karar verilmiş ise de, yukarıda açıklandığı üzere davanın/uyuşmazlığın Limited Şirket Pay devrinden kaynaklandığı sabit olup bu durumda TTK 4-5 maddeleri uyarınca ticari dava olan işbu dava/uyuşmazlık yönünden Asliye Ticaret mahkemesinin görevli olması nedeniyle görevsizlik kararı veren Kayseri 2.Asliye ticaret mahkemesi görevli olduğundan HMK 353/1-a-3 uyarınca kararın kaldırılmasına ve mahkemece tarafların tüm delileri toplanıp işin esasına girilerek oluşacak sonucu göre karar verilmesi gerekirken yanılgılı gerekçe ile görevsizlik kararı verilmesi usul ve yasaya aykırı görülmüştür.
 
 ## Ankara BAM 21. HD 2023/1434 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/957285700)
 
 Somut olayda davacı, ortağı bulunduğu dava dışı ...Ltd. Şti'deki %50 hissesini devralan davalının ödemediğini iddia ettiği ortaklık payının tahsili için başlatılan ilamsız icra takibine haksız itiraz edildiğini ileri sürerek itirazın iptalini istemiş, yargılama sırasında 22.06.2021 tarihli dilekçesi ile davanın konusunun taraflar arasında imzalanan 17.11.2014 tarihli sözleşmeden kaynaklanan ortaklık giriş bedelinin ödenmesi olduğunu, dava dışı şirketin 09.12.2014 tarihli ... ... Gazetesi'nde yayımlanan kararı ile uyarınca şirket esas sözleşmesinde değişikliğe gidildiğini, bu değişiklik sonucunda 24 ay içinde ortakların sermaye taahhütlerini ödeme zorunluluğu getirildiği halde davalının söz konusu borcunu ödemediğini ve bunun üzerine 30.08.2016 tarihinde ortaklık ilişkisinin sona erdirildiğini, ortaklık fesih protokolüne göre davalının müvekkiline ortaklık borcunu ödeyeceğini, müvekkilinin ise davalıya ortaklıktan ayrılma sonucu ödemesi gereken bedeli ödeyeceğini, ortaklık protokolünün gereğini yerine getirmeyen davalıya ortaklıktan ayrılma payının ödenmediğini iddia etmiştir.
 Davalı ise dava dışı şirketin bu davayı açması gerektiğini, davacının aktif husumetinin bulunmadığını, nitekim davacının ortağı bulunduğu şirketi ortaklıktan ayrılma davasına fer'i müdahil sıfatıyla dahil ettiğini ve takas def'ini ileri sürdüğünü, şirket hissesinin devredildiği anlaşmada ortaklığa giriş bedelinin ödenmediğinden bahsedilmediğini ve bu davanın müvekkilinin ortaklıktan ayrılma davası açtıktan sonra açıldığını, takas definde bulunmakla davacının kendi borcunu da ikrar ettiğini, taraflar arasında imzalanan sözleşmede müvekkiline ödenecek devir bedelinin hiçbir koşula bağlanmadığını, kaldı ki müvekkili ile davacı arasındaki yazışmalarda da davacının müvekkilinin borcu bulunmadığından bahsetmediğini savunmuştur.

@@ -74,8 +74,6 @@ Bir başka hukuki sorun da iş ortaklığı biçiminde tanımlanan davalı şirk
 
 ## Ankara BAM 24. HD 2021/456 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/650888000)
-
 Yargılama sırasında görüşüne başvurulan bilirkişi heyeti 27/02/2019 tarihli ek raporlarında "İş ortaklığının pilot ortağı davalı.....531.214,41 TL + KDV = toplam 626.833,00 TL’lik 3 faturası....32.460 TL ve 01/10/2013 tarih 29168 nolu 172.280 TL = toplam 404.740 TL bedelli 2 adet faturası (343.000 TL + KDV = 404.740 TL) olmak üzere, 4 firma tarafından iş ortaklığına düzenlenen toplam ( 266.000 + 375.000 + 531.214,41 + 343.000 = ) 1.515.214,41 TL + KDV tutarındaki faturaların iş ortaklığının maliyet toplamından çıkarılması gerektiği, bu durumda Davacı .... İnş.’ın iş ortaklığından olan kâr payı alacağının:
 
 ## İstanbul BAM 3. HD 2021/159 K.

@@ -114,8 +114,6 @@ Davacılar vekili, 21.09.2021 tarihli dilekçe ile HMK 309. maddesi gereğince d
 
 ## Ankara BAM 24. HD 2022/251 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733492000)
-
 Uyuşmazlık, taraflar arasındaki adi ortaklık ilişkisinin fesih ve tasfiyesinin mümkün olup olmadığı noktasında toplanmaktadır.
 
 Dosyada mevcut ve taraflar arasında imzalanan tarihsiz "Kat karşılığı İnşaat Ortaklık Anlaşması" 'na göre davacı ve davalı arasında inşaat yapımına ilişkin adi ortaklık ilişkisinin kurulduğu, bu sözleşmeye göre davacı şirketin % 75 davalının ise % 25 oranında ortak oldukları, ortaklık sözleşmesinin 4/f maddesine göre, üzerinde inşaat yapılacak parselin iskan ruhsatının alınması ile taşınmaza ilişkin inşaat ortaklığının sona ereceğinin kararlaştırıldığı, taşınmaza ilişkin iskan ruhsatının 02/04/2008 tarihinde alındığı ve böylelikle taraflar arasındaki adi ortaklığın son bulduğu, ortaklık sözleşmesinin 4/g maddesinde ise tasfiye usulünün düzenlendiği dosya kapsamı ile sabittir.

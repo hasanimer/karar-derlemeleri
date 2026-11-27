@@ -32,8 +32,6 @@ Haklı sebepler, özellikle yönetici ortağın görevini aşırı ölçüde ihm
 
 ## Bursa BAM 5. HD 2021/879 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/771997800)
-
 Dava, dava dışı şirkette gizli ortak olunduğu iddiasına dayalı olarak şirket paylarının değerinin davalıdan tahsili istemine ilişkindir.
 
 …
@@ -51,8 +49,6 @@ Kurumu ile münasebet tesis icap ettiğinde bu hususta yapılması gereken büt�
 üzere, davalı ... uhdesinde olmasına karşın ... ve ...
 
 ## Konya BAM 6. HD 2021/253 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715781100)
 
 Dava dosyası üzerinde yapılan bilirkişi incelemesi sonucu bilirkişi O.C tarafından tanzim edilen 06/11/2018 havale tarihli raporun sonuç bölümünün 2. maddesinde; davacının 2014 yılı başı itibariyle 158.000,00 TL ve 2016 yılında 60.000,00 TL'yi ortaklık hesabından çektiği, 3. maddesinde ise davalının aynı şekilde 2014 yılı başı itibariyle 158.000,00 ve 2016 yılında 60.00,00 TL'yi ortaklık hesabından çektiği, ayrıca davalının 2017 yılı sonuna kadar 138.341,00 TL para çektiği belirtildikten sonra 21/12/2015 tarihinden sonra davacının 60.000,00 TL, davalı ...'in ise 138.341,00 TL çektiği belirtilerek ayrıca 2014 - 2015 - 2016 - 2017 yıllarında - ... Adi Ortaklığı'nın elde ettiği karın dağıtıldığına ilişkin bir kayıt tespit etmediği belirtilmiştir.
 

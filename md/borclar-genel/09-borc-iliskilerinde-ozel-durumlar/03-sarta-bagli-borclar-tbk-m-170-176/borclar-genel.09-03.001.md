@@ -67,8 +67,6 @@ Her ne kadar lisans alma konusunda satıcıların sözleşme gereğince yüküml
 
 ## Kayseri BAM 6. HD 2025/92 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109079300)
-
 Bilindiği üzere şarta bağlı borçlar 6098 s TBK 170-176 maddeleri arasında düzenlenmiştir. Şart, bir sözleşmenin varlığının veya hukuki sonuçlarının gerçekleşeceği kesin olmayan gelecekteki bir olaya bağlanmasıdır. Şayet bir sözleşmenin hüküm ifade etmesi, gerçekleşip gerçekleşmeyeceği bilinmeyen bir olguya bırakılmışsa, sözleşme geciktirici şart (6098 sTBK 170) Sona ermesi önceden gerçekleşip gerçekleşmeyeceği bilinmeyen bir olguya bırakılmışsa bozucu şart(6098 s TBK 173) söz konusu olur. Şartın gerçekleşmesi tarafların iradesine, taraflarla birlikte üçüncü şahsın iradesine veya dış olaylara bağlanabilir. Erteleyici şarta bağlı sözleşme, şartın gerçekleşmesinden önce tarafları bağlar. Ancak sözleşmenin sonuçları şartın gerçekleşmesiyle birlikte doğar. Şart gerçekleşinceye kadar sözleşme hükümleri askıda olup, alacaklının ifayı isteme hakkı, borçlunun da ifa yükümlülüğü yoktur. (Yargıtay 15.Hukuk Dairesinin 2013/5229 Esas 2014/4546 Karar sayılı ilam-2013/5229 Esas 2014/4546 Karar) "…
 
 ## Kayseri BAM 6. HD 2025/79 K.

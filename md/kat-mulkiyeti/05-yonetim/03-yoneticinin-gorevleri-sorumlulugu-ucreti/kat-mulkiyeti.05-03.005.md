@@ -59,8 +59,6 @@ Somut olayda, davacı ... şirketinin davalıdan rücuen tazminat talebi, daval�
 
 ## Ankara BAM 22. HD 2022/210 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/741169700)
-
 634 sayılı Kat Mülkiyeti Kanunu’nun 38. maddesinde yöneticinin sorumluluğuna ilişkin genel kural “Yönetici, kat maliklerine karşı aynen bir vekil gibi sorumludur.” şeklinde ortaya konularak 39.maddesinde ise Yöneticinin Hesap verme yükümlülüğü düzenlenmekte; 40.maddenin 1.fıkrasında ise Yöneticinin Hakları “Yönetici kaide olarak vekilin haklarına sahiptir.” şeklinde ifade edilmektedir.
 
 ## İstanbul BAM 45. HD 2022/27 K.

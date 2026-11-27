@@ -50,6 +50,4 @@ Ana taşınmazın tek maliki tarafından yaptırılan inşaat projesinde belediy
 
 ## Antalya BAM 16. HD 2025/1238 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181178200)
-
 Kat Mülkiyeti Kanunu’nun 16. maddesi uyarınca; kat malikleri anagayrimenkulün bütün ortak yerlerine, arsa payları oranında, ortak mülkiyet hükümlerine göre malik olurlar. Somut uyuşmazlıkta, dava konusu edilen Antalya ili Kepez ilçesi ... mahallesi ... ada, ... parsel bodrum katta bulunan taşınmazın yönetim ofisi olarak inşa edilerek söz konusu bu alanın böylelikle site ortak kullanımına tahsis edildiği anlaşılmıştır. Ortak yerlerde az yukarıda belirtildiği üzere kat malikleri arsa payları oranında malik olduklarından, tüm parseldeki bağımsız bölüm maliklerinin davada taraf olarak gösterilmesi, tüm malikler huzurunda davanın görülmesi gerekirken, taraf teşkili sağlanmadan yargılama yapılıp karar verilmesi doğru olmamıştır (aynı yönde içtihat için bakınız: Yargıtay 6. Hukuk Dairesi'nin 2023/2046 Esas - 2024/3292 Karar sayılı ilamı).

@@ -59,8 +59,6 @@ Somut olayda, davacı vekili; taraflar arasında imzalanan 15/11/2016 tarihli İ
 
 ## Antalya BAM 11. HD 2025/185 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121158600)
-
 Mahkemece yazılı gerekçeyle, ihtiyati tedbir talebinin kısmen kabulü ile 200.000,00 TL nakdi teminat veya kesin ve süresiz banka teminat mektubunun ibrazı halinde davalı şirket adına kayıtlı taşınmaz ve araçlar üzerine üçüncü kişilere satış ve devrinin önlenmesine ilişkin ihtiyati tedbir kararı verildiği, diğer taleplerinin reddine karar verilmiştir.
 
 …

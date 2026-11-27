@@ -124,8 +124,6 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Antalya BAM 1. HD 2025/2556 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180996500)
-
 Davalı ... İnşaat...
 
 …
@@ -172,8 +170,6 @@ Somut olayda, dava konusu iptali talep edilen genel kurul gündeminin 6/a maddes
 Şti. arasında 18/08/2008 tarihinde yapılan protokol ile, otopark inşaatının yapılmaması veya yarıda kalması halinde Birlik uhdesinde tutulan dairelerin paraya çevrilerek satılıp inşaatın tamamlanacağı kararlaştırılmış olup teminat olarak tutulmak üzere 9 A ve 9 B blokta toplam 20 adet daire, numaraları da belirtilerek belirlenmiştir. Ayrıca 20 adet daireden ayrı olarak, 30/06/2012 tarihli genel kurul tutanağından, 3 adet dairenin de, cezai şart olarak tutulan daireler olduğu anlaşılmıştır. İşte somut olayda ise, dava konusu iptali talep edilen genel kurul gündeminin 6/b maddesinde alınan karar ile, söz konusu 23 adet dairenin, yüklenici ... San. Tic. Ltd. Şti.'nin kapalı otopark inşası, arsa peyzajının yapımı ve bina iskanlarının alınmasına ilişkin edimlerini yerine getirmesi karşılığında kendisine devredilmesine karar verilmiş olup esasen bu daireler, kat karşılığı inşaat sözleşmesi ve protokol uyarınca zaten teminat olarak tutulduğundan, belirlenen eksikleri tamamlaması halinde bu dairelerin yükleniciye devrinin yapılacağı da pek tabiidir. Bu nedenle işbu alınan kararın da, ana sözleşme, kanun ve iyi niyet esaslarına aykırı bir yönü bulunmamaktadır.
 
 ## Konya BAM 5. HD 2023/408 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910932800)
 
 Davalı vekili cevap dilekçesinde özetle; davalı şirketin davacı şirket ile arasında akdedilen asansör imal sözleşmesi kapsamında asansörleri teknik ve görsel tüm şartlarına uygun davranarak süresinde teslim ettiğini, söz konusu bu teslimler sırasında her asansörün “Asansör tava fanı yok + yan aynalarda filmlerin iç kısımlarında atık var+karşı aynası yok+zemin kaplaması sözleşmeye göre durumu kontrol edilecek+kat anonsunun sistemi düzeltilecek” şeklinde tutanak tutulduğunu ve asansörlerin teslim edildiğini, bu tutanağın içeriğinden başka bir hatanın yahut eksikliğin olmadığının tespit edildiğini, bahse konu eksikliklerin giderildiğini ve asansörlerin ... firması tarafından Ağustos 2018 de tespitinin yapıldığını, yapılan tespit ile hiçbir uygunsuzluk tespit edilmediğini, keza mezkur asansörlerin ...
 

@@ -173,8 +173,6 @@ Kat Mülkiyeti Yasasının 37.maddesinin üçüncü fıkrası hükmü uyarınca 
 
 ## Antalya BAM 11. HD 2023/1223 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914224500)
-
 Yasaya göre kendisine yetki verildiğinde geçerli olabildiği, ortada kanuna uygun olarak kurulmuş Kat Malikleri Kurulunca verilmiş bir yetkinin bulunmadığı, 26.06.2021 tarihinde yapılan Kat Malikleri Kurulu kanuna uygun yapılmadığı gibi, toplantı sonuç bildirgesinin maliklere tebliğ edilmediği, davalının usule aykırı olarak Site Yönetimi yetkilerini kendi üzerine devrettiğini iddia ettiği, genel kurul kararının kanuna, ana sözleşmeye ve iyi niyet esaslarına aykırı olduğundan genel kurul kararın iptalini talep etmiştir.
 
 ## İstanbul BAM 45. HD 2023/1028 K.

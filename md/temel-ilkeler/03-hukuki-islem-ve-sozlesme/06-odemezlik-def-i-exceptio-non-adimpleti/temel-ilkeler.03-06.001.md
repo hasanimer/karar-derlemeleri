@@ -85,6 +85,4 @@ Bozma ilamında özetle; “Miras paylaşım sözleşmesi, borçlandırıcı nit
 
 ## Konya BAM 5. HD 2020/156 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715272500)
-
 Eser sözleşmesinde taraflar sözleşmede bedelin ödenme zamanını kararlaştırabilirler. Sözleşmede bu yönde bir hüküm yoksa, TBK'nın 479. maddesi 1 inci fıkrası hükmüne göre bedel, eserin teslimi anında muaccel olur. İlgili hüküm, TBK'nın 90. maddesinde düzenlenen karşılıklı edimlerin aynı anda yerine getirilmesi kuralına istisnadır. Dolayısıyla eser sözleşmesinde yüklenicinin eseri meydana getirme ve teslim borcu, iş sahibinin bedel ödeme borcuna oranla öncelikle yerine getirilmesi gereken bir borçtur. Bu bakımdan, yüklenici, kendi borcunu ifa etmeden veya ifasını teklif etmeden iş sahibinden ücret borcunu yerine getirmesini isteyemez. Yüklenici böyle bir istemde bulunursa, iş sahibi ona karşı ödemezlik def’ini ileri sürebilir. TBK'nın maddesinde düzenlenen yasal muacceliyet kuralı her türlü eser sözleşmesi için geçerli olup, eserin büyüklüğü veya böyle bir eserin yapılması için ihtiyaç duyulan zamanın uzun olması, sonucu değiştirmez. Bununla birlikte sözleşmede peşinat veya ara ödemeler şeklinde kayıt bulunması halinde bu ödemeler yapılıncaya kadar yüklenicinin teslimden kaçınabileceği ve oluşan gecikmeden sorumlu olmayacağı kabul edilmelidir.

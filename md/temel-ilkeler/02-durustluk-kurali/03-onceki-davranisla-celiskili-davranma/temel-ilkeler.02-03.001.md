@@ -76,12 +76,8 @@ Hukuk Dairesi'nin önceki tüm uygulamalarında davalı yanın zamanaşımı sav
 
 ## Gaziantep BAM 11. HD 2025/727 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139086100)
-
 Kaldı ki diğer yandan, her ne kadar davalı yan . .. adlı kişiye tebligat yapılmışsa da şirkette böyle bir çalışan olmadığı, dolayısıyla da kat ihtarının usulüne uygun olmadığını savunmuşsa da, şirketin . beyan edilen ... . adresine çıkartılan .. tarihli 17167 yevmiye sayılı kat ihtarı tebliğ şerhinde tebliğ alan şahıs olarak görünen . . isimli şahsa, eldeki davanın özünü oluşturan ...Esas sayılı takipteki ödeme emrinin de aynı şekilde ve aynı adreste.. tarihinde tebliğ edildiği, ancak borçlu vekilince..tarihinde işbu tebligat mazbatası kabul edilerek borca itiraz edildiği anlaşılmakla, bu noktadan sonra usulsüz tebligat iddiasında bulunmak TMK'nın 2. maddesi çerçevesinde çelişkili davranış yasağı kapsamında değerlendirilerek, bu yöne dair istinaf sebepleri yerinde görülmemiştir.
 
 ## Gaziantep BAM 11. HD 2024/1173 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073378700)
 
 Davalı şirketin .......sayılı dosyasındaki beyanları ise senedin hükümsüzlüğüne yönelik ikrar mahiyetinde beyanlar olmadığı gibi senedin talili de söz konusu değildir. Öte yandan bono üzerinde davalı şirketin antetinin olması da senedi hükümsüz kılmayacağı gibi muvazaa ve bedelsizlik iddiasına da delalet teşkil etmez. Yerel mahkemece de benzer şekilde belirtildiği üzere, imza inkarında bulunmayan davacı keşidecinin işbu antetli kağıda kendi hür iradesiyle imza attığı açık olup, hiç kimse kişinin kendi fiiline dayanarak muvazaa iddiasında bulunamayacaktır. Aksinin kabulü TMK m. 2 uyarınca çelişkili davranış yasağına aykırı düşecektir.

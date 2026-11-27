@@ -302,8 +302,6 @@ Bu durumda, eldeki davada değerlenmesi gereken husus davacının TBK'nın 77. m
 
 ## Konya BAM 6. HD 2024/357 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/995008500)
-
 Madde metninden de anlaşılacağı üzere özel düzenleme niteliğindeki bu hüküm gereğince huzurdaki davada ciranta-lehdar olan davacının ödeme yaptığı tarihten itibaren düzenleyen ya da müracaat borçlularına karşı altı ay içinde dava açması gerekmekte olup, aksi halde istem zamanaşımına uğrayacaktır. Davacı yan zikredilen kanun maddelerine göre 6 aylık süreyi geçirmiştir. Türk Ticaret Kanunun ilgili maddelerine göre de zamanaşımı süresi az yukarıda ifade edilen Türk Borçlar Kanunu hükümlerine göre daha evvelden dolmuş bulunmaktadır.
 
 ## Samsun BAM 5. HD 2023/1730 K.

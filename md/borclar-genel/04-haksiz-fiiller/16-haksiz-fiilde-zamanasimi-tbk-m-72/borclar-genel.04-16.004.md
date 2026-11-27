@@ -68,13 +68,9 @@ Ancak davada gerçekten de zamanaşımı sürelerinin gerçekleşip gerçekleşm
 
 ## Ankara BAM 26. HD 2021/1690 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696603500)
-
 818 sayılı Borçlar Kanunu'nun 41. maddesinde (6098 sayılı TBK'nun 49. maddesinde) haksız fiil tanımlanmış, 60.maddesinde (TBK'nun 72. maddesinde) de haksız fiilden zarar görenin bundan kaynaklanan zararının tazmini istemiyle açacağı davaların bağlı olduğu zamanaşımı süreleri özel olarak düzenlenmiştir. 818 sayılı Borçlar Kanunu'nun 60. maddesinde zararın ve failin öğrenildiği tarihten itibaren 1 yıllık sübjektif ve nispi nitelikteki kısa zamanaşımı süresi, her halde haksız fiil tarihinden itibaren 10 yıllık objektif ve mutlak nitelikte uzun zamanaşımı süresi ile olağanüstü nitelikteki ceza zamanaşımı süresi olmak üzere üç türlü zamanaşımı süresi öngörülmüş olup, bahsi geçen 1 yıllık süre 6098 sayılı TBK'nun 72.maddesinde 2 yıl olarak değiştirilmiştir.
 
 ## Ankara BAM 26. HD 2021/1184 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668591400)
 
 818 sayılı Borçlar Kanunu'nun 41. maddesinde (6098 sayılı TBK'nun 49. maddesinde) haksız fiil tanımlanmış, 60.maddesinde (TBK'nun 72. maddesinde) de haksız fiilden zarar görenin bundan kaynaklanan zararının tazmini istemiyle açacağı davaların bağlı olduğu zamanaşımı süreleri özel olarak düzenlenmiştir. 818 sayılı Borçlar Kanunu'nun 60. maddesinde zararın ve failin öğrenildiği tarihten itibaren 1 yıllık sübjektif ve nispi nitelikteki kısa zamanaşımı süresi, her halde haksız fiil tarihinden itibaren 10 yıllık objektif ve mutlak nitelikte uzun zamanaşımı süresi ile olağanüstü nitelikteki ceza zamanaşımı süresi olmak üzere üç türlü zamanaşımı süresi öngörülmüş olup, bahsi geçen 1 yıllık süre 6098 sayılı TBK'nun 72.maddesinde 2 yıl olarak değiştirilmiştir.
 

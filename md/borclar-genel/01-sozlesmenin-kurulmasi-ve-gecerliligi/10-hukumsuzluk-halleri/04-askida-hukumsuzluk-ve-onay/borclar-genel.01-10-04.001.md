@@ -70,13 +70,9 @@ Yetkisiz vekil tarafından imzalanan ipotek akdinin davacı asili bağlayacağı
 
 ## Konya BAM 6. HD 2026/250 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199020800)
-
 İcazetin verilmesi kural olarak şekle tabi değildir. Açıkca verilebileceği gibi, zımni davranışlarla verilmesi mümkündür. İcazetin verilmesine ilişkin bir diğer sorun susmanın icazet olarak yorumlanmasının mümkün olup olmadığıdır. Susmanın kural olarak bir irade beyanı ve buna bağlı olarak da bir icazet olarak kabul edilmesi mümkün değildir. Özellikle temsil olunanın yapılan hukuki işlem hakkında bilgisinin olmadığı hallerde durum böyledir. Ancak istisnai olarak temsil olunan kimseden dürüstlük kuralı uyarınca hukuki işleme itiraz etmesinin, diğer bir ifade ile söz konusu hukuki işlemi onaylamadığını bildirmesinin beklenebildiği hallerde susmanın icazet sayılabileceği kabul edilmelidir. Böylece, Borçlar Kanunu'nun 6. maddesindeki istisna burada da kıyasen uygulama alanı bulmalı ve özellikle bağışlama gibi temsil olunanın yararına yapılan sözleşmeler ile vekalet sözleşmesine ilişkin Borçlar Kanunu'nun 387. maddesinde olduğu gibi icabı reddetmemenin kabul sayılacağı durumlarda susmak yetkisiz olarak yapılmış olan hukuki işleme icazet vermek sayılmalıdır. Ancak susmanın icazet sayılabilmesi için gereken ön şart temsil olunanın yetkisiz olarak yapılmış olan işlemden haberdar olmasıdır.
 Zira aksi takdirde temsil olunandan söz konusu hukuki işleme itiraz etmesinin beklenilmesi mümkün olmayacaktır. Ayrıca, bir hukuki işlemin yetkisiz olarak yapılması durumunda, icazetin verilmiş olduğunu iddia eden kimse bu hususu kendisinin ispat etmesi gerekecektir.
 
 ## Konya BAM 6. HD 2019/12 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/677696300)
 
 Kural olarak, yetkisiz temsilci, sahte talimat, bankanın hataya düşürülmesi vb gibi suretle mevduat hesabından para çekilmesi halinde mevduat sahibi bu çekişe muvafakat veya icazet vermez ise bankaya karşı alacağı aynen devam eder. Ancak, yapılan ödemelere davacı sonradan icazet vermişse banka sorumlu tutulamaz. İcazet verildikten sonra işbu davanın açılması TMK'nın 2. maddesine göre iyiniyetle bağdaşmaz.

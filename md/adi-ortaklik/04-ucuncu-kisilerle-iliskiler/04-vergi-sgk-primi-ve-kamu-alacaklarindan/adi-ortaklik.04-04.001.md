@@ -167,8 +167,6 @@ Asliye Hukuk Mahkemesi'nin mi, yoksa Asliye Ticaret Mahkemesi'nin mi görevli ol
 
 ## Gaziantep BAM 4. HD 2025/1967 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167501100)
-
 Dava; adi ortaklığın tasfiyesi ve alacak istemine ilişkindir.
 
 ..Asliye Hukuk Mahkemesince, uyuşmazlığın adi ortaklığın tasfiyesi olduğu, ancak davalıların birinin anonim şirket diğerinin ise davalı anonim şirketin kurucusu olduğu, adi ortaklık adına alındığı beyan edilen taşınmazların davalı şirket adına tescil edildiği, bu haliyle tasfiyesi istenen adi ortaklığın tarafların ticari işletmeleriyle ilgili olduğu, dolayısıyla görevli mahkemenin asliye ticaret mahkemesi olacağı, görev kurallarının kamu düzenine ilişkin olup yargılamanın her aşamasında mahkemece re'sen gözetilmesi gerektiği anlaşılmakla görevsizlik kararı verilmiştir.
@@ -191,8 +189,6 @@ Maddesinde; "29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanunu hükümleri
 49 maddesi gereğince kusurlu ve hukuka aykırı bir fiille başkasına zarar veren bu zararı gidermekle yükümlüdür. 50/1.fıkrası gereğince zarar gören zararını ve zarar verenin kusurunu ispat yükü altındadır.Somut davada davacı vekili, yapılan tür değişikliği nedeniyle bağlı olduğu Sosyal Güvenlik Merkezlerine yapılacak bildirim için Çalışma ve Sosyal Güvenlik Bakanlığı'na bağlı Alo 170 Çağrı Merkezi'nden bilgi alındığını, Çağrı Merkezi hizmetinin davalı şirket tarafından verildiğini, Çağrı Merkezi'nin hatalı yönlendirmesi nedeniyle müvekkilinin zarara uğradığını iddia ederek, kesilen ceza tutarlarının davalıdan tahsilini talep etmektedir.Davalı şirket ile dava dışı SGK arasında Alo 170 İletişim Merkezinin kurularak hizmete alınmasına ilişkin Ortak İletişim Merkezi Hizmet alım sözleşmesi imzalandığı uyuşmazlık konusu değildir.5510 sayılı yasanın 11.
 
 ## Tekirdağ BAM 4. HD 2025/1277 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190555600)
 
 Dava; davaya konusu ödeme yeri, ödeme tarihi ve düzenleme tarihi bulunmayan senetten dolayı icra takibinden önce açılan davacının davalıya borçlu olmadığının tespiti istemine yönelik menfi tespit davasıdır.
 

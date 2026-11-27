@@ -32,8 +32,6 @@ Kiralama Kanunun 24 ve 25. Maddesi) hükümlerine dayalı olarak, finansal kiral
 
 ## İstanbul BAM 49. HD 2021/2174 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715517000)
-
 DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE: Yasal dayanak:Hukuk Muhakemeleri Kanunu;190, 191, 389,394,395. maddeleri,Türk Medeni Kanunu 6. maddesi, Türk Borçlar Kanunu 299 ve devamı maddeleri, İcra İflas Kanunu 257 ve devamı maddeleri, Yargılama konusu olayda:
 Davacının, davalı tarafın, takip talebinde borç sebebini “22.11.2019 tarihli hizmet faturasından kaynaklanan bakiye alacak” olarak göstererek davacı şirket aleyhine icra takibi başlattığını, davalının, davacı şirketin faaliyet yürüttüğü fabrika binasının kiraya vereni olup taraflar arasında cari hesap bulunmadığını, taraflar arasındaki cari hesap incelendiğinde takibe konu böyle bir faturanın bulunmadığı tespit edildiğini, davalı tarafından da icra dosyasında 1 yıl 4 ay boyunca hiçbir işlem yapılmadığını, taraflar arasındaki kira ilişkisinin de bugüne kadar süregeldiğini, ancak davalı tarafın davacı şirketi hukuka aykırı yollarla yıldırarak taşınmazdan tahliye saiki içine girdiği bugünlerde birden bire davalı taraf, icra dosyasından davacı şirket adresinde şirketin mallarına haciz konulduğunu, icra takibine dayanak gösterilen faturanın, hiçbir zaman davacı şirkete tebliğ edilmediğini, vergi dairesine ... formları ile bildirilmediğini, taraflar arasındaki cari hesap kayıtlarında yer almadığını, davacı şirket tarafından böyle bir faturaya konu olabilecek bir hizmet alınmadığını belirterek Çorlu ...
 

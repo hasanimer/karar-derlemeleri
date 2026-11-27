@@ -22,8 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Gaziantep BAM 3. HD 2024/742 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045254700)
-
 Davacı vekili dava dilekçesinde özetle; davalı .....arsa sahibi olan diğer davalılar ile yaptığı kat karşılığı inşaat sözleşmesi gereğince yapımını üstlendiği binadaki dairelerin mobilya ve ahşap işlerini yapmayı müvekkiline verdiğini, müvekkilinin dairelerde yapacağı ahşap ve mobilya işi karşılığı davalı......’nin arsa sahipleri ile yaptığı sözleşme gereği kendisine kalacak dairelerden .. nolu daireyi müvekkiline vermeyi taahhüt ettiğini, müvekkilinin üzerine düşen edimlerini yerine getirdiğini, ancak davalı şirket tarafından taahhüt edilen dairenin müvekkiline devir ve teslim edilmediğini, müvekkilinin davalı ..... adına yapmış olduğu ahşap ve mobilya işlerinden dolayı davalı arsa sahiplerinin nedensiz zenginleştiklerini, müvekkilinin yüklenici davalı......’nin davalı arsa sahiplerinden olan alacağına halef olduğunu ileri sürerek, davaya konu binadaki 1.
 
 …
@@ -47,8 +45,6 @@ TBK'nın 470. maddesi hükmüne göre, eser sözleşmesi, yüklenicinin bir eser
 Davacı vekilinin istinaf başvurusunun kabulü ile ....... sayılı kararının KALDIRILMASINA.
 
 ## Antalya BAM 7. HD 2024/667 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039966400)
 
 Davalılar tarafından sunulmuş cevap dilekçesi bulunmamaktadır.
 
@@ -95,8 +91,6 @@ Yukarıdaki paragraflarda bahsedilen yasa maddeleri ve Yargıtay içtihatları �
 Bu durumda, davacı taşeronun davalı yüklenici şirket ile imzaladığı sözleşmenin gereklerini yerine getirmiş olması, davacıya söz konusu 22 numaralı bağımsız bölümün tapusunun iptali ve kendi adına tescilini talep etme hakkı vermeyecektir. Somut olayda davacı lehine söz konusu bağımsız bölümün tapu iptali ve tescili koşullarının oluşmadığı anlaşılmaktadır.
 
 ## Antalya BAM 7. HD 2024/571 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033496800)
 
 İlk derece mahkemesi, asıl dava yönünden yapılan değerlendirmede, davaya konu inşaatın tamamlandığı ve 2008 yılında iskan ruhsatı alındığının sabit olduğu, davalı yanın savunmasında, kira alacağı bulunduğunu, ayıplı ve eksik ifada bulunulduğunu beyan ettiği, eser sözleşmesinde yüklenicinin açtığı iş bedelinin tahsili davasında, eserin ayıplı ve eksik olduğu savunması mahsup niteliğinde olduğundan mahkemece resen gözetilmesi gerektiği (aynı yönde Yargıtay 15 HD 2010/3016 E.
 2010/4126 K.), davalının eksik ve ayıplı iş savunmasının sözleşmenin 13. maddesine rağmen inşaatın bu alanda ehliyeti dahi olmayan taşerona devredilmesi, sözleşmenin 6. ve teknik şartnamenin 1. maddesine aykırı olarak 1. sınıf malzeme ve işçilik kullanılması, inşaatın sözleşmede yer alan sürede tamamlanmaması nedeniyle oluşan kira kaybının tahsil edilememesine ilişkin olduğu, öncelikle taşeron firmaya yapılan devre ilişkin iddialar yönünden sözleşmenin 13. maddesinin ele alındığı, anılan maddenin davacının yüklenici sıfatını devri anlamına gelebilecek tümden devri yasakladığı, aynı maddede yüklenicinin kendi adına taşeronluk anlaşması yapabileceği, ancak davalı arsa malikine karşı sorumluluğun davacıda olduğunun kararlaştırıldığı, yasak kapsamında bir devir yapıldığı yönünde delil bulunmadığından bu savunmanın yerinde görülmediği, geç teslim nedeniyle kira alacağı savunması yönünden, davalı bu kalemin ödemezlik def'i kapsamında ileri sürülen bir kalem olduğunu ileri sürmüş ise de, bu hususun ''ayıplı ve eksik iş'' kapsamında kalmadığı, bu nedenle cevap dilekçesinde savunma olarak öne sürülmesi ile hüküm altına alınabilecek bir alacak olmayıp, ayrı bir dava ile ileri sürülmediği

@@ -106,8 +106,6 @@ Bu haliyle, davacının son teklifle ilgili olarak davalı ve dava dışı mülk
 
 ## Konya BAM 6. HD 2023/484 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915593900)
-
 6361 sayılı Yasa'nın 31. maddesinde '' 1) Kiralayan, ... bedelini ödemede temerrüde düşen kiracıya verdiği otuz günlük süre içinde de bu bedelin ödenmemesi hâlinde, sözleşmeyi feshedebilir. Ancak, sözleşmede, süre sonunda mülkiyetin kiracıya geçeceği kararlaştırılmış ise, bu süre altmış günden az olamaz. Bir yıl içinde sözleşmede yer alan kira bedellerinden üçünü veya üst üste ikisini zamanında ödememesi nedeniyle ihtara muhatap olan kiracılarla yapılan sözleşmeler kiralayan tarafından feshedilebilir.
 
 ## İstanbul BAM 44. HD 2022/1422 K.

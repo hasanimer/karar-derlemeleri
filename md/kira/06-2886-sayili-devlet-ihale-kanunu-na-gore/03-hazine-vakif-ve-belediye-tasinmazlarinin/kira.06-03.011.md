@@ -53,8 +53,6 @@ kabul edilecektir. Mücbir sebeplerin olması halinde bu hallerin meydana gelme 
 
 ## Konya BAM 5. HD 2025/22 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110920100)
-
 Davacı ile davalı .... Belediye Başkanlığı arasında imzalanan 29.01.2013 tarihli kira sözleşmesinin 14.4 hükmü ".... Belediyesi ve Merkez İlçe Belediyeleri, dolgu ve rekreasyon amacı ile hafriyat toprağının hafriyat sahası dışına dökülmesi hususunda serbesttirler. Bu hususta kiracı herhangi bir hak ve talepte bulunmayacağını kabul ve taahhüt etmiştir." şeklindedir. Aynı hüküm sözleşmenin eki niteliğindeki İdari Şartnamenin 22.4 hükmünde de aynı şekilde yer almaktadır.
 
 ## Samsun BAM 5. HD 2024/1629 K.
@@ -83,8 +81,6 @@ Bu durumda; mahkemece öncelikle ödeme emrinin davalı tarafa hangi tarihte teb
 edilmesi, istifa savunmasına ilişkin yukarıda belirtilen sair eksikliklerin ikmal edilmesi, kooperatif uzmanı, mali müşavir bilirkişi heyetinden davalı kooperatife ait ticari defter ve kayıtları üzerinde inceleme yaptırılması, istifa dilekçesi ile taşınmaz tahsis ve teslimine ilişkin kayıtların incelenmesi, davalı kooperatif tarafından taşınmazların diğer ortaklara hangi tarihlerde teslim edildiğinin belirlenmesi, taşınmazın bulunduğu yerde yukarıda açıklanan hususların tespiti yönünden inşaat mühendisi, mimar ve harita mühendisi bilirkişiler refakate alınarak keşfen inceleme yapılması, ortaklar arasında hak ve yükümlülükler bakımından eşitlik ilkesi de dikkate alınarak oluşacak sonuca göre karar verilmesi gerektiğinden, eksik inceleme neticesinde verilen karara ilişkin davalı vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesi kararı 6100 sayılı HMK'nın 353/1.a.6 maddesi uyarınca kaldırılarak aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Konya BAM 3. HD 2024/1563 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1065748200)
 
 Bu halde somut olayda davalı büyükşehir belediyesi ile dava arasında kira sözleşme ilişkisinin varlığının sabit olmasına göre,kira aktinin tarafı olmayan davalı selçuklu belediyesinden de munzam zararın tazmini talebinin olmasına göre, davada asıl çözümlenmesi gereken ve tartışılması gereken hususun kira sözleşmesine aykırılık kapsamında bulunmasına, Davacının dayandığı vakıaya göre uyuşmazlığın, aralarındaki 29.01.2013 tarihli kira sözlemesindeki düzenlemelere ve kira hukukuna göre çözülmesi gerektiği anlaşıldığından HMK m. 4/1.a, 114/1.c ve 115/2 uyarınca mahkemenin Sulh Hukuk Mahkemesine görevsizlik kararı vermesi gerekirken, davaya bakması isabetsiz olup, görev kamu düzenine ilişkin hususlardan olup re'sen gözetilmesi gerektiğinden dolayı, su sebeple davacının istinafının kabulü ile kararın kaldırılarak mahkemesine gönderilmesi gerekmiştir.
 
@@ -162,7 +158,5 @@ Bu görüşler doğrultusunda yüksek mahkemenin birçok farklı hukuki konuyu t
 Belediyesi arasındaki yetki karmaşasının uzun bir süre bölgede inşaat faaliyetlerinin sürdürülmesine engel olduğunu, bu sürenin neredeyse 30 ay olduğunu, kışın çalışılamayan sürelerden kaynaklı vuku bulan gecikmeden müvekkilinin kusurlu olmadığını, inşaatın yapımını geciktiren diğer nedenlerin mahkemece incelenmediğini ve dikkate alınmadığını, taraflar arasındaki sözleşmede yer alan hükmün bir ceza değil, bir tazminat olduğunu, keza sözleşmenin 6. maddesinde "gecikilen her ay için 400.000‐USD kira kaybı tazminatı öder..." şeklindeki düzenlemeden de bunun açık olarak anlaşıldığını, teslim edilemeyen taşınmazlara oranlı olarak, geç teslim sebebi ile kaybedilen (mahrum kalınan) kira bedelinin tazminini amaçlayan bu hükmün bir cezai şart değil, bir tazminat olduğunu, davacının kendi adına inşaa edilecek tüm taşınmazları 3. Kişilere sattığını, hatta bu 3.
 
 ## Konya BAM 3. HD 2023/3015 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976984100)
 
 Bu halde somut olayda davalı büyükşehir belediyesi ile dava arasında kira sözleşme ilişkisinin varlığının sabit olmasına göre,kira aktinin tarafı olmayan davalı meram belediyesinden de munzam zararın tazmini talebinin olmasına göre, davada asıl çözümlenmesi gereken ve tartışılması gereken hususun kira sözleşmesine aykırılık kapsamında bulunmasına, Davacının dayandığı vakıaya göre uyuşmazlığın, aralarındaki 29.01.2013 tarihli kira sözlemesindeki düzenlemelere ve kira hukukuna göre çözülmesi gerektiği anlaşıldığından HMK m. 4/1.a, 114/1.c ve 115/2 uyarınca mahkemenin Sulh Hukuk Mahkemesine görevsizlik kararı vermesi gerekirken, davaya bakması isabetsiz olup, görev kamu düzenine ilişkin hususlardan olup re'sen gözetilmesi gerektiğinden dolayı, su sebeple davacının istinafının kabulü ile kararın kaldırılarak mahkemesine gönderilmesi gerekmiştir.

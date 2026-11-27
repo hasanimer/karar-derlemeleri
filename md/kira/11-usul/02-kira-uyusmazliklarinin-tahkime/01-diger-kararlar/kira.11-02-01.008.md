@@ -102,6 +102,4 @@ Yasal dayanak: Türkiye Cumhuriyeti Anayasası 142. maddesi,Hukuk Muhakemeleri K
 
 ## İstanbul BAM 35. HD 2018/771 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402366400)
-
 Türkiye Cumhuriyeti Anayasası 142. maddesi,Hukuk Muhakemeleri Kanunu'nun 1,2,4. maddeleri,Türk Borçlar Kanunu 19, 299.maddeleri,Yargılama konusu olayda:Taraflar arasıda 09/09/2014 tanzim tarihli sözleşme gereği bir kısım makina bileşen, aksesuar, sarf malzemeleri, yedek parça, yazılım çözümlerinin sağlanması, kiralanması ve servis hizmetlerinin verilmesinin kararlaştırıldığı, kurulum sağlandıktan sonra gerekli eğitimlerin verilmesi, yedek parça ve sarf malzemelerinin kiralayan tarafından sağlanacağı, kurulum servis bedeli ödenmesi, kopya ve kira tutarının ve baskı başı ve ek servis ücretlerinin ödenmesi, kopya adedinin bildirilmesi yükümlülüğü ve ödemelerin gecikmesinden kaynaklanan cezalara ilişkin sözleşmede düzenlemeler bulunduğu,…

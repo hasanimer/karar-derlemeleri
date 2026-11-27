@@ -86,8 +86,6 @@ Davalı tarafın süresinde sunduğu cevap dilekçesindeki beyanları dikkate al
 
 ## Gaziantep BAM 11. HD 2026/918 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209287000)
-
 "... BK’nın 118. vd. maddesinde (TBK m. 139 vd.) düzenlenen ‘‘Takas’’, iki tarafın karşılıklı olarak birbirinden aynı cinsten ya da özdeş (aynı nitelikte) ve istenebilir olan alacak ve borçlarının, taraflardan birinin takas itirazını dermeyan etmesi suretiyle borç ilişkisinin tamamen veya kısmen sona erdirilmesidir. Takas sonucu her iki borç daha az olan borç miktarınca sona erer. Takas, hukuki niteliği itibariyle bozucu yenilik doğuran bir hak olup, sözleşme niteliğinde bulunmadığından, takas iradesinin muhatabına ulaşmasıyla birlikte sonuç doğurmaya başlar. Takas talebi karşı dava olarak ileri sürülebileceği gibi karşı dava açmaya gerek olmaksızın def’i yoluyla da ileri sürülebilir.
 
 ## Ankara BAM 22. HD 2024/1272 K.
@@ -103,8 +101,6 @@ Davalı tarafın süresinde sunduğu cevap dilekçesindeki beyanları dikkate al
 Maddeden de anlaşılacağı üzere takasın söz konusu olabilmesi için iki tarafın karşılıklı olarak birbirinden alacaklı olması gerekir. Alacak ve borç karşılıklı değilse veya iki kişi arasındaki borç ilişkisinin dışında kalan kişilerden olan alacaklar ya da borçlar takasa konu olamaz. Ayrıca takas için yalnız borçlularda değil, borçlarda da karşılıklılık bulunmalıdır. Ancak aynı nitelikteki cins veya özdeş edimlerin takası mümkündür. Takas için aranan üçüncü koşul ise kural olarak her iki borcun muaccel (ifasının istenebilir) olması gerekir. Dördüncü koşul ise tarafların alacak ve borçlarının geçerli ve ifa edilebilir olması gerekmektedir (Uygur, Turgut: 6098 sayılı Borçlar Kanunu Şerhi, C. 1,3. Baskı, Temmuz 2013, s. 920-925).
 
 ## Ankara BAM 22. HD 2022/467 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753743100)
 
 Türk Borçlar Kanununun 139/1 maddesi uyarınca, iki kişi karşılıklı olarak bir miktar parayı veya konuları itibari ile aynı türden malı birbirine borçlu oldukları takdirde, her iki borç muaccel ise iki tarafın her biri borcunu alacağı ile takas edebilir. Sonuçta her iki borç da az olanı oranında sona erer (Eren, F. Borçlar Hukuku Genel Hükümler,7. Bası. Beta. İstanbul, s. 1261). Takas borcu sona erdiren nedenlerden biridir. Takastan bahsedebilmek için Kanun takas için bir irade açıklaması aramaktadır. Takası gerçekleştirmek için irade açıklamasına takas beyanı denir. Bu beyan bir taraflı bir hukuksal işlemdir. Bu işlem bir yenilik doğuran hakka dayanır. Tarafların biri, borcu ile alacağını takas ettiğini karşı tarafa bildirerek, bu hakkını kullanmış olacaktır (TBK. m. 143/I). Takas hukuki niteliği itibariyle bozucu yenilik doğuran bir haktır. Borçlunun takas hakkını kullanma isteğini, alacaklıya bildirmesi gerekir. Takas bir sözleşme olmadığı içi karşı tarafın kabulüne bağlı değildir. Takas aynı zamanda borcu sona erdirdiği için bir tasarruf işlemidir. Bu nedenle, borçlu takas edilecek alacak üzerinde tasarruf yetkisine sahip olmalıdır.
 

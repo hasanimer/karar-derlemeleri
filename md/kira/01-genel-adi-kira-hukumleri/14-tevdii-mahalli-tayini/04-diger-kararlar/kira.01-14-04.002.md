@@ -156,8 +156,6 @@ Talep edenin uzun süredir kira bedellerini ödüyor oluşu ve bu hususa davalı
 
 ## Antalya BAM 3. HD 2023/245 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871860200)
-
 Davacı ..... tarafından icra takibine konu yapılan faturalandırma dönemi itibariyle .... tarafından düzenlenerek davalıya gönderilen su faturaları incelendiğinde ise sadece içme suyuna ait faturalandırmanın yapıldığı, atıksu ücretinin istenmediği, tevdi mahalline yatan ve .... tarafından tahsil edilen tutarların, ... tarafından ihtilaflı dönemde tahakkuk ettirilen içme suyu bedellerine tekabül ettiği görülmüştür. Buna göre davalının tevdi mahalli tayin ettirmekle birlikte içme suyu bedeline tekabül eden tutarları tevdi mahalline yatırdığı, atıksu ücretini yatırmadığı sonucuna ulaşılmıştır. İçme suyu hizmetinin ....a devredilmesiyle birlikte içme suyu bedelinin belirlenmesinde ...., kendi tarifesini uygulayarak tahakkuk
 
 yapmıştır. İhtilaflı döneme ilişkin davacı .....ın,atıksu ücretini talep etme hak ve yetkisine haiz olduğu,....ın kendi tarifesine uygun olarak içme suyu bedelini tahakkuk ettirebileceği yönündeki dairemizin benzer nitelikteki muarazanın giderilmesi talepli uyuşmazlıklarla ilgili istinaf incelemesi sonucunda verilmiş bulunan kararları, Yargıtay tarafından da onanmıştır. (Yargıtay 3.Hukuk Dairesi'nin 2022/4231 Esas, 2022/5795 Karar sayı v.b.)…
@@ -180,7 +178,5 @@ işleyecek avans faiziyle birlikte davalılardan alınarak davacıya verilmesine
 ...
 
 ## Konya BAM 6. HD 2021/304 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/730438400)
 
 Ancak...A.Ş. yönünden finansal kiraların aksatılmadan ödenmeye devam edilmesine,... A.Ş. yönünden ise bugünden itibaren 1 hafta içerisinde keşide edilecek ve en geç 2 hafta süre tanınacak noter ihtarnamesi ile ... A.Ş.'den ödeme için hesap numarası istenmesi veya bu talepleri süresinde kabul görmez ise, sürenin sona erdiği tarihten itibaren 1 hafta içerisinde tevdi mahalli tayini yoluna gidilmesi suretiyle ödenecek hesabın tespiti ve... A.Ş. tarafından hesap numarasının bildirilmesi veya tevdi mahalli tayini yoluyla hesap numarası belirlenmesinden sonra da 1 hafta içerisinde birikmiş kiraların derhal ve topluca ilgili hesaba ödenmesine,…

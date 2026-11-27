@@ -125,8 +125,6 @@ K A R A R: Yukarıda açıklanan nedenlerle; Davalı Toplu Konut İdaresi Başka
 
 ## Antalya BAM 11. HD 2022/1813 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846532000)
-
 Davalı cevap dilekçesinde özetle; davalı şirketin feshi talebi ile açılan davada dava- nın müvekkili ...'a ihbarı dışındaki diğer kişelere ihbarına ilişkin talebin yersiz olduğunu, müvekkili ...'un yeni müdür seçilene kadar müdürlük görevinin devam ettiğini, müvekkili ... in bu şirket kurulmadan önce de ticari faaliyetlerde bulunduğunu, davacının belirttiği sözleşmeye konu taşınmazın müvekkili ... in bu dönemde imzalanan sözleşmeye konu olduğunu, müvekkilinin başka faaliyetlerinin de olduğunu, davacının mü- vekkili hakkındaki şirket hesaplarını şahsi hesapları gibi kullandığı iddiasının da doğru olma- dığını, davalı şirketin müvekkilinin şahsi gayretiyle bu güne kadar geldiğini, süreçte davalı şirket için müvekkilinin harcamalar yaptığını, davacının iddia ettiğinin aksine şirket geliri ile yanlızca müvekkili adına bir taşınmaz alınmadığını aynı zamanda davacı adına da taşınmaz alındığını, müvekkilinin 21/10/2020 Tarihli sözleşmeye uygun olarak sözleşmede belirtilen taşınmazları fiilen davacıya devrettiğini sözleşmeye davacının uymadığını, bu taşınmazların imar problemleri sebebi ile müvekkilinin de üzerine alamadığı taşınmazlar olduğunu, tedbir talebinin haksız olduğunu, davacının
 üzerine tedbir konulmasını istediği araçlardan .... ve ....plakalı araçların gerçekte şirket ortağından ayrılan diğer kardeşleri ...'a payına karşılık devredilmesi kararlaştırılan araçlar olduğunu, .... plakalı traktörü de fiilen davacının kullandığını belirterek; şirketin feshine ilişkin davanın reddine, davacının şirketten çıkartılmasına karar verilmesini talep etmiştir.
 
@@ -157,8 +155,6 @@ Yevmiye Numarası ile "Düzenleme Şeklinde Kat Karşılığı İnşaat Sözleş
 Talep, resmî belgeye, başkaca kesin bir delile dayanıyor yahut durum ve koşullar gerektiriyorsa, mahkeme gerekçesini açıkça belirtmek şartıyla teminat alınmamasına da karar verebilir. Adli yardımdan yararlanan kimsenin teminat göstermesi gerekmez. (2) Asıl davaya ilişkin hükmün kesinleşmesinden veya ihtiyati tedbir kararının kalkmasından itibaren bir ay içinde tazminat davasının açılmaması üzerine teminat iade edilir" hükmüne yer verilmiştir. Eldeki dava ,tapu iptali ve tescil, ipoteğin terkini taleplerine ilişkin olup dava değeri 8.500.000,00 TL olarak gösterilmiştir. İlk derece mahkemesince davalı ...
 
 ## Konya BAM 5. HD 2022/1435 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/826303900)
 
 Davacı vekili dava dilekçesinde özetle; Davalı yüklenici ... ile diğer davalı ... arasında arsa payı karşılığı inşaat sözleşmesi olduğunu, davalı yüklenici tarafından kendisine satılan 2 adet taşınmazın tapusunun, davalı arsa sahibinin sözleşmenin geriye etkili fesh talebiyle açtığı dava neticesinde tapusunun iptal edildiğini ileri sürerek, taşınmazların dava tarihindeki rayiç bedelinin şimdilik 20.000 TL'sinin avans faizi ile birlikte davalılardan müteselsilen tahsilini, ayrıca ihtiyati tedbir ve ihtiyati haciz kararı verilmesini talep etmiştir.
 

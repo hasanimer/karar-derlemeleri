@@ -138,8 +138,6 @@ davanın açılmasına sebep olan asıl kişinin ... olduğunu,...'in kendini mi
 
 ## Bursa BAM 5. HD 2025/531 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198164600)
-
 \*\*\*\*\*\*\*\*. Sulh Hukuk Mahkemesinin \*\*\*\*\*\*\*\*\* D.iş Dosyasında alınan raporda; tespit konusu alışveriş merkezine ait yemek katının (2.Kat) mimari uygulama projesinde belirlendiği üzere, yürüyen merdivenlerin sağ ve sol tarafında kalan ortak alanda yer alan masa ve sandalyelerin dükkanların kullanımına özgülendiği, tespit isteyen şirketin kiralamış olduğu dükkanların yürüyen merdivenlerin karşısında yer aldığı, ortak alanlardaki bu masa ve sandalyelerin tüm işletmelerin müşterileri tarafından kullanılabileceği, ancak \*\*\*\*\* ile \*\*\*\*\* önünde farklı masa-sandalye konularak, masa üstüne isim yazmak, menü koymak şekli ile kullanım şeklinin değiştirildiğini, bu dükkanların önünde farklı masa ve sandalyelerin ortak alandaki diğer masa ve sandalyelerin kullanımı gibi tüm dükkan müşterilerine kullandırılmadığı ve bu işyerlerinin diğer dükkanlar karşısında farklılık algısı yarattıkları, mütalaa edilmiştir.
 
 ## İstanbul BAM 14. HD 2025/430 K.

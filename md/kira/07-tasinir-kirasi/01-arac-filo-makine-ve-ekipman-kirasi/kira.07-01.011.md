@@ -160,12 +160,8 @@ Gerek görevsiz mahkemece alınan bilirkişi raporunda gerekse mahkemece hükme 
 
 ## Antalya BAM 6. HD 2024/148 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/995998300)
-
 Somut olayda, davaya ve takibe konu faturalarda araç kiralama bedeli yazıldığı, dosya kapsamından taraflar arasında yazılı bir sözleşmenin bulunmadığı,taraflar arasında kira ilişkisi olup olmadığının belli olmadığı açıktır. Özellikle araç kirasına ilişkin sözleşmelerde aracın operatörlü kiralanması, kira bedelinin çalışma saatine göre belirlenmesi vb durumlarda Yargıtay uygulamalarındaki süregelen kabule göre taraflar arasındaki ilişkinin kira ilişkisi olmayıp hizmet alımı olduğu, bu durumda faturaların dayanağı olan sözleşme incelenmeden, tarafların bu yönde beyanları alınmadan, eş söyleyişle uyuşmazlık aydınlatılmadan görevsizlik kararı verilmesi yerinde olmadığı belirtilmiştir. Yargıtay 3. Hukuk Dairesinin 25.01.2018 tarih, 2017/8678 esas - 2018/705 karar sayılı, aynı dairenin 2017/6250 Esas - 2019/2887 Karar sayılı, aynı dairenin 2017/7533 Esas - 2019/3707 Karar içtihatları bu doğrultudadır.
 
 ## Adana BAM 9. HD 2023/1398 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984231900)
 
 Takibe konu 27/01/2018 tanzim, 27/02/2018 vade ve 16.900,00.TL bedelli senedin keşidecisinin davacı, lehtarının ise davalı olduğu, senedin malen kaydını içerdiği, araç kiralama sözleşmesi gereğince teminat senedi olarak verildiğine dair senette herhangi bir kaydın bulunmadığı anlaşılmaktadır. Davacı takip dayanağı senedin mal karşılığı davalıya verildiğini, ancak mal teslim edilmediğini iddia etmiş; davalı vekili ise senedin ... plakalı aracın kiralama ücreti karşılığı düzenlendiğini ve takibe konulduğunu, senedin araç kiralama sözleşmesinin teminatı olarak verildiğini savunmuş olup, davalının malen düzenlenmiş senet metnindeki ihdas sebebini talil ettiği anlaşılmıştır.

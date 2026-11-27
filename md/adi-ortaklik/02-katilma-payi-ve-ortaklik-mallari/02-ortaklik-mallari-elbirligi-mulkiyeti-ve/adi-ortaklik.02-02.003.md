@@ -124,8 +124,6 @@ Bilirkişi heyet raporunda ve Mali Müşavir ... tarafından düzenlenen uzman r
 
 ## Konya BAM 4. HD 2022/3652 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854676100)
-
 Konya ... Asliye Ticaret Mahkemesince; uyuşmazlığın şirket ortaklığı ilişkisi içinde çözülmesi gerektiğinden bahisle görevsizlik kararı verilmiş ise de; davada tacir olmayan taraflar arasında adi ortaklığın tasfiyesine ve tasfiyeye konu malların tapu iptal tescil ve tahsiline yönelik bir uyuşmazlık söz konusu olduğunu ve TBK 520. Maddesi kapsamında kalan bu uyuşmazlıkta mahkemenin görevli olmayıp, asliye hukuk mahkemesi görevlidir gerekçesiyle karşı görevsizlik kararı vererek, olumsuz görev uyuşmazlığı nedeniyle merci tayini için yargı yerinin belirlenmesi amacıyla dosya dairemize gönderilmiştir.
 
 ## İstanbul BAM 7. HD 2022/2625 K.

@@ -152,8 +152,6 @@ girdiğinden dolayı 20 Haziran'a kadar süre istediklerini beyan eden mail de n
 
 ## Antalya BAM 5. HD 2026/293 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199143600)
-
 Somut olayda, taraflar arasındaki uyuşmazlığın, davacı kiralayan ile davalı .... Tur. Tic. ve San. AŞ arasında yazılı şekilde akdolunan 09/01/2020 düzenleme, 01/11/2020 başlangıç tarihli, 31/10/2024 bitiş tarihli kira sözleşmesinin 3. maddesinde belirtilen kambiyo senetlerinin davacı kiralayana devrinden sonra ortaya çıkan yeni durumlar (covid 19 salgını) gereği sözleşmenin tarafları arasında düzenlenen ek protokoller ile kiracıya iadesi hususunda anlaşılması ve 4 adet çek haricinde diğer kambiyo senetlerinin anlaşmaya uygun devredilmesine karşın bu 4 adet çekin devredilememesi noktasında oluştuğu, davalı kiracının somut davadaki muarazanın meydana gelmesinde sorumluluğunun bulunup bulunmadığı konusundaki ihtilafın da davanın esasına girilerek çözülecek mesele olduğu, işbu sebeple taraflar arasındaki uyuşmazlığın kira ilişkisinden doğduğu anlaşılmakla, somut uyuşmazlıkta Sulh Hukuk Mahkemesi görevli olduğundan, Antalya 12.Sulh Hukuk Mahkemesinin 28/11/2025 tarih ... E. ....K. S. yetkisizlik kararının kaldırılmasına karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 55. HD 2026/814 K.

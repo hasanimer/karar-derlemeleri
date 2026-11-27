@@ -71,6 +71,4 @@ Yüklenicinin kişisel hakkını temellük eden üçüncü kişi de bu hakları 
 
 ## Antalya BAM 1. HD 2021/1429 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687623700)
-
 Arsa payı devri karşılığı inşaat yapım sözleşmesinin tarafı olan yüklenici, yukarıdan beri sayılan edimleri yerine getirdiğinde arsa sahibine karşı kazandığı kişisel hak sebebiyle arsa payı veya bağımsız bölüm tapusunun devrini ondan isteyebileceği gibi TBK. nun 183 ve devamı maddelerine dayanarak kişisel hakkını arsa sahibinin onamı gerekmeksizin üçüncü kişilere yazılı olmak koşuluyla devir ve temlik edebilir.

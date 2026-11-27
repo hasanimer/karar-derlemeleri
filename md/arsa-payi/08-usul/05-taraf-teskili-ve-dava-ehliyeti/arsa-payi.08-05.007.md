@@ -22,8 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 16. HD 2025/91 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122519000)
-
 Davacı vekili, müvekkilinin davalı kooperatiften ... ada ... parsel ... blok ... nolu bağımsız bölümü inşaat tamamlanıncaya kadar kendisinden bir daha ücret alınmayacak şekilde peşin ve tek ödemeli olarak satın aldığını, davalı kooperatif ile diğer davalılardan ..., ..., ..., ..., ..., ... ve ... ile davalı kooperatif arasında kat karşılığı inşaat sözleşmesi yapıldığını, davalı kooperatifin tek ödemeli olarak müvekkilinin kendisinden satın aldığı bu yeri davalı arsa malikleri ile birlikte diğer davalı ... isimli kişiye sattığını belirterek, dava konusu ... ada ... parsel ... blok ... nolu bağımsız bölümü davalılar adına kaydının iptali ile müvekkili adına tapuya tesciline karar verilmesini, bu olmadığı taktirde taşınmazın keşif yolu ile belirlenecek değerinin davalılardan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -35,8 +33,6 @@ Mahkemece yazılı gerekçeyle, asıl davada, davalı önceki malik ... ile birl
 Kural olarak, arsa malikleri ile kooperatif arasında yapılan sözleşmede (Antalya 2. Noterliği'nin 14/05/1993 gün ... yevmiye sayılı düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi) davacı ortak taraf olmadığından ve arsa maliklerince davacı ortağa karşı bağımsız bir taahhüt altına girilmediğinden, davacının arsa sahiplerine karşı doğrudan dava açması mümkün değildir. Bu nedenle davalı arsa sahiplerine açılan davanın pasif husumet yokluğu sebebiyle reddedilmesi gerekirken, yanılgılı değerlendirme ile satışın haksız olduğu gerekçesiyle davanın kabulüne karar verilmesi hatalı olmuştur. Diğer taraftan, arsa sahiplerinden olan davalı ..., yargılama sırasında vefat etmiş olup, mirasçıları davaya dahil edilmiş, mirasçılardan ...'nın süresi içerisinde mirası reddettiği mahkeme kararı ile sabit olmasına rağmen bu kişinin davada husumetinin zaten bulunmadığının gözetilmemesi yerinde değildir. Açıklanan sebeplerle davalı arsa malikleri vekillerinin istinaf başvuruları ayrı ayrı kabul edilmiştir.
 
 ## Antalya BAM 11. HD 2024/1706 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113673100)
 
 Davalılar ... ve ... Şti.vekili, müvekkillerine husumet yöneltilmesinin hukuken mümkün olmadığını, kim tarafından temsil edilerek işbu sözleşmeye imza atıldığının belirsiz olduğunu, müvekkillerinin taraf sıfatının olmadığını, davanın reddini talep etmiştir.
 
@@ -65,8 +61,6 @@ Bu husus Yargıtay 13. Hukuk Dairesinin 27/06/2018 tarih ... E. ... K. Sayılı 
 
 ## Gaziantep BAM 17. HD 2024/987 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078846100)
-
 Davalı taraf kendisine usulüne uygun tebligat yapılmasına rağmen yasal süresi içerisinde cevap dilekçesi sunmamıştır.
 
 …
@@ -84,8 +78,6 @@ Davalı taraf kendisine usulüne uygun tebligat yapılmasına rağmen yasal sür
 Davalı vekilinin istinaf başvurusunun kabulü ile,....... Esas ve 2021/35 Karar sayılı kararının HMK'nın 353/1-a,6. maddesi gereğince KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2024/575 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033440200)
 
 Davalı şirket cevap dilekçesi sunmamış olup, duruşmalara katılan tasfiye memuru ..., inşaat işleriyle ilgilenen ortağın ... olduğunu, yapılan inşaatla ilgili bilgi sahibi olmadığını, arsa sahibinin satılan bağımsız bölümlerde tapu vermeyle ilgili problem yarattığını bildiğini beyan etmiştir.
 
@@ -140,8 +132,6 @@ esasını çözümler şekilde ihtiyati tedbir kararı verilemeyeceğinden bahis
 
 ## Antalya BAM 7. HD 2023/752 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915307700)
-
 Davacı vekili açtığı dava ile, davacı şirketin dava dışı arsa sahipleriyle kat karşılığı inşaat sözleşmesi yaptığını, sözleşmeye göre ...
 
 …
@@ -178,8 +168,6 @@ Asliye Ticaret Mahkemesi'ndeki 2006/228 Esas sayılı dosyası ile yetki talebin
 yönünden aktif husumet yokluğundan reddine, bunlar dışında kalan davacılar yönünden ise kira tazminatı talebinin reddine, eksik ve ayıplı iş nedeniyle 23.073,00 TL bedelin kabulüne, yine 822,12 m² ticaret alanının arsa sahiplerine verilmesi gerektiğinin tespitine, birleşen Ankara 4. Asliye Ticaret Mahkemesi'nin 2008/526 ve Ankara 3. Asliye Ticaret Mahkemesi'nin 2008/699 esas sayılı davaların ise reddine karar verilmiş, karara karşı yukarıda belirtildiği üzere yüklenici kooperatif vekili, bir kısım arsa sahipleri vekili ile davalı ... ve davalı ... vekilince istinaf başvurusunda bulunulmuştur.
 
 ## Ankara BAM 27. HD 2022/255 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740590500)
 
 Davacı vekili; müvekkilinin ... ilçesi 47624 ... 11 ... sayılı taşınmazdaki binaya ... cephe, cam giydirme ve dükkan doğramaları imalatı ve işçiliğini yaptığını, bu işlerin yapımı ve bedelinin ödenmesi için davalı ... ... Ltd.
 

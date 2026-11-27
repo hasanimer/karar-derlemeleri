@@ -231,8 +231,6 @@ Maddenin gerekçesinde; bu yeni düzenlemenin, öğreti ve uygulamada sözleşme
 
 ## Antalya BAM 13. HD 2025/642 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161604900)
-
 2-)Somut dosyada davacıların gelir kaybına ilişkin talebi, 23/11/2018 tarihi ile dava tarihi arasındaki döneme ilişkin olmasına rağmen, somut dosyada alınan bilirkişi raporunda 01/03/2017 ile 22/11/2018 tarihleri arasına ilişkin olanrak gelir kaybı değerlendirmesi yapılmış ve mahkeme tarafından da bu bilirkişi raporu dikkate alınarak karar verilmiştir. Oysa, bilirkişi raporu ve mahkemenin kararında hükme esas alınan tarihler, dava dilekçesinde talep edilen tarihleri kapsamadığından davacının talebini karşılar şekilde karar verildiğinden bahsedilmesi mümkün değildir. Bunun yanında, davacı taraf dava dışı Antalya Büyükşehir Belediye Başkanlığından kiraladığı dava konusu yerin bir kısmının davalılar tarafından işgal edilmesi nedeniyle kullanamadığı yerden kaynaklı olarak gelir kaybı talebinde bulunmuş ise de; davacının bu talebinin haksız işgale dayalı ecri misil istemi olarak değerlendirilmesi gerekir. Mahkemece mahallinde keşif icra edilmediğinden ve dosya üzerinden rapor alınan bilirkişilerce taşınmazdaki işgal durumu değerlendirilmediğinden, dosyada gerekli araştırma ve incelemeler yapılarak hüküm kurulduğundan bahsedilemez.
 Keza, davalı tarafça dava konusu yerdeki bir kısım eksikliklerin dava dışı Antalya Büyükşehir Belediyesi tarafından giderildiği ileri sürülmesine rağmen, mahallinde keşif icra edilmediğinden bu hususların mahkeme ve bilirkişiler tarafından tespiti de mümkün olmamıştır. Tüm bu sebeplerle, mahkemece eksik inceleme ve araştırma ile hüküm kurulduğundan kararın doğru olduğundan bahsedilmesi mümkün değildir.
 

@@ -151,8 +151,6 @@ Davacı vekilinin istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b.1 maddesi
 
 ## Antalya BAM 11. HD 2025/1410 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190233200)
-
 Mahkemece yukarıda yazılı gerekçeyle, davanın kısmen kabulüne karar verilmiştir.
 
 …

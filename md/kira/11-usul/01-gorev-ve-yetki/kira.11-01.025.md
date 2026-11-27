@@ -31,8 +31,6 @@ A.Ş.'ye hasar bedeli olarak 5.819,00 TL ödendiği ancak, bu nedenle davacı si
 
 ## Ankara BAM 21. HD 2021/993 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683402400)
-
 Gerçekten de dosya kapsamında davacı şirket ortağı ... ... tarafından davalı ....... karşı 04.01.2021 tarihinde davalı .... mülkiyeti ait bulunan taşınmazın davalı şirkete kiraya verilmesine ilişkin 23/12/2019 tarihli kiralama ve devir sözleşmesinin feshi, tahliye ve kira alacağı istemleriyle açılan davanın Eskişehir 3. Sulh Hukuk Mahkemesi'nin .... Esas sayılı, yine, davacı ... ... tarafından davalı ... ... aleyhine, dava dilekçesinde belirtilen taşınmazlardaki ortaklığın giderilmesi istemiyle 21/09/2020 tarihinde açılan davanın Eskişehir 1. Sulh Hukuk Mahkemesi'nin..... sayılı dava dosyalarında derdest oldukları anlaşılmıştır.
 
 ## İstanbul BAM 17. HD 2021/885 K.

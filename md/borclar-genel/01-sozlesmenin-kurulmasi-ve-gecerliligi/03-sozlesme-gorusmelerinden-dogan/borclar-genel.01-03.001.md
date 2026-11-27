@@ -132,8 +132,6 @@ Ancak, karşı tarafın bu beklentiden dolayı masraflar yapması nedeniyle uğr
 
 ## Antalya BAM 11. HD 2025/727 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174954000)
-
 Sözleşme öncesi sorumluluğa ilişkin olarak gerek Türk Borçlar Kanunumuzda gerekse mehaz İsviçre Borçlar Kanunu’nda genel bir düzenleme bulunmamaktadır. Ancak bazı özel düzenlemeler bu sorumluluğun kabul edildiğini göstermektedir. Borçlar Kanunumuzun 26/1. 31 f. II, 36/II, 39 f.1, 452 f.1 maddeleri sözleşme öncesi sorumluluğa ilişkin özel hükümlerdir. Nitekim doktrinde bu konuda muhtelif görüşler ileri sürülmekle birlikte ağırlıklı görüş, bu sorumluluğun niteliği itibariyle sözleşmesel bir sorumluluk olduğu kabul edilmektedir. Sözleşme öncesi sorumluluk, akdin kurulmasından önceki safhada yani, akdin müzakereleri esnasında taraflardan birinin diğer tarafa dürüstlük kuralına dayalı olarak kurulan akit benzeri güven ilişkisine aykırı davranışı dolayısıyla verdiği zarardan sorumluluktur. Sorumluluğun gerçekleşmesi için üzerinde görüşmeler yapılan akdin kurulması şart değildir. Yargıtay’ın kararlılık kazanmış uygulanmasında ise, bu sorumluğun kaynağının sözleşmesel olduğu ya da sözleşme öncesi görüşmelerden kaynaklandığı anlaşılmaktadır.
 Diğer yandan sözleşme görüşmelerinden doğan sorumluluk, yalnızca sözleşmenin geçerliliğine güvenden doğan zarardan (olumsuz zarardan) sorumluluğu değil, TMK'nın 2. maddesindeki dürüstlük kurallarına dayanan “güven ilkesi”nden kaynaklanan karşı tarafın kişi ve mal varlığına zarar vermemek yolundaki davranış yükümüne aykırılıktan doğan sorumluluğu da kapsar.
 

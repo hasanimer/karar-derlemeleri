@@ -208,6 +208,4 @@ Eldeki davada davacı devrin mahkeme hükmü ile tesisini talep etmiştir. Daval
 
 ## Bursa BAM 5. HD 2021/1458 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/693530600)
-
 Bu itibarla, mahkemece boşanma ve mal rejimi davalarının sonucunun bekletici mesele yapılarak, davacının bir alacağının saptanması halinde hisse devrinin muvazaalı olarak devredildiğine ilişkin iddianın TBK’nın 19. maddesi kapsamında değerlendirilerek, aksi durumda dava ön koşul yokluğundan davanın reddine karar verilmek gerekirken, yazılı şekilde hüküm tesisi doğru olmadığından, davacı vekilinin istinaf başvurusunun kabulüne, mahkemenin kararının kaldırılmasına, dosyanın ilk derece mahkemesine gönderilmesine karar verilmiştir (Bkz. Yargıtay 17. Hukuk Dairesinin 2015/4654-2017/4928 E. K. sayılı ve Yargıtay 4. Hukuk Dairesinin 2020/854-2021/15 E. K. sayılı ilamı).

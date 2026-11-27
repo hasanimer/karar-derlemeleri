@@ -96,14 +96,10 @@ iskelenin kurulum ve söküm işlemlerinin, kiralayana aleyhine öngörülen edi
 
 ## Gaziantep BAM 11. HD 2024/1605 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1093957800)
-
 Taraflar arasında imzalanan hizmet alım sözleşmesinin "iş gücü temini ve araç kiralama hizmetin oluşan karma hizmet faaliyeti" olduğu, vergilendirmeye esas kazanç bakımından vergi mevzuatına göre baskın unsurun hizmet sözleşmesi olduğu,bu tespite bağlı olarak ... sayılı ... Kanunu'nun 9.maddesi ve ... Genel Uygulama Tebliği'nin... bölümü uyarınca vergi yükümlüsü davacının gerçek vergi yükümlüsü olduğu, davaya konu faturalarla ilgili olarak 9/10 oranında tevkifat yapılması gerektiği, ... Genel Uygulama Tebliği'nin belge düzeni başlıklı ... bölümü kapsamında tevkifatsız fatura kesilmesi halinde satıcının sözleşmeye aykırı davrandığı ve davacı ... . tarafından .. sayılı ... Kanunu'nun 9.maddesi ve ...
 Genel Uygulama Tebliği'nin... bölümü uyarınca söz konusu sözleşmelere istinaden satıcıya yaptığı ödemelerden ... tutarının sorumlu sıfatıyla tevkif edip, kendi vergi dairesine ödemesi gerektiği, buna rağmen sehven bu tutarların kesinti yapılmadan davalı satıcıya ödendiği, akabinde... oranında tevkif edilen ...'yi ...sayılı ...maddesi kapsamında ilgili .... ödenmesi ve bu haliyle davalının sebepsiz zenginleştiği, dava açılmadan önce BK'nın ....maddesi uyarınca ihtarname çıkarılmak suretiyle davalının temerrüde düşürülmesi ve temerrüd tarihinin ihtarnamede belirtilen süre kapsamında ...... olarak belirlenmesi karşısında ilk derece mahkemesi tarafından verilen kararın isabetli olduğu görülmüştür.
 
 ## Antalya BAM 13. HD 2024/427 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1092526600)
 
 Yargılama sırasında alınan ... tarihli bilirkişi raporunda davacının aracının 14 gün içerisinde tamir edilebileceği, emsal bir aracın günlük kira ücretinin 1.500,00 TL olabileceği, bu süre içerisinde araç kira bedeli olarak 21.000,00 TL ödenmesi gerektiği, ancak kiralama bedeli üzerinden %10 amortisman düşüldüğünde davacı tarafın talep edebileceği ikame araç bedelinin 18.900,00 TL olduğu mütalaa edilmiştir.
 
@@ -134,8 +130,6 @@ KDV oranları, 2007/13033 sayılı Bakanlar Kurulu Kararı (BKK) eki (I) sayıl�
 
 ## Ankara BAM 21. HD 2024/1249 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106262700)
-
 Tüm dosya kapsamı, istinaf nedenleri ve yasal mevzuat birlikte değerlendirildiğinde; davacıya ait.... plaka sayılı aracın rent ... rent a car kasko sigorta poliçesi ile davalı tarafından sigortalandığı , aracın kullanım tipinin kiralama olup, dosya kapsamına sunulan belgeler dikkate alındığında dava konusu aracın 23/06/2020 tarihinde ... tarafından kiralandığı, sürücü ...'un 12/10/2020 tarihinde sevk ve idaresindeki dava konusu araç ile trafik kazasına karıştığı, kaza neticesinde aracındaki meydana gelen hasarın davalı tarafça ödenmediğinden bahisle eldeki davayı açtığı, davalı ... şirketi tarafından hasarın kazayla uyumlu olmadığının ileri sürüldüğü, davacı tarafça delil tespiti talebinde bulunulması üzerine, aracın adliye otoparkında incelemesi yapılıp rapor tanzim edildikten sonra aracın satıldığı, yargılama kapsamında bilirkişilerce delil tespit dosyasında yapılan tespitler ve çekilen fotoğraflar üzerinden incelemeler yapıldığı hususlarında dosyamız kapsamında uyuşmazlık bulunmadığı, dosyamız kapsamındaki uyuşmazlığın davacının aracında meydana gelen hasarın miktarının ve bu doğrultuda davalının sorumluluğunun belirlenmesi noktasında toplandığı görülmüştür.
 
 ## İstanbul BAM 54. HD 2024/2392 K.
@@ -156,14 +150,10 @@ davacıya iadesi, mümkün olmaması halinde bedelinin ve dava dilekçesindeki d
 
 ## Konya BAM 6. HD 2024/1725 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083450400)
-
 Somut olayda, taraflar arasındaki sözleşme sürücülü araç kiralanmasına ilişkin olup yukarıda belirtilen Kamu İhale Genel Tebliği 78.1.3. maddesine göre “personel çalıştırılmasına dayalı hizmet sözleşmesi” niteliğindedir. Bu nedenle 4734 sayılı Kamu İhale Kanunu'nun 62/e ve ek 2 maddesi, 4735 sayılı Kamu İhale Sözleşmeleri Kanunu’nun 8. ve 1. ek fıkra gereğince taraflar arasındaki tüm ihale evrakı, sözleşmeler, hak edişler incelenmek suretiyle belirtilen bu kanun hükümlerine göre asgari ücretten kaynaklanan fiyat farkı verilebilmesi için gereken şartların gerçekleşip gerçekleşmediğinin değerlendirilmesi gerekmektedir. Mahkemece hükme esas alınan bilirkişi raporunda yukarıda belirtilen hususlarda herhangi bir değerlendirme yapılmamıştır. Ayrıca, dosyada mevcut bilgi ve belgelere göre davacının dava konusu sözleşme ile üstlenmiş olduğu işin bir kısmını dava dışı....... Tur. İnş. Ltd.
 Şti'den sürücülü araç kiralamak suretiyle ifa ettiği, kiralanan sürücülü araç sayısının aylara göre değişiklik gösterdiği, adı geçen şirkete araç başına aylık 1.000,00 TL ücret ödendiği görülmekte olup mahkemece hükme esas alınan bilirkişi raporunda davacının sürücülü araç kiralamak suretiyle ifa ettiği hizmetler yönünden fiyat farkı talep edip edemeyeceği hususunda da herhangi bir değerlendirme yapılmamıştır. Mahkemece konusunda uzman üç kişilik bilirkişi kurulundan davacının fiyat farkı talep edebilmesi için gereken şartların gerçekleşip gerçekleşmediği, gerçekleşmişse davacının talep edebileceği fiyat farkının ne olduğu hususunda rapor alınarak sonucuna göre karar verilmesi gerekirken eksik inceleme ile yazılı şekilde karar verilmesi doğru olmamıştır. Bu nedenle davalının istinaf talebinin kabulüne, HMK'nın 353/1-a.6 maddesi gereğince ilk derece mahkemesi kararının kaldırılmasına, kaldırma nedenine göre davacı vekilinin istinaf taleplerinin incelenmesine gerek bulunmadığına, davanın yeniden görülmesi için dava dosyasının kararı veren mahkemeye gönderilmesine ilişkin aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Antalya BAM 11. HD 2024/1496 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1080818400)
 
 O halde Mahkemece, tarafların tüm delillerinin toplanması, davacıya ait aracın kaza tarihinde rent a car işinde kullanılıp kullanılmadığının tespiti açısından davacı şirketin ticari defterleri, kayıtları, sözleşme ve faturaları getirtilerek aracın şirket envanterinde kayıtlı ise ne olarak kayıtlı olduğu, vergi dairesi, trafik tescil birimi ve başkaca ilgili kuruluşlara yazı yazılarak aracın rent a car olarak işletilip işletilmediğinin araştırılması, KABİS (kiralık araç bildirim sistemi) kaydı olup olmadığı, sürücü ile davacı arasındaki ilişkinin ortaya konulması bakımından tüm belgeler toplandıktan ve konusunda uzman bilirkişiden rapor aldırılarak dava konusu sigortalı aracın rent a car (kiralama) işinde kullanılıp
 

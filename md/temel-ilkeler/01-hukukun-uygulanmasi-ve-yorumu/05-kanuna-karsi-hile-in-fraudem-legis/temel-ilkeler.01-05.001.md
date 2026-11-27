@@ -133,8 +133,6 @@ HUMK’nun 97.maddesi hükmü gereğince teminat göstermekle yükümlü olan ge
 
 ## Ankara BAM 21. HD 2021/1471 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707976300)
-
 Diğer yandan, her iki davalı şirketin ana sözleşmelerinin “Rekabet Yasağı” kenar başlıklı 13. Maddesinde de değişiklik yapılmıştır. Davalı her iki şirketlerin iki ortaklı olduğu, ortaklardan birinin davacı, diğerinin ise şirketlerden birinde % 70, diğerinde % 75 paya sahip olan ve müdürlük görevini ifa eden dava dışı ortak ... ... olmakla, müdür olan ortak ... ... 6102 Sayılı TTK’nın 619/3.maddesi uyarınca, ortağın rekabet yasağına aykırı faaliyetlerde bulunmasını onaylayan kararlarda ilgili ortak olarak oy kullanamayacağından, rekabet yasağına aykırı faaliyette bulunabilme yönünde genel kuruldan olumlu karar alınabilmesi mümkün olamayacaktır. Rekabet Yasağına ilişkin engeli aşabilmek için her iki şirketin ana sözleşmesini TTK’nın hükümlerine uyarlama adı altında ana sözleşmelerin 13.maddesinde yapılan değişiklik ile maddelere son cümle olarak “şirket ortakları ve müdürler şirket iştigal konuları veya başka konularda başka ticari faaliyetlerde bulunabilir ve bu faaliyetlerin yürütüldüğü yerlerde yönetici olabilirler” şeklinde yapılan ekleme kanunu dolanma ve dolayısıyla afaki iyi niyet kurallarına aykırıdır.
 Bu nedenle 6102 Sayılı TTK'nın 436.maddesi gereğince oydan yoksun olan her iki davalı şirketin ortağı ve müdürü olan ... ...'in oyuyla Rekabet Yasağına ilişkin alınan karar yok hükmünde olduğundan ilk derece mahkemesince Rekabet Yasağına ilişkin ana sözleşmenin 13.maddelerine ilişkin değişikliğin yok hükmünde olduğunun tespiti yerine yazılı şekilde hüküm kurulmuş olması da yerinde değildir.
 

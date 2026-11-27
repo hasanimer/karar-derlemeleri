@@ -38,8 +38,6 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1-Davacı vekilinin isti
 
 ## Konya BAM 5. HD 2024/276 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017206200)
-
 Davalı vekili cevap dilekçesinde özetle; davacı ile 25 Kasım 2008 tarihinde imzalanan sözleşmenin, davacının inşaatı yapmayacağının anlaşılması üzerine noterde 03.03.2016 tarihinde yapılan yeni bir sözleşme ile davacının sözleşmeden kaynaklanan tüm yükümlerini ve haklarını ihbar olunan .... İnşaat Taah.
 
 …

@@ -101,8 +101,6 @@ HÜKÜM: Yukarıda açıklanan gerekçelerle; 1-HMK'nın 353/1.b.1. maddesi uyar
 
 ## Antalya BAM 7. HD 2023/930 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940415500)
-
 Davacı/ birleşen dosya davalı vekili, asıl davada, eksik inceleme neticesinde cezai şart taleplerinin reddine karar verilmesinin hatalı olduğu, davacının zararının talep edilen cezai şarttan fazla olduğu, asıl davada, eksik ve ayıplı imalat bedelleri ile değer kaybından kaynaklanan taleplerinin zamanaşımı nedeniyle reddine karar verilmesinin hatalı olduğu, somut olaya uygulanması gereken 10 yıllık zamanaşımı süresinin dolmadığı, sözleşmenin ifa ve fesih edilmemiş olması, açılan davanın belirsiz alacak davası olması nedeniyle zamanaşımı süresinin işlemeye başlamadığı ve sürenin işletilemeyeceği, birleşen davada, davacı yüklenici tapu hak etmediği için tapunun bedelini de talep edemeyeceğinden ... blok ... nolu bağımsız bölüm yönünden açılan davanın reddi yerine ayırma kararı verilmesinin hatalı olduğu, yargılama giderlerinin kabul/ ret oranına göre paylaştırılmasının doğru olmadığı, yapılan masrafların taraflarına ödenmesi gerektiği, birleşen davada reddedilen talepler için lehlerine ayrı ayrı vekalet ücretine hükmedilmesi gerekirken, toptan tek vekalet ücretine hükmedilmesinin hukuka aykırı olduğu, yüklenicinin sözleşmede belirlenen ücrete hak kazanmaması nedeniyle hapis hakkı
 kullandıkları paylar yönünden ücret indirimi veya takas / mahsup yapılmasını talep ettikleri gibi nedenlerle kararı istinaf etmiştir.
 

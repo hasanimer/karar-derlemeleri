@@ -29,8 +29,6 @@ Finansal kiralama sözleşmesine konu olan, kiralama yöntemi ile satın alma op
 
 ## Antalya BAM 11. HD 2022/639 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/745242100)
-
 6361 Sayılı Yasa'nın 33. Maddesine göre Kiracının bu Kanunda belirtilen süreler içinde borcunu ödememesinden dolayı kiralayan tarafından noter aracılığıyla kiracıya gönderilen fesih ihtarnameleri hakkında 2004 sayılı Kanunun 68/b maddesi hükümleri uygulanır.
 
 ## İstanbul BAM 44. HD 2022/512 K.

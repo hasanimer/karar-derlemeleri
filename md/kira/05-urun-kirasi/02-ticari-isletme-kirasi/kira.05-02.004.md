@@ -140,8 +140,6 @@ Davacı ile davalı arasında 26/02/2013 tarihli kira sözleşmesi imzalandığ�
 
 ## Denizli BAM 4. HD 2025/1375 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173682500)
-
 Dosyanın incelenmesinde; ihtiyati tedbir talep eden ile karşı taraf arasında apart otelin işletilmesi amacı ile kira sözleşmesi yapıldığı, ihtiyati tedbir edenin kiracı, karşı tarafın ise otel sahibi (kiraya veren) sıfatı ile imzaladığı sözleşmede tarafların 01/01/2024-01/01/2029 tarihleri arasında 5 yıl için yıllık kira bedeli 450.000,00 TL olmak üzere anlaştıkları, fakat otel ruhsatı karşı taraf ... adına olması nedeni ile ihtiyati tedbir talep edenin seyahat acenteleri ile anlaşma yapamadığı ve neticeten otel faaliyetlerinin sekteye uğradığından
 
 bahisle işletmenin mesul müdürlüğünün ya da işletme ruhsatının talep edene tedbiren devrini talep ettiği anlaşılmıştır.

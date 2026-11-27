@@ -226,7 +226,5 @@ bitiminden sonra kiracının kiralananı tahliye etmeme ihtimaline binaen, bu ta
 
 ## Antalya BAM 11. HD 2025/1188 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185896900)
-
 Somut uyuşmazlıkta; Yerel Mahkeme kararının gerekçeli olmadığı ve yukarıda anılan emredici nitelikteki Anayasa ve Yasa hükümlerine aykırı olduğu, Mahkemece hükmün gerekçesinde davalı şirket müdürünün dava dışı şirket ile aynı iştigal faaliyeti olan araç kiralama işini şirket bünyesi altında kendi nam ve hesabına yapmak suretiyle rekabet yasağına aykırı davrandığı ve şirkete ait malları kötüye kullandığının gerek yargılama sırasında dinlenen tanık beyanlarından gerekse de alınan bilirkişi raporu ile anlaşılmış olduğunun belirtildiği ancak dosya kapsamında hükme esas alınan bilirkişi raporunda bu yönde bir tespite yer verilmediği gibi, hangi tanıkların hangi beyanlarına dayalı olarak davalının rekabet yasağına aykırı davrandığı ve şirkete ait malları kötüye kullandığı sonucuna varıldığının hükmün gerekçesinde açıklanmadığı, kararda taraflar arasında çekişmeli vakıalar hakkında toplanan delillerin tartışılıp değerlendirilmediği, sabit görülen vakıalarla bunlardan çıkarılan sonuç ve hukuki sebeplerin kararda gösterilmediği, kararın bu içeriği itibariyle HMK'nın 297. maddesine aykırı olduğu ve gerekçesiz olduğu anlaşılmaktadır.
 Bu durum hukuki dinlenilme hakkının ihlali niteliğinde olup açıkça kamu düzenine aykırılık oluşturduğundan İlk Derece Mahkemesi kararının öncelikle bu yönden kaldırılması gerekmektedir.

@@ -167,12 +167,8 @@ Türk Borçlar Kanunu Tasarısının 58.maddesinde uygun nedensellik bağı"Yaş
 
 ## Antalya BAM 11. HD 2024/553 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019572100)
-
 İlliyet bağının varlığı ve kesilmesi, Hukuk Genel Kurulu'nun 24/02/2016 tarih 2014/11-289 Esas 2016/163 Karar sayılı ilamında; "... Kanunda, bu illiyet bağının varlığı konusunda bir karine kabul edilmemiştir. Yapım bozukluğunu veya bakım eksikliğini ispat etmesi gereken zarar görenin, bir de illiyet bağının varlığını ispat etmesi gerekir. Ancak doktrindeki baskın görüşe göre, hakim, zarar görenin bu konudaki ispat külfetini değerlendirirken fazla katı olmamalıdır (Ataay Aytekin, Borçlar Hukuku Genel Teorisi, İstanbul 1995, s.348; Erten Ali, Türk Borçlar Hukukuna Göre Bina ve İnşa Eseri Sahiplerinin Sorumluluğu, BK.58, Ankara 2000, s.203; İmre Zahit, Doktrinde ve Türk Hukukunda Kusursuz Mesuliyet Halleri, İstanbul 1949, s.182; Tunçomağ Kenan, Borçlar Hukuku, İstanbul 1972, s.357; Baş Ece, 6098 sayılı Türk Borçlar Kanunu Açısından Bina ve Yapı Eserlerinden Doğan Sorumluluk, XII Levha Yayınları, s.110; Tandoğan Haluk, Türk Mes’uliyet Hukuku, 1961, s:193).
 
 ## Antalya BAM 11. HD 2021/1903 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697397600)
 
 Bilirkişi Doç. Dr. ... in 19/07/2019 tarihli bilirkişi raporunun incelenmesinden, dava konusu kazanın meydana gelmesinde ... ve ...'a atfedilebilecek bir kusurun bulunmadığı, tekne kaptanı ...'in su sporu aktivitesi sonunda sahile yaklaşırken teknenin süratini yeterince azaltmayarak ringonun İskeleye çarpmasına sebep olarak kazanın oluşmasında ağır ihmal nedeniyle tam kusurlu olduğu. kazanın oluşmasında öngörülemez veya önlemez nitelikte herhangi bir kusur azaltıcı faktörün etkili olmadığı. davalı ... Turizm'i n su sporları için gerekli izin vc tedbirleri aldığı, ancak TBK 66.madde (adam çalıştıranın kusursuz sorumluluğu) uyarınca uygun illiyet bağı bulunan zarardan sorumlu olduğu,davalı ... Sigorta'nın dava dosyasında mevcut sigorta poliçesindeki şartlar dahilinde uygun illiyet bağı bulunan zarardan sorumlu olduğu anlaşılmaktadır.

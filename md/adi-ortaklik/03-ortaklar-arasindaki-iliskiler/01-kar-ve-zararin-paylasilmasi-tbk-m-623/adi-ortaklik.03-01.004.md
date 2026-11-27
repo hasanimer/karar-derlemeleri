@@ -105,8 +105,6 @@ Bütün bu açıklamalar ışığında, somut olaya bakıldığında mahkemece, 
 
 ## Ankara BAM 24. HD 2022/617 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/772200000)
-
 Maddi olay ile bağlı olan hakim, hukuksal nitelendirmeyi kendiliğinden (re'sen) yapmakla yükümlüdür (HMK.md 33). Davacının talep ettiği hususların adi ortaklığın fesih ve tasfiyesi ile kâr payı alacağı niteliğinde olduğu anlaşıldığından, uyuşmazlığın TBK'nın 620. vd. maddeleri gereğince adi ortaklık hükümlerine göre çözümlenmesi gerekmektedir.
 
 ## İstanbul BAM 3. HD 2022/171 K.

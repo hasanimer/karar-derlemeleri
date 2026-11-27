@@ -97,8 +97,6 @@ Aksi kararlaştırılmadıkça sözleşme ile kararlaştırılan işin yüklenic
 
 ## Antalya BAM 1. HD 2021/1429 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687623700)
-
 Davalı ... Ltd.
 
 …
@@ -139,8 +137,6 @@ süresinden 15 günlük sürenin indirildiğinde 33 günlük cezai sürenin olac
 İzmir 3. Asliye Ticaret Mahkemesi'nin 03.04.2019 tarih ve 2015/1182 Esas, 2019/374 Karar sayılı kararı, usul ve esas yönünden hukuka uygun bulunduğundan, davalı avukatının bu karara karşı yapmış olduğu istinaf kanun yoluna başvurusunun, 6100 sayılı HMK'nın 353/(1)-b-1. maddesi gereğince ESASTAN REDDİNE …
 
 ## Ankara BAM 31. HD 2021/1121 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/705187600)
 
 Davalı ... ......... vekili cevap dilekçesinde özetle; Davacının yetki belgesine istinaden dava konusu 8 adet taşınmazın ... ... adına tescili talepli olarak Ankara 4. Asliye Hukuk Mahkemesinde...E.
 

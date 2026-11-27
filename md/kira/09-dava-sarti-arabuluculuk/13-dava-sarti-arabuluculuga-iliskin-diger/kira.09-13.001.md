@@ -136,8 +136,6 @@ Kanunun 353. maddesi uyarınca; kiraya veren, daha önce veya en geç davanın a
 
 ## Antalya BAM 4. HD 2025/1198 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194725400)
-
 Bu duruma göre; her ne kadar davacının müracaatı üzerine yapılan arabuluculuk görüşmesi esnasında ibraz edilen uzun süreli kira sözleşmesi ile davalı ... Ltd. Şti. adına tescilli ... plakalı aracın diğer davalı ... A.Ş.ye kiralandığı anlaşılmış ise de; Arabuluculuk Kanunu'nun yukarıda belirtilen düzenleme karşısında arabuluculuk aşamasında elde edilen belgeler ile beyanların daha sonradan dava aşamasında kullanılamayacağı sabit olup, davacı tarafından araç işleteni olmadığını bilerek davalı ... Ltd. Şti. aleyhine dava açıldığından söz edilemeyeceğinden bu davalı lehine vekalet ücretine yer olmadığına dair hüküm kurulmasında bir isabetsizlik bulunmamaktadır.
 
 ## İstanbul BAM 55. HD 2025/4853 K.

@@ -118,8 +118,6 @@ Yeni malik H tarafından kiracı E aleyhine önceki malik ile yapılmış olan k
 
 ## Konya BAM 4. HD 2025/1044 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1130116800)
-
 Kiraya veren Kulu Belediyesi tarafından taşınmaz Kulu ... Un Sanayi tic. Ltd şti'ye devredilmiş olması nedeni ile, TBK’nun 310. maddesi gereğince yeni malik önceki malikle yapılan kira sözleşmesinin halefiyet yolu ile tarafı olacağından kiraya verenin değişmesi kira sözleşmesi ilişkisini sona erdirmez.
 
 ## İstanbul BAM 59. HD 2024/1179 K.

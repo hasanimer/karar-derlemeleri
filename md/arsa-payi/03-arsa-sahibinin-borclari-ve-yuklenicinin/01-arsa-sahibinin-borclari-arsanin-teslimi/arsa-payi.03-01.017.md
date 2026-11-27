@@ -21,8 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 7. HD 2022/179 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737334000)
-
 Davalı icra takiplerine konu adi yazılı alım satım sözleşmesinin hukuken geçersiz olduğunu, bu sözleşme dışında gelişen ve değişen durumlara göre taraflar arasında alım satım ilişkisinin gerçekleştiğini, adi yazılı sözleşmede noterde sözleşme düzenlenmesinden bahsedilmesine rağmen noterde düzenlenmiş bir sözleşme bulunmadığını, davacının kötü niyetle ve davalıyı zarara uğratmak kastıyla hareket ettiğini savunarak davanın reddine ve kötü niyet tazminatına karar verilmesini istemiştir.
 
 …

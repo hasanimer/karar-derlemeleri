@@ -68,6 +68,4 @@ Ancak, haksız fiil davalarında faizin başlangıç tarihinin belirlenmesi yön
 
 ## Antalya BAM 4. HD 2022/1503 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/828372500)
-
 İstem, haksız fiil nedeniyle maddi tazminata ilişkin olup, haksız fiillerde zarar haksız fiilin meydana geldiği tarihe göre belirleneceğinden (faize de istemle bağlı olarak) bu tarihten itibaren temerrüt gerçekleşmiş sayılacağından, haksız fiil tarihindeki veriler üzerinden zarar miktarının belirlenmesi ve isteme göre haksız fiil tarihinden faiz işletilmesi gerekir. Taraflar tacir olmakla ve davacı tarafın dava dilekçesi ile tazminata avans faizi işletilmesini talep ettiği gözetilmekle, hükmedilen tazminata talep uyarınca avans faizi uygulanması gerekirken, yasal faiz uygulanması usul ve yasaya aykırı olmuştur. Bu bakımdan davacı vekilinin faizin başlangıç tarihi ve türüne yönelik itirazı yerindedir ve kabulü gerekir. Zararın miktarı bakımından ise olay tarihi olan 2016 yılı itibariyle zarar belirleneceğinden o tarihteki onarım ve değişmesi gereken makine, teşhizat ve parçaların 2016 yılı itibariyle piyasa rayiç değerinin hükme esas alınması gerekmekle son alınan bilirkişi heyet raporunda 2021 yılı verilerine göre belirlenen zarar üzerinden istemin kabulüne karar verilmesi hatalı olmuştur.

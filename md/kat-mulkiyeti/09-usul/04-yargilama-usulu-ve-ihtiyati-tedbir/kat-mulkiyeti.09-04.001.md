@@ -157,12 +157,8 @@ Bu durumda mahkemece yapılması gereken iş: Öncelikle davacı tarafa tapu ipt
 
 ## Antalya BAM 7. HD 2024/332 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012505900)
-
 3.3. Mahkemece en fazla dava konusu yapılan 10 adet bağımsız bölümün yükleniciye düşecek bağımsız bölümlerden olduğunu tespit edilmesi halinde bu bağımsız bölümlere isabet edecek arsa payı oranında, kat irtifakı kurulmasını engellemeyecek şekilde ihtiyati tedbir kararı verilebilir. Mahkemenin bunu aşar şekilde ve tüm taşınmaz üzerine ihtiyati tedbir konumasına karar verilip bu konudaki itirazı reddetmesi usul ve yasaya uygun düşmemektedir. Dolayısıyla mahkemenin kat karşılığı inşaat sözleşmesi gereği dava konusu yapılan 10 adet bağımsız bölümün yükleniciye düşüp düşmeyeceğini incelemesi, yükleniciye düşecek bağımsız bölümlerden olması halinde projeye göre bu bağımsız bölümlere isabet edecek yaklaşık arsa payının ne miktar olacağı belirlenip, ancak bu pay oranı ile sınırlı ihtiyati tedbir kararı verilip itirazın bu şekilde sonuçlandırması gerekirken bu hususlar değerlendirilmeden yazılı gerekçe ile itirazın reddi usul ve yasaya uygun düşmemektedir.
 
 ## Antalya BAM 7. HD 2024/331 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012505600)
 
 3.3. Mahkemece en fazla dava konusu yapılan 10 adet bağımsız bölümün yükleniciye düşecek bağımsız bölümlerden olduğunu tespit edilmesi halinde bu bağımsız bölümlere isabet edecek arsa payı oranında, kat irtifakı kurulmasını engellemeyecek şekilde ihtiyati tedbir kararı verilebilir. Mahkemenin bunu aşar şekilde ve tüm taşınmaz üzerine ihtiyati tedbir konulmasına karar verilip bu konudaki itirazı reddetmesi usul ve yasaya uygun düşmemektedir. Dolayısıyla mahkemenin kat karşılığı inşaat sözleşmesi gereği dava konusu yapılan 10 adet bağımsız bölümün yükleniciye düşüp düşmeyeceğini incelemesi, yükleniciye düşecek bağımsız bölümlerden olması halinde projeye göre bu bağımsız bölümlere isabet edecek yaklaşık arsa payının ne miktar olacağı belirlenip, ancak bu pay oranı ile sınırlı ihtiyati tedbir kararı verilip itirazın bu şekilde sonuçlandırması gerekirken, bu hususlar değerlendirilmeden yazılı gerekçe ile itirazın reddine karar verilmesi usul ve yasaya uygun düşmemektedir.

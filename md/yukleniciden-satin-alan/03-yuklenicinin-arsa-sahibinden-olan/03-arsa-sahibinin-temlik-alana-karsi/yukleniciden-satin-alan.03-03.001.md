@@ -94,7 +94,5 @@ Davacının arsa sahibi ile yüklenici arasında düzenlenen arsa payı karşıl
 
 ## Konya BAM 5. HD 2026/240 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196835600)
-
 Öncelikle belirtmek gerekir ki ; alacağın temliki üzerine davalı borçlu, 6098 sayılı TBK'nın 188. maddesi uyarınca devredene karşı sahip olduğu savunmaları devralan davacıya karşı de ileri sürebilecektir. Bu kapsamda davalı da temlik edilen alacağın varlığını açıkça inkar ettiğinden, dava dışı temlik eden ......'nın gerçek bir alacağı bulunduğu noktasında ispat yükü davacıdadır. Dairemiz kabulüne göre ; dava dışı / alacağı temlik eden ...... Ltd Şti'nin defterinde alacağın kayıtlı olması buna karşılık davalı defterinin usule uygun tutulmamış olması temlik edilen alacağın varlığını ispata yeterli olamayacaktır. Davalının defterlerini incelenmek üzere ibraz etmemiş olması gibi bir hal de söz konusu değildir.6100 sayılı HMK'nın 222/4. maddesi uyarınca davalının usulüne uygun tutulmayan defteri davalı aleyhine delil olur ise de, davalının usule uygun tutulmayan defterinde aleyhine değerlendirilebilecek bir kayıt yer almadığı, bu halde salt davalının defterinin usule uygun tutulmamış olmasının alacağın varlığını ispata yeterli olmayacağı değerlendirilmekle, defter incelemesi ile alacağın varlığının kabulüne karar verilmiş olmasının dosya kapsamına uygun olmadığı kanaat edilmiştir.
 ( Yargıtay 6 HD 2023/3797 E- 2024/5065 K sayılı ilamı gibi emsal ilamlar ışığında)…

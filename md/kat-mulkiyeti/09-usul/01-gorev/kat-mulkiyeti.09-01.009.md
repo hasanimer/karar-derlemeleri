@@ -45,13 +45,9 @@ yönetiminin gerek bina yöneticisinin sorumluluğu gerekse ortak alandan çıka
 
 ## Denizli BAM 2. HD 2025/339 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113772900)
-
 634 sayılı Kat Mülkiyeti Kanunu'nun Ek 1.maddesinde, "kat mülkiyetinden kaynaklanan her türlü uyuşmazlığın değerine bakılmaksızın Sulh Hukuk Mahkemesi'nde çözümleneceği" ve 17/3. maddesinde ise "kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa, kat mülkiyetine geçilmemiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır" düzenlemesine yer verilmiştir.
 
 ## Denizli BAM 4. HD 2025/53 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110030300)
 
 Sözleşmeden kaynaklanan bir talep ancak sözleşmenin taraflarınca karşılıklı ileri sürülebilir. Arsa payı karşılığı inşaat sözleşmesi ile yapılan binada üçüncü kişilerin bağımsız bölümleri arsa sahibinden veya yükleniciden ya da bu kişilerin sattığı kişilerden tapuda devralmaları mümkündür. Bu durumda dava konusu bağımsız bölümleri, arsa sahiplerinden satın alan kişilerin (sözleşme gereğince arsa sahibine düşen bağımsız bölümleri almış ise), eseri meydana getiren yükleniciden talepte bulunabilmeleri için arsa sahibinin sözleşmeden doğan haklarını temlik almaları gerekir. Bu durumda bulunan davacı kat maliklerinin davada arsa sahibinin halefi olarak aktif husumet ehliyetlerinin bulunması nedeniyle davacı olarak yer almaları mümkündür. Davacı, bağımsız bölümü satın aldığı arsa sahiplerinin halefi konumunda olduğundan; davacının satın aldığı bağımsız bölümden kaynaklanan dava ve haklarının, arsa payı karşılığı inşaat sözleşmesi kapsamında incelenerek karara bağlanması gerekir. Eş söyleyişle, arsa sahibinden bağımsız bölüm satın alan davacının davalı yüklenici aleyhine açtığı davada görevli mahkeme, arsa sahibi ile yüklenici arasındaki davaların görüleceği mahkemedir. (Bknz: Yargıtay 3.
 Hukuk Dairesinin 10/04/2023 tarihli, 2023/1298 Esas 2023/1013 Karar sayılı Bölge Adliye Mahkemeleri Kararları Arasındaki uyuşmazlığın Giderilmesi İstemine Dair ilamı) Bu durumda somut dava dosyasında, arsa sahibinin ve yüklenicinin her ikisinin de kooperatif olduğu nazara alındığında, davada görevli mahkeme Asliye Ticaret Mahkemeleridir. Mahkemece işin esasına girilerek taraf delilleri toplanıp değerlendirildikten sonra oluşacak sonuca göre karar verilmesi gerekirken yanlış değerlendirme ile yazılı şekilde davanın görevsizlik nedeni ile usulden reddine karar verilmiş olması usul ve yasaya aykırıdır.
@@ -103,8 +99,6 @@ tarihli 6502 sayılı TTK yürürlük tarihleri dikkate alındığında Ticaret 
 
 ## Antalya BAM 11. HD 2023/1678 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960721900)
-
 Yukarıda yapılan açıklamalar doğrultusunda; davacı ile davalı kooperatif arasında üyelik ilişkisi bulunmakla birlikte davacının kooperatif üyeliği hususunda taraflar arasında bir uyuşmazlık bulunmadığından görevli mahkemenin asliye ticaret mahkemesi olmadığı anlaşılmaktadır. Ayrıca, davacı sonradan oluşturulan tadilat projesine göre kat irtifakı kurulmasını ve kurulacak kat irtifakı neticesinde kooperatiften satın aldığı ... numaralı bağımsız bölümün tapuya kendi adına kayıt ve tescilini talep ettiğinden ve davacının fiilen uzun süredir kullandığı bağımsız bölümde kurulan bir kat irtifakı da olmadığı gözetildiğinde sulh hukuk mahkemesinin görevli olmadığı da anlaşılmaktadır. Hal böyleyken; davaya bakmakla görevli mahkeme asliye hukuk mahkemeleri olup; yanılgılı gerekçeyle ilk derece mahkemesince sulh hukuk mahkemesine görevsizlik kararı verilmesi doğru olmamıştır.
 
 ## Ankara BAM 13. HD 2023/938 K.
@@ -153,8 +147,6 @@ Samsun 2. Tüketici Mahkemesince; taraflar arasında toplu yapı hizmet alım il
 tüketici mahkemeleri görevli mahkeme olmayıp, davaya konu uyuşmazlığın genel mahkemelerde asliye ticaret mahkemesi'nde görülüp sonuçlandırılmasının gerektiği ve görev hususunun kamu düzenine ilişkin ve yargılamanın her aşamasında resen dikkate alınması gereken hususlardan olduğu dikkate alınarak; davaya bakmakla yasal olarak görevli mahkemenin asliye ticaret mahkemesi olması nedeniyle, davanın görev dava şartı yokluğu nedeni ile usulden reddi ile, mahkemenin görevsizliğine," karar vermiştir.
 
 ## Bursa BAM 5. HD 2021/1851 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739603100)
 
 634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesi “Bu kanunun uygulanmasından doğacak her türlü anlaşmazlık Sulh Hukuk Mahkemelerinde çözümlenir” hükmünü içermektedir. Görev kamu düzenine ilişkin olup, yargılamanın her aşamasında re'sen göz önünde tutulması gereken bir usul kuralıdır.
 

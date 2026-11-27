@@ -71,8 +71,6 @@ HD tarafından bozulduğu, mahkemenin de sonradan verdiği kararla önceki karar
 
 ## Ankara BAM 24. HD 2021/1097 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/693133000)
-
 13/09/2006 tarihli "Taşınmaz Satış ve Finansman Sözleşmesi"nin finansman sağlanan ... ve ... ... .... A.Ş. (Satıcı), finansman sağlayan ... ve ... ... İnş. San.ve Tic. A.Ş (Alıcı) arasında imzalanan sözleşmenin konusu; satıcı adına kayıtlı Ankara ili... bağımsız bölümlerin 1.900.000 USD bedelle alıcıya satımı ile satıcıya alıcının sağlayacağı 1.000.000 Euro finansmanın ve finansman maliyetinin geri ödenmesini sağlayacak teminatı teşkil etmek amacıyla ... ... A.Ş. Yönetim Kurulu kararına uygun olarak 3.maddede tanımlanan ...'a ait ... alıcıya devri olduğu, İstanbul ili, .... yüz ölçümlü .... ilçesindeki bağımsız bölümlerin tapularının alıcıya 1.900.000 USD karşılığı sağlanması ve 1.000.000 Euro finansmanın ve maliyetinin geri ödenmesinin teminatı olduğu, ... alıcıya devir tarihinden sonra kiracısı tarafından ödenecek kira bedellerinin tamamının satıcıya ait olacağı, 7.maddede ise iş yerlerinin tapusunun alıcı aldığı takdirde satıcının dilediği zamanda iş yerlerinin bedeline münasip oranda ... hissesinin iade edileceği hususlarının kararlaştırıldığı anlaşılmıştır.
 
 ## İstanbul BAM 45. HD 2021/730 K.
@@ -147,8 +145,6 @@ Cezai şart alacağı likit bir alacak olmadığından birleşen dava yönünden
 edilemediğinden davalılar lehine kötüniyet tazminatına hükmedilmesi mümkün de değildir. İlk derece mahkemesince tarafların davanın esası ile ilgili olarak gösterdikleri delillerin toplandığı, yargılamada eksiklik bulunmamakla beraber delillerin değerlendirilmesinde hata yapıldığı, bunun düzeltilmesi için yeniden yargılama yapılmasına gerek olmadığı kanaatine varıldığından, asıl davada davacı birleşen davada ise davacı olan .. San. ve Tic.
 
 ## İstanbul BAM 35. HD 2018/1939 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/456479100)
 
 Yargılama konusu olayda: Davacı, taraflar arasında 21/07/2014 başlangıç tarihli yazılı kira sözleşmesinin Euro cinsinden kira bedelinin belirlendiğini, öncelikle ihtiyati tedbir kararı verilmesini, yargılama sonunda kira bedelinin Ağustos 2018 döneminden itibaren 1 Euro =4,20 TL olmak üzere ödenmesine ve bu bedel üzerinden ÜFE oranında artış yapılarak kira sözelşemesinin devamına karar verilmesini talep ettiği,…
 

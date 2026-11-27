@@ -88,12 +88,8 @@ Bu hükümle düzenlenen borcun ifa edilmemesi, borcun hiç yerine getirilmemesi
 
 ## Bursa BAM 7. HD 2024/126 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197339100)
-
 6098 sayılı Türk Borçlar Kanunu'nun 147/6.maddesinde yüklenicinin yükümlülüklerini ağır kusuru ya da gereği gibi ifa etmemesi dışında eser sözleşmelerinin 5 yıllık zamanaşımı süresine tabi olduğu düzenlenmiştir. Yüklenicinin yükümlülüklerini ağır kusur ya da gereği gibi ifa etmemesi halinde ise aynı kanunun 146.maddesinde yer alan 10 yıllık zamanaşımı süresi uygulanacaktır. Eser sözlemesinin ifa edilmeye çalışılmasına rağmen bir kısım eksikliklerin mevcut olması kusur ise de ağır kusur olarak değerlendirilemeyeceğinden eksik işler ile ilgili taleplerde 10 yıllık zamanaşımı süresinin uygulanma alanı sınırlı kalacaktır. (Usul Ve Esaslarıyla Eser Sözleşmesi Uygulaması, Muammer Öztürk-Zeki Gözütok, 3.baskı)…
 
 ## Bursa BAM 7. HD 2023/828 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199064900)
 
 6098 sayılı Türk Borçlar Kanunu'nun 147/6.maddesinde yüklenicinin yükümlülüklerini ağır kusuru ya da gereği gibi ifa etmemesi dışında eser sözleşmelerinin 5 yıllık zamanaşımı süresine tabi olduğu düzenlenmiştir. Yüklenicinin yükümlülüklerini ağır kusur ya da gereği gibi ifa etmemesi halinde ise aynı kanunun 146.maddesinde yer alan 10 yıllık zamanaşımı süresi uygulanacaktır. Eser sözlemesinin ifa edilmeye çalışılmasına rağmen bir kısım eksikliklerin mevcut olması kusur ise de ağır kusur olarak değerlendirilemeyeceğinden eksik işler ile ilgili taleplerde 10 yıllık zamanaşımı süresinin uygulanma alanı sınırlı kalacaktır. (Usul Ve Esaslarıyla Eser Sözleşmesi Uygulaması, Muammer Öztürk-Zeki Gözütok, 3.baskı)…

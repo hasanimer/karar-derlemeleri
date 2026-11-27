@@ -65,8 +65,6 @@ Asıl ve birleşen davalarda davacı ve davalı kooperatif vekili, asıl ve birl
 
 ## Ankara BAM 31. HD 2022/433 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/756836500)
-
 Davacı kooperatif sözleşmenin tarafı olup sözleşme kapsamında tarafların aktif husumet ehliyetlerinin bulunduğu, davacı kooperatifin bir kısım bağımsız bölümleri üyelerine devretmesi müddeabihin temlikli mahiyetinde olmadığı, taraf ehliyetini sona erdirmediği dolayısıyla sözleşme ayakta olup cezai şartı talep etme hakkının davacı kooperatife ait olduğu kanaatine varılmıştır.
 
 …

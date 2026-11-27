@@ -163,8 +163,6 @@ H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere,1-Davacı vekilinin istin
 
 ## Ankara BAM 27. HD 2024/636 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046769300)
-
 Noterliğinin ... yevmiye numaralı ihtarnamesiyle davalıya son olarak 13 günlük ek bir süre vererek "inşaatlardaki eksikliklerin iskana hazır hale getirilmesi, aksi takdirde 16.01.2017 tarihinde şantiyeyi terk etmesini, aksi takdirde ikinci bir ihtara gerek kalmaksızın eksikliklerin kooperatif tarafından yapılacağını ve kesin hakkediş ödemesi tespitinin bilirkişi marifetiyle yaptırılacağı”nın bildirildiğini, esasen mevcut durumda davalı yüklenicinin sözleşmedeki edimlerini kararlaştırılan sürelerde yerine getiremeyeceği açık olduğundan TBK'nın 473. maddesi uyarınca arsa sahibinin sözleşmeden dönmek hakkına çok önceden sahip olduğunu, ancak müvekkili kooperatifin iyiniyetli davranarak, yüklenicinin bir ihtimal, sorumluluklarını ifa etmesini beklediğini, daha sonra kalan işleri yapmayacağını sözlü olarak belirten ve şantiyeyi terk eden davalıya müvekkili kooperatifçe, yaptığı işlerin karşılığında hakediş olarak AVM dükkanlarından, davalının talebinden 5 m2 fazla olarak toplam 170 m2 tapu devrinin yapıldığını, sonrasında da davalının geri kalan işleri bitiremeyeceğini, AVM için muvafakat alamadığını, villa için de ruhsat alamadığını yazılı olarak da belirtip işleri bıraktığını
 belirterek, nihai hesaplaşma için kooperatifle birlikte hareket ederek, Ankara Batı Sulh Hukuk Mahkemesi'ne tasfiye hakedişinin tespiti için müracaatta bulunmayı kabul ettiğini, Ankara Batı 3.
 

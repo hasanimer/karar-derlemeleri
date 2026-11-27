@@ -56,8 +56,6 @@ Her ne kadar davacı vekili takibe konu alacağın sadece müvekkiline ait haked
 
 ## Antalya BAM 11. HD 2025/359 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144035800)
-
 Dava, itirazın iptali istemine ilişkindir.
 
 …

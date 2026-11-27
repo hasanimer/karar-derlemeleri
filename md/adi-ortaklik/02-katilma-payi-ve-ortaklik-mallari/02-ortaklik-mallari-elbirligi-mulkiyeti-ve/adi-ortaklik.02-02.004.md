@@ -41,8 +41,6 @@ Mahkemece taraflar arasındaki ortaklığın tasfiyesi sürecine geçildiği ve 
 
 ## Ankara BAM 27. HD 2022/275 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/742146200)
-
 Adi ortaklık iki veya daha fazla kişinin emekleri veya mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri bir sözleşmedir (TBK'nın 620/1 maddesi). TBK'nın 624. maddesine göre adi ortaklık sözleşmesinde aksi kararlaştırılmamış ise ortaklığın kararları bütün ortakların oybirliği ile alınır. Ortaklığa ait mal ve haklar elbirliği ile tüm ortaklara ait olur. TBK'nın 638. maddesi hükmünce ortaklar birlikte veya bir temsilci aracılığı ile, üçüncü bir kişiye karşı ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan aksi kararlaştırılmamış ise müteselsilen sorumlu olurlar.Adi ortaklığın tüzel kişiliği olmadığından adi ortaklık olarak takip ve dava ehliyeti bulunmamaktadır. Takip ve davanın adi ortakların tamamı ya da yönetim ve temsil yetkisini haiz ortak tarafından yapılıp açılması gerekmektedir.( Yargıtay 15.HD. 2019/2329E, 2019/4615K. Sayılı 14.11.2019 tarihli ilamı)
 
 Belirtilen bu hükümlerin sonucu olarak, dava açan adi ortaklar elbirliği mülkiyeti hükümlerine göre davada mecburi dava arkadaşı durumundadır. Adi ortaklıkta davanın tüm ortaklar tarafından açılması gereklidir. Birlikte dava açılmadığı takdirde diğer ortaktan davaya muvafakat alınması, muvafakat vermeyen ortak olursa bu iş ortağı hakkında asıl davayla birleştirilmek üzere dava açmak üzere süre verilip açılacak dava birleştirilip bu suretle taraf teşkilinin tamamlanması gerekir. Aksi takdirde davanın dinlenme imkânı yoktur (YHGK'nın 17.01.1990 gün 13/457 Esas, 2 sayılı Kararı).

@@ -38,8 +38,6 @@ AŞ Muhasebe Finansman Müdürlüğünce ödeneceği, taşımacının elektronik
 
 ## Konya BAM 3. HD 2024/2222 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088597100)
-
 MADDE 1: AMAÇ; .......... Belediyesi .......... .......... formun belirleyen 1/25000 ölçekli nazım imar planı sınırları içerisindeki hafriyat toprağı, inşaat ve yıkıntı atıklarının 18 Mart 2004 tarih ve .......... sayılı resmi gazetede yayınlanan Hafriyat Toprağı, İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliği doğrultusunda çevre ve toplum sağlığına zarar vermeyecek şekilde; hafriyat toprağı ve inşaat/yıkıntı atıklarının depolamasının sağlanması ve bu atıkların ikincil inşaat ve özellikle altyapı malzemesi olarak geri dönüşümünün sağlanması için ......... mevkiinde bulunan Hafriyat Toprağı ve İnşaat Yıkıntı Atıkları depolama sahasının 10 yıl (on yıl) müddetle 31.12.2022 tarihine kadar kiralanması ve işlettirilmesi işidir.
 
 ## İstanbul BAM 17. HD 2024/1359 K.
@@ -153,8 +151,6 @@ Tapu kayıtlarına göre dava konusu Mersin ili ... ilçesi ... mahallesi ... ad
 kişilerde bulunmadığı dosyadaki beyanlardan anlaşılmaktadır. Yine dosyaya sunulan 24/01/2014 tarihli kira sözleşmesine göre mülk sahipleri ... Plastik....ltd.Şti ile ... Metal Makina....ltd.Şti.'nin birlikte dava konusu yeri ... Mühendislik Müşavirlik .... ltd. Şti.'ne kiraya verdikleri ve kira sözleşmesi imzaladıkları anlaşılmıştır. Bu duruma göre davalının dava konusu taşınmazı tek başına haksız olarak işgal ettiğini söyleme olanağı yoktur.
 
 ## Ankara BAM 21. HD 2022/26 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/734252500)
 
 Alınan ikinci bilirkişi heyeti raporunda, dava dışı ... A.Ş.'ye ait ... isimli otelde mimari projeye göre kapsamlı tadilat yapıldığı, 2009 yılı için otelin kiralama bedelinin yaklaşık olarak 1.254.035,00 TL olarak belirlendiği, 2009 yılı kira tespitinde işletici tarafından yapılacak yatırım için alınacak ve alınmış banka yatırım kredisi göz önüne alınarak buna göre değerlendirme yapılması gerektiği, otelin 07/07/2009 ve 04/05/2010 tarihlerinde çekilen fotoğrafları arasında ciddi farklar bulunduğu tespit edilmiştir.
 

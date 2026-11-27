@@ -38,8 +38,6 @@ Gerçekten de ihtiyati haciz isteyen taraf, borçlu tarafa göndermiş olduğu i
 
 ## Konya BAM 6. HD 2021/1410 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736752000)
-
 İlk derece mahkemesince; davacı tarafın dava konusu bononun teminat amacıyla verildiğini iddia ettiği, davalı tarafın ise genel kredi sözleşmesinden doğan borcun ödenmesinin temini amacıyla verilen bonodan söz ettiği, bu bononun teminat bonosu olup olmadığının genel kredi sözleşmesi ile birlikte değerlendirilmesinin gerektiği, bonoya ilişkin talepler ile genel kredi sözleşmesine ve finansal kiralama sözleşmesi ile finansal kiralama ek sözleşmesine ilişkin talepler arasında sıkı bağ bulunduğu, davacının bu sözleşmeler ve bonodan dolayı davalı bankaya borçlu olup olmadığının tespiti için bonoya ilişkin talepler ile sözleşmelere ilişkin taleplerin birlikte değerlendirilmesinde usul ekonomisi açısından faydalı görüldüğü, gerekçeleriyle yetkisizlik kararı verdiği anlaşılmıştır.
 
 ## İstanbul BAM 17. HD 2021/675 K.
@@ -52,8 +50,6 @@ nisaba dahil olarak kaydedildiği, borçlu şirket vekilinin 04.02.2020 havale t
 Bank A.Ş vekili, 08.01.2021 tarihli onama duruşmasında ki diğer alacaklılarla birlikte zapta geçen beyanında, konkordato tasdik talebinin reddini talep etmişse de, önceki yazılı dilekçelerde buna dair bir beyanda bulunduğuna dair bilgi veya belgeye rastlanmamıştır...., Konkordato ve Yeniden Yapılanma Hukuku, 1.
 
 ## Bursa BAM 10. HD 2021/788 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744587200)
 
 Menkul mallar kural olarak zilyedin malik olduğudur. Bu karinenin aksinin ispat yükü kendinde olan davacı tarafından ispatlanmalıdır. Yerel mahkemece aldırılan 12/07/2016 tarihli bilirkişi ek raporunda fabrikada bulunan ve bulunmayan makineler ile bunların hangi finansal kiralama sözleşmesi kapsamında olduğu belirlenmiş, 18/07/2017 tarihli II. ek bilirkişi raporunda ise ecrimisil bedelleri hesaplanmıştır. İtiraz üzerine alınan 05/06/2018 tarihli bilirkişi heyeti raporunda da aynı yönde görüş bildirilmiştir. Düzenlenen bilirkişi raporlarının somut olaya ve dosya kapsamına uygun olduğu, yeteri derecede ayrıntılı ve denetime elverişlidir. Davacı tarafından bilirkişi raporu ile belirlenen mallar haricinde davalının haksız olarak yedinde menkul mal bulundurduğu ispatlanamadığından, finansal kiralama sözleşme kapsamını belirleyen bilirkişi raporunu hükme esas alan mahkeme kararının usul ve yasaya uygun olduğu, taraf vekillerinin itirazlarının kabule şayan bulunmadığı kanaatine varılmıştır.
 
@@ -86,8 +82,6 @@ Birinci fıkra hükmü niteliğine uygun düştüğü ölçüde çekişmesiz yar
 “Kiracı ve kiralayan arasında finansal kiralama sözleşmesi ile ilgili ihtilaflarda, mahkemece finansal kiralama konusu malın ihtiyati tedbir kararı alınarak kiralayana veya üçüncü bir kişiye bırakılması durumunda kiralayan, mahkemeye malın rayiç değeri kadar teminat yatırmak suretiyle mal üzerinde tasarruf edebilir. Şu kadar ki; sözleşmenin feshinin haksız olduğuna karar verilmesi hâlinde kiralayan, kiracının zararını tazminle yükümlüdür.” şeklinde Finansal Kiralama sözleşmelerinden kaynaklanan uyuşmazlıklarda uygulanmak üzere özel düzenleme yapılmıştır.İhtiyati tedbir talebinin mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağı, hakkın elde edilmesinin imkansız hale geleceği, hakkın elde edilmesinde gecikme nedeniyle bir sakıncanın yahut ciddi bir zararın doğması ihtimalinin mevcut olduğu hallerde ihtiyati tedbir şartlarının var olduğu kabul edilerek uyuşmazlık konusu hakkında ihtiyati tedbir kararı verebilir. İhtiyati tedbirde hakkında ihtiyati tedbir kararı alınacak hakkın bulunması ve HMK.nın 389. maddesinde belirtilen sebeplerin olması gerekir.
 
 ## Konya BAM 6. HD 2020/1156 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/719272800)
 
 Finansal Kiralama ve Faktoring ve Finansman Şirketleri Kanununun 31/3.maddesinde; “Kiracı ve kiralayan arasında finansal kiralama sözleşmesi ile ilgili ihtilaflarda, mahkemece finansal kiralama konusu malın ihtiyati tedbir kararı alınarak kiralayana veya üçüncü bir kişiye bırakılması durumunda kiralayan, mahkemeye malın rayiç değeri kadar teminat yatırmak suretiyle mal üzerinde tasarruf edebilir. Şu kadar ki; sözleşmenin feshinin haksız olduğuna karar verilmesi hâlinde kiralayan, kiracının zararını tazminle yükümlüdür.” şeklinde Finansal Kiralama sözleşmelerinden kaynaklanan uyuşmazlıklarda uygulanmak üzere özel düzenleme bulunmaktadır.
 

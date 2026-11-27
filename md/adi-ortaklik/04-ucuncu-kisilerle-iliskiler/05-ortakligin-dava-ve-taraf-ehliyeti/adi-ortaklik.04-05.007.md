@@ -21,8 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 27. HD 2021/1111 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/711160100)
-
 Adi ortaklığı oluşturan davacı şirketler arasında zorunlu dava arkadaşlığı bulunmakta olup, zorunlu dava arkadaşlarının davada birlikte hareket etmek zorunluluğu olduğundan mahkemece verilen karara ilişkin davacılar tarafından yapılacak istinaf başvurusunun incelemesinin yapılabilmesi için hükmün adi ortaklığı oluşturan ve aralarında mecburi dava arkadaşlığı bulunan davacılar tarafından birlikte istinaf edilmesi veya Dairemizce verilen geri çevirme kararlarında belirtildiği üzere birinin yaptığı istinaf başvurusunu diğer adi ortağın muvafakat etmesi gerekmektedir. Bu kapsamda Dairemizce eksikliğin giderilmesi yönünde verilen geri çevirme kararlarının bulunduğu ve bu eksikliğin tamamlanamadığı anlaşılmakla adi ortaklığı oluşturan ...'nin istinaf başvurusunun HMK.'nın 352. maddesi gereğince usulden reddine karar verilmesi gerekmiştir.
 
 ## Bursa BAM 7. HD 2021/233 K.

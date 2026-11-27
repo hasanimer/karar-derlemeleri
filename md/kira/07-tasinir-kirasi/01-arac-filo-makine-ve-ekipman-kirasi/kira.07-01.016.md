@@ -40,8 +40,6 @@ Taraflar arasındaki kiralama sözleşmesinin uzun süreli olmasında tek ölç�
 
 ## Antalya BAM 11. HD 2022/306 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/731746100)
-
 Bu durumda " rent a car" olarak bilinen ve kısa süreli araç kiralama işi için kullanılan aracın sahibinin tüketici olarak nitelendirilmesi uygun olmadığından ; ilk derece mahkemesi kararı dava şartlarını hatalı nitelemiş bulunmakla davacı yanın istinaf başvurusu yerindedir.
 
 ## İstanbul BAM 45. HD 2022/222 K.
@@ -60,8 +58,6 @@ Noterliği'nin 15/09/2017 tarih ve ... yevmiye sayılı ihtarnamesi ile borçlar
 birlikte iadesi talebinde bulunabileceği" kanaatine varıldığı, Davacı tarafından, yükümlülüklerin yerine getirilmesi Noter kanalı ile ihtar edilmesine rağmen, davalı tarafça, yükümlülüklerin yerine getirildiğine dair herhangi bir beyan veya delil sunulmadığı, davacının ticari defterlerinin incelenmesinde defterlerinin lehine delil teşkil edeceğinin kabulü ile davalının yükümlülüklerini yerine getirmediğinin sabit hale geldiği, sözleşmenin feshinin geçerli olduğu kanaati ile davanın kabulüne" karar verilmiştir. İnceleme 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun (HMK)355. Maddesi hükmü uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır. Davalı ... Nakliyat İnşaat ... Tic. Ltd.
 
 ## Antalya BAM 6. HD 2022/280 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736928700)
 
 Somut olayda; taraflar arasında ''Araç Kiralama Sözleşmesi" başlıklı 01/04/2018 başlangıç tarihli 8 ay süreli kontratta belirtilen kamyon, paletli ekskavatör, ... vs ve iş makilerinin araçlar ve makinalar başına kontratta belirtilen aylık/günlük kira bedelinin davalı kiracı tarafından (sözleşmede kiralayan olarak belirtilmiştir.) davacı kiralayana (sözleşmede kiraya veren olarak belirtilmiştir.) ödenmesinin kararlaştırıldığı sözleşmenin imzalandığı, sözleşme içeriğinden (4., 5. ve 6. maddeler) kiralayan olarak adlandırılan ancak kiracı olduğu anlaşılan davalı ...
 A.Ş.'nin araçların operatörünü temin edeceği, ücret, SGK girişi, kesinti ve her türlü fazla mesai'yi karşılayacağı, kiracının kiraya verenden ayrıca operatör isteminde bulunmayacağı, kiracının araçların teknik şartnamelerinde bulunan periyotta bakım ve onarım masraflarını (Yedek parça ve sarf malzemeleri dahil) yaptıracağı, bakımların yaptırılmamasından kaynaklanan tüm zararı gidereceği, kiracının kiraya verenin teslim ettiği şekilde sözleşme sonunda araçların bakımı yapılmış, çalışır vaziyette ve sağlam olarak, teslim alırkenki haliyle kiraya verenin belirteceği adreste kiraya verene teslim edeceği, kiracının kiraladığı araç ve makine başına sözleşmede belirtilen kira ücretlerini ödeyeceğinin kararlaştırıldığı anlaşılmaktadır. Yargıtay 3.
@@ -83,8 +79,6 @@ DELİLLER; Davacıya ait marka tescil kaydından; 18/09/2012 başvuru tarihli, .
 Bilirkişi raporları ile davalıya ait www...com alan adının 21/04/2012 tarihinde ... adına tahsis edildiği, davacıya ait www...com.tr alan adının ise 11/02/2013 tarihinde davacı adına tahsis edildiği tespit edilmiştir.
 
 ## Antalya BAM 6. HD 2022/135 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/730910500)
 
 Dosya kapsamından taraflar arasında yazılı bir sözleşmenin bulunmadığı ,taraflar arasında kira ilişkisi olup olmadığının belli olmadığı açıktır. Özellikle araç kirasına ilişkin sözleşmelerde aracın operatörlü kiralanması, kira bedelinin çalışma saatine göre belirlenmesi vb durumlarda Yargıtay uygulamalarındaki süregelen kabule göre taraflar arasındaki ilişkinin kira ilişkisi olmayıp hizmet alımı olduğu, bu durumda faturaların dayanağı olan sözleşme incelenmeden ve dahi davalının iddialara ilişkin olarak beyanı alınmadan, eş söyleyişle uyuşmazlık aydınlatılmadan görevsizlik kararı verilmesi yerinde olmadığı belirtilmiştir. Yargıtay 3. Hukuk Dairesinin 25.01.2018 tarih, 2017/8678 esas - 2018/705 karar sayılı, aynı dairenin 2017/6250 Esas - 2019/2887 Karar sayılı, aynı dairenin 2017/7533 Esas - 2019/3707 Karar içtihatları bu doğrultudadır.
 
@@ -109,14 +103,10 @@ başvurusu sebepleriyle sınırlı olarak yapılan inceleme sonunda,istinaf eden
 
 ## Bursa BAM 5. HD 2021/1822 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718829200)
-
 Her ne kadar davacı tarafça, taraflar arasında düzenlenen vinç kiralama sözleşmesi kapsamında davalı tarafça sözleşmenin feshedildiği 11/07/2018 gününe kadar inşaat sahasında çalıştırılan vinçlerin sözleşmedeki vasıf ve özelliklere sahip olmadığı, etiket bilgilerinin sahte olduğu, üretici vinç firmalarına yazılar yazılarak katalog bilgilerinin ve etiket bilgilerinin tespit edilmek sureti ile kapasitelerinin tespit edilmesi talep edilmiş ise de; taraflar arasındaki sözleşme ilişkisi kapsamında davalı tarafın doğan hakediş alacağının faturalandırılarak davacı tarafa gönderildiği ve ödenmediğinden bahisle başlatılan icra takibine itirazın iptali nitelikli bir eda davasının taraflar arasında derdest olup; eda davasının söz konusu olduğu iş bu halde davacının davalı olduğu anılan dava dosyasında kullanılan vinçlerin kapasitelerinin sözleşmeye uygun bulunmayıp, etiket bilgilerinin kendilerine verilmediği, bu nedenle sözleşmeye aykırılıkların tespit edilerek haklı ve haksız fesih durumlarının sözleşmenin taraflar bakımından alacak hüküm ifade eden maddelerinin işletilmesi bakımından tespiti ve yine düzenlenen ve alacak konusu yapılan kira bedeli faturalarının uygunluğunun tespitinin,
 anılan dava dosyasında davaya cevap dilekçesi, karşı dava dilekçesi ile ileri sürülebilecek hususlardan olduğu ve eda davası açılan konuda yeniden tespit davası açılamayacağından; davanın esasına ilişkin başka bir incelemeye girişilmeksizin davanın hukuki yarar yokluğundan usulden reddine karar verilmiştir.
 
 ## Ankara BAM 22. HD 2021/2084 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715265300)
 
 Ankara 34. Asliye Ceza Mahkemesi’nin 2014/239 E. 2015/70 K. araç kira sözleşmesinin davalı ile dava dışı ... arasında yapıldığı, davacı tarafından dava konusu bononun bu sözleşme kapsamında meydana gelen zararın teminatı maksadıyla verildiğinin iddia edildiği, Ankara C. Başsavcılığı’nın 20.06.2014 tarih 2014/72199 soruşturma sayılı dosyası kapsamında vermis olduğu ifadesinde söz konusu bononun araç kiralama sözleşmesi kapsamında meydana gelen zararın tazmininin teminatı noktasında verildiğinin kabul edildiği, soruşturma kapsamında zorla senet düzenlendiğine yönelik iddialar ile ilgili olarak ...... kararı verildiği, kararın itirazen kesinleştiği anlaşılmıştır.
 
@@ -128,8 +118,6 @@ Ankara 34. Asliye Ceza Mahkemesi’nin 2014/239 E. 2015/70 K. araç kira sözle�
 
 ## Ankara BAM 13. HD 2021/1550 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707757900)
-
 Dosya kapsamından; uyuşmazlık konusu senedin araç kiralama sözleşmesinden dolayı teminat senedi olarak verildiği anlaşılmaktadır. Bu durumda; davanın, araç kiralama sözleşmesinden kaynaklandığı ve uyuşmazlığın çözümünde araç kira sözleşmesi hükümlerinin uygulanacağı anlaşıldığından, uyuşmazlığın Sulh Hukuk Mahkemesi tarafından görülüp sonuçlandırılması gerektiğinin kabulü ile aşağıdaki hüküm kurulmuştur.
 
 ## Sakarya BAM 7. HD 2021/1987 K.
@@ -139,8 +127,6 @@ Dosya kapsamından; uyuşmazlık konusu senedin araç kiralama sözleşmesinden 
 Bu kapsamda; tüzel kişi tacir olan tarafların arasında imzalanan 08/10/2012 tarihli sözleşme, davalıya ait 55 tonluk beton bloğun davacıya ait vinç ile denize indirilmesi işine yönelik olup, söz konusu vincin zilyetliği (feri zilyetliği) davalıya bırakılmamıştır. Davacı, edimini işvereni olduğu operatör aracılığı ile ifa etmiştir. Bir başka deyişle, vincin kullanımı ve kullanma ile birlikte yararlanma davalıya bırakılmadığından kira sözleşmesinin varlığından söz edilemeyecektir. Bu şekli ile taraflar arasındaki sözleşmenin kira sözleşmesi niteliğinde olmaması, uyuşmazlığın, operatörlü vinç ile alınan hizmetten kaynaklanması sebebiyle TTK'nın 4 .ve 5. maddeleri gereği Ticaret Mahkemesinde görülmesi gerektiğinden davalının bu yöndeki istinaf sebebinin yerinde olmadığı anlaşılmıştır.
 
 ## Antalya BAM 6. HD 2021/1576 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699375000)
 
 Olayımıza gelince; taraflar arasında ''Araç Kiralama Sözleşmesi" başlıklı 01/04/2018 başlangıç tarihli 8 ay süreli kontratta belirtilen kamyon, paletli ekskavatör, ... vs ve iş makilerinin araçlar ve makinalar başına kontratta belirtilen aylık/günlük kira bedelinin davalı kiracı tarafından (sözleşmede kiralayan olarak belirtilmiştir.) davacı kiralayana (sözleşmede kiraya veren olarak belirtilmiştir.) ödenmesinin kararlaştırıldığı sözleşmenin imzalandığı, sözleşme içeriğinden (4., 5. ve 6. maddeler) kiralayan olarak adlandırılan ancak kiracı olduğu anlaşılan davalı ...
 A.Ş.'nin araçların operatörünü temin edeceği, ücret, SGK girişi, kesinti ve her türlü fazla mesai'yi karşılayacağı, kiracının kiraya verenden ayrıca operatör isteminde bulunmayacağı, kiracının araçların teknik şartnamelerinde bulunan periyotta bakım ve onarım masraflarını (Yedek parça ve sarf malzemeleri dahil) yaptıracağı, bakımların yaptırılmamasından kaynaklanan tüm zararı gidereceği, kiracının kiraya verenin teslim ettiği şekilde sözleşme sonunda araçların bakımı yapılmış, çalışır vaziyette ve sağlam olarak, teslim alırkenki haliyle kiraya verenin belirteceği adreste kiraya verene teslim edeceği, kiracının kiraladığı araç ve makine başına sözleşmede belirtilen kira ücretlerini ödeyeceğinin kararlaştırıldığı anlaşılmaktadır. Yargıtay 3. Hukuk Dairesinin yerleşik içtihatlarına göre de davaya dayanak ve hükme esas alınan sözleşmenin şartlarını düzenleyen ilgili maddeleri göz önüne alındığında taraflar arasındaki sözleşmenin kira sözleşmesi mahiyetinde olduğu, davacının kira sözleşmesinden kaynaklanan faturalar nedeniyle yaptığı icra takibine davalının itirazı üzerine eldeki iş bu davayı açtığı anlaşılmıştır.
@@ -168,8 +154,6 @@ Mahkeme 16/09/2021 tarihli tensip zaptının 16 nolu bendindeki kısa ara karar�
 bulunmadığı, reddi gerektiği sonucuna varılmıştır.
 
 ## Konya BAM 6. HD 2021/2077 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737813400)
 
 Tüm dosya kapsamına göre davacının, bononun davalı ...'e araç kiralama sözleşmesi kapsamında açık bono olarak verildiği, araç kiralamadan dolayı borcunun bulunmadığı, bononun anlaşmaya aykırı doldurulduğu iddialarını yazılı delillerle ispat etmesi gerektiği, davacının yazılı bir delil sunamadığı, dava dilekçesinde açıkça yemin deliline de dayanmadığı, diğer davalının bononun hamili olduğu davacının bu davalının kötüniyetle bonoyu iktisap ettiğine dair bir iddia ve ispatı da olmadığı bu nedenlerle ilk derece mahkemesi kararının yerinde olduğu anlaşıldığından davacının istinaf talebinin HMK'nın 353/1.b.1 maddesi gereğince esastan reddine ilişkin aşağıdaki şekilde hüküm kurulmuştur.
 

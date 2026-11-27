@@ -119,8 +119,6 @@ A.Ş.’ye 08.11.2019 tarihli dilekçesi ile 95323922 nolu hesabından kullanmı
 
 ## Bursa BAM 5. HD 2023/1698 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142413300)
-
 Dosya kapsamından, davacı ile sigortalı ... Finansal Kiralama A.Ş ve sigorta ettiren ve primleri ödeyen ... Tekstil.. Ltd.Şti.arasında düzenlenen leasing sözleşmesine istinaden 14.07.2016- 15.03.2019 tarihleri arasını kapsayan 435.233,17 Usd teminat tutarlı leasing uzun süreli sigorta poliçesi ve yine 02.02.2017- 15.03.2019 başlangıç-bitiş tarihli leasing uzun süreli kombine poliçe eki düzenlendiği, finansal kiralamaya konu ... çoklu-sürüş elektronik nakış makinesinin 30.03.2017 tarihinde meydana gelen yangın sonucunda ağır hasar alarak kullanılmaz hale geldiği, davacının sigortalısına hasar ödemesi yaptığı, tacirler
 
 arası haksız fiilden kaynaklanan davaya bakmakla görevli mahkemenin asliye ticaret mahkemesi olduğu, yokluğunda yapılan keşfe ve alınan bilirkişi raporuna yönelik itirazlarını bildiren davalının savunma hakkının kısıtlanmasından söz edilemeyeceği anlaşılmakla; uyuşmazlık esasen, sigortalı makinenin hasarına neden olan yangın hadisesinde davalıların kusurlu olup olmadıkları ve varsa davalılara atfedilen kusur oranları üzerinde toplanmaktadır.
@@ -133,8 +131,6 @@ arası haksız fiilden kaynaklanan davaya bakmakla görevli mahkemenin asliye ti
 Şirketinden ...- marka 2015 model silindiri finansal kiralama sözleşmesi ile kiraladığı; bu silindire ilişkin olarak davalı sigorta şirketi tarafından ... poliçe numaralı Leasing all risk sigorta poliçesinin düzenlenerek sigortalandığı; davacının kullanımında olan silindirin 06/09/2018 tarihinde yaptığı kaza nedeniyle silindirin kabin camlarının ve diğer muhtelif parçalarının( tutamak,silecek mekanizması,kapı cam çerçeveleri, sol ve sağ üst plastik parçalar vs..) hasar gördüğü;…
 
 ## Ankara BAM 21. HD 2023/1361 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/957310900)
 
 6802 sayılı Gider Vergisi Kanunu'nun 28. Maddesinde; “Banka ve sigorta şirketlerinin 10.06.1985 tarihli ve 3226 sayılı Finansal Kiralama Kanununa göre yaptıkları işlemler hariç olmak üzere, her ne şekilde olursa olsun yapmış oldukları bütün muameleler dolayısıyla kendi lehlerine her ne nam altından olursa olsun nakden veya hesaben aldıkları paralara banka ve sigorta muameleleri vergisine tabidir.”…
 

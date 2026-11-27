@@ -99,8 +99,6 @@ Adi ortaklığın tüzel kişiliği bulunmadığından, açılacak davanın ve y
 
 ## Konya BAM 4. HD 2023/273 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864969700)
-
 Konya ... Asliye Ticaret Mahkemesince;Her ne kadar davacı tüzel kişi tacir ise de davalıların gerçek kişi olduğu, tacir kaydının bulunmadığı, dava konusu fatura/iade faturasının davalıların yetkilisi ve ortağı olduğu ve ayrı bir tüzel kişiliği bulunan sermaye şirketlerine kesilmediği aksine davalı gerçek kişiler tarafından oluşturulan adi ortaklık adına kesildiğini, bir başka ifade ile 6098 Sayılı Kanunun 520 ve devamı maddeleri gereğince adi ortaklığın tüzel kişiliğinin bulunmadığı, yine davalıların ... Tic. Ltd. Şti ve ... Ltd. Şti isimli şirketlerde ortaklık ve yetkili sıfatlarının olduğu, ilgili şirketlerin 6102 Sayılı TTK'nın 16/1 maddesi gereğince özel hukuk tüzel kişisi olduğu ancak dava konusu fatura borcuna muhatap olmadıkları ve 6102 sayılı kanunun amir hükümleri gereğince tüzel kişi şirket ortağı olmanın gerçek kişilere tek başına tacir sıfatı vermediği bu sebeple eldeki davanın ttk 4. ve 5. maddesi gereğince mutlak ya da nispi ticari dava niteliğinde olmadığı, davanın 6100 sayılı hmk m. 114/1-c maddesi gereğince mahkemenin görevli olmadığı anlaşılmış olup dava şartı yokluğundan usulden reddine, davaya bakmakla görevli Mahkemenin T.C. Akşehir ...
 Asliye Hukuk Mahkemesi(Asliye Hukuk Mahkemesi Sıfatıyla) Olduğunun Tespitine karar vererek,olumsuz görev uyuşmazlığı nedeniyle merci tayini için yargı yerinin belirlenmesi amacıyla dosya dairemize gönderilmiştir.
 

@@ -40,8 +40,6 @@ Bu sebeple davalı vekilinin istinaf istemi yerinde olmadığından istinaf tale
 
 ## Konya BAM 6. HD 2023/1999 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969399500)
-
 Dava, faturaya dayalı alacağın tahsili için başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
 …
@@ -88,8 +86,6 @@ olaydaki yapım işi ve uyuşmazlığın asıl temelini oluşturanın, kilometre
 Ödemeye konu çek ise, adi ortaklık lehine keşide edilmiş olup, bu çek de ödendiğinden, takibe konu hukuki ilişkiden kaynaklanan alacak bakımından geçerli bir ödeme niteliğindedir.Davacı tarafça, davalının sunduğu evrakların tanzim tarihine ilişkin bir araştırma yapılmadığını ileri sürmüş ise de, günümüz teknolojisi ile yazı yaşı tespit edilemediği bilinen bir vakıa olup, davacının iddiası dinlenebilir değildir. Sunulan ödeme belgelerinin davacı ...ile davalı borçlu arasındaki şahsi bir alacağa ilişkin olduğu iddia edilmiştir. Bu halde, adı geçen davacı söz konusu şahsi ilişkiyi ispat yükü altındadır. Ancak dosyada bu yönde bir ispat bulunmamaktadır. Davalının sunduğu ödeme belgeleri ve ibra belgesi karşısında taraf ticari defterlerinin incelenmesinin de sonuca bir etkisi bulunmamaktadır. Sonuç olarak, takibe konu faturadan kalan bakiye borcun ödendiği anlaşıldığından, ilk derece mahkemesince, davanın reddine karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Konya BAM 6. HD 2023/844 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882493100)
 
 Dava, faturaya dayalı ilamsız takibe vaki itirazın iptali talebine ilişkindir.
 

@@ -68,8 +68,6 @@ Davalı tarafça davacının üzerine düşen bedeli ödemediği, davacının ke
 
 ## Antalya BAM 7. HD 2025/557 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1147204300)
-
 Davacı vekili açtığı dava ile, davalılar arasında kat karşılığı inşaat sözleşmesi bulunduğunu, davacı ile davalı yüklenici ...'ın yükleniciye düşen 4 nolu bağımsız bölümün 35.000,00 TL'sinin nakit 35.000,00 TL'sinin inşaatın mermerit ve granit mutfak tezgahlarının davacı tarafından yapımı suretiyle toplam 70.000,00 TL bedelle satımı konusunda anlaştıklarını, davacının edimini yerine getirdiğini, 35.000,00 TL'yi ödediğini, mutfak tezgahlarını yaptığını, ancak tapunun davacıya verilmediğini, davalı arsa sahibinin 2 adet tapuyu halen elinde tuttuğunu, dava açılmasından sonra tapulardan 6 nolu bağımsız bölümü muvazaalı olarak kızı ...'ye devrettiğini, davalı yüklenicinin dava konusu bağımsız bölümü çoktan hak ettiğini, ileri sürerek Antalya İli, Kepez ilçesi ...
 
 …
@@ -137,8 +135,6 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davacı vekilinin isti
 
 ## Antalya BAM 7. HD 2024/667 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039966400)
-
 Davalılar tarafından sunulmuş cevap dilekçesi bulunmamaktadır.
 
 …
@@ -152,8 +148,6 @@ Her ne kadar davacı tarafça taşınmazın davalı ...'a muvazalı şekilde dev
 Davacılar vekilinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## Antalya BAM 7. HD 2024/571 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033496800)
 
 2012/3744 K.), davacı ve birleşen dosya davacısının tümden tapu iptal tescili kendi adlarına talep ettiğinin anlaşıldığı, ancak asıl dava davacısının tasfiyenin beklenmesi talebinin hükmün sonucuna etki etmeyeceği, tasfiye dosyasında eldeki dosya sonucunun dikkate alınması ve tasfiyenin buna göre yapılması gerektiğinin anlaşıldığı, birleşen dava davacısının asıl davacının sözleşmeye göre aldığı daireler bulunduğu, bu dairelerden kendisine pay verilmediği, bu nedenle eldeki davaya konu dairelerin, birleşen davacı adına tapu iptal tescilinin gerektiğini savunmuş ise de, yapılan sözleşmede pay olarak kararlaştırıldığının anlaşıldığı, şayet tarafına bir kısım bağımsız bölümlerden pay verilmedi ise, bu bağımsız bölümlerdeki payı ayrı bir dava konusu yapılarak tapu iptal tescil talep etmesi gerektiği kanaatine varılarak, her iki davacının bu yöndeki taleplerinin yerinde görülmediği, yine birleşen davada temlik alan ...'un talebi yönünden yapılan değerlendirmede, sunulan temlik sözleşmesinde açılan dava için temlik yapılmadığı, kendi aralarında tapu devri yapacaklarının kararlaştırıldığının anlaşıldığı, davayı temlik mahiyeti olmayan sözleşme dikkate alınmadığı, bu kişi hakkında hüküm
 kurulmasına yer olmadığına karar vermek gerektiği, anlatılanlara göre birlikte ifa kuralı gözetilerek, Antalya 2. ATM'nin birleştirme kararı uyarınca bakılan dava ile birleşen davada davacıların payları oranında tapu iptal tescil hükmü kurulduğu, karşı dava yönünden, davalı/ karşı davacı yüklenicinin kendi payına düşen bloklarla kendi payına düşen bloklar arasındaki değer farkı nedeniyle alacak talebinde bulunduğu, esasen bu iddianın savunma niteliğinde ileri sürülebilecek mahiyette olsa da, davacı ayrı bir davaya konu etmiş olmakla, bu yönden eldeki davada mahsup yapmak yerine ayrı bir hüküm kurulduğu (aynı yönde Yargıtay 15 HD 2010/71525 E.

@@ -96,8 +96,6 @@ Müspet zarar (olumlu zarar) ise, sözleşme tam olarak ifa edilmiş olsa idi al
 
 ## Ankara BAM 23. HD 2026/758 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202873000)
-
 6098 sayılı Türk Borçlar Kanunu'nun 112. maddesine (818 sayılı mülga Borçlar Kanunu'nun 96.) göre alacaklının, borçludan borcun hiç veya gereği gibi ifa edilmemesi nedeniyle tazminat isteyebilmesi için alacaklının bu yüzden bir zarara uğramış olması gerekir. Sözleşmeden kaynaklanan zarar müspet zarar olacağı gibi, menfi zarar da olabilir. Müspet zarar; borçlu edayı gereği gibi ve vaktinde yerine getirseydi alacaklının mameleki ne durumda olacak idiyse, bu durumla eylemli durum arasındaki farkı ifade eder. Diğer bir anlatımla müspet zarar, sözleşmenin hiç veya gereği gibi yerine getirilmemesinden doğan zarardır ve kuskusuz kâr mahrumiyetini de içerir. Borcun yerine getirilmesinin kusurla olanaksız hale gelmesinde, temerrüde düşen borçludan tazminat istenmesinde, yahut borçlunun temerrüdü halinde ifadan vazgeçilip, ifa yerine tazminat istenmesinde ve sözleşmenin ihlalinde müspet zararın giderimi söz konusu olur (Prof. Dr. H. Tandoğan Türk Mesuliyet Hukuku 1961 s. 426 vd.).
 
 ## Ankara BAM 23. HD 2026/558 K.
@@ -115,8 +113,6 @@ Menfi zarar, uyulacağı ve yerine getirileceğine inanılan bir sözleşmenin h
 Müspet zarar, alacaklının ifadan vazgeçerek zararının tazminini istemesi halinde söz konusu olur. Sözleşme ortadan kalkmamaktadır, yalnız alacaklının ifaya ilişkin talep hakkının yerini müspet zararının tazminine dair talep hakkı alır. Burada sözleşmenin feshedilmemesinden değil, borcun ifa edilmemesinden doğan zararı söz konusudur. Müspet zarar o sözleşme nedeniyle cebe girmesi gereken paranın girememesinden kaynaklanan zarardır. Bu niteliği gereği müspet (olumlu) zarar daima ileriye dönük olup bir beklenti kaybıdır. Doktrinde, müspet zarar borçlu edayı gereği gibi ve vaktinde yerine getirseydi alacaklının mameleki ne vaziyette bulunacak idi ise bu vaziyetle mamelekin halihazır vaziyeti arasındaki fark olarak kabul edilmektedir. Diğer bir ifadeyle müspet zarar, akdin hiç veya gereği gibi ifa edilememesinden doğan zarardır.
 
 ## Bursa BAM 5. HD 2025/1400 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191334400)
 
 Müspet zarar (olumlu zarar) ise, sözleşme tam olarak ifa edilmiş olsa idi alacaklının mal varlığının oluşacağı durum ile sözleşmeden dönülmüş olması nedeniyle mevcut durum arasındaki farktır. Dönme ve fesihte kusursuz olan yüklenicinin, kusurlu olan iş sahibinden olumlu zarar isteyebileceği kabul edilmekte ve yerleşik içtihat ve uygulamalarında kâr kaybının TBK'nın 480. maddesinin ikinci cümlesi (BK 325) kıyasen kesinti yöntemine göre hesaplanacağı kabul edilmektedir. (Örnek: Yargıtay 15. HD. 11.04.2007 T. 2006/4955 E. 2007/2372 K. ve Yargıtay 15. HD. 09.05.2013 T. 2012/7521 E. 2013/3029 K. ile Yargıtay 15. HD. 20.07.2011 T. 2011/864 E. 2011/4787 K. )…
 

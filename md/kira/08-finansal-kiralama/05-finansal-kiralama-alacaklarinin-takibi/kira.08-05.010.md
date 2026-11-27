@@ -29,8 +29,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 11. HD 2022/1175 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804541300)
-
 ... İnş. Ltd. Şti ile ... Kiralama A.Ş arasında Beşiktaş 3. Noterliğinin 15/04/2011 tarih ... yevmiye numaralı düzenleme şeklinde finansal kiralama sözleşmesinin imzalandığı, bu sözleşmede ..., ... , ... , ... San. Ve Tic. Ltd. Şti, ... Deri Tur. Taşımacılık Tic. Ve San LTd. Şti ile ... Kuyumculuk Deri Tur. Taşımacılık Tic. Ve San Ltd. Şti'nin müşterek borçlu ve müteselsil kefil sıfatıyla imzalarının bulunduğu anlaşılmaktadır.
 
 ## Ankara BAM 21. HD 2022/962 K.

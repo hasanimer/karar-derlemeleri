@@ -92,8 +92,6 @@ Maddesinde bu devir için davalının 200.000,00-TL'lik hiçbir şarta bağlanma
 
 ## Antalya BAM 7. HD 2024/939 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1070128700)
-
 Dava, sözleşmeye dayalı alacak davasıdır.
 
 …
@@ -102,8 +100,6 @@ Dava, sözleşmeye dayalı alacak davasıdır.
 Taraflar arasındaki sözleşme atipik bir sözleşme olup, bu sözleşmenin vekalet hükümlerinin yanında TBK 547-557 maddelerinde düzenlenen ticari temsilci, ticari vekil ve diğer tacir yardımcıları gibi hükümlere temas eden yönleri de bulunmaktadır. Dolayısıyla TTK'nun 4/1-c maddesi hükmü de dikkate alınarak davanın Ticaret Mahkemesinde görülüp sonuçlandırılması gerekirken, yazılı gerekçe ile görevsizlik kararı verilmesi usul ve yasaya uygun düşmemektedir.
 
 ## Antalya BAM 7. HD 2024/795 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047160700)
 
 3.2.6098 Sayılı TBK'nun 620 ve devamı maddelerinde düzenlenen adi ortaklığın tüzel kişiliği ve taraf ehliyeti bulunmamaktadır. Taraf ehliyeti 6100 Sayılı HMK 114/1-d maddesi gereğince dava şartlarından olup, taraflarca ileri sürülmese dahi, mahkemece re'sen nazara alınması gerekmektedir. Davalı iş ortaklığının taraf ehliyetinin bulunmaması nedeniyle, bu davalı yönünden dava şartı yokluğu nedeniyle davanın usulden reddine karar verilmesi gerekirken, bu davalı yönünden de yazılı şekilde esasa dair karar verilmiş olması usul ve yasaya uygun düşmemektedir. Kaldı ki, icra takibinin dayanağı olan Antalya 2. Asliye Ticaret Mahkemesinin ihtiyati haciz talebinin kabulüne ilişkin karar tesis edilen ... Değişik iş sayılı dosyası üzerinden verilen 15/02/2021 tarihli ek karar ile, iş ortaklığı aleyhine takip yapılamayacağı gerekçesiyle, davalı iş ortaklığı yönünden 19/01/2021 tarihli ihtiyati haciz kararına yapılan itirazın kabulüne ve kaldırılmasına karar verilmiştir. Belirtilen ek karar dikkate alındığında, adı geçen iş ortaklığı yönünden, geçerli bir icra takibinin varlığından söz edilemeyecek olması nedeniyle, bu yönden de dava şartı noksanlığı bulunmaktadır.
 

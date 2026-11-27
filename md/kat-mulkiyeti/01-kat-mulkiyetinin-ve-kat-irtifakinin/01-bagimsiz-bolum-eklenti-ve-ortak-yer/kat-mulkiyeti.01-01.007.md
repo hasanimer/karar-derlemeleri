@@ -63,8 +63,6 @@ Yukarıda açıklanan Mahkeme Kararlarıyla, davacının sözleşmeyi feshettiğ
 
 ## Ankara BAM 4. HD 2022/1767 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783595300)
-
 Somut olayda, davacı şirket ile davalı site yönetimi arasında yönetim hizmeti alım sözleşmesinin imzalandığı, eldeki dava ile sözleşme kapsamında davacının alacağının tahsili amacıyla davalı aleyhine girişilen icra takibine itirazın iptalinin istendiği anlaşılmaktadır. Dairemize istinaf incelemesi için gelen ... ... Bloklarındaki bağımsız bölümlere ilişkin gayrimenkul satış vaadi sözleşmelerine dayalı alacak talepli dava dosyasında sözleşme konusu bağımsız bölümlerin "ofis" olarak nitelendirildiğinin, satış konusu taşınmazların niteliği dikkate alındığında bağımsız bölümü satın alanın tüketici sıfatını taşımadığının, olayda tüketici işleminin de bulunmadığının kabul edildiği tespit edilmiş olup (Dairemizin 26/12/2019 tarihli 2019/1799 Esas 2019/2322 Karar sayılı ilamı), mahkemece, davalı yönetimin temsil ettiği kat maliklerinin adına kayıtlı bağımsız bölümlerin tapu kayıtlarındaki niteliği ve kat maliklerinim tüketici olup olmadığı hususunda bir inceleme ve değerlendirme yapılmamıştır.
 O halde, davalı yönetimin temsil ettiği kat maliklerinin kullanımında bulunan bağımsız bölümlerin tapu kayıtlarının getirtilerek niteliklerinin tespit edilmesi, kat malikleri ile davalının tüketici olup olmadığının araştırılması suretiyle, somut olayda taraflar arasındaki uyuşmazlığın 6502 sayılı Tüketicinin Korunması Hakkında Kanun kapsamında kalıp kalmadığı ve Tüketici Mahkemesinin görevli olup olmadığı belirlenip, sonucuna göre bir karar verilmesi gerekirken, mahkemece eksik inceleme ile karar verilmiş olması usul ve yasaya aykırı görülmüştür.
 

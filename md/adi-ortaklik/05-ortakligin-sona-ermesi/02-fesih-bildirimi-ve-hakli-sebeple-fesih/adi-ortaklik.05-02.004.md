@@ -94,8 +94,6 @@ Noterliği 25.12.2017 tarih ve ... yevmiye no'lu adi ortaklık kurulmasına ili�
 
 ## Konya BAM 6. HD 2021/2248 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739541000)
-
 Dava, adi ortaklığın fesih ve tasfiyesi istemine ilişkindir.
 
 …

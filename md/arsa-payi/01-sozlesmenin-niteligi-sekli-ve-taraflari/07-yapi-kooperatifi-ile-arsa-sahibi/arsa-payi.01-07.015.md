@@ -51,8 +51,6 @@ sonra davalı kooperatifin 2017 yılı hesap yılına ilişkin yapılan 06/05/20
 
 ## Antalya BAM 11. HD 2025/719 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170334900)
-
 Davalı kooperatif; kooperatiflerinin kurulduğu günden itibaren çift imza ile müştereken temsil edildiğini, davacının tek başına imza attığı bonoda şahsi sorumluluğunun olduğunu, davacı ile ... arasında bono alınıp verilmesi ile ilgili hukuki ilişkilerin kooperatifi bağlamadığını, projenin zorunlu unsuru olan ısıtma ve yangın söndürme sisteminin tüm projeler için mevzuat gereği zaten ruhsat aşamasında zorunlu olduğunu, davacının kooperatif başkanı olarak yükleniciye tek başına sözlü olarak ek imalat talep etmesi ve ücret ödeyeceğini beyan etmesinin geçerliliğinin olmadığını, bu konuda üyeleri aramadığını ve bilgi vermediğini, yönetimde imza yetkisi olan diğer 2 üyenin de imzası ve bilgisinin olmadığını, davacı ...'in kooperatif başkanı olduğu dönemde kooperatifin aleyhine kendisinin menfaatine olmak üzere yüklenici firmanın yetkilisi olan ... ile aralarında kooperatifin bilgisi ve onay kararı olmadan senet alıp verdiğini ve sözleşmeler yaptığını, bu yapılan sözleşmeler ve aldığı senetleri tahsil ettiğini ve tahsil ettiği paraları da kendi şahsi hesabına yatırdığını, davacının davasına konu ettiği şahsi senedin ise ...'den 250.000,00.-TL lik senedi anlaşarak ortadan kaldırma çabası
 sırasında kooperatifin bilgisi olmadan tahsil ettiği paraya karşılık verdiğini beyanla kooperatifleri çift imza ile temsil edildiğinden ve kooperatif üyeleri ile yönetim kurulunun bilgisi ve onayı dışında iş ve işlemler yapıldığından davacının davasının reddine karar verilmesini talep etmiştir.
 
@@ -95,8 +93,6 @@ yapmayacağı açık bir şekilde belirtilmiş olması şartlarının birlikte g
 ortaklığı sürekli devam eden bir ilişki olduğundan kooperatif ile ortağı arasındaki aidat ilişkilerinde zamanaşımı sürelerinin işlemeyeceği, bu bakımdan itirazın yerinde olmadığı, davalının sabit fiyatlı olarak kendisine 2 daire verileceğini iddia ettiğine göre kendisinin kooperatife nakdi ödeme yapmadığı anlaşıldığından eşit işlem ilkesi gereği yapılan itirazların da yerinde olmadığı, kooperatifin 26.03.2009 tarihli genel kurulunda alınan kararda, yüklenici firmaya nakit ve peşin ödemeli 99.900 TL'den birer daire verilmesi kararlaştırılmış olduğunun anlaşıldığı, kararın yüklenici firma ile ilgili olup davalı açısından geçerli bulunmadığı, davalının sabit fiyatlı ortak olabilmesi için bu konuda alınmış genel kurul kararının mevcut olması gerektiği, iddia edildiği gibi müteahhit firma ...
 
 ## Antalya BAM 11. HD 2024/1230 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1048455000)
 
 İlk derece mahkemesince yapılan yargılama sonunda; "... Kapatılan Antalya 6.
 
@@ -166,8 +162,6 @@ Samsun 2. Asliye Hukuk Mahkemesi'nce; Her ne kadar daha önce verilen görevsizl
 Dosya kapsamındaki isteme yönelik olarak daha önce Asliye Hukuk Mahkemesi tarafından verilen görevsizlik kararının incelemesi sonucunda Samsun Bölge Adliye Mahkemesi 1. Hukuk Dairesi'nin 2019/37 Esas-2019/259 Karar sayılı ilamı ile görevsizlik kararının kaldırılmasına karar verilmiş olup …
 
 ## Antalya BAM 7. HD 2024/667 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039966400)
 
 Davalılar tarafından sunulmuş cevap dilekçesi bulunmamaktadır.
 

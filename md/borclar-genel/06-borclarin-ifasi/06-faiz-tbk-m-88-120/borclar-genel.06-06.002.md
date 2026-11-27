@@ -270,6 +270,4 @@ Temerrüt faizi, borçlunun para borcunu zamanında ödememesi ve temerrüde dü
 
 ## Antalya BAM 13. HD 2024/521 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102150200)
-
 Tazminat alacağı haksız fiile dayandığından temerrüt faiz oranı BK'nın 105. (TBK 120) maddesi yollaması ile 3095 Sayılı Kanun hükümleri çerçevesinde belirlenmektedir. Dolayısıyla temerrüt faizi oranını belirleme yetkisi de ülkenin ekonomik koşullarını dikkate alan kanun koyucuya aittir. Faiz miktarının düşük ve enflasyonun yüksek olması ve bu nedenle emtia fiyatlarındaki artış davalının sorumluluğunda değildir. Ekonomik göstergelere dayanılarak tazmin edilecek zararın (munzam zarar) gerekçesi, geçmiş günler faizinin az olduğu iddiası olamaz.

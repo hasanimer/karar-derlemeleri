@@ -32,6 +32,4 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 11. HD 2025/734 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176709200)
-
 Olağan zamanaşımı ile hak elde edilmesi yönünden; 4721 sayılı Türk Medeni Kanunun 712. maddesi gereğince; geçerli bir hukukî sebep olmaksızın tapu kütüğüne malik olarak yazılan kişi, taşınmaz üzerindeki zilyetliğini davasız ve aralıksız olarak on yıl süreyle ve iyiniyetle sürdürürse, onun bu yolla kazanmış olduğu mülkiyet hakkına itiraz edilemeyecek olması, davalı aleyhine açılan davalar ile davasız zilyetlik şartları oluşmadığından üst hakkının bu yolla kazanılamayacağı sonucuna varılmıştır.

@@ -66,8 +66,6 @@ Yine; Mahkeme içi ikrarın, taraflardan yada onların yetkili temsilcilerinden 
 
 ## Konya BAM 6. HD 2023/1838 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968791000)
-
 6100 sayılı HMK'nun 200.maddesi; "Bir hakkın doğumu, düşürülmesi, devri, değiştirilmesi, yenilenmesi, ertelenmesi, ikrarı ve itfası amacıyla yapılan hukuki işlemlerin, yapıldıkları zamanki miktar veya değerleri ikibinbeşyüz Türk Lirasını geçtiği takdirde senetle ispat olunması gerekir. Bu hukuki işlemlerin miktar veya değeri ödeme veya borçtan kurtarma gibi bir nedenle ikibinbeşyüz Türk Lirasından aşağı düşse bile senetsiz ispat olunamaz. Bu madde uyarınca senetle ispatı gereken hususlarda birinci fıkradaki düzenleme hatırlatılarak karşı tarafın açık muvafakati hâlinde tanık dinlenebilir. " hükmünü,…
 
 ## İzmir BAM 21. HD 2022/1337 K.
@@ -77,7 +75,5 @@ Yine; Mahkeme içi ikrarın, taraflardan yada onların yetkili temsilcilerinden 
 Yeri gelmişken belirtilmelidir ki, 6100 sayılı Hukuk Muhakemeleri Kanunu’nun “Yeminin Konusu” başlıklı 225. maddesi “Yeminin konusu, davanın çözümü bakımından önem taşıyan, çekişmeli olan ve kişinin kendisinden kaynaklanan vakıalardır. Bir kimsenin bir hususu bilmesi onun kendisinden kaynaklanan vakıa sayılır.” şeklinde düzenlenmiştir. Bu maddeye göre bir vakıayı ispat yükü kendisine düşen taraf, o vakıayı başkaca delillerle ispat edememesi halinde diğer tarafa yemin teklif edebilir. Yani yemin teklifi ispat yükü kendisine düşmeyen tarafa yapılır. Kendisine ispat yükü düşmeyen tarafa belli bir vakıa hakkında yemin teklif edebilmek için ise vakıanın karşı taraftan kaynaklanması gerekir.
 
 ## Ankara BAM 31. HD 2021/587 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673138800)
 
 Bononun, hukuksal niteliği gereğince sebebini içermeyen bir borç ikrarı senedi olduğunu, her ne kadar bononun mücerret borç ikrarını içerse ve bononun düzenlenmesiyle birlikte bonoyu düzenleyen ile bononun lehtarı arasında birisi temel borç ilişkisi diğeri ise kambiyo senedi ilişkisi olmak üzere iki ayrı borç ilişkisi meydana gelse de bu borçlardan temel borç ilişkisi olan yalnızca lehtar ve keşideciyi ilgilendirdiğini, yani temel borç ilişkisine aykırılık yalnızca bu kişiler açısından defi olarak ileri sürülebileceğini, oysa ki mevcut olayda müvekkili ...'in senedin ciro edildiği hüsnüniyetli 3. kişi olduğunu, bu durumda temel borç ilişkisine dayalı defileri ileri sürerek borcun olmadığına dair müvekkiline menfi tespit davası açılmasının yersiz ve haksız olduğunu, Yargıtay 19. Hukuk Dairesi'nin.... ... K. 1.3.2004 tarihli kararından da anlaşılacağı üzere "Keşidecinin lehtara karşı ileri sürebileceği ve senet metninden anlaşılmayan temel ilişkiye ait şahsi defilerini iyi niyetli üçüncü şahıslara karşı ileri süremez." denildiğini,…

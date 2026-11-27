@@ -56,6 +56,4 @@ Zira şekle ilişkin hükümden hükmün amacı dışında yararlanmak istendiğ
 
 ## Antalya BAM 11. HD 2022/159 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729374700)
-
 Bir başka anlatımla, Medeni Kanunun 2. maddesinin ikinci fıkrasında düzenlenen hakkın kötüye kullanılması yasağı kuralının amacı, hâkime özel ve istinaî hâllerde (adalete uygun düşecek şekilde) hüküm verme imkânını sağlamaktır. Madde hükmünün bu özelliği, İsviçre Federal Kurulunun Medeni Kanun tasarısını Millet Meclisine sevkine ilişkin 1904 tarihli mesajında: “Bir hakkın kullanılmasının açıkça adaletsizlik teşkil ettiği ve gerçek hakkın tanınması ve ferdin korunması için bütün hukuki yolların kapalı bulunduğu hâllerde MK. m.2 f.2 hükmünün amacı, zaruretten doğan ve olağanüstü bir imkân sağlamaktır.” şeklinde açıklanmaktadır. Medeni Kanunun 2. maddesinin ikinci fıkrasındaki kuralla kanunun ve hakkın mutlaklığı ilkesine istisna getirilmiştir. Ancak, bu kuralın taliliği (ikincilliği) de gözetilerek, öncelikle her meseleye ona ilişkin kanun hükümleri tatbik edilmeli; uygulanan kanun hükümlerinin adalete aykırı olabileceği bazı istisnai durumlarda da, 2. maddedeki kural, haksızlığı tashih edici bir şekilde uygulanabilmelidir.

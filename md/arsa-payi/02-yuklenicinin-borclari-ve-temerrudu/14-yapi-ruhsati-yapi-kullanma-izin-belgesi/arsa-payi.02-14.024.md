@@ -126,8 +126,6 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1-Davacı vekilinin isti
 
 ## Antalya BAM 7. HD 2024/787 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047216600)
-
 Davacı vekili açtığı dava ile, davalı yüklenici ... ile diğer davalılar arsa sahipleri arasında arsa sahiplerine ait ... mahallesi, ... ada ... parseldeki taşınmaza ilişkin noterde kat karşılığı inşaat sözleşmesi düzenlendiğini, davalı yüklenicinin yapacağı inşaat karşılığı 36 adet bağımsız bölüm alacağını, davacı ile davalı yüklenici arasında inşaatın PVC pencere kapı doğrama işlerini davacı tarafından 308.000 euro bedelle yapılması konusunda anlaşma sağlandığını, yüklenici tarafından davacıya çek verildiğini, bir kısım çeklerin karşılıksız çıktığını, Antalya 4. İcra Dairesinin ...
 
 …

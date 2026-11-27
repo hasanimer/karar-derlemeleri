@@ -213,14 +213,10 @@ Haksız fiilenden kaynaklanan davalarda, 6098 sayılı TBK’nun 74. maddesine g
 
 ## Antalya BAM 11. HD 2023/1176 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914347300)
-
 Görülmektedir ki, ceza mahkemesinin “delil yetersizliğine dayanan beraat kararının” hukuk hakimini bağlamayacağı, ancak beraat kararı bir maddi olguyu tespit ediyorsa, diğer anlatımla beraat kararı suçun sanıklar tarafından işlenmediğinin kesin olarak tespiti olgusuna dayanıyorsa, bu kararın hukuk hakimini de bağlayacağı, ceza davasında hükme dayanak yapılan maddi olgularla ve özellikle eylemin hukuka aykırılığını ve failini belirleyen, mahkumiyet kararının bu yönlerinin hukuk hakimini bağlayacağı, kusurun takdiri ve zararın miktarını tayini hususundaki kararın hukuk hakimini bağlamayacağı hususları doktrinde ve Yargıtay'ın yerleşik uygulamalarında kabul edilmektedir. Bilindiği gibi ceza mahkemesinin, uyuşmazlık konusu olayın tespitine; diğer bir söyleyişle, olayın varlığına ve sanık tarafından işlendiğine ilişkin maddi olgular hakkındaki kesinleşmiş saptaması, aynı konudaki hukuk mahkemesinde de kesin hüküm oluşturur. Bunun nedeni, ceza yargılamasındaki ispat araçları bakımından ceza hakiminin hukuk hakiminden çok daha elverişli bir konumda olmasıdır (HGK'nın 16.09.1981 gün ve 1979/1-131 E., 1981/587 K. sayılı ilamı, Mustafa Çemberci, Hukuk Davalarında Kesin Hüküm, 1965, s. 22 vd;
 Turgut Uygur, Borçlar Kanunu Şerhi, C. 1, s. 844; YHGK'nın 28.03.2012 gün ve 19-24 E., 243 K. sayılı ilamı). Böylece, kural olarak hukuk hakimi ceza yasasındaki hükümlerle ve ceza hakiminin kararıyla bağlı tutulmamış; BK’nın 53. maddesi ile bağımsızlık ilkesi benimsenmiştir(Mustafa Reşit Karahasan, Tazminat Hukuku, 1996, s. 437 vd.).
 
 ## Antalya BAM 11. HD 2023/1145 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914351700)
 
 Ceza ve Hukuk Mahkemeleri kararları arasındaki ilişkiyi düzenleyen 6098 sayılı TBK'nın 74. (818 sayılı BK 53) maddesi hükmü hukuk hakimini, ceza mahkemesinin kesinleşen kararı karşısında maddi hukuk bakımından kural olarak bağımsız kılmaktadır. Ancak hukuk hakiminin bu bağımsızlığı sınırsız değildir. Her mahkumiyet kararı o eylemin hukuka aykırılığını tespit etmesi bakımından hukuk hakimini bağlayıcı niteliktedir. Ceza hakiminin saptadığı maddi olaylar ve özellikle fiilin hukuka aykırılığı ve davacı/davalı tarafından işlenmiş olup olmadığı hukuk hakimini bağlar.
 
@@ -244,13 +240,9 @@ Ceza mahkemesi kararlarının hukuk mahkemesine (davasına) etkisi, hukukumuzda 
 
 ## Ankara BAM 26. HD 2022/680 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/742132200)
-
 Mahkeme; dava konusu kazaya ilişkin olarak KGM trafik fen heyeti uzmanı kusur bilirkişi heyetinden ve İTÜ öğretim üyelerinden alınan iki kusur bilirkişisi raporunda davalı sürücünün kusurlu olduğunun mütalaa edildiğini, ancak kazaya ilişkin olarak Ankara 21. Asliye Ceza Mahkemesi'nin 2015/731 Esas sayılı dosyasında yapılan yargılamada davalı sürücünün kusursuz kabul edilmiş olması ve kararın Ankara BAM 12. Ceza Dairesi kararı ile onanması ile davalı sürücünün kusursuz olduğuna dair maddi olgunun TBK 74. maddeye göre hukuk mahkemesini bağlayacağı gözetildiğinde davanın reddine karar vermiştir.
 
 ## Ankara BAM 26. HD 2022/586 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740195500)
 
 6098 sayılı TBK.nın 74.maddesi “Hâkim, zarar verenin kusurunun olup olmadığı, ayırt etme gücünün bulunup bulunmadığı hakkında karar verirken, ceza hukukunun sorumlulukla ilgili hükümleriyle bağlı olmadığı gibi, ceza hâkimi tarafından verilen beraat kararıyla da bağlı değildir. Aynı şekilde, ceza hâkiminin kusurun değerlendirilmesine ve zararın belirlenmesine ilişkin kararı da, hukuk hâkimini bağlamaz.” hükmünü içermektedir. Madde metninde de anlaşıldığı üzere ceza mahkemesinin beraat kararının hukuk hâkimini bağlamayacağı, ancak beraat kararı bir maddi olguyu tespit ediyorsa bu kararın hukuk hâkimini bağlayacağı, beraat kararı suçun sanık tarafından işlenmediğinin kesin olarak tespiti olgusuna dayanıyorsa, bu kararın hukuk hâkimini de bağlayacağı, bundan başka kusurun takdiri ve zararın miktarını tayini hususundaki kararın hukuk hâkimini bağlamayacağı hüküm altına alınmıştır (Turgut Uygur, Borçlar Kanunu Şerhi, C. 1, s. 844).
 Ancak Hukuk hâkimi kural olarak ceza mahkemesinin beraat kararı ile bağlı değil ise de aynı olay nedeniyle ceza yargılamasında hükme dayanak alınan maddi olgularla ve özellikle “fiilin hukuka aykırılığı” konusunda tamamen bağlı olacağı gerek öğreti gerekse de yargısal uygulamada istikrarla kabul edilmektedir. Başka bir deyişle maddi olayları ve yasak eylemlerin varlığını saptayan ceza mahkemesi kararı, taraflar yönünden kesin delil niteliğini taşır (HGK, 24.12.2014 gün ve 2014/4-846 E., 2014/1091K). Hukuk hâkimi ceza mahkemesi kararındaki fiilin hukuka aykırılığını ve illiyet bağını belirleyen maddi olgularla ve ceza mahkemesince verilen mahkûmiyet kararı ile bağlıdır.

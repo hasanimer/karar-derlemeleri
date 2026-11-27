@@ -40,8 +40,6 @@ Eser sözleşmesinden doğan davalar için, tarafların sıfatından veya işlem
 
 ## Denizli BAM 2. HD 2025/388 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126612000)
-
 HMK'nın 4/.maddesinin birinci fıkrasının (a) bendinde ise, kiralanan taşınmazların 09/06/1932 tarih ve 2004 sayılı İİK'ya göre ilamsız icra yoluyla tahliyesine ilişkin hükümler
 
 ayrık kalmak üzere, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıklara konu olan davalar ile bu davalara karşı açılan davalara konuları ve değerlerine bakılmaksızın Sulh Hukuk Mahkemelerinde bakılacağı hükmüne yer verilmiştir.
@@ -74,8 +72,6 @@ alınarak davacıya verilmesine karar verilerek gerekçe ile hüküm arasında a
 
 ## Gaziantep BAM 4. HD 2024/2557 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088642800)
-
 6100 Sayılı HMK'nun 4/1-a maddesine göre “Kiralanan taşınmazların, ... tarihli ve ... sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalarda” . . .. görevlidir.
 
 ## İstanbul BAM 54. HD 2024/2392 K.
@@ -91,8 +87,6 @@ düzeltmek amacıyla yapılan inceleme sonunda; dairemizce duruşma yapılmasın
 Kira alacağının tahsili ve kiralananın tahliyesi istemli İİK'nın 269 vd. maddeleri gereğince yapılan icra takibinde, borçluya gönderilen ödeme emrinin Türk Borçlar Kanunu'nun 315/2 ve 362/2 inci maddelerinde yazılı, kira sözleşmesinin türüne göre 10, 30 veya 60 gün içerisinde takibe konu kira parasının ödenmesi gerektiği ve kanuni müddet geçtikten sonra icra mahkemesinden borçlunun kiralanan yerden tahliyesinin istenebileceği ihtarını ihtiva etmesi gerekir.
 
 ## Antalya BAM 5. HD 2024/2018 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1076821200)
 
 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 4. maddesinde ise dava konusunun değer veya tutarına bakılmaksızın kiralanan taşınmazların, 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaların sulh hukuk mahkemesinin görevinde olduğu düzenlenmiştir.
 
@@ -220,8 +214,6 @@ HMK'nun 4/a maddesi hükmüne göre,”kiralanan taşınmazların 9.6.1932 tarih
 Hal böyle olunca, mahkemece uyuşmazlığın çözümünde Sulh Hukuk Mahkemesinin görevli olduğu gözetilerek, görevsizlik nedeniyle HMK'nın 114/1-c ve 115/2. maddeleri uyarınca davanın usulden reddine karar verilmesi gerekirken, bu husus göz ardı edilerek davanın esası hakkında hüküm kurulması usul ve yasaya aykırıdır. Görev hususu kamu düzenine ilişkin olup, yargı organlarınca yargılamanın her aşamasında dikkate alınması gerektiğinden, davalılar vekilinin istinaf başvurusunun görev nedeniyle kabulüne, HMK.353/1-a-3 maddesi gereğince ilk derece mahkemesi kararının kaldırılmasına ve dosyanın görevli Sulh Hukuk Mahkemesine gönderilmek üzere, kararı veren mahkemeye gönderilmesine karar vermek gerekmiştir.
 
 ## İstanbul BAM 35. HD 2018/1939 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/456479100)
 
 HMK 4/a maddesi gereğince "kiralanan taşınmazların İcra İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu olan davalar ile bu davalara karşı açılan davalar Sulh Hukuk Mahkemesinde" görüleceğinin düzenlendiği,…
 

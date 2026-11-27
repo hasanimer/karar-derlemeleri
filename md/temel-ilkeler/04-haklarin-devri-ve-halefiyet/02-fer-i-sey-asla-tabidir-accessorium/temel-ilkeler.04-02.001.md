@@ -111,6 +111,4 @@ Cezai şart borçlunun, asıl borcunu ilerde, hiç veya gereği gibi ifa etmedi�
 
 ## Ankara BAM 23. HD 2022/703 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/755592400)
-
 Garanti sözleşmesi niteliğinde olması nedeniyle banka teminat mektubu ile teminat verilen temel ilişki arasında, kefalet sözleşmesinde olduğu gibi bir aslilik-fer'ilik ilişkisi bulunmamakta; banka, muhatap ile lehtar arasındaki temel ilişkiden bağımsız bir borç altına girmektedir. Ayrıca; bağımsız borç niteliği taşıyan banka teminat mektubunun geçerliliği, lehtar ile muhatap arasındaki temel ilişkinin geçerliliğine bağlı değildir. Yani temel ilişkinin geçersizliğinde dahi, riskin gerçekleşmesi halinde banka teminat mektubunun paraya çevrilmesi mümkündür. Muhatap; aralarındaki temel ilişkide lehtarın edimini gereği gibi ifa etmemesi yahut mektup metninde yer alan sair bir riskin meydana gelmesi halinde, bankaya teminat mektubunun paraya çevrilmesi için talepte bulunabilir. Talebi alan banka, özen ..., yükümlülüğüne uyarak somut durumu tahlil eder. Yapılan tahlil neticesinde; mektup metninde yer alan riskin gerçekleştiği sonucuna ulaşırsa mektubu paraya çevirir, aksi görüşte olması durumunda hukukun kendisine tanıdığı imkanlara dayanarak talebi reddeder.

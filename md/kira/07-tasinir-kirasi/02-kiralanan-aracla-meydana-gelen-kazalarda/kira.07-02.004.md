@@ -39,8 +39,6 @@ Dava, maddi hasarlı trafik kazası nedeniyle sigorta şirketi tarafından öden
 
 ## Gaziantep BAM 11. HD 2025/755 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144410500)
-
 Davaya konu sigorta poliçesi incelendiğinde poliçenin "İstisnalar" başlıklı kısmının ikinci paragrafında "Sigortalının bizzat kendisinin ve/veya kanuni temsilcilerinin (kiralık araçlar dahil) ve/veya kiralama ya da sözleşme yoluyla veya resmi olarak istihdam ettiği kişilerin veya alt taşıyıcısının, refakat eden kişinin, araç işleteninin ve araç sürücülerinin hilesi, kastı veya ağır kusurunun neden olduğu hasar ve zararlar" teminat kapsamı dışında bırakılmıştır. Bu nedenle davacı sigorta şirketinin yaptığı tazminat ödemesini sorumlulara TTK m. 1472'ye göre rücu ekme hakkı bulunmamakta ise de, davacının dosyaya ibraz ettiği .. tarih ve "Teminat Makbuzu ve İbraname" başlıklı belge ile kendi sigortalısı dava dışı . Şirketinden dava konusu hasar nedeniyle tazminat talep etme haklarını devir etmiştir. Davacı sigorta şirketi, alacağın temliki ile de sigortalının kullanabileceği hakları devraldığına, .. tarihli belgenin TBK m. 183'e göre geçerli bir alacağın devri sözleşmesi olmasına göre sigorta poliçesinden bağımsız olarak ele alınıp değerlendirilmesi gerekir.
 
 ## Sakarya BAM 7. HD 2025/902 K.

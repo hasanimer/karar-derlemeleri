@@ -138,8 +138,6 @@ Yapılan açıklama ve ilkelere uygun olarak 6100 sayılı Kanun'un “Zaman bak
 
 ## Ankara BAM 31. HD 2022/31 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/725293600)
-
 Kanunların geriye yürümemesi (geçmişe etkili olmaması) kuralının istisnaları da vardır. Bunlardan birini, beklenen (ileride kazanılacağı umulan) haklar oluşturmaktadır. Diğerini ise; kamu düzeni ve genel ahlaka ilişkin kurallar oluşturmaktadır. Bu iki halde kanunların geriye yürümesi söz konusudur. Ayrıca; Yargılama Hukukunu düzenleyen (usul hukukuna ilişkin) kanunlar da, ilke olarak geçmişe etkilidir (Prof. Dr. Necip Bilge, Hukuk Başlangıcı, 14. Bası, Turhan Kitabevi, Ankara 2000, sh: 193-194; Prof. Dr. A.Şeref Gözübüyük, Hukuka Giriş ve Hukukun Temel Kavramları, 18. Bası, Turhan Kitabevi, Ankara 2003, sh: 73). Yargıtay Hukuk Genel Kurulu'nun 09.03.1988 tarih ve 1987/2-860 E, 1988/232 K; 13.10.2004 tarih ve 2004/10-528 E, 2004/533 K; 06.04.2005 tarih ve 2005/10-183 E, 2005/241 K; 06.02.2008 gün ve 2008/3-60 E, 2008/94 sayılı kararları da aynı yöndedir..." (HGK. 20.02.2008 T. 2008/13-160 E, 2008/147 K.).
 
 ## İstanbul BAM 12. HD 2018/5 K.

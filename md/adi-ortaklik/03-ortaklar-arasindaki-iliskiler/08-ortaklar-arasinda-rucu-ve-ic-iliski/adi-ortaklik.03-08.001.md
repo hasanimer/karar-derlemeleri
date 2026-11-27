@@ -156,6 +156,4 @@ Eldeki davada, mahkemece; vergi borcunun tahakkuk ettiği dönemde, davacının 
 
 ## Ankara BAM 27. HD 2021/422 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653412600)
-
 Rücuen alacak isteminin tahsili için Ankara 6. İcra Müdürlüğü'nün ... sayılı dosyasında alacaklı olarak yukarıda belirtildiği üzere ödeme yapan ... ... San. ve Tic. A.Ş. tarafından davalı şirketler aleyhine ilamsız icra takibi başlatıldığı, bu nedenle davanın dayanığı dikkate alındığında adi ortaklığı oluşturan diğer ... ... Şubesi'nin davacı olarak mecburi dava arkadaşı olarak yer alması gerekmediğinden mahkemece ... ... Şubesi yönünden taraf sıfatı olmadığından aktif dava ehliyeti yokluğu nedeniyle davanın reddine karar verilmesi gerekirken, hatalı değerlendirmeyle ... ... Şubesi'nin taraf olarak kabul edilip bu davacı yönünden davanın kabulüne karar verilmesi doğru olmamış, davalılar vekilinin bu hususa ilişkin istinaf başvurusunun kabulü gerekmiştir.

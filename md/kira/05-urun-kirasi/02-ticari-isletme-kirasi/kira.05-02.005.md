@@ -62,22 +62,16 @@ bulunmamakta olup, bu nedenle davacı sözleşmede öngörülen iş süresi boyu
 
 ## Antalya BAM 11. HD 2022/1379 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/822822000)
-
 Davacı ... ile davalı arasında, davalının dava dışı otelde işlettiği butiğin davacıya devri konusunda 25/09/2013 tarihli sözleşme yapılmıştır. Bu sözleşmeden sonra taraflar arasında ek protokoller yapılmış ise de, nihai yapılan 17/06/2014 tarihli protokol ile önceden yapılan protokollerin geçerliliğini yitirdiği kabul edilmiştir. Bu protokolden sonra da zamanında ödeme yapılmadığı gerekçesiyle 05/10/2014 tarihli ek protokol düzenlenmiştir. Dolayısıyla uyuşmazlığın 25/09/2013 tarihli sözleşme, 17/06/2014 tarihli ve 05/10/2014 tarihli protokol hükümleri ile birlikte davalının dava dışı otel ile yaptığı kira sözleşmesi hükümleri ve yapılan ödemeler de değerlendirilerek sonuçlandırılması gerekir. Davalı ile dava dışı otel arasında düzenlenen kira sözleşmesinin 16. Maddesinde "kiracı dükkanı kesinlikle bir üçüncü şahsa kiracılık hakkını devredemez, yanına ortak alamaz, aksi halde kiralayan işbu kira sözleşmesini tek taraflı olarak derhal fesih hakkına sahiptir." düzenlemesi yer almıştır.
 Davacı taraf dilekçesinde özetle, üzerine düşen yükümlülükleri yerine getirmesine rağmen otel yönetimi otelden çıkartıldığını, devir için ödemeler yapıldığını, haksız olarak ödenen bedellerin iadesi için dava açıldığını beyan ettiğine ve hukuki nitelendirmenin mahkemeye ait olmasına göre; talebin sözleşmenin feshinden kaynaklı tazminat istemi olarak kabul edilip TBK'nın 125/3. maddesi çerçevesinde gerekli araştırma ve inceleme yapılarak, 25/09/2013 tarihli sözleşme, 17/06/2014 tarih ile 05/10/2014 tarihli ek protokoller ve davalının dava dışı otelle yapmış olduğu kira sözleşmesinin hükümleri irdelenip, işletmenin bir süre davacı tarafça işletildikten sonra davacıların otel yönetimi tarafından çıkartıldığı iddia edilmekle bu husus üzerinde de durularak,sonucuna göre davacı yönünden haklı ya da haksız fesih olup olmadığı tespit edilip, konusunda uzman bir başka üç kişilik bilirkişi kurulundan ayrıntılı, gerekçeli, denetime elverişli, usul ve yasaya uygun rapor da alınarak dosyadaki deliller bir bütün olarak değerlendirildikten sonra yargılamaya devamla talep konusunda karar verilmesi gerekirken eksik inceleme ve araştırmaya dayalı olarak karar verilmesi yerinde görülmemiştir.
 
 ## Antalya BAM 6. HD 2022/322 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/738226400)
 
 Somut olayda; taraflar arasında 25/04/2019 başlangıç tarihli 5 yıl süreli turistik otel kiralama sözleşmesi düzenlendiği konusunda ihtilaf bulunmamaktadır. Kira sözleşmesinin bir maddesinde "Kiracı otel kapsamında asma katta bulunan ve yönetim kurulu başkanı odası olan ofisi kiralayana tahsis etmiş olup iş bu ofis kira sözleşmesinin dışında tutulacak olup,
 
 kiralayan bu ofisi tek başına kullanma hakkına sahiptir. Bir başka ifade ile bu ofis kiralamadan hariç tutulmuştur." hükmünün bulunduğu davacı kiralayanın da bu madde hükmüne dayalı olarak eldeki muraazanın giderilmesi davasını açtığı anlaşılmaktadır.
 
 ## Ankara BAM 21. HD 2022/26 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/734252500)
 
 Yargılama aşamasında mahallinde yapılan keşif ile alınan birinci bilirkişi heyeti raporunda, dava dışı ... A.Ş.'ye ait ... isimli otelinin, 2009 yılı kira tespitinde işletici tarafından yapılacak olan yatırım için alınan ve kullanılan banka yatırım kredisi göz önüne alınarak buna göre değerlendirme yapıldığı, otelin 10/08/2009 yılında yıllık kira bedelinin KDV dahil 177.000,00 TL, 2012 yılına ait kira bedeli KDV dahil 700.000,00 Euro olabileceği yönünde kanaat bildirilmiştir.
 

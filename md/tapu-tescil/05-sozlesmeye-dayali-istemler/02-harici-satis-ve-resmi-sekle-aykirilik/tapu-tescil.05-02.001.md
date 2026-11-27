@@ -81,6 +81,4 @@ Hemen belirtilmelidir ki, Türk Medeni Kanunun 706, Borçlar Kanunun 213 (Türk 
 
 ## Antalya BAM 11. HD 2022/1761 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842331400)
-
 Bilindiği üzere, 4721 sayılı Türk Medeni Kanunu'nun 706., 6098 sayılı Türk Borçlar Kanunu'nun 237. ve 2644 sayılı Tapu Kanunu'nun 26. maddeleri uyarınca tapulu taşınmazların satışının resmi şekilde yapılması zorunludur. Bu nedenle harici satışlara mülkiyetin devri anlamında hukuksal bir değer verilemez.

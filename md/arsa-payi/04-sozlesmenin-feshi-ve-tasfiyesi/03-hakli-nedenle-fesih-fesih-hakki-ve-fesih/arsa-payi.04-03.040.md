@@ -132,8 +132,6 @@ Hükme esas alınan bilirkişi raporunda imalat bedelinin fiziki oran yöntemine
 
 ## Antalya BAM 7. HD 2024/759 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042879600)
-
 Noterliğinin 21.03.2008 tarih ... yevmiye nolu Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi gereğince davalı arsa sahipleri tarafından yerine getirilmediği iddia edilen yapı denetim hizmet sözleşmesi, yapı ruhsatı ve arsanın içindeki eski binanın yıkılıp temizlenmesi edimlerine yönelik davacı yükleniciye nama ifaya izin ve masrafların tahsili davası olup, davacı vekili tarafından 16.02.2017 tarihli dilekçesi ile sözleşmeden dönme ve davacı yüklenici tarafından yapılan inşaat maliyeti nedeniyle 20.000,00.-TL tazminat ve yine sözleşmenin davalıların kusuru ile feshi nedeniyle haksız fesihten kaynaklanan 30.000,00.-TL kar mahrumiyetinin dava tarihinden itibaren ticari avans faizi ile birlikte tahsili davası; asıl dava ile birleşen Antalya 3.
 Asliye Ticaret Mahkemesinin ... esas sayılı davası ise ilk açıldığı hali ile davacı yüklenicinin kusuru nedeniyle sözleşmenin geriye etkili feshi davası olup, yargılama sırasında davalı-birleşen davacı arsa malikleri vekili tarafından fesih ve tazminat olarak ıslah edildiği, mahkemece yapılan yargılama, toplanan deliller, inşaat sözleşmesi, karşılıklı ihtarlar, belediye mühürleme tutanakları, mahallinde yapılan keşif ve alınan rapor ve ek raporlar birlikte değerlendirildiğinde, sözleşme gereği yapı ruhsatına ilişkin olarak yükümlülüğün arsa sahiplerinde olduğu veya arsa sahipleri tarafından davacı yükleniciye bu konuda vekaletname verilmesi gerektiği, her ne kadar BAM kaldırma kararında yüklenici tarafından ihtarname ile arsa sahiplerinin temerrüde düşürülmediği belirtilmiş ise de yüklenici tarafından Antalya 2. Noterliğinin 12/01/2012 tarih, ... yevmiye nolu ihtarnamesiyle arsa sahiplerine bu konuda ihtar çekildiği, arsa sahipleri tarafından kendilerine çekilen ihtardan sonra Antalya 1.
 
@@ -146,8 +144,6 @@ talebin reddine, birleşen ... atm ... esas sayılı dosya yönünden fesih tale
 Davalı/ birleşen dosyada davacılar ..., ..., ... ve ... vekili Av. ..., davalı/ birleşen dosyada davacı ... vekili Av. ..., davacı/ birleşen dosyada davalı ... Şirketi vekili Av. ... ve ara karara itiraz eden (feri müdahale talebinde bulunan) ... vekili Av. ... vekilinin başvurularının AYRI AYRI ESASTAN REDDİNE …
 
 ## Konya BAM 5. HD 2024/550 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039912700)
 
 Davacı vekilinin ihtiyati tedbir talepli dava dilekçesinde özetle; müvekkili olan Kooperatif ile davalı arasında Antalya .. Noterliği'nin 28/05/2021 tarih ve ... yevmiye numaralı Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi imzalandığını, sözleşmenin konusunun müvekkiline ait Antalya Döşemealtı .... Mahallesi ...
 

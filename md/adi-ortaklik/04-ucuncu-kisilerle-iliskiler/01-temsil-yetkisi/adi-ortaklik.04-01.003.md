@@ -81,8 +81,6 @@ Soruşturma sayılı dosyasının getirtilerek incelenmesi, ibranameyi imzalayan
 
 ## Ankara BAM 31. HD 2022/546 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764957500)
-
 Dava, eser sözleşmesine dayalı itirazın iptali istemine ilişkindir.
 
 …
@@ -113,8 +111,6 @@ Eldeki dosyada yerel Mahkemece her ne kadar; Bel-Pet Petrol Ürünleri Dağıtı
 Şti.’ne davalının ortak alınması amacıyla akdedilmiş bir "ön sözleşme" niteliğinde olup,şirket hisselerinin ve petrol istasyonuna ait taşınmazın %50 'sinin devri bedeli olarak kararlaştırılan 1.500.000TL davalı ... tarafından ödenmekle tarafların söz konusu sözleşmeden kaynaklanan yükümlülüklerini yerine getirdikleri,ön sözleşme amacının gerçekleştiği anlaşıldığından artık bu sözleşmeden tek taraflı dönmenin söz konusu olamayacağı, davacıların dava dosyasında ileri sürdükleri eylem ve işlemlerin ise davalının Bel-Pet Petrol Ürünleri Dağıtım Nakliye Ltd. Şti.’ne ortak olmasından sonra bu Şirketin iç idaresi, temsil ve ilzamı ile ilgili olduğu görülmüş …
 
 ## Ankara BAM 31. HD 2021/1136 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/708818900)
 
 Alacaklılar arasında takip arkadaşlığı bazı hallerde söz konusu olur. Bu kimi zaman zorunlu, kiminde de isteğe bağlı olabilir. Alacaklılar arasında zorunlu takip arkadaşlığı konusundaki örneklerden biri de adi ortaklığa ait bir alacağın takibi halidir. Ortakları arasında gizli temsil ilişkisi bulunmayan veya sözleşme ile veya alınan bir kararla ortaklardan birine ortaklığı temsil yetkisi verilmemiş ise adi şirketlerde, şirketin bir alacağının ancak bütün ortaklar tarafından imzalanacak ortak bir takip talebi ile icraya konulabilir. (İtirazın İptali Davaları, Dr. Adnan Değnekli - Sedat Kısa, sayfa 26-27)
 

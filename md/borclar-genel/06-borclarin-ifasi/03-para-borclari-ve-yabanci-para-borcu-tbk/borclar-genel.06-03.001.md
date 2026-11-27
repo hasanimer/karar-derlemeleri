@@ -172,8 +172,6 @@ Türk hukukunda ve uygulamada bazı özel hallerde sözleşmeye bağlı olarak y
 
 ## Gaziantep BAM 4. HD 2025/1822 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157448200)
-
 ... sayılı ilamının ilgili kısmında; "6098 sayılı Türk Borçlar Kanunu’nun 99. maddesi uyarınca; borç ülke parası dışında başka bir para birimiyle belirlenmiş ise borcun ödeme gününde ödenmemesi üzerine alacaklı, bu alacağının aynen veya vade ya da fiilî ödeme günündeki rayiç üzerinden ülke parası ile de ödenmesini isteyebilir. Diğer bir anlatımla, borcun aslı yabancı para alacağı (döviz) ise alacaklının, borcun fiili ödeme günündeki TL karşılığı döviz veya doğrudan TL olarak talepte bulunma konusunda seçimlik hakkı bulunmaktadır. Seçimlik hakların söz konusu olması halinde seçimlik hak kullanılmak suretiyle edim tayin edilmiş olur ve seçimlik hakkı ortadan kalkar (., Borçlar Hukuku-Genel, s.227). Dolayısıyla, borcun ödeme gününde ödenmemesi üzerine alacaklıya tanınan seçimlik bir hak sözkonusu olup hakkın kullanılması yenilik doğurucu nitelikte olduğundan talep hakkını kullanan alacaklının artık bu tercihinden dönmesi mümkün değildir .." açıklamasına yer verilmiştir.
 
 ## Kayseri BAM 3. HD 2025/1770 K.
@@ -201,8 +199,6 @@ Türk hukukunda ve uygulamada bazı özel hallerde sözleşmeye bağlı olarak y
 6098 sayılı TBK'nın 99. maddesi hükmüne göre, yabancı para borcunun vadesinde ödenmemesi halinde alacaklı, bu borcun vade veya fiili ödeme günündeki rayice göre Türk parası olarak ödenmesini isteyebilir. Yabancı para cinsinden yapılan harcamalar, yabancı para alacağı olarak dava edilebilir ve ödeme günündeki kura göre işlem görür. Davacı alacağı, yabancı para cinsinden meydana gelmiş olup fiili ödeme tarihindeki döviz kuru üzerinden TL karşılığının tahsiline karar verilmesi gerekir. (Yargıtay 17. HD'nin 17.05.2018 tarih ve 2015/8003 E. - 2018/5155 K.) Yabancı para borcuna hangi faizin uygulanacağı 3095 sayılı Kanun'un "Yabancı para borcunda faiz" kenar başlıklı 4/a maddesinde düzenlenmiş olup ilgili düzenlemede; “Sözleşmede daha yüksek akdi veya gecikme faizi kararlaştırılmadığı hallerde, yabancı para borcunun faizinde Devlet Bankalarının o yabancı para ile açılmış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranı uygulanır.” kuralına yer verilmiştir.
 
 ## Antalya BAM 13. HD 2024/488 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1100033600)
 
 6-6098 sayılı TBK’nın 99. maddesi hükmüne göre, yabancı para borcunun vadesinde ödenmemesi halinde alacaklı, bu borcun vade veya fiili ödeme günündeki rayice göre Türk parası olarak ödenmesini isteyebilir. Davacı vekili dava dilekçesinde, 4.927,85 Euro araç hasar bedelinin aynen, aynen tahsil mümkün değilse fiili ödeme günündeki Türk Lirası karşılığının temerrüt tarihinden itibaren işleyecek faiziyle ile birlikte davalılardan tahsiline karar verilmesini istemiştir. Yabancı para cinsinden yapılan harcamalar, yabancı para alacağı olarak dava edilebilir ve ödeme günündeki kura göre işlem görür. Davacı alacağı, yabancı para cinsinden meydana gelmiş olup fiili ödeme tarihindeki döviz kuru üzerinden TL karşılığının tahsiline karar verilmesi gerekir.
 

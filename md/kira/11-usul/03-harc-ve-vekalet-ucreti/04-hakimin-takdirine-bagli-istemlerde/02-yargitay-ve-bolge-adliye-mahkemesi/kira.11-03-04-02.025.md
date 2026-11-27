@@ -73,8 +73,6 @@ Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 10/3.
 
 ## Antalya BAM 7. HD 2023/930 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940415500)
-
 3.12. HMK 326/2 maddesi gereğince, kısmen kabulüne karar verilen davada, kabul / ret oranı dikkate alınarak yargılama giderlerine hükmedilmesinde, ilgili tarife gereğince reddedilen talepler yönünden karşı taraf lehine tek vekalet ücretine hükmedilmesi ve HMK 331. maddesi uyarınca, konusuz kalması sebebiyle esas hakkında karar verilmesine yer
 
 olmadığına karar verilen davada, davanın açıldığı tarihteki haklılık durumuna göre yargılama giderlerine hükmedilmesinde usul ve yasaya aykırı bir yön bulunmamaktadır.
@@ -134,8 +132,6 @@ HMK 353/1-b-2 maddesine göre" Yargılamada eksiklik bulunmamakla beraber, kanun
 tazminatından %40 oranında indirim yapılarak davanın kısmen kabulüne yasal düzenlemeler gereği, TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceğinden davalı vekili lehine müterafik kusur ve hatır taşıması nedeniyle yapılan indirimden dolayı geçici iş göremezlik tazminatı yönünden vekalet ücretine hükmedilmemesine karar verilmek üzere HMK'nın 353/1-b.2 maddesi uyarınca ilk derece mahkemesi kararının yeniden hüküm kurulmak üzere ortadan kaldırılmasına, davalı vekilinin davacı ... tarafından açılan davada kabul edilen kısma yönelik istinaf başvurusunun miktar itibariyle kesin karar niteliğinde olduğundan usulden reddine karar verilmesi gerekmiş olup aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Bursa BAM 13. HD 2023/1153 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197220400)
 
 6098 sayılı TBK 51 ve 52 maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için diğer taraf yararına vekalet ücreti takdir edilemeyeceği (Yargıtay 4 HD 2021/6857 E-2021/10530 K sayılı ilam) göz önüne alınarak, Dairemiz'ce yapılan hakkaniyet indirimi sebebiyle, davalı .................. lehine vekalet ücreti takdiri cihetine gidilmemiştir.
 

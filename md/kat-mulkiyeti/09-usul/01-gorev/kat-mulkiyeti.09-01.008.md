@@ -298,8 +298,6 @@ Davalı site yönetiminin, davacı ile aralarında mevcut hizmet sözleşmesini 
 
 ## İstanbul BAM 45. HD 2026/24 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190086800)
-
 Yargıtay 17. Hukuk Dairesi'nin 17/06/2019 tarihli 2016/10266 E. 2019/7618 K. sayılı ilamı ile; "... Dava, konut sigorta poliçesi gereği sigortalısına ödeme yapan davacının ödediği bedelin, zarardan sorumlu olduğu ileri sürülen davalıdan rücuen tahsili için başlatılan icra takibine vaki itirazın iptali istemine ilişkindir. Davacı sigorta şirketi, bu davayı sigortalısının halefi olarak açtığına göre, görevli mahkemenin tayininde sigortalı ile davalı arasındaki ilişkinin hukuki mahiyeti nazara alınır... 634 sayılı Kat Mülkiyeti Kanunu'nun 19. maddesinde, her kat malikinin anagayrimenkule ve diğer bağımsız bölümlere, kusuru ile verdiği zarardan dolayı diğer kat maliklerine karşı sorumlu olduğu hüküm altına alınmıştır. Aynı Kanun'un Ek 1. maddesinde ise, kat mülkiyetinden kaynaklanan her türlü uyuşmazlığın değerine bakılmaksızın Sulh Hukuk Mahkemesi'nde çözümleneceği öngörülmüştür.
 Somut olaya bakıldığında; davalının kullanımında olan konut ile davacı sigortalısının kullanımındaki konutun da bulunduğu anataşınmazın kat mülkiyeti kurulmuş bir taşınmaz olduğu; davacıya sigortalı konutun üst katında bulunan ve davalının kullanımındaki dairenin su tesisatından sigortalı yere su sızdığı gerekçesiyle davalıya husumet yöneltildiği görülmektedir. Bu durumda, anataşınmazda kat mülkiyeti kurulmuş
 

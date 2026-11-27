@@ -67,8 +67,6 @@ Yüklenicinin eksik ve kusurlarını tamamlamasını takiben Komisyon işi yerin
 
 ## Konya BAM 5. HD 2025/1620 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179544400)
-
 Davalı ... vekili cevap dilekçesinde özetle; taraflar arasında herhangi bir yazılı sözleşme ve aleyhlerinde kanıt olmadan mahkemece doğrudan doğruya taşınmaza ihtiyati tedbir kararı verildiğini, tedbir kararı verilmesi için gerekli koşulların bulunmadığını, verilen tedbir kararı ile müvekkilinin mülkiyet hakkının zedelendiğini, davanın hukuki dayanağının net şekilde ortaya koyulmadığını, davacı tarafın işlerin tamamlanmış olmasına rağmen sanki hiç iş yapılmamış gibi eldeki davayı açarak sebepsiz zenginleşmeye çalıştığını, ispat yükünün davacı tarafta olduğunu, taraflar arasında tapuda yapılmış bir resmi akit işleminin var olduğunu, bu temlik işlemine esas satış akit tablosunun aksiliğinin ancak sahtelik halinde ileri sürülebileceğini, davacı tarafın bu yönde bir itirazının bulunmadığını, taraflar arasındaki bağımsız bölümün devrine ilişkin resmi akit tablosunda bedelin ödenmemesi halinde taşınmazın eski malike geri döneceğine dair herhangi bir ihtirazı kayıt ya da şerhin mevcut olmadığını, kabul anlamına gelmemek üzere bir an için taşınmazın bedelinin ödenmediği kabul edilse dahi tapu iptal ve tescil işleminin reddinin gerektiğinden bahisle öncelikle ihtiyati tedbire yaptıkları
 itirazlarının kabulü ile tedbir kararının kaldırılmasına, davanın usulden ve esastan ayrı ayrı reddine, tüm yargılama giderleri ve vekalet ücretinin karşı tarafa yükletilmesine karar verilmesini talep etmiştir.
 

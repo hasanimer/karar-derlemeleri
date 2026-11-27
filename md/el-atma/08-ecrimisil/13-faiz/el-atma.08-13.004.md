@@ -198,8 +198,6 @@ Davalı vekilinin istinaf başvurusunun 3533 Sayılı Kanun'un 6/2-a ve 6100 say
 
 ## Denizli BAM 1. HD 2025/1298 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171693300)
-
 Davalı vekili 12/02/2024 tarihli cevap dilekçesinde özetle; icra takibine konu ecrimisil ihbarnamesinin idari yargının konusu olduğundan takip yapılamayacağını, icra takibi kanuna aykırı olduğundan itirazın iptali davasının reddine karar verilmesini, icra takibinin yetkili icra dairesi olan ...’te açılmadığından yetki itirazında bulunduklarını ve davanın usulden reddi gerektiğini, davacı kurumun kendi yönetmeliğinde dava konusu alacağın tahsili için 6183 sayılı Kanun hükümlerinin uygulanacağını açıkça belirttiğinden icra takibi ile alacak talebinde bulunmasının hukuka aykırı olduğunu, alacak likid olmadığından icra inkar tazminatı talebinin reddine karar verilmesini, kira sözleşmesinin TBK.hükümleri kapsamında sona ermesi nedeniyle kiraya verenin kira sözleşmesini sonlandıramayacağını, bu konuda açılan kiracılık sıfatının tespiti davasının beklenmesi gerektiğini belirterek davanın reddine ve karşı taraf aleyhine %20 kötüniyet tazminatına hükmedilmesine karar verilmesini savunmuştur.
 
 …

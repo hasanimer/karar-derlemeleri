@@ -39,8 +39,6 @@ hukuk Mahkemelerinin görevli olduğu beyan edilmiş ise de görevsizlik kararı
 
 ## Ankara BAM 22. HD 2021/1996 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709603100)
-
 Tapuya şerh edilmiş kira sözleşmesinden kaynaklanan şahsi hakkı; başkasına ait bir eşya, hak veya mal varlığı üzerinde belirli bir kişiye tam olarak yararlanma olanağını sağlayan bir kişisel hak türüdür. Bu hak sahibine konusu üzerinde tam yararlanma yetkisi sağlar. Hak sahibi tam yararlanma yetkisi kapsamında haksız el atmanın önlenmesini isteme olanağına sahiptir. Bu isteği ise kullanım hakkı sahibinin hakkı üzerinde muaraza çıkartan yana dava açılarak yöneltmesi gerekir. Başka bir deyişle, davadaki hasım, kullanım hakkı sahibini o eşyadan tam yararlanma hakkını engelleyen kişidir.
 
 ## İstanbul BAM 13. HD 2021/1773 K.

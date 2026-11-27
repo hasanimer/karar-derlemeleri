@@ -34,8 +34,6 @@ Tasfiye, ortaklığın bütün malvarlığının belirlenip, ortakların birbirl
 
 ## Konya BAM 6. HD 2020/151 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/711824000)
-
 Dava, adi ortaklığın fesih ve tasfiyesi istemine ilişkindir.
 
 …

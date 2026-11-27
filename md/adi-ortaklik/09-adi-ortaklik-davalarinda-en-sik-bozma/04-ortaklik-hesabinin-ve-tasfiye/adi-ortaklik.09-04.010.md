@@ -61,13 +61,9 @@ yükümlülükleri bulunduğundan tanımlamalarda sadece bu edimlerin birisine i
 
 ## Ankara BAM 27. HD 2021/422 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653412600)
-
 Rücuen alacak isteminin tahsili için Ankara 6. İcra Müdürlüğü'nün ... sayılı dosyasında alacaklı olarak yukarıda belirtildiği üzere ödeme yapan ... ... San. ve Tic. A.Ş. tarafından davalı şirketler aleyhine ilamsız icra takibi başlatıldığı, bu nedenle davanın dayanığı dikkate alındığında adi ortaklığı oluşturan diğer ... ... Şubesi'nin davacı olarak mecburi dava arkadaşı olarak yer alması gerekmediğinden mahkemece ... ... Şubesi yönünden taraf sıfatı olmadığından aktif dava ehliyeti yokluğu nedeniyle davanın reddine karar verilmesi gerekirken, hatalı değerlendirmeyle ... ... Şubesi'nin taraf olarak kabul edilip bu davacı yönünden davanın kabulüne karar verilmesi doğru olmamış, davalılar vekilinin bu hususa ilişkin istinaf başvurusunun kabulü gerekmiştir.
 
 ## Konya BAM 6. HD 2021/253 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715781100)
 
 Dava dosyası üzerinde yapılan bilirkişi incelemesi sonucu bilirkişi O.C tarafından tanzim edilen 06/11/2018 havale tarihli raporun sonuç bölümünün 2. maddesinde; davacının 2014 yılı başı itibariyle 158.000,00 TL ve 2016 yılında 60.000,00 TL'yi ortaklık hesabından çektiği, 3. maddesinde ise davalının aynı şekilde 2014 yılı başı itibariyle 158.000,00 ve 2016 yılında 60.00,00 TL'yi ortaklık hesabından çektiği, ayrıca davalının 2017 yılı sonuna kadar 138.341,00 TL para çektiği belirtildikten sonra 21/12/2015 tarihinden sonra davacının 60.000,00 TL, davalı ...'in ise 138.341,00 TL çektiği belirtilerek ayrıca 2014 - 2015 - 2016 - 2017 yıllarında - ... Adi Ortaklığı'nın elde ettiği karın dağıtıldığına ilişkin bir kayıt tespit etmediği belirtilmiştir.
 

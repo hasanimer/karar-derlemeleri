@@ -93,8 +93,6 @@ Ancak, adi ortak ...'nın iflas tasfiyesinin halen sürdüğü anlaşılmakla, a
 
 ## Antalya BAM 7. HD 2024/795 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047160700)
-
 3.2.6098 Sayılı TBK'nun 620 ve devamı maddelerinde düzenlenen adi ortaklığın tüzel kişiliği ve taraf ehliyeti bulunmamaktadır. Taraf ehliyeti 6100 Sayılı HMK 114/1-d maddesi gereğince dava şartlarından olup, taraflarca ileri sürülmese dahi, mahkemece re'sen nazara alınması gerekmektedir. Davalı iş ortaklığının taraf ehliyetinin bulunmaması nedeniyle, bu davalı yönünden dava şartı yokluğu nedeniyle davanın usulden reddine karar verilmesi gerekirken, bu davalı yönünden de yazılı şekilde esasa dair karar verilmiş olması usul ve yasaya uygun düşmemektedir. Kaldı ki, icra takibinin dayanağı olan Antalya 2. Asliye Ticaret Mahkemesinin ihtiyati haciz talebinin kabulüne ilişkin karar tesis edilen ... Değişik iş sayılı dosyası üzerinden verilen 15/02/2021 tarihli ek karar ile, iş ortaklığı aleyhine takip yapılamayacağı gerekçesiyle, davalı iş ortaklığı yönünden 19/01/2021 tarihli ihtiyati haciz kararına yapılan itirazın kabulüne ve kaldırılmasına karar verilmiştir. Belirtilen ek karar dikkate alındığında, adı geçen iş ortaklığı yönünden, geçerli bir icra takibinin varlığından söz edilemeyecek olması nedeniyle, bu yönden de dava şartı noksanlığı bulunmaktadır.
 
 ## İstanbul BAM 3. HD 2023/3206 K.

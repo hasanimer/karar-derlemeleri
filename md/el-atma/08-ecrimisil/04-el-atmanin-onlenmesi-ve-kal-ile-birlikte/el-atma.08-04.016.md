@@ -95,8 +95,6 @@ HÜKÜM:Yukarıda açıklanan nedenlerle:1-Davalı vekilinin istinaf başvurusun
 
 ## Denizli BAM 1. HD 2025/299 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126607100)
-
 Davacı şirket vekili dava dilekçesinde özetle; davacının,....,... İlçesi, ....
 
 …

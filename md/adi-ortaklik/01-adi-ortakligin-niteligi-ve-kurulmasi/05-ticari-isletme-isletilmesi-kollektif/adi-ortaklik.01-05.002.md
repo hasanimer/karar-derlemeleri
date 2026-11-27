@@ -33,15 +33,11 @@ Kaldı ki, iddia ve savunmanın genişletilmesi yasağı yönünden de, işletme
 
 ## Denizli BAM 4. HD 2024/201 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1099897600)
-
 6102 Sayılı TTK'nun 4. maddesi uyarınca, bir davanın ticari dava olarak kabulü için tarafların her ikisinin de tacir olması ve davanın, tarafların ticari işletmesi ile ilgili olması ya da tarafların sıfatına bakılmaksızın maddede sayılı bulunan davalardan olması gerekir. Aynı kanunun 26/06/2012 tarihli 6335 Sayılı Yasanın 2. maddesiyle değişik 5/3. maddesi gereğince, .. Mahkemesiyle .. Mahkemesi ve diğer hukuk mahkemeleri arasındaki ilişki görev ilişkisi olup, bu durumda göreve ilişkin usul hükümlerinin uygulanması gerekmektedir. 6102 Sayılı HMK'nun 2. maddesi uyarınca, dava konusu değer ve miktarına bakılmaksızın mal varlığı haklarına ilişkin davalarda görevli mahkeme aksine bir düzenleme bulunmadıkça Asliye Hukuk Mahkemesidir. Adi ortaklık sözleşmesinden kaynaklanan davaların Ticaret Mahkemesinde görüleceğine ilişkin yasal bir düzenleme mevcut bulunmamaktadır.
 
 Diğer taraftan 6102 sayılı Türk Ticaret Kanunu'nun 19/II. maddesi uyarınca, taraflardan biri için ticari iş sayılan bir işin diğeri için de ticari iş sayılması, davanın niteliğini ticari hale getirmeyecektir. Zira, Türk Ticaret Kanunu, kanun gereği ticari dava sayılan davalar haricinde, ticari davayı ticari iş esasına göre değil, ticari işletme esasına göre belirlemiştir. Yukarıda da değinildiği üzere 6102 Sayılı TTK'nun 4. maddesi uyarınca, bir davanın ticari dava olarak kabulü için tarafların her ikisinin de tacir olması ve davanın, tarafların ticari işletmesi ile ilgili olması ya da tarafların sıfatına bakılmaksızın maddede sayılı bulunan davalardan olması gerekir.
 
 ## Bursa BAM 14. HD 2023/1915 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153831100)
 
 Dava, eser sözleşmesinden kaynaklanan iş sahibinin, yüklenicinin işin ayıplı, eksik ve geç ifa nedenine dayalı alacağın tahsili istemine ilişkin olup mahkemece yukarıdaki gerekçelerle görevsizlik kararı verilmiştir.
 

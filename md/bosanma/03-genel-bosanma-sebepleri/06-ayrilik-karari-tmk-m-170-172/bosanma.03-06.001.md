@@ -67,8 +67,6 @@ TBK'nın 584/1. Maddesinde, eşlerden birinin mahkemece verilmiş bir ayrılık 
 
 ## Sakarya BAM 7. HD 2025/2049 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184830300)
-
 6098 sayılı TBK'nın "eş rızası" başlıklı 584-(1) maddesinde; "Eşlerden biri mahkemece verilmiş bir ayrılık kararı bulunmadıkça yasal olmayan ayrı yaşama hakkı doğmadıkça ancak diğerinin yazılı rızasına kefil olan olabilir, bu rızanın sözleşmenin kurulmasından önce ya da en geç kurulması anında verilmiş olması şarttır." hükmü düzenlenmiştir.
 Aynı maddeye 11/04/2013 tarihli Resmi Gazete'de yayımlanarak yürürlüğe giren 28/03/2013 tarihli 6455 sayılı yasanın 77. maddesi ile eklenen 3. fıkrasında ise "Ticaret siciline kayıtlı ticari işletmenin sahibi veya ticaret şirketinin ortak yada yöneticisi tarafından işletme veya şirketle ilgili olarak verilecek kefaletler, mesleki faaliyetleri ile ilgili olarak esnaf ve sanatkarlar siciline kayıtlı esnaf veya sanatkarlar tarafından verilecek kefaletler, 27/12/2006 tarihli ve 5570 sayılı Kamu Sermayeli Bankalar Tarafından Yürütülen Faiz Destekli Kredi Kullandırılmasına Dair Kanun kapsamında kullanılacak kredilerde verilecek kefaletler ile tarım kredi, tarım satış ve esnaf ve sanatkarlar kredi ve kefalet kooperatifleri ile kamu kurum ve kuruluşlarınca kooperatif ortaklarına kullandırılacak kredilerde verilecek kefaletler için eşin rızası aranmaz." hükmü düzenlenmiştir.
 
@@ -79,8 +77,6 @@ Aynı maddeye 11/04/2013 tarihli Resmi Gazete'de yayımlanarak yürürlüğe gir
 6098 sayılı TBK'nun "eş rızası" başlıklı 584/1. maddesi; "Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya yasal olarak ayrı yaşama hakkı doğmadıkça ancak diğerinin yazılı rızasına kefil olan olabilir, bu rızanın sözleşmenin kurulmasından önce ya da en geç kurulması anında verilmiş olması şarttır." hükmünü içermektedir. Eş rızasının istisnası ise 584/3. maddesinde düzenlenmiştir.
 
 ## Gaziantep BAM 11. HD 2025/1306 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170509900)
 
 584.maddesindeki "Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya yasal olarak ayrı yaşama hakkı doğmadıkça, ancak diğerinin yazılı rızasıyla kefil olabilir; bu rızanın sözleşmenin kurulmasından önce ya da en geç kurulması anında verilmiş olması şarttır.
 Kefalet sözleşmesinde sonradan yapılan ve kefilin sorumlu olacağı miktarın artmasına veya adi kefaletin müteselsil kefalete dönüşmesine ya da kefil yararına olan güvencelerin önemli ölçüde azalmasına sebep olmayan değişiklikler için eşin rızası gerekmez..Ticaret siciline kayıtlı ticari işletmenin sahibi veya ticaret şirketinin ortak ya da yöneticisi tarafından işletme veya şirketle ilgili olarak verilecek kefaletler, mesleki faaliyetleri ile ilgili olarak esnaf ve sanatkârlar siciline kayıtlı esnaf veya sanatkârlar tarafından verilecek kefaletler.. tarihli ve 5570 sayılı Kamu Sermayeli Bankalar Tarafından Yürütülen Faiz Destekli Kredi Kullandırılmasına Dair Kanun kapsamında kullanılacak kredilerde verilecek kefaletler ile tarım kredi, tarım satış ve esnaf ve sanatkârlar kredi ve kefalet kooperatifleri ile kamu kurum ve kuruluşlarınca kooperatif ortaklarına kullandırılacak kredilerde verilecek kefaletler için eşin rızası aranmaz." hükümler dikkate alındığında kefilin sorumlu olduğu azami miktarın belirlendiği, kefalet tarihinin yazıldığı, kefalette özellikle müteselsil kefaletin açıkça belirtildiği, bu yazıların el yazısı ile yazıldığı, bu haliyle kefaletin geçerli olduğu, hüküm
@@ -94,8 +90,6 @@ kurmaya ve denetime elverişli bilirkişi raporu ile davaya konu edilen alacağ�
 
 ## Gaziantep BAM 11. HD 2025/610 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132593300)
-
 6098 sayılı TBK'nın "III. Eşin rızası" başlıklı 584'üncü maddesine göre; "Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya yasal olarak ayrı yaşama hakkı doğmadıkça, ancak diğerinin yazılı rızasıyla kefil olabilir; bu rızanın sözleşmenin kurulmasından önce ya da en geç kurulması anında verilmiş olması şarttır.
 Kefalet sözleşmesinde sonradan yapılan ve kefilin sorumlu olacağı miktarın artmasına veya adi kefaletin müteselsil kefalete dönüşmesine ya da kefil yararına olan güvencelerin önemli ölçüde azalmasına sebep olmayan değişiklikler için eşin rızası gerekmez. .. siciline kayıtlı ticari işletmenin sahibi veya ticaret şirketinin ortak ya da yöneticisi tarafından işletme veya şirketle ilgili olarak verilecek kefaletler, mesleki faaliyetleri ile ilgili olarak esnaf ve sanatkârlar siciline kayıtlı esnaf veya sanatkârlar tarafından verilecek kefaletler....... sayılı . ........Dair Kanun kapsamında kullanılacak kredilerde verilecek kefaletler ile....ile kamu kurum ve kuruluşlarınca ... ortaklarına kullandırılacak kredilerde verilecek kefaletler için eşin rızası aranmaz." Davacı banka asıl borçluya kullandırılan davalının da kefil olduğu kredinin bu madde de yazılı olan........ sayılı ........ kapsamında kullanılacak kredilerden olduğunu, dosyaya sunulan banka dekontundan da bunun anlaşıldığını belirterek ihtiyati haciz talebinin reddi kararına itiraz etmiştir.
 
@@ -107,14 +101,10 @@ Yukarıda yer alan şekil koşullarının yanı sıra TBK'nın 584/1. maddesi uy
 
 ## Gaziantep BAM 11. HD 2025/139 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123511500)
-
 .. sayılı . "Eşin rızası" başlıkl...ncü maddesinin I'inci fıkrasında; "Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya yasal olarak ayrı yaşama hakkı doğmadıkça, ancak diğerinin yazılı rızasıyla kefil olabilir; bu rızanın sözleşmenin kurulmasından önce ya da en geç kurulması anında verilmiş olması şarttır." düzenlemesi ile kefilin evli olması durumunda eşinin yazılı izninin gerektiği düzenlenmişse de aynı maddenin II ve III'üncü fıkralarında eş iznine ilişkin iki ayrık durum tanımlanmıştır.
 Bunlardan birincisi kefalet sözleşmesinde sonradan yapılan ve kefilin sorumlu olacağı miktarın artmasına veya adi kefaletin müteselsil kefalete dönüşmesine ya da kefil yararına olan güvencelerin önemli ölçüde azalmasına sebep olmayan değişiklikler; ikincisi ise ticaret siciline kayıtlı ticari işletmenin sahibi veya ticaret şirketinin ortak ya da yöneticisi tarafından işletme veya şirketle ilgili olarak verilecek kefaletler, mesleki faaliyetleri ile ilgili olarak ... siciline kayıtlı ... .. tarafından verilecek kefaletler,...... tarihli ve ..... sayılı ........Tarafından....... kapsamında kullanılacak kredilerde verilecek kefaletler ile tarım kredi, tarım satış ve . ve .. . ve .. kooperatifleri ile kamu kurum ve kuruluşlarınca kooperatif ortaklarına kullandırılacak kredilerde verilecek kefaletlerdir. Her ikisi içinde eş izni aranmayacağı kanunda açıkça düzenlenmiştir.
 
 ## Konya BAM 6. HD 2024/742 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025736700)
 
 TBK 584. maddesi gereğince eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya yasal olarak ayrı yaşama hakkı doğmadıkça, ancak diğerinin yazılı imzasıyla kefil olabilir. Toplanan deliller ile takibin ve davanın dayanağı olan GKS'nin incelenmesinde davalı ... hakkında 04.07.2018 tarihli kefalet sözleşmesi düzenlenirken, davalının o tarihteki resmi eşi olan ...'in yazılı rızasının alınmadığı, bu nedenle davalı ... hakkındaki kefalet sözleşmesinin yasal şartları haiz olmadığı anlaşıldığından davalı ... hakkında açılan davanın ve tüm takiplerin ayrı ayrı reddine karar vermek gerekmiştir.
 

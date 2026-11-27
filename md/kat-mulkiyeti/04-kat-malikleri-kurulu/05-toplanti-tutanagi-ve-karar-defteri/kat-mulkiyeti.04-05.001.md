@@ -216,13 +216,9 @@ Dairemizin 30.11.2006 tarihli geri çevirme kararının 1. bendinde ... Sitesini
 
 ## Konya BAM 6. HD 2026/344 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203593400)
-
 Yukarıda yapılan açıklamalardan sonra somut olaya gelindiğinde ise; Davacı tarafça, site yönetimine ait karar defterinin kaybolduğundan bahisle zayi belgesi verilmesi talep edilmiş olmakla birlikte, davacının tacir olmayıp, zayi olduğu iddia edilen defterin de ticari defter ve belge olmadığının anlaşılması karşısında, davaya bakmakla görevli mahkemenin sulh hukuk mahkemesi olduğu, görev hususu dava şartı olup, yargılamanın her aşamasında re'sen nazara alınması gerektiğinden, mahkemece görevsizlik kararı verilmesi gerekirken işin esasının incelenmesi yerinde görülmediğinden, davacı temsilcisinin istinaf isteminin kabulü ile ilk derece mahkemesi kararının HMK'nın 353/1.a.3 maddesi uyarınca re'sen kaldırılmasına ve kararın kaldırılma sebebine göre, davacı temsilcisinin istinaf istemlerinin incelenmesine şimdilik yer olmadığına karar verilmesine dair aşağıda yazılı şekilde hüküm kurulmuştur.
 
 ## Antalya BAM 11. HD 2025/531 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159612600)
 
 Yine davacı kooperatifin 10.08.2016 tarihli 2016 yılı olağanüstü genel kurul toplantısına ait toplantı tutanağının 3/a maddesinde; "11.06.2016 tarihinde genel kurul kararı gereğince tespit edilen şerefiye komisyonu üyelerince belirlenen her biri 30.000,00-TL şerefiye farkı belirlenen aşağıda belirtilen bağımsız blokları almak isteyen üyelere teklif edildi. 30.000,00-TL şerefiye farkını kooperatif hesabına ödemek isteyen üyelerden P blok nolu bağımsız bölüm ...'ya, R blok nolu bağımsız bölüm ...'a, S blok nolu bağımsız bölüm ...'a, Af blok nolu bağımsız bölüm ...'a, Ag blok nolu bağımsız bölüm ...'ya, Ah blok bağımsız bölüm ...'a kuraya tabi olmadan bu kişilerin seçimi sonucu tespit edilip verilmesi önerildi,
 

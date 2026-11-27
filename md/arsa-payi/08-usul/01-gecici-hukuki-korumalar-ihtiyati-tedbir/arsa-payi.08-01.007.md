@@ -147,8 +147,6 @@ Dosya kapsamındaki yazı, belge ve bilgilere, yasaya uygun gerektirici nedenler
 
 ## Konya BAM 6. HD 2026/44 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194810700)
-
 Aynı Kanun'un 390. maddesinde '' İhtiyati tedbir, dava açılmadan önce, esas hakkında görevli ve yetkili olan mahkemeden; dava açıldıktan sonra ise ancak asıl davanın görüldüğü mahkemeden talep edilir. Talep edenin haklarının derhâl korunmasında zorunluluk bulunan hâllerde, hâkim karşı tarafı dinlemeden de tedbire karar verebilir. Tedbir talep eden taraf, dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorundadır. '' hükmü yer almaktadır.
 
 Yukarıda yapılan açıklamalardan sonra somut olaya gelindiğinde ise; Dosya kapsamı, mevcut delil durumu ve ileri sürülen istinaf istemleri nazara alındığında, ihtiyati tedbir talebinin kabulü için HMK'nın 389. ve 390. maddelerinde belirtilen yasal şartların oluşmadığı, tedbir talep eden tarafça yaklaşık ispatın sağlanmadığı kaldı ki, HMK'nın 396. maddesi uyarınca durum ve koşulların değişmesi halinde mahkemece her zaman tedbir kararı verilebileceği ve bu itibarla, mahkemece tedbir talebinin reddine karar verilmesinde sonucu itibariyle bir isabetsizliğin bulunmadığı kanaatine varıldığından, ihtiyati tedbir talep eden davacı vekilinin istinaf isteminin HMK'nın 353/1.b.1 maddesi uyarınca esastan reddine dair aşağıda yazılı şekilde hüküm kurulmuştur.
@@ -166,8 +164,6 @@ Bu nedenle takibe, borca, ödeme emrine, faiz oranına ve işlemiş faize, feril
 Borçlu gerçek kişilerin sorumluluğu yargılama gerektirdiğinden bahsedilen borçlular yönünden ihtiyati haciz kararı verilmesi doğru görülmemiştir.Diğer yandan ihtiyati haciz kararının dava konusu fatura ile sınırlı olarak verilmesi gerekirken doğmuş ve doğacak tüm borçları kapsar şekilde ihtiyati haciz tesisi de isabetsiz oldu- ğundan kararın bu yönleriyle düzeltilmesi gerekmektedir.Açıklanan nedenlerle, ilk derece mahkemesince verilen kararda vakıa ve hukuki değer- lendirme noktasında,usul ve esasa aykırılık tespit edilmekle, ihtiyati haciz kararına itiraz eden borç- luların istinaf başvurusunun kabulüne, tespit edilen eksiklik yeniden aşağıdaki şekilde ara karar tesis etmek gerekmiştir.
 
 ## Denizli BAM 4. HD 2025/2141 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186005400)
 
 Davacılar vekili ihtiyati tedbir talepli dava dilekçesinde özetle; müvekkillerinin, davalı S. S.
 

@@ -126,13 +126,9 @@ HÜKÜM: Gerekçesi açıklandığı üzere;1-Davalı .... vekilinin istinaf ba�
 
 ## Konya BAM 6. HD 2019/188 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690978500)
-
 İhtiyati haciz kararına itiraz ve temyizi düzenleyen İİK'nın 265. Maddesinde ise; (Değişik birinci fıkra: 17/7/2003-4949/63 md.) Borçlu kendisi dinlenmeden verilen ihti-yatî haczin dayandığı sebeplere, mahkemenin yetkisine ve teminata karşı; huzuriyle yapılan hacizlerde haczin tatbiki, aksi hâlde haciz tutanağının kendisine tebliği tarihinden itibaren yedi gün içinde mahkemeye müracaatla itiraz edebilir.
 
 ## Konya BAM 5. HD 2019/79 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688745600)
 
 Davacı vekili dava dilekçesinde özetle; davalı şirketin yüklenici olduğu ... isimli yapının yapılması işinde yüklenici, davacının ise bu inşaatın duş teknesi yapımına ilişkin alt yüklenici olduğu ve alacağını tahsil edemediği iddiasıyla 4721 sayılı TMK'nın 893/3 ve 895. maddeleri uyarınca yapı alacaklısı olarak ipotek hakkının geçici tescilini talep ve dava etmiştir.
 

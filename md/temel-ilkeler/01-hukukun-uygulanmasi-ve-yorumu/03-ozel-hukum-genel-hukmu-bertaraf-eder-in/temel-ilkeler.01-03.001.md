@@ -125,6 +125,4 @@ Bu bağlamda, öncelikle yeni müşteri çevresinin yaratıldığını, var olan
 
 ## Konya BAM 6. HD 2018/6 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/677147300)
-
 Bu durumda HMK'nın 341/1 maddesinin lafzı ile bağlı kalıp buna göre yorum yapılarak sonraki değişikliği yok saymak suretiyle adi konkordato talebi sırasında tedbire yönelik yapılan taleplerin reddine ilişkin kararlarda istinaf kanun yolunun açık olduğu sonucuna ulaşmak hukuken mümkün değildir. Gerek özel kanun - genel kanun ilişkisi, gerekse önceki kanun - sonraki kanun ilişkisi ve gerekse kanun koyucunun amacı birlikte değerlendirilip konkordato taleplerinin süratle sonuçlandırılması gereği nazara alındığında; İlk Derece Mahkemesince konkordato talepleri sırasındaki tedbire yönelik taleplerinin reddine ilişkin kararlara karşı istinaf kanun yoluna başvurulması yasal olarak mümkün bulunmamaktadır. İstinaf kanun yolu kapalı olmasına rağmen İlk Derece Mahkemesi Hakim'inin kararında istinaf kanun yolunun açık olduğunu belirtmesinin de tarafları yanıltmaya yönelik bir eylem sayılmayacağı ve taraflara kanunda mevcut olmayan istinaf kanun yolunu bahşetmeyeceği sonuç ve kanaatiyle davacı vekilinin istinaf kanun yoluna başvuru talebinin usulden reddine ilişkin aşağıdaki şekilde hüküm kurulmuştur.

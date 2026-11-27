@@ -38,8 +38,6 @@ Blok, ... nolu bağımsız bölümde kayıtlı bulunan taşınmazın tapu kaydı
 
 ## Ankara BAM 21. HD 2021/1481 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707402400)
-
 Davacı yanca, asıl davada dava açılırken 10.000,00 TL üzerinden dava değeri gösterilerek nispi harcın ikmal edildiği, mahallinde keşif yapılmak suretiyle her iki bağımsız bölümün değerinin 1.350.000,00 TL olarak tespit edildiği, davacı yanca tespit edilen bu değer üzerinden eksik 1.340.000,00 TL üzerinden nispi harcın tamamlanması gerekeceği, mahkemece asıl davada 08/09/2016 tarihli celsenin 1 no'lu ara kararı gereğince ıslaha tabi olmayan harç ikmali yönünden davacı tarafa davasını ıslah etmek için mehil verildiği, harcın yatırılmaması üzerine 17/11/2016 tarihinde bu kez 1 no'lu ara kararla ıslah için 2 haftalık kesin süre verildiği, kesin süreye rağmen harcın yatırılmadığından bahisle 17/11/2016 tarihli oturumda da 08/09/2016 tarihli celsenin 1 no'lu ara kararı gereğince ıslah için verilen süreden dönüldüğü, bu kez davacı yanca asıl davada tamamlanmayan nispi harcın birleşen davada 1.340.000,00 TL bakiye miktar üzerinden harçlandırma yapılmak suretiyle ikinci davanın açıldığı, asıl ve birleşen davada davacı yanca toplam 1.350.000,00 TL üzerinden nispi harcın ikmal edildiği, yargılamada gelinen aşamada gözetildiğinde asıl davada ayrıca harç eksikliğinin giderilmesi için davacı
 yana süre verilmesinin de hakkaniyete uygun düşmeyeceğinden bu hale göre birleşen davanın konusunun da asıl davayla aynı olması da gözetilerek birleşen dava yönünden açılan davanın derdestlik nedeniyle reddine ve asıl davanın ise esastan incelenmesine yönelik ilk derece mahkemesi kararı usul ve yasaya uygundur.
 

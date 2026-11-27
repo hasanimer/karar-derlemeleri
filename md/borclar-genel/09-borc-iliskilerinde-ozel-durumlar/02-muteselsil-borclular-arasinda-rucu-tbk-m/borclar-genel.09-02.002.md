@@ -90,14 +90,10 @@ Rücu hakkı müteselsil borçlulukta her bir borçluya düşen yükü azaltmak 
 
 ## Gaziantep BAM 17. HD 2026/286 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200003400)
-
 3.3. Müteselsil sorumlulukta, kural olarak borçlulardan her biri, 6098 sayılı TBK'nın 162 ve 163. maddelerine göre borcun tamamından sorumludur. Nitekim, 2918 sayılı .. Trafik Kanunu'nun 88/1 maddesinde trafik olayı nedeniyle müteselsil sorumluluk öngörülmüştür. 6098 sayılı TBK'nın 167. maddesi uyarınca, sorumluların iç ilişkide kusur oranına göre, birbirlerine rücu hakları da mevcuttur. Trafik kazasından kaynaklanan maddi tazminat istemli davada, sürücü, işleten ve sigorta şirketi arasında, müştereken ve müteselsilen sorumluluk bulunduğundan, davacı taraf zararını davalılardan müştereken ve müteselsilen talep edebilir. Zarar görenin sigortadan müştereken ve müteselsil talep edebileceği tazminat miktarı sigorta teminat limiti ile sınırlıdır. Müşterek ve müteselsil borçlulardan birisi tarafından yapılan ödemenin sonuçları ise TBK'nın 166. maddesinde düzenlenmiş ilgili maddede; "(1)Borçlulardan biri, ifa veya takasla borcun tamamını veya bir kısmını sona erdirmişse, bu oranda diğer borçluları da borçtan kurtarmış olur.
 (2)Borçlulardan biri, alacaklıya ifada bulunmaksızın borçtan kurtulmuşsa, diğer borçlular bundan ancak durumun veya borcun niteliğinin elverdiği ölçüde yararlanabilirler. (3)Alacaklının borçlulardan biriyle yaptığı ibra sözleşmesi, diğer borçluları da ibra edilen borçlunun iç ilişkideki borca katılma payı oranında borçtan kurtarır." düzenlemesine yer verilmiştir.
 
 ## Bursa BAM 13. HD 2025/1315 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156788900)
 
 6098 sayılı TBK 61 ve 62 maddeleri ile müteselsil sorumluluk esaslarına göre; birden çok kişi birlikte bir zarara sebebiyet verdikleri veya aynı zarardan çeşitli sebeplerden dolayı sorumlu oldukları takdirde, haklarında müteselsil sorumluluğa ilişkin hükümler uygulanır. Müteselsil sorumlulukta, kural olarak borçlulardan her biri, TBK 162 ve 163 maddelerine göre, borcun tamamından sorumludur. TBK 167 maddesi uyarınca, sorumluların iç ilişkide kusur oranına göre, birbirlerine rücu hakları da mevcuttur.
 
@@ -116,8 +112,6 @@ Nitekim, mülga 818 sayılı BK'nın 146. maddesinde düzenlenen, “Borcun mahi
 
 ## İzmir BAM 4. HD 2024/2405 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085630500)
-
 Keza, müteselsil borçluluğu düzenleyen 6098 Sayılı TBK un 162 ve devamı maddelerinden,müteselsil borçlulardan birinin alacaklıya karşı sürebileceği defiler varsa bunu diğer borçlulardan bağımsız olarak ileri sürmesi mümkün olup, bu defi sonucu kurtulduğu borç miktarını diğer müteselsil borçlulara karşı da ileri sürebilir. Bu defiler 6098 TBK 164. maddesinde gösterilen ve şahsi ilişkiler veya mütelsil borcun sebep veya konusundan doğan defiler olup, bunların dışında ileri sürülen defiler müteselsil borçlular arasındaki rücu hakkını kaldırmaz.Aynı Kanunun 165 inci maddesine göre; müteselsil borçlular arasında aksine bir sözleşme bulunmaması taktirde borçlulardan biri diğer borçluların durumunu ağırlaştıramaz. Dış ilişkide alacaklıya karşı sonuç doğurabilen böyle bir işlem, iç ilişkide rücu hakkını kısmen yada tamamen kaldırıcı etkiye sahip değildir.
 
 ## İzmir BAM 4. HD 2024/2289 K.
@@ -135,8 +129,6 @@ Müteselsil borçlulardan birinin alacaklıya karşı sürebileceği def'iler va
 Müteselsil borçlulardan birinin alacaklıya karşı sürebileceği def'iler varsa bunu diğer borçlulardan bağımsız olarak ileri sürmesi mümkün olup, bu defi sonucu kurtulduğu borç miktarını diğer müteselsil borçlulara karşı da ileri sürebilir. Bu def'iler BK 143. maddesinde gösterilen ve şahsi ilişkiler veya müteselsil borcun sebep veya konusundan doğan def'iler olup bunların dışında ileri sürülen def'iler müteselsil borçlular arasındaki rücu hakkını kaldırmaz. TBK şimdiye kadar sözü edilen düzenlemeleri alacaklıya karşı dış ilişkilerle ilgili olup, borcun ödenmesinden sonra müteselsil borçlular arasındaki iç ilişkilerde TBK 165. maddesinde düzenlenmiştir. Buna göre müteselsil borçlular arasında aksine bir sözleşme bulunmadığı takdirde borçlulardan biri diğer borçluların durumunu ağırlaştıramaz.
 
 ## Ankara BAM 23. HD 2022/562 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753998700)
 
 Türk Borçlar Kanunu m. 167/1; "Aksi kararlaştırılmadıkça veya borçlular arasındaki hukuki ilişkinin niteliğinden anlaşılmadıkça, borçlulardan her biri, alacaklıya yapılan ifadan, birbirlerine karşı eşit paylarla sorumludurlar." şeklinde düzenlenmiştir. Rücu hakkı müteselsil borçlulukta her bir borçluya düşen yükü azaltmak amacını güder. Düzenlemeden görüleceği gibi müteselsil borçlular arasındaki iç ilişkide "eşit pay" ilkesi geçerlidir. Bir diğer ifade ile kural olarak borcu ifa eden müteselsil borçlu, diğer müteselsil borçlulara karşı rücu hakkını ancak kendisine isabet eden payı aşan kısım için kullanabilir. Ancak bu ilke mutlak değildir; taraflar eşit pay ilkesinin aksini açık bir sözleşme hükmü ile kararlaştırabilecekleri gibi borçlular arasındaki hukuki ilişkinin niteliği de eşit pay ilkesinin uygulanmayacağı yönünde bir anlam ifade edebilir.
 

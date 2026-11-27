@@ -65,8 +65,6 @@ sonra davalı kooperatifin 2017 yılı hesap yılına ilişkin yapılan 06/05/20
 
 ## Bursa BAM 14. HD 2025/1077 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156921600)
-
 Davacı vekili, davalılardan ....
 
 …

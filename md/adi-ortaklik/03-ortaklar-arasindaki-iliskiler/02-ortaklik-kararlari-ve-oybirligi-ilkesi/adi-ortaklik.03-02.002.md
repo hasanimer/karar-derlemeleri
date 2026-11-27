@@ -21,8 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Konya BAM 6. HD 2024/867 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031223200)
-
 Dava menfi tespit talebine ilişkindir.
 
 …

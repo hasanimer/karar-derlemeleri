@@ -77,8 +77,6 @@ USD olmak üzere toplam 24.000.-USD Tutarlı 2 Adet Senedi keşide ederek daval�
 
 ## Denizli BAM 4. HD 2025/668 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150480000)
-
 Somut uyuşmazlıkta davacı, taşınmazın fiilen teslimi ile birlikte kira kaybı ve gecikme tazminatı ile eksik ve ayıplı işlerin bedellerinin tazminini talep etmiş olup, alacağın varlığı ve miktarı ihtilaflıdır. Bu durumda, 2004 sayılı İcra ve İflas Kanunu'nun 257 ve 258. maddeleri kapsamında değerlendirme yapılması gereklidir. Taraflar arasında ihtilaf konusu olan alacağın varlığı yargılama konusudur. Bahse konu alacağa ilişkin talepte bulunan davacı vekilinin dilekçesinin ekinde sunduğu belgeler ihtiyati haciz kararı verilmesi için gerekli olan yaklaşık ispat ölçüsünü sağlayacak nitelikte değildir. Bu nedenle, talebe konu
 
 edilen alacağın varlığı yaklaşık ispat ölçüsünde dahi henüz belli olmadığından ve dava dilekçesinde belirtilen dava değeri de nazara alındığında mahkemece verilen kararda Dairemizce de isabetsizlik görülmediğinden davacı vekilinin istinaf başvurusunun 6100 Sayılı HMK'nın 353/1-b-1. maddesi uyarınca reddine karar vermek gerekmiş, aşağıdaki şekilde hüküm kurulmuştur.
@@ -106,8 +104,6 @@ hakkından faydalanabilecekleri kanaatinde olunması halinde; SSHY hükmünce da
 bir sözleşmenin bulunmaması mal teslimine dayalı bir sözleşmenin var olması nedeniyle “makul süre” 'nin huzurdaki davada dikkate alınmaması gerektiği kanaati ile kök bilirkişi raporundaki görüşünü koruduğu ve TC. İstanbul ...İcra Dairesi ... E. sayılı dosyası için, temerrüt tarihi ile dava tarihi arasında geçen süre için hesaplanacak faiz tutarı ile birlikte dava tarihi itibariyle toplam kira bedeli borcunun 3.437,20 USD olacağı, TC İstanbul ...İcra Dairesi ...
 
 ## Antalya BAM 11. HD 2025/56 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121246300)
 
 Kabule göre de; dosya kapsamında İstanbul 16. Asliye Ticaret Mahkemesi vasıtasıyla talimat yoluyla davalı-karşı davacının ticari defter ve kayıtları üzerinde inceleme yaptırılarak rapor aldırılmış, yine Viranşehir 2. Asliye Hukuk Mahkemesi vasıtasıyla talimat yoluyla davacı-karşı davalının ticari defter ve kayıtları üzerinde inceleme yaptırılarak rapor aldırılmış olup Mahkemece asıl davada davacı-karşı davalının tazminat talebi yönünden davacının 28/02/2017 tarihinden itibaren yeni bir kiracı bulabilmesi için makul süre olarak 6 ay kabul edilerek davalı şirket tarafından da 2017 yılı Haziran ayına kadar (Haziran ayı dahil) intifa bedeli davacıya ödenmiş olduğundan, Temmuz ve Ağustos aylarının da intifa
 

@@ -129,8 +129,6 @@ Hal böyle olunca, mahkemece, dava konusu olayda ispat yükünün davacı üzeri
 
 ## Gaziantep BAM 4. HD 2026/1148 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203591200)
-
 .. Sulh Hukuk Mahkemesince, taraflar arasında iş ortaklığı kurulduğu, ... İle taraflar arasında kira ilişkisinin kurulduğu ancak dava konusunun taraflar arasındaki iş ortaklığından kaynaklı alacağın tahsili istemiyle .. İcra Dairesi'nin.. Esas takip dosyası ile takip başlatıldığı
 
 , taraflar arasında dosyaya yansıyan herhangi bir kira sözleşmesine rastlanılmadığı, davacı vekilinin 2 no'lu celsede alınan beyanında taraflar arasında iş ortaklığı beyannamesi dışında noterlikçe tasdik edilmiş bir sözleşmenin temin edilemediğini, davacının davalı şirket vasıtasıyla . . A.Ş. İle olan ilişkisinin yürüttüğünü, taraflar arasında bir ortaklığın söz konusu olduğuna dair beyanı karşısında taraflar arasında kira ilişkisi olmadığı kanaatine varılarak mahkememizin görevsizliğine, her iki tarafın da tacir olduğu dikkate alınarak . . . görevli olduğu gerekçesiyle görevsizlik kararı verilmiştir.
@@ -220,14 +218,10 @@ gereğince davacının istinaf başvurusunun kısmen kabulü ile mahkeme kararı
 
 ## Antalya BAM 6. HD 2022/1158 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/771554500)
-
 Bu bağlamda, davacı davasını kira ilişkisinin varlığına ve dava konusu kambiyo senedinin dayanağının kira ilişkisi olduğu savına dayandırdığına göre davacıya iddiasını ispat imkanı tanındıktan sonra, davacının davasını dayandırdığı hukuki olguyu yani, senedin kira ilişkisi sebebi ile verildiğini ispatlayamaması durumunda davanın reddine, senedin kira ilişkisi kapsamında verildiğinin ispatlanması halinde ise TBK'nun 299 ve devamı maddeleri ile
 
 dayanak kira sözleşmesi hükümlerine göre davanın esastan çözülmesi gerekeceği kuşkusuzdur.
 
 ## Ankara BAM 22. HD 2021/479 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/650463900)
 
 Kambiyo senetlerine dayanan menfi tespit davalarında kural olarak davacı taraf söz konusu bonodan dolayı borçlu olmadığını yazılı delilerle kanıtlamalıdır. Somut olayda davacı taraf söz konusu bononun diğer davalı ... ile imzalanan kira sözleşmesinin teminatı olarak verildiğini iddia etmiş ise de söz konusu kira sözleşmesi incelendiğinde, sözleşmede davaya konu bononun teminat olarak verildiğine dair herhangi bir ibare bulunmadığı görülmektedir. Bunun dışında davacı taraf nakden düzenlendiği görülen bononun teminat olarak verildiğine dair yazılı başkaca bir delil dosyaya sunmamıştır. Mahkemece davacı tarafa yemin delili hatırlatılmış, davalı taraf usulüne uygun bir şekilde yemin eda etmiştir. Bu durumda ispat yükü kendisinde olan davacı tarafın davasını ispat edemediği anlaşıldığından davacının bu yöndeki istinaf itirazları yerinde değildir.

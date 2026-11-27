@@ -120,6 +120,4 @@ Dürüstlük Kuralı ve Hakkın Kötüye Kullanılması Yasağı, İstanbul 2006
 
 ## Ankara BAM 22. HD 2022/994 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783956400)
-
 4721 sayılı Türk Medeni Kanunu’nun (TMK) “dürüst davranma” başlıklı 2. maddesine göre; herkes, haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına uymak zorundadır ve bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz. Aynı Kanun’un “iyiniyet” başlığını taşıyan 3. maddesinde; Kanun’un iyiniyete hukuki bir sonuç bağladığı durumlarda, aslolanın iyiniyetin varlığı olduğu belirtilmiş; ancak, durumun gereklerine göre kendisinden beklenen özeni göstermeyen kimsenin iyiniyet iddiasında bulunamayacağı da açıkça vurgulanmıştır. TMK’nın 5. maddesinde ise; TMK ve Türk Borçlar Kanunu’nun (TBK) genel nitelikli hükümlerinin, uygun düştüğü ölçüde tüm özel hukuk ilişkilerine uygulanacağı kuralı getirilmiştir.

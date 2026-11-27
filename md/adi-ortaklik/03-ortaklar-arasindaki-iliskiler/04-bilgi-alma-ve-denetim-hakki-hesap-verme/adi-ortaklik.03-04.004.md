@@ -32,8 +32,6 @@ Böylece, davalı yanın fatura içeriğindeki malzemelerin inşaatta kullanılm
 
 ## Antalya BAM 7. HD 2025/370 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133386900)
-
 İnşaat şirketleri ile imzalamış olduğu ve asıl dosyanın konusunu oluşturan 30/11/2012 tarihli ...Hastanesi inşaatının tüm mekanik tesisat işlerinin yapımı hususundaki sözleşmenin 2.400.000,00 TL+ KDV bedelli olmak üzere imzalandığını, bu sözleşme konusu işi tamamladığı için kalan alacağının tahsili amacıyla Beyoğlu 35. Noterliğinin 14/04/2015 tarih ... nolu ihtarname keşide ettiğini ve bu ihtarname ile iş ortaklığından olan alacağından, davacının alacağı olan 70.000,00 TL + KDV ödemeyi mahsup ederek bakiye borç 81.830,00 TL alacağını talep ettiğini beyan ettiğini, taraflar arasındaki uyuşmazlık yönünden her iki tarafın ticari defter ve kayıtlarının incelendiği, dosya arasına alınan bilirkişi raporları ile davacı ... Yapı'nın usulüne uygun tutulmuş defter ve kayıtlarına göre, davalı ...'dan 80.080,00 TL cari bakiye alacağı olduğu, davalı ...'nun defter ve kayıtlarına göre ise, davalının davacı ... Yapı ile asıl dosyanın davacıları ... Yapı ve ...
 İnşaat iş ortaklığını ayrı ayrı hesaplarda takip etmesi gerektiği halde, muhasebe tekniğine uygun olmayan şekilde ve hatalı kayıt oluşturmak suretiyle aynı hesapta takip ettiği ve mahsup işlemi için alacaklı tarafın onayladığına dair yazılı bir belge olmaksızın mahsup işlemi yaparak iş ortaklığından olan alacağından davacı ...
 

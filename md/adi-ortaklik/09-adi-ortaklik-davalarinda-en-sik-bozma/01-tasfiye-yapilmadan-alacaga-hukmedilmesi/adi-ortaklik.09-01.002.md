@@ -90,8 +90,6 @@ Eksik inceleme ile karar verilemeyeceğinden, bu eksiklikler giderilerek sonucun
 
 ## Konya BAM 6. HD 2023/1999 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969399500)
-
 Dava, faturaya dayalı alacağın tahsili için başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
 …

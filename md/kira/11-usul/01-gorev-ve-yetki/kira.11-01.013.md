@@ -133,8 +133,6 @@ Görevle ilgili düzenlemeler kamu düzenine ilişkin olup, taraflar ileri sürm
 
 ## Konya BAM 7. HD 2026/406 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196779100)
-
 Konya .... Asliye Ticaret Mahkemesince davacı beyanları ve tüm dosya kapsamından ihtilafın kiralama sözleşmesinden kaynaklandığı, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalara bakma görevinin Sulh Hukuk Mahkemesine ait olduğu anlaşıldığından bu tür davalarda görevli mahkeme Sulh Hukuk Mahkemeleri olduğundan ve taraflar arasındaki davanın ticari dava niteliğinde de olmadığı anlaşıldığından, mahkemenin görevsizliğine, davaya Sulh Hukuk Mahkemesince bakılması gerektiği yönünde kararı verilmiştir.
 
 ## İstanbul BAM 54. HD 2026/608 K.

@@ -32,8 +32,6 @@ Ticaret ... tarafından davacı adına düzenlenmiş ve tahrif edilmiş 05.03.20
 
 ## Konya BAM 6. HD 2025/106 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118439900)
-
 Dava tarihi olan 2024 yılında 1.586.600,00 TL'nin üzerinde olan dava ve işlere heyetçe bakılması gerekmekte olup, somut olayda iadesi istenen finansal kiralamaya konu malın değeri 1.586.600,00 TL'nin üzerindedir. İhtiyati tedbir talebinin reddi kararının tek hakim imzası ile verildiği görülmüştür. Eldeki davanın heyetçe görülmesi ve talep edilen ihtiyati tedbirin heyet tarafından incelenip karara bağlanması gerekirken tek hakim tarafından ihtiyati tedbir talebi hakkında karar verilmesi usul ve yasaya aykırı olduğundan kamu düzenine aykırılık nedeniyle ihtiyati tedbir talep eden davacının esasa ilişkin istinaf sebepleri incelenmeksizin ilk derece mahkemesi ara kararının resen kaldırılmasına yönelik aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 44. HD 2024/2031 K.

@@ -65,8 +65,6 @@ hasarın taşıma esnasında meydana geldiği sabit olduğuna göre, taşımayı
 
 ## Antalya BAM 13. HD 2025/114 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113970300)
-
 Trafik kazasına sebebiyet veren ... plaka sayılı araç kayden davalı ... adına trafik siciline kayıtlıdır. Bu davalı yargılama sırasında aracın uzun süreli kira sözleşmesi ile dava dışı kişiye kiralandığını ve bu nedenle işleten sıfatı bulunmadığını savunmuş, ilk derece mahkemesince bu savunmasının doğruluğunun tespiti için bilirkişi incelemesi yapılmış ve nihayetinde davalı ... Şti.'nin işleten sıfatını bulunmadığı kanaatiyle bu davalı yönüyle davanın pasif husumet yokluğu nedeniyle reddine karar verilmiştir. Davacı tarafın dava dışı üçüncü kişinin araç işleteni olduğunu bilmediği ve bu durumun davalı şirketin savunması üzerine açığa çıktığı gözetildiğinde, davalı ... lehine vekalet ücreti takdir edilmemesi gerekirken HMK'nın 305/A maddesi gereğince hükmün tamamlanması suretiyle davalı şirket lehine vekalet ücreti takdiri yerinde görülmediğinden davacılar vekilinin ek karara yönelen istinaf itirazı kabul görmüştür.
 
 ## İstanbul BAM 12. HD 2024/1893 K.
@@ -105,8 +103,6 @@ Sorumlulara karşı bir dava veya takip başlatılmışsa, sigortacı, mahkemeni
 Avukatlık Asgari Ücret Tarifesinin 9. maddesine göre kira tespiti davalarında tespit olunan kira bedeli farkının bir yıllık tutan üzerinden tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, vekalet ücreti olarak hükmolunur. Halen ödenmekte olan aylık kira bedeli ile hüküm altına alınan miktar arasındaki farkın bir yıllık tutan üzerinden davacı yararına, davada talep edilen aylık kira bedeli ile hüküm altına alınan aylık kira bedeli arasındaki farkın bir yıllık tutarı üzerinden de davalı yararına vekalet ücreti takdiri gerekir, (bkz Yargıtay 3. HD 2021/3524 E 7101 K)…
 
 ## Antalya BAM 4. HD 2024/262 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999018400)
 
 Bunun yanında, davalı .... San. Ve Tic. A.Ş ye karşı açılan dava reddedilmesine karşın davalı lehine vekalet ücreti hükmedilmemesi hatalıdır. Her ne kadar, ilk derece mahkemesi tarafından, davacının davayı açtığı tarihte aracın uzun süre kiralandığından haberdar
 

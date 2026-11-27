@@ -75,8 +75,6 @@ Eldeki davada Tüketicinin Korunması Hakkındaki Kanun kapsamında bulunmadığ
 
 ## Konya BAM 5. HD 2026/16 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190829400)
-
 Bu açıklamalardan sonra somut olaya dönüldüğünde; davalılar ... ve ...'in müteselsil kefil, davacılar ... ve ....... Limited Şirketi ile davalı ...'in asli borçlu sıfatıyla imzaladığı dava konusu 19/06/2020 tarihli sözleşme, ön ödemeli konut satım sözleşmesi mahiyetindedir.
 
 ## İstanbul BAM 7. HD 2025/2308 K.

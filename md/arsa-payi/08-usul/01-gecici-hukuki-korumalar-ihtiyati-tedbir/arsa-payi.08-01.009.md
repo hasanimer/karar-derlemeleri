@@ -45,8 +45,6 @@ Ancak; tedbir kararı verilirken, dava sonunda haksız olunduğu takdirde karş�
 
 ## Konya BAM 6. HD 2025/903 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152741100)
-
 Dosya kapsamı, mevcut delil durumu ve ileri sürülen istinaf istemleri nazara alındığında, somut olayda ihtiyati tedbir talebinin kabulü için HMK'nın 389. ve 390. madde koşullarının oluştuğu, alınan teminatın bu aşamada yeterli olduğu, bu itibarla ilk derece mahkemesinin vakıa ve hukuki değerlendirmesinde herhangi bir isabetsizliğin bulunmadığı kanaatine varıldığından, davalıların istinaf başvuru taleplerinin HMK'nın 353/1.b.1 maddesi uyarınca esastan reddine dair aşağıdaki şekilde karar verilmiştir.
 
 ## Ankara BAM 21. HD 2025/718 K.
@@ -111,8 +109,6 @@ Davalı şirketin inşaat şirketi olduğu da dikkate alındığında, niteliği
 KARAR: Yukarıda açıklanan gerekçelerle; 1-Davacı vekilinin istinaf başvurusunun HMK'nın 353/1.b.1 393/5 maddeleri uyarınca esastan reddine …
 
 ## Denizli BAM 4. HD 2025/564 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1130398200)
 
 Davacı vekili istinaf başvuru dilekçesinde özetle; Yerel Mahkeme kararının usul ve yasaya aykırı olduğunu, dava dilekçeleri ekinde dosyaya sundukları uzman görüşü (28/09/2022 tarihli Mimar ... ve Mimar ... tarafından hazırlana tespit raporu) ve ihtarname içerikleri incelendiği taktirde de açıkça görüleceği üzere yaklaşık ispat koşulları oluştuğunu, davalı taraf kooperatif olup müteaahhite düşen bağımsız bölümlerin kendi üyelerine devri yapıldığını, devirler sonrasında kooperatifte kalan 3 adet bağımsız bölümden 2 tanesi davalı tarafça borcunu ödememek için mal kaçırmak amacıyla acele şekilde satılmış olup kalan 1 adet bağımsız bölüm ise ekteki sahibinden ilanında görüleceği üzere satılık olduğunu, davalı taraf bu taşınmazı da satarsa dava konusu alacağın tahsil kabiliyeti kalmayacağını, bu nedenlerle Muğla Asliye Ticaret Mahkemesi'nin ...
 
@@ -204,8 +200,6 @@ TTK'nın 625. ve 626. maddelerine göre, müdürler görevlerini tüm özeni gö
 6100 sayılı HMK'nın 389/1 fıkrası uyarınca; mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. Yine 6100 sayılı HMK'nın 390/3 maddesine göre, tedbir talep eden, öncelikle tedbir istemine ilişkin dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden haklılığını yaklaşık olarak ispat etmek zorundadır. Buradaki ispatın ölçüsü, “yaklaşık ispat” kuralına göre belirlenir.
 
 ## Antalya BAM 16. HD 2025/380 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127530300)
 
 Komiser heyeti raporunda sonuç kısmında özetle; "... kaynak olarak gösterilen taşınmaz satışları yönünden bu aşamada ceza yargılamasında verilen tedbir kararı uyarınca mahkemenin icrai satışa izin vermediğinin görüldüğü, ceza mahkemesi ilamının yargıtay incelemesinden dönüşü ile veya mahkemenin istinaf mahkeme kararında yer alan tedbirlerin kaldırılmasına yönelik kararını uygulamasına bağlı olduğu, şirketin kaynak olarak gösterdiği taşınmaz satışı yerine projesini revize etmek suretiyle başka bir şekilde şirkete kaynak sağlaması halinde takdir mahkemeye ait olmak üzere projenin uygulanabilme ihtimalinin bulunduğu" hususları belirtilmiştir.
 

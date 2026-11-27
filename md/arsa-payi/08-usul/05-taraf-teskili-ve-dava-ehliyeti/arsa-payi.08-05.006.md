@@ -171,8 +171,6 @@ Bu nedenle ilk derece mahkemesi kararı kaldırılarak davalı kooperatif yönü
 
 ## Konya BAM 5. HD 2025/1778 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185520300)
-
 Davalı - karşı davacı ........ Şirketi vekili davaya cevap ve karşı dava dilekçesinde özetle; müvekkili şirketin, davalı arsa sahibi ........
 
 …
@@ -185,8 +183,6 @@ Davacı şirket, davacı ile davalılar arasında adi ortaklık ilişkisini bulu
 Bu nedenle mahkemece asli talebin sözleşmenin geçersizliğinden reddi ve tali alacak talebi açısından ise ........ ve Ticaret A.Ş yönünden husumet nedeniyle reddine karar verilmesi doğru olmuştur.
 
 ## Antalya BAM 16. HD 2025/1456 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189303100)
 
 Davacı vekili, davalılar ile kat karşılığı inşaat sözleşmesi yaptıklarını yaptıkları sözleşme ve protokol gereğince davalıların yapacakları bir kısım harcamalar için para ve senet verileceğinin kararlaştırıldığını verilen bu senedin teminat senedi olduğunu, senet verilmesine rağmen herhangi bir inşaat faaliyetinde bulunulmadığını buna rağmen senedin takibe konulduğunu öne sürmüş bu takipten borçlu olmadıklarının tespitini talep etmiştir.
 
@@ -213,8 +209,6 @@ Kabule göre de takipte ve bonoda davalı şirketin alacaklı olarak yer almamas
 2-6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince ANTALYA 1. ASLİYE TİCARET MAHKEMESİ'nin 08/05/2023 tarih ve ... Esas ... Karar sayılı kararının KALDIRILMASINA …
 
 ## Bursa BAM 14. HD 2025/1077 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156921600)
 
 Davacı vekili, davalılardan ....
 

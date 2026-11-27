@@ -196,8 +196,6 @@ Belediyesi Kentsel Dönüşüm Projesi İşi Sözleşmesinde, sabit hizmet bedel
 
 ## Denizli BAM 4. HD 2026/962 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205963100)
-
 Taraflar arasında resmi şekilde yapılmış arsa payı karşılığı inşaat sözleşmesi ilişkisi kurulmuş olup, sözleşmenin feshine ilişkin taraf iradelerinin buluşmaması halinde fesih mahkeme kararıyla neticelendirilecektir. İhtiyati tedbir talep eden taraf her ne kadar sözleşmeyi haklı sebeple feshettiğini belirtmekte ise de, tarafların iradesinin fesih hususunda birleştiğine dair dosya kapsamında bir delil bulunmadığından, talep tarihi itibariyle ve yargılama aşamasında sözleşme ilişkisi varlığını devam ettirmektedir. Halen varlığı devam eden sözleşme kapsamında yüklenicinin dava konusu taşınmazdan çıkarılması ve inşai her türlü faaliyete son verilmesi, yapılan yargılama sonucunda oluşacak mahkeme hükmünü peşinen elde etmeye matuf olduğu gibi, davacı tarafın iddiaları ve sözleşmenin feshi koşullarının oluşup oluşmadığı hususu bu aşamada yargılamayı gerektirmekte olup, ihtiyati tedbir talebinin reddine karar verilmesinde bir isabetsizlik bulunmamaktadır.
 
 …

@@ -87,8 +87,6 @@ Sanayi Ve Ticaret AŞ 'nin söz konusu aracın kiracısı oldukları, kira sözl
 
 ## Antalya BAM 11. HD 2025/1130 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186217100)
-
 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu’nun 9/2. Maddesi ve aynı Kanun'un 9/2. maddesinin yollamasıyla somut olaya uygulanması gereken 29257 sayılı Faktoring İşlemlerinde Uygulanacak Usul ve Esaslar Hakkında Yönetmeliğin 5/1. maddesi çerçevesinde davalı faktoring şirketinin dava konusu çeki alırken gerekli istihbarat çalışmasını yapıp yapmadığına ilişkin somut olayın ele alınması gereklidir.
 
 ## İstanbul BAM 44. HD 2025/1366 K.

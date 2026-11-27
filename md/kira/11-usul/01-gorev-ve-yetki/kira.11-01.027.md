@@ -40,8 +40,6 @@ Sonuç olarak yukarıda açıklandığı üzere, sigortalı ile davalılar aras�
 
 ## İstanbul BAM 35. HD 2018/771 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402366400)
-
 Mahkemenin HMK gereği tensiben dilekçe teatisi bitmeden görevsizlik kararı veremeyeceği gibi taraflar arasındaki sözleşmenin borçlar kanununda tarifi olan kira sözleşmesi olmayıp "tacirler arası servis hizmet alım sözleşmesi olduğu" makina kurulumu, yazılım çözümleri, yazılım lisansları, kopya başı ücret alınması şeklinde hizmet sözleşmesinden kaynaklanan hizmet ücretine ilişkin takibe itirazın iptali talep edildiğinden görevli mahkemenin Ticaret Mahkemesi olduğu, asıl ilişkinin servis hizmeti sunulması sözleşmesi olduğu anlaşılmıştır.
 
 ## İstanbul BAM 36. HD 2018/656 K.

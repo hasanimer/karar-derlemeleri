@@ -21,8 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 7. HD 2024/571 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033496800)
-
 Davacı/ karşı davalı kooperatif vekili, davacı/ karşı davalı kooperatifin arsa sahipleri ile arasındaki sözleşme uyarınca edimlerini yerine getirerek, genel iskanı almak suretiyle teslimi gerçekleştirdiği, kooperatifin üyelerinin talepleri doğrultusunda yapmış olduğu farklı imalatların arsa sahiplerine düşen bağımsız bölümlere yapılmadığını iddia ederek, değer farkı talep edilmesinin sözleşmeye dayalı hiç bir dayanağının bulunmadığı, arsa sahiplerinin inşaat ruhsatını yenilemeye yanaşmamaları nedeniyle genel iskanın alınmasının geciktiği, yapılan keşif sırasında hiç bir eksiklik görülmediği halde, delil tespit dosyasındaki itiraz ettikleri rapora istinaden bu rapor esas alınarak, maddi gerçeğe ve yasaya aykırı tespitlerde bulunulduğu, eksik inceleme ve araştırma neticesinde hüküm kurulduğu, yapılan değerlendirmelerin dosya kapsamına ve somut gerçeğe aykırı olduğu, yaptıkları fazla imalatların ortak alanlarla ilgili olduğu ve yüklenicinin de bu imalatlardan yararlandığı gerekçesiyle, tespit edilen fazla imalat bedeline yönelik taleplerinin reddine karar verilmesinin yerinde olduğu, bilirkişi raporunun hükme esas alınamayacağı, eksik ve ayıplı imalatın söz konusu olmadığı, kabul
 anlamına gelmemek üzere belirlenen eksik iş bedelinin en fazla 1/2 bağımsız bölüm değerine karşılık gelmesi itibarıyla, arsa sahibinin alacağına karşılık 1/2 adet bağımsız bölümü uhdesinde tutması mümkünken, 12 adet bağımsız bölümün tapusunu yıllarca adeta rehin almasının hakkın suistimali niteliğinde olduğu, bu husus gözden kaçırılarak yargılama giderleri ve vekalet ücretine lehlerine hükmedilmemesinin usule, yasaya ve hakkaniyete aykırı olduğu, karşı dava dilekçesinde talep edilmeyen eksik ve ayıplı iş alacaklarının karşı davada hüküm altına alınmasının hatalı olduğu, birleşen dava davacısı olan şirketle aralarında adi ortaklık sözleşmesi bulunduğu, davalı şirketin inşaata herhangi bir finansman katkısının olmadığı, aleyhlerine verilen mahkeme ilamına dayalı olarak ödemeler kooperatif tarafından yapılmasına rağmen, şirket tarafından kendilerine herhangi bir ödeme yapılmadığı, bu nedenle birleşen dosyadaki davacı şirketin tapu talep etme hakkının bulunmadığı, şirket adına tescile karar verilmesinin hatalı olduğu, aralarındaki adi ortaklığın feshi ve tasfiyesi amacıyla açılan ve derdest olan davanın, bu dava yönünden bekletici mesele yapılması, aksi görüş halinde birleşen davanın
 reddine karar verilmesi gerektiği gibi nedenlerle kararı istinaf etmiştir.
@@ -72,8 +70,6 @@ Mahkemece cezai şarttan ekonomik mahva neden olacağı gerekçesi ile indirim y
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekillerinin istinaf başvurularının KABULÜNE, 2-Bakırköy 1. Asliye Ticaret Mahkemesi'nin 14/10/2021 tarih, 2016/275 Esas, 2021/968 Karar sayılı kararının KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2023/974 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/948913800)
 
 Davacı vekili açtığı dava ile, davacı yüklenici ile davalı arasında yapılan yazılı sözleşme ile davalıya ait Denizli Merkez ... köyü ... parsel sayılı taşınmazın bulunduğu alanda ...
 

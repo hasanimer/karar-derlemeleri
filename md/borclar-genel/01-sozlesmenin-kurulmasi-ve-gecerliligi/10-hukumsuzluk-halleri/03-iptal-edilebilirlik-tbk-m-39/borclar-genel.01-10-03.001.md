@@ -128,8 +128,6 @@ Sözleşmeyle bağlı olmama bildiriminde (iptal hakkı) bir yıllık kısa sür
 
 ## Antalya BAM 11. HD 2022/991 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782786700)
-
 TBK 39.madde de, iptal hakkı için tanınan 1 yıllık süre, hak düşürücü süre olup bu süre yanılma ve aldatmada, yanılma ve aldatmanın kesin olarak öğrenildiği andan, korkutmada korkutmanın ortadan kalktığı andan itibaren işlemeye başlar. İradesi sakatlanan taraf sözleşmeyi iptal hakkının 1 yıllık askı süresi içinde kullanmalıdır. İptal hakkı tek taraflı, varması (ulaşması) gerekli bir irada beyanı ile kullanılır. İptal beyanın 1 yıllık süre dolmadan karşı tarafın hakimiyet alanına ulaşması gerekir. İptal hakkı hukuki niteliği itibariyle bozucu yenilik doğuran bir haktır (Borçlar hukuku Genel Hükümler Prof.Dr Fikret Eren Ankara 2018 sayfa 429).
 
 ## İzmir BAM 17. HD 2022/386 K.
@@ -146,12 +144,8 @@ Sözleşmeyle bağlı olmama bildiriminde (iptal hakkı) bir yıllık kısa sür
 
 ## Ankara BAM 22. HD 2022/6 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728183600)
-
 Sözleşmeyle bağlı olmama bildiriminde (iptal hakkı) bir yıllık kısa süre, iradeyi sakatlayan sebeplerin öğrenilmesi veya korkunun etkisinin ortadan kalkmasıyla başlar. Bir yıllık hak düşürücü sürenin, daha uzun bir süre ile de sınırlandırılıp sınırlandırılmayacağı doktrinde tartışmalıdır. İradesi bozulan kimse, sözleşmeyi yaptıktan 5, 10 veya 30 yıl sonra yanılma veya aldatmayı öğrenmişse, öğrenme tarihinden bir yıllık süre içerisinde sözleşmeyi iptal edip edemeyeceği konusunda görüş birliği bulunmamaktadır. Bir görüş, sözleşme tarihinden itibaren 10 yıl geçmesi halinde, iptal hakkının son bulacağını ileri sürmekte, diğer görüşe göre ise, TBK m.39.maddesinde kanun koyucunun daha uzun bir süreyi bilerek koymadığı, kanunun açık hükmü karşısında yorum yoluyla yeni kural konulamayacağı, böyle bir süre konulmasının kanun koyucunun amacına aykırı olacağı ve anılan maddenin açık hükmüne aykırı olacağı belirtilmektedir (Eraslan Özkaya, Yanılma, Aldatma Korkutma Davaları, sf, 437-438).
 
 ## Ankara BAM 22. HD 2021/2275 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720937500)
 
 Sözleşmeyle bağlı olmama bildiriminde (iptal hakkı) bir yıllık kısa süre, iradeyi sakatlayan sebeplerin öğrenilmesi veya korkunun etkisinin ortadan kalkmasıyla başlar. Bir yıllık hak düşürücü sürenin, daha uzun bir süre ile de sınırlandırılıp sınırlandırılmayacağı doktrinde tartışmalıdır. İradesi bozulan kimse, sözleşmeyi yaptıktan 5, 10 veya 30 yıl sonra yanılma veya aldatmayı öğrenmişse, öğrenme tarihinden bir yıllık süre içerisinde sözleşmeyi iptal edip edemeyeceği konusunda görüş birliği bulunmamaktadır. Bir görüş, sözleşme tarihinden itibaren 10 yıl geçmesi halinde, iptal hakkının son bulacağını ileri sürmekte, diğer görüşe göre ise, TBK m.39.maddesinde kanun koyucunun daha uzun bir süreyi bilerek koymadığı, kanunun açık hükmü karşısında yorum yoluyla yeni kural konulamayacağı, böyle bir süre konulmasının kanun koyucunun amacına aykırı olacağı ve anılan maddenin açık hükmüne aykırı olacağı belirtilmektedir (Eraslan Özkaya, Yanılma, Aldatma Korkutma Davaları, sf, 437-438).

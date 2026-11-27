@@ -45,13 +45,9 @@ hakkaniyet gereği indirim yapılması gereken durumlarda, indirim yapılmasın�
 
 ## Ankara BAM 26. HD 2022/389 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733517000)
-
 Yasal düzenlemeler gereği 6098 sayılı TBK md. 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddedilmesi nedeniyle indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceği ve yargılama giderleri yönünden taraflar arasında paylaştırmaya gidilemeyeceği hususunun yerleşik Yargıtay kararları ve uygulamaları ile kabul edilmesi nedeniyle davalı taraf lehine vekalet ücreti hükmedilmemesinde bir isabetsizlik bulunmaması ve mahkemenin gerekçesine göre HMK’nın 353/1-b-1 maddesi gereğince davalı ... vekilinin yerinde görülmeyen tüm istinaf taleplerinin esastan reddine karar verilmesi gerekmiştir.
 
 ## Ankara BAM 26. HD 2022/277 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729586300)
 
 Bununla birlikte, ihtiyari dava arkadaşı olan her bir davacı yönünden reddedilen manevi tazminat miktarlarına ilişkin olarak davalı lehine ayrı ayrı vekalet ücretine hükmedilmesi gerekirken davalı lehine 2.725,00-TL tutarında tek bir vekalet ücretine hükmedilmesi yerinde görülmemiştir.
 
@@ -62,8 +58,6 @@ Bununla birlikte, ihtiyari dava arkadaşı olan her bir davacı yönünden redde
 Yasal düzenlemeler gereği, TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyecektir. Buna göre mahkemece davalılar ... ve ... yönünden sadece redolunan kalıcı iş görmezlik istemine ilişkin olarak 750,00 TL üzerinden vekalet ücretine karar verilmesi gerekirken yazılı şekilde hakkaniyet indirimi yapılmak sureti ile reddolunan kısım yönünden vekalet ücretine hükmedilmesi doğru görülmemiştir. (Yargıtay 17. Hukuk Dairesi'nin 2018/1094 E, 2018/6778; 2015/16486 E, 2018/10815 sayılı kararı ). Bu yönü ile davacı vekilinin istinaf başvurusunun kabulü gerekmiştir.
 
 ## Ankara BAM 26. HD 2022/234 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/731745500)
 
 BK'nın 51. ve 52. maddesinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen kabul edilmesi halinde, indirimden dolayı reddedilen kısım yönünden davalı yararına vekalet ücreti taktir edilemeyeceği ve aleyhine yargılama gideri taktir edilemeyeceği gözönüne alınarak, mahkemece yapılan %20 müterafik kusur indirimi nedeni ile vekalet ücreti takdir edilmemesinde bir usulsüzlük bulunmamaktadır. Ancak,
 
@@ -86,13 +80,9 @@ kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedi
 
 ## Konya BAM 3. HD 2021/2191 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740571300)
-
 Mahkeme kararında, kısmen davanın kabul edilmesine, davacı lehine hükmedilen maddi ve manevi tazminat için vekalet ücreti takdir edilmiş olmasına reddedilen kısım yönünden davalı lehine vekalet ücreti takdir edilmesi doğru olup davalının buna yönelik itirazın yerinde olmadığı anlaşılmıştır.
 
 ## Antalya BAM 4. HD 2021/2073 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/710157100)
 
 Karar tarihi itibariyle yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 10/4 maddesi gereğince manevi tazminat davasının maddi tazminat talebiyle birlikte açılması durumunda manevi tazminat açısından avukatlık ücreti ayrı bir kalem olarak hükmedilir. Aynı maddenin ikinci fıkrası gereğince ise manevi tazminat davasının kısmen reddi durumunda karşı taraf vekili yararına hükmedilecek ücretin davacı lehine belirlenen ücreti geçemeyeceği belirtilmiştir. Manevi tazminat davasının kısmen kabulü halinde reddedilen miktara göre karşı taraf lehine vekalet ücretine takdir edilmesi tarife ile usul ve yasaya uygun düşmektedir.
 
@@ -171,15 +161,11 @@ Ancak, mahkemece geçici iş göremezlik tazminatının reddine ve sürekli iş 
 
 ## Konya BAM 3. HD 2021/881 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739806900)
-
 TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı
 
 yararına vekalet ücreti taktir edilemeyeceğinden.mahkeme kararı bu yönden doğru olup itiraz bu yönden yersizdir…
 
 ## Konya BAM 3. HD 2021/889 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739597200)
 
 Yukarıda yapılan açıklamalar çerçevesinde, ilk derece mahkemesinin kararında yukarıda belirtilenler dışında HMK'nın 355. Maddesi gereği, aykırılık bulunmadığı anlaşılmakla hakkaniyet indirimi uygulanması nedeniyle davalı lehine vekalet ücreti taktir edilmeden ve davanın tam kabul gibi değerlendirilerek yargılama giderinin tamamından davalının sorumlu tutulmak suretiyle yeniden karar verilerek davacı vekilinin istinaf başvurusunun yukarıda belirtilen gerekçeler doğrultusunda kabulü, davalı ... vekilinin istinaf itirazlarının tümden reddi ile ile incelenen kararın HMK’nin 353/1-b maddesinin (2) numaralı alt bendi uyarınca düzeltilmek üzere kaldırılması ve yeniden hüküm tesis edilmesine dair aşağıdaki hükmün kurulmasına karar vermek gerekmiştir.
 
@@ -205,8 +191,6 @@ takdir edilemeyeceği ve yargılama giderleri yönünden taraflar arasında payl
 Islah edilen talep ve takdiri indirim nedeni uygulanmadan önceki miktar üzerinden mahkemenin ayrı ayrı davacılar için kabul edilen miktarlar nazara alınarak reddedilen miktar açısından vekalet ücreti takdir edilmesinde, yine kabul edilen maddi ve manevi tazminat miktarları açısından davacılar lehine ayrı ayrı vekalet ücreti verilmesinde usul ve yasaya aykırılık yoktur. Ancak AAÜT'nin 3/2. maddesi gereğince red sebebi ortak olması da gözetilerek her bir davacı bakımından reddedilen manevi tazminat tutarı üzerinden hesaplanan vekalet ücretinin davalılara müteselsilen ödenmesine karar verilmesi gerekirken müteselsil sorumlu olan davalılar lehine ayrı ayrı vekalet ücreti hükmedilmesi olmadığından davacılar vekilinin bu yöne değinen istinaf talebinin kabulüne ve hükmün vekalet ücreti bakımından düzeltilmesine karar verilmesi gerekmiştir. Bu nedenle; Davalı ... San ve Tic Ltd Şti. vekilinin istinaf başvurusunun HMK'nın 353/1-b/1. maddesi uyarınca esastan reddine, davacılar vekilinin istinaf başvurusunun HMK'nın 353/1-b/2. maddesi gereğince kabulüne, İlk Derece Mahkemesi kararı düzeltilerek aşağıda yazılı olduğu şekilde esas hakkında yeniden hüküm kurulmasına karar verilmiştir.
 
 ## Ankara BAM 26. HD 2021/931 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660791100)
 
 Ancak davacı lehine hesaplanan maddi tazminattan hatır taşıması nedeniyle mahkeme tarafından yapılan indirim sonucu belirlenen tazminat tutarları hüküm altına alınırken, davanın kısmen reddine karar verildiğinden, davalı ... şirketi lehine vekalet ücretine hükmedilmiş ise de Yargıtay uygulamalarına göre TBK'nun 51 ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceği göz önüne alınması gerekirken davalı ... şirketi yararına hatır taşıması indiriminden dolayı reddedilen kısım için vekalet ücretine hükmedilmesi doğru görülmediğinden davacı vekilinin bu yöne ilişkin istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına, kesinleşmiş yönler korunarak HMK.nın 353/1.b.2. maddesi gereğince hüküm fıkrasının 6. bendinin hükümden çıkarılarak yeniden esas hakkında hüküm kurulmasına karar vermek gerekmiştir.
 

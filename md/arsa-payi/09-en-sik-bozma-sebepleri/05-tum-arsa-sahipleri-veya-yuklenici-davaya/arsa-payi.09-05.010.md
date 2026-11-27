@@ -56,8 +56,6 @@ Aydın Asliye Ticaret Mahkemesi'nin 09.07.2025 tarih ve 2024/464 Esas, 2025/483K
 
 ## Gaziantep BAM 17. HD 2024/987 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078846100)
-
 Davalı taraf kendisine usulüne uygun tebligat yapılmasına rağmen yasal süresi içerisinde cevap dilekçesi sunmamıştır.
 
 …
@@ -75,8 +73,6 @@ Davalı taraf kendisine usulüne uygun tebligat yapılmasına rağmen yasal sür
 Davalı vekilinin istinaf başvurusunun kabulü ile,....... Esas ve 2021/35 Karar sayılı kararının HMK'nın 353/1-a,6. maddesi gereğince KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2024/575 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033440200)
 
 Davalı şirket cevap dilekçesi sunmamış olup, duruşmalara katılan tasfiye memuru ..., inşaat işleriyle ilgilenen ortağın ... olduğunu, yapılan inşaatla ilgili bilgi sahibi olmadığını, arsa sahibinin satılan bağımsız bölümlerde tapu vermeyle ilgili problem yarattığını bildiğini beyan etmiştir.
 

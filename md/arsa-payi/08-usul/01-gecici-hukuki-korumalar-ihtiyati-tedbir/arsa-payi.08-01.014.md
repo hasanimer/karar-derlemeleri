@@ -90,8 +90,6 @@ Buna göre , somut davada , dava kat karşılığı inşaat sözleşmesinden kay
 
 ## Antalya BAM 7. HD 2023/695 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911600600)
-
 Davacı vekili tarafından açılan dava ile, taraflar arasında 18/08/2020 tarihli ana yüklenici sözleşmesi imzalandığını, davacının ... ilçesi, ... mah. .... ada .... parseldeki taşınmazın anahtar teslim yapım işini üstlendiğini, davacıya hakedişi gereği verilmesi gereken bağımsız bölümler bulunduğunu, davacının sözleşme imzalandığında %25 olan seviyeyi %85'e ulaştırdığını, işlerin eksik olmasında dahi sözleşmeye göre inşaat seviyesine göre bağımsız bölüm tapusunun verilmesi gerektiğini, işin tamamına yakınının tamamlandığını ileri sürerek ... mah. .... ada .... parseldeki ..... nolu bağımsız bölümler üzerine 28.000 Euro karşılığı teminatsız ihtiyati haciz konulmasına, bu bağımsız bölümlerin tapusunun iptaliyle davacı adına tesciline, .... ada .... parselde bulunan tüm taşınmazlar üzerine teminatsız ihtiyati tedbir konulmasına, tescil talebinin kabul edilmemesi halinde bağımsız bölümlerin piyasa rayicine uygun bedeli belirlenerek fazlaya ilişkin hakları saklı kalarak 28.000 Euro'nun, dövizle ödeme kabul edilmemesi halinde 518.988,40 TL'nin davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
 …
@@ -147,8 +145,6 @@ HMK'nın 389/1. maddesi uyarınca, mevcut durumda meydana gelebilecek değişme 
 İhtiyati tedbir isteyen davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince esastan reddine …
 
 ## Antalya BAM 7. HD 2023/674 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911562000)
 
 Davacı vekili tarafından, davacı yüklenici ile davalı arsa sahipleri arasında düzenlenen kat karşılığı inşaat sözleşmesi ve ek sözleşme gereğince, davalıların tapu devir edimlerini yerine getirmediği iddiasıyla açılmış tapu iptali tescil davasında, davalılardan muris ....mirasçıları ... ve .... vekili, dava konusu .... numaralı bağımsız bölümün üzerindeki ihtiyati tedbir kararının kaldırılmasını ve davacı tarafın işgalinin önlenmesi amacıyla ihtiyati tedbir kararı verilmesini istemiştir.
 

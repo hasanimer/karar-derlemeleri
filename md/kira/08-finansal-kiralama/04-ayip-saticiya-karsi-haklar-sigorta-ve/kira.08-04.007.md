@@ -170,8 +170,6 @@ Bu tutardan az önce belirtilen 150,57 TL ve 130,84 TL bedeli giderler düşüld
 
 ## İstanbul BAM 16. HD 2018/2677 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/455953600)
-
 6361 sayılı Finansal Kiralama, Faktoring Ve Finansman Şirketleri Kanunu'nun "Malın kiracıya teslim edilmemesi " başlıklı, 25. maddesinde yer alan düzenlemeye göre de "Finansal kiralama konusu malın, kiralayanın malın imalatçısı veya satıcısı ile zamanında sözleşme yapmaması veya gerekli ödemeyi zamanında yerine getirmemesi veya kiralayanın kusur ve ihmalinden kaynaklanan diğer sebepler ile kiracıya teslim edilmemesi hâlinde 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun 123, 125 ve 126 ncı madde hükümleri uygulanır." hükmü düzenlenmiştir.
 
 ## İstanbul BAM 12. HD 2018/1611 K.

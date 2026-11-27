@@ -115,6 +115,4 @@ Taraf teşkili kamu düzenine ilişkin olup re’sen yargılamanın her aşamas�
 
 ## Konya BAM 6. HD 2025/1032 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1164532500)
-
 6100 sayılı HMK’nun 27. maddesinde de hukuki dinlenilme hakkı düzenlenmiştir. Bu hak adil yargılanma hakkının da en önemli unsurudur. Hukuki Dinlenilme Hakkı gereğince davanın tarafları, müdahiller ve yargılamanın diğer ilgilileri, kendi hakları ile bağlantılı olarak hukuki dinlenilme hakkına sahip olup, bu hakkın yargılama ile ilgili olarak bilgi sahibi olunmasını, açıklama ve ispat hakkını, mahkemenin açıklamaları dikkate alarak değerlendirmesini ve kararların somut ve açık olarak gerekçelendirilmesini içermektedir.

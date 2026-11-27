@@ -93,8 +93,6 @@ Davalı vekilin istinaf başvurusunun KABULÜ ile Erzurum Asliye Ticaret Mahkeme
 
 ## Gaziantep BAM 11. HD 2024/120 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002950100)
-
 Dairemizce verilen 17/07/2023 tarihli teminat yönünden kararın kaldırılarak esas hakkında yeniden hüküm kurmak suretiyle verilen ihtiyati tedbir kararı HMK'nın 362/1-f bendi uyarınca kesin kararlardan olup, tedbirin kaldırılmasını gerektirir nitelikte yeni bir delilin dosya kapsamında bulunmadığı, malın aynının ihtilaf ve dava konusu olduğu, her bir daire başına kafi miktarda teminat alınmasına karar verilmişse de teminatın kısmen yatırılması nedeniyle bir kısım daireler üzerinde tedbirin devam ettiği, takdir olunan daire başı teminat tutarının usul ve yasaya uygun olduğu anlaşılmasına göre; yerel mahkemece tedbirlerin tümden kaldırılması talebinin reddine ilişkin 10/10/2023 tarihli ara kararında usul ve yasaya aykırı herhangi bir yön görülmemiştir.
 
 ## İstanbul BAM 13. HD 2024/100 K.
@@ -112,8 +110,6 @@ Eğer borç var ise a ya da b ye mi ödeyeceği borçluyu ilgilendirmeyeceğinde
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6100 sayılı HMK' nın 353/1-b-1 maddesi gereğince ESASTAN REDDİNE …
 
 ## Denizli BAM 4. HD 2024/61 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088128200)
 
 İlk Derece Mahkemesince duruşmalı yapılan inceleme ve değerlendirme sonucu 12/09/2024 tarihli ara karar ile, Mahkememizce; 18/07/2024 tarihli bilirkişi raporuna istinaden 19/08/2024 tarihli talep sonrası itiraza konu olan ihtiyati haciz kararının verildiği, itiraza konu ihtiyati haciz kararının henüz kesinleşmemiş ve tarafların itirazına konu ettikleri rapordaki tespitler uyarınca verilmiş olması, ilgili rapor kapsamında davacının alacak miktarı ve alacağın varlığı hususunda yaklaşık ispat şartlarının sağlanmamış olması gerekçesi ile "1-Mahkememizce verilen 20/08/2024 TARİHLİ İHTİYATİ HACİZ KARARININ KALDIRILMASINA," dair karar verilmiştir.
 
@@ -163,8 +159,6 @@ Davalı vekili cevap dilekçesinde; müvekkilinin uzun yıllardan bu yana her ne
 bilirkişi marifetiyle saptanmalıdır. Üçüncü ve son aşamada ise; yukarıdaki işlemler sonucu oluşan değerden, öncelikle ortaklığın borçları ödenmeli ve ortaklardan her birinin, ortaklığa verdiği avanslar ile ortaklık için yap- tığı giderler ve katılım payı geri verilmeli, bundan sonra bir şey artarsa, bu kazanç veya (ortaklığın, borçlar, giderler ve avanslar ödendikten sonra kalan varlığı, ortakların koydukları katılım paylarının geri verilmesine yetmezse) zarar da belirlenerek ortaklara paylaştırılmak üzere son bilanço düzenlenmelidir. Bu aşamalardan sonra ise; tasfiye memurunun yaptığı tasfiye işleminin sonuç bilanço- suna göre hakim, (HMK'nun 297.maddesi uyarınca) tarafların hak ve yükümlülüklerini saptayıp, tasfiye işlemini sonlandırmalı ve bu doğrultuda hüküm oluşturmalıdır. Öyle ise mahkemece, uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi gerekirken, bu şekilde bir inceleme ve değerlendirme yapılmadan, yanılgılı ve eksik inceleme ile hükme elverişli olmayan rapor esas alınarak hüküm tesisi doğru görülmemiştir. Davalının vekilinin istinaf başvurusunun HMK'nın 353/1-a-6 maddesi uyarınca kabulü ile kararın kaldırılmasına …
 
 ## Antalya BAM 11. HD 2023/1821 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/973126000)
 
 Davacı vekili özetle; müvekkilinin, davalılar ile dava dışı ... Boya Ltd. Şti. arasında Antalya ili ... ilçesi ...
 

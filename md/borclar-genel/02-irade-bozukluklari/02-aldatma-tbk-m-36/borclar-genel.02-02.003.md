@@ -193,12 +193,8 @@ Sözleşmeyle bağlı olmama bildiriminde (iptal hakkı) bir yıllık kısa sür
 
 ## Ankara BAM 22. HD 2021/2275 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720937500)
-
 Sözleşmeyle bağlı olmama bildiriminde (iptal hakkı) bir yıllık kısa süre, iradeyi sakatlayan sebeplerin öğrenilmesi veya korkunun etkisinin ortadan kalkmasıyla başlar. Bir yıllık hak düşürücü sürenin, daha uzun bir süre ile de sınırlandırılıp sınırlandırılmayacağı doktrinde tartışmalıdır. İradesi bozulan kimse, sözleşmeyi yaptıktan 5, 10 veya 30 yıl sonra yanılma veya aldatmayı öğrenmişse, öğrenme tarihinden bir yıllık süre içerisinde sözleşmeyi iptal edip edemeyeceği konusunda görüş birliği bulunmamaktadır. Bir görüş, sözleşme tarihinden itibaren 10 yıl geçmesi halinde, iptal hakkının son bulacağını ileri sürmekte, diğer görüşe göre ise, TBK m.39.maddesinde kanun koyucunun daha uzun bir süreyi bilerek koymadığı, kanunun açık hükmü karşısında yorum yoluyla yeni kural konulamayacağı, böyle bir süre konulmasının kanun koyucunun amacına aykırı olacağı ve anılan maddenin açık hükmüne aykırı olacağı belirtilmektedir (Eraslan Özkaya, Yanılma, Aldatma Korkutma Davaları, sf, 437-438).
 
 ## Ankara BAM 22. HD 2021/2129 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715289100)
 
 Hile (aldatma), genel olarak bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı koruma yahut devamını sağlamak şeklinde tanımlanır. Hata da yanılma, hilede ise yanıltma söz konusudur. 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 36/1. (818 s. Borçlar Kanunun (BK) 28/1.) maddesinde açıklandığı üzere taraflardan biri diğer tarafın kasıtlı aldatmasıyla sözleşme yapmaya yöneltilmişse yanılma (hata) esaslı olmasa bile aldatılan taraf için sözleşme bağlayıcı sayılamaz. Değinilen koşulların varlığı halinde aldatılan taraf hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili (makable şamil) olarak ortadan kaldırabilir ve verdiği şeyi geri isteyebilir.

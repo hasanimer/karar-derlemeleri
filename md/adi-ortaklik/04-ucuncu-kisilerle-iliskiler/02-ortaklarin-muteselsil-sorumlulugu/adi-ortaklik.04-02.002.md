@@ -56,8 +56,6 @@ Tüm dosya kapsamı itibariyle, ihtiyati haciz talebi Ankara-İzmir YTH yapımı
 
 ## Ankara BAM 27. HD 2025/831 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158171400)
-
 Taraf ehliyeti, bir davada taraf olabilme yeteneğini ifade eder. Taraf ehliyeti medeni (maddi) hukuktaki medeni haklardan yararlanma ehliyetinin usul hukukunda büründüğü şekil olarak anlaşılmalıdır. Buna göre; medeni haklardan yararlanma ehliyeti bulunan her gerçek ya da tüzel kişi davada taraf ehliyetine sahip kabul edilmelidir. Mülga 818 sayılı Borçlar Kanunu'nun 520 (6098 sayılı Türk Borçlar Kanunu'nun 620) ve devamı maddelerinde düzenlenen adi ortaklığın taraf ehliyeti yoktur. Bu nedenle, adi ortaklığa ilişkin davalarda, adi ortaklığı oluşturan kişilerin taraf olarak hep birlikte hareket etmeleri gerekir. Adi ortaklık tarafından açılacak davaların iştirak halinde mülkiyet hükümleri gereği bütün ortaklar tarafından birlikte açılması gerekir. Adi ortaklığa karşı açılacak davalar yönünden ise; ikili bir ayrım yapmak gerekecektir.
 Davanın konusu paradan başka bir şey ise davanın bütün ortaklara karşı birlikte açılması (mecburi dava arkadaşlığı), davanın konusu para ise; ortaklar bu borçtan müteselsil sorumlu bulunduklarından ortaklardan biri, bazıları ya da tümüne karşı (ihtiyari dava arkadaşlığı) dava açılabilecek olup , bu husus taraf ehliyetine ilişkin olmakla , 6100 sayılı HMK 'nın 114/1-d maddesi gereğince dava şartlarından olduğundan , taraflarca ileri sürülmese dahi, mahkemece re'sen nazara alınabilecektir.
 

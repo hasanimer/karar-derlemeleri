@@ -66,8 +66,6 @@ bononun kira sözleşmesi ile beraber boş olarak imzalandığını iddia etmiş
 
 ## Antalya BAM 6. HD 2021/1207 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685572600)
-
 Yukarıda yapılan açıklamalar çerçevesinde taraflar arasındaki ''otel işletme sözleşmesi'' başlıklı sözleşmenin süresi, bedeli, belli olan, tüm unsurları itibariyle kira sözleşmesi niteliğinde olduğu göz önünde bulundurularak kira ilişkisinden kaynaklanan uyuşmazlık hakkında ilk derece mahkemesince yazılı şekilde görevsizlik kararı verilmiş olmasında bir isabetsizlik bulunmadığına göre davalı vekilinin istinaf itirazları yerinde görülmediğinden, istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince esastan reddine karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 13. HD 2021/1020 K.

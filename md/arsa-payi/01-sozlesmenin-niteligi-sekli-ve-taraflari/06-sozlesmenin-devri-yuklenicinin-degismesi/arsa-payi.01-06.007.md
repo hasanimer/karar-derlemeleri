@@ -76,8 +76,6 @@ Somut uyuşmazlıkta, davacı terditli olarak tapu iptal, mümkün olmadığı t
 
 ## Antalya BAM 7. HD 2023/244 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876098800)
-
 Davalı ... Ltd.
 
 …
@@ -174,8 +172,6 @@ Noterliğinin 27/02/2017 tarihli ve 05805 yevmiye nolu ihtarnamenin 08/03/2017 t
 Davalı ...'e husumet düşmeyeceğinden pasif husumet yokluğundan ona karşı açılan davanın reddine …
 
 ## Ankara BAM 27. HD 2022/661 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782678800)
 
 Davacı vekili özetle; müvekkilinin inşaat müteahhitliği yaptığını, davalı şirketin ise asansör yapımıyla iştigal ettiğini, taraflar arasında birçok sözleşme akdedildiğini, sözleşmelerin tamamında iş bedelinin nakit olarak belirlendiğini, ancak daire karşılığı ödendiğini, ...asansör işinin de malzeme ve montaj dahil 26 numaralı bağımsız bölümün devri karşılığı davalıya verildiğini, 26 numaralı bağımsız bölümün davalı yetkilisi ...'a devredildiğini, davalının işleri güçlükle bitirebildiğini, ekonomik darboğazı aşması için müvekkilinin hatır çekleri verdiğini, 74.000 TL bedelli çekin de hatır çeki olarak verildiğini, buna karşılık aynı tutarlı çek alındığını, hatır çekinin imza karşılığı davalı şirket ortağı .... teslim edildiğini, daire devredilmesine rağmen davalının işi tamamlayamadığını, kalan işleri ....Şirketinin yaptığını, ....Şirketine verilen 15.000 TL tutarlı 3 adet çekin ödenmediğini ve bu şirket tarafından icra takibi başlatıldığını, davalı şirketin de belirtilen hatır çekine dayanarak 2014/8756 sayılı icra takibini başlatıp haciz yaptığını, müvekkilinin takibe yönelik itirazının icra mahkemesi tarafından usul yönünden incelenerek reddedildiğini, davalı yetkilisi ...
 hakkındaki ceza soruşturmasının devam ettiğini öne sürerek müvekkilinin 2014/8756 sayılı takip nedeniyle borçlu olmadığının tespitiyle, %20 kötüniyet tazminatına karar verilmesini talep etmiştir.

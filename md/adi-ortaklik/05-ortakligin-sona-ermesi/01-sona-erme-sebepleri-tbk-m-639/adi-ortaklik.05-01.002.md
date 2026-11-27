@@ -143,8 +143,6 @@ Müzik ...A.Ş. yönünden süresinde istinaf harçları yatırılmadığından 
 
 ## Konya BAM 6. HD 2025/488 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151888600)
-
 Dava, fatura alacağının tahsili için başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
 …

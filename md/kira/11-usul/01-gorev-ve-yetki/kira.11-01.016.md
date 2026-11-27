@@ -91,8 +91,6 @@ Bankasına kiralandığını ancak davalının 2007 yılı Mart, Haziran, Temmuz
 
 ## Gaziantep BAM 11. HD 2025/756 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144527700)
-
 Davaya konu bononun temeldeki hangi borç ilişkisine dayalı olarak verildiğini inceleme görevi o temel borç ilişkisine ilişkin uyuşmazlıklarda görevlendirilmiş mahkemeye aittir. Davacılar, salt kambiyo senedine dayanmadıkları ve temel ilişkiye dayandıkları sabit olduğundan mevcut olaya temel ilişkiye dayanan hukuk kurallarının uygulanması gerektiği, bononun temel ilişkisinde kira olduğunu savunduklarına göre, HMK'nın 4. maddesine göre kira sözleşmelerinden kaynaklı uyuşmazlıklarda sulh hukuk mahkemeleri özel görevli mahkemeler olduğundan, dava konusu bononun davacı iddiasına göre kira sözleşmesinden mi yoksa davalı iddiasına göre nakden verilen borç için mi verildiğinin hukuki incelemesini yapmak kira sözleşmeleri için özel görevli sulh hukuk mahkemesinin görevine girmektedir..
 
 ## İstanbul BAM 44. HD 2025/747 K.

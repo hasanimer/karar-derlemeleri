@@ -166,8 +166,6 @@ doğrulandığı anlaşıldığından cezai şart koşulları oluşmadığı son
 
 ## Konya BAM 6. HD 2022/1240 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798847100)
-
 Taraflar arasında düzenlenen protokolde taşınmazın devir tarihinden itibaren 3 ay süreyle ... tarafından bedelsiz olarak kullanılmaya devam edileceği, 3 ay sonra ... ve ... Şti bu taşınmazdan ayrılmaz ise her gün için 10.000,00 TL tazminat ödeneceği kararlaştırılmıştır. Protokol ile kararlaştırılan cezai şart, taşınmazın tahliyesini temin etmek maksadıyla konulduğuna ve taşınmazı kullananlar ... ve ... Şti olduğuna göre davalı ... 'nın cezai şarttan sorumlu tutulması mümkün değildir. Buna göre mahkemece davanın pasif husumet yokluğu nedeniyle reddine karar verilmesinde usul ve yasaya aykırı bir yön bulunmamaktadır. Bu
 
 nedenle davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince esastan reddine ilişkin aşağıdaki şekilde hüküm kurulmuştur.

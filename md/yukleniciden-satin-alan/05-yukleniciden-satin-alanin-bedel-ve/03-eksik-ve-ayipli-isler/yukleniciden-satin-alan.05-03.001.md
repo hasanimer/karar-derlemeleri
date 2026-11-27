@@ -55,8 +55,6 @@ Somut olayda; alacağın temliki hükümleri ile dava konusu bağımsız bölüm
 
 ## Konya BAM 5. HD 2026/699 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207644400)
-
 6098 sayılı TBK'nın 219. maddesine göre satıcı, alıcıya karşı herhangi bir surette bildirdiği niteliklerin satılanda bulunmaması sebebiyle sorumlu olduğu gibi, nitelik veya niteliği etkileyen niceliğine aykırı olan, kullanım amacı bakımından değerini ve alıcının ondan beklediği faydaları ortadan kaldıran veya önemli ölçüde azaltan maddi, hukuki ya da ekonomik ayıpların bulunmasından da sorumlu olur. Satıcı, bu ayıpların varlığını bilmese bile onlardan sorumludur.
 
 ## Ankara BAM 31. HD 2025/319 K.

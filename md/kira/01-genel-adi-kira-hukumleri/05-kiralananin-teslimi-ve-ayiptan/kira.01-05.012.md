@@ -51,8 +51,6 @@ ismine sahip, 2018 model ... şasi numaralı, gri renkli otomobilde meydana gelm
 
 ## İstanbul BAM 13. HD 2025/2120 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186997500)
-
 Şirketi'ne hiç başvurmamış olduğunun, araçtaki ayıbın yağ sızdırmazlık sağlayan parçanın değişimi suretiyle ve üç günlük onarım süresi içerisinde, dava tarihindeki rayice göre 4.484,00-TL onarım bedeli, son rapor tarihindeki rayice göre 11.800,00-TL onarım bedeli ile tamamen giderilebileceğinin tespit edilmiş olması, TBK'nun 227/1-4 maddesinde satılanın misli ile değiştirilmesi talebinin imkan mevcut ise kullanılabileceğini düzenlenmiş olması, yine TBK'nun 227/4 fıkrası uyarında hakime, durumun sözleşmeden dönme hakkının kullanımını haklı göstermemesi halinde onarıma veya bedel indirimine karar verme yetkisi tanımış bulunması, her halde seçimlik hakların kullanımının TMK'nun 2 maddesindeki dürüstlük kuralına tabi bulunması karşısında, mahkemece, aracın iddia olunan arıza nedeniyle serviste kaldığı sürenin kısalığı ve satış bedeli de nazara alınarak ücretsiz onarıma karar verilmiş olmasında usul ve yasaya aykırı bir yön bulunmadığı, davacının dava dilekçesi ekinde sunduğu farklı tarihlerde düzenlenmiş çok sayıda nakliye faturalarının mahkeme gerekçesinde de belirtildiği üzere dava konusu araçtaki ayıp ile illiyetinin ortaya konulamadığı, yine mahkeme gerekçesinde belirtildiği üzere
 aracın ayıp nedeniyle serviste kaldığı tarih aralığının servis kayıtları ile sabit olduğu, dosyaya mübrez diğer servis kayıtlarının periyodik bakımlara ilişkin oldukları, davacının gerek raporlara itiraz, gerekse istinaf dilekçesinde ileri ve aracın serviste kaldığını iddia ettiği bazı tarih aralıklarına ilişkin ise dosyada hiçbir servis kaydı vs delil bulunmadığı, davalı satıcı şirket temsil ve ilzama yetkili olmadığı, dairemizce yapılan sicil kaydı araştıması ile de anlaşılan... tarafından imzalanan fotokopi niteliğindeki ve tarihsiz belgenin davalı şirketi bağlamayacağı yönündeki mahkeme kabulünde de isbaetsizlik bulunmadığı, teknik bilirkişiler tarafından davacının aracın serviste kaldığı süre için muadil olarak kiralayacağı araç bedelinin tespit edilmiş olması ve mahkemece bu tutarın maddi zarar olarak kabul edilmesi karşısında, davacının yukarıda belirtildiği üzere ispatlayamadığı nakliye gideri zararına yönelik istinaf sebebinin dinlenebilir olmadığı, sözleşmeye aykırılığın tek başına manevi tazminatı gerektirmeyeceği, davacının TBK'nun 114/2 fıkrası atfı ile aynı Kanunun 58/1 maddesi uyarınca, ticari itibarının zedelendiğini ispat edememiş olması karşısında manevi tazminat
 isteminin reddedilmesinde hukuka aykırılık bulunmadığı, davacının aksi yöndeki istinaf sebeplerinin yerinde olmadığı anlaşılmıştır.
@@ -160,15 +158,11 @@ Bunun gerekçesinin ise liman terminallerinin tahliye sırasında konteyner içe
 
 ## Bursa BAM 14. HD 2025/1000 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156873900)
-
 6098 sayılı Türk Borçlar Kanunu'nun 475/3 maddesinde iş sahibinin genel hükümlere göre uğramış olduğu zararın tazminini isteme hakkı saklı tutulmuştur. Ancak tazminat istenebilmesi için iş sahibinin ayıbı yükleniciye zamanında ihbar etmesi ve kusurlu olmaması gerekir. Tazminatın şartları, eserdeki ayıp, zarar, ayıpla zarar arasında uygun illiyet bağı ve yüklenicinin kusurudur. Zararın kapsamına, ayıbın neden olduğu ilk zarar yani ayıptan doğan zarar girdiği gibi, ayıbı takip eden zarar da girer. Ayıbı takip eden
 
 zararlar arasında bilhassa ayıp nedeniyle iş sahibinin uğramış olduğu kazanç kayıplarıyla kira geliri kayıplarını saymak gerekir. (Prof. Dr. Fikret Eren, Borçlar Hukuku Özel Hükümler, 6. Baskı, Ankara 2018, s. 652-653)(Yargıtay 15.H.D.'nin 2020/2940 E.2021/526 K)…
 
 ## Denizli BAM 4. HD 2025/641 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1136847200)
 
 Gecikme tazminatı kural olarak sözleşmede kararlaştırılan teslim tarihinden, eserin eksiksiz ve ayıpsız olarak sözleşmeye uygun biçimde teslim edildiği tarihe kadar ya da iş sahibinin teslimden önce bağımsız bölümü fiilen kullanmaya başladığı veya üçüncü kişiye kiraya verdiği ya da sattığı tarihe kadar istenebilir.
 

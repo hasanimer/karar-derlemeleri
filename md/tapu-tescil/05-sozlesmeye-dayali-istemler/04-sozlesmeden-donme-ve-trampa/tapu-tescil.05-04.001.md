@@ -38,6 +38,4 @@ Burada öncelikle, trampa aktinin hukuki niteliği üzerinde durulması gerekece
 
 ## Konya BAM 5. HD 2025/1620 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179544400)
-
 Yasalarda sözleşmenin feshinin bazı koşullara bağlı tutulduğu istisnalar dışında, sözleşmeden dönme (fesih), mahkeme kararına gerek olmaksızın ileri sürülebilen, karşı tarafın kabulüne bağlı olmayan, karşı tarafa ulaşmakla sonuç doğuran, karşı tarafa ulaştıktan sonra tek taraflı geri alınması mümkün bulunmayan bozucu yenilik doğuran tek taraflı irade beyanıdır. Genel kural bu olsa da kat karşılığı inşaat sözleşmesi, kira sözleşmesi, iş sözleşmesi gibi bazı sözleşmeler yönünden yasalarda öngörülen sınırlayıcı kurallardan doğan istisnalar da mevcuttur. Nakit bedel karşılığı eser sözleşmeleri yönünden ise sınırlayıcı istisnai bir kural bulunmadığından mahkeme kararına gerek olmaksızın tek taraflı irade beyanı ile sözleşmeden dönme mümkündür. Yerleşik yargı kararlarında bedel karşılığı eser sözleşmesinden dönme için tek taraflı irade beyanının yeterli olduğu benimsenmiştir. ( Emsal Yargıtay HGK'nın 08.11.2006 tarih 2006/15-702 Esas, 2006/691 Karar sayılı ilamı ve Yargıtay Kapatılan 15. HD'nin 04.06.1998 tarih 1998/513 Esas, 1998/2377 Karar sayılı ilamları)…

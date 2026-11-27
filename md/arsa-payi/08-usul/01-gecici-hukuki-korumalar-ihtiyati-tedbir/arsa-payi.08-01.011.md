@@ -44,8 +44,6 @@ H Ü K Ü M: Yukarıda açıklanan gerekçe ile: 1-6100 sayılı HMK.'nın 353/1
 
 ## Konya BAM 6. HD 2024/1631 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1082395000)
-
 Hukuk Muhakemeleri Kanunu'nun 389. maddesinde ''Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. Birinci fıkra hükmü niteliğine uygun düştüğü ölçüde çekişmesiz yargı işlerinde de uygulanır. '' hükmü düzenlenmiştir.
 
 Aynı kanunun 390. maddesinde de '' İhtiyati tedbir, dava açılmadan önce, esas hakkında görevli ve yetkili olan mahkemeden; dava açıldıktan sonra ise ancak asıl davanın görüldüğü mahkemeden talep edilir. Talep edenin haklarının derhâl korunmasında zorunluluk bulunan hâllerde, hâkim karşı tarafı dinlemeden de tedbire karar verebilir. Tedbir talep eden taraf, dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorundadır. '' düzenlemesi bulunmaktadır.
@@ -135,8 +133,6 @@ Dosya kapsamındaki bilgi ve belgelerin incelenmesinde; davacının davalı şir
 
 ## Antalya BAM 7. HD 2024/1093 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1084971300)
-
 Dava, taraflar arasındaki kat karşılığı inşaat sözleşmesinin davalı tarafça feshinin geçersiz olduğunun tespiti ve uğranıldığı iddia olunan maddi zararların tazmini istemine ilişkindir.
 
 …
@@ -169,8 +165,6 @@ Dosyanın incelenmesinde; davacıların, davalı STS Grup Yapı İnşaat Tur. Mi
 ŞTİ.'ne ve ...'a devredeceğinin kararlaştırıldığı, bu anlaşma doğrultusunda davacılar tarafından davalı şirkette yer alan hisselerin ...'ın sahibi olduğu TUAZ Yapı şirketine 29.04.0021 tarihinde devredildiği ve resmi ortaklıktan çıkılarak gayri resmi - gizli ortak olarak kalınmaya devam edildiği, tarafların ortak olduğu projenin haricen öğrenildiği üzere bitme aşamasına geldiği, kat irtifakı kurularak 3. Şahıslara devir yapılmaya başlandığı belirtilerek, davalı STS Grup'un kurtulma amacı olan ve yürüttüğü İstanbul İli, Pendik İlçesi, Dumlupınar Mah. 8502 Ada, 11 nolu parselde bulunan taşınmaz üzerine 3. Kişilere devrini önleyecek mahiyette ihtiyati tedbir konulmasını, şirketin banka hesaplarına ihtiyati tedbir konulmasına, şirketin şuanda müvekkilleri tarafından yönetilememesi sebebiyle şirkete bir mali müşavir ve bir inşaat mühendisinden oluşan kayyım heyetinin tedbiren atanmasının talep edildiği, ilk derece mahkemesince ihtiyati tedbir talebinin reddine karar verildiği, verilen karara karşı davacılar vekilince istinaf kanun yoluna başvurulduğu anlaşılmıştır.
 
 ## Bursa BAM 5. HD 2024/1083 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148371500)
 
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ:İlk derece mahkemesince yapılan duruşma sonucunda, tapu iptali ve tescili istemli açılan davada tedbire konu taşınmazın davanın konusu teşkil etmesi ve HMK.nun 389 madde koşullarının mevcut olması dolayısıyla ihtiyati tedbir kararı verildiği, verilen tedbir kararının belirlenen teminat tutarının dosya kapsamına uygun olduğu, ihtiyati tedbir kararının verilme koşullarında herhangi bir değişiklik olmadığı gerekçesiyle davalı ... vekilinin tedbire itirazının reddine karar verilmiştir.
 

@@ -71,8 +71,6 @@ Genel kurul kararı yoklukla malûl ise, buna dayanılarak yapılan satış ile 
 
 ## İzmir BAM 22. HD 2026/855 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201646400)
-
 Burada öncelikle belirtilmesi gereken husus, TMK'nın 1020. maddesi uyarınca tapu sicilinin açıklığı ilkesidir. Gerçekten, anılan hükme göre tapu sicili herkese açıktır. Hiç kimse de tapu sicilindeki kaydı bilmediğini ileri süremez. Öte yandan aynı yasanın 1023. maddesi gereğince de, tapu kütüğündeki tescile iyiniyete dayanarak mülkiyet veya bir başka ayni hak kazanan üçüncü kişinin bu kazanımı korunur. Açıklanan bu ilkelere göre, ihtiyati tedbir şerhinin 08.06.2018 tarihinde işlendiği gözetildiğinde, tapu sicilinin aleniliği ilkesi ve TMK'nın 1023. maddesinde sözü edilen iyiniyet kuralı uyarınca kayda 07.12.2016 tarihinde lehine ipotek tesis edilen davalı bankanın iyiniyetli olduğunun kabulü zorunludur. Davacı, ayni hak sahibi bankanın diğer tarafla el ve işbirliği yaparak kötüniyetle ipotek tesis ettiğini iddia edip kanıtlamadan iyiniyetli davalının kazandığı ayni hakkın korunması gerekir.
 
 ## İstanbul BAM 17. HD 2026/388 K.

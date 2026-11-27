@@ -62,6 +62,4 @@ Ev başkanının kendine düşen özen ve gözetim görevini yerine getirip geti
 
 ## Konya BAM 3. HD 2024/2453 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095783100)
-
 Ayırt etme gücüne sahip küçükler tarafından haksız fiilin işlenmesi durumunda sorumluluk iki çeşittir. Küçük, 6098 Sayılı TBK 49. maddesi uyarınca haksız fiilin faili olarak, anne ve babası ise 4721 Sayılı TMK 369. maddesi uyarınca ev başkanı olarak zarar görene karşı sorumludurlar. Her iki sorumluluk da birbirinden farklı hukuki nedenlere dayalı olup, zarar gören küçüğe ve ev başkanına karşı birlikte veya ayrı ayrı davalar açabilir. Aynı zarardan her ikisi de kendi malvarlıkları ile ayrı ayrı sorumlu olurlar. Haksız fiili gerçekleştiren kişi, davanın açıldığı tarihte ergin olsa bile, bu durum 4721 Sayılı TMK 369. maddesinde düzenlenmiş bulunan ev başkanının sorumluluğunu ortadan kaldırmamaktadır.

@@ -173,8 +173,6 @@ Sadece bu tescil işleminin yapılması, mülkiyet hakkının doğması için ye
 
 ## Konya BAM 5. HD 2020/952 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727461000)
-
 Davacı vekili 19/06/2018 tarihli dilekçesi ile harca esas dava değerinin artırılarak 300.00,00 TL olarak kabulü ile davalılardan ... ... .... ve ... adına kayıtlı olan arsa paylarının 3. Şahıslara devir ve temlikinin önlenmesi için ihtiyati tedbir kararı verilmesini talep etmiş ıslah harcını yatırdığı görülmüştür.
 
 Davalı .... vekili cevap dilekçesinde özetle; Müvekkili ile davacı arasında akdedilmiş bir sözleşme bulunmadığını, dava dilekçesi ile sunulan sözleşmeyi kabul etmediklerini, dava konusu hisselerin davacı şirketten, bedeli ödenmek suretiyle satın alındığını, müvekkil tarafından, hukuken iyi niyetli 3. kişi olarak kabul edilen diğer davalılara yapılmış olan devirlerin de geçerli olduğunu, bu devirlere ilişkin müvekkil ile diğer davalılar arasında yapılmış olan sözleşmeler bulunduğunu, davacının açmış olduğu davasının reddi ile yargılama giderleri ile ücreti vekaletin davacıya yükletilmesine karar verilmesini talep etmiştir.

@@ -189,8 +189,6 @@ Borca katılma sözleşmesinin geçerliliği kanununda herhangi bir şekil şart
 
 ## Konya BAM 6. HD 2024/213 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/991740200)
-
 Ancak belirtmek gerekir ki, borca katılma her ne kadar kuruluş bakımından fer’i nitelik taşıyor ise de, katılma gerçekleştikten sonraki aşamada bağımsızlık söz konusudur. Şu halde, borca katılma yoluyla ortaya çıkan borcun ilk borca bağımlılığı yalnızca katılma anıyla sınırlı olduğundan, borca katılma fer’i nitelikte bir borç doğurmaz. Borca katılmanın düzenlendiği TBK’nun 201. maddesinde borca katılma sözleşmesi hakkında herhangi bir şekil şartı öngörülmemiştir. Özellikle kefalet sözleşmesine ilişkin şekil kurallarının uygulama alanını genişleten TBK’nun 603. maddesi bağlamında borca katılmanın kefaletin tabi olduğu şekil kurallarına tabidir.
 
 ## Adana BAM 5. HD 2021/2567 K.

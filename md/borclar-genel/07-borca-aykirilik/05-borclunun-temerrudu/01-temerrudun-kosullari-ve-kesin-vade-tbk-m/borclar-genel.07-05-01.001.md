@@ -247,8 +247,6 @@ Haksız fiilde sürücü ve işleten yönünden temerrüt olay tarihinden itibar
 
 ## Konya BAM 5. HD 2026/433 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201500900)
-
 Teslim zamanının gelmesine rağmen eseri tamamlamayan veya tamamladığı halde teslim etmeyen yüklenici temerrüde düşer. Temerrüdün şartları bakımından TBK'nın 117 vd. Hükümleri eser sözleşmesinde teslim borcunu ifada temerrütte de uygulanır. Gerek fiili zarar gerek yoksun kalınan kâr, gecikme tazminatının kapsamına dahildir. Buna göre işsahibi, üretim veya kira kaybından, kredi faizlerinin artmasından veya daha fazla kredi faizi ödemekten doğan veya cezaî şartlar gibi üçüncü kişilere ödediği tazminatlardan kaynaklanan zararının yükleniciden talep edebilir. İşsahibi teslim borcunu ifada temerrüde düşen yükleniciye bir ihtar çekerek vereceği ek sürenin sonuçsuz kalması üzerine sözleşmeden dönerek menfi zararının tazminini de talep edebilir.
 
 ## Ankara BAM 42. HD 2026/173 K.
@@ -267,7 +265,5 @@ Borcun ifa edilmemesinin sonuçları, Türk Borçlar Kanunu'nun 112 ile 126. mad
 Aynı Kanun'un 126. maddesinde ise ifasına başlanmış sürekli edimli sözleşmelerde, borçlunun temerrüdü hâlinde alacaklının, ifa ve gecikme tazminatı isteyebileceği gibi, sözleşmeyi feshederek, sözleşmenin süresinden önce sona ermesi yüzünden uğradığı zararın giderilmesini de isteyebileceği hüküm altına alınmıştır.
 
 ## Konya BAM 6. HD 2024/1205 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044836400)
 
 Borcun ifa edilmemesinin sonuçları 6098 sayılı Türk Borçlar Kanununun 112. vd. maddelerinde düzenlenmiştir. Karşılıklı borç yükleyen sözleşmelerde borçlunun temerrüdü halinde alacaklının seçimlik hakları ise TBK 125. maddesinde düzenlenmiş olup, TBK'nın "Seçimlik Haklar" başlıklı 125. maddesi; "Temerrüde düşen borçlu, verilen süre içinde, borcunu ifa etmemişse veya süre verilmesini gerektirmeyen bir durum söz konusu ise alacaklı, her zaman borcun ifasını ve gecikme sebebiyle tazminat isteme hakkına sahiptir.

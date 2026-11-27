@@ -136,13 +136,9 @@ TMK’nın 24. ve BK’nın 49. maddesinde belirlenen kişisel çıkarlar, kişi
 
 ## Ankara BAM 21. HD 2022/201 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/738942100)
-
 Buna göre manevi zarar, kişilik değerlerinde oluşan objektif eksilme olup, duyulan acı, çekilen ızdırap manevi zarar değil onun görüntüsü olarak ortaya çıkabilmektedir. Kişilik hakları ise, kişisel varlıkların korunmasıyla ilgilidir. Türk hukuk uygulaması, yerleşik yargısal kararlar nazara alındığında, kişilik haklarından yararlandıkları ölçüde tüzel kişilerin de TBK'nın 58. maddesindeki koşulların gerçekleştiği durumlarda manevi tazminat isteme hakkına sahipti olduğu kabul edilmektedir. Diğer bir anlatımla tüzel kişiler de, nitelikçe gerçek kişilerin kişiliklerine özge olanların dışında kişilik haklarına sahip olup, bunlara saldırı durumunda manevi tazminat istemeleri olanaklıdır.
 
 ## Ankara BAM 26. HD 2021/2263 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706053300)
 
 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 56. maddesinde bedensel zararlardan doğan manevi tazminat düzenlenmiş ve bir kimsenin bedensel bütünlüğünün zedelenmesi durumunda, Hâkimin olayın özelliklerini göz önünde tutarak, zarar görene uygun bir miktar paranın manevi tazminat olarak ödenmesine karar verebileceği, ağır bedensel zarar veya ölüm hâlinde ise zarar görenin veya ölenin yakınlarının da manevi tazminat olarak uygun bir miktar paranın ödenmesini talep edebileceği hüküm altına alınmıştır.
 

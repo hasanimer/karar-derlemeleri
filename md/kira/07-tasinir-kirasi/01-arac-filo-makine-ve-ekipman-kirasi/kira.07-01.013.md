@@ -59,15 +59,11 @@ Dosya kapsamından; davacının ZMS sigortacısı, davalının ise maliki-ZMS si
 
 ## Antalya BAM 6. HD 2023/1063 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896873300)
-
 Somut olayda, davalının bahsi geçen araç kira sözleşmesinin tarafı olmadığı açıktır. Kaldı ki davacı taraf icra takibine konu edilen bononun kira sözleşmesine teminat olarak verilmiş bir bono olduğunu da iddia etmemiştir. Davaya konu bononun kendisine hileli davranışlarla imzalatıldığı, üzerinin sonradan doldurulduğu iddiasında bulunmuştur. Görev hususu kamu düzenine ilişkin olup mahkemesince re’sen yargılamanın her aşamasında öncelikle gözetilmesi gerekir. Her ne kadar mahkemece, davaya konu senedin araç kira ilişkisine
 
 istinaden düzenlendiği, taraflar arasındaki uyuşmazlığın kira ilişkisinden kaynaklandığı gerekçesiyle görevsizlik kararı verilmiş ise de görevli mahkeme Asliye Ticaret Mahkemeleri olduğundan ilk derece mahkemesinin görevsizlik kararının kaldırılması gerektiği değerlendirilmiştir. (Emsal Yargıtay 20. Hukuk Dairesi'nin 13/10/2015 tarih 2015/4649 Esas 2015/9059 Karar, 31/01/2017 tarih 2016/14272 Esas 2017/637 Karar sayılı ilamları)…
 
 ## Bursa BAM 13. HD 2023/1007 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198141000)
 
 Mahkeme tarafından alınan iki bilirkişi raporunda makul tamir süresinin ve günlük araç kiralama bedelinin belirlenmesi açısından farklılıklar bulunması nedeniyle raporlar arasında çelişki bulunmakta olup, ilk makine mühendisi bilirkişi tarafından tanzim edilen raporda davacıya ait araçta meydana gelen hasar ve aracın özellikleri dikkate alınarak yapılan piyasa araştırması neticesinde araçtaki hasarın niteliğine göre, araç onarım süresinin 36 gün olarak ve emsal araç kiralama bedeli günlük 400,00.-TL olarak belirlenmesi ile yıpranma payı bakım masrafı ve genel masraflar düştükten sonra bakiye miktarın tespit edilmiş olması karşısında gerek onarım süresi, gerekse emsal araç kiralama bedelinin hasarın niteliğine ve piyasa şartlarına uygun düştüğü anlaşılmakla ilk bilirkişi raporunun hükme esas alınması gerekirken denetime açık olmayan ve hesap hataları bulunan ikinci raporun hükme esas alınması yerinde olmadığından davalı vekilinin istinaf isteminin bu yönüyle kabulü gerekmiştir.
 

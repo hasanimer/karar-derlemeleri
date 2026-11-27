@@ -31,8 +31,6 @@ olduğundan akdin tarafı olduğu, davacı sigorta şirketinin rücu davasını 
 
 ## Ankara BAM 22. HD 2022/927 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784113000)
-
 Takipte talep edilen alacağın bir kısmının iş makinesi kira bedelinden bir kısmının ise borç para verme ilişkisinden kaynaklandığı, talep edilen alacağın yoğunluğunun borç para verme ilişkisinden kaynaklandığı, takibe itiraz üzerine tüm alacak için iş bu itirazın iptali davasının açıldığı, itirazın iptali davasının niteliği gereği mahkemenin görevli olduğu anlaşılmıştır.
 
 ## Ankara BAM 27. HD 2022/697 K.

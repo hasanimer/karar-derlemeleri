@@ -86,7 +86,5 @@ Genel olarak sağlık hizmeti giderleri, fatura ile ispat edilmelidir. Ancak baz
 
 ## Gaziantep BAM 3. HD 2024/711 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037550500)
-
 4\. 4721 sayılı Türk Medeni Kanunu'nun 6 ve HMK'nın 190. maddeleri uyarınca taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür. Yine, gerek doktrinde gerekse ........... içtihatlarında kabul edildiği üzere; ispat yükü, hayatın olağan akışına aykırı durumu iddia eden ya da savunmada bulunan kişiye düşer. Bu kabul, adi karine niteliğindedir. Nitekim; Yargıtay'ın istikrar bulmuş içtihatlarında kabul edildiği üzere, bir sözleşme fesih ya da başka bir nedenle ortadan kaldırılmadıkça, o sözleşme kapsamında kalan işlerin, o sözleşmenin yüklenicisi tarafından yapıldığı kabul edilir. Ancak, sözleşme feshedilmiş ve işin üçüncü kişiye yaptırıldığı ileri sürülmüşse, bu kez karine, üçüncü kişi yararına oluşmaktadır. Elbette, her iki durumda da, bu karinelerin aksini ileri süren tarafın, bu savunmasını kanıtlanması mümkündür. Somut olayda davacı, takip konusu alacağa konu işleri bitirerek teslim ettiğini, davalının faturalara itiraz etmeyerek kabul ettiğini, buna rağmen ............ tarihli .......... numaralı ........... TL faturanın .......... TL'lik kısmını, ......... tarihli .......... numaralı ....... TL tutarlı, ............. numaralı ..........
 TL tutarlı faturalar toplam .............. TL 'yi ödemediğinden icra takibi yaptıklarını iddia etmiştir.

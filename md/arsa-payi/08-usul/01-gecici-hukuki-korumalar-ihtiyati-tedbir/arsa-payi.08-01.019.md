@@ -53,8 +53,6 @@ Bursa ...... Asliye Ticaret Hukuk Mahkemesi'nin ...... Esas sayılı ve ....... 
 
 ## Ankara BAM 21. HD 2021/956 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671424700)
-
 İlk derece mahkemesince duruşma açılarak yapılan inceleme sonunda; mahkemece 25/03/2021 tarihinde davalıların müdürlük yetkilerinin kayyım denetimine bırakılmasına ve davalı gerçek kişilerin şirket müdürü sıfatıyla şirket adına gerçekleştireceği şirket aktifini azaltıcı tüm iş ve işlemlerin dava sonuçlanıncaya kadar kayyım onayına tabi tutulmasına karar verildiği, gelinen süreçte Mahkeme dosyasına sunulan yeni delil ve belge olmadığı, Mahkemece verilen kararın yerinde olduğu gerekçesiyle, davalı vekilinin tedbir kararına yönelik itirazının reddine karar verilmiştir.
 
 …
@@ -112,8 +110,6 @@ Genel Kurul kararlarının iptali ise 445. maddede iptal sebepleri başlığı i
 Her ne kadar mahkeme gerekçesinde iddiaların yargılamayı gerektirdiği ifadelerine yer verilmiş ve söz konusu iş bu ifadeler geçici hukuki koruma niteliğindeki tedbir talebine uygun düşmemiş ise de sonuca etkili görülmemiştir. Diğer yandan davacının ihtiyati tedbir talebine ilişkin istemlerinin kabulü halinde davanın esası hakkında hüküm tesisi sonucunu doğuracağındın bu hususun ise ihtiyati tedbire dair yasal düzenlemelere aykırı olacağından davacı vekilinin istinaf başvurusunun reddine dair karar verilmesi gerekmekle aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Ankara BAM 23. HD 2021/416 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/639228900)
 
 Mahkemece "Dosya kapsamına, sunulan delillere göre; davaya onu Kat Karşılığı İnşaat sözleşmesinin Ankara Batı 3. Asliye Hukuk Mahkemesinin .... sayılı dosyası ile geriye etkili feshedildiği, davanın terditli ikame edilişi, dosyamız arasına alınan bilgi ve belgelerden durum ve koşulların değiştiği anlaşılmakla İhtiyati tedbir kararının kaldırılmasına, Etimesgut Tapu Müdürlüğüne müzekkere yazılarak MAhkememize görevsizlikle gelen eski Sincan Tüketici Mahkemesinin ....sayılı dosyası üzerinden verilen tedbir kararının kaldırılmasına," karar verilmiştir.
 
@@ -187,8 +183,6 @@ Ancak yargılama sürecinde taşınmaz üzerinde ki ; kat karşılığı inşaat
 HÜKÜM:Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun KABULÜNE, İstanbul Anadolu 5. Asliye Ticaret Mahkemesi'nin 2016/1325 Esas-2019/575 Karar sayılı ve 24/05/2019 tarihli hükmünün, HMK.'nun 353(1)b-2 maddesi gereği KALDIRILMASINA; İlk derece yargılamasına ilişkin olarak; 1-Davanın kabulü ile 237.000-euronun 142.200 eurosuna 04/02/216 tarihinden ve 94.800- eurosuna 08/03/2016 tarihinden tahsil tarihine kadar 3095 sayılı kanunun 4.a maddesi uyarınca kamu bankalarınca 1 yıllık vadeli euro mevduata uygulanan en yüksek mevduat faizi oranında faiz işletilerek davalıdan alınarak davacıya verilmesine …
 
 ## Konya BAM 5. HD 2020/653 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718728000)
 
 Geçici hukuki korumanın türlerinden olan ihtiyatî haciz, alacaklının para alacağının ödenmesini güvence altına almak için borçlunun mal veya mallarına mahkeme kararıyla konulan geçici haciz işlemidir. Bu nedenle ihtiyati haciz kararı verilebilmesi tam ispata göre kolaylaştırılmış bu ispat ölçüsü çerçevesinde, tam kanaat değil, kuvvetle muhtemel, yaklaşık bir kanaat yeterli görülmektedir. Hemen belirtmek gerekir ki yaklaşık ispat aranması, ispat kurallarının dışına çıkılarak her hangi bir emare ile yetinilmesi anlamına gelmez. Bu yüzden ihtiyati haciz talep eden geçerli ispat kuralları çerçevesinde iddiasını yaklaşık da olsa ispat etmelidir. Yaklaşık ispat sağlandıktan sonra, iddianın doğruluğu ağırlıklı olarak kabul edilmekle birlikte, aksinin mümkün olduğu ihtimali de göz ardı edilmemelidir. Bu nedenle, ihtiyati hazce karar verilirken, talebin haksız olma ihtimali de dikkate alınarak talepte bulunandan kural olarak yeterli ölçüde teminat alınmalıdır.
 

@@ -27,8 +27,6 @@ belirtildiği, davacı vekilinin MTK'nın 15/A.1(e) bendine dayalı iptal sebepl
 
 ## Konya BAM 5. HD 2022/1601 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854490800)
-
 Eser sözleşmeleri için Viyana Satım Sözleşmesi’nin uygulanabilmesi, imalat veya üretim için gerekli malzemenin satıcı tarafından temin edilmesine bağlıdır. Somut olayda davacı yabancı şirketin, malzemelerin kendisi tarafından temin edildiğine ilişkin bir iddiası olmadığına göre taraflar arasındaki sözleşmenin Türkiye Cumhuriyeti Anayasası’nın 90.maddesinin son fıkrasındaki hüküm nedeniyle Viyana Satım Sözleşmesi ( CISG)’nin 3. maddesi gereğince satım sözleşmesi olarak kabulü gerekmektedir.
 
 ## İstanbul BAM 14. HD 2019/765 K.

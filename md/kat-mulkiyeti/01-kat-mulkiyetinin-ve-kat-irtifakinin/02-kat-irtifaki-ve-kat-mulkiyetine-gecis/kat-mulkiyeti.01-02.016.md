@@ -52,8 +52,6 @@ Her ne kadar davalı sigorta şirketi yönünden görevli mahkeme Asliye Ticaret
 
 ## Denizli BAM 2. HD 2025/339 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113772900)
-
 634 sayılı Kat Mülkiyeti Kanunu'nun Ek 1.maddesinde, "kat mülkiyetinden kaynaklanan her türlü uyuşmazlığın değerine bakılmaksızın Sulh Hukuk Mahkemesi'nde çözümleneceği" ve 17/3. maddesinde ise "kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa, kat mülkiyetine geçilmemiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır" düzenlemesine yer verilmiştir.
 
 ## İstanbul BAM 45. HD 2024/1279 K.
@@ -82,8 +80,6 @@ Hukuk Dairesinin 2014/24538 Esas 2017/6908 Karar sayılı ve 2016/10303 Esas, 20
 İnşaat ile kooperatif üyelerinin sözleşmenin tamamlanması aşamasından başlamak üzere kooperatif üyelerinin dairelerin teslimine kadar olan süreç içinde, inşaatın ruhsatlandırması, kat irtifakı kurulması, daire paylaşımının yapılması, inşaatların her aşamasında sözleşmeye uygun olarak yapılmasını kontrol edilmesi, kademeli olarak inşaat imalatına seviyesine göre teminat ipoteklerin çözülmesi konularında rapor tutulması aşamalarından oluştuğu, dava dışı şirket ile davalı kooperatif üyeleri arasında yapılan anlaşmalardan bahsedilmekle birlikte inşaatın ruhsatlandırılması, kat irtifakının kurulması, daire paylaşımının yapılmasını, inşaatların sözleşmeye uygun olarak yapılmasının kontrol edilmesi gibi konularda dosyaya sunulan herhangi bir bilginin bulunması sözleşmenin davalı tarafından sonra erdirildiği ana kadar davacının davalı dan sözleşmeye dayalı olarak aylık ücret talep edebileceği ve dolayısıyla davacının, davalıdan bakiye 41.000,00 TL talep edebileceği görüş ve kanaatine varıldığı belirtilmiştir.
 
 ## Antalya BAM 11. HD 2023/1678 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960721900)
 
 634 sayılı Kat Mülkiyeti Kanunu'nun 14/1. maddesi uyarınca, henüz yapısı yapılmamış veya yapısı tamamlanmamış bir arsa üzerinde kat irtifakı kurulması ve tapu siciline tescil edilebilmesi için o arsanın malikinin veya bütün paydaşlarının 12. maddenin (a) bendine uygun olarak düzenlenen proje ile (b) bendindeki yönetim planını tapu idaresine vererek bu konuda istemde bulunmaları gerekir. Kat irtifakı, mutlaka arsa malikinin veya birden çok maliki varsa tüm paydaşların ortak rızası ve Tapu İdaresine başvurması ile konulur. Bu konuda hakim kararıyla diğer paydaş ya da paydaşların yerine geçmek suretiyle karar verilemeyecektir (Yargıtay 23. Hukuk Dairesi'nin 30.10.2013 tarih ve 4775 E., 6640 K.; 28.02.2014 tarih ve 2013/7095 E., 2014/1449 K.; 28.04.2016 tarih ve 689 E., 2754 K. sayılı ilamları). Bu görev, idari merciye ait olduğundan sadece taraflara ait bağımsız bölümlerin gösterildiği ve mahkemece düzenletilen liste göz önüne alınarak ileride kat irtifakı kurulmasına esas olmak üzere ait oldukları bağımsız bölümler de gösterilmek suretiyle pay tesciline karar verilmesi şeklinde hüküm kurulması gerekmektedir (Yargıtay 23.
 Hukuk Dairesinin 10.07.2013 tarih ve 2656 E., 4851 K. sayılı ilamı).
@@ -118,8 +114,6 @@ Asıl davada davacı vekili, taraflar arasında kat karşılığı inşaat sözl
 zararlarar oluşacağından taşınmazların 3. kişilere devir ve temlikinin önlenmesi amacıyla ihtiyati tedbir kararı verilmesine, davalılara fazladan verilen mesken ve dükkanların tapularının iptali ile davacı müvekkili adına tapuya kayıt ve tesciline, bu olmadığı taktirde 30.000.000,00 TL tazminatın davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
 
 ## Konya BAM 5. HD 2023/45 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/861518600)
 
 O halde ilk derece mahkemesince, tedbir talebi üzerine, taşınmaza ilişkin tapu kaydı, mimari proje ve yapı ruhsatı getirtilerek konusunda uzman bilirkişiden davaya konu bağımsız bölüme kat irtifakı kurulması halinde isabet edecek olan arsa payının ve değerinin belirlenmesi için rapor alınması ve belirlenen arsa payının değeri üzerinden peşin harç yatırıldıktan sonra belirlenen arsa payı kadar davalının taşınmazda üçüncü kişilere devir yapmaması yönünde taşınmazın tapu kaydına tedbir şerhi konulmasına karar verilmesi gerekirken, eksik incelemeyle yazılı şekilde karar verilmesi doğru olmamıştır.
 

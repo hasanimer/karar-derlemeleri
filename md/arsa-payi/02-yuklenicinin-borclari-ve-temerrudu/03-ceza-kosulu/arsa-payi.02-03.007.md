@@ -50,8 +50,6 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekillerinin isti
 
 ## Antalya BAM 7. HD 2023/974 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/948913800)
-
 Davacı vekili açtığı dava ile, davacı yüklenici ile davalı arasında yapılan yazılı sözleşme ile davalıya ait Denizli Merkez ... köyü ... parsel sayılı taşınmazın bulunduğu alanda ...
 
 …
@@ -69,8 +67,6 @@ Davalı vekili cevabında, zaman aşımının gerçekleştiğini, 2003 tarihli s
 Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye GÖNDERİLMESİNE …
 
 ## Antalya BAM 7. HD 2023/930 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940415500)
 
 Blok ... nolu ve ... nolu bağımsız bölümler için devam edilmesi gerektiği, davacının fazla imalat bedeli olarak talep ettiği imalatların, bilirkişi raporlarında belirlendiği üzere arsa sahibine ve müteahhide ait tüm bağımsız bölümlerde yapılan fazla imalatlar olduğu, Yargıtayın istikrarlı içtihatları ile benimsendiği üzere ortak alanlarda ve tam bağımsız bölümlerde yapılan fazla işlerin tüm tarafların yararına olacağı için buna ilişkin bedel talebinde bulunamayacağından, birleşen dosya davacısının fazla imalat bedeline ilişkin davasının reddine karar verilmesi gerektiği, düzenleme biçiminde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinin 7. maddesinde "haklı bir sebebe dayanmaksızın sözleşmenin feshine sebep olan ve bu sözleşme şartlarına aykırı davranan taraf karşı tarafa ceza olarak 100.000,00 TL öder" şeklinde cezai şart hükmünün düzenlendiği, somut olayda sözleşmenin feshinin söz konusu olmadığı gibi, davalı arsa sahibinin sözleşmeye aykırı davranarak iş bitim evraklarını imzalamadığı, yeni istekler ileri sürerek işi sürüncemede bıraktığı, dürüstlük kuralına aykırı davranarak davacının edimini yerine getirmesine engel olduğu iddiası ile 100.000,00 TL cezai şart
 talep etmiş ise de, asıl dava gerekçesinde belirtildiği üzere yüklenicinin işi ayıplı ve eksik olarak imal ettiği, inşaatın yapım aşamasında ayıplı imalat ile ilgili olarak arsa sahibinin noter aracılığı ile gönderdiği ihtarnamelerin dosya içinde bulunduğu, yine sözleşmeye göre işin bitim tarihinin 15/01/2010 tarihi olduğu halde genel iskanın 15/06/2010 tarihinde alındığı, dolayısı ile davacının bu talebinin haksız olduğu anlaşılmakla reddine karar verilmesi gerektiği, sözleşmeye göre yüklenicinin toplam 22 mesken, 2 dükkan ve ...

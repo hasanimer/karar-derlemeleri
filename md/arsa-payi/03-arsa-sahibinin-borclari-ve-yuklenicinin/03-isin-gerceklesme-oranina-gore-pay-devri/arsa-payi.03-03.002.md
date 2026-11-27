@@ -36,8 +36,6 @@ Uygulamada da davalıya ait bütün bağımsız bölümlerin üzerine ihtiyati t
 
 ## Bursa BAM 14. HD 2025/1077 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156921600)
-
 Davacı vekili, davalılardan ....
 
 …

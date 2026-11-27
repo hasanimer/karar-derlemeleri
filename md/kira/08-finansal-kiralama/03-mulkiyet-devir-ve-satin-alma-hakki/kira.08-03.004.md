@@ -28,8 +28,6 @@ Somut olayda, dava konusu uyuşmazlık, davacının aralarındaki ticari ilişki
 
 ## Gaziantep BAM 11. HD 2026/144 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195090300)
-
 6361 sayılı .. Şirketleri Kanununun "Sözleşmenin şekli ve tescili" başlıklı 22/I maddesine göre; "Finansal kiralama sözleşmesi, yazılı veya uzaktan iletişim araçlarının kullanılması suretiyle mesafeli olarak ya da mesafeli olsun olmasın Kurulun yazılı şeklin yerine geçebileceğini belirlediği ve bir bilişim veya elektronik haberleşme cihazı üzerinden gerçekleştirilecek ve müşteri kimliğinin doğrulanmasına imkân verecek yöntemler yoluyla
 
 kurulacak şekilde düzenlenir ve buna ilişkin usul ve esaslar Kurul tarafından belirlenir. Taşınmaz mallara ilişkin sözleşmeler taşınmazın bulunduğu tapu kütüğünün şerhler hanesine, kendilerine mahsus özel sicili bulunan taşınır mallara dair sözleşmeler bu malların kayıtlı oldukları sicile tescil ve şerh olunur ve kiralayan tarafından ayrıca Birliğe bildirilir." Bu maddeye göre finansal kiralama sözleşmelerinin yazılı yapılması şekil şartıdır. Davacı finansal kiralama sözleşmesinin sözlü olarak kurulduğunu belirtmiş olup, dosyaya sunulan ödeme dekontları ile çeklerin sözlü olarak kurulduğunu belirttiği finansal kiralama sözleşmesinin ödemeleri mi yoksa başka konuya ilişkin ödemelere ilişkin mi olduğu yargılama aşamasında belli olacağından yaklaşık ispat koşulunun gelinen aşamada gerçekleşmediği anlaşılmaktadır.
@@ -42,8 +40,6 @@ Bunun yanında her ne kadar mahkemece davalı yan yönünden husumete yönelik d
 Noterliğinin 05/08/2021 tarih ve 21362 yevmiye sayılı sözleşme ile mülkiyetinin de adı geçen ....l isimli firmaya devir edildiği gözönüne alınmakla birlikte 6361 sayılı yasa dayanak tutulmak suretiyle imzalanan finansal kiralama sözleşmesi gereğince sigorta primlerinin kiracı tarafından yapılacağı sigortanın ise kiralayan tarafından yapılacağı gözönüne alındığında mahkemece davalı yana husumete yönelik incelemesinin eksik bir inceleme olduğu, uzun süreli kira sözleşmesinin daha nitelikli içeriklerini barındıran finansal kiralama sözleşmesi çervesinde davalı ile dava dışı şirket arasında imzalanan sözleşme gözönüne alındığında davalının husumet nedeniyle davanın reddine dair savunmasına itibar edilmesi gerektiği anlaşılmakla bu yönden varılan kanaatin yerinde olmadığı anlaşılmıştır.
 
 ## Konya BAM 6. HD 2025/1469 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184428300)
 
 6361 sayılı Finansal Kiralama Faktoring ve Finansman Şirketleri Kanunu'nun 9/2. maddesi ''Faktoring şirketi kurulca belirlenen usul ve esaslar çerçevesinde kambiyo senetlerine dayalı olsa bile, bir mal ve hizmet satışından doğmuş fatura ile tevsik edilemeyen alacaklar ile kurulca belirlenen usul ve esaslar çerçevesinde tevsik edilemeyen mal veya hizmet satışına bağlı doğacak alacakları devir alamaz veya tahsilini üstlenemez'' hükmünü içermektedir. Yasa metninden de anlaşılacağı üzere, faktoring şirketinin, faktoring işlemi ile devraldığı alacak, alacağın temliki hükümlerine tabidir. Nitekim, faktoring işlemlerinde alacağın temliki hükümlerinin uygulandığı Yargıtay Hukuk Genel Kurulu'nun 03.11.2010 tarih, 2010/19-488 E, 2010/557 K. sayılı kararında da açıkça belirtilmiştir. Öte yandan aynı kararda faktoring işleminin müşteri (firma), faktoring şirketi (faktor) ve borçlu olmak üzere üç tarafının bulunduğu da açıklanmıştır. Faktoring işleminin bu tarafları arasındaki ilişkiler yönünden 6361 sayılı Yasanın 9/2 ve 6098 sayılı TBK'nın 188/1.maddesi hükümlerinin
 
@@ -102,8 +98,6 @@ Tarafından 22.06.2023 tarihinde davalı ... A.Ş.'ye devredildiği, ... tarafı
 
 ## Gaziantep BAM 17. HD 2025/693 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155538300)
-
 3.3.Davaya konu iş makinesi finansal kiralama yoluyla davacı tarafından kiralanmış olup asıl malik . .. Kaza tarihi itibariyle yürürlükte olan 6361 sayılı .. Kiralama Kanunu'nun 23. Maddesinde "Finansal kiralama konusu malın mülkiyeti kiralayana aittir". düzenlemesi yapılmış ve finansal kiraya konu malın mülkiyetinin kiraya verende olacağı kabul edilmiştir. Ancak, anılan Kanun'un 24.maddesinde "Kiracı, sözleşme süresince finansal kiralama
 
 konusu malın zilyedi olup, sözleşmenin amacına uygun olarak her türlü faydayı elde etme hakkına sahiptir." düzenlemesi ile, malı fiilen kullanma hakkının ve malın zilyetliğinin kiracıda olacağı kabul edilmiştir. Bu yasal düzenlemelerin sonucu olarak ve finansal kiralama konusu aracın işleteni kiracı olacaktır. ..Davacının işleten sıfatını haiz olduğu kabul edilerek ceza ve iş dosyaları getirtilerek kusur durumunun değerlendirilmesi, davacının iç ilişkide rücu edebileceği miktar belirlenerek sonucuna göre karar verilmesi gerekir.
@@ -155,8 +149,6 @@ sözleşmedeki adresinde usulüne uygun tebliğ edildiği, alınan denetime elve
 Maddesi gereğince teslim alındığı şekilde kiralayana iadesi şartlarının oluştuğu , davalının pandemi nedeniyle ödeme güçlüğüne düştüğünü bu sebeple edimini yerine getiremediği savunmasının, ülkemizde bazı sektörler hariç iş yerlerinin faaliyetlerinin durdurulmadığı ve uzun süreli bir kapanma dönemi uygulanmadığı dikkate alındığında temerrüt tarihi itibariyle sözleşmesel edimlerin yerine getirmemesinde makul bir neden sayılamayacağı, ve temerrüdün gerçekleştiği sonucunu değiştirmeyeceği, mahkemece teslime dair hüküm kurulması suretiyle davanın kabulü kararının dosya kapsamına ve hukuka uygun olduğu anlaşılmıştır.Davalı vekilinin İstinaf başvurusunun HMK 353/1-b-1 maddesi gereğince esastan reddine karar verilmesi gerektiği kanaat ve sonucuna varılarak aşağıdaki hüküm kurulmuştur.
 
 ## Antalya BAM 11. HD 2025/28 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118047400)
 
 6361 Sayılı Finansal Kiralama ... ve Finansman Şirketler Kanunu'nun 9/2. maddesinde; "... şirketi kurulca belirlenen usul ve esaslar çerçevesinde kambiyo senetlerine dayalı olsa bile, bir mal veya hizmet satışından doğmuş fatura ile tevsik edilemeyen alacaklar ile kurulaca belirlenen usul ve esaslar çerçevesinde tevsik edilemeyen mal veya hizmet satışına bağlı doğacak alacakları devir alamaz ve tahsilini üstlenemez." hükmü düzenlenmiştir.
 

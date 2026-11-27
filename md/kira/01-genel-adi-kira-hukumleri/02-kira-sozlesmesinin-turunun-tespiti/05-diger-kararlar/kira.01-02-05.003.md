@@ -177,8 +177,6 @@ Maddesindeki " İş bu sözleşme bir kiralama sözleşmesi değildir" hükmün�
 
 ## Gaziantep BAM 4. HD 2025/1910 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1166980800)
-
 Kira sözleşmesi TBK madde 299’da; “Kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.” şeklinde tanımlanmıştır.
 
 ## İstanbul BAM 13. HD 2025/421 K.
@@ -233,7 +231,5 @@ Maddesinde kira sözleşmesi "kiraya verenin bir şeyin kullanılmasını veya k
 TBK'nun 299.maddesinde ''Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.'' şeklinde düzenleme bulunmaktadır.
 
 ## İzmir BAM 23. HD 2024/1418 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058905600)
 
 6098 sayılı TBK'nun 299. maddesinde ''Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir '' şeklinde belirtilerek kira sözleşmesinin tanımı yapılmıştır.

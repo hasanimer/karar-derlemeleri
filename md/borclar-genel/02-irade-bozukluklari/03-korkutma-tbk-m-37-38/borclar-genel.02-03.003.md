@@ -43,8 +43,6 @@ TBK'nın 38.maddesine göre korkutulan, içinde bulunduğu durum bakımında ken
 
 ## Ankara BAM 22. HD 2023/974 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913239500)
-
 Kabul edilmelidir ki, TBK'nın 39. (BK'nın 31.) maddesindeki sürenin işlemeye başlamasında, iradeyi sakatlayan nedenin (korkutma) önem derecesi ancak iradesi sakatlanan kimse tarafından doğru şekilde takdir edilebilir. Olaya bu açıdan bakıldığında ikrahın (korkutmanın) önemini yitirdiği an, iradesi sakatlanan kişi için korkunun silindiği, diğer bir deyişle korkutan kişi ya da kişilerin yarattığı korkutmadan kaynaklanan zarar görebilme yönündeki endişenin ortadan kalktığı, kendisini psikolojik açıdan güven içerisinde hissettiği andır.
 
 ## Ankara BAM 22. HD 2023/171 K.
@@ -67,12 +65,8 @@ Bilindiği gibi, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 37. maddesine gö
 
 ## Ankara BAM 22. HD 2022/6 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728183600)
-
 Bilindiği gibi, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 37. maddesine göre, bir kimse karşı tarafın veya üçüncü bir kişinin kendisi veya yakınlarının maddi veya manevi varlığına yönelik hukuka aykırı ve esaslı korkutması sonucu yaptığı sözleşme ile bağlı sayılamaz. TBK'nin 38. maddesinde belirtildiği gibi, korkutmadan (ikrah-tehdit) söz edilebilmesi için, korkutmanın sözleşmeyi yapan kimsenin veya yakınlarının kişilik haklarına veya mal varlıklarına yönelik olması, korkutmaya maruz kalanın sübjektif durumuna göre ağır ve derhal meydana gelebilecek nitelik taşıması, haksız (hukuka aykırı) sayılması, illiyet bağının bulunması yani sözleşmenin korkunun yarattığı etki sonucu yapılması zorunludur. Bu koşulların varlığı halinde iradesi sakatlanan taraf, isterse iptal hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili(makable şamil) olarak ortadan kaldırabilir.
 
 ## Ankara BAM 22. HD 2021/2275 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720937500)
 
 Bilindiği gibi, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 37. maddesine göre, bir kimse karşı tarafın veya üçüncü bir kişinin kendisi veya yakınlarının maddi veya manevi varlığına yönelik hukuka aykırı ve esaslı korkutması sonucu yaptığı sözleşme ile bağlı sayılamaz. TBK'nin 38. maddesinde belirtildiği gibi, korkutmadan (ikrah-tehdit) söz edilebilmesi için, korkutmanın sözleşmeyi yapan kimsenin veya yakınlarının kişilik haklarına veya mal varlıklarına yönelik olması, korkutmaya maruz kalanın sübjektif durumuna göre ağır ve derhal meydana gelebilecek nitelik taşıması, haksız (hukuka aykırı) sayılması, illiyet bağının bulunması yani sözleşmenin korkunun yarattığı etki sonucu yapılması zorunludur. Bu koşulların varlığı halinde iradesi sakatlanan taraf, isterse iptal hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili(makable şamil) olarak ortadan kaldırabilir.

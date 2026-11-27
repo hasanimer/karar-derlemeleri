@@ -56,8 +56,6 @@ Gecikme tazminatı kural olarak sözleşmede kararlaştırılan teslim tarihinde
 
 ## Antalya BAM 7. HD 2024/758 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047189800)
-
 3.4. İş sahibi, eserin tesliminden sonra işlerin olağan akışına göre imkan bulur bulmaz eseri gözden geçirmek ve açık ayıpları uygun bir süre içerisinde (TBK'nın 474. md.), gizli ayıpları da gecikmeksizin yükleniciye bildirmek zorundadır. (TBK'nın 477. md.)Usulüne uygun olarak bildirimde bulunmak şartıyla iş sahibi TBK 475. maddesinde düzenlenen seçimlik haklardan birini kullanabilir. İş sahibi, teslim aldığı eseri gözden geçirmediği veya gözden geçirdikten sonra gördüğü ayıbı yükleniciye bildirmediği taktirde, yasanın ayıptan dolayı kendisine tanıdığı seçimlik hakları kaybeder.
 
 …

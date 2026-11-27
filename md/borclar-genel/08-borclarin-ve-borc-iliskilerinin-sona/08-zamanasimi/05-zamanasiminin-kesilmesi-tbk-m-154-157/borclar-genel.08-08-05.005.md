@@ -260,8 +260,6 @@ Her ne kadar davacı taraf icra takibinin başlamasıyla zamanaşımının kesil
 
 ## Antalya BAM 16. HD 2024/488 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1114638900)
-
 6098 Sayılı TBK 154. maddesinde zamanaşımını kesen nedenler gösterilmiştir. Aynı maddenin 2.fıkrası uyarınca, dava açılması veya "icra takibi yapılması" zamanaşımını kesen nedenlerdendir. Kanunun 156. maddesi ise, zamanaşımının kesilmesi halinde yeni bir sürenin işlemesi gerektiğini açıkça belirtmiştir.
 
 ## İzmir BAM 20. HD 2024/240 K.
@@ -283,7 +281,5 @@ Olay tarihinde yürürlükte olan 818 sayılı Borçlar Kanunu'nun 133/1. (6098 
 Zamanaşımının durması demek, o ana kadar işlemiş olan zamanaşımı süresinin işlediği noktada durması, buna yol açan sebebin ortadan kalktığı andan itibaren kaldığı yerden işlemeye devam etmesi demektir. Zamanaşımının kesilmesi (kat'ı) ise, borçlunun veya alacaklının ya da hâkimin belli fiillerinin sonucu olarak işlemiş bulunan zamanaşımı süresinin yanması ve kesilmeye neden olan olaydan itibaren yeni bir zamanaşımı süresinin işlemeye başlamasıdır. Zamanaşımının kesilmesi için, zamanaşımının işlemekte olması gerekir. Zamanaşımı süresi dolmuşsa, zamanaşımının kesilmesi söz konusu olmaz. Zamanaşımını kesen sebepler (TBK m. 154 ve 157) gösterilmiştir. Bu maddelere göre zamanaşımı: borçlunun bir fiili ile; alacaklının bir fiili ile; yargılama ve takibe ilişkin bir işlemle; yargıcın emir ve hükmüyle kesilebilir.
 
 ## Ankara BAM 31. HD 2022/485 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766290100)
 
 TBK'nın 154. maddesinde (818 sayılı BK. 133) zamanaşımını kesen durumlar açıklanmıştır. Düzenlemeye göre, borçlunun borcunu ikrar etmesi, faiz ödemesi, kısmi ifada bulunması, rehin vermesi veya kefil göstermesi, alacaklının dava veya defi yoluyla hakeme veya mahkemeye başvurması, icra takibinde bulunması ve iflas masasına başvurması hallerinde zamanaşımı kesilir. Zamanaşımının kesilmesiyle, yeni bir süre başlar. Aynı Kanun'un 156 ncı maddesi, zamanaşımının kesilmesi halinde yeni bir sürenin işlemeye başlayacağını, 157 nci maddesinde ise, zamanaşımı icra takibiyle kesilmiş ise, alacağın takibine ilişkin her işlemden sonra yeniden başlayacağı belirtilmiştir (Yargıtay 3. Hukuk Dairesi, 2021/8435 Esas, 2022/433 Karar).

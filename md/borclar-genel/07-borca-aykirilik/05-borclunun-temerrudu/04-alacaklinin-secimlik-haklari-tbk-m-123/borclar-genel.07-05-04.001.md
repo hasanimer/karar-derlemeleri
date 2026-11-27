@@ -238,6 +238,4 @@ BK.nun 106.maddesinin 1.fıkrasına göre karşılıklı taahhütleri havi olan 
 
 ## Konya BAM 6. HD 2024/1205 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044836400)
-
 Borcun ifa edilmemesinin sonuçları 6098 sayılı Türk Borçlar Kanununun 112. vd. maddelerinde düzenlenmiştir. Karşılıklı borç yükleyen sözleşmelerde borçlunun temerrüdü halinde alacaklının seçimlik hakları ise TBK 125. maddesinde düzenlenmiş olup, TBK'nın "Seçimlik Haklar" başlıklı 125. maddesi; "Temerrüde düşen borçlu, verilen süre içinde, borcunu ifa etmemişse veya süre verilmesini gerektirmeyen bir durum söz konusu ise alacaklı, her zaman borcun ifasını ve gecikme sebebiyle tazminat isteme hakkına sahiptir.

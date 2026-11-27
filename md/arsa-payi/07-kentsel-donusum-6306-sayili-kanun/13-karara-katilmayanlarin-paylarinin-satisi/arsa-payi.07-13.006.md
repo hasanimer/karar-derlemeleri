@@ -79,8 +79,6 @@ Muğla Asliye Ticaret Mahkemesi'nin 06.12.2023 tarih ve 2021/9 Esas, 2023/891 Ka
 
 ## Konya BAM 6. HD 2024/1356 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060777100)
-
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: İlk derece mahkemesince; "… Davacının terditli taleplerinden olan tapu iptal ve tescil talebi yönünden Mahkememizce yapılan değerlendirmede; Mahkememizde görülmekte olan iş bu davanın tarafları ve konularının aynı olduğu Konya .. Asliye Ticaret Mahkemesinin ...
 
 …

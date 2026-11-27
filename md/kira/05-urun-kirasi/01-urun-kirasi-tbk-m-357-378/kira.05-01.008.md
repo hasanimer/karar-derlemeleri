@@ -144,8 +144,6 @@ Diğer bir anlatımla taraflar arasında 6098 Sayılı TBK'nun ürün kirasına 
 
 ## Konya BAM 4. HD 2022/1751 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775311000)
-
 TBK'nın 357/2. maddesine uygun ürüne katılma kira sözleşmesine dayalı olarak düzenlenen bonodan kaynaklı icra tehdidi altında ödenen paranın istirdadı istemiyle açılan davada; davalıya ait olan tarlanın 01.08.2021 tarihli ortaklık sözleşmesi adı altında bakım, tüm masraflar davacıya ait olarak davacı tarafından kullanılması karşısında malik olan davalıya mahsulün 1/3'ü verilecek olup, taraflar arasındaki bu ürüne katılma sözleşmesine dayalı
 
 olarak verilen bono nedeniyle açılan davada görevli mahkeme, görevsizlik kararı veren ilk derece mahkemesinin gerekçesinde belirtildiği üzere Sulh Hukuk Mahkemesidir.

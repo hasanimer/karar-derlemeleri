@@ -106,8 +106,6 @@ Yargıtay ilamı ışığında somut olaya bakıldığında; "..." adi ortaklık
 
 ## Ankara BAM 31. HD 2022/297 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/742158300)
-
 Dava, eser sözleşmesinden kaynaklanan itirazın iptali istemine ilişkindir.
 
 …
@@ -117,8 +115,6 @@ Dava, eser sözleşmesinden kaynaklanan itirazın iptali istemine ilişkindir.
 Açıklanan bu olgular ışığında; somut olayda dosya içerisinde bulunan takip talebi ve örnek 7 numaralı ödeme emrinin incelenmesinde, takip talebinde "...... denilmiş ve adi ortaklığın kimlerden oluştuğu açıklanmamıştır. Takipte adi ortaklık adına tek bir ödeme emri çıkartılmış olup, adi ortaklığı oluşturan şirketler adına ayrı ayrı çıkartılmış ve tebliğ edilmiş bir ödeme emri bulunmadığı gibi adi ortaklığı oluşturan şirketler adına sunulan vekâletname de bulunmamaktadır. Dava dilekçesinde ise adi ortaklığı oluşturan şirketler ayrı ayrı gösterilmiştir. Adi ortaklığa karşı yapılacak icra takibinin, tüm ortaklara yöneltilmesi gerektiği gibi, dava itirazın iptâli olduğundan talep borçlusu ile davalının farklılık arzetmemesi gerekmektedir. Bu durumda, adi ortaklığa yöneltilmiş usulüne uygun bir icra takibi bulunmamaktadır. Taraf ehliyeti kamu düzeninden olup, mahkemece kendiliğinden göz önüne alınarak ve dava şartı yokluğundan reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Antalya BAM 7. HD 2022/250 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/741262000)
 
 Dava, eser sözleşmesi kapsamında iş bedelinden kaynaklanan alacağın tahsili için yürütülen ilamsız icra takibine vaki davalının itirazının iptali istemine ilişkindir.
 
@@ -141,8 +137,6 @@ Dava, taraflar arasında imzalanmış olan taşeron sözleşmesi kapsamında yap
 Talep para alacağına ilişkin olduğundan ve TBK hükümleri gereğince adi ortaklık ortakları arasında müteselsil sorumluluk esası geçerli olduğundan alacaklı ortakların tamamına müracaat edebileceği gibi, ortaklardan birine veya birkaçına karşı da müracaat edebilecektir. Buna göre davalının davada taraf olma ehliyeti bulunduğundan aksi yönde kanaatle dava şartı yokluğundan davanın reddine dair verilen karar usul ve yasaya aykırı olmuştur.
 
 ## Ankara BAM 27. HD 2021/422 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653412600)
 
 Rücuen alacak isteminin tahsili için Ankara 6. İcra Müdürlüğü'nün ... sayılı dosyasında alacaklı olarak yukarıda belirtildiği üzere ödeme yapan ... ... San. ve Tic. A.Ş. tarafından davalı şirketler aleyhine ilamsız icra takibi başlatıldığı, bu nedenle davanın dayanığı dikkate alındığında adi ortaklığı oluşturan diğer ... ... Şubesi'nin davacı olarak mecburi dava arkadaşı olarak yer alması gerekmediğinden mahkemece ... ... Şubesi yönünden taraf sıfatı olmadığından aktif dava ehliyeti yokluğu nedeniyle davanın reddine karar verilmesi gerekirken, hatalı değerlendirmeyle ... ... Şubesi'nin taraf olarak kabul edilip bu davacı yönünden davanın kabulüne karar verilmesi doğru olmamış, davalılar vekilinin bu hususa ilişkin istinaf başvurusunun kabulü gerekmiştir.
 

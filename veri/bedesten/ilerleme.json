@@ -1,5 +1,5 @@
 {
- "baglanti_mrfg_id": 76544,
+ "baglanti_mrfg_id": 75914,
  "bedesten_kontrol": {
   "tutar": 160
  },
@@ -8,44 +8,52 @@
  "derleme": {
   "adi-ortaklik": {
    "eslesmedi": 116,
-   "kesin": 2305
+   "kesin": 2228,
+   "olasi": 77
   },
   "arsa-payi": {
    "cok_aday": 4,
    "eslesmedi": 460,
    "kapsam_disi": 78,
-   "kesin": 7413
+   "kesin": 7274,
+   "olasi": 139
   },
   "arsa-payi-ilk": {
    "eslesmedi": 32,
-   "kesin": 40
+   "kesin": 39,
+   "olasi": 1
   },
   "borclar-genel": {
    "cok_aday": 5,
    "eslesmedi": 351,
-   "kesin": 3396
+   "kesin": 3320,
+   "olasi": 76
   },
   "bosanma": {
    "cok_aday": 60,
    "eslesmedi": 462,
    "hatali_kunye": 14,
-   "kesin": 26601
+   "kesin": 26574,
+   "olasi": 27
   },
   "cisg": {
    "eslesmedi": 1,
-   "kesin": 21
+   "kesin": 20,
+   "olasi": 1
   },
   "ecrimisil": {
    "cok_aday": 1,
    "eslesmedi": 85,
    "hatali_kunye": 1,
-   "kesin": 3309
+   "kesin": 3302,
+   "olasi": 7
   },
   "el-atma": {
    "cok_aday": 1,
    "eslesmedi": 239,
    "hatali_kunye": 1,
-   "kesin": 6049
+   "kesin": 6038,
+   "olasi": 11
   },
   "fidic": {
    "kapsam_disi": 88,
@@ -64,20 +72,22 @@
   "kat-mulkiyeti": {
    "cok_aday": 4,
    "eslesmedi": 62,
-   "kesin": 5645
+   "kesin": 5617,
+   "olasi": 28
   },
   "kira": {
    "cok_aday": 6,
    "eslesmedi": 729,
    "hatali_kunye": 27,
    "kapsam_disi": 2,
-   "kesin": 14142,
-   "olasi": 43
+   "kesin": 13905,
+   "olasi": 280
   },
   "mal-rejimi": {
    "eslesmedi": 58,
    "hatali_kunye": 1,
-   "kesin": 3120
+   "kesin": 3119,
+   "olasi": 1
   },
   "muris-muvazaasi": {
    "eslesmedi": 6,
@@ -93,16 +103,19 @@
   "tapu-tescil": {
    "eslesmedi": 93,
    "kapsam_disi": 3,
-   "kesin": 359
+   "kesin": 352,
+   "olasi": 7
   },
   "temel-ilkeler": {
    "cok_aday": 2,
    "eslesmedi": 166,
-   "kesin": 301
+   "kesin": 288,
+   "olasi": 13
   },
   "yukleniciden-satin-alan": {
    "eslesmedi": 49,
-   "kesin": 142
+   "kesin": 137,
+   "olasi": 5
   }
  },
  "eslesmedi": 3062,
@@ -119,12 +132,14 @@
   "hatali_kunye": 44,
   "kapsam_disi": 183,
   "kisa_alinti": 2,
+  "metin_numarasi_farkli": 27,
+  "metinde_karar_no_yok": 603,
   "veri_setinde_anahtar_yok": 2802
  },
- "olasi": 81,
+ "olasi": 711,
  "son_checkpoint": "parti 08 (70001-80000) 2026-11-27T18:52:52",
- "son_commit": "d7944ae Bedesten: batch 07 — 10,000 processed, 9,842 linked (mrfg_id), 20 Bedesten-checked",
- "son_push": "d7944ae",
+ "son_commit": "97e3d3d Bedesten: batch 08 — 10,000 processed, 9,768 linked (mrfg_id), 20 Bedesten-checked",
+ "son_push": "97e3d3d",
  "toplam_kunye": 133954,
  "tur": {
   "aym": {
@@ -133,8 +148,8 @@
   "bam": {
    "eslesmedi": 1092,
    "hatali_kunye": 15,
-   "kesin": 5910,
-   "olasi": 3
+   "kesin": 5280,
+   "olasi": 633
   },
   "danistay": {
    "eslesmedi": 169,

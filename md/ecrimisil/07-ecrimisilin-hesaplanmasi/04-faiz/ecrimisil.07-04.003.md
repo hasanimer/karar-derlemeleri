@@ -49,8 +49,6 @@ Ecrimisil alacaklarından dönem sonlarından itibaren faize hükmedilmesi gerek
 
 ## Denizli BAM 1. HD 2025/1298 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171693300)
-
 Dava, şahsi hakka dayalı ecrimisil alacağının tahsili için yapılan takibe itirazın iptali istemine ilişkindir.
 
 …

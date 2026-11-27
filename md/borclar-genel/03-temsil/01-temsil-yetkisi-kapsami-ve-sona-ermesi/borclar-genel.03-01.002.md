@@ -132,8 +132,6 @@ Kural olarak 6098 Sayılı TBK'nın 40. maddesi hükmüne göre, yetkili bir tem
 
 ## Antalya BAM 11. HD 2025/125 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126516900)
-
 Yetkisiz temsil TBK’nın 46 ve 47. maddelerinde düzenlenmiştir. Yetkisiz temsilde temsilcinin yaptığı sözleşme, kurulmuş olmakla birlikte yetkisiz temsil olunanın hukuk alanında hüküm ve sonuçlarını doğurmaz. Temsil olunan onayıncaya kadar sözleşme, eksik bir sözleşmedir. Bu durumda “askıda hükümsüzlük” söz konusu olur. Temsil olunan, yetkisiz temsilcinin yaptığı işlemleri onayabilir. Bu durumda TBK’nın 46. maddesi gereğince, yetkisiz temsilcinin yaptığı işlem temsil olunanı bağlar. Onama, yetkisiz temsilci tarafından yapılan bir hukukî işleme veya sözleşmeye, daha sonra temsil olunanca verilen onaydır. Onama için herhangi bir özel şekil şartı bulunmamaktadır. Onama, geçmişe etkili sonuçlar doğurur. Böylece onama, yetkisiz olarak yapılan sözleşmeyi sanki baştan itibaren temsil yetkisi varmış gibi geçerli hâle getirir.
 
 ## İstanbul BAM 43. HD 2024/594 K.
@@ -151,25 +149,17 @@ Bu husus TBK'nun 46. maddesinde; "Bir kimse yetkisi olmadığı hâlde temsilci 
 
 ## Antalya BAM 7. HD 2023/526 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897849000)
-
 3.3.Uyuşmazlık açısından “yetkisiz temsil” kavramının da kısaca açıklanması gerekmektedir. Bir kimsenin temsil yetkisi olmadığı hâlde başka bir kişi adına bir hukukî işlem veya sözleşme yapması, yetkisiz temsil olarak ifade edilmektedir. Burada yetkisi olmadan başkası adına hukukî işlem yapan kişiye “yetkisiz temsilci” denir. Yetkisiz temsilin söz konusu olabilmesi için birtakım şartların gerçekleşmiş olması gerekmektedir. Öncelikle, yetkisiz temsilci ile üçüncü kişi arasında bir sözleşme yapılmış olmalıdır. Yetkisiz temsilcinin, bu sözleşmeyi başka biri özellikle temsil olunan adına yapmış olması gerekir. Nihayet temsilen işlem yapan, temsil yetkisine sahip olmamalıdır. Yetkisiz temsil TBK’nın 46 ve 47. maddelerinde düzenlenmiştir. Yetkisiz temsilde temsilcinin yaptığı sözleşme, kurulmuş olmakla birlikte yetkisiz temsil olunanın hukuk alanında hüküm ve sonuçlarını doğurmaz. Temsil olunan onayıncaya kadar sözleşme, eksik bir sözleşmedir. Bu durumda “askıda hükümsüzlük” söz konusu olur. Temsil olunan, yetkisiz temsilcinin yaptığı işlemleri onayabilir. Bu durumda TBK’nın 46. maddesi gereğince, yetkisiz temsilcinin yaptığı işlem temsil olunanı bağlar.
 Onama, yetkisiz temsilci tarafından yapılan bir hukukî işleme veya sözleşmeye, daha sonra temsil olunanca verilen onaydır. Onama için herhangi bir özel şekil şartı bulunmamaktadır. Onama, geçmişe etkili sonuçlar doğurur. Böylece onama, yetkisiz olarak yapılan sözleşmeyi sanki baştan itibaren temsil yetkisi varmış gibi geçerli hâle getirir.
 
 ## Ankara BAM 31. HD 2022/98 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726668400)
-
 6098 Sayılı Türk Borçlar Kanunu’nun 547/1 maddesi hükmü uyarınca, ticari temsilci, işletme sahibinin ticari işletmeyi yönetmek ve işletmeye ilişkin işlemlerde ticaret ünvanı altında ticari temsil yetkisi ile kendisini temsil etmek üzere açıkça ya da örtülü olarak yetki verdiği kişidir. Ticari temsilci, bir işletmenin tüm işlerini idareyle görevlendirilen ve böylece işletmenin belirli yetkilere sahip idarecisi niteliğinde olan ve adeta işletmenin sahibi gibi işletme konusuna giren tüm işleri yapabilme yetkisine sahip bulunmaktadır. Ticari temsilcinin temsil yetkisi, işletme sahibine ya da tüzel kişiliğe sahip işletmelerde temsile yetkili olanın tek taraflı bir hukuki işlemine dayalıdır. Herhangi bir şekil koşuluna tabi olmamakla birlikte yasal düzenlemeler çerçevesindeki yerleşik uygulamada, işletme sahibinin bu konudaki tek taraflı hukuki işleminin, genellikle yazılı bir vekâletname verilmesi şeklinde gerçekleştiği kabul edilmektedir.
 
 ## Ankara BAM 31. HD 2022/89 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728691100)
-
 Kural olarak 818 sayılı BK'nın 32 ve 6098 Sayılı TBK'nın 40. maddesi hükümlerine göre, yetkili bir temsilci tarafından bir başkası adına ve hesabına yapılan hukuki işlemin sonuçları, doğrudan doğruya temsil olunanı bağlar, alacak ve borçları temsil olunana intikâl eder. Hukuki muamelede bulunanın yetkili temsilci olmaması halinde, temsil olunanı bağlamayacağından şahsen sorumlu olur. Ancak 818 Sayılı BK'nın 38 ve 6098 sayılı TBK'nın 46. maddelerinde, bir kimsenin yetkisi olmadığı halde temsilci olarak bir hukuki işlem yaptığı ve bu işlemi temsil olunan tarafından onandığı ve icazet verildiği taktirde temsil olunanı bağlayacağı kabul edilmiştir (Yargıtay (kapatılan) 15. Hukuk Dairesi, 2019/3309 Esas, 2020/1951 Karar).
 
 ## Ankara BAM 31. HD 2022/54 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726666200)
 
 6098 Sayılı Türk Borçlar Kanunu’nun 547/1 maddesi hükmü uyarınca, ticari temsilci, işletme sahibinin ticari işletmeyi yönetmek ve işletmeye ilişkin işlemlerde ticaret ünvanı altında ticari temsil yetkisi ile kendisini temsil etmek üzere açıkça ya da örtülü olarak yetki verdiği kişidir. Ticari temsilci, bir işletmenin tüm işlerini idareyle görevlendirilen ve böylece işletmenin belirli yetkilere sahip idarecisi niteliğinde olan ve adeta işletmenin sahibi gibi işletme konusuna giren tüm işleri yapabilme yetkisine sahip bulunmaktadır. Ticari temsilcinin temsil yetkisi, işletme sahibine ya da tüzel kişiliğe sahip işletmelerde temsile yetkili olanın tek taraflı bir hukuki işlemine dayalıdır. Herhangi bir şekil koşuluna tabi olmamakla birlikte yasal düzenlemeler çerçevesindeki yerleşik uygulamada, işletme sahibinin bu konudaki tek taraflı hukuki işleminin, genellikle yazılı bir vekâletname verilmesi şeklinde gerçekleştiği kabul edilmektedir.

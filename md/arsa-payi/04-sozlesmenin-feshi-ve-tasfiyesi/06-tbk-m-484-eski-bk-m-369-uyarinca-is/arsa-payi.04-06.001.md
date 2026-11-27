@@ -225,8 +225,6 @@ Davacı/birleşen dosya davalısı istinaf başvurusunun HMK'nın 353/1-b.1 madd
 
 ## Ankara BAM 23. HD 2024/1783 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105707800)
-
 İlk derece Mahkemesince; "Toplanan deliller ve dosya içeriği birlikte değerlendirildiğinde, taraflar arasında benzer konuda görülen davada Ankara BAM 23.
 
 …

@@ -85,8 +85,6 @@ Maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtile
 
 ## Antalya BAM 14. HD 2025/755 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178790500)
-
 Öte yandan, birleşen davada manevi tazminat talebinin kısmen kabulüne karar verilerek birleşen dosya davalıları lehine maktu vekalet ücretini hükmedilmiş ise de AAÜT 10/2 maddesi gereğince manevi tazminat davasının kısmen reddi durumunda karşı taraf vekili yararına tarifenin üçüncü kısmına göre hükmedilecek ücretin davacı vekili lehine belirlenen ücreti geçemeyeceği hükmü gereğince birleşen dosyada, davalılar lehine davacı lehine belirlenen miktarı geçmemek üzere nispi vekalet ücreti takdir edilmesi gerekirken maktu vekalet ücretine hükmedilmesi doğru görülmemiştir.
 
 ## İstanbul BAM 44. HD 2025/1252 K.
@@ -166,13 +164,9 @@ tazminat davasının ayrı ayrı kısmen kabulüne fazlaya ilişkin talebin ise 
 
 ## Gaziantep BAM 17. HD 2025/913 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160219200)
-
 3.2.TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekâlet ücreti takdir edilemeyeceği yerleşik uygulama ile sabittir. (Yargıtay 17. Hukuk Dairesi 2015/17664 esas, 2018/4846 karar). Somut olayda ilk derece mahkemesince sürücünün alkollü olması nedeniyle araçta yolcu olarak bulunan davacının müterafik kusurundan dolayı % 20 oranında indirim yapıldığı, bu nedenle davanın kısmen kabulüne karar verildiği ancak reddilen kısım yönünden davalı lehine vekalet ücretine hükmedilmesi hatalı olmuştur.
 
 ## Gaziantep BAM 17. HD 2025/875 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163006500)
 
 TBK'nın 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddedilmesi halinde takdiri indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceğinden bu yönde karar verilmesine yer olmadığına,…
 
@@ -204,8 +198,6 @@ Asliye Ticaret Mahkemesi'nin 30.11.2021 tarihli kararı hakkında tavzih talebin
 Birleştirilen davada, davacı ... yönünden, manevi tazminat talebinin kısmen reddi nedeniyle, yargılamada kendisini vekil ile temsil ettiren davalılar lehine karar tarihinde yürürlükte bulunun AAÜT’nin 10. Maddesinin 2. Fıkrasında yer alan “Davanın kısmen reddi durumunda, karşı taraf vekili yararına bu Tarifenin üçüncü kısmına göre hükmedilecek ücret, davacı vekili lehine belirlenen ücreti geçemez.” düzenlemesi gereğince davalılar lehine 9.200,00 TL vekalet ücreti takdir edilmesi gerekirken 9.600,00 TL vekalet ücreti takdir edilmesi doğru değildir.
 
 ## Gaziantep BAM 17. HD 2025/612 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143646300)
 
 3.7.Dairemizce davanın kısmen kabulüne karar verilmiş ise de; sadece sürüş kusuru sebebiyle reddedilen kısım bakımından aleyhe vekalet ücreti ve yargılama giderine hükmedilmiş olup takdiri indirim sebebiyle reddedilen tazminat yönünde davalı aleyhine vekalet ücreti ve yargılama giderine hükmedilmemiştir.
 

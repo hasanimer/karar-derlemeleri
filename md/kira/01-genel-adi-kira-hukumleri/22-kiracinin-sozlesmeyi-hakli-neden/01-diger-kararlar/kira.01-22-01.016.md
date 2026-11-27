@@ -23,8 +23,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 7. HD 2023/930 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940415500)
-
 Blok ...-...-...ve ...nolu bağımsız bölümler ile ...Blok ...nolu bağımsız bölümde bulunan düğün salonunun 1/2 hisse tapusu olduğu, yargılama sırasında Şubat 2017 tarihinde ...ve ...nolu meskenin tapularının davacı şirkete devredildiği, düğün salonu için açılan davanın yargılama sırasında ıslah ile bedel davasına dönüştüğü ve bu taşınmaz için açılan davanın son celse verilen karar ile tefrik edildiği, bu durumda yüklenicinin dava tarihi itibariyle genel iskan alınmamış olması nedeniyle ...-...-...-...nolu bağımsız bölümlerin tapusunu hak etmediği gibi, inşaatın belirlenen tarihten sonra bitirilip genel iskansız olarak arsa sahibine teslim edilmiş olması, yine taraflar arasında asıl davadan sonra yapılan ve asıl dava gerekçesinde açıklanan 16/03/2010 tarihli protokole göre davacının Asliye Hukuk Mahkemesinde ve asıl dosyada açmış olduğu davalar için iki adet bağımsız bölüm ve düğün salonu %50 hissesi için hapis hakkı kullandığı da dikkate alındığında, dava tarihi itibariyle ...-...-...ve ...nolu bağımsız bölümler için kira kaybı alacağı bulunmadığının anlaşıldığı gerekçesiyle, asıl davada; ...Blok ...Nolu bağımsız bölüm (düğün salonu) için açılan davanın tefriki ile mahkemenin ayrı
 bir esasına kaydına, eksik, kusurlu, ayıplı ve nefaset gerektiren imalatlar için açılan davanın kısmen kabulü ile, 10.000,00 TL'nin dava tarihinden itibaren işleyen yasal faizi ile birlikte davalı yükleniciden alınarak davacıya verilmesine, davacının fazlaya ilişkin talebinin zaman aşımı defi nedeniyle reddine, arsa sahibine düşen bağımsız bölümlerde meydana gelen değer kaybı nedeniyle açılan davanın kısmen kabulü ile, 10.000,00 TL'nin dava tarihinden itibaren işleyen yasal faizi ile birlikte davalı yükleniciden alınarak davacıya verilmesine, davacının fazlaya ilişkin talebinin zaman aşımı defi nedeniyle reddine, davacının cezai şart alacağı için açtığı davanın reddine, birleşen davada, (mahkemenin ... E ... K), davacının cezai şart alacağı için açtığı davanın reddine, davacının fazla imalat bedeli ve kira kaybı bedeli için açtığı davanın reddine, davacının Antalya İli ... İlçesi ... Mah. ... ada, ... parselde kayıtlı ...
 
@@ -149,8 +147,6 @@ Bu açıklamalar uyarınca; eldeki davada taraflar arasında imzalanan mal alım
 mahkemece davalı şirket yönünden davanın kısmeni kabulü ile davalının takibe yönelik itirazının bu miktar üzerinden iptaline kararı verilmesi gerekirken yazılı şekilde davanın reddi doğru görülmemiş kararın kaldırılması gerektiği değerlendirilmiştir.
 
 ## Ankara BAM 23. HD 2021/972 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/664245300)
 
 Bozma ilamına uyulduğundan davalı kooperatifin aynı statüdeki üyeleri arasında aynı kurada çekilen villaların bazı ortaklara teslim edildiği, ortağın aidat borcu bulunmasının kira kaybı tazminatı istenmesine engel olmadığı, aynı konumda bulunan bir kısım üyenin konutunun tamamlanıp teslim edilmesi halinde, eşitlik ilkesi uyarınca konutu teslim edilmeyen üyenin teslim tarihine kadar kira bedeli isteyebileceği, davacının kooperatif ortaklığını eşinden tüm hak ve borçları ile birlikte devraldığı, buna göre, önceki dönem için de kira kaybı tazminatı isteyebileceği kabul edilmiştir.
 

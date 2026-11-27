@@ -49,8 +49,6 @@ Talebe konu faturanın içeriği işler, dava dayanağı olan 08/06/2015 tarihli
 
 ## Antalya BAM 7. HD 2023/752 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915307700)
-
 3.4. Davalılardan ... Ltd. Şti. alt yüklenici olup, diğer davalı şahısların sıfatları ve harici sözleşmeyi ne sebeple imzaladıkları yeterince araştırılmış değildir. Öncelikle, asıl yüklenici ile alt yüklenici arasında düzenlenmiş harici sözleşmelerde iş bedeli olarak devri taahhüt edilmiş bağımsız bölümlerin kat irtifakı tesisinden itibaren tüm tedavüllerini gösterecek şekilde tapu kaydı ile tüm satışlara ilişkin akit tabloları getirtilmeli, davalılardan ... ve ...'ın arsa sahibi olarak bağımsız bölümleri devreden şahıslar mı olduğu, yoksa arsa sahiplerinin vekili olarak tapuda devir yapan kişiler mi olduğu hususu araştırılmalı, bu kişilerin arsa sahiplerinin vekili olduğunun tespit edilmesi durumunda dava konusu alacak yönünden arsa sahipleri yerine, bu kişilere husumet düşüp düşmeyeceği, düşecekse ne sebeple husumet düşeceği ve sorumlu olup olmayacakları değerlendirilmeli ve sonucuna göre karar verilmelidir.
 
 ## Adana BAM 9. HD 2023/210 K.

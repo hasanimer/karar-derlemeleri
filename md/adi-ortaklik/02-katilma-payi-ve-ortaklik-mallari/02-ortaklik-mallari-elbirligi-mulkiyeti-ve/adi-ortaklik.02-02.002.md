@@ -141,8 +141,6 @@ Adi Ortaklığı'nın gösterildiği, bu talebe uygun olarak da ödeme emrinin d
 
 ## Gaziantep BAM 4. HD 2025/1967 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167501100)
-
 Dava; adi ortaklığın tasfiyesi ve alacak istemine ilişkindir.
 
 ..Asliye Hukuk Mahkemesince, uyuşmazlığın adi ortaklığın tasfiyesi olduğu, ancak davalıların birinin anonim şirket diğerinin ise davalı anonim şirketin kurucusu olduğu, adi ortaklık adına alındığı beyan edilen taşınmazların davalı şirket adına tescil edildiği, bu haliyle tasfiyesi istenen adi ortaklığın tarafların ticari işletmeleriyle ilgili olduğu, dolayısıyla görevli mahkemenin asliye ticaret mahkemesi olacağı, görev kurallarının kamu düzenine ilişkin olup yargılamanın her aşamasında mahkemece re'sen gözetilmesi gerektiği anlaşılmakla görevsizlik kararı verilmiştir.

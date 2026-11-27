@@ -232,8 +232,6 @@ delil sunmadığı anlaşıldığından mahkemece menfi ve müspet zarar taleple
 
 ## Antalya BAM 7. HD 2026/326 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207597000)
-
 Davacı vekili açtığı dava ile, davacı yüklenici ile davalı arasında yapılan yazılı sözleşme ile davalıya ait Denizli ... köyü ... parsel sayılı taşınmazın bulunduğu alanda ...
 
 …

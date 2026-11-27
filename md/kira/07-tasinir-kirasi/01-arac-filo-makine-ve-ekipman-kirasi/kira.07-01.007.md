@@ -79,8 +79,6 @@ arızalardan dolayı meydana gelen kaza veya olay nedeniyle emtiada oluşabilece
 
 ## Antalya BAM 11. HD 2025/1099 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184077500)
-
 Somut olayda davalı tarafından davacıya iş makinesi satıldığı konusunda ihtilaf bulunmadığı gibi uyuşmazlığa konu iş makinesinin satışının resmi şekilde yapılmadığı da sabittir. Davalı devir borcunu resmi şekilde yerine getirmemiş olup bu durumda taraflar bu sözleşmeden dolayı birbirlerine verdiklerini sebepsiz zenginleşme kuralları çerçevesinde geri isteyebileceklerdir. Davacı geçersiz şekilde yapılan bu satıştan dolayı davalıya 3 adet çek bedeli 236.040,00-TL ödeme yaptığını, davalıya ödediği bu bedelin kendisine ödenmesini talep etmiştir. Yapılan bu ödeme davalı tarafın da kabulündedir. Geçersiz sözleşmeye konu iş makinesinin davalı tarafa teslim edildiği anlaşılmaktadır. Zira davalı taraf ihtarnamelerinde iş makinesinin iadesini istemediği gibi 01/04/2015-08/01/2016 tarihlerini kapsar şekilde kira bedeli talebinde bulunmuştur. Davacı tarafın iş makinesi bedeli 236.040,00-TL ve yaptığı diğer giderlerin ödenmesi için davalıya Mersin 4.
 Noterliği'nin 24/02/2017 tarihli ....yevmiye numaralı ihtarnamesini çekerek 7 günlük ödeme süresi verdiği, tebliğ şerhinde muhatap şirket yönünden ihtarnamenin tebliğ edilemediğinin bildirildiği, ancak davalının 13/03/2017 tarihinde bu ihtara cevap verdiği anlaşılmaktadır. Bu nedenle ihtarın en geç 13/03/2017 tarihinde tebliğ edildiği kabul edilerek 7 günlük sürenin sonunda davalının bu borç için 20/03/2017 tarihinde temerrüde düştüğünün kabulü, ayrıca davacı taraf dilekçelerinde faiz türü belirtmediğinden yasal faize hükmedilmesi gerekmektedir. Böylelikle davanın kabulü ile 236.040,00-TL'nin 20/03/2017 tarihinden itibaren işleyecek yasal faizi ile davalıdan tahsili ile davacıya ödenmesine karar verilmesi gerekirken Yerel Mahkemenin davalının kira alacağının bulunduğu gibi makineyi geri almış olmasına rağmen tamir masraflarını da davacıdan talep edebileceğinin kabulü ile davacının davasının reddine karar vermesi hatalı olmuştur.
 
@@ -123,8 +121,6 @@ anlaşılmıştır. Mahkemece davanın kabulüne dair verilen karar sonucu itiba
 
 ## Gaziantep BAM 4. HD 2025/2184 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174089100)
-
 Taraflar arasında.. plakalı araç kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Davaya konu aracın kiracının zilyetliğinde iken hasara uğradığı, hasar kaybından doğan aracın değerinin azalması ve kilometre aşım bedeli nedeniyle alacak talep edildiği, ihtilafın kira sözleşmesinden kaynaklandığı, HMK'nun 4. Maddesi uyarınca kira ilişkisinden doğan İİK'nun ilamsız takibi haricinde tüm uyuşmazlıkların çözüm yerinin Sulh Hukuk Mahkemesi olduğu, böylelikle iş bu davanın konusunun kira sözleşmesinden kaynaklandığı, görevli mahkemenin Sulh Hukuk Mahkemesi olduğu, bu nedenle mahkemenin görevsizlik kararının yerinde olduğu anlaşılmıştır. HMK'nin 114/1-c maddesi uyarınca görev dava şartlarındandır ve yargılamanın her aşamasında resen dikkate alınması gerekir. Yetki itirazını inceleme işi ise görevli mahkemeye aittir.
 Yetki itirazı, görevli mahkemenin değerlendirilecek olup mahkemece görevsizlik kararı verilmesi usul ve yasaya uygun olup HMK 355. maddesi ile sınırlı olarak yapılan inceleme neticesinde ilk derece mahkemesi kararının usul ve yasaya uygun olması, kamu düzenine aykırı bir durumun da tespit edilememesi karşısında davalı vekilinin istinaf talebinin esastan reddine karar verilmesi gerektiği kanaatine varılarak aşağıdaki şekilde hüküm kurulmuştur.
 
@@ -144,8 +140,6 @@ Davacı tarafça sunulan sözleşme fotokopisinin incelenmesinde; ... ...Ltd.Şt
 'araçların araç kirası, sürücüsü ve sigortası dahil olmak üzere kiralandığının belirtildiği, sözleşmenin 12. maddesinde ise sözleşme bedeli kadar sözleşmeye ek teminat senedi verildiğinin belirtildiği anlaşılmıştır.
 
 ## Antalya BAM 11. HD 2025/847 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175920500)
 
 Bu durumda Mahkemece; taraflar arasında düzenlenen kasko sigorta poliçesindeki kullanım şekli klozunda belirtilen hususlar ile ve yine davalı tarafça dosyaya sunulan "araştırma raporu" başlıklı belgede beyan ve iddia edilen hususlar üzerinde durularak gerekirse kolluk araştırması da yapılarak, sürücü ile davacı malik arasındaki ilişkinin kapsamı, aracın sürücünün eline ne şekilde geçtiği, aracın kiraya verilip verilmediği, varsa kira sözleşmesinin ve kira bedelinin Emniyet Müdürlüğü KABİS sistemine, Maliye ve Vergi Dairelerine bildirilip bildirilmediği hususları araştırılarak ve yine gerekirse davacı şirketin rent a car işine ilişkin ticari defter ve kayıtları üzerinde uzman bilirkişi marifetiyle inceleme yaptırılmak suretiyle, araç kiralama ilişkisi varsa bunun fatura, ruhsat ve cari hesap hareketleri gibi yan delillerle desteklenip desteklenmediği hususlarında ayrıntılı, gerekçeli, denetime elverişli bir rapor alınarak sonucuna göre karar verilmesi gerekirken, eksik inceleme ve araştırma ile yazılı şekilde karar verilmesi doğru görülmemiştir.
 

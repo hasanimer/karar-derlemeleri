@@ -22,8 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 7. HD 2024/965 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072550900)
-
 Davacı vekilinin ara kararda belirtilen teminat miktarına, davalılar vekilinin ise tedbir kararının kaldırılması talebine yönelik itirazları, ilk derece mahkemesi tarafından duruşmalı olarak incelenmiş, mahkeme 13/12/2023 tarihli ara kararıyla, mahkemece mevcut bir durumda meydana gelebilecek değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkansız hale geleceğinden veya gecikme sebebiyle bir sakıncanın veyahut ciddi bir zararın doğacağından endişe edilmesi hallerinde ihtiyati tedbir kararı verilebilecek olması, ihtiyati tedbir talep eden tarafın dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorunluluğu bulunması, talep eden tarafından ortaya konulan delillerle geçici hukuki koruma için yaklaşık ispata yeter mahiyette olması, tapu iptal tescil davası kazanılsa dahi sonuçsuz kalmasının önlenmesi amacıyla ve gecikmesinde sakınca görülmesi nedeniyle, menfaatler dengesi de göz önünde bulundurularak, dava konusu taşınmazın bu aşamada değerinin belli olmaması nedeniyle, mahkemece uygun görülen 1.000.000,00 TL teminat karşılığında 3. kişilere
 devir ve temliki önler mahiyette ihtiyati tedbir kararı verilmesi gerektiği, dosya içeriği ve kapsamı ile iddiaların niteliği, menfaatler dengesi de nazara alındığında teminat miktarının uygun olduğu, zira dosya arasına da alınan ilanlardan görüleceği üzere aynı mahalde bulunan, dava konu taşınmazdan daha küçük taşınmazların dahi 20.000.000,00 ile 30.000.000,00 TL gibi fiyatlar üzerinden satılığa çıkartıldığı anlaşılmakla ve de taşınmazın değeri mahallinde yapılacak keşif ile belirlendikten sonra yeniden değerlendirme yapılması mümkün olmakla, davacı vekilinin teminat oranına yönelik itirazının ve yaklaşık ispatın sağlanmış olması nedeniyle davalı vekilinin ihtiyati tedbir kararının kaldırılmasına yönelik itirazlarının reddine karar vermek gerektiği gerekçesiyle, ihtiyati tedbire itirazın reddine karar vermiştir.
 
@@ -121,8 +119,6 @@ alacağı temininin mümkün olamayacağını belirterek, mahkeme ara kararını
 
 ## Antalya BAM 7. HD 2024/658 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039970100)
-
 Davacı vekili açtığı dava ile, davalılar arasında noterde kat karşılığı inşaat sözleşmesi düzenlendiğini, davalı yüklenicinin hak edişi olan ... , ... ve ... nolu bağımsız bölümleri davacıya sattığını, ancak tapu devri ya da temlike yanaşmadığını ileri sürerek ... ilçesi, ... mahallesi, ... ada ... parselde kayıtlı ... , ... ve ... nolu bağımsız bölümlerin davalı adına olan tapu kaydının iptali ile davacı adına tesciline, taşınmazlar üzerine satılmaması ve borçlandırıcı işleme konu edilmemesi için ihtiyati tedbir kararı verilmesini talep etmiştir.
 
 …
@@ -139,8 +135,6 @@ Bu sebeple davacı vekilinin teminata yönelik istinaf başvurusunun kabulü ile
 İlk derece mahkemesinin 26/07/2023 tarihli itirazın reddine dair ara kararının teminat miktarına itiraz yönünden ORTADAN KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2024/657 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042891000)
 
 Davacı vekili tarafından açılan dava ile, taraflar arasında 18/08/2020 tarihli ana yüklenici sözleşmesi imzalandığını, davacının .... ilçesi, ... mah. ... ada ... parseldeki taşınmazın anahtar teslim yapım işini üstlendiğini, davacıya hakedişi gereği verilmesi gereken bağımsız bölümler bulunduğunu, davacının sözleşme imzalandığında %25 olan seviyeyi %85'e ulaştırdığını, işlerin eksik olmasında dahi sözleşmeye göre inşaat seviyesine göre bağımsız bölüm tapusunun verilmesi gerektiğini, işin tamamına yakınının tamamlandığını ileri sürerek ... mah. ... ada ... parseldeki ... nolu bağımsız bölümler üzerine 28.000 Euro karşılığı teminatsız ihtiyati haciz konulmasına, bu bağımsız bölümlerin tapusunun iptaliyle davacı adına tesciline, ... ada ... parselde bulunan tüm taşınmazlar üzerine teminatsız ihtiyati tedbir konulmasına, tescil talebinin kabul edilmemesi halinde bağımsız bölümlerin piyasa rayicine uygun bedeli belirlenerek fazlaya ilişkin hakları saklı kalarak 28.000 Euro'nun, dövizle ödeme kabul edilmemesi halinde 518.988,40 TL'nin davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 

@@ -190,8 +190,6 @@ Kat Mülkiyeti Yasasının 19. maddesi hükmüne göre kat maliklerinden biri, d
 
 ## Denizli BAM 4. HD 2025/1277 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161880700)
-
 Davalı vekili cevap dilekçesinde özetle: Müvekkilinin kooferatifin ortağı olarak 11 nolu bağımsız bölümünü kullanma hakkına sahip olduğunu, müvekkilinin kendisine tahsis olunan 11 nolu bağımsız bölümün cephesinin güney - batı yönünde olması nedeniyle yaz aylarında güneşten korunmak için kendisine tahsis eline 11 nolu bağımsız bölümün bahçe bölümünde davacı kooperatif ortakları tarafından onaylanan "Site İşletme Ve Kullanımı Ana Yönergesi" uyarınca, yönergede belirlenen kriterlere uygun ve diğer ortakları rahatsız etmeyecek şekilde düzenleme yaptığını, davacı tarafından sunulan ...
 
 …

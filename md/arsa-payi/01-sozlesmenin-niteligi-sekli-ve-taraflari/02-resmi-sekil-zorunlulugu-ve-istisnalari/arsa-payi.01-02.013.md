@@ -22,8 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 7. HD 2025/521 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145109300)
-
 3.2. Temlik alacaklısı ... 'un iş sahibi ...'dan alacağını isteyebilmesi için, öncelikle temlik eden ... Turizm Tic. ve San. Ltd. Şti.' nin iş sahibi ...'dan temlik ettiği alacağı yüklenici olarak hak etmiş olması gerekir. Başka bir ifade ile yülenici olduğunu iddia eden ... Turizm Tic. ve San. Ltd. Şti. ancak doğmuş ve doğacak alacağını temlik edebilir. Bu sebeple uyuşmazlığı çözümü için ... Turizm Tic. ve San. Ltd. Şti. ile iş sahibi/ arsa maliki ... arasında düzenlenen harici sözleşmenin değerlendirilmesi ve temlike konu alacağın hak edilip edilmediğinin belirlenmesi gerekir.
 
 3.3. ... Turizm Tic. ve San. Ltd. Şti. ile ile ... arasında düzenlenen 22.4.2019 tarihli gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi taşınmaz devrini de içerdiğinden resmi şekilde yapılmadığı için kural olarak geçersizdir. Bilindiği gibi, 4721 sayılı Kanun'un 706/1, 6098 sayılı Türk Borçlar Kanunu'nun 237/1 ve 2644 sayılı Tapu Kanunu'nun 26. maddeleri gereğince, taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerli olması, resmî şekilde düzenlenmiş bulunmalarına bağlıdır. Ancak bu sözleşme önemli ve geri dönülemeyecek derecede ifa edilmiş ise, bu durumda TMK 2. maddesi hükmü de dikkate alınarak sözleşmenin geçersizliği artık ileri sürülemeyecektir. Bu harici sözleşmenin yapıldığı tarihte inşaat seviyesinin % 35 oranında olduğu sözleşme kapsamından anlaşılmaktadır.

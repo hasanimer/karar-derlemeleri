@@ -97,8 +97,6 @@ Maddede öngörülen bu süre hak düşürücü süre olup, re'sen mahkemece dik
 
 ## Antalya BAM 11. HD 2025/795 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176672100)
-
 6101 sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanun'un 5. maddesinde ise "Türk Borçlar Kanununun yürürlüğe girmesinden önce işlemeye başlamış bulunan hak düşürücü süreler ile zamanaşımı süreleri, eski kanun hükümlerine tabi olmaya devam eder. Ancak, bu sürelerin henüz dolmamış kısmı, Türk Borçlar Kanunu'nda öngörülen süreden uzun ise, yürürlüğünden başlayarak Türk Borçlar Kanunu'nda öngörülen sürenin geçmesiyle, hak düşürücü süre veya zamanaşımı süresi dolmuş olur" düzenlemesi yer almaktadır.
 
 ## İzmir BAM 17. HD 2022/386 K.

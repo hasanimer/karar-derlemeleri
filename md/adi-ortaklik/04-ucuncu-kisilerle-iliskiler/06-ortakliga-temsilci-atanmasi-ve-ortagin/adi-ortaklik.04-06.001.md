@@ -88,8 +88,6 @@ Adi ortaklıkta da ortaklardan birinin ya da haleflerinin tek başına dava açm
 
 ## Denizli BAM 4. HD 2025/2069 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184180700)
-
 Bu durumda yerel mahkemece adi ortaklık ilişkisinin var olduğu kabul edilerek adi ortağın tek başına dava açamayacağı gerekçesi ile aktif husumet yokluğundan reddedilen iş bu davada, davacı ... ile dava dışı .... arasında adi ortaklık ilişkisinin bulunup bulunmadığı bir ön sorun olarak görülerek, ....Asliye Hukuk Mahkemesinin (Asliye Ticaret Mahkemesi Sıfatı İle) derdest olan .... Esas sayılı dava dosyası ile iş bu dosyanın aralarında fiili ve hukuki irtibat bulunması ve aynı sözleşmeden kaynaklanması nedeni ile birleştirilmesi ve iddia edilen adi ortaklık hususunun ve buna bağlı olarak davacının aktif husumet ehliyetinin bulunup bulunmadığı hususunun her iki dava dosyası incelenerek irdelenmesi gerekir iken, yazılı şekilde karar verilmesi isabetsiz olmuştur.
 
 ## İstanbul BAM 16. HD 2020/2061 K.

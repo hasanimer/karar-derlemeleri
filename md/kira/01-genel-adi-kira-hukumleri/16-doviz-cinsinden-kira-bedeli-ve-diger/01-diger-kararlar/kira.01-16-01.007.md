@@ -23,8 +23,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Bursa BAM 14. HD 2025/1102 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157234800)
-
 Taraflar arasında davacının eski unvanı olan Selçuk İplik A.Ş. ile davalı şirket arasında Cenevre'de gerçekleştirilecek İndex20 fuarında kullanılmak üzere stant yapılması ve uygulanması konusunda "Stant Uygulama ve Kiralama Sözleşmesi" başlıklı eser sözleşmesi yapıldığı, sözleşme bedelinin toplam 15.930.-Euro olduğu, toplam bedelin %40'ı tutarındaki 6.372.-Euro tutarının ön ödeme olarak 04/12/2019 tarihinde davacının Ziraat Bankasında bulunan hesabından davalı tarafın hesabına gönderilmiş olduğu, dünya genelinde baş gösteren Covid-19 salgını nedeniyle fuarın iptal edildiği, iptal nedeniyle davacı tarafın ön ödeme olarak yapmış olduğu 6.372.-Euronun iadesini talep ettiği anlaşılmaktadır. Davacı tarafından ödenen bedel hususunda ihtilaf bulunmamaktadır. Uyuşmazlık davacının anılan bedelin tamamını geri isteyip isteyemeyeceği noktasında toplanmaktadır.
 
 ## İstanbul BAM 57. HD 2025/1131 K.
@@ -69,15 +67,11 @@ Sözleşmesinin olmadığı için işin yüzde kaçının tamamlanıp, tamamlana
 
 ## Antalya BAM 11. HD 2025/56 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121246300)
-
 Yine birleşen dava yönünden; Mahkemece taraflar arasındaki sözleşmenin incelenmesinde kur farkından dolayı açıkça ödeme yapılacağına dair bir madde bulunmadığından dolayı kur farkına ilişkin talebinin yersiz olduğu gibi sözleşmenin feshedilmiş olması karşısında davacının artık sözleşmeye dayalı kur farkı alacağını talep edemeyeceği gerekçesiyle davanın reddine karar verilmiş ise de; davacı-karşı davalının birleşen davadaki talebinin sözleşmeye dayalı kur farkından kaynaklanmadığı, davacı-karşı davalı vekilinin birleşen dava dilekçesinde müvekkili şirketin davaya konu akaryakıt istasyonunu davalıdan almakta olduğu aylık 15.
 000,00 USD'yi ancak karşılayacak miktar olan 60.000,00 TL üzerinden ve kira ödemesinin ilk iki ayı ödemesiz olacak şekilde kiraya vermek zorunda kaldığını, her ne kadar ilk aylarda dolar kurunun 4,00 TL olması nedeniyle aylık 60.000,00 TL davalı şirketin ödemesi gereken 15.000,00 USD ye denk gelmiş ise de ikinci aydan itibaren dolar kurundaki artıştan dolayı yeni kiracıdan tahsil edilen aylık 60.000,00 TL sözleşme haksız feshedilmemiş olsaydı davalı tarafından ödenecek olan 15.000 USD nin altında kalmaya başladığı için müvekkilinin her bir ay için değişen oranlarda zarara uğradığını beyanla taraflar arasında akdedilen 31.01.2007 Tarihli protokol ile protokole bağlı kurulmuş olan intifa hakkının davalı tarafından tek taraflı ve haksız olarak feshedilmesi nedeniyle müvekkili şirketin Nisan 2018 ile Ocak 2021 ayları arasında geçen süreçte kur farkından kaynaklı uğradığı 141.097,19 USD intifa ivaz geliri zararına karşılık fazlaya ilişkin dava ve talep haklarımız saklı kalmak kaydıyla şimdilik 100.000,00 USD' nin (yüzbin Dolar) dava tarihinden itibaren işleyecek faizi ile birlikte davalıdan alınarak davacıya verilmesini talep ettiği, Yerel Mahkemece davacının talebinin esasen munzam
 zarar istemine ilişkin olduğu gözetilmeksizin yanılgılı nitelendirme ile davacının talebinin sözleşmeden kaynaklı kur farkı alacağına ilişkin olduğu değerlendirilerek birleşen davanın bu nedenle reddine karar verilmesi de hatalıdır.
 
 ## Antalya BAM 1. HD 2025/222 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1114420700)
 
 Bu kez İlk derece mahkemesince; davanın kısmen kabulü ile; 110.665,37 USD'nin ödeme günündeki Dolar kuru üzerinden Türk Lirası'na çevrilerek kira sözleşmesinin başlangıç tarihi olan 19/11/2014 tarihinden itibaren işleyen yasal faizi ile birlikte davalıdan tahsili ile davacıya verilmesine karar verilmesi üzerine davalı vekili tarafından yukarıda belirtilen sebeplerle istinaf kanun yoluna başvurulmuştur.
 

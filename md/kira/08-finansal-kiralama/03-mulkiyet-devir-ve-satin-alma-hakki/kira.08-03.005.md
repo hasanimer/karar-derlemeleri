@@ -63,8 +63,6 @@ Talep tarihinde yürürlükte bulunan 6361 sayılı Finansal Kiralama Faktoring 
 
 ## Antalya BAM 11. HD 2024/928 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044838400)
-
 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu’nun 9/2. maddesine göre, faktoring şirketi Kurulca belirlenen usul ve esaslar çerçevesinde kambiyo senetlerine dayalı olsa bile, bir mal veya hizmet satışından doğmuş fatura ile tevsik edilemeyen alacaklar ile kurulca belirlenen usul ve esaslar çerçevesinde tevsik edilemeyen mal veya hizmet satışına bağlı doğacak alacakları devir alamaz veya tahsilini üstlenemez. Aynı faturaya dayalı birden çok faktoring şirketine yapılan kısmi temliklerin toplam tutarı fatura tutarını aşamaz.
 
 ## İstanbul BAM 44. HD 2024/916 K.
@@ -95,8 +93,6 @@ Somut olayda, dava konusu uyuşmazlık, davacının eski ortağı olduğu dava d
 
 ## Konya BAM 6. HD 2024/476 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018280800)
-
 Somut olayda, sözleşme konusu cihazın davacıya devrinin, Leasing taksitlerinin tamamı bittikten sonra ve davacının, davalı .... Sağ. Hizm. A.Ş.'ye vereceği 9 adet çekin tamamı ödenip bittikten sonra gerçekleşecektir, şeklinde belirlendiği, mahkemece alınan bilirkişi raporlarında yapılan inceleme sonucu, dava tarihi itibariyle davacının sözleşme kapsamında ödemelerini yerine getirdiği yine dava dışı ..... Kiralama A.Ş. ile davalı ......Sağ. Hizm. A.Ş. arasında dava konusu MR cihazına yönelik olarak yapılan 22.05.2013 tarihli Kiralama Sözlemesi kapsamında belirtilen ödemelerin, dava tarihinden önce 26.03.2016 - 25.01.2018
 
 tarihleri arasında yapıldığının anlaşıldığı, bu durumda taraflar arasında imzalanan 10.03.2016 tarihli sözleşmenin 3.4.4. maddesinde belirlenen şartların gerçekleştiği, yukarıda belirtilen yargıtay kararında da ifade edildiği üzere, dava tarihi itibariyle dava konusu cihazın mülkiyetinin davacı tarafça kazanılmış olduğu, bu nedenle davacı vekilinin istinaf başvurusunun kabulüne, ilk derece mahkemesi kararının kaldırılmasına, ancak mahkemece yapılan yanlışlık yeniden yargılamayı gerektirmediğinden HMK 353/1/b.2 maddesi gereğince, dava konusu MR cihazının davacıya ait olduğunun tespitine dair, yeniden hüküm kurularak karar verilmesi gerektiği sonuç ve kanaatiyle aşağıdaki şekilde hüküm kurulmuştur.
@@ -125,8 +121,6 @@ Her ne kadar davacı tarafça finansal kiralama sözleşmesi sayılsa bile sözl
 Sözleşmenin 13.maddesi 2.fıkrasında "Arı Leasing' in haklı nedene istinaden sözleşmeyi tek taraflı feshi halinde müşterinin fesih tarihine kadar ödemiş olduğu kira bedellerinin sözleşme bedelinin maktuen %10' luk kısmına tekabül eden tutarı, ...' in müşterinin sözleşmeyi ifa edeceğine duyduğu güvenden kaynaklanan hak ve zararlarının karşılığında cezai şart olarak ...
 
 ## Bursa BAM 5. HD 2023/2242 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155267800)
 
 6361 sayılı Kanunun tarafların hak ve borçlarının düzenlendiği 24. maddesinde "(1) Kiracı, sözleşme süresince finansal kiralama konusu malın zilyedi olup, sözleşmenin amacına uygun olarak her türlü faydayı elde etme hakkına sahiptir. (2) Kiracı, finansal kiralama konusu malı sözleşmede öngörülen şart ve hükümlere göre itinayla kullanmak zorundadır. (3) Sözleşmede aksine hüküm yok ise kiracı, malın her türlü bakımından ve korunmasından sorumlu olup, bakım ve onarım masrafları kiracıya aittir." düzenlemesi; Kanunun zilyedliğin ve kiracılık sıfatının devri başlıklı 26. maddesinde ise "(1) Kiracı, kiracılık sıfatını veya sözleşmeden doğan hak veya yükümlülüklerini, kiralayandan yazılı izin almak kaydıyla devredebilir. Bu devir nedeniyle finansal kiralama sözleşmesinde yapılan kiracı değişikliği, ilgisine göre 21 inci veya 22 nci madde çerçevesinde tescil edilir veya şerh
 

@@ -28,8 +28,6 @@ Bu durumda, özellikle yönetmelikte “....kambiyo senetlerine dayalı olsa bil
 
 ## Ankara BAM 31. HD 2022/433 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/756836500)
-
 Arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanan uyuşmazlıklarda yüklenicinin süresi içinde işi tamamlaması ya da ayıplı olarak yapması halinde eksik ve kusurlu işlerin yüklenici namına arsa sahibince ifasına izin verilmesi mümkündür. Yargıtayın yerleşik içtihat ve uygulamalarında nama ifaya izin verilirken giderilmesi gereken eksikler, ayıpların nelerden ibaret olduğu ve bunların avans niteliğindeki giderim bedellerinin hüküm fıkrasında infazı mümkün olacak şekilde gösterilmesi gerektiği kabul edilmektedir. Davacı
 
 eksik ve ayıplı işlerin giderim bedeli, güçlendirme masrafı, yapı kullanma izin belgesi alımı bedeli, kira bedeli, SGK masrafları, vergi ve harç ödemeleri için nama ifaya izin verilmesini talep etmişlerdir. Nama ifa; eseri sözleşmede belirlenen sürede eksiksiz ve kusursuz olarak teslim edemeyen yüklenicinin nam ve hesabına, ... sahibinin bizzat tamamlaması veya başka yükleniciye tamamlattırması demektir. Yapma borcu borçlu tarafından ifa edilmediği takdirde ... sahibi (alacaklı) gideri borçluya ait olmak üzere, edimin kendisi veya başkası tarafından ifasına izin verilmesini isteyebilir (TBK 113, BK 97).
@@ -58,8 +56,6 @@ Taraflar arasında düzenlenen 25/01/2008 Tarihli Protokolün 4.maddesi uyarınc
 
 ## Bursa BAM 13. HD 2021/346 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/714703000)
-
 İşleten sıfatının belirlenmesinde araç üzerinde fiili hâkimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması ve fiili hâkimiyetin uzun süreli olması gerekmektedir. Uzun
 
 süre kavramı, belirli bir gün sayısı ile sınırlı olmayıp, her somut olayın özelliğine göre ayrıca değerlendirilir. Ayrıca bu konuda getirilecek delillerin üçüncü kişileri bağlayabilecek nitelikte ve güçte olması, özellikle zarara uğrayanların haklarına halel getirecek bir sonuç oluşturmaması şarttır. O hâlde; kısa süreli olmamak kaydıyla, araç herhangi bir sebeple yararlanılması için bir başka kimseye devredildiğinde artık üzerindeki fiili hâkimiyetin ortadan kalkması, bu sebeple ekonomik yönden de bir yararlanma olanağının da bulunmadığı durumlarda, o aracı kaza sırasında fiili hâkimiyeti altında bulunduran ve ondan iktisaden yararlanan kimse işleten sıfatıyla meydana gelen zarardan sorumlu tutulacak, araç maliki sorumlu tutulamayacaktır. Aracı uzun süreli kiralayan kiracı işleten sıfatını kazanacak, araç malikine husumet yöneltilemeyecek, ona yöneltildiğinde ise davanın husumet nedeniyle reddine karar verilecektir. Burada verilen ret kararının borcun olmadığına dair bir ret kararı olmayıp, davalının borçlu sıfatına (taraf sıfatına) sahip olmadığına ilişkin verilen ret kararıdır.
@@ -72,8 +68,6 @@ Söz konusu ihtarnamede davacıya taşınmazdaki aykırılıkları gidermesi iç
 Üsküdar Tapu Sicil Müdürlüğü'nden gelen cevabi yazıda kooperatife ait taşınmazların tarla ve arsa vasfını taşıdıkları, Üsküdar Belediye Başkanlığı İmar ve Şehircilik Müdürlüğü'nden gelen cevabi yazıda ise davacıya ait dükkan ile ilgili imar işlem dosyasının bulunmadığı bildirildiğinden, kooperatif tarafından yapılan konut ve iş yerlerinin Belediye tarafından onaylanan bir plan ve proje kapsamında yapılmadığı açıktır. İhtarnamede ise binanın mimari ve statik projesine aykırı olarak jenaratör odası, pastane ve manav deposu olarak kullanılan 3 adet eklenti yapıldığı, mimari ve staik projeye aykırı olarak yapılan 3 adet eklentinin kaldırılarak projeye uygun hale getirilmemesi durumunda projeye aykırı tadilat ve eklentiler nedeni ile Kooperatif Ana Sözleşmesinin 14. maddesinin 4.fıkrası gereğince ... Evleri Konut Yapı Kooperatifi Yönetim Kurulunca alınacak karar ile ortaklıktan çıkartılacağı ihtar edilmiş olup, bu durumda gönderilen ihtarın gerek içerik gerekse tanınan sürenin makul olup olmadığı yönünden de değerlendirilmesi gerekmektedir.
 
 ## Ankara BAM 22. HD 2021/1022 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/669177100)
 
 Kural olarak, kiracı kendisine ... kiralama şirketi tarafından yetki verilmeden böyle bir davayı açamaz. ... kiralama şirketinin malın ayıplı olmasından dolayı alacak ve dava hakkını kiracıya devretmesi ile, malın ayıplı olmasından dolayı kiracıyı temsilci tayin etmesinin
 

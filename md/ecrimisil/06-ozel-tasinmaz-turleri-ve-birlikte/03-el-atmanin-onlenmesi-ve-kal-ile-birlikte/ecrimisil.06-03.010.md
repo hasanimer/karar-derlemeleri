@@ -71,8 +71,6 @@ Tespitten kaçınma halinde, dava dilekçesi muameleye konmaz (16/3. md.). Noksa
 
 ## Denizli BAM 1. HD 2025/299 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126607100)
-
 Dava, müdahalenin önlenmesi ve ecrimisil istemine ilişkindir.
 
 …

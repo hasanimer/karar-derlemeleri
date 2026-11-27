@@ -154,6 +154,4 @@ Bilindiği üzere; 6098 sayılı Borçlar Kanununun 183. maddesi “Kanun, sözl
 
 ## Konya BAM 5. HD 2020/381 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716732000)
-
 Uygulamada, Yargıtay 19. HD.’nin özellikle son yıllarda istikrar kazanan kararlarında, borçlunun temel borç ilişkisinden doğan şahsi def’ileri factoring şirketine karşı da ileri sürebileceği, bunun dayanağının TBK'nın 188/1. maddesi hükmü olduğu açıkça belirtilmektedir. Kuşkusuz factoring işleminin köşelerinden olan borçlunun önceki alacaklıya karşı ileri sürebileceği şahsi def’ileri temlik alan durumundaki factoring şirketine karşı da ileri sürebileceği TBK.’nun 188/1. maddesi hükmü gereğidir.

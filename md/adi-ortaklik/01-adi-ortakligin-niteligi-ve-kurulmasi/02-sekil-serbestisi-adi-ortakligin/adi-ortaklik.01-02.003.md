@@ -31,14 +31,10 @@ HMK ve ilgili Yargıtay içtihatları uyarınca, dava- nın esastan veya usulden
 
 ## Konya BAM 5. HD 2025/1778 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185520300)
-
 Davacı şirket, davacı ile davalılar arasında adi ortaklık ilişkisini bulunduğunu iddia etmiş ve fakat bu iddia kesin delillerle ispatlanamamıştır. Ayrıca terditli davalarda asli talep öncelikli olduğundan asli talebe ilişkin harç ikamesi yapılması yerindedir. Asli talebin reddi ile tali talebin kabulü halinde ortada reddedilen bir dava bulunmadığından davalı yararına vekalet ücretine de hükmedilmez. Gerek davacı ile davalı ........ A.Ş. arasındaki ana sözleşme, gerekse mutabakatname başlıklı sözleşme taşınmaz devrini ihtiva ettiğinden resmi şekilde yapılmamış olmakla geçersizdir. Geçersiz sözleşmelerin ifası talep edilemez. Ancak yüklenicinin yaptığı işlerin mahalli rayice göre bedelinin ödenmesi gerekir. İş bedelinin işin yapıldığı tarihteki mahalli rayice göre yapılmış olması gerekir. Mutabakatname isimli belge ile yapılan işler tespit edildiğine göre bu tarihteki piyasa koşullarına göre iş bedelinin belirlenmesi doğrudur. Terditli asli talep olan tapu iptali ve tescil davası açısından kayıt maliki olan ........ A.Ş isimli şirkete husumetin yöneltilmesi gerekmekte olup terditli ikincil talep olan alacak davası sözleşmenin nispiliği ilkesi gereği ........ A.Ş'ye yöneltilemez.
 Bu nedenle mahkemece asli talebin sözleşmenin geçersizliğinden reddi ve tali alacak talebi açısından ise ........ ve Ticaret A.Ş yönünden husumet nedeniyle reddine karar verilmesi doğru olmuştur.
 
 ## Konya BAM 6. HD 2025/1128 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171797300)
 
 Dava; menfi tespit talebine ilişkindir.
 
@@ -142,8 +138,6 @@ kararı verilmesine rağmen inkar tazminatına hükmedildiğini, alacak likit ol
 tarafça iş bedeli ödenmemesi sebebiyle girişilen icra takibine davalı itiraz etmesi ile durduğunu belirterek itirazın iptali ile takibin devamına ve %20 icra inkar tazminatının tahsilini talep etmiştir.
 
 ## Konya BAM 6. HD 2024/41 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994642000)
 
 Dava; adi ortaklık sözleşmesinden kaynaklı, davalı tarafın işlemleri nedeniyle uğranılan zararın tespiti ve tahsili istemine ilişkindir.
 

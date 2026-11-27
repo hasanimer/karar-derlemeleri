@@ -74,13 +74,9 @@ Sözleşmenin kurulmasında ve saikte yanılma söz konusu değildir. Bu sebeple
 
 ## Konya BAM 6. HD 2026/53 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195103800)
-
 Hemen belirtmek gerekir ki, 6098 sayılı Kanun'da esaslı yanılma (hatanın) tanımı yapılmamış, 31 inci maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan yanılmanın (hatanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur (Fikret Eren, Ünsal Dönmez, Eren Borçlar Hukuku Şerhi, Ankara 2022, C.1., s. 844).
 
 ## Konya BAM 6. HD 2026/47 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195095200)
 
 Hemen belirtmek gerekir ki, 6098 sayılı Kanun'da esaslı yanılma (hatanın) tanımı yapılmamış, 31 inci maddede sınırlayıcı olmamak üzere örnekler gösterilmiştir. Kısaca iç irade ile açıklanan irade arasındaki bilmeyerek yapılan uyumsuzluk olarak tanımlanan yanılmanın (hatanın) esaslı kabul edilebilmesi için, uygulamada ve bilimsel alanda ortaklaşa benimsendiği gibi, girişilen taahhüdün başlıca sebebini teşkil etmesi, daha açık söyleyişle hem yanılgıya düşen taraf yönünden (sübjektif unsur), hem de iş hayatındaki dürüstlük kuralları (objektif unsur) açısından, hataya düşülmese idi böyle bir sözleşmenin hiç veya açıklanan biçimde yapılmayacağının ispatlanması zorunludur (Fikret Eren, Ünsal Dönmez, Eren Borçlar Hukuku Şerhi, Ankara 2022, C.1., s. 844).
 

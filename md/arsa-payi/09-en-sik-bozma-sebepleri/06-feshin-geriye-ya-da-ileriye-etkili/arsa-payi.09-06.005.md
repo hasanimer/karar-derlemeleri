@@ -132,8 +132,6 @@ Taraf vekillerinin istinaf başvurusunun KABULÜ ile, HMK’nın 353-(1)/a-6 mad
 
 ## Antalya BAM 7. HD 2025/327 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132534600)
-
 Davalı vekili cevabında, taraflar arasında 05/11/2014 tarihinde noterde sözleşme yapıldığını, imar tadilatının 06/04/2016 tarihinde kesinleştiğini, bu süreçte davalının kusurlu olmadığını, ... belediyesince başvuru yapılmasına rağmen işlemlerin geciktirildiğini, davalının süresi içerisinde ruhsat başvurusu yaptığını ancak belediyenin ruhsat işlemlerini geç yaptığını, Antalya 1. Sulh Ceza Hakimliğinin 14/06/2017 tarih ve ...
 
 …

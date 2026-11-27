@@ -122,8 +122,6 @@ Birleştirme Büyük Genel Kurulunun 30.09.1985 tarihli ve 1987/2 E., 1988/2 K. 
 
 ## Konya BAM 5. HD 2022/259 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740664700)
-
 Davacı vekili dava dilekçesinde özetle; davacı şirketin, inşaat sektöründe faaliyet gösteren davalı şirketten 30/06/2016 tarihinde Konya İli Selçuklu İlçesi Sille Mahallesi ... ada ... parsel sayılı taşınmazları bedelini ödeyerek tapuda yapılan satış işlemi ile satın aldığını ancak Konya .... Asliye Hukuk Mahkemesi'nin ... Esas sayılı dosyasında taşınmazları davalı şirkete devreden önceki malikleri tarafından arsa payı karşılığı inşaat sözleşmesinin feshi ve taşınmazların tapularının iptali için dava açıldığını, davanın kabulü halinde davacının taşınmazlarının elinden gideceğini ve davacının zarar uğrayacağını, davalının davacı aleyhine sebepsiz zenginleşmiş olacağını ileri sürerek, taşınmazlar için ödenen bedelden şimdilik şimdilik 10.000 TLnin 30.06.2018 tarihinden itibaren ticari faizi ile birlikte davalıdan tahsilini talep ve dava etmiştir.
 
 Davalı davaya cevap vermemiştir.

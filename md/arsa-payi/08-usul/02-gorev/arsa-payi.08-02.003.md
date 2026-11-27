@@ -248,8 +248,6 @@ Ankara Batı Asliye Ticaret Mahkemesi'nin 10/12/2024 gün ve 2024/959 Esas 2024/
 
 ## Denizli BAM 4. HD 2025/53 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110030300)
-
 Davacı vekilinin istinafa cevap dilekçesi ile; Davalı tarafın yargılamayı uzatma amacı güden hukuki dayanaktan yoksun istinaf başvurusunun kötü niyetli olduğunu, karşı tarafın yargılamayı sadece uzatma amacı güden bu hareketinin mahkemece kötü niyetli şekilde değerlendirilmesini ve istinaf talebinin reddedilmesi gerektiğini, davalının mesnetsiz ve hukuka aykırı istinaf taleplerinin reddine karar verilmesini istemiştir.
 
 …

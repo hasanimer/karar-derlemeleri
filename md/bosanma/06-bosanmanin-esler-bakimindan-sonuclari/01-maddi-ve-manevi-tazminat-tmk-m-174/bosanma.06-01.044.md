@@ -377,26 +377,18 @@ Bunlar her olaya göre değişebileceğinden hakim bu konuda takdir hakkını ku
 
 ## Antalya BAM 13. HD 2026/594 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204298300)
-
 Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasına zarar veren bu zararı gidermekle yükümlüdür. Yine aynı kanunun 56/2 maddesi gereğince ölüm halinde ölenin yakınları manevi tazminat isteyebilirler. 2918 Sayılı Karayolları Trafik Kanunu'nun 85. maddesi gereği motorlu araç işleteni doğan zararlardan sürücü ile birlikte müştereken ve müteselsilen sorumludur.
 
 ## Denizli BAM 4. HD 2026/419 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199747600)
 
 Manevi tazminat zenginleşme aracı olmamakla beraber, bu yöndeki talep hakkındaki hüküm kurulurken olay sebebiyle duyulan acı ve elemin kısmen de olsa giderilmesi amaçlanmalı ve bu sebeple tarafların sosyal ve ekonomik durumları ile birlikte olayın meydana geliş şekli ve tarafların kusur durumu da gözönünda tutularak, hak ve nasafet kuralları çerçevesinde bir sonuca varılmalıdır. Zira, M.K'nun 4. maddesinde, kanunun takdir hakkı verdiği hallerde hakimin hak ve nesafete göre hükmedileceği öngörülmüştür. Buna göre, davacının yaralanması nedeniyle yaşadığı acı ve elem, kazadaki kusur durumları, tarafların ekonomik sosyal durumu, paranın alım gücü, olayın meydana geliş şekli göz önüne alındığında, hak ve nasafet kuralları çerçevesinde takdir edilen manevi tazminatın TMK'nın 4. maddesi uyarınca az olduğu anlaşılmıştır.
 
 ## Konya BAM 3. HD 2026/108 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192995200)
-
 Manevi tazminat, 6098 sayılı Türk Borçlar Kanunu'nun 56.maddesinde düzenlenmiştir. Anılan hükme göre, Manevi zarar; mutlak hak olan ve dolayısıyla herkese karşı korunmuş bulunan kişilik haklarının kapsamına giren değerlerden birisinin ihlali ile doğar. Şahsiyet hakkı hukuka aykırı bir şekilde tecavüze uğrayan kişi, uğradığı manevi zarara karşılık manevi tazminat namı ile bir miktar para ödenmesini talep edebilir. Şahsi menfaatleri ihlal edilen kimseye ihlalin ve kusurun özel ağırlığının haklı kılması halinde hakimin manevi tazminat olarak verilmesine hükmedeceği para miktarının belirlenmesinde hakkaniyet gözetilmelidir. Çünkü kanunun takdir hakkı verdiği hususlarda hakimin hak ve nisfetle hüküm vereceği Medeni Kanun'un 4. maddesinde belirtilmiştir. Ödettirilecek para miktarı ise aslında ne tazminat, ne de cezadır. Çünkü mamelek hukukuna ilişkin bir zararın karşılanmasını amaç edinmediği gibi kusurlu olana yalnız hukukun ihlalinden dolayı yapılan bir kötülük de değildir. Aksine olarak zarara uğrayanda bir huzur duygusunu doğurmaktır. Aynı zamanda ruhi ızdırabın dindirilmesini amaç edindiğinden tazminata benzer bir fonksiyonu da vardır.
 O halde bu tazminatın sınırı onun amacına göre belirlenmelidir. Takdir edilecek miktar, mevcut halde elde edilmek istenilen tatmin duygusunun etkisine ulaşmak için gerekli olan kadar olmalıdır. 22.06.1966 günlü ve 7/7 sayılı Yargıtay İçtihadı Birleştirme Kararı'nın gerekçesinde takdir olunacak manevi tazminatın tutarını etkileyecek özel hal ve şartlar da açıkça gösterilmiştir. Bunlar her olaya göre değişebileceğinden hâkim bu konuda takdir hakkını kullanırken ona etkili olan nedenleri de karar yerinde objektif ölçülere göre isabetli bir biçimde göstermelidir.
 
 ## Konya BAM 3. HD 2025/2457 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182512000)
 
 6098 sayılı Türk Borçlar Kanunu'nun 56. maddesinde ; "Ağır bedensel zarar veya ölüm halinde, zarar görenin veya ölenin yakınlarına da manevi tazminat olarak uygun bir miktar paranın ödenmesine karar verilebilir" hükmü düzenlenmiş madde metninden de anlaşıldığı üzere, haksız eylem sonucu bedensel zarar görenin yakınları yararına manevi tazminata karar verilebilmesi için, zarar görenin yaralanmasının ağır bedensel zarar niteliğinde olması gerekmektedir. Ağır bedensel zarar, kanunda tanımlanmamış olup, yaralanmanın özelliğine ve yarattığı sonuçlara göre mahkemece takdir edilecektir.
 
@@ -407,8 +399,6 @@ O halde bu tazminatın sınırı onun amacına göre belirlenmelidir. Takdir edi
 4721 sayılı TMK’nın 24. maddesinin belli yerlere yollaması nedeniyle böyle bir durumun bulunduğu yerde, onu düzenleyen kurallar (örneğin; 4721 sayılı TMK m. 26, 174, 287); bunların dışında 6098 saylı TBK’nın 56. maddesi uygulanır. 4721 sayılı TMK’nın 24. ve 6098 saylı TBK’nın 56. maddesinde belirlenen kişisel çıkarlar, kişilik haklarıdır. Kişilik hakları ise, kişisel varlıkların korunmasıyla ilgilidir. Kişisel varlıklar, bedensel ve ruhsal tamlık ve yaşam ile nesep gibi insanın, insan olmasından güç alan varlıklar ya da kişinin adı, onuru ve sır alanı gibi dolaylı varlıklar olarak iki kesimlidir.
 
 ## Konya BAM 3. HD 2025/1365 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157763500)
 
 Manevi tazminatın tutarını belirleme görevi hâkimin takdirine bırakılmış ise de hâkim; Medeni Kanununun 4. maddesinde yer alan hakkaniyet ilkesi gözeterek, hukuk ve adalete uygun hak ve nesafet kurallarına göre uygun miktarda tazminat takdir etmesi gerekmektedir. Miktarın belirlenmesinde her olaya göre değişebilecek özel hal ve şartların değerlendirilmesi gerekir. Hakim manevi tazminata hükmederken; tarafların kusur durumu, kusur derecesi, ekonomik ve sosyal durumları, zarar ile olay arasındaki illiyet bağı, ölüm halinde kaza ile ölüm arasında illiyet bağının bulunması, olayın tarihi, olayın ağırlığı, olay tarihindeki paranın satın alma gücü, davacı sayısı gibi hususlar dikkate alınarak davacılar için zenginleşme, davalılar için yoksulluğa neden olmayacak şekilde belirlenmelidir.
 

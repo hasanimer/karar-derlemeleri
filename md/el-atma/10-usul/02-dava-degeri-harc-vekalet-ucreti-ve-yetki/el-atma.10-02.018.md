@@ -230,8 +230,6 @@ SONUÇ: Yukarıda (1.) bentte sayılan nedenlerle davalı vekilinin diğer temyi
 
 ## Antalya BAM 5. HD 2025/2420 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180200100)
-
 Davacı vekili dava dilekçesinde özetle; mülkiyeti Hazineye ait olup kullanımı irtifak hakkı resmi senedi ile ... A.Ş. ne bırakılan ... köyü ... parsel sayılı taşınmazın 4046 sayılı Yasa kapsamında yapılan özelleştirme uyarınca kullanım hakkının ... olan müvekkiline devredildiğini, bu taşınmazın bir kısmının davalı şirket tarafından etrafı tel örgü ile çevrilerek ve üzerine bir takım yapılar yapılarak işgal edildiğini belirterek dava konusu taşınmaza davalının haksız el atmasının önlenmesine, el atılan kısımdaki davalıya ait yapıların kal’ine, fazlaya ilişkin hakları saklı kalmak üzere 14/12/2010 tarihinden itibaren şimdilik yıllık 1.000,00.TL ecrimisilin dava tarihinden işleyecek avans faizi ile davalıdan tahsiline karar verilmesini talep etmiştir.
 
 Davalı vekili cevap dilekçesinde özetle: davanın derdestlik, husumet yönü ile reddi gerektiğini, dava dışı ... AŞ.nin dava konusu yerin içinde bulunduğu taşınmazı Hazine’den teslim aldıktan sonra Hazine’nin onayını almadan davacı şirkete devrettiğini, irtifak hakkının ayni bir hak olmasından dolayı hakkın devrinin tapuda resmi şekilde yapılması gerektiğini, ayrıca davacıdan önceki zilyet ...

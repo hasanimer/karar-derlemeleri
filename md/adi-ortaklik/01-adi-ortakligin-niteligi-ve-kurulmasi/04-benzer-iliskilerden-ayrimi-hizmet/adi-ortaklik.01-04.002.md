@@ -22,8 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 7. HD 2025/370 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133386900)
-
 Yapının alacağını mahsup ederek alacağı ödenmiş gösterdiğinin tespit edildiği, hükme esas alınan bilirkişi raporlarında da belirtildiği gibi, davalının borcunu ödediğine delil gösterdiği mahsup işlemi muhasebe tekniğine uygun olmayan şekilde ve hatalı kayıt oluşturmak suretiyle yapıldığından geçerli olmadığı, davalı tarafça davacının edimini yerine getirdiği kabul edilmekle ve davacının alacağı davalının defterlerinde de kayıtlı olmakla dava konusu alacağın 80.080,00 TL yönünden ispat edildiği, davacının alacağının ödenmediği buna göre davacı davasını bu miktar yönünden ispat ettiğinden davanın kısmen kabulü ile itirazın iptaline, takibin 80.080,00 TL asıl alacak olmak üzere devamına, fazlaya dair istemin reddine, alacak miktarı tarafların ticari defterlerinde de kayıtlı olmakla likit ve belirlenebilir olduğundan icra inkar tazminatı talebinin de koşulları oluştuğu gözetilerek bu talebin de kabulüne karar vermiştir.
 Birleşen Denizli Asliye Ticaret Mahkemesinin ... esas sayılı dava dosyasında; davacının ödenmeyen iş bedelini talep ederken, davalı iş ortaklığının, dava konusu sözleşmenin gereği olan edimlerin davacı tarafça tam olarak yerine getirilmediğini, işin yarım bırakıldığını, yarım kalan işlerin dava dışı ... isimli başka bir firmaya tamamlattırıldığını, davacının alacağı olmadığını savunduğu, asıl dosyaya ilişkin gerekçe ayrıntılı açıklandığı üzere her ne kadar asıl yüklenici iş ortaklığı 10/11/2014 tarihli ikinci ihtarname ile yine davalıya 10 gün içinde işi tamamlaması aksi halde cezai şart ödemek durumunda kalacağı ihtar edilmiş ise de; 09/09/2014-14/11/2014 tarihlerini kapsayan ... nolu hakedişte, hem ana yüklenici iş ortaklığının hem de alt yüklenicinin tüm işi bitirdiği, 12/09/2014 tarihinde asıl işveren idareye geçici kabul teklif belgesi sunulduğu ve idarenin geçici kabul ile dava konusu yeri teslim aldığı, asıl işveren idarenin, ... sayılı ...
 
@@ -86,8 +84,6 @@ Apartmanları" inşa projelerine konu taşınmaz inşaatları davacı yanın yü
 İşbirliği sözleşmelerine konu dava dışı 3. kişilerle yapılan kat karşılığı inşaat sözleşmeleri de halen geçerliliğini korumakta olup;,bu sözleşmelerin de halihazırda davacı ile müvekkili şirket arasında kurulan işbirliği/adi ortaklık çerçevesinde bağlayıcı olduğunu,henüz tasfiye aşamasına gelmeyen bir adi ortaklık ilişkisinden bahisle her ne ad altında olursa olsun bir ödeme talep edilemeyeceği, bu şekilde talepler içeren davaların erken açıldığı kabul edilerek reddi gerektiğini, davanın erken açılması nedeniyle reddi gerekirken kabulü kararının hukuka aykırı olduğunu beyanla karar kaldırılarak davanın reddine karar verilmesini talep etmiştir. 6100 sayılı HMK'nun 355 md gereğince, istinaf sebepleri ile sınırlı olarak yapılan incelemeye göre; Dava, adi ortaklık sözleşmesi gereği davalının edimlerini yerine getirmediği ve davacının zarara uğradığı gerekçesi ile davacının koyduğu sermayenin iadesi talebine yönelik alacak talebine ilişkindir.
 
 ## Bursa BAM 14. HD 2023/1915 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153831100)
 
 Dava, eser sözleşmesinden kaynaklanan iş sahibinin, yüklenicinin işin ayıplı, eksik ve geç ifa nedenine dayalı alacağın tahsili istemine ilişkin olup mahkemece yukarıdaki gerekçelerle görevsizlik kararı verilmiştir.
 

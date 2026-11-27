@@ -47,8 +47,6 @@ Hukuk Dairesinin 03/05/2016 tarih,2016/2094 E.2016/5051K. ve 06/10/2015 tarih 20
 
 ## Antalya BAM 11. HD 2024/281 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1005021300)
-
 Dosyada mevcut ... Mimarlık ve ... Danışmanlık şirketi arasında imzalanan 13.06.2008 tarihli ortaklık sözleşmesine göre, tarafların % 50 kar pay oranında Burdur adresinde ... restaurant franchising yatırım işletmeciliği için eşit oranda ortaklık sözleşmesi imzaladıkları, bu kapsamda sözleşmenin adi ortaklık niteliğinde olduğu, tarafların gelir ve giderlere eşit oranda katılmakla yükümlü oldukları, ileride ortaya çıkacak masraflara da payları oranında katılmakla yükümlü oldukları, 5. maddeye göre franchising ilişkisinin davalı ... Ltd. Şti. üzerinden devam edeceği ancak davacı ..... Ltd. Şti.'nin uygun zaman ve ortamda olmak kaydıyla ortaklığın gereği olarak söz konusu yatırım ve işletme ile ilgili her türlü bilgi, belge, fatura, gelir gider ile ilgili belgelerden haberdar edilmek, belge istemek, kontrol etmek ya da ettirmek hakkına sahip olduğunu, davalı ... Ltd.
 Şti.'nin bu konuda .. nın talebini reddedemeyeceğini, 6. maddede ise tarafların sözleşme hükümlerinden herhangi birine aykırı davranmaları ya da sözleşmeden dönmeleri halinde karşı tarafa sözleşme tutarından ayrı olarak 100.000,00 Euro cezai şart ödemeyi şimdiden taahhüt ve kabul ettiklerinin kararlaştırıldığı anlaşılmıştır.
 

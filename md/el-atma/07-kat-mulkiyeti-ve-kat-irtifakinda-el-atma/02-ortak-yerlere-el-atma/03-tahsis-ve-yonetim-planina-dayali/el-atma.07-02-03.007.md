@@ -152,8 +152,6 @@ Bu bakımdan davalının projesine göre açık teras niteliğinde bulunan ve ek
 
 ## Konya BAM 6. HD 2024/1455 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064949600)
-
 Davalı ... davaya cevap vermemiş, davalı vekili yargılama aşamasındaki beyanları ile özetle davanın reddine karar verilmesini talep etmiştir.
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: İlk derece mahkemesince; "...davalı Kooperatif adına, yolsuz tescil istenen taşınmaz 02/12/2002 tarihinde tescil görmüştür. Davalının ise üyelik kaydı 26/03/2003 tarihidir.
@@ -170,8 +168,6 @@ Kooperatif üyeliğine dayalı olarak tapu iptali ve tescil veya konut tahsisi t
 Mahkemece davacı adına davacının eşi tarafından imzalandığı ileri sürülen 26/09/2003 ve 23/11/2003 tarihli dilekçeler, davacı ile davalı ... adına imzalanan "atayurdu koop başkanlığına" başlıklı dilekçe, Konya..Ağır Ceza Mahkemesi'nin ... Esas sayılı ve Konya .. Asliye Ceza Mahkemesi'nin ... Esas sayılı dosyalarında tespit edilen maddi vakıalar değerlendirilerek ve davalı kooperatife ait defter ve kayıtlar üzerinde bilirkişi incelemesi yaptırılarak davacının davalı kooperatife üye olup olmadığının tespitinden sonra oluşacak sonuca göre karar verilmesi gerekirken yanılgılı gerekçe ile yazılı şekilde karar verilmesi doğru olmamıştır. Bu nedenle davacı vekilinin istinaf talebinin kabulü ilk derece mahkemesi kararının HMK 353/1-a.6 maddesi gereğince kaldırılmasına davanın yeniden görülmesi için dava dosyasının kararı veren mahkemeye gönderilmesine ilişkin aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Antalya BAM 11. HD 2022/1921 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851638900)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: Mahkemece, "... daire tahsisine dayalı olarak, davalı kooperatiften müdahalenin men-i ve haksız işgal tazminatı (ecri misil) talep ettiği ancak bu istemlerin davaya konu olan dairede bizzat oturan kişiye yöneltilmesi gerektiği, ancak bu kişiye yöneltildiği takdirde bu kişi yanında kooperatifin de yer alabileceği, bu istemlerin sadece kooperatife yöneltilmesinin mümkün olmadığı, Yargıtay içtihatlarında da bu istemlerin dinlenebilmesi için fuzuli şagil olduğu iddia edilen kişilerle birlikte kooperatife yöneltilmesi gerektiğinin belirtilmesi karşısında haksız işgalci olduğu iddia edilen kişinin taraf olmadığı davada müdahalesini meni ve ve ecrimisile karar verilemeyeceğinden bu taleplerinin reddine karar verilmiştir.
 

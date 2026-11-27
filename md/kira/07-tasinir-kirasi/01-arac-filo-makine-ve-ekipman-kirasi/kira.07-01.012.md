@@ -38,8 +38,6 @@ Yukarıdaki bilgiler ışığında somut olay değerlendirildiğinde; sigortalı
 
 ## Konya BAM 6. HD 2023/2341 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990378000)
-
 Davacı şirketçe, ...Bankası A.Ş. ../Konya Şubesi tarafından kullandırılacak kredilerinin ve borçlarının teminatını teşkil etmek üzere 1.500.000,00-TL teminatlı olarak dava dışı ....'na ait İstanbul İli ... Mahallesi ... Ada . Parsel . Blok.. Kat 8 Numaralı Bağımsız Bölüm'de kayıtlı gayrimenkule davalı banka tarafından 1. derecede ipotek şerhi konulduğunu, 03/01/2018 tarihli "uzun Dönem Motorlu Araç Kiralama Sözleşmesi" gereğince davacı tarafından dava dışı ....San. Tic. A.Ş arasında 15/03/2018 başlangıç ve 15/03/2020 bitiş
 
 tarihli, toplam 3.840.000,00 TL bedelli araç kiralama sözleşmesi yapıldığı, sözleşmenin 4. Maddesi gereğince kira sözleşmesinin teminatı olarak davacı/kiracıdan 3 aylık kira bedeli tutarı 480.000,00 TL tutarlı teminat mektubu ya da bu bedel karşılık gayrimenkul ipoteği verilmesi kararlaştırıldığı, peşinat olarak davacıdan 90.000,00 TL bedel alındığı, sözleşmenin feshi halinde bedelin iade edilmeyerek irat kaydedileceği kararlaştırıldığı, ancak davalı bankadan kullanılan kredinin ödenmesine rağmen taşınmaz üzerindeki ipoteğin kaldırılmaması nedeniyle, sözleşmenin dava dışı şirketçe feshedildiği, peşinat olarak ödenen 90.000,00 TL'nin, de dava dışı şirkette kaldığı, ipoteğin geç fek edilmesi nedeniyle davalının kusurunun olduğu ve oluşan zararın tazmininin talep edildiği, görülmüştür.
@@ -65,8 +63,6 @@ A.Ş. ile taşıma sözleşmesi akdettiği, sigortalının da emtianın taşınm
 A.Ş. arasında akdedilen temlik sözleşmesinin yetkili kişiler tarafından imzalanmadığına ilişkin şekil geçersizliği sözleşmenin tarafları tarafından ileri sürülmemiş ve sözleşmenin geçerli olduğu taraflarca kabul edilmiştir. Bu sebeple söz konusu şekil eksikliğinin sözleşmenin tarafı olmayan davalı tarafından ileri sürülmesi mümkün değildir. Davacı tarafından dava konusu alacak temlik alındığından davacının iş bu dava konusu alacağı talep etme hakkı ve aktif husumet ehliyeti bulunmaktadır. Bu sebeple davalı vekilinin bu yöndeki istinaf sebebi yerinde görülmemiştir. Somut uyuşmazlıkta; dava dışı ... A.Ş’ye ait kozmetik ürününün Hamburg/Almanya'dan İstanbul/Türkiye'ye taşınması için dava dışı akdi taşıyıcı ... A.Ş. ile taşıma sözleşmesi akdedilmiş ve söz konusu emtianın taşınması için akdi taşıyıcı ile davalı fiili taşıyıcı arasında araç kiralama sözleşmesi akdedilmiştir. Taşınması için davalıya teslim edilen emtianın bir kısmı 18/01/2016 tarihinde araç şoförünün mola vererek uyuduğu sırada çalınmıştır.
 
 ## Antalya BAM 7. HD 2023/1100 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967899600)
 
 3.3.Karşı dava yönünden yapılan inceleme ve değerlendirmede ise, davalı iş sahibinin karşı dava ile aracın tamirinin ayıplı yapılması nedeni ile araç kiralamak zorunda kaldığı ve bu kiraladığı aracın kira bedelinden yüklenicinin sorumlu olduğu iddia edilmektedir. Taraf kayıtlarına göre, kaza neticesi davacının servisine bırakılan araç davalı/ karşı davacı iş sahibine 28.11.2018 tarihinde teslim edilmiş ve araç 09.05.2019 tarihinde ayıplı tamir iddiası ile dava dışı .... şirketine onarım için bırakılmıştır. Teknik bilirkişinin 01/06/2020 tarihli raporuna göre, aracın devamlı surette dağlık arazide çalışması sonucu yeni bir arıza olabileceği, bu titreşim sorununun ilk tamirin ayıplı olması ile ilişkilendirilmesinin kesin olarak tespit edilemeyeceği beyan edilmiştir. Davalı şirket tarafından imzalanan ibra ve temlik belgesinde alacağı tamir bedelini onarımı yapan servise devir ve temlik ettiğine dair imzalı beyanı ve aracın tamir edilmiş ve sağlam bir şekilde teslim aldığına dair imzalı beyanı mevcuttur.
 Bu durumda tamiratın ayıplı yapıldığına yönelik iddia teknik verilerle kanıtlanamamış olmakla karşı davanın reddine dair verilen karara yönelik istinaf başvurusu yerinde görülmemiştir.
@@ -137,13 +133,9 @@ kararının kaldırılmasına, ayrıca sözleşme bedeli belirlenerek harcın ta
 
 ## Antalya BAM 11. HD 2023/1591 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/945681500)
-
 Poliçede aracın, araç kiralama işinde kullanıldığını gösterecek şekilde kullanım ama- cının "günlük kiralama" olarak gösterilmesi, aracın dosyada bulunan araç kiralama sözleşme- sinde kiracı olarak adı geçenin sevk ve idaresinde iken kazanın gerçekleşmiş olması karşısın- da davacının tüketici sıfatıyla hareket etmediği, aracı ticari faaliyetinde kullanıldığı anlaşıl- dığından görevli mahkeme Ticaret Mahkemesi olmakla kararın kaldırılmasına karar vermek gerekmiştir.
 
 ## Konya BAM 4. HD 2023/1902 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936513800)
 
 Konya ... Asliye Ticaret Mahkemesince ......E.-.......K. Sayılı ilamıyla sözleşmenin tamamı incelendiğinde iş makinesinin Operatörlü kiralandığına ilişkin hiç bir madde bulunmadığı gibi taraflar arasındaki ilişki için kesilen faturalarda da "Paletli Ekskavatör Kiralanması" açıklamasına yer verildiğinden kira sözleşmesinden kaynaklı davalarda HMK'nın 2. maddesi uyarınca Sulh Hukuk Hukuk Mahkemesi görevli olduğu gerekçesiyle karşı görevsizlik kararı verilmiştir.
 

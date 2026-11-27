@@ -71,8 +71,6 @@ taşınmazların bulunduğu çevreden araştırma yapıldığı belirtilmiş ise
 
 ## Antalya BAM 6. HD 2023/1052 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/890553400)
-
 Madencilik sektöründe çoğu zaman arama veya işletme ruhsatı alan gerçek veya tüzel kişiler bu ruhsatlarına göre faaliyette bulunmayıp ruhsat gereğince sahip oldukları haklarının tamamını veya bir bölümünü geçici bir süre için üçüncü kişilere devretmektedirler. Ruhsat sahibi olan madenci bu ruhsattaki işletme hakkını devretme karşılığında elde edilen cevher üzerinden veya dönemsel olarak kararlaştırılan maktu bir ücreti üçüncü kişiden almaktadır.Ruhsat sahibi ile geçici olarak maden işletme hakkını elde eden bu üçüncü kişi arasında yapılan bu sözleşme Maden işletme ruhsatı kiralama sözleşmesi olup madencilik sektöründe ve hukuksal uygulamadaki ismi ise Rödovans sözleşmesidir. İşletme hakkının üçüncü kişiye rodövans sözleşmesi ile devri halinde devralan kiracı haline gelmekle sahayı bu rödövans sözleşmesi koşullarına uygun olarak işletmek ve bunun karşılığı kiraya veren ruhsat sahibine rödovans bedelini ödemekle yükümlenmektedir.
 
 ## İstanbul BAM 15. HD 2023/504 K.

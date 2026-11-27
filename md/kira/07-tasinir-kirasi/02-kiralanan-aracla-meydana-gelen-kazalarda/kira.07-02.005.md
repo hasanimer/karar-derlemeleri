@@ -165,13 +165,9 @@ Bu durumda kayıt maliki olan davalı şirket, aracı noter sözleşmesiyle uzun
 
 ## Konya BAM 3. HD 2023/1201 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/902582800)
-
 2918 sayılı KTK'nin 3.maddesi gereği; İşleten: Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehni gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat edilirse, bu kimse işleten sayılır.
 
 ## Antalya BAM 11. HD 2023/1093 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/900695500)
 
 Mahkeme istinafa konu kararında özetle; davalı sigortalı ile sürücü arasındaki araç kiralama sözleşmesinin uzun süreli olduğu, kaza tarihi itibarıyla araç üzerinde fiili hakimiyet ve ekonomik yararlanmaya bağlı işleten sıfatının dava dışı sürücü .... de olduğu, davacı sigorta şirketinin ZMMS kapsamındaki bu talebini ancak adı geçen işletene karşı ileri sürebileceği, davalı ... nin işleten sıfatının bulunmadığı gerekçesi ile davanın pasif husumet yokluğundan reddine karar vermiştir.
 

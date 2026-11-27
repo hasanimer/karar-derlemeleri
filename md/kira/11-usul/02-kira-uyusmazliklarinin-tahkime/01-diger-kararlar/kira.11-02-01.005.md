@@ -93,8 +93,6 @@ Buna göre davalı taraf fatura konusu hizmetin verildiğini ispat edemediğinde
 
 ## Konya BAM 6. HD 2024/117 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/996591300)
-
 Hukuk Muhakemeleri Kanunu'nun 4/1-a maddesinde ise, Sulh Hukuk Mahkemeleri, dava konusunun değer veya tutarına bakılmaksızın; kiralanan taşınmazların, 09/06/1932 tarihli ve 2004 sayılı İcra ve İflas Kanun'una göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaları görürler, hükmüne yer verilmiştir.
 
 ## Adana BAM 9. HD 2023/1452 K.
@@ -158,7 +156,5 @@ DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE: Yasal dayanak: Hukuk Muhakemeler
 ispat koşullarının oluşmadığı anlaşılmakla ihtiyati tedbir talebinin reddine" şeklinde karar vermiştir.Görevle ilgili düzenlemeler kamu düzenine ilişkin olup, taraflar ileri sürmese dahi yargılamanın her aşamasında re'sen gözetilir. Taraflar da yargılama bitinceye kadar görev itirazında bulunabilirler. Görev itirazı yapılmamış olsa bile re'sen mahkeme, ilk önce görevli olup olmadığını inceleyip karara bağlamalıdır. HMK 4/a maddesi gereğince "kiralanan taşınmazların İcra İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu olan davalar ile bu davalara karşı açılan davaların Sulh Hukuk Mahkemesinde" görüleceğinin düzenlenmiştir.
 
 ## Antalya BAM 5. HD 2023/934 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/907212900)
 
 6100 sayılı Hukuk Muhakemeleri Kanununun 4/1-a maddesine göre; kiralanan taşınmazların, 09/06/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalarda sulh hukuk mahkemeleri görevlidir.

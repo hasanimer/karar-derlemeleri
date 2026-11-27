@@ -158,6 +158,4 @@ Türk Borçlar Kanunu'nun 107. maddesinde alacaklının temerrüde düşmesi dur
 
 ## Antalya BAM 11. HD 2022/244 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/731715300)
-
 Alacaklının temerrütü 6098 Sayılı TBK'nun 106. (mülga 818 Sayılı BK'nun 90. maddesi) ve devamı maddelerinde düzenlenmiştir. Bu düzenlemeye göre, alacaklının temerrüdü borca uygun şekilde borçlu tarafından teklif edilen edimin haklı bir nedene dayanmaksızın alacaklı tarafından kabul edilmemesi olarak, başka bir anlatımla; yapılacak veya verilecek şey usulüne uygun olarak kendisine arz edildiği halde haklı bir neden olmaksızın onu reddetmesi veya borçlunun borcunu ifa edebilmesinin daha önce alacaklı tarafından yapılması gereken işlemlere bağlı olması halinde, alacaklının gereken işlemleri yapmaktan kaçınması olarak tanımlanmaktadır.6098 Sayılı TBK'nun 107. maddesinde ise "alacaklının temerrüde düşmesi durumunda, borçlu, hasar ve giderleri, alacaklıya ait olmak üzere teslim edeceği şeyi tevdi ederek borcundan kurtulabilir. Davalı tarafça davacı alacaklının malı teslim almakta temerrüte düştüğü hususu ispatlanamamıştır.

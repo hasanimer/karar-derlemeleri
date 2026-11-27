@@ -64,8 +64,6 @@ Somut olayda her iki davalı yönünden de davanın özel yetkili Sulh Hukuk Mah
 
 ## Konya BAM 6. HD 2023/2145 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969782600)
-
 Davacılardan ...ve Tic. Ltd. Şti. İle davalı arasında kira ilişkisi bulunduğu sabit olup, davalının yukarıda özetlenen polis merkezinde verdiği ifadeleri göz önüne alındığında davaya konu bononun bu kira ilişkisi nedeniyle verildiği anlaşıldığından davada görevli mahkemenin sulh hukuk mahkemesi olduğu nazara alınarak davanın görev yönünden dava şartı yokluğu nedeniyle usulden reddine karar verilmesi gerekirken aksi düşünce ile yazılı şekilde davanın esası hakkında karar verilmesi yerinde olmadığından davacıların istinaf başvuru taleplerinin kabulü ile HMK'nın 353/1.a.3 maddesi gereğince ilk derece mahkemesi kararının kaldırılmasına, dosyanın mahkemesine gönderilmesine ilişkin aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Sakarya BAM 5. HD 2023/1352 K.
@@ -117,8 +115,6 @@ hukuk davaları ve çekişmesiz yargı işleri ile tarafların tacir olup olmad�
 
 ## Antalya BAM 5. HD 2023/1204 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915306300)
-
 Davadaki uyuşmazlık da, dava dilekçesi içeriği, olayın anlatış biçimi, talep sonucu ve dayanak belgeler dikkate alındığında 16.339.382,64 USD kira bedelinin tahsilinden ibaret olduğu, talep konusu alacağın kira ilişkisinden kaynaklandığı, yukarıda belirtildiği üzere kira ilişkisinden doğan alacak davalarının sulh hukuk mahkemesinde görülmesi gerektiği, her ne kadar Antalya 3. Asliye Ticaret Mahkemesi ve Antalya 15. Asliye Hukuk Mahkemesi arasında görev uyuşmazlığı çıkmış ise de HMK nın 22/2 maddesi gereğince görevli veya yetkili mahkemenin bölge adliye mahkemesince veya yargıtayca belirleneceğinin hüküm altına alındığı bu hükme göre üçüncü bir mahkemeninde görevli olarak tespit edilebileceği, yukarıda izah edildiği üzere kira alacağından doğan işbu uyuşmazlığın çözüm yerinin sulh hukuk mahkemesi olduğu görülmekle Antalya nöbetçi sulh hukuk mahkemesinin yargı yeri merci olarak tespitine karar vermek gerekmiş ve aşağıda hüküm tesis olunmuştur.
 
 ## İstanbul BAM 14. HD 2023/1228 K.
@@ -151,8 +147,6 @@ Asliye Ticaret Mahkemesi'nin 2023/46 D.İş sayılı dosyası, finansal kiralama
 Taraflar arasındaki ..., ... ve ... nolu finansal kiralama sözleşmelerine konu, davalıya teslim edilen emtiaların, sözleşme gereği kira bedelinin ödenmediğini, keşide edilen ihtarnamenin tebliğini müteakip sözleşme şartı 60 günden fazla süre geçmiş olmasına rağmen davalının edimini yerine getirmediğini, emtiayı iade etmediğini, sözleşmenin fesih şartının gerçekleşmesi nedeniyle, müvekkiline ait emtianın taraflarına teslimi için, teminatsız olarak ihtiyati tedbir kararı verilmesini talep etmiştir.İstanbul 7. Asliye Ticaret Mahkemesi'nin 10/01/2023 tarihli, 2023/46 D. İş Esas ve 2023/34 D. İş Karar sayılı kararıyla; "1-Talep eden vekilinin, İhtiyati Tedbir isteminin F.K.S.57/e Maddesi gözetilerek TEMİNATSIZ olarak KABULÜNE, 2-Finansal Kurumlar Birliği’nin ... tescil tarihli, ... tescil numaralı, ... sayılı finansal kirala sözleşmesi kapsamında; 2 adet ... MARKA, ... TİPİNDE, 2022 model 3500 KG TAŞIMA KAPASİTELİ 4500 MMÇ ... ASANSÖRLÜ, HAVA LASTİKLİ ...
 
 ## Antalya BAM 11. HD 2023/1177 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/912715100)
 
 Somut olayda, davacı taraf borçlu olmadığının tespitini talep ettiği bonoların davalı ile arasındaki kira sözleşmesi gereği kira bedelleri ve bu kira sözleşmesinin teminatı olarak verildiğini iddia etmiş olup, bu iddiasına dayanak yazılı bir belge sunmadığı, sunulan kira sözleşmesinde kira bedelleri için bono düzenleneceği belirtilmemiş olup söz konusu takibe dayanak bonoların vade tarihlerinin kira bedellerinin ödeneceği tarihlerle uyumlu olmasına rağmen kira bedellerinin Türk Lirası olarak belirlendiği ancak bonoların EURO olarak düzenlendiği ve miktarlarının birbirleri ile uyumlu olduğuna ilişkin bir belgenin sunulmadığı, davalının da cevap dilekçesi vermediği, bu nedenle bu iddiaları reddetmiş sayılacağı, netice itibariyle bu yönde bir kabulü bulunmadığı halde 6102 Sayılı TTK nın 4. maddesi uyarınca kambiyo senetleri TTK'da düzenlendiği ve uyuşmazlığın çözümünde görevli mahkeme Asliye Ticaret Mahkemesi olduğu gözetilmeksizin İlk Derece Mahkemesince davacının iddiasına göre bononun kira ilişkisi nedeniyle düzenlenmesi iddiasının sulh hukuk mahkemesince değerlendirilmesi gerektiği bu nedenle Sulh Hukuk Mahkemesinin görevli olduğu yanılgılı değerlendirmesi ile görevsizlik kararı
 verilmesi hatalı olmuş olup, davacı vekilinin bu yöndeki istinaf talebinin kabulü gerektiği anlaşılmıştır.

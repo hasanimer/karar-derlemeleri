@@ -160,8 +160,6 @@ Kabule göre de; Yasal, hakkaniyet ve takdiri indirimler nedeni ile davanın kı
 
 ## Konya BAM 3. HD 2026/928 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205326000)
-
 TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti taktir edilemeyeceğinin ve yargılama giderinin oranlanmadan tam kabul gibi değerlendirilerek hüküm kurulması gerektiğinin gözetilmesi isabetlidir. itiraz yersizdir…
 
 ## Ankara BAM 26. HD 2026/730 K.

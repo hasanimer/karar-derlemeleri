@@ -31,8 +31,6 @@ Katılım payı olarak bir şeyin mülkiyetini koyan ortak, ortaklığın sona e
 
 ## Ankara BAM 21. HD 2021/939 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670729100)
-
 Dava; inançlı işlem nedeniyle anonim şirket hissesinin tescili, mümkün olmadığı takdirde anonim şirket hisselerine karşılık gelen rayiç bedelin tespiti ve tahsili, taşınmaz kira bedelinin tahsili istemine ilişkindir.
 
 …

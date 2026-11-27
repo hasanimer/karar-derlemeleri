@@ -121,6 +121,4 @@ Amaçsal Yorum ve tarihsel yorum açısından, Yönetmelik hükmü değerlendiri
 
 ## Gaziantep BAM 11. HD 2025/662 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143779700)
-
 2004 sayılı İİK, usul hukukumuzun icra ve iflas hükümlerini düzenleyen temel kanunudur. Usul hukuku kurallarının maddi hukuk kurallarından en önemli farkı usul hukuku kurallarının yargılamada eşitlik ilkesinin sağlanması için yorum farklılığı yaratmayacak şekilde kazuistik yöntemle hazırlanmış olmalarıdır. Bu nedenle usul hukuku hükümlerinin mefhumu muhalifinden istinbat edilmesi / karşı yorum yoluyla genişletilmesi mümkün değildir. Usul hukuku hükümlerinde açıkça tanınmamış bir hak bu yorum yöntemiyle taraflara tanınamaz.

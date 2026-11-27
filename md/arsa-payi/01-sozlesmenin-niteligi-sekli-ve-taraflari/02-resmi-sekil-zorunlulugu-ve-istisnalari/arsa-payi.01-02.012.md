@@ -44,8 +44,6 @@ Bu sözleşme davalı tarafın da kabulünde olup,ekonomik sıkıntılar ve müc
 
 ## Konya BAM 5. HD 2025/1778 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185520300)
-
 Davalı - karşı davacı ........ Şirketi vekili davaya cevap ve karşı dava dilekçesinde özetle; müvekkili şirketin, davalı arsa sahibi ........
 
 …

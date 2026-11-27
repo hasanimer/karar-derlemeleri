@@ -212,8 +212,6 @@ ay süreli, kira sözleşmesi ile dava dışı kiracıya teslim edildiği iddia 
 
 ## Denizli BAM 1. HD 2025/1298 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171693300)
-
 Gerek öğretide, gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, taşınmazı haksız olarak elinde bulunduran kimsenin mülkiyet sahibine (malike) ödemekle yükümlü bulunduğu, en azı kira geliri en çoğu mahrum kalınan gelir kaybı olan haksız işgal tazminatıdır. Ecrimisil hesabı uzmanlık gerektiren bir husus olup, taşınmazın niteliğine uygun bilirkişi marifetiyle keşif ve inceleme yapılarak haksız işgal tazminatı miktarı belirlenmelidir. Alınan bilirkişi raporu, somut bilgi ve belgeye dayanmalı, tarafların ve hakimin denetimine açık, değerlendirmenin gerekçelerinin bilimsel verilere uygun olmalıdır. Eğer, özellikle arsa ve binalarda kira esasına göre talep varsa, taraflardan emsal kira sözleşmeleri istenmeli, gerekirse benzer nitelikli yerlerin işgal tarihindeki kira bedelleri araştırılıp, varsa emsal kira sözleşmeleri de getirtilmeli, dava konusu taşınmaz ile emsalin somut karşılaştırması yapılmalı, üstün veya eksik tarafları belirlenmelidir.
 İlke olarak, kira geliri üzerinden ecrimisil belirlenmesinde, taşınmazın dava konusu ilk dönemde mevcut haliyle serbest şartlarda getirebileceği kira parası, emsal kira sözleşmeleri ile karşılaştırılarak, taşınmazın büyüklüğü, niteliği ve çevre özellikleri de nazara alınarak yöredeki rayiçe göre belirlenir. Sonraki dönemler için ecrimisil değeri ise ilk dönem için belirlenen miktara ÜFE artış oranının tamamının yansıtılması suretiyle bulunacak miktardan az olmamak üzere takdir edilir. (Yargıtay 3.HD. 2024/3281 Esas, 2025/3521 Karar)…
 
@@ -226,8 +224,6 @@ Talep ettiği alacak kira alacağı değil, ecrimisildir. Bu nedenle İlk derece
 işletmesinin de ticari işletme olup olmadığının tespiti ile yargılama görevinin kendisine mi yoksa asliye hukuk mahkemelerine mi ait olduğunun belirlenmesi neticesinde bir karar verilmesi gerektiğinden davacının istinaf başvurusunun kabulüne, İlk Derece Mahkemesi kararının HMK'nun 353/1-a.3, 353/1-a.6 maddeleri gereğince kaldırılmasına, yukarıdaki açıklamalar doğrultusunda araştırma ve inceleme yapıldıktan sonra oluşacak sonuca göre karar verilmek üzere dosyanın, davanın yeniden görülmesi için mahkemesine iadesine dair aşağıdaki şekilde karar verilmiştir.
 
 ## Denizli BAM 1. HD 2025/299 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126607100)
 
 Tüm dosya kapsamına göre; Davacı tarafça, davalının kira sözleşmesi konusu olmayan alanı fuzulen işgal ettiği iddiasına yönelik uyuşmazlıkta 4721 sayılı Türk Medeni Kanunu'nun 683'üncü ve devamı maddelerinde düzenlenen mülkiyet hakkına dayalı olarak el atmanın önlenmesi ve buna bağlı olarak ecrimisil isteğinde bulunmuş olduğundan anılan isteğin 4721 Sayılı Türk Medeni Kanunu Hükümlerinden kaynaklandığı ve uyuşmazlığın çözümünün 6100 Sayılı HMK'nun 2/1. maddesi uyarınca Asliye Hukuk Mahkemesi görevinde bulunduğu kuşkusuzdur. Zira tarafların ticari şirket olmalarına rağmen el atmanın önlenmesi ve haksız işgal tazminatı istemli davalarda, davanın mutlak ve nispi dava niteliğinin bulunmaması nedeniyle uyuşmazlığın asliye hukuk mahkemesinde görülüp çözülmesi gerekmektedir. (Benzer; Yargıtay 8. Hukuk Dairesi 2019/699Esas 2020/4277 Karar)…
 

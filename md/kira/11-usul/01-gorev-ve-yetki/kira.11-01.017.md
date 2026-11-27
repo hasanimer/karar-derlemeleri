@@ -168,8 +168,6 @@ maddesi gereğince kaldırılmasına, dair aşağıda belirtildiği şekilde hü
 
 ## Ankara BAM 13. HD 2024/2028 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107204600)
-
 Somut olayda, TBK'nın 19. maddesi uyarınca sözleşmenin başlığına bakılarak yorumlanmayıp, sözleşmenin içeriğinin de sözleşme yorumunda dikkate alınması gerekmektedir. Bu nedenle, taraflar arasındaki "... ... Sözleşmesinin" kira sözleşmesi ve acentelik sözleşmesi niteliğinde olmadığı, uyuşmazlığın mutlak ticari dava niteliğinde bulunmadığı gibi taraflarının tacir olmaması nedeniyle nispi ticari dava niteliğinde de bulunmadığı anlaşılmaktadır. Bu nedenle, bayilik sözleşmesinden kaynaklanan uyuşmazlığın Asliye Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## İstanbul BAM 35. HD 2024/2611 K.

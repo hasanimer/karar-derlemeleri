@@ -56,8 +56,6 @@ Dairemizce davalı vekiline çıkarılan muhtıra ile, iş ortaklığına ait ad
 
 ## Tekirdağ BAM 4. HD 2025/1277 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190555600)
-
 Dava; davaya konusu ödeme yeri, ödeme tarihi ve düzenleme tarihi bulunmayan senetten dolayı icra takibinden önce açılan davacının davalıya borçlu olmadığının tespiti istemine yönelik menfi tespit davasıdır.
 
 …

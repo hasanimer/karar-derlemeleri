@@ -48,8 +48,6 @@ hesabında hiç bir sorun olmadığı, kesin hesap faturası davacı idare taraf
 
 ## Ankara BAM 24. HD 2023/1131 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913195500)
-
 Bu durumda, 03/02/2016 tarihli İş Ortaklığı Sözleşmesi ve dosya kapsamı gereğince, dava dışı iş sahibi tarafından gönderilen bakiye kesin hesap alacağının 16.795,00 TL'lik bölümünden davacı tarafın kabulünde olan ve davalı ... ...... müşavirlik ücretinin (6.500,00 TL) mahsubu neticesinde kalan 10.295,00 TL'den iş ortaklığı sözleşmesinde belirlenen davacının %51 payı gereğince 5.250,45 TL'nin davalı adi ortaktan tahsiline, diğer davalılar yönünden davanın reddine ilişkin kurulan hükümde isabetsizlik görülmemiştir.
 
 ## İstanbul BAM 15. HD 2023/897 K.

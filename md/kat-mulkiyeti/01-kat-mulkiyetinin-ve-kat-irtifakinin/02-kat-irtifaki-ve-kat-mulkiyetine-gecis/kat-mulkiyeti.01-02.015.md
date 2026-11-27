@@ -198,8 +198,6 @@ O halde, cebri ihale ile satışı yapılan taşınmazın, arsa vasfında olduğ
 
 ## Konya BAM 5. HD 2026/121 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189380400)
-
 Asliye Hukuk Mahkemesinde dava açıldığını ve 250 m2 bakiye pay üzerine tedbir konulduğunu yani ........ üzerindeki bu payların çok yüksek ihtimalle iptal edilecek olup aynı paya bir de müvekkilinin alacağı için tedbir konulmasının bir anlam ihtiva etmeyeceğini, bu sebeple muvazaalı olarak ........ üzerine devri yapılan payların üzerine ihtiyati tedbir talep ettiğini ileri sürerek Konya İli Meram İlçesi, Küçükkovanağzı Mahallesi, ... ada ... parsel numaralı taşınmazda; Kat irtifakı kurulmuş olması durumunda; Zemin kat 10 numaralı dükkan nitelikli taşınmazın tapu kaydına ihtiyati tedbir konulmasını, Kat irtifakı kurulmamış ve bağımsız bölümler oluşmamışsa; ........'e kat karşılığı verilmiş ve ........ tarafından muvazaalı şekilde (veya ticari işletme devri / adi ortaklık şeklinde) ........ A.Ş.'ye devredilmiş arsa payları üzerine ihtiyati tedbir şerhi konulmasını, talep etmiştir.
 
 ## İstanbul BAM 37. HD 2025/2835 K.

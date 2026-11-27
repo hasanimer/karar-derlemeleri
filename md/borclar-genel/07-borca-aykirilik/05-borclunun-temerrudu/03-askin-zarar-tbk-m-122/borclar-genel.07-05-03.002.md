@@ -97,8 +97,6 @@ Munzam zararda ise, geçmiş günler faizi ile karşılanamayan bir zararı oldu
 
 ## Konya BAM 3. HD 2023/2998 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977104300)
-
 Kural olarak, sigorta ilişkisinde hasar bedelinin hiç ödenmemesi veya geç ödenmesi halinde sigorta ettiren, TBK.nun 122 nci maddesi uyarınca munzam zarar adı altında ayrıca oluşan zararlarını da isteyebilir. TBK.nun 105/1 nci maddesine göre, alacaklının uğradığı zarar, temerrüt faizinden fazla olduğu takdirde, borçlu kendisine hiçbir kusur isnat edilemeyeceğini ispat etmedikçe bu zararı dahi tazmin ile yükümlüdür. Her ne kadar yasa hükmünde temerrüt faizini aşan bir zarardan söz edilerek, zararın türü ve özellikleri konusunda bir açıklık bulunmamakta ise de, buradaki zararı, borçlu temerrüde düşmeden borcunu ödemiş olsaydı alacaklının mal varlığının kazanacağı durum ile temerrüt sonucu ortaya çıkan ve oluşan durum arasındaki fark, temerrüt faizi ile karşılanamayan, onu aşan bölüme tekabül eden zarar şeklinde ifade etmek mümkündür. Munzam zararda her olayın kendi yapısı ve özelliği içerisinde değerlendirme yapılması, taraflar arasındaki hukuki ilişki gözetilerek zararın belirlenmesi gerekir.
 
 ## Ankara BAM 35. HD 2023/1622 K.

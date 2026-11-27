@@ -118,8 +118,6 @@ AŞ'ye verilmesine, 13-İlk derece mahkemesinin karar tarihinde yürürlükte bu
 
 ## Antalya BAM 4. HD 2023/8 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848081600)
-
 İlk derece mahkemesince manevi tazminatın kısmen kabulü nedeniyle davacı lehine hükmedilen vekalet ücretinin davacı yerine dava dışı ...'ya verilmesi şeklinde hüküm kurulması doğru değil ise de, ilk derece mahkemesince yapılan bu yazım hatası gerekçeli karar taraflara tebliğ edilmeden tahsis kararıyla düzeltildiğinden istinaf incelemesi dışı tutulmuştur.
 
 ## Sakarya BAM 7. HD 2022/2290 K.
@@ -129,8 +127,6 @@ AŞ'ye verilmesine, 13-İlk derece mahkemesinin karar tarihinde yürürlükte bu
 Sair istinaf istemlerinin yukarıda (1) nolu bentte açıklanan cezai şart miktarının belirlenmesine ilişkin gerekçeler doğrultusunda reddine ancak mahkemece kısmen reddedilen kısmın takdiri indirim nedeni olarak reddedilmesi, bu gibi hallerde reddedilen kısım yönünden davacı aleyhine yargılama gideri ve vekalet ücretine hükmedilemeyeceğinin anlaşılması nedeniyle kararın kaldırılması, davacı aleyhine hükmedilen vekalet ücretinin karardan çıkarılması, yargılama giderlerinin tamamından davalının sorumlu olması şeklinde hüküm verilmesi gerektiği anlaşılmıştır.
 
 ## Antalya BAM 4. HD 2022/2102 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862743400)
 
 Olayda müterafik kusur ve hatır taşıması bulunduğu kabul edilerek bu nedenlerle manevi tazminatın miktarı belirlenmiş olduğu halde TBK'nun 51 ve 52.maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddinde karşı taraf lehine ret vekalet ücretine hükmedilmesinin doğru olmadığını,…
 
@@ -188,8 +184,6 @@ Hukuk Dairesi'nin 2021/19521 Esas, 2022/7719 Karar Sayılı ilamı) TBK.'nun 52.
 Kabule göre de, 6098 sayılı TBK 51 ve 52 maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için diğer taraf yararına vekalet ücreti takdir edilemeyecek olup (Yargıtay 4 HD 2021/6857 E-2021/10530 K sayılı ilam), 23/05/2018 tarihli kararda maddi tazminat yönünden hakkaniyet indirimi yapılarak sonuç tazminat belirlenmiş olup destekten yoksun kalma tazminatına yönelik davalılar lehine oluşan usuli müktesep hak gözetilerek karar verildiği anlaşılmakla, kendini vekille temsil ettiren davalı ... AŞ ve Axa Sigorta AŞ lehine vekalet ücreti takdiri isabetsiz olmuştur. Davacılar vekilinin istinaf sebebi yerindedir.
 
 ## Antalya BAM 4. HD 2022/1791 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833571300)
 
 Manevi tazminatın reddedilen kısmı yönüyle, kendisin vekille temsil ettiren davalı için Tarifenin 10.maddesine aykırı biçimde davacı lehine takdir edilenden daha fazla avukatlık ücreti belirlenmesi doğru değildir. Bu cihetten davacı vekilinin başvurusunun kabulü gerekir.
 

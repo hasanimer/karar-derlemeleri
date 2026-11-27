@@ -149,8 +149,6 @@ Hâkim, aşırı nitelikteki rekabet yasağını, bütün durum ve koşulları s
 
 ## Ankara BAM 22. HD 2022/28 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727915000)
-
 Bu durumda mahkemece, anılan yasal düzenlemeler gözetilerek, davacı yanca finansal kiralama sözleşmesinden kaynaklanan taşınmazın aynen teslimi talep edildiğine göre taşınmazın değeri üzerinden eksik harcın tamamlatılmaması halinde, HMK'nın 150.maddesi hükmü uyarınca dava dosyasının işlemden kaldırılması, bu maddede öngörülen süre içerisinde harcı yatırılmak suretiyle dava dosyasının yenilenmesi halinde davaya kaldığı yerden devam edilmesi, üç aylık süre içerisinde harç yatırılmak suretiyle dava yenilenmediği takdirde davanın açılmamış sayılmasına karar verilmesi gerekmektedir.
 
 ## İstanbul BAM 43. HD 2021/1245 K.
@@ -169,8 +167,6 @@ hareketin o üyeye izafe edilmesi de gereklidir. Yönetim kurulu üyelerinin şi
 Bu durumda, 35 aylığına iş makinasını kiraya veren davalı BNB Paribas Finansal Kiralama AŞ yönünden sorumluluğun bulunmaması sebebiyle davanın reddedilmesinde isabetsizlik yoktur. Davacı vekilinin bu yoldaki istinaf sebebi yerinde değildir.
 
 ## Ankara BAM 22. HD 2021/1506 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685872000)
 
 6361 sayılı .......Kanununun 31/3. Maddesinde de; “Kiracı ve kiralayan arasında ... kiralama sözleşmesi ile ilgili ihtilaflarda, mahkemece ... kiralama konusu malın ihtiyati tedbir kararı alınarak kiralayana veya üçüncü bir kişiye bırakılması durumunda kiralayan, mahkemeye malın rayiç değeri kadar teminat yatırmak suretiyle mal üzerinde tasarruf edebilir. Şu kadar ki; sözleşmenin feshinin haksız olduğuna karar verilmesi hâlinde kiralayan, kiracının zararını tazminle yükümlüdür.” şeklinde ... Kiralama sözleşmelerinden kaynaklanan uyuşmazlıklarda uygulanmak üzere özel düzenleme yapılmıştır.
 

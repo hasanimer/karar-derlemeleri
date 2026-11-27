@@ -161,8 +161,6 @@ Mahkemece taraf delilleri toplanıp, emsal kira bedelleri dikkate alınarak bili
 
 ## Bursa BAM 13. HD 2022/417 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/809935200)
-
 09/10/2018 tarihli bilirkişi raporunda, kira bedeli davacı tarafça ibraz edilen kira sözleşmesi kapsamında belirlenmiş olup, bilirkişi raporunun hüküm vermeye elverişli olduğundan söz etmeye olanak bulunmamaktadır. Tazminat hukukunda gerçek zarar ilkesi geçerli olup, mahkemece yapılacak iş, tarafların emsal kira sözleşmesi sunmalarına olanak tanımak, gerektiğinde resen emsal celbi yoluna gitmek sonrasında da, davacı şirketin iştigal konusu, satış sonucu tahliye edilen taşınmazın konumu, büyüklüğü ve davacı şirketin iştigal konusu itibarıyla iş yerinde bulunduracağı makina, teçhizat vs üzerinde durularak, davacının ticari faaliyetini sürdürmek için kiralayıp taşındığı taşınmazların da konumu ve büyüklüğü göz önüne alınarak davacı şirket için uygun olup olmadığı, 01/11/2013 tarihinden, dava tarihine kadar ödenmesi gereken kira bedelinin tespiti hususunda denetime elverişli ek rapor almaktan ibarettir. Kira bedeli belirlenirken de, 6098 sayılı TBK 52 maddesi gereği müterafik kusur durumu göz önüne alınmalıdır.Davalı vekilinin bu nedene dayalı istinaf sebebi yerindedir.
 
 ## İstanbul BAM 36. HD 2019/69 K.

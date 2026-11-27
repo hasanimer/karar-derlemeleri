@@ -42,13 +42,9 @@ Somut olayda davacı, davalı ile imzaladıkları kira sözleşmesine göre dava
 
 ## Denizli BAM 3. HD 2026/51 K. (merci tayini)
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187604300)
-
 … sözleşmenin 4.maddesindeki yıllık 450.000,00 TL olarak kararlaştırılan bedelin kira bedeli olduğu ve davacının da kira sözleşmesine aykırılık iddiasına dayandığı, dolayısıyla **taraflar arasındaki uyuşmazlığın kira ilişkisinden kaynaklandığı** ve bu nedenle görevli mahkemenin ... Hukuk Mahkemesi olduğu…
 
 ## Gaziantep BAM 4. HD 2025/1728 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157522400)
 
 Davacı kiraya veren, TBK 344 vd uyarınca kira bedelinin tespitini istemiş olup, **kira ilişkisinden doğan bu uyuşmazlıkta tarafların sıfatına bakılmaksızın sulh hukuk mahkemesi görevlidir**…
 

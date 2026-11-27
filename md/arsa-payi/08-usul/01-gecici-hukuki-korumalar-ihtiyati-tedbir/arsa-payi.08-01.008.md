@@ -22,8 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Denizli BAM 1. HD 2025/1894 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185330100)
-
 Davacı vekili 28/02/2024 tarihli ıslah dilekçesi ile; davalının alacaklısı bulunduğu ....İcra Dairesinin ... Esas sayılı dosyasından konulan hacizlerin kaldırılmasını da talep etmiştir.
 
 Davalı vekili cevap dilekçesinde özetle; tescille ilgili verilen kararda tapular üzerindeki takyidatlar, yani dava devam ederken mevcut alacakların varlığı kabul edilerek üzerindeki hacizler ile birlikte tesciline karar verildiğinden davanın kabulünün mümkün olmadığını, hacizden sonra üçüncü kişi lehine tapu iptal ve tescil kararının kesinleşmesinin haciz tarihindeki mülkiyet durumuna etkisi olmadığını, haciz tarihi itibariyle dava konusu taşınmazın borçlu şirketin mülkiyetinde bulunduğunu, yapılan işlemin hukuka uygun olduğunu, hacizden sonra açılan tapu iptali tescil davasının hacze etkisi bulunmadığını, dava konusu taşınmazın haciz şerhi işlendiği tarihte borçluya ait olup, sonradan verilen tapu iptali ve tescil kararının haciz şerhlerinin kaldırılmasına neden olmayacağından davanın usulden ve esastan reddine karar verilmesini savunmuştur.
@@ -47,8 +45,6 @@ Buna duruma göre; yüklenicinin, arsa payı karşılığı inşaat sözleşmesi
 Buna karşılık, ihtiyati tedbir şerhinin işlendiği 27/10/2016 tarihinden önce ...İcra Dairesinin ... Esas sayılı dosyasından 06/10/2016 tarih ve ... yevmiye nolu haczin konulduğu, ihtiyati tedbir şerhi ile 3.kişilerin iyi niyetlerinin ortadan kalktığı ve TMK 1023.maddeden yararlanamayacakları, inşaat sözleşmesinin tapuya şerh edilmediği, ihtiyati tedbir kararından önce konulan haczin kaldırılmasının talep edilemeyeceği halde yerel mahkemece icra dosyalarından konulan tüm hacizlerin kaldırılması isabetli olmadığı gibi, dava tarihi olan 23/01/2024 tarihinden önce 05/04/2023 tarihinde .... yevmiye ile silinen ...İcra Müdürlüğünün .... esas sayılı dosyasından tesis edilen 10/01/2018 tarihli ve .... yevmiye numaralı ile 23/01/2021 tarih ve ... yevmiye numaralı haciz şerhlerinin kaldırılmasına karar verilmesi de yerinde olmamıştır. Ancak bu yanlışlıkların yeniden verilecek kararla düzeltilmesi mümkün görülmüştür.
 
 ## Denizli BAM 4. HD 2025/1855 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183688000)
 
 Öte yandan 6100 sayılı HMK'nın durum ve koşulların değişmesi sebebiyle tedbirin değiştirilmesi veya kaldırılmasını düzenleyen 396. maddesinde; "Durum ve koşulların değiştiği sabit olursa, talep üzerine ihtiyati tedbirin değiştirilmesine veya kaldırılmasına teminat aranmaksızın karar verilebilir. İtiraza ilişkin 394 üncü maddenin üçüncü ve dördüncü fıkrası, kıyas yoluyla uygulanır" düzenlemesi bulunmaktadır. Ancak maddede, kanun yoluna başvuru imkanını düzenleyen 394.maddenin beşinci fıkrasına atıf yapılmadığı görülmektedir.
 
@@ -131,8 +127,6 @@ Mahkemelerce verilebilecek ihtiyati tedbir kararlarının nelerden ibaret olduğ
 Açıklanan nedenlerle ilk derece mahkemesinin ihtiyati tedbir talebinin reddine dair ara kararında usul ve yasaya aykırı bir yön bulunmadığından, davacı vekilinin istinaf başvurusunun esastan reddine …
 
 ## Denizli BAM 3. HD 2025/1703 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171684600)
 
 Davacı vekili dava dilekçesinde özetle; davalı yan tarafından müvekkili aleyhine ... mahkemesinin ...D.İş ve ... K.sayılı kararı ile ihtiyati haciz kararı alındığını ve bu ihtiyati haciz kararının ....İcra Müdürlüğünün ... sayılı takip dosyası ile icra edildiğini, daha sonrasında davalı yan tarafından iş bu ihtiyati haczin kati hacze çevrildiğini, .... İcra Müdürlüğü'nün ...E.
 

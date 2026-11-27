@@ -324,6 +324,4 @@ Zira, geri alma, bu yoksullaşma ve zenginleşmenin sonucudur ve bu olgular ger�
 
 ## Ankara BAM 24. HD 2021/310 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642041000)
-
 6098 sayılı TBK'nın m.77/1'e göre; zenginleşen başkasının malvarlığından veya emeğinden haklı bir sebep olmaksızın elde ettiği zenginleşmeyi geri vermek zorundadır. Geri verme borcunun konusu ve kapsamı; TBK'nın 79. ve 80.maddelerinde "aynen geri verme ilkesi"ne göre düzenlenmiştir.

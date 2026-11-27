@@ -58,8 +58,6 @@ Bankası A.Ş. vekili cevap dilekçesinde; tapu kayıtlarına göre ipotek konul
 
 ## Konya BAM 6. HD 2024/1508 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1071145100)
-
 Dava, kooperatif genel kurul kararının iptali talebine ilişkindir.
 
 …
@@ -68,8 +66,6 @@ Dairemizce yapılan inceleme sonucunda; Dosyadaki belgelere, kararın dayandığ
 Maddesinin e, g, h maddeleri ile alınan daire bedellerini ödeyenlere kat irtifakı tapusunun verilmesi, kooperatif yönetiminin eski yapımcı firmanın yapım yetkisinin iptal edilerek inşaat eksikliklerinin tamamlanması konusunda yetkili kılınmasına ve şerefiye paylarının belirlenmesine ilişkin kararların batıl sayılmasını gerektiren herhangi bir yönünün bulunmadığı, iptale tabi kararlardan olduğu ve iptalinin de 1 aylık hak düşürücü süre içerisinde istenmediği bu nedenle mahkemece bu kararlar yönünden davanın reddine karar verilmesinde usul ve yasaya aykırı bir yön bulunmadığı, buna göre davacı tarafça ileri sürülen istinaf nedenlerinin yerinde olmadığı, mahkemece delillerin takdirinde ve yasa kurallarının olaya uygulanmasında bir isabetsizlik görülmediği, davanın reddine ilişkin kararda kamu düzenine aykırı herhangi bir husus bulunmadığı, kararın usul ve esas yönünden hukuka uygun olduğu anlaşıldığından davacı vekilinin istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b-1 maddesi uyarınca esastan reddi gerektiği sonuç ve kanaatiyle aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Antalya BAM 7. HD 2024/332 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012505900)
 
 Davacı vekili tarafından, davalı yükleniciden haricen satın aldığı ve kat karşılığı inşaat sözleşmesi nedeni ile inşaatı yapılan bağımsız bölüm hakkında açtığı tapu iptali ve tescil/ olmadığı takdirde bedel istemli davada ilgili bağımsız bölümün üçüncü kişilere devir ve temlikinin önlenmesi için tapu kaydına ihtiyati tedbir konulmasını talep etmiştir.
 
@@ -149,8 +145,6 @@ Konut Yapı Kooperatifler Birliğine yetki verilmesine karar verildiği, maddeni
 kooperatif uygulamalarına ters olduğu, Genel kurulun hangi işlemin yapılacağına açık bir şekilde karar vermesi gerektiği, kanun ve anasözleşme hükümleri gereğince satılacak gayrimenkulün asgari fiyatının belirlenmesi genel kurula ait bir yetki ise de genel kurulların bu yetkisini yasa ve afaki iyiniyet kuralları çerçevesinde kullanacağı, Satılacak gayrimenkulün 40.000 ile 250.000 TL. gibi çok açık aralıkta bir fiyata satılmasına karar vermenin yönetim kuruluna ucu açık bir yetki tanımak olacağı ve iyiniyet kuralları ile bağdaşmayacağı, davacıların alınan kararların ortaklara ek ödeme yükleyecek kararlardan olduğunu ve bu kararların 2/3 çoğunlukla alınması gerektiğini iddia etmişlerse de alınan bu kararların kooperatif hukuku açısından ek ödeme mahiyetindeki kararlardan olmadığı, bu hususta esasen 2014/284 esas sayılı dosyada verilmiş bulunan bilirkişi raporunda açıklandığı, 5. Ve 7. Maddelerin iptali gerektiği belirtilmiştir. Bilirkişiler ek raporlarında kök raporu tekrar etmişlerdir.
 
 ## Ankara BAM 21. HD 2022/1171 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/816019100)
 
 Davalılar vekili cevap dilekçesinde özetle; açılan davayı kabul etmediklerini, müvekkillerinden ...'in 19.09.2017 tarihli Genel kurul kararı ile dava şirket müdürü olarak yetkili kılındığını, şirketin faaliyet konusu olan kat karşılığı inşaat işi kapsamında şirkete ait olması gereken bağımsız bölümlerin usulsüz şekilde davalılar adına tescil edildiği iddiasının doğru olmadığını, davacının her seferinde şirket menfaatinin önüne geçip kendi çıkarlarını düşünerek davalar açtığını, 19.09.2017 tarihli genel kurul kararının yok hükmünde olduğunun tespitine ilişkin Ankara 2.Ticaret Mahkemesinin 2018/56 esas sayılı dosyası ile verilen kararın henüz kesinleşmediğini şirketin 2012 yılından beri içinde bulunduğu maddi sıkıntılar nedeniyle taşınmazların iskan izinlerinin alınamadığını, SGK prim borçlarının ödenemediğini, müvekkillerinin şahsi mal ve paraları ile şirketi idame ettirmeye çalıştıklarını belirterek davanın reddine karar verilmesini istemiştir.
 

@@ -29,8 +29,6 @@ Mahkemece alınan 21/05/2019 tarihli muhasebe bilirkişisine ait ek raporda; dav
 
 ## Antalya BAM 11. HD 2023/1663 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/945719100)
-
 HMK m. 359/3 uyarınca; dosya kapsamındaki yazı, belge ve bilgiler, yasaya uygun gerektirici nedenler, sunulan delillerin taraflar arasında bir adi ortaklık ilişkisi bulunduğunu yaklaşık olarak ispatlar nitelikte olmaması, mevcut delil durumunun tedbir kararı vermek için yeterli olmaması karşısında; davacı vekilinin istinaf itirazları yerinde görülmediğinden HMK m. 353/1-b-1. gereğince istinaf başvurusunun esastan reddine karar vermek gerektiği anlaşıldığından aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 3. HD 2023/1478 K.

@@ -72,8 +72,6 @@ Asıl davada davalı-karşı davacı / birleşen davada davacı .... Şti. vekil
 
 ## Antalya BAM 11. HD 2023/294 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/867098800)
-
 Davacı vekili dilekçesinde özetle; davalıların murisi ....’nin tahliyesi üzerine müvekkiline 08/06/2018 tarihinde yedi emin olarak teslim edilen menkul malların 23/03/2018-23/05/2018 tarihleri arasındaki yedi emin ücretinin ödenmediğini, tahsili için Antalya 9. İcra Müdürlüğü'nün ... Esas sayılı dosyası üzerinden girişilen icra takibi- ne itiraz edildiğini belirterek; itirazın iptaline ve %20 den az olmamak kaydıyla icra inkar tazminatına hükmedilmesine karar verilmesini talep etmiştir.
 
 …
@@ -127,8 +125,6 @@ objektif süre sonunda da şayet yüklenici borcunu ifa etmemişse, ancak o vaki
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacılar vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 1. Asliye Ticaret Mahkemesi'nin 28/11/2019 tarih, 2015/1101 Esas, 2019/1216 Karar sayılı kararının KALDIRILMASINA …
 
 ## Konya BAM 5. HD 2022/1755 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/872355400)
 
 Davalı ... vekili davaya cevap dilekçesinde özetle; davacı şirket tarafından 15/01/2016 tarihinde Konya ... Noterliğinde ...
 
@@ -201,8 +197,6 @@ Bu durumda mahkemece şahsi hak temlikinin adi yazılı sözleşme ile yapılmas
 Somut uyuşmazlıkta davacı taşeron ile davalı yüklenici arasındaki sözleşme "alacağın temliki" mahiyetinde olup, bu sözleşmenin geçerli olması için TBK 183 maddesi uyarınca yazılı şekilde yapılması yeterlidir. Bu itibarla "Tam Yüklenici Sözleşmesi" ile davalı şirket tarafından davacıya verilmesi taahhüt edilen davaya konu taşınmazın tapusunun iptali ve davacı adına tescilinin istenmesine hukuki bir engel yoktur. Mahkemece işin esasına girilerek tarafların iddia ve savunmaları irdelenip, bildirdikleri toplanarak, hasıl olacak sonuç doğrultusunda hüküm kurulması gerekirken, somut olaya uygun düşmeyen gerekçe ile davanın reddine karar verilmesi hatalı olmuştur.
 
 ## Ankara BAM 27. HD 2022/255 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740590500)
 
 Davacı vekili; müvekkilinin ... ilçesi 47624 ... 11 ... sayılı taşınmazdaki binaya ... cephe, cam giydirme ve dükkan doğramaları imalatı ve işçiliğini yaptığını, bu işlerin yapımı ve bedelinin ödenmesi için davalı ... ... Ltd.
 

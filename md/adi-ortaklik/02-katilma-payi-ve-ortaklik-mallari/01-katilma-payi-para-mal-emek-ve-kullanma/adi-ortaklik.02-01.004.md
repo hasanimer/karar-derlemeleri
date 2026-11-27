@@ -116,8 +116,6 @@ Ayrıca HMK 202.madde gereğince "delil başlangıcı" bulunan hallerde 203/1 md
 
 ## Bursa BAM 14. HD 2023/1915 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153831100)
-
 Dava, eser sözleşmesinden kaynaklanan iş sahibinin, yüklenicinin işin ayıplı, eksik ve geç ifa nedenine dayalı alacağın tahsili istemine ilişkin olup mahkemece yukarıdaki gerekçelerle görevsizlik kararı verilmiştir.
 
 …

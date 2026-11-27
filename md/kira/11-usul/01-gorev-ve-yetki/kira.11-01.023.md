@@ -44,8 +44,6 @@ Eldeki uyuşmazlık taraflar arasındaki kira sözleşmesinden kaynaklandığın
 
 ## Antalya BAM 1. HD 2022/989 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/777429800)
-
 Asliye Ticaret Mahkemesi ve Asliye Hukuk Mahkemesince verilen görevsizlik kararları üzerine Antalya Bölge Adliye Mahkemesi 5. HD tarafından görevli mahkemenin Asliye Ticaret Mahkemesi olduğununun belirlenmesi üzerine, Asliye Ticaret Mahkemesince davanın kısmen kabulüne 112.079,73 USD'nin ödeme günündeki dolar kuru üzerinden Türk Lirası'na çevrilerek kira sözleşmesinin yapıldığı 24/11/2014 tarihinden itibaren işleyen yasal faizi ile birlikte davalıdan tahsili ile davacıya verilmesine, davacının fazlaya ilişkin talebinin reddine karar verilmesi üzerine taraf vekillerince istinaf kanun yoluna başvurulmuştur.
 
 ## İzmir BAM 6. HD 2022/2614 K.
@@ -56,8 +54,6 @@ Davanın açıldığı Karşıyaka 1.Sulh Hukuk Mahkemesince sözleşmenin alan 
 
 ## Antalya BAM 5. HD 2022/1423 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/767579800)
-
 Dosyanın incelenmesinde; davacının dava dilekçesi içeriği ve talep sonucuna göre kira ilişkisi nedeniyle verilen kambiyo senetlerden dolayı borçlu olmadığı tespitini talep ettiğine göre bu haliyle davaya bakmakla görevli mahkemenin sulh hukuk mahkemesi olduğu görülmekle Alanya 3. Sulh Hukuk Mahkemesinin 08/12/2021 tarih ... Esas, ... Karar sayılı görevsizlik kararının kaldırılmasına karar vermek gerekmiş aşağıda hüküm tesis olunmuştur.
 
 ## Adana BAM 4. HD 2022/1660 K.
@@ -67,8 +63,6 @@ Dosyanın incelenmesinde; davacının dava dilekçesi içeriği ve talep sonucun
 Uyuşmazlığın her iki tarafının da tacir olup, dava konusu alacağın davalı ve davacıya ait taşınmazın kiralanmasına ilişkin alacağa ilişkin olduğu, ticari şirketlere ait bir taşınmazın kiralanması işinin şirkete gelir elde etmek amacıyla olduğunun kabulü ile bu suretle davanın nisbi ticari dava olduğu, ve neticeten uyuşmazlığın davacının ve davalının ticari işine ilişkin olduğu anlaşıldığından uyuşmazlığın çözümünde 6102 Sayılı Türk Ticaret Kanunu'nun 4. ve 5. maddeleri uyarınca Ticaret Mahkemesi'nin görevli olduğu, yargılamaya Mersin 2. Asliye Ticaret Mahkemesinde devam edilmesi gerektiği anlaşılmıştır.
 
 ## Antalya BAM 6. HD 2022/950 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762694700)
 
 Eş söyleyişle, davacı eldeki uyuşmazlığı, taraflarca getirme ilkesi kapsamında, haksız el atma hukuki sebebine dayanarak yargılama mercii önüne getirdiğine göre mahkemece yapılması gereken talebin bu kapsamda değerlendirilmesinden ibarettir. Görev kamu düzenine ilişkin olmakla birlikte mahkeme davacıya, olayımızda olduğu gibi, davanı kira sözleşmesine dayanarak sulh hukuk mahkemesinde açmalıydın diyerek görevsizlik kararı veremez. Taraflarca getirme ve taleple bağlılık ilkesi buna engeldir.
 
@@ -123,13 +117,9 @@ Maddesinde personel olmadan kiraya verildiği hüküm altına alınmış olup, 8
 
 ## Antalya BAM 5. HD 2022/406 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733174500)
-
 Somut olayda, taraflar arasındaki temel ilişki, kira sözleşmesinden kaynaklanan alacağın tahsili olduğundan, kira alacağın devri halinde de alacak hakkı devralana geçeceğinden, uyuşmazlığın çözümünde kira sözleşmesi hükümleri uygulanacağından ve uyuşmazlığın çözümünde Sulh Hukuk Mahkemesinin görevli olduğu anlaşıldığından, Alanya 3.Sulh Hukuk Mahkemesi ... esas ... karar ve 12/11/2021 tarihli görevsizlik kararının kaldırılmasına karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Antalya BAM 6. HD 2022/322 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/738226400)
 
 Kira ilişkisinden kaynaklanan eldeki davada Sulh Hukuk Mahkemesi'nin görevli olacağı ve görevin kamu düzenine ilişkin olduğu, ihtiyati tedbir isteminin de Sulh Hukuk Mahkemesince karara bağlanması gerekirken, Asliye Ticaret Mahkemesince talebin değerlendirilerek ihtiyati tedbir isteminin reddine karar verilmesi doğru görülmediğinden davacı vekilinin istinaf isteminin kabulü ile ilk derece mahkemesinin ara kararının HMK'nın 353/1-a.3 maddesi gereğince kaldırılmasına karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
@@ -151,8 +141,6 @@ Esas sayılı dosyasından borçlu olmadığının tespitine, davacının kötü
 E. sayılı dosyası ile takip başlatıldığı, davacıların haksız ve hukuki dayanaktan yoksun itirazları üzerine takibin durduğu ve İstanbul 7 Asliye Ticaret Mahkemesinin 2015/1092 E. sayılı dosyası ile itirazın iptali davası açıldığı, 4-Ayrıca temlik veren ... A. O. Tarafından belirtildiği üzere, murisin 2011 yılında temerrüde düşmesi üzerine hakkında icra takibi yapılmış olup, bu takibin iptal edildiği, bu zaman zarfında zamanaşımının yeniden işlemeye başladığı, 5-Bilirkişi raporuna itiraz dilekçesinde de açıkça belirttikleri üzere takibe dayanak trafik cezalarının ödemeleri 2011 yılında yapılmış olup, takip ve dava masraflarının da 2011 yılında tahakkuk ettiği, 6-Yerel Mahkeme kararında da “İstanbul ... İcra Müdürlüğü’nün ... E. sayılı dosyası ile başlatılan icra takibine dayanak olarak gösterilen trafik cezalarına ilişkin, icra ve birleşen dava dosyalarında mevcut bulunan vergi dairesi alındılarının tetkikinde, ... plakalı araç için 9.332.21.-TL ve ... plakalı araç için ise -5.427.25.-TL olmak üzere 21/06/2011 tarihinde davalı tarafından T.C.
 
 ## Antalya BAM 6. HD 2022/262 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/732609600)
 
 Görev kuralları kamu düzenine ilişkin olup, bu hususun yargılamanın her aşamasında re'sen gözetilmesi gerekir. Somut olayda her ne kadar davalı banka yönünden davanın bankacılık işleminden kaynaklanması nedeni ile davaya asliye ticaret mahkemesince bakılmış ise de diğer davalılar .... ve ... yönünden uyuşmazlığın kira ilişkisinden kaynaklanması nedeni ile ilgili davalılar yönünden dosya tefrik edilerek Sulh Hukuk Mahkemesine görevsizlik nedeni ile gönderilmesi gerekirken bu hususun dikkate alınmaması doğru görülmemiştir.
 

@@ -74,6 +74,4 @@ Yukarıda değinilen hususlar çerçevesinde somut olaya bakıldığında, eldek
 
 ## Konya BAM 1. HD 2023/866 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/901845100)
-
 Kayıt malikinin mülkiyeti kötü niyetle kazandığı ileri sürülmüşse, üçüncü kişinin ayni hakkın yolsuz olarak tescil edildiğini bilen veya bilmesi gereken şahıs olup olmadığına bakılması gerekir. Çünkü, TMK'nın 1024 üncü maddesi uyarınca bir ayni hak yolsuz olarak tescil edilmişse bunu bilen veya bilmesi gereken üçüncü kişilerin yolsuz olan bu tescile dayanma olanakları yoktur. Bağlayıcı olmayan bir hukuki işleme dayanan ve hukuki sebepten yoksun bulunan tesciller yolsuz tescil sayılacağından, hakkı zedelenen üçüncü kişinin iyi niyetli olmayan malike karşı doğrudan doğruya şahsi hakkına dayanması mümkündür.

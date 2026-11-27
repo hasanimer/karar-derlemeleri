@@ -242,8 +242,6 @@ Davacının, temyiz itirazları değinilen yönden yerindedir. Kabulüyle, hükm
 
 ## Bursa BAM 5. HD 2024/1083 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148371500)
-
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ:İlk derece mahkemesince yapılan duruşma sonucunda, tapu iptali ve tescili istemli açılan davada tedbire konu taşınmazın davanın konusu teşkil etmesi ve HMK.nun 389 madde koşullarının mevcut olması dolayısıyla ihtiyati tedbir kararı verildiği, verilen tedbir kararının belirlenen teminat tutarının dosya kapsamına uygun olduğu, ihtiyati tedbir kararının verilme koşullarında herhangi bir değişiklik olmadığı gerekçesiyle davalı ... vekilinin tedbire itirazının reddine karar verilmiştir.
 
 …

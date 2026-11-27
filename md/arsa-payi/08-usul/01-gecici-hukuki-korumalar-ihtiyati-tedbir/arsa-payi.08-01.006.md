@@ -49,8 +49,6 @@ Mevcut yasal düzenlemeler karşısında, delil tespitinin bir dava niteliğinde
 
 ## Konya BAM 5. HD 2026/794 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205348800)
-
 Davacı vekili istinaf başvuru dilekçesinde özetle, dosyada bulunan mevcut deliller, yazılı eser sözleşmesi, Konya ... Sulh Hukuk Mahkemesi ... D.iş sayılı dosyasında yapılan tespitler, davalının sözleşme gereği vermeyi vaadettiği daireleri vermemesi ve sözleşme gereği davacıdan aldığı senetleri de tahsil etmesi birlikte değerlendirildiğinde yaklaşık ispatın fazlası ile sağlandığını belirterek, inşaatçı ipoteği tesisi ihtiyati tedbir ve ihtiyati haciz taleplerinin reddine ilişkin 10.03.2026 tarihli ara kararının kaldırılarak talep doğrultusunda yeniden karar verilmesini istemiştir.
 
 …
@@ -79,8 +77,6 @@ Maddenin birinci fıkrasına göre, ihtiyati haciz isteyebilmek için, alacağı
 
 ## Gaziantep BAM 11. HD 2026/706 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207979400)
-
 Dairemizce yapılan inceleme sonucunda; dosyadaki belgelere, kararın dayandığı delillere, duruşma sürecini yansıtan tutanaklara ve gerekçe içeriğine göre, mahkemece taraflar arasındaki uyuşmazlığın somut olayın özelliklerine uygun olarak belirlendiği, yargılamanın HMK'da belirtilen usullere uygun olarak yürütüldüğü, taraflarca gösterilen hükme etki edecek delillerin usulüne uygun olarak toplandığı, delillerin takdirinde ve yasa kurallarının olaya uygulanmasında bir isabetsizlik görülmediği, kararda kamu düzenine aykırı herhangi bir husus bulunmadığı, 2004 sayılı İİK'nın 257 ve devamı maddeleri uyarınca ihtiyati haciz kararı verilebilmesi için alacağın yaklaşık olarak ispatlanması gerektiği, dosyaya sunulan belgeler itibariyle henüz bu ispatın sağlanamadığı bu sebeple kararın usul ve esas yönünden hukuka uygun olduğu anlaşıldığından talep eden vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## İstanbul BAM 15. HD 2026/697 K.
@@ -98,8 +94,6 @@ eser sözleşmesinden kaynaklanmaktadır.
 geçerlilik şekline (resmî şekle) uyulmadan yapılması, bu ek sözleşmeyi kesin olarak hükümsüz (batıl) kılar. Bunun istisnası ek sözleşme gereğince edimlerin yapılması olup, ek sözleşme kapsamında iyiniyetli bir edim yerine getirildiğine ilişkin dava dosyasına delil sunulmamıştır.Taraflar arasındaki asıl sözleşme resmi şekilde yapılmış olup, bu sözleşmeye ek olarak aynı gün tanzim edilen ek sözleşme ise adi yazılı şekilde düzenlenmiştir. 6098 sayılı TBK'nın 13. maddesi ve Yargıtay Hukuk Genel Kurulu'nun emsal (K: 2020/553) kararı uyarınca; resmi şekle tabi bir sözleşmeyi değiştiren, borcun muhtevasını genişleten veya akitten doğan borçları ağırlaştıran anlaşmalar için şekil zorunluluğu kesindir. Adi yazılı şekilde yapılan ek sözleşme ile asıl sözleşmede bulunmayan ağırlaştırıcı mahiyetteki 3.000.000 TL bedelli teminat senedi verme yükümlülüğünün kararlaştırılması hukuken geçersiz (kesin hükümsüz) olup, geçersiz sözleşmeye dayanılarak verilen teminat senedinin bedelsiz kaldığı ve bu senede dayalı olarak alacak veya icra talebinde bulunulamayacağı açıktır.Mahkemece bu hususlar dikkate alınarak davanın reddine (veya takibin iptaline/menfi tespitin kabulüne) karar verilmesi gerekirken …
 
 ## Gaziantep BAM 11. HD 2026/643 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203627900)
 
 2004 sayılı İİK m. 257'ye göre ihtiyati haciz kararı verilebilmesi için alacağın yaklaşık olarak ispatlanmış olması gerekmektedir. Davacı alacağın yaklaşık olarak ispat edildiğine kanıt olarak faturayı göstermiştir. Fatura tek başına malın teslim edildiğinin kabulü için yeterli değildir.. Bu nedenle mahkemenin verdiği kararda usul ve yasaya aykırı bir yön bulunmamaktadır.
 
@@ -184,8 +178,6 @@ Mahkeme, ilgilileri dinlemek üzere davet eder; gelmedikleri takdirde dosya üze
 Diğer taraftan, ihtiyati tedbir talebinin kabul edilebilmesi bakımından HMK'nun 390/3. maddesinde ihtiyati tedbir isteyenin haklılığı konusunda tam kanaat değil, kuvvetle muhtemel yaklaşık bir kanaatin yeterli olacağı öngörülmüş olup, Yasanın hükümet gerekçesinde de belirtildiği üzere yaklaşık ispat durumunda "...hakim o iddianın ağırlıklı ihtimal olarak doğru olduğunu kabul etmekle birlikte zayıf bir ihtimalde olsa aksinin mümkün olduğu ihtimalini göz ardı edemez... bu sebepledir ki haksız olma ihtimali de dikkate alınarak talepte bulunandan teminat alınması..." hükme bağlanmıştır.
 
 ## Konya BAM 6. HD 2026/355 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201867500)
 
 İlk derece mahkemesinin 03/12/2025 tarihli yüze karşı verilen ara kararı ile tedbirin değiştirilmesine karar verildiği, bu karara karşı davalılar ...... ile ...'in 10/12/2025 tarihli dilekçeleri ile itiraz ettikleri, davalıların bu talebinin istinaf dilekçesi mahiyetinde olduğu, ilk derece mahkemesince dosyanın istinaf incelemesi yapılmak üzere Bölge Adliye Mahkemesi'ne gönderilmesi gerekirken 31/12/2025 tarihli itirazı değerlendirmesine ilişkin kararının yok hükmünde olduğu, davalıların 10/12/2025 ve 26/01/2026 tarihli dilekçelerindeki istinaf taleplerinin 03/12/2025 tarihli ara kararına yönelik olduğu değerlendirilerek yapılan incelemede; Hukuk Muhakemeleri Kanununun 395 ve 396. maddeleri gereğince; durum ve koşulların değişmesi sebebiyle ihtiyati tedbirin değiştirilmesi veya kaldırılmasına ilişkin kararlara karşı HMK 394. maddenin 3. ve 4. fıkralarının kıyas yolu ile uygulanacağı belirtilmesine rağmen kanun yoluna başvurulabileceği belirtilen aynı maddenin 5. fıkrasının uygulanacağı belirtilmediğinden kanun koyucunun bu tür kararlara karşı istinaf kanun yolunun kapalı olduğunu amaçladığı ve bu düşünceyi destekleyen Yargıtay 11. Hukuk Dairesi'nin ... E. ...
 K. sayılı kararındaki düşünceler dairemizce de benimsendiğinden davalıların ilk derece mahkemesince verilen 03/12/2025 tarihli ara kararına karşı istinaf yoluna başvurmaları yasal olarak mümkün olmadığı sonuç ve kanaatiyle davalılar ...... ile ...'in istinaf yoluna başvuru dilekçelerinin HMK 396 ve 346. maddeleri gereğince reddine ilişkin aşağıdaki şekilde hüküm kurulmuştur.

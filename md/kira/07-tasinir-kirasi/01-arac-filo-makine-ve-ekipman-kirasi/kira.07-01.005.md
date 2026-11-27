@@ -52,8 +52,6 @@ Motorlu araç zarar görmüş ise, aracın kullanılış amacına göre araçtan
 
 ## Gaziantep BAM 4. HD 2026/1148 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203591200)
-
 ...Asliye Ticaret Mahkemesince, davacı ile davalının .. yılında dava dışı . .. Anonim Şirketinin açmış olduğu .. ay süreli araç kiralama ihalesine girdikleri, ihale kendilerinde kaldıktan sonra iş ortaklığı beyannamesi doğrultusunda hak ve yükümlülükler üstelendikleri, pilot ortak olarak davalının belirlendiği, kira bedellerinin davacı tarafından davalıya fatura edileceği, bu ihale kapsamında davacının hak ettiği ödemelerin davalı tarafından yapılacağı ancak davalının ödeme yapmadığı ileri sürülerek takip başlatıldığı, davalının itirazı üzerine itirazın iptali talebiyle işbu davanın açıldığı anlaşılmıştır. Her ne kadar . .. Sulh Hukuk Mahkemesince mahkememizin görevli olduğundan bahisle görevsizlik kararı verilmiş ise de; dava konusu alacak miktarının tespitinin, kira sözleşmesi hükümlerine aykırı davranış bulunup bulunmadığının belirlenmesinin, zararın tespitinin ve davalının belirtmiş olduğu teminat mektubunun dava dışı . . AŞ tarafından paraya çevrilmesinin yerinde olup olmadığı hususunun ancak dava konusu araç kiralama sözleşmesinin değerlendirilmesi ile açıklığa kavuşacağı anlaşıldığı gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## İstanbul BAM 43. HD 2026/694 K.
@@ -94,8 +92,6 @@ istinaf yasa yoluna başvurmuştur. Dava, maddi hasarlı trafik kazası nedeniyl
 Takibe konu bono sureti incelendiğinde üzerinde "teminat" olduğuna dair bir kaydın bulunmadığı, dava dışı araç kiralama şirketinin icra dosyasında taraf olarak yer almadığı, takip dayanağının bono olarak gösterildiği ve uyuşmazlığa konu bonoda davalının lehtar olarak bulunması karşısında ilk derece mahkemesince ispat külfetinin tayini ve karar gerekçesi yerinde olmadığı gibi davalının dava dışı şirketin muhasebecisi olduğuna ve kiralama işlemlerinin davalı tarafından yapıldığında dair iddianın da araştırılmaksızın eksik incelemeye dayalı hüküm kurulması yerinde değildir.
 
 ## Antalya BAM 16. HD 2026/362 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202365000)
 
 Davacı tarafın araç kiralama sözleşmesi ilişkisini ispatlaması halinde, sözleşmenin şoförlü araç kiralama hizmetine ilişkin olup olmadığı mahkemenin görevi noktasında önem arz etmektedir.Taraflar arasında kurulan sözleşmenin şöförlü araç kiralama sözleşmesi olması durumunda taraflar arasında taşımacılık sözleşmesi kurulmuş olup bu durumda görevli mahkeme Asliye Ticaret Mahkemesi olacaktır. Buna karşılık sadece araç kiralama sözleşmesi olması durumunda taraflar arasında kira sözleşmesi kurulmuş olup bu durumda görevli mahkeme Sulh Hukuk Mahkemesi olacaktır(Yargıtay 3. Hukuk Dairesinin 2017/6402 E. 2019/2883 K. Sayılı ilamı ).
 
@@ -171,8 +167,6 @@ Eldeki davada, mahkemece; öncelikle taraflar arasındaki sözleşmenin niteliğ
 Sözleşmenin niteliği ve mahkemenin görevi belirlenmeden, bu kapsamda tarafların iddia ve savunmaları alınmadan verilen kararın bu haliyle usul ve yasaya aykırı olduğu anlaşılmıştır.
 
 ## Antalya BAM 4. HD 2026/58 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199137800)
 
 Taraflardan davacı araç kiralama işleri ile iştigal eden tacir olup, bu nedenle tacir sıfatına haizdir. Ancak davalının tacir sıfattı bulunmamaktadır. Davanın konusu ise haksız fiile dayalı maddi tazminat niteliğinde olduğundan davaya bakmaya Asliye Hukuk Mahkemeleri görevlidir.
 

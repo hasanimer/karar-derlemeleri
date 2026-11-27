@@ -70,8 +70,6 @@ Davanın açıldığı Fethiye 2. Sulh Hukuk Mahkemesince. davacı ile davalı a
 
 ## Konya BAM 4. HD 2024/904 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1007857300)
-
 Somut olayda; tarafların 01/01/2011 başlangıç tarihli ve 15 yıl süreli kira sözleşmesi düzenledikleri, davacının 2021 ve 2022 yılı kira bedellerinin eksik ödendiği iddiasıyla dava hakkında icra takibi yaptığı, takibe itiraz edilmesi üzerine eldeki davanın açıldığı, ilk derece mahkemesi ise görevsizlik kararı verdiği, davacı vekilinin hükmü istinaf etmesi nedeniyle dosyanın Dairemize gönderildiği anlaşılmıştır. Bu durumda, yukarıda belirtildiği gibi, taraflar arasındaki uyuşmazlığın 01/01/2011 başlangıç tarihli kira sözleşmesi hükümlerince ve Türk Borçlar Kanunu'ndaki kiraya ilişkin düzenlemeler çerçevesinde çözüme kavuşturulması gerektiği açık olup ilk derece mahkemesinin 6100 sayılı HMK'nın .maddesi uyarınca görevsizlik kararı vermesinde bir isabetsizlik görülmemiştir.
 
 ## Kayseri BAM 3. HD 2024/256 K.
@@ -131,19 +129,13 @@ müşavir, inşaat mühendisi ve nitelikli hesap uzmanı bilirkişisinden oluşa
 
 ## Antalya BAM 11. HD 2024/27 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993577100)
-
 Davanın dayanağı sözleşme "mecra kiralama sözleşmesi" başlığını taşımaktadır. Mahkemece sözleşmenin hukuki niteliğinin re'sen belirlenmesi gerekir. Davaya dayanak yapılan sözleşmenin incelenmesinde; davacı tarafça üçüncü kişilerden (..... ve diğer idari kurumlar...) temin ettiği yerlerde reklam panoları teşhir etme sözleşmesi olduğu, reklam panoları üzerinde her türlü işlem, fiili müdahale, reklam asma ve değişikliklerin sadece davacı tarafından yapılacağını, reklam verenin reklam panolarına hiçbir halde ve şekilde müdahalede bulunamayacağının belirtilmesi karşısında taraflar arasında kira sözleşmesi bulunmadığı, reklamın yayınlandığı iddia edilen yerlerin davacının kontrolünde olmadığı, her iki tarafın tacir olduğu ve ihtilafın ticari nitelikli olduğu gözetilerek asliye ticaret mahkemesinin görevli olması nedeniyle (aynı yöndeki içtihat için bknz Yargıtay 23. Hukuk Dairesi'nin 09/10/2019 tarih 2017/149 Esas, 2019/4143 Karar sayılı ilamı) yargılamaya devam edilerek tarafların delilleri toplanıp esas hakkında karar vermesi gerekirken yanılgılı değerlendirme ile görevsizlik kararı verilmesi hatalı olduğundan davacı vekilinin istinaf talebinin yerinde olduğu anlaşılmıştır.
 
 ## Konya BAM 6. HD 2024/117 K.
 
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/996591300)
-
 Somut olayda, taraflara arasında 27.07.2017 tarihli Transatlantik Hotel Kira Sözleşmesi'nden kaynaklı kira ilişkisi bulunduğu, takibe ve davaya konu alacak talebinin, davalı kiralayanın sorumluluğunda olan mali yükümlülüklerin yerine getirilmediği iddiasına dayalı olarak, tahakkuk eden ve davacı tarafça ödenen vergi cezalarının davalıdan rücuen tahsiline ilişkin olduğu, alacak talebine ilişkin uyuşmazlığın taraflar arasında bulunan kira ilişkisinden kaynaklandığı, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalara bakmakla görevli mahkemenin Sulh Hukuk Mahkemesi olduğu kanaatine varıldığından, davacı vekilinin istinaf talebinin HMK'nın 353/1.b.1 maddesi gereğince esastan reddi gerektiği sonuç ve kanaatiyle aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Konya BAM 3. HD 2023/3015 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976984100)
 
 Bu halde somut olayda davalı büyükşehir belediyesi ile dava arasında kira sözleşme ilişkisinin varlığının sabit olmasına göre,kira aktinin tarafı olmayan davalı meram belediyesinden de munzam zararın tazmini talebinin olmasına göre, davada asıl çözümlenmesi gereken ve tartışılması gereken hususun kira sözleşmesine aykırılık kapsamında bulunmasına, Davacının dayandığı vakıaya göre uyuşmazlığın, aralarındaki 29.01.2013 tarihli kira sözlemesindeki düzenlemelere ve kira hukukuna göre çözülmesi gerektiği anlaşıldığından HMK m. 4/1.a, 114/1.c ve 115/2 uyarınca mahkemenin Sulh Hukuk Mahkemesine görevsizlik kararı vermesi gerekirken, davaya bakması isabetsiz olup, görev kamu düzenine ilişkin hususlardan olup re'sen gözetilmesi gerektiğinden dolayı, su sebeple davacının istinafının kabulü ile kararın kaldırılarak mahkemesine gönderilmesi gerekmiştir.
 
@@ -187,8 +179,6 @@ mahkeme kararının yerinde olmadığı, istinaf sebebi değişik gerekçe ile y
 Davacı kiralayan tarafından, kiralamaya konu jeneratör kira bedeli ile jeneratörün teslim edilmemesi nedeniyle mal bedelinin tahsili için girişilen icra takibine vaki itirazın iptali davasına ilişkindir. Talep zilyetlik hükümlerine göre talep edilmiş ise de taraflar arasında kiracı ve kiraya veren sıfatı ile kira ilişkisi bulunmaktadır. Uyuşmazlığın temeli kira ilişkisinden kaynaklandığına göre 6100 Sayılı HMK.nun 4/1-a maddesine göre davada Sulh Hukuk Mahkemesi görevlidir. Görev dava şartı olup yargılamanın her aşamasında hakim tarafından kendiliğinden gözönüne alınması gerekir. Mahkemece takibe konu kira alacağına yönelik talep bölünerek görevsizlik kararı verilmesi mal bedeline yönelik olarak ise işin esasına girişilmesi doğru olmamıştır.
 
 ## Konya BAM 6. HD 2023/2291 K.
-
-[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968117700)
 
 Talep konusu bonoda "... Sitesi F/1 giriş .....Mahallesi Kat:2 Daire:5 1 yıllık kira bedeli karşılığıdır'' ibaresinin bulunduğu, dosyada borçlu ile ...... arasında aynı daireye ilişkin olarak düzenlenen kira sözleşmesinin bulunduğu, ihtiyati haciz talep eden tarafından bu taşınmazın satın alındığı, talep konusu bononun kira sözleşmesinin teminatı olarak verildiği, bu nedenle görevli mahkemenin 6100 sayılı HMK'nın 4/1-a maddesi uyarınca sulh hukuk mahkemesi olduğundan (Yargıtay 19.Hukuk Dairesi'nin 20.12.2016 tarih 2016/2830 Esas 2016/16023 Karar ve Yargıtay 3.Hukuk Dairesi'nin 08.05.2017 tarih 2017/11573 Esas 2017/6693 Karar sayılı ilamları), mahkemenin görevli olmaması nedeniyle borçlunun ihtiyati hacze itirazının kabulü ile ihtiyati haciz talebinin usulden reddine karar verilmesi gerekirken itirazın reddine karar verilmesi usul ve yasaya uygun olmadığından ihtiyati hacze itiraz eden borçlunun istinaf başvuru talebinin kabulü ile; ilk derece mahkemesi kararının kaldırılmasına, HMK'nın 353/1.b.2.maddesi gereğince yeniden karar verilmesi gerektiği sonuç ve kanaatiyle aşağıdaki şekilde hüküm kurulmuştur.
 
