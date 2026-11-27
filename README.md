@@ -1,10 +1,12 @@
 # Karar Derlemeleri (Markdown)
 
-Av. Hakan Dimdik'in X hesabında ([@hakandimdik](https://x.com/hakandimdik)) paylaştığı emsal karar derlemelerinin, başlık hiyerarşisi korunarak Markdown'a çevrilmiş hâli. Arama, not alma (Obsidian) ve yapay zekâ araçlarına yükleme için hazırlandı.
+**Derleyen: Av. Hakan Dimdik** ([@hakandimdik](https://x.com/hakandimdik))
+
+Bu depodaki emsal karar derlemelerinin tamamını Av. Hakan Dimdik hazırlamış ve X hesabında herkesin yararlanması için paylaşmıştır. Kararların seçimi, konulara göre tasnifi ve başlıklandırılması onun emeğidir. Bu depo yalnızca biçim dönüştürür: PDF'leri, başlık hiyerarşisini koruyarak Markdown'a çevirir; arama, not alma (Obsidian) ve yapay zekâ araçlarına yükleme kolaylaşsın diye.
 
 **35 derleme · 66.332 sayfa · yaklaşık 134.251 karar.** İndirme ve dönüştürme tarihi: 27.11.2026.
 
-> Derlemelerin içeriği ve emeği Av. Hakan Dimdik'e aittir. Bu depo kişisel kullanım içindir; içeriği başkalarıyla paylaşmadan ya da herkese açmadan önce kendisinden izin alınmalıdır. Güncel sürümler için özgün paylaşımlara bakın.
+> **Atıf.** Bu derlemelerden yararlanırken kaynak olarak Av. Hakan Dimdik'i gösterin. Her derlemenin altında özgün PDF'in ve paylaşıldığı gönderinin bağlantısı vardır; güncel sürümler için özgün paylaşımlara bakın. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Derleyenin talebi hâlinde içerik kaldırılır.
 
 ## İçindekiler
 
@@ -53,6 +55,7 @@ Av. Hakan Dimdik'in X hesabında ([@hakandimdik](https://x.com/hakandimdik)) pay
   - [Tahkime İlişkin Emsal Kararlar (V2)](#tahkime-ilişkin-emsal-kararlar-v2) — 41 s.
 - [Dönüştürme ve doğrulama](#dönüştürme-ve-doğrulama)
 - [Bilinen sınırlar](#bilinen-sınırlar)
+- [Atıf ve teşekkür](#atıf-ve-teşekkür)
 - [Yeniden üretme](#yeniden-üretme)
 
 ## Nasıl kullanılır
@@ -568,6 +571,14 @@ Her dosyanın yoklama, dönüştürme ve doğrulama çıktısı `log/<ad>.log` i
 - *Kira Hukuku V7*'de s. 1061 ve s. 4301 çevresinde 12 punto kalın olmayan bir bölüm var. Gövde metni başlık sanılmasın diye bu stil başlık sayılmadı; oradaki birkaç ara başlık (ör. "A. ARABULUCULUK ŞARTI SAĞLANMIŞ OLMAZ") düz paragraf olarak duruyor.
 - Alınmayanlar: eski sürümler (Kira V2–V6, Tahkim V1), karar derlemesi olmayan paylaşımlar (dilekçe örnekleri, sunumlar, bilgi notları) ve Tasarrufun İptali derlemesi.
 - X araması eksiksiz olmayabilir; Google Drive dışında bir bağlantıyla paylaşılmış derleme varsa burada yoktur.
+
+## Atıf ve teşekkür
+
+- **Derlemeler:** Av. Hakan Dimdik — [x.com/hakandimdik](https://x.com/hakandimdik). `kaynaklar.tsv` her derlemenin paylaşıldığı gönderiyi, `indir.tsv` özgün PDF'in Drive kimliğini tutar.
+- **Kira Hukuku derlemesi:** derleyenin belirttiği üzere Av. Yankı Büyüksezer'in paylaştığı kararlara da yer verilmiştir.
+- **Dönüştürme:** [pdf-md](https://github.com/hasanimer/pdf-md-skill).
+
+Önerilen atıf biçimi: *Av. Hakan Dimdik, "<derlemenin adı>", X (@hakandimdik), 2026.*
 
 ## Yeniden üretme
 
